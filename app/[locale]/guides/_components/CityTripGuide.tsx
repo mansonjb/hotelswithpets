@@ -192,7 +192,7 @@ export function CityTripGuide({ slug, routeSlugs, locale, copy: c, sticky }: Cit
                 <h3 className="text-3xl lg:text-4xl font-extrabold text-gray-900">{localCityName}</h3>
               </div>
               <Link href={`/${locale}/destinations/${city.slug}`} className="ml-auto text-sm font-semibold text-blue-600 hover:text-blue-800 hover:underline">
-                {locale === 'fr' ? 'Voir le guide complet →' : locale === 'es' ? 'Ver la guía completa →' : 'View full city guide →'}
+                {locale === 'fr' ? 'Voir le guide complet →' : locale === 'es' ? 'Ver la guía completa →' : locale === 'de' ? 'Vollständigen Reiseführer ansehen →' : 'View full city guide →'}
               </Link>
             </div>
 
@@ -234,12 +234,12 @@ export function CityTripGuide({ slug, routeSlugs, locale, copy: c, sticky }: Cit
                           <div className="flex items-center gap-2 mb-3 text-xs">
                             <span className="font-bold text-blue-700">{hotel.rating}/10</span>
                             <span className="text-gray-500">·</span>
-                            <span className="text-gray-600">{hotel.priceFrom} €{locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : '/night'}</span>
+                            <span className="text-gray-600">{hotel.priceFrom} €{locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'de' ? '/Nacht' : '/night'}</span>
                           </div>
                           <p className="text-xs text-gray-500 mb-4">
                             {hotel.petFee === 0
-                              ? (locale === 'fr' ? '🐾 Sans supplément animal' : locale === 'es' ? '🐾 Sin cargo por mascota' : '🐾 No pet fee')
-                              : (locale === 'fr' ? `🐾 Supplément ${hotel.petFee} €/nuit` : locale === 'es' ? `🐾 Cargo ${hotel.petFee} €/noche` : `🐾 Pet fee €${hotel.petFee}/night`)}
+                              ? (locale === 'fr' ? '🐾 Sans supplément animal' : locale === 'es' ? '🐾 Sin cargo por mascota' : locale === 'de' ? '🐾 Keine Haustiergebühr' : '🐾 No pet fee')
+                              : (locale === 'fr' ? `🐾 Supplément ${hotel.petFee} €/nuit` : locale === 'es' ? `🐾 Cargo ${hotel.petFee} €/noche` : locale === 'de' ? `🐾 Haustiergebühr ${hotel.petFee} €/Nacht` : `🐾 Pet fee €${hotel.petFee}/night`)}
                           </p>
                           <div className="flex flex-col gap-2">
                             <a href={allezUrl} target="_blank" rel="noopener nofollow sponsored" className="block w-full text-center bg-blue-600 hover:bg-blue-700 text-white text-xs font-bold py-2 rounded-lg transition-colors">

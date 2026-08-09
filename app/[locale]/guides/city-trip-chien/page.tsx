@@ -21,12 +21,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     fr: 'City trip en Europe avec son chien : Paris → Bruxelles → Amsterdam → Berlin (itinéraire 10 jours)',
     es: 'City trip por Europa con tu perro: París → Bruselas → Ámsterdam → Berlín (itinerario 10 días)',
     pt: 'City trip por Europa com tu cão: París → Bruxelas → Amesterdão → Berlim (itinerario 10 dias)',
+    de: 'Europäische Städtereise mit Ihrem Hund: Paris → Brüssel → Amsterdam → Berlin (10-Tage-Reiseplan)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 10-day train-friendly city-trip itinerary across four iconic European capitals with your dog. Recommended pet-friendly hotels, live Booking.com maps, transport rules and dog-walking spots in each city.',
     fr: "Itinéraire de 10 jours en train à travers quatre capitales européennes emblématiques avec votre chien. Hôtels pet-friendly recommandés, cartes Booking.com en direct, règles de transport et lieux de balade canine dans chaque ville.",
     es: 'Itinerario de 10 días en tren por cuatro icónicas capitales europeas con tu perro. Hoteles pet-friendly recomendados, mapas Booking.com en vivo, normas de transporte y lugares para pasear al perro en cada ciudad.',
     pt: 'Itinerario de 10 dias de comboio por cuatro icónicas capitales europeias com tu cão. Hotéis pet-friendly recomendados, mapas Booking.com en vivo, normas de transporte e lugares para pasear al cão en cada cidade.',
+    de: 'Ein 10-tägiger, zugfreundlicher Städtereise-Reiseplan durch vier ikonische europäische Hauptstädte mit Ihrem Hund. Empfohlene hundefreundliche Hotels, Live-Karten von Booking.com, Transportregeln und Gassi-Spots in jeder Stadt.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -237,6 +239,57 @@ const COPY: Record<string, RouteCopy> = {
       { q: 'E si mi cão pesa mais de 25 kg?', a: 'As cuatro cidades são aptas para cães grandes. O único punto crítico é o metro, onde trela + bozal ocasional são obrigatórios. Hotéis: a maioria dois de lujo aceitam até 25 kg, chama antes si o teu cão pesa mais.' },
     ],
   },
+  de: {
+    hero: {
+      tagline: 'STÄDTEREISE-PLAN · 10 TAGE · MIT IHREM HUND',
+      title: 'Eine zugfreundliche europäische Städtereise mit Ihrem Hund',
+      subtitle: 'Vier ikonische Hauptstädte, Paris, Brüssel, Amsterdam, Berlin, verbunden durch direkte hundefreundliche Züge. Tierfreundliche Hotels, Parks und die Live-Karte von Booking.com für jede Stadt.',
+    },
+    why: {
+      title: 'Warum diese Route für Hundebesitzer funktioniert',
+      bullets: [
+        'Jede Etappe ist ein direkter, hundefreundlicher Zug. Keine Flüge, kein Frachtraum, nur Spaziergänge an der Leine vom Bahnhof zum Hotel.',
+        'Alle vier Städte haben große eingezäunte Freilaufflächen in Parks, die in 20 Gehminuten von den zentralen Bahnhöfen erreichbar sind.',
+        'Keine Grenzformalitäten innerhalb des Schengen-Raums, Sie benötigen nur einen gültigen EU-Heimtierausweis mit aktueller Tollwutimpfung.',
+        'Jede Stadt hat mindestens eine 24-Stunden-Tierklinik, die Kontaktdaten finden Sie weiter unten in den praktischen Informationen.',
+        'Die Route vermeidet das Hitzestress-Risiko Südeuropas und ist auch im Sommer angenehm für kurzhaarige und brachycephale Rassen.',
+      ],
+    },
+    stats: { duration: 'Dauer', cities: 'Städte', transport: 'Transport', budget: 'Budget', durationVal: '10 Tage', citiesVal: '4 Hauptstädte', transportVal: 'Zug (Eurostar / Thalys / ICE)', budgetVal: '1.200 €–2.500 €' },
+    citiesIntro: { kicker: 'STADT FÜR STADT', title: 'Ihre Stopps, Ihre Hotels, Ihre Karte' },
+    cities: {
+      paris: { days: 'Tag 1–3', intro: 'Beginnen Sie in der Stadt, in der über 500.000 Hunde das Leben mit ihren Besitzern teilen. Paris ist ungewöhnlich entspannt gegenüber vierbeinigen Gästen: das Marais, Saint-Germain und der Canal Saint-Martin heißen angeleinte Hunde in Cafés und auf Terrassen willkommen. Der 850 Hektar große Bois de Boulogne und der 995 Hektar große Bois de Vincennes, beide mit der Metro erreichbar, geben Ihrem Hund nach langen Vormittagen im Museum Platz zum Laufen. Die Metro nimmt kleine Hunde in einer Tragetasche kostenlos mit; größere Hunde benötigen ein ermäßigtes Ticket und eine Leine.', highlight: 'Unbedingt mit Ihrem Hund: ein Spaziergang bei Sonnenuntergang entlang des Canal Saint-Martin', highlightDesc: 'Der 4,5 km lange Kanal zwischen République und La Villette ist vollständig autofrei, gesäumt von hundefreundlichen Café-Terrassen, und endet am 55 Hektar großen Parc de la Villette, wo Hunde auf den zentralen Rasenflächen ohne Leine laufen können.' },
+      brussels: { days: 'Tag 4–5', intro: `Zwei Stunden mit dem Thalys ab Paris-Nord. Brüssel ist eine der ruhigsten tierfreundlichen Hauptstädte Westeuropas: weniger überlaufen als Paris oder Amsterdam, mit einer ausgeprägten Cafékultur und dem riesigen Forêt de Soignes (4.400 Hektar Buchenwald) am südlichen Stadtrand. Bus, Straßenbahn und Metro nehmen Hunde kostenlos mit. Die meisten belgischen Restaurants und Geschäfte heißen Hunde ohne Weiteres willkommen, ein Wassernapf an der Tür ist ein gewohnter Anblick.`, highlight: 'Unbedingt mit Ihrem Hund: die Runde Bois de la Cambre + Forêt de Soignes', highlightDesc: `Nehmen Sie die Straßenbahn 7 bis Vivier d'Oie. Der Bois de la Cambre (122 ha) geht direkt in den Forêt de Soignes über, zusammenhängend 4.500 Hektar Buchenwald, mit Freilaufzonen rund um die Étangs de Boitsfort.` },
+      amsterdam: { days: 'Tag 6–8', intro: `Direkter Eurostar ab Brüssel-Midi (1h45). Amsterdam ist wie gemacht für Hunde: der Vondelpark (47 ha), der Westerpark und der Amstelpark haben alle Freilaufzonen; Straßenbahnen nehmen Hunde gegen ein kleines Ticket mit; die Grachten bieten stundenlanges Spazierterrain; und das gesamte Jordaan-Viertel ist mit wenig Verkehr ein Paradies für Hundespaziergänger. Achten Sie auf die Fahrräder, sie haben immer Vorfahrt und sind schnell.`, highlight: 'Unbedingt mit Ihrem Hund: die Morgenrunde im Vondelpark', highlightDesc: `Betreten Sie den Park um 8:00 Uhr am Eingang Stadhouderskade. Der 47 Hektar große Park hat mehrere Freilaufbereiche, und Sie treffen Hunderte Einheimische bei demselben Morgenritual. Danach Kaffee im 't Blauwe Theehuis, Hunde auf der Terrasse willkommen.` },
+      berlin: { days: 'Tag 9–10', intro: 'Direkter ICE ab Amsterdam Centraal (~6 Std., Hundeticket ~8 € bei der Deutschen Bahn). Berlin gilt weithin als die hundefreundlichste Hauptstadt Europas: schätzungsweise 100.000 angemeldete Hunde, Hunde in jeder U-Bahn- und S-Bahn-Linie, Hunde in Geschäften, Hunde in Büros. Der Tiergarten (210 ha mitten im Zentrum) und der Volkspark Friedrichshain haben riesige Freilaufflächen. Die Viertel Prenzlauer Berg und Kreuzberg sind voller hundefreundlicher Cafés.', highlight: 'Unbedingt mit Ihrem Hund: ein Spaziergang durch den Tiergarten und am Spreeufer', highlightDesc: 'Starten Sie am Brandenburger Tor, durchqueren Sie den Tiergarten bis zum Schloss Bellevue und folgen Sie dann der Spree bis zur Museumsinsel. Etwa 6 km, größtenteils Freilaufgebiet innerhalb des Parks. Einheimische machen Halt für eine Currywurst bei Curry 36, Hunde an den Stehtischen willkommen.' },
+    },
+    hotelsLabel: 'Empfohlene hundefreundliche Hotels',
+    bookLabel: 'Auf Booking.com buchen',
+    detailsLabel: 'Details',
+    mapLabel: 'Live-Karte, alle hundefreundlichen Hotels',
+    legsTitle: 'Transport zwischen den Städten',
+    legs: [
+      { from: 'Paris', to: 'Brüssel', duration: '~1h25', service: 'Thalys / Eurostar (direkt)', petRule: 'Kleine Hunde in der Tragetasche 7 €, größere Hunde 30 € (ein Ticket pro Hund).' },
+      { from: 'Brüssel', to: 'Amsterdam', duration: '~1h50', service: 'Eurostar / Thalys (direkt)', petRule: 'Gleiche Preise wie Paris–Brüssel. Der Hund reist neben Ihnen, nicht im Frachtraum.' },
+      { from: 'Amsterdam', to: 'Berlin', duration: '~6h20', service: 'Deutsche Bahn IC Berlin (direkt, 4-mal täglich)', petRule: 'Kleine Hunde kostenlos in der Tragetasche. Größere Hunde benötigen ein Hundeticket (halber Erwachsenenpreis, ~20–40 €) und müssen Maulkorb und Leine tragen.' },
+    ],
+    practicalTitle: 'Vor der Abreise: Papiere, Impfungen, Tierarztkontakte',
+    practicalBullets: [
+      'EU-Heimtierausweis mit gültiger Tollwutimpfung, bei jedem Hotel-Check-in erforderlich. Die Impfung muss mindestens 21 Tage zurückliegen und darf bei der Standard-Jahresimpfung nicht älter als 12 Monate sein.',
+      'Mikrochip ISO 11784/11785, in allen vier Ländern Pflicht. Muss mit der Nummer im Ausweis übereinstimmen.',
+      'Für diese Route ist keine Bandwurmbehandlung erforderlich (relevant nur für Großbritannien / Irland / Finnland / Norwegen / Malta).',
+      `Speichern Sie die vier 24-Stunden-Tierkliniken vor der Abreise in Ihrem Telefon: Paris (CHV des Cordeliers, +33 1 47 47 47 47), Brüssel (Vétérinaires d'Uccle, +32 2 374 80 99), Amsterdam (Medisch Centrum voor Dieren, +31 20 379 98 00), Berlin (Tierärztliche Klinik Falkenried, +49 30 8541 7099).`,
+      'Führen Sie stets einen weichen Maulkorb in Ihrer Tasche mit, er ist in den ICE/IC-Zügen der Deutschen Bahn sowie in den U-Bahnen von Brüssel und Berlin für größere Hunde vorgeschrieben.',
+    ],
+    faqTitle: 'Häufig gestellte Fragen',
+    faqs: [
+      { q: 'Kann ich diese ganze Reise wirklich ohne Flüge machen?', a: 'Ja. Alle drei Etappen sind direkte, hundefreundliche Züge. Die gesamte Zugzeit beträgt etwa 9h45, verteilt auf 10 Tage, für die meisten Hunde gut machbar, besonders mit längeren Stadtaufenthalten dazwischen.' },
+      { q: 'Wie viel kostet die Reise für ein Paar mit einem mittelgroßen Hund?', a: `Rechnen Sie mit 1.200 €–2.500 € je nach Hotelkategorie. Die Zugtickets kosten insgesamt ~450–700 € für 2 Erwachsene + 1 Hund, wenn 4–6 Wochen im Voraus gebucht wird. Die Tiergebühr liegt je nach Hotel zwischen 0 € und 50 € pro Station.` },
+      { q: 'Wann ist die beste Jahreszeit für diese Route?', a: 'Mai bis Juni und September sind ideal: milde Temperaturen (15–22 °C), wenig überlaufene Parks und volle Hotelverfügbarkeit. Juli und August können in Paris und Amsterdam bis zu 32 °C erreichen, unangenehm für dunkel gefärbte Hunde.' },
+      { q: 'Kann ich das auf ein langes Wochenende verkürzen?', a: 'Ja, Paris + Brüssel (4 Tage) ist die einfachste Zwei-Städte-Variante. Der Eurostar zwischen beiden dauert nur 1h25, und die Tierregeln sind identisch.' },
+      { q: 'Was, wenn mein Hund über 25 kg wiegt?', a: 'Alle vier Städte sind auch für große Hunde geeignet. Der einzige Reibungspunkt sind die U-Bahnen, wo Leine und gelegentlich Maulkorb vorgeschrieben sind. Hotels: Die meisten Luxushotels akzeptieren Hunde bis 25 kg, rufen Sie aber vorher an, um dies zu bestätigen, wenn Ihr Hund schwerer ist.' },
+    ],
+  },
 }
 
 function buildSticky(locale: string): StickyConfig {
@@ -247,8 +300,9 @@ function buildSticky(locale: string): StickyConfig {
     fr: `Hôtels pet-friendly Paris à Berlin`,
     es: 'Hoteles pet-friendly París a Berlín',
     pt: `Hotéis pet-friendly Paris a Berlim`,
+    de: 'Hundefreundliche Hotels von Paris bis Berlin',
   }
-  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver' }
+  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen' }
   return { href, label: labels[locale] ?? labels.en, cta: ctas[locale] ?? ctas.en }
 }
 

@@ -20,12 +20,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     fr: 'Côte méditerranéenne avec son chien : Nice → Gênes → Florence → Rome (itinéraire 10 jours)',
     es: 'Costa mediterránea con tu perro: Niza → Génova → Florencia → Roma (itinerario 10 días)',
     pt: 'Costa mediterrânea com tu cão: Niza → Génova → Florencia → Roma (itinerario 10 dias)',
+    de: 'Mittelmeerküste mit Ihrem Hund: Nizza → Genua → Florenz → Rom (10-Tage-Reiseroute)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 10-day Mediterranean train itinerary with your dog along the French and Italian coast. Pet-friendly hotels, live Booking.com maps, summer beach rules and emergency vets in each city.',
     fr: 'Itinéraire méditerranéen de 10 jours en train avec votre chien le long des côtes française et italienne. Hôtels acceptant les animaux, cartes Booking.com en direct, règles de plage estivales et vétérinaires d\'urgence.',
     es: 'Itinerario mediterráneo de 10 días en tren con tu perro por la costa francesa e italiana. Hoteles que admiten mascotas, mapas Booking.com en vivo, normas de playa estivales y veterinarios de urgencias.',
     pt: 'Itinerario mediterrâneo de 10 dias de comboio com tu cão pela costa francesa e italiana. Hotéis que admiten animais, mapas Booking.com en vivo, normas de praia estivales e veterinários de urgências.',
+    de: 'Eine 10-tägige Bahnreise entlang der Mittelmeerküste mit Ihrem Hund an der französischen und italienischen Küste. Haustierfreundliche Hotels, Live-Karten von Booking.com, Sommer-Strandregeln und Notfall-Tierärzte in jeder Stadt.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -229,6 +231,50 @@ const COPY: Record<string, RouteCopy> = {
       { q: 'Puedo anhadir Nápoles o a Costa Amalfitana?', a: 'Sí, Frecciarossa Roma → Nápoles em 1h10, admite cães. Os buses SITA da Costa Amalfitana admitem cães com trela. A maioria de pueblos costeros têm restricciones estivales.' },
     ],
   },
+  de: {
+    hero: { tagline: 'MITTELMEERROUTE · 10 TAGE · MIT IHREM HUND', title: 'Eine Bahnreise entlang der Mittelmeerküste mit Ihrem Hund', subtitle: 'Nizza, Genua, Florenz, Rom, vier ikonische Städte an der französischen und italienischen Riviera, verbunden durch Direktzüge. Haustierfreundliche Hotels, Hundestrände und die Live-Karte von Booking.com für jede Station.' },
+    why: { title: 'Warum diese Mittelmeerroute für Hundebesitzer funktioniert', bullets: [
+      'Durchgehend direkte Thello-/Trenitalia-Züge, Ihr Hund fährt neben Ihnen, nicht im Frachtraum.',
+      'Alle vier Städte haben offizielle haustierfreundliche Strände oder Hundebadestellen innerhalb von 30 Minuten.',
+      'Das italienische Gesetz erlaubt Hunde standardmäßig in Restaurants, Terrassenessen ist überall die Norm.',
+      'Keine Grenzformalitäten innerhalb des Schengen-Raums, nur ein EU-Heimtierausweis mit gültiger Tollwutimpfung.',
+      'Vermeiden Sie Juli–August: Die Straßentemperatur erreicht 55 °C, und die meisten Strände verbieten Hunde vom 15. Mai bis 30. September. Mai, Juni, September, Oktober sind ideal.',
+    ] },
+    stats: { duration: 'Dauer', cities: 'Städte', transport: 'Transport', budget: 'Budget', durationVal: '10 Tage', citiesVal: '4 Städte', transportVal: 'Zug (Thello / Trenitalia / Frecciarossa)', budgetVal: '1.000 €–2.200 €' },
+    citiesIntro: { kicker: 'STADT FÜR STADT', title: 'Ihre Stationen, Ihre Hotels, Ihre Karte' },
+    cities: {
+      nice: { days: 'Tag 1–3', intro: `Beginnen Sie an der Côte d'Azur. Nizza ist eine der hundefreundlichsten Großstädte Frankreichs: Die Straßenbahnlinie T1 nimmt Hunde kostenlos mit, die 7 km lange Promenade des Anglais ist komplett an der Leine begehbar, und drei offizielle Hundestrände (Carras, Magnan, Lenval) sind ganzjährig geöffnet. Die engen Kopfsteinpflastergassen der Altstadt und der Markt Cours Saleya heißen Hunde an der Leine willkommen. Achtung: Die Kieselstrände von Nizza sind hart für die Pfoten, Hundeschuhe helfen.`, highlight: 'Unbedingt mit Ihrem Hund: Sonnenaufgang an der Promenade des Anglais', highlightDesc: 'Gehen Sie die vollen 7 km vom Flughafenende bis zum Quai des États-Unis zur goldenen Stunde, dann stärken Sie sich an einem Terrassencafé im Vieux-Nice. Die meisten akzeptieren Hunde an der Leine und bringen ungefragt eine Wasserschale.' },
+      genoa: { days: 'Tag 4–5', intro: 'Drei Stunden mit dem Thello-Zug entlang der italienischen Riviera. Genua ist die am meisten unterschätzte hundefreundliche italienische Stadt: eine labyrinthartige mittelalterliche Altstadt (die größte Europas), die Spianata Castelletto mit Panoramablick, und Direktzüge zu Hundestrand-Orten wie Bogliasco und Camogli. Die engen Gassen (carruggi) der historischen Altstadt machen autofreies Gehen zum Standard, perfekt mit Hund.', highlight: 'Unbedingt mit Ihrem Hund: ein Tagesausflug in die Cinque Terre', highlightDesc: 'Trenitalia von Genova-Brignole erreicht Monterosso in 1 Std. 20 Min., Hunde an der Leine fahren zum halben Preis. Die fünf Dörfer bieten hundeerlaubte Uferpromenaden (außerhalb der Saison; Sommer-Strandverbote gelten vom 15. Mai bis 30. September).' },
+      florence: { days: 'Tag 6–8', intro: 'Direkter Frecciarossa von Genova-Piazza-Principe (3 Std., Hundeticket ca. 20 €). Florenz ist klein genug, um es komplett mit Hund zu Fuß zu erkunden, und die italienische Café-Kultur erlaubt es, überall zu essen, sogar Michelin-Restaurants akzeptieren Hunde an der Leine auf der Terrasse. Der Cascine-Park (160 ha entlang des Arno) hat leinenfreie Zonen; die Boboli-Gärten akzeptieren Hunde an der Leine mit dem regulären Ticket. Meiden Sie die Uffizien und die Accademia (keine Haustiere).', highlight: 'Unbedingt mit Ihrem Hund: Piazzale Michelangelo bei Sonnenuntergang', highlightDesc: 'Steigen Sie von der Ponte alle Grazie auf (die hundefreundliche Route über die Costa San Giorgio dauert 25 Min.) für den Postkartenblick auf den Dom. Die Terrasse bleibt bis spät kühl, und Hunde toben auf den Rasenflächen direkt unterhalb der Brüstung.' },
+      rome: { days: 'Tag 9–10', intro: 'Frecciarossa von Florenz in 1 Std. 30 Min. (die schnellste Etappe). Rom ist riesig und im Hochsommer anstrengend, aber Frühling und Herbst sind spektakulär: die Villa Borghese (80 ha) und die Via Appia Antica (3.500 ha römischer Straßen) sind leinenfreundlich. Die meisten Trattorien und Cafés akzeptieren Hunde an Außentischen. Die U-Bahn verlangt Leine und Maulkorb; Straßenbahnen sind einfacher für ängstliche Hunde.', highlight: 'Unbedingt mit Ihrem Hund: die Via Appia Antica an einem Sonntag', highlightDesc: `Sonntags sind die ersten 5 km der antiken Römerstraße autofrei. Mieten Sie ein hundefreundliches E-Bike bei der Bar Caffè dell'Appia und legen Sie 10 km durch Pinienwälder, Ruinen und weidende Schafe zurück. Hunde lieben es.` },
+    },
+    hotelsLabel: 'Empfohlene haustierfreundliche Hotels',
+    bookLabel: 'Auf Booking.com buchen',
+    detailsLabel: 'Details',
+    mapLabel: 'Live-Karte, alle haustierfreundlichen Hotels',
+    legsTitle: 'Transport zwischen den Städten',
+    legs: [
+      { from: 'Nizza', to: 'Genua', duration: '~3 Std.', service: 'Thello / Trenitalia Regionalzug (direkt, malerisch entlang der Küste)', petRule: 'Kleine Hunde in der Transportbox kostenlos, größere Hunde benötigen ein Ticket zum halben Preis. Leine + Maulkorb erforderlich.' },
+      { from: 'Genua', to: 'Florenz', duration: '~3 Std.', service: 'Frecciarossa / Frecciargento (direkt)', petRule: 'Kleine Hunde kostenlos. Größere Hunde benötigen ein Frecciarossa-Haustierticket (ca. 20–25 €). Online buchbar.' },
+      { from: 'Florenz', to: 'Rom', duration: '~1 Std. 30 Min.', service: 'Frecciarossa (direkt, alle 30 Min.)', petRule: 'Gleiche Trenitalia-Regeln. Der Frecciarossa ist die schnellste und ruhigste Option.' },
+    ],
+    practicalTitle: 'Bevor Sie losfahren: Unterlagen, Impfungen, Tierarztkontakte',
+    practicalBullets: [
+      'EU-Heimtierausweis mit gültiger Tollwutimpfung (mindestens 21 Tage alt, weniger als 12 Monate für die jährliche Standardauffrischung).',
+      'Mikrochip ISO 11784/11785, verpflichtend und muss mit der Nummer im Ausweis übereinstimmen.',
+      'KEINE Bandwurmbehandlung erforderlich (nur für UK / Irland / Finnland / Norwegen / Malta).',
+      `Das italienische Gesetz (Legge 281/1991) erlaubt Hunde standardmäßig in Restaurants und Geschäften. Ein Schild „vietato l'ingresso ai cani" bedeutet nein, an den meisten anderen Orten gilt: ja.`,
+      '24/7-Not-Tierärzte notieren: Nizza (CHV des Cordeliers Nice, +33 4 93 80 26 90), Genua (Clinica Veterinaria San Giorgio, +39 010 8602004), Florenz (Clinica Veterinaria Valdinievole, +39 0573 794500), Rom (Clinica Veterinaria Roma Sud, +39 06 7842277).',
+    ],
+    faqTitle: 'Häufig gestellte Fragen',
+    faqs: [
+      { q: 'Kann mein Hund am Strand schwimmen?', a: 'In Italien verbieten die meisten Strände Hunde vom 15. Mai bis 30. September, außer an offiziellen „Spiagge Cani". Nizza hat 3 ganzjährige Hundestrände. Die ligurische Küste rund um Genua hat mehrere. Florenz und Rom liegen im Landesinneren, siehe praktische Informationen für die nächstgelegenen Optionen.' },
+      { q: 'Wie viel kostet die Reise?', a: 'Planen Sie 1.000–2.200 € je nach Hotelkategorie ein. Zugfahrkarten kosten insgesamt ca. 350–550 € für 2 Erwachsene + 1 Hund bei Buchung 4–6 Wochen im Voraus. Die Haustiergebühr beträgt 0 bis 50 € pro Station.' },
+      { q: 'Wann ist die beste Reisezeit?', a: 'Mai, Juni, September und Anfang Oktober sind ideal: 18–26 °C, keine Strandverbote außerhalb der Hochsaison, volle Hotelverfügbarkeit. Juli–August sind mit Hund schwierig (Hitze + Strandbeschränkungen).' },
+      { q: 'Ist die U-Bahn hundefreundlich?', a: 'Florenz hat keine U-Bahn. Die Straßenbahnlinie T1 in Nizza ist am hundefreundlichsten. Die U-Bahnen von Genua und Rom verlangen Leine und Maulkorb für mittelgroße/große Hunde. Nehmen Sie einen weichen Maulkorb mit.' },
+      { q: 'Kann ich Neapel oder die Amalfiküste hinzufügen?', a: 'Ja, der Frecciarossa Rom → Neapel braucht 1 Std. 10 Min. und ist haustierfreundlich. Die SITA-Busse der Amalfiküste akzeptieren Hunde an der Leine. Die meisten Küstenorte haben Sommerbeschränkungen am Strand.' },
+    ],
+  },
 }
 
 function buildSticky(locale: string): StickyConfig {
@@ -239,8 +285,9 @@ function buildSticky(locale: string): StickyConfig {
     fr: `Hôtels pet-friendly Côte méditerranéenne`,
     es: 'Hoteles pet-friendly costa mediterránea',
     pt: `Hotéis pet-friendly costa mediterrânica`,
+    de: 'Haustierfreundliche Hotels Mittelmeerküste',
   }
-  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver' }
+  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen' }
   return { href, label: labels[locale] ?? labels.en, cta: ctas[locale] ?? ctas.en }
 }
 

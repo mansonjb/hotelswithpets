@@ -19,12 +19,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     fr: 'Villes alpines avec son chien : Genève → Zurich → Munich → Salzbourg (itinéraire 10 jours)',
     es: 'Ciudades alpinas con tu perro: Ginebra → Zúrich → Múnich → Salzburgo (itinerario 10 días)',
     pt: 'Cidades alpinas com tu cão: Genebra → Zurique → Munique → Salzburgo (itinerario 10 dias)',
+    de: 'Alpenstädte mit Ihrem Hund: Genf → Zürich → München → Salzburg (10-Tage-Reiseroute)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 10-day Alpine train itinerary with your dog through Switzerland, Germany and Austria. Lake walks, Alpine hikes, dog-friendly hotels, ICE/CFF rules and live Booking.com maps for every stop.',
     fr: "Itinéraire alpin de 10 jours en train avec votre chien à travers la Suisse, l'Allemagne et l'Autriche. Promenades au bord des lacs, randonnées alpines, hôtels acceptant les animaux, règles ICE/CFF et cartes Booking.com en direct.",
     es: 'Itinerario alpino de 10 días en tren con tu perro por Suiza, Alemania y Austria. Paseos junto a lagos, rutas alpinas, hoteles que admiten mascotas, normas ICE/CFF y mapas Booking.com en vivo para cada parada.',
     pt: 'Itinerario alpino de 10 dias de comboio com tu cão por Suiza, Alemania e Austria. Passeios junto a lagos, rutas alpinas, hotéis que admiten animais, normas ICE/CFF e mapas Booking.com en vivo para cada parada.',
+    de: 'Eine 10-tägige alpine Zugreise mit Ihrem Hund durch die Schweiz, Deutschland und Österreich. Spaziergänge am See, alpine Wanderungen, hundefreundliche Hotels, ICE-/CFF-Regeln und Live-Karten von Booking.com für jeden Halt.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -222,6 +224,50 @@ const COPY: Record<string, RouteCopy> = {
       { q: 'São realmente pet-friendly os biergartens em Munique?', a: 'Sí, a tradição bávara de biergartens admite explícitamente cães com trela. Hofbräukeller, Augustiner-Keller, Hirschau, Chinesischer Turm, todos têm boles de água na entrada. Algunas salas interiores no admitem cães; as mesas exteriores sempre.' },
     ],
   },
+  de: {
+    hero: { tagline: 'ALPINE REISEROUTE · 10 TAGE · MIT IHREM HUND', title: 'Eine alpine Zugreise mit Ihrem Hund: Genf → Salzburg', subtitle: 'Genf, Zürich, München und Salzburg, vier Städte am Fuß der Alpen, verbunden durch Direktzüge. Spaziergänge am See, Bergwanderungen, haustierfreundliche Hotels und Live-Karten von Booking.com für jeden Halt.' },
+    why: { title: 'Warum diese Alpenroute für Hundebesitzer funktioniert', bullets: [
+      'Die Schweiz, Deutschland und Österreich sind laut offizieller Bewertung (DogFriendly.eu 2025) die drei hundefreundlichsten Länder Europas.',
+      'Durchgehend mit direkten CFF/SBB- und Deutsche-Bahn-ICE-Zügen, Ihr Hund reist neben Ihnen, malerische Alpenblicke inklusive.',
+      'Jeder Halt bietet erstklassige Stadtparks UND direkte Züge/Busse zu echten Bergwanderwegen (Zugspitze, Säntis, Untersberg).',
+      'Kühlere Sommer (typischerweise 22-28 °C), die einfachste europäische Route für kurznasige Rassen im Juli und August.',
+      'Die Schweiz gehört NICHT zur EU, doch die Tiervorschriften entsprechen den EU-Regeln: Heimtierausweis und Tollwutimpfung werden an der Grenze akzeptiert. Keine Quarantäne.',
+    ] },
+    stats: { duration: 'Dauer', cities: 'Städte', transport: 'Transport', budget: 'Budget', durationVal: '10 Tage', citiesVal: '4 Städte', transportVal: 'Zug (CFF / DB ICE / ÖBB Railjet)', budgetVal: '1.400 €-2.800 €' },
+    citiesIntro: { kicker: 'STADT FÜR STADT', title: 'Ihre Stopps, Ihre Hotels, Ihre Karte' },
+    cities: {
+      geneva: { days: 'Tag 1-2', intro: 'Starten Sie an der südwestlichen Spitze des Genfersees. Die Schweiz ist für ihre Hundefreundlichkeit bekannt: Trams, Busse und Züge nehmen alle Hunde mit (kleine kostenlos, größere zum halben Preis), Restaurants akzeptieren angeleinte Hunde standardmäßig, und der Bois de la Bâtie ist einer der wenigen ganzjährig leinenfreien Wälder im Zentrum Genfs. Der Quai du Mont-Blanc und der Uferweg haben alle 100 m Bänke und alle 500 m Trinkbrunnen.', highlight: 'Unbedingt mit Ihrem Hund: ein Tagesausflug mit der Mont-Salève-Seilbahn', highlightDesc: 'Überqueren Sie die Grenze nach Frankreich (keine Grenzkontrolle für EU-Haustiere) und fahren Sie mit dem Téléphérique du Salève in 5 Minuten auf 1.100 m Höhe. Hunde reisen angeleint kostenlos. Oben warten 30 km markierte Wege, kurze Rundwege sind in 2 Stunden machbar.' },
+      zurich: { days: 'Tag 3-4', intro: 'Drei Stunden mit dem direkten CFF-Zug ab Genf, eine der schönsten alpinen Zugfahrten Europas. Zürich ist dicht begrünt: Der Uetliberg (Waldhügel, 870 m) ist in 25 Minuten mit der S-Bahn erreichbar, und das Seeufer bietet 4 km autofreie Spazierwege. Die engen Gassen der Altstadt und die Bahnhofstrasse (teuerste Einkaufsstraße Europas) sind hundetolerant; viele Luxusboutiquen heißen Hunde ausdrücklich willkommen.', highlight: 'Unbedingt mit Ihrem Hund: Sonnenaufgangswanderung auf dem Uetliberg', highlightDesc: 'S10 vom Hauptbahnhof zum Uetliberg in 25 Minuten (Hundeticket 12 CHF). Der Aussichtsturm auf dem Gipfel öffnet um 6 Uhr. Der 5 km lange Abstieg über die Felsenegg zeigt Ihnen die Stadt, den See und die gesamten Glarner Alpen auf einen Blick.' },
+      munich: { days: 'Tag 5-7', intro: 'Direkter Deutsche-Bahn-EC ab Zürich (4 Std., Hundeticket 25 €). München zählt zu den hundefreundlichsten Städten Deutschlands: Der 375 Hektar große Englische Garten ist größer als der Central Park, Hunde fahren für 3 € mit U-Bahn und S-Bahn (Tages-Hundekarte), Biergärten heißen Hunde ausdrücklich willkommen (überall Wassernäpfe), und der Isarweg bietet 14 km leinenfreie Strecken mitten durch die Stadt.', highlight: 'Unbedingt mit Ihrem Hund: ein Spaziergang an der Isar mit Mittagessen im Biergarten', highlightDesc: 'Gehen Sie vom Stadtzentrum aus südlich der Isar entlang zum Biergarten Hirschau (4 km, leinenfrei ab der Wittelsbacherbrücke). Der Garten bietet über 1.000 schattige Plätze unter Kastanien; Hunde sind an jedem Tisch willkommen. Bestellen Sie eine Brezel für sich und Ihren Hund.' },
+      salzburg: { days: 'Tag 8-10', intro: 'Direkter ÖBB-Railjet ab München Hauptbahnhof in 1 Std. 30 (Hundeticket 15 €). Salzburg ist klein, gut zu Fuß erkundbar und das Tor zum Salzkammergut (Wolfgangsee, Mondsee, Fuschlsee, alle hundefreundlich mit autofreien Uferpromenaden). Der Mönchsberg (542 m, per Lift von der Altstadt aus erreichbar) hat hundefreundliche Wege. Mozarts Geburtshaus lässt keine Hunde hinein, aber überall sonst im Freien schon.', highlight: 'Unbedingt mit Ihrem Hund: ein Tagesausflug zum Wolfgangsee', highlightDesc: 'Postbus 150 von Salzburg-Mirabellplatz nach St. Gilgen in 50 Minuten (Hunde kostenlos). Der See ist von 27 km Fußwegen umgeben, und die Zwölferhornbahn (hundefreundlich) bringt Sie auf 1.500 m Höhe zum Panoramablick.' },
+    },
+    hotelsLabel: 'Empfohlene haustierfreundliche Hotels',
+    bookLabel: 'Auf Booking.com buchen',
+    detailsLabel: 'Details',
+    mapLabel: 'Live-Karte, alle haustierfreundlichen Hotels',
+    legsTitle: 'Transport zwischen den Städten',
+    legs: [
+      { from: 'Genf', to: 'Zürich', duration: '~2h45', service: 'CFF/SBB IC (direkt, stündlich)', petRule: 'Kleine Hunde in der Transportbox kostenlos. Größere Hunde benötigen ein Ticket zum halben Preis (~25 CHF). Kein Maulkorb erforderlich, wenn angeleint und ruhig. Einer der hundefreundlichsten Züge Europas.' },
+      { from: 'Zürich', to: 'München', duration: '~4h', service: 'Deutsche Bahn EC (direkt, 6x täglich)', petRule: 'Kleine Hunde in der Transportbox kostenlos. Größere Hunde benötigen ein Hundeticket (~25 €, halber Erwachsenenpreis). Leine und weicher Maulkorb für größere Hunde erforderlich.' },
+      { from: 'München', to: 'Salzburg', duration: '~1h30', service: 'ÖBB Railjet (direkt, alle 1-2 Std.)', petRule: 'Kleine Hunde in der Transportbox kostenlos. Größere Hunde zum halben Preis (~15 €). Leine und Maulkorb erforderlich. Malerische bayerisch-österreichische Landschaft.' },
+    ],
+    practicalTitle: 'Vor der Abreise: Papiere, Impfungen, Tierarztkontakte',
+    practicalBullets: [
+      'EU-Heimtierausweis mit gültiger Tollwutimpfung (mindestens 21 Tage alt). Die Schweiz akzeptiert den EU-Heimtierausweis (nicht in der EU, aber im Heimtierausweissystem).',
+      'Mikrochip nach ISO 11784/11785, in allen vier Ländern Pflicht.',
+      'Die Schweiz und Österreich erheben eine Hundesteuer für Einwohner. Besucher sind davon befreit; manche Hotels verlangen einen Nachweis der Haftpflichtversicherung, rufen Sie vorab an, falls Ihre Hausratversicherung ungewöhnlich ist.',
+      'Bayern und Österreich haben Rasselisten (Listenhunde): Am. Staff, Pit Bull, Bullterrier, Rottweiler, Halter benötigen eine Genehmigung, und die Hunde müssen in der Öffentlichkeit einen Maulkorb tragen.',
+      'Notdienst-Tierärzte rund um die Uhr: Genf (Centre Vétérinaire Rive-Gauche, +41 22 743 33 33), Zürich (Tierspital Zürich, +41 44 635 81 11), München (Tierärztliche Klinik Haar, +49 89 460 74 24), Salzburg (Tierklinik Land Salzburg, +43 662 870150).',
+    ],
+    faqTitle: 'Häufig gestellte Fragen',
+    faqs: [
+      { q: 'Brauche ich eine besondere Genehmigung, um mit meinem Hund in die Schweiz einzureisen?', a: 'Nein, der EU-Heimtierausweis mit gültiger Tollwutimpfung wird an der Schweizer Grenze akzeptiert. Keine Zollpapiere nötig. Der Hund muss gechipt sein, und die Tollwutimpfung muss mindestens 21 Tage zurückliegen.' },
+      { q: 'Wie viel kostet die Reise?', a: 'Planen Sie 1.400 bis 2.800 € ein. Die Schweiz ist der teuerste Abschnitt (Hotels rund 50 % teurer als in Deutschland/Österreich). Zugtickets kosten insgesamt rund 350-550 € für 2 Erwachsene plus 1 Hund, wenn 4-6 Wochen im Voraus gebucht wird.' },
+      { q: 'Kann ich meinen Hund wirklich mit auf eine Alpenseilbahn nehmen?', a: 'Ja, fast jede Alpenseilbahn in der Schweiz, Bayern und Österreich nimmt angeleinte Hunde mit. Manche verlangen einen Maulkorb in der Kabine. Salève, Uetliberg, Zugspitze, Untersberg, Zwölferhorn, alle hundefreundlich.' },
+      { q: 'Wann ist die beste Reisezeit?', a: 'Ende Mai bis Anfang Oktober. Der Sommer ist die einfachste europäische Route für Hunde (kühler als Südeuropa). Der Winter hat seinen eigenen Reiz (Schneespaziergänge, Weihnachtsmärkte), doch die Alpenpässe sind für kurzhaarige Rassen kälter.' },
+      { q: 'Sind Biergärten in München wirklich hundefreundlich?', a: 'Ja, die bayerische Biergartentradition heißt angeleinte Hunde ausdrücklich willkommen. Der Hofbräukeller, der Augustiner-Keller, der Hirschau, der Chinesische Turm, alle haben Wassernäpfe am Eingang. Manche Innenräume lassen keine Hunde hinein; die Tische im Freien immer.' },
+    ],
+  },
 }
 
 function buildSticky(locale: string): StickyConfig {
@@ -232,8 +278,9 @@ function buildSticky(locale: string): StickyConfig {
     fr: `Hôtels pet-friendly route alpine`,
     es: 'Hoteles pet-friendly ruta alpina',
     pt: `Hotéis pet-friendly rota alpina`,
+    de: 'Haustierfreundliche Hotels Alpenroute',
   }
-  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver' }
+  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen' }
   return { href, label: labels[locale] ?? labels.en, cta: ctas[locale] ?? ctas.en }
 }
 

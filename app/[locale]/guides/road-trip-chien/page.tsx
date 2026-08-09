@@ -15,6 +15,7 @@ const STICKY_LABELS_ROAD: Record<string, { label: string; cta: string }> = {
   fr: { label: `Hôtels pet-friendly pour road trip en Europe`, cta: 'Voir les hôtels' },
   es: { label: 'Hoteles pet-friendly para road trips en Europa', cta: 'Ver hoteles' },
   pt: { label: 'Hotéis pet-friendly para road trips em Europa', cta: 'Ver hotéis' },
+  de: { label: 'Tierfreundliche Unterkünfte für Roadtrips in Europa', cta: 'Hotels ansehen' },
 }
 
 export async function generateStaticParams() {
@@ -34,12 +35,14 @@ export async function generateMetadata({
     fr: 'Road trip avec son chien en Europe : sécurité, lois et franchissement des frontières (2025)',
     es: 'Road trip con tu perro en Europa: seguridad, leyes y cruce de fronteras (2025)',
     pt: 'Road trip com tu cão en Europa: seguridad, leis e cruce de fronteras (2025)',
+    de: 'Roadtrip mit Hund durch Europa: Sicherheit, Gesetze und Grenzübertritt (2025)',
   }
   const descriptions: Record<string, string> = {
     en: 'Complete guide to road-tripping across Europe with your dog: car safety laws by country, harness vs crate, border crossings, Eurotunnel & ferry policies, heat safety, stops, and first aid essentials.',
     fr: 'Guide complet pour un road trip en voiture avec son chien en Europe : lois par pays, harnais vs caisse, franchissement des frontières, Eurotunnel, gestion de la chaleur et trousse de premiers secours.',
     es: 'Guía completa para un road trip por Europa con tu perro: leyes por país, arnés vs transportín, cruce de fronteras, Eurotunnel, gestión del calor y botiquín esencial.',
     pt: 'Guía completa para um road trip por Europa com tu cão: leis por país, arnés vs transportadora, cruce de fronteras, Eurotunnel, gestión do calor e botiquín esencial.',
+    de: 'Der komplette Guide für einen Roadtrip mit Hund durch Europa: Sicherheitsgesetze im Auto nach Land, Auto-Sicherheitsgeschirr vs. Transportbox, Grenzübertritte, Eurotunnel- und Fährbestimmungen, Hitzeschutz, Pausen und die wichtigste Erste-Hilfe-Ausrüstung.',
   }
 
   const today = new Date().toISOString().split('T')[0]
@@ -81,86 +84,93 @@ interface RestraintRule {
 const RESTRAINT_RULES: RestraintRule[] = [
   {
     flag: '🇫🇷',
-    country: { en: 'France', fr: 'France', es: 'Francia', pt: 'Francia' },
-    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí' },
-    fine: { en: 'Up to €750 (general distraction fine)', fr: "Jusqu'à 750 € (infraction distraction)", es: 'Hasta 750 € (infracción distracción)', pt: 'Até 750 € (infração distracción)' },
+    country: { en: 'France', fr: 'France', es: 'Francia', pt: 'Francia', de: 'Frankreich' },
+    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí', de: 'Ja' },
+    fine: { en: 'Up to €750 (general distraction fine)', fr: "Jusqu'à 750 € (infraction distraction)", es: 'Hasta 750 € (infracción distracción)', pt: 'Até 750 € (infração distracción)', de: 'Bis zu 750 € (allgemeines Bußgeld für Ablenkung)' },
     notes: {
       en: 'Dog must be restrained by harness, crate or cargo net and cannot interfere with the driver. Must travel in the back seat or boot.',
       fr: "Le chien doit être attaché (harnais, caisse ou filet) et ne doit pas gêner le conducteur. Doit voyager à l'arrière ou dans le coffre.",
       es: 'El perro debe estar sujeto (arnés, transportín o red) y no puede interferir con el conductor. Debe viajar en la parte trasera o maletero.',
       pt: 'O cão debe estar sujeto (arnés, transportadora o red) e no pode interferir com o conductor. Debe viajar na parte trasera o maletero.',
+      de: 'Der Hund muss mit Auto-Sicherheitsgeschirr, Transportbox oder Trenngitter gesichert sein und darf den Fahrer nicht ablenken. Er muss auf der Rückbank oder im Kofferraum mitfahren.',
     },
   },
   {
     flag: '🇩🇪',
-    country: { en: 'Germany', fr: 'Allemagne', es: 'Alemania', pt: 'Alemania' },
-    mandatory: { en: 'Yes (under cargo rules)', fr: 'Oui (règles de chargement)', es: 'Sí (normas de carga)', pt: 'Sí (normas de carga)' },
-    fine: { en: 'Up to €35–€75', fr: "Jusqu'à 35–75 €", es: 'Hasta 35–75 €', pt: 'Até 35–75 €' },
+    country: { en: 'Germany', fr: 'Allemagne', es: 'Alemania', pt: 'Alemania', de: 'Deutschland' },
+    mandatory: { en: 'Yes (under cargo rules)', fr: 'Oui (règles de chargement)', es: 'Sí (normas de carga)', pt: 'Sí (normas de carga)', de: 'Ja (nach Ladungsvorschriften)' },
+    fine: { en: 'Up to €35–€75', fr: "Jusqu'à 35–75 €", es: 'Hasta 35–75 €', pt: 'Até 35–75 €', de: 'Bis zu 35–75 €' },
     notes: {
       en: 'Dogs classified as "cargo" must be secured so they cannot be thrown around or endanger passengers. Unsecured dogs causing an accident increase liability significantly.',
       fr: "Les chiens sont classés « marchandise » et doivent être fixés pour ne pas être projetés. Un chien non attaché causant un accident engage fortement la responsabilité du conducteur.",
       es: 'Los perros se clasifican como "carga" y deben estar fijados para no salir despedidos. Un perro sin sujetar que cause un accidente implica una responsabilidad considerable.',
       pt: 'Os cães se clasifican como "carga" e deben estar fijados para no salir despedidos. Um cão sem sujetar que cause um accidente implica uma responsabilidad considerable.',
+      de: 'Hunde gelten als „Ladung" und müssen so gesichert sein, dass sie nicht umherfliegen oder Insassen gefährden können. Ein ungesicherter Hund, der einen Unfall verursacht, erhöht die Haftung erheblich.',
     },
   },
   {
     flag: '🇪🇸',
-    country: { en: 'Spain', fr: 'Espagne', es: 'España', pt: 'Espanha' },
-    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí' },
-    fine: { en: '€200 (up to €200,000 in serious cases)', fr: '200 € (jusqu\'à 200 000 € cas graves)', es: '200 € (hasta 200 000 € en casos graves)', pt: '200 € (até 200 000 € en casos graves)' },
+    country: { en: 'Spain', fr: 'Espagne', es: 'España', pt: 'Espanha', de: 'Spanien' },
+    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí', de: 'Ja' },
+    fine: { en: '€200 (up to €200,000 in serious cases)', fr: '200 € (jusqu\'à 200 000 € cas graves)', es: '200 € (hasta 200 000 € en casos graves)', pt: '200 € (até 200 000 € en casos graves)', de: '200 € (bei schweren Fällen bis zu 200.000 €)' },
     notes: {
       en: "Spain's Animal Welfare Law (Ley 7/2023) requires pets to be properly restrained in vehicles. The DGT (traffic authority) can fine drivers €200 for an unrestrained dog, with much higher fines if the animal is injured.",
       fr: "La loi espagnole de bien-être animal (Ley 7/2023) impose une retenue correcte des animaux dans les véhicules. La DGT inflige une amende de 200 € pour un chien non attaché, bien plus si l'animal est blessé.",
       es: 'La Ley de bienestar animal española (Ley 7/2023) exige que los animales estén debidamente sujetos en los vehículos. La DGT puede multar con 200 € por un perro sin sujetar, y mucho más si el animal resulta herido.',
       pt: 'A Lei de bienestar animal espanhola (Lei 7/2023) exige que os animales estén debidamente sujetos nos vehículos. A DGT pode multar com 200 € por um cão sem sujetar, e muito mais si o animal resulta herido.',
+      de: 'Das spanische Tierschutzgesetz (Ley 7/2023) schreibt vor, dass Haustiere im Fahrzeug ordnungsgemäß gesichert sein müssen. Die DGT (Verkehrsbehörde) kann bei einem ungesicherten Hund ein Bußgeld von 200 € verhängen, deutlich mehr bei Verletzung des Tieres.',
     },
   },
   {
     flag: '🇮🇹',
-    country: { en: 'Italy', fr: 'Italie', es: 'Italia', pt: 'Italia' },
-    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí' },
-    fine: { en: '€78–€311 + possible licence suspension', fr: '78–311 € + possible suspension de permis', es: '78–311 € + posible suspensión del carnet', pt: '78–311 € + posible suspensión do carnet' },
+    country: { en: 'Italy', fr: 'Italie', es: 'Italia', pt: 'Italia', de: 'Italien' },
+    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí', de: 'Ja' },
+    fine: { en: '€78–€311 + possible licence suspension', fr: '78–311 € + possible suspension de permis', es: '78–311 € + posible suspensión del carnet', pt: '78–311 € + posible suspensión do carnet', de: '78–311 € + möglicher Führerscheinentzug' },
     notes: {
       en: "Italian Highway Code (Art. 169) requires dogs to be restrained if travelling alone, or secured in a carrier or by a divider. A maximum of one dog per front seat occupant is allowed (pets in laps while driving is banned).",
       fr: "Le Code de la route italien (art. 169) impose la retenue des chiens voyageant seuls ou la caisse/filet de séparation. Maximum un animal par occupant (sur les genoux du conducteur : interdit).",
       es: 'El Código de circulación italiano (Art. 169) exige que los perros que viajen solos estén sujetos o en transportín/malla separadora. Máximo un animal por ocupante (en el regazo del conductor: prohibido).',
       pt: 'O Código de circulación italiano (Art. 169) exige que os cães que viajen solos estén sujetos o en transportadora/malla separadora. Máximo um animal por ocupante (no regazo do conductor: prohibido).',
+      de: 'Die italienische Straßenverkehrsordnung (Art. 169) verlangt, dass allein reisende Hunde gesichert oder durch eine Transportbox bzw. ein Trenngitter getrennt werden. Maximal ein Tier pro Sitzplatz vorn ist erlaubt (Hunde auf dem Schoß des Fahrers sind verboten).',
     },
   },
   {
     flag: '🇧🇪',
-    country: { en: 'Belgium', fr: 'Belgique', es: 'Bélgica', pt: 'Bélgica' },
-    mandatory: { en: 'Recommended, not explicit law', fr: 'Recommandé, pas de loi explicite', es: 'Recomendado, sin ley explícita', pt: 'Recomendado, sem lei explícita' },
-    fine: { en: 'Could be fined for causing distraction', fr: 'Amende possible pour distraction', es: 'Posible multa por distracción', pt: 'Posible multa por distracción' },
+    country: { en: 'Belgium', fr: 'Belgique', es: 'Bélgica', pt: 'Bélgica', de: 'Belgien' },
+    mandatory: { en: 'Recommended, not explicit law', fr: 'Recommandé, pas de loi explicite', es: 'Recomendado, sin ley explícita', pt: 'Recomendado, sem lei explícita', de: 'Empfohlen, kein ausdrückliches Gesetz' },
+    fine: { en: 'Could be fined for causing distraction', fr: 'Amende possible pour distraction', es: 'Posible multa por distracción', pt: 'Posible multa por distracción', de: 'Bußgeld wegen Ablenkung möglich' },
     notes: {
       en: 'No specific dog-in-car law, but the general duty to avoid distracting the driver applies. Unrestrained dogs that cause an accident will affect insurance claims.',
       fr: "Pas de loi spécifique, mais l'obligation générale de ne pas distraire le conducteur s'applique. Un chien non attaché causant un accident impacte l'assurance.",
       es: 'Sin ley específica, pero se aplica la obligación general de no distraer al conductor. Un perro sin sujetar que cause un accidente afecta al seguro.',
       pt: 'Sem lei específica, mas se aplica a obrigação general de no distraer al conductor. Um cão sem sujetar que cause um accidente afecta al seguro.',
+      de: 'Es gibt kein spezifisches Gesetz für Hunde im Auto, aber die allgemeine Pflicht, den Fahrer nicht abzulenken, gilt trotzdem. Ein ungesicherter Hund, der einen Unfall verursacht, wirkt sich auf die Versicherung aus.',
     },
   },
   {
     flag: '🇳🇱',
-    country: { en: 'Netherlands', fr: 'Pays-Bas', es: 'Países Bajos', pt: 'Países Bajos' },
-    mandatory: { en: 'Recommended, not explicit law', fr: 'Recommandé, pas de loi explicite', es: 'Recomendado, sin ley explícita', pt: 'Recomendado, sem lei explícita' },
-    fine: { en: 'General distraction fine applies', fr: 'Amende distraction applicable', es: 'Multa por distracción aplicable', pt: 'Multa por distracción aplicable' },
+    country: { en: 'Netherlands', fr: 'Pays-Bas', es: 'Países Bajos', pt: 'Países Bajos', de: 'Niederlande' },
+    mandatory: { en: 'Recommended, not explicit law', fr: 'Recommandé, pas de loi explicite', es: 'Recomendado, sin ley explícita', pt: 'Recomendado, sem lei explícita', de: 'Empfohlen, kein ausdrückliches Gesetz' },
+    fine: { en: 'General distraction fine applies', fr: 'Amende distraction applicable', es: 'Multa por distracción aplicable', pt: 'Multa por distracción aplicable', de: 'Allgemeines Bußgeld wegen Ablenkung möglich' },
     notes: {
       en: 'No specific mandatory restraint law. However, under general traffic rules, any distraction, including an unrestrained dog, can lead to fines.',
       fr: "Pas de loi explicite sur la retenue. Mais toute distraction, y compris un chien non attaché, peut entraîner une amende selon le code de la route général.",
       es: 'Sin ley explícita de sujeción. Sin embargo, cualquier distracción, incluido un perro sin sujetar, puede derivar en multa según las normas generales de tráfico.',
       pt: 'Sem lei explícita de sujeción. No entanto, cualquier distracción, incluido um cão sem sujetar, pode derivar en multa segundo as normas generales de tráfico.',
+      de: 'Es gibt kein spezifisches Gesetz zur Sicherung. Nach den allgemeinen Verkehrsregeln kann jede Ablenkung, einschließlich eines ungesicherten Hundes, jedoch zu einem Bußgeld führen.',
     },
   },
   {
     flag: '🇨🇭',
-    country: { en: 'Switzerland', fr: 'Suisse', es: 'Suiza', pt: 'Suiza' },
-    mandatory: { en: 'Yes (under cargo law)', fr: 'Oui (loi sur le chargement)', es: 'Sí (ley de carga)', pt: 'Sí (lei de carga)' },
-    fine: { en: 'CHF 100+', fr: 'CHF 100+', es: 'CHF 100+', pt: 'CHF 100+' },
+    country: { en: 'Switzerland', fr: 'Suisse', es: 'Suiza', pt: 'Suiza', de: 'Schweiz' },
+    mandatory: { en: 'Yes (under cargo law)', fr: 'Oui (loi sur le chargement)', es: 'Sí (ley de carga)', pt: 'Sí (lei de carga)', de: 'Ja (nach Frachtrecht)' },
+    fine: { en: 'CHF 100+', fr: 'CHF 100+', es: 'CHF 100+', pt: 'CHF 100+', de: 'CHF 100+' },
     notes: {
       en: "Swiss Road Traffic Act classifies dogs as freight: they must be placed so they cannot fall, endanger anyone or block the driver's view. Stop every 1–1.5 hours is specifically recommended by Swiss authorities.",
       fr: "La loi suisse classe les chiens comme fret : ils doivent être placés pour ne pas tomber, mettre en danger quiconque ni bloquer la vue du conducteur. Les autorités suisses recommandent une pause toutes les 1–1,5 heure.",
       es: 'La ley suiza clasifica a los perros como mercancía: deben estar colocados de modo que no puedan caer, poner en peligro a nadie ni bloquear la visión del conductor. Las autoridades suizas recomiendan parar cada 1–1,5 horas.',
       pt: 'A lei suiza clasifica aos cães como mercancía: deben estar colocados de modo que no puedan caer, poner en peligro a nadie ni bloquear a visión do conductor. As autoridades suizas recomiendan parar cada 1–1,5 horas.',
+      de: 'Das Schweizer Straßenverkehrsgesetz stuft Hunde als Fracht ein: Sie müssen so platziert werden, dass sie nicht herunterfallen, niemanden gefährden oder die Sicht des Fahrers versperren können. Die Schweizer Behörden empfehlen ausdrücklich eine Pause alle 1–1,5 Stunden.',
     },
   },
 ]
@@ -854,6 +864,176 @@ const COPY = {
     tableHeaderNotes: 'Normas específicas',
     countryLawTitle: 'Leis de sujeción do cão no carro por país',
   },
+
+  de: {
+    hero: 'Roadtrip mit Hund durch Europa: der komplette Guide',
+    subtitle: 'Sicherheitsgesetze im Auto nach Land, Auto-Sicherheitsgeschirr vs. Transportbox, Grenzübertritte, Eurotunnel- und Fährbestimmungen, Hitzeschutz, Pausenhäufigkeit und die wichtigste Erste-Hilfe-Ausrüstung, alles, bevor Sie losfahren.',
+    lastUpdate: 'Aktualisiert im',
+    breadcrumbGuides: 'Guides',
+    breadcrumbCurrent: 'Roadtrip mit Hund',
+    badge: 'Praktischer Guide',
+    sources: 'Geprüfte Quellen',
+    sourcesText: 'Dieser Guide basiert auf den offiziellen Straßenverkehrsordnungen und Vorschriften der Verkehrsbehörden jedes Landes (französischer Code de la Route, deutsche StVO, spanische DGT / Ley 7/2023, italienischer Codice della Strada, Schweizer Straßenverkehrsgesetz), den offiziellen Bestimmungen von Eurotunnel Le Shuttle, DFDS, Brittany Ferries und P&O Ferries sowie veröffentlichten tierärztlichen Empfehlungen. Prüfen Sie vor der Reise stets die aktuellen Vorschriften der Behörden des Ziellandes.',
+
+    checklistTitle: 'Checkliste vor der Abfahrt',
+    checklist: [
+      { icon: '📔', label: 'Aktueller EU-Heimtierausweis', note: 'Mikrochip + gültige Tollwutimpfung' },
+      { icon: '🔒', label: 'Crashgetestetes Rückhaltesystem', note: 'Crashgetestetes Auto-Sicherheitsgeschirr, gesicherte Transportbox oder Trenngitter' },
+      { icon: '💧', label: 'Frisches Wasser und Reisenapf', note: 'Alle 2 Stunden Wasser anbieten' },
+      { icon: '🩺', label: 'Erste-Hilfe-Set für den Hund', note: 'Zeckenzange, Antiseptikum, Verbandsmaterial, Maulkorb, Kontaktkarte des Tierarztes' },
+      { icon: '🌡️', label: 'Den Hund nie allein im Auto lassen', note: 'Selbst im Schatten kann die Temperatur in 10 Minuten lebensgefährlich werden' },
+      { icon: '🗂️', label: 'Kopien der Dokumente (Sicherheit)', note: 'Originale immer griffbereit halten, nie im aufgegebenen Gepäck' },
+    ],
+
+    safetyTitle: 'Sicherheit im Auto: Sicherheitsgeschirr, Transportbox oder Trenngitter?',
+    safetyIntro: 'Bei einem Aufprall mit 50 km/h wird ein ungesicherter 20-kg-Hund zu einem 300-kg-Geschoss. Crashtest-Daten zeigen je nach gewähltem Rückhaltesystem sehr unterschiedliche Schutzniveaus.',
+    safetyOptions: [
+      {
+        icon: '🔒',
+        title: 'Ordnungsgemäß gesicherte Transportbox',
+        rating: 'Bester Schutz',
+        ratingColor: 'text-emerald-700 bg-emerald-50 border-emerald-200',
+        text: 'Eine feste Transportbox, die an den Verzurrösen des Kofferraums verschraubt oder ordentlich festgezurrt ist, bietet den sichersten Schutz. Feste Wände verteilen die Aufprallkräfte um den Hund herum, statt sie an einem Punkt zu konzentrieren. Wichtig: Eine lose im Kofferraum stehende Transportbox bietet kaum mehr Schutz als ein ungesicherter Hund.',
+      },
+      {
+        icon: '🪢',
+        title: 'Crashgetestetes Sicherheitsgeschirr',
+        rating: 'Ausreichend bei Zertifizierung',
+        ratingColor: 'text-amber-700 bg-amber-50 border-amber-200',
+        text: 'Von 11 Sicherheitsgeschirren, die vom Center for Pet Safety (CPS) getestet wurden, bestand nur eines die Prüfung. Die meisten Standardgeschirre versagen oberhalb von 40 km/h. Wählen Sie stets ein Modell mit geprüfter Crashtest-Zertifizierung, niemals ein umfunktioniertes Spaziergeschirr.',
+      },
+      {
+        icon: '🚧',
+        title: 'Kofferraum-Trenngitter oder Netz',
+        rating: 'Teilweiser Schutz',
+        ratingColor: 'text-blue-700 bg-blue-50 border-blue-200',
+        text: 'Ein Trenngitter hindert den Hund daran, in den Fahrgastraum zu gelangen, bietet bei einem frontalen Aufprall aber kaum Schutz: Der Hund kann gegen das Gitter selbst geschleudert werden. Sinnvoll in Kombination mit einer Transportbox, allein für lange Strecken nicht ausreichend.',
+      },
+    ],
+    safetyCrashNote: 'Tipp: Egal für welches System Sie sich entscheiden, gewöhnen Sie Ihren Hund schrittweise daran, bevor es auf die große Reise geht.',
+
+    planningTitle: 'Die Fahrt planen',
+    planningIntro: 'Die meisten Tierärzte empfehlen maximal alle 2 bis 3 Stunden eine Pause. Welpen, ältere Hunde und brachyzephale Rassen (Bulldoggen, Möpse …) benötigen unter Umständen häufigere Pausen.',
+    planningItems: [
+      { icon: '⏱️', title: 'Alle 2 Stunden eine Pause', text: '15 bis 30 Minuten Bewegung, frisches Wasser, Körpertemperatur kontrollieren. Nicht mehr als 7 Stunden Fahrzeit pro Tag.' },
+      { icon: '💧', title: 'Regelmäßige Flüssigkeitszufuhr', text: 'Bei jeder Pause Wasser anbieten. Vor der Abfahrt keine schweren Mahlzeiten, um Reiseübelkeit zu vermeiden. Ein leerer Magen 2–3 Stunden vor der Abfahrt wird empfohlen.' },
+      { icon: '🌿', title: 'Hundefreundliche Raststätten', text: 'Auf französischen Autobahnen bieten die Netze APRR/AREA und Vinci speziell eingerichtete Hundebereiche (Spielgeräte, Hindernisse, schattige Zonen). Die APRR-Karte mit hundefreundlichen Rastplätzen ist über die App Fulli verfügbar.' },
+      { icon: '🌡️', title: 'Hitzemanagement', text: 'Bei 25 °C Außentemperatur erreicht der Innenraum in unter 30 Minuten 50 °C. Lassen Sie Ihren Hund NIEMALS allein im Auto. Einen Spalt geöffnete Fenster machen kaum einen Unterschied, der Temperaturanstieg ist fast identisch.' },
+    ],
+
+    borderTitle: 'Grenzübertritte mit dem Auto',
+    borderIntro: 'Innerhalb des Schengen-Raums (die meisten EU-Länder) sind Grenzkontrollen selten, die Dokumente müssen aber auf Verlangen vorgezeigt werden können. Bei Nicht-Schengen-Ländern ist mit einer systematischen Kontrolle zu rechnen.',
+    borderItems: [
+      {
+        flag: '🇪🇺',
+        zone: 'EU-Länder (Schengen)',
+        docs: 'EU-Heimtierausweis + Mikrochip + aktuelle Tollwutimpfung',
+        notes: 'Kontrollen sind selten, aber möglich. Dokumente auf Verlangen vorzeigen. Verpflichtende Prüfung: Finnland, Irland (Bandwurmbehandlung erforderlich).',
+      },
+      {
+        flag: '🇨🇭',
+        zone: 'Schweiz (außerhalb der EU, außerhalb Schengen)',
+        docs: 'EU-Ausweis oder gleichwertiges Dokument akzeptiert + Mikrochip + Tollwutimpfung',
+        notes: 'Kontrolle bei der Einreise. Für die Tiermeldung den roten Kanal nutzen. Für EU-Reisende ist keine zusätzliche Behandlung erforderlich.',
+      },
+      {
+        flag: '🇳🇴',
+        zone: 'Norwegen (EWR, außerhalb der EU)',
+        docs: 'EU-Ausweis akzeptiert + verpflichtende Bandwurmbehandlung 1–5 Tage vor der Einreise',
+        notes: 'Verpflichtende Meldung am norwegischen Zoll (roter Kanal). Die Echinococcus-Behandlung muss von einem Tierarzt im Ausweis eingetragen werden.',
+      },
+      {
+        flag: '🇬🇧',
+        zone: 'Vereinigtes Königreich (nach dem Brexit)',
+        docs: 'Tiergesundheitsbescheinigung (AHC), innerhalb von 10 Tagen ausgestellt + Bandwurmbehandlung 1–5 Tage vorher',
+        notes: 'Der EU-Heimtierausweis wird nicht mehr akzeptiert. Nur über zugelassene Einreisepunkte (Dover, St Pancras …). Zugelassener Beförderer erforderlich.',
+      },
+    ],
+
+    crossingTitle: 'Eurotunnel und Fähren: das müssen Sie wissen',
+    eurotunnelTitle: 'Eurotunnel Le Shuttle (Folkestone ↔ Calais)',
+    eurotunnelItems: [
+      'Ihre Tiere bleiben während der gesamten 35-minütigen Überfahrt im Fahrzeug, keine Trennung erforderlich.',
+      'Check-in am Tierschalter mindestens 1 Stunde vor der Abfahrt (nicht mehr als 2 Stunden).',
+      'Beide Terminals (Folkestone und Coquelles) bieten einen 24-Stunden-Tierschalter.',
+      'Erforderliche Dokumente: EU-Heimtierausweis (oder AHC ab dem Vereinigten Königreich) + Bandwurmbehandlung für die Einreise nach Großbritannien.',
+      'Kosten: etwa 22 £ pro Tier und Fahrt (zusätzlich zum Fahrzeugticket).',
+    ],
+    ferriesTitle: 'Fähren (Ärmelkanal und Nordsee)',
+    ferries: [
+      {
+        name: 'Brittany Ferries',
+        notes: 'Tierfreundliche Kabinen (Hund bei Ihnen in der Kabine) auf den meisten Strecken verfügbar. Zwinger an Bord ebenfalls verfügbar. Maulkorbpflicht in Gemeinschaftsbereichen. Ab 35 £ pro einfache Fahrt.',
+      },
+      {
+        name: 'DFDS',
+        notes: 'Tierfreundliche Kabinen (4 Betten, Meerblick, max. 2 Tiere). Zwinger an Bord für 40 € pro Hund und Fahrt. Der Hund muss in Gemeinschaftsbereichen an der Leine geführt werden.',
+      },
+      {
+        name: 'P&O Ferries',
+        notes: '6 hundefreundliche Kabinen pro Fähre auf der Strecke Hull–Rotterdam (nächtliche Überfahrt von ca. 12 Stunden). Max. 2 kleine Hunde oder 1 mittelgroßer/großer Hund pro Kabine.',
+      },
+    ],
+
+    firstAidTitle: 'Erste-Hilfe-Set für die Autoreise',
+    firstAidItems: [
+      { icon: '🪲', item: 'Zeckenzange (x2)', note: 'Unverzichtbar im Sommer und in Waldgebieten' },
+      { icon: '🩹', item: 'Verbandsmaterial und sterile Kompressen', note: 'Zur Stabilisierung einer Verletzung bis zum Tierarzt' },
+      { icon: '🧴', item: 'Antiseptikum (Chlorhexidin oder Betadine)', note: 'Wunden und Schnitte reinigen' },
+      { icon: '😷', item: 'Maulkorb passend zur Größe des Hundes', note: 'Ein verletzter Hund kann vor Schmerz beißen, schützen Sie sich, bevor Sie handeln' },
+      { icon: '🌡️', item: 'Rektalthermometer', note: 'Normal: 38–39 °C. Über 40 °C = Notfall' },
+      { icon: '🧊', item: 'Wiederverwendbarer Kühlakku', note: 'Bei Hitzschlag: schrittweise abkühlen (niemals eiskaltes Wasser)' },
+      { icon: '💊', item: 'Vom Tierarzt verschriebenes Mittel gegen Reisekrankheit', note: 'Vor der Abfahrt beim Tierarzt erfragen' },
+      { icon: '📋', item: 'Kontakt des örtlichen Tierarztes + Tiernotdienst in Europa', note: 'ECVIM-Nummer oder FindAVet je nach Zielland' },
+      { icon: '🚿', item: 'Desinfektionstücher und Latexhandschuhe', note: 'Für saubere Erste-Hilfe-Maßnahmen' },
+      { icon: '📌', item: 'Zwei Fotos Ihres Hundes + Mikrochip-Nummer', note: 'Für den Fall des Entlaufens im Ausland' },
+    ],
+
+    faqTitle: 'Häufig gestellte Fragen',
+    faqs: [
+      {
+        q: 'Muss mein Hund im Auto in Europa gesichert sein?',
+        a: 'In den meisten europäischen Ländern (Frankreich, Deutschland, Spanien, Italien, Schweiz) ja, wobei die rechtliche Grundlage variiert. Manche Länder verhängen ein direktes Bußgeld für einen ungesicherten Hund, andere stützen sich auf die allgemeine Pflicht, den Fahrer nicht abzulenken. In der Praxis sollten Sie stets ein crashgetestetes Rückhaltesystem nutzen, zur Sicherheit Ihres Hundes und zu Ihrem eigenen rechtlichen Schutz.',
+      },
+      {
+        q: 'Wie oft sollte ich bei einem langen Roadtrip anhalten?',
+        a: 'Planen Sie alle 2 bis 3 Stunden eine Pause von 15 bis 30 Minuten ein. Welpen, ältere Hunde und brachyzephale Rassen (Bulldoggen, Möpse …) benötigen unter Umständen häufigere Pausen. Streben Sie maximal 7 Stunden Fahrzeit pro Tag an. Bieten Sie bei jeder Pause Wasser an.',
+      },
+      {
+        q: 'Darf ich meinen Hund während eines Roadtrips allein im Auto lassen?',
+        a: 'Nicht bei warmem oder sonnigem Wetter. Bei 25 °C Außentemperatur kann der Innenraum eines Autos in unter 30 Minuten 50–60 °C erreichen. Selbst bei einen Spalt geöffneten Fenstern ist der Temperaturanstieg fast identisch. Planen Sie Pausen im Team, nutzen Sie schattige Parkplätze oder eine reflektierende Sonnenblende. Bei strengem Winterfrost besteht zudem das Risiko einer Unterkühlung.',
+      },
+      {
+        q: 'Brauche ich einen Heimtierausweis für meinen Hund, um mit dem Auto eine Grenze zu überqueren?',
+        a: 'Ja. Für Reisen mit Ihrem Hund innerhalb Europas ist der EU-Heimtierausweis (oder ein gleichwertiges Dokument) unverzichtbar. Er muss den ISO-Mikrochip und eine aktuelle Tollwutimpfung enthalten. Für das Vereinigte Königreich ersetzt seit dem Brexit eine Tiergesundheitsbescheinigung (AHC) den EU-Ausweis. Für Norwegen und Finnland ist eine zusätzliche Entwurmungsbehandlung verpflichtend.',
+      },
+      {
+        q: 'Kann ich mit meinem Hund im Auto durch den Tunnel über den Ärmelkanal fahren?',
+        a: 'Ja, über den Eurotunnel Le Shuttle. Ihre Tiere bleiben während der 35-minütigen Überfahrt im Fahrzeug. Check-in am Tierschalter mindestens 1 Stunde vor der Abfahrt. Dokumente: EU-Heimtierausweis (ab Frankreich) oder AHC + Bandwurmbehandlung (ab Großbritannien). Kosten: etwa 22 £ pro Tier zusätzlich zum Fahrzeugticket.',
+      },
+      {
+        q: 'Woran erkenne ich einen Hitzschlag bei meinem Hund, und was sollte ich tun?',
+        a: 'Warnzeichen: übermäßiges Hecheln, leuchtend rotes Zahnfleisch, starker Speichelfluss, unsicherer Gang, Erbrechen. Bei Verdacht auf einen Hitzschlag: den Hund in den Schatten bringen, mit kühlem (nicht eiskaltem) Wasser befeuchten, kleine Mengen Wasser zum Trinken anbieten und umgehend einen Tierarzt aufsuchen. Die normale Temperatur liegt bei 38–39 °C, über 40 °C liegt ein lebensbedrohlicher Notfall vor.',
+      },
+      {
+        q: 'Ist mein Hund bei einem Autounfall im Ausland versichert?',
+        a: 'Prüfen Sie sowohl Ihre Kfz-Versicherung als auch Ihre Tierkrankenversicherung: Manche übernehmen tierärztliche Notfallkosten im Ausland, andere nicht. Manche Premium-Kfz-Versicherungen beinhalten eine Tierassistance. Schließen Sie vor der Reise eine Tierkrankenversicherung mit internationalem Schutz ab, tierärztliche Notfallkosten in Europa können sehr hoch ausfallen.',
+      },
+    ],
+
+    relatedTitle: 'Verwandte Guides',
+    relatedItems: [
+      { href: 'passeport-animal', label: 'Heimtierausweis: der komplette Guide nach Land' },
+      { href: 'train-avec-chien', label: 'Mit dem Zug reisen mit Ihrem Hund' },
+    ],
+    tipTitle: 'Praktischer Tipp',
+    tipText: 'Lassen Sie vor einem langen Roadtrip eine tierärztliche Untersuchung durchführen, aktualisieren Sie die Impfungen und fragen Sie, ob Ihr Hund ein Mittel gegen Reisekrankheit benötigt. Ihr Tierarzt kann Ihnen auch Kontakte von Kollegen in Ihrem Zielland nennen.',
+    tableHeaderCountry: 'Land',
+    tableHeaderMandatory: 'Sicherung Pflicht?',
+    tableHeaderFine: 'Bußgeld',
+    tableHeaderNotes: 'Spezifische Regeln',
+    countryLawTitle: 'Gesetze zur Hundesicherung im Auto nach Land',
+  },
 }
 
 export default async function RoadTripChienPage({
@@ -864,11 +1044,11 @@ export default async function RoadTripChienPage({
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
 
-  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
+  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
   const copy = COPY[lang] ?? COPY.en
   const today = new Date()
   const monthYear = today.toLocaleDateString(
-    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : 'en-GB',
+    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'de' ? 'de-DE' : 'en-GB',
     { month: 'long', year: 'numeric' }
   )
 
@@ -1037,14 +1217,14 @@ export default async function RoadTripChienPage({
                 </thead>
                 <tbody className="divide-y divide-gray-50 bg-white">
                   {RESTRAINT_RULES.map((rule, i) => {
-                    const isMandatory = rule.mandatory[lang].startsWith('Y') || rule.mandatory[lang].startsWith('O') || rule.mandatory[lang].startsWith('S')
+                    const isMandatory = rule.mandatory[lang].startsWith('Y') || rule.mandatory[lang].startsWith('O') || rule.mandatory[lang].startsWith('S') || rule.mandatory[lang].startsWith('J')
                     return (
                       <tr key={i} className="hover:bg-gray-50 transition-colors">
                         <td className="px-4 py-4 font-medium text-gray-900">
                           <span className="mr-2">{rule.flag}</span>{rule.country[lang]}
                         </td>
                         <td className="px-4 py-4">
-                          <span className={`inline-flex items-center gap-1 text-xs font-semibold px-2 py-1 rounded-full ${isMandatory && !rule.mandatory[lang].includes('Recomm') && !rule.mandatory[lang].includes('not') && !rule.mandatory[lang].includes('pas de') && !rule.mandatory[lang].includes('sin') ? 'bg-emerald-50 text-emerald-700' : 'bg-gray-100 text-gray-600'}`}>
+                          <span className={`inline-flex items-center gap-1 text-xs font-semibold px-2 py-1 rounded-full ${isMandatory && !rule.mandatory[lang].includes('Recomm') && !rule.mandatory[lang].includes('not') && !rule.mandatory[lang].includes('pas de') && !rule.mandatory[lang].includes('sin') && !rule.mandatory[lang].includes('Empfohlen') ? 'bg-emerald-50 text-emerald-700' : 'bg-gray-100 text-gray-600'}`}>
                             {rule.mandatory[lang]}
                           </span>
                         </td>
@@ -1131,7 +1311,7 @@ export default async function RoadTripChienPage({
                 href={`/${locale}/guides/passeport-animal`}
                 className="inline-flex items-center gap-2 text-sm font-semibold text-blue-600 hover:text-blue-700 bg-blue-50 hover:bg-blue-100 px-4 py-2 rounded-full transition-colors"
               >
-                📔 {lang === 'fr' ? 'Guide complet passeport animal →' : lang === 'es' ? 'Guía completa del pasaporte →' : 'Complete pet passport guide →'}
+                📔 {lang === 'fr' ? 'Guide complet passeport animal →' : lang === 'es' ? 'Guía completa del pasaporte →' : lang === 'de' ? 'Kompletter Guide zum Heimtierausweis →' : 'Complete pet passport guide →'}
               </Link>
             </div>
           </section>

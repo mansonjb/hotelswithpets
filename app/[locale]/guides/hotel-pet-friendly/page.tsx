@@ -12,6 +12,7 @@ const STICKY_LABELS_HOTEL: Record<string, { label: string; cta: string }> = {
   fr: { label: `Hôtels pet-friendly les mieux notés d'Europe`, cta: 'Voir les hôtels' },
   es: { label: 'Los hoteles pet-friendly mejor valorados de Europa', cta: 'Ver hoteles' },
   pt: { label: 'Os hotéis pet-friendly melhor avaliados de Europa', cta: 'Ver hotéis' },
+  de: { label: 'Die bestbewerteten haustierfreundlichen Hotels in Europa', cta: 'Hotels ansehen' },
 }
 
 export async function generateStaticParams() {
@@ -31,12 +32,14 @@ export async function generateMetadata({
     fr: 'Comment choisir un vrai hôtel pet-friendly en Europe : le guide sans langue de bois (2025)',
     es: 'Cómo elegir un hotel realmente pet-friendly en Europa: la guía sin rodeos (2025)',
     pt: 'Como elegir um hotel realmente pet-friendly en Europa: a guía sem rodeos (2025)',
+    de: 'So finden Sie ein wirklich haustierfreundliches Hotel in Europa: der Leitfaden ohne Umschweife (2025)',
   }
   const descriptions: Record<string, string> = {
     en: 'The definitive guide to decoding hotel pet policies in Europe. Red flags, green flags, questions to ask, real price ranges, and how booking platforms actually work, so you never get a nasty surprise at check-in.',
     fr: 'Le guide définitif pour décoder les politiques animaux des hôtels en Europe. Signaux d\'alarme, bons signes, questions à poser, vrais tarifs et fonctionnement des plateformes de réservation, pour ne plus jamais avoir de mauvaise surprise à l\'arrivée.',
     es: 'La guía definitiva para descifrar las políticas de mascotas en hoteles de Europa. Señales de alerta, buenas señales, preguntas que hacer, rangos de precios reales y cómo funcionan las plataformas de reserva, para no tener sorpresas desagradables al hacer el check-in.',
     pt: 'A guía definitiva para descifrar as políticas de animais en hotéis de Europa. Senhales de alerta, buenas senhales, preguntas que hacer, rangos de preços reales e como funcionam as plataformas de reserva, para no tener sorpresas desagradables al hacer o check-in.',
+    de: 'Der ultimative Leitfaden zum Entschlüsseln der Haustierregelungen von Hotels in Europa. Warnsignale, positive Signale, Fragen, die Sie stellen sollten, reale Preisspannen und wie Buchungsplattformen wirklich funktionieren, damit Sie beim Check-in nie eine böse Überraschung erleben.',
   }
 
   const today = new Date().toISOString().split('T')[0]
@@ -778,6 +781,184 @@ const COPY = {
     relatedDestTitle: 'MELHORES destinos pet-friendly em Europa',
     relatedDestText: 'Encuentra os MELHORES hotéis para o teu animal em estes destinos',
   },
+
+  de: {
+    breadcrumbGuides: 'Ratgeber',
+    breadcrumbThis: 'Wie Sie ein haustierfreundliches Hotel wählen',
+    badge: 'Der ultimative Leitfaden',
+    hero: 'So finden Sie ein wirklich haustierfreundliches Hotel in Europa',
+    subtitle: `Dieser Leitfaden bewahrt Sie vor unangenehmen Überraschungen beim Check-in. Denn "haustierfreundlich" kann alles bedeuten, von widerwilliger Duldung bis zu einem echten Willkommenspaket für Ihren Hund.`,
+    lastUpdate: 'Aktualisiert im',
+
+    realityTitle: `"Haustierfreundlich" bedeutet sehr unterschiedliche Dinge`,
+    realityText: [
+      `Sie suchen nach "haustierfreundlichen Hotels", filtern, buchen und stehen dann mit Ihrem Hund an der Rezeption, um einen Zuschlag von 50 €/Nacht, ein Verbot des Frühstücksraums und ein laminiertes Schild mit der Aufschrift "Haustiere dürfen zu keinem Zeitpunkt unbeaufsichtigt bleiben" zu entdecken. Willkommen.`,
+      `Am anderen Ende der Skala bieten wirklich haustierfreundliche Hotels ein Willkommenspaket für Hunde (Leckerlis, ein Spielzeug, einen Napf), eine eigene Hundekarte im Restaurant, Personal, das die besten Gassi-Runden vor Ort kennt, und ein Erdgeschosszimmer mit direktem Gartenzugang. Diese Hotels gibt es in ganz Europa, in allen Preisklassen.`,
+      `Das Problem ist, dass Buchungsplattformen für beide dasselbe Etikett "haustierfreundlich" verwenden. Dieser Leitfaden zeigt Ihnen, wie Sie sie unterscheiden, bevor Sie ankommen.`,
+    ],
+
+    redFlagsTitle: 'Warnsignale: Alarmzeichen in Hotelbeschreibungen',
+    redFlagsIntro: 'Achten Sie auf diese Formulierungen in einer Hotelbeschreibung oder Haustierregelung und gehen Sie mit Vorsicht vor, oder rufen Sie vorher an.',
+    redFlags: [
+      { flag: `"Haustiere nach Rücksprache"`, meaning: `Das bedeutet, man teilt Ihnen mit, ob Ihr konkretes Haustier willkommen ist. Übersetzung: nicht wirklich haustierfreundlich.` },
+      { flag: `"Nur kleine Haustiere" (ohne Größenangabe)`, meaning: `Was gilt als klein? 5 kg? 10 kg? Ohne Gewichtsangabe wird Ihr 12 kg schwerer Beagle möglicherweise an der Tür abgewiesen.` },
+      { flag: `"Haustiere nur in Außenbereichen erlaubt"`, meaning: `Ihr Hund wartet draußen, während Sie schlafen, essen und leben. Im Klartext: Ihr Hund bleibt auf dem Parkplatz angebunden.` },
+      { flag: 'Keine Angabe zu Gewichts- oder Rassebeschränkung, aber 5 kg Grenze im Kleingedruckten', meaning: `Lesen Sie immer die vollständige Haustierregelung, nicht nur das Filterergebnis. Das Siegel "haustierfreundlich" von Booking.com garantiert nicht, dass Ihr konkreter Hund qualifiziert.` },
+      { flag: `"Haustiergebühr wird beim Check-in erhoben" (kein Betrag genannt)`, meaning: `Ein Blankoscheck, den Sie um Mitternacht nach einer langen Fahrt unterschreiben. Bestätigen Sie immer den genauen Betrag vor der Buchung.` },
+      { flag: `"Haustierfreundliche Zimmer verfügbar"`, meaning: `Bedeutet oft ein einziges Zimmer, am weitesten vom Aufzug entfernt, zum Wirtschaftseingang hin gelegen, für die nächsten sechs Monate ausgebucht.` },
+      { flag: 'Keine Erwähnung von Haustieren auf der Website', meaning: `Ist ein Hotel stolz darauf, haustierfreundlich zu sein, sagt es das laut. Schweigen bedeutet meist Duldung statt echtem Willkommen.` },
+    ],
+
+    greenFlagsTitle: 'Positive Signale: Anzeichen eines wirklich haustierfreundlichen Hotels',
+    greenFlagsIntro: 'Das unterscheidet Hotels, die Haustiere willkommen heißen, von Hotels, die sie nur dulden.',
+    greenFlags: [
+      { flag: 'Klar angegebene Haustiergebühr (oder ausdrücklich kostenlos)', meaning: `Preistransparenz ist der zuverlässigste Indikator für ein Hotel, das ernsthaft über die Beherbergung von Haustieren nachgedacht hat.` },
+      { flag: 'Keine Rasse- oder Gewichtsbeschränkungen (oder klar angegebene Grenzen)', meaning: `Akzeptieren sie alle Rassen und Größen oder nennen sie die Grenzen klar, haben sie sich die Mühe gemacht, eine echte Regelung aufzustellen.` },
+      { flag: 'Hundebett, Napf, Matte auf Anfrage erhältlich', meaning: `Zeigt Investition in die Infrastruktur. Diese Hotels haben die Beherbergung von Haustieren fest in ihren Betrieb integriert.` },
+      { flag: 'Hundeleckerlis an der Rezeption oder eine eigene Hundekarte', meaning: `Das ist der Goldstandard. Ein Hotel mit einer Hundekarte hat echte Gastfreundschaft für Haustiere verinnerlicht.` },
+      { flag: 'Personal, das lokale Gassi-Runden kennt', meaning: `Fragen Sie beim Bestätigungsanruf: "Können Sie eine Gassi-Runde in der Nähe empfehlen?" Eine gute Antwort ist ein sehr gutes Zeichen.` },
+      { flag: 'Erdgeschosszimmer oder garantierter Aufzugzugang', meaning: `Ein "haustierfreundliches" Zimmer im 5. Stock ohne Aufzug ist für niemanden mit einem großen Hund oder Mobilitätseinschränkungen wirklich haustierfreundlich.` },
+      { flag: 'Außendusche oder Pfotenwaschstation', meaning: `Durchdachte Infrastruktur. Besonders nützlich nach Strand- oder Landspaziergängen.` },
+      { flag: 'Pet-Sitting oder Gassi-Service verfügbar', meaning: `Selten, aber wunderbar. Signalisiert ein Hotel, das Haustiere als geschätzte Gäste sieht, nicht als Problem, das man verwalten muss.` },
+    ],
+
+    questionsTitle: 'Fragen, die Sie vor der Buchung stellen sollten',
+    questionsIntro: 'Rufen Sie das Hotel direkt an oder schreiben Sie eine E-Mail, bevor Sie bestätigen. Diese sieben Fragen sagen Ihnen alles, was Sie wissen müssen.',
+    questions: [
+      'Wie hoch ist die genaue Haustiergebühr pro Nacht, und gilt sie pro Tier?',
+      'Sind alle Zimmertypen und Kategorien mit Haustier verfügbar, oder nur bestimmte Zimmer?',
+      `Gibt es eine Gewichts- oder Rassebeschränkung? (Nennen Sie Rasse und Gewicht Ihres Hundes.)`,
+      'Ist die Gebühr erstattungsfähig, wenn das Haustier keinen Schaden verursacht?',
+      'Sind Haustiere in Gemeinschaftsbereichen erlaubt, Lobby, Restaurant, Terrasse, Poolbereich?',
+      'Gibt es einen ausgewiesenen Auslaufbereich im Freien oder einen nahegelegenen Park?',
+      'Dürfen wir unser Haustier unbeaufsichtigt im Zimmer lassen? Gibt es Zeitlimits?',
+    ],
+    questionsTip: `Profi-Tipp: Schicken Sie diese Fragen per E-Mail, damit Sie die Antworten schriftlich haben. Ist die Antwort des Hotels vage, ausweichend oder dauert länger als 48 Stunden, sagt Ihnen auch das etwas.`,
+
+    platformsTitle: 'Wie Buchungsplattformen mit "haustierfreundlich" umgehen',
+    platforms: [
+      {
+        name: 'Booking.com',
+        icon: '🔵',
+        how: `Hotels deklarieren sich beim Erstellen ihres Eintrags selbst als haustierfreundlich. Der Filter zeigt alle Unterkünfte, die das Kästchen angekreuzt haben, aber dieses Kästchen deckt alles ab, von "eine Katze unter 3 kg" bis "alle Haustiere willkommen, keine Gebühr". Die tatsächliche Regelung ist im Tab mit den Objektdetails versteckt. Klicken Sie immer weiter.`,
+        tip: `Klicken Sie nach dem Filtern auf die Hotelseite und suchen Sie den Abschnitt "Haustiere" unter "Hausregeln". Dort finden sich oft Gewichtsgrenzen, Gebühren und Einschränkungen, die im Haupteintrag nicht angezeigt werden.`,
+      },
+      {
+        name: 'Airbnb',
+        icon: '🔴',
+        how: `Gastgeber aktivieren die Einstellung "Haustiere erlaubt". Reinigungsgebühren können erheblich sein. Manche Gastgeber haben nicht deklarierte Allergien oder Tierverbote laut ihrer Hausordnung. Kontaktieren Sie den Gastgeber vor der Buchung, um Ihr konkretes Haustier zu bestätigen.`,
+        tip: `Airbnbs Stornierungsbedingungen sind strenger als bei Hotels. Bestätigen Sie die Haustierzusage immer, bevor Sie die nicht erstattungsfähige Servicegebühr bezahlen.`,
+      },
+      {
+        name: 'Expedia / Hotels.com',
+        icon: '🟡',
+        how: `Ähnliches Selbstdeklarationssystem wie bei Booking.com. Die Haustierregelungen unterscheiden sich stark. Der Filter "haustierfreundlich" ist ein Ausgangspunkt, keine Garantie.`,
+        tip: `Nutzen Sie diese Plattformen, um Optionen zu finden, und bestätigen Sie dann direkt beim Hotel, bevor Sie einen Aufenthalt mit Haustier buchen.`,
+      },
+      {
+        name: 'Direkte Hotelbuchung',
+        icon: '✅',
+        how: `Immer der Goldstandard für Aufenthalte mit Haustier. Sie können gezielte Fragen stellen, das am besten geeignete Zimmer anfragen und manchmal die Gebühr verhandeln, besonders außerhalb der Hochsaison.`,
+        tip: `Viele unabhängige Hotels bieten ihre besten Haustierregelungen bei Direktbuchung an, weil sie mit Ihnen ein echtes Gespräch über die Bedürfnisse Ihres Haustiers führen können.`,
+      },
+    ],
+    platformsConclusion: 'Die universelle Regel: Filtern Sie auf einer Plattform, um Optionen zu finden, und rufen Sie dann das Hotel direkt an oder schreiben Sie eine E-Mail, um zu bestätigen. Dieser eine Schritt eliminiert 90 % der unangenehmen Überraschungen beim Check-in.',
+
+    pricesTitle: 'Was Sie zahlen müssen: Haustiergebühren in Europa (2025)',
+    pricesIntro: 'Haustiergebühren unterscheiden sich in Europa enorm. Hier erfahren Sie, was normal, was akzeptabel und was überzogen ist.',
+    priceTiers: [
+      { range: 'Kostenlos', label: 'Kostenlos / Keine Gebühr', desc: `Zunehmend üblich bei unabhängigen Hotels, Boutique-Häusern und in sehr haustierfreundlichen Ländern wie Deutschland und den Niederlanden. Wirbt ein Hotel damit, nehmen Sie es beim Wort, es ist ein echtes Unterscheidungsmerkmal.`, color: 'emerald' },
+      { range: '5–15 €/Nacht', label: 'Preisgünstig', desc: 'Standard bei Budget- und Mittelklassehotels in Südeuropa (Spanien, Portugal, Italien, Griechenland). Absolut angemessen für das, was Sie bekommen.', color: 'blue' },
+      { range: '20–35 €/Nacht', label: 'Mittelklasse-Standard', desc: 'Typisch für 3-4-Sterne-Hotels in Frankreich, Belgien, der Schweiz und Skandinavien. Enthält oft Haustierausstattung. Akzeptabel, wenn sich das Hotel wirklich um Haustiere kümmert.', color: 'amber' },
+      { range: '50 €+/Nacht', label: 'Luxusklasse', desc: `Üblich bei Fünf-Sterne- und Designhotels. Kann Premiumleistungen umfassen (Haustiermenü, Pet-Sitting, spezielle Bettwäsche). Manche berechnen eine Pauschale pro Aufenthalt statt pro Nacht.`, color: 'purple' },
+      { range: '80–150 €+', label: 'Warnbereich', desc: `Fragen Sie auf diesem Niveau, was die Gebühr abdeckt. Ist es nur ein Aufpreis ohne Leistungen, verhandeln Sie, oder gehen Sie weiter. Manche Stadthotels in Paris und London haben in der Vergangenheit absurde Beträge ohne entsprechende Gegenleistung berechnet.`, color: 'red' },
+    ],
+    pricesNote: 'Hinweis: Manche Länder erheben eine separate Kurtaxe für Haustiere. Bestätigen Sie immer den Gesamtbetrag inklusive einer eventuellen Reinigungskaution, die in der Regel erstattungsfähig ist.',
+
+    categoriesTitle: 'Arten haustierfreundlicher Hotels: Welche passt zu Ihnen?',
+    categories: [
+      {
+        type: 'Hundefreundliche Hotels',
+        icon: '🐕',
+        desc: 'Die häufigste Kategorie. Achten Sie auf Unterkünfte, die Hunde aller Größen ausdrücklich willkommen heißen, über Außenbereiche verfügen und in der Nähe von Parks oder Gassi-Wegen liegen.',
+        link: '/categories/dog-friendly',
+        linkLabel: 'Hundefreundliche Hotels ansehen',
+      },
+      {
+        type: 'Katzenfreundliche Hotels',
+        icon: '🐈',
+        desc: 'Weniger verbreitet und oft übersehen. Katzen haben andere Bedürfnisse: Wohnkomfort drinnen, keine hündischen Nachbarn, ruhige Etagen. Manche Hotels richten sich mit eigenen Bereichen ausdrücklich an Katzen.',
+        link: '/categories/cat-friendly',
+        linkLabel: 'Katzenfreundliche Hotels ansehen',
+      },
+      {
+        type: 'Hunde übernachten kostenlos',
+        icon: '🆓',
+        desc: 'Ein wachsendes Segment in ganz Europa. Viele unabhängige und Boutique-Hotels haben Haustiergebühren als Wettbewerbsvorteil komplett gestrichen. Es lohnt sich, gezielt danach zu filtern.',
+        link: '/categories/dogs-stay-free',
+        linkLabel: 'Hotels ohne Haustiergebühr finden',
+      },
+      {
+        type: 'Luxuriöse Aufenthalte mit Haustier',
+        icon: '⭐',
+        desc: 'Fünf-Sterne-Hotels in Städten wie Paris, London, Rom und Zürich wetteifern zunehmend um Haustiergastfreundschaft: Willkommensgeschenke, Hundemenüs aufs Zimmer, eigene Concierge-Dienste und Pet-Sitting.',
+        link: '/categories/luxury-pet-friendly',
+        linkLabel: 'Luxushotels für Haustiere entdecken',
+      },
+      {
+        type: 'Aufenthalte in Parknähe und auf dem Land',
+        icon: '🌲',
+        desc: 'Für Hunde, die Platz brauchen: Hotels in der Nähe von Nationalparks, Wäldern oder Küstenwegen. Außenduschen und Trockenräume sind in dieser Kategorie Standard.',
+        link: '/categories/countryside-pet-friendly',
+        linkLabel: 'Haustierfreundliche Landhotels ansehen',
+      },
+    ],
+
+    faqTitle: 'Häufig gestellte Fragen',
+    faqs: [
+      {
+        q: 'Wie hoch ist die durchschnittliche Haustiergebühr in einem Hotel in Europa?',
+        a: `2025 reicht die durchschnittliche Haustiergebühr in einem europäischen Hotel von kostenlos bis etwa 25 € pro Nacht. Budgetunterkünfte in Südeuropa verlangen typischerweise 10-15 €/Nacht. Mittelklassehotels in Frankreich, Belgien und Skandinavien liegen im Schnitt bei 20-30 €/Nacht. Luxushotels können 50 € oder mehr berechnen, manchmal als Pauschale pro Aufenthalt statt pro Nacht. Deutschland und die Niederlande haben einen großen Anteil an Hotels, die gar nichts berechnen.`,
+      },
+      {
+        q: 'Darf ich meinen Hund allein im Hotelzimmer lassen?',
+        a: `Die Regelungen unterscheiden sich enorm. Viele Hotels erlauben es für kurze Zeiträume (2-3 Stunden), wenn Ihr Hund an die Box gewöhnt ist und nicht bellt. Andere verbieten es ganz. Manche verlangen, dass Haustiere sogar in Ihrer Anwesenheit in der Box bleiben. Fragen Sie vor der Buchung immer ausdrücklich nach, gehen Sie nicht einfach davon aus. Müssen Sie Ihren Hund regelmäßig allein lassen, suchen Sie nach Hotels mit Pet-Sitting-Service oder in der Nähe von Hundetagesstätten.`,
+      },
+      {
+        q: 'Woran erkenne ich, ob ein Hotel wirklich haustierfreundlich ist oder Haustiere nur duldet?',
+        a: `Die klarsten Indikatoren sind: (1) Transparenz bei den Gebühren ohne versteckte Überraschungen, (2) konkret genannte Ausstattung (Hundebett, Näpfe, Leckerlis, Hundemenü), (3) Personal, das Ihre haustierspezifischen Fragen kompetent beantworten kann, und (4) Online-Bewertungen anderer Haustierbesitzer, die ihre Erfahrung schildern. Besteht die Haustierregelung eines Hotels nur aus einer Zeile mit "Haustiere erlaubt, Gebühr fällig", behandeln Sie das eher als Duldung denn als Willkommen.`,
+      },
+      {
+        q: 'Gibt es Gewichtsgrenzen, die ich vor der Buchung kennen sollte?',
+        a: `Ja, Gewichtsgrenzen sind die häufigste Quelle für Überraschungen beim Check-in. Viele auf Buchungsplattformen nominell "haustierfreundlich" gelistete Hotels haben eine Grenze von 5 oder 8 kg, die in der vollständigen Regelung versteckt ist. Hunde über 10 kg stoßen oft auf Einschränkungen oder werden ganz abgelehnt. Nennen Sie bei der Anfrage immer Rasse und Gewicht Ihres Hundes, und lassen Sie sich schriftlich bestätigen, dass Ihr konkreter Hund akzeptiert wird.`,
+      },
+      {
+        q: 'Ist der Haustierfilter von Booking.com zuverlässig?',
+        a: `Als Ausgangspunkt ja. Als Garantie nein. Der Filter zeigt Hotels, die sich selbst als haustierfreundlich deklariert haben, aber die Regelungen unterscheiden sich stark. Klicken Sie immer auf den vollständigen Abschnitt "Hausregeln" des Hotels bei Booking.com und rufen Sie idealerweise an oder schreiben Sie eine E-Mail, um vor der Buchung zu bestätigen. Das gilt für alle Buchungsplattformen, der Filter grenzt das Feld ein, nimmt Ihnen die Sorgfaltspflicht aber nicht ab.`,
+      },
+      {
+        q: `Was ist der Unterschied zwischen "haustierfreundlich" und "Hunde übernachten kostenlos"?`,
+        a: `"Haustierfreundlich" bedeutet, Haustiere sind erlaubt, aber meist gegen eine Gebühr. "Hunde übernachten kostenlos" ist eine ausdrückliche Regelung des Hotels, dass kein Haustierzuschlag anfällt. Die zweite Kategorie ist kleiner, wächst aber. Bei HotelsWithPets.com können Sie gezielt nach gebührenfreien Unterkünften filtern, um jede Unklarheit zu vermeiden.`,
+      },
+      {
+        q: 'Muss ich mein Haustier bei der Online-Buchung angeben?',
+        a: `Ja, immer. Ihr Haustier bei der Buchung nicht anzugeben und dennoch damit anzureisen ist unredlich und kann dazu führen, dass Sie zum Verlassen aufgefordert werden, insbesondere wenn das Hotel nur begrenzt haustierfreundliche Zimmer hat. Es hebt außerdem jeden möglichen Schutz durch eine Haustierschadenregelung auf. Kreuzen Sie immer das Kästchen zur Haustierdeklaration an, geben Sie Art und Größe Ihres Haustiers an und bestätigen Sie direkt beim Hotel.`,
+      },
+    ],
+
+    internalLinksTitle: 'Weiter entdecken',
+    internalLinks: [
+      { label: 'Alle haustierfreundlichen Reiseziele in Europa ansehen', href: '/destinations' },
+      { label: 'Hundefreundliche Hotels', href: '/categories/dog-friendly' },
+      { label: 'Hotels, in denen Hunde kostenlos übernachten', href: '/categories/dogs-stay-free' },
+      { label: 'Heimtierausweis-Anforderungen nach Land', href: '/guides/passeport-animal' },
+      { label: 'Alle Reiseratgeber', href: '/guides' },
+      { label: 'Top-Reiseziele für Haustiere in Europa', href: '/destinations' },
+    ],
+
+    relatedDestTitle: 'Top haustierfreundliche Reiseziele in Europa',
+    relatedDestText: 'Finden Sie die besten Hotels für Ihr Haustier in diesen Reisezielen',
+  },
 }
 
 const PRICE_COLOR_MAP: Record<string, { bg: string; text: string; border: string; dot: string }> = {
@@ -809,11 +990,11 @@ export default async function HotelPetFriendlyGuidePage({
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
 
-  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
+  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
   const copy = COPY[lang] ?? COPY.en
   const today = new Date()
   const monthYear = today.toLocaleDateString(
-    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : 'en-GB',
+    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'de' ? 'de-DE' : 'en-GB',
     { month: 'long', year: 'numeric' }
   )
 

@@ -18,6 +18,7 @@ const STICKY_LABELS_HOTELS_EU: Record<string, { label: string; cta: string }> = 
   fr: { label: `Hôtels pet-friendly en Europe, prix en direct`, cta: 'Voir les hôtels' },
   es: { label: 'Hoteles pet-friendly en Europa, precios en directo', cta: 'Ver hoteles' },
   pt: { label: `Hotéis pet-friendly na Europa, preços em directo`, cta: 'Ver hotéis' },
+  de: { label: `Haustierfreundliche Hotels in ganz Europa, Preise in Echtzeit`, cta: 'Hotels ansehen' },
 }
 
 const SPONSORED_LABEL: Record<string, string> = {
@@ -25,6 +26,7 @@ const SPONSORED_LABEL: Record<string, string> = {
   fr: `PARTENAIRE · SÉLECTION SPONSORISÉE`,
   es: 'PATROCINADO · SELECCIÓN DE PARTNER',
   pt: `PATROCINADO · SELECÇÃO DE PARCEIRO`,
+  de: `SPONSORED · UNSERE PARTNERAUSWAHL`,
 }
 
 export async function generateStaticParams() {
@@ -39,6 +41,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     fr: 'Hôtels pet-friendly en Europe : le guide complet 2026',
     es: 'Hoteles pet-friendly en Europa: la guía completa 2026',
     pt: 'Hotéis pet-friendly na Europa: o guia completo 2026',
+    de: 'Haustierfreundliche Hotels in Europa: der komplette Guide 2026',
   }
   const totalHotels = hotels.length
   const totalDests = destinations.length
@@ -47,6 +50,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     fr: `Le guide complet 2026 des ${totalHotels}+ hôtels acceptant les animaux dans ${totalDests} destinations européennes : chaînes qui acceptent les chiens, règles pays par pays, questions à poser avant de réserver, et les meilleures catégories pour chats, plages et budget.`,
     es: `La guía completa 2026 de ${totalHotels}+ hoteles que admiten mascotas en ${totalDests} destinos europeos: cadenas que admiten perros, normas país por país, qué preguntar antes de reservar, y las mejores categorías para gatos, playa y presupuesto.`,
     pt: `O guia completo 2026 de ${totalHotels}+ hotéis que aceitam animais em ${totalDests} destinos europeus: cadeias que aceitam cães, regras país a país, o que perguntar antes de reservar, e as melhores categorias para gatos, praia e orçamento.`,
+    de: `Der komplette Guide 2026 zu ${totalHotels}+ haustierfreundlichen Hotels in ${totalDests} europäischen Reisezielen: Ketten, die Hunde akzeptieren, Haustierregelungen Land für Land, was Sie vor der Buchung fragen sollten, und die besten Kategorien für Katzen, Strandzugang und Budgetreisen.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -679,6 +683,152 @@ const COPY: Record<string, Copy> = {
     viewCategoryLabel: `Ver categoria →`,
     countryDestinationsCta: `Ver destinos →`,
   },
+  de: {
+    hero: {
+      kicker: 'LEITFADEN · AKTUALISIERT 2026',
+      h1: `Haustierfreundliche Hotels in Europa: der komplette Guide 2026`,
+      lede: `Wie Sie ein Hotel finden, bewerten und buchen, das Ihren Hund oder Ihre Katze in Europa wirklich willkommen heißt. Ketten, die Haustiere akzeptieren, Regeln Land für Land, Fragen, die Sie stellen sollten, und unsere handverlesene Auswahl in über 85 Reisezielen.`,
+    },
+    toc: { title: 'In diesem Guide', items: [
+      { id: 'what-to-look', label: `Was "haustierfreundlich" wirklich bedeutet` },
+      { id: 'chains', label: `Die 12 zuverlässigsten Ketten` },
+      { id: 'by-category', label: `Nach Reisekategorie` },
+      { id: 'by-country', label: `Nach Land: Regeln und Gebühren` },
+      { id: 'booking-tips', label: `Buchungstipps, die Geld sparen` },
+      { id: 'what-to-ask', label: `10 Fragen vor der Buchung` },
+      { id: 'faq', label: 'FAQ' },
+    ] },
+    whatToLook: {
+      id: 'what-to-look',
+      h2: `Was "haustierfreundlich" wirklich bedeutet`,
+      paras: [
+        `Der Begriff ist nicht reguliert. Booking.com, Hotels.com und Airbnb lassen Unterkünfte sich selbst ohne Prüfung als haustierfreundlich kennzeichnen, sodass ein einzelnes Angebot alles bedeuten kann, vom Fünf-Sterne-Haus mit Haustier-Concierge bis zur Herberge, die einen Hund nach einer Kaution von 40 £ widerwillig akzeptiert. Unsere Aufgabe ist es, diesen Störfaktor herauszufiltern.`,
+        `Nach unserem Standard erfüllt ein wirklich haustierfreundliches Hotel mindestens vier der sechs unten stehenden Kriterien. Diese Kriterien eliminieren etwa zwei Drittel der "haustierfreundlichen" Angebote auf Booking.com. Jedes Hotel in unseren über 85 Reisezielguides wurde vor der Aufnahme nach derselben Checkliste geprüft.`,
+      ],
+      checks: {
+        title: `Unsere 6-Punkte-Checkliste für Haustierfreundlichkeit`,
+        items: [
+          `Haustiere in Standardzimmern erlaubt, nicht auf ein bestimmtes Zimmer beschränkt`,
+          `Keine rassespezifischen Verbote über die lokalen PPP- / Kampfhundegesetze hinaus`,
+          `Haustiergebühr unter 30 € pro Aufenthalt oder unter 15 € pro Nacht`,
+          `Wassernäpfe oder ein Haustierbett auf Anfrage verfügbar`,
+          `Der Hund kann während Ihrer Abwesenheit im Zimmer bleiben, keine Zwinger-tagsüber-Regel`,
+          `Freilauffläche ohne Leine innerhalb von 500 m zu Fuß`,
+        ],
+      },
+    },
+    chains: {
+      id: 'chains',
+      h2: `Die 12 zuverlässigsten haustierfreundlichen Hotelketten in Europa`,
+      intro: `Kettenhotels sind die sicherste Wahl für Reisen mit mehreren Städten, da sie in jeder Unterkunft dieselbe Haustierregelung anwenden. Wir schließen Ketten aus, bei denen die Haustierannahme einzelnen Managern überlassen wird (was leider auf die meisten zutrifft, darunter Marriott in vielen Regionen).`,
+      rows: [
+        { chain: 'Adina Apartment Hotels', policy: `Ausgewählte Apartments`, fee: '15 €/Nacht', note: `Kitchenetten, praktisch für Hundemahlzeiten` },
+        { chain: 'Apex Hotels (UK)', policy: `Kettenweit`, fee: '20 £/Aufenthalt', note: `Innenpools, zentrale UK-Lagen` },
+        { chain: 'Hilton (Pet Welcome)', policy: `Die meisten Häuser; pro Hotel prüfen`, fee: '30–75 €/Aufenthalt', note: `Höhere Gebühr, Luxusniveau` },
+        { chain: 'Holiday Inn / Express (IHG)', policy: `Die meisten Häuser`, fee: '15–20 €/Nacht', note: `Verlässliches Mittelklasse-Angebot, überall vertreten` },
+        { chain: 'Hospes Hotels', policy: `Kettenweit`, fee: '25 €/Aufenthalt', note: `5-Sterne-Boutique-Kette aus Spanien` },
+        { chain: 'Hotel Indigo (IHG)', policy: `Kettenweit`, fee: '25 €/Aufenthalt', note: `4-Sterne-Boutique, urban` },
+        { chain: 'Mercure (Accor)', policy: `Die meisten Häuser`, fee: '10–20 €/Nacht', note: `Starkes Netz in Frankreich / Italien` },
+        { chain: 'Motel One', policy: `Kettenweit seit 2024`, fee: '10 €/Nacht', note: `Budget-Designhotels, stark wachsend` },
+        { chain: '25hours Hotels', policy: `Kettenweit, Haustier-Set inklusive`, fee: '20 €/Aufenthalt', note: `4-Sterne-Design, Näpfe vorhanden` },
+        { chain: 'Scandic Hotels', policy: `Kettenweit`, fee: '20 €/Aufenthalt', note: `Starkes nordisches + deutsches Netz` },
+        { chain: 'Travelodge', policy: `Die meisten UK-Häuser`, fee: '25 £/Aufenthalt', note: `UK-Budgetkette, max. 2 Haustiere pro Zimmer` },
+        { chain: 'NH Hotels / NH Collection', policy: `Kettenweit`, fee: '20–25 €/Nacht', note: `Starke Präsenz in Spanien, Italien, Deutschland` },
+      ],
+      columns: { chain: 'Kette', policy: 'Regelung', fee: 'Haustiergebühr', note: 'Hinweis' },
+    },
+    byCategory: {
+      id: 'by-category',
+      h2: `Nach Kategorie: welcher Aufenthaltstyp zu Ihrer Reise passt`,
+      intro: `Die Haustierannahme ist nur die Eintrittskarte. Ein Strandurlaub mit Hund braucht andere Kriterien als ein Städtetrip mit Katze. Durchstöbern Sie unsere sechs Kategorien unten, jede gefiltert über mehr als 85 Reiseziele.`,
+    },
+    byCountry: {
+      id: 'by-country',
+      h2: `Nach Land: Regeln und Gebührenkultur`,
+      intro: `Die Haustierregelungen der Hotels unterscheiden sich in Europa, sowohl bei der typischen Gebühr als auch bei der lokalen Durchsetzung. Im Folgenden die praktische Realität Land für Land, basierend auf unserer Prüfung von über 460 Hotels.`,
+    },
+    countryNotes: {
+      France: `Über 50 % der Hotels akzeptieren Haustiere, durchschnittliche Gebühr 15–25 €/Aufenthalt. Unabhängige Hotels sind meist günstiger als Ketten. Es gelten die üblichen EU-Heimtierausweis-Regeln.`,
+      Germany: `Führt Europa bei Hundefreundlichkeit an. Hotels lehnen selten ab, durchschnittlich 10–20 €/Nacht. Berlin, Hamburg und München haben die höchste Kettendichte. Hunde in Restaurants sind normal.`,
+      Spain: `Die Akzeptanz ist stark gewachsen, durchschnittliche Gebühr 15–20 €/Nacht. Madrid und Barcelona führen bei den Ketten. Andalusien ist im Frühling und Herbst hervorragend, aber die Sommerhitze ist die Hauptbeschränkung.`,
+      Italy: `Das italienische Gesetz (Legge 281/1991) gibt Hunden starke Zugangsrechte, aber Hotels verlangen höhere Gebühren als Frankreich oder Deutschland, oft 25–40 €/Aufenthalt. Trenitalia akzeptiert Hunde mit den entsprechenden Papieren.`,
+      'United Kingdom': `Nach dem Brexit benötigen Hunde aus der EU ein Animal Health Certificate (10 Tage gültig) sowie eine verpflichtende Bandwurmbehandlung. Haustiergebühr 25–50 £/Aufenthalt. Hundefreundliche Pubs sind die kulturelle Grundlage.`,
+      Netherlands: `Außergewöhnliche Haustierfreundlichkeit in Amsterdam, Rotterdam und Den Haag. Hotels berechnen 15–25 €/Aufenthalt. Hunde fahren für 3,40 € Tagespass in Tram und Zug mit.`,
+      Belgium: `Starke Haustierakzeptanz, besonders in Antwerpen und Gent. Hotelgebühren 15–25 €. Belgische Brasserien sind durchweg hundetolerant.`,
+      Portugal: `Lissabon und Porto sind außergewöhnlich hundefreundlich. Hotelgebühren 10–20 €/Aufenthalt, günstiger als Spanien. Trams und Züge akzeptieren Hunde.`,
+      Switzerland: `Europas teuerstes Land, aber die konsequenteste Haustierakzeptanz. Durchschnittlich 30–50 CHF/Nacht. Züge und Seilbahnen nehmen Hunde kostenlos oder zum halben Preis mit.`,
+      Austria: `Sehr hundefreundlich. Wien und Salzburg führen an. Durchschnittlich 10–20 €/Nacht. ÖBB-Züge akzeptieren Hunde.`,
+      Denmark: `Kopenhagen führt Europa beim Tierwohl an. Hotels verlangen meist 150–300 DKK/Aufenthalt. Hunde fahren mit Maulkorb kostenlos in Metro und S-Bahn mit.`,
+      Sweden: `Stockholm und Göteborg sind beide haustierfreundlich. Hotelgebühr 200–400 SEK/Nacht. Hunde in Zügen erlaubt.`,
+      Norway: `Die Hundekultur in Oslo ist ausgeprägt. Gebühren 200–500 NOK. Hunde fahren in den meisten öffentlichen Verkehrsmitteln kostenlos mit.`,
+      Finland: `Helsinki hat die höchste Hundedichte Europas. Hotels sind für kleine Hunde meist kostenlos, 10–20 € für große. Hunde fahren im gesamten öffentlichen Nahverkehr kostenlos mit.`,
+      Iceland: `Strenge Einfuhrregeln (Quarantäneumgehung erfordert Papiere und hohe Gebühren). Vor Ort ist Reykjavík einladend. Hotels 5.000–8.000 ISK/Aufenthalt.`,
+      Ireland: `Die Haustierfreundlichkeit Dublins hat sich verbessert. Hotels 15–25 €. Für Nordirland gelten dieselben Papierregeln wie im UK.`,
+      Greece: `Athen und Thessaloniki werden besser. Hotels 10–15 €/Aufenthalt. Strandbeschränkungen im Sommer streng.`,
+      'Czech Republic': `Prag ist sehr hundefreundlich. Hotels 200–500 CZK/Aufenthalt. Hunde in Metro und Straßenbahn akzeptiert.`,
+      Hungary: `Budapest ist einladend. Hotels 3.000–6.000 HUF/Aufenthalt. Hunde fahren mit Maulkorb kostenlos in der Metro mit.`,
+      Slovenia: `Ljubljana und Bled sind beide haustierfreundlich. Hotels 10–15 €.`,
+      Croatia: `Dubrovnik und Split werden besser, aber die Strandverbote (15. Mai bis 30. September) sind strikt. Hotels 10–20 €.`,
+      Poland: `Warschau und Krakau haben eine wachsende haustierfreundliche Szene. Hotels 50–100 PLN/Aufenthalt.`,
+      Latvia: `Riga wird besser. Hotels 10–15 €.`,
+      Estonia: `Tallinn ist haustierfreundlich. Hotels rund 10 €.`,
+      Slovakia: `Bratislava ist einladend. Hotels 10–15 €.`,
+      Romania: `Bukarest verbessert sich rasch. Hotels 30–60 RON/Aufenthalt.`,
+      Bulgaria: `Sofia ist einladend. Hotels 20–40 BGN.`,
+      Serbia: `Belgrad ist einladend, der öffentliche Nahverkehr ist seit 2025 für Hunde kostenlos. Hotels 1.500–3.000 RSD.`,
+      Lithuania: `Vilnius ist einladend. Hotels rund 10 €.`,
+      Luxembourg: `Haustierfreundlich. Hotels 15–25 €.`,
+    },
+    bookingTips: {
+      id: 'booking-tips',
+      h2: `Buchungstipps, die Geld sparen`,
+      paras: [
+        `Haustiergebühren sind öfter verhandelbar, als man denkt. Buchen Sie zuerst einen kostenlos stornierbaren Tarif auf Booking.com, um Ihr Zimmer zu sichern, und schreiben Sie dem Hotel vor der Anreise eine E-Mail, um die genauen Haustierbedingungen zu bestätigen. Nennt das Hotel eine andere Gebühr als im Angebot angegeben, behalten Sie die Stornierungsoption als Sicherheitsnetz.`,
+      ],
+      bullets: [
+        `Filtern Sie auf Booking.com nach "kostenlose Stornierung" + "Haustiere erlaubt" und bestätigen Sie die Haustiergebühr vor der Anreise schriftlich erneut. Die Gebühr variiert je nach Zimmerkategorie, der angezeigte Durchschnitt ist manchmal zu optimistisch.`,
+        `Fragen Sie bei mehrtägigen Aufenthalten nach einer Pauschalgebühr statt einer Gebühr pro Nacht. 15 €/Nacht über 7 Nächte ergibt 105 €; viele Hotels wechseln auf Anfrage zu 60 € pauschal.`,
+        `Treueprogramme lohnen sich: Mitglieder von Hilton Honors, IHG One Rewards und Accor Live Limitless erhalten in den oberen Stufen Erlass der Haustiergebühr.`,
+        `Vermeiden Sie Zimmer, die als "Haustiere erlaubt" als einzige Option markiert sind, diese sind oft mit Reinigungsgebühren belastet. Standardzimmer mit Haustier-auf-Anfrage-Regelung sind meist günstiger.`,
+        `Hundestrand-Resorts: Buchen Sie in der Nebensaison (April-Mai, Oktober-November), dasselbe Hotel ist dann 30-40 % günstiger als im Hochsommer.`,
+        `Bei Reisen über 7 Nächte schlägt ein Airbnb bei den Gesamtkosten für Haustiere oft Hotels (eine Reinigungsgebühr statt täglicher Haustiergebühr). Filtern Sie nach "Haustiere erlaubt" + verifizierten Bewertungen, die Haustiere erwähnen.`,
+      ],
+    },
+    whatToAsk: {
+      id: 'what-to-ask',
+      h2: `10 Fragen vor der Buchung`,
+      intro: `Bevor Sie eine Buchung bestätigen, senden Sie dem Hotel eine kurze E-Mail mit diesen Fragen. Der Ton der Antwort verrät Ihnen alles darüber, ob das Hotel wirklich willkommen heißt oder nur auf dem Papier "haustierfreundlich" ist.`,
+      questions: [
+        `Werden Haustiere in jedem Standardzimmer akzeptiert, oder nur in bestimmten?`,
+        `Gilt die Haustiergebühr pro Aufenthalt oder pro Nacht? Ist die Reinigung inbegriffen?`,
+        `Gibt es Rasse- oder Gewichtsbeschränkungen über die gesetzlichen PPP-Regeln hinaus?`,
+        `Kann mein Hund im Zimmer bleiben, während ich beim Abendessen oder im Spa bin?`,
+        `Stellen Sie Näpfe, Betten oder Leckerlis bereit? Oder soll ich diese mitbringen?`,
+        `Gibt es einen Gassi-Bereich oder eine Freilauffläche in Gehweite?`,
+        `Akzeptieren Sie mehrere Haustiere? Wenn ja, ist die Gebühr pro Tier oder gedeckelt?`,
+        `Wo müssen Hunde innerhalb des Hauses an der Leine oder mit Maulkorb sein?`,
+        `Gibt es einen empfohlenen Tierarzt vor Ort für Notfälle?`,
+        `Wie lautet die Stornierungsbedingung, falls mein Haustier am Anreisetag krank ist?`,
+      ],
+    },
+    faqTitle: `Häufig gestellte Fragen`,
+    faqs: [
+      { q: `Wie hoch ist die durchschnittliche Haustiergebühr in europäischen Hotels?`, a: `Der europäische Durchschnitt liegt bei 15–25 €/Aufenthalt für ein unabhängiges Hotel und 20–30 €/Nacht für Ketten. Die Schweiz und das UK liegen am oberen Ende (30–50 CHF / 40–60 £). Osteuropa liegt am unteren Ende (5–10 €).` },
+      { q: `Akzeptieren alle Hotels auch Katzen?`, a: `Die meisten "hundefreundlichen" Hotels akzeptieren auch Katzen, dies wird aber nicht immer beworben. Fragen Sie immer ausdrücklich: Etwa 80 % der Hotels, die Hunde akzeptieren, nehmen auch Katzen mit vorheriger Ankündigung.` },
+      { q: `Was, wenn mein Hund nachts bellt?`, a: `Hotels behalten sich das Recht vor, eine Störungsgebühr zu verlangen oder den Gast des Hauses zu verweisen. Praktische Lösungen: Eckzimmer, Zimmer am Ende des Flurs oder im Erdgeschoss buchen. Bringen Sie eine vertraute Decke oder ein Spielzeug mit. ThunderShirts und Adaptil-Sprays helfen ängstlichen Hunden.` },
+      { q: `Gibt es bei manchen Ketten reine Haustieretagen?`, a: `Ja, Kimpton, Hilton (einige Häuser) und 25hours haben an ausgewählten Standorten eigene Haustieretagen. Fragen Sie bei der Buchung ausdrücklich danach.` },
+      { q: `Woran erkenne ich, ob ein Hotel wirklich haustierfreundlich ist oder Haustiere nur toleriert?`, a: `Drei Anzeichen: (1) Das Hotel erwähnt auf seiner Website konkrete Haustierausstattung (Näpfe, Betten, Leckerlis), (2) die Haustiergebühr ist angemessen (10–25 €, nicht 75 £+), (3) die Antwort des Personals auf Ihre Vorab-E-Mail ist begeistert, nicht zögerlich. Wir prüfen alle Hotels in unseren Reisezielguides vorab.` },
+      { q: `Was ist mit Diensthunden / Assistenzhunden?`, a: `Diensthunde werden gesetzlich in allen EU-Hotels (Verordnung 2016/679 + nationale Umsetzungen) und in allen UK-Hotels (Equality Act 2010) kostenlos aufgenommen. Die Haustiergebühr entfällt. Bringen Sie die entsprechenden Nachweise mit.` },
+      { q: `Kann ich meinen Hund allein im Hotelzimmer lassen?`, a: `Die meisten haustierfreundlichen europäischen Hotels verbieten unbeaufsichtigte Haustiere. Alternativen: Buchen Sie für die wenigen Stunden einen Pawshake- oder Tailster-Sitter, oder nutzen Sie den Betreuungsservice im Zimmer, den Kimpton, 25hours und einige Hilton-Häuser anbieten.` },
+    ],
+    ctaTitle: `Bereit, Ihr Hotel zu finden?`,
+    ctaDesc: `Durchstöbern Sie unsere handverlesenen haustierfreundlichen Hotels in über 85 europäischen Reisezielen, alle auf echte Haustierregelungen geprüft, mit verifizierten Gästebewertungen ab 8,0.`,
+    ctaButton: `Alle Reiseziele ansehen →`,
+    hotelLabel: `Hotels`,
+    destLabel: `Reiseziele`,
+    viewCategoryLabel: `Kategorie ansehen →`,
+    countryDestinationsCta: `Reiseziele ansehen →`,
+  },
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
@@ -818,6 +968,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               const catName = locale === 'fr' && cat.nameFr ? cat.nameFr
                 : locale === 'es' && cat.nameEs ? cat.nameEs
                 : locale === 'pt' && (cat as { namePt?: string }).namePt ? (cat as { namePt?: string }).namePt
+                : locale === 'de' && (cat as { nameDe?: string }).nameDe ? (cat as { nameDe?: string }).nameDe
                 : cat.name
               return (
                 <Link

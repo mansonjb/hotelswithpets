@@ -14,6 +14,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   fr: { label: 'Hotels pet-friendly villes de festival', cta: 'Voir les hotels' },
   es: { label: 'Hoteles para mascotas en ciudades de festival', cta: 'Ver hoteles' },
   pt: { label: 'Hoteis pet-friendly em cidades de festival', cta: 'Ver hoteis' },
+  de: { label: 'Hundefreundliche Hotels in Festivalstädten', cta: 'Hotels ansehen' },
 }
 
 export async function generateStaticParams() {
@@ -33,12 +34,14 @@ export async function generateMetadata({
     fr: `Festivals d'ete en Europe avec son chien : 8 villes festivalières avec hotels pet-friendly (2026)`,
     es: `Festivales de verano en Europa con tu perro: 8 ciudades con hoteles para mascotas (2026)`,
     pt: `Festivais de verao na Europa com o seu cao: 8 cidades com hoteis pet-friendly (2026)`,
+    de: `Sommerfestivals in Europa mit Ihrem Hund: 8 Festivalstädte mit hundefreundlichen Hotels (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Eight European festival cities in July-August 2026 where your dog can thrive alongside the programme. Bayreuth, Perugia, Spoleto, Orange, Colmar, Sopot, Parnu and Bregenz, with verified pet-friendly hotels near the festival venues.`,
     fr: `Huit villes de festival en Europe en juillet-aout 2026 ou votre chien peut profiter du programme. Bayreuth, Pérouse, Spolète, Orange, Colmar, Sopot, Parnu et Bregenz, avec hotels pet-friendly verifies a proximite des lieux de festival.`,
     es: `Ocho ciudades de festival en Europa en julio-agosto 2026 donde tu perro puede disfrutar del programa. Bayreuth, Perugia, Spoleto, Orange, Colmar, Sopot, Parnu y Bregenz, con hoteles para mascotas verificados cerca de los recintos.`,
     pt: `Oito cidades de festival na Europa em julho-agosto 2026 onde o seu cao pode desfrutar do programa. Bayreuth, Perugia, Spoleto, Orange, Colmar, Sopot, Parnu e Bregenz, com hoteis pet-friendly verificados perto dos recintos.`,
+    de: `Acht europäische Festivalstädte im Juli und August 2026, in denen Ihr Hund das Programm in vollen Zügen genießen kann. Bayreuth, Perugia, Spoleto, Orange, Colmar, Sopot, Pärnu und Bregenz, mit geprüften hundefreundlichen Hotels in der Nähe der Festivalorte.`,
   }
   return {
     title: titles[locale] ?? titles.en,
@@ -75,11 +78,13 @@ type Pick = {
   whyFr: string
   whyEs: string
   whyPt: string
+  whyDe: string
   hotelName: string
   hotelEn: string
   hotelFr: string
   hotelEs: string
   hotelPt: string
+  hotelDe: string
 }
 
 const PICKS: Pick[] = [
@@ -94,11 +99,13 @@ const PICKS: Pick[] = [
     whyFr: `Bayreuth accueille le festival d'opera le plus prestigieux du monde chaque ete : le Wagner Festspiele au Festspielhaus sur la colline verte dominant la ville. Les chiens ne peuvent evidemment pas assister aux representations a l'interieur, mais le parc Hofgarten directement en dessous du Festspielhaus est un grand parc urbain ou les chiens en laisse sont bienvenus, parfait pour les promenades matinales pendant que votre compagnon de voyage assiste aux operas de 5 heures. Le musee Richard Wagner de la ville a un jardin exterieur tolerant aux chiens, le parc baroque Eremitage a 3 km a l'est autorise les chiens en laisse sur tous les sentiers exterieurs, et la culture biergarten de Franconie (la region) est la plus tolerante aux chiens d'Allemagne.`,
     whyEs: `Bayreuth acoge el festival de opera mas prestigioso del mundo cada verano: el Wagner Festspiele en el Festspielhaus sobre la colina verde que domina la ciudad. Los perros obviamente no pueden asistir a las actuaciones en el interior, pero el parque Hofgarten directamente debajo del Festspielhaus es un gran parque urbano donde los perros con correa son bienvenidos, perfecto para paseos matinales mientras tu companero de viaje asiste a las operas de 5 horas. El Museo Richard Wagner tiene un jardin exterior tolerante con perros, el parque barroco Eremitage a 3 km al este permite perros con correa en todos los senderos exteriores, y la cultura biergarten de Franconia (la region) es la mas tolerante con perros de Alemania.`,
     whyPt: `Bayreuth acolhe o festival de opera mais prestigioso do mundo todos os veraos: o Wagner Festspiele no Festspielhaus na colina verde acima da cidade. Os caes obviamente nao podem assistir as representacoes no interior, mas o parque Hofgarten diretamente abaixo do Festspielhaus e um grande parque urbano onde caes a trela sao bem-vindos, perfeito para passeios matinais enquanto o seu companheiro de viagem assiste as operas de 5 horas. O Museu Richard Wagner tem um jardim exterior tolerante com caes, o parque barroco Eremitage a 3 km a leste permite caes a trela em todos os trilhos exteriores, e a cultura biergarten da Franconia (a regiao) e a mais tolerante com caes da Alemanha.`,
+    whyDe: `Bayreuth ist jeden Sommer Gastgeber des angesehensten Opernfestivals der Welt: die Wagner Festspiele im Festspielhaus auf dem grünen Hügel über der Stadt. Hunde dürfen die Aufführungen im Inneren natürlich nicht besuchen, aber der Hofgarten direkt unterhalb des Festspielhauses ist ein großer, leinenfreundlicher Stadtpark, ideal für Morgenspaziergänge, während Ihr Reisebegleiter die fünfstündigen Opern besucht. Das Richard-Wagner-Museum der Stadt hat einen hundetoleranten Außengarten, der barocke Eremitage-Park 3 km östlich erlaubt angeleinte Hunde auf allen Außenwegen, und die Biergartenkultur Frankens (der Region) ist die hundetoleranteste Deutschlands. Das Festival läuft von Ende Juli bis Ende August.`,
     hotelName: 'Hotel Goldener Anker',
     hotelEn: `Hotel Goldener Anker - historic 4-star preferred by festival guests, dogs accepted at moderate fee, walking distance to the Festspielhaus. The hotel has hosted festival-goers since the 19th century and understands that a Bayreuth trip often involves two very different programmes: opera inside, dog walks outside.`,
     hotelFr: `Hotel Goldener Anker - 4 etoiles historique favori des festivaliers, chiens acceptes (supplement modere), a distance a pied du Festspielhaus. L'hotel accueille des festivaliers depuis le XIXe siecle et comprend qu'un sejour a Bayreuth implique souvent deux programmes tres differents : opera a l'interieur, promenades canines a l'exterieur.`,
     hotelEs: `Hotel Goldener Anker - 4 estrellas historico favorito de los festivaleros, perros admitidos (suplemento moderado), a distancia a pie del Festspielhaus. El hotel ha acogido a asistentes al festival desde el siglo XIX y entiende que un viaje a Bayreuth a menudo implica dos programas muy diferentes: opera dentro, paseos con el perro fuera.`,
     hotelPt: `Hotel Goldener Anker - 4 estrelas historico favorito dos frequentadores do festival, caes aceites (taxa moderada), a distancia a pe do Festspielhaus. O hotel tem recebido frequentadores do festival desde o seculo XIX e compreende que uma viagem a Bayreuth frequentemente implica dois programas muito diferentes: opera dentro, passeios com o cao fora.`,
+    hotelDe: `Hotel Goldener Anker - historisches 4-Sterne-Haus, bevorzugt von Festivalgästen, Hunde gegen moderate Gebühr willkommen, fußläufig zum Festspielhaus. Das Hotel beherbergt seit dem 19. Jahrhundert Festivalbesucher und weiß, dass eine Bayreuth-Reise oft zwei sehr unterschiedliche Programme umfasst: Oper drinnen, Hundespaziergänge draußen.`,
   },
   {
     slug: 'perugia',
@@ -111,11 +118,13 @@ const PICKS: Pick[] = [
     whyFr: `Umbria Jazz est l'un des plus grands festivals de jazz d'Europe, tenu dans le centre medieval perche de Pérouse chaque juillet pendant 10 jours. Les scenes exterieures de la Piazza IV Novembre et du parc Giardini Carducci accueillent les chiens aux concerts gratuits (les concerts sous tente payants non, mais il y a des dizaines de representations gratuites en plein air). Le systeme d'escaliers mecaniques de Pérouse connecte le parking inferieur au centre historique et accepte les chiens en laisse. Le Corso Vannucci, rue pietonniereprincipale, est bordee de terrasses de cafes qui tolerent les chiens.`,
     whyEs: `Umbria Jazz es uno de los mayores festivales de jazz de Europa, celebrado en el centro medieval encaramado de Perugia cada julio durante 10 dias. Los escenarios al aire libre en la Piazza IV Novembre y el parque Giardini Carducci acogen perros en los conciertos gratuitos (las carpas de pago no, pero hay decenas de actuaciones gratuitas al aire libre). El sistema de escaleras mecanicas de Perugia conecta el aparcamiento inferior con el centro historico y admite perros con correa. El Corso Vannucci, calle peatonal principal, esta bordeado de terrazas de cafes que toleran perros.`,
     whyPt: `Umbria Jazz e um dos maiores festivais de jazz da Europa, realizado no centro medieval situado no alto de Perugia todos os julhos durante 10 dias. Os palcos ao ar livre na Piazza IV Novembre e no parque Giardini Carducci acolhem caes nos concertos gratuitos (as tendas com bilhetes nao, mas ha dezenas de espetaculos gratuitos ao ar livre). O sistema de escadas rolantes de Perugia liga o estacionamento inferior ao centro historico e aceita caes a trela. O Corso Vannucci, rua pedonal principal, e ladeado de esplanadas de cafes que toleram caes.`,
+    whyDe: `Umbria Jazz ist eines der größten Jazzfestivals Europas und findet jeden Juli zehn Tage lang in Perugias mittelalterlichem Zentrum auf dem Hügel statt. Die Freiluftbühnen auf der Piazza IV Novembre und im Park Giardini Carducci heißen Hunde bei den kostenlosen Konzerten willkommen (bei den kostenpflichtigen Zeltkonzerten nicht, aber es gibt Dutzende kostenlose Freiluftauftritte). Die Rolltreppenanlage Perugias verbindet den unteren Parkplatz mit der Altstadt und lässt angeleinte Hunde zu. Die Fußgängerhauptstraße Corso Vannucci ist von Café-Terrassen gesäumt, die Hunde tolerieren. Bei 28 °C im Juli ist die Höhenluft Umbriens kühler als das Tal darunter.`,
     hotelName: 'Sina Brufani',
     hotelEn: `Sina Brufani - 5-star on the main corso, pets welcome at moderate fee, terrace overlooking the Umbria valley. During Umbria Jazz, the hotel is the preferred choice of jazz musicians and their entourages: the terrace is one of the best listening spots in the city for the outdoor stages on the piazza below.`,
     hotelFr: `Sina Brufani - 5 etoiles sur le corso principal, animaux acceptes (supplement modere), terrasse dominant la vallee de l'Ombrie. Pendant Umbria Jazz, l'hotel est le choix prefere des musiciens de jazz et de leurs equipes : la terrasse est l'un des meilleurs spots d'ecoute de la ville pour les scenes exterieures sur la piazza en dessous.`,
     hotelEs: `Sina Brufani - 5 estrellas en el corso principal, mascotas admitidas (suplemento moderado), terraza con vistas al valle de Umbria. Durante Umbria Jazz, el hotel es la opcion preferida de los musicos de jazz y sus sequitos: la terraza es uno de los mejores puntos de escucha de la ciudad para los escenarios al aire libre en la piazza de abajo.`,
     hotelPt: `Sina Brufani - 5 estrelas no corso principal, animais de estimacao aceites (taxa moderada), esplanada com vista para o vale da Umbria. Durante o Umbria Jazz, o hotel e a escolha preferida dos musicos de jazz e suas comitivas: a esplanada e um dos melhores pontos de escuta da cidade para os palcos ao ar livre na praca abaixo.`,
+    hotelDe: `Sina Brufani - 5-Sterne-Hotel am Hauptcorso, Haustiere gegen moderate Gebühr willkommen, Terrasse mit Blick auf das umbrische Tal. Während Umbria Jazz ist das Hotel die bevorzugte Wahl der Jazzmusiker und ihrer Entourage: Die Terrasse ist einer der besten Hörplätze der Stadt für die Freiluftbühnen auf der Piazza darunter.`,
   },
   {
     slug: 'spoleto',
@@ -128,11 +137,13 @@ const PICKS: Pick[] = [
     whyFr: `Le Festival dei Due Mondi (Festival des Deux Mondes) est le festival des arts du spectacle le plus prestigieux d'Italie, combinant theatre, opera, danse et concerts dans le Teatro Caio Melisso de Spolète et des lieux exterieurs de fin juin a mi-juillet. La forteresse Rocca Albornoziana a des jardins ouverts ou les chiens en laisse sont toleres, la promenade exterieure de l'amphitheatre romain du 1er siecle est entierement accessible aux chiens, et le sentier ombrage Passeggiata del Giro faisant le tour des remparts medievaux est ideal pour les promenades matinales loin des foules du festival.`,
     whyEs: `El Festival dei Due Mondi (Festival de los Dos Mundos) es el festival de artes escenicas mas prestigioso de Italia, combinando teatro, opera, danza y conciertos en el Teatro Caio Melisso de Spoleto y recintos al aire libre desde finales de junio hasta mediados de julio. La fortaleza Rocca Albornoziana tiene jardines abiertos donde se toleran los perros con correa, el paseo exterior del anfiteatro romano del siglo I es completamente accesible con perros, y el sombreado sendero Passeggiata del Giro que rodea las murallas medievales es ideal para paseos matinales lejos de las multitudes del festival.`,
     whyPt: `O Festival dei Due Mondi (Festival dos Dois Mundos) e o festival de artes performativas mais prestigioso de Italia, combinando teatro, opera, danca e concertos no Teatro Caio Melisso de Spoleto e recintos ao ar livre de finais de junho a meados de julho. A fortaleza Rocca Albornoziana tem jardins abertos onde caes a trela sao tolerados, o passeio exterior do anfiteatro romano do seculo I e completamente acessivel com caes, e o sombreado trilho Passeggiata del Giro que contorna as muralhas medievais e ideal para passeios matinais longe das multidoes do festival.`,
+    whyDe: `Das Festival dei Due Mondi (Festival der Zwei Welten) ist Italiens angesehenstes Festival der darstellenden Künste und vereint von Ende Juni bis Mitte Juli Theater, Oper, Tanz und Konzerte im Teatro Caio Melisso von Spoleto und an Freiluftorten. Die Festung Rocca Albornoziana hat offene Gärten, in denen angeleinte Hunde toleriert werden, der Außenrundgang um das römische Amphitheater aus dem 1. Jahrhundert ist vollständig hundefreundlich, und der schattige Pfad Passeggiata del Giro rund um die mittelalterlichen Stadtmauern eignet sich ideal für Morgenspaziergänge abseits der Festivalmengen.`,
     hotelName: 'Hotel Clitunno',
     hotelEn: `Hotel Clitunno - 4-star in the historic centre, dogs welcome at modest fee. The hotel is a converted 16th-century palazzo a short walk from the Teatro Caio Melisso. The small inner courtyard is quiet enough for a dog to rest between evening performances and morning walks on the Passeggiata.`,
     hotelFr: `Hotel Clitunno - 4 etoiles en centre historique, chiens acceptes (supplement modeste). L'hotel est un palazzo du XVIe siecle reconverti a quelques pas du Teatro Caio Melisso. La petite cour interieure est suffisamment calme pour qu'un chien se repose entre les representations du soir et les promenades matinales sur la Passeggiata.`,
     hotelEs: `Hotel Clitunno - 4 estrellas en el centro historico, perros admitidos (suplemento modesto). El hotel es un palazzo del siglo XVI reconvertido a pocos pasos del Teatro Caio Melisso. El pequeno patio interior es suficientemente tranquilo para que un perro descanse entre las actuaciones nocturnas y los paseos matinales por la Passeggiata.`,
     hotelPt: `Hotel Clitunno - 4 estrelas no centro historico, caes aceites (taxa modesta). O hotel e um palazzo do seculo XVI reconvertido a poucos passos do Teatro Caio Melisso. O pequeno pateo interior e suficientemente calmo para um cao descansar entre as representacoes nocturnas e os passeios matinais na Passeggiata.`,
+    hotelDe: `Hotel Clitunno - 4-Sterne-Haus im historischen Zentrum, Hunde gegen bescheidene Gebühr willkommen. Das Hotel ist ein umgebauter Palazzo aus dem 16. Jahrhundert, nur wenige Schritte vom Teatro Caio Melisso entfernt. Der kleine Innenhof ist ruhig genug, damit sich ein Hund zwischen Abendvorstellungen und Morgenspaziergängen auf der Passeggiata erholen kann.`,
   },
   {
     slug: 'orange',
@@ -145,11 +156,13 @@ const PICKS: Pick[] = [
     whyFr: `Les Chorégies d'Orange sont le festival d'opera en plein air le plus spectaculaire de France, tenu dans le theatre romain vieux de 2000 ans chaque juillet et aout. Les chiens ne sont pas autorises a l'interieur du Theatre Antique pendant les representations, mais l'esplanade environnante est un grand espace ouvert ou les chiens en laisse peuvent attendre pendant les entr'actes. Le parc de l'Arc de Triomphe au nord de la ville et le jardin Paul Cézanne sont deux espaces verts accueillants pour les chiens. Orange est en Provence ou la lavande est en fleur en juillet (pleine saison) et les terrasses de restaurants accueillent les chiens routinièrement.`,
     whyEs: `Las Chorégies d'Orange son el festival de opera al aire libre mas espectacular de Francia, celebrado en el teatro romano de 2000 anos de antiguedad cada julio y agosto. Los perros no estan permitidos dentro del Teatro Antiguo durante las actuaciones, pero la explanada circundante es un amplio espacio abierto donde los perros con correa pueden esperar durante los descansos. El parque del Arc de Triomphe en el extremo norte de la ciudad y el jardin Paul Cézanne son espacios verdes que acogen perros. Orange esta en Provenza, donde la lavanda esta en flor en julio (temporada alta) y las terrazas de restaurantes admiten perros routinariamente.`,
     whyPt: `As Chorégies d'Orange sao o festival de opera ao ar livre mais espetacular de Franca, realizado no teatro romano de 2000 anos todos os julhos e agostos. Os caes nao sao permitidos dentro do Teatro Antigo durante as representacoes, mas a esplandada envolvente e um amplo espaco aberto onde caes a trela podem esperar durante os intervalos. O parque do Arco de Triunfo no extremo norte da cidade e o jardim Paul Cézanne sao espacos verdes que acolhem caes. Orange fica na Provenca onde a lavanda esta em flor em julho (epoca alta) e as esplanadas de restaurantes aceitam caes routineiramente.`,
+    whyDe: `Die Chorégies d'Orange sind Frankreichs spektakulärstes Freiluft-Opernfestival, das jeden Juli und August im 2000 Jahre alten römischen Theater stattfindet. Hunde sind während der Aufführungen nicht im Inneren des Antiken Theaters erlaubt, aber die umliegende Esplanade ist ein weiträumiger, offener Platz, auf dem angeleinte Hunde während der Pausen warten können. Der Park am Arc de Triomphe am Nordrand der Stadt und der Paul-Cézanne-Garten sind beide hundefreundliche Grünflächen. Orange liegt in der Provence, wo der Lavendel im Juli blüht (Hochsaison) und Restaurantterrassen Hunde routinemäßig zulassen.`,
     hotelName: 'Hotel Arene',
     hotelEn: `Hotel Arene - 3-star facing the Roman theatre, dogs accepted at modest fee. The hotel's position directly on the esplanade makes it the most practical festival base: the dog can be settled in the room before the 3-hour performance begins, and the esplanade walk takes under 5 minutes from the front door.`,
     hotelFr: `Hotel Arene - 3 etoiles face au theatre romain, chiens acceptes (supplement modeste). La position de l'hotel directement sur l'esplanade en fait la base de festival la plus pratique : le chien peut etre installe dans la chambre avant le debut de la representation de 3 heures, et la promenade sur l'esplanade prend moins de 5 minutes depuis la porte d'entree.`,
     hotelEs: `Hotel Arene - 3 estrellas frente al teatro romano, perros admitidos (suplemento modesto). La posicion del hotel directamente en la explanada lo convierte en la base de festival mas practica: el perro puede quedar acomodado en la habitacion antes de que comience la actuacion de 3 horas, y el paseo por la explanada toma menos de 5 minutos desde la puerta.`,
     hotelPt: `Hotel Arene - 3 estrelas em frente ao teatro romano, caes aceites (taxa modesta). A posicao do hotel diretamente na esplandada faz dele a base de festival mais pratica: o cao pode ficar acomodado no quarto antes do inicio da representacao de 3 horas, e o passeio na esplandada demora menos de 5 minutos a partir da porta da entrada.`,
+    hotelDe: `Hotel Arene - 3-Sterne-Haus mit Blick auf das römische Theater, Hunde gegen bescheidene Gebühr willkommen. Die Lage des Hotels direkt an der Esplanade macht es zur praktischsten Festivalbasis: Der Hund kann im Zimmer versorgt werden, bevor die dreistündige Aufführung beginnt, und der Spaziergang über die Esplanade dauert von der Eingangstür aus weniger als 5 Minuten.`,
   },
   {
     slug: 'colmar',
@@ -162,11 +175,13 @@ const PICKS: Pick[] = [
     whyFr: `Le festival de musique classique de Colmar en juillet amene des orchestres internationaux a l'Eglise Saint-Matthieu et au couvent dominicain (sans chiens dans les lieux de concert), mais le quartier des canaux de la Petite Venise et la Place de l'Ancienne Douane comptent parmi les plus beaux espaces pietons exterieurs de France et sont accessibles aux chiens toute la journee. Les villages de la route des vins alsacienne (Riquewihr, Ribeauville, Kaysersberg) commencent a 15 min en voiture et ont des promenades dans les vignes qui acceptent les chiens en laisse librement.`,
     whyEs: `El festival de musica clasica de Colmar en julio trae orquestas internacionales a la Eglise Saint-Matthieu y al convento dominico (sin perros en los recintos de conciertos), pero el barrio de los canales de la Petite Venise y la Place de l'Ancienne Douane son de los espacios peatonales exteriores mas bonitos de Francia y son accesibles con perros todo el dia. Los pueblos de la ruta del vino alsaciana (Riquewihr, Ribeauville, Kaysersberg) comienzan a 15 min en coche y tienen paseos por los vinedos que admiten perros con correa libremente.`,
     whyPt: `O festival de musica classica de Colmar em julho traz orquestras internacionais a Eglise Saint-Matthieu e ao convento dominicano (sem caes nos recintos de concertos), mas o bairro dos canais da Petite Venise e a Place de l'Ancienne Douane estao entre os mais belos espacos pedonais exteriores de Franca e sao acessiveis com caes durante todo o dia. As aldeias da rota dos vinhos alsaciana (Riquewihr, Ribeauville, Kaysersberg) comecam a 15 min de carro e tem passeios pelos vinhedos que aceitam caes a trela livremente.`,
+    whyDe: `Colmars klassisches Musikfestival im Juli bringt internationale Orchester in die Eglise Saint-Matthieu und das Dominikanerkloster (keine Hunde in den Konzertsälen), aber das Kanalviertel Petite Venise und die Place de l'Ancienne Douane gehören zu den schönsten Freiluft-Fußgängerbereichen Frankreichs und sind den ganzen Tag hundefreundlich zugänglich. Die umliegenden Dörfer der elsässischen Weinstraße (Riquewihr, Ribeauville, Kaysersberg) beginnen 15 Autominuten entfernt und bieten Weinbergspaziergänge, die angeleinte Hunde ohne Einschränkung zulassen. Die Abendkonzerte des Festivals ziehen in die Fachwerkgassen, und der Hundespaziergang entlang der Kanäle ist in der Dämmerung wirklich zauberhaft.`,
     hotelName: 'La Maison des Tetes',
     hotelEn: `La Maison des Tetes - 5-star Renaissance facade hotel, dogs welcome at modest fee, central. The building dates from 1609 and the interior courtyard is a peaceful retreat from the festival crowds in the streets. The canal district of Petite Venise is 4 minutes on foot.`,
     hotelFr: `La Maison des Tetes - hotel 5 etoiles a facade Renaissance, chiens acceptes (supplement modeste), central. Le batiment date de 1609 et la cour interieure est un refuge paisible de la foule du festival dans les rues. Le quartier des canaux de la Petite Venise est a 4 minutes a pied.`,
     hotelEs: `La Maison des Tetes - hotel 5 estrellas de fachada renacentista, perros admitidos (suplemento modesto), central. El edificio data de 1609 y el patio interior es un refugio tranquilo de las multitudes del festival en las calles. El barrio de los canales de la Petite Venise esta a 4 minutos a pie.`,
     hotelPt: `La Maison des Tetes - hotel 5 estrelas de fachada renascentista, caes aceites (taxa modesta), central. O edificio data de 1609 e o patio interior e um refugio tranquilo das multidoes do festival nas ruas. O bairro dos canais da Petite Venise fica a 4 minutos a pe.`,
+    hotelDe: `La Maison des Tetes - 5-Sterne-Hotel mit Renaissancefassade, Hunde gegen bescheidene Gebühr willkommen, zentral gelegen. Das Gebäude stammt aus dem Jahr 1609, und der Innenhof ist ein friedlicher Rückzugsort von den Festivalmengen in den Straßen. Das Kanalviertel Petite Venise ist 4 Gehminuten entfernt.`,
   },
   {
     slug: 'sopot',
@@ -179,11 +194,13 @@ const PICKS: Pick[] = [
     whyFr: `Sopot est le joyau de la Riviera baltique : une station Belle Epoque avec la plus longue jetee en bois d'Europe (512 metres, chiens autorises en dehors des heures de baignade), un boulevard pietomnier sans voiture Monte Cassino, et le celebre amphitheatre Forest Opera (Lesna Opera) ou les chiens attendent a l'exterieur sur le versant herbeux pendant les spectacles. La plage a une zone canine dediee a l'extremite nord. En aout se tient l'International Song Contest (format similaire a l'Eurovision) qui remplit les hotels, mais la ville gere bien l'affluence. Sopot est construite pour le tourisme estival.`,
     whyEs: `Sopot es la joya de la Riviera baltica: una ciudad balneario Belle Epoque con el muelle de madera mas largo de Europa (512 metros, perros permitidos fuera de las horas de bano), un bulevar peatonal sin coches Monte Cassino, y el famoso anfiteatro Forest Opera (Lesna Opera) donde los perros esperan fuera en la ladera herbosa durante los espectaculos. La playa tiene una zona canina dedicada en el extremo norte. En agosto se celebra el International Song Contest (formato similar a Eurovision) que llena los hoteles pero la ciudad lo gestiona bien. Sopot esta construida para el turismo veraniego.`,
     whyPt: `Sopot e a joia da Riviera baltica: uma cidade balneario Belle Epoque com o cais de madeira mais longo da Europa (512 metros, caes permitidos fora das horas de banho), uma avenida pedonal sem carros Monte Cassino, e o famoso anfiteatro Forest Opera (Lesna Opera) onde os caes esperam do lado de fora na encosta herbosa durante os espetaculos. A praia tem uma zona canina dedicada na extremidade norte. Em agosto realiza-se o International Song Contest (formato semelhante ao Eurovision) que enche os hoteis, mas a cidade gere bem o afluxo. Sopot foi construida para o turismo estival.`,
+    whyDe: `Sopot ist das Juwel der baltischen Riviera: eine Belle-Époque-Kurstadt mit dem längsten Holzsteg Europas (512 Meter, Hunde außerhalb der Badezeiten erlaubt), der autofreien Fußgängerpromenade Monte Cassino und dem berühmten Amphitheater Waldoper (Lesna Opera), wo Hunde während der Vorstellungen draußen am Grashang warten. Der Strand hat am Nordende eine eigene Hundezone. Im August findet der Internationale Liederwettbewerb statt (ähnliches Format wie der Eurovision Song Contest), der die Hotels füllt, aber die Stadt bewältigt das gut. Sopot ist für den Sommertourismus gemacht.`,
     hotelName: 'Sofitel Grand Sopot',
     hotelEn: `Sofitel Grand Sopot - 5-star Belle Epoque landmark, pets welcome at moderate fee, 2 min from the pier. The hotel has hosted the most celebrated artists who have performed at the Sopot festival for decades. The garden faces the Baltic and the pier walk starts at the garden gate.`,
     hotelFr: `Sofitel Grand Sopot - 5 etoiles Belle Epoque emblematique, animaux acceptes (supplement modere), 2 min de la jetee. L'hotel a accueilli les artistes les plus celebres qui se sont produits au festival de Sopot pendant des decennies. Le jardin fait face a la Baltique et la promenade sur la jetee commence a la porte du jardin.`,
     hotelEs: `Sofitel Grand Sopot - 5 estrellas Belle Epoque emblematico, mascotas admitidas (suplemento moderado), 2 min del muelle. El hotel ha acogido a los artistas mas celebres que han actuado en el festival de Sopot durante decadas. El jardin da al Baltico y el paseo por el muelle comienza en la puerta del jardin.`,
     hotelPt: `Sofitel Grand Sopot - 5 estrelas Belle Epoque emblematico, animais de estimacao aceites (taxa moderada), 2 min do cais. O hotel acolheu os artistas mais celebres que atuaram no festival de Sopot durante decadas. O jardim da para o Baltico e o passeio no cais comeca na porta do jardim.`,
+    hotelDe: `Sofitel Grand Sopot - 5-Sterne-Wahrzeichen im Belle-Époque-Stil, Haustiere gegen moderate Gebühr willkommen, 2 Minuten vom Steg entfernt. Das Hotel beherbergt seit Jahrzehnten die gefeiertsten Künstler, die beim Sopot-Festival aufgetreten sind. Der Garten liegt zur Ostsee, und der Spaziergang zum Steg beginnt am Gartentor.`,
   },
   {
     slug: 'parnu',
@@ -196,11 +213,13 @@ const PICKS: Pick[] = [
     whyFr: `Parnu est la capitale estivale non officielle de l'Estonie. Les Estoniens l'appellent "notre Riviera" et elle accueille un calendrier tout l'ete de concerts en plein air, projections de films et marches de plage tout au long de juillet et aout. Les temperatures restent sous 22°C (brise baltique), la plage de Parnu a une zone canine designee a l'extremite sud, le parc-prairie Rannaniidu permet le jeu sans laisse, et la culture estonienne est extremement tolerante aux chiens dans les terrasses de restaurants. La ville est suffisamment calme pour que vous puissiez parcourir tout le centre avec un chien en 45 minutes.`,
     whyEs: `Parnu es la capital veraniega no oficial de Estonia. Los estonios la llaman "nuestra Riviera" y acoge un calendario de todo el verano de conciertos al aire libre, proyecciones de peliculas y mercados de playa a lo largo de julio y agosto. Las temperaturas se mantienen bajo 22°C (brisa baltica), la playa de Parnu tiene una zona canina designada en el extremo sur, el parque-pradera Rannaniidu permite el juego sin correa, y la cultura estonia es extremadamente tolerante con perros en las terrazas de restaurantes. La ciudad es suficientemente tranquila para que puedas recorrer todo el centro con un perro en 45 minutos.`,
     whyPt: `Parnu e a capital estival nao oficial da Estonia. Os estonianos chamam-lhe "a nossa Riviera" e acolhe um calendario de todo o verao de concertos ao ar livre, projeccoes de filmes e mercados de praia ao longo de julho e agosto. As temperaturas ficam abaixo dos 22°C (brisa baltica), a praia de Parnu tem uma zona canina designada na extremidade sul, o parque-pradaria Rannaniidu permite o jogo sem trela, e a cultura estonia e extremamente tolerante com caes nas esplanadas de restaurantes. A cidade e suficientemente calma para percorrer todo o centro com um cao em 45 minutos.`,
+    whyDe: `Pärnu ist Estlands inoffizielle Sommerhauptstadt. Die Esten nennen sie "unsere Riviera", und den ganzen Sommer über gibt es hier Freiluftkonzerte, Filmvorführungen und Strandmärkte im Juli und August. Die Temperaturen bleiben unter 22 °C (Ostseebrise), der Strand von Pärnu hat am Südende eine ausgewiesene Hundezone, der Wiesenpark Rannaniidu erlaubt Freilauf, und die estnische Kultur ist auf Restaurantterrassen äußerst hundetolerant. Die Stadt ist ruhig genug, um das gesamte Zentrum mit Hund in 45 Minuten zu durchqueren.`,
     hotelName: 'Villa Wesset',
     hotelEn: `Villa Wesset - boutique hotel in the spa quarter, dogs welcome at modest fee, private garden. The spa quarter of Parnu is the quietest and most residential part of the city, lined with wooden villas from the early 20th century. The private garden is perfect for a dog that wants to decompress after a car journey.`,
     hotelFr: `Villa Wesset - hotel boutique dans le quartier thermal, chiens acceptes (supplement modeste), jardin prive. Le quartier thermal de Parnu est la partie la plus calme et la plus residentielle de la ville, bordee de villas en bois du debut du XXe siecle. Le jardin prive est parfait pour un chien qui veut se detendre apres un trajet en voiture.`,
     hotelEs: `Villa Wesset - hotel boutique en el barrio de los banos, perros admitidos (suplemento modesto), jardin privado. El barrio de los banos de Parnu es la parte mas tranquila y residencial de la ciudad, bordeada de villas de madera de principios del siglo XX. El jardin privado es perfecto para un perro que quiere relajarse despues de un viaje en coche.`,
     hotelPt: `Villa Wesset - hotel boutique no bairro das termas, caes aceites (taxa modesta), jardim privado. O bairro das termas de Parnu e a parte mais calma e residencial da cidade, ladeada de vilas de madeira do inicio do seculo XX. O jardim privado e perfeito para um cao que quer descansar apos uma viagem de carro.`,
+    hotelDe: `Villa Wesset - Boutique-Hotel im Kurviertel, Hunde gegen bescheidene Gebühr willkommen, privater Garten. Das Kurviertel von Pärnu ist der ruhigste und wohnlichste Teil der Stadt, gesäumt von Holzvillen aus dem frühen 20. Jahrhundert. Der private Garten eignet sich perfekt für einen Hund, der sich nach einer Autofahrt entspannen möchte.`,
   },
   {
     slug: 'bregenz',
@@ -213,11 +232,13 @@ const PICKS: Pick[] = [
     whyFr: `Les Bregenzer Festspiele sont l'un des festivals d'opera les plus spectaculaires du monde : la scene est construite sur le lac de Constance lui-meme, avec 7000 places, et les representations sont visibles depuis la promenade du lac ou les chiens en laisse sont bienvenus pour regarder (de loin, avec l'audio). La promenade du lac de Bregenz a Hard est une promenade canine plate de 4 km avec des vues sur les montagnes vers la Suisse et l'Allemagne. Le teleferique du Pfander accepte les chiens en laisse (10 EUR) pour acceder a un plateau de 1065m avec des sentiers de prairie alpine.`,
     whyEs: `Los Bregenzer Festspiele son uno de los festivales de opera visualmente mas espectaculares del mundo: el escenario esta construido sobre el lago Constanza mismo, con 7000 butacas, y las actuaciones son visibles desde el paseo lacustre donde los perros con correa son bienvenidos para ver (desde lejos, con el audio). El paseo lacustre de Bregenz a Hard es un paseo canino llano de 4 km con vistas a las montanas hacia Suiza y Alemania. El teleferico del Pfander admite perros con correa (10 EUR) para acceder a una meseta de 1065m con senderos de prado alpino.`,
     whyPt: `Os Bregenzer Festspiele sao um dos festivais de opera visualmente mais espetaculares do mundo: o palco esta construido sobre o proprio Lago Constanca, com 7000 lugares, e as representacoes sao visiveis a partir do passeio a beira do lago onde caes a trela sao bem-vindos para ver (de longe, com o audio). O passeio a beira do lago de Bregenz a Hard e um passeio canino plano de 4 km com vistas para as montanhas em direcao a Suica e a Alemanha. O telecabine do Pfander aceita caes a trela (10 EUR) para aceder a um planalto de 1065m com trilhos de prado alpino.`,
+    whyDe: `Die Bregenzer Festspiele sind eines der visuell spektakulärsten Opernfestivals der Welt: Die Bühne ist direkt auf dem Bodensee errichtet, mit 7000 Sitzplätzen, und die Aufführungen sind von der Seepromenade aus sichtbar, wo angeleinte Hunde willkommen sind, um zuzuschauen (aus der Ferne, mit dem Ton). Die Seepromenade von Bregenz nach Hard ist ein 4 km langer, flacher Hundespaziergang mit Bergblick auf die Schweiz und Deutschland. Die Pfänderbahn nimmt angeleinte Hunde mit (10 EUR), um ein 1065 m hohes Plateau mit Almwiesenwegen zu erreichen.`,
     hotelName: 'Hotel Schwärzler',
     hotelEn: `Hotel Schwärzler - 4-star festival-season favourite, dogs welcome at moderate fee, 10 min walk to the lake stage. The hotel is the preferred choice of festival regulars who want a quieter location slightly back from the lakeside crowds. The breakfast terrace has a view of the Pfander mountain.`,
     hotelFr: `Hotel Schwärzler - 4 etoiles favori de la saison festivaliere, chiens acceptes (supplement modere), 10 min a pied de la scene sur le lac. L'hotel est le choix prefere des habitues du festival qui veulent un emplacement plus calme legerement a l'ecart des foules du lac. La terrasse du petit-dejeuner a vue sur la montagne du Pfander.`,
     hotelEs: `Hotel Schwärzler - 4 estrellas favorito de la temporada festivalera, perros admitidos (suplemento moderado), 10 min andando hasta el escenario del lago. El hotel es la opcion preferida de los habituales del festival que quieren una ubicacion mas tranquila, ligeramente alejada de las multitudes del lago. La terraza del desayuno tiene vista a la montana Pfander.`,
     hotelPt: `Hotel Schwärzler - 4 estrelas favorito da epoca do festival, caes aceites (taxa moderada), 10 min a pe do palco no lago. O hotel e a escolha preferida dos habituais do festival que querem uma localizacao mais calma, ligeiramente afastada das multidoes junto ao lago. A esplanada do pequeno-almoco tem vista para a montanha Pfander.`,
+    hotelDe: `Hotel Schwärzler - beliebtes 4-Sterne-Haus zur Festspielzeit, Hunde gegen moderate Gebühr willkommen, 10 Gehminuten zur Seebühne. Das Hotel ist die bevorzugte Wahl von Festivalstammgästen, die eine ruhigere Lage etwas abseits der Menschenmengen am See suchen. Die Frühstücksterrasse bietet Aussicht auf den Pfänder.`,
   },
 ]
 
@@ -422,6 +443,56 @@ const COPY = {
     ],
     relatedHeading: 'Ver tambem',
   },
+  de: {
+    eyebrow: `FESTIVALSAISON 2026 · HAUSTIERREISEN EUROPA`,
+    title: `Sommerfestivals in Europa mit Ihrem Hund: 8 Festivalstädte mit hundefreundlichen Hotels (2026)`,
+    intro: `Der Festivalsommer ist der Höhepunkt des europäischen Kulturlebens im Juli und August. Hundebesitzer haben Festivalstädte in der Vergangenheit oft gemieden, weil sie annahmen, ihr Hund würde ausgeschlossen sein. Dieser Ratgeber erklärt, wie Sie das Festival besuchen UND Ihren Hund glücklich halten können: Freiluftkonzerte, Festivalstimmung in den Parks und Städte, die in einem menschlichen Tempo lebendig werden, das Hunde tatsächlich genießen.`,
+    pickHeading: '8 Festivalstädte, in denen Hunde neben dem Programm aufblühen',
+    whyHere: 'Warum hier',
+    hotelLabel: 'Wo übernachten',
+    seeDestCta: 'Vollständiger Stadtführer →',
+    hotelCta: 'Verfügbarkeit ansehen →',
+    summerLabel: 'Sommerhöchstwert',
+    practicalHeading: 'Festivalreisen mit Hund: praktische Infos',
+    practical: [
+      {
+        h: 'Die Begleiter-Strategie',
+        p: `Ein Mensch besucht die Vorstellung, der andere bleibt mit dem Hund im Park oder auf der Terrasse. Die meisten Festivalvorstellungen dauern 2 bis 4 Stunden, die ideale Dauer für ein Hundenickerchen im Hotel oder Stadtpark. Für Bayreuther Opern (5 Stunden) sollten Sie vorher einen längeren Spaziergang einplanen, damit der Hund entspannt ist, bevor Sie losgehen. Die Begleiter-Strategie funktioniert in allen 8 Städten dieses Ratgebers und verwandelt ein mögliches logistisches Kopfzerbrechen in ein angenehmes Parallelprogramm.`,
+      },
+      {
+        h: 'Hotels während der Festivalsaison buchen',
+        p: `Buchen Sie 3-6 Monate im Voraus für Bayreuth (ausverkauft bereits im Oktober für den folgenden Sommer), 8 Wochen im Voraus für Spoleto und Orange, 4 Wochen für Pärnu und Sopot. Festivalstädte verhängen während der Veranstaltungswoche stadtweite Höchstpreise. Für Bregenz und Colmar bieten die umliegenden Dörfer (Hard beziehungsweise Turckheim) ruhigere Alternativen zu niedrigeren Preisen bei 15-20 Minuten Fahrzeit zu den Veranstaltungsorten.`,
+      },
+      {
+        h: 'Freiluftkonzerte der Festivals vs. Veranstaltungsorte mit Eintrittskarten',
+        p: `Viele Festivals bieten kostenlose Freiluftkonzerte auf Stadtplätzen an, bei denen Hunde toleriert werden. Umbria Jazz (Perugia) hat kostenlose Bühnen auf der Piazza, die Bregenzer Seepromenade ist während der Aufführungen ein öffentlicher Raum, und die abendliche Atmosphäre der Petite Venise in Colmar trägt die Festivalstimmung in hundefreundliche Straßen. Prüfen Sie vor der Buchung das Freiluftprogramm jedes Festivals: Diese kostenlosen Veranstaltungen sind musikalisch oft ebenso befriedigend wie die kostenpflichtigen Hauptveranstaltungen.`,
+      },
+      {
+        h: 'Hitzemanagement bei Sommerfestivals',
+        p: `Südliche Festivals (Orange, Perugia, Spoleto) erreichen im Juli 28-30 °C. Besuchen Sie Abendvorstellungen, halten Sie Ihren Hund während der heißesten Nachmittagsstunden (14-18 Uhr) in einem klimatisierten Hotelzimmer und buchen Sie im Voraus ein Hotel mit Garten oder schattiger Terrasse. Der 7-Sekunden-Pfotentest gilt: Drücken Sie 7 Sekunden lang den Handrücken auf den Asphalt. Wenn Sie es nicht aushalten, kann Ihr Hund auch nicht darauf laufen. Baltische Städte (Pärnu, Sopot) bleiben unter 22 °C und haben keine Hitzeprobleme.`,
+      },
+    ],
+    faqHeading: 'Häufig gestellte Fragen',
+    faqs: [
+      {
+        q: 'Darf mein Hund Freiluftkonzerte bei diesen Festivals besuchen?',
+        a: `Bei kostenlosen Freiluftkonzerten (Piazza-Bühnen von Umbria Jazz, Bregenzer Seepromenade) ja. Bei Konzerten mit Eintrittskarten nein. Die Begleiter-Strategie funktioniert: Eine Person besucht die Vorstellung, der Hund bleibt im Hotel oder Stadtpark. Die abendliche Kanalatmosphäre von Colmar und die Monte-Cassino-Promenade von Sopot sind öffentliche Räume, in denen ein gut erzogener angeleinter Hund während der Festivalsaison völlig normal ist.`,
+      },
+      {
+        q: 'Welches dieser Festivals ist insgesamt am hundefreundlichsten?',
+        a: `Pärnu und Sopot. Die baltische Kultur ist die hundetoleranteste Europas, das Freiluft-Festivalformat ist über die ganze Stadt verteilt, und die Temperaturen bleiben unter 22 °C, sodass der Hund den ganzen Tag über angenehm untergebracht ist. Bayreuth ist die zweitbeste Wahl für Hundebegleiter: der Eremitage-Park, die fränkische Biergartenkultur und die Wanderungen auf dem Hofgarten-Hügel machen die opernfreie Hälfte der Reise wirklich angenehm.`,
+      },
+      {
+        q: 'Lohnt sich Bayreuth, wenn nur einer von uns Karten hat?',
+        a: `Absolut. Der Eremitage-Park (ein vollständiger Barockpark mit Springbrunnen, Grotten und Außenwegen, die angeleinte Hunde zulassen), die fränkische Biergartenkultur der Stadt (die hundetoleranteste Deutschlands) und der freie Zugang zu den Hügelgärten des Festspielhauses machen Bayreuth für die opernfreie Hälfte der Reise wirklich interessant. Der Außengarten des Wagner-Museums und der Hofgarten liegen beide innerhalb von 10 Gehminuten von den meisten zentralen Hotels entfernt.`,
+      },
+      {
+        q: 'Wie sieht es mit großen Hunden in Hotels der Festivalstädte aus?',
+        a: `Festivalhotels sind tendenziell Boutique-Häuser und verhängen Gewichtsgrenzen (8-15 kg). Colmar, Sopot und Bregenz sind für größere Rassen am flexibelsten: Suchen Sie nach familiengeführten 3-Sterne-Häusern oder Aparthotels, die in der Regel keine Gewichtsbeschränkungen haben. In Bayreuth hat der Goldener Anker historisch gesehen große Hunde für Festivalgäste aufgenommen. Rufen Sie immer vorher an, um die aktuelle Richtlinie für das Gewicht und die Rasse Ihres Hundes zu bestätigen.`,
+      },
+    ],
+    relatedHeading: 'Siehe auch',
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -470,12 +541,14 @@ export default async function Page({
     if (locale === 'fr') return p.whyFr
     if (locale === 'es') return p.whyEs
     if (locale === 'pt') return p.whyPt
+    if (locale === 'de') return p.whyDe
     return p.whyEn
   }
   const pickHotel = (p: Pick) => {
     if (locale === 'fr') return p.hotelFr
     if (locale === 'es') return p.hotelEs
     if (locale === 'pt') return p.hotelPt
+    if (locale === 'de') return p.hotelDe
     return p.hotelEn
   }
 

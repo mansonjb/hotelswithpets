@@ -19,6 +19,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   fr: { label: `Hôtels romantiques pet-friendly en Europe`, cta: 'Voir les hôtels' },
   es: { label: 'Hoteles románticos pet-friendly en Europa', cta: 'Ver hoteles' },
   pt: { label: 'Hotéis românticos pet-friendly na Europa', cta: 'Ver hotéis' },
+  de: { label: 'Romantische haustierfreundliche Hotels in Europa', cta: 'Hotels ansehen' },
 }
 
 export async function generateStaticParams() {
@@ -38,12 +39,14 @@ export async function generateMetadata({
     fr: `Lune de miel avec son chien : 6 destinations romantiques pet-friendly en Europe (2026)`,
     es: `Luna de miel con tu perro: 6 destinos románticos pet-friendly en Europa (2026)`,
     pt: `Lua de mel com o seu cão: 6 destinos românticos pet-friendly na Europa (2026)`,
+    de: `Flitterwochen mit Hund: 6 romantische haustierfreundliche Reiseziele in Europa (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Six European destinations that work for a romantic honeymoon with a dog or a cat: lakeside hotels, palace-village pairings and seaside escapes that genuinely welcome pets in the room.`,
     fr: `Six destinations européennes parfaites pour une lune de miel avec son chien ou son chat : hôtels en bord de lac, villages-palais et escapades en bord de mer qui acceptent vraiment les animaux en chambre.`,
     es: `Seis destinos europeos perfectos para una luna de miel con perro o gato: hoteles a orillas del lago, palacios-pueblo y escapadas marítimas que admiten realmente a las mascotas en la habitación.`,
     pt: `Seis destinos europeus perfeitos para uma lua de mel com cão ou gato: hotéis à beira do lago, palácios-aldeia e escapadelas à beira-mar que aceitam realmente animais no quarto.`,
+    de: `Sechs europäische Reiseziele für Flitterwochen mit Hund oder Katze: Hotels am See, Palast-Dörfer und Küstenausflüge, die Haustiere im Zimmer wirklich willkommen heißen.`,
   }
   return {
     title: titles[locale] ?? titles.en,
@@ -78,10 +81,12 @@ type Pick = {
   whyFr: string
   whyEs: string
   whyPt: string
+  whyDe?: string
   hotelEn: string
   hotelFr: string
   hotelEs: string
   hotelPt: string
+  hotelDe?: string
   hotelName: string
 }
 
@@ -95,11 +100,13 @@ const PICKS: Pick[] = [
     whyFr: `Le Palais de Pena, les jardins de la Quinta da Regaleira et les forêts de palmiers d'une zone UNESCO de 90 km². Climat atlantique doux toute l'année, sentiers de la Serra de Sintra accessibles aux chiens en laisse, aéroport de Lisbonne à 30 minutes.`,
     whyEs: `El Palacio da Pena, los jardines de la Quinta da Regaleira y los bosques de palmeras en una zona UNESCO de 90 km². Clima atlántico suave todo el año, senderos de la Serra de Sintra abiertos a perros con correa, aeropuerto de Lisboa a 30 minutos.`,
     whyPt: `O Palácio da Pena, os jardins da Quinta da Regaleira e as florestas de palmeiras numa zona UNESCO de 90 km². Clima atlântico suave todo o ano, trilhos da Serra de Sintra abertos a cães à trela, aeroporto de Lisboa a 30 minutos.`,
+    whyDe: `Der Palácio da Pena, die Gärten der Quinta da Regaleira und Palmenwälder in einer 90 km² großen UNESCO-Zone. Mildes Atlantikklima das ganze Jahr über, Wanderwege der Serra de Sintra sind für angeleinte Hunde zugänglich, Flughafen Lissabon nur 30 Minuten entfernt.`,
     hotelName: 'Tivoli Palácio de Seteais',
     hotelEn: `Tivoli Palácio de Seteais - an 18th-century neoclassical palace turned 5-star hotel, framed by formal gardens with a Pena Palace view. Small pets welcome on request.`,
     hotelFr: `Tivoli Palácio de Seteais - palais néoclassique du XVIIIᵉ converti en 5 étoiles, jardins à la française avec vue sur le Palais de Pena. Petits animaux acceptés sur demande.`,
     hotelEs: `Tivoli Palácio de Seteais - palacio neoclásico del siglo XVIII reconvertido en 5 estrellas, jardines a la francesa con vista al Palacio da Pena. Mascotas pequeñas a petición.`,
     hotelPt: `Tivoli Palácio de Seteais - palácio neoclássico do século XVIII convertido em 5 estrelas, jardins à francesa com vista sobre o Palácio da Pena. Animais pequenos a pedido.`,
+    hotelDe: `Tivoli Palácio de Seteais - ein neoklassizistischer Palast aus dem 18. Jahrhundert, umgewandelt in ein 5-Sterne-Hotel, umgeben von formalen Gärten mit Blick auf den Palácio da Pena. Kleine Haustiere auf Anfrage willkommen.`,
   },
   {
     slug: 'como',
@@ -110,11 +117,13 @@ const PICKS: Pick[] = [
     whyFr: `Lac préalpin bordé de villas grandioses au pied des montagnes à cyprès. Les ferries entre Bellagio, Varenna et Côme acceptent les chiens en laisse gratuits, les promenades du lac sont entièrement praticables, et le climat reste supportable pour les races à museau court même en juillet.`,
     whyEs: `Lago prealpino con grandes villas al pie de montañas con cipreses. Los ferris entre Bellagio, Varenna y Como admiten perros con correa gratis, los paseos del lago son íntegramente caminables, y el clima sigue siendo soportable para razas de hocico corto incluso en julio.`,
     whyPt: `Lago pré-alpino com vilas grandiosas ao pé de montanhas com ciprestes. Os ferries entre Bellagio, Varenna e Como aceitam cães à trela gratuitamente, os passeios do lago são inteiramente percorríveis, e o clima permanece suportável para raças de focinho curto mesmo em julho.`,
+    whyDe: `Voralpensee mit prachtvollen Villen am Fuß zypressenbewachsener Berge. Die Fähren zwischen Bellagio, Varenna und Como nehmen angeleinte Hunde kostenlos mit, die Uferpromenaden sind komplett hundetauglich, und das Klima bleibt selbst im Juli für kurznasige Rassen erträglich.`,
     hotelName: 'Grand Hotel Tremezzo',
     hotelEn: `Grand Hotel Tremezzo - Belle Époque palace directly on the lake, with the most famous floating pool in Italy. Dogs welcomed with bed, bowls and a welcome amenity.`,
     hotelFr: `Grand Hotel Tremezzo - palace Belle Époque en bord de lac, avec la piscine flottante la plus célèbre d'Italie. Chiens accueillis avec panier, gamelles et amenity de bienvenue.`,
     hotelEs: `Grand Hotel Tremezzo - palacio Belle Époque a orillas del lago, con la piscina flotante más famosa de Italia. Perros bienvenidos con cama, comederos y obsequio de bienvenida.`,
     hotelPt: `Grand Hotel Tremezzo - palace Belle Époque à beira do lago, com a piscina flutuante mais famosa de Itália. Cães bem-vindos com cama, tigelas e amenity de boas-vindas.`,
+    hotelDe: `Grand Hotel Tremezzo - Belle-Époque-Palast direkt am See, mit dem berühmtesten schwimmenden Pool Italiens. Hunde willkommen mit Bett, Näpfen und einem Begrüßungsgeschenk.`,
   },
   {
     slug: 'antibes',
@@ -125,11 +134,13 @@ const PICKS: Pick[] = [
     whyFr: `La tranche la plus discrète de la Côte d'Azur, entre Cannes et Nice. Les 5 km du Sentier du Littoral du Cap acceptent les chiens en laisse toute l'année, l'offre boutique-hôtel est dense, et on peut atterrir à Nice (NCE) sans louer de voiture en utilisant le TER.`,
     whyEs: `El tramo más discreto de la Costa Azul, entre Cannes y Niza. Los 5 km del Sentier du Littoral del Cap admiten perros con correa todo el año, la oferta de hoteles boutique es densa, y puedes aterrizar en Niza (NCE) y prescindir del coche con el TER.`,
     whyPt: `O troço mais discreto da Riviera Francesa, entre Cannes e Nice. Os 5 km do Sentier du Littoral do Cap aceitam cães à trela todo o ano, a oferta de hotéis boutique é densa, e pode aterrar em Nice (NCE) sem alugar carro usando o TER.`,
+    whyDe: `Der diskreteste Abschnitt der Côte d'Azur, zwischen Cannes und Nizza. Die 5 km lange Küstenwanderung Sentier du Littoral des Cap ist ganzjährig für angeleinte Hunde geöffnet, das Angebot an Boutique-Hotels ist dicht, und man landet in Nizza (NCE) und kommt mit dem TER ganz ohne Auto aus.`,
     hotelName: `Hôtel Beau Site Cap d'Antibes`,
     hotelEn: `Hôtel Beau Site Cap d'Antibes - 200 m from the Sentier du Littoral trailhead, pets up to 10 kg welcomed at no extra charge, garden and pool, the calm Cap d'Antibes setting away from the summer crowds.`,
     hotelFr: `Hôtel Beau Site Cap d'Antibes - à 200 m du départ du Sentier du Littoral, chiens jusqu'à 10 kg acceptés sans supplément, jardin et piscine, le calme du Cap loin de l'agitation estivale.`,
     hotelEs: `Hôtel Beau Site Cap d'Antibes - a 200 m del inicio del Sentier du Littoral, perros hasta 10 kg admitidos sin coste, jardín y piscina, la calma del Cap lejos del bullicio veraniego.`,
     hotelPt: `Hôtel Beau Site Cap d'Antibes - a 200 m do início do Sentier du Littoral, cães até 10 kg aceites sem custo, jardim e piscina, a calma do Cap longe da multidão estival.`,
+    hotelDe: `Hôtel Beau Site Cap d'Antibes - 200 m vom Startpunkt des Sentier du Littoral entfernt, Haustiere bis 10 kg ohne Aufpreis willkommen, Garten und Pool, die Ruhe des Cap d'Antibes abseits des Sommertrubels.`,
   },
   {
     slug: 'bruges',
@@ -140,11 +151,13 @@ const PICKS: Pick[] = [
     whyFr: `Une ville médiévale dont la vieille ville est classée UNESCO et où les canaux sont franchis par plus de 50 ponts. Les fiacres à cheval tolèrent les chiens calmes, la place du Markt accueille des chocolatiers dog-friendly, et le Minnewater "lac d'amour" est la promenade romantique cliché-mais-vraie.`,
     whyEs: `Una ciudad medieval cuyo casco antiguo es UNESCO y donde los canales son cruzados por más de 50 puentes. Los carruajes a caballo toleran perros tranquilos, la plaza del Markt acoge chocolaterías dog-friendly, y el Minnewater "lago del amor" es el paseo romántico tópico-pero-real.`,
     whyPt: `Uma cidade medieval cuja zona antiga é UNESCO e onde os canais são atravessados por mais de 50 pontes. As carruagens puxadas a cavalo toleram cães calmos, a praça do Markt acolhe chocolatarias dog-friendly, e o Minnewater "lago do amor" é o passeio romântico clichê-mas-verdadeiro.`,
+    whyDe: `Eine mittelalterliche Stadt, deren Altstadt UNESCO-Welterbe ist und deren Grachten von über 50 Brücken überquert werden. Die Pferdekutschen tolerieren ruhige Hunde, der Markt beherbergt haustierfreundliche Schokoladenläden, und der Minnewater, der "See der Liebe", ist der klischeehafte, aber wahrhaft romantische Spaziergang.`,
     hotelName: 'Boutique Hotel De Castillion',
     hotelEn: `Boutique Hotel De Castillion - 15-room townhouse in a former bishop's residence, walking distance to the Markt. Small dogs welcome, breakfast in the walled garden.`,
     hotelFr: `Boutique Hotel De Castillion - 15 chambres dans une ancienne résidence épiscopale, à pied du Markt. Petits chiens bienvenus, petit-déjeuner dans le jardin clos.`,
     hotelEs: `Boutique Hotel De Castillion - 15 habitaciones en una antigua residencia episcopal, andando al Markt. Perros pequeños bienvenidos, desayuno en el jardín tapiado.`,
     hotelPt: `Boutique Hotel De Castillion - 15 quartos numa antiga residência episcopal, a pé do Markt. Cães pequenos bem-vindos, pequeno-almoço no jardim murado.`,
+    hotelDe: `Boutique Hotel De Castillion - Stadthaus mit 15 Zimmern in einer ehemaligen Bischofsresidenz, fußläufig zum Markt. Kleine Hunde willkommen, Frühstück im ummauerten Garten.`,
   },
   {
     slug: 'hallstatt',
@@ -155,11 +168,13 @@ const PICKS: Pick[] = [
     whyFr: `Le conte de fées alpin dont les magazines voyage ne se lassent jamais, et pour une fois c'est mérité. Village au bord du lac avec balcons en bois, le ferry du Hallstätter See accepte les chiens en laisse gratuits, et le sentier du Salzberg est ouvert aux chiens en surface.`,
     whyEs: `El cuento de hadas alpino del que las revistas de viaje no paran, y por una vez está justificado. Pueblo a orillas del lago con balcones de madera, el ferri del Hallstätter See admite perros con correa gratis, y el sendero del Salzberg es dog-friendly en la parte exterior.`,
     whyPt: `O conto de fadas alpino do qual as revistas de viagem não se calam, e por uma vez é merecido. Aldeia à beira do lago com varandas de madeira, o ferry do Hallstätter See aceita cães à trela gratuitamente, e o trilho do Salzberg é dog-friendly na parte exterior.`,
+    whyDe: `Das alpine Märchen, von dem die Reisemagazine nicht genug bekommen, und ausnahmsweise zu Recht. Dorf am See mit Holzbalkonen, die Fähre auf dem Hallstätter See nimmt angeleinte Hunde kostenlos mit, und der Weg zum Salzberg ist im oberirdischen Abschnitt hundefreundlich.`,
     hotelName: 'Seehotel Grüner Baum',
     hotelEn: `Seehotel Grüner Baum - historic 4-star directly on the Marktplatz, pets welcomed in rooms with a lakeside terrace.`,
     hotelFr: `Seehotel Grüner Baum - 4 étoiles historique sur la Marktplatz, chiens acceptés en chambre avec terrasse en bord de lac.`,
     hotelEs: `Seehotel Grüner Baum - 4 estrellas histórico en la Marktplatz, perros admitidos en habitación con terraza junto al lago.`,
     hotelPt: `Seehotel Grüner Baum - 4 estrelas histórico na Marktplatz, cães aceites em quarto com esplanada à beira do lago.`,
+    hotelDe: `Seehotel Grüner Baum - historisches 4-Sterne-Haus direkt am Marktplatz, Haustiere willkommen in Zimmern mit Seeterrasse.`,
   },
   {
     slug: 'bordeaux',
@@ -170,11 +185,13 @@ const PICKS: Pick[] = [
     whyFr: `Le vin et la pierre pour une lune de miel plus calme. Le Quai des Chartrons, le miroir d'eau de la Place de la Bourse, les trams gratuits pour les chiens, et les châteaux du Médoc à 45 minutes qui accueillent les chiens sages en visite cave. Deux heures de Paris en TGV.`,
     whyEs: `El vino y la piedra para una luna de miel más tranquila. El Quai des Chartrons, el espejo de agua de la Place de la Bourse, los tranvías gratis para perros, y los châteaux del Médoc a 45 minutos que admiten perros tranquilos en visitas de bodega. Dos horas de París en TGV.`,
     whyPt: `O vinho e a pedra para uma lua de mel mais calma. O Quai des Chartrons, o espelho de água da Place de la Bourse, os elétricos gratuitos para cães, e os châteaux do Médoc a 45 minutos que aceitam cães educados nas visitas de adega. Duas horas de Paris em TGV.`,
+    whyDe: `Wein und Stein für Flitterwochen der ruhigeren Art. Der Quai des Chartrons, der Wasserspiegel auf der Place de la Bourse, die Straßenbahnen, in denen Hunde kostenlos mitfahren, und die Château-Weingüter im Médoc, 45 Minuten entfernt, die wohlerzogene Hunde bei Kellerbesichtigungen willkommen heißen. Zwei Stunden von Paris mit dem TGV.`,
     hotelName: `InterContinental Bordeaux - Le Grand Hôtel`,
     hotelEn: `InterContinental Bordeaux - Le Grand Hôtel - Palace overlooking the Grand Théâtre. Pets up to 14 kg welcomed in deluxe rooms, dog bed and bowls provided, Spa Guerlain on site (humans only).`,
     hotelFr: `InterContinental Bordeaux - Le Grand Hôtel - palace face au Grand Théâtre. Chiens jusqu'à 14 kg en chambres deluxe, couchage et gamelles fournis, Spa Guerlain sur place (humains uniquement).`,
     hotelEs: `InterContinental Bordeaux - Le Grand Hôtel - palacio frente al Grand Théâtre. Perros hasta 14 kg en habitaciones deluxe, cama y comederos, Spa Guerlain (solo humanos).`,
     hotelPt: `InterContinental Bordeaux - Le Grand Hôtel - palace em frente ao Grand Théâtre. Cães até 14 kg em quartos deluxe, cama e tigelas, Spa Guerlain (apenas humanos).`,
+    hotelDe: `InterContinental Bordeaux - Le Grand Hôtel - Palasthotel mit Blick auf das Grand Théâtre. Haustiere bis 14 kg willkommen in Deluxe-Zimmern, Hundebett und Näpfe werden gestellt, Spa Guerlain vor Ort (nur für Menschen).`,
   },
 ]
 
@@ -267,6 +284,28 @@ const COPY = {
     ],
     relatedHeading: 'Guias relacionados',
   },
+  de: {
+    eyebrow: `HAUSTIERFREUNDLICHE FLITTERWOCHEN · EUROPA`,
+    title: `Flitterwochen mit Hund: 6 romantische Reiseziele in Europa`,
+    intro: `Die meisten Flitterwochen-Shortlists gehen davon aus, dass der Hund zu Hause bleibt. Aber für Paare, die das ganze Jahr über mit ihrem Haustier reisen, fühlt es sich falsch an, es für die symbolträchtigste Reise ihrer Beziehung zurückzulassen. Wir haben sechs europäische Reiseziele ausgewählt, die für eine romantische Woche mit einem angeleinten Hund zu Füßen wirklich funktionieren: Paläste am See, ummauerte mittelalterliche Städte und Küstenklippen, an denen es tatsächlich haustierfreundliche Luxushotels gibt.`,
+    pickHeading: 'Die sechs Auswahlen',
+    whyHere: 'Warum hier',
+    hotelLabel: 'Wo übernachten',
+    seeDestCta: 'Vollständiger Städteguide →',
+    hotelCta: 'Verfügbarkeit ansehen →',
+    altHeading: 'Bevorzugen Sie klassische Flitterwochen ohne Ihr Haustier?',
+    altIntro: `Manche Flitterwochen sollen eine echte Zweisamkeitsblase sein - keine Leinenkontrolle am Restauranteingang, keine Betreuungslogistik für den Spa-Tag, kein früher Morgenspaziergang. Wir verstehen das. Für kuratierte Flitterwochen-Hotels (Malediven-Overwater-Villen, Bali-Klippenlage, griechische Inselvilla, afrikanische Safari-Lodges, Paläste an der Côte d'Azur) ist unsere Schwesterseite genau dafür gemacht:`,
+    altLink: `Klassische Flitterwochen-Hotels finden auf ${SISTER_SITE.name}`,
+    altOutro: `Es ist dasselbe Redaktionsteam, derselbe Verifizierungsstandard, keine Haustiere im Fokus. Nutzen Sie sie, um die Flitterwochen zu planen, und HotelsWithPets für alles davor und danach, wenn Ihr Hund wieder Teil der Gleichung ist.`,
+    faqHeading: 'Häufig gestellte Fragen',
+    faqs: [
+      { q: 'Nimmt ein 5-Sterne-Palast meinen Hund wirklich auf?', a: `Mehr, als Sie erwarten würden. Die Gruppen Belmond, Mandarin Oriental, Four Seasons und Anantara haben in ihren wichtigsten europäischen Häusern alle eine Haustierrichtlinie. Das Höchstgewicht ist die übliche Einschränkung (10-14 kg). Bestätigen Sie dies bei der Buchung immer per direkter E-Mail - die Angaben auf Booking.com hinken der tatsächlichen Richtlinie oft hinterher.` },
+      { q: 'Beste europäische Jahreszeiten für haustierfreundliche Flitterwochen?', a: `April bis Juni und September bis Oktober treffen den idealen Punkt: milde Temperaturen (16-24 °C), Strände größtenteils zugänglich, Terrassen wieder geöffnet, Nebensaisonpreise. Meiden Sie Juli-August im Mittelmeerraum (Hitze ist brutal für Hunde) und Weihnachtsmärkte, falls Ihr Hund Menschenmengen nicht mag.` },
+      { q: 'Kann ich meinen Hund im Eurostar / TGV / Frecciarossa mitnehmen?', a: `Eurostar akzeptiert nur Assistenzhunde. TGV: kleiner Hund in der Transporttasche 7,10 €, größerer angeleinter Hund 7,10 €, keine Mengenbeschränkung. Frecciarossa: kleiner Hund in der Tasche kostenlos, größerer Hund 5 € im letzten Wagen. ICE (Deutschland) und AVE (Spanien) nehmen beide angeleinte Hunde zum halben Fahrpreis mit.` },
+      { q: 'Und wie sieht es mit dem Flug für Flitterwochen mit Hund aus?', a: `Die Kabine akzeptiert Hunde bis 6-8 kg, je nach Fluggesellschaft (Air France, Lufthansa, KLM, Iberia, ITA). Größere Hunde reisen im klimatisierten Frachtraum, was stressig ist - für Flitterwochen empfehlen wir nach Möglichkeit Bahn oder Auto, um die Stimmung stimmig zu halten.` },
+    ],
+    relatedHeading: 'Verwandte Guides',
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -317,12 +356,14 @@ export default async function Page({
     if (locale === 'fr') return p.whyFr
     if (locale === 'es') return p.whyEs
     if (locale === 'pt') return p.whyPt
+    if (locale === 'de') return p.whyDe ?? p.whyEn
     return p.whyEn
   }
   const pickHotel = (p: Pick) => {
     if (locale === 'fr') return p.hotelFr
     if (locale === 'es') return p.hotelEs
     if (locale === 'pt') return p.hotelPt
+    if (locale === 'de') return p.hotelDe ?? p.hotelEn
     return p.hotelEn
   }
 

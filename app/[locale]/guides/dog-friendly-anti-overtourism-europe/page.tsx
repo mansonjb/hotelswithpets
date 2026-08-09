@@ -232,11 +232,13 @@ const PICKS: Pick[] = [
     whyFr: `Bad Ischl est l'ancienne residence estivale imperiale de Francois-Joseph Ier, a 1h de Salzbourg en train regional (12 EUR), et a ete nommee Capitale Europeenne de la Culture 2024. Le parc de la Kaiservilla autorise les chiens en laisse sur le perimetre du domaine, la promenade le long de la riviere Traun est plate et entierement accessible aux chiens, et la region des lacs du Salzkammergut commence directement depuis la ville. La foule est une fraction de celle de Salzbourg meme en haute saison estivale.`,
     whyEs: `Bad Ischl es la antigua residencia imperial de verano de Francisco Jose I, a 1h de Salzburgo en tren regional (12 EUR), y fue nombrada Capital Europea de la Cultura 2024. El parque de la Kaiservilla permite perros con correa en el perimetro de los terrenos, el paseo del rio Traun es llano y completamente accesible para perros, y la region de lagos del Salzkammergut comienza directamente desde la ciudad. La masificacion es una fraccion de la de Salzburgo incluso en pleno verano.`,
     whyPt: `Bad Ischl e a antiga residencia imperial de verao de Francisco Jose I, a 1h de Salzburgo de comboio regional (12 EUR), e foi nomeada Capital Europeia da Cultura 2024. O parque da Kaiservilla permite caes a trela no perimetro dos terrenos, o passeio pelo rio Traun e plano e completamente acessivel a caes, e a regiao dos lagos do Salzkammergut comeca diretamente da cidade. As multidoes sao uma fracao das de Salzburgo mesmo no pico do verao.`,
+    whyDe: `Bad Ischl war die ehemalige kaiserliche Sommerresidenz von Franz Joseph I., liegt 1 Stunde von Salzburg mit der Regionalbahn entfernt (12 EUR) und wurde 2024 zur Kulturhauptstadt Europas ernannt. Der Park der Kaiservilla erlaubt Hunde an der Leine am Rand des Geländes, der Spaziergang entlang der Traun ist flach und vollständig hundefreundlich zugänglich, und die Seenregion Salzkammergut beginnt direkt an der Stadt. Die Besuchermassen sind selbst in der Hochsaison nur ein Bruchteil derer in Salzburg.`,
     hotelName: 'Hotel Austria Bad Ischl',
     hotelEn: `Hotel Austria Bad Ischl - traditional 4-star on the Esplanade, dogs welcome at modest fee.`,
     hotelFr: `Hotel Austria Bad Ischl - 4 etoiles traditionnel sur l'Esplanade, chiens acceptes (supplement modere).`,
     hotelEs: `Hotel Austria Bad Ischl - 4 estrellas tradicional en el Esplanade, perros admitidos (suplemento moderado).`,
     hotelPt: `Hotel Austria Bad Ischl - 4 estrelas tradicional na Esplanade, caes aceites (taxa moderada).`,
+    hotelDe: `Hotel Austria Bad Ischl - traditionelles 4-Sterne-Hotel an der Esplanade, Hunde willkommen (moderate Gebühr).`,
   },
 ]
 

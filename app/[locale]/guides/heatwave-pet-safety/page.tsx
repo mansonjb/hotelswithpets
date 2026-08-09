@@ -9,7 +9,7 @@ import { SITE_URL } from '@/lib/site'
 import { imageUrl } from '@/lib/imageUrl'
 import { hasImage } from '@/lib/imageManifest'
 
-type L4 = { en: string; fr: string; es: string; pt: string }
+type L4 = { en: string; fr: string; es: string; pt: string; de: string }
 interface HeatwaveGuide {
   slug: string
   lastUpdated: string
@@ -32,7 +32,7 @@ function load(): HeatwaveGuide | null {
 }
 
 const pick = (o: L4, locale: string): string =>
-  locale === 'fr' ? o.fr : locale === 'es' ? o.es : locale === 'pt' ? o.pt : o.en
+  locale === 'fr' ? o.fr : locale === 'es' ? o.es : locale === 'pt' ? o.pt : locale === 'de' ? o.de : o.en
 
 const SLUG = 'heatwave-pet-safety'
 
@@ -41,6 +41,7 @@ const UI: Record<string, { home: string; guides: string; dogs: string; cats: str
   fr: { home: 'Accueil', guides: 'Guides', dogs: '🐕 Chiens', cats: '🐈 Chats', see: 'Voir la destination →', emergency: `Le coup de chaleur est une urgence vétérinaire`, coolGuide: `Plus : guide des escapades d'été au frais avec un chien →` },
   es: { home: 'Inicio', guides: 'Guías', dogs: '🐕 Perros', cats: '🐈 Gatos', see: 'Ver destino →', emergency: 'El golpe de calor es una urgencia veterinaria', coolGuide: 'Más: guía de escapadas de verano al fresco con perro →' },
   pt: { home: 'Início', guides: 'Guias', dogs: '🐕 Cães', cats: '🐈 Gatos', see: 'Ver destino →', emergency: 'A insolação é uma emergência veterinária', coolGuide: 'Mais: guia de escapadas de verão ao fresco com cão →' },
+  de: { home: 'Startseite', guides: 'Ratgeber', dogs: '🐕 Hunde', cats: '🐈 Katzen', see: 'Ziel ansehen →', emergency: 'Ein Hitzschlag ist ein tierärztlicher Notfall', coolGuide: `Mehr: Ratgeber für kühle Sommerausflüge mit Hund →` },
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

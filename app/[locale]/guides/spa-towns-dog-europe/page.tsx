@@ -14,6 +14,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   fr: { label: `Hôtels pet-friendly en ville thermale`, cta: 'Voir les hôtels' },
   es: { label: 'Hoteles pet-friendly en ciudad termal', cta: 'Ver hoteles' },
   pt: { label: 'Hoteis pet-friendly em cidade termal', cta: 'Ver hoteis' },
+  de: { label: 'Hundefreundliche Hotels im Kurort', cta: 'Hotels ansehen' },
 }
 
 export async function generateStaticParams() {
@@ -33,12 +34,14 @@ export async function generateMetadata({
     fr: `Villes thermales pet-friendly en Europe : 8 escapades bien-etre avec hotels acceptant les animaux (2026)`,
     es: `Ciudades termales pet-friendly en Europa: 8 escapadas de bienestar con hoteles para mascotas (2026)`,
     pt: `Cidades termais pet-friendly na Europa: 8 escapadas de bem-estar com hoteis para animais (2026)`,
+    de: `Hundefreundliche Thermalkurorte in Europa: 8 Wellness-Auszeiten mit haustierfreundlichen Hotels (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Eight European thermal spa towns where dogs are welcome in parks, promenades and wellness hotels. Spa (Belgium), Bad Gastein, Karlovy Vary, Aix-les-Bains, Saturnia, Heviz, Vichy and Bad Ischl, with verified pet-friendly hotels at each.`,
     fr: `Huit villes thermales européennes où les chiens sont bienvenus dans les parcs, promenades et hôtels bien-être. Spa (Belgique), Bad Gastein, Karlovy Vary, Aix-les-Bains, Saturnia, Heviz, Vichy et Bad Ischl, avec hôtels pet-friendly vérifiés.`,
     es: `Ocho ciudades termales europeas donde los perros son bienvenidos en parques, paseos y hoteles de bienestar. Spa (Bélgica), Bad Gastein, Karlovy Vary, Aix-les-Bains, Saturnia, Heviz, Vichy y Bad Ischl, con hoteles pet-friendly verificados.`,
     pt: `Oito cidades termais europeias onde os caes sao bem-vindos em parques, passeios e hoteis de bem-estar. Spa (Belgica), Bad Gastein, Karlovy Vary, Aix-les-Bains, Saturnia, Heviz, Vichy e Bad Ischl, com hoteis pet-friendly verificados.`,
+    de: `Acht europäische Thermalkurorte, in denen Hunde in Parks, Promenaden und Wellnesshotels willkommen sind. Spa (Belgien), Bad Gastein, Karlovy Vary, Aix-les-Bains, Saturnia, Hévíz, Vichy und Bad Ischl, jeweils mit geprüften haustierfreundlichen Hotels.`,
   }
   return {
     title: titles[locale] ?? titles.en,
@@ -75,11 +78,13 @@ type Pick = {
   whyFr: string
   whyEs: string
   whyPt: string
+  whyDe?: string
   hotelName: string
   hotelEn: string
   hotelFr: string
   hotelEs: string
   hotelPt: string
+  hotelDe?: string
 }
 
 const PICKS: Pick[] = [
@@ -94,11 +99,13 @@ const PICKS: Pick[] = [
     whyFr: `Spa (Belgique) est la ville qui a donné son nom à la langue anglaise. Les thermes (Les Thermes de Spa, rouverts en 2004 sur la colline) n'acceptent pas les chiens à l'intérieur, mais le plateau des Fagnes qui entoure la ville est l'un des meilleurs espaces de randonnée canine d'Europe : la réserve des Hautes Fagnes offre 700 km de sentiers balisés, chiens en laisse bienvenus. La ville elle-même est calme, aisée et peu touristique.`,
     whyEs: `Spa (Bélgica) es la ciudad que dio nombre al inglés "spa". Los baños termales (Les Thermes de Spa, reabiertos en 2004 en la colina) no admiten perros en el interior, pero la meseta forestal de las Fagnes que rodea la ciudad es una de las mejores zonas de senderismo canino de Europa: la reserva de las Hautes Fagnes tiene 700 km de senderos señalizados, perros con correa bienvenidos. La ciudad es tranquila, acomodada y poco masificada.`,
     whyPt: `Spa (Belgica) e a cidade que deu o nome ao ingles "spa". Os banhos termais (Les Thermes de Spa, reabertos em 2004 na colina) nao aceitam caes no interior, mas o planalto florestal das Fagnes que rodeia a cidade e uma das melhores zonas de caminhada canina da Europa: a reserva das Hautes Fagnes tem 700 km de trilhos sinalizados, caes a trela bem-vindos. A cidade e calma, rica e pouco turistica.`,
+    whyDe: `Spa (Belgien) ist die Stadt, die dem englischen Wort "spa" seinen Namen gab. Die Thermalbäder (Les Thermes de Spa, 2004 am Hang oberhalb der Stadt wiedereröffnet) erlauben keine Hunde im Gebäude, aber das bewaldete Fagnes-Plateau rund um die Stadt zählt zu den besten Wandergebieten Europas für Hunde: Das Naturreservat Hautes Fagnes bietet 700 km markierte Wege, Hunde an der Leine willkommen. Die Stadt selbst ist ruhig, wohlhabend und wenig touristisch.`,
     hotelName: 'Radisson Blu Balmoral Hotel Spa',
     hotelEn: `Radisson Blu Balmoral Hotel Spa - 4-star with thermal wellness access, forest views, and pets welcome at a modest fee. The hotel sits directly on the hillside above the thermal quarter, with wooded walking paths starting from the rear garden.`,
     hotelFr: `Radisson Blu Balmoral Hotel Spa - 4 étoiles avec accès bien-être thermal, vues sur la forêt, animaux acceptés avec un modeste supplément. L'hôtel est directement sur le coteau au-dessus du quartier thermal, avec des sentiers boisés au départ du jardin.`,
     hotelEs: `Radisson Blu Balmoral Hotel Spa - 4 estrellas con acceso a bienestar termal, vistas al bosque, mascotas admitidas con tarifa moderada. El hotel está directamente en la ladera sobre el barrio termal, con senderos arbolados que parten del jardín trasero.`,
     hotelPt: `Radisson Blu Balmoral Hotel Spa - 4 estrelas com acesso ao bem-estar termal, vistas para a floresta, animais aceites com taxa moderada. O hotel fica diretamente na encosta acima do bairro termal, com trilhos arboridos a partir do jardim traseiro.`,
+    hotelDe: `Radisson Blu Balmoral Hotel Spa - 4 Sterne mit Zugang zum Thermal-Wellnessbereich, Blick auf den Wald, Haustiere willkommen gegen eine moderate Gebühr. Das Hotel liegt direkt am Hang oberhalb des Thermalviertels, mit bewaldeten Spazierwegen ab dem hinteren Garten.`,
   },
   {
     slug: 'bad-gastein',
@@ -111,11 +118,13 @@ const PICKS: Pick[] = [
     whyFr: `Bad Gastein est une ville thermale Belle Epoque spectaculaire, construite verticalement sur une falaise à 1000m d'altitude dans le Hohe Tauern. Imaginez un décor Wes Anderson dans les Alpes, avec une cascade qui traverse le centre. L'altitude seule maintient les températures estivales sous 22C. Le sentier de la vallée Gasteinertal est un chemin plat de 4 km au bord de la rivière, parfait pour les chiens. L'été est la basse saison de cette station de ski, les prix chutent de 40% et la foule disparaît. Les chiens sont acceptés sur le téléphérique du Stubnerkogel (6 EUR par chien).`,
     whyEs: `Bad Gastein es un dramático balneario Belle Epoque construido verticalmente sobre un acantilado a 1000m de altitud en el Hohe Tauern. Como un decorado de Wes Anderson en los Alpes, con una cascada que atraviesa el centro. La altitud sola mantiene las temperaturas estivales bajo 22C. El paseo del valle Gasteinertal es un camino llano de 4 km junto al rio, perfecto para perros. El verano es temporada baja de esta estacion de esqui, los precios bajan un 40% y la gente desaparece. Los perros son bienvenidos en el teleferico del Stubnerkogel (6 EUR por perro).`,
     whyPt: `Bad Gastein e uma dramatica cidade termal Belle Epoque construida verticalmente sobre um penedo a 1000m de altitude no Hohe Tauern. Como um cenario de Wes Anderson nos Alpes, com uma cascata a correr pelo centro. A altitude so por si mantem as temperaturas de verao abaixo dos 22C. O passeio do vale Gasteinertal e um caminho plano de 4 km junto ao rio, perfeito para caes. O verao e epoca baixa desta estacao de esqui, os precos caem 40% e a multidao desaparece. Os caes sao bem-vindos no teleférico do Stubnerkogel (6 EUR por cao).`,
+    whyDe: `Bad Gastein ist ein dramatischer Belle-Epoque-Kurort, senkrecht auf einen Felsen in 1000 m Höhe in den Hohen Tauern gebaut. Man stelle sich eine Wes-Anderson-Kulisse in den Alpen vor, mit einem Wasserfall mitten durchs Zentrum. Allein die Höhenlage hält die Sommertemperaturen unter 22C. Der Gasteinertal-Talweg ist ein flacher, 4 km langer Flussuferweg, hundefreundlich. Der Sommer ist Nebensaison für diesen Skiort, die Preise sinken um 40% und die Menschenmassen verschwinden. Hunde sind auf der Stubnerkogelbahn willkommen (6 EUR pro Hund).`,
     hotelName: 'Hotel Weismayr',
     hotelEn: `Hotel Weismayr - historic 4-star Art Deco hotel, dogs accepted at a moderate fee, panoramic valley terrace. The building dates from the grand Belle Epoque spa era and retains its original ornamental facade above the central waterfall.`,
     hotelFr: `Hotel Weismayr - 4 étoiles Art Déco historique, chiens acceptés avec supplément modéré, terrasse panoramique sur la vallée. Le bâtiment date de la grande ère thermale Belle Epoque et conserve sa façade ornementale d'origine au-dessus de la cascade centrale.`,
     hotelEs: `Hotel Weismayr - 4 estrellas Art Deco historico, perros admitidos con suplemento moderado, terraza panoramica sobre el valle. El edificio data de la gran epoca termal Belle Epoque y conserva su fachada ornamental original sobre la cascada central.`,
     hotelPt: `Hotel Weismayr - 4 estrelas Art Deco historico, caes aceites com taxa moderada, terraço panoramico sobre o vale. O edificio data da grande epoca termal Belle Epoque e conserva a sua fachada ornamental original acima da cascata central.`,
+    hotelDe: `Hotel Weismayr - historisches 4-Sterne-Art-déco-Hotel, Hunde gegen eine moderate Gebühr willkommen, Panoramaterrasse mit Talblick. Das Gebäude stammt aus der großen Belle-Epoque-Kurzeit und bewahrt seine originale Schmuckfassade oberhalb des zentralen Wasserfalls.`,
   },
   {
     slug: 'karlovy-vary',
@@ -128,11 +137,13 @@ const PICKS: Pick[] = [
     whyFr: `Karlovy Vary (Carlsbad) possède 12 sources minérales et un quartier thermal colonnadé de classe UNESCO qui rivalise avec Vienne pour l'architecture Belle Epoque. Les promenades sous les colonnades le long de la Tepla sont entièrement accessibles aux chiens en laisse, les sentiers de la forêt de Slavkov commencent directement en ville, et le festival de cinéma estival (début juillet) attire une foule sophistiquée plutôt que des routards. La culture tchèque de l'eau minérale signifie que les terrasses de restaurants sont habituées aux longues haltes tranquilles, et les chiens s'y intègrent parfaitement.`,
     whyEs: `Karlovy Vary (Carlsbad) tiene 12 fuentes minerales y un barrio termal con columnatas de clase UNESCO que rivaliza con Viena en arquitectura Belle Epoque. Los paseos bajo las columnatas junto al rio Tepla son totalmente accesibles para perros con correa, los senderos del bosque de Slavkov comienzan directamente desde la ciudad, y el festival de cine estival (principios de julio) atrae a un publico sofisticado antes que mochileros. La cultura checa del agua mineral significa que las terrazas de restaurantes estan acostumbradas a largas estancias tranquilas, y los perros encajan perfectamente.`,
     whyPt: `Karlovy Vary (Carlsbad) tem 12 fontes minerais e um bairro termal com colunas de classe UNESCO que rivaliza com Viena em arquitectura Belle Epoque. Os passeios sob as colunas ao longo do rio Tepla sao totalmente acessiveis a caes a trela, os trilhos da floresta de Slavkov comecam diretamente da cidade, e o festival de cinema estival (inicio de julho) atrai uma multidao sofisticada em vez de mochileiros. A cultura checa de agua mineral significa que os terracos de restaurantes estao habituados a longas estadias tranquilas, e os caes integram-se bem.`,
+    whyDe: `Karlovy Vary (Karlsbad) hat 12 Mineralquellen und ein Thermalviertel mit Kolonnaden von UNESCO-Format, das es an Belle-Epoque-Architektur mit Wien aufnehmen kann. Die Kolonnadenwege entlang der Tepla sind für Hunde an der Leine vollständig zugänglich, die Wanderwege des Slavkov-Waldes beginnen direkt in der Stadt, und das Sommerfilmfestival (Anfang Juli) zieht ein anspruchsvolles Publikum an statt Rucksacktouristen. Die tschechische Mineralwasserkultur bedeutet, dass Restaurantterrassen an lange, ruhige Aufenthalte gewöhnt sind, und Hunde fügen sich hier gut ein.`,
     hotelName: 'Hotel Savoy Westend',
     hotelEn: `Hotel Savoy Westend - 5-star in the spa quarter, pets welcome at a moderate fee, thermal zone access. The hotel sits on the colonnade promenade and guests with dogs can use the garden terrace while their travel companions visit the springs.`,
     hotelFr: `Hotel Savoy Westend - 5 étoiles dans le quartier thermal, animaux acceptés avec supplément modéré, accès à la zone thermale. L'hôtel est sur la promenade des colonnades et les hôtes avec chiens peuvent utiliser la terrasse jardin pendant que leurs accompagnateurs visitent les sources.`,
     hotelEs: `Hotel Savoy Westend - 5 estrellas en el barrio termal, mascotas admitidas con suplemento moderado, acceso a la zona termal. El hotel esta en el paseo de las columnatas y los huespedes con perros pueden usar la terraza jardin mientras sus acompanantes visitan los manantiales.`,
     hotelPt: `Hotel Savoy Westend - 5 estrelas no bairro termal, animais aceites com taxa moderada, acesso a zona termal. O hotel fica no passeio das colunas e os hospedes com caes podem usar o terraço jardim enquanto os seus acompanhantes visitam as fontes.`,
+    hotelDe: `Hotel Savoy Westend - 5 Sterne im Thermalviertel, Haustiere willkommen gegen eine moderate Gebühr, Zugang zur Thermalzone. Das Hotel liegt an der Kolonnadenpromenade, und Gäste mit Hund können die Gartenterrasse nutzen, während ihre Reisebegleiter die Quellen besuchen.`,
   },
   {
     slug: 'aix-les-bains',
@@ -145,11 +156,13 @@ const PICKS: Pick[] = [
     whyFr: `Aix-les-Bains est là où le tourisme thermal français est né : les Romains y ont construit des bains au 1er siècle après J.-C., et les Thermes Nationaux fonctionnent toujours. La ville est au bord du lac du Bourget, le plus grand lac naturel de France, où la Plage du Tresserve dispose d'une zone canine dédiée (confirmée été 2026). La promenade lacustre de la ville à Viviers-du-Lac est plate sur 3 km, accessible aux chiens. Le plateau du Revard à 1500m est à 30 min en voiture et abaisse la température de 8C lors des jours les plus chauds.`,
     whyEs: `Aix-les-Bains es donde nacio el turismo termal frances: los romanos construyeron aqui banos en el siglo I d.C., y los Thermes Nationaux siguen operando hoy. La ciudad esta a orillas del lago du Bourget, el mayor lago natural de Francia, donde la Plage du Tresserve tiene una zona canina designada (confirmada verano 2026). El paseo lacustre de la ciudad a Viviers-du-Lac es llano en 3 km, accesible para perros. La meseta del Revard a 1500m esta a 30 minutos en coche y baja la temperatura 8C en los dias mas calurosos.`,
     whyPt: `Aix-les-Bains e onde nasceu o turismo termal frances: os romanos construiram aqui banhos no seculo I d.C., e os Thermes Nationaux continuam a funcionar hoje. A cidade fica junto ao lago du Bourget, o maior lago natural de Franca, onde a Plage du Tresserve tem uma zona canina designada (confirmada verao 2026). O passeio a beira do lago da cidade ate Viviers-du-Lac e plano em 3 km, acessivel a caes. O planalto do Revard a 1500m fica a 30 minutos de carro e baixa a temperatura 8C nos dias mais quentes.`,
+    whyDe: `Aix-les-Bains ist der Geburtsort des französischen Thermaltourismus: Die Römer bauten hier im 1. Jahrhundert n. Chr. Bäder, und die Thermes Nationaux sind bis heute in Betrieb. Die Stadt liegt am Lac du Bourget, Frankreichs größtem Natursee, wo die Plage du Tresserve über eine ausgewiesene Hundezone verfügt (bestätigt für Sommer 2026). Die Seepromenade von der Stadt bis Viviers-du-Lac ist flach über 3 km und hundefreundlich. Das Revard-Plateau auf 1500 m ist 30 Minuten mit dem Auto entfernt und senkt an den heißesten Tagen die Temperatur um 8C.`,
     hotelName: 'Hotel Ariana',
     hotelEn: `Hotel Ariana - 4-star spa hotel with lake views, dogs welcomed at a moderate fee. The hotel terrace faces Lake Bourget directly, and the flat promenade walk starts 100 metres from the front door.`,
     hotelFr: `Hotel Ariana - 4 étoiles spa avec vue sur le lac, chiens bienvenus avec supplément modéré. La terrasse de l'hôtel est face au lac du Bourget, et la promenade plate commence à 100 mètres de l'entrée.`,
     hotelEs: `Hotel Ariana - 4 estrellas spa con vistas al lago, perros bienvenidos con suplemento moderado. La terraza del hotel mira directamente al lago du Bourget, y el paseo llano comienza a 100 metros de la entrada.`,
     hotelPt: `Hotel Ariana - 4 estrelas spa com vistas para o lago, caes bem-vindos com taxa moderada. O terraço do hotel fica de frente para o lago du Bourget, e o passeio plano comeca a 100 metros da entrada.`,
+    hotelDe: `Hotel Ariana - 4-Sterne-Spa-Hotel mit Seeblick, Hunde willkommen gegen eine moderate Gebühr. Die Hotelterrasse liegt direkt am Lac du Bourget, und der flache Promenadenweg beginnt 100 Meter vor der Eingangstür.`,
   },
   {
     slug: 'saturnia',
@@ -162,11 +175,13 @@ const PICKS: Pick[] = [
     whyFr: `Saturnia (Toscane) est célèbre pour ses cascate del mulino : une série de piscines thermales naturelles en plein air à 37,5C qui débordent des terrasses calcaires dans la campagne de Maremme. Les chiens sont tolérés aux cascate (pas d'interdiction officielle, bien que le complexe thermal Terme di Saturnia lui-même les exclue). Les collines de la Maremme alentour offrent d'infinies routes de campagne et pistes de ferme sans laisse obligatoire. Août peut être chaud (30C), prévoyez la visite à l'aube ou au coucher pour les meilleures conditions pour votre chien.`,
     whyEs: `Saturnia (Toscana) es famosa por sus cascate del mulino: una serie de piscinas termales naturales al aire libre a 37,5C que desbordan las terrazas de caliza hacia la campiña de la Maremma. Los perros son tolerados en las cascate (sin prohibicion oficial, aunque el complejo termal Terme di Saturnia en si los excluye). Las colinas de la Maremma ofrecen infinitas carreteras rurales y caminos de granja sin restriccion de correa. Agosto puede ser caluroso (30C), planifica la visita al amanecer o al atardecer para las mejores condiciones para tu perro.`,
     whyPt: `Saturnia (Toscana) e famosa pelas suas cascate del mulino: uma serie de piscinas termais naturais ao ar livre a 37,5C que transbordam dos terracos de calcario para a campanha da Maremma. Os caes sao tolerados nas cascate (sem proibicao oficial, embora o complexo termal Terme di Saturnia em si os exclua). As colinas da Maremma em redor oferecem infinitas estradas rurais e caminhos de quinta sem restricao de trela. Agosto pode ser quente (30C), planeie a visita ao amanhecer ou ao por-do-sol para as melhores condicoes para o seu cao.`,
+    whyDe: `Saturnia (Toskana) ist berühmt für seine Cascate del Mulino: eine Reihe kostenloser Thermalbecken im Freien mit 37,5C, die aus Kalksteinterrassen in die Landschaft der Maremma überlaufen. Hunde werden an den Cascate geduldet (kein offizielles Verbot, wobei der organisierte Thermalkomplex Terme di Saturnia selbst sie ausschließt). Die umliegenden Hügel der Maremma bieten endlose Landstraßen und Feldwege ohne Leinenpflicht. Der August kann mit 30C heiß sein, planen Sie den Besuch daher am besten bei Sonnenaufgang oder -untergang für die besten Bedingungen für Ihren Hund.`,
     hotelName: 'Il Colletto Agriturismo',
     hotelEn: `Il Colletto Agriturismo - farm stay near Saturnia, dogs freely welcome with no extra fee, private pool. The farmhouse sits on a hilltop with panoramic views over the Maremma, 10 minutes by car from the cascate. Chickens and garden are separated from dog areas.`,
     hotelFr: `Il Colletto Agriturismo - ferme-auberge près de Saturnia, chiens totalement bienvenus sans supplément, piscine privée. Le corps de ferme est sur un coteau avec vue panoramique sur la Maremme, à 10 min en voiture des cascate. Poulaillers et jardin séparés des zones canines.`,
     hotelEs: `Il Colletto Agriturismo - agroturismo cerca de Saturnia, perros totalmente bienvenidos sin cargo extra, piscina privada. La maseria esta en una colina con vistas panoramicas a la Maremma, a 10 minutos en coche de las cascate. Gallinero y jardin separados de las zonas caninas.`,
     hotelPt: `Il Colletto Agriturismo - turismo rural perto de Saturnia, caes totalmente bem-vindos sem taxa extra, piscina privada. A herdade fica num outeiro com vistas panoramicas sobre a Maremma, a 10 minutos de carro das cascate. Galinheiro e jardim separados das zonas caninas.`,
+    hotelDe: `Il Colletto Agriturismo - Bauernhofunterkunft bei Saturnia, Hunde uneingeschränkt willkommen ohne Aufpreis, privater Pool. Der Hof liegt auf einem Hügel mit Panoramablick über die Maremma, 10 Minuten mit dem Auto von den Cascate entfernt. Hühner und Garten sind von den Hundebereichen getrennt.`,
   },
   {
     slug: 'heviz',
@@ -179,11 +194,13 @@ const PICKS: Pick[] = [
     whyFr: `Heviz abrite le plus grand lac thermal biologiquement actif du monde : 4,4 hectares d'eau naturellement à 33-36C alimentée par une source volcanique. Les chiens ne sont pas autorisés dans le lac lui-même, mais le parc Gyogyfurdo qui l'entoure est un grand espace vert plat et ombragé, accessible aux chiens en laisse. La ville est petite et calme, à 5 km de l'extrémité ouest du lac Balaton. Heviz est authentiquement axée sur le bien-être plutôt que sur le tourisme de masse, et la plupart des hôtels de la ville sont orientés vers des séjours calmes et prolongés.`,
     whyEs: `Heviz alberga el mayor lago termal biologicamente activo del mundo: 4,4 hectareas de agua naturalmente a 33-36C alimentada por un manantial volcanico. Los perros no estan permitidos en el lago en si, pero el parque Gyogyfurdo que lo rodea es un gran espacio verde llano y sombreado, accesible a perros con correa. La ciudad es pequena y tranquila, a 5 km del extremo oeste del lago Balaton. Heviz esta genuinamente orientada al bienestar mas que al turismo masivo, y la mayoria de hoteles de la ciudad se orientan a estancias tranquilas y prolongadas.`,
     whyPt: `Heviz alberga o maior lago termal biologicamente ativo do mundo: 4,4 hectares de agua naturalmente a 33-36C alimentada por uma fonte vulcanica. Os caes nao sao permitidos no lago em si, mas o parque Gyogyfurdo que o rodeia e um grande espaco verde plano e sombreado, acessivel a caes a trela. A cidade e pequena e calma, a 5 km da extremidade oeste do lago Balaton. Heviz e genuinamente focada no bem-estar em vez de no turismo massivo, e a maioria dos hoteis da cidade orienta-se para estadias tranquilas e prolongadas.`,
+    whyDe: `Hévíz beherbergt den größten biologisch aktiven Thermalsee der Welt: 4,4 Hektar natürlich 33-36C warmes Wasser, gespeist von einer vulkanischen Quelle. Hunde sind im See selbst nicht erlaubt, aber der umliegende Gyógy-Park ist eine große, flache, schattige Grünfläche, die für Hunde an der Leine offen ist. Die Stadt ist klein und ruhig, 5 km von der Westspitze des Balaton entfernt. Hévíz ist wirklich auf Wellness ausgerichtet statt auf Massentourismus, und die meisten Hotels in der Stadt sind auf ruhige, längere Aufenthalte ausgelegt.`,
     hotelName: 'Danubius Hotel Heviz',
     hotelEn: `Danubius Hotel Heviz - 4-star spa hotel 200m from the thermal lake, pets welcome at a modest fee. The hotel has direct access to a spa complex and a garden where leashed dogs can rest between walks around the thermal park.`,
     hotelFr: `Danubius Hotel Heviz - 4 étoiles spa à 200m du lac thermal, animaux bienvenus avec modeste supplément. L'hôtel a un accès direct à un complexe spa et un jardin où les chiens en laisse peuvent se reposer entre les promenades autour du parc thermal.`,
     hotelEs: `Danubius Hotel Heviz - 4 estrellas spa a 200m del lago termal, mascotas bienvenidas con modesta tarifa. El hotel tiene acceso directo a un complejo spa y un jardin donde los perros con correa pueden descansar entre paseos por el parque termal.`,
     hotelPt: `Danubius Hotel Heviz - 4 estrelas spa a 200m do lago termal, animais bem-vindos com taxa modesta. O hotel tem acesso direto a um complexo de spa e jardim onde os caes a trela podem descansar entre passeios pelo parque termal.`,
+    hotelDe: `Danubius Hotel Heviz - 4-Sterne-Spa-Hotel 200 m vom Thermalsee entfernt, Haustiere willkommen gegen eine geringe Gebühr. Das Hotel hat direkten Zugang zu einem Spa-Komplex und einem Garten, in dem Hunde an der Leine sich zwischen Spaziergängen rund um den Thermalpark ausruhen können.`,
   },
   {
     slug: 'vichy',
@@ -196,11 +213,13 @@ const PICKS: Pick[] = [
     whyFr: `Vichy était la capitale estivale de Napoléon III et l'ensemble du quartier thermal est inscrit au réseau UNESCO des Grandes Villes d'Eaux d'Europe (2021) : pavillons Art Nouveau, le Parc des Sources et ses 6 fontaines de sources, le Grand Casino. Les chiens sont bienvenus dans le Parc des Sources (8 ha, plat, central), les berges de l'Allier offrent 6 km de promenades canines, et la culture thermale de Vichy signifie que les hôtels ont toujours accueilli des chiens aux côtés de leurs clients de cure.`,
     whyEs: `Vichy era la capital estival de Napoleon III y todo el barrio termal esta incluido en la red UNESCO de las Grandes Ciudades de Aguas de Europa (2021): pabellones Art Nouveau, el Parc des Sources y sus 6 fuentes de manantiales, el Grand Casino. Los perros son bienvenidos en el Parc des Sources (8 ha, llano, central), las orillas del Allier ofrecen 6 km de paseos caninos, y la cultura termal de Vichy significa que los hoteles siempre han acogido perros junto a sus clientes de cura.`,
     whyPt: `Vichy era a capital de verao de Napoleao III e todo o bairro termal esta inscrito na rede UNESCO das Grandes Cidades de Aguas da Europa (2021): pavilhoes Art Nouveau, o Parc des Sources e as suas 6 fontes, o Grand Casino. Os caes sao bem-vindos no Parc des Sources (8 ha, plano, central), as margens do Allier oferecem 6 km de passeios caninos, e a cultura termal de Vichy significa que os hoteis sempre receberam caes a par dos seus clientes de cura.`,
+    whyDe: `Vichy war die Sommerhauptstadt Napoleons III., und das gesamte Thermalviertel ist als Teil des UNESCO-Netzwerks Great Spas of Europe (2021) gelistet: Jugendstilpavillons, der Parc des Sources mit seinen 6 Quellbrunnen, das Grand Casino. Hunde sind im Parc des Sources willkommen (8 ha, flach, zentral), die Ufer der Allier bieten 6 km hundefreundliche Spazierwege, und die Kurkultur von Vichy bedeutet, dass Hotels seit jeher neben ihren Kurgästen auch Hundegäste beherbergen.`,
     hotelName: 'Vichy Spa Hotel Les Celestins',
     hotelEn: `Vichy Spa Hotel Les Celestins - flagship 5-star spa, dogs welcomed at a moderate fee, indoor pool, directly on the Allier riverbank. This is the benchmark wellness hotel of Vichy, with gardens that run down to the river and a spa programme designed for multi-day stays.`,
     hotelFr: `Vichy Spa Hotel Les Celestins - spa 5 étoiles emblématique, chiens acceptés avec supplément modéré, piscine intérieure, directement sur les berges de l'Allier. C'est l'hôtel bien-être de référence de Vichy, avec des jardins qui descendent jusqu'à la rivière et un programme spa conçu pour des séjours de plusieurs jours.`,
     hotelEs: `Vichy Spa Hotel Les Celestins - spa 5 estrellas emblematico, perros admitidos con suplemento moderado, piscina interior, directamente a orillas del Allier. Este es el hotel de bienestar de referencia de Vichy, con jardines que llegan hasta el rio y un programa spa disenado para estancias de varios dias.`,
     hotelPt: `Vichy Spa Hotel Les Celestins - spa 5 estrelas emblematico, caes aceites com taxa moderada, piscina interior, diretamente nas margens do Allier. Este e o hotel de bem-estar de referencia de Vichy, com jardins que chegam ate ao rio e um programa de spa concebido para estadias de varios dias.`,
+    hotelDe: `Vichy Spa Hotel Les Celestins - führendes 5-Sterne-Spa, Hunde willkommen gegen eine moderate Gebühr, Innenpool, direkt am Ufer der Allier. Dies ist das Referenz-Wellnesshotel von Vichy, mit Gärten, die bis zum Fluss reichen, und einem Spa-Programm, das für mehrtägige Aufenthalte konzipiert ist.`,
   },
   {
     slug: 'bad-ischl',
@@ -213,11 +232,13 @@ const PICKS: Pick[] = [
     whyFr: `Bad Ischl est l'ancienne résidence estivale de l'Empereur François-Joseph Ier et de l'Impératrice Sisi, à 1h de Salzbourg au coeur du Salzkammergut. Elle a été nommée Capitale Européenne de la Culture 2024. Le parc de la Kaiservilla autorise les chiens sur les sentiers périmétriques (panneaux officiels le confirment), l'esplanade de la rivière Traun est la promenade matinale plate idéale, et le jardin du musée Leharvilla tolère un chien en laisse tranquille. Les températures estivales restent sous 24C grâce à l'altitude du district lacustre.`,
     whyEs: `Bad Ischl es la antigua residencia estival del Emperador Francisco Jose I y la Emperatriz Sisi, a 1h de Salzburgo en el corazon del Salzkammergut. Fue nombrada Capital Europea de la Cultura 2024. El parque de la Kaiservilla permite perros en los caminos perimetrales (senales oficiales lo confirman), el paseo del rio Traun es el ideal paseo matinal llano, y el jardin del museo Leharvilla tolera un perro con correa tranquilo. Las temperaturas estivales se mantienen bajo 24C gracias a la altitud del distrito lacustre.`,
     whyPt: `Bad Ischl e a antiga residencia de verao do Imperador Francisco Jose I e da Imperatriz Sisi, a 1h de Salzburgo no coracao do Salzkammergut. Foi nomeada Capital Europeia da Cultura 2024. O parque da Kaiservilla permite caes nos caminhos perimetrais (sinais oficiais confirmam), o passeio do rio Traun e o ideal passeio matinal plano, e o jardim do museu Leharvilla tolera um cao a trela calmo. As temperaturas de verao manteem-se abaixo dos 24C gracas a altitude da regiao dos lagos.`,
+    whyDe: `Bad Ischl ist die ehemalige Sommerresidenz von Kaiser Franz Joseph I. und Kaiserin Sisi, eine Stunde von Salzburg entfernt im Herzen des Salzkammerguts. Die Stadt wurde 2024 zur Europäischen Kulturhauptstadt ernannt. Der Park der Kaiservilla erlaubt Hunde auf den Randwegen (offizielle Schilder bestätigen dies), die Esplanade am Fluss Traun ist der ideale flache Morgenspaziergang, und der Museumsgarten der Lehárvilla toleriert einen ruhigen Hund an der Leine. Die Sommertemperaturen bleiben dank der Höhenlage der Seenregion unter 24C.`,
     hotelName: 'Hotel Austria Bad Ischl',
     hotelEn: `Hotel Austria Bad Ischl - traditional 4-star on the Esplanade, dogs welcome at a modest fee. The hotel overlooks the Traun river directly, and the morning walk along the esplanade to the Kaiservilla starts from the front steps.`,
     hotelFr: `Hotel Austria Bad Ischl - traditionnel 4 étoiles sur l'Esplanade, chiens bienvenus avec modeste supplément. L'hôtel donne directement sur la rivière Traun, et la promenade matinale sur l'esplanade jusqu'à la Kaiservilla part des marches de l'entrée.`,
     hotelEs: `Hotel Austria Bad Ischl - tradicional 4 estrellas en el Esplanade, perros bienvenidos con modesta tarifa. El hotel da directamente al rio Traun, y el paseo matinal por el esplanade hasta la Kaiservilla parte de los escalones de la entrada.`,
     hotelPt: `Hotel Austria Bad Ischl - tradicional 4 estrelas no Esplanade, caes bem-vindos com taxa modesta. O hotel da diretamente para o rio Traun, e o passeio matinal pelo esplanade ate a Kaiservilla parte dos degraus da entrada.`,
+    hotelDe: `Hotel Austria Bad Ischl - traditionelles 4-Sterne-Hotel an der Esplanade, Hunde willkommen gegen eine geringe Gebühr. Das Hotel blickt direkt auf den Fluss Traun, und der Morgenspaziergang entlang der Esplanade zur Kaiservilla beginnt direkt vor der Eingangstreppe.`,
   },
 ]
 
@@ -422,6 +443,56 @@ const COPY = {
     ],
     relatedHeading: 'Ver também',
   },
+  de: {
+    eyebrow: 'WELLNESS-REISEN MIT HUND 2026 · THERMALEUROPA',
+    title: `Hundefreundliche Thermalkurorte in Europa: 8 Wellness-Auszeiten mit haustierfreundlichen Hotels (2026)`,
+    intro: `Der Wellness- und Thermaltourismus boomt in ganz Europa, und Kurorte erweisen sich als ideal für Hundehalter: keine Strandverbote, weitläufige Parks und Promenaden, die für langsames Gehen gemacht sind, ruhigere Menschenmengen als an Küstenorten, und kühlere Mikroklimata dank Höhenlage oder Binnenlage. Vor allem heißen Wellnesshotels in Kurorten seit Generationen Hunde neben ihren Kurgästen willkommen. Diese 8 Städte verbinden echtes Thermalerbe mit der ruhigen, gut begehbaren Umgebung, die zu jedem Hund passt.`,
+    pickHeading: '8 Kurorte, in denen Hunde willkommen sind',
+    whyHere: 'Warum hier',
+    hotelLabel: 'Wo übernachten',
+    seeDestCta: 'Vollständiger Stadtguide →',
+    hotelCta: 'Verfügbarkeit ansehen →',
+    summerLabel: 'Sommer Ø Höchstwert',
+    practicalHeading: 'Praktische Infos für Reisen mit Hund in Kurorten',
+    practical: [
+      {
+        h: 'Dürfen Hunde in die Thermalbecken?',
+        p: `Fast nie. Die Becken selbst (einschließlich des berühmten Hévíz-Sees und des Terme-di-Saturnia-Komplexes) unterliegen Hygienevorschriften, die Tiere ausschließen. Für Hundehalter zählt jedoch etwas anderes: ob die Parks, Außenterrassen, Kolonnadenpromenaden und Hotelgärten rund um die Thermalanlagen für Hunde zugänglich sind. In jeder Stadt dieser Liste ist das der Fall. Das Erlebnis eines Kurorts liegt in der Atmosphäre, der Architektur und dem ruhigen Tempo, was Hunde voll genießen können, ohne je ins Wasser zu müssen.`,
+      },
+      {
+        h: 'Kurort-Rhythmus und hitzeempfindliche Hunde',
+        p: `Kurorte funktionieren in einem langsameren Rhythmus als Strandorte: lange Mittagessen, ruhige Nachmittagsstunden, abendliche Spaziergänge. Dieser Rhythmus passt weit besser zu hitzeempfindlichen Hunden (brachyzephale Rassen, Senioren, Hunde mit dichtem Fell) als eine belebte Strandstadt. Die meisten Kurhotels verfügen über Gärten, in denen Hunde während der heißesten Mittagsstunden ruhen können. Die Höhenlage von Bergkurorten (Bad Gastein auf 1000 m, Bad Ischl im Salzkammergut) senkt die Temperaturen um 4-8C gegenüber nahegelegenen Städten im Flachland.`,
+      },
+      {
+        h: 'Das UNESCO-Netzwerk Great Spas of Europe',
+        p: `2021 erhielten elf europäische Kurorte den UNESCO-Welterbestatus als Great Spas of Europe: Baden-Baden, Spa (Belgien), Bath, Vichy, Montecatini Terme, Franzensbad, Marienbad, Karlsbad (Karlovy Vary), Bad Ems, Bad Kissingen und Bad Wildbad. Alle teilen dieselben Merkmale: Kolonnadenpromenaden, Thermalarchitektur, Parks für Kurwandelgänge und eine Wellnesskultur, die Jahrhunderte zurückreicht. Für Reisen mit Hund ist dieses Netzwerk ein verlässlicher Wegweiser zu ruhigen, parkreichen und architektonisch bemerkenswerten Städten.`,
+      },
+      {
+        h: 'Thermalbesuche mit Hundewandern kombinieren',
+        p: `Die besten Kurorte dieser Liste dienen auch als Wanderbasis. Bad Gastein hat den Nationalpark Hohe Tauern direkt vor der Tür (und den Gasteinertal-Talweg ohne Höhenmeter). Spa (Belgien) ist von der Reservat Hautes Fagnes mit 700 km markierten Wegen umgeben. Bad Ischl liegt im Salzkammergut mit 25 Seen und mehreren Bergwegen, die in 30 Minuten erreichbar sind. Karlovy Vary grenzt an den Naturpark Slavkov-Wald. In jedem Fall ist die Kurstadt die komfortable Basis, und die umgebende Landschaft ist die Hundeaktivität.`,
+      },
+    ],
+    faqHeading: 'Häufig gestellte Fragen',
+    faqs: [
+      {
+        q: 'Warum sind Kurorte gut für Hunde?',
+        a: `Kurorte sind auf langsame, kontemplative Bewegung ausgelegt: lange Promenaden, Kolonnadenwege, Parkrundgänge. Diese Umgebungen passen genau zu einem Hund im Wellnessurlaub. Es gibt keine Strandverbote, keinen Jetski-Lärm, keine sommerlichen Strandmengen. Die Wellnesshotelkultur bedeutet, dass das Personal daran gewöhnt ist, Gäste mit besonderen Bedürfnissen zu betreuen (Ernährung, Mobilität, Zeitplan), sodass ein Gast mit Hund keine Neuheit ist. Viele Kurhotels haben seit Jahrzehnten hauseigene Hunde. Das kühlere Mikroklima (Höhenlage, Binnenlage, Baumbestand) reduziert Hitzestress. Und der langsamere Touristenrhythmus bedeutet Restaurants mit Terrassen, Cafés mit Außensitzplätzen und Parks mit Bänken.`,
+      },
+      {
+        q: 'Darf mein Hund mit zu den Thermalbädern?',
+        a: `Nicht ins Wasser, in praktisch allen Fällen. Die Becken selbst sind hygienisch kontrollierte medizinische Umgebungen. Die umliegenden Parks, die Spagärten der Hotels und die Außenterrassen sind jedoch in der Regel für Hunde zugänglich. In Saturnia toleriert der natürliche, frei zugängliche Überlauf der Cascate del Mulino Hunde am Wasserrand. In Hévíz ist der Park rund um den Thermalsee für Hunde an der Leine geöffnet. In Spa (Belgien) bietet das Hautes-Fagnes-Plateau direkt über den Thermen 700 km hundefreundliche Wege. Das Muster ist immer gleich: kein Zugang zum Wasser, voller Zugang zu allem drumherum.`,
+      },
+      {
+        q: 'Welcher dieser Orte ist im Sommer am heißesten?',
+        a: `Saturnia (Toskana) hat mit 30C den höchsten Sommerdurchschnitt und wird am besten bei Sonnenaufgang oder nach 19 Uhr im Juli-August besucht. Vichy und Hévíz erreichen beide im Hochsommer 27-28C. Die kühlsten Optionen sind Bad Gastein (Ø 19C, durch Höhenlage gekühlt) und Spa Belgien (21C, bewaldet). Für hitzeempfindliche Hunde oder brachyzephale Rassen sind Bad Gastein, Spa (Belgien) oder Bad Ischl (23C) die sichersten Wahlen. Karlovy Vary mit 23C und Aix-les-Bains mit 26C liegen im mittleren Bereich.`,
+      },
+      {
+        q: 'Lohnt sich das Netzwerk Great Spas of Europe für Reisen mit Hund?',
+        a: `Ja. Alle 11 Mitgliedsstädte des UNESCO-Netzwerks Great Spas of Europe teilen dasselbe Profil: ruhig, architektonisch reich, parkreich und deutlich weniger touristisch als benachbarte Strand- oder Bergorte. Für Reisen mit Hund übersetzen sich diese Eigenschaften direkt in zugängliche Promenaden, hundetolerante Restaurantterrassen, Wellnesshotels mit Gärten und eine lokale Bevölkerung, die an mehrtägige Kurgäste gewöhnt ist (die eher spazieren als hetzen). Das Netzwerk umfasst derzeit Deutschland, Belgien, das Vereinigte Königreich, Frankreich, Italien, Tschechien und Österreich, sodass von den meisten Orten in Kontinentaleuropa aus eine Mitgliedsstadt in vertretbarer Fahrzeit erreichbar ist.`,
+      },
+    ],
+    relatedHeading: 'Siehe auch',
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -470,12 +541,14 @@ export default async function Page({
     if (locale === 'fr') return p.whyFr
     if (locale === 'es') return p.whyEs
     if (locale === 'pt') return p.whyPt
+    if (locale === 'de') return p.whyDe ?? p.whyEn
     return p.whyEn
   }
   const pickHotel = (p: Pick) => {
     if (locale === 'fr') return p.hotelFr
     if (locale === 'es') return p.hotelEs
     if (locale === 'pt') return p.hotelPt
+    if (locale === 'de') return p.hotelDe ?? p.hotelEn
     return p.hotelEn
   }
 

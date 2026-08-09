@@ -16,6 +16,7 @@ const COST_INDEX_PICK_LABELS: Record<string, { cheap: string; exp: string }> = {
   fr: { cheap: `Réservez un bon plan dans les villes les moins chères`, exp: `Réservez un beau séjour même dans les villes les plus chères` },
   es: { cheap: 'Reserva una opción económica en las ciudades más baratas', exp: 'Reserva un buen alojamiento incluso en las ciudades más caras' },
   pt: { cheap: 'Reserve uma opção em conta nas cidades mais baratas', exp: 'Reserve uma boa estadia mesmo nas cidades mais caras' },
+  de: { cheap: 'Buchen Sie ein günstiges Angebot in den preiswertesten Städten', exp: 'Buchen Sie einen tollen Aufenthalt selbst in den teuersten Städten' },
 }
 
 const STICKY_LABELS_COST: Record<string, { label: string; cta: string }> = {
@@ -23,6 +24,7 @@ const STICKY_LABELS_COST: Record<string, { label: string; cta: string }> = {
   fr: { label: `Comparez les prix des hôtels pet-friendly en Europe`, cta: 'Voir les hôtels' },
   es: { label: 'Compara precios de hoteles pet-friendly en Europa', cta: 'Ver hoteles' },
   pt: { label: 'Compare preços de hotéis pet-friendly em Europa', cta: 'Ver hotéis' },
+  de: { label: 'Vergleichen Sie haustierfreundliche Hotelpreise in ganz Europa', cta: 'Hotels ansehen' },
 }
 
 const SLUG = 'pet-travel-cost-index-europe-2026'
@@ -117,12 +119,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     fr: `Pet Travel Cost Index Europe 2026 : nous avons audité ${GLOBAL.hotels} hôtels et ${GLOBAL.countries} pays`,
     es: `Pet Travel Cost Index Europa 2026: auditamos ${GLOBAL.hotels} hoteles en ${GLOBAL.countries} países`,
     pt: `Pet Travel Cost Index Europa 2026: auditamos ${GLOBAL.hotels} hotéis en ${GLOBAL.countries} países`,
+    de: `Pet Travel Cost Index Europa 2026: Wir haben ${GLOBAL.hotels} Hotels in ${GLOBAL.countries} Ländern geprüft`,
   }
   const descs: Record<string, string> = {
     en: `The 2026 cost benchmark for travelling Europe with a dog or cat. Average pet fees by country and city, % of pet-free hotels, and the cheapest vs most expensive cities for pet-friendly stays. Methodology + open dataset.`,
     fr: `Le benchmark coûts 2026 pour voyager en Europe avec un chien ou un chat. Suppléments moyens par pays et ville, % d'hôtels sans frais et villes les moins chères vs les plus chères pour le pet-friendly. Méthodologie + données ouvertes.`,
     es: `El benchmark de costes 2026 para viajar por Europa con perro o gato. Tarifas medias por país y ciudad, % de hoteles sin cargo, y las ciudades más baratas vs más caras para estancias pet-friendly. Metodología + datos abiertos.`,
     pt: `O benchmark de costes 2026 para viajar por Europa com cão o gato. Tarifas medias por país e cidade, % de hotéis sem cargo, e as cidades mais baratas vs mais caras para estadias pet-friendly. Metodología + datos abiertos.`,
+    de: `Der Kosten-Benchmark 2026 für Reisen mit Hund oder Katze durch Europa. Durchschnittliche Haustiergebühren nach Land und Stadt, Prozentsatz gebührenfreier Hotels sowie die günstigsten und teuersten Städte für haustierfreundliche Aufenthalte. Methodik plus offener Datensatz.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -414,6 +418,67 @@ const COPY: Record<string, {
     ctaButton: 'Ver os 96 destinos →',
     feeUnit: '€',
     freeLabel: 'sem cargo',
+  },
+  de: {
+    hero: {
+      kicker: 'PET TRAVEL COST INDEX · AUSGABE 2026',
+      h1: `Wir haben ${GLOBAL.hotels} haustierfreundliche Hotels in ${GLOBAL.countries} europäischen Ländern geprüft`,
+      lede: `Der Kosten-Benchmark 2026 für Reisen mit Hund oder Katze durch Europa, durchschnittliche Haustiergebühren nach Land und Stadt, wie viel Prozent der Hotels nichts berechnen, und die überraschende Lücke von 37 €/Nacht zwischen der günstigsten und der teuersten europäischen Stadt.`,
+    },
+    intro: {
+      title: 'Warum das wichtig ist',
+      paras: [
+        `Haustiergebühren sind die undurchsichtigste Position in der europäischen Hotelpreisgestaltung. Booking.com zeigt sie uneinheitlich an, die OTA-Filter erfassen die meisten davon nicht, und die Schwankungsbreite ist enorm: Ein einziges Wochenende in Manchester oder Bath kann an Haustierzuschlägen mehr kosten als 5 Nächte in Straßburg oder Brügge.`,
+        `Für diese Ausgabe 2026 haben wir jede Haustierrichtlinie auf unserer Plattform geprüft, ${GLOBAL.hotels} verifizierte haustierfreundliche Hotels in ${GLOBAL.cities} europäischen Städten und ${GLOBAL.countries} Ländern. Die Haustiergebühr pro Nacht jedes Hotels wurde direkt aus dessen Booking.com-Eintrag oder der Hotelwebsite entnommen und anschließend zum Vergleich in Euro umgerechnet.`,
+        `Die folgenden Ergebnisse sind der umfassendste offene Benchmark der europäischen Kosten für haustierfreundliche Hotellerie, der in diesem Jahr veröffentlicht wurde. Der komplette zugrunde liegende Datensatz ist auf unseren Ziel- und Hotelseiten verfügbar, jede Statistik pro Stadt lässt sich bis zum einzelnen Hotel nachvollziehen.`,
+      ],
+    },
+    keyFindings: {
+      title: 'Die wichtigsten Zahlen',
+      items: [
+        { stat: `${GLOBAL.avgFee} €`, label: 'durchschnittliche Haustiergebühr pro Nacht in Europa' },
+        { stat: `${GLOBAL.pctFree}%`, label: 'der geprüften Hotels erheben überhaupt keine Haustiergebühr' },
+        { stat: `${GLOBAL.avgRoom} €`, label: 'durchschnittlicher Zimmerpreis pro Nacht in haustierfreundlichen Hotels' },
+        { stat: `37 €`, label: 'Unterschied pro Nacht zwischen der günstigsten und der teuersten europäischen Stadt' },
+      ],
+    },
+    methodology: {
+      title: 'Wie wir das berechnet haben',
+      paras: [
+        `Wir haben die veröffentlichte Haustiergebühr pro Nacht für jedes Hotel aus dessen aktueller Booking.com-Haustierrichtlinie oder der direkten Hotelwebsite entnommen (Datenerhebung April bis Mai 2026). Hotels, die nur „Haustiere auf Anfrage erlaubt“ ohne angegebenen Preis veröffentlichen, wurden aus dem Durchschnitt ausgeschlossen, um ihn nicht zu verzerren.`,
+        `Haustiergebühren in Nicht-Euro-Währungen (GBP, CHF, SEK, NOK, DKK, CZK, HUF, PLN, BGN, RON, ISK) wurden anhand des durchschnittlichen Wechselkurses von Mai 2026 in Euro umgerechnet. Berechnet ein Hotel pro Aufenthalt statt pro Nacht, haben wir auf Basis von 3 Nächten hochgerechnet, der durchschnittlichen Länge einer UK-Inlandsreise.`,
+        `Landesdurchschnitte erfordern mindestens 5 bepreiste Hotels für die Aufnahme (die Hotelanzahl wird in der Tabelle veröffentlicht). Die ${countryRows.length} unten aufgeführten Länder erreichen diese Schwelle alle; weitere 7 Länder mit sehr geringer Datenabdeckung sind zu dünn besetzt, um verantwortungsvoll veröffentlicht zu werden, und werden mit dem Regionaldurchschnitt zusammengefasst.`,
+        `Städteranglisten erfordern mindestens 3 bepreiste Hotels. Preisangaben von nur einem Hotel schließen wir als unzuverlässig aus. Wichen mehrere Datenquellen für ein Hotel voneinander ab, haben wir die niedrigere Zahl verwendet, die unten stehenden Kernzahlen sind bewusst konservativ.`,
+        `Unser Rohdatensatz wird als aktuelle destinations.json- und hotels.json-Datei im Repository veröffentlicht, das diese Seite betreibt, offen einsehbar auf jeder Zielseite. Wir verpflichten uns zu einer jährlichen Neuprüfung im 2. Quartal.`,
+      ],
+    },
+    countryTitle: 'Haustiergebühr nach Land (sortiert vom günstigsten zum teuersten)',
+    countryIntro: `Schweden, Tschechien und Belgien führen das Ranking der günstigsten Haustieraufenthalte an, über 47% der geprüften Hotels berechnen überhaupt nichts. Großbritannien und der Balkan (Serbien, Bulgarien) stehen an der Spitze des Kostenrankings, getrieben von einer Kettenkultur, die Haustiere als eigene Einnahmeposition behandelt.`,
+    cityCheapTitle: 'Die 10 günstigsten europäischen Städte für einen haustierfreundlichen Aufenthalt',
+    cityCheapIntro: `Das sind die Städte, in denen es am wenigsten kostet, einen Hund oder eine Katze zu Ihrer Hotelbuchung hinzuzufügen. Zwei Städte, Göteborg und Lausanne, weisen derzeit einen Durchschnitt von 0 € auf: Jedes bepreiste Hotel in unserer Stichprobe berechnet nichts.`,
+    cityExpTitle: 'Die 10 teuersten europäischen Städte für einen haustierfreundlichen Aufenthalt',
+    cityExpIntro: `Manchester, Bath und Belgrad sind die auffälligsten Ausreißer: durchschnittliche Haustiergebühren über 33 €/Nacht, kaum Hotels mit kostenlosem Haustieraufenthalt, und Gesamtaufschläge pro Nacht (Zimmer plus Haustier), die einem Retourticket bei einer Billigfluggesellschaft entsprechen.`,
+    cols: { rank: '#', country: 'Land', city: 'Stadt', cities: 'Städte', hotels: 'Hotels', avgFee: 'Ø Haustiergebühr', pctFree: '% gebührenfrei', avgRoom: 'Ø Zimmerpreis' },
+    takeawayTitle: 'Praktische Erkenntnisse für 2026',
+    takeawayParas: [
+      `Wenn Sie beim Reiseziel flexibel sind, weichen Sie vor einer Buchung in Großbritannien oder auf dem Balkan nach Nordeuropa aus (Schweden, Belgien, Niederlande, Tschechien). Gleiche Reisedauer, oft über 100 € gespart allein beim Haustierzuschlag über einen Aufenthalt von 5 Nächten.`,
+        `Wenn Sie speziell in Großbritannien buchen, bevorzugen Sie Premier Inn, Travelodge und Holiday Inn Express, Ketten, die Haustiergebühren auf 10 £ pro Aufenthalt deckeln. Unabhängige britische Boutique-Hotels verlangen üblicherweise 25 bis 35 £ pro Nacht, was sich über ein langes Wochenende stark summiert.`,
+      `In mediterranen Städten (Barcelona, Athen, Lissabon, Valencia, Split) berechnen über 50% der haustierfreundlichen Hotels nichts, der europäische Mittelmeerraum ist strukturell die günstigste Zone für Haustierreisen in der EU. Kombinieren Sie das mit ganzjährig zugänglichen Hundestränden für das beste Preis-Leistungs-Verhältnis.`,
+      `Bestätigen Sie die Haustiergebühr bei der Buchung immer erneut, Booking.com zeigt die Richtlinie zum Zeitpunkt der Suche an, aber mehrere Ketten erheben einen „Zweithaustier“-Zuschlag, der erst in der Buchungsbestätigung per E-Mail erscheint. Buchen Sie einen kostenlos stornierbaren Tarif, damit Sie Verhandlungsspielraum haben, falls die Haustiergebühr nach der Buchung abweicht.`,
+    ],
+    faqTitle: 'Häufig gestellte Fragen',
+    faqs: [
+      { q: 'Wie wurde der Datensatz erhoben?', a: `Wir haben Haustiergebühren und -richtlinien von ${GLOBAL.hotels} auf hotelswithpets.com gelisteten Hotels erfasst, mit Quellen aus den Booking.com-Haustierrichtlinien und Hotelwebsites zwischen April und Mai 2026. Jeder Eintrag wurde, sofern verfügbar, mit der direkten Haustierrichtlinie des Hotels abgeglichen.` },
+      { q: 'Warum ist Großbritannien so teuer?', a: `Die britische Hotellerie behandelt Haustiergebühren als eigenständige Einnahmeposition, nicht als Gastgewerbeleistung. Die durchschnittliche britische Haustiergebühr (26 €) liegt mehr als doppelt so hoch wie der Mittelmeerdurchschnitt (~10 €). Premier Inn und Travelodge sind mit 10 £ pro Aufenthalt die Budget-Ausnahmen; die meisten unabhängigen Häuser und 4- bis 5-Sterne-Ketten verlangen 25 bis 35 £ pro Nacht.` },
+      { q: `Was ist ein „kostenloses“ Haustierhotel?`, a: `Ein Hotel, dessen veröffentlichte Haustierrichtlinie keine Gebühr pro Nacht oder pro Aufenthalt vorsieht. Manche Hotels verlangen weiterhin eine rückzahlbare Kaution für Schäden oder beschränken Haustiere auf bestimmte Zimmerkategorien, wir zählen diese als „kostenlos“, sofern beim Check-in oder Check-out keine Gebühr berechnet wird.` },
+      { q: 'Sind diese Preise endgültig?', a: `Dies sind Richtwerte und ein Anhaltspunkt für typische Kosten. Bestätigen Sie den Preis immer bei der Buchung, da Hotels ihre Haustierrichtlinien saisonal ändern können und viele Ketten Höchstbeträge pro Aufenthalt anwenden, die in der Suchergebnis-Oberfläche nicht sichtbar sind.` },
+      { q: 'Wie oft wird dieser Index aktualisiert?', a: `Jährlich, im 2. Quartal (April bis Mai). Die Ausgabe 2027 ist für Mai 2027 geplant und wird die mehrjährige Entwicklung wichtiger Landesdurchschnitte verfolgen, wir gehen davon aus, dass Schweden und Belgien am unteren Ende und Großbritannien am oberen Ende bleiben, sofern keine strukturelle Richtlinienänderung eintritt.` },
+    ],
+    ctaTitle: 'Den vollständigen Datensatz durchsuchen',
+    ctaDesc: 'Jede Haustiergebühr und Hotelbewertung in diesem Index ist auf der jeweiligen Zielseite veröffentlicht. Wählen Sie eine Stadt, um das vollständige Hotelangebot, Tierarztkontakte, Parks und eine Live-Booking.com-Karte zu sehen.',
+    ctaButton: 'Alle 96 Reiseziele ansehen →',
+    feeUnit: '€',
+    freeLabel: 'kostenlos',
   },
 }
 

@@ -939,7 +939,18 @@ export default async function GuideDetailPage({
                   .replace(/[^a-z0-9]+/g, '-')
                   .replace(/(^-|-$)/g, '')
                   .slice(0, 40)
-                const nearbyHref = `https://www.stay22.com/allez/roam?aid=eijeanbaptistemanson&campaign=near-${guide}-${placeSlug}&address=${encodeURIComponent([place.name, place.address, place.neighborhood, dest.name, dest.country].filter(Boolean).join(', '))}`
+                // Relevance fix (cancellation reduction): only beaches, parks and
+                // attractions are lodging-worthy anchors - travellers genuinely want
+                // to stay next to them, and those sections cancel least. For vets,
+                // pet-sitting, transport and restaurants, "hotels near this place"
+                // surfaces mismatched stays (e.g. a hotel next to a vet clinic on the
+                // ring road) that get booked then cancelled, so anchor those on the
+                // city centre instead, which returns relevant central hotels.
+                const PLACE_ANCHOR_SECTIONS = new Set(['beaches', 'parks', 'attractions'])
+                const nearbyAddress = PLACE_ANCHOR_SECTIONS.has(guide)
+                  ? [place.name, place.address, place.neighborhood, dest.name, dest.country].filter(Boolean).join(', ')
+                  : [dest.name, dest.country].filter(Boolean).join(', ')
+                const nearbyHref = `https://www.stay22.com/allez/roam?aid=eijeanbaptistemanson&campaign=near-${guide}-${placeSlug}&address=${encodeURIComponent(nearbyAddress)}`
 
                 return (
                   <article key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-lg transition-all duration-300 overflow-hidden">

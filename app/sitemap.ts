@@ -172,12 +172,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
       })
     }
     for (const month of MONTHS) {
-      entries.push({
-        url: `${BASE_URL}/${locale}/guides/dog-friendly-europe-by-month/${month}`,
-        lastModified: BUILD_DATE,
-        changeFrequency: 'monthly',
-        priority: 0.7,
-      })
+      // Evergreen month page + the year-specific 2027 page (captures travellers
+      // planning 6-12 months ahead, a real pattern in Stay22 bookings).
+      for (const slug of [month, `${month}-2027`]) {
+        entries.push({
+          url: `${BASE_URL}/${locale}/guides/dog-friendly-europe-by-month/${slug}`,
+          lastModified: BUILD_DATE,
+          changeFrequency: 'monthly',
+          priority: 0.7,
+        })
+      }
     }
   }
 

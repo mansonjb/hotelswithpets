@@ -1,0 +1,626 @@
+{
+  "january": {
+    "en": {
+      "intro": "January splits Europe into two dog-friendly regimes. Head to Lisbon or Porto for mild Atlantic days near 14-15°C, dog-accessible beaches year-round, and none of the summer heat risk. Or lean into deep winter: Vienna, Berlin and Innsbruck reward dogs with heated trams, cosy cafes and quiet snowy parks, while Reykjavik offers peak Northern Lights and near-permanent dusk for a completely different kind of trip.\n\nPack a coat for anything below 10°C, in short for Vienna, Berlin, Innsbruck and Reykjavik. Post-Christmas calm means shorter queues, lower prices and calmer streets everywhere on this list, a genuine bonus for a dog that dislikes crowds.",
+      "inSeason": [
+        "Lisbon and Porto: dog-friendly Atlantic beaches open all year, mild 14-15°C afternoons.",
+        "Vienna, Berlin, Innsbruck: heated public transport and indoor cafe culture make deep winter easy with a dog.",
+        "Reykjavik: peak Northern Lights season and near-empty trails.",
+        "Post-holiday low season everywhere: fewer crowds, better prices."
+      ],
+      "headsUp": "Below 10°C, Vienna, Berlin, Innsbruck and Reykjavik all call for a coat and paw protection on ice and salted pavements."
+    },
+    "fr": {
+      "intro": "Janvier partage l'Europe en deux régimes pour voyager avec un chien. Direction Lisbonne ou Porto pour des journées atlantiques douces autour de 14-15°C, des plages accessibles aux chiens toute l'année, et aucun risque de chaleur. Ou optez pour l'hiver assumé : Vienne, Berlin et Innsbruck offrent trams chauffés, cafés cosy et parcs enneigés tranquilles, tandis que Reykjavik promet des aurores boréales au sommet de leur saison et une lumière quasi crépusculaire toute la journée.\n\nPrévoyez un manteau pour chien en dessous de 10°C, donc pour Vienne, Berlin, Innsbruck et Reykjavik. Le calme post-fêtes signifie moins de files d'attente, des prix plus bas et des rues plus tranquilles partout sur cette sélection, un vrai plus pour un chien peu à l'aise dans la foule.",
+      "inSeason": [
+        "Lisbonne et Porto : plages atlantiques ouvertes aux chiens toute l'année, après-midis doux à 14-15°C.",
+        "Vienne, Berlin, Innsbruck : transports chauffés et culture du café en intérieur, l'hiver profond devient facile avec un chien.",
+        "Reykjavik : pic de la saison des aurores boréales et sentiers quasi déserts.",
+        "Basse saison post-fêtes partout : moins de monde, meilleurs prix."
+      ],
+      "headsUp": "En dessous de 10°C, Vienne, Berlin, Innsbruck et Reykjavik demandent un manteau et une protection des coussinets sur le verglas et le sel."
+    },
+    "es": {
+      "intro": "Enero divide Europa en dos regímenes para viajar con perro. Vaya a Lisboa o Oporto para días atlánticos suaves de 14 a 15°C, playas accesibles para perros todo el año, sin riesgo de calor. O apueste por el invierno pleno: Viena, Berlín e Innsbruck ofrecen tranvías con calefacción, cafés acogedores y parques nevados tranquilos, mientras Reikiavik regala el pico de la temporada de auroras boreales y una luz casi crepuscular todo el día.\n\nLleve un abrigo para el perro por debajo de 10°C, es decir en Viena, Berlín, Innsbruck y Reikiavik. La calma pos-navideña significa menos colas, precios más bajos y calles más tranquilas en todos estos destinos, una ventaja real para un perro que no tolera bien las multitudes.",
+      "inSeason": [
+        "Lisboa y Oporto: playas atlánticas abiertas a perros todo el año, tardes suaves de 14-15°C.",
+        "Viena, Berlín, Innsbruck: transporte con calefacción y cultura de café en interiores, el invierno pleno resulta fácil con un perro.",
+        "Reikiavik: pico de la temporada de auroras boreales y senderos casi vacíos.",
+        "Temporada baja pos-navideña en todos los destinos: menos gente, mejores precios."
+      ],
+      "headsUp": "Por debajo de 10°C, Viena, Berlín, Innsbruck y Reikiavik requieren abrigo y protección de almohadillas frente al hielo y la sal."
+    },
+    "pt": {
+      "intro": "Janeiro divide a Europa em dois regimes para viajar com cão. Rume a Lisboa ou ao Porto para dias atlânticos amenos, entre 14 e 15°C, praias acessíveis a cães o ano inteiro e nenhum risco de calor. Ou opte pelo inverno a sério: Viena, Berlim e Innsbruck oferecem eléctricos aquecidos, cafés acolhedores e parques nevados tranquilos, enquanto Reiquejavique presenteia com o pico da época de auroras boreais e uma luz quase crepuscular o dia inteiro.\n\nLeve um casaco para o cão sempre que a temperatura descer abaixo dos 10°C, ou seja em Viena, Berlim, Innsbruck e Reiquejavique. A calma pós-festas significa menos filas, preços mais baixos e ruas mais sossegadas em todos estes destinos, uma vantagem real para um cão que não lida bem com multidões.",
+      "inSeason": [
+        "Lisboa e Porto: praias atlânticas abertas a cães o ano inteiro, tardes amenas de 14-15°C.",
+        "Viena, Berlim, Innsbruck: transportes aquecidos e cultura de café em espaço interior tornam o inverno a sério fácil com um cão.",
+        "Reiquejavique: pico da época de auroras boreais e trilhos quase vazios.",
+        "Época baixa pós-festas em todos os destinos: menos gente, melhores preços."
+      ],
+      "headsUp": "Abaixo dos 10°C, Viena, Berlim, Innsbruck e Reiquejavique exigem casaco e proteção das almofadinhas contra gelo e sal."
+    },
+    "de": {
+      "intro": "Der Januar teilt Europa in zwei Regime für Reisen mit Hund. Fahren Sie nach Lissabon oder Porto für milde Atlantiktage um 14-15°C, ganzjährig hundefreundliche Strände und kein Hitzerisiko. Oder setzen Sie ganz auf den tiefen Winter: Wien, Berlin und Innsbruck bieten beheizte Straßenbahnen, gemütliche Cafés und ruhige verschneite Parks, während Reykjavik die Hochsaison der Nordlichter und fast dämmriges Licht den ganzen Tag über schenkt.\n\nPacken Sie einen Mantel für Temperaturen unter 10°C ein, also für Wien, Berlin, Innsbruck und Reykjavik. Die Ruhe nach den Feiertagen bedeutet kürzere Warteschlangen, niedrigere Preise und ruhigere Straßen auf der ganzen Liste, ein echter Vorteil für einen Hund, der Menschenmengen nicht mag.",
+      "inSeason": [
+        "Lissabon und Porto: ganzjährig hundefreundliche Atlantikstrände, milde Nachmittage bei 14-15°C.",
+        "Wien, Berlin, Innsbruck: beheizte öffentliche Verkehrsmittel und Cafékultur machen den tiefen Winter mit Hund einfach.",
+        "Reykjavik: Hochsaison der Nordlichter und fast menschenleere Wege.",
+        "Nachfeiertägliche Nebensaison überall: weniger Andrang, bessere Preise."
+      ],
+      "headsUp": "Unter 10°C brauchen Wien, Berlin, Innsbruck und Reykjavik einen Mantel und Pfotenschutz gegen Eis und Streusalz."
+    }
+  },
+  "february": {
+    "en": {
+      "intro": "February brings the mildest window in the south, with Malaga and Seville around 16-17°C, comfortable for your dog without any extra gear. On the Costa del Sol the almond trees are in blossom, and the Mediterranean beaches of Malaga, Palma and Cannes are still open to dogs until 1 May, a rare winter perk.\n\nOn the Atlantic side, Biarritz's surf beaches also welcome dogs until 1 May. Salento, around Lecce, is calm, cheap and empty of crowds. Cannes enjoys its quiet stretch before the Festival, ideal for unhurried walks with your dog.",
+      "inSeason": [
+        "Mediterranean beaches still dog-open (ban starts 1 May)",
+        "Almond blossom on the Costa del Sol",
+        "Mild 16-17°C in Malaga and Seville",
+        "Biarritz surf beaches open to dogs"
+      ],
+      "headsUp": "Evenings still drop below 10°C, pack a coat for your dog."
+    },
+    "fr": {
+      "intro": "Février offre la fenêtre la plus douce du sud, avec Malaga et Séville autour de 16-17°C, un confort idéal pour votre chien sans équipement particulier. Sur la Costa del Sol, les amandiers fleurissent, et les plages méditerranéennes de Malaga, Palma et Cannes restent ouvertes aux chiens jusqu'au 1er mai, un avantage hivernal rare.\n\nSur la côte atlantique, les plages de surf de Biarritz accueillent aussi les chiens jusqu'au 1er mai. Le Salento, autour de Lecce, se vit au calme, à prix doux et sans foule. À Cannes, c'est l'accalmie avant le Festival, une ville à explorer tranquillement avec votre compagnon.",
+      "inSeason": [
+        "Plages méditerranéennes encore ouvertes aux chiens (interdiction dès le 1er mai)",
+        "Amandiers en fleurs sur la Costa del Sol",
+        "Douceur à 16-17°C à Malaga et Séville",
+        "Plages de surf de Biarritz accessibles aux chiens"
+      ],
+      "headsUp": "Les soirées restent fraîches sous 10°C, prévoyez un manteau pour votre chien."
+    },
+    "es": {
+      "intro": "Febrero trae la ventana más suave del sur, con Málaga y Sevilla rondando los 16-17°C, ideal para su perro sin necesidad de abrigo especial. En la Costa del Sol florecen los almendros, y las playas mediterráneas de Málaga, Palma y Cannes siguen abiertas a los perros hasta el 1 de mayo, una ventaja invernal poco común.\n\nEn la costa atlántica, las playas de surf de Biarritz también admiten perros hasta el 1 de mayo. El Salento, en torno a Lecce, se disfruta con calma, precios bajos y sin aglomeraciones. En Cannes reina la tranquilidad previa al Festival, perfecta para pasear con su compañero sin prisas.",
+      "inSeason": [
+        "Playas mediterráneas aún abiertas a los perros (prohibición desde el 1 de mayo)",
+        "Almendros en flor en la Costa del Sol",
+        "Suaves 16-17°C en Málaga y Sevilla",
+        "Playas de surf de Biarritz abiertas a los perros"
+      ],
+      "headsUp": "Las noches siguen frescas por debajo de 10°C, lleve un abrigo para su perro."
+    },
+    "pt": {
+      "intro": "Fevereiro traz a janela mais amena do sul, com Málaga e Sevilha perto dos 16-17°C, ideal para o seu cão sem necessidade de casaco. Na Costa del Sol, as amendoeiras florescem, e as praias mediterrânicas de Málaga, Palma e Cannes continuam abertas a cães até 1 de maio, uma vantagem rara do inverno.\n\nNa costa atlântica, as praias de surf de Biarritz também aceitam cães até 1 de maio. O Salento, junto a Lecce, vive-se com calma, preços baixos e sem multidões. Em Cannes reina a tranquilidade antes do Festival, perfeita para passear com o seu companheiro sem pressa.",
+      "inSeason": [
+        "Praias mediterrânicas ainda abertas a cães (proibição a partir de 1 de maio)",
+        "Amendoeiras em flor na Costa del Sol",
+        "Amenos 16-17°C em Málaga e Sevilha",
+        "Praias de surf de Biarritz abertas a cães"
+      ],
+      "headsUp": "As noites continuam frescas, abaixo dos 10°C, leve um casaco para o seu cão."
+    },
+    "de": {
+      "intro": "Der Februar bietet das mildeste Fenster im Süden: Málaga und Sevilla liegen bei angenehmen 16-17°C, ideal für Ihren Hund ohne zusätzliche Ausrüstung. An der Costa del Sol blühen die Mandelbäume, und die Mittelmeerstrände von Málaga, Palma und Cannes bleiben bis zum 1. Mai für Hunde geöffnet, ein seltener Wintervorteil.\n\nAn der Atlantikküste sind auch die Surfstrände von Biarritz bis zum 1. Mai für Hunde zugänglich. Das Salento rund um Lecce erleben Sie ruhig, günstig und ohne Menschenmassen. In Cannes herrscht die Stille vor dem Festival, perfekt für entspannte Spaziergänge mit Ihrem Hund.",
+      "inSeason": [
+        "Mittelmeerstrände noch für Hunde geöffnet (Verbot ab 1. Mai)",
+        "Mandelblüte an der Costa del Sol",
+        "Milde 16-17°C in Málaga und Sevilla",
+        "Surfstrände von Biarritz für Hunde offen"
+      ],
+      "headsUp": "Abends wird es unter 10°C kühl, packen Sie einen Mantel für Ihren Hund ein."
+    }
+  },
+  "march": {
+    "en": {
+      "intro": "March opens the best shoulder season for dog-friendly travel in Europe. Six cities, Lisbon, Seville, Valencia, Granada, Athens and Palma, sit at an easy 17-21°C, mild enough for all-day walks and still cool underfoot for paws.\n\nSeville perfumes its streets with orange blossom, the Sierra Nevada above Granada holds onto its late snow cap, and Mediterranean beaches stay open to dogs until the seasonal ban begins on 1 May. Prices sit well below Easter and summer peaks, a clear reward for travelling early.",
+      "inSeason": [
+        "Orange blossom in bloom across Seville",
+        "Sierra Nevada snow-capped above Granada",
+        "Med beaches still open to dogs (ban starts 1 May)",
+        "Pre-Easter shoulder season pricing"
+      ],
+      "headsUp": "Las Fallas hits Valencia in mid-March with loud fireworks and firecrackers, plan your trip either side of the dates if your dog is noise-sensitive."
+    },
+    "fr": {
+      "intro": "Mars ouvre la meilleure saison intermédiaire pour voyager avec son chien en Europe. Six villes, Lisbonne, Séville, Valence, Grenade, Athènes et Palma, affichent des températures douces de 17 à 21°C, idéales pour de longues balades et encore fraîches pour les coussinets.\n\nSéville embaume l'air de fleurs d'oranger, la Sierra Nevada domine toujours Grenade de ses sommets enneigés, et les plages méditerranéennes restent accessibles aux chiens jusqu'à l'interdiction saisonnière du 1er mai. Les prix demeurent nettement inférieurs à ceux de Pâques et de l'été, un vrai avantage pour qui réserve tôt.",
+      "inSeason": [
+        "Fleurs d'oranger à Séville",
+        "Sierra Nevada encore enneigée au-dessus de Grenade",
+        "Plages méditerranéennes encore ouvertes aux chiens (interdiction dès le 1er mai)",
+        "Tarifs avantageux avant Pâques"
+      ],
+      "headsUp": "Les Fallas de Valence, à la mi-mars, apportent feux d'artifice et pétards très bruyants ; préférez les dates avant ou après si votre chien craint le bruit."
+    },
+    "es": {
+      "intro": "Marzo abre la mejor temporada media para viajar con perro por Europa. Seis ciudades, Lisboa, Sevilla, Valencia, Granada, Atenas y Palma, ofrecen temperaturas suaves de 17 a 21°C, ideales para paseos largos y todavía frescas para las almohadillas.\n\nSevilla perfuma sus calles con azahar, Sierra Nevada conserva su manto de nieve sobre Granada, y las playas mediterráneas siguen abiertas a los perros hasta que empieza la prohibición estacional el 1 de mayo. Los precios se mantienen muy por debajo de los de Semana Santa y verano, una ventaja clara para quien reserve con antelación.",
+      "inSeason": [
+        "Azahar en flor por las calles de Sevilla",
+        "Sierra Nevada todavía nevada sobre Granada",
+        "Playas mediterráneas abiertas a perros (la prohibición empieza el 1 de mayo)",
+        "Precios de temporada baja antes de Semana Santa"
+      ],
+      "headsUp": "Las Fallas de Valencia, a mediados de marzo, traen petardos y fuegos artificiales muy ruidosos; conviene viajar antes o después de esas fechas."
+    },
+    "pt": {
+      "intro": "Março abre a melhor temporada intermédia para viajar com o cão pela Europa. Seis cidades, Lisboa, Sevilha, Valência, Granada, Atenas e Palma, apresentam temperaturas amenas de 17 a 21°C, ótimas para longos passeios e ainda frescas para as almofadinhas.\n\nSevilha perfuma as ruas com flor de laranjeira, a Sierra Nevada mantém o seu manto de neve acima de Granada, e as praias mediterrânicas continuam abertas aos cães até começar a proibição sazonal a 1 de maio. Os preços mantêm-se bem abaixo dos da Páscoa e do verão, uma vantagem clara para quem reservar com antecedência.",
+      "inSeason": [
+        "Flor de laranjeira pelas ruas de Sevilha",
+        "Sierra Nevada ainda coberta de neve acima de Granada",
+        "Praias mediterrânicas ainda abertas aos cães (proibição a partir de 1 de maio)",
+        "Preços de época baixa antes da Páscoa"
+      ],
+      "headsUp": "As Fallas de Valência, em meados de março, trazem fogo de artifício e petardos muito barulhentos; o ideal é viajar antes ou depois dessas datas."
+    },
+    "de": {
+      "intro": "Der März eröffnet die beste Nebensaison für Reisen mit Hund in Europa. Sechs Städte, Lissabon, Sevilla, Valencia, Granada, Athen und Palma, bieten milde Temperaturen von 17 bis 21°C, angenehm für lange Spaziergänge und noch kühl genug für die Pfoten.\n\nSevilla duftet nach Orangenblüten, die Sierra Nevada über Granada trägt noch ihre späte Schneedecke, und die Strände am Mittelmeer bleiben für Hunde geöffnet, bis das saisonale Verbot am 1. Mai beginnt. Die Preise liegen deutlich unter denen von Ostern und Sommer, ein klarer Vorteil für alle, die früh buchen.",
+      "inSeason": [
+        "Orangenblüte in den Straßen von Sevilla",
+        "Sierra Nevada über Granada noch schneebedeckt",
+        "Mittelmeerstrände noch für Hunde geöffnet (Verbot ab 1. Mai)",
+        "Günstige Nebensaisonpreise vor Ostern"
+      ],
+      "headsUp": "Las Fallas in Valencia Mitte März bringt laute Feuerwerke und Böller; reisen Sie am besten vor oder nach diesen Tagen, wenn Ihr Hund lärmempfindlich ist."
+    }
+  },
+  "april": {
+    "en": {
+      "intro": "April is peak spring across Western and Southern Europe. Amsterdam's tulip fields reach full bloom, café terraces reopen across Paris and Rome, and temperatures in Lisbon, Barcelona, and Florence settle into the 14-20C range dogs handle best.\n\nIt's also the last full month for beach walks on the Mediterranean before the 1 May dog ban takes effect, so Barcelona's Llevant beach is worth visiting now. Easter falls in April this year, so expect busier squares in Rome and Florence around the holiday.",
+      "inSeason": [
+        "Tulip season in Amsterdam",
+        "Sant Jordi festival in Barcelona (23 Apr)",
+        "Café terraces reopen citywide",
+        "Ideal 14-20C walking weather"
+      ],
+      "headsUp": "Easter week draws crowds to Rome and Florence; book pet-friendly stays early."
+    },
+    "fr": {
+      "intro": "Avril marque le pic du printemps en Europe de l'Ouest et du Sud. Les champs de tulipes d'Amsterdam atteignent leur pleine floraison, les terrasses de cafés rouvrent à Paris et à Rome, et les températures à Lisbonne, Barcelone et Florence se stabilisent entre 14 et 20C, idéales pour votre chien.\n\nC'est aussi le dernier mois complet pour les promenades sur la plage en Méditerranée avant l'interdiction du 1er mai, la plage de Llevant à Barcelone mérite donc une visite dès maintenant. Pâques tombe en avril cette année, attendez-vous à davantage de monde sur les places de Rome et de Florence.",
+      "inSeason": [
+        "Saison des tulipes à Amsterdam",
+        "Fête de la Sant Jordi à Barcelone (23 avril)",
+        "Réouverture des terrasses de cafés",
+        "Températures idéales de 14 à 20C"
+      ],
+      "headsUp": "La semaine de Pâques attire les foules à Rome et à Florence ; réservez tôt un hébergement acceptant les chiens."
+    },
+    "es": {
+      "intro": "Abril es el pico de la primavera en Europa occidental y meridional. Los campos de tulipanes de Ámsterdam alcanzan su plena floración, las terrazas de los cafés reabren en París y Roma, y las temperaturas en Lisboa, Barcelona y Florencia se estabilizan entre 14 y 20C, ideales para su perro.\n\nTambién es el último mes completo para pasear por la playa en el Mediterráneo antes de que entre en vigor la prohibición del 1 de mayo, así que la playa de Llevant en Barcelona merece una visita ahora. La Semana Santa cae en abril este año, por lo que habrá más gente en las plazas de Roma y Florencia.",
+      "inSeason": [
+        "Temporada de tulipanes en Ámsterdam",
+        "Fiesta de Sant Jordi en Barcelona (23 de abril)",
+        "Reapertura de las terrazas de los cafés",
+        "Clima ideal de 14 a 20C"
+      ],
+      "headsUp": "La Semana Santa atrae a multitudes a Roma y Florencia; reserve con antelación un alojamiento que admita perros."
+    },
+    "pt": {
+      "intro": "Abril é o pico da primavera na Europa Ocidental e Meridional. Os campos de tulipas de Amesterdão atingem plena floração, as esplanadas reabrem em Paris e Roma, e as temperaturas em Lisboa, Barcelona e Florença estabilizam entre 14 e 20C, ideais para o seu cão.\n\nÉ também o último mês completo para passear na praia no Mediterrâneo antes da proibição de 1 de maio entrar em vigor, por isso a praia de Llevant em Barcelona merece uma visita agora. A Páscoa cai em abril este ano, por isso espere mais movimento nas praças de Roma e Florença.",
+      "inSeason": [
+        "Época das tulipas em Amesterdão",
+        "Festa de Sant Jordi em Barcelona (23 de abril)",
+        "Reabertura das esplanadas",
+        "Temperaturas ideais de 14 a 20C"
+      ],
+      "headsUp": "A semana da Páscoa atrai multidões a Roma e Florença; reserve com antecedência um alojamento que aceite cães."
+    },
+    "de": {
+      "intro": "Der April ist der Höhepunkt des Frühlings in West- und Südeuropa. Amsterdams Tulpenfelder stehen in voller Blüte, die Caféterrassen öffnen wieder in Paris und Rom, und die Temperaturen in Lissabon, Barcelona und Florenz pendeln sich bei 14 bis 20C ein, ideal für Ihren Hund.\n\nEs ist auch der letzte volle Monat für Strandspaziergänge am Mittelmeer, bevor am 1. Mai das Hundeverbot in Kraft tritt; der Strand Llevant in Barcelona lohnt sich also jetzt besonders. Ostern fällt dieses Jahr in den April, rechnen Sie daher mit mehr Andrang auf den Plätzen in Rom und Florenz.",
+      "inSeason": [
+        "Tulpensaison in Amsterdam",
+        "Sant-Jordi-Fest in Barcelona (23. April)",
+        "Wiedereröffnung der Caféterrassen",
+        "Ideale 14 bis 20C zum Spazierengehen"
+      ],
+      "headsUp": "Die Osterwoche zieht Menschenmassen nach Rom und Florenz; buchen Sie frühzeitig eine hundefreundliche Unterkunft."
+    }
+  },
+  "may": {
+    "en": {
+      "intro": "May is peak season for this route. Temperatures across Central Europe and Scandinavia sit in the 15–20°C sweet spot, right where dogs feel most comfortable. Krakow, Prague, Budapest and Hamburg turn green, beer gardens reopen, and pavements stay cool enough for paws all day.\n\nThis month also marks a shift in strategy. From 1 May most Mediterranean municipal beaches ban dogs until 30 September, so southern Europe drops off the map for beach lovers. Copenhagen picks up the slack with its year-round dog-friendly Amager Strand, while Porto stays cooler and calmer than Lisbon further south. Book now, before June crowds and prices arrive.",
+      "inSeason": [
+        "Beer gardens reopen in Prague and Krakow",
+        "Amager Strand welcomes dogs year-round in Copenhagen",
+        "Porto stays mild before summer heat",
+        "Shoulder-season prices before June crowds"
+      ],
+      "headsUp": "From 1 May, most Mediterranean municipal beaches ban dogs until 30 September, plan around Copenhagen's Amager Strand instead."
+    },
+    "fr": {
+      "intro": "Mai est le mois idéal pour cet itinéraire. En Europe centrale et en Scandinavie, les températures oscillent entre 15 et 20°C, la zone de confort idéale pour les chiens. Cracovie, Prague, Budapest et Hambourg reverdissent, les jardins à bière rouvrent, et les trottoirs restent frais toute la journée.\n\nCe mois marque aussi un changement de stratégie. Depuis le 1er mai, la plupart des plages municipales méditerranéennes interdisent les chiens jusqu'au 30 septembre, le sud de l'Europe sort donc de la carte pour les amateurs de plage. Copenhague prend le relais avec sa plage Amager Strand, accessible aux chiens toute l'année, tandis que Porto reste plus frais et plus calme que Lisbonne, plus au sud. Réservez dès maintenant, avant l'arrivée des foules et des prix de juin.",
+      "inSeason": [
+        "Les jardins à bière rouvrent à Prague et Cracovie",
+        "Amager Strand accueille les chiens toute l'année à Copenhague",
+        "Porto reste doux avant la chaleur estivale",
+        "Prix de basse saison avant l'arrivée des foules de juin"
+      ],
+      "headsUp": "Depuis le 1er mai, la plupart des plages municipales méditerranéennes interdisent les chiens jusqu'au 30 septembre, privilégiez plutôt Amager Strand à Copenhague."
+    },
+    "es": {
+      "intro": "Mayo es el mes ideal para esta ruta. En Europa Central y Escandinavia, las temperaturas rondan los 15 a 20°C, el rango de confort perfecto para los perros. Cracovia, Praga, Budapest y Hamburgo reverdecen, los jardines de cerveza reabren y las aceras se mantienen frescas durante todo el día.\n\nEste mes también marca un cambio de estrategia. Desde el 1 de mayo, la mayoría de las playas municipales del Mediterráneo prohíben los perros hasta el 30 de septiembre, así que el sur de Europa queda fuera del mapa para los amantes de la playa. Copenhague toma el relevo con su playa Amager Strand, apta para perros todo el año, mientras que Oporto se mantiene más fresco y tranquilo que Lisboa. Reserve ya, antes de que lleguen las multitudes y los precios de junio.",
+      "inSeason": [
+        "Los jardines de cerveza reabren en Praga y Cracovia",
+        "Amager Strand recibe perros todo el año en Copenhague",
+        "Oporto se mantiene fresco antes del calor del verano",
+        "Precios de temporada baja antes de las multitudes de junio"
+      ],
+      "headsUp": "Desde el 1 de mayo, la mayoría de las playas municipales del Mediterráneo prohíben los perros hasta el 30 de septiembre, planifique en torno a Amager Strand en Copenhague."
+    },
+    "pt": {
+      "intro": "Maio é o mês ideal para este roteiro. Na Europa Central e na Escandinávia, as temperaturas rondam os 15 a 20°C, a faixa de conforto perfeita para os cães. Cracóvia, Praga, Budapeste e Hamburgo reverdecem, os jardins de cerveja reabrem e os passeios mantêm-se frescos durante todo o dia.\n\nEste mês marca também uma mudança de estratégia. A partir de 1 de maio, a maioria das praias municipais do Mediterrâneo proíbe cães até 30 de setembro, pelo que o sul da Europa sai do mapa para os amantes de praia. Copenhaga assume o relevo com a sua praia Amager Strand, aberta a cães todo o ano, enquanto o Porto se mantém mais fresco e calmo do que Lisboa. Reserve já, antes da chegada das multidões e dos preços de junho.",
+      "inSeason": [
+        "Os jardins de cerveja reabrem em Praga e Cracóvia",
+        "Amager Strand recebe cães todo o ano em Copenhaga",
+        "O Porto mantém-se fresco antes do calor do verão",
+        "Preços de baixa época antes das multidões de junho"
+      ],
+      "headsUp": "A partir de 1 de maio, a maioria das praias municipais do Mediterrâneo proíbe cães até 30 de setembro, planeie em torno da Amager Strand em Copenhaga."
+    },
+    "de": {
+      "intro": "Der Mai ist der ideale Monat für diese Route. In Mitteleuropa und Skandinavien liegen die Temperaturen zwischen 15 und 20°C, genau im Wohlfühlbereich für Hunde. Krakau, Prag, Budapest und Hamburg werden grün, Biergärten öffnen wieder, und die Gehwege bleiben den ganzen Tag pfotenfreundlich kühl.\n\nDieser Monat markiert auch einen Strategiewechsel. Ab dem 1. Mai verbieten die meisten Gemeinden am Mittelmeer Hunde an ihren Stränden bis zum 30. September, Südeuropa fällt für Strandliebhaber damit aus. Kopenhagen übernimmt mit dem ganzjährig hundefreundlichen Amager Strand, während Porto kühler und ruhiger bleibt als Lissabon weiter südlich. Buchen Sie jetzt, bevor im Juni Andrang und höhere Preise einsetzen.",
+      "inSeason": [
+        "Biergärten öffnen wieder in Prag und Krakau",
+        "Amager Strand empfängt Hunde ganzjährig in Kopenhagen",
+        "Porto bleibt mild vor der Sommerhitze",
+        "Nebensaisonpreise vor dem Juni-Andrang"
+      ],
+      "headsUp": "Ab dem 1. Mai verbieten die meisten Mittelmeer-Gemeinden Hunde an ihren Stränden bis zum 30. September, planen Sie stattdessen mit dem Amager Strand in Kopenhagen."
+    }
+  },
+  "june": {
+    "en": {
+      "intro": "June flips the map north. Northern Europe wakes up with 14-20°C days and white nights, while the Mediterranean turns hot and closes its beaches to dogs from May through September. Stockholm, Copenhagen, Helsinki, Tallinn, Bergen and Edinburgh hit their stride now, with long light and an outdoor culture built for dogs on leash.\n\nStockholm and Helsinki open their archipelagos by ferry, dog aboard. Sweden also carries some of the EU's lowest pet-travel supplements, a nice bonus for longer stays. Edinburgh stays cool and green without the UK's summer heatwaves, and the Baltic capitals add cobblestone charm with mild, dry days.",
+      "inSeason": [
+        "White nights and near-midnight sun",
+        "14-20°C, ideal walking weather",
+        "Archipelago ferries from Stockholm and Helsinki",
+        "Low pet-travel supplements in Sweden"
+      ],
+      "headsUp": "Skip the Mediterranean this month: beaches ban dogs from 1 May to 30 September, and the heat is already climbing."
+    },
+    "fr": {
+      "intro": "En juin, la carte bascule vers le nord. L'Europe du Nord se réveille avec des journées à 14-20°C et des nuits blanches, pendant que la Méditerranée chauffe et ferme ses plages aux chiens de mai à septembre. Stockholm, Copenhague, Helsinki, Tallinn, Bergen et Édimbourg entrent dans leur meilleure saison, avec une lumière prolongée et une culture extérieure pensée pour les chiens en laisse.\n\nStockholm et Helsinki ouvrent leurs archipels en ferry, chien à bord. La Suède applique aussi parmi les suppléments animaliers les plus bas d'Europe, un vrai plus pour les longs séjours. Édimbourg reste fraîche et verte, loin des canicules britanniques, et les capitales baltes ajoutent leur charme pavé avec des journées douces et sèches.",
+      "inSeason": [
+        "Nuits blanches et soleil quasi permanent",
+        "14-20°C, température idéale pour marcher",
+        "Ferries vers les archipels depuis Stockholm et Helsinki",
+        "Suppléments animaliers réduits en Suède"
+      ],
+      "headsUp": "Évitez la Méditerranée ce mois-ci : les plages interdisent les chiens du 1er mai au 30 septembre, et la chaleur grimpe déjà."
+    },
+    "es": {
+      "intro": "En junio, el mapa se inclina hacia el norte. El norte de Europa despierta con días de 14-20°C y noches blancas, mientras el Mediterráneo se calienta y cierra sus playas a los perros de mayo a septiembre. Estocolmo, Copenhague, Helsinki, Tallin, Bergen y Edimburgo viven su mejor momento, con luz prolongada y una cultura al aire libre pensada para perros con correa.\n\nEstocolmo y Helsinki abren sus archipiélagos en ferry, con el perro a bordo. Suecia también mantiene algunos de los suplementos para mascotas más bajos de la UE, una ventaja para estancias largas. Edimburgo se mantiene fresco y verde, sin las olas de calor del Reino Unido, y las capitales bálticas suman encanto de adoquines con días suaves y secos.",
+      "inSeason": [
+        "Noches blancas y sol casi permanente",
+        "14-20°C, temperatura ideal para pasear",
+        "Ferris a los archipiélagos desde Estocolmo y Helsinki",
+        "Suplementos para mascotas más bajos en Suecia"
+      ],
+      "headsUp": "Evite el Mediterráneo este mes: las playas prohíben perros del 1 de mayo al 30 de septiembre, y el calor ya está subiendo."
+    },
+    "pt": {
+      "intro": "Em junho, o mapa vira para norte. O norte da Europa desperta com dias de 14-20°C e noites brancas, enquanto o Mediterrâneo aquece e fecha as praias aos cães de maio a setembro. Estocolmo, Copenhaga, Helsínquia, Taline, Bergen e Edimburgo vivem o seu melhor momento, com luz prolongada e uma cultura ao ar livre pensada para cães com trela.\n\nEstocolmo e Helsínquia abrem os seus arquipélagos de ferry, com o cão a bordo. A Suécia mantém também alguns dos suplementos para animais mais baixos da UE, uma vantagem em estadias longas. Edimburgo continua fresca e verde, sem as vagas de calor do Reino Unido, e as capitais bálticas somam encanto de calçada com dias amenos e secos.",
+      "inSeason": [
+        "Noites brancas e sol quase permanente",
+        "14-20°C, temperatura ideal para passear",
+        "Ferries para os arquipélagos a partir de Estocolmo e Helsínquia",
+        "Suplementos para animais mais baixos na Suécia"
+      ],
+      "headsUp": "Evite o Mediterrâneo este mês: as praias proíbem cães de 1 de maio a 30 de setembro, e o calor já está a subir."
+    },
+    "de": {
+      "intro": "Im Juni verschiebt sich die Reise nach Norden. Nordeuropa erwacht mit Temperaturen von 14 bis 20°C und hellen Sommernächten, während das Mittelmeer sich aufheizt und Strände vom 1. Mai bis 30. September für Hunde sperrt. Stockholm, Kopenhagen, Helsinki, Tallinn, Bergen und Edinburgh erleben jetzt ihre beste Zeit, mit langem Licht und einer Außenkultur, die für Hunde an der Leine gemacht ist.\n\nStockholm und Helsinki öffnen ihre Schäreninseln per Fähre, der Hund an Bord. Schweden gehört zudem zu den Ländern mit den niedrigsten Heimtier-Zuschlägen der EU, ein Vorteil für längere Aufenthalte. Edinburgh bleibt kühl und grün, ohne die Hitzewellen Großbritanniens, und die baltischen Hauptstädte bringen Kopfsteinpflaster-Charme mit milden, trockenen Tagen.",
+      "inSeason": [
+        "Helle Sommernächte und fast durchgehendes Tageslicht",
+        "14-20°C, ideales Wanderwetter",
+        "Fähren zu den Schäreninseln ab Stockholm und Helsinki",
+        "Niedrige Heimtier-Zuschläge in Schweden"
+      ],
+      "headsUp": "Meiden Sie das Mittelmeer in diesem Monat: Strände verbieten Hunde vom 1. Mai bis 30. September, und die Hitze steigt bereits."
+    }
+  },
+  "july": {
+    "en": {
+      "intro": "July turns the Mediterranean into a furnace, so this month we point the compass north. Reykjavik, Bergen, Oslo, Helsinki, Gothenburg and Tallinn stay comfortable while the south bakes, offering fresh air, long light and dog-safe temperatures.\n\nDogs are happiest between 14-22°C; anything above 26°C turns dangerous fast, so southern Europe is off the list entirely this month. Up north you get cool fjords, clear lakes and endless daylight instead, all far kinder to a dog's paws and lungs.",
+      "inSeason": [
+        "Swim in glacial lakes and fjords to cool off after a hike",
+        "White nights mean long evening walks without the heat",
+        "Dog-accessible fjord ferries and funiculars in Bergen and Oslo",
+        "Iceland stays near 13°C, Nordics and Baltics run 16-20°C"
+      ],
+      "headsUp": "Never take a dog south this month: temperatures above 26°C are dangerous, and Mediterranean beaches ban dogs from 1 May to 30 September anyway."
+    },
+    "fr": {
+      "intro": "En juillet, la Méditerranée se transforme en fournaise : ce mois-ci, direction le nord. Reykjavik, Bergen, Oslo, Helsinki, Göteborg et Tallinn restent fraîches et accueillantes pendant que le sud étouffe, avec un air pur, une lumière interminable et des températures adaptées aux chiens.\n\nVotre chien est le plus à l'aise entre 14 et 22°C ; au-delà de 26°C, la chaleur devient dangereuse, donc évitez totalement le sud de l'Europe ce mois-ci. Plus au nord, vous trouverez des fjords frais, des lacs limpides et une clarté quasi permanente, bien plus douce pour les coussinets et les poumons de votre compagnon.",
+      "inSeason": [
+        "Baignade dans les lacs glaciaires et les fjords pour se rafraîchir après une randonnée",
+        "Les nuits blanches permettent de longues balades du soir sans la chaleur",
+        "Ferries de fjord et funiculaires accessibles aux chiens à Bergen et Oslo",
+        "L'Islande reste autour de 13°C, les pays nordiques et baltes entre 16 et 20°C"
+      ],
+      "headsUp": "N'emmenez jamais votre chien vers le sud ce mois-ci : au-delà de 26°C, la chaleur devient dangereuse, et les plages méditerranéennes interdisent les chiens du 1er mai au 30 septembre."
+    },
+    "es": {
+      "intro": "En julio, el Mediterráneo se convierte en un horno, así que este mes ponemos rumbo al norte. Reikiavik, Bergen, Oslo, Helsinki, Gotemburgo y Tallin se mantienen frescas y agradables mientras el sur se abrasa, con aire puro, luz interminable y temperaturas seguras para los perros.\n\nLos perros están más cómodos entre 14 y 22°C; más allá de 26°C, el calor se vuelve peligroso, por lo que conviene evitar por completo el sur de Europa este mes. Más al norte encontrará fiordos frescos, lagos cristalinos y días interminables, mucho más amables con las almohadillas y los pulmones de su compañero.",
+      "inSeason": [
+        "Baños en lagos glaciares y fiordos para refrescarse tras una caminata",
+        "Las noches blancas permiten paseos largos por la tarde sin pasar calor",
+        "Ferris de fiordo y funiculares aptos para perros en Bergen y Oslo",
+        "Islandia se mantiene cerca de los 13°C, y los países nórdicos y bálticos entre 16 y 20°C"
+      ],
+      "headsUp": "Nunca lleve a su perro hacia el sur este mes: por encima de 26°C el calor es peligroso, y las playas mediterráneas prohíben los perros del 1 de mayo al 30 de septiembre."
+    },
+    "pt": {
+      "intro": "Em julho, o Mediterrâneo vira uma fornalha, por isso este mês seguimos para o norte. Reykjavik, Bergen, Oslo, Helsínquia, Gotemburgo e Tallinn permanecem frescas e agradáveis enquanto o sul arde, com ar puro, luz interminável e temperaturas seguras para os cães.\n\nOs cães sentem-se melhor entre 14 e 22°C; acima de 26°C, o calor torna-se perigoso, por isso o sul da Europa deve ser evitado por completo este mês. Mais a norte encontrará fiordes frescos, lagos cristalinos e dias intermináveis, muito mais gentis com as almofadinhas e os pulmões do seu companheiro.",
+      "inSeason": [
+        "Banhos em lagos glaciares e fiordes para arrefecer depois de uma caminhada",
+        "As noites brancas permitem passeios longos ao final do dia sem calor",
+        "Ferries de fiorde e funiculares acessíveis a cães em Bergen e Oslo",
+        "A Islândia mantém-se perto dos 13°C, e a região nórdica e báltica entre 16 e 20°C"
+      ],
+      "headsUp": "Nunca leve o seu cão para o sul este mês: acima de 26°C o calor é perigoso, e as praias mediterrânicas proíbem cães de 1 de maio a 30 de setembro."
+    },
+    "de": {
+      "intro": "Im Juli verwandelt sich das Mittelmeer in einen Backofen, deshalb geht es diesen Monat nach Norden. Reykjavik, Bergen, Oslo, Helsinki, Göteborg und Tallinn bleiben angenehm kühl, während der Süden glüht, mit klarer Luft, endlosem Licht und hundefreundlichen Temperaturen.\n\nHunde fühlen sich zwischen 14 und 22°C am wohlsten; über 26°C wird die Hitze schnell gefährlich, weshalb Sie Südeuropa diesen Monat komplett meiden sollten. Weiter im Norden erwarten Sie kühle Fjorde, klare Seen und fast durchgehendes Tageslicht, viel schonender für die Pfoten und die Lunge Ihres Hundes.",
+      "inSeason": [
+        "Schwimmen in Gletscherseen und Fjorden zur Abkühlung nach einer Wanderung",
+        "Die weißen Nächte ermöglichen lange Abendspaziergänge ohne Hitze",
+        "Hundefreundliche Fjordfähren und Standseilbahnen in Bergen und Oslo",
+        "Island bleibt bei rund 13°C, Nordics und Baltikum bei 16 bis 20°C"
+      ],
+      "headsUp": "Reisen Sie diesen Monat auf keinen Fall mit dem Hund in den Süden: Über 26°C wird die Hitze gefährlich, und an den Mittelmeerstränden gilt vom 1. Mai bis 30. September ein Hundeverbot."
+    }
+  },
+  "august": {
+    "en": {
+      "intro": "August turns southern Europe into a furnace, with temperatures often climbing to 30-40°C across Spain, Italy, and Greece. Dogs cannot cope with that heat, and most Mediterranean beaches ban dogs outright from 1 May to 30 September anyway.\n\nThe far north is the only genuinely comfortable choice this month. Reykjavik, Oslo, Bergen, Stockholm, Helsinki, and Aarhus sit in the 13-20°C range, with long daylight hours, cool lakes and fjords to swim in, and beaches that actually welcome dogs.",
+      "inSeason": [
+        "Lake and fjord swimming in Bergen and Oslo",
+        "Long daylight for late evening walks",
+        "Archipelago boat trips around Stockholm and Helsinki",
+        "Aarhus's Bellevue Strand, a year-round dog beach"
+      ],
+      "headsUp": "Never bring a dog to southern Europe in August: heatstroke can set in within minutes on hot pavement or in a closed car, and most Mediterranean beaches are legally off-limits to dogs until October anyway."
+    },
+    "fr": {
+      "intro": "En août, le sud de l'Europe se transforme en fournaise, avec des températures qui grimpent souvent entre 30 et 40°C en Espagne, en Italie et en Grèce. Les chiens ne supportent pas une telle chaleur, et la plupart des plages méditerranéennes leur sont de toute façon interdites du 1er mai au 30 septembre.\n\nLe grand nord reste le seul choix vraiment confortable ce mois-ci. Reykjavik, Oslo, Bergen, Stockholm, Helsinki et Aarhus affichent entre 13 et 20°C, avec de longues journées de lumière, des lacs et des fjords frais où se baigner, et des plages qui accueillent réellement les chiens.",
+      "inSeason": [
+        "Baignade en lac et en fjord à Bergen et à Oslo",
+        "Longue luminosité pour des promenades tard le soir",
+        "Excursions en bateau dans l'archipel de Stockholm et d'Helsinki",
+        "Bellevue Strand à Aarhus, une plage pour chiens ouverte toute l'année"
+      ],
+      "headsUp": "N'emmenez jamais votre chien dans le sud de l'Europe en août : un coup de chaleur peut survenir en quelques minutes sur un trottoir brûlant ou dans une voiture fermée, et la plupart des plages méditerranéennes leur restent de toute façon interdites jusqu'en octobre."
+    },
+    "es": {
+      "intro": "En agosto, el sur de Europa se convierte en un horno, con temperaturas que a menudo superan los 30-40°C en España, Italia y Grecia. Los perros no soportan ese calor, y además la mayoría de las playas mediterráneas les prohíbe el acceso del 1 de mayo al 30 de septiembre.\n\nEl extremo norte es la única opción realmente cómoda este mes. Reikiavik, Oslo, Bergen, Estocolmo, Helsinki y Aarhus rondan los 13-20°C, con días muy largos de luz, lagos y fiordos frescos donde nadar, y playas que sí reciben a los perros.",
+      "inSeason": [
+        "Baños en lagos y fiordos en Bergen y Oslo",
+        "Días largos para paseos hasta bien entrada la noche",
+        "Excursiones en barco por el archipiélago de Estocolmo y Helsinki",
+        "Bellevue Strand en Aarhus, una playa para perros abierta todo el año"
+      ],
+      "headsUp": "Nunca lleve a su perro al sur de Europa en agosto: un golpe de calor puede aparecer en minutos sobre el asfalto caliente o dentro de un coche cerrado, y además la mayoría de las playas mediterráneas les están prohibidas hasta octubre."
+    },
+    "pt": {
+      "intro": "Em agosto, o sul da Europa transforma-se numa fornalha, com temperaturas que muitas vezes ultrapassam os 30-40°C em Espanha, Itália e Grécia. Os cães não suportam esse calor e, além disso, a maioria das praias mediterrânicas proíbe-lhes o acesso de 1 de maio a 30 de setembro.\n\nO extremo norte é a única opção verdadeiramente confortável neste mês. Reiquiavique, Oslo, Bergen, Estocolmo, Helsínquia e Aarhus rondam os 13-20°C, com dias muito longos de luz, lagos e fiordes frescos para nadar, e praias que realmente recebem cães.",
+      "inSeason": [
+        "Banhos em lagos e fiordes em Bergen e Oslo",
+        "Dias longos para passeios até tarde",
+        "Passeios de barco pelo arquipélago de Estocolmo e Helsínquia",
+        "Bellevue Strand em Aarhus, uma praia para cães aberta todo o ano"
+      ],
+      "headsUp": "Nunca leve o seu cão ao sul da Europa em agosto: um golpe de calor pode surgir em minutos sobre o asfalto quente ou dentro de um carro fechado, e além disso a maioria das praias mediterrânicas permanece proibida para cães até outubro."
+    },
+    "de": {
+      "intro": "Im August verwandelt sich Südeuropa in einen Ofen, mit Temperaturen, die in Spanien, Italien und Griechenland oft auf 30-40°C steigen. Hunde können mit dieser Hitze nicht umgehen, und die meisten Mittelmeerstrände verbieten ihnen ohnehin vom 1. Mai bis 30. September den Zugang.\n\nDer hohe Norden ist in diesem Monat die einzige wirklich angenehme Wahl. Reykjavik, Oslo, Bergen, Stockholm, Helsinki und Aarhus liegen bei 13-20°C, mit langen Tageslichtstunden, kühlen Seen und Fjorden zum Schwimmen und Stränden, die Hunde tatsächlich willkommen heißen.",
+      "inSeason": [
+        "Baden in Seen und Fjorden in Bergen und Oslo",
+        "Lange Tageslichtstunden für späte Abendspaziergänge",
+        "Bootsausflüge durch die Schärenküste vor Stockholm und Helsinki",
+        "Bellevue Strand in Aarhus, ein ganzjährig geöffneter Hundestrand"
+      ],
+      "headsUp": "Bringen Sie Ihren Hund im August niemals nach Südeuropa: Ein Hitzschlag kann innerhalb weniger Minuten auf heißem Asphalt oder in einem geschlossenen Auto auftreten, und die meisten Mittelmeerstrände bleiben für Hunde ohnehin bis Oktober gesperrt."
+    }
+  },
+  "september": {
+    "en": {
+      "intro": "September is the best month of the year for a dog-friendly trip along these six coasts. The summer crowds thin out fast, temperatures settle into that 21-24C sweet spot dogs actually enjoy, and the sea is still warm from three months of sun. In Lisbon and Porto, the streets and viewpoints empty out just enough to walk them at a relaxed pace with your dog on a loose leash.\n\nThis is also the month the dog-beach ban starts lifting. Barcelona's Llevant beach reopens to dogs around mid-September, Split's Bacvice and Bene beaches follow late in the month, and Porto's Douro Valley kicks off its wine harvest, filling riverside terraces with new energy. San Sebastian and Bilbao stay a touch cooler and calmer, ideal for long dog walks along the bay before the Basque autumn sets in.",
+      "inSeason": [
+        "Sea still warm from summer",
+        "Porto's Douro wine harvest begins",
+        "Barcelona's Llevant dog beach reopens mid-month",
+        "Crowds thin out fast after the first week"
+      ],
+      "headsUp": "Not every dog beach reopens on the same date: some, like San Sebastian's Concha, stay closed to dogs until 1 October, so check local rules before you plan a beach day."
+    },
+    "fr": {
+      "intro": "Septembre est le meilleur mois de l'année pour voyager avec votre chien le long de ces six côtes. Les foules de l'été se dispersent vite, les températures se stabilisent autour de 21-24°C, une plage idéale pour un chien, et la mer reste chaude après trois mois de soleil. À Lisbonne et à Porto, les rues et les belvédères se libèrent juste assez pour flâner en laisse détendue avec votre chien, à un rythme tranquille.\n\nC'est aussi le mois où l'interdiction des plages pour chiens commence à être levée. La plage de Llevant à Barcelone rouvre aux chiens vers la mi-septembre, celles de Bacvice et Bene à Split suivent en fin de mois, et la vallée du Douro, à Porto, lance ses vendanges, animant les terrasses au bord du fleuve. Saint-Sébastien et Bilbao restent un peu plus fraîches et calmes, parfaites pour de longues balades le long de la baie avant l'automne basque.",
+      "inSeason": [
+        "Mer encore chaude après l'été",
+        "Début des vendanges dans la vallée du Douro à Porto",
+        "Réouverture de la plage de Llevant à Barcelone à la mi-septembre",
+        "Les foules se dispersent dès la première semaine"
+      ],
+      "headsUp": "Toutes les plages pour chiens ne rouvrent pas à la même date : celle de la Concha à Saint-Sébastien, par exemple, reste fermée aux chiens jusqu'au 1er octobre. Vérifiez les règles locales avant de prévoir une journée plage."
+    },
+    "es": {
+      "intro": "Septiembre es el mejor mes del año para viajar con su perro por estas seis costas. Las multitudes del verano se disipan rápido, las temperaturas se estabilizan en ese punto ideal de 21-24°C que tanto agradece un perro, y el mar sigue cálido tras tres meses de sol. En Lisboa y Oporto, las calles y miradores se vacían lo justo para pasear con correa suelta a un ritmo tranquilo.\n\nEste es también el mes en que empieza a levantarse la prohibición de perros en las playas. La playa de Llevant en Barcelona vuelve a admitir perros a mediados de septiembre, las de Bacvice y Bene en Split le siguen a finales de mes, y el valle del Duero, en Oporto, arranca la vendimia, llenando las terrazas junto al río de ambiente. San Sebastián y Bilbao se mantienen algo más frescas y tranquilas, ideales para paseos largos junto a la bahía antes de que llegue el otoño vasco.",
+      "inSeason": [
+        "Mar todavía cálido tras el verano",
+        "Comienza la vendimia en el valle del Duero, Oporto",
+        "La playa de Llevant en Barcelona reabre a perros a mediados de mes",
+        "Las multitudes se dispersan desde la primera semana"
+      ],
+      "headsUp": "No todas las playas para perros reabren en la misma fecha: la Concha en San Sebastián, por ejemplo, permanece cerrada a los perros hasta el 1 de octubre. Consulte la normativa local antes de planear un día de playa."
+    },
+    "pt": {
+      "intro": "Setembro é o melhor mês do ano para uma viagem com o seu cão por estas seis costas. As multidões do verão dispersam-se rapidamente, as temperaturas estabilizam naquele ponto ideal de 21-24°C que os cães tanto apreciam, e o mar continua quente após três meses de sol. Em Lisboa e no Porto, as ruas e miradouros esvaziam-se o suficiente para passear com a trela solta num ritmo tranquilo.\n\nEste é também o mês em que começa a ser levantada a proibição de cães nas praias. A praia de Llevant, em Barcelona, volta a admitir cães a partir de meados de setembro, as praias de Bacvice e Bene, em Split, seguem-se no final do mês, e o Vale do Douro, no Porto, dá início às vindimas, enchendo os terraços à beira-rio de animação. San Sebastián e Bilbau mantêm-se um pouco mais frescas e calmas, ideais para longos passeios junto à baía antes de chegar o outono basco.",
+      "inSeason": [
+        "Mar ainda quente depois do verão",
+        "Início das vindimas no Vale do Douro, Porto",
+        "A praia de Llevant em Barcelona reabre a cães a meio do mês",
+        "As multidões dispersam-se logo na primeira semana"
+      ],
+      "headsUp": "Nem todas as praias para cães reabrem na mesma data: a Concha, em San Sebastián, por exemplo, mantém-se fechada a cães até 1 de outubro. Confirme as regras locais antes de planear um dia de praia."
+    },
+    "de": {
+      "intro": "September ist der beste Monat des Jahres für eine hundefreundliche Reise entlang dieser sechs Küsten. Die Sommermenge löst sich schnell auf, die Temperaturen pendeln sich bei angenehmen 21-24°C ein, dem Bereich, den Hunde am meisten schätzen, und das Meer ist nach drei Monaten Sonne noch warm. In Lissabon und Porto leeren sich Straßen und Aussichtspunkte gerade genug, um mit Ihrem Hund an lockerer Leine in Ruhe spazieren zu gehen.\n\nEs ist auch der Monat, in dem das Hundestrand-Verbot allmählich aufgehoben wird. Der Llevant-Strand in Barcelona öffnet sich Mitte September wieder für Hunde, die Strände Bacvice und Bene in Split folgen gegen Monatsende, und im Douro-Tal bei Porto beginnt die Weinlese, die die Terrassen am Fluss mit neuem Leben füllt. San Sebastián und Bilbao bleiben etwas kühler und ruhiger, ideal für lange Spaziergänge an der Bucht, bevor der baskische Herbst einsetzt.",
+      "inSeason": [
+        "Meer nach dem Sommer noch warm",
+        "Weinlese im Douro-Tal bei Porto beginnt",
+        "Llevant-Hundestrand in Barcelona öffnet Mitte des Monats wieder",
+        "Menschenmassen lösen sich schon in der ersten Woche auf"
+      ],
+      "headsUp": "Nicht jeder Hundestrand öffnet zum gleichen Datum: La Concha in San Sebastián etwa bleibt bis zum 1. Oktober für Hunde gesperrt. Prüfen Sie daher vor Ort die aktuellen Regeln, bevor Sie einen Strandtag planen."
+    }
+  },
+  "october": {
+    "en": {
+      "intro": "October is the sweet spot for this route. Days settle into a gentle 17-22C across Rome, Florence, Cordoba and Bordeaux, exactly the range where a dog can walk for hours without panting, and the summer crowds have gone home. Vienna and Brno turn gold, parks and vineyards alike, while the Mediterranean beach bans lift on 1 October, so your dog is welcome back on the sand in Cordoba and along the coast near Rome.\n\nIt is also harvest month. Bordeaux and Moravia (Brno's wine country) hit their grape-picking finale, with cellar doors busier but friendlier, and pet-friendly courtyards perfect for a slow lunch. Cities feel emptied out and lived-in again, hotel rates drop from peak summer, and the light turns that low, golden hour that makes every piazza and riverbank photograph well with a dog in frame.",
+      "inSeason": [
+        "Ideal walking temps, 17-22C, in Rome, Florence, Cordoba and Bordeaux",
+        "Mediterranean beaches reopen to dogs from 1 October",
+        "Wine harvest finale in Bordeaux and Moravia (Brno)",
+        "Golden leaf season in Vienna's parks, thinner crowds everywhere"
+      ],
+      "headsUp": "Daylight shortens fast this month and first rains can arrive in Vienna and Brno, so plan afternoon walks and pack a light rain layer for your dog."
+    },
+    "fr": {
+      "intro": "Octobre est le mois idéal pour cet itinéraire. Les températures se stabilisent entre 17 et 22C à Rome, Florence, Cordoue et Bordeaux, exactement la plage où votre chien peut marcher des heures sans haleter, et les foules de l'été sont reparties. Vienne et Brno se parent d'or, dans les parcs comme dans les vignes, tandis que l'interdiction des chiens sur les plages méditerranéennes est levée au 1er octobre : votre compagnon est de nouveau le bienvenu sur le sable à Cordoue et sur le littoral près de Rome.\n\nC'est aussi le mois des vendanges. Bordeaux et la Moravie (région viticole de Brno) vivent leur dernière ligne droite de récolte, avec des chais plus animés mais tout aussi accueillants, et des terrasses admettant les chiens, parfaites pour un déjeuner tranquille. Les villes retrouvent leur rythme de vie authentique, les tarifs hôteliers baissent après le pic estival, et la lumière prend cette teinte dorée et rasante qui sublime chaque place et chaque bord de rivière avec votre chien dans le cadre.",
+      "inSeason": [
+        "Températures idéales pour marcher, 17-22C, à Rome, Florence, Cordoue et Bordeaux",
+        "Les plages méditerranéennes rouvrent aux chiens dès le 1er octobre",
+        "Dernière ligne droite des vendanges à Bordeaux et en Moravie (Brno)",
+        "Feuillages dorés dans les parcs de Vienne, affluence en nette baisse partout"
+      ],
+      "headsUp": "Les jours raccourcissent vite ce mois-ci et les premières pluies peuvent arriver à Vienne et Brno : prévoyez vos balades l'après-midi et emportez un imperméable léger pour votre chien."
+    },
+    "es": {
+      "intro": "Octubre es el mes ideal para esta ruta. Las temperaturas se estabilizan entre 17 y 22C en Roma, Florencia, Córdoba y Burdeos, justo el rango en el que un perro puede caminar horas sin jadear, y las multitudes del verano ya se han ido. Viena y Brno se visten de dorado, tanto en sus parques como en sus viñedos, mientras que la prohibición de perros en las playas mediterráneas se levanta el 1 de octubre, así que su perro vuelve a ser bienvenido en la arena de Córdoba y en la costa cercana a Roma.\n\nTambién es el mes de la vendimia. Burdeos y Moravia (la región vinícola de Brno) viven el tramo final de la cosecha, con bodegas más animadas pero igual de acogedoras, y terrazas pet-friendly perfectas para un almuerzo sin prisas. Las ciudades recuperan su ritmo auténtico, los precios de los hoteles bajan tras el pico estival, y la luz adquiere ese tono dorado y rasante que hace que cada plaza y cada orilla de río luzcan de maravilla con su perro en la foto.",
+      "inSeason": [
+        "Temperaturas ideales para pasear, 17-22C, en Roma, Florencia, Córdoba y Burdeos",
+        "Las playas mediterráneas vuelven a admitir perros desde el 1 de octubre",
+        "Tramo final de la vendimia en Burdeos y Moravia (Brno)",
+        "Follaje dorado en los parques de Viena, menos afluencia en todas partes"
+      ],
+      "headsUp": "Los días se acortan rápido este mes y las primeras lluvias pueden llegar a Viena y Brno, así que planifique los paseos por la tarde y lleve un impermeable ligero para su perro."
+    },
+    "pt": {
+      "intro": "Outubro é o mês ideal para este roteiro. As temperaturas estabilizam entre 17 e 22C em Roma, Florença, Córdoba e Bordéus, exatamente a faixa em que um cão consegue caminhar horas sem ofegar, e as multidões do verão já foram embora. Viena e Brno ganham tons dourados, tanto nos parques quanto nas vinhas, enquanto a proibição de cães nas praias do Mediterrâneo termina em 1 de outubro, então o seu cão volta a ser bem-vindo na areia de Córdoba e no litoral perto de Roma.\n\nTambém é o mês das vindimas. Bordéus e a Morávia (região vinícola de Brno) vivem a reta final da colheita, com adegas mais movimentadas mas igualmente acolhedoras, e esplanadas pet-friendly perfeitas para um almoço sem pressa. As cidades recuperam o seu ritmo autêntico, os preços dos hotéis baixam depois do pico do verão, e a luz ganha aquele tom dourado e rasante que valoriza cada praça e cada margem de rio com o seu cão na fotografia.",
+      "inSeason": [
+        "Temperaturas ideais para passear, 17-22C, em Roma, Florença, Córdoba e Bordéus",
+        "As praias do Mediterrâneo voltam a admitir cães a partir de 1 de outubro",
+        "Reta final das vindimas em Bordéus e na Morávia (Brno)",
+        "Folhagem dourada nos parques de Viena, menos multidões em todo o lado"
+      ],
+      "headsUp": "Os dias encurtam depressa este mês e as primeiras chuvas podem chegar a Viena e Brno, por isso planeie os passeios à tarde e leve uma capa de chuva leve para o seu cão."
+    },
+    "de": {
+      "intro": "Oktober ist der ideale Monat für diese Route. Die Temperaturen pendeln sich in Rom, Florenz, Córdoba und Bordeaux zwischen angenehmen 17 und 22C ein, genau der Bereich, in dem ein Hund stundenlang laufen kann, ohne zu hecheln, und die Sommermassen sind bereits abgereist. Wien und Brno zeigen sich golden, sowohl in den Parks als auch in den Weinbergen, während das Hundeverbot an den Mittelmeerstränden am 1. Oktober endet, sodass Ihr Hund in Córdoba und an der Küste bei Rom wieder willkommen ist.\n\nEs ist auch der Monat der Weinlese. Bordeaux und Mähren (Brnos Weinregion) erleben den Abschluss der Ernte, mit belebteren, aber ebenso einladenden Weingütern und hundefreundlichen Innenhöfen für ein entspanntes Mittagessen. Die Städte wirken wieder leerer und authentischer, die Hotelpreise sinken nach der Sommersaison, und das Licht nimmt jenen tiefen, goldenen Ton an, der jeden Platz und jedes Flussufer mit Ihrem Hund im Bild wunderschön erscheinen lässt.",
+      "inSeason": [
+        "Ideale Wandertemperaturen, 17-22C, in Rom, Florenz, Córdoba und Bordeaux",
+        "Mittelmeerstrände sind ab dem 1. Oktober wieder für Hunde geöffnet",
+        "Abschluss der Weinlese in Bordeaux und Mähren (Brno)",
+        "Goldene Laubfärbung in Wiens Parks, überall deutlich weniger Andrang"
+      ],
+      "headsUp": "Die Tage werden diesen Monat schnell kürzer, und in Wien und Brno können die ersten Regenfälle einsetzen. Planen Sie Ihre Spaziergänge daher eher nachmittags und packen Sie einen leichten Regenmantel für Ihren Hund ein."
+    }
+  },
+  "november": {
+    "en": {
+      "intro": "November is when dog-friendly Europe quietly gets good again. The crowds are gone, prices sit at their annual low, and the south is mild enough for a dog to walk all afternoon without panting: Lecce, Malaga, Lisbon, Seville, Palma and Thessaloniki all hover in a comfortable 14 to 22°C, with Seville the mildest of the big cities at around 20°C.\n\nThe Mediterranean dog-beach ban lifts in autumn, so the year-round dog beaches at Pedregalejo in Malaga, Es Carnatge in Palma and Punta Prosciutto in Salento are empty and yours to share with a handful of locals. Salento in particular runs at roughly half its August price, and the southern Med and Iberia stay comfortable for dogs even as the rest of the continent turns cold.",
+      "inSeason": [
+        "Empty year-round dog beaches: Pedregalejo, Es Carnatge, Punta Prosciutto",
+        "Southern Med and Iberia comfortable for dogs at 14 to 20°C",
+        "Annual-low prices, especially Salento at half its August rate",
+        "Seville the mildest big city, around 20°C"
+      ],
+      "headsUp": "Days are short and rain can move in fast, so keep your base in the mild south rather than further north or inland."
+    },
+    "fr": {
+      "intro": "En novembre, l'Europe pet-friendly redevient discrètement agréable. Les foules ont disparu, les prix touchent leur plus bas niveau de l'année, et le sud reste assez doux pour promener un chien tout l'après-midi sans qu'il halète : Lecce, Malaga, Lisbonne, Séville, Palma et Thessalonique oscillent toutes entre 14 et 22°C, Séville étant la plus douce des grandes villes avec environ 20°C.\n\nL'interdiction des plages pour chiens en Méditerranée est levée à l'automne, donc les plages canines ouvertes toute l'année, comme Pedregalejo à Malaga, Es Carnatge à Palma et Punta Prosciutto dans le Salento, sont vides et à partager avec une poignée de riverains. Le Salento tourne à moitié prix par rapport à août, et le sud de la Méditerranée comme la péninsule ibérique restent confortables pour les chiens, même quand le reste du continent bascule dans le froid.",
+      "inSeason": [
+        "Plages canines vides toute l'année : Pedregalejo, Es Carnatge, Punta Prosciutto",
+        "Sud de la Méditerranée et péninsule ibérique confortables pour les chiens, 14 à 20°C",
+        "Prix au plus bas de l'année, le Salento à moitié prix par rapport à août",
+        "Séville, la grande ville la plus douce, environ 20°C"
+      ],
+      "headsUp": "Les journées sont courtes et la pluie peut arriver vite : préférez une base côté sud plutôt que plus au nord ou à l'intérieur des terres."
+    },
+    "es": {
+      "intro": "En noviembre, la Europa dog-friendly vuelve a ser interesante sin que nadie se dé cuenta. Las multitudes desaparecen, los precios tocan su mínimo anual, y el sur está lo bastante templado para pasear al perro toda la tarde sin que jadee: Lecce, Málaga, Lisboa, Sevilla, Palma y Salónica se mueven entre 14 y 22°C, siendo Sevilla la más templada de las grandes ciudades, alrededor de 20°C.\n\nLa prohibición de perros en las playas del Mediterráneo se levanta en otoño, así que las playas caninas abiertas todo el año, como Pedregalejo en Málaga, Es Carnatge en Palma y Punta Prosciutto en el Salento, están vacías y se comparten con unos pocos vecinos. El Salento cuesta más o menos la mitad que en agosto, y tanto el sur del Mediterráneo como la península ibérica siguen siendo cómodos para los perros, incluso cuando el resto del continente se enfría.",
+      "inSeason": [
+        "Playas caninas vacías todo el año: Pedregalejo, Es Carnatge, Punta Prosciutto",
+        "Sur del Mediterráneo y península ibérica cómodos para perros, 14 a 20°C",
+        "Precios en su mínimo del año, el Salento a mitad de precio que en agosto",
+        "Sevilla, la gran ciudad más templada, alrededor de 20°C"
+      ],
+      "headsUp": "Los días son cortos y la lluvia puede llegar rápido, así que conviene quedarse en el sur templado en lugar de ir más al norte o al interior."
+    },
+    "pt": {
+      "intro": "Em novembro, a Europa dog-friendly volta a ficar boa sem que ninguém repare. As multidões desaparecem, os preços atingem o mínimo do ano, e o sul continua ameno o suficiente para passear o cão a tarde toda sem que ele ofegue: Lecce, Málaga, Lisboa, Sevilha, Palma e Salónica ficam entre 14 e 22°C, sendo Sevilha a mais amena das grandes cidades, por volta de 20°C.\n\nA proibição de cães nas praias do Mediterrâneo termina no outono, por isso as praias caninas abertas o ano inteiro, como Pedregalejo em Málaga, Es Carnatge em Palma e Punta Prosciutto no Salento, ficam vazias e são partilhadas apenas com alguns moradores. O Salento custa cerca de metade do preço de agosto, e tanto o sul do Mediterrâneo como a península ibérica continuam confortáveis para os cães, mesmo quando o resto do continente arrefece.",
+      "inSeason": [
+        "Praias caninas vazias o ano inteiro: Pedregalejo, Es Carnatge, Punta Prosciutto",
+        "Sul do Mediterrâneo e península ibérica confortáveis para cães, 14 a 20°C",
+        "Preços no mínimo do ano, Salento a metade do preço de agosto",
+        "Sevilha, a grande cidade mais amena, por volta de 20°C"
+      ],
+      "headsUp": "Os dias são curtos e a chuva pode chegar depressa, por isso vale ficar na região amena do sul em vez de seguir mais para norte ou para o interior."
+    },
+    "de": {
+      "intro": "Im November wird das hundefreundliche Europa still und leise wieder attraktiv. Die Menschenmassen sind weg, die Preise erreichen ihren Jahrestiefstand, und der Süden bleibt mild genug, um mit dem Hund den ganzen Nachmittag spazieren zu gehen, ohne dass er hechelt: Lecce, Málaga, Lissabon, Sevilla, Palma und Thessaloniki liegen alle zwischen angenehmen 14 und 22°C, wobei Sevilla mit rund 20°C die mildeste unter den großen Städten ist.\n\nDas Hundestrand-Verbot am Mittelmeer endet im Herbst, sodass die ganzjährig geöffneten Hundestrände wie Pedregalejo in Málaga, Es Carnatge in Palma und Punta Prosciutto im Salento leer sind und man sie sich nur mit wenigen Einheimischen teilt. Das Salento kostet etwa die Hälfte des Augustpreises, und sowohl der südliche Mittelmeerraum als auch die Iberische Halbinsel bleiben für Hunde angenehm, während der Rest des Kontinents bereits in die Kälte rutscht.",
+      "inSeason": [
+        "Ganzjährig leere Hundestrände: Pedregalejo, Es Carnatge, Punta Prosciutto",
+        "Südlicher Mittelmeerraum und Iberische Halbinsel angenehm für Hunde, 14 bis 20°C",
+        "Jahrestiefstpreise, das Salento zum halben Augustpreis",
+        "Sevilla als mildeste Großstadt, rund 20°C"
+      ],
+      "headsUp": "Die Tage sind kurz, und Regen kann schnell aufziehen. Bleiben Sie daher lieber im milden Süden statt weiter nördlich oder im Landesinneren."
+    }
+  },
+  "december": {
+    "en": {
+      "intro": "December in these six cities means Christmas markets and mulled wine. Vienna, Strasbourg, Cologne, Prague and Budapest fill their squares with stalls, and most welcome leashed dogs wandering between them.\n\nReykjavik plays a different game this month: the shortest daylight of the year, around 4 hours, and peak conditions for the Northern Lights. Pick your city based on what you want, festive markets with your dog at your side, or dark skies and aurora hunting.",
+      "inSeason": [
+        "Christmas markets in Vienna, Strasbourg, Cologne, Prague and Budapest",
+        "Strasbourg's Christkindelsmarik, running since 1570",
+        "Cologne's seven markets across the old town",
+        "Peak Northern Lights season in Reykjavik"
+      ],
+      "headsUp": "Cold across the board and daylight as short as 4 hours in Reykjavik, pack your dog's coat and boots along with a warm layer for yourself."
+    },
+    "fr": {
+      "intro": "En décembre, ces six villes vivent au rythme des marchés de Noël et du vin chaud. Vienne, Strasbourg, Cologne, Prague et Budapest remplissent leurs places de chalets, et la plupart accueillent les chiens tenus en laisse entre les stands.\n\nReykjavik joue une autre carte ce mois-ci : la journée la plus courte de l'année, environ 4 heures de lumière, et la meilleure période pour observer les aurores boréales. Choisissez votre ville selon vos envies : marchés festifs avec votre chien à vos côtés, ou ciel sombre et chasse aux aurores.",
+      "inSeason": [
+        "Marchés de Noël à Vienne, Strasbourg, Cologne, Prague et Budapest",
+        "Le Christkindelsmarik de Strasbourg, ouvert depuis 1570",
+        "Les sept marchés de Cologne dans la vieille ville",
+        "Meilleure période de l'année pour les aurores boréales à Reykjavik"
+      ],
+      "headsUp": "Froid généralisé et seulement 4 heures de lumière à Reykjavik : prévoyez manteau et bottines pour votre chien, ainsi qu'une couche chaude pour vous."
+    },
+    "es": {
+      "intro": "En diciembre, estas seis ciudades viven al ritmo de los mercados navideños y el vino caliente. Viena, Estrasburgo, Colonia, Praga y Budapest llenan sus plazas de casetas, y la mayoría admite perros con correa entre los puestos.\n\nReikiavik juega otra carta este mes: el día más corto del año, unas 4 horas de luz, y el mejor momento para ver la aurora boreal. Elija su ciudad según lo que busque, mercados festivos con su perro a su lado, o cielos oscuros y caza de auroras.",
+      "inSeason": [
+        "Mercados navideños en Viena, Estrasburgo, Colonia, Praga y Budapest",
+        "El Christkindelsmarik de Estrasburgo, abierto desde 1570",
+        "Los siete mercados de Colonia en el casco antiguo",
+        "Mejor época del año para la aurora boreal en Reikiavik"
+      ],
+      "headsUp": "Frío generalizado y solo 4 horas de luz en Reikiavik: lleve abrigo y botas para su perro, además de una capa de abrigo para usted."
+    },
+    "pt": {
+      "intro": "Em dezembro, estas seis cidades vivem ao ritmo dos mercados de Natal e do vinho quente. Viena, Estrasburgo, Colónia, Praga e Budapeste enchem as suas praças de barracas, e a maioria recebe cães com trela entre as bancas.\n\nReiquiavique joga outra cartada este mês: o dia mais curto do ano, cerca de 4 horas de luz, e a melhor época para ver a aurora boreal. Escolha a sua cidade consoante o que procura, mercados festivos com o seu cão ao lado, ou céus escuros e caça às auroras.",
+      "inSeason": [
+        "Mercados de Natal em Viena, Estrasburgo, Colónia, Praga e Budapeste",
+        "O Christkindelsmarik de Estrasburgo, aberto desde 1570",
+        "Os sete mercados de Colónia no centro histórico",
+        "Melhor época do ano para a aurora boreal em Reiquiavique"
+      ],
+      "headsUp": "Frio generalizado e apenas 4 horas de luz em Reiquiavique: leve casaco e botas para o seu cão, além de uma camada quente para si."
+    },
+    "de": {
+      "intro": "Im Dezember stehen diese sechs Städte ganz im Zeichen von Weihnachtsmärkten und Glühwein. Wien, Straßburg, Köln, Prag und Budapest füllen ihre Plätze mit Ständen, und die meisten heißen angeleinte Hunde zwischen den Buden willkommen.\n\nReykjavik spielt diesen Monat eine andere Karte: der kürzeste Tag des Jahres, nur etwa 4 Stunden Licht, und die beste Zeit für Nordlichter. Wählen Sie Ihre Stadt je nach Wunsch, festliche Märkte mit Ihrem Hund an Ihrer Seite, oder dunkle Himmel und Nordlichtjagd.",
+      "inSeason": [
+        "Weihnachtsmärkte in Wien, Straßburg, Köln, Prag und Budapest",
+        "Der Straßburger Christkindelsmarik, seit 1570 geöffnet",
+        "Kölns sieben Märkte in der Altstadt",
+        "Beste Jahreszeit für Nordlichter in Reykjavik"
+      ],
+      "headsUp": "Verbreitete Kälte und nur 4 Stunden Licht in Reykjavik: Packen Sie Mantel und Stiefel für Ihren Hund sowie eine warme Schicht für sich selbst ein."
+    }
+  }
+}

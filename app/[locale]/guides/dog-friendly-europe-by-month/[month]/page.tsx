@@ -9,6 +9,7 @@ import { getLocalizedCityName } from '@/lib/cityNames'
 import { getLocalizedCountryName } from '@/lib/countries'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
+import seasonalByMonth from '@/data/seasonalByMonth.json'
 import Stay22Map from '@/components/Stay22Map'
 import NearbyHotelCard from '@/components/NearbyHotelCard'
 import StickyHotelCTA from '@/components/StickyHotelCTA'
@@ -153,9 +154,27 @@ function climateScore(temp: number): number {
   return 20
 }
 
+// Year-aware slug: "january" (evergreen, current year) or "january-2027". We
+// publish the current planning year plus next year so travellers booking 6-12
+// months ahead (a real pattern in our Stay22 data, e.g. a July-2027 booking made
+// in 2026) land on a year-specific page instead of a generic evergreen one.
+const PLANNER_YEARS = [2026, 2027] as const
+function parseMonthSlug(slug: string): { m: MonthKey; year: number } | null {
+  const mm = /^([a-z]+)(?:-(\d{4}))?$/.exec(slug)
+  if (!mm) return null
+  const base = mm[1] as MonthKey
+  if (!MONTHS.includes(base)) return null
+  const year = mm[2] ? Number(mm[2]) : 2026
+  if (!(PLANNER_YEARS as readonly number[]).includes(year)) return null
+  return { m: base, year }
+}
+
 export async function generateStaticParams() {
   const out: { locale: string; month: string }[] = []
-  for (const locale of locales) for (const month of MONTHS) out.push({ locale, month })
+  for (const locale of locales) for (const month of MONTHS) {
+    out.push({ locale, month })
+    out.push({ locale, month: `${month}-2027` })
+  }
   return out
 }
 
@@ -169,15 +188,16 @@ const MONTH_NAMES: Record<string, Record<MonthKey, string>> = {
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; month: string }> }): Promise<Metadata> {
   const { locale, month } = await params
-  if (!hasLocale(locale) || !MONTHS.includes(month as MonthKey)) return {}
-  const m = month as MonthKey
+  const parsed = parseMonthSlug(month)
+  if (!hasLocale(locale) || !parsed) return {}
+  const { m, year } = parsed
   const mn = MONTH_NAMES[locale]?.[m] ?? MONTH_NAMES.en[m]
   const titles: Record<string, string> = {
-    en: `Best Dog-Friendly Cities in Europe in ${mn} (2026)`,
-    fr: `Les meilleures villes dog-friendly d'Europe en ${mn} (2026)`,
-    es: `Las mejores ciudades dog-friendly de Europa en ${mn} (2026)`,
-    pt: `As melhores cidades dog-friendly da Europa em ${mn} (2026)`,
-    de: `Die besten hundefreundlichen Städte Europas im ${mn} (2026)`,
+    en: `Best Dog-Friendly Cities in Europe in ${mn} ${year}`,
+    fr: `Les meilleures villes dog-friendly d'Europe en ${mn} ${year}`,
+    es: `Las mejores ciudades dog-friendly de Europa en ${mn} ${year}`,
+    pt: `As melhores cidades dog-friendly da Europa em ${mn} ${year}`,
+    de: `Die besten hundefreundlichen Städte Europas im ${mn} ${year}`,
   }
   const descs: Record<string, string> = {
     en: `Where to travel in Europe with a dog or cat in ${mn}. 6 hand-picked destinations with current weather, dog-beach openings, festival warnings and pet-friendly hotel inventory.`,
@@ -212,7 +232,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 
 const COPY = {
   en: {
-    kicker: (m: string) => `EUROPE BY MONTH · ${m.toUpperCase()} 2026`,
+    kicker: (m: string, y: number = 2026) => `EUROPE BY MONTH · ${m.toUpperCase()} ${y}`,
     h1: (m: string) => `Best European Cities for a Dog Trip in ${m}`,
     lede: (m: string) => `Where to actually go with a dog or cat in ${m}. We score every city in our 100-destination dataset against the month's average temperature, dog-beach openings, public-transport rules and seasonal festival risks, then layer the curator's picks on top.`,
     rankingTitle: (m: string) => `Our 6 picks for ${m}`,
@@ -240,7 +260,7 @@ const COPY = {
     ctaButton: 'Browse all destinations →',
   },
   fr: {
-    kicker: (m: string) => `L'EUROPE PAR MOIS · ${m.toUpperCase()} 2026`,
+    kicker: (m: string, y: number = 2026) => `L'EUROPE PAR MOIS · ${m.toUpperCase()} ${y}`,
     h1: (m: string) => `Les meilleures villes européennes pour un voyage canin en ${m}`,
     lede: (m: string) => `Où aller vraiment avec un chien ou un chat en ${m}. Nous notons chaque ville de notre dataset de 100 destinations selon la température moyenne du mois, l'ouverture des plages canines, les règles de transport public et les risques festivaliers, puis ajoutons la sélection éditoriale par-dessus.`,
     rankingTitle: (m: string) => `Nos 6 choix pour ${m}`,
@@ -268,7 +288,7 @@ const COPY = {
     ctaButton: 'Toutes les destinations →',
   },
   es: {
-    kicker: (m: string) => `EUROPA POR MES · ${m.toUpperCase()} 2026`,
+    kicker: (m: string, y: number = 2026) => `EUROPA POR MES · ${m.toUpperCase()} ${y}`,
     h1: (m: string) => `Las mejores ciudades europeas para un viaje canino en ${m}`,
     lede: (m: string) => `Dónde ir realmente con un perro o un gato en ${m}. Puntuamos cada ciudad de nuestro dataset de 100 destinos según la temperatura media del mes, la apertura de playas caninas, las normas de transporte público y los riesgos festivos, luego añadimos la selección editorial encima.`,
     rankingTitle: (m: string) => `Nuestras 6 elecciones para ${m}`,
@@ -296,7 +316,7 @@ const COPY = {
     ctaButton: 'Todos los destinos →',
   },
   de: {
-    kicker: (m: string) => `EUROPA IM MONATSÜBERBLICK · ${m.toUpperCase()} 2026`,
+    kicker: (m: string, y: number = 2026) => `EUROPA IM MONATSÜBERBLICK · ${m.toUpperCase()} ${y}`,
     h1: (m: string) => `Die besten europäischen Städte für eine Hundereise im ${m}`,
     lede: (m: string) => `Wohin es im ${m} tatsächlich mit Hund oder Katze gehen sollte. Wir bewerten jede Stadt in unserem Datensatz von 100 Zielen anhand der Durchschnittstemperatur des Monats, der Öffnungszeiten der Hundestrände, der Regeln für öffentliche Verkehrsmittel und saisonaler Festivalrisiken, und ergänzen das Ganze um die Auswahl der Redaktion.`,
     rankingTitle: (m: string) => `Unsere 6 Empfehlungen für den ${m}`,
@@ -328,10 +348,24 @@ const COPY = {
 export default async function Page({ params }: { params: Promise<{ locale: string; month: string }> }) {
   const { locale, month } = await params
   if (!hasLocale(locale)) notFound()
-  if (!MONTHS.includes(month as MonthKey)) notFound()
-  const m = month as MonthKey
+  const parsed = parseMonthSlug(month)
+  if (!parsed) notFound()
+  const { m, year } = parsed
   const c = COPY[locale as 'en' | 'fr' | 'es' | 'de'] ?? COPY.en
   const mn = MONTH_NAMES[locale]?.[m] ?? MONTH_NAMES.en[m]
+
+  // Month-level seasonal editorial (climate regime, where to go vs avoid, what is
+  // open this month). Data-driven so we can extend without touching the template.
+  const seasonData = (seasonalByMonth as Record<string, Record<string, { intro: string; inSeason: string[]; headsUp: string }>>)[m]
+  const season = seasonData?.[locale] ?? seasonData?.en
+  const SEASON_LABELS: Record<string, { inSeason: string; headsUp: string }> = {
+    en: { inSeason: 'In season this month', headsUp: 'Good to know' },
+    fr: { inSeason: 'De saison ce mois-ci', headsUp: 'Bon à savoir' },
+    es: { inSeason: 'De temporada este mes', headsUp: 'Conviene saber' },
+    pt: { inSeason: 'Da época este mês', headsUp: 'Bom saber' },
+    de: { inSeason: 'Diesen Monat in Saison', headsUp: 'Gut zu wissen' },
+  }
+  const sl = SEASON_LABELS[locale] ?? SEASON_LABELS.en
 
   // Build the picks: prefer curated entries, enrich with destination data + climate score
   const picks = CURATED[m].map((e) => {
@@ -384,12 +418,44 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_30%,rgba(255,255,255,0.1),transparent_60%)]" />
         <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <span className="inline-block bg-white/10 border border-white/20 text-white/80 text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-6">
-            🗓️ {c.kicker(mn)}
+            🗓️ {c.kicker(mn, year)}
           </span>
           <h1 className="text-3xl lg:text-5xl font-extrabold mb-6 leading-tight">{c.h1(mn)}</h1>
           <p className="text-orange-50 text-lg lg:text-xl leading-relaxed max-w-2xl mx-auto">{c.lede(mn)}</p>
         </div>
       </section>
+
+      {/* Month-level seasonal overview */}
+      {season && (
+        <section className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
+          <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6 sm:p-8">
+            <div className="space-y-4 text-gray-700 leading-relaxed">
+              {season.intro.split('\n\n').map((p, i) => (
+                <p key={i} className={i === 0 ? 'text-lg text-gray-800' : ''}>{p}</p>
+              ))}
+            </div>
+            {Array.isArray(season.inSeason) && season.inSeason.length > 0 && (
+              <div className="mt-6">
+                <p className="text-xs font-bold uppercase tracking-widest text-orange-700 mb-3">{sl.inSeason}</p>
+                <ul className="grid sm:grid-cols-2 gap-2">
+                  {season.inSeason.map((it, i) => (
+                    <li key={i} className="flex items-start gap-2 text-sm text-gray-700">
+                      <span className="text-orange-500 mt-0.5">✓</span>
+                      <span>{it}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+            {season.headsUp && (
+              <div className="mt-6 flex items-start gap-3 rounded-xl bg-amber-50 border border-amber-100 p-4">
+                <span className="text-lg">⚠️</span>
+                <p className="text-sm text-amber-900"><span className="font-semibold">{sl.headsUp}: </span>{season.headsUp}</p>
+              </div>
+            )}
+          </div>
+        </section>
+      )}
 
       {/* Month picker (top, right under hero) */}
       <section className="py-6 bg-white border-b border-gray-100 sticky top-0 z-20 shadow-sm">

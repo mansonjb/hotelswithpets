@@ -7,7 +7,6 @@ import type { Metadata } from 'next'
 import { getDictionary, hasLocale, type Locale } from '@/app/[locale]/dictionaries'
 import HotelCard from '@/components/HotelCard'
 import PetMap from '@/components/PetMap'
-import CarRentalWidget from '@/components/CarRentalWidget'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
@@ -596,14 +595,6 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
           </div>
         </div>
       )}
-
-      {/* Car-rental search widget (GetRentacar via Travelpayouts). Replaces the
-          flight widget, which drove thousands of clicks but zero bookings: this
-          audience drives rather than flies with a pet. */}
-      <CarRentalWidget
-        locale={locale}
-        cityName={localizedName}
-      />
 
       {/* ── Rich city content (history + sights + tips) ── */}
       {cityContent[slug] && (() => {

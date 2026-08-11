@@ -5,7 +5,7 @@ import { getDictionary, hasLocale, type Locale } from '@/app/[locale]/dictionari
 import HotelRankedCard from '@/components/HotelRankedCard'
 import PetMap from '@/components/PetMap'
 import { valueSort } from '@/lib/hotelSort'
-import TravelpayoutsFlightWidget from '@/components/TravelpayoutsFlightWidget'
+import CarRentalWidget from '@/components/CarRentalWidget'
 import { generateIntro, generateFaqs, generateTips, generateWhy } from '@/lib/editorial'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
@@ -494,9 +494,10 @@ export default async function ComboPage({
                 )}
               </section>
 
-              {/* Flight + hotel search widget (Travelpayouts), pre-filled with this destination's IATA */}
-              <TravelpayoutsFlightWidget
-                destinationIATA={(dest as typeof dest & { iata?: string }).iata}
+              {/* Car-rental search widget (GetRentacar via Travelpayouts). Replaces
+                  the flight widget (thousands of clicks, zero bookings): this
+                  audience drives rather than flies with a pet. */}
+              <CarRentalWidget
                 locale={locale}
                 cityName={localizedDest}
               />

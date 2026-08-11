@@ -8,7 +8,6 @@ import { getDictionary, hasLocale, type Locale } from '@/app/[locale]/dictionari
 import HotelCard from '@/components/HotelCard'
 import PetMap from '@/components/PetMap'
 import CarRentalWidget from '@/components/CarRentalWidget'
-import TiqetsActivityWidget from '@/components/TiqetsActivityWidget'
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
@@ -647,17 +646,6 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                   </div>
                 ))}
               </div>
-
-              {/* Tiqets top-rated activities widget (only renders if we have a Tiqets city ID) */}
-              {(dest as typeof dest & { tiqetsId?: string }).tiqetsId && (
-                <div className="mb-12 -mx-4 sm:-mx-6 lg:-mx-8">
-                  <TiqetsActivityWidget
-                    tiqetsCityId={(dest as typeof dest & { tiqetsId: string }).tiqetsId}
-                    locale={locale}
-                    cityName={localizedName}
-                  />
-                </div>
-              )}
 
               {/* Pet tips + Practical side by side */}
               <div className="grid md:grid-cols-2 gap-8">

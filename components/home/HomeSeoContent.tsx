@@ -29,7 +29,7 @@ const CITY_SLUGS = ['paris', 'barcelona', 'amsterdam', 'rome', 'berlin', 'vienna
 
 const COPY: Record<string, Copy> = {
   en: {
-    heading: 'Dog-friendly hotels, explained',
+    heading: 'Pet-friendly and dog-friendly hotels, explained',
     intro:
       'Beyond individual listings, here is the bigger picture on travelling with a dog in Europe: how we check a hotel actually welcomes dogs, what fees to expect, where dogs are genuinely welcome, and how to get there.',
     sections: [

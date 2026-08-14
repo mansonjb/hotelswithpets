@@ -245,8 +245,8 @@ const META_TPL: Record<string, Record<'en' | 'fr' | 'es' | 'pt' | 'de', { title:
   },
   beaches: {
     en: { title: c => `Dog-friendly beaches near ${c}: seasonal rules & access`, desc: c => `Beaches that accept dogs near ${c}: year-round zones, seasonal restrictions, transport from the city centre. Picked for travellers, verified locally.` },
-    fr: { title: c => `Plages canines près de ${c} : règles saisonnières & accès`, desc: c => `Plages acceptant les chiens près de ${c} : zones toute l'année, restrictions saisonnières, accès depuis le centre. Sélectionné pour voyageurs, vérifié sur place.` },
-    es: { title: c => `Playas caninas cerca de ${c}: normas estacionales y acceso`, desc: c => `Playas que admiten perros cerca de ${c}: zonas todo el año, restricciones estacionales, transporte desde el centro. Seleccionado para viajeros.` },
+    fr: { title: c => `Plages pour chiens à ${c} : règles, zones & accès`, desc: c => `Plages acceptant les chiens à ${c} : zones toute l'année, restrictions saisonnières, accès depuis le centre. Sélectionné pour voyageurs, vérifié sur place.` },
+    es: { title: c => `Playas para perros en ${c}: normas, zonas y acceso`, desc: c => `Playas que admiten perros en ${c}: zonas todo el año, restricciones estacionales, transporte desde el centro. Seleccionado para viajeros, verificado sobre el terreno.` },
     pt: { title: c => `Praias caninas perto de ${c}: regras sazonais e acesso`, desc: c => `Praias que aceitam cães perto de ${c}: zonas o ano inteiro, restrições sazonais, transporte a partir do centro. Selecionado para viajantes.` },
     de: { title: c => `Hundestrände bei ${c}: saisonale Regeln & Zugang`, desc: c => `Strände bei ${c}, die Hunde erlauben: ganzjährige Zonen, saisonale Einschränkungen, Transport ab der Innenstadt. Ausgewählt für Reisende, vor Ort geprüft.` },
   },

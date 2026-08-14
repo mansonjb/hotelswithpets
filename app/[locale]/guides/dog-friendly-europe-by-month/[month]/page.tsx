@@ -139,6 +139,8 @@ const CURATED: Record<MonthKey, Array<{ slug: string; en: string; fr: string; es
     { slug: 'prague', en: 'The Old Town Square Christmas market with leashed dogs on the cobbles, Stromovka and Petřín hills snow-dusted, Czech beer halls dog-friendly all winter.', fr: 'Marché de Noël de la place de la Vieille Ville avec chiens en laisse sur les pavés, Stromovka et Petřín saupoudrés de neige, brasseries tchèques dog-friendly tout l\'hiver.', es: 'Mercado navideño de la Plaza de la Ciudad Vieja con perros con correa en el adoquinado, Stromovka y Petřín espolvoreados de nieve, cervecerías checas dog-friendly todo el invierno.', de: `Der Weihnachtsmarkt am Altstädter Ring mit Hunden an der Leine auf dem Kopfsteinpflaster, Stromovka und der Petřín-Hügel leicht verschneit, tschechische Bierhallen sind den ganzen Winter über hundefreundlich.` },
     { slug: 'reykjavik', en: 'The shortest daylight (4 h) but the strongest Northern Lights season, the Tjörnin freezes for skating, dogs welcomed on the city centre paths.', fr: 'Lumière la plus courte (4h) mais saison la plus forte des aurores boréales, Tjörnin gèle pour le patinage, chiens bienvenus sur les sentiers du centre-ville.', es: 'La luz más corta (4 h) pero la temporada más fuerte de auroras boreales, Tjörnin se congela para patinar, perros bienvenidos en los senderos del centro.', de: `Das kürzeste Tageslicht (4 Std.), aber die stärkste Nordlicht-Saison, der Tjörnin-See friert zum Schlittschuhlaufen zu, Hunde sind auf den Wegen der Innenstadt willkommen.` },
     { slug: 'budapest', en: '4 °C, the Andrássy avenue Christmas markets, the thermal baths (assistance dogs only inside) but the surrounding Városliget at peak winter walks.', fr: '4 °C, marchés de Noël de l\'avenue Andrássy, bains thermaux (chiens d\'assistance à l\'intérieur) mais le Városliget environnant pour les promenades hivernales au top.', es: '4 °C, mercados navideños de la avenida Andrássy, baños termales (perros de asistencia dentro) pero el Városliget circundante para los paseos invernales óptimos.', de: `4 °C, die Weihnachtsmärkte an der Andrássy-Allee, die Thermalbäder (drinnen nur Assistenzhunde), doch der umliegende Városliget-Park bietet die besten Winterspaziergänge.` },
+    { slug: 'gothenburg', en: '2 °C, Christmas searches doubled year-on-year: skip Liseberg (no dogs) for the Haga district wooden-house market and the Kronhusbodarna artillery courtyard, trams free for leashed dogs.', fr: '2 °C, recherches Noël doublées en un an : oubliez Liseberg (chiens interdits) pour le marché du quartier en bois de Haga et la cour d\'artillerie de Kronhusbodarna, trams gratuits pour chiens en laisse.', es: '2 °C, búsquedas navideñas duplicadas en un año: salta Liseberg (sin perros) por el mercado del barrio de madera de Haga y el patio de artillería de Kronhusbodarna, tranvías gratis para perros con correa.', de: `2 °C, Weihnachtssuchen binnen eines Jahres verdoppelt: Lassen Sie Liseberg (keine Hunde) aus und besuchen Sie den Markt im Holzhausviertel Haga und den Artilleriehof Kronhusbodarna, Straßenbahnen kostenlos für angeleinte Hunde.` },
+    { slug: 'poznan', en: '1 °C, Christmas searches doubled: the Betlejem Poznańskie market on the Renaissance Old Market Square (Stary Rynek), the Town Hall billy goats at noon, ice sculptures, the lowest prices on this list, trams free for leashed dogs.', fr: '1 °C, recherches Noël doublées : le marché Betlejem Poznańskie sur la place Renaissance du Vieux Marché (Stary Rynek), les boucs mécaniques de l\'hôtel de ville à midi, sculptures de glace, les prix les plus bas de la liste, trams gratuits pour chiens en laisse.', es: '1 °C, búsquedas navideñas duplicadas: el mercado Betlejem Poznańskie en la plaza renacentista del Mercado Viejo (Stary Rynek), las cabras del ayuntamiento a mediodía, esculturas de hielo, los precios más bajos de la lista, tranvías gratis para perros con correa.', de: `1 °C, Weihnachtssuchen verdoppelt: der Markt Betlejem Poznańskie am Renaissance-Altmarkt (Stary Rynek), die Ziegenböcke am Rathaus zur Mittagszeit, Eisskulpturen, die niedrigsten Preise dieser Liste, Straßenbahnen kostenlos für angeleinte Hunde.` },
   ],
 }
 
@@ -235,7 +237,7 @@ const COPY = {
     kicker: (m: string, y: number = 2026) => `EUROPE BY MONTH · ${m.toUpperCase()} ${y}`,
     h1: (m: string) => `Best European Cities for a Dog Trip in ${m}`,
     lede: (m: string) => `Where to actually go with a dog or cat in ${m}. We score every city in our 100-destination dataset against the month's average temperature, dog-beach openings, public-transport rules and seasonal festival risks, then layer the curator's picks on top.`,
-    rankingTitle: (m: string) => `Our 6 picks for ${m}`,
+    rankingTitle: (m: string, n = 6) => `Our ${n} picks for ${m}`,
     weatherLabel: 'Avg high',
     hotelsLabel: 'pet-friendly hotels',
     guideLink: 'Full city guide →',
@@ -263,7 +265,7 @@ const COPY = {
     kicker: (m: string, y: number = 2026) => `L'EUROPE PAR MOIS · ${m.toUpperCase()} ${y}`,
     h1: (m: string) => `Les meilleures villes européennes pour un voyage canin en ${m}`,
     lede: (m: string) => `Où aller vraiment avec un chien ou un chat en ${m}. Nous notons chaque ville de notre dataset de 100 destinations selon la température moyenne du mois, l'ouverture des plages canines, les règles de transport public et les risques festivaliers, puis ajoutons la sélection éditoriale par-dessus.`,
-    rankingTitle: (m: string) => `Nos 6 choix pour ${m}`,
+    rankingTitle: (m: string, n = 6) => `Nos ${n} choix pour ${m}`,
     weatherLabel: 'Max moyen',
     hotelsLabel: 'hôtels pet-friendly',
     guideLink: 'Guide complet →',
@@ -291,7 +293,7 @@ const COPY = {
     kicker: (m: string, y: number = 2026) => `EUROPA POR MES · ${m.toUpperCase()} ${y}`,
     h1: (m: string) => `Las mejores ciudades europeas para un viaje canino en ${m}`,
     lede: (m: string) => `Dónde ir realmente con un perro o un gato en ${m}. Puntuamos cada ciudad de nuestro dataset de 100 destinos según la temperatura media del mes, la apertura de playas caninas, las normas de transporte público y los riesgos festivos, luego añadimos la selección editorial encima.`,
-    rankingTitle: (m: string) => `Nuestras 6 elecciones para ${m}`,
+    rankingTitle: (m: string, n = 6) => `Nuestras ${n} elecciones para ${m}`,
     weatherLabel: 'Máx media',
     hotelsLabel: 'hoteles pet-friendly',
     guideLink: 'Guía completa →',
@@ -319,7 +321,7 @@ const COPY = {
     kicker: (m: string, y: number = 2026) => `EUROPA IM MONATSÜBERBLICK · ${m.toUpperCase()} ${y}`,
     h1: (m: string) => `Die besten europäischen Städte für eine Hundereise im ${m}`,
     lede: (m: string) => `Wohin es im ${m} tatsächlich mit Hund oder Katze gehen sollte. Wir bewerten jede Stadt in unserem Datensatz von 100 Zielen anhand der Durchschnittstemperatur des Monats, der Öffnungszeiten der Hundestrände, der Regeln für öffentliche Verkehrsmittel und saisonaler Festivalrisiken, und ergänzen das Ganze um die Auswahl der Redaktion.`,
-    rankingTitle: (m: string) => `Unsere 6 Empfehlungen für den ${m}`,
+    rankingTitle: (m: string, n = 6) => `Unsere ${n} Empfehlungen für den ${m}`,
     weatherLabel: 'Höchstwert im Schnitt',
     hotelsLabel: 'tierfreundliche Hotels',
     guideLink: 'Vollständiger Stadtführer →',
@@ -482,7 +484,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* Picks */}
       <section className="py-16 bg-gray-50">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-10 text-center">{c.rankingTitle(mn)}</h2>
+          <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-10 text-center">{c.rankingTitle(mn, picks.length)}</h2>
           <div className="space-y-6">
             {picks.map((p, i) => {
               const localName = getLocalizedCityName(p.dest.slug, p.dest.name, locale)

@@ -921,6 +921,7 @@ export default async function GuideDetailPage({
                 const rulesText = getPlaceField(place, 'rules', locale)
                 const admissionFee = getPlaceField(place, 'admissionFee', locale)
                 const serviceType = getPlaceField(place, 'serviceType', locale)
+                const seasonText = getPlaceField(place, 'season', locale)
 
                 const localizedName = localizePlaceName(place, locale)
                 // Tip cards are concept entries (Currency & cost, Best season…), not real
@@ -1068,9 +1069,9 @@ export default async function GuideDetailPage({
                             📞 {place.phone}
                           </a>
                         )}
-                        {place.season && (
+                        {seasonText && (
                           <span className="flex items-center gap-1 bg-blue-50 text-blue-700 px-2.5 py-1 rounded-full">
-                            📅 {place.season}
+                            📅 {seasonText}
                           </span>
                         )}
                         {mustTry && (

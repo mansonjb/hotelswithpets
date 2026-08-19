@@ -15,6 +15,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   es: { label: 'Hoteles pet-friendly en región vinícola', cta: 'Ver hoteles' },
   pt: { label: 'Hotéis pet-friendly em região vinícola', cta: 'Ver hotéis' },
   de: { label: 'Hundefreundliche Hotels im Weinanbaugebiet', cta: 'Hotels ansehen' },
+  nl: { label: 'Hondvriendelijke hotels in wijnstreken', cta: 'Bekijk hotels' },
 }
 
 export async function generateStaticParams() {
@@ -35,6 +36,7 @@ export async function generateMetadata({
     es: `Enoturismo con tu perro: 5 regiones vinícolas europeas que admiten mascotas (2026)`,
     pt: `Enoturismo com o seu cão: 5 regiões vinícolas europeias que aceitam animais (2026)`,
     de: `Weintourismus mit Ihrem Hund: 5 europäische Weinregionen, die Haustiere willkommen heißen (2026)`,
+    nl: `Wijntoerisme met je hond: 5 Europese wijnstreken die huisdieren verwelkomen (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Five European wine regions where you can taste and stay with your dog: Bordeaux Médoc, Tuscany Chianti, Rioja Alta, Douro Valley, Burgundy. Verified pet-friendly châteaux, palaces and quintas.`,
@@ -42,6 +44,7 @@ export async function generateMetadata({
     es: `Cinco regiones vinícolas europeas donde catar y alojarse con tu perro: Burdeos Médoc, Toscana Chianti, Rioja Alta, valle del Duero, Borgoña. Châteaux, palacios y quintas pet-friendly verificados.`,
     pt: `Cinco regiões vinícolas europeias onde provar e ficar com o seu cão: Bordeaux Médoc, Toscana Chianti, Rioja Alta, Vale do Douro, Borgonha. Châteaux, palaces e quintas pet-friendly verificados.`,
     de: `Fünf europäische Weinregionen, in denen Sie mit Ihrem Hund verkosten und übernachten können: Bordeaux Médoc, Toskana Chianti, Rioja Alta, Douro-Tal, Burgund. Geprüfte hundefreundliche Châteaux, Paläste und Quintas.`,
+    nl: `Vijf Europese wijnstreken waar je met je hond kunt proeven en overnachten: Bordeaux Médoc, Toscane Chianti, Rioja Alta, Douro-vallei, Bourgogne. Geverifieerde hondvriendelijke châteaux, paleizen en quintas.`,
   }
   return {
     title: titles[locale] ?? titles.en,
@@ -78,17 +81,20 @@ type Pick = {
   whyEs: string
   whyPt: string
   whyDe?: string
+  whyNl?: string
   cellarsEn: string
   cellarsFr: string
   cellarsEs: string
   cellarsPt: string
   cellarsDe?: string
+  cellarsNl?: string
   hotelName: string
   hotelEn: string
   hotelFr: string
   hotelEs: string
   hotelPt: string
   hotelDe?: string
+  hotelNl?: string
 }
 
 const PICKS: Pick[] = [
@@ -103,17 +109,20 @@ const PICKS: Pick[] = [
     whyEs: `La región vinícola más tolerante con perros de Francia. Los châteaux del Médoc a 45 min al norte (Margaux, Pauillac, Saint-Julien) suelen admitir perros con correa en el patio de gravilla y el paseo por la viña, con la cata en la terraza donde el perro se tumba a tus pies. Saint-Émilion (UNESCO) se atraviesa a pie con perro y tiene decenas de pequeños négociants que admiten mascotas en sus salas de cata en piedra fresca.`,
     whyPt: `A região vinícola mais tolerante com cães de França. Os châteaux do Médoc a 45 min a norte (Margaux, Pauillac, Saint-Julien) aceitam cães à trela no pátio de gravilha e no passeio pela vinha, com a prova na esplanada onde o cão se deita aos seus pés. Saint-Émilion (UNESCO) atravessa-se a pé com cão e tem dezenas de pequenos négociants que aceitam animais nas salas de prova em pedra fresca.`,
     whyDe: `Frankreichs hundefreundlichste Weinregion. Die Châteaux im Médoc, 45 Minuten nördlich (Margaux, Pauillac, Saint-Julien), erlauben angeleinten Hunden regelmäßig den Kiesinnenhof und den Spaziergang durch den Weinberg, während die Weinprobe auf der Terrasse stattfindet, wo Ihr Hund zu Ihren Füßen liegen kann. Das mittelalterliche Dorf Saint-Émilion (UNESCO) lässt sich mit Hund vollständig zu Fuß erkunden und zählt Dutzende kleiner Négociant-Keller, die Haustiere in ihren kühlen Steinverkostungsräumen willkommen heißen.`,
+    whyNl: `Frankrijks meest hondvriendelijke wijnstreek. De châteaux in de Médoc, 45 minuten ten noorden (Margaux, Pauillac, Saint-Julien), laten aangelijnde honden geregeld toe op de grindplaats en de wandeling door de wijngaard, terwijl de wijnproeverij op het terras plaatsvindt, waar je hond aan je voeten kan liggen. Het middeleeuwse dorp Saint-Émilion (UNESCO) is helemaal te belopen met een hond en telt tientallen kleine négociant-kelders die huisdieren welkom heten in hun koele stenen proeflokalen.`,
     cellarsEn: `Verified pet-friendly: Château Pichon Baron (Pauillac, gravel courtyard), Château Beauregard (Pomerol), Maison Sichel (Bordeaux centre négociant tour, dogs welcome in tasting room). Always email ahead: chateau pet policies are personal to the owner and shift each season.`,
     cellarsFr: `Pet-friendly vérifiés : Château Pichon Baron (Pauillac, cour de graviers), Château Beauregard (Pomerol), Maison Sichel (Bordeaux centre, négociant, chiens bienvenus en salle de dégustation). Emailez toujours à l'avance : les politiques chien sont personnelles aux propriétaires et changent à chaque saison.`,
     cellarsEs: `Pet-friendly verificados: Château Pichon Baron (Pauillac, patio de gravilla), Château Beauregard (Pomerol), Maison Sichel (centro Burdeos, négociant, perros bienvenidos en sala de cata). Emailea siempre con antelación: las políticas caninas son personales del propietario y cambian cada temporada.`,
     cellarsPt: `Pet-friendly verificados: Château Pichon Baron (Pauillac, pátio de gravilha), Château Beauregard (Pomerol), Maison Sichel (centro Bordeaux, négociant, cães bem-vindos na sala de prova). Envie sempre email antes: as políticas caninas são pessoais do proprietário e mudam a cada estação.`,
     cellarsDe: `Geprüft hundefreundlich: Château Pichon Baron (Pauillac, Kieshof), Château Beauregard (Pomerol), Maison Sichel (Négociant-Tour im Zentrum von Bordeaux, Hunde im Verkostungsraum willkommen). Immer vorab per E-Mail anfragen: Die Haustierrichtlinien der Châteaux sind Sache des Besitzers und ändern sich mit jeder Saison.`,
+    cellarsNl: `Geverifieerd hondvriendelijk: Château Pichon Baron (Pauillac, grindplaats), Château Beauregard (Pomerol), Maison Sichel (négociant-tour in het centrum van Bordeaux, honden welkom in het proeflokaal). Mail altijd vooraf: het huisdierenbeleid van de châteaux is een zaak van de eigenaar en verandert elk seizoen.`,
     hotelName: `InterContinental Bordeaux - Le Grand Hôtel`,
     hotelEn: `Palace opposite the Grand Théâtre at the heart of the UNESCO 18th-century centre. Pets up to 14 kg welcomed in deluxe rooms, dog bed and bowl provided, the bar Le Lounge tolerates a quiet leashed dog while you pre-tour over a glass.`,
     hotelFr: `Palace face au Grand Théâtre au cœur du centre UNESCO du XVIIIᵉ. Chiens jusqu'à 14 kg en chambres deluxe, panier et gamelle fournis, le bar Le Lounge tolère un chien en laisse calme pendant un verre avant les châteaux.`,
     hotelEs: `Palacio frente al Grand Théâtre en el corazón del centro UNESCO del siglo XVIII. Perros hasta 14 kg en habitaciones deluxe, cama y comedero, el bar Le Lounge tolera un perro con correa tranquilo durante una copa antes de los châteaux.`,
     hotelPt: `Palácio em frente ao Grand Théâtre no coração do centro UNESCO do século XVIII. Cães até 14 kg em quartos deluxe, cama e tigela, o bar Le Lounge tolera um cão à trela calmo durante um copo antes dos châteaux.`,
     hotelDe: `Palast gegenüber dem Grand Théâtre im Herzen des UNESCO-Zentrums aus dem 18. Jahrhundert. Haustiere bis 14 kg in Deluxe-Zimmern willkommen, Hundebett und Napf werden gestellt, die Bar Le Lounge toleriert einen ruhigen angeleinten Hund bei einem Glas vor dem Château-Besuch.`,
+    hotelNl: `Paleis tegenover het Grand Théâtre in het hart van het UNESCO-centrum uit de 18e eeuw. Huisdieren tot 14 kg welkom in deluxe kamers, hondenmand en bak worden verstrekt, de bar Le Lounge tolereert een rustige aangelijnde hond bij een glas voordat je langs de châteaux gaat.`,
   },
   {
     slug: 'florence',
@@ -126,17 +135,20 @@ const PICKS: Pick[] = [
     whyEs: `Las colinas del Chianti entre Florencia y Siena son un paraíso canino: viñedos ondulados, alamedas de cipreses, y una cultura agriturismo toscana que admite perros desde hace décadas porque los granjeros crecieron con ellos. La mitad de las cantine familiares en Greve, Castellina y Radda te servirán un Chianti Classico Riserva con tu perro dormitando en el suelo. Florencia tiene los jardines de Boboli (solo perros de asistencia) pero los jardines Bardini vecinos admiten perros con correa con una de las mejores vistas del Duomo.`,
     whyPt: `As colinas do Chianti entre Florença e Siena são um paraíso canino: vinhas onduladas, aleias de ciprestes, e uma cultura agriturismo toscana que aceita cães há décadas porque os agricultores cresceram com eles. Metade das cantine familiares em Greve, Castellina e Radda servir-lhe-ão um Chianti Classico Riserva com o seu cão a dormitar no chão. Florença tem os jardins de Boboli (só cães de assistência) mas os jardins Bardini vizinhos aceitam cães à trela com uma das melhores vistas do Duomo.`,
     whyDe: `Die Chianti-Hügel zwischen Florenz und Siena sind ein Paradies für Hundespaziergänge: sanfte Weinberge, Zypressenalleen und eine toskanische Agriturismo-Kultur, die seit Jahrzehnten Hunde willkommen heißt, weil die Bauern mit ihnen aufgewachsen sind. Die Hälfte der familiengeführten Cantine in Greve, Castellina und Radda schenkt Ihnen einen Chianti Classico Riserva ein, während Ihr Hund auf dem Boden der Cantina döst. Florenz selbst hat den Boboli-Garten (nur Assistenzhunde erlaubt), aber der nahe gelegene Bardini-Garten heißt angeleinte Hunde willkommen und bietet einen der schönsten Blicke auf den Dom.`,
+    whyNl: `De Chianti-heuvels tussen Florence en Siena zijn een paradijs om te wandelen met je hond: glooiende wijngaarden, cipressenlanen, en een Toscaanse agriturismo-cultuur die al decennia honden verwelkomt omdat de boeren ermee zijn opgegroeid. De helft van de familiecantine in Greve, Castellina en Radda schenkt je een Chianti Classico Riserva terwijl je hond op de vloer van de cantina ligt te doezelen. Florence zelf heeft de Boboli-tuinen (alleen hulphonden toegestaan), maar de nabijgelegen Bardini-tuinen verwelkomen aangelijnde honden met een van de mooiste uitzichten op de Duomo.`,
     cellarsEn: `Verified pet-friendly: Castello di Verrazzano (Greve in Chianti), Antinori nel Chianti Classico (Bargino, dogs in the outdoor amphitheatre tasting), Castello di Querceto (Greve). Booking is mandatory and €30-€60 per person for a proper tour-and-tasting.`,
     cellarsFr: `Pet-friendly vérifiés : Castello di Verrazzano (Greve in Chianti), Antinori nel Chianti Classico (Bargino, chiens dans l'amphithéâtre extérieur), Castello di Querceto (Greve). Réservation obligatoire et 30-60 € par personne pour une vraie visite-dégustation.`,
     cellarsEs: `Pet-friendly verificados: Castello di Verrazzano (Greve in Chianti), Antinori nel Chianti Classico (Bargino, perros en el anfiteatro exterior de cata), Castello di Querceto (Greve). Reserva obligatoria y 30-60 € por persona para una visita-cata seria.`,
     cellarsPt: `Pet-friendly verificados: Castello di Verrazzano (Greve in Chianti), Antinori nel Chianti Classico (Bargino, cães no anfiteatro exterior de prova), Castello di Querceto (Greve). Reserva obrigatória e 30-60 € por pessoa para uma visita-prova séria.`,
     cellarsDe: `Geprüft hundefreundlich: Castello di Verrazzano (Greve in Chianti), Antinori nel Chianti Classico (Bargino, Hunde bei der Verkostung im Freiluftamphitheater), Castello di Querceto (Greve). Reservierung ist Pflicht, 30-60 € pro Person für eine richtige Führung mit Verkostung.`,
+    cellarsNl: `Geverifieerd hondvriendelijk: Castello di Verrazzano (Greve in Chianti), Antinori nel Chianti Classico (Bargino, honden bij de proeverij in het openluchtamfitheater), Castello di Querceto (Greve). Reserveren is verplicht, €30-60 per persoon voor een echte rondleiding met proeverij.`,
     hotelName: 'Four Seasons Hotel Firenze',
     hotelEn: `5-star palazzo in the Renaissance Della Gherardesca palace with a private 4.5-hectare park. Pets up to 10 kg welcomed (mid fee), dog bed and bowl, the garden is the largest private green space in central Florence - a quiet dog's paradise.`,
     hotelFr: `5 étoiles palazzo dans le palais Renaissance Della Gherardesca avec parc privé de 4,5 hectares. Chiens jusqu'à 10 kg acceptés (supplément modéré), couchage et gamelle, le jardin est le plus grand espace vert privé du centre de Florence - un paradis pour chien calme.`,
     hotelEs: `5 estrellas palazzo en el palacio renacentista Della Gherardesca con parque privado de 4,5 hectáreas. Perros hasta 10 kg admitidos (suplemento moderado), cama y comedero, el jardín es el mayor espacio verde privado del centro de Florencia - un paraíso para perro tranquilo.`,
     hotelPt: `5 estrelas palazzo no palácio renascentista Della Gherardesca com parque privado de 4,5 hectares. Cães até 10 kg aceites (taxa moderada), cama e tigela, o jardim é o maior espaço verde privado do centro de Florença - um paraíso para cão calmo.`,
     hotelDe: `5-Sterne-Palazzo im Renaissance-Palast Della Gherardesca mit privatem 4,5 Hektar großem Park. Haustiere bis 10 kg willkommen (mittlere Gebühr), Hundebett und Napf, der Garten ist die größte private Grünfläche im Zentrum von Florenz - ein ruhiges Hundeparadies.`,
+    hotelNl: `5-sterren palazzo in het renaissancepaleis Della Gherardesca met een privépark van 4,5 hectare. Huisdieren tot 10 kg welkom (gemiddelde toeslag), hondenmand en bak, de tuin is de grootste privé-groenruimte in het centrum van Florence, een rustig hondenparadijs.`,
   },
   {
     slug: 'bilbao',
@@ -149,17 +161,20 @@ const PICKS: Pick[] = [
     whyEs: `Bilbao como base para la Rioja Alta: 1 h al sur en coche por la cordillera cantábrica te deja en Haro y Briones, el corazón de Rioja Alta. Las bodegas Marqués de Riscal (edificio Frank Gehry, Elciego), Ysios (Calatrava, Laguardia) y López de Heredia Tondonia (Haro) admiten todas perros con correa en la visita exterior y la terraza de cata. El Barrio de la Estación de Haro (clúster de bodegas del siglo XIX en torno a la antigua estación) se recorre entero con perro en una tarde.`,
     whyPt: `Bilbao como base para a Rioja Alta: 1 h a sul de carro pela cordilheira cantábrica deixa-o em Haro e Briones, o coração da Rioja Alta. As bodegas Marqués de Riscal (edifício Frank Gehry, Elciego), Ysios (Calatrava, Laguardia) e López de Heredia Tondonia (Haro) aceitam todas cães à trela na visita exterior e esplanada de prova. O Barrio de la Estación de Haro (cluster de bodegas do século XIX em torno da antiga estação) percorre-se inteiro com cão numa tarde.`,
     whyDe: `Bilbao als Ausgangspunkt für die Rioja Alta: 1 Stunde südlich mit dem Auto durch das Kantabrische Gebirge bringt Sie nach Haro und Briones, ins Herz der Rioja Alta. Die Bodegas Marqués de Riscal (Frank-Gehry-Gebäude, Elciego), Ysios (Calatrava, Laguardia) und López de Heredia Tondonia (Haro) erlauben allesamt angeleinten Hunden die Außenführung und die Verkostungsterrasse. Der Barrio de la Estación von Haro (Bodegas-Viertel aus dem 19. Jahrhundert rund um den alten Bahnhof) lässt sich mit Hund an einem Nachmittag vollständig erkunden.`,
+    whyNl: `Bilbao als uitvalsbasis voor de Rioja Alta: 1 uur zuidwaarts met de auto door het Cantabrisch Gebergte brengt je naar Haro en Briones, het hart van de Rioja Alta. De bodega's Marqués de Riscal (Frank Gehry-gebouw, Elciego), Ysios (Calatrava, Laguardia) en López de Heredia Tondonia (Haro) laten allemaal aangelijnde honden toe bij de buitenrondleiding en het proefterras. De wijk Barrio de la Estación in Haro (19e-eeuwse bodega's rond het oude treinstation) is helemaal te belopen met een hond in één middag.`,
     cellarsEn: `Verified pet-friendly: Marqués de Riscal (Elciego, outdoor tour + tasting terrace), Bodegas Muga (Haro, garden tasting), López de Heredia Tondonia (Haro, historic cellar exterior). The Marqués de Riscal Frank Gehry hotel restaurant terrace welcomes leashed dogs at lunch (Michelin-starred).`,
     cellarsFr: `Pet-friendly vérifiés : Marqués de Riscal (Elciego, visite extérieure + terrasse de dégustation), Bodegas Muga (Haro, dégustation jardin), López de Heredia Tondonia (Haro, cave historique extérieur). La terrasse du restaurant Frank Gehry de l'hôtel Marqués de Riscal accueille les chiens en laisse au déjeuner (étoilé Michelin).`,
     cellarsEs: `Pet-friendly verificados: Marqués de Riscal (Elciego, visita exterior + terraza de cata), Bodegas Muga (Haro, cata en jardín), López de Heredia Tondonia (Haro, bodega histórica exterior). La terraza del restaurante Frank Gehry del hotel Marqués de Riscal admite perros con correa al mediodía (estrella Michelin).`,
     cellarsPt: `Pet-friendly verificados: Marqués de Riscal (Elciego, visita exterior + esplanada de prova), Bodegas Muga (Haro, prova no jardim), López de Heredia Tondonia (Haro, adega histórica exterior). A esplanada do restaurante Frank Gehry do hotel Marqués de Riscal aceita cães à trela ao almoço (estrela Michelin).`,
     cellarsDe: `Geprüft hundefreundlich: Marqués de Riscal (Elciego, Außenführung + Verkostungsterrasse), Bodegas Muga (Haro, Verkostung im Garten), López de Heredia Tondonia (Haro, historischer Keller außen). Die Restaurantterrasse des Frank-Gehry-Hotels Marqués de Riscal heißt angeleinte Hunde beim Mittagessen willkommen (Michelin-Stern).`,
+    cellarsNl: `Geverifieerd hondvriendelijk: Marqués de Riscal (Elciego, buitenrondleiding + proefterras), Bodegas Muga (Haro, proeverij in de tuin), López de Heredia Tondonia (Haro, historische kelder buiten). Het restaurantterras van het Frank Gehry-hotel Marqués de Riscal verwelkomt aangelijnde honden bij de lunch (Michelinster).`,
     hotelName: 'Gran Hotel Domine Bilbao',
     hotelEn: `5-star opposite the Guggenheim with the perfect Frank Gehry view from the rooftop terrace. Pets up to 10 kg welcomed (small fee), the location lets you do morning Guggenheim walk + Casco Viejo pintxos + afternoon Rioja day trip without changing hotel.`,
     hotelFr: `5 étoiles face au Guggenheim avec la vue parfaite sur Frank Gehry depuis la terrasse rooftop. Chiens jusqu'à 10 kg acceptés (petit supplément), l'emplacement permet promenade Guggenheim le matin + pintxos Casco Viejo + day trip Rioja l'après-midi sans changer d'hôtel.`,
     hotelEs: `5 estrellas frente al Guggenheim con la vista perfecta sobre Frank Gehry desde la terraza. Perros hasta 10 kg admitidos (pequeño suplemento), la ubicación permite paseo Guggenheim de mañana + pintxos Casco Viejo + excursión Rioja de tarde sin cambiar de hotel.`,
     hotelPt: `5 estrelas em frente ao Guggenheim com a vista perfeita sobre Frank Gehry desde o terraço. Cães até 10 kg aceites (pequena taxa), a localização permite passeio Guggenheim de manhã + pintxos Casco Viejo + excursão Rioja à tarde sem mudar de hotel.`,
     hotelDe: `5-Sterne-Hotel gegenüber dem Guggenheim mit perfektem Blick auf Frank Gehrys Architektur von der Dachterrasse. Haustiere bis 10 kg willkommen (kleine Gebühr), die Lage erlaubt morgens einen Guggenheim-Spaziergang + Pintxos im Casco Viejo + nachmittags einen Rioja-Tagesausflug, ohne das Hotel zu wechseln.`,
+    hotelNl: `5-sterrenhotel tegenover het Guggenheim met perfect zicht op de architectuur van Frank Gehry vanaf het dakterras. Huisdieren tot 10 kg welkom (kleine toeslag), de ligging maakt 's ochtends een Guggenheim-wandeling + pintxos in de Casco Viejo + 's middags een dagtrip naar de Rioja mogelijk, zonder van hotel te wisselen.`,
   },
   {
     slug: 'porto',
@@ -172,17 +187,20 @@ const PICKS: Pick[] = [
     whyEs: `El valle del Duero río arriba desde Oporto es la región vinícola delimitada más antigua del mundo (1756) y una de las más dog-friendly gracias a la cultura quinta familiar. Las quintas en Pinhão, Tua y Régua suelen admitir perros en los paseos por la viña y la terraza de cata; el tren del Duero desde Oporto São Bento hasta Pinhão es uno de los más escénicos de Europa y admite perros con correa gratis. Oporto tiene la playa canina de Foz todo el año y el barrio de bodegas de Vila Nova de Gaia se recorre entero a pie con perro.`,
     whyPt: `O Vale do Douro a montante do Porto é a mais antiga região vinícola demarcada do mundo (1756) e uma das mais dog-friendly graças à cultura quinta familiar. As quintas em Pinhão, Tua e Régua aceitam frequentemente cães nos passeios pela vinha e na esplanada de prova; o comboio do Douro de Porto São Bento até Pinhão é um dos mais cénicos da Europa e aceita cães à trela gratuitamente. O Porto tem a praia canina de Foz todo o ano e o bairro das caves de Vila Nova de Gaia percorre-se inteiro a pé com cão.`,
     whyDe: `Das Douro-Tal flussaufwärts von Porto ist die älteste abgegrenzte Weinregion der Welt (1756) und dank der familiären Quinta-Kultur eine der hundefreundlichsten. Quintas in Pinhão, Tua und Régua heißen Hunde oft bei Spaziergängen durch den Weinberg und bei der Verkostung auf der Terrasse willkommen; die Douro-Bahn von Porto São Bento bis Pinhão ist eine der landschaftlich schönsten Europas und nimmt angeleinte Hunde kostenlos mit. Porto selbst hat den ganzjährig geöffneten Hundestrand Foz, und das Kellerviertel von Vila Nova de Gaia lässt sich mit Hund vollständig zu Fuß erkunden.`,
+    whyNl: `De Douro-vallei stroomopwaarts van Porto is de oudste afgebakende wijnstreek ter wereld (1756) en dankzij de familiale quinta-cultuur een van de meest hondvriendelijke. Quinta's in Pinhão, Tua en Régua verwelkomen honden vaak bij wandelingen door de wijngaard en bij de proeverij op het terras; de Douro-trein van Porto São Bento naar Pinhão is een van de mooiste treinreizen van Europa en neemt aangelijnde honden gratis mee. Porto zelf heeft het hele jaar door het hondenstrand Foz, en de kelderwijk van Vila Nova de Gaia is helemaal te belopen met een hond.`,
     cellarsEn: `Verified pet-friendly: Quinta do Crasto (Sabrosa, dogs on the terrace tasting), Quinta da Roêda Croft (Pinhão, vineyard walk), Sandeman Cellars in Vila Nova de Gaia (Porto-side, dogs in the outdoor cellar area only). The Quinta do Bomfim by Symington welcomes dogs in the gardens.`,
     cellarsFr: `Pet-friendly vérifiés : Quinta do Crasto (Sabrosa, chiens en terrasse), Quinta da Roêda Croft (Pinhão, promenade dans les vignes), Sandeman à Vila Nova de Gaia (côté Porto, chiens en zone extérieure uniquement). La Quinta do Bomfim de Symington accueille les chiens dans les jardins.`,
     cellarsEs: `Pet-friendly verificados: Quinta do Crasto (Sabrosa, perros en terraza), Quinta da Roêda Croft (Pinhão, paseo por la viña), Sandeman en Vila Nova de Gaia (lado Oporto, perros solo zona exterior). La Quinta do Bomfim de Symington admite perros en los jardines.`,
     cellarsPt: `Pet-friendly verificados: Quinta do Crasto (Sabrosa, cães na esplanada), Quinta da Roêda Croft (Pinhão, passeio pela vinha), Sandeman em Vila Nova de Gaia (lado Porto, cães só zona exterior). A Quinta do Bomfim da Symington aceita cães nos jardins.`,
     cellarsDe: `Geprüft hundefreundlich: Quinta do Crasto (Sabrosa, Hunde bei der Verkostung auf der Terrasse), Quinta da Roêda Croft (Pinhão, Weinbergspaziergang), Sandeman-Keller in Vila Nova de Gaia (Porto-Seite, Hunde nur im Außenkellerbereich). Die Quinta do Bomfim von Symington heißt Hunde in den Gärten willkommen.`,
+    cellarsNl: `Geverifieerd hondvriendelijk: Quinta do Crasto (Sabrosa, honden bij de proeverij op het terras), Quinta da Roêda Croft (Pinhão, wandeling door de wijngaard), Sandeman-kelders in Vila Nova de Gaia (Porto-zijde, honden alleen in het buitenkeldergedeelte). De Quinta do Bomfim van Symington verwelkomt honden in de tuinen.`,
     hotelName: 'The Yeatman',
     hotelEn: `5-star wine-themed palace in Vila Nova de Gaia with the panoramic Porto view and Portugal's largest Port wine cellar on site. Pets up to 12 kg welcomed (mid fee), the terrace garden and pool deck welcome leashed dogs at sunset.`,
     hotelFr: `5 étoiles à thème vinicole à Vila Nova de Gaia avec vue panoramique sur Porto et la plus grande cave de Port du Portugal sur place. Chiens jusqu'à 12 kg acceptés (supplément modéré), la terrasse jardin et la piscine acceptent les chiens en laisse au coucher.`,
     hotelEs: `5 estrellas con tema vinícola en Vila Nova de Gaia con vistas panorámicas a Oporto y la mayor bodega de Porto de Portugal in situ. Perros hasta 12 kg admitidos (suplemento moderado), la terraza jardín y la piscina admiten perros con correa al atardecer.`,
     hotelPt: `5 estrelas com tema vinícola em Vila Nova de Gaia com vista panorâmica sobre o Porto e a maior cave de Vinho do Porto de Portugal no local. Cães até 12 kg aceites (taxa moderada), a esplanada jardim e a piscina aceitam cães à trela ao pôr-do-sol.`,
     hotelDe: `5-Sterne-Weinpalast in Vila Nova de Gaia mit Panoramablick auf Porto und Portugals größtem Portwein-Keller vor Ort. Haustiere bis 12 kg willkommen (mittlere Gebühr), die Terrassengarten- und Pooldeck-Bereiche heißen angeleinte Hunde bei Sonnenuntergang willkommen.`,
+    hotelNl: `5-sterren wijnpaleis in Vila Nova de Gaia met panoramisch uitzicht op Porto en de grootste Portwijnkelder van Portugal ter plaatse. Huisdieren tot 12 kg welkom (gemiddelde toeslag), het terrastuin- en zwembaddek verwelkomen aangelijnde honden bij zonsondergang.`,
   },
   {
     slug: 'lyon',
@@ -195,17 +213,20 @@ const PICKS: Pick[] = [
     whyEs: `Lyon como base para Borgoña: 1 h 30 al norte por la A6, estás en Beaune en el corazón de la Côte d'Or. Los pueblos de las Côtes de Beaune y Côtes de Nuits (Pommard, Volnay, Vosne-Romanée, Gevrey-Chambertin) son minúsculos y se recorren con perro, la famosa Route des Grands Crus es esencialmente llana en sus 60 km de Dijon a Santenay, y los viticultores de los pueblos admiten perros en sus bodegas de piedra fresca donde se cata de pie. Lyon añade el Parc de la Tête d'Or dog-friendly (uno de los mayores parques urbanos de Francia) y las legendarias terrazas de los bouchons lyonnais.`,
     whyPt: `Lyon como base para a Borgonha: 1h30 a norte pela A6, estás em Beaune no coração da Côte d'Or. As aldeias das Côtes de Beaune e Côtes de Nuits (Pommard, Volnay, Vosne-Romanée, Gevrey-Chambertin) são minúsculas e percorrem-se com cão, a famosa Route des Grands Crus é essencialmente plana nos seus 60 km de Dijon a Santenay, e os vinhateiros das aldeias aceitam cães nas suas caves de pedra fresca onde se prova em pé. Lyon adiciona o Parc de la Tête d'Or dog-friendly (um dos maiores parques urbanos de França) e as lendárias esplanadas dos bouchons lyonnais.`,
     whyDe: `Lyon als Ausgangspunkt für das Burgund: 1,5 Stunden nördlich auf der A6 sind Sie in Beaune, im Herzen der Côte d'Or. Die Dörfer der Côtes de Beaune und Côtes de Nuits (Pommard, Volnay, Vosne-Romanée, Gevrey-Chambertin) sind winzig und mit Hund gut zu erkunden, die berühmte Route des Grands Crus verläuft auf ihren 60 km von Dijon nach Santenay größtenteils flach durch den Weinberg, und die Dorfwinzer heißen Hunde in ihren kühlen Steinkellern willkommen, in denen im Stehen verkostet wird. Lyon ergänzt das hundefreundliche Parc de la Tête d'Or (einer der größten Stadtparks Frankreichs) und die legendären Terrassen der Bouchons Lyonnais.`,
+    whyNl: `Lyon als uitvalsbasis voor de Bourgogne: 1,5 uur noordwaarts over de A6 en je bent in Beaune, in het hart van de Côte d'Or. De dorpen van de Côtes de Beaune en Côtes de Nuits (Pommard, Volnay, Vosne-Romanée, Gevrey-Chambertin) zijn piepklein en goed te belopen met een hond, de beroemde Route des Grands Crus loopt op zijn 60 km van Dijon naar Santenay grotendeels vlak door de wijngaard, en de dorpswijnbouwers verwelkomen honden in hun koele stenen kelders waar je staand proeft. Lyon voegt daar het hondvriendelijke Parc de la Tête d'Or aan toe (een van de grootste stadsparken van Frankrijk) en de legendarische terrassen van de bouchons lyonnais.`,
     cellarsEn: `Verified pet-friendly: Château de Pommard (Côte de Beaune, dogs on the gravel courtyard tour), Domaine Faiveley (Nuits-Saint-Georges, cellar tasting), Hospices de Beaune historic site (dogs in the outer courtyards only). Many tiny village producers will let your dog in their cellar - ask in French and bring a mat for the cool stone floor.`,
     cellarsFr: `Pet-friendly vérifiés : Château de Pommard (Côte de Beaune, chiens dans la cour graviers), Domaine Faiveley (Nuits-Saint-Georges, dégustation cave), Hospices de Beaune (chiens dans cours extérieures uniquement). Beaucoup de petits vignerons de village laisseront votre chien dans leur cave - demandez en français et emportez un petit tapis pour la pierre froide.`,
     cellarsEs: `Pet-friendly verificados: Château de Pommard (Côte de Beaune, perros en el patio de gravilla), Domaine Faiveley (Nuits-Saint-Georges, cata en bodega), Hospices de Beaune (perros solo en los patios exteriores). Muchos pequeños viticultores de pueblo dejarán a tu perro en su bodega - pregunta en francés y lleva una colchoneta para la piedra fría.`,
     cellarsPt: `Pet-friendly verificados: Château de Pommard (Côte de Beaune, cães no pátio de gravilha), Domaine Faiveley (Nuits-Saint-Georges, prova na cave), Hospices de Beaune (cães só nos pátios exteriores). Muitos pequenos vinhateiros de aldeia deixarão o seu cão na cave - pergunte em francês e leve um tapete para a pedra fria.`,
     cellarsDe: `Geprüft hundefreundlich: Château de Pommard (Côte de Beaune, Hunde bei der Führung im Kieshof), Domaine Faiveley (Nuits-Saint-Georges, Kellerverkostung), Hospices de Beaune (Hunde nur in den Außenhöfen). Viele kleine Dorfwinzer lassen Ihren Hund in ihrem Keller zu - fragen Sie auf Französisch und bringen Sie eine kleine Matte für den kühlen Steinboden mit.`,
+    cellarsNl: `Geverifieerd hondvriendelijk: Château de Pommard (Côte de Beaune, honden bij de rondleiding op de grindplaats), Domaine Faiveley (Nuits-Saint-Georges, proeverij in de kelder), Hospices de Beaune (honden alleen op de buitenplaatsen). Veel kleine dorpswijnbouwers laten je hond in hun kelder toe, vraag het in het Frans en neem een mattenkleedje mee voor de koude stenen vloer.`,
     hotelName: 'Cour des Loges Lyon, a Radisson Collection Hotel',
     hotelEn: `5-star Renaissance hotel inside four interconnected mansions in Vieux Lyon (UNESCO). Pets up to 14 kg welcomed (mid fee), dog bed and welcome amenity, the four covered courtyards (the cours) are perfect for a quiet leashed dog while you have coffee.`,
     hotelFr: `5 étoiles Renaissance dans quatre hôtels particuliers interconnectés dans le Vieux Lyon (UNESCO). Chiens jusqu'à 14 kg acceptés (supplément modéré), couchage et amenity de bienvenue, les quatre cours intérieures couvertes sont parfaites pour un chien en laisse calme pendant le café.`,
     hotelEs: `5 estrellas renacentista en cuatro palacetes interconectados en el Vieux Lyon (UNESCO). Perros hasta 14 kg admitidos (suplemento moderado), cama y obsequio de bienvenida, los cuatro patios cubiertos son perfectos para un perro con correa tranquilo durante el café.`,
     hotelPt: `5 estrelas renascentista em quatro palacetes interconectados no Vieux Lyon (UNESCO). Cães até 14 kg aceites (taxa moderada), cama e amenity de boas-vindas, os quatro pátios cobertos são perfeitos para um cão à trela calmo durante o café.`,
     hotelDe: `5-Sterne-Renaissancehotel in vier miteinander verbundenen Stadtpalais im Vieux Lyon (UNESCO). Haustiere bis 14 kg willkommen (mittlere Gebühr), Hundebett und Willkommensgeschenk, die vier überdachten Innenhöfe sind ideal für einen ruhigen angeleinten Hund während Sie Kaffee trinken.`,
+    hotelNl: `5-sterren renaissancehotel in vier met elkaar verbonden herenhuizen in Vieux Lyon (UNESCO). Huisdieren tot 14 kg welkom (gemiddelde toeslag), hondenmand en welkomstcadeautje, de vier overdekte binnenplaatsen zijn perfect voor een rustige aangelijnde hond terwijl je koffie drinkt.`,
   },
 ]
 
@@ -335,6 +356,31 @@ const COPY = {
       { q: 'Wie funktioniert das mit Kindern?', a: `Burgund und Chianti sind kinder- und hundefreundlich: Dörfer sind klein, Restaurantterrassen reichlich vorhanden, Weinbergspaziergänge kurz. Bordeaux Médoc und Rioja sind eher auf Erwachsenenverkostungen ausgerichtet (längere Fahrten zwischen den Châteaux, strukturierte 90-minütige Führungen). Das Douro-Tal liegt dazwischen - die Zugfahrt ist bei Kindern besonders beliebt.` },
     ],
   },
+  nl: {
+    eyebrow: `WIJNTOERISME · HUISDIERVRIENDELIJK EUROPA`,
+    title: `Wijntoerisme met je hond: 5 Europese wijnstreken die huisdieren verwelkomen`,
+    intro: `Wijntoerisme en reizen met je hond hebben een stille waarheid gemeen: beide belonen wie het rustig aan doet. Wandelingen door de wijngaard zijn vlak, koel en stil. Familiewijnbouwers zijn opgegroeid met boerderijhonden en blijven cultureel gastvrij. We kozen vijf Europese wijnstreken waar de kelders, de proeverijen en de geverifieerde vijfsterrenhotels een hond echt aan je voeten accepteren. Reken op drie tot vier dagen per streek: één voor de stad, twee voor de wijngaarden, één om te verteren.`,
+    pickHeading: 'De vijf wijnstreek-keuzes',
+    whyHere: 'Waarom hier',
+    cellarsLabel: 'Geverifieerde hondvriendelijke kelders',
+    hotelLabel: 'Waar je kunt overnachten',
+    seeDestCta: 'Volledige stadsgids →',
+    hotelCta: 'Bekijk beschikbaarheid →',
+    practicalHeading: 'Praktische info voor wijntoerisme met hond',
+    practical: [
+      { h: 'Vooraf bellen is verplicht', p: `Zelfs de meest hondvriendelijke kelders verwachten dat je 1-2 dagen van tevoren mailt of belt om je hond aan te kondigen. Veel wijnbouwerswebsites publiceren geen huisdierenbeleid, niet omdat ze weigeren, maar omdat het beleid per eigenaar verschilt. Een beleefde "j'aimerais visiter avec mon chien en laisse, est-ce possible?" krijgt bijna altijd een ja.` },
+      { h: 'De 7-secondentest voor pootjes op grind', p: `De meeste châteauplaatsen bestaan uit grind dat 's zomers snel opwarmt. Boven 26°C doe je eerst de handruggentest voordat je je hond erop laat lopen. Neem een mattenkleedje mee voor de stenen vloer van het proeflokaal, dat is comfortabel voor je hond en laat de wijnbouwer zien dat je om zijn vloer geeft.` },
+      { h: 'Logistiek wijnproeverij + hond', p: `Proeverijen duren 60-90 minuten, staand of zittend aan een lange stenen bar. Een rustige aangelijnde hond aan je voeten kan gewoon. Veel proeflokalen hebben op verzoek een waterbak. Gebruik een app als Rover.com om een 3-uurs oppas te boeken als je een uitgebreide kelderlunch of een 4-uur durende DRC-proeverij wilt doen.` },
+      { h: 'Beste seizoen per streek', p: `Bordeaux Médoc: mei-juni en september (oogst). Toscane Chianti: april-juni en september-oktober. Rioja: mei-oktober. Douro-vallei: april-juni en september-oktober (spectaculaire oogst). Bourgogne: mei-juni en september-oktober.` },
+    ],
+    faqHeading: 'Veelgestelde vragen',
+    faqs: [
+      { q: 'Mag mijn hond echt de kelder IN?', a: `Bij ondergrondse kelders (koele steen of vatenruimtes) zeggen de meeste familiewijnbouwers ja tegen een rustige aangelijnde hond, omdat hun eigen hond er meestal ook is. Bij temperatuurgeregelde gistingsruimtes of rvs-tanks is het antwoord meestal nee, om hygiënische redenen. Het proeflokaal is bijna altijd toegestaan.` },
+      { q: 'Wat als mijn hond blaft naar paarden of andere honden bij het château?', a: `Veel châteaux hebben werkhonden (wijngaardhonden, jachthonden, châteauhonden). Is jouw hond reactief, plan dan als alternatief "aanrijden, ik proef, jij wacht in de auto met de airco aan": veel proeverijen duren 20-30 minuten en dat wisselsysteem werkt goed. Vraag bij het boeken altijd of er honden aanwezig zijn.` },
+      { q: 'Mag ik twee honden meenemen?', a: `Vaak wel, maar bevestig dit altijd bij het boeken. Twee honden in een proeflokaal is merkbaar meer aanwezigheid dan één, en niet elke wijnbouwer voelt zich daar prettig bij. Het "één hond is oké" van een château is soms een harde grens vanwege geluid.` },
+      { q: 'Hoe werkt dit met kinderen?', a: `Bourgogne en Chianti zijn kind- en hondvriendelijk: dorpen zijn klein, restaurantterrassen volop aanwezig, wandelingen door de wijngaard kort. Bordeaux Médoc en Rioja zijn meer gericht op proeverijen voor volwassenen (langere ritten tussen de châteaux, gestructureerde rondleidingen van 90 minuten). De Douro-vallei zit ertussenin, de treinrit is een favoriet bij kinderen.` },
+    ],
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -379,9 +425,9 @@ export default async function Page({
     publisher: { '@type': 'Organization', name: 'HotelsWithPets', url: SITE_URL },
   }
 
-  const pickWhy = (p: Pick) => locale === 'fr' ? p.whyFr : locale === 'es' ? p.whyEs : locale === 'pt' ? p.whyPt : locale === 'de' ? (p.whyDe ?? p.whyEn) : p.whyEn
-  const pickCellars = (p: Pick) => locale === 'fr' ? p.cellarsFr : locale === 'es' ? p.cellarsEs : locale === 'pt' ? p.cellarsPt : locale === 'de' ? (p.cellarsDe ?? p.cellarsEn) : p.cellarsEn
-  const pickHotel = (p: Pick) => locale === 'fr' ? p.hotelFr : locale === 'es' ? p.hotelEs : locale === 'pt' ? p.hotelPt : locale === 'de' ? (p.hotelDe ?? p.hotelEn) : p.hotelEn
+  const pickWhy = (p: Pick) => locale === 'fr' ? p.whyFr : locale === 'es' ? p.whyEs : locale === 'pt' ? p.whyPt : locale === 'de' ? (p.whyDe ?? p.whyEn) : locale === 'nl' ? (p.whyNl ?? p.whyEn) : p.whyEn
+  const pickCellars = (p: Pick) => locale === 'fr' ? p.cellarsFr : locale === 'es' ? p.cellarsEs : locale === 'pt' ? p.cellarsPt : locale === 'de' ? (p.cellarsDe ?? p.cellarsEn) : locale === 'nl' ? (p.cellarsNl ?? p.cellarsEn) : p.cellarsEn
+  const pickHotel = (p: Pick) => locale === 'fr' ? p.hotelFr : locale === 'es' ? p.hotelEs : locale === 'pt' ? p.hotelPt : locale === 'de' ? (p.hotelDe ?? p.hotelEn) : locale === 'nl' ? (p.hotelNl ?? p.hotelEn) : p.hotelEn
 
   return (
     <main className="min-h-screen bg-stone-50">

@@ -22,6 +22,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     es: 'City trip por Europa con tu perro: París → Bruselas → Ámsterdam → Berlín (itinerario 10 días)',
     pt: 'City trip por Europa com tu cão: París → Bruxelas → Amesterdão → Berlim (itinerario 10 dias)',
     de: 'Europäische Städtereise mit Ihrem Hund: Paris → Brüssel → Amsterdam → Berlin (10-Tage-Reiseplan)',
+    nl: 'Europese city trip met je hond: Parijs → Brussel → Amsterdam → Berlijn (10-daagse route)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 10-day train-friendly city-trip itinerary across four iconic European capitals with your dog. Recommended pet-friendly hotels, live Booking.com maps, transport rules and dog-walking spots in each city.',
@@ -29,6 +30,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     es: 'Itinerario de 10 días en tren por cuatro icónicas capitales europeas con tu perro. Hoteles pet-friendly recomendados, mapas Booking.com en vivo, normas de transporte y lugares para pasear al perro en cada ciudad.',
     pt: 'Itinerario de 10 dias de comboio por cuatro icónicas capitales europeias com tu cão. Hotéis pet-friendly recomendados, mapas Booking.com en vivo, normas de transporte e lugares para pasear al cão en cada cidade.',
     de: 'Ein 10-tägiger, zugfreundlicher Städtereise-Reiseplan durch vier ikonische europäische Hauptstädte mit Ihrem Hund. Empfohlene hundefreundliche Hotels, Live-Karten von Booking.com, Transportregeln und Gassi-Spots in jeder Stadt.',
+    nl: 'Een 10-daagse, treinvriendelijke city-trip route door vier iconische Europese hoofdsteden met je hond. Aanbevolen hondvriendelijke hotels, live Booking.com-kaarten, vervoersregels en uitlaatplekken in elke stad.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -290,6 +292,57 @@ const COPY: Record<string, RouteCopy> = {
       { q: 'Was, wenn mein Hund über 25 kg wiegt?', a: 'Alle vier Städte sind auch für große Hunde geeignet. Der einzige Reibungspunkt sind die U-Bahnen, wo Leine und gelegentlich Maulkorb vorgeschrieben sind. Hotels: Die meisten Luxushotels akzeptieren Hunde bis 25 kg, rufen Sie aber vorher an, um dies zu bestätigen, wenn Ihr Hund schwerer ist.' },
     ],
   },
+  nl: {
+    hero: {
+      tagline: 'CITY-TRIP · 10 DAGEN · MET JE HOND',
+      title: 'Een treinvriendelijke Europese city trip met je hond',
+      subtitle: 'Vier iconische hoofdsteden, Parijs, Brussel, Amsterdam, Berlijn, verbonden door directe hondvriendelijke treinen. Hondvriendelijke hotels, parken en de live Booking.com-kaart voor elke stad.',
+    },
+    why: {
+      title: 'Waarom deze route werkt voor hondenbezitters',
+      bullets: [
+        'Elke etappe is een directe, hondvriendelijke trein. Geen vluchten, geen vrachtruim, gewoon aangelijnd wandelen van station naar hotel.',
+        'Alle vier steden hebben grote omheinde losloopgebieden binnen 20 minuten lopen van de centrale stations.',
+        'Geen grensformaliteiten binnen het Schengengebied, je hebt alleen een geldig EU-dierenpaspoort met actuele rabiësvaccinatie nodig.',
+        'Elke stad heeft minstens een 24/7 spoedkliniek voor dieren, de contactgegevens staan verderop bij de praktische info.',
+        'De route vermijdt het hitterisico van Zuid-Europa, comfortabel voor kortharige en brachycefale rassen, zelfs in de zomer.',
+      ],
+    },
+    stats: { duration: 'Duur', cities: 'Steden', transport: 'Vervoer', budget: 'Budget', durationVal: '10 dagen', citiesVal: '4 hoofdsteden', transportVal: 'Trein (Eurostar / Thalys / ICE)', budgetVal: '€1.200–€2.500' },
+    citiesIntro: { kicker: 'STAD VOOR STAD', title: 'Jouw stops, jouw hotels, jouw kaart' },
+    cities: {
+      paris: { days: 'Dag 1–3', intro: 'Begin in de stad waar meer dan 500.000 honden het leven delen met hun baasjes. Parijs is verrassend relaxed over viervoetige gasten: de Marais, Saint-Germain en het Canal Saint-Martin verwelkomen aangelijnde honden in cafés en op terrassen. Het 850 hectare grote Bois de Boulogne en het 995 hectare grote Bois de Vincennes, beide bereikbaar met de metro, geven je hond de ruimte om te rennen na lange museumochtenden. De metro laat kleine honden gratis toe in een draagtas; grotere honden hebben een gereduceerd ticket en een lijn nodig.', highlight: 'Een must met je hond: een zonsondergangwandeling langs het Canal Saint-Martin', highlightDesc: 'Het 4,5 km lange kanaal tussen République en La Villette is volledig autovrij, gezoomd door hondvriendelijke caféterrassen, en eindigt bij het 55 hectare grote Parc de la Villette waar honden loslopen op de centrale grasvelden.' },
+      brussels: { days: 'Dag 4–5', intro: `Twee uur met de Thalys vanaf Paris-Nord. Brussel is een van de rustigste hondvriendelijke hoofdsteden van West-Europa: minder druk dan Parijs of Amsterdam, met een sterke cafécultuur en het gigantische Zoniënwoud (4.400 hectare beukenbos) aan de zuidrand van de stad. Bus, tram en metro nemen honden gratis mee. De meeste Belgische restaurants en winkels verwelkomen honden zonder vragen, een waterbakje bij de deur is een vertrouwd beeld.`, highlight: 'Een must met je hond: de lus Bois de la Cambre + Zoniënwoud', highlightDesc: `Neem tram 7 naar Vivier d'Oie. Het Bois de la Cambre (122 ha) gaat direct over in het Zoniënwoud, een aaneengesloten 4.500 hectare beukenbos, met losloopzones rond de Vijvers van Bosvoorde.` },
+      amsterdam: { days: 'Dag 6–8', intro: `Directe Eurostar vanaf Brussel-Zuid (1u45). Amsterdam is gebouwd voor honden: het Vondelpark (47 ha), het Westerpark en het Amstelpark hebben allemaal losloopgebieden; trams nemen honden mee tegen een klein tarief; de grachten zijn urenlang wandelterrein; en de hele Jordaan is een rustig walhalla voor hondenuitlaters. Let op de fietsen, die hebben altijd voorrang en zijn snel.`, highlight: 'Een must met je hond: de ochtendronde in het Vondelpark', highlightDesc: `Ga naar binnen bij de Stadhouderskade-ingang om 8:00 uur. Het 47 hectare grote park heeft meerdere losloopgebieden en je ontmoet er honderden locals die hetzelfde ochtendritueel volgen. Koffie bij 't Blauwe Theehuis achteraf, honden welkom op het terras.` },
+      berlin: { days: 'Dag 9–10', intro: 'Directe ICE-trein vanaf Amsterdam Centraal (~6 uur, hondenticket ~€8 bij Deutsche Bahn). Berlijn geldt algemeen als de hondvriendelijkste hoofdstad van Europa: naar schatting 100.000 geregistreerde honden, honden in elke U-Bahn- en S-Bahn-lijn, honden in winkels, honden op kantoor. De Tiergarten (210 ha vlak in het centrum) en het Volkspark Friedrichshain hebben enorme losloopgebieden. De wijken Prenzlauer Berg en Kreuzberg staan vol hondvriendelijke cafés.', highlight: 'Een must met je hond: een wandeling door de Tiergarten en langs de Spree', highlightDesc: 'Start bij de Brandenburger Tor, steek de Tiergarten over naar Schloss Bellevue en volg dan de Spree tot aan het Museumeiland. Ongeveer 6 km, grotendeels losloopgebied binnen het park. Locals stoppen voor een currywurst bij Curry 36, honden welkom aan de statafels.' },
+    },
+    hotelsLabel: 'Aanbevolen hondvriendelijke hotels',
+    bookLabel: 'Boek op Booking.com',
+    detailsLabel: 'Details',
+    mapLabel: 'Live kaart, alle hondvriendelijke hotels',
+    legsTitle: 'Vervoer tussen de steden',
+    legs: [
+      { from: 'Parijs', to: 'Brussel', duration: '~1u25', service: 'Thalys / Eurostar (direct)', petRule: 'Kleine honden in draagtas €7, grotere honden €30 (een ticket per hond).' },
+      { from: 'Brussel', to: 'Amsterdam', duration: '~1u50', service: 'Eurostar / Thalys (direct)', petRule: 'Zelfde tarieven als Parijs–Brussel. Je hond reist naast je, niet in het vrachtruim.' },
+      { from: 'Amsterdam', to: 'Berlijn', duration: '~6u20', service: 'Deutsche Bahn IC Berlin (direct, 4 keer per dag)', petRule: 'Kleine honden gratis in een draagtas. Grotere honden hebben een Hundeticket nodig (half volwassentarief, ~€20–40) en moeten een muilkorf en lijn dragen.' },
+    ],
+    practicalTitle: 'Voor je vertrekt: papieren, vaccinaties, dierenartscontacten',
+    practicalBullets: [
+      'EU-dierenpaspoort met geldige rabiësvaccinatie, verplicht bij elke hotelincheck. De vaccinatie moet minstens 21 dagen oud zijn en minder dan 12 maanden voor de standaard jaarlijkse prik.',
+      'Microchip ISO 11784/11785, verplicht in alle vier de landen. Moet overeenkomen met het paspoortnummer.',
+      'Geen lintwormbehandeling nodig voor deze route (alleen relevant voor het VK / Ierland / Finland / Noorwegen / Malta).',
+      `Sla de vier 24/7 spoedklinieken op in je telefoon voor je vertrekt: Parijs (CHV des Cordeliers, +33 1 47 47 47 47), Brussel (Vétérinaires d'Uccle, +32 2 374 80 99), Amsterdam (Medisch Centrum voor Dieren, +31 20 379 98 00), Berlijn (Tierärztliche Klinik Falkenried, +49 30 8541 7099).`,
+      `Neem altijd een zachte muilkorf mee in je tas, verplicht in de ICE/IC-treinen van Deutsche Bahn en in de metro's van Brussel en Berlijn voor grotere honden.`,
+    ],
+    faqTitle: 'Veelgestelde vragen',
+    faqs: [
+      { q: 'Kan ik deze hele reis echt zonder vliegen doen?', a: 'Ja. Alle drie de etappes zijn directe, hondvriendelijke treinen. De totale treintijd is ongeveer 9u45, verspreid over 10 dagen, goed te doen voor de meeste honden, zeker met langere stadsstops ertussen.' },
+      { q: 'Hoeveel kost de reis voor een koppel met een middelgrote hond?', a: `Reken op €1.200–€2.500 afhankelijk van de hotelcategorie. Treinkaartjes komen in totaal op ~€450–€700 voor 2 volwassenen + 1 hond als je 4 tot 6 weken vooraf boekt. De hondentoeslag ligt tussen €0 en €50 per stop, afhankelijk van het hotel.` },
+      { q: 'Wat is de beste tijd van het jaar voor deze route?', a: 'Mei-juni en september zijn ideaal: milde temperaturen (15–22 °C), rustige parken en volledige hotelbeschikbaarheid. Juli-augustus kan oplopen tot 32 °C in Parijs en Amsterdam, ongemakkelijk voor honden met een donkere vacht.' },
+      { q: 'Kan ik dit inkorten tot een lang weekend?', a: 'Ja, Parijs + Brussel (4 dagen) is de makkelijkste versie met twee steden. De Eurostar tussen beide duurt maar 1u25 en de huisdierregels zijn identiek.' },
+      { q: 'Wat als mijn hond zwaarder is dan 25 kg?', a: 'Alle vier steden zijn geschikt voor grote honden. Het enige knelpunt is de metro, waar een lijn en soms een muilkorf verplicht zijn. Hotels: de meeste luxehotels accepteren honden tot 25 kg, bel vooraf even om te bevestigen als jouw hond zwaarder is.' },
+    ],
+  },
 }
 
 function buildSticky(locale: string): StickyConfig {
@@ -301,8 +354,9 @@ function buildSticky(locale: string): StickyConfig {
     es: 'Hoteles pet-friendly París a Berlín',
     pt: `Hotéis pet-friendly Paris a Berlim`,
     de: 'Hundefreundliche Hotels von Paris bis Berlin',
+    nl: 'Hondvriendelijke hotels van Parijs tot Berlijn',
   }
-  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen' }
+  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen', nl: 'Bekijken' }
   return { href, label: labels[locale] ?? labels.en, cta: ctas[locale] ?? ctas.en }
 }
 

@@ -13,6 +13,7 @@ const STAY_TITLES_EUROSTAR: Record<string, string> = {
   es: `Dónde dormir: hoteles pet-friendly en cada ruta Eurostar`,
   pt: `Onde dormir: hotéis pet-friendly em cada rota Eurostar`,
   de: 'Übernachten: haustierfreundliche Hotels an jeder Eurostar-Strecke',
+  nl: 'Waar te overnachten: huisdiervriendelijke hotels op elke Eurostar-route',
 }
 
 const STICKY_LABELS_EUROSTAR: Record<string, { label: string; cta: string }> = {
@@ -21,6 +22,7 @@ const STICKY_LABELS_EUROSTAR: Record<string, { label: string; cta: string }> = {
   es: { label: 'Hoteles pet-friendly en Londres y París', cta: 'Ver hoteles' },
   pt: { label: 'Hotéis pet-friendly em Londres e Paris', cta: 'Ver hotéis' },
   de: { label: 'Haustierfreundliche Hotels in London und Paris', cta: 'Hotels ansehen' },
+  nl: { label: 'Huisdiervriendelijke hotels in Londen en Parijs', cta: 'Bekijk hotels' },
 }
 
 const SLUG = 'eurostar-with-dog'
@@ -392,6 +394,68 @@ const COPY: Record<string, Copy> = {
     ctaButton: 'Haustierfreundliche Hotels ansehen →',
     ctaHref: '/de/destinations',
     relatedTitle: 'Verwandte praktische Guides',
+  },
+  nl: {
+    hero: {
+      kicker: 'VRAGEN & ANTWOORDEN HUISDIERRENREIZEN · BIJGEWERKT 2026',
+      h1: 'Mag ik mijn hond meenemen in de Eurostar?',
+      tldr: 'Kort antwoord: nee, de Eurostar accepteert alleen geregistreerde assistentiehonden. Huisdierhonden en -katten zijn in geen enkele klasse toegestaan, ook niet in Premier en Business Premier. Het goede nieuws: er zijn drie betrouwbare, hondvriendelijke alternatieven tussen Londen en het Europese vasteland, en we leggen je elk daarvan uit.',
+    },
+    sections: [
+      { id: 'why', h2: 'Waarom staat de Eurostar geen huisdieren toe?', paras: [
+        'Deze beperking is een veiligheids- en hygiëneregel van de Kanaaltunnel, geen commerciële keuze. Volgens de bilaterale overeenkomst die de Kanaaltunnel regelt, mogen alleen geregistreerde assistentiehonden en dieren die via de voertuigdienst van Eurotunnel (Le Shuttle) worden vervoerd, de oversteek met de passagierstrein maken.',
+        'Deze regel geldt sinds de opening van de tunnel in 1994 en is bij geen van de eigendomswisselingen van Eurostar veranderd. De Brexit heeft er niets aan veranderd, en ook de aankomende open concurrentie van nieuwe spoorwegoperators op het Kanaaltraject zal er niets aan veranderen, want de beperking komt voort uit de tunnelconcessie zelf.',
+        'Het Eurostar-personeel kan zelfs voor emotionele-steundieren geen uitzondering maken: de Britse en EU-spoorwetgeving behandelt ze als huisdieren, niet als assistentiedieren. Alleen gecertificeerde assistentiehonden (geleidehonden, hoorhonden, medische alarmhonden), geregistreerd bij een lidorganisatie van Assistance Dogs International, mogen meereizen.',
+      ] },
+      { id: 'shuttle', h2: 'Alternatief nr. 1, Le Shuttle (Kanaaltunnel met de auto)', paras: [
+        'Le Shuttle (uitgevoerd door Eurotunnel/Getlink) is de populairste en betrouwbaarste optie voor reizigers met huisdieren. Je rijdt met je auto rechtstreeks een treinwagon op, en je huisdier blijft tijdens de 35 minuten durende tunneloversteek gewoon bij je in de auto, geen vrachtruim, geen scheiding, geen stress.',
+        'De huisdiertoeslag is £22 / €27 per dier, per enkele reis. Er is geen grootte- of rasbeperking (verboden gevaarlijke rassen onder Brits recht mogen echter sowieso niet het Verenigd Koninkrijk in). Tot 5 huisdieren per voertuig. Je boekt gewoon in de reguliere Le Shuttle-boekingsstap.',
+        'Praktische tip: huisdieren moeten tijdens de oversteek in het voertuig blijven. Jij blijft bij ze. Bij de terminals in Folkestone en Calais is een aangewezen hondenuitlaatplek, gebruik die voor en na de oversteek zodat je hond zijn behoefte kan doen.',
+      ] },
+      { id: 'ferries', h2: 'Alternatief nr. 2, veerboten over het Kanaal (Dover-Calais, Portsmouth-Caen enz.)', paras: [
+        'P&O Ferries, DFDS en Brittany Ferries exploiteren de belangrijkste autoveerroutes tussen het Verenigd Koninkrijk en Frankrijk/Spanje/Nederland. Huisdieren zijn op elke route toegestaan, meestal voor £20-£40 per enkele reis (de prijs varieert per maatschappij en route).',
+        'De meeste veerboten verlangen dat huisdieren tijdens de oversteek in het voertuig op de autodekken blijven, eigenaren kijken meestal halverwege even bij ze (omroepberichten geven aan wanneer dat mag). Op langere nachtroutes (Portsmouth-Bilbao, Hull-Rotterdam) bieden sommige schepen "huisdiervriendelijke hutten" met directe toegang aan, boek die ruim van tevoren.',
+        'Reis je als voetpassagier zonder auto, dan accepteren alleen bepaalde routes huisdieren: Brittany Ferries Plymouth-Roscoff laat voetpassagiers met huisdieren toe in een aparte kennelruimte. De meeste andere lijnen vereisen een voertuig.',
+      ] },
+      { id: 'flights', h2: 'Alternatief nr. 3, korte vluchten (Londen-Parijs, Londen-Brussel, Londen-Amsterdam)', paras: [
+        'British Airways, Air France en KLM staan honden in de cabine toe (onder de 8 kg in een transportbox) op routes van en naar London City en Heathrow. Grotere honden reizen als IATA-conforme vracht (klimaatgeregeld ruim).',
+        'Cabinetarief: doorgaans £100-£150 per dier, per enkele reis. Vrachtruim: £300-£500 per enkele reis voor middelgrote honden, meer voor grote rassen. Brachycefale rassen (Bulldogs, Mopshonden, Perzische katten) zijn bij de meeste maatschappijen verboden op zomerroutes en routes met korte tussenstops.',
+        'In de praktijk zijn vluchten trager dan Le Shuttle zodra je 2 uur voor inchecken, veiligheidscontrole, inreis en bagage ophalen meerekent. De tunnel is van deur tot deur sneller op het traject Londen-Parijs/Brussel/Amsterdam, en veel minder stressvol voor je hond.',
+      ] },
+      { id: 'recommendation', h2: 'Ons praktische advies', paras: [
+        'Voor 95% van de reizigers tussen het Verenigd Koninkrijk en het Europese vasteland is Le Shuttle de juiste keuze: goedkoopste huisdiertoeslag, snelste oversteek, je hond blijft de hele tijd bij je, geen scheiding. Boek een oversteek overdag en wees 30 minuten voor vertrek bij de terminal.',
+        'Veerboten zijn een goed alternatief als je liever niet helemaal naar Folkestone rijdt (bijvoorbeeld vanuit Yorkshire, Schotland of Wales), of als je de reis wilt verlengen met een veerboot naar Spanje of Nederland in plaats van door Frankrijk te rijden.',
+        'Vluchten zijn alleen zinvol voor heel kleine honden in de cabine op lange afstanden (Londen-Madrid, Londen-Rome), waarbij Le Shuttle twee dagen rijden zou betekenen. Voor alles binnen bereik van Le Shuttle wint de tunnel op elk vlak.',
+      ] },
+    ],
+    table: {
+      caption: 'Opties over het Kanaal voor reizen met je hond (prijzen 2026)',
+      head: ['Optie', 'Huisdiertoeslag (per enkele reis)', 'Oversteektijd', 'Hond bij jou?', 'Grootte-limiet', 'Boekingstermijn'],
+      rows: [
+        ['Le Shuttle (Kanaaltunnel)', '£22 / €27', '35 min.', 'Ja, in de auto', 'Geen (behoudens UK BSL)', '24 uur'],
+        ['P&O Dover-Calais', '£24', '90 min.', 'In het voertuig (autodekken gesloten)', 'Geen', '48 uur'],
+        ['DFDS Dover-Duinkerke', '£20', '2 uur', 'In het voertuig', 'Geen', '48 uur'],
+        ['Brittany Ferries Portsmouth-Caen', '£35', '6 uur', 'In het voertuig of huisdierhut', 'Geen', '7 dagen'],
+        ['British Airways cabine (<8 kg)', '£150', '1 uur vlucht + 4 uur transit', 'In de box onder de stoel', '8 kg incl. box', '7 dagen'],
+        ['British Airways vracht (>8 kg)', '£350+', '1 uur vlucht + 5 uur transit', 'In het ruim (klimaatgeregeld)', 'Geen bovengrens', '14 dagen'],
+        ['Eurostar', ',', ',', 'NIET TOEGESTAAN', 'Alleen assistentiehonden', ','],
+      ],
+    },
+    faqTitle: 'Veelgestelde vragen',
+    faqs: [
+      { q: 'Zijn emotionele-steundieren toegestaan in de Eurostar?', a: 'Nee. De Eurostar volgt de Britse en EU-spoorwetgeving, die emotionele-steundieren classificeert als huisdieren, niet als assistentiedieren. Alleen gecertificeerde assistentiehonden (geleide-, hoor- of medische alarmhonden) zijn toegestaan, en de certificering moet afkomstig zijn van een lidorganisatie van Assistance Dogs International.' },
+      { q: 'Hoe zit het met Eurostar Snap-tickets (goedkope last-minute tickets)?', a: 'Dezelfde regels gelden in alle klassen: Standard, Standard Premier, Business Premier en Snap. Geen enkele Eurostar-klasse accepteert huisdieren.' },
+      { q: 'Mag ik een kleine hond in een transportbox als handbagage meenemen?', a: 'Nee. De Eurostar staat huisdierhonden of -katten zelfs niet toe in een gesloten transportbox. Ook hamsters, konijnen en andere kleine zoogdieren zijn niet toegestaan, tenzij het geregistreerde assistentiedieren betreft.' },
+      { q: 'Gaat de regel voor huisdierreizen tussen Londen en Parijs ooit veranderen?', a: 'Op korte termijn onwaarschijnlijk. De regel wordt bepaald door de Kanaaltunnelconcessie, niet door de Eurostar. Nieuwe spoorwegoperators die vanaf 2026-2027 worden verwacht (Evolyn, FS) krijgen te maken met dezelfde beperking. Huisdierreizen met de passagierstrein door de tunnel zouden een heronderhandeling van de concessie vereisen.' },
+      { q: 'Hoe lang duurt Le Shuttle, is het echt maar 35 minuten?', a: 'Ja, de eigenlijke treinoversteek duurt 35 minuten vanaf het vertrek van de trein. Reken daarbij 30-45 minuten op de Britse terminal voor inchecken en veiligheidscontrole, en een vergelijkbare tijd aan de Franse kant. De totale ervaring van terminal tot terminal duurt ongeveer 90 minuten.' },
+      { q: 'Heb ik voor mijn hond op Le Shuttle documenten nodig?', a: 'Ja. Voor inreis in het Verenigd Koninkrijk vanuit de EU is een dierengezondheidscertificaat (AHC, 10 dagen geldig) vereist, plus een verplichte lintwormbehandeling door een dierenarts tussen 24 uur en 5 dagen voor aankomst in het Verenigd Koninkrijk. Voor inreis in de EU vanuit het Verenigd Koninkrijk is een EU-huisdierenpaspoort of EU-AHC vereist, plus een minstens 21 dagen geldige rabiësvaccinatie.' },
+      { q: 'Kan ik van Londen naar Amsterdam reizen met mijn hond zonder zelf te rijden?', a: 'Ja, neem de veerboot over het Kanaal naar Hoek van Holland (Stena Line, Harwich-Hoek van Holland, 7 uur \'s nachts) en reis verder met de Nederlandse Spoorwegen (NS), die aangelijnde honden accepteren voor €3,20 per dag. Of vlieg met KLM in de cabine of als vracht. Er is geen directe treinoptie met huisdieren.' },
+    ],
+    ctaTitle: 'Plan je een reis van Londen naar Europa met je hond?',
+    ctaDesc: 'Ontdek onze huisdiervriendelijke hotels in Parijs, Brussel, Amsterdam en Berlijn, allemaal vanuit Londen met Le Shuttle in minder dan 8 uur rijden bereikbaar.',
+    ctaButton: 'Bekijk huisdiervriendelijke hotels →',
+    ctaHref: '/nl/destinations',
+    relatedTitle: 'Gerelateerde praktische gidsen',
   },
 }
 

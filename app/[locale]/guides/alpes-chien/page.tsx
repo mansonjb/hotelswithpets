@@ -20,6 +20,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     es: 'Ciudades alpinas con tu perro: Ginebra → Zúrich → Múnich → Salzburgo (itinerario 10 días)',
     pt: 'Cidades alpinas com tu cão: Genebra → Zurique → Munique → Salzburgo (itinerario 10 dias)',
     de: 'Alpenstädte mit Ihrem Hund: Genf → Zürich → München → Salzburg (10-Tage-Reiseroute)',
+    nl: 'Alpensteden met jouw hond: Genève → Zürich → München → Salzburg (route van 10 dagen)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 10-day Alpine train itinerary with your dog through Switzerland, Germany and Austria. Lake walks, Alpine hikes, dog-friendly hotels, ICE/CFF rules and live Booking.com maps for every stop.',
@@ -27,6 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     es: 'Itinerario alpino de 10 días en tren con tu perro por Suiza, Alemania y Austria. Paseos junto a lagos, rutas alpinas, hoteles que admiten mascotas, normas ICE/CFF y mapas Booking.com en vivo para cada parada.',
     pt: 'Itinerario alpino de 10 dias de comboio com tu cão por Suiza, Alemania e Austria. Passeios junto a lagos, rutas alpinas, hotéis que admiten animais, normas ICE/CFF e mapas Booking.com en vivo para cada parada.',
     de: 'Eine 10-tägige alpine Zugreise mit Ihrem Hund durch die Schweiz, Deutschland und Österreich. Spaziergänge am See, alpine Wanderungen, hundefreundliche Hotels, ICE-/CFF-Regeln und Live-Karten von Booking.com für jeden Halt.',
+    nl: 'Een 10-daagse alpenroute per trein met jouw hond door Zwitserland, Duitsland en Oostenrijk. Wandelingen langs meren, alpenwandelingen, hondvriendelijke hotels, ICE/CFF-regels en live Booking.com-kaarten voor elke stop.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -268,6 +270,50 @@ const COPY: Record<string, RouteCopy> = {
       { q: 'Sind Biergärten in München wirklich hundefreundlich?', a: 'Ja, die bayerische Biergartentradition heißt angeleinte Hunde ausdrücklich willkommen. Der Hofbräukeller, der Augustiner-Keller, der Hirschau, der Chinesische Turm, alle haben Wassernäpfe am Eingang. Manche Innenräume lassen keine Hunde hinein; die Tische im Freien immer.' },
     ],
   },
+  nl: {
+    hero: { tagline: 'ALPENROUTE · 10 DAGEN · MET JOUW HOND', title: 'Een treinreis door de Alpen met jouw hond: Genève → Salzburg', subtitle: 'Genève, Zürich, München en Salzburg, vier steden aan de voet van de Alpen, verbonden door directe treinen. Wandelingen langs het meer, bergwandelingen, huisdiervriendelijke hotels en live kaarten van Booking.com voor elke stop.' },
+    why: { title: 'Waarom deze alpenroute werkt voor hondenbezitters', bullets: [
+      'Zwitserland, Duitsland en Oostenrijk zijn volgens officiële cijfers (DogFriendly.eu 2025) de drie hondvriendelijkste landen van Europa.',
+      'Rechtstreeks met CFF/SBB- en Deutsche Bahn ICE-treinen, jouw hond reist naast je, met schitterende alpenuitzichten.',
+      'Elke stop biedt eersteklas stadsparken EN directe treinen/bussen naar echte bergwandelpaden (Zugspitze, Säntis, Untersberg).',
+      'Koelere zomers (doorgaans 22-28 °C), de makkelijkste Europese route voor kortsnuitige rassen in juli en augustus.',
+      'Zwitserland zit NIET in de EU, maar de huisdierregels sluiten aan bij de EU: dierenpaspoort en rabiësvaccinatie worden aan de grens geaccepteerd. Geen quarantaine.',
+    ] },
+    stats: { duration: 'Duur', cities: 'Steden', transport: 'Vervoer', budget: 'Budget', durationVal: '10 dagen', citiesVal: '4 steden', transportVal: 'Trein (CFF / DB ICE / ÖBB Railjet)', budgetVal: '€1.400-€2.800' },
+    citiesIntro: { kicker: 'STAD VOOR STAD', title: 'Jouw stops, jouw hotels, jouw kaart' },
+    cities: {
+      geneva: { days: 'Dag 1-2', intro: 'Begin aan de zuidwestpunt van het Meer van Genève. Zwitserland staat bekend om zijn hondvriendelijkheid: trams, bussen en treinen laten alle honden toe (kleine gratis, grotere tegen halve prijs), restaurants accepteren aangelijnde honden standaard, en het Bois de la Bâtie is een van de weinige bossen in het centrum van Genève waar honden het hele jaar los mogen lopen. De Quai du Mont-Blanc en het pad langs het meer hebben elke 100 m een bankje en elke 500 m een drinkfontein.', highlight: 'Een must met jouw hond: een dagtrip met de kabelbaan naar de Mont-Salève', highlightDesc: 'Steek de grens over naar Frankrijk (geen grenscontrole voor EU-huisdieren) en neem de Téléphérique du Salève, in 5 minuten naar 1.100 m hoogte. Honden reizen aangelijnd gratis mee. Bovenop liggen 30 km gemarkeerde paden, korte lussen zijn in 2 uur te doen.' },
+      zurich: { days: 'Dag 3-4', intro: 'Drie uur met de directe CFF-trein vanuit Genève, een van de mooiste alpentreinritten van Europa. Zürich zit vol groen: de Uetliberg (bosheuvel, 870 m) is in 25 minuten met de S-Bahn te bereiken, en de oever van het meer heeft 4 km autovrije wandelpaden. De smalle straatjes van de oude stad en de Bahnhofstrasse (duurste winkelstraat van Europa) zijn hondvriendelijk; veel luxeboetieks verwelkomen honden uitdrukkelijk.', highlight: 'Een must met jouw hond: zonsopganghike op de Uetliberg', highlightDesc: 'S10 vanaf het Hauptbahnhof naar Uetliberg in 25 minuten (hondenticket 12 CHF). De uitkijktoren op de top opent om 6 uur. De afdaling van 5 km via Felsenegg geeft je in één keer de stad, het meer en de hele Glarner Alpen te zien.' },
+      munich: { days: 'Dag 5-7', intro: 'Directe Deutsche Bahn EC vanuit Zürich (4 uur, hondenticket €25). München is een van de hondvriendelijkste steden van Duitsland: de 375 hectare grote Engelse Tuin is groter dan Central Park, honden reizen voor €3 mee met de U-Bahn en S-Bahn (Hundekarte voor één dag), biergartens verwelkomen honden uitdrukkelijk (overal waterbakjes), en het pad langs de Isar biedt 14 km aanlijnvrije route dwars door de stad.', highlight: 'Een must met jouw hond: een wandeling langs de Isar met lunch in een biergarten', highlightDesc: 'Loop vanuit het centrum zuidwaarts langs de Isar naar biergarten Hirschau (4 km, aanlijnvrij voorbij de Wittelsbacherbrücke). De tuin heeft meer dan 1.000 schaduwrijke zitplaatsen onder kastanjebomen; honden zijn welkom aan elke tafel. Bestel een Brezel voor jullie allebei.' },
+      salzburg: { days: 'Dag 8-10', intro: 'Directe ÖBB Railjet vanuit München Hauptbahnhof in 1u30 (hondenticket €15). Salzburg is klein, goed te voet te doen en de poort naar het Salzkammergut (Wolfgangsee, Mondsee, Fuschlsee, allemaal hondvriendelijk met autovrije promenades). De Mönchsberg (542 m, met de lift te bereiken vanuit de oude stad) heeft hondvriendelijke paden. Het geboortehuis van Mozart laat geen honden binnen, maar verder overal buiten wel.', highlight: 'Een must met jouw hond: een dagtrip naar de Wolfgangsee', highlightDesc: 'Postbus 150 vanaf Salzburg-Mirabellplatz naar St. Gilgen in 50 minuten (honden gratis mee). Rondom het meer liggen 27 km wandelpaden, en de Zwölferhornbahn (hondvriendelijk) brengt je naar 1.500 m voor het panoramische uitzicht.' },
+    },
+    hotelsLabel: 'Aanbevolen huisdiervriendelijke hotels',
+    bookLabel: 'Boek op Booking.com',
+    detailsLabel: 'Details',
+    mapLabel: 'Live kaart, alle huisdiervriendelijke hotels',
+    legsTitle: 'Vervoer tussen de steden',
+    legs: [
+      { from: 'Genève', to: 'Zürich', duration: '~2u45', service: 'CFF/SBB IC (direct, elk uur)', petRule: 'Kleine honden in draagtas gratis. Grotere honden hebben een ticket tegen halve prijs nodig (~25 CHF). Geen muilkorf verplicht als de hond aangelijnd en rustig is. Een van de hondvriendelijkste treinen van Europa.' },
+      { from: 'Zürich', to: 'München', duration: '~4u', service: 'Deutsche Bahn EC (direct, 6x per dag)', petRule: 'Kleine honden in draagtas gratis. Grotere honden hebben een Hundeticket nodig (~€25, halve volwassenprijs). Lijn en zachte muilkorf verplicht voor grotere honden.' },
+      { from: 'München', to: 'Salzburg', duration: '~1u30', service: 'ÖBB Railjet (direct, elke 1-2u)', petRule: 'Kleine honden in draagtas gratis. Grotere honden tegen halve prijs (~€15). Lijn en muilkorf verplicht. Schilderachtig Beiers-Oostenrijks landschap.' },
+    ],
+    practicalTitle: 'Voor vertrek: papieren, vaccinaties, dierenartscontacten',
+    practicalBullets: [
+      'EU-dierenpaspoort met geldige rabiësvaccinatie (21+ dagen oud). Zwitserland accepteert het EU-paspoort (geen EU-lid, maar wel binnen het dierenpaspoortsysteem).',
+      'Microchip ISO 11784/11785, verplicht in alle vier de landen.',
+      'Zwitserland en Oostenrijk heffen een Hundesteuer (hondenbelasting) voor inwoners. Bezoekers zijn vrijgesteld; sommige hotels vragen om bewijs van aansprakelijkheidsverzekering, bel vooraf als jouw eigen verzekering ongebruikelijk is.',
+      'Beieren en Oostenrijk hebben rassenlijsten (Listenhunde): Am. Staff, Pitbull, Bullterriër, Rottweiler, eigenaars hebben een vergunning nodig en de hond moet in het openbaar een muilkorf dragen.',
+      'Bewaar deze 24/7-dierenartsen: Genève (Centre Vétérinaire Rive-Gauche, +41 22 743 33 33), Zürich (Tierspital Zürich, +41 44 635 81 11), München (Tierärztliche Klinik Haar, +49 89 460 74 24), Salzburg (Tierklinik Land Salzburg, +43 662 870150).',
+    ],
+    faqTitle: 'Veelgestelde vragen',
+    faqs: [
+      { q: 'Heb ik een speciale vergunning nodig om met mijn hond Zwitserland binnen te komen?', a: 'Nee, het EU-dierenpaspoort met geldige rabiësvaccinatie wordt geaccepteerd aan de Zwitserse grens. Geen douanepapieren nodig. De hond moet gechipt zijn en de rabiësvaccinatie moet minstens 21 dagen oud zijn.' },
+      { q: 'Hoeveel kost de reis?', a: 'Reken op €1.400-€2.800. Zwitserland is het duurste deel (hotels ~50% duurder dan in Duitsland/Oostenrijk). Treinkaartjes kosten samen ~€350-€550 voor 2 volwassenen + 1 hond bij boeking 4-6 weken vooraf.' },
+      { q: 'Kan ik mijn hond echt meenemen in een alpenkabelbaan?', a: 'Ja, bijna elke alpenkabelbaan in Zwitserland, Beieren en Oostenrijk accepteert aangelijnde honden. Sommige vereisen een muilkorf in de cabine. Salève, Uetliberg, Zugspitze, Untersberg, Zwölferhorn, allemaal hondvriendelijk.' },
+      { q: 'Wat is de beste tijd van het jaar?', a: 'Eind mei tot begin oktober. De zomer is de makkelijkste Europese route voor honden (koeler dan Zuid-Europa). De winter heeft zijn eigen charme (sneeuwwandelingen, kerstmarkten), maar de alpenpassen zijn kouder voor kortharige rassen.' },
+      { q: 'Zijn biergartens in München echt hondvriendelijk?', a: 'Ja, de Beierse biergarten-traditie verwelkomt aangelijnde honden uitdrukkelijk. Hofbräukeller, Augustiner-Keller, Hirschau en Chinesischer Turm hebben allemaal waterbakjes bij de ingang. Sommige binnenzalen laten geen honden toe; buitentafels altijd.' },
+    ],
+  },
 }
 
 function buildSticky(locale: string): StickyConfig {
@@ -279,8 +325,9 @@ function buildSticky(locale: string): StickyConfig {
     es: 'Hoteles pet-friendly ruta alpina',
     pt: `Hotéis pet-friendly rota alpina`,
     de: 'Haustierfreundliche Hotels Alpenroute',
+    nl: 'Huisdiervriendelijke hotels alpenroute',
   }
-  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen' }
+  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen', nl: 'Bekijk' }
   return { href, label: labels[locale] ?? labels.en, cta: ctas[locale] ?? ctas.en }
 }
 

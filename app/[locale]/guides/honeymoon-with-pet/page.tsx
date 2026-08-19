@@ -20,6 +20,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   es: { label: 'Hoteles románticos pet-friendly en Europa', cta: 'Ver hoteles' },
   pt: { label: 'Hotéis românticos pet-friendly na Europa', cta: 'Ver hotéis' },
   de: { label: 'Romantische haustierfreundliche Hotels in Europa', cta: 'Hotels ansehen' },
+  nl: { label: 'Romantische hondvriendelijke hotels in Europa', cta: 'Bekijk hotels' },
 }
 
 export async function generateStaticParams() {
@@ -40,6 +41,7 @@ export async function generateMetadata({
     es: `Luna de miel con tu perro: 6 destinos románticos pet-friendly en Europa (2026)`,
     pt: `Lua de mel com o seu cão: 6 destinos românticos pet-friendly na Europa (2026)`,
     de: `Flitterwochen mit Hund: 6 romantische haustierfreundliche Reiseziele in Europa (2026)`,
+    nl: `Huwelijksreis met je hond: 6 romantische hondvriendelijke bestemmingen in Europa (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Six European destinations that work for a romantic honeymoon with a dog or a cat: lakeside hotels, palace-village pairings and seaside escapes that genuinely welcome pets in the room.`,
@@ -47,6 +49,7 @@ export async function generateMetadata({
     es: `Seis destinos europeos perfectos para una luna de miel con perro o gato: hoteles a orillas del lago, palacios-pueblo y escapadas marítimas que admiten realmente a las mascotas en la habitación.`,
     pt: `Seis destinos europeus perfeitos para uma lua de mel com cão ou gato: hotéis à beira do lago, palácios-aldeia e escapadelas à beira-mar que aceitam realmente animais no quarto.`,
     de: `Sechs europäische Reiseziele für Flitterwochen mit Hund oder Katze: Hotels am See, Palast-Dörfer und Küstenausflüge, die Haustiere im Zimmer wirklich willkommen heißen.`,
+    nl: `Zes Europese bestemmingen die perfect zijn voor een romantische huwelijksreis met hond of kat: hotels aan het meer, paleisdorpjes en kustuitjes waar huisdieren echt welkom zijn op de kamer.`,
   }
   return {
     title: titles[locale] ?? titles.en,
@@ -82,11 +85,13 @@ type Pick = {
   whyEs: string
   whyPt: string
   whyDe?: string
+  whyNl?: string
   hotelEn: string
   hotelFr: string
   hotelEs: string
   hotelPt: string
   hotelDe?: string
+  hotelNl?: string
   hotelName: string
 }
 
@@ -101,12 +106,14 @@ const PICKS: Pick[] = [
     whyEs: `El Palacio da Pena, los jardines de la Quinta da Regaleira y los bosques de palmeras en una zona UNESCO de 90 km². Clima atlántico suave todo el año, senderos de la Serra de Sintra abiertos a perros con correa, aeropuerto de Lisboa a 30 minutos.`,
     whyPt: `O Palácio da Pena, os jardins da Quinta da Regaleira e as florestas de palmeiras numa zona UNESCO de 90 km². Clima atlântico suave todo o ano, trilhos da Serra de Sintra abertos a cães à trela, aeroporto de Lisboa a 30 minutos.`,
     whyDe: `Der Palácio da Pena, die Gärten der Quinta da Regaleira und Palmenwälder in einer 90 km² großen UNESCO-Zone. Mildes Atlantikklima das ganze Jahr über, Wanderwege der Serra de Sintra sind für angeleinte Hunde zugänglich, Flughafen Lissabon nur 30 Minuten entfernt.`,
+    whyNl: `Het Paleis van Pena, de tuinen van de Quinta da Regaleira en palmbossen in een 90 km² grote UNESCO-zone. Mild Atlantisch klimaat het hele jaar door, wandelpaden van de Serra de Sintra zijn toegankelijk voor honden aan de lijn, en de luchthaven van Lissabon ligt op 30 minuten.`,
     hotelName: 'Tivoli Palácio de Seteais',
     hotelEn: `Tivoli Palácio de Seteais - an 18th-century neoclassical palace turned 5-star hotel, framed by formal gardens with a Pena Palace view. Small pets welcome on request.`,
     hotelFr: `Tivoli Palácio de Seteais - palais néoclassique du XVIIIᵉ converti en 5 étoiles, jardins à la française avec vue sur le Palais de Pena. Petits animaux acceptés sur demande.`,
     hotelEs: `Tivoli Palácio de Seteais - palacio neoclásico del siglo XVIII reconvertido en 5 estrellas, jardines a la francesa con vista al Palacio da Pena. Mascotas pequeñas a petición.`,
     hotelPt: `Tivoli Palácio de Seteais - palácio neoclássico do século XVIII convertido em 5 estrelas, jardins à francesa com vista sobre o Palácio da Pena. Animais pequenos a pedido.`,
     hotelDe: `Tivoli Palácio de Seteais - ein neoklassizistischer Palast aus dem 18. Jahrhundert, umgewandelt in ein 5-Sterne-Hotel, umgeben von formalen Gärten mit Blick auf den Palácio da Pena. Kleine Haustiere auf Anfrage willkommen.`,
+    hotelNl: `Tivoli Palácio de Seteais - een neoclassicistisch paleis uit de 18e eeuw, omgebouwd tot 5-sterrenhotel, omgeven door formele tuinen met uitzicht op het Paleis van Pena. Kleine huisdieren welkom op aanvraag.`,
   },
   {
     slug: 'como',
@@ -118,12 +125,14 @@ const PICKS: Pick[] = [
     whyEs: `Lago prealpino con grandes villas al pie de montañas con cipreses. Los ferris entre Bellagio, Varenna y Como admiten perros con correa gratis, los paseos del lago son íntegramente caminables, y el clima sigue siendo soportable para razas de hocico corto incluso en julio.`,
     whyPt: `Lago pré-alpino com vilas grandiosas ao pé de montanhas com ciprestes. Os ferries entre Bellagio, Varenna e Como aceitam cães à trela gratuitamente, os passeios do lago são inteiramente percorríveis, e o clima permanece suportável para raças de focinho curto mesmo em julho.`,
     whyDe: `Voralpensee mit prachtvollen Villen am Fuß zypressenbewachsener Berge. Die Fähren zwischen Bellagio, Varenna und Como nehmen angeleinte Hunde kostenlos mit, die Uferpromenaden sind komplett hundetauglich, und das Klima bleibt selbst im Juli für kurznasige Rassen erträglich.`,
+    whyNl: `Voor-Alpenmeer met grootse villa's aan de voet van met cipressen begroeide bergen. De veerboten tussen Bellagio, Varenna en Como nemen honden aan de lijn gratis mee, de oeverpromenades zijn helemaal met de hond te belopen, en het klimaat blijft zelfs in juli draaglijk voor rassen met een korte snuit.`,
     hotelName: 'Grand Hotel Tremezzo',
     hotelEn: `Grand Hotel Tremezzo - Belle Époque palace directly on the lake, with the most famous floating pool in Italy. Dogs welcomed with bed, bowls and a welcome amenity.`,
     hotelFr: `Grand Hotel Tremezzo - palace Belle Époque en bord de lac, avec la piscine flottante la plus célèbre d'Italie. Chiens accueillis avec panier, gamelles et amenity de bienvenue.`,
     hotelEs: `Grand Hotel Tremezzo - palacio Belle Époque a orillas del lago, con la piscina flotante más famosa de Italia. Perros bienvenidos con cama, comederos y obsequio de bienvenida.`,
     hotelPt: `Grand Hotel Tremezzo - palace Belle Époque à beira do lago, com a piscina flutuante mais famosa de Itália. Cães bem-vindos com cama, tigelas e amenity de boas-vindas.`,
     hotelDe: `Grand Hotel Tremezzo - Belle-Époque-Palast direkt am See, mit dem berühmtesten schwimmenden Pool Italiens. Hunde willkommen mit Bett, Näpfen und einem Begrüßungsgeschenk.`,
+    hotelNl: `Grand Hotel Tremezzo - Belle Époque-paleis direct aan het meer, met het beroemdste drijvende zwembad van Italië. Honden welkom met mand, bakjes en een welkomstattentie.`,
   },
   {
     slug: 'antibes',
@@ -135,12 +144,14 @@ const PICKS: Pick[] = [
     whyEs: `El tramo más discreto de la Costa Azul, entre Cannes y Niza. Los 5 km del Sentier du Littoral del Cap admiten perros con correa todo el año, la oferta de hoteles boutique es densa, y puedes aterrizar en Niza (NCE) y prescindir del coche con el TER.`,
     whyPt: `O troço mais discreto da Riviera Francesa, entre Cannes e Nice. Os 5 km do Sentier du Littoral do Cap aceitam cães à trela todo o ano, a oferta de hotéis boutique é densa, e pode aterrar em Nice (NCE) sem alugar carro usando o TER.`,
     whyDe: `Der diskreteste Abschnitt der Côte d'Azur, zwischen Cannes und Nizza. Die 5 km lange Küstenwanderung Sentier du Littoral des Cap ist ganzjährig für angeleinte Hunde geöffnet, das Angebot an Boutique-Hotels ist dicht, und man landet in Nizza (NCE) und kommt mit dem TER ganz ohne Auto aus.`,
+    whyNl: `Het meest ingetogen stuk van de Côte d'Azur, tussen Cannes en Nice. De 5 km lange kustwandeling Sentier du Littoral van het Cap is het hele jaar open voor honden aan de lijn, het aanbod aan boutiquehotels is groot, en je landt in Nice (NCE) en komt met de TER helemaal zonder auto uit.`,
     hotelName: `Hôtel Beau Site Cap d'Antibes`,
     hotelEn: `Hôtel Beau Site Cap d'Antibes - 200 m from the Sentier du Littoral trailhead, pets up to 10 kg welcomed at no extra charge, garden and pool, the calm Cap d'Antibes setting away from the summer crowds.`,
     hotelFr: `Hôtel Beau Site Cap d'Antibes - à 200 m du départ du Sentier du Littoral, chiens jusqu'à 10 kg acceptés sans supplément, jardin et piscine, le calme du Cap loin de l'agitation estivale.`,
     hotelEs: `Hôtel Beau Site Cap d'Antibes - a 200 m del inicio del Sentier du Littoral, perros hasta 10 kg admitidos sin coste, jardín y piscina, la calma del Cap lejos del bullicio veraniego.`,
     hotelPt: `Hôtel Beau Site Cap d'Antibes - a 200 m do início do Sentier du Littoral, cães até 10 kg aceites sem custo, jardim e piscina, a calma do Cap longe da multidão estival.`,
     hotelDe: `Hôtel Beau Site Cap d'Antibes - 200 m vom Startpunkt des Sentier du Littoral entfernt, Haustiere bis 10 kg ohne Aufpreis willkommen, Garten und Pool, die Ruhe des Cap d'Antibes abseits des Sommertrubels.`,
+    hotelNl: `Hôtel Beau Site Cap d'Antibes - op 200 m van het beginpunt van de Sentier du Littoral, huisdieren tot 10 kg welkom zonder toeslag, tuin en zwembad, de rust van het Cap d'Antibes ver van de zomerse drukte.`,
   },
   {
     slug: 'bruges',
@@ -152,12 +163,14 @@ const PICKS: Pick[] = [
     whyEs: `Una ciudad medieval cuyo casco antiguo es UNESCO y donde los canales son cruzados por más de 50 puentes. Los carruajes a caballo toleran perros tranquilos, la plaza del Markt acoge chocolaterías dog-friendly, y el Minnewater "lago del amor" es el paseo romántico tópico-pero-real.`,
     whyPt: `Uma cidade medieval cuja zona antiga é UNESCO e onde os canais são atravessados por mais de 50 pontes. As carruagens puxadas a cavalo toleram cães calmos, a praça do Markt acolhe chocolatarias dog-friendly, e o Minnewater "lago do amor" é o passeio romântico clichê-mas-verdadeiro.`,
     whyDe: `Eine mittelalterliche Stadt, deren Altstadt UNESCO-Welterbe ist und deren Grachten von über 50 Brücken überquert werden. Die Pferdekutschen tolerieren ruhige Hunde, der Markt beherbergt haustierfreundliche Schokoladenläden, und der Minnewater, der "See der Liebe", ist der klischeehafte, aber wahrhaft romantische Spaziergang.`,
+    whyNl: `Een middeleeuwse stad waarvan de binnenstad UNESCO-werelderfgoed is en waar de grachten door meer dan 50 bruggen worden overspannen. De paardenkoetsen tolereren rustige honden, de Markt herbergt hondvriendelijke chocolatiers, en het Minnewater, het "meer der liefde", is die romantische wandeling die cliché is, maar wel klopt.`,
     hotelName: 'Boutique Hotel De Castillion',
     hotelEn: `Boutique Hotel De Castillion - 15-room townhouse in a former bishop's residence, walking distance to the Markt. Small dogs welcome, breakfast in the walled garden.`,
     hotelFr: `Boutique Hotel De Castillion - 15 chambres dans une ancienne résidence épiscopale, à pied du Markt. Petits chiens bienvenus, petit-déjeuner dans le jardin clos.`,
     hotelEs: `Boutique Hotel De Castillion - 15 habitaciones en una antigua residencia episcopal, andando al Markt. Perros pequeños bienvenidos, desayuno en el jardín tapiado.`,
     hotelPt: `Boutique Hotel De Castillion - 15 quartos numa antiga residência episcopal, a pé do Markt. Cães pequenos bem-vindos, pequeno-almoço no jardim murado.`,
     hotelDe: `Boutique Hotel De Castillion - Stadthaus mit 15 Zimmern in einer ehemaligen Bischofsresidenz, fußläufig zum Markt. Kleine Hunde willkommen, Frühstück im ummauerten Garten.`,
+    hotelNl: `Boutique Hotel De Castillion - herenhuis met 15 kamers in een voormalige bisschopswoning, op loopafstand van de Markt. Kleine honden welkom, ontbijt in de ommuurde tuin.`,
   },
   {
     slug: 'hallstatt',
@@ -169,12 +182,14 @@ const PICKS: Pick[] = [
     whyEs: `El cuento de hadas alpino del que las revistas de viaje no paran, y por una vez está justificado. Pueblo a orillas del lago con balcones de madera, el ferri del Hallstätter See admite perros con correa gratis, y el sendero del Salzberg es dog-friendly en la parte exterior.`,
     whyPt: `O conto de fadas alpino do qual as revistas de viagem não se calam, e por uma vez é merecido. Aldeia à beira do lago com varandas de madeira, o ferry do Hallstätter See aceita cães à trela gratuitamente, e o trilho do Salzberg é dog-friendly na parte exterior.`,
     whyDe: `Das alpine Märchen, von dem die Reisemagazine nicht genug bekommen, und ausnahmsweise zu Recht. Dorf am See mit Holzbalkonen, die Fähre auf dem Hallstätter See nimmt angeleinte Hunde kostenlos mit, und der Weg zum Salzberg ist im oberirdischen Abschnitt hundefreundlich.`,
+    whyNl: `Het alpiene sprookje waar reismagazines maar niet over uitgepraat raken, en dat voor één keer terecht is. Dorp aan het meer met houten balkons, de veerboot op het Hallstätter See neemt honden aan de lijn gratis mee, en het bovengrondse deel van het pad naar de Salzberg is hondvriendelijk.`,
     hotelName: 'Seehotel Grüner Baum',
     hotelEn: `Seehotel Grüner Baum - historic 4-star directly on the Marktplatz, pets welcomed in rooms with a lakeside terrace.`,
     hotelFr: `Seehotel Grüner Baum - 4 étoiles historique sur la Marktplatz, chiens acceptés en chambre avec terrasse en bord de lac.`,
     hotelEs: `Seehotel Grüner Baum - 4 estrellas histórico en la Marktplatz, perros admitidos en habitación con terraza junto al lago.`,
     hotelPt: `Seehotel Grüner Baum - 4 estrelas histórico na Marktplatz, cães aceites em quarto com esplanada à beira do lago.`,
     hotelDe: `Seehotel Grüner Baum - historisches 4-Sterne-Haus direkt am Marktplatz, Haustiere willkommen in Zimmern mit Seeterrasse.`,
+    hotelNl: `Seehotel Grüner Baum - historisch 4-sterrenhotel direct aan de Marktplatz, huisdieren welkom in kamers met terras aan het meer.`,
   },
   {
     slug: 'bordeaux',
@@ -186,12 +201,14 @@ const PICKS: Pick[] = [
     whyEs: `El vino y la piedra para una luna de miel más tranquila. El Quai des Chartrons, el espejo de agua de la Place de la Bourse, los tranvías gratis para perros, y los châteaux del Médoc a 45 minutos que admiten perros tranquilos en visitas de bodega. Dos horas de París en TGV.`,
     whyPt: `O vinho e a pedra para uma lua de mel mais calma. O Quai des Chartrons, o espelho de água da Place de la Bourse, os elétricos gratuitos para cães, e os châteaux do Médoc a 45 minutos que aceitam cães educados nas visitas de adega. Duas horas de Paris em TGV.`,
     whyDe: `Wein und Stein für Flitterwochen der ruhigeren Art. Der Quai des Chartrons, der Wasserspiegel auf der Place de la Bourse, die Straßenbahnen, in denen Hunde kostenlos mitfahren, und die Château-Weingüter im Médoc, 45 Minuten entfernt, die wohlerzogene Hunde bei Kellerbesichtigungen willkommen heißen. Zwei Stunden von Paris mit dem TGV.`,
+    whyNl: `Wijn en steen voor een rustigere huwelijksreis. De Quai des Chartrons, de waterspiegel op de Place de la Bourse, de trams waarin honden gratis meereizen, en de château's in de Médoc, 45 minuten verderop, die brave honden welkom heten bij kelderbezoeken. Twee uur van Parijs met de TGV.`,
     hotelName: `InterContinental Bordeaux - Le Grand Hôtel`,
     hotelEn: `InterContinental Bordeaux - Le Grand Hôtel - Palace overlooking the Grand Théâtre. Pets up to 14 kg welcomed in deluxe rooms, dog bed and bowls provided, Spa Guerlain on site (humans only).`,
     hotelFr: `InterContinental Bordeaux - Le Grand Hôtel - palace face au Grand Théâtre. Chiens jusqu'à 14 kg en chambres deluxe, couchage et gamelles fournis, Spa Guerlain sur place (humains uniquement).`,
     hotelEs: `InterContinental Bordeaux - Le Grand Hôtel - palacio frente al Grand Théâtre. Perros hasta 14 kg en habitaciones deluxe, cama y comederos, Spa Guerlain (solo humanos).`,
     hotelPt: `InterContinental Bordeaux - Le Grand Hôtel - palace em frente ao Grand Théâtre. Cães até 14 kg em quartos deluxe, cama e tigelas, Spa Guerlain (apenas humanos).`,
     hotelDe: `InterContinental Bordeaux - Le Grand Hôtel - Palasthotel mit Blick auf das Grand Théâtre. Haustiere bis 14 kg willkommen in Deluxe-Zimmern, Hundebett und Näpfe werden gestellt, Spa Guerlain vor Ort (nur für Menschen).`,
+    hotelNl: `InterContinental Bordeaux - Le Grand Hôtel - paleishotel met uitzicht op het Grand Théâtre. Huisdieren tot 14 kg welkom in deluxe kamers, hondenmand en bakjes worden verstrekt, Spa Guerlain aanwezig (alleen voor mensen).`,
   },
 ]
 
@@ -306,6 +323,28 @@ const COPY = {
     ],
     relatedHeading: 'Verwandte Guides',
   },
+  nl: {
+    eyebrow: `HONDVRIENDELIJKE HUWELIJKSREIZEN · EUROPA`,
+    title: `Huwelijksreis met je hond: 6 romantische bestemmingen in Europa`,
+    intro: `De meeste shortlists voor de huwelijksreis gaan ervan uit dat de hond thuisblijft. Maar voor stellen die het hele jaar door met hun huisdier reizen, voelt het niet goed om hem achter te laten voor de meest symbolische reis van hun relatie. We kozen zes Europese bestemmingen die echt werken voor een romantische week met een hond aan de lijn aan je voeten: paleizen aan het meer, ommuurde middeleeuwse steden en kustkliffen waar hondvriendelijk luxe-aanbod echt bestaat.`,
+    pickHeading: 'De zes keuzes',
+    whyHere: 'Waarom hier',
+    hotelLabel: 'Waar je verblijft',
+    seeDestCta: 'Volledige stadsgids →',
+    hotelCta: 'Bekijk beschikbaarheid →',
+    altHeading: 'Liever een klassieke huwelijksreis zonder je huisdier?',
+    altIntro: `Sommige huwelijksreizen moeten een echte tweepersoonsbubbel zijn, geen lijncontrole bij de ingang van restaurants, geen pensionlogistiek voor de spa-dag, geen vroege ochtendwandeling. We snappen het. Voor uitgekozen huwelijksreishotels (Malediven boven het water, Bali op de klif, villa op de Griekse eilanden, Afrikaanse safarilodges, paleizen aan de Côte d'Azur) is onze zustersite precies daarvoor gemaakt:`,
+    altLink: `Vind klassieke huwelijksreishotels op ${SISTER_SITE.name}`,
+    altOutro: `Het is hetzelfde redactieteam, dezelfde verificatiestandaard, geen huisdieren in de selectie. Gebruik het om je huwelijksreis te plannen, en HotelsWithPets voor alles ervoor en erna, wanneer je hond weer deel uitmaakt van de vergelijking.`,
+    faqHeading: 'Veelgestelde vragen',
+    faqs: [
+      { q: 'Accepteert een 5-sterrenpaleis mijn hond echt?', a: `Meer dan je zou verwachten. De groepen Belmond, Mandarin Oriental, Four Seasons en Anantara hebben allemaal huisdierenbeleid in hun grote Europese hotels. Het maximumgewicht is de gebruikelijke beperking (10-14 kg). Bevestig dit altijd bij het boeken via een rechtstreekse e-mail, de vermeldingen op Booking.com lopen vaak achter op het echte beleid.` },
+      { q: 'Beste Europese seizoenen voor een hondvriendelijke huwelijksreis?', a: `April-juni en september-oktober zitten precies goed: milde temperaturen (16-24 °C), strandvensters meestal open, terrassen weer in bedrijf, tussenseizoenprijzen. Vermijd juli-augustus in het Middellandse Zeegebied (de hitte is meedogenloos voor honden) en kerstmarkten als je hond niet van drukte houdt.` },
+      { q: 'Kan ik mijn hond meenemen op de Eurostar / TGV / Frecciarossa?', a: `Eurostar accepteert alleen assistentiehonden. TGV: kleine hond in draagtas €7,10, grotere hond aan de lijn €7,10, geen limiet op het aantal. Frecciarossa: kleine hond gratis in draagtas, grotere hond €5 in de laatste wagon. ICE (Duitsland) en AVE (Spanje) accepteren beide honden aan de lijn tegen halve prijs.` },
+      { q: 'En hoe zit het met vliegen voor een huwelijksreis met hond?', a: `De cabine accepteert honden tot 6-8 kg, afhankelijk van de luchtvaartmaatschappij (Air France, Lufthansa, KLM, Iberia, ITA). Grotere honden reizen in het klimaatgeregelde ruim, wat stressvol is, voor huwelijksreizen raden we waar mogelijk trein of auto aan om de sfeer goed te houden.` },
+    ],
+    relatedHeading: 'Gerelateerde gidsen',
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -357,6 +396,7 @@ export default async function Page({
     if (locale === 'es') return p.whyEs
     if (locale === 'pt') return p.whyPt
     if (locale === 'de') return p.whyDe ?? p.whyEn
+    if (locale === 'nl') return p.whyNl ?? p.whyEn
     return p.whyEn
   }
   const pickHotel = (p: Pick) => {
@@ -364,6 +404,7 @@ export default async function Page({
     if (locale === 'es') return p.hotelEs
     if (locale === 'pt') return p.hotelPt
     if (locale === 'de') return p.hotelDe ?? p.hotelEn
+    if (locale === 'nl') return p.hotelNl ?? p.hotelEn
     return p.hotelEn
   }
 

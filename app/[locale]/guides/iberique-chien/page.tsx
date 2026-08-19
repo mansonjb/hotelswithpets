@@ -20,6 +20,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     es: 'Península ibérica con tu perro: Lisboa → Oporto → Madrid → Barcelona (itinerario 12 días)',
     pt: 'Península ibérica com tu cão: Lisboa → Porto → Madrid → Barcelona (itinerario 12 dias)',
     de: 'Iberische Halbinsel mit Ihrem Hund: Lissabon → Porto → Madrid → Barcelona (12-tägige Route)',
+    nl: 'Het Iberisch Schiereiland met jouw hond: Lissabon → Porto → Madrid → Barcelona (route van 12 dagen)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 12-day Iberian rail itinerary with your dog: Portugal\'s coast then Spain\'s capitals. Pet-friendly hotels, AVE/Alfa Pendular train rules, summer heat tips, live Booking.com maps.',
@@ -27,6 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     es: 'Itinerario ibérico de 12 días en tren con tu perro: la costa portuguesa y luego las capitales españolas. Hoteles que admiten mascotas, normas AVE/Alfa Pendular, consejos para el calor, mapas Booking.com en vivo.',
     pt: 'Itinerario ibérico de 12 dias de comboio com tu cão: a costa portuguesa e luego as capitales espanholas. Hotéis que admiten animais, normas AVE/Alfa Pendular, consejos para o calor, mapas Booking.com en vivo.',
     de: 'Eine 12-tägige iberische Bahnreise mit Ihrem Hund: erst Portugals Küste, dann Spaniens Hauptstädte. Haustierfreundliche Hotels, AVE/Alfa-Pendular-Zugregeln, Tipps gegen Sommerhitze, Live-Karten von Booking.com.',
+    nl: 'Een 12-daagse Iberische treinroute met jouw hond: eerst de Portugese kust, dan de Spaanse hoofdsteden. Huisdiervriendelijke hotels, AVE/Alfa Pendular-treinregels, tips tegen de zomerhitte, live Booking.com-kaarten.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -134,6 +136,50 @@ const COPY: Record<string, RouteCopy> = {
       { q: 'Sind Restaurants in Spanien wirklich hundefreundlich?', a: 'Das spanische Recht überlässt es jedem Betrieb selbst, Regeln festzulegen, aber Madrid und Barcelona haben einen starken „perro permitido"-Trend. Achten Sie auf den grünen Pfotenaufkleber. Die meisten Terrassen akzeptieren Hunde ohne Probleme; fragen Sie vorher, bevor Sie drinnen sitzen.' },
       { q: 'Kann ich diese Reise mit einem Hund über 25 kg machen?', a: 'Ja, aber mit engerer Logistik: Der Alfa Pendular nimmt grosse Hunde offiziell nicht mit (mieten Sie ein Auto für Lissabon–Porto), und das Pilotprogramm Renfe AVE Mascotas Grandes ist die einfachere Option für Madrid–Barcelona (~15 €/Hund). Alle Hotels in diesem Guide akzeptieren grosse Hunde.' },
       { q: 'Ist die Madrider Metro hundefreundlich?', a: 'Ja, alle Grössen erlaubt an der Leine + mit Maulkorb, kostenlos, aber nur ausserhalb der Stosszeiten (vor 7 Uhr, 10–12 Uhr, 16–19 Uhr, nach 21 Uhr werktags; ganztägig an Wochenenden). Führen Sie den Maulkorb in Ihrer Tasche mit.' },
+    ],
+  },
+  nl: {
+    hero: { tagline: 'IBERISCHE ROUTE · 12 DAGEN · MET JOUW HOND', title: 'Een Iberische treinreis met jouw hond', subtitle: 'Lissabon, Porto, Madrid, Barcelona, de Atlantische kust van Portugal en de grote hoofdsteden van Spanje, allemaal verbonden door directe treinen. Huisdiervriendelijke hotels, hondenstranden en live kaarten van Booking.com voor elke stop.' },
+    why: { title: 'Waarom deze Iberische route werkt voor hondenbezitters', bullets: [
+      'Portugal en Spanje horen bij de huisdiervriendelijkste landen van Europa, de meeste cafés, restaurants en winkels accepteren aangelijnde honden zonder problemen.',
+      'Directe Alfa Pendular-treinen (Lissabon ↔ Porto) en AVE-treinen (Madrid ↔ Barcelona) laten honden toe, met een nachttrein-optie voor het traject Porto-Madrid.',
+      'Alle vier de steden hebben het hele jaar officiële hondenstranden of omheinde aanlijnvrije zones binnen 30 minuten van het centrum.',
+      'Geen papierwerk aan de Schengengrenzen, een EU-dierenpaspoort met geldige rabiësvaccinatie is voldoende.',
+      'Hitte is de grootste beperking: vermijd juli-augustus, vooral Madrid (regelmatig 40 °C+). Mei, begin juni, eind september en oktober zijn ideaal.',
+    ] },
+    stats: { duration: 'Duur', cities: 'Steden', transport: 'Vervoer', budget: 'Budget', durationVal: '12 dagen', citiesVal: '4 steden', transportVal: 'Trein (Alfa Pendular / Trenhotel / AVE)', budgetVal: '€1.000-€2.000' },
+    citiesIntro: { kicker: 'STAD VOOR STAD', title: 'Jouw stops, jouw hotels, jouw kaart' },
+    cities: {
+      lisbon: { days: 'Dag 1-3', intro: "Begin in Lissabon, een van de meest ontspannen hondensteden van Europa. De trams (inclusief de historische lijn 28) nemen aangelijnde honden gratis mee, de kade langs de Taag heeft 8 km autovrije promenade, en het hondenstrand van Alcântara (Praia do Porto Brandão) ligt 15 minuten met de veerboot van het centrum. De met keien geplaveide steegjes van Bairro Alto en Alfama zijn overdag hondvriendelijk; 's avonds wordt het druk.", highlight: 'Een must met jouw hond: zonsondergang bij de Miradouro da Senhora do Monte', highlightDesc: 'Het hoogste uitkijkpunt van de stad, minder druk dan Santa Catarina. Tram 28 brengt je tot op 5 minuten lopen; daarna zijn honden welkom op het terras van de bar.' },
+      porto: { days: 'Dag 4-5', intro: 'Drie uur met de Alfa Pendular. Porto is nog hondvriendelijker dan Lissabon: de oever van de Douro in de Ribeira laat honden toe op elk caféterras, de kust bij Foz do Douro heeft hondvriendelijke stranden (Praia do Carneiro, Praia de Lavadores) bereikbaar met de tram, en de tuinen van het Kristallen Paleis verwelkomen honden vroeg in de ochtend zonder lijn.', highlight: 'Een must met jouw hond: een dagtrip per wijntrein door de Douro-vallei', highlightDesc: 'De Linha do Douro van Comboios de Portugal rijdt van Porto-São Bento naar Régua, 2 uur langs de rivier. Aangelijnde honden reizen gratis mee in een draagtas, anders tegen halve prijs. Veel quintas (portwijnhuizen) verwelkomen honden in hun tuinen.' },
+      madrid: { days: 'Dag 6-9', intro: 'Nachttrein Trenhotel (8 uur) of vliegen met hond (Iberia accepteert honden in de cabine) om Porto-Madrid te overbruggen. Madrid heeft een van de grootste hondenpopulaties van Europa: 350.000 geregistreerde honden, het enorme Casa de Campo (1.700 ha) en het Parque del Retiro (125 ha) zijn allebei huisdiervriendelijk, en de metro van Madrid laat alle honden toe aan de lijn en met muilkorf buiten de spits.', highlight: 'Een must met jouw hond: een ochtendwandeling door de Casa de Campo', highlightDesc: '1.700 hectare dennenbos, 15 minuten met de metro vanaf Sol. Meerdere aanlijnvrije zones en een klein meer. Locals starten bij de ingang Lago en lopen 6-8 km, jouw hond slaapt de rest van de middag.' },
+      barcelona: { days: 'Dag 10-12', intro: 'AVE-hogesnelheidstrein vanuit Madrid in 2u30 (het snelste traject, hondenticket €15). Barcelona is hondvriendelijk langs de kust: het strand van Llevant is het officiële hondenstrand dat het hele jaar open is (zwemmen zonder lijn), Montjuïc heeft aanlijnvrije zones, de wijken Born en Gràcia staan vol hondvriendelijke caféterrassen. De metro vereist lijn en muilkorf voor middelgrote/grote honden.', highlight: 'Een must met jouw hond: hondenstrand Llevant + promenade Bogatell', highlightDesc: "Barcelona's enige hondenstrand dat het hele jaar open is (zonder lijn, zoetwaterdouche, vuilnisbakken). Combineer dit met de 4 km lange Bogatell-promenade voor een volledige ochtend. Stop bij La Bombeta voor tapas, aangelijnde honden zijn welkom op het terras." },
+    },
+    hotelsLabel: 'Aanbevolen huisdiervriendelijke hotels',
+    bookLabel: 'Boek op Booking.com',
+    detailsLabel: 'Details',
+    mapLabel: 'Live kaart, alle huisdiervriendelijke hotels',
+    legsTitle: 'Vervoer tussen de steden',
+    legs: [
+      { from: 'Lissabon', to: 'Porto', duration: '~3u', service: 'Alfa Pendular (direct, elke 1-2u)', petRule: 'Kleine honden in draagtas (max 10 kg) gratis. Grotere honden officieel niet toegestaan op de Alfa Pendular, huur een auto of neem Renfe / Renfe-CP via Vigo.' },
+      { from: 'Porto', to: 'Madrid', duration: '~10u nachttrein of 1u30 vliegen', service: 'Trenhotel Lusitania (nachttrein) of Iberia-vlucht', petRule: 'De Trenhotel accepteert honden in een privécabine. Iberia-vlucht: honden <8 kg in de cabine (€60), grotere in het ruim (€150).' },
+      { from: 'Madrid', to: 'Barcelona', duration: '~2u30', service: 'AVE Renfe (direct, elke 30 minuten)', petRule: 'Kleine honden (max 10 kg) gratis. Het pilotprogramma Renfe Mascotas Grandes staat honden tot 40 kg toe met reservering (€15 / hond). Neem een zachte muilkorf mee.' },
+    ],
+    practicalTitle: 'Voor vertrek: papieren, vaccinaties, dierenartscontacten',
+    practicalBullets: [
+      'EU-dierenpaspoort met geldige rabiësvaccinatie (21+ dagen oud).',
+      'Microchip ISO 11784/11785, verplicht.',
+      'Spanje heeft rasgebonden wetgeving (Ley 50/1999): Pitbull, Rottweiler, Am. Staff, Bullterriër, Tosa, Argentijnse Dog, Fila Brasileiro, Akita Inu en Dobermann gelden als PPP. Eigenaars hebben een vergunning nodig, lijn en muilkorf in het openbaar, en een aansprakelijkheidsverzekering.',
+      'Hitte is risico nummer 1: het trottoir bereikt 50 °C in Madrid in juli, wandel tussen 7-9 uur of na 21 uur, neem een opvouwbaar waterbakje mee, laat de hond nooit achter in de auto.',
+      'Bewaar deze 24/7-dierenartsen: Lissabon (Hospital Veterinário Restelo, +351 21 303 80 00), Porto (Hospital Veterinário Montenegro, +351 22 900 26 30), Madrid (Hospital Veterinario VETSIA, +34 91 632 95 76), Barcelona (Hospital Ars Veterinaria, +34 93 200 10 00).',
+    ],
+    faqTitle: 'Veelgestelde vragen',
+    faqs: [
+      { q: 'Waarom is er geen directe trein Porto → Madrid?', a: 'Het Iberisch Schiereiland heeft historisch gezien geen hogesnelheidsverbinding gehad. De nachttrein Trenhotel is de enige directe treinoptie (10 uur). De meeste reizigers vliegen (Iberia 1u30, hond toegestaan) of nemen een lange busrit. Een AVE Porto-Madrid staat gepland, maar is nog niet aangelegd.' },
+      { q: 'Is de Spaanse hitte te veel voor een hond?', a: 'In juli-augustus wel, Madrid haalt 40 °C, Barcelona 32 °C met vochtigheid. Plan wandelingen tussen 7-9 uur en na zonsondergang. Hotels met airco zijn essentieel. Vermijd die maanden voor kortsnuitige rassen.' },
+      { q: 'Zijn restaurants in Spanje echt hondvriendelijk?', a: 'De Spaanse wet laat elke zaak zelf de regels bepalen, maar Madrid en Barcelona kennen een sterke "perro permitido"-trend. Let op de sticker met de groene pootafdruk. De meeste terrassen accepteren honden zonder probleem; vraag eerst voor je binnen gaat zitten.' },
+      { q: 'Kan ik deze reis maken met een hond van 25 kg of meer?', a: 'Ja, maar met krappere logistiek: de Alfa Pendular laat grote honden officieel niet toe (huur een auto voor Lissabon-Porto), en het pilotprogramma Renfe AVE Mascotas Grandes is de eenvoudigste optie voor Madrid-Barcelona (~€15/hond). Alle hotels in deze gids accepteren grote honden.' },
+      { q: 'Is de metro van Madrid hondvriendelijk?', a: 'Ja, alle formaten toegestaan aan de lijn en met muilkorf, gratis, maar alleen buiten de spits (voor 7 uur, 10-12 uur, 16-19 uur, na 21 uur doordeweeks; hele dag in het weekend). Neem de muilkorf mee in je tas.' },
     ],
   },
   fr: {
@@ -279,8 +325,9 @@ function buildSticky(locale: string): StickyConfig {
     es: 'Hoteles pet-friendly ruta ibérica',
     pt: `Hotéis pet-friendly rota ibérica`,
     de: `Haustierfreundliche Hotels iberische Route`,
+    nl: 'Huisdiervriendelijke hotels Iberische route',
   }
-  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen' }
+  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen', nl: 'Bekijk' }
   return { href, label: labels[locale] ?? labels.en, cta: ctas[locale] ?? ctas.en }
 }
 

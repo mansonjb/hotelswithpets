@@ -13,6 +13,7 @@ const STICKY_LABELS_HOTEL: Record<string, { label: string; cta: string }> = {
   es: { label: 'Los hoteles pet-friendly mejor valorados de Europa', cta: 'Ver hoteles' },
   pt: { label: 'Os hotéis pet-friendly melhor avaliados de Europa', cta: 'Ver hotéis' },
   de: { label: 'Die bestbewerteten haustierfreundlichen Hotels in Europa', cta: 'Hotels ansehen' },
+  nl: { label: 'De best beoordeelde huisdiervriendelijke hotels in Europa', cta: 'Bekijk hotels' },
 }
 
 export async function generateStaticParams() {
@@ -33,6 +34,7 @@ export async function generateMetadata({
     es: 'Cómo elegir un hotel realmente pet-friendly en Europa: la guía sin rodeos (2025)',
     pt: 'Como elegir um hotel realmente pet-friendly en Europa: a guía sem rodeos (2025)',
     de: 'So finden Sie ein wirklich haustierfreundliches Hotel in Europa: der Leitfaden ohne Umschweife (2025)',
+    nl: 'Zo kies je een écht huisdiervriendelijk hotel in Europa: de gids zonder omwegen (2025)',
   }
   const descriptions: Record<string, string> = {
     en: 'The definitive guide to decoding hotel pet policies in Europe. Red flags, green flags, questions to ask, real price ranges, and how booking platforms actually work, so you never get a nasty surprise at check-in.',
@@ -40,6 +42,7 @@ export async function generateMetadata({
     es: 'La guía definitiva para descifrar las políticas de mascotas en hoteles de Europa. Señales de alerta, buenas señales, preguntas que hacer, rangos de precios reales y cómo funcionan las plataformas de reserva, para no tener sorpresas desagradables al hacer el check-in.',
     pt: 'A guía definitiva para descifrar as políticas de animais en hotéis de Europa. Senhales de alerta, buenas senhales, preguntas que hacer, rangos de preços reales e como funcionam as plataformas de reserva, para no tener sorpresas desagradables al hacer o check-in.',
     de: 'Der ultimative Leitfaden zum Entschlüsseln der Haustierregelungen von Hotels in Europa. Warnsignale, positive Signale, Fragen, die Sie stellen sollten, reale Preisspannen und wie Buchungsplattformen wirklich funktionieren, damit Sie beim Check-in nie eine böse Überraschung erleben.',
+    nl: 'De ultieme gids om het huisdierenbeleid van hotels in Europa te doorgronden. Waarschuwingssignalen, positieve signalen, vragen die je moet stellen, reële prijzen en hoe boekingsplatforms echt werken, zodat je bij het inchecken nooit voor een nare verrassing komt te staan.',
   }
 
   const today = new Date().toISOString().split('T')[0]
@@ -959,6 +962,184 @@ const COPY = {
     relatedDestTitle: 'Top haustierfreundliche Reiseziele in Europa',
     relatedDestText: 'Finden Sie die besten Hotels für Ihr Haustier in diesen Reisezielen',
   },
+
+  nl: {
+    breadcrumbGuides: 'Gidsen',
+    breadcrumbThis: 'Hoe kies je een huisdiervriendelijk hotel',
+    badge: 'De ultieme gids',
+    hero: 'Zo kies je een écht huisdiervriendelijk hotel in Europa',
+    subtitle: `Deze gids behoedt je voor nare verrassingen bij het inchecken. Want "huisdiervriendelijk" kan van alles betekenen, van schoorvoetende tolerantie tot een écht welkomstpakket voor je hond.`,
+    lastUpdate: 'Bijgewerkt in',
+
+    realityTitle: `"Huisdiervriendelijk" betekent heel verschillende dingen`,
+    realityText: [
+      `Je zoekt op "huisdiervriendelijke hotels", filtert, boekt, en staat dan met je hond bij de receptie om te ontdekken dat er een toeslag van 50 €/nacht geldt, dat de ontbijtzaal verboden terrein is, en dat er een gelamineerd bordje hangt met "huisdieren mogen nooit onbeheerd worden achtergelaten". Welkom.`,
+      `Aan de andere kant van het spectrum bieden écht huisdiervriendelijke hotels een welkomstpakket voor honden (snoepjes, een speeltje, een bak), een eigen hondenmenu in het restaurant, personeel dat de beste hondenwandelingen in de buurt kent, en een kamer op de begane grond met directe toegang tot de tuin. Deze hotels bestaan overal in Europa, in elke prijsklasse.`,
+      `Het probleem is dat boekingsplatforms voor beide hetzelfde label "huisdiervriendelijk" gebruiken. Deze gids leert je ze te onderscheiden voordat je aankomt.`,
+    ],
+
+    redFlagsTitle: 'Alarmsignalen: waarschuwingstekens in hotelbeschrijvingen',
+    redFlagsIntro: 'Let op deze zinnen in een hotelbeschrijving of huisdierenbeleid, en wees op je hoede, of bel eerst even.',
+    redFlags: [
+      { flag: `"Huisdieren in overleg"`, meaning: `Dit betekent dat ze je laten weten of jouw specifieke huisdier welkom is. Vertaling: niet echt huisdiervriendelijk.` },
+      { flag: `"Alleen kleine huisdieren" (zonder grootte)`, meaning: `Wat telt als klein? 5 kg? 10 kg? Als er geen gewicht wordt genoemd, kan jouw beagle van 12 kg bij de deur worden geweigerd.` },
+      { flag: `"Huisdieren alleen toegestaan buiten"`, meaning: `Jouw hond wacht buiten terwijl jij slaapt, eet en leeft. Lees: jouw hond blijft vastgebonden op de parkeerplaats.` },
+      { flag: 'Geen melding van gewichts- of rasbeperking, maar een limiet van 5 kg in de kleine lettertjes', meaning: `Lees altijd het volledige huisdierenbeleid, niet alleen het filterresultaat. Het "huisdiervriendelijk"-label van Booking.com garandeert niet dat jouw specifieke hond wordt toegelaten.` },
+      { flag: `"Huisdiertoeslag bij inchecken" (geen bedrag genoemd)`, meaning: `Een blanco cheque die je om middernacht tekent na een lange rit. Bevestig altijd het exacte bedrag voordat je boekt.` },
+      { flag: `"Huisdiervriendelijke kamers beschikbaar"`, meaning: `Betekent vaak één enkele kamer, het verst van de lift, met uitzicht op de dienstingang, zes maanden vooruit volgeboekt.` },
+      { flag: 'Geen enkele vermelding van huisdieren op de website', meaning: `Een hotel dat trots is op zijn huisdiervriendelijkheid, laat dat luid weten. Stilte betekent meestal tolerantie in plaats van een echt welkom.` },
+    ],
+
+    greenFlagsTitle: 'Positieve signalen: tekenen van een écht huisdiervriendelijk hotel',
+    greenFlagsIntro: 'Dit zijn de dingen die hotels die huisdieren verwelkomen onderscheiden van hotels die ze slechts dulden.',
+    greenFlags: [
+      { flag: 'Duidelijk vermelde huisdiertoeslag (of expliciet gratis)', meaning: `Transparantie over de prijs is de betrouwbaarste indicator van een hotel dat serieus heeft nagedacht over het ontvangen van huisdieren.` },
+      { flag: 'Geen ras- of gewichtsbeperkingen (of duidelijk vermelde grenzen)', meaning: `Accepteren ze alle rassen en formaten, of geven ze de grenzen duidelijk aan, dan hebben ze de moeite genomen om een echt beleid op te stellen.` },
+      { flag: 'Hondenmand, bak, mat op aanvraag beschikbaar', meaning: `Toont investering in infrastructuur. Deze hotels hebben het ontvangen van huisdieren in hun bedrijfsvoering ingebouwd.` },
+      { flag: 'Hondensnoepjes bij de receptie of een eigen hondenmenu', meaning: `Dit is de gouden standaard. Een hotel met een hondenmenu heeft huisdiergastvrijheid écht omarmd.` },
+      { flag: 'Personeel dat de lokale hondenwandelingen kent', meaning: `Vraag het wanneer je belt om te bevestigen: "Kunt u een leuke hondenwandeling in de buurt aanraden?" Een goed antwoord is een prima teken.` },
+      { flag: 'Kamers op de begane grond of gegarandeerde lifttoegang', meaning: `Een "huisdiervriendelijke" kamer op de 5e verdieping zonder lift is voor niemand met een grote hond of mobiliteitsproblemen écht huisdiervriendelijk.` },
+      { flag: 'Buitendouche of pootjeswasstation', meaning: `Doordachte infrastructuur. Vooral handig na een wandeling op het strand of in de natuur.` },
+      { flag: 'Pet-sitting of uitlaatservice beschikbaar', meaning: `Zeldzaam maar geweldig. Wijst op een hotel dat huisdieren als gewaardeerde gasten ziet, niet als een probleem dat beheerd moet worden.` },
+    ],
+
+    questionsTitle: 'Vragen die je moet stellen voordat je boekt',
+    questionsIntro: 'Bel of mail het hotel rechtstreeks voordat je bevestigt. Deze zeven vragen vertellen je alles wat je moet weten.',
+    questions: [
+      'Wat is de exacte huisdiertoeslag per nacht, en geldt die per huisdier?',
+      'Zijn alle kamertypes en categorieën beschikbaar met een huisdier, of alleen specifieke kamers?',
+      `Is er een gewichts- of rasbeperking? (Geef het ras en gewicht van je hond op.)`,
+      'Is de toeslag terugbetaalbaar als het huisdier geen schade veroorzaakt?',
+      'Zijn huisdieren toegestaan in gemeenschappelijke ruimtes, lobby, restaurant, terras, zwembadgebied?',
+      'Is er een aangewezen uitlaatplek buiten of een park in de buurt?',
+      'Kunnen we ons huisdier onbeheerd in de kamer achterlaten? Gelden er tijdslimieten?',
+    ],
+    questionsTip: `Pro-tip: stuur deze vragen per e-mail zodat je de antwoorden zwart-op-wit hebt. Als het antwoord van het hotel vaag of ontwijkend is, of langer dan 48 uur duurt, zegt dat ook iets.`,
+
+    platformsTitle: 'Hoe boekingsplatforms omgaan met "huisdiervriendelijk"',
+    platforms: [
+      {
+        name: 'Booking.com',
+        icon: '🔵',
+        how: `Hotels verklaren zichzelf huisdiervriendelijk bij het aanmaken van hun listing. De filter toont alle accommodaties die het vakje hebben aangevinkt, maar dat vakje dekt alles van "een kat onder 3 kg" tot "alle huisdieren welkom, geen toeslag". Het werkelijke beleid staat verstopt in het tabblad met accommodatiedetails. Klik altijd door.`,
+        tip: `Klik na het filteren op de hotelpagina en zoek naar de sectie "Huisdieren" onder "Huisregels". Daar staan vaak gewichtslimieten, kosten en beperkingen die niet in de hoofdlisting worden getoond.`,
+      },
+      {
+        name: 'Airbnb',
+        icon: '🔴',
+        how: `Hosts zetten zelf de instelling "huisdieren toegestaan" aan. Schoonmaakkosten kunnen aanzienlijk zijn. Sommige hosts hebben niet-vermelde allergieën of huisdierverboden vanuit hun gebouwreglement. Neem contact op met de host voordat je boekt om jouw specifieke huisdier te bevestigen.`,
+        tip: `Het annuleringsbeleid van Airbnb is strenger dan dat van hotels. Bevestig altijd de acceptatie van je huisdier voordat je de niet-terugbetaalbare servicekosten betaalt.`,
+      },
+      {
+        name: 'Expedia / Hotels.com',
+        icon: '🟡',
+        how: `Vergelijkbaar zelfverklaringssysteem als Booking.com. Het huisdierenbeleid verschilt enorm. De filter "huisdiervriendelijk" is een startpunt, geen garantie.`,
+        tip: `Gebruik deze platforms om opties te ontdekken, en controleer daarna rechtstreeks bij het hotel voordat je boekt voor een verblijf met huisdier.`,
+      },
+      {
+        name: 'Rechtstreeks boeken bij het hotel',
+        icon: '✅',
+        how: `Altijd de gouden standaard voor verblijven met huisdier. Je kunt specifieke vragen stellen, de best geschikte kamer aanvragen en soms de toeslag onderhandelen, vooral buiten het hoogseizoen.`,
+        tip: `Veel onafhankelijke hotels bieden hun beste huisdierenvoorwaarden aan als je rechtstreeks boekt, omdat ze dan een echt gesprek met je kunnen voeren over de behoeften van je huisdier.`,
+      },
+    ],
+    platformsConclusion: 'De universele regel: filter op een platform om opties te ontdekken, en bel of mail dan rechtstreeks met het hotel om te bevestigen. Deze ene stap voorkomt 90% van de nare verrassingen bij het inchecken.',
+
+    pricesTitle: 'Wat je kunt verwachten te betalen: huisdiertoeslagen in Europa (2025)',
+    pricesIntro: 'Huisdiertoeslagen verschillen enorm binnen Europa. Hier lees je wat normaal, acceptabel en overdreven is.',
+    priceTiers: [
+      { range: 'Gratis', label: 'Gratis / Geen toeslag', desc: `Steeds vaker te vinden bij onafhankelijke hotels, boetiekaccommodaties, en in erg huisdiervriendelijke landen zoals Duitsland en Nederland. Als een hotel dit adverteert, neem ze op hun woord, het is een echt onderscheidend punt.`, color: 'emerald' },
+      { range: '5–15 €/nacht', label: 'Budgetvriendelijk', desc: 'Standaard bij budget- en middenklassehotels in Zuid-Europa (Spanje, Portugal, Italië, Griekenland). Volkomen redelijk voor wat je ervoor krijgt.', color: 'blue' },
+      { range: '20–35 €/nacht', label: 'Middenklasse-standaard', desc: 'Typisch voor 3-4-sterrenhotels in Frankrijk, België, Zwitserland en Scandinavië. Vaak inclusief huisdiervoorzieningen. Acceptabel als het hotel écht om huisdieren geeft.', color: 'amber' },
+      { range: '50 €+/nacht', label: 'Luxeklasse', desc: `Gebruikelijk bij vijfsterren- en designhotels. Kan premiumdiensten omvatten (huisdiermenu, pet-sitting, gespecialiseerd beddengoed). Sommige rekenen een vast bedrag per verblijf in plaats van per nacht.`, color: 'purple' },
+      { range: '80–150 €+', label: 'Alarmgebied', desc: `Vraag op dit niveau wat de toeslag dekt. Als het alleen een meerprijs is zonder diensten, onderhandel dan of loop weg. Sommige stadshotels in Parijs en Londen hebben in het verleden absurde bedragen gerekend zonder enige tegenprestatie.`, color: 'red' },
+    ],
+    pricesNote: 'Let op: sommige landen heffen een aparte toeristenbelasting voor huisdieren. Bevestig altijd het totaalbedrag inclusief een eventuele schoonmaakborg, die meestal terugbetaalbaar is.',
+
+    categoriesTitle: 'Soorten huisdiervriendelijke hotels: welke past bij jou?',
+    categories: [
+      {
+        type: 'Hondvriendelijke hotels',
+        icon: '🐕',
+        desc: 'De meest voorkomende categorie. Zoek naar accommodaties die honden van alle formaten expliciet verwelkomen, buitenruimte hebben, en dicht bij parken of wandelroutes liggen.',
+        link: '/categories/dog-friendly',
+        linkLabel: 'Bekijk hondvriendelijke hotels',
+      },
+      {
+        type: 'Katvriendelijke hotels',
+        icon: '🐈',
+        desc: 'Minder gebruikelijk en vaak over het hoofd gezien. Katten hebben andere behoeften: comfort binnenshuis, geen hondenburen, rustige verdiepingen. Sommige hotels richten zich specifiek op katten met aangewezen zones.',
+        link: '/categories/cat-friendly',
+        linkLabel: 'Bekijk katvriendelijke hotels',
+      },
+      {
+        type: 'Honden logeren gratis',
+        icon: '🆓',
+        desc: 'Een groeiend segment in heel Europa. Veel onafhankelijke en boetiekhotels hebben huisdiertoeslagen volledig geschrapt als concurrentievoordeel. Het loont om hier specifiek op te filteren.',
+        link: '/categories/dogs-stay-free',
+        linkLabel: 'Vind hotels zonder huisdiertoeslag',
+      },
+      {
+        type: 'Luxeverblijven met huisdier',
+        icon: '⭐',
+        desc: `Vijfsterrenhotels in steden als Parijs, Londen, Rome en Zürich strijden steeds meer om huisdiergastvrijheid: welkomstcadeaus, hondenmenu's op de kamer, eigen conciërgediensten en pet-sitting.`,
+        link: '/categories/luxury-pet-friendly',
+        linkLabel: 'Ontdek luxehotels voor huisdieren',
+      },
+      {
+        type: 'Verblijven bij parken en op het platteland',
+        icon: '🌲',
+        desc: 'Voor honden die ruimte nodig hebben: hotels bij nationale parken, bossen of kustpaden. Buitendouches en droogruimtes zijn in deze categorie standaard.',
+        link: '/categories/countryside-pet-friendly',
+        linkLabel: 'Bekijk huisdiervriendelijke plattelandshotels',
+      },
+    ],
+
+    faqTitle: 'Veelgestelde vragen',
+    faqs: [
+      {
+        q: 'Wat is de gemiddelde huisdiertoeslag bij een hotel in Europa?',
+        a: `In 2025 loopt de gemiddelde huisdiertoeslag bij een Europees hotel uiteen van gratis tot ongeveer 25 € per nacht. Budgetaccommodaties in Zuid-Europa rekenen doorgaans 10-15 €/nacht. Middenklassehotels in Frankrijk, België en Scandinavië zitten gemiddeld op 20-30 €/nacht. Luxehotels kunnen 50 € of meer rekenen, soms als vast bedrag per verblijf in plaats van per nacht. Duitsland en Nederland hebben een groot aandeel hotels die helemaal niets in rekening brengen.`,
+      },
+      {
+        q: 'Mag ik mijn hond alleen in de hotelkamer achterlaten?',
+        a: `Het beleid verschilt enorm. Veel hotels staan dit toe voor korte periodes (2-3 uur) als je hond bench-getraind is en niet blaft. Andere verbieden het volledig. Sommige eisen dat huisdieren zelfs in jouw aanwezigheid in de bench blijven. Vraag altijd expliciet voordat je boekt, ga er niet vanuit. Moet je je hond regelmatig achterlaten, zoek dan hotels met pet-sitting service of in de buurt van een hondendagverblijf.`,
+      },
+      {
+        q: 'Hoe weet ik of een hotel écht huisdiervriendelijk is of huisdieren gewoon duldt?',
+        a: `De duidelijkste indicatoren zijn: (1) transparantie over kosten zonder verborgen verrassingen, (2) specifiek genoemde voorzieningen (hondenmand, bakken, snoepjes, hondenmenu), (3) personeel dat je huisdier-specifieke vragen kundig kan beantwoorden, en (4) online reviews van andere huisdiereigenaren die hun ervaring delen. Bestaat het huisdierenbeleid van een hotel uit slechts één zin met "huisdieren toegestaan, toeslag van toepassing", behandel dat dan als tolerantie in plaats van een echt welkom.`,
+      },
+      {
+        q: 'Zijn er gewichtslimieten waar ik voor het boeken rekening mee moet houden?',
+        a: `Ja, gewichtslimieten zijn de meest voorkomende bron van verrassingen bij het inchecken. Veel hotels die op boekingsplatforms nominaal "huisdiervriendelijk" heten, hebben een limiet van 5 of 8 kg verstopt in hun volledige beleid. Honden boven 10 kg krijgen vaak te maken met beperkingen of worden helemaal geweigerd. Geef bij navraag altijd het ras en gewicht van je hond op, en vraag om schriftelijke bevestiging dat jouw specifieke hond wordt geaccepteerd.`,
+      },
+      {
+        q: 'Is de huisdiervriendelijk-filter van Booking.com betrouwbaar?',
+        a: `Als startpunt, ja. Als garantie, nee. De filter toont hotels die zichzelf huisdiervriendelijk hebben verklaard, maar het beleid verschilt enorm. Klik altijd door naar de volledige sectie "Huisregels" van het hotel op Booking.com, en bel of mail idealiter om te bevestigen voordat je boekt. Dit geldt voor alle boekingsplatforms, de filter versmalt het veld maar doet je due diligence niet voor je.`,
+      },
+      {
+        q: `Wat is het verschil tussen "huisdiervriendelijk" en "honden logeren gratis"?`,
+        a: `"Huisdiervriendelijk" betekent dat huisdieren zijn toegestaan, maar meestal tegen een toeslag. "Honden logeren gratis" is een expliciet beleid van het hotel dat er geen huisdiertoeslag geldt. Deze tweede categorie is kleiner maar groeit. Bij HotelsWithPets.com kun je specifiek filteren op toeslagvrije accommodaties om elke onduidelijkheid te vermijden.`,
+      },
+      {
+        q: 'Moet ik mijn huisdier opgeven bij het online boeken?',
+        a: `Ja, altijd. Je huisdier niet opgeven bij het boeken en er toch mee aankomen is oneerlijk en kan ertoe leiden dat je gevraagd wordt te vertrekken, zeker als het hotel maar een beperkt aantal huisdiervriendelijke kamers heeft. Het maakt ook elke mogelijke bescherming via het huisdierschadebeleid ongeldig. Vink altijd het vakje voor de huisdierverklaring aan, geef het type en de grootte van je huisdier op, en bevestig rechtstreeks bij het hotel.`,
+      },
+    ],
+
+    internalLinksTitle: 'Blijf ontdekken',
+    internalLinks: [
+      { label: 'Bekijk alle huisdiervriendelijke bestemmingen in Europa', href: '/destinations' },
+      { label: 'Hondvriendelijke hotels', href: '/categories/dog-friendly' },
+      { label: 'Hotels waar honden gratis logeren', href: '/categories/dogs-stay-free' },
+      { label: 'Vereisten huisdierenpaspoort per land', href: '/guides/passeport-animal' },
+      { label: 'Alle reisgidsen', href: '/guides' },
+      { label: 'Topbestemmingen voor huisdieren in Europa', href: '/destinations' },
+    ],
+
+    relatedDestTitle: 'Topbestemmingen voor huisdiervriendelijke reizen in Europa',
+    relatedDestText: 'Vind de beste hotels voor je huisdier in deze bestemmingen',
+  },
 }
 
 const PRICE_COLOR_MAP: Record<string, { bg: string; text: string; border: string; dot: string }> = {
@@ -990,11 +1171,11 @@ export default async function HotelPetFriendlyGuidePage({
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
 
-  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const copy = COPY[lang] ?? COPY.en
   const today = new Date()
   const monthYear = today.toLocaleDateString(
-    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'de' ? 'de-DE' : 'en-GB',
+    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'de' ? 'de-DE' : locale === 'nl' ? 'nl-NL' : 'en-GB',
     { month: 'long', year: 'numeric' }
   )
 

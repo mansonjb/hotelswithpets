@@ -19,6 +19,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   es: { label: 'Hoteles del road trip por el País Vasco con perro', cta: 'Ver hoteles' },
   pt: { label: 'Hotéis do road trip pelo País Basco com cão', cta: 'Ver hotéis' },
   de: { label: 'Hundefreundliche Hotels für den Roadtrip durchs Baskenland', cta: 'Hotels ansehen' },
+  nl: { label: 'Hondvriendelijke hotels voor de road trip door Baskenland', cta: 'Bekijk hotels' },
 }
 
 export async function generateStaticParams() {
@@ -39,6 +40,7 @@ export async function generateMetadata({
     es: `Road trip pet-friendly por el País Vasco en 5 días: Bayona, San Sebastián, Vitoria-Gasteiz y Bilbao (2026)`,
     pt: `Road trip pet-friendly pelo País Basco em 5 dias: Bayonne, San Sebastián, Vitoria-Gasteiz e Bilbao (2026)`,
     de: `5-tägiger Roadtrip mit Hund durchs Baskenland: Bayonne, San Sebastián, Vitoria-Gasteiz und Bilbao (2026)`,
+    nl: `5-daagse road trip met je hond door Baskenland: Bayonne, San Sebastián, Vitoria-Gasteiz en Bilbao (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `A 5-day cross-border pet-friendly road trip from French Bayonne through San Sebastián and Vitoria-Gasteiz to Bilbao and Getxo. The Vauban ramparts, the Concha bay, the European Green Capital's 5-park Anillo Verde, and the UNESCO Vizcaya Bridge - all with a leashed dog on the leash.`,
@@ -46,6 +48,7 @@ export async function generateMetadata({
     es: `Un road trip pet-friendly transfronterizo de 5 días, desde Bayona francesa pasando por San Sebastián y Vitoria-Gasteiz hasta Bilbao y Getxo. Las murallas Vauban, la bahía de la Concha, el Anillo Verde de 5 parques de la Capital Verde europea, y el Puente Vizcaya UNESCO - todo con perro con correa.`,
     pt: `Um road trip pet-friendly transfronteiriço de 5 dias, desde Bayonne francesa passando por San Sebastián e Vitoria-Gasteiz até Bilbao e Getxo. As muralhas Vauban, a baía da Concha, o Anillo Verde de 5 parques da Capital Verde europeia, e a Ponte Vizcaya UNESCO - tudo com cão à trela.`,
     de: `Ein 5-tägiger grenzüberschreitender Roadtrip mit Hund vom französischen Bayonne über San Sebastián und Vitoria-Gasteiz bis nach Bilbao und Getxo. Die Vauban-Stadtmauern, die Bucht von La Concha, der Anillo Verde mit 5 Parks der Europäischen Grünen Hauptstadt und die Vizcaya-Brücke, UNESCO-Welterbe, alles mit Hund an der Leine.`,
+    nl: `Een 5-daagse grensoverschrijdende road trip met je hond vanuit het Franse Bayonne via San Sebastián en Vitoria-Gasteiz naar Bilbao en Getxo. De vestingmuren van Vauban, de baai van La Concha, de Anillo Verde met 5 parken van de Europese Groene Hoofdstad, en de Vizcaya-brug, UNESCO-erfgoed, alles met je hond aan de lijn.`,
   }
   return {
     title: titles[locale] ?? titles.en,
@@ -77,18 +80,20 @@ type Stop = {
   country: string
   countryCode: 'FR' | 'ES'
   nights: number
-  drive: { fr: string; en: string; es: string; pt: string; de: string }
+  drive: { fr: string; en: string; es: string; pt: string; de: string; nl: string }
   whyEn: string
   whyFr: string
   whyEs: string
   whyPt: string
   whyDe: string
+  whyNl: string
   highlightsEn: string[]
   highlightsFr: string[]
   highlightsEs: string[]
   highlightsPt: string[]
   highlightsDe: string[]
-  hotels: { name: string; pitchEn: string; pitchFr: string; pitchEs: string; pitchPt: string; pitchDe: string }[]
+  highlightsNl: string[]
+  hotels: { name: string; pitchEn: string; pitchFr: string; pitchEs: string; pitchPt: string; pitchDe: string; pitchNl: string }[]
   hasDestPage?: boolean
 }
 
@@ -105,12 +110,14 @@ const STOPS: Stop[] = [
       es: `Llegada: TGV desde París a Bayona (4h10) o aeropuerto de Biarritz (BIQ) a 8 km. Aparca en Parking Tour de Sault y entra al casco antiguo a pie por las murallas Vauban.`,
       pt: `Chegada: TGV desde Paris a Bayonne (4h10) ou aeroporto de Biarritz (BIQ) a 8 km. Estacione no Parking Tour de Sault e entre na cidade velha a pé pelas muralhas Vauban.`,
       de: `Anreise: TGV von Paris nach Bayonne (4:10 Std.) oder Flug zum Flughafen Biarritz (BIQ), 8 km entfernt. Parken Sie am Parking Tour de Sault und gehen Sie über die Vauban-Stadtmauern in die Altstadt.`,
+      nl: `Aankomst: TGV vanuit Parijs naar Bayonne (4u10) of vlucht naar luchthaven Biarritz (BIQ), 8 km verderop. Parking Tour de Sault en dan te voet over de vestingmuren van Vauban de oude stad in.`,
     },
     whyEn: `Bayonne is the French Basque capital and the gentle entry point of the loop. The 2.5 km Vauban ramparts loop is a leashed dog walk with the Adour river view, the Halles de Bayonne market opens at 6:00 with leashed dogs welcome on the cafe terrace side, and Petit Bayonne across the Nive is the cheese-jambon-chocolate-Cazenave quartier where Basque culture and Atlantic appetite meet.`,
     whyFr: `Bayonne, c'est la capitale basque française et l'entrée douce de la boucle. La boucle de 2,5 km des remparts Vauban se fait en laisse avec vue sur l'Adour, les Halles de Bayonne ouvrent à 6h et acceptent les chiens en laisse côté terrasses, et le Petit Bayonne de l'autre côté de la Nive est le quartier fromage-jambon-chocolat Cazenave où culture basque et appétit atlantique se rencontrent.`,
     whyEs: `Bayona es la capital vasco-francesa y la entrada amable del circuito. El circuito de 2,5 km de las murallas Vauban se hace con perro con correa con vista al Adour, las Halles de Bayonne abren a las 6h y admiten perros con correa en las terrazas, y el Petit Bayonne al otro lado del Nive es el barrio queso-jamón-chocolate Cazenave donde se cruzan cultura vasca y apetito atlántico.`,
     whyPt: `Bayonne é a capital basca francesa e a entrada gentil do circuito. O circuito de 2,5 km das muralhas Vauban faz-se com cão à trela com vista para o Adour, as Halles de Bayonne abrem às 6h e aceitam cães à trela nas esplanadas, e o Petit Bayonne do outro lado do Nive é o bairro queijo-presunto-chocolate Cazenave onde se cruzam cultura basca e apetite atlântico.`,
     whyDe: `Bayonne ist die französische baskische Hauptstadt und der sanfte Einstieg in die Rundreise. Die 2,5 km lange Runde entlang der Vauban-Stadtmauern ist ein Spaziergang mit Hund an der Leine mit Blick auf den Adour, die Markthalle Halles de Bayonne öffnet um 6:00 Uhr und Hunde an der Leine sind auf der Terrassenseite willkommen, und das Petit Bayonne jenseits der Nive ist das Käse-Schinken-Schokolade-Cazenave-Viertel, in dem baskische Kultur und atlantischer Appetit aufeinandertreffen.`,
+    whyNl: `Bayonne is de Franse Baskische hoofdstad en het rustige startpunt van de lus. De 2,5 km lange rondwandeling langs de vestingmuren van Vauban doe je aangelijnd, met uitzicht op de Adour, de markthal Halles de Bayonne opent om 6.00 uur en verwelkomt aangelijnde honden aan de terraskant, en Petit Bayonne aan de overkant van de Nive is de kaas-ham-chocolade-Cazenave-wijk waar Baskische cultuur en Atlantische eetlust elkaar ontmoeten.`,
     highlightsEn: [
       `Vauban ramparts loop: 2.5 km flat circuit, leashed dogs welcome`,
       `Halles de Bayonne: covered market terraces, dogs OK outdoor`,
@@ -141,6 +148,12 @@ const STOPS: Stop[] = [
       `Viertel Petit Bayonne: Schinkenläden, Schokolade Cazenave, Kais der Nive`,
       `Kathedrale Sainte-Marie außen + Kreuzgang (Hunde nicht im Innenraum)`,
     ],
+    highlightsNl: [
+      `Rondwandeling vestingmuren Vauban: 2,5 km vlak parcours, aangelijnde honden welkom`,
+      `Halles de Bayonne: terrassen van de overdekte markt, honden buiten toegestaan`,
+      `Wijk Petit Bayonne: hamzaken, chocolade Cazenave, kades van de Nive`,
+      `Kathedraal Sainte-Marie buitenkant + kloosterhof (honden niet binnen)`,
+    ],
     hotels: [
       {
         name: 'Hôtel des Basses Pyrénées Bayonne',
@@ -149,6 +162,7 @@ const STOPS: Stop[] = [
         pitchEs: `Boutique 3 estrellas en un palacete del siglo XVI en el Quai des Corsaires, 2 min de las Halles y del puente del Petit Bayonne. Perros hasta 10 kg admitidos (pequeño suplemento).`,
         pitchPt: `Boutique 3 estrelas num palacete do século XVI no Quai des Corsaires, 2 min das Halles e da ponte do Petit Bayonne. Cães até 10 kg aceites (pequena taxa).`,
         pitchDe: `Boutique-3-Sterne-Hotel in einem Stadtpalais aus dem 16. Jahrhundert am Quai des Corsaires, 2 Minuten von den Halles und der Brücke zum Petit Bayonne entfernt. Hunde bis 10 kg willkommen (kleiner Aufpreis).`,
+        pitchNl: `Boutique 3-sterrenhotel in een herenhuis uit de 16e eeuw aan de Quai des Corsaires, 2 min lopen van de Halles en de brug naar Petit Bayonne. Honden tot 10 kg welkom (kleine toeslag).`,
       },
       {
         name: 'Ibis Bayonne Centre',
@@ -157,6 +171,7 @@ const STOPS: Stop[] = [
         pitchEs: `3 estrellas asequible frente a la estación SNCF con parking cubierto. Perros hasta 10 kg admitidos, 10 min andando sobre el Adour hasta el casco antiguo.`,
         pitchPt: `3 estrelas acessível em frente à estação SNCF com parking coberto. Cães até 10 kg aceites, 10 min a pé sobre o Adour até à cidade velha.`,
         pitchDe: `Preiswertes 3-Sterne-Hotel gegenüber dem Bahnhof SNCF mit überdachtem Parkplatz. Hunde bis 10 kg willkommen, 10 Minuten Fußweg über den Adour bis zur Altstadt.`,
+        pitchNl: `Budgetvriendelijk 3-sterrenhotel tegenover het SNCF-station met overdekte parking. Honden tot 10 kg welkom, 10 minuten lopen over de Adour naar de oude stad.`,
       },
     ],
     hasDestPage: true,
@@ -173,12 +188,14 @@ const STOPS: Stop[] = [
       es: `Bayona a San Sebastián: 53 km, ~50 min por A63/AP-8 (peaje). Cruzas el Bidasoa entrando en España por Irún. Aparca en Parking Boulevard y a pie por la Concha hasta el casco antiguo.`,
       pt: `Bayonne a San Sebastián: 53 km, ~50 min pela A63/AP-8 (portagem). Atravessa o Bidasoa entrando em Espanha por Irún. Estacione em Parking Boulevard e a pé pela Concha até à cidade velha.`,
       de: `Bayonne nach San Sebastián: 53 km, ca. 50 Min. über die A63/AP-8 (mautpflichtig). Überqueren Sie den Fluss Bidasoa und erreichen Sie Spanien bei Irún. Parken Sie am Parking Boulevard und gehen Sie entlang der Bucht von La Concha zur Altstadt.`,
+      nl: `Bayonne naar San Sebastián: 53 km, ~50 min via de A63/AP-8 (tol). Je steekt de Bidasoa over en komt Spanje binnen bij Irún. Parking Boulevard en dan te voet langs de baai van La Concha naar de oude stad.`,
     },
     whyEn: `Two nights for the heart of Basque Spain: the 1.5 km Concha bay seafront where leashed dogs walk year-round (the beach itself is off-limits between Easter and 30 September), Mount Igueldo's panoramic walk, and the Parte Vieja pintxos quarter where every other terrace welcomes a polite dog under the table. Day trip option to Hondarribia (45 min east) or Pasaia harbour (15 min) for a different Basque flavour.`,
     whyFr: `Deux nuits pour le cœur de l'Espagne basque : 1,5 km de promenade sur la baie de la Concha où les chiens en laisse circulent toute l'année (la plage elle-même est interdite entre Pâques et le 30 septembre), la montée panoramique au Mont Igueldo, et la Parte Vieja des pintxos où une terrasse sur deux accueille un chien sage sous la table. Day trip possible à Hondarribia (45 min est) ou au port de Pasaia (15 min) pour une autre saveur basque.`,
     whyEs: `Dos noches para el corazón del País Vasco español: 1,5 km de paseo por la bahía de la Concha donde los perros con correa circulan todo el año (la playa en sí está prohibida entre Semana Santa y el 30 de septiembre), la subida panorámica al Monte Igueldo, y la Parte Vieja de pintxos donde una terraza de cada dos admite un perro tranquilo bajo la mesa. Excursión opcional a Hondarribia (45 min este) o al puerto de Pasaia (15 min) por otro sabor vasco.`,
     whyPt: `Duas noites para o coração do País Basco espanhol: 1,5 km de passeio pela baía da Concha onde os cães à trela circulam todo o ano (a praia em si está proibida entre Páscoa e 30 de setembro), a subida panorâmica ao Monte Igueldo, e a Parte Vieja de pintxos onde uma esplanada em cada duas aceita um cão calmo debaixo da mesa. Excursão opcional a Hondarribia (45 min leste) ou ao porto de Pasaia (15 min) por outro sabor basco.`,
     whyDe: `Zwei Nächte für das Herz des spanischen Baskenlands: die 1,5 km lange Strandpromenade an der Concha-Bucht, an der Hunde an der Leine das ganze Jahr über spazieren gehen (der Strand selbst ist zwischen Ostern und dem 30. September gesperrt), der Panoramaweg auf dem Monte Igueldo, und das Pintxos-Viertel Parte Vieja, in dem jede zweite Terrasse einen wohlerzogenen Hund unter dem Tisch willkommen heißt. Als Tagesausflug bieten sich Hondarribia (45 Min. östlich) oder der Hafen von Pasaia (15 Min.) für eine andere baskische Note an.`,
+    whyNl: `Twee nachten voor het hart van Spaans Baskenland: de 1,5 km lange boulevard aan de baai van La Concha waar aangelijnde honden het hele jaar wandelen (het strand zelf is verboden tussen Pasen en 30 september), de panoramische wandeling op de Monte Igueldo, en de pintxos-wijk Parte Vieja waar bijna elk ander terras een brave hond onder tafel toelaat. Optionele dagtrip naar Hondarribia (45 min oostwaarts) of de haven van Pasaia (15 min) voor een andere Baskische sfeer.`,
     highlightsEn: [
       `Concha bay 1.5 km seafront: leashed dogs year-round (beach itself banned Easter-30 Sept)`,
       `Monte Igueldo funicular + panoramic walk (dogs in arms accepted in cabin)`,
@@ -209,6 +226,12 @@ const STOPS: Stop[] = [
       `Pintxos-Viertel Parte Vieja: hundefreundliche Terrassen, Wassernapf auf Anfrage`,
       `Tagesausflug Hondarribia (45 Min.): ummauertes Fischerdorf, hundefreundliche Altstadt`,
     ],
+    highlightsNl: [
+      `Baai van La Concha, 1,5 km boulevard: aangelijnde honden het hele jaar (strand zelf verboden Pasen-30 sept)`,
+      `Kabelbaan en panoramische wandeling Monte Igueldo (honden op de arm toegestaan in de cabine)`,
+      `Pintxos-wijk Parte Vieja: hondvriendelijke terrassen, waterbakje op aanvraag`,
+      `Dagtrip Hondarribia (45 min): ommuurd vissersdorp, hondvriendelijke oude stad`,
+    ],
     hotels: [
       {
         name: 'Hotel Maria Cristina, a Luxury Collection Hotel',
@@ -217,6 +240,7 @@ const STOPS: Stop[] = [
         pitchEs: `5 estrellas Belle Époque junto al Urumea, 5 min andando a la Concha. Perros hasta 18 kg admitidos (suplemento moderado), cama y comedero, el lobby de Bellas Artes tolera un perro con correa tranquilo.`,
         pitchPt: `5 estrelas Belle Époque junto ao Urumea, 5 min a pé da Concha. Cães até 18 kg aceites (taxa moderada), cama e tigela, o lobby de Belas Artes tolera um cão à trela calmo.`,
         pitchDe: `Belle-Époque-5-Sterne-Hotel am Fluss Urumea, 5 Minuten Fußweg zur Concha. Hunde bis 18 kg willkommen (mittlerer Aufpreis), Hundebett und Napf werden gestellt, die Lobby Bellas Artes toleriert einen ruhigen Hund an der Leine.`,
+        pitchNl: `Belle-Époque 5-sterrenhotel aan de rivier de Urumea, 5 min lopen van La Concha. Honden tot 18 kg welkom (gemiddelde toeslag), hondenmand en bak worden voorzien, de lobby Bellas Artes tolereert een rustige aangelijnde hond.`,
       },
       {
         name: 'Hotel Niza',
@@ -225,6 +249,7 @@ const STOPS: Stop[] = [
         pitchEs: `4 estrellas directamente en el paseo de la Concha con habitaciones vistas al mar. Perros hasta 10 kg admitidos (pequeño suplemento), sin necesidad de coche el fin de semana, te despiertas frente a la bahía.`,
         pitchPt: `4 estrelas diretamente no passeio da Concha com quartos vista mar. Cães até 10 kg aceites (pequena taxa), sem precisar de carro no fim-de-semana, acorda frente à baía.`,
         pitchDe: `4-Sterne-Hotel direkt an der Strandpromenade der Concha mit Zimmern mit Meerblick. Hunde bis 10 kg willkommen (kleiner Aufpreis), das ganze Wochenende ohne Auto, Sie wachen direkt gegenüber der Bucht auf.`,
+        pitchNl: `4-sterrenhotel direct aan de boulevard van La Concha met kamers met zeezicht. Honden tot 10 kg welkom (kleine toeslag), geen auto nodig het hele weekend, je wordt wakker met uitzicht op de baai.`,
       },
     ],
     hasDestPage: true,
@@ -241,12 +266,14 @@ const STOPS: Stop[] = [
       es: `San Sebastián a Vitoria-Gasteiz: 100 km, ~1h10 por la AP-1 (peaje) cruzando la meseta de Álava. Aparca en Parking Andra Mari y a pie al casco medieval en la colina.`,
       pt: `San Sebastián a Vitoria-Gasteiz: 100 km, ~1h10 pela AP-1 (portagem) atravessando o planalto de Álava. Estacione em Parking Andra Mari e a pé até à cidade medieval na colina.`,
       de: `San Sebastián nach Vitoria-Gasteiz: 100 km, ca. 1:10 Std. über die AP-1 (mautpflichtig) durch die Hochebene von Álava. Parken Sie am Parking Andra Mari und gehen Sie zu Fuß in die mittelalterliche Altstadt auf dem Hügel.`,
+      nl: `San Sebastián naar Vitoria-Gasteiz: 100 km, ~1u10 via de AP-1 (tol) over de hoogvlakte van Álava. Parking Andra Mari en dan te voet de middeleeuwse oude stad op de heuvel in.`,
     },
     whyEn: `Vitoria-Gasteiz is the European Green Capital 2012 and the underrated jewel of the loop: the Anillo Verde is a ring of 5 large parks around the city (Salburua wetlands with European storks, Olarizu botanical garden, Zabalgana, Armentia oak forest, Zadorra reservoir) where leashed dogs walk on hundreds of km of paths and 4 of them have off-leash zones. The Casco Medieval almond-shaped hilltop is car-free, dog-friendly and gentle on tired paws.`,
     whyFr: `Vitoria-Gasteiz, c'est la Capitale verte européenne 2012 et le bijou sous-coté de la boucle : l'Anillo Verde est un anneau de 5 grands parcs autour de la ville (zones humides de Salburua avec ses cigognes, jardin botanique d'Olarizu, Zabalgana, forêt de chênes d'Armentia, réservoir du Zadorra) où les chiens en laisse circulent sur des centaines de km de sentiers, et 4 d'entre eux ont des zones sans laisse. Le Casco Medieval en amande sur la colline est piéton, dog-friendly et doux sur les coussinets fatigués.`,
     whyEs: `Vitoria-Gasteiz es la Capital Verde Europea 2012 y la joya infravalorada del circuito: el Anillo Verde es un anillo de 5 grandes parques alrededor de la ciudad (humedales de Salburua con cigüeñas, jardín botánico de Olarizu, Zabalgana, robledal de Armentia, embalse del Zadorra) donde los perros con correa circulan por cientos de km de senderos y 4 de ellos tienen zonas sin correa. El Casco Medieval almendrado en la colina es peatonal, dog-friendly y suave para almohadillas cansadas.`,
     whyPt: `Vitoria-Gasteiz é a Capital Verde Europeia 2012 e a joia subvalorizada do circuito: o Anillo Verde é um anel de 5 grandes parques à volta da cidade (zonas húmidas de Salburua com cegonhas, jardim botânico de Olarizu, Zabalgana, carvalhal de Armentia, albufeira do Zadorra) onde os cães à trela circulam por centenas de km de trilhos e 4 deles têm zonas sem trela. O Casco Medieval amendoado na colina é pedonal, dog-friendly e suave para almofadinhas cansadas.`,
     whyDe: `Vitoria-Gasteiz ist Europäische Grüne Hauptstadt 2012 und das unterschätzte Juwel der Rundreise: der Anillo Verde ist ein Ring aus 5 großen Parks rund um die Stadt (Feuchtgebiete Salburua mit europäischen Störchen, botanischer Garten Olarizu, Zabalgana, Eichenwald Armentia, Stausee Zadorra), auf dem Hunde an der Leine auf Hunderten von Kilometern Wegen spazieren gehen können, und 4 davon haben Freilaufzonen. Der mandelförmige Casco Medieval auf dem Hügel ist autofrei, hundefreundlich und schonend für müde Pfoten.`,
+    whyNl: `Vitoria-Gasteiz is Europese Groene Hoofdstad 2012 en het onderschatte juweeltje van de lus: de Anillo Verde is een ring van 5 grote parken rond de stad (wetlands Salburua met Europese ooievaars, botanische tuin Olarizu, Zabalgana, eikenbos Armentia, stuwmeer Zadorra) waar aangelijnde honden over honderden km paden wandelen, en 4 ervan hebben loslooplocaties. Het amandelvormige Casco Medieval op de heuvel is autovrij, hondvriendelijk en zacht voor vermoeide pootjes.`,
     highlightsEn: [
       `Anillo Verde: 5 parks ring, 4 with off-leash zones, storks at Salburua`,
       `Casco Medieval: almond hilltop, cobbled lanes, leashed dogs welcome`,
@@ -277,6 +304,12 @@ const STOPS: Stop[] = [
       `Plaza de la Virgen Blanca: überdachter Arkadenplatz, hundetolerante Terrassen`,
       `Restaurierungsführung Kathedrale Santa María (nur Assistenzhunde im Innenraum)`,
     ],
+    highlightsNl: [
+      `Anillo Verde: ring van 5 parken, 4 met loslooplocaties, ooievaars bij Salburua`,
+      `Casco Medieval: amandelvormige heuveltop, geplaveide steegjes, aangelijnde honden welkom`,
+      `Plaza de la Virgen Blanca: overdekt plein met arcaden, hondvriendelijke terrassen`,
+      `Restauratietour kathedraal Santa María (alleen assistentiehonden binnen)`,
+    ],
     hotels: [
       {
         name: 'Silken Ciudad de Vitoria',
@@ -285,6 +318,7 @@ const STOPS: Stop[] = [
         pitchEs: `4 estrellas moderno frente al museo de arte contemporáneo Artium, 8 min andando al Casco Medieval. Perros hasta 15 kg admitidos (pequeño suplemento), parking privado, andando hasta los humedales de Salburua por la Calle Postas.`,
         pitchPt: `4 estrelas moderno em frente ao museu de arte contemporânea Artium, 8 min a pé do Casco Medieval. Cães até 15 kg aceites (pequena taxa), parking privado, a pé até às zonas húmidas de Salburua pela Calle Postas.`,
         pitchDe: `Modernes 4-Sterne-Hotel gegenüber dem Museum für zeitgenössische Kunst Artium, 8 Minuten Fußweg zum Casco Medieval. Hunde bis 15 kg willkommen (kleiner Aufpreis), Privatparkplatz, zu Fuß erreichbar zu den Feuchtgebieten Salburua über die Calle Postas.`,
+        pitchNl: `Modern 4-sterrenhotel tegenover het museum voor hedendaagse kunst Artium, 8 min lopen naar het Casco Medieval. Honden tot 15 kg welkom (kleine toeslag), privéparking, loopafstand tot de wetlands Salburua via de Calle Postas.`,
       },
       {
         name: 'NH Canciller Ayala Vitoria',
@@ -293,6 +327,7 @@ const STOPS: Stop[] = [
         pitchEs: `4 estrellas NH fiable frente al parque de la Florida, 6 min andando a la colina medieval. Perros hasta 15 kg admitidos (pequeño suplemento), cama a petición, acceso fácil al Anillo Verde por Avenida Gasteiz.`,
         pitchPt: `4 estrelas NH fiável em frente ao parque da Florida, 6 min a pé da colina medieval. Cães até 15 kg aceites (pequena taxa), cama a pedido, acesso fácil ao Anillo Verde pela Avenida Gasteiz.`,
         pitchDe: `Zuverlässiges 4-Sterne-Hotel der NH-Kette vor dem Park Florida, 6 Minuten Fußweg zum mittelalterlichen Hügel. Hunde bis 15 kg willkommen (kleiner Aufpreis), Hundebett auf Anfrage, einfacher Zugang zum Anillo Verde über die Avenida Gasteiz.`,
+        pitchNl: `Betrouwbaar 4-sterrenhotel van de NH-keten voor het park Florida, 6 min lopen naar de middeleeuwse heuvel. Honden tot 15 kg welkom (kleine toeslag), hondenmand op aanvraag, makkelijke toegang tot de Anillo Verde via de Avenida Gasteiz.`,
       },
     ],
     hasDestPage: true,
@@ -309,12 +344,14 @@ const STOPS: Stop[] = [
       es: `Vitoria-Gasteiz a Bilbao: 65 km, ~50 min por AP-68 bajando las colinas del Ebro. Añade 15 min para la excursión a Getxo por la línea 1 del metro (perro con correa gratis hasta 8 kg con bozal).`,
       pt: `Vitoria-Gasteiz a Bilbao: 65 km, ~50 min pela AP-68 descendo as colinas do Ebro. Adicione 15 min para a excursão a Getxo pela linha 1 do metro (cão à trela gratuito até 8 kg com açaime).`,
       de: `Vitoria-Gasteiz nach Bilbao: 65 km, ca. 50 Min. über die AP-68 durch die Hügel des Ebro. Rechnen Sie 15 Minuten zusätzlich für den Tagesausflug nach Getxo mit der Metro-Linie 1 (Hunde an der Leine bis 8 kg mit Maulkorb kostenlos).`,
+      nl: `Vitoria-Gasteiz naar Bilbao: 65 km, ~50 min via de AP-68 door de heuvels van de Ebro. Reken 15 min extra voor de dagtrip naar Getxo via metrolijn 1 (aangelijnde honden tot 8 kg met muilkorf gratis).`,
     },
     whyEn: `Bilbao closes the loop with two cities for one: the Guggenheim with its mirror-pond and Jeff Koons puppy (the building exterior welcomes leashed dogs, the museum interior does not), the Casco Viejo Siete Calles for pintxos, and the Nervion riverside walk. Then Metro Line 1 to Getxo in 25 minutes for the UNESCO Vizcaya Bridge, which has accepted leashed dogs up to 40 kg on the high-level walkway since December 2017 - a remarkable Riviera rarity for a UNESCO World Heritage site.`,
     whyFr: `Bilbao clôt la boucle avec deux villes pour une : le Guggenheim avec son miroir d'eau et le Puppy de Jeff Koons (l'extérieur accueille les chiens en laisse, l'intérieur non), le Casco Viejo Siete Calles pour les pintxos, et la promenade du Nervión. Puis la ligne 1 du métro vers Getxo en 25 minutes pour le Pont de Biscaye UNESCO, qui accepte les chiens en laisse jusqu'à 40 kg sur la passerelle haute depuis décembre 2017 - une rareté pour un site UNESCO mondial.`,
     whyEs: `Bilbao cierra el circuito con dos ciudades en una: el Guggenheim con su espejo de agua y el Puppy de Jeff Koons (el exterior admite perros con correa, el interior no), el Casco Viejo de las Siete Calles para pintxos, y el paseo del Nervión. Luego la línea 1 del metro a Getxo en 25 minutos para el Puente Vizcaya UNESCO, que admite perros con correa hasta 40 kg en la pasarela alta desde diciembre de 2017 - una rareza para un sitio UNESCO mundial.`,
     whyPt: `Bilbao fecha o circuito com duas cidades em uma: o Guggenheim com o seu espelho de água e o Puppy de Jeff Koons (o exterior aceita cães à trela, o interior não), o Casco Viejo das Sete Ruas para pintxos, e o passeio do Nervión. Depois a linha 1 do metro a Getxo em 25 minutos para a Ponte Vizcaya UNESCO, que aceita cães à trela até 40 kg na passarela alta desde dezembro de 2017 - uma raridade para um sítio UNESCO mundial.`,
     whyDe: `Bilbao schließt die Rundreise mit zwei Städten in einer: das Guggenheim mit seinem Spiegelteich und dem Puppy von Jeff Koons (der Außenbereich heißt Hunde an der Leine willkommen, der Innenraum des Museums nicht), das Pintxos-Viertel Casco Viejo Siete Calles, und der Spaziergang entlang des Nervión. Danach mit der Metro-Linie 1 in 25 Minuten nach Getxo zur Vizcaya-Brücke, UNESCO-Welterbe, die seit Dezember 2017 Hunde an der Leine bis 40 kg auf dem hoch gelegenen Steg zulässt - eine bemerkenswerte Seltenheit für eine UNESCO-Welterbestätte.`,
+    whyNl: `Bilbao sluit de lus af met twee steden in één: het Guggenheim met zijn spiegelvijver en de Puppy van Jeff Koons (de buitenkant van het gebouw verwelkomt aangelijnde honden, het museum vanbinnen niet), het pintxos-viertel Casco Viejo Siete Calles, en de wandeling langs de Nervión. Daarna metrolijn 1 naar Getxo in 25 minuten voor de UNESCO Vizcaya-brug, die sinds december 2017 aangelijnde honden tot 40 kg toelaat op het hoge loopvlak, een opmerkelijke zeldzaamheid voor een UNESCO-werelderfgoedsite.`,
     highlightsEn: [
       `Guggenheim Bilbao exterior + Puppy floral sculpture (leashed dogs welcome outside)`,
       `Casco Viejo Siete Calles: pintxos crawl, dog-friendly terraces`,
@@ -345,6 +382,12 @@ const STOPS: Stop[] = [
       `Spaziergang entlang des Nervión: Fußgängerbrücke Zubizuri, Salve-Brücke, moderne Promenade`,
       `Tagesausflug Getxo mit Metro-Linie 1: Vizcaya-Brücke UNESCO, Hunde bis 40 kg + Klippenweg Punta Galea`,
     ],
+    highlightsNl: [
+      `Guggenheim Bilbao buitenkant + bloemsculptuur Puppy (aangelijnde honden welkom buiten)`,
+      `Casco Viejo Siete Calles: pintxos-tocht, hondvriendelijke terrassen`,
+      `Wandeling langs de Nervión: voetgangersbrug Zubizuri, Salve-brug, modernistische boulevard`,
+      `Dagtrip Getxo via metrolijn 1: UNESCO Vizcaya-brug honden tot 40 kg + klifpad Punta Galea`,
+    ],
     hotels: [
       {
         name: 'Gran Hotel Domine Bilbao',
@@ -353,6 +396,7 @@ const STOPS: Stop[] = [
         pitchEs: `5 estrellas frente al Guggenheim con terraza acristalada sobre las curvas de titanio de Frank Gehry. Perros hasta 10 kg admitidos (pequeño suplemento), cama y obsequio de bienvenida, base perfecta para museo de día + Casco Viejo de noche.`,
         pitchPt: `5 estrelas em frente ao Guggenheim com esplanada envidraçada sobre as curvas de titânio de Frank Gehry. Cães até 10 kg aceites (pequena taxa), cama e amenity de boas-vindas, base perfeita para museu de dia + Casco Viejo à noite.`,
         pitchDe: `5-Sterne-Hotel gegenüber dem Guggenheim mit Glasdachterrasse mit Blick auf die Titan-Kurven von Frank Gehry. Hunde bis 10 kg willkommen (kleiner Aufpreis), Hundebett und Willkommensgeschenk, perfekte Basis für Museum am Tag und Casco Viejo am Abend.`,
+        pitchNl: `5-sterrenhotel tegenover het Guggenheim met glazen dakterras met uitzicht op de titanium curven van Frank Gehry. Honden tot 10 kg welkom (kleine toeslag), hondenmand en welkomstcadeautje, perfecte uitvalsbasis voor museum overdag en Casco Viejo 's avonds.`,
       },
       {
         name: 'Hotel Carlton',
@@ -361,6 +405,7 @@ const STOPS: Stop[] = [
         pitchEs: `5 estrellas Belle Époque en la Plaza Federico Moyua, equidistante del Guggenheim y del Casco Viejo. Perros hasta 12 kg admitidos (suplemento moderado), el lobby de mármol y el Bar Aria toleran un perro con correa tranquilo durante un café.`,
         pitchPt: `5 estrelas Belle Époque na Plaza Federico Moyua, equidistante do Guggenheim e do Casco Viejo. Cães até 12 kg aceites (taxa moderada), o lobby de mármore e o Bar Aria toleram um cão à trela calmo durante um café.`,
         pitchDe: `Belle-Époque-5-Sterne-Hotel an der Plaza Federico Moyua, gleich weit entfernt vom Guggenheim und vom Casco Viejo. Hunde bis 12 kg willkommen (mittlerer Aufpreis), die Marmorlobby und die Bar Aria tolerieren einen ruhigen Hund an der Leine bei einem Kaffee.`,
+        pitchNl: `Belle-Époque 5-sterrenhotel aan de Plaza Federico Moyua, op gelijke afstand van het Guggenheim en de Casco Viejo. Honden tot 12 kg welkom (gemiddelde toeslag), de marmeren lobby en de Bar Aria tolereren een rustige aangelijnde hond tijdens een kopje koffie.`,
       },
     ],
     hasDestPage: true,
@@ -528,6 +573,38 @@ const COPY = {
       { q: 'Ist mein Hund in Pintxos-Bars willkommen?', a: `Baskische Terrassen sind sehr hundetolerant - bringen Sie Wasser und eine kleine Decke mit. Die Parte Vieja in San Sebastián, der Casco Viejo in Bilbao, der Casco Medieval in Vitoria-Gasteiz und das Petit Bayonne sagen auf der Terrasse meist ja. Der Innenbereich hängt von der Bar ab, fragen Sie nach. Viele Pintxos-Theken erlauben einen ruhigen kleinen Hund zu Ihren Füßen während eines kurzen Stopps.` },
     ],
   },
+  nl: {
+    dayLabels: ['Dag 1', 'Dagen 2 & 3', 'Dag 4', 'Dag 5'],
+    dayLabelsShort: ['Dag 1', 'Dagen 2-3', 'Dag 4', 'Dag 5'],
+    checkAvailability: 'Bekijk beschikbaarheid →',
+    browseAll: (city: string) => `Bekijk alle hondvriendelijke hotels in ${city} →`,
+    eyebrow: '5-daagse hondvriendelijke road trip door Baskenland',
+    title: 'Road trip door Baskenland met je hond: Bayonne, San Sebastián, Vitoria en Bilbao',
+    intro: `Baskenland combineert Franse Atlantische eetlust, Spaanse pintxos-cultuur, de Europese Groene Hoofdstad en een UNESCO-brug in een grensoverschrijdende lus van 280 km die je in vijf dagen rijdt. Bayonne voor ham en de vestingmuren van Vauban, San Sebastián voor La Concha, Vitoria-Gasteiz voor de Anillo Verde, Bilbao voor het Guggenheim plus een dagtrip naar de Vizcaya-brug in Getxo, die als unieke uitzondering honden tot 40 kg toelaat.`,
+    stats: ['5 dagen', '~280 km totaal', '4 stops · 5 nachten', 'Honden welkom in elk hotel'],
+    routeHeading: 'De route in één oogopslag',
+    mapHeading: 'Interactieve kaart',
+    mapNote: 'Verschuif en zoom - elke blauwe marker is een geverifieerd hondvriendelijk hotel.',
+    itineraryHeading: 'Dagindeling',
+    nightsLabel: (n: number) => `${n} ${n > 1 ? 'nachten' : 'nacht'}`,
+    driveLabel: 'Hoe kom je er',
+    highlightsLabel: `Niet te missen`,
+    hotelsLabel: 'Waar je slaapt',
+    practicalHeading: 'Praktische info voor je vertrekt',
+    practical: [
+      { h: 'Strandregels', p: `De meeste gemeentelijke stranden in Baskenland verbieden honden tussen Pasen (of 1 mei, afhankelijk van de gemeente) en 30 september. Opvallende uitzonderingen: de boulevard van La Concha is het hele jaar toegankelijk voor aangelijnde honden, Getxo staat nachttoegang toe (20.00-9.30 uur) zelfs in de zomer, en verschillende Cantabrische baaien blijven buiten het seizoen toegankelijk. Controleer altijd de lokale ordenanza municipal voordat je naar het strand gaat.` },
+      { h: 'Grensformaliteiten', p: `Frankrijk en Spanje zijn allebei EU-lidstaten, dus het Europese huisdierenpaspoort met actuele rabiësvaccinatie volstaat (geen grenscontroles bij Irún op de A63/AP-8). Honden uit het VK of van buiten de EU hebben een dierenartsverklaring (Animal Health Certificate) nodig, afgegeven binnen 10 dagen voor vertrek - zeldzaam op deze route, maar goed om te weten.` },
+      { h: 'Autorijden met een hond', p: `Zowel de Franse als de Spaanse wet schrijft voor dat honden vastgezet moeten zijn (tuigje, bench of scheidingsrek). Tolwegen (A63/AP-8 in Frankrijk, AP-1/AP-68 in Spanje) accepteren honden zonder beperking; de rustplaatsen hebben beschaduwde grasstroken. Laat een hond nooit alleen achter in een geparkeerde auto, zelfs niet met een raampje op een kier.` },
+      { h: 'Spoeddierenarts', p: `Bayonne: Hôpital Vétérinaire Larrouque, +33 5 59 50 51 90. San Sebastián: Clínica Veterinaria Igeldo, +34 943 21 06 33 (24u). Vitoria-Gasteiz: Hospital Veterinario Gasteiz, +34 945 12 21 11 (24u). Bilbao: Hospital Veterinario Indautxu, +34 944 23 11 41 (24u).` },
+    ],
+    faqHeading: 'Veelgestelde vragen',
+    faq: [
+      { q: 'Kan ik deze trip zonder auto doen?', a: `Ja. Bayonne, San Sebastián, Vitoria-Gasteiz en Bilbao zijn allemaal per trein bereikbaar: TGV van Parijs naar Bayonne, Euskotren of ALSA-bus Bayonne-San Sebastián (1u, honden gratis), Renfe Media Distancia San Sebastián-Vitoria-Bilbao. Aangelijnde honden met muilkorf reizen gratis met Euskotren en de regionale Bizkaibus-diensten; Renfe rekent € 10. Hertz en Sixt hebben hondvriendelijke huurauto's op de luchthavens van Biarritz/Bilbao als je flexibiliteit wilt voor de dagtrip naar Getxo.` },
+      { q: 'Beste seizoen met een hond?', a: `April-juni en september-oktober. Mild Atlantisch klimaat met 14-22 °C, in het voorjaar zijn de stranden nog open of heropenen ze in het najaar, de pintxos-terrassen zijn open, en je vermijdt de luidruchtige en drukke augustusferia's in Bayonne. De zomer is prima voor kortharige, hittebestendige honden, maar neem schaduw en water mee - het binnenland rond Vitoria bereikt 32 °C in juli.` },
+      { q: 'Is de Vizcaya-brug echt hondvriendelijk?', a: `Ja - het hoge loopvlak (de iconische 50 m boven de riviermonding van de Nervión) laat sinds december 2017 het hele jaar door aangelijnde honden tot 40 kg toe. De gondel op zeeniveau is alleen voor mensen. Kaartjes koop je aan beide oevers; de kant van Portugalete heeft een klein grasstrookje om de hond uit te laten voor de klim.` },
+      { q: 'Is mijn hond welkom in pintxos-bars?', a: `Baskische terrassen zijn erg hondvriendelijk - neem water en een klein matje mee. De Parte Vieja in San Sebastián, de Casco Viejo in Bilbao, het Casco Medieval in Vitoria-Gasteiz en Petit Bayonne zeggen op het terras vrijwel altijd ja. Binnen zitten hangt af van de bar, dus vraag ernaar. Veel pintxos-bars laten een rustige kleine hond aan je voeten toe tijdens een korte stop.` },
+    ],
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -585,6 +662,7 @@ export default async function Page({
     if (locale === 'es') return { why: s.whyEs, hl: s.highlightsEs, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchEs })) }
     if (locale === 'pt') return { why: s.whyPt, hl: s.highlightsPt, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchPt })) }
     if (locale === 'de') return { why: s.whyDe, hl: s.highlightsDe, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchDe })) }
+    if (locale === 'nl') return { why: s.whyNl, hl: s.highlightsNl, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchNl })) }
     return { why: s.whyEn, hl: s.highlightsEn, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchEn })) }
   }
 

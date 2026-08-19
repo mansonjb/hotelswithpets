@@ -15,6 +15,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   es: { label: 'Alternativas pet-friendly menos saturadas', cta: 'Ver hoteles' },
   pt: { label: 'Alternativas pet-friendly menos saturadas', cta: 'Ver hoteis' },
   de: { label: 'Ruhigere haustierfreundliche Alternativen', cta: 'Hotels ansehen' },
+  nl: { label: 'Rustigere hondvriendelijke alternatieven', cta: 'Bekijk hotels' },
 }
 
 export async function generateStaticParams() {
@@ -35,6 +36,7 @@ export async function generateMetadata({
     es: `Alternativas pet-friendly a las ciudades europeas masificadas: 8 destinos menos saturados (2026)`,
     pt: `Alternativas pet-friendly as cidades europeias superlotadas: 8 destinos menos saturados (2026)`,
     de: `Hundefreundliche Alternativen zu Europas überfülltesten Städten: 8 ruhigere Empfehlungen (2026)`,
+    nl: `Hondvriendelijke alternatieven voor Europa's drukste steden: 8 rustigere keuzes (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Barcelona protests, Venice tourist gates, Santorini caps: 2026's anti-overtourism movement is real. Dog owners have a hidden advantage: quieter cities are almost always more dog-friendly. Eight verified alternatives with pet-friendly hotels.`,
@@ -42,6 +44,7 @@ export async function generateMetadata({
     es: `Protestas en Barcelona, puertas en Venecia, cuotas en Santorini: el movimiento anti-masificacion 2026 es real. Los duenos de perros tienen una ventaja oculta: las ciudades mas tranquilas son casi siempre mas pet-friendly. Ocho alternativas verificadas con hoteles pet-friendly.`,
     pt: `Protestos em Barcelona, portas em Veneza, quotas em Santorini: o movimento anti-sobreturismo 2026 e real. Os donos de caes tem uma vantagem oculta: as cidades mais calmas sao quase sempre mais pet-friendly. Oito alternativas verificadas com hoteis pet-friendly.`,
     de: `Proteste in Barcelona, Touristentore in Venedig, Besucherobergrenzen in Santorin: Die Anti-Overtourism-Bewegung von 2026 ist real. Hundebesitzer haben einen versteckten Vorteil: Ruhigere Städte sind fast immer hundefreundlicher. Acht geprüfte Alternativen mit haustierfreundlichen Hotels.`,
+    nl: `Protesten in Barcelona, toeristenpoortjes in Venetie, bezoekerslimieten in Santorini: de anti-overtourismbeweging van 2026 is echt. Hondenbaasjes hebben een verborgen voordeel: rustigere steden zijn bijna altijd hondvriendelijker. Acht geverifieerde alternatieven met hondvriendelijke hotels.`,
   }
   return {
     title: titles[locale] ?? titles.en,
@@ -79,12 +82,14 @@ type Pick = {
   whyEs: string
   whyPt: string
   whyDe?: string
+  whyNl?: string
   hotelName: string
   hotelEn: string
   hotelFr: string
   hotelEs: string
   hotelPt: string
   hotelDe?: string
+  hotelNl?: string
 }
 
 const PICKS: Pick[] = [
@@ -100,12 +105,14 @@ const PICKS: Pick[] = [
     whyEs: `Girona esta a 1h al norte de Barcelona en tren (12 EUR), tiene la misma cultura catalana y ambiente de barrio gotico pero recibe 10 veces menos turistas. El antiguo barrio judio (Call) es recorrible en una tarde con un perro con correa, las orillas del Onyar son planas y accesibles para perros todo el ano, y las colinas de Gavarres empiezan a 15 min del centro con senderos senalizados de correa obligatoria.`,
     whyPt: `Girona fica a 1h a norte de Barcelona de comboio (12 EUR), tem a mesma cultura catalã e atmosfera de bairro gotico mas recebe 10 vezes menos turistas. O antigo bairro judeu (Call) percorre-se numa tarde com cão a trela, as margens do rio Onyar sao planas e acessiveis a caes todo o ano, e as colinas de Gavarres comecam a 15 min do centro com trilhos sinalizados de trela obrigatoria.`,
     whyDe: `Girona liegt 1 Stunde nördlich von Barcelona mit dem Zug (12 EUR), hat dieselbe katalanische Kultur und gotische Altstadtatmosphäre, empfängt aber 10-mal weniger Touristen. Das alte jüdische Viertel (Call) lässt sich an einem Nachmittag mit einem Hund an der Leine erkunden, die Ufer des Onyar sind flach und ganzjährig hundefreundlich zugänglich, und die umliegenden Gavarres-Hügel beginnen 15 Minuten vom Zentrum entfernt mit markierten Wanderwegen mit Leinenpflicht. Die Stadt war Drehort für Game of Thrones, was neugierige Besucher anzieht, aber bei weitem nicht Barcelonas 30 Millionen jährliche Touristen.`,
+    whyNl: `Girona ligt 1 uur ten noorden van Barcelona met de trein (12 EUR), heeft dezelfde Catalaanse cultuur en gotische wijksfeer, maar krijgt 10x minder toeristen. De oude joodse wijk (Call) is in een middag te belopen met een hond aan de lijn, de oevers van de Onyar zijn vlak en het hele jaar door toegankelijk voor honden, en de omliggende Gavarres-heuvels beginnen 15 minuten van het centrum met gemarkeerde paden waar de hond aangelijnd moet zijn. De stad was filmlocatie voor Game of Thrones, wat nieuwsgierige bezoekers trekt, maar niets vergeleken met Barcelona's 30 miljoen jaarlijkse toeristen.`,
     hotelName: 'Hotel Llegendes de Girona Catedral',
     hotelEn: `Hotel Llegendes de Girona Catedral - boutique 4-star inside the medieval walls, dogs up to 15kg welcomed at modest fee, stone courtyard.`,
     hotelFr: `Hotel Llegendes de Girona Catedral - boutique 4 etoiles dans les remparts medievaux, chiens jusqu'a 15kg acceptes (supplement modere), cour en pierre.`,
     hotelEs: `Hotel Llegendes de Girona Catedral - boutique 4 estrellas dentro de las murallas medievales, perros hasta 15kg admitidos (suplemento moderado), patio de piedra.`,
     hotelPt: `Hotel Llegendes de Girona Catedral - boutique 4 estrelas dentro das muralhas medievais, caes ate 15kg aceites (taxa moderada), patio de pedra.`,
     hotelDe: `Hotel Llegendes de Girona Catedral - Boutique-4-Sterne-Hotel innerhalb der mittelalterlichen Stadtmauern, Hunde bis 15 kg willkommen (moderate Gebühr), Innenhof aus Stein.`,
+    hotelNl: `Hotel Llegendes de Girona Catedral - boutique 4-sterren hotel binnen de middeleeuwse stadsmuren, honden tot 15 kg welkom tegen een gematigd toeslag, stenen binnenplaats.`,
   },
   {
     slug: 'treviso',
@@ -119,12 +126,14 @@ const PICKS: Pick[] = [
     whyEs: `Treviso esta a 30 min en tren de Venecia (4,50 EUR) y a menudo descrita como "Venecia sin la masificacion ni el olor". Tiene las mismas fachadas medievales pintadas, canales, mercado de pescado y cultura del aperitivo, pero recibe una fraccion de los 30 millones de visitantes anuales de Venecia. El paseo del rio Sile por el centro es totalmente llano y permite perros con correa, la Piazza dei Signori tolera los perros en la hora del aperitivo.`,
     whyPt: `Treviso fica a 30 min de comboio de Veneza (4,50 EUR) e e frequentemente descrita como "Veneza sem as multidoes e o cheiro". Tem as mesmas fachadas medievais pintadas, canais, mercado de peixe e cultura do aperitivo, mas recebe uma fracao dos 30 milhoes de visitantes anuais de Veneza. O passeio pelo rio Sile no centro e totalmente plano e aceita caes a trela, e a Piazza dei Signori e tolerante com caes na hora do aperitivo.`,
     whyDe: `Treviso liegt 30 Minuten mit dem Zug von Venedig entfernt (4,50 EUR) und wird oft als „Venedig ohne die Menschenmassen und den Geruch" beschrieben. Die Stadt hat dieselben bemalten mittelalterlichen Fassaden, Kanäle, Fischmarkt und Aperitivo-Kultur, empfängt aber nur einen Bruchteil der 30 Millionen jährlichen Besucher Venedigs. Der Spaziergang am Fluss Sile durch das Zentrum ist völlig eben und hundefreundlich, die Piazza dei Signori toleriert Hunde zur Aperitivo-Stunde, und die Prosecco-Hügel (UNESCO) beginnen 20 Minuten nördlich mit Wanderwegen, die Hunde an der Leine erlauben.`,
+    whyNl: `Treviso ligt 30 minuten met de trein van Venetie (4,50 EUR) en wordt vaak omschreven als "Venetie zonder de drukte en de geur". De stad heeft dezelfde beschilderde middeleeuwse gevels, kanalen, vismarkt en aperitivo-cultuur, maar krijgt slechts een fractie van Venetie's 30 miljoen jaarlijkse bezoekers. De wandeling langs de Sile door het centrum is volledig vlak en hondvriendelijk, de Piazza dei Signori tolereert honden tijdens het aperitief-uur, en de Prosecco Hills (UNESCO) beginnen 20 minuten noordelijk met wandelpaden die aangelijnde honden toelaten.`,
     hotelName: 'Hotel Continental Treviso',
     hotelEn: `Hotel Continental Treviso - 4-star central, river view, pets welcome at moderate fee.`,
     hotelFr: `Hotel Continental Treviso - 4 etoiles central, vue sur la riviere, animaux acceptes (supplement modere).`,
     hotelEs: `Hotel Continental Treviso - 4 estrellas central, vista al rio, mascotas admitidas (suplemento moderado).`,
     hotelPt: `Hotel Continental Treviso - 4 estrelas central, vista para o rio, animais aceites (taxa moderada).`,
     hotelDe: `Hotel Continental Treviso - zentrales 4-Sterne-Hotel, Flussblick, Haustiere willkommen (moderate Gebühr).`,
+    hotelNl: `Hotel Continental Treviso - centraal gelegen 4-sterren hotel, uitzicht op de rivier, huisdieren welkom tegen een gematigd toeslag.`,
   },
   {
     slug: 'olomouc',
@@ -138,12 +147,14 @@ const PICKS: Pick[] = [
     whyEs: `Olomouc es la segunda ciudad historica mas grande de Chequia y tiene una Columna de la Santisima Trinidad catalogada por la UNESCO y 6 fuentes barrocas que rivalizan con el casco antiguo de Praga, pero sin practicamente ningun turista. El parque Bezrucovy sady es un espacio verde llano de 10 ha que admite perros con correa, los tranvias aceptan perros con correa gratis, y la poblacion universitaria de la ciudad significa terrazas animadas que toleran universalmente los perros. Precio medio del hotel al 60% de Praga por calidad equivalente.`,
     whyPt: `Olomouc e a segunda maior cidade historica da Chequia e tem uma Coluna da Santissima Trindade classificada pela UNESCO e 6 fontes barrocas que rivalizam com a cidade velha de Praga, mas sem praticamente nenhuma multidao de turistas. O parque Bezrucovy sady e um espaco verde plano de 10 ha que aceita caes a trela, os elétricos aceitam caes a trela gratuitamente, e a populacao universitaria da cidade significa esplanadas animadas que toleram universalmente os caes. Preco medio do hotel a 60% de Praga por qualidade equivalente.`,
     whyDe: `Olomouc ist die zweitgrößte historische Stadt Tschechiens und besitzt eine UNESCO-gelistete Dreifaltigkeitssäule sowie 6 barocke Brunnen, die es mit der Prager Altstadt aufnehmen können, allerdings nahezu ohne Touristenmassen. Der Park Bezrucovy sady ist eine flache, 10 Hektar große Grünfläche mit Leinenpflicht, Straßenbahnen nehmen Hunde an der Leine kostenlos mit, und die Universitätsstadt sorgt für lebendige Terrassen, die durchweg hundefreundlich sind. Der durchschnittliche Hotelpreis liegt bei 60 % des Prager Niveaus bei vergleichbarer Qualität.`,
+    whyNl: `Olomouc is de op een na grootste historische stad van Tsjechie en heeft een UNESCO-gelijste Drievuldigheidszuil en 6 barokke fonteinen die het opnemen tegen de oude binnenstad van Praag, maar dan vrijwel zonder toeristendrukte. Het park Bezrucovy sady is een vlakke, 10 hectare grote groene ruimte waar de hond aangelijnd welkom is, trams nemen aangelijnde honden gratis mee, en de universiteitsstad zorgt voor levendige terrassen die zonder uitzondering hondvriendelijk zijn. De gemiddelde hotelprijs ligt op 60% van Praag bij vergelijkbare kwaliteit.`,
     hotelName: 'Hotel Trinity',
     hotelEn: `Hotel Trinity - boutique 4-star facing the Holy Trinity Column, dogs welcome at modest fee.`,
     hotelFr: `Hotel Trinity - boutique 4 etoiles face a la Colonne de la Sainte-Trinite, chiens acceptes (supplement modere).`,
     hotelEs: `Hotel Trinity - boutique 4 estrellas frente a la Columna de la Santisima Trinidad, perros admitidos (suplemento moderado).`,
     hotelPt: `Hotel Trinity - boutique 4 estrelas em frente a Coluna da Santissima Trindade, caes aceites (taxa moderada).`,
     hotelDe: `Hotel Trinity - Boutique-4-Sterne-Hotel gegenüber der Dreifaltigkeitssäule, Hunde willkommen (moderate Gebühr).`,
+    hotelNl: `Hotel Trinity - boutique 4-sterren hotel tegenover de Drievuldigheidszuil, honden welkom tegen een gematigd toeslag.`,
   },
   {
     slug: 'sifnos',
@@ -157,12 +168,14 @@ const PICKS: Pick[] = [
     whyEs: `Sifnos es una isla de las Cicladas a 3h en ferri de Atenas (Pireo) que tiene la misma arquitectura de cubos blancos y vistas del Egeo que Santorini pero recibe una infima fraccion de sus 3 millones de visitantes anuales. La isla es famosa por su gastronomia (lugar de nacimiento del gran chef griego Nikolaos Tselementes), tiene caminos llanos entre pueblos, y la mayoria de las tabernas permiten un perro con correa en la terraza. Los perros pueden embarcar en los ferris Blue Star y Seajets en un transportin (menos de 6kg en cabina, perros mas grandes en cubierta).`,
     whyPt: `Sifnos e uma ilha das Ciclades a 3h de ferry de Atenas (Pireu) que tem a mesma arquitetura de cubos brancos e vistas do Mar Egeu que Santorini mas recebe uma fracao infima dos seus 3 milhoes de visitantes anuais. A ilha e famosa pela sua gastronomia (terra natal do grande chef grego Nikolaos Tselementes), tem caminhos planos entre aldeias, e a maioria das tabernas permite um cao a trela na esplanada. Os caes podem embarcar nos ferries Blue Star e Seajets num transportador (abaixo de 6kg em cabine, caes maiores no convés).`,
     whyDe: `Sifnos ist eine Kykladeninsel, 3 Stunden mit der Fähre von Athen (Piräus) entfernt, mit derselben weiß getünchten Würfelarchitektur und denselben Ägäisblicken wie Santorin, empfängt aber nur einen winzigen Bruchteil von dessen 3 Millionen jährlichen Besuchern. Die Insel ist berühmt für ihre Küche (Geburtsort des großen griechischen Chefkochs Nikolaos Tselementes), hat flache Wanderwege zwischen den Dörfern, und die meisten Tavernen erlauben einen Hund an der Leine am Außentisch. Hunde dürfen in einer Transportbox an Bord der Fähren von Blue Star und Seajets (unter 6 kg in der Kabine, größere Hunde an Deck).`,
+    whyNl: `Sifnos is een Cycladisch eiland op 3 uur varen van Athene (Piraeus), met dezelfde witgekalkte kubusarchitectuur en Egeische uitzichten als Santorini, maar krijgt slechts een piepklein deel van diens 3 miljoen jaarlijkse bezoekers. Het eiland is beroemd om zijn keuken (geboorteplaats van de grote Griekse chef-kok Nikolaos Tselementes), heeft vlakke wandelpaden tussen de dorpen, en de meeste taverna's staan een aangelijnde hond aan een buitentafel toe. Honden mogen in een bench aan boord van de Blue Star- en Seajets-veerboten (onder 6 kg in de cabine, grotere honden op het dek).`,
     hotelName: 'Petali Village Hotel',
     hotelEn: `Petali Village Hotel in Apollonia - traditional village hotel, dogs accepted in certain rooms on request.`,
     hotelFr: `Petali Village Hotel a Apollonia - hotel de village traditionnel, chiens acceptes dans certaines chambres sur demande.`,
     hotelEs: `Petali Village Hotel en Apollonia - hotel de pueblo tradicional, perros admitidos en ciertas habitaciones a peticion.`,
     hotelPt: `Petali Village Hotel em Apollonia - hotel de aldeia tradicional, caes aceites em certos quartos a pedido.`,
     hotelDe: `Petali Village Hotel in Apollonia - traditionelles Dorfhotel, Hunde auf Anfrage in bestimmten Zimmern erlaubt.`,
+    hotelNl: `Petali Village Hotel in Apollonia - traditioneel dorpshotel, honden op aanvraag toegestaan in bepaalde kamers.`,
   },
   {
     slug: 'sibiu',
@@ -176,12 +189,14 @@ const PICKS: Pick[] = [
     whyEs: `Sibiu es la ciudad sajona mas bella de Transilvania y una antigua Capital Europea de la Cultura que sigue siendo genuinamente asequible y sin masificacion en comparacion con Budapest. Las tres plazas centrales estan conectadas por escaleras y pasajes medievales totalmente transitables con un perro con correa, el Museo al Aire Libre Astra a 3km al sur es un parque de 96 ha que acepta perros con correa, y la escena culinaria de la ciudad permite perros en terrazas en todas partes. Los precios son aproximadamente el 50% de Budapest para alojamiento equivalente.`,
     whyPt: `Sibiu e a mais bela cidade saxonica da Transilvania e uma antiga Capital Europeia da Cultura que continua genuinamente acessivel e sem multidoes em comparacao com Budapeste. As tres pracas centrais estao ligadas por escadas e passagens medievais totalmente percorriveis com um cao a trela, o Museu ao Ar Livre Astra a 3km a sul e um parque de 96 ha que aceita caes a trela, e a cena culinaria da cidade permite caes em esplanadas em todo o lado. Os precos sao aproximadamente 50% de Budapeste para alojamento equivalente.`,
     whyDe: `Sibiu ist die schönste sächsische Stadt Siebenbürgens und ehemalige Kulturhauptstadt Europas, die im Vergleich zu Budapest wirklich erschwinglich und frei von Menschenmassen geblieben ist. Die drei zentralen Plätze sind durch mittelalterliche Treppen und Gassen verbunden, die mit einem Hund an der Leine vollständig begehbar sind, das Freilichtmuseum Astra 3 km südlich ist ein 96 Hektar großer Park mit Leinenpflicht für Hunde, und die kulinarische Szene der Stadt erlaubt Hunde überall auf den Terrassen. Die Preise liegen bei etwa 50 % von Budapest für vergleichbare Unterkünfte.`,
+    whyNl: `Sibiu is de mooiste Saksische stad van Transsylvanie en voormalig Culturele Hoofdstad van Europa, die in vergelijking met Boedapest echt betaalbaar en zonder drukte is gebleven. De drie centrale pleinen zijn met elkaar verbonden door middeleeuwse trappen en steegjes die volledig begaanbaar zijn met een hond aan de lijn, het openluchtmuseum Astra 3 km zuidelijk is een 96 hectare groot park waar honden aangelijnd welkom zijn, en de culinaire scene van de stad staat honden overal op de terrassen toe. De prijzen liggen op ongeveer 50% van Boedapest voor vergelijkbare accommodatie.`,
     hotelName: 'Hotel Imparatul Romanilor',
     hotelEn: `Hotel Imparatul Romanilor - 4-star historic grand hotel on the main square, dogs welcome at modest fee.`,
     hotelFr: `Hotel Imparatul Romanilor - grand hotel historique 4 etoiles sur la place principale, chiens acceptes (supplement modere).`,
     hotelEs: `Hotel Imparatul Romanilor - gran hotel historico de 4 estrellas en la plaza principal, perros admitidos (suplemento moderado).`,
     hotelPt: `Hotel Imparatul Romanilor - grande hotel historico de 4 estrelas na praca principal, caes aceites (taxa moderada).`,
     hotelDe: `Hotel Imparatul Romanilor - historisches 4-Sterne-Grandhotel am Hauptplatz, Hunde willkommen (moderate Gebühr).`,
+    hotelNl: `Hotel Imparatul Romanilor - historisch 4-sterren grandhotel aan het hoofdplein, honden welkom tegen een gematigd toeslag.`,
   },
   {
     slug: 'orvieto',
@@ -195,12 +210,14 @@ const PICKS: Pick[] = [
     whyEs: `Orvieto se asienta sobre una meseta de toba volcanica a 90 min en tren directo desde Roma (10 EUR) y su catedral gotica es considerada una de las mejores de Italia. La ciudad encaramada en el acantilado es totalmente peatonal, recibe una fraccion de los 15 millones de visitantes anuales de Roma, y puede recorrerse en medio dia con un perro con correa por el centro storico empedrado. Las colinas umbras circundantes estan sembradas de caminos de fincas vinicolas abiertos a los perros.`,
     whyPt: `Orvieto assenta num planalto de tufo vulcânico a 90 min de comboio direto de Roma (10 EUR) e a sua catedral gotica e considerada uma das mais belas de Italia. A cidade no topo do rochedo e totalmente pedestre, recebe uma fracao dos 15 milhoes de visitantes anuais de Roma, e pode ser percorrida em meio dia com um cao a trela no centro storico pavimentado. As colinas umbrinas circundantes estao repletas de caminhos de quintas vinicolas abertos a caes.`,
     whyDe: `Orvieto liegt auf einem vulkanischen Tuffplateau, 90 Minuten mit dem Direktzug von Rom entfernt (10 EUR), und seine gotische Kathedrale gilt als eine der schönsten Italiens. Die Stadt auf dem Felsplateau ist vollständig autofrei, empfängt nur einen Bruchteil der 15 Millionen jährlichen Besucher Roms und lässt sich in einem halben Tag mit einem Hund an der Leine im gepflasterten Centro Storico erkunden. Die umliegenden umbrischen Hügel sind von Weingutspfaden durchzogen, die für Hunde offen sind. Für kurzköpfige (brachyzephale) Rassen eignet sich der Tagesausflug von Rom besonders gut: vor 10 Uhr ankommen, vor 14 Uhr wieder abreisen, um die Mittagshitze zu vermeiden.`,
+    whyNl: `Orvieto ligt op een vulkanisch tufsteenplateau, 90 minuten met de directe trein van Rome (10 EUR), en de gotische kathedraal wordt beschouwd als een van de mooiste van Italie. Het stadje op de rotstop is volledig autovrij, krijgt slechts een fractie van Rome's 15 miljoen jaarlijkse bezoekers, en is in een halve dag te belopen met een aangelijnde hond op het geplaveide centro storico. De omliggende Umbrische heuvels zijn doorkruist met paden langs wijngoederen die open zijn voor honden. Een dagtrip vanuit Rome is ideaal voor platneuzige rassen: kom er voor 10u aan, vertrek voor 14u om de middaghitte te vermijden.`,
     hotelName: 'Hotel Maitani',
     hotelEn: `Hotel Maitani - 3-star facing the cathedral, dogs accepted at modest fee.`,
     hotelFr: `Hotel Maitani - 3 etoiles face a la cathedrale, chiens acceptes (supplement modere).`,
     hotelEs: `Hotel Maitani - 3 estrellas frente a la catedral, perros admitidos (suplemento moderado).`,
     hotelPt: `Hotel Maitani - 3 estrelas em frente a catedral, caes aceites (taxa moderada).`,
     hotelDe: `Hotel Maitani - 3-Sterne-Hotel gegenüber der Kathedrale, Hunde willkommen (moderate Gebühr).`,
+    hotelNl: `Hotel Maitani - 3-sterren hotel tegenover de kathedraal, honden welkom tegen een gematigd toeslag.`,
   },
   {
     slug: 'provins',
@@ -214,12 +231,14 @@ const PICKS: Pick[] = [
     whyEs: `Provins esta a 1h15 de Paris Gare de l'Est en tren (14 EUR) y es una de las ciudades medievales mejor conservadas de Francia (Patrimonio UNESCO) con una ciudad alta fortificada del siglo XII, murallas transitables con un perro con correa, y el famoso Jardin des Roses (mas de 2000 variedades, abierto junio-sept, perros con correa bienvenidos en los caminos). Recibe excursionistas pero se vacia completamente a las 17h. Los fines de semana de verano, espectaculos medievales tienen lugar en la Grange aux Dimes con perros tolerados fuera del perimetro del espectaculo.`,
     whyPt: `Provins fica a 1h15 de Paris Gare de l'Est de comboio (14 EUR) e e uma das melhores cidades medievais conservadas de Franca (classificada pela UNESCO) com uma alta cidade fortificada do seculo XII, muralhas percorriveis com um cao a trela, e o famoso Jardin des Roses (mais de 2000 variedades, aberto junho-set, caes a trela bem-vindos nos caminhos). Recebe excursionistas mas fica completamente vazia apos as 17h. Nos fins de semana de verao, espetaculos medievais decorrem na Grange aux Dimes com caes tolerados fora do perimetro do espetaculo.`,
     whyDe: `Provins liegt 1 Stunde 15 Minuten vom Pariser Bahnhof Gare de l'Est entfernt (14 EUR) und ist eine der am besten erhaltenen mittelalterlichen Städte Frankreichs (UNESCO-Welterbe) mit einer befestigten Oberstadt aus dem 12. Jahrhundert, Stadtmauern, die mit einem Hund an der Leine begehbar sind, und dem berühmten Jardin des Roses (über 2000 Sorten, geöffnet von Juni bis September, Hunde an der Leine auf den Wegen willkommen). Die Stadt empfängt Tagesausflügler, leert sich aber bis 17 Uhr vollständig. An Sommerwochenenden finden mittelalterliche Schauspiele in der Grange aux Dîmes statt, wobei Hunde außerhalb des Vorführbereichs geduldet werden.`,
+    whyNl: `Provins ligt 1u15 van Parijs Gare de l'Est met de trein (14 EUR) en is een van de best bewaarde middeleeuwse steden van Frankrijk (UNESCO-werelderfgoed), met een versterkte bovenstad uit de 12e eeuw, stadswallen te belopen met een aangelijnde hond, en de beroemde Jardin des Roses (2000+ variëteiten, open juni-sept, aangelijnde honden welkom op de paden). De stad krijgt dagjesmensen, maar loopt tegen 17u volledig leeg. In de zomerweekenden vinden middeleeuwse voorstellingen plaats in de Grange aux Dimes, waarbij honden buiten de voorstellingsperimeter getolereerd worden.`,
     hotelName: 'Hotel de Provins',
     hotelEn: `Hotel de Provins - 3-star just below the ramparts, dogs welcome, private parking.`,
     hotelFr: `Hotel de Provins - 3 etoiles juste sous les remparts, chiens acceptes, parking prive.`,
     hotelEs: `Hotel de Provins - 3 estrellas justo bajo las murallas, perros admitidos, aparcamiento privado.`,
     hotelPt: `Hotel de Provins - 3 estrelas mesmo abaixo das muralhas, caes aceites, estacionamento privado.`,
     hotelDe: `Hotel de Provins - 3-Sterne-Hotel direkt unterhalb der Stadtmauern, Hunde willkommen, privater Parkplatz.`,
+    hotelNl: `Hotel de Provins - 3-sterren hotel net onder de stadswallen, honden welkom, privé parkeerplaats.`,
   },
   {
     slug: 'bad-ischl',
@@ -233,12 +252,14 @@ const PICKS: Pick[] = [
     whyEs: `Bad Ischl es la antigua residencia imperial de verano de Francisco Jose I, a 1h de Salzburgo en tren regional (12 EUR), y fue nombrada Capital Europea de la Cultura 2024. El parque de la Kaiservilla permite perros con correa en el perimetro de los terrenos, el paseo del rio Traun es llano y completamente accesible para perros, y la region de lagos del Salzkammergut comienza directamente desde la ciudad. La masificacion es una fraccion de la de Salzburgo incluso en pleno verano.`,
     whyPt: `Bad Ischl e a antiga residencia imperial de verao de Francisco Jose I, a 1h de Salzburgo de comboio regional (12 EUR), e foi nomeada Capital Europeia da Cultura 2024. O parque da Kaiservilla permite caes a trela no perimetro dos terrenos, o passeio pelo rio Traun e plano e completamente acessivel a caes, e a regiao dos lagos do Salzkammergut comeca diretamente da cidade. As multidoes sao uma fracao das de Salzburgo mesmo no pico do verao.`,
     whyDe: `Bad Ischl war die ehemalige kaiserliche Sommerresidenz von Franz Joseph I., liegt 1 Stunde von Salzburg mit der Regionalbahn entfernt (12 EUR) und wurde 2024 zur Kulturhauptstadt Europas ernannt. Der Park der Kaiservilla erlaubt Hunde an der Leine am Rand des Geländes, der Spaziergang entlang der Traun ist flach und vollständig hundefreundlich zugänglich, und die Seenregion Salzkammergut beginnt direkt an der Stadt. Die Besuchermassen sind selbst in der Hochsaison nur ein Bruchteil derer in Salzburg.`,
+    whyNl: `Bad Ischl was de voormalige keizerlijke zomerresidentie van Frans Jozef I, ligt 1 uur van Salzburg met de streektrein (12 EUR) en werd in 2024 uitgeroepen tot Culturele Hoofdstad van Europa. Het park van de Kaiservilla staat aangelijnde honden toe op de rand van het terrein, de wandeling langs de Traun is vlak en volledig toegankelijk voor honden, en de Salzkammergut-merenregio begint direct vanaf de stad. De drukte is zelfs in het hoogseizoen slechts een fractie van die in Salzburg.`,
     hotelName: 'Hotel Austria Bad Ischl',
     hotelEn: `Hotel Austria Bad Ischl - traditional 4-star on the Esplanade, dogs welcome at modest fee.`,
     hotelFr: `Hotel Austria Bad Ischl - 4 etoiles traditionnel sur l'Esplanade, chiens acceptes (supplement modere).`,
     hotelEs: `Hotel Austria Bad Ischl - 4 estrellas tradicional en el Esplanade, perros admitidos (suplemento moderado).`,
     hotelPt: `Hotel Austria Bad Ischl - 4 estrelas tradicional na Esplanade, caes aceites (taxa moderada).`,
     hotelDe: `Hotel Austria Bad Ischl - traditionelles 4-Sterne-Hotel an der Esplanade, Hunde willkommen (moderate Gebühr).`,
+    hotelNl: `Hotel Austria Bad Ischl - traditioneel 4-sterren hotel aan de Esplanade, honden welkom tegen een gematigd toeslag.`,
   },
 ]
 
@@ -378,6 +399,33 @@ const COPY = {
     ],
     relatedHeading: 'Siehe auch',
   },
+  nl: {
+    eyebrow: 'ANTI-OVERTOURISM 2026 · REIZEN MET HOND',
+    title: `Hondvriendelijke alternatieven voor Europa's drukste steden: 8 rustigere keuzes (2026)`,
+    intro: `Protesten in Barcelona, toeristenpoortjes in Venetie, bezoekerslimieten in Santorini: de anti-overtourismbeweging van 2026 dwingt reizigers om de grote iconen te heroverwegen. Hondenbaasjes hebben hier eigenlijk een verborgen voordeel: honden zijn toch al verboden bij veel overvolle iconische plekken (Alhambra, Colosseum, Akropolis), dus je verliest niets door ze over te slaan. Kleinere en minder bezochte steden hebben ondertussen bijna altijd meer hondvriendelijke cafés, rustigere straten en lagere huisdiertoeslagen. Deze gids kiest 8 rustigere Europese alternatieven die hun beroemde tegenhangers evenaren of overtreffen, voor elk hondenbaasje dat de drukte zat is.`,
+    pickHeading: '8 rustigere alternatieven (met evenveel charme)',
+    whyHere: 'Waarom hier',
+    hotelLabel: 'Waar je kunt overnachten',
+    seeDestCta: 'Volledige stadsgids →',
+    hotelCta: 'Bekijk beschikbaarheid →',
+    summerLabel: 'Gem. zomermax',
+    insteadOfLabel: 'In plaats van',
+    practicalHeading: 'Praktische gids voor anti-overtourismreizen met hond',
+    practical: [
+      { h: 'Waarom overtourism met een hond eigenlijk erger is', p: `De iconische plekken die de grootste drukte trekken (Sagrada Familia, Colosseum, Alhambra, Akropolis) verbieden allemaal honden op hun terrein. Dat betekent dat je al urenlang in de rij staat om vervolgens je hond bij een vreemde of alleen in een hete auto achter te laten. Trottoirs in toeristisch overvolle gebieden zitten propvol met kinderwagens en bagagekarretjes, zonder ruimte voor een hond. Het hitte-eilandeffect in dichte toeristenzones duwt de asfalttemperaturen 5-8°C boven het stadsgemiddelde, wat een reëel risico is voor de voetzolen. Rustigere alternatieven halen al deze frictiepunten in één keer weg.` },
+      { h: 'Treinverbindingen naar alle 8 keuzes', p: `Girona: Barcelona Sants naar Girona met Rodalies of streektrein, 1u, 12 EUR. Treviso: Venetie Santa Lucia naar Treviso Centrale, 30 min, 4,50 EUR. Olomouc: Praag naar Olomouc met RegioJet of CD, 2u10, 9-15 EUR. Sifnos: haven Piraeus in Athene met Blue Star of Seajets veerboot, 3u snelle veerboot of 5u conventioneel. Sibiu: Boekarest naar Sibiu met CFR, 3u40 direct. Orvieto: Rome Termini naar Orvieto met Trenitalia, 1u15, 10 EUR. Provins: Parijs Gare de l'Est met Transilien P, 1u15, 14 EUR retour. Bad Ischl: Salzburg naar Bad Ischl met ÖBB streektrein, 1u10, 12 EUR.` },
+      { h: 'Hoe vind je hondvriendelijke terrassen in minder toeristische steden', p: `In overtoeristische steden heeft het terraspersoneel vaak te veel haast om een hond goed te verwelkomen, en sommige restaurants hebben ze ronduit verboden om de doorstroming te beheren. In kleinere steden met lokale klandizie zijn hondvriendelijke terrassen eerder de norm dan de uitzondering. Praktische tips: kijk in Google Maps-reviews naar "honden welkom" of "animaux acceptes", kom voor de lokale lunchdrukte (12u-12u30), kies schaduwrijke terrassen waar je hond onder de stoel kan gaan liggen, en vermijd terrassen naast souvenirmarktkraampjes met constante voetgangersdrukte.` },
+      { h: 'De overtourismkalender: wanneer reizen', p: `De piekdrukte in Barcelona, Venetie, Santorini, Rome, Parijs, Boedapest en Salzburg loopt van half juni tot eind augustus, met 14 juli tot 15 augustus als drukste periode. Alle 8 alternatieven in deze gids zijn in datzelfde tijdvenster aanzienlijk rustiger, en dramatisch rustiger in mei-juni en september, wanneer de temperaturen ook aangenamer zijn voor een hond. Als je flexibel bent, is september in Girona, Treviso of Sibiu wellicht het beste moment: 22-25°C, lege straten bij aankomst, en lokale oogstfeesten die vrijwel altijd hond-op-het-terras-aangelegenheden zijn.` },
+    ],
+    faqHeading: 'Veelgestelde vragen',
+    faqs: [
+      { q: 'Zijn deze alternatieven echt vergelijkbaar met de beroemde steden?', a: `Voor een hondenbaasje specifiek zijn er meerdere zelfs beter dan hun beroemde tegenhanger, niet alleen vergelijkbaar. Treviso heeft dezelfde sfeer van kanalen en middeleeuwse gevels als Venetie, maar zonder de brugtreden die voor grote honden echt lastig zijn, zonder de toeristische verkeersopstoppingen, en met vlakke rivierwandelingen die je in Venetie's eilandindeling niet vindt. De gotische wijk van Girona en de oevers van de Onyar zijn architectonisch op hetzelfde niveau als de Barri Gotic van Barcelona, maar je kunt je hond er daadwerkelijk rustig uitlaten. De barokke fonteinen van Olomouc zijn objectief prachtig en de stad is doordeweeks zo rustig dat je het gevoel hebt dat je hem voor jezelf hebt.` },
+      { q: 'Wat is er met honden in Venetie? Zijn ze toegestaan?', a: `Honden zijn in Venetie technisch aan de lijn toegestaan in de meeste openbare ruimtes, maar de praktische realiteit is echt lastig. De gladde stenen bruggen van de stad (meer dan 400) hebben geen grip en kunnen glad zijn voor grote of oudere honden. In het hoogseizoen is de toeristendichtheid op de hoofdroutes zo groot dat je je hond feitelijk door een menigte navigeert, wat stressvol is voor het dier. De vaporetti (waterbussen) nemen kleine honden in een bench mee tegen gereduceerd tarief, maar grote honden moeten wachten op een watertaxi tegen een aanzienlijk hogere prijs. Treviso geeft je dezelfde Venetiaanse esthetische ervaring, minus al deze frictiepunten.` },
+      { q: 'Is Sifnos bereikbaar zonder vliegtuig?', a: `Ja, volledig over land en zee. Vanuit het grootste deel van West-Europa is de route: rijden of treinen naar Athene (of vliegen naar Athene), dan taxi of metro naar de haven van Piraeus, dan Blue Star Ferries of Seajets naar Sifnos. De snelle Seajets-catamaran maakt de oversteek in minder dan 3 uur. Er is ook een conventionele nachtveerboot die om 23u uit Piraeus vertrekt en om 5u aankomt, wat goed werkt voor honden omdat de oversteek tijdens de slaapuren plaatsvindt. Neem een mat en water mee voor de reis op het dek als je hond meer dan 6 kg weegt.` },
+      { q: 'Welke van de 8 is het meest onderschat?', a: `Olomouc, zonder twijfel. Het is voor de meeste West-Europeanen echt onbekend, ondanks een UNESCO-monument, zes barokke fonteinen, een levendige universiteitsstadsfeer, een overdekte voedselmarkt en hotelprijzen die 60% onder Praag liggen. De Tsjechische spoorverbindingen maken de stad bereikbaar vanuit Wenen in 2u40 of vanuit Praag in 2u10. De hondencultuur er is ontspannen: aangelijnde honden reizen gratis mee met de tram, de meeste terrasrestaurants verwelkomen ze, en het park Bezrucovy sady is een echte groene ruimte in het stadscentrum. Als je al drie keer in Praag bent geweest en het te druk vindt, is Olomouc de voor de hand liggende volgende keuze.` },
+    ],
+    relatedHeading: 'Zie ook',
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -427,6 +475,7 @@ export default async function Page({
     if (locale === 'es') return p.whyEs
     if (locale === 'pt') return p.whyPt
     if (locale === 'de') return p.whyDe ?? p.whyEn
+    if (locale === 'nl') return p.whyNl ?? p.whyEn
     return p.whyEn
   }
   const pickHotel = (p: Pick) => {
@@ -434,6 +483,7 @@ export default async function Page({
     if (locale === 'es') return p.hotelEs
     if (locale === 'pt') return p.hotelPt
     if (locale === 'de') return p.hotelDe ?? p.hotelEn
+    if (locale === 'nl') return p.hotelNl ?? p.hotelEn
     return p.hotelEn
   }
 

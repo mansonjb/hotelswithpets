@@ -19,6 +19,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   es: { label: 'Hoteles del road trip por Provenza con perro', cta: 'Ver hoteles' },
   pt: { label: 'Hotéis do road trip pela Provença com cão', cta: 'Ver hotéis' },
   de: { label: 'Hotels für den Provence-Roadtrip mit Hund', cta: 'Hotels ansehen' },
+  nl: { label: 'Hotels voor de hondvriendelijke roadtrip door de Provence', cta: 'Bekijk hotels' },
 }
 
 export async function generateStaticParams() {
@@ -39,6 +40,7 @@ export async function generateMetadata({
     es: `Road trip pet-friendly por Provenza en 5 días: Aviñón, Arlés, Aix-en-Provence y Marsella (2026)`,
     pt: `Road trip pet-friendly pela Provença em 5 dias: Avinhão, Arles, Aix-en-Provence e Marselha (2026)`,
     de: `Hundefreundlicher 5-Tage-Roadtrip durch die Provence: Avignon, Arles, Aix-en-Provence & Marseille (2026)`,
+    nl: `Hondvriendelijke 5-daagse roadtrip door de Provence: Avignon, Arles, Aix-en-Provence & Marseille (2026)`,
   }
 
   const descriptions: Record<string, string> = {
@@ -47,6 +49,7 @@ export async function generateMetadata({
     es: `Un road trip de 5 días por Provenza con perro: Aviñón y el Palacio de los Papas, Arlés y su arena romana y la Camarga, Aix-en-Provence y la Sainte-Victoire, Marsella y las Calanques. Mapa, itinerario día a día, hoteles pet-friendly verificados.`,
     pt: `Um road trip de 5 dias pela Provença com cão: Avinhão e o Palácio dos Papas, Arles e a sua arena romana e a Camarga, Aix-en-Provence e a Sainte-Victoire, Marselha e as Calanques. Mapa, itinerário dia a dia, hotéis pet-friendly verificados.`,
     de: `Ein hundefreundlicher 5-Tage-Roadtrip durch die Provence: Avignons Papstpalast, Arles' römische Arena und die Camargue, Aix-en-Provence mit der Sainte-Victoire, Marseilles Calanques. Karte, Tag-für-Tag-Reiseplan, geprüfte haustierfreundliche Hotels.`,
+    nl: `Een 5-daagse huisdiervriendelijke roadtrip door de Provence: het Palais des Papes in Avignon, de Romeinse arena en de Camargue bij Arles, de Sainte-Victoire bij Aix-en-Provence, de Calanques van Marseille. Kaart, dagindeling, geverifieerde huisdiervriendelijke hotels.`,
   }
 
   const today = new Date().toISOString().split('T')[0]
@@ -83,18 +86,20 @@ type Stop = {
   slug: string
   name: string
   nights: number
-  drive: { fr: string; en: string; es: string; pt: string; de: string }
+  drive: { fr: string; en: string; es: string; pt: string; de: string; nl: string }
   whyEn: string
   whyFr: string
   whyEs: string
   whyPt: string
   whyDe: string
+  whyNl: string
   highlightsEn: string[]
   highlightsFr: string[]
   highlightsEs: string[]
   highlightsPt: string[]
   highlightsDe: string[]
-  hotels: { name: string; pitchEn: string; pitchFr: string; pitchEs: string; pitchPt: string; pitchDe: string }[]
+  highlightsNl: string[]
+  hotels: { name: string; pitchEn: string; pitchFr: string; pitchEs: string; pitchPt: string; pitchDe: string; pitchNl: string }[]
   hasDestPage?: boolean
 }
 
@@ -109,12 +114,14 @@ const STOPS: Stop[] = [
       es: `Llegada - TGV desde París (2h40) a 5 min andando de las murallas. En coche: salida A7 Avignon Nord, Parking des Italiens (lanzadera gratuita).`,
       pt: `Chegada - TGV desde Paris (2h40) a 5 min a pé das muralhas. De carro: saída A7 Avignon Nord, Parking des Italiens (transfer gratuito).`,
       de: `Ankunft - der TGV aus Paris (2h40) hält 5 Gehminuten von der Stadtmauer entfernt. Mit dem Auto: Ausfahrt A7 Avignon Nord, Parkplatz Parking des Italiens (kostenloser Shuttle).`,
+      nl: `Aankomst, de TGV vanuit Parijs (2u40) stopt op 5 minuten lopen van de stadsmuren. Met de auto: afrit A7 Avignon Nord, Parking des Italiens (gratis pendelbus).`,
     },
     whyEn: `Avignon is the gateway: 14th-century city walls you can circle with a leashed dog (4 km, flat), the Palais des Papes exterior plaza welcomes leashed pets (interior is no but the size of the square works for photos), and the half-bridge of the famous song heads onto the Rhône island where the local off-leash zone hides.`,
     whyFr: `Avignon, c'est la porte d'entrée : remparts médiévaux du XIVᵉ siècle longeables avec son chien en laisse (4 km plats), le parvis du Palais des Papes accueille les chiens (l'intérieur non mais la taille de la place suffit pour les photos), et le demi-pont de la chanson mène à l'île du Rhône où se cache la zone sans laisse locale.`,
     whyEs: `Avignon es la puerta de entrada: murallas medievales del siglo XIV bordeables con perro con correa (4 km llanos), la plaza del Palacio de los Papas admite perros (el interior no pero la plaza basta para fotos), y el medio puente de la canción lleva a la isla del Ródano donde se esconde la zona sin correa local.`,
     whyPt: `Avignon é a porta de entrada: muralhas medievais do século XIV percorríveis com cão à trela (4 km planos), o adro do Palácio dos Papas aceita cães (o interior não mas o tamanho da praça chega para fotos), e a meia-ponte da canção leva à ilha do Ródano onde se esconde a zona sem trela local.`,
     whyDe: `Avignon ist das Eingangstor: eine Stadtmauer aus dem 14. Jahrhundert, die Sie mit angeleintem Hund flach umrunden können (4 km), der Vorplatz des Papstpalasts heißt angeleinte Hunde willkommen (das Innere nicht, aber die Größe des Platzes reicht für Fotos), und die Brückenhälfte des berühmten Liedes führt zur Rhône-Insel, wo sich die örtliche Freilaufzone versteckt.`,
+    whyNl: `Avignon is de poort naar het zuiden: 14e-eeuwse stadsmuren die je met je hond aan de lijn kunt omlopen (4 km, vlak), het plein voor het Palais des Papes verwelkomt aangelijnde honden (binnen mag niet, maar het plein is groot genoeg voor foto's), en de halve brug uit het beroemde liedje leidt naar het Rhône-eiland waar de lokale loslaatzone verstopt zit.`,
     highlightsEn: [
       `Remparts d'Avignon: 4 km of medieval walls, flat circuit with leashed dog`,
       `Place du Palais des Papes: exterior plaza dog-friendly`,
@@ -126,6 +133,12 @@ const STOPS: Stop[] = [
       `Place du Palais des Papes: Vorplatz hundefreundlich`,
       `Île de la Barthelasse: größte Flussinsel Frankreichs, Freilaufzonen`,
       `Terrassen am Cours Jean-Jaurès: hundetolerant für den Abend-Apéro`,
+    ],
+    highlightsNl: [
+      `Remparts d'Avignon: 4 km middeleeuwse muren, vlak parcours met aangelijnde hond`,
+      `Place du Palais des Papes: buitenplein hondvriendelijk`,
+      `Île de la Barthelasse: grootste rivierseiland van Frankrijk, loslaatzones`,
+      `Terrasjes aan de Cours Jean-Jaurès: hondvriendelijk voor de avondborrel`,
     ],
     highlightsFr: [
       `Remparts d'Avignon : 4 km médiévaux, circuit plat chien en laisse`,
@@ -153,6 +166,7 @@ const STOPS: Stop[] = [
         pitchEs: `Palacio 5 estrellas escondido tras el Palacio de los Papas. Perros admitidos en suites pequeñas con aviso previo, el patio interior y el jardín tapiado son territorio canino tranquilo, desayuno servido en un salón que admite perros con correa.`,
         pitchPt: `Palace 5 estrelas escondido atrás do Palácio dos Papas. Cães aceites em suítes menores com aviso prévio, o pátio interior e o jardim murado são terreno calmo, pequeno-almoço servido em sala que aceita cães à trela.`,
         pitchDe: `5-Sterne-Palast hinter dem Papstpalast versteckt. Hunde in den kleineren Suiten nach vorheriger Anmeldung willkommen, der Innenhof und der ummauerte Garten sind ruhiges Hundegebiet, Frühstück wird in einem Salon serviert, der angeleinte Hunde zulässt.`,
+        pitchNl: `5-sterrenpaleis verscholen achter het Palais des Papes. Honden welkom in de kleinere suites na vooraf overleg, de binnenplaats en de ommuurde tuin zijn rustig hondengebied, ontbijt geserveerd in een salon waar aangelijnde honden welkom zijn.`,
       },
       {
         name: 'Avignon Grand Hotel',
@@ -161,6 +175,7 @@ const STOPS: Stop[] = [
         pitchEs: `4 estrellas frente a la estación TGV con parking privado cubierto. Perros hasta 10 kg admitidos (suplemento modesto), 10 min andando a la ciudad amurallada, piscina interior y habitaciones tranquilas con patio.`,
         pitchPt: `4 estrelas em frente à estação TGV com parking privado coberto. Cães até 10 kg aceites (taxa modesta), 10 min a pé da cidade muralhada, piscina interior e quartos calmos com pátio.`,
         pitchDe: `4-Sterne-Hotel gegenüber dem TGV-Bahnhof mit überdachtem Privatparkplatz. Hunde bis 10 kg gegen geringen Aufpreis willkommen, 10 Gehminuten in die ummauerte Altstadt, Innenpool und ruhige Zimmer zum Innenhof.`,
+        pitchNl: `4-sterrenhotel tegenover het TGV-station met overdekte privéparkeerplaats. Honden tot 10 kg welkom tegen een bescheiden toeslag, 10 minuten lopen naar de ommuurde binnenstad, binnenzwembad en rustige kamers boven de binnenplaats.`,
       },
     ],
     hasDestPage: true,
@@ -175,12 +190,14 @@ const STOPS: Stop[] = [
       es: `Aviñón a Arlés: 38 km, ~40 min por A7/N113. Dos noches es la duración justa: Camarga media jornada, Arlés romana media jornada, posible excursión a Nimes (28 km, 25 min por la A54).`,
       pt: `Avignon a Arles: 38 km, ~40 min pela A7/N113. Duas noites é a duração certa: Camarga meia tarde, Arles romana meia tarde, possível excursão a Nîmes (28 km, 25 min pela A54).`,
       de: `Avignon nach Arles: 38 km, ~40 Min. über die A7/N113. Zwei Nächte sind die richtige Dauer: Camargue an einem halben Tag, das römische Arles an einem halben Tag, optional ein Tagesausflug nach Nîmes (28 km, 25 Min. über die A54).`,
+      nl: `Avignon naar Arles: 38 km, ~40 min via de A7/N113. Twee nachten is de juiste duur: een halve dag Camargue, een halve dag Romeins Arles, optioneel een dagtrip naar Nîmes (28 km, 25 min via de A54).`,
     },
     whyEn: `Arles is the heart of this loop: Roman heritage (the Amphithéâtre, Théâtre Antique, Alyscamps necropolis all walkable with leashed dogs on their parvis), Van Gogh's exact light still painting the Café Terrace square, and 30 km south the Camargue plains where Beauduc beach welcomes off-season dogs against a backdrop of pink flamingos and white horses. Nîmes is a 25-min drive for the third Roman city.`,
     whyFr: `Arles est le cœur de la boucle : patrimoine romain (Amphithéâtre, Théâtre Antique, Alyscamps, tous accessibles aux chiens en laisse sur leurs parvis), la lumière exacte de Van Gogh éclaire toujours la place du Café la Nuit, et à 30 km au sud la Camargue où la plage de Beauduc accueille les chiens hors saison entre flamants roses et chevaux blancs. Nîmes est à 25 min en voiture pour la troisième ville romaine.`,
     whyEs: `Arlés es el corazón del circuito: patrimonio romano (Anfiteatro, Teatro Antiguo, Alyscamps, todos accesibles a perros con correa en sus explanadas), la luz exacta de Van Gogh sigue iluminando la plaza del Café la Nuit, y a 30 km al sur la Camarga donde la playa de Beauduc admite perros fuera de temporada entre flamencos rosas y caballos blancos. Nimes a 25 min en coche para la tercera ciudad romana.`,
     whyPt: `Arles é o coração do circuito: património romano (Anfiteatro, Teatro Antigo, Alyscamps, todos acessíveis a cães à trela nos seus adros), a luz exacta de Van Gogh continua a iluminar a Place du Café la Nuit, e a 30 km a sul a Camarga onde a Praia de Beauduc aceita cães fora de época entre flamingos rosa e cavalos brancos. Nîmes a 25 min de carro para a terceira cidade romana.`,
     whyDe: `Arles ist das Herz dieser Schleife: römisches Erbe (das Amphitheater, das Théâtre Antique und die Nekropole Alyscamps sind alle mit angeleintem Hund auf ihren Vorplätzen begehbar), das exakte Licht Van Goghs bemalt noch immer den Platz mit der Café-Terrasse, und 30 km südlich liegen die Camargue-Ebenen, wo der Strand von Beauduc außerhalb der Saison Hunde vor der Kulisse rosa Flamingos und weißer Pferde willkommen heißt. Nîmes ist 25 Autominuten entfernt, die dritte römische Stadt.`,
+    whyNl: `Arles is het hart van deze lus: Romeins erfgoed (het Amphithéâtre, het Théâtre Antique en de necropolis Alyscamps zijn allemaal met aangelijnde hond te belopen op hun voorpleinen), het exacte licht van Van Gogh beschijnt nog steeds het plein van het Café Terrace, en 30 km zuidelijker liggen de Camargue-vlaktes waar het strand van Beauduc buiten het seizoen honden verwelkomt tegen een decor van roze flamingo's en witte paarden. Nîmes ligt op 25 minuten rijden voor de derde Romeinse stad.`,
     highlightsEn: [
       `Amphithéâtre and Théâtre Antique exteriors (leashed dogs welcome on parvis)`,
       `Alyscamps: 800 m walkable Roman necropolis, dogs on leash`,
@@ -192,6 +209,12 @@ const STOPS: Stop[] = [
       `Alyscamps: 800 m begehbare römische Nekropole, Hund an der Leine`,
       `Camargue-Strand Plage de Beauduc (40 Min. südlich, Hunde außerhalb der Saison Okt-Apr)`,
       `Tagesausflug Nîmes (25 Min. über die A54): Arènes, Maison Carrée, Jardins de la Fontaine`,
+    ],
+    highlightsNl: [
+      `Amphithéâtre en Théâtre Antique buiten: aangelijnde honden welkom op de voorpleinen`,
+      `Alyscamps: 800 m beloopbare Romeinse necropolis, hond aan de lijn`,
+      `Camargue strand Plage de Beauduc (40 min zuidelijk, honden buiten het seizoen okt-apr)`,
+      `Dagtrip Nîmes (25 min via de A54): Arènes, Maison Carrée, Jardins de la Fontaine`,
     ],
     highlightsFr: [
       `Amphithéâtre et Théâtre Antique : chiens en laisse sur les parvis`,
@@ -219,6 +242,7 @@ const STOPS: Stop[] = [
         pitchEs: `Reinvención 5 estrellas por Christian Lacroix de un convento del siglo XVII. Perros admitidos (suplemento modesto), jardín tapiado y piscina, 4 min andando a las Arenas y a la terraza del Café Van Gogh.`,
         pitchPt: `Reinvenção 5 estrelas por Christian Lacroix de um convento do século XVII. Cães aceites (taxa modesta), jardim murado e piscina, 4 min a pé das Arenas e da esplanada do Café Van Gogh.`,
         pitchDe: `5-Sterne-Neuinterpretation eines Klosters aus dem 17. Jahrhundert von Christian Lacroix. Hunde gegen geringen Aufpreis willkommen, ummauerter Garten und Pool, 4 Gehminuten zur Arena und zur Terrasse des Café Van Gogh.`,
+        pitchNl: `5-sterren herinterpretatie door Christian Lacroix van een voormalig 17e-eeuws klooster. Honden welkom tegen een bescheiden toeslag, ommuurde tuin en zwembad, 4 minuten lopen naar de Arènes en het terras van het Café Van Gogh.`,
       },
       {
         name: `Hôtel L'Arlatan`,
@@ -227,6 +251,7 @@ const STOPS: Stop[] = [
         pitchEs: `Boutique 4 estrellas en el hotel del Conde de Arlatan del siglo XV, reinventado por el artista cubano Jorge Pardo. Perros hasta 10 kg admitidos, jardín interior, 2 min andando a la Place du Forum y al Café Van Gogh.`,
         pitchPt: `Boutique 4 estrelas no palácio do Conde de Arlatan do século XV, reimaginado pelo artista cubano Jorge Pardo. Cães até 10 kg aceites, jardim interior, 2 min a pé da Place du Forum e do Café Van Gogh.`,
         pitchDe: `4-Sterne-Boutiquehotel im Palais des Comte d'Arlatan aus dem 15. Jahrhundert, vollständig neu gestaltet vom kubanischen Künstler Jorge Pardo. Hunde bis 10 kg willkommen, Innengarten, 2 Gehminuten zur Place du Forum und zum Café Van Gogh.`,
+        pitchNl: `Boutique 4-sterrenhotel in een 15e-eeuws herenhuis van de graaf van Arlatan, volledig heringericht door de Cubaanse kunstenaar Jorge Pardo. Honden tot 10 kg welkom, binnentuin, 2 minuten lopen naar de Place du Forum en het Café Van Gogh.`,
       },
     ],
     hasDestPage: true,
@@ -241,12 +266,14 @@ const STOPS: Stop[] = [
       es: `Arlés a Aix-en-Provence: 75 km, ~55 min por A54/A7. Aparca en el Parking Rotonde y a pie - todo el centro es peatonal.`,
       pt: `Arles a Aix-en-Provence: 75 km, ~55 min pela A54/A7. Estacione no Parking Rotonde e a pé - todo o centro é pedonal.`,
       de: `Arles nach Aix-en-Provence: 75 km, ~55 Min. über die A54/A7. Parken Sie am Parking Rotonde und gehen Sie zu Fuß weiter - die gesamte Altstadt ist autofrei.`,
+      nl: `Arles naar Aix-en-Provence: 75 km, ~55 min via de A54/A7. Parkeer bij Parking Rotonde en ga te voet verder, het hele centrum is autovrij.`,
     },
     whyEn: `Aix-en-Provence is the cultured pause: 18th-century mansions lining the Cours Mirabeau (where dogs lie under every café table), Cézanne's painted Sainte-Victoire mountain rising 15 km east for a serious dog hike, the weekly market at Place Richelme, and the fountains - the Quatre Dauphins is the urban water-bowl of choice for a thirsty dog.`,
     whyFr: `Aix-en-Provence, c'est la pause culturelle : hôtels particuliers du XVIIIᵉ bordant le Cours Mirabeau (où les chiens dorment sous chaque table de café), la Sainte-Victoire peinte par Cézanne à 15 km à l'est pour une vraie rando canine, le marché de la Place Richelme, et les fontaines - les Quatre Dauphins reste la gamelle urbaine de référence pour un chien assoiffé.`,
     whyEs: `Aix-en-Provence es la pausa cultural: palacios del siglo XVIII bordeando el Cours Mirabeau (donde los perros duermen bajo cada mesa de café), la montaña Sainte-Victoire pintada por Cézanne a 15 km al este para una verdadera caminata canina, el mercado de la Place Richelme, y las fuentes - los Quatre Dauphins es la referencia urbana para perro sediento.`,
     whyPt: `Aix-en-Provence é a pausa cultural: palacetes do século XVIII a bordear o Cours Mirabeau (onde os cães dormem debaixo de cada mesa de café), a Sainte-Victoire pintada por Cézanne a 15 km a leste para uma verdadeira caminhada canina, o mercado da Place Richelme, e as fontes - a Quatre Dauphins é a tigela urbana de referência para cão sedento.`,
     whyDe: `Aix-en-Provence ist die kultivierte Pause: Stadtpalais aus dem 18. Jahrhundert säumen den Cours Mirabeau (wo Hunde unter jedem Café-Tisch liegen), der von Cézanne gemalte Berg Sainte-Victoire erhebt sich 15 km östlich für eine ernsthafte Hundewanderung, dazu der Wochenmarkt an der Place Richelme, und die Brunnen - der Quatre Dauphins ist der urbane Wassernapf erster Wahl für einen durstigen Hund.`,
+    whyNl: `Aix-en-Provence is de culturele pauzeplek: 18e-eeuwse herenhuizen langs de Cours Mirabeau (waar honden onder elke cafétafel liggen), de door Cézanne geschilderde berg Sainte-Victoire rijst 15 km oostelijk op voor een serieuze hondenwandeling, de wekelijkse markt op de Place Richelme, en de fonteinen, de Quatre Dauphins is de favoriete waterbak voor een dorstige hond in de stad.`,
     highlightsEn: [
       `Cours Mirabeau plane-tree avenue, dog-tolerant café terraces`,
       `Sainte-Victoire (15 km east): Cézanne's mountain, easy dog hikes`,
@@ -258,6 +285,12 @@ const STOPS: Stop[] = [
       `Sainte-Victoire (15 km östlich): Cézannes Berg, leichte Hundewanderungen`,
       `Atelier Cézanne (Außengärten mit Hund erlaubt, drinnen nicht)`,
       `Markt an der Place Richelme (Di-So vormittags, hundefreundlich)`,
+    ],
+    highlightsNl: [
+      `Cours Mirabeau met platanenlaan, hondvriendelijke caféterrasjes`,
+      `Sainte-Victoire (15 km oostelijk): de berg van Cézanne, makkelijke hondenwandelingen`,
+      `Atelier Cézanne (buitentuinen met hond toegestaan, binnen niet)`,
+      `Markt op de Place Richelme (di-zo ochtend, hondvriendelijk)`,
     ],
     highlightsFr: [
       `Cours Mirabeau bordé de platanes, terrasses tolérantes`,
@@ -285,6 +318,7 @@ const STOPS: Stop[] = [
         pitchEs: `4 estrellas Marriott con entorno residencial tranquilo a 5 min del centro. Perros hasta 14 kg admitidos (suplemento modesto), los mayores jardines privados de un hotel central de Aix, perfectos para descanso canino.`,
         pitchPt: `4 estrelas Marriott com ambiente residencial calmo a 5 min do centro. Cães até 14 kg aceites (taxa modesta), os maiores jardins privados de um hotel central em Aix, perfeitos para pausa canina.`,
         pitchDe: `4-Sterne-Marriott in ruhiger Wohnlage, 5 Gehminuten vom Zentrum. Hunde bis 14 kg gegen geringen Aufpreis willkommen, die größten Privatgärten aller zentralen Hotels in Aix, ideal für die Hundepause.`,
+        pitchNl: `4-sterren Marriott in een rustige woonwijk, 5 minuten van het centrum. Honden tot 14 kg welkom tegen een bescheiden toeslag, de grootste privétuinen van alle hotels in het centrum van Aix, perfect voor een hondenpauze.`,
       },
       {
         name: 'Hôtel Cézanne',
@@ -293,6 +327,7 @@ const STOPS: Stop[] = [
         pitchEs: `Boutique 4 estrellas frente a la lanzadera TGV y 7 min andando al Cours Mirabeau. Perros hasta 10 kg admitidos (pequeño suplemento), el lobby tiene un bar Nespresso self-service donde los perros pueden tumbarse.`,
         pitchPt: `Boutique 4 estrelas em frente ao shuttle TGV e 7 min a pé do Cours Mirabeau. Cães até 10 kg aceites (pequena taxa), o lobby tem um bar Nespresso self-service onde os cães podem descansar.`,
         pitchDe: `4-Sterne-Boutiquehotel gegenüber dem TGV-Shuttle und 7 Gehminuten vom Cours Mirabeau. Hunde bis 10 kg gegen kleinen Aufpreis willkommen, in der Lobby gibt es eine Nespresso-Selbstbedienungsbar, an der Hunde gerne liegen dürfen.`,
+        pitchNl: `Boutique 4-sterrenhotel tegenover het TGV-shuttlestation en 7 minuten lopen van de Cours Mirabeau. Honden tot 10 kg welkom tegen een kleine toeslag, in de lobby staat een Nespresso-zelfbedieningsbar waar honden gerust mogen liggen.`,
       },
     ],
     hasDestPage: true,
@@ -307,12 +342,14 @@ const STOPS: Stop[] = [
       es: `Aix a Marsella: 33 km, ~35 min por la A51. Aparca en Parking Vieux-Port La Criée y a pie - Marsella se descubre andando con perro.`,
       pt: `Aix a Marseille: 33 km, ~35 min pela A51. Estacione no Parking Vieux-Port La Criée e a pé - Marseille descobre-se a pé com cão.`,
       de: `Aix nach Marseille: 33 km, ~35 Min. über die A51. Nutzen Sie den Parking Vieux-Port La Criée und gehen Sie zu Fuß weiter - Marseille erschließt sich mit Hund am besten zu Fuß.`,
+      nl: `Aix naar Marseille: 33 km, ~35 min via de A51. Gebruik Parking Vieux-Port La Criée en ga daarna te voet verder, Marseille ontdek je met een hond het best te voet.`,
     },
     whyEn: `Marseille closes the loop with the sea: the Vieux-Port at sunset (leashed dogs allowed on the quays), the Calanques National Park 20 min east where the Sentier des Calanques (Cassis side, GR98) accepts leashed dogs year-round on the inland trail, and the Corniche Kennedy 4 km cliff walk back to the city. Several Calanques boat operators (Croisières Marseille Calanques) accept calm dogs on deck.`,
     whyFr: `Marseille clôt la boucle avec la mer : le Vieux-Port au coucher du soleil (chiens en laisse sur les quais), le Parc National des Calanques à 20 min à l'est où le Sentier des Calanques (côté Cassis, GR98) accepte les chiens en laisse toute l'année sur la partie terrestre, et la Corniche Kennedy 4 km en bord de falaise pour rentrer. Certains opérateurs bateau des Calanques (Croisières Marseille Calanques) acceptent les chiens calmes en pont.`,
     whyEs: `Marsella cierra el circuito con el mar: el Vieux-Port al atardecer (perros con correa en los muelles), el Parque Nacional de las Calanques a 20 min al este donde el Sentier des Calanques (lado Cassis, GR98) admite perros con correa todo el año en la parte terrestre, y la Corniche Kennedy 4 km al borde del acantilado para regresar. Algunos operadores de barco de las Calanques (Croisières Marseille Calanques) admiten perros tranquilos en cubierta.`,
     whyPt: `Marseille fecha o circuito com o mar: o Vieux-Port ao pôr-do-sol (cães à trela nos cais), o Parque Nacional das Calanques a 20 min a leste onde o Sentier des Calanques (lado Cassis, GR98) aceita cães à trela todo o ano na parte terrestre, e a Corniche Kennedy 4 km à beira da falésia para regressar. Alguns operadores de barco das Calanques (Croisières Marseille Calanques) aceitam cães calmos no convés.`,
     whyDe: `Marseille schließt die Schleife mit dem Meer: der Vieux-Port bei Sonnenuntergang (angeleinte Hunde auf den Kais erlaubt), der Nationalpark Calanques 20 Min. östlich, wo der Sentier des Calanques (Seite Cassis, GR98) auf dem landseitigen Pfad ganzjährig angeleinte Hunde zulässt, und der 4 km lange Klippenweg Corniche Kennedy zurück in die Stadt. Mehrere Bootsanbieter der Calanques (Croisières Marseille Calanques) nehmen ruhige Hunde an Deck mit.`,
+    whyNl: `Marseille sluit de lus af met de zee: de Vieux-Port bij zonsondergang (aangelijnde honden toegestaan op de kades), het Nationaal Park Calanques 20 minuten oostelijk waar het Sentier des Calanques (kant Cassis, GR98) het hele jaar aangelijnde honden toelaat op het landpad, en de 4 km lange klifwandeling Corniche Kennedy terug naar de stad. Verschillende bootoperators van de Calanques (Croisières Marseille Calanques) laten rustige honden aan dek toe.`,
     highlightsEn: [
       `Vieux-Port quays at sunset, leashed dogs welcome`,
       `Calanques de Cassis GR98 trail (20 min east, leashed year-round)`,
@@ -324,6 +361,12 @@ const STOPS: Stop[] = [
       `GR98-Pfad der Calanques de Cassis (20 Min. östlich, ganzjährig an der Leine)`,
       `Corniche Kennedy: 4 km Klippenspaziergang mit Hund bis zu den Plages du Prado`,
       `Esplanade des MuCEM (Museumsinneres nein, Esplanade J4 ja)`,
+    ],
+    highlightsNl: [
+      `Kades van de Vieux-Port bij zonsondergang, aangelijnde honden welkom`,
+      `GR98-pad van de Calanques de Cassis (20 min oostelijk, het hele jaar aan de lijn)`,
+      `Corniche Kennedy: 4 km klifwandeling met hond naar de Plages du Prado`,
+      `Esplanade van het MuCEM (museum binnen niet, esplanade J4 wel)`,
     ],
     highlightsFr: [
       `Quais du Vieux-Port au coucher, chiens en laisse bienvenus`,
@@ -351,6 +394,7 @@ const STOPS: Stop[] = [
         pitchEs: `Palacio 5 estrellas dominando el Vieux-Port desde el Hôtel Dieu del siglo XVIII reconvertido. Perros admitidos (suplemento modesto), camas y comederos a petición, el bar terraza imbatible al atardecer con perro a los pies.`,
         pitchPt: `Palace 5 estrelas a dominar o Vieux-Port a partir do Hôtel Dieu do século XVIII reconvertido. Cães aceites (taxa modesta), camas e tigelas a pedido, o bar esplanada imbatível ao pôr-do-sol com cão aos pés.`,
         pitchDe: `5-Sterne-Palast mit Blick auf den Vieux-Port im umgebauten Hôtel Dieu aus dem 18. Jahrhundert. Hunde gegen geringen Aufpreis willkommen, Hundebetten und Näpfe auf Anfrage, die Terrassenbar ist unschlagbar für den Sonnenuntergang mit Hund zu Füßen.`,
+        pitchNl: `5-sterrenpaleis met uitzicht op de Vieux-Port, in het verbouwde 18e-eeuwse Hôtel Dieu. Honden welkom tegen een bescheiden toeslag, hondenmanden en voerbakken op aanvraag, de terrasbar is onovertroffen voor een zonsondergang met je hond aan je voeten.`,
       },
       {
         name: 'Sofitel Marseille Vieux-Port',
@@ -359,6 +403,7 @@ const STOPS: Stop[] = [
         pitchEs: `5 estrellas con la mejor salida canina de la ciudad: pequeño césped vallado entre el hotel y los jardines del Pharo. Perros hasta 14 kg admitidos, piscina interior climatizada, 8 min andando por los muelles hasta el Vieux-Port.`,
         pitchPt: `5 estrelas com a melhor saída canina da cidade: pequena relva vedada entre o hotel e os jardins do Pharo. Cães até 14 kg aceites, piscina interior aquecida, 8 min a pé pelos cais até ao Vieux-Port.`,
         pitchDe: `5-Sterne-Hotel mit dem besten Hundeauslauf der Stadt: kleiner eingezäunter Rasen zwischen dem Hotel und den Pharo-Gärten. Hunde bis 14 kg willkommen, beheizter Innenpool, 8 Gehminuten entlang der Kais zum Vieux-Port.`,
+        pitchNl: `5-sterrenhotel met de beste hondenuitlaatplek van de stad: een klein omheind grasveld tussen het hotel en de Pharo-tuinen. Honden tot 14 kg welkom, verwarmd binnenzwembad, 8 minuten lopen langs de kades naar de Vieux-Port.`,
       },
     ],
     hasDestPage: true,
@@ -526,6 +571,38 @@ const COPY = {
       { q: 'Ist mein Hund in Restaurants willkommen?', a: `Provenzalische Terrassen sind äußerst hundetolerant - bringen Sie Wasser und eine kleine Matte mit. Cours Mirabeau in Aix, Cours Jean-Jaurès in Avignon, Place du Forum in Arles und die Kais am Vieux-Port in Marseille sagen auf der Terrasse fast immer Ja. Drinnen hängt es vom jeweiligen Lokal ab, fragen Sie einfach nach.` },
     ],
   },
+  nl: {
+    dayLabels: [`Dag 1`, `Dag 2 & 3`, `Dag 4`, `Dag 5`],
+    dayLabelsShort: [`Dag 1`, `Dag 2–3`, `Dag 4`, `Dag 5`],
+    checkAvailability: 'Beschikbaarheid bekijken →',
+    browseAll: (city: string) => `Bekijk alle huisdiervriendelijke hotels in ${city} →`,
+    eyebrow: 'Hondvriendelijke 5-daagse roadtrip door de Provence',
+    title: 'Roadtrip door de Provence met je hond: Avignon, Arles, Aix-en-Provence & Marseille',
+    intro: `De Provence verenigt vier heel verschillende hondvriendelijke stops in een lus van 150 km die je in vijf dagen rijdt. De middeleeuwse stadsmuren en het Palais van Avignon, het Romeinse erfgoed van Arles plus de Camargue-vlaktes, de platanenlanen van Aix-en-Provence en de Sainte-Victoire, en de Vieux-Port en de Calanques van Marseille. Geverifieerde hotels bij elke stop, strand- en veerboottijden vermeld, plus een optionele dagtrip naar Nîmes vanuit Arles.`,
+    stats: ['5 dagen', '~150 km totale rit', '4 stops · 5 nachten', 'Honden welkom in elk hotel'],
+    routeHeading: 'De route in één oogopslag',
+    mapHeading: 'Interactieve kaart',
+    mapNote: 'Verschuif en zoom, elke blauwe marker is een geverifieerd huisdiervriendelijk hotel.',
+    itineraryHeading: 'Dagindeling',
+    nightsLabel: (n: number) => (n > 1 ? `${n} nachten` : `${n} nacht`),
+    driveLabel: 'Onderweg',
+    highlightsLabel: 'Niet te missen',
+    hotelsLabel: 'Waar je slaapt',
+    practicalHeading: 'Praktische info voor je vertrekt',
+    practical: [
+      { h: 'Strandregels', p: `De Provence en de Bouches-du-Rhône-kust volgen het landelijke patroon: de meeste gemeentelijke stranden verbieden honden tussen 1 mei (of 15 juni) en 30 september. Het strand van Beauduc in de Camargue (35 km ten zuiden van Arles) verwelkomt honden buiten het seizoen, het landpad van het Sentier des Calanques GR98 staat het hele jaar aangelijnde honden toe. Check altijd het lokale arrêté municipal voordat je afdaalt.` },
+      { h: 'Hitte en pootjes', p: `Het asfalt en de kalksteen in de Provence bereiken tussen 11.00 en 19.00 uur van juni tot half september 50 tot 65 graden. Wandel vroeg (voor 9.00 uur) of na 19.00 uur, doe de 7-secondentest met je hand op steen (oude binnensteden van Avignon en Aix), en neem water mee. De Mistral (40-90 km/u) droogt uit, vul de waterbakjes vaker aan dan je denkt nodig te hebben.` },
+      { h: 'Autorijden met je hond', p: `De Franse wet schrijft voor dat honden in de auto vastgezet moeten zijn (harnas, bench of scheidingsrek). Tolwegen (A7, A8, A51, A54) accepteren honden zonder beperking; de rustplaatsen hebben schaduwrijke grasstroken. Laat je hond nooit achter in een geparkeerde auto, ook niet met een raampje op een kier, het is strafbaar (art. R655-1, boetes tot 30.000 euro).` },
+      { h: 'Dierenarts spoedgevallen', p: `Avignon: ChronoVet Avignon Le Pontet, +33 4 90 31 14 14 (24u). Arles: Clinique Vétérinaire des Arènes, +33 4 90 96 24 18. Aix-en-Provence: VétérinHôpital, +33 4 42 64 81 71 (24u). Marseille: ChronoVet Marseille Saint-Charles, +33 4 91 50 22 22 (24u).` },
+    ],
+    faqHeading: 'Veelgestelde vragen',
+    faq: [
+      { q: 'Kan ik deze trip zonder auto doen?', a: `Alle vier de steden hebben TGV: Avignon en Aix hebben TGV-stations, Marseille is het spoorknooppunt, en Arles ligt aan de TER-lijn Marseille-Bordeaux (45 min vanuit Marseille). Een aangelijnde hond in de TGV kost 7,10 euro, kleine honden in een draagtas reizen gratis. De bussen van het Pays d'Aix, de regionale Cartreize-bussen en de metro van Marseille nemen allemaal aangelijnde honden mee (met muilkorf als ze groot zijn), haalbaar zonder auto maar trager.` },
+      { q: 'Beste seizoen voor deze trip met je hond?', a: `April tot half juni en half september tot begin november. Temperaturen van 16 tot 25 graden, lavendelbloei eind juni (ten noorden van Avignon), stranden nog open, en je vermijdt de Provençaalse hitte van juli-augustus (35°C+, gloeiende kalksteen) plus het zomerse strandverbod. De winter is haalbaar: milde dagen, lage prijzen, maar de Mistral kan brutaal zijn voor kleine honden.` },
+      { q: `Moet ik Nîmes als stop toevoegen?`, a: `Nîmes werkt goed als halve dag vanuit Arles (25 min via de A54). De Arènes de Nîmes ontvangen nog stierengevechten, maar het buitenplein staat aangelijnde honden toe; de Jardins de la Fontaine zijn hondvriendelijk met de wandeling naar de Tour Magne; het plein bij de Maison Carrée verwelkomt honden. De Pont du Gard, 25 km ten noorden van Nîmes, laat honden toe op de oeverpaden en aan de oevers van de Gardon (gratis zwemmen met je hond buiten het seizoen).` },
+      { q: 'Is mijn hond welkom in restaurants?', a: `De Provençaalse terrasjes zijn uiterst hondvriendelijk, neem water en een klein matje mee. Cours Mirabeau in Aix, Cours Jean-Jaurès in Avignon, Place du Forum in Arles en de kades van de Vieux-Port in Marseille zeggen op het terras bijna altijd ja. Binnen zitten hangt van de zaak af, vraag het gewoon.` },
+    ],
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -583,6 +660,7 @@ export default async function Page({
     if (locale === 'es') return { why: s.whyEs, hl: s.highlightsEs, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchEs })) }
     if (locale === 'pt') return { why: s.whyPt, hl: s.highlightsPt, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchPt })) }
     if (locale === 'de') return { why: s.whyDe, hl: s.highlightsDe, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchDe })) }
+    if (locale === 'nl') return { why: s.whyNl, hl: s.highlightsNl, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchNl })) }
     return { why: s.whyEn, hl: s.highlightsEn, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchEn })) }
   }
 

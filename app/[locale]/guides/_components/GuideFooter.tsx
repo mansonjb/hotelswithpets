@@ -2,6 +2,12 @@ import Link from 'next/link'
 
 const ALL_GUIDES = [
   {
+    slug: 'where-to-go-uk-school-holidays-2027',
+    emoji: '🇬🇧',
+    label: { fr: 'Où partir avec son chien selon les vacances scolaires 2027', en: 'Where to go for the 2027 UK school holidays', es: 'Dónde ir según las vacaciones escolares 2027', de: 'Wohin in den Schulferien 2027' },
+    desc:  { fr: 'Chaque vacance et chaque pont, temps de trajet + hôtels par budget', en: 'Every UK holiday, travel times + hotels by budget', es: 'Cada vacación y puente, tiempos de viaje + hoteles por presupuesto', de: 'Jede Ferienzeit, Reisezeiten + Hotels nach Budget' },
+  },
+  {
     slug: 'passeport-animal',
     emoji: '📋',
     label: { fr: 'Passeport animal par pays', en: 'Pet passport by country', es: 'Pasaporte de mascota por país', de: 'Tierpass nach Land' },

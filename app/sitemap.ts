@@ -137,6 +137,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'autriche-fraiche-chien',
     'autumn-destinations-with-dog-2026',
     'winter-destinations-with-dog-2026',
+    'christmas-markets-with-dog',
+    'where-to-go-uk-school-holidays-2027',
   ]
   const MONTHS = ['january','february','march','april','may','june','july','august','september','october','november','december']
   const ES_CITY_LANDINGS = [

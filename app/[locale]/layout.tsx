@@ -27,6 +27,7 @@ export async function generateMetadata({ params }: LayoutProps<'/[locale]'>): Pr
     es: 'HotelsWithPets: Hoteles Pet-Friendly en Europa',
     pt: 'HotelsWithPets: Hotéis Pet-Friendly na Europa',
     de: 'HotelsWithPets: Haustierfreundliche Hotels in Europa',
+    nl: 'HotelsWithPets: Hondvriendelijke hotels in Europa',
   }
   const descriptions: Record<Locale, string> = {
     en: 'Find the best pet-friendly hotels in Europe. Dog-friendly stays, beach access, luxury hotels and more. Book via Booking.com.',
@@ -34,6 +35,7 @@ export async function generateMetadata({ params }: LayoutProps<'/[locale]'>): Pr
     es: 'Encuentra los mejores hoteles pet-friendly en Europa. Estancias con perros, acceso a la playa, hoteles de lujo. Reserva en Booking.com.',
     pt: 'Encontre os melhores hotéis pet-friendly na Europa. Estadias com cães, acesso à praia, hotéis de luxo. Reserve via Booking.com.',
     de: 'Finden Sie die besten haustierfreundlichen Hotels in Europa. Aufenthalte mit Hund, Strandzugang, Luxushotels und mehr. Buchen über Booking.com.',
+    nl: 'Vind de beste huisdiervriendelijke hotels in Europa. Verblijven met hond, strandtoegang, luxehotels en meer. Boek via Booking.com.',
   }
   const l = hasLocale(locale) ? locale : 'en'
 
@@ -45,6 +47,7 @@ export async function generateMetadata({ params }: LayoutProps<'/[locale]'>): Pr
     es: ['hoteles pet-friendly', 'hoteles que admiten perros', 'viajar con perro europa', 'hoteles para mascotas', 'hoteles con perros europa', 'hoteles que admiten gatos', 'viajar con mascota'],
     pt: ['hotéis pet-friendly', 'hotéis que aceitam cães', 'viajar com cão europa', 'hotéis para animais', 'estadia com cão europa', 'hotéis que aceitam animais', 'viagem cão europa', 'hotéis gatos aceites'],
     de: ['haustierfreundliche hotels', 'hundefreundliche hotels', 'katzenfreundliche hotels', 'reisen mit hund europa', 'urlaub mit hund', 'hotels für hunde', 'hotels für katzen', 'haustierhotels europa', 'hundeurlaub europa', 'reisen mit haustier'],
+    nl: ['huisdiervriendelijke hotels', 'hondvriendelijke hotels', 'katvriendelijke hotels', 'reizen met hond europa', 'reizen met huisdier', 'hotels voor honden', 'hotels voor katten', 'huisdierhotels europa', 'hondvriendelijk reizen', 'met de hond op reis'],
   }
 
   return {

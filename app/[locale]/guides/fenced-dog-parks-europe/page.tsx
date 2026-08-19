@@ -967,7 +967,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   }
 }
 
-const COPY: Record<Locale, {
+const COPY: Partial<Record<Locale, {
   kicker: string; h1: string; lede: string
   introTitle: string; introParas: string[]
   countryTitle: string; countryIntro: string; countriesLabel: string
@@ -976,7 +976,7 @@ const COPY: Record<Locale, {
   ctaTitle: string; ctaDesc: string; ctaButton: string
   faqTitle: string; faqs: { q: string; a: string }[]
   legalTitle: string; legalParas: string[]
-}> = {
+}>> = {
   en: {
     kicker: 'FENCED DOG PARKS · 2026 EDITION',
     h1: `${PARKS.length} Fenced Dog Parks in Europe`,
@@ -1153,7 +1153,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
   const l = locale as Locale
-  const t = COPY[l] ?? COPY.en
+  const t = COPY[l] ?? COPY.en!
 
   // Sort PARKS alphabetically by city name in the active locale
   const sorted = [...PARKS].sort((a, b) => {

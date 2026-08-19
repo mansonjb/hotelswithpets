@@ -293,7 +293,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   }
 }
 
-const COPY: Record<Locale, {
+const COPY: Partial<Record<Locale, {
   kicker: string; h1: string; lede: string
   introTitle: string; introParas: string[]
   countryTitle: string; countryIntro: string
@@ -304,7 +304,7 @@ const COPY: Record<Locale, {
   faqTitle: string; faqs: { q: string; a: string }[]
   legalTitle: string; legalParas: string[]
   takeawayTitle: string; takeawayParas: string[]
-}> = {
+}>> = {
   en: {
     kicker: 'BEST DOG BEACHES · 2026 EDITION',
     h1: `The 25 Best Dog Beaches in Europe`,
@@ -516,7 +516,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
   const l = locale as Locale
-  const t = COPY[l] ?? COPY.en
+  const t = COPY[l] ?? COPY.en!
 
   // Schema.org Article + ItemList + FAQPage
   const schema = [
@@ -524,7 +524,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       '@context': 'https://schema.org',
       '@type': 'Article',
       headline: t.h1,
-      description: (COPY[l] ?? COPY.en).lede,
+      description: (COPY[l] ?? COPY.en!).lede,
       datePublished: '2026-05-06T00:00:00Z',
       dateModified: '2026-06-26',
       author: { '@type': 'Person', name: 'HotelsWithPets Editorial', jobTitle: 'Pet Travel Editor', url: SITE_URL },

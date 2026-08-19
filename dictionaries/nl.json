@@ -1,0 +1,160 @@
+{
+  "nav": {
+    "home": "Home",
+    "destinations": "Bestemmingen",
+    "categories": "Categorieën",
+    "about": "Over ons",
+    "countries": "Landen"
+  },
+  "hero": {
+    "badge": "Geverifieerde hondvriendelijke hotels in heel Europa",
+    "title": "Hondvriendelijke hotels die je huisdier echt welkom heten",
+    "subtitle": "Vind het perfecte verblijf voor jou en je hond. Blader op bestemming, filter op huisdierbeleid en boek rechtstreeks op Booking.com.",
+    "searchDestination": "Waar gaat de reis heen?",
+    "searchCategory": "Soort huisdier of voorziening",
+    "cta": "Hotels vinden",
+    "stat1Value": "400+",
+    "stat1Label": "Bestemmingen",
+    "stat2Value": "2.400+",
+    "stat2Label": "Hondvriendelijke hotels",
+    "stat3Value": "100%",
+    "stat3Label": "Gratis te gebruiken"
+  },
+  "categories": {
+    "browseBy": "Blader op",
+    "browseTitle": "categorie",
+    "subtitle": "Vind hotels gefilterd op wat voor jou en je huisdier het belangrijkst is.",
+    "explore": "Ontdekken →"
+  },
+  "howItWorks": {
+    "title": "Boek in 3 eenvoudige stappen",
+    "step1Title": "Kies een bestemming",
+    "step1Desc": "Blader door onze samengestelde lijst van huisdiervriendelijke steden in heel Europa en plan je volgende reis.",
+    "step2Title": "Vind een hotel",
+    "step2Desc": "Filter op huisdierbeleid, groottebeperkingen, huisdierkosten of strandtoegang.",
+    "step3Title": "Boek je verblijf",
+    "step3Desc": "Ga rechtstreeks naar Booking.com en rond je reservering af."
+  },
+  "destinations": {
+    "title": "Populaire bestemmingen",
+    "cta": "Hotels ontdekken",
+    "viewAll": "Alle bestemmingen bekijken →"
+  },
+  "combos": {
+    "title": "100+ samengestelde huisdiervriendelijke reisgidsen",
+    "featuredLabel": "Aanbevolen reisgids",
+    "viewGuide": "Reisgids bekijken →",
+    "items": [
+      {
+        "emoji": "🐕",
+        "label": "Amsterdam met hond: de complete reisgids",
+        "href": "amsterdam/dog-friendly"
+      },
+      {
+        "emoji": "🏖️",
+        "label": "Biarritz: de beste stranden voor je hond",
+        "href": "biarritz/beach-access"
+      },
+      {
+        "emoji": "✨",
+        "label": "Luxueus Parijs met huisdier: exclusieve aanbevelingen",
+        "href": "paris/luxury"
+      },
+      {
+        "emoji": "🎉",
+        "label": "Barcelona: geen huisdierkosten, onze zorgvuldig gekozen hotels",
+        "href": "barcelona/dogs-stay-free"
+      },
+      {
+        "emoji": "🐕",
+        "label": "Rome met hond: waar slapen en de stad ontdekken",
+        "href": "rome/dog-friendly"
+      },
+      {
+        "emoji": "🌳",
+        "label": "Hondvriendelijk Berlijn: parken en zorgvuldig gekozen hotels",
+        "href": "berlin/near-parks"
+      },
+      {
+        "emoji": "🐕",
+        "label": "Lissabon met hond: de praktische reisgids",
+        "href": "lisbon/dog-friendly"
+      }
+    ]
+  },
+  "footer": {
+    "explore": "Ontdekken",
+    "destinations": "Bestemmingen",
+    "categories": "Categorieën",
+    "company": "Bedrijf",
+    "about": "Over ons",
+    "disclosure": "Affiliate-informatie",
+    "disclosureText": "Deze website bevat affiliate-links. We ontvangen mogelijk een commissie wanneer je via onze links boekt, zonder extra kosten voor jou.",
+    "copyright": "© 2026 HotelsWithPets.com. Alle rechten voorbehouden.",
+    "privacy": "Privacyverklaring"
+  },
+  "pages": {
+    "destinations": {
+      "title": "Alle huisdiervriendelijke bestemmingen",
+      "subtitle": "Van Amsterdam tot Lissabon: ontdek waar je met je huisdier kunt overnachten in de beste steden van Europa.",
+      "explore": "Ontdekken"
+    },
+    "destination": {
+      "back": "← Bestemmingen",
+      "categoriesTitle": "Blader op hoteltype",
+      "hotelsTitle": "Top huisdiervriendelijke hotels",
+      "book": "Boeken op Booking.com",
+      "from": "Vanaf",
+      "perNight": "/ nacht",
+      "free": "Geen huisdierkosten",
+      "petFee": "Huisdierkosten",
+      "petPolicy": "Huisdierbeleid",
+      "stars": "sterren",
+      "reviews": "beoordelingen",
+      "viewCombo": "Hotels bekijken →"
+    },
+    "categories": {
+      "title": "Alle huisdiercategorieën",
+      "subtitle": "Hondvriendelijk, luxe, strandtoegang, geen huisdierkosten: vind precies wat je reis nodig heeft.",
+      "destinations": "Bestemmingen"
+    },
+    "category": {
+      "back": "← Categorieën",
+      "destinationsTitle": "Beste bestemmingen voor deze categorie",
+      "explore": "Hotels bekijken →"
+    },
+    "combo": {
+      "rankLabel": "Het best voor",
+      "heroTitle": "Hotels in {dest}, {cat}",
+      "hotelsTitle": "Onze topkeuzes in {dest}, {cat} ({n} hotels)",
+      "inCity": "in {dest}",
+      "tipsTitle": "Zo vind je het juiste hotel in {dest}, {cat}",
+      "tipsSubtitle": "Vijf dingen die ervaren reizigers met huisdier vóór elke boeking controleren.",
+      "faqTitle": "Veelgestelde vragen",
+      "moreInDest": "Meer reisgidsen in {dest}",
+      "catElsewhere": "{cat}, andere steden",
+      "relatedTitle": "Vergelijkbare reisgidsen",
+      "updatedLabel": "Bijgewerkt",
+      "handpicked": "zorgvuldig geselecteerde accommodaties",
+      "fromPerNight": "vanaf / nacht",
+      "avgRating": "Gem. beoordeling",
+      "noPetFee": "geen huisdierkosten",
+      "book": "Boeken op Booking.com",
+      "from": "Vanaf",
+      "perNight": "/ nacht",
+      "free": "Geen huisdierkosten",
+      "petFee": "Huisdierkosten",
+      "petPolicy": "Huisdierbeleid",
+      "stars": "sterren",
+      "reviews": "beoordelingen",
+      "ctaTitle": "Klaar om te boeken?",
+      "ctaDesc": "Vergelijk nog meer opties op Booking.com, filter op huisdierbeleid, prijs en voorzieningen.",
+      "ctaButton": "Alle huisdiervriendelijke hotels bekijken",
+      "noHotels": "Voor deze combinatie zijn nog geen hotels vermeld. Kom binnenkort terug of blader rechtstreeks op Booking.com.",
+      "whyTitle": "Waarom {dest} kiezen met je huisdier?",
+      "testimonialLabel": "🐾 Het oordeel van een huisdiereigenaar",
+      "mapSectionTitle": "Deze hotels op de kaart vinden",
+      "seasonBadge": "Beste reistijd: {season}"
+    }
+  }
+}

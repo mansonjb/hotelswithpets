@@ -527,6 +527,23 @@ function budgetTiers(slug: string): HotelRow[] {
   })
 }
 
+// Per-period visual identity: periods are chronological, so a season-ordered
+// palette (icy winter -> spring green -> summer amber -> autumn rose -> festive)
+// makes each block instantly distinguishable instead of one flat wall. The last
+// period of every calendar is December, so it always gets the festive theme.
+const THEMES = [
+  { band: 'from-indigo-500 to-sky-600', rail: 'border-indigo-200', cardHead: 'from-indigo-50 to-sky-50', numBg: 'text-indigo-700 bg-indigo-100', travelBox: 'bg-indigo-50 border-indigo-100', travelText: 'text-indigo-900' },
+  { band: 'from-cyan-500 to-blue-600', rail: 'border-cyan-200', cardHead: 'from-cyan-50 to-blue-50', numBg: 'text-cyan-700 bg-cyan-100', travelBox: 'bg-cyan-50 border-cyan-100', travelText: 'text-cyan-900' },
+  { band: 'from-emerald-500 to-teal-600', rail: 'border-emerald-200', cardHead: 'from-emerald-50 to-teal-50', numBg: 'text-emerald-700 bg-emerald-100', travelBox: 'bg-emerald-50 border-emerald-100', travelText: 'text-emerald-900' },
+  { band: 'from-lime-500 to-emerald-600', rail: 'border-lime-200', cardHead: 'from-lime-50 to-emerald-50', numBg: 'text-lime-700 bg-lime-100', travelBox: 'bg-lime-50 border-lime-100', travelText: 'text-lime-900' },
+  { band: 'from-teal-500 to-cyan-600', rail: 'border-teal-200', cardHead: 'from-teal-50 to-cyan-50', numBg: 'text-teal-700 bg-teal-100', travelBox: 'bg-teal-50 border-teal-100', travelText: 'text-teal-900' },
+  { band: 'from-amber-500 to-orange-600', rail: 'border-amber-200', cardHead: 'from-amber-50 to-orange-50', numBg: 'text-amber-700 bg-amber-100', travelBox: 'bg-amber-50 border-amber-100', travelText: 'text-amber-900' },
+  { band: 'from-orange-500 to-rose-600', rail: 'border-orange-200', cardHead: 'from-orange-50 to-rose-50', numBg: 'text-orange-700 bg-orange-100', travelBox: 'bg-orange-50 border-orange-100', travelText: 'text-orange-900' },
+  { band: 'from-amber-600 to-rose-700', rail: 'border-rose-200', cardHead: 'from-amber-50 to-rose-50', numBg: 'text-rose-700 bg-rose-100', travelBox: 'bg-rose-50 border-rose-100', travelText: 'text-rose-900' },
+  { band: 'from-rose-600 to-emerald-700', rail: 'border-emerald-200', cardHead: 'from-rose-50 to-emerald-50', numBg: 'text-rose-700 bg-rose-100', travelBox: 'bg-rose-50 border-rose-100', travelText: 'text-rose-900' },
+] as const
+const TIER_TEXT = ['text-emerald-700', 'text-sky-700', 'text-violet-700']
+
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
   const { locale: rawLocale } = await params
   if (!hasLocale(rawLocale)) notFound()
@@ -570,34 +587,40 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       <div className="max-w-4xl mx-auto px-4 py-12 space-y-10">
-        {cal.periods.map((period, pi) => (
+        {cal.periods.map((period, pi) => {
+          const isLast = pi === cal.periods.length - 1
+          const theme = isLast ? THEMES[THEMES.length - 1] : THEMES[Math.min(pi, THEMES.length - 2)]
+          return (
           <section key={pi} className="scroll-mt-20">
-            <header className="mb-5">
-              <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1">
-                <span className="text-2xl">{period.emoji}</span>
-                <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">{period.label}</h2>
-                <span className="ml-auto text-xs font-bold uppercase tracking-wide bg-sky-100 text-sky-900 px-3 py-1 rounded-full">{period.trip}</span>
+            <div className={`relative overflow-hidden rounded-3xl bg-gradient-to-br ${theme.band} text-white p-6 sm:p-7 shadow-md mb-6`}>
+              <div className="absolute -right-3 -top-10 text-[140px] leading-none opacity-15 select-none pointer-events-none" aria-hidden="true">{period.emoji}</div>
+              <div className="relative">
+                <div className="flex items-center gap-3 mb-2">
+                  <span className="flex items-center justify-center w-12 h-12 rounded-2xl bg-white/20 text-2xl backdrop-blur-sm shadow-sm">{period.emoji}</span>
+                  <span className="text-[11px] font-bold uppercase tracking-widest text-white/85">{period.dates}</span>
+                </div>
+                <h2 className="text-2xl sm:text-3xl font-extrabold leading-tight">{period.label}</h2>
+                <span className="inline-block mt-2 text-xs font-bold uppercase tracking-wide bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full">{period.trip}</span>
+                <p className="text-white/90 leading-relaxed mt-3 max-w-2xl text-sm sm:text-base">{period.blurb}</p>
               </div>
-              <div className="text-sm font-semibold text-teal-700 mt-1">{period.dates}</div>
-              <p className="text-stone-700 leading-relaxed mt-2">{period.blurb}</p>
-            </header>
+            </div>
 
-            <div className="space-y-4">
+            <div className={`space-y-4 sm:border-l-4 ${theme.rail} sm:pl-5`}>
               {[...period.picks, ...(FAR[(locale as LocaleKey)]?.[pi] ? [FAR[(locale as LocaleKey)][pi]] : [])].map((p, i) => {
                 const meta = DEST[p.slug]
                 if (!meta) return null
                 const isFar = i >= period.picks.length
                 const tiers = budgetTiers(p.slug)
                 return (
-                  <article key={`${pi}-${p.slug}-${i}`} className="bg-white rounded-2xl border border-stone-200 overflow-hidden">
-                    <header className="px-5 sm:px-7 py-4 bg-gradient-to-r from-sky-50 to-teal-50 border-b border-stone-200">
-                      <div className="flex flex-wrap items-baseline gap-x-3 gap-y-1">
-                        <span className="text-lg font-black text-sky-800">{i + 1}</span>
+                  <article key={`${pi}-${p.slug}-${i}`} className={`rounded-2xl border overflow-hidden shadow-sm ${isFar ? 'border-amber-300 ring-1 ring-amber-200 bg-amber-50/40' : 'border-stone-200 bg-white'}`}>
+                    <header className={`px-5 sm:px-7 py-4 bg-gradient-to-r border-b ${isFar ? 'from-amber-100 to-orange-50 border-amber-200' : `${theme.cardHead} border-stone-200`}`}>
+                      <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
+                        <span className={`flex items-center justify-center w-7 h-7 rounded-full text-sm font-black ${isFar ? 'text-amber-700 bg-amber-200' : theme.numBg}`}>{isFar ? '✈' : i + 1}</span>
                         <h3 className="text-xl font-bold text-stone-900">
-                          <Link href={`/${locale}/destinations/${p.slug}`} className="hover:text-sky-700">{meta.name}</Link>
+                          <Link href={`/${locale}/destinations/${p.slug}`} className="hover:underline">{meta.name}</Link>
                         </h3>
                         <span className="text-sm text-stone-500">{meta.country}</span>
-                        {isFar && <span className="ml-auto text-xs font-bold bg-amber-100 text-amber-800 px-2.5 py-1 rounded-full">✈️ {t.farLabel}</span>}
+                        {isFar && <span className="ml-auto text-xs font-bold bg-amber-500 text-white px-2.5 py-1 rounded-full shadow-sm">✈️ {t.farLabel}</span>}
                       </div>
                     </header>
                     <div className="px-5 sm:px-7 py-5 space-y-4">
@@ -606,11 +629,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                         <p className="text-stone-800 leading-relaxed">{p.why}</p>
                       </div>
                       {p.travel && (
-                        <div className="flex items-start gap-2 bg-teal-50 border border-teal-100 rounded-xl p-3">
+                        <div className={`flex items-start gap-2 rounded-xl p-3 border ${isFar ? 'bg-amber-50 border-amber-200' : theme.travelBox}`}>
                           <span className="text-base leading-none mt-0.5">{isFar ? '✈️' : '🚗'}</span>
                           <div>
-                            <div className="text-xs font-semibold uppercase tracking-wider text-teal-800">{t.travelLabel}</div>
-                            <p className="text-sm text-teal-900 leading-relaxed">{p.travel}</p>
+                            <div className={`text-xs font-semibold uppercase tracking-wider ${isFar ? 'text-amber-800' : theme.travelText}`}>{t.travelLabel}</div>
+                            <p className={`text-sm leading-relaxed ${isFar ? 'text-amber-900' : theme.travelText}`}>{p.travel}</p>
                           </div>
                         </div>
                       )}
@@ -633,7 +656,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                                     sizes="(max-width: 768px) 100vw, 280px"
                                     className="object-cover group-hover:scale-105 transition-transform duration-500"
                                   />
-                                  <span className="absolute top-2 left-2 text-[10px] font-bold uppercase tracking-wide text-sky-800 bg-white/90 backdrop-blur-sm px-2 py-0.5 rounded-full shadow-sm">{tierLabels[Math.min(ti, 2)]}</span>
+                                  <span className={`absolute top-2 left-2 text-[10px] font-bold uppercase tracking-wide ${TIER_TEXT[Math.min(ti, 2)]} bg-white/90 backdrop-blur-sm px-2 py-0.5 rounded-full shadow-sm`}>{tierLabels[Math.min(ti, 2)]}</span>
                                 </div>
                                 <span className="font-semibold text-stone-900 text-sm leading-tight group-hover:text-sky-700">{h.name}</span>
                                 <span className="text-xs text-stone-500 mt-1">
@@ -659,7 +682,8 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               })}
             </div>
           </section>
-        ))}
+          )
+        })}
       </div>
 
       <section className="max-w-4xl mx-auto px-4 pb-12">

@@ -358,6 +358,7 @@ const FAR: Record<LocaleKey, Pick[]> = {
 
 const COPY: Record<LocaleKey, {
   eyebrow: string; title: string; intro: string; note: string
+  calTitle: string; schoolLabel: string; holsLabel: string
   travelLabel: string; whyLabel: string; staysLabel: string; farLabel: string
   tierBudget: string; tierMid: string; tierPremium: string
   from: string; night: string; petFeeNil: string; petFee: string; bookCta: string; destCta: string
@@ -370,6 +371,7 @@ const COPY: Record<LocaleKey, {
     title: 'Where to Go for the 2027 UK School Holidays & Bank Holidays (with your dog)',
     intro: 'A period-by-period plan for the 2027 English school calendar, built around one fact that changes everything for dog owners: the Eurostar does not carry pet dogs. Your real routes are Le Shuttle (the dog stays in your car) and the Brittany Ferries overnight crossings. So a bank-holiday weekend means a short hop just past Calais, while a two-week or six-week break earns the long haul south. Every idea below comes with the honest travel time from the UK and three real hotels across budgets.',
     note: 'Dates are the official 2027 England bank holidays; school holiday weeks are the typical England pattern and vary by council, so confirm your own term dates.',
+    calTitle: 'The 2027 calendar at a glance', schoolLabel: 'School holidays', holsLabel: 'Bank holidays',
     travelLabel: 'Travel from the UK', whyLabel: 'Why here', staysLabel: 'Where to stay, across budgets', farLabel: 'By plane',
     tierBudget: 'Budget', tierMid: 'Mid-range', tierPremium: 'Premium',
     from: 'from', night: 'night', petFeeNil: 'No pet fee', petFee: 'pet fee', bookCta: 'Check dates →', destCta: 'Full city guide →',
@@ -394,6 +396,7 @@ const COPY: Record<LocaleKey, {
     title: 'Où partir avec son chien pendant les vacances scolaires et jours fériés 2027',
     intro: 'Un plan période par période du vrai calendrier scolaire français 2027 : pour chaque vacance et chaque pont, deux ou trois idées de destinations avec son chien, le temps de trajet honnête depuis la France, et trois vrais hôtels étagés par budget. Un pont se joue près de chez soi ; une à deux semaines justifient d’aller plus loin. On tient compte de la réalité canine : la chaleur estivale, les interdictions de plage saisonnières, les règles de train.',
     note: 'Les dates suivent le calendrier scolaire français 2027 (vacances d’hiver et de printemps échelonnées par zones A/B/C) et les jours fériés nationaux. Vérifiez votre zone.',
+    calTitle: 'Le calendrier 2027 en un coup d\'œil', schoolLabel: 'Vacances scolaires', holsLabel: 'Jours fériés',
     travelLabel: 'Trajet depuis la France', whyLabel: 'Pourquoi ici', staysLabel: 'Où dormir, selon les budgets', farLabel: 'En avion',
     tierBudget: 'Économique', tierMid: 'Milieu de gamme', tierPremium: 'Premium',
     from: 'dès', night: 'nuit', petFeeNil: 'Sans supplément animal', petFee: 'suppl. animal', bookCta: 'Voir les dates →', destCta: 'Guide complet →',
@@ -418,6 +421,7 @@ const COPY: Record<LocaleKey, {
     title: 'Dónde ir con tu perro en las vacaciones escolares y festivos de 2027',
     intro: 'Un plan periodo a periodo del calendario escolar español 2027: para cada vacación y cada puente, dos o tres ideas de destinos con tu perro, el tiempo de viaje honesto desde España, y tres hoteles reales por presupuesto. Un puente se resuelve cerca de casa; una o dos semanas justifican ir más lejos. Tenemos en cuenta la realidad canina: el calor del verano, las prohibiciones estacionales de playa y las normas del tren.',
     note: 'Las fechas siguen el calendario escolar español 2027 (que varía por comunidad autónoma) y los festivos nacionales. Confirma las de tu comunidad.',
+    calTitle: 'El calendario 2027 de un vistazo', schoolLabel: 'Vacaciones escolares', holsLabel: 'Festivos',
     travelLabel: 'Viaje desde España', whyLabel: 'Por qué aquí', staysLabel: 'Dónde alojarse, por presupuesto', farLabel: 'En avión',
     tierBudget: 'Económico', tierMid: 'Gama media', tierPremium: 'Premium',
     from: 'desde', night: 'noche', petFeeNil: 'Sin suplemento por mascota', petFee: 'suppl. mascota', bookCta: 'Ver fechas →', destCta: 'Guía completa →',
@@ -442,6 +446,7 @@ const COPY: Record<LocaleKey, {
     title: 'Para onde ir com o seu cão nas férias escolares e feriados de 2027',
     intro: 'Um plano período a período do calendário escolar português 2027: para cada interrupção e cada ponte, duas ou três ideias de destinos com o seu cão, o tempo de viagem honesto a partir de Portugal, e três hotéis reais por orçamento. Uma ponte resolve-se perto de casa; uma ou duas semanas justificam ir mais longe. Temos em conta a realidade canina: o calor do verão, as proibições sazonais de praia e as regras do comboio.',
     note: 'As datas seguem o calendário escolar português 2027 e os feriados nacionais. Confirme as datas da sua escola.',
+    calTitle: 'O calendário 2027 num relance', schoolLabel: 'Férias escolares', holsLabel: 'Feriados',
     travelLabel: 'Viagem a partir de Portugal', whyLabel: 'Porquê aqui', staysLabel: 'Onde ficar, por orçamento', farLabel: 'De avião',
     tierBudget: 'Económico', tierMid: 'Gama média', tierPremium: 'Premium',
     from: 'desde', night: 'noite', petFeeNil: 'Sem taxa de animal', petFee: 'taxa animal', bookCta: 'Ver datas →', destCta: 'Guia completo →',
@@ -466,6 +471,7 @@ const COPY: Record<LocaleKey, {
     title: 'Wohin mit dem Hund in den Schulferien und an den Feiertagen 2027',
     intro: 'Ein Plan Zeitraum für Zeitraum durch den echten deutschen Schulkalender 2027: für jede Ferienzeit und jedes lange Wochenende zwei oder drei Reiseideen mit Hund, die ehrliche Reisezeit ab Deutschland und drei echte Hotels über verschiedene Budgets. Ein langes Wochenende bleibt nah; ein oder zwei Wochen lohnen die weitere Fahrt. Wir denken die Hunde-Realität mit: Sommerhitze, saisonale Strandverbote und die Bahnregeln.',
     note: 'Die Termine folgen dem deutschen Schulkalender 2027 (je nach Bundesland stark gestaffelt, besonders im Sommer) und den Feiertagen. Prüfen Sie Ihr Bundesland.',
+    calTitle: 'Der Kalender 2027 auf einen Blick', schoolLabel: 'Schulferien', holsLabel: 'Feiertage',
     travelLabel: 'Anreise ab Deutschland', whyLabel: 'Warum hier', staysLabel: 'Wo übernachten, über alle Budgets', farLabel: 'Per Flug',
     tierBudget: 'Günstig', tierMid: 'Mittelklasse', tierPremium: 'Premium',
     from: 'ab', night: 'Nacht', petFeeNil: 'Keine Haustiergebühr', petFee: 'Haustiergebühr', bookCta: 'Termine prüfen →', destCta: 'Vollständiger Stadtführer →',
@@ -527,6 +533,121 @@ function budgetTiers(slug: string): HotelRow[] {
   })
 }
 
+// A compact "2027 at a glance" block at the top of each locale: the country's
+// own school-holiday dates (by zone/region where they differ) and its public
+// holidays, researched per country for 2027.
+type CalRow = { name: string; dates: string }
+type CalHol = { name: string; date: string }
+const CAL_SUMMARY: Record<LocaleKey, { school: CalRow[]; public: CalHol[] }> = {
+  en: {
+    school: [
+      { name: 'Spring half term', dates: '15-19 Feb 2027 (varies by council)' },
+      { name: 'Easter holidays', dates: '22 Mar - 9 Apr 2027 (varies by council)' },
+      { name: 'Summer half term', dates: '31 May - 4 Jun 2027 (varies by council)' },
+      { name: 'Summer holidays', dates: '23 Jul - 3 Sep 2027 (approx, varies by council)' },
+      { name: 'Autumn half term', dates: '25-29 Oct 2027 (varies by council)' },
+      { name: 'Christmas holidays', dates: '17 Dec 2027 - 4 Jan 2028 (approx)' },
+    ],
+    public: [
+      { name: `New Year's Day`, date: 'Fri 1 Jan' },
+      { name: 'Good Friday', date: 'Fri 26 Mar' },
+      { name: 'Easter Monday', date: 'Mon 29 Mar' },
+      { name: 'Early May', date: 'Mon 3 May' },
+      { name: 'Spring bank hol', date: 'Mon 31 May' },
+      { name: 'Summer bank hol', date: 'Mon 30 Aug' },
+      { name: 'Christmas (sub)', date: 'Mon 27 Dec' },
+      { name: 'Boxing Day (sub)', date: 'Tue 28 Dec' },
+    ],
+  },
+  fr: {
+    school: [
+      { name: `Vacances d'hiver`, dates: 'Zone C 6-22 fév, Zone A 13 fév-1 mars, Zone B 20 fév-8 mars 2027' },
+      { name: 'Vacances de printemps', dates: 'Zone C 3-19 avr, Zone A 10-26 avr, Zone B 17 avr-3 mai 2027' },
+      { name: `Pont de l'Ascension`, dates: 'jeu. 6 au ven. 7 mai 2027' },
+      { name: `Vacances d'été`, dates: 'à partir du samedi 3 juillet 2027' },
+      { name: 'Vacances de la Toussaint', dates: '23 octobre au 8 novembre 2027' },
+      { name: 'Vacances de Noël', dates: '18 décembre 2027 au 3 janvier 2028' },
+    ],
+    public: [
+      { name: `Jour de l'An`, date: 'ven. 1 jan' },
+      { name: 'Lundi de Pâques', date: 'lun. 29 mars' },
+      { name: 'Fête du Travail', date: 'sam. 1 mai' },
+      { name: 'Victoire 1945', date: 'sam. 8 mai' },
+      { name: 'Ascension', date: 'jeu. 6 mai' },
+      { name: 'Lundi de Pentecôte', date: 'lun. 17 mai' },
+      { name: 'Fête nationale', date: 'mer. 14 juil' },
+      { name: 'Assomption', date: 'dim. 15 août' },
+      { name: 'Toussaint', date: 'lun. 1 nov' },
+      { name: 'Armistice 1918', date: 'jeu. 11 nov' },
+      { name: 'Noël', date: 'sam. 25 déc' },
+    ],
+  },
+  es: {
+    school: [
+      { name: 'Navidad', dates: '23 dic 2026 - 8 ene 2027 (según comunidad)' },
+      { name: 'Semana Santa', dates: '20-28 mar 2027 aprox. (según comunidad, Viernes Santo 26 mar)' },
+      { name: 'Verano', dates: 'finales de junio a mediados de septiembre 2027 (según comunidad)' },
+    ],
+    public: [
+      { name: 'Año Nuevo', date: 'vie. 1 ene' },
+      { name: 'Reyes', date: 'mié. 6 ene' },
+      { name: 'Viernes Santo', date: 'vie. 26 mar' },
+      { name: 'Trabajo', date: 'sáb. 1 may' },
+      { name: 'Asunción', date: 'dom. 15 ago' },
+      { name: 'Fiesta Nacional', date: 'mar. 12 oct' },
+      { name: 'Todos los Santos', date: 'lun. 1 nov' },
+      { name: 'Constitución', date: 'lun. 6 dic' },
+      { name: 'Inmaculada', date: 'mié. 8 dic' },
+      { name: 'Navidad', date: 'sáb. 25 dic' },
+    ],
+  },
+  pt: {
+    school: [
+      { name: 'Férias de Natal', dates: '18 dez 2026 a 3 jan 2027' },
+      { name: 'Interrupção do Carnaval', dates: '8 a 10 fev 2027' },
+      { name: 'Férias da Páscoa', dates: '22 mar a 2 abr 2027' },
+      { name: 'Férias de Verão', dates: 'final de junho a meados de setembro 2027' },
+    ],
+    public: [
+      { name: 'Ano Novo', date: 'sex. 1 jan' },
+      { name: 'Carnaval', date: 'ter. 9 fev' },
+      { name: 'Sexta-feira Santa', date: 'sex. 26 mar' },
+      { name: 'Páscoa', date: 'dom. 28 mar' },
+      { name: 'Liberdade', date: 'dom. 25 abr' },
+      { name: 'Trabalhador', date: 'sáb. 1 mai' },
+      { name: 'Corpo de Deus', date: 'qui. 27 mai' },
+      { name: 'Dia de Portugal', date: 'qui. 10 jun' },
+      { name: 'Assunção', date: 'dom. 15 ago' },
+      { name: 'Implantação da República', date: 'ter. 5 out' },
+      { name: 'Todos os Santos', date: 'seg. 1 nov' },
+      { name: 'Restauração', date: 'qua. 1 dez' },
+      { name: 'Imaculada Conceição', date: 'qua. 8 dez' },
+      { name: 'Natal', date: 'sáb. 25 dez' },
+    ],
+  },
+  de: {
+    school: [
+      { name: 'Winterferien', dates: 'nur einige Länder, meist eine Woche im Februar 2027 (gestaffelt)' },
+      { name: 'Osterferien', dates: 'je nach Bundesland Mitte März bis Mitte April 2027' },
+      { name: 'Pfingstferien', dates: 'nur einige Länder, rund um Pfingstmontag (17. Mai) 2027' },
+      { name: 'Sommerferien', dates: 'gestaffelt 28. Juni bis Mitte September 2027 (je nach Bundesland)' },
+      { name: 'Herbstferien', dates: 'je nach Bundesland Anfang Oktober bis Anfang November 2027' },
+      { name: 'Weihnachtsferien', dates: 'ca. 22./23. Dezember 2027 bis 5./6. Januar 2028' },
+    ],
+    public: [
+      { name: 'Neujahr', date: 'Fr. 1. Jan' },
+      { name: 'Karfreitag', date: 'Fr. 26. März' },
+      { name: 'Ostermontag', date: 'Mo. 29. März' },
+      { name: 'Tag der Arbeit', date: 'Sa. 1. Mai' },
+      { name: 'Christi Himmelfahrt', date: 'Do. 6. Mai' },
+      { name: 'Pfingstmontag', date: 'Mo. 17. Mai' },
+      { name: 'Deutsche Einheit', date: 'So. 3. Okt' },
+      { name: '1. Weihnachtstag', date: 'Sa. 25. Dez' },
+      { name: '2. Weihnachtstag', date: 'So. 26. Dez' },
+    ],
+  },
+}
+
 // Per-period visual identity: periods are chronological, so a season-ordered
 // palette (icy winter -> spring green -> summer amber -> autumn rose -> festive)
 // makes each block instantly distinguishable instead of one flat wall. The last
@@ -550,6 +671,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   const locale = rawLocale as string
   const t = COPY[(locale as LocaleKey)] ?? COPY.en
   const cal = CALENDARS[(locale as LocaleKey)] ?? CALENDARS.en
+  const calSum = CAL_SUMMARY[(locale as LocaleKey)] ?? CAL_SUMMARY.en
   const tierLabels = [t.tierBudget, t.tierMid, t.tierPremium]
 
   const breadcrumbSchema = {
@@ -585,6 +707,36 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
           <p className="text-xs text-sky-200/90 mt-4 max-w-2xl">{t.note}</p>
         </div>
       </section>
+
+      <div className="max-w-4xl mx-auto px-4 -mt-8 relative z-10">
+        <div className="rounded-3xl border border-stone-200 bg-white p-5 sm:p-7 shadow-lg">
+          <h2 className="text-lg sm:text-xl font-extrabold text-stone-900 mb-4 flex items-center gap-2">🗓️ {t.calTitle}</h2>
+          <div className="grid gap-6 md:grid-cols-2">
+            <div>
+              <div className="text-xs font-bold uppercase tracking-wider text-sky-700 mb-2.5">{t.schoolLabel}</div>
+              <ul className="space-y-2">
+                {calSum.school.map((s, i) => (
+                  <li key={i} className="text-sm leading-snug border-l-2 border-sky-200 pl-3">
+                    <span className="font-semibold text-stone-900">{s.name}</span>
+                    <span className="block text-stone-500 text-[13px]">{s.dates}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div>
+              <div className="text-xs font-bold uppercase tracking-wider text-rose-700 mb-2.5">{t.holsLabel}</div>
+              <div className="flex flex-wrap gap-1.5">
+                {calSum.public.map((h, i) => (
+                  <span key={i} className="inline-flex items-baseline gap-1.5 text-xs bg-stone-100 rounded-lg px-2.5 py-1.5">
+                    <span className="font-bold text-rose-700 whitespace-nowrap">{h.date}</span>
+                    <span className="text-stone-600">{h.name}</span>
+                  </span>
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <div className="max-w-4xl mx-auto px-4 py-12 space-y-10">
         {cal.periods.map((period, pi) => {

@@ -62,7 +62,7 @@ export async function generateMetadata({ params }: LayoutProps<'/[locale]'>): Pr
     openGraph: {
       siteName: 'HotelsWithPets',
       type: 'website',
-      locale: l === 'fr' ? 'fr_FR' : l === 'es' ? 'es_ES' : l === 'pt' ? 'pt_PT' : l === 'de' ? 'de_DE' : 'en_GB',
+      locale: l === 'fr' ? 'fr_FR' : l === 'es' ? 'es_ES' : l === 'pt' ? 'pt_PT' : l === 'nl' ? 'nl_NL' : l === 'de' ? 'de_DE' : 'en_GB',
     },
     twitter: {
       card: 'summary_large_image',

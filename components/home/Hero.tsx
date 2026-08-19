@@ -59,6 +59,7 @@ const HEADLINES: Record<string, { line1: string; line2: string }> = {
   es: { line1: 'De vacaciones con tu mascota,', line2: 'en los mejores hoteles.' },
   pt: { line1: 'De férias com o seu animal,', line2: 'nos melhores hotéis.' },
   de: { line1: 'Hundefreundliche Hotels,', line2: 'die Ihr bester Freund verdient.' },
+  nl: { line1: 'Hondvriendelijke hotels,', line2: 'die je beste vriend verdient.' },
 }
 
 const REVIEW: Record<string, { text: string; author: string }> = {
@@ -67,6 +68,7 @@ const REVIEW: Record<string, { text: string; author: string }> = {
   es: { text: '"Por fin un sitio que verifica las políticas reales. Sin sorpresas a la llegada."', author: 'Lucía M., Madrid' },
   pt: { text: '"Finalmente um site que verifica mesmo as políticas para animais. Sem surpresas desagradáveis à chegada."', author: 'Inês P., Lisboa' },
   de: { text: '"Endlich eine Seite, die die Haustierrichtlinien wirklich prüft. Keine bösen Überraschungen bei der Ankunft."', author: 'Anna K., Berlin' },
+  nl: { text: '"Eindelijk een site die het huisdierenbeleid echt controleert. Geen nare verrassingen bij aankomst."', author: 'Lotte V., Amsterdam' },
 }
 
 const TRUST: Record<string, string[]> = {
@@ -75,13 +77,15 @@ const TRUST: Record<string, string[]> = {
   es: ['Gratis · sin registro', 'Políticas verificadas', 'Booking.com'],
   pt: ['Grátis · sem registo', 'Políticas verificadas', 'Booking.com'],
   de: ['Kostenlos · ohne Anmeldung', 'Geprüfte Richtlinien', 'Booking.com'],
+  nl: ['Gratis · geen aanmelding', 'Geverifieerd beleid', 'Booking.com'],
 }
 
-function getCategoryName(cat: typeof categories[number] & { namePt?: string; nameDe?: string }, locale: Locale): string {
+function getCategoryName(cat: typeof categories[number] & { namePt?: string; nameDe?: string; nameNl?: string }, locale: Locale): string {
   if (locale === 'fr' && cat.nameFr) return cat.nameFr
   if (locale === 'es' && cat.nameEs) return cat.nameEs
   if (locale === 'pt' && cat.namePt) return cat.namePt
   if (locale === 'de' && cat.nameDe) return cat.nameDe
+  if (locale === 'nl' && cat.nameNl) return cat.nameNl
   return cat.name
 }
 
@@ -98,7 +102,7 @@ export default function Hero({ locale, dict }: HeroProps) {
         .slice(0, 8)
     : []
 
-  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const headlines = HEADLINES[lang]
   const review = REVIEW[lang]
   const trust = TRUST[lang]
@@ -125,13 +129,15 @@ export default function Hero({ locale, dict }: HeroProps) {
     locale === 'fr' ? 'Destinations populaires' :
     locale === 'es' ? 'Destinos populares' :
     locale === 'pt' ? 'Destinos populares' :
-    locale === 'de' ? 'Beliebte Reiseziele' : 'Popular'
+    locale === 'de' ? 'Beliebte Reiseziele' :
+    locale === 'nl' ? 'Populaire bestemmingen' : 'Popular'
 
   const filterLabel =
     locale === 'fr' ? 'Je voyage avec...' :
     locale === 'es' ? 'Viajo con...' :
     locale === 'pt' ? 'Viajo com...' :
-    locale === 'de' ? 'Ich reise mit...' : 'I\'m travelling with...'
+    locale === 'de' ? 'Ich reise mit...' :
+    locale === 'nl' ? 'Ik reis met...' : 'I\'m travelling with...'
 
   return (
     <section className="relative overflow-hidden bg-white border-b border-gray-100">
@@ -186,7 +192,7 @@ export default function Hero({ locale, dict }: HeroProps) {
             <form onSubmit={handleSearch} className="bg-white rounded-3xl shadow-xl border border-gray-100 p-7">
 
               <p className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-5">
-                {locale === 'fr' ? 'Trouvez votre séjour' : locale === 'es' ? 'Encuentra tu estancia' : locale === 'pt' ? 'Encontre a sua estadia' : locale === 'de' ? 'Finden Sie Ihren Aufenthalt' : 'Find your stay'}
+                {locale === 'fr' ? 'Trouvez votre séjour' : locale === 'es' ? 'Encuentra tu estancia' : locale === 'pt' ? 'Encontre a sua estadia' : locale === 'de' ? 'Finden Sie Ihren Aufenthalt' : locale === 'nl' ? 'Vind je verblijf' : 'Find your stay'}
               </p>
 
               {/* Destination */}

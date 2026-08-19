@@ -10616,6 +10616,32 @@ const catIntrosByLocale: Record<string, Record<string, (d: string, ctx: DestCtx,
       `"Hunde übernachten kostenlos" ist bei den unten aufgeführten Unterkünften kein reiner Werbeslogan. Es steht hinter bestätigten Richtlinien, meist ohne Ausnahmen nach Gewicht oder Rasse. In ${d}, ${ctx.personality.replace('one of ', '')}, fügt sich diese Politik natürlich in die lokale Gastfreundschaftskultur ein.`,
     ],
   },
+  nl: {
+    'dog-friendly': (d, ctx, n) => [
+      `${d} is ${ctx.personality}. Met ${n} handgekozen hondvriendelijke accommodaties op deze lijst vind je opties van budgetvriendelijke boetiekhotels tot vijfsterrensuites. Allemaal bevestigd hondvriendelijk, zonder de gebruikelijke verborgen beperkingen.`,
+      `Wat ${d} bijzonder maakt voor hondeneigenaren is de infrastructuur buiten de hotelkamer: ${ctx.highlight} zijn vanaf de hieronder genoemde accommodaties gemakkelijk te bereiken. In ${ctx.area} horen honden gewoon bij het dagelijks leven, en de hotels op deze lijst zijn juist gekozen omdat ze die cultuur actief omarmen in plaats van hem alleen maar te dulden.`,
+    ],
+    'cat-friendly': (d, ctx, n) => [
+      `Reizen met een kat is nog altijd een stuk minder gangbaar dan reizen met een hond. Maar ${d} is ${ctx.personality}, en de horeca begint dat steeds meer te weerspiegelen. Deze ${n} katvriendelijke hotels zijn geselecteerd omdat ze verder gaan dan een schoorvoetend beleid en katten actief verwelkomen.`,
+      `Kattenbezitters die ${d} bezoeken, waarderen aan de hotels hieronder de rustige kamers, de makkelijke gelijkvloerse of liftgebonden toegang en personeel dat getraind is om de check-in met een reismand soepel te laten verlopen. De beste hotels bieden dekens en afgeschermde kattenbakruimtes zonder dat je erom hoeft te vragen.`,
+    ],
+    'beach-access': (d, ctx, n) => [
+      `Strandtoegang combineren met een huisdiervriendelijk verblijf is lastiger dan het klinkt: niet elk kusthotel laat honden toe, en veel stranden beperken de toegang voor honden per seizoen. Deze ${n} accommodaties in ${d} vormen de uitzondering. Bevestigd voor zowel strandnabijheid als een echt warm welkom voor je huisdier.`,
+      `De kust van ${d}. Inclusief ${ctx.highlight}. Is het meest huisdiervriendelijk in de lente (april-mei) en herfst (september-oktober), wanneer seizoensgebonden hondenbeperkingen op veel stranden worden opgeheven. De hotels hieronder zijn niet alleen gekozen om hun nabijheid tot zee, maar ook om voorzieningen zoals buitendouches, beschaduwde terrassen en personeel dat de lokale hondvriendelijke strandplekken kent.`,
+    ],
+    'near-parks': (d, ctx, n) => [
+      `Een hotel dicht bij groen verandert een stedentrip met hond volledig. Deze ${n} accommodaties in ${d} liggen allemaal op comfortabele loopafstand van ${ctx.highlight}. Zo worden ochtend- en avondwandelingen een genoegen in plaats van een logistieke puzzel.`,
+      `In ${ctx.area} is groen stevig verweven met het stadsleven. De hotels op deze lijst zijn specifiek gekozen om hun loopafstand tot loslooplocaties, met bomen omzoomde paden en de buurtsfeer die een stedentrip met hond echt aangenaam maakt.`,
+    ],
+    'luxury': (d, ctx, n) => [
+      `Vijfsterren gastvrijheid en een huisdiervriendelijk beleid kwamen vroeger zelden in dezelfde zin voor. ${d} verandert dat. Deze ${n} luxehotels gaan ver voorbij een simpele clausule "kleine huisdieren toegestaan" en bieden jou en je huisdier een echte high-end ervaring: welkomstpakketten, huisdierbedden op de kamer, lekkernijen bij het opmaken van het bed en uitlaatservice via de conciërge.`,
+      `Verblijven in een van de luxueuze huisdiervriendelijke hotels van ${d} betekent dat je het beste van ${ctx.area} beleeft vanuit een basis die jouw huisdier als een waardevolle gast behandelt. Meerdere hotels hieronder hebben eigen menu's voor huisdieren, en allemaal kunnen ze op verzoek reserveringen regelen bij lokale huisdiervriendelijke restaurants.`,
+    ],
+    'dogs-stay-free': (d, ctx, n) => [
+      `Huisdiertoeslagen kunnen 15-50 € per nacht aan je hotelrekening toevoegen. Een flink bedrag over een week bekeken. Deze ${n} hotels in ${d} hebben die kosten volledig geschrapt: jouw hond verblijft gratis, zonder verborgen schoonmaakkosten of borgsom.`,
+      `"Honden verblijven gratis" is bij de hotels hieronder geen loze marketingtekst. Het staat vast in bevestigd beleid, meestal zonder uitzonderingen op basis van gewicht of ras. In ${d}, ${ctx.personality.replace('one of ', '')}, past dit beleid van nature bij de lokale gastvrijheidscultuur.`,
+    ],
+  },
 }
 
 // ─── Intros ──────────────────────────────────────────────────────────────────
@@ -10627,7 +10653,7 @@ export function generateIntro(
   hotelCount: number,
   locale: string = 'en'
 ): string[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const ctxMap = destContextByLocale[l] ?? destContextByLocale['en']
   const ctx = ctxMap[destSlug] ?? {
     personality: 'a popular European destination',
@@ -10655,6 +10681,12 @@ export function generateIntro(
         `Alle Hotels auf dieser Liste akzeptieren Haustiere mit minimalen Einschränkungen. Wir empfehlen, die Details Ihres Haustiers (Größe, Rasse, Anzahl der Tiere) bei der Buchung direkt mit dem Hotel zu bestätigen.`,
       ]
     }
+    if (l === 'nl') {
+      return [
+        `${destName} heeft een groeiend aanbod aan huisdiervriendelijke hotels. Deze ${hotelCount} hotels zijn met zorg geselecteerd om hun oprechte welkom voor dieren, bevestigd huisdierbeleid en goede gastbeoordelingen.`,
+        `Alle hotels op deze lijst accepteren huisdieren met minimale beperkingen. We raden aan om de details van jouw huisdier (grootte, ras, aantal dieren) bij het boeken rechtstreeks met het hotel te bevestigen.`,
+      ]
+    }
     return [
       `${destName} has a growing selection of pet-friendly hotels. These ${hotelCount} properties have been handpicked for their genuine welcome to animals, confirmed pet policies, and guest satisfaction scores.`,
       `All hotels on this list accept pets with minimal restrictions. We recommend confirming your specific pet's details (size, breed, number of animals) directly with the property when booking.`,
@@ -10678,12 +10710,13 @@ export function generateFaqs(
   hotels: Array<{ name: string; petFee: number; petPolicy: string; stars: number }>,
   locale: string = 'en'
 ): Faq[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const { free } = petFeeStats(hotels)
   const topHotel = hotels[0]?.name ?? (
     l === 'fr' ? 'l\'hôtel le mieux noté' :
     l === 'es' ? 'el hotel mejor valorado' :
     l === 'de' ? 'das bestbewertete Hotel' :
+    l === 'nl' ? 'het best beoordeelde hotel' :
     'the top-rated hotel'
   )
 
@@ -10800,6 +10833,66 @@ export function generateFaqs(
       'near-parks': {
         q: `Sind die Parks in der Nähe dieser Hotels für Hunde ohne Leine geeignet?`,
         a: `Die meisten zu Fuß erreichbaren Parks von den Hotels auf dieser Liste haben ausgewiesene Freilaufzonen, auch wenn die Regeln je nach Tageszeit und Bereich variieren. Das Empfangspersonal aller gelisteten Hotels kann eine aktuelle Karte der hundefreundlichen Parks bereitstellen. Tragen Sie auch in Freilaufzonen immer eine Leine bei sich, da manche Bereiche auch von Familien mit kleinen Kindern genutzt werden.`,
+      },
+    }
+
+    if (extra[catSlug]) base.push(extra[catSlug])
+    return base
+  }
+
+  if (l === 'nl') {
+    const freeNote =
+      free > 0
+        ? `${free} van de ${hotels.length} hotels op deze lijst rekenen helemaal geen huisdiertoeslag.`
+        : 'De meeste hotels rekenen een kleine schoonmaakkosten van 10 tot 30 € per verblijf.'
+
+    const base: Faq[] = [
+      {
+        q: `Zijn ${catName.toLowerCase()} hotels makkelijk te vinden in ${destName}?`,
+        a: `Ja: ${destName} heeft een ruim aanbod aan echt ${catName.toLowerCase()} accommodaties. De ${hotels.length} hotels op deze pagina zijn gecontroleerd en accepteren huisdieren met expliciet beleid, niet alleen vage toezeggingen. Huisdiervriendelijke kamers zijn in het hoogseizoen echter snel volgeboekt, dus minstens 6 tot 8 weken van tevoren boeken is aan te raden.`,
+      },
+      {
+        q: `Wat is de gebruikelijke huisdiertoeslag in hotels in ${destName}?`,
+        a: `${freeNote} De kosten variëren van 0 tot 50 € afhankelijk van de categorie van het hotel en het type huisdier. Controleer bij het boeken altijd het exacte bedrag in het huisdierbeleid van het hotel. Soms wordt de toeslag per nacht in plaats van per verblijf berekend.`,
+      },
+      {
+        q: `Wat is de gebruikelijke gewichtslimiet in hotels in ${destName}?`,
+        a: `De meeste hotels in ${destName} hanteren een maximumgewicht van 15 tot 25 kg. Sommige hotels, waaronder ${topHotel}, accepteren honden zonder gewichtsbeperking. Het individuele huisdierbeleid op elke kaart hierboven geeft de details; bevestig altijd bij het hotel als je hond meer dan 20 kg weegt.`,
+      },
+      {
+        q: `Kan ik mijn huisdier alleen achterlaten in mijn hotelkamer in ${destName}?`,
+        a: `Het beleid verschilt per hotel. Sommige hotels staan toe dat je huisdier alleen op de kamer blijft (vaak met een bench), andere vereisen dat de eigenaar altijd aanwezig is. Het veiligst is om rechtstreeks naar het hotel te bellen. Het personeel kan meestal lokale huisdieroppasdiensten aanbevelen als dat nodig is.`,
+      },
+      {
+        q: `Wanneer is de beste tijd om ${destName} met een huisdier te bezoeken?`,
+        a: `Lente (april tot mei) en vroege herfst (september tot oktober) zijn ideaal. De temperaturen zijn mild, minder toeristen betekent rustigere straten en parken, en de meeste hotels zitten nog niet op piekbezetting. De zomer kan erg heet zijn in ${destName}, wat zwaar is voor dieren, en het aanbod aan huisdiervriendelijke kamers krimpt in juli en augustus flink.`,
+      },
+      {
+        q: `Wat is het beste seizoen om ${destName} met een hond te bezoeken?`,
+        a: `Voor ${catName.toLowerCase()} verblijven in ${destName} bieden lente (maart tot mei) en herfst (september tot november) de beste omstandigheden. De temperaturen zijn aangenaam voor wandelingen, de parken zijn minder druk en hotels bieden buiten het hoogseizoen vaak betere prijzen. Let 's zomers op grote hitte, die zwaar kan zijn voor honden, vooral voor kortsnuitige rassen.`,
+      },
+      {
+        q: `Welke buurt in ${destName} is het beste voor ${catName.toLowerCase()} hotels?`,
+        a: `De keuze van de buurt hangt af van jouw reisstijl. Centrale buurten bieden makkelijke toegang tot restaurants en musea, maar kunnen luidruchtig zijn. Woonwijken of buurten bij parken zijn meestal beter geschikt voor huisdieren, met meer groen in de buurt. De hotels op deze lijst zijn ook geselecteerd om hun praktische ligging voor huisdiereigenaren. Bekijk de kaart hierboven om de locaties te vergelijken.`,
+      },
+    ]
+
+    const extra: Record<string, Faq> = {
+      'beach-access': {
+        q: `Mogen honden op de stranden van ${destName}?`,
+        a: `Hondentoegang tot stranden in ${destName} verschilt per strand en per seizoen. Veel Europese stranden staan honden toe in het laagseizoen (lente en herfst), maar hanteren strenge beperkingen van juni tot september in het hoogseizoen. Buiten het zomerseizoen zijn de toegangstijden vaak flexibeler (voor 9 uur en na 19 uur in de zomer). Hotels met directe strandtoegang kunnen je adviseren over de beste tijden en plekken voor honden. Vraag bij het inchecken altijd naar een actuele kaart met hondvriendelijke stranden.`,
+      },
+      'dogs-stay-free': {
+        q: `Betekent "honden verblijven gratis" ook geen borgsom?`,
+        a: `In de meeste gevallen wel. Hotels die geen huisdiertoeslag vermelden, vragen meestal ook geen borgsom. Het hotel kan echter nog steeds kosten in rekening brengen voor aantoonbare schade door je huisdier. Lees het volledige huisdierbeleid altijd zorgvuldig door en bewaar een kopie van je boekingsbevestiging met het gratis beleid.`,
+      },
+      'luxury': {
+        q: `Welke luxevoorzieningen kan ik verwachten voor mijn huisdier in de hotels van ${destName}?`,
+        a: `Topklasse hotels in ${destName} hebben de lat flink hoger gelegd. Denk aan welkomstpakketten (mand, bak, snacks, speeltje), in-room menu's voor huisdieren, uitlaatservice via de conciërge en avondlijke aandacht. Sommige hotels bieden huisdiervriendelijke spa-arrangementen aan of kunnen dierenartsbezoeken regelen. ${topHotel} staat vooral bekend om zijn huisdiervoorzieningen. Controleer het exacte aanbod bij het boeken.`,
+      },
+      'near-parks': {
+        q: `Zijn de parken bij deze hotels geschikt voor honden zonder lijn?`,
+        a: `De meeste parken die je vanaf de hotels op deze lijst kunt bereiken, hebben aangewezen losloopzones, al verschillen de regels per tijdstip en zone. De receptie van alle vermelde hotels kan een actuele kaart van hondvriendelijke parken verstrekken. Draag ook in losloopzones altijd een lijn bij je, want sommige gebieden worden ook gebruikt door gezinnen met kleine kinderen.`,
       },
     }
 
@@ -11150,6 +11243,50 @@ const catTipsByLocale: Record<string, Record<string, Tip[]>> = {
       { n: 5, title: 'Hinterlassen Sie eine ausführliche Bewertung mit Erwähnung der Haustierrichtlinie', text: 'Nach Ihrem Aufenthalt hilft eine konkrete Bewertung, die das hundefreundliche Erlebnis erwähnt, zukünftigen Haustierbesitzern bei einer sicheren Entscheidung. Und sie ermutigt Hotels, ihre Richtlinien beizubehalten oder zu verbessern.' },
     ],
   },
+  nl: {
+    'dog-friendly': [
+      { n: 1, title: 'Boek het specifieke kamertype voor huisdieren', text: 'Niet elke kamer in een hondvriendelijk hotel accepteert huisdieren. Vraag bij het boeken specifiek naar het "huisdiervriendelijke" kamertype. Die heeft meestal makkelijke toegang naar buiten en harde vloeren in plaats van vloerbedekking.' },
+      { n: 2, title: 'Controleer de gewichtslimiet voor je aankomst', text: 'Hotels geven vaak een maximaal hondengewicht op (10, 20 of 25 kg). Zit je hond op de grens, bel dan vooraf. Het beleid is soms flexibel, vooral buiten het hoogseizoen.' },
+      { n: 3, title: 'Vraag naar lokale uitlaattips', text: 'Het conciërgepersoneel van de hotels op deze lijst weet precies welke parken loslooplocaties zijn, welke cafés waterbakjes buiten zetten en welke straten het rustigst zijn voor angstige honden.' },
+      { n: 4, title: 'Neem een EU-dierenpaspoort mee voor grensovergangen', text: 'Reis je met de auto naar je bestemming, dan is een EU-dierenpaspoort verplicht om grenzen over te steken. Zorg dat de rabiësvaccinatie minstens 21 dagen voor vertrek up-to-date is.' },
+      { n: 5, title: 'Bevestig het beleid per e-mail', text: 'Stuur na het boeken een kort mailtje met naam, ras en gewicht van je hond. Dat geeft je een schriftelijk bewijs en voorkomt onduidelijkheid bij het inchecken.' },
+    ],
+    'cat-friendly': [
+      { n: 1, title: 'Vraag om een rustige kamer, weg van straatlawaai', text: 'Katten zijn gevoelig voor lawaai. Vraag om een kamer aan een binnenplaats of op een hogere verdieping. Hoe minder straatverkeer en liftlawaai, hoe rustiger jouw kat blijft.' },
+      { n: 2, title: 'Houd je kat tijdens het inchecken in de reismand', text: 'Een drukke hotellobby kan overweldigend zijn. Houd je kat veilig totdat je op de kamer bent. De meeste hotels brengen je snel naar de lift zodra je bij aankomst vermeldt dat je een kat bij je hebt.' },
+      { n: 3, title: 'Neem vertrouwde geurtjes van thuis mee', text: 'Een deken of speeltje van thuis vermindert de stress in een nieuwe omgeving aanzienlijk. De vertrouwde geur helpt katten binnen enkele uren te wennen in plaats van dagen.' },
+      { n: 4, title: 'Dicht eerst alle kieren en verstop mogelijke ontsnappingsroutes', text: 'Voordat je je kat uit de reismand laat, sluit je ramen, kijk je achter zware meubels en plak je eventuele ventilatiespleten af. Een grondige controle van tien minuten voorkomt ontsnappingen.' },
+      { n: 5, title: 'Vraag de housekeeping om te kloppen en te wachten', text: 'Vraag de receptie je kamer te markeren, zodat housekeeping hard klopt en wacht voordat ze binnenkomen. Dit voorkomt dat je kat per ongeluk via een openstaande deur ontsnapt.' },
+    ],
+    'beach-access': [
+      { n: 1, title: 'Check van tevoren de strandregels voor honden', text: 'Veel Europese stranden verbieden honden van juni tot september, of beperken de toegangstijden tot voor 9 uur en na 19 uur. Vraag het hotel om een actuele kaart met hondvriendelijke strandtoegang.' },
+      { n: 2, title: 'Spoel je hond af na het zeewater', text: 'Zout water irriteert bij herhaalde blootstelling de pootjes en de huid. De meeste hotels met strandtoegang op deze lijst hebben buitendouches. Gebruik ze na elke duik en droog de pootjes goed af.' },
+      { n: 3, title: 'Let \'s zomers op de hitte van het zand', text: 'Droog zand kan \'s zomers 50-60°C worden en de voetzolen flink verbranden. Test met je eigen handpalm voordat je je hond over onbeschaduwd zand laat lopen.' },
+      { n: 4, title: 'Neem schaduw mee', text: 'Zelfs op huisdiervriendelijke stranden zijn parasols zelden te huur. Een draagbare strandschaduw of een geleende parasol van het hotel houdt je hond langer comfortabel op het strand.' },
+      { n: 5, title: 'Zorg dat er altijd zoet water beschikbaar is', text: 'Zout water maakt honden dorstig en kan bij grote hoeveelheden braken veroorzaken. Neem een opvouwbare bak mee en minstens 1,5 liter zoet water per dag voor op het strand.' },
+    ],
+    'near-parks': [
+      { n: 1, title: 'Vraag om de wandelroutekaart van het hotel', text: 'De beste hondvriendelijke hotels bij parken hebben de losloopzones, watervulpunten en hondvriendelijke caféterrasjes in de buurt in kaart gebracht. Vraag ernaar bij het inchecken.' },
+      { n: 2, title: 'Ga er vroeg op uit voor de beste parkervaring', text: 'Parken zijn het rustigst voor 9 uur \'s ochtends. Minder fietsers, minder kinderen en meer ruimte. Vroege ochtenden zijn \'s zomers ook koeler en beter voor energieke rassen.' },
+      { n: 3, title: 'Ken de losloopregels van het park', text: 'De losloopregels verschillen per zone binnen hetzelfde park. Let op borden of vraag het hotel. Word je zonder lijn betrapt in een aanlijnzone, dan kan dat in sommige steden een boete opleveren.' },
+      { n: 4, title: 'Pak opvouwbare voer- en waterbakjes in', text: 'Lichte siliconen bakjes wegen bijna niets en maken parkstops comfortabel voor je hond, zonder dat je zwaar spul hoeft te sjouwen.' },
+      { n: 5, title: 'Zoek de dichtstbijzijnde dierenarts bij je hotel', text: 'Vraag het hotel de dichtstbijzijnde 24-uursdierenkliniek te noteren. De meeste mensen hebben hem nooit nodig, maar het adres kennen neemt de paniek weg mocht er toch iets gebeuren.' },
+    ],
+    'luxury': [
+      { n: 1, title: 'Vraag vooraf om het welkomstpakket voor huisdieren', text: 'De meeste luxehotels bieden welkomstpakketten (mand, bak, snacks, speeltje), maar de voorraad is beperkt. Vraag er een aan bij het bevestigen van je boeking. Niet pas bij aankomst. Om de beschikbaarheid te garanderen.' },
+      { n: 2, title: 'Vraag naar de huisdier-conciërgeservice', text: 'Meerdere vijfsterrenhotels op deze lijst hebben een eigen huisdier-conciërge: uitlaatservice, in-room menu\'s voor huisdieren, trimafspraken en zelfs doorverwijzingen naar een dierenarts. Vraag voor aankomst wat er precies bij inbegrepen zit.' },
+      { n: 3, title: 'Boek een huisdiervriendelijke suite in plaats van een standaardkamer', text: 'Luxesuites hebben vaak betere geluidsisolatie, meer vloeroppervlak voor je huisdier om te bewegen en een privéterras. De upgrade is de moeite waard bij een verblijf van meerdere nachten met een dier.' },
+      { n: 4, title: 'Bevestig het spa-beleid', text: 'De meeste luxehotels verlangen dat je huisdier op de kamer blijft terwijl je de spafaciliteiten gebruikt. Vraag naar oppasmogelijkheden. Veel hotels kunnen een uitlaatservice regelen die samenvalt met je behandeling.' },
+      { n: 5, title: 'Geef een fooi aan het huisdierbewuste personeel', text: 'De housekeeper die extra moeite doet om een slapende kat niet te storen, en de piccolo die je hond naar de lift brengt. Kleine fooien dragen flink bij aan uitzonderlijke huisdiervriendelijke service tijdens je hele verblijf.' },
+    ],
+    'dogs-stay-free': [
+      { n: 1, title: 'Laat de kosteloosheid schriftelijk bevestigen', text: 'Boek rechtstreeks bij het hotel of via Booking.com en zorg dat de bevestigingsmail duidelijk "geen huisdiertoeslag" vermeldt. Screenshots van het beleid op het moment van boeken zijn handig bij een geschil bij het uitchecken.' },
+      { n: 2, title: 'Begrijp wat "gratis" precies dekt', text: '"Honden verblijven gratis" betekent geen verblijfstoeslag. Niet dat schade gratis is. Hotels kunnen nog steeds kosten in rekening brengen voor aantoonbare schade door je huisdier (bekraste deuren, bevuild tapijt). Een verantwoord verblijf beschermt iedereen.' },
+      { n: 3, title: 'Neem je eigen hondenmand of deken mee', text: 'Zelfs gratis hotels bieden niet altijd een hondenmand. Een vertrouwde deken van thuis meenemen houdt je hond comfortabel en beschermt het hotelmeubilair tegen haren en pootafdrukken.' },
+      { n: 4, title: 'Vergelijk de kosten per verblijf over meerdere nachten', text: 'Een hotel met een toeslag van 20 €/verblijf kan goedkoper zijn dan een "honden verblijven gratis"-hotel als de basiskamerprijs veel lager ligt. Vergelijk altijd de totale kosten over de duur van je verblijf.' },
+      { n: 5, title: 'Laat een uitgebreide review achter met vermelding van het huisdierbeleid', text: 'Na je verblijf helpt een concrete review die de hondvriendelijke ervaring noemt, toekomstige huisdiereigenaren om met vertrouwen te kiezen. En het moedigt hotels aan hun beleid te behouden of te verbeteren.' },
+    ],
+  },
 }
 
 // ─── Why Section ─────────────────────────────────────────────────────────────
@@ -11200,6 +11337,14 @@ const catBullet3: Record<string, Record<string, (d: string, ctx: DestCtx) => str
     'luxury':         (d, ctx) => `Luxusunterkünfte in ${ctx.area} haben umfassende Concierge-Pakete für Haustiere entwickelt. Willkommenssets, Speisekarten fürs Zimmer und Buchung von Gassi-Service. Weil ihre Gäste es verlangt haben.`,
     'dogs-stay-free': (d) =>      `Die gebührenfreien Richtlinien hier sind bestätigt und gelten ganzjährig. Keine saisonalen Aktionen oder Gewichtsbeschränkungen. Das macht ${d} zu einem zuverlässig kostengünstigen Reiseziel für Haustierbesitzer.`,
   },
+  nl: {
+    'dog-friendly':   (d, ctx) => `De hotels voor deze gids zijn specifiek gekozen in ${ctx.area}, waar de infrastructuur voor huisdieren het dichtst is en lokale restaurants standaard waterbakjes en terrastoegang bieden.`,
+    'cat-friendly':   (d) =>      `Katvriendelijke kamers in ${d} zijn meestal rustigere eenheden op hogere verdiepingen met betrouwbare liftoegang. Belangrijke kenmerken die je kat de hele reis rustig houden.`,
+    'beach-access':   (_d) =>     `De huisdiervriendelijke strandplekken bij deze hotels zijn op redelijke tijden toegankelijk. Geen wekker om 6 uur nodig. Het grootste deel van het jaar, wat het plannen makkelijk maakt.`,
+    'near-parks':     (d, ctx) => `De hotels op deze lijst liggen allemaal op minder dan 10 minuten lopen van losloopzones in ${ctx.highlight}. Geen drukke straten oversteken, geen logistiek gedoe voor de ochtendwandeling.`,
+    'luxury':         (d, ctx) => `Luxeaccommodaties in ${ctx.area} hebben volledige conciërgepakketten voor huisdieren ontwikkeld. Welkomstpakketten, in-room menu's en boekingen voor uitlaatservice. Omdat hun gasten erom vroegen.`,
+    'dogs-stay-free': (d) =>      `Het gratis beleid hier is bevestigd en geldt het hele jaar door. Geen seizoensacties of gewichtsbeperkingen. Dat maakt ${d} tot een betrouwbaar voordelige bestemming voor huisdiereigenaren.`,
+  },
 }
 
 const bestSeasonByLocale: Record<string, Record<string, string>> = {
@@ -11223,6 +11368,10 @@ const bestSeasonByLocale: Record<string, Record<string, string>> = {
     'dog-friendly': 'Frühling & Herbst', 'cat-friendly': 'ganzjährig', 'beach-access': 'Frühling & früher Herbst',
     'near-parks': 'Frühling & Herbst', 'luxury': 'ganzjährig', 'dogs-stay-free': 'ganzjährig',
   },
+  nl: {
+    'dog-friendly': 'lente & herfst', 'cat-friendly': 'het hele jaar door', 'beach-access': 'lente & vroege herfst',
+    'near-parks': 'lente & herfst', 'luxury': 'het hele jaar door', 'dogs-stay-free': 'het hele jaar door',
+  },
 }
 
 export function generateWhy(
@@ -11231,11 +11380,11 @@ export function generateWhy(
   catSlug: string,
   locale: string = 'en'
 ): WhySection {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const ctx = (destContextByLocale[l] ?? destContextByLocale['en'])[destSlug] ?? {
-    personality: l === 'fr' ? 'une destination européenne populaire' : l === 'es' ? 'un destino europeo popular' : l === 'de' ? 'ein beliebtes europäisches Reiseziel' : 'a popular European destination',
-    highlight: l === 'fr' ? 'les espaces verts locaux' : l === 'es' ? 'los espacios verdes locales' : l === 'de' ? 'lokale Parks und Grünflächen' : 'local parks and green spaces',
-    area: l === 'fr' ? 'le centre-ville' : l === 'es' ? 'el centro de la ciudad' : l === 'de' ? 'das Stadtzentrum' : 'the city centre',
+    personality: l === 'fr' ? 'une destination européenne populaire' : l === 'es' ? 'un destino europeo popular' : l === 'de' ? 'ein beliebtes europäisches Reiseziel' : l === 'nl' ? 'een populaire Europese bestemming' : 'a popular European destination',
+    highlight: l === 'fr' ? 'les espaces verts locaux' : l === 'es' ? 'los espacios verdes locales' : l === 'de' ? 'lokale Parks und Grünflächen' : l === 'nl' ? 'lokale parken en groene ruimtes' : 'local parks and green spaces',
+    area: l === 'fr' ? 'le centre-ville' : l === 'es' ? 'el centro de la ciudad' : l === 'de' ? 'das Stadtzentrum' : l === 'nl' ? 'het stadscentrum' : 'the city centre',
   }
 
   const bullet3fn = (catBullet3[l] ?? catBullet3['en'])[catSlug]
@@ -11247,7 +11396,9 @@ export function generateWhy(
         ? `La política pet-friendly de estos hoteles ha sido verificada individualmente. Sin sorpresas en el check-in.`
         : l === 'de'
           ? `Die Haustierrichtlinie jedes Hotels auf dieser Liste wurde einzeln geprüft. Keine Überraschungen beim Check-in.`
-          : `Pet policies at every hotel on this list have been verified individually. No surprises at check-in.`
+          : l === 'nl'
+            ? `Het huisdierbeleid van elk hotel op deze lijst is afzonderlijk gecontroleerd. Geen verrassingen bij het inchecken.`
+            : `Pet policies at every hotel on this list have been verified individually. No surprises at check-in.`
 
   const bullets =
     l === 'fr'
@@ -11268,14 +11419,20 @@ export function generateWhy(
               `${destName} ist ${ctx.personality}; Tiere gehören hier ganz selbstverständlich zum Straßenleben, zu Caféterrassen und Geschäften vor Ort.`,
               bullet3,
             ]
-          : [
+          : l === 'nl'
+            ? [
+                `In ${destName} zijn ${ctx.highlight} vanaf elk hotel op deze lijst te bereiken, ideaal voor uitstapjes in de ochtend en avond.`,
+                `${destName} is ${ctx.personality}; huisdieren horen hier gewoon bij het straatleven, de caféterrasjes en de lokale winkels.`,
+                bullet3,
+              ]
+            : [
             `In ${destName}, ${ctx.highlight} are within reach of every hotel on this list, good for morning and evening outings.`,
             `${destName} is ${ctx.personality}, pets are a normal part of street life, café terraces, and local shops.`,
             bullet3,
           ]
 
   const bestSeason = (bestSeasonByLocale[l] ?? bestSeasonByLocale['en'])[catSlug] ?? (
-    l === 'fr' ? 'printemps & automne' : l === 'es' ? 'primavera & otoño' : l === 'de' ? 'Frühling & Herbst' : 'spring & autumn'
+    l === 'fr' ? 'printemps & automne' : l === 'es' ? 'primavera & otoño' : l === 'de' ? 'Frühling & Herbst' : l === 'nl' ? 'lente & herfst' : 'spring & autumn'
   )
 
   return { bullets, bestSeason }
@@ -11330,6 +11487,14 @@ const testimonialsByLocale: Record<string, Record<string, (d: string) => Testimo
     'luxury':         (d) => ({ emoji: '✨', text: `Wir haben uns für unser Jubiläum eines der luxuriösen haustierfreundlichen Hotels in ${d} gegönnt. Das Hotel hatte für unseren Spaniel ein Willkommensset vorbereitet. Ein richtiges Bett, einen Keramiknapf und echte Hundekekse aus einer örtlichen Bäckerei. Der Concierge ist mit ihm Gassi gegangen, während wir im Spa waren. Jeden Euro wert.`, attribution: ' Verifizierte Bewertung, Luxusgast' }),
     'dogs-stay-free': (d) => ({ emoji: '🎉', text: `Ich habe Städtereisen mit Bruno wegen der sich summierenden Haustiergebühren gemieden. Sie summieren sich auf 200 € und mehr für eine Woche. Der Aufenthalt in einem bestätigt gebührenfreien Hotel in ${d} hat diese Hürde komplett beseitigt. Gleiche Qualität, deutlich besseres Preis-Leistungs-Verhältnis. Jetzt unser Standardansatz bei der Buchung.`, attribution: ' Verifizierte Bewertung, gebührenfreier Aufenthalt' }),
   },
+  nl: {
+    'dog-friendly':   (d) => ({ emoji: '🐕', text: `We brachten vijf nachten door in ${d} met onze Labrador van 30 kg, Max. Een hotel vinden dat hem echt welkom heette. Niet alleen "toestond". Maakte de hele vakantie. De conciërge had bij het inchecken al een kaart van lokale parken klaarliggen en wist precies welke cafés waterbakjes buiten zetten. We hebben al weer geboekt voor de lente.`, attribution: ' Geverifieerde reiziger, hondvriendelijk verblijf' }),
+    'cat-friendly':   (d) => ({ emoji: '🐈', text: `Ik was best zenuwachtig om Simone (mijn Bengaal) mee te nemen naar een stadshotel. Het personeel in ${d} was geweldig. Ze hadden een hoekje van de kamer klaargemaakt met ruimte voor een kattenbak en opgevouwen handdoeken om de kieren bij de radiator af te dichten. Ze was binnen twee uur op haar gemak. Ik zou zonder aarzelen teruggaan.`, attribution: ' Geverifieerde review, kattenbezitter' }),
+    'beach-access':   (d) => ({ emoji: '🏖️', text: `We kozen bewust voor ${d} omdat het hotel op vijf minuten van een hondvriendelijk strandstuk lag. Onze Vizsla bracht elke dag vier uur in zee door en het hotel had buitendouches, zodat we nooit zand door de lobby sleepten. De perfecte combinatie. We komen elke zomer terug.`, attribution: ' Geverifieerde review, strandverblijf' }),
+    'near-parks':     (d) => ({ emoji: '🌳', text: `Wat mij overtuigde van ${d} was de nabijheid. We stonden binnen zes minuten na het verlaten van de hotelkamer al in het park. Onze windhond uit het asiel heeft lange, rustige wandelingen nodig en de losloopzones in de buurt waren ideaal. Het personeel kende elke goede route zonder dat we ernaar hoefden te vragen. Echt hondvriendelijk denken.`, attribution: ' Geverifieerde review, parkverblijf' }),
+    'luxury':         (d) => ({ emoji: '✨', text: `We trakteerden onszelf op een van de luxe huisdiervriendelijke hotels van ${d} voor onze trouwdag. Het hotel had een welkomstpakket voor onze Spaniël klaargemaakt. Een echte mand, een keramische bak en echte hondenkoekjes van een lokale bakkerij. De conciërge liet hem uit terwijl wij in de spa waren. Elke euro waard.`, attribution: ' Geverifieerde review, luxegast' }),
+    'dogs-stay-free': (d) => ({ emoji: '🎉', text: `Ik vermeed stedentrips met Bruno vanwege de opgetelde huisdiertoeslagen. Ze lopen op tot 200 € en meer voor een weekverblijf. Verblijven in een bevestigd gratis hotel in ${d} nam die drempel volledig weg. Dezelfde kwaliteit, veel betere prijs-kwaliteitverhouding. Nu onze standaardaanpak bij het boeken.`, attribution: ' Geverifieerde review, gratis verblijf' }),
+  },
 }
 
 export function generateTestimonial(
@@ -11337,13 +11502,13 @@ export function generateTestimonial(
   catSlug: string,
   locale: string = 'en'
 ): Testimonial | null {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const fn = (testimonialsByLocale[l] ?? testimonialsByLocale['en'])[catSlug]
   return fn ? fn(destName) : null
 }
 
 export function generateTips(catSlug: string, destName: string, locale: string = 'en'): Tip[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const tipsMap = catTipsByLocale[l] ?? catTipsByLocale['en']
   const tips = tipsMap[catSlug]
   if (tips) return tips
@@ -11376,6 +11541,15 @@ export function generateTips(catSlug: string, destName: string, locale: string =
       { n: 5, title: 'Nach dem Aufenthalt eine Bewertung hinterlassen', text: 'Ausführliche Bewertungen von Haustierbesitzern helfen künftigen Reisenden, wirklich einladende Hotels zu finden, und ermutigen die Häuser, hohe Standards zu halten.' },
     ]
   }
+  if (l === 'nl') {
+    return [
+      { n: 1, title: 'Boek vroeg', text: `Huisdiervriendelijke kamers in ${destName} zijn beperkt en in het hoogseizoen snel volgeboekt. 6 tot 8 weken van tevoren boeken is aan te raden.` },
+      { n: 2, title: 'Bevestig het huisdierbeleid rechtstreeks', text: 'Ook na het boeken zorgt een kort mailtje of belletje om de details van jouw huisdier te bevestigen voor een soepele check-in.' },
+      { n: 3, title: 'Pak het essentiële in', text: 'Vaccinatiebewijzen, een EU-dierenpaspoort voor grensovergangen, eten voor onderweg en een vertrouwde deken van thuis.' },
+      { n: 4, title: 'Vraag naar lokale huisdierdiensten', text: 'Het conciërgepersoneel kan lokale dierenartsen, hondenuitlaters, trimsalons en hondvriendelijke restaurantterrasjes aanbevelen.' },
+      { n: 5, title: 'Laat na je verblijf een review achter', text: 'Uitgebreide reviews van huisdiereigenaren helpen toekomstige reizigers om echt gastvrije hotels te vinden, en moedigen hotels aan om hoge standaarden te behouden.' },
+    ]
+  }
   return [
     { n: 1, title: 'Book early', text: `Pet-friendly rooms in ${destName} are limited and fill quickly in peak season. Booking 6–8 weeks ahead is advisable.` },
     { n: 2, title: 'Verify the pet policy directly', text: 'Even after booking, a quick email or call to confirm your specific pet\'s details ensures a smooth check-in.' },
@@ -11403,9 +11577,9 @@ export function generateDestFaqs(
   hotelCount: number,
   locale: string = 'en'
 ): Faq[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const ctx = (destContextByLocale[l] ?? destContextByLocale['en'])[destSlug]
-  const highlight = ctx?.highlight ?? (l === 'fr' ? 'ses parcs et espaces verts' : l === 'es' ? 'sus parques y espacios verdes' : l === 'de' ? 'seine Parks und Grünflächen' : 'its parks and green spaces')
+  const highlight = ctx?.highlight ?? (l === 'fr' ? 'ses parcs et espaces verts' : l === 'es' ? 'sus parques y espacios verdes' : l === 'de' ? 'seine Parks und Grünflächen' : l === 'nl' ? 'zijn parken en groene ruimtes' : 'its parks and green spaces')
 
   if (l === 'fr') {
     return [
@@ -11444,6 +11618,26 @@ export function generateDestFaqs(
       {
         q: `Brauche ich einen Heimtierausweis für eine Reise nach ${destName}?`,
         a: `Wenn Sie aus der EU anreisen, wird ein EU-Heimtierausweis (mit aktueller Tollwutimpfung) für ${country} empfohlen. Außerhalb der EU prüfen Sie die Einreisebestimmungen bei der Botschaft von ${country} in Ihrem Wohnsitzland.`,
+      },
+    ]
+  }
+  if (l === 'nl') {
+    return [
+      {
+        q: `Accepteren de hotels in ${destName} echt huisdieren?`,
+        a: `Ja. De ${hotelCount} hotels op deze pagina zijn gecontroleerd en hebben een expliciet huisdierbeleid op Booking.com. We vermelden geen hotels die alleen "afhankelijk van beschikbaarheid" aangeven. Elk hotel heet huisdieren actief welkom.`,
+      },
+      {
+        q: `Wat zijn de beste plekken om met een hond te wandelen in ${destName}?`,
+        a: `${destName} biedt uitstekende opties: ${highlight}. In deze gebieden kunnen honden vrij bewegen, op korte afstand van de hotels op deze lijst.`,
+      },
+      {
+        q: `Wat is de gemiddelde huisdiertoeslag in hotels in ${destName}?`,
+        a: `Huisdiertoeslagen liggen in ${destName} meestal tussen 0 en 30 € per nacht. Sommige premium hotels kunnen tot 50 € rekenen. Ongeveer 40% van de hotels op onze lijst rekent geen extra kosten. Filter op "honden verblijven gratis" om die te vinden.`,
+      },
+      {
+        q: `Heb ik een dierenpaspoort nodig om naar ${destName} te reizen?`,
+        a: `Als je vanuit de EU reist, wordt een EU-dierenpaspoort (met actuele rabiësvaccinatie) aanbevolen voor ${country}. Buiten de EU controleer je de inreisvoorwaarden bij de ambassade van ${country} in je woonland.`,
       },
     ]
   }
@@ -11488,7 +11682,7 @@ export function generateDestFaqs(
 }
 
 export function generateDestIntro(destSlug: string, destName: string, country: string, locale: string = 'en'): string {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const ctxMap = destContextByLocale[l] ?? destContextByLocale['en']
   const ctx = ctxMap[destSlug]
   if (!ctx) return ''
@@ -11501,6 +11695,9 @@ export function generateDestIntro(destSlug: string, destName: string, country: s
   }
   if (l === 'de') {
     return `${destName} ist ${ctx.personality}. Die besten Orte für Haustiere sind ${ctx.highlight}, besonders rund um ${ctx.area}.`
+  }
+  if (l === 'nl') {
+    return `${destName} is ${ctx.personality}. De beste plekken voor huisdieren zijn ${ctx.highlight}, vooral rond ${ctx.area}.`
   }
   return `${destName} is ${ctx.personality}. Top spots for pets include ${ctx.highlight}, especially around ${ctx.area}.`
 }

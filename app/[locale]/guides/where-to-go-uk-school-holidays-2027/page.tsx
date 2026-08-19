@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
@@ -297,9 +298,67 @@ const CALENDARS: Record<LocaleKey, Calendar> = {
   ] },
 }
 
+// One far, flight-reachable idea appended to each period (index-aligned to that
+// locale's CALENDARS periods). Always a sun option in winter. Slugs come from
+// the same scraped data so hotels + photos render.
+const FAR: Record<LocaleKey, Pick[]> = {
+  en: [
+    { slug: 'tenerife', why: `Tenerife gives a winter-sun reset for you and the dog: mild 18-20C days, plenty of dog-friendly beaches like Playa de la Tejita, and coastal walks that beat a grey UK January. Good base if you want a proper week away rather than a quick hop.`, travel: `Flights from the UK are about 4-4.5h. UK dogs cannot fly in-cabin: options are manifested pet cargo with an approved carrier, or drive/ferry to France and fly on from an EU airport that allows dogs in the hold.` },
+    { slug: 'lanzarote', why: `Lanzarote's volcanic landscape means dry, walkable trails even in February, and temperatures stay comfortably in the high teens, a real contrast to a wet UK half term. Fewer crowds than the Canaries' bigger islands too.`, travel: `Around 4-4.5h flight from the UK. No in-cabin flying for dogs from the UK: book approved pet cargo, or ferry/drive to mainland Europe and connect from there.` },
+    { slug: 'corfu', why: `Corfu in April is green, blooming and warm without the summer heat, with shaded olive-grove walks and quiet coves that suit dogs far better than peak-season beaches. A nice step up from the short Easter drive/ferry trips.`, travel: `Roughly 3.5-4h flight from the UK. UK pet dogs cannot fly in-cabin: use manifested cargo, or drive/ferry to mainland Europe and pick up a flight from there.` },
+    { slug: 'paphos', why: `Paphos offers reliable spring sunshine and coastal paths around the archaeological park that are pleasant for dogs before Cyprus gets too hot. A longer-haul option for a bank holiday if you want to bank real sun.`, travel: `About 4.5-5h flight from the UK. No in-cabin travel for UK dogs: arrange approved pet cargo, or drive/ferry to Europe and fly onward from there.` },
+    { slug: 'rhodes', why: `Rhodes in late May is warm but not yet scorching, with old-town cobbled streets and pine-forest trails that give dogs shade and interest beyond just beach time. Good half-term length trip for a bigger change of scenery.`, travel: `Around 4h flight from the UK. UK dogs cannot fly in-cabin: book manifested pet cargo, or drive/ferry to mainland Europe and fly from an EU hub instead.` },
+    { slug: 'funchal', why: `Madeira stays milder than the Mediterranean in summer thanks to the Atlantic, so it is a sun option that avoids the worst heat risk for dogs. Levada walks are shaded and there is always a cooler coastal breeze.`, travel: `Around 4h flight from the UK. No in-cabin flying for UK dogs: use approved pet cargo, or drive/ferry to mainland Europe and fly on, keeping travel to the cool early morning or evening.` },
+    { slug: 'gozo', why: `Gozo is quieter and greener than Malta's main island, with rural paths and a slower pace that suits dogs once the worst of the summer heat starts to ease. Easy to keep walks to early morning or dusk.`, travel: `About 3h flight from the UK. UK pet dogs cannot fly in-cabin: arrange manifested cargo, or drive/ferry to mainland Europe and fly onward, planning walks outside the midday heat.` },
+    { slug: 'gran-canaria', why: `Gran Canaria still runs 22-24C in October, so it is a solid autumn-sun swap for the usual half-term drive trips, with dune walks at Maspalomas and dog-friendly stretches away from the main resorts.`, travel: `Roughly 4-4.5h flight from the UK. No in-cabin option for UK dogs: book approved pet cargo, or drive/ferry to mainland Europe and fly from there instead.` },
+    { slug: 'maspalomas', why: `If markets and cold walks are not for you this year, Maspalomas offers a genuine winter-sun alternative with flat, easy beach walks and mild 20C days over the Christmas period, low stress for an older or heat-sensitive dog.`, travel: `About 4.5h flight from the UK. UK dogs cannot fly in-cabin: use manifested pet cargo, or drive/ferry to mainland Europe and pick up a connecting flight there.` },
+  ],
+  fr: [
+    { slug: 'funchal', why: `Madère garde une douceur printanière toute l'année (18-20°C en hiver), avec des sentiers côtiers et des levadas ombragées parfaites pour promener votre chien sans les frimas de la métropole. L'île reste petite et facile à explorer en voiture de location, avec de nombreux hébergements qui acceptent les animaux.`, travel: `Environ 3h30 de vol depuis Paris vers Funchal. Passeport européen pour animaux (Madère fait partie de l'UE) : petit chien en cabine selon la compagnie et le poids, sinon soute climatisée.` },
+    { slug: 'valletta', why: `Malte offre un climat déjà printanier en avril et un archipel compact où l'on se déplace facilement avec un chien, entre remparts, criques et villages de pêcheurs. C'est une destination lointaine mais courte en vol, idéale pour un pont de quelques jours.`, travel: `Environ 2h30 de vol depuis Paris. Malte est dans l'UE : passeport européen suffit, petit chien en cabine possible sur certaines compagnies, sinon soute climatisée.` },
+    { slug: 'corfu', why: `Corfou déroule déjà son vert méditerranéen au printemps, avec des criques tranquilles et des chemins de campagne agréables à arpenter avec votre chien, loin de la foule estivale. L'île reste accessible en voiture de location pour enchaîner plusieurs spots.`, travel: `Environ 3h de vol depuis Paris vers Corfou. Grèce membre de l'UE : passeport européen animal, petit chien en cabine selon compagnie et poids, sinon soute climatisée.` },
+    { slug: 'agadir', why: `Agadir offre un soleil quasi garanti fin mai et de longues plages où votre chien peut courir en laisse tôt le matin. L'ambiance est plus dépaysante qu'en Europe, tout en restant simple d'accès pour un pont de quatre jours.`, travel: `Environ 3h20 de vol depuis Paris. Le Maroc est hors UE : carnet de vaccination et certificat sanitaire (AHC) à prévoir en plus, formalités à anticiper une à deux semaines avant. Petit chien en cabine rarement accepté vers le Maroc, prévoir la soute climatisée.` },
+    { slug: 'ibiza', why: `Ibiza hors saison de fête révèle son visage le plus calme, avec des criques préservées et des sentiers dans le maquis où votre chien peut se dégourdir les pattes. Le vol est court pour une destination qui dépayse vraiment.`, travel: `Environ 1h50 de vol depuis Paris vers Ibiza. Espagne dans l'UE : passeport européen animal, petit chien en cabine selon compagnie, sinon soute climatisée.` },
+    { slug: 'chania', why: `La Crète séduit par ses plages et son arrière-pays montagneux, mais l'été y est chaud : réservez les balades avec votre chien tôt le matin ou en fin de journée, et évitez le bitume brûlant en pleine chaleur de midi. De nombreuses tavernes en terrasse ombragée accueillent volontiers les chiens.`, travel: `Environ 3h30 de vol depuis Paris vers La Canée. Grèce dans l'UE : passeport européen animal, petit chien en cabine selon compagnie et poids, sinon soute climatisée (vérifiez les restrictions de température estivale).` },
+    { slug: 'rhodes', why: `Rhodes profite encore d'une douce arrière-saison en automne, avec des températures agréables pour explorer la vieille ville et les plages plus tranquilles en laisse avec votre chien. Une bonne alternative ensoleillée aux vacances de Toussaint plus fraîches en France.`, travel: `Environ 3h30 de vol depuis Paris vers Rhodes. Grèce dans l'UE : passeport européen animal, petit chien en cabine selon compagnie, sinon soute climatisée.` },
+    { slug: 'marrakech', why: `Marrakech offre un climat doux et ensoleillé en novembre, loin de la grisaille française, avec des riads qui acceptent parfois les chiens et des jardins ombragés pour les promenades. Le dépaysement est total pour un pont de quatre jours.`, travel: `Environ 3h20 de vol depuis Paris. Le Maroc est hors UE : certificat sanitaire (AHC) et formalités vétérinaires à prévoir en plus, à organiser une à deux semaines avant. Petit chien en cabine rarement accepté, prévoir la soute climatisée.` },
+    { slug: 'lanzarote', why: `Lanzarote garantit un hiver doux (18-22°C) avec ses paysages volcaniques et ses longues plages où promener votre chien loin du froid métropolitain pendant les fêtes. L'île se parcourt facilement en voiture de location.`, travel: `Environ 4h de vol depuis Paris vers Lanzarote. Espagne dans l'UE : passeport européen animal, petit chien en cabine selon compagnie et poids, sinon soute climatisée.` },
+  ],
+  es: [
+    { slug: 'maspalomas', why: `Sol garantizado en pleno invierno con playas amplias donde el perro puede correr sin agobios de calor. El paseo marítimo de Maspalomas es plano y largo, ideal para piernas cortas después de las comidas de estas fechas.`, travel: `Vuelo directo desde Madrid de unas 2h30 a Gran Canaria. Perros pequeños en cabina con Iberia o Vueling según peso y transportín homologado, los grandes en bodega climatizada.` },
+    { slug: 'funchal', why: `Madeira ofrece clima suave todo el año, perfecto para escapar del frío peninsular sin el madrugón de un vuelo largo. Los miradores y levadas cerca de Funchal permiten rutas cortas con el perro atado.`, travel: `Vuelo directo desde Madrid o Lisboa de unas 3h. Al ser Portugal, solo hace falta el pasaporte europeo del perro, sin papeleo extra.` },
+    { slug: 'paphos', why: `Chipre en primavera tiene temperaturas suaves y playas menos masificadas que otros destinos griegos, buen momento para explorar con calma junto al perro. El parque arqueológico junto al mar tiene zonas de paseo en sombra.`, travel: `Vuelo directo desde Madrid de unas 4h30, algo largo para un perro pequeño en cabina, mejor valorar bodega climatizada si el trayecto se hace pesado.` },
+    { slug: 'gozo', why: `Gozo, la isla pequeña de Malta, tiene un ritmo tranquilo y calas accesibles a pie donde el perro puede refrescarse. Mayo trae temperaturas agradables sin el calor todavía agobiante del verano.`, travel: `Vuelo directo desde Madrid de unas 3h a Malta, luego ferry corto a Gozo. Trámite sencillo con pasaporte europeo, sin cuarentena.` },
+    { slug: 'heraklion', why: `Creta compensa el calor del verano con playas de aguas cristalinas donde refrescar al perro a media mañana. Mejor reservar los paseos largos para el amanecer o el atardecer y evitar la caminata de mediodía.`, travel: `Vuelo directo desde Madrid de unas 3h30. En verano conviene comprobar que la aerolínea garantiza bodega climatizada, el asfalto del aeropuerto puede quemar las almohadillas.` },
+    { slug: 'santorini', why: `Santorini en octubre pierde las multitudes del verano y conserva temperaturas suaves para pasear por los pueblos blancos con el perro. Las playas de arena oscura fuera de temporada están mucho más tranquilas.`, travel: `Vuelo con una escala desde Madrid, unas 4h de vuelo efectivo. Isla pequeña, mejor moverse en coche de alquiler con el perro que a pie por las cuestas.` },
+    { slug: 'marrakech', why: `Marrakech en noviembre tiene un clima templado ideal para perderse por los jardines y la Medina con el perro con correa corta. Un destino distinto, con olores y ambiente que sorprenden tanto al dueño como al animal.`, travel: `Vuelo directo desde Madrid de solo 1h30, el más corto del pool, pero al ser fuera de la UE hace falta certificado veterinario y trámites de importación, mejor gestionarlo con antelación.` },
+    { slug: 'lanzarote', why: `Lanzarote en diciembre regala sol seguro y paisajes volcánicos donde el perro puede corretear lejos del frío peninsular. Los senderos de El Golfo y la costa son llanos y fáciles para toda la familia.`, travel: `Vuelo directo desde Madrid de unas 2h45. Perros pequeños en cabina con Iberia, Vueling o Air Europa según peso y normativa de cada compañía.` },
+  ],
+  pt: [
+    { slug: 'gran-canaria', why: `Clima ameno o ano inteiro, ótimo para fugir ao frio de dezembro com o cão. Muitos trilhos e praias fora de época, sem multidões. Ilha preparada para turismo com animais, fácil encontrar alojamento pet-friendly.`, travel: `Voo direto Lisboa-Gran Canaria, cerca de 2h30. A TAP aceita cão pequeno em cabine até 8kg, animais maiores no porão climatizado. Passaporte europeu do animal chega, sem formalidades extra.` },
+    { slug: 'lanzarote', why: `Paisagem vulcânica com trilhos largos e pouco movimentados, ideal para fugir à confusão do Carnaval em Portugal. Sol garantido enquanto o continente está frio e chuvoso.`, travel: `Cerca de 2h40 desde Lisboa, voo direto ou com escala consoante a companhia. Cão pequeno em cabine até 8kg, maiores no porão climatizado. Passaporte europeu obrigatório.` },
+    { slug: 'rhodes', why: `A cidade medieval de Rodes tem ruas pedonais e esplanadas onde o cão é bem-vindo. Praias ainda tranquilas antes da época alta, boa altura para explorar com calma.`, travel: `Cerca de 4h desde Lisboa, normalmente com escala em Atenas. Cão pequeno pode viajar em cabine consoante a companhia, maiores no porão. Passaporte europeu obrigatório.` },
+    { slug: 'valletta', why: `Distâncias curtas entre os pontos turísticos, muitos cafés e passeios à beira-mar aceitam cães. Boa escolha para uma ponte curta sem grande cansaço de viagem.`, travel: `Voo direto de cerca de 3h desde Lisboa. A TAP e outras companhias aceitam cão pequeno em cabine até 8kg, maiores no porão climatizado.` },
+    { slug: 'palma', why: `Fim da primavera ainda ameno em Maiorca, com muitos passeios costeiros e cafés dog-friendly em Palma. A distância curta compensa uma ponte de poucos dias.`, travel: `Voo curto, cerca de 1h40 desde Lisboa. Várias companhias aceitam cão em cabine até 8kg, opção de porão climatizado para cães maiores.` },
+    { slug: 'corfu', why: `Ilha verde e sombreada ajuda a amenizar o calor intenso do verão grego. Melhor planear passeios de madrugada ou ao fim da tarde, evitando as horas de mais calor com o cão.`, travel: `Cerca de 4h desde Lisboa, geralmente com escala. Atenção ao calor no porão em pleno verão, preferir voos de madrugada ou noite. Passaporte europeu obrigatório.` },
+    { slug: 'marrakech', why: `O outono traz temperaturas mais suaves em Marraquexe, jardins e riads costumam tolerar animais. Por ficar fora da União Europeia, exige mais atenção às formalidades do cão.`, travel: `Voo direto curto, cerca de 1h20 desde Lisboa. Fora do espaço UE, é preciso certificado sanitário e vacina antirrábica válida além do passaporte, confirmar sempre as regras junto da companhia aérea.` },
+    { slug: 'las-palmas', why: `Dezembro ameno em Las Palmas, com praia urbana e passeio marítimo onde os cães são bem-vindos. Boa fuga ao frio numa ponte curta de dezembro.`, travel: `Voo direto de cerca de 2h30 desde Lisboa. Cão pequeno em cabine até 8kg, animais maiores no porão climatizado.` },
+  ],
+  de: [
+    { slug: 'tenerife', why: `Teneriffa bietet auch im Januar noch 20 Grad und viele hundefreundliche Strände außerhalb der Hauptsaison. Lange Spaziergänge am Meer statt Kälte zuhause, ideal für aktive Hunde im Winter.`, travel: `Ca. 4,5 Stunden Flug ab Frankfurt/München. Kleine Hunde bis 8 kg dürfen bei Lufthansa in der Kabine mitfliegen, größere reisen im klimatisierten Frachtraum. EU-Heimtierausweis erforderlich.` },
+    { slug: 'corfu', why: `Korfu zeigt sich im Frühling grün und mild, ideal für ausgedehnte Wanderungen mit dem Hund abseits der Sommerhitze. Viele Tavernen und Strände sind hundefreundlich und noch nicht überlaufen.`, travel: `Ca. 2,5 Stunden Flug ab Frankfurt/München. Kleine Hunde in der Kabine, größere im Frachtraum. EU-Heimtierausweis genügt, keine Zusatzformalitäten.` },
+    { slug: 'palma', why: `Mallorca lockt im Mai mit angenehmen Temperaturen und vielen hundefreundlichen Buchten rund um Palma. Für ein verlängertes Wochenende reicht die kurze Flugzeit gut aus.`, travel: `Ca. 2 Stunden Flug ab Frankfurt/München. Kleine Hunde in der Kabine möglich, größere im Frachtraum. EU-Heimtierausweis reicht.` },
+    { slug: 'paphos', why: `Zypern bietet im Juni schon Sommerfeeling mit angenehmer Trockenheit, gut für Hunde, die Hitze besser vertragen als Schwüle. Rund um Paphos gibt es ruhige, hundefreundliche Küstenwege.`, travel: `Ca. 3,5 Stunden Flug ab Frankfurt/München. Kleine Hunde in der Kabine, größere im klimatisierten Frachtraum. EU-Heimtierausweis nötig.` },
+    { slug: 'heraklion', why: `Kreta ist im Hochsommer sehr heiß, Spaziergänge sollten früh morgens oder abends in der Dämmerung stattfinden. Dafür gibt es hundefreundliche Buchten mit schattigen Rückzugsorten.`, travel: `Ca. 3 Stunden Flug ab Frankfurt/München. Achtung: Im Sommer gelten bei vielen Airlines Hitzebeschränkungen für Tiere im Frachtraum, kleine Hunde besser in der Kabine buchen.` },
+    { slug: 'funchal', why: `Madeira hat ein mildes Klima fast das ganze Jahr über und im Herbst angenehme 22 Grad. Die grünen Levada-Wege rund um Funchal eignen sich hervorragend für lange Hundewanderungen.`, travel: `Ca. 4 Stunden Flug ab Frankfurt/München. Kleine Hunde in der Kabine, größere im Frachtraum. EU-Heimtierausweis erforderlich.` },
+    { slug: 'marrakech', why: `Marrakesch überrascht im Oktober mit warmen, trockenen Tagen und einer ganz anderen Kulisse als die üblichen Nahziele. Für ein kurzes Wochenende lohnt sich der Kontrast besonders.`, travel: `Ca. 3,5 Stunden Flug ab Frankfurt/München. Marokko ist nicht EU, zusätzlich zum Heimtierausweis braucht es eine Einfuhrgenehmigung und tierärztliche Bescheinigung, rechtzeitig planen.` },
+    { slug: 'maspalomas', why: `Gran Canaria bietet über Weihnachten verlässlich Sonne und milde Temperaturen statt grauem Winterwetter. Die Dünen von Maspalomas laden zu langen Spaziergängen mit dem Hund ein.`, travel: `Ca. 4,5 Stunden Flug ab Frankfurt/München. Kleine Hunde bis 8 kg in der Kabine, größere im klimatisierten Frachtraum. EU-Heimtierausweis nötig.` },
+  ],
+}
+
 const COPY: Record<LocaleKey, {
   eyebrow: string; title: string; intro: string; note: string
-  travelLabel: string; whyLabel: string; staysLabel: string
+  travelLabel: string; whyLabel: string; staysLabel: string; farLabel: string
   tierBudget: string; tierMid: string; tierPremium: string
   from: string; night: string; petFeeNil: string; petFee: string; bookCta: string; destCta: string
   practicalHeading: string; practical: { h: string; p: string }[]
@@ -311,7 +370,7 @@ const COPY: Record<LocaleKey, {
     title: 'Where to Go for the 2027 UK School Holidays & Bank Holidays (with your dog)',
     intro: 'A period-by-period plan for the 2027 English school calendar, built around one fact that changes everything for dog owners: the Eurostar does not carry pet dogs. Your real routes are Le Shuttle (the dog stays in your car) and the Brittany Ferries overnight crossings. So a bank-holiday weekend means a short hop just past Calais, while a two-week or six-week break earns the long haul south. Every idea below comes with the honest travel time from the UK and three real hotels across budgets.',
     note: 'Dates are the official 2027 England bank holidays; school holiday weeks are the typical England pattern and vary by council, so confirm your own term dates.',
-    travelLabel: 'Travel from the UK', whyLabel: 'Why here', staysLabel: 'Where to stay, across budgets',
+    travelLabel: 'Travel from the UK', whyLabel: 'Why here', staysLabel: 'Where to stay, across budgets', farLabel: 'By plane',
     tierBudget: 'Budget', tierMid: 'Mid-range', tierPremium: 'Premium',
     from: 'from', night: 'night', petFeeNil: 'No pet fee', petFee: 'pet fee', bookCta: 'Check dates →', destCta: 'Full city guide →',
     practicalHeading: 'Planning around the 2027 calendar',
@@ -335,7 +394,7 @@ const COPY: Record<LocaleKey, {
     title: 'Où partir avec son chien pendant les vacances scolaires et jours fériés 2027',
     intro: 'Un plan période par période du vrai calendrier scolaire français 2027 : pour chaque vacance et chaque pont, deux ou trois idées de destinations avec son chien, le temps de trajet honnête depuis la France, et trois vrais hôtels étagés par budget. Un pont se joue près de chez soi ; une à deux semaines justifient d’aller plus loin. On tient compte de la réalité canine : la chaleur estivale, les interdictions de plage saisonnières, les règles de train.',
     note: 'Les dates suivent le calendrier scolaire français 2027 (vacances d’hiver et de printemps échelonnées par zones A/B/C) et les jours fériés nationaux. Vérifiez votre zone.',
-    travelLabel: 'Trajet depuis la France', whyLabel: 'Pourquoi ici', staysLabel: 'Où dormir, selon les budgets',
+    travelLabel: 'Trajet depuis la France', whyLabel: 'Pourquoi ici', staysLabel: 'Où dormir, selon les budgets', farLabel: 'En avion',
     tierBudget: 'Économique', tierMid: 'Milieu de gamme', tierPremium: 'Premium',
     from: 'dès', night: 'nuit', petFeeNil: 'Sans supplément animal', petFee: 'suppl. animal', bookCta: 'Voir les dates →', destCta: 'Guide complet →',
     practicalHeading: 'Planifier autour du calendrier 2027',
@@ -359,7 +418,7 @@ const COPY: Record<LocaleKey, {
     title: 'Dónde ir con tu perro en las vacaciones escolares y festivos de 2027',
     intro: 'Un plan periodo a periodo del calendario escolar español 2027: para cada vacación y cada puente, dos o tres ideas de destinos con tu perro, el tiempo de viaje honesto desde España, y tres hoteles reales por presupuesto. Un puente se resuelve cerca de casa; una o dos semanas justifican ir más lejos. Tenemos en cuenta la realidad canina: el calor del verano, las prohibiciones estacionales de playa y las normas del tren.',
     note: 'Las fechas siguen el calendario escolar español 2027 (que varía por comunidad autónoma) y los festivos nacionales. Confirma las de tu comunidad.',
-    travelLabel: 'Viaje desde España', whyLabel: 'Por qué aquí', staysLabel: 'Dónde alojarse, por presupuesto',
+    travelLabel: 'Viaje desde España', whyLabel: 'Por qué aquí', staysLabel: 'Dónde alojarse, por presupuesto', farLabel: 'En avión',
     tierBudget: 'Económico', tierMid: 'Gama media', tierPremium: 'Premium',
     from: 'desde', night: 'noche', petFeeNil: 'Sin suplemento por mascota', petFee: 'suppl. mascota', bookCta: 'Ver fechas →', destCta: 'Guía completa →',
     practicalHeading: 'Planificar en torno al calendario 2027',
@@ -383,7 +442,7 @@ const COPY: Record<LocaleKey, {
     title: 'Para onde ir com o seu cão nas férias escolares e feriados de 2027',
     intro: 'Um plano período a período do calendário escolar português 2027: para cada interrupção e cada ponte, duas ou três ideias de destinos com o seu cão, o tempo de viagem honesto a partir de Portugal, e três hotéis reais por orçamento. Uma ponte resolve-se perto de casa; uma ou duas semanas justificam ir mais longe. Temos em conta a realidade canina: o calor do verão, as proibições sazonais de praia e as regras do comboio.',
     note: 'As datas seguem o calendário escolar português 2027 e os feriados nacionais. Confirme as datas da sua escola.',
-    travelLabel: 'Viagem a partir de Portugal', whyLabel: 'Porquê aqui', staysLabel: 'Onde ficar, por orçamento',
+    travelLabel: 'Viagem a partir de Portugal', whyLabel: 'Porquê aqui', staysLabel: 'Onde ficar, por orçamento', farLabel: 'De avião',
     tierBudget: 'Económico', tierMid: 'Gama média', tierPremium: 'Premium',
     from: 'desde', night: 'noite', petFeeNil: 'Sem taxa de animal', petFee: 'taxa animal', bookCta: 'Ver datas →', destCta: 'Guia completo →',
     practicalHeading: 'Planear em torno do calendário 2027',
@@ -407,7 +466,7 @@ const COPY: Record<LocaleKey, {
     title: 'Wohin mit dem Hund in den Schulferien und an den Feiertagen 2027',
     intro: 'Ein Plan Zeitraum für Zeitraum durch den echten deutschen Schulkalender 2027: für jede Ferienzeit und jedes lange Wochenende zwei oder drei Reiseideen mit Hund, die ehrliche Reisezeit ab Deutschland und drei echte Hotels über verschiedene Budgets. Ein langes Wochenende bleibt nah; ein oder zwei Wochen lohnen die weitere Fahrt. Wir denken die Hunde-Realität mit: Sommerhitze, saisonale Strandverbote und die Bahnregeln.',
     note: 'Die Termine folgen dem deutschen Schulkalender 2027 (je nach Bundesland stark gestaffelt, besonders im Sommer) und den Feiertagen. Prüfen Sie Ihr Bundesland.',
-    travelLabel: 'Anreise ab Deutschland', whyLabel: 'Warum hier', staysLabel: 'Wo übernachten, über alle Budgets',
+    travelLabel: 'Anreise ab Deutschland', whyLabel: 'Warum hier', staysLabel: 'Wo übernachten, über alle Budgets', farLabel: 'Per Flug',
     tierBudget: 'Günstig', tierMid: 'Mittelklasse', tierPremium: 'Premium',
     from: 'ab', night: 'Nacht', petFeeNil: 'Keine Haustiergebühr', petFee: 'Haustiergebühr', bookCta: 'Termine prüfen →', destCta: 'Vollständiger Stadtführer →',
     practicalHeading: 'Rund um den Kalender 2027 planen',
@@ -524,9 +583,10 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
             </header>
 
             <div className="space-y-4">
-              {period.picks.map((p, i) => {
+              {[...period.picks, ...(FAR[(locale as LocaleKey)]?.[pi] ? [FAR[(locale as LocaleKey)][pi]] : [])].map((p, i) => {
                 const meta = DEST[p.slug]
                 if (!meta) return null
+                const isFar = i >= period.picks.length
                 const tiers = budgetTiers(p.slug)
                 return (
                   <article key={`${pi}-${p.slug}-${i}`} className="bg-white rounded-2xl border border-stone-200 overflow-hidden">
@@ -537,6 +597,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                           <Link href={`/${locale}/destinations/${p.slug}`} className="hover:text-sky-700">{meta.name}</Link>
                         </h3>
                         <span className="text-sm text-stone-500">{meta.country}</span>
+                        {isFar && <span className="ml-auto text-xs font-bold bg-amber-100 text-amber-800 px-2.5 py-1 rounded-full">✈️ {t.farLabel}</span>}
                       </div>
                     </header>
                     <div className="px-5 sm:px-7 py-5 space-y-4">
@@ -546,7 +607,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                       </div>
                       {p.travel && (
                         <div className="flex items-start gap-2 bg-teal-50 border border-teal-100 rounded-xl p-3">
-                          <span className="text-base leading-none mt-0.5">🚗</span>
+                          <span className="text-base leading-none mt-0.5">{isFar ? '✈️' : '🚗'}</span>
                           <div>
                             <div className="text-xs font-semibold uppercase tracking-wider text-teal-800">{t.travelLabel}</div>
                             <p className="text-sm text-teal-900 leading-relaxed">{p.travel}</p>
@@ -564,7 +625,16 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                                 target="_blank" rel="noopener sponsored"
                                 className="group flex flex-col rounded-xl border border-stone-200 hover:border-sky-300 hover:shadow-md transition-all p-3"
                               >
-                                <span className="text-[10px] font-bold uppercase tracking-wide text-sky-700 mb-1">{tierLabels[Math.min(ti, 2)]}</span>
+                                <div className="relative h-28 -mx-3 -mt-3 mb-2 overflow-hidden rounded-t-xl bg-stone-100">
+                                  <Image
+                                    src={`/images/hotels/${h.id}.jpg`}
+                                    alt={h.name}
+                                    fill
+                                    sizes="(max-width: 768px) 100vw, 280px"
+                                    className="object-cover group-hover:scale-105 transition-transform duration-500"
+                                  />
+                                  <span className="absolute top-2 left-2 text-[10px] font-bold uppercase tracking-wide text-sky-800 bg-white/90 backdrop-blur-sm px-2 py-0.5 rounded-full shadow-sm">{tierLabels[Math.min(ti, 2)]}</span>
+                                </div>
                                 <span className="font-semibold text-stone-900 text-sm leading-tight group-hover:text-sky-700">{h.name}</span>
                                 <span className="text-xs text-stone-500 mt-1">
                                   {typeof h.stars === 'number' ? '★'.repeat(Math.round(h.stars)) + ' · ' : ''}

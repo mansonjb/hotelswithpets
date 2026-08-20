@@ -39,9 +39,13 @@
           "mustTryPt": "Pieds-paquets, daube provençale, Châteauneuf-du-Pape",
           "tipPt": "Reserve o pátio para o jantar: só há 8 mesas que aceitam cães e o período do Festival de Avinhão (julho) esgota com 4 semanas de antecedência.",
           "descriptionDe": "Ein kreatives provenzalisches Bistro in einem privaten Hôtel particulier aus dem 17. Jahrhundert mit einem begrünten Innenhof, modernen Interpretationen regionaler Klassiker und Côtes-du-Rhône-Weinen aus der Region. Hunde sind das ganze Jahr über auf der Innenhofterrasse willkommen.",
+          "descriptionNl": "Een creatief Provencaals bistro in een prive hotel particulier uit de 17e eeuw met een begroeide binnenplaats, moderne interpretaties van regionale klassiekers en Cotes-du-Rhone wijnen uit de streek. Honden zijn het hele jaar door welkom op het binnenplaatsterras.",
           "petPolicyDe": "Hunde auf der Innenhofterrasse",
+          "petPolicyNl": "Honden op het binnenplaatsterras",
           "mustTryDe": "Pieds-paquets, Daube provençale, Châteauneuf-du-Pape",
-          "tipDe": "Reservieren Sie den Innenhof für das Abendessen, es gibt nur 8 hundefreundliche Tische, und die Zeit des Festival d'Avignon (Juli) ist 4 Wochen im Voraus ausgebucht."
+          "mustTryNl": "Pieds-paquets, daube provencale, Chateauneuf-du-Pape",
+          "tipDe": "Reservieren Sie den Innenhof für das Abendessen, es gibt nur 8 hundefreundliche Tische, und die Zeit des Festival d'Avignon (Juli) ist 4 Wochen im Voraus ausgebucht.",
+          "tipNl": "Reserveer de binnenplaats voor het diner, er zijn maar 8 hondvriendelijke tafels, en tijdens het Festival d'Avignon (juli) is het 4 weken van tevoren volgeboekt."
         },
         {
           "name": "La Mirande",
@@ -68,9 +72,13 @@
           "mustTryPt": "Menu de trufa (inverno), almoço de degustação provençal, rosé de Tavel",
           "tipPt": "O menu de trufa (dezembro a fevereiro) é o ponto alto gastronómico da região: reserve com 6 semanas de antecedência e confirme a esplanada que aceita cães no momento da reserva.",
           "descriptionDe": "Ein Michelin-bewertetes Restaurant in einem Kardinalspalast aus dem 14. Jahrhundert am Fuß des Papstpalasts, raffinierte provenzalische Küche, außergewöhnlicher Weinkeller. Hunde sind das ganze Jahr über auf der gepflasterten Vorderterrasse willkommen; der Hauptspeisesaal nach vorheriger Absprache.",
+          "descriptionNl": "Een door Michelin gewaardeerd restaurant in een kardinaalspaleis uit de 14e eeuw aan de voet van het Pauselijk Paleis, verfijnde Provencaalse keuken, uitzonderlijke wijnkelder. Honden zijn het hele jaar door welkom op het geplaveide voorterras, de hoofdzaal na overleg vooraf.",
           "petPolicyDe": "Hunde auf der Terrasse; Hauptraum nach Absprache",
+          "petPolicyNl": "Honden op het terras, hoofdzaal na overleg",
           "mustTryDe": "Trüffelmenü (Winter), provenzalisches Degustationsmenü, Tavel Rosé",
-          "tipDe": "Das Trüffelmenü (Dezember bis Februar) ist der regionale gastronomische Höhepunkt, 6 Wochen im Voraus buchen und die hundefreundliche Terrasse bei der Buchung bestätigen lassen."
+          "mustTryNl": "Truffelmenu (winter), Provencaals proefmenu, Tavel rose",
+          "tipDe": "Das Trüffelmenü (Dezember bis Februar) ist der regionale gastronomische Höhepunkt, 6 Wochen im Voraus buchen und die hundefreundliche Terrasse bei der Buchung bestätigen lassen.",
+          "tipNl": "Het truffelmenu (december tot februari) is het regionale culinaire hoogtepunt, boek 6 weken van tevoren en laat het hondvriendelijke terras bij het boeken bevestigen."
         },
         {
           "name": "L'Épice et Love",
@@ -98,9 +106,13 @@
           "mustTryPt": "Menu de mercado do dia, prato de mezze, rosé natural",
           "tipPt": "O almoço (12:00-13:30) é mais tranquilo do que o jantar: o bistrô tem apenas 24 lugares e a ementa de almoço esgota depressa.",
           "descriptionDe": "Ein kleines, lebendiges Bistro nahe der Rue des Teinturiers, täglich wechselnde Marktkarte, provenzalisch-mediterrane Küche, regionale Naturweine. Hunde sind im gesamten kleinen Innenraum willkommen; Wassernäpfe stehen das ganze Jahr über an der Tür bereit.",
+          "descriptionNl": "Een klein, levendig bistro dicht bij de Rue des Teinturiers, dagelijks wisselende marktkaart, Provencaals-mediterrane keuken, regionale natuurwijnen. Honden zijn welkom in het hele kleine interieur, waterbakjes staan het hele jaar door bij de deur klaar.",
           "petPolicyDe": "Hunde überall willkommen",
+          "petPolicyNl": "Honden overal welkom",
           "mustTryDe": "Tägliches Marktmenü, Mezze-Platte, natürlicher Rosé",
-          "tipDe": "Das Mittagessen (12:00-13:30 Uhr) ist ruhiger als das Abendessen, das Bistro hat nur 24 Plätze und die Mittagskarte wechselt schnell."
+          "mustTryNl": "Dagelijks marktmenu, mezzeplank, natuurlijke rose",
+          "tipDe": "Das Mittagessen (12:00-13:30 Uhr) ist ruhiger als das Abendessen, das Bistro hat nur 24 Plätze und die Mittagskarte wechselt schnell.",
+          "tipNl": "De lunch (12.00-13.30 uur) is rustiger dan het diner, het bistro heeft maar 24 plaatsen en de lunchkaart wisselt snel."
         }
       ],
       "tipsEn": [
@@ -166,7 +178,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Avignon",
+      "titleNl": "Hondvriendelijke restaurants in Avignon",
       "introDe": "Die provenzalische Café- und Bistrokultur in Avignon ist durchweg hundefreundlich, angeleinte Hunde sind auf Terrassen standardmäßig willkommen, Wassernäpfe erscheinen ohne Nachfrage, und die Place de l'Horloge sowie die Rue des Teinturiers konzentrieren die besten unabhängigen Lokale.",
+      "introNl": "De Provencaalse cafe- en bistrocultuur in Avignon is doorgaans hondvriendelijk, aangelijnde honden zijn standaard welkom op terrassen, waterbakjes verschijnen zonder dat je erom hoeft te vragen, en de Place de l'Horloge en de Rue des Teinturiers concentreren de beste onafhankelijke tenten.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Avignon erlaubt?",
@@ -175,6 +189,16 @@
         {
           "q": "Kann ich meinen Hund zu einem provenzalischen Mittagessen mitbringen?",
           "a": "Ja. Die provenzalische Mittagskultur ist standardmäßig hundetolerant, angeleinte Hunde sind auf Terrassen willkommen, im Innenbereich außerhalb der Stoßzeiten oft auf dem Boden neben dem Tisch. Die meisten Stammgäste bringen ihre Hunde ganz selbstverständlich mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Avignon?",
+          "a": "Ja, in de meeste. Ongeveer 80% van de bistro's en brasseries in Avignon accepteert aangelijnde honden op het terras, en veel heten ze buiten de piektijden ook binnen welkom. Bij chique Michelin-adressen verschilt dit, van tevoren bellen wordt aangeraden."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen naar een Provencaalse lunch?",
+          "a": "Ja. De Provencaalse lunchcultuur is standaard hondtolerant, aangelijnde honden zijn welkom op terrassen, binnen buiten de piektijden vaak op de grond naast de tafel. De meeste vaste gasten nemen hun hond heel vanzelfsprekend mee."
         }
       ]
     },
@@ -230,8 +254,11 @@
           ],
           "tipPt": "O nascer do sol (07:00-09:00) é o momento mais fotogénico e o mais tranquilo; por volta das 11:00 chegam os grupos de cruzeiros ao Palais des Papes em baixo.",
           "leashRuleDe": "Ganzjährig Leinenpflicht",
+          "leashRuleNl": "Het hele jaar door aanlijnplicht",
           "descriptionDe": "Der 3 Hektar große Landschaftsgarten auf dem Felsvorsprung über dem Papstpalast, Pinien, ein Zierteich mit Enten und das ikonische Panorama über die Rhône, die Pont Saint-Bénézet und den Mont Ventoux dahinter. Kostenlos, hundefreundlich mit angeleinten Hunden.",
-          "tipDe": "Der Sonnenaufgang (07:00-09:00 Uhr) ist die fotogenste und ruhigste Zeit, ab 11:00 Uhr treffen die Kreuzfahrt-Touristengruppen am Papstpalast unten ein."
+          "descriptionNl": "De 3 hectare grote landschapstuin op de rotsrichel boven het Pauselijk Paleis, pijnbomen, een sierlijke vijver met eenden en het iconische panorama over de Rhone, de Pont Saint-Benezet en de Mont Ventoux daarachter. Gratis, hondvriendelijk met aangelijnde honden.",
+          "tipDe": "Der Sonnenaufgang (07:00-09:00 Uhr) ist die fotogenste und ruhigste Zeit, ab 11:00 Uhr treffen die Kreuzfahrt-Touristengruppen am Papstpalast unten ein.",
+          "tipNl": "Zonsopgang (7.00-9.00 uur) is de fotogeniekste en rustigste tijd, vanaf 11.00 uur arriveren de cruisegroepen bij het Pauselijk Paleis beneden."
         },
         {
           "name": "Île de la Barthelasse",
@@ -277,8 +304,11 @@
           ],
           "tipPt": "O ferry-vaivém gratuito funciona diariamente de abril a outubro; consulte o horário no cais da Pont Saint-Bénézet. No inverno, atravesse pela ponte Pont Daladier em 15 min.",
           "leashRuleDe": "Leinenpflicht auf dem Uferweg; Freilauf in ländlichen Abschnitten außerhalb der Brutzeit",
+          "leashRuleNl": "Aanlijnplicht op het rivierpad, loslopen in landelijke stukken buiten het broedseizoen",
           "descriptionDe": "Die größte Flussinsel Europas (700 Hektar Obstgärten, Gemüsegärten und Rhône-Auen) direkt gegenüber dem Papstpalast, ein flacher 4 km langer Uferweg mit dem ikonischen Blick auf die Stadtsilhouette, erreichbar mit der kostenlosen Fährfahrt am Fuß der Pont Saint-Bénézet.",
-          "tipDe": "Die kostenlose Fähre verkehrt täglich von April bis Oktober, Fahrplan am Kai der Pont Saint-Bénézet prüfen. Im Winter geht man über die Pont Daladier in 15 Minuten."
+          "descriptionNl": "Het grootste riviereiland van Europa (700 hectare boomgaarden, moestuinen en Rhone-uiterwaarden) recht tegenover het Pauselijk Paleis, een vlak rivierpad van 4 km met het iconische uitzicht op de stadssilhouet, bereikbaar met de gratis veerpont aan de voet van de Pont Saint-Benezet.",
+          "tipDe": "Die kostenlose Fähre verkehrt täglich von April bis Oktober, Fahrplan am Kai der Pont Saint-Bénézet prüfen. Im Winter geht man über die Pont Daladier in 15 Minuten.",
+          "tipNl": "De gratis veerpont vaart dagelijks van april tot oktober, controleer de dienstregeling bij de kade van de Pont Saint-Benezet. In de winter loop je via de Pont Daladier in 15 minuten."
         },
         {
           "name": "Bois des Rempart-Italiens",
@@ -324,8 +354,11 @@
           ],
           "tipPt": "Ideal em pleno calor do meio-dia no verão: a densa cobertura de pinheiros mantém a temperatura do solo 8 a 10 °C abaixo da do centro calcário da cidade.",
           "leashRuleDe": "Ganzjährig Leinenpflicht",
+          "leashRuleNl": "Het hele jaar door aanlijnplicht",
           "descriptionDe": "Ein angelegter Waldpark unmittelbar südlich der mittelalterlichen Stadtmauern, Pinienhain, Wege, Picknickbänke, die einzige nennenswerte Grünfläche südlich des Zentrums. Direkter Zugang von der Avenue Saint-Roch, kostenlos.",
-          "tipDe": "Am besten in der Mittagshitze im Sommer, das dichte Pinienlaubdach hält die Bodentemperatur 8-10 °C unter der des kalksteinernen Stadtzentrums."
+          "descriptionNl": "Een aangelegd bospark direct ten zuiden van de middeleeuwse stadsmuren, dennenbos, paden, picknicktafels, het enige noemenswaardige groen ten zuiden van het centrum. Directe toegang vanaf de Avenue Saint-Roch, gratis.",
+          "tipDe": "Am besten in der Mittagshitze im Sommer, das dichte Pinienlaubdach hält die Bodentemperatur 8-10 °C unter der des kalksteinernen Stadtzentrums.",
+          "tipNl": "Het best in de middaghitte van de zomer, het dichte pijnboomdak houdt de grondtemperatuur 8-10 graden onder die van het kalkstenen stadscentrum."
         }
       ],
       "tipsEn": [
@@ -391,7 +424,9 @@
         }
       ],
       "titleDe": "Hundeparks & Grünflächen in Avignon",
+      "titleNl": "Hondenparken en groen in Avignon",
       "introDe": "Avignons Altstadt hat wenig Grünflächen, doch die Gärten des Rocher des Doms krönen den Hügel des Papstpalasts, die Île de la Barthelasse bietet 4 km begehbares Rhône-Ufer, und die ländliche Vaucluse-Landschaft öffnet sich 15 Minuten mit dem Auto entfernt zu Lavendelfeldern und Eichenwäldern.",
+      "introNl": "De oude binnenstad van Avignon heeft weinig groen, maar de tuinen van de Rocher des Doms bekronen de heuvel van het Pauselijk Paleis, het Ile de la Barthelasse biedt 4 km beloopbare Rhone-oever, en het landelijke Vaucluse-landschap opent zich 15 minuten met de auto verderop met lavendelvelden en eikenbossen.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde in Avignons Parks ohne Leine laufen?",
@@ -400,6 +435,16 @@
         {
           "q": "Können Hunde die Pont Saint-Bénézet besuchen?",
           "a": "Der Blick auf die Pont Saint-Bénézet von außen, vom Rocher des Doms oder von der Île de la Barthelasse aus, ist mit angeleinten Hunden völlig kostenlos hundefreundlich. Das Betreten der Brücke selbst (kostenpflichtiges Ticket) ist nur Assistenzhunden gestattet."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden in de parken van Avignon zonder lijn lopen?",
+          "a": "Loslopen is alleen toegestaan in de landelijke delen van het Ile de la Barthelasse buiten de officiele parkzones (van april tot juli geldt vanwege het broedseizoen aanlijnplicht). De Rocher des Doms, het Bois des Rempart-Italiens en de geplaveide straten van de binnenstad vereisen het hele jaar door honden aan de lijn."
+        },
+        {
+          "q": "Kunnen honden de Pont Saint-Benezet bezoeken?",
+          "a": "Het uitzicht op de Pont Saint-Benezet van buitenaf, vanaf de Rocher des Doms of vanaf het Ile de la Barthelasse, is met aangelijnde honden volledig gratis hondvriendelijk. De brug zelf betreden (betaald ticket) is alleen toegestaan voor assistentiehonden."
         }
       ]
     },
@@ -430,8 +475,11 @@
           "petPolicyPt": "Bilhete de meia tarifa + trela para cães médios/grandes",
           "tipPt": "O vaivém gratuito Baladine dá a volta ao centro intramuros a cada 8 min, útil como atalho a partir da estação com bagagem e cão.",
           "descriptionDe": "Orizo betreibt Avignons Busnetz einschließlich des kostenlosen Innenstadt-Shuttles Baladine. Kleine Hunde in Transportboxen fahren kostenlos; mittelgroße und große Hunde benötigen ein ermäßigtes Ticket (1 €) und eine kurze Leine.",
+          "descriptionNl": "Orizo beheert het busnetwerk van Avignon, inclusief de gratis binnenstadshuttle Baladine. Kleine honden in een draagbox reizen gratis, middelgrote en grote honden hebben een gereduceerd ticket (1 euro) en een korte lijn nodig.",
           "petPolicyDe": "Ermäßigtes Ticket + Leine für mittelgroße/große Hunde",
-          "tipDe": "Der kostenlose Baladine-Shuttle umrundet die Innenstadt alle 8 Minuten, praktisch als Abkürzung vom Bahnhof mit Gepäck und Hund."
+          "petPolicyNl": "Gereduceerd ticket + lijn voor middelgrote/grote honden",
+          "tipDe": "Der kostenlose Baladine-Shuttle umrundet die Innenstadt alle 8 Minuten, praktisch als Abkürzung vom Bahnhof mit Gepäck und Hund.",
+          "tipNl": "De gratis Baladine-shuttle rijdt elke 8 minuten rond de binnenstad, handig als kortere route vanaf het station met bagage en hond."
         },
         {
           "name": "SNCF TGV & TER",
@@ -452,8 +500,11 @@
           "petPolicyPt": "Bilhete de meia tarifa; açaime para cães médios/grandes",
           "tipPt": "Avinhão TGV fica 5 km a sul: apanhe o vaivém gratuito Virtuo (a cada 15 min, aceita cães) até à estação de Avinhão Centre. O TGV Avinhão-Paris em 2h40 é a ligação mais rápida à capital com cão.",
           "descriptionDe": "Die SNCF betreibt direkte TGV- und TER-Züge von Avignon TGV (5 km südlich des Zentrums) nach Paris (2:40 Std.), Marseille (35 Min.), Lyon (1:10 Std.), Nîmes (30 Min.) und Montpellier (1 Std.). Hunde fahren zum halben Preis der Zweitklasse-Fahrkarte; Assistenzhunde kostenlos.",
+          "descriptionNl": "De SNCF beheert directe TGV- en TER-treinen vanaf Avignon TGV (5 km ten zuiden van het centrum) naar Parijs (2u40), Marseille (35 min.), Lyon (1u10), Nimes (30 min.) en Montpellier (1 uur). Honden reizen voor de helft van het tweedeklas tarief, assistentiehonden gratis.",
           "petPolicyDe": "Ermäßigtes Ticket; Maulkorb für mittelgroße/große Hunde",
-          "tipDe": "Avignon TGV liegt 5 km südlich, mit dem kostenlosen Virtuo-Shuttle (alle 15 Min., hundefreundlich) zum Bahnhof Avignon Centre. Der TGV Avignon-Paris in 2:40 Std. ist die schnellste Hundeverbindung zur Hauptstadt."
+          "petPolicyNl": "Gereduceerd ticket, muilkorf voor middelgrote/grote honden",
+          "tipDe": "Avignon TGV liegt 5 km südlich, mit dem kostenlosen Virtuo-Shuttle (alle 15 Min., hundefreundlich) zum Bahnhof Avignon Centre. Der TGV Avignon-Paris in 2:40 Std. ist die schnellste Hundeverbindung zur Hauptstadt.",
+          "tipNl": "Avignon TGV ligt 5 km ten zuiden, met de gratis Virtuo-shuttle (elke 15 min., hondvriendelijk) naar station Avignon Centre. De TGV Avignon-Parijs in 2u40 is de snelste hondverbinding naar de hoofdstad."
         },
         {
           "name": "Provence Excursion Coaches",
@@ -474,8 +525,11 @@
           "petPolicyPt": "Grátis mediante acordo prévio",
           "tipPt": "Ligue com 24h de antecedência para confirmar a aceitação de cães: os passeios ao Pont du Gard em plena época alta podem ficar cheios e os condutores podem recusar cães à última hora.",
           "descriptionDe": "Tagesausflug-Busdienste von Avignon zu provenzalischen Dörfern, dem Pont du Gard, Châteauneuf-du-Pape, Les Baux-de-Provence, Gordes und Roussillon. Angeleinte Hunde werden nach vorheriger Absprache akzeptiert, auf den meisten Strecken kostenlos.",
+          "descriptionNl": "Dagtochtbusdiensten vanaf Avignon naar Provencaalse dorpen, de Pont du Gard, Chateauneuf-du-Pape, Les Baux-de-Provence, Gordes en Roussillon. Aangelijnde honden worden na overleg vooraf geaccepteerd, op de meeste routes gratis.",
           "petPolicyDe": "Kostenlos nach vorheriger Absprache",
-          "tipDe": "24 Stunden vorher anrufen, um die Hundemitnahme zu bestätigen, in der Hochsaison können Touren zum Pont du Gard ausgebucht sein und Fahrer kurzfristige Hunde ablehnen."
+          "petPolicyNl": "Gratis na overleg vooraf",
+          "tipDe": "24 Stunden vorher anrufen, um die Hundemitnahme zu bestätigen, in der Hochsaison können Touren zum Pont du Gard ausgebucht sein und Fahrer kurzfristige Hunde ablehnen.",
+          "tipNl": "Bel 24 uur van tevoren om te bevestigen dat de hond mee mag, in het hoogseizoen kunnen tours naar de Pont du Gard volgeboekt zijn en weigeren chauffeurs honden op het laatste moment."
         }
       ],
       "tipsEn": [
@@ -541,7 +595,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Verkehrsmittel in Avignon",
+      "titleNl": "Huisdiervriendelijk vervoer in Avignon",
       "introDe": "Avignons kompakte Altstadt ist von einem Ende zum anderen in 20 Minuten zu Fuß erreichbar. Für Tagesausflüge akzeptieren die Orizo-Stadtbusse, die SNCF-TGV/TER-Züge und die Provence-Excursion-Busse zu provenzalischen Dörfern allesamt angeleinte Hunde.",
+      "introNl": "De compacte oude binnenstad van Avignon is van het ene eind naar het andere in 20 minuten te voet te bereiken. Voor dagtochten accepteren de Orizo-stadsbussen, de SNCF TGV/TER-treinen en de Provence-excursiebussen naar Provencaalse dorpen allemaal aangelijnde honden.",
       "faqsDe": [
         {
           "q": "Brauche ich ein Ticket für meinen Hund in Avignons Bussen?",
@@ -550,6 +606,16 @@
         {
           "q": "Ist der Pont du Gard mit haustierfreundlichen Verkehrsmitteln erreichbar?",
           "a": "Ja. Der saisonale Reisebus Provence Excursion (April bis Oktober) akzeptiert angeleinte Hunde nach vorheriger Absprache, kostenlos. SNCF-TER-Züge nach Remoulins (15 Minuten) plus 25 Minuten Fußweg funktionieren ebenfalls."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Heb ik een ticket nodig voor mijn hond in de bussen van Avignon?",
+          "a": "Kleine honden in een draagbox reizen gratis. Middelgrote en grote honden hebben een gereduceerd ticket van 1 euro nodig via de Orizo-app. Hetzelfde ticket geldt de hele dag in het hele netwerk."
+        },
+        {
+          "q": "Is de Pont du Gard bereikbaar met huisdiervriendelijk vervoer?",
+          "a": "Ja. De seizoensgebonden touringcar Provence Excursion (april tot oktober) accepteert aangelijnde honden na overleg vooraf, gratis. SNCF TER-treinen naar Remoulins (15 minuten) plus 25 minuten lopen werkt ook."
         }
       ]
     },
@@ -603,8 +669,11 @@
           ],
           "tipPt": "Melhor ao pôr do sol para a fotografia icónica do Palais des Papes e da Pont Saint-Bénézet; leve uma toalha grossa, a margem do Ródano é pedregosa.",
           "leashRuleDe": "Leinenpflicht auf dem Weg; Freilauf auf ländlichen Kiesabschnitten außerhalb der Brutzeit",
+          "leashRuleNl": "Aanlijnplicht op het pad, loslopen op landelijke grindstukken buiten het broedseizoen",
           "descriptionDe": "Das Rhône-Ufer gegenüber dem Papstpalast, ein Ufer aus Kies und Gras mit dem ikonischen Panorama der Stadtsilhouette. Kostenlose Fährfahrt am Fuß der Pont Saint-Bénézet (April bis Oktober). Der beliebteste Uferspaziergang in Avignon.",
-          "tipDe": "Am schönsten bei Sonnenuntergang für das ikonische Foto des Papstpalasts und der Pont Saint-Bénézet, ein dickes Handtuch mitbringen, das Rhône-Ufer ist steinig."
+          "descriptionNl": "De Rhone-oever tegenover het Pauselijk Paleis, een oever van grind en gras met het iconische panorama van de stadssilhouet. Gratis veerpont aan de voet van de Pont Saint-Benezet (april tot oktober). De populairste oeverwandeling in Avignon.",
+          "tipDe": "Am schönsten bei Sonnenuntergang für das ikonische Foto des Papstpalasts und der Pont Saint-Bénézet, ein dickes Handtuch mitbringen, das Rhône-Ufer ist steinig.",
+          "tipNl": "Het mooist bij zonsondergang voor de iconische foto van het Pauselijk Paleis en de Pont Saint-Benezet, neem een dikke handdoek mee, de Rhone-oever is stenig."
         },
         {
           "name": "Fontaine-de-Vaucluse Sorgue Source",
@@ -648,8 +717,11 @@
           ],
           "tipPt": "A água é gélida (12 °C todo o ano) e rápida: os cães podem beber nos rápidos, mas o banho é perigoso. A caminhada de 1,5 km a subir até à nascente leva 30 min ida e volta.",
           "leashRuleDe": "Leinenpflicht auf dem Weg; Freilauf in ländlichen Abschnitten außerhalb der Brutzeit",
+          "leashRuleNl": "Aanlijnplicht op het pad, loslopen in landelijke stukken buiten het broedseizoen",
           "descriptionDe": "Die fünftgrößte Karstquelle der Welt, die Quelle der Sorgue am Fuß einer 230 m hohen Klippe, umgeben von Eichenwald und einem Fluss mit Trinkwasserqualität A. 30 Minuten mit dem Auto östlich von Avignon, ganzjährig hundefreundlich.",
-          "tipDe": "Das Wasser ist eiskalt (ganzjährig 12 °C) und reißend, Hunde können aus den Stromschnellen trinken, aber Schwimmen ist unsicher. Der 1,5 km lange Aufstieg zur Quelle dauert 30 Minuten hin und zurück."
+          "descriptionNl": "De op vier na grootste karstbron ter wereld, de bron van de Sorgue aan de voet van een 230 meter hoge rots, omringd door eikenbos en een rivier met drinkwaterkwaliteit A. 30 minuten met de auto ten oosten van Avignon, het hele jaar door hondvriendelijk.",
+          "tipDe": "Das Wasser ist eiskalt (ganzjährig 12 °C) und reißend, Hunde können aus den Stromschnellen trinken, aber Schwimmen ist unsicher. Der 1,5 km lange Aufstieg zur Quelle dauert 30 Minuten hin und zurück.",
+          "tipNl": "Het water is ijskoud (het hele jaar door 12 graden) en heeft een sterke stroming, honden kunnen uit de stroomversnellingen drinken, maar zwemmen is onveilig. De klim van 1,5 km naar de bron duurt 30 minuten heen en terug."
         },
         {
           "name": "Saintes-Maries-de-la-Mer Beach (East)",
@@ -693,8 +765,11 @@
           ],
           "tipPt": "Combine com um safari pela Camargue (flamingos cor-de-rosa em liberdade, cavalos brancos, touros negros); a maioria dos operadores aceita cães com trela mediante acordo prévio.",
           "leashRuleDe": "Ganzjährig Freilauf am östlichen Hundestrand",
+          "leashRuleNl": "Het hele jaar door loslopen op het oostelijke hondenstrand",
           "descriptionDe": "Die Hauptwallfahrtsstadt der Camargue und ein hundefreundlicher Mittelmeerstrand, breiter flacher Sand in der östlichen Hundezone, ganzjährig zugänglich. 1:15 Std. mit dem Auto südwestlich von Avignon. Der nächstgelegene hundefreundliche Mittelmeerstrand.",
-          "tipDe": "Kombinieren Sie dies mit einer Camargue-Safari (frei lebende rosa Flamingos, weiße Pferde, schwarze Stiere), die meisten Anbieter akzeptieren angeleinte Hunde nach vorheriger Absprache."
+          "descriptionNl": "De belangrijkste bedevaartsstad van de Camargue en een hondvriendelijk Middellandse Zeestrand, breed vlak zand in de oostelijke hondenzone, het hele jaar toegankelijk. 1u15 met de auto ten zuidwesten van Avignon. Het dichtstbijzijnde hondvriendelijke Middellandse Zeestrand.",
+          "tipDe": "Kombinieren Sie dies mit einer Camargue-Safari (frei lebende rosa Flamingos, weiße Pferde, schwarze Stiere), die meisten Anbieter akzeptieren angeleinte Hunde nach vorheriger Absprache.",
+          "tipNl": "Combineer dit met een Camargue-safari (vrij levende roze flamingo's, witte paarden, zwarte stieren), de meeste aanbieders accepteren aangelijnde honden na overleg vooraf."
         }
       ],
       "tipsEn": [
@@ -760,7 +835,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Seen & Flüsse in der Nähe von Avignon",
+      "titleNl": "Hondvriendelijke meren en rivieren bij Avignon",
       "introDe": "Avignon liegt im Landesinneren, aber die Rhône selbst, die Sorgue in Fontaine-de-Vaucluse und die Mittelmeerküste bei Saintes-Maries-de-la-Mer sind alle als hundefreundliche Tagesausflüge innerhalb einer Stunde erreichbar.",
+      "introNl": "Avignon ligt landinwaarts, maar de Rhone zelf, de Sorgue in Fontaine-de-Vaucluse en de Middellandse Zeekust bij Saintes-Maries-de-la-Mer zijn allemaal binnen een uur bereikbaar als hondvriendelijke dagtochten.",
       "faqsDe": [
         {
           "q": "Wie weit ist der nächste Hundestrand von Avignon entfernt?",
@@ -769,6 +846,16 @@
         {
           "q": "Können Hunde in der Rhône bei Avignon schwimmen?",
           "a": "Nicht in der Innenstadt, Frachtschiffsverkehr und Strömungen machen es unsicher. Der ländliche Abschnitt der Barthelasse nördlich der Stadt ist die einzige sichere Schwimmstelle in der Rhône, mit ruhigen Untiefen und Kieszugängen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe ver is het dichtstbijzijnde hondenstrand vanaf Avignon?",
+          "a": "1u15 met de auto naar Saintes-Maries-de-la-Mer in de Camargue, het hele jaar geopend oostelijk hondenstrand. De Sorgue in Fontaine-de-Vaucluse (30 min. oostelijk) biedt een wandeling langs een rivier met drinkwaterkwaliteit A, maar geen zwemmen."
+        },
+        {
+          "q": "Kunnen honden zwemmen in de Rhone bij Avignon?",
+          "a": "Niet in de binnenstad, vrachtvaart en stroming maken het onveilig. Het landelijke stuk van de Barthelasse ten noorden van de stad is de enige veilige zwemplek in de Rhone, met rustige ondiepten en grindtoegangen."
         }
       ]
     },
@@ -802,7 +889,9 @@
           "descriptionPt": "Clínica veterinária de urgências 24h em Le Pontet, 5 km a norte de Avinhão, com cirurgia completa, cuidados intensivos, ecografia, raio-x e ressonância magnética. O veterinário 24/7 mais próximo da região de Avinhão-Vaucluse-Gard.",
           "tipPt": "Ligue antes de ir: fazem triagem por telefone e podem reencaminhar casos noturnos não urgentes.",
           "descriptionDe": "24-Stunden-Notfalltierklinik in Le Pontet, 5 km nördlich von Avignon, vollständige Chirurgie, Intensivstation, Ultraschall, Röntgen, MRT. Der nächstgelegene 24/7-Tierarzt für die Region Avignon-Vaucluse-Gard.",
-          "tipDe": "Vor der Fahrt anrufen, sie führen eine telefonische Triage durch und verweisen bei nicht dringenden nächtlichen Fällen möglicherweise weiter."
+          "descriptionNl": "24-uurs spoeddierenkliniek in Le Pontet, 5 km ten noorden van Avignon, volledige chirurgie, intensive care, echografie, rontgen, MRI. De dichtstbijzijnde 24/7-dierenarts voor de regio Avignon-Vaucluse-Gard.",
+          "tipDe": "Vor der Fahrt anrufen, sie führen eine telefonische Triage durch und verweisen bei nicht dringenden nächtlichen Fällen möglicherweise weiter.",
+          "tipNl": "Bel voordat je gaat, ze doen een telefonische triage en verwijzen bij niet-dringende nachtelijke gevallen mogelijk door."
         },
         {
           "name": "Cabinet Vétérinaire des Remparts",
@@ -825,7 +914,9 @@
           "descriptionPt": "Clínica moderna de animais de companhia, em horário diurno, mesmo a sul das muralhas medievais, com medicina geral, vacinação, cirurgia e estomatologia. As chamadas fora de horário são desviadas para a VetSud 24h.",
           "tipPt": "Falam inglês fluente e aceitam atendimentos sem marcação para vacinas e verificações de microchip antes das 11:00.",
           "descriptionDe": "Moderne tagsüber geöffnete Kleintierpraxis unmittelbar südlich der mittelalterlichen Mauern, Allgemeinmedizin, Impfungen, Chirurgie, Zahnbehandlung. Anrufe außerhalb der Öffnungszeiten werden zu VetSud 24h weitergeleitet.",
-          "tipDe": "Man spricht dort fließend Englisch und nimmt vor 11:00 Uhr Laufkundschaft für Impfungen und Mikrochip-Kontrollen an."
+          "descriptionNl": "Moderne overdag geopende kleindierenpraktijk direct ten zuiden van de middeleeuwse muren, algemene zorg, vaccinaties, chirurgie, tandheelkunde. Oproepen buiten openingstijden worden doorgeschakeld naar VetSud 24h.",
+          "tipDe": "Man spricht dort fließend Englisch und nimmt vor 11:00 Uhr Laufkundschaft für Impfungen und Mikrochip-Kontrollen an.",
+          "tipNl": "Daar spreekt men vloeiend Engels en neemt men voor 11.00 uur inloop aan voor vaccinaties en chipcontroles."
         },
         {
           "name": "Cabinet Vétérinaire de la Barthelasse",
@@ -849,7 +940,9 @@
           "descriptionPt": "Consultório veterinário diurno na Île de la Barthelasse, com medicina geral, emissão de passaporte europeu para animais, implantação de microchip e consultas comportamentais.",
           "tipPt": "Útil para emitir ou atualizar um passaporte europeu para animais durante a viagem: a Barthelasse cobra cerca de 30 € por um passaporte e 35 € por um microchip.",
           "descriptionDe": "Tagsüber geöffnete Tierarztpraxis auf der Île de la Barthelasse, Allgemeinmedizin, Ausstellung von EU-Heimtierausweisen, Mikrochipping, Verhaltensberatung.",
-          "tipDe": "Nützlich zum Ausstellen/Aktualisieren eines EU-Heimtierausweises während der Reise, die Barthelasse berechnet etwa 30 € für einen Ausweis, 35 € für einen Mikrochip."
+          "descriptionNl": "Overdag geopende dierenartspraktijk op het Ile de la Barthelasse, algemene zorg, uitgifte van EU-huisdierenpaspoorten, chippen, gedragsadvies.",
+          "tipDe": "Nützlich zum Ausstellen/Aktualisieren eines EU-Heimtierausweises während der Reise, die Barthelasse berechnet etwa 30 € für einen Ausweis, 35 € für einen Mikrochip.",
+          "tipNl": "Handig om onderweg een EU-huisdierenpaspoort te laten uitgeven of bijwerken, de Barthelasse rekent ongeveer 30 euro voor een paspoort, 35 euro voor een chip."
         }
       ],
       "tipsEn": [
@@ -915,7 +1008,9 @@
         }
       ],
       "titleDe": "24-Stunden-Notfall-Tierärzte in Avignon, Tierkliniken & Tierbetreuung",
+      "titleNl": "24-uurs spoeddierenartsen in Avignon, dierenklinieken en dierenoppas",
       "introDe": "Avignon hat eine solide tagsüber verfügbare Tierarztversorgung und eine regionale 24-Stunden-Notfallklinik in Le Pontet, 5 km nördlich. Die Tiermedizinische Fakultät Marseille, 1 Stunde südlich, ist das wichtigste Überweisungszentrum.",
+      "introNl": "Avignon heeft een solide overdag beschikbare dierenartsenzorg en een regionale 24-uurs spoedkliniek in Le Pontet, 5 km ten noorden. De diergeneeskundige faculteit van Marseille, 1 uur zuidelijker, is het belangrijkste doorverwijscentrum.",
       "faqsDe": [
         {
           "q": "Wo ist der 24-Stunden-Notfall-Tierarzt in der Nähe von Avignon?",
@@ -924,6 +1019,16 @@
         {
           "q": "Brauche ich einen Heimtierausweis für Avignon?",
           "a": "Ja, für die Einreise von außerhalb Frankreichs. EU-Heimtierausweis mit Tollwutimpfung (≥21 Tage, nicht abgelaufen) und ISO-Mikrochip, Standard-EU-Regeln. Keine zusätzlichen französischen Formalitäten."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar is de 24-uurs spoeddierenarts bij Avignon?",
+          "a": "Clinique Veterinaire VetSud, 50 Avenue Jean Boccace in Le Pontet, +33 4 90 32 28 28, 5 km ten noorden aan de N7. Bel van tevoren voor triage."
+        },
+        {
+          "q": "Heb ik een huisdierenpaspoort nodig voor Avignon?",
+          "a": "Ja, voor binnenkomst van buiten Frankrijk. EU-huisdierenpaspoort met hondsdolheidsvaccinatie (minstens 21 dagen, niet verlopen) en ISO-chip, standaard EU-regels. Geen extra Franse formaliteiten."
         }
       ]
     },
@@ -942,7 +1047,8 @@
           "descriptionFr": "Avril-mai et septembre-octobre sont idéaux, maxima moyens 18-25 °C, gérables pour un chien, la floraison de la lavande (mi-juin à mi-juillet) et la lumière de vendanges automnales au pic. Évitez les week-ends du Festival d'Avignon (mi-juillet) et les canicules d'août (35-38 °C).",
           "descriptionEs": "Abril-mayo y septiembre-octubre son ideales, máximas medias 18-25 °C, manejables para un perro, la floración de la lavanda (mediados de junio a mediados de julio) y la luz de vendimia otoñal en su pico. Evita los fines de semana del Festival de Aviñón (mediados de julio) y las olas de calor de agosto (35-38 °C).",
           "descriptionPt": "Abril-maio e setembro-outubro são ideais, com máximas médias de 18-25 °C, suportáveis para um cão, a floração da lavanda (de meados de junho a meados de julho) e a luz das vindimas de outono no seu auge. Evite os fins de semana do Festival de Avinhão (meados de julho) e as ondas de calor de agosto (35-38 °C).",
-          "descriptionDe": "April bis Mai und September bis Oktober sind ideal, durchschnittliche Höchsttemperaturen von 18-25 °C, für Hunde gut verträglich, die Lavendelblüte (Mitte Juni bis Mitte Juli) und das herbstliche Erntelicht auf ihrem Höhepunkt. Die Wochenenden des Festival d'Avignon (Mitte Juli) und die Hitzewellen im August (35-38 °C) meiden."
+          "descriptionDe": "April bis Mai und September bis Oktober sind ideal, durchschnittliche Höchsttemperaturen von 18-25 °C, für Hunde gut verträglich, die Lavendelblüte (Mitte Juni bis Mitte Juli) und das herbstliche Erntelicht auf ihrem Höhepunkt. Die Wochenenden des Festival d'Avignon (Mitte Juli) und die Hitzewellen im August (35-38 °C) meiden.",
+          "descriptionNl": "April tot mei en september tot oktober zijn ideaal, gemiddelde maximumtemperaturen van 18-25 graden, goed te verdragen voor honden, de lavendelbloei (half juni tot half juli) en het herfstige oogstlicht op hun hoogtepunt. Mijd de weekenden van het Festival d'Avignon (half juli) en de hittegolven in augustus (35-38 graden)."
         },
         {
           "name": "Avignon Festival impact",
@@ -951,7 +1057,8 @@
           "descriptionFr": "Le Festival d'Avignon (début-fin juillet) attire 150 000 amateurs de théâtre dans l'intra-muros, les restaurants se réservent 6 semaines à l'avance, les hôtels triplent leurs tarifs, la Place de l'Horloge devient impraticable. Avec un chien anxieux, évitez complètement cette quinzaine ; avec un chien calme, réservez hôtel + promenades canines avant 11h et après 21h uniquement.",
           "descriptionEs": "El Festival de Aviñón (principios-finales de julio) trae 150 000 aficionados al teatro al intra-muros, los restaurantes se reservan con 6 semanas de antelación, los hoteles triplican sus tarifas, la Place de l'Horloge se vuelve impracticable. Con perro ansioso, evita por completo esta quincena; con perro tranquilo, reserva hotel + paseos caninos antes de las 11:00 y después de las 21:00 solamente.",
           "descriptionPt": "O Festival d'Avignon (início a fim de julho) traz 150 000 amantes de teatro para dentro das muralhas: os restaurantes esgotam com 6 semanas de antecedência, os hotéis triplicam de preço e a Place de l'Horloge fica intransitável. Com um cão ansioso, evite por completo esta quinzena; com um cão tranquilo, reserve hotel e passeios apenas antes das 11:00 e depois das 21:00.",
-          "descriptionDe": "Das Festival d'Avignon (Anfang bis Ende Juli) bringt 150.000 Theaterfans in die Altstadt, Restaurants sind 6 Wochen im Voraus ausgebucht, Hotelpreise verdreifachen sich, die Place de l'Horloge wird unpassierbar. Mit einem ängstlichen Hund diese zwei Wochen komplett meiden; mit einem ruhigen Hund Hotel + Hundespaziergänge nur vor 11:00 und nach 21:00 Uhr buchen."
+          "descriptionDe": "Das Festival d'Avignon (Anfang bis Ende Juli) bringt 150.000 Theaterfans in die Altstadt, Restaurants sind 6 Wochen im Voraus ausgebucht, Hotelpreise verdreifachen sich, die Place de l'Horloge wird unpassierbar. Mit einem ängstlichen Hund diese zwei Wochen komplett meiden; mit einem ruhigen Hund Hotel + Hundespaziergänge nur vor 11:00 und nach 21:00 Uhr buchen.",
+          "descriptionNl": "Het Festival d'Avignon (begin tot eind juli) brengt 150.000 theaterfans naar de oude binnenstad, restaurants zijn 6 weken van tevoren volgeboekt, hotelprijzen verdrievoudigen, de Place de l'Horloge wordt onbegaanbaar. Mijd deze twee weken volledig met een angstige hond, met een rustige hond boek je hotel + hondenwandelingen alleen voor 11.00 uur en na 21.00 uur."
         },
         {
           "name": "Currency & cost",
@@ -960,7 +1067,8 @@
           "descriptionFr": "La France utilise l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel. Les suppléments animaux dans les hôtels d'Avignon tournent autour de 12-18 €/nuit, légèrement au-dessus de la médiane UE en raison du tarif touristique provençal, mais bien en-dessous de Paris ou Nice.",
           "descriptionEs": "Francia usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal. Los suplementos para mascotas en hoteles de Aviñón rondan 12-18 €/noche, ligeramente por encima de la mediana UE por el pricing turístico provenzal, pero muy por debajo de París o Niza.",
           "descriptionPt": "A França usa o euro. A maioria dos hotéis e restaurantes aceita Visa/Mastercard e o contactless é universal. Os suplementos para animais nos hotéis de Avinhão rondam os 12-18 €/noite, ligeiramente acima da mediana da UE devido aos preços turísticos provençais, mas bastante abaixo de Paris ou Nice.",
-          "descriptionDe": "Frankreich verwendet den Euro. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, kontaktloses Zahlen ist überall üblich. Haustierzuschläge in Hotels in Avignon liegen im Schnitt bei 12-18 €/Nacht, etwas über dem EU-Median wegen der provenzalischen Touristenpreise, aber deutlich unter Paris oder Nizza."
+          "descriptionDe": "Frankreich verwendet den Euro. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, kontaktloses Zahlen ist überall üblich. Haustierzuschläge in Hotels in Avignon liegen im Schnitt bei 12-18 €/Nacht, etwas über dem EU-Median wegen der provenzalischen Touristenpreise, aber deutlich unter Paris oder Nizza.",
+          "descriptionNl": "Frankrijk gebruikt de euro. De meeste hotels en restaurants accepteren Visa/Mastercard, contactloos betalen is overal gebruikelijk. Huisdiertoeslagen in hotels in Avignon liggen gemiddeld op 12-18 euro per nacht, iets boven het EU-mediaan vanwege de Provencaalse toeristenprijzen, maar duidelijk onder Parijs of Nice."
         }
       ],
       "tipsEn": [
@@ -1026,7 +1134,9 @@
         }
       ],
       "titleDe": "Mit Hund nach Avignon reisen: Praktische Tipps",
+      "titleNl": "Met hond naar Avignon reizen, praktische tips",
       "introDe": "Avignon, die provenzalische Hauptstadt und ehemaliger Sitz von sieben Päpsten, vereint eine von der UNESCO ausgezeichnete ummauerte Altstadt, den imposanten Papstpalast, die legendäre Pont Saint-Bénézet und die direkte TGV-Anbindung von Paris in 2:40 Stunden.",
+      "introNl": "Avignon, de Provencaalse hoofdstad en voormalige zetel van zeven pausen, combineert een door UNESCO bekroonde ommuurde oude binnenstad, het imposante Pauselijk Paleis, de legendarische Pont Saint-Benezet en de directe TGV-verbinding vanaf Parijs in 2u40.",
       "faqsDe": [
         {
           "q": "Eignet sich Avignon für ein hundefreundliches Wochenende?",
@@ -1035,6 +1145,16 @@
         {
           "q": "Wie schneidet Avignon im Vergleich zu Aix-en-Provence für Reisen mit Hund ab?",
           "a": "Avignon ist größer, zentraler gelegen (TGV in 2:40 Std. von Paris), mit deutlich mehr zugänglicher Natur (Île de la Barthelasse, Rhône, Camargue, Luberon alle innerhalb 1 Std.). Aix-en-Provence ist gehobener und ruhiger. Avignon gewinnt bei Vielfalt und Bahnanbindung; Aix bei einem intimen provenzalischen Wochenende."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Avignon geschikt voor een hondvriendelijk weekend?",
+          "a": "Ja, Avignon combineert een door UNESCO bekroonde ommuurde oude binnenstad, de iconische buitenterrassen bij het Pauselijk Paleis, het Ile de la Barthelasse met 4 km oeverwandeling, de tuinen van de Rocher des Doms met het iconische stadspanorama en dagtochten naar lavendelvelden, de Camargue en de Pont du Gard. Mijd half juli (festival) en augustus (hittegolven)."
+        },
+        {
+          "q": "Hoe verhoudt Avignon zich tot Aix-en-Provence voor reizen met hond?",
+          "a": "Avignon is groter, centraler gelegen (TGV in 2u40 vanaf Parijs), met duidelijk meer toegankelijke natuur (Ile de la Barthelasse, Rhone, Camargue, Luberon allemaal binnen 1 uur). Aix-en-Provence is chiquer en rustiger. Avignon wint op diversiteit en treinverbinding, Aix op een intiem Provencaals weekend."
         }
       ]
     },
@@ -1066,8 +1186,11 @@
           "petPolicyPt": "Praça gratuita; visita interior só cães de assistência",
           "tipPt": "A vista ao pôr do sol a partir da Place du Palais, olhando para a fachada iluminada, é a fotografia icónica de Avinhão, mais tranquila antes das 11:00 e depois das 19:00.",
           "descriptionDe": "Der größte gotische Palast Europas, seit 1995 UNESCO-Welterbe, ehemaliger Sitz von sieben Päpsten (1309-1377). Die Place du Palais und der äußere Wehrgang sind rund um die Uhr geöffnet und mit angeleinten Hunden kostenlos hundefreundlich. Die Innenraumführung lässt nur Assistenzhunde zu.",
+          "descriptionNl": "Het grootste gotische paleis van Europa, sinds 1995 UNESCO-werelderfgoed, voormalige zetel van zeven pausen (1309-1377). De Place du Palais en de buitenste weergang zijn dag en nacht open en met aangelijnde honden gratis hondvriendelijk. De rondleiding binnen laat alleen assistentiehonden toe.",
           "petPolicyDe": "Platz kostenlos; Innenraumführung nur mit Assistenzhunden",
-          "tipDe": "Der Sonnenuntergangsblick von der Place du Palais auf die beleuchtete Fassade ist das ikonische Foto von Avignon, am ruhigsten vor 11:00 und nach 19:00 Uhr."
+          "petPolicyNl": "Plein gratis, rondleiding binnen alleen met assistentiehonden",
+          "tipDe": "Der Sonnenuntergangsblick von der Place du Palais auf die beleuchtete Fassade ist das ikonische Foto von Avignon, am ruhigsten vor 11:00 und nach 19:00 Uhr.",
+          "tipNl": "Het zonsondergangzicht vanaf de Place du Palais op de verlichte gevel is de iconische foto van Avignon, het rustigst voor 11.00 uur en na 19.00 uur."
         },
         {
           "name": "Pont Saint-Bénézet (Exterior View)",
@@ -1089,8 +1212,11 @@
           "petPolicyPt": "Vista exterior gratuita; travessia da ponte só cães de assistência",
           "tipPt": "A esplanada superior do Rocher des Doms é o melhor miradouro gratuito que aceita cães, combinando a Ponte, o Ródano e o Mont Ventoux ao fundo.",
           "descriptionDe": "Die legendäre mittelalterliche Brücke aus dem 12. Jahrhundert, von den ursprünglich 22 Bögen sind nur 4 erhalten, Thema des Kinderliedes 'Sur le Pont d'Avignon'. Der Außenblick vom Rocher des Doms oder von der Île de la Barthelasse ist mit angeleinten Hunden kostenlos hundefreundlich. Das Betreten der Brücke (kostenpflichtiges Ticket) ist nur Assistenzhunden gestattet.",
+          "descriptionNl": "De legendarische middeleeuwse brug uit de 12e eeuw, van de oorspronkelijke 22 bogen zijn er nog maar 4 over, onderwerp van het kinderliedje Sur le Pont d'Avignon. Het uitzicht van buitenaf vanaf de Rocher des Doms of het Ile de la Barthelasse is met aangelijnde honden gratis hondvriendelijk. De brug betreden (betaald ticket) is alleen toegestaan voor assistentiehonden.",
           "petPolicyDe": "Außenblick kostenlos; Brückenbegehung nur mit Assistenzhunden",
-          "tipDe": "Die obere Terrasse des Rocher des Doms ist der beste kostenlose hundefreundliche Aussichtspunkt, sie vereint die Brücke, die Rhône und den Mont Ventoux dahinter."
+          "petPolicyNl": "Uitzicht van buitenaf gratis, brug betreden alleen met assistentiehonden",
+          "tipDe": "Die obere Terrasse des Rocher des Doms ist der beste kostenlose hundefreundliche Aussichtspunkt, sie vereint die Brücke, die Rhône und den Mont Ventoux dahinter.",
+          "tipNl": "Het bovenste terras van de Rocher des Doms is het beste gratis hondvriendelijke uitkijkpunt, het combineert de brug, de Rhone en de Mont Ventoux daarachter."
         },
         {
           "name": "Place de l'Horloge",
@@ -1112,8 +1238,11 @@
           "petPolicyPt": "Praça pública, cães com trela gratuitamente",
           "tipPt": "As manhãs (08:00-10:00) são as mais tranquilas; os fins de tarde (18:00-23:00) são a hora de encontro local. Durante o Festival d'Avignon (meados de julho) a praça fica intransitável, evite com um cão ansioso.",
           "descriptionDe": "Avignons wichtigster Café- und Theaterplatz, das Hôtel de Ville, die Oper aus dem 19. Jahrhundert und über 30 Cafeterrassen rund um den gesamten Platz. Rund um die Uhr geöffnet, mit angeleinten Hunden überall hundefreundlich. Der ikonischste Ort in Avignon zum Hunde- und Leute-Beobachten.",
+          "descriptionNl": "Het belangrijkste cafe- en theaterplein van Avignon, het Hotel de Ville, de opera uit de 19e eeuw en meer dan 30 caféterrassen rond het hele plein. Dag en nacht open, met aangelijnde honden overal hondvriendelijk. De meest iconische plek in Avignon om honden en mensen te kijken.",
           "petPolicyDe": "Öffentlicher Platz, angeleinte Hunde kostenlos",
-          "tipDe": "Vormittags (08:00-10:00 Uhr) am ruhigsten; abends (18:00-23:00 Uhr) ist die lokale Treffzeit. Während des Festival d'Avignon (Mitte Juli) ist der Platz unpassierbar, mit einem ängstlichen Hund meiden."
+          "petPolicyNl": "Openbaar plein, aangelijnde honden gratis",
+          "tipDe": "Vormittags (08:00-10:00 Uhr) am ruhigsten; abends (18:00-23:00 Uhr) ist die lokale Treffzeit. Während des Festival d'Avignon (Mitte Juli) ist der Platz unpassierbar, mit einem ängstlichen Hund meiden.",
+          "tipNl": "Het rustigst in de ochtend (8.00-10.00 uur), 's avonds (18.00-23.00 uur) is de lokale ontmoetingstijd. Tijdens het Festival d'Avignon (half juli) is het plein onbegaanbaar, mijd het dan met een angstige hond."
         }
       ],
       "tipsEn": [
@@ -1179,7 +1308,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Avignon",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Avignon",
       "introDe": "Die meisten der bekannten Freiluft-Sehenswürdigkeiten Avignons sind hundefreundlich, die Place du Palais des Papes, die Place de l'Horloge, die mittelalterlichen Stadtmauern, die Gärten des Rocher des Doms und der Außenblick auf die Pont Saint-Bénézet heißen allesamt angeleinte Hunde kostenlos willkommen.",
+      "introNl": "De meeste bekende openluchtbezienswaardigheden van Avignon zijn hondvriendelijk, de Place du Palais des Papes, de Place de l'Horloge, de middeleeuwse stadsmuren, de tuinen van de Rocher des Doms en het uitzicht van buitenaf op de Pont Saint-Benezet verwelkomen allemaal aangelijnde honden gratis.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund zum Papstpalast mitnehmen?",
@@ -1188,6 +1319,16 @@
         {
           "q": "Sind Hunde auf der Pont d'Avignon erlaubt?",
           "a": "Das Betreten der eigentlichen Brücke mit kostenpflichtigem Ticket ist nur Assistenzhunden gestattet. Der Außenblick von der oberen Terrasse des Rocher des Doms oder vom Ufer der Île de la Barthelasse ist mit angeleinten Hunden vollständig kostenlos hundefreundlich, mit dem Mont Ventoux als Kulisse."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen naar het Pauselijk Paleis?",
+          "a": "Naar de Place du Palais, de buitenste weergang en de tuinen van de Rocher des Doms wel, aan de lijn, gratis. De rondleiding binnen het paleis laat alleen assistentiehonden toe."
+        },
+        {
+          "q": "Zijn honden toegestaan op de Pont d'Avignon?",
+          "a": "De brug zelf betreden met een betaald ticket is alleen toegestaan voor assistentiehonden. Het uitzicht van buitenaf vanaf het bovenste terras van de Rocher des Doms of vanaf de oever van het Ile de la Barthelasse is met aangelijnde honden volledig gratis hondvriendelijk, met de Mont Ventoux als decor."
         }
       ]
     },
@@ -1215,7 +1356,9 @@
           "descriptionPt": "Plataforma internacional de pet-sitting com cerca de 30 cuidadores verificados sediados em Avinhão num raio de 5 km do centro, com visitas pontuais, creche diurna e alojamento durante a noite. Todos os cuidadores são verificados e o seguro vem incluído.",
           "tipPt": "Filtre por cuidadores que falam inglês nas definições da plataforma: cerca de 55% dos cuidadores de Avinhão falam inglês fluente graças à base de visitantes internacionais do Festival.",
           "descriptionDe": "Internationale Plattform für Haustierbetreuung mit etwa 30 verifizierten Sittern in Avignon im Umkreis von 5 km um das Zentrum, Kurzbesuche, Hundetagesbetreuung, Übernachtungsbetreuung. Alle Sitter sind geprüft, eine Versicherung ist inbegriffen.",
-          "tipDe": "In den Plattformeinstellungen nach englischsprachigen Sittern filtern, etwa 55% der Sitter in Avignon sprechen dank der internationalen Festivalbesucher fließend Englisch."
+          "descriptionNl": "Internationaal platform voor huisdierenoppas met ongeveer 30 geverifieerde oppassers in Avignon binnen een straal van 5 km rond het centrum, korte bezoekjes, hondendagopvang, overnachtingszorg. Alle oppassers zijn gescreend, een verzekering is inbegrepen.",
+          "tipDe": "In den Plattformeinstellungen nach englischsprachigen Sittern filtern, etwa 55% der Sitter in Avignon sprechen dank der internationalen Festivalbesucher fließend Englisch.",
+          "tipNl": "Filter in de platforminstellingen op Engelstalige oppassers, ongeveer 55% van de oppassers in Avignon spreekt dankzij de internationale festivalbezoekers vloeiend Engels."
         },
         {
           "name": "Holidog Avignon",
@@ -1233,7 +1376,9 @@
           "descriptionPt": "Plataforma de pet-sitting de foco francês, com cerca de 20 cuidadores verificados em Avinhão e uma linha telefónica veterinária 24/7 incluída em cada reserva. Tarifa média de 22-30 €/dia para alojamento e 12-15 € por um passeio pontual de 30 min.",
           "tipPt": "Reserve com pelo menos 4 semanas de antecedência durante o Festival d'Avignon (início de julho): todos os cuidadores de Avinhão ficam totalmente reservados durante a quinzena do festival.",
           "descriptionDe": "Auf Frankreich fokussierte Plattform für Haustierbetreuung mit rund 20 verifizierten Sittern in Avignon und einer 24/7-Tierarzt-Hotline, die bei jeder Buchung inbegriffen ist. Durchschnittlicher Preis 22-30 €/Tag für Übernachtungsbetreuung, 12-15 € für einen 30-minütigen Kurzbesuch.",
-          "tipDe": "Während des Festival d'Avignon (Anfang Juli) mindestens 4 Wochen im Voraus buchen, jeder Sitter in Avignon ist während der Festivalwochen komplett ausgebucht."
+          "descriptionNl": "Op Frankrijk gericht platform voor huisdierenoppas met ongeveer 20 geverifieerde oppassers in Avignon en een 24/7-dierenartshotline die bij elke boeking is inbegrepen. Gemiddelde prijs 22-30 euro per dag voor overnachtingszorg, 12-15 euro voor een kort bezoekje van 30 minuten.",
+          "tipDe": "Während des Festival d'Avignon (Anfang Juli) mindestens 4 Wochen im Voraus buchen, jeder Sitter in Avignon ist während der Festivalwochen komplett ausgebucht.",
+          "tipNl": "Boek tijdens het Festival d'Avignon (begin juli) minstens 4 weken van tevoren, elke oppasser in Avignon zit tijdens de festivalweken volledig volgeboekt."
         }
       ],
       "tipsEn": [
@@ -1299,7 +1444,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Avignon",
+      "titleNl": "Huisdierenoppas en uitlaatservice in Avignon",
       "introDe": "Für Tagesausflüge, bei denen der Hund nicht mitkommen kann (Innenraum des Papstpalasts, Petit Palais, Begehung der Pont Saint-Bénézet), bietet Avignon zuverlässige, verifizierte Haustierbetreuung über internationale und französische Plattformen.",
+      "introNl": "Voor dagtochten waarbij de hond niet mee kan (het interieur van het Pauselijk Paleis, Petit Palais, de Pont Saint-Benezet betreden), biedt Avignon betrouwbare, geverifieerde huisdierenoppas via internationale en Franse platforms.",
       "faqsDe": [
         {
           "q": "Wie viel kostet eine Hundetagesbetreuung in Avignon?",
@@ -1308,6 +1455,16 @@
         {
           "q": "Finde ich in Avignon einen englischsprachigen Sitter?",
           "a": "Ja, etwa 55% der Sitter in Avignon auf Pawshake sprechen dank des internationalen Festivalpublikums fließend Englisch. Die Plattform nach Sprache filtern."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost hondendagopvang in Avignon?",
+          "a": "22-30 euro per dag afhankelijk van platform en hondengrootte, via Pawshake of Holidog. Korte bezoekjes kosten 12-15 euro voor 30 minuten. Tijdens het Festival d'Avignon (begin juli) stijgen de prijzen met 30-50%."
+        },
+        {
+          "q": "Vind ik in Avignon een Engelstalige oppasser?",
+          "a": "Ja, ongeveer 55% van de oppassers in Avignon op Pawshake spreekt dankzij het internationale festivalpubliek vloeiend Engels. Filter het platform op taal."
         }
       ]
     }

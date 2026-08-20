@@ -41,9 +41,13 @@
           "tipPt": "Não há cozinha, por isso coma noutro sítio e venha cá pela cerveja e pelo ambiente; as várias salas pequenas costumam deixar um canto tranquilo para um cão cansado.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden+Rule+Smithy+Brow+Ambleside",
           "descriptionDe": "Ein denkmalgeschützter traditioneller Robinsons-Pub aus dem Jahr 1683, abseits der Hauptstraße gelegen, mit echtem Kaminfeuer, Sitzbänken und einer gepflegten Auswahl an Fassbieren. Hunde sind überall im Pub willkommen, Wasserschüsseln stehen immer bereit, doch es gibt keine Speisekarte, es ist also eher ein Ort für Drinks und Rast als für eine Mahlzeit.",
+          "descriptionNl": "Een monumentale traditionele Robinsons-pub uit 1683, iets van de hoofdstraat af, met een echte open haard, houten banken en een verzorgde selectie tapbieren. Honden zijn overal in de pub welkom, waterbakken staan altijd klaar, maar er is geen menukaart, dus het is meer een plek voor een drankje en rust dan voor een maaltijd.",
           "petPolicyDe": "Hunde überall im Pub an der Leine willkommen; Wasserschüsseln vorhanden.",
+          "petPolicyNl": "Honden overal in de pub aan de lijn welkom; waterbakken aanwezig.",
           "mustTryDe": "Ein gepflegtes Robinsons-Fassbier am Kamin",
-          "tipDe": "Es gibt keine Küche, essen Sie also anderswo und kommen Sie hierher für das Bier und die Atmosphäre; die mehreren kleinen Räume bieten meist eine ruhige Ecke für einen müden Hund."
+          "mustTryNl": "Een verzorgd Robinsons-tapbier bij de open haard",
+          "tipDe": "Es gibt keine Küche, essen Sie also anderswo und kommen Sie hierher für das Bier und die Atmosphäre; die mehreren kleinen Räume bieten meist eine ruhige Ecke für einen müden Hund.",
+          "tipNl": "Er is geen keuken, eet dus elders en kom hier voor het bier en de sfeer; de meerdere kleine kamers bieden meestal een rustig hoekje voor een moe hondje."
         },
         {
           "name": "The Royal Oak",
@@ -71,9 +75,13 @@
           "tipPt": "Fica cheio e barulhento nas noites de música ao vivo, por isso se o seu cão é sensível ao barulho venha mais cedo para uma refeição tranquila no bar.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal+Oak+Main+Street+Ambleside",
           "descriptionDe": "Ein lebhafter Greene-King-Pub im Herzen von Ambleside mit herzhaften Pub-Klassikern, echten Ales, Live-Musik und Quizabenden. Er ist wirklich hundefreundlich, heißt Hunde überall willkommen und bietet sogar eine Hundespeisekarte, sodass Ihr Hund isst, während Sie essen.",
+          "descriptionNl": "Een levendige Greene King-pub in het hart van Ambleside met stevige pubklassiekers, echte ales, livemuziek en pubquizavonden. Hij is echt hondvriendelijk, verwelkomt honden overal en heeft zelfs een hondenmenu, zodat je hond kan eten terwijl jij eet.",
           "petPolicyDe": "Hunde überall an der Leine willkommen; eine Hundespeisekarte ist verfügbar.",
+          "petPolicyNl": "Honden overal aan de lijn welkom; er is een hondenmenu beschikbaar.",
           "mustTryDe": "Ein herzhafter Pub-Klassiker nach einer Fellwanderung",
-          "tipDe": "An Live-Musik-Abenden wird es voll und laut, kommen Sie also bei einem lärmempfindlichen Hund lieber früher für ein ruhiges Essen in der Bar."
+          "mustTryNl": "Een stevige pubklassieker na een wandeling met je hond",
+          "tipDe": "An Live-Musik-Abenden wird es voll und laut, kommen Sie also bei einem lärmempfindlichen Hund lieber früher für ein ruhiges Essen in der Bar.",
+          "tipNl": "Op avonden met livemuziek wordt het druk en luid, kom dus liever vroeger voor een rustige maaltijd aan de bar als je hond gevoelig is voor lawaai."
         },
         {
           "name": "The Unicorn",
@@ -101,9 +109,13 @@
           "tipPt": "O bar de vigas baixas é aconchegante e tranquilo, um bom refúgio com um cão numa tarde de chuva quando os pubs maiores enchem.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Unicorn+North+Road+Ambleside",
           "descriptionDe": "Ein gemütliches ehemaliges Postkutschenwirtshaus, über dreihundert Jahre alt, in einer Seitenstraße gelegen und als ältester Pub der Stadt gehandelt, mit mindestens vier Bieren vom Fass. Es serviert hausgemachte Pub-Klassiker einschließlich eines Sonntagsbratens, und Hunde sind in der traditionellen, niedrig gebälkten Bar willkommen.",
+          "descriptionNl": "Een gezellige oude postkoetsherberg, ruim driehonderd jaar oud, in een zijstraat gelegen en te boek staand als de oudste pub van het stadje, met minstens vier tapbieren. Er worden zelfgemaakte pubklassiekers geserveerd, inclusief een zondagse braadschotel, en honden zijn welkom in de traditionele bar met lage balken.",
           "petPolicyDe": "Hunde in der Bar an der Leine willkommen.",
+          "petPolicyNl": "Honden aan de lijn welkom in de bar.",
           "mustTryDe": "Der Sonntagsbraten und ein lokales Fassbier",
-          "tipDe": "Die niedrig gebälkte Bar ist gemütlich und ruhig, ein guter Rückzugsort mit Hund an einem verregneten Nachmittag, wenn die größeren Pubs sich füllen."
+          "mustTryNl": "De zondagse braadschotel en een lokaal tapbier",
+          "tipDe": "Die niedrig gebälkte Bar ist gemütlich und ruhig, ein guter Rückzugsort mit Hund an einem verregneten Nachmittag, wenn die größeren Pubs sich füllen.",
+          "tipNl": "De bar met lage balken is gezellig en rustig, een fijne schuilplek met hond op een regenachtige middag, wanneer de grotere pubs volstromen."
         }
       ],
       "tipsEn": [
@@ -167,7 +179,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Ambleside",
+      "titleNl": "Hondvriendelijke restaurants in Ambleside",
       "introDe": "Die britische Pubkultur macht Ambleside für Hundebesitzer wirklich unkompliziert: Die meisten Pubs heißen Hunde in der Bar standardmäßig willkommen, oft wartet schon eine Wasserschüssel und manchmal sogar eine Hundespeisekarte. Der dichteste Cluster liegt rund um das Market Cross und die kleinen Gassen daran, wo nasse Stiefel und schlammige Pfoten von Wanderern, die von Loughrigg und Stock Ghyll kommen, eher die Regel als die Ausnahme sind.",
+      "introNl": "De Britse pubcultuur maakt Ambleside echt eenvoudig voor hondenbaasjes: de meeste pubs verwelkomen honden standaard aan de bar, vaak staat er al een waterbak klaar en soms is er zelfs een hondenmenu. De dichtste concentratie ligt rond het Market Cross en de kleine steegjes eromheen, waar natte laarzen en modderige pootjes van wandelaars die van Loughrigg en Stock Ghyll komen eerder regel dan uitzondering zijn.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Pubs und Restaurants in Ambleside drinnen erlaubt?",
@@ -176,6 +190,16 @@
         {
           "q": "Muss ich in Ambleside einen hundefreundlichen Tisch reservieren?",
           "a": "Für die Barbereiche, wo Hunde sitzen, meist nicht nötig. An belebten verregneten Wochenenden füllen sich die beliebten Pubs am späten Nachmittag, daher hilft frühes Kommen oder Vorausbuchen, einen Tisch mit Ihrem Hund zu bekommen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden binnen in pubs en restaurants in Ambleside?",
+          "a": "Ja, in de meeste gevallen. Britse pubs verwelkomen van oudsher honden, en rond Ambleside laat de grote meerderheid een aangelijnde hond aan de bar toe, vaak met waterbak en soms met hondenmenu. Formele restaurantruimtes met tafelbediening zijn de uitzondering, dus vraag bij aankomst welk gedeelte hondvriendelijk is."
+        },
+        {
+          "q": "Moet ik in Ambleside een hondvriendelijke tafel reserveren?",
+          "a": "Voor de bargedeeltes waar honden mogen zitten, meestal niet nodig. Op drukke regenachtige weekenden stromen de populaire pubs laat in de middag vol, dus vroeg komen of vooraf boeken helpt om een tafel met je hond te bemachtigen."
         }
       ]
     },
@@ -209,8 +233,11 @@
           "tipPt": "O trilho pode escorregar perto da cascata, por isso mantenha os cães perto na rocha molhada; vá cedo para ter os miradouros só para si.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stock+Ghyll+Force+Ambleside",
           "descriptionDe": "Ein kurzer, leichter Spaziergang von etwa 1,5 bis 2,5 Meilen, der durch Wald vom Rand von Ambleside zu einem dramatischen 21 Meter hohen Wasserfall aufsteigt, einer der am besten zugänglichen Wasserfälle im Lake District. Er beginnt nur wenige Minuten vom Market Cross entfernt und ist ein perfekter kurzer Ausflug, wenn die hohen Fells unter Wolken liegen.",
+          "descriptionNl": "Een korte, makkelijke wandeling van ongeveer 1,5 tot 2,5 mijl die door bos vanaf de rand van Ambleside omhoog klimt naar een indrukwekkende waterval van 21 meter, een van de best toegankelijke watervallen in het Lake District. Hij begint slechts enkele minuten van het Market Cross en is een perfect kort uitstapje wanneer de hoge fells onder de wolken liggen.",
           "offLeashAreaDe": "Hunde können unter enger Kontrolle ohne Leine auf den bewaldeten Wegen laufen, wo frei von anderen; halten Sie sie an der Leine in der Nähe des Wasserrandes, der Straße und weidender Flächen oberhalb des Waldes.",
-          "tipDe": "Der Weg kann in der Nähe der Fälle rutschig sein, halten Sie Hunde also auf nassem Fels nahe bei sich; gehen Sie früh los, um die Aussichtspunkte für sich zu haben."
+          "offLeashAreaNl": "Honden mogen onder strikte controle los lopen op de beboste paden, waar geen anderen zijn; houd ze aan de lijn bij de waterrand, de weg en de weidegronden boven het bos.",
+          "tipDe": "Der Weg kann in der Nähe der Fälle rutschig sein, halten Sie Hunde also auf nassem Fels nahe bei sich; gehen Sie früh los, um die Aussichtspunkte für sich zu haben.",
+          "tipNl": "Het pad kan glad zijn bij de waterval, houd honden dus dicht bij je op nat gesteente; ga er vroeg op uit om de uitzichtpunten voor jezelf te hebben."
         },
         {
           "name": "Loughrigg Fell",
@@ -232,8 +259,11 @@
           "tipPt": "Os trilhos entrelaçam-se e é fácil perder o percurso na névoa, por isso leve um mapa; Rydal Cave é um ponto de retorno divertido e abrigado com um cão.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Loughrigg+Fell+Ambleside",
           "descriptionDe": "Ein niedriges, weitläufiges Fell zwischen Ambleside, Rydal und Grasmere mit einem Labyrinth von Wegen, gewaltigen Ausblicken über Windermere und Rydal Water sowie der stimmungsvollen Rydal Cave zum Erkunden. Längere Runden verbinden Loughrigg Terrace und die Höhle über etwa 6,5 Meilen, doch kürzere Schleifen ab Rydal sind ebenso lohnend.",
+          "descriptionNl": "Een laag, uitgestrekt fell tussen Ambleside, Rydal en Grasmere met een doolhof aan paden, geweldige uitzichten over Windermere en Rydal Water, en de sfeervolle Rydal Cave om te verkennen. Langere routes verbinden Loughrigg Terrace en de grot over ongeveer 6,5 mijl, maar kortere lussen vanaf Rydal zijn even de moeite waard.",
           "offLeashAreaDe": "Hunde können unter enger Kontrolle ohne Leine auf dem offenen Fell laufen, wo kein Vieh vorhanden ist, doch hier weiden Schafe weitläufig, also anleinen, sobald sie in Sicht sind und in der Nähe von Rydal Hall.",
-          "tipDe": "Die Wege verzweigen sich, und man verliert im Nebel leicht die Route, führen Sie also eine Karte mit; die Rydal Cave ist ein unterhaltsamer, geschützter Wendepunkt mit Hund."
+          "offLeashAreaNl": "Honden mogen onder strikte controle los lopen op het open fell, waar geen vee is, maar hier grazen schapen wijdverspreid, dus lijn ze aan zodra je ze ziet en in de buurt van Rydal Hall.",
+          "tipDe": "Die Wege verzweigen sich, und man verliert im Nebel leicht die Route, führen Sie also eine Karte mit; die Rydal Cave ist ein unterhaltsamer, geschützter Wendepunkt mit Hund.",
+          "tipNl": "De paden vertakken zich en je verliest de route makkelijk in de mist, neem dus een kaart mee; de Rydal Cave is een leuk, beschut keerpunt met hond."
         },
         {
           "name": "Rydal Water and White Moss",
@@ -255,8 +285,11 @@
           "tipPt": "Rydal Water é um lago favorito para o banho de cães, mas verifique as algas azul-esverdeadas com calor antes de deixar um cão entrar; parta dos parques de White Moss para o acesso mais fácil.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rydal+Water+White+Moss",
           "descriptionDe": "Ein sanfter, meist flacher Rundweg um einen der kleinsten und schönsten Seen des Gebiets, der den Uferweg, die White-Moss-Wälder und die schilfbewachsenen Ränder verbindet, die Wordsworth liebte. Es ist ein leichter, niedrig gelegener Spaziergang, der sich für ältere Hunde eignet und auf Loughrigg für mehr erweitert werden kann.",
+          "descriptionNl": "Een zachte, grotendeels vlakke rondwandeling om een van de kleinste en mooiste meren van het gebied, die het oeverpad, de White Moss-bossen en de rietrijke oevers verbindt waar Wordsworth zo van hield. Het is een makkelijke, laaggelegen wandeling, geschikt voor oudere honden, en kan worden uitgebreid naar Loughrigg voor meer.",
           "offLeashAreaDe": "Ohne Leine unter enger Kontrolle im offenen Wald und am Ufer, wo frei von Vieh; an der Leine in der Nähe der Straße, der Parkplätze und der Felder, die oft beweidet werden.",
-          "tipDe": "Rydal Water ist ein beliebter Schwimmsee für Hunde, prüfen Sie aber bei warmem Wetter vor dem Baden auf Blaualgen; starten Sie an den White-Moss-Parkplätzen für den einfachsten Zugang."
+          "offLeashAreaNl": "Los lopen onder strikte controle mag in het open bos en langs de oever, waar geen vee is; aan de lijn bij de weg, de parkeerplaatsen en de velden die vaak begraasd worden.",
+          "tipDe": "Rydal Water ist ein beliebter Schwimmsee für Hunde, prüfen Sie aber bei warmem Wetter vor dem Baden auf Blaualgen; starten Sie an den White-Moss-Parkplätzen für den einfachsten Zugang.",
+          "tipNl": "Rydal Water is een populair zwemmeer voor honden, maar controleer bij warm weer voor het baden op blauwalg; start bij de parkeerplaats White Moss voor de makkelijkste toegang."
         }
       ],
       "tipsEn": [
@@ -320,7 +353,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Wanderwege und Fells rund um Ambleside",
+      "titleNl": "Hondvriendelijke wandelpaden en fells rond Ambleside",
       "introDe": "Das ist der Grund, einen Hund nach Ambleside mitzubringen. Hunde sind auf fast jedem Fell und öffentlichen Fußweg im Lake District willkommen, vom Wasserfallweg auf den Stock Ghyll wenige Minuten vom Market Cross entfernt bis zum offenen Kamm des Loughrigg Fell und dem ruhigen Ufer des Rydal Water. Die goldene Regel ist einfach: Halten Sie Ihren Hund in der Nähe von weidenden Schafen und anderem Vieh an der Leine, ebenso während der Bodenbrütersaison im Frühling, und lassen Sie ihn überall sonst unter enger Kontrolle laufen.",
+      "introNl": "Dit is dé reden om een hond mee te nemen naar Ambleside. Honden zijn welkom op bijna elk fell en openbaar wandelpad in het Lake District, van het waterval-pad naar de Stock Ghyll enkele minuten van het Market Cross tot de open bergrug van Loughrigg Fell en de rustige oever van Rydal Water. De gouden regel is simpel: houd je hond aan de lijn in de buurt van grazende schapen en ander vee, en ook tijdens het broedseizoen van grondbroeders in het voorjaar, en laat hem overal elders los lopen onder strikte controle.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde auf den Fells rund um Ambleside ohne Leine laufen?",
@@ -329,6 +364,16 @@
         {
           "q": "Ist es sicher, meinen Hund in der Nähe von Ambleside schwimmen zu lassen?",
           "a": "Hunde können am Windermere-Seekopf in Waterhead und im Rydal Water schwimmen, doch Blaualgen können bei warmem Wetter blühen und sind für Hunde potenziell tödlich. Prüfen Sie vor dem Baden auf Algenwarnungen und Beschilderung, meiden Sie schaumiges Wasser und spülen Sie den Hund danach ab."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden los lopen op de fells rond Ambleside?",
+          "a": "Ja, onder strikte controle op het open fell waar geen vee is, zoals in delen van Loughrigg, maar je moet je hond aanlijnen in de buurt van schapen en runderen en tijdens het broedseizoen van grondbroeders in het voorjaar. Loughrigg en de velden bij Rydal worden vaak begraasd, houd de lijn dus binnen handbereik."
+        },
+        {
+          "q": "Is het veilig om mijn hond te laten zwemmen bij Ambleside?",
+          "a": "Honden kunnen zwemmen bij de kop van Windermere in Waterhead en in Rydal Water, maar blauwalg kan bij warm weer opbloeien en is potentieel dodelijk voor honden. Controleer voor het baden op algwaarschuwingen en bebording, vermijd schuimig water en spoel je hond daarna af."
         }
       ]
     },
@@ -436,7 +481,9 @@
         }
       ],
       "titleDe": "Mit Hund in Ambleside unterwegs",
+      "titleNl": "Je verplaatsen in Ambleside met een hond",
       "introDe": "Ambleside hat keinen eigenen Bahnhof, daher reisen die meisten Besucher mit dem Auto oder per Bahn nach Windermere an und legen die kurze restliche Strecke mit dem Bus zurück, beides nimmt Hunde mit. Vor Ort ist die Stadt kompakt und zu Fuß erkundbar, die Stagecoach-Busse nehmen Hunde nach Ermessen des Fahrers mit, und die Windermere Lake Cruises vom Waterhead-Pier befördern Hunde kostenlos, was autofreie Tage mit Hund wirklich einfach macht.",
+      "introNl": "Ambleside heeft geen eigen treinstation, dus de meeste bezoekers reizen met de auto of met de trein naar Windermere en leggen het korte laatste stukje per bus af, beide nemen honden mee. Ter plaatse is het stadje compact en te voet te verkennen, de Stagecoach-bussen nemen honden mee naar goeddunken van de chauffeur, en de Windermere Lake Cruises vanaf de Waterhead-pier vervoeren honden gratis, wat autovrije dagen met hond echt makkelijk maakt.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund im Zug in Richtung Ambleside mitnehmen?",
@@ -445,6 +492,16 @@
         {
           "q": "Dürfen Hunde auf die Windermere-Seeboote von Ambleside aus?",
           "a": "Ja, und kostenlos. Windermere Lake Cruises heißt alle Hunde an der Leine kostenlos vom Waterhead-Pier aus willkommen, ohne Buchungspflicht, und stellt Wasserschüsseln an Bord bereit. Bei sehr belebten Fahrten kann man Sie bitten, Platz zu machen, damit ängstliche Passagiere Abstand haben."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen op de trein richting Ambleside?",
+          "a": "Ja, hoewel Ambleside zelf geen station heeft. Bij National Rail reizen maximaal twee honden per reiziger gratis mee; ze moeten aan de lijn zijn of in een draagtas en mogen niet op de stoelen zitten. Je reist op de schilderachtige zijlijn naar Windermere en legt het laatste stuk af met de hondvriendelijke bus 555 of 599."
+        },
+        {
+          "q": "Mogen honden mee op de meerboten van Windermere vanuit Ambleside?",
+          "a": "Ja, en gratis. Windermere Lake Cruises verwelkomt alle aangelijnde honden gratis vanaf de Waterhead-pier, zonder boekingsplicht, en heeft waterbakken aan boord. Bij zeer drukke vaarten kan je gevraagd worden om plaats te maken zodat angstige passagiers afstand kunnen houden."
         }
       ]
     },
@@ -520,7 +577,9 @@
         }
       ],
       "titleDe": "Hundefreundliches Baden am Seeufer bei Ambleside",
+      "titleNl": "Hondvriendelijk zwemmen aan het meer bij Ambleside",
       "introDe": "Ambleside liegt am Kopf des Lake Windermere im Herzen des Lake District, es gibt hier also keine Küste und keinen Meeresstrand; was das Gebiet stattdessen bietet, ist Süßwasser-Seeufer, an dem Hunde waten und schwimmen können. Anders als an vielen englischen Meeresstränden gibt es am Seeufer kein saisonales Hundeverbot, doch das eigentliche Sicherheitsproblem sind Blaualgen, die bei warmem Wetter in den Seen blühen und für Hunde tödlich sein können, prüfen Sie also immer vor dem Baden auf Warnungen und Beschilderung.",
+      "introNl": "Ambleside ligt aan de kop van Lake Windermere, in het hart van het Lake District, er is hier dus geen kust en geen zeestrand; wat het gebied wel biedt, is zoetwater-oever waar honden kunnen pootjebaden en zwemmen. Anders dan bij veel Engelse zeestranden geldt er aan de meeroever geen seizoensverbod voor honden, maar het echte veiligheidsprobleem is blauwalg, die bij warm weer in de meren kan opbloeien en dodelijk kan zijn voor honden, controleer dus altijd op waarschuwingen en bebording voordat je gaat zwemmen.",
       "faqsDe": [
         {
           "q": "Gibt es Hundestrände in Ambleside?",
@@ -529,6 +588,16 @@
         {
           "q": "Ist es sicher, meinen Hund in der Nähe von Ambleside schwimmen zu lassen?",
           "a": "Meist ja, doch das Hauptrisiko sind Blaualgen, die bei warmem Wetter auftreten können und für Hunde potenziell tödlich sind. Prüfen Sie auf Algenwarnungen und Beschilderung, meiden Sie schaumiges oder verfärbtes Wasser und spülen Sie Ihren Hund nach dem Schwimmen in Windermere oder Rydal Water ab."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er hondenstranden in Ambleside?",
+          "a": "Geen zeestranden, want Ambleside ligt aan de kop van Lake Windermere zonder kust. In plaats daarvan is er hondvriendelijke zoetwateroever op plekken zoals Waterhead en Rydal Water, waar honden het hele jaar door kunnen zwemmen, zonder seizoensverbod, zolang je let op blauwalg."
+        },
+        {
+          "q": "Is het veilig om mijn hond te laten zwemmen bij Ambleside?",
+          "a": "Meestal wel, maar het grootste risico is blauwalg, die bij warm weer kan opduiken en potentieel dodelijk is voor honden. Controleer op algwaarschuwingen en bebording, vermijd schuimig of verkleurd water en spoel je hond af na het zwemmen in Windermere of Rydal Water."
         }
       ]
     },
@@ -565,8 +634,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oakhill+Veterinary+Group+Church+Street+Ambleside",
           "photo": "/images/city-places/ambleside-vets-oakhill-ambleside.jpg",
           "hoursDe": "Mo-Fr 09:00-17:00 Uhr; außerhalb der Öffnungszeiten über die 24h-Linie Windermere",
+          "hoursNl": "Ma-vr 09:00-17:00 uur; buiten openingstijden via de 24-uurslijn van Windermere",
           "descriptionDe": "Die Ambleside-Filiale der Oakhill Veterinary Group in der Church Street im Ortszentrum, praktisch, wenn Sie in Ambleside, Grasmere oder den höheren Fells wohnen. Sie betreibt tagsüber Kleintierkliniken und teilt sich die 24-Stunden-Notfallregelung mit der Praxis in Windermere.",
-          "tipDe": "Rufen Sie für alles über Nacht oder am Wochenende die 24h-Linie Windermere an, die Sie an den Bereitschaftstierarzt oder die Notfallklinik in Kendal verweist."
+          "descriptionNl": "De vestiging van de Oakhill Veterinary Group in Ambleside, aan de Church Street in het centrum, handig als je verblijft in Ambleside, Grasmere of de hogere fells. Overdag worden er kleine-huisdierenspreekuren gehouden en de 24-uursspoedregeling wordt gedeeld met de praktijk in Windermere.",
+          "tipDe": "Rufen Sie für alles über Nacht oder am Wochenende die 24h-Linie Windermere an, die Sie an den Bereitschaftstierarzt oder die Notfallklinik in Kendal verweist.",
+          "tipNl": "Bel voor alles 's nachts of in het weekend naar de 24-uurslijn van Windermere, die je doorverwijst naar de dienstdoende dierenarts of de spoedkliniek in Kendal."
         },
         {
           "name": "Oakhill Veterinary Group (Windermere)",
@@ -590,8 +662,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oakhill+Veterinary+Group+Lake+Road+Windermere",
           "photo": "/images/city-places/ambleside-vets-oakhill-windermere.jpg",
           "hoursDe": "Mo-Fr 08:00-18:30 Uhr, Sa 09:00-14:00 Uhr; täglich 24h-Notfalllinie",
+          "hoursNl": "Ma-vr 08:00-18:30 uur, za 09:00-14:00 uur; dagelijks 24-uursspoedlijn",
           "descriptionDe": "Die Hauptpraxis der Gruppe im nahen Windermere, etwa zehn Minuten von Ambleside entfernt, mit routinemäßiger und dringender Kleintierversorgung. Die Windermere-Nummer ist als 24-Stunden-Notfalllinie besetzt, sie ist also der erste Anruf außerhalb der Öffnungszeiten.",
-          "tipDe": "Rufen Sie bei jedem Notfall außerhalb der Öffnungszeiten zuerst die Windermere-Nummer an; man verweist Sie bei Bedarf an den Bereitschaftstierarzt oder die Notfallklinik in Kendal."
+          "descriptionNl": "De hoofdpraktijk van de groep in het nabijgelegen Windermere, zo'n tien minuten van Ambleside, met routine- en spoedzorg voor kleine huisdieren. Het nummer van Windermere is bemand als 24-uursspoedlijn, dus het is het eerste nummer dat je buiten openingstijden belt.",
+          "tipDe": "Rufen Sie bei jedem Notfall außerhalb der Öffnungszeiten zuerst die Windermere-Nummer an; man verweist Sie bei Bedarf an den Bereitschaftstierarzt oder die Notfallklinik in Kendal.",
+          "tipNl": "Bel bij elke noodsituatie buiten openingstijden eerst het nummer van Windermere; je wordt indien nodig doorverwezen naar de dienstdoende dierenarts of de spoedkliniek in Kendal."
         },
         {
           "name": "Vets Now Kendal (emergency)",
@@ -615,8 +690,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vets+Now+Kendal+Natland+Road",
           "photo": "/images/city-places/ambleside-vets-vets-now-kendal.jpg",
           "hoursDe": "Nachts, an Wochenenden und Feiertagen (nur Notfälle außerhalb der Öffnungszeiten)",
+          "hoursNl": "'s Nachts, in het weekend en op feestdagen (alleen spoedgevallen buiten openingstijden)",
           "descriptionDe": "Eine eigene Vets-Now-Notfallklinik innerhalb der Westmorland Vets in Kendal, etwa 30 Minuten von Ambleside entfernt, die Hunde, Katzen und Kleintiere nachts, an Wochenenden und Feiertagen behandelt. Sie ist das regionale Zentrum außerhalb der Öffnungszeiten, wenn örtliche Praxen geschlossen sind.",
-          "tipDe": "Rufen Sie an, bevor Sie sich auf den Weg machen, damit man sich vorbereiten und die schnellste Route bestätigen kann; speichern Sie diese Nummer zusammen mit der Oakhill-Windermere-Linie."
+          "descriptionNl": "Een aparte Vets Now-spoedkliniek binnen de Westmorland Vets in Kendal, zo'n 30 minuten van Ambleside, die honden, katten en kleine huisdieren behandelt 's nachts, in het weekend en op feestdagen. Het is het regionale centrum buiten openingstijden wanneer plaatselijke praktijken gesloten zijn.",
+          "tipDe": "Rufen Sie an, bevor Sie sich auf den Weg machen, damit man sich vorbereiten und die schnellste Route bestätigen kann; speichern Sie diese Nummer zusammen mit der Oakhill-Windermere-Linie.",
+          "tipNl": "Bel voordat je vertrekt, zodat men zich kan voorbereiden en de snelste route kan bevestigen; sla dit nummer op samen met de Oakhill-Windermere-lijn."
         }
       ],
       "faqsEn": [
@@ -660,7 +738,9 @@
         }
       ],
       "titleDe": "Tierärzte in Ambleside",
+      "titleNl": "Dierenartsen in Ambleside",
       "introDe": "Ambleside hat eine eigene Filiale der Oakhill Veterinary Group im Ort, mit der Hauptpraxis eine kurze Fahrt entfernt in Windermere, die eine 24-Stunden-Notfalllinie betreibt, sowie einer eigenen Notfallklinik in Kendal außerhalb der Öffnungszeiten. Englisch wird hier durchgehend gesprochen. Besucher aus der EU sollten bedenken, dass Großbritannien den EU-Heimtierausweis zur Einreise nicht mehr akzeptiert: Hunde benötigen eine britische Tiergesundheitsbescheinigung (GB Animal Health Certificate), einen Mikrochip, eine gültige Tollwutimpfung und eine Bandwurmbehandlung, die 24 bis 120 Stunden vor Ankunft verabreicht wird, reisen Sie also mit allen Unterlagen.",
+      "introNl": "Ambleside heeft een eigen vestiging van de Oakhill Veterinary Group in het stadje, met de hoofdpraktijk op een korte rit in Windermere, die een 24-uursspoedlijn draait, plus een aparte spoedkliniek in Kendal buiten openingstijden. Er wordt hier overal Engels gesproken. Bezoekers uit de EU moeten weten dat het Verenigd Koninkrijk het EU-dierenpaspoort niet meer accepteert bij inreis: honden hebben een Brits diergezondheidscertificaat (GB Animal Health Certificate) nodig, een microchip, een geldige rabiësvaccinatie en een lintwormbehandeling toegediend 24 tot 120 uur voor aankomst, reis dus met alle papieren.",
       "faqsDe": [
         {
           "q": "Gibt es nachts einen Notfall-Tierarzt in der Nähe von Ambleside?",
@@ -669,6 +749,16 @@
         {
           "q": "Welche Unterlagen benötigt mein Hund für die Einreise aus der EU nach Großbritannien?",
           "a": "Großbritannien akzeptiert den EU-Heimtierausweis nicht zur Einreise. Ihr Hund benötigt eine britische Tiergesundheitsbescheinigung (GB Animal Health Certificate), einen Mikrochip und eine gültige Tollwutimpfung sowie eine zugelassene Bandwurmbehandlung, die 24 bis 120 Stunden vor Ankunft verabreicht wird, organisieren Sie dies also vor der Reise mit einem Tierarzt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er 's nachts een spoeddierenarts in de buurt van Ambleside?",
+          "a": "Ja. De Oakhill-vestiging in Ambleside verzorgt de dagzorg, de 24-uursspoedlijn loopt via de praktijk in Windermere zo'n tien minuten verderop, en de regionale spoedkliniek buiten openingstijden is Vets Now in Kendal, open 's nachts, in het weekend en op feestdagen. Bel van tevoren zodat ze op je voorbereid zijn."
+        },
+        {
+          "q": "Welke papieren heeft mijn hond nodig om vanuit de EU het Verenigd Koninkrijk binnen te komen?",
+          "a": "Het Verenigd Koninkrijk accepteert het EU-dierenpaspoort niet bij inreis. Je hond heeft een Brits diergezondheidscertificaat (GB Animal Health Certificate) nodig, een microchip en een geldige rabiësvaccinatie, plus een goedgekeurde lintwormbehandeling toegediend 24 tot 120 uur voor aankomst, regel dit dus vooraf met een dierenarts."
         }
       ]
     },
@@ -775,7 +865,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für einen Besuch in Ambleside mit Hund",
+      "titleNl": "Praktische tips voor een bezoek aan Ambleside met hond",
       "introDe": "Ambleside ist eine der hundefreundlichsten Städte Englands, doch zwei Dinge überraschen Besucher: die Papierformalitäten nach dem Brexit für die Einreise mit Hund nach Großbritannien und die Landregeln, die Schafe und Wildtiere auf den Fells schützen. Bringen Sie beides in Ordnung, dann ist der Rest einfach.",
+      "introNl": "Ambleside is een van de meest hondvriendelijke stadjes van Engeland, maar twee dingen verrassen bezoekers: de papierwerkregels na de brexit om met hond het Verenigd Koninkrijk binnen te komen, en de landregels die schapen en wilde dieren op de fells beschermen. Regel die twee, en de rest is eenvoudig.",
       "faqsDe": [
         {
           "q": "Ist Ambleside ein guter Ort für einen Besuch mit Hund?",
@@ -784,6 +876,16 @@
         {
           "q": "Benötigen EU-Besucher besondere Papiere, um einen Hund nach Ambleside mitzubringen?",
           "a": "Ja. Da Ambleside in Großbritannien liegt, können EU-Besucher den EU-Heimtierausweis nicht verwenden. Ihr Hund benötigt eine britische Tiergesundheitsbescheinigung, ausgestellt innerhalb von 10 Tagen vor der Reise, einen Mikrochip, eine gültige Tollwutimpfung und eine Bandwurmbehandlung 24 bis 120 Stunden vor Ankunft."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Ambleside een goede plek om met hond te bezoeken?",
+          "a": "Ja, een van de beste in Engeland. Honden zijn welkom in de meeste pubs, reizen gratis mee op de Windermere Lake Cruises vanaf Waterhead en kunnen bijna elk fell en wandelpad rond de kop van het meer belopen, zolang je ze aanlijnt bij vee en in de zomer let op blauwalg."
+        },
+        {
+          "q": "Hebben EU-bezoekers speciale papieren nodig om een hond mee te nemen naar Ambleside?",
+          "a": "Ja. Omdat Ambleside in het Verenigd Koninkrijk ligt, kunnen EU-bezoekers het EU-dierenpaspoort niet gebruiken. Je hond heeft een Brits diergezondheidscertificaat nodig, afgegeven binnen 10 dagen voor de reis, een microchip, een geldige rabiësvaccinatie en een lintwormbehandeling 24 tot 120 uur voor aankomst."
         }
       ]
     },
@@ -820,9 +922,13 @@
           "tipPt": "Apanhe o cruzeiro até Brockhole ou Bowness e combine-o com um passeio pela margem; os conveses superiores abertos são o melhor sítio para um cão num dia limpo.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Windermere+Lake+Cruises+Waterhead+Ambleside",
           "descriptionDe": "Die beste Art, Englands größten See zu erleben, auf klassischen Dampfern und Booten, die vom Waterhead-Pier am Kopf des Windermere hinunter nach Bowness, Brockhole und Lakeside fahren. Hunde reisen auf jeder planmäßigen Fahrt kostenlos, mit Wasserschüsseln an Bord.",
+          "descriptionNl": "De beste manier om Engelands grootste meer te ervaren, aan boord van klassieke stoomboten en boten die vanaf de Waterhead-pier aan de kop van Windermere naar Bowness, Brockhole en Lakeside varen. Honden reizen gratis mee op elke geplande vaart, met waterbakken aan boord.",
           "dogPolicyDe": "Alle Hunde kostenlos willkommen, an der Leine und nicht auf den Sitzen; keine Buchung nötig.",
+          "dogPolicyNl": "Alle honden gratis welkom, aan de lijn en niet op de stoelen; geen boeking nodig.",
           "admissionFeeDe": "Hunde kostenlos; Erwachsenenpreise je nach Strecke unterschiedlich",
-          "tipDe": "Nehmen Sie die Kreuzfahrt hinunter nach Brockhole oder Bowness und kombinieren Sie sie mit einem Uferspaziergang; die offenen Oberdecks sind an einem klaren Tag der schönste Platz für einen Hund."
+          "admissionFeeNl": "Honden gratis; volwassenenprijzen verschillen per traject",
+          "tipDe": "Nehmen Sie die Kreuzfahrt hinunter nach Brockhole oder Bowness und kombinieren Sie sie mit einem Uferspaziergang; die offenen Oberdecks sind an einem klaren Tag der schönste Platz für einen Hund.",
+          "tipNl": "Neem de cruise naar Brockhole of Bowness en combineer dit met een wandeling langs de oever; de open bovendekken zijn op een heldere dag de mooiste plek voor een hond."
         },
         {
           "name": "Bridge House (National Trust)",
@@ -847,9 +953,13 @@
           "tipPt": "Fica mesmo no caminho para o centro a partir do parque de Rydal Road, por isso é uma paragem fácil para fotos; o interior é pequeno demais para cães, mas o que conta é o exterior.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bridge+House+Ambleside",
           "descriptionDe": "Das winzige Haus aus dem 17. Jahrhundert, das auf einem einzigen Bogen über den Stock Beck thront, eines der meistfotografierten Gebäude im Lake District und das Wahrzeichen von Ambleside. Das Äußere, seine Stufen und der kleine Garten daneben sind rund um die Uhr geöffnet, ein charmanter kostenloser Stopp bei jedem Stadtbummel mit Hund.",
+          "descriptionNl": "Het piepkleine huisje uit de 17e eeuw dat op één enkele boog over de Stock Beck troont, een van de meest gefotografeerde gebouwen van het Lake District en het symbool van Ambleside. De buitenkant, de trapjes en het kleine tuintje ernaast zijn dag en nacht open, een charmante gratis stop tijdens elke stadswandeling met hond.",
           "dogPolicyDe": "Außen, die Stufen und der Garten sind 24 Stunden geöffnet; nur Assistenzhunde dürfen in das winzige Haus hinein.",
+          "dogPolicyNl": "Buitenkant, trapjes en tuin zijn 24 uur per dag open; alleen assistentiehonden mogen het piepkleine huisje in.",
           "admissionFeeDe": "Kostenlose Besichtigung von außen",
-          "tipDe": "Es liegt direkt auf dem Weg in die Stadt vom Parkplatz Rydal Road, ein einfacher Fotostopp; das Innere ist zu klein für Hunde, doch das Äußere ist der eigentliche Reiz."
+          "admissionFeeNl": "Gratis om van buiten te bekijken",
+          "tipDe": "Es liegt direkt auf dem Weg in die Stadt vom Parkplatz Rydal Road, ein einfacher Fotostopp; das Innere ist zu klein für Hunde, doch das Äußere ist der eigentliche Reiz.",
+          "tipNl": "Het ligt direct op de weg naar het stadje vanaf de parkeerplaats Rydal Road, een makkelijke fotostop; het interieur is te klein voor honden, maar de buitenkant is de eigenlijke attractie."
         },
         {
           "name": "Stagshaw Garden (National Trust)",
@@ -874,9 +984,13 @@
           "tipPt": "Combine o jardim com o passeio pelo bosque até Jenkin Crag para uma das melhores vistas fáceis do lago perto de Ambleside; a primavera é o auge do jardim.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stagshaw+Garden+Ambleside",
           "descriptionDe": "Ein ruhiger Waldgarten am Hügel oberhalb von Waterhead, im Frühling berühmt für seine Rhododendren, Azaleen und Kamelien, mit Wegen hinauf in die Skelghyll Woods und zum Aussichtspunkt Jenkin Crag über dem See. Angeleinte Hunde sind im Garten und im umliegenden Wald willkommen.",
+          "descriptionNl": "Een rustige bostuin op de heuvel boven Waterhead, in het voorjaar beroemd om zijn rododendrons, azalea's en camelia's, met paden omhoog naar de Skelghyll Woods en het uitzichtpunt Jenkin Crag boven het meer. Aangelijnde honden zijn welkom in de tuin en het omliggende bos.",
           "dogPolicyDe": "Hunde an der Leine willkommen; hier weiden Tiere, halten Sie Ihren Hund also angeleint und nehmen Sie Hinterlassenschaften mit.",
+          "dogPolicyNl": "Honden aan de lijn welkom; hier grazen dieren, houd je hond dus aangelijnd en ruim uitwerpselen op.",
           "admissionFeeDe": "Kostenlos; Parkplatz in der Nähe bei Waterhead",
-          "tipDe": "Kombinieren Sie den Garten mit dem Waldspaziergang hinauf zum Jenkin Crag für einen der besten leichten Seeblicke bei Ambleside; der Frühling ist die Hochsaison des Gartens."
+          "admissionFeeNl": "Gratis; parkeerplaats vlakbij bij Waterhead",
+          "tipDe": "Kombinieren Sie den Garten mit dem Waldspaziergang hinauf zum Jenkin Crag für einen der besten leichten Seeblicke bei Ambleside; der Frühling ist die Hochsaison des Gartens.",
+          "tipNl": "Combineer de tuin met de boswandeling omhoog naar Jenkin Crag voor een van de mooiste makkelijke meeruitzichten bij Ambleside; het voorjaar is het hoogtepunt van de tuin."
         }
       ],
       "tipsEn": [
@@ -940,7 +1054,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Ambleside",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Ambleside",
       "introDe": "Der Höhepunkt eines Hundetages in Ambleside ist der Lake Windermere selbst, und eine Kreuzfahrt ab dem Waterhead-Pier heißt Hunde kostenlos willkommen. Rund um die Stadt lassen auch mehrere Sehenswürdigkeiten Hunde zu, vom winzigen Bridge House, dem Wahrzeichen der Stadt, bis zu einem hügeligen National-Trust-Garten, sodass Sie Ihren Hund selten zurücklassen müssen.",
+      "introNl": "Het hoogtepunt van een dag met hond in Ambleside is Lake Windermere zelf, en een cruise vanaf de Waterhead-pier verwelkomt honden gratis. Rond het stadje laten ook diverse bezienswaardigheden honden toe, van het piepkleine Bridge House, het symbool van het stadje, tot een heuvelachtige National Trust-tuin, zodat je je hond zelden hoeft achter te laten.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund auf eine Windermere-Seekreuzfahrt ab Ambleside mitnehmen?",
@@ -949,6 +1065,16 @@
         {
           "q": "Welche Sehenswürdigkeiten in Ambleside erlauben Hunde?",
           "a": "Die Seekreuzfahrten ab Waterhead, das Äußere des Bridge House sowie der Stagshaw Garden mit seinem umliegenden Wald heißen alle angeleinte Hunde willkommen. Nur Assistenzhunde dürfen ins Bridge House hinein, und historische Innenräume anderswo schließen Hunde oft aus, der Fokus liegt also auf See, Gärten und Fells."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen op een Windermere-meercruise vanuit Ambleside?",
+          "a": "Ja. Windermere Lake Cruises verwelkomt alle aangelijnde honden gratis vanaf de Waterhead-pier, met waterbakken aan boord en zonder boekingsplicht. Houd je hond weg van de stoelen, en bij drukke vaarten kan het personeel je vragen plaats te maken voor andere passagiers."
+        },
+        {
+          "q": "Welke bezienswaardigheden in Ambleside laten honden toe?",
+          "a": "De meercruises vanaf Waterhead, de buitenkant van Bridge House en de Stagshaw Garden met het omliggende bos verwelkomen allemaal aangelijnde honden. Alleen assistentiehonden mogen Bridge House in, en historische interieurs elders sluiten honden vaak uit, de focus ligt dus op meer, tuinen en fells."
         }
       ]
     },
@@ -982,8 +1108,11 @@
           "tipEs": "Escribe a dos o tres cuidadores pronto y organiza un breve encuentro previo a tu viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
           "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço.",
           "descriptionDe": "Die größte Haustierbetreuungsplattform in Großbritannien, mit örtlichen Hundesittern, Pensionen und Gassigehern in ganz Cumbria und dem Lake District. Jeder Sitter hat ein Profil, Bewertungen und Fotos, und Sie buchen und bezahlen über die App mit inbegriffenem Versicherungsschutz.",
+          "descriptionNl": "Het grootste huisdierenoppasplatform van het Verenigd Koninkrijk, met plaatselijke hondenoppassers, pensions en uitlaters in heel Cumbria en het Lake District. Elke oppasser heeft een profiel, beoordelingen en foto's, en je boekt en betaalt via de app met verzekering inbegrepen.",
           "serviceTypeDe": "Hundepension, Tagesbetreuung, Kurzbesuche und Gassigehen",
-          "tipDe": "Schreiben Sie früh zwei oder drei Sitter an und vereinbaren Sie ein kurzes Kennenlerntreffen vor Ihrer Reise, damit sich Ihr Hund vor dem Betreuungstag wohlfühlt."
+          "serviceTypeNl": "Hondenpension, dagopvang, korte bezoekjes en uitlaten",
+          "tipDe": "Schreiben Sie früh zwei oder drei Sitter an und vereinbaren Sie ein kurzes Kennenlerntreffen vor Ihrer Reise, damit sich Ihr Hund vor dem Betreuungstag wohlfühlt.",
+          "tipNl": "Neem vroeg contact op met twee of drie oppassers en plan een korte kennismaking voor je reis, zodat je hond zich al op zijn gemak voelt voor de opvangdag."
         },
         {
           "name": "Tailster",
@@ -1005,8 +1134,11 @@
           "tipEs": "Da indicaciones claras sobre la llamada de vuelta de tu perro y su reacción ante las ovejas, ya que los cuidadores del Lakeland suelen pasear por prados y fell abierto donde hay ganado.",
           "tipPt": "Dê indicações claras sobre a chamada de retorno do seu cão e a sua reação às ovelhas, já que os cuidadores do Lakeland passeiam muitas vezes por campos e fell aberto onde há gado.",
           "descriptionDe": "Ein landesweites Netzwerk versicherter, geprüfter Hundegassigeher und Sitter in Großbritannien, das Sie anhand Ihrer Daten und der Bedürfnisse Ihres Hundes mit örtlichen Betreuern zusammenbringt. Eine nützliche Alternative zu Rover, um Betreuung für einen halbtägigen Spaziergang oder einen ganzen Tag auf den Fells zu finden.",
+          "descriptionNl": "Een landelijk netwerk van verzekerde, gecontroleerde hondenuitlaters en oppassers in het Verenigd Koninkrijk, dat je koppelt aan plaatselijke oppassers op basis van je gegevens en de behoeften van je hond. Een handig alternatief voor Rover om opvang te vinden voor een halve dag wandelen of een hele dag op de fells.",
           "serviceTypeDe": "Gassigehen, Tagesbetreuung und Hausbetreuung",
-          "tipDe": "Geben Sie klare Hinweise zum Rückruf Ihres Hundes und seiner Reaktion auf Schafe, da Betreuer im Lake District oft in Feldern und offenem Fell mit Vieh unterwegs sind."
+          "serviceTypeNl": "Uitlaten, dagopvang en huisoppas",
+          "tipDe": "Geben Sie klare Hinweise zum Rückruf Ihres Hundes und seiner Reaktion auf Schafe, da Betreuer im Lake District oft in Feldern und offenem Fell mit Vieh unterwegs sind.",
+          "tipNl": "Geef duidelijke instructies over de terugroepbaarheid van je hond en zijn reactie op schapen, want oppassers in het Lake District wandelen vaak in velden en open fell met vee."
         }
       ],
       "tipsEn": [
@@ -1070,7 +1202,9 @@
         }
       ],
       "titleDe": "Hundebetreuung und Gassigehen in Ambleside",
+      "titleNl": "Hondenoppas en uitlaatservice in Ambleside",
       "introDe": "Wenn Sie ein hohes Fell wie Fairfield besteigen oder einen Ausflug unternehmen möchten, der für Ihren Hund nicht ideal ist, können nationale Plattformen Sie mit geprüften örtlichen Sittern und Gassigehern rund um Ambleside und den weiteren Lake District verbinden. Buchen Sie in der Hochsaison im Sommer und in den Schulferien weit im Voraus, wenn die Nachfrage in diesem kleinen Urlaubsort hoch ist.",
+      "introNl": "Als je een hoog fell zoals Fairfield wilt beklimmen of een uitstapje wilt maken dat niet ideaal is voor je hond, kunnen landelijke platforms je koppelen aan gecontroleerde plaatselijke oppassers en uitlaters rond Ambleside en het bredere Lake District. Boek ruim van tevoren in het hoogseizoen in de zomer en tijdens schoolvakanties, wanneer de vraag hoog is in dit kleine vakantieoord.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Hundesitter in Ambleside?",
@@ -1079,6 +1213,16 @@
         {
           "q": "Kann ich meinen Hund zurücklassen, während ich ein hohes Fell besteige?",
           "a": "Ja. Ein örtlicher Sitter oder Tagesbetreuung über Rover oder Tailster eignet sich ideal für einen großen Felltag wie Fairfield oder das Fairfield Horseshoe, obwohl viele niedrigere Wanderungen und die Seekreuzfahrten ohnehin hundefreundlich sind. Teilen Sie dem Betreuer den Rückruf Ihres Hundes bei Schafen und die Tierarztdaten mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe vind ik een hondenoppas in Ambleside?",
+          "a": "Landelijke platforms zoals Rover en Tailster vermelden gecontroleerde, verzekerde oppassers, pensions en uitlaters in heel Cumbria en het Lake District. Je bekijkt profielen en beoordelingen, plant een kennismaking en boekt via de app; reserveer vroeg voor hoogseizoen en vakanties."
+        },
+        {
+          "q": "Kan ik mijn hond achterlaten terwijl ik een hoog fell beklim?",
+          "a": "Ja. Een plaatselijke oppas of dagopvang via Rover of Tailster is ideaal voor een grote felldag zoals Fairfield of de Fairfield Horseshoe, hoewel veel lagere wandelingen en de meercruises sowieso hondvriendelijk zijn. Deel de terugroepbaarheid van je hond bij schapen en de dierenartsgegevens met de oppas."
         }
       ]
     }

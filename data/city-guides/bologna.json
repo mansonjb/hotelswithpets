@@ -39,9 +39,13 @@
           "mustTryPt": "Tagliatelle al ragù, massa de ovo feita à mão com o autêntico molho de carne bolonhês",
           "tipPt": "Telefone com antecedência para confirmar a admissão de cães nesse dia; o tamanho reduzido do restaurante faz com que, ocasionalmente, limitem os animais aos sábados à noite, de maior afluência.",
           "descriptionDe": "Eine familiengeführte Trattoria in vierter Generation seit 1961 im Viertel Saragozza. Ausdrücklich auf Dogwelcome.it als hundefreundlich registriert, werden Hunde bis mittlerer Größe im Inneren akzeptiert, erhalten einen Snack und bei Ankunft einen Wassernapf. Die Karte ist konsequent traditionell bolognesisch: tortellini in brodo, tagliatelle al ragù, Lasagne und gegrilltes Fleisch. Die Atmosphäre ist warm, unprätentiös und typisch für das, was Bologna zur besten Stadt Italiens für traditionelle Küche macht.",
+          "descriptionNl": "Een familietrattoria, al vier generaties in handen van dezelfde familie sinds 1961, in de wijk Saragozza. Uitdrukkelijk geregistreerd als hondvriendelijk op Dogwelcome.it, honden tot middelgroot formaat worden binnen geaccepteerd, krijgen een snack en bij aankomst een waterbakje. De kaart is consequent traditioneel Bolognees: tortellini in brodo, tagliatelle al ragù, lasagne en gegrild vlees. De sfeer is warm, ongekunsteld en typerend voor wat Bologna tot de beste stad van Italië voor traditionele keuken maakt.",
           "petPolicyDe": "Hunde (bis mittlerer Größe) im Inneren willkommen; Snack und Wassernapf werden gestellt",
+          "petPolicyNl": "Honden (tot middelgroot formaat) welkom binnen; snack en waterbakje worden aangeboden",
           "mustTryDe": "Tagliatelle al ragù, handgerollte Eierpasta mit der originalen bolognesischen Fleischsauce",
-          "tipDe": "Rufen Sie vorab an, um die Hundezulassung für den Tag zu bestätigen; die geringe Größe des Restaurants bedeutet, dass an belebten Samstagabenden gelegentlich Haustiere begrenzt werden."
+          "mustTryNl": "Tagliatelle al ragù, met de hand gerolde eierpasta met de originele Bolognese vleessaus",
+          "tipDe": "Rufen Sie vorab an, um die Hundezulassung für den Tag zu bestätigen; die geringe Größe des Restaurants bedeutet, dass an belebten Samstagabenden gelegentlich Haustiere begrenzt werden.",
+          "tipNl": "Bel van tevoren om te bevestigen dat honden die dag welkom zijn; de kleine omvang van het restaurant betekent dat op drukke zaterdagavonden af en toe het aantal huisdieren wordt beperkt."
         }
       ],
       "tipsEn": [
@@ -107,7 +111,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Bologna",
+      "titleNl": "Huisdiervriendelijke restaurants in Bologna",
       "introDe": "Bolognas Verordnungen zum Schutz der Stadtfauna erlauben Hunde und Katzen ausdrücklich in allen öffentlichen Einrichtungen, Restaurants eingeschlossen. Das macht Bologna zu einer der rechtlich hundefreundlichsten Städte Italiens für Restaurantbesuche. Traditionelle bolognesische Trattorien mit ihren rustikalen Innenräumen und dem entspannten Service eignen sich besonders gut für Hunde, erwarten Sie lange, nudelbetonte Mittagessen, bei denen ein ruhig liegender Hund völlig unauffällig ist. Die Stadt hat 34 Restaurants, die ausdrücklich als 'cani ammessi' (Hunde zugelassen) gelistet sind, aber in der Praxis akzeptieren viele weitere Hunde, ohne dies formell zu bewerben. Die besten Gegenden sind das Universitätsviertel (nahe der Via Zamboni) und das Viertel Saragozza.",
+      "introNl": "De verordeningen van Bologna ter bescherming van de stadsfauna staan honden en katten uitdrukkelijk toe in alle openbare gelegenheden, restaurants inbegrepen. Dat maakt Bologna een van de wettelijk meest hondvriendelijke steden van Italië om te gaan eten. Traditionele Bolognese trattoria's met hun rustieke interieurs en ontspannen bediening zijn bijzonder geschikt voor honden, verwacht lange, pastarijke lunches waarbij een rustig liggende hond volkomen onopvallend is. De stad telt 34 restaurants die uitdrukkelijk als 'cani ammessi' (honden toegelaten) staan vermeld, maar in de praktijk accepteren veel meer zaken honden zonder dit formeel te adverteren. De beste buurten zijn de universiteitswijk (bij de Via Zamboni) en de wijk Saragozza.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Bologna gesetzlich erlaubt?",
@@ -116,6 +122,16 @@
         {
           "q": "Welche Restaurants in Bologna heißen Hunde ausdrücklich willkommen?",
           "a": "Trattoria Boni (Via Don Luigi Sturzo) und Trattoria Dal Biassanot sind die bekanntesten formell hundefreundlichen Trattorien. DogWelcome.it listet 34+ Restaurants in Bologna, die sich formell als hundezulassend registriert haben."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden wettelijk toegestaan in restaurants in Bologna?",
+          "a": "Ja, de verordeningen van Bologna ter bescherming van de stadsfauna staan honden en katten uitdrukkelijk toe in alle openbare gelegenheden, restaurants inbegrepen. Individuele eigenaren kunnen het nog steeds weigeren, maar de wet staat aan jouw kant."
+        },
+        {
+          "q": "Welke restaurants in Bologna heten honden uitdrukkelijk welkom?",
+          "a": "Trattoria Boni (Via Don Luigi Sturzo) en Trattoria Dal Biassanot zijn de bekendste formeel hondvriendelijke trattoria's. DogWelcome.it vermeldt 34+ restaurants in Bologna die zich formeel als hondentoelatend hebben geregistreerd."
         }
       ]
     },
@@ -147,8 +163,11 @@
           "offLeashAreaPt": "Area sgambatura (zona sem trela) designada dentro do parque",
           "tipPt": "A clínica veterinária de urgência 24 horas (Bluvet) fica dentro do parque, um apoio tranquilizador caso algo corra mal durante uma visita.",
           "descriptionDe": "Bolognas größter und zentralster Park mit 26 Hektar Fläche im Viertel Murri. Beherbergt das Ospedale Veterinario Giardini Margherita (Bluvet), eine rund um die Uhr geöffnete Notfall-Tierklinik, praktischerweise mitten im Park gelegen. Der Park verfügt über einen ausgewiesenen Freilaufbereich (area sgambatura), in dem Hunde frei laufen können. An Wochentagvormittagen und Wochenendnachmittagen bei lokalen Hundebesitzern beliebt. Das Café des Parks hat Außensitzplätze.",
+          "descriptionNl": "Het grootste en meest centrale park van Bologna, 26 hectare in de wijk Murri. Herbergt het Ospedale Veterinario Giardini Margherita (Bluvet), een 24-uurs dierenkliniek voor spoedgevallen, handig midden in het park gelegen. Het park heeft een aangewezen loslaatzone (area sgambatura) waar honden vrij kunnen lopen. Populair bij lokale hondenbezitters op doordeweekse ochtenden en weekendmiddagen. Het café van het park heeft buitenzitplaatsen.",
           "offLeashAreaDe": "Ausgewiesene area sgambatura (Freilaufzone) innerhalb des Parks",
-          "tipDe": "Die rund um die Uhr geöffnete Notfall-Tierklinik (Bluvet) befindet sich im Park, eine beruhigende Absicherung, falls bei einem Parkbesuch etwas passiert."
+          "offLeashAreaNl": "Aangewezen area sgambatura (loslaatzone) binnen het park",
+          "tipDe": "Die rund um die Uhr geöffnete Notfall-Tierklinik (Bluvet) befindet sich im Park, eine beruhigende Absicherung, falls bei einem Parkbesuch etwas passiert.",
+          "tipNl": "De 24-uurs dierenkliniek voor spoedgevallen (Bluvet) bevindt zich in het park, een geruststellend vangnet mocht er tijdens een parkbezoek iets gebeuren."
         },
         {
           "name": "Parco del Velodromo",
@@ -170,8 +189,11 @@
           "offLeashAreaPt": "Recinto totalmente vedado sem trela",
           "tipPt": "Melhor visitar de manhã antes das 10:00; a área vedada aquece ao sol da tarde no verão e há pouca sombra no interior.",
           "descriptionDe": "Ein Nachbarschaftspark im Viertel Savena mit einem vollständig eingezäunten Freilaufbereich, der speziell für Hunde konzipiert wurde. Das eingezäunte Gehege eignet sich ideal für Hunde mit unzuverlässigem Rückruf oder solche, die sich in einem sicheren Raum bewegen müssen. Kleiner als die Giardini Margherita, aber gut gepflegt und weniger überlaufen. Lokale Hundebesitzer nutzen ihn regelmäßig an Wochentagvormittagen.",
+          "descriptionNl": "Een buurtpark in de wijk Savena met een volledig omheinde loslaatzone die speciaal voor honden is ontworpen. De omheinde ruimte is ideaal voor honden met een onbetrouwbare terugroep, of voor honden die in een veilige ruimte moeten bewegen. Kleiner dan de Giardini Margherita, maar goed onderhouden en minder druk. Lokale hondenbezitters gebruiken het regelmatig op doordeweekse ochtenden.",
           "offLeashAreaDe": "Vollständig eingezäuntes Freilaufgehege",
-          "tipDe": "Am besten morgens vor 10:00 Uhr besuchen, der eingezäunte Bereich wird in der Sommernachmittagssonne warm, und es gibt wenig Schatten im Inneren."
+          "offLeashAreaNl": "Volledig omheinde loslaatzone",
+          "tipDe": "Am besten morgens vor 10:00 Uhr besuchen, der eingezäunte Bereich wird in der Sommernachmittagssonne warm, und es gibt wenig Schatten im Inneren.",
+          "tipNl": "Bezoek het bij voorkeur 's ochtends voor 10:00 uur, de omheinde ruimte wordt warm in de zomermiddagzon, en er is weinig schaduw binnen."
         }
       ],
       "tipsEn": [
@@ -221,11 +243,19 @@
         }
       ],
       "titleDe": "Hundefreundliche Parks in Bologna",
+      "titleNl": "Hondvriendelijke parken in Bologna",
       "introDe": "Bologna verfügt über ein Netzwerk von aree sgambatura (ausgewiesenen Freilaufbereichen für Hunde) über die Parks der Stadt verteilt. Die größten und beliebtesten sind die Giardini Margherita (der Hauptpark der Stadt) und der Parco del Velodromo. Die 40 km historischen Arkaden der Stadt machen auch lange Stadtspaziergänge das ganze Jahr über praktikabel, Hunde an der Leine im Schatten überdachter Wandelgänge selbst bei Sommerhitze. Außerhalb der Stadt beginnen die Ausläufer des Apennins innerhalb von 30 Minuten und bieten ausgedehnte Wanderwege mit Hunden.",
+      "introNl": "Bologna heeft een netwerk van aree sgambatura (aangewezen loslaatzones voor honden) verspreid over de parken van de stad. De grootste en populairste zijn de Giardini Margherita (het hoofdpark van de stad) en het Parco del Velodromo. De 40 km historische arcades van de stad maken ook lange stadswandelingen het hele jaar door praktisch, aangelijnde honden in de schaduw van overdekte gaanderijen zelfs bij zomerhitte. Buiten de stad beginnen de uitlopers van de Apennijnen binnen 30 minuten en bieden uitgestrekte wandelroutes met honden.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund auf der Arkadenroute nach San Luca ausführen?",
           "a": "Ja, der Spaziergang zur Arkade von San Luca ist eine von Bolognas besten hundefreundlichen Aktivitäten. Die gesamte Route von der Porta Saragozza ist von Bogenarkaden überdacht, die im Sommer Schatten spenden. Hunde müssen durchgehend angeleint sein."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond uitlaten op de arcaderoute naar San Luca?",
+          "a": "Ja, de wandeling naar de arcade van San Luca is een van de beste hondvriendelijke activiteiten van Bologna. De hele route vanaf de Porta Saragozza is overdekt met arcades die 's zomers schaduw geven. Honden moeten de hele route aangelijnd zijn."
         }
       ]
     },
@@ -297,11 +327,19 @@
         }
       ],
       "titleDe": "Mit dem Hund in Bologna unterwegs",
+      "titleNl": "Onderweg met je hond in Bologna",
       "introDe": "Bolognas Stadtzentrum ist kompakt und weitgehend zu Fuß erreichbar, die meisten wichtigen Sehenswürdigkeiten liegen innerhalb von 20 Gehminuten. TPER betreibt das städtische Busnetz, und Hunde sind mit Einschränkungen zugelassen. Die Hochgeschwindigkeits- und Regionalzüge von Trenitalia verbinden Bologna mit anderen italienischen Städten. Bologna liegt an der Hauptachse Mailand-Florenz-Rom, was es zu einem hervorragenden Ausgangspunkt für eine größere Italienreise mit Hund macht.",
+      "introNl": "Het centrum van Bologna is compact en grotendeels te voet bereikbaar, de meeste belangrijke bezienswaardigheden liggen binnen 20 minuten lopen. TPER exploiteert het stedelijke busnetwerk, en honden zijn toegestaan met beperkingen. De hogesnelheids- en regionale treinen van Trenitalia verbinden Bologna met andere Italiaanse steden. Bologna ligt aan de hoofdas Milaan-Florence-Rome, wat het een uitstekend uitgangspunt maakt voor een grotere reis door Italië met hond.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund im Zug von Bologna nach Florenz mitnehmen?",
           "a": "Ja. Kleine Hunde in einer zugelassenen Transportbox: 3,50 EUR. Größere Hunde an der Leine mit Maulkorb: Kinderticket (50 % des Erwachsenenpreises). Die Frecciarossa-Fahrt dauert etwa 35 Minuten. Buchen Sie über trenitalia.com; der Hundezuschlag wird beim Bezahlvorgang hinzugefügt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen in de trein van Bologna naar Florence?",
+          "a": "Ja. Kleine honden in een goedgekeurde transportbox: 3,50 EUR. Grotere honden aangelijnd met muilkorf: kinderticket (50% van de volwassenprijs). De rit met de Frecciarossa duurt ongeveer 35 minuten. Boek via trenitalia.com; de hondentoeslag wordt toegevoegd bij het afrekenen."
         }
       ]
     },
@@ -320,8 +358,11 @@
       "introPt": "Conteúdo em breve, estamos a investigar as melhores opções para si.",
       "faqsPt": [],
       "titleDe": "Strände in der Nähe von Bologna",
+      "titleNl": "Stranden in de buurt van Bologna",
       "introDe": "Inhalt in Kürze, wir recherchieren gerade die besten Optionen für Sie.",
-      "faqsDe": []
+      "introNl": "Inhoud volgt binnenkort, we zoeken momenteel de beste opties voor je uit.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Bologna, Veterinary Clinics & Pet Care",
@@ -368,8 +409,11 @@
           "descriptionPt": "O hospital veterinário de urgência mais central de Bolonha, situado dentro do parque público Giardini Margherita. Fundado em 1996, presta cuidados veterinários contínuos 24 horas por dia. Instalações completas de cirurgia e cuidados intensivos. Há pessoal que fala inglês. Acessível a pé desde o centro da cidade em cerca de 20 minutos, ou de táxi em 5 a 10 minutos.",
           "tipPt": "Situado dentro do mesmo parque onde a maioria dos visitantes passeia os cães, conveniente para qualquer emergência que surja durante uma visita.",
           "hoursDe": "24 Stunden, 365 Tage im Jahr",
+          "hoursNl": "24 uur, 365 dagen per jaar",
           "descriptionDe": "Bolognas zentralst gelegenes Notfall-Tierkrankenhaus, mitten im öffentlichen Park Giardini Margherita gelegen. 1996 gegründet, bietet durchgehend rund um die Uhr tierärztliche Versorgung. Vollständige Einrichtungen für Chirurgie und Intensivpflege. Englischsprachiges Personal verfügbar. Vom Stadtzentrum in etwa 20 Minuten zu Fuß oder mit dem Taxi in 5-10 Minuten erreichbar.",
-          "tipDe": "Liegt im selben Park, in dem die meisten Besucher ihre Hunde ausführen, praktisch für jeden Notfall, der während eines Parkbesuchs auftritt."
+          "descriptionNl": "Het meest centraal gelegen spoedziekenhuis voor dieren van Bologna, midden in het openbare park Giardini Margherita. Opgericht in 1996, biedt doorlopend 24-uurs diergeneeskundige zorg. Volledige faciliteiten voor chirurgie en intensieve zorg. Engelssprekend personeel beschikbaar. Vanaf het stadscentrum in ongeveer 20 minuten te voet of met de taxi in 5-10 minuten bereikbaar.",
+          "tipDe": "Liegt im selben Park, in dem die meisten Besucher ihre Hunde ausführen, praktisch für jeden Notfall, der während eines Parkbesuchs auftritt.",
+          "tipNl": "Ligt in hetzelfde park waar de meeste bezoekers hun hond uitlaten, praktisch voor elk noodgeval dat zich tijdens een parkbezoek voordoet."
         },
         {
           "name": "Clinica Veterinaria Semprini",
@@ -393,8 +437,11 @@
           "descriptionPt": "Uma clínica veterinária bem estabelecida no norte de Bolonha com serviço de urgência 24 horas. Atende cães, gatos e animais exóticos. Capacidades completas de diagnóstico e cirurgia. Situada perto do bairro de Bolognina, acessível de autocarro ou táxi desde o centro da cidade.",
           "tipPt": "Telefone com antecedência para o +39 051 6491706 antes de ir; a clínica usa triagem telefónica para gerir eficientemente as chegadas de urgência.",
           "hoursDe": "24 Stunden mit Notdienst",
+          "hoursNl": "24 uur met spoeddienst",
           "descriptionDe": "Eine etablierte Tierarztpraxis im Norden Bolognas mit 24-Stunden-Notdienst. Behandelt Hunde, Katzen und exotische Tiere. Vollständige Diagnose- und Operationsmöglichkeiten. Liegt nahe dem Viertel Bolognina, mit Bus oder Taxi vom Stadtzentrum erreichbar.",
-          "tipDe": "Rufen Sie vor dem Besuch unter +39 051 6491706 an, die Klinik nutzt telefonische Triage, um Notfallankünfte effizient zu steuern."
+          "descriptionNl": "Een gevestigde dierenartsenpraktijk in het noorden van Bologna met 24-uurs spoeddienst. Behandelt honden, katten en exotische dieren. Volledige diagnostische en operatieve mogelijkheden. Ligt dicht bij de wijk Bolognina, bereikbaar met bus of taxi vanaf het stadscentrum.",
+          "tipDe": "Rufen Sie vor dem Besuch unter +39 051 6491706 an, die Klinik nutzt telefonische Triage, um Notfallankünfte effizient zu steuern.",
+          "tipNl": "Bel voor je komst naar +39 051 6491706, de kliniek gebruikt telefonische triage om spoedgevallen efficiënt te sturen."
         }
       ],
       "faqsEn": [
@@ -424,11 +471,19 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte, Tierarztpraxen & Haustierversorgung in Bologna",
+      "titleNl": "Noodhulp dierenartsen, dierenartsenpraktijken en huisdierenzorg in Bologna",
       "introDe": "Bologna verfügt über mehrere rund um die Uhr geöffnete tierärztliche Notfallangebote. Am praktischsten für Besucher ist das Ospedale Veterinario Giardini Margherita (Bluvet), im Park Giardini Margherita im Stadtzentrum gelegen. Die Clinica Veterinaria Semprini auf der Nordseite der Stadt ist eine weitere etablierte 24-Stunden-Option. Italiens Tiermedizinsystem ist von hoher Qualität; die Kosten liegen unter dem westeuropäischen Durchschnitt. Führen Sie beim Einreisen nach Italien stets den Heimtierausweis oder das Gesundheitszeugnis Ihres Haustiers mit.",
+      "introNl": "Bologna heeft meerdere 24-uurs diergeneeskundige spoedvoorzieningen. Het handigst voor bezoekers is het Ospedale Veterinario Giardini Margherita (Bluvet), gelegen in het park Giardini Margherita in het stadscentrum. De Clinica Veterinaria Semprini aan de noordkant van de stad is een andere gevestigde 24-uurs optie. Het Italiaanse diergeneeskundige systeem is van hoge kwaliteit; de kosten liggen onder het West-Europese gemiddelde. Neem bij binnenkomst in Italië altijd het huisdierenpaspoort of gezondheidscertificaat van je huisdier mee.",
       "faqsDe": [
         {
           "q": "Wie lautet die Notfall-Tierarztnummer in Bologna?",
           "a": "Ospedale Veterinario Giardini Margherita (Bluvet): +39 051 330 788, rund um die Uhr geöffnet. Clinica Veterinaria Semprini: +39 051 6491706, ebenfalls 24-Stunden-Notdienst. Beide sind etablierte Einrichtungen mit englischsprachigem Personal."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat is het noodnummer voor de dierenarts in Bologna?",
+          "a": "Ospedale Veterinario Giardini Margherita (Bluvet): +39 051 330 788, 24 uur geopend. Clinica Veterinaria Semprini: +39 051 6491706, eveneens 24-uurs spoeddienst. Beide zijn gevestigde instellingen met Engelssprekend personeel."
         }
       ]
     },
@@ -493,11 +548,19 @@
         }
       ],
       "titleDe": "Reisetipps für Hunde in Bologna",
+      "titleNl": "Reistips voor honden in Bologna",
       "introDe": "Bologna ist eine der besten Städte Italiens für Reisen mit Hund, der rechtliche Rahmen bezieht Hunde ausdrücklich in öffentliche Räume ein, die Stadt ist kompakt und begehbar, und die Esskultur belohnt langsame Mittagessen, die sich perfekt für ruhig liegende Hunde eignen. Der wichtigste Reibungspunkt ist die Sommerhitze: Von Juni bis September verzeichnet Bologna regelmäßig Temperaturen über 35 °C, und die mittelalterliche Straßenanlage bietet weniger Wind als Küstenstädte. Planen Sie Spaziergänge für den frühen Morgen oder Abend und nutzen Sie das Arkadennetz für Schatten.",
+      "introNl": "Bologna is een van de beste steden van Italië om met hond te reizen, het wettelijke kader betrekt honden uitdrukkelijk bij openbare ruimtes, de stad is compact en te belopen, en de eetcultuur beloont trage lunches die perfect zijn voor rustig liggende honden. Het belangrijkste knelpunt is de zomerhitte: van juni tot september haalt Bologna regelmatig temperaturen boven de 35°C, en de middeleeuwse stratenplan biedt minder wind dan kuststeden. Plan wandelingen voor vroeg in de ochtend of 's avonds en gebruik het arcadenetwerk voor schaduw.",
       "faqsDe": [
         {
           "q": "Ist Bologna eine gute Basis für Tagesausflüge mit Hund?",
           "a": "Ausgezeichnet. Florenz ist 35 Minuten mit dem Frecciarossa entfernt, Venedig 1 Std. 25 Min., und die Apenninhügel beginnen innerhalb von 30 Autominuten für Wanderungen. Der Zug nimmt Hunde gegen den üblichen Aufpreis mit, was Bologna zu einem der praktischsten Drehkreuze Italiens für Reisen mit Hund macht."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Bologna een goede uitvalsbasis voor dagtochten met je hond?",
+          "a": "Uitstekend. Florence ligt 35 minuten met de Frecciarossa, Venetië 1 uur 25 min., en de heuvels van de Apennijnen beginnen binnen 30 minuten rijden voor wandelingen. De trein neemt honden mee tegen de gebruikelijke toeslag, wat Bologna een van de praktischste knooppunten van Italië maakt om met hond te reizen."
         }
       ]
     },
@@ -532,9 +595,13 @@
           "admissionFeePt": "Gratuito",
           "tipPt": "Vá cedo nas manhãs de dias úteis (antes das 8:00) para ter o pórtico quase só para si; é um percurso popular entre corredores locais e passeadores de cães das 7:00 às 9:00.",
           "descriptionDe": "Die längste Arkade der Welt, 666 Bögen über 3,8 km vom Stadttor Arco del Meloncello bis zum Heiligtum der Madonna di San Luca in den Colli Bolognesi. Angeleinte Hunde sind durchgehend willkommen. Der Spaziergang gewinnt etwa 200 Höhenmeter, sanft genug für die meisten Hunde, aber ein Training für ältere Tiere. Oben belohnen Panoramablicke über Bologna und den Apennin den Aufstieg. UNESCO-Weltkulturerbe seit 2021.",
+          "descriptionNl": "De langste arcade ter wereld, 666 bogen over 3,8 km van de stadspoort Arco del Meloncello tot het heiligdom van de Madonna di San Luca in de Colli Bolognesi. Aangelijnde honden zijn overal welkom. De wandeling wint ongeveer 200 hoogtemeters, zacht genoeg voor de meeste honden, maar een training voor oudere dieren. Boven beloont panoramisch uitzicht over Bologna en de Apennijnen de klim. UNESCO-werelderfgoed sinds 2021.",
           "dogPolicyDe": "Angeleinte Hunde auf der gesamten Arkadenroute willkommen",
+          "dogPolicyNl": "Aangelijnde honden welkom op de hele arcaderoute",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Gehen Sie früh an Wochentagvormittagen (vor 8:00 Uhr), um die Arkade weitgehend für sich zu haben, sie ist bei lokalen Läufern und Hundeausführern von 7:00-9:00 Uhr eine beliebte Route."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Gehen Sie früh an Wochentagvormittagen (vor 8:00 Uhr), um die Arkade weitgehend für sich zu haben, sie ist bei lokalen Läufern und Hundeausführern von 7:00-9:00 Uhr eine beliebte Route.",
+          "tipNl": "Ga vroeg op doordeweekse ochtenden (voor 8:00 uur) om de arcade grotendeels voor jezelf te hebben, het is bij lokale hardlopers en hondenuitlaters tussen 7:00 en 9:00 uur een populaire route."
         }
       ],
       "tipsEn": [
@@ -580,11 +647,19 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Bologna",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Bologna",
       "introDe": "Bolognas Arkaden, 40 km überdachte Wandelgänge und UNESCO-Weltkulturerbe, sind die herausragende hundefreundliche Sehenswürdigkeit der Stadt. Die 4 km lange Arkadenroute zum Heiligtum der Madonna di San Luca ist besonders reizvoll. Die städtischen Museen bieten an ausgewählten Tagen einen Hundesitting-Service an, was selbst Museumsbesuche handhabbar macht. Das historische Universitätsviertel (Via Zamboni) ist begehbar und stimmungsvoll, und die meisten Outdoor-Märkte der Stadt heißen Hunde an der Leine willkommen.",
+      "introNl": "De arcades van Bologna, 40 km overdekte gaanderijen en UNESCO-werelderfgoed, zijn de opvallendste hondvriendelijke bezienswaardigheid van de stad. De 4 km lange arcaderoute naar het heiligdom van de Madonna di San Luca is bijzonder de moeite waard. De stedelijke musea bieden op bepaalde dagen een hondenoppasdienst aan, waardoor zelfs museumbezoek te overzien is. De historische universiteitswijk (Via Zamboni) is te belopen en sfeervol, en de meeste openluchtmarkten van de stad heten aangelijnde honden welkom.",
       "faqsDe": [
         {
           "q": "Kann mein Hund die gesamte Arkadenroute nach San Luca ablaufen?",
           "a": "Ja, die 3,8 km lange Arkade ist durchgehend hundefreundlich (Leinenpflicht). Der Aufstieg gewinnt auf 2 km etwa 200 Höhenmeter, was die meisten erwachsenen Hunde problemlos bewältigen. Ältere Hunde oder kurzköpfige Rassen finden die Steigung möglicherweise anstrengend. Bringen Sie Wasser mit, entlang der Arkade gibt es keine Wasserstellen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan mijn hond de hele arcaderoute naar San Luca lopen?",
+          "a": "Ja, de 3,8 km lange arcade is overal hondvriendelijk (aanlijnplicht). De klim wint over 2 km ongeveer 200 hoogtemeters, wat de meeste volwassen honden probleemloos aankunnen. Oudere honden of kortsnuitige rassen vinden de helling mogelijk vermoeiend. Neem water mee, langs de arcade zijn geen waterpunten."
         }
       ]
     },
@@ -617,8 +692,11 @@
           "serviceTypePt": "Passeios, alojamento, creche, visitas pontuais",
           "tipPt": "O serviço de guarda de cães dos museus de Bolonha é gratuito (ou de custo muito baixo) em museus específicos; combine-o com a Rover para uma cobertura de dia inteiro em itinerários de museus mais longos.",
           "descriptionDe": "Rovers italienische Plattform mit Betreuern in ganz Bologna. Alle Betreuer bestehen Hintergrundprüfungen. Zu den Leistungen zählen Gassigehen, Hausbetreuung und Tagesbetreuung. Besonders nützlich bei Museumsbesuchen, eine 2-3-stündige Buchung deckt die meisten italienischen Museumserlebnisse ab. Durchschnittliche Kosten: ~10-12 EUR pro 30-minütigem Spaziergang, 20-30 EUR pro Nacht Hausbetreuung. Die meisten Betreuer in Bologna sprechen nur Italienisch; filtern Sie bei Bedarf nach englischsprachigen Betreuern.",
+          "descriptionNl": "Het Italiaanse platform van Rover met oppassers in heel Bologna. Alle oppassers doorstaan achtergrondcontroles. Diensten omvatten uitlaten, huisoppas en dagopvang. Bijzonder nuttig bij museumbezoek, een boeking van 2-3 uur dekt de meeste Italiaanse museumervaringen. Gemiddelde kosten: ~10-12 EUR per wandeling van 30 minuten, 20-30 EUR per nacht huisoppas. De meeste oppassers in Bologna spreken alleen Italiaans; filter indien nodig op Engelssprekende oppassers.",
           "serviceTypeDe": "Gassigehen, Hausbetreuung, Tagesbetreuung, Besuche",
-          "tipDe": "Bolognas Museums-Hundesitting-Service ist für bestimmte Museen kostenlos (oder sehr günstig), kombinieren Sie dies mit Rover für ganztägige Abdeckung bei längeren Museumsprogrammen."
+          "serviceTypeNl": "Uitlaten, huisoppas, dagopvang, bezoekjes",
+          "tipDe": "Bolognas Museums-Hundesitting-Service ist für bestimmte Museen kostenlos (oder sehr günstig), kombinieren Sie dies mit Rover für ganztägige Abdeckung bei längeren Museumsprogrammen.",
+          "tipNl": "De hondenoppasdienst van de musea van Bologna is voor bepaalde musea gratis (of zeer goedkoop), combineer dit met Rover voor dekking de hele dag bij langere museumprogramma's."
         }
       ],
       "tipsEn": [
@@ -664,11 +742,19 @@
         }
       ],
       "titleDe": "Haustierbetreuer & Hundeausführer in Bologna",
+      "titleNl": "Huisdierenoppassers en hondenuitlaters in Bologna",
       "introDe": "Bologna hat einen aktiven Markt für Haustierbetreuung, hauptsächlich über Rover.it und DogBuddy (mittlerweile mit Rover fusioniert). Als kompakte Universitätsstadt ist das Betreuernetzwerk in den zentralen Vierteln zuverlässig. Der Hundesitting-Service der städtischen Museen ist ebenfalls eine Überlegung wert für gezielte Museumsbesuche. Die durchschnittlichen Kosten gehören zu den günstigsten unter den großen italienischen Städten.",
+      "introNl": "Bologna heeft een actieve markt voor huisdierenoppas, voornamelijk via Rover.it en DogBuddy (inmiddels gefuseerd met Rover). Als compacte universiteitsstad is het oppasnetwerk in de centrale wijken betrouwbaar. De hondenoppasdienst van de stedelijke musea is ook het overwegen waard voor gerichte museumbezoeken. De gemiddelde kosten behoren tot de goedkoopste onder de grote Italiaanse steden.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund während des Besuchs bei Bolognas städtischen Museen lassen?",
           "a": "Ja, an bestimmten Tagen bieten Bolognas städtische Museen (einschließlich MAMbo und Museo Civico Medievale) einen Hundesitting-Service an. Kontaktieren Sie die Museen direkt, um Verfügbarkeit zu bestätigen und im Voraus zu buchen, da die Kapazität begrenzt ist."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond achterlaten tijdens een bezoek aan de stedelijke musea van Bologna?",
+          "a": "Ja, op bepaalde dagen bieden de stedelijke musea van Bologna (waaronder MAMbo en Museo Civico Medievale) een hondenoppasdienst aan. Neem rechtstreeks contact op met de musea om de beschikbaarheid te bevestigen en vooraf te boeken, aangezien de capaciteit beperkt is."
         }
       ]
     }

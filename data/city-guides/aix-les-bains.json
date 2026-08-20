@@ -40,9 +40,13 @@
           "tipPt": "Reserve uma mesa junto à água para ver os barcos passar e o pôr do sol sobre a Dent du Chat",
           "googleMapsUrl": "https://maps.google.com/?q=Brasserie+de+l%27Aquarium+Aix-les-Bains",
           "descriptionDe": "Eine große Brasserie direkt am kleinen Hafen des Lac du Bourget, mit einer 750 m² großen, zum See gerichteten Terrasse über zwei Ebenen. Hunde sind auf der Terrasse willkommen, von der aus sich der Blick über das Wasser bis zum Bergkamm Dent du Chat erstreckt.",
+          "descriptionNl": "Een grote brasserie direct aan de kleine haven van het Lac du Bourget, met een terras van 750 m² met uitzicht op het meer, verdeeld over twee niveaus. Honden zijn welkom op het terras, van waaruit je uitzicht hebt over het water tot aan de bergkam Dent du Chat.",
           "petPolicyDe": "Hunde willkommen auf der Terrasse",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Seefisch (Felchen, Barschfilets), savoyardische Spezialitäten",
-          "tipDe": "Buchen Sie einen Terrassentisch mit Blick auf das Wasser für den Bootsverkehr und den Sonnenuntergang über der Dent du Chat"
+          "mustTryNl": "Meervis (felchen, baarsfilet), Savoyaardse specialiteiten",
+          "tipDe": "Buchen Sie einen Terrassentisch mit Blick auf das Wasser für den Bootsverkehr und den Sonnenuntergang über der Dent du Chat",
+          "tipNl": "Boek een terrastafel met uitzicht op het water voor de boten en de zonsondergang boven de Dent du Chat"
         },
         {
           "name": "Le For You",
@@ -69,14 +73,21 @@
           "tipPt": "Ligue com antecedência na alta temporada, a esplanada enche depressa nas noites de verão",
           "googleMapsUrl": "https://maps.google.com/?q=Le+For+You+Aix-les-Bains",
           "descriptionDe": "Eine entspannte Pizzeria in kurzer Gehdistanz zum Seeufer, mit savoyardischen Spezialitäten, Pizzen und Salaten. Hunde sind willkommen, und das ungezwungene, ruhige Tempo eignet sich für einen Abend mit Hund zu Ihren Füßen.",
+          "descriptionNl": "Een ontspannen pizzeria op loopafstand van de oever van het meer, met Savoyaardse specialiteiten, pizza's en salades. Honden zijn welkom, en het ongedwongen, rustige tempo leent zich voor een avond met je hond aan je voeten.",
           "petPolicyDe": "Hunde willkommen",
+          "petPolicyNl": "Honden welkom",
           "mustTryDe": "Savoyardische Pizza, Tartiflette",
-          "tipDe": "In der Hochsaison vorher anrufen, die Terrasse ist an Sommerabenden schnell voll"
+          "mustTryNl": "Savoyaardse pizza, tartiflette",
+          "tipDe": "In der Hochsaison vorher anrufen, die Terrasse ist an Sommerabenden schnell voll",
+          "tipNl": "Bel in het hoogseizoen van tevoren, het terras zit op zomeravonden snel vol"
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Aix-les-Bains",
+      "titleNl": "Dierenvriendelijke restaurants in Aix-les-Bains",
       "introDe": "Die besten Adressen von Aix-les-Bains liegen direkt am Lac du Bourget, und die Terrassen am See sind daran gewöhnt, dass Hunde sich unter dem Tisch niederlassen, während ihre Besitzer die Boote beobachten. Die beiden unten genannten Adressen bestätigen beide Hunde auf der Terrasse.",
-      "faqsDe": []
+      "introNl": "De beste adressen van Aix-les-Bains liggen direct aan het Lac du Bourget, en de terrassen aan het meer zijn eraan gewend dat honden zich onder de tafel nestelen terwijl hun baasje naar de boten kijkt. Beide onderstaande adressen bevestigen dat honden welkom zijn op het terras.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks & Walks in Aix-les-Bains",
@@ -110,9 +121,13 @@
           "tipPt": "Entre pelo Boulevard de la Roche du Roi, acima do Parc de Verdure, o acesso mais sombreado num dia quente",
           "googleMapsUrl": "https://maps.google.com/?q=Bois+Vidal+Aix-les-Bains",
           "descriptionDe": "Ein 18 Hektar großes kommunales Waldgebiet aus Wald und Wiese direkt oberhalb des Thermalviertels, mit breiten Fußwegen und Sportpfaden, täglich kostenlos von 8:00 bis 17:00 Uhr geöffnet. Hunde aller Größen sind willkommen, und die Mischung aus offener Wiese und schattigem Wald macht ihn zum Standard-Langspaziergang der Stadt.",
+          "descriptionNl": "Een 18 hectare groot gemeentelijk bos- en weidegebied vlak boven de thermenwijk, met brede wandelpaden en sportparcours, dagelijks gratis toegankelijk van 8:00 tot 17:00 uur. Honden van alle formaten zijn welkom, en de afwisseling van open weide en schaduwrijk bos maakt dit de standaard lange wandeling van de stad.",
           "petPolicyDe": "Hunde aller Größen willkommen, Leine auf den Sportpfaden empfohlen",
+          "petPolicyNl": "Honden van alle formaten welkom, riem aanbevolen op de sportparcours",
           "facilitiesDe": "18 ha Wald und Wiese, Sportpfade, kostenlose Parkplätze in der Nähe",
-          "tipDe": "Betreten Sie den Park über den Boulevard de la Roche du Roi oberhalb des Parc de Verdure für den schattigsten Zugang an einem heißen Tag"
+          "facilitiesNl": "18 ha bos en weide, sportparcours, gratis parkeren in de buurt",
+          "tipDe": "Betreten Sie den Park über den Boulevard de la Roche du Roi oberhalb des Parc de Verdure für den schattigsten Zugang an einem heißen Tag",
+          "tipNl": "Ga het park binnen via de Boulevard de la Roche du Roi boven het Parc de Verdure, de meest schaduwrijke toegang op een hete dag"
         },
         {
           "name": "Parc Thermal",
@@ -136,14 +151,21 @@
           "tipPt": "Venha a meio da manhã num dia de semana para o passeio mais tranquilo entre os quiosques",
           "googleMapsUrl": "https://maps.google.com/?q=Parc+Thermal+Aix-les-Bains",
           "descriptionDe": "Ein denkmalgeschützter historischer Garten im Stadtzentrum, angelegt rund um die Thermes Nationaux, mit fünf Kiosken, breiten Kieswegen und der schattigen Terrasse der Rotonde-Bar. Es ist ein Spaziergang mit angeleintem Hund durch formale Gartenanlagen des 19. Jahrhunderts statt durch offene Natur, ideal für einen ruhigen Spaziergang zwischen Thermen- oder Stadtbesorgungen.",
+          "descriptionNl": "Een beschermde historische tuin in het centrum, aangelegd rond de Thermes Nationaux met vijf kiosken, brede grindpaden en het schaduwrijke terras van de Rotonde-bar. Het is een wandeling met je hond aan de riem door formele negentiende-eeuwse tuinaanleg in plaats van door open natuur, ideaal voor een rustige wandeling tussen kuurbezoek of boodschappen in de stad door.",
           "petPolicyDe": "Angeleinte Hunde im gesamten Garten willkommen",
+          "petPolicyNl": "Honden aan de riem welkom in de hele tuin",
           "facilitiesDe": "Denkmalgeschützter historischer Garten, breite Kieswege, schattige Bänke, Kioske",
-          "tipDe": "Kommen Sie an einem Wochentag am späten Vormittag für den ruhigsten Spaziergang zwischen den Kiosken"
+          "facilitiesNl": "Beschermde historische tuin, brede grindpaden, schaduwrijke bankjes, kiosken",
+          "tipDe": "Kommen Sie an einem Wochentag am späten Vormittag für den ruhigsten Spaziergang zwischen den Kiosken",
+          "tipNl": "Kom op een doordeweekse dag laat in de ochtend voor de rustigste wandeling tussen de kiosken"
         }
       ],
       "titleDe": "Hundefreundliche Parks und Spaziergänge in Aix-les-Bains",
+      "titleNl": "Hondvriendelijke parken en wandelingen in Aix-les-Bains",
       "introDe": "Aix-les-Bains kombiniert einen echten Wald, den Bois Vidal oberhalb des Thermalviertels, mit dem historischen Parc Thermal im Stadtzentrum und bietet Hunden so sowohl einen langen Spaziergang abseits der Terrassen als auch einen schattigen Bummel zwischen den Thermenbesuchen.",
-      "faqsDe": []
+      "introNl": "Aix-les-Bains combineert een echt bos, het Bois Vidal boven de thermenwijk, met het historische Parc Thermal in het centrum, en biedt honden zo zowel een lange wandeling weg van de terrassen als een schaduwrijk ommetje tussen kuurbezoeken door.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting Around Aix-les-Bains with a Dog",
@@ -166,7 +188,9 @@
           "petPolicyEs": "Menos de 6 kg gratis en transportín; perros más grandes con correa y bozal, tarifa reducida",
           "petPolicyPt": "Menos de 6 kg grátis em transportadora; cães maiores com trela e açaime, tarifa reduzida",
           "descriptionDe": "Der eigene Bahnhof der Stadt hat direkte TGV- und TER-Verbindungen nach Paris, Lyon, Chambéry und Annecy. Wie auf allen französischen Zügen reisen Hunde unter 6 kg kostenlos in einer geschlossenen Transportbox; größere Hunde müssen angeleint und mit Maulkorb versehen sein und zahlen eine ermäßigte Fahrkarte.",
-          "petPolicyDe": "Unter 6 kg kostenlos in Transportbox; größere Hunde angeleint und mit Maulkorb, ermäßigte Fahrkarte"
+          "descriptionNl": "Het eigen station van de stad heeft directe TGV- en TER-verbindingen naar Parijs, Lyon, Chambéry en Annecy. Zoals op alle Franse treinen reizen honden onder de 6 kg gratis in een gesloten reismand, grotere honden moeten aangelijnd zijn en een muilkorf dragen en betalen een gereduceerd tarief.",
+          "petPolicyDe": "Unter 6 kg kostenlos in Transportbox; größere Hunde angeleint und mit Maulkorb, ermäßigte Fahrkarte",
+          "petPolicyNl": "Onder 6 kg gratis in reismand, grotere honden aangelijnd en met muilkorf, gereduceerd tarief"
         },
         {
           "name": "Ondéa bus network",
@@ -179,7 +203,9 @@
           "petPolicyEs": "Perros pequeños en transportín y perros grandes con correa generalmente aceptados",
           "petPolicyPt": "Cães pequenos em transportadora e cães maiores com trela geralmente aceites",
           "descriptionDe": "Das Ondéa-Netz der Agglomeration Grand Lac betreibt drei reguläre Linien rund um die Stadt, darunter die Ringlinie 3, die den SNCF-Bahnhof mit den Thermes Chevalley verbindet, etwa alle 20–35 Minuten. Kleine Hunde in einer Transportbox und angeleinte größere Hunde werden im Allgemeinen akzeptiert, wie bei den meisten französischen Regionalbusnetzen.",
-          "petPolicyDe": "Kleine Hunde in Transportbox und angeleinte größere Hunde im Allgemeinen akzeptiert"
+          "descriptionNl": "Het Ondéa-netwerk van de agglomeratie Grand Lac rijdt drie vaste lijnen door de stad, waaronder ringlijn 3 die het SNCF-station met de Thermes Chevalley verbindt, ongeveer elke 20 tot 35 minuten. Kleine honden in een reismand en aangelijnde grotere honden worden over het algemeen toegelaten, zoals bij de meeste Franse regionale busnetwerken.",
+          "petPolicyDe": "Kleine Hunde in Transportbox und angeleinte größere Hunde im Allgemeinen akzeptiert",
+          "petPolicyNl": "Kleine honden in reismand en aangelijnde grotere honden over het algemeen toegelaten"
         },
         {
           "name": "Compagnie des Bateaux du Lac (lake cruises)",
@@ -192,12 +218,17 @@
           "petPolicyEs": "Perros con correa aceptados a bordo por 5 € de suplemento",
           "petPolicyPt": "Cães com trela aceites a bordo mediante suplemento de 5 €",
           "descriptionDe": "Ausflugsboote vom Grand Port von Aix-les-Bains überqueren den Lac du Bourget zur Abtei Hautecombe und weiteren Anlegestellen am Seeufer. Hunde sind angeleint an Bord gegen einen Zuschlag von 5 € erlaubt, dürfen jedoch nicht die Abteikirche selbst betreten.",
-          "petPolicyDe": "Angeleinte Hunde an Bord erlaubt gegen einen Zuschlag von 5 €"
+          "descriptionNl": "Uitstapboten vanaf de Grand Port van Aix-les-Bains steken het Lac du Bourget over naar de abdij van Hautecombe en andere aanlegplaatsen aan het meer. Aangelijnde honden zijn aan boord toegestaan tegen een toeslag van 5 euro, maar mogen de abdijkerk zelf niet in.",
+          "petPolicyDe": "Angeleinte Hunde an Bord erlaubt gegen einen Zuschlag von 5 €",
+          "petPolicyNl": "Aangelijnde honden aan boord toegestaan tegen een toeslag van 5 euro"
         }
       ],
       "titleDe": "Mit Hund in Aix-les-Bains unterwegs",
+      "titleNl": "Met je hond onderweg in Aix-les-Bains",
       "introDe": "Aix-les-Bains hat einen eigenen SNCF-Bahnhof mit direkten Verbindungen nach Paris, Lyon und Chambéry, ein kompaktes Busnetz für die Stadt und Ausflugsboote, die über den Lac du Bourget zur Abtei Hautecombe fahren.",
-      "faqsDe": []
+      "introNl": "Aix-les-Bains heeft een eigen SNCF-station met directe verbindingen naar Parijs, Lyon en Chambéry, een compact busnetwerk voor de stad, en uitstapboten die over het Lac du Bourget naar de abdij van Hautecombe varen.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Lake Spots near Aix-les-Bains",
@@ -228,13 +259,19 @@
           "rulesPt": "Não é uma zona balnear vigiada, os cães entram a partir da margem por sua conta e risco",
           "googleMapsUrl": "https://maps.google.com/?q=Cap+des+Seselets+Aix-les-Bains",
           "descriptionDe": "Ein grüner Rad- und Fußweg verläuft am Ufer zwischen der Plage du Rowing und der Plage des Mottets, vorbei am Cap des Séselets, und Hunde können entlang dieses Abschnitts das ganze Jahr über vom Ufer aus waten und schwimmen. Es ist die verlässliche Alternative zu den beaufsichtigten Stränden der Stadt, die Hunde von etwa Juni bis September komplett verbieten.",
+          "descriptionNl": "Een groen fiets- en wandelpad loopt langs de oever tussen de Plage du Rowing en de Plage des Mottets, langs de Cap des Séselets, en honden kunnen langs dit stuk het hele jaar door vanaf de oever pootjebaden en zwemmen. Het is het betrouwbare alternatief voor de bewaakte stranden van de stad, die honden van ongeveer juni tot september helemaal verbieden.",
           "dogPolicyDe": "Hunde ganzjährig entlang dieses Abschnitts willkommen, Leine in der Nähe von Radfahrern empfohlen",
-          "rulesDe": "Kein beaufsichtigter Badebereich, Hunde gehen auf eigenes Risiko vom Ufer aus ins Wasser"
+          "dogPolicyNl": "Honden het hele jaar door welkom langs dit stuk, riem aanbevolen in de buurt van fietsers",
+          "rulesDe": "Kein beaufsichtigter Badebereich, Hunde gehen auf eigenes Risiko vom Ufer aus ins Wasser",
+          "rulesNl": "Geen bewaakte zwemzone, honden gaan op eigen risico vanaf de oever het water in"
         }
       ],
       "titleDe": "Hundefreundliche Seestellen in der Nähe von Aix-les-Bains",
+      "titleNl": "Hondvriendelijke plekken aan het meer bij Aix-les-Bains",
       "introDe": "Der Lac du Bourget, Frankreichs größter natürlicher See, ist der ganze Daseinsgrund von Aix-les-Bains, aber die beaufsichtigten Badestrände der Stadt (einschließlich des kommunalen Strands und der Plage du Rowing) verbieten Hunde während der Sommerbadesaison, selbst an der Leine. Der grüne Korridor zwischen zwei dieser Strände bleibt das ganze Jahr über für Hunde geöffnet und ist die Stelle, die Einheimische tatsächlich nutzen.",
-      "faqsDe": []
+      "introNl": "Het Lac du Bourget, het grootste natuurlijke meer van Frankrijk, is de hele reden van bestaan van Aix-les-Bains, maar de bewaakte zwemstranden van de stad (waaronder het gemeentelijke strand en de Plage du Rowing) verbieden honden tijdens het zomerse zwemseizoen, zelfs aan de riem. De groene corridor tussen twee van die stranden blijft het hele jaar open voor honden en is de plek die de lokale bevolking daadwerkelijk gebruikt.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Veterinarians in Aix-les-Bains",
@@ -255,7 +292,8 @@
           "descriptionEs": "Una clínica veterinaria establecida para pequeños animales cerca del Grand Port, en el lado del lago de la ciudad. Atiende consultas rutinarias, vacunaciones y cirugía para perros y gatos.",
           "descriptionPt": "Uma clínica veterinária estabelecida para pequenos animais perto do Grand Port, do lado do lago da cidade. Trata de consultas de rotina, vacinação e cirurgia para cães e gatos.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+du+Grand+Port+Aix-les-Bains",
-          "descriptionDe": "Eine etablierte Kleintierklinik in der Nähe des Grand Port, auf der Seeuferseite der Stadt. Sie führt Routinekonsultationen, Impfungen und Operationen für Hunde und Katzen durch."
+          "descriptionDe": "Eine etablierte Kleintierklinik in der Nähe des Grand Port, auf der Seeuferseite der Stadt. Sie führt Routinekonsultationen, Impfungen und Operationen für Hunde und Katzen durch.",
+          "descriptionNl": "Een gevestigde kliniek voor kleine huisdieren bij de Grand Port, aan de kant van het meer. Ze voeren routineconsulten, vaccinaties en operaties uit voor honden en katten."
         },
         {
           "name": "Clinique Vétérinaire de la Dent du Chat",
@@ -267,12 +305,16 @@
           "descriptionEs": "Una consulta veterinaria para pequeños animales en el boulevard Jean Charcot, cerca de los restaurantes de la orilla del lago y del Petit Port. Ofrece cuidados rutinarios y preventivos junto con cirugía para perros y gatos.",
           "descriptionPt": "Uma clínica veterinária para pequenos animais no boulevard Jean Charcot, perto dos restaurantes à beira do lago e do Petit Port. Oferece cuidados de rotina e preventivos, além de cirurgia para cães e gatos.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+de+la+Dent+du+Chat+Aix-les-Bains",
-          "descriptionDe": "Eine Kleintierarztpraxis am Boulevard Jean Charcot, nahe den Seeuferrestaurants und dem Petit Port. Sie bietet Routine- und Vorsorgeuntersuchungen sowie Operationen für Hunde und Katzen an."
+          "descriptionDe": "Eine Kleintierarztpraxis am Boulevard Jean Charcot, nahe den Seeuferrestaurants und dem Petit Port. Sie bietet Routine- und Vorsorgeuntersuchungen sowie Operationen für Hunde und Katzen an.",
+          "descriptionNl": "Een dierenartsenpraktijk voor kleine huisdieren aan de Boulevard Jean Charcot, dicht bij de restaurants aan het meer en de Petit Port. Ze bieden routine- en preventieve zorg en operaties voor honden en katten."
         }
       ],
       "titleDe": "Tierärzte in Aix-les-Bains",
+      "titleNl": "Dierenartsen in Aix-les-Bains",
       "introDe": "Aix-les-Bains verfügt über mehrere etablierte eigene Tierarztpraxen, sodass ein Routine- oder Notfallbesuch selten bedeutet, die Stadt verlassen zu müssen. Zwei der wichtigsten Praxen sind unten aufgeführt.",
-      "faqsDe": []
+      "introNl": "Aix-les-Bains heeft verschillende gevestigde eigen dierenartsenpraktijken, waardoor een routine- of spoedbezoek zelden betekent dat je de stad uit moet. Twee van de belangrijkste praktijken staan hieronder.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Aix-les-Bains",
@@ -298,7 +340,9 @@
           "dogPolicyPt": "Cães com trela aceites em todo o passeio",
           "googleMapsUrl": "https://maps.google.com/?q=Petit+Port+Aix-les-Bains",
           "descriptionDe": "Die Uferpromenade, die am südlichen Ende zum Petit Port führt, ist der Standard-Hundespaziergang von Aix-les-Bains, ein ebener Weg mit Seeblick, Strandbars und Restaurantterrassen die ganze Strecke entlang. Sie verbindet sich direkt mit dem Grand Port und dem Abfahrtsort der Boote zur Abtei Hautecombe.",
-          "dogPolicyDe": "Angeleinte Hunde entlang der gesamten Promenade willkommen"
+          "descriptionNl": "De promenade aan het meer, die aan het zuidelijke uiteinde naar de Petit Port leidt, is de standaard hondenwandeling van Aix-les-Bains, een vlak pad met uitzicht op het meer, strandbars en restaurantterrassen over de hele lengte. Hij sluit direct aan op de Grand Port en het vertrekpunt van de boten naar de abdij van Hautecombe.",
+          "dogPolicyDe": "Angeleinte Hunde entlang der gesamten Promenade willkommen",
+          "dogPolicyNl": "Aangelijnde honden welkom langs de hele promenade"
         },
         {
           "name": "Abbaye de Hautecombe (lake cruise)",
@@ -315,12 +359,17 @@
           "dogPolicyPt": "Cães com trela aceites no barco (pequeno suplemento); não no interior da igreja da abadia",
           "googleMapsUrl": "https://maps.google.com/?q=Abbaye+de+Hautecombe",
           "descriptionDe": "Eine Bootsfahrt über den Lac du Bourget vom Grand Port aus erreicht die Abbaye de Hautecombe, eine Zisterzienserabtei und Grabstätte des Hauses Savoyen am gegenüberliegenden Seeufer. Hunde sind angeleint gegen einen kleinen Zuschlag an Bord erlaubt, müssen aber draußen warten, während Sie die Kirche selbst besichtigen.",
-          "dogPolicyDe": "Angeleinte Hunde an Bord erlaubt (kleiner Zuschlag); nicht in der Abteikirche"
+          "descriptionNl": "Een boottocht over het Lac du Bourget vanaf de Grand Port brengt je bij de Abbaye de Hautecombe, een cisterciënzerabdij en begraafplaats van het Huis Savoye aan de overkant van het meer. Aangelijnde honden zijn aan boord toegestaan tegen een kleine toeslag, maar moeten buiten wachten terwijl je de kerk zelf bezoekt.",
+          "dogPolicyDe": "Angeleinte Hunde an Bord erlaubt (kleiner Zuschlag); nicht in der Abteikirche",
+          "dogPolicyNl": "Aangelijnde honden aan boord toegestaan (kleine toeslag), niet in de abdijkerk"
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Aix-les-Bains",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Aix-les-Bains",
       "introDe": "Die beiden wichtigsten Ausflüge von Aix-les-Bains drehen sich beide um den Lac du Bourget: die Uferpromenade am Petit Port und eine Bootsfahrt über das Wasser zur Abbaye de Hautecombe, einer der prächtigsten religiösen Stätten Savoyens.",
-      "faqsDe": []
+      "introNl": "De twee belangrijkste uitstapjes van Aix-les-Bains draaien allebei om het Lac du Bourget: de promenade aan het meer bij de Petit Port, en een boottocht over het water naar de Abbaye de Hautecombe, een van de prachtigste religieuze plekken van Savoie.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Boarding in Aix-les-Bains",
@@ -344,12 +393,17 @@
           "priceRangeEs": "12-32 €/noche según el servicio",
           "priceRangePt": "12-32 €/noite consoante o serviço",
           "descriptionDe": "Rover.fr ist Frankreichs führende Peer-to-Peer-Plattform für Haustierbetreuung und Gassi-Gehen, mit mehreren aktiven Betreuern rund um Aix-les-Bains und die weitere Region Grand Lac. Die Leistungen reichen von Betreuung zu Hause bis zu Spaziergängen und Kurzbesuchen, mit Preisen ab etwa 12–32 € pro Nacht, alle Buchungen sind durch die Versicherung von Rover abgedeckt.",
-          "priceRangeDe": "12-32 €/Nacht je nach Leistung"
+          "descriptionNl": "Rover.fr is het toonaangevende peer-to-peer platform van Frankrijk voor huisdierenoppas en hondenuitlaatdiensten, met verschillende actieve oppassers rond Aix-les-Bains en de bredere regio Grand Lac. De diensten variëren van oppas aan huis tot wandelingen en korte bezoekjes, met prijzen vanaf ongeveer 12 tot 32 euro per nacht, en alle boekingen zijn gedekt door de verzekering van Rover.",
+          "priceRangeDe": "12-32 €/Nacht je nach Leistung",
+          "priceRangeNl": "12-32 euro/nacht, afhankelijk van de dienst"
         }
       ],
       "titleDe": "Haustierbetreuung und Hundepension in Aix-les-Bains",
+      "titleNl": "Huisdierenoppas en hondenpension in Aix-les-Bains",
       "introDe": "Für einen Spa-Tag in den Thermes Nationaux oder einen Besuch, der sich nicht für einen Hund eignet, hat Aix-les-Bains einen aktiven Peer-to-Peer-Markt für Haustierbetreuung statt einer einzelnen großen Hundepension.",
-      "faqsDe": []
+      "introNl": "Voor een spadag in de Thermes Nationaux of een bezoek dat niet geschikt is voor een hond, heeft Aix-les-Bains een actieve peer-to-peer markt voor huisdierenoppas in plaats van één groot pension.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Practical Tips for Visiting Aix-les-Bains with a Dog",
@@ -437,7 +491,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für einen Besuch in Aix-les-Bains mit Hund",
+      "titleNl": "Praktische tips voor een bezoek aan Aix-les-Bains met hond",
       "introDe": "Aix-les-Bains ist eine einfache, gut zu Fuß erkundbare Kurstadt, aber die beaufsichtigten Strände am Lac du Bourget sind im Sommer für Hunde gesperrt, und die Thermalbäder selbst sind strikt Menschen vorbehalten. Etwas Planung rund um beides macht einen Aufenthalt mit Hund unkompliziert.",
+      "introNl": "Aix-les-Bains is een gemakkelijke, goed te voet verkennen kuurstad, maar de bewaakte stranden aan het Lac du Bourget zijn 's zomers gesloten voor honden, en de thermale baden zelf zijn strikt voorbehouden aan mensen. Een beetje planning rond beide maakt een verblijf met hond eenvoudig.",
       "faqsDe": [
         {
           "q": "Können Hunde im Lac du Bourget bei Aix-les-Bains schwimmen?",
@@ -450,6 +506,20 @@
         {
           "q": "Kann ich meinen Hund auf dem Boot zur Abbaye de Hautecombe mitnehmen?",
           "a": "Ja. Angeleinte Hunde sind an Bord der Ausflugsboote vom Grand Port aus gegen einen kleinen Zuschlag (etwa 5 €) erlaubt, müssen aber draußen warten, während Sie die Abteikirche selbst besichtigen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kunnen honden zwemmen in het Lac du Bourget bij Aix-les-Bains?",
+          "a": "Niet op de bewaakte stranden, die honden van ongeveer juni tot september verbieden, zelfs aan de riem. Het groene pad tussen de Plage du Rowing en de Cap des Séselets blijft het hele jaar open voor honden en is de plek waar de lokale bevolking gaat zwemmen."
+        },
+        {
+          "q": "Zijn honden toegestaan in de thermale baden van Aix-les-Bains?",
+          "a": "Nee. De Thermes Nationaux zijn, zoals alle Franse kuurvoorzieningen, strikt voorbehouden aan mensen. Plan voor je spa-uren een wandeling in het Bois Vidal of Parc Thermal, of regel via Rover.fr een oppas."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen op de boot naar de Abbaye de Hautecombe?",
+          "a": "Ja. Aangelijnde honden zijn aan boord van de uitstapboten vanaf de Grand Port toegestaan tegen een kleine toeslag (ongeveer 5 euro), maar moeten buiten wachten terwijl je de abdijkerk zelf bezoekt."
         }
       ]
     }

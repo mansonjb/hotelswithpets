@@ -39,9 +39,13 @@
           "mustTryPt": "Fondue savoyarde, tartiflette, génépi",
           "tipPt": "Reserve o terraço junto ao canal para o pôr do sol perfeito sobre o Palais de l'Île, enche-se por volta das 19:00 no verão.",
           "descriptionDe": "Ein traditionelles savoyardisches Restaurant am Kanal du Thiou: Fondue, Raclette, Tartiflette und eine Terrasse direkt über dem Wasser. Hunde sind ganzjährig auf der Terrasse am Kanal und außerhalb der Stoßzeiten im Hinterraum willkommen.",
+          "descriptionNl": "Een traditioneel Savoyaards restaurant aan het Kanaal du Thiou: fondue, raclette, tartiflette en een terras direct boven het water. Honden zijn het hele jaar welkom op het kanaalterras en buiten de piekuren in de achterzaal.",
           "petPolicyDe": "Hunde auf der Terrasse + Hinterraum außerhalb der Stoßzeiten",
+          "petPolicyNl": "Honden op het terras + achterzaal buiten de piekuren",
           "mustTryDe": "Fondue savoyarde, Tartiflette, Génépi",
-          "tipDe": "Reservieren Sie die Terrasse am Kanalrand für den bildschönen Sonnenuntergang über dem Palais de l'Île, im Sommer bis 19:00 Uhr ausgebucht."
+          "mustTryNl": "Fondue savoyarde, tartiflette, génépi",
+          "tipDe": "Reservieren Sie die Terrasse am Kanalrand für den bildschönen Sonnenuntergang über dem Palais de l'Île, im Sommer bis 19:00 Uhr ausgebucht.",
+          "tipNl": "Reserveer het terras aan de kanaalrand voor het schilderachtige zonsondergangzicht op het Palais de l'Île, 's zomers voor 19:00 uur volgeboekt."
         },
         {
           "name": "L'Étage",
@@ -69,9 +73,13 @@
           "mustTryPt": "Quenelles de brochet, filets de perche du lac, vin de Savoie",
           "tipPt": "A perca do lago (perche du lac) só consta da ementa quando os pescadores locais a capturam, normalmente de abril a outubro. Pergunte antes de pedir.",
           "descriptionDe": "Eine Brasserie im ersten Stock mit Panoramablick über den Pâquier und den See, lyonnaisisch-savoyardische Küche, regionale Weine. Hunde sind ganzjährig auf der hinteren Innenhofterrasse willkommen sowie im klimatisierten Speisesaal nach vorheriger Absprache.",
+          "descriptionNl": "Een brasserie op de eerste verdieping met panoramisch uitzicht over de Pâquier en het meer, Lyonnais-Savoyaardse keuken, regionale wijnen. Honden zijn het hele jaar welkom op het achterste binnenplaatsterras, en na overleg vooraf ook in de klimaatgeregelde eetzaal.",
           "petPolicyDe": "Hunde auf der Terrasse; drinnen nach vorheriger Absprache",
+          "petPolicyNl": "Honden op het terras; binnen na overleg vooraf",
           "mustTryDe": "Quenelles de brochet, Filets de perche du lac, Vin de Savoie",
-          "tipDe": "Der Seebarsch (perche du lac) steht nur auf der Karte, wenn ihn die lokalen Fischer gefangen haben, meist April bis Oktober. Fragen Sie vor der Bestellung nach."
+          "mustTryNl": "Quenelles de brochet, filets de perche du lac, Vin de Savoie",
+          "tipDe": "Der Seebarsch (perche du lac) steht nur auf der Karte, wenn ihn die lokalen Fischer gefangen haben, meist April bis Oktober. Fragen Sie vor der Bestellung nach.",
+          "tipNl": "De baars uit het meer (perche du lac) staat alleen op de kaart als de lokale vissers hem hebben gevangen, meestal van april tot oktober. Vraag het na voordat je bestelt."
         },
         {
           "name": "Café des Arts",
@@ -99,9 +107,13 @@
           "mustTryPt": "Salade au reblochon, jus de myrtille, génépi des Aravis",
           "tipPt": "A mesa do canto ao fundo tem a melhor luz da tarde, ideal para uma leitura tranquila com um cão depois de um passeio pelo Pâquier.",
           "descriptionDe": "Ein gemütliches Café in einer arkadierten Passage aus dem 17. Jahrhundert, leichte savoyardische Salate, frischer Saft und der berühmte lokale Génépi. Hunde sind im gesamten kleinen Innenraum willkommen; ganzjährig Wassernäpfe an der Tür.",
+          "descriptionNl": "Een gezellig café in een overwelfde passage uit de 17e eeuw, lichte Savoyaardse salades, verse sappen en de beroemde lokale génépi. Honden zijn welkom in de hele kleine binnenruimte; het hele jaar door waterbakken bij de deur.",
           "petPolicyDe": "Hunde überall willkommen",
+          "petPolicyNl": "Honden overal welkom",
           "mustTryDe": "Salade au reblochon, Heidelbeersaft, Génépi des Aravis",
-          "tipDe": "Der Ecktisch hinten hat das beste Nachmittagslicht, ideal zum ruhigen Lesen mit Hund nach einem Spaziergang am Pâquier."
+          "mustTryNl": "Salade au reblochon, bosbessensap, Génépi des Aravis",
+          "tipDe": "Der Ecktisch hinten hat das beste Nachmittagslicht, ideal zum ruhigen Lesen mit Hund nach einem Spaziergang am Pâquier.",
+          "tipNl": "De hoektafel achterin heeft het beste middaglicht, ideaal om rustig te lezen met je hond na een wandeling op de Pâquier."
         }
       ],
       "tipsEn": [
@@ -167,7 +179,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Annecy",
+      "titleNl": "Hondvriendelijke restaurants in Annecy",
       "introDe": "Die savoyardische Café- und Brasseriekultur in Annecy ist verlässlich hundefreundlich. Angeleinte Hunde sind standardmäßig auf den Terrassen willkommen, Wassernäpfe erscheinen ungefragt, und die Kanäle der Vieille Ville sowie das Seeufer Pâquier konzentrieren die besten unabhängigen Lokale.",
+      "introNl": "De Savoyaardse café- en brasseriecultuur in Annecy is betrouwbaar hondvriendelijk. Aangelijnde honden zijn standaard welkom op de terrassen, waterbakken verschijnen ongevraagd, en de kanalen van de Vieille Ville en de meeroever Pâquier concentreren de beste onafhankelijke zaken.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Annecy erlaubt?",
@@ -176,6 +190,16 @@
         {
           "q": "Kann ich meinen Hund zu einem savoyardischen Fondue-Abendessen mitnehmen?",
           "a": "Ja, Fondue-Restaurants wie Le Bilboquet, Le Munich und Auberge du Lyonnais heißen angeleinte Hunde auf der Terrasse am Kanal alle willkommen, und die meisten haben einen Hinterraum oder eine ruhigere Ecke für Innenplätze."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Annecy?",
+          "a": "Ja, in de meeste. Zo'n 80% van de brasserieën en cafés in Annecy accepteert aangelijnde honden op het terras, en velen verwelkomen ze buiten de piekuren ook binnen. Bij chique Michelin-adressen verschilt dit, bel van tevoren."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen naar een Savoyaards fondue-diner?",
+          "a": "Ja, fondue-restaurants zoals Le Bilboquet, Le Munich en Auberge du Lyonnais verwelkomen allemaal aangelijnde honden op het kanaalterras, en de meeste hebben een achterzaal of een rustiger hoekje voor binnenplaatsen."
         }
       ]
     },
@@ -231,8 +255,11 @@
           ],
           "tipPt": "O Pont des Amours ao pôr do sol é a fotografia icónica de Annecy, movimentado depois das 18:00 no verão, muito mais calmo ao nascer do sol.",
           "leashRuleDe": "Leinenpflicht; freier Auslauf auf der Verlängerung nach Albigny",
+          "leashRuleNl": "Aanlijnplicht; los lopen op het verlengde stuk richting Albigny",
           "descriptionDe": "Annecys charakteristischer zentraler Rasen, der sich vom Seeufer bis zum Platz Pâquier erstreckt, offene Wiese mit Seeblick, Eisständen und dem Pont des Amours am entfernten Ende. Verbindet sich direkt mit dem Weg der Avenue d'Albigny.",
-          "tipDe": "Der Pont des Amours bei Sonnenuntergang ist das Wahrzeichen-Foto von Annecy, im Sommer nach 18:00 Uhr belebt, bei Sonnenaufgang deutlich ruhiger."
+          "descriptionNl": "Het karakteristieke centrale grasveld van Annecy, dat zich uitstrekt van de meeroever tot het plein Pâquier, open weide met zicht op het meer, ijskraampjes en de Pont des Amours aan het verre uiteinde. Sluit direct aan op het pad van de Avenue d'Albigny.",
+          "tipDe": "Der Pont des Amours bei Sonnenuntergang ist das Wahrzeichen-Foto von Annecy, im Sommer nach 18:00 Uhr belebt, bei Sonnenaufgang deutlich ruhiger.",
+          "tipNl": "De Pont des Amours bij zonsondergang is de kenmerkende foto van Annecy, 's zomers druk na 18:00 uur, bij zonsopgang veel rustiger."
         },
         {
           "name": "Lake Annecy Cycle Path",
@@ -278,8 +305,11 @@
           ],
           "tipPt": "A metade sul de Annecy-Doussard (16 km de ida) é a mais tranquila e espetacular, com vistas diretas para o lago durante todo o percurso.",
           "leashRuleDe": "Leinenpflicht auf dem Weg; viele Strandzugänge hundefreundlich",
+          "leashRuleNl": "Aanlijnplicht op het pad; veel strandtoegangen hondvriendelijk",
           "descriptionDe": "Der komplett ebene, autofreie Radweg rund um den Lac d'Annecy, 42 km hundefreundliches Wandern durch Veyrier-du-Lac, Talloires, Doussard, Sevrier und zurück. Der beste hundefreundliche Seespaziergang Frankreichs.",
-          "tipDe": "Die südliche Hälfte Annecy-Doussard (16 km einfache Strecke) ist am ruhigsten und spektakulärsten, mit direktem Seeblick auf der ganzen Strecke."
+          "descriptionNl": "Het volledig vlakke, autovrije fietspad rond het Lac d'Annecy, 42 km hondvriendelijk wandelen door Veyrier-du-Lac, Talloires, Doussard, Sevrier en terug. De beste hondvriendelijke meerwandeling van Frankrijk.",
+          "tipDe": "Die südliche Hälfte Annecy-Doussard (16 km einfache Strecke) ist am ruhigsten und spektakulärsten, mit direktem Seeblick auf der ganzen Strecke.",
+          "tipNl": "De zuidelijke helft Annecy-Doussard (16 km enkele reis) is het rustigst en spectaculairst, met de hele weg direct zicht op het meer."
         },
         {
           "name": "Forêt du Semnoz",
@@ -325,8 +355,11 @@
           ],
           "tipPt": "No verão, faça a estrada Annecy → Crêt de Châtillon até às 09:00 para alcançar o cume panorâmico antes do calor, leve um litro de água por cão.",
           "leashRuleDe": "Freilauf auf den meisten Waldwegen (April-Juli Leinenpflicht in Brutzonen)",
+          "leashRuleNl": "Los lopen op de meeste bospaden (april-juli aanlijnplicht in broedgebieden)",
           "descriptionDe": "Der 1699 m hohe Berg direkt südlich der Stadt, Buchen- und Fichtenwald, 50 km markierte Sommerwanderwege, Panoramablick über den Lac d'Annecy und den Mont Blanc. Freie Straßenzufahrt; das Skigebiet ist von Juni bis Oktober geschlossen.",
-          "tipDe": "Fahren Sie im Sommer bis 09:00 Uhr die Straße Annecy → Crêt de Châtillon hinauf, um den Panoramagipfel vor der Hitze zu erreichen. Nehmen Sie einen Liter Wasser pro Hund mit."
+          "descriptionNl": "De 1699 m hoge berg direct ten zuiden van de stad, beuken- en sparrenbos, 50 km gemarkeerde zomerwandelpaden, panoramisch uitzicht over het Lac d'Annecy en de Mont Blanc. Vrije toegang met de auto; het skigebied is gesloten van juni tot oktober.",
+          "tipDe": "Fahren Sie im Sommer bis 09:00 Uhr die Straße Annecy → Crêt de Châtillon hinauf, um den Panoramagipfel vor der Hitze zu erreichen. Nehmen Sie einen Liter Wasser pro Hund mit.",
+          "tipNl": "Rijd 's zomers voor 09:00 uur de weg Annecy naar Crêt de Châtillon omhoog om de panoramatop voor de hitte te bereiken. Neem een liter water per hond mee."
         }
       ],
       "tipsEn": [
@@ -392,7 +425,9 @@
         }
       ],
       "titleDe": "Hundeparks & Grünflächen in Annecy",
+      "titleNl": "Hondenparken en groene ruimtes in Annecy",
       "introDe": "Annecy liegt eingebettet zwischen den Gebirgsketten der Bauges und der Aravis. Das Seeufer Pâquier und die Wiesen von Albigny umschließen die Stadt, der Wald von Semnoz erhebt sich direkt südlich bis auf 1700 m, und die 42 km lange Seerunde bietet die spektakulärsten Hundespaziergänge in den französischen Alpen.",
+      "introNl": "Annecy ligt genesteld tussen de bergketens van de Bauges en de Aravis. De meeroever Pâquier en de weiden van Albigny omsluiten de stad, het bos van Semnoz rijst direct ten zuiden op tot 1700 m, en de 42 km lange meerrondweg biedt de meest spectaculaire hondenwandelingen in de Franse Alpen.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Parks in Annecy ohne Leine erlaubt?",
@@ -401,6 +436,16 @@
         {
           "q": "Können Hunde im Lac d'Annecy schwimmen?",
           "a": "Ja, an der Plage de l'Impérial (Nordufer, frei zugänglicher Abschnitt), dem ländlichen Strand in Saint-Jorioz und dem Südufer bei Doussard. Die ausgewiesenen reinen Badezonen schließen Hunde vom 15. Juni bis 15. September aus."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden zonder lijn in parken in Annecy?",
+          "a": "Los lopen mag in het bos van Semnoz en op landelijke oeverdelen van het meer. De Pâquier en de kanalen in het stadscentrum vereisen het hele jaar door aanlijnplicht voor honden."
+        },
+        {
+          "q": "Kunnen honden zwemmen in het Lac d'Annecy?",
+          "a": "Ja, bij de Plage de l'Impérial (noordoever, vrij toegankelijk deel), het landelijke strand in Saint-Jorioz en de zuidoever bij Doussard. De aangewezen zuivere zwemzones sluiten honden uit van 15 juni tot 15 september."
         }
       ]
     },
@@ -431,8 +476,11 @@
           "petPolicyPt": "Bilhete de meio preço e trela para cães médios/grandes",
           "tipPt": "A linha B vai da Gare ao Pâquier e ao Pont des Amours de 8 em 8 minutos, útil como atalho da estação de comboios com bagagem e um cão.",
           "descriptionDe": "SIBRA betreibt die 23 Buslinien von Annecy sowie das grenzüberschreitende Netz B+ über den See. Kleine Hunde in Transportboxen fahren kostenlos; mittelgroße und große Hunde benötigen ein Ticket zum halben Fahrpreis (1 €) und müssen an der kurzen Leine sein.",
+          "descriptionNl": "SIBRA exploiteert de 23 buslijnen van Annecy en het grensoverschrijdende netwerk B+ over het meer. Kleine honden in draagtassen reizen gratis mee; middelgrote en grote honden hebben een ticket tegen halve prijs nodig (1 euro) en moeten aan de korte lijn zijn.",
           "petPolicyDe": "Ticket zum halben Fahrpreis + Leine für mittelgroße/große Hunde",
-          "tipDe": "Die Linie B fährt alle 8 Minuten vom Bahnhof zum Pâquier und zum Pont des Amours, praktisch als Abkürzung vom Bahnhof mit Gepäck und Hund."
+          "petPolicyNl": "Ticket tegen halve prijs + lijn voor middelgrote/grote honden",
+          "tipDe": "Die Linie B fährt alle 8 Minuten vom Bahnhof zum Pâquier und zum Pont des Amours, praktisch als Abkürzung vom Bahnhof mit Gepäck und Hund.",
+          "tipNl": "Lijn B rijdt elke 8 minuten van het station naar de Pâquier en de Pont des Amours, handig als kortere route vanaf het station met bagage en hond."
         },
         {
           "name": "SNCF TER Auvergne-Rhône-Alpes",
@@ -453,8 +501,11 @@
           "petPolicyPt": "Bilhete de meio preço; açaime para cães médios/grandes",
           "tipPt": "O TER Annecy-Genebra demora 40 min e circula de hora a hora, a ligação mais rápida que aceita cães para o Aeroporto de Genebra (40 min no total) para voos internacionais.",
           "descriptionDe": "SNCF TER betreibt Regionalzüge von Annecy nach Lyon (1 Std. 45 Min.), Genf (40 Min.), Chamonix (2 Std., Umstieg in La-Roche-sur-Foron) und Aix-les-Bains (35 Min.). Hunde reisen zum halben Fahrpreis der zweiten Klasse; Assistenzhunde kostenlos.",
+          "descriptionNl": "SNCF TER exploiteert streektreinen van Annecy naar Lyon (1 uur 45 min), Genève (40 min), Chamonix (2 uur, overstap in La-Roche-sur-Foron) en Aix-les-Bains (35 min). Honden reizen tegen halve prijs tweede klas; assistentiehonden gratis.",
           "petPolicyDe": "Ticket zum halben Fahrpreis; Maulkorb für mittelgroße/große Hunde",
-          "tipDe": "Der TER Annecy-Genf dauert 40 Minuten und verkehrt stündlich, die schnellste hundefreundliche Verbindung zum Flughafen Genf (insgesamt 40 Minuten) für internationale Flüge."
+          "petPolicyNl": "Ticket tegen halve prijs; muilkorf voor middelgrote/grote honden",
+          "tipDe": "Der TER Annecy-Genf dauert 40 Minuten und verkehrt stündlich, die schnellste hundefreundliche Verbindung zum Flughafen Genf (insgesamt 40 Minuten) für internationale Flüge.",
+          "tipNl": "De TER Annecy-Genève duurt 40 minuten en rijdt elk uur, de snelste hondvriendelijke verbinding naar de luchthaven van Genève (in totaal 40 minuten) voor internationale vluchten."
         },
         {
           "name": "Compagnie des Bateaux Lake Cruises",
@@ -475,8 +526,11 @@
           "petPolicyPt": "Grátis nos conveses ao ar livre",
           "tipPt": "O cruzeiro turístico de 1h30 é o dia perfeito que aceita cães em Annecy se o tempo estiver demasiado quente para o Semnoz, convés ao ar livre com sombra.",
           "descriptionDe": "Bootsverbindungen auf dem Lac d'Annecy ab dem Quai du Thiou, planmäßige Überfahrten nach Talloires, Veyrier-du-Lac, Sevrier und Doussard sowie 1,5-stündige Rundfahrten. Angeleinte Hunde kostenlos auf den Außendecks zugelassen.",
+          "descriptionNl": "Bootverbindingen op het Lac d'Annecy vanaf de Quai du Thiou, geplande overtochten naar Talloires, Veyrier-du-Lac, Sevrier en Doussard, plus rondvaarten van 1,5 uur. Aangelijnde honden gratis toegestaan op de buitendekken.",
           "petPolicyDe": "Kostenlos auf den Außendecks",
-          "tipDe": "Die 1,5-stündige Rundfahrt ist der perfekte hundefreundliche Tagesausflug in Annecy, wenn es für den Semnoz zu heiß ist, das Außendeck ist beschattet."
+          "petPolicyNl": "Gratis op de buitendekken",
+          "tipDe": "Die 1,5-stündige Rundfahrt ist der perfekte hundefreundliche Tagesausflug in Annecy, wenn es für den Semnoz zu heiß ist, das Außendeck ist beschattet.",
+          "tipNl": "De rondvaart van 1,5 uur is het perfecte hondvriendelijke dagje uit in Annecy als het te heet is voor de Semnoz, het buitendek is beschaduwd."
         }
       ],
       "tipsEn": [
@@ -542,7 +596,9 @@
         }
       ],
       "titleDe": "Haustierfreundlicher Transport in Annecy",
+      "titleNl": "Hondvriendelijk vervoer in Annecy",
       "introDe": "Das kompakte Zentrum von Annecy ist in 25 Minuten von einem Ende zum anderen zu Fuß erreichbar. Für Tagesausflüge nehmen die Stadtbusse SIBRA, die SNCF-TER-Züge und die Seefähren allesamt angeleinte Hunde mit.",
+      "introNl": "Het compacte centrum van Annecy is in 25 minuten van de ene naar de andere kant te voet te doen. Voor dagtochten nemen de stadsbussen van SIBRA, de SNCF-TER-treinen en de meerveerboten allemaal aangelijnde honden mee.",
       "faqsDe": [
         {
           "q": "Brauche ich für meinen Hund ein Ticket in den Bussen von Annecy?",
@@ -551,6 +607,16 @@
         {
           "q": "Kann ich meinen Hund auf die Boote des Lac d'Annecy mitnehmen?",
           "a": "Ja. Die Compagnie des Bateaux nimmt angeleinte Hunde kostenlos auf den Außendecks aller planmäßigen Überfahrten und Rundfahrten mit. Die Innensitzplätze im Salon sind nur für Assistenzhunde reserviert."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Heb ik een ticket nodig voor mijn hond in de bussen van Annecy?",
+          "a": "Kleine honden in een draagtas reizen gratis mee. Middelgrote en grote honden hebben een ticket tegen halve prijs nodig van 1 euro via de SIBRA-app. Hetzelfde ticket geldt de hele dag op het hele netwerk."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen op de boten van het Lac d'Annecy?",
+          "a": "Ja. De Compagnie des Bateaux neemt aangelijnde honden gratis mee op de buitendekken van alle geplande overtochten en rondvaarten. De binnenzitplaatsen in het salon zijn alleen voor assistentiehonden gereserveerd."
         }
       ]
     },
@@ -604,8 +670,11 @@
           ],
           "tipPt": "Entrada de seixos, as botas ajudam nos dias quentes de verão; os bancos com sombra por trás da zona para cães são perfeitos para o descanso do dono.",
           "leashRuleDe": "Ganzjähriger Freilauf in der ausgewiesenen Hundezone",
+          "leashRuleNl": "Het hele jaar los lopen in de aangewezen hondenzone",
           "descriptionDe": "Der offizielle Hundestrand der Gemeinde Annecy, ein ausgewiesener, 200 m langer, grasiger und kiesiger Abschnitt am städtischen Seeufer mit eigenem Wasserzugang. Der nächste Badeplatz für Hunde von der Vieille Ville aus (10 Gehminuten).",
-          "tipDe": "Kiesiger Einstieg, Schuhe helfen an heißen Sommertagen; schattige Bänke hinter der Hundezone sind ideal für die Auszeit der Besitzer."
+          "descriptionNl": "Het officiële hondenstrand van de gemeente Annecy, een aangewezen, 200 m lang gras- en grindgedeelte aan de stedelijke meeroever met eigen watertoegang. De dichtstbijzijnde zwemplek voor honden vanaf de Vieille Ville (10 minuten lopen).",
+          "tipDe": "Kiesiger Einstieg, Schuhe helfen an heißen Sommertagen; schattige Bänke hinter der Hundezone sind ideal für die Auszeit der Besitzer.",
+          "tipNl": "Grindachtige ingang, schoenen helpen op hete zomerdagen; schaduwrijke bankjes achter de hondenzone zijn ideaal voor de baasjes om even te pauzeren."
         },
         {
           "name": "Plage de Saint-Jorioz",
@@ -649,8 +718,11 @@
           ],
           "tipPt": "Estacione no parque do Camping International e caminhe para sul ao longo da margem até à zona para cães, a praia central exclui os cães de 15 de junho a 15 de setembro.",
           "leashRuleDe": "Freilauf in der ausgewiesenen Hundezone; ländliche Ufer ganzjährig",
+          "leashRuleNl": "Los lopen in de aangewezen hondenzone; landelijke oever het hele jaar",
           "descriptionDe": "Am südwestlichen Seeufer, 11 km von Annecy entfernt, unterhält die Gemeinde Saint-Jorioz einen frei zugänglichen ländlichen Strand mit einem hundefreundlichen Abschnitt direkt südlich der zentralen Badezone. SIBRA-Bus B von Annecy in 25 Minuten.",
-          "tipDe": "Parken Sie am Parkplatz Camping International und gehen Sie am Ufer entlang nach Süden zur Hundezone. Der zentrale Strand schließt Hunde vom 15. Juni bis 15. September aus."
+          "descriptionNl": "Aan de zuidwestelijke meeroever, 11 km van Annecy, onderhoudt de gemeente Saint-Jorioz een vrij toegankelijk landelijk strand met een hondvriendelijk gedeelte direct ten zuiden van de centrale zwemzone. SIBRA-bus B vanuit Annecy in 25 minuten.",
+          "tipDe": "Parken Sie am Parkplatz Camping International und gehen Sie am Ufer entlang nach Süden zur Hundezone. Der zentrale Strand schließt Hunde vom 15. Juni bis 15. September aus.",
+          "tipNl": "Parkeer bij de parkeerplaats Camping International en loop langs de oever zuidwaarts naar de hondenzone. Het centrale strand sluit honden uit van 15 juni tot 15 september."
         },
         {
           "name": "Plage de Doussard (Lake South End)",
@@ -694,8 +766,11 @@
           ],
           "tipPt": "Sem qualquer infraestrutura, leve água, toalha e um piquenique. A reserva natural de caniçais tem aves nidificantes de abril a julho, ponha a trela nesses meses.",
           "leashRuleDe": "Ganzjähriger Freilauf am ländlichen Südufer",
+          "leashRuleNl": "Het hele jaar los lopen aan de landelijke zuidoever",
           "descriptionDe": "Das südlichste Ufer des Lac d'Annecy im Naturschutzgebiet Bout-du-Lac, ein wilder, überwiegend kiesiger Strand, wo der See am schmalsten ist. Der 16 km lange Radweg von Annecy endet hier. Hundespaziergänge im Schilfgürtel, Bergkulisse.",
-          "tipDe": "Keinerlei Einrichtungen vorhanden, bringen Sie Wasser, Handtuch und Picknick mit. Im Schilf-Naturschutzgebiet nisten von April bis Juli Vögel, in diesen Monaten anleinen."
+          "descriptionNl": "De zuidelijkste oever van het Lac d'Annecy in het natuurreservaat Bout-du-Lac, een wild, overwegend grindstrand waar het meer het smalst is. Het 16 km lange fietspad vanuit Annecy eindigt hier. Hondenwandelingen door de rietgordel, bergdecor.",
+          "tipDe": "Keinerlei Einrichtungen vorhanden, bringen Sie Wasser, Handtuch und Picknick mit. Im Schilf-Naturschutzgebiet nisten von April bis Juli Vögel, in diesen Monaten anleinen.",
+          "tipNl": "Geen enkele voorziening aanwezig, neem water, handdoek en picknick mee. In het rieten natuurreservaat broeden van april tot juli vogels, lijn je hond in die maanden aan."
         }
       ],
       "tipsEn": [
@@ -761,7 +836,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände & Badeplätze in Annecy",
+      "titleNl": "Hondvriendelijke stranden en zwemplekken in Annecy",
       "introDe": "Der Lac d'Annecy ist einer der saubersten Seen Europas (stellenweise trinkbar), das Wasser erreicht im Juli und August 22 °C. Ausgewiesene Badezonen schließen Hunde im Sommer aus, aber frei zugängliche ländliche Ufer und die offizielle Hundezone \"Plage des Marquisats\" bleiben ganzjährig geöffnet.",
+      "introNl": "Het Lac d'Annecy is een van de schoonste meren van Europa (plaatselijk drinkbaar), het water bereikt in juli en augustus 22 °C. Aangewezen zwemzones sluiten honden 's zomers uit, maar vrij toegankelijke landelijke oevers en de officiële hondenzone 'Plage des Marquisats' blijven het hele jaar open.",
       "faqsDe": [
         {
           "q": "Wie weit ist der nächste Hundestrand vom Zentrum Annecys entfernt?",
@@ -770,6 +847,16 @@
         {
           "q": "Sind Hunde im Sommer an Stränden des Lac d'Annecy erlaubt?",
           "a": "Ja, in den ausgewiesenen Hundezonen an der Plage des Marquisats (Annecy), Saint-Jorioz (südliches Ende), dem ländlichen Ufer bei Doussard und dem Nordabschnitt der Plage de l'Impérial. Außerhalb dieser Bereiche sind Hunde vom 15. Juni bis 15. September von den überwachten Stränden ausgeschlossen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe ver is het dichtstbijzijnde hondenstrand vanaf het centrum van Annecy?",
+          "a": "10 minuten lopen naar de Plage des Marquisats, het officiële hondenstrand van de gemeente Annecy met het hele jaar toegang. Voor zand en landelijk strand hebben zowel Saint-Jorioz (11 km, 25 min met bus B) als Doussard (16 km via het fietspad) hondvriendelijke gedeeltes."
+        },
+        {
+          "q": "Zijn honden toegestaan op stranden van het Lac d'Annecy in de zomer?",
+          "a": "Ja, in de aangewezen hondenzones bij de Plage des Marquisats (Annecy), Saint-Jorioz (zuidelijk uiteinde), de landelijke oever bij Doussard en het noordelijke gedeelte van de Plage de l'Impérial. Buiten deze gebieden zijn honden van 15 juni tot 15 september uitgesloten van de bewaakte stranden."
         }
       ]
     },
@@ -803,7 +890,9 @@
           "descriptionPt": "Clínica veterinária de urgência 24h em Argonay, 8 km a norte de Annecy, cirurgia completa, UCI, ecografia, raios-X, ressonância magnética. O veterinário 24/7 mais próximo para a margem do lago de Annecy e os vales de montanha dos Aravis.",
           "tipPt": "Telefone antes de conduzir até lá, fazem triagem por telefone e podem reencaminhar casos noturnos não urgentes.",
           "descriptionDe": "24-Stunden-Notfall-Tierklinik in Argonay, 8 km nördlich von Annecy, mit vollständiger Chirurgie, Intensivstation, Ultraschall, Röntgen und MRT. Der nächste rund um die Uhr geöffnete Tierarzt für das Seeufer von Annecy und die Bergtäler der Aravis.",
-          "tipDe": "Rufen Sie vor der Fahrt an, dort wird telefonisch trianiert, und nicht dringende Fälle über Nacht können weitergeleitet werden."
+          "descriptionNl": "24-uursspoedkliniek voor dieren in Argonay, 8 km ten noorden van Annecy, met volledige chirurgie, intensive care, echografie, röntgen en MRI. De dichtstbijzijnde dag en nacht geopende dierenarts voor de meeroever van Annecy en de bergdalen van de Aravis.",
+          "tipDe": "Rufen Sie vor der Fahrt an, dort wird telefonisch trianiert, und nicht dringende Fälle über Nacht können weitergeleitet werden.",
+          "tipNl": "Bel voordat je vertrekt, daar wordt telefonisch getrieerd, en niet-spoedeisende gevallen 's nachts kunnen worden doorverwezen."
         },
         {
           "name": "Clinique Vétérinaire des Marquisats",
@@ -826,7 +915,9 @@
           "descriptionPt": "Clínica moderna diurna de pequenos animais no centro de Annecy, medicina geral, vacinações, cirurgia, dentária, ecografia. As chamadas fora de horas são desviadas para a Vétérys 24h.",
           "tipPt": "Falam inglês fluente e aceitam atendimentos sem marcação para vacinas e verificações de microchip antes das 11:00.",
           "descriptionDe": "Moderne Tagespraxis für Kleintiere im Zentrum von Annecy, Allgemeinmedizin, Impfungen, Chirurgie, Zahnpflege, Ultraschall. Anrufe außerhalb der Öffnungszeiten werden an Vétérys 24h weitergeleitet.",
-          "tipDe": "Man spricht fließend Englisch und nimmt vor 11:00 Uhr Laufkundschaft für Impfungen und Mikrochip-Kontrollen an."
+          "descriptionNl": "Moderne dagpraktijk voor kleine huisdieren in het centrum van Annecy, algemene geneeskunde, vaccinaties, chirurgie, tandheelkunde, echografie. Oproepen buiten openingstijden worden doorverwezen naar Vétérys 24h.",
+          "tipDe": "Man spricht fließend Englisch und nimmt vor 11:00 Uhr Laufkundschaft für Impfungen und Mikrochip-Kontrollen an.",
+          "tipNl": "Er wordt vloeiend Engels gesproken en er is inloopspreekuur voor 11:00 uur voor vaccinaties en microchip-controles."
         },
         {
           "name": "Cabinet Vétérinaire du Pâquier",
@@ -850,7 +941,9 @@
           "descriptionPt": "Clínica veterinária diurna na avenida do lado do Pâquier, medicina geral, emissão de passaporte de animal da UE, colocação de microchip, consultas comportamentais.",
           "tipPt": "Útil para emitir/atualizar um passaporte de animal da UE a meio da viagem, a clínica do Pâquier cobra cerca de 30 € por um passaporte, 35 € por um microchip.",
           "descriptionDe": "Tierärztliche Tagespraxis an der Avenue am Pâquier, Allgemeinmedizin, Ausstellung von EU-Heimtierausweisen, Mikrochippen, Verhaltensberatung.",
-          "tipDe": "Nützlich, um während der Reise einen EU-Heimtierausweis auszustellen oder zu aktualisieren, Pâquier berechnet rund 30 € für einen Ausweis, 35 € für einen Mikrochip."
+          "descriptionNl": "Dierenartsdagpraktijk aan de Avenue bij de Pâquier, algemene geneeskunde, afgifte van EU-dierenpaspoorten, microchippen, gedragsadvies.",
+          "tipDe": "Nützlich, um während der Reise einen EU-Heimtierausweis auszustellen oder zu aktualisieren, Pâquier berechnet rund 30 € für einen Ausweis, 35 € für einen Mikrochip.",
+          "tipNl": "Handig om tijdens je reis een EU-dierenpaspoort af te geven of bij te werken, Pâquier rekent ongeveer 30 euro voor een paspoort, 35 euro voor een microchip."
         }
       ],
       "tipsEn": [
@@ -916,7 +1009,9 @@
         }
       ],
       "titleDe": "24-Stunden-Notfall-Tierärzte in Annecy, Tierkliniken & Tierbetreuung",
+      "titleNl": "24-uursspoeddierenartsen in Annecy, dierenklinieken en dierenoppas",
       "introDe": "Annecy verfügt über eine solide tagsüber verfügbare tierärztliche Versorgung und eine 24-Stunden-Notfallklinik in Saint-Martin-Bellevue, 12 km nördlich. Die Tierärztliche Hochschule VetAgro Sup in Lyon ist die wichtigste Überweisungsklinik, 1 Std. 45 Min. westlich.",
+      "introNl": "Annecy heeft een solide diergeneeskundige zorg overdag en een 24-uursspoedkliniek in Saint-Martin-Bellevue, 12 km ten noorden. De diergeneeskundige hogeschool VetAgro Sup in Lyon is de belangrijkste doorverwijskliniek, 1 uur 45 min westelijk.",
       "faqsDe": [
         {
           "q": "Wo ist der 24-Stunden-Notfall-Tierarzt in der Nähe von Annecy?",
@@ -925,6 +1020,16 @@
         {
           "q": "Brauche ich einen Heimtierausweis für Annecy?",
           "a": "Ja, für die Einreise von außerhalb Frankreichs. EU-Heimtierausweis mit Tollwutimpfung (mindestens 21 Tage, nicht abgelaufen) und ISO-Mikrochip, Standard-EU-Regeln. Keine zusätzlichen französisch-spezifischen Formalitäten."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar is de 24-uursspoeddierenarts bij Annecy?",
+          "a": "Clinique Vétérinaire Vétérys, 285 Route des Tattes in Argonay, +33 4 50 63 22 22, 8 km ten noorden, 12 minuten rijden via de D14. Bel van tevoren voor triage."
+        },
+        {
+          "q": "Heb ik een dierenpaspoort nodig voor Annecy?",
+          "a": "Ja, voor inreis van buiten Frankrijk. EU-dierenpaspoort met rabiësvaccinatie (minstens 21 dagen, niet verlopen) en ISO-microchip, standaard EU-regels. Geen extra Frans-specifieke formaliteiten."
         }
       ]
     },
@@ -943,7 +1048,8 @@
           "descriptionFr": "Mai-juin et septembre-octobre sont idéaux, maxima moyens 18-23 °C, eau du lac 18-21 °C encore baignable pour les chiens, le Semnoz au pic des conditions de promenade. Évitez mi-juillet à mi-août : chaleur 30 °C+, foule au lac, piste cyclable saturée.",
           "descriptionEs": "Mayo-junio y septiembre-octubre son ideales, máximas medias 18-23 °C, agua del lago 18-21 °C aún bañable para perros, el Semnoz en pico de condiciones de paseo. Evita mediados de julio a mediados de agosto: calor 30 °C+, multitudes junto al lago, sendero ciclista saturado.",
           "descriptionPt": "Maio-junho e setembro-outubro são ideais, máximas médias de 18 a 23 °C, água do lago a 18-21 °C ainda balneável para cães, o Semnoz em condições de passeio ideais. Evite de meados de julho a meados de agosto: calor de mais de 30 °C, multidões na orla, o caminho ciclável saturado.",
-          "descriptionDe": "Mai-Juni und September-Oktober sind ideal, durchschnittliche Höchsttemperaturen von 18-23 °C, Seewasser 18-21 °C, für Hunde noch schwimmbar, der Semnoz in optimalen Wanderbedingungen. Vermeiden Sie Mitte Juli bis Mitte August: Hitze über 30 °C, Andrang am Seeufer, überlasteter Radweg."
+          "descriptionDe": "Mai-Juni und September-Oktober sind ideal, durchschnittliche Höchsttemperaturen von 18-23 °C, Seewasser 18-21 °C, für Hunde noch schwimmbar, der Semnoz in optimalen Wanderbedingungen. Vermeiden Sie Mitte Juli bis Mitte August: Hitze über 30 °C, Andrang am Seeufer, überlasteter Radweg.",
+          "descriptionNl": "Mei-juni en september-oktober zijn ideaal, gemiddelde maximumtemperaturen van 18-23 °C, meerwater 18-21 °C, nog zwembaar voor honden, de Semnoz in optimale wandelcondities. Vermijd half juli tot half augustus: hitte boven 30 °C, drukte aan de meeroever, overbelast fietspad."
         },
         {
           "name": "Cross-border day trips",
@@ -952,7 +1058,8 @@
           "descriptionFr": "Genève à 40 min en TER direct, Chamonix 2h en TER (changement à La-Roche-sur-Foron), Aix-les-Bains 35 min, Lyon 1h45. Le Léman Express transfrontalier offre aussi des excursions suisses rapides avec un chien en laisse (règles légèrement différentes : muselière exigée côté suisse pour chiens moyens/grands).",
           "descriptionEs": "Ginebra a 40 min en TER directo, Chamonix 2h en TER (cambio en La-Roche-sur-Foron), Aix-les-Bains 35 min, Lyon 1h45. El Léman Express transfronterizo también ofrece excursiones suizas rápidas con perro con correa (reglas ligeramente distintas: bozal exigido en el lado suizo para perros medianos/grandes).",
           "descriptionPt": "Genebra fica a 40 min de TER direto, Chamonix a 2h de TER (com mudança em La-Roche-sur-Foron), Aix-les-Bains a 35 min, Lyon a 1h45. O Léman Express transfronteiriço também oferece excursões rápidas de um dia à Suíça com um cão com trela (as regras diferem ligeiramente: açaime obrigatório do lado suíço para cães médios/grandes).",
-          "descriptionDe": "Genf ist 40 Minuten mit dem direkten TER entfernt, Chamonix 2 Stunden mit dem TER (Umstieg in La-Roche-sur-Foron), Aix-les-Bains 35 Minuten, Lyon 1 Std. 45 Min. Der grenzüberschreitende Léman Express bietet ebenfalls schnelle Tagesausflüge in die Schweiz mit angeleintem Hund (Regeln unterscheiden sich leicht: Maulkorbpflicht auf der Schweizer Seite für mittelgroße/große Hunde)."
+          "descriptionDe": "Genf ist 40 Minuten mit dem direkten TER entfernt, Chamonix 2 Stunden mit dem TER (Umstieg in La-Roche-sur-Foron), Aix-les-Bains 35 Minuten, Lyon 1 Std. 45 Min. Der grenzüberschreitende Léman Express bietet ebenfalls schnelle Tagesausflüge in die Schweiz mit angeleintem Hund (Regeln unterscheiden sich leicht: Maulkorbpflicht auf der Schweizer Seite für mittelgroße/große Hunde).",
+          "descriptionNl": "Genève ligt 40 minuten met de directe TER, Chamonix 2 uur met de TER (overstap in La-Roche-sur-Foron), Aix-les-Bains 35 minuten, Lyon 1 uur 45 min. De grensoverschrijdende Léman Express biedt ook snelle dagtochten naar Zwitserland met aangelijnde hond (regels verschillen licht: muilkorfplicht aan Zwitserse kant voor middelgrote/grote honden)."
         },
         {
           "name": "Currency & cost",
@@ -961,7 +1068,8 @@
           "descriptionFr": "La France utilise l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel. Les suppléments animaux dans les hôtels d'Annecy tournent autour de 12-18 €/nuit, légèrement au-dessus de la médiane UE en raison du pricing station alpine, mais bien en-dessous de Genève ou Chamonix.",
           "descriptionEs": "Francia usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal. Los suplementos para mascotas en hoteles de Annecy rondan 12-18 €/noche, ligeramente por encima de la mediana UE por el pricing de estación alpina, pero muy por debajo de Ginebra o Chamonix.",
           "descriptionPt": "A França usa o euro. A maioria dos hotéis e restaurantes aceita Visa/Mastercard, o contactless é universal. Os suplementos para animais nos hotéis de Annecy rondam os 12-18 €/noite, ligeiramente acima da mediana da UE devido aos preços de estância alpina, mas bem abaixo de Genebra ou Chamonix.",
-          "descriptionDe": "Frankreich verwendet den Euro. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, kontaktloses Bezahlen ist überall verbreitet. Tierzuschläge in Hotels in Annecy liegen im Durchschnitt bei 12-18 €/Nacht, leicht über dem EU-Median wegen der alpinen Ferienort-Preise, aber deutlich unter Genf oder Chamonix."
+          "descriptionDe": "Frankreich verwendet den Euro. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, kontaktloses Bezahlen ist überall verbreitet. Tierzuschläge in Hotels in Annecy liegen im Durchschnitt bei 12-18 €/Nacht, leicht über dem EU-Median wegen der alpinen Ferienort-Preise, aber deutlich unter Genf oder Chamonix.",
+          "descriptionNl": "Frankrijk gebruikt de euro. De meeste hotels en restaurants accepteren Visa/Mastercard, contactloos betalen is overal gangbaar. Huisdiertoeslagen in hotels in Annecy liggen gemiddeld op 12-18 euro per nacht, iets hoger dan de EU-mediaan vanwege de prijzen van een alpiene vakantieplaats, maar duidelijk lager dan Genève of Chamonix."
         }
       ],
       "tipsEn": [
@@ -1027,7 +1135,9 @@
         }
       ],
       "titleDe": "Mit dem Hund nach Annecy reisen: praktische Tipps",
+      "titleNl": "Reizen met hond naar Annecy: praktische tips",
       "introDe": "Annecy, das \"Venedig der Alpen\", vereint eine UNESCO-gewürdigte mittelalterliche Vieille Ville an den Kanälen, den saubersten großen See Europas, den Wald von Semnoz mit 50 km freilauffreundlichen Wegen und eine direkte grenzüberschreitende Anbindung nach Genf (40 Minuten mit dem Zug).",
+      "introNl": "Annecy, het 'Venetië van de Alpen', combineert een door UNESCO geprezen middeleeuwse Vieille Ville aan de kanalen, het schoonste grote meer van Europa, het bos van Semnoz met 50 km losloopvriendelijke paden en een directe grensoverschrijdende verbinding met Genève (40 minuten met de trein).",
       "faqsDe": [
         {
           "q": "Eignet sich Annecy für ein hundefreundliches Wochenende?",
@@ -1036,6 +1146,16 @@
         {
           "q": "Wie schneidet Annecy im Vergleich zu Chamonix für Reisen mit Hund ab?",
           "a": "Annecy ist größer, mit mehr hundefreundlichen Hotels, mehr Restaurants und einem flachen 42 km langen Seerundweg. Chamonix bietet höher gelegenes alpines Wandern und den ikonischen Mont Blanc. Annecy gewinnt für ein ruhigeres, familienfreundliches Wochenende; Chamonix für ernsthaftes Bergwandern mit Hund."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Annecy geschikt voor een hondvriendelijk weekend?",
+          "a": "Ja, Annecy combineert een middeleeuwse UNESCO-Vieille Ville, het schoonste meer van Europa met het hele jaar door zwemplekken voor honden, het bos van Semnoz met 50 km losloopvriendelijke paden en een directe grensoverschrijdende treinverbinding met Genève. Een van de beste hondensteden van Frankrijk."
+        },
+        {
+          "q": "Hoe verhoudt Annecy zich tot Chamonix voor reizen met hond?",
+          "a": "Annecy is groter, met meer hondvriendelijke hotels, meer restaurants en een vlakke meerrondweg van 42 km. Chamonix biedt hoger gelegen alpien wandelen en de iconische Mont Blanc. Annecy wint voor een rustiger, gezinsvriendelijk weekend; Chamonix voor serieus bergwandelen met hond."
         }
       ]
     },
@@ -1067,8 +1187,11 @@
           "petPolicyPt": "Vista exterior grátis; interior do museu apenas assistência",
           "tipPt": "O pôr do sol sobre o Palais de l'Île a partir do Pont Perrière é a fotografia icónica de Annecy, movimentado depois das 18:00 no verão.",
           "descriptionDe": "Die dreieckige Festung aus dem 12. Jahrhundert auf einer kleinen Insel im Kanal du Thiou, Annecys charakteristisches Postkartenmotiv. Rund um die Uhr sichtbar vom Quai Jules-Philippe und dem Pont Perrière, hundefreundlich mit angeleinten Hunden kostenlos von der öffentlichen Straße aus. Das Innenmuseum lässt nur Assistenzhunde zu.",
+          "descriptionNl": "De driehoekige 12e-eeuwse vesting op een eilandje in het Kanaal du Thiou, het karakteristieke ansichtkaartmotief van Annecy. Dag en nacht zichtbaar vanaf de Quai Jules-Philippe en de Pont Perrière, hondvriendelijk met aangelijnde honden gratis vanaf de openbare weg. Het binnenmuseum laat alleen assistentiehonden toe.",
           "petPolicyDe": "Außenansicht kostenlos; Museumsinneres nur Assistenzhunde",
-          "tipDe": "Der Sonnenuntergang über dem Palais de l'Île vom Pont Perrière aus ist das Wahrzeichen-Foto von Annecy, im Sommer nach 18:00 Uhr belebt."
+          "petPolicyNl": "Buitenaanzicht gratis; museuminterieur alleen assistentiehonden",
+          "tipDe": "Der Sonnenuntergang über dem Palais de l'Île vom Pont Perrière aus ist das Wahrzeichen-Foto von Annecy, im Sommer nach 18:00 Uhr belebt.",
+          "tipNl": "De zonsondergang boven het Palais de l'Île vanaf de Pont Perrière is de kenmerkende foto van Annecy, 's zomers druk na 18:00 uur."
         },
         {
           "name": "Château d'Annecy (Outer Terraces)",
@@ -1090,8 +1213,11 @@
           "petPolicyPt": "Cães nos terraços grátis; interior do museu apenas assistência",
           "tipPt": "O terraço leste à hora dourada oferece o panorama mais espetacular do Lago de Annecy, leve água no verão, a subida é de calçada íngreme.",
           "descriptionDe": "Das Schloss der Grafen von Genf und der Herzöge von Savoyen aus dem 12.-15. Jahrhundert auf dem Hügel über der Vieille Ville. Die äußeren Zinnen und Panoramaterrassen sind mit angeleinten Hunden kostenlos hundefreundlich. Das Innenmuseum lässt nur Assistenzhunde zu.",
+          "descriptionNl": "Het 12e- tot 15e-eeuwse kasteel van de graven van Genève en de hertogen van Savoye op de heuvel boven de Vieille Ville. De buitenste kantelen en panoramaterrassen zijn met aangelijnde honden gratis hondvriendelijk. Het binnenmuseum laat alleen assistentiehonden toe.",
           "petPolicyDe": "Hunde auf den Terrassen kostenlos; Museumsinneres nur Assistenzhunde",
-          "tipDe": "Die östliche Terrasse zur goldenen Stunde bietet das spektakulärste Panorama des Lac d'Annecy. Bringen Sie im Sommer Wasser mit, der Aufstieg führt über steiles Kopfsteinpflaster."
+          "petPolicyNl": "Honden op de terrassen gratis; museuminterieur alleen assistentiehonden",
+          "tipDe": "Die östliche Terrasse zur goldenen Stunde bietet das spektakulärste Panorama des Lac d'Annecy. Bringen Sie im Sommer Wasser mit, der Aufstieg führt über steiles Kopfsteinpflaster.",
+          "tipNl": "Het oostelijke terras tijdens het gouden uur biedt het spectaculairste panorama van het Lac d'Annecy. Neem 's zomers water mee, de klim gaat over steile kasseien."
         },
         {
           "name": "Pont des Amours",
@@ -1113,8 +1239,11 @@
           "petPolicyPt": "Ponte pública, cães com trela grátis",
           "tipPt": "Coloque-se a meio da ponte ao pôr do sol para a fotografia icónica do Pâquier e da Vieille Ville refletidos no canal.",
           "descriptionDe": "Die gusseiserne Fußgängerbrücke von 1907 über den Kanal du Vassé, die den Pâquier mit den Jardins de l'Europe verbindet, Annecys romantischster Ort. Rund um die Uhr geöffnet, durchgehend hundefreundlich mit angeleinten Hunden. Der Park Jardins de l'Europe liegt auf der Seeseite.",
+          "descriptionNl": "De gietijzeren voetgangersbrug uit 1907 over het Kanaal du Vassé, die de Pâquier verbindt met de Jardins de l'Europe, de meest romantische plek van Annecy. Dag en nacht open, doorlopend hondvriendelijk met aangelijnde honden. Het park Jardins de l'Europe ligt aan de meerzijde.",
           "petPolicyDe": "Öffentliche Brücke, angeleinte Hunde kostenlos",
-          "tipDe": "Stellen Sie sich bei Sonnenuntergang mittig auf die Brücke für das Wahrzeichen-Foto vom Pâquier und der im Kanal gespiegelten Vieille Ville."
+          "petPolicyNl": "Openbare brug, aangelijnde honden gratis",
+          "tipDe": "Stellen Sie sich bei Sonnenuntergang mittig auf die Brücke für das Wahrzeichen-Foto vom Pâquier und der im Kanal gespiegelten Vieille Ville.",
+          "tipNl": "Ga bij zonsondergang midden op de brug staan voor de kenmerkende foto van de Pâquier en de in het kanaal weerspiegelde Vieille Ville."
         }
       ],
       "tipsEn": [
@@ -1180,7 +1309,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Annecy",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Annecy",
       "introDe": "Die meisten der Wahrzeichen von Annecy im Freien sind hundefreundlich: die Kanäle der Vieille Ville, der Pont des Amours, der Pâquier, die äußeren Terrassen des Château d'Annecy und der Gipfel des Semnoz heißen alle angeleinte Hunde kostenlos willkommen.",
+      "introNl": "De meeste buitensymbolen van Annecy zijn hondvriendelijk: de kanalen van de Vieille Ville, de Pont des Amours, de Pâquier, de buitenste terrassen van het Château d'Annecy en de top van de Semnoz verwelkomen allemaal aangelijnde honden gratis.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund zum Château d'Annecy mitnehmen?",
@@ -1189,6 +1320,16 @@
         {
           "q": "Sind Hunde im Kanalgebiet der Vieille Ville erlaubt?",
           "a": "Ja, das gesamte historische Zentrum ist eine Fußgängerzone, durchgehend hundefreundlich mit angeleinten Hunden. Sowohl der Quai Jules-Philippe entlang des Thiou als auch der Pont Perrière haben öffentliche Bänke, die Hunde dulden."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar het Château d'Annecy?",
+          "a": "Naar de buitenste kantelen en panoramaterrassen wel, aan de lijn, gratis. Het binnenmuseum van het kasteel laat alleen assistentiehonden toe."
+        },
+        {
+          "q": "Zijn honden toegestaan in het kanaalgebied van de Vieille Ville?",
+          "a": "Ja, het hele historische centrum is voetgangersgebied, doorlopend hondvriendelijk met aangelijnde honden. Zowel de Quai Jules-Philippe langs de Thiou als de Pont Perrière hebben openbare bankjes waar honden welkom zijn."
         }
       ]
     },
@@ -1216,7 +1357,9 @@
           "descriptionPt": "Plataforma internacional de pet sitting com cerca de 30 cuidadores verificados sediados em Annecy num raio de 5 km do centro, visitas pontuais, creche canina, hospedagem com pernoita. Todos os cuidadores são verificados, com seguro incluído.",
           "tipPt": "Filtre por cuidadores que falam inglês nas definições da plataforma, cerca de 60% dos cuidadores de Annecy falam inglês fluente graças ao mercado turístico transfronteiriço.",
           "descriptionDe": "Internationale Plattform für Haustierbetreuung mit rund 30 verifizierten Betreuern in Annecy innerhalb von 5 km des Zentrums, Kurzbesuche, Hundetagesstätte, Übernachtungsbetreuung. Alle Betreuer sind geprüft, eine Versicherung ist inbegriffen.",
-          "tipDe": "Filtern Sie in den Plattformeinstellungen nach englischsprachigen Betreuern, etwa 60 % der Betreuer in Annecy sprechen dank des grenzüberschreitenden Tourismus fließend Englisch."
+          "descriptionNl": "Internationaal platform voor dierenoppas met ongeveer 30 geverifieerde oppassers in Annecy binnen 5 km van het centrum, korte bezoekjes, hondendagverblijf, oppas met overnachting. Alle oppassers zijn gecontroleerd, verzekering is inbegrepen.",
+          "tipDe": "Filtern Sie in den Plattformeinstellungen nach englischsprachigen Betreuern, etwa 60 % der Betreuer in Annecy sprechen dank des grenzüberschreitenden Tourismus fließend Englisch.",
+          "tipNl": "Filter in de platforminstellingen op Engelssprekende oppassers, ongeveer 60% van de oppassers in Annecy spreekt vloeiend Engels dankzij het grensoverschrijdende toerisme."
         },
         {
           "name": "Holidog Annecy",
@@ -1234,7 +1377,9 @@
           "descriptionPt": "Plataforma de pet sitting focada em França com cerca de 20 cuidadores verificados em Annecy e uma linha telefónica veterinária 24/7 incluída em todas as reservas. Tarifa média de 25-35 €/dia para hospedagem, 12-15 € por um passeio pontual de 30 min.",
           "tipPt": "Reserve com pelo menos 72h de antecedência no verão (junho a agosto), os cuidadores mais procurados têm uma lista de espera de 4 semanas durante o pico turístico do lago.",
           "descriptionDe": "Französisch ausgerichtete Plattform für Haustierbetreuung mit rund 20 verifizierten Betreuern in Annecy und einer bei jeder Buchung inbegriffenen tierärztlichen Telefonberatung rund um die Uhr. Durchschnittlicher Preis 25-35 €/Tag für Unterbringung, 12-15 € für einen 30-minütigen Kurzspaziergang.",
-          "tipDe": "Buchen Sie im Sommer (Juni-August) mindestens 72 Stunden im Voraus, die beliebtesten Betreuer haben während der Hochsaison am See eine 4-wöchige Warteliste."
+          "descriptionNl": "Frans georiënteerd platform voor dierenoppas met ongeveer 20 geverifieerde oppassers in Annecy en een bij elke boeking inbegrepen 24-uurs telefonisch diergeneeskundig advies. Gemiddelde prijs 25-35 euro per dag voor onderdak, 12-15 euro voor een korte wandeling van 30 minuten.",
+          "tipDe": "Buchen Sie im Sommer (Juni-August) mindestens 72 Stunden im Voraus, die beliebtesten Betreuer haben während der Hochsaison am See eine 4-wöchige Warteliste.",
+          "tipNl": "Boek in de zomer (juni-augustus) minstens 72 uur van tevoren, de populairste oppassers hebben tijdens het hoogseizoen aan het meer een wachtlijst van 4 weken."
         }
       ],
       "tipsEn": [
@@ -1300,7 +1445,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Annecy",
+      "titleNl": "Dierenoppas en uitlaatservice in Annecy",
       "introDe": "Für Tagesausflüge, bei denen der Hund nicht mitkommen kann (Schlossmuseum, Innenraum des Palais de l'Île, Aravis-Seilbahnen im Winter), bietet Annecy verlässliche, geprüfte Haustierbetreuung über internationale und französische Plattformen.",
+      "introNl": "Voor dagtochten waarbij de hond niet mee kan (kasteelmuseum, interieur van het Palais de l'Île, kabelbanen van de Aravis in de winter), biedt Annecy betrouwbare, gecontroleerde dierenoppas via internationale en Franse platforms.",
       "faqsDe": [
         {
           "q": "Wie viel kostet eine Hundetagesbetreuung in Annecy?",
@@ -1309,6 +1456,16 @@
         {
           "q": "Finde ich in Annecy einen englischsprachigen Betreuer?",
           "a": "Ja, etwa 60 % der Betreuer in Annecy auf Pawshake sprechen dank des grenzüberschreitenden Genfer Tourismus fließend Englisch. Filtern Sie die Plattform nach Sprache."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost hondendagopvang in Annecy?",
+          "a": "25-35 euro per dag, afhankelijk van de oppas en het formaat van de hond, via Pawshake of Holidog. Korte bezoekjes kosten 12-15 euro voor 30 minuten."
+        },
+        {
+          "q": "Vind ik in Annecy een Engelssprekende oppas?",
+          "a": "Ja, ongeveer 60% van de oppassers in Annecy op Pawshake spreekt vloeiend Engels dankzij het grensoverschrijdende toerisme uit Genève. Filter het platform op taal."
         }
       ]
     }

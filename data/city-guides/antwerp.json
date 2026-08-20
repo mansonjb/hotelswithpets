@@ -39,9 +39,13 @@
           "mustTryPt": "Westmalle Tripel, Chimay à pressão",
           "tipPt": "A esplanada escondida nas traseiras acolhe cães e é mais sossegada do que a rua principal, pergunte ao empregado do bar",
           "descriptionDe": "Eines der ältesten und authentischsten braunen Cafés Antwerpens, versteckt in einer mittelalterlichen Gasse nahe der Groenplaats. Hunde sind hier wirklich willkommen, das Innere ist dunkel, warm und voller Holznischen, in denen sich Hunde bequem unter dem Tisch niederlassen. Die Bierkarte konzentriert sich auf belgische Trappisten- und Abteibiere. Eine echte Antwerpener Institution mit entspanntem Umgang mit Hunden.",
+          "descriptionNl": "Een van de oudste en meest authentieke bruine cafés van Antwerpen, weggestopt in een middeleeuws steegje bij de Groenplaats. Honden zijn hier echt welkom, het interieur is donker, warm en vol houten zitjes waar honden lekker onder de tafel liggen. De bierkaart focust op Belgische trappisten en abdijbieren. Een echte Antwerpse instelling met een relaxte houding tegenover honden.",
           "petPolicyDe": "Hunde drinnen und auf der Terrasse immer willkommen",
+          "petPolicyNl": "Honden altijd welkom binnen en op het terras",
           "mustTryDe": "Westmalle Tripel, Chimay vom Fass",
-          "tipDe": "Die versteckte Terrasse hinten ist hundefreundlich und ruhiger als die Hauptstraße, fragen Sie den Barkeeper"
+          "mustTryNl": "Westmalle Tripel, Chimay van het vat",
+          "tipDe": "Die versteckte Terrasse hinten ist hundefreundlich und ruhiger als die Hauptstraße, fragen Sie den Barkeeper",
+          "tipNl": "Het verborgen terras achteraan is hondvriendelijk en rustiger dan de hoofdstraat, vraag ernaar bij de barman"
         },
         {
           "name": "Café Beveren",
@@ -69,9 +73,13 @@
           "mustTryPt": "Duvel à pressão, ver o órgão mecânico nas noites de fim de semana",
           "tipPt": "Venha numa noite de fim de semana para ouvir o órgão mecânico, os cães adoram (ou detestam) a música e proporciona uma experiência memorável de Antuérpia",
           "descriptionDe": "Ein legendäres Antwerpener Café am Vlasmarkt, einem der beliebtesten Stadtplätze. Café Beveren ist berühmt für seine mechanische Orgel (an Wochenenden wird noch live Akkordeon gespielt) und dafür, völlig unprätentiös und hundefreundlich zu sein. Die Terrasse am Platz ist der beste Ort zum Leute-Beobachten in der Altstadt. Hunde sind absolut willkommen.",
+          "descriptionNl": "Een legendarisch Antwerps café aan de Vlasmarkt, een van de geliefdste buurtpleinen van de stad. Café Beveren staat bekend om zijn draaiorgel (er wordt in het weekend nog live accordeon gespeeld) en om helemaal geen poespas te maken en hondvriendelijk te zijn. Het terras op het plein is de beste plek om mensen te kijken in de oude binnenstad. Honden zijn absoluut welkom.",
           "petPolicyDe": "Hunde drinnen und auf der Platzterrasse willkommen",
+          "petPolicyNl": "Honden welkom binnen en op het terras aan het plein",
           "mustTryDe": "Duvel vom Fass, die mechanische Orgel an Wochenendabenden erleben",
-          "tipDe": "Kommen Sie an einem Wochenendabend wegen der mechanischen Orgel, Hunde lieben (oder hassen) die Musik, und es wird ein unvergessliches Antwerpen-Erlebnis"
+          "mustTryNl": "Duvel van het vat, kijk naar het draaiorgel op weekendavonden",
+          "tipDe": "Kommen Sie an einem Wochenendabend wegen der mechanischen Orgel, Hunde lieben (oder hassen) die Musik, und es wird ein unvergessliches Antwerpen-Erlebnis",
+          "tipNl": "Kom op een weekendavond voor het draaiorgel, honden houden van (of haten) de muziek en het levert een onvergetelijke Antwerpse ervaring op"
         },
         {
           "name": "Bar Paniek",
@@ -99,9 +107,13 @@
           "mustTryPt": "Seleção de cerveja artesanal, consulte a programação de música ao vivo",
           "tipPt": "Beber qualquer coisa à tarde na esplanada da Kasteelplein num dia de sol é um dos grandes prazeres de Antuérpia, chegue cedo para conseguir mesa",
           "descriptionDe": "Eine beliebte Antwerpener Bar und Musikstätte am Kasteelplein. Hunde sind auf der großen Terrasse und im Barbereich willkommen. Die Atmosphäre ist entspannt, und die Gäste sind eine Mischung aus Studenten, Musikern und Stammgästen aus der Nachbarschaft. Gute Auswahl an Craft-Bieren und Naturweinen. Die Terrasse ist einer der schönsten Außenplätze in diesem Teil der Stadt.",
+          "descriptionNl": "Een geliefde Antwerpse bar en muziekpodium aan het Kasteelplein. Honden zijn welkom op het grote terras en in de bar. De sfeer is ontspannen en het publiek is een mix van studenten, muzikanten en buurtstamgasten. Goede keuze aan speciaalbieren en natuurwijnen. Het terras is een van de fijnste buitenplekken in dit deel van de stad.",
           "petPolicyDe": "Hunde auf der Terrasse und in der Bar willkommen",
+          "petPolicyNl": "Honden welkom op het terras en in de bar",
           "mustTryDe": "Craft-Bier-Auswahl, den Live-Musik-Kalender prüfen",
-          "tipDe": "Nachmittagsgetränke auf der Kasteelplein-Terrasse an einem sonnigen Tag sind einer der großen Genüsse Antwerpens, kommen Sie früh, um einen Tisch zu bekommen"
+          "mustTryNl": "Keuze aan speciaalbieren, check het programma voor live muziek",
+          "tipDe": "Nachmittagsgetränke auf der Kasteelplein-Terrasse an einem sonnigen Tag sind einer der großen Genüsse Antwerpens, kommen Sie früh, um einen Tisch zu bekommen",
+          "tipNl": "Een borrel op het terras aan het Kasteelplein op een zonnige dag is een van de grote genoegens van Antwerpen, kom vroeg voor een tafel"
         },
         {
           "name": "Het Eilandje Terraces",
@@ -129,9 +141,13 @@
           "mustTryPt": "Bebidas na esplanada à beira-água, virada para as antigas docas, vistas do terraço do MAS (gratuito, cães não entram)",
           "tipPt": "Caminhe ao longo da Kattendijkdok e da Doca de Bonaparte para ver toda a frente de água de Het Eilandje, um excelente passeio plano de cerca de 2 km com o cão",
           "descriptionDe": "Het Eilandje (die kleine Insel) ist Antwerpens revitalisiertes Hafenviertel nördlich des Zentrums, heute Standort des MAS-Museums und einer Reihe von Restaurants und Bars am Wasser mit Terrassen, die auf die alten Docks blicken. Hunde sind auf praktisch allen diesen Terrassen willkommen. Die weite, offene Lage am Kai bedeutet, dass immer genug Platz ist. Das Viertel ist weniger überlaufen als die Altstadt und eines der besten hundefreundlichen Essensviertel der Stadt.",
+          "descriptionNl": "Het Eilandje is de vernieuwde havenwijk van Antwerpen net ten noorden van het centrum, nu de thuisbasis van het MAS-museum en een reeks restaurants en bars aan het water met terrassen die uitkijken op de oude dokken. Honden zijn welkom op vrijwel al deze terrassen. Door de wijde, open ligging aan de kade is er altijd genoeg ruimte. Deze buurt is minder druk dan de oude binnenstad en een van de beste hondvriendelijke eetbuurten van de stad.",
           "petPolicyDe": "Hunde auf allen Außenterrassen am Wasser willkommen",
+          "petPolicyNl": "Honden welkom op alle buitenterrassen aan het water",
           "mustTryDe": "Getränke auf der Uferterrasse mit Blick auf die alten Docks, Ausblick vom MAS-Dach (kostenlos, Hunde nicht drinnen)",
-          "tipDe": "Spazieren Sie entlang des Kattendijkdok und des Bonaparte Dock, um die gesamte Het-Eilandje-Uferpromenade zu sehen, ein hervorragender flacher Hundespaziergang von etwa 2 km"
+          "mustTryNl": "Een drankje op het terras met uitzicht op de oude dokken, uitzicht vanaf het dak van het MAS (gratis, honden niet naar binnen)",
+          "tipDe": "Spazieren Sie entlang des Kattendijkdok und des Bonaparte Dock, um die gesamte Het-Eilandje-Uferpromenade zu sehen, ein hervorragender flacher Hundespaziergang von etwa 2 km",
+          "tipNl": "Loop langs het Kattendijkdok en het Bonapartedok om heel Het Eilandje te zien, een uitstekende vlakke hondenwandeling van ongeveer 2 km"
         },
         {
           "name": "Kommilfoo",
@@ -159,9 +175,13 @@
           "mustTryPt": "Ementa belga sazonal, vista do rio ao pôr do sol",
           "tipPt": "Reserve a mesa da esplanada ao pôr do sol, o Escalda torna-se dourado e é uma das melhores vistas para jantar na Bélgica",
           "descriptionDe": "Ein angesehenes Antwerpener Restaurant am Schelde-Ufer mit einer Terrasse direkt am Fluss. Hunde sind auf der Terrasse willkommen, und die Lage ist wunderschön, weite Ausblicke auf die Schelde und das linke Ufer. Die Karte ist belgisch-französisch mit hochwertigen Zutaten. Eine etwas gehobenere Option für ein hundefreundliches Abendessen mit Aussicht.",
+          "descriptionNl": "Een goed aangeschreven Antwerps restaurant aan de Schelde met een terras dat direct op de rivier uitkijkt. Honden zijn welkom op het terras en de setting is prachtig, met wijds uitzicht op de Schelde en de linkeroever. De kaart is Belgisch-Frans met kwaliteitsingrediënten. Een net iets chiquere optie voor een hondvriendelijk diner met uitzicht.",
           "petPolicyDe": "Hunde auf der Flussterrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras aan de rivier",
           "mustTryDe": "Saisonale belgische Karte, Flussblick bei Sonnenuntergang",
-          "tipDe": "Buchen Sie den Terrassentisch zum Sonnenuntergang, die Schelde wird golden, und es ist einer der besten Essensausblicke Belgiens"
+          "mustTryNl": "Seizoensgebonden Belgische kaart, uitzicht op de rivier bij zonsondergang",
+          "tipDe": "Buchen Sie den Terrassentisch zum Sonnenuntergang, die Schelde wird golden, und es ist einer der besten Essensausblicke Belgiens",
+          "tipNl": "Reserveer de terrastafel bij zonsondergang, de Schelde kleurt goud en het is een van de mooiste eetuitzichten van België"
         }
       ],
       "tipsEn": [
@@ -247,7 +267,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Antwerpen",
+      "titleNl": "Hondvriendelijke restaurants in Antwerpen",
       "introDe": "Antwerpen ist eine Mode- und Diamantenstadt mit einer anspruchsvollen Gastronomieszene, und der Umgang mit Hunden in Restaurants ist entspannt und einladend. Das Hafenviertel Het Eilandje, die Uferpromenade Scheldekaaien und die Straßen rund um die Altstadt sind voller Caféterrassen, die Hunde willkommen heißen. Antwerpens Brasserien sind seit Langem Teil einer Kultur, in der Hunde ihre Besitzer überallhin begleiten. Die fünf unten genannten Orte sind das ganze Jahr über zuverlässig hundefreundlich.",
+      "introNl": "Antwerpen is een mode- en diamantstad met een verfijnde eetcultuur, en de houding ten opzichte van honden in restaurants is ontspannen en gastvrij. De havenwijk Het Eilandje, de Scheldekaaien en de straten rond de oude binnenstad zitten vol cafeterrassen die honden verwelkomen. De brasserieën van Antwerpen maken al lang deel uit van een cultuur waarin honden hun baasjes overal vergezellen. De vijf plekken hieronder zijn het hele jaar door betrouwbaar hondvriendelijk.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Antwerpener Restaurants erlaubt?",
@@ -260,6 +282,20 @@
         {
           "q": "Kann ich meinen Hund zu den Restaurants an der Antwerpener Uferpromenade mitnehmen?",
           "a": "Ja, die Terrassen an Het Eilandje und Scheldekaaien gehören zu den hundefreundlichsten der Stadt. Die meisten heißen Hunde auf den Außenterrassen willkommen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Antwerpen?",
+          "a": "België heeft geen landelijke wet die honden in restaurants verbiedt, het is aan de eigenaar. Antwerpen is over het algemeen relaxed over honden in cafés en brasserieën. Buitenterrassen zijn bijna altijd toegankelijk met honden."
+        },
+        {
+          "q": "Welke buurt in Antwerpen is het meest hondvriendelijk om te eten?",
+          "a": "Het Eilandje (havenwijk), de Scheldekaaien en de oude binnenstad rond de Vlasmarkt en Groenplaats zijn de meest betrouwbaar hondvriendelijke plekken om te eten."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen naar de restaurants aan de Antwerpse kade?",
+          "a": "Ja, de terrassen aan Het Eilandje en de Scheldekaaien behoren tot de meest hondvriendelijke van de stad. De meeste verwelkomen honden op het buitenterras."
         }
       ]
     },
@@ -297,9 +333,13 @@
           "mustTryPt": "Zona sem trela perto da entrada sul, dar a volta ao lago principal",
           "tipPt": "A esplanada do café do parque é a melhor paragem para um café matinal no centro de Antuérpia com um cão, peça uma taça de água quando fizer o pedido",
           "descriptionDe": "Antwerpens Hauptstadtpark, direkt östlich der historischen Altstadt. Ein im englischen Stil angelegter Landschaftspark mit Teichen, Statuen und baumgesäumten Wegen. Hunde sind an der Leine willkommen, und es gibt eine ausgewiesene Freilaufzone nahe dem Südeingang. Der Park ist den ganzen Tag über bei Hundebesitzern beliebt und hat eine angenehme Caféterrasse, die Hunde auf dem Außenbereich willkommen heißt. Eine zentrale und praktische Grünfläche für Besucher.",
+          "descriptionNl": "Het hoofdpark van Antwerpen, net ten oosten van het historische centrum. Een aangelegd park in Engelse stijl met vijvers, beelden en met bomen omzoomde paden. Honden zijn welkom aan de lijn en er is een aangewezen loslaatzone bij de zuidelijke ingang. Het park is de hele dag door populair bij hondenbezitters en heeft een fijn caféterras dat honden op het buitenterras verwelkomt. Een centrale en handige groene plek voor bezoekers.",
           "petPolicyDe": "Angeleinte Hunde willkommen; ausgewiesene Freilaufzone nahe dem Südeingang",
+          "petPolicyNl": "Honden aan de lijn welkom; aangewezen loslaatzone bij de zuidelijke ingang",
           "mustTryDe": "Freilaufzone nahe dem Südeingang, Spaziergang um den Hauptteich",
-          "tipDe": "Die Caféterrasse im Park ist der beste Ort für den Morgenkaffee im Zentrum Antwerpens mit Hund, bitten Sie beim Bestellen um einen Wassernapf"
+          "mustTryNl": "Loslaatzone bij de zuidelijke ingang, wandeling rond de grote vijver",
+          "tipDe": "Die Caféterrasse im Park ist der beste Ort für den Morgenkaffee im Zentrum Antwerpens mit Hund, bitten Sie beim Bestellen um einen Wassernapf",
+          "tipNl": "Het caféterras van het park is de beste ochtendkoffiestop in het centrum van Antwerpen met een hond, vraag om een waterbakje bij je bestelling"
         },
         {
           "name": "Scheldekaaien Riverside Walk",
@@ -327,9 +367,13 @@
           "mustTryPt": "Passeio ribeirinho completo de 5 km, de Het Eilandje a sul até ao Nachtegalenpark",
           "tipPt": "O pôr do sol ao longo da Scheldekaaien é uma das mais belas vistas de Antuérpia, marque o seu passeio para a hora dourada",
           "descriptionDe": "Die Scheldekaaien ist Antwerpens revitalisierte Uferpromenade, ein 5 km langer Streifen aus Grünflächen, Wegen und Terrassen entlang der Schelde. Angeleinte Hunde fühlen sich hier vollkommen zu Hause. Der breite Uferweg bietet spektakuläre Ausblicke auf den Fluss, das linke Ufer und die Skyline der Stadt. Der südliche Abschnitt schließt an den Nachtegalenpark an für einen längeren Spaziergang. Eines der besten urbanen Spaziergangserlebnisse Belgiens.",
+          "descriptionNl": "De Scheldekaaien is de vernieuwde rivierpromenade van Antwerpen, een traject van 5 km parkgebied, paden en terrassen langs de Schelde. Honden aan de lijn voelen zich hier helemaal thuis. De brede wandeling langs de rivier biedt spectaculair uitzicht op de rivier, de linkeroever en de skyline van de stad. Het zuidelijke deel sluit aan op het Nachtegalenpark voor een langere wandeling. Een van de beste stedelijke wandelervaringen van België.",
           "petPolicyDe": "Angeleinte Hunde entlang des gesamten Uferwegs willkommen",
+          "petPolicyNl": "Honden aan de lijn welkom over de hele wandeling langs de rivier",
           "mustTryDe": "Vollständiger 5-km-Uferspaziergang von Het Eilandje südlich bis zum Nachtegalenpark",
-          "tipDe": "Der Sonnenuntergang entlang der Scheldekaaien ist einer der schönsten Anblicke Antwerpens, planen Sie Ihren Spaziergang zur goldenen Stunde"
+          "mustTryNl": "De volledige wandeling van 5 km van Het Eilandje zuidwaarts naar het Nachtegalenpark",
+          "tipDe": "Der Sonnenuntergang entlang der Scheldekaaien ist einer der schönsten Anblicke Antwerpens, planen Sie Ihren Spaziergang zur goldenen Stunde",
+          "tipNl": "Zonsondergang langs de Scheldekaaien is een van de mooiste momenten van Antwerpen, plan je wandeling tijdens het gouden uur"
         },
         {
           "name": "Nachtegalenpark",
@@ -357,9 +401,13 @@
           "mustTryPt": "Volta pelo trilho florestal, passeio pelo jardim de esculturas de Middelheim",
           "tipPt": "O parque liga-se à Scheldekaaien pela margem do rio, combine-os para um passeio de cão de 7 a 8 km ao longo do rio e através do parque",
           "descriptionDe": "Ein großer romantischer Park im Süden Antwerpens mit Waldwegen, offenen Wiesen und dem darin gelegenen Freiluft-Skulpturenmuseum Middelheim. Hunde an der Leine sind überall willkommen, und die Waldwege bieten ein wirklich naturnahes Spaziergangserlebnis innerhalb der Stadt. Die Middelheim-Skulpturen sind mit Hunden auf dem Gelände zugänglich. Ein Favorit bei Hundebesitzern im Süden Antwerpens.",
+          "descriptionNl": "Een groot romantisch park in zuidelijk Antwerpen met boswandelpaden, open weiden en het openluchtmuseum Middelheim voor beeldhouwkunst binnen zijn grenzen. Honden aan de lijn zijn overal welkom en de boswandelpaden geven een echt natuurlijke wandelervaring binnen de stad. De beelden van Middelheim zijn op het terrein toegankelijk met honden. Een favoriet bij hondenbezitters uit zuidelijk Antwerpen.",
           "petPolicyDe": "Angeleinte Hunde überall willkommen, einschließlich Middelheim-Skulpturengelände",
+          "petPolicyNl": "Honden aan de lijn overal welkom, inclusief het terrein van de beeldentuin Middelheim",
           "mustTryDe": "Waldrundweg, Spaziergang durch den Middelheim-Skulpturengarten",
-          "tipDe": "Der Park schließt über das Flussufer an die Scheldekaaien an, kombinieren Sie beides für einen 7-8 km langen Hundespaziergang am Fluss und durch den Park"
+          "mustTryNl": "Rondje boswandelpad, wandeling door de beeldentuin Middelheim",
+          "tipDe": "Der Park schließt über das Flussufer an die Scheldekaaien an, kombinieren Sie beides für einen 7-8 km langen Hundespaziergang am Fluss und durch den Park",
+          "tipNl": "Het park sluit via de rivieroever aan op de Scheldekaaien, combineer dit voor een hondenwandeling van 7 tot 8 km langs de rivier en door het park"
         },
         {
           "name": "Rivierenhof",
@@ -387,9 +435,13 @@
           "mustTryPt": "Volta completa ao parque (cerca de 4 km), exterior do castelo e roseiral",
           "tipPt": "Apanhe o elétrico 10 ou 24 a partir do centro de Antuérpia, o parque fica a uma viagem de 15 minutos e é muito menos concorrido do que o Stadspark aos fins de semana",
           "descriptionDe": "Ein großer, 130 Hektar großer Park im Stadtteil Deurne östlich von Zentrum-Antwerpen mit einem historischen Schloss, Rosengärten und ausgedehnten Wanderwegen. Hunde sind überall an der Leine willkommen, und es gibt einen inoffiziellen Freilaufbereich im Ostteil, der von örtlichen Hundebesitzern genutzt wird. Die Größe des Parks macht ihn ideal für einen ausgiebigen Vormittagsspaziergang. Weniger zentral, aber die 15-minütige Straßenbahnfahrt vom Stadtzentrum durchaus wert.",
+          "descriptionNl": "Een groot park van 130 hectare in de wijk Deurne, ten oosten van het centrum van Antwerpen, met een historisch kasteel, rozentuinen en uitgebreide wandelpaden. Honden zijn overal welkom aan de lijn en er is een informele loslaatzone in het oostelijke deel, gebruikt door lokale hondenbezitters. Door zijn omvang is het park ideaal voor een volledige ochtendwandeling. Minder centraal, maar zeker de 15 minuten tram vanaf het centrum waard.",
           "petPolicyDe": "Angeleinte Hunde überall willkommen; inoffizielle Freilaufzone im Ostteil",
+          "petPolicyNl": "Honden aan de lijn overal welkom; informele loslaatzone in het oostelijke deel",
           "mustTryDe": "Vollständige Parkrunde (etwa 4 km), Schlossaußenansicht und Rosengarten",
-          "tipDe": "Nehmen Sie die Straßenbahn 10 oder 24 vom Zentrum Antwerpens aus, der Park ist eine 15-minütige Fahrt entfernt und an Wochenenden weit weniger überlaufen als der Stadspark"
+          "mustTryNl": "Volledige ronde door het park (ongeveer 4 km), buitenkant van het kasteel en de rozentuin",
+          "tipDe": "Nehmen Sie die Straßenbahn 10 oder 24 vom Zentrum Antwerpens aus, der Park ist eine 15-minütige Fahrt entfernt und an Wochenenden weit weniger überlaufen als der Stadspark",
+          "tipNl": "Neem tram 10 of 24 vanuit het centrum van Antwerpen, het park is 15 minuten rijden en veel rustiger dan het Stadspark in het weekend"
         }
       ],
       "tipsEn": [
@@ -475,7 +527,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Parks in Antwerpen",
+      "titleNl": "Hondvriendelijke parken in Antwerpen",
       "introDe": "Antwerpen verfügt über ein ausgezeichnetes Netz an Parks. Der Stadspark ist der zentrale Stadtpark und bei Hundebesitzern am beliebtesten. Die Uferpromenade Scheldekaaien ist ein flacher, malerischer, 5 km langer Grünstreifen entlang des Flusses. Der Nachtegalenpark im Süden und der Rivierenhof im Osten bieten größere Grünflächen für längere Spaziergänge. Hunde müssen in Parks an der Leine sein, aber mehrere haben ausgewiesene Freilaufzonen.",
+      "introNl": "Antwerpen heeft een uitstekend netwerk van parken. Het Stadspark is het centrale stadspark en het populairst bij hondenbezitters. De wandeling langs de Scheldekaaien is een vlak, mooi traject van 5 km parkgebied langs de rivier. Het Nachtegalenpark in het zuiden en Rivierenhof in het oosten bieden grotere groene ruimtes voor langere wandelingen. Honden moeten in parken aan de lijn, maar meerdere hebben aangewezen loslaatzones.",
       "faqsDe": [
         {
           "q": "Was ist der beste Park für Hunde in Antwerpen?",
@@ -488,6 +542,20 @@
         {
           "q": "Kann ich mit meinem Hund an der Schelde entlang spazieren?",
           "a": "Ja, die Uferpromenade Scheldekaaien ist mit angeleinten Hunden vollständig zugänglich und einer der besten urbanen Hundespaziergänge Belgiens. Die gesamte Strecke ist etwa 5 km lang."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat is het beste park voor honden in Antwerpen?",
+          "a": "Voor een centrale wandeling is het Stadspark het handigst. Voor een mooie wandeling langs de rivier zijn de Scheldekaaien het beste. Voor een echte natuurwandeling zijn het Nachtegalenpark of Rivierenhof betere keuzes."
+        },
+        {
+          "q": "Is er een loslaatzone voor honden in Antwerpen?",
+          "a": "Ja, het Stadspark heeft een aangewezen loslaatzone bij de zuidelijke ingang. Rivierenhof heeft een informele loslaatzone in het oostelijke deel. Kijk altijd naar de bebording."
+        },
+        {
+          "q": "Kan ik met mijn hond langs de Schelde wandelen?",
+          "a": "Ja, de wandeling langs de Scheldekaaien is volledig toegankelijk met honden aan de lijn en is een van de beste stedelijke hondenwandelingen van België. Het volledige traject is ongeveer 5 km."
         }
       ]
     },
@@ -620,7 +688,9 @@
         }
       ],
       "titleDe": "Mit Haustier unterwegs in Antwerpen",
+      "titleNl": "Met een huisdier door Antwerpen reizen",
       "introDe": "Der öffentliche Nahverkehr in Antwerpen wird von De Lijn (Straßenbahn und Bus) betrieben, und die Stadt verfügt im Zentrum über eine unterirdische Vor-Metro-Straßenbahn. Kleine Hunde in einer geschlossenen Transportbox fahren bei De Lijn kostenlos. Größere Hunde sind nicht zugelassen. Die Altstadt ist zu Fuß erkundbar, und die Scheldekaaien sowie Het Eilandje sind von den meisten zentralen Hotels leicht zu Fuß erreichbar.",
+      "introNl": "Het openbaar vervoer van Antwerpen wordt gerund door De Lijn (tram en bus) en de stad heeft een ondergronds pre-metrosysteem in het centrum. Kleine honden in een gesloten mand reizen gratis mee met De Lijn. Grotere honden zijn niet toegestaan. Het historische centrum is te voet te doen, en de Scheldekaaien en Het Eilandje zijn vanuit de meeste centrale hotels makkelijk te voet bereikbaar.",
       "faqsDe": [
         {
           "q": "Kann ich meinen großen Hund im öffentlichen Nahverkehr Antwerpens mitnehmen?",
@@ -633,6 +703,20 @@
         {
           "q": "Wie komme ich mit Hund von Brüssel nach Antwerpen?",
           "a": "Nehmen Sie den SNCB/NMBS-Zug von Brüssel-Central oder Brüssel-Süd (Midi) nach Antwerpen Centraal. Die Fahrzeit beträgt etwa 35 Minuten. Kleine Hunde fahren in einer geschlossenen Transportbox kostenlos."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn grote hond meenemen in het openbaar vervoer van Antwerpen?",
+          "a": "Nee, De Lijn (tram, bus en pre-metro in Antwerpen) staat alleen kleine honden in een gesloten mand toe. Gebruik een taxi of ga te voet."
+        },
+        {
+          "q": "Mag mijn hond mee naar binnen in het station Antwerpen-Centraal?",
+          "a": "Ja, honden aan de lijn zijn toegestaan in de hoofdhal van station Antwerpen-Centraal. Het is een van de mooiste stations van Europa en de moeite waard, ook zonder de trein te nemen."
+        },
+        {
+          "q": "Hoe kom ik met een hond van Brussel naar Antwerpen?",
+          "a": "Neem de NMBS/SNCB-trein vanaf Brussel-Centraal of Brussel-Zuid naar Antwerpen-Centraal. De reistijd is ongeveer 35 minuten. Kleine honden reizen gratis mee in een gesloten mand."
         }
       ]
     },
@@ -670,9 +754,13 @@
           "mustTryPt": "Passeio pela praia, passeio pela vila Belle Époque",
           "tipPt": "O comboio de Antuérpia até Ostende é direto e demora cerca de 1h15, uma viagem muito confortável para cães em transportadora",
           "descriptionDe": "Belgiens charmanteste Küstenstadt mit Belle-Époque-Villen und einem breiten, hundefreundlichen Strand. Nehmen Sie von Antwerpen den Zug nach Ostende (etwa 1 Std. 15 Min.), dann die Küstenstraßenbahn Kusttram nach De Haan (15 Minuten). Hunde sind auf den meisten Strandabschnitten das ganze Jahr über außerhalb der sommerlichen Badezonen erlaubt.",
+          "descriptionNl": "De charmantste kustplaats van België, met Belle Epoque-villa's en een breed hondvriendelijk strand. Neem vanuit Antwerpen de trein naar Oostende (ongeveer 1u15), en dan de kusttram naar De Haan (15 minuten). Honden zijn het hele jaar toegestaan op de meeste stranddelen, buiten de zomerse zwemzones.",
           "petPolicyDe": "Hunde ganzjährig erlaubt, außer in ausgewiesenen sommerlichen Badezonen",
+          "petPolicyNl": "Honden het hele jaar toegestaan, behalve in aangewezen zomerse zwemzones",
           "mustTryDe": "Strandspaziergang, Bummel durch das Belle-Époque-Dorf",
-          "tipDe": "Der Zug von Antwerpen nach Ostende ist direkt und dauert etwa 1 Std. 15 Min., eine sehr angenehme Fahrt für Hunde in Transportboxen"
+          "mustTryNl": "Strandwandeling, wandeling door het Belle Epoque-dorp",
+          "tipDe": "Der Zug von Antwerpen nach Ostende ist direkt und dauert etwa 1 Std. 15 Min., eine sehr angenehme Fahrt für Hunde in Transportboxen",
+          "tipNl": "De trein van Antwerpen naar Oostende is direct en duurt ongeveer 1u15, een heel comfortabele reis voor honden in een mand"
         },
         {
           "name": "Blankenberge Beach (North Section)",
@@ -700,9 +788,13 @@
           "mustTryPt": "Passeio de cão na praia norte, passeio pelo cais",
           "tipPt": "Há comboios diretos de Antuérpia para Blankenberge, consulte os horários da SNCB para a partida mais cómoda",
           "descriptionDe": "Blankenberge ist der nächstgelegene größere belgische Küstenort ab Antwerpen mit direkter Zugverbindung (etwa 1 Std. 20 Min.). Der nördliche Strandabschnitt ist ganzjährig hundefreundlich zugänglich. Blankenberge ist stärker erschlossen als De Haan, aber Pier, breiter Strand und Dünenweg sind alle hervorragend mit Hund. Eine praktische Wahl für einen Tagesausflug ab Antwerpen.",
+          "descriptionNl": "Blankenberge is de dichtstbijzijnde grote Belgische kustplaats vanuit Antwerpen met een directe trein (ongeveer 1u20). Het noordelijke stranddeel is het hele jaar toegankelijk voor honden. Blankenberge is meer bebouwd dan De Haan, maar de pier, het brede strand en de duinwandeling zijn allemaal uitstekend met honden. Een praktische keuze voor een dagje uit vanuit Antwerpen.",
           "petPolicyDe": "Hunde im Nordabschnitt ganzjährig erlaubt; im Zentralbereich im Sommer eingeschränkt",
+          "petPolicyNl": "Honden het hele jaar toegestaan in het noordelijke deel; beperkt in het centrale gedeelte in de zomer",
           "mustTryDe": "Hundespaziergang am Nordstrand, Spaziergang auf dem Pier",
-          "tipDe": "Direktzüge fahren von Antwerpen nach Blankenberge, prüfen Sie die SNCB-Fahrpläne für die günstigste Abfahrt"
+          "mustTryNl": "Hondenwandeling op het noordstrand, wandeling over de pier",
+          "tipDe": "Direktzüge fahren von Antwerpen nach Blankenberge, prüfen Sie die SNCB-Fahrpläne für die günstigste Abfahrt",
+          "tipNl": "Er rijden directe treinen van Antwerpen naar Blankenberge, check de dienstregeling van de NMBS voor het handigste vertrek"
         },
         {
           "name": "Kalmthoutse Heide (Heathland, Day Trip Alternative)",
@@ -730,9 +822,13 @@
           "mustTryPt": "Volta pelo trilho principal da charneca (opções de 6 a 10 km), passeio pelos prados das dunas",
           "tipPt": "Visite em agosto, quando a urze surge em plena floração roxa, um dos espetáculos naturais mais belos da Bélgica e os cães adoram-no",
           "descriptionDe": "Kein Strand, aber ein außergewöhnlicher hundefreundlicher Tagesausflug ab Antwerpen: Die Kalmthoutse Heide ist eine 4.000 Hektar große Heide- und Dünenlandschaft nur 30 Minuten nördlich von Antwerpen. Angeleinte Hunde sind auf allen markierten Wegen willkommen. Die Dünenwiesen, das Heidekraut und die Kiefernwälder ergeben eine der schönsten Naturlandschaften innerhalb einer Stunde von Antwerpen. Mit dem Bus ab Antwerpen erreichbar.",
+          "descriptionNl": "Geen strand, maar een uitstekende hondvriendelijke dagtocht vanuit Antwerpen, de Kalmthoutse Heide is een heide- en duinlandschap van 4.000 hectare op maar 30 minuten ten noorden van Antwerpen. Honden aan de lijn zijn welkom op alle gemarkeerde paden. De duinweiden, heide en dennenbossen vormen een van de mooiste natuurlandschappen binnen een uur van Antwerpen. Bereikbaar met de bus vanuit Antwerpen.",
           "petPolicyDe": "Angeleinte Hunde auf allen markierten Wegen willkommen",
+          "petPolicyNl": "Honden aan de lijn welkom op alle gemarkeerde paden",
           "mustTryDe": "Hauptrundweg durch die Heide (Optionen von 6-10 km), Spaziergang durch die Dünenwiese",
-          "tipDe": "Besuchen Sie die Gegend im August, wenn die Heide in voller violetter Blüte steht, eines der schönsten Naturschauspiele Belgiens, und Hunde lieben es"
+          "mustTryNl": "Hoofdroute door het heidegebied (opties van 6 tot 10 km), wandeling door de duinweiden",
+          "tipDe": "Besuchen Sie die Gegend im August, wenn die Heide in voller violetter Blüte steht, eines der schönsten Naturschauspiele Belgiens, und Hunde lieben es",
+          "tipNl": "Ga in augustus langs wanneer de heide in volle paarse bloei staat, een van de mooiste natuurspektakels van België, en honden zijn er dol op"
         }
       ],
       "tipsEn": [
@@ -818,7 +914,9 @@
         }
       ],
       "titleDe": "Tagesausflüge zu haustierfreundlichen Stränden ab Antwerpen",
+      "titleNl": "Dagtochten naar hondvriendelijke stranden vanuit Antwerpen",
       "introDe": "Antwerpen liegt etwa 80 km von der belgischen Küste entfernt. Die praktischsten Strandziele von Antwerpen aus mit dem Zug sind Ostende, Blankenberge und De Panne. De Haan liegt etwas weiter, ist aber am charmantesten und hundefreundlichsten. Die Zugfahrten dauern je nach Ziel zwischen 1 Std. 15 Min. und 1 Std. 45 Min.",
+      "introNl": "Antwerpen ligt op ongeveer 80 km van de Belgische kust. De handigste stranden vanuit Antwerpen met de trein zijn Oostende, Blankenberge en De Panne. De Haan ligt iets verder maar is het charmantste en meest hondvriendelijke. De treinreis duurt, afhankelijk van de bestemming, tussen 1u15 en 1u45.",
       "faqsDe": [
         {
           "q": "Was ist der nächstgelegene Strand für Hunde ab Antwerpen?",
@@ -831,6 +929,20 @@
         {
           "q": "Kann ich meinen Hund mit dem Zug von Antwerpen an die Küste mitnehmen?",
           "a": "Ja, SNCB/NMBS-Züge bedienen die Küste ab Antwerpen Centraal. Kleine Hunde fahren in einer Transportbox kostenlos. Prüfen Sie aktuelle Fahrpläne auf der SNCB-Website."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat is het dichtstbijzijnde strand bij Antwerpen voor honden?",
+          "a": "Blankenberge is de dichtstbijzijnde grote kustplaats met een directe trein (ongeveer 1u20). Voor De Haan moet je overstappen in Oostende, maar het is charmanter en hondvriendelijker."
+        },
+        {
+          "q": "Is de Kalmthoutse Heide een goed alternatief voor het strand met honden vanuit Antwerpen?",
+          "a": "Uitstekend, het heidegebied van 4.000 hectare ligt maar 30 minuten van Antwerpen en biedt veel meer natuurlijke wandelruimte dan een strand. Honden aan de lijn zijn welkom op alle paden."
+        },
+        {
+          "q": "Kan ik met mijn hond met de trein van Antwerpen naar de kust?",
+          "a": "Ja, NMBS/SNCB-treinen bedienen de kust vanuit Antwerpen-Centraal. Kleine honden reizen gratis mee in een mand. Check de actuele dienstregeling op de website van de NMBS."
         }
       ]
     },
@@ -868,9 +980,13 @@
           "mustTryPt": "N/A",
           "tipPt": "Telefone assim que notar um problema, as consultas no próprio dia são muitas vezes possíveis para consultas urgentes",
           "descriptionDe": "Eine angesehene Tierarztpraxis im Zentrum Antwerpens, praktisch für Besucher in den Vierteln Meir und Zurenborg. Routineuntersuchungen, Gesundheitschecks, Impfungen und Behandlung für besuchende Haustiere. Englischsprachige Tierärzte verfügbar. Rufen Sie im Voraus an für Termine am selben Tag bei dringenden, aber nicht akuten Situationen.",
+          "descriptionNl": "Een goed aangeschreven dierenartspraktijk in het centrum van Antwerpen, handig voor bezoekers in de buurten Meir en Zurenborg. Reguliere consulten, gezondheidscontroles, vaccinaties en behandeling voor huisdieren op bezoek. Er zijn Engelssprekende dierenartsen beschikbaar. Bel van tevoren voor afspraken dezelfde dag bij dringende, niet-spoedeisende situaties.",
           "petPolicyDe": "Offen für besuchende Haustiere, vorher anrufen",
+          "petPolicyNl": "Open voor huisdieren op bezoek, bel van tevoren",
           "mustTryDe": "Nicht zutreffend",
-          "tipDe": "Rufen Sie an, sobald Sie ein Problem bemerken, Termine am selben Tag sind bei dringenden Konsultationen oft möglich"
+          "mustTryNl": "N.v.t.",
+          "tipDe": "Rufen Sie an, sobald Sie ein Problem bemerken, Termine am selben Tag sind bei dringenden Konsultationen oft möglich",
+          "tipNl": "Bel zodra je een probleem opmerkt, afspraken dezelfde dag zijn vaak mogelijk bij dringende consulten"
         },
         {
           "name": "AniCura Antwerpen",
@@ -898,9 +1014,13 @@
           "mustTryPt": "N/A",
           "tipPt": "Guarde o número antes da viagem, para verdadeiras emergências 24 horas em Antuérpia, podem encaminhá-lo para o veterinário de urgência de serviço mais próximo",
           "descriptionDe": "AniCura betreibt eine Tierklinik in Antwerpen mit erweiterten Öffnungszeiten und Notfallkapazität. Vollständige Diagnose- und Behandlungseinrichtungen. Teil des AniCura-Netzwerks, das auch eine 24-Stunden-Versorgung in Brüssel bietet. Englischsprachiges Personal. Für die schwersten Notfälle außerhalb der Öffnungszeiten erfolgt eine Überweisung an die Tiermedizinische Fakultät der Universität Gent.",
+          "descriptionNl": "AniCura heeft een dierenartspraktijk in Antwerpen met verlengde openingstijden en spoedmogelijkheden. Volledige diagnose- en behandelfaciliteiten. Onderdeel van het AniCura-netwerk, dat ook 24-uursdekking heeft in Brussel. Engelssprekend personeel. Voor de meest ernstige spoedgevallen buiten hun openingstijden wordt doorverwezen naar de faculteit diergeneeskunde van de Universiteit Gent.",
           "petPolicyDe": "Versorgung mit erweiterten Öffnungszeiten, für Notfallverfügbarkeit anrufen",
+          "petPolicyNl": "Zorg met verlengde openingstijden, bel voor beschikbaarheid bij spoed",
           "mustTryDe": "Nicht zutreffend",
-          "tipDe": "Speichern Sie die Nummer vor Ihrer Reise, bei echten 24-Stunden-Notfällen in Antwerpen können sie Sie zum nächsten diensthabenden Notfall-Tierarzt weiterleiten"
+          "mustTryNl": "N.v.t.",
+          "tipDe": "Speichern Sie die Nummer vor Ihrer Reise, bei echten 24-Stunden-Notfällen in Antwerpen können sie Sie zum nächsten diensthabenden Notfall-Tierarzt weiterleiten",
+          "tipNl": "Sla het nummer op voor je reis, bij echte 24-uursspoedgevallen in Antwerpen kunnen ze je doorverwijzen naar de dichtstbijzijnde dienstdoende spoeddierenarts"
         }
       ],
       "tipsEn": [
@@ -986,7 +1106,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte in Antwerpen, Tierarztpraxen & Haustierbetreuung",
+      "titleNl": "Spoeddierenartsen in Antwerpen, dierenklinieken en dierenzorg",
       "introDe": "Antwerpen verfügt über eine gute tierärztliche Infrastruktur, einschließlich mehrerer Notfall- und Fachpraxen. Die meisten Tierärzte im Stadtzentrum sprechen Englisch. Für ernsthafte Notfälle ist die Tiermedizinische Fakultät der Universität Gent (45 Minuten mit dem Auto) das regionale Fachreferenzzentrum.",
+      "introNl": "Antwerpen heeft een goede dierenartsinfrastructuur, met meerdere spoed- en specialistenpraktijken. De meeste dierenartsen in het centrum spreken Engels. Voor ernstige spoedgevallen is de faculteit diergeneeskunde van de Universiteit Gent (45 minuten met de auto) het regionale doorverwijscentrum voor specialisten.",
       "faqsDe": [
         {
           "q": "Gibt es in Antwerpen einen 24-Stunden-Notfall-Tierarzt?",
@@ -999,6 +1121,20 @@
         {
           "q": "Sprechen Tierärzte in Antwerpen Englisch?",
           "a": "Ja, Antwerpen ist eine bedeutende internationale Stadt, und praktisch alle Tierarztpraxen im Stadtzentrum haben englischsprachiges Personal."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uursdierenarts in Antwerpen?",
+          "a": "AniCura Antwerpen heeft verlengde openingstijden en een spoedlijn. Voor echte 24-uursdekking is de faculteit diergeneeskunde van de Universiteit Gent (45 minuten met de auto) de dichtstbijzijnde specialistische spoedvoorziening."
+        },
+        {
+          "q": "Welke documenten heeft mijn huisdier nodig om via Antwerpen België binnen te komen?",
+          "a": "EU-huisdieren hebben een geldig EU-huisdierenpaspoort nodig met een actuele rabiësvaccinatie. Niet-EU-huisdieren hebben een AHC (gezondheidscertificaat voor dieren) nodig, afgegeven binnen 10 dagen voor het reizen. Check de website van het FAVV voor de actuele vereisten."
+        },
+        {
+          "q": "Spreken dierenartsen in Antwerpen Engels?",
+          "a": "Ja, Antwerpen is een grote internationale stad en vrijwel alle dierenartspraktijken in het centrum hebben Engelssprekend personeel."
         }
       ]
     },
@@ -1097,7 +1233,9 @@
         }
       ],
       "titleDe": "Wichtige Reisetipps mit Haustier für Antwerpen",
+      "titleNl": "Essentiële reistips met huisdier voor Antwerpen",
       "introDe": "Antwerpen ist eine hundefreundliche Stadt mit hervorragenden Parks, Uferspaziergängen und einer entspannten Cafékultur. Diese Tipps helfen Ihnen, die Stadt mit Ihrem Hund zu erkunden.",
+      "introNl": "Antwerpen is een hondvriendelijke stad met uitstekende parken, wandelingen langs de rivier en een ontspannen cafécultuur. Deze tips helpen je om je met je hond door de stad te bewegen.",
       "faqsDe": [
         {
           "q": "Ist Antwerpen eine gute Stadt für einen Besuch mit Hund?",
@@ -1110,6 +1248,20 @@
         {
           "q": "Was sind die besten Dinge, die man in Antwerpen mit Hund unternehmen kann?",
           "a": "Uferspaziergang Scheldekaaien, Morgenspaziergang im Stadspark, Uferterrassen von Het Eilandje, Waldwege im Nachtegalenpark, Besuch des Antwerpener Hauptbahnhofs und Tagesausflug zur Kalmthoutse Heide."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Antwerpen een goede stad om met een hond te bezoeken?",
+          "a": "Ja, Antwerpen heeft uitstekende parken, de wandeling langs de Scheldekaaien, hondvriendelijke caféterrassen en een relaxte houding tegenover huisdieren in het openbaar. Het is een van de leukste steden van België voor hondenbezitters."
+        },
+        {
+          "q": "Zijn honden toegestaan in de modewijk van Antwerpen?",
+          "a": "Honden zijn welkom op straat en op de caféterrassen van de modewijk (rond de Nationalestraat en de Dageraadplaats). Honden mogen niet mee naar binnen in winkels."
+        },
+        {
+          "q": "Wat zijn de leukste dingen om met een hond te doen in Antwerpen?",
+          "a": "De wandeling langs de Scheldekaaien, een ochtendwandeling in het Stadspark, de terrassen aan het water op Het Eilandje, de boswandelpaden van het Nachtegalenpark, een bezoek aan station Antwerpen-Centraal en een dagtocht naar de Kalmthoutse Heide."
         }
       ]
     },
@@ -1147,9 +1299,13 @@
           "mustTryPt": "Atravessar o átrio principal, ver o telhado de vidro abobadado a partir da zona da plataforma central",
           "tipPt": "Venha às 8h num dia de semana, quando a luz da cúpula de vidro atinge o seu melhor e a estação ainda não enche de quem viaja para trabalhar",
           "descriptionDe": "Einer der schönsten Bahnhöfe der Welt, eine kathedralenartige barocke Konstruktion aus Marmor, Glas und Eisen aus dem Jahr 1905. Angeleinte Hunde sind in der Haupthalle erlaubt. Das Bahnhofsinnere ist spektakulär und einen Besuch wert, auch wenn Sie keinen Zug nehmen. Die umliegenden Straßen (Diamantenviertel, Pelikaanstraat) sind mit Hunden zugänglich.",
+          "descriptionNl": "Een van de mooiste treinstations ter wereld, een kathedraalachtig barok bouwwerk van marmer, glas en ijzer uit 1905. Honden aan de lijn zijn toegestaan in de hoofdhal. Het interieur van het station is spectaculair en de moeite waard, ook als je niet de trein neemt. De omliggende straten (diamantwijk, Pelikaanstraat) zijn toegankelijk met honden.",
           "petPolicyDe": "Angeleinte Hunde in der Haupthalle erlaubt",
+          "petPolicyNl": "Honden aan de lijn toegestaan in de hoofdhal",
           "mustTryDe": "Durch die Haupthalle gehen, das gewölbte Glasdach vom zentralen Bahnsteigbereich aus betrachten",
-          "tipDe": "Kommen Sie an einem Wochentag um 8 Uhr, wenn das Licht durch die Glaskuppel am schönsten ist und der Bahnhof noch nicht von Pendlern überfüllt ist"
+          "mustTryNl": "Loop door de hoofdhal, bekijk het gewelfde glazen dak vanaf het centrale perrongebied",
+          "tipDe": "Kommen Sie an einem Wochentag um 8 Uhr, wenn das Licht durch die Glaskuppel am schönsten ist und der Bahnhof noch nicht von Pendlern überfüllt ist",
+          "tipNl": "Kom om 8 uur 's ochtends op een doordeweekse dag, wanneer het licht door de glazen koepel op zijn mooist is en het station nog niet vol pendelaars zit"
         },
         {
           "name": "Het Eilandje and MAS Exterior",
@@ -1177,9 +1333,13 @@
           "mustTryPt": "Subir de escada rolante externa até ao topo para vistas de 360 graus, passeio pelas docas",
           "tipPt": "As escadas rolantes externas até ao topo são gratuitas, leve o seu cão lá acima para a melhor vista sobre o histórico horizonte de Antuérpia",
           "descriptionDe": "Das MAS (Museum aan de Stroom) ist Antwerpens markanter Wasserturm, ein auffälliges, aus gestapelten Blöcken bestehendes Bauwerk, entworfen von Neutelings Riedijk. Hunde sind im Museum nicht erlaubt, aber der Außenplatz, die Dachterrassen (kostenloser öffentlicher Zugang über Außenrolltreppen) und das gesamte Hafengebiet Het Eilandje sind vollständig hundefreundlich. Das Dach bietet einen 360-Grad-Blick über Antwerpen und den Hafen.",
+          "descriptionNl": "Het MAS (Museum aan de Stroom) is de beeldbepalende toren van Antwerpen aan het water, een opvallend gebouw van gestapelde blokken, ontworpen door Neutelings Riedijk. Honden mogen niet naar binnen in het museum, maar het plein voor de deur, de dakterrassen (gratis openbaar toegankelijk via de buitenroltrappen) en het hele dokgebied van Het Eilandje zijn volledig hondvriendelijk. Vanaf het dak heb je 360 graden uitzicht over Antwerpen en de haven.",
           "petPolicyDe": "Hunde auf dem Außenplatz und im Hafenbereich willkommen; nicht im Museum",
+          "petPolicyNl": "Honden welkom op het plein en aan de kades; niet binnen in het museum",
           "mustTryDe": "Fahrt mit der Außenrolltreppe zum Dach für 360-Grad-Ausblicke, Spaziergang am Kai",
-          "tipDe": "Die Außenrolltreppen zum Dach sind kostenlos, nehmen Sie Ihren Hund mit für den besten Blick über die historische Skyline Antwerpens"
+          "mustTryNl": "Met de buitenroltrap naar het dak voor 360 graden uitzicht, wandeling langs de dokken",
+          "tipDe": "Die Außenrolltreppen zum Dach sind kostenlos, nehmen Sie Ihren Hund mit für den besten Blick über die historische Skyline Antwerpens",
+          "tipNl": "De buitenroltrappen naar het dak zijn gratis, neem je hond mee naar boven voor het mooiste uitzicht over de historische skyline van Antwerpen"
         },
         {
           "name": "Grote Markt and Cathedral Exterior",
@@ -1207,9 +1367,13 @@
           "mustTryPt": "Passeio ao início da manhã, antes das multidões de turistas, foto da Fonte de Brabo, fachada da catedral",
           "tipPt": "Visite às 7h30 num dia de semana, a Grote Markt é uma das praças mais belas da Bélgica e é mágica ao início da manhã, com quase ninguém à volta",
           "descriptionDe": "Antwerpens Hauptmarktplatz ist einer der schönsten in Europa, das Stadhuis (Rathaus) aus dem 16. Jahrhundert, die Zunfthäuser und der Brabo-Brunnen ergeben ein spektakuläres Ensemble. Hunde sind auf dem Platz willkommen. Die nahegelegene Liebfrauenkathedrale (die höchste in Belgien) hat ein prächtiges gotisches Äußeres, das mit Hunden vollständig zugänglich ist. Die umliegenden Straßen der Altstadt sind alle mit Hund begehbar.",
+          "descriptionNl": "De Grote Markt van Antwerpen is een van de mooiste van Europa, het 16e-eeuwse stadhuis, de gildehuizen en de Brabofontein vormen samen een spectaculair geheel. Honden zijn welkom op het plein. De nabijgelegen Onze-Lieve-Vrouwekathedraal (de hoogste van België) heeft een prachtige gotische buitenkant die volledig toegankelijk is met honden. De omliggende straten van de oude binnenstad zijn allemaal te belopen met een hond.",
           "petPolicyDe": "Hunde auf dem Platz und im Außenbereich der Kathedrale willkommen",
+          "petPolicyNl": "Honden welkom op het plein en bij de buitenkant van de kathedraal",
           "mustTryDe": "Früher Morgenspaziergang vor den Touristenmassen, Foto am Brabo-Brunnen, Kathedralenfassade",
-          "tipDe": "Besuchen Sie den Platz um 7:30 Uhr an einem Wochentag, der Grote Markt ist einer der schönsten Plätze Belgiens und am frühen Morgen mit fast niemandem umher magisch"
+          "mustTryNl": "Vroege ochtendwandeling voor de toeristendrukte, foto bij de Brabofontein, de gevel van de kathedraal",
+          "tipDe": "Besuchen Sie den Platz um 7:30 Uhr an einem Wochentag, der Grote Markt ist einer der schönsten Plätze Belgiens und am frühen Morgen mit fast niemandem umher magisch",
+          "tipNl": "Kom om 7:30 uur op een doordeweekse dag, de Grote Markt is een van de mooiste pleinen van België en is magisch vroeg in de ochtend, met bijna niemand in de buurt"
         }
       ],
       "tipsEn": [
@@ -1299,7 +1463,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Antwerpen",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Antwerpen",
       "introDe": "Antwerpens berühmteste Indoor-Sehenswürdigkeiten, das Königliche Museum der Schönen Künste (KMSKA), das Rubenshaus und das MAS-Museum, erlauben keine Hunde. Die Außenarchitektur der Stadt, das Diamantenviertel, die Scheldekaaien und Het Eilandje sind jedoch alle großartig mit Hund. Der Antwerpener Hauptbahnhof ist ein spektakuläres Gebäude, das angeleinte Hunde in der Haupthalle erlaubt.",
+      "introNl": "De bekendste binnenattracties van Antwerpen, het Koninklijk Museum voor Schone Kunsten (KMSKA), het Rubenshuis en het MAS-museum, laten geen honden toe. De buitenarchitectuur van de stad, de diamantwijk, de Scheldekaaien en Het Eilandje zijn echter allemaal prachtig met een hond. Station Antwerpen-Centraal is een spectaculair gebouw waar honden aan de lijn welkom zijn in de hoofdhal.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund zum Grote Markt in Antwerpen mitnehmen?",
@@ -1312,6 +1478,20 @@
         {
           "q": "Welche Außensehenswürdigkeiten kann ich in Antwerpen mit meinem Hund besuchen?",
           "a": "Grote Markt, Kathedralenaußenbereich, Antwerpener Hauptbahnhof (Innenhalle), MAS-Dach, Hafenbereich von Het Eilandje, Uferpromenade Scheldekaaien und das Jugendstilviertel Zurenborg sind alle hervorragend mit Hund."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen naar de Grote Markt van Antwerpen?",
+          "a": "Ja, de Grote Markt is een openbaar buitenplein en honden zijn volledig welkom. Bezoek het plein vroeg in de ochtend voor de beste ervaring, voordat de toeristendrukte begint."
+        },
+        {
+          "q": "Is het dak van het MAS hondvriendelijk?",
+          "a": "Ja, de buitenroltrappen bieden gratis openbare toegang tot de dakterrassen van het MAS, en honden zijn toegestaan. Het museuminterieur is niet toegankelijk met honden."
+        },
+        {
+          "q": "Welke buitenbezienswaardigheden kan ik in Antwerpen met mijn hond bezoeken?",
+          "a": "De Grote Markt, de buitenkant van de kathedraal, station Antwerpen-Centraal (de hal), het dak van het MAS, Het Eilandje aan het water, de Scheldekaaien en de art-nouveauwijk Zurenborg zijn allemaal uitstekend met honden."
         }
       ]
     },
@@ -1348,9 +1528,13 @@
           "mustTryPt": "Reserve um passeio de cão de meio dia ao longo da Scheldekaaien, muitos pet-sitters de Antuérpia oferecem este percurso",
           "tipPt": "Filtre por pet-sitters de Antuérpia que mencionem especificamente o Stadspark ou a Scheldekaaien no perfil, conhecem os melhores percursos para passear cães",
           "descriptionDe": "Rover ist in Antwerpen mit einem starken Netzwerk an Betreuern in der ganzen Stadt tätig, einschließlich der historischen Altstadt, Zurenborg und Het Eilandje. Die Dienstleistungen umfassen Kurzbesuche, Hundetagesstätte, Unterbringung und Gassi-Service. Antwerpens internationale Expat-Gemeinschaft bedeutet, dass viele Betreuer fließend Englisch sprechen und Erfahrung mit Hunden aus dem Ausland haben. Buchen Sie mindestens 48 Stunden im Voraus für Wochenenden.",
+          "descriptionNl": "Rover is actief in Antwerpen met een sterk netwerk van oppassers door de hele stad, waaronder de historische binnenstad, Zurenborg en Het Eilandje. Diensten omvatten korte huisbezoeken, dagopvang voor honden, pension en uitlaatservice. Door de internationale expatgemeenschap van Antwerpen spreken veel oppassers vloeiend Engels en hebben ze ervaring met honden uit het buitenland. Boek minstens 48 uur van tevoren voor een weekend.",
           "petPolicyDe": "Besuchende und ansässige Haustiere willkommen",
+          "petPolicyNl": "Huisdieren op bezoek en vaste huisdieren welkom",
           "mustTryDe": "Buchen Sie einen halbtägigen Hundespaziergang entlang der Scheldekaaien, viele Antwerpener Betreuer bieten diese Route an",
-          "tipDe": "Filtern Sie nach Antwerpener Betreuern, die in ihrem Profil ausdrücklich Stadspark oder Scheldekaaien erwähnen, sie kennen die besten Gassi-Routen"
+          "mustTryNl": "Boek een halvedag-hondenwandeling langs de Scheldekaaien, veel Antwerpse oppassers bieden deze route aan",
+          "tipDe": "Filtern Sie nach Antwerpener Betreuern, die in ihrem Profil ausdrücklich Stadspark oder Scheldekaaien erwähnen, sie kennen die besten Gassi-Routen",
+          "tipNl": "Filter op oppassers in Antwerpen die het Stadspark of de Scheldekaaien specifiek noemen in hun profiel, zij kennen de beste hondenwandelroutes"
         }
       ],
       "tipsEn": [
@@ -1436,7 +1620,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung und Gassi-Service in Antwerpen",
+      "titleNl": "Huisdieroppas en hondenuitlaatservice in Antwerpen",
       "introDe": "Antwerpen verfügt über eine gut ausgebaute Haustierbetreuungs- und Gassi-Service-Szene über Rover und lokale Anbieter. Die große Expat- und internationale Gemeinschaft der Stadt bedeutet, dass englischsprachige Betreuer leicht zu finden sind. Für Museumsbesuche oder halbtägige Ausflüge ohne Ihren Hund sind diese Dienste zuverlässig und leicht zu buchen.",
+      "introNl": "Antwerpen heeft een goed ontwikkelde markt voor huisdieroppas en hondenuitlaatservice via Rover en lokale diensten. Door de grote expat- en internationale gemeenschap van de stad zijn Engelssprekende oppassers makkelijk te vinden. Voor museumbezoeken of halvedag-uitstapjes zonder je hond zijn deze diensten betrouwbaar en makkelijk te boeken.",
       "faqsDe": [
         {
           "q": "Ist Rover in Antwerpen verfügbar?",
@@ -1449,6 +1635,20 @@
         {
           "q": "Kann ich englischsprachige Haustierbetreuer in Antwerpen finden?",
           "a": "Problemlos, Antwerpen hat eine der größten internationalen und Expat-Gemeinschaften Belgiens, und englischsprachige Haustierbetreuer sind in der ganzen Stadt zahlreich vertreten."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Rover beschikbaar in Antwerpen?",
+          "a": "Ja, Rover is actief in België, ook in Antwerpen. Boek via rover.com/be."
+        },
+        {
+          "q": "Wat kost een hondenoppas in Antwerpen?",
+          "a": "Reken op 20 tot 40 euro per dag voor korte bezoekjes of dagopvang, en 30 tot 60 euro per nacht voor een pension. De internationale oppassers in Antwerpen zitten doorgaans aan de hogere kant van de Belgische prijzen."
+        },
+        {
+          "q": "Vind ik Engelssprekende huisdieroppassers in Antwerpen?",
+          "a": "Heel makkelijk, Antwerpen heeft een van de grootste internationale en expatgemeenschappen van België en Engelssprekende huisdieroppassers zijn er volop."
         }
       ]
     }

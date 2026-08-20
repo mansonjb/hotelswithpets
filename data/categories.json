@@ -13,7 +13,9 @@
     "namePt": "Aceitam cães",
     "descriptionPt": "Hotéis que acolhem explicitamente cães de todas as raças e tamanhos.",
     "nameDe": "Hundefreundlich",
-    "descriptionDe": "Hotels, die Hunde aller Rassen und Größen ausdrücklich willkommen heißen."
+    "nameNl": "Hondvriendelijk",
+    "descriptionDe": "Hotels, die Hunde aller Rassen und Größen ausdrücklich willkommen heißen.",
+    "descriptionNl": "Hotels die honden van alle rassen en formaten uitdrukkelijk welkom heten."
   },
   {
     "slug": "cat-friendly",
@@ -29,7 +31,9 @@
     "namePt": "Aceitam gatos",
     "descriptionPt": "Hotéis que acolhem gatos e oferecem uma estadia confortável aos felinos.",
     "nameDe": "Katzenfreundlich",
-    "descriptionDe": "Hotels, die Katzen willkommen heißen und Samtpfoten einen komfortablen Aufenthalt bieten."
+    "nameNl": "Kattenvriendelijk",
+    "descriptionDe": "Hotels, die Katzen willkommen heißen und Samtpfoten einen komfortablen Aufenthalt bieten.",
+    "descriptionNl": "Hotels die katten verwelkomen en jouw kat een comfortabel verblijf bieden."
   },
   {
     "slug": "near-parks",
@@ -45,7 +49,9 @@
     "namePt": "Perto de parques",
     "descriptionPt": "Hotéis a curta distância de parques e espaços verdes acessíveis a cães.",
     "nameDe": "In Parknähe",
-    "descriptionDe": "Hotels in Gehweite zu hundefreundlichen Parks und Grünflächen."
+    "nameNl": "Bij parken",
+    "descriptionDe": "Hotels in Gehweite zu hundefreundlichen Parks und Grünflächen.",
+    "descriptionNl": "Hotels op loopafstand van hondvriendelijke parken en groene ruimtes."
   },
   {
     "slug": "luxury",
@@ -61,7 +67,9 @@
     "namePt": "Hotéis de luxo",
     "descriptionPt": "Hotéis de 5 estrelas e propriedades de luxo que acolhem animais com serviços premium.",
     "nameDe": "Luxus",
-    "descriptionDe": "5-Sterne-Hotels und gehobene Häuser, die Haustiere mit erstklassiger Ausstattung willkommen heißen."
+    "nameNl": "Luxe",
+    "descriptionDe": "5-Sterne-Hotels und gehobene Häuser, die Haustiere mit erstklassiger Ausstattung willkommen heißen.",
+    "descriptionNl": "5-sterrenhotels en chique verblijven die huisdieren verwelkomen met eersteklas voorzieningen."
   },
   {
     "slug": "beach-access",
@@ -77,7 +85,9 @@
     "namePt": "Acesso à praia",
     "descriptionPt": "Hotéis com acesso direto ou próximo à praia para o seu cão.",
     "nameDe": "Strandzugang",
-    "descriptionDe": "Haustierfreundliche Hotels mit direktem oder nahem Strandzugang für Ihren Hund."
+    "nameNl": "Strandtoegang",
+    "descriptionDe": "Haustierfreundliche Hotels mit direktem oder nahem Strandzugang für Ihren Hund.",
+    "descriptionNl": "Huisdiervriendelijke hotels met directe of nabijgelegen strandtoegang voor jouw hond."
   },
   {
     "slug": "dogs-stay-free",
@@ -93,7 +103,9 @@
     "namePt": "Sem suplemento animais",
     "descriptionPt": "Hotéis sem suplemento para animais. O seu cão fica sem custos adicionais.",
     "nameDe": "Hunde übernachten gratis",
-    "descriptionDe": "Hotels ohne Haustiergebühr. Ihr Hund übernachtet ohne Aufpreis."
+    "nameNl": "Honden overnachten gratis",
+    "descriptionDe": "Hotels ohne Haustiergebühr. Ihr Hund übernachtet ohne Aufpreis.",
+    "descriptionNl": "Hotels zonder huisdiertoeslag. Jouw hond overnacht zonder extra kosten."
   },
   {
     "slug": "boutique-pet-friendly",
@@ -109,7 +121,9 @@
     "namePt": "Boutique",
     "descriptionPt": "Hotéis boutique independentes com carácter que acolhem realmente animais, propriedades de design, muitas vezes em edifícios históricos.",
     "nameDe": "Boutique",
-    "descriptionDe": "Unabhängige Boutique-Hotels mit Charakter, die Haustiere wirklich willkommen heißen, designorientierte Häuser, oft in historischen Gebäuden."
+    "nameNl": "Boutique",
+    "descriptionDe": "Unabhängige Boutique-Hotels mit Charakter, die Haustiere wirklich willkommen heißen, designorientierte Häuser, oft in historischen Gebäuden.",
+    "descriptionNl": "Onafhankelijke boutiquehotels met karakter die huisdieren écht welkom heten, designgerichte panden, vaak in historische gebouwen."
   },
   {
     "slug": "budget-pet-friendly",
@@ -125,6 +139,8 @@
     "namePt": "Económicos",
     "descriptionPt": "Hotéis acessíveis abaixo de 100 € a noite que aceitam animais, cadeias e independentes verificados por políticas pet-welcome genuínas.",
     "nameDe": "Günstig",
-    "descriptionDe": "Günstige Hotels unter 100 € pro Nacht, die dennoch Haustiere akzeptieren, Ketten und unabhängige Häuser mit geprüft haustierfreundlichen Richtlinien."
+    "nameNl": "Budget",
+    "descriptionDe": "Günstige Hotels unter 100 € pro Nacht, die dennoch Haustiere akzeptieren, Ketten und unabhängige Häuser mit geprüft haustierfreundlichen Richtlinien.",
+    "descriptionNl": "Betaalbare hotels onder de 100 € per nacht die toch huisdieren accepteren, ketens en onafhankelijke panden gecontroleerd op écht huisdiervriendelijk beleid."
   }
 ]

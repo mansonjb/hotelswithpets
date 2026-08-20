@@ -41,9 +41,13 @@
           "tipPt": "Chegue à abertura (12:00 ou 18:30); as três mesas de esplanada enchem-se em 15 minutos e não há sistema de reservas.",
           "googleMapsUrl": "https://maps.google.com/?q=Casinha+do+Petisco+Lagos",
           "descriptionDe": "Eine winzige familiengeführte Petisqueira, versteckt in einer Seitengasse zwei Blocks von der Praça Gil Eanes entfernt, mit drei Pflastertischen unter einer Rebe. Die Küche setzt auf klassische Algarve-Meeresgerichte: Cataplana, Arroz de Polvo, gegrillte Sardinen, und das Personal bringt Hunden ungefragt einen Wassernapf.",
+          "descriptionNl": "Een piepklein familiebedrijf, verstopt in een zijstraatje twee blokken van de Praça Gil Eanes, met drie tafeltjes op straatstenen onder een wijnrank. De keuken zet in op klassieke Algarve-visgerechten: cataplana, arroz de polvo, gegrilde sardines, en het personeel brengt honden ongevraagd een waterbakje.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen; Wassernapf wird gestellt",
+          "petPolicyNl": "Aangelijnde honden welkom op het terras; waterbakje wordt gebracht",
           "mustTryDe": "Cataplana de marisco und gegrillte Sardinen mit batata cozida",
-          "tipDe": "Kommen Sie zur Öffnung (12:00 oder 18:30 Uhr); die drei Terrassentische sind innerhalb von 15 Minuten belegt, und es gibt kein Reservierungssystem."
+          "mustTryNl": "Cataplana de marisco en gegrilde sardines met batata cozida",
+          "tipDe": "Kommen Sie zur Öffnung (12:00 oder 18:30 Uhr); die drei Terrassentische sind innerhalb von 15 Minuten belegt, und es gibt kein Reservierungssystem.",
+          "tipNl": "Kom bij openingstijd (12:00 of 18:30 uur); de drie terrastafels zijn binnen 15 minuten bezet en er is geen reserveringssysteem."
         },
         {
           "name": "Mar d'Estórias",
@@ -71,9 +75,13 @@
           "tipPt": "Reserve online o slot pôr-do-sol 19:30; o rooftop tem 30 lugares e as mesas viradas a oeste vão primeiro.",
           "googleMapsUrl": "https://maps.google.com/?q=Mar+d+Estorias+Lagos",
           "descriptionDe": "Ein Concept Store und Dachterrassen-Restaurant in der Altstadt mit einer Panoramaterrasse mit Blick auf den Atlantik und das Fort Ponta da Bandeira. Die Karte bietet zeitgenössische portugiesische Küche mit regionalen Zutaten, und die Dachterrasse heißt angeleinte Hunde das ganze Jahr über willkommen.",
+          "descriptionNl": "Een conceptstore en dakterrasrestaurant in de oude binnenstad met een panoramaterras uitkijkend op de Atlantische Oceaan en het fort Ponta da Bandeira. De kaart biedt eigentijdse Portugese keuken met lokale ingrediënten, en het dakterras heet aangelijnde honden het hele jaar door welkom.",
           "petPolicyDe": "Angeleinte Hunde auf der Dachterrasse willkommen",
+          "petPolicyNl": "Aangelijnde honden welkom op het dakterras",
           "mustTryDe": "Atum scabeche und die Algarve-Käseplatte bei Sonnenuntergang",
-          "tipDe": "Buchen Sie den 19:30-Uhr-Sonnenuntergangsslot online; die Dachterrasse bietet 30 Plätze, und die nach Westen ausgerichteten Tische sind zuerst vergeben."
+          "mustTryNl": "Atum scabeche en de Algarve-kaasplank bij zonsondergang",
+          "tipDe": "Buchen Sie den 19:30-Uhr-Sonnenuntergangsslot online; die Dachterrasse bietet 30 Plätze, und die nach Westen ausgerichteten Tische sind zuerst vergeben.",
+          "tipNl": "Boek het zonsondergangmoment van 19:30 uur online; het dakterras heeft 30 plaatsen en de naar het westen gerichte tafels zijn het eerst vol."
         },
         {
           "name": "A Forja",
@@ -101,9 +109,13 @@
           "tipPt": "Só dinheiro, sem cartão; chegue antes das 13:00 ao almoço ou antes das 19:30 ao jantar para evitar a fila.",
           "googleMapsUrl": "https://maps.google.com/?q=Restaurante+A+Forja+Lagos",
           "descriptionDe": "Eine schnörkellose Arbeiter-Tasca, legendär für ihren Tagesfang, mit einer kleinen Pflasterterrasse in einer ruhigen Seitenstraße. Der Fisch kommt direkt vom Morgenmarkt auf den Grill, und das Personal ist an Hunde an den Außentischen gewöhnt.",
+          "descriptionNl": "Een nuchtere volkstasca, legendarisch om zijn dagverse vangst, met een klein terras op straatstenen in een rustige zijstraat. De vis komt rechtstreeks van de ochtendmarkt op de grill, en het personeel is gewend aan honden aan de buitentafels.",
           "petPolicyDe": "Angeleinte Hunde nur auf der Terrasse willkommen",
+          "petPolicyNl": "Aangelijnde honden alleen welkom op het terras",
           "mustTryDe": "Ganzer gegrillter Robalo (Wolfsbarsch) und Arroz de Tamboril",
-          "tipDe": "Nur Barzahlung, keine Karte; kommen Sie vor 13:00 Uhr zum Mittagessen oder vor 19:30 Uhr zum Abendessen, um der Schlange zu entgehen."
+          "mustTryNl": "Hele gegrilde robalo (zeebaars) en arroz de tamboril",
+          "tipDe": "Nur Barzahlung, keine Karte; kommen Sie vor 13:00 Uhr zum Mittagessen oder vor 19:30 Uhr zum Abendessen, um der Schlange zu entgehen.",
+          "tipNl": "Alleen contant, geen kaart; kom voor 13:00 uur voor de lunch of voor 19:30 uur voor het diner om de rij te vermijden."
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Lagos",
+      "titleNl": "Hondvriendelijke restaurants in Lagos",
       "introDe": "Lagos in der westlichen Algarve vereint eine alte ummauerte Altstadt mit engen Gassen mit einer Marina-Promenade und einer langen Reihe von Pflasterterrassen entlang der Rua Cândido dos Reis und der Uferpromenade Avenida dos Descobrimentos. Fast jede Terrasse heißt einen angeleinten Hund das ganze Jahr über willkommen, und das milde Meeresklima hält den Außenbereich auch im Winter geöffnet.",
+      "introNl": "Lagos in de westelijke Algarve combineert een oude ommuurde binnenstad met smalle steegjes met een jachthavenpromenade en een lange rij terrassen op straatstenen langs de Rua Cândido dos Reis en de kadepromenade Avenida dos Descobrimentos. Vrijwel elk terras heet een aangelijnde hond het hele jaar door welkom, en het milde zeeklimaat houdt het buitengedeelte ook 's winters open.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Lagos drinnen erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Darf ich meinen Hund zu den Restaurants an der Marina mitbringen?",
           "a": "Ja, die gesamte Uferpromenade der Marina de Lagos ist hundefreundlich, und fast jede Restaurantterrasse heißt angeleinte Hunde das ganze Jahr über willkommen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden binnen toegestaan in restaurants in Lagos?",
+          "a": "Aangelijnde honden zijn welkom op vrijwel elk terras op straatstenen in de oude binnenstad. Bij airconditioning binnen in juli en augustus zetten zaken honden vaak liever buiten, vraag dat gewoon aan de deur."
+        },
+        {
+          "q": "Zetten restaurants waterbakjes klaar?",
+          "a": "De meeste terrassen brengen ongevraagd een bakje; zo niet, dan werkt vragen om água para o cão altijd."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen naar de restaurants bij de jachthaven?",
+          "a": "Ja, de hele kadepromenade van de Marina de Lagos is hondvriendelijk, en vrijwel elk restaurantterras heet aangelijnde honden het hele jaar door welkom."
         }
       ]
     },
@@ -235,9 +263,13 @@
           "tipPt": "Caminhe ao nascer do sol ou uma hora antes do pôr-do-sol; o meio-dia em julho-agosto não tem sombra e a pedra calcária irradia um calor perigoso para as almofadas das patas.",
           "googleMapsUrl": "https://maps.google.com/?q=Ponta+da+Piedade+Lagos",
           "descriptionDe": "Der 4 km lange Holzsteg entlang der Kalksteinklippen von Ponta da Piedade ist der spektakulärste Hundespaziergang an der westlichen Algarve. Eingezäunte Aussichtspunkte öffnen sich auf Meereshöhlen, Felsbögen und türkisfarbene Buchten; die gesamte Route verläuft an der Leine, ist ganzjährig kostenlos und in der Morgendämmerung größtenteils schattig.",
+          "descriptionNl": "Het 4 km lange houten wandelpad langs de kalksteenkliffen van Ponta da Piedade is de spectaculairste hondenwandeling van de westelijke Algarve. Omheinde uitkijkpunten bieden zicht op zeegrotten, natuurlijke bogen en turquoise baaien; de hele route gaat aan de lijn, is het hele jaar gratis en is bij zonsopgang grotendeels schaduwrijk.",
           "petPolicyDe": "Angeleinte Hunde sind ganzjährig auf dem gesamten Boardwalk willkommen",
+          "petPolicyNl": "Aangelijnde honden zijn het hele jaar welkom op het hele wandelpad",
           "facilitiesDe": "Kostenlose Parkplätze am Leuchtturm von Ponta da Piedade, Cafés am südlichen Ende",
-          "tipDe": "Gehen Sie bei Sonnenaufgang oder eine Stunde vor Sonnenuntergang; mittags gibt es im Juli und August keinerlei Schatten, und der Kalkstein strahlt gefährlich viel Hitze für Hundepfoten ab."
+          "facilitiesNl": "Gratis parkeren bij de vuurtoren van Ponta da Piedade, cafés aan de zuidkant",
+          "tipDe": "Gehen Sie bei Sonnenaufgang oder eine Stunde vor Sonnenuntergang; mittags gibt es im Juli und August keinerlei Schatten, und der Kalkstein strahlt gefährlich viel Hitze für Hundepfoten ab.",
+          "tipNl": "Ga bij zonsopgang of een uur voor zonsondergang; rond het middaguur is er in juli en augustus totaal geen schaduw, en de kalksteen straalt gevaarlijk veel hitte af voor hondenpootjes."
         },
         {
           "name": "Mata Nacional do Barão de São João",
@@ -265,9 +297,13 @@
           "tipPt": "Visite num dia quente; a densa copa de pinheiros mantém as temperaturas 5-7°C abaixo das cidades costeiras, e o solo arenoso é suave para as almofadas das patas.",
           "googleMapsUrl": "https://maps.google.com/?q=Mata+Nacional+Barao+Sao+Joao",
           "descriptionDe": "Ein 400 Hektar großer staatlicher Wald aus Schirmpinien und Korkeichen 12 km nördlich von Lagos, mit markierten Rundwegen von 2-7 km Länge und reichlich Schatten selbst zur Mittagszeit. Der ICNF erlaubt angeleinten Hunden freien Lauf auf allen Sandpfaden, ideal für eine Flucht aus der Küstenhitze im Hochsommer.",
+          "descriptionNl": "Een 400 hectare groot staatsbos van parasoldennen en kurkeiken 12 km ten noorden van Lagos, met gemarkeerde rondwandelingen van 2-7 km en volop schaduw zelfs rond het middaguur. Het ICNF laat aangelijnde honden vrij lopen op alle zandpaden, ideaal om te ontsnappen aan de kusthitte in hartje zomer.",
           "petPolicyDe": "Angeleinte Hunde sind auf allen Waldwegen willkommen",
+          "petPolicyNl": "Aangelijnde honden zijn welkom op alle boswegen",
           "facilitiesDe": "Kostenlose Parkplätze am Ausgangspunkt, Picknicktische, keine Toiletten",
-          "tipDe": "Besuchen Sie den Wald an einem heißen Tag; das dichte Pinien-Blätterdach hält die Temperaturen 5-7 °C unter denen der Küstenorte, und der weiche Sandboden ist schonend für Hundepfoten."
+          "facilitiesNl": "Gratis parkeren bij het startpunt, picknicktafels, geen toiletten",
+          "tipDe": "Besuchen Sie den Wald an einem heißen Tag; das dichte Pinien-Blätterdach hält die Temperaturen 5-7 °C unter denen der Küstenorte, und der weiche Sandboden ist schonend für Hundepfoten.",
+          "tipNl": "Bezoek het bos op een hete dag; het dichte pijnbomengebladerte houdt de temperatuur 5-7 °C onder die van de kustplaatsen, en de zachte zandbodem is prettig voor hondenpootjes."
         },
         {
           "name": "Parque da Cidade de Lagos (Quinta da Lagoa)",
@@ -295,9 +331,13 @@
           "tipPt": "A zona canina vedada fica mais movimentada das 18:00 às 20:00 quando os donos locais se reúnem; o momento mais calmo é logo após o nascer do sol.",
           "googleMapsUrl": "https://maps.google.com/?q=Parque+da+Cidade+Lagos+Portugal",
           "descriptionDe": "Der städtische Stadtpark ist eine 12 Hektar große gestaltete Grünfläche 800 m östlich des Yachthafens, mit schattigen Kieswegen, einem kleinen See, Picknickwiesen und einem eingezäunten Bereich für Hundeauslauf. Kostenlos und rund um die Uhr geöffnet, der einfachste morgendliche Auslauf bei einem Aufenthalt im Zentrum von Lagos.",
+          "descriptionNl": "Het stadspark is een 12 hectare groot aangelegd groengebied 800 m ten oosten van de jachthaven, met schaduwrijke grindpaden, een klein meer, picknickweides en een omheind gebied voor honden om los te lopen. Gratis en dag en nacht open, de makkelijkste ochtenduitlaat als je in het centrum van Lagos verblijft.",
           "petPolicyDe": "Angeleinte Hunde sind überall willkommen; eingezäunte Freilauffläche in der Mitte",
+          "petPolicyNl": "Aangelijnde honden zijn overal welkom; omheinde losloopruimte in het midden",
           "facilitiesDe": "Cafés, Toiletten, Kinderspielplatz, eingezäunte Hundezone",
-          "tipDe": "Die eingezäunte Hundezone ist zwischen 18:00 und 20:00 Uhr am belebtesten, wenn sich die örtlichen Hundebesitzer treffen; ruhiger ist es direkt nach Sonnenaufgang."
+          "facilitiesNl": "Cafés, toiletten, speeltuin, omheinde hondenzone",
+          "tipDe": "Die eingezäunte Hundezone ist zwischen 18:00 und 20:00 Uhr am belebtesten, wenn sich die örtlichen Hundebesitzer treffen; ruhiger ist es direkt nach Sonnenaufgang.",
+          "tipNl": "De omheinde hondenzone is het drukst tussen 18:00 en 20:00 uur, wanneer de lokale hondenbezitters elkaar treffen; rustiger is het net na zonsopgang."
         }
       ],
       "tipsEn": [
@@ -377,7 +417,9 @@
         }
       ],
       "titleDe": "Die besten hundefreundlichen Parks und Klippenwege in Lagos",
+      "titleNl": "De beste hondvriendelijke parken en klifpaden in Lagos",
       "introDe": "Lagos selbst hat nur bescheidene städtische Parks, doch das umliegende Klippenplateau von Ponta da Piedade, der 12 km landeinwärts gelegene Pinienwald Mata Nacional do Barão de São João und der lange Dünenweg von Meia Praia bieten Hunden ganzjährig weiten Auslauf. Der Klippen-Boardwalk ist der Signaturspaziergang: 4 km eingezäunte Meeresaussichten, durchgehend an der Leine und am Vormittag größtenteils schattig.",
+      "introNl": "Lagos zelf heeft maar bescheiden stadsparken, maar het omliggende klifplateau van Ponta da Piedade, het 12 km landinwaarts gelegen pijnbomenbos Mata Nacional do Barão de São João en het lange duinpad van Meia Praia bieden honden het hele jaar door volop ruimte. Het klif-wandelpad is de dé wandeling: 4 km omheinde zeezichten, doorlopend aan de lijn en 's ochtends grotendeels schaduwrijk.",
       "faqsDe": [
         {
           "q": "Gibt es in Lagos einen Hundepark ohne Leine?",
@@ -390,6 +432,20 @@
         {
           "q": "Wo finde ich im Hochsommer schattige Wege?",
           "a": "Der 12 km nördlich gelegene Pinienwald Mata Nacional do Barão de São João und die Kiesrundwege im Parque da Cidade sind in Lagos im Juli und August die einzigen durchgehend schattigen Optionen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een losloopgebied voor honden in Lagos?",
+          "a": "Ja, het Parque da Cidade heeft in het midden een omheinde losloopruimte. Daarbuiten geldt in de hele gemeente standaard aanlijnplicht."
+        },
+        {
+          "q": "Mag mijn hond het hele wandelpad van Ponta da Piedade aflopen?",
+          "a": "Ja, het hele 4 km lange houten pad is het hele jaar hondvriendelijk en gratis; de uitkijkpunten zijn omheind, zodat de klifrand ook voor levendige honden veilig is."
+        },
+        {
+          "q": "Waar vind ik in hartje zomer schaduwrijke paden?",
+          "a": "Het 12 km noordelijker gelegen pijnbomenbos Mata Nacional do Barão de São João en de grindrondwandelingen in het Parque da Cidade zijn in Lagos in juli en augustus de enige doorlopend schaduwrijke opties."
         }
       ]
     },
@@ -419,7 +475,9 @@
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes com trela com açaime + meia tarifa, apenas horas de menor afluência",
           "googleMapsUrl": "https://maps.google.com/?q=Estacao+CP+Lagos",
           "descriptionDe": "Die CP-Regionallinie verkehrt von Lagos nach Faro in etwa 1:45 Std. (rund 7,30 € pro Strecke) und verbindet in Tunes mit Fernzügen nach Lissabon. Kleine Hunde in Transportboxen fahren kostenlos; größere Hunde an der Leine benötigen einen Maulkorb und ein Ticket zum halben Preis, nur außerhalb der Stoßzeiten.",
-          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde an der Leine mit Maulkorb + halber Fahrpreis, nur außerhalb der Stoßzeiten"
+          "descriptionNl": "De CP-streeklijn rijdt van Lagos naar Faro in ongeveer 1u45 (rond de 7,30 euro enkele reis) en sluit in Tunes aan op langeafstandstreinen naar Lissabon. Kleine honden in een draagtas reizen gratis; grotere honden aan de lijn hebben een muilkorf nodig en een ticket voor de halve prijs, alleen buiten de spits.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde an der Leine mit Maulkorb + halber Fahrpreis, nur außerhalb der Stoßzeiten",
+          "petPolicyNl": "Kleine honden in draagtas gratis; grotere honden aan de lijn met muilkorf + halve prijs, alleen buiten de spits"
         },
         {
           "name": "Onda Lagos municipal bus",
@@ -437,7 +495,9 @@
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes à discrição do motorista quando o autocarro não vai cheio",
           "googleMapsUrl": "https://maps.google.com/?q=Onda+Lagos+bus+station",
           "descriptionDe": "Der städtische Onda-Bus verkehrt auf vier farbcodierten Linien, die die Altstadt, Meia Praia, Porto de Mós, Praia da Luz und den Leuchtturm Ponta da Piedade verbinden. Einzelfahrt rund 1,40 €; kleine Hunde in Transportboxen fahren kostenlos, große angeleinte Hunde nach Ermessen des Fahrers.",
-          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; große Hunde nach Ermessen des Fahrers, wenn der Bus nicht voll ist"
+          "descriptionNl": "De stadsbus Onda rijdt op vier kleurgecodeerde lijnen die de oude binnenstad, Meia Praia, Porto de Mós, Praia da Luz en de vuurtoren Ponta da Piedade verbinden. Enkele reis rond de 1,40 euro; kleine honden in draagtas reizen gratis, grote aangelijnde honden naar goeddunken van de chauffeur.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; große Hunde nach Ermessen des Fahrers, wenn der Bus nicht voll ist",
+          "petPolicyNl": "Kleine honden in draagtas gratis; grote honden naar goeddunken van de chauffeur, als de bus niet vol is"
         },
         {
           "name": "Ferry Lagos to Meia Praia",
@@ -455,7 +515,9 @@
           "petPolicyPt": "Cães com trela bem-vindos sem custo extra",
           "googleMapsUrl": "https://maps.google.com/?q=Cais+da+Solaria+Lagos",
           "descriptionDe": "Eine kleine Personenfähre überquert die Mündung des Flusses Bensafrim vom marinaseitigen Cais da Solaria bis zum Dünenende von Meia Praia alle 30 Minuten während der Saison von Mai bis Oktober. Die 5-minütige Überfahrt erspart den 3 km langen Fußweg um die Marina und angeleinte Hunde sind kostenlos willkommen.",
-          "petPolicyDe": "Angeleinte Hunde ohne Aufpreis willkommen"
+          "descriptionNl": "Een klein passagiersveer steekt de monding van de rivier Bensafrim over vanaf de jachthavenkade Cais da Solaria naar het duineinde van Meia Praia, elke 30 minuten tijdens het seizoen van mei tot oktober. De overtocht van 5 minuten scheelt de wandeling van 3 km rond de jachthaven en aangelijnde honden zijn gratis welkom.",
+          "petPolicyDe": "Angeleinte Hunde ohne Aufpreis willkommen",
+          "petPolicyNl": "Aangelijnde honden welkom zonder toeslag"
         }
       ],
       "faqsEn": [
@@ -515,7 +577,9 @@
         }
       ],
       "titleDe": "Öffentliche Verkehrsmittel in Lagos mit Hund",
+      "titleNl": "Openbaar vervoer in Lagos met hond",
       "introDe": "Lagos ist die westliche Endstation der CP Linha do Algarve, der Regionalbahn nach Faro und Vila Real de Santo António. Innerhalb der Gemeinde verbindet der städtische Bus Onda die Altstadt mit Meia Praia, Porto de Mós und Luz, und eine kleine Fähre überquert den Fluss Bensafrim nach Meia Praia. Die portugiesischen Vorschriften erlauben kleinen Hunden in Transportboxen die kostenlose Mitfahrt und akzeptieren große angeleinte Hunde mit Maulkorb außerhalb der Stoßzeiten.",
+      "introNl": "Lagos is het westelijke eindpunt van de CP Linha do Algarve, de streektrein naar Faro en Vila Real de Santo António. Binnen de gemeente verbindt de stadsbus Onda de oude binnenstad met Meia Praia, Porto de Mós en Luz, en een klein veer steekt de rivier Bensafrim over naar Meia Praia. De Portugese regels laten kleine honden in draagtas gratis meereizen en accepteren grote aangelijnde honden met muilkorf buiten de spits.",
       "faqsDe": [
         {
           "q": "Brauche ich einen Maulkorb für meinen Hund im Zug nach Faro?",
@@ -528,6 +592,20 @@
         {
           "q": "Ist der Flughafen Faro (FAO) haustierfreundlich?",
           "a": "Ja, FAO akzeptiert angeleinte Hunde in den öffentlichen Terminalbereichen, und TAP Portugal akzeptiert Kabinenhaustiere unter 8 kg mit Vorabbuchung."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Heb ik een muilkorf nodig voor mijn hond in de trein naar Faro?",
+          "a": "Ja, grotere honden zonder draagtas moeten in de CP-streektreinen een muilkorf dragen. Kleine honden in gesloten draagtassen zijn daarvan vrijgesteld en reizen gratis."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen in de Onda-bus naar Meia Praia?",
+          "a": "Ja, kleine honden in draagtas reizen gratis; grote honden worden geaccepteerd naar goeddunken van de chauffeur, als de bus niet vol is. Het veer naar Meia Praia vanaf de jachthaven is in de zomer de makkelijkere optie."
+        },
+        {
+          "q": "Is luchthaven Faro (FAO) hondvriendelijk?",
+          "a": "Ja, FAO accepteert aangelijnde honden in de publieke terminalgedeeltes, en TAP Portugal accepteert huisdieren in de cabine onder 8 kg met voorafgaande boeking."
         }
       ]
     },
@@ -549,16 +627,19 @@
           "descriptionEs": "Un arco de 4 km de arena abierta bordeada de dunas que se extiende hacia el este desde el río Bensafrim hasta Alvor. Fuera de temporada (octubre a mayo), los perros con correa pueden recorrer toda la playa y la mayoría de las terrazas de las escuelas de surf permanecen abiertas con cuencos de agua para perros; en verano, la prohibición oficial se aplica entre las banderas de socorrismo del 15 de junio al 15 de septiembre.",
           "descriptionPt": "Um arco de 4 km de areia aberta ladeada de dunas que se estende para leste desde o rio Bensafrim até Alvor. Fora de época (outubro a maio), os cães com trela podem percorrer toda a praia e a maioria das esplanadas das escolas de surf mantém-se aberta com taças de água para cães; no verão, a proibição oficial aplica-se entre as bandeiras de nadador-salvador, de 15 de junho a 15 de setembro.",
           "descriptionDe": "Ein 4 km langer, offener, dünengesäumter Sandbogen, der sich vom Fluss Bensafrim nach Osten bis Alvor erstreckt. Außerhalb der Saison (Oktober bis Mai) dürfen angeleinte Hunde den ganzen Strand nutzen, und die meisten Terrassen der Surfschulen bleiben mit Wassernäpfen für Hunde geöffnet; im Sommer gilt zwischen den Rettungsschwimmer-Flaggen vom 15. Juni bis 15. September ein offizielles Verbot.",
+          "descriptionNl": "Een 4 km lange, open, door duinen omzoomde zandboog die zich uitstrekt vanaf de rivier Bensafrim naar het oosten tot Alvor. Buiten het seizoen (oktober tot mei) mogen aangelijnde honden het hele strand gebruiken, en de meeste terrassen van de surfscholen blijven open met waterbakjes voor honden; in de zomer geldt tussen de reddersvlaggen van 15 juni tot 15 september een officieel verbod.",
           "season": "Year-round access; bathing-season leash restrictions June 15-September 15",
           "seasonFr": "Accès toute l'année ; restrictions de laisse en saison balnéaire du 15 juin au 15 septembre",
           "seasonEs": "Acceso todo el año; restricciones de correa en temporada de baño del 15 de junio al 15 de septiembre",
           "seasonPt": "Acesso todo o ano; restrições de trela na época balnear de 15 de junho a 15 de setembro",
           "seasonDe": "Ganzjähriger Zugang; Leinenpflicht-Einschränkungen in der Badesaison vom 15. Juni bis 15. September",
+          "seasonNl": "Toegang het hele jaar; aanlijnplicht-beperkingen tijdens het zwemseizoen van 15 juni tot 15 september",
           "rules": "Leashed dogs October-May freely; June-September only outside lifeguarded zones",
           "rulesFr": "Chiens en laisse en accès libre d'octobre à mai ; de juin à septembre, uniquement en dehors des zones surveillées",
           "rulesEs": "Perros con correa en acceso libre de octubre a mayo; de junio a septiembre, solo fuera de las zonas vigiladas",
           "rulesPt": "Cães com trela em acesso livre de outubro a maio; de junho a setembro, apenas fora das zonas vigiadas",
           "rulesDe": "Angeleinte Hunde von Oktober bis Mai frei zugänglich; von Juni bis September nur außerhalb der bewachten Zonen",
+          "rulesNl": "Aangelijnde honden vrij toegankelijk van oktober tot mei; van juni tot september alleen buiten de bewaakte zones",
           "facilities": "Cafés, beach bars, free parking, lifeguards in summer, ferry to old town",
           "googleMapsUrl": "https://maps.google.com/?q=Meia+Praia+Lagos",
           "photo": "/images/city-places/lagos-beaches-meia-praia.jpg"
@@ -571,16 +652,19 @@
           "descriptionEs": "Una cala de arena de 1,5 km de ancho, respaldada por acantilados ocres y a la que se accede por una rampa empinada, con una zona para perros señalizada todo el año en el extremo este, bajo el promontorio de Cabeço Camarinho. La zona vallada para perros permite el acceso sin correa y permanece abierta durante toda la temporada de baño oficial.",
           "descriptionPt": "Uma enseada de areia com 1,5 km de largura, ladeada por falésias ocre e acessível por uma rampa íngreme, com uma zona para cães sinalizada durante todo o ano no extremo este, sob o promontório do Cabeço Camarinho. A zona vedada para cães permite o acesso sem trela e mantém-se aberta durante toda a época balnear oficial.",
           "descriptionDe": "Eine 1,5 km breite Sandbucht, gesäumt von ockerfarbenen Klippen und über eine steile Rampe erreichbar, mit einer ganzjährig ausgewiesenen Hundezone am östlichen Ende unterhalb des Kaps Cabeço Camarinho. Der eingezäunte Hundebereich erlaubt Freilauf und bleibt während der gesamten offiziellen Badesaison geöffnet.",
+          "descriptionNl": "Een 1,5 km brede zandbaai, omzoomd door okerkleurige kliffen en bereikbaar via een steile helling, met een het hele jaar door aangewezen hondenzone aan de oostkant onder de kaap Cabeço Camarinho. Het omheinde hondengedeelte laat vrij lopen toe en blijft open tijdens het hele officiële zwemseizoen.",
           "season": "Year-round; dedicated dog zone open even during bathing season",
           "seasonFr": "Toute l'année ; zone réservée aux chiens ouverte même pendant la saison balnéaire",
           "seasonEs": "Todo el año; zona exclusiva para perros abierta incluso durante la temporada de baño",
           "seasonPt": "Todo o ano; zona exclusiva para cães aberta mesmo durante a época balnear",
           "seasonDe": "Ganzjährig; ausgewiesene Hundezone auch während der Badesaison geöffnet",
+          "seasonNl": "Het hele jaar; aangewezen hondenzone ook open tijdens het zwemseizoen",
           "rules": "Off-leash in marked dog zone year-round; on-leash elsewhere",
           "rulesFr": "Liberté sans laisse dans la zone pour chiens balisée toute l'année ; laisse obligatoire ailleurs",
           "rulesEs": "Sin correa en la zona para perros señalizada todo el año; con correa en el resto",
           "rulesPt": "Sem trela na zona para cães sinalizada durante todo o ano; com trela no restante",
           "rulesDe": "In der markierten Hundezone ganzjährig Freilauf; andernorts Leinenpflicht",
+          "rulesNl": "In de gemarkeerde hondenzone het hele jaar vrij lopen; elders aanlijnplicht",
           "facilities": "Beach bar, restaurant, paid parking on the cliff above",
           "googleMapsUrl": "https://maps.google.com/?q=Praia+Porto+de+Mos+Lagos",
           "photo": "/images/city-places/lagos-beaches-praia-de-porto-de-mos.jpg"
@@ -593,16 +677,19 @@
           "descriptionEs": "La icónica cala de Camilo, con su escalera de madera de 200 escalones que desciende entre espectaculares arcos de piedra caliza. La playa en sí está cerrada a los perros durante la temporada de baño; el paseo en lo alto del acantilado permanece abierto a los perros todo el año y ofrece la misma vista de postal sin necesidad de bajar.",
           "descriptionPt": "A icónica enseada do Camilo, com a sua escadaria de madeira de 200 degraus que desce entre espetaculares arcos de calcário. A praia em si está fechada a cães durante a época balnear; o passadiço no topo da falésia permanece acessível a cães durante todo o ano e oferece a mesma vista de cartão-postal sem ser preciso descer.",
           "descriptionDe": "Die berühmte Bucht von Camilo mit ihrer 200-stufigen Holztreppe, die zwischen eindrucksvollen Kalksteinbögen hinabführt. Der Strand selbst ist während der Badesaison für Hunde gesperrt; der Steg oben auf der Klippe bleibt ganzjährig hundefreundlich und bietet denselben postkartenreifen Blick, ohne den Abstieg.",
+          "descriptionNl": "De beroemde baai van Camilo met zijn houten trap van 200 treden die naar beneden voert tussen indrukwekkende kalksteenbogen. Het strand zelf is tijdens het zwemseizoen gesloten voor honden; het pad boven op de klif blijft het hele jaar hondvriendelijk en biedt hetzelfde ansichtkaartuitzicht, zonder de afdaling.",
           "season": "Boardwalk year-round; sand access dogs October-May only",
           "seasonFr": "Passerelle ouverte toute l'année ; accès au sable pour les chiens uniquement d'octobre à mai",
           "seasonEs": "Paseo abierto todo el año; acceso a la arena para perros solo de octubre a mayo",
           "seasonPt": "Passadiço aberto todo o ano; acesso à areia para cães apenas de outubro a maio",
           "seasonDe": "Steg ganzjährig geöffnet; Zugang zum Sand für Hunde nur von Oktober bis Mai",
+          "seasonNl": "Pad het hele jaar open; toegang tot het zand voor honden alleen van oktober tot mei",
           "rules": "Leashed dogs on clifftop boardwalk year-round; on sand October-May only",
           "rulesFr": "Chiens en laisse sur la passerelle en haut de la falaise toute l'année ; sur le sable uniquement d'octobre à mai",
           "rulesEs": "Perros con correa en el paseo del acantilado todo el año; en la arena solo de octubre a mayo",
           "rulesPt": "Cães com trela no passadiço do topo da falésia durante todo o ano; na areia apenas de outubro a maio",
           "rulesDe": "Angeleinte Hunde ganzjährig auf dem Klippensteg; auf dem Sand nur von Oktober bis Mai",
+          "rulesNl": "Aangelijnde honden het hele jaar op het klifpad; op het zand alleen van oktober tot mei",
           "facilities": "Cliff-top café, free parking, picnic tables",
           "googleMapsUrl": "https://maps.google.com/?q=Praia+do+Camilo+Lagos",
           "photo": "/images/city-places/lagos-beaches-praia-do-camilo-cliff-viewpoint.jpg"
@@ -665,7 +752,9 @@
         }
       ],
       "titleDe": "Hundestrände bei Lagos (Meia Praia, Porto de Mós, Camilo)",
+      "titleNl": "Hondenstranden bij Lagos (Meia Praia, Porto de Mós, Camilo)",
       "introDe": "Lagos liegt am Treffpunkt der Kalksteinklippenbuchten der westlichen Algarve und der langen, offenen Düne von Meia Praia. Die offizielle portugiesische Badesaison läuft von Juni bis September, mit kommunalen Einschränkungen für Hunde in diesen Monaten an allen Stränden mit Rettungsschwimmern. Außerhalb der Saison (Oktober bis Mai) werden die 4 km leeren Sandstrands von Meia Praia zu einem der besten Hundestrände an der Südküste.",
+      "introNl": "Lagos ligt op het knooppunt van de kalksteenklifbaaien van de westelijke Algarve en de lange, open duin van Meia Praia. Het officiële Portugese zwemseizoen loopt van juni tot september, met gemeentelijke beperkingen voor honden in die maanden op alle stranden met reddingsdienst. Buiten het seizoen (oktober tot mei) wordt de 4 km lege zandstrook van Meia Praia een van de beste hondenstranden aan de zuidkust.",
       "faqsDe": [
         {
           "q": "Darf mein Hund im Sommer an den Stränden von Lagos baden?",
@@ -678,6 +767,20 @@
         {
           "q": "Sind die Atlantikströmungen für meinen Hund sicher?",
           "a": "Meia Praia fällt sanft ab und ist durch die Hafenmole von Lagos geschützt, generell sicher für sichere Schwimmer. Die westlichen Klippenstrände (Camilo, Dona Ana, Pinhão) haben stärkere Strömungen; halten Sie Ihren Hund dort an einer langen Leine."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond in de zomer zwemmen bij de stranden van Lagos?",
+          "a": "Officieel beperkt op de meeste stadsstranden tussen 15 juni en 15 september. De uitzondering is de aangewezen hondenzone bij Praia de Porto de Mós, die het hele jaar open is."
+        },
+        {
+          "q": "Welk strand van Lagos is het hele jaar het hondvriendelijkst?",
+          "a": "Praia de Porto de Mós heeft een permanente omheinde losloopzone voor honden, die zelfs 's zomers open is. Meia Praia is het beste in het laagseizoen (oktober tot mei), wanneer de 4 km zand vrijwel leeg is."
+        },
+        {
+          "q": "Zijn de Atlantische stromingen veilig voor mijn hond?",
+          "a": "Meia Praia loopt zacht af en is beschut door de havenpier van Lagos, over het algemeen veilig voor zekere zwemmers. De westelijke klifstranden (Camilo, Dona Ana, Pinhão) hebben sterkere stromingen; houd je hond daar aan een lange lijn."
         }
       ]
     },
@@ -728,10 +831,15 @@
           "tipPt": "Guarde o número de urgência antes de sair de Lagos; a cobertura móvel cai na auto-estrada A22 e pode ter de ligar antes de chegar a Estômbar.",
           "googleMapsUrl": "https://maps.google.com/?q=HVME+Estombar",
           "hoursDe": "Notfall-Hotline rund um die Uhr; Klinik Mo-Sa 9:00-20:00",
+          "hoursNl": "Noodhulplijn dag en nacht; kliniek ma-za 9:00-20:00",
           "descriptionDe": "Das wichtigste rund um die Uhr geöffnete Tierkrankenhaus der zentralen Algarve, mit Bildgebung, Chirurgie, Innerer Medizin und Notfallversorgung außerhalb der Öffnungszeiten. Gelegen an der EN125 in Estômbar, 25 Autominuten östlich von Lagos über die Autobahn A22.",
+          "descriptionNl": "Het belangrijkste dag en nacht geopende dierenziekenhuis van de centrale Algarve, met beeldvorming, chirurgie, interne geneeskunde en spoedhulp buiten kantooruren. Gelegen aan de EN125 in Estômbar, 25 minuten rijden ten oosten van Lagos via de snelweg A22.",
           "petPolicyDe": "Notfälle ohne Termin jederzeit angenommen; bei schweren Traumata vorab anrufen",
+          "petPolicyNl": "Spoedgevallen zonder afspraak altijd geaccepteerd; bel bij ernstig trauma van tevoren",
           "servicesDe": "Notfall, Chirurgie, Bildgebung, Innere Medizin, Zahnmedizin",
-          "tipDe": "Speichern Sie die Notfallnummer, bevor Sie Lagos verlassen; der Mobilfunkempfang bricht auf der Autobahn A22 ab, und Sie müssen möglicherweise vor Erreichen von Estômbar anrufen."
+          "servicesNl": "Spoedhulp, chirurgie, beeldvorming, interne geneeskunde, tandheelkunde",
+          "tipDe": "Speichern Sie die Notfallnummer, bevor Sie Lagos verlassen; der Mobilfunkempfang bricht auf der Autobahn A22 ab, und Sie müssen möglicherweise vor Erreichen von Estômbar anrufen.",
+          "tipNl": "Sla het noodnummer op voordat je Lagos verlaat; het mobiele bereik valt weg op de snelweg A22, en je moet mogelijk bellen voordat je Estômbar bereikt."
         },
         {
           "name": "Clínica Veterinária de Lagos",
@@ -769,10 +877,15 @@
           "tipPt": "Reserve o primeiro slot da manhã para validação de passaporte UE no mesmo dia; as tardes enchem-se com consultas locais.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Lagos",
           "hoursDe": "Mo-Fr 9:00-13:00 und 15:00-19:00; Sa 9:00-13:00; So geschlossen",
+          "hoursNl": "Ma-vr 9:00-13:00 en 15:00-19:00; za 9:00-13:00; zo gesloten",
           "descriptionDe": "Eine zentrale Allgemeinpraxis an der marinaseitigen Avenida dos Descobrimentos, 5 Minuten von der Altstadt entfernt, ideal für Auffrischungsimpfungen, EU-Heimtierausweis-Stempel und kleinere nicht dringende Konsultationen. Verweist bei Fällen außerhalb der Öffnungszeiten und komplexen Fällen an das HVME.",
+          "descriptionNl": "Een centrale huisartsenpraktijk aan de jachthavenkant van de Avenida dos Descobrimentos, 5 minuten van de oude binnenstad, ideaal voor herhalingsvaccinaties, stempels voor het EU-dierenpaspoort en kleinere niet-spoedeisende consulten. Verwijst bij zaken buiten kantooruren en complexe gevallen naar het HVME.",
           "petPolicyDe": "Termine bevorzugt; Laufkundschaft wird zwischen gebuchten Terminen behandelt",
+          "petPolicyNl": "Afspraken hebben de voorkeur; inloop wordt behandeld tussen geboekte afspraken door",
           "servicesDe": "Impfungen, EU-Heimtierausweis, Allgemeinmedizin, kleinere Eingriffe",
-          "tipDe": "Buchen Sie den ersten Morgentermin für die EU-Heimtierausweis-Freigabe am selben Tag; die Nachmittage sind mit lokalen Konsultationen ausgebucht."
+          "servicesNl": "Vaccinaties, EU-dierenpaspoort, huisartsengeneeskunde, kleinere ingrepen",
+          "tipDe": "Buchen Sie den ersten Morgentermin für die EU-Heimtierausweis-Freigabe am selben Tag; die Nachmittage sind mit lokalen Konsultationen ausgebucht.",
+          "tipNl": "Boek de eerste ochtendafspraak voor het EU-dierenpaspoort dezelfde dag; de middagen zitten vol met lokale consulten."
         },
         {
           "name": "Hospital Veterinário do Algarve",
@@ -810,10 +923,15 @@
           "tipPt": "Conduza você mesmo em vez de chamar táxi se o seu cão sangrar ou convulsionar; a transferência A22 é mais rápida do que esperar por um pet-taxi à noite.",
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Algarve+Faro",
           "hoursDe": "24 Stunden Notfall und Fachbehandlung",
+          "hoursNl": "24 uur spoedhulp en gespecialiseerde behandeling",
           "descriptionDe": "Das rund um die Uhr geöffnete Fach-Überweisungskrankenhaus für die gesamte Algarve, nahe dem Flughafen Faro. Deckt Kardiologie, Onkologie, Neurologie und komplexe Chirurgie ab, an die das HVME für weiterführende Untersuchungen überweisen kann; 50 Minuten von Lagos über die A22.",
+          "descriptionNl": "Het dag en nacht geopende gespecialiseerde verwijsziekenhuis voor de hele Algarve, dicht bij luchthaven Faro. Behandelt cardiologie, oncologie, neurologie en complexe chirurgie waarnaar het HVME kan doorverwijzen voor verder onderzoek; 50 minuten van Lagos via de A22.",
           "petPolicyDe": "Überweisungsbasiert; Notfälle ohne Termin werden angenommen",
+          "petPolicyNl": "Op verwijzing; spoedgevallen zonder afspraak worden geaccepteerd",
           "servicesDe": "Kardiologie, Onkologie, Neurologie, komplexe Chirurgie, 24h-Intensivstation",
-          "tipDe": "Fahren Sie selbst statt ein Taxi zu rufen, wenn Ihr Hund blutet oder einen Anfall hat; die Fahrt über die A22 ist schneller, als nachts auf ein Haustier-Taxi zu warten."
+          "servicesNl": "Cardiologie, oncologie, neurologie, complexe chirurgie, 24u-intensive care",
+          "tipDe": "Fahren Sie selbst statt ein Taxi zu rufen, wenn Ihr Hund blutet oder einen Anfall hat; die Fahrt über die A22 ist schneller, als nachts auf ein Haustier-Taxi zu warten.",
+          "tipNl": "Rijd zelf in plaats van een taxi te bellen als je hond bloedt of een aanval heeft; de rit over de A22 is sneller dan 's nachts wachten op een huisdiertaxi."
         }
       ],
       "faqsEn": [
@@ -873,7 +991,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte in Lagos",
+      "titleNl": "Spoeddierenartsen in Lagos",
       "introDe": "Lagos verfügt über mehrere tagsüber geöffnete allgemeine Tierarztpraxen im Zentrum und am Stadtrand von Chinicato, und das rund um die Uhr geöffnete Überweisungskrankenhaus HVME (Hospital Veterinário Mãe d'Água) in Estômbar (25 km östlich) deckt nächtliche Notfälle für die zentrale Algarve ab. Für Fachbehandlungen liegt das Hospital Veterinário do Algarve in Faro 80 km östlich.",
+      "introNl": "Lagos heeft meerdere overdag geopende algemene dierenartsenpraktijken in het centrum en in de rand bij Chinicato, en het dag en nacht geopende verwijsziekenhuis HVME (Hospital Veterinário Mãe d'Água) in Estômbar (25 km oostelijk) dekt nachtelijke spoedgevallen voor de centrale Algarve. Voor gespecialiseerde behandeling ligt het Hospital Veterinário do Algarve in Faro 80 km oostelijk.",
       "faqsDe": [
         {
           "q": "Wo ist der nächste 24-Stunden-Tierarzt zu Lagos?",
@@ -886,6 +1006,20 @@
         {
           "q": "Kann ich vor dem Abflug ab Faro einen EU-Heimtierausweis-Stempel bekommen?",
           "a": "Ja, beide genannten Kliniken in Lagos stellen EU-Heimtierausweise aus und aktualisieren sie. Termine am selben Tag sind für gesunde Hunde meist verfügbar."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar is de dichtstbijzijnde 24-uurs dierenarts bij Lagos?",
+          "a": "Het HVME in Estômbar (+351 282 419 080) draait de spoedhulplijn dag en nacht voor de centrale Algarve, 25 minuten rijden ten oosten van Lagos via de A22."
+        },
+        {
+          "q": "Spreken de dierenartsen in Lagos Engels?",
+          "a": "Ja, in het HVME en in de centrale Clínica Veterinária; ervaren dierenartsen zijn vloeiend dankzij het grote aantal expats en toeristen."
+        },
+        {
+          "q": "Kan ik voor vertrek vanaf Faro een stempel voor het EU-dierenpaspoort krijgen?",
+          "a": "Ja, beide genoemde klinieken in Lagos geven en actualiseren EU-dierenpaspoorten. Afspraken dezelfde dag zijn meestal beschikbaar voor gezonde honden."
         }
       ]
     },
@@ -984,7 +1118,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Tipps für einen Besuch in Lagos",
+      "titleNl": "Huisdiervriendelijke tips voor een bezoek aan Lagos",
       "introDe": "Lagos belohnt reisende Haustierbesitzer mit milden Meerestemperaturen von Oktober bis Mai, einer begehbaren ummauerten Altstadt, hundetoleranten Klippenwegen und einer Fähren-Abkürzung von der Marina nach Meia Praia. Planen Sie Strandbesuche für die Nebensaison, um den sommerlichen Bade-Einschränkungen zu entgehen, und buchen Sie Unterkünfte innerhalb der alten Stadtmauern für die einfachste autofreie Hundelogistik.",
+      "introNl": "Lagos beloont reizende huisdiereigenaren met milde zeetemperaturen van oktober tot mei, een lopend te doen ommuurde oude binnenstad, hondvriendelijke klifpaden en een verkorte veerroute vanaf de jachthaven naar Meia Praia. Plan strandbezoeken in het laagseizoen om de zomerse zwembeperkingen te vermijden, en boek accommodatie binnen de oude stadsmuren voor de makkelijkste autovrije hondenlogistiek.",
       "faqsDe": [
         {
           "q": "Ist Lagos ein guter Ausgangspunkt für einen haustierfreundlichen Algarve-Urlaub?",
@@ -997,6 +1133,20 @@
         {
           "q": "Welcher Monat ist der beste für Lagos mit Hund?",
           "a": "April-Mai und September-Oktober: milde Temperaturen, geringere Luftfeuchtigkeit, weniger Andrang und uneingeschränkter Zugang zu allen Stränden außerhalb der Badesaison."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Lagos een goede uitvalsbasis voor een huisdiervriendelijke Algarve-vakantie?",
+          "a": "Ja, de combinatie van mild zeeklimaat, lopend te doen ommuurde oude binnenstad, hondvriendelijk wandelpad Ponta da Piedade en de hele-jaar-door hondenzone bij Praia de Porto de Mós maakt het de sterkste huisdierbestemming van de westelijke Algarve."
+        },
+        {
+          "q": "Heb ik in het openbaar in Lagos een muilkorf nodig?",
+          "a": "Alleen voor rassen op de Portugese lijst van gevaarlijke rassen; standaardrassen hebben alleen een lijn nodig. De Onda-bus en de CP-trein accepteren aangelijnde grote honden met muilkorf en kleine honden in draagtas gratis."
+        },
+        {
+          "q": "Welke maand is het beste voor Lagos met hond?",
+          "a": "April-mei en september-oktober: milde temperaturen, minder vocht in de lucht, minder drukte en onbeperkte toegang tot alle stranden buiten het zwemseizoen."
         }
       ]
     },
@@ -1033,9 +1183,13 @@
           "tipPt": "Caminhe ao nascer do sol; o sol nascente ilumina as falésias ocres no seu tom mais quente e evita tanto o calor do calcário como a multidão dos passeios de barco.",
           "googleMapsUrl": "https://maps.google.com/?q=Ponta+da+Piedade+Lagos",
           "descriptionDe": "Die Wahrzeichen-Attraktion der westlichen Algarve: eine Halbinsel aus ockerfarbenen Kalksteinklippen, Meereshöhlen, Felsbögen und türkisfarbenen Buchten, gekrönt von einem Leuchtturm aus dem 19. Jahrhundert. Der 4 km lange hölzerne Klippen-Boardwalk lässt angeleinte Hunde das ganze Jahr über zu und bietet das spektakulärste Meerespanorama Portugals.",
+          "descriptionNl": "De hoofdattractie van de westelijke Algarve: een schiereiland van okerkleurige kalksteenkliffen, zeegrotten, natuurlijke bogen en turquoise baaien, bekroond door een vuurtoren uit de 19e eeuw. Het 4 km lange houten klif-wandelpad laat aangelijnde honden het hele jaar toe en biedt het spectaculairste zeepanorama van Portugal.",
           "dogPolicyDe": "Angeleinte Hunde auf dem gesamten Klippen-Boardwalk das ganze Jahr über willkommen",
+          "dogPolicyNl": "Aangelijnde honden het hele jaar welkom op het hele klif-wandelpad",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Gehen Sie bei Sonnenaufgang; die aufgehende Sonne taucht die ockerfarbenen Klippen in ihren wärmsten Farbton, und Sie entgehen sowohl der Kalkstein-Hitze als auch dem Andrang der Bootstouren."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Gehen Sie bei Sonnenaufgang; die aufgehende Sonne taucht die ockerfarbenen Klippen in ihren wärmsten Farbton, und Sie entgehen sowohl der Kalkstein-Hitze als auch dem Andrang der Bootstouren.",
+          "tipNl": "Ga bij zonsopgang; de opkomende zon geeft de okerkleurige kliffen hun warmste tint, en je ontsnapt zowel aan de kalksteenhitte als aan de drukte van de boottochten."
         },
         {
           "name": "Old Town walls & Forte da Ponta da Bandeira",
@@ -1060,9 +1214,13 @@
           "tipPt": "Faça o circuito das muralhas à hora dourada mesmo antes do pôr-do-sol; a pedra ocre brilha e as luzes da marina acendem-se para uma vista única.",
           "googleMapsUrl": "https://maps.google.com/?q=Forte+Ponta+da+Bandeira+Lagos",
           "descriptionDe": "Die Stadtmauer aus dem 16. Jahrhundert um die Altstadt und die seewärtige Forte da Ponta da Bandeira, 1690 zur Verteidigung des Hafens erbaut. Die Mauern und das Außengelände der Festung sind ganzjährig hundefreundlich; das Innere der Festung beherbergt ein kleines Museum, das nur Assistenzhunde zulässt.",
+          "descriptionNl": "De 16e-eeuwse stadsmuur rond de oude binnenstad en het zeewaartse Forte da Ponta da Bandeira, gebouwd in 1690 ter verdediging van de haven. De muren en het buitenterrein van het fort zijn het hele jaar hondvriendelijk; binnen in het fort zit een klein museum dat alleen assistentiehonden toelaat.",
           "dogPolicyDe": "Angeleinte Hunde auf den Mauern und dem Außengelände der Festung willkommen; im Inneren nur Assistenzhunde",
+          "dogPolicyNl": "Aangelijnde honden welkom op de muren en het buitenterrein van het fort; binnen alleen assistentiehonden",
           "admissionFeeDe": "Mauern kostenlos; Festung 3 €",
-          "tipDe": "Gehen Sie die Mauerrunde zur goldenen Stunde kurz vor Sonnenuntergang, der ockerfarbene Stein leuchtet und die Lichter der Marina gehen für einen einzigartigen Blick an."
+          "admissionFeeNl": "Muren gratis; fort 3 euro",
+          "tipDe": "Gehen Sie die Mauerrunde zur goldenen Stunde kurz vor Sonnenuntergang, der ockerfarbene Stein leuchtet und die Lichter der Marina gehen für einen einzigartigen Blick an.",
+          "tipNl": "Loop de muurronde tijdens het gouden uur vlak voor zonsondergang, de okerkleurige steen gloeit en de lichten van de jachthaven gaan aan voor een uniek uitzicht."
         },
         {
           "name": "Praça do Infante and Mercado de Escravos site",
@@ -1087,9 +1245,13 @@
           "tipPt": "A Praça do Infante acolhe o mercado artesanal do fim de semana; os dias úteis mais calmos deixam o seu cão explorar a praça sem multidão.",
           "googleMapsUrl": "https://maps.google.com/?q=Praca+do+Infante+Lagos",
           "descriptionDe": "Der Platz Praça do Infante mit seiner Statue von Heinrich dem Seefahrer liegt gegenüber dem ehemaligen Gebäude des Mercado de Escravos, dem ersten Sklavenmarkt des modernen Europas (1444), heute ein kleines Gedenkmuseum. Der Platz, die Statue und die angrenzenden Kirchenfassaden sind ganzjährig ein vollständig hundefreundlicher öffentlicher Freiraum.",
+          "descriptionNl": "Het plein Praça do Infante met zijn standbeeld van Hendrik de Zeevaarder ligt tegenover het voormalige gebouw van de Mercado de Escravos, de eerste slavenmarkt van modern Europa (1444), nu een klein herdenkingsmuseum. Het plein, het standbeeld en de aangrenzende kerkgevels zijn het hele jaar een volledig hondvriendelijke openbare buitenruimte.",
           "dogPolicyDe": "Angeleinte Hunde auf dem gesamten Platz willkommen; im Museum nur Assistenzhunde",
+          "dogPolicyNl": "Aangelijnde honden welkom op het hele plein; in het museum alleen assistentiehonden",
           "admissionFeeDe": "Platz kostenlos; Museum 3 €",
-          "tipDe": "Auf der Praça do Infante findet der Kunsthandwerkermarkt am Wochenende statt; an ruhigeren Wochentagen kann Ihr Hund den Platz ohne Gedränge erkunden."
+          "admissionFeeNl": "Plein gratis; museum 3 euro",
+          "tipDe": "Auf der Praça do Infante findet der Kunsthandwerkermarkt am Wochenende statt; an ruhigeren Wochentagen kann Ihr Hund den Platz ohne Gedränge erkunden.",
+          "tipNl": "Op de Praça do Infante vindt in het weekend de ambachtsmarkt plaats; op rustigere doordeweekse dagen kan je hond het plein zonder gedrang verkennen."
         }
       ],
       "tipsEn": [
@@ -1169,7 +1331,9 @@
         }
       ],
       "titleDe": "Top hundefreundliche Sehenswürdigkeiten in Lagos",
+      "titleNl": "Top hondvriendelijke bezienswaardigheden in Lagos",
       "introDe": "Lagos vereint eine ungewöhnlich hohe Dichte an hundefreundlichen Attraktionen im Freien: die ummauerte Altstadt mit ihren Festungsmauern aus dem 16. Jahrhundert, den Klippen-Boardwalk Ponta da Piedade, die Seefestung Ponta da Bandeira und die historische Stätte des Mercado de Escravos, des ehemaligen Sklavenmarkts. Alle wichtigen Freiluft-Sehenswürdigkeiten lassen angeleinte Hunde zu; nur die kleinen Museumsinnenräume sind Assistenzhunden vorbehalten.",
+      "introNl": "Lagos combineert een ongewoon hoge dichtheid aan hondvriendelijke buitenattracties: de ommuurde oude binnenstad met zijn 16e-eeuwse vestingmuren, het klif-wandelpad Ponta da Piedade, het zeefort Ponta da Bandeira en de historische locatie van de Mercado de Escravos, de voormalige slavenmarkt. Alle belangrijke buitenbezienswaardigheden laten aangelijnde honden toe; alleen de kleine museumbinnenruimtes zijn voorbehouden aan assistentiehonden.",
       "faqsDe": [
         {
           "q": "Sind Hunde in den Museen von Lagos erlaubt?",
@@ -1182,6 +1346,20 @@
         {
           "q": "Ist die Altstadt von Lagos mit Hund begehbar?",
           "a": "Ja, der gesamte Mauerrundgang ist Fußgängerzone, und ein angeleinter Hund bewältigt die gesamte Runde einschließlich der Marina-Erweiterung in etwa 45 Minuten."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in de musea van Lagos?",
+          "a": "Alleen assistentiehonden mogen de kleine binnenruimtes van het Forte da Ponta da Bandeira en het Mercado-de-Escravos-monument betreden; aangelijnde huisdieren zijn welkom op alle pleinen, muren en buitenculturele locaties."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen op een boottocht naar de Ponta da Piedade?",
+          "a": "De meeste commerciële zeegrottentochten weigeren honden om veiligheidsredenen in de nauwe grotten; het klif-wandelpad erboven biedt een even indrukwekkend uitzicht vanaf vaste grond."
+        },
+        {
+          "q": "Is de oude binnenstad van Lagos lopend te doen met hond?",
+          "a": "Ja, de hele muurronde is voetgangersgebied, en een aangelijnde hond doet de hele ronde inclusief de jachthavenuitbreiding in ongeveer 45 minuten."
         }
       ]
     },
@@ -1214,8 +1392,11 @@
           "servicesPt": "Visitas, creche diurna, alojamento nocturno",
           "openingHours": "App available 24/7; sitters set own hours",
           "descriptionDe": "Die führende Peer-to-Peer-Haustierbetreuungsplattform in Portugal, mit verifizierten Gastgebern in Lagos, die Kurzbesuche, Tagesbetreuung und Übernachtungen anbieten. Die meisten Gastgeber haben Erdgeschosswohnungen oder kleine Algarve-Gärten mit schnellem Zugang nach draußen.",
+          "descriptionNl": "Het toonaangevende peer-to-peer huisdierenzorgplatform in Portugal, met geverifieerde gastheren in Lagos die kort bezoek, dagopvang en overnachtingen aanbieden. De meeste gastheren hebben gelijkvloerse woningen of kleine Algarve-tuinen met snelle toegang naar buiten.",
           "petPolicyDe": "Richtlinien je Gastgeber; versicherte und bewertete Buchungen",
-          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungen"
+          "petPolicyNl": "Beleid per gastheer; verzekerde en beoordeelde boekingen",
+          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungen",
+          "servicesNl": "Kort bezoek, dagopvang, overnachtingen"
         },
         {
           "name": "DogHero Lagos",
@@ -1236,8 +1417,11 @@
           "servicesPt": "Visitas, creche diurna, alojamento nocturno, passeios",
           "openingHours": "App available 24/7; sitters set own hours",
           "descriptionDe": "Das aus Brasilien stammende DogHero ist die zweitgrößte Peer-to-Peer-Haustierbetreuungsplattform in Portugal mit einem umfangreichen Angebot in der westlichen Algarve, einschließlich Gastgebern im Zentrum von Lagos, in Luz, Meia Praia und Chinicato. Verifizierte Profile, versicherte Aufenthalte und In-App-Nachrichten auf Portugiesisch und Englisch.",
+          "descriptionNl": "Het uit Brazilië afkomstige DogHero is het op één na grootste peer-to-peer huisdierenzorgplatform in Portugal met een uitgebreid aanbod in de westelijke Algarve, waaronder gastheren in het centrum van Lagos, in Luz, Meia Praia en Chinicato. Geverifieerde profielen, verzekerde verblijven en in-appberichten in het Portugees en Engels.",
           "petPolicyDe": "Richtlinien je Gastgeber; versicherte und bewertete Buchungen",
-          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungen, Gassi-Service"
+          "petPolicyNl": "Beleid per gastheer; verzekerde en beoordeelde boekingen",
+          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungen, Gassi-Service",
+          "servicesNl": "Kort bezoek, dagopvang, overnachtingen, uitlaatservice"
         }
       ],
       "tipsEn": [
@@ -1317,7 +1501,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Hundepension in Lagos",
+      "titleNl": "Huisdierenzorg & hondenpension in Lagos",
       "introDe": "Lagos verfügt dank seiner großen britischen, irischen und deutschen Expat-Gemeinschaft und des ganzjährigen Touristenstroms über ein florierendes Haustierbetreuungsnetzwerk. Die meisten Angebote laufen über Pawshake und DogHero sowie mehrere lokale Pensionen in den ländlichen Randgebieten von Chinicato und Bensafrim. Englisch wird durchweg gesprochen.",
+      "introNl": "Lagos heeft dankzij zijn grote Britse, Ierse en Duitse expatgemeenschap en de hele-jaar-door toeristenstroom een bloeiend netwerk voor huisdierenzorg. Het meeste aanbod loopt via Pawshake en DogHero plus meerdere lokale pensions in de landelijke buitengebieden van Chinicato en Bensafrim. Engels wordt overal gesproken.",
       "faqsDe": [
         {
           "q": "Wie viel kostet Haustierbetreuung in Lagos?",
@@ -1330,6 +1516,20 @@
         {
           "q": "Muss ich das Futter meines Hundes zu einem Betreuer mitbringen?",
           "a": "Die meisten Gastgeber bevorzugen Kontinuität; bringen Sie Futter für 2-3 Tage sowie den gewohnten Napf Ihres Hundes mit, um Magenverstimmungen zu vermeiden."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost huisdierenzorg in Lagos?",
+          "a": "Reken op 20-30 euro per nacht voor onderdak en 12-18 euro per wandeling van 30 minuten via Pawshake of DogHero; lokale pensions in Chinicato rekenen vanaf 25 euro per dag."
+        },
+        {
+          "q": "Kunnen hotels een oppas aanbevelen voor een avondje?",
+          "a": "Ja, grotere hotels in Lagos hebben een kort lijstje Pawshake-gastheren die 's avonds langskomen, handig voor een restaurantavond in Faro of een zonsondergang aan de surfkust van Sagres."
+        },
+        {
+          "q": "Moet ik het voer van mijn hond meenemen naar een oppas?",
+          "a": "De meeste gastheren geven de voorkeur aan continuïteit; neem voer voor 2-3 dagen mee en de vertrouwde bak van je hond, om maagklachten te voorkomen."
         }
       ]
     }

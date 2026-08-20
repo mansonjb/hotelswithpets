@@ -40,9 +40,13 @@
           "tipPt": "Peça uma mesa junto ao bosque, é o canto mais sombreado e tranquilo para um cão",
           "googleMapsUrl": "https://maps.google.com/?q=Liget+Royal+Restaurant+Heviz",
           "descriptionDe": "Ein renoviertes Restaurant nahe dem Stadtzentrum mit einer schattigen Terrasse mit 50 Plätzen, die sich bis in ein kleines Wäldchen erstreckt. Hunde sind auf der Terrasse ausdrücklich willkommen, und die Küche kombiniert ungarische Klassiker mit internationalen Gerichten.",
+          "descriptionNl": "Een gerenoveerd restaurant vlakbij het stadscentrum met een schaduwrijk terras met 50 plaatsen dat doorloopt tot in een klein bosje. Honden zijn nadrukkelijk welkom op het terras, en de keuken combineert Hongaarse klassiekers met internationale gerechten.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Ungarisches Gulasch, gegrillte Gerichte",
-          "tipDe": "Bitten Sie um einen Tisch im Wäldchen, dort ist es am schattigsten und ruhigsten, damit sich ein Hund niederlassen kann"
+          "mustTryNl": "Hongaarse goulash, gegrilde gerechten",
+          "tipDe": "Bitten Sie um einen Tisch im Wäldchen, dort ist es am schattigsten und ruhigsten, damit sich ein Hund niederlassen kann",
+          "tipNl": "Vraag om een tafel bij het bosje, dat is de schaduwrijkste en rustigste plek voor je hond om tot rust te komen"
         },
         {
           "name": "Hofbräu Vendéglő (Sörsarok)",
@@ -70,14 +74,21 @@
           "tipPt": "O bar para cães significa que uma taça de água é colocada sem ser pedida, um toque simpático depois de um passeio quente à volta do lago",
           "googleMapsUrl": "https://maps.google.com/?q=Hofbrau+Vendeglo+Heviz",
           "descriptionDe": "Ein Biergarten und Restaurant im bayerischen Stil nahe dem Hauptparkplatz, gebaut nach dem Vorbild des Münchner Hofbräuhauses, mit einer eigenen Hundebar für vierbeinige Gäste. Die Speisekarte reicht von herzhaften bayerischen und ungarischen Gerichten bis zu deutschem Fassbier.",
+          "descriptionNl": "Een biertuin en restaurant in Beierse stijl bij de hoofdparkeerplaats, gebouwd naar het voorbeeld van de Hofbräuhaus in München, met een eigen hondenbar voor viervoetige gasten. De kaart biedt stevige Beierse en Hongaarse gerechten naast Duits tapbier.",
           "petPolicyDe": "Hunde willkommen, eigene Hundebar mit Wassernäpfen",
+          "petPolicyNl": "Honden welkom, eigen hondenbar met waterbakjes",
           "mustTryDe": "Schweinshaxe, bayerische Würste, Fassbier",
-          "tipDe": "Dank der Hundebar wird ungefragt ein Wassernapf hingestellt, eine schöne Geste nach einem heißen Spaziergang um den See"
+          "mustTryNl": "Varkensschenkel, Beierse worst, tapbier",
+          "tipDe": "Dank der Hundebar wird ungefragt ein Wassernapf hingestellt, eine schöne Geste nach einem heißen Spaziergang um den See",
+          "tipNl": "Dankzij de hondenbar krijg je ongevraagd een waterbakje neergezet, een fijn gebaar na een warme wandeling rond het meer"
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Hévíz",
+      "titleNl": "Hondvriendelijke restaurants in Hévíz",
       "introDe": "Die Gastronomieszene von Hévíz dreht sich um Biergärten im bayerischen Stil und schattige Terrassen unter Bäumen, die für lange, entspannte Mahlzeiten gemacht sind. Hunde gehören an den Außentischen des Kurortes ganz selbstverständlich dazu. Die beiden folgenden Restaurants sind auf ihren Terrassen zuverlässig und ausdrücklich hundefreundlich.",
-      "faqsDe": []
+      "introNl": "De gastronomische scene van Hévíz draait om biertuinen in Beierse stijl en schaduwrijke terrassen onder bomen, gemaakt voor lange, ontspannen maaltijden. Honden horen vanzelfsprekend bij de buitentafels van dit kuuroord. De twee onderstaande restaurants zijn op hun terras betrouwbaar en nadrukkelijk hondvriendelijk.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks & Walks in Hévíz",
@@ -111,9 +122,13 @@
           "tipPt": "Passeie ao amanhecer ou ao entardecer em julho e agosto, a sombra escasseia ao meio-dia junto ao lago",
           "googleMapsUrl": "https://maps.google.com/?q=Vederdo+Heviz",
           "descriptionDe": "Der geschützte Waldgürtel, der den Thermalsee umschließt, mit schattigen Schotterwegen, die direkt in der Stadt eine natürliche Runde für einen Spaziergang an der Leine bilden. Er ist flach, leicht zu begehen und dank des Blätterdachs auch an heißen Sommernachmittagen kühl.",
+          "descriptionNl": "De beschermde bosgordel rond het thermale meer, met schaduwrijke grindpaden die midden in de stad een natuurlijke lus vormen voor een wandeling aan de lijn. Het is vlak, makkelijk begaanbaar en dankzij het bladerdak ook op hete zomermiddagen koel.",
           "petPolicyDe": "Hunde müssen überall an der Leine geführt werden",
+          "petPolicyNl": "Honden moeten overal aangelijnd zijn",
           "facilitiesDe": "Schattige Schotterwege, flache Rundstrecke, Bänke",
-          "tipDe": "Gehen Sie im Juli und August bei Sonnenaufgang oder -untergang, mittags wird der Schatten nahe dem Seeufer dünner"
+          "facilitiesNl": "Schaduwrijke grindpaden, vlakke rondwandeling, bankjes",
+          "tipDe": "Gehen Sie im Juli und August bei Sonnenaufgang oder -untergang, mittags wird der Schatten nahe dem Seeufer dünner",
+          "tipNl": "Ga in juli en augustus bij zonsopgang of -ondergang, rond het middaguur wordt de schaduw bij de oever dunner"
         },
         {
           "name": "Keszthelyi Kutyás Park (Helikon Park dog run)",
@@ -137,14 +152,21 @@
           "tipPt": "Combine com a praia para cães de Keszthely, ali perto, para uma manhã inteira lá fora",
           "googleMapsUrl": "https://maps.google.com/?q=Helikon+Park+Keszthely",
           "descriptionDe": "Ein kostenloser, eingezäunter Hundeauslauf mit Agility-Parcours auf einem ehemaligen Tennisplatz im Helikon-Park am Seeufer von Keszthely, etwa 8 km von Hévíz entfernt. Er ist rund um die Uhr kostenlos geöffnet, bietet Schatten durch alte Bäume und Platz für freien Auslauf innerhalb des Zauns.",
+          "descriptionNl": "Een gratis, omheind hondenuitlaatveld met agilityparcours op een oude tennisbaan in het Helikon Park aan het meer in Keszthely, zo'n 8 km van Hévíz. Het is 24/7 gratis open, met schaduw van oude bomen en ruimte om binnen de omheining los te lopen.",
           "petPolicyDe": "Freilauf innerhalb des eingezäunten Bereichs",
+          "petPolicyNl": "Loslopen binnen het omheinde gebied",
           "facilitiesDe": "Eingezäunter Auslauf, Agility-Geräte, Schatten, freier Eintritt",
-          "tipDe": "Kombinieren Sie den Besuch mit dem nahegelegenen Hundestrand von Keszthely für einen ganzen Vormittag im Freien"
+          "facilitiesNl": "Omheind uitlaatveld, agilitytoestellen, schaduw, gratis toegang",
+          "tipDe": "Kombinieren Sie den Besuch mit dem nahegelegenen Hundestrand von Keszthely für einen ganzen Vormittag im Freien",
+          "tipNl": "Combineer het bezoek met het nabijgelegen hondenstrand van Keszthely voor een hele ochtend buiten"
         }
       ],
       "titleDe": "Hundefreundliche Parks & Spaziergänge in Hévíz",
+      "titleNl": "Hondvriendelijke parken & wandelingen in Hévíz",
       "introDe": "Hévíz liegt in einem geschützten Wald (Véderdő), der den Thermalsee umgibt, und die weitere Balaton-Region rund um Keszthely bietet nur eine kurze Fahrt entfernt einen eigens angelegten Hundeauslauf. Beide bieten ausreichend Platz für einen richtigen Spaziergang abseits der Terrasse.",
-      "faqsDe": []
+      "introNl": "Hévíz ligt in een beschermd bos (Véderdő) dat het thermale meer omringt, en de bredere Balaton-regio rond Keszthely voegt op een kort ritje afstand een speciaal aangelegd hondenuitlaatveld toe. Beide bieden volop ruimte voor een echte wandeling buiten het terras.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting Around Hévíz with a Dog",
@@ -167,7 +189,9 @@
           "petPolicyEs": "Perros pequeños en transportín gratis; perros grandes con correa generalmente aceptados",
           "petPolicyPt": "Cães pequenos em transportadora grátis; cães grandes com trela geralmente aceites",
           "descriptionDe": "Ein häufig verkehrender Lokalbus verbindet Hévíz mit Keszthely (und dessen Bahnhof) in etwa 10 Minuten für rund 400 HUF, im Zweistundentakt. Kleine Hunde reisen in einer Transportbox, größere angeleinte Hunde werden in der Regel akzeptiert, wie auf den meisten ungarischen VOLÁN-Regionalbussen üblich.",
-          "petPolicyDe": "Kleine Hunde in der Box kostenlos; größere angeleinte Hunde in der Regel akzeptiert"
+          "descriptionNl": "Een frequente lokale bus verbindt Hévíz met Keszthely (en het treinstation) in ongeveer 10 minuten voor zo'n 400 HUF, elke twee uur. Kleine honden reizen in een reismand en grotere aangelijnde honden worden over het algemeen geaccepteerd, zoals op de meeste Hongaarse VOLÁN-streekbussen.",
+          "petPolicyDe": "Kleine Hunde in der Box kostenlos; größere angeleinte Hunde in der Regel akzeptiert",
+          "petPolicyNl": "Kleine honden in de mand gratis; grotere aangelijnde honden meestal geaccepteerd"
         },
         {
           "name": "Nearest train stations: Keszthely & Balatonszentgyörgy",
@@ -180,7 +204,9 @@
           "petPolicyEs": "Perros con correa o en transportín aceptados con billete reducido",
           "petPolicyPt": "Cães com trela ou em transportadora aceites com bilhete reduzido",
           "descriptionDe": "Hévíz hat keinen eigenen Bahnhof. Die nächsten MÁV-Bahnhöfe befinden sich in Keszthely (etwa 8 km) und Balatonszentgyörgy, beide weiter mit Lokalbus oder Taxi nach Hévíz verbunden. Hunde an der Leine oder in einer Box werden in ungarischen Zügen gegen ein ermäßigtes Ticket akzeptiert.",
-          "petPolicyDe": "Angeleinte Hunde oder Transportboxen mit ermäßigtem Ticket akzeptiert"
+          "descriptionNl": "Hévíz heeft geen eigen treinstation. De dichtstbijzijnde MÁV-stations liggen in Keszthely (ongeveer 8 km) en Balatonszentgyörgy, beide verder verbonden met Hévíz per lokale bus of taxi. Honden aan de lijn of in een reismand worden in Hongaarse treinen geaccepteerd tegen een verlaagd tarief.",
+          "petPolicyDe": "Angeleinte Hunde oder Transportboxen mit ermäßigtem Ticket akzeptiert",
+          "petPolicyNl": "Aangelijnde honden of reismanden geaccepteerd met verlaagd tarief"
         },
         {
           "name": "Dotto tourist train",
@@ -193,12 +219,17 @@
           "petPolicyEs": "Perros pequeños en bolsa/transportín generalmente bienvenidos, pregunta al conductor",
           "petPolicyPt": "Cães pequenos em saco/transportadora geralmente bem-vindos, pergunte ao condutor",
           "descriptionDe": "Ein spurloser Touristenzug fährt von März bis Oktober durch das Zentrum von Hévíz und um den Seeumfang, eine entspannte Möglichkeit, sich an einem heißen Tag zu orientieren. Kleine Hunde in einer Tasche oder Box sind an Bord in der Regel willkommen, bei größeren Hunden vorab beim Fahrer nachfragen.",
-          "petPolicyDe": "Kleine Hunde in Tasche/Box in der Regel willkommen, beim Fahrer nachfragen"
+          "descriptionNl": "Een rubberen toeristentreintje rijdt van maart tot oktober door het centrum van Hévíz en rond het meer, een ontspannen manier om je te oriënteren op een warme dag. Kleine honden in een tas of mand zijn doorgaans welkom aan boord; overleg bij een grotere hond vooraf met de chauffeur.",
+          "petPolicyDe": "Kleine Hunde in Tasche/Box in der Regel willkommen, beim Fahrer nachfragen",
+          "petPolicyNl": "Kleine honden in tas/mand meestal welkom, vraag het de chauffeur"
         }
       ],
       "titleDe": "Mit dem Hund unterwegs in Hévíz",
+      "titleNl": "Onderweg met de hond in Hévíz",
       "introDe": "Hévíz selbst ist klein und gut zu Fuß erkundbar, hat aber keinen eigenen Bahnhof. Die meisten Besucher reisen mit dem Auto oder Bus über Keszthely an und bewegen sich vor Ort im kompakten Stadtzentrum zu Fuß.",
-      "faqsDe": []
+      "introNl": "Hévíz zelf is klein en goed te voet te verkennen, maar heeft geen eigen treinstation. De meeste bezoekers komen met de auto of bus via Keszthely aan en verplaatsen zich vervolgens te voet door het compacte stadscentrum.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Lake Beaches near Hévíz",
@@ -229,13 +260,19 @@
           "rulesPt": "Praia vedada, entrada paga por adulto e por cão, estacionamento gratuito",
           "googleMapsUrl": "https://maps.google.com/?q=Keszthelyi+Kutyas+Strand",
           "descriptionDe": "Ein eigener Hundestrand am Plattensee in Keszthely, seit 2020 geöffnet und mittlerweile einer der etabliertesten am See, mit einer Rasenfläche am Ufer, einem schattigen Hundespielplatz, einem Imbiss und einem Picknickgarten. Der Eintritt kostet eine geringe Gebühr (etwa 700 HUF pro Erwachsenem, 500 HUF pro Hund), Parken ist kostenlos.",
+          "descriptionNl": "Een eigen hondenstrand aan het Balatonmeer in Keszthely, geopend sinds 2020 en inmiddels een van de meest gevestigde van het meer, met een grasveld aan het water, een schaduwrijk hondenspeelterrein, een kiosk en een picknicktuin. De toegang kost een kleine bijdrage (ongeveer 700 HUF per volwassene, 500 HUF per hond) en parkeren is gratis.",
           "dogPolicyDe": "Hunde am eingezäunten Strand ohne Leine willkommen; geringe Eintrittsgebühr",
-          "rulesDe": "Eingezäunter Hundestrand, Eintrittsgebühr pro Erwachsenem und pro Hund, kostenloses Parken"
+          "dogPolicyNl": "Honden welkom zonder lijn op het omheinde strand; kleine toegangsprijs",
+          "rulesDe": "Eingezäunter Hundestrand, Eintrittsgebühr pro Erwachsenem und pro Hund, kostenloses Parken",
+          "rulesNl": "Omheind hondenstrand, toegangsprijs per volwassene en per hond, gratis parkeren"
         }
       ],
       "titleDe": "Hundefreundliche Seestrände nahe Hévíz",
+      "titleNl": "Hondvriendelijke meerstranden bij Hévíz",
       "introDe": "Hévíz liegt im Landesinneren, und der Thermalsee Hévíz selbst ist ein geschützter Kursee, an dem Haustiere nicht erlaubt sind (nur registrierte Blindenführhunde sind auf dem Gelände des Seebads zugelassen). Für ein richtiges Bad fahren Sie zum Plattensee (Balaton), dem größten See Mitteleuropas, etwa 8 km entfernt, wo Keszthely einen eigenen, etablierten Hundestrand betreibt.",
-      "faqsDe": []
+      "introNl": "Hévíz ligt landinwaarts, en het thermale meer Hévíz zelf is een beschermd kuurmeer waar huisdieren niet zijn toegestaan (alleen geregistreerde geleidehonden mogen het terrein van het Lake Bath betreden). Voor een echte zwempartij ga je naar het Balatonmeer, het grootste meer van Midden-Europa, zo'n 8 km verderop, waar Keszthely een eigen, gevestigd hondenstrand runt.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Veterinarians in Hévíz",
@@ -258,7 +295,8 @@
           "descriptionEs": "La clínica veterinaria propia de la ciudad, dirigida por la Dra. Grynaeus Orsolya, con veinte años de práctica en pequeños animales. Atiende consultas rutinarias, vacunaciones y tratamientos menores para perros y gatos en el centro.",
           "descriptionPt": "A clínica veterinária própria da cidade, dirigida pela Dra. Grynaeus Orsolya, com vinte anos de prática em pequenos animais. Trata de consultas de rotina, vacinação e pequenos tratamentos para cães e gatos no centro da cidade.",
           "googleMapsUrl": "https://maps.google.com/?q=Hevizi+Allatorvosi+Rendelo",
-          "descriptionDe": "Die eigene Kleintierpraxis der Stadt, geführt von Dr. Grynaeus Orsolya mit zwei Jahrzehnten Erfahrung in der Kleintiermedizin. Sie übernimmt Routineuntersuchungen, Impfungen und kleinere Behandlungen für Hunde und Katzen im Stadtzentrum."
+          "descriptionDe": "Die eigene Kleintierpraxis der Stadt, geführt von Dr. Grynaeus Orsolya mit zwei Jahrzehnten Erfahrung in der Kleintiermedizin. Sie übernimmt Routineuntersuchungen, Impfungen und kleinere Behandlungen für Hunde und Katzen im Stadtzentrum.",
+          "descriptionNl": "De eigen kleindierenpraktijk van de stad, geleid door dr. Grynaeus Orsolya met twintig jaar ervaring in de kleindierengeneeskunde. Ze verzorgt routineconsulten, vaccinaties en kleine behandelingen voor honden en katten in het stadscentrum."
         },
         {
           "name": "Nemes kisállatrendelő+",
@@ -270,12 +308,16 @@
           "descriptionEs": "Una clínica veterinaria para pequeños animales en Keszthely, dirigida por la Dra. Nemes Katalin Zita, que cubre explícitamente Keszthely, Hévíz y Cserszegtomaj, una opción de respaldo o principal práctica para visitantes. Los servicios incluyen consultas, vacunación y cirugía menor de rutina.",
           "descriptionPt": "Uma clínica veterinária para pequenos animais em Keszthely, dirigida pela Dra. Nemes Katalin Zita, que cobre explicitamente Keszthely, Hévíz e Cserszegtomaj, uma opção de apoio ou principal prática para visitantes. Os serviços incluem consultas, vacinação e pequena cirurgia de rotina.",
           "googleMapsUrl": "https://maps.google.com/?q=Nemes+kisallatrendelo+Keszthely",
-          "descriptionDe": "Eine Kleintierklinik in Keszthely unter der Leitung von Dr. Nemes Katalin Zita, die ausdrücklich Keszthely, Hévíz und Cserszegtomaj abdeckt und damit eine praktische Rückfalloption oder Hauptanlaufstelle für Besucher darstellt. Zu den Leistungen gehören Untersuchungen, Impfungen sowie routinemäßige und kleinere chirurgische Eingriffe."
+          "descriptionDe": "Eine Kleintierklinik in Keszthely unter der Leitung von Dr. Nemes Katalin Zita, die ausdrücklich Keszthely, Hévíz und Cserszegtomaj abdeckt und damit eine praktische Rückfalloption oder Hauptanlaufstelle für Besucher darstellt. Zu den Leistungen gehören Untersuchungen, Impfungen sowie routinemäßige und kleinere chirurgische Eingriffe.",
+          "descriptionNl": "Een kleindierenkliniek in Keszthely onder leiding van dr. Nemes Katalin Zita, die nadrukkelijk Keszthely, Hévíz en Cserszegtomaj bedient en daarmee een praktisch alternatief of hoofdadres is voor bezoekers. De diensten omvatten consulten, vaccinaties en routinematige en kleinere chirurgische ingrepen."
         }
       ],
       "titleDe": "Tierärzte in Hévíz",
+      "titleNl": "Dierenartsen in Hévíz",
       "introDe": "Hévíz hat eine eigene Kleintierpraxis im Stadtzentrum, und Keszthely, 8 km entfernt, bietet weitere Optionen, darunter eine, die ausdrücklich auch Hévíz abdeckt. Für echte Notfälle außerhalb der Sprechzeiten stehen die nationale Tiernotrufnummer und die größeren Kliniken des Komitats Zala in Zalaegerszeg als Rückfalloption zur Verfügung.",
-      "faqsDe": []
+      "introNl": "Hévíz heeft een eigen kleindierenpraktijk in het stadscentrum, en Keszthely, 8 km verderop, biedt meer opties, waaronder een praktijk die nadrukkelijk ook Hévíz bedient. Voor echte spoedgevallen buiten de openingstijden zijn de nationale dierenambulancelijn en de grotere klinieken van het comitaat Zala in Zalaegerszeg de back-up.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in and near Hévíz",
@@ -301,7 +343,9 @@
           "dogPolicyPt": "Espaço exterior, cães aceites com trela",
           "googleMapsUrl": "https://maps.google.com/?q=Egregy+templom+Heviz",
           "descriptionDe": "Eine Dorfkirche aus der Árpádenzeit des 13. Jahrhunderts mit markantem achteckigem Turm steht im historischen Stadtteil Egregy von Hévíz, neben einem kleinen römischen Ruinengarten mit den Überresten einer villa rustica, einem Kräutergarten und einem trockenen Kneipp-Pfad. Es ist eine Freiluftanlage mit einem jahrhundertealten Friedhof ringsum, gut auf einem Spaziergang an der Leine zu besichtigen.",
-          "dogPolicyDe": "Freigelände, Hunde an der Leine willkommen"
+          "descriptionNl": "Een dorpskerkje uit de Árpádperiode van de 13e eeuw met een opvallende achthoekige toren staat in de historische wijk Egregy van Hévíz, naast een kleine Romeinse ruïnetuin met de resten van een villa rustica, een kruidentuin en een droog Kneipp-pad. Het is een openluchtterrein met een eeuwenoude begraafplaats eromheen, makkelijk te bezoeken tijdens een wandeling aan de lijn.",
+          "dogPolicyDe": "Freigelände, Hunde an der Leine willkommen",
+          "dogPolicyNl": "Openluchtterrein, honden welkom aan de lijn"
         },
         {
           "name": "Festetics Palace Park, Keszthely",
@@ -318,7 +362,9 @@
           "dogPolicyPt": "Parque acessível a cães com trela; interior do palácio só para cães de assistência",
           "googleMapsUrl": "https://maps.google.com/?q=Festetics+Kastely+Keszthely",
           "descriptionDe": "Der Landschaftspark rund um Ungarns prächtigstes erhaltenes Adelsschloss, etwa 20 Minuten von Hévíz entfernt, ist für angeleinte Hunde geöffnet, auch wenn die Ausstellungsräume des Schlosses tabu sind (nur registrierte Assistenzhunde dürfen das Gebäude betreten). Mit rund 70.000 jährlich gepflanzten Blumen und fast 50 Baum- und Straucharten ist er ein richtiger Spaziergang vor oder nach dem Schlossbesuch.",
-          "dogPolicyDe": "Parkgelände an der Leine hundefreundlich; Schlossinneres nur für Assistenzhunde"
+          "descriptionNl": "Het landschapspark rond het prachtigste bewaard gebleven adellijke kasteel van Hongarije, zo'n 20 minuten van Hévíz, is toegankelijk voor aangelijnde honden, ook al zijn de tentoonstellingsruimtes van het kasteel dat niet (alleen geregistreerde assistentiehonden mogen het gebouw in). Met zo'n 70.000 jaarlijks geplante bloemen en bijna 50 boom- en struiksoorten is het een echte wandeling voor of na het kasteelbezoek.",
+          "dogPolicyDe": "Parkgelände an der Leine hundefreundlich; Schlossinneres nur für Assistenzhunde",
+          "dogPolicyNl": "Parkterrein hondvriendelijk aan de lijn; kasteelinterieur alleen voor assistentiehonden"
         },
         {
           "name": "Hévíz Lake Promenade (Kossuth Lajos utca)",
@@ -333,12 +379,17 @@
           "dogPolicyPt": "Passeio acessível com trela; Lake Bath interdito a animais",
           "googleMapsUrl": "https://maps.google.com/?q=Heviz+lake+promenade",
           "descriptionDe": "Die gepflasterte, baumbestandene Promenade, die um den Thermalsee führt und die Kurgebäude mit dem Stadtzentrum verbindet, ist der klassische Abendspaziergang von Hévíz, belebt durch Cafés und Geschäfte, aber ruhig unter den Füßen. Hunde dürfen das Seebad selbst nicht betreten, aber der umliegende Weg ist eine angenehme, ebene Runde über die gesamte Strecke.",
-          "dogPolicyDe": "Promenade an der Leine hundefreundlich; das Seebad selbst für Haustiere tabu"
+          "descriptionNl": "De geplaveide, met bomen omzoomde promenade die rond het thermale meer loopt en de kuurgebouwen met het stadscentrum verbindt, is de klassieke avondwandeling van Hévíz, levendig met cafés en winkels maar rustig onder de poten. Honden mogen het Lake Bath zelf niet in, maar het omliggende pad is een aangename, vlakke lus over de hele route.",
+          "dogPolicyDe": "Promenade an der Leine hundefreundlich; das Seebad selbst für Haustiere tabu",
+          "dogPolicyNl": "Promenade hondvriendelijk aan de lijn; het meerbad zelf verboden voor huisdieren"
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in und um Hévíz",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in en rond Hévíz",
       "introDe": "Die eigenen Sehenswürdigkeiten von Hévíz sind im Freien und unaufgeregt: die Árpádenzeit-Kirche und der römische Ruinengarten im Stadtteil Egregy sowie die Seepromenade. Eine kurze Fahrt nach Keszthely bringt eine der prächtigsten Sehenswürdigkeiten der Region hinzu, das Festetics-Schloss, dessen Park angeleinte Hunde willkommen heißt, auch wenn die Schlossräume selbst tabu sind.",
-      "faqsDe": []
+      "introNl": "De eigen bezienswaardigheden van Hévíz zijn buiten en ingetogen: de Árpádperiode-kerk en de Romeinse ruïnetuin in de wijk Egregy, en de meerpromenade. Een kort ritje naar Keszthely voegt een van de prachtigste bezienswaardigheden van de regio toe, het Festeticskasteel, waarvan het park aangelijnde honden verwelkomt, ook al zijn de kasteelvertrekken zelf verboden terrein.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Boarding near Hévíz",
@@ -364,12 +415,17 @@
           "priceRangePt": "Contactar para conhecer as tarifas diárias atuais",
           "googleMapsUrl": "https://maps.google.com/?q=Durmi+Kutyapanzio+Karmacs",
           "descriptionDe": "Eine Hundepension und Tagesbetreuung mit kleiner Kapazität etwa 10 km von Hévíz entfernt bei Keszthely, mit zwei Innenräumen und rund 800 m² eingezäunter Außenfläche, aufgeteilt in zwei getrennte Bereiche. Angeboten werden außerdem individuelle Sozialisierungsstunden und Tagesbetreuung für an Wohnungen gewöhnte Hunde, begrenzt auf 10 Hunde drinnen und 2 draußen, um wirklich klein zu bleiben.",
-          "priceRangeDe": "Aktuelle Tagessätze auf Anfrage"
+          "descriptionNl": "Een hondenpension en dagopvang met kleine capaciteit, ongeveer 10 km van Hévíz bij Keszthely, met twee binnenruimtes en zo'n 800 m² omheinde buitenruimte, verdeeld over twee aparte zones. Er worden ook individuele socialisatiesessies en dagopvang aangeboden voor honden die aan appartementsleven gewend zijn, met een limiet van 10 honden binnen en 2 buiten om echt kleinschalig te blijven.",
+          "priceRangeDe": "Aktuelle Tagessätze auf Anfrage",
+          "priceRangeNl": "Actuele dagtarieven op aanvraag"
         }
       ],
       "titleDe": "Haustierbetreuung & Hundepension nahe Hévíz",
+      "titleNl": "Huisdierenopvang & hondenpension bij Hévíz",
       "introDe": "Hévíz selbst ist so klein, dass die meisten Besitzer den Hund einfach mitnehmen, aber für einen Kurtag im Seebad (wo Haustiere nicht hinein dürfen) ist eine nahegelegene Betreuungsmöglichkeit hilfreich. Die nächste etablierte Pension liegt eine kurze Fahrt entfernt in Karmacs.",
-      "faqsDe": []
+      "introNl": "Hévíz zelf is zo klein dat de meeste eigenaren de hond gewoon meenemen, maar voor een kuurdag in het Lake Bath (waar huisdieren niet naar binnen mogen) is een opvangoptie in de buurt handig. De dichtstbijzijnde gevestigde pension ligt een kort ritje verderop in Karmacs.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Practical Tips for Visiting Hévíz with a Dog",
@@ -457,7 +513,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für einen Besuch in Hévíz mit Hund",
+      "titleNl": "Praktische tips voor een bezoek aan Hévíz met hond",
       "introDe": "Hévíz ist ein kompakter, gut zu Fuß erkundbarer Kurort, aber der eigentliche Grund seiner Existenz, der Thermalsee, ist für Haustiere strikt tabu. Mit ein wenig Planung rund um diese Tatsache und den Balaton-Alternativen in der Nähe wird ein Besuch mit Hund einfach.",
+      "introNl": "Hévíz is een compact, goed te voet te verkennen kuuroord, maar de eigenlijke reden van zijn bestaan, het thermale meer, is voor huisdieren strikt verboden terrein. Met een beetje planning rond dat gegeven, plus de Balaton-alternatieven in de buurt, wordt een bezoek met hond makkelijk.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde im Hévízer See baden?",
@@ -470,6 +528,20 @@
         {
           "q": "Wie komme ich mit Hund von Hévíz zum nächsten Bahnhof?",
           "a": "Hévíz hat keinen eigenen Bahnhof. Nehmen Sie den Lokalbus (etwa 10 Minuten, im Zweistundentakt) oder ein Taxi nach Keszthely, wo sich der nächste MÁV-Bahnhof befindet; angeleinte oder getragene Hunde werden sowohl im Bus als auch in ungarischen Zügen gegen einen ermäßigten Fahrpreis akzeptiert."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden zwemmen in het meer van Hévíz?",
+          "a": "Nee. Het meer van Hévíz is een beschermd thermaal kuurmeer, en huisdieren zijn niet toegestaan op het terrein van het Lake Bath, met als enige uitzondering geregistreerde geleidehonden. Eigenaren die het meer bezoeken, hebben een apart plan nodig voor hun hond tijdens de kuurtijden."
+        },
+        {
+          "q": "Waar kan ik met mijn hond zwemmen in de buurt van Hévíz?",
+          "a": "Het Balatonmeer, zo'n 8 km verderop, is de optie. Keszthely runt een eigen, omheind hondenstrand aan het meer met schaduw en een kleine toegangsprijs, geopend gedurende het hele badseizoen; het is de betrouwbaarste bevestigde plek voor een echte zwempartij met je hond."
+        },
+        {
+          "q": "Hoe kom ik met hond van Hévíz naar het dichtstbijzijnde treinstation?",
+          "a": "Hévíz heeft geen eigen treinstation. Neem de lokale bus (ongeveer 10 minuten, elke twee uur) of een taxi naar Keszthely, waar het dichtstbijzijnde MÁV-station ligt; aangelijnde of gedragen honden worden zowel in de bus als in Hongaarse treinen geaccepteerd tegen een verlaagd tarief."
         }
       ]
     }

@@ -39,9 +39,13 @@
           "mustTryPt": "Hannoversche Potthucke, Bratwurst com mostarda, cerveja local Gilde",
           "tipPt": "Peça uma mesa do lado da Kramerstraße para a melhor foto da fachada de tabique, mais sossegada do que o pátio interior à hora de almoço.",
           "descriptionDe": "Ein Fachwerk-Wirtshaus aus dem Jahr 1576 in der Altstadt, das niedersächsische Klassiker auf einer gepflasterten Fußgängergasse serviert. Angeleinte Hunde sind an den Außentischen willkommen, im Innenraum werden kleinere Hunde auf Anfrage akzeptiert.",
+          "descriptionNl": "Een vakwerkherberg uit 1576 in de oude stad, die Nedersaksische klassiekers serveert in een geplaveide voetgangerssteeg. Aangelijnde honden zijn welkom aan de buitentafels, binnen worden kleinere honden op aanvraag geaccepteerd.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen; kleine Hunde innen auf Anfrage",
+          "petPolicyNl": "Honden welkom op het terras; kleine honden binnen op aanvraag",
           "mustTryDe": "Hannoversche Potthucke, Bratwurst mit Senf, lokales Gilde-Bier",
-          "tipDe": "Bitten Sie um einen Tisch nahe der Kramerstraße-Seite für das beste Foto der Fachwerkfassade, ruhiger als der Innenhof zur Mittagszeit."
+          "mustTryNl": "Hannoverse potthucke, bratwurst met mosterd, lokaal Gilde-bier",
+          "tipDe": "Bitten Sie um einen Tisch nahe der Kramerstraße-Seite für das beste Foto der Fachwerkfassade, ruhiger als der Innenhof zur Mittagszeit.",
+          "tipNl": "Vraag om een tafel aan de kant van de Kramerstraße voor de beste foto van de vakwerkgevel, rustiger dan de binnenplaats rond het middaguur."
         },
         {
           "name": "Pier 51",
@@ -69,9 +73,13 @@
           "mustTryPt": "Truta do lago, flammkuchen, aguardente local Steinhäger",
           "tipPt": "Reserve uma mesa na esplanada com pelo menos dois dias de antecedência para os fins de semana de verão, a janela do pôr do sol (19:00 às 21:00) é a primeira a encher.",
           "descriptionDe": "Ein verglastes Restaurant direkt am Nordufer des Maschsees mit Panoramablick und einer großzügigen hundefreundlichen Terrasse. Die Wiese vor dem Restaurant ist bei Hundebesitzern während der Sommer-Sonnenuntergänge ein beliebter Treffpunkt.",
+          "descriptionNl": "Een restaurant met glazen gevel direct aan de noordoever van het Maschsee met panoramisch uitzicht en een ruim hondvriendelijk terras. Het grasveld voor het restaurant is bij hondenbezitters tijdens de zomerse zonsondergangen een populaire ontmoetingsplek.",
           "petPolicyDe": "Hunde auf Terrasse und Wiese willkommen",
+          "petPolicyNl": "Honden welkom op terras en grasveld",
           "mustTryDe": "Seeforelle, Flammkuchen, lokaler Steinhäger",
-          "tipDe": "Reservieren Sie mindestens zwei Tage im Voraus für Sommer-Wochenenden einen Terrassentisch, das Sonnenuntergangsfenster (19:00–21:00 Uhr) ist zuerst ausgebucht."
+          "mustTryNl": "Meerforel, flammkuchen, lokale Steinhäger",
+          "tipDe": "Reservieren Sie mindestens zwei Tage im Voraus für Sommer-Wochenenden einen Terrassentisch, das Sonnenuntergangsfenster (19:00–21:00 Uhr) ist zuerst ausgebucht.",
+          "tipNl": "Reserveer minstens twee dagen van tevoren een terrastafel voor zomerse weekenden, het zonsondergangsvenster (19:00-21:00 uur) is als eerste volgeboekt."
         },
         {
           "name": "Mr. Phung Kitchen",
@@ -99,9 +107,13 @@
           "mustTryPt": "Bao buns, bibimbap, cocktail de gengibre e citronela",
           "tipPt": "A esplanada é aquecida no inverno com toldos, um raro local dog-friendly para todas as condições meteorológicas nos meses frios de Hannover.",
           "descriptionDe": "Ein modernes pan-asiatisches Restaurant im angesagten Stadtteil List, beliebt bei einem jungen Publikum und dessen Hunden. Angeleinte Hunde sind ganzjährig auf der geräumigen Außenterrasse und in ruhigeren Stunden auch in der Innenlounge willkommen.",
+          "descriptionNl": "Een modern pan-Aziatisch restaurant in de hippe wijk List, populair bij een jong publiek en hun honden. Aangelijnde honden zijn het hele jaar welkom op het ruime buitenterras en tijdens rustigere uren ook in de binnenlounge.",
           "petPolicyDe": "Hunde ganzjährig auf der Terrasse willkommen",
+          "petPolicyNl": "Honden het hele jaar welkom op het terras",
           "mustTryDe": "Bao Buns, Bibimbap, Ingwer-Zitronengras-Cocktail",
-          "tipDe": "Die Terrasse ist im Winter mit Überdachungen beheizt, ein seltener ganzjährig hundefreundlicher Ort in Hannovers kalten Monaten."
+          "mustTryNl": "Bao buns, bibimbap, gember-citroengrascocktail",
+          "tipDe": "Die Terrasse ist im Winter mit Überdachungen beheizt, ein seltener ganzjährig hundefreundlicher Ort in Hannovers kalten Monaten.",
+          "tipNl": "Het terras is in de winter verwarmd met overkappingen, een zeldzame ganzjaarlijkse hondvriendelijke plek tijdens de koude maanden van Hannover."
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Hannover",
+      "titleNl": "Hondvriendelijke restaurants in Hannover",
       "introDe": "Hannovers Gastro-Szene ist pragmatisch und hundefreundlich, die Lister Meile, die Cafés am Maschsee und die Wirtshäuser der Altstadt heißen wohlerzogene Hunde an der Leine willkommen. Das deutsche Recht erlaubt Hunde in Gastronomiebetrieben standardmäßig, und Wassernäpfe an Restaurant-Eingängen sind ein vertrauter Anblick.",
+      "introNl": "De horecascene van Hannover is pragmatisch en hondvriendelijk, de Lister Meile, de cafés aan het Maschsee en de herbergen in de oude stad verwelkomen welopgevoede aangelijnde honden. De Duitse wet staat honden standaard toe in horecagelegenheden, en waterbakjes bij restaurantingangen zijn een vertrouwd beeld.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Hannovers Restaurants erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Wo liegen die hundefreundlichsten Restaurantviertel in Hannover?",
           "a": "Die Fußgängerzone Lister Meile, das Nordufer des Maschsees und die Kramerstraße in der Altstadt haben die höchste Dichte an haustierfreundlichen Lokalen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in de restaurants van Hannover?",
+          "a": "Ja, de Duitse wet staat honden standaard toe in horecagelegenheden, tenzij de eigenaar een 'geen honden'-bordje ophangt. De meeste restaurants in Hannover verwelkomen aangelijnde honden, vooral in de oude stad, in List en aan het Maschsee."
+        },
+        {
+          "q": "Bieden de cafés van Hannover waterbakjes aan?",
+          "a": "Traditionele cafés en restaurants aan het Maschsee doen dit meestal wel. Zo niet, vraag dan gewoon om 'een waterbakje', het personeel brengt er binnen enkele minuten een."
+        },
+        {
+          "q": "Waar liggen de hondvriendelijkste restaurantwijken in Hannover?",
+          "a": "De voetgangerszone Lister Meile, de noordoever van het Maschsee en de Kramerstraße in de oude stad hebben de hoogste dichtheid aan huisdiervriendelijke zaken."
         }
       ]
     },
@@ -233,9 +261,13 @@
           "facilitiesPt": "Três Hundefreilaufflächen, cafés no Lister Turm e em Steuerndieb, prados de piquenique",
           "tipPt": "A zona sem trela de Steuerndieb é a maior e a mais arborizada, combine com uma visita ao café da floresta adjacente para um verdadeiro passeio de domingo.",
           "descriptionDe": "Deutschlands größter Stadtwald mit 640 Hektar, 2,5-mal so groß wie der Central Park. Auf den Hauptwegen gilt Leinenpflicht, doch drei ausgewiesene Hundefreilaufflächen liegen mitten im Wald (nahe dem Zoo, am Steuerndieb und am Lister Turm). Über 80 km markierte Wanderwege.",
+          "descriptionNl": "Het grootste stadsbos van Duitsland met 640 hectare, 2,5 keer zo groot als Central Park. Op de hoofdpaden geldt aanlijnplicht, maar drie aangewezen loslopgebieden liggen midden in het bos (bij de dierentuin, bij Steuerndieb en bij de Lister Turm). Meer dan 80 km gemarkeerde wandelpaden.",
           "petPolicyDe": "Leinenpflicht auf Hauptwegen; drei ausgewiesene Freilaufzonen",
+          "petPolicyNl": "Aanlijnplicht op hoofdpaden; drie aangewezen losloopzones",
           "facilitiesDe": "Drei Hundefreilaufflächen, Cafés am Lister Turm und Steuerndieb, Picknickwiesen",
-          "tipDe": "Die Freilauffläche am Steuerndieb ist die größte und waldreichste, verbinden Sie den Besuch mit dem angrenzenden Waldcafé für einen echten Sonntagsausflug."
+          "facilitiesNl": "Drie hondenlosloopgebieden, cafés bij Lister Turm en Steuerndieb, picknickweiden",
+          "tipDe": "Die Freilauffläche am Steuerndieb ist die größte und waldreichste, verbinden Sie den Besuch mit dem angrenzenden Waldcafé für einen echten Sonntagsausflug.",
+          "tipNl": "Het losloopgebied bij Steuerndieb is het grootst en het bosrijkst, combineer het bezoek met het aangrenzende boscafé voor een echte zondagsuitstap."
         },
         {
           "name": "Maschsee",
@@ -263,9 +295,13 @@
           "facilitiesPt": "Cafés, Hundebadestelle, bancos, torneiras de água no verão",
           "tipPt": "Caminhe pela margem oriental ao nascer do sol para a foto clássica de Hannover, a torre do Neues Rathaus reflete-se na perfeição na água serena da manhã.",
           "descriptionDe": "Ein 78 Hektar großer künstlicher See aus den 1930er-Jahren mit einer vollständigen 6 km langen Rundwanderung an der Leine entlang beider Ufer. Ruder- und Segelvereine, mehrere Cafés und eine ausgewiesene Hundebadestelle am Südende, wo Hunde ohne Leine schwimmen dürfen.",
+          "descriptionNl": "Een 78 hectare groot kunstmatig meer uit de jaren 30 met een volledige rondwandeling van 6 km aan de lijn langs beide oevers. Roei- en zeilverenigingen, meerdere cafés en een aangewezen hondenzwemplek aan het zuideinde, waar honden zonder lijn mogen zwemmen.",
           "petPolicyDe": "Leinenpflicht auf der 6 km langen Runde; Freilauf-Schwimmzone für Hunde im Süden",
+          "petPolicyNl": "Aanlijnplicht op de rondwandeling van 6 km; loslopende zwemzone voor honden in het zuiden",
           "facilitiesDe": "Cafés, Hundebadestelle, Bänke, Wasserzapfstellen im Sommer",
-          "tipDe": "Gehen Sie bei Sonnenaufgang am Ostufer entlang für das klassische Hannover-Foto, der Turm des Neuen Rathauses spiegelt sich perfekt im stillen Morgenwasser."
+          "facilitiesNl": "Cafés, hondenzwemplek, bankjes, watertappunten in de zomer",
+          "tipDe": "Gehen Sie bei Sonnenaufgang am Ostufer entlang für das klassische Hannover-Foto, der Turm des Neuen Rathauses spiegelt sich perfekt im stillen Morgenwasser.",
+          "tipNl": "Loop bij zonsopgang langs de oostoever voor de klassieke Hannover-foto, de toren van het Neue Rathaus spiegelt perfect in het stille ochtendwater."
         },
         {
           "name": "Herrenhäuser Gärten (Georgengarten)",
@@ -293,9 +329,13 @@
           "facilitiesPt": "Café Schloss Herrenhausen (esplanada exterior), bancos, torneiras de água",
           "tipPt": "Entre pelo lado do rio Leine para a abordagem mais sossegada, a Herrenhäuser Allee (2 km de dupla fila de tílias) é uma das mais belas avenidas da Europa para um passeio com trela.",
           "descriptionDe": "Der berühmte barocke Herrenhäuser-Gärten-Komplex, der Hauptbereich Große Garten (kostenpflichtig) verbietet Hunde, doch der angrenzende Georgengarten (kostenlos, 47 Hektar) ist mit der von Bäumen gesäumten Herrenhäuser Allee und den Uferwegen der Leine an der Leine vollständig hundefreundlich.",
+          "descriptionNl": "Het beroemde barokke tuinencomplex Herrenhäuser Gärten, het hoofdgedeelte Große Garten (betaald) verbiedt honden, maar de aangrenzende Georgengarten (gratis, 47 hectare) is met de door bomen omzoomde Herrenhäuser Allee en de oeverpaden van de Leine volledig hondvriendelijk aan de lijn.",
           "petPolicyDe": "Georgengarten: Leinenpflicht; Große Garten: keine Haustiere",
+          "petPolicyNl": "Georgengarten: aanlijnplicht; Große Garten: geen huisdieren",
           "facilitiesDe": "Café Schloss Herrenhausen (Außenterrasse), Bänke, Wasserzapfstellen",
-          "tipDe": "Betreten Sie von der Leine-Seite aus für die ruhigere Anfahrt, die Herrenhäuser Allee (2 km doppelte Lindenreihe) ist eine der schönsten Alleen Europas für einen Spaziergang an der Leine."
+          "facilitiesNl": "Café Schloss Herrenhausen (buitenterras), bankjes, watertappunten",
+          "tipDe": "Betreten Sie von der Leine-Seite aus für die ruhigere Anfahrt, die Herrenhäuser Allee (2 km doppelte Lindenreihe) ist eine der schönsten Alleen Europas für einen Spaziergang an der Leine.",
+          "tipNl": "Betreed vanaf de kant van de Leine voor de rustigere aankomst, de Herrenhäuser Allee (2 km dubbele lindenrij) is een van de mooiste allees van Europa voor een wandeling aan de lijn."
         }
       ],
       "tipsEn": [
@@ -377,7 +417,9 @@
         }
       ],
       "titleDe": "Hundeparks & Grünflächen in Hannover",
+      "titleNl": "Hondenparken & groengebieden in Hannover",
       "introDe": "Hannover ist eine der grünsten Städte Deutschlands, der Stadtwald Eilenriede (640 Hektar) ist 2,5-mal so groß wie der Central Park in New York, und der Maschsee bietet direkt neben der Altstadt eine 6 km lange Rundwanderung. Die Stadt verfügt über 26 offizielle Hundefreilaufflächen, verteilt über ihre Stadtteile.",
+      "introNl": "Hannover is een van de groenste steden van Duitsland, het stadsbos Eilenriede (640 hectare) is 2,5 keer zo groot als Central Park in New York, en het Maschsee biedt vlak bij de oude stad een rondwandeling van 6 km. De stad heeft 26 officiële hondenlosloopgebieden, verspreid over de wijken.",
       "faqsDe": [
         {
           "q": "Wo dürfen Hunde in Hannover ohne Leine laufen?",
@@ -390,6 +432,20 @@
         {
           "q": "Sind Hunde in den Herrenhäuser Gärten erlaubt?",
           "a": "Nur im frei zugänglichen Georgengarten. Der kostenpflichtige Große Garten und der Berggarten (botanischer Garten) verbieten Haustiere vollständig."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar mogen honden loslopen in Hannover?",
+          "a": "In de 26 officiële hondenlosloopgebieden, de grootste liggen in de Eilenriede (drie zones), aan het zuideinde van het Maschsee en in de Ricklinger volkstuin. Overal elders geldt aanlijnplicht."
+        },
+        {
+          "q": "Mag mijn hond zwemmen in het Maschsee?",
+          "a": "Ja, een aangewezen hondenzwemplek aan het zuideinde staat het hele jaar zwemmen zonder lijn toe. Zwemmen op andere plekken in het meer is voor honden verboden en wordt in de zomer bestraft met boetes van 50 €."
+        },
+        {
+          "q": "Zijn honden toegestaan in de Herrenhäuser Gärten?",
+          "a": "Alleen in de vrij toegankelijke Georgengarten. De betaalde Große Garten en de Berggarten (botanische tuin) verbieden huisdieren volledig."
         }
       ]
     },
@@ -417,7 +473,9 @@
           "descriptionPt": "A üstra opera o Hannover Stadtbahn (13 linhas), autocarros e serviços noturnos. Os cães pequenos em transportadoras viajam de graça; os cães maiores precisam de uma Kinderkarte (bilhete de criança). Os cães têm de andar com trela curta e podem ter de usar açaime se o veículo estiver cheio.",
           "petPolicyPt": "Cães pequenos grátis (transportadora); cães grandes bilhete de criança + trela + possível açaime",
           "descriptionDe": "Die üstra betreibt die Stadtbahn Hannover (13 Linien), Busse und Nachtverkehr. Kleine Hunde in Transportboxen fahren kostenlos; größere Hunde benötigen eine Kinderkarte. Hunde müssen an einer kurzen Leine geführt werden und können bei vollem Fahrzeug einen Maulkorb tragen müssen.",
-          "petPolicyDe": "Kleine Hunde kostenlos (Transportbox); große Hunde Kinderkarte + Leine + ggf. Maulkorb"
+          "descriptionNl": "üstra runt de sneltram van Hannover (13 lijnen), bussen en nachtvervoer. Kleine honden in een reismand reizen gratis mee; grotere honden hebben een kinderkaartje nodig. Honden moeten aan een korte lijn worden gehouden en kunnen bij een volledig voertuig een muilkorf moeten dragen.",
+          "petPolicyDe": "Kleine Hunde kostenlos (Transportbox); große Hunde Kinderkarte + Leine + ggf. Maulkorb",
+          "petPolicyNl": "Kleine honden gratis (reismand); grote honden kinderkaartje + lijn + eventueel muilkorf"
         }
       ],
       "tipsEn": [
@@ -499,7 +557,9 @@
         }
       ],
       "titleDe": "Mit Hund unterwegs in Hannover",
+      "titleNl": "Onderweg met de hond in Hannover",
       "introDe": "Hannovers üstra-Verkehrsnetz (Stadtbahn, Busse) wendet die üblichen niedersächsischen Regeln an: Kleine Hunde in einer Transportbox fahren kostenlos, größere Hunde benötigen ein Kinderticket, eine kurze Leine und auf Wunsch des Personals einen Maulkorb. Die Stadtbahn ist effizient und hundegerecht; die meisten Linien verlaufen im Zentrum unterirdisch und in den Vororten oberirdisch.",
+      "introNl": "Het üstra-vervoersnetwerk van Hannover (sneltram, bussen) hanteert de gebruikelijke Nedersaksische regels: kleine honden in een reismand reizen gratis mee, grotere honden hebben een kinderticket nodig, een korte lijn en op verzoek van het personeel een muilkorf. De sneltram is efficiënt en hondvriendelijk; de meeste lijnen lopen in het centrum ondergronds en in de buitenwijken bovengronds.",
       "faqsDe": [
         {
           "q": "Muss ich für meinen Hund im öffentlichen Nahverkehr Hannovers bezahlen?",
@@ -512,6 +572,20 @@
         {
           "q": "Darf ich meinen Hund in ICE-Zügen ab Hannover Hauptbahnhof mitnehmen?",
           "a": "Ja, die Deutsche Bahn akzeptiert Hunde in allen ICE-, IC- und EC-Zügen. Kleine Hunde in Transportboxen fahren kostenlos; größere Hunde benötigen ein Hundeticket (halber Erwachsenenpreis) und müssen angeleint sein."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Moet ik betalen voor mijn hond in het openbaar vervoer van Hannover?",
+          "a": "Alleen voor honden die te groot zijn voor een gesloten reismand. Grotere honden hebben een kinderkaartje nodig. Kleine honden in een reismand reizen gratis mee."
+        },
+        {
+          "q": "Is een muilkorf verplicht in de sneltram van Hannover?",
+          "a": "Niet automatisch, maar chauffeurs kunnen er een eisen als het voertuig vol is of de hond gestrest lijkt. Neem een zachte muilkorf mee."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen in ICE-treinen vanaf Hannover Hauptbahnhof?",
+          "a": "Ja, Deutsche Bahn accepteert honden in alle ICE-, IC- en EC-treinen. Kleine honden in een reismand reizen gratis mee; grotere honden hebben een hondenticket nodig (halve volwassenenprijs) en moeten aangelijnd zijn."
         }
       ]
     },
@@ -544,8 +618,11 @@
           "petPolicyPt": "Banho sem trela todo o ano",
           "tipPt": "Os fins de semana de verão podem trazer mais de 20 cães à pequena praia, chegue antes das 10:00 ou depois das 18:00 para nadar com mais calma.",
           "descriptionDe": "Der einzige offizielle Hunde-Badeplatz innerhalb Hannovers, ein eingezäuntes Uferstück an der Südspitze des Maschsees, wo Hunde ganzjährig ohne Leine schwimmen können. Grasiger Zugang und sanfter, flacher Einstieg, geeignet für Welpen.",
+          "descriptionNl": "De enige officiële hondenzwemplek binnen Hannover, een omheind oeverstuk aan de zuidpunt van het Maschsee, waar honden het hele jaar zonder lijn kunnen zwemmen. Grazige toegang en een zacht, ondiep instapje, geschikt voor puppy's.",
           "petPolicyDe": "Ganzjähriges Schwimmen ohne Leine",
-          "tipDe": "An Sommerwochenenden können sich 20+ Hunde am kleinen Strand versammeln, kommen Sie vor 10:00 Uhr oder nach 18:00 Uhr für ruhigeres Schwimmen."
+          "petPolicyNl": "Het hele jaar zonder lijn zwemmen",
+          "tipDe": "An Sommerwochenenden können sich 20+ Hunde am kleinen Strand versammeln, kommen Sie vor 10:00 Uhr oder nach 18:00 Uhr für ruhigeres Schwimmen.",
+          "tipNl": "Op zomerse weekenden kunnen zich 20+ honden verzamelen op het kleine strand, kom vóór 10:00 uur of na 18:00 uur voor rustiger zwemmen."
         },
         {
           "name": "Steinhuder Meer Hundestrand",
@@ -568,8 +645,11 @@
           "petPolicyPt": "Zona de banho sem trela todo o ano",
           "tipPt": "Combine com o trilho pedestre da Weiße Düne para um verdadeiro passeio de fim de semana, a sombra da floresta torna as caminhadas de verão muito mais confortáveis.",
           "descriptionDe": "Niedersachsens größter See, 30 km von Hannover entfernt. Ein ausgewiesener Hundestrand am Ostufer nahe Wunstorf erlaubt ganzjähriges Schwimmen ohne Leine, mit schattigen Picknickplätzen und einem Café. Der 32 km lange Uferradweg ist ein ganztägiger Ausflug mit Hund.",
+          "descriptionNl": "Het grootste meer van Nedersaksen, 30 km van Hannover. Een aangewezen hondenstrand aan de oostoever bij Wunstorf staat het hele jaar zwemmen zonder lijn toe, met schaduwrijke picknickplekken en een café. Het 32 km lange oeverfietspad is een hele dag uitstapje met hond.",
           "petPolicyDe": "Ganzjährige Schwimmzone ohne Leine",
-          "tipDe": "Kombinieren Sie den Besuch mit dem Wanderweg Weiße Düne für einen richtigen Wochenendausflug; der Waldschatten macht Sommerspaziergänge deutlich angenehmer."
+          "petPolicyNl": "Ganzjaarlijkse zwemzone zonder lijn",
+          "tipDe": "Kombinieren Sie den Besuch mit dem Wanderweg Weiße Düne für einen richtigen Wochenendausflug; der Waldschatten macht Sommerspaziergänge deutlich angenehmer.",
+          "tipNl": "Combineer het bezoek met de wandelroute Weiße Düne voor een echte weekenduitstap; de bosschaduw maakt zomerwandelingen aanzienlijk aangenamer."
         }
       ],
       "tipsEn": [
@@ -651,7 +731,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände bei Hannover",
+      "titleNl": "Hondvriendelijke stranden bij Hannover",
       "introDe": "Hannover liegt 130 km von der Nordsee entfernt. Innerhalb der Stadt verfügt der Maschsee an seinem Südende über eine eigene Hundebadestelle. Für richtige Strandausflüge ist der Steinhuder Meer (30 km nördlich) Niedersachsens größter See mit einem Hundestrand am Ostufer.",
+      "introNl": "Hannover ligt 130 km van de Noordzee. Binnen de stad heeft het Maschsee aan zijn zuideinde een eigen hondenzwemplek. Voor echte stranduitstapjes is het Steinhuder Meer (30 km ten noorden) het grootste meer van Nedersaksen met een hondenstrand aan de oostoever.",
       "faqsDe": [
         {
           "q": "Wo darf mein Hund in Hannover schwimmen?",
@@ -664,6 +746,20 @@
         {
           "q": "Wie weit ist der nächste Meeresstrand von Hannover entfernt?",
           "a": "Cuxhaven an der Nordsee liegt 220 km entfernt (2 Std. 30 Min. mit dem Auto); Timmendorfer Strand an der Ostsee liegt 280 km entfernt (3 Std. mit dem Auto)."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar mag mijn hond zwemmen in Hannover?",
+          "a": "De officiële hondenzwemplek aan de zuidpunt van het Maschsee is de enige binnenstedelijke zwemoptie. Het Steinhuder Meer ligt 30 km verderop en heeft een groter aangewezen hondenstrand."
+        },
+        {
+          "q": "Is het Maschsee volledig hondvriendelijk?",
+          "a": "Op de hele rondwandeling van 6 km geldt aanlijnplicht voor honden, zwemmen mag alleen bij de aangewezen hondenzwemplek aan het zuideinde."
+        },
+        {
+          "q": "Hoe ver ligt het dichtstbijzijnde zeestrand van Hannover?",
+          "a": "Cuxhaven aan de Noordzee ligt 220 km verderop (2 uur 30 min. met de auto); Timmendorfer Strand aan de Oostzee ligt 280 km verderop (3 uur met de auto)."
         }
       ]
     },
@@ -701,9 +797,13 @@
           "servicesPt": "Urgência, cirurgia, ressonância magnética, oncologia, cardiologia, neurologia",
           "tipPt": "Telefone antes, a enfermeira de triagem dir-lhe-á se deve ir à TiHo (casos complexos) ou se deve ser encaminhado para uma clínica privada (urgências mais simples). Estacionamento gratuito no local.",
           "descriptionDe": "Die Kleintierklinik der Tierärztlichen Hochschule, Deutschlands führendes Lehrkrankenhaus für Hunde und Katzen mit vollständigem Fachangebot (Notfall, Chirurgie, MRT, Onkologie, Kardiologie, Neurologie). 24/7-Notaufnahme; Besitzer müssen zu Stoßzeiten möglicherweise warten, doch die klinische Expertise ist unübertroffen.",
+          "descriptionNl": "De kleindierenkliniek van de Dierenartsenhogeschool, de toonaangevende leerkliniek van Duitsland voor honden en katten met een volledig gespecialiseerd aanbod (spoedeisende hulp, chirurgie, MRI, oncologie, cardiologie, neurologie). 24/7-spoedafdeling; eigenaren moeten tijdens spitsuren mogelijk wachten, maar de klinische expertise is ongeëvenaard.",
           "petPolicyDe": "24/7-Notfälle ohne Termin willkommen",
+          "petPolicyNl": "24/7-spoedgevallen zonder afspraak welkom",
           "servicesDe": "Notfall, Chirurgie, MRT, Onkologie, Kardiologie, Neurologie",
-          "tipDe": "Rufen Sie vorher an, die Triage-Pflegekraft sagt Ihnen, ob Sie zur TiHo (komplexe Fälle) kommen oder zu einer privaten Klinik (einfachere Notfälle) weitergeleitet werden sollten. Kostenlose Parkplätze vor Ort."
+          "servicesNl": "Spoedeisende hulp, chirurgie, MRI, oncologie, cardiologie, neurologie",
+          "tipDe": "Rufen Sie vorher an, die Triage-Pflegekraft sagt Ihnen, ob Sie zur TiHo (komplexe Fälle) kommen oder zu einer privaten Klinik (einfachere Notfälle) weitergeleitet werden sollten. Kostenlose Parkplätze vor Ort.",
+          "tipNl": "Bel van tevoren, de triageverpleegkundige zegt je of je naar de TiHo (complexe gevallen) moet komen of wordt doorverwezen naar een particuliere kliniek (eenvoudigere spoedgevallen). Gratis parkeren ter plaatse."
         },
         {
           "name": "Tierklinik Hannover Dr. Walleser",
@@ -731,9 +831,13 @@
           "servicesPt": "Urgência, cirurgia, imagiologia, cuidados intensivos",
           "tipPt": "O estacionamento na rua é escasso, considere um táxi se vier dos hotéis da Altstadt. Use a entrada lateral para urgências fora de horas.",
           "descriptionDe": "Eine zentrale Privatklinik mit 24/7-Notaufnahme, Chirurgie, Bildgebung und Intensivstation. Kleiner als die TiHo, aber praktischer für Gäste in der Nähe von Maschsee oder Altstadt; schnellere Triage bei Standardnotfällen.",
+          "descriptionNl": "Een centraal gelegen particuliere kliniek met 24/7-spoedafdeling, chirurgie, beeldvorming en intensive care. Kleiner dan de TiHo, maar praktischer voor gasten in de buurt van het Maschsee of de oude stad; snellere triage bij standaard spoedgevallen.",
           "petPolicyDe": "24/7-Notfälle ohne Termin willkommen",
+          "petPolicyNl": "24/7-spoedgevallen zonder afspraak welkom",
           "servicesDe": "Notfall, Chirurgie, Bildgebung, Intensivstation",
-          "tipDe": "Straßenparkplätze sind rar, erwägen Sie ein Taxi, falls Sie von Altstadt-Hotels kommen. Nutzen Sie den Seiteneingang für Notfälle außerhalb der Öffnungszeiten."
+          "servicesNl": "Spoedeisende hulp, chirurgie, beeldvorming, intensive care",
+          "tipDe": "Straßenparkplätze sind rar, erwägen Sie ein Taxi, falls Sie von Altstadt-Hotels kommen. Nutzen Sie den Seiteneingang für Notfälle außerhalb der Öffnungszeiten.",
+          "tipNl": "Straatparkeerplaatsen zijn schaars, overweeg een taxi als je vanuit hotels in de oude stad komt. Gebruik de zij-ingang voor spoedgevallen buiten de openingstijden."
         }
       ],
       "tipsEn": [
@@ -815,7 +919,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte in Hannover, Tierkliniken & Tierbetreuung",
+      "titleNl": "Dierenspoeddiensten in Hannover, dierenklinieken & dierenzorg",
       "introDe": "Hannover beherbergt die Tierärztliche Hochschule, eine der größten Veterinärhochschulen Deutschlands, die eine 24/7-Klinik für Kleintiere mit Notaufnahme betreibt. Zwei weitere private 24/7-Kliniken (Tierklinik Hannover und Kleintierklinik Ahrens) vervollständigen die Versorgung außerhalb der regulären Zeiten.",
+      "introNl": "Hannover herbergt de Dierenartsenhogeschool (TiHo), een van de grootste diergeneeskundige hogescholen van Duitsland, die een 24/7-kliniek voor kleine huisdieren met spoedafdeling runt. Twee andere particuliere 24/7-klinieken (Tierklinik Hannover en Kleintierklinik Ahrens) vervolledigen de zorg buiten de reguliere tijden.",
       "faqsDe": [
         {
           "q": "Welche Tierklinik in Hannover hat rund um die Uhr geöffnet?",
@@ -828,6 +934,20 @@
         {
           "q": "Nimmt ein Tierarzt in Hannover Patienten ohne Termin an?",
           "a": "Ja, beide 24/7-Kliniken nehmen Notfälle ohne Termin an. Rufen Sie bei ernsten Fällen vorher an, damit die Triage sich vorbereiten kann."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welke dierenkliniek in Hannover is dag en nacht open?",
+          "a": "De universiteitskliniek TiHo (Bünteweg 9, 0511 9536202) en de particuliere Tierklinik Walleser (Bischofsholer Damm 15, 0511 282255). Beide nemen spoedgevallen zonder afspraak aan."
+        },
+        {
+          "q": "Hoeveel kost een dierenartsspoedbezoek in Hannover?",
+          "a": "Het basistarief voor een consult buiten openingstijden ligt doorgaans op 80-140 €, plus diagnostiek. De TiHo is vanwege haar universitaire status vaak iets goedkoper."
+        },
+        {
+          "q": "Neemt een dierenarts in Hannover patiënten zonder afspraak aan?",
+          "a": "Ja, beide 24/7-klinieken nemen spoedgevallen zonder afspraak aan. Bel bij ernstige gevallen van tevoren, zodat de triage zich kan voorbereiden."
         }
       ]
     },
@@ -926,7 +1046,9 @@
         }
       ],
       "titleDe": "Wichtige Reisetipps mit Haustier für Hannover",
+      "titleNl": "Belangrijke reistips met huisdier voor Hannover",
       "introDe": "Hannover ist eine ruhige, gut organisierte Stadt, die sich mit Hund leicht erkunden lässt. Wichtige lokale Regeln: das Niedersächsische Hundegesetz mit Leinenpflicht, verpflichtender Hundeschein für Einwohner und die üblichen Rassebeschränkungen für Listenhunde. Die Tierärztliche Hochschule bietet erstklassige Notfallversorgung.",
+      "introNl": "Hannover is een rustige, goed georganiseerde stad die makkelijk te verkennen is met hond. Belangrijke lokale regels: de Nedersaksische hondenwet met aanlijnplicht, verplicht hondenregistratiebewijs voor inwoners en de gebruikelijke rasbeperkingen voor lijsthonden. De Dierenartsenhogeschool biedt eersteklas spoedzorg.",
       "faqsDe": [
         {
           "q": "Ist Hannover eine gute Stadt für einen Besuch mit Hund?",
@@ -939,6 +1061,20 @@
         {
           "q": "Gibt es in Hannover Rassebeschränkungen?",
           "a": "Ja. Niedersachsen stuft American Pit Bull, American Staffordshire Terrier, Bullterrier und Rottweiler als Listenhunde ein, Halter benötigen eine besondere Erlaubnis, und Maulkörbe sind in öffentlichen Räumen Pflicht."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Hannover een goede stad om met hond te bezoeken?",
+          "a": "Ja, Hannover is een van de rustigste, groenste Duitse steden, met het stadsbos Eilenriede, 26 hondenlosloopgebieden, de rondwandeling bij het Maschsee en twee 24/7-spoeddierenklinieken, waaronder een universiteitskliniek."
+        },
+        {
+          "q": "Heb ik papieren nodig om mijn hond mee te nemen naar Hannover?",
+          "a": "EU-burgers hebben het EU-huisdierenpaspoort nodig met geldige rabiësvaccinatie. Bezoekers van buiten de EU hebben een EU-diergezondheidscertificaat nodig, afgegeven binnen 10 dagen vóór binnenkomst, plus voor bepaalde landen een rabiës-titertest."
+        },
+        {
+          "q": "Zijn er rasbeperkingen in Hannover?",
+          "a": "Ja. Nedersaksen classificeert American Pit Bull, American Staffordshire Terrier, Bullterrier en Rottweiler als lijsthonden, houders hebben een speciale vergunning nodig, en muilkorven zijn verplicht in openbare ruimtes."
         }
       ]
     },
@@ -971,8 +1107,11 @@
           "petPolicyPt": "Parque e esplanada: trela; elevador inclinado: sem animais",
           "tipPt": "Caminhe à volta de todo o perímetro do lago do Maschpark para a melhor foto do reflexo do Rathaus, ideal à hora dourada.",
           "descriptionDe": "Hannovers märchenhaftes Rathaus von 1913, an einem kleinen See gelegen mit Panoramablick von seiner geschwungenen Kuppel. Der umliegende Maschpark (Leinenpflicht) und die Außenterrasse sind vollständig hundegerecht zugänglich; der gläserne Schrägaufzug zur Kuppel lässt keine Hunde zu.",
+          "descriptionNl": "Het sprookjesachtige Rathaus van Hannover uit 1913, gelegen aan een klein meer met panoramisch uitzicht vanaf de gebogen koepel. Het omliggende Maschpark (aanlijnplicht) en het buitenterras zijn volledig hondvriendelijk toegankelijk; de glazen schuine lift naar de koepel laat geen honden toe.",
           "petPolicyDe": "Park und Terrasse: Leinenpflicht; Schrägaufzug: keine Haustiere",
-          "tipDe": "Umrunden Sie den gesamten Maschpark-See für das beste Spiegelbild des Rathauses, ideal zur goldenen Stunde."
+          "petPolicyNl": "Park en terras: aanlijnplicht; schuine lift: geen huisdieren",
+          "tipDe": "Umrunden Sie den gesamten Maschpark-See für das beste Spiegelbild des Rathauses, ideal zur goldenen Stunde.",
+          "tipNl": "Loop helemaal rond het Maschpark-meer voor de beste spiegeling van het Rathaus, ideaal tijdens het gouden uur."
         },
         {
           "name": "Altstadt and Marktkirche",
@@ -995,8 +1134,11 @@
           "petPolicyPt": "Cães com trela bem-vindos",
           "tipPt": "A Ballhofplatz acolhe um pequeno mercado semanal com bancas de padaria dog-friendly, prove os Franzbrötchen locais da padaria da esquina.",
           "descriptionDe": "Hannovers wiederaufgebauter historischer Kern rund um die Marktkirche mit Fachwerkhäusern, der berühmten gepflasterten Kramerstraße und dem Ballhofplatz, alles Fußgängerzonen und an der Leine vollständig zugänglich.",
+          "descriptionNl": "De heropgebouwde historische kern van Hannover rond de Marktkirche met vakwerkhuizen, de beroemde geplaveide Kramerstraße en het Ballhofplatz, allemaal voetgangerszones en volledig toegankelijk aan de lijn.",
           "petPolicyDe": "Angeleinte Hunde willkommen",
-          "tipDe": "Auf dem Ballhofplatz findet ein kleiner Wochenmarkt mit hundefreundlichen Bäckereiständen statt, probieren Sie das lokale Franzbrötchen vom Eckbäcker."
+          "petPolicyNl": "Aangelijnde honden welkom",
+          "tipDe": "Auf dem Ballhofplatz findet ein kleiner Wochenmarkt mit hundefreundlichen Bäckereiständen statt, probieren Sie das lokale Franzbrötchen vom Eckbäcker.",
+          "tipNl": "Op het Ballhofplatz is een kleine weekmarkt met hondvriendelijke bakkerskraampjes, probeer het lokale Franzbrötchen van de hoekbakker."
         },
         {
           "name": "Leine Riverside and Leineinsel",
@@ -1019,8 +1161,11 @@
           "petPolicyPt": "Trela obrigatória",
           "tipPt": "Comece na margem norte do Maschsee e caminhe rio acima para o troço menos movimentado, o lado de Linden tem os melhores cafés de brunch de domingo com jardins dog-friendly.",
           "descriptionDe": "Ein 5 km langer Spaziergang an der Leine entlang beider Ufer, über den kleinen Park Leineinsel hin zu Linden auf der einen und zur Altstadt auf der anderen Seite. Schattig, flach, mit mehreren hundefreundlichen Cafés unterwegs.",
+          "descriptionNl": "Een wandeling van 5 km aan de lijn langs beide oevers, via het kleine park Leineinsel naar Linden aan de ene kant en naar de oude stad aan de andere kant. Schaduwrijk, vlak, met meerdere hondvriendelijke cafés onderweg.",
           "petPolicyDe": "Leinenpflicht",
-          "tipDe": "Starten Sie am Nordufer des Maschsees und gehen Sie flussaufwärts für die am wenigsten überlaufene Strecke, die Linden-Seite hat die besten Sonntagsbrunch-Cafés mit hundefreundlichen Gärten."
+          "petPolicyNl": "Aanlijnplicht",
+          "tipDe": "Starten Sie am Nordufer des Maschsees und gehen Sie flussaufwärts für die am wenigsten überlaufene Strecke, die Linden-Seite hat die besten Sonntagsbrunch-Cafés mit hundefreundlichen Gärten.",
+          "tipNl": "Start aan de noordoever van het Maschsee en loop stroomopwaarts voor de minst drukke route, de kant van Linden heeft de beste zondagsbrunchcafés met hondvriendelijke tuinen."
         }
       ],
       "tipsEn": [
@@ -1102,7 +1247,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Hannover",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Hannover",
       "introDe": "Hannovers Freiluft-Sehenswürdigkeiten sind weitgehend hundefreundlich: der Turm des Neuen Rathauses (Hunde auf der Außenterrasse, aber nicht im Glasaufzug nach oben), die Fußgängerzone der Altstadt, die Herrenhäuser Allee und die Uferpromenade der Leine sind alle an der Leine zugänglich. Die meisten Innenraum-Museen verbieten Hunde, doch die Expo-Plaza und der Zoo sind klassische Ausnahmen.",
+      "introNl": "De openluchtbezienswaardigheden van Hannover zijn grotendeels hondvriendelijk: de toren van het Neue Rathaus (honden op het buitenterras, maar niet in de glazen lift naar boven), de voetgangerszone van de oude stad, de Herrenhäuser Allee en de oeverpromenade van de Leine zijn allemaal toegankelijk aan de lijn. De meeste binnenmusea verbieden honden, maar het Expo-Plaza en de dierentuin zijn klassieke uitzonderingen.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund in die Kuppel des Neuen Rathauses mitnehmen?",
@@ -1115,6 +1262,20 @@
         {
           "q": "Darf ich meinen Hund in die Herrenhäuser Gärten mitnehmen?",
           "a": "Hunde sind im kostenlosen Georgengarten zugelassen, jedoch nicht im kostenpflichtigen Großen Garten oder im botanischen Bereich des Berggartens."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar de koepel van het Neue Rathaus?",
+          "a": "Nee, de beroemde gebogen lift laat geen huisdieren toe. Het Maschpark rond het Rathaus en het buitenterras zijn echter volledig hondvriendelijk toegankelijk."
+        },
+        {
+          "q": "Zijn honden toegestaan in de Erlebnis-Zoo Hannover?",
+          "a": "Ja, het is een van de weinige grote Europese dierentuinen die aangelijnde honden toelaat. Honden moeten aan een korte lijn blijven, op verzoek een muilkorf dragen en mogen sommige gesloten dierenverblijven niet betreden."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen naar de Herrenhäuser Gärten?",
+          "a": "Honden zijn toegestaan in de gratis Georgengarten, maar niet in de betaalde Große Garten of in het botanische gedeelte van de Berggarten."
         }
       ]
     },
@@ -1146,8 +1307,11 @@
           "petPolicyPt": "Cuidadores verificados, seguro incluído",
           "servicesPt": "Passeio de cães, creche, alojamento em casa",
           "descriptionDe": "Europäischer Marktplatz für Tierbetreuung mit verifizierten Sittern in Hannover für Spaziergänge, Tagesbetreuung und Betreuung zu Hause. Alle Buchungen versichert, mit täglichen Foto-Updates. Typische Preise: 20–30 €/Tag Betreuung zu Hause, 10–16 € für einen einstündigen Spaziergang.",
+          "descriptionNl": "Europese marktplaats voor huisdierenopvang met geverifieerde oppassers in Hannover voor wandelingen, dagopvang en opvang bij jou thuis. Alle boekingen verzekerd, met dagelijkse fotoupdates. Typische prijzen: 20-30 €/dag opvang thuis, 10-16 € voor een wandeling van een uur.",
           "petPolicyDe": "Verifizierte Sitter, Versicherung inbegriffen",
-          "servicesDe": "Hundeausführen, Tagesbetreuung, Betreuung zu Hause"
+          "petPolicyNl": "Geverifieerde oppassers, verzekering inbegrepen",
+          "servicesDe": "Hundeausführen, Tagesbetreuung, Betreuung zu Hause",
+          "servicesNl": "Hondenuitlaten, dagopvang, opvang bij jou thuis"
         }
       ],
       "tipsEn": [
@@ -1229,7 +1393,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Hundeausführen in Hannover",
+      "titleNl": "Huisdierenopvang & hondenuitlaten in Hannover",
       "introDe": "Hannover hat einen zuverlässigen, aber kleineren Markt für Tierbetreuung als Hamburg oder München, Pawshake und Rover decken die Stadt ab, und einige unabhängige Hundetagesstätten betreiben in List, Linden und Südstadt. Die Preise liegen rund 10 % unter Hamburg. Buchen Sie früh während der Hannover Messe (April) und der Agritechnica (November).",
+      "introNl": "Hannover heeft een betrouwbare maar kleinere markt voor huisdierenopvang dan Hamburg of München, Pawshake en Rover bedienen de stad, en enkele onafhankelijke hondendagopvangplekken zijn actief in List, Linden en Südstadt. De prijzen liggen ongeveer 10% onder Hamburg. Boek vroeg tijdens de Hannover Messe (april) en de Agritechnica (november).",
       "faqsDe": [
         {
           "q": "Wie viel kostet Haustierbetreuung in Hannover?",
@@ -1242,6 +1408,20 @@
         {
           "q": "Ist es sicher, einen Hund allein im Hotelzimmer in Hannover zu lassen?",
           "a": "Viele Hotels in Hannover akzeptieren Hunde, doch nur wenige erlauben, sie unbeaufsichtigt zu lassen, außer in einer Box. Nutzen Sie für Museumsbesuche am Tag einen lokalen Pawshake-Sitter."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost huisdierenopvang in Hannover?",
+          "a": "Typische Pawshake-/Holidog-prijzen: 20-30 €/nacht opvang thuis, 25-40 €/dag dagopvang, 10-16 € voor een wandeling van een uur. Tijdens beursweken iets hoger."
+        },
+        {
+          "q": "Zijn de dierenoppassers in Hannover verzekerd?",
+          "a": "Pawshake en Holidog sluiten bij elke boeking aansprakelijkheids- en dierenartsspoedverzekering in."
+        },
+        {
+          "q": "Is het veilig om een hond alleen in de hotelkamer te laten in Hannover?",
+          "a": "Veel hotels in Hannover accepteren honden, maar slechts weinige staan toe ze onbeheerd achter te laten, behalve in een bench. Gebruik voor museumbezoeken overdag een lokale Pawshake-oppas."
         }
       ]
     }

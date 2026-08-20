@@ -41,9 +41,13 @@
           "tipPt": "Reserve a esplanada exterior na hora dourada (08h00-09h30 ou 18h00-20h00) quando o Kazbek fica rosa e a Igreja da Trindade de Gergeti é iluminada por luz horizontal; o local de pequeno-almoço canino mais espetacular do Cáucaso",
           "googleMapsUrl": "https://maps.google.com/?q=Rooms+Hotel+Kazbegi+Stepantsminda+Georgia",
           "descriptionDe": "Das Restaurant des bekannten Rooms Hotel Kazbegi hat die schönste Panoramaterrasse der Region: raumhohe Glaswände und eine hölzerne Außenterrasse mit direktem Blick auf die Dreifaltigkeitskirche von Gergeti auf ihrem Hügel und den Kazbek (5.047 m) darüber. Hunde sitzen auf der Außenterrasse. Georgische Bergküche: Lammspieß (Schaschlik), mit Bohnen gefülltes kubdari-Brot (svanische Spezialität), lokale Kräuter, geräucherter Käse.",
+          "descriptionNl": "Het restaurant van het bekende Rooms Hotel Kazbegi heeft het mooiste panoramaterras van de regio: glazen wanden van vloer tot plafond en een houten buitenterras met direct zicht op de Drie-eenheidskerk van Gergeti op haar heuvel en de Kazbek (5.047 m) daarboven. Honden zitten op het buitenterras. Georgische bergkeuken: lamsspies (sjasliek), met bonen gevuld kubdari-brood (Svaanse specialiteit), lokale kruiden, gerookte kaas.",
           "petPolicyDe": "Hunde willkommen auf der Außenterrasse",
+          "petPolicyNl": "Honden welkom op het buitenterras",
           "mustTryDe": "Kubdari (mit Bohnen gefülltes Fladenbrot, svanische Bergspezialität), Lammspieß, lokaler geräucherter Sulguni-Käse mit Honig",
-          "tipDe": "Reservieren Sie die Außenterrasse zur goldenen Stunde (08:00-09:30 oder 18:00-20:00 Uhr), wenn sich der Kazbek rosa färbt und die Dreifaltigkeitskirche von Gergeti im horizontalen Licht erstrahlt; der spektakulärste Ort für ein Hundefrühstück im Kaukasus"
+          "mustTryNl": "Kubdari (met bonen gevuld plat brood, Svaanse bergspecialiteit), lamsspies, lokale gerookte sulguni-kaas met honing",
+          "tipDe": "Reservieren Sie die Außenterrasse zur goldenen Stunde (08:00-09:30 oder 18:00-20:00 Uhr), wenn sich der Kazbek rosa färbt und die Dreifaltigkeitskirche von Gergeti im horizontalen Licht erstrahlt; der spektakulärste Ort für ein Hundefrühstück im Kaukasus",
+          "tipNl": "Reserveer het buitenterras tijdens het gouden uur (08:00-09:30 of 18:00-20:00 uur), wanneer de Kazbek roze kleurt en de Drie-eenheidskerk van Gergeti in horizontaal licht baadt; de meest spectaculaire plek voor een hondenontbijt in de Kaukasus"
         }
       ],
       "tipsEn": [
@@ -107,7 +111,9 @@
         }
       ],
       "titleDe": "Essen mit dem Hund in Kazbegi",
+      "titleNl": "Eten met je hond in Kazbegi",
       "introDe": "Kazbegi (offiziell Stepantsminda) ist eine kleine Bergstadt mit 2.000 Einwohnern auf 1.740 m Höhe unterhalb des Kazbek. Die Gastronomie ist einfach: Familienpensionen, eine Handvoll kleiner Restaurants an der Hauptstraße und die großen Hotels mit Bergblick. Fast alle servieren auf Außenterrassen, wo Hunde willkommen sind und der Blick auf den Kazbek atemberaubend ist.",
+      "introNl": "Kazbegi (officieel Stepantsminda) is een klein bergstadje met 2.000 inwoners op 1.740 m hoogte onder de Kazbek. De gastronomie is eenvoudig: familiepensions, een handvol kleine restaurants aan de hoofdstraat en de grote hotels met bergzicht. Bijna allemaal serveren ze op buitenterrassen waar honden welkom zijn en het uitzicht op de Kazbek adembenemend is.",
       "faqsDe": [
         {
           "q": "Gibt es in Kazbegi Futter für Hunde?",
@@ -116,6 +122,16 @@
         {
           "q": "Gibt es in Kazbegi vegetarische Optionen für Hundehalter, die kein Fleisch essen?",
           "a": "Ja: lobiani (gewürztes Fladenbrot mit roten Bohnen), frische Kräuter und Käseaufstriche, badrijani (mit Walnüssen gefüllte Aubergine) und verschiedene Gemüsesuppen sind in allen Pensionen erhältlich. Die Bergküche von Kazbegi hat eine ausgeprägte vegetarische Tradition."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er hondenvoer verkrijgbaar in Kazbegi?",
+          "a": "Ja, simpel gegrild lam en varkensvlees (de belangrijkste lokale eiwitten) zijn in kleine hoeveelheden veilig voor honden. De gastheren van de pensions zetten vaak een kom vlees neer voor de honden van hun gasten; de Georgische berggastvrijheid is uiterst hartelijk voor dieren. Neem het gewone voer van je hond mee uit Tbilisi, want de keuze is beperkt in Kazbegi."
+        },
+        {
+          "q": "Zijn er in Kazbegi vegetarische opties voor hondenbezitters die geen vlees eten?",
+          "a": "Ja: lobiani (gekruid plat brood met rode bonen), verse kruiden en kaasspreads, badrijani (met walnoten gevulde aubergine) en diverse groentesoepen zijn verkrijgbaar in alle pensions. De bergkeuken van Kazbegi kent een sterke vegetarische traditie."
         }
       ]
     },
@@ -150,8 +166,11 @@
           "tipPt": "Comece antes das 07h00 para a melhor luz fotográfica e ter a montanha em grande parte para si próprio com o seu cão; às 10h00 o trilho enche-se de turistas de jeep de excursão de um dia. O trilho está gelado de novembro a março e só deve ser tentado com crampões",
           "googleMapsUrl": "https://maps.google.com/?q=Gergeti+Trinity+Church+Kazbegi+Georgia",
           "descriptionDe": "Die ikonischste Wanderung Georgiens: ein 2,5 km langer Weg mit 600 m Anstieg vom Dorf zur Dreifaltigkeitskirche von Gergeti aus dem 14. Jahrhundert (2.170 m Höhe), die auf einer Klippe direkt unter dem Kazbek thront. Hunde wandern durchgehend ohne Leine auf dem gut ausgetretenen Pfad. Der Blick von der Kirche über die Dariali-Schlucht und den Kazbek-Gletscher gehört zu den spektakulärsten im Kaukasus.",
+          "descriptionNl": "De meest iconische wandeling van Georgië: een 2,5 km lang pad dat 600 m stijgt vanaf het dorp naar de 14e-eeuwse Drie-eenheidskerk van Gergeti (2.170 m hoogte), die op een klif troont direct onder de Kazbek. Honden wandelen overal los op het goed uitgesleten pad. Het uitzicht vanaf de kerk over de Dariali-kloof en de Kazbek-gletsjer behoort tot het meest spectaculaire in de Kaukasus.",
           "petPolicyDe": "Hunde durchgehend ohne Leine; am Kircheneingang aus Respekt an die Leine nehmen",
-          "tipDe": "Starten Sie vor 07:00 Uhr für das beste Fotolicht und um den Berg mit Ihrem Hund weitgehend für sich zu haben; ab 10:00 Uhr füllt sich der Weg mit Jeep-Tagestouristen. Der Weg ist von November bis März vereist und sollte nur mit Steigeisen begangen werden"
+          "petPolicyNl": "Honden overal los; bij de kerkingang uit respect aanlijnen",
+          "tipDe": "Starten Sie vor 07:00 Uhr für das beste Fotolicht und um den Berg mit Ihrem Hund weitgehend für sich zu haben; ab 10:00 Uhr füllt sich der Weg mit Jeep-Tagestouristen. Der Weg ist von November bis März vereist und sollte nur mit Steigeisen begangen werden",
+          "tipNl": "Start voor 07:00 uur voor het beste fotolicht en om de berg met je hond grotendeels voor jezelf te hebben; vanaf 10:00 uur stroomt het pad vol met jeeptoeristen op dagtocht. Het pad is van november tot maart bevroren en mag alleen met stijgijzers begaan worden"
         },
         {
           "name": "Juta Valley Trail",
@@ -174,8 +193,11 @@
           "tipPt": "Contrate um táxi jeep em Kazbegi (30 GEL, 10 EUR) para chegar a Juta e começar o trilho a partir da aldeia; a ida e volta de Juta ao Passo de Chaukhi é de 16 km, dia inteiro, adequado para cães e donos em forma",
           "googleMapsUrl": "https://maps.google.com/?q=Juta+Valley+Kazbegi+Georgia",
           "descriptionDe": "Das Juta-Tal (11 km von Kazbegi mit dem Jeep über eine Piste) ist ein hochgelegenes alpines Becken auf 2.200 m, umgeben von über 4.000 m hohen Gipfeln. Der Weg vom Dorf Juta zum Chaukhi-Pass (3.338 m) führt durch Wildblumenwiesen mit Bergbächen, in denen Hunde frei schwimmen können. Die spektakulärste Hundewanderung im Kaukasus.",
+          "descriptionNl": "Het Juta-dal (11 km van Kazbegi via een jeeppiste) is een hooggelegen alpenkom op 2.200 m, omringd door pieken van meer dan 4.000 m. Het pad van het dorp Juta naar de Chaukhi-pas (3.338 m) loopt door wildbloemenweides met bergbeken waar honden vrij zwemmen. De meest spectaculaire hondenwandeling in de Kaukasus.",
           "petPolicyDe": "Hunde durchgehend vollständig ohne Leine; keine Einschränkungen im Nationalpark Kazbegi",
-          "tipDe": "Mieten Sie in Kazbegi ein Jeep-Taxi (30 GEL, 10 EUR), um Juta zu erreichen und die Wanderung im Dorf zu beginnen; die Hin- und Rückfahrt von Juta zum Chaukhi-Pass beträgt 16 km, ein Tagesausflug, geeignet für fitte Hunde und Halter"
+          "petPolicyNl": "Honden overal volledig los; geen beperkingen in het Nationaal Park Kazbegi",
+          "tipDe": "Mieten Sie in Kazbegi ein Jeep-Taxi (30 GEL, 10 EUR), um Juta zu erreichen und die Wanderung im Dorf zu beginnen; die Hin- und Rückfahrt von Juta zum Chaukhi-Pass beträgt 16 km, ein Tagesausflug, geeignet für fitte Hunde und Halter",
+          "tipNl": "Huur in Kazbegi een jeeptaxi (30 GEL, 10 EUR) om Juta te bereiken en begin de wandeling vanuit het dorp; de heen- en terugtocht van Juta naar de Chaukhi-pas is 16 km, een hele dag, geschikt voor fitte honden en baasjes"
         }
       ],
       "tipsEn": [
@@ -239,7 +261,9 @@
         }
       ],
       "titleDe": "Wandern & Freilaufwege in Kazbegi",
+      "titleNl": "Wandelen & loslooproutes in Kazbegi",
       "introDe": "Kazbegi ist eines der weltweit großartigsten Wanderziele für Hunde. Der Nationalpark Kazbegi (8.700 Hektar alpine Wiesen, Gletscher und Flussschluchten) hat keine Hundebeschränkungen auf seinen Wegen; Hunde wandern überall ohne Leine und schwimmen im Gletscherfluss Terek und seinen Nebenflüssen. Die Landschaft ist außergewöhnlich: Der 5.047 m hohe Kazbek dominiert jeden Blick.",
+      "introNl": "Kazbegi is een van 's werelds beste wandelbestemmingen voor honden. Het Nationaal Park Kazbegi (8.700 hectare alpenweiden, gletsjers en rivierkloven) heeft geen hondenbeperkingen op zijn paden; honden wandelen overal los, zwemmen in de gletsjerrivier de Terek en haar zijrivieren. Het landschap is buitengewoon: de 5.047 m hoge Kazbek domineert elk uitzicht.",
       "faqsDe": [
         {
           "q": "Ist die Wanderung zur Dreifaltigkeitskirche von Gergeti für alle Hunde sicher?",
@@ -248,6 +272,16 @@
         {
           "q": "Gibt es im Nationalpark Kazbegi Bären oder Wölfe, die meinen Hund gefährden könnten?",
           "a": "Braunbären und Wölfe leben tatsächlich im Park, werden aber in der Nähe des Dorfes oder auf den Haupttouristenwegen selten gesichtet. Das Hauptrisiko für Hunde sind die großen kaukasischen Owtscharkas (Nagazi), die von Hirten eingesetzt werden; diese beschützen ihre Herden und fordern fremde Hunde heraus. Halten Sie Ihren Hund nah bei sich und meiden Sie Hirtenlager."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is de wandeling naar de Drie-eenheidskerk van Gergeti veilig voor alle honden?",
+          "a": "Het hoogteverschil van 600 m over 2,5 km is veeleisend voor kortpotige of oudere honden. Fitte middelgrote tot grote honden doen het zonder moeite. Het pad is op stukken rotsachtig en los; pootbeschermers zijn nuttig voor langharige honden. Op het bovenste stuk is geen schaduw; neem water mee voor je hond."
+        },
+        {
+          "q": "Zijn er beren of wolven in het Nationaal Park Kazbegi die mijn hond kunnen bedreigen?",
+          "a": "Bruine beren en wolven leven inderdaad in het park, maar worden zelden gezien nabij het dorp of op de belangrijkste toeristenpaden. Het grootste risico voor honden zijn de grote Kaukasische herdershonden (Nagazi), die door herders worden ingezet; deze beschermen hun kudde en dagen vreemde honden uit. Houd je hond dicht bij je en vermijd herderskampen."
         }
       ]
     },
@@ -326,7 +360,9 @@
         }
       ],
       "titleDe": "Anreise nach Kazbegi mit Ihrem Hund",
+      "titleNl": "Naar Kazbegi reizen met je hond",
       "introDe": "Kazbegi liegt 155 km nördlich von Tiflis entlang der Georgischen Heerstraße (einer der spektakulärsten Bergstraßen der Welt). Die Fahrt dauert 2,5-3 Stunden mit dem Auto oder der marschrutka (Sammeltaxi). Es gibt weder Flughafen noch Bahnanschluss; alle Besucher reisen auf der Straße an. Mit Hund ist ein privater Wagen oder ein Taxi die komfortabelste Option.",
+      "introNl": "Kazbegi ligt 155 km ten noorden van Tbilisi langs de Georgische Militaire Weg (een van de meest spectaculaire bergwegen ter wereld). De reis duurt 2,5-3 uur met de auto of marsjroetka (deelbusje). Er is geen luchthaven of trein; alle bezoekers komen over de weg aan. Met een hond is een privéauto of taxi de comfortabelste optie.",
       "faqsDe": [
         {
           "q": "Kann ich mit einem großen Hund ein Taxi von Tiflis nach Kazbegi nehmen?",
@@ -335,6 +371,16 @@
         {
           "q": "Ist die Straße nach Kazbegi im Winter geöffnet?",
           "a": "Die S3 Georgische Heerstraße wird ganzjährig von Schneepflügen offen gehalten, kann aber nach starkem Schneefall für 12-24 Stunden gesperrt sein. Der Abschnitt am Jvari-Pass (2.395 m) ist der kritische Punkt; prüfen Sie vor einem Winterbesuch die Website der georgischen Straßenbehörde oder lokale Quellen. Ein Allradfahrzeug wird von November bis März empfohlen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik met een grote hond een taxi nemen van Tbilisi naar Kazbegi?",
+          "a": "Ja, probleemloos. Privétaxi's en autoverhuur van Tbilisi naar Kazbegi zijn erg populair (de marsjroetka is niet ideaal voor grote honden). De heen- en terugrit met een privéauto kost ongeveer 100-150 GEL (35-55 EUR), inclusief wachttijd in Kazbegi. Bolt, Yandex en lokale taxidiensten bedienen allemaal de route Tbilisi-Kazbegi."
+        },
+        {
+          "q": "Is de weg naar Kazbegi 's winters open?",
+          "a": "De S3 Georgische Militaire Weg wordt het hele jaar door met sneeuwploegen open gehouden, maar kan na zware sneeuwval 12-24 uur gesloten zijn. Het gedeelte bij de Jvari-pas (2.395 m) is het kritieke punt; controleer voor een winterbezoek de website van de Georgische wegendienst of lokale bronnen. Een 4x4-voertuig wordt aanbevolen van november tot maart."
         }
       ]
     },
@@ -409,7 +455,9 @@
         }
       ],
       "titleDe": "Flüsse & Schwimmen bei Kazbegi",
+      "titleNl": "Rivieren & zwemmen bij Kazbegi",
       "introDe": "Kazbegi hat keine Strände; es ist ein Bergziel auf 1.740 m Höhe. Das Schwimmen mit Hund findet im Terek statt (dem Hauptfluss, der durch das Kazbegi-Tal fließt) und seinen gletschergespeisten Nebenflüssen. Das Wasser ist sehr kalt (8-12 °C selbst im Juli), aber Hunde mit dichtem Fell lieben es.",
+      "introNl": "Kazbegi heeft geen stranden; het is een bergbestemming op 1.740 m boven zeeniveau. Zwemmen met de hond gebeurt in de Terek (de hoofdrivier die door de vallei van Kazbegi stroomt) en haar door gletsjers gevoede zijrivieren. Het water is erg koud (8-12 °C zelfs in juli), maar honden met een dikke vacht zijn er dol op.",
       "faqsDe": [
         {
           "q": "Ist die Strömung des Terek für schwimmende Hunde sicher?",
@@ -418,6 +466,16 @@
         {
           "q": "Sind die Mineralquellen in der Truso-Schlucht für Hunde unbedenklich zum Trinken?",
           "a": "Das Truso-Tal hat natürlich kohlensäurehaltige, eisenreiche Mineralquellen. Kleine Mengen Mineralwasser sind für Hunde unbedenklich, sollten aber nicht ihre Hauptwasserquelle sein; der hohe Mineralgehalt kann Verdauungsprobleme verursachen. Führen Sie auf der Truso-Wanderung frisches Wasser für Ihren Hund mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is de stroming van de Terek veilig voor zwemmende honden?",
+          "a": "Het hoofdkanaal van de Terek is in het voorjaar en de vroege zomer (mei-juni) tijdens het smelten van de gletsjers snel en krachtig; zwemmen in de hoofdstroom is niet veilig. Blijf in de rustige zijkanalen en ondiepe delen. Van juli tot september is de stroming rustiger geworden en zijn de ondiepe oevers bij de dorpsbrug veilig om met de hond te zwemmen."
+        },
+        {
+          "q": "Zijn de minerale bronnen bij de Truso-kloof veilig om te drinken voor honden?",
+          "a": "Het Truso-dal heeft van nature koolzuurhoudende, ijzerrijke minerale bronnen. Kleine hoeveelheden mineraalwater zijn veilig voor honden, maar mogen niet hun voornaamste waterbron zijn; het hoge mineraalgehalte kan spijsverteringsproblemen veroorzaken. Neem vers water mee voor je hond tijdens de Truso-wandeling."
         }
       ]
     },
@@ -496,7 +554,9 @@
         }
       ],
       "titleDe": "Tierärzte & Notfallversorgung bei Kazbegi",
+      "titleNl": "Dierenartsen & spoedzorg bij Kazbegi",
       "introDe": "Im Dorf Kazbegi gibt es keine Tierarztpraxis. Der nächste Tierarzt befindet sich in Stepantsminda (Stadt Kazbegi, 2 km) oder in Mzcheta (100 km südlich, 90 Minuten). Für ernste Notfälle sind die Tierkliniken in Tiflis (155 km, 2,5-3 Stunden mit dem Auto) das Ziel. Führen Sie ein einfaches Erste-Hilfe-Set für Hunde mit.",
+      "introNl": "In het dorp Kazbegi is er geen dierenartsenpraktijk. De dichtstbijzijnde dierenarts bevindt zich in Stepantsminda (stad Kazbegi, 2 km) of in Mtskheta (100 km zuidelijker, 90 minuten). Voor ernstige noodgevallen zijn de dierenklinieken in Tbilisi (155 km, 2,5-3 uur met de auto) de bestemming. Neem een basis eerstehulpset voor honden mee.",
       "faqsDe": [
         {
           "q": "Was tun, wenn mein Hund auf einem Bergweg bei Kazbegi verletzt wird?",
@@ -505,6 +565,16 @@
         {
           "q": "Gibt es im Nationalpark Kazbegi Giftschlangen?",
           "a": "Georgien beherbergt mehrere Otternarten, darunter die Kaukasus-Kreuzotter (Vipera kaznakovi), die in felsigem Gelände aktiv ist. Ottern kommen im Nationalpark Kazbegi in tiefer gelegenen Zonen (unter 2.000 m) von April bis Oktober vor. Halten Sie Ihren Hund auf dem markierten Weg und fern von Felshaufen. Gegengift ist in Krankenhäusern in Tiflis erhältlich."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat te doen als mijn hond gewond raakt op een bergpad bij Kazbegi?",
+          "a": "Verleen eerste hulp en bel daarna 112 (het Georgische alarmnummer) voor coördinatie. Als je hond kan lopen, keer dan terug naar het dorp en vraag in elk pension om hulp; de lokale bevolking weet hoe je vervoer naar Mtskheta of Tbilisi regelt. Als je hond niet kan lopen, kunnen jeeptaxi's de meeste startpunten van wandelpaden bereiken voor evacuatie."
+        },
+        {
+          "q": "Zijn er giftige slangen in het Nationaal Park Kazbegi?",
+          "a": "Georgië herbergt meerdere adderssoorten, waaronder de Kaukasische adder (Vipera kaznakovi), die actief is in rotsachtig terrein. Adders komen in het Nationaal Park Kazbegi voor in lager gelegen zones (onder 2.000 m) van april tot oktober. Houd je hond op het gemarkeerde pad en uit de buurt van stapels rotsen. Tegengif is verkrijgbaar in ziekenhuizen in Tbilisi."
         }
       ]
     },
@@ -580,7 +650,9 @@
         }
       ],
       "titleDe": "Wichtige Tipps zum Wandern mit Hund in Kazbegi",
+      "titleNl": "Belangrijke tips voor wandelen met je hond in Kazbegi",
       "introDe": "Kazbegi ist das schönste Bergziel Georgiens für Hundewanderer. Die Kombination aus dramatischer alpiner Landschaft, uneingeschränktem Wegzugang, gastfreundlicher Pensionskultur und der ikonischen Dreifaltigkeitskirche von Gergeti macht es zu einem Muss. Das Gelände ist anspruchsvoll; planen Sie mit fitten Hunden und guter eigener körperlicher Vorbereitung.",
+      "introNl": "Kazbegi is de mooiste bergbestemming van Georgië voor hondenwandelaars. De combinatie van dramatische alpiene landschappen, volledige toegang tot de paden, een gastvrije pensioncultuur en de iconische Drie-eenheidskerk van Gergeti maakt het een absolute must. Het terrein is veeleisend; plan met fitte honden en een goede eigen lichamelijke voorbereiding.",
       "faqsDe": [
         {
           "q": "Ist Kazbegi für kleine Hunde geeignet?",
@@ -589,6 +661,16 @@
         {
           "q": "Kann ich mit meinem Hund einen Tagesausflug von Tiflis nach Kazbegi machen?",
           "a": "Ja, aber eine Übernachtung ist deutlich besser. Ein Tagesausflug (2,5-3 Std. je Richtung) lässt Ihnen nur 4-5 Stunden in Kazbegi; genug für die Gergeti-Wanderung, aber anstrengend für einen Hund. Zwei Nächte erlauben es, am ersten Tag Gergeti und am zweiten Tag das Juta-Tal oder die Truso-Schlucht zu machen und ausgeruht zurückzukehren."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Kazbegi geschikt voor kleine honden?",
+          "a": "Kazbegi is het meest geschikt voor middelgrote tot grote honden in goede conditie. De Gergeti-wandeling (600 m hoogteverschil) is veeleisend voor kleine of oudere honden. Op dorpsniveau (1.740 m) zijn er echter aangename vlakke wandelingen langs de Terek en door de weides die voor alle honden geschikt zijn. De pensioncultuur is hartelijk voor alle honden, ongeacht hun grootte."
+        },
+        {
+          "q": "Kan ik met mijn hond een dagtocht naar Kazbegi maken vanuit Tbilisi?",
+          "a": "Ja, maar minimaal één overnachting is veel beter. Een dagtocht (2,5-3 uur per richting) geeft je maar 4-5 uur in Kazbegi; genoeg voor de Gergeti-wandeling, maar vermoeiend voor een hond. Met twee nachten kun je op dag 1 Gergeti doen, op dag 2 het Juta-dal of de Truso-kloof, en uitgerust terugkeren."
         }
       ]
     },
@@ -623,8 +705,11 @@
           "tipPt": "Para aqui tanto na viagem de ida como na de volta Tbilisi-Kazbegi para luz diferente; a luz da manhã do leste e a luz da tarde do oeste dão qualidades fotográficas completamente diferentes",
           "googleMapsUrl": "https://maps.google.com/?q=Ananuri+Fortress+Georgia",
           "descriptionDe": "Die Festung Ananuri aus dem 16. Jahrhundert erhebt sich über dem türkisfarbenen Zhinvali-Stausee an der Georgischen Heerstraße. Die Festungsmauern und Kirchen sind zugänglich, und Hunde gehen im gesamten Gelände an der Leine. Die Kombination aus mittelalterlichen Steintürmen, schneebedeckten Bergen und dem Stausee ist der fotogenste Halt auf der Strecke Tiflis-Kazbegi.",
+          "descriptionNl": "De 16e-eeuwse vesting Ananuri torent boven het turquoise Zjinvali-stuwmeer aan de Georgische Militaire Weg. De vestingmuren en kerken zijn toegankelijk en honden lopen aangelijnd door het hele terrein. De combinatie van middeleeuwse stenen torens, besneeuwde bergen en het stuwmeer maakt dit de meest fotogenieke stop op de weg Tbilisi-Kazbegi.",
           "petPolicyDe": "Angeleinte Hunde willkommen im gesamten Festungsgelände",
-          "tipDe": "Halten Sie hier sowohl auf der Hin- als auch auf der Rückfahrt Tiflis-Kazbegi für unterschiedliches Licht; das Morgenlicht aus dem Osten und das Nachmittagslicht aus dem Westen ergeben völlig unterschiedliche fotografische Qualitäten"
+          "petPolicyNl": "Aangelijnde honden welkom in het hele vestingterrein",
+          "tipDe": "Halten Sie hier sowohl auf der Hin- als auch auf der Rückfahrt Tiflis-Kazbegi für unterschiedliches Licht; das Morgenlicht aus dem Osten und das Nachmittagslicht aus dem Westen ergeben völlig unterschiedliche fotografische Qualitäten",
+          "tipNl": "Stop hier zowel op de heen- als terugreis Tbilisi-Kazbegi voor ander licht; het ochtendlicht uit het oosten en het middaglicht uit het westen geven volledig verschillende fotografische kwaliteiten"
         }
       ],
       "tipsEn": [
@@ -688,7 +773,9 @@
         }
       ],
       "titleDe": "Sehenswürdigkeiten & Tagesausflüge ab Kazbegi",
+      "titleNl": "Bezienswaardigheden & dagtochten vanuit Kazbegi",
       "introDe": "Die Hauptattraktionen von Kazbegi liegen im Freien: die Dreifaltigkeitskirche von Gergeti, das Juta-Tal, die Truso-Schlucht und der Korridor der Georgischen Heerstraße. Das Dariali-Kloster in der Schlucht südlich von Kazbegi, die Festung Ananuri am Zhinvali-Stausee und die UNESCO-Stadt Mzcheta sind alle als Tagesausflüge mit dem Auto erreichbar.",
+      "introNl": "De belangrijkste attracties van Kazbegi liggen buiten: de Drie-eenheidskerk van Gergeti, het Juta-dal, de Truso-kloof en de corridor van de Georgische Militaire Weg. Het Dariali-klooster in de kloof ten zuiden van Kazbegi, de vesting Ananuri aan het Zjinvali-stuwmeer en het UNESCO-stadje Mtskheta zijn allemaal per auto als dagtocht te bereiken.",
       "faqsDe": [
         {
           "q": "Darf mein Hund die Dreifaltigkeitskirche von Gergeti betreten?",
@@ -697,6 +784,16 @@
         {
           "q": "Ist Mzcheta (UNESCO-Stätte südlich von Kazbegi) hundefreundlich?",
           "a": "Mzcheta (25 km südlich von Tiflis an der Straße Tiflis-Kazbegi) ist ein ausgezeichneter Zwischenstopp mit Hund auf der Fahrt. Das Dschwari-Kloster auf dem Hügel und die Swetizchoweli-Kathedrale sind UNESCO-Stätten; der Kathedralenhof ist mit Hund zugänglich (Kircheninneres nicht erlaubt), und die mittelalterlichen Gassen und der Uferpark der Stadt sind vollständig mit Hund begehbar."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond de Drie-eenheidskerk van Gergeti binnen?",
+          "a": "De Drie-eenheidskerk van Gergeti is een actief orthodox klooster en honden zijn uit respect niet toegestaan in het kerkgebouw. De buitenkoer, de omliggende weides en het hele wandelpad zijn volledig toegankelijk met hond. Bind je hond vast bij het koortje terwijl je kort de kerk binnengaat."
+        },
+        {
+          "q": "Is Mtskheta (UNESCO-site ten zuiden van Kazbegi) hondvriendelijk?",
+          "a": "Mtskheta (25 km ten zuiden van Tbilisi aan de weg Tbilisi-Kazbegi) is een uitstekende hondenstop tijdens de rit. Het Jvari-klooster op de heuvel en de Svetitskhoveli-kathedraal zijn UNESCO-sites; de kathedraalkoer is toegankelijk met hond (kerkinterieur niet toegestaan), en de middeleeuwse straatjes en het rivierparkje van het stadje zijn volledig te belopen met een hond."
         }
       ]
     },
@@ -771,7 +868,9 @@
         }
       ],
       "titleDe": "Hundebetreuung in Kazbegi",
+      "titleNl": "Hondenoppas in Kazbegi",
       "introDe": "In Kazbegi gibt es keine formellen Hundebetreuungsdienste. Die Hauptoption ist, den Hund in Ihrer Pension zu lassen; die georgische Pensionsgastfreundschaft ist äußerst herzlich, und die Gastgeber kümmern sich routinemäßig während der Wanderungen der Gäste um deren Hunde im Garten. Planen Sie Ihre Route so, dass Ihr Hund nicht länger als 4-5 Stunden am Stück allein bleibt.",
+      "introNl": "In Kazbegi zijn er geen formele hondenoppasdiensten. De belangrijkste optie is je hond achterlaten in je pension; de Georgische pensiongastvrijheid is uiterst hartelijk en gastheren zorgen routinematig voor de honden van gasten in hun tuin tijdens wandelingen. Plan je route zo dat je hond niet langer dan 4-5 uur achter elkaar alleen blijft.",
       "faqsDe": [
         {
           "q": "Ist Kazbegi für einen Hund geeignet, der kein erfahrener Wanderer ist?",
@@ -780,6 +879,16 @@
         {
           "q": "Gibt es in Kazbegi WLAN für dringende Tierarzt-Notrufe?",
           "a": "Die großen Hotels (Rooms Hotel, Kazbegi Grande) haben gutes WLAN. Pensionen haben unterschiedliche Verbindungsqualität. Mobilfunkempfang (Netze von Magti und Geocell) ist auf Dorfniveau vorhanden, bricht aber in den tiefen Schluchten ab; führen Sie eine Offline-Karten-App mit (Maps.me funktioniert in dieser Gegend gut) und speichern Sie den Tierarztkontakt in Mzcheta/Tiflis vor der Anreise."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Kazbegi geschikt voor een hond die geen ervaren wandelaar is?",
+          "a": "Het dorp zelf (1.740 m) heeft vlakke weidewandelingen langs de Terek die geschikt zijn voor elke hond. Blijf bij onervaren of minder fitte honden in de vallei; de rivierweides, de dorpsstraten en de lagere heuvelflank bieden urenlang goed wandelen met de hond zonder de steile Gergeti-wandeling."
+        },
+        {
+          "q": "Is er wifi in Kazbegi voor dringende dierenartsoproepen?",
+          "a": "De grote hotels (Rooms Hotel, Kazbegi Grande) hebben goede wifi. Pensions hebben wisselende connectiviteit. Mobiel bereik (netwerken van Magti en Geocell) is aanwezig op dorpsniveau, maar valt weg in de diepe kloven; neem een offline kaarten-app mee (Maps.me werkt goed in dit gebied) en sla het dierenartscontact van Mtskheta/Tbilisi op voordat je aankomt."
         }
       ]
     }

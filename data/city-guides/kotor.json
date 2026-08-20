@@ -51,8 +51,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Vet+Port+Kotor+Skaljari",
           "photo": "",
           "hoursDe": "Mo-Fr 09:00-14:00 & 18:00-20:00, Sa 09:00-14:00, So geschlossen (Notfälle telefonisch)",
+          "hoursNl": "Ma-vr 09:00-14:00 & 18:00-20:00, za 09:00-14:00, zo gesloten (noodgevallen telefonisch)",
           "descriptionDe": "Geleitet von Dr. Relja Cetkovic, ist Vet Port die reisefreundlichste Klinik in Kotor, direkt außerhalb der Altstadt in Skaljari gelegen. Sie bietet allgemeine Diagnostik, Chirurgie, Impfungen, Mikrochipping, Röntgen, Ultraschall und Bluttests, und der Tierarzt spricht gut Englisch. Es handelt sich um eine kleine Praxis, kein 24-Stunden-Krankenhaus, aber Dr. Relja bespricht Notfälle außerhalb der Sprechzeiten telefonisch.",
-          "tipDe": "Speichern Sie +382 69 250 781 vor Ihrer Reise und rufen Sie vorher an. Als kleine Praxis hängt die Versorgung außerhalb der Sprechzeiten davon ab, dass der Tierarzt telefonisch erreichbar ist"
+          "descriptionNl": "Onder leiding van Dr. Relja Cetkovic is Vet Port de reisvriendelijkste kliniek in Kotor, net buiten de oude binnenstad in Skaljari. Ze bieden algemene diagnostiek, chirurgie, vaccinaties, microchippen, röntgen, echografie en bloedonderzoek, en de dierenarts spreekt goed Engels. Het is een kleine praktijk, geen 24-uursziekenhuis, maar Dr. Relja bespreekt noodgevallen buiten spreekuren telefonisch.",
+          "tipDe": "Speichern Sie +382 69 250 781 vor Ihrer Reise und rufen Sie vorher an. Als kleine Praxis hängt die Versorgung außerhalb der Sprechzeiten davon ab, dass der Tierarzt telefonisch erreichbar ist",
+          "tipNl": "Sla +382 69 250 781 op voor je reis en bel van tevoren. Als kleine praktijk hangt de zorg buiten spreekuren ervan af of de dierenarts telefonisch bereikbaar is"
         },
         {
           "name": "Veterinarska Ambulanta Petricevic",
@@ -76,8 +79,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Veterinarska+ambulanta+Dobrota+Kotor",
           "photo": "",
           "hoursDe": "Mo-Sa 08:00-20:00, So geschlossen",
+          "hoursNl": "Ma-za 08:00-20:00, zo gesloten",
           "descriptionDe": "Eine kleine Allgemeinpraxis in Dobrota, direkt nördlich der Altstadt entlang der Uferpromenade, geleitet von Dr. Marko Petricevic. Sie deckt alltägliche Bedürfnisse wie allgemeine Diagnostik und Behandlung, Impfungen und Mikrochipping ab, mit langen Öffnungszeiten unter der Woche und samstags, die sich für Besucher eignen. Englisch ist begrenzt, eine Übersetzungs-App hilft, aber es ist eine praktische, nahe gelegene Option für den Bereich der Promenade von Dobrota.",
-          "tipDe": "Englisch ist hier begrenzt, bringen Sie also eine Übersetzungs-App mit. Rufen Sie vorher an, um die Öffnungszeiten zu bestätigen, da kleine Kliniken diese saisonal anpassen"
+          "descriptionNl": "Een kleine algemene praktijk in Dobrota, net ten noorden van de oude binnenstad langs de boulevard, onder leiding van Dr. Marko Petricevic. Ze dekt alledaagse behoeften zoals algemene diagnostiek en behandeling, vaccinaties en microchippen, met lange openingstijden doordeweeks en op zaterdag, prettig voor bezoekers. Engels is beperkt, een vertaal-app helpt, maar het is een praktische, dichtbij gelegen optie voor het gebied rond de boulevard van Dobrota.",
+          "tipDe": "Englisch ist hier begrenzt, bringen Sie also eine Übersetzungs-App mit. Rufen Sie vorher an, um die Öffnungszeiten zu bestätigen, da kleine Kliniken diese saisonal anpassen",
+          "tipNl": "Engels is hier beperkt, neem dus een vertaal-app mee. Bel van tevoren om de openingstijden te bevestigen, want kleine klinieken passen deze seizoensgebonden aan"
         },
         {
           "name": "Hasvet PG International Animal Hospital (24/7), Podgorica",
@@ -101,8 +107,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hasvet+PG+International+Animal+Hospital+Podgorica",
           "photo": "",
           "hoursDe": "24/7, jeden Tag",
+          "hoursNl": "24/7, elke dag",
           "descriptionDe": "Montenegros einzige echte rund um die Uhr geöffnete Tierklinik, in der Hauptstadt Podgorica, etwa 90 Minuten mit dem Auto von Kotor entfernt. Es ist eine voll ausgestattete internationale Tierklinik mit Chirurgie, Diagnostik, Ultraschall, Röntgen, Zahnbehandlungen und Notfallversorgung, mit englischsprachigen Tierärzten. Für einen echten Notfall über Nacht, den die örtlichen Kliniken in Kotor nicht abdecken können, ist dies die richtige Anlaufstelle.",
-          "tipDe": "Sie liegt etwa 90 Minuten entfernt, rufen Sie also vor der Abfahrt +382 20 801 843 an, damit sich das Team auf Ihre Ankunft vorbereiten kann"
+          "descriptionNl": "Montenegro's enige echte 24 uur per dag geopende dierenkliniek, in de hoofdstad Podgorica, zo'n 90 minuten rijden van Kotor. Het is een volledig uitgeruste internationale dierenkliniek met chirurgie, diagnostiek, echografie, röntgen, tandbehandelingen en spoedzorg, met Engelssprekende dierenartsen. Voor een echt noodgeval 's nachts, dat de lokale klinieken in Kotor niet kunnen dekken, is dit de juiste plek.",
+          "tipDe": "Sie liegt etwa 90 Minuten entfernt, rufen Sie also vor der Abfahrt +382 20 801 843 an, damit sich das Team auf Ihre Ankunft vorbereiten kann",
+          "tipNl": "Het ligt zo'n 90 minuten verderop, bel dus voor vertrek +382 20 801 843 zodat het team zich kan voorbereiden op je aankomst"
         }
       ],
       "faqsEn": [
@@ -146,7 +155,9 @@
         }
       ],
       "titleDe": "Tierärztliche Notdienste in Kotor, Tierkliniken & Haustierpflege",
+      "titleNl": "Dierenartsen en spoeddiensten in Kotor, dierenklinieken & huisdierverzorging",
       "introDe": "Kotor verfügt über einige kleine lokale Tierkliniken statt eines 24-Stunden-Krankenhauses. Für die Routineversorgung ist die englischsprachige Vet Port in Skaljari die reisefreundlichste Option. Für einen ernsthaften Notfall über Nacht befindet sich die einzige rund um die Uhr geöffnete Klinik des Landes in der Hauptstadt Podgorica, etwa 90 Minuten mit dem Auto entfernt, daher ist es ratsam, eine lokale Tierarztnummer vor der Anreise zu speichern.",
+      "introNl": "Kotor beschikt over een paar kleine lokale dierenklinieken in plaats van een 24-uursziekenhuis. Voor routinezorg is de Engelssprekende Vet Port in Skaljari de reisvriendelijkste optie. Voor een ernstig noodgeval 's nachts bevindt de enige 24 uur per dag geopende kliniek van het land zich in de hoofdstad Podgorica, zo'n 90 minuten rijden verderop, dus het is verstandig om vooraf een lokaal dierenartsnummer op te slaan.",
       "faqsDe": [
         {
           "q": "Gibt es in Kotor einen 24-Stunden-Tierarzt?",
@@ -155,6 +166,16 @@
         {
           "q": "Welche Unterlagen benötigt mein Hund, um von der EU nach Montenegro einzureisen?",
           "a": "Montenegro gehört nicht zur EU, Ihr Haustier überquert also eine internationale Grenze, aber EU-Reisende können den EU-Heimtierausweis nutzen. Sie benötigen einen ISO-Mikrochip und eine mindestens 21 Tage vor der Reise verabreichte Tollwutimpfung. Bei vollständigen Unterlagen ist keine Quarantäne erforderlich. Besucher von außerhalb der EU benötigen stattdessen ein offizielles tierärztliches Gesundheitszeugnis."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er in Kotor een 24-uursdierenarts?",
+          "a": "Nee. Kotor heeft kleine lokale klinieken met dagopeningstijden, de reisvriendelijkste is de Engelssprekende Vet Port in Skaljari (+382 69 250 781). De enige 24/7-dierenkliniek van Montenegro is Hasvet PG in de hoofdstad Podgorica, zo'n 90 minuten verderop. Sla een lokaal nummer op en bel bij een noodgeval van tevoren."
+        },
+        {
+          "q": "Welke documenten heeft mijn hond nodig om van de EU naar Montenegro te reizen?",
+          "a": "Montenegro maakt geen deel uit van de EU, dus je huisdier steekt een internationale grens over, maar EU-reizigers kunnen het EU-dierenpaspoort gebruiken. Je hebt een ISO-microchip nodig en een rabiësvaccinatie die minstens 21 dagen voor de reis is toegediend. Bij volledige documenten is geen quarantaine nodig. Bezoekers van buiten de EU hebben in plaats daarvan een officieel diergezondheidscertificaat nodig."
         }
       ]
     },
@@ -194,9 +215,13 @@
           "tipPt": "Reserve uma mesa na esplanada ao pôr do sol e peça uma taça de água ao pessoal. A brisa junto à água mantém os cães confortáveis nas noites quentes",
           "googleMapsUrl": "https://maps.google.com/?q=Galion+Restaurant+Kotor",
           "descriptionDe": "Kotors berühmtestes Restaurant direkt an der Bucht mit einer verglasten Terrasse mit Blick auf die Jachten und die von Festungen gesäumten Berge. Frischer lokaler Fisch ist die Spezialität, und die geräumige offene Terrasse ist die Art von entspanntem Uferambiente, in das ein gut erzogener Hund zu Ihren Füßen natürlich passt.",
+          "descriptionNl": "Kotors beroemdste restaurant, direct aan de baai met een glazen terras met uitzicht op de jachten en de door forten omzoomde bergen. Verse lokale vis is de specialiteit, en het ruime open terras heeft precies de ontspannen sfeer aan het water waarin een goed opgevoede hond aan je voeten natuurlijk past.",
           "petPolicyDe": "Hunde auf der Außenterrasse willkommen",
+          "petPolicyNl": "Honden welkom op het buitenterras",
           "mustTryDe": "Gegrillter frischer Fisch des Tages, Miesmuscheln aus der Bucht von Kotor (buzara)",
-          "tipDe": "Reservieren Sie einen Terrassentisch bei Sonnenuntergang und bitten Sie das Personal um einen Wassernapf. Die Meeresbrise hält Hunde an warmen Abenden angenehm kühl"
+          "mustTryNl": "Gegrilde verse vis van de dag, mosselen uit de Baai van Kotor (buzara)",
+          "tipDe": "Reservieren Sie einen Terrassentisch bei Sonnenuntergang und bitten Sie das Personal um einen Wassernapf. Die Meeresbrise hält Hunde an warmen Abenden angenehm kühl",
+          "tipNl": "Reserveer een tafel op het terras bij zonsondergang en vraag het personeel om een waterbakje. De zeebries houdt honden op warme avonden aangenaam koel"
         },
         {
           "name": "BBQ Tanjga",
@@ -224,9 +249,13 @@
           "tipPt": "Vá para a esplanada por trás do restaurante e chegue antes das 20:00 no verão. Enche depressa e as mesas com sombra são as primeiras a ocupar",
           "googleMapsUrl": "https://maps.google.com/?q=BBQ+Tanjga+Kotor",
           "descriptionDe": "Ein beliebtes, schnörkelloses Grillhaus, bekannt für riesige Portionen gegrilltes Fleisch zu ehrlichen Preisen, mit einer entspannten Hinterhof-Terrasse, auf der sich Einheimische und Reisende drängen. Die legere Außenbestuhlung und die unkomplizierte Atmosphäre machen es zu einem einfachen, hundefreundlichen Ort für eine herzhafte Mahlzeit nach einem Tag Erkundung der Bucht.",
+          "descriptionNl": "Een populaire, ongecompliceerde grillzaak, bekend om enorme porties gegrild vlees voor eerlijke prijzen, met een ontspannen achtertuinterras waar locals en reizigers samendrommen. De losse buitenbestoeling en de nuchtere sfeer maken het een simpele, hondvriendelijke plek voor een stevige maaltijd na een dag verkennen rond de baai.",
           "petPolicyDe": "Hunde auf der Außenterrasse willkommen",
+          "petPolicyNl": "Honden welkom op het buitenterras",
           "mustTryDe": "Gemischte Grillplatte, Cevapi, Pljeskavica",
-          "tipDe": "Gehen Sie hinter das Restaurant zur Terrasse und kommen Sie im Sommer vor 20:00 Uhr an. Es füllt sich schnell und die schattigen Tische sind zuerst vergeben"
+          "mustTryNl": "Gemengde grillschotel, cevapi, pljeskavica",
+          "tipDe": "Gehen Sie hinter das Restaurant zur Terrasse und kommen Sie im Sommer vor 20:00 Uhr an. Es füllt sich schnell und die schattigen Tische sind zuerst vergeben",
+          "tipNl": "Loop achterom naar het terras en kom in de zomer voor 20:00 uur. Het loopt snel vol en de tafels in de schaduw zijn er het eerst bij"
         },
         {
           "name": "Cesarica",
@@ -254,9 +283,13 @@
           "tipPt": "O interior é pequeno e pouco adequado a cães. Peça uma das mesas do beco e evite a hora de ponta do jantar, entre as 20:00 e as 21:30",
           "googleMapsUrl": "https://maps.google.com/?q=Cesarica+Restaurant+Kotor",
           "descriptionDe": "Ein rustikales, intimes Restaurant in der Altstadt, versteckt in einer ruhigen gepflasterten Gasse, das traditionelle montenegrinische und adriatische Gerichte in einem höhlenartigen Steininterieur serviert. Die wenigen Tische draußen in der Gasse sind der richtige Ort mit Hund, um die kerzenbeleuchtete mittelalterliche Straßenatmosphäre nur wenige Schritte von den Hauptplätzen entfernt zu genießen.",
+          "descriptionNl": "Een rustiek, intiem restaurant in de oude binnenstad, verscholen in een rustig geplaveid steegje, dat traditionele Montenegrijnse en Adriatische gerechten serveert in een grotachtig stenen interieur. De paar tafels buiten in het steegje zijn met hond de juiste plek om de bij kaarslicht verlichte middeleeuwse straatsfeer te ervaren, op maar een paar stappen van de hoofdpleinen.",
           "petPolicyDe": "Hunde an den Außentischen in der Gasse willkommen",
+          "petPolicyNl": "Honden welkom aan de buitentafels in het steegje",
           "mustTryDe": "Schwarzes Risotto, gegrillter Tintenfisch, lokaler Vranac-Wein",
-          "tipDe": "Der Innenraum ist klein und für Hunde nicht geeignet. Bitten Sie um einen der Gassentische und meiden Sie den geschäftigen Dinner-Höhepunkt zwischen 20:00 und 21:30 Uhr"
+          "mustTryNl": "Zwarte risotto, gegrilde inktvis, lokale Vranac-wijn",
+          "tipDe": "Der Innenraum ist klein und für Hunde nicht geeignet. Bitten Sie um einen der Gassentische und meiden Sie den geschäftigen Dinner-Höhepunkt zwischen 20:00 und 21:30 Uhr",
+          "tipNl": "Het interieur is klein en niet geschikt voor honden. Vraag om een van de tafels in het steegje en vermijd de drukke dinerpiek tussen 20:00 en 21:30 uur"
         }
       ],
       "tipsEn": [
@@ -336,7 +369,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Kotor",
+      "titleNl": "Huisdiervriendelijke restaurants in Kotor",
       "introDe": "Kotors Gastronomieszene basiert auf Terrassen im Freien, von den kerzenbeleuchteten Plätzen innerhalb der ummauerten Altstadt bis zu den luftigen Uferstischen entlang der Bucht von Kotor. In der Regel sind Hunde nicht in Kirchen, Museen oder den meisten Restaurant-Innenräumen erlaubt, aber sie sind auf den offenen Terrassen, auf denen im Sommer fast jeder isst, wirklich willkommen. In den warmen Monaten früh oder spät essen und um einen schattigen Tisch nahe einem Wassernapf bitten, den die meisten Terrassenmitarbeiter gerne bereitstellen.",
+      "introNl": "Kotors gastronomiescene draait om buitenterrassen, van de bij kaarslicht verlichte pleinen binnen de ommuurde oude binnenstad tot de luchtige tafels aan het water langs de Baai van Kotor. Honden zijn doorgaans niet toegestaan in kerken, musea of de meeste binnenruimtes van restaurants, maar op de open terrassen, waar in de zomer vrijwel iedereen eet, zijn ze echt welkom. Eet in de warme maanden vroeg of laat en vraag om een tafel in de schaduw dicht bij een waterbakje, dat de meeste terraspersoneelsleden graag klaarzetten.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Kotor erlaubt?",
@@ -349,6 +384,20 @@
         {
           "q": "Stellen Restaurants in Kotor Wassernäpfe für Hunde bereit?",
           "a": "Viele Terrassenmitarbeiter bringen auf Anfrage einen Wassernapf, besonders in den größeren Uferlokalen. Es ist ratsam, einen faltbaren Napf mitzuführen, da die Sommer in Kotor heiß sind und Schatten unerlässlich ist."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Kotor?",
+          "a": "Honden zijn welkom op de open terrassen, waar de meeste maaltijden in Kotor plaatsvinden, maar niet in de binnenruimtes van restaurants. Aangelijnde, goed opgevoede honden zijn gebruikelijk op de terrassen aan het water en op de terrassen op het plein van de oude binnenstad, vooral in de zomer."
+        },
+        {
+          "q": "Waar vind je de beste hondvriendelijke gastronomie in Kotor?",
+          "a": "De restaurants aan het water onder de muren van de oude binnenstad (zoals Galion) en de nuchtere grillterrassen in Skaljari zijn met hond het makkelijkst. Ook de terrassen op het plein en in de steegjes van de oude binnenstad verwelkomen honden, hun kleine binnenruimtes echter niet."
+        },
+        {
+          "q": "Zetten restaurants in Kotor waterbakjes klaar voor honden?",
+          "a": "Veel terraspersoneel brengt op aanvraag een waterbakje, vooral bij de grotere zaken aan het water. Het is verstandig om een opvouwbaar bakje mee te nemen, want de zomers in Kotor zijn heet en schaduw is essentieel."
         }
       ]
     },
@@ -382,8 +431,11 @@
           "tipPt": "Passeie ao nascer do sol ou depois das 18:00 no verão. Há pouca sombra e a pedra irradia calor ao meio-dia",
           "googleMapsUrl": "https://maps.google.com/?q=Dobrota+promenade+Kotor",
           "descriptionDe": "Der palmengesäumte Küstenweg, der mehrere Kilometer nördlich von Kotors Altstadt durch das Dorf Dobrota führt, ist der beste Hundespaziergang der Gegend: flach, malerisch und auf einer Seite von der ruhigen Bucht umspült. Einheimische führen hier morgens und abends ihre Hunde aus, und es gibt ruhige Steinstufen hinunter zum Wasser, an denen sich Hunde abseits der belebteren Badestellen abkühlen können.",
+          "descriptionNl": "Het door palmen omzoomde kustpad dat een paar kilometer ten noorden van Kotors oude binnenstad door het dorp Dobrota loopt, is de beste hondenwandeling van de omgeving: vlak, pittoresk en aan een kant omspoeld door de rustige baai. Locals laten hier 's ochtends en 's avonds hun honden uit, en er zijn rustige stenen trapjes naar het water waar honden kunnen afkoelen, weg van de drukkere zwemplekken.",
           "offLeashAreaDe": "Im gesamten Bereich Leine Pflicht. Ruhige Steinstufen zum Wasser ermöglichen ein kühlendes Bad",
-          "tipDe": "Gehen Sie im Sommer bei Sonnenaufgang oder nach 18:00 Uhr spazieren. Es gibt wenig Schatten, und der Stein strahlt zur Mittagszeit Hitze ab"
+          "offLeashAreaNl": "In het hele gebied aanlijnplicht. Rustige stenen trapjes naar het water maken een verkoelend bad mogelijk",
+          "tipDe": "Gehen Sie im Sommer bei Sonnenaufgang oder nach 18:00 Uhr spazieren. Es gibt wenig Schatten, und der Stein strahlt zur Mittagszeit Hitze ab",
+          "tipNl": "Wandel in de zomer bij zonsopgang of na 18:00 uur. Er is weinig schaduw, en de stenen stralen rond het middaguur hitte uit"
         },
         {
           "name": "Skaljari and Bay Foothills Trails",
@@ -405,8 +457,11 @@
           "tipPt": "Leve água nos caminhos da encosta. Não há fontes e a subida aquece depressa os cães, mesmo à sombra",
           "googleMapsUrl": "https://maps.google.com/?q=Skaljari+Kotor",
           "descriptionDe": "Hinter der Altstadt bieten die ruhigen Gassen und unteren Hangpfade oberhalb von Skaljari und Muo eine ruhigere Alternative zum belebten Ufer, mit Schatten von Olivenhainen und alten Steinmauern. Diese angeleinten Spaziergänge steigen sanft an für Buchtblicke, ohne die steilen, kostenpflichtigen Festungstreppen, und sind selbst in der Hochsaison meist leer.",
+          "descriptionNl": "Achter de oude binnenstad bieden de rustige steegjes en lagere hellingpaden boven Skaljari en Muo een rustiger alternatief voor de drukke kust, met schaduw van olijfgaarden en oude stenen muren. Deze aangelijnde wandelingen klimmen zachtjes voor uitzicht op de baai, zonder de steile, betaalde fortstrappen, en zijn zelfs in het hoogseizoen meestal leeg.",
           "offLeashAreaDe": "Leine Pflicht. Schattige Olivenhain-Gassen sind kühler als das offene Ufer",
-          "tipDe": "Bringen Sie Wasser für die Hangpfade mit. Es gibt keine Brunnen, und der Anstieg erwärmt Hunde schnell, selbst im Schatten"
+          "offLeashAreaNl": "Aanlijnplicht. Schaduwrijke steegjes tussen olijfgaarden zijn koeler dan de open kust",
+          "tipDe": "Bringen Sie Wasser für die Hangpfade mit. Es gibt keine Brunnen, und der Anstieg erwärmt Hunde schnell, selbst im Schatten",
+          "tipNl": "Neem water mee voor de hellingpaden. Er zijn geen fonteinen, en de klim verwarmt honden snel, zelfs in de schaduw"
         },
         {
           "name": "Tivat Pine Embankment (Setaliste)",
@@ -428,8 +483,11 @@
           "tipPt": "Combine o passeio com a praia pet-friendly de Kukoljina ali perto, em Tivat, para uma meia tarde ao fresco",
           "googleMapsUrl": "https://maps.google.com/?q=Tivat+pine+promenade",
           "descriptionDe": "Eine 25-minütige Fahrt um die Bucht entfernt, ist die lange, kiefernbeschattete Uferpromenade von Tivat einer der seltenen wirklich schattigen Spaziergänge im Gebiet um Kotor, vorbei an der Marina und dem Stadtpark. Die Kiefern spenden willkommenen Schutz vor der Hitze, und der breite, flache Weg ist einfach und angenehm für einen angeleinten Spaziergang, mit häufigen Bänken und Wasserzugang.",
+          "descriptionNl": "Op 25 minuten rijden om de baai heen, is de lange, door dennen beschaduwde boulevard van Tivat een van de weinige echt schaduwrijke wandelingen in het gebied rond Kotor, langs de jachthaven en het stadspark. De dennen bieden welkome bescherming tegen de hitte, en het brede, vlakke pad is eenvoudig en aangenaam voor een aangelijnde wandeling, met regelmatig bankjes en toegang tot water.",
           "offLeashAreaDe": "Leine Pflicht. Kiefernschatten macht dies zum kühlsten Tagesspaziergang im Buchtgebiet",
-          "tipDe": "Kombinieren Sie die Promenade mit dem nahegelegenen haustierfreundlichen Strand Kukoljina in Tivat für einen halbtägigen kühlen Ausflug"
+          "offLeashAreaNl": "Aanlijnplicht. Dennenschaduw maakt dit de koelste dagwandeling in het baaigebied",
+          "tipDe": "Kombinieren Sie die Promenade mit dem nahegelegenen haustierfreundlichen Strand Kukoljina in Tivat für einen halbtägigen kühlen Ausflug",
+          "tipNl": "Combineer de boulevard met het nabijgelegen huisdiervriendelijke strand Kukoljina in Tivat voor een koel dagdeeluitstapje"
         }
       ],
       "tipsEn": [
@@ -493,7 +551,9 @@
         }
       ],
       "titleDe": "Hundeparks & Spaziergänge in Kotor",
+      "titleNl": "Hondenparken & wandelingen in Kotor",
       "introDe": "Kotor selbst ist kompakt und arm an formellen Parks, doch der eigentliche Spazierweg ist das Ufer. Die flache, palmengesäumte Promenade, die von der Altstadt nordwärts nach Dobrota führt, ist der herausragende Hundespaziergang, und die umliegende Bucht sowie die Bergdörfer bieten endlose angeleinte Erkundungsmöglichkeiten. Gehen Sie in der Kühle des frühen Morgens oder Abends spazieren, da die Steinwege der Bucht im Sommer ernsthafte Hitze reflektieren.",
+      "introNl": "Kotor zelf is compact en heeft weinig formele parken, maar de echte wandelroute is de kust. De vlakke, door palmen omzoomde boulevard die van de oude binnenstad noordwaarts naar Dobrota loopt, is de opvallendste hondenwandeling, en de omliggende baai en bergdorpen bieden eindeloze aangelijnde verkenningsmogelijkheden. Wandel in de koelte van de vroege ochtend of avond, want de stenen paden van de baai kaatsen in de zomer flinke hitte terug.",
       "faqsDe": [
         {
           "q": "Gibt es Hundeparks in Kotor?",
@@ -502,6 +562,16 @@
         {
           "q": "Wo kann sich mein Hund im Sommer in der Nähe von Kotor abkühlen?",
           "a": "Ruhige Steinstufen entlang der Promenade von Dobrota führen für ein kühlendes Bad in die ruhige Bucht, und die offiziellen haustierfreundlichen Strände in Benovo (Kotor) und Kukoljina (Tivat) erlauben Schwimmen. Gehen Sie in den kühlen Morgen- oder Abendstunden spazieren."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er hondenparken in Kotor?",
+          "a": "Kotor heeft geen formele omheinde hondenparken of officiële losloopzones. De beste hondenwandeling is de vlakke boulevard van de oude binnenstad naar Dobrota, plus de rustigere dorpssteegjes achter de muren. Honden moeten aangelijnd blijven."
+        },
+        {
+          "q": "Waar kan mijn hond in de zomer afkoelen in de buurt van Kotor?",
+          "a": "Rustige stenen trapjes langs de boulevard van Dobrota leiden naar de rustige baai voor een verkoelend bad, en de officiële huisdiervriendelijke stranden in Benovo (Kotor) en Kukoljina (Tivat) staan zwemmen toe. Wandel in de koele ochtend- of avonduren."
         }
       ]
     },
@@ -627,7 +697,9 @@
         }
       ],
       "titleDe": "Mit Haustieren unterwegs in Kotor",
+      "titleNl": "Onderweg met huisdieren in Kotor",
       "introDe": "Kotor ist klein und gut zu Fuß erreichbar, daher werden die meisten Besuche mit Hund innerhalb und um die Altstadt zu Fuß erledigt. Über die Gehdistanz hinaus sind die Hauptoptionen die Blue-Line-Buchtbusse, die Autofähre Kamenari-Lepetane über die Meerenge der Bucht sowie Taxis. Bedenken Sie, dass Montenegro nicht zur EU gehört, sodass ein Grenzübertritt in jede Richtung spezifische Unterlagen für Ihr Haustier erfordert.",
+      "introNl": "Kotor is klein en goed te voet te doen, dus de meeste bezoeken met hond gebeuren te voet in en rond de oude binnenstad. Buiten loopafstand zijn de belangrijkste opties de Blue Line-baaibussen, de autoveerboot Kamenari-Lepetane over de zeeengte van de baai, en taxi's. Bedenk dat Montenegro geen EU-land is, dus een grensovergang in beide richtingen vraagt om specifieke documenten voor je huisdier.",
       "faqsDe": [
         {
           "q": "Brauche ich besondere Unterlagen, um meinen Hund nach Kotor mitzubringen?",
@@ -640,6 +712,20 @@
         {
           "q": "Können Hunde mit der Fähre Kamenari-Lepetane fahren?",
           "a": "Ja. Die kurze Autofähre über die Meerenge der Bucht befördert Fahrzeuge und deren Insassen, sodass Ihr Hund während der wenigen Minuten der Überfahrt im oder neben dem Auto bleibt. Angeleinte Hunde sind auch auf dem offenen Deck kein Problem."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Heb ik speciale documenten nodig om mijn hond mee te nemen naar Kotor?",
+          "a": "Ja. Montenegro maakt geen deel uit van de EU, dus je huisdier heeft een ISO-microchip nodig, een actuele rabiësvaccinatie die minstens 21 dagen voor de reis is toegediend, en een actueel gezondheidscertificaat. EU-huisdieren gebruiken het EU-dierenpaspoort; huisdieren van buiten de EU hebben een officieel gezondheidscertificaat nodig. Terugkeer naar de EU is een aparte terugkeer van buiten de EU, controleer dus de regels van je thuisland."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen in de bussen rond de Baai van Kotor?",
+          "a": "De Blue Line-baaibussen accepteren huisdieren in een gesloten, lekvrije transportbox, grotere honden naar goeddunken van de chauffeur. Voor een grote hond is een vooraf geboekte taxi meestal praktischer dan de bus."
+        },
+        {
+          "q": "Kunnen honden mee op de veerboot Kamenari-Lepetane?",
+          "a": "Ja. De korte autoveerboot over de zeeengte van de baai vervoert voertuigen en hun inzittenden, dus je hond blijft tijdens de paar minuten van de overtocht in of naast de auto. Aangelijnde honden zijn ook op het open dek geen probleem."
         }
       ]
     },
@@ -725,7 +811,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände bei Kotor",
+      "titleNl": "Hondvriendelijke stranden bij Kotor",
       "introDe": "Die meisten ausgestatteten, organisierten Strände entlang der Bucht von Kotor verbieten Hunde während der Sommersaison, doch Montenegros Tourismusverband weist offizielle haustierfreundliche Strände aus, an denen Hunde schwimmen dürfen. Im Gebiet der Bucht von Kotor sind die beiden offiziellen Strände Benovo in Kotor und Kukoljina im nahen Tivat. Außerhalb der Hochsaison werden Hunde an deutlich mehr ruhigen Abschnitten der Bucht toleriert.",
+      "introNl": "De meeste uitgeruste, georganiseerde stranden langs de Baai van Kotor verbieden honden tijdens het zomerseizoen, maar de Montenegrijnse toeristenorganisatie wijst officiële huisdiervriendelijke stranden aan waar honden mogen zwemmen. In het gebied van de Baai van Kotor zijn dat de twee officiële stranden Benovo in Kotor en Kukoljina in het nabijgelegen Tivat. Buiten het hoogseizoen worden honden op aanzienlijk meer rustige delen van de baai getolereerd.",
       "faqsDe": [
         {
           "q": "Gibt es einen Hundestrand in der Nähe von Kotor?",
@@ -734,6 +822,16 @@
         {
           "q": "Dürfen Hunde im Sommer an die Strände der Bucht von Kotor?",
           "a": "Die meisten organisierten, ausgestatteten Strände rund um die Bucht verbieten Hunde während der Sommersaison. Bleiben Sie bei den offiziellen haustierfreundlichen Stränden (Benovo und Kukoljina) oder ruhigen, nicht ausgestatteten Stellen mit Steinstufen wie der Uferpromenade von Dobrota. Baden und schwimmen Sie immer in den kühleren Morgen- oder Abendstunden."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een hondenstrand in de buurt van Kotor?",
+          "a": "Ja. De Montenegrijnse toeristenorganisatie wijst Benovo in Kotor aan als officieel huisdiervriendelijk strand, evenals Kukoljina in het nabijgelegen Tivat. Daar mogen honden tijdens het zomerseizoen legaal zwemmen, terwijl de meeste uitgeruste stranden ze verbieden."
+        },
+        {
+          "q": "Mogen honden 's zomers naar de stranden van de Baai van Kotor?",
+          "a": "De meeste georganiseerde, uitgeruste stranden rond de baai verbieden honden tijdens het zomerseizoen. Blijf bij de officiële huisdiervriendelijke stranden (Benovo en Kukoljina) of rustige, onuitgeruste plekken met stenen trapjes zoals de boulevard van Dobrota. Baad en zwem altijd in de koelere ochtend- of avonduren."
         }
       ]
     },
@@ -850,7 +948,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Tipps für Kotor",
+      "titleNl": "Hondvriendelijke tips voor Kotor",
       "introDe": "Kotor ist eine entspannte, gut zu Fuß erreichbare Buchtstadt, in der angeleinte Hunde ein gewohnter Anblick am Ufer und auf den offenen Café-Terrassen sind. Die beiden Dinge, um die man planen sollte, sind die heftige Sommerhitze, die von den Steinen der Altstadt reflektiert wird, und der Umstand, dass Montenegro außerhalb der EU liegt, sodass etwas Vorbereitung eine Reise hierher mit Hund einfach und lohnend macht.",
+      "introNl": "Kotor is een ontspannen, goed te voet te doen baaistad, waar aangelijnde honden een vertrouwd gezicht zijn aan de kust en op de open caféterrassen. De twee dingen waar je rekening mee moet houden, zijn de stevige zomerhitte die door de stenen van de oude binnenstad wordt teruggekaatst, en het feit dat Montenegro buiten de EU ligt, waardoor wat voorbereiding een reis hierheen met hond eenvoudig en de moeite waard maakt.",
       "faqsDe": [
         {
           "q": "Ist Kotor gut für Hunde geeignet?",
@@ -863,6 +963,20 @@
         {
           "q": "Dürfen Hunde in Kotors Kirchen und Museen mit hinein?",
           "a": "Nein. Hunde sind in Kirchen, Museen oder den meisten Restaurant-Innenräumen in Kotor nicht erlaubt. Sie sind auf den offenen Café-Terrassen, entlang des Ufers und durch die Straßen und Plätze der Altstadt wirklich willkommen, wo ohnehin der Großteil der Besichtigungen stattfindet."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Kotor goed geschikt voor honden?",
+          "a": "Ja, met wat planning. Kotor is compact, goed te voet te doen en gewend aan honden aan de kust en op de caféterrassen, met twee officiële hondenstranden in de buurt. De belangrijkste beperkingen zijn de zomerhitte op de stenen straten, de aanlijnplicht en de grensformaliteiten buiten de EU. Plan wandelingen voor de koele uren, en jij en je hond zullen een geweldige tijd hebben."
+        },
+        {
+          "q": "Wat moet ik inpakken voor een reis naar Kotor met mijn hond?",
+          "a": "Neem je EU-dierenpaspoort of het gezondheidscertificaat van buiten de EU mee, bewijs van een ISO-microchip en de rabiësvaccinatie, een lijn, poepzakjes en vooral een opvouwbaar waterbakje plus genoeg water voor de hete, fonteinarme straten. Een koelmat en een voorraad eventuele medicijnen zijn in het hoogzomerseizoen verstandig."
+        },
+        {
+          "q": "Mogen honden mee naar binnen in Kotors kerken en musea?",
+          "a": "Nee. Honden zijn niet toegestaan in kerken, musea of de meeste binnenruimtes van restaurants in Kotor. Ze zijn echt welkom op de open caféterrassen, langs de kust en door de straten en pleinen van de oude binnenstad, waar het merendeel van het bezichtigen toch al plaatsvindt."
         }
       ]
     },
@@ -899,9 +1013,13 @@
           "tipPt": "Explore a cidade velha e as muralhas norte gratuitas de manhã cedo antes do calor e das multidões dos cruzeiros, e leve água para as ruelas de pedra",
           "googleMapsUrl": "https://maps.google.com/?q=Kotor+Old+Town",
           "descriptionDe": "Kotors UNESCO-gelistete Altstadt ist ein Labyrinth aus Marmorgassen, Plätzen und venezianischen Palästen, alles mit angeleintem Hund begehbar. Während der kostenpflichtige 1.350-Stufen-Festungspfad hinauf zu San Giovanni keine Hunde erlaubt, kann der kostenlose Abschnitt der Stadtmauern entlang des Flusses Scurda und des nördlichen Buchtrandes mit Ihrem Hund erkundet werden, für einen Vorgeschmack auf die Wehrgänge und die Ausblicke.",
+          "descriptionNl": "Kotors op de UNESCO-lijst staande oude binnenstad is een doolhof van marmeren steegjes, pleinen en Venetiaanse paleizen, allemaal te belopen met aangelijnde hond. Terwijl het betaalde fortpad van 1.350 treden naar San Giovanni geen honden toelaat, kan het gratis deel van de stadsmuren langs de rivier de Scurda en de noordelijke rand van de baai wel met je hond worden verkend, voor een voorproefje van de weergangen en de uitzichten.",
           "dogPolicyDe": "Hunde angeleint auf den Straßen der gesamten Altstadt willkommen; nicht erlaubt auf dem kostenpflichtigen Festungspfad oder in Kirchen/Museen",
+          "dogPolicyNl": "Honden aangelijnd welkom op de straten van de hele oude binnenstad; niet toegestaan op het betaalde fortpad of in kerken/musea",
           "admissionFeeDe": "Altstadt kostenlos; kostenpflichtiger Festungspfad (Hunde nicht erlaubt) ca. 8-15 EUR",
-          "tipDe": "Erkunden Sie die Altstadt und die kostenlosen nördlichen Mauern früh morgens vor der Hitze und den Kreuzfahrtgruppen, und tragen Sie Wasser für die Steingassen mit sich"
+          "admissionFeeNl": "Oude binnenstad gratis; betaald fortpad (honden niet toegestaan) ca. 8-15 EUR",
+          "tipDe": "Erkunden Sie die Altstadt und die kostenlosen nördlichen Mauern früh morgens vor der Hitze und den Kreuzfahrtgruppen, und tragen Sie Wasser für die Steingassen mit sich",
+          "tipNl": "Verken de oude binnenstad en de gratis noordelijke muren vroeg in de ochtend voor de hitte en de cruisegroepen, en neem water mee voor de stenen steegjes"
         },
         {
           "name": "Perast waterfront & Old Town",
@@ -926,9 +1044,13 @@
           "tipPt": "Estacione à entrada da aldeia e entre a pé, pois Perast é sem carros. O passeio plano e sombreado é muito mais fresco sob as patas do que a cidade velha de pedra de Kotor",
           "googleMapsUrl": "https://maps.google.com/?q=Perast+Montenegro",
           "descriptionDe": "Eine kurze Fahrt oder Bootsfahrt die Bucht hinauf entfernt, ist Perast ein winziges, autofreies Barockdorf entlang einer verkehrsfreien Uferpromenade von etwa einem Kilometer, gesäumt von Steinpalästen und Kirchen. Es ist einer der entspanntesten Hundespaziergänge in der gesamten Bucht: flach, malerisch und ruhig, mit Café-Terrassen, auf denen ein angeleinter Hund willkommen ist, und Ausblicken auf die berühmten Inselkirchen.",
+          "descriptionNl": "Op korte afstand rijden of varen de baai op, is Perast een piepklein, autovrij barokdorp langs een verkeersvrije boulevard van ongeveer een kilometer, omzoomd door stenen paleizen en kerken. Het is een van de meest ontspannen hondenwandelingen in de hele baai: vlak, pittoresk en rustig, met caféterrassen waar een aangelijnde hond welkom is, en uitzicht op de beroemde eilandkerkjes.",
           "dogPolicyDe": "Angeleinte Hunde willkommen entlang der Promenade und auf Café-Terrassen; nicht in den Inselkirchen",
+          "dogPolicyNl": "Aangelijnde honden welkom langs de boulevard en op caféterrassen; niet in de eilandkerkjes",
           "admissionFeeDe": "Kostenlos, um das Dorf und die Promenade zu begehen",
-          "tipDe": "Parken Sie am Dorfeingang und gehen Sie hinein, da Perast autofrei ist. Die flache, schattige Promenade ist unter den Füßen deutlich kühler als Kotors steinerne Altstadt"
+          "admissionFeeNl": "Gratis om het dorp en de boulevard te belopen",
+          "tipDe": "Parken Sie am Dorfeingang und gehen Sie hinein, da Perast autofrei ist. Die flache, schattige Promenade ist unter den Füßen deutlich kühler als Kotors steinerne Altstadt",
+          "tipNl": "Parkeer bij de dorpsingang en loop naar binnen, want Perast is autovrij. De vlakke, schaduwrijke boulevard is onder de voeten duidelijk koeler dan Kotors stenen oude binnenstad"
         },
         {
           "name": "Bay of Kotor private boat tour",
@@ -953,9 +1075,13 @@
           "tipPt": "Reserve um charter privado e confirme o cão na reserva. Vá cedo ou ao fim do dia para água calma e temperaturas mais frescas no convés",
           "googleMapsUrl": "https://maps.google.com/?q=Kotor+boat+tours",
           "descriptionDe": "Die fjordartige Bucht von Kotor vom Wasser aus zu sehen, ist das Wahrzeichen-Erlebnis der Gegend, mit Blick auf Perast, die Inselkirche Unserer Lieben Frau von den Felsen und die dramatischen Bergwände. Große Gruppentouren nehmen selten Haustiere mit, aber private Charterboote entlang des Ufers von Kotor und Perast befördern nach Absprache einen Hund, was Ihnen eine ruhige, flexible Fahrt ermöglicht, bei der Ihr Hund an Ihrer Seite bleiben kann.",
+          "descriptionNl": "De fjordachtige Baai van Kotor vanaf het water zien is de topervaring van de omgeving, met uitzicht op Perast, het eilandkerkje Onze-Lieve-Vrouw-van-de-Rotsen en de dramatische bergwanden. Grote groepstours nemen zelden huisdieren mee, maar particuliere chartervaartuigen langs de kust van Kotor en Perast vervoeren in overleg een hond, zodat je een rustige, flexibele tocht hebt waarbij je hond aan je zijde kan blijven.",
           "dogPolicyDe": "Hunde nur auf privaten Charterbooten erlaubt (im Voraus vereinbaren); nicht bei Standard-Gruppentouren",
+          "dogPolicyNl": "Honden alleen toegestaan op particuliere chartervaartuigen (van tevoren afspreken); niet bij standaard groepstours",
           "admissionFeeDe": "Je nach Anbieter unterschiedlich; privates Charterboot ab ca. 60-100 EUR/Stunde",
-          "tipDe": "Buchen Sie ein privates Charterboot und bestätigen Sie den Hund bei der Reservierung. Fahren Sie früh oder spät am Tag für ruhiges Wasser und kühlere Temperaturen an Deck"
+          "admissionFeeNl": "Varieert per aanbieder; particulier chartervaartuig vanaf ca. 60-100 EUR/uur",
+          "tipDe": "Buchen Sie ein privates Charterboot und bestätigen Sie den Hund bei der Reservierung. Fahren Sie früh oder spät am Tag für ruhiges Wasser und kühlere Temperaturen an Deck",
+          "tipNl": "Boek een particulier chartervaartuig en bevestig de hond bij de reservering. Vaar vroeg of laat op de dag voor rustig water en koelere temperaturen aan dek"
         }
       ],
       "tipsEn": [
@@ -1011,11 +1137,19 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Kotor",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Kotor",
       "introDe": "Die Sehenswürdigkeiten von Kotor liegen meist im Freien und sind angeleint leicht zu besichtigen. Die ummauerte Altstadt, die Bucht von Kotor selbst und das barocke Dorf Perast sind alle mit Hund begehbar, auch wenn Innenräume wie Kirchen und Museen sowie der kostenpflichtige Festungspfad tabu sind. Das Herz der Bucht im Freien ist dort, wo Sie und Ihr Hund die beste Zeit verbringen werden.",
+      "introNl": "De bezienswaardigheden van Kotor liggen grotendeels buiten en zijn aangelijnd gemakkelijk te bezoeken. De ommuurde oude binnenstad, de Baai van Kotor zelf en het barokke dorp Perast zijn allemaal te belopen met hond, ook al zijn binnenruimtes zoals kerken en musea, en het betaalde fortpad, taboe. Het hart van de baai buiten is waar jij en je hond de beste tijd zullen doorbrengen.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund mit zur Festung von Kotor nehmen?",
           "a": "Nein. Der kostenpflichtige 1.350-Stufen-Pfad die Stadtmauern hinauf zur Festung San Giovanni (St. Johannes) erlaubt keine Hunde. Der kostenlose Abschnitt der Stadtmauern entlang des Flusses Scurda und des nördlichen Buchtrandes kann jedoch mit angeleintem Hund begangen werden, und die gesamte Altstadt unterhalb ist angeleint hundefreundlich."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen naar het fort van Kotor?",
+          "a": "Nee. Het betaalde pad van 1.350 treden langs de stadsmuren naar het fort San Giovanni (Sint-Jan) laat geen honden toe. Het gratis deel van de stadsmuren langs de rivier de Scurda en de noordelijke rand van de baai kan echter met aangelijnde hond worden belopen, en de hele oude binnenstad eronder is aangelijnd hondvriendelijk."
         }
       ]
     },
@@ -1050,8 +1184,11 @@
           "tipEs": "Contacta a un cuidador por la plataforma antes de reservar y confirma el tamaño de tu perro, y reserva pronto en verano cuando la disponibilidad local es limitada",
           "tipPt": "Contacte um cuidador pela plataforma antes de reservar e confirme o tamanho do seu cão, e reserve cedo no verão, quando a disponibilidade local é limitada",
           "descriptionDe": "PetBacker ist eine internationale Plattform für Haustierbetreuung mit aktiven Sittern rund um Kotor und die weitere Bucht, einschließlich Unterbringung im Privathaushalt nahe Prcanj. Für Reisende ist es eine der zuverlässigsten Möglichkeiten, einen lokalen Sitter, Hundeausführer oder Gastgeber für die Übernachtungsunterbringung zu finden, während Sie Innenraum-Sehenswürdigkeiten besuchen oder einen Ausflug ohne Hund unternehmen. Über die Plattform vorgenommene und bezahlte Buchungen beinhalten Zahlungsschutz, eine Versicherung für Verletzungen des Haustiers und Foto-Updates.",
+          "descriptionNl": "PetBacker is een internationaal platform voor huisdierverzorging met actieve oppassers rond Kotor en de bredere baai, inclusief opvang bij particulieren dicht bij Prcanj. Voor reizigers is het een van de betrouwbaarste manieren om een lokale oppas, hondenuitlater of gastheer voor overnachting te vinden terwijl je binnenbezienswaardigheden bezoekt of een uitstapje zonder hond maakt. Boekingen die via het platform worden gemaakt en betaald, bieden betalingsbescherming, een verzekering voor letsel van het huisdier en foto-updates.",
           "serviceTypeDe": "App- und Web-Buchung. Haustierbetreuung, Hundeausführen, Unterbringung im Privathaushalt",
-          "tipDe": "Schreiben Sie einem Sitter über die Plattform, bevor Sie buchen, und bestätigen Sie die Größe Ihres Hundes, buchen Sie dann früh im Sommer, wenn die lokale Verfügbarkeit begrenzt ist"
+          "serviceTypeNl": "App- en webboeking. Huisdierverzorging, hond uitlaten, opvang bij particulieren",
+          "tipDe": "Schreiben Sie einem Sitter über die Plattform, bevor Sie buchen, und bestätigen Sie die Größe Ihres Hundes, buchen Sie dann früh im Sommer, wenn die lokale Verfügbarkeit begrenzt ist",
+          "tipNl": "Schrijf een oppas via het platform aan voordat je boekt, en bevestig de grootte van je hond, boek daarna vroeg in de zomer, wanneer de lokale beschikbaarheid beperkt is"
         },
         {
           "name": "TrustedHousesitters Kotor",
@@ -1073,8 +1210,11 @@
           "tipEs": "Organiza un cuidador mucho antes del viaje, ya que los emparejamientos de housesitting se acuerdan con antelación y no a última hora, y los mejores cuidadores de Kotor se reservan pronto",
           "tipPt": "Organize um cuidador bem antes da viagem, pois as correspondências de housesitting combinam-se com antecedência e não à última hora, e os melhores cuidadores de Kotor reservam-se cedo",
           "descriptionDe": "TrustedHousesitters betreibt ein Netzwerk geprüfter Sitter in und um Kotor und arbeitet mit einem Mitgliedschaftsmodell, bei dem Sitter sich um Ihr Haustier kümmern im Austausch für Unterkunft statt einer Tagesgebühr. Es eignet sich eher für längere Aufenthalte und hausbasierte Arrangements als für eine kurze, wenige Stunden dauernde Buchung, und ist eine gute Option, wenn Sie eine Wohnung in der Bucht gemietet haben und einen geprüften Sitter suchen, der bei Ihrem Hund bleibt. Sitter werden per Ausweis geprüft und bewertet.",
+          "descriptionNl": "TrustedHousesitters beheert een netwerk van geverifieerde oppassers in en rond Kotor en werkt met een lidmaatschapsmodel waarbij oppassers voor je huisdier zorgen in ruil voor onderdak in plaats van een dagtarief. Het is geschikter voor langere verblijven en huisgebonden regelingen dan voor een korte boeking van een paar uur, en is een goede optie als je een appartement in de baai hebt gehuurd en een geverifieerde oppas zoekt die bij je hond blijft. Oppassers worden op identiteit gecontroleerd en beoordeeld.",
           "serviceTypeDe": "Mitgliedschaftsplattform. Betreuung im eigenen Zuhause, Unterbringung (keine Tagesgebühr)",
-          "tipDe": "Organisieren Sie einen Sitter gut vor Ihrer Reise, da Housesitting-Vereinbarungen im Voraus statt kurzfristig getroffen werden und die besten Sitter in Kotor schnell ausgebucht sind"
+          "serviceTypeNl": "Lidmaatschapsplatform. Verzorging bij jou thuis, opvang (geen dagtarief)",
+          "tipDe": "Organisieren Sie einen Sitter gut vor Ihrer Reise, da Housesitting-Vereinbarungen im Voraus statt kurzfristig getroffen werden und die besten Sitter in Kotor schnell ausgebucht sind",
+          "tipNl": "Regel ruim voor je reis een oppas, want housesitting-afspraken worden vooraf gemaakt in plaats van op het laatste moment, en de beste oppassers in Kotor zitten snel vol"
         }
       ],
       "tipsEn": [
@@ -1126,11 +1266,19 @@
         }
       ],
       "titleDe": "Hundesitter & Haustierpflege in Kotor",
+      "titleNl": "Hondenoppas & huisdierverzorging in Kotor",
       "introDe": "Kotor ist eine kleine Stadt ohne eigene Hundetagesstätten-Ketten, daher funktioniert die Haustierbetreuung hier hauptsächlich über internationale Buchungsplattformen, die Sie mit lokalen Sittern rund um die Bucht verbinden. Das ist praktisch, wenn Sie eine Innenraum-Sehenswürdigkeit wie eine Kirche oder ein Museum besuchen, den kostenpflichtigen Festungspfad nehmen oder ein langes Abendessen im Innenbereich genießen möchten, bei dem Hunde nicht erlaubt sind.",
+      "introNl": "Kotor is een kleine stad zonder eigen ketens van hondendagverblijven, dus huisdierverzorging verloopt hier vooral via internationale boekingsplatforms die je verbinden met lokale oppassers rond de baai. Dat is handig als je een binnenbezienswaardigheid zoals een kerk of museum wilt bezoeken, het betaalde fortpad wilt nemen, of van een lang diner binnen wilt genieten waar honden niet zijn toegestaan.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Hundesitter in Kotor?",
           "a": "Kotor hat keine großen Tagesstätten-Zentren, daher ist der einfachste Weg eine internationale Plattform wie PetBacker oder TrustedHousesitters, die Sie mit geprüften lokalen Sittern rund um die Bucht für Spaziergänge, Tagesbetreuung oder Übernachtungsunterbringung verbinden. Buchen Sie im Voraus, besonders in der geschäftigen Saison von Juli bis August, wenn die lokale Verfügbarkeit begrenzt ist."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe vind ik een hondenoppas in Kotor?",
+          "a": "Kotor heeft geen grote dagverblijfcentra, dus de eenvoudigste manier is een internationaal platform zoals PetBacker of TrustedHousesitters, die je verbinden met geverifieerde lokale oppassers rond de baai voor wandelingen, dagopvang of overnachting. Boek van tevoren, vooral in het drukke seizoen van juli tot augustus, wanneer de lokale beschikbaarheid beperkt is."
         }
       ]
     }

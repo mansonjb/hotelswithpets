@@ -41,9 +41,13 @@
           "tipPt": "O jardim enche depressa nas tardes de sol; chegue cedo ou sente-se na ponta mais tranquila em direção à vila para ter espaço com um cão.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Fort+Inn+Newquay",
           "descriptionDe": "Ein großer, freundlicher Pub im Stadtzentrum mit einem sonnigen Garten und Blick hinunter zum Hafen und zum Atlantik, bekannt dafür, wirklich hundevernarrt zu sein. Das Personal macht viel Aufhebens um zu Besuch kommende Hunde und hält Wassernäpfe und Leckerlis hinter der Bar bereit, und es gibt reichlich Platz, um sich zu Füßen niederzulassen.",
+          "descriptionNl": "Een grote, gezellige pub in het stadscentrum met een zonnige tuin en uitzicht naar beneden op de haven en de Atlantische Oceaan, bekend om echt hondengek te zijn. Het personeel maakt veel drukte om binnenlopende honden en houdt waterbakjes en snoepjes achter de bar klaar, en er is volop ruimte om aan je voeten te gaan liggen.",
           "petPolicyDe": "Hunde in Bar und Garten an der Leine willkommen.",
+          "petPolicyNl": "Honden welkom in de bar en tuin aan de lijn.",
           "mustTryDe": "Ein cornisches Ale auf der Gartenterrasse nach einem Strandspaziergang",
-          "tipDe": "Der Garten füllt sich an sonnigen Nachmittagen schnell; kommen Sie früh oder essen Sie am ruhigeren Ende Richtung Stadt für mehr Platz mit Hund."
+          "mustTryNl": "Een Cornish ale op het tuinterras na een strandwandeling",
+          "tipDe": "Der Garten füllt sich an sonnigen Nachmittagen schnell; kommen Sie früh oder essen Sie am ruhigeren Ende Richtung Stadt für mehr Platz mit Hund.",
+          "tipNl": "De tuin loopt op zonnige middagen snel vol; kom vroeg of eet aan de rustigere kant richting de stad voor meer ruimte met een hond."
         },
         {
           "name": "Red Lion Newquay",
@@ -71,9 +75,13 @@
           "tipPt": "O jardim tem as melhores vistas mas pouca sombra, por isso leve água nos dias de calor e arranje mesa cedo no verão.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Red+Lion+Newquay+North+Quay+Hill",
           "descriptionDe": "Ein traditioneller Pub oberhalb des Hafens von Newquay mit einem Biergarten, der auf den arbeitenden Kai und die Bucht blickt. Wohlerzogene Hunde sind in Bar und Garten willkommen, oft mit einem gratis Leckerli, was ihn zu einem klassischen Ort macht, um einen Hafen- oder Küstenpfad-Spaziergang zu beenden.",
+          "descriptionNl": "Een traditionele pub boven de haven van Newquay met een biertuin met uitzicht op de werkende kade en de baai. Brave honden zijn welkom in de bar en tuin, vaak met een gratis snoepje, waardoor het een klassieke plek is om een haven- of kustpadwandeling af te sluiten.",
           "petPolicyDe": "Hunde in Bar und Biergarten an der Leine willkommen.",
+          "petPolicyNl": "Honden welkom in de bar en biertuin aan de lijn.",
           "mustTryDe": "Ein Pint im Biergarten mit Hafenblick",
-          "tipDe": "Der Garten hat den besten Blick, aber wenig Schatten, bringen Sie an heißen Tagen Wasser mit und sichern Sie sich im Sommer früh einen Tisch."
+          "mustTryNl": "Een pint in de biertuin met uitzicht op de haven",
+          "tipDe": "Der Garten hat den besten Blick, aber wenig Schatten, bringen Sie an heißen Tagen Wasser mit und sichern Sie sich im Sommer früh einen Tisch.",
+          "tipNl": "De tuin heeft het beste uitzicht, maar weinig schaduw, neem op warme dagen water mee en bemachtig 's zomers vroeg een tafel."
         },
         {
           "name": "Sea Spray",
@@ -101,9 +109,13 @@
           "tipPt": "Fistral admite cães todo o ano, por isso combine uma refeição aqui com um passeio na praia em vez das praias da vila restringidas em pleno verão.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sea+Spray+Fistral+Newquay",
           "descriptionDe": "Ein entspanntes Café und Restaurant direkt am Meer, einen kurzen Spaziergang vom Fistral Beach entfernt, mit Brunch, Burgern und Kaffee bei Meerblick. Hunde sind willkommen, was es zu einem einfachen Zwischenstopp vor oder nach einem Spaziergang am Fistral macht, wo Hunde ganzjährig erlaubt sind.",
+          "descriptionNl": "Een ontspannen café en restaurant direct aan zee, een korte wandeling van Fistral Beach, met brunch, burgers en koffie met zeezicht. Honden zijn welkom, waardoor het een makkelijke tussenstop is voor of na een wandeling bij Fistral, waar honden het hele jaar zijn toegestaan.",
           "petPolicyDe": "Hunde willkommen; bitten Sie um die Terrasse oder einen Tisch nahe der Tür.",
+          "petPolicyNl": "Honden welkom; vraag om het terras of een tafel bij de deur.",
           "mustTryDe": "Brunch mit Kaffee vor einem Spaziergang am Fistral",
-          "tipDe": "Am Fistral sind Hunde ganzjährig erlaubt, kombinieren Sie also ein Essen hier mit einem Strandspaziergang statt mit den saisonal eingeschränkten Stadtstränden im Hochsommer."
+          "mustTryNl": "Brunch met koffie voor een wandeling bij Fistral",
+          "tipDe": "Am Fistral sind Hunde ganzjährig erlaubt, kombinieren Sie also ein Essen hier mit einem Strandspaziergang statt mit den saisonal eingeschränkten Stadtstränden im Hochsommer.",
+          "tipNl": "Bij Fistral zijn honden het hele jaar toegestaan, combineer een maaltijd hier dus met een strandwandeling in plaats van met de seizoensgebonden stadsstranden in hoogzomer."
         }
       ],
       "tipsEn": [
@@ -167,7 +179,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Newquay",
+      "titleNl": "Hondvriendelijke restaurants in Newquay",
       "introDe": "Newquay ist eine entspannte Surfstadt, die Hunde völlig selbstverständlich nimmt, und die Ansammlung von Pubs über dem Hafen ist der einfachste Ort, um dort mit Hund essen zu gehen. Viele Bars haben einen Wassernapf an der Tür und geben Leckerlis aus, und die Strandcafés Richtung Fistral heißen Hunde auf ihren Terrassen willkommen, sodass ein Hund selten draußen warten muss.",
+      "introNl": "Newquay is een ontspannen surfstad die honden volkomen vanzelfsprekend vindt, en de reeks pubs boven de haven is de makkelijkste plek om er met een hond te gaan eten. Veel bars hebben een waterbakje bij de deur en delen snoepjes uit, en de strandcafés richting Fistral heten honden welkom op hun terrassen, waardoor een hond zelden buiten hoeft te wachten.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Pubs und Restaurants in Newquay erlaubt?",
@@ -176,6 +190,16 @@
         {
           "q": "Kann ich mit meinem Hund am Strand in Newquay essen?",
           "a": "Ja. Cafés in der Nähe von Fistral, wo Hunde ganzjährig erlaubt sind, sind die einfachste Wahl. An den saisonal eingeschränkten Stadtstränden legen Sie den Besuch eines Strandcafés um einen frühmorgendlichen oder abendlichen Spaziergang herum, oder gehen Sie zu einem Hafenpub, wo Hunde immer willkommen sind."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in pubs en restaurants in Newquay?",
+          "a": "Ja, grotendeels. Newquay is een ontspannen surfstad, en de meeste havenpubs, zoals The Fort Inn en de Red Lion, heten honden welkom in de bar en tuin, vaak met een snoepje. Ook de strandcafés richting Fistral nemen honden op hun terrassen aan."
+        },
+        {
+          "q": "Kan ik met mijn hond eten op het strand in Newquay?",
+          "a": "Ja. Cafés bij Fistral, waar honden het hele jaar zijn toegestaan, zijn de makkelijkste keuze. Bij de seizoensgebonden stadsstranden plan je een bezoek aan een strandcafé rond een vroege ochtend- of avondwandeling, of ga je naar een havenpub, waar honden altijd welkom zijn."
         }
       ]
     },
@@ -209,8 +233,11 @@
           "tipPt": "Combine-o com um passeio por Fistral, onde se admitem cães todo o ano, para um circuito que nenhuma proibição de verão de praia pode tocar.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pentire+Headland+Newquay",
           "descriptionDe": "Die grasbewachsene Landzunge jenseits des Gannel von Fistral aus, durchzogen vom South West Coast Path und mit weiten Atlantikblicken über Crantock und die Bucht. Sie ist ganzjährig für Hunde geöffnet und bietet einen kurzen, dramatischen Spaziergang direkt vom Stadtrand aus, mit Klippenpfaden und Surfern weit unten.",
+          "descriptionNl": "De grasbegroeide landtong voorbij de Gannel vanaf Fistral, doorkruist door het South West Coast Path en met wijds Atlantisch uitzicht over Crantock en de baai. Ze is het hele jaar open voor honden en biedt een korte, dramatische wandeling direct vanaf de rand van de stad, met klifpaden en surfers ver beneden.",
           "offLeashAreaDe": "Halten Sie Hunde an der Leine in der Nähe der Klippenkanten, die stellenweise steil und unbefestigt sind, sowie in der Nähe von weidendem Vieh auf der Landzunge.",
-          "tipDe": "Kombinieren Sie es mit einem Spaziergang am Fistral, wo Hunde ganzjährig erlaubt sind, für eine Runde, die kein sommerliches Strandverbot berührt."
+          "offLeashAreaNl": "Houd honden aan de lijn in de buurt van klifranden, die op plekken steil en onverhard zijn, en in de buurt van grazend vee op de landtong.",
+          "tipDe": "Kombinieren Sie es mit einem Spaziergang am Fistral, wo Hunde ganzjährig erlaubt sind, für eine Runde, die kein sommerliches Strandverbot berührt.",
+          "tipNl": "Combineer het met een wandeling bij Fistral, waar honden het hele jaar zijn toegestaan, voor een ronde die geen last heeft van het zomerse strandverbod."
         },
         {
           "name": "The Gannel Estuary",
@@ -232,8 +259,11 @@
           "tipPt": "Verifique as horas da maré antes de ir; o estuário enche depressa e as travessias de maré baixa desaparecem rapidamente.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Gannel+Estuary+Newquay",
           "descriptionDe": "Eine wunderschöne Gezeiten-Flussmündung, die Newquay von Crantock trennt, mit sandigen Ufern, Fußwegen und Überquerungen bei Ebbe, die Hunde lieben. Sie ist ganzjährig für Hunde geöffnet und bietet eine ruhige, geschützte Alternative zur offenen Küste, mit Vogelleben auf den Wattflächen und einem echten Gefühl von Wildnis nur wenige Minuten von der Stadt entfernt.",
+          "descriptionNl": "Een prachtige getijdenriviermonding die Newquay van Crantock scheidt, met zandige oevers, voetpaden en oversteekplaatsen bij eb waar honden dol op zijn. Ze is het hele jaar open voor honden en biedt een rustig, beschut alternatief voor de open kust, met vogels op de wadplaten en een echt gevoel van wildernis op maar een paar minuten van de stad.",
           "offLeashAreaDe": "Hunde können unter enger Kontrolle auf den offenen Ufern frei laufen; achten Sie auf die schnell einströmende Flut und die Strömungen, und leinen Sie in der Nähe von Wildtieren und Weideland an.",
-          "tipDe": "Prüfen Sie vor dem Losgehen die Gezeitenzeiten; die Flussmündung überflutet schnell, und die Überquerungen bei Ebbe verschwinden rasch."
+          "offLeashAreaNl": "Honden mogen onder strikte controle vrij lopen op de open oevers; let op de snel opkomende vloed en de stromingen, en lijn ze aan in de buurt van wilde dieren en weidegrond.",
+          "tipDe": "Prüfen Sie vor dem Losgehen die Gezeitenzeiten; die Flussmündung überflutet schnell, und die Überquerungen bei Ebbe verschwinden rasch.",
+          "tipNl": "Controleer voor vertrek de getijdentijden; de riviermonding overstroomt snel, en de oversteekplaatsen bij eb verdwijnen snel."
         },
         {
           "name": "Trenance Gardens",
@@ -255,8 +285,11 @@
           "tipPt": "Uma opção prática com chuva ou calor, com sombra sob as árvores e caminhos planos quando a costa está demasiado ventosa para um cão pequeno.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trenance+Gardens+Newquay",
           "descriptionDe": "Newquays grünes Herz, ein Tal mit Ziergärten, Rasenflächen und einem Bootssee unterhalb des Viadukts, ein kurzer Spaziergang vom Stadtzentrum entfernt. Es ist ein sanfter, ebener Ort, um einen Hund an der Leine abseits der Klippen auszuführen, nützlich für ältere Hunde oder eine Pause vom Wind an der exponierten Küste.",
+          "descriptionNl": "Newquays groene hart, een vallei met siertuinen, gazons en een bootvijver onder het viaduct, een korte wandeling van het stadscentrum. Het is een zachte, vlakke plek om een hond aan de lijn uit te laten weg van de klippen, handig voor oudere honden of een pauze van de wind aan de blootgestelde kust.",
           "offLeashAreaDe": "Halten Sie Hunde in den Gärten und rund um den Bootssee an der Leine und räumen Sie nach ihnen auf; es ist ein Familienbereich, der mit kleinen Kindern geteilt wird.",
-          "tipDe": "Eine praktische Option bei Regen oder Hitze, mit Schatten unter den Bäumen und ebenen Wegen, wenn die Küste für einen kleinen Hund zu windig ist."
+          "offLeashAreaNl": "Houd honden aan de lijn in de tuinen en rond de bootvijver en ruim na ze op; het is een gezinsgebied dat wordt gedeeld met jonge kinderen.",
+          "tipDe": "Eine praktische Option bei Regen oder Hitze, mit Schatten unter den Bäumen und ebenen Wegen, wenn die Küste für einen kleinen Hund zu windig ist.",
+          "tipNl": "Een handige optie bij regen of hitte, met schaduw onder de bomen en vlakke paden, wanneer de kust te winderig is voor een kleine hond."
         }
       ],
       "tipsEn": [
@@ -320,7 +353,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Spaziergänge und Grünflächen in Newquay",
+      "titleNl": "Hondvriendelijke wandelingen en groene ruimtes in Newquay",
       "introDe": "Newquay liegt an einem der dramatischsten Abschnitte des South West Coast Path, und das ist der größte Vorteil für Hundebesitzer hier. Der Pfad ist ganzjährig für Hunde in beide Richtungen geöffnet, hinaus zum Pentire Head und zum Gannel in die eine Richtung und zur Watergate Bay in die andere, sodass es unabhängig von den sommerlichen Strandschildern immer einen Klippen-, Dünen- oder Flussmündungsspaziergang zu genießen gibt.",
+      "introNl": "Newquay ligt aan een van de meest dramatische stukken van het South West Coast Path, en dat is hier het grootste voordeel voor hondeneigenaren. Het pad is het hele jaar open voor honden in beide richtingen, naar Pentire Head en de Gannel in de ene richting en naar Watergate Bay in de andere, zodat er altijd een klif-, duin- of riviermondingwandeling te genieten is, los van de zomerse strandborden.",
       "faqsDe": [
         {
           "q": "Wo kann ich in Newquay mit meinem Hund spazieren gehen, wenn die Strände eingeschränkt sind?",
@@ -329,6 +364,16 @@
         {
           "q": "Müssen Hunde auf dem Küstenpfad von Newquay angeleint sein?",
           "a": "Halten Sie Ihren Hund in der Nähe der Klippenkanten, die steil und oft unbefestigt sind, sowie in der Nähe der entlang des Pfads weidenden Schafe und Rinder an der Leine. An den offenen Ufern der Flussmündung kann ein Hund unter enger Kontrolle ohne Leine laufen, aber achten Sie auf die schnell einströmende Flut."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar kan ik in Newquay met mijn hond wandelen als de stranden beperkt zijn?",
+          "a": "Het South West Coast Path is het hele jaar open voor honden en loopt in beide richtingen uit de stad, naar Pentire Head en de Gannel in de ene richting en naar Watergate Bay in de andere. De riviermonding van de Gannel en de Trenance Gardens bieden beschutte, vlakke alternatieven weg van de klippen."
+        },
+        {
+          "q": "Moeten honden aangelijnd zijn op het kustpad van Newquay?",
+          "a": "Houd je hond aan de lijn in de buurt van klifranden, die steil en vaak onverhard zijn, en in de buurt van de schapen en runderen die langs het pad grazen. Op de open oevers van de riviermonding kan een hond onder strikte controle zonder lijn lopen, maar let op de snel opkomende vloed."
         }
       ]
     },
@@ -436,7 +481,9 @@
         }
       ],
       "titleDe": "Mit Hund in Newquay unterwegs",
+      "titleNl": "Met hond onderweg in Newquay",
       "introDe": "Newquay ist eines der wenigen cornischen Ferienorte mit eigenem Bahnhof und eigenem Flughafen, sodass die Anreise mit Hund einfach ist. Der malerische Atlantic Coast Line-Zweigzug von Par nimmt Hunde kostenlos mit, und die kompakte Stadt ist zu Fuß gut erreichbar. Im Sommer füllen sich Straßen und Parkplätze, daher sind der Zug und die eigenen Füße die stressfreieste Art, sich mit Hund fortzubewegen.",
+      "introNl": "Newquay is een van de weinige Cornwallse badplaatsen met een eigen treinstation en eigen luchthaven, waardoor de reis met hond makkelijk is. De schilderachtige Atlantic Coast Line-zijlijn vanaf Par neemt honden gratis mee, en de compacte stad is goed te voet te bereiken. In de zomer lopen straten en parkeerplaatsen vol, dus de trein en je eigen benen zijn de meest stressvrije manier om je met een hond te verplaatsen.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund im Zug nach Newquay mitnehmen?",
@@ -445,6 +492,16 @@
         {
           "q": "Gibt es für einen Hundetrip einen Flughafen in Newquay?",
           "a": "Ja. Der Newquay Airport (NQY) liegt direkt vor der Stadt und ist der praktischste Flughafen in Cornwall. Prüfen Sie vorab die Haustierrichtlinie Ihrer Fluggesellschaft, da die Regeln zur Beförderung von Hunden in der Kabine oder im Frachtraum je nach Airline variieren und nicht garantiert sind."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen in de trein naar Newquay?",
+          "a": "Ja. Tot twee honden reizen bij National Rail gratis mee per passagier, aan de lijn of in een transportbox. Je stapt in Par over op de schilderachtige Atlantic Coast Line-zijlijn naar Newquay, een mooie, hondvriendelijke manier om aan te komen die ook het zomerse parkeerprobleem omzeilt."
+        },
+        {
+          "q": "Is er een luchthaven bij Newquay voor een reis met hond?",
+          "a": "Ja. Newquay Airport (NQY) ligt vlak bij de stad en is de handigste luchthaven in Cornwall. Controleer vooraf het huisdierenbeleid van je luchtvaartmaatschappij, want de regels voor het vervoer van honden in de cabine of het ruim verschillen per maatschappij en zijn niet gegarandeerd."
         }
       ]
     },
@@ -530,7 +587,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in Newquay",
+      "titleNl": "Hondvriendelijke stranden in Newquay",
       "introDe": "Newquay hat mehr Strände als fast jeder andere Ort in Großbritannien, und die gute Nachricht für Hundebesitzer ist, dass die meisten davon Hunde das ganze Jahr über erlauben. Fistral, Towan, Great Western, Newquay Harbour, Crantock, Watergate Bay, Lusty Glaze und Whipsiderry sind alle ganzjährig hundefreundlich. Die Hauptausnahme ist der Porth Beach, wo Hunde vom 1. Juli bis 31. August zwischen 10 und 18 Uhr gemäß der Public Spaces Protection Order des Cornwall Council verboten sind, sowie Tolcarne, wo Hunde in der Saison von Mai bis September angeleint sein müssen. Der Cornwall Council kann Bußgelder von bis zu 100 Pfund bei Verstößen verhängen. Die PSPO für Strände in Cornwall wird derzeit überprüft, etwaige Änderungen sollen bis zum 1. Mai 2026 vorliegen, prüfen Sie daher stets die aktuellen Schilder vor Ort.",
+      "introNl": "Newquay heeft meer stranden dan bijna elke andere plaats in het Verenigd Koninkrijk, en het goede nieuws voor hondeneigenaren is dat de meeste daarvan honden het hele jaar toestaan. Fistral, Towan, Great Western, Newquay Harbour, Crantock, Watergate Bay, Lusty Glaze en Whipsiderry zijn allemaal het hele jaar hondvriendelijk. De belangrijkste uitzondering is Porth Beach, waar honden van 1 juli tot en met 31 augustus tussen 10 en 18 uur verboden zijn volgens de Public Spaces Protection Order van de Cornwall Council, en Tolcarne, waar honden in het seizoen van mei tot september aangelijnd moeten zijn. De Cornwall Council kan boetes tot 100 pond opleggen bij overtredingen. De PSPO voor stranden in Cornwall wordt momenteel herzien, eventuele wijzigingen moeten uiterlijk 1 mei 2026 bekend zijn, controleer dus altijd de actuele bordjes ter plaatse.",
       "faqsDe": [
         {
           "q": "Welche Strände in Newquay erlauben Hunde das ganze Jahr über?",
@@ -539,6 +598,16 @@
         {
           "q": "Sind Hunde an manchen Stränden in Newquay im Sommer verboten?",
           "a": "Ja, aber nur an ein paar. Der Porth Beach verbietet Hunde vom 1. Juli bis 31. August zwischen 10 und 18 Uhr gemäß der PSPO des Cornwall Council, und am Tolcarne müssen Hunde in der Saison von Mai bis September angeleint sein. Es drohen Bußgelder von bis zu 100 Pfund, prüfen Sie daher die Schilder vor Ort."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welke stranden in Newquay staan honden het hele jaar toe?",
+          "a": "De meeste. Fistral, Towan, Great Western, Newquay Harbour, Crantock, Watergate Bay, Lusty Glaze, Little Fistral en Whipsiderry zijn allemaal het hele jaar hondvriendelijk. Newquay is echt een van de makkelijkste Britse badplaatsen voor toegang tot hondenstranden."
+        },
+        {
+          "q": "Zijn honden op sommige stranden in Newquay 's zomers verboden?",
+          "a": "Ja, maar slechts op een paar. Porth Beach verbiedt honden van 1 juli tot en met 31 augustus tussen 10 en 18 uur volgens de PSPO van de Cornwall Council, en bij Tolcarne moeten honden in het seizoen van mei tot september aangelijnd zijn. Er dreigen boetes tot 100 pond, controleer dus de bordjes ter plaatse."
         }
       ]
     },
@@ -575,8 +644,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Clifton+Villa+Veterinary+Surgery+MiNightVet+Newquay+Henver+Road",
           "photo": "",
           "hoursDe": "Wochentags Sprechstunden tagsüber; Notfallversorgung außerhalb der Öffnungszeiten vor Ort über MiNightVet",
+          "hoursNl": "Doordeweeks overdag spreekuur; spoedzorg buiten openingstijden ter plaatse via MiNightVet",
           "descriptionDe": "Eine seit langem etablierte Kleintierpraxis in Newquay in der Henver Road, die auch MiNightVet beherbergt, einen der wenigen eigenen Notdienste außerhalb der Öffnungszeiten in Cornwall, sodass Notfälle über Nacht und am Wochenende vor Ort statt kilometerweit entfernt behandelt werden. Behandelt Hunde, Katzen und Kleintiere.",
-          "tipDe": "Speichern Sie diese Nummer: Der MiNightVet-Dienst vor Ort bedeutet, dass Sie hier nachts Notfallversorgung erreichen, ohne die lange Fahrt Richtung Truro, die viele cornische Orte erfordern."
+          "descriptionNl": "Een al lang gevestigde kleindierenpraktijk in Newquay aan Henver Road, die ook MiNightVet huisvest, een van de weinige eigen spoeddiensten buiten openingstijden in Cornwall, waardoor spoedgevallen 's nachts en in het weekend ter plaatse worden behandeld in plaats van kilometers verderop. Behandelt honden, katten en kleine huisdieren.",
+          "tipDe": "Speichern Sie diese Nummer: Der MiNightVet-Dienst vor Ort bedeutet, dass Sie hier nachts Notfallversorgung erreichen, ohne die lange Fahrt Richtung Truro, die viele cornische Orte erfordern.",
+          "tipNl": "Sla dit nummer op: de MiNightVet-dienst ter plaatse betekent dat je hier 's nachts spoedzorg bereikt, zonder de lange rit richting Truro die veel plaatsen in Cornwall vereisen."
         },
         {
           "name": "Penmellyn Veterinary Group (Newquay)",
@@ -600,8 +672,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Penmellyn+Veterinary+Group+Newquay+Henver+Road",
           "photo": "",
           "hoursDe": "Wochentags Sprechstunden tagsüber; außerhalb der Öffnungszeiten über einen lokalen Notdienst",
+          "hoursNl": "Doordeweeks overdag spreekuur; buiten openingstijden via een lokale spoeddienst",
           "descriptionDe": "Eine etablierte Tierarztgruppe mit einer Filiale in Newquay in der Henver Road, die routinemäßige und dringende Kleintierversorgung an Wochentagen anbietet. Eine praktische Tagesoption, wenn Sie auf der östlichen Porth-Seite der Stadt übernachten.",
-          "tipDe": "Rufen Sie tagsüber vorher an; für alles über Nacht oder am Wochenende werden Sie an einen Notdienst wie das nahegelegene MiNightVet verwiesen."
+          "descriptionNl": "Een gevestigde dierenartsengroep met een vestiging in Newquay aan Henver Road, die routine- en dringende kleindierenzorg biedt op werkdagen. Een handige dagoptie als je aan de oostelijke Porth-kant van de stad overnacht.",
+          "tipDe": "Rufen Sie tagsüber vorher an; für alles über Nacht oder am Wochenende werden Sie an einen Notdienst wie das nahegelegene MiNightVet verwiesen.",
+          "tipNl": "Bel overdag van tevoren; voor alles 's nachts of in het weekend word je doorverwezen naar een spoeddienst zoals het nabijgelegen MiNightVet."
         },
         {
           "name": "NewquayVet",
@@ -625,8 +700,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=NewquayVet+Treloggan+Trade+Park",
           "photo": "",
           "hoursDe": "Wochentags Sprechstunden tagsüber; außerhalb der Öffnungszeiten über einen lokalen Notdienst",
+          "hoursNl": "Doordeweeks overdag spreekuur; buiten openingstijden via een lokale spoeddienst",
           "descriptionDe": "Eine unabhängige Kleintierpraxis im Treloggan Trade Park am Rand von Newquay, die routinemäßige und dringende Tagesversorgung für Hunde, Katzen und Kleintiere anbietet. Notfälle über Nacht und am Wochenende werden an einen lokalen Notdienst überwiesen.",
-          "tipDe": "Praktisch, wenn Sie mit dem Auto am Stadtrand ankommen; rufen Sie vorher an, damit man Sie an einem geschäftigen Sommertag einplanen kann."
+          "descriptionNl": "Een onafhankelijke kleindierenpraktijk in Treloggan Trade Park aan de rand van Newquay, die routine- en dringende dagzorg biedt voor honden, katten en kleine huisdieren. Spoedgevallen 's nachts en in het weekend worden doorverwezen naar een lokale spoeddienst.",
+          "tipDe": "Praktisch, wenn Sie mit dem Auto am Stadtrand ankommen; rufen Sie vorher an, damit man Sie an einem geschäftigen Sommertag einplanen kann.",
+          "tipNl": "Handig als je met de auto aan de rand van de stad aankomt; bel vooraf zodat je op een drukke zomerdag ingepland kunt worden."
         }
       ],
       "faqsEn": [
@@ -670,7 +748,9 @@
         }
       ],
       "titleDe": "Tierärzte in Newquay",
+      "titleNl": "Dierenartsen in Newquay",
       "introDe": "Newquay ist tierärztlich gut versorgt, mit mehreren Praxen in der Stadt und, ungewöhnlich für einen Ferienort dieser Größe, einem eigenen Notdienst außerhalb der Öffnungszeiten bei MiNightVet in der Henver Road, sodass Ihnen eine lange nächtliche Fahrt erspart bleibt. Englisch wird überall gesprochen. Besucher aus der EU sollten bedenken, dass Großbritannien den EU-Heimtierausweis nicht mehr zur Einreise akzeptiert: Hunde benötigen ein GB Animal Health Certificate, einen Mikrochip, eine gültige Tollwutimpfung und eine 24 bis 120 Stunden vor Ankunft verabreichte Bandwurmbehandlung, reisen Sie daher mit allen Unterlagen.",
+      "introNl": "Newquay is dierenartselijk goed voorzien, met meerdere praktijken in de stad en, ongewoon voor een badplaats van dit formaat, een eigen spoeddienst buiten openingstijden bij MiNightVet aan Henver Road, waardoor je een lange nachtelijke rit bespaart. Overal wordt Engels gesproken. Bezoekers uit de EU moeten bedenken dat het Verenigd Koninkrijk het EU-huisdierenpaspoort niet meer accepteert voor binnenkomst: honden hebben een GB Animal Health Certificate nodig, een microchip, een geldige rabiësvaccinatie en een lintwormbehandeling die 24 tot 120 uur voor aankomst is toegediend, reis dus met alle documenten.",
       "faqsDe": [
         {
           "q": "Gibt es nachts einen Notfalltierarzt in Newquay?",
@@ -679,6 +759,16 @@
         {
           "q": "Welche Unterlagen braucht mein Hund für die Einreise aus der EU nach Großbritannien?",
           "a": "Großbritannien akzeptiert den EU-Heimtierausweis nicht zur Einreise. Ihr Hund benötigt ein GB Animal Health Certificate, einen Mikrochip und eine gültige Tollwutimpfung sowie eine zugelassene Bandwurmbehandlung, die 24 bis 120 Stunden vor Ankunft verabreicht wird, organisieren Sie das also vor der Reise mit einem Tierarzt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er 's nachts een spoeddierenarts in Newquay?",
+          "a": "Ja, en ongewoon genoeg bevindt die zich in de stad zelf. MiNightVet aan Henver Road biedt een eigen dierenartsspoedzorg buiten openingstijden voor Newquay, waardoor spoedgevallen 's nachts en in het weekend ter plaatse worden behandeld in plaats van na een lange rit. Bel van tevoren zodat men op je voorbereid is."
+        },
+        {
+          "q": "Welke documenten heeft mijn hond nodig om vanuit de EU het Verenigd Koninkrijk binnen te komen?",
+          "a": "Het Verenigd Koninkrijk accepteert het EU-huisdierenpaspoort niet voor binnenkomst. Je hond heeft een GB Animal Health Certificate nodig, een microchip en een geldige rabiësvaccinatie, plus een goedgekeurde lintwormbehandeling die 24 tot 120 uur voor aankomst wordt toegediend, regel dit dus vóór de reis met een dierenarts."
         }
       ]
     },
@@ -785,7 +875,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für den Besuch von Newquay mit Hund",
+      "titleNl": "Praktische tips voor een bezoek aan Newquay met hond",
       "introDe": "Newquay ist einer der unkompliziertesten Hundeurlaube in Cornwall: Die meisten Strände erlauben Hunde das ganze Jahr über, der Küstenpfad ist immer geöffnet, und die Stadt hat sogar ihren eigenen Notdienst außerhalb der Öffnungszeiten. Die zwei Dinge, die es zu planen gilt, sind die wenigen saisonalen Strandregeln und, für EU-Besucher, die Papiere nach dem Brexit für die Einreise mit Hund nach Großbritannien.",
+      "introNl": "Newquay is een van de meest ongecompliceerde hondenvakanties in Cornwall: de meeste stranden staan honden het hele jaar toe, het kustpad is altijd open, en de stad heeft zelfs zijn eigen spoeddienst buiten openingstijden. De twee dingen om rekening mee te houden zijn de paar seizoensgebonden strandregels en, voor EU-bezoekers, de papieren na de brexit voor binnenkomst met hond in het Verenigd Koninkrijk.",
       "faqsDe": [
         {
           "q": "Ist Newquay ein guter Ort für einen Besuch mit Hund?",
@@ -794,6 +886,16 @@
         {
           "q": "Brauchen EU-Besucher besondere Papiere, um einen Hund nach Newquay zu bringen?",
           "a": "Ja. Da Newquay in Großbritannien liegt, können EU-Besucher den EU-Heimtierausweis nicht nutzen. Ihr Hund benötigt ein GB Animal Health Certificate, das innerhalb von 10 Tagen vor der Reise ausgestellt wurde, einen Mikrochip, eine gültige Tollwutimpfung und eine Bandwurmbehandlung 24 bis 120 Stunden vor Ankunft."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Newquay een goede plek voor een bezoek met hond?",
+          "a": "Ja, het is een van de makkelijkste hondenvakanties in Cornwall. De meeste van de talrijke stranden staan honden het hele jaar toe, het kustpad is altijd open, havenpubs heten honden welkom, en de stad heeft zijn eigen spoeddienst buiten openingstijden. Het belangrijkste om te plannen zijn de papieren na de brexit voor EU-bezoekers."
+        },
+        {
+          "q": "Hebben EU-bezoekers speciale papieren nodig om een hond mee te nemen naar Newquay?",
+          "a": "Ja. Omdat Newquay in het Verenigd Koninkrijk ligt, kunnen EU-bezoekers het EU-huisdierenpaspoort niet gebruiken. Je hond heeft een GB Animal Health Certificate nodig, uitgegeven binnen 10 dagen voor de reis, een microchip, een geldige rabiësvaccinatie en een lintwormbehandeling 24 tot 120 uur voor aankomst."
         }
       ]
     },
@@ -830,9 +932,13 @@
           "tipPt": "A rampa íngreme que desce ao porto é de calçada e pode ser escorregadia quando molhada, por isso desça devagar com um cão irrequieto.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Newquay+Harbour",
           "descriptionDe": "Der historische Arbeitshafen unterhalb der Stadt, noch immer Heimat von Fischer- und Freizeitbooten und umgeben von hundefreundlichen Pubs. Der kleine Hafenstrand ist ganzjährig hundefreundlich, und der Hafen ist Ausgangspunkt der Wildlife- und Angelbootstouren, alles mit Hund an der Leine gut zu Fuß erreichbar.",
+          "descriptionNl": "De historische werkende haven onder de stad, nog steeds thuisbasis van vissers- en pleziervaartuigen en omringd door hondvriendelijke pubs. Het kleine havenstrand is het hele jaar hondvriendelijk, en de haven is het startpunt van de wildlife- en visboottochten, allemaal goed te voet te bereiken met een hond aan de lijn.",
           "dogPolicyDe": "Hunde an der Leine rund um den Hafen und am ganzjährig hundefreundlichen Hafenstrand willkommen.",
+          "dogPolicyNl": "Honden aan de lijn welkom rond de haven en op het hele jaar hondvriendelijke havenstrand.",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Die steile Slipanlage hinunter zum Hafen ist gepflastert und kann bei Nässe rutschig sein, gehen Sie sie mit einem aufgeregten Hund langsam an."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Die steile Slipanlage hinunter zum Hafen ist gepflastert und kann bei Nässe rutschig sein, gehen Sie sie mit einem aufgeregten Hund langsam an.",
+          "tipNl": "De steile helling naar beneden naar de haven is geplaveid en kan glad zijn bij nat weer, neem het rustig aan met een opgewonden hond."
         },
         {
           "name": "Newquay Harbour Boat Trips",
@@ -857,9 +963,13 @@
           "tipPt": "Escolha um dia mais calmo para um cão nervoso e confirme a política de cães ao reservar, porque varia entre os operadores do porto.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Newquay+Harbour+boat+trips",
           "descriptionDe": "Mehrere Anbieter organisieren Wildlife-Seesafaris und Makrelenangeltouren vom Newquay Harbour entlang der Küste, auf der Suche nach Kegelrobben, Seevögeln und manchmal Delfinen. Wohlerzogene Hunde sind bei den meisten Touren an Bord willkommen, was dies zu einem der denkwürdigsten hundefreundlichen Ausflüge an der nordcornischen Küste macht.",
+          "descriptionNl": "Meerdere aanbieders organiseren wildlife-zeesafari's en makreelvistochten vanaf Newquay Harbour langs de kust, op zoek naar grijze zeehonden, zeevogels en soms dolfijnen. Brave honden zijn bij de meeste tochten aan boord welkom, waardoor dit een van de meest memorabele hondvriendelijke uitstapjes aan de Noord-Cornwallse kust is.",
           "dogPolicyDe": "Wohlerzogene Hunde an der Leine bei den meisten Touren an Bord willkommen; bestätigen Sie dies beim Anbieter bei der Buchung.",
+          "dogPolicyNl": "Brave honden aan de lijn welkom aan boord bij de meeste tochten; bevestig dit bij de aanbieder tijdens het boeken.",
           "admissionFeeDe": "Variiert je nach Anbieter und Tourlänge; Hunderichtlinie bei der Buchung bestätigen",
-          "tipDe": "Wählen Sie für einen ängstlichen Hund einen ruhigeren Tag und bestätigen Sie die Hunderichtlinie bei der Buchung, da sie zwischen den Anbietern am Hafen variiert."
+          "admissionFeeNl": "Varieert per aanbieder en tochtlengte; bevestig het hondenbeleid bij het boeken",
+          "tipDe": "Wählen Sie für einen ängstlichen Hund einen ruhigeren Tag und bestätigen Sie die Hunderichtlinie bei der Buchung, da sie zwischen den Anbietern am Hafen variiert.",
+          "tipNl": "Kies voor een angstige hond een rustigere dag en bevestig het hondenbeleid bij het boeken, want dit verschilt per aanbieder in de haven."
         },
         {
           "name": "South West Coast Path (Newquay headlands)",
@@ -884,9 +994,13 @@
           "tipPt": "Towan Head ao pôr do sol é um dos melhores passeios curtos da vila; leve água, porque não há sombra no promontório exposto.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Towan+Head+Newquay+coast+path",
           "descriptionDe": "Der Abschnitt des South West Coast Path rund um die Landzungen von Newquay, vom Towan Head oberhalb von Fistral bis zum Pentire und dem Gannel, ist dramatisches Wandern auf Klippen mit weiten Atlantikblicken. Er ist ganzjährig für Hunde geöffnet und verbindet die meisten Strände der Stadt, sodass er gleichzeitig Sightseeing und einen richtigen Hundespaziergang bietet.",
+          "descriptionNl": "Het stuk South West Coast Path rond de landtongen van Newquay, van Towan Head boven Fistral tot aan Pentire en de Gannel, is dramatisch wandelen op klippen met wijds Atlantisch uitzicht. Het is het hele jaar open voor honden en verbindt de meeste stranden van de stad, waardoor het tegelijk bezienswaardigheden en een echte hondenwandeling biedt.",
           "dogPolicyDe": "Hunde ganzjährig an der Leine willkommen in der Nähe von Klippenkanten und weidendem Vieh.",
+          "dogPolicyNl": "Honden het hele jaar aan de lijn welkom in de buurt van klifranden en grazend vee.",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Der Towan Head bei Sonnenuntergang ist einer der schönsten kurzen Spaziergänge der Stadt; nehmen Sie Wasser mit, da es auf der exponierten Landzunge keinen Schatten gibt."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Der Towan Head bei Sonnenuntergang ist einer der schönsten kurzen Spaziergänge der Stadt; nehmen Sie Wasser mit, da es auf der exponierten Landzunge keinen Schatten gibt.",
+          "tipNl": "Towan Head bij zonsondergang is een van de mooiste korte wandelingen van de stad; neem water mee, want er is geen schaduw op de blootgestelde landtong."
         }
       ],
       "tipsEn": [
@@ -950,7 +1064,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Newquay",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Newquay",
       "introDe": "Das Beste an Newquay findet draußen statt und ist für Hunde geöffnet: der arbeitende Hafen, der lange Küstenpfad auf den Klippen und, am besten von allem, eine Wildlife-Bootstour hinaus in die Bucht auf der Suche nach Seehunden, Seevögeln und Delfinen, bei der wohlerzogene Hunde an Bord willkommen sind. Die eine Innenraum-Ausnahme, die die meisten Familien besuchen, das Blue Reef Aquarium, lässt keine Hunde hinein, aber mit den Stränden, dem Hafen und den Booten gibt es kaum einen Moment, in dem ein Hund draußen bleiben müsste.",
+      "introNl": "Het beste van Newquay speelt zich buiten af en staat open voor honden: de werkende haven, het lange kustpad op de klippen en, het mooiste van alles, een wildlife-boottocht de baai in op zoek naar zeehonden, zeevogels en dolfijnen, waarbij brave honden aan boord welkom zijn. De ene binnenuitzondering die de meeste gezinnen bezoeken, het Blue Reef Aquarium, laat geen honden binnen, maar met de stranden, de haven en de boten is er nauwelijks een moment waarop een hond buiten zou moeten blijven.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund auf eine Bootstour in Newquay mitnehmen?",
@@ -959,6 +1075,16 @@
         {
           "q": "Sind Hunde im Blue Reef Aquarium in Newquay erlaubt?",
           "a": "Nein, das Blue Reef Aquarium lässt außer Assistenzhunden keine Hunde hinein. Der Rest von Newquay, einschließlich des Hafens, der Strände, des Küstenpfads und der Bootstouren, ist sehr hundefreundlich, sodass ein Sitter oder ein abwechselndes Vorgehen den Aquariumsbesuch abdeckt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen op een boottocht in Newquay?",
+          "a": "Ja. Meerdere aanbieders van wildlife-zeesafari's en makreelvistochten bij Newquay Harbour heten brave honden aan de lijn welkom aan boord. Bevestig het hondenbeleid bij het boeken, want dit verschilt per aanbieder, en kies een rustigere dag als je hond zeeziek of angstig is."
+        },
+        {
+          "q": "Zijn honden toegestaan in het Blue Reef Aquarium in Newquay?",
+          "a": "Nee, het Blue Reef Aquarium laat geen honden binnen behalve assistentiehonden. De rest van Newquay, inclusief de haven, de stranden, het kustpad en de boottochten, is heel hondvriendelijk, zodat een oppasser of een beurtsysteem het aquariumbezoek prima opvangt."
         }
       ]
     },
@@ -992,8 +1118,11 @@
           "tipEs": "Escribe a dos o tres cuidadores pronto y organiza un breve encuentro previo a tu viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
           "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço.",
           "descriptionDe": "Die größte Plattform für Haustierbetreuung im Vereinigten Königreich, mit lokalen Gassigehern, Pensionen und Sittern in ganz Mid Cornwall und der Region Newquay. Jeder Sitter hat ein Profil, Bewertungen und Fotos, und Sie buchen und bezahlen über die App inklusive Versicherungsschutz.",
+          "descriptionNl": "Het grootste platform voor huisdieroppas in het Verenigd Koninkrijk, met lokale uitlaters, pensions en oppassers in heel Mid Cornwall en de regio Newquay. Elke oppasser heeft een profiel, beoordelingen en foto's, en je boekt en betaalt via de app inclusief verzekeringsdekking.",
           "serviceTypeDe": "Hundepension, Tagesbetreuung, Kurzbesuche und Gassiservice",
-          "tipDe": "Schreiben Sie zwei oder drei Sitter frühzeitig an und vereinbaren Sie vor Ihrer Reise ein kurzes Kennenlerntreffen, damit sich Ihr Hund vor dem Betreuungstag wohlfühlt."
+          "serviceTypeNl": "Hondenpension, dagopvang, korte bezoekjes en uitlaatservice",
+          "tipDe": "Schreiben Sie zwei oder drei Sitter frühzeitig an und vereinbaren Sie vor Ihrer Reise ein kurzes Kennenlerntreffen, damit sich Ihr Hund vor dem Betreuungstag wohlfühlt.",
+          "tipNl": "Stuur twee of drie oppassers vroeg een bericht en spreek voor je reis een korte kennismaking af, zodat je hond zich vertrouwd voelt vóór de opvangdag."
         },
         {
           "name": "Tailster",
@@ -1015,8 +1144,11 @@
           "tipEs": "Informa al cuidador sobre la llamada de vuelta de tu perro ante el ganado, ya que los paseos locales suelen usar el camino costero y prados donde pastan ovejas y vacas.",
           "tipPt": "Informe o cuidador sobre a chamada de retorno do seu cão perto do gado, já que os passeios locais usam muitas vezes o caminho costeiro e campos onde pastam ovelhas e vacas.",
           "descriptionDe": "Ein landesweites Netzwerk versicherter, geprüfter Gassigeher und Sitter im Vereinigten Königreich, das Sie anhand Ihrer Termine und der Bedürfnisse Ihres Hundes mit lokalen Betreuern zusammenbringt. Eine nützliche Alternative zu Rover, um einen Aquariumsbesuch oder ein langes Abendessen in Newquay abzudecken.",
+          "descriptionNl": "Een landelijk netwerk van verzekerde, gescreende uitlaters en oppassers in het Verenigd Koninkrijk, dat je aan de hand van je data en de behoeften van je hond koppelt aan lokale oppassers. Een handig alternatief voor Rover om een aquariumbezoek of een lang etentje in Newquay op te vangen.",
           "serviceTypeDe": "Gassiservice, Tagesbetreuung und Betreuung zu Hause",
-          "tipDe": "Erzählen Sie dem Betreuer vom Rückrufverhalten Ihres Hundes in der Nähe von Vieh, da lokale Spaziergänge oft über den Küstenpfad und Felder mit weidenden Schafen und Rindern führen."
+          "serviceTypeNl": "Uitlaatservice, dagopvang en oppas bij jou thuis",
+          "tipDe": "Erzählen Sie dem Betreuer vom Rückrufverhalten Ihres Hundes in der Nähe von Vieh, da lokale Spaziergänge oft über den Küstenpfad und Felder mit weidenden Schafen und Rindern führen.",
+          "tipNl": "Vertel de oppasser over het terugroepgedrag van je hond in de buurt van vee, want lokale wandelingen lopen vaak over het kustpad en velden met grazende schapen en runderen."
         }
       ],
       "tipsEn": [
@@ -1080,7 +1212,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung und Gassiservice in Newquay",
+      "titleNl": "Huisdieroppas en uitlaatservice in Newquay",
       "introDe": "Für die wenigen Orte, an die ein Hund nicht mitkann, etwa das Aquarium oder ein langes Restaurantessen, verbinden Sie landesweite Plattformen mit geprüften lokalen Sittern und Gassigehern rund um Newquay und Mid Cornwall. Buchen Sie für Juli und August rechtzeitig im Voraus, wenn dieser geschäftige Ferienort sich füllt und lokale Betreuer schnell ausgebucht sind.",
+      "introNl": "Voor de paar plekken waar een hond niet mee naartoe kan, zoals het aquarium of een lang etentje in een restaurant, combineer je landelijke platforms met gescreende lokale oppassers en uitlaters rond Newquay en Mid Cornwall. Boek voor juli en augustus ruim van tevoren, wanneer deze drukke badplaats vol raakt en lokale oppassers snel volgeboekt zijn.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Haustiersitter in Newquay?",
@@ -1089,6 +1223,16 @@
         {
           "q": "Kann ich meinen Hund zurücklassen, während ich das Aquarium besuche?",
           "a": "Ja. Da das Blue Reef Aquarium nur Assistenzhunde zulässt, ist ein lokaler Sitter oder eine Tagesbetreuung über Rover oder Tailster ideal für diesen Besuch. Teilen Sie dem Betreuer die Tierarztdaten Ihres Hundes und seinen Rückruf in der Nähe von Vieh mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe vind ik een huisdieroppasser in Newquay?",
+          "a": "Landelijke platforms zoals Rover en Tailster vermelden gescreende, verzekerde oppassers, pensions en uitlaters in heel Mid Cornwall en de regio Newquay. Je bladert door profielen en beoordelingen, spreekt een kennismaking af en boekt via de app; reserveer vroeg voor juli en augustus."
+        },
+        {
+          "q": "Kan ik mijn hond achterlaten terwijl ik het aquarium bezoek?",
+          "a": "Ja. Omdat het Blue Reef Aquarium alleen assistentiehonden toelaat, is een lokale oppasser of dagopvang via Rover of Tailster ideaal voor dit bezoek. Vertel de oppasser de dierenartsgegevens van je hond en zijn terugroepgedrag in de buurt van vee."
         }
       ]
     }

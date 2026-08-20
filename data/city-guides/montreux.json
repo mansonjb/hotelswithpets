@@ -41,9 +41,13 @@
           "tipPt": "Peça uma mesa de esplanada do lado do lago da avenida, mesmo sem vista direta para o lago apanha a brisa da água e o seu cão mantém-se fresco nas noites de verão.",
           "googleMapsUrl": "https://maps.google.com/?q=Avenue+du+Casino+32+Montreux",
           "descriptionDe": "Eine zentral gelegene Brasserie in Montreux, nur wenige Gehminuten von der Uferpromenade entfernt, mit überdachter Terrasse zur Avenue. Die Karte folgt dem Waadtländer Kanon: filet de perche meunière, papet vaudois mit Saucisson, Entrecôte und saisonale Fondue. Hunde werden an den Terrassentischen ohne Umstände willkommen geheissen, und das Personal bringt bei Ankunft einen Wassernapf. Der Standort eignet sich ideal als Verpflegungsstopp zwischen einem Spaziergang entlang der Quais Fleuris und einem Bummel durch die Altstadt.",
+          "descriptionNl": "Een centraal gelegen brasserie in Montreux, op een paar minuten lopen van de oeverpromenade, met een overdekt terras aan de avenue. De kaart volgt het Vaudoise repertoire: filet de perche meunière, papet vaudois met saucisson, entrecote en seizoensfondue. Honden zijn zonder omhaal welkom aan de terrastafels en het personeel brengt bij aankomst een waterbakje. De locatie is ideaal als tussenstop tussen een wandeling langs de Quais Fleuris en een ommetje door de oude stad.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen, Wassernapf auf Anfrage",
+          "petPolicyNl": "Honden welkom op het terras, waterbakje op aanvraag",
           "mustTryDe": "Filet de perche meunière, papet vaudois, Chasselas Lavaux",
-          "tipDe": "Bitten Sie um einen Terrassentisch auf der Seeseite der Avenue. Auch ohne direkten Seeblick spüren Sie die Brise vom Wasser, und Ihr Hund bleibt an Sommerabenden kühl."
+          "mustTryNl": "Filet de perche meunière, papet vaudois, Chasselas Lavaux",
+          "tipDe": "Bitten Sie um einen Terrassentisch auf der Seeseite der Avenue. Auch ohne direkten Seeblick spüren Sie die Brise vom Wasser, und Ihr Hund bleibt an Sommerabenden kühl.",
+          "tipNl": "Vraag om een terrastafel aan de meerzijde van de avenue. Ook zonder direct zicht op het meer voel je de bries van het water, en blijft je hond koel op zomeravonden."
         },
         {
           "name": "Caveau des Vignerons de Chexbres",
@@ -71,9 +75,13 @@
           "tipPt": "Combine com o comboio panorâmico de 90 minutos de Montreux a Chexbres via Vevey, depois desça a pé pelos vinhedos até Saint-Saphorin (4 km) e apanhe o comboio à beira-lago de regresso. O seu cão viaja de graça na linha regional.",
           "googleMapsUrl": "https://maps.google.com/?q=Chexbres+Lavaux+Vineyards",
           "descriptionDe": "Ein genossenschaftlicher Weinkeller in den Lavaux-UNESCO-Terrassen mit steinernem Verkostungsraum und kleiner Aussenterrasse mit Blick über die Weinberge zum See. Hunde an der Leine sind auf der Terrasse und im Caveau willkommen. Die Karte ist kurz und regional: Planchettes mit Vacherin Fribourgeois und Gruyère mit Roggenbrot, Trockenfleisch aus Aigle, Chasselas offen aus den umliegenden Domänen sowie Erntespezialitäten im September und Oktober. Ein perfekter Halt auf einer Wanderung entlang des Sentier Viticole ab Saint-Saphorin oder Lutry.",
+          "descriptionNl": "Een coöperatieve wijnkelder in de Lavaux UNESCO-terrassen, met een proeflokaal met stenen vloer en een klein buitenterras met uitzicht over de wijngaarden naar het meer. Honden aan de lijn zijn welkom op het terras en binnen in de caveau. De kaart is kort en regionaal: plankjes met Vacherin Fribourgeois en Gruyère met roggebrood, gedroogd vlees uit Aigle, Chasselas per glas van de omliggende domeinen en oogstspecialiteiten in september en oktober. Een perfecte stop tijdens een wandeling langs het Sentier Viticole vanaf Saint-Saphorin of Lutry.",
           "petPolicyDe": "Hunde an der Leine auf der Terrasse und im Caveau willkommen",
+          "petPolicyNl": "Honden aan de lijn welkom op het terras en in de caveau",
           "mustTryDe": "Planchette Vacherin und Gruyère, Chasselas Saint-Saphorin Grand Cru, Erntegerichte (Sep. bis Okt.)",
-          "tipDe": "Kombinieren Sie den Besuch mit der 90-minütigen Panoramabahn von Montreux nach Chexbres über Vevey, wandern Sie dann durch die Weinberge nach Saint-Saphorin hinunter (4 km) und nehmen Sie den Uferzug zurück. Ihr Hund fährt auf der Regionallinie kostenlos mit."
+          "mustTryNl": "Plankje Vacherin en Gruyère, Chasselas Saint-Saphorin Grand Cru, oogstgerechten (sep. tot okt.)",
+          "tipDe": "Kombinieren Sie den Besuch mit der 90-minütigen Panoramabahn von Montreux nach Chexbres über Vevey, wandern Sie dann durch die Weinberge nach Saint-Saphorin hinunter (4 km) und nehmen Sie den Uferzug zurück. Ihr Hund fährt auf der Regionallinie kostenlos mit.",
+          "tipNl": "Combineer het bezoek met de 90 minuten durende panoramatrein van Montreux naar Chexbres via Vevey, wandel daarna door de wijngaarden naar beneden naar Saint-Saphorin (4 km) en neem de oevertrein terug. Je hond reist gratis mee op de regionale lijn."
         },
         {
           "name": "Café du Grütli Montreux",
@@ -101,14 +109,21 @@
           "tipPt": "Venha pelo plat du jour de sexta ao almoço, que apresenta sempre um clássico Vaudois a metade do preço da carta de jantar. Os cães dormem descansados ao longo de um demorado almoço de sexta.",
           "googleMapsUrl": "https://maps.google.com/?q=Rue+du+Marche+Vieux+Montreux",
           "descriptionDe": "Ein traditionsreiches Altstadtcafé-Restaurant an der schmalen Rue du Marché im Vieux Montreux, wenige Minuten bergauf vom See. Das Innere bewahrt seinen dunklen Waadtländer Bistro-Charakter, und die kleine Terrasse in der Kopfsteinpflastergasse fängt die Nachmittagssonne ein. Hunde sind drinnen an den hinteren Tischen sowie auf der Terrasse willkommen. Die Karte wechselt täglich mit einem Tagesteller, dem klassischen filet de perche du Léman, Raclette und Fondue von Oktober bis März sowie einer starken Weinliste aus Aigle, Yvorne und der Lavaux.",
+          "descriptionNl": "Een van oudsher bekend café-restaurant in de oude stad, aan de smalle Rue du Marché in Vieux Montreux, een paar minuten bergopwaarts vanaf het meer. Het interieur behoudt zijn donkere Vaudoise bistrokarakter, en het kleine terras aan de kasseienstraat vangt de middagzon. Honden zijn welkom binnen aan de achterste tafels en op het terras. De kaart wisselt dagelijks met een plat du jour, de klassieke filet de perche du Léman, raclette en fondue van oktober tot maart, en een sterke wijnkaart uit Aigle, Yvorne en de Lavaux.",
           "petPolicyDe": "Hunde auf der Terrasse und drinnen an den hinteren Tischen willkommen",
+          "petPolicyNl": "Honden welkom op het terras en binnen aan de achterste tafels",
           "mustTryDe": "Filet de perche du Léman, Fondue moitié-moitié (Okt. bis März), Yvorne Chasselas",
-          "tipDe": "Kommen Sie zum Freitagsmittagsmenü, das stets einen Waadtländer Klassiker zum halben Preis der Abendkarte bietet. Hunde schlafen entspannt durch ein langes Freitagsessen."
+          "mustTryNl": "Filet de perche du Léman, fondue moitié-moitié (okt. tot mrt.), Yvorne Chasselas",
+          "tipDe": "Kommen Sie zum Freitagsmittagsmenü, das stets einen Waadtländer Klassiker zum halben Preis der Abendkarte bietet. Hunde schlafen entspannt durch ein langes Freitagsessen.",
+          "tipNl": "Kom voor het vrijdagmiddag-menu, dat altijd een Vaudoise klassieker biedt voor de helft van de prijs van de avondkaart. Honden slapen ontspannen door een lange vrijdaglunch heen."
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Montreux",
+      "titleNl": "Hondvriendelijke restaurants in Montreux",
       "introDe": "Montreux liegt an der Schweizer Riviera am Kopf des Genfersees, wo Palmen an der Uferpromenade wachsen und das Schweizer Bundesrecht Hunde in Restaurants im Ermessen des Inhabers erlaubt. Das Ergebnis ist eine der hundefreundlichsten Gastronomiemeilen der französischsprachigen Schweiz. Die Grand-Rue im Vieux Montreux, die Uferpromenade entlang der Quais Fleuris von Clarens bis Territet und die Weinkeller der Lavaux-UNESCO-Weinberge westlich der Stadt sind voller Terrassen, auf denen Hunde sich ohne Kommentar unter den Tischen niederlassen. Fischgerichte aus dem See (filet de perche du Léman), papet vaudois (Lauch mit Saucisson), Fondue moitié-moitié und Chasselas von den terrassierten Weinbergen über dem See sind die regionalen Spezialitäten.",
-      "faqsDe": []
+      "introNl": "Montreux ligt aan de Zwitserse Riviera, aan het uiteinde van het meer van Genève, waar palmbomen groeien langs de oeverpromenade en de Zwitserse federale wet honden in restaurants toestaat naar goeddunken van de eigenaar. Het resultaat is een van de hondvriendelijkste gastronomische stroken van Franstalig Zwitserland. De Grand-Rue in Vieux Montreux, de oeverpromenade langs de Quais Fleuris van Clarens tot Territet en de wijnkelders van de Lavaux UNESCO-wijngaarden net ten westen van de stad staan vol terrassen waar honden zonder commentaar onder de tafels gaan liggen. Vis uit het meer (filet de perche du Léman), papet vaudois (prei met saucisson), fondue moitié-moitié en Chasselas van de terrasvormige wijngaarden boven het meer zijn de regionale specialiteiten.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Parks and Green Spaces in Montreux",
@@ -141,8 +156,11 @@
           "tipPt": "Comece no cais da CGN de Vevey de manhã, caminhe para leste em direção a Montreux para apanhar a luz crescente do lago de costas e almoce em Clarens. O percurso completo de Vevey a Villeneuve é demais para a maioria dos cães num só dia, divida-o por duas manhãs.",
           "googleMapsUrl": "https://maps.google.com/?q=Quais+Fleuris+Montreux",
           "descriptionDe": "Das prägende Uferband von Montreux: sieben Kilometer blumengeschmückte Promenade, die ununterbrochen von Vevey über Clarens und das Zentrum von Montreux bis nach Villeneuve verläuft, mit der Bronzestatue von Freddie Mercury (1996), die in der Mitte zum See blickt, und dem vollen Alpenpanorama des Genfersees als ständiger Kulisse. Hunde an der Leine sind auf der gesamten Strecke willkommen, Bänke und Wassertröge sind regelmässig verteilt. Der flache Asphaltweg eignet sich für ältere Hunde und ist auf langen Abschnitten von Platanen beschattet. Die Strecke Vevey-Villeneuve ist im Hundetempo ein voller halber Tag.",
+          "descriptionNl": "Het beeldbepalende oeverlint van Montreux: zeven kilometer bebloemde promenade die ononderbroken loopt van Vevey via Clarens en het centrum van Montreux tot aan Villeneuve, met het bronzen standbeeld van Freddie Mercury (1996) dat halverwege naar het meer kijkt, en het volledige alpenpanorama van het meer van Genève als constante achtergrond. Honden aan de lijn zijn welkom over de hele lengte, banken en waterbakken zijn regelmatig verspreid. Het vlakke asfaltpad is geschikt voor oudere honden en wordt over lange stukken beschaduwd door platanen. De route Vevey-Villeneuve is op hondentempo een volle halve dag.",
           "petPolicyDe": "Hunde an der Leine auf der gesamten 7 km Strecke willkommen",
-          "tipDe": "Starten Sie morgens am CGN-Anlegesteg in Vevey, gehen Sie in Richtung Montreux, um das aufgehende Seenlicht im Rücken zu haben, und machen Sie Mittagspause in Clarens. Die volle Strecke Vevey bis Villeneuve ist für die meisten Hunde an einem Tag zu viel, teilen Sie sie auf zwei Vormittage auf."
+          "petPolicyNl": "Honden aan de lijn welkom over de hele route van 7 km",
+          "tipDe": "Starten Sie morgens am CGN-Anlegesteg in Vevey, gehen Sie in Richtung Montreux, um das aufgehende Seenlicht im Rücken zu haben, und machen Sie Mittagspause in Clarens. Die volle Strecke Vevey bis Villeneuve ist für die meisten Hunde an einem Tag zu viel, teilen Sie sie auf zwei Vormittage auf.",
+          "tipNl": "Begin 's ochtends bij de CGN-aanlegsteiger in Vevey, loop richting Montreux zodat je het opkomende meerlicht in de rug hebt, en lunch in Clarens. De volledige route van Vevey tot Villeneuve is voor de meeste honden te veel op één dag, verdeel het over twee ochtenden."
         },
         {
           "name": "Jardin Alpin La Rambertia (Rochers-de-Naye)",
@@ -165,8 +183,11 @@
           "tipPt": "Confirme a política para animais da MOB no balcão de bilhetes da estação de Montreux antes de embarcar, os requisitos de açaime para o comboio de cremalheira mudam consoante a época. Um açaime de cesto macio chega.",
           "googleMapsUrl": "https://maps.google.com/?q=Rochers-de-Naye+Switzerland",
           "descriptionDe": "Ein alpiner botanischer Garten auf 2042 m Höhe, auf dem Gipfel der Rochers-de-Naye, erreichbar vom Bahnhof Montreux mit der MOB-Zahnradbahn in 55 Minuten. Der Garten kultiviert rund 1000 alpine Arten aus Gebirgsregionen der ganzen Welt an den südexponierten Hängen kurz unterhalb des Gipfels. Hunde an der Leine sind auf den Wegen zugelassen, und es gibt einen angrenzenden Murmeltierpark, in dem Besucher alpine Murmeltiere von einer eingezäunten Aussichtsfläche aus beobachten können (Hunde bleiben angeleint und auf Distanz). Der Gipfel bietet ein volles Panorama vom Mont Blanc bis zu den Berner Alpen, mit dem Genfersee 2000 m tiefer.",
+          "descriptionNl": "Een alpine botanische tuin op 2042 m hoogte, op de top van de Rochers-de-Naye, bereikbaar vanaf het station van Montreux met de MOB-tandradbaan in 55 minuten. De tuin verzamelt ongeveer 1000 alpiene soorten uit gebergten van over de hele wereld, op de zuidgerichte hellingen net onder de top. Honden aan de lijn zijn toegestaan op de paden, en er is een aangrenzend marmottenpark waar bezoekers alpine marmotten kunnen observeren vanaf een omheind uitzichtpunt (honden blijven aangelijnd en op afstand). De top biedt een volledig panorama van de Mont Blanc tot de Berner Alpen, met het meer van Genève 2000 m lager.",
           "petPolicyDe": "Hunde an der Leine auf den Wegen zugelassen, MOB-Bahn erfordert Maulkorb für mittelgrosse und grosse Hunde",
-          "tipDe": "Prüfen Sie die Haustierrichtlinie der MOB am Schalter des Bahnhofs Montreux vor der Fahrt, die Maulkorbpflicht für die Zahnradbahn ändert sich saisonal. Ein weicher Maulkorb aus Stoff genügt."
+          "petPolicyNl": "Honden aan de lijn toegestaan op de paden, MOB-trein vereist muilkorf voor middelgrote en grote honden",
+          "tipDe": "Prüfen Sie die Haustierrichtlinie der MOB am Schalter des Bahnhofs Montreux vor der Fahrt, die Maulkorbpflicht für die Zahnradbahn ändert sich saisonal. Ein weicher Maulkorb aus Stoff genügt.",
+          "tipNl": "Controleer het huisdierenbeleid van de MOB aan het loket van station Montreux voor vertrek, de muilkorfplicht voor de tandradbaan verandert per seizoen. Een zachte stoffen muilkorf volstaat."
         },
         {
           "name": "Parc des Cygnes (Place du Marché)",
@@ -189,13 +210,19 @@
           "tipPt": "Nas manhãs de quarta-feira e de sábado a Place du Marché acolhe um mercado, os cães são bem-vindos junto às bancas e os vendedores de queijo dão muitas vezes um pedacinho de Tête de Moine ao cão.",
           "googleMapsUrl": "https://maps.google.com/?q=Place+du+Marche+Montreux",
           "descriptionDe": "Ein kleiner, grüner Uferpark neben der Place du Marché, benannt nach den weissen Schwänen, die sich auf dem Wasser direkt darunter versammeln. Platanen, Bänke, Rasenflächen und direkter Zugang zur Promenade Quais Fleuris machen ihn zu einem natürlichen Ruhepunkt zwischen den Einkaufsstrassen der Altstadt und dem Uferspaziergang. Hunde an der Leine sind im gesamten Park willkommen. Schwäne nisten hier von März bis Mai am Ufer, machen Sie mit Hund einen kurzen Umweg um die Nistbereiche.",
+          "descriptionNl": "Een klein, groen parkje bij het meer naast de Place du Marché, genoemd naar de witte zwanen die zich net eronder op het water verzamelen. Platanen, banken, gazons en directe toegang tot de promenade Quais Fleuris maken er een natuurlijke adempauze van tussen de winkelstraten van de oude stad en de oeverwandeling. Honden aan de lijn zijn welkom in het hele park. Zwanen broeden hier van maart tot mei langs de oever, maak met je hond een kleine omweg rond de broedgebieden.",
           "petPolicyDe": "Hunde an der Leine im gesamten Park willkommen",
-          "tipDe": "Mittwoch- und Samstagmorgen findet auf der Place du Marché ein Markt statt, Hunde sind an den Ständen willkommen, und die Käsehändler reichen dem Hund oft ein kleines Stück Tête de Moine."
+          "petPolicyNl": "Honden aan de lijn welkom in het hele park",
+          "tipDe": "Mittwoch- und Samstagmorgen findet auf der Place du Marché ein Markt statt, Hunde sind an den Ständen willkommen, und die Käsehändler reichen dem Hund oft ein kleines Stück Tête de Moine.",
+          "tipNl": "Op woensdag- en zaterdagochtend is er een markt op de Place du Marché, honden zijn welkom bij de kraampjes en de kaashandelaars geven de hond vaak een klein stukje Tête de Moine."
         }
       ],
       "titleDe": "Parks und Grünflächen in Montreux",
+      "titleNl": "Parken en groene ruimtes in Montreux",
       "introDe": "Der prägende Aussenraum von Montreux ist kein einzelner Park, sondern ein sieben Kilometer langes Band: die Quais Fleuris, die blumengeschmückte Uferpromenade, die ununterbrochen von Vevey über Clarens, das Zentrum von Montreux und Territet bis nach Villeneuve verläuft. Hunde an der Leine sind auf der gesamten Strecke willkommen, die Rasenbänke bieten natürliche Rastplätze, und die Bronzestatue von Freddie Mercury beim Casino ist zu einem Wallfahrtsort für Selfies mit Hund geworden. Oberhalb des Sees bieten der alpine Garten La Rambertia auf den Rochers-de-Naye (erreichbar mit der MOB-Zahnradbahn) und der bewaldete Hang von Sonchaux Wandermöglichkeiten in höherer Lage. Im Vieux Montreux ist der kleine Parc des Cygnes bei der Kirche Saint-Vincent ein ruhiger, schattiger Platz, ideal für eine Pause in der Altstadt.",
-      "faqsDe": []
+      "introNl": "De beeldbepalende buitenruimte van Montreux is geen enkel park, maar een zeven kilometer lang lint: de Quais Fleuris, de bebloemde oeverpromenade die ononderbroken loopt van Vevey via Clarens, het centrum van Montreux en Territet tot Villeneuve. Honden aan de lijn zijn welkom over de hele route, de gazonbanken bieden natuurlijke rustplekken, en het bronzen standbeeld van Freddie Mercury bij het Casino is uitgegroeid tot een bedevaartsoord voor selfies met hond. Boven het meer bieden de alpine tuin La Rambertia op de Rochers-de-Naye (bereikbaar met de MOB-tandradbaan) en de beboste helling van Sonchaux wandelmogelijkheden op grotere hoogte. In Vieux Montreux is het kleine Parc des Cygnes bij de kerk van Saint-Vincent een rustig, schaduwrijk plein, ideaal voor een pauze in de oude stad.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting Around Montreux with Pets",
@@ -227,8 +254,11 @@
           "tipPt": "O cartão diário para animais da SBB (Tageskarte Hund) custa 25 CHF e cobre um dia inteiro na SBB, na maioria dos comboios de cremalheira e em muitos teleféricos, o melhor negócio se planear um dia de altura.",
           "googleMapsUrl": "https://maps.google.com/?q=Gare+de+Montreux",
           "descriptionDe": "Das nationale Schweizer Schienennetz verbindet Montreux mit Lausanne (22 Min.), Genf (1 Std. 10 Min.), Bern (1 Std. 25 Min. via Lausanne) und Brig (1 Std. 5 Min.). Hunde unter 30 cm Schulterhöhe reisen in einer Transportbox kostenlos, Hunde über dieser Grösse zahlen den halben Fahrpreis, ohne Maulkorb- und Boxenpflicht auf Standardverbindungen. Der Bahnhof Montreux liegt am Seeufer und ist Knotenpunkt für die SBB, die MOB GoldenPass Line, die MOB-Zahnradbahn zu den Rochers-de-Naye und den VMCV-Trolleybus. Die meisten Bahnsteige verfügen über direkten Liftzugang für Gepäck und Transportboxen.",
+          "descriptionNl": "Het nationale Zwitserse spoornetwerk verbindt Montreux met Lausanne (22 min.), Genève (1 u 10 min.), Bern (1 u 25 min. via Lausanne) en Brig (1 u 5 min.). Honden onder 30 cm schofthoogte reizen gratis in een draagtas, honden boven die hoogte betalen een half tarief zonder muilkorf- of draagtasverplichting op standaarddiensten. Het station van Montreux ligt aan het meer en is het knooppunt voor de SBB, de MOB GoldenPass Line, de MOB-tandradbaan naar de Rochers-de-Naye en de VMCV-trolleybus. De meeste perrons hebben directe lifttoegang voor bagage en draagtassen.",
           "petPolicyDe": "Hunde unter 30 cm kostenlos in Box, Hunde über 30 cm zum halben Preis, kein Maulkorb bei der SBB erforderlich",
-          "tipDe": "Die SBB-Tageskarte Hund kostet 25 CHF und gilt einen ganzen Tag lang für die SBB, die meisten Zahnradbahnen und viele Seilbahnen, das beste Angebot, wenn Sie einen Tag in den Bergen planen."
+          "petPolicyNl": "Honden onder 30 cm gratis in draagtas, honden boven 30 cm tegen half tarief, geen muilkorf vereist bij de SBB",
+          "tipDe": "Die SBB-Tageskarte Hund kostet 25 CHF und gilt einen ganzen Tag lang für die SBB, die meisten Zahnradbahnen und viele Seilbahnen, das beste Angebot, wenn Sie einen Tag in den Bergen planen.",
+          "tipNl": "De SBB-dagkaart Hond kost 25 CHF en geldt een hele dag lang voor de SBB, de meeste tandradbanen en veel kabelbanen, de beste deal als je een dag in de bergen plant."
         },
         {
           "name": "GoldenPass Line MOB (Panoramic Train)",
@@ -250,8 +280,11 @@
           "tipPt": "Reserve uma carruagem Classic (não Belle Époque) se o seu cão precisar de se deitar no chão, os assentos são estofados e as carruagens Classic dão mais espaço de chão junto às janelas.",
           "googleMapsUrl": "https://maps.google.com/?q=Gare+de+Montreux",
           "descriptionDe": "Die MOB GoldenPass Line ist die Panoramazugverbindung von Montreux nach Zweisimmen (2 Std. 5 Min.) und weiter nach Interlaken (3 Std. 15 Min. mit Umsteigen), eine der berühmtesten Panoramabahnreisen der Schweiz durch die Préalpes, das Greyerzerland und das Berner Oberland. Hunde sind auf der gesamten Strecke zum SBB-Standardtarif zugelassen (halber Preis über 30 cm Schulterhöhe, kostenlos in der Box darunter). Die Panoramawagen haben grosse Panoramafenster, ideal für einen Hund zu Ihren Füssen. In der Hochsaison wird für den direkten GoldenPass-Express-Service eine Reservierung empfohlen.",
+          "descriptionNl": "De MOB GoldenPass Line is de panoramische treinverbinding van Montreux naar Zweisimmen (2 u 5 min.) en verder naar Interlaken (3 u 15 min. met overstap), een van de meest geroemde panoramische treinreizen van Zwitserland door de Préalpes, de Gruyère en het Berner Oberland. Honden worden toegelaten over de hele lijn tegen het standaard SBB-tarief (half tarief boven 30 cm schofthoogte, gratis in draagtas eronder). De panoramarijtuigen hebben grote panoramaramen, ideaal voor een hond aan je voeten. Reservering wordt aanbevolen in het hoogseizoen voor de directe GoldenPass Express-dienst.",
           "petPolicyDe": "Hunde zum SBB-Standardtarif zugelassen, kein Maulkorb erforderlich, Reservierung in der Hochsaison empfohlen",
-          "tipDe": "Buchen Sie einen Classic-Wagen (nicht Belle Époque), wenn Ihr Hund am Boden liegen muss, die Sitze sind gepolstert, und die Classic-Wagen bieten an den Fenstern mehr Bodenfläche."
+          "petPolicyNl": "Honden toegelaten tegen het standaard SBB-tarief, geen muilkorf vereist, reservering aanbevolen in het hoogseizoen",
+          "tipDe": "Buchen Sie einen Classic-Wagen (nicht Belle Époque), wenn Ihr Hund am Boden liegen muss, die Sitze sind gepolstert, und die Classic-Wagen bieten an den Fenstern mehr Bodenfläche.",
+          "tipNl": "Boek een Classic-rijtuig (niet Belle Époque) als je hond op de grond moet liggen, de zitplaatsen zijn bekleed en de Classic-rijtuigen bieden meer vloerruimte bij de ramen."
         },
         {
           "name": "CGN Lake Boats (Compagnie Générale de Navigation)",
@@ -273,13 +306,19 @@
           "tipPt": "Apanhe o barco de Montreux para Chillon em vez de ir a pé, a travessia de 15 minutos chega diretamente à porta do castelo, os cães adoram os salpicos num dia de sol e poupa-se ao movimentado passeio à beira-lago.",
           "googleMapsUrl": "https://maps.google.com/?q=Debarcadere+Montreux",
           "descriptionDe": "Die CGN betreibt Passagierboote und die historischen Belle-Époque-Raddampfer auf dem Genfersee, die Montreux mit Vevey (25 Min.), Lausanne (1 Std. 30 Min.), Genf (4 Std., landschaftlich) und über den See mit Évian und Saint-Gingolph verbinden. Hunde sind auf allen CGN-Booten kostenlos zugelassen und auf den offenen Decks willkommen. Die Kurzstrecke Montreux-Chillon-Villeneuve ist eine 20-minütige Fahrt entlang des steilsten Abschnitts der Lavaux-UNESCO-Terrassen, ein typischer Riviera-Hundeausflug.",
+          "descriptionNl": "De CGN exploiteert passagiersboten en de historische Belle Époque-raderstoomboten op het meer van Genève, die Montreux verbinden met Vevey (25 min.), Lausanne (1 u 30 min.), Genève (4 u, landschappelijk) en, over het meer, met Évian en Saint-Gingolph. Honden worden gratis toegelaten op alle CGN-boten en zijn welkom op de open dekken. De korte route Montreux-Chillon-Villeneuve is een tocht van 20 minuten langs het steilste deel van de Lavaux UNESCO-terrassen, een typisch Riviera-uitje met hond.",
           "petPolicyDe": "Hunde auf allen Booten zugelassen, kostenlos, Zugang zum offenen Deck",
-          "tipDe": "Nehmen Sie das Boot von Montreux nach Chillon statt zu Fuss zu gehen, die 15-minütige Überfahrt legt direkt am Schlosstor an, Hunde lieben die Gischt an einem sonnigen Tag, und Sie umgehen den belebten Uferweg."
+          "petPolicyNl": "Honden toegelaten op alle boten, gratis, toegang tot het open dek",
+          "tipDe": "Nehmen Sie das Boot von Montreux nach Chillon statt zu Fuss zu gehen, die 15-minütige Überfahrt legt direkt am Schlosstor an, Hunde lieben die Gischt an einem sonnigen Tag, und Sie umgehen den belebten Uferweg.",
+          "tipNl": "Neem de boot van Montreux naar Chillon in plaats van te lopen, de overtocht van 15 minuten legt direct aan bij de kasteelpoort, honden genieten van het opspattende water op een zonnige dag, en je vermijdt het drukke oeverpad."
         }
       ],
       "titleDe": "Mit Haustieren unterwegs in Montreux",
+      "titleNl": "Onderweg met huisdieren in Montreux",
       "introDe": "Montreux liegt an der SBB-Linie am Genfersee und ist mit Hund per Zug aussergewöhnlich einfach erreichbar. Es gelten die SBB-Regeln: Hunde unter 30 cm Schulterhöhe reisen in einer Transportbox kostenlos, Hunde über dieser Grösse zahlen den halben Fahrpreis, ohne Maulkorb- und Boxenpflicht auf Standardverbindungen. Der Panoramazug MOB GoldenPass Line verkehrt von Montreux nach Zweisimmen und Interlaken, Hunde sind durchgehend erlaubt. Die CGN-Dampfer und modernen Seeboote nehmen Hunde kostenlos an Deck mit. Vor Ort verbindet die VMCV-Trolleybuslinie 201 Vevey, Montreux und Villeneuve entlang des Ufers, Hunde fahren kostenlos. Für die Höhen nimmt die MOB-Zahnradbahn zu den Rochers-de-Naye Hunde mit (Maulkorb für mittelgrosse und grosse Hunde, am Schalter prüfen).",
-      "faqsDe": []
+      "introNl": "Montreux ligt aan de SBB-lijn van het meer van Genève en is uitzonderlijk gemakkelijk te bereiken met de trein met een hond. De SBB-regels gelden: honden onder 30 cm schofthoogte reizen gratis in een draagtas, honden boven die hoogte betalen een half tarief zonder muilkorf- of draagtasverplichting op standaarddiensten. De panoramatrein MOB GoldenPass Line rijdt van Montreux naar Zweisimmen en Interlaken, honden toegestaan op de hele route. De CGN-stoomboten en moderne meerboten nemen honden gratis mee aan dek. Lokaal verbindt de VMCV-trolleybuslijn 201 Vevey, Montreux en Villeneuve langs het meer, honden gratis. Voor de hoogten neemt de MOB-tandradbaan naar de Rochers-de-Naye honden mee (muilkorf voor middelgrote en grote honden, controleer aan het loket).",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches and Lake Shores in Montreux",
@@ -312,8 +351,11 @@
           "tipPt": "Aponte para o nascer do sol em maio ou outubro, a luz crescente incide diretamente na face dos Dents du Midi e toda a praia fica vazia. A entrada de seixos é mais fácil onde o pontão de madeira encontra a margem.",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Clarens+Montreux",
           "descriptionDe": "Ein kleiner, grasbewachsener öffentlicher Strand im Ortsteil Clarens der Gemeinde Montreux, mit kiesigem Seezugang, einem Holzsteg und einer weiten Rasenfläche. Gemäss der Verordnung der Gemeinde Montreux sind Hunde im Sommer (Juni bis August) von der Badezone ausgeschlossen, ausserhalb der Saison (Oktober bis Mai) jedoch an der Leine auf dem Rasen und am Seezugang erlaubt. Im Mai und September ist das Wasser ruhig, der Kieszugang ist pfotenschonend, und der Blick zu den Dents du Midi auf der anderen Seeseite ist aussergewöhnlich.",
+          "descriptionNl": "Een klein, grasrijk openbaar strand in het dorpsdeel Clarens van de gemeente Montreux, met een kiezelstrand toegang tot het meer, een houten steiger en een groot grasveld. Volgens het reglement van de gemeente Montreux zijn honden in de zomer (juni tot augustus) uitgesloten van de zwemzone, maar buiten het seizoen (oktober tot mei) toegestaan aan de lijn op het gras en bij de meertoegang. In mei en september is het water rustig, de kiezeltoegang is pootvriendelijk, en het uitzicht op de Dents du Midi aan de overkant van het meer is uitzonderlijk.",
           "petPolicyDe": "Hunde an der Leine ausserhalb der Saison (Okt. bis Mai), von der Badezone ausgeschlossen Juni bis Aug.",
-          "tipDe": "Zielen Sie im Mai oder Oktober auf den Sonnenaufgang, das aufgehende Licht trifft direkt auf die Dents du Midi, und der gesamte Strand ist leer. Der Kieszugang ist dort am einfachsten, wo der Holzsteg auf das Ufer trifft."
+          "petPolicyNl": "Honden aan de lijn buiten het seizoen (okt. tot mei), uitgesloten van de zwemzone juni tot aug.",
+          "tipDe": "Zielen Sie im Mai oder Oktober auf den Sonnenaufgang, das aufgehende Licht trifft direkt auf die Dents du Midi, und der gesamte Strand ist leer. Der Kieszugang ist dort am einfachsten, wo der Holzsteg auf das Ufer trifft.",
+          "tipNl": "Mik in mei of oktober op de zonsopgang, het opkomende licht valt direct op de Dents du Midi, en het hele strand is leeg. De kiezeltoegang is daar het gemakkelijkst, waar de houten steiger de oever raakt."
         },
         {
           "name": "Plage de Vevey",
@@ -336,8 +378,11 @@
           "tipPt": "Nas manhãs de terça-feira e de sábado o mercado de Vevey transborda para a orla do lago, cães bem-vindos junto às bancas, depois caminhe para leste em direção a Clarens para uma tarde sossegada junto ao lago.",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Vevey",
           "descriptionDe": "Ein kleiner öffentlicher Seestrand am Ufer von Vevey unterhalb der Place du Marché, mit Rasenflächen, kiesigem Wasserzugang und direktem Anschluss an die weiterführende Promenade Quais Fleuris in Richtung Montreux. Gemäss der Verordnung der Gemeinde Vevey sind Hunde im Sommer (Juni bis August) von der Badezone ausgeschlossen, ausserhalb der Saison (Oktober bis Mai) jedoch an der Leine auf Rasen und Seezugang erlaubt. Ein kurzer Spaziergang westwärts führt zur Charlie-Chaplin-Statue und zum Alimentarium, Uferwahrzeichen, die sich gut mit einem Hundespaziergang kombinieren lassen.",
+          "descriptionNl": "Een klein openbaar meerstrand aan de oever van Vevey, onder de Place du Marché, met grasvelden, kiezeltoegang tot het water en directe aansluiting op de verdergaande promenade Quais Fleuris richting Montreux. Volgens het reglement van de gemeente Vevey zijn honden in de zomer (juni tot augustus) uitgesloten van de zwemzone, maar buiten het seizoen (oktober tot mei) toegestaan aan de lijn op het gras en bij de meertoegang. Een korte wandeling westwaarts leidt naar het standbeeld van Charlie Chaplin en het Alimentarium, oeverbezienswaardigheden die goed te combineren zijn met een hondenwandeling.",
           "petPolicyDe": "Hunde an der Leine ausserhalb der Saison (Okt. bis Mai), von der Badezone ausgeschlossen Juni bis Aug.",
-          "tipDe": "Dienstag- und Samstagmorgen breitet sich der Markt von Vevey bis ans Ufer aus, Hunde sind an den Ständen willkommen, gehen Sie danach ostwärts Richtung Clarens für einen ruhigen Nachmittag am See."
+          "petPolicyNl": "Honden aan de lijn buiten het seizoen (okt. tot mei), uitgesloten van de zwemzone juni tot aug.",
+          "tipDe": "Dienstag- und Samstagmorgen breitet sich der Markt von Vevey bis ans Ufer aus, Hunde sind an den Ständen willkommen, gehen Sie danach ostwärts Richtung Clarens für einen ruhigen Nachmittag am See.",
+          "tipNl": "Op dinsdag- en zaterdagochtend breidt de markt van Vevey zich uit tot aan de oever, honden zijn welkom bij de kraampjes, loop daarna oostwaarts richting Clarens voor een rustige middag aan het meer."
         },
         {
           "name": "Lavaux UNESCO Vineyards (Sentier Viticole)",
@@ -360,13 +405,19 @@
           "tipPt": "O miradouro de Chexbres, sobre Saint-Saphorin, oferece o panorama de postal dos socalcos e do lago Lemano, programe o passeio para chegar na hora dourada com o cão e um copo de Saint-Saphorin Grand Cru.",
           "googleMapsUrl": "https://maps.google.com/?q=Lavaux+Vineyards+Saint-Saphorin",
           "descriptionDe": "Die als UNESCO-Welterbe gelisteten Weinbergterrassen der Lavaux erstrecken sich über 800 Hektar entlang des Nordufers des Genfersees von Lutry bis Chillon. Der Weinwanderweg Sentier Viticole verläuft 32 km durch die Terrassen, Hunde an der Leine sind durchgehend zugelassen, mit mehreren Abstiegen am See zu Dörfern wie Saint-Saphorin, Rivaz und Cully. Die Erntesaison (Mitte September bis Mitte Oktober) ist der Höhepunkt, viele Weinkeller öffnen ihre Türen mit Verkostungen und Wassernäpfen für Hunde. Ein üblicher Halbtagesausflug ab Montreux ist die Bootsfahrt nach Cully, die Wanderung auf dem Sentier ostwärts nach Saint-Saphorin und dann die Rückfahrt mit dem Zug nach Vevey oder Montreux.",
+          "descriptionNl": "De als UNESCO-werelderfgoed erkende wijngaardterrassen van de Lavaux strekken zich uit over 800 hectare langs de noordoever van het meer van Genève, van Lutry tot Chillon. Het wijnwandelpad Sentier Viticole loopt 32 km door de terrassen, honden aan de lijn zijn overal toegestaan, met verschillende afdalingen naar het meer bij dorpen als Saint-Saphorin, Rivaz en Cully. Het oogstseizoen (half september tot half oktober) is het hoogtepunt, veel wijnkelders openen hun deuren met proeverijen en waterbakjes voor honden. Een gebruikelijk halvedagsuitje vanuit Montreux is de boottocht naar Cully, de wandeling op het Sentier oostwaarts naar Saint-Saphorin en daarna de terugreis per trein naar Vevey of Montreux.",
           "petPolicyDe": "Hunde an der Leine auf allen öffentlichen Wegen durch die Weinberge zugelassen",
-          "tipDe": "Der Aussichtspunkt Chexbres oberhalb von Saint-Saphorin bietet das Postkartenpanorama der Terrassen und des Genfersees, planen Sie die Wanderung so, dass Sie mit Hund zur goldenen Stunde ankommen, mit einem Glas Saint-Saphorin Grand Cru."
+          "petPolicyNl": "Honden aan de lijn toegestaan op alle openbare paden door de wijngaarden",
+          "tipDe": "Der Aussichtspunkt Chexbres oberhalb von Saint-Saphorin bietet das Postkartenpanorama der Terrassen und des Genfersees, planen Sie die Wanderung so, dass Sie mit Hund zur goldenen Stunde ankommen, mit einem Glas Saint-Saphorin Grand Cru.",
+          "tipNl": "Het uitkijkpunt Chexbres boven Saint-Saphorin biedt het ansichtkaartpanorama van de terrassen en het meer van Genève, plan de wandeling zo dat je met je hond aankomt tijdens het gouden uur, met een glas Saint-Saphorin Grand Cru."
         }
       ],
       "titleDe": "Hundefreundliche Strände und Seeufer in Montreux",
+      "titleNl": "Hondvriendelijke stranden en meeroevers in Montreux",
       "introDe": "Der Genfersee bei Montreux wird von kurzen öffentlichen Stränden in Clarens, Vevey und Villeneuve gesäumt. Gemäss den Verordnungen der Gemeinden Montreux und Vevey sind Hunde während der Sommersaison (Juni bis August) von den Hauptbadezonen ausgeschlossen, ausserhalb der Saison (Oktober bis Mai) jedoch an der Leine auf den meisten Stränden erlaubt. Der ergiebigste Hundespaziergang am Wasser bleibt die Promenade Quais Fleuris selbst, mit inoffiziellen Kieszugängen zum See an mehreren Stellen zwischen Clarens und Villeneuve, wo ein Hund planschen kann. Der Sentier Viticole der Lavaux oberhalb des Sees bietet eine Alternative durch die Weinberge.",
-      "faqsDe": []
+      "introNl": "Het meer van Genève bij Montreux wordt omzoomd door korte openbare stranden in Clarens, Vevey en Villeneuve. Volgens de reglementen van de gemeenten Montreux en Vevey zijn honden tijdens het zomerseizoen (juni tot augustus) uitgesloten van de belangrijkste zwemzones, maar buiten het seizoen (oktober tot mei) toegestaan aan de lijn op de meeste stranden. De rijkste hondenwandeling aan het water blijft de promenade Quais Fleuris zelf, met informele kiezeltoegangen tot het meer op verschillende plekken tussen Clarens en Villeneuve, waar een hond kan pootjebaden. Het Sentier Viticole van de Lavaux boven het meer biedt een alternatief door de wijngaarden.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Montreux, Veterinary Clinics and Pet Care",
@@ -400,8 +451,11 @@
           "tipPt": "Marque online em veteovet.ch antes da chegada, o gabinete funciona por marcação e as vagas de sábado enchem depressa. Para emergências fora de horas, o Service de Garde de Vaud reencaminha para o veterinário de turno da Riviera.",
           "googleMapsUrl": "https://maps.google.com/?q=Avenue+de+Chillon+70+Montreux",
           "descriptionDe": "Eine moderne Allgemeinpraxis in Territet am östlichen Rand von Montreux, 300 m vom Bahnhof Territet und 100 m von der Trolleybushaltestelle Eaudine entfernt, geführt von Dr. Théo Decalf. Konsultationen, Impfungen, Chirurgie, Zahnbehandlungen und Hausbesuche für Katzen, Hunde und Kaninchen. Kostenlose Parkplätze auf der Strasse. Englisch, Französisch und Deutsch werden gesprochen. EU-Heimtierausweis-Bestätigungen verfügbar.",
+          "descriptionNl": "Een moderne huisartsenpraktijk voor dieren in Territet, aan de oostrand van Montreux, 300 m van station Territet en 100 m van trolleybushalte Eaudine, geleid door dr. Théo Decalf. Consultaties, vaccinaties, chirurgie, tandbehandelingen en huisbezoeken voor katten, honden en konijnen. Gratis parkeren op straat. Er wordt Engels, Frans en Duits gesproken. EU-dierenpaspoort-bevestigingen beschikbaar.",
           "petPolicyDe": "Katzen, Hunde, Kaninchen, EU-Ausweis-Bestätigungen, Hausbesuche möglich",
-          "tipDe": "Buchen Sie online über veteovet.ch vor der Ankunft, die Praxis arbeitet nach Terminvereinbarung, und die Samstagstermine sind schnell ausgebucht. Für Notfälle ausserhalb der Öffnungszeiten leitet der Waadtländer Notdienst an den diensthabenden Riviera-Tierarzt weiter."
+          "petPolicyNl": "Katten, honden, konijnen, EU-paspoortbevestigingen, huisbezoeken mogelijk",
+          "tipDe": "Buchen Sie online über veteovet.ch vor der Ankunft, die Praxis arbeitet nach Terminvereinbarung, und die Samstagstermine sind schnell ausgebucht. Für Notfälle ausserhalb der Öffnungszeiten leitet der Waadtländer Notdienst an den diensthabenden Riviera-Tierarzt weiter.",
+          "tipNl": "Boek online via veteovet.ch voor aankomst, de praktijk werkt op afspraak en de zaterdagafspraken zijn snel volgeboekt. Voor noodgevallen buiten openingstijden verwijst de Vaudoise dierenartsspoeddienst door naar de dienstdoende dierenarts op de Riviera."
         },
         {
           "name": "Cabinet Vétérinaire Gambetta",
@@ -425,8 +479,11 @@
           "tipPt": "Ligue com antecedência para o +41 21 964 64 11 para uma marcação, o gabinete não aceita atendimentos sem marcação. Para uma verdadeira emergência, ligue primeiro para o Service de Garde de Vaud, 021 552 75 75.",
           "googleMapsUrl": "https://maps.google.com/?q=Rue+Gambetta+27+Clarens",
           "descriptionDe": "Eine seit Langem etablierte Kleintierpraxis in Clarens, geführt von Dr. Thierry Dupont, Mitglied SVS-SVV. Routinekonsultationen, Impfungen, Chippen, Chirurgie und Zahnbehandlungen. Anrufe ausserhalb der Öffnungszeiten werden über den Anrufbeantworter an den diensthabenden Tierarzt für den Riviera-Sektor weitergeleitet, der sich von Vevey bis Aigle erstreckt. Praktisch für Besucher in Hotels in Clarens oder im westlichen Montreux.",
+          "descriptionNl": "Een al lang gevestigde kleindierenpraktijk in Clarens, geleid door dr. Thierry Dupont, lid van SVS-SVV. Routineconsultaties, vaccinaties, chippen, chirurgie en tandbehandelingen. Oproepen buiten openingstijden worden via het antwoordapparaat doorgeschakeld naar de dienstdoende dierenarts voor de Riviera-sector, die zich uitstrekt van Vevey tot Aigle. Handig voor bezoekers in hotels in Clarens of het westelijke Montreux.",
           "petPolicyDe": "Katzen, Hunde, Notdienst ausserhalb der Öffnungszeiten an Riviera-Tierarzt weitergeleitet",
-          "tipDe": "Rufen Sie vorab unter +41 21 964 64 11 für einen Termin an, die Praxis nimmt keine Walk-ins an. Bei einem echten Notfall wählen Sie zuerst den Waadtländer Notdienst unter 021 552 75 75."
+          "petPolicyNl": "Katten, honden, spoeddienst buiten openingstijden doorgeschakeld naar Riviera-dierenarts",
+          "tipDe": "Rufen Sie vorab unter +41 21 964 64 11 für einen Termin an, die Praxis nimmt keine Walk-ins an. Bei einem echten Notfall wählen Sie zuerst den Waadtländer Notdienst unter 021 552 75 75.",
+          "tipNl": "Bel vooraf naar +41 21 964 64 11 voor een afspraak, de praktijk neemt geen inloopklanten aan. Bij een echt noodgeval bel je eerst de Vaudoise dierenartsspoeddienst op 021 552 75 75."
         },
         {
           "name": "Cabinet Vétérinaire Arche-en-Ville (Vevey)",
@@ -450,13 +507,19 @@
           "tipPt": "Guarde o +41 21 922 87 88 no telemóvel antes de chegar a Montreux, encaminha diretamente para o veterinário de turno fora do horário de expediente, para toda a Riviera de Vevey-Montreux.",
           "googleMapsUrl": "https://maps.google.com/?q=Avenue+Gustave-Coindet+2+Vevey",
           "descriptionDe": "Eine zentrale Kleintierpraxis in Vevey, 6 km westlich von Montreux, nahe La Tour-de-Peilz und Saint-Légier, mit eigener Notfalllinie für den Sektor Vevey-Montreux. Routinekonsultationen, Vorsorge, Chirurgie, Zahnbehandlungen und Reisebescheinigungen. Direkter Ansprechpartner für die westliche Riviera und die Lavaux. Französisch und Englisch werden gesprochen.",
+          "descriptionNl": "Een centrale kleindierenpraktijk in Vevey, 6 km ten westen van Montreux, dicht bij La Tour-de-Peilz en Saint-Légier, met een eigen spoedlijn voor de sector Vevey-Montreux. Routineconsultaties, preventieve zorg, chirurgie, tandbehandelingen en reisverklaringen. Direct aanspreekpunt voor de westelijke Riviera en de Lavaux. Er wordt Frans en Engels gesproken.",
           "petPolicyDe": "Katzen, Hunde, eigene Notfalllinie für den Sektor Vevey-Montreux",
-          "tipDe": "Speichern Sie +41 21 922 87 88 in Ihrem Telefon, bevor Sie in Montreux ankommen, die Nummer leitet ausserhalb der Geschäftszeiten direkt an den diensthabenden Tierarzt für die gesamte Riviera Vevey-Montreux weiter."
+          "petPolicyNl": "Katten, honden, eigen spoedlijn voor de sector Vevey-Montreux",
+          "tipDe": "Speichern Sie +41 21 922 87 88 in Ihrem Telefon, bevor Sie in Montreux ankommen, die Nummer leitet ausserhalb der Geschäftszeiten direkt an den diensthabenden Tierarzt für die gesamte Riviera Vevey-Montreux weiter.",
+          "tipNl": "Sla +41 21 922 87 88 op in je telefoon voordat je in Montreux aankomt, het nummer schakelt buiten kantooruren direct door naar de dienstdoende dierenarts voor de hele Riviera Vevey-Montreux."
         }
       ],
       "titleDe": "Notfalltierärzte in Montreux, Tierarztpraxen und Haustierbetreuung",
+      "titleNl": "Spoeddierenartsen in Montreux, dierenartspraktijken en huisdierenzorg",
       "introDe": "Montreux liegt an der östlichen Riviera, 25 km von Lausanne entfernt, wo sich das nächstgelegene 24/7-Spezialkrankenhaus, die CHUV Vetsuisse in Épalinges, befindet. Die lokale Grundversorgung ist gut abgedeckt: die Vétéo Cabinet Vétérinaire in Territet und das Cabinet Vétérinaire Gambetta in Clarens betreuen Montreux direkt, und das Cabinet Vétérinaire Arche-en-Ville deckt Vevey, 6 km westlich, ab. Der kantonale Notdienst Waadt (Service de Garde Vétérinaire, 021 552 75 75) leitet Anrufe ausserhalb der Öffnungszeiten an den diensthabenden Tierarzt für den Riviera-Sektor weiter. Das Schweizer Recht verlangt, dass Hunde gechipt, gegen Tollwut geimpft und bei AMICUS registriert sind. Der EU-Heimtierausweis wird an der Grenze akzeptiert. Die Schweizer Tierarztgebühren liegen über dem europäischen Durchschnitt, eine Reiseversicherung für Ihr Haustier wird dringend empfohlen.",
-      "faqsDe": []
+      "introNl": "Montreux ligt aan de oostelijke Riviera, 25 km van Lausanne, waar het dichtstbijzijnde 24/7-specialistische ziekenhuis staat, het CHUV Vetsuisse in Épalinges. De lokale basiszorg is goed gedekt: de Vétéo Cabinet Vétérinaire in Territet en het Cabinet Vétérinaire Gambetta in Clarens bedienen Montreux rechtstreeks, en het Cabinet Vétérinaire Arche-en-Ville dekt Vevey, 6 km westelijker. De kantonale spoeddienst van Vaud (Service de Garde Vétérinaire, 021 552 75 75) schakelt oproepen buiten openingstijden door naar de dienstdoende dierenarts voor de Riviera-sector. De Zwitserse wet vereist dat honden gechipt, tegen hondsdolheid ingeent en bij AMICUS geregistreerd zijn. Het EU-dierenpaspoort wordt aan de grens geaccepteerd. De Zwitserse dierenartstarieven liggen boven het Europese gemiddelde, een reisverzekering voor je huisdier wordt sterk aanbevolen.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Pet Travel Tips for Montreux",
@@ -520,8 +583,11 @@
         }
       ],
       "titleDe": "Reisetipps mit Haustier für Montreux",
+      "titleNl": "Reistips met huisdier voor Montreux",
       "introDe": "Montreux ist dank des Schweizer Bundesrechts zu Haustieren, des Riviera-Mikroklimas und einer Stadt, die um einen blumengeschmückten Uferweg herum gestaltet ist, aussergewöhnlich hundefreundlich. Das Wichtigste vor Ihrer Ankunft.",
-      "faqsDe": []
+      "introNl": "Montreux is dankzij de Zwitserse federale wetgeving over huisdieren, het microklimaat van de Riviera en een stad die is ingericht rond een bebloemd oeverpad, uitzonderlijk hondvriendelijk. Het belangrijkste voordat je aankomt.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Montreux",
@@ -554,8 +620,11 @@
           "tipPt": "Combine a visita com a viagem de barco CGN de 15 minutos de Montreux a Chillon, o barco atraca à porta do castelo e os cães viajam no convés aberto de graça. O passeio de regresso ao longo dos Quais Fleuris é o clássico regresso na hora dourada.",
           "googleMapsUrl": "https://maps.google.com/?q=Chateau+de+Chillon+Veytaux",
           "descriptionDe": "Das aus dem 13. Jahrhundert stammende Uferschloss, berühmt durch Lord Byrons Gedicht Der Gefangene von Chillon (1816), thront auf einem Felsenriff am östlichen Ende des Genfersees, 3 km von Montreux entfernt. Die Fondation Chillon lässt angeleinte Hunde in den Aussenhöfen und den umliegenden Gärten zu, jedoch nicht in den Museumsräumen oder der Kapelle. Die meisten Besucher teilen den Besuch auf: eine Person besichtigt drinnen, während die andere mit dem Hund an den Uferhoftischen wartet. Der Spaziergang entlang der Quais Fleuris von Montreux nach Chillon (50 Minuten) ist der klassische Anmarsch.",
+          "descriptionNl": "Het 13e-eeuwse oeverkasteel, beroemd door Lord Byrons gedicht De gevangene van Chillon (1816), troont op een rotsrif aan de oostkant van het meer van Genève, 3 km van Montreux. De Fondation Chillon laat aangelijnde honden toe op de buitenplaatsen en de omliggende tuinen, maar niet in de museumzalen of de kapel. De meeste bezoekers verdelen het bezoek: de een bezichtigt binnen, terwijl de ander met de hond wacht aan de tafels op de oeverplaats. De wandeling langs de Quais Fleuris van Montreux naar Chillon (50 minuten) is de klassieke aanloop.",
           "petPolicyDe": "Angeleinte Hunde in Aussenhöfen und Gärten willkommen, nicht in Museumsräumen (am Eingang prüfen)",
-          "tipDe": "Kombinieren Sie den Besuch mit der 15-minütigen CGN-Bootsfahrt von Montreux nach Chillon, das Boot legt direkt am Schlosstor an, und Hunde fahren auf dem offenen Deck kostenlos mit. Der Rückweg entlang der Quais Fleuris ist die klassische Rückkehr zur goldenen Stunde."
+          "petPolicyNl": "Aangelijnde honden welkom op buitenplaatsen en in tuinen, niet in de museumzalen (controleer bij de ingang)",
+          "tipDe": "Kombinieren Sie den Besuch mit der 15-minütigen CGN-Bootsfahrt von Montreux nach Chillon, das Boot legt direkt am Schlosstor an, und Hunde fahren auf dem offenen Deck kostenlos mit. Der Rückweg entlang der Quais Fleuris ist die klassische Rückkehr zur goldenen Stunde.",
+          "tipNl": "Combineer het bezoek met de 15 minuten durende CGN-boottocht van Montreux naar Chillon, de boot meert direct aan bij de kasteelpoort, en honden reizen gratis mee op het open dek. De terugweg langs de Quais Fleuris is de klassieke terugkeer tijdens het gouden uur."
         },
         {
           "name": "Freddie Mercury Statue and Casino de Montreux",
@@ -578,8 +647,11 @@
           "tipPt": "Venha ao pôr do sol no fim de junho durante o Montreux Jazz Festival, quando toda a orla do lago fica iluminada e as esplanadas do Casino se enchem com a multidão do festival, os cães são bem-vindos ao longo dos Quais Fleuris em todo o percurso.",
           "googleMapsUrl": "https://maps.google.com/?q=Freddie+Mercury+Statue+Montreux",
           "descriptionDe": "Die Bronzestatue von Freddie Mercury (enthüllt 1996) steht am Ufer direkt unterhalb des Casino de Montreux mit Blick auf den Genfersee. Queen nahm sechs Alben in den Mountain Studios im Casino auf, und das Casino selbst ist Schauplatz des Brands vom Dezember 1971, der in Deep Purples Smoke on the Water verewigt wurde. Die Statue und die Casino-Esplanade liegen im Freien, sind für angeleinte Hunde vollständig zugänglich und gehören zu den meistfotografierten Orten der Schweiz. Die Casino-Terrassen und Bars mit Seeblick heissen Hunde in den Aussenbereichen willkommen.",
+          "descriptionNl": "Het bronzen standbeeld van Freddie Mercury (onthuld in 1996) staat aan de oever, direct onder het Casino de Montreux, met uitzicht op het meer van Genève. Queen nam zes albums op in de Mountain Studios in het Casino, en het Casino zelf is de locatie van de brand van december 1971 die werd vereeuwigd in Deep Purples Smoke on the Water. Het standbeeld en de Casino-esplanade liggen in de open lucht, zijn volledig toegankelijk voor aangelijnde honden en behoren tot de meest gefotografeerde plekken van Zwitserland. De terrassen en bars van het Casino met uitzicht op het meer verwelkomen honden in de buitenruimtes.",
           "petPolicyDe": "Statue und Esplanade vollständig im Freien und hundetauglich, Casino-Aussenbars heissen Hunde willkommen",
-          "tipDe": "Kommen Sie bei Sonnenuntergang Ende Juni während des Montreux Jazz Festival, wenn das gesamte Seeufer beleuchtet ist und sich die Casino-Terrassen mit dem Festivalpublikum füllen, Hunde sind entlang der Quais Fleuris durchgehend willkommen."
+          "petPolicyNl": "Standbeeld en esplanade volledig in de open lucht en hondgeschikt, buitenbars van het Casino verwelkomen honden",
+          "tipDe": "Kommen Sie bei Sonnenuntergang Ende Juni während des Montreux Jazz Festival, wenn das gesamte Seeufer beleuchtet ist und sich die Casino-Terrassen mit dem Festivalpublikum füllen, Hunde sind entlang der Quais Fleuris durchgehend willkommen.",
+          "tipNl": "Kom bij zonsondergang eind juni tijdens het Montreux Jazz Festival, wanneer de hele oever verlicht is en de Casino-terrassen zich vullen met het festivalpubliek, honden zijn overal langs de Quais Fleuris welkom."
         },
         {
           "name": "Vieux Montreux and Église Saint-Vincent",
@@ -602,13 +674,19 @@
           "tipPt": "Suba até à Église Saint-Vincent ao pôr do sol, o adro oferece uma vista de postal do lago e dos Dents du Midi, com os telhados de Vieux Montreux em primeiro plano, ideal com um cão calmo.",
           "googleMapsUrl": "https://maps.google.com/?q=Eglise+Saint-Vincent+Montreux",
           "descriptionDe": "Das mittelalterliche Vieux Montreux erklimmt den Hang über dem See rund um die Église Saint-Vincent, die vom Ufer aus sichtbare Pfarrkirche aus dem 17. Jahrhundert. Enge Gassen, die Grand-Rue, kleine Plätze und terrassierte Gärten bilden einen ruhigen Kontrast zur belebten Seepromenade. Angeleinte Hunde sind überall willkommen, der Kirchhof liegt im Freien und ist zugänglich, und die steinerne Brücke Pont du Bayet über den Wildbach Baye de Montreux ist eine typische Altstadtquerung. Ein Rundgang vom Ufer hinauf durch das Vieux Montreux und zurück über die Quais Fleuris dauert etwa eine Stunde.",
+          "descriptionNl": "Het middeleeuwse Vieux Montreux klimt tegen de helling boven het meer, rond de Église Saint-Vincent, de vanaf de oever zichtbare 17e-eeuwse parochiekerk. Smalle steegjes, de Grand-Rue, kleine pleintjes en terrasvormige tuinen vormen een rustig contrast met de drukke oeverpromenade. Aangelijnde honden zijn overal welkom, het kerkhof ligt in de open lucht en is toegankelijk, en de stenen brug Pont du Bayet over de bergbeek Baye de Montreux is een typische oversteek door de oude stad. Een rondwandeling vanaf de oever omhoog door Vieux Montreux en terug via de Quais Fleuris duurt ongeveer een uur.",
           "petPolicyDe": "Angeleinte Hunde in der gesamten Altstadt willkommen, Kirchhof im Freien zugänglich",
-          "tipDe": "Steigen Sie bei Sonnenuntergang zur Église Saint-Vincent hinauf, der Vorplatz bietet einen Postkartenblick auf den See und die Dents du Midi mit den Dächern des Vieux Montreux im Vordergrund, ideal mit einem ruhigen Hund."
+          "petPolicyNl": "Aangelijnde honden welkom in de hele oude stad, kerkhof in de open lucht toegankelijk",
+          "tipDe": "Steigen Sie bei Sonnenuntergang zur Église Saint-Vincent hinauf, der Vorplatz bietet einen Postkartenblick auf den See und die Dents du Midi mit den Dächern des Vieux Montreux im Vordergrund, ideal mit einem ruhigen Hund.",
+          "tipNl": "Klim bij zonsondergang omhoog naar de Église Saint-Vincent, het voorplein biedt een ansichtkaartuitzicht op het meer en de Dents du Midi, met de daken van Vieux Montreux op de voorgrond, ideaal met een rustige hond."
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Montreux",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Montreux",
       "introDe": "Die bekanntesten Attraktionen von Montreux liegen meist im Freien und am Seeufer. Das Château de Chillon (Lord Byrons Der Gefangene von Chillon, 1816) lässt angeleinte Hunde in den Innenhöfen und Gärten zu, jedoch nicht in den Museumsräumen. Die Bronzestatue von Freddie Mercury an den Quais Fleuris beim Casino liegt vollständig im Freien und ist eine der meistfotografierten Hundekulissen der Schweiz. Das Vieux Montreux rund um die Pfarrkirche Saint-Vincent und die Grand-Rue lädt zu einem einfachen Altstadtbummel mit Terrassen an jeder Ecke ein. Weiter oben bieten die Rochers-de-Naye einen alpinen Gipfel auf 2042 m mit hundetauglichen Wegen.",
-      "faqsDe": []
+      "introNl": "De bekendste attracties van Montreux liggen meestal in de open lucht en aan het meer. Het Château de Chillon (Lord Byrons De gevangene van Chillon, 1816) laat aangelijnde honden toe op de binnenplaatsen en in de tuinen, maar niet in de museumzalen. Het bronzen standbeeld van Freddie Mercury aan de Quais Fleuris bij het Casino ligt volledig in de open lucht en is een van de meest gefotografeerde hondendecors van Zwitserland. Vieux Montreux rond de parochiekerk Saint-Vincent en de Grand-Rue nodigt uit tot een gemakkelijke wandeling door de oude stad, met terrassen op elke hoek. Hogerop bieden de Rochers-de-Naye een alpiene top op 2042 m met hondvriendelijke paden.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "petsitting": {
       "titleEn": "Pet Sitters and Dog Walkers in Montreux",
@@ -645,8 +723,11 @@
           "tipPt": "Reserve com pelo menos 10 dias de antecedência durante o Montreux Jazz Festival (início de julho), os cuidadores da Riviera enchem depressa na quinzena do festival.",
           "googleMapsUrl": "",
           "descriptionDe": "Die grösste community-basierte Haustiersitter-Plattform der Schweiz. Für die Riviera Montreux sind aktive Sitter in Clarens, Montreux, Territet und Vevey gelistet, die Tagesbetreuung, Unterbringung, Spaziergänge und Hausbesuche anbieten. Hintergrundprüfungen und eine tierärztlich unterstützte Versicherung sind bei jeder Buchung inbegriffen.",
+          "descriptionNl": "Het grootste community-gebaseerde platform voor huisdierenoppas van Zwitserland. Voor de Riviera Montreux staan actieve oppassers vermeld in Clarens, Montreux, Territet en Vevey, die dagopvang, logeeropvang, wandelingen en huisbezoeken aanbieden. Achtergrondcontroles en een door een dierenarts ondersteunde verzekering zijn bij elke boeking inbegrepen.",
           "petPolicyDe": "Alle Haustiere, Sitterprofile geben akzeptierte Tiere an",
-          "tipDe": "Buchen Sie mindestens 10 Tage im Voraus während des Montreux Jazz Festival (Anfang Juli), Riviera-Sitter sind in den Festivalwochen schnell ausgebucht."
+          "petPolicyNl": "Alle huisdieren, oppasprofielen geven geaccepteerde dieren aan",
+          "tipDe": "Buchen Sie mindestens 10 Tage im Voraus während des Montreux Jazz Festival (Anfang Juli), Riviera-Sitter sind in den Festivalwochen schnell ausgebucht.",
+          "tipNl": "Boek minstens 10 dagen van tevoren tijdens het Montreux Jazz Festival (begin juli), Riviera-oppassers zitten snel vol tijdens de festivalweken."
         },
         {
           "name": "Petsitting24",
@@ -674,8 +755,11 @@
           "tipPt": "Filtre por encontro de apresentação gratuito, essencial se o seu cão for reativo ou ansioso em casas novas. A maioria dos cuidadores da Riviera oferece uma visita gratuita antes da estadia.",
           "googleMapsUrl": "",
           "descriptionDe": "Ein in der Schweiz gegründeter Marktplatz für Haustierbetreuung mit französischer, deutscher, englischer und italienischer Benutzeroberfläche sowie einem vollständigen Verzeichnis für den Kanton Waadt einschliesslich Montreux, Vevey und der Lavaux. Stundenweise Abrechnung, integrierte Nachrichtenfunktion und optionale Übernachtungsbetreuung zu Hause.",
+          "descriptionNl": "Een in Zwitserland opgerichte marktplaats voor huisdierenzorg met een Franse, Duitse, Engelse en Italiaanse gebruikersinterface, en een volledig register voor het kanton Vaud, inclusief Montreux, Vevey en de Lavaux. Facturering per uur, geïntegreerde berichtenfunctie en optionele overnachtingszorg bij de oppasser thuis.",
           "petPolicyDe": "Hunde und Katzen, Sitterprofile listen Einschränkungen auf",
-          "tipDe": "Filtern Sie nach kostenlosem Kennenlerntreffen, unerlässlich, wenn Ihr Hund in neuer Umgebung reaktiv oder ängstlich ist. Die meisten Riviera-Sitter bieten einen kostenlosen Besuch vor dem Aufenthalt an."
+          "petPolicyNl": "Honden en katten, oppasprofielen vermelden beperkingen",
+          "tipDe": "Filtern Sie nach kostenlosem Kennenlerntreffen, unerlässlich, wenn Ihr Hund in neuer Umgebung reaktiv oder ängstlich ist. Die meisten Riviera-Sitter bieten einen kostenlosen Besuch vor dem Aufenthalt an.",
+          "tipNl": "Filter op gratis kennismakingsafspraak, essentieel als je hond reactief of angstig is in een nieuwe omgeving. De meeste Riviera-oppassers bieden een gratis bezoek aan voorafgaand aan het verblijf."
         },
         {
           "name": "PetBacker Montreux",
@@ -701,13 +785,19 @@
           "tipPt": "Útil quando sobe a Rochers-de-Naye para passar o dia, o comboio de cremalheira MOB pode ser uma viagem demasiado longa para um cão ansioso. Reserve antes um passeador da Riviera de quatro horas e encontrem-se na orla do lago no regresso.",
           "googleMapsUrl": "",
           "descriptionDe": "Internationale Plattform für Haustierbetreuung mit aktiver Präsenz an der Riviera Montreux. Besonders stark bei kurzfristigen Buchungen und spontanen Spaziergängen. Versicherung bei jeder Buchung inbegriffen, öffentliche Bewertungen pro Sitterprofil.",
+          "descriptionNl": "Internationaal platform voor huisdierenzorg met een actieve aanwezigheid aan de Riviera Montreux. Bijzonder sterk in kortetermijnboekingen en spontane wandelingen. Verzekering bij elke boeking inbegrepen, openbare beoordelingen per oppasprofiel.",
           "petPolicyDe": "Alle Haustiere, GPS-Verfolgung bei Spaziergängen",
-          "tipDe": "Nützlich, wenn Sie für den Tag zu den Rochers-de-Naye hinauffahren, die MOB-Zahnradbahn kann für einen ängstlichen Hund eine zu lange Fahrt sein. Buchen Sie stattdessen einen vierstündigen Riviera-Ausführer und treffen Sie sich bei der Rückkehr am Ufer."
+          "petPolicyNl": "Alle huisdieren, GPS-tracking tijdens wandelingen",
+          "tipDe": "Nützlich, wenn Sie für den Tag zu den Rochers-de-Naye hinauffahren, die MOB-Zahnradbahn kann für einen ängstlichen Hund eine zu lange Fahrt sein. Buchen Sie stattdessen einen vierstündigen Riviera-Ausführer und treffen Sie sich bei der Rückkehr am Ufer.",
+          "tipNl": "Handig als je voor de dag naar de Rochers-de-Naye gaat, de MOB-tandradbaan kan voor een angstige hond een te lange rit zijn. Boek in plaats daarvan een uitlaatservice van vier uur aan de Riviera en spreek af bij terugkeer aan de oever."
         }
       ],
       "titleDe": "Haustiersitter und Hundeausführer in Montreux",
+      "titleNl": "Huisdierenoppas en hondenuitlaters in Montreux",
       "introDe": "Die Schweiz verfügt über einen ausgereiften Markt für Haustierbetreuung, und dieselben Online-Plattformen, die Lausanne und Genf bedienen, decken auch Montreux und die Riviera ab. Die Preise liegen bei 25 bis 40 CHF pro Stunde für Spaziergänge und 60 bis 90 CHF pro Tag für die Unterbringung. Die Profile sind detailliert, eine Versicherung ist bei jeder Buchung inbegriffen, und die meisten Riviera-Sitter führen neben Deutsch auch Englisch und Französisch auf.",
-      "faqsDe": []
+      "introNl": "Zwitserland heeft een volwassen markt voor huisdierenzorg, en dezelfde online platforms die Lausanne en Genève bedienen, dekken ook Montreux en de Riviera. De prijzen liggen tussen 25 en 40 CHF per uur voor wandelingen en 60 tot 90 CHF per dag voor logeeropvang. De profielen zijn gedetailleerd, een verzekering is bij elke boeking inbegrepen, en de meeste Riviera-oppassers voeren naast Duits ook Engels en Frans op.",
+      "faqsDe": [],
+      "faqsNl": []
     }
   }
 }

@@ -38,9 +38,13 @@
           "mustTryPt": "Vermute da casa, anchovas cantábricas, pa amb oli",
           "tipPt": "Venha antes das 13:00 ao domingo, quando a esplanada ainda se encontra tranquila e o vermute fresco. Por volta das 14:00 já só há lugares em pé",
           "descriptionDe": "La Rosa ist das schlagende Herz der Wermutkultur von Santa Catalina, eine Nachbarschaftsbar mit sonnengebleichten Fliesen, Marmortischen und einer Terrasse, die sich ab Mittag mit Einheimischen und ihren Hunden füllt. Der Wermut kommt vom Zapfhahn, die Sardellen stammen aus dem Kantabrischen Meer, und niemand hebt eine Augenbraue, wenn Sie mit einem großen Hund erscheinen. Eine typisch mallorquinische Art, einen Sonntagvormittag zu verbringen.",
+          "descriptionNl": "La Rosa is het kloppende hart van de vermoutcultuur van Santa Catalina, een buurtbar met verweerde tegels, marmeren tafels en een terras dat vanaf de middag vollopen met locals en hun honden. De vermout komt van de tap, de ansjovis komt uit de Cantabrische Zee, en niemand kijkt op als je met een grote hond binnenkomt. Een typisch Mallorquijnse manier om een zondagochtend door te brengen.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Wermut nach Hausart, kantabrische Sardellen, pa amb oli",
-          "tipDe": "Kommen Sie sonntags vor 13:00 Uhr, wenn die Terrasse noch ruhig und der Wermut frisch ist. Ab 14:00 Uhr ist nur noch Stehplatz frei"
+          "mustTryNl": "Huisgemaakte vermout, Cantabrische ansjovis, pa amb oli",
+          "tipDe": "Kommen Sie sonntags vor 13:00 Uhr, wenn die Terrasse noch ruhig und der Wermut frisch ist. Ab 14:00 Uhr ist nur noch Stehplatz frei",
+          "tipNl": "Kom op zondag voor 13:00 uur, als het terras nog rustig is en de vermout vers. Vanaf 14:00 uur is er alleen nog staanplaats"
         },
         {
           "name": "Can Eduardo",
@@ -67,9 +71,13 @@
           "mustTryPt": "Arròs brut, peixe fresco grelhado, frito mallorquín",
           "tipPt": "Reserve a esplanada com antecedência em julho e agosto. Peça uma mesa junto à água para a melhor vista da catedral",
           "descriptionDe": "Can Eduardo serviert seit 1942 frische Meeresfrüchte am alten Hafen und bleibt das ikonischste Fischrestaurant Palmas. Seine Terrasse blickt auf die Marina und die Silhouette der Kathedrale La Seu in der Ferne. Hunde sind auf der Terrasse willkommen. Der Arròs brut (schmutziger Reis) und der gegrillte frische Fisch aus mallorquinischen Gewässern sind der Grund, warum Stammgäste Saison für Saison zurückkehren.",
+          "descriptionNl": "Can Eduardo serveert sinds 1942 verse zeevruchten aan de oude haven en blijft het meest iconische visrestaurant van Palma. Het terras kijkt uit op de jachthaven en de silhouet van de kathedraal La Seu in de verte. Honden zijn welkom op het terras. De arròs brut (vuile rijst) en de gegrilde verse vis uit Mallorquijnse wateren zijn de reden dat vaste gasten seizoen na seizoen terugkomen.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Arròs brut, gegrillter frischer Fisch, frito mallorquín",
-          "tipDe": "Reservieren Sie die Terrasse im Juli und August im Voraus. Bitten Sie um einen Tisch nahe am Wasser für den besten Kathedralenblick"
+          "mustTryNl": "Arròs brut, gegrilde verse vis, frito mallorquín",
+          "tipDe": "Reservieren Sie die Terrasse im Juli und August im Voraus. Bitten Sie um einen Tisch nahe am Wasser für den besten Kathedralenblick",
+          "tipNl": "Reserveer het terras in juli en augustus van tevoren. Vraag om een tafel dicht bij het water voor het beste uitzicht op de kathedraal"
         },
         {
           "name": "Portixol Restaurant",
@@ -96,16 +104,23 @@
           "mustTryPt": "Peixe fresco do dia, polvo grelhado, vinhos locais",
           "tipPt": "Chegue para um jantar ao pôr do sol por volta das 20:00 no verão. A luz sobre a baía a essa hora é extraordinária",
           "descriptionDe": "Portixol ist Palmas modischstes Uferviertel, und dieses Restaurant, das zum Boutique-Hotel Portixol Hotel gehört, ist dessen sozialer Mittelpunkt. Die große Terrasse blickt auf die Bucht mit ihren schaukelnden Fischerbooten und die ferne Bergkette. Hunde sind draußen ausdrücklich willkommen, und das Personal bringt routinemäßig Wassernäpfe. Mediterrane Küche mit nordischer Präzision umgesetzt, die skandinavischen Gründer des Hotels geben den Ton an.",
+          "descriptionNl": "Portixol is Palma's meest trendy havenwijk, en dit restaurant, onderdeel van het boetiekhotel Portixol Hotel, is het sociale middelpunt ervan. Het grote terras kijkt uit op de baai met deinende vissersboten en de bergketen in de verte. Honden zijn nadrukkelijk welkom buiten, en het personeel brengt standaard waterbakjes. Mediterrane keuken met Scandinavische precisie uitgevoerd, de Scandinavische oprichters van het hotel zetten de toon.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Frischer Fisch des Tages, gegrillter Oktopus, lokale Weine",
-          "tipDe": "Kommen Sie im Sommer gegen 20:00 Uhr zum Sonnenuntergangs-Dinner. Das Licht über der Bucht ist zu dieser Stunde außergewöhnlich"
+          "mustTryNl": "Verse vis van de dag, gegrilde octopus, lokale wijnen",
+          "tipDe": "Kommen Sie im Sommer gegen 20:00 Uhr zum Sonnenuntergangs-Dinner. Das Licht über der Bucht ist zu dieser Stunde außergewöhnlich",
+          "tipNl": "Kom in de zomer rond 20:00 uur voor het zonsondergangsdiner. Het licht boven de baai is op dat uur uitzonderlijk"
         }
       ],
       "titlePt": "Restaurantes Pet-Friendly em Palma de Maiorca",
       "introPt": "Palma de Maiorca tem uma atitude descontraída e genuinamente mediterrânica em relação aos cães nos seus muitos restaurantes de esplanada e bares de tapas. Embora a lei espanhola proíba animais dentro das salas de jantar a não ser que o proprietário o permita expressamente, as esplanadas ao ar livre são outra história, e Palma tem esplanadas em abundância. No vibrante bairro de Santa Catalina e ao longo do porto antigo, os cafés costumam exibir taças de água junto à entrada e o pessoal cumprimenta os cães bem-comportados como clientes habituais. O clima soalheiro alarga a época de esplanada de março a novembro, o que a torna uma das melhores cidades de Espanha para comer fora com o seu cão. O verão é o pico da época de esplanada, mas até o sol de inverno em Palma é quente o suficiente para um café ao meio-dia lá fora. Os locais abaixo são todos, de forma fiável e genuína, pet-friendly durante todo o ano.",
       "titleDe": "Haustierfreundliche Restaurants in Palma de Mallorca",
+      "titleNl": "Huisdiervriendelijke restaurants in Palma de Mallorca",
       "introDe": "Palma de Mallorca pflegt eine entspannte, wirklich mediterrane Haltung gegenüber Hunden in seinen zahlreichen Terrassenrestaurants und Tapas-Bars. Das spanische Recht verbietet zwar Haustiere in Speiseräumen, es sei denn, der Inhaber erlaubt es ausdrücklich, aber bei Außenterrassen sieht die Sache anders aus, und Palma hat Terrassen im Überfluss. Im lebendigen Viertel Santa Catalina und entlang des alten Hafens stellen Cafés routinemäßig Wassernäpfe neben ihrem Eingang auf, und das Personal begrüßt wohlerzogene Hunde wie Stammgäste. Das sonnige Klima verlängert die Terrassensaison von März bis November, was Palma zu einer der besten Städte Spaniens macht, um mit Hund auswärts zu essen. Der Sommer ist Hochsaison für Terrassen, aber selbst die Wintersonne in Palma ist warm genug für einen Mittagskaffee draußen. Die unten genannten Orte sind alle zuverlässig und wirklich das ganze Jahr über hundefreundlich.",
-      "faqsDe": []
+      "introNl": "Palma de Mallorca hanteert een ontspannen, echt mediterrane houding tegenover honden in zijn talloze terrasrestaurants en tapasbars. De Spaanse wet verbiedt weliswaar huisdieren in eetruimtes, tenzij de eigenaar het uitdrukkelijk toestaat, maar bij buitenterrassen ligt dat anders, en Palma heeft terrassen in overvloed. In de levendige wijk Santa Catalina en langs de oude haven zetten cafés standaard waterbakjes bij hun ingang, en het personeel begroet brave honden als vaste klanten. Het zonnige klimaat verlengt het terrasseizoen van maart tot november, wat Palma tot een van de beste steden van Spanje maakt om met hond uit eten te gaan. De zomer is hoogseizoen voor terrassen, maar zelfs de winterzon in Palma is warm genoeg voor een koffie buiten. De hieronder genoemde plekken zijn allemaal betrouwbaar en echt het hele jaar door hondvriendelijk.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks in Palma de Mallorca",
@@ -135,8 +150,11 @@
           "petPolicyPt": "Cães com trela; zona sem trela na extremidade norte",
           "tipPt": "Use a área de pipican na extremidade norte para brincadeiras sem trela. Mantenha o seu cão com trela em todos os outros caminhos ou arrisca uma coima",
           "descriptionDe": "Der Parc de sa Riera ist ein langer, linearer Grünkorridor, der durch das Herz Palmas entlang des kanalisierten Flussbetts des Baches Sa Riera verläuft. Er ist eine der meistgenutzten Routen für Hundespaziergänge der Stadt, mit schattigen Wegen, Bänken und einem ausgewiesenen Pipican-Freilaufbereich am nördlichen Ende. Einheimische bringen ihre Hunde hierher, morgens und abends, das ganze Jahr über.",
+          "descriptionNl": "Het Parc de sa Riera is een lange, lineaire groene corridor die door het hart van Palma loopt langs de gekanaliseerde bedding van de beek Sa Riera. Het is een van de meest gebruikte hondenwandelroutes van de stad, met schaduwrijke paden, bankjes en een aangewezen pipican-losloopgebied aan het noordelijke uiteinde. Locals brengen hun honden hier, ochtend en avond, het hele jaar door.",
           "petPolicyDe": "Hunde an der Leine; Freilaufzone am nördlichen Ende",
-          "tipDe": "Nutzen Sie den Pipican-Bereich am nördlichen Ende für Freilauf. Halten Sie Ihren Hund auf allen anderen Wegen an der Leine, sonst riskieren Sie ein Bußgeld"
+          "petPolicyNl": "Honden aan de lijn; losloopzone aan het noordelijke uiteinde",
+          "tipDe": "Nutzen Sie den Pipican-Bereich am nördlichen Ende für Freilauf. Halten Sie Ihren Hund auf allen anderen Wegen an der Leine, sonst riskieren Sie ein Bußgeld",
+          "tipNl": "Gebruik het pipican-gebied aan het noordelijke uiteinde om los te laten lopen. Houd je hond op alle andere paden aan de lijn, anders riskeer je een boete"
         },
         {
           "name": "Parc de Krekovic",
@@ -158,8 +176,11 @@
           "petPolicyPt": "Trela obrigatória no parque; pipican vedado sem trela disponível",
           "tipPt": "Combine com uma subida até ao Castell de Bellver, o recinto do castelo aceita cães e a vista sobre a baía é excecional",
           "descriptionDe": "Der Parc de Krekovic ist ein ruhiger Wohnviertelpark im Stadtteil Son Armadans, nur einen kurzen Spaziergang vom Castell de Bellver entfernt. Er verfügt über einen eigenen umzäunten Hundeauslauf (Pipican), der wirklich freilauffähig ist, was ihn zu einem der besseren Stadtparks Palmas macht, in denen Hunde sich frei sozialisieren können. Die umliegenden Wohnstraßen sind ruhig und eignen sich gut für längere Spaziergänge.",
+          "descriptionNl": "Het Parc de Krekovic is een rustig buurtpark in de wijk Son Armadans, op korte loopafstand van het Castell de Bellver. Het heeft een eigen omheind hondenlosloopgebied (pipican) dat echt losloopvriendelijk is, wat het een van de betere stadsparken van Palma maakt waar honden vrij kunnen socialiseren. De omliggende woonstraten zijn rustig en geschikt voor langere wandelingen.",
           "petPolicyDe": "Leinenpflicht im Park; umzäunter Pipican-Freilaufbereich vorhanden",
-          "tipDe": "Kombinieren Sie den Besuch mit einem Spaziergang hinauf zum Castell de Bellver, das Burggelände ist hundefreundlich und der Blick auf die Bucht ist außergewöhnlich"
+          "petPolicyNl": "Aanlijnplicht in het park; omheind pipican-losloopgebied aanwezig",
+          "tipDe": "Kombinieren Sie den Besuch mit einem Spaziergang hinauf zum Castell de Bellver, das Burggelände ist hundefreundlich und der Blick auf die Bucht ist außergewöhnlich",
+          "tipNl": "Combineer het bezoek met een wandeling omhoog naar het Castell de Bellver, het kasteelterrein is hondvriendelijk en het uitzicht over de baai is uitzonderlijk"
         },
         {
           "name": "Es Carnatge",
@@ -181,15 +202,21 @@
           "petPolicyPt": "Sem trela permitido, praia para cães designada durante todo o ano",
           "tipPt": "Leve água para o seu cão, não há infraestruturas. O início da manhã é a melhor altura para evitar o calor do meio-dia no verão",
           "descriptionDe": "Es Carnatge ist ein wilder, felsiger Küstenstreifen östlich des Flughafens, offiziell als ganzjähriger Hundestrand und Freilaufzone ausgewiesen. Es ist der nächstgelegene Ort zum Zentrum Palmas, an dem Hunde frei am Wasser entlanglaufen können. Das Gelände ist rau, mit felsigen Ausläufern, Pinienbewuchs und klarem türkisfarbenem Wasser, und die Atmosphäre ist lokal und unprätentiös. Im Sommer ist es der einzige Strand in der Nähe Palmas, an dem Hunde legal erlaubt sind.",
+          "descriptionNl": "Es Carnatge is een wilde, rotsachtige kuststrook ten oosten van de luchthaven, officieel aangewezen als hondenstrand en losloopgebied het hele jaar door. Hier geldt geen zomerverbod. Het terrein is natuurlijk en ongerept: rotsachtige uitlopers, dennenbegroeiing en opvallend helder turquoise water. Honden kunnen vrij zwemmen en zonder lijn de hele lengte van het strand aflopen.",
           "petPolicyDe": "Freilauf erlaubt, ganzjährig ausgewiesener Hundestrand",
-          "tipDe": "Bringen Sie Wasser für Ihren Hund mit, es gibt keine Einrichtungen. Früh am Morgen ist im Sommer die beste Zeit, um der Mittagshitze zu entgehen"
+          "petPolicyNl": "Honden het hele jaar toegestaan, zonder lijn. Poepzakjes verplicht",
+          "tipDe": "Bringen Sie Wasser für Ihren Hund mit, es gibt keine Einrichtungen. Früh am Morgen ist im Sommer die beste Zeit, um der Mittagshitze zu entgehen",
+          "tipNl": "Het water is ondiep en helder, ideaal voor honden die graag zwemmen. Kom in de zomer vroeg in de ochtend, voordat de zon de rotsen opwarmt"
         }
       ],
       "titlePt": "Parques Pet-Friendly em Palma de Maiorca",
       "introPt": "Palma tem vários espaços verdes bem cuidados que são populares entre os donos de cães. A cidade aplica uma lei rigorosa de trela em todos os seus parques e ruas, só as áreas designadas de pipican (sem trela) estão isentas, e as coimas por infrações podem ser elevadas. A boa notícia é que o clima ameno faz com que estes parques sejam agradáveis durante todo o ano: um passeio matinal em janeiro em Palma raramente é suficientemente frio para exigir mais do que um casaco leve. A maioria dos parques é plana e fácil de percorrer com um cão. O caminho costeiro a sul da cidade, em Es Carnatge, é um favorito para corridas mais longas sem trela, esbatendo a fronteira entre parque e praia.",
       "titleDe": "Hundefreundliche Parks in Palma de Mallorca",
+      "titleNl": "Hondvriendelijke parken in Palma de Mallorca",
       "introDe": "Palma verfügt über mehrere gepflegte Grünflächen, die bei Hundebesitzern beliebt sind. Die Stadt setzt in ihren Parks und Straßen eine strenge Leinenpflicht durch, nur ausgewiesene Pipican-Bereiche (Freilaufzonen) sind davon ausgenommen, und Bußgelder für Verstöße können hoch ausfallen. Die gute Nachricht ist, dass das milde Klima diese Parks das ganze Jahr über angenehm macht: Ein morgendlicher Spaziergang im Januar in Palma erfordert selten mehr als eine leichte Jacke. Die meisten Parks sind flach und mit einem Hund leicht zu begehen. Der Küstenweg südlich der Stadt bei Es Carnatge ist bei längeren Freilaufrunden beliebt und verwischt die Grenze zwischen Park und Strand.",
-      "faqsDe": []
+      "introNl": "Palma heeft meerdere verzorgde groene ruimtes die populair zijn bij hondenbezitters. De stad handhaaft in zijn parken en straten een strikte aanlijnplicht, alleen aangewezen pipican-gebieden (losloopzones) zijn daarvan uitgezonderd, en boetes voor overtredingen kunnen hoog uitvallen. Het goede nieuws is dat het milde klimaat deze parken het hele jaar door aangenaam maakt: een ochtendwandeling in januari in Palma vereist zelden meer dan een licht jasje. De meeste parken zijn vlak en makkelijk te belopen met een hond. Het kustpad ten zuiden van de stad bij Es Carnatge is populair voor langere losloop-rondjes en vervaagt de grens tussen park en strand.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting Around Palma with Your Pet",
@@ -218,8 +245,11 @@
           "petPolicyPt": "Cães bem-vindos em todas as linhas; trela e açaime obrigatórios; bilhete de 0,30 €",
           "tipPt": "Compre o bilhete do seu cão ao motorista, custa apenas 0,30 €. Os cães pequenos numa caixa de transporte viajam gratuitamente. Leve sempre os documentos de saúde do seu cão nos transportes da ilha",
           "descriptionDe": "Seit 2024 erlaubt das gesamte städtische EMT-Busnetz in Palma Haustiere auf allen Linien. Große Hunde müssen einen Maulkorb tragen und angeleint sein; ein Hundeticket für 0,30 EUR ist erforderlich. Kleine Haustiere in einer zugelassenen Transportbox fahren kostenlos. Blindenführhunde sind immer ohne Einschränkung erlaubt. Zu den wichtigsten Touristenlinien gehören Linie 1 (Flughafen-Stadtzentrum) und Linie 50 (Hafen-Portixol).",
+          "descriptionNl": "Sinds 2024 staat het volledige stedelijke EMT-busnetwerk in Palma huisdieren toe op alle lijnen. Grote honden moeten een muilkorf dragen en aangelijnd zijn; een hondenticket van 0,30 EUR is verplicht. Kleine huisdieren in een goedgekeurde reismand reizen gratis. Geleidehonden zijn altijd zonder beperking toegestaan. Tot de belangrijkste toeristenlijnen behoren lijn 1 (luchthaven-centrum) en lijn 50 (haven-Portixol).",
           "petPolicyDe": "Hunde auf allen Linien willkommen; Leine und Maulkorb erforderlich; 0,30-EUR-Ticket",
-          "tipDe": "Kaufen Sie das Hundeticket beim Fahrer, es kostet nur 0,30 EUR. Kleine Hunde in einer Transportbox fahren kostenlos. Führen Sie im Inseltransport stets die Gesundheitsunterlagen Ihres Hundes mit"
+          "petPolicyNl": "Honden welkom op alle lijnen; lijn en muilkorf verplicht; ticket van 0,30 EUR",
+          "tipDe": "Kaufen Sie das Hundeticket beim Fahrer, es kostet nur 0,30 EUR. Kleine Hunde in einer Transportbox fahren kostenlos. Führen Sie im Inseltransport stets die Gesundheitsunterlagen Ihres Hundes mit",
+          "tipNl": "Koop het hondenticket bij de chauffeur, het kost slechts 0,30 EUR. Kleine honden in een reismand reizen gratis. Neem bij vervoer op het eiland altijd de gezondheidspapieren van je hond mee"
         },
         {
           "name": "SFM Island Train",
@@ -240,8 +270,11 @@
           "petPolicyPt": "Cães em caixas de transporte viajam gratuitamente; cães maiores com trela + açaime + suplemento",
           "tipPt": "O comboio histórico Palma-Sóller é espetacular e aceita cães. Reserve os bilhetes com antecedência na época alta, esgota",
           "descriptionDe": "Mallorcas regionales Zugnetz (SFM) verbindet Palma mit Inca, Sa Pobla und Manacor. Hunde in Transportboxen reisen kostenlos; größere Hunde müssen einen Maulkorb tragen und angeleint sein, und ein kleiner Aufpreis fällt an. Der Zug nach Sóller (eine separate Traditionslinie) akzeptiert Hunde unter denselben Bedingungen. Eine ausgezeichnete Option für Tagesausflüge ins Inselinnere mit Ihrem Haustier.",
+          "descriptionNl": "Mallorca's regionale spoornetwerk (SFM) verbindt Palma met Inca, Sa Pobla en Manacor. Honden in reismanden reizen gratis; grotere honden moeten een muilkorf dragen en aangelijnd zijn, en er geldt een kleine toeslag. De trein naar Sóller (een aparte historische lijn) accepteert honden onder dezelfde voorwaarden. Een uitstekende optie voor dagtrips naar het binnenland van het eiland met je huisdier.",
           "petPolicyDe": "Hunde in Transportboxen fahren kostenlos; größere Hunde Leine + Maulkorb + Aufpreis",
-          "tipDe": "Der historische Zug Palma-Sóller ist spektakulär und hundefreundlich. Buchen Sie Tickets in der Hochsaison im Voraus, sie sind schnell ausverkauft"
+          "petPolicyNl": "Honden in reismanden reizen gratis; grotere honden lijn + muilkorf + toeslag",
+          "tipDe": "Der historische Zug Palma-Sóller ist spektakulär und hundefreundlich. Buchen Sie Tickets in der Hochsaison im Voraus, sie sind schnell ausverkauft",
+          "tipNl": "De historische trein Palma-Sóller is spectaculair en hondvriendelijk. Boek tickets in het hoogseizoen van tevoren, ze zijn snel uitverkocht"
         },
         {
           "name": "Pet-Friendly Taxis",
@@ -262,15 +295,21 @@
           "petPolicyPt": "Ao critério do motorista, telefone com antecedência para confirmar",
           "tipPt": "Use as aplicações MyTaxi ou Cabify para pedir um veículo que aceite animais com antecedência. Evite chamar um táxi na rua se tiver um cão grande",
           "descriptionDe": "Taxis in Palma liegen im Ermessen des Fahrers, was Haustiere betrifft. Buchen Sie über Radio-Taxi Palma (971 401 414) und fordern Sie bei der Reservierung ein haustierfreundliches Fahrzeug an. Die meisten Fahrer akzeptieren Hunde in einer Transportbox ohne Probleme; größere Hunde erfordern möglicherweise eine vorherige Bestätigung. Die Fahrt vom Flughafen Palma zum Stadtzentrum dauert etwa 15-25 Minuten und kostet ungefähr 20-25 EUR.",
+          "descriptionNl": "Taxi's in Palma beslissen zelf over huisdieren. Boek via Radio-Taxi Palma (971 401 414) en vraag bij het reserveren om een huisdiervriendelijk voertuig. De meeste chauffeurs accepteren honden in een reismand zonder problemen; grotere honden vereisen mogelijk voorafgaande bevestiging. De rit van luchthaven Palma naar het centrum duurt ongeveer 15-25 minuten en kost ongeveer 20-25 EUR.",
           "petPolicyDe": "Nach Ermessen des Fahrers, vorher anrufen zur Bestätigung",
-          "tipDe": "Nutzen Sie die Apps MyTaxi oder Cabify, um im Voraus eine haustierfreundliche Fahrt anzufordern. Vermeiden Sie es, mit einem großen Hund ein Taxi auf der Straße heranzuwinken"
+          "petPolicyNl": "Naar goeddunken van de chauffeur, vooraf bellen ter bevestiging",
+          "tipDe": "Nutzen Sie die Apps MyTaxi oder Cabify, um im Voraus eine haustierfreundliche Fahrt anzufordern. Vermeiden Sie es, mit einem großen Hund ein Taxi auf der Straße heranzuwinken",
+          "tipNl": "Gebruik de apps MyTaxi of Cabify om vooraf een huisdiervriendelijke rit aan te vragen. Vermijd het aanhouden van een straattaxi met een grote hond"
         }
       ],
       "titlePt": "Deslocar-se em Palma com o seu Animal",
       "introPt": "Palma melhorou significativamente as suas regras de transporte de animais nos últimos anos. Desde 2024, os animais são permitidos em todas as linhas da rede de autocarros urbanos EMT, cães com trela e açaime, ou animais pequenos numa caixa de transporte. Um bilhete de autocarro à parte para o seu cão custa apenas 0,30 €. Os autocarros regionais TIB também aceitam animais em caixas de transporte. Os táxis ficam ao critério do motorista, por isso reserve um táxi que aceite animais com antecedência se for atravessar a cidade. O centro histórico é muito percorrível a pé e a maioria dos visitantes acaba por raramente precisar de transportes públicos assim que se instala no alojamento. O serviço de comboio da ilha (SFM) também aceita cães em caixas de transporte ou com açaime e trela.",
       "titleDe": "Mit dem Haustier in Palma unterwegs",
+      "titleNl": "Met huisdier onderweg in Palma",
       "introDe": "Palma hat seine Vorschriften für den Transport von Haustieren in den letzten Jahren deutlich verbessert. Seit 2024 sind Haustiere auf allen Linien des städtischen EMT-Busnetzes erlaubt, Hunde an der Leine und mit Maulkorb, oder kleine Haustiere in einer Transportbox. Ein separates Busticket für Ihren Hund kostet nur 0,30 EUR. Auch die regionalen TIB-Busse akzeptieren Haustiere in Transportboxen. Taxis liegen im Ermessen des Fahrers, buchen Sie also im Voraus ein haustierfreundliches Taxi, wenn Sie durch die Stadt reisen. Die Altstadt ist sehr gut zu Fuß zu erkunden, und die meisten Besucher stellen fest, dass sie kaum öffentliche Verkehrsmittel benötigen, sobald sie sich in ihrer Unterkunft eingelebt haben. Auch der Inselzug (SFM) akzeptiert Hunde in Transportboxen oder angeleint mit Maulkorb.",
-      "faqsDe": []
+      "introNl": "Palma heeft zijn regels voor het vervoer van huisdieren de afgelopen jaren flink verbeterd. Sinds 2024 zijn huisdieren toegestaan op alle lijnen van het stedelijke EMT-busnetwerk, honden aan de lijn en met muilkorf, of kleine huisdieren in een reismand. Een apart busticket voor je hond kost slechts 0,30 EUR. Ook de regionale TIB-bussen accepteren huisdieren in reismanden. Taxi's beslissen zelf, boek dus vooraf een huisdiervriendelijke taxi als je door de stad reist. De oude stad is heel goed te voet te verkennen, en de meeste bezoekers merken dat ze nauwelijks openbaar vervoer nodig hebben zodra ze eenmaal gesetteld zijn in hun accommodatie. Ook de eilandtrein (SFM) accepteert honden in reismanden of aangelijnd met muilkorf.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches near Palma de Mallorca",
@@ -299,8 +338,11 @@
           "petPolicyPt": "Cães permitidos durante todo o ano, sem trela. Sacos para dejetos obrigatórios",
           "tipPt": "A água é pouco profunda e cristalina, ótima para cães que adoram nadar. Venha de manhã cedo, antes de o sol aquecer as rochas no verão",
           "descriptionDe": "Es Carnatge ist Palmas wichtigster ganzjähriger Hundestrand, eine wilde felsige Bucht zwischen der Stadt und dem Flughafen, die offiziell zu jeder Jahreszeit für Hunde und ihre Besitzer ausgewiesen ist. Hier gilt kein Sommerverbot. Das Gelände ist natürlich und unberührt: felsige Ausläufer, Pinienbewuchs und auffallend klares türkisfarbenes Wasser. Hunde können frei schwimmen und ohne Leine die gesamte Länge des Strands entlanglaufen.",
+          "descriptionNl": "Es Carnatge is Palma's belangrijkste hondenstrand het hele jaar door, een wilde rotsachtige baai tussen de stad en de luchthaven, officieel het hele jaar aangewezen voor honden en hun baasjes. Hier geldt geen zomerverbod. Het terrein is natuurlijk en ongerept: rotsachtige uitlopers, dennenbegroeiing en opvallend helder turquoise water. Honden kunnen vrij zwemmen en zonder lijn de hele lengte van het strand aflopen.",
           "petPolicyDe": "Hunde ganzjährig erlaubt, ohne Leine. Kotbeutel erforderlich",
-          "tipDe": "Das Wasser ist flach und klar, ideal für Hunde, die gerne schwimmen. Kommen Sie im Sommer früh am Morgen, bevor die Sonne die Felsen aufheizt"
+          "petPolicyNl": "Honden het hele jaar toegestaan, zonder lijn. Poepzakjes verplicht",
+          "tipDe": "Das Wasser ist flach und klar, ideal für Hunde, die gerne schwimmen. Kommen Sie im Sommer früh am Morgen, bevor die Sonne die Felsen aufheizt",
+          "tipNl": "Het water is ondiep en helder, ideaal voor honden die graag zwemmen. Kom in de zomer vroeg in de ochtend, voordat de zon de rotsen opwarmt"
         },
         {
           "name": "Cala Gamba",
@@ -321,8 +363,11 @@
           "petPolicyPt": "Cães permitidos durante todo o ano",
           "tipPt": "O restaurante de marisco no cais aceita cães na sua esplanada, uma combinação natural depois de um banho de manhã",
           "descriptionDe": "Cala Gamba ist eine kleine felsige Bucht östlich des Flughafens Palma, an der Hunde ganzjährig erlaubt sind. Es ist ein lokaler Ort, ruhig und unprätentiös, mit einem kleinen Kai, einigen traditionellen Fischrestaurants in der Nähe und einfachem Parken. Weniger dramatisch als Es Carnatge, aber angenehm für ein ruhiges morgendliches Bad mit dem Hund, wenn die touristischen Hauptstrände tabu sind.",
+          "descriptionNl": "Cala Gamba is een kleine rotsachtige baai ten oosten van luchthaven Palma, waar honden het hele jaar zijn toegestaan. Het is een lokale plek, rustig en onopgesmukt, met een kleine kade, enkele traditionele visrestaurants in de buurt en makkelijk parkeren. Minder dramatisch dan Es Carnatge, maar aangenaam voor een rustig ochtendbad met de hond, wanneer de belangrijkste toeristenstranden verboden terrein zijn.",
           "petPolicyDe": "Hunde ganzjährig erlaubt",
-          "tipDe": "Das Fischrestaurant am Kai ist auf seiner Terrasse hundefreundlich, eine naheliegende Kombination nach einem morgendlichen Bad"
+          "petPolicyNl": "Honden het hele jaar toegestaan",
+          "tipDe": "Das Fischrestaurant am Kai ist auf seiner Terrasse hundefreundlich, eine naheliegende Kombination nach einem morgendlichen Bad",
+          "tipNl": "Het visrestaurant aan de kade is hondvriendelijk op zijn terras, een voor de hand liggende combinatie na een ochtendbad"
         },
         {
           "name": "Playa de Palma (off-season only)",
@@ -343,15 +388,21 @@
           "petPolicyPt": "Cães proibidos de 1 de abril a 31 de outubro. Acesso fora de época de novembro a março",
           "tipPt": "Os passeios de inverno numa praia deserta de 4,5 km são um dos segredos mais bem guardados de Maiorca. Vá numa manhã de janeiro e poderá ter a praia toda só para si",
           "descriptionDe": "Die Playa de Palma ist Mallorcas längster Stadtstrand und erstreckt sich über 4,5 km östlich des Flughafens. Hunde sind vom 1. April bis 31. Oktober strikt verboten. Von November bis März öffnet der Strand wieder für Hunde und wird zu einem beliebten Ziel für lange Winterspaziergänge entlang des menschenleeren Ufers. Das Mittelmeerlicht im Januar ist außergewöhnlich, und der Strand wirkt ohne das Sommergedränge völlig anders.",
+          "descriptionNl": "De Playa de Palma is het langste stadsstrand van Mallorca en strekt zich uit over 4,5 km ten oosten van de luchthaven. Honden zijn strikt verboden van 1 april tot 31 oktober. Van november tot maart gaat het strand weer open voor honden en wordt het een populaire bestemming voor lange winterwandelingen langs de verlaten kustlijn. Het mediterrane licht in januari is uitzonderlijk, en het strand voelt zonder de zomerse drukte compleet anders aan.",
           "petPolicyDe": "Hunde verboten vom 1. April bis 31. Oktober. Zugang außerhalb der Saison von November bis März",
-          "tipDe": "Winterspaziergänge auf einem 4,5 km langen, menschenleeren Strand gehören zu Mallorcas bestgehüteten Geheimnissen. Gehen Sie an einem Januarmorgen hin und Sie haben den ganzen Strand vielleicht für sich allein"
+          "petPolicyNl": "Honden verboden van 1 april tot 31 oktober. Toegang buiten het seizoen van november tot maart",
+          "tipDe": "Winterspaziergänge auf einem 4,5 km langen, menschenleeren Strand gehören zu Mallorcas bestgehüteten Geheimnissen. Gehen Sie an einem Januarmorgen hin und Sie haben den ganzen Strand vielleicht für sich allein",
+          "tipNl": "Winterwandelingen op een 4,5 km lang, verlaten strand behoren tot Mallorca's best bewaarde geheimen. Ga op een januariochtend en je hebt het hele strand misschien voor jezelf"
         }
       ],
       "titlePt": "Praias Pet-Friendly perto de Palma de Maiorca",
       "introPt": "Maiorca aplica uma proibição sazonal rigorosa: os cães estão proibidos na maioria das praias públicas de 1 de abril a 31 de outubro, durante a época balnear oficial. Fora dessas datas, muitas praias voltam a aceitar cães. No entanto, existem perto de Palma algumas praias designadas para cães durante todo o ano, onde pode levar o seu cão de forma legal em qualquer altura do ano. As coimas por levar cães a praias com restrições durante o período de proibição são aplicadas pela polícia local e podem ser avultadas. Verifique sempre o estado sazonal atual antes de visitar qualquer praia que não conste da lista oficial de praias para cães durante todo o ano.",
       "titleDe": "Hundefreundliche Strände bei Palma de Mallorca",
+      "titleNl": "Hondvriendelijke stranden bij Palma de Mallorca",
       "introDe": "Mallorca setzt ein strenges saisonales Verbot durch: Hunde sind an den meisten öffentlichen Stränden vom 1. April bis 31. Oktober, während der offiziellen Badesaison, untersagt. Außerhalb dieses Zeitraums werden viele Strände wieder hundefreundlich. Es gibt jedoch eine Handvoll ganzjährig ausgewiesener Hundestrände in der Nähe Palmas, an denen Sie Ihren Hund zu jeder Jahreszeit legal mitnehmen können. Bußgelder für das Mitbringen von Hunden auf gesperrte Strände während der Verbotszeit werden von der örtlichen Polizei durchgesetzt und können erheblich ausfallen. Prüfen Sie vor jedem Besuch eines Strands, der nicht auf der offiziellen ganzjährigen Hundeliste steht, immer den aktuellen saisonalen Status.",
-      "faqsDe": []
+      "introNl": "Mallorca handhaaft een strikt seizoensgebonden verbod: honden zijn op de meeste openbare stranden verboden van 1 april tot 31 oktober, tijdens het officiële badseizoen. Buiten die periode worden veel stranden weer hondvriendelijk. Er is echter een handvol het hele jaar door aangewezen hondenstranden bij Palma, waar je je hond het hele jaar legaal mee naartoe kunt nemen. Boetes voor het meenemen van honden naar verboden stranden tijdens de verbodsperiode worden gehandhaafd door de lokale politie en kunnen fors uitvallen. Controleer voor elk bezoek aan een strand dat niet op de officiële jaarrond hondenlijst staat altijd de actuele seizoensstatus.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Palma de Mallorca, Veterinary Clinics & Pet Care",
@@ -383,8 +434,11 @@
           "petPolicyPt": "Aceita cães e gatos",
           "tipPt": "Emitem certificados de viagem para animais da UE para cães e gatos, essenciais se regressar de Maiorca a um país fora da UE. Marque com pelo menos 48 horas de antecedência em relação ao seu voo",
           "descriptionDe": "Die Clínica Veterinaria San Fernando ist seit 1980 eine der etabliertesten Tierarztpraxen Palmas. Sie hat von Montag bis Freitag durchgehend geöffnet (8:30-20:30 Uhr) sowie samstagmorgens (9:00-14:00 Uhr). Die Klinik ist eine balearische Referenz für Hunde- und Katzenzucht, behandelt aber auch allgemeine Konsultationen, Impfungen und Reisegesundheitszeugnisse. Außerhalb der regulären Öffnungszeiten ist eine Notfallnummer verfügbar: 601 200 320.",
+          "descriptionNl": "De Clínica Veterinaria San Fernando is sinds 1980 een van de meest gevestigde dierenartsenpraktijken van Palma. Ze is doordeweeks doorlopend open (8:30-20:30 uur) plus zaterdagochtend (9:00-14:00 uur). De kliniek is een Balearische referentie voor hond- en kattenfokkerij, maar behandelt ook algemene consulten, vaccinaties en reisgezondheidscertificaten. Buiten de reguliere openingstijden is een spoednummer beschikbaar: 601 200 320.",
           "petPolicyDe": "Hunde und Katzen werden angenommen",
-          "tipDe": "Sie stellen EU-Heimtierausweise für Hunde und Katzen aus, essenziell bei der Rückkehr von Mallorca in ein Nicht-EU-Land. Buchen Sie mindestens 48 Stunden vor Ihrem Flug"
+          "petPolicyNl": "Honden en katten worden behandeld",
+          "tipDe": "Sie stellen EU-Heimtierausweise für Hunde und Katzen aus, essenziell bei der Rückkehr von Mallorca in ein Nicht-EU-Land. Buchen Sie mindestens 48 Stunden vor Ihrem Flug",
+          "tipNl": "Ze geven EU-dierenpaspoorten af voor honden en katten, essentieel bij terugkeer van Mallorca naar een niet-EU-land. Boek minstens 48 uur voor je vlucht"
         },
         {
           "name": "CalviaVet",
@@ -407,8 +461,11 @@
           "petPolicyPt": "Aceita cães e gatos, incluindo urgências",
           "tipPt": "Guarde este número: 971 695 108. É o hospital veterinário de urgência mais bem equipado da área de Palma, telefone antes de chegar para confirmar que se encontra disponível um especialista",
           "descriptionDe": "CalviaVet ist das spezialisierte Notfall- und Intensiv-Tierkrankenhaus, das den Großraum Palma bedient, gelegen in Santa Ponsa etwa 20 Minuten westlich der Stadt. Es bietet rund um die Uhr Intensivpflege mit getrennten Einrichtungen für Hunde und Katzen, einem isolierten Bereich für Tiere mit Infektionskrankheiten und moderner Überwachungsausrüstung. Die Klinik behandelt Fälle von Traumata und Knochenbrüchen bis zu Krampfanfällen und postoperativer Versorgung.",
+          "descriptionNl": "CalviaVet is het gespecialiseerde spoed- en intensive-care-dierenziekenhuis dat de regio Palma bedient, gelegen in Santa Ponsa ongeveer 20 minuten ten westen van de stad. Het biedt 24 uur per dag intensieve zorg met gescheiden voorzieningen voor honden en katten, een geïsoleerd gebied voor dieren met infectieziekten en moderne bewakingsapparatuur. De kliniek behandelt gevallen van trauma en botbreuken tot toevallen en postoperatieve zorg.",
           "petPolicyDe": "Hunde und Katzen werden angenommen, einschließlich Notfälle",
-          "tipDe": "Speichern Sie diese Nummer: 971 695 108. Es ist das am besten ausgestattete Tiernotfallkrankenhaus im Raum Palma, rufen Sie vor der Ankunft an, um zu bestätigen, dass ein Spezialist verfügbar ist"
+          "petPolicyNl": "Honden en katten worden behandeld, inclusief spoedgevallen",
+          "tipDe": "Speichern Sie diese Nummer: 971 695 108. Es ist das am besten ausgestattete Tiernotfallkrankenhaus im Raum Palma, rufen Sie vor der Ankunft an, um zu bestätigen, dass ein Spezialist verfügbar ist",
+          "tipNl": "Sla dit nummer op: 971 695 108. Het is het best uitgeruste dierenspoedziekenhuis in de regio Palma, bel voor aankomst om te bevestigen dat er een specialist beschikbaar is"
         },
         {
           "name": "Clínica Veterinaria Peludets",
@@ -430,15 +487,21 @@
           "petPolicyPt": "Aceita cães, gatos e animais exóticos",
           "tipPt": "Para visitas não urgentes, telefone com antecedência, costumam ter disponibilidade para o próprio dia nas tardes dos dias úteis. Leve o passaporte do seu animal e os registos de vacinação",
           "descriptionDe": "Die Clínica Veterinaria Peludets ist eine zentral gelegene Klinik in Palma nahe dem Viertel Santa Catalina, die sowohl Haustiere als auch exotische Arten behandelt. Sie bietet Routinekonsultationen, Chippen, Impfungen und Zahnpflege an. Eine praktische Option für Besucher im Zentrum Palmas, die während ihres Aufenthalts einen nahegelegenen Tierarzt für Routineuntersuchungen oder kleinere Probleme benötigen.",
+          "descriptionNl": "De Clínica Veterinaria Peludets is een centraal gelegen kliniek in Palma bij de wijk Santa Catalina, die zowel huisdieren als exotische soorten behandelt. Ze biedt routineconsulten, chippen, vaccinaties en gebitsverzorging aan. Een handige optie voor bezoekers in het centrum van Palma die tijdens hun verblijf een dierenarts in de buurt nodig hebben voor routineonderzoeken of kleinere problemen.",
           "petPolicyDe": "Hunde, Katzen und exotische Tiere werden angenommen",
-          "tipDe": "Rufen Sie bei nicht dringenden Besuchen vorher an, oft sind Termine am selben Tag an Wochentagnachmittagen verfügbar. Bringen Sie den Heimtierausweis und die Impfnachweise mit"
+          "petPolicyNl": "Honden, katten en exotische dieren worden behandeld",
+          "tipDe": "Rufen Sie bei nicht dringenden Besuchen vorher an, oft sind Termine am selben Tag an Wochentagnachmittagen verfügbar. Bringen Sie den Heimtierausweis und die Impfnachweise mit",
+          "tipNl": "Bel bij niet-dringende bezoeken van tevoren, vaak zijn afspraken dezelfde dag beschikbaar op doordeweekse middagen. Neem het dierenpaspoort en vaccinatiebewijzen mee"
         }
       ],
       "titlePt": "Veterinários de Urgência em Palma de Maiorca, Clínicas Veterinárias e Cuidados para Animais",
       "introPt": "Palma tem uma boa rede de clínicas veterinárias. Desde setembro de 2023, o seguro de animais passou a ser obrigatório nas Ilhas Baleares para cães, confirme que a sua apólice inclui cobertura em Espanha antes de viajar. Os serviços de urgência estão disponíveis nas principais clínicas da cidade, e a CalviaVet, na vizinha Santa Ponsa, tem instalações de cuidados intensivos. Para problemas de saúde menores ou exames de rotina, as consultas sem marcação estão geralmente disponíveis nas manhãs dos dias úteis, sem marcação, na maioria das clínicas de Palma.",
       "titleDe": "Notfall-Tierärzte in Palma de Mallorca, Tierkliniken & Haustierpflege",
+      "titleNl": "Spoeddierenartsen in Palma de Mallorca, dierenklinieken en huisdierenzorg",
       "introDe": "Palma verfügt über ein gutes Netz von Tierkliniken. Seit September 2023 ist eine Haustierversicherung auf den Balearen für Hunde verpflichtend, prüfen Sie vor der Reise, ob Ihre Police den Schutz in Spanien einschließt. Notfalldienste sind in den wichtigsten Kliniken der Stadt verfügbar, und CalviaVet im nahen Santa Ponsa verfügt über Intensivstationen. Für kleinere Gesundheitsanliegen oder Routineuntersuchungen sind an Wochentagvormittagen in den meisten Kliniken Palmas in der Regel Konsultationen ohne Termin verfügbar.",
-      "faqsDe": []
+      "introNl": "Palma heeft een goed netwerk van dierenklinieken. Sinds september 2023 is een huisdierenverzekering op de Balearen verplicht voor honden, controleer voor de reis of jouw polis dekking in Spanje omvat. Spoeddiensten zijn beschikbaar bij de belangrijkste klinieken van de stad, en CalviaVet in het nabijgelegen Santa Ponsa heeft intensive-care-afdelingen. Voor kleinere gezondheidsklachten of routineonderzoeken zijn op doordeweekse ochtenden bij de meeste klinieken in Palma meestal consulten zonder afspraak beschikbaar.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Pet Travel Tips for Palma de Mallorca",
@@ -517,8 +580,11 @@
       "titlePt": "Dicas de Viagem com Animais para Palma de Maiorca",
       "introPt": "Viajar para Maiorca com um animal exige alguma preparação, mas é simples assim que se conhecem as regras. A ilha tem uma infraestrutura pet-friendly bem desenvolvida, muitos hotéis, restaurantes e praias acolhem animais, mas as regras locais são fiscalizadas e as coimas são reais. Regras principais: os cães têm de andar com trela em todas as ruas e parques públicos, exceto nas zonas designadas sem trela; a maioria das praias fica vedada de abril a outubro; e o seguro de animais passou a ser obrigatório para cães nas Ilhas Baleares desde setembro de 2023.",
       "titleDe": "Tipps für das Reisen mit Haustier nach Palma de Mallorca",
+      "titleNl": "Tips voor reizen met huisdier naar Palma de Mallorca",
       "introDe": "Eine Reise nach Mallorca mit Haustier erfordert etwas Vorbereitung, ist aber unkompliziert, sobald man die Regeln kennt. Die Insel verfügt über eine gut entwickelte haustierfreundliche Infrastruktur, viele Hotels, Restaurants und Strände heißen Tiere willkommen, aber lokale Vorschriften werden durchgesetzt und Bußgelder sind real. Wichtige Regeln: Hunde müssen auf allen öffentlichen Straßen und in Parks angeleint sein, außer in ausgewiesenen Freilaufzonen; die meisten Strände sind von April bis Oktober tabu; und eine Haustierversicherung ist auf den Balearen seit September 2023 für Hunde verpflichtend.",
-      "faqsDe": []
+      "introNl": "Een reis naar Mallorca met huisdier vraagt wat voorbereiding, maar is ongecompliceerd zodra je de regels kent. Het eiland heeft een goed ontwikkelde huisdiervriendelijke infrastructuur, veel hotels, restaurants en stranden heten dieren welkom, maar lokale voorschriften worden gehandhaafd en boetes zijn echt. Belangrijke regels: honden moeten op alle openbare straten en in parken aan de lijn, behalve in aangewezen losloopzones; de meeste stranden zijn van april tot oktober verboden terrein; en een huisdierenverzekering is op de Balearen sinds september 2023 verplicht voor honden.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Palma de Mallorca",
@@ -548,8 +614,11 @@
           "petPolicyPt": "Cães bem-vindos no recinto e no parque circundante com trela",
           "tipPt": "Suba pelo pinhal a partir da Av. de Joan Miró, um caminho agradável de 20 minutos. Leve água para o seu cão; a colina é quente mesmo na primavera",
           "descriptionDe": "Castell de Bellver ist eines der wenigen kreisrunden mittelalterlichen Schlösser Europas und das markanteste Wahrzeichen Palmas nach La Seu. Im frühen 14. Jahrhundert als königliche Residenz erbaut und später als Gefängnis genutzt, liegt es auf einem bewaldeten Hügel 3 km westlich des Stadtzentrums mit Panoramablick auf die Bucht. Hunde sind auf dem Schlossgelände und im umliegenden Waldpark willkommen. Eine morgendliche Wanderung den Hügel hinauf mit Hund ist eine der besten Einführungen in Palma, die man haben kann.",
+          "descriptionNl": "Castell de Bellver is een van de weinige cirkelvormige middeleeuwse kastelen van Europa en het meest herkenbare bezienswaardigheid van Palma na La Seu. Vroeg in de 14e eeuw gebouwd als koninklijke residentie en later gebruikt als gevangenis, ligt het op een beboste heuvel 3 km ten westen van het centrum met panoramisch uitzicht over de baai. Honden zijn welkom op het kasteelterrein en in het omliggende bospark. Een ochtendwandeling de heuvel op met hond is een van de beste introducties tot Palma die er zijn.",
           "petPolicyDe": "Hunde auf dem Gelände und im umliegenden Park an der Leine willkommen",
-          "tipDe": "Gehen Sie durch den Pinienwald von der Av. de Joan Miró hinauf, ein angenehmer 20-minütiger Weg. Bringen Sie Wasser für Ihren Hund mit, der Hügel ist auch im Frühling warm"
+          "petPolicyNl": "Honden aan de lijn welkom op het terrein en in het omliggende park",
+          "tipDe": "Gehen Sie durch den Pinienwald von der Av. de Joan Miró hinauf, ein angenehmer 20-minütiger Weg. Bringen Sie Wasser für Ihren Hund mit, der Hügel ist auch im Frühling warm",
+          "tipNl": "Loop door het dennenbos vanaf de Av. de Joan Miró omhoog, een aangename wandeling van 20 minuten. Neem water mee voor je hond, de heuvel is ook in de lente warm"
         },
         {
           "name": "Passeig des Born",
@@ -571,8 +640,11 @@
           "petPolicyPt": "Cães com trela bem-vindos por toda a parte",
           "tipPt": "Melhor percorrido ao fim do dia, depois das 19:00, quando os palmesanos passeiam com os seus próprios cães. A luz é dourada e a energia descontraída",
           "descriptionDe": "Der Passeig des Born ist Palmas eleganter Boulevard, eine breite, baumgesäumte Promenade mit gehobenen Geschäften, Galerien und Terrassencafés. Er verläuft von den alten Grabengärten bis zur Uferpromenade und ist das soziale Herz der Stadt. Angeleinte Hunde sind auf der gesamten Länge der Promenade willkommen. Viele der Terrassencafés entlang der Strecke heißen Hunde ausdrücklich willkommen, und der breite Gehweg macht das Gehen selbst mit einer großen Rasse einfach.",
+          "descriptionNl": "De Passeig des Born is Palma's elegante boulevard, een brede, met bomen omzoomde promenade met chique winkels, galerieën en terrascafés. Hij loopt van de oude grachttuinen tot de boulevard aan zee en is het sociale hart van de stad. Aangelijnde honden zijn welkom over de volledige lengte van de promenade. Veel van de terrascafés langs de route heten honden nadrukkelijk welkom, en de brede stoep maakt lopen ook met een groot ras makkelijk.",
           "petPolicyDe": "Angeleinte Hunde überall willkommen",
-          "tipDe": "Am besten abends nach 19:00 Uhr spazieren gehen, wenn die Palmesanos mit ihren eigenen Hunden flanieren. Das Licht ist golden und die Stimmung entspannt"
+          "petPolicyNl": "Aangelijnde honden overal welkom",
+          "tipDe": "Am besten abends nach 19:00 Uhr spazieren gehen, wenn die Palmesanos mit ihren eigenen Hunden flanieren. Das Licht ist golden und die Stimmung entspannt",
+          "tipNl": "Het best 's avonds na 19:00 uur wandelen, wanneer de Palmesanos flaneren met hun eigen honden. Het licht is goudkleurig en de sfeer ontspannen"
         },
         {
           "name": "La Seu Cathedral (exterior)",
@@ -594,15 +666,21 @@
           "petPolicyPt": "Cães com trela bem-vindos nos jardins e no Parc de la Mar; interior sem animais",
           "tipPt": "Venha ao pôr do sol (por volta das 20:30 no verão) para fotografar a catedral a partir do Parc de la Mar. O reflexo no lago é um dos melhores locais para fotografias de Maiorca",
           "descriptionDe": "La Seu ist das prägende Bild Palmas, eine kolossale gotische Kathedrale, die direkt aus der Hafenmauer emporragt, ihr goldener Sandstein bei Sonnenuntergang dramatisch beleuchtet. Hunde sind im Inneren nicht erlaubt, aber die umliegenden Gärten und die Promenade (Parc de la Mar unterhalb der alten Mauern) eignen sich hervorragend für einen Spaziergang mit angeleintem Hund. Der Parc de la Mar verfügt über einen großen künstlichen See, schattige Wege und den ikonischsten Blick auf die Kathedrale, den Sie finden werden.",
+          "descriptionNl": "La Seu is het kenmerkende beeld van Palma, een kolossale gotische kathedraal die recht uit de havenmuur oprijst, zijn gouden zandsteen dramatisch verlicht bij zonsondergang. Honden zijn niet toegestaan binnen, maar de omliggende tuinen en de promenade (Parc de la Mar onder de oude muren) zijn uitstekend voor een wandeling met aangelijnde hond. Het Parc de la Mar heeft een groot kunstmatig meer, schaduwrijke paden en het meest iconische uitzicht op de kathedraal dat je zult vinden.",
           "petPolicyDe": "Angeleinte Hunde in den Gärten und im Parc de la Mar willkommen; Innenbereich haustierfrei",
-          "tipDe": "Kommen Sie bei Sonnenuntergang (im Sommer gegen 20:30 Uhr), um die Kathedrale vom Parc de la Mar aus zu fotografieren. Die Spiegelung im See gehört zu den besten Fotomotiven Mallorcas"
+          "petPolicyNl": "Aangelijnde honden welkom in de tuinen en in het Parc de la Mar; interieur huisdiervrij",
+          "tipDe": "Kommen Sie bei Sonnenuntergang (im Sommer gegen 20:30 Uhr), um die Kathedrale vom Parc de la Mar aus zu fotografieren. Die Spiegelung im See gehört zu den besten Fotomotiven Mallorcas",
+          "tipNl": "Kom bij zonsondergang (in de zomer rond 20:30 uur) om de kathedraal te fotograferen vanaf het Parc de la Mar. De weerspiegeling in het meer behoort tot de beste fotomomenten van Mallorca"
         }
       ],
       "titlePt": "Atrações Pet-Friendly em Palma de Maiorca",
       "introPt": "O centro histórico e a frente de água de Palma exploram-se melhor a pé, e a maioria dos espaços exteriores icónicos da cidade acolhe cães com trela. A catedral de La Seu e o Palácio Real de La Almudaina aceitam cães nos jardins e no passeio circundantes, ainda que os interiores estejam vedados. O Castell de Bellver, um singular castelo circular do século XIV no topo de uma colina, tem um recinto onde os cães são bem-vindos e as vistas sobre a baía são excecionais. O Passeig des Born e o Passeig Maritim à beira-mar são bulevares largos e agradáveis para passear com um cão a qualquer hora do dia.",
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Palma de Mallorca",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Palma de Mallorca",
       "introDe": "Palmas historische Altstadt und Uferpromenade lassen sich am besten zu Fuß erkunden, und die meisten der ikonischen Freiluftbereiche der Stadt heißen angeleinte Hunde willkommen. Die Kathedrale La Seu und der Königspalast La Almudaina erlauben Hunde in den umliegenden Gärten und auf der Promenade, auch wenn die Innenräume tabu sind. Castell de Bellver, ein einzigartiges kreisrundes Hügelschloss aus dem 14. Jahrhundert, verfügt über ein Gelände, auf dem Hunde willkommen sind, und die Ausblicke auf die Bucht sind außergewöhnlich. Der Passeig des Born und die Uferpromenade Passeig Marítim sind breite, angenehme Boulevards zum Spazierengehen mit Hund zu jeder Tageszeit.",
-      "faqsDe": []
+      "introNl": "Palma's historische oude stad en boulevard aan zee verken je het best te voet, en de meeste van de iconische buitenplekken van de stad heten aangelijnde honden welkom. De kathedraal La Seu en het koninklijk paleis La Almudaina staan honden toe in de omliggende tuinen en op de promenade, ook al zijn de interieurs verboden terrein. Castell de Bellver, een uniek cirkelvormig heuvelkasteel uit de 14e eeuw, heeft een terrein waar honden welkom zijn, en de uitzichten over de baai zijn uitzonderlijk. De Passeig des Born en de boulevard aan zee Passeig Marítim zijn brede, aangename boulevards om op elk moment van de dag met hond te wandelen.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "petsitting": {
       "titleEn": "Pet-Sitting Services in Palma de Mallorca",
@@ -631,8 +709,11 @@
           "petPolicyPt": "Cães e gatos, todos os tamanhos",
           "tipPt": "Reserve com pelo menos 2 semanas de antecedência em julho e agosto, a procura de verão em Palma é muito elevada e os melhores cuidadores esgotam depressa",
           "descriptionDe": "Rover ist die größte Haustierbetreuungsplattform Spaniens, mit über 50 verifizierten und versicherten Betreuern im Raum Palma. Zu den Leistungen gehören Hundepension, Hausbesuche, Gassi-Service und Tagesbetreuung. Alle Buchungen sind durch die Versicherungspolice von Rover abgedeckt. Verfügbar über App oder Website.",
+          "descriptionNl": "Rover is het grootste huisdierenoppasplatform van Spanje, met meer dan 50 geverifieerde en verzekerde oppassers in de regio Palma. Diensten omvatten hondenpension, huisbezoeken, uitlaatservice en dagopvang. Alle boekingen zijn gedekt door de verzekeringspolis van Rover. Beschikbaar via app of website.",
           "petPolicyDe": "Hunde und Katzen, alle Größen",
-          "tipDe": "Buchen Sie im Juli und August mindestens 2 Wochen im Voraus, die Sommernachfrage in Palma ist sehr hoch, und die besten Betreuer sind schnell ausgebucht"
+          "petPolicyNl": "Honden en katten, alle formaten",
+          "tipDe": "Buchen Sie im Juli und August mindestens 2 Wochen im Voraus, die Sommernachfrage in Palma ist sehr hoch, und die besten Betreuer sind schnell ausgebucht",
+          "tipNl": "Boek in juli en augustus minstens 2 weken van tevoren, de zomervraag in Palma is erg hoog, en de beste oppassers zitten snel vol"
         },
         {
           "name": "Pawshake",
@@ -653,8 +734,11 @@
           "petPolicyPt": "Cães e gatos",
           "tipPt": "A sessão de apresentação é incluída gratuitamente, use-a sempre para garantir que o seu cão se sente confortável com o anfitrião antes de o deixar",
           "descriptionDe": "Pawshake ist ein europäischer Marktplatz für Haustierbetreuung mit starker Präsenz in Palma und auf ganz Mallorca. Er ist auf hausbasierte Tierpflege spezialisiert: Ihr Hund bleibt bei einer lokalen Gastfamilie statt in einer Pension. Jede Buchung umfasst Versicherungsschutz und ein Kennenlern-Treffen, bevor Sie bestätigen. Beliebt bei Expats und Langzeitbewohnern.",
+          "descriptionNl": "Pawshake is een Europese marktplaats voor huisdierenoppas met een sterke aanwezigheid in Palma en op heel Mallorca. Het is gespecialiseerd in opvang aan huis: je hond blijft bij een lokaal gastgezin in plaats van in een pension. Elke boeking omvat verzekeringsdekking en een kennismakingsafspraak voordat je bevestigt. Populair bij expats en langdurige bewoners.",
           "petPolicyDe": "Hunde und Katzen",
-          "tipDe": "Das Kennenlern-Treffen ist kostenlos inbegriffen, nutzen Sie es immer, um sicherzustellen, dass sich Ihr Hund beim Gastgeber wohlfühlt, bevor Sie ihn dort lassen"
+          "petPolicyNl": "Honden en katten",
+          "tipDe": "Das Kennenlern-Treffen ist kostenlos inbegriffen, nutzen Sie es immer, um sicherzustellen, dass sich Ihr Hund beim Gastgeber wohlfühlt, bevor Sie ihn dort lassen",
+          "tipNl": "De kennismakingsafspraak is gratis inbegrepen, gebruik hem altijd om te zorgen dat je hond zich op zijn gemak voelt bij de gastheer voordat je hem daar achterlaat"
         },
         {
           "name": "TrustedHousesitters",
@@ -675,15 +759,21 @@
           "petPolicyPt": "Cães, gatos e outros animais",
           "tipPt": "Perfeito se estiver a alugar uma vivenda ou um apartamento na ilha, o cuidador fica na sua casa enquanto viaja. Publique o seu anúncio com pelo menos 3 semanas de antecedência",
           "descriptionDe": "TrustedHousesitters bringt Haustierbesitzer mit verifizierten Haussittern zusammen, die in Ihrer Unterkunft wohnen und im Gegenzug Ihre Haustiere betreuen, es fließt kein Geld über die Mitgliedsgebühr hinaus. Die Plattform verfügt über ein starkes Netzwerk von Sittern, die auf Mallorca ansässig sind oder dorthin reisen möchten. Ideal für längere Aufenthalte oder für Besitzer, die ihren Hund lieber zu Hause als in einer kommerziellen Einrichtung betreut wissen möchten.",
+          "descriptionNl": "TrustedHousesitters brengt huisdierbezitters samen met geverifieerde huissitters die in jouw accommodatie wonen en in ruil daarvoor je huisdieren verzorgen, er gaat geen geld om behalve het lidmaatschap. Het platform heeft een sterk netwerk van sitters die op Mallorca wonen of daarheen willen reizen. Ideaal voor langere verblijven of voor eigenaren die hun hond liever thuis verzorgd zien dan in een commerciële voorziening.",
           "petPolicyDe": "Hunde, Katzen und andere Haustiere",
-          "tipDe": "Perfekt, wenn Sie eine Villa oder Wohnung auf der Insel mieten, der Sitter bleibt bei Ihnen zu Hause, während Sie unterwegs sind. Stellen Sie Ihre Anzeige mindestens 3 Wochen im Voraus ein"
+          "petPolicyNl": "Honden, katten en andere huisdieren",
+          "tipDe": "Perfekt, wenn Sie eine Villa oder Wohnung auf der Insel mieten, der Sitter bleibt bei Ihnen zu Hause, während Sie unterwegs sind. Stellen Sie Ihre Anzeige mindestens 3 Wochen im Voraus ein",
+          "tipNl": "Perfect als je een villa of appartement op het eiland huurt, de sitter blijft bij jou thuis terwijl jij onderweg bent. Plaats je advertentie minstens 3 weken van tevoren"
         }
       ],
       "titlePt": "Serviços de Pet Sitting em Palma de Maiorca",
       "introPt": "As plataformas de pet sitting estão ativas em Palma e por toda a Maiorca, o que torna fácil encontrar um cuidador local de confiança quando precisa de visitar um museu ou desfrutar de um jantar sem o seu cão. As principais plataformas, Rover, Pawshake e PetBacker, têm todas cuidadores locais registados em Palma. Serviços especializados locais também operam na ilha para necessidades de cuidados mais prolongados. Reserve com antecedência durante a época alta de verão, pois a disponibilidade diminui acentuadamente em julho e agosto.",
       "titleDe": "Haustierbetreuungsdienste in Palma de Mallorca",
+      "titleNl": "Huisdierenoppasdiensten in Palma de Mallorca",
       "introDe": "Haustierbetreuungsplattformen sind in Palma und auf ganz Mallorca aktiv, sodass es leicht ist, einen vertrauenswürdigen lokalen Betreuer zu finden, wenn Sie ein Museum besuchen oder ein Abendessen ohne Ihren Hund genießen möchten. Die wichtigsten Plattformen, Rover, Pawshake und PetBacker, haben alle lokale Betreuer in Palma registriert. Auf der Insel sind auch lokale Spezialdienste für längerfristige Betreuungsbedürfnisse tätig. Buchen Sie in der Hochsommersaison im Voraus, da die Verfügbarkeit im Juli und August stark sinkt.",
-      "faqsDe": []
+      "introNl": "Huisdierenoppasplatforms zijn actief in Palma en op heel Mallorca, waardoor het makkelijk is een betrouwbare lokale oppas te vinden als je een museum wilt bezoeken of een diner wilt genieten zonder je hond. De belangrijkste platforms, Rover, Pawshake en PetBacker, hebben allemaal lokale oppassers geregistreerd in Palma. Op het eiland zijn ook lokale gespecialiseerde diensten actief voor langduriger opvangbehoeften. Boek in het hoogzomerseizoen van tevoren, want de beschikbaarheid daalt sterk in juli en augustus.",
+      "faqsDe": [],
+      "faqsNl": []
     }
   }
 }

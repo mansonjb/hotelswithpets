@@ -39,9 +39,13 @@
           "mustTryPt": "Tordelli lucchesi, zuppa di farro",
           "tipPt": "Reserve com 1 semana de antecedência, o almoço mais cobiçado de Lucca. O menu de almoço custa metade do jantar.",
           "descriptionDe": "Seit 1782 geöffnet, das älteste Restaurant Luccas, Gewölbedecken, Kupfertöpfe an den Wänden, lucchesische Küche. Tordelli, Dinkelsuppe, geschmortes Kaninchen.",
+          "descriptionNl": "Sinds 1782 geopend, het oudste restaurant van Lucca, gewelfde plafonds, koperen potten aan de muren, Lucchese keuken. Tordelli, spelsoep, gestoofd konijn.",
           "petPolicyDe": "Kleine Hunde an den Außentischen willkommen",
+          "petPolicyNl": "Kleine honden welkom aan de buitentafels",
           "mustTryDe": "Tordelli lucchesi, zuppa di farro",
-          "tipDe": "1 Woche im Voraus reservieren, das begehrteste Mittagessen in Lucca. Die Mittagskarte kostet die Hälfte des Abendmenüs."
+          "mustTryNl": "Tordelli lucchesi, zuppa di farro",
+          "tipDe": "1 Woche im Voraus reservieren, das begehrteste Mittagessen in Lucca. Die Mittagskarte kostet die Hälfte des Abendmenüs.",
+          "tipNl": "1 week van tevoren reserveren, de meest gewilde lunch van Lucca. De lunchkaart kost de helft van het avondmenu."
         },
         {
           "name": "Trattoria da Leo",
@@ -69,9 +73,13 @@
           "mustTryPt": "Pappa al pomodoro, peposo, ribollita",
           "tipPt": "Só aceita dinheiro. O almoço é mais calmo do que o jantar, melhor com um cão.",
           "descriptionDe": "Arbeiter-Trattoria seit 1955, Papiertischdecken, großzügige Außenterrasse unter Segeltuchmarkisen. Ehrliche lucchesische Küche, Kupferkrüge mit Hauswein.",
+          "descriptionNl": "Arbeiderstrattoria sinds 1955, papieren tafelkleden, ruim buitenterras onder zonneschermen van zeildoek. Eerlijke Lucchese keuken, koperen kannen met huiswijn.",
           "petPolicyDe": "Hunde auf der Terrasse und an den Außentischen willkommen",
+          "petPolicyNl": "Honden welkom op het terras en aan de buitentafels",
           "mustTryDe": "Pappa al pomodoro, peposo, ribollita",
-          "tipDe": "Nur Barzahlung. Mittags ist es ruhiger als abends, besser mit Hund."
+          "mustTryNl": "Pappa al pomodoro, peposo, ribollita",
+          "tipDe": "Nur Barzahlung. Mittags ist es ruhiger als abends, besser mit Hund.",
+          "tipNl": "Alleen contante betaling. 's Middags is het rustiger dan 's avonds, beter met hond."
         },
         {
           "name": "Vineria Caffè di Simo",
@@ -99,9 +107,13 @@
           "mustTryPt": "Tagliere toscano, Chianti a copo",
           "tipPt": "A hora do aperitivo (18:00 às 20:00) é a mais movimentada na Via Fillungo, visite entre as 16:00 e as 17:30 para uma esplanada mais sossegada com o seu cão.",
           "descriptionDe": "Historisches Café aus dem Jahr 1846 an der Haupteinkaufsstraße, in seiner Jugend von Puccini besucht. Weinbar mit toskanischen Gerichten, Marmortresen und Spiegeln im Liberty-Stil.",
+          "descriptionNl": "Historisch café uit 1846 aan de belangrijkste winkelstraat, in zijn jeugd bezocht door Puccini. Wijnbar met Toscaanse gerechten, marmeren toonbanken en spiegels in Liberty-stijl.",
           "petPolicyDe": "Hunde auf der Terrasse zur Straße willkommen",
+          "petPolicyNl": "Honden welkom op het terras aan de straat",
           "mustTryDe": "Tagliere toscano, Chianti glasweise",
-          "tipDe": "Die Aperitivo-Stunde (18:00–20:00 Uhr) ist die geschäftigste Zeit in der Via Fillungo; besuchen Sie zwischen 16:00 und 17:30 Uhr für eine ruhigere Terrasse mit Hund."
+          "mustTryNl": "Tagliere toscano, Chianti per glas",
+          "tipDe": "Die Aperitivo-Stunde (18:00–20:00 Uhr) ist die geschäftigste Zeit in der Via Fillungo; besuchen Sie zwischen 16:00 und 17:30 Uhr für eine ruhigere Terrasse mit Hund.",
+          "tipNl": "Het aperitiefuur (18:00-20:00 uur) is de drukste tijd op de Via Fillungo; bezoek tussen 16:00 en 17:30 uur voor een rustiger terras met hond."
         }
       ],
       "tipsEn": [
@@ -167,7 +179,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Lucca, Trattorien & Weinbars",
+      "titleNl": "Hondvriendelijke restaurants in Lucca, trattoria's & wijnbars",
       "introDe": "Die Trattoria- und Enoteca-Kultur innerhalb der Stadtmauern von Lucca ist auf den Terrassen überwiegend hundetolerant. Die Piazza dell'Anfiteatro und die Via Fillungo bündeln das ganze Jahr über Dutzende hundefreundliche Lokale.",
+      "introNl": "De trattoria- en enotecacultuur binnen de stadsmuren van Lucca is op de terrassen overwegend hondtolerant. De Piazza dell'Anfiteatro en de Via Fillungo bundelen het hele jaar door tientallen hondvriendelijke zaken.",
       "faqsDe": [
         {
           "q": "Sind Hunde in den Trattorien von Lucca erlaubt?",
@@ -176,6 +190,16 @@
         {
           "q": "Sollte ich in italienischen Trattorien Trinkgeld geben?",
           "a": "Der Service (coperto) ist in der Rechnung enthalten. Es ist üblich, aber nicht erwartet, auf den nächsten Euro aufzurunden oder bei ausgezeichnetem Service 1-2 EUR bar zu geben."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in de trattoria's van Lucca?",
+          "a": "Ja, op de meeste buitenterrassen en in veel binnenruimtes. De Italiaanse trattoriacultuur staat vriendelijk tegenover aangelijnde honden; Lucca is dankzij zijn kleinstedelijke, verkeersarme karakter bijzonder huisdiervriendelijk."
+        },
+        {
+          "q": "Moet ik fooi geven in Italiaanse trattoria's?",
+          "a": "De bediening (coperto) is bij de rekening inbegrepen. Het is gebruikelijk, maar niet verplicht, om af te ronden op de volgende euro of bij uitstekende service 1-2 EUR contant te geven."
         }
       ]
     },
@@ -231,8 +255,11 @@
           ],
           "tipPt": "Melhor de manhã (08:00 às 10:00), quando os habitantes locais correm e passeiam cães. Os ciclistas partilham o caminho, mantenha os cães com trela curta. O Baluardo San Donato tem um pequeno café com esplanada.",
           "leashRuleDe": "Leinenpflicht",
+          "leashRuleNl": "Aanlijnplicht",
           "descriptionDe": "Die am besten erhaltene Renaissance-Befestigungsanlage Italiens (1545-1650), 4,2 km lange Runde auf der Mauerkrone, 12 m breit, mit Grasstreifen gepflastert und von Kastanien-, Platanen- und Lindenbäumen gesäumt. Italiens wichtigste Renaissance-Flaniermeile.",
-          "tipDe": "Am schönsten morgens (08:00-10:00 Uhr), wenn Einheimische joggen und mit Hunden spazieren gehen. Radfahrer teilen sich den Weg, Hunde kurz anleinen. Der Baluardo San Donato hat ein kleines Café mit Terrasse."
+          "descriptionNl": "De best bewaarde renaissanceversterking van Italië (1545-1650), 4,2 km lange rondwandeling over de muurkroon, 12 m breed, met grasstroken geplaveid en gezoomd door kastanje-, plataan- en lindebomen. Italiës belangrijkste renaissance-wandelboulevard.",
+          "tipDe": "Am schönsten morgens (08:00-10:00 Uhr), wenn Einheimische joggen und mit Hunden spazieren gehen. Radfahrer teilen sich den Weg, Hunde kurz anleinen. Der Baluardo San Donato hat ein kleines Café mit Terrasse.",
+          "tipNl": "Het mooist in de ochtend (08:00-10:00 uur), wanneer locals joggen en met honden wandelen. Fietsers delen het pad, honden kort aanlijnen. Het Baluardo San Donato heeft een klein café met terras."
         },
         {
           "name": "Orto Botanico di Lucca",
@@ -278,8 +305,11 @@
           ],
           "tipPt": "Entrada 4 EUR; o cedro-do-líbano plantado em 1822 é a peça de destaque. Refúgio fresco no calor das tardes de julho.",
           "leashRuleDe": "Leinenpflicht",
+          "leashRuleNl": "Aanlijnplicht",
           "descriptionDe": "Kompakter, 2 ha großer Botanischer Garten, 1820 von Maria Luisa di Borbone, Herzogin von Lucca, gegründet. Ausgewachsene exotische Bäume, ein kleiner Teich, ein Pavillon. Angeleinte Hunde willkommen, selten für einen italienischen Botanischen Garten.",
-          "tipDe": "Eintritt 4 EUR; die 1822 gepflanzte Libanon-Zeder ist das Prunkstück. Kühler Rückzugsort an heißen Julinachmittagen."
+          "descriptionNl": "Compacte, 2 ha grote botanische tuin, gesticht in 1820 door Maria Luisa di Borbone, hertogin van Lucca. Volgroeide exotische bomen, een kleine vijver, een paviljoen. Aangelijnde honden welkom, zeldzaam voor een Italiaanse botanische tuin.",
+          "tipDe": "Eintritt 4 EUR; die 1822 gepflanzte Libanon-Zeder ist das Prunkstück. Kühler Rückzugsort an heißen Julinachmittagen.",
+          "tipNl": "Toegang 4 EUR; de in 1822 geplante Libanonceder is het pronkstuk. Koele toevlucht op hete julimiddagen."
         },
         {
           "name": "Parco Fluviale del Serchio",
@@ -325,8 +355,11 @@
           ],
           "tipPt": "Melhor acesso pela ponte de Ponte San Quirico. Evite os fins de semana de julho e agosto, quando as famílias locais também vêm.",
           "leashRuleDe": "Leinenpflicht; ausgeschilderte Freilaufzone am Strand",
+          "leashRuleNl": "Aanlijnplicht; aangewezen losloopzone op het strand",
           "descriptionDe": "Flusspark am Serchio, 1 km nördlich der Stadtmauer. 8 km flacher Weg, Kiesstrände und eine kleine ausgeschilderte Hundebadezone, in der Hunde im Sommer schwimmen können.",
-          "tipDe": "Bester Zugang von der Brücke Ponte San Quirico aus. Wochenenden im Juli-August meiden, wenn auch einheimische Familien kommen."
+          "descriptionNl": "Rivierpark aan de Serchio, 1 km ten noorden van de stadsmuur. 8 km vlak pad, kiezelstranden en een kleine aangewezen hondenzwemzone waar honden 's zomers kunnen zwemmen.",
+          "tipDe": "Bester Zugang von der Brücke Ponte San Quirico aus. Wochenenden im Juli-August meiden, wenn auch einheimische Familien kommen.",
+          "tipNl": "Beste toegang vanaf de brug Ponte San Quirico. Vermijd weekends in juli-augustus, wanneer ook lokale gezinnen komen."
         }
       ],
       "tipsEn": [
@@ -392,7 +425,9 @@
         }
       ],
       "titleDe": "Beste Hundeparks & Spaziergänge in Lucca, Stadtmauer, Botanischer Garten & Umgebung",
+      "titleNl": "Beste hondenparken & wandelingen in Lucca, stadsmuur, botanische tuin & omgeving",
       "introDe": "Der charakteristische Hundespaziergang Luccas ist die 4,2 km lange Runde auf der Renaissance-Stadtmauer, flach, grasbewachsen, verkehrsfrei, mit Schatten von Kastanienbäumen. Der Botanische Garten, der Parco Fluviale und die umliegenden Hügel sorgen für Abwechslung.",
+      "introNl": "De karakteristieke hondenwandeling van Lucca is de 4,2 km lange rondwandeling over de renaissance-stadsmuur, vlak, begraasd, verkeersvrij, met schaduw van kastanjebomen. De botanische tuin, het Parco Fluviale en de omliggende heuvels zorgen voor afwisseling.",
       "faqsDe": [
         {
           "q": "Wo kann mein Hund in Lucca spazieren gehen?",
@@ -401,6 +436,16 @@
         {
           "q": "Gibt es in Lucca Freilaufzonen?",
           "a": "Innerhalb der Stadtmauer nicht, dort besteht Leinenpflicht. Der Parco Fluviale del Serchio hat eine kleine ausgeschilderte Hundebadezone, in der Freilauf beim Schwimmen toleriert wird. Für echtes Freilauf-Wandern geht es in die umliegenden Hügel der Garfagnana."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar kan mijn hond in Lucca wandelen?",
+          "a": "De 4,2 km lange rondwandeling over de renaissance-stadsmuur is de belangrijkste hondenwandeling van de stad, vlak, begraasd, verkeersvrij. De Orto Botanico (2 ha) en het Parco Fluviale del Serchio (8 km langs de rivier) zorgen voor afwisseling."
+        },
+        {
+          "q": "Zijn er losloopzones in Lucca?",
+          "a": "Binnen de stadsmuur niet, daar geldt aanlijnplicht. Het Parco Fluviale del Serchio heeft een kleine aangewezen hondenzwemzone waar loslopen bij het zwemmen wordt getolereerd. Voor echt losloopwandelen ga je naar de omliggende heuvels van de Garfagnana."
         }
       ]
     },
@@ -431,8 +476,11 @@
           "petPolicyPt": "Cães pequenos em transportadoras viajam de graça. Cães maiores aceites com trela e açaime, com um bilhete de criança (50% da tarifa de adulto).",
           "tipPt": "Compre um bilhete regional no próprio dia na estação, não é preciso reserva antecipada. Barato (8 EUR para Florença) e fiável.",
           "descriptionDe": "Der Bahnhof von Lucca liegt 200 m südlich der Stadtmauer. Direkte Regionalzüge nach Pisa Centrale (30 Min, alle 30 Min), Florenz SMN (1 Std 20 Min, stündlich) und an die Küste von Viareggio (20 Min).",
+          "descriptionNl": "Het station van Lucca ligt 200 m ten zuiden van de stadsmuur. Directe regionale treinen naar Pisa Centrale (30 min, elke 30 min), Florence SMN (1 uur 20 min, ieder uur) en naar de kust bij Viareggio (20 min).",
           "petPolicyDe": "Kleine Hunde in Transportboxen fahren kostenlos. Größere Hunde sind angeleint und mit Maulkorb mit Kinderfahrschein (50 % des Erwachsenenpreises) zugelassen.",
-          "tipDe": "Regionalfahrschein am selben Tag am Bahnhof kaufen, keine Vorausbuchung nötig. Günstig (8 EUR nach Florenz) und zuverlässig."
+          "petPolicyNl": "Kleine honden in draagtassen reizen gratis mee. Grotere honden zijn met lijn en muilkorf toegestaan met een kinderkaartje (50% van de volwassenprijs).",
+          "tipDe": "Regionalfahrschein am selben Tag am Bahnhof kaufen, keine Vorausbuchung nötig. Günstig (8 EUR nach Florenz) und zuverlässig.",
+          "tipNl": "Koop het regionale kaartje dezelfde dag bij het station, geen reservering nodig. Goedkoop (8 EUR naar Florence) en betrouwbaar."
         },
         {
           "name": "CTT Nord Buses",
@@ -453,8 +501,11 @@
           "petPolicyPt": "Cães pequenos em transportadoras grátis; cães maiores admitidos com açaime e bilhete normal ao critério do motorista.",
           "tipPt": "Partidas do Piazzale Verdi, mesmo junto ao portão oeste das muralhas.",
           "descriptionDe": "Toskanischer Regionalbusbetreiber. Direktverbindungen von Lucca nach Forte dei Marmi (Küste, 50 Min), Bagni di Lucca (Bergkurort, 40 Min) und in Dörfer der Garfagnana. Nützlich für autofreie Tagesausflüge mit Hund.",
+          "descriptionNl": "Toscaanse regionale busmaatschappij. Directe verbindingen van Lucca naar Forte dei Marmi (kust, 50 min), Bagni di Lucca (bergplaatsje, 40 min) en dorpen in de Garfagnana. Handig voor autovrije dagtrips met hond.",
           "petPolicyDe": "Kleine Hunde in Transportboxen kostenlos; größere Hunde mit Maulkorb und regulärem Fahrschein nach Ermessen des Fahrers zugelassen.",
-          "tipDe": "Abfahrten von der Piazzale Verdi direkt vor dem Westtor der Stadtmauer."
+          "petPolicyNl": "Kleine honden in draagtassen gratis; grotere honden met muilkorf en gewoon kaartje toegestaan naar goeddunken van de chauffeur.",
+          "tipDe": "Abfahrten von der Piazzale Verdi direkt vor dem Westtor der Stadtmauer.",
+          "tipNl": "Vertrek vanaf de Piazzale Verdi, direct voor de westpoort van de stadsmuur."
         },
         {
           "name": "Radio Taxi Lucca",
@@ -475,8 +526,11 @@
           "petPolicyPt": "Cães pequenos em transportadoras quase sempre aceites; cães maiores exigem pedido prévio na reserva.",
           "tipPt": "Ligue para o +39 0583 333 434 para reservar. Os táxis de Lucca usam taxímetro; as tarifas fixas para o aeroporto estão afixadas na praça do Piazzale Verdi.",
           "descriptionDe": "Örtliche Taxigenossenschaft, die die Stadt, den Flughafen Pisa (PSA, 30 Min) und den Flughafen Florenz (FLR, 1 Std) abdeckt. Haustierfreundliche Fahrer bei der Telefonbuchung erkennbar.",
+          "descriptionNl": "Lokale taxicoöperatie die de stad, luchthaven Pisa (PSA, 30 min) en luchthaven Florence (FLR, 1 uur) bedient. Huisdiervriendelijke chauffeurs zijn herkenbaar bij telefonische reservering.",
           "petPolicyDe": "Kleine Hunde in Transportboxen werden fast immer akzeptiert; größere Hunde erfordern eine vorherige Anfrage bei der Buchung.",
-          "tipDe": "Buchung unter +39 0583 333 434. Die Taxis in Lucca fahren mit Taxameter; Festpreise zum Flughafen sind am Standplatz Piazzale Verdi ausgehängt."
+          "petPolicyNl": "Kleine honden in draagtassen worden vrijwel altijd geaccepteerd; grotere honden vereisen een verzoek vooraf bij het boeken.",
+          "tipDe": "Buchung unter +39 0583 333 434. Die Taxis in Lucca fahren mit Taxameter; Festpreise zum Flughafen sind am Standplatz Piazzale Verdi ausgehängt.",
+          "tipNl": "Boeken via +39 0583 333 434. De taxi's in Lucca rijden met taximeter; vaste prijzen naar de luchthaven staan uitgehangen bij de standplaats Piazzale Verdi."
         }
       ],
       "tipsEn": [
@@ -542,7 +596,9 @@
         }
       ],
       "titleDe": "Haustierfreundlicher Transport in Lucca, Zug, Bus & Taxi",
+      "titleNl": "Huisdiervriendelijk vervoer in Lucca, trein, bus & taxi",
       "introDe": "Das ummauerte Zentrum Luccas ist in 15 Minuten komplett zu Fuß zu durchqueren. Regionalzüge von Trenitalia verbinden Pisa (30 Min) und Florenz (1 Std 20 Min). Die Stadtmauer hält Autos fern, das fußgängerfreundlichste größere toskanische Städtchen.",
+      "introNl": "Het ommuurde centrum van Lucca is in 15 minuten volledig te voet te doorkruisen. Regionale treinen van Trenitalia verbinden Pisa (30 min) en Florence (1 uur 20 min). De stadsmuur houdt auto's buiten, het meest voetgangersvriendelijke grotere Toscaanse stadje.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund im Zug von Pisa nach Lucca mitnehmen?",
@@ -551,6 +607,16 @@
         {
           "q": "Kann ich mit meinem Hund die Stadtmauer entlang radeln?",
           "a": "Ja, Einheimische tun das täglich. Kleine Hunde fahren im Fahrradkorb vorne mit, größere Hunde laufen angeleint neben dem Fahrrad (der Weg ist 12 m breit). Kostenloser Fahrradverleih in den meisten Hotels."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen in de trein van Pisa naar Lucca?",
+          "a": "Ja. Trenitalia neemt kleine honden in draagtassen gratis mee; grotere honden met muilkorf en een kinderkaartje (~4 EUR). De treinen rijden elke 30 minuten en doen er 30 minuten over."
+        },
+        {
+          "q": "Kan ik met mijn hond langs de stadsmuur fietsen?",
+          "a": "Ja, locals doen dat dagelijks. Kleine honden gaan mee voorin de fietsmand, grotere honden lopen aangelijnd naast de fiets (het pad is 12 m breed). Gratis fietsverhuur bij de meeste hotels."
         }
       ]
     },
@@ -604,8 +670,11 @@
           ],
           "tipPt": "Autocarro direto da CTT Nord a partir do Piazzale Verdi (45 min, 4 EUR). Reserve uma espreguiçadeira com antecedência em julho e agosto.",
           "leashRuleDe": "Freilauf in der ausgeschilderten Hundestrandzone, ganzjährig",
+          "leashRuleNl": "Loslopen in de aangewezen hondenstrandzone, het hele jaar door",
           "descriptionDe": "Der von Lucca aus am besten erreichbare Bau-Beach, 25 km westlich, direkter Bus oder 35 Minuten mit dem Auto. Sandiger, sanft abfallender Strand, ausgeschilderte Hundezone von etwa 200 m, Sonnenschirme und Liegen zu mieten.",
-          "tipDe": "Direkter CTT-Nord-Bus ab Piazzale Verdi (45 Min, 4 EUR). Im Juli-August eine Liege im Voraus buchen."
+          "descriptionNl": "Het vanaf Lucca best bereikbare bagno-strand, 25 km naar het westen, directe bus of 35 minuten met de auto. Zanderig, geleidelijk aflopend strand, aangewezen hondenzone van ongeveer 200 m, parasols en ligstoelen te huur.",
+          "tipDe": "Direkter CTT-Nord-Bus ab Piazzale Verdi (45 Min, 4 EUR). Im Juli-August eine Liege im Voraus buchen.",
+          "tipNl": "Directe CTT Nord-bus vanaf Piazzale Verdi (45 min, 4 EUR). In juli-augustus een ligstoel van tevoren boeken."
         },
         {
           "name": "Serchio River Dog-Bathing Zone",
@@ -645,8 +714,11 @@
           ],
           "tipPt": "Melhor nas manhãs de dias úteis, as tardes de fim de semana enchem-se de famílias locais.",
           "leashRuleDe": "Freilauf innerhalb der ausgeschilderten Zone",
+          "leashRuleNl": "Loslopen binnen de aangewezen zone",
           "descriptionDe": "Kleine ausgeschilderte Hundebadezone am Fluss Serchio, 1 km nördlich der Stadtmauer. Kiesstrand, flaches Wasser, nur im Sommer (Juni–September). Der nächstgelegene Ort zum Baden mit Hund von der Stadtmauer aus.",
-          "tipDe": "Am besten an Werktagvormittagen, an Wochenendnachmittagen füllt sich der Ort mit einheimischen Familien."
+          "descriptionNl": "Kleine aangewezen hondenzwemzone aan de rivier de Serchio, 1 km ten noorden van de stadsmuur. Kiezelstrand, ondiep water, alleen 's zomers (juni-september). De dichtstbijzijnde plek om met hond te zwemmen vanaf de stadsmuur.",
+          "tipDe": "Am besten an Werktagvormittagen, an Wochenendnachmittagen füllt sich der Ort mit einheimischen Familien.",
+          "tipNl": "Het best op doordeweekse ochtenden, op weekendmiddagen loopt de plek vol met lokale gezinnen."
         },
         {
           "name": "Bau-Beach Viareggio",
@@ -690,8 +762,11 @@
           ],
           "tipPt": "Trenitalia direto de Lucca em 20 min (cerca de 4 EUR). Caminhe 1 km da estação até à frente de mar.",
           "leashRuleDe": "Freilauf in der ausgeschilderten Hundestrandzone, ganzjährig",
+          "leashRuleNl": "Loslopen in de aangewezen hondenstrandzone, het hele jaar door",
           "descriptionDe": "Der größte Hundestrand der Versilia, 28 km westlich von Lucca. Drei Abschnitte mit insgesamt ca. 400 m Sandstrand, eigene Einrichtungen (Hundeduschen, Wasserspender). Ganzjährig geöffnet.",
-          "tipDe": "Trenitalia direkt ab Lucca in 20 Minuten (~4 EUR). 1 km vom Bahnhof zur Uferpromenade laufen."
+          "descriptionNl": "Het grootste hondenstrand van de Versilia, 28 km ten westen van Lucca. Drie gedeeltes met in totaal ca. 400 m zandstrand, eigen voorzieningen (hondendouches, waterdispensers). Het hele jaar geopend.",
+          "tipDe": "Trenitalia direkt ab Lucca in 20 Minuten (~4 EUR). 1 km vom Bahnhof zur Uferpromenade laufen.",
+          "tipNl": "Trenitalia rechtstreeks vanaf Lucca in 20 minuten (~4 EUR). 1 km van het station naar de boulevard lopen."
         }
       ],
       "tipsEn": [
@@ -757,7 +832,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Gewässer bei Lucca, Versilia & Fluss",
+      "titleNl": "Hondvriendelijk water bij Lucca, Versilia & rivier",
       "introDe": "Lucca liegt 25 km landeinwärts von der Küste der Versilia, die die größte Ansammlung von Bau-Beach-Zonen (Hundestränden) in der Toskana beherbergt. Forte dei Marmi, Lido di Camaiore und Viareggio haben jeweils ausgeschilderte Bereiche. Auch der Fluss Serchio hat eine Hundebadezone.",
+      "introNl": "Lucca ligt 25 km landinwaarts van de kust van de Versilia, die de grootste verzameling bagno-zones (hondenstranden) van Toscane herbergt. Forte dei Marmi, Lido di Camaiore en Viareggio hebben elk aangewezen gedeeltes. Ook de rivier de Serchio heeft een hondenzwemzone.",
       "faqsDe": [
         {
           "q": "Wo können Hunde in der Nähe von Lucca schwimmen?",
@@ -766,6 +843,16 @@
         {
           "q": "Sind die Strände der Versilia außerhalb der Saison hundefreundlich?",
           "a": "Ja, außerhalb der bewachten Sommersaison (Mitte September bis Mitte Juni) sind Hunde praktisch überall an den Stränden der Versilia erlaubt. Örtliche Gemeindevorschriften können gelten; auf Schilder achten."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar kunnen honden bij Lucca zwemmen?",
+          "a": "Drie opties: de hondenzwemzone aan de Serchio, 1 km van de stadsmuur (alleen 's zomers); bagno Lido di Camaiore (25 km naar het westen, het hele jaar door); bagno Viareggio (28 km, het grootste van de Versilia, het hele jaar door). Beide stranden in de Versilia zijn rechtstreeks bereikbaar met trein of bus."
+        },
+        {
+          "q": "Zijn de stranden van de Versilia buiten het seizoen hondvriendelijk?",
+          "a": "Ja, buiten het bewaakte zomerseizoen (half september tot half juni) zijn honden vrijwel overal op de stranden van de Versilia toegestaan. Lokale gemeentelijke voorschriften kunnen gelden; let op de bordjes."
         }
       ]
     },
@@ -799,7 +886,9 @@
           "descriptionPt": "O hospital de urgência 24/7 mais próximo de Lucca, 30 min a oeste, em Pisa. Cirurgia completa, UCI, TAC, ecografia. Serve o corredor Lucca-Pisa.",
           "tipPt": "Telefone antes enquanto conduz na A11/A12, vão preparar a sala de trauma para a sua chegada.",
           "descriptionDe": "Die nächstgelegene 24-Stunden-Notfallklinik zu Lucca, 30 Minuten westlich in Pisa. Vollständige Chirurgie, Intensivstation, CT, Ultraschall. Versorgt den Korridor Lucca-Pisa.",
-          "tipDe": "Während der Fahrt auf der A11/A12 vorher anrufen, damit der Behandlungsraum für die Ankunft vorbereitet wird."
+          "descriptionNl": "De dichtstbijzijnde 24-uursspoedkliniek bij Lucca, 30 minuten naar het westen in Pisa. Volledige chirurgie, intensive care, CT, echografie. Bedient de corridor Lucca-Pisa.",
+          "tipDe": "Während der Fahrt auf der A11/A12 vorher anrufen, damit der Behandlungsraum für die Ankunft vorbereitet wird.",
+          "tipNl": "Bel tijdens de rit op de A11/A12 van tevoren, zodat de behandelkamer klaarstaat bij aankomst."
         },
         {
           "name": "Clinica Veterinaria Lucca Centro",
@@ -823,7 +912,9 @@
           "descriptionPt": "Clínica diurna em localização central, a 5 min do portão leste das muralhas. Vacinações, colocação de microchip, medicina interna, dermatologia, atendimento de prevenção até às 22:00 nos dias úteis.",
           "tipPt": "Aceita-se atendimento sem marcação para vacinações; marque com antecedência para o horário de prevenção noturno.",
           "descriptionDe": "Zentral gelegene Tagesklinik 5 Minuten außerhalb des Osttors der Stadtmauer. Impfungen, Mikrochip-Kennzeichnung, Innere Medizin, Dermatologie, werktags Bereitschaftsdienst bis 22:00 Uhr.",
-          "tipDe": "Ohne Termin für Impfungen möglich; für abendliche Bereitschaftsdienste vorher buchen."
+          "descriptionNl": "Centraal gelegen dagkliniek 5 minuten buiten de oostpoort van de stadsmuur. Vaccinaties, microchippen, interne geneeskunde, dermatologie, doordeweekse bereikbaarheidsdienst tot 22:00 uur.",
+          "tipDe": "Ohne Termin für Impfungen möglich; für abendliche Bereitschaftsdienste vorher buchen.",
+          "tipNl": "Zonder afspraak mogelijk voor vaccinaties; voor avondlijke bereikbaarheidsdiensten van tevoren boeken."
         },
         {
           "name": "Ambulatorio Veterinario San Marco",
@@ -846,7 +937,9 @@
           "descriptionPt": "Clínica diurna a sul das muralhas, com horário alargado (08:00 às 20:00) e capacidade de urgência até ao fim da noite. Cirurgia, dentária, imagiologia.",
           "tipPt": "Melhor para urgências do início da noite que não justificam o hospital 24h de Pisa.",
           "descriptionDe": "Tagespraxis südlich der Stadtmauer mit erweiterten Öffnungszeiten (08:00-20:00 Uhr) und Notfallkapazität bis in den späten Abend. Chirurgie, Zahnmedizin, Bildgebung.",
-          "tipDe": "Am besten für frühabendliche Notfälle, die keine Fahrt zur 24h-Klinik nach Pisa erfordern."
+          "descriptionNl": "Dagpraktijk ten zuiden van de stadsmuur met verruimde openingstijden (08:00-20:00 uur) en spoedcapaciteit tot laat in de avond. Chirurgie, tandheelkunde, beeldvorming.",
+          "tipDe": "Am besten für frühabendliche Notfälle, die keine Fahrt zur 24h-Klinik nach Pisa erfordern.",
+          "tipNl": "Het best voor spoedgevallen vroeg in de avond, die geen rit naar de 24-uurskliniek in Pisa vereisen."
         }
       ],
       "tipsEn": [
@@ -912,7 +1005,9 @@
         }
       ],
       "titleDe": "Tierärztliche Notdienste [24h] in Lucca, Tierkliniken & Haustierpflege",
+      "titleNl": "Diergeneeskundige spoeddiensten [24u] in Lucca, dierenklinieken & huisdierenzorg",
       "introDe": "Lucca verfügt über eine solide tierärztliche Tagesversorgung; die nächste 24-Stunden-Notfallklinik liegt in Pisa (30 Minuten mit dem Auto). Das italienische Netzwerk auf dem Land ist stark, die meisten Kliniken bieten einen späten Abend-Bereitschaftsdienst bis 23:00 Uhr an.",
+      "introNl": "Lucca beschikt over een solide diergeneeskundige dagzorg; de dichtstbijzijnde 24-uursspoedkliniek ligt in Pisa (30 minuten met de auto). Het Italiaanse netwerk op het platteland is sterk, de meeste klinieken bieden een late-avond-bereikbaarheidsdienst tot 23:00 uur.",
       "faqsDe": [
         {
           "q": "Gibt es in Lucca einen 24-Stunden-Tierarzt?",
@@ -921,6 +1016,16 @@
         {
           "q": "Wie viel kostet ein Tierarztbesuch in Lucca?",
           "a": "Routineuntersuchung 35–55 EUR. Notfallbesuch 70–140 EUR plus Diagnostik. Größere Operationen 600–2500 EUR. EU-Tierversicherungen erstatten die Kosten häufig."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs dierenarts in Lucca?",
+          "a": "In Lucca zelf niet, de dichtstbijzijnde is het Ospedale Veterinario Pisa San Concordio (30 min naar het westen via A11/A12). Binnen Lucca bieden zowel de Clinica Veterinaria Lucca Centro als het Ambulatorio San Marco doordeweeks een bereikbaarheidsdienst tot 22:00-23:00 uur."
+        },
+        {
+          "q": "Hoeveel kost een dierenartsbezoek in Lucca?",
+          "a": "Routineonderzoek 35-55 EUR. Spoedbezoek 70-140 EUR plus diagnostiek. Grotere operaties 600-2500 EUR. EU-huisdierenverzekeringen vergoeden de kosten vaak."
         }
       ]
     },
@@ -939,7 +1044,8 @@
           "descriptionFr": "Avril–juin et septembre–octobre sont idéaux : 15–22°C, humidité basse, terrasses à plein régime. Évitez juillet–août (25-30°C avec humidité brutale, tourisme de masse) et décembre (pluvieux). Le festival Lucca Comics (début novembre) sature les hôtels, réservez des mois à l'avance.",
           "descriptionEs": "Abril–junio y septiembre–octubre son ideales: 15–22°C, baja humedad, terrazas a tope. Evita julio–agosto (25-30°C con humedad brutal, turismo de masas) y diciembre (lluvioso). El festival Lucca Comics (principios de noviembre) llena los hoteles, reserva con meses.",
           "descriptionPt": "Abril a junho e setembro a outubro são ideais: 15 a 22 °C, baixa humidade, esplanadas em pleno funcionamento. Evite julho e agosto (25 a 30 °C com a humidade toscana brutal, turismo de massas) e dezembro (chuvoso). O festival Lucca Comics (início de novembro) lota os hotéis, reserve com meses de antecedência.",
-          "descriptionDe": "April–Juni und September–Oktober sind ideal: 15–22 °C, geringe Luftfeuchtigkeit, Terrassen in voller Blüte. Juli–August meiden (25-30 °C mit brutaler toskanischer Luftfeuchtigkeit, Massentourismus) sowie Dezember (regnerisch). Das Lucca-Comics-Festival (Anfang November) füllt die Hotels, Monate im Voraus buchen."
+          "descriptionDe": "April–Juni und September–Oktober sind ideal: 15–22 °C, geringe Luftfeuchtigkeit, Terrassen in voller Blüte. Juli–August meiden (25-30 °C mit brutaler toskanischer Luftfeuchtigkeit, Massentourismus) sowie Dezember (regnerisch). Das Lucca-Comics-Festival (Anfang November) füllt die Hotels, Monate im Voraus buchen.",
+          "descriptionNl": "April-juni en september-oktober zijn ideaal: 15-22°C, lage luchtvochtigheid, terrassen in volle bloei. Vermijd juli-augustus (25-30°C met de beruchte Toscaanse luchtvochtigheid, massatoerisme) en december (regenachtig). Het Lucca Comics-festival (begin november) vult de hotels, maanden van tevoren boeken."
         },
         {
           "name": "Walls = the city's living room",
@@ -948,7 +1054,8 @@
           "descriptionFr": "La boucle de 4,2 km sur les murailles fait office de salon en plein air de Lucca, les locaux courent à l'aube, vont travailler à vélo, poussent des landaus l'après-midi et promènent les chiens au coucher du soleil. Attention aux cyclistes ; laisse courte sur la section ouest animée près de la Porta San Donato.",
           "descriptionEs": "El circuito de 4,2 km sobre las murallas funciona como salón al aire libre de Lucca, los locales corren al amanecer, van al trabajo en bici, empujan cochecitos por la tarde y pasean perros al atardecer. Atención a los ciclistas; correa corta en el tramo oeste concurrido cerca de Porta San Donato.",
           "descriptionPt": "O circuito de 4,2 km no topo das muralhas funciona como a sala de estar ao ar livre de Lucca, os habitantes locais correm ao amanhecer, vão de bicicleta para o trabalho, empurram carrinhos de bebé à tarde, e passeiam cães ao pôr do sol. Atenção aos ciclistas; mantenha os cães com trela curta no movimentado troço ocidental, perto da Porta San Donato.",
-          "descriptionDe": "Die 4,2 km lange Runde auf der Stadtmauer fungiert als Luccas Freiluft-Wohnzimmer, Einheimische joggen bei Sonnenaufgang, radeln zur Arbeit, schieben nachmittags Kinderwagen und gehen abends mit dem Hund spazieren. Auf Radfahrer achten; Hunde auf dem belebten westlichen Abschnitt nahe der Porta San Donato kurz anleinen."
+          "descriptionDe": "Die 4,2 km lange Runde auf der Stadtmauer fungiert als Luccas Freiluft-Wohnzimmer, Einheimische joggen bei Sonnenaufgang, radeln zur Arbeit, schieben nachmittags Kinderwagen und gehen abends mit dem Hund spazieren. Auf Radfahrer achten; Hunde auf dem belebten westlichen Abschnitt nahe der Porta San Donato kurz anleinen.",
+          "descriptionNl": "De 4,2 km lange rondwandeling over de stadsmuur fungeert als Lucca's openluchtwoonkamer, locals joggen bij zonsopgang, fietsen naar het werk, duwen 's middags kinderwagens en wandelen 's avonds met de hond. Let op fietsers; honden op het drukke westelijke gedeelte bij de Porta San Donato kort aanlijnen."
         },
         {
           "name": "Currency & cost",
@@ -957,7 +1064,8 @@
           "descriptionFr": "L'Italie utilise l'euro. Lucca est moins chère que Florence : repas 16–28 €, primo trattoria 9–14 €, hôtel pet-friendly milieu de gamme 110–180 €/nuit, taxi aéroport Pise 50 € forfait.",
           "descriptionEs": "Italia usa el euro. Lucca es más barata que Florencia: comida 16–28 €, primo trattoria 9–14 €, hotel pet-friendly de gama media 110–180 €/noche, taxi aeropuerto Pisa 50 € fijo.",
           "descriptionPt": "Itália usa o euro. Lucca é mais barata do que Florença: refeição de 16 a 28 EUR, primo de trattoria de 9 a 14 EUR, hotel pet-friendly de gama média de 110 a 180 EUR/noite, táxi para o aeroporto de Pisa com tarifa fixa de 50 EUR.",
-          "descriptionDe": "Italien nutzt den Euro. Lucca ist günstiger als Florenz: Mahlzeit 16–28 EUR, Trattoria-Primo 9–14 EUR, mittelklassiges haustierfreundliches Hotel 110–180 EUR/Nacht, Taxi zum Flughafen Pisa 50 EUR Festpreis."
+          "descriptionDe": "Italien nutzt den Euro. Lucca ist günstiger als Florenz: Mahlzeit 16–28 EUR, Trattoria-Primo 9–14 EUR, mittelklassiges haustierfreundliches Hotel 110–180 EUR/Nacht, Taxi zum Flughafen Pisa 50 EUR Festpreis.",
+          "descriptionNl": "Italië gebruikt de euro. Lucca is goedkoper dan Florence: maaltijd 16-28 EUR, trattoria-primo 9-14 EUR, middenklasse huisdiervriendelijk hotel 110-180 EUR/nacht, taxi naar luchthaven Pisa vaste prijs 50 EUR."
         }
       ],
       "tipsEn": [
@@ -1023,7 +1131,9 @@
         }
       ],
       "titleDe": "Reisetipps für Lucca mit Ihrem Hund",
+      "titleNl": "Reistips voor Lucca met je hond",
       "introDe": "Lucca ist wohl Italiens einfachste Stadt für Hunde: autofreies, ummauertes Zentrum in 15 Minuten komplett zu Fuß erreichbar, 4,2 km flache, grasbewachsene Wallanlagen als täglicher Spaziergang, ausgeprägte Trattoria-Kultur und Hundestrände der Versilia 30 Minuten westlich. Die einzigen Einschränkungen sind die Sommerfeuchtigkeit und das Fehlen eines 24-Stunden-Tierarztes.",
+      "introNl": "Lucca is wellicht de makkelijkste stad van Italië voor honden: autovrij, ommuurd centrum in 15 minuten volledig te voet bereikbaar, 4,2 km vlakke, begraasde vestingwallen als dagelijkse wandeling, een uitgesproken trattoriacultuur en hondenstranden van de Versilia 30 minuten naar het westen. De enige beperkingen zijn de zomerse vochtigheid en het ontbreken van een 24-uursdierenarts.",
       "faqsDe": [
         {
           "q": "Ist Lucca insgesamt hundefreundlich?",
@@ -1032,6 +1142,16 @@
         {
           "q": "Kann ich meinen Hund in die Stadtmauer mitnehmen?",
           "a": "Ja, die gesamte ummauerte Stadt ist hundefreundlich. Autos sind eingeschränkt (ZTL), sodass das Zentrum im Wesentlichen fußgängerfreundlich ist. Hunde sind auf der Stadtmauer, in Geschäften nach Ermessen der Inhaber, auf den meisten Trattoria-Terrassen und in vielen öffentlichen Räumen willkommen. Die Innenräume der Kathedrale und des Guinigi-Turms sind tabu."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Lucca over het geheel genomen hondvriendelijk?",
+          "a": "Ja, wellicht de hondvriendelijkste grotere stad van Italië. Autovrij, ommuurd centrum, de 4,2 km lange wandeling over de stadsmuur, een uitgesproken trattoriacultuur die honden op de terrassen verwelkomt, plus makkelijke toegang tot de hondenstranden van de Versilia maken het ideaal. Enige beperking: geen 24-uursdierenarts in de stad (dichtstbijzijnde in Pisa, 30 min)."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen de stadsmuur op?",
+          "a": "Ja, de hele ommuurde stad is hondvriendelijk. Auto's zijn beperkt (ZTL), waardoor het centrum in wezen voetgangersvriendelijk is. Honden zijn welkom op de stadsmuur, in winkels naar goeddunken van de eigenaar, op de meeste trattoriaterrassen en in veel openbare ruimtes. Het interieur van de kathedraal en de Guinigitoren zijn verboden terrein."
         }
       ]
     },
@@ -1063,8 +1183,11 @@
           "petPolicyPt": "Praça pública aberta; cães bem-vindos com trela",
           "tipPt": "Mais fotogénica às 09:00 (antes dos turistas) ou às 19:30 (luz do pôr do sol). As esplanadas no interior são caras, coma antes nas trattorie das vielas circundantes.",
           "descriptionDe": "Ovaler Platz, direkt auf den Fundamenten des römischen Amphitheaters aus dem 2. Jahrhundert erbaut, mit Häusern, die sich um seinen Rand herumschwingen. Vier schmale Torbögen sind die einzigen Zugänge, der fotogenste Platz der Stadt.",
+          "descriptionNl": "Ovaal plein, rechtstreeks gebouwd op de funderingen van het Romeinse amfitheater uit de 2e eeuw, met huizen die zich rond de rand kronkelen. Vier smalle poortbogen zijn de enige toegangen, het meest fotogenieke plein van de stad.",
           "petPolicyDe": "Offener öffentlicher Platz; Hunde an der Leine willkommen",
-          "tipDe": "Am fotogensten um 09:00 Uhr (vor den Touristen) oder um 19:30 Uhr (Sonnenuntergangslicht). Die Terrassen im Inneren sind teuer, stattdessen in den Trattorien der umliegenden Gassen essen."
+          "petPolicyNl": "Open openbaar plein; honden aan de lijn welkom",
+          "tipDe": "Am fotogensten um 09:00 Uhr (vor den Touristen) oder um 19:30 Uhr (Sonnenuntergangslicht). Die Terrassen im Inneren sind teuer, stattdessen in den Trattorien der umliegenden Gassen essen.",
+          "tipNl": "Het meest fotogeniek rond 09:00 uur (voor de toeristen) of rond 19:30 uur (zonsonderganglicht). De terrassen op het plein zelf zijn duur, eet liever in de trattoria's van de omliggende steegjes."
         },
         {
           "name": "Guinigi Tower",
@@ -1086,8 +1209,11 @@
           "petPolicyPt": "Sem cães na subida; rua e base acessíveis",
           "tipPt": "Bilhete de 5 EUR para a subida. A rede de cuidadores da Pawshake tem um serviço de 'guardar enquanto sobe a torre', 30 min por cerca de 10 EUR.",
           "descriptionDe": "Backsteinturm aus dem 14. Jahrhundert mit Eichen, die aus einem hängenden Garten auf seinem Dach wachsen, Luccas ikonischstes Bild. Der Aufstieg (230 Stufen) ist für Hunde nicht zugänglich; die Straße und der Platz an der Basis sind jedoch vollständig zugänglich.",
+          "descriptionNl": "Bakstenen toren uit de 14e eeuw met eiken die groeien uit een hangende tuin op het dak, Lucca's meest iconische beeld. De beklimming (230 treden) is niet toegankelijk voor honden; de straat en het plein aan de voet zijn echter volledig toegankelijk.",
           "petPolicyDe": "Keine Hunde beim Aufstieg; Straße und Basis zugänglich",
-          "tipDe": "Eintrittskarte für den Aufstieg 5 EUR. Das Pawshake-Sitternetzwerk bietet einen 'Turm-während-Sie-klettern'-Service, 30 Minuten für ~10 EUR."
+          "petPolicyNl": "Geen honden bij de beklimming; straat en voet toegankelijk",
+          "tipDe": "Eintrittskarte für den Aufstieg 5 EUR. Das Pawshake-Sitternetzwerk bietet einen 'Turm-während-Sie-klettern'-Service, 30 Minuten für ~10 EUR.",
+          "tipNl": "Toegangskaartje voor de beklimming 5 EUR. Het Pawshake-oppasnetwerk biedt een 'oppas-terwijl-je-klimt'-service, 30 minuten voor ~10 EUR."
         },
         {
           "name": "Cattedrale di San Martino",
@@ -1109,8 +1235,11 @@
           "petPolicyPt": "Sem cães no interior; praça exterior totalmente acessível",
           "tipPt": "O labirinto esculpido na coluna do portal direito é um marco de peregrino do século XIII, uma foto memorável com o seu cão na sua base.",
           "descriptionDe": "Romanisch-pisanische Kathedrale, mit dem Bau 1063 begonnen, mit der ikonischen asymmetrischen Fassade (eine Säule kürzer, um dem bestehenden Glockenturm Platz zu machen) und dem Kruzifix Volto Santo im Inneren. Hunde im Inneren nicht erlaubt (außer Assistenzhunde).",
+          "descriptionNl": "Romaans-Pisaanse kathedraal, waarvan de bouw begon in 1063, met de iconische asymmetrische gevel (één zuil korter om plaats te maken voor de bestaande klokkentoren) en het Volto Santo-kruisbeeld binnen. Honden zijn binnen niet toegestaan (behalve hulphonden).",
           "petPolicyDe": "Keine Hunde im Inneren; Außenplatz vollständig zugänglich",
-          "tipDe": "Das in die rechte Portalsäule geschnitzte Labyrinth ist ein Pilgerzeichen aus dem 13. Jahrhundert, ein denkwürdiges Foto mit Ihrem Hund an seiner Basis."
+          "petPolicyNl": "Geen honden binnen; buitenplein volledig toegankelijk",
+          "tipDe": "Das in die rechte Portalsäule geschnitzte Labyrinth ist ein Pilgerzeichen aus dem 13. Jahrhundert, ein denkwürdiges Foto mit Ihrem Hund an seiner Basis.",
+          "tipNl": "Het labyrint gebeiteld in de rechter portaalzuil is een pelgrimsteken uit de 13e eeuw, een gedenkwaardige foto met je hond aan de voet ervan."
         }
       ],
       "tipsEn": [
@@ -1176,7 +1305,9 @@
         }
       ],
       "titleDe": "Top haustierfreundliche Sehenswürdigkeiten in Lucca, Stadtmauer, Anfiteatro & Guinigi-Turm",
+      "titleNl": "Top huisdiervriendelijke bezienswaardigheden in Lucca, stadsmuur, Anfiteatro & Guinigitoren",
       "introDe": "Lucca ist eine Stadt der Plätze, Mauern und Turmspitzen. Die meisten Sehenswürdigkeiten im Freien heißen Hunde an der Leine willkommen; nur das Innere der Kathedrale, die Besteigungen des Guinigi- und des Torre-delle-Ore-Turms sowie das Innere des Puccini-Hauses verbieten Haustiere.",
+      "introNl": "Lucca is een stad van pleinen, muren en torenspitsen. De meeste bezienswaardigheden buiten verwelkomen honden aan de lijn; alleen het interieur van de kathedraal, de beklimmingen van de Guinigi- en de Torre delle Ore-toren, en het interieur van het Puccini-huis verbieden huisdieren.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund zur Piazza dell'Anfiteatro mitnehmen?",
@@ -1185,6 +1316,16 @@
         {
           "q": "Was sind Luccas wichtigste haustierbeschränkte Sehenswürdigkeiten?",
           "a": "Das Innere der Kathedrale San Martino, die Besteigung des Guinigi-Turms, die Besteigung des Torre delle Ore, das Innere des Puccini-Geburtshaus-Museums, die Gärten des Palazzo Pfanner (keine Haustiere erlaubt). Alle Sehenswürdigkeiten im Freien (Anfiteatro, Stadtmauer, alle Plätze) stehen angeleinten Hunden offen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen naar de Piazza dell'Anfiteatro?",
+          "a": "Ja, open openbaar plein, honden dag en nacht aan de lijn welkom. De meeste cafés aan de rand accepteren honden aan de buitentafels."
+        },
+        {
+          "q": "Wat zijn Lucca's belangrijkste bezienswaardigheden met huisdierbeperking?",
+          "a": "Het interieur van de kathedraal San Martino, de beklimming van de Guinigitoren, de beklimming van de Torre delle Ore, het interieur van het Puccini-geboortehuismuseum, de tuinen van het Palazzo Pfanner (geen huisdieren toegestaan). Alle bezienswaardigheden buiten (Anfiteatro, stadsmuur, alle pleinen) staan open voor aangelijnde honden."
         }
       ]
     },
@@ -1212,7 +1353,9 @@
           "descriptionPt": "A principal plataforma de pet-sitting de Itália (do grupo Rover). Cerca de 6 cuidadores verificados em Lucca e arredores. Visitas pontuais, creche, alojamento de uma noite. Seguro incluído, cuidadores avaliados.",
           "tipPt": "A maioria dos cuidadores vive no centro de Lucca ou num raio de 2 km das muralhas. Reserve com pelo menos 48h de antecedência no verão.",
           "descriptionDe": "Italiens führende Plattform für Haustierbetreuung (im Besitz von Rover). ~6 verifizierte Sitter in Lucca und Umgebung. Kurzbesuche, Tagesbetreuung, Übernachtungsbetreuung. Versicherung inklusive, bewertete Sitter.",
-          "tipDe": "Die meisten Sitter leben im Zentrum von Lucca oder innerhalb von 2 km der Stadtmauer. Im Sommer mindestens 48 Stunden im Voraus buchen."
+          "descriptionNl": "Italiës toonaangevende platform voor huisdierenoppas (eigendom van Rover). Ongeveer 6 geverifieerde oppassers in Lucca en omgeving. Korte bezoekjes, dagopvang, overnachtingsopvang. Verzekering inbegrepen, beoordeelde oppassers.",
+          "tipDe": "Die meisten Sitter leben im Zentrum von Lucca oder innerhalb von 2 km der Stadtmauer. Im Sommer mindestens 48 Stunden im Voraus buchen.",
+          "tipNl": "De meeste oppassers wonen in het centrum van Lucca of binnen 2 km van de stadsmuur. Boek 's zomers minstens 48 uur van tevoren."
         },
         {
           "name": "Pawshake Lucca",
@@ -1230,7 +1373,9 @@
           "descriptionPt": "Plataforma internacional com cerca de 4 cuidadores verificados em Lucca. Útil pela interface em inglês e pela portabilidade global da conta. Alguns oferecem serviços específicos de 'subida à torre de 1h'.",
           "tipPt": "Reserve com 72h de antecedência durante o Lucca Comics (última semana de outubro), a disponibilidade dos cuidadores reduz-se drasticamente.",
           "descriptionDe": "Internationale Plattform mit ~4 verifizierten Sittern in Lucca. Nützlich wegen der englischsprachigen Oberfläche und der weltweiten Kontoportabilität. Manche bieten spezielle 'Turmbesteigung 1 Std'-Dienste an.",
-          "tipDe": "Während der Lucca Comics (letzte Oktoberwoche) 72 Stunden im Voraus buchen, die Verfügbarkeit der Sitter wird dann drastisch knapper."
+          "descriptionNl": "Internationaal platform met ongeveer 4 geverifieerde oppassers in Lucca. Handig vanwege de Engelstalige interface en wereldwijde accountportabiliteit. Sommige bieden speciale 'torenbeklimming 1 uur'-diensten aan.",
+          "tipDe": "Während der Lucca Comics (letzte Oktoberwoche) 72 Stunden im Voraus buchen, die Verfügbarkeit der Sitter wird dann drastisch knapper.",
+          "tipNl": "Boek tijdens Lucca Comics (laatste week van oktober) 72 uur van tevoren, de beschikbaarheid van oppassers wordt dan drastisch krapper."
         }
       ],
       "tipsEn": [
@@ -1296,7 +1441,9 @@
         }
       ],
       "titleDe": "Hundebetreuung & Tagesbetreuung in Lucca, verifizierte Plattformen",
+      "titleNl": "Hondenoppas & dagopvang in Lucca, geverifieerde platforms",
       "introDe": "Das Innere der Kathedrale, die Besteigung des Guinigi-Turms und lange Trattoria-Mittagessen erfordern manchmal, den Hund zurückzulassen. Zwei internationale Plattformen (DogBuddy/Rover, Pawshake) sind in Lucca mit rund 10 verifizierten örtlichen Betreuern aktiv.",
+      "introNl": "Het interieur van de kathedraal, de beklimming van de Guinigitoren en lange trattoria-lunches vereisen soms dat je de hond achterlaat. Twee internationale platforms (DogBuddy/Rover, Pawshake) zijn actief in Lucca met ongeveer 10 geverifieerde lokale oppassers.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Hundesitter für den Kathedralenbesuch in Lucca?",
@@ -1305,6 +1452,16 @@
         {
           "q": "Kann ich meinen Hund tagsüber in meinem Hotel in Lucca lassen?",
           "a": "Die meisten haustierfreundlichen Hotels in Lucca (Palazzo Dipinto, Ilaria, San Luca Palace) erlauben Hunde während Ihrer Abwesenheit im Zimmer, wenn sie ruhig sind. Beim Check-in bestätigen. Klimaanlage im Sommer unverzichtbar."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe vind ik een hondenoppas voor het kathedraalbezoek in Lucca?",
+          "a": "Via Pawshake.it kun je een bezoek van 1-2 uur boeken bij een geverifieerde lokale oppasser, precies de tijd die nodig is voor het bezoek aan kathedraal en toren. De meeste oppassers bieden deze speciale 'terwijl-je-klimt'-service aan."
+        },
+        {
+          "q": "Kan ik mijn hond overdag in mijn hotel in Lucca achterlaten?",
+          "a": "De meeste huisdiervriendelijke hotels in Lucca (Palazzo Dipinto, Ilaria, San Luca Palace) staan toe dat honden tijdens je afwezigheid op de kamer blijven, als ze rustig zijn. Bevestig dit bij het inchecken. Airconditioning is 's zomers onmisbaar."
         }
       ]
     }

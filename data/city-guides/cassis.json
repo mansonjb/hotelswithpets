@@ -41,9 +41,13 @@
           "tipPt": "Reserve uma mesa na esplanada ao pôr do sol e peça um lugar à sombra com uma taça de água para o seu cão",
           "googleMapsUrl": "https://maps.google.com/?q=Restaurant+La+Presqu%27ile+Cassis",
           "descriptionDe": "Ein lange etabliertes Gourmetrestaurant abseits des Trubels des Hafens, hoch über dem Meer an der Route des Calanques nahe Port-Miou gelegen, mit einer Panoramaterrasse zum Cap Canaille. Hundehalter sind auf der Terrasse ausdrücklich willkommen, was es zu einem seltenen Fine-Dining-Ort in Cassis macht, an dem Sie Ihren Hund nicht zurücklassen müssen.",
+          "descriptionNl": "Een al lang gevestigd gastronomisch restaurant weg van de drukte van de haven, hoog boven de zee aan de Route des Calanques bij Port-Miou, met een panoramaterras richting Cap Canaille. Hondenbaasjes zijn nadrukkelijk welkom op het terras, wat het een zeldzame fine-dining plek in Cassis maakt waar je jouw hond niet hoeft achter te laten.",
           "petPolicyDe": "Hunde willkommen auf der Terrasse",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Mediterraner Fisch, AOC-Cassis-Weißwein",
-          "tipDe": "Reservieren Sie einen Terrassentisch zum Sonnenuntergang und bitten Sie um einen schattigen Platz mit Wassernapf für Ihren Hund"
+          "mustTryNl": "Mediterrane vis, AOC Cassis witte wijn",
+          "tipDe": "Reservieren Sie einen Terrassentisch zum Sonnenuntergang und bitten Sie um einen schattigen Platz mit Wassernapf für Ihren Hund",
+          "tipNl": "Reserveer een terrastafel bij zonsondergang en vraag om een schaduwrijke plek met waterbakje voor jouw hond"
         },
         {
           "name": "Le Bistro'Quai",
@@ -71,9 +75,13 @@
           "tipPt": "Chegue antes das 12h30 para uma mesa na primeira fila sobre o porto; o cais enche depressa à hora do almoço no verão",
           "googleMapsUrl": "https://maps.google.com/?q=Le+Bistro+Quai+Cassis",
           "descriptionDe": "Ein entspanntes Bistro direkt an der Uferpromenade des Quai des Baux, mit Tischen mit freiem Blick über den Fischerhafen und das dahinterliegende Cap Canaille. Es ist wirklich hundefreundlich, Gäste heben die herzliche Aufmerksamkeit des Personals gegenüber Hunden hervor, und die offene Kai-Terrasse eignet sich ideal für ein gemütliches Mittagessen mit Ihrem Haustier zu Füßen.",
+          "descriptionNl": "Een ontspannen bistro direct aan de kade van de Quai des Baux, met tafels met vrij uitzicht over de vissershaven en de Cap Canaille erachter. Het is echt hondvriendelijk, gasten roemen de warme aandacht van het personeel voor honden, en het open kadeterras is ideaal voor een gezellige lunch met jouw huisdier aan je voeten.",
           "petPolicyDe": "Hunde willkommen auf der Kai-Terrasse",
+          "petPolicyNl": "Honden welkom op het kadeterras",
           "mustTryDe": "Gegrillter Tagesfisch, provenzalischer Rosé",
-          "tipDe": "Kommen Sie vor 12:30 Uhr für einen Tisch in erster Reihe am Hafen; der Kai füllt sich beim sommerlichen Mittagessen schnell"
+          "mustTryNl": "Gegrilde vis van de dag, Provençaalse rosé",
+          "tipDe": "Kommen Sie vor 12:30 Uhr für einen Tisch in erster Reihe am Hafen; der Kai füllt sich beim sommerlichen Mittagessen schnell",
+          "tipNl": "Kom voor 12:30 uur voor een tafel in de eerste rij aan de haven; de kade loopt tijdens de zomerse lunch snel vol"
         },
         {
           "name": "Le France (Bar-Glacier)",
@@ -101,9 +109,13 @@
           "tipPt": "Ótima paragem para refrescar a meio do passeio; peça água da torneira para o seu cão enquanto come o seu gelado",
           "googleMapsUrl": "https://maps.google.com/?q=Le+France+Quai+des+Baux+Cassis",
           "descriptionDe": "Eine klassische Hafenbar mit Eisdiele am Quai des Baux, perfekt für ein Getränk, einen Kaffee oder ein Eis, während Sie den Booten beim Kommen und Gehen zusehen. Hundehalter sind auf der Terrasse willkommen, was sie zu einer unkomplizierten Pause während eines heißen Nachmittagsspaziergangs am Hafen macht.",
+          "descriptionNl": "Een klassieke havenbar met ijssalon aan de Quai des Baux, perfect voor een drankje, koffie of ijsje terwijl je de boten ziet komen en gaan. Hondenbaasjes zijn welkom op het terras, wat het een makkelijke pauzeplek maakt tijdens een warme middagwandeling langs de haven.",
           "petPolicyDe": "Hunde willkommen auf der Terrasse",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Hausgemachtes Eis, Pastis am Hafen",
-          "tipDe": "Ein guter Abkühlstopp mitten im Spaziergang; bitten Sie zu Ihrem Eis um Leitungswasser für Ihren Hund"
+          "mustTryNl": "Zelfgemaakt ijs, pastis aan de haven",
+          "tipDe": "Ein guter Abkühlstopp mitten im Spaziergang; bitten Sie zu Ihrem Eis um Leitungswasser für Ihren Hund",
+          "tipNl": "Een goede verkoelingsstop halverwege de wandeling; vraag bij jouw ijsje om leidingwater voor jouw hond"
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Cassis",
+      "titleNl": "Huisdiervriendelijke restaurants in Cassis",
       "introDe": "Cassis dreht sich um seinen malerischen Fischerhafen, und die Kai-Terrassen entlang des Quai des Baux sind der Ort, an dem das ganze Dorf isst, trinkt und den Booten zuschaut. Die meisten dieser Uferterrassen heißen gerne einen wohlerzogenen Hund an der Leine willkommen, und in der provenzalischen Sommerzeit reicht die Kultur des Essens im Freien vom langen Mittagessen bis tief in den Abend. Ein praktischer Tipp bei Hitze: Bitten Sie um einen schattigen Tisch und einen Wassernapf, und bevorzugen Sie die kühleren Tagesrandzeiten, denn die Mittagssonne auf dem offenen Kai kann im Juli und August für einen Hund hart sein.",
+      "introNl": "Cassis draait om zijn pittoreske vissershaven, en de kadeterrassen langs de Quai des Baux zijn de plek waar het hele dorp eet, drinkt en naar de boten kijkt. De meeste van deze waterkantterrassen verwelkomen graag een goedopgevoede hond aan de lijn, en in de Provençaalse zomer loopt de cultuur van buiten eten van de lange lunch tot diep in de avond. Een praktische tip bij hitte: vraag om een schaduwrijke tafel en een waterbakje, en geef de voorkeur aan de koelere randen van de dag, want de middagzon op de open kade kan in juli en augustus zwaar zijn voor een hond.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Cassis erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Geben Restaurants in Cassis Hunden Wasser?",
           "a": "Die meisten Kai-Terrassen füllen auf Nachfrage einen Wassernapf aus dem Hahn. Im Sommer ist das wichtig, bringen Sie also einen faltbaren Napf mit und bitten Sie beim Hinsetzen um Wasser."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Cassis?",
+          "a": "Op terrassen ja, in ruime mate. De waterkantterrassen langs de Quai des Baux verwelkomen in principe aangelijnde, goedopgevoede honden. Bij binnenruimtes beslist de eigenaar, vraag dus vooraf."
+        },
+        {
+          "q": "Waar vind je in Cassis het beste hondvriendelijke eten?",
+          "a": "De havenTerrassen aan de Quai des Baux zijn het makkelijkst, met meerdere bars, bistro's en ijssalons die honden verwelkomen. Voor een bijzonder etentje met zeezicht verwelkomt La Presqu'île bij Port-Miou honden op het terras."
+        },
+        {
+          "q": "Geven restaurants in Cassis water aan honden?",
+          "a": "De meeste kadeterrassen vullen op verzoek een waterbakje uit de kraan. In de zomer is dat belangrijk, neem dus een opvouwbaar bakje mee en vraag bij het gaan zitten om water."
         }
       ]
     },
@@ -229,8 +257,11 @@
           "tipPt": "Faça-o cedo. Há pouca sombra para além dos pinheiros e o calcário irradia calor ao meio-dia",
           "googleMapsUrl": "https://maps.google.com/?q=Sentier+du+Petit+Prince+Cassis",
           "descriptionDe": "Eine sehr leichte 1,7 km lange Rundwanderung um die Halbinsel Port-Miou, die durch einen Pinienwald auf der einen Seite Postkartenblicke auf die Calanque und auf der anderen das türkisfarbene Meer und das Cap Canaille bietet. Sie liegt am Rand des Parks Calanques, sodass Hunde hier außerhalb der Frühjahrssperre an der Leine erlaubt sind, was sie zum schönsten kurzen Spaziergang in Cassis macht, den Sie mit Hund unternehmen können.",
+          "descriptionNl": "Een heel eenvoudige rondwandeling van 1,7 km rond het schiereiland Port-Miou, die door een dennenbos aan de ene kant ansichtkaartuitzichten op de calanque biedt en aan de andere kant de turquoise zee en de Cap Canaille. Het ligt aan de rand van het Calanques-park, dus honden zijn hier buiten de voorjaarssluiting aangelijnd toegestaan, wat het de mooiste korte wandeling in Cassis maakt die je met hond kunt ondernemen.",
           "offLeashAreaDe": "Keine. Hunde müssen an der Leine bleiben; dies ist eine Randzone des Nationalparks",
-          "tipDe": "Gehen Sie früh. Jenseits der Pinien gibt es wenig Schatten, und der Kalkstein strahlt zur Mittagszeit Hitze ab"
+          "offLeashAreaNl": "Geen. Honden moeten aangelijnd blijven; dit is een randzone van het nationale park",
+          "tipDe": "Gehen Sie früh. Jenseits der Pinien gibt es wenig Schatten, und der Kalkstein strahlt zur Mittagszeit Hitze ab",
+          "tipNl": "Ga vroeg. Voorbij de dennen is er weinig schaduw, en de kalksteen straalt rond het middaguur hitte uit"
         },
         {
           "name": "Port-Miou Calanque path",
@@ -252,8 +283,11 @@
           "tipPt": "Não continue para Port-Pin ou En-Vau com o seu cão; são zonas núcleo do parque vedadas a cães",
           "googleMapsUrl": "https://maps.google.com/?q=Calanque+de+Port-Miou+Cassis",
           "descriptionDe": "Die dem Dorf nächstgelegene und am besten erreichbare Calanque, eine lange, schmale, von vertäuten Booten gesäumte Bucht, die über einen leichten, etwa 30-minütigen Spaziergang vom Rand von Cassis aus erreichbar ist. Als Rand-Calanque mit Bootshafen ist sie der einzige Teil der Calanques-Küste, an dem Hunde außerhalb der Brutsperre an der Leine geduldet werden, wobei das Wasser hier ein Arbeitsankerplatz und keine Badestelle ist.",
+          "descriptionNl": "De aan het dorp dichtstbijzijnde en best bereikbare calanque, een lange, smalle, met afgemeerde boten omzoomde baai, te bereiken via een lichte wandeling van ongeveer 30 minuten vanaf de rand van Cassis. Als randcalanque met bootenhaven is het het enige deel van de Calanques-kust waar honden buiten de broedsluiting aangelijnd worden getolereerd, waarbij het water hier een werkankerplaats is en geen zwemplek.",
           "offLeashAreaDe": "Keine. Leinenpflicht; die Kern-Calanques hinter Port-Miou sind für Hunde tabu",
-          "tipDe": "Gehen Sie mit Ihrem Hund nicht weiter bis Port-Pin oder En-Vau; diese liegen im hundefreien Kernbereich des Parks"
+          "offLeashAreaNl": "Geen. Aanlijnplicht; de kerncalanques achter Port-Miou zijn verboden terrein voor honden",
+          "tipDe": "Gehen Sie mit Ihrem Hund nicht weiter bis Port-Pin oder En-Vau; diese liegen im hundefreien Kernbereich des Parks",
+          "tipNl": "Loop met jouw hond niet door tot Port-Pin of En-Vau; die liggen in het hondvrije kerngebied van het park"
         },
         {
           "name": "Cassis vineyard lanes (AOC Cassis)",
@@ -275,8 +309,11 @@
           "tipPt": "Combine um passeio pelas vinhas com uma prova; várias propriedades da AOC Cassis recebem visitantes ao fim da tarde, mais fresco",
           "googleMapsUrl": "https://maps.google.com/?q=Vignobles+Cassis+AOC",
           "descriptionDe": "Gleich im Landesinneren des Dorfes erstrecken sich die AOC-Cassis-Weinberge im Schutz des Cap Canaille, durchzogen von ruhigen Landwegen, die einen sanften, stellenweise schattigen Spaziergang abseits der Menschenmengen bieten. Diese Weinbergwege liegen außerhalb des Nationalparks, sodass kein Hundeverbot gilt, was sie zu einer entspannten Alternative macht, wenn die Calanques geschlossen oder zu heiß sind.",
+          "descriptionNl": "Meteen landinwaarts van het dorp strekken de AOC Cassis-wijngaarden zich uit in de beschutting van de Cap Canaille, doorsneden door rustige landweggetjes die een zachte, plaatselijk schaduwrijke wandeling bieden weg van de drukte. Deze wijngaardpaden liggen buiten het nationale park, dus er geldt geen hondenverbod, wat ze een ontspannen alternatief maakt als de Calanques gesloten of te heet zijn.",
           "offLeashAreaDe": "Halten Sie Hunde an der Leine in der Nähe von bewirtschafteten Weinbergen und Privatgütern",
-          "tipDe": "Kombinieren Sie einen Weinbergspaziergang mit einer Verkostung; mehrere AOC-Cassis-Güter empfangen Besucher am kühleren späten Nachmittag"
+          "offLeashAreaNl": "Houd honden aangelijnd in de buurt van bewerkte wijngaarden en privéterreinen",
+          "tipDe": "Kombinieren Sie einen Weinbergspaziergang mit einer Verkostung; mehrere AOC-Cassis-Güter empfangen Besucher am kühleren späten Nachmittag",
+          "tipNl": "Combineer een wandeling door de wijngaarden met een proeverij; meerdere AOC Cassis-domeinen ontvangen bezoekers in de koelere late namiddag"
         }
       ],
       "tipsEn": [
@@ -356,7 +393,9 @@
         }
       ],
       "titleDe": "Hundespaziergänge & Grünflächen in Cassis",
+      "titleNl": "Hondenwandelingen en groene ruimtes in Cassis",
       "introDe": "Cassis ist klein, aber die Wanderwege drumherum gehören zu den schönsten der Provence. Der Haken: Die spektakulären Calanques liegen in einem Nationalpark, in dem Hunde strengen Beschränkungen unterliegen, weshalb die besten hundefreundlichen Spaziergänge am Dorfrand, auf den Weinbergwegen und den Küstenpfaden am Rand liegen. Führen Sie immer Wasser mit und gehen Sie in der Kühle des Morgens oder Abends spazieren, denn Sommerhitze und sonnenerwärmter Kalkstein sind hart für Pfoten.",
+      "introNl": "Cassis is klein, maar de wandelpaden eromheen behoren tot de mooiste van de Provence. Het addertje onder het gras: de spectaculaire Calanques liggen in een nationaal park waar honden aan strenge beperkingen onderhevig zijn, daarom liggen de beste hondvriendelijke wandelingen aan de dorpsrand, op de wijngaardpaden en de kustpaden aan de rand. Neem altijd water mee en wandel in de koelte van de ochtend of avond, want zomerhitte en door de zon opgewarmde kalksteen zijn zwaar voor pootjes.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund in den Calanques bei Cassis ausführen?",
@@ -369,6 +408,20 @@
         {
           "q": "Ist es sicher, im Sommer mit Hund bei Cassis zu wandern?",
           "a": "Nur mit Vorsicht. Der Kalkstein wird extrem heiß, es gibt wenig Schatten, und Brandschutzsperren können im Sommer das gesamte Massiv schließen. Gehen Sie bei Morgen- oder Abenddämmerung, führen Sie reichlich Wasser mit und prüfen Sie vorher den Zugang."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond uitlaten in de Calanques bij Cassis?",
+          "a": "Alleen aan de rand. In het kerngebied van het Nationaal Park Calanques zijn honden grotendeels verboden, zelfs aangelijnd. Op randpaden zoals Port-Miou worden ze aangelijnd getolereerd, maar van 1 april tot en met 30 juni overal verboden vanwege het broedseizoen van vogels."
+        },
+        {
+          "q": "Waar kunnen honden bij Cassis los lopen?",
+          "a": "De wijngaardpaden landinwaarts van het dorp liggen buiten het nationale park en zijn niet onderworpen aan een hondenverbod. Het Sentier du Petit Prince en het pad naar Port-Miou zijn landschappelijk mooie, aanlijnplichtige randopties buiten de voorjaarssluiting."
+        },
+        {
+          "q": "Is het veilig om in de zomer met hond bij Cassis te wandelen?",
+          "a": "Alleen met voorzichtigheid. De kalksteen wordt extreem heet, er is weinig schaduw, en brandpreventiesluitingen kunnen in de zomer het hele massief afsluiten. Ga bij zonsopgang of -ondergang, neem ruim water mee en controleer vooraf de toegang."
         }
       ]
     },
@@ -494,7 +547,9 @@
         }
       ],
       "titleDe": "Mit Haustieren unterwegs in Cassis",
+      "titleNl": "Met huisdieren onderweg in Cassis",
       "introDe": "Cassis erreicht man am besten mit dem Zug auf der Strecke Marseille–Toulon, aber der Bahnhof liegt etwa 3,5 km bergauf vom Dorf entfernt, planen Sie also die letzte Strecke ein. Ein lokaler Shuttlebus verbindet den Bahnhof mit dem Dorfkern und den Ausgangspunkten der Calanques-Wanderwege, und Hunde sind in regionalen TER-Zügen und den meisten Bussen nach den üblichen französischen Regeln zugelassen. Denken Sie im Sommer an die Hitze: Lassen Sie einen Hund keinesfalls auch nur für wenige Minuten in einem geparkten Auto zurück, und wählen Sie für jede Fahrt die kühleren Stunden.",
+      "introNl": "Cassis bereik je het best met de trein op de lijn Marseille-Toulon, maar het station ligt ongeveer 3,5 km bergopwaarts van het dorp, plan dus het laatste stuk in. Een lokale pendelbus verbindt het station met het dorpscentrum en de startpunten van de Calanques-wandelpaden, en honden zijn toegestaan in regionale TER-treinen en de meeste bussen volgens de gebruikelijke Franse regels. Denk in de zomer aan de hitte: laat een hond nooit achter in een geparkeerde auto, zelfs niet voor een paar minuten, en kies voor elke rit de koelere uren.",
       "faqsDe": [
         {
           "q": "Wie weit ist der Bahnhof von Cassis vom Dorf entfernt?",
@@ -507,6 +562,20 @@
         {
           "q": "Ist es leicht, sich in Cassis mit Hund und ohne Auto fortzubewegen?",
           "a": "Das Dorf selbst ist klein und gut zu Fuß erreichbar. Der Shuttle vom Bahnhof ist die entscheidende Verbindung, da zentrale Parkplätze knapp sind. Für die Calanques geht man zu Fuß hinein, ein Auto ist also nicht unbedingt nötig."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe ver ligt het station van Cassis van het dorp?",
+          "a": "Ongeveer 3,5 km, en bergopwaarts. Een pendelbus verbindt het station dagelijks van ongeveer 06:40 tot 20:30 uur met het dorp en de startpunten van de Calanques-wandelpaden. De afdaling te voet duurt ongeveer 40 minuten, maar de beklimming terug is bij zomerhitte zwaar."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen in de trein naar Cassis?",
+          "a": "Ja. In regionale TER/ZOU-treinen reizen honden onder de 6 kg in een reismand gratis mee met een ticket van 0 euro; honden boven de 6 kg betalen een vast bedrag van 50% van een volle tweedeklas prijs en moeten een muilkorf dragen. Koop het hondenticket voor het instappen."
+        },
+        {
+          "q": "Is het makkelijk om je met hond en zonder auto te verplaatsen in Cassis?",
+          "a": "Het dorp zelf is klein en goed te voet bereikbaar. De pendelbus vanaf het station is de cruciale verbinding, aangezien centrale parkeerplekken schaars zijn. Voor de Calanques loop je naar binnen, een auto is dus niet per se nodig."
         }
       ]
     },
@@ -528,16 +597,19 @@
           "descriptionEs": "Una pequeña playa de cala dentro de la calanque de Port-Miou, la única playa junto a Cassis donde se toleran los perros. Funciona sobre todo como fondeadero de barcos más que como playa de baño, así que el agua está tranquila pero no es la más limpia para nadar.",
           "descriptionPt": "Uma pequena praia de enseada dentro da calanque de Port-Miou, a única praia mesmo junto a Cassis onde os cães são tolerados. Funciona sobretudo como fundeadouro de barcos e não como praia de banho, pelo que a água é calma mas não a mais limpa para nadar.",
           "descriptionDe": "Ein kleiner Buchtstrand innerhalb der Calanque Port-Miou, der einzige Strand direkt bei Cassis, an dem Hunde geduldet werden. Er dient hauptsächlich als Bootsliegeplatz und weniger als Badestrand, das Wasser ist daher ruhig, aber nicht das sauberste zum Schwimmen.",
+          "descriptionNl": "Een klein baaistrand binnen de calanque Port-Miou, het enige strand vlak bij Cassis waar honden worden getolereerd. Het dient vooral als bootligplaats en minder als zwemstrand, het water is dus rustig maar niet het schoonst om in te zwemmen.",
           "season": "Outside the 1 April to 30 June national-park nesting closure",
           "seasonFr": "En dehors de la fermeture du parc national pour la nidification, du 1er avril au 30 juin",
           "seasonEs": "Fuera del cierre del parque nacional por nidificación, del 1 de abril al 30 de junio",
           "seasonPt": "Fora do encerramento do parque nacional para nidificação, de 1 de abril a 30 de junho",
           "seasonDe": "Außerhalb der Brutzeit-Sperrung des Nationalparks vom 1. April bis 30. Juni",
+          "seasonNl": "Buiten de broedsluiting van het nationale park van 1 april tot en met 30 juni",
           "rules": "Dogs must be on leash. Port-Miou is a national-park periphery zone; respect the seasonal closure and keep dogs out of the core calanques beyond.",
           "rulesFr": "Les chiens doivent être tenus en laisse. Port-Miou est une zone périphérique du parc national ; respectez la fermeture saisonnière et tenez les chiens à l'écart des calanques du cœur du parc au-delà.",
           "rulesEs": "Los perros deben ir con correa. Port-Miou es una zona periférica del parque nacional; respeta el cierre estacional y mantén a los perros fuera de las calanques del núcleo del parque más allá.",
           "rulesPt": "Os cães devem estar com trela. Port-Miou é uma zona periférica do parque nacional; respeite o encerramento sazonal e mantenha os cães fora das calanques do núcleo do parque mais além.",
           "rulesDe": "Hunde müssen angeleint sein. Port-Miou liegt in der Randzone des Nationalparks; beachten Sie die saisonale Sperrung und halten Sie Hunde von den Kern-Calanques dahinter fern.",
+          "rulesNl": "Honden moeten aangelijnd zijn. Port-Miou ligt in de randzone van het nationale park; let op de seizoenssluiting en houd honden weg bij de kerncalanques daarachter.",
           "facilities": "None to speak of; bring your own water and shade",
           "googleMapsUrl": "https://maps.google.com/?q=Calanque+de+Port-Miou+Cassis",
           "photo": ""
@@ -550,16 +622,19 @@
           "descriptionEs": "La playa principal de arena y guijarros de Cassis, justo al lado del puerto y dominada por el Cap Canaille. Es el corazón de la vida de playa del pueblo en verano pero, como casi todas las playas urbanas francesas, los perros están prohibidos durante la temporada de baño.",
           "descriptionPt": "A praia principal de areia e seixos de Cassis, mesmo ao lado do porto e dominada pelo Cap Canaille. É o coração da vida de praia da aldeia no verão mas, como quase todas as praias urbanas francesas, os cães estão proibidos durante a época balnear.",
           "descriptionDe": "Cassis' Hauptstrand aus Sand und Kies, direkt neben dem Hafen und überragt vom Cap Canaille. Er ist im Sommer das Herz des dörflichen Strandlebens, doch wie fast alle französischen Stadtstrände sind Hunde während der Badesaison verboten.",
+          "descriptionNl": "Het hoofdstrand van Cassis, zand en kiezels, direct naast de haven en overschaduwd door de Cap Canaille. Het is in de zomer het hart van het dorpse strandleven, maar zoals bijna alle Franse stadsstranden zijn honden tijdens het badseizoen verboden.",
           "season": "Dogs banned in summer bathing season; check off-season signage",
           "seasonFr": "Chiens interdits en saison balnéaire estivale ; vérifiez la signalétique hors saison",
           "seasonEs": "Perros prohibidos en temporada de baño estival; comprueba la señalización fuera de temporada",
           "seasonPt": "Cães proibidos na época balnear de verão; verifique a sinalização fora de época",
           "seasonDe": "Hunde während der sommerlichen Badesaison verboten; Beschilderung außerhalb der Saison beachten",
+          "seasonNl": "Honden verboden tijdens het zomerse badseizoen; let op bebording buiten het seizoen",
           "rules": "No dogs during the bathing season (roughly summer). Dogs may be tolerated off-season, but always check the current municipal signage.",
           "rulesFr": "Pas de chiens pendant la saison de baignade (globalement l'été). Les chiens peuvent être tolérés hors saison, mais vérifiez toujours la signalétique municipale en vigueur.",
           "rulesEs": "Sin perros durante la temporada de baño (aproximadamente el verano). Los perros pueden tolerarse fuera de temporada, pero comprueba siempre la señalización municipal vigente.",
           "rulesPt": "Sem cães durante a época balnear (grosso modo o verão). Os cães podem ser tolerados fora de época, mas verifique sempre a sinalização municipal em vigor.",
           "rulesDe": "Keine Hunde während der Badesaison (in etwa der Sommer). Außerhalb der Saison können Hunde geduldet werden, prüfen Sie aber immer die aktuelle städtische Beschilderung.",
+          "rulesNl": "Geen honden tijdens het badseizoen (ruwweg de zomer). Buiten het seizoen kunnen honden worden getolereerd, controleer altijd de actuele gemeentelijke bebording.",
           "facilities": "Lifeguards in season, showers, cafes nearby (dog-friendly terraces on the quay)",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+la+Grande+Mer+Cassis",
           "photo": ""
@@ -572,16 +647,19 @@
           "descriptionEs": "Una bonita cala de guijarros alimentada por un manantial de agua dulce, popular por su agua clara y fresca justo al oeste del puerto. Como la Grande Mer, es una playa urbana vigilada donde no se admiten perros durante la temporada de baño estival.",
           "descriptionPt": "Uma bonita enseada de seixos alimentada por uma nascente de água doce, popular pela sua água clara e fresca mesmo a oeste do porto. Tal como a Grande Mer, é uma praia urbana vigiada onde os cães não são permitidos durante a época balnear de verão.",
           "descriptionDe": "Eine hübsche Kieselbucht, gespeist von einer Süßwasserquelle, beliebt für ihr klares, kühles Wasser direkt westlich des Hafens. Wie die Grande Mer ist sie ein überwachter Stadtstrand, an dem Hunde während der sommerlichen Badesaison nicht erlaubt sind.",
+          "descriptionNl": "Een mooie kiezelbaai, gevoed door een zoetwaterbron, geliefd om zijn heldere, koele water direct ten westen van de haven. Net als de Grande Mer is het een bewaakt stadsstrand waar honden tijdens het zomerse badseizoen niet zijn toegestaan.",
           "season": "Dogs banned in summer bathing season",
           "seasonFr": "Chiens interdits en saison balnéaire estivale",
           "seasonEs": "Perros prohibidos en temporada de baño estival",
           "seasonPt": "Cães proibidos na época balnear de verão",
           "seasonDe": "Hunde während der sommerlichen Badesaison verboten",
+          "seasonNl": "Honden verboden tijdens het zomerse badseizoen",
           "rules": "No dogs during the bathing season. Off-season rules vary, so check the municipal beach signs before letting your dog on the sand.",
           "rulesFr": "Pas de chiens pendant la saison de baignade. Les règles hors saison varient, vérifiez donc les panneaux municipaux de la plage avant de laisser votre chien sur le sable.",
           "rulesEs": "Sin perros durante la temporada de baño. Las normas fuera de temporada varían, así que comprueba los carteles municipales de la playa antes de dejar a tu perro en la arena.",
           "rulesPt": "Sem cães durante a época balnear. As regras fora de época variam, por isso verifique os avisos municipais da praia antes de deixar o seu cão na areia.",
           "rulesDe": "Keine Hunde während der Badesaison. Die Regeln außerhalb der Saison variieren, prüfen Sie daher die städtischen Strandschilder, bevor Sie Ihren Hund auf den Sand lassen.",
+          "rulesNl": "Geen honden tijdens het badseizoen. De regels buiten het seizoen variëren, controleer daarom de gemeentelijke strandborden voordat je jouw hond op het zand laat.",
           "facilities": "Lifeguards in season, near port amenities",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+du+Bestouan+Cassis",
           "photo": ""
@@ -628,7 +706,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände nahe Cassis",
+      "titleNl": "Hondvriendelijke stranden bij Cassis",
       "introDe": "Cassis ist eine Strandstadt, aber die Hauptstrände sind streng bei Hunden. Der zentrale Plage de la Grande Mer und der Plage du Bestouan verbieten Hunde in der Badesaison, wie fast alle französischen Stadtstrände im Sommer. Die einzige realistische Hundeoption direkt beim Dorf ist der kleine Strand an der Calanque Port-Miou, ein Arbeitsbootshafen statt einer Badebucht, für richtiges Hundeschwimmen lohnt sich also eine kleine Fahrt entlang der Küste.",
+      "introNl": "Cassis is een badplaats, maar de hoofdstranden zijn streng voor honden. Het centrale Plage de la Grande Mer en het Plage du Bestouan verbieden honden tijdens het badseizoen, zoals bijna alle Franse stadsstranden in de zomer. De enige realistische hondenoptie vlak bij het dorp is het kleine strand bij de calanque Port-Miou, een werkende bootenhaven in plaats van een zwembaai, voor echt hondenzwemmen loont dus een klein ritje langs de kust.",
       "faqsDe": [
         {
           "q": "Gibt es einen Hundestrand in Cassis?",
@@ -637,6 +717,16 @@
         {
           "q": "Kann mein Hund an den Stränden von Cassis schwimmen?",
           "a": "Nicht an den überwachten Stadtstränden im Sommer, wo Hunde verboten sind. Port-Miou duldet angeleinte Hunde, ist aber ein Arbeitshafen. Für echtes Hundeschwimmen müssen Sie in der Regel entlang der Küste zu einem Strand mit Nebensaison- oder ausgewiesener Hundezone fahren."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een hondenstrand in Cassis?",
+          "a": "Geen echt hondenstrand. De hoofdstranden (Grande Mer, Bestouan) verbieden honden tijdens het zomerse badseizoen. De enige plek vlak bij het dorp waar honden worden getolereerd is het kleine strand in de calanque Port-Miou, dat een bootankerplaats is en geen zwemstrand."
+        },
+        {
+          "q": "Kan mijn hond zwemmen op de stranden van Cassis?",
+          "a": "Niet op de bewaakte stadsstranden in de zomer, waar honden verboden zijn. Port-Miou tolereert aangelijnde honden, maar is een werkhaven. Voor echt hondenzwemmen moet je meestal langs de kust rijden naar een strand met laagseizoen- of aangewezen hondenzone."
         }
       ]
     },
@@ -686,8 +776,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cabinet+Veterinaire+Cassis+Rue+de+la+Tourdro",
           "photo": "",
           "hoursDe": "Mo-Fr 09:00-12:00 & 15:00-19:00 Uhr, Sa 09:00-12:00 Uhr, sonntags geschlossen",
+          "hoursNl": "Ma-vr 09:00-12:00 & 15:00-19:00 uur, za 09:00-12:00 uur, zondag gesloten",
           "descriptionDe": "Die eigene Tierarztpraxis des Dorfes, die Routineversorgung, Impfungen, kleinere Beschwerden und Reisepapiere für Einwohner und Besucher übernimmt. Die naheliegende erste Anlaufstelle während der Öffnungszeiten bei einem Nicht-Notfall während Ihres Aufenthalts in Cassis, außerhalb der Öffnungszeiten werden Sie jedoch an das Notfallnetzwerk in Marseille verwiesen.",
-          "tipDe": "Rufen Sie in der Saison vorab an; es ist eine kleine Praxis und Termine sind schnell vergeben. Bei etwas Ernstem außerhalb der Öffnungszeiten rufen Sie 3115 an oder fahren nach Marseille"
+          "descriptionNl": "De eigen dierenartspraktijk van het dorp, die routinezorg, vaccinaties, kleinere klachten en reispapieren verzorgt voor bewoners en bezoekers. Het voor de hand liggende eerste aanspreekpunt tijdens openingstijden bij een niet-spoedgeval tijdens jouw verblijf in Cassis, buiten openingstijden word je echter doorverwezen naar het spoednetwerk in Marseille.",
+          "tipDe": "Rufen Sie in der Saison vorab an; es ist eine kleine Praxis und Termine sind schnell vergeben. Bei etwas Ernstem außerhalb der Öffnungszeiten rufen Sie 3115 an oder fahren nach Marseille",
+          "tipNl": "Bel in het seizoen van tevoren; het is een kleine praktijk en afspraken zijn snel vol. Bij iets ernstigs buiten openingstijden bel je 3115 of rij je naar Marseille"
         },
         {
           "name": "CHV Massilia (Centre Hospitalier Vétérinaire)",
@@ -711,8 +804,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=CHV+Massilia+Marseille",
           "photo": "",
           "hoursDe": "24/7, jeden Tag einschließlich Wochenenden und Feiertagen",
+          "hoursNl": "24/7, elke dag inclusief weekenden en feestdagen",
           "descriptionDe": "Das wichtigste 24-Stunden-Tiernotfall- und Spezialkrankenhaus für die Region Marseille, etwa 30 bis 40 Minuten von Cassis entfernt und die Referenzeinrichtung für ernste Notfälle außerhalb der Öffnungszeiten. Es behandelt rund um die Uhr Traumata, Vergiftungen, Chirurgie und Intensivpflege. Rufen Sie immer vorher an, damit sich das Team auf Ihre Ankunft vorbereiten kann.",
-          "tipDe": "Speichern Sie die Nummer vor Ihrer Reise. Bei einem nächtlichen Notfall in Cassis werden Sie höchstwahrscheinlich hierher geschickt"
+          "descriptionNl": "Het belangrijkste 24-uurs spoed- en specialistenziekenhuis voor dieren in de regio Marseille, op ongeveer 30 tot 40 minuten van Cassis en de referentiefaciliteit voor ernstige noodgevallen buiten openingstijden. Het behandelt dag en nacht trauma's, vergiftigingen, chirurgie en intensive care. Bel altijd van tevoren, zodat het team zich kan voorbereiden op jouw komst.",
+          "tipDe": "Speichern Sie die Nummer vor Ihrer Reise. Bei einem nächtlichen Notfall in Cassis werden Sie höchstwahrscheinlich hierher geschickt",
+          "tipNl": "Sla het nummer op voor je reis. Bij een nachtelijk noodgeval in Cassis word je hoogstwaarschijnlijk hierheen gestuurd"
         },
         {
           "name": "Urgences Vétérinaires (national line)",
@@ -736,8 +832,11 @@
           "googleMapsUrl": "",
           "photo": "",
           "hoursDe": "24/7, 365 Tage im Jahr",
+          "hoursNl": "24/7, 365 dagen per jaar",
           "descriptionDe": "Die kostenlose nationale Notfall-Tierarztnummer, rund um die Uhr besetzt, die Sie an die nächste diensthabende Klinik oder Notfallklinik verweist. Von Cassis aus ist dies der schnellste Weg, um nachts oder an einem Feiertag Hilfe zu erreichen, wenn die Dorfpraxis geschlossen ist. Es handelt sich um eine telefonische Triage-Leitung, keine physische Klinik.",
-          "tipDe": "Speichern Sie 3115 zusammen mit CHV Massilia vor Ihrer Reise in Ihr Telefon, damit beide im Notfall bereit sind"
+          "descriptionNl": "Het gratis nationale spoedlijn voor dierenartsen, dag en nacht bemand, die je doorverwijst naar de dichtstbijzijnde dienstdoende kliniek of spoedkliniek. Vanuit Cassis is dit de snelste manier om 's nachts of op een feestdag hulp te krijgen als de dorpspraktijk gesloten is. Het is een telefonische triagelijn, geen fysieke kliniek.",
+          "tipDe": "Speichern Sie 3115 zusammen mit CHV Massilia vor Ihrer Reise in Ihr Telefon, damit beide im Notfall bereit sind",
+          "tipNl": "Sla 3115 samen met CHV Massilia op in je telefoon voor je reis, zodat beide klaarstaan in geval van nood"
         }
       ],
       "faqsEn": [
@@ -781,7 +880,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte in Cassis, Tierkliniken & Tierpflege",
+      "titleNl": "Spoeddierenartsen in Cassis, dierenklinieken en dierenzorg",
       "introDe": "Cassis verfügt über eine örtliche Tierarztpraxis für die alltägliche Versorgung, aber im Dorf selbst gibt es keine 24-Stunden-Notfallklinik. Für einen ernsten Notfall außerhalb der Öffnungszeiten fahren Sie nach Marseille, etwa 30 bis 40 Minuten entfernt, oder rufen Sie die nationale Notfall-Tierarztleitung an. Da Frankreich in der EU liegt, benötigen Haustiere, die aus einem anderen EU-Land reisen, lediglich einen gültigen EU-Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung.",
+      "introNl": "Cassis heeft een lokale dierenartspraktijk voor de dagelijkse zorg, maar in het dorp zelf is er geen 24-uurs spoedkliniek. Voor een ernstig noodgeval buiten openingstijden rij je naar Marseille, ongeveer 30 tot 40 minuten verderop, of bel je de nationale spoedlijn voor dierenartsen. Omdat Frankrijk in de EU ligt, hebben huisdieren die vanuit een ander EU-land reizen alleen een geldig EU-dierenpaspoort, een microchip en een actuele rabiesvaccinatie nodig.",
       "faqsDe": [
         {
           "q": "Gibt es einen 24-Stunden-Tierarzt in Cassis?",
@@ -790,6 +891,16 @@
         {
           "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Cassis zu bringen?",
           "a": "Aus der EU ja: einen gültigen EU-Heimtierausweis mit Mikrochip und aktueller Tollwutimpfung, ohne Quarantäne. Von außerhalb der EU benötigen Sie eine Tiergesundheitsbescheinigung und eine Tollwutimpfung, und je nach Land eventuell einen Titertest. Prüfen Sie vor der Reise die französischen/EU-Einfuhrbestimmungen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs dierenarts in Cassis?",
+          "a": "Niet in het dorp zelf. Cassis heeft een lokale dagpraktijk, maar voor nachtelijke noodgevallen en noodgevallen buiten openingstijden bel je de gratis nationale lijn 3115 of rij je naar CHV Massilia in Marseille (+33 4 91 82 13 13), ongeveer 30 tot 40 minuten verderop, dat 24/7 open is."
+        },
+        {
+          "q": "Heb ik een dierenpaspoort nodig om mijn hond mee te nemen naar Cassis?",
+          "a": "Vanuit de EU ja: een geldig EU-dierenpaspoort met microchip en actuele rabiesvaccinatie, zonder quarantaine. Van buiten de EU heb je een diergezondheidscertificaat en een rabiesvaccinatie nodig, en afhankelijk van het land eventueel een titertest. Controleer voor je reis de Franse/EU-invoerregels."
         }
       ]
     },
@@ -921,7 +1032,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Tipps für Cassis",
+      "titleNl": "Hondvriendelijke tips voor Cassis",
       "introDe": "Cassis ist ein Vergnügen mit Hund rund um den Hafen und die Weinberge, aber es gibt zwei große Vorbehalte, die Besucher überraschen: Hunde sind aus dem Kernbereich des Nationalparks Calanques weitgehend verbannt, und der provenzalische Sommer verbindet heftige Hitze mit Brandschutzsperren des Massivs. Wenn Sie diese beiden Dinge richtig einplanen, ist der Rest einfach.",
+      "introNl": "Cassis is een genot met hond rond de haven en de wijngaarden, maar er zijn twee grote voorbehouden die bezoekers verrassen: honden zijn grotendeels verbannen uit het kerngebied van het Nationaal Park Calanques, en de Provençaalse zomer combineert hevige hitte met brandpreventiesluitingen van het massief. Als je deze twee zaken goed inplant, is de rest eenvoudig.",
       "faqsDe": [
         {
           "q": "Ist Cassis gut für Hunde?",
@@ -934,6 +1047,20 @@
         {
           "q": "Kann ich die Bootsausflüge oder Wanderungen in den Calanques mit meinem Hund machen?",
           "a": "Wanderungen in den Kernbereich der Calanques sind für Hunde tabu. Manche Bootsanbieter in Cassis erlauben kleine Hunde bei bestimmten Calanque-Ausflügen, aber die Regelungen sind unterschiedlich, bestätigen Sie das also direkt beim Anbieter vor der Buchung."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Cassis goed voor honden?",
+          "a": "Ja, met beperkingen. Het dorp, de haven en de wijngaarden zijn erg hondvriendelijk, maar de hoofdattractie, het kerngebied van de Calanques, verbiedt honden grotendeels, en de zomer brengt hitte, strandverboden en brandgerelateerde sluitingen van het massief. In het voor- en najaar is het een uitstekende bestemming voor honden."
+        },
+        {
+          "q": "Wat moet ik voor Cassis met mijn hond inpakken?",
+          "a": "EU-dierenpaspoort, een lijn (en een muilkorf voor een grote hond in de trein), poepzakjes, ruim water en een opvouwbaar bakje, plus aandacht voor pootbescherming op hete kalksteen. Een muilkorf is ook handig, aangezien sommige randpaden en vervoermiddelen er een kunnen vereisen."
+        },
+        {
+          "q": "Kan ik de boottochten of wandelingen in de Calanques met mijn hond doen?",
+          "a": "Wandelingen in het kerngebied van de Calanques zijn verboden terrein voor honden. Sommige bootaanbieders in Cassis staan kleine honden toe bij bepaalde calanquetochten, maar de regels verschillen, bevestig dit dus rechtstreeks bij de aanbieder voor je boekt."
         }
       ]
     },
@@ -970,9 +1097,13 @@
           "tipPt": "Vá de manhã cedo ou ao fim do dia no verão para evitar tanto as multidões como o calor do meio-dia no cais aberto",
           "googleMapsUrl": "https://maps.google.com/?q=Port+de+Cassis",
           "descriptionDe": "Der hübsche Fischerhafen ist das schlagende Herz von Cassis: schaukelnde Boote, pastellfarbene Fassaden, der von Terrassen gesäumte Quai des Baux und das dahinter aufragende Cap Canaille. Ein Bummel durch die Kais und die alten Kopfsteinpflasterstraßen mit einem angeleinten Hund ist das Cassis-Erlebnis schlechthin, und das ganze Gebiet ist entspannt und hundefreundlich.",
+          "descriptionNl": "De mooie vissershaven is het kloppende hart van Cassis: schommelende boten, pastelkleurige gevels, de door terrassen omzoomde Quai des Baux en de oprijzende Cap Canaille erachter. Een wandeling langs de kades en de oude kasseistraatjes met een aangelijnde hond is de Cassis-ervaring bij uitstek, en het hele gebied is ontspannen en hondvriendelijk.",
           "dogPolicyDe": "Hunde an der Leine im gesamten Hafen und den Straßen willkommen",
+          "dogPolicyNl": "Honden aangelijnd welkom in de hele haven en de straten",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Gehen Sie im Sommer früh morgens oder abends, um sowohl den Menschenmengen als auch der Mittagshitze auf dem offenen Kai auszuweichen"
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Gehen Sie im Sommer früh morgens oder abends, um sowohl den Menschenmengen als auch der Mittagshitze auf dem offenen Kai auszuweichen",
+          "tipNl": "Ga in de zomer vroeg in de ochtend of in de avond om zowel de drukte als de middaghitte op de open kade te vermijden"
         },
         {
           "name": "Cap Canaille & Route des Crêtes",
@@ -997,9 +1128,13 @@
           "tipPt": "Mantenha os cães firmemente à trela perto das bordas da falésia sem vedação, e vá num domingo pela estrada pedonal sem trânsito",
           "googleMapsUrl": "https://maps.google.com/?q=Route+des+Cretes+Cap+Canaille",
           "descriptionDe": "Cap Canaille ist eine der höchsten Meeresklippen Europas und ragt rund 394 Meter direkt aus dem Mittelmeer, und die Bergkammstraße Route des Crêtes verläuft über etwa 15 km entlang der Klippen zwischen Cassis und La Ciotat mit atemberaubenden Aussichtspunkten und einfachen Parkmöglichkeiten. Angeleinte Hunde sind an den Klippen-Aussichtspunkten willkommen, und seit 2024 ist die Straße sonntags für einen ruhigeren, autofreien Spaziergang gesperrt.",
+          "descriptionNl": "Cap Canaille is een van de hoogste zeekliffen van Europa en rijst ongeveer 394 meter recht uit de Middellandse Zee op, en de bergkamweg Route des Crêtes loopt zo'n 15 km langs de kliffen tussen Cassis en La Ciotat met adembenemende uitzichtpunten en gemakkelijke parkeermogelijkheden. Aangelijnde honden zijn welkom bij de klifuitzichtpunten, en sinds 2024 is de weg zondags afgesloten voor een rustigere, autovrije wandeling.",
           "dogPolicyDe": "Hunde an der Leine an den Aussichtspunkten und entlang der Straße willkommen",
+          "dogPolicyNl": "Honden aangelijnd welkom bij de uitzichtpunten en langs de weg",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Halten Sie Hunde in der Nähe der ungesicherten Klippenkanten fest an der Leine, und kommen Sie sonntags für die autofreie Fußgängerstraße"
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Halten Sie Hunde in der Nähe der ungesicherten Klippenkanten fest an der Leine, und kommen Sie sonntags für die autofreie Fußgängerstraße",
+          "tipNl": "Houd honden stevig aangelijnd bij de onbeveiligde klifranden, en kom op zondag voor de autovrije wandelstraat"
         },
         {
           "name": "AOC Cassis Vineyards",
@@ -1024,9 +1159,13 @@
           "tipPt": "Ligue à quinta com antecedência para confirmar que os cães são bem-vindos e reserve uma prova ao fim da tarde, mais fresco",
           "googleMapsUrl": "https://maps.google.com/?q=Vignobles+AOC+Cassis",
           "descriptionDe": "Im Schutz des Cap Canaille gelegen, bilden die AOC-Cassis-Weinberge eine der ältesten Appellationen Frankreichs, seit 1936 klassifiziert und bekannt für knackige Weißweine, die für das Meer gemacht sind. Mehrere Güter öffnen für Verkostungen, und die umliegenden Wege ergeben einen sanften Hundespaziergang außerhalb des Nationalparks; Hunde sind in den Freiluft-Innenhöfen der Weingüter meist willkommen, wenn auch nicht immer in den Kellern.",
+          "descriptionNl": "In de beschutting van de Cap Canaille vormen de AOC Cassis-wijngaarden een van de oudste appellaties van Frankrijk, sinds 1936 geclassificeerd en bekend om frisse witte wijnen die voor bij zee gemaakt zijn. Meerdere domeinen openen voor proeverijen, en de omliggende paden vormen een zachte hondenwandeling buiten het nationale park; honden zijn meestal welkom op de openluchtterreinen van de wijngoederen, al niet altijd in de kelders.",
           "dogPolicyDe": "Hunde in Freiluft-Innenhöfen der Weingüter meist willkommen; vor Kellern nachfragen",
+          "dogPolicyNl": "Honden meestal welkom op de openluchtterreinen van wijngoederen; vraag na bij kelders",
           "admissionFeeDe": "Spazieren kostenlos; Verkostungen je nach Weingut unterschiedlich",
-          "tipDe": "Rufen Sie das Weingut vorab an, um zu bestätigen, dass Hunde willkommen sind, und buchen Sie eine Verkostung am kühleren späten Nachmittag"
+          "admissionFeeNl": "Wandelen gratis; proeverijen verschillen per wijngoed",
+          "tipDe": "Rufen Sie das Weingut vorab an, um zu bestätigen, dass Hunde willkommen sind, und buchen Sie eine Verkostung am kühleren späten Nachmittag",
+          "tipNl": "Bel het wijngoed van tevoren om te bevestigen dat honden welkom zijn, en boek een proeverij in de koelere late namiddag"
         }
       ],
       "tipsEn": [
@@ -1090,7 +1229,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Cassis",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Cassis",
       "introDe": "Die vielbeachteten Calanques sind für Hunde weitgehend tabu, aber Cassis bietet dennoch einen postkartenreifen Hafen, eine der höchsten Meeresklippen Europas und ein historisches Weinterroir, die sich an der Leine erkunden lassen. Der Dorfkern, die Klippenstraße Cap Canaille und die Weinberge sind allesamt hundefreundlich, sodass Sie einen ganzen Tag um Ihr Haustier herum gestalten können, ohne den geschützten Kernbereich des Nationalparks zu betreten.",
+      "introNl": "De veelbezongen Calanques zijn grotendeels verboden terrein voor honden, maar Cassis biedt toch een ansichtkaarthaven, een van de hoogste zeekliffen van Europa en een historisch wijnterroir die je aan de lijn kunt verkennen. Het dorpscentrum, de klifweg Cap Canaille en de wijngaarden zijn allemaal hondvriendelijk, zodat je een hele dag rond jouw huisdier kunt plannen zonder het beschermde kerngebied van het nationale park te betreden.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund bei Cassis mit in die Calanques nehmen?",
@@ -1099,6 +1240,16 @@
         {
           "q": "Was kann ich in Cassis mit Hund tatsächlich unternehmen?",
           "a": "Eine Menge: Bummeln Sie am Hafen und am Quai des Baux entlang, genießen Sie das Cap Canaille und die Aussichtspunkte der Route des Crêtes, und wandern und verkosten Sie in den AOC-Cassis-Weinbergen. Das Dorf, die Klippe und die Weinberge sind alle an der Leine hundefreundlich."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen naar de Calanques bij Cassis?",
+          "a": "Niet in het kerngebied van het nationale park, waar honden zelfs aangelijnd grotendeels verboden zijn. Aan de rand (Port-Miou, de Petit-Prince-ronde) worden aangelijnde honden getolereerd buiten de broedsluiting van 1 april tot en met 30 juni, maar de bekende calanques zoals Port-Pin en En-Vau zijn verboden terrein."
+        },
+        {
+          "q": "Wat kan ik in Cassis met hond echt doen?",
+          "a": "Veel: wandel langs de haven en de Quai des Baux, geniet van de Cap Canaille en de uitzichtpunten van de Route des Crêtes, en wandel en proef in de AOC Cassis-wijngaarden. Het dorp, de klif en de wijngaarden zijn allemaal aangelijnd hondvriendelijk."
         }
       ]
     },
@@ -1133,8 +1284,11 @@
           "tipEs": "Reserva con al menos 48h de antelación en verano, y organiza al cuidador para el día en que planees tu excursión en barco por las calanques sin perro",
           "tipPt": "Reserve com pelo menos 48h de antecedência no verão, e marque o cuidador para o dia em que planeia o seu passeio de barco pelas calanques sem cão",
           "descriptionDe": "Holidog ist eine der am längsten bestehenden Tierpflegeplattformen Frankreichs und listet Sitter und Gassi-Geher, die Cassis und die weitere Region Bouches-du-Rhône abdecken. Für Reisende ist es eine verlässliche Möglichkeit, für ein paar Stunden Betreuung zu Hause, Spaziergänge oder Tagesbetreuung zu organisieren, während Sie einen hundefreien Bootsausflug in die Calanques oder eine Klippenwanderung unternehmen. Die Profile enthalten Bewertungen, und die Plattform bietet Buchungsgarantien und Support.",
+          "descriptionNl": "Holidog is een van de langst bestaande dierenzorgplatforms van Frankrijk en vermeldt oppassers en uitlaters die Cassis en de bredere regio Bouches-du-Rhône dekken. Voor reizigers is het een betrouwbare manier om een paar uur thuisoppas, wandelingen of dagopvang te regelen terwijl je een hondvrije boottocht naar de Calanques of een klifwandeling maakt. De profielen bevatten beoordelingen, en het platform biedt boekingsgaranties en support.",
           "serviceTypeDe": "Online-Buchung. Betreuung, Gassi-Service, Tagesbetreuung, Tierpension",
-          "tipDe": "Buchen Sie im Sommer mindestens 48 Stunden im Voraus und legen Sie den Sitter-Termin auf den Tag Ihres hundefreien Bootsausflugs in die Calanques"
+          "serviceTypeNl": "Online boeken. Oppas, uitlaatservice, dagopvang, pension",
+          "tipDe": "Buchen Sie im Sommer mindestens 48 Stunden im Voraus und legen Sie den Sitter-Termin auf den Tag Ihres hundefreien Bootsausflugs in die Calanques",
+          "tipNl": "Boek in de zomer minstens 48 uur van tevoren en plan de oppasafspraak op de dag van jouw hondvrije boottocht naar de Calanques"
         },
         {
           "name": "Pawshake",
@@ -1157,8 +1311,11 @@
           "tipEs": "Lee las reseñas recientes y escribe a un par de cuidadores antes de comprometerte; la disponibilidad local en un pueblo pequeño como Cassis es limitada",
           "tipPt": "Leia as avaliações recentes e contacte alguns cuidadores antes de decidir; a disponibilidade local numa vila pequena como Cassis é limitada",
           "descriptionDe": "Pawshake verbindet Hundehalter mit geprüften lokalen Sittern und Gassi-Gehern, mit einem von Cassis aus erreichbaren Netzwerk in den Bouches-du-Rhône. Gut geeignet für kurze, flexible Buchungen, von einem halbtägigen Kurzbesuch bis zu einer vollen Tagesbetreuung, wobei alle Sitter überprüft und durch die Pawshake-Versicherung sowie 24/7-Support während der Buchung abgesichert sind. Schreiben Sie Sittern direkt, um zu bestätigen, dass sie die Größe und das Energielevel Ihres Hundes betreuen können.",
+          "descriptionNl": "Pawshake verbindt hondenbaasjes met gecontroleerde lokale oppassers en uitlaters, met een vanuit Cassis bereikbaar netwerk in de Bouches-du-Rhône. Goed geschikt voor korte, flexibele boekingen, van een halve dag kort bezoek tot volledige dagopvang, waarbij alle oppassers gecontroleerd zijn en gedekt door de verzekering van Pawshake plus 24/7 support tijdens de boeking. Schrijf oppassers rechtstreeks aan om te bevestigen dat ze het formaat en energieniveau van jouw hond aankunnen.",
           "serviceTypeDe": "Online-Buchung. Betreuung, Gassi-Service, Tagesbetreuung, Tierpension",
-          "tipDe": "Lesen Sie aktuelle Bewertungen und schreiben Sie ein paar Sitter an, bevor Sie sich festlegen; die lokale Verfügbarkeit in einem kleinen Ort wie Cassis ist begrenzt"
+          "serviceTypeNl": "Online boeken. Oppas, uitlaatservice, dagopvang, pension",
+          "tipDe": "Lesen Sie aktuelle Bewertungen und schreiben Sie ein paar Sitter an, bevor Sie sich festlegen; die lokale Verfügbarkeit in einem kleinen Ort wie Cassis ist begrenzt",
+          "tipNl": "Lees recente beoordelingen en schrijf een paar oppassers aan voor je je vastlegt; de lokale beschikbaarheid in een klein plaatsje als Cassis is beperkt"
         }
       ],
       "tipsEn": [
@@ -1222,7 +1379,9 @@
         }
       ],
       "titleDe": "Hundesitter & Tierpflege in Cassis",
+      "titleNl": "Hondenoppas en dierenzorg in Cassis",
       "introDe": "Da der Kernbereich der Calanques für Hunde tabu ist, können ein paar Stunden mit einem Sitter den Unterschied ausmachen zwischen dem Verzicht auf den berühmten Bootsausflug oder die Wanderung und dem tatsächlichen Erleben. Cassis ist klein, daher findet man die meisten Sitter über die großen landesweiten französischen Plattformen, die die Bouches-du-Rhône abdecken, mit einem größeren Pool im nahen Marseille und Aubagne.",
+      "introNl": "Omdat het kerngebied van de Calanques verboden terrein is voor honden, kunnen een paar uur bij een oppasser het verschil maken tussen afzien van de beroemde boottocht of wandeling en het daadwerkelijk beleven ervan. Cassis is klein, dus vind je de meeste oppassers via de grote landelijke Franse platforms die de Bouches-du-Rhône dekken, met een grotere pool in het nabijgelegen Marseille en Aubagne.",
       "faqsDe": [
         {
           "q": "Wie viel kostet Hundebetreuung in Cassis?",
@@ -1231,6 +1390,16 @@
         {
           "q": "Warum könnte ich in Cassis einen Sitter brauchen?",
           "a": "Weil der Kernbereich der Calanques und die Stadtstrände im Sommer für Hunde tabu sind. Ein Sitter ermöglicht Ihnen die berühmte Bootstour, eine Wanderung in die geschützten Calanques oder einen Strandtag, im Wissen, dass Ihr Hund sicher und kühl ist statt in der Hitze zu warten."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost hondenoppas in Cassis?",
+          "a": "Reken op ongeveer 12-30 EUR per dag, afhankelijk van de dienst, van een kort bezoek tot volledige dagopvang. Logeerpension kost meer. De meeste boekingen verlopen via landelijke platforms zoals Holidog en Pawshake, die de Bouches-du-Rhône dekken."
+        },
+        {
+          "q": "Waarom zou ik in Cassis een oppasser nodig hebben?",
+          "a": "Omdat het kerngebied van de Calanques en de stadsstranden in de zomer verboden terrein zijn voor honden. Een oppasser maakt de beroemde boottocht, een wandeling in de beschermde Calanques of een strandddag mogelijk, in de wetenschap dat jouw hond veilig en koel is in plaats van in de hitte te wachten."
         }
       ]
     }

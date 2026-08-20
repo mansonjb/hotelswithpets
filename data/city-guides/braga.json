@@ -35,8 +35,11 @@
           "mustTryEs": "Quiche del día, Vinho Verde de la casa",
           "mustTryPt": "Quiche do dia, Vinho Verde da casa",
           "descriptionDe": "Ein gefeiertes Buchhandlungs-Café in einem Palacete aus dem 18. Jahrhundert mit umschlossenem Garten, einer der beliebtesten Treffpunkte Bragas. Die Gartentische unter den Bäumen sind hundewillkommen, Einheimische kommen regelmäßig mit ihren Hunden zum Brunch oder Nachmittagstee. Die Karte ist leicht: Salate, Quiches, Sandwiches, regionales Gebäck und eine starke Auswahl an Vinho Verde und portugiesischen Weinen im Glas.",
+          "descriptionNl": "Een gevierd boekhandel-café in een 18e-eeuws palacete met omsloten tuin, een van de geliefdste ontmoetingsplekken van Braga. De tuintafels onder de bomen zijn hondvriendelijk, locals komen er regelmatig met hun hond voor brunch of high tea. De kaart is licht: salades, quiches, sandwiches, regionaal gebak en een sterke selectie Vinho Verde en Portugese wijnen per glas.",
           "petPolicyDe": "Hunde im Garten willkommen",
-          "mustTryDe": "Quiche des Tages, Vinho Verde des Hauses"
+          "petPolicyNl": "Honden welkom in de tuin",
+          "mustTryDe": "Quiche des Tages, Vinho Verde des Hauses",
+          "mustTryNl": "Quiche van de dag, huiswijn Vinho Verde"
         },
         {
           "name": "Frigideiras do Cantinho",
@@ -58,8 +61,11 @@
           "mustTryEs": "Frigideira de ternera, bola de carne",
           "mustTryPt": "Frigideira de vitela, bola de carne",
           "descriptionDe": "Eine Braga-Institution seit 1796, berühmt für ihre namensgebenden Frigideiras (kleine Blätterteigpasteten mit Kalbfleischfüllung) und Bola de Carne. Die überdachte Außenterrasse am Largo de São João do Souto blickt auf die Kathedrale Sé und heißt Hunde an der Leine willkommen. Ein praktischer Frühstücks- und Mittagsstopp nach einem Vormittag in der Altstadt.",
+          "descriptionNl": "Een instituut van Braga sinds 1796, beroemd om zijn gelijknamige frigideiras (kleine bladerdegtaartjes met kalfsvulling) en bola de carne. Het overdekte terras aan de Largo de São João do Souto kijkt uit op de Sé-kathedraal en verwelkomt honden aan de lijn. Een praktische stop voor ontbijt of lunch na een ochtend in de oude binnenstad.",
           "petPolicyDe": "Hunde auf der überdachten Terrasse willkommen",
-          "mustTryDe": "Frigideira de vitela, Bola de Carne"
+          "petPolicyNl": "Honden welkom op het overdekte terras",
+          "mustTryDe": "Frigideira de vitela, Bola de Carne",
+          "mustTryNl": "Frigideira de vitela, bola de carne"
         },
         {
           "name": "Cozinha da Sé",
@@ -81,8 +87,11 @@
           "mustTryEs": "Bacalhau à minhota, posta à mirandesa",
           "mustTryPt": "Bacalhau à minhota, posta à mirandesa",
           "descriptionDe": "Ein modernes Restaurant der Minho-Küche auf der Kopfsteinpflasterstraße unterhalb der Kathedrale. Die überdachte Terrasse am Gehsteig ist für Hunde eingerichtet (Wassernäpfe auf Anfrage), und die Küche serviert zeitgemäße Interpretationen von Bacalhau, Posta à Mirandesa und Rojões. Reservierung im Sommer empfohlen.",
+          "descriptionNl": "Een modern restaurant met Minho-keuken aan de geplaveide straat onder de kathedraal. Het overdekte terras op de stoep is ingericht voor honden (waterbakjes op aanvraag), en de keuken serveert eigentijdse interpretaties van bacalhau, posta à mirandesa en rojões. Reserveren aanbevolen in de zomer.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
-          "mustTryDe": "Bacalhau à minhota, Posta à mirandesa"
+          "petPolicyNl": "Honden welkom op het terras",
+          "mustTryDe": "Bacalhau à minhota, Posta à mirandesa",
+          "mustTryNl": "Bacalhau à minhota, posta à mirandesa"
         }
       ],
       "tipsEn": [
@@ -162,7 +171,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Braga",
+      "titleNl": "Huisdiervriendelijke restaurants in Braga",
       "introDe": "Braga, Portugals älteste Stadt und mittlerweile auch die jüngste nach Studentenanteil, hat für die Minho-Region eine ungewöhnlich entspannte Terrassenkultur. Von Frühling bis Herbst füllen sich die Granitplätze der Viertel Sé und Sá de Miranda mit Gästen im Freien, und wohlerzogene Hunde an Terrassentischen sind ein gewohnter Anblick. Der Zugang zum Innenbereich variiert je nach Betrieb, traditionelle Tasquinhas reservieren ihren Gastraum meist Gästen ohne Hund, während moderne Bistros offener sind. Die Winter sind mild, aber nass, Terrassenüberdachungen sind verbreitet, aber nicht überall vorhanden. Die drei unten genannten Restaurants heißen Hunde an ihren Außentischen ganzjährig zuverlässig willkommen.",
+      "introNl": "Braga, de oudste stad van Portugal en tegenwoordig ook de jongste qua studentenaantal, heeft voor de Minho-regio een ongewoon ontspannen terrascultuur. Van lente tot herfst vullen de granieten pleinen van de wijken Sé en Sá de Miranda zich met gasten buiten, en brave honden aan terrastafels zijn een vertrouwd beeld. De toegang tot het interieur verschilt per zaak: traditionele tasquinhas reserveren hun eetzaal meestal voor gasten zonder hond, terwijl moderne bistro's opener zijn. De winters zijn mild maar nat, terrasoverkappingen zijn gangbaar maar niet overal aanwezig. De drie restaurants hieronder verwelkomen honden het hele jaar door betrouwbaar aan hun buitentafels.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Bragas Restaurants im Innenbereich erlaubt?",
@@ -175,6 +186,20 @@
         {
           "q": "Wann sollte ich Restaurantterrassen meiden?",
           "a": "Während der Festa de São João de Braga (um den 24. Juni) wird die Altstadt extrem laut und überfüllt, Terrassen sind vom 22. bis 25. Juni für Hunde ungeeignet."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden binnen bij restaurants in Braga toegestaan?",
+          "a": "Buitenterrassen zijn grotendeels hondvriendelijk. Toegang tot het interieur hangt af van de eigenaar: moderne bistro's zijn meestal open, traditionele tasquinhas vaak niet. Vraag altijd van tevoren."
+        },
+        {
+          "q": "Moet ik mijn hond aan de lijn houden aan tafel?",
+          "a": "Ja. De Portugese wet schrijft een aanlijnplicht voor honden voor in openbare ruimtes, inclusief restaurantterrassen."
+        },
+        {
+          "q": "Wanneer kun je restaurantterrassen beter vermijden?",
+          "a": "Tijdens de Festa de São João de Braga (rond 24 juni) wordt de oude binnenstad extreem druk en luidruchtig, terrassen zijn van 22 tot 25 juni ongeschikt voor honden."
         }
       ]
     },
@@ -228,7 +253,9 @@
             "Parque infantil"
           ],
           "descriptionDe": "Bragas Wahrzeichen-Stadtpark, acht Hektar Rasen, Platanen und Wanderwege am Fluss Este, südlich des Stadtzentrums. Täglich von Sonnenaufgang bis Sonnenuntergang geöffnet, Hunde an der Leine auf allen Wegen und Rasenflächen willkommen. Ein beliebter Spaziergang am frühen Morgen und nach Feierabend für lokale Hundebesitzer, rechnen Sie damit, andere Hunde zu treffen.",
-          "petPolicyDe": "Hunde an der Leine willkommen, Beutelspender an den Haupteingängen"
+          "descriptionNl": "Bragas kenmerkende stadspark, acht hectare gazon, platanen en wandelpaden langs de rivier de Este, net ten zuiden van het stadscentrum. Dagelijks open van zonsopgang tot zonsondergang, honden aan de lijn welkom op alle paden en grasvelden. Een populaire wandeling vroeg in de ochtend en na werktijd voor lokale hondenbezitters, reken erop dat je andere honden tegenkomt.",
+          "petPolicyDe": "Hunde an der Leine willkommen, Beutelspender an den Haupteingängen",
+          "petPolicyNl": "Honden aan de lijn welkom, zakjesdispensers bij de hoofdingangen"
         },
         {
           "name": "Parque de Lamaçães",
@@ -270,7 +297,9 @@
             "Dispensadores de sacos"
           ],
           "descriptionDe": "Ein 15 Hektar großer Park in einem Wohnviertel östlich des Zentrums, die größte öffentliche Grünfläche der Gemeinde. Breite asphaltierte Wege eignen sich für Hunde jeder Größe, ausgewachsene Eichen spenden im Sommer Schatten, und eine 1,5 km lange Rundstrecke ist bei Joggern und Hundebesitzern beliebt. Hunde müssen angeleint sein; Beutelspender sind an den beiden Haupteingängen installiert.",
-          "petPolicyDe": "Hunde an der Leine willkommen"
+          "descriptionNl": "Een 15 hectare groot park in een woonwijk ten oosten van het centrum, de grootste openbare groene ruimte van de gemeente. Brede geasfalteerde paden zijn geschikt voor honden van elk formaat, volwassen eiken geven in de zomer schaduw, en een rondje van 1,5 km is populair bij joggers en hondenbezitters. Honden moeten aangelijnd zijn; zakjesdispensers zijn geïnstalleerd bij de twee hoofdingangen.",
+          "petPolicyDe": "Hunde an der Leine willkommen",
+          "petPolicyNl": "Honden aan de lijn welkom"
         }
       ],
       "tipsEn": [
@@ -350,7 +379,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Parks in Braga",
+      "titleNl": "Hondvriendelijke parken in Braga",
       "introDe": "Braga liegt zwischen den Flüssen Cávado und Este am Fuß der Serra do Carvalho, mit Grünflächen, die in das Stadtgefüge eingewoben sind. Die vorherrschende lokale Regel ist einfach: Hunde müssen in allen öffentlichen Parks und Gärten an der Leine geführt werden, freilaufzonen sind innerhalb der Stadt noch nicht formal ausgewiesen (Einwohner fahren für echtes Freilaufwandern typischerweise 40 Minuten nach Osten in den Nationalpark Peneda-Gerês). Die beiden unten genannten Parks bieten das beste Stadtspaziergangs-Erlebnis und liegen fußläufig von der Altstadt entfernt.",
+      "introNl": "Braga ligt tussen de rivieren Cávado en Este aan de voet van de Serra do Carvalho, met groen dat verweven is in de stedelijke structuur. De belangrijkste lokale regel is simpel: honden moeten aangelijnd zijn in alle openbare parken en tuinen, losloopzones zijn binnen de stad nog niet formeel aangewezen (bewoners rijden voor echt loslopen doorgaans 40 minuten oostwaarts naar het Nationaal Park Peneda-Gerês). De twee onderstaande parken bieden de beste stadswandelingen en liggen op loopafstand van de oude binnenstad.",
       "faqsDe": [
         {
           "q": "Gibt es Freilaufzonen in Braga?",
@@ -363,6 +394,20 @@
         {
           "q": "Sind Beutelspender zuverlässig bestückt?",
           "a": "Ja im Parque da Ponte und in Lamaçães, andernorts weniger zuverlässig. Nehmen Sie immer eigene Beutel mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er losloopzones in Braga?",
+          "a": "Niet formeel. De gemeentelijke voorschriften verplichten een lijn in alle openbare parken. Voor losloopbeweging rijden locals naar het Nationaal Park Peneda-Gerês (40 minuten oostwaarts)."
+        },
+        {
+          "q": "Kan mijn hond zwemmen in de rivier de Este?",
+          "a": "Niet aan te raden. De Este, die door Braga stroomt, is ondiep en traag met af en toe problemen met de waterkwaliteit. De Cávado bij Barcelos (25 km westwaarts) is een veel betere zwemoptie."
+        },
+        {
+          "q": "Zijn de zakjesdispensers betrouwbaar gevuld?",
+          "a": "Ja bij Parque da Ponte en in Lamaçães, elders minder betrouwbaar. Neem altijd je eigen zakjes mee."
         }
       ]
     },
@@ -394,8 +439,11 @@
           "typeEs": "Red de autobús urbano",
           "typePt": "Rede de autocarros urbanos",
           "descriptionDe": "Das städtische Busnetz TUB deckt über 60 Linien in Braga und den umliegenden Gemeinden ab. Kleine Hunde in Transportboxen reisen kostenlos; größere Hunde werden nach Ermessen des Fahrers zugelassen (Maulkorb und Leine erforderlich, außerhalb der Stoßzeiten bevorzugt). Bestätigen Sie dies beim Einsteigen mit dem Fahrer, in der Praxis sind Fahrer gegenüber wohlerzogenen Hunden tolerant.",
+          "descriptionNl": "Het stedelijke busnet TUB bedient meer dan 60 lijnen in Braga en de omliggende gemeenten. Kleine honden in een reismand reizen gratis; grotere honden worden toegelaten naar goeddunken van de chauffeur (muilkorf en lijn verplicht, buiten de spits heeft de voorkeur). Bevestig dit bij het instappen bij de chauffeur, in de praktijk zijn chauffeurs tolerant tegenover brave honden.",
           "petPolicyDe": "Kleine Hunde in Transportboxen kostenlos, größere Hunde nach Ermessen des Fahrers (Maulkorb + Leine erforderlich)",
-          "typeDe": "Städtisches Busnetz"
+          "petPolicyNl": "Kleine honden in reismand gratis, grotere honden naar goeddunken van de chauffeur (muilkorf + lijn verplicht)",
+          "typeDe": "Städtisches Busnetz",
+          "typeNl": "Stedelijk busnet"
         },
         {
           "name": "CP - Estação de Braga (Porto regional line)",
@@ -416,8 +464,11 @@
           "typeEs": "Tren regional",
           "typePt": "Comboio regional",
           "descriptionDe": "Der Bahnhof Braga ist die nördliche Endstation der CP-Stadtlinie nach Porto (1 Std., tagsüber alle 30 Minuten). Hunde bis 6 kg in einer geschlossenen Transportbox reisen kostenlos; Hunde über 6 kg zahlen 5 EUR pro Fahrt, müssen Maulkorb und Leine tragen und werden nur außerhalb der werktäglichen Stoßzeiten (07–09.30 Uhr und 17–19.30 Uhr) akzeptiert. Fahrkarten am Schalter oder über die CP-App erhältlich.",
+          "descriptionNl": "Station Braga is het noordelijke eindpunt van de CP-stadslijn naar Porto (1 uur, overdag elke 30 minuten). Honden tot 6 kg in een gesloten reismand reizen gratis; honden boven 6 kg betalen 5 EUR per rit, moeten een muilkorf en lijn dragen en worden alleen buiten de spitsuren doordeweeks (07.00-09.30 uur en 17.00-19.30 uur) geaccepteerd. Kaartjes verkrijgbaar aan het loket of via de CP-app.",
           "petPolicyDe": "Hunde bis 6 kg in Transportbox kostenlos, größere Hunde 5 EUR pro Fahrt mit Maulkorb + Leine (nur außerhalb der Stoßzeiten)",
-          "typeDe": "Regionalzug"
+          "petPolicyNl": "Honden tot 6 kg in reismand gratis, grotere honden 5 EUR per rit met muilkorf + lijn (alleen buiten de spitsuren)",
+          "typeDe": "Regionalzug",
+          "typeNl": "Regionaltrein"
         }
       ],
       "tipsEn": [
@@ -497,7 +548,9 @@
         }
       ],
       "titleDe": "Reisen mit Haustier in Braga",
+      "titleNl": "Reizen met huisdier in Braga",
       "introDe": "Braga ist kompakt genug, dass die meisten Besucher mit Haustier zwischen den Sehenswürdigkeiten zu Fuß gehen. Für längere Strecken sind das städtische Busnetz TUB und der CP-Regionalzug nach Porto die Hauptoptionen. Die beiden unten genannten Anbieter decken im Wesentlichen alle Transportbedürfnisse innerhalb und außerhalb der Stadt ab, die praktischen Haustierregeln sind bei jedem Eintrag aufgeführt.",
+      "introNl": "Braga is compact genoeg dat de meeste bezoekers met huisdier tussen de bezienswaardigheden lopen. Voor langere afstanden zijn het stedelijke busnet TUB en de CP-regionaltrein naar Porto de belangrijkste opties. De twee onderstaande aanbieders dekken vrijwel alle vervoersbehoeften binnen en buiten de stad, de praktische huisdierregels staan bij elke vermelding.",
       "faqsDe": [
         {
           "q": "Kann mein Hund in TUB-Bussen mitfahren?",
@@ -510,6 +563,20 @@
         {
           "q": "Sind Haustiere in Uber oder Bolt in Braga erlaubt?",
           "a": "Ja, nach Zustimmung des Fahrers. Geben Sie Ihr Haustier bei der Buchung immer an. Bolt hat eine „Pets“-Option in der App, die passende Fahrer vorab filtert."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond mee met de TUB-bussen?",
+          "a": "Kleine honden in een reismand reizen gratis. Grotere honden worden naar goeddunken van de chauffeur toegelaten met muilkorf en lijn, buiten de spits heeft de voorkeur. Chauffeurs zijn doorgaans tolerant."
+        },
+        {
+          "q": "Hoe kom ik met mijn hond naar Porto?",
+          "a": "CP-trein: 1 uur, elke 30 minuten. Kaartje van 5 EUR voor honden boven 6 kg, gratis in reismand onder 6 kg. Vermijd de doordeweekse spitsuren."
+        },
+        {
+          "q": "Zijn huisdieren toegestaan in Uber of Bolt in Braga?",
+          "a": "Ja, met toestemming van de chauffeur. Geef je huisdier altijd op bij het boeken. Bolt heeft een optie 'Pets' in de app die geschikte chauffeurs vooraf filtert."
         }
       ]
     },
@@ -542,8 +609,11 @@
           "seasonEs": "Ideal octubre-mayo; horas valle aceptables en verano",
           "seasonPt": "Ideal de outubro a maio; horas vazias aceitáveis no verão",
           "descriptionDe": "Ein langer Sandstrand im Naturpark Litoral Norte, 35 km westlich von Braga an der Mündung des Flusses Cávado. Der nördliche Abschnitt jenseits der bewachten Zone wird informell ganzjährig von Hundebesitzern genutzt. Außerhalb der Badesaison (Oktober bis Mai) ist der gesamte Strand faktisch hundetauglich. In den Dünenzonen des Naturparks an der Leine.",
+          "descriptionNl": "Een lang zandstrand in het Natuurpark Litoral Norte, 35 km westwaarts van Braga bij de monding van de rivier de Cávado. Het noordelijke deel voorbij de bewaakte zone wordt informeel het hele jaar door gebruikt door hondenbezitters. Buiten het badseizoen (oktober tot mei) is het hele strand feitelijk hondentoegankelijk. Aangelijnd in de duinzones van het natuurpark.",
           "dogPolicyDe": "Freilauf toleriert in unbeaufsichtigter Zone außerhalb Juni–September tagsüber; Leinenpflicht in den Dünen",
-          "seasonDe": "Am besten Oktober–Mai; außerhalb der Stoßzeiten im Sommer akzeptabel"
+          "dogPolicyNl": "Loslopen getolereerd in onbewaakte zone buiten juni-september overdag; aanlijnplicht in de duinen",
+          "seasonDe": "Am besten Oktober–Mai; außerhalb der Stoßzeiten im Sommer akzeptabel",
+          "seasonNl": "Het best oktober-mei; buiten de spitsuren in de zomer acceptabel"
         },
         {
           "name": "Praia de Apúlia",
@@ -564,8 +634,11 @@
           "seasonEs": "Todo el año en Belinho, restringido junio-septiembre",
           "seasonPt": "Todo o ano em Belinho, restrito junho-setembro",
           "descriptionDe": "Ein breiterer, weniger erschlossener Atlantikstrand 40 km westlich von Braga, berühmt für seine Windmühlen (Moinhos de Apúlia). Das südliche Ende (Belinho) ist im Sommer die inoffizielle Hundezone, wo sich lokale Besitzer ganzjährig treffen. Beutelspender am Hauptparkplatz; kalte Atlantikbrandung ist für Schwimmer riskant, ein reiner Planschabschnitt ist jedoch sicher.",
+          "descriptionNl": "Een breder, minder ontwikkeld Atlantisch strand 40 km westwaarts van Braga, beroemd om zijn windmolens (moinhos de Apúlia). Het zuidelijke uiteinde (Belinho) is in de zomer de onofficiële hondenzone, waar lokale eigenaren het hele jaar door samenkomen. Zakjesdispensers bij de hoofdparkeerplaats; koude Atlantische branding is riskant voor zwemmers, maar een strook om alleen te pootjebaden is veilig.",
           "dogPolicyDe": "Ganzjährig toleriert am südlichen Belinho-Ende; Leinenpflicht 1. Juni – 30. September tagsüber",
-          "seasonDe": "Ganzjährig am Belinho-Ende, eingeschränkt Juni–September"
+          "dogPolicyNl": "Het hele jaar getolereerd aan het zuidelijke Belinho-uiteinde; aanlijnplicht 1 juni - 30 september overdag",
+          "seasonDe": "Ganzjährig am Belinho-Ende, eingeschränkt Juni–September",
+          "seasonNl": "Het hele jaar bij het Belinho-uiteinde, beperkt juni-september"
         }
       ],
       "tipsEn": [
@@ -645,7 +718,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in der Nähe von Braga",
+      "titleNl": "Hondvriendelijke stranden bij Braga",
       "introDe": "Braga liegt im Landesinneren, doch die Atlantikküste des Minho-Distrikts ist nur 35 bis 40 km westlich und mit dem Auto in 35 Minuten leicht erreichbar. Das portugiesische Gesetz untersagt Hunden während der offiziellen Badesaison (üblicherweise 1. Juni bis 30. September) zwischen Sonnenaufgang und 20 Uhr den Zugang zu ausgewiesenen Badestränden, toleriert sie jedoch außerhalb dieser Zeiten und vollständig außerhalb der Saison. Die beiden unten genannten Strände sind die nächstgelegenen Optionen mit informell tolerierten Regeln oder ausgewiesenen Hundezonen.",
+      "introNl": "Braga ligt landinwaarts, maar de Atlantische kust van het Minho-district is slechts 35 tot 40 km westwaarts en met de auto makkelijk te bereiken in 35 minuten. De Portugese wet verbiedt honden tijdens het officiële badseizoen (doorgaans 1 juni tot 30 september) tussen zonsopgang en 20.00 uur op aangewezen badstranden, maar tolereert ze buiten die tijden en volledig buiten het seizoen. De twee onderstaande stranden zijn de dichtstbijzijnde opties met informeel getolereerde regels of aangewezen hondenzones.",
       "faqsDe": [
         {
           "q": "Sind Hunde an portugiesischen Stränden erlaubt?",
@@ -658,6 +733,20 @@
         {
           "q": "Ist die Atlantikbrandung sicher für Hunde?",
           "a": "Starke Unterströmung im Winter und an exponierten Stränden. Bleiben Sie beim Planschen im nassen Sand, außer Ihr Hund ist ein starker Schwimmer; lassen Sie einen Hund niemals allein in die Brandung."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan op Portugese stranden?",
+          "a": "Op bewaakte stranden tussen 1 juni en 30 september zijn honden overdag (zonsopgang tot 20.00 uur) technisch niet toegestaan. Buiten die tijden en volledig buiten het badseizoen worden honden getolereerd."
+        },
+        {
+          "q": "Welk strand ligt het dichtst bij Braga?",
+          "a": "Praia de Ofir bij Fão, 35 km westwaarts. Met de auto: 35 minuten via de A11. Openbaar vervoer: Get Bus naar Esposende, dan lokale bus (in totaal 1 uur 15 min)."
+        },
+        {
+          "q": "Is de Atlantische branding veilig voor honden?",
+          "a": "Sterke onderstroom in de winter en op blootgestelde stranden. Blijf pootjebaden in het natte zand, tenzij je hond een sterke zwemmer is; laat een hond nooit alleen de branding in."
         }
       ]
     },
@@ -713,7 +802,8 @@
           ],
           "hours": "24/7",
           "emergency": true,
-          "descriptionDe": "Eine Vollversorgungs-Tierklinik mit bestätigtem 24/7-Notdienst, Chirurgie, Bildgebung (Röntgen, Ultraschall, CT) und Übernachtungsstationen. Die in lokalen Gruppen am häufigsten genannte Notfalleinrichtung Bragas. Englisch wird vom Großteil des leitenden Personals gesprochen."
+          "descriptionDe": "Eine Vollversorgungs-Tierklinik mit bestätigtem 24/7-Notdienst, Chirurgie, Bildgebung (Röntgen, Ultraschall, CT) und Übernachtungsstationen. Die in lokalen Gruppen am häufigsten genannte Notfalleinrichtung Bragas. Englisch wird vom Großteil des leitenden Personals gesprochen.",
+          "descriptionNl": "Een volledige dierenkliniek met bevestigde 24/7-spoedhulp, chirurgie, beeldvorming (röntgen, echografie, CT) en overnachtingsafdelingen. De in lokale groepen meest genoemde spoedvoorziening van Braga. Engels wordt gesproken door het merendeel van het senior personeel."
         },
         {
           "name": "Hospital Veterinário de Braga (Universidade Lusófona)",
@@ -760,7 +850,8 @@
           ],
           "hours": "24/7",
           "emergency": true,
-          "descriptionDe": "Ein Lehrkrankenhaus, angegliedert an die tiermedizinische Fakultät der Universidade Lusófona, mit 24/7-Notdienst durch Bereitschaftstierärzte, vollständiger Operationssuite und Überweisungen an Spezialisten (Kardiologie, Onkologie, Dermatologie). Etwas niedrigere Gebühren als private Kliniken, bei Einheimischen beliebt."
+          "descriptionDe": "Ein Lehrkrankenhaus, angegliedert an die tiermedizinische Fakultät der Universidade Lusófona, mit 24/7-Notdienst durch Bereitschaftstierärzte, vollständiger Operationssuite und Überweisungen an Spezialisten (Kardiologie, Onkologie, Dermatologie). Etwas niedrigere Gebühren als private Kliniken, bei Einheimischen beliebt.",
+          "descriptionNl": "Een academisch ziekenhuis, verbonden aan de diergeneeskundige faculteit van de Universidade Lusófona, met 24/7-spoedhulp door dienstdoende dierenartsen, een volledige operatiekamer en doorverwijzingen naar specialisten (cardiologie, oncologie, dermatologie). Iets lagere tarieven dan particuliere klinieken, populair bij locals."
         }
       ],
       "tipsEn": [
@@ -840,7 +931,9 @@
         }
       ],
       "titleDe": "24-Stunden- und zuverlässige Tierärzte in Braga",
+      "titleNl": "24-uurs en betrouwbare dierenartsen in Braga",
       "introDe": "Braga verfügt über zwei große Tierkliniken mit voller Notfallversorgung über Nacht sowie mehrere Tagespraxen. Die beiden unten genannten decken im Wesentlichen alle 24/7-Notfallbedürfnisse innerhalb der Stadt ab. Beide sprechen in unterschiedlichem Maße Englisch, ein vorheriger Anruf wird immer empfohlen.",
+      "introNl": "Braga beschikt over twee grote dierenklinieken met volledige nachtelijke spoedzorg, plus meerdere dagpraktijken. De twee hieronder genoemde dekken in essentie alle 24/7-spoedbehoeften binnen de stad. Beide spreken in verschillende mate Engels, van tevoren bellen wordt altijd aangeraden.",
       "faqsDe": [
         {
           "q": "Gibt es einen 24-Stunden-Notfalltierarzt in Braga?",
@@ -853,6 +946,20 @@
         {
           "q": "Wie viel kostet eine Notfallberatung?",
           "a": "Typischerweise 50–80 EUR für eine erste Notfallberatung, zuzüglich Diagnostik. Deutlich günstiger als vergleichbare Versorgung in Nordeuropa."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs spoeddierenarts in Braga?",
+          "a": "Ja. Hospital Veterinário do Bom Jesus (+351 253 261 050) en Hospital Veterinário de Braga (+351 253 264 222) bieden beide bevestigde 24/7-spoedhulp."
+        },
+        {
+          "q": "Spreken de dierenartsen in Braga Engels?",
+          "a": "De meeste senior dierenartsen in de twee hoofdklinieken wel, jonger personeel en de receptie mogelijk niet. Breng schriftelijke notities mee over de voorgeschiedenis en huidige medicatie van je hond."
+        },
+        {
+          "q": "Hoeveel kost een spoedconsult?",
+          "a": "Doorgaans 50-80 EUR voor een eerste spoedconsult, plus diagnostiek. Aanzienlijk goedkoper dan vergelijkbare zorg in Noord-Europa."
         }
       ]
     },
@@ -951,7 +1058,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für Reisen mit Haustier nach Braga",
+      "titleNl": "Praktische tips voor reizen met huisdier naar Braga",
       "introDe": "Braga ist eine der entspanntesten und jüngsten Städte Portugals, und Besucher mit Haustier finden die praktischen Aspekte leichter als in vielen älteren europäischen Zielen. Die Universitätskultur bedeutet eine hohe Dichte jüngerer Bewohner, die an Hunde in Cafés und Parks gewöhnt sind. Die unten genannten lokalen Besonderheiten sind die Unterschiede, die ein Besucher vor der Ankunft kennen sollte.",
+      "introNl": "Braga is een van de meest ontspannen en jongste steden van Portugal, en bezoekers met huisdier vinden de praktische kant makkelijker dan in veel oudere Europese bestemmingen. De universitaire cultuur betekent een hoge dichtheid aan jongere bewoners die gewend zijn aan honden in cafés en parken. De onderstaande lokale bijzonderheden zijn de verschillen die een bezoeker vóór aankomst moet kennen.",
       "faqsDe": [
         {
           "q": "Welches Dokument benötige ich zur Einreise nach Portugal mit meinem Hund?",
@@ -964,6 +1073,20 @@
         {
           "q": "Ist Braga haustierfreundlicher oder weniger freundlich als Porto?",
           "a": "Bei Terrassen und Parks etwa gleichwertig. Braga hat weniger hundespezifische Strände (keine direkte Küste), aber günstigere 24/7-Tierärzte und mehr Freilaufpotenzial über den nahen Nationalpark Peneda-Gerês."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welk document heb ik nodig om met mijn hond Portugal binnen te komen?",
+          "a": "EU-burgers: EU-dierenpaspoort met rabiësvaccinatie en microchip. Inwoners van het Verenigd Koninkrijk: Animal Health Certificate (AHC), afgegeven binnen 10 dagen vóór de reis, plus microchip en rabiësvaccinatie. Een lintwormbehandeling is voor Portugal NIET verplicht."
+        },
+        {
+          "q": "Wanneer is het slechtste moment voor een bezoek met hond?",
+          "a": "22-25 juni vanwege de Festa de São João de Braga, de hele oude binnenstad wordt luidruchtig en vol vuurwerk. Blijf buiten het centrum of kom in een andere week."
+        },
+        {
+          "q": "Is Braga huisdiervriendelijker of minder vriendelijk dan Porto?",
+          "a": "Voor terrassen en parken ongeveer gelijkwaardig. Braga heeft minder hondenspecifieke stranden (geen directe kust), maar goedkopere 24/7-dierenartsen en meer losloopmogelijkheden via het nabijgelegen Nationaal Park Peneda-Gerês."
         }
       ]
     },
@@ -996,8 +1119,11 @@
           "categoryEs": "Sitio UNESCO",
           "categoryPt": "Sítio UNESCO",
           "descriptionDe": "Bragas berühmtestes Denkmal und seit 2019 UNESCO-Weltkulturerbe, ein barockes Heiligtum aus dem 18. Jahrhundert auf einem bewaldeten Hügel. Die 581-stufige Zickzacktreppe mit Kapellen, Brunnen und Statuen ist für Hunde an der Leine vollständig zugänglich, und der umliegende 22 Hektar große Waldpark bietet schattige Wege für weitere Spaziergänge. Im Kircheninneren selbst sind Hunde nicht erlaubt. Eine Standseilbahn (die älteste wasserbetriebene Gegengewichts-Standseilbahn der Welt, Hunde in Transportboxen erlaubt) erspart den Aufstieg.",
+          "descriptionNl": "Bragas beroemdste monument en sinds 2019 UNESCO-Werelderfgoed, een barok heiligdom uit de 18e eeuw op een beboste heuvel. De zigzagtrap met 581 treden, kapellen, fonteinen en beelden is volledig toegankelijk voor honden aan de lijn, en het omliggende 22 hectare grote bospark biedt schaduwrijke paden voor verdere wandelingen. Binnen in de kerk zelf zijn honden niet toegestaan. Een kabelspoorweg (de oudste watergebalanceerde kabelspoorweg ter wereld, honden in reismand toegestaan) bespaart de klim.",
           "petAccessDe": "Hunde an der Leine willkommen auf Treppe, in Gärten und auf Waldwegen; nicht in der Kirche",
-          "categoryDe": "UNESCO-Welterbestätte"
+          "petAccessNl": "Honden aan de lijn welkom op de trap, in tuinen en op boswegen; niet in de kerk",
+          "categoryDe": "UNESCO-Welterbestätte",
+          "categoryNl": "UNESCO-Werelderfgoedlocatie"
         },
         {
           "name": "Mosteiro de Tibães",
@@ -1018,8 +1144,11 @@
           "categoryEs": "Monasterio histórico y jardines",
           "categoryPt": "Mosteiro histórico e jardins",
           "descriptionDe": "Ein Benediktinerkloster aus dem 16. Jahrhundert, 6 km westlich der Stadt, gelegen auf 40 Hektar terrassierten Gärten, Weinbergen, Brunnen und bewaldetem Hügelland. Die Gärten und das Außengelände sind für Hunde an der Leine vollständig zugänglich, das Klosterinnere (mit barocker Kirche und Kreuzgängen) nicht. Der Eintritt zum Museum-Kloster erfolgt gegen Ticket, der umliegende Park kann jedoch separat begangen werden.",
+          "descriptionNl": "Een benedictijnenklooster uit de 16e eeuw, 6 km westwaarts van de stad, gelegen op 40 hectare terrastuinen, wijngaarden, fonteinen en beboste heuvels. De tuinen en het buitenterrein zijn volledig toegankelijk voor honden aan de lijn, het kloosterinterieur (met barokke kerk en kruisgangen) niet. De toegang tot het museum-klooster is met ticket, maar het omliggende park kan apart worden bezocht.",
           "petAccessDe": "Hunde an der Leine willkommen in Gärten und auf dem Außengelände; nicht im Klostergebäude",
-          "categoryDe": "Historisches Kloster & Gärten"
+          "petAccessNl": "Honden aan de lijn welkom in de tuinen en op het buitenterrein; niet in het kloostergebouw",
+          "categoryDe": "Historisches Kloster & Gärten",
+          "categoryNl": "Historisch klooster & tuinen"
         }
       ],
       "tipsEn": [
@@ -1099,7 +1228,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Attraktionen in Braga",
+      "titleNl": "Huisdiervriendelijke attracties in Braga",
       "introDe": "Bragas Hauptattraktionen sind historische Kirchen und Außendenkmäler. Hunde an der Leine sind auf Kirchvorplätzen, in Gärten und auf Wanderwegen willkommen, aber niemals in Gotteshäusern. Die beiden unten genannten sind die wichtigsten Freiluft-Sehenswürdigkeiten der Stadt und beide bieten erheblichen für Hunde zugänglichen Raum.",
+      "introNl": "Bragas belangrijkste attracties zijn historische kerken en buitenmonumenten. Honden aan de lijn zijn welkom op kerkpleinen, in tuinen en op wandelpaden, maar nooit in gebedshuizen. De twee hieronder genoemde zijn de belangrijkste openluchtbezienswaardigheden van de stad en bieden beide veel voor honden toegankelijke ruimte.",
       "faqsDe": [
         {
           "q": "Sind Hunde beim Bom Jesus do Monte erlaubt?",
@@ -1112,6 +1243,20 @@
         {
           "q": "Kann ich meinen Hund in den Nationalpark Peneda-Gerês mitnehmen?",
           "a": "Ja, aber an der Leine. Er liegt 40 Minuten östlich mit dem Auto und ist Portugals einziger Nationalpark, das beste freilaufähnliche Wandern findet sich auf den markierten Wegen. Prüfen Sie im Sommer immer Waldbrandsperren."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan bij Bom Jesus do Monte?",
+          "a": "Ja aan de lijn, op de trap, in de tuinen, op de boswegen en in de kabelspoorweg (in reismand). Ze zijn niet toegestaan in de basiliek zelf."
+        },
+        {
+          "q": "Is de Sé-kathedraal toegankelijk met hond?",
+          "a": "Het interieur van de kathedraal niet. Het buitenplein (Largo do Paço) en de omliggende straten van de oude binnenstad wel."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen naar het Nationaal Park Peneda-Gerês?",
+          "a": "Ja, maar aan de lijn. Het ligt 40 minuten oostwaarts met de auto en is Portugals enige nationaal park, de beste losloop-achtige wandelingen vind je op de gemarkeerde paden. Controleer in de zomer altijd op bosbrandafsluitingen."
         }
       ]
     },
@@ -1164,7 +1309,8 @@
             "Spanish"
           ],
           "rates": "€15–25/night home boarding, €10–15/hour walks",
-          "descriptionDe": "Europäische Haustierbetreuungsplattform mit verifizierten Betreuern in ganz Braga: Home-Boarding, Tagesbetreuung, Kurzbesuche und Hundegassi. Durchschnittspreis 15–25 EUR pro Nacht für Home-Boarding, 10–15 EUR für einen einstündigen Spaziergang. Profile enthalten Fotos, Bewertungen und Versicherung über die Plattform."
+          "descriptionDe": "Europäische Haustierbetreuungsplattform mit verifizierten Betreuern in ganz Braga: Home-Boarding, Tagesbetreuung, Kurzbesuche und Hundegassi. Durchschnittspreis 15–25 EUR pro Nacht für Home-Boarding, 10–15 EUR für einen einstündigen Spaziergang. Profile enthalten Fotos, Bewertungen und Versicherung über die Plattform.",
+          "descriptionNl": "Europees huisdierenoppasplatform met geverifieerde oppassers in heel Braga: opvang bij de oppas thuis, dagopvang, korte bezoekjes en hondenuitlaatservice. Gemiddelde prijs 15-25 EUR per nacht voor opvang thuis, 10-15 EUR voor een uur wandelen. Profielen bevatten foto's, beoordelingen en verzekering via het platform."
         },
         {
           "name": "Rover Braga",
@@ -1204,7 +1350,8 @@
             "English"
           ],
           "rates": "€18–30/night boarding, €12–18/hour walks",
-          "descriptionDe": "Globale Plattform mit mehreren Betreuern mit Sitz in Braga, die Boarding, Tagesbetreuung, Spaziergänge und Haussitting (Betreuer bleibt in Ihrer Unterkunft) anbieten. Die Preise liegen im Durchschnitt etwas höher als bei Pawshake, doch die Plattform hat eine breitere Verfügbarkeit für kurzfristige Anfragen und bietet die RoverPay-Versicherung."
+          "descriptionDe": "Globale Plattform mit mehreren Betreuern mit Sitz in Braga, die Boarding, Tagesbetreuung, Spaziergänge und Haussitting (Betreuer bleibt in Ihrer Unterkunft) anbieten. Die Preise liegen im Durchschnitt etwas höher als bei Pawshake, doch die Plattform hat eine breitere Verfügbarkeit für kurzfristige Anfragen und bietet die RoverPay-Versicherung.",
+          "descriptionNl": "Wereldwijd platform met meerdere oppassers in Braga die opvang, dagopvang, wandelingen en huisoppas (oppas verblijft bij jou thuis) aanbieden. Prijzen liggen gemiddeld iets hoger dan bij Pawshake, maar het platform heeft een bredere beschikbaarheid voor last-minute aanvragen en biedt de RoverPay-verzekering."
         }
       ],
       "tipsEn": [
@@ -1284,7 +1431,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung und Hundegassi in Braga",
+      "titleNl": "Huisdierenoppas en hondenuitlaatservice in Braga",
       "introDe": "Wenn Sie Ihren Hund für ein paar Stunden zurücklassen müssen, um das Innere der Sé oder ein Museum zu besuchen, decken Online-Plattformen Braga gut ab, dieselben europäischen Netzwerke, die auch in Porto und Lissabon genutzt werden, listen Betreuer und Gassigeher in der ganzen Stadt. Kurzfristige Buchungen am selben Tag sind möglich, im Sommer und während der São-João-Festivalwoche wird jedoch eine Vorausbuchung empfohlen.",
+      "introNl": "Als je je hond een paar uur moet achterlaten om het interieur van de Sé of een museum te bezoeken, dekken online platformen Braga goed, dezelfde Europese netwerken die ook in Porto en Lissabon worden gebruikt, vermelden oppassers en uitlaters door de hele stad. Boekingen op dezelfde dag zijn mogelijk, maar vooraf boeken wordt aangeraden in de zomer en tijdens de São João-festivalweek.",
       "faqsDe": [
         {
           "q": "Wie viel kostet Haustierbetreuung in Braga?",
@@ -1297,6 +1446,20 @@
         {
           "q": "Sind diese Betreuungspersonen versichert?",
           "a": "Ja. Pawshake und Rover schließen beide eine Haftpflicht- und Tierarztkostenversicherung in der Buchungsgebühr ein. Prüfen Sie den Versicherungsumfang immer, bevor Sie die Betreuung übergeben."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost huisdierenoppas in Braga?",
+          "a": "15-25 EUR per nacht voor opvang thuis via Pawshake; 18-30 EUR via Rover. Wandelingen kosten 10-18 EUR per uur. Aanzienlijk goedkoper dan Porto of Lissabon."
+        },
+        {
+          "q": "Kan ik dagopvang voor een paar uur boeken?",
+          "a": "Ja. Beide platformen bieden halvedagopties (3-5 uur, ongeveer 15-20 EUR) en korte bezoekjes (30 min, 8-12 EUR)."
+        },
+        {
+          "q": "Zijn deze oppassers verzekerd?",
+          "a": "Ja. Pawshake en Rover nemen beide een aansprakelijkheids- en dierenartskostendekking op in de boekingskosten. Controleer altijd de dekkingsomvang voordat je de zorg overdraagt."
         }
       ]
     }

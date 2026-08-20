@@ -41,9 +41,13 @@
           "tipPt": "Fica mesmo ao lado de Conwy Marina e Conwy Morfa, por isso combine-o com um passeio pelo estuário ou pela praia antes de comer.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Mulberry+Conwy+Marina",
           "descriptionDe": "Ein renoviertes Pub direkt am Wasser an der Conwy Marina mit weitem Blick über die Flussmündung und das Schloss, das eine Speisekarte mit deftigen Pub-Gerichten bietet. Es gibt einen gut ausgeschilderten hundefreundlichen Bereich mit Innen- und Außensitzplätzen, ein entspannter Ort nach einem Spaziergang entlang Conwy Morfa.",
+          "descriptionNl": "Een gerenoveerde pub aan het water bij Conwy Marina met wijds uitzicht over de riviermonding en het kasteel, met een menu vol stevige pubgerechten. Er is een goed aangegeven hondvriendelijk gedeelte met zit- en ligplaatsen binnen en buiten, een ontspannen plek na een wandeling langs Conwy Morfa.",
           "petPolicyDe": "Hunde sind im ausgeschilderten hundefreundlichen Bereich an der Leine willkommen.",
+          "petPolicyNl": "Honden welkom in het aangegeven hondvriendelijke gedeelte, aan de lijn.",
           "mustTryDe": "Ein Sunday Roast mit Blick auf die Marina",
-          "tipDe": "Es liegt direkt bei Conwy Marina und Conwy Morfa, verbinden Sie den Besuch also mit einem Spaziergang an der Mündung oder am Strand vor dem Essen."
+          "mustTryNl": "Een Sunday roast met uitzicht op de marina",
+          "tipDe": "Es liegt direkt bei Conwy Marina und Conwy Morfa, verbinden Sie den Besuch also mit einem Spaziergang an der Mündung oder am Strand vor dem Essen.",
+          "tipNl": "De pub ligt vlak bij Conwy Marina en Conwy Morfa, combineer een bezoek dus met een wandeling langs de riviermonding of het strand voordat je eet."
         },
         {
           "name": "Cantîn",
@@ -71,9 +75,13 @@
           "tipPt": "Ideal antes ou depois de um passeio por Conwy Mountain; as camas e guloseimas fazem dele uma paragem fácil com um cão cansado.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cantin+cafe+Conwy",
           "descriptionDe": "Ein freundliches unabhängiges Café in der ummauerten Altstadt, das sich besonders um Hunde kümmert, mit Außensitzplätzen und einer Mut Hut mit Hundebetten, Leckerlis und Wasser. Es ist ein beliebter Zwischenstopp für Wanderer auf dem Weg zum Conwy Mountain oder entlang des Kais.",
+          "descriptionNl": "Een vriendelijk onafhankelijk café in de ommuurde binnenstad dat extra zijn best doet voor honden, met buitenzitplaatsen en een Mut Hut met hondenmandjes, snoepjes en water. Het is een geliefde tankstop voor wandelaars op weg naar Conwy Mountain of langs de kade.",
           "petPolicyDe": "Hunde sind herzlich willkommen, mit Hundebetten, Leckerlis und Wasser draußen an der Leine.",
+          "petPolicyNl": "Honden hartelijk welkom, met hondenmandjes, snoepjes en water buiten aan de lijn.",
           "mustTryDe": "Ein Kaffee mit Kuchen und einem Hundeleckerli aus der Mut Hut",
-          "tipDe": "Ideal vor oder nach einer Wanderung auf dem Conwy Mountain; die Hundebetten und Leckerlis machen es zu einem einfachen Zwischenstopp mit einem müden Hund."
+          "mustTryNl": "Een koffie met gebak en een hondensnoepje uit de Mut Hut",
+          "tipDe": "Ideal vor oder nach einer Wanderung auf dem Conwy Mountain; die Hundebetten und Leckerlis machen es zu einem einfachen Zwischenstopp mit einem müden Hund.",
+          "tipNl": "Ideaal voor of na een wandeling over Conwy Mountain; de hondenmandjes en snoepjes maken het een makkelijke tussenstop met een vermoeide hond."
         },
         {
           "name": "Liverpool Arms",
@@ -101,9 +109,13 @@
           "tipPt": "O cais enche nos dias de sol; o bar é igualmente acolhedor para cães quando o tempo do norte do País de Gales piora.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Liverpool+Arms+Conwy+Quay",
           "descriptionDe": "Ein traditionelles Pub direkt am Conwy Quay unterhalb der Stadtmauern, mit Tischen mit Blick über die Flussmündung und die Fischerboote. Hunde sind an der Leine in der Bar willkommen, ein klassischer Stopp nach einem Spaziergang entlang des Hafens und vorbei am Smallest House.",
+          "descriptionNl": "Een traditionele pub direct aan Conwy Quay onder de stadsmuren, met tafels met uitzicht over de riviermonding en de vissersboten. Honden zijn welkom aan de lijn in de bar, een klassieke stop na een wandeling langs de haven en langs het Smallest House.",
           "petPolicyDe": "Hunde sind an der Leine in der Bar willkommen.",
+          "petPolicyNl": "Honden welkom in de bar aan de lijn.",
           "mustTryDe": "Ein Pint am Kai mit Blick auf die Flussmündung",
-          "tipDe": "Der Kai wird an sonnigen Tagen voll; die Bar ist genauso hundefreundlich, wenn das Wetter in Nordwales umschlägt."
+          "mustTryNl": "Een pint bij de kade met uitzicht op de riviermonding",
+          "tipDe": "Der Kai wird an sonnigen Tagen voll; die Bar ist genauso hundefreundlich, wenn das Wetter in Nordwales umschlägt.",
+          "tipNl": "De kade wordt druk op zonnige dagen; de bar is net zo hondvriendelijk wanneer het weer in Noord-Wales omslaat."
         }
       ],
       "tipsEn": [
@@ -167,7 +179,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Conwy",
+      "titleNl": "Hondvriendelijke restaurants in Conwy",
       "introDe": "Conwy ist ein außergewöhnlich hundefreundliches kleines Städtchen mit hundefreundlichen Pubs und Cafés entlang der Castle Street, der High Street und Conwy Quay unterhalb des Schlosses. Am Ufer und in der ummauerten Altstadt findet man am leichtesten einen Tisch mit Hund, und mehrere Lokale bieten Wassernäpfe, Leckerlis und sogar Hundebetten.",
+      "introNl": "Conwy is een uitzonderlijk hondvriendelijk stadje, met hondvriendelijke pubs en cafés langs Castle Street, de High Street en Conwy Quay onder het kasteel. De waterkant en het ommuurde centrum zijn de makkelijkste plekken om een tafel met hond te vinden, en verschillende zaken bieden waterbakjes, snoepjes en zelfs hondenmandjes.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants und Pubs in Conwy erlaubt?",
@@ -176,6 +190,16 @@
         {
           "q": "Kann ich mit meinem Hund in Conwy am Wasser essen?",
           "a": "Ja. Sowohl das Liverpool Arms am Conwy Quay als auch The Mulberry an der Conwy Marina bieten hundefreundliche Sitzplätze mit Blick auf die Flussmündung. Beide lassen sich gut mit einem Spaziergang entlang des Kais oder über Conwy Morfa verbinden, sodass der Hund den ganzen Ausflug über dabei sein kann."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants en pubs in Conwy?",
+          "a": "Ja, op grote schaal. Conwy is uitzonderlijk hondvriendelijk, en de meeste pubs en cafés langs Castle Street, de High Street en Conwy Quay verwelkomen honden aan de lijn. Sommige, zoals Cantîn, gaan nog verder met hondenmandjes, snoepjes en water. Vraag welk gedeelte hondvriendelijk is, want sommige eetzalen binnen verschillen."
+        },
+        {
+          "q": "Kan ik met mijn hond aan het water eten in Conwy?",
+          "a": "Ja. Zowel het Liverpool Arms aan Conwy Quay als The Mulberry bij Conwy Marina hebben hondvriendelijke zitplaatsen met uitzicht op de riviermonding. Ze combineren goed met een wandeling langs de kade of Conwy Morfa, zodat een hond het hele uitje mee kan maken."
         }
       ]
     },
@@ -209,8 +233,11 @@
           "tipPt": "Comece da orla oeste da cidade perto de Sychnant; leve água, não há na colina, e vigie o gado que pasta ao longo do percurso.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Conwy+Mountain+Mynydd+y+Dref",
           "descriptionDe": "Der walrückenförmige Hügel erhebt sich direkt über der Stadt, durchzogen von grasbewachsenen Pfaden und gekrönt von den Überresten einer eisenzeitlichen Höhenburg, mit weiten Ausblicken über die Flussmündung, die Küste und Eryri. Eine empfohlene Rundtour von etwa 5,5 Kilometern macht ihn zum klassischen Hundespaziergang in Conwy, frei zugänglich und kostenlos.",
+          "descriptionNl": "De walvisrugvormige heuvel die direct boven de stad oprijst, doorkruist door grazige paden en bekroond met de restanten van een ijzertijd-heuvelfort, met wijde uitzichten over de riviermonding, de kust en Eryri. Een aanbevolen rondwandeling van ongeveer 5,5 kilometer maakt hem tot de klassieke hondenwandeling van Conwy, vrij toegankelijk en gratis.",
           "offLeashAreaDe": "Schafe und Ponys weiden auf dem offenen Hügel, halten Sie Ihren Hund also an der Leine; die Pfade sind grasbewachsen, aber exponiert und können windig sein.",
-          "tipDe": "Starten Sie am westlichen Stadtrand in der Nähe von Sychnant; nehmen Sie Wasser mit, da es auf dem Hügel keines gibt, und achten Sie durchgehend auf weidendes Vieh."
+          "offLeashAreaNl": "Schapen en pony's grazen op de open heuvel, houd je hond dus aangelijnd; de paden zijn grazig maar onbeschut en kunnen winderig zijn.",
+          "tipDe": "Starten Sie am westlichen Stadtrand in der Nähe von Sychnant; nehmen Sie Wasser mit, da es auf dem Hügel keines gibt, und achten Sie durchgehend auf weidendes Vieh.",
+          "tipNl": "Start aan de westrand van de stad bij Sychnant; neem water mee, want er is geen water op de heuvel, en let de hele tocht op grazend vee."
         },
         {
           "name": "Bodnant Garden (National Trust)",
@@ -232,8 +259,11 @@
           "tipPt": "Os cães são bem-vindos de quinta a domingo de 1 de abril a 30 de setembro, e todos os dias de 1 de outubro a 31 de março; verifique os horários em vigor antes de ir.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bodnant+Garden+National+Trust",
           "descriptionDe": "Ein weltberühmter National-Trust-Garten im Conwy-Tal bei Tal-y-cafn, mit Terrassen, einem Goldregenbogen, Wasserfällen und Waldspaziergängen, gerahmt von den Bergen Eryris. Hunde sind an bestimmten Tagen an einer kurzen, nicht ausziehbaren Leine willkommen, eine seltene Gelegenheit, einen großartigen Garten mit Ihrem Hund zu teilen.",
+          "descriptionNl": "Een wereldberoemde National Trust-tuin in de Conwy-vallei bij Tal-y-cafn, met terrassen, een gouden regenboog, watervallen en boswandelingen, omlijst door de bergen van Eryri. Honden zijn op bepaalde dagen welkom aan een korte, niet-uitschuifbare lijn, een zeldzame kans om een geweldige tuin met je hond te delen.",
           "offLeashAreaDe": "Hunde müssen an einer kurzen, nicht ausziehbaren Leine sein; bei Bedarf sind Leinen am Besucherempfang erhältlich.",
-          "tipDe": "Hunde sind von Donnerstag bis Sonntag vom 1. April bis 30. September willkommen, und täglich vom 1. Oktober bis 31. März; prüfen Sie die aktuellen Zeiten, bevor Sie hinfahren."
+          "offLeashAreaNl": "Honden moeten aan een korte, niet-uitschuifbare lijn zijn; lijnen zijn indien nodig verkrijgbaar bij de bezoekersreceptie.",
+          "tipDe": "Hunde sind von Donnerstag bis Sonntag vom 1. April bis 30. September willkommen, und täglich vom 1. Oktober bis 31. März; prüfen Sie die aktuellen Zeiten, bevor Sie hinfahren.",
+          "tipNl": "Honden zijn welkom van donderdag tot zondag van 1 april tot 30 september, en elke dag van 1 oktober tot 31 maart; controleer de actuele tijden voordat je gaat."
         },
         {
           "name": "Aber Falls (Rhaeadr Fawr, Eryri)",
@@ -255,8 +285,11 @@
           "tipPt": "É um passeio fácil adequado à maioria dos cães; use calçado aderente perto das quedas e evite as rochas depois de chuva forte.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Aber+Falls+Rhaeadr+Fawr+Abergwyngregyn",
           "descriptionDe": "Ein familienfreundlicher Wasserfall-Spaziergang in Abergwyngregyn, eine kurze Fahrt westlich von Conwy in Eryri (Snowdonia), der durch ein bewaldetes Tal zum eindrucksvollen, 37 Meter hohen Rhaeadr Fawr führt. Es ist ein unkomplizierter Hin- und Rückweg, der Hunde an der Leine willkommen heißt, wobei Schafe auf den umliegenden Hügeln weiden.",
+          "descriptionNl": "Een gezinsvriendelijke watervalwandeling in Abergwyngregyn, een korte rit ten westen van Conwy in Eryri (Snowdonia), die door een bebost dal naar de indrukwekkende, 37 meter hoge Rhaeadr Fawr voert. Het is een eenvoudige heen-en-terugroute die honden welkom heet aan de lijn, waarbij schapen op de omliggende heuvels grazen.",
           "offLeashAreaDe": "Halten Sie Hunde durchgehend an der Leine; die Hügel rund um die Wasserfälle werden von Schafen beweidet, und die Felsen in der Nähe des Wasserfalls sind rutschig.",
-          "tipDe": "Es ist ein einfacher Spaziergang, der für die meisten Hunde geeignet ist; tragen Sie in der Nähe der Wasserfälle rutschfeste Schuhe und meiden Sie die Felsen nach starkem Regen."
+          "offLeashAreaNl": "Houd honden de hele wandeling aangelijnd; op de heuvels rond de watervallen grazen schapen en de rotsen bij de waterval zijn glad.",
+          "tipDe": "Es ist ein einfacher Spaziergang, der für die meisten Hunde geeignet ist; tragen Sie in der Nähe der Wasserfälle rutschfeste Schuhe und meiden Sie die Felsen nach starkem Regen.",
+          "tipNl": "Het is een makkelijke wandeling die geschikt is voor de meeste honden; draag schoenen met goede grip bij de watervallen en vermijd de rotsen na zware regen."
         }
       ],
       "tipsEn": [
@@ -320,7 +353,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Spaziergänge und Wanderungen rund um Conwy",
+      "titleNl": "Hondvriendelijke wandelingen en tochten rond Conwy",
       "introDe": "Conwy ist ein Tor für Wanderer nach Eryri (Snowdonia), und bei den Wanderungen kommt ein Hund erst richtig auf seine Kosten. Der Conwy Mountain erhebt sich direkt über der Stadt mit grasbewachsenen Pfaden und weiten Ausblicken auf die Küste, der Sychnant Pass und die Bodlondeb Woods bieten sanftere Optionen ganz in der Nähe, und Bodnant Garden sowie die Aber Falls in Eryri sind an der Leine hundefreundlich. Halten Sie Hunde in der Nähe der weidenden Schafe auf den offenen Hügeln an der Leine.",
+      "introNl": "Conwy is een wandelpoort naar Eryri (Snowdonia), en juist bij de wandelingen komt een hond echt tot zijn recht. Conwy Mountain rijst direct boven de stad op met grazige paden en enorme kustuitzichten, de Sychnant Pass en de Bodlondeb Woods bieden zachtere opties vlakbij, en Bodnant Garden en de Aber Falls in Eryri zijn hondvriendelijk aan de lijn. Houd honden aangelijnd in de buurt van de grazende schapen op de open heuvels.",
       "faqsDe": [
         {
           "q": "Wo kann ich mit meinem Hund rund um Conwy wandern?",
@@ -329,6 +364,16 @@
         {
           "q": "Darf ich meinen Hund mit zum Bodnant Garden nehmen?",
           "a": "Ja, an bestimmten Tagen. Hunde sind an einer kurzen, nicht ausziehbaren Leine von Donnerstag bis Sonntag vom 1. April bis 30. September willkommen, und täglich vom 1. Oktober bis 31. März. Kurze Leinen sind am Besucherempfang erhältlich, und es ist eine seltene Gelegenheit, einen großartigen Garten mit einem Hund zu genießen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar kan ik wandelen met mijn hond rond Conwy?",
+          "a": "Conwy Mountain rijst direct boven de stad op met een aanbevolen rondwandeling van ongeveer 5,5 kilometer en grote kustuitzichten, en de Sychnant Pass en de Bodlondeb Woods bieden zachtere opties vlakbij. Iets verderop is de Aber Falls-route in Eryri een makkelijke hondvriendelijke watervalwandeling. Houd honden aangelijnd in de buurt van grazend vee."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen naar Bodnant Garden?",
+          "a": "Ja, op bepaalde dagen. Honden zijn welkom aan een korte, niet-uitschuifbare lijn van donderdag tot zondag van 1 april tot 30 september, en elke dag van 1 oktober tot 31 maart. Korte lijnen zijn verkrijgbaar bij de bezoekersreceptie, en het is een zeldzame kans om een geweldige tuin met een hond te genieten."
         }
       ]
     },
@@ -436,7 +481,9 @@
         }
       ],
       "titleDe": "Mit Hund in Conwy unterwegs",
+      "titleNl": "Vervoer in Conwy met een hond",
       "introDe": "Conwy ist eine kompakte ummauerte Stadt, die sich leicht zu Fuß erkunden lässt, und die schönste Art, mit Hund anzureisen, ist der Zug auf der North Wales Coast Line, auf der Hunde kostenlos mitfahren. Der wichtigste Umsteigebahnhof ist Llandudno Junction, eine Station über die Flussmündung entfernt, und das Stadtzentrum innerhalb der Mauern ist größtenteils zu Fuß erreichbar, sodass es die einfache, stressfreie Wahl ist, das Auto stehen zu lassen und den hundefreundlichen Zug zu nutzen.",
+      "introNl": "Conwy is een compacte ommuurde stad die makkelijk te voet te verkennen is, en de mooiste manier om met een hond aan te komen is met de trein op de North Wales Coast Line, waar honden gratis meereizen. Het belangrijkste overstappunt is Llandudno Junction, één station over de riviermonding, en het stadscentrum binnen de muren is grotendeels te voet bereikbaar, dus de auto laten staan en de hondvriendelijke trein nemen is de simpele, stressvrije keuze.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund mit dem Zug nach Conwy mitnehmen?",
@@ -445,6 +492,16 @@
         {
           "q": "Wie erreiche ich mit Hund von Conwy aus Snowdonia?",
           "a": "Nehmen Sie die hundefreundliche Conwy Valley Line ab Llandudno Junction das Tal hinauf durch Betws-y-Coed nach Blaenau Ffestiniog, mitten in Eryri (Snowdonia). Hunde reisen kostenlos mit, sodass Sie Berg- und Waldwanderungen ohne Auto erreichen können."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond mee in de trein naar Conwy?",
+          "a": "Ja. Bij National Rail reizen maximaal twee honden per passagier gratis mee, aan de lijn of in een reismand. Conwy is een halte op verzoek op de North Wales Coast Line, en het belangrijkste overstappunt Llandudno Junction ligt één station verderop, met frequente kustdiensten en de schilderachtige Conwy Valley Line naar Eryri."
+        },
+        {
+          "q": "Hoe bereik ik Snowdonia vanuit Conwy met een hond?",
+          "a": "Neem de hondvriendelijke Conwy Valley Line vanaf Llandudno Junction de vallei in, via Betws-y-Coed naar Blaenau Ffestiniog, in het hart van Eryri (Snowdonia). Honden reizen gratis mee, zodat je berg- en boswandelingen kunt bereiken zonder auto."
         }
       ]
     },
@@ -520,7 +577,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in der Nähe von Conwy",
+      "titleNl": "Hondvriendelijke stranden bij Conwy",
       "introDe": "Conwy liegt an der Mündung seines Flusses, und die nächstgelegenen Sandstrände sind der weite Conwy Morfa bei der Marina und West Shore im benachbarten Llandudno. Die Hunderegeln sind hier saisonal und von Strand zu Strand unterschiedlich, festgelegt vom Conwy County Borough Council per Public Space Protection Order und gültig vom 1. Mai bis 30. September, mit einem Bußgeld von 100 Pfund bei Verstößen. Conwy Morfa ist ein hundefreundlicher, dünenbestandener Sandabschnitt, während West Shore eine saisonale Sperrzone zwischen seinen zwei Steinbuhnen hat. Assistenzhunde sind ausgenommen. Lesen Sie bei der Ankunft immer die Schilder und Karten an jedem Strand, da sich die Anordnung ändern kann.",
+      "introNl": "Conwy ligt aan de monding van zijn rivier, en de dichtstbijzijnde zandstranden zijn het brede Conwy Morfa bij de marina en West Shore in het naburige Llandudno. De hondenregels zijn hier seizoensgebonden en verschillen per strand, vastgesteld door de Conwy County Borough Council via een Public Space Protection Order en van kracht van 1 mei tot 30 september, met een boete van 100 pond bij overtreding. Conwy Morfa is een hondvriendelijk stuk duinstrand, terwijl West Shore een seizoensgebonden verboden zone heeft tussen zijn twee stenen strekdammen. Assistentiehonden zijn uitgezonderd. Lees bij aankomst altijd de bordjes en kaarten bij elk strand, want de regeling kan veranderen.",
       "faqsDe": [
         {
           "q": "Welcher Strand in der Nähe von Conwy ist hundefreundlich?",
@@ -529,6 +588,16 @@
         {
           "q": "Wann sind Hunde an den Stränden rund um Conwy verboten?",
           "a": "Der Conwy County Borough Council setzt vom 1. Mai bis 30. September saisonale Hundeverbote an den Stränden per Public Space Protection Order durch, mit einem Bußgeld von 100 Pfund bei Verstößen. Die Einschränkungen sind an jedem Strand mit Schildern und Karten gekennzeichnet, etwa die Zone zwischen den Buhnen bei West Shore, prüfen Sie es also immer bei der Ankunft."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welk strand bij Conwy is hondvriendelijk?",
+          "a": "Conwy Morfa, het brede duinstrand bij Conwy Marina, is een van de hondvriendelijke stukken van het gebied, met grootse uitzichten op Eryri. Houd honden aangelijnd bij de marina en de weg. Bij het naburige West Shore zijn honden welkom buiten de seizoensgebonden verboden zone tussen de twee stenen strekdammen."
+        },
+        {
+          "q": "Wanneer zijn honden verboden op de stranden rond Conwy?",
+          "a": "De Conwy County Borough Council hanteert seizoensgebonden hondenbeperkingen op stranden van 1 mei tot 30 september via een Public Space Protection Order, met een vaste boete van 100 pond bij overtreding. De beperkingen zijn met bordjes en kaarten aangegeven bij elk strand, zoals de zone tussen de strekdammen bij West Shore, controleer dit dus altijd bij aankomst."
         }
       ]
     },
@@ -565,8 +634,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cater+Veterinary+Practice+Llandudno+Junction",
           "photo": "",
           "hoursDe": "Sprechstunden werktags tagsüber; Notfallversorgung außerhalb der normalen Öffnungszeiten",
+          "hoursNl": "Spreekuren doordeweeks overdag; spoeddienst buiten de normale openingstijden",
           "descriptionDe": "Eine Kleintierpraxis an der Conwy Road in Llandudno Junction, direkt auf der anderen Seite der Flussmündung von Conwy und die nächstgelegene Praxis zur Stadt. Sie kümmert sich werktags um Routine- und Akutversorgung und organisiert Notfallversorgung außerhalb der normalen Öffnungszeiten.",
-          "tipDe": "Es ist der praktischste Tierarzt für Conwy selbst; rufen Sie tagsüber vorher an und fragen Sie, wie Notfälle über Nacht und am Wochenende abgewickelt werden."
+          "descriptionNl": "Een kleindierenpraktijk aan Conwy Road in Llandudno Junction, net over de riviermonding vanuit Conwy en de dichtstbijzijnde praktijk bij de stad. De praktijk verzorgt doordeweeks routine- en spoedzorg en regelt spoeddienst buiten de normale openingstijden.",
+          "tipDe": "Es ist der praktischste Tierarzt für Conwy selbst; rufen Sie tagsüber vorher an und fragen Sie, wie Notfälle über Nacht und am Wochenende abgewickelt werden.",
+          "tipNl": "Dit is de handigste dierenarts voor Conwy zelf; bel overdag van tevoren en vraag hoe zij nachtelijke en weekendspoedgevallen afhandelen."
         },
         {
           "name": "Murphy & Co Vets (Llandudno)",
@@ -590,8 +662,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Murphy+and+Co+Vets+Llandudno",
           "photo": "",
           "hoursDe": "Sprechstunden werktags tagsüber; Notdienst außerhalb der Öffnungszeiten",
+          "hoursNl": "Spreekuren doordeweeks overdag; spoeddienst buiten kantooruren",
           "descriptionDe": "Eine unabhängige Kleintierpraxis in der Builder Street West in Llandudno, eine kurze Fahrt von Conwy entfernt, die Routine- und Akutversorgung mit einem Notdienst außerhalb der Öffnungszeiten anbietet. Sie ist eine zuverlässige zweite Option, wenn Sie in Richtung Llandudno oder Great Orme übernachten.",
-          "tipDe": "Praktisch, wenn Sie in Llandudno übernachten; rufen Sie vorher an und bestätigen Sie die aktuellen Regelungen außerhalb der Öffnungszeiten, bevor Sie sie benötigen."
+          "descriptionNl": "Een onafhankelijke kleindierenpraktijk aan Builder Street West in Llandudno, een korte rit van Conwy, die routine- en spoedzorg biedt met een spoeddienst buiten kantooruren. Het is een betrouwbare tweede optie als je richting Llandudno of Great Orme verblijft.",
+          "tipDe": "Praktisch, wenn Sie in Llandudno übernachten; rufen Sie vorher an und bestätigen Sie die aktuellen Regelungen außerhalb der Öffnungszeiten, bevor Sie sie benötigen.",
+          "tipNl": "Handig als je in Llandudno verblijft; bel van tevoren en bevestig de actuele regelingen buiten kantooruren voordat je ze nodig hebt."
         }
       ],
       "faqsEn": [
@@ -635,7 +710,9 @@
         }
       ],
       "titleDe": "Tierärzte in der Nähe von Conwy",
+      "titleNl": "Dierenartsen bij Conwy",
       "introDe": "Die nächstgelegenen Tierarztpraxen befinden sich direkt auf der anderen Seite der Flussmündung in Llandudno Junction und in Llandudno, wenige Minuten von Conwy entfernt, mit Notfallversorgung außerhalb der Öffnungszeiten über diese Praxen. Englisch wird überall gesprochen. Besucher aus der EU sollten bedenken, dass Großbritannien den EU-Heimtierausweis nicht mehr zur Einreise akzeptiert: Hunde benötigen ein GB Animal Health Certificate, einen Mikrochip, eine gültige Tollwutimpfung und eine Bandwurmbehandlung, die 24 bis 120 Stunden vor der Ankunft verabreicht wurde, reisen Sie also mit allen Unterlagen.",
+      "introNl": "De dichtstbijzijnde dierenartspraktijken bevinden zich net over de riviermonding in Llandudno Junction en in Llandudno, een paar minuten van Conwy, met spoeddienst buiten kantooruren geregeld via deze praktijken. Engels wordt overal gesproken. Bezoekers uit de EU moeten bedenken dat Groot-Brittannië het Europese dierenpaspoort niet meer accepteert voor binnenkomst: honden hebben een GB Animal Health Certificate nodig, een chip, een geldige rabiësvaccinatie en een lintwormbehandeling die 24 tot 120 uur voor aankomst is toegediend, reis dus met alle documenten.",
       "faqsDe": [
         {
           "q": "Gibt es einen Tierarzt in der Nähe von Conwy?",
@@ -644,6 +721,16 @@
         {
           "q": "Welche Unterlagen benötigt mein Hund für die Einreise aus der EU nach Großbritannien?",
           "a": "Großbritannien akzeptiert den EU-Heimtierausweis nicht zur Einreise. Ihr Hund benötigt ein GB Animal Health Certificate, einen Mikrochip und eine gültige Tollwutimpfung sowie eine zugelassene Bandwurmbehandlung, die 24 bis 120 Stunden vor der Ankunft verabreicht wurde, klären Sie dies also vor der Reise mit einem Tierarzt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een dierenarts bij Conwy?",
+          "a": "Ja. De dichtstbijzijnde is Cater Veterinary Practice aan Conwy Road in Llandudno Junction, net over de riviermonding, en Murphy & Co Vets aan Builder Street West in Llandudno biedt nog een optie met een spoeddienst buiten kantooruren. Bel eerst, en vraag hoe zij nacht- en weekendspoedgevallen afhandelen."
+        },
+        {
+          "q": "Welke documenten heeft mijn hond nodig om vanuit de EU Groot-Brittannië binnen te komen?",
+          "a": "Groot-Brittannië accepteert het Europese dierenpaspoort niet voor binnenkomst. Je hond heeft een GB Animal Health Certificate nodig, een chip en een geldige rabiësvaccinatie, plus een goedgekeurde lintwormbehandeling die 24 tot 120 uur voor aankomst is toegediend, regel dit dus met een dierenarts voordat je vertrekt."
         }
       ]
     },
@@ -750,7 +837,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für den Besuch von Conwy mit Hund",
+      "titleNl": "Praktische tips voor een bezoek aan Conwy met hond",
       "introDe": "Conwy ist eine wirklich hundefreundliche Basis zur Erkundung von Nordwales und Eryri, aber zwei Dinge müssen geplant werden: die saisonalen Hunderegeln an den Stränden und, für EU-Besucher, die Post-Brexit-Unterlagen zur Einreise mit Hund nach Großbritannien. Beachten Sie auch, dass Haustiere nicht in Conwy Castle oder auf die Mauerwege dürfen, planen Sie diese Besuche also mit einem Sitter oder wechseln Sie sich ab.",
+      "introNl": "Conwy is een echt hondvriendelijke uitvalsbasis om Noord-Wales en Eryri te verkennen, maar twee dingen moeten gepland worden: de seizoensgebonden hondenregels op de stranden en, voor EU-bezoekers, de post-Brexit-documenten om met een hond Groot-Brittannië binnen te komen. Let er ook op dat huisdieren niet in Conwy Castle of op de muurwandelpaden mogen, plan die bezoeken dus met een oppas of wissel elkaar af.",
       "faqsDe": [
         {
           "q": "Ist Conwy ein guter Ort für einen Besuch mit Hund?",
@@ -759,6 +848,16 @@
         {
           "q": "Benötigen EU-Besucher besondere Unterlagen, um einen Hund nach Conwy mitzubringen?",
           "a": "Ja. Da Conwy in Großbritannien liegt, können EU-Besucher den EU-Heimtierausweis nicht verwenden. Ihr Hund benötigt ein GB Animal Health Certificate, das innerhalb von 10 Tagen vor der Reise ausgestellt wurde, einen Mikrochip, eine gültige Tollwutimpfung und eine Bandwurmbehandlung 24 bis 120 Stunden vor der Ankunft."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Conwy een goede plek om met een hond te bezoeken?",
+          "a": "Ja, het is een van de meest hondvriendelijke steden van Noord-Wales, met hondvriendelijke pubs en cafés, gratis meereizende honden in de trein, en prachtige heuvel- en riviermondingwandelingen, waaronder Conwy Mountain en de Eryri-routes. De belangrijkste uitzonderingen zijn het binnenste van Conwy Castle en de muurwandelpaden, waar alleen assistentiehonden toegang hebben."
+        },
+        {
+          "q": "Hebben EU-bezoekers speciale documenten nodig om een hond mee te nemen naar Conwy?",
+          "a": "Ja. Omdat Conwy in Groot-Brittannië ligt, kunnen EU-bezoekers het Europese dierenpaspoort niet gebruiken. Je hond heeft een GB Animal Health Certificate nodig dat binnen 10 dagen voor vertrek is uitgegeven, een chip, een geldige rabiësvaccinatie en een lintwormbehandeling 24 tot 120 uur voor aankomst."
         }
       ]
     },
@@ -795,9 +894,13 @@
           "tipPt": "Para a melhor vista que aceita cães, percorra a margem do estuário ou a zona da histórica ponte suspensa de Telford; se quiser entrar, planeie um cuidador ou revezem-se.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Conwy+Castle",
           "descriptionDe": "Eine der schönsten erhaltenen mittelalterlichen Festungen Europas, erbaut von Edward I. in den 1280er-Jahren, ein UNESCO-Weltkulturerbe mit acht mächtigen Türmen über der Flussmündung. Haustiere sind im Inneren des Schlosses nicht zugelassen, nur Assistenzhunde, aber es wirkt großartig vom Kai, dem Flussufer und der Stadt darunter aus, die alle hundefreundlich sind.",
+          "descriptionNl": "Een van de mooist bewaard gebleven middeleeuwse vestingen van Europa, gebouwd door Edward I in de jaren 1280, een UNESCO-Werelderfgoedsite met acht machtige torens boven de riviermonding. Huisdieren zijn niet toegelaten binnen het kasteel, alleen assistentiehonden, maar het oogt geweldig vanaf de kade, de rivieroever en de stad eronder, die allemaal hondvriendelijk zijn.",
           "dogPolicyDe": "Nur Assistenzhunde im Inneren des Schlosses; Haustiere sind an der Leine rund um den Kai, die Stadt und die Flussmündung willkommen, um es von außen zu bewundern.",
+          "dogPolicyNl": "Alleen assistentiehonden binnen het kasteel; huisdieren welkom aan de lijn rond de kade, de stad en de riviermonding om het van buitenaf te bewonderen.",
           "admissionFeeDe": "Schlossinneres kostenpflichtig (Cadw); die Besichtigung vom Kai und der Flussmündung ist kostenlos",
-          "tipDe": "Für den besten hundefreundlichen Blick spazieren Sie am Flussufer entlang oder über den Bereich der historischen Telford-Hängebrücke; wenn Sie hineingehen möchten, planen Sie einen Sitter ein oder wechseln Sie sich ab."
+          "admissionFeeNl": "Kasteelinterieur met ticket (Cadw); bekijken vanaf de kade en riviermonding is gratis",
+          "tipDe": "Für den besten hundefreundlichen Blick spazieren Sie am Flussufer entlang oder über den Bereich der historischen Telford-Hängebrücke; wenn Sie hineingehen möchten, planen Sie einen Sitter ein oder wechseln Sie sich ab.",
+          "tipNl": "Voor het beste hondvriendelijke uitzicht wandel je langs de rivieroever of bij het gebied van de historische Telford-hangbrug; wil je naar binnen, plan dan een oppas of wissel elkaar af."
         },
         {
           "name": "The Smallest House in Great Britain",
@@ -822,9 +925,13 @@
           "tipPt": "Fica mesmo no cais junto aos barcos de pesca e às muralhas, um acréscimo fácil a um passeio pelo porto e estuário com o cão.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Smallest+House+in+Great+Britain+Conwy+Quay",
           "descriptionDe": "Das berühmte, leuchtend rote Quay House am Conwy Quay, nur 183 Zentimeter breit und offizieller Rekordhalter für das kleinste Haus Großbritanniens. Das Haus selbst ist winzig, steht aber am hundefreundlichen Kai, sodass es ein spaßiger Fotostopp bei einem Hafenspaziergang unterhalb der Schlossmauern ist.",
+          "descriptionNl": "Het beroemde, felrode Quay House aan Conwy Quay, slechts 183 centimeter breed en officieel recordhouder voor het kleinste huis van Groot-Brittannië. Het huis zelf is piepklein, maar staat aan de hondvriendelijke kade, dus het is een leuke fotostop tijdens een havenwandeling onder de kasteelmuren.",
           "dogPolicyDe": "Der Kai ist an der Leine hundefreundlich; das winzige Innere ist für Hunde nicht geeignet, aber der Fotostopp draußen ist kostenlos zu genießen.",
+          "dogPolicyNl": "De kade is hondvriendelijk aan de lijn; het piepkleine interieur is niet geschikt voor honden, maar de fotostop buiten is gratis te genieten.",
           "admissionFeeDe": "Kleine Gebühr für einen Blick ins Innere; die Aussicht vom Kai ist kostenlos",
-          "tipDe": "Es liegt direkt am Kai neben den Fischerbooten und den Stadtmauern, eine einfache Ergänzung zu einem Hafen- und Flussmündungsspaziergang mit dem Hund."
+          "admissionFeeNl": "Kleine vergoeding om binnen te kijken; het uitzicht vanaf de kade is gratis",
+          "tipDe": "Es liegt direkt am Kai neben den Fischerbooten und den Stadtmauern, eine einfache Ergänzung zu einem Hafen- und Flussmündungsspaziergang mit dem Hund.",
+          "tipNl": "Het ligt direct aan de kade naast de vissersboten en de stadsmuren, een makkelijke toevoeging aan een haven- en riviermondingwandeling met de hond."
         },
         {
           "name": "Conwy Town Walls and Quay",
@@ -849,9 +956,13 @@
           "tipPt": "Siga a base das muralhas e o cais para as melhores vistas que aceitam cães; as ruas são estreitas e movimentadas no verão, por isso uma trela curta ajuda.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Conwy+Town+Walls+Quay",
           "descriptionDe": "Conwys nahezu vollständiger Ring aus Stadtmauern aus dem 13. Jahrhundert, mit 21 Türmen und drei Toren, gehört zu den schönsten Europas und umschließt einen lebendigen Hafen und Kai. Hunde dürfen aus Sicherheitsgründen nicht auf die schmalen Mauerwege, aber die gesamte ummauerte Altstadt, der Kai und der Hafen darunter bieten wunderbares, hundefreundliches Erkunden im Freien.",
+          "descriptionNl": "Conwys bijna volledige ring van 13e-eeuwse stadsmuren, met 21 torens en drie poorten, behoort tot de mooiste van Europa en omsluit een levendige haven en kade. Honden mogen om veiligheidsredenen niet op de smalle muurwandelpaden, maar de hele ommuurde binnenstad, de kade en de haven eronder bieden geweldig, hondvriendelijk verkennen in de buitenlucht.",
           "dogPolicyDe": "Hunde sind auf den Mauerwegen nicht erlaubt; an der Leine willkommen in der gesamten ummauerten Altstadt, am Kai und im Hafen darunter.",
+          "dogPolicyNl": "Honden niet toegestaan op de muurwandelpaden; welkom aan de lijn in de hele ommuurde binnenstad, kade en haven eronder.",
           "admissionFeeDe": "Kostenlos, um die Stadt und den Kai zu erkunden; der Mauerweg ist eine separate Cadw-Route (keine Hunde)",
-          "tipDe": "Folgen Sie dem Fuß der Mauern und dem Kai für die besten hundefreundlichen Ausblicke; die Straßen sind eng und im Sommer belebt, eine kurze Leine hilft also."
+          "admissionFeeNl": "Gratis om door de stad en langs de kade te wandelen; het muurwandelpad is een aparte Cadw-route (geen honden)",
+          "tipDe": "Folgen Sie dem Fuß der Mauern und dem Kai für die besten hundefreundlichen Ausblicke; die Straßen sind eng und im Sommer belebt, eine kurze Leine hilft also.",
+          "tipNl": "Volg de voet van de muren en de kade voor de beste hondvriendelijke uitzichten; de straten zijn smal en druk in de zomer, dus een korte lijn helpt."
         }
       ],
       "tipsEn": [
@@ -915,7 +1026,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Conwy",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Conwy",
       "introDe": "Conwys großes mittelalterliches Prunkstück, das Schloss, ist von außen beeindruckend, lässt im Inneren aber nur Assistenzhunde zu, und Hunde sind auf den schmalen Mauerwegen nicht erlaubt. Alles andere jedoch ist eine Hundestadt: der Kai unterhalb der Mauern, das winzige Smallest House in Great Britain, die Flussmündung und der Hafen sind alles hundefreundliche Orte im Freien zum Erkunden. Betrachten Sie das Schloss vom Kai oder von der Flussmündung aus, dann kann ein Hund fast die ganze Stadt mit Ihnen teilen.",
+      "introNl": "Conwys grote middeleeuwse pronkstuk, het kasteel, is indrukwekkend van buiten, maar laat binnen alleen assistentiehonden toe, en honden mogen niet op de smalle muurwandelpaden. Al het andere is echter een hondenstad: de kade onder de muren, het piepkleine Smallest House in Great Britain, de riviermonding en de haven zijn allemaal hondvriendelijke plekken in de buitenlucht om te verkennen. Bekijk het kasteel vanaf de kade of de riviermonding, dan kan een hond bijna de hele stad met je delen.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund mit in Conwy Castle nehmen?",
@@ -924,6 +1037,16 @@
         {
           "q": "Ist die Altstadt von Conwy hundefreundlich?",
           "a": "Sehr. Die Straßen innerhalb der Mauern, der Kai, der Hafen und das Smallest House am Kai sind alles Orte im Freien, kostenlos und für Hunde an der Leine offen. Die einzigen Ausnahmen sind das Innere des Schlosses und die Mauerwege, die nur Assistenzhunde zulassen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen in Conwy Castle?",
+          "a": "Nee, alleen assistentiehonden zijn toegelaten binnen Conwy Castle en op de muurwandelpaden van de stad, vanwege de nauwe ruimtes en het hoge aantal bezoekers. Huisdieren zijn overal elders welkom aan de lijn, en het kasteel oogt prachtig vanaf de hondvriendelijke kade, rivieroever en stad eronder."
+        },
+        {
+          "q": "Is de oude binnenstad van Conwy hondvriendelijk?",
+          "a": "Zeer. De straten binnen de muren, de kade, de haven en het Smallest House aan de kade zijn allemaal buitenplekken, gratis en open voor honden aan de lijn. De enige uitzonderingen zijn het binnenste van het kasteel en de muurwandelpaden, waar alleen assistentiehonden toegang hebben."
         }
       ]
     },
@@ -957,8 +1080,11 @@
           "tipEs": "Escribe a dos o tres cuidadores pronto y organiza un breve encuentro previo a tu viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
           "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço.",
           "descriptionDe": "Die größte Haustierbetreuungsplattform in Großbritannien, mit lokalen Hundesittern, Pensionsstellen und Gassigehern rund um Conwy, Llandudno und das Conwy-Tal. Jeder Sitter hat ein Profil, Bewertungen und Fotos, und Sie buchen und bezahlen über die App mit inbegriffenem Versicherungsschutz.",
+          "descriptionNl": "Het grootste huisdierenzorgplatform van Groot-Brittannië, met lokale hondensitters, pensions en uitlaters vermeld rond Conwy, Llandudno en de Conwy-vallei. Elke sitter heeft een profiel, beoordelingen en foto's, en je boekt en betaalt via de app met inbegrepen verzekering.",
           "serviceTypeDe": "Hundepension, Tagesbetreuung, Kurzbesuche und Gassigehen",
-          "tipDe": "Kontaktieren Sie früh zwei oder drei Sitter und vereinbaren Sie vor Ihrer Reise ein kurzes Kennenlerntreffen, damit sich Ihr Hund wohlfühlt, bevor Sie die Betreuung benötigen."
+          "serviceTypeNl": "Hondenpension, dagopvang, kortdurende bezoekjes en uitlaten",
+          "tipDe": "Kontaktieren Sie früh zwei oder drei Sitter und vereinbaren Sie vor Ihrer Reise ein kurzes Kennenlerntreffen, damit sich Ihr Hund wohlfühlt, bevor Sie die Betreuung benötigen.",
+          "tipNl": "Neem vroeg contact op met twee of drie sitters en regel een kort kennismakingsgesprek voor je reis, zodat je hond zich op zijn gemak voelt voordat je opvang nodig hebt."
         },
         {
           "name": "Tailster",
@@ -980,8 +1106,11 @@
           "tipEs": "Informa al cuidador sobre la llamada de vuelta de tu perro ante el ganado, ya que los paseos locales suelen usar Conwy Mountain y las colinas donde pastan ovejas y ponis.",
           "tipPt": "Informe o cuidador sobre a chamada de retorno do seu cão perto do gado, já que os passeios locais usam muitas vezes a Conwy Mountain e as colinas onde pastam ovelhas e póneis.",
           "descriptionDe": "Ein landesweites Netzwerk versicherter, geprüfter Gassigeher und Sitter, das Sie anhand Ihrer Daten und der Bedürfnisse Ihres Hundes mit lokalen Betreuern zusammenbringt. Es ist eine nützliche Alternative zu Rover, um einen Schlossbesuch oder ein langes Abendessen in Conwy abzudecken.",
+          "descriptionNl": "Een landelijk netwerk van verzekerde, gecontroleerde uitlaters en oppassers dat je koppelt aan lokale verzorgers op basis van je data en de behoeften van je hond. Het is een handig alternatief voor Rover om een kasteelbezoek of een lang diner in Conwy op te vangen.",
           "serviceTypeDe": "Gassigehen, Tagesbetreuung und Hundepension zu Hause",
-          "tipDe": "Informieren Sie den Betreuer über den Rückruf Ihres Hundes in der Nähe von Vieh, da lokale Spaziergänge oft über den Conwy Mountain und die Hügel führen, auf denen Schafe und Ponys weiden."
+          "serviceTypeNl": "Uitlaten, dagopvang en pension aan huis",
+          "tipDe": "Informieren Sie den Betreuer über den Rückruf Ihres Hundes in der Nähe von Vieh, da lokale Spaziergänge oft über den Conwy Mountain und die Hügel führen, auf denen Schafe und Ponys weiden.",
+          "tipNl": "Vertel de verzorger over de terugroepbaarheid van je hond bij vee, aangezien lokale wandelingen vaak over Conwy Mountain en de heuvels gaan waar schapen en pony's grazen."
         }
       ],
       "tipsEn": [
@@ -1045,7 +1174,9 @@
         }
       ],
       "titleDe": "Hundesitting und Gassigehen in Conwy",
+      "titleNl": "Hondenoppas en uitlaten in Conwy",
       "introDe": "Für die wenigen Orte, an die ein Hund nicht darf, vor allem das Innere von Conwy Castle und die Mauerwege, verbinden Sie nationale Plattformen mit geprüften lokalen Sittern und Gassigehern rund um Conwy, Llandudno und das Conwy-Tal. Buchen Sie im Voraus für Sommerwochenenden und Schulferien, wenn diese beliebte Ecke von Nordwales voll wird und lokale Betreuer schnell ausgebucht sind.",
+      "introNl": "Voor de paar plekken waar een hond niet naartoe mag, vooral het binnenste van Conwy Castle en de muurwandelpaden, verbinden landelijke platforms je met gecontroleerde lokale oppassers en uitlaters rond Conwy, Llandudno en de Conwy-vallei. Boek van tevoren voor zomerweekenden en schoolvakanties, wanneer dit populaire hoekje van Noord-Wales vol raakt en lokale verzorgers snel volgeboekt zijn.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Hundesitter in Conwy?",
@@ -1054,6 +1185,16 @@
         {
           "q": "Kann ich meinen Hund lassen, während ich Conwy Castle besuche?",
           "a": "Ja. Da im Inneren von Conwy Castle und auf den Mauerwegen nur Assistenzhunde erlaubt sind, ist ein lokaler Sitter oder eine Tagesbetreuung über Rover oder Tailster ideal für einen Schlossbesuch. Teilen Sie dem Betreuer die Tierarztdaten Ihres Hundes und seinen Rückruf in der Nähe von Vieh mit und vereinbaren Sie zuerst ein Kennenlerntreffen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe vind ik een hondenoppas in Conwy?",
+          "a": "Landelijke platforms zoals Rover en Tailster vermelden gecontroleerde, verzekerde oppassers, pensions en uitlaters in Conwy, Llandudno en de Conwy-vallei. Je bekijkt profielen en beoordelingen, regelt een kennismakingsgesprek en boekt via de app; reserveer vroeg voor zomerweekenden en schoolvakanties."
+        },
+        {
+          "q": "Kan ik mijn hond achterlaten terwijl ik Conwy Castle bezoek?",
+          "a": "Ja. Omdat alleen assistentiehonden binnen Conwy Castle en op de muurwandelpaden zijn toegestaan, is een lokale oppas of dagopvang via Rover of Tailster ideaal voor een kasteelbezoek. Deel de dierenartsgegevens van je hond en zijn terugroepbaarheid bij vee met de verzorger, en regel eerst een kennismakingsgesprek."
         }
       ]
     }

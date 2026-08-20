@@ -41,9 +41,13 @@
           "tipPt": "Reserve uma mesa na esplanada antecipadamente para as noites de fim de semana; o jardim enche rapidamente. Os cães prendem-se aos postes da vedação da esplanada; as tigelas de água são trazidas a pedido",
           "googleMapsUrl": "https://maps.google.com/?q=Joben+Bistro+Cluj-Napoca",
           "descriptionDe": "Eines der gefeiertsten Restaurants von Cluj, untergebracht in einem Steampunk-inspirierten Raum in einer historischen Villa mit einem großen, für Hunde vollständig zugänglichen Terrassengarten. Die Karte bietet moderne rumänische Küche mit europäischen Einflüssen: langsam gegartes Fleisch, saisonales Gemüse und ausgezeichnete lokale Weine. Die Terrasse ist teilweise überdacht und daher auch bei leichtem Regen nutzbar; die entspannte Atmosphäre macht sie bei Hundebesitzern beliebt. Eine echte Institution in Cluj.",
+          "descriptionNl": "Een van de meest geliefde restaurants van Cluj, gevestigd in een Steampunk-geïnspireerde ruimte in een historische villa met een grote tuinterras die volledig open is voor honden. De kaart is modern Roemeens met Europese invloeden: langzaam gegaard vlees, seizoensgroenten en uitstekende lokale wijnen. Het terras is deels overdekt, waardoor je er ook bij lichte regen terecht kunt, en de ontspannen sfeer maakt het een favoriet bij hondenbezitters. Een echte instelling in Cluj.",
           "petPolicyDe": "Hunde auf der Gartenterrasse willkommen",
+          "petPolicyNl": "Honden welkom op het tuinterras",
           "mustTryDe": "Langsam gegartes Schweinshaxe, saisonales Pilzrisotto, lokaler siebenbürgischer Wein (Feteasca Neagra)",
-          "tipDe": "Reservieren Sie für Wochenendabende im Voraus einen Terrassentisch; der Garten füllt sich schnell. Hunde werden an den Terrassenzaunpfosten angebunden; Wassernäpfe werden auf Anfrage gebracht"
+          "mustTryNl": "Langzaam gegaarde varkensschenkel, risotto met seizoenspaddenstoelen, lokale Transsylvanische wijn (Feteasca Neagra)",
+          "tipDe": "Reservieren Sie für Wochenendabende im Voraus einen Terrassentisch; der Garten füllt sich schnell. Hunde werden an den Terrassenzaunpfosten angebunden; Wassernäpfe werden auf Anfrage gebracht",
+          "tipNl": "Boek voor weekendavonden van tevoren een tafel op het terras, want de tuin loopt snel vol. Je kunt je hond vastmaken aan de paaltjes van het terrashek; waterbakjes worden op verzoek gebracht"
         },
         {
           "name": "Cafeneaua Bulgakov",
@@ -71,9 +75,13 @@
           "tipPt": "O pátio é favorito dos locais nas manhãs de dia de semana; chegue antes das 11h00 para a atmosfera mais calma com um cão",
           "googleMapsUrl": "https://maps.google.com/?q=Cafeneaua+Bulgakov+Cluj-Napoca",
           "descriptionDe": "Ein beliebtes literarisches Cafe in der historischen Altstadt von Cluj mit einem schattigen Innenhof (curte), der zu einem der hundefreundlichsten Orte der Stadt geworden ist. Benannt nach dem russischen Schriftsteller, serviert das Cafe ausgezeichneten Kaffee, kleine Gerichte und gelegentlich Live-Jazz. Der Innenhof liegt abseits der Hauptstraße, wird von alten Bäumen beschattet und hat trotz seiner zentralen Lage ein intimes Nachbarschaftsgefühl. Hunde gehören hier ebenso zum Bild wie die Studierenden, die den Ort zu ihrem Büro machen.",
+          "descriptionNl": "Een geliefd literair café van Cluj in het historische centrum, met een schaduwrijke binnenplaats (curte) die is uitgegroeid tot een van de meest hondvriendelijke plekjes van de stad. Vernoemd naar de Russische schrijver, serveert het café uitstekende koffie, lichte gerechten en af en toe live jazz. De binnenplaats ligt uit het zicht van de hoofdstraat, wordt beschaduwd door volwassen bomen en heeft een intieme buurtsfeer die volledig in contrast staat met de centrale ligging. Honden zijn er net zo vaste gasten als de studenten die er hun kantoor van maken.",
           "petPolicyDe": "Hunde im Innenhof willkommen",
+          "petPolicyNl": "Honden welkom op de binnenplaats",
           "mustTryDe": "Rumänischer Filterkaffee, hausgemachter Kuchen des Tages, frische Limonade",
-          "tipDe": "Der Innenhof ist bei Einheimischen an Wochentagvormittagen beliebt; kommen Sie vor 11:00 Uhr für die ruhigste Atmosphäre mit Hund"
+          "mustTryNl": "Roemeense filterkoffie, huisgemaakte taart van de dag, verse limonade",
+          "tipDe": "Der Innenhof ist bei Einheimischen an Wochentagvormittagen beliebt; kommen Sie vor 11:00 Uhr für die ruhigste Atmosphäre mit Hund",
+          "tipNl": "De binnenplaats is favoriet bij locals op doordeweekse ochtenden; kom voor 11:00 uur voor de rustigste sfeer met je hond"
         }
       ],
       "tipsEn": [
@@ -137,7 +145,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Cluj-Napoca",
+      "titleNl": "Hondvriendelijke restaurants in Cluj-Napoca",
       "introDe": "Cluj-Napoca hat eine der lebendigsten Cafe- und Restaurantkulturen Rumäniens, getragen von einer großen Studentenschaft und einer aktiven Tech-Community. Die Stadt hat eine wirklich fortschrittliche Haltung gegenüber Hunden im öffentlichen Raum: Terrassenrestaurants in der ganzen Innenstadt, im Bereich des Parcul Central und im Stadtteil Gheorgheni heißen Hunde ganz selbstverständlich willkommen. Die rumänische Hundekultur ist entspannt; niemand schaut zweimal hin, wenn ein Hund unter einem Restauranttisch liegt.",
+      "introNl": "Cluj-Napoca heeft een van de levendigste café- en restaurantculturen van Roemenië, gedreven door zijn grote studentenpopulatie en techcommunity. De stad heeft een echt vooruitstrevende houding tegenover honden in openbare ruimtes: terrasrestaurants in het hele centrum, de omgeving van Parcul Central en de wijk Gheorgheni verwelkomen honden allemaal vanzelfsprekend. De Roemeense hondencultuur is relaxed; niemand kijkt raar op van een hond onder een restauranttafel.",
       "faqsDe": [
         {
           "q": "Sind Restaurants in Cluj-Napoca generell hundefreundlich?",
@@ -146,6 +156,16 @@
         {
           "q": "Wie ist die Restaurant- und Getränkeszene in Cluj-Napoca?",
           "a": "Ausgezeichnet und nach westeuropäischen Maßstäben sehr günstig. Die Stadt hat eine anspruchsvolle Kaffeekultur (ernsthafter Specialty Coffee), eine wachsende Craft-Beer-Szene und Restaurants von traditioneller rumänischer Hausmannskost bis zur modernen europäischen Küche. Die Preise liegen bei etwa 30-40 % der westeuropäischen Vergleichswerte; ein volles Abendessen mit Wein für zwei Personen kostet typischerweise 60-80 RON (13-18 EUR)."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn restaurants in Cluj-Napoca over het algemeen hondvriendelijk?",
+          "a": "Ja. Cluj-Napoca heeft een van de meest hondtolerante eetculturen van Oost-Europa. De Roemeense cultuur kent geen historisch taboe rond honden bij eten; samen met de jonge, internationale techbevolking van de stad zorgt dit ervoor dat vrijwel alle terrasrestaurants honden zonder poespas accepteren. Alleen geklimatiseerde binnenrestaurants (zonder terras) vragen je om je hond buiten te laten."
+        },
+        {
+          "q": "Hoe is de eet- en drinkcultuur in Cluj-Napoca?",
+          "a": "Uitstekend en naar West-Europese maatstaven extreem betaalbaar. De stad heeft een verfijnde koffiecultuur (serieuze specialty coffee), een groeiende craft-bierscene en restaurants variërend van traditionele Roemeense huiskost tot moderne Europese keuken. De prijzen liggen op ongeveer 30-40% van West-Europese equivalenten; een volledig diner met wijn voor twee kost doorgaans 60-80 RON (13-18 EUR)."
         }
       ]
     },
@@ -180,8 +200,11 @@
           "tipPt": "O circuito matinal (06h30-08h30) é quando os donos de cães de Cluj trazem os seus cães; verá dezenas de cães no caminho à beira do lago. O café do parque (à beira do lago) abre às 09h00 e tem assentos de esplanada onde os cães se sentam debaixo da mesa",
           "googleMapsUrl": "https://maps.google.com/?q=Parcul+Central+Simion+Barnutiu+Cluj-Napoca",
           "descriptionDe": "Der zentrale Hauptpark von Cluj-Napoca: 9 Hektar mit einem See, Ruderbooten, altem Baumbestand und breiten Kieswegen. Hunde laufen überall an der Leine (die Parkordnung von Cluj verlangt Leinenpflicht), aber der Park ist groß, und eine Runde um den See dauert etwa 30 Minuten. Am See leben Enten (Hunde in Wassernähe anleinen). Mehrere Cafe- und Restaurantterrassen säumen den Park an der Strada Republicii, alle hundefreundlich.",
+          "descriptionNl": "Het belangrijkste centrale park van Cluj-Napoca: 9 hectare met een meer, roeibootjes, oud bladerdak en brede grindpaden. Honden lopen overal aangelijnd (de parkregels van Cluj verplichten een lijn), maar het park is groot en een rondje om het meer duurt ongeveer 30 minuten. In het meer zwemmen eenden (houd je hond bij het water aangelijnd). Aan de kant van de Strada Republicii grenzen meerdere café- en restaurantterrassen aan het park, allemaal hondvriendelijk.",
           "petPolicyDe": "Überall Leinenpflicht",
-          "tipDe": "In der frühen Morgenrunde (06:30-08:30 Uhr) bringen die Hundebesitzer von Cluj ihre Hunde mit; Sie sehen dutzende Hunde auf dem Uferweg. Das Parkcafe (am See) öffnet um 09:00 Uhr und hat Terrassenplätze, wo Hunde unter dem Tisch liegen"
+          "petPolicyNl": "Overal aanlijnplicht",
+          "tipDe": "In der frühen Morgenrunde (06:30-08:30 Uhr) bringen die Hundebesitzer von Cluj ihre Hunde mit; Sie sehen dutzende Hunde auf dem Uferweg. Das Parkcafe (am See) öffnet um 09:00 Uhr und hat Terrassenplätze, wo Hunde unter dem Tisch liegen",
+          "tipNl": "In het vroege ochtendrondje (06:30-08:30 uur) brengen hondenbezitters uit Cluj hun honden mee; je ziet tientallen honden op het pad langs het meer. Het parkcafé (aan het meer) opent om 09:00 uur en heeft terrasplekken waar honden onder de tafel liggen"
         }
       ],
       "tipsEn": [
@@ -245,7 +268,9 @@
         }
       ],
       "titleDe": "Parks und Grünflächen in Cluj-Napoca",
+      "titleNl": "Parken en groene ruimtes in Cluj-Napoca",
       "introDe": "Cluj-Napoca verfügt für eine Stadt dieser Größe über ausgedehnte Grünflächen. Der Parcul Central (Zentralpark) mit seinem See ist der wichtigste urbane Hundeauslauf; Parcul Feroviarilor und Gradina Botanica bieten Alternativen. Innerhalb von 20-30 Minuten erreicht man die Apuseni-Berge mit echten Wildniswanderungen.",
+      "introNl": "Cluj-Napoca heeft uitgestrekte groene ruimtes voor een stad van dit formaat. Het Parcul Central (Centraal Park) met zijn meer is de belangrijkste stedelijke hondenplek; Parcul Feroviarilor en Gradina Botanica bieden alternatieven. Binnen 20-30 minuten bereik je de Apuseni-bergen voor echte wildernistochten.",
       "faqsDe": [
         {
           "q": "Gibt es in Cluj-Napoca ausgewiesene Freilaufflächen für Hunde?",
@@ -254,6 +279,16 @@
         {
           "q": "Eignet sich Cluj-Napoca für einen verlängerten Wochenendtrip mit Hund?",
           "a": "Ausgezeichnet. Zwei Tage in Cluj sind ideal mit Hund: morgendliche Spaziergänge im Parcul Central, Terrassencafe-Kultur, ein Halbtagesausflug in den Wald von Baciu oder die Ausläufer der Apuseni-Berge und abends Restaurantterrassen in der historischen Altstadt. Die Stadt ist kompakt (fußläufiges Zentrum), sehr erschwinglich, und die Hundekultur zählt zu den entspanntesten in Europa."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er aangewezen aanlijnvrije hondenplekken in Cluj-Napoca?",
+          "a": "Cluj-Napoca heeft een paar aangewezen hondenrenvelden (zona caini), maar die zijn klein en liggen vooral in woonwijken. In de belangrijkste parken (Parcul Central, Parcul Feroviarilor) moet je hond aangelijnd zijn. Voor aanlijnvrije beweging is het bos van Baciu (7 km) de praktische oplossing: onaangeduid bos waar honden vrij rondrennen en niemand controleert."
+        },
+        {
+          "q": "Is Cluj-Napoca goed voor een lang weekend met je hond?",
+          "a": "Uitstekend. Twee dagen in Cluj zijn ideaal met een hond: ochtendwandelingen in Parcul Central, terrascafécultuur, een halve dag naar het bos van Baciu of de uitlopers van de Apuseni-bergen, en 's avonds restaurantterrassen in het historische centrum. De stad is compact (centrum te voet te doen), extreem betaalbaar, en de hondencultuur is een van de meest ontspannen van Europa."
         }
       ]
     },
@@ -328,7 +363,9 @@
         }
       ],
       "titleDe": "Mit dem Hund nach Cluj-Napoca reisen",
+      "titleNl": "Met je hond naar Cluj-Napoca reizen",
       "introDe": "Der internationale Flughafen Cluj-Napoca (CLJ) bietet Direktflüge von großen europäischen Drehkreuzen (London, Wien, Amsterdam, Frankfurt, Brüssel, Paris). Rumänien ist EU-Mitgliedstaat; der EU-Heimtierausweis wird anerkannt. Innerhalb der Stadt sind das Straßenbahn- und Busnetz sowie lokale Taxis die Hauptoptionen; Hunde in Transportboxen sind in öffentlichen Verkehrsmitteln erlaubt.",
+      "introNl": "Internationale luchthaven Cluj-Napoca (CLJ) heeft directe vluchten vanaf grote Europese hubs (Londen, Wenen, Amsterdam, Frankfurt, Brussel, Parijs). Roemenië is EU-lidstaat; het Europese dierenpaspoort wordt geaccepteerd. Binnen de stad zijn het tram- en busnet en lokale taxi's de belangrijkste opties; honden in reismanden zijn toegestaan in het openbaar vervoer.",
       "faqsDe": [
         {
           "q": "Ist der Flughafen von Cluj-Napoca bei der Ankunft hundefreundlich?",
@@ -337,6 +374,16 @@
         {
           "q": "Darf ich meinen Hund in der Straßenbahn von Cluj-Napoca mitnehmen?",
           "a": "Ja, Hunde in Transportboxen sind in öffentlichen Verkehrsmitteln von Cluj (Straßenbahnen und Busse) erlaubt. Große Hunde ohne Transportbox benötigen Maulkorb und Leine und können zu Stoßzeiten nach Ermessen des Fahrers abgewiesen werden. In der Praxis wird ein großer Hund außerhalb der Stoßzeiten selten abgewiesen. Für Besichtigungen in der Innenstadt sind die Entfernungen zu Fuß gut zu bewältigen; für einen größeren Hund ist ein Taxi die einfachste Option."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is de luchthaven van Cluj-Napoca hondvriendelijk bij aankomst?",
+          "a": "Ja. CLJ is een kleine, overzichtelijke regionale luchthaven. Honden in goedgekeurde reismanden mogen door de terminal. Buiten de aankomsthal is een groen gebied waar honden na de vlucht hun behoefte kunnen doen. De luchthaven ligt 8 km van de stad; alle taxi's accepteren honden (bevestig dit voor grote honden)."
+        },
+        {
+          "q": "Mag mijn hond mee in de tram van Cluj-Napoca?",
+          "a": "Ja, honden in reismanden zijn toegestaan in het openbaar vervoer van Cluj (trams en bussen). Grote honden zonder mand hebben een muilkorf en lijn nodig en kunnen tijdens drukke uren naar goeddunken van de chauffeur geweigerd worden. In de praktijk wordt een grote hond buiten de spits zelden geweigerd. Voor sightseeing in het centrum zijn de afstanden goed te voet af te leggen; voor een grotere hond is een taxi de makkelijkste optie."
         }
       ]
     },
@@ -395,11 +442,19 @@
         }
       ],
       "titleDe": "Wasser und Natur bei Cluj-Napoca",
+      "titleNl": "Water en natuur bij Cluj-Napoca",
       "introDe": "Cluj-Napoca ist eine Binnenstadt ohne Meeresküste, aber die Region verfügt über Seen, Flüsse und Stauseen in leicht erreichbarer Nähe. Der Tarnita-See (25 km) und der Belis-Fantanele-See (70 km, Apuseni-Berge) sind die wichtigsten Ziele zum Schwimmen mit Hund.",
+      "introNl": "Cluj-Napoca is een landinwaarts gelegen stad zonder zeekust, maar de regio heeft meren, rivieren en stuwmeren die makkelijk te bereiken zijn. Het Tarnita-meer (25 km) en het Belis-Fantanele-meer (70 km, Apuseni-bergen) zijn de belangrijkste zwemplekken voor honden.",
       "faqsDe": [
         {
           "q": "Gibt es einen Strand in der Nähe von Cluj-Napoca?",
           "a": "Kein Meeresstrand, aber der Tarnita-See (25 km) hat grasbewachsene Ufer, an denen Hunde schwimmen. Mehrere Einheimische haben informelle 'Strand'-Bereiche mit Gras, Feuerstellen und Liegestühlen angelegt. Im Sommer baden dort Rumänen frei; Hunde begleiten sie ohne jede Einschränkung."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een strand bij Cluj-Napoca?",
+          "a": "Geen strand aan zee, maar het Tarnita-meer (25 km) heeft grazige oevers waar honden kunnen zwemmen. Verschillende locals hebben informele 'strandjes' aangelegd met gras, vuurplaatsen en ligstoelen. In de zomer zwemmen Roemenen daar vrij; honden doen zonder enige beperking mee."
         }
       ]
     },
@@ -474,7 +529,9 @@
         }
       ],
       "titleDe": "Tierärzte und Haustierdienste in Cluj-Napoca",
+      "titleNl": "Dierenartsen en huisdierdiensten in Cluj-Napoca",
       "introDe": "Cluj-Napoca verfügt über eine starke tierärztliche Infrastruktur für eine rumänische Stadt dieser Größe: mehrere Fachkliniken, 24-Stunden-Notdienste und die Universität für Agrarwissenschaften und Tiermedizin von Cluj-Napoca (USAMV), eine der führenden tiermedizinischen Ausbildungsstätten Rumäniens.",
+      "introNl": "Cluj-Napoca heeft een sterke dierenartsinfrastructuur voor een Roemeense stad van dit formaat: verschillende multidisciplinaire dierenklinieken, 24-uursspoeddiensten en de Universiteit voor Landbouwwetenschappen en Diergeneeskunde van Cluj-Napoca (USAMV), een van de toonaangevende diergeneeskundige opleidingsinstellingen van Roemenië.",
       "faqsDe": [
         {
           "q": "Gibt es in Cluj-Napoca 24-Stunden-Tiernotdienste?",
@@ -483,6 +540,16 @@
         {
           "q": "Benötige ich für Rumänien zusätzliche Dokumente über den EU-Heimtierausweis hinaus?",
           "a": "Nein. Rumänien ist vollwertiger EU-Mitgliedstaat. Der standardmäßige EU-Heimtierausweis mit aktueller Tollwutimpfung (mindestens 21 Tage vor der Reise verabreicht) und Mikrochip ist alles, was erforderlich ist. Für Reisen innerhalb der EU sind kein zusätzliches Gesundheitszeugnis, kein Titertest und keine Bescheinigung über eine Parasitenbehandlung nötig."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er 24-uursdierenartsen in Cluj-Napoca?",
+          "a": "Ja. Cluj-Napoca heeft 24-uursspoedklinieken voor dieren. Vraag bij aankomst bij je accommodatie naar het actuele nummer van de spoedarts, want de gegevens van klinieken veranderen wel eens. De dierenkliniek van USAMV (universitair opleidingsziekenhuis) heeft ook spoeddiensten."
+        },
+        {
+          "q": "Heb ik voor Roemenië extra documenten nodig naast het Europese dierenpaspoort?",
+          "a": "Nee. Roemenië is volwaardig EU-lidstaat. Het standaard Europese dierenpaspoort met actuele rabiësvaccinatie (minstens 21 dagen voor vertrek toegediend) en microchip is alles wat nodig is. Voor reizen binnen de EU is geen extra gezondheidsverklaring, titertest of ontwormingsverklaring vereist."
         }
       ]
     },
@@ -548,7 +615,9 @@
         }
       ],
       "titleDe": "Wichtige Tipps für den Besuch von Cluj-Napoca mit Hund",
+      "titleNl": "Essentiële tips voor een bezoek aan Cluj-Napoca met je hond",
       "introDe": "Cluj-Napoca ist ein unterschätztes Reiseziel für Hundebesitzer in Europa: erschwinglich, wirklich hundetolerant, mit ausgezeichneter Cafekultur, einer schönen historischen Altstadt und einfachem Zugang zu den Apuseni-Bergen. Die Stadt belohnt ein langsameres Tempo; ein Besuch von 3-4 Tagen bietet genug Zeit, um die Altstadt zu erkunden, einen Waldspaziergang zu machen und die Terrassenkultur zu genießen.",
+      "introNl": "Cluj-Napoca is een ondergewaardeerde reisbestemming in Europa om met je hond naartoe te gaan: betaalbaar, echt hondtolerant, met een uitstekende cafécultuur, een prachtig historisch centrum en makkelijke toegang tot de Apuseni-bergen. De stad beloont een rustiger tempo; een bezoek van 3-4 dagen geeft genoeg tijd om het centrum te verkennen, een boswandeling te maken en van de terrascultuur te genieten.",
       "faqsDe": [
         {
           "q": "Ist Cluj-Napoca sicher, um mit Hunden auf der Straße zu gehen?",
@@ -557,6 +626,16 @@
         {
           "q": "Wie schneidet Cluj-Napoca im Vergleich zu anderen rumänischen Städten für Reisen mit Hund ab?",
           "a": "Cluj ist die beste rumänische Stadt für Reisen mit Hund. Bukarest ist größer mit mehr Infrastruktur, aber stressiger (Verkehr, Hitze, Größe der Stadt). Sibiu ist eine schöne historische Stadt und hundefreundlich, aber kleiner mit weniger Einrichtungen. Brasov ist ausgezeichnet (Bergzugang, schöne Altstadt), aber Cluj gewinnt bei Cafekultur, Restaurantszene und Zugang zu den Apuseni-Bergen gegenüber den Bucegi-Bergen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is het veilig om met je hond door de straten van Cluj-Napoca te lopen?",
+          "a": "Ja, heel veilig. Het Roemeense verkeer in het centrum van Cluj beweegt zich langzaam; het historische centrum en de universiteitswijk hebben voetgangersgebieden en brede trottoirs. De belangrijkste voetgangerszone (Bulevardul Eroilor, Piata Unirii) is een van de breedste en aangenaamste wandelgebieden in het centrum van Roemenië."
+        },
+        {
+          "q": "Hoe verhoudt Cluj-Napoca zich tot andere Roemeense steden voor reizen met hond?",
+          "a": "Cluj is de beste Roemeense stad om met hond naartoe te reizen. Boekarest is groter met meer infrastructuur, maar stressvoller (verkeer, hitte, stedelijke schaal). Sibiu is een prachtige historische stad en hondvriendelijk, maar kleiner met minder voorzieningen. Brasov is uitstekend (bergtoegang, mooie oude stad), maar Cluj wint op cafécultuur, restaurantscene en toegang tot de Apuseni-bergen boven de Bucegi."
         }
       ]
     },
@@ -615,11 +694,19 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Cluj-Napoca",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Cluj-Napoca",
       "introDe": "Die historische Altstadt von Cluj-Napoca ist eine fußläufige, hundefreundliche Stadtlandschaft: barocke und gotische Architektur, der weitläufige Piata Unirii, die St.-Michaels-Kirche aus dem 15. Jahrhundert und der Bánffy-Palast. Hunde gehen an der Leine durch die gesamte Altstadt. Tagesausflüge zur Turda-Schlucht (30 km) und in die Apuseni-Berge sind die Höhepunkte im Freien.",
+      "introNl": "Het historische centrum van Cluj-Napoca is een goed te belopen, hondvriendelijk stadslandschap: barokke en gotische architectuur, het uitgestrekte Piata Unirii, de 15e-eeuwse Sint-Michaëlskerk en het Bánffy-paleis. Honden lopen aangelijnd door het hele centrum. Dagtripjes naar de Turda-kloof (30 km) en de Apuseni-bergen zijn de hoogtepunten in de buitenlucht.",
       "faqsDe": [
         {
           "q": "Kann ich Draculas Schloss (Schloss Bran) von Cluj aus mit Hund besuchen?",
           "a": "Schloss Bran liegt 165 km von Cluj entfernt (2,5 Stunden). Hunde sind im Schloss selbst nicht erlaubt (Innenraum-Museum). Schloss Bran verfügt über ein Gelände mit einem kleinen Park; Sie können das Außengelände mit Hund erkunden, während eine Begleitperson hineingeht. Die Fahrt von Cluj nach Bran führt durch Brasov (ein Halt lohnt sich) und das Prahova-Tal, was einen ganztägigen Ausflug ergibt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik met mijn hond het kasteel van Dracula (Kasteel Bran) bezoeken vanuit Cluj?",
+          "a": "Kasteel Bran ligt 165 km van Cluj (2,5 uur rijden). Honden zijn niet toegestaan in het kasteel zelf (binnenmuseum). Kasteel Bran heeft terreinen met een klein park; je kunt met je hond het exterieur verkennen terwijl iemand anders naar binnen gaat. De rit van Cluj naar Bran gaat via Brasov (de moeite van een stop waard) en de Prahova-vallei, wat er een dagtrip van maakt."
         }
       ]
     },
@@ -678,11 +765,19 @@
         }
       ],
       "titleDe": "Hundebetreuung in Cluj-Napoca",
+      "titleNl": "Hondenoppas in Cluj-Napoca",
       "introDe": "Cluj-Napoca hat dank seiner großen Studentenschaft und jungen Berufstätigen eine wachsende Haustierbetreuungs-Community; viele Studierende bieten Hundebetreuungs- und Gassi-Dienste an. Rover und ähnliche Plattformen decken Cluj zunehmend ab. Die Facebook-Gruppe 'Cluj Dog Owners' ist eine verlässliche Quelle für aktuelle Empfehlungen.",
+      "introNl": "Cluj-Napoca heeft een groeiende hondenoppascommunity dankzij zijn grote studentenpopulatie en jonge professionals; veel studenten bieden diensten aan als hondenoppas en uitlaatservice. Rover en vergelijkbare platforms zijn steeds beter vertegenwoordigd in Cluj. De Facebookgroep 'Cluj Dog Owners' is een betrouwbare bron voor actuele aanbevelingen.",
       "faqsDe": [
         {
           "q": "Gibt es eine Tierpension in der Nähe des Flughafens von Cluj-Napoca?",
           "a": "Ja, mehrere Tierhotels und Pensionen befinden sich in den Gebieten Floresti und Baciu in der Nähe des Flughafens. Die Preise sind sehr günstig; buchen Sie für Sommerwochenenden im Voraus, da die Nachfrage dann höher ist."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een hondenpension bij de luchthaven van Cluj-Napoca?",
+          "a": "Ja, verschillende dierenhotels en pensions liggen in de omgeving van Floresti en Baciu bij de luchthaven. De tarieven zijn heel betaalbaar; boek van tevoren voor zomerweekenden, wanneer de vraag hoger is."
         }
       ]
     }

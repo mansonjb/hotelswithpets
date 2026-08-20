@@ -13,6 +13,7 @@ const STICKY_LABELS_PASSEPORT: Record<string, { label: string; cta: string }> = 
   es: { label: 'Alojamientos pet-friendly en Europa', cta: 'Ver hoteles' },
   pt: { label: 'Estadias pet-friendly em Europa', cta: 'Ver hotéis' },
   de: { label: 'Tierfreundliche Unterkünfte in ganz Europa', cta: 'Hotels ansehen' },
+  nl: { label: 'Diervriendelijke verblijven in heel Europa', cta: 'Bekijk hotels' },
 }
 
 export async function generateStaticParams() {
@@ -33,6 +34,7 @@ export async function generateMetadata({
     es: '¿Necesito un pasaporte de mascota para viajar en Europa? Guía por país',
     pt: 'Necesito um passaporte de animal para viajar en Europa? Guía por país',
     de: 'Brauche ich einen Heimtierausweis für Reisen in Europa? Länderübersicht',
+    nl: 'Heb ik een dierenpaspoort nodig om in Europa te reizen? Overzicht per land',
   }
   const descriptions: Record<string, string> = {
     en: 'Complete guide to EU pet passport requirements when travelling in Europe with a dog or cat. Country-by-country rules: UK, Finland, Ireland, Norway, Iceland, Switzerland and all EU members.',
@@ -40,6 +42,7 @@ export async function generateMetadata({
     es: 'Guía completa sobre el pasaporte europeo para mascotas al viajar por Europa. Normas país a país: Reino Unido, Finlandia, Irlanda, Noruega, Islandia, Suiza y todos los miembros de la UE.',
     pt: 'Guía completa sobre o passaporte europeu para animais al viajar por Europa. Normas país a país: Reino Unido, Finlândia, Irlanda, Noruega, Islandia, Suiza e todos os miembros da UE.',
     de: `Vollständiger Leitfaden zu den Anforderungen des EU-Heimtierausweises für Reisen in Europa mit Hund oder Katze. Regeln pro Land: Vereinigtes Königreich, Finnland, Irland, Norwegen, Island, Schweiz und alle EU-Mitgliedstaaten.`,
+    nl: `Complete gids over de eisen van het EU-dierenpaspoort voor reizen in Europa met een hond of kat. Regels per land: Verenigd Koninkrijk, Finland, Ierland, Noorwegen, IJsland, Zwitserland en alle EU-lidstaten.`,
   }
 
   const today = new Date().toISOString().split('T')[0]
@@ -88,7 +91,7 @@ const COUNTRY_RULES: CountryRule[] = [
   {
     slug: 'france',
     flag: '🇫🇷',
-    name: { fr: 'France', en: 'France', es: 'Francia', pt: 'Francia', de: 'Frankreich' },
+    name: { fr: 'France', en: 'France', es: 'Francia', pt: 'Francia', de: 'Frankreich', nl: 'Frankrijk' },
     requirement: 'standard',
     countrySiteSlug: 'france',
     summary: {
@@ -97,6 +100,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Pasaporte UE estándar. Microchip, rabia, 21 días. Los perros son muy bienvenidos.',
       pt: 'Passaporte UE estándar. Microchip, rabia, 21 dias. Os cães são muito bem-vindos.',
       de: 'Standard-EU-Heimtierausweis. Mikrochip, Tollwut, 21 Tage Wartezeit. Hunde sind sehr willkommen.',
+      nl: 'Standaard EU-dierenpaspoort. Chip, hondsdolheid, 21 dagen wachttijd. Honden zijn zeer welkom.',
     },
     details: {
       fr: [
@@ -134,12 +138,19 @@ const COUNTRY_RULES: CountryRule[] = [
         'Standard-Auffrischimpfungen empfohlen.',
         'Hunde der Kategorie 1 (Pitbull-Typ) sind in Frankreich verboten.',
       ],
+      nl: [
+        `EU-dierenpaspoort verplicht.`,
+        'ISO 11784/11785-chip verplicht (geplaatst VOOR de vaccinatie tegen hondsdolheid).',
+        'Geldige vaccinatie tegen hondsdolheid (eerste vaccinatie: 21 dagen wachttijd voor vertrek).',
+        'Standaard herhalingsvaccinaties aanbevolen.',
+        'Honden van categorie 1 (pitbulltype) zijn verboden in Frankrijk.',
+      ],
     },
   },
   {
     slug: 'spain',
     flag: '🇪🇸',
-    name: { fr: 'Espagne', en: 'Spain', es: 'España', pt: 'Espanha', de: 'Spanien' },
+    name: { fr: 'Espagne', en: 'Spain', es: 'España', pt: 'Espanha', de: 'Spanien', nl: 'Spanje' },
     requirement: 'standard',
     countrySiteSlug: 'spain',
     summary: {
@@ -148,6 +159,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Pasaporte UE estándar. Muy abierto a mascotas, incluso en muchas playas.',
       pt: 'Passaporte UE estándar. Muito abierto a animais, mesmo em muitas praias.',
       de: 'Standard-EU-Heimtierausweis. Sehr tierfreundlich, auch an vielen Stränden.',
+      nl: 'Standaard EU-dierenpaspoort. Zeer diervriendelijk, ook op veel stranden.',
     },
     details: {
       fr: [
@@ -180,12 +192,18 @@ const COUNTRY_RULES: CountryRule[] = [
         'Einige autonome Regionen haben lokale Rasseverordnungen.',
         'Parasitenbehandlung je nach Jahreszeit empfohlen (Zecken, Leishmaniose im Süden).',
       ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        `Sommige autonome regio's hebben lokale rasrestricties.`,
+        `Antiparasitaire behandeling aanbevolen afhankelijk van het seizoen (teken, leishmaniasis in het zuiden).`,
+      ],
     },
   },
   {
     slug: 'germany',
     flag: '🇩🇪',
-    name: { fr: 'Allemagne', en: 'Germany', es: 'Alemania', pt: 'Alemania', de: 'Deutschland' },
+    name: { fr: 'Allemagne', en: 'Germany', es: 'Alemania', pt: 'Alemania', de: 'Deutschland', nl: 'Duitsland' },
     requirement: 'standard',
     countrySiteSlug: 'germany',
     summary: {
@@ -194,6 +212,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Pasaporte UE estándar. Alemania es quizá el país más dog-friendly de Europa.',
       pt: 'Passaporte UE estándar. Alemania é quizá o país mais pet-friendly de Europa.',
       de: 'Standard-EU-Heimtierausweis. Deutschland ist wohl das hundefreundlichste Land Europas.',
+      nl: `Standaard EU-dierenpaspoort. Duitsland is misschien wel het meest hondvriendelijke land van Europa.`,
     },
     details: {
       fr: [
@@ -226,12 +245,18 @@ const COUNTRY_RULES: CountryRule[] = [
         'Hunde sind in öffentlichen Verkehrsmitteln erlaubt (je nach Stadt kann ein Maulkorb oder ein Kinderticket erforderlich sein).',
         'Manche Bundesländer haben Beschränkungen für bestimmte Rassen.',
       ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        'Honden zijn toegestaan in het openbaar vervoer (muilkorf of kinderkaartje kan vereist zijn).',
+        'Sommige deelstaten hebben beperkingen voor bepaalde rassen.',
+      ],
     },
   },
   {
     slug: 'netherlands',
     flag: '🇳🇱',
-    name: { fr: 'Pays-Bas', en: 'Netherlands', es: 'Países Bajos', pt: 'Países Bajos', de: 'Niederlande' },
+    name: { fr: 'Pays-Bas', en: 'Netherlands', es: 'Países Bajos', pt: 'Países Bajos', de: 'Niederlande', nl: 'Nederland' },
     requirement: 'standard',
     destinationSlug: 'amsterdam',
     summary: {
@@ -240,6 +265,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Pasaporte UE estándar. Ámsterdam es una de las ciudades más pet-friendly de Europa.',
       pt: 'Passaporte UE estándar. Amesterdão é uma das as cidades mais pet-friendly de Europa.',
       de: 'Standard-EU-Heimtierausweis. Amsterdam ist eine der tierfreundlichsten Städte Europas.',
+      nl: 'Standaard EU-dierenpaspoort. Amsterdam is een van de meest diervriendelijke steden van Europa.',
     },
     details: {
       fr: [
@@ -272,12 +298,18 @@ const COUNTRY_RULES: CountryRule[] = [
         'Keine zusätzlichen Anforderungen über den Standard-EU-Heimtierausweis hinaus.',
         'Hunde sind in Cafés, Restaurants und sogar auf Fahrrädern weithin akzeptiert.',
       ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        'Geen extra eisen bovenop het standaard EU-paspoort.',
+        'Honden zijn welkom in cafés, restaurants en zelfs op de fiets.',
+      ],
     },
   },
   {
     slug: 'belgium',
     flag: '🇧🇪',
-    name: { fr: 'Belgique', en: 'Belgium', es: 'Bélgica', pt: 'Bélgica', de: 'Belgien' },
+    name: { fr: 'Belgique', en: 'Belgium', es: 'Bélgica', pt: 'Bélgica', de: 'Belgien', nl: 'België' },
     requirement: 'standard',
     countrySiteSlug: 'belgium',
     summary: {
@@ -286,6 +318,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Pasaporte UE estándar. Brujas, Gante y Amberes son muy dog-friendly.',
       pt: 'Passaporte UE estándar. Brujas, Gante e Antuérpia são muito pet-friendly.',
       de: 'Standard-EU-Heimtierausweis. Brügge, Gent und Antwerpen sind sehr hundefreundlich.',
+      nl: 'Standaard EU-dierenpaspoort. Brugge, Gent en Antwerpen zijn erg hondvriendelijk.',
     },
     details: {
       fr: [
@@ -313,12 +346,17 @@ const COUNTRY_RULES: CountryRule[] = [
         'ISO-Mikrochip und gültige Tollwutimpfung.',
         'Hunde sind in Cafés und Restaurants großzügig willkommen.',
       ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        'Honden zijn ruimhartig welkom in cafés en restaurants.',
+      ],
     },
   },
   {
     slug: 'portugal',
     flag: '🇵🇹',
-    name: { fr: 'Portugal', en: 'Portugal', es: 'Portugal', pt: 'Portugal', de: 'Portugal' },
+    name: { fr: 'Portugal', en: 'Portugal', es: 'Portugal', pt: 'Portugal', de: 'Portugal', nl: 'Portugal' },
     requirement: 'standard',
     countrySiteSlug: 'portugal',
     destinationSlug: 'lisbon',
@@ -328,6 +366,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Pasaporte UE estándar. Ideal todo el año, con playas aptas para perros.',
       pt: 'Passaporte UE estándar. Ideal o ano inteiro, com praias aptas para cães.',
       de: 'Standard-EU-Heimtierausweis. Ganzjährig ideal, mit hundefreundlichen Stränden.',
+      nl: 'Standaard EU-dierenpaspoort. Het hele jaar ideaal, met hondvriendelijke stranden.',
     },
     details: {
       fr: [
@@ -360,12 +399,18 @@ const COUNTRY_RULES: CountryRule[] = [
         'Parasitenbehandlung dringend empfohlen (Zecken, Leishmaniose).',
         'Viele hundefreundliche Strände, besonders außerhalb der Sommermonate.',
       ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        'Antiparasitaire behandeling sterk aanbevolen (teken, leishmaniasis).',
+        'Veel hondvriendelijke stranden, vooral buiten de zomermaanden.',
+      ],
     },
   },
   {
     slug: 'italy',
     flag: '🇮🇹',
-    name: { fr: 'Italie', en: 'Italy', es: 'Italia', pt: 'Italia', de: 'Italien' },
+    name: { fr: 'Italie', en: 'Italy', es: 'Italia', pt: 'Italia', de: 'Italien', nl: 'Italië' },
     requirement: 'standard',
     countrySiteSlug: 'italy',
     summary: {
@@ -374,6 +419,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Pasaporte UE estándar. Los perros van a todas partes: plazas, restaurantes, monumentos.',
       pt: 'Passaporte UE estándar. Os cães van a todas partes: praças, restaurantes, monumentos.',
       de: 'Standard-EU-Heimtierausweis. Hunde sind überall dabei: Piazzas, Restaurants, Sehenswürdigkeiten.',
+      nl: 'Standaard EU-dierenpaspoort. Honden zijn overal welkom: pleinen, restaurants, bezienswaardigheden.',
     },
     details: {
       fr: [
@@ -406,12 +452,18 @@ const COUNTRY_RULES: CountryRule[] = [
         'In italienischen Städten dürfen Hunde viele Geschäfte und Cafés betreten.',
         'Kostenpflichtige Strände schließen Haustiere oft aus; nach ausgewiesenen `spiagge per cani` suchen.',
       ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        'In Italiaanse steden mogen honden veel winkels en cafés binnen.',
+        `Betaalstranden sluiten huisdieren vaak uit; zoek naar aangewezen "spiagge per cani".`,
+      ],
     },
   },
   {
     slug: 'austria',
     flag: '🇦🇹',
-    name: { fr: 'Autriche', en: 'Austria', es: 'Austria', pt: 'Austria', de: 'Österreich' },
+    name: { fr: 'Autriche', en: 'Austria', es: 'Austria', pt: 'Austria', de: 'Österreich', nl: 'Oostenrijk' },
     requirement: 'standard',
     countrySiteSlug: 'austria',
     destinationSlug: 'vienna',
@@ -421,6 +473,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Pasaporte UE estándar. Viena es muy acogedora para las mascotas.',
       pt: 'Passaporte UE estándar. Viena é muito acogedora para as animais.',
       de: 'Standard-EU-Heimtierausweis. Wien ist sehr tierfreundlich.',
+      nl: 'Standaard EU-dierenpaspoort. Wenen is zeer diervriendelijk.',
     },
     details: {
       fr: [
@@ -448,12 +501,17 @@ const COUNTRY_RULES: CountryRule[] = [
         'ISO-Mikrochip und gültige Tollwutimpfung.',
         'Hunde sind in den Wiener öffentlichen Verkehrsmitteln mit einem ermäßigten Ticket willkommen.',
       ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        'Honden zijn welkom in het openbaar vervoer van Wenen met een half kaartje.',
+      ],
     },
   },
   {
     slug: 'czechia',
     flag: '🇨🇿',
-    name: { fr: 'République tchèque', en: 'Czech Republic', es: 'República Checa', pt: 'República Checa', de: 'Tschechien' },
+    name: { fr: 'République tchèque', en: 'Czech Republic', es: 'República Checa', pt: 'República Checa', de: 'Tschechien', nl: 'Tsjechië' },
     requirement: 'standard',
     countrySiteSlug: 'czech-republic',
     destinationSlug: 'prague',
@@ -463,6 +521,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Pasaporte UE estándar. Praga es bastante acogedora para los perros.',
       pt: 'Passaporte UE estándar. Praga é bastante acogedora para os cães.',
       de: 'Standard-EU-Heimtierausweis. Prag ist recht hundefreundlich.',
+      nl: 'Standaard EU-dierenpaspoort. Praag is behoorlijk hondvriendelijk.',
     },
     details: {
       fr: [
@@ -490,12 +549,17 @@ const COUNTRY_RULES: CountryRule[] = [
         'ISO-Mikrochip und gültige Tollwutimpfung.',
         'Hunde sind mit Maulkorb in der Prager U-Bahn erlaubt.',
       ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        'Honden zijn toegestaan in de metro van Praag met een muilkorf.',
+      ],
     },
   },
   {
     slug: 'hungary',
     flag: '🇭🇺',
-    name: { fr: 'Hongrie', en: 'Hungary', es: 'Hungría', pt: 'Hungría', de: 'Ungarn' },
+    name: { fr: 'Hongrie', en: 'Hungary', es: 'Hungría', pt: 'Hungría', de: 'Ungarn', nl: 'Hongarije' },
     requirement: 'standard',
     countrySiteSlug: 'hungary',
     destinationSlug: 'budapest',
@@ -505,6 +569,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Pasaporte UE estándar.',
       pt: 'Passaporte UE estándar.',
       de: 'Standard-EU-Heimtierausweis.',
+      nl: 'Standaard EU-dierenpaspoort.',
     },
     details: {
       fr: [
@@ -527,12 +592,16 @@ const COUNTRY_RULES: CountryRule[] = [
         'EU-Heimtierausweis erforderlich.',
         'ISO-Mikrochip und gültige Tollwutimpfung.',
       ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+      ],
     },
   },
   {
     slug: 'croatia',
     flag: '🇭🇷',
-    name: { fr: 'Croatie', en: 'Croatia', es: 'Croacia', pt: 'Croacia', de: 'Kroatien' },
+    name: { fr: 'Croatie', en: 'Croatia', es: 'Croacia', pt: 'Croacia', de: 'Kroatien', nl: 'Kroatië' },
     requirement: 'standard',
     countrySiteSlug: 'croatia',
     destinationSlug: 'dubrovnik',
@@ -542,6 +611,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Pasaporte UE estándar. Muchas playas aptas para perros fuera de temporada.',
       pt: 'Passaporte UE estándar. Muitas praias aptas para cães fora de temporada.',
       de: 'Standard-EU-Heimtierausweis. Außerhalb der Hauptsaison gibt es viele hundefreundliche Strände.',
+      nl: 'Standaard EU-dierenpaspoort. Buiten het hoogseizoen zijn er veel hondvriendelijke stranden.',
     },
     details: {
       fr: [
@@ -569,12 +639,17 @@ const COUNTRY_RULES: CountryRule[] = [
         'ISO-Mikrochip und gültige Tollwutimpfung.',
         'Viele Strände verbieten Haustiere im Sommer; nach ausgewiesenen Hundestränden suchen.',
       ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        'Veel stranden verbieden huisdieren in de zomer; zoek naar aangewezen hondenstranden.',
+      ],
     },
   },
   {
     slug: 'greece',
     flag: '🇬🇷',
-    name: { fr: 'Grèce', en: 'Greece', es: 'Grecia', pt: 'Grecia', de: 'Griechenland' },
+    name: { fr: 'Grèce', en: 'Greece', es: 'Grecia', pt: 'Grecia', de: 'Griechenland', nl: 'Griekenland' },
     requirement: 'standard',
     countrySiteSlug: 'greece',
     destinationSlug: 'athens',
@@ -584,6 +659,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Pasaporte UE estándar. Tratamiento antiparasitario recomendado en verano.',
       pt: 'Passaporte UE estándar. Tratamento antiparasitario recomendado en verão.',
       de: 'Standard-EU-Heimtierausweis. Parasitenbehandlung im Sommer empfohlen.',
+      nl: 'Standaard EU-dierenpaspoort. Antiparasitaire behandeling aanbevolen in de zomer.',
     },
     details: {
       fr: [
@@ -616,13 +692,19 @@ const COUNTRY_RULES: CountryRule[] = [
         'Zeckenbehandlung in Wald- und ländlichen Gebieten dringend empfohlen.',
         'Leishmaniose kommt in mehreren Regionen vor.',
       ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        'Antitekenbehandeling sterk aanbevolen in bosrijke en landelijke gebieden.',
+        `Leishmaniasis komt in verschillende regio's voor.`,
+      ],
     },
   },
   // ── Extra requirements ───────────────────────────────────────────────────
   {
     slug: 'finland',
     flag: '🇫🇮',
-    name: { fr: 'Finlande', en: 'Finland', es: 'Finlandia', pt: 'Finlândia', de: 'Finnland' },
+    name: { fr: 'Finlande', en: 'Finland', es: 'Finlandia', pt: 'Finlândia', de: 'Finnland', nl: 'Finland' },
     requirement: 'extra',
     countrySiteSlug: 'finland',
     destinationSlug: 'helsinki',
@@ -632,6 +714,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Miembro de la UE, pero con requisitos adicionales: tratamiento obligatorio contra Echinococcus 1-5 días antes de la entrada.',
       pt: 'Miembro da UE, mas com requisitos adicionales: tratamento obrigatório contra Echinococcus 1-5 dias antes da entrada.',
       de: 'EU-Mitglied, aber mit zusätzlichen Vorschriften: verpflichtende Behandlung gegen Echinokokken 1 bis 5 Tage vor der Einreise.',
+      nl: 'EU-lid, maar met extra regels: verplichte behandeling tegen Echinococcus 1 tot 5 dagen voor binnenkomst.',
     },
     details: {
       fr: [
@@ -672,12 +755,20 @@ const COUNTRY_RULES: CountryRule[] = [
         'Ohne diese Behandlung kann die Einreise an der Grenze verweigert werden.',
         'Manche Einreisehäfen (besonders aus Estland und Schweden) führen verschärfte Kontrollen durch.',
       ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        `⚠️ VERPLICHT: behandeling tegen Echinococcus multilocularis (lintworm) door een erkende dierenarts, toegediend 1 tot 5 dagen voor binnenkomst in Finland.`,
+        'De behandeling moet door de dierenarts in het EU-dierenpaspoort worden geregistreerd.',
+        'Zonder deze behandeling kan de toegang aan de grens worden geweigerd.',
+        'Sommige grensposten (vooral vanuit Estland en Zweden) voeren verscherpte controles uit.',
+      ],
     },
   },
   {
     slug: 'ireland',
     flag: '🇮🇪',
-    name: { fr: 'Irlande', en: 'Ireland', es: 'Irlanda', pt: 'Irlanda', de: 'Irland' },
+    name: { fr: 'Irlande', en: 'Ireland', es: 'Irlanda', pt: 'Irlanda', de: 'Irland', nl: 'Ierland' },
     requirement: 'extra',
     countrySiteSlug: 'ireland',
     destinationSlug: 'dublin',
@@ -687,6 +778,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Miembro de la UE, pero con requisitos adicionales: tratamiento contra tenias (perros) 24-120h antes de la llegada, solo por puntos de entrada aprobados.',
       pt: 'Miembro da UE, mas com requisitos adicionales: tratamento contra tenias (cães) 24-120h antes da llegada, só por puntos de entrada aprobados.',
       de: 'EU-Mitglied, aber mit zusätzlichen Vorschriften: Bandwurmbehandlung (Hunde) 24 bis 120 Stunden vor Ankunft, Einreise nur über zugelassene Einreisepunkte.',
+      nl: 'EU-lid, maar met extra regels: lintwormbehandeling (honden) 24 tot 120 uur voor aankomst, alleen binnenkomst via erkende punten.',
     },
     details: {
       fr: [
@@ -734,13 +826,22 @@ const COUNTRY_RULES: CountryRule[] = [
         'Irland gehört nicht zum Schengen-Raum: Grenzkontrollen werden aktiv durchgeführt.',
         'Katzen unterliegen nicht der Bandwurmbehandlungspflicht.',
       ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        '⚠️ VERPLICHT voor honden: behandeling tegen Echinococcus (lintworm), toegediend tussen 24 en 120 uur voor aankomst in Ierland.',
+        'Behandeling voorgeschreven en geregistreerd door een erkende dierenarts.',
+        'Binnenkomst is alleen toegestaan via erkende havens en luchthavens (Dublin, Rosslare...).',
+        'Ierland maakt geen deel uit van het Schengengebied: grenscontroles worden actief uitgevoerd.',
+        'Katten zijn niet onderworpen aan de lintwormbehandelingsplicht.',
+      ],
     },
   },
   // ── Non-EU, strict ───────────────────────────────────────────────────────
   {
     slug: 'uk',
     flag: '🇬🇧',
-    name: { fr: 'Royaume-Uni', en: 'United Kingdom', es: 'Reino Unido', pt: 'Reino Unido', de: 'Vereinigtes Königreich' },
+    name: { fr: 'Royaume-Uni', en: 'United Kingdom', es: 'Reino Unido', pt: 'Reino Unido', de: 'Vereinigtes Königreich', nl: 'Verenigd Koninkrijk' },
     requirement: 'strict',
     countrySiteSlug: 'united-kingdom',
     destinationSlug: 'edinburgh',
@@ -750,6 +851,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Fuera de la UE (Brexit). El pasaporte europeo ya no es válido. Ahora se requiere un Certificado Sanitario Animal (AHC).',
       pt: 'Fora da UE (Brexit). O passaporte europeu ya no é válido. Ahora se requiere um Certificado Sanitario Animal (AHC).',
       de: 'Außerhalb der EU (Brexit). Der EU-Heimtierausweis ist nicht mehr gültig. Eine Tiergesundheitsbescheinigung (AHC) ist jetzt vorgeschrieben.',
+      nl: 'Buiten de EU (Brexit). Het EU-dierenpaspoort is niet meer geldig. Een Diergezondheidscertificaat (AHC) is nu verplicht.',
     },
     details: {
       fr: [
@@ -807,12 +909,23 @@ const COUNTRY_RULES: CountryRule[] = [
         'Katzen und Frettchen benötigen keine Bandwurmbehandlung, aber eine AHC.',
         'Vorbereitungszeit: mindestens 3 Wochen einplanen (bei aktueller Impfung) oder mehrere Monate bei Erstimpfung.',
       ],
+      nl: [
+        `⚠️ Het Verenigd Koninkrijk accepteert het EU-dierenpaspoort sinds de Brexit (31 december 2020) niet meer.`,
+        'ISO 11784/11785-chip verplicht.',
+        'Geldige vaccinatie tegen hondsdolheid (21 dagen wachttijd na de eerste vaccinatie).',
+        'Diergezondheidscertificaat (AHC), afgegeven door een officiële dierenarts binnen 10 dagen voor vertrek. Dit document vervangt het EU-paspoort.',
+        'Alleen voor honden: lintwormbehandeling (Echinococcus) door een erkende dierenarts binnen 1 tot 5 dagen voor aankomst.',
+        'Binnenkomst moet via een erkende route (Dover, St Pancras, Eurostar, enz.).',
+        'Reis met een erkende vervoerder (Eurostar, P&O, DFDS...).',
+        'Katten en fretten hebben geen lintwormbehandeling nodig, maar wel een AHC.',
+        'Voorbereidingstijd: reken op minstens 3 weken (bij actuele vaccinatie) of meerdere maanden bij een eerste vaccinatie.',
+      ],
     },
   },
   {
     slug: 'norway',
     flag: '🇳🇴',
-    name: { fr: 'Norvège', en: 'Norway', es: 'Noruega', pt: 'Noruega', de: 'Norwegen' },
+    name: { fr: 'Norvège', en: 'Norway', es: 'Noruega', pt: 'Noruega', de: 'Norwegen', nl: 'Noorwegen' },
     requirement: 'extra',
     countrySiteSlug: 'norway',
     destinationSlug: 'oslo',
@@ -822,6 +935,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Fuera de la UE (EEE). Acepta documentos equivalentes a la UE. Tratamiento contra tenias obligatorio antes de la entrada.',
       pt: 'Fora da UE (EEE). Aceita documentos equivalentes a a UE. Tratamento contra tenias obrigatório antes da entrada.',
       de: 'Außerhalb der EU (EWR). Akzeptiert EU-gleichwertige Dokumente. Bandwurmbehandlung vor der Einreise vorgeschrieben.',
+      nl: 'Buiten de EU (EER). Accepteert EU-gelijkwaardige documenten. Lintwormbehandeling verplicht voor binnenkomst.',
     },
     details: {
       fr: [
@@ -859,12 +973,19 @@ const COUNTRY_RULES: CountryRule[] = [
         '⚠️ VERPFLICHTEND: Behandlung gegen Echinococcus (Bandwurm) 1 bis 5 Tage vor der Einreise, vom Tierarzt eingetragen.',
         'Keine Quarantäne, sofern alle Anforderungen erfüllt sind.',
       ],
+      nl: [
+        'ISO 11784/11785-chip verplicht.',
+        'Geldige vaccinatie tegen hondsdolheid.',
+        'EU-paspoort of gelijkwaardig reisdocument geaccepteerd.',
+        '⚠️ VERPLICHT: behandeling tegen Echinococcus (lintworm) 1 tot 5 dagen voor binnenkomst, geregistreerd door een dierenarts.',
+        'Geen quarantaine als aan alle eisen wordt voldaan.',
+      ],
     },
   },
   {
     slug: 'switzerland',
     flag: '🇨🇭',
-    name: { fr: 'Suisse', en: 'Switzerland', es: 'Suiza', pt: 'Suiza', de: 'Schweiz' },
+    name: { fr: 'Suisse', en: 'Switzerland', es: 'Suiza', pt: 'Suiza', de: 'Schweiz', nl: 'Zwitserland' },
     requirement: 'non-eu',
     countrySiteSlug: 'switzerland',
     destinationSlug: 'zurich',
@@ -874,6 +995,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Fuera de la UE pero acepta el pasaporte europeo para mascotas. Mismo procedimiento que el estándar UE.',
       pt: 'Fora da UE mas aceita o passaporte europeu para animais. Mismo procedimiento que o estándar UE.',
       de: 'Außerhalb der EU, akzeptiert aber den EU-Heimtierausweis. Gleiches Verfahren wie der EU-Standard.',
+      nl: 'Buiten de EU, maar accepteert het EU-dierenpaspoort. Zelfde procedure als de EU-standaard.',
     },
     details: {
       fr: [
@@ -906,12 +1028,18 @@ const COUNTRY_RULES: CountryRule[] = [
         'Keine Quarantäne, keine zusätzliche Behandlung für Reisende aus der EU erforderlich.',
         'Die Tierschutzvorschriften sind in der Schweiz sehr streng.',
       ],
+      nl: [
+        'EU-dierenpaspoort of gelijkwaardig document geaccepteerd.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        'Geen quarantaine, geen extra behandeling vereist voor reizigers uit de EU.',
+        'De dierenwelzijnsregels zijn zeer streng in Zwitserland.',
+      ],
     },
   },
   {
     slug: 'iceland',
     flag: '🇮🇸',
-    name: { fr: 'Islande', en: 'Iceland', es: 'Islandia', pt: 'Islandia', de: 'Island' },
+    name: { fr: 'Islande', en: 'Iceland', es: 'Islandia', pt: 'Islandia', de: 'Island', nl: 'IJsland' },
     requirement: 'strict',
     countrySiteSlug: 'iceland',
     destinationSlug: 'reykjavik',
@@ -921,6 +1049,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Fuera de la UE. Condiciones muy estrictas: test de titulación antirrábica + permiso de importación + posible cuarentena.',
       pt: 'Fora da UE. Condições muito estrictas: test de titulación antirrábica + permiso de importación + posible cuarentena.',
       de: 'Außerhalb der EU. Sehr strenge Bedingungen: Tollwut-Titertest + Einfuhrgenehmigung + mögliche Quarantäne.',
+      nl: 'Buiten de EU. Zeer strenge voorwaarden: titertest hondsdolheid + invoervergunning + mogelijke quarantaine.',
     },
     details: {
       fr: [
@@ -978,12 +1107,23 @@ const COUNTRY_RULES: CountryRule[] = [
         'Eine Quarantäne kann verhängt werden, wenn die Voraussetzungen nicht vollständig erfüllt sind.',
         'Vorbereitungszeit: 6 Monate bis 1 Jahr im Voraus einplanen.',
       ],
+      nl: [
+        `⚠️ IJsland heeft een van de strengste invoervoorschriften voor huisdieren in Europa.`,
+        'ISO-chip verplicht.',
+        'Geldige vaccinatie tegen hondsdolheid.',
+        'Serologische titertest tegen hondsdolheid (FAVN- of ELISA-test) met positief resultaat, uitgevoerd minstens 3 maanden voor binnenkomst.',
+        'Voorafgaande invoervergunning vereist (afgegeven door MAST, de IJslandse Voedsel- en Veterinaire Autoriteit).',
+        'Antiparasitaire behandeling (lintworm + vlooien + teken) binnen 5 dagen voor aankomst.',
+        'Verplichte dierenartscontrole bij aankomst.',
+        'Quarantaine kan worden opgelegd als niet volledig aan de voorwaarden wordt voldaan.',
+        'Voorbereidingstijd: reken op 6 maanden tot 1 jaar van tevoren.',
+      ],
     },
   },
   {
     slug: 'sweden',
     flag: '🇸🇪',
-    name: { fr: 'Suède', en: 'Sweden', es: 'Suecia', pt: 'Suecia', de: 'Schweden' },
+    name: { fr: 'Suède', en: 'Sweden', es: 'Suecia', pt: 'Suecia', de: 'Schweden', nl: 'Zweden' },
     requirement: 'standard',
     countrySiteSlug: 'sweden',
     destinationSlug: 'stockholm',
@@ -993,6 +1133,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Pasaporte UE estándar. País muy abierto a las mascotas.',
       pt: 'Passaporte UE estándar. País muito abierto a as animais.',
       de: 'Standard-EU-Heimtierausweis. Sehr tierfreundliches Land.',
+      nl: 'Standaard EU-dierenpaspoort. Zeer diervriendelijk land.',
     },
     details: {
       fr: [
@@ -1025,12 +1166,18 @@ const COUNTRY_RULES: CountryRule[] = [
         'Schweden ist EU-Mitglied und wendet die Standard-EU-Heimtierausweisregeln an.',
         'Je nach Abreiseland kann eine Bandwurmbehandlung erforderlich sein.',
       ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        'Zweden is EU-lid en past de standaard EU-paspoortregels toe.',
+        'Lintwormbehandeling kan vereist zijn afhankelijk van het land van vertrek.',
+      ],
     },
   },
   {
     slug: 'denmark',
     flag: '🇩🇰',
-    name: { fr: 'Danemark', en: 'Denmark', es: 'Dinamarca', pt: 'Dinamarca', de: 'Dänemark' },
+    name: { fr: 'Danemark', en: 'Denmark', es: 'Dinamarca', pt: 'Dinamarca', de: 'Dänemark', nl: 'Denemarken' },
     requirement: 'standard',
     countrySiteSlug: 'denmark',
     destinationSlug: 'copenhagen',
@@ -1040,6 +1187,7 @@ const COUNTRY_RULES: CountryRule[] = [
       es: 'Pasaporte UE estándar. Copenhague es muy dog-friendly.',
       pt: 'Passaporte UE estándar. Copenhaga é muito pet-friendly.',
       de: 'Standard-EU-Heimtierausweis. Kopenhagen ist sehr hundefreundlich.',
+      nl: 'Standaard EU-dierenpaspoort. Kopenhagen is zeer hondvriendelijk.',
     },
     details: {
       fr: [
@@ -1066,6 +1214,11 @@ const COUNTRY_RULES: CountryRule[] = [
         'EU-Heimtierausweis erforderlich.',
         'ISO-Mikrochip und gültige Tollwutimpfung.',
         'Hunde sind in Kopenhagen weithin willkommen, auch in Cafés und öffentlichen Verkehrsmitteln.',
+      ],
+      nl: [
+        'EU-dierenpaspoort verplicht.',
+        'ISO-chip en geldige vaccinatie tegen hondsdolheid.',
+        'Honden zijn ruim welkom in Kopenhagen, ook in cafés en het openbaar vervoer.',
       ],
     },
   },
@@ -1349,6 +1502,61 @@ const COPY = {
     relatedTitle: 'Tierfreundliche Reiseziele in Europa',
     relatedText: `Finden Sie die besten tierfreundlichen Hotels an diesen Reisezielen`,
   },
+  nl: {
+    hero: 'Dierenpaspoort: alles wat je moet weten voor je vertrekt',
+    subtitle: `Chip, vaccinatie tegen hondsdolheid, officieel document... Dit is wat de Europese regelgeving vereist voor elk bestemmingsland, feitelijk gecontroleerd en steeds actueel.`,
+    lastUpdate: 'Bijgewerkt in',
+    sources: 'Geverifieerde bronnen',
+    sourcesText: `Deze gids is gebaseerd op officiële informatie van de Europese Commissie (TRACES), de USDA (voor het Verenigd Koninkrijk na de Brexit), de IJslandse MAST, de Finnish Food Authority en de nationale veterinaire autoriteiten. We raden altijd aan om dit rechtstreeks te controleren bij je dierenarts en de autoriteiten van het bestemmingsland voor je vertrekt.`,
+    whatIs: 'Wat is het EU-dierenpaspoort?',
+    whatIsText: [
+      `Het EU-dierenpaspoort is een officieel document dat wordt afgegeven door een erkende dierenarts. Het bundelt de essentiële informatie over jouw huisdier: identificatie via chip, vaccinaties (waaronder hondsdolheid) en uitgevoerde behandelingen.`,
+      `Het is geldig in alle EU-lidstaten, evenals in bepaalde derde landen die het accepteren (Zwitserland, EER-landen...). Sinds de Brexit accepteert het Verenigd Koninkrijk dit document niet meer en is een specifiek Diergezondheidscertificaat (AHC) vereist.`,
+      `Let op: de chip moet verplicht VOOR de vaccinatie tegen hondsdolheid worden geplaatst. Gebeurt dit niet, dan wordt de vaccinatiedatum niet erkend en moet je jouw huisdier opnieuw laten vaccineren.`,
+    ],
+    checklistTitle: 'De basischecklist (geldig in de hele EU)',
+    checklist: [
+      { icon: '🔖', label: 'ISO 11784/11785-chip', note: 'Geplaatst voor de vaccinatie tegen hondsdolheid' },
+      { icon: '💉', label: 'Geldige vaccinatie tegen hondsdolheid', note: 'Eerste vaccinatie: 21 dagen wachttijd voor vertrek' },
+      { icon: '📔', label: 'EU-dierenpaspoort', note: 'Afgegeven door een erkende dierenarts' },
+      { icon: '💊', label: 'Actuele herhalingsvaccinaties', note: 'DHPPi voor honden, kattenziekte/leukemie voor katten' },
+      { icon: '🪱', label: 'Antiparasitaire behandeling afhankelijk van land', note: 'Finland, Ierland, Noorwegen, VK, IJsland = verplicht' },
+    ],
+    tableTitle: 'Regels per land',
+    levelStandard: 'EU-standaard',
+    levelExtra: 'Extra eisen',
+    levelStrict: 'Zeer streng / Buiten de EU',
+    levelNonEu: 'Buiten de EU',
+    tipTitle: 'Expertadvies',
+    tipText: `Plan je reis met je huisdier minstens 4 weken van tevoren voor EU-bestemmingen, en 3 tot 6 maanden van tevoren voor het Verenigd Koninkrijk of IJsland. Je dierenarts is je beste bondgenoot bij het voorbereiden van de nodige documenten.`,
+    faqTitle: 'Veelgestelde vragen',
+    faqs: [
+      {
+        q: 'Is mijn EU-dierenpaspoort voor altijd geldig?',
+        a: `Het paspoort zelf heeft geen vervaldatum, maar de vaccinaties die erin staan (met name tegen hondsdolheid) moeten actueel zijn. Een paspoort met een verlopen vaccinatie tegen hondsdolheid is niet meer geldig om mee te reizen.`,
+      },
+      {
+        q: 'Mijn hond is geboren in Frankrijk. Heeft hij automatisch een dierenpaspoort?',
+        a: `Nee. Het EU-dierenpaspoort moet door een erkende dierenarts worden afgegeven na het plaatsen van de chip en de vaccinatie tegen hondsdolheid. Dit gebeurt niet automatisch.`,
+      },
+      {
+        q: 'Heeft een kat een paspoort nodig om in Europa te reizen?',
+        a: `Ja, dezelfde regels gelden voor katten (en fretten) als voor honden. ISO-chip, vaccinatie tegen hondsdolheid en EU-paspoort zijn verplicht.`,
+      },
+      {
+        q: 'Wat gebeurt er als ik het dierenpaspoort van mijn huisdier vergeet?',
+        a: `Je huisdier kan de toegang tot het bestemmingsland worden geweigerd of in quarantaine worden geplaatst. Neem geen enkel risico en neem altijd de originele documenten mee, nooit kopieën.`,
+      },
+      {
+        q: 'Is het Verenigd Koninkrijk sinds de Brexit lastig te bereiken met een huisdier?',
+        a: `Ja, de procedure is complexer dan voorheen. Je hebt een Diergezondheidscertificaat (AHC) nodig, afgegeven binnen 10 dagen voor vertrek, plus een lintwormbehandeling voor honden. Reken ruim de tijd en raadpleeg een officiële dierenarts.`,
+      },
+    ],
+    seeHotels: 'Bekijk hotels',
+    seeCountry: 'Landpagina',
+    relatedTitle: 'Diervriendelijke bestemmingen in Europa',
+    relatedText: 'Vind de beste diervriendelijke hotels in deze bestemmingen',
+  },
 }
 
 const BADGE_COLORS: Record<Requirement, { bg: string; text: string; border: string; dot: string }> = {
@@ -1368,10 +1576,10 @@ export default async function PetPassportGuidePage({
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
 
-  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const copy = COPY[lang] ?? COPY.en
   const today = new Date()
-  const monthYear = today.toLocaleDateString(locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'de' ? 'de-DE' : 'en-GB', { month: 'long', year: 'numeric' })
+  const monthYear = today.toLocaleDateString(locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'de' ? 'de-DE' : locale === 'nl' ? 'nl-NL' : 'en-GB', { month: 'long', year: 'numeric' })
 
   const articleSchema = {
     '@context': 'https://schema.org',
@@ -1421,13 +1629,13 @@ export default async function PetPassportGuidePage({
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center gap-2 mb-6">
               <Link href={`/${locale}/countries`} className="text-blue-300 hover:text-white text-sm transition-colors">
-                {locale === 'fr' ? '← Pays' : locale === 'es' ? '← Países' : locale === 'de' ? '← Länder' : '← Countries'}
+                {locale === 'fr' ? '← Pays' : locale === 'es' ? '← Países' : locale === 'de' ? '← Länder' : locale === 'nl' ? '← Landen' : '← Countries'}
               </Link>
               <span className="text-blue-500 text-sm">/</span>
-              <span className="text-blue-400 text-sm">{locale === 'fr' ? 'Passeport animal' : locale === 'es' ? 'Pasaporte de mascota' : locale === 'de' ? 'Heimtierausweis' : 'Pet passport'}</span>
+              <span className="text-blue-400 text-sm">{locale === 'fr' ? 'Passeport animal' : locale === 'es' ? 'Pasaporte de mascota' : locale === 'de' ? 'Heimtierausweis' : locale === 'nl' ? 'Dierenpaspoort' : 'Pet passport'}</span>
             </div>
             <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 rounded-full px-3 py-1 text-xs font-medium mb-5">
-              📋 {locale === 'fr' ? 'Guide pratique' : locale === 'es' ? 'Guía práctica' : locale === 'de' ? 'Praktischer Leitfaden' : 'Practical guide'} · {copy.lastUpdate} {monthYear}
+              📋 {locale === 'fr' ? 'Guide pratique' : locale === 'es' ? 'Guía práctica' : locale === 'de' ? 'Praktischer Leitfaden' : locale === 'nl' ? 'Praktische gids' : 'Practical guide'} · {copy.lastUpdate} {monthYear}
             </span>
             <h1 className="text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">{copy.hero}</h1>
             <p className="text-blue-200 text-base leading-relaxed max-w-3xl">{copy.subtitle}</p>

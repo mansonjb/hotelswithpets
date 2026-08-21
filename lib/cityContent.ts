@@ -39199,6 +39199,184 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  ronda: {
+    "history": {
+      "en": "Ronda's origins trace back to Celtic and Roman settlement, but its character was shaped under Moorish rule, when the town became a fortified stronghold split by the dramatic El Tajo gorge, separating the old Moorish quarter of La Ciudad from the newer Mercadillo district. The 18th-century Puente Nuevo, rising nearly 100 metres above the gorge, became the engineering marvel that stitched the two halves together. Ronda is also home to one of Spain's oldest bullrings, the neoclassical Plaza de Toros, considered the birthplace of modern bullfighting on foot. The well-preserved Baños Árabes recall the town's Islamic-era daily life. In the 19th and 20th centuries, Ronda's dramatic cliffs drew Romantic travellers, and later writers like Rilke and Hemingway, cementing its reputation as a cradle of Spanish tourism. Today, that same clifftop drama makes Ronda a rewarding, walkable town for pet owners, with leashed dogs welcome at the miradores, dog-friendly tapas terraces around the centre, and cool river swimming spots in the Serranía de Ronda just a short drive away.",
+      "fr": "Les origines de Ronda remontent à des installations celtes et romaines, mais c'est sous la domination maure que la ville a pris son caractère, devenant une place forte fortifiée coupée en deux par les spectaculaires gorges d'El Tajo, séparant le vieux quartier maure de La Ciudad du quartier plus récent du Mercadillo. Le Puente Nuevo, construit au XVIIIe siècle et s'élevant à près de 100 mètres au-dessus des gorges, est devenu la prouesse d'ingénierie qui a relié les deux moitiés. Ronda abrite aussi l'une des plus anciennes arènes d'Espagne, la Plaza de Toros néoclassique, considérée comme le berceau de la tauromachie moderne à pied. Les Baños Árabes bien conservés rappellent la vie quotidienne de l'époque islamique. Aux XIXe et XXe siècles, les falaises spectaculaires de Ronda ont attiré les voyageurs romantiques, puis des écrivains comme Rilke et Hemingway, consolidant sa réputation de berceau du tourisme espagnol. Aujourd'hui, ce même décor de falaises fait de Ronda une ville agréable à parcourir avec un animal, avec des chiens en laisse bienvenus aux miradors, des terrasses à tapas dog-friendly autour du centre, et des baignades fraîches en rivière dans la Serranía de Ronda à quelques minutes en voiture.",
+      "es": "Los orígenes de Ronda se remontan a asentamientos celtas y romanos, pero su carácter se forjó bajo el dominio musulmán, cuando la ciudad se convirtió en una plaza fuerte fortificada dividida por el espectacular desfiladero de El Tajo, que separa el antiguo barrio moro de La Ciudad del más nuevo Mercadillo. El Puente Nuevo, del siglo XVIII, que se eleva casi 100 metros sobre el desfiladero, se convirtió en la proeza de ingeniería que unió ambas mitades. Ronda alberga también una de las plazas de toros más antiguas de España, la neoclásica Plaza de Toros, considerada cuna de la tauromadia a pie moderna. Los bien conservados Baños Árabes recuerdan la vida cotidiana de la época islámica. En los siglos XIX y XX, los espectaculares acantilados de Ronda atrajeron a viajeros románticos, y más tarde a escritores como Rilke y Hemingway, consolidando su fama como cuna del turismo español. Hoy, ese mismo escenario de acantilados convierte a Ronda en una ciudad agradable para pasear con mascota, con perros con correa bienvenidos en los miradores, terrazas de tapas dog-friendly por el centro, y baños refrescantes en ríos de la Serranía de Ronda a poca distancia en coche.",
+      "pt": "As origens de Ronda remontam a povoamentos celtas e romanos, mas o seu carácter foi moldado sob o domínio mouro, quando a cidade se tornou uma praça-forte fortificada dividida pelo dramático desfiladeiro de El Tajo, separando o antigo bairro mouro de La Ciudad do mais novo Mercadillo. A Puente Nuevo, do século XVIII, erguendo-se quase 100 metros acima do desfiladeiro, tornou-se a proeza de engenharia que uniu as duas metades. Ronda também alberga uma das praças de touros mais antigas de Espanha, a neoclássica Plaza de Toros, considerada o berço da tourada moderna a pé. Os bem preservados Baños Árabes recordam o quotidiano da era islâmica. Nos séculos XIX e XX, as dramáticas falésias de Ronda atraíram viajantes românticos, e mais tarde escritores como Rilke e Hemingway, consolidando a sua reputação como berço do turismo espanhol. Hoje, esse mesmo cenário de falésias faz de Ronda uma cidade agradável para caminhar com um animal, com cães de trela bem-vindos nos miradouros, esplanadas de tapas pet-friendly pelo centro, e banhos frescos em rios da Serranía de Ronda a pouca distância de carro.",
+      "de": "Rondas Ursprünge reichen bis zu keltischen und römischen Siedlungen zurück, doch sein Charakter wurde unter maurischer Herrschaft geprägt, als die Stadt zu einer befestigten Festung wurde, geteilt durch die dramatische Schlucht El Tajo, die das alte maurische Viertel La Ciudad vom neueren Mercadillo trennt. Die Puente Nuevo aus dem 18. Jahrhundert, die sich fast 100 Meter über die Schlucht erhebt, wurde zum ingenieurtechnischen Meisterwerk, das die beiden Hälften verband. Ronda beherbergt zudem eine der ältesten Stierkampfarenen Spaniens, die klassizistische Plaza de Toros, die als Geburtsort des modernen Stierkampfs zu Fuß gilt. Die gut erhaltenen Baños Árabes erinnern an das Alltagsleben der islamischen Epoche. Im 19. und 20. Jahrhundert zogen Rondas dramatische Klippen romantische Reisende an, später Schriftsteller wie Rilke und Hemingway, was seinen Ruf als Wiege des spanischen Tourismus festigte. Heute macht dieselbe Klippenkulisse Ronda zu einer angenehm begehbaren Stadt mit Hund, mit angeleinten Hunden willkommen an den Miradores, hundefreundlichen Tapas-Terrassen rund um das Zentrum und kühlen Flussbademöglichkeiten in der Serranía de Ronda nur eine kurze Fahrt entfernt.",
+      "nl": "Ronda's oorsprong gaat terug op Keltische en Romeinse nederzettingen, maar het karakter van de stad werd gevormd onder Moorse heerschappij, toen de stad een versterkte vesting werd, gesplitst door de dramatische kloof El Tajo, die de oude Moorse wijk La Ciudad scheidt van de nieuwere wijk Mercadillo. De Puente Nuevo uit de 18e eeuw, die bijna 100 meter boven de kloof uittorent, werd het technische hoogstandje dat de twee helften met elkaar verbond. Ronda huisvest ook een van de oudste stierenarena's van Spanje, de neoclassicistische Plaza de Toros, beschouwd als de bakermat van de moderne stierenvechten te voet. De goed bewaarde Baños Árabes herinneren aan het dagelijks leven uit de islamitische periode. In de 19e en 20e eeuw trokken Ronda's dramatische kliffen romantische reizigers aan, en later schrijvers als Rilke en Hemingway, wat zijn reputatie als bakermat van het Spaanse toerisme verstevigde. Vandaag maakt datzelfde klifdecor van Ronda een fijne stad om met je huisdier te verkennen, met aangelijnde honden welkom bij de miradores, hondvriendelijke tapasterrassen rond het centrum, en verfrissende rivierzwemplekken in de Serranía de Ronda op een klein stukje rijden."
+    },
+    "sights": [
+      {
+        "name": "Puente Nuevo & El Tajo Gorge",
+        "emoji": "🌉",
+        "petFriendly": true,
+        "desc": {
+          "en": "Ronda's 18th-century bridge spans the nearly 100-metre-deep El Tajo gorge, connecting the old and new parts of town. It's an outdoor public bridge, so leashed dogs can cross, but keep the lead short near the parapets and viewpoints where the drops are unguarded.",
+          "fr": "Le pont de Ronda, du XVIIIe siècle, enjambe les gorges d'El Tajo, profondes de près de 100 mètres, reliant l'ancienne et la nouvelle ville. C'est un pont public en extérieur, donc les chiens en laisse peuvent le traverser, mais gardez la laisse courte près des parapets et belvédères où les à-pics ne sont pas protégés.",
+          "es": "El puente de Ronda, del siglo XVIII, cruza el desfiladero de El Tajo, de casi 100 metros de profundidad, conectando la parte antigua y la nueva de la ciudad. Es un puente público al aire libre, así que los perros con correa pueden cruzarlo, pero mantén la correa corta cerca de los parapetos y miradores donde las caídas no tienen protección.",
+          "pt": "A ponte de Ronda, do século XVIII, atravessa o desfiladeiro de El Tajo, com quase 100 metros de profundidade, ligando a parte antiga e a nova da cidade. É uma ponte pública ao ar livre, por isso os cães com trela podem atravessá-la, mas mantenha a trela curta perto dos parapeitos e miradouros onde as quedas não têm proteção.",
+          "de": "Rondas Brücke aus dem 18. Jahrhundert überspannt die fast 100 Meter tiefe El-Tajo-Schlucht und verbindet den alten mit dem neuen Stadtteil. Es ist eine öffentliche Freiluftbrücke, angeleinte Hunde dürfen also darüber, halten Sie die Leine aber in der Nähe der Brüstungen und Aussichtspunkte kurz, wo die Abgründe ungesichert sind.",
+          "nl": "Ronda's brug uit de 18e eeuw overspant de bijna 100 meter diepe kloof El Tajo en verbindt het oude met het nieuwe stadsdeel. Het is een openbare buitenbrug, dus aangelijnde honden mogen erover, maar houd de lijn kort bij de balustrades en uitzichtpunten waar de afgronden onbeveiligd zijn."
+        }
+      },
+      {
+        "name": "Plaza de Toros de Ronda (exterior)",
+        "emoji": "🏛️",
+        "petFriendly": true,
+        "desc": {
+          "en": "One of Spain's oldest bullrings, this neoclassical building is considered the birthplace of modern bullfighting on foot. Dogs are not permitted inside the ring or museum, but the exterior plaza and surrounding streets are walkable on a leash.",
+          "fr": "L'une des plus anciennes arènes d'Espagne, ce bâtiment néoclassique est considéré comme le berceau de la tauromachie moderne à pied. Les chiens ne sont pas admis dans l'arène ni le musée, mais la place extérieure et les rues environnantes se parcourent en laisse.",
+          "es": "Una de las plazas de toros más antiguas de España, este edificio neoclásico está considerado cuna de la tauromadia a pie moderna. Los perros no están permitidos dentro del ruedo ni del museo, pero la plaza exterior y las calles circundantes se pueden recorrer con correa.",
+          "pt": "Uma das praças de touros mais antigas de Espanha, este edifício neoclássico é considerado o berço da tourada moderna a pé. Os cães não são permitidos dentro do ruedo nem do museu, mas a praça exterior e as ruas em redor são caminháveis com trela.",
+          "de": "Eine der ältesten Stierkampfarenen Spaniens, dieses klassizistische Gebäude gilt als Geburtsort des modernen Stierkampfs zu Fuß. Hunde sind im Inneren der Arena und im Museum nicht erlaubt, aber der Vorplatz und die umliegenden Straßen sind an der Leine begehbar.",
+          "nl": "Een van de oudste stierenarena's van Spanje, dit neoclassicistische gebouw wordt beschouwd als de bakermat van het moderne stierenvechten te voet. Honden zijn niet toegestaan binnen de arena of het museum, maar het plein ervoor en de omliggende straten zijn aangelijnd te belopen."
+        }
+      },
+      {
+        "name": "Alameda del Tajo & Balcón del Tajo",
+        "emoji": "🌳",
+        "petFriendly": true,
+        "desc": {
+          "en": "A 19th-century public garden of tree-lined avenues leading to cliff-edge balconies overlooking the gorge. Leashed dogs are welcome throughout, and it's a shaded, pleasant rest stop, but stay close to your dog at the unguarded balcony viewpoints.",
+          "fr": "Un jardin public du XIXe siècle, aux allées bordées d'arbres menant à des balcons en bordure de falaise surplombant les gorges. Les chiens en laisse y sont bienvenus partout, c'est une pause ombragée agréable, mais restez près de votre chien aux belvédères non protégés.",
+          "es": "Un jardín público del siglo XIX con avenidas arboladas que llevan a balcones al borde del acantilado con vistas al desfiladero. Los perros con correa son bienvenidos en todo el recinto, es una parada con sombra agradable, pero mantente cerca de tu perro en los miradores sin protección.",
+          "pt": "Um jardim público do século XIX com avenidas arborizadas que levam a varandas na borda do penhasco com vista para o desfiladeiro. Os cães com trela são bem-vindos em todo o espaço, é uma paragem agradável e sombreada, mas fique perto do seu cão nos miradouros sem proteção.",
+          "de": "Ein öffentlicher Garten aus dem 19. Jahrhundert mit baumgesäumten Alleen, die zu Klippenbalkonen mit Blick auf die Schlucht führen. Angeleinte Hunde sind überall willkommen, ein schattiger, angenehmer Rastplatz, bleiben Sie aber an den ungesicherten Balkon-Aussichtspunkten nah bei Ihrem Hund.",
+          "nl": "Een openbare tuin uit de 19e eeuw met met bomen omzoomde lanen die leiden naar klifbalkons met uitzicht op de kloof. Aangelijnde honden zijn overal welkom, een schaduwrijke, fijne pauzeplek, maar blijf dicht bij je hond bij de onbeveiligde balkonuitzichtpunten."
+        }
+      },
+      {
+        "name": "Baños Árabes (Arab Baths, exterior)",
+        "emoji": "🕌",
+        "petFriendly": false,
+        "desc": {
+          "en": "These well-preserved 13th-14th century Arab baths, at the foot of the old town near the Puente Viejo, recall Ronda's Islamic-era daily life. As an indoor archaeological monument, dogs are not permitted inside, but the approach path and surrounding riverside area are walkable on a leash.",
+          "fr": "Ces bains maures bien conservés, datant des XIIIe-XIVe siècles, au pied de la vieille ville près du Puente Viejo, rappellent la vie quotidienne de la Ronda islamique. Monument archéologique intérieur, les chiens n'y sont pas admis, mais le chemin d'accès et les abords de la rivière se parcourent en laisse.",
+          "es": "Estos bien conservados baños árabes de los siglos XIII-XIV, a los pies del casco antiguo cerca del Puente Viejo, recuerdan la vida cotidiana de la Ronda islámica. Al ser un monumento arqueológico interior, no se permiten perros dentro, pero el camino de acceso y la zona junto al río se pueden recorrer con correa.",
+          "pt": "Estes bem preservados banhos árabes dos séculos XIII-XIV, aos pés do centro histórico perto da Puente Viejo, recordam o quotidiano da Ronda islâmica. Sendo um monumento arqueológico interior, não são permitidos cães lá dentro, mas o caminho de acesso e a zona junto ao rio são caminháveis com trela.",
+          "de": "Diese gut erhaltenen arabischen Bäder aus dem 13.-14. Jahrhundert, am Fuß der Altstadt nahe der Puente Viejo, erinnern an das Alltagsleben im islamischen Ronda. Als archäologisches Innendenkmal sind Hunde im Inneren nicht erlaubt, aber der Zugangsweg und das umliegende Flussufer sind an der Leine begehbar.",
+          "nl": "Deze goed bewaarde Arabische baden uit de 13e-14e eeuw, aan de voet van de oude stad bij de Puente Viejo, herinneren aan het dagelijks leven uit het islamitische Ronda. Als archeologisch binnenmonument zijn honden er niet toegestaan, maar het toegangspad en het omliggende riviergebied zijn aangelijnd te belopen."
+        }
+      },
+      {
+        "name": "La Ciudad (Old Town)",
+        "emoji": "🏘️",
+        "petFriendly": true,
+        "desc": {
+          "en": "The historic Moorish quarter south of the Puente Nuevo is a walkable network of plazas and narrow, partly cobblestoned streets. Leashed dogs are welcome throughout, but check paws after walking on the stone paving, especially in summer heat.",
+          "fr": "L'ancien quartier maure au sud du Puente Nuevo est un réseau praticable de places et de rues étroites, en partie pavées. Les chiens en laisse y sont bienvenus partout, mais vérifiez les coussinets après la marche sur les pavés, surtout par forte chaleur estivale.",
+          "es": "El antiguo barrio moro al sur del Puente Nuevo es una red transitable de plazas y calles estrechas, en parte empedradas. Los perros con correa son bienvenidos en todo el recinto, pero revisa las almohadillas después de caminar sobre el empedrado, especialmente con el calor del verano.",
+          "pt": "O antigo bairro mouro a sul da Puente Nuevo é uma rede caminhável de praças e ruas estreitas, parcialmente com calçada de pedra. Os cães com trela são bem-vindos em todo o espaço, mas verifique as almofadinhas depois de caminhar na calçada, sobretudo no calor do verão.",
+          "de": "Das historische maurische Viertel südlich der Puente Nuevo ist ein begehbares Netz aus Plätzen und engen, teils gepflasterten Straßen. Angeleinte Hunde sind überall willkommen, prüfen Sie aber nach dem Gehen auf dem Steinpflaster die Pfoten, besonders bei sommerlicher Hitze.",
+          "nl": "De historische Moorse wijk ten zuiden van de Puente Nuevo is een begaanbaar netwerk van pleinen en smalle, deels geplaveide straten. Aangelijnde honden zijn overal welkom, maar controleer de pootjes na het lopen op de bestrating, vooral bij zomerse hitte."
+        }
+      },
+      {
+        "name": "Mirador de Aldehuela / Jardines de Cuenca",
+        "emoji": "🏞️",
+        "petFriendly": true,
+        "desc": {
+          "en": "Terraced gardens descending the cliffside near the Puente de la Aldehuela, offering some of Ronda's most striking views of the gorge and countryside below. Leashed dogs can walk the garden paths, but the terraces are steep in places, so keep dogs close on the stairways.",
+          "fr": "Des jardins en terrasses descendant à flanc de falaise près du Puente de la Aldehuela, offrant certaines des vues les plus saisissantes de Ronda sur les gorges et la campagne en contrebas. Les chiens en laisse peuvent parcourir les allées du jardin, mais les terrasses sont par endroits abruptes, gardez donc votre chien près de vous dans les escaliers.",
+          "es": "Jardines en terrazas que descienden por la ladera cerca del Puente de la Aldehuela, con algunas de las vistas más impresionantes de Ronda sobre el desfiladero y la campiña de abajo. Los perros con correa pueden recorrer los senderos del jardín, pero las terrazas son empinadas en algunos tramos, mantén al perro cerca en las escaleras.",
+          "pt": "Jardins em socalcos que descem a encosta perto da Puente de la Aldehuela, com algumas das vistas mais impressionantes de Ronda sobre o desfiladeiro e a paisagem em baixo. Os cães com trela podem percorrer os caminhos do jardim, mas os socalcos são íngremes em alguns troços, mantenha o cão perto nas escadas.",
+          "de": "Terrassengärten, die den Hang bei der Puente de la Aldehuela hinabführen und einige der eindrucksvollsten Ausblicke Rondas auf die Schlucht und die Landschaft darunter bieten. Angeleinte Hunde können die Gartenwege entlanggehen, doch die Terrassen sind stellenweise steil, halten Sie den Hund also auf den Treppen nah bei sich.",
+          "nl": "Terrastuinen die langs de klif aflopen bij de Puente de la Aldehuela, met enkele van Ronda's meest indrukwekkende uitzichten op de kloof en het landschap eronder. Aangelijnde honden mogen over de tuinpaden lopen, maar de terrassen zijn plaatselijk steil, houd je hond dus dicht bij je op de trappen."
+        }
+      }
+    ],
+    "petTips": {
+      "en": [
+        "Spanish national law caps public leashes at 2 metres for all dogs, and breeds legally classified as potentially dangerous (PPP) must also wear a muzzle in every public space",
+        "Andalusian summers are extreme, Ronda regularly tops 30-35°C in July and August, so walk dogs early morning or evening and watch for hot cobblestones and stone paving underfoot",
+        "The miradores at Puente Nuevo, Alameda del Tajo, and Jardines de Cuenca all have unguarded cliff-edge drops, keep dogs on a short lead at every viewpoint",
+        "Small shops and vet clinics in Ronda often close for a midday siesta break, roughly 14:00-17:00, so call ahead rather than turning up unannounced",
+        "River swim spots like Cueva del Gato nearby have a specific dog zone, not the whole pool, and the water stays cold even in summer, so plan for a short dip"
+      ],
+      "fr": [
+        "La loi nationale espagnole limite les laisses à 2 mètres dans l'espace public pour tous les chiens, et les races légalement classées comme potentiellement dangereuses (PPP) doivent en plus porter une muselière partout en public",
+        "Les étés andalous sont extrêmes, Ronda dépasse régulièrement les 30-35°C en juillet et août, promenez donc les chiens tôt le matin ou en soirée et méfiez-vous des pavés et dallages chauds sous leurs pattes",
+        "Les miradors du Puente Nuevo, de l'Alameda del Tajo et des Jardines de Cuenca présentent tous des à-pics non protégés, gardez les chiens en laisse courte à chaque belvédère",
+        "Les petits commerces et cliniques vétérinaires de Ronda ferment souvent pour la sieste de midi, environ 14h-17h, appelez donc avant de vous présenter",
+        "Les baignades en rivière comme la Cueva del Gato à proximité disposent d'une zone chien spécifique, pas de tout le bassin, et l'eau reste froide même en été, prévoyez donc une baignade courte"
+      ],
+      "es": [
+        "La ley nacional española limita las correas a 2 metros en la vía pública para todos los perros, y las razas clasificadas legalmente como potencialmente peligrosas (PPP) deben además llevar bozal en todo espacio público",
+        "Los veranos andaluces son extremos, Ronda supera regularmente los 30-35°C en julio y agosto, así que pasea a los perros a primera hora de la mañana o al atardecer y ten cuidado con los adoquines y el pavimento caliente bajo sus patas",
+        "Los miradores del Puente Nuevo, la Alameda del Tajo y los Jardines de Cuenca tienen caídas sin protección, mantén a los perros con correa corta en cada mirador",
+        "Las pequeñas tiendas y clínicas veterinarias de Ronda suelen cerrar para la siesta de mediodía, aproximadamente 14:00-17:00, así que llama antes de presentarte",
+        "Los baños en río como la Cueva del Gato cercana tienen una zona de perros específica, no toda la piscina, y el agua se mantiene fría incluso en verano, así que planea un baño corto"
+      ],
+      "pt": [
+        "A lei nacional espanhola limita as trelas a 2 metros na via pública para todos os cães, e as raças legalmente classificadas como potencialmente perigosas (PPP) devem também usar açaime em todo o espaço público",
+        "Os verões andaluzes são extremos, Ronda ultrapassa regularmente os 30-35°C em julho e agosto, por isso passeie os cães de manhã cedo ou ao fim do dia e tenha cuidado com a calçada e o pavimento quentes sob as patas",
+        "Os miradouros da Puente Nuevo, da Alameda del Tajo e dos Jardines de Cuenca têm quedas sem proteção, mantenha os cães com trela curta em cada miradouro",
+        "As pequenas lojas e clínicas veterinárias de Ronda costumam fechar para a sesta do meio-dia, aproximadamente das 14:00 às 17:00, por isso telefone antes de aparecer",
+        "Os banhos de rio como a Cueva del Gato ali perto têm uma zona específica para cães, não toda a piscina, e a água mantém-se fria mesmo no verão, por isso planeie um banho curto"
+      ],
+      "de": [
+        "Das spanische Landesgesetz begrenzt Leinen im öffentlichen Raum auf 2 Meter für alle Hunde, und als potenziell gefährlich (PPP) eingestufte Rassen müssen zusätzlich überall in der Öffentlichkeit einen Maulkorb tragen",
+        "Andalusische Sommer sind extrem, Ronda übersteigt im Juli und August regelmäßig 30-35°C, gehen Sie also früh morgens oder abends mit dem Hund spazieren und achten Sie auf heißes Kopfsteinpflaster und Steinböden unter den Pfoten",
+        "Die Aussichtspunkte an der Puente Nuevo, der Alameda del Tajo und den Jardines de Cuenca haben alle ungesicherte Klippenabgründe, halten Sie Hunde an jedem Aussichtspunkt an kurzer Leine",
+        "Kleine Geschäfte und Tierkliniken in Ronda schließen oft zur Mittagssiesta, etwa 14:00-17:00 Uhr, rufen Sie also vorher an, statt unangekündigt vorbeizukommen",
+        "Flussbademöglichkeiten wie die nahe gelegene Cueva del Gato haben eine spezielle Hundezone, nicht das ganze Becken, und das Wasser bleibt auch im Sommer kalt, planen Sie also nur ein kurzes Bad ein"
+      ],
+      "nl": [
+        "De Spaanse nationale wet beperkt lijnen in openbare ruimtes tot 2 meter voor alle honden, en rassen die wettelijk als potentieel gevaarlijk (PPP) zijn geclassificeerd moeten bovendien overal in het openbaar een muilkorf dragen",
+        "Andalusische zomers zijn extreem, Ronda gaat in juli en augustus regelmatig boven de 30-35°C, wandel dus vroeg in de ochtend of 's avonds met je hond en let op hete kasseien en bestrating onder de pootjes",
+        "De uitzichtpunten bij de Puente Nuevo, de Alameda del Tajo en de Jardines de Cuenca hebben allemaal onbeveiligde klifafgronden, houd honden bij elk uitzichtpunt aan een korte lijn",
+        "Kleine winkels en dierenklinieken in Ronda sluiten vaak voor de middagsiësta, ongeveer 14:00-17:00 uur, bel dus van tevoren in plaats van onaangekondigd langs te gaan",
+        "Rivierzwemplekken zoals de nabijgelegen Cueva del Gato hebben een specifieke hondenzone, niet het hele bad, en het water blijft ook 's zomers koud, plan dus voor een korte duik"
+      ]
+    },
+    "practicalInfo": {
+      "en": [
+        "Nearest airports are Málaga-Costa del Sol (AGP), about 1h45 by car, and Sevilla (SVQ), about 2 hours",
+        "Renfe regional trains on the Algeciras-Bobadilla line serve Ronda; dogs need a separate pet ticket, and since July 2026 dogs up to 40kg are accepted with a carrier no larger than 60x35x35cm",
+        "EU pet entry to Spain requires an ISO microchip, valid rabies vaccination, and an EU pet passport or animal health certificate",
+        "Boycan Centro Veterinario in Ronda offers a 24-hour emergency phone line and home-visit service alongside regular weekday clinic hours",
+        "Spring and autumn are the best seasons to visit with a dog, avoiding the extreme heat of Andalusian summers"
+      ],
+      "fr": [
+        "Les aéroports les plus proches sont Málaga-Costa del Sol (AGP), à environ 1h45 en voiture, et Séville (SVQ), à environ 2 heures",
+        "Les trains régionaux Renfe de la ligne Algeciras-Bobadilla desservent Ronda ; les chiens ont besoin d'un billet mascotte séparé, et depuis juillet 2026 les chiens jusqu'à 40 kg sont acceptés avec un transportín ne dépassant pas 60x35x35 cm",
+        "L'entrée d'un animal de l'UE en Espagne nécessite une puce électronique ISO, une vaccination antirabique valide, et un passeport européen pour animaux ou un certificat sanitaire",
+        "Boycan Centro Veterinario à Ronda propose une ligne d'urgence téléphonique 24h/24 et un service de visites à domicile, en plus des horaires réguliers de clinique en semaine",
+        "Le printemps et l'automne sont les meilleures saisons pour visiter avec un chien, en évitant la chaleur extrême des étés andalous"
+      ],
+      "es": [
+        "Los aeropuertos más cercanos son Málaga-Costa del Sol (AGP), a unas 1h45 en coche, y Sevilla (SVQ), a unas 2 horas",
+        "Los trenes regionales de Renfe en la línea Algeciras-Bobadilla dan servicio a Ronda; los perros necesitan un billete de mascota aparte, y desde julio de 2026 se aceptan perros de hasta 40 kg con transportín de máximo 60x35x35 cm",
+        "La entrada de mascotas de la UE a España requiere microchip ISO, vacunación antirrábica vigente, y pasaporte europeo para mascotas o certificado sanitario",
+        "Boycan Centro Veterinario en Ronda ofrece línea de urgencias telefónica 24 horas y servicio a domicilio, además de horario regular de clínica entre semana",
+        "La primavera y el otoño son las mejores estaciones para visitar con un perro, evitando el calor extremo de los veranos andaluces"
+      ],
+      "pt": [
+        "Os aeroportos mais próximos são Málaga-Costa del Sol (AGP), a cerca de 1h45 de carro, e Sevilha (SVQ), a cerca de 2 horas",
+        "Os comboios regionais da Renfe na linha Algeciras-Bobadilla servem Ronda; os cães precisam de bilhete de animal à parte, e desde julho de 2026 são aceites cães até 40kg com transportadora de no máximo 60x35x35cm",
+        "A entrada de animais da UE em Espanha exige microchip ISO, vacinação antirrábica válida, e passaporte europeu para animais ou certificado sanitário",
+        "A Boycan Centro Veterinario em Ronda oferece linha de urgência telefónica 24 horas e serviço ao domicílio, além do horário regular de clínica em dias úteis",
+        "A primavera e o outono são as melhores estações para visitar com um cão, evitando o calor extremo dos verões andaluzes"
+      ],
+      "de": [
+        "Die nächstgelegenen Flughäfen sind Málaga-Costa del Sol (AGP), etwa 1:45 Stunden mit dem Auto, und Sevilla (SVQ), etwa 2 Stunden",
+        "Renfe-Regionalzüge auf der Linie Algeciras-Bobadilla bedienen Ronda; Hunde benötigen ein separates Haustierticket, und seit Juli 2026 werden Hunde bis 40kg mit einer Transportbox von maximal 60x35x35cm akzeptiert",
+        "Für die EU-Haustiereinreise nach Spanien sind ein ISO-Mikrochip, eine gültige Tollwutimpfung und ein EU-Heimtierausweis oder eine Tiergesundheitsbescheinigung erforderlich",
+        "Boycan Centro Veterinario in Ronda bietet eine 24-Stunden-Notfall-Telefonlinie und Hausbesuchsservice zusätzlich zu regulären Sprechzeiten unter der Woche",
+        "Frühling und Herbst sind die besten Reisezeiten mit Hund, um die extreme Hitze der andalusischen Sommer zu vermeiden"
+      ],
+      "nl": [
+        "De dichtstbijzijnde luchthavens zijn Málaga-Costa del Sol (AGP), ongeveer 1u45 met de auto, en Sevilla (SVQ), ongeveer 2 uur",
+        "Regionale Renfe-treinen op de lijn Algeciras-Bobadilla bedienen Ronda; honden hebben een apart huisdierticket nodig, en sinds juli 2026 worden honden tot 40kg geaccepteerd met een transportbox van maximaal 60x35x35cm",
+        "Voor EU-huisdierinreis in Spanje zijn een ISO-microchip, een geldige rabiësvaccinatie en een EU-dierenpaspoort of gezondheidscertificaat vereist",
+        "Boycan Centro Veterinario in Ronda biedt een 24-uurs noodtelefoonlijn en huisbezoekservice naast reguliere kliniekuren op weekdagen",
+        "Lente en herfst zijn de beste seizoenen om met je hond op bezoek te gaan, om de extreme hitte van Andalusische zomers te vermijden"
+      ]
+    }
+  },
   roses: {
     history: {
       fr: `Roses (Rosas en castillan) s'étire au nord du golfe du même nom, sur la Costa Brava catalane, dans la province de Gérone. Son histoire remonte aux Grecs de Rhodes, qui y fondèrent le comptoir de Rhode vers le IVe siècle av. J.-C. ; Romains, Wisigoths et abbayes médiévales lui succédèrent. Au XVIe siècle, Charles Quint fit édifier la vaste Ciutadella, forteresse Renaissance qui enferme aujourd'hui des vestiges grecs, romains et monastiques. Sur les hauteurs, des dolmens mégalithiques rappellent une occupation bien plus ancienne. Longtemps village de pêcheurs, Roses est devenue une station balnéaire animée, avec une longue baie de sable et des criques sauvages vers le cap de Creus. Pour le voyageur avec un chien, elle combine un site archéologique en plein air, un front de mer plat, des sentiers côtiers et la réserve des Aiguamolls de l'Empordà toute proche.`,

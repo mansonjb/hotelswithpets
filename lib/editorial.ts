@@ -21,6 +21,11 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    ronda: {
+      personality: `a dramatic clifftop town in the mountains of Málaga province, split by the 100-metre El Tajo gorge and joined by the 18th-century Puente Nuevo, where a Moorish old town, one of Spain's oldest bullrings and the tree-lined Alameda del Tajo frame sweeping cliff-edge miradores`,
+      highlight: `the Puente Nuevo and El Tajo gorge viewpoints, the shaded avenues and Balcón del Tajo of the Alameda del Tajo, and the cobbled lanes of La Ciudad old town`,
+      area: `the historic La Ciudad quarter south of the gorge, the Mercadillo new town around Plaza del Socorro, and the cliff-edge promenade of the Alameda del Tajo`,
+    },
     sibiu: {
       personality: `a compact medieval Saxon town in the heart of Transylvania, where the cobbled Piața Mare and Piața Mică squares, pastel guild houses and the vast ASTRA open-air museum frame an unusually walkable old town, backed by three dedicated off-leash dog parks opened in 2023 and easy access to the Făgăraș mountains`,
       highlight: `the three fenced dog parks on Strada Maramureșului, Aleea Șelimbăr and Oașa, the leafy Parcul Sub Arini, and the outdoor grounds of the ASTRA open-air museum`,
@@ -2124,6 +2129,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    ronda: {
+      personality: `une spectaculaire ville perchée dans les montagnes de la province de Malaga, fendue par la gorge d'El Tajo de 100 mètres et reliée par le Puente Nuevo du XVIIIe siècle, où une vieille ville mauresque, l'une des plus anciennes arènes d'Espagne et l'Alameda del Tajo bordée d'arbres encadrent de vertigineux miradors au bord de la falaise`,
+      highlight: `le Puente Nuevo et les points de vue sur la gorge d'El Tajo, les allées ombragées et le Balcón del Tajo de l'Alameda del Tajo, et les ruelles pavées de la vieille ville de La Ciudad`,
+      area: `le quartier historique de La Ciudad au sud de la gorge, la ville neuve du Mercadillo autour de la Plaza del Socorro et la promenade de falaise de l'Alameda del Tajo`,
+    },
     sibiu: {
       personality: `une petite ville saxonne médiévale au cœur de la Transylvanie, où les places pavées Piața Mare et Piața Mică, les maisons de guilde aux tons pastel et le vaste musée de plein air ASTRA encadrent une vieille ville étonnamment agréable à parcourir à pied, complétée par trois parcs canins clôturés ouverts en 2023 et un accès facile aux montagnes de Făgăraș`,
       highlight: `les trois parcs canins clôturés de Strada Maramureșului, Aleea Șelimbăr et Oașa, le verdoyant Parcul Sub Arini et les allées extérieures du musée de plein air ASTRA`,
@@ -4226,6 +4236,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    ronda: {
+      personality: `una espectacular ciudad encaramada en las montañas de la provincia de Málaga, partida por el tajo de 100 metros de El Tajo y unida por el Puente Nuevo del siglo XVIII, donde un casco antiguo de origen musulmán, una de las plazas de toros más antiguas de España y la arbolada Alameda del Tajo enmarcan vertiginosos miradores al borde del precipicio`,
+      highlight: `el Puente Nuevo y los miradores sobre el tajo de El Tajo, las avenidas sombreadas y el Balcón del Tajo de la Alameda del Tajo, y las calles empedradas del casco antiguo de La Ciudad`,
+      area: `el histórico barrio de La Ciudad al sur del tajo, el Mercadillo en torno a la Plaza del Socorro y el paseo junto al precipicio de la Alameda del Tajo`,
+    },
     sibiu: {
       personality: `una compacta ciudad sajona medieval en el corazón de Transilvania, donde las plazas empedradas Piața Mare y Piața Mică, las casas gremiales en tonos pastel y el enorme museo al aire libre ASTRA enmarcan un casco antiguo sorprendentemente caminable, con tres parques caninos vallados inaugurados en 2023 y fácil acceso a las montañas de Făgăraș`,
       highlight: `los tres parques caninos vallados de Strada Maramureșului, Aleea Șelimbăr y Oașa, el frondoso Parcul Sub Arini y los recintos exteriores del museo al aire libre ASTRA`,
@@ -6328,6 +6343,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    ronda: {
+      personality: `uma espetacular cidade empoleirada nas montanhas da província de Málaga, rasgada pela garganta de 100 metros de El Tajo e unida pela Puente Nuevo do século XVIII, onde um centro histórico de origem mourisca, uma das mais antigas praças de touros de Espanha e a arborizada Alameda del Tajo emolduram vertiginosos miradouros à beira do precipício`,
+      highlight: `a Puente Nuevo e os miradouros sobre a garganta de El Tajo, as avenidas sombreadas e o Balcón del Tajo da Alameda del Tajo, e as ruelas de calçada do centro histórico de La Ciudad`,
+      area: `o histórico bairro de La Ciudad a sul da garganta, o Mercadillo em torno da Plaza del Socorro e o passeio junto ao precipício da Alameda del Tajo`,
+    },
     sibiu: {
       personality: `uma compacta cidade saxã medieval no coração da Transilvânia, onde as praças de calçada Piața Mare e Piața Mică, as casas de guilda em tons pastel e o vasto museu ao ar livre ASTRA emolduram um centro histórico invulgarmente pedonal, com três parques caninos vedados inaugurados em 2023 e acesso fácil às montanhas de Făgăraș`,
       highlight: `os três parques caninos vedados na Strada Maramureșului, Aleea Șelimbăr e Oașa, o verdejante Parcul Sub Arini e os recintos exteriores do museu ao ar livre ASTRA`,
@@ -8430,6 +8450,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   de: {
+    ronda: {
+      personality: `eine spektakuläre Bergstadt in der Provinz Málaga, gespalten von der 100 Meter tiefen Schlucht El Tajo und verbunden durch die Puente Nuevo aus dem 18. Jahrhundert, wo eine maurische Altstadt, eine der ältesten Stierkampfarenen Spaniens und die baumbestandene Alameda del Tajo schwindelerregende Aussichtspunkte am Klippenrand einrahmen`,
+      highlight: `die Puente Nuevo und die Aussichtspunkte über die Schlucht El Tajo, die schattigen Alleen und der Balcón del Tajo der Alameda del Tajo sowie die gepflasterten Gassen der Altstadt La Ciudad`,
+      area: `das historische Viertel La Ciudad südlich der Schlucht, die Neustadt Mercadillo rund um die Plaza del Socorro und die Klippenpromenade der Alameda del Tajo`,
+    },
     sibiu: {
       personality: `eine kompakte mittelalterliche sächsische Stadt im Herzen Siebenbürgens, wo die gepflasterten Plätze Piața Mare und Piața Mică, die pastellfarbenen Zunfthäuser und das weitläufige Freilichtmuseum ASTRA eine ungewöhnlich gut begehbare Altstadt umrahmen, ergänzt durch drei 2023 eröffnete eingezäunte Hundeparks und einen einfachen Zugang zum Făgăraș-Gebirge`,
       highlight: `die drei eingezäunten Hundeparks in der Strada Maramureșului, Aleea Șelimbăr und Oașa, der grüne Parcul Sub Arini und das Freigelände des Freilichtmuseums ASTRA`,
@@ -10532,6 +10557,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   nl: {
+    ronda: {
+      personality: `een spectaculair stadje hoog in de bergen van de provincie Málaga, gespleten door de 100 meter diepe El Tajo-kloof en verbonden door de 18e-eeuwse Puente Nuevo, waar een Moorse oude stad, een van de oudste stierenarena's van Spanje en de met bomen omzoomde Alameda del Tajo duizelingwekkende uitzichtpunten aan de rand van de klif omlijsten`,
+      highlight: `de Puente Nuevo en de uitzichtpunten over de El Tajo-kloof, de schaduwrijke lanen en het Balcón del Tajo van de Alameda del Tajo, en de geplaveide straatjes van de oude stad La Ciudad`,
+      area: `de historische wijk La Ciudad ten zuiden van de kloof, de nieuwe stad Mercadillo rond de Plaza del Socorro en de kliffenpromenade van de Alameda del Tajo`,
+    },
     sibiu: {
       personality: `een compacte middeleeuwse Saksische stad in het hart van Transsylvanië, waar de geplaveide pleinen Piața Mare en Piața Mică, de pastelkleurige gildehuizen en het uitgestrekte openluchtmuseum ASTRA een ongewoon goed beloopbare oude stad omkaderen, aangevuld met drie in 2023 geopende omheinde hondenparken en makkelijke toegang tot het Făgăraș-gebergte`,
       highlight: `de drie omheinde hondenparken aan de Strada Maramureșului, Aleea Șelimbăr en Oașa, het groene Parcul Sub Arini en het buitenterrein van het openluchtmuseum ASTRA`,

@@ -31578,5 +31578,79 @@
         "icon": "⛅"
       }
     }
+  },
+  {
+    "slug": "ronda",
+    "name": "Ronda",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/ronda.jpg",
+    "intro": "A dramatic clifftop town split by the 100-metre El Tajo gorge and spanned by the Puente Nuevo, Ronda pairs one of Spain’s oldest bullrings and a Moorish old town with the leafy Alameda del Tajo promenade and sweeping mirador walks, a compact, walkable base for dog owners exploring inland Malaga province.",
+    "lat": 36.7461,
+    "lng": -5.1611,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild & bright",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild & cool",
+        "icon": "⛅"
+      }
+    }
   }
 ]

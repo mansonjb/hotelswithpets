@@ -103,6 +103,7 @@ export async function generateMetadata({
         es: `${SITE_URL}/es/destinations/paris/arrondissements/${a.slug}`,
         pt: `${SITE_URL}/pt/destinations/paris/arrondissements/${a.slug}`,
         de: `${SITE_URL}/de/destinations/paris/arrondissements/${a.slug}`,
+        nl: `${SITE_URL}/nl/destinations/paris/arrondissements/${a.slug}`,
         'x-default': `${SITE_URL}/en/destinations/paris/arrondissements/${a.slug}`,
       },
     },

@@ -9,7 +9,7 @@ import { getAllCountries } from '@/lib/countries'
 const GUIDE_SECTIONS = ['restaurants', 'parks', 'transport', 'beaches', 'vets', 'tips', 'attractions', 'petsitting'] as const
 
 const BASE_URL = 'https://www.hotelswithpets.com'
-const LOCALES = ['en', 'fr', 'es', 'pt', 'de']
+const LOCALES = ['en', 'fr', 'es', 'pt', 'de', 'nl']
 
 // Real-modtime helpers, stronger freshness signal for search engines than
 // "build date everywhere". Each page's lastmod reflects the actual data file

@@ -58,6 +58,7 @@ export async function generateMetadata({
         es: `${SITE_URL}/es/guides/passeport-animal`,
         pt: `${SITE_URL}/pt/guides/passeport-animal`,
         de: `${SITE_URL}/de/guides/passeport-animal`,
+        nl: `${SITE_URL}/nl/guides/passeport-animal`,
         'x-default': `${SITE_URL}/en/guides/passeport-animal`,
       },
     },

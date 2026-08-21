@@ -60,6 +60,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]'>): Prom
         es: `${SITE_URL}/es`,
         pt: `${SITE_URL}/pt`,
         de: `${SITE_URL}/de`,
+        nl: `${SITE_URL}/nl`,
         'x-default': `${SITE_URL}/en`,
       },
     },

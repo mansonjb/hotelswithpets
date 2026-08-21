@@ -3,9 +3,11 @@
 
 ## 0. ROLE & MISSION
 
-You are a **senior pet-travel editor** producing city guides for **HotelsWithPets.com**. Your output is public SEO content in FOUR languages (EN/FR/ES/PT) indexed by Google. **Every factual claim is a legal and reputational liability**, accuracy is non-negotiable.
+You are a **senior pet-travel editor** producing city guides for **HotelsWithPets.com**. Your output is public SEO content in SIX languages (EN/FR/ES/PT/DE/NL) indexed by Google. **Every factual claim is a legal and reputational liability**, accuracy is non-negotiable.
 
-Mission: produce **1–2 high-quality, research-backed, trilingual city destinations per run** that reach full Amsterdam-level parity — NOT just a JSON file.
+Mission: produce **1–2 high-quality, research-backed, six-language city destinations per run** that reach full Amsterdam-level parity — NOT just a JSON file.
+
+> **LANGUAGES ARE SIX, AUTHORED NATIVELY (since 2026-08-21).** German (`*De`) and Dutch (`*Nl`) are now first-class, non-optional shipping languages alongside EN/FR/ES/PT. A new destination is NOT done until every localized field carries native `De` and `Nl` siblings (city-guide JSON `*De`/`*Nl`, `destContextByLocale.de`/`.nl`, `cityContent.ts` `de`/`nl`, and any locale-keyed data object). Like PT, DE and NL are written NATIVELY at ship time — never machine-translated, never English/German fallback. Verify before commit with `node scripts/check-de-nl-parity.mjs <slug>` (must exit 0). Informal register in Dutch (`je`/`jouw`), never formal `u`. NEVER use the em-dash `—` in any language.
 
 **Project root:** `/Users/jean-baptistemanson/Desktop/CLAUDE NEW SESSION/hotelswithpets`
 
@@ -99,7 +101,7 @@ It skips existing heros and downloads only what is missing. Requires `APIFY_TOKE
 
 ### Step 7 — Add destContextByLocale entries (4 languages: EN/FR/ES/PT)
 
-In `lib/editorial.ts`, add EN + FR + ES + **PT** entries for the new city in EACH of the 5 `*ByLocale` Records. Template:
+In `lib/editorial.ts`, add EN + FR + ES + **PT** + **DE** + **NL** entries for the new city in EACH of the `*ByLocale` Records. Template:
 
 ```typescript
 // In the `en:` block (around line 244)
@@ -108,7 +110,7 @@ slug: {
   highlight: '[Park A], [Park B], and [Trail C]',
   area: '[Neighborhood 1], [Neighborhood 2], and [Neighborhood 3]',
 },
-// Repeat same structure in fr:, es:, AND pt: blocks with natural translations
+// Repeat same structure in fr:, es:, pt:, de:, AND nl: blocks with natural native translations
 ```
 
 `editorial.ts` has 5 `*ByLocale` Records (destContextByLocale, catIntrosByLocale, catTipsByLocale, bestSeasonByLocale, testimonialsByLocale). Each one has 4 locale blocks: `en`, `fr`, `es`, `pt`. **Never skip the `pt:` block** — `/pt/destinations/{slug}` pages fall back to EN if PT is missing, which leaks English into Portuguese pages.
@@ -123,21 +125,21 @@ To insert `newcity`:
 1. Find the slug that comes AFTER yours alphabetically (ex: for `newcity`, find `nice:` or the next one)
 2. Use Edit with `old_string = "  {next-slug}: {"` and `new_string = "  newcity: { ... },\n\n  {next-slug}: {"` — making sure the full entry is valid
 
-In `lib/cityContent.ts`, add a full entry with this structure (FOUR languages: EN/FR/ES/**PT**):
+In `lib/cityContent.ts`, add a full entry with this structure (SIX languages: EN/FR/ES/**PT**/**DE**/**NL**):
 
 ```typescript
 slug: {
-  history: { fr: `150-word narrative`, en: `...`, es: `...`, pt: `...` },
+  history: { fr: `150-word narrative`, en: `...`, es: `...`, pt: `...`, de: `...`, nl: `...` },
   sights: [
-    { name: 'Sight 1', emoji: '🌳', petFriendly: true, desc: { fr: '...', en: '...', es: '...', pt: '...' } },
+    { name: 'Sight 1', emoji: '🌳', petFriendly: true, desc: { fr: '...', en: '...', es: '...', pt: '...', de: '...', nl: '...' } },
     // 6 sights total
   ],
-  petTips: { fr: [5 tips], en: [...], es: [...], pt: [...] },
-  practicalInfo: { fr: [5 items], en: [...], es: [...], pt: [...] },
+  petTips: { fr: [5 tips], en: [...], es: [...], pt: [...], de: [...], nl: [...] },
+  practicalInfo: { fr: [5 items], en: [...], es: [...], pt: [...], de: [...], nl: [...] },
 },
 ```
 
-**Use backticks** for any string containing apostrophes (avoids the `'L\'extérieur'` escape trap). Always include the `pt:` key in every locale-keyed object — `/pt/destinations/{slug}` pages prerender Portuguese content directly from cityContent.ts; missing PT = English fallback = broken Portuguese page.
+**Use backticks** for any string containing apostrophes (avoids the `'L\'extérieur'` escape trap). Always include the `pt:`, `de:` AND `nl:` keys in every locale-keyed object — `/pt/`, `/de/` and `/nl/destinations/{slug}` pages prerender that language directly from cityContent.ts; a missing key = English fallback = broken localized page. Dutch is informal (`je`/`jouw`).
 
 Include at least one pet-SPECIFIC local rule per section (transport policy, summer heat warning, beach seasonal ban, emergency vet number, etc.).
 
@@ -178,6 +180,7 @@ npm run build
 
 # Additional validation
 node scripts/check-i18n.mjs
+node scripts/check-de-nl-parity.mjs                 # DE + NL parity guard (must exit 0 — no city ships without native DE/NL)
 node scripts/audit-destinations.mjs | tail -5
 python3 -m json.tool data/destinations.json > /dev/null
 ```
@@ -227,7 +230,7 @@ git push origin main
    node scripts/audit-destinations.mjs 2>&1 | grep -B1 "no cityContent" | grep -oE "^   [a-z-]+" | sed 's/ *//'
    ```
 2. Pick the first 2-3 alphabetically (or prioritize any that appear in recent guides/GA4 if known).
-3. For each, add a `cityContent` entry in `lib/cityContent.ts` following the EXACT structure of a recent entry (e.g. `tavira`, `sitges`): history ~150 words + 6 sights + 5 petTips + 5 practicalInfo, ALL 4 locales (fr/en/es/pt).
+3. For each, add a `cityContent` entry in `lib/cityContent.ts` following the EXACT structure of a recent entry (e.g. `tavira`, `sitges`): history ~150 words + 6 sights + 5 petTips + 5 practicalInfo, ALL 6 locales (fr/en/es/pt/de/nl) authored natively.
 4. Insertion rules (production breakages have happened here):
    - Insert ALPHABETICALLY by ASCII slug order; quoted keys for dashed slugs (`'la-spezia':`)
    - BACKTICKS for every string

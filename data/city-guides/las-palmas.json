@@ -41,9 +41,13 @@
           "tipPt": "Peça uma mesa no lado da esplanada à sombra das palmeiras, fica mais fresco para o seu cão ao meio-dia",
           "googleMapsUrl": "https://maps.google.com/?q=Casa+Fataga+Las+Palmas",
           "descriptionDe": "Ein traditioneller kanarischer Bodegón direkt im Parque Santa Catalina, mit einer ganzjährig geöffneten Terrasse im Freien, beschattet von Palmen. Hunde sind auf der Terrasse ausdrücklich willkommen, und das Personal bittet darum, dies bei der Tischreservierung zu erwähnen.",
+          "descriptionNl": "Een traditionele Canarische bodegón pal in het Parque Santa Catalina, met een het hele jaar door geopend buitenterras in de schaduw van palmbomen. Honden zijn nadrukkelijk welkom op het terras, en het personeel vraagt om dit bij het reserveren van een tafel te vermelden.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Papas arrugadas mit Mojo, gegrillter kanarischer Käse",
-          "tipDe": "Bitten Sie um einen Tisch auf der palmenbeschatteten Seite der Terrasse, dort bleibt es für Ihren Hund mittags kühler"
+          "mustTryNl": "Papas arrugadas met mojo, gegrilde Canarische kaas",
+          "tipDe": "Bitten Sie um einen Tisch auf der palmenbeschatteten Seite der Terrasse, dort bleibt es für Ihren Hund mittags kühler",
+          "tipNl": "Vraag om een tafel aan de palmbeschaduwde kant van het terras, daar blijft het rond het middaguur koeler voor je hond"
         },
         {
           "name": "Pier 19",
@@ -71,9 +75,13 @@
           "tipPt": "Reserve com antecedência para uma mesa ao pôr do sol, a esplanada da marina enche depressa aos fins de semana",
           "googleMapsUrl": "https://maps.google.com/?q=Pier+19+Las+Palmas+Muelle+Deportivo",
           "descriptionDe": "Ein Restaurant direkt an der Marina mit Blick auf die Segelboote des Muelle Deportivo, mit frischen Meeresfrüchten und einer langen Terrasse im Freien. Es ist eine benannte Station auf der lokalen Hunde-Speiseroute von Canarias7, und die breite Terrasse am Hafen eignet sich gut für einen angeleinten Hund.",
+          "descriptionNl": "Een restaurant pal aan de jachthaven met uitzicht op de zeilboten van de Muelle Deportivo, met verse zeevruchten en een lang buitenterras. Het is een benoemde halte op de lokale hondenroute van Canarias7, en het brede terras aan de haven is geschikt voor een aangelijnde hond.",
           "petPolicyDe": "Hunde auf der Marina-Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het jachthaventerras",
           "mustTryDe": "Frischer gegrillter Fang des Tages, kanarischer Reis mit Meeresfrüchten",
-          "tipDe": "Reservieren Sie im Voraus einen Tisch zum Sonnenuntergang, die Marina-Terrasse füllt sich an Wochenenden schnell"
+          "mustTryNl": "Verse gegrilde vangst van de dag, Canarische rijst met zeevruchten",
+          "tipDe": "Reservieren Sie im Voraus einen Tisch zum Sonnenuntergang, die Marina-Terrasse füllt sich an Wochenenden schnell",
+          "tipNl": "Reserveer van tevoren een tafel voor zonsondergang, het jachthaventerras loopt in het weekend snel vol"
         },
         {
           "name": "Fresquito Archipiélago",
@@ -101,9 +109,13 @@
           "tipPt": "Vá numa manhã de semana, as filas do brunch ao fim de semana podem ser longas para um cão impaciente",
           "googleMapsUrl": "https://maps.google.com/?q=Fresquito+Archipielago+Las+Palmas",
           "descriptionDe": "Ein helles Brunch- und Kaffeelokal, bekannt für Pancakes, Sauerteig-Toasts und herzhafte Sandwiches. Es ist eines der wenigen Cafés in Las Palmas, das Hunde sowohl auf der Terrasse als auch im Speiseraum willkommen heißt.",
+          "descriptionNl": "Een lichte brunch- en koffiezaak, bekend om pannenkoeken, zuurdesemtoast en stevige sandwiches. Het is een van de weinige cafés in Las Palmas die honden zowel op het terras als in de eetruimte welkom heten.",
           "petPolicyDe": "Hunde auf der Terrasse und drinnen willkommen",
+          "petPolicyNl": "Honden welkom op het terras en binnen",
           "mustTryDe": "Pancakes, Avocado-Toast mit Rührei",
-          "tipDe": "Gehen Sie an einem Wochentagmorgen hin, die Brunch-Schlangen am Wochenende können eine lange Wartezeit mit einem unruhigen Hund bedeuten"
+          "mustTryNl": "Pannenkoeken, avocadotoast met roerei",
+          "tipDe": "Gehen Sie an einem Wochentagmorgen hin, die Brunch-Schlangen am Wochenende können eine lange Wartezeit mit einem unruhigen Hund bedeuten",
+          "tipNl": "Ga op een doordeweekse ochtend, de brunchrijen in het weekend kunnen een lange wachttijd betekenen met een rusteloze hond"
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Las Palmas",
+      "titleNl": "Hondvriendelijke restaurants in Las Palmas",
       "introDe": "Las Palmas lebt von Terrassenkultur, daher ist ein angeleinter Hund zu Ihren Füßen bei einem sonnigen Mittagessen hier völlig normal. Die besten Adressen konzentrieren sich rund um den Parque Santa Catalina, die Marina Muelle Deportivo und die Straßen direkt hinter Las Canteras.",
+      "introNl": "Las Palmas leeft van terrascultuur, dus een aangelijnde hond aan je voeten bij een zonnige lunch is hier heel normaal. De beste adresjes concentreren zich rond het Parque Santa Catalina, de jachthaven Muelle Deportivo en de straten net achter Las Canteras.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Las Palmas erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Ist es leicht, hundefreundliche Cafés zum Frühstück zu finden?",
           "a": "Ja. Brunch-Lokale wie Fresquito Archipiélago in Santa Catalina heißen Hunde sowohl auf der Terrasse als auch drinnen willkommen, was für Innenplätze in Spanien ungewöhnlich ist."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Las Palmas?",
+          "a": "Er is geen stadsbreed verbod, het hangt af van elke individuele eigenaar. Terrasplekken zijn de veiligste keuze, en cafés en bodegones rond Santa Catalina en de Muelle Deportivo zijn het meest consequent welkom."
+        },
+        {
+          "q": "Moet ik mijn hond aan de lijn houden op restaurantterrassen?",
+          "a": "Ja, een lijn wordt op alle openbare plekken in Las Palmas altijd verwacht, ook op restaurantterrassen."
+        },
+        {
+          "q": "Is het makkelijk om hondvriendelijke cafés te vinden voor het ontbijt?",
+          "a": "Ja. Brunchzaken zoals Fresquito Archipiélago in Santa Catalina heten honden zowel op het terras als binnen welkom, wat ongewoon is voor binnenplekken in Spanje."
         }
       ]
     },
@@ -229,8 +257,11 @@
           "tipPt": "Boa paragem intermédia se estiver a caminhar de Vegueta até Triana e Santa Catalina com um cão",
           "googleMapsUrl": "https://maps.google.com/?q=Parque+San+Telmo+Las+Palmas",
           "descriptionDe": "Ein kleiner, schattiger Platzpark direkt am Rand des Einkaufsviertels Triana, mit Bänken, Palmen und einem Bereich, wo Hunde sich auf dem Weg zwischen Altstadt und Strand die Beine vertreten können. Er ist eine der zentralsten Grünpausen der Stadt, nützlich zwischen Sightseeing-Stopps.",
+          "descriptionNl": "Een klein, schaduwrijk pleinparkje pal aan de rand van winkelbuurt Triana, met bankjes, palmbomen en een plek waar honden hun pootjes kunnen strekken op de route tussen oude binnenstad en strand. Het is een van de meest centrale groene pauzeplekken van de stad, handig tussen bezienswaardigheden door.",
           "offLeashAreaDe": "Keine offizielle Freilaufzone, im gesamten Park ist eine Leine vorgeschrieben",
-          "tipDe": "Guter Zwischenstopp, wenn Sie mit Hund von Vegueta nach Triana und Santa Catalina hochlaufen"
+          "offLeashAreaNl": "Geen officiële losloopzone, in het hele park is een lijn verplicht",
+          "tipDe": "Guter Zwischenstopp, wenn Sie mit Hund von Vegueta nach Triana und Santa Catalina hochlaufen",
+          "tipNl": "Goede tussenstop als je met hond van Vegueta naar Triana en Santa Catalina omhoog loopt"
         },
         {
           "name": "Parque Canino Santa Catalina",
@@ -252,8 +283,11 @@
           "tipPt": "Melhor usar de manhã cedo ou ao fim da tarde, o recinto tem pouca sombra ao meio-dia",
           "googleMapsUrl": "https://maps.google.com/?q=Parque+Canino+Santa+Catalina+Las+Palmas",
           "descriptionDe": "Ein eingezäunter Freilauf-Pipican innerhalb des Parque Santa Catalina, mit Holzbänken, einem Wasserbrunnen, Mülleimern und einfachen Spielgeräten einschließlich eines Sprungreifens und Tunneln. Er ist eine der bestausgestatteten der etwa 17 speziellen Hundeflächen der Stadt und liegt nahe am Hotelviertel von Santa Catalina.",
+          "descriptionNl": "Een omheind losloop-pipican binnen het Parque Santa Catalina, met houten bankjes, een waterfontein, vuilnisbakken en eenvoudige speeltoestellen waaronder een springring en tunnels. Het is een van de best uitgeruste van de ongeveer 17 speciale hondenplekken van de stad en ligt dicht bij de hotelbuurt van Santa Catalina.",
           "offLeashAreaDe": "Vollständig eingezäunt, Hunde können innerhalb des Geheges frei laufen",
-          "tipDe": "Am besten früh morgens oder abends nutzen, das Gehege hat mittags wenig Schatten"
+          "offLeashAreaNl": "Volledig omheind, honden kunnen binnen de omheining vrij lopen",
+          "tipDe": "Am besten früh morgens oder abends nutzen, das Gehege hat mittags wenig Schatten",
+          "tipNl": "Het best te gebruiken vroeg in de ochtend of 's avonds, de omheining heeft rond het middaguur weinig schaduw"
         },
         {
           "name": "Parque Juan Pablo II",
@@ -275,8 +309,11 @@
           "tipPt": "Melhor para um passeio calmo e de bairro do que um passeio turístico, é um parque de bairro e não uma paragem turística",
           "googleMapsUrl": "https://maps.google.com/?q=Parque+Juan+Pablo+II+Las+Palmas",
           "descriptionDe": "Eine größere eingezäunte Hundefläche mit gepflasterten Wegen, Grasflächen, einer Pipican-Spielzone und Trinkwasser, in einem ruhigeren Wohnviertel abseits des touristischen Zentrums gelegen. Eine gute Option für eine längere Freilauf-Session, wenn Sie in der Nähe wohnen.",
+          "descriptionNl": "Een grotere omheinde hondenplek met bestrate paden, grasvelden, een pipican-speelzone en drinkwater, gelegen in een rustigere woonwijk weg van het toeristische centrum. Een goede optie voor een langere losloopsessie als je in de buurt verblijft.",
           "offLeashAreaDe": "Eingezäunte Pipican-Zone mit gepflasterten Wegen und Gras",
-          "tipDe": "Besser für einen ruhigen, lokalen Spaziergang als für einen landschaftlich reizvollen, dies ist ein Wohnviertelpark und kein touristischer Anlaufpunkt"
+          "offLeashAreaNl": "Omheinde pipican-zone met bestrate paden en gras",
+          "tipDe": "Besser für einen ruhigen, lokalen Spaziergang als für einen landschaftlich reizvollen, dies ist ein Wohnviertelpark und kein touristischer Anlaufpunkt",
+          "tipNl": "Beter voor een rustige, lokale wandeling dan een landschappelijk mooie, dit is een woonwijkpark en geen toeristische trekpleister"
         }
       ],
       "tipsEn": [
@@ -356,7 +393,9 @@
         }
       ],
       "titleDe": "Parks & Freilaufflächen in Las Palmas",
+      "titleNl": "Parken & losloopgebieden in Las Palmas",
       "introDe": "Las Palmas hat statt eines großen zentralen Parks in eingezäunte Hundeflächen in der ganzen Stadt investiert, mit etwa 17 kleinen pipican-artigen Zonen verteilt über die Stadtviertel. Der Parque San Telmo und der Parque Santa Catalina sind die beiden zentralsten für einen zu Besuch weilenden Hundehalter.",
+      "introNl": "Las Palmas heeft, in plaats van één groot centraal park, geïnvesteerd in omheinde hondenplekken door de hele stad, met ongeveer 17 kleine pipican-achtige zones verspreid over de wijken. Het Parque San Telmo en het Parque Santa Catalina zijn de twee meest centrale voor een hondeneigenaar op bezoek.",
       "faqsDe": [
         {
           "q": "Gibt es einen großen zentralen Hundepark in Las Palmas?",
@@ -369,6 +408,20 @@
         {
           "q": "Brauche ich in den Parks von Las Palmas eine Leine?",
           "a": "Ja, außerhalb der eingezäunten Freilauf-Pipican-Bereiche ist eine Leine in allen öffentlichen Parks und Grünflächen vorgeschrieben."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een groot centraal hondenpark in Las Palmas?",
+          "a": "Nee. De stad verspreidt ongeveer 17 kleine omheinde hondenplekken (pipicans) over haar wijken, in plaats van één groot centraal park, het loont dus de moeite om de dichtstbijzijnde bij je accommodatie op te zoeken."
+        },
+        {
+          "q": "Mogen honden het Parque Doramas in?",
+          "a": "Nee, honden zijn niet toegestaan in de hoofdtuinen van het Parque Doramas. Gebruik in plaats daarvan het Parque San Telmo of een van de omheinde pipican-zones."
+        },
+        {
+          "q": "Heb ik in de parken van Las Palmas een lijn nodig?",
+          "a": "Ja, buiten de omheinde losloop-pipican-gebieden is een lijn verplicht in alle openbare parken en groengebieden."
         }
       ]
     },
@@ -494,7 +547,9 @@
         }
       ],
       "titleDe": "Mit Hund unterwegs in Las Palmas",
+      "titleNl": "Onderweg met hond in Las Palmas",
       "introDe": "Las Palmas hat weder U-Bahn noch Straßenbahn, daher bedeutet die Fortbewegung mit Hund entweder das städtische Busnetz Guaguas Municipales, Taxis oder das Zufußgehen entlang der langen Nord-Süd-Uferpromenade selbst. Kleine Haustiere in einer Transportbox lassen sich am einfachsten im öffentlichen Nahverkehr mitnehmen, während ein mittelgroßer oder großer Hund meist zu Fuß oder per Taxi unterwegs sein wird.",
+      "introNl": "Las Palmas heeft geen metro of tram, dus je verplaatsen met hond betekent het stadsbusnet Guaguas Municipales, taxi's of te voet langs de lange noord-zuid-kadepromenade zelf. Kleine huisdieren in een draagtas laten zich het makkelijkst meenemen in het openbaar vervoer, terwijl een middelgrote of grote hond meestal te voet of per taxi onderweg zal zijn.",
       "faqsDe": [
         {
           "q": "Kann ich einen großen Hund im Bus in Las Palmas mitnehmen?",
@@ -507,6 +562,20 @@
         {
           "q": "Ist Las Palmas mit Hund zu Fuß gut erkundbar?",
           "a": "Ja. Die Stadt ist kompakt und erstreckt sich entlang einer langen Nord-Süd-Uferpromenade, mit der Promenade Las Canteras, der Altstadt Vegueta und Triana, die von den meisten zentralen Hotels aus zu Fuß erreichbar sind."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik een grote hond meenemen in de bus in Las Palmas?",
+          "a": "Nee. Zowel het stadsbusnet (Guaguas Municipales) als de streekbussen van het eiland (Global) accepteren alleen kleine huisdieren in een draagtas onder de 8 tot 10 kg, een grote hond moet dus met taxi, huurauto of te voet onderweg zijn."
+        },
+        {
+          "q": "Accepteren taxi's in Las Palmas honden?",
+          "a": "Er is geen stadsbrede regel die dit voorschrijft, behalve voor erkende assistentiehonden. Voor elke andere hond bel je van tevoren en vraag je expliciet naar een chauffeur die huisdieren accepteert."
+        },
+        {
+          "q": "Is Las Palmas goed te voet te verkennen met hond?",
+          "a": "Ja. De stad is compact en strekt zich uit langs een lange noord-zuid-kadepromenade, met de promenade Las Canteras, de oude binnenstad Vegueta en Triana, allemaal lopend te bereiken vanaf de meeste centrale hotels."
         }
       ]
     },
@@ -528,16 +597,19 @@
           "descriptionEs": "La famosa playa de arena dorada de 3 km de Las Palmas y su paseo marítimo están regidos por la ordenanza municipal de playas y litoral de 2020, que prohíbe los perros en la arena, en el agua y en el propio Paseo de Las Canteras. La única excepción son los residentes de viviendas situadas directamente en el paseo, que pueden cruzarlo brevemente por la ruta más corta para llegar a su puerta. Las multas por incumplir la ordenanza van de 120 a 1500 euros, así que esta playa es para pasar con el perro por las calles del interior, no para pisar la arena.",
           "descriptionPt": "A famosa praia de areia dourada de 3 km de Las Palmas e o seu passeio marítimo são regidos pela portaria municipal de praias e litoral de 2020, que proíbe os cães na areia, na água e no próprio Paseo de Las Canteras. A única exceção são os residentes de habitações situadas diretamente no passeio, que podem atravessá-lo brevemente pelo trajeto mais curto até à sua porta. As multas por infração à portaria vão de 120 a 1500 euros, por isso esta praia é para passar com o cão pelas ruas do interior, não para pisar a areia.",
           "descriptionDe": "Der berühmte 3 km lange Goldsandstrand von Las Palmas und seine Uferpromenade unterliegen der städtischen Strand- und Küstenverordnung von 2020, die Hunde vom Sand, aus dem Wasser und von der Paseo de Las Canteras selbst verbannt. Die einzige Ausnahme sind Anwohner von Wohnungen direkt an der Promenade, die diese auf dem kürzesten Weg zu ihrer Haustür kurz überqueren dürfen. Bußgelder für Verstöße gegen die Verordnung reichen von 120 bis 1500 Euro; dieser Strand eignet sich also dafür, mit dem Hund auf den landseitigen Straßen vorbeizugehen, nicht für den Sand.",
+          "descriptionNl": "Het beroemde 3 km lange gouden zandstrand van Las Palmas en zijn kadepromenade vallen onder de gemeentelijke strand- en kustverordening van 2020, die honden verbant van het zand, uit het water en van de Paseo de Las Canteras zelf. De enige uitzondering geldt voor bewoners van woningen direct aan de promenade, die deze via de kortste route naar hun voordeur even mogen oversteken. Boetes voor overtreding van de verordening lopen van 120 tot 1500 euro; dit strand is dus geschikt om met de hond langs de straten aan de landzijde te lopen, niet voor het zand.",
           "season": "Banned year-round for dogs on the sand and the promenade",
           "seasonFr": "Interdite toute l'année aux chiens, sur le sable comme sur la promenade",
           "seasonEs": "Prohibida todo el año para perros, tanto en la arena como en el paseo",
           "seasonPt": "Proibida todo o ano para cães, tanto na areia como no passeio",
           "seasonDe": "Ganzjährig für Hunde gesperrt, sowohl auf dem Sand als auch auf der Promenade",
+          "seasonNl": "Het hele jaar gesloten voor honden, zowel op het zand als op de promenade",
           "rules": "No dogs on the beach, in the water, or on the Paseo de Las Canteras promenade, except brief transit for residents whose home fronts directly onto it",
           "rulesFr": "Chiens interdits sur la plage, dans l'eau ou sur la promenade du Paseo de Las Canteras, sauf transit bref pour les résidents dont le logement donne directement dessus",
           "rulesEs": "Perros no permitidos en la playa, en el agua ni en el paseo de Las Canteras, salvo tránsito breve para los residentes cuya vivienda dé directamente a él",
           "rulesPt": "Cães não permitidos na praia, na água ou no passeio de Las Canteras, exceto trânsito breve para residentes cuja habitação dê diretamente para ele",
           "rulesDe": "Hunde sind am Strand, im Wasser und auf der Promenade Paseo de Las Canteras nicht erlaubt, außer für kurzes Durchqueren durch Anwohner, deren Wohnung direkt daran grenzt",
+          "rulesNl": "Honden zijn niet toegestaan op het strand, in het water en op de promenade Paseo de Las Canteras, behalve voor kort oversteken door bewoners wier woning er direct aan grenst",
           "facilities": "Full beach services (showers, lifeguards, accessible ramps), none usable with a dog",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+de+Las+Canteras+Las+Palmas",
           "photo": "/images/city-places/las-palmas-beaches-playa-de-las-canteras.jpg"
@@ -550,16 +622,19 @@
           "descriptionEs": "La pionera playa canina oficial de todo el archipiélago canario, un tramo de unos 6.000 m² en la desembocadura del Barranco de Jinámar, justo en el límite entre Las Palmas y Telde. Los perros pueden ir sin correa en la zona libre señalizada y con correa en el resto de la playa, con un aparcamiento cercano y un restaurante frente a la playa, aunque el mar aquí puede tener más oleaje y viento que la resguardada bahía de Las Canteras.",
           "descriptionPt": "A pioneira praia canina oficial de todo o arquipélago das Canárias, um trecho de cerca de 6.000 m² na foz do Barranco de Jinámar, mesmo no limite entre Las Palmas e Telde. Os cães podem estar sem trela na zona livre sinalizada e com trela no resto da praia, com um parque de estacionamento próximo e um restaurante em frente à praia, embora o mar aqui possa ter mais ondulação e vento do que a abrigada baía de Las Canteras.",
           "descriptionDe": "Der bahnbrechende offizielle Hundestrand der gesamten Kanarischen Inseln, ein rund 6.000 m² großer Abschnitt an der Mündung des Barranco de Jinámar, direkt an der Grenze zwischen Las Palmas und Telde. Hunde dürfen in der markierten Freilaufzone ohne Leine und im übrigen Strandbereich an der Leine laufen; es gibt einen nahen Parkplatz und ein Restaurant direkt am Strand, wobei die See hier stärkeren Seegang und Wind haben kann als die geschützte Bucht von Las Canteras.",
+          "descriptionNl": "Het baanbrekende officiële hondenstrand van de hele Canarische Eilanden, een ongeveer 6.000 m² groot gedeelte bij de monding van de Barranco de Jinámar, direct op de grens tussen Las Palmas en Telde. Honden mogen in de gemarkeerde losloopzone zonder lijn lopen en in het overige strandgedeelte aan de lijn; er is een parkeerplaats vlakbij en een restaurant pal aan het strand, waarbij de zee hier ruwer water en meer wind kan hebben dan de beschutte baai van Las Canteras.",
           "season": "Open year-round",
           "seasonFr": "Ouverte toute l'année",
           "seasonEs": "Abierta todo el año",
           "seasonPt": "Aberta todo o ano",
           "seasonDe": "Ganzjährig geöffnet",
+          "seasonNl": "Het hele jaar open",
           "rules": "Dogs must be leashed except in the marked off-leash zone. From 1 July to 30 September, dogs are not allowed on weekends and public holidays between 13:00 and 17:00.",
           "rulesFr": "Les chiens doivent être en laisse sauf dans la zone sans laisse balisée. Du 1er juillet au 30 septembre, les chiens sont interdits le week-end et les jours fériés entre 13h00 et 17h00.",
           "rulesEs": "Los perros deben ir con correa excepto en la zona señalizada sin correa. Del 1 de julio al 30 de septiembre, los perros no están permitidos los fines de semana y festivos entre las 13:00 y las 17:00.",
           "rulesPt": "Os cães devem estar com trela, exceto na zona sinalizada sem trela. De 1 de julho a 30 de setembro, os cães não são permitidos aos fins de semana e feriados entre as 13:00 e as 17:00.",
           "rulesDe": "Hunde müssen angeleint sein, außer in der markierten Freilaufzone. Vom 1. Juli bis 30. September sind Hunde an Wochenenden und Feiertagen zwischen 13:00 und 17:00 Uhr nicht erlaubt.",
+          "rulesNl": "Honden moeten aangelijnd zijn, behalve in de gemarkeerde losloopzone. Van 1 juli tot 30 september zijn honden op zaterdag, zondag en feestdagen tussen 13:00 en 17:00 uur niet toegestaan.",
           "facilities": "Car park, waste bins, a beachfront restaurant",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+de+Bocabarranco+Las+Palmas",
           "photo": "/images/city-places/las-palmas-beaches-playa-de-bocabarranco.jpg"
@@ -622,7 +697,9 @@
         }
       ],
       "titleDe": "Hundestrände in Las Palmas",
+      "titleNl": "Hondenstranden in Las Palmas",
       "introDe": "Das ist der eine ehrliche Haken für einen Hundehalter in Las Palmas: Die beiden berühmten Stadtstrände Las Canteras und El Confital sind das ganze Jahr über für Hunde tabu, gemäß der städtischen Strandverordnung. Der nächstgelegene offizielle Hundestrand, Bocabarranco, liegt am südlichen Stadtrand an der Grenze zu Telde.",
+      "introNl": "Dit is het ene eerlijke minpunt voor een hondeneigenaar in Las Palmas: de twee beroemde stadsstranden Las Canteras en El Confital zijn het hele jaar door taboe voor honden, volgens de gemeentelijke strandverordening. Het dichtstbijzijnde officiële hondenstrand, Bocabarranco, ligt aan de zuidrand van de stad op de grens met Telde.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde an die Playa de Las Canteras?",
@@ -635,6 +712,20 @@
         {
           "q": "Gibt es saisonale Einschränkungen bei Bocabarranco?",
           "a": "Ja. Vom 1. Juli bis 30. September sind Hunde an Wochenenden und Feiertagen zwischen 13:00 und 17:00 Uhr ausgeschlossen. Außerhalb dieser Zeit sind Hunde ganzjährig willkommen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden naar de Playa de Las Canteras?",
+          "a": "Nee. De gemeentelijke verordening uit 2020 verbiedt honden het hele jaar door op het zand, in het water en op de promenade Paseo de Las Canteras, met boetes van 120 tot 1500 euro. Alleen bewoners wier woning direct aan de promenade grenst mogen deze even oversteken."
+        },
+        {
+          "q": "Is er een officieel hondenstrand bij Las Palmas?",
+          "a": "Ja, de Playa de Bocabarranco, ongeveer 8 km ten zuiden van het centrum bij de monding van de Barranco de Jinámar op de grens met Telde. Het was het eerste officieel aangewezen hondenstrand van de Canarische Eilanden."
+        },
+        {
+          "q": "Gelden er seizoensbeperkingen bij Bocabarranco?",
+          "a": "Ja. Van 1 juli tot 30 september zijn honden op zaterdag, zondag en feestdagen tussen 13:00 en 17:00 uur uitgesloten. Buiten die tijden zijn honden het hele jaar welkom."
         }
       ]
     },
@@ -684,8 +775,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Can+Las+Palmas",
           "photo": "/images/city-places/las-palmas-vets-clinica-can.jpg",
           "hoursDe": "24/7, jeden Tag im Jahr",
+          "hoursNl": "24/7, elke dag van het jaar",
           "descriptionDe": "Eine der am längsten bestehenden Tierarztpraxen der Stadt, seit 1958 in Betrieb, mit 24-Stunden-Notfallversorgung, Chirurgie, Bildgebung und stationärer Aufnahme. Zentral gelegen im Viertel Ciudad Jardín, eine kurze Taxifahrt von den meisten Hotels in Las Palmas entfernt.",
-          "tipDe": "Speichern Sie diese Nummer vor Ihrer Reise: +34 928 240 773. Rufen Sie vorher an, damit sich das Team auf Ihre Ankunft vorbereiten kann"
+          "descriptionNl": "Een van de langst bestaande dierenartsenpraktijken van de stad, actief sinds 1958, met 24-uurs spoedzorg, chirurgie, beeldvorming en opname. Centraal gelegen in de wijk Ciudad Jardín, een korte taxirit van de meeste hotels in Las Palmas.",
+          "tipDe": "Speichern Sie diese Nummer vor Ihrer Reise: +34 928 240 773. Rufen Sie vorher an, damit sich das Team auf Ihre Ankunft vorbereiten kann",
+          "tipNl": "Sla dit nummer op voor je reis: +34 928 240 773. Bel van tevoren zodat het team zich kan voorbereiden op je komst"
         },
         {
           "name": "AniCura Albea Hospital Veterinario",
@@ -709,8 +803,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=AniCura+Albea+Hospital+Veterinario+Las+Palmas",
           "photo": "/images/city-places/las-palmas-vets-anicura-albea.jpg",
           "hoursDe": "Sprechstunden Mo-Fr 10:00-21:00, Sa 09:00-14:00. Notfälle 24/7",
+          "hoursNl": "Spreekuur ma-vr 10:00-21:00, za 09:00-14:00. Spoedgevallen 24/7",
           "descriptionDe": "Als Teil des AniCura-Fachnetzwerks kombiniert dieses Krankenhaus Tagessprechstunden mit einem echten rund-um-die-Uhr-Notfalldienst. Es behandelt komplexe Operationen, Diagnostik und Überweisungsfälle aus ganz Gran Canaria, im Viertel Escaleritas.",
-          "tipDe": "Für einen echten Notfall außerhalb der Öffnungszeiten rufen Sie zuerst an, die Empfangszeiten tagsüber unterscheiden sich von der Notfallleitung"
+          "descriptionNl": "Als onderdeel van het gespecialiseerde AniCura-netwerk combineert dit ziekenhuis dagconsulten met een echte 24-uurs spoeddienst. Het behandelt complexe operaties, diagnostiek en verwijzingen uit heel Gran Canaria, in de wijk Escaleritas.",
+          "tipDe": "Für einen echten Notfall außerhalb der Öffnungszeiten rufen Sie zuerst an, die Empfangszeiten tagsüber unterscheiden sich von der Notfallleitung",
+          "tipNl": "Voor een echt noodgeval buiten kantooruren bel je eerst, de receptietijden overdag verschillen van de spoedlijn"
         },
         {
           "name": "Hospital Veterinario Los Tarahales",
@@ -734,8 +831,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Los+Tarahales+Las+Palmas",
           "photo": "/images/city-places/las-palmas-vets-los-tarahales.jpg",
           "hoursDe": "24/7, jeden Tag im Jahr",
+          "hoursNl": "24/7, elke dag van het jaar",
           "descriptionDe": "Dieses Krankenhaus im Stadtteil Los Tarahales gehört zur Tierarztgruppe Evidensia und betreibt neben Routinesprechstunden, Chirurgie und diagnostischer Bildgebung ein echtes 24-Stunden-Notfallteam. Eine praktische Option für den nördlichen und westlichen Teil der Stadt.",
-          "tipDe": "Näher an Las Canteras und dem nördlichen Hotelviertel als die beiden anderen Optionen, lohnt sich zu speichern, wenn Sie dort wohnen"
+          "descriptionNl": "Dit ziekenhuis in de wijk Los Tarahales behoort tot de dierenartsengroep Evidensia en runt naast routineconsulten, chirurgie en diagnostische beeldvorming een echt 24-uurs spoedteam. Een handige optie voor het noordelijke en westelijke deel van de stad.",
+          "tipDe": "Näher an Las Canteras und dem nördlichen Hotelviertel als die beiden anderen Optionen, lohnt sich zu speichern, wenn Sie dort wohnen",
+          "tipNl": "Dichter bij Las Canteras en de noordelijke hotelbuurt dan de andere twee opties, de moeite waard om op te slaan als je daar verblijft"
         }
       ],
       "faqsEn": [
@@ -795,7 +895,9 @@
         }
       ],
       "titleDe": "Tierärzte & Notfallversorgung in Las Palmas",
+      "titleNl": "Dierenartsen & spoedzorg in Las Palmas",
       "introDe": "Als größte Stadt der Kanarischen Inseln verfügt Las Palmas über mehrere gut ausgestattete Tierklinken mit rund-um-die-Uhr-Notfallversorgung, sodass echte Hilfe im Notfall nie weit entfernt ist. Alle drei unten aufgeführten Kliniken befinden sich physisch in der Stadt selbst, nicht in einer Nachbargemeinde.",
+      "introNl": "Als grootste stad van de Canarische Eilanden heeft Las Palmas meerdere goed uitgeruste dierenklinieken met 24-uurs spoedzorg, dus echte hulp bij een noodgeval is nooit ver weg. Alle drie de hieronder genoemde klinieken bevinden zich fysiek in de stad zelf, niet in een naburige gemeente.",
       "faqsDe": [
         {
           "q": "Gibt es einen 24-Stunden-Tiernotdienst in Las Palmas?",
@@ -808,6 +910,20 @@
         {
           "q": "Welche Dokumente braucht mein Hund für die Einreise nach Gran Canaria?",
           "a": "Aus der EU genügen ein gültiger EU-Heimtierausweis, ein ISO-Mikrochip und eine aktuelle Tollwutimpfung. Von außerhalb der EU sind eine offizielle Gesundheitsbescheinigung und möglicherweise ein Antikörper-Titertest erforderlich, prüfen Sie die aktuellen spanischen Bestimmungen vor der Reise."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs dierenspoeddienst in Las Palmas?",
+          "a": "Ja. Clínica Can, AniCura Albea Hospital Veterinario en Hospital Veterinario Los Tarahales bieden allemaal een echte 24-uurs spoedzorg binnen de stad zelf."
+        },
+        {
+          "q": "Spreken dierenartsen in Las Palmas Engels?",
+          "a": "Grote klinieken zoals Clínica Can, AniCura Albea en Los Tarahales zijn gewend aan internationale en toeristische klanten en hebben meestal Engelssprekend personeel, maar het loont om dit bij het bellen te bevestigen."
+        },
+        {
+          "q": "Welke documenten heeft mijn hond nodig om Gran Canaria binnen te komen?",
+          "a": "Vanuit de EU volstaan een geldig EU-dierenpaspoort, een ISO-microchip en een actuele rabiësvaccinatie. Van buiten de EU zijn een officiële gezondheidsverklaring en mogelijk een antilichaam-titertest vereist, controleer de actuele Spaanse regels voor je reis."
         }
       ]
     },
@@ -930,7 +1046,9 @@
         }
       ],
       "titleDe": "Wichtige Tipps für einen Besuch in Las Palmas mit Hund",
+      "titleNl": "Belangrijke tips voor een bezoek aan Las Palmas met hond",
       "introDe": "Las Palmas ist für einen Hundehalter wirklich unkompliziert, sobald man die wenigen lokalen Regeln kennt, die Besucher überraschen, von Strandverboten bis zu einer ungewöhnlichen städtischen Wasserflaschen-Pflicht. Das subtropische Klima bedeutet, dass es keine schlechte Reisezeit gibt.",
+      "introNl": "Las Palmas is voor een hondeneigenaar echt eenvoudig, zodra je de paar lokale regels kent die bezoekers verrassen, van strandverboden tot een ongewone gemeentelijke waterflesplicht. Het subtropische klimaat betekent dat er geen slecht reismoment is.",
       "faqsDe": [
         {
           "q": "Ist Las Palmas eine gute Stadt für Hunde?",
@@ -943,6 +1061,20 @@
         {
           "q": "Gibt es eine schlechte Jahreszeit, um Las Palmas mit Hund zu besuchen?",
           "a": "Nicht wirklich. Das subtropische Klima hält die Temperaturen ganzjährig mild, wobei die Hochsaison von Juli bis September den heißesten Belag und Sand mit sich bringt, planen Sie also Spaziergänge am Mittag rund um Schatten und Wasser."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Las Palmas een goede stad voor honden?",
+          "a": "Ja, over het geheel genomen wel. Het milde, het hele jaar door aangename klimaat, de terrascultuur en de ongeveer 17 omheinde hondenplekken maken het dagelijkse leven makkelijk, het grootste nadeel is het volledige hondenverbod op de twee beroemde stadsstranden."
+        },
+        {
+          "q": "Wat is de vreemdste lokale regel voor hondeneigenaars?",
+          "a": "De dierenwelzijnsverordening van Las Palmas verplicht eigenaars om een fles schoon water bij zich te dragen om de urine van hun hond op openbare stoepen te verdunnen, naast het opruimen van vaste uitwerpselen."
+        },
+        {
+          "q": "Is er een slecht seizoen om Las Palmas met hond te bezoeken?",
+          "a": "Niet echt. Het subtropische klimaat houdt de temperaturen het hele jaar mild, waarbij het hoogseizoen van juli tot september het heetste wegdek en zand met zich meebrengt, plan wandelingen rond het middaguur dus rond schaduw en water."
         }
       ]
     },
@@ -979,9 +1111,13 @@
           "tipPt": "Os cães de bronze têm nomes de figuras históricas canárias, um bom local para uma foto com o seu próprio cão antes ou depois do museu da Catedral",
           "googleMapsUrl": "https://maps.google.com/?q=Plaza+de+Santa+Ana+Las+Palmas",
           "descriptionDe": "Der historische Hauptplatz von Vegueta, vor der Kathedrale Santa Ana, bewacht von acht 1895 aufgestellten gusseisernen Hundestatuen, benannt nach Figuren der kanarischen Geschichte. Es ist ein offener Fußgängerplatz im ältesten Teil der Stadt, leicht zu kombinieren mit einem Spaziergang durch die gepflasterten Straßen von Vegueta.",
+          "descriptionNl": "Het historische hoofdplein van Vegueta, voor de kathedraal Santa Ana, bewaakt door acht gietijzeren hondenstandbeelden uit 1895, vernoemd naar figuren uit de Canarische geschiedenis. Het is een open voetgangersplein in het oudste deel van de stad, makkelijk te combineren met een wandeling door de geplaveide straten van Vegueta.",
           "dogPolicyDe": "Offener Fußgängerplatz, angeleinte Hunde willkommen wie auf jeder öffentlichen Straße",
+          "dogPolicyNl": "Open voetgangersplein, aangelijnde honden welkom zoals op elke openbare straat",
           "admissionFeeDe": "Der Besuch des Platzes ist kostenlos, das Kathedralenmuseum erhebt eine separate Eintrittsgebühr",
-          "tipDe": "Die bronzenen Hunde sind nach kanarischen historischen Persönlichkeiten benannt, ein guter Ort für ein Foto mit dem eigenen Hund vor oder nach dem Kathedralenmuseum"
+          "admissionFeeNl": "Het plein bezoeken is gratis, het kathedraalmuseum rekent een aparte toegangsprijs",
+          "tipDe": "Die bronzenen Hunde sind nach kanarischen historischen Persönlichkeiten benannt, ein guter Ort für ein Foto mit dem eigenen Hund vor oder nach dem Kathedralenmuseum",
+          "tipNl": "De bronzen honden zijn vernoemd naar Canarische historische figuren, een leuke plek voor een foto met je eigen hond voor of na het kathedraalmuseum"
         },
         {
           "name": "Castillo de la Luz",
@@ -1006,9 +1142,13 @@
           "tipPt": "Vá ao final da tarde pela luz nas muralhas do forte e um passeio mais fresco com o seu cão",
           "googleMapsUrl": "https://maps.google.com/?q=Castillo+de+la+Luz+Las+Palmas",
           "descriptionDe": "Eine Festung aus dem 15. Jahrhundert in einem Rosengarten und Park nahe dem Hafen, beliebt bei lokalen Hundebesitzern wegen der offenen Rasenflächen und des Blicks auf den Atlantik. Die Burg selbst beherbergt heute eine Kunststiftung mit eigenem Öffnungszeitplan, aber der umliegende Park und die Außenmauern sind frei zugänglich.",
+          "descriptionNl": "Een vesting uit de 15e eeuw in een rozentuin en park bij de haven, populair bij lokale hondenbezitters vanwege de open grasvelden en het uitzicht op de Atlantische Oceaan. Het kasteel zelf huisvest nu een kunststichting met eigen openingstijden, maar het omliggende park en de buitenmuren zijn vrij toegankelijk.",
           "dogPolicyDe": "Umliegender Park und Außengelände sind an der Leine hundefreundlich, das Innere der Kunststiftung ist für Haustiere unbestätigt",
+          "dogPolicyNl": "Omliggend park en buitenterrein zijn aan de lijn hondvriendelijk, het binnenste van de kunststichting is onbevestigd voor huisdieren",
           "admissionFeeDe": "Der Park ist kostenlos, die Ausstellung der Burg hat ein separates Ticket",
-          "tipDe": "Gehen Sie am späten Nachmittag hin, wegen des Lichts auf den Festungsmauern und eines kühleren Spaziergangs mit Ihrem Hund"
+          "admissionFeeNl": "Het park is gratis, de tentoonstelling van het kasteel heeft een apart ticket",
+          "tipDe": "Gehen Sie am späten Nachmittag hin, wegen des Lichts auf den Festungsmauern und eines kühleren Spaziergangs mit Ihrem Hund",
+          "tipNl": "Ga aan het eind van de middag, vanwege het licht op de vestingmuren en een koelere wandeling met je hond"
         },
         {
           "name": "Vegueta Historic Quarter",
@@ -1033,9 +1173,13 @@
           "tipPt": "De manhã cedo, antes de o calor apertar, é o momento mais tranquilo e fresco para explorar as ruas de Vegueta com um cão",
           "googleMapsUrl": "https://maps.google.com/?q=Vegueta+Las+Palmas",
           "descriptionDe": "Das im 15. Jahrhundert gegründete Ursprungsviertel von Las Palmas, ein kompaktes Raster aus gepflasterten Fußgängerstraßen, Balkonen aus der Kolonialzeit und kleinen Plätzen rund um die Kathedrale. Ein Spaziergang durch die Straßen an der Leine kostet nichts und deckt einen Großteil der Architektur der Stadt aus der Kolonialzeit in unter einer Stunde ab.",
+          "descriptionNl": "De in de 15e eeuw gestichte oorspronkelijke wijk van Las Palmas, een compact raster van geplaveide voetgangersstraten, balkons uit de koloniale tijd en kleine pleintjes rond de kathedraal. Een wandeling door de straten aan de lijn kost niets en bestrijkt het grootste deel van de koloniale architectuur van de stad in minder dan een uur.",
           "dogPolicyDe": "Offene Fußgängerstraßen, angeleinte Hunde überall willkommen",
+          "dogPolicyNl": "Open voetgangersstraten, aangelijnde honden overal welkom",
           "admissionFeeDe": "Der Spaziergang durch die Straßen ist kostenlos, einzelne Museen berechnen separat",
-          "tipDe": "Der frühe Morgen, bevor sich der Tag aufheizt, ist die ruhigste und kühlste Zeit, um Veguetas Straßen mit Hund zu erkunden"
+          "admissionFeeNl": "De wandeling door de straten is gratis, individuele musea rekenen apart",
+          "tipDe": "Der frühe Morgen, bevor sich der Tag aufheizt, ist die ruhigste und kühlste Zeit, um Veguetas Straßen mit Hund zu erkunden",
+          "tipNl": "Vroeg in de ochtend, voordat de dag opwarmt, is de rustigste en koelste tijd om Veguetas straten met hond te verkennen"
         }
       ],
       "tipsEn": [
@@ -1115,7 +1259,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Las Palmas",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Las Palmas",
       "introDe": "Das meiste, was Las Palmas sehenswert macht, liegt im Freien und auf öffentlichen Straßen, was gut zu einem angeleinten Hund passt. Museen und Innensehenswürdigkeiten sind die Ausnahme, planen Sie diese also als Solo-Besuche oder fragen Sie vorher nach.",
+      "introNl": "Het meeste dat Las Palmas de moeite waard maakt, ligt buiten en op openbare straten, wat goed past bij een aangelijnde hond. Musea en binnenbezienswaardigheden zijn de uitzondering, plan die dus als solobezoek of vraag van tevoren na.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund in die Museen von Vegueta mitnehmen?",
@@ -1128,6 +1274,20 @@
         {
           "q": "Lohnt sich der Besuch des Castillo de la Luz mit Hund?",
           "a": "Ja, für den umliegenden Park und das Außengelände, die bei lokalen Hundebesitzern beliebt sind. Die Ausstellung der Kunststiftung im Inneren hat einen eigenen Zeitplan und unbestätigten Zutritt für Haustiere."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen naar de musea van Vegueta?",
+          "a": "De huisdierregels voor binnenmusea zoals Casa de Colón en het kathedraalmuseum zijn niet bevestigd, plan die dus als solobezoek of vraag bij aankomst het personeel."
+        },
+        {
+          "q": "Wat is het verhaal achter de hondenstandbeelden op de Plaza de Santa Ana?",
+          "a": "Acht rond 1895 geplaatste gietijzeren hondenstandbeelden bewaken het plein voor de kathedraal, elk vernoemd naar een figuur uit de Canarische geschiedenis, en ze verwijzen naar een van de belangrijkste theorieën over de herkomst van de naam Canarias."
+        },
+        {
+          "q": "Is een bezoek aan het Castillo de la Luz de moeite waard met hond?",
+          "a": "Ja, voor het omliggende park en buitenterrein, populair bij lokale hondenbezitters. De tentoonstelling van de kunststichting binnen heeft eigen openingstijden en onbevestigde toegang voor huisdieren."
         }
       ]
     },
@@ -1162,8 +1322,11 @@
           "tipEs": "Reserva con unos días de antelación durante la temporada de sol invernal (dic-feb), cuando la demanda de visitantes de larga estancia es más alta",
           "tipPt": "Reserve com alguns dias de antecedência durante a época de sol de inverno (dez-fev), quando a procura de visitantes de longa estadia é mais alta",
           "descriptionDe": "Die größte Tierbetreuungsplattform in Las Palmas, mit Dutzenden geprüften lokalen Betreuungspersonen, die Spaziergänge, Kurzbesuche, Tagesbetreuung und Übernachtungsunterbringung anbieten. Filter ermöglichen die Suche nach Stadtviertel, Hundegröße und Verfügbarkeit, nützlich, um eine Betreuungsperson in der Nähe Ihres Hotels zu finden.",
+          "descriptionNl": "Het grootste platform voor huisdierenzorg in Las Palmas, met tientallen gecontroleerde lokale oppassers die wandelingen, korte bezoekjes, dagopvang en overnachtingsopvang aanbieden. Filters maken zoeken op wijk, hondgrootte en beschikbaarheid mogelijk, handig om een oppas te vinden dicht bij je hotel.",
           "serviceTypeDe": "App-basierte Buchung. Gassi-Service, Kurzbesuche, Tagesbetreuung, Unterbringung",
-          "tipDe": "Buchen Sie während der Wintersaison (Dez-Feb) einige Tage im Voraus, wenn die Nachfrage von Langzeitbesuchern am höchsten ist"
+          "serviceTypeNl": "App-gebaseerd boeken. Uitlaatservice, korte bezoekjes, dagopvang, opvang",
+          "tipDe": "Buchen Sie während der Wintersaison (Dez-Feb) einige Tage im Voraus, wenn die Nachfrage von Langzeitbesuchern am höchsten ist",
+          "tipNl": "Boek in het winterseizoen (dec-feb) een paar dagen van tevoren, wanneer de vraag van langdurige bezoekers het hoogst is"
         },
         {
           "name": "Holidog Spain",
@@ -1186,8 +1349,11 @@
           "tipEs": "Revisa el barrio del anfitrión en su perfil, algunos están lejos del centro turístico y requieren un taxi para dejar a tu perro",
           "tipPt": "Verifique o bairro do anfitrião no perfil, alguns ficam longe do centro turístico e exigem um táxi para deixar o seu cão",
           "descriptionDe": "Ein Tierbetreuungsmarktplatz als Alternative zu Tierpensionen, der Halter mit lokalen Gastgebern für Unterbringung zu Hause, Tagesbetreuung und Spaziergänge rund um Las Palmas verbindet. Profile enthalten Bewertungen früherer Kunden und Fotos des Zuhauses oder der Nachbarschaft der Betreuungsperson.",
+          "descriptionNl": "Een marktplaats voor huisdierenzorg als alternatief voor dierenpensions, die eigenaars verbindt met lokale gastheren voor opvang thuis, dagopvang en wandelingen rond Las Palmas. Profielen bevatten beoordelingen van eerdere klanten en foto's van het huis of de buurt van de oppas.",
           "serviceTypeDe": "App-basierte Buchung. Unterbringung zu Hause, Tagesbetreuung, Gassi-Service",
-          "tipDe": "Lesen Sie im Profil, in welchem Viertel der Gastgeber wohnt, manche liegen weit vom touristischen Zentrum entfernt und erfordern ein Taxi, um Ihren Hund abzugeben"
+          "serviceTypeNl": "App-gebaseerd boeken. Opvang thuis, dagopvang, uitlaatservice",
+          "tipDe": "Lesen Sie im Profil, in welchem Viertel der Gastgeber wohnt, manche liegen weit vom touristischen Zentrum entfernt und erfordern ein Taxi, um Ihren Hund abzugeben",
+          "tipNl": "Lees in het profiel in welke wijk de gastheer woont, sommige liggen ver van het toeristische centrum en vereisen een taxi om je hond af te leveren"
         },
         {
           "name": "DogBuddy Las Palmas",
@@ -1210,8 +1376,11 @@
           "tipEs": "Escribe al cuidador directamente por la app antes de reservar para confirmar que se siente cómodo con el tamaño y el temperamento de tu perro",
           "tipPt": "Contacte o cuidador diretamente pela aplicação antes de reservar para confirmar que se sente confortável com o tamanho e o temperamento do seu cão",
           "descriptionDe": "Ein lokales Netzwerk für Gassi-Service und Betreuung mit nach Stadtviertel durchsuchbaren Profilen, nützlich für einen kurzen Spaziergang zwischen Sightseeing-Stopps oder einen einzelnen Betreuungstag während eines Fährausflugs. Betreuungspersonen legen ihre eigenen Preise und Verfügbarkeit über die Plattform fest.",
+          "descriptionNl": "Een lokaal netwerk voor uitlaatservice en opvang met per wijk doorzoekbare profielen, handig voor een korte wandeling tussen bezienswaardigheden door of een enkele opvangdag tijdens een veerboottochtje. Oppassers stellen hun eigen prijzen en beschikbaarheid vast via het platform.",
           "serviceTypeDe": "App-basierte Buchung. Gassi-Service, Tagesbetreuung, Betreuung",
-          "tipDe": "Schreiben Sie der Betreuungsperson vor der Buchung direkt über die App, um zu bestätigen, dass sie mit der Größe und dem Wesen Ihres Hundes zurechtkommt"
+          "serviceTypeNl": "App-gebaseerd boeken. Uitlaatservice, dagopvang, opvang",
+          "tipDe": "Schreiben Sie der Betreuungsperson vor der Buchung direkt über die App, um zu bestätigen, dass sie mit der Größe und dem Wesen Ihres Hundes zurechtkommt",
+          "tipNl": "Schrijf de oppas voor het boeken rechtstreeks aan via de app om te bevestigen dat ze overweg kan met de grootte en het karakter van je hond"
         }
       ],
       "tipsEn": [
@@ -1291,7 +1460,9 @@
         }
       ],
       "titleDe": "Hundebetreuung & Gassi-Service in Las Palmas",
+      "titleNl": "Hondenoppas & uitlaatservice in Las Palmas",
       "introDe": "Wenn Sie ein Innenmuseum besuchen, eine Fähre zu einer anderen Insel nehmen oder einfach einen hundefreien Nachmittag haben möchten, verfügen die großen internationalen Betreuungs-Apps alle über aktive lokale Netzwerke in Las Palmas. Es wird empfohlen, in der geschäftigeren Wintersaison einige Tage im Voraus zu buchen.",
+      "introNl": "Als je een binnenmuseum bezoekt, een veerboot naar een ander eiland neemt of gewoon een middagje zonder hond wilt, hebben de grote internationale opvang-apps allemaal actieve lokale netwerken in Las Palmas. Het wordt aanbevolen om in het drukkere winterseizoen een paar dagen van tevoren te boeken.",
       "faqsDe": [
         {
           "q": "Gibt es Gassi-Service oder Betreuungspersonen in Las Palmas?",
@@ -1304,6 +1475,20 @@
         {
           "q": "Muss ich eine Betreuungsperson im Voraus buchen?",
           "a": "Es ist ratsam, während der Wintersaison-Hochsaison von Dezember bis Februar einige Tage im Voraus zu buchen, wenn Langzeitbesucher die erfahrensten Betreuungspersonen stark beanspruchen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er uitlaatservice of oppas beschikbaar in Las Palmas?",
+          "a": "Ja. Internationale platforms zoals Rover, Holidog en DogBuddy hebben allemaal actieve lokale netwerken in de stad, met opties voor uitlaatservice, dagopvang en opvang."
+        },
+        {
+          "q": "Hoeveel kost hondendagopvang in Las Palmas?",
+          "a": "Op Rover is ongeveer 15 euro per dag gebruikelijk voor dagopvang, met opvang thuis en andere diensten in de range van ongeveer 15 tot 25 euro, afhankelijk van de oppas."
+        },
+        {
+          "q": "Moet ik een oppas van tevoren boeken?",
+          "a": "Het is verstandig om in het drukke winterseizoen van december tot februari een paar dagen van tevoren te boeken, wanneer langdurige bezoekers de meest ervaren oppassers zwaar bezet houden."
         }
       ]
     }

@@ -19,6 +19,7 @@ const STICKY_LABELS_HOTELS_EU: Record<string, { label: string; cta: string }> = 
   es: { label: 'Hoteles pet-friendly en Europa, precios en directo', cta: 'Ver hoteles' },
   pt: { label: `Hotéis pet-friendly na Europa, preços em directo`, cta: 'Ver hotéis' },
   de: { label: `Haustierfreundliche Hotels in ganz Europa, Preise in Echtzeit`, cta: 'Hotels ansehen' },
+  nl: { label: `Huisdiervriendelijke hotels in heel Europa, actuele prijzen`, cta: 'Bekijk hotels' },
 }
 
 const SPONSORED_LABEL: Record<string, string> = {
@@ -27,6 +28,7 @@ const SPONSORED_LABEL: Record<string, string> = {
   es: 'PATROCINADO · SELECCIÓN DE PARTNER',
   pt: `PATROCINADO · SELECÇÃO DE PARCEIRO`,
   de: `SPONSORED · UNSERE PARTNERAUSWAHL`,
+  nl: `GESPONSORD · ONZE PARTNERSELECTIE`,
 }
 
 export async function generateStaticParams() {
@@ -42,6 +44,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     es: 'Hoteles pet-friendly en Europa: la guía completa 2026',
     pt: 'Hotéis pet-friendly na Europa: o guia completo 2026',
     de: 'Haustierfreundliche Hotels in Europa: der komplette Guide 2026',
+    nl: 'Huisdiervriendelijke hotels in Europa: de complete gids 2026',
   }
   const totalHotels = hotels.length
   const totalDests = destinations.length
@@ -51,6 +54,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     es: `La guía completa 2026 de ${totalHotels}+ hoteles que admiten mascotas en ${totalDests} destinos europeos: cadenas que admiten perros, normas país por país, qué preguntar antes de reservar, y las mejores categorías para gatos, playa y presupuesto.`,
     pt: `O guia completo 2026 de ${totalHotels}+ hotéis que aceitam animais em ${totalDests} destinos europeus: cadeias que aceitam cães, regras país a país, o que perguntar antes de reservar, e as melhores categorias para gatos, praia e orçamento.`,
     de: `Der komplette Guide 2026 zu ${totalHotels}+ haustierfreundlichen Hotels in ${totalDests} europäischen Reisezielen: Ketten, die Hunde akzeptieren, Haustierregelungen Land für Land, was Sie vor der Buchung fragen sollten, und die besten Kategorien für Katzen, Strandzugang und Budgetreisen.`,
+    nl: `De complete gids 2026 voor ${totalHotels}+ huisdiervriendelijke hotels in ${totalDests} Europese bestemmingen: ketens die honden accepteren, huisdierregels per land, wat je moet vragen voor je boekt, en de beste categorieën voor katten, strandtoegang en budgetreizen.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -64,6 +68,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         es: `${SITE_URL}/es/guides/${SLUG}`,
         pt: `${SITE_URL}/pt/guides/${SLUG}`,
         de: `${SITE_URL}/de/guides/${SLUG}`,
+        nl: `${SITE_URL}/nl/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },
@@ -829,6 +834,152 @@ const COPY: Record<string, Copy> = {
     viewCategoryLabel: `Kategorie ansehen →`,
     countryDestinationsCta: `Reiseziele ansehen →`,
   },
+  nl: {
+    hero: {
+      kicker: 'PIJLERGIDS · BIJGEWERKT 2026',
+      h1: `Huisdiervriendelijke hotels in Europa: de complete gids 2026`,
+      lede: `Hoe je een hotel vindt, beoordeelt en boekt dat jouw hond of kat in Europa echt welkom heet. Ketens die huisdieren accepteren, regels per land, vragen die je moet stellen, en onze zorgvuldig uitgekozen selectie in 85+ bestemmingen.`,
+    },
+    toc: { title: 'In deze gids', items: [
+      { id: 'what-to-look', label: `Wat "huisdiervriendelijk" echt betekent` },
+      { id: 'chains', label: `De 12 meest betrouwbare ketens` },
+      { id: 'by-category', label: `Per reiscategorie` },
+      { id: 'by-country', label: `Per land: regels en tarieven` },
+      { id: 'booking-tips', label: `Boekingstips die je geld besparen` },
+      { id: 'what-to-ask', label: `10 vragen om te stellen voor je boekt` },
+      { id: 'faq', label: 'FAQ' },
+    ] },
+    whatToLook: {
+      id: 'what-to-look',
+      h2: `Wat "huisdiervriendelijk" echt betekent`,
+      paras: [
+        `De term is niet gereguleerd. Booking.com, Hotels.com en Airbnb laten accommodaties zichzelf zonder controle als huisdiervriendelijk taggen, waardoor één vermelding van alles kan betekenen, van een vijfsterrenhotel met huisdier-concierge tot een hostel dat met tegenzin een hond accepteert na een borg van 40 £. Onze taak is om die ruis eruit te filteren.`,
+        `Volgens onze standaard voldoet een echt huisdiervriendelijk hotel aan minstens vier van de zes onderstaande criteria. Deze criteria elimineren ongeveer tweederde van de "huisdiervriendelijke" vermeldingen op Booking.com. Elk hotel in onze 85+ bestemmingsgidsen is voor opname getoetst aan dezelfde checklist.`,
+      ],
+      checks: {
+        title: `Onze checklist met 6 punten voor huisdiervriendelijkheid`,
+        items: [
+          `Huisdieren toegestaan in standaardkamers, niet beperkt tot één specifieke kamer`,
+          `Geen rasspecifieke verboden buiten de lokale PPP- / gevaarlijke-hondenwetgeving`,
+          `Huisdiertoeslag onder de €30 per verblijf, of onder de €15 per nacht`,
+          `Waterbakjes of een huisdiermand beschikbaar op aanvraag`,
+          `Je hond kan in de kamer blijven terwijl je weg bent, geen regel voor overdag-in-de-kennel`,
+          `Aanlijnvrij groen gebied binnen 500 m loopafstand`,
+        ],
+      },
+    },
+    chains: {
+      id: 'chains',
+      h2: `De 12 meest betrouwbare huisdiervriendelijke hotelketens in Europa`,
+      intro: `Ketenhotels zijn de veiligste keuze voor reizen langs meerdere steden, omdat ze in elke vestiging hetzelfde huisdierbeleid toepassen. We sluiten ketens uit waar acceptatie wordt overgelaten aan individuele managers (helaas de meeste, waaronder Marriott in veel regio's).`,
+      rows: [
+        { chain: 'Adina Apartment Hotels', policy: `Geselecteerde appartementen`, fee: '€15/nacht', note: `Kitchenettes, handig voor hondenmaaltijden` },
+        { chain: 'Apex Hotels (UK)', policy: `Hele keten`, fee: '£20/verblijf', note: `Binnenzwembaden, centrale UK-locaties` },
+        { chain: 'Hilton (Pet Welcome)', policy: `De meeste hotels; per hotel controleren`, fee: '€30–€75/verblijf', note: `Hogere toeslag, luxeniveau` },
+        { chain: 'Holiday Inn / Express (IHG)', policy: `De meeste hotels`, fee: '€15–€20/nacht', note: `Betrouwbaar middensegment, overal aanwezig` },
+        { chain: 'Hospes Hotels', policy: `Hele keten`, fee: '€25/verblijf', note: `Spaanse boutiqueketen met 5 sterren` },
+        { chain: 'Hotel Indigo (IHG)', policy: `Hele keten`, fee: '€25/verblijf', note: `Boutique 4 sterren, stedelijk` },
+        { chain: 'Mercure (Accor)', policy: `De meeste hotels`, fee: '€10–€20/nacht', note: `Sterk netwerk in Frankrijk / Italië` },
+        { chain: 'Motel One', policy: `Hele keten sinds 2024`, fee: '€10/nacht', note: `Budget-designhotels, snel groeiend` },
+        { chain: '25hours Hotels', policy: `Hele keten, huisdierpakket inbegrepen`, fee: '€20/verblijf', note: `Design 4 sterren, bakjes aanwezig` },
+        { chain: 'Scandic Hotels', policy: `Hele keten`, fee: '€20/verblijf', note: `Sterk Scandinavisch + Duits netwerk` },
+        { chain: 'Travelodge', policy: `De meeste UK-hotels`, fee: '£25/verblijf', note: `UK-budgetketen, max 2 huisdieren per kamer` },
+        { chain: 'NH Hotels / NH Collection', policy: `Hele keten`, fee: '€20–€25/nacht', note: `Sterke aanwezigheid in Spanje, Italië, Duitsland` },
+      ],
+      columns: { chain: 'Keten', policy: 'Beleid', fee: 'Huisdiertoeslag', note: 'Opmerking' },
+    },
+    byCategory: {
+      id: 'by-category',
+      h2: `Per categorie: welk type verblijf past bij jouw reis`,
+      intro: `Huisdieracceptatie is slechts het toegangsbewijs. Een strandvakantie met een hond vraagt om andere criteria dan een stedentrip met een kat. Bekijk hieronder onze zes categorieën, elk gefilterd over 85+ bestemmingen.`,
+    },
+    byCountry: {
+      id: 'by-country',
+      h2: `Per land: regels en cultuur rond de huisdiertoeslag`,
+      intro: `Het huisdierbeleid van hotels verschilt per Europees land, zowel qua gebruikelijke toeslag als qua handhavingsstijl. Hieronder de praktische realiteit per land, gebaseerd op onze audit van 460+ hotels.`,
+    },
+    countryNotes: {
+      France: `Meer dan 50% van de hotels accepteert huisdieren, gemiddelde toeslag €15–€25 per verblijf. Onafhankelijke hotels zijn doorgaans goedkoper dan ketens. De standaard EU-huisdierpaspoortregels gelden.`,
+      Germany: `Loopt voorop in Europa qua hondvriendelijkheid. Hotels weigeren zelden, gemiddeld €10–€20 per nacht. Berlijn, Hamburg en München hebben de hoogste dichtheid aan huisdiervriendelijke ketens. Honden in restaurants zijn heel normaal.`,
+      Spain: `De acceptatie is snel gegroeid, gemiddelde toeslag €15–€20 per nacht. Madrid en Barcelona lopen voorop bij de ketens. Andalusië is uitstekend in het voor- en najaar, maar de zomerhitte is de belangrijkste beperking.`,
+      Italy: `De Italiaanse wet (Legge 281/1991) geeft honden sterke toegangsrechten, maar hotels rekenen hogere toeslagen dan Frankrijk of Duitsland, vaak €25–€40 per verblijf. Trenitalia accepteert honden met de juiste papieren.`,
+      'United Kingdom': `Na de Brexit hebben honden uit de EU een Animal Health Certificate nodig (10 dagen geldig), plus een verplichte lintwormbehandeling. Huisdiertoeslag £25–£50 per verblijf. Pubs die honden verwelkomen zijn de culturele basis.`,
+      Netherlands: `Uitzonderlijke huisdiervriendelijkheid in Amsterdam, Rotterdam en Den Haag. Hotels rekenen €15–€25 per verblijf. Honden reizen gratis mee in tram en trein met een dagpas van €3,40.`,
+      Belgium: `Sterke huisdieracceptatie, vooral in Antwerpen en Gent. Hoteltoeslagen €15–€25. Belgische brasserieën zijn overal hondvriendelijk.`,
+      Portugal: `Lissabon en Porto zijn uitzonderlijk hondvriendelijk. Hoteltoeslagen €10–€20 per verblijf, goedkoper dan Spanje. Trams en treinen accepteren honden.`,
+      Switzerland: `Het duurste land van Europa, maar wel de meest consistente huisdieracceptatie. Gemiddeld CHF 30–50 per nacht. Treinen en kabelbanen nemen honden gratis of tegen halve prijs mee.`,
+      Austria: `Erg hondvriendelijk. Wenen en Salzburg lopen voorop. Gemiddeld €10–€20 per nacht. ÖBB-treinen accepteren honden.`,
+      Denmark: `Kopenhagen loopt voorop in Europa qua dierenwelzijn. Hotels rekenen doorgaans DKK 150–300 per verblijf. Honden reizen gratis mee in metro en S-tog met een muilkorf.`,
+      Sweden: `Stockholm en Göteborg zijn allebei huisdiervriendelijk. Toeslag SEK 200–400 per nacht. Honden toegestaan in de trein.`,
+      Norway: `De hondencultuur in Oslo is intens. Toeslag NOK 200–500. Honden reizen gratis mee in het meeste openbaar vervoer.`,
+      Finland: `Helsinki heeft de hoogste hondendichtheid van Europa. Hotels zijn vaak gratis voor kleine honden, €10–€20 voor grote. Honden reizen gratis mee in al het openbaar vervoer.`,
+      Iceland: `Strenge invoerregels (ontwijken van quarantaine vereist papierwerk en hoge kosten). Eenmaal daar is Reykjavík gastvrij. Hotels ISK 5.000–8.000 per verblijf.`,
+      Ireland: `De huisdiervriendelijkheid van Dublin is verbeterd. Hotels €15–€25. Voor Noord-Ierland gelden dezelfde papierregels als in het VK.`,
+      Greece: `Athene en Thessaloniki worden steeds beter. Hotels €10–€15 per verblijf. Strandbeperkingen in de zomer zijn streng.`,
+      'Czech Republic': `Praag is erg hondvriendelijk. Hotels CZK 200–500 per verblijf. Honden toegestaan in metro en tram.`,
+      Hungary: `Boedapest is gastvrij. Hotels HUF 3.000–6.000 per verblijf. Honden reizen gratis mee in de metro met een muilkorf.`,
+      Slovenia: `Ljubljana en Bled zijn allebei huisdiervriendelijk. Hotels €10–€15.`,
+      Croatia: `Dubrovnik en Split worden beter, maar de strandverboden (15 mei–30 sep) zijn streng. Hotels €10–€20.`,
+      Poland: `Warschau en Krakau hebben een groeiende huisdiervriendelijke scene. Hotels PLN 50–100 per verblijf.`,
+      Latvia: `Riga wordt beter. Hotels €10–€15.`,
+      Estonia: `Tallinn is huisdiervriendelijk. Hotels rond €10.`,
+      Slovakia: `Bratislava is gastvrij. Hotels €10–€15.`,
+      Romania: `Boekarest verbetert snel. Hotels RON 30–60 per verblijf.`,
+      Bulgaria: `Sofia is gastvrij. Hotels BGN 20–40.`,
+      Serbia: `Belgrado is gastvrij, openbaar vervoer is sinds 2025 gratis voor honden. Hotels RSD 1.500–3.000.`,
+      Lithuania: `Vilnius is gastvrij. Hotels rond €10.`,
+      Luxembourg: `Huisdiervriendelijk. Hotels €15–€25.`,
+    },
+    bookingTips: {
+      id: 'booking-tips',
+      h2: `Boekingstips die je geld besparen`,
+      paras: [
+        `Huisdiertoeslagen zijn vaker onderhandelbaar dan je zou denken. Boek eerst een gratis annuleerbaar tarief op Booking.com om je kamer vast te leggen, en stuur voor aankomst een e-mail naar het hotel om de exacte huisdiervoorwaarden te bevestigen. Als het hotel een andere toeslag noemt dan in de vermelding staat, hou je de annuleeroptie als vangnet.`,
+      ],
+      bullets: [
+        `Filter op Booking.com op "gratis annulering" + "huisdieren toegestaan", en bevestig de huisdiertoeslag voor aankomst nogmaals schriftelijk. De toeslag verschilt per kamercategorie, het vermelde gemiddelde is soms te optimistisch.`,
+        `Vraag bij verblijven van meerdere nachten naar een vast tarief in plaats van een toeslag per nacht. €15/nacht over 7 nachten is €105; veel hotels gaan op verzoek over naar €60 vast.`,
+        `Loyaliteitsprogramma's lonen: leden van Hilton Honors, IHG One Rewards en Accor Live Limitless krijgen op de hogere niveaus vaak vrijstelling van de huisdiertoeslag.`,
+        `Vermijd kamers waarbij "huisdieren toegestaan" als enige optie is gemarkeerd, deze zijn vaak belast met extra schoonmaakkosten. Standaardkamers met huisdier-op-aanvraag zijn meestal goedkoper.`,
+        `Hondenstrandresorts: boek in het tussenseizoen (april-mei, oktober-november), hetzelfde hotel is dan 30-40% goedkoper dan in het hoogseizoen.`,
+        `Voor reizen langer dan 7 nachten is een Airbnb qua totale huisdierkosten vaak voordeliger dan een hotel (één schoonmaakkosten in plaats van een dagelijkse toeslag). Filter op "huisdieren toegestaan" + geverifieerde reviews die huisdieren noemen.`,
+      ],
+    },
+    whatToAsk: {
+      id: 'what-to-ask',
+      h2: `10 vragen om te stellen voor je boekt`,
+      intro: `Stuur voordat je een boeking bevestigt een kort e-mailtje naar het hotel met deze vragen. De toon van het antwoord vertelt je alles over of het hotel jou echt welkom heet, of alleen op papier "huisdieren toegestaan" is.`,
+      questions: [
+        `Zijn huisdieren toegestaan in elke standaardkamer, of alleen in specifieke kamers?`,
+        `Is de huisdiertoeslag per verblijf of per nacht? Is schoonmaak inbegrepen?`,
+        `Zijn er ras- of gewichtsbeperkingen naast de wettelijke PPP-regels?`,
+        `Kan mijn hond in de kamer blijven terwijl ik ga eten of naar de spa ga?`,
+        `Bieden jullie bakjes, manden of snacks aan? Of moet ik die zelf meenemen?`,
+        `Is er een uitlaatplek of aanlijnvrij gebied op loopafstand?`,
+        `Accepteren jullie meerdere huisdieren? Zo ja, is de toeslag per huisdier of gemaximeerd?`,
+        `Waar moet mijn hond binnen aangelijnd of gemuilkorfd zijn?`,
+        `Hebben jullie een aanbevolen lokale dierenarts voor noodgevallen?`,
+        `Wat is het annuleringsbeleid als mijn huisdier ziek is op de dag van aankomst?`,
+      ],
+    },
+    faqTitle: `Veelgestelde vragen`,
+    faqs: [
+      { q: `Wat is de gemiddelde huisdiertoeslag in Europese hotels?`, a: `Het Europese gemiddelde is €15–€25 per verblijf voor een onafhankelijk hotel en €20–€30 per nacht voor ketens. Zwitserland en het VK zitten aan de bovenkant (CHF 30–50 / £40–£60). Oost-Europa zit aan de onderkant (€5–€10).` },
+      { q: `Accepteren alle hotels ook katten?`, a: `De meeste "hondvriendelijke" hotels accepteren ook katten, maar dat wordt niet altijd vermeld. Vraag het altijd expliciet: ongeveer 80% van de hotels die honden accepteren, accepteert ook katten mits vooraf gemeld.` },
+      { q: `Wat als mijn hond 's nachts blaft?`, a: `Hotels behouden zich het recht voor om overlastkosten in rekening te brengen of je te laten vertrekken. Praktische oplossingen: boek een hoekkamer, kamer aan het eind van de gang of op de begane grond. Neem een vertrouwde deken of speeltje mee. ThunderShirts en Adaptil-sprays helpen bij angstige honden.` },
+      { q: `Zijn er huisdiervrije verdiepingen bij sommige ketens?`, a: `Ja, Kimpton, Hilton (sommige hotels) en 25hours hebben speciale huisdierverdiepingen op bepaalde locaties. Vraag dit expliciet na bij het boeken.` },
+      { q: `Hoe weet ik of een hotel echt huisdiervriendelijk is, of gewoon huisdieren tolereert?`, a: `Drie indicatoren: (1) het hotel noemt specifieke huisdiervoorzieningen (bakjes, manden, snacks) op de website, (2) de huisdiertoeslag is redelijk (€10–€25, niet £75+), (3) de reactie van het personeel op jouw e-mail vooraf is enthousiast, niet aarzelend. Wij screenen alle hotels in onze bestemmingsgidsen vooraf.` },
+      { q: `Hoe zit het met hulphonden / assistentiehonden?`, a: `Hulphonden worden wettelijk gratis toegelaten in alle EU-hotels (Verordening 2016/679 + nationale uitvoering) en in alle UK-hotels (Equality Act 2010). De huisdiertoeslag is niet van toepassing. Neem de documentatie mee.` },
+      { q: `Kan ik mijn hond alleen achterlaten in de hotelkamer?`, a: `De meeste huisdiervriendelijke Europese hotels verbieden onbeheerde huisdieren. Oplossingen: boek voor de paar uur die je nodig hebt een oppas via Pawshake of Tailster, of gebruik de dagopvang op de kamer die Kimpton, 25hours en sommige Hilton-hotels aanbieden.` },
+    ],
+    ctaTitle: `Klaar om jouw hotel te vinden?`,
+    ctaDesc: `Blader door onze zorgvuldig uitgekozen huisdiervriendelijke hotels in 85+ Europese bestemmingen, allemaal gecontroleerd op echt huisdiervriendelijk beleid, met geverifieerde gastbeoordelingen van 8,0 en hoger.`,
+    ctaButton: `Bekijk alle bestemmingen →`,
+    hotelLabel: `hotels`,
+    destLabel: `bestemmingen`,
+    viewCategoryLabel: `Bekijk categorie →`,
+    countryDestinationsCta: `Bekijk bestemmingen →`,
+  },
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
@@ -969,6 +1120,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                 : locale === 'es' && cat.nameEs ? cat.nameEs
                 : locale === 'pt' && (cat as { namePt?: string }).namePt ? (cat as { namePt?: string }).namePt
                 : locale === 'de' && (cat as { nameDe?: string }).nameDe ? (cat as { nameDe?: string }).nameDe
+                : locale === 'nl' && (cat as { nameNl?: string }).nameNl ? (cat as { nameNl?: string }).nameNl
                 : cat.name
               return (
                 <Link

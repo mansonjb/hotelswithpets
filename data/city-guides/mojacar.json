@@ -39,9 +39,13 @@
           "mustTryPt": "Espetos de sardinhas, paelha de marisco",
           "tipPt": "Peça uma mesa com sombra no passeio e uma taça de água. O pessoal está habituado a cães na esplanada",
           "descriptionDe": "Ein seit Langem bestehendes Restaurant am Meer am Paseo del Mediterráneo, lokal berühmt für seine am Strand gegrillten Espetos de sardinas und seine Meeresfrüchte-Paella. Angeleinte Hunde sind auf der Außenterrasse willkommen, die direkt an der Promenade mit Blick auf die Playa del Descargador liegt.",
+          "descriptionNl": "Een al lang bestaand restaurant aan zee aan de Paseo del Mediterráneo, lokaal beroemd om zijn op het strand gegrilde espetos de sardinas en zijn zeevruchtenpaella. Aangelijnde honden zijn welkom op het buitenterras, direct aan de promenade met uitzicht op de Playa del Descargador.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Aangelijnde honden welkom op het terras",
           "mustTryDe": "Espetos de sardinas, Meeresfrüchte-Paella",
-          "tipDe": "Bitten Sie um einen schattigen Tisch an der Promenade und fragen Sie nach einem Wassernapf. Das Personal ist an Hunde auf der Terrasse gewöhnt"
+          "mustTryNl": "Espetos de sardinas, zeevruchtenpaella",
+          "tipDe": "Bitten Sie um einen schattigen Tisch an der Promenade und fragen Sie nach einem Wassernapf. Das Personal ist an Hunde auf der Terrasse gewöhnt",
+          "tipNl": "Vraag om een schaduwrijke tafel aan de promenade en vraag om een waterbakje. Het personeel is gewend aan honden op het terras"
         },
         {
           "name": "Chiringuito Macenas",
@@ -69,9 +73,13 @@
           "mustTryPt": "Peixe grelhado, arroz, cerveja fresca",
           "tipPt": "Combine-o com a praia para cães de Perulejo ali perto, mesmo ao longo da costa de Macenas",
           "descriptionDe": "Eine entspannte Strandbar am ruhigeren südlichen Ende von Mojácar, an der natürlichen Playa de Macenas nahe dem Wachturm und unweit des neuen Hundestrands. Die informelle Terrasse aus Sand und Schatten macht sie zu einem einfachen Stopp mit Hund nach einem Küstenspaziergang, mit einfachem gegrilltem Fisch, Reisgerichten und kalten Getränken.",
+          "descriptionNl": "Een ontspannen strandbar aan het rustigere zuidelijke uiteinde van Mojácar, bij het natuurlijke Playa de Macenas nabij de wachttoren en niet ver van het nieuwe hondenstrand. Het informele terras van zand en schaduw maakt het een makkelijke stop met hond na een kustwandeling, met eenvoudige gegrilde vis, rijstgerechten en koude drankjes.",
           "petPolicyDe": "Hunde auf der Strandterrasse willkommen",
+          "petPolicyNl": "Honden welkom op het strandterras",
           "mustTryDe": "Gegrillter Fisch, Arroz, kaltes Bier",
-          "tipDe": "Kombinieren Sie es mit dem nahegelegenen Hundestrand Perulejo, der direkt an der Küste von Macenas liegt"
+          "mustTryNl": "Gegrilde vis, arroz, koud bier",
+          "tipDe": "Kombinieren Sie es mit dem nahegelegenen Hundestrand Perulejo, der direkt an der Küste von Macenas liegt",
+          "tipNl": "Combineer het met het nabijgelegen hondenstrand Perulejo, direct aan de kust bij Macenas"
         },
         {
           "name": "Cafetería La Abuela María",
@@ -99,9 +107,13 @@
           "mustTryPt": "Café, tapas, doçaria local",
           "tipPt": "Visite o pueblo e este café de manhã ou à tardinha. Ao meio-dia, no verão, as ruas da aldeia ficam muito quentes para as patas",
           "descriptionDe": "Ein freundliches Café im weiß getünchten Bergdorf, ein einfacher Ort zum Ausruhen mit Hund nach dem Aufstieg durch die engen Gassen des Dorfes. Besucherbewertungen erwähnen ausdrücklich, dass kleine Hunde problemlos willkommen geheißen wurden, und die schattige Dorfkulisse ist im Hochsommer deutlich kühler als die offene Strandpromenade.",
+          "descriptionNl": "Een vriendelijk café in het witgekalkte bergdorp, een makkelijke plek om uit te rusten met hond na de klim door de smalle steegjes van het dorp. Bezoekersrecensies vermelden expliciet dat kleine honden probleemloos welkom werden geheten, en het schaduwrijke dorpsdecor is in de hoogzomer duidelijk koeler dan de open strandpromenade.",
           "petPolicyDe": "Hunde willkommen (kleine Hunde in Bewertungen erwähnt)",
+          "petPolicyNl": "Honden welkom (kleine honden genoemd in recensies)",
           "mustTryDe": "Kaffee, Tapas, lokales Gebäck",
-          "tipDe": "Besuchen Sie das Dorf und dieses Café morgens oder abends. Die Dorfgassen werden mittags im Sommer sehr heiß für Pfoten"
+          "mustTryNl": "Koffie, tapas, lokaal gebak",
+          "tipDe": "Besuchen Sie das Dorf und dieses Café morgens oder abends. Die Dorfgassen werden mittags im Sommer sehr heiß für Pfoten",
+          "tipNl": "Bezoek het dorp en dit café 's ochtends of 's avonds. De dorpssteegjes worden 's middags in de zomer erg heet voor pootjes"
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Mojácar",
+      "titleNl": "Huisdiervriendelijke restaurants in Mojácar",
       "introDe": "Die lange Strandpromenade von Mojácar Playa ist gesäumt von Chiringuitos und Terrassenrestaurants, in denen angeleinte, gut erzogene Hunde an den Außentischen ein gewohntes Bild sind. Die Hitze der Costa de Almería macht das Essen auf der Terrasse zur natürlichen Wahl. Zielen Sie daher am frühen Abend auf die schattigen Terrassen der Promenade, sobald die Sonne sinkt und der Belag für die Pfoten Ihres Hundes abkühlt.",
+      "introNl": "De lange strandpromenade van Mojácar Playa is gezoomd door chiringuitos en terrasrestaurants, waar aangelijnde, welopgevoede honden aan de buitentafels een gewoon gezicht zijn. De hitte van de Costa de Almería maakt eten op het terras de natuurlijke keuze. Mik daarom vroeg in de avond op de schaduwrijke terrassen van de promenade, zodra de zon zakt en het wegdek afkoelt voor de pootjes van je hond.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Mojácar erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Bieten die Strandbars in Mojácar Wasser für Hunde an?",
           "a": "Viele Chiringuitos füllen auf Nachfrage einen Wassernapf auf, garantiert ist es aber nicht. Bringen Sie einen eigenen faltbaren Napf und Wasser mit, besonders im Juli und August."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Mojácar?",
+          "a": "Aangelijnde, welopgevoede honden zijn meestal welkom op de buitenterrassen van de strand-chiringuitos van Mojácar en in veel cafés in het dorp. Airconditioned binnenruimtes zijn meestal taboe, dus vraag altijd na en mik op het terras."
+        },
+        {
+          "q": "Wanneer is de beste tijd om in Mojácar buiten de deur te eten met hond?",
+          "a": "In de zomer is vroeg in de avond ideaal. Het wegdek van de promenade koelt af na zonsondergang, de terrassen liggen in de schaduw, en de hitte in Almería is voor je hond een stuk milder dan rond de middag."
+        },
+        {
+          "q": "Bieden de strandbars in Mojácar water aan voor honden?",
+          "a": "Veel chiringuitos vullen op verzoek een waterbakje, maar het is niet gegarandeerd. Neem een eigen opvouwbaar bakje en water mee, vooral in juli en augustus."
         }
       ]
     },
@@ -227,8 +255,11 @@
           "offLeashAreaPt": "Nenhuma. Os cães têm de andar com trela no passeio",
           "tipPt": "Percorra-o de manhã cedo ou depois do pôr do sol no verão. Leve água, pois a sombra ao longo do passeio é escassa ao meio-dia",
           "descriptionDe": "Die lange, ebene Strandpromenade von Mojácar Playa erstreckt sich über mehrere Kilometer an Stränden und Chiringuitos vorbei und ist der einfachste Hundespaziergang in der Stadt, da sie vollkommen flach ist. Hunde müssen angeleint bleiben, und während der Badesaison sollten sie sich auf der Promenade statt auf dem Sand der Badestrände aufhalten.",
+          "descriptionNl": "De lange, vlakke strandpromenade van Mojácar Playa strekt zich uit over meerdere kilometers langs stranden en chiringuitos en is de makkelijkste hondenwandeling in de stad, omdat hij volkomen vlak is. Honden moeten aangelijnd blijven, en tijdens het badseizoen kun je beter op de promenade blijven dan op het zand van de zwemstranden.",
           "offLeashAreaDe": "Keiner. Hunde müssen auf der Promenade angeleint sein",
-          "tipDe": "Gehen Sie im Sommer früh morgens oder nach Sonnenuntergang. Führen Sie Wasser mit, da der Schatten entlang der Promenade mittags begrenzt ist"
+          "offLeashAreaNl": "Geen. Honden moeten aangelijnd zijn op de promenade",
+          "tipDe": "Gehen Sie im Sommer früh morgens oder nach Sonnenuntergang. Führen Sie Wasser mit, da der Schatten entlang der Promenade mittags begrenzt ist",
+          "tipNl": "Ga in de zomer vroeg in de ochtend of na zonsondergang. Neem water mee, want de schaduw langs de promenade is 's middags beperkt"
         },
         {
           "name": "Mojácar Pueblo streets & miradors",
@@ -250,8 +281,11 @@
           "offLeashAreaPt": "Nenhuma. Mantenha os cães com trela na aldeia",
           "tipPt": "As ruelas são de calçada e íngremes. Vá cedo ou tarde e verifique o calor do piso com a mão antes de uma subida ao meio-dia",
           "descriptionDe": "Das weiß getünchte Bergdorf ist ein Labyrinth aus steilen, engen Gassen, die hinauf zur Plaza Nueva und zu den Aussichtspunkten der Burg führen, mit weiten Ausblicken über das Tal des Río Aguas bis zum Meer. Angeleinte Hunde können die Dorfgassen und Aussichtspunkte frei erkunden, und die größere Höhe sowie der Schatten zwischen den Gebäuden machen es kühler als am offenen Strand.",
+          "descriptionNl": "Het witgekalkte bergdorp is een labyrint van steile, smalle steegjes die omhoog leiden naar de Plaza Nueva en de uitkijkpunten bij het kasteel, met wijde uitzichten over de vallei van de Río Aguas tot aan de zee. Aangelijnde honden kunnen de dorpssteegjes en uitkijkpunten vrij verkennen, en de grotere hoogte en de schaduw tussen de gebouwen maken het koeler dan op het open strand.",
           "offLeashAreaDe": "Keiner. Hunde im Dorf angeleint halten",
-          "tipDe": "Die Gassen sind gepflastert und steil. Gehen Sie früh oder spät und prüfen Sie vor einem Aufstieg am Mittag die Hitze des Pflasters mit der Hand"
+          "offLeashAreaNl": "Geen. Houd honden aangelijnd in het dorp",
+          "tipDe": "Die Gassen sind gepflastert und steil. Gehen Sie früh oder spät und prüfen Sie vor einem Aufstieg am Mittag die Hitze des Pflasters mit der Hand",
+          "tipNl": "De steegjes zijn geplaveid en steil. Ga vroeg of laat en controleer voor een klim rond de middag de hitte van de bestrating met je hand"
         },
         {
           "name": "Macenas coast & Sierra de Cabrera paths",
@@ -273,8 +307,11 @@
           "offLeashAreaPt": "Nenhuma. Trela obrigatória na área protegida Natura 2000",
           "tipPt": "Comece ao nascer do sol e leve água para os dois. Não há sombra nem fonte nos trilhos costeiros de Macenas",
           "descriptionDe": "Südlich des Ferienorts bieten die natürliche Küste von Macenas und die unteren Wege des Schutzgebiets Sierra de Cabrera-Bédar wilderes, ruhigeres Wandern vorbei am historischen Wachturm und dem neuen Hundestrand. Hunde sollten angeleint bleiben, um das Natura-2000-Habitat zu schützen, und diese exponierten Wege erfordern im Sommer einen frühen Start und reichlich Wasser.",
+          "descriptionNl": "Ten zuiden van de badplaats bieden de natuurlijke kust van Macenas en de lagere paden van het beschermde gebied Sierra de Cabrera-Bédar wildere, rustigere wandelingen langs de historische wachttoren en het nieuwe hondenstrand. Honden moeten aangelijnd blijven om het Natura 2000-habitat te beschermen, en deze blootgestelde paden vereisen in de zomer een vroege start en veel water.",
           "offLeashAreaDe": "Keiner. Leinenpflicht im geschützten Natura-2000-Gebiet",
-          "tipDe": "Starten Sie bei Sonnenaufgang und führen Sie Wasser für sich beide mit. Auf den Küstenwegen von Macenas gibt es weder Schatten noch einen Brunnen"
+          "offLeashAreaNl": "Geen. Aanlijnplicht in het beschermde Natura 2000-gebied",
+          "tipDe": "Starten Sie bei Sonnenaufgang und führen Sie Wasser für sich beide mit. Auf den Küstenwegen von Macenas gibt es weder Schatten noch einen Brunnen",
+          "tipNl": "Vertrek bij zonsopgang en neem water mee voor jullie beiden. Op de kustpaden van Macenas is er geen schaduw en geen waterbron"
         }
       ],
       "tipsEn": [
@@ -340,7 +377,9 @@
         }
       ],
       "titleDe": "Hundespaziergänge & Grünflächen in Mojácar",
+      "titleNl": "Hondenwandelingen & groenzones in Mojácar",
       "introDe": "Mojácar dreht sich mehr um Küste und Hügellandschaft als um formelle Parks, und das kommt Hunden zugute. Die flache Strandpromenade und die umliegende Sierra de Cabrera bieten lange, ebene Spaziergänge, aber bei der Sommerhitze in Almería kommt es mehr auf das Timing als auf den Ort an.",
+      "introNl": "Mojácar draait meer om kust en heuvellandschap dan om formele parken, en dat komt honden ten goede. De vlakke strandpromenade en de omliggende Sierra de Cabrera bieden lange, vlakke wandelingen, maar bij de zomerhitte in Almería draait het meer om timing dan om locatie.",
       "faqsDe": [
         {
           "q": "Gibt es einen Freilaufbereich für Hunde in Mojácar?",
@@ -349,6 +388,16 @@
         {
           "q": "Wo kann ich meinen Hund in Mojácar im Sommer ausführen?",
           "a": "Der flache Paseo Marítimo eignet sich am besten bei Sonnenaufgang oder nach Sonnenuntergang, und die schattigen Dorfgassen sind in der Höhe kühler. Vermeiden Sie heißen Sand und Asphalt mittags und führen Sie immer Wasser mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een aanlijnvrij gebied voor honden in Mojácar?",
+          "a": "Er is geen omheind aanlijnvrij gebied voor honden in Mojácar. Honden moeten aangelijnd zijn op de strandpromenade, in het bergdorp en op de kust- en wandelpaden van de Sierra de Cabrera. Het nieuwe hondenstrand Perulejo is de belangrijkste plek waar honden vrij kunnen lopen en zwemmen."
+        },
+        {
+          "q": "Waar kan ik mijn hond in Mojácar in de zomer uitlaten?",
+          "a": "De vlakke Paseo Marítimo is het best geschikt bij zonsopgang of na zonsondergang, en de schaduwrijke dorpssteegjes zijn koeler door de hoogte. Vermijd heet zand en asfalt rond de middag en neem altijd water mee."
         }
       ]
     },
@@ -474,7 +523,9 @@
         }
       ],
       "titleDe": "Mit Haustieren unterwegs in Mojácar",
+      "titleNl": "Onderweg met huisdieren in Mojácar",
       "introDe": "Mojácar ist ein weitläufiger Ferienort mit dem Dorf auf dem Hügel und der langen Strandfront unten, sodass die meisten Haustierbesitzer auf ein Auto angewiesen sind. Öffentliche Verkehrsmittel in die Gegend sind hauptsächlich das ALSA-Busnetz ab Almería, dazu ein lokaler Sommerbus und Taxis, und jedes hat eigene Haustierregeln, die man vor der Reise prüfen sollte.",
+      "introNl": "Mojácar is een uitgestrekte badplaats met het dorp op de heuvel en de lange strandfront beneden, waardoor de meeste huisdiereigenaren op een auto zijn aangewezen. Openbaar vervoer naar het gebied bestaat voornamelijk uit het ALSA-busnetwerk vanuit Almería, plus een lokale zomerbus en taxi's, en elk heeft eigen huisdierregels die je voor de reis moet controleren.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund im ALSA-Bus nach Mojácar mitnehmen?",
@@ -487,6 +538,20 @@
         {
           "q": "Wie komme ich mit Hund vom Flughafen Almería nach Mojácar?",
           "a": "Der Flughafen Almería (ALM) ist etwa eine Stunde entfernt. Nehmen Sie den ALSA-Bus mit Transportbox, mieten Sie ein Auto oder buchen Sie im Voraus ein haustierfreundliches Taxi. Für einen größeren Hund ist die vorherige Organisation eines haustierfreundlichen Transfers die sicherste Wahl."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen in de ALSA-bus naar Mojácar?",
+          "a": "Ja. ALSA staat een klein huisdier tot 10 kg per rit toe in een gesloten, lekvrije draagtas, voor 50% van de reisprijs. Het dier moet ouder dan een jaar zijn, gechipt zijn en een vaccinatiebewijs hebben. Grotere honden reizen in een box in het bagageruim, erkende geleidehonden reizen gratis in de cabine."
+        },
+        {
+          "q": "Heb ik in Mojácar een auto nodig met hond?",
+          "a": "Het is de praktischste optie. Het dorp, de strandfront en het hondenstrand Macenas liggen ver uit elkaar, en een auto maakt het makkelijk om het hondenstrand Perulejo en de rustigere zuidkust te bereiken. Openbaar vervoer is beperkt en meestal seizoensgebonden."
+        },
+        {
+          "q": "Hoe kom ik met hond vanaf vliegveld Almería in Mojácar?",
+          "a": "Vliegveld Almería (ALM) ligt ongeveer een uur verderop. Neem de ALSA-bus met draagtas, huur een auto, of boek van tevoren een hondvriendelijke taxi. Voor een grotere hond is het vooraf organiseren van een hondvriendelijke transfer de veiligste keuze."
         }
       ]
     },
@@ -506,16 +571,19 @@
           "descriptionEs": "La primera playa canina oficial de Mojácar, inaugurada en 2025, un tramo de costa de unos 118 metros en la zona del Perulejo, junto a la histórica torre vigía de Macenas, dentro de la zona protegida Natura 2000 de la Sierra de Cabrera-Bédar. Cuenta con duchas para perros, papeleras con dispensador de bolsas y zonas de sombra, y los perros pueden bañarse aquí bajo la responsabilidad del dueño, ya que queda excluida de la lista oficial de aguas de baño.",
           "descriptionPt": "A primeira praia canina oficial de Mojácar, inaugurada em 2025, um trecho de costa de cerca de 118 metros na zona do Perulejo, junto à histórica torre de vigia de Macenas, dentro da zona protegida Natura 2000 da Sierra de Cabrera-Bédar. Está equipada com chuveiros para cães, caixotes com dispensador de sacos e zonas de sombra, e os cães podem nadar aqui sob a responsabilidade do dono, uma vez que está excluída da lista oficial de águas balneares.",
           "descriptionDe": "Mojácars erster offizieller Hundestrand, eröffnet 2025, ein etwa 118 Meter langer Küstenabschnitt im Gebiet Perulejo neben dem historischen Wachturm von Macenas, innerhalb des geschützten Natura-2000-Gebiets der Sierra de Cabrera-Bédar. Er ist mit Hundeduschen, Mülleimern mit Beutelspendern und schattigen Bereichen ausgestattet, und Hunde können hier auf eigene Verantwortung des Halters schwimmen, da er von der offiziellen Liste der Badegewässer ausgenommen ist.",
+          "descriptionNl": "Mojácars eerste officiële hondenstrand, geopend in 2025, een ongeveer 118 meter lang kustgedeelte in het gebied Perulejo naast de historische wachttoren van Macenas, binnen het beschermde Natura 2000-gebied van de Sierra de Cabrera-Bédar. Het is uitgerust met hondendouches, vuilnisbakken met zakjesdispensers en schaduwrijke plekken, en honden kunnen hier zwemmen op eigen verantwoordelijkheid van de eigenaar, omdat het is uitgezonderd van de officiële lijst van zwemwateren.",
           "season": "Year-round, open to dogs at all times",
           "seasonFr": "Toute l'année, ouverte aux chiens à tout moment",
           "seasonEs": "Todo el año, abierta a los perros en todo momento",
           "seasonPt": "Todo o ano, aberta aos cães em qualquer altura",
           "seasonDe": "Ganzjährig, jederzeit für Hunde geöffnet",
+          "seasonNl": "Het hele jaar door, altijd open voor honden",
           "rules": "Dogs must be leashed on access, microchipped and vaccinated, owners must collect waste, and swimming is at your own risk. Off-leash swimming is at the owner's discretion within the designated zone.",
           "rulesFr": "Les chiens doivent être en laisse à l'accès, pucés et vaccinés, les propriétaires doivent ramasser les déjections, et la baignade se fait aux risques du propriétaire. La baignade sans laisse relève de l'appréciation du propriétaire au sein de la zone désignée.",
           "rulesEs": "Los perros deben ir con correa en el acceso, estar microchipados y vacunados, los dueños deben recoger los excrementos, y el baño es bajo su propia responsabilidad. El baño sin correa queda a criterio del dueño dentro de la zona designada.",
           "rulesPt": "Os cães devem estar presos à trela no acesso, ter microchip e vacinas em dia, os donos devem recolher os dejetos, e o banho é por conta e risco do dono. O banho sem trela fica ao critério do dono dentro da zona designada.",
           "rulesDe": "Hunde müssen beim Zugang angeleint, gechippt und geimpft sein, die Halter müssen die Hinterlassenschaften entfernen, und das Schwimmen erfolgt auf eigene Gefahr. Das Schwimmen ohne Leine liegt im Ermessen des Halters innerhalb der ausgewiesenen Zone.",
+          "rulesNl": "Honden moeten bij toegang aangelijnd, gechipt en gevaccineerd zijn, eigenaren moeten uitwerpselen opruimen, en zwemmen gebeurt op eigen risico. Loslopend zwemmen is naar goeddunken van de eigenaar binnen de aangewezen zone.",
           "facilities": "Dog showers, bins with bag dispensers, shaded areas",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+Macenas+Mojacar",
           "photo": ""
@@ -528,16 +596,19 @@
           "descriptionEs": "Una playa natural más tranquila en el extremo sur de Mojácar, bajo la histórica torre vigía del Castillo de Macenas, popular entre los locales que buscan tranquilidad lejos del bullicio turístico. Está justo al lado de la nueva playa canina, y fuera de temporada (aproximadamente de noviembre a marzo) los perros han disfrutado tradicionalmente de más libertad en este tramo.",
           "descriptionPt": "Uma praia natural mais tranquila no extremo sul de Mojácar, sob a histórica torre de vigia do Castillo de Macenas, popular entre os habitantes locais que procuram sossego longe da azáfama turística. Fica mesmo ao lado da nova praia canina, e fora de época (aproximadamente de novembro a março) os cães têm tradicionalmente desfrutado de mais liberdade neste trecho.",
           "descriptionDe": "Ein ruhigerer Naturstrand am südlichen Ende von Mojácar unterhalb des historischen Wachturms Castillo de Macenas, beliebt bei Einheimischen, die Abgeschiedenheit abseits der Touristenmenge suchen. Er liegt direkt neben dem neuen Hundestrand, und außerhalb der Saison (etwa November bis März) genossen Hunde auf diesem Abschnitt traditionell mehr Freiheit.",
+          "descriptionNl": "Een rustiger natuurstrand aan het zuidelijke uiteinde van Mojácar onder de historische wachttoren Castillo de Macenas, populair bij locals die afgelegenheid zoeken weg van de toeristenmenigte. Het ligt direct naast het nieuwe hondenstrand, en buiten het seizoen (ongeveer november tot maart) genoten honden op dit gedeelte traditioneel meer vrijheid.",
           "season": "Best for dogs off-season (Nov–Mar); dog beach alongside year-round",
           "seasonFr": "Idéale pour les chiens hors saison (nov.-mars) ; plage canine attenante toute l'année",
           "seasonEs": "Mejor para perros fuera de temporada (nov-mar); playa canina contigua todo el año",
           "seasonPt": "Melhor para cães fora de época (nov-mar); praia canina contígua durante todo o ano",
           "seasonDe": "Am besten für Hunde außerhalb der Saison (Nov. bis März); angrenzender Hundestrand ganzjährig",
+          "seasonNl": "Het beste voor honden buiten het seizoen (nov. tot maart); aangrenzend hondenstrand het hele jaar door",
           "rules": "During the summer bathing season dogs must use the adjacent Perulejo dog beach, not the main bathing sand. Always keep dogs leashed and collect waste.",
           "rulesFr": "Pendant la saison de baignade estivale, les chiens doivent utiliser la plage canine attenante du Perulejo, et non le sable principal de baignade. Gardez toujours les chiens en laisse et ramassez les déjections.",
           "rulesEs": "Durante la temporada de baño estival los perros deben usar la playa canina contigua del Perulejo, no el arenal principal de baño. Mantén siempre a los perros con correa y recoge los excrementos.",
           "rulesPt": "Durante a época balnear de verão os cães devem usar a praia canina contígua do Perulejo, não o areal principal de banho. Mantenha sempre os cães presos à trela e recolha os dejetos.",
           "rulesDe": "Während der sommerlichen Badesaison müssen Hunde den angrenzenden Hundestrand Perulejo nutzen, nicht den Hauptbadesand. Hunde stets anleinen und Hinterlassenschaften entfernen.",
+          "rulesNl": "Tijdens het zomerbadseizoen moeten honden het aangrenzende hondenstrand Perulejo gebruiken, niet het hoofdzwemzand. Honden altijd aanlijnen en uitwerpselen opruimen.",
           "facilities": "Limited. Natural beach, nearby chiringuito and parking",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+de+Macenas+Mojacar",
           "photo": ""
@@ -550,16 +621,19 @@
           "descriptionEs": "Las playas centrales con Bandera Azul a lo largo del paseo, incluida la animada Playa del Cantal, la larga y ancha Playa de las Ventanicas y Marina de la Torre, son el corazón de Mojácar Playa con chiringuitos y todos los servicios. Los perros no están permitidos en estas playas de baño durante la temporada estival, pero el paseo llano contiguo ofrece un fácil recorrido con correa todo el año.",
           "descriptionPt": "As praias centrais com Bandeira Azul ao longo do passeio, incluindo a animada Playa del Cantal, a longa e larga Playa de las Ventanicas e Marina de la Torre, são o coração de Mojácar Playa com chiringuitos e todos os serviços. Os cães não são permitidos nestas praias de banho durante a época estival, mas o passeio plano contíguo oferece um passeio fácil com trela durante todo o ano.",
           "descriptionDe": "Die zentralen Strände mit der Blauen Flagge entlang der Promenade, darunter der lebhafte Playa del Cantal, der lange breite Playa de las Ventanicas und Marina de la Torre, bilden das Herz von Mojácar Playa mit Chiringuitos und vollständiger Infrastruktur. Hunde sind an diesen Badestränden während der Sommersaison nicht zugelassen, aber die angrenzende flache Promenade eignet sich ganzjährig gut für einen angeleinten Spaziergang.",
+          "descriptionNl": "De centrale Blauwe Vlag-stranden langs de promenade, waaronder het levendige Playa del Cantal, het lange brede Playa de las Ventanicas en Marina de la Torre, vormen het hart van Mojácar Playa met chiringuitos en volledige infrastructuur. Honden zijn op deze zwemstranden tijdens het zomerseizoen niet toegestaan, maar de aangrenzende vlakke promenade is het hele jaar door goed geschikt voor een aangelijnde wandeling.",
           "season": "Promenade walks year-round; dogs banned on bathing sand in summer",
           "seasonFr": "Balades sur la promenade toute l'année ; chiens interdits sur le sable de baignade en été",
           "seasonEs": "Paseos por el paseo marítimo todo el año; perros prohibidos en la arena de baño en verano",
           "seasonPt": "Passeios pelo passeio marítimo durante todo o ano; cães proibidos na areia de banho no verão",
           "seasonDe": "Ganzjährig Spaziergänge auf der Promenade; Hunde im Sommer am Badesand verboten",
+          "seasonNl": "Het hele jaar door wandelen op de promenade; honden verboden op het badzand in de zomer",
           "rules": "Dogs prohibited on the main bathing beaches during the bathing season. Use the Paseo Marítimo on a leash instead and head to the Perulejo dog beach for sand and swimming.",
           "rulesFr": "Chiens interdits sur les principales plages de baignade pendant la saison de baignade. Utilisez plutôt le Paseo Marítimo en laisse et rendez-vous à la plage canine du Perulejo pour le sable et la baignade.",
           "rulesEs": "Perros prohibidos en las playas principales de baño durante la temporada de baño. Usa en su lugar el Paseo Marítimo con correa y dirígete a la playa canina del Perulejo para arena y baño.",
           "rulesPt": "Cães proibidos nas praias principais de banho durante a época balnear. Use em vez disso o Paseo Marítimo com trela e dirija-se à praia canina do Perulejo para areia e banho.",
           "rulesDe": "Hunde sind während der Badesaison an den Hauptbadestränden verboten. Nutzen Sie stattdessen den Paseo Marítimo an der Leine und gehen Sie für Sand und Schwimmen zum Hundestrand Perulejo.",
+          "rulesNl": "Honden zijn verboden op de hoofdzwemstranden tijdens het badseizoen. Gebruik in plaats daarvan de Paseo Marítimo aan de lijn en ga voor zand en zwemmen naar het hondenstrand Perulejo.",
           "facilities": "Showers, chiringuitos, parking, promenade",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+del+Cantal+Mojacar",
           "photo": ""
@@ -608,7 +682,9 @@
         }
       ],
       "titleDe": "Hundestrände in Mojácar",
+      "titleNl": "Hondenstranden in Mojácar",
       "introDe": "Mojácar Playa erstreckt sich über rund 7 km entlang des Paseo Marítimo, mit Blaue-Flagge-Stränden wie Marina de la Torre, Descargador und dem langen Ventanicas, dazu den wilderen Naturstränden Macenas und Sombrerico im Süden. Die große Neuigkeit für Haustierbesitzer ist die Playa del Perulejo, Mojácars erster offizieller Hundestrand, eröffnet 2025 nahe dem Wachturm von Macenas. Außerhalb davon sind Hunde während der Sommerbadesaison an den Hauptbadestränden verboten, daher sind der Hundestrand und das Timing entscheidend.",
+      "introNl": "Mojácar Playa strekt zich uit over ongeveer 7 km langs de Paseo Marítimo, met Blauwe Vlag-stranden zoals Marina de la Torre, Descargador en het lange Ventanicas, plus de wildere natuurstranden Macenas en Sombrerico in het zuiden. Het grote nieuws voor huisdiereigenaren is de Playa del Perulejo, Mojácars eerste officiële hondenstrand, geopend in 2025 nabij de wachttoren van Macenas. Daarbuiten zijn honden tijdens het zomerbadseizoen verboden op de hoofdzwemstranden, dus het hondenstrand en de timing zijn cruciaal.",
       "faqsDe": [
         {
           "q": "Gibt es einen Hundestrand in Mojácar?",
@@ -617,6 +693,16 @@
         {
           "q": "Dürfen Hunde im Sommer an die Hauptstrände von Mojácar?",
           "a": "Nein. Hunde sind während der Sommerbadesaison an den Hauptbadestränden entlang des Paseo Marítimo verboten. Nutzen Sie den Hundestrand Perulejo bei Macenas, gehen Sie angeleint auf der flachen Promenade spazieren oder besuchen Sie die regulären Strände außerhalb der Saison (etwa November bis März)."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een hondenstrand in Mojácar?",
+          "a": "Ja. Mojácar opende in 2025 zijn eerste officiële hondenstrand, de Playa del Perulejo. Het is een ongeveer 118 meter lang gedeelte nabij de wachttoren van Macenas met hondendouches, vuilnisbakken met zakjesdispensers en schaduwrijke plekken, het hele jaar door open voor honden, waar ze op eigen risico van de eigenaar kunnen zwemmen."
+        },
+        {
+          "q": "Mogen honden in de zomer naar de hoofdstranden van Mojácar?",
+          "a": "Nee. Honden zijn tijdens het zomerbadseizoen verboden op de hoofdzwemstranden langs de Paseo Marítimo. Gebruik het hondenstrand Perulejo bij Macenas, wandel aangelijnd op de vlakke promenade, of bezoek de reguliere stranden buiten het seizoen (ongeveer november tot maart)."
         }
       ]
     },
@@ -664,8 +750,11 @@
           "descriptionPt": "Uma clínica veterinária completa no Parque Comercial Mojácar que anuncia cobertura de cirurgia de urgência 24 horas, incluindo urgências noturnas e feriados todo o ano, além dos seus serviços habituais. É o contacto mais útil para ter guardado numa situação grave fora de horas, no calor do verão.",
           "tipPt": "Guarde esta clínica como a sua opção fora de horas e ligue antes de chegar numa urgência",
           "hoursDe": "Klinikzeiten plus 24-Stunden-Notfallchirurgie; Nacht- und Feiertagsnotfälle das ganze Jahr über",
+          "hoursNl": "Kliniektijden plus 24-uurs spoedchirurgie; nacht- en feestdagnoodgevallen het hele jaar door",
           "descriptionDe": "Eine Tierklinik mit vollem Leistungsspektrum im Parque Comercial Mojácar, die neben ihren regulären Leistungen 24-Stunden-Notfallchirurgie einschließlich Nacht- und Feiertagsnotfällen das ganze Jahr über bewirbt. Dies ist der nützlichste Kontakt für eine ernste Situation außerhalb der Öffnungszeiten in der Sommerhitze.",
-          "tipDe": "Speichern Sie diese Klinik als Option außerhalb der Öffnungszeiten und rufen Sie im Notfall vor der Ankunft an"
+          "descriptionNl": "Een dierenkliniek met volledig dienstenpakket in het Parque Comercial Mojácar, die naast de reguliere diensten 24-uurs spoedchirurgie aanbiedt, inclusief nacht- en feestdagnoodgevallen het hele jaar door. Dit is het handigste contact voor een ernstige situatie buiten openingstijden in de zomerhitte.",
+          "tipDe": "Speichern Sie diese Klinik als Option außerhalb der Öffnungszeiten und rufen Sie im Notfall vor der Ankunft an",
+          "tipNl": "Bewaar deze kliniek als optie buiten openingstijden en bel bij een noodgeval vooraf voordat je komt"
         },
         {
           "name": "Clínica Veterinaria Europa",
@@ -689,8 +778,11 @@
           "descriptionPt": "Uma clínica bem equipada em Mojácar Playa que oferece medicina preventiva e interna, análises clínicas, raio-x, dermatologia, oftalmologia e limpeza dentária, com uma linha de urgência. Bem situada perto dos alojamentos da frente de mar, é uma escolha prática para viajantes que precisem de um check-up ou de cuidados não críticos.",
           "tipPt": "Boa para um check-up não urgente numa estadia mais longa. Ligue primeiro para o número indicado para confirmar o horário",
           "hoursDe": "Klinikzeiten; Notfallnummer +34 629 099 921",
+          "hoursNl": "Kliniektijden; noodnummer +34 629 099 921",
           "descriptionDe": "Eine gut ausgestattete Klinik in Mojácar Playa mit Präventiv- und Innerer Medizin, klinischer Analyse, Röntgen, Dermatologie, Augenheilkunde und Zahnbehandlung sowie einer Notfalltelefonleitung. Praktisch nahe den Unterkünften an der Strandfront gelegen, ist sie eine gute Wahl für Reisende, die eine Untersuchung oder nicht-kritische Behandlung benötigen.",
-          "tipDe": "Gut für eine nicht dringende Untersuchung während eines längeren Aufenthalts. Rufen Sie zuerst die angegebene Nummer an, um die Öffnungszeiten zu bestätigen"
+          "descriptionNl": "Een goed uitgeruste kliniek in Mojácar Playa met preventieve en interne geneeskunde, klinische analyse, röntgen, dermatologie, oogheelkunde en tandbehandeling, plus een noodtelefoonlijn. Handig gelegen dicht bij de accommodaties aan de strandfront, een goede keuze voor reizigers die een onderzoek of niet-kritieke behandeling nodig hebben.",
+          "tipDe": "Gut für eine nicht dringende Untersuchung während eines längeren Aufenthalts. Rufen Sie zuerst die angegebene Nummer an, um die Öffnungszeiten zu bestätigen",
+          "tipNl": "Goed voor een niet-urgent onderzoek tijdens een langer verblijf. Bel eerst het opgegeven nummer om de openingstijden te bevestigen"
         },
         {
           "name": "Clínica Veterinaria Mojácar",
@@ -714,8 +806,11 @@
           "descriptionPt": "Uma clínica veterinária geral no Paseo del Mediterráneo, na frente de mar, que oferece medicina, cirurgia, vacinação, desparasitação e tosquia, bem como visitas ao domicílio. É a clínica mais central para viajantes alojados ao longo da frente de praia e prática para necessidades de rotina e documentação de viagem.",
           "tipPt": "Central, no passeio. Ligue com antecedência, pois o horário principal é de manhã",
           "hoursDe": "Mo–Fr 10:00–14:00 Uhr (Nachmittagszeiten bestätigen)",
+          "hoursNl": "Ma-vr 10:00-14:00 uur (middaguren bevestigen)",
           "descriptionDe": "Eine allgemeine Tierarztpraxis am Paseo del Mediterráneo mit Medizin, Chirurgie, Impfungen, Entwurmung und Fellpflege sowie Hausbesuchen. Sie ist die zentralste Klinik für Reisende, die an der Strandfront wohnen, und praktisch für Routinebedarf und Reisedokumente.",
-          "tipDe": "Zentral an der Promenade gelegen. Rufen Sie vorher an, da die Kernöffnungszeiten vormittags liegen"
+          "descriptionNl": "Een algemene dierenartspraktijk aan de Paseo del Mediterráneo met geneeskunde, chirurgie, vaccinaties, ontworming en vachtverzorging, plus huisbezoeken. Het is de meest centrale kliniek voor reizigers die aan de strandfront verblijven, en handig voor routinebehoeften en reisdocumenten.",
+          "tipDe": "Zentral an der Promenade gelegen. Rufen Sie vorher an, da die Kernöffnungszeiten vormittags liegen",
+          "tipNl": "Centraal gelegen aan de promenade. Bel van tevoren, want de kernopeningstijden liggen in de ochtend"
         }
       ],
       "faqsEn": [
@@ -761,7 +856,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte in Mojácar, Tierkliniken & Haustierbetreuung",
+      "titleNl": "Spoeddierenartsen in Mojácar, dierenklinieken & huisdierzorg",
       "introDe": "Mojácar verfügt über mehrere Tierkliniken, die den Ferienort und das Dorf versorgen, darunter eine mit 24-Stunden-Notfallversorgung, was in der Sommerhitze wichtig ist, wenn Dehydrierung und Hitzschlag echte Risiken sind. EU-registrierte Haustiere benötigen einen gültigen EU-Heimtierausweis mit Mikrochip und aktueller Tollwutimpfung, um nach Spanien zu reisen.",
+      "introNl": "Mojácar heeft meerdere dierenklinieken die de badplaats en het dorp bedienen, waaronder een met 24-uurs spoedzorg, wat belangrijk is in de zomerhitte, wanneer uitdroging en hitteberoerte reële risico's zijn. EU-geregistreerde huisdieren hebben een geldig EU-dierenpaspoort nodig met microchip en actuele rabiësvaccinatie om naar Spanje te reizen.",
       "faqsDe": [
         {
           "q": "Gibt es einen 24-Stunden-Tierarzt in Mojácar?",
@@ -770,6 +867,16 @@
         {
           "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Mojácar zu bringen?",
           "a": "EU-registrierte Haustiere benötigen einen gültigen EU-Heimtierausweis mit Mikrochip und aktueller Tollwutimpfung. Haustiere aus Nicht-EU-Ländern, einschließlich Großbritannien, benötigen eine Tiergesundheitsbescheinigung und je nach Herkunft möglicherweise einen Tollwut-Titertest. Prüfen Sie die aktuellen spanischen Einreisebestimmungen vor der Reise."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs dierenarts in Mojácar?",
+          "a": "Ja. De Clínica Veterinaria Costa Índalo in het Parque Comercial Mojácar biedt 24-uurs spoedchirurgie, inclusief nacht- en feestdagnoodgevallen het hele jaar door. De Clínica Veterinaria Europa heeft ook een noodnummer (+34 629 099 921). Bel bij een noodgeval altijd van tevoren."
+        },
+        {
+          "q": "Heb ik een dierenpaspoort nodig om mijn hond naar Mojácar te brengen?",
+          "a": "EU-geregistreerde huisdieren hebben een geldig EU-dierenpaspoort nodig met microchip en actuele rabiësvaccinatie. Huisdieren uit niet-EU-landen, inclusief het Verenigd Koninkrijk, hebben een dierengezondheidscertificaat nodig en mogelijk een rabiës-titertest, afhankelijk van herkomst. Controleer de actuele Spaanse inreisvereisten voor de reis."
         }
       ]
     },
@@ -902,7 +1009,9 @@
         "Lleva siempre agua y un cuenco plegable. La sombra y las fuentes son escasas en el frente marítimo."
       ],
       "titleDe": "Haustierfreundliche Tipps für Mojácar",
+      "titleNl": "Huisdiervriendelijke tips voor Mojácar",
       "introDe": "Mojácar entwickelt sich deutlich in eine haustierfreundliche Richtung, mit einem neuen Hundestrand und einer entspannten Terrassenkultur, doch es ist ein heißer Ferienort an der Costa de Almería, bei dem die Sommerhitze der Hauptfaktor ist, den man einplanen muss. Ein paar lokale Regeln und Gewohnheiten machen einen langen Strandaufenthalt mit Hund viel einfacher.",
+      "introNl": "Mojácar ontwikkelt zich duidelijk in een huisdiervriendelijke richting, met een nieuw hondenstrand en een ontspannen terrascultuur, maar het is een hete badplaats aan de Costa de Almería, waarbij de zomerhitte de belangrijkste factor is waar je rekening mee moet houden. Een paar lokale regels en gewoontes maken een lang strandverblijf met hond veel makkelijker.",
       "faqsDe": [
         {
           "q": "Ist Mojácar gut für Hunde geeignet?",
@@ -915,6 +1024,20 @@
         {
           "q": "Sind Hunde in Mojácar Pueblo erlaubt?",
           "a": "Ja. Angeleinte Hunde sind in den Gassen und an den Aussichtspunkten des weiß getünchten Bergdorfs willkommen, und mehrere Dorfcafés heißen sie auf der Terrasse willkommen. Die schattigen Gassen sind kühler als der offene Strand, doch das Kopfsteinpflaster kann mittags trotzdem heiß werden."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Mojácar goed geschikt voor honden?",
+          "a": "In toenemende mate wel. Mojácar opende in 2025 zijn eerste officiële hondenstrand (Perulejo), heeft een ontspannen terraseetcultuur en een vlakke, goed begaanbare strandfront. Het belangrijkste voorbehoud is de zomerhitte in Almería, wat wandelingen bij zonsopgang en schemering, veel water en schaduw betekent."
+        },
+        {
+          "q": "Wat moet ik inpakken voor Mojácar met mijn hond?",
+          "a": "Neem een EU-dierenpaspoort (of gelijkwaardig), een lijn, poepzakjes, een opvouwbaar waterbakje en veel water mee, en denk aan pootbescherming of schoentjes voor heet zand. Een koelmat en zonwering helpen enorm in juli en augustus."
+        },
+        {
+          "q": "Zijn honden toegestaan in Mojácar Pueblo?",
+          "a": "Ja. Aangelijnde honden zijn welkom in de steegjes en bij de uitkijkpunten van het witgekalkte bergdorp, en meerdere dorpscafés heten ze welkom op het terras. De schaduwrijke steegjes zijn koeler dan het open strand, maar de kasseien kunnen rond de middag toch heet worden."
         }
       ]
     },
@@ -949,9 +1072,13 @@
           "admissionFeePt": "Gratuito",
           "tipPt": "Estacione em baixo e suba cedo ou ao anoitecer. As ruelas de calçada são íngremes e aquecem ao meio-dia no verão",
           "descriptionDe": "Das weiß getünchte Bergdorf ist Mojácars Wahrzeichen, eine Kaskade weißer kubistischer Häuser, blumengesäumter Gassen und maurischer Winkel, die hinauf zur Plaza Nueva führt, dem lebendigen Herz der Stadt. Von seinem Aussichtspunkt genießen angeleinte Hunde und ihre Besitzer weite Ausblicke über das Tal des Río Aguas bis zum Meer und die umliegenden Berge Cabrera und Bédar.",
+          "descriptionNl": "Het witgekalkte bergdorp is Mojácars symbool, een cascade van witte kubistische huizen, met bloemen omzoomde steegjes en Moorse hoekjes die omhoog leiden naar de Plaza Nueva, het levendige hart van de stad. Vanaf het uitkijkpunt genieten aangelijnde honden en hun eigenaren van wijde uitzichten over de vallei van de Río Aguas tot aan de zee en de omliggende bergen Cabrera en Bédar.",
           "dogPolicyDe": "Angeleinte Hunde in den Gassen und an den Aussichtspunkten willkommen",
+          "dogPolicyNl": "Aangelijnde honden welkom in de steegjes en bij de uitkijkpunten",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Parken Sie unten und gehen Sie früh oder in der Abenddämmerung hinauf. Die Kopfsteingassen sind steil und werden im Sommer mittags heiß"
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Parken Sie unten und gehen Sie früh oder in der Abenddämmerung hinauf. Die Kopfsteingassen sind steil und werden im Sommer mittags heiß",
+          "tipNl": "Parkeer beneden en loop vroeg of in de avondschemering naar boven. De geplaveide steegjes zijn steil en worden 's middags in de zomer heet"
         },
         {
           "name": "Fuente Pública (Moorish fountain)",
@@ -976,9 +1103,13 @@
           "admissionFeePt": "Gratuito",
           "tipPt": "Não deixe os cães beber diretamente dos bicos da fonte. Leve a sua própria água para eles",
           "descriptionDe": "Am Fuß des alten Dorfes ist die Fuente Pública ein historischer maurischer Quellbrunnen, an dem die Frauen von Mojácar über Jahrhunderte hinweg Wäsche wuschen und Wasser schöpften. Es ist ein schattiger, stimmungsvoller Ort im Freien, den angeleinte Hunde frei besuchen können, und ein kühler Rastplatz auf einem Spaziergang zwischen Strand und Dorf.",
+          "descriptionNl": "Aan de voet van het oude dorp is de Fuente Pública een historische Moorse bronfontein, waar de vrouwen van Mojácar eeuwenlang wasten en water putten. Het is een schaduwrijke, sfeervolle plek in de open lucht die aangelijnde honden vrij kunnen bezoeken, en een koele rustplek op een wandeling tussen strand en dorp.",
           "dogPolicyDe": "Angeleinte Hunde an diesem Ort im Freien willkommen",
+          "dogPolicyNl": "Aangelijnde honden welkom op deze plek in de open lucht",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Lassen Sie Hunde nicht direkt aus den Brunnenauslässen trinken. Führen Sie eigenes Wasser für sie mit"
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Lassen Sie Hunde nicht direkt aus den Brunnenauslässen trinken. Führen Sie eigenes Wasser für sie mit",
+          "tipNl": "Laat honden niet rechtstreeks uit de fonteinuitlaten drinken. Neem eigen water voor hen mee"
         },
         {
           "name": "Torre de Macenas & southern coast",
@@ -1003,9 +1134,13 @@
           "admissionFeePt": "Gratuito",
           "tipPt": "Combine o passeio até à torre com um mergulho cedo na praia para cães de Perulejo, mesmo ao lado",
           "descriptionDe": "Der Wachturm Torre de Macenas aus dem 18. Jahrhundert steht über den wilden Naturstränden am südlichen Ende von Mojácar, innerhalb der geschützten Küste der Sierra de Cabrera-Bédar. Es ist ein malerischer, für angeleinte Hunde geeigneter Spaziergang direkt neben dem neuen Hundestrand Perulejo, mit dem verfallenen Castillo de Macenas und ruhigen Buchten in der Nähe.",
+          "descriptionNl": "De 18e-eeuwse wachttoren Torre de Macenas staat boven de wilde natuurstranden aan het zuidelijke uiteinde van Mojácar, binnen de beschermde kust van de Sierra de Cabrera-Bédar. Het is een schilderachtige wandeling geschikt voor aangelijnde honden, direct naast het nieuwe hondenstrand Perulejo, met het vervallen Castillo de Macenas en rustige baaien in de buurt.",
           "dogPolicyDe": "Angeleinte Hunde willkommen; bleiben Sie im Schutzgebiet auf den Wegen",
+          "dogPolicyNl": "Aangelijnde honden welkom; blijf op de paden in het beschermde gebied",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Kombinieren Sie den Turmspaziergang mit einem frühen Schwimmen am direkt daneben liegenden Hundestrand Perulejo"
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Kombinieren Sie den Turmspaziergang mit einem frühen Schwimmen am direkt daneben liegenden Hundestrand Perulejo",
+          "tipNl": "Combineer de torenwandeling met een vroeg zwempartijtje op het direct ernaast gelegen hondenstrand Perulejo"
         }
       ],
       "tipsEn": [
@@ -1055,11 +1190,19 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Mojácar",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Mojácar",
       "introDe": "Mojácars wichtigste Sehenswürdigkeiten liegen im Freien und lassen sich mit angeleintem Hund leicht genießen, vom weiß getünchten Bergdorf und seinen Aussichtspunkten bis zur langen Strandpromenade und der wilden Südküste. Planen Sie Besuche im Sommer für die kühleren Morgen- und Abendstunden.",
+      "introNl": "Mojácars belangrijkste bezienswaardigheden liggen buiten en zijn makkelijk te genieten met aangelijnde hond, van het witgekalkte bergdorp en zijn uitkijkpunten tot de lange strandpromenade en de wilde zuidkust. Plan bezoeken in de zomer voor de koelere ochtend- en avonduren.",
       "faqsDe": [
         {
           "q": "Sind die Sehenswürdigkeiten in Mojácar haustierfreundlich?",
           "a": "Ja. Mojácars Highlights, das weiß getünchte Bergdorf und seine Aussichtspunkte, die historische Fuente Pública, die lange Promenade sowie der Wachturm und die Küste von Macenas, liegen alle im Freien und heißen angeleinte Hunde willkommen. Es gibt keine großen Indoor-Museen, die man auslassen müsste."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn de bezienswaardigheden in Mojácar huisdiervriendelijk?",
+          "a": "Ja. Mojácars hoogtepunten, het witgekalkte bergdorp en zijn uitkijkpunten, de historische Fuente Pública, de lange promenade en de wachttoren en kust van Macenas, liggen allemaal buiten en heten aangelijnde honden welkom. Er zijn geen grote indoor-musea om over te slaan."
         }
       ]
     },
@@ -1092,8 +1235,11 @@
           "serviceTypePt": "Reserva pela aplicação. Pet sitting, passeios, alojamento",
           "tipPt": "Reserve com vários dias de antecedência em julho e agosto. A disponibilidade aperta depressa na época alta na Costa de Almería",
           "descriptionDe": "Rover ist eine der größten Plattformen für Haustierbetreuung in Spanien und verbindet Besitzer mit überprüften, bewerteten lokalen Sittern und Hundeausführern, auch in der Region Almería rund um Mojácar. Für Reisende ist es der zuverlässigste Weg, einen vertrauenswürdigen Sitter für ein paar Stunden oder eine Übernachtung zu finden, mit Buchung, Nachrichten und Zahlung in der App.",
+          "descriptionNl": "Rover is een van de grootste platforms voor huisdierverzorging in Spanje en verbindt eigenaren met gecontroleerde, beoordeelde lokale sitters en hondenuitlaters, ook in de regio Almería rond Mojácar. Voor reizigers is het de betrouwbaarste manier om een vertrouwde sitter te vinden voor een paar uur of een overnachting, met boeking, berichten en betaling in de app.",
           "serviceTypeDe": "App-basierte Buchung. Hundebetreuung, Gassigehen, Unterbringung",
-          "tipDe": "Buchen Sie im Juli und August mehrere Tage im Voraus. Die Verfügbarkeit wird in der Hochsaison an der Costa de Almería schnell knapp"
+          "serviceTypeNl": "App-gebaseerd boeken. Hondenoppas, uitlaten, onderdak",
+          "tipDe": "Buchen Sie im Juli und August mehrere Tage im Voraus. Die Verfügbarkeit wird in der Hochsaison an der Costa de Almería schnell knapp",
+          "tipNl": "Boek in juli en augustus meerdere dagen van tevoren. De beschikbaarheid wordt in het hoogseizoen aan de Costa de Almería snel krap"
         },
         {
           "name": "Gudog Spain",
@@ -1116,8 +1262,11 @@
           "serviceTypePt": "Reserva online. Alojamento ao domicílio, creche de dia, passeios",
           "tipPt": "Envie mensagem aos anfitriões antes de reservar para confirmar que estão à vontade com o tamanho do seu cão e com qualquer sensibilidade ao calor",
           "descriptionDe": "Gudog ist eine spanische Plattform für Hundeunterbringung und -betreuung mit verifizierten Gastgebern im ganzen Land, einschließlich der Provinz Almería. Sie eignet sich gut für längere Aufenthalte und bietet Unterbringung im Zuhause und Tagesbetreuung mit versicherten, bewerteten Sittern sowie eine einfache Oberfläche zum Filtern nach Standort, Hundegröße und Betreuungsart.",
+          "descriptionNl": "Gudog is een Spaans platform voor hondenonderdak en -verzorging met geverifieerde gastheren door het hele land, inclusief de provincie Almería. Het is goed geschikt voor langere verblijven en biedt onderdak thuis en dagopvang met verzekerde, beoordeelde sitters, plus een eenvoudige interface om te filteren op locatie, hondgrootte en type verzorging.",
           "serviceTypeDe": "Online-Buchung. Unterbringung im Zuhause, Tagesbetreuung, Gassigehen",
-          "tipDe": "Schreiben Sie Gastgebern vor der Buchung, um zu bestätigen, dass sie mit der Größe Ihres Hundes und etwaiger Hitzeempfindlichkeit zurechtkommen"
+          "serviceTypeNl": "Online boeken. Onderdak thuis, dagopvang, uitlaten",
+          "tipDe": "Schreiben Sie Gastgebern vor der Buchung, um zu bestätigen, dass sie mit der Größe Ihres Hundes und etwaiger Hitzeempfindlichkeit zurechtkommen",
+          "tipNl": "Schrijf gastheren voor het boeken om te bevestigen dat ze overweg kunnen met de grootte van je hond en eventuele hittegevoeligheid"
         }
       ],
       "tipsEn": [
@@ -1167,11 +1316,19 @@
         }
       ],
       "titleDe": "Hundesitter & Haustierbetreuung in Mojácar",
+      "titleNl": "Hondenoppas & huisdierverzorging in Mojácar",
       "introDe": "Bei einem langen Sommeraufenthalt brauchen Sie manchmal ein paar Stunden ohne Ihren Hund, für einen Ausflug drinnen oder einfach um der Mittagshitze zu entkommen. Mojácar und die weitere Region Almería werden von landesweiten Plattformen für Haustierbetreuung abgedeckt, die Reisende mit lokalen, bewerteten Sittern verbinden.",
+      "introNl": "Bij een lang zomerverblijf heb je soms een paar uur nodig zonder je hond, voor een uitje binnen of gewoon om aan de middaghitte te ontsnappen. Mojácar en de bredere regio Almería worden gedekt door landelijke platforms voor huisdierverzorging, die reizigers verbinden met lokale, beoordeelde sitters.",
       "faqsDe": [
         {
           "q": "Wie viel kostet Hundebetreuung in Mojácar?",
           "a": "Über landesweite Plattformen wie Rover und Gudog liegen die Kosten je nach Leistung bei etwa 15–40 € pro Tag, wobei die Übernachtungsbetreuung am oberen Ende liegt. Preise und Verfügbarkeit werden im Juli und August knapper, buchen Sie in der Hochsaison also mehrere Tage im Voraus."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost hondenoppas in Mojácar?",
+          "a": "Via landelijke platforms zoals Rover en Gudog liggen de kosten, afhankelijk van de dienst, rond 15-40 € per dag, waarbij overnachtingsverzorging aan de bovenkant zit. Prijzen en beschikbaarheid worden in juli en augustus krapper, boek in het hoogseizoen dus meerdere dagen van tevoren."
         }
       ]
     }

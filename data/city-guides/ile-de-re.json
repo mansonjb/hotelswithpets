@@ -41,9 +41,13 @@
           "mustTryPt": "Ostras da Ilha de Ré, flor de sal, batatas AOP de Ré",
           "tipPt": "Compre ostras e uma baguete no mercado e caminhe cinco minutos até ao paredão do porto para as comer com o seu cão aos pés",
           "descriptionDe": "Die mittelalterliche Markthalle von La Flotte gehört zu den schönsten Frankreichs und ist das Herz des Dorflebens. Unter ihrem Holzdach und an den umliegenden Ständen findet man Austern direkt von den Austernbänken der Insel, Fleur de Sel, AOP-Kartoffeln von Ré, Wurstwaren und Käse, während Hunde ganz selbstverständlich zwischen den Ständen neben ihren Besitzern umherstreifen. Die meisten Marktstände halten einen Wassernapf bereit, und der offene Platz rund um den Markt bietet Caféterrassen, auf denen man bei einem Kaffee oder einem Dutzend Austern sitzen kann, während der Hund im Schatten ruht. Am besten morgens hingehen, wenn der Markt in vollem Gange ist, und ein Picknick für den Hafen oder die Radwege einkaufen.",
+          "descriptionNl": "De middeleeuwse markthal van La Flotte behoort tot de mooiste van Frankrijk en is het hart van het dorpsleven. Onder het houten dak en bij de omliggende kraampjes vind je oesters rechtstreeks van de oesterbanken van het eiland, fleur de sel, AOP-aardappelen van Ré, vleeswaren en kaas, terwijl honden heel vanzelfsprekend tussen de kraampjes meelopen naast hun baasje. De meeste marktkraampjes hebben een waterbakje klaarstaan, en het open plein rond de markt biedt caféterrassen waar je bij een koffie of een dozijn oesters kunt zitten terwijl de hond in de schaduw rust. Ga het best 's ochtends, wanneer de markt op zijn drukst is, en koop een picknick in voor de haven of de fietspaden.",
           "petPolicyDe": "Hunde auf dem gesamten Markt und auf den umliegenden Terrassen willkommen",
+          "petPolicyNl": "Honden welkom op de hele markt en de omliggende terrassen",
           "mustTryDe": "Austern von der Île de Ré, Fleur de Sel, AOP-Kartoffeln von Ré",
-          "tipDe": "Austern und ein Baguette auf dem Markt kaufen und fünf Minuten zur Hafenmauer laufen, um sie mit dem Hund zu Füßen zu genießen"
+          "mustTryNl": "Oesters van Île de Ré, fleur de sel, AOP-aardappelen van Ré",
+          "tipDe": "Austern und ein Baguette auf dem Markt kaufen und fünf Minuten zur Hafenmauer laufen, um sie mit dem Hund zu Füßen zu genießen",
+          "tipNl": "Koop oesters en een stokbrood op de markt en loop vijf minuten naar de havenmuur om ze op te eten met je hond aan je voeten"
         },
         {
           "name": "Terrasses du Port de Saint-Martin",
@@ -71,9 +75,13 @@
           "mustTryPt": "Travessa de marisco, galettes, pineau des Charentes local",
           "tipPt": "Venha à hora dourada, quando o sol baixo ilumina as muralhas e o campanário; os cais esvaziam-se de ciclistas e os cães ganham mais espaço",
           "descriptionDe": "Der hufeisenförmige Hafen von Saint-Martin-de-Ré ist von Café- und Restaurantterrassen gesäumt und damit die hundefreundlichste Restaurantmeile der Insel. Die Kais rund um den Hafen sind Fußgängerzone, die Tische reichen bis ans Wasser, und an einem Sommerabend liegen Dutzende Hunde darunter. Es handelt sich nicht um ein einzelnes Lokal, sondern um eine durchgehende Reihe von Fisch-Brasserien, Crêperien, Eisständen und Weinbars, die alle einen wohlerzogenen Hund zu Füßen gerne dulden. Ein Plateau de fruits de mer oder eine Galette bestellen, die Boote und die Festungsmauern im Abendlicht beobachten und den Hund nach einem Tag Radfahren zur Ruhe kommen lassen. Das Publikum ist eine Mischung aus Einheimischen, Seglern und Besuchern, und die Antwort auf einen Hund auf der Terrasse lautet hier immer Ja.",
+          "descriptionNl": "De hoefijzervormige haven van Saint-Martin-de-Ré is omzoomd met café- en restaurantterrassen en is daarmee de hondvriendelijkste restaurantstrook van het eiland. De kades rond de haven zijn autovrij, de tafels lopen door tot aan het water, en op een zomeravond liggen er tientallen honden onder. Het gaat niet om één zaak, maar om een doorlopende reeks visbrasseries, crêperies, ijskraampjes en wijnbars, die allemaal graag een goedopgevoede hond aan de voeten dulden. Bestel een plateau de fruits de mer of een galette, kijk naar de boten en de vestingmuren in het avondlicht en laat je hond tot rust komen na een dag fietsen. Het publiek is een mix van locals, zeilers en bezoekers, en het antwoord op een hond op het terras is hier altijd ja.",
           "petPolicyDe": "Hunde auf allen Hafenterrassen willkommen",
+          "petPolicyNl": "Honden welkom op alle haventerrassen",
           "mustTryDe": "Plateau de fruits de mer, Galettes, lokaler Pineau des Charentes",
-          "tipDe": "Zur goldenen Stunde kommen, wenn die tiefstehende Sonne die Festungsmauern und den Kirchturm beleuchtet; die Kais leeren sich von Radfahrern, und die Hunde haben mehr Platz"
+          "mustTryNl": "Plateau de fruits de mer, galettes, lokale Pineau des Charentes",
+          "tipDe": "Zur goldenen Stunde kommen, wenn die tiefstehende Sonne die Festungsmauern und den Kirchturm beleuchtet; die Kais leeren sich von Radfahrern, und die Hunde haben mehr Platz",
+          "tipNl": "Kom tijdens het gouden uur, wanneer de laagstaande zon de vestingmuren en de kerktoren verlicht; de kades lopen leeg van fietsers en de honden hebben meer ruimte"
         },
         {
           "name": "Place de l'Église, Ars-en-Ré",
@@ -101,14 +109,21 @@
           "mustTryPt": "Galettes, caramelo de flor de sal, vinho da região charentesa",
           "tipPt": "Chegue de bicicleta a partir dos sapais; a aldeia tem um parque de bicicletas junto à praça e bebedouros para cães",
           "descriptionDe": "Ars-en-Ré, eines der 'plus beaux villages de France', versammelt sein Caféleben um den Platz unter seinem berühmten schwarz-weißen Kirchturm, einem Wahrzeichen, das einst Schiffen den Weg über die Salzmarschen wies. Die Terrassen hier sind kleiner und ruhiger als in Saint-Martin, mit einem dörflichen Rhythmus, der sich für ein entspanntes Mittagessen mit Hund eignet. Crêperien, eine Weinbar und ein paar Bistros stellen Tische unter die Bäume, und Hunde fühlen sich hier vollkommen zu Hause. Das Dorf liegt am Rand der Salzgärten und ist daher ein natürlicher Halt auf einer Radtour zu den Salinen und dem Phare des Baleines. Den Hund im Schatten anbinden, eine Galette und ein Glas lokalen Weißwein bestellen und dabei zusehen, wie sich das Dorf gemächlich um einen herum bewegt.",
+          "descriptionNl": "Ars-en-Ré, een van de 'plus beaux villages de France', verzamelt zijn caféleven rond het plein onder zijn beroemde zwart-witte kerktoren, een baken dat schepen ooit de weg wees over de zoutmoerassen. De terrassen hier zijn kleiner en rustiger dan in Saint-Martin, met een dorpsritme dat zich leent voor een ontspannen lunch met hond. Crêperies, een wijnbar en een paar bistro's zetten tafels onder de bomen, en honden voelen zich hier helemaal thuis. Het dorp ligt aan de rand van de zoutmoerassen en is daarom een natuurlijke stop op een fietstocht naar de zoutpannen en de Phare des Baleines. Bind je hond vast in de schaduw, bestel een galette en een glas lokale witte wijn, en kijk hoe het dorp langzaam om je heen beweegt.",
           "petPolicyDe": "Hunde auf den Terrassen des Platzes willkommen",
+          "petPolicyNl": "Honden welkom op de terrassen aan het plein",
           "mustTryDe": "Galettes, Fleur-de-Sel-Karamell, Vin de Pays Charentais",
-          "tipDe": "Mit dem Fahrrad von den Salzmarschen kommen; das Dorf hat einen eigenen Fahrradparkplatz am Platz und Wasserbrunnen für Hunde"
+          "mustTryNl": "Galettes, fleur-de-sel-karamel, vin de pays charentais",
+          "tipDe": "Mit dem Fahrrad von den Salzmarschen kommen; das Dorf hat einen eigenen Fahrradparkplatz am Platz und Wasserbrunnen für Hunde",
+          "tipNl": "Kom met de fiets vanaf de zoutmoerassen; het dorp heeft een eigen fietsparkeerplaats aan het plein en drinkbakjes voor honden"
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants auf der Île de Ré",
+      "titleNl": "Huisdiervriendelijke restaurants op Île de Ré",
       "introDe": "Auf der Île de Ré wird draußen gegessen. Die gesamte Inselkultur dreht sich um Häfen, Marktplätze und Terrassentische, an denen ein an ein Stuhlbein gebundener Hund das Normalste der Welt ist. Saint-Martin-de-Ré legt seine Restaurants und Eisstände um einen aktiven Hafen, La Flotte bewahrt eine der schönsten mittelalterlichen Markthallen Frankreichs, und jedes Dorf von Ars-en-Ré bis Le Bois-Plage hat einen Platz mit Cafés, die ungefragt einen Wassernapf hinstellen. Die Küche ist unverkennbar der Region verpflichtet: Austern aus den umliegenden Austernbänken, Fleur de Sel aus den Salzgärten, AOP-Kartoffeln von Ré, Galettes sowie der lokale Pineau und Vin de Pays. Radfahrer kommen mittags mit sandigen Hunden im Fahrradkorb an, und niemand wundert sich. Diese drei sind zuverlässig und wirklich haustierfreundlich, verteilt auf die drei lebendigsten Dörfer der Insel.",
-      "faqsDe": []
+      "introNl": "Op Île de Ré wordt er buiten gegeten. De hele eilandcultuur draait om havens, dorpspleinen en terrastafels, waar een hond vastgebonden aan een stoelpoot het gewoonste van de wereld is. Saint-Martin-de-Ré legt zijn restaurants en ijskraampjes rond een actieve haven, La Flotte behoudt een van de mooiste middeleeuwse markthallen van Frankrijk, en elk dorp van Ars-en-Ré tot Le Bois-Plage heeft een plein met cafés die ongevraagd een waterbakje neerzetten. De keuken is duidelijk aan de streek verbonden: oesters uit de omliggende oesterbanken, fleur de sel uit de zoutmoerassen, AOP-aardappelen van Ré, galettes, plus de lokale pineau en vin de pays. Fietsers komen 's middags aan met zanderige honden in de fietsmand, en niemand kijkt ervan op. Deze drie zijn betrouwbaar en écht huisdiervriendelijk, verspreid over de drie levendigste dorpen van het eiland.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks & Walks on Île de Ré",
@@ -144,9 +159,13 @@
           "tipEs": "Primera hora de la mañana o la hora dorada para la luz en las murallas",
           "tipPt": "Início da manhã ou hora dourada para a luz sobre as muralhas",
           "descriptionDe": "Die zum UNESCO-Welterbe gehörenden Vauban-Festungsanlagen umschließen Saint-Martin-de-Ré in einem sternförmigen Ring aus Wällen, Gräben und grasbewachsenen Glacis, und der Weg entlang und um sie herum ist der schönste Spaziergang in allen Dörfern der Insel. Die grasbewachsenen Außenhänge sind breit, flach und offen, perfekt für einen langen Spaziergang an der Leine mit Meerblick auf der einen und der Altstadt auf der anderen Seite. Die Runde dauert im Hundetempo etwa eine Stunde und mündet in den Hafen, sodass man auf einer Caféterrasse abschließen kann. Sie ist zugleich lebendige Geschichtsstunde und ein wirklich schöner Spaziergang. Hunde müssen angeleint sein, doch das Gras unter den Pfoten und die Brise vom Wasser machen diesen Weg morgens wie abends zum Favoriten der einheimischen Hundebesitzer.",
+          "descriptionNl": "De tot UNESCO-werelderfgoed behorende Vauban-vestingwerken omsluiten Saint-Martin-de-Ré in een stervormige ring van wallen, grachten en begroeide glacis, en de weg langs en rond deze werken is de mooiste wandeling van alle dorpen op het eiland. De grasbegroeide buitenhellingen zijn breed, vlak en open, perfect voor een lange wandeling aan de lijn met zeezicht aan de ene kant en de oude stad aan de andere. De ronde duurt in hondentempo ongeveer een uur en eindigt bij de haven, zodat je kunt afsluiten op een caféterras. Het is tegelijk een levendige geschiedenisles en een echt mooie wandeling. Honden moeten aangelijnd zijn, maar het gras onder de pootjes en de bries vanaf het water maken dit pad zowel 's ochtends als 's avonds een favoriet bij lokale hondenbezitters.",
           "petPolicyDe": "Leinenpflicht für Hunde im gesamten Bereich",
+          "petPolicyNl": "Aanlijnplicht voor honden in het hele gebied",
           "facilitiesDe": "UNESCO-Vauban-Festungswälle, Offenes Grasglacis, Meer- und Hafenblick, Anbindung an den Hafen",
-          "tipDe": "Früher Morgen oder goldene Stunde für das Licht auf den Festungsmauern"
+          "facilitiesNl": "UNESCO-Vauban-vestingwallen, open grasglacis, zee- en havenzicht, aansluiting op de haven",
+          "tipDe": "Früher Morgen oder goldene Stunde für das Licht auf den Festungsmauern",
+          "tipNl": "Vroege ochtend of gouden uur voor het licht op de vestingmuren"
         },
         {
           "name": "Marais Salants d'Ars-en-Ré",
@@ -172,9 +191,13 @@
           "tipEs": "Primera hora de la mañana para las aves y el aire fresco; evita el calor del mediodía sin sombra",
           "tipPt": "Início da manhã pelas aves e o ar fresco; evite o calor do meio-dia sem sombra",
           "descriptionDe": "Die Salzmarschen im Nordwesten der Insel bilden die eigenständigste Wanderlandschaft der Île de Ré: ein Schachbrettmuster aus flachen Salzbecken, Deichen und Dammwegen, die seit Jahrhunderten von Hand zur Gewinnung von Fleur de Sel bewirtschaftet werden. Kilometerlange flache Kieswege verlaufen zwischen den Becken, ideal für einen langen, ruhigen Spaziergang mit dem Hund an der Leine, während Reiher, Säbelschnäbler und Silberreiher im Wasser fressen und der berühmte Kirchturm von Ars am Horizont steht. Da es sich um ein geschütztes Vogelgebiet handelt, müssen Hunde angeleint auf den Wegen bleiben, doch die Weite und die salzige Luft machen dies zu einem der großen Spaziergänge der Insel. Die 'Esel in Hosen' (ânes en culotte), eine lokale Tradition, die einst zur Arbeit in den Marschen genutzt wurde, sind gelegentlich in der Nähe der Salzgenossenschaften zu sehen.",
+          "descriptionNl": "De zoutmoerassen in het noordwesten van het eiland vormen het meest kenmerkende wandellandschap van Île de Ré: een dambordpatroon van vlakke zoutbekkens, dijken en kadepaden die al eeuwenlang met de hand worden bewerkt voor de winning van fleur de sel. Kilometers vlakke grindpaden lopen tussen de bekkens, ideaal voor een lange, rustige wandeling met de hond aan de lijn, terwijl reigers, kluten en zilverreigers in het water foerageren en de beroemde kerktoren van Ars aan de horizon staat. Omdat het een beschermd vogelgebied is, moeten honden aangelijnd op de paden blijven, maar de weidsheid en de zoute lucht maken dit een van de grote wandelingen van het eiland. De 'ezels in broek' (ânes en culotte), een lokale traditie die vroeger werd gebruikt om in de moerassen te werken, zijn af en toe te zien bij de zoutcoöperaties.",
           "petPolicyDe": "Leinenpflicht für Hunde, geschütztes Vogelgebiet",
+          "petPolicyNl": "Aanlijnplicht voor honden, beschermd vogelgebied",
           "facilitiesDe": "Dammwege durch die Salzmarschen, Vogelbeobachtung, Flache Kieswege, Blick auf den Kirchturm von Ars",
-          "tipDe": "Früher Morgen für Vogelbeobachtung und kühle Luft; Mittagshitze ohne Schatten meiden"
+          "facilitiesNl": "Kadepaden door de zoutmoerassen, vogels spotten, vlakke grindpaden, zicht op de kerktoren van Ars",
+          "tipDe": "Früher Morgen für Vogelbeobachtung und kühle Luft; Mittagshitze ohne Schatten meiden",
+          "tipNl": "Vroege ochtend voor vogels spotten en koele lucht; vermijd de middaghitte zonder schaduw"
         },
         {
           "name": "Forêt et dunes du Bois-Plage",
@@ -200,14 +223,21 @@
           "tipEs": "Mediodía en verano por la sombra de los pinos; a cualquier hora fuera de temporada",
           "tipPt": "Meio-dia no verão pela sombra dos pinheiros; a qualquer hora fora de época",
           "descriptionDe": "Hinter dem langen Atlantikstrand von Le Bois-Plage erstreckt sich ein Band aus Pinienwald und stabilisierten Dünen, durchzogen von schattigen Sandpfaden. Dies ist der beste Hundespaziergang der Insel bei heißem Wetter: Während die Marschen und Festungsanlagen völlig ungeschützt sind, spendet der Pinienwald auch im Hochsommer kühlen Schatten, und die Sandpfade sind weich unter den Pfoten. Der Wald grenzt direkt an den Strand und das Radwegenetz, sodass man eine schattige Runde mit einem Lauf im Sand außerhalb des sommerlichen Strandverbots kombinieren kann. In der Nähe der Dünenschutzgebiete, die empfindlich und ausgeschildert sind, sollten Hunde angeleint sein, doch die Waldwege sind ruhig, und die salzig-harzige Luft ist herrlich. Ein Favorit von Familien, die in den Campingplätzen und Ferienunterkünften von Bois-Plage übernachten.",
+          "descriptionNl": "Achter het lange Atlantische strand van Le Bois-Plage strekt zich een band van dennenbos en gestabiliseerde duinen uit, doorsneden door beschaduwde zandpaden. Dit is de beste hondenwandeling van het eiland bij warm weer: terwijl de moerassen en vestingwerken volledig onbeschut zijn, biedt het dennenbos ook in hoogzomer koele schaduw, en de zandpaden zijn zacht onder de pootjes. Het bos grenst direct aan het strand en het fietsnetwerk, zodat je een beschaduwde ronde kunt combineren met een sprintje in het zand buiten het zomerse strandverbod. Bij de duinbeschermingsgebieden, die kwetsbaar en bewegwijzerd zijn, moeten honden aangelijnd zijn, maar de bospaden zijn rustig en de zilt-harsige lucht is heerlijk. Een favoriet van gezinnen die overnachten op de campings en vakantieverblijven van Bois-Plage.",
           "petPolicyDe": "Leinenpflicht in der Nähe der Dünenschutzgebiete; Waldwege ruhiger",
+          "petPolicyNl": "Aanlijnplicht bij de duinbeschermingsgebieden; bospaden rustiger",
           "facilitiesDe": "Schatten durch Pinienwald, Weiche Sandpfade, Zugang zu Strand und Radweg, Kühl auch im Sommer",
-          "tipDe": "Mittags im Sommer wegen des Schattens der Pinien; außerhalb der Saison zu jeder Zeit"
+          "facilitiesNl": "Schaduw door dennenbos, zachte zandpaden, toegang tot strand en fietspad, koel ook in de zomer",
+          "tipDe": "Mittags im Sommer wegen des Schattens der Pinien; außerhalb der Saison zu jeder Zeit",
+          "tipNl": "'s Middags in de zomer vanwege de schaduw van de dennen; buiten het seizoen op elk moment"
         }
       ],
       "titleDe": "Hundefreundliche Parks & Spaziergänge auf der Île de Ré",
+      "titleNl": "Hondvriendelijke parken en wandelingen op Île de Ré",
       "introDe": "Die gesamte Île de Ré ist im Grunde ein einziger großer Hundespaziergang. Die Insel ist flach, von mehr als 100 km ausgewiesenen Rad- und Wanderwegen durchzogen und mit Salzmarschen, Pinienwäldern, Dünen und Deichen durchsetzt, die zu den besten Hundespaziergängen im Westen Frankreichs zählen. Man kommt hier nicht wegen gepflegter städtischer Parks, sondern wegen der Dammwege der Salzgärten, auf denen man stundenlang mit dem Hund an der langen Leine laufen kann, des Pinienwalds von Le Bois-Plage hinter den Dünen und der Deichwege rund um die sternförmigen Festungsanlagen von Saint-Martin. In den Naturschutzgebieten gilt Leinenpflicht für Hunde (die Marschen sind ein geschütztes Vogelgebiet), doch das schiere Ausmaß an offenem, flachem, luftigem Gelände sorgt dafür, dass auch ein energiegeladener Hund gut versorgt ist. Diese drei sind die herausragenden Spaziergänge, jeder ein anderes Gesicht der Insel.",
-      "faqsDe": []
+      "introNl": "Heel Île de Ré is in feite één grote hondenwandeling. Het eiland is vlak, doorsneden door meer dan 100 km gemarkeerde fiets- en wandelpaden en doorspekt met zoutmoerassen, dennenbossen, duinen en dijken die tot de beste hondenwandelingen van West-Frankrijk behoren. Je komt hier niet voor keurige stadsparken, maar voor de kadepaden van de zoutmoerassen waar je urenlang met je hond aan de lange lijn kunt lopen, het dennenbos van Le Bois-Plage achter de duinen en de dijkpaden rond de stervormige vestingwerken van Saint-Martin. In de natuurgebieden geldt aanlijnplicht voor honden (de moerassen zijn een beschermd vogelgebied), maar de sheer omvang van open, vlak, luchtig terrein zorgt ervoor dat ook een energieke hond aan zijn trekken komt. Deze drie zijn de opvallendste wandelingen, elk een ander gezicht van het eiland.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting Around Île de Ré with a Dog",
@@ -230,7 +260,9 @@
           "petPolicyEs": "Alquiler de bici desde ~10 €/día; cestas y remolques aparte",
           "petPolicyPt": "Aluguer de bicicleta desde ~10 €/dia; cestos e atrelados à parte",
           "descriptionDe": "Die beste Art, die Insel zu erkunden. Hunde fahren in Körben, Vordersitzen oder speziellen Fahrradanhängern mit, die bei den zahlreichen Verleihstationen der Insel weit verbreitet sind. Kleine Hunde reisen im Korb, größere Hunde im Anhänger oder Wagen. Das ist hier völlig normal, und die Verleiher montieren gerne einen Korb oder Anhänger an das Mietrad.",
-          "petPolicyDe": "Fahrradverleih ab ca. 10 €/Tag; Körbe und Anhänger gegen Aufpreis"
+          "descriptionNl": "De beste manier om het eiland te verkennen. Honden rijden mee in manden, op de voorstoel of in speciale fietskarretjes, die op de talrijke verhuurstations van het eiland veelvoorkomend zijn. Kleine honden reizen in de mand, grotere honden in het karretje of de wagen. Dit is hier volkomen normaal, en de verhuurders monteren graag een mand of karretje aan de huurfiets.",
+          "petPolicyDe": "Fahrradverleih ab ca. 10 €/Tag; Körbe und Anhänger gegen Aufpreis",
+          "petPolicyNl": "Fietsverhuur vanaf ca. 10 €/dag; manden en karretjes tegen meerprijs"
         },
         {
           "name": "Pont de l'Île de Ré (toll bridge)",
@@ -243,7 +275,9 @@
           "petPolicyEs": "Peaje por coche (ida y vuelta); gratis para mascotas",
           "petPolicyPt": "Portagem por carro (ida e volta); gratuito para animais",
           "descriptionDe": "Die 3 km lange Brücke von La Rochelle ist die einzige Straßenverbindung und wird mit dem Auto in etwa zehn Minuten überquert. Hunde reisen im eigenen Fahrzeug kostenlos mit. Pro Auto wird eine Rückfahrt-Maut erhoben (außerhalb der Saison ermäßigt); für Haustiere entstehen keine zusätzlichen Kosten. An Wechseltagen im Sommer ist an der Brückenauffahrt mit Staus zu rechnen.",
-          "petPolicyDe": "Maut pro Auto (Hin- und Rückfahrt); kostenlos für Haustiere"
+          "descriptionNl": "De 3 km lange brug vanaf La Rochelle is de enige wegverbinding en wordt met de auto in ongeveer tien minuten overgestoken. Honden reizen gratis mee in je eigen voertuig. Per auto wordt een tol geheven voor de retour (buiten het seizoen verlaagd); voor huisdieren zijn er geen extra kosten. Op wisseldagen in de zomer moet je rekening houden met files bij de brugopgang.",
+          "petPolicyDe": "Maut pro Auto (Hin- und Rückfahrt); kostenlos für Haustiere",
+          "petPolicyNl": "Tol per auto (heen en terug); gratis voor huisdieren"
         },
         {
           "name": "Rébus island buses (line 3)",
@@ -256,12 +290,17 @@
           "petPolicyEs": "Perros pequeños gratis en portador; perros grandes a discreción del conductor",
           "petPolicyPt": "Cães pequenos gratuitos em transportadora; cães grandes ao critério do motorista",
           "descriptionDe": "Das Rébus-Netz verbindet die Dörfer der Insel und fährt über die Brücke bis zum Bahnhof von La Rochelle (Linie 3). Kleine Hunde in einer geschlossenen Transportbox fahren kostenlos mit; größere Hunde ohne Box liegen im Ermessen des Fahrers und sind nicht garantiert, sodass Fahrrad oder Auto für einen großen Hund die sicherere Wahl sind. Nützlich als Alternative, falls man mit dem Zug in La Rochelle ohne Auto ankommt.",
-          "petPolicyDe": "Kleine Hunde in der Transportbox kostenlos; größere Hunde nach Ermessen des Fahrers"
+          "descriptionNl": "Het Rébus-netwerk verbindt de dorpen van het eiland en rijdt via de brug door tot het station van La Rochelle (lijn 3). Kleine honden in een gesloten transportbox reizen gratis mee; grotere honden zonder box zijn ter beoordeling van de chauffeur en niet gegarandeerd, dus fiets of auto is de veiligere keuze voor een grote hond. Handig als alternatief als je met de trein in La Rochelle aankomt zonder auto.",
+          "petPolicyDe": "Kleine Hunde in der Transportbox kostenlos; größere Hunde nach Ermessen des Fahrers",
+          "petPolicyNl": "Kleine honden in transportbox gratis; grotere honden ter beoordeling van de chauffeur"
         }
       ],
       "titleDe": "Mit dem Hund auf der Île de Ré unterwegs",
+      "titleNl": "Onderweg met hond op Île de Ré",
       "introDe": "Die Île de Ré erreicht man über eine einzige, 3 km lange Mautbrücke von La Rochelle aus, die Überfahrt dauert etwa zehn Minuten, und auf der Insel selbst gibt es keinen Zug. Die Insel ist auf das Fahrrad ausgerichtet: Mehr als 100 km ausgewiesene Radwege verbinden jedes Dorf, und es ist hier üblich, dass ein Hund in einem Korb, Anhänger oder Vordersitz mitfährt. Die meisten Besucher kommen mit dem Auto über die Brücke und lassen es dann stehen, um auf das Fahrrad umzusteigen. Der nächstgelegene Bahnhof ist Gare de La Rochelle auf dem Festland, mit Anschlussbussen über die Brücke; der nächstgelegene Flughafen ist La Rochelle (LRH), etwa 20 Minuten entfernt. Mit dem eigenen Fahrrad oder einem Mietrad, einem ruhigen Hund und dem flachen Gelände der Insel braucht man kaum motorisierte Verkehrsmittel, sobald man die Brücke überquert hat.",
-      "faqsDe": []
+      "introNl": "Je bereikt Île de Ré via één enkele, 3 km lange tolbrug vanaf La Rochelle, de oversteek duurt ongeveer tien minuten, en op het eiland zelf is er geen trein. Het eiland is afgestemd op de fiets: meer dan 100 km gemarkeerde fietspaden verbinden elk dorp, en het is hier gebruikelijk dat een hond meerijdt in een mand, karretje of op de voorstoel. De meeste bezoekers komen met de auto over de brug en laten die daarna staan om over te stappen op de fiets. Het dichtstbijzijnde station is Gare de La Rochelle op het vasteland, met aansluitende bussen over de brug; de dichtstbijzijnde luchthaven is La Rochelle (LRH), ongeveer 20 minuten verderop. Met je eigen fiets of een huurfiets, een rustige hond en het vlakke terrein van het eiland heb je nauwelijks gemotoriseerd vervoer nodig zodra je de brug over bent.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches on Île de Ré",
@@ -292,8 +331,11 @@
           "rulesPt": "Proibição diurna julho–agosto na zona balnear principal; verificar as placas do concelho",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+Gollandieres+Bois-Plage",
           "descriptionDe": "Der Hauptstrand von Le Bois-Plage ist ein langer, breiter Abschnitt Atlantiksand hinter Pinienwald und Dünen und gilt als der klassische Familienstrand der Insel. Außerhalb des Sommerverbots sind Hunde an der Leine am Sand willkommen, und der feste, sanft abfallende Strand eignet sich hervorragend zum Laufen und Planschen im Flachwasser. Die Gemeinde legt ihren eigenen Erlass mit einem Tagesverbot für Hunde im Juli und August in der Hauptbadezone fest, daher sollte man in der Hochsaison die Schilder am Zugang beachten; in den Nebensaisonmonaten ist der Strand herrlich leer und hundefreundlich. Der angrenzende Pinienwald bietet Schatten für Pausen, und das Radwegenetz führt direkt zum Strand, sodass man mit dem Hund im Korb anreisen kann.",
+          "descriptionNl": "Het hoofdstrand van Le Bois-Plage is een lange, brede strook Atlantisch zand achter dennenbos en duinen en geldt als het klassieke gezinsstrand van het eiland. Buiten het zomerverbod zijn honden aan de lijn welkom op het zand, en het stevige, zacht aflopende strand is uitstekend geschikt om te rennen en te plonzen in ondiep water. De gemeente stelt haar eigen verordening op met een dagverbod voor honden in juli en augustus in de hoofdbadzone, dus let in het hoogseizoen op de borden bij de toegang; in de tussenseizoenmaanden is het strand heerlijk leeg en hondvriendelijk. Het aangrenzende dennenbos biedt schaduw voor pauzes, en het fietspadennetwerk voert rechtstreeks naar het strand, zodat je met de hond in de mand kunt aankomen.",
           "dogPolicyDe": "Hunde von Okt.-Mai an der Leine erlaubt; im Juli-August Tagesverbot in der Hauptbadezone",
-          "rulesDe": "Tagesverbot Juli-August in der Hauptbadezone; Gemeindeschilder beachten"
+          "dogPolicyNl": "Honden okt.-mei aan de lijn toegestaan; in juli-augustus dagverbod in de hoofdbadzone",
+          "rulesDe": "Tagesverbot Juli-August in der Hauptbadezone; Gemeindeschilder beachten",
+          "rulesNl": "Dagverbod juli-augustus in de hoofdbadzone; let op gemeentelijke borden"
         },
         {
           "name": "Plage de La Couarde-sur-Mer",
@@ -314,8 +356,11 @@
           "rulesPt": "Limites diurnos no verão na zona balnear principal; verificar o arrêté do concelho",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+La+Couarde-sur-Mer",
           "descriptionDe": "La Couarde, in der Mitte der Insel gelegen, hat einen der breitesten und entspanntesten Strände der Île de Ré, mit weitem, festem Sand bei Ebbe und einem ruhigeren, familiäreren Charakter als der surfexponierte Süden. Die Gemeinde zählt zu den hundefreundlicheren: Außerhalb des Hochsommers laufen angeleinte Hunde frei über den Sand, und das Dorf hält auch in der Saison ausgewiesene geduldete Abschnitte an den Rändern bereit, die an den Zugängen ausgeschildert sind. Das flache Wasser und die riesige Sandfläche bei Ebbe eignen sich ideal für einen langen Spaziergang außerhalb der Saison. Der Radweg Route des Plages verläuft hinter den Dünen, sodass Radfahren mit Hund hier leicht ist. Am Strandzugang sollte man immer den saisonalen Erlass prüfen, den die Gemeinde jeden Sommer aktualisiert.",
+          "descriptionNl": "La Couarde, in het midden van het eiland, heeft een van de breedste en meest ontspannen stranden van Île de Ré, met een uitgestrekt, stevig zandvlak bij eb en een rustiger, gezinsvriendelijker karakter dan het aan surf blootgestelde zuiden. De gemeente behoort tot de hondvriendelijkere: buiten hoogzomer lopen aangelijnde honden vrij over het zand, en het dorp houdt ook in het seizoen aangewezen getolereerde stroken aan de randen aan, die bij de toegangen zijn bewegwijzerd. Het ondiepe water en de enorme zandvlakte bij eb zijn ideaal voor een lange wandeling buiten het seizoen. Het fietspad Route des Plages loopt achter de duinen, zodat fietsen met hond hier makkelijk is. Check bij de strandtoegang altijd de seizoensverordening, die de gemeente elke zomer bijwerkt.",
           "dogPolicyDe": "Angeleinte Hunde außerhalb der Saison willkommen; ausgewiesene geduldete Abschnitte in der Saison",
-          "rulesDe": "Sommerliche Tagesbeschränkungen in der Hauptbadezone; Gemeindeerlass beachten"
+          "dogPolicyNl": "Aangelijnde honden welkom buiten het seizoen; aangewezen getolereerde stroken in het seizoen",
+          "rulesDe": "Sommerliche Tagesbeschränkungen in der Hauptbadezone; Gemeindeerlass beachten",
+          "rulesNl": "Zomerse dagelijkse beperkingen in de hoofdbadzone; let op gemeentelijke verordening"
         },
         {
           "name": "Plage de Rivedoux-Plage",
@@ -336,13 +381,19 @@
           "rulesPt": "Proibição diurna no verão na zona balnear principal; verificar as placas de acesso",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+Sud+Rivedoux-Plage",
           "descriptionDe": "Rivedoux-Plage ist das erste Dorf hinter der Brücke, daher sind seine Strände am praktischsten, wenn man mit dem Auto ankommt und vor dem Einrichten noch einen kurzen Halt einlegen möchte. Die Plage Sud ist geschützt und flach, mit Blick zurück auf die Brücke und La Rochelle, und hat einen ruhigeren, weniger surfgeprägten Charakter als die Westküste. Die Gemeinde unterhält hundegeduldete Zonen sowie das übliche Willkommen außerhalb der Saison mit einem sommerlichen Tagesverbot in der Hauptbadezone; die Schilder am Zugang erklären die aktuellen Regeln. Da der Strand zum Festland ausgerichtet ist, ist er stärker vor der Atlantikdünung geschützt, was ihn zu einer sanften Option für ältere oder ängstliche Hunde macht. Ein praktischer erster oder letzter Strand einer Inselreise, zehn Minuten von der Mautbrücke entfernt.",
+          "descriptionNl": "Rivedoux-Plage is het eerste dorp na de brug, waardoor de stranden hier het handigst zijn als je met de auto aankomt en nog even wilt stoppen voor je je intrek neemt. De Plage Sud is beschut en vlak, met uitzicht terug op de brug en La Rochelle, en heeft een rustiger, minder aan surf blootgesteld karakter dan de westkust. De gemeente onderhoudt hondengetolereerde zones plus het gebruikelijke welkom buiten het seizoen, met een zomers dagverbod in de hoofdbadzone; de borden bij de toegang leggen de actuele regels uit. Omdat het strand naar het vasteland is gericht, is het beter beschut tegen de Atlantische deining, wat het een zachte optie maakt voor oudere of angstige honden. Een handig eerste of laatste strand van een eilandreis, tien minuten van de tolbrug.",
           "dogPolicyDe": "Hundegeduldete Zonen; angeleint außerhalb der Saison, sommerliches Tagesverbot in der Hauptzone",
-          "rulesDe": "Sommerliches Tagesverbot in der Hauptbadezone; Zugangsschilder beachten"
+          "dogPolicyNl": "Hondengetolereerde zones; aangelijnd buiten het seizoen, zomers dagverbod in de hoofdzone",
+          "rulesDe": "Sommerliches Tagesverbot in der Hauptbadezone; Zugangsschilder beachten",
+          "rulesNl": "Zomers dagverbod in de hoofdbadzone; let op toegangsborden"
         }
       ],
       "titleDe": "Hundefreundliche Strände auf der Île de Ré",
+      "titleNl": "Hondvriendelijke stranden op Île de Ré",
       "introDe": "Die Île de Ré ist von langen, flachen Atlantikstränden und geschützteren, sanfteren Buchten gesäumt, und außerhalb der Sommerhochsaison gehört sie zu den einfachsten Orten Frankreichs, um mit dem Hund am Strand spazieren zu gehen. Die Faustregel auf der ganzen Insel: Von Oktober bis Mai sind Hunde an der Leine an den Stränden grundsätzlich willkommen, und im Hochsommer (grob Juli und August) sind sie tagsüber in den Hauptbadezonen verboten. Jede Gemeinde legt ihren eigenen Erlass und ausgewiesene Zonen fest, daher sollte man immer die Schilder am Strandzugang beachten, doch Dörfer wie Le Bois-Plage, La Couarde und Rivedoux halten hundegeduldete Abschnitte vor. Das Wasser ist flach und der Sand fest, ideal für einen Lauf außerhalb der Saison. Nach dem Strandbesuch sollte man Salz und Sand immer vom Hund abspülen und Wasser mitbringen, da die offenen Strände wenig Schatten bieten.",
-      "faqsDe": []
+      "introNl": "Île de Ré is omzoomd met lange, vlakke Atlantische stranden en meer beschutte, zachtere baaien, en buiten het zomerse hoogseizoen behoort het tot de makkelijkste plekken van Frankrijk om met je hond op het strand te wandelen. De vuistregel op het hele eiland: van oktober tot mei zijn honden aan de lijn in principe welkom op de stranden, en in hoogzomer (grofweg juli en augustus) zijn ze overdag verboden in de hoofdbadzones. Elke gemeente stelt haar eigen verordening en aangewezen zones vast, dus check altijd de borden bij de strandtoegang, maar dorpen als Le Bois-Plage, La Couarde en Rivedoux houden hondengetolereerde stroken aan. Het water is ondiep en het zand stevig, ideaal voor een wandeling buiten het seizoen. Spoel na het strandbezoek altijd zout en zand van je hond af en neem water mee, want de open stranden bieden weinig schaduw.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Veterinary Care on Île de Ré",
@@ -368,7 +419,8 @@
           "descriptionEs": "La principal clínica veterinaria de la isla, en la zona artesanal de la Croix Michaud en La Flotte, central para toda la isla. El equipo atiende consultas rutinarias, vacunaciones, cirugía, hospitalización, imagen en sitio y análisis de laboratorio para perros, gatos y animales exóticos, y cubre las urgencias fuera de horario para residentes y visitantes en el mismo número. Es la primera llamada ante cualquier problema de salud en la isla; para los casos más graves que requieren un hospital 24/7 completo coordina con el hospital del continente en La Rochelle.",
           "descriptionPt": "A principal clínica veterinária da ilha, na zona artesanal da Croix Michaud em La Flotte, central para toda a ilha. A equipa assegura consultas de rotina, vacinação, cirurgia, internamento, imagiologia no local e análises laboratoriais para cães, gatos e animais exóticos, e cobre as urgências fora de horas para residentes e visitantes no mesmo número. É a primeira chamada para qualquer problema de saúde na ilha; para os casos mais graves que exigem um hospital 24h completo, coordena com o hospital do continente em La Rochelle.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+Ile+de+Re+La+Flotte",
-          "descriptionDe": "Die Haupttierarztpraxis der Insel liegt im Gewerbegebiet Croix Michaud in La Flotte, zentral für die gesamte Insel. Das Team übernimmt Routinekonsultationen, Impfungen, Chirurgie, stationäre Behandlung, Bildgebung vor Ort und Laboranalysen für Hunde, Katzen und Exoten und deckt Notfälle außerhalb der Öffnungszeiten für Einwohner und Besucher unter derselben Nummer ab. Sie ist die erste Anlaufstelle bei jeder gesundheitlichen Sorge auf der Insel; für die schwersten Fälle, die ein vollständiges 24-Stunden-Krankenhaus erfordern, arbeitet sie mit dem Festlandkrankenhaus in La Rochelle zusammen."
+          "descriptionDe": "Die Haupttierarztpraxis der Insel liegt im Gewerbegebiet Croix Michaud in La Flotte, zentral für die gesamte Insel. Das Team übernimmt Routinekonsultationen, Impfungen, Chirurgie, stationäre Behandlung, Bildgebung vor Ort und Laboranalysen für Hunde, Katzen und Exoten und deckt Notfälle außerhalb der Öffnungszeiten für Einwohner und Besucher unter derselben Nummer ab. Sie ist die erste Anlaufstelle bei jeder gesundheitlichen Sorge auf der Insel; für die schwersten Fälle, die ein vollständiges 24-Stunden-Krankenhaus erfordern, arbeitet sie mit dem Festlandkrankenhaus in La Rochelle zusammen.",
+          "descriptionNl": "De belangrijkste dierenartsenpraktijk van het eiland ligt in het bedrijventerrein Croix Michaud in La Flotte, centraal voor het hele eiland. Het team verzorgt routineconsulten, vaccinaties, chirurgie, opname, beeldvorming ter plaatse en laboratoriumanalyses voor honden, katten en exoten, en behandelt noodgevallen buiten openingstijden voor bewoners en bezoekers onder hetzelfde nummer. Het is het eerste aanspreekpunt bij elk gezondheidsprobleem op het eiland; voor de zwaarste gevallen die een volledig 24-uurs ziekenhuis vereisen, werkt het samen met het ziekenhuis op het vasteland in La Rochelle."
         },
         {
           "name": "AniCura Saint-Roch (La Rochelle, 24/7 hospital)",
@@ -384,7 +436,8 @@
           "descriptionEs": "El hospital veterinario 24/7 más cercano, en el continente a unos diez minutos por el puente, en La Rochelle. Un gran centro con una veintena de veterinarios que ofrece medicina general y especializada, cirugía y urgencias ininterrumpidas para perros, gatos y animales exóticos. Es donde la clínica de la isla deriva los casos más graves fuera de horario, y el lugar al que acudir directamente ante una urgencia nocturna o de fin de semana que no puede esperar. Llama con antelación para que el equipo de urgencias esté listo a tu llegada.",
           "descriptionPt": "O hospital veterinário 24h mais próximo, no continente a cerca de dez minutos pela ponte, em La Rochelle. Um grande centro com cerca de vinte veterinários que oferece medicina geral e especializada, cirurgia e urgências contínuas para cães, gatos e animais exóticos. É para aqui que a clínica da ilha encaminha os casos mais graves fora de horas, e o sítio para onde ir diretamente perante uma urgência noturna ou de fim de semana que não pode esperar. Telefone com antecedência para que a equipa de urgência esteja pronta à sua chegada.",
           "googleMapsUrl": "https://maps.google.com/?q=AniCura+Saint-Roch+La+Rochelle",
-          "descriptionDe": "Das nächstgelegene vollständige 24-Stunden-Tierkrankenhaus liegt auf dem Festland, etwa zehn Minuten über die Brücke in La Rochelle. Eine große Einrichtung mit rund zwei Dutzend Tierärzten, die allgemeine und spezialisierte Medizin, Chirurgie und rund um die Uhr Notfallversorgung für Hunde, Katzen und Exoten anbietet. Hierhin verweist die Inselpraxis die schwersten Fälle außerhalb der Öffnungszeiten, und hierhin sollte man bei einem nächtlichen oder Wochenendnotfall, der nicht warten kann, direkt fahren. Vorher anrufen, damit das Notfallteam bei Ankunft bereitsteht."
+          "descriptionDe": "Das nächstgelegene vollständige 24-Stunden-Tierkrankenhaus liegt auf dem Festland, etwa zehn Minuten über die Brücke in La Rochelle. Eine große Einrichtung mit rund zwei Dutzend Tierärzten, die allgemeine und spezialisierte Medizin, Chirurgie und rund um die Uhr Notfallversorgung für Hunde, Katzen und Exoten anbietet. Hierhin verweist die Inselpraxis die schwersten Fälle außerhalb der Öffnungszeiten, und hierhin sollte man bei einem nächtlichen oder Wochenendnotfall, der nicht warten kann, direkt fahren. Vorher anrufen, damit das Notfallteam bei Ankunft bereitsteht.",
+          "descriptionNl": "Het dichtstbijzijnde volledige 24-uurs dierenziekenhuis ligt op het vasteland, ongeveer tien minuten over de brug in La Rochelle. Een grote instelling met zo'n twintig dierenartsen die algemene en gespecialiseerde geneeskunde, chirurgie en 24-uurs spoedzorg biedt voor honden, katten en exoten. Hierheen verwijst de eilandpraktijk de zwaarste gevallen buiten openingstijden, en hierheen kun je het beste rechtstreeks rijden bij een nachtelijk of weekendnoodgeval dat niet kan wachten. Bel van tevoren, zodat het spoedteam bij aankomst klaarstaat."
         },
         {
           "name": "Vétérinaire de garde (national on-call line)",
@@ -400,12 +453,16 @@
           "descriptionEs": "El número nacional gratuito de guardia veterinaria, accesible 24/7 desde cualquier teléfono en Francia. Marca 3115 para que te pongan en contacto con el veterinario de guardia más cercano. Es un respaldo útil si la clínica de la isla está cerrada y no sabes adónde ir, y funciona en toda Charente-Maritime, incluida la Isla de Ré y La Rochelle. Guárdalo junto a los dos números de clínica de arriba.",
           "descriptionPt": "O número nacional gratuito de urgência veterinária, acessível 24h a partir de qualquer telefone em França. Marque 3115 para ser ligado ao veterinário de serviço mais próximo. É um recurso útil se a clínica da ilha estiver fechada e não souber para onde ir, e funciona em toda a Charente-Maritime, incluindo a Ilha de Ré e La Rochelle. Guarde-o junto aos dois números de clínica acima.",
           "googleMapsUrl": "https://maps.google.com/?q=La+Rochelle",
-          "descriptionDe": "Die kostenlose landesweite tierärztliche Bereitschaftsnummer, rund um die Uhr von jedem Telefon in Frankreich erreichbar. Die 3115 anrufen, um mit dem nächsten diensthabenden Tierarzt verbunden zu werden. Eine nützliche Rückfallebene, wenn die Inselpraxis geschlossen ist und man nicht weiß, wohin man sich wenden soll; sie funktioniert im gesamten Gebiet der Charente-Maritime einschließlich der Île de Ré und La Rochelle. Zusammen mit den beiden oben genannten Praxisnummern speichern."
+          "descriptionDe": "Die kostenlose landesweite tierärztliche Bereitschaftsnummer, rund um die Uhr von jedem Telefon in Frankreich erreichbar. Die 3115 anrufen, um mit dem nächsten diensthabenden Tierarzt verbunden zu werden. Eine nützliche Rückfallebene, wenn die Inselpraxis geschlossen ist und man nicht weiß, wohin man sich wenden soll; sie funktioniert im gesamten Gebiet der Charente-Maritime einschließlich der Île de Ré und La Rochelle. Zusammen mit den beiden oben genannten Praxisnummern speichern.",
+          "descriptionNl": "Het gratis landelijke bereikbaarheidsnummer voor dierenartsen, dag en nacht bereikbaar vanaf elke telefoon in Frankrijk. Bel 3115 om te worden doorverbonden met de dichtstbijzijnde dienstdoende dierenarts. Een handig vangnet als de eilandpraktijk gesloten is en je niet weet waar je terechtkunt; het werkt in het hele departement Charente-Maritime, inclusief Île de Ré en La Rochelle. Sla het op naast de twee bovenstaande praktijknummers."
         }
       ],
       "titleDe": "Tierärztliche Versorgung auf der Île de Ré",
+      "titleNl": "Dierenartsenzorg op Île de Ré",
       "introDe": "Die Île de Ré verfügt über eine Haupttierarztpraxis in La Flotte, die die Grundversorgung für die gesamte Insel abdeckt und Notfälle behandelt. Da die Insel klein ist und die Mautbrücke La Rochelle nur zehn Minuten entfernt macht, ist das praktische Sicherheitsnetz für einen ernsten Notfall außerhalb der Öffnungszeiten das 24-Stunden-Tierkrankenhaus auf dem Festland in La Rochelle. Man sollte den EU-Heimtierausweis und das Impfbuch des Hundes mitführen, sich die untenstehenden Nummern vor der Anreise notieren und daran denken, dass die landesweite Bereitschaftsnummer überall in Frankreich funktioniert. Im Sommer ist die Inselpraxis sowohl bei Einheimischen als auch bei Besuchern stark ausgelastet, daher sollte man für nicht dringende Termine vorher anrufen.",
-      "faqsDe": []
+      "introNl": "Île de Ré beschikt over een hoofdpraktijk in La Flotte die de basiszorg voor het hele eiland dekt en noodgevallen behandelt. Omdat het eiland klein is en de tolbrug La Rochelle slechts tien minuten dichterbij brengt, is het praktische vangnet voor een ernstig noodgeval buiten openingstijden het 24-uurs dierenziekenhuis op het vasteland in La Rochelle. Neem het EU-dierenpaspoort en het vaccinatieboekje van je hond mee, noteer de onderstaande nummers voor vertrek, en onthoud dat het landelijke bereikbaarheidsnummer overal in Frankrijk werkt. In de zomer is de eilandpraktijk druk bezet door zowel bewoners als bezoekers, dus bel voor niet-dringende afspraken van tevoren.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Practical Tips for Visiting Île de Ré with a Dog",
@@ -537,7 +594,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für den Besuch der Île de Ré mit Hund",
+      "titleNl": "Praktische tips voor een bezoek aan Île de Ré met hond",
       "introDe": "Die Île de Ré ist eines der wirklich hundefreundlichsten Reiseziele Frankreichs, doch ein paar inseltypische Gewohnheiten machen eine Reise mit Hund deutlich einfacher. Die Strandregeln ändern sich je nach Saison und Gemeinde, das Fahrrad ist das eigentliche Verkehrsmittel, und die offene Salzmarschlandschaft erfordert im Sommer eine Planung für Wasser und Schatten. Das wissen erfahrene Besucher.",
+      "introNl": "Île de Ré is een van de écht hondvriendelijkste reisbestemmingen van Frankrijk, maar een paar eigenaardigheden van het eiland maken een reis met hond een stuk makkelijker. De strandregels veranderen per seizoen en gemeente, de fiets is het eigenlijke vervoermiddel, en het open zoutmoeraslandschap vraagt in de zomer om planning voor water en schaduw. Dat weten ervaren bezoekers.",
       "faqsDe": [
         {
           "q": "Sind Hunde an den Stränden der Île de Ré erlaubt?",
@@ -558,6 +617,28 @@
         {
           "q": "Kann ich mit meinem Hund in den Salzmarschen spazieren gehen?",
           "a": "Ja, an der Leine und auf den Wegen. Die Salzmarschen sind ein geschütztes Vogelgebiet und eine aktive Salzgewinnungslandschaft, daher müssen Hunde angeleint auf den Dammwegen bleiben. Die flachen Kieswege eignen sich hervorragend für einen langen Spaziergang, mit Reihern und Säbelschnäblern in den Becken und dem Kirchturm von Ars am Horizont; im Sommer früh losgehen, da es keinen Schatten gibt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan op de stranden van Île de Ré?",
+          "a": "Ja, met seizoensgebonden beperkingen die per gemeente verschillen. Als algemene regel geldt: van oktober tot mei zijn honden aan de lijn welkom, terwijl ze in juli en augustus overdag verboden zijn in de hoofdbadzones. Dorpen als Le Bois-Plage, La Couarde en Rivedoux houden hondengetolereerde stroken aan; lees bij elke strandtoegang de actuele verordening op het bord."
+        },
+        {
+          "q": "Wat is de beste manier om je met hond te verplaatsen op Île de Ré?",
+          "a": "De fiets. Het eiland beschikt over meer dan 100 km vlakke, gemarkeerde fietspaden, en een hond in de mand, op de voorstoel of in een karretje is hier volkomen normaal. Verhuurstations in elk dorp monteren manden en karretjes. De meeste bezoekers parkeren de auto na de tolbrug en gebruiken voor de rest van het verblijf de fiets."
+        },
+        {
+          "q": "Hoe kom ik met hond naar Île de Ré, en is er een trein?",
+          "a": "Op het eiland zelf is er geen trein. Je bereikt het via de 3 km lange tolbrug vanaf La Rochelle, met de auto in ongeveer tien minuten over te steken, waarbij honden gratis meereizen in het voertuig. Het dichtstbijzijnde station is Gare de La Rochelle, met Rébus-bussen (lijn 3) over de brug, die kleine honden in de transportbox meenemen; de dichtstbijzijnde luchthaven is La Rochelle (LRH), ongeveer 20 minuten verderop."
+        },
+        {
+          "q": "Is er een 24-uurs dierenarts op Île de Ré?",
+          "a": "De hoofdpraktijk van het eiland in La Flotte behandelt noodgevallen en verzorgt het hele eiland. Voor een ernstig noodgeval buiten openingstijden is het dichtstbijzijnde volledige 24-uurs dierenziekenhuis AniCura Saint-Roch in La Rochelle, ongeveer tien minuten over de brug. Ook het gratis landelijke bereikbaarheidsnummer 3115 werkt in het hele departement. Sla alle drie de nummers op voordat je vertrekt."
+        },
+        {
+          "q": "Kan ik met mijn hond wandelen in de zoutmoerassen?",
+          "a": "Ja, aan de lijn en op de paden. De zoutmoerassen zijn een beschermd vogelgebied en een actief zoutwinningslandschap, dus honden moeten aangelijnd op de kadepaden blijven. De vlakke grindpaden zijn uitstekend geschikt voor een lange wandeling, met reigers en kluten in de bekkens en de beroemde kerktoren van Ars aan de horizon; vertrek in de zomer vroeg, want er is geen schaduw."
         }
       ]
     },
@@ -585,7 +666,9 @@
           "dogPolicyEs": "Perros admitidos con correa (espacios exteriores)",
           "dogPolicyPt": "Cães bem-vindos com trela (espaços exteriores)",
           "descriptionDe": "Die Hauptstadt der Insel und ihre größte Sehenswürdigkeit: eine sternförmige Stadt, umgeben von den UNESCO-gelisteten Vauban-Festungsanlagen, gebaut um einen aktiven, von Cafés gesäumten Hafen. Man kann die gesamte Wallanlage umrunden, die Kopfsteinpflastergassen erkunden und mit dem Hund auf Schritt und Tritt an den Kais sitzen. Der Kirchturm der Saint-Martin-Kirche bietet ein Panorama über die Insel (der Aufstieg selbst ist nichts für Hunde, doch der Platz und die Gassen sind es). Die ganze Stadt ist ein Paradies für angeleinte Hunde mit Hafenspaziergängen, Eisstopps und Blick auf die Festungsmauern. Sie ist der natürliche Standort für einen Aufenthalt und der schönste Ort der Insel.",
-          "dogPolicyDe": "Hunde an der Leine willkommen (Außenbereiche)"
+          "descriptionNl": "De hoofdstad van het eiland en de grootste bezienswaardigheid: een stervormige stad, omringd door de UNESCO-vermelde Vauban-vestingwerken, gebouwd rond een actieve, met cafés omzoomde haven. Je kunt de hele wal rondlopen, de kasseistraatjes verkennen en met je hond overal aan de kades zitten. De kerktoren van de Saint-Martin-kerk biedt een panorama over het eiland (de beklimming zelf is niets voor honden, maar het plein en de straatjes wel). De hele stad is een paradijs voor aangelijnde honden, met havenwandelingen, ijsstops en uitzicht op de vestingmuren. Het is de natuurlijke plek om te verblijven en de mooiste plek van het eiland.",
+          "dogPolicyDe": "Hunde an der Leine willkommen (Außenbereiche)",
+          "dogPolicyNl": "Honden aan de lijn welkom (buitenruimtes)"
         },
         {
           "name": "Phare des Baleines",
@@ -601,7 +684,9 @@
           "dogPolicyEs": "Perros admitidos con correa (espacios exteriores)",
           "dogPolicyPt": "Cães bem-vindos com trela (espaços exteriores)",
           "descriptionDe": "An der wilden Nordwestspitze der Insel erhebt sich der Leuchtturm Phare des Baleines über einem dramatischen Abschnitt felsiger Küste und offenem Atlantik. Die Landzunge um den Sockel, der alte Leuchtturm und die Küstenwege sind ein großartiger Spaziergang für angeleinte Hunde, exponiert und windig mit riesigem Meerblick. Hunde dürfen die 257 Stufen zur Spitze des Leuchtturms nicht erklimmen, doch das Gelände, das umliegende Naturgebiet und die langen Strandspaziergänge in der Nähe sind vollständig hundefreundlich. Es ist die dramatischste Landschaft der Île de Ré und ein klassischer Endpunkt für einen Radausflug zum äußersten Ende der Insel.",
-          "dogPolicyDe": "Hunde an der Leine willkommen (Außenbereiche)"
+          "descriptionNl": "Aan de wilde noordwestpunt van het eiland verrijst de vuurtoren Phare des Baleines boven een dramatisch stuk rotsachtige kust en open Atlantische Oceaan. De landtong rond de sokkel, de oude vuurtoren en de kustpaden zijn een geweldige wandeling voor aangelijnde honden, open en winderig met enorm zeezicht. Honden mogen de 257 treden naar de top van de vuurtoren niet beklimmen, maar het terrein, het omliggende natuurgebied en de lange strandwandelingen in de buurt zijn volledig hondvriendelijk. Het is het meest dramatische landschap van Île de Ré en een klassiek eindpunt voor een fietstocht naar de uiterste punt van het eiland.",
+          "dogPolicyDe": "Hunde an der Leine willkommen (Außenbereiche)",
+          "dogPolicyNl": "Honden aan de lijn welkom (buitenruimtes)"
         },
         {
           "name": "Ars-en-Ré (village et clocher)",
@@ -617,12 +702,17 @@
           "dogPolicyEs": "Perros admitidos con correa (espacios exteriores)",
           "dogPolicyPt": "Cães bem-vindos com trela (espaços exteriores)",
           "descriptionDe": "Als eines der 'plus beaux villages de France' gelistet, ist Ars-en-Ré ein winziges Hafendorf am Rand der Salzmarschen, berühmt für seinen schwarz-weißen Kirchturm, der einst so bemalt wurde, um Schiffen den Weg zu weisen. Die engen Gassen mit weißen Häusern und Malven, der kleine Hafen und die umliegenden Radwege durch die Salinen machen es zu einem der reizvollsten Stopps der Insel. Angeleinte Hunde sind auf den Dorfplätzen und am Hafen willkommen, und das Dorf liegt im Herzen der Salzmarschen, sodass sich ein Besuch natürlich mit einem Spaziergang durch die Salzgärten und einer Galette auf dem Platz verbinden lässt. Ruhiger und intimer als Saint-Martin.",
-          "dogPolicyDe": "Hunde an der Leine willkommen (Außenbereiche)"
+          "descriptionNl": "Ars-en-Ré staat vermeld als een van de 'plus beaux villages de France' en is een piepklein havendorpje aan de rand van de zoutmoerassen, beroemd om zijn zwart-witte kerktoren, die ooit zo werd geverfd om schepen de weg te wijzen. De smalle straatjes met witte huizen en malva's, de kleine haven en de omliggende fietspaden door de zoutpannen maken het tot een van de charmantste stops van het eiland. Aangelijnde honden zijn welkom op de dorpspleinen en bij de haven, en het dorp ligt in het hart van de zoutmoerassen, zodat een bezoek zich vanzelf laat combineren met een wandeling door de zoutmoerassen en een galette op het plein. Rustiger en intiemer dan Saint-Martin.",
+          "dogPolicyDe": "Hunde an der Leine willkommen (Außenbereiche)",
+          "dogPolicyNl": "Honden aan de lijn welkom (buitenruimtes)"
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten auf der Île de Ré",
+      "titleNl": "Hondvriendelijke bezienswaardigheden op Île de Ré",
       "introDe": "Die Île de Ré hält ihre Sehenswürdigkeiten im Freien, was einem Hund perfekt entgegenkommt. Die UNESCO-Vauban-Festungsanlagen und der Hafen von Saint-Martin-de-Ré, der Leuchtturm und die Landzunge an der nordwestlichen Inselspitze sowie das hübsche Hafendorf Ars-en-Ré mit seinem berühmten schwarz-weißen Kirchturm werden alle erwandert statt angestanden. Angeleinte Hunde sind bei fast allem dabei, außer bei den Innenräumen der Museen und dem Aufstieg auf den Leuchtturm selbst. Diese drei sind die wichtigsten Ausflüge der Insel, jeder über das Radwegenetz erreichbar.",
-      "faqsDe": []
+      "introNl": "Île de Ré houdt zijn bezienswaardigheden buiten, wat perfect uitkomt voor een hond. De UNESCO-Vauban-vestingwerken en de haven van Saint-Martin-de-Ré, de vuurtoren en de landtong aan de noordwestpunt van het eiland, en het charmante havendorp Ars-en-Ré met zijn beroemde zwart-witte kerktoren worden allemaal belopen in plaats van bezocht met een wachtrij. Aangelijnde honden mogen bijna overal bij zijn, behalve in de museumbinnenruimtes en bij de beklimming van de vuurtoren zelf. Deze drie zijn de belangrijkste uitstapjes van het eiland, elk bereikbaar via het fietspadennetwerk.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Walking on Île de Ré",
@@ -642,7 +732,8 @@
           "descriptionEs": "Rover.fr es la principal plataforma de cuidado y paseo de perros entre particulares en Francia, con cuidadores por toda la Isla de Ré y la zona de La Rochelle. Los perfiles incluyen reseñas, fotos y reserva instantánea, y los servicios van desde el alojamiento en casa del cuidador hasta el paseo, las visitas a domicilio y la guardería. Todas las reservas hechas a través de la plataforma están cubiertas por el seguro de Rover. Reserva pronto para julio y agosto, cuando la demanda de la isla alcanza su punto máximo.",
           "descriptionPt": "A Rover.fr é a principal plataforma de guarda e passeio de cães entre particulares em França, com cuidadores por toda a Ilha de Ré e a zona de La Rochelle. Os perfis incluem avaliações, fotos e reserva instantânea, e os serviços vão do alojamento em casa do cuidador ao passeio, às visitas ao domicílio e à creche. Todas as reservas feitas através da plataforma estão cobertas pelo seguro da Rover. Reserve cedo para julho e agosto, quando a procura da ilha atinge o pico.",
           "priceRange": "€15–€40/day depending on service",
-          "descriptionDe": "Rover.fr ist die führende Peer-to-Peer-Plattform für Haustierbetreuung und Gassi-Service in Frankreich, mit Betreuern auf der ganzen Île de Ré und im weiteren Gebiet von La Rochelle. Die Profile enthalten Bewertungen, Fotos und Sofortbuchung, und das Angebot reicht von Unterbringung im Zuhause eines Betreuers bis zu Gassi-Gehen, Kurzbesuchen und Tagesbetreuung. Alle über die Plattform vorgenommenen Buchungen sind durch die Versicherung von Rover abgedeckt. Für Juli und August, wenn die Nachfrage auf der Insel ihren Höhepunkt erreicht, früh buchen."
+          "descriptionDe": "Rover.fr ist die führende Peer-to-Peer-Plattform für Haustierbetreuung und Gassi-Service in Frankreich, mit Betreuern auf der ganzen Île de Ré und im weiteren Gebiet von La Rochelle. Die Profile enthalten Bewertungen, Fotos und Sofortbuchung, und das Angebot reicht von Unterbringung im Zuhause eines Betreuers bis zu Gassi-Gehen, Kurzbesuchen und Tagesbetreuung. Alle über die Plattform vorgenommenen Buchungen sind durch die Versicherung von Rover abgedeckt. Für Juli und August, wenn die Nachfrage auf der Insel ihren Höhepunkt erreicht, früh buchen.",
+          "descriptionNl": "Rover.fr is het toonaangevende peer-to-peer-platform voor huisdierenopvang en uitlaatservice in Frankrijk, met oppassers verspreid over heel Île de Ré en de wijdere omgeving van La Rochelle. De profielen bevatten beoordelingen, foto's en direct boeken, en het aanbod loopt van logeeropvang bij een oppasser thuis tot uitlaten, korte bezoekjes en dagopvang. Alle via het platform gemaakte boekingen zijn gedekt door de verzekering van Rover. Boek vroeg voor juli en augustus, wanneer de vraag op het eiland piekt."
         },
         {
           "name": "Pawshake (Île de Ré & Charente-Maritime)",
@@ -652,7 +743,8 @@
           "descriptionEs": "Pawshake es una plataforma internacional de cuidado de mascotas activa en toda Charente-Maritime, incluida la Isla de Ré y La Rochelle. Conecta a dueños con cuidadores locales que ofrecen alojamiento, guardería, visitas a domicilio y paseo, con perfiles verificados, reseñas y garantía de reserva. Es una alternativa útil a Rover para encontrar disponibilidad durante el ajetreado verano de la isla, cuando una sola plataforma puede llenarse. Compara ambas para el mejor encaje de cuidador, ubicación y precio.",
           "descriptionPt": "A Pawshake é uma plataforma internacional de cuidado de animais ativa em toda a Charente-Maritime, incluindo a Ilha de Ré e La Rochelle. Liga donos a cuidadores locais que oferecem alojamento, creche, visitas ao domicílio e passeio, com perfis verificados, avaliações e garantia de reserva. É uma alternativa útil à Rover para encontrar disponibilidade durante o movimentado verão da ilha, quando uma única plataforma pode esgotar. Compare ambas para o melhor ajuste de cuidador, localização e preço.",
           "priceRange": "€12–€35/day depending on service",
-          "descriptionDe": "Pawshake ist eine internationale Plattform für Haustierbetreuung, die in der gesamten Charente-Maritime aktiv ist, einschließlich der Île de Ré und La Rochelle. Sie verbindet Besitzer mit lokalen Betreuern, die Unterbringung, Tagesbetreuung, Kurzbesuche und Gassi-Service anbieten, mit verifizierten Profilen, Bewertungen und einer Buchungsgarantie. Sie ist eine nützliche Alternative zu Rover, um während des geschäftigen Inselsommers Verfügbarkeit zu finden, wenn eine einzelne Plattform ausgebucht sein kann. Beide vergleichen für die beste Übereinstimmung von Betreuer, Standort und Preis."
+          "descriptionDe": "Pawshake ist eine internationale Plattform für Haustierbetreuung, die in der gesamten Charente-Maritime aktiv ist, einschließlich der Île de Ré und La Rochelle. Sie verbindet Besitzer mit lokalen Betreuern, die Unterbringung, Tagesbetreuung, Kurzbesuche und Gassi-Service anbieten, mit verifizierten Profilen, Bewertungen und einer Buchungsgarantie. Sie ist eine nützliche Alternative zu Rover, um während des geschäftigen Inselsommers Verfügbarkeit zu finden, wenn eine einzelne Plattform ausgebucht sein kann. Beide vergleichen für die beste Übereinstimmung von Betreuer, Standort und Preis.",
+          "descriptionNl": "Pawshake is een internationaal platform voor huisdierenopvang dat actief is in heel Charente-Maritime, inclusief Île de Ré en La Rochelle. Het verbindt eigenaars met lokale oppassers die logeeropvang, dagopvang, korte bezoekjes en uitlaatservice bieden, met geverifieerde profielen, beoordelingen en een boekingsgarantie. Het is een handig alternatief voor Rover om beschikbaarheid te vinden tijdens de drukke eilandzomer, wanneer één enkel platform vol kan zitten. Vergelijk beide voor de beste match qua oppasser, locatie en prijs."
         },
         {
           "name": "Holidog (France-wide)",
@@ -662,12 +754,16 @@
           "descriptionEs": "Holidog es una plataforma francesa de cuidado de mascotas que ofrece alojamiento, visitas a domicilio, paseo y guardería a través de una red de cuidadores verificados, incluida la zona de La Rochelle y la Isla de Ré. Proporciona seguro, garantía de satisfacción y una línea de soporte 24/7, tranquilizadora para los visitantes que no conocen la zona. Para unas vacaciones en la isla, es una buena tercera opción que comprobar junto a Rover y Pawshake, sobre todo para disponibilidad veraniega de última hora.",
           "descriptionPt": "A Holidog é uma plataforma francesa de cuidado de animais que oferece alojamento, visitas ao domicílio, passeio e creche através de uma rede de cuidadores verificados, incluindo a zona de La Rochelle e da Ilha de Ré. Disponibiliza seguro, garantia de satisfação e uma linha de apoio 24h, tranquilizadora para visitantes que não conhecem a região. Para férias na ilha, é uma boa terceira opção a verificar a par da Rover e da Pawshake, sobretudo para disponibilidade de verão de última hora.",
           "priceRange": "€15–€35/day depending on service",
-          "descriptionDe": "Holidog ist eine französische Plattform für Haustierbetreuung, die über ein Netzwerk geprüfter Betreuer Unterbringung, Hausbesuche, Gassi-Service und Tagesbetreuung anbietet, einschließlich des Gebiets La Rochelle und Île de Ré. Sie bietet Versicherung, eine Zufriedenheitsgarantie und eine rund um die Uhr erreichbare Support-Hotline, was für Besucher beruhigend ist, die sich in der Gegend nicht auskennen. Für einen Urlaub auf der Insel ist sie eine gute dritte Option, die man neben Rover und Pawshake prüfen sollte, besonders für kurzfristige Verfügbarkeit im Sommer."
+          "descriptionDe": "Holidog ist eine französische Plattform für Haustierbetreuung, die über ein Netzwerk geprüfter Betreuer Unterbringung, Hausbesuche, Gassi-Service und Tagesbetreuung anbietet, einschließlich des Gebiets La Rochelle und Île de Ré. Sie bietet Versicherung, eine Zufriedenheitsgarantie und eine rund um die Uhr erreichbare Support-Hotline, was für Besucher beruhigend ist, die sich in der Gegend nicht auskennen. Für einen Urlaub auf der Insel ist sie eine gute dritte Option, die man neben Rover und Pawshake prüfen sollte, besonders für kurzfristige Verfügbarkeit im Sommer.",
+          "descriptionNl": "Holidog is een Frans platform voor huisdierenopvang dat via een netwerk van gecontroleerde oppassers logeeropvang, huisbezoeken, uitlaatservice en dagopvang biedt, inclusief het gebied La Rochelle en Île de Ré. Het biedt verzekering, een tevredenheidsgarantie en een dag en nacht bereikbare supportlijn, wat geruststellend is voor bezoekers die de omgeving niet kennen. Voor een vakantie op het eiland is het een goede derde optie om naast Rover en Pawshake te bekijken, vooral voor beschikbaarheid op korte termijn in de zomer."
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service auf der Île de Ré",
+      "titleNl": "Huisdierenopvang & uitlaatservice op Île de Ré",
       "introDe": "Die Île de Ré ist so hundefreundlich, dass die meisten Besucher den Hund einfach überallhin mitnehmen, doch für ein langes Mittagessen, einen Bootsausflug oder einen Abend außer Haus möchte man vielleicht eine Betreuungsperson oder einen Gassi-Service. Die Insel und das benachbarte Gebiet von La Rochelle werden von den großen französischen Peer-to-Peer-Plattformen für Haustierbetreuung abgedeckt, auf denen man geprüfte lokale Betreuer mit Profilen, Bewertungen und Versicherung findet. In der Hochsaison füllt sich die Insel schnell, daher sollte man jede Betreuung frühzeitig buchen. Für Hunde in Ferienunterkünften oder auf Campingplätzen ist ein kurzer Besuch eines Gassi-Gehers eine einfache Möglichkeit, die heißeste Tageszeit im Sommer zu überbrücken.",
-      "faqsDe": []
+      "introNl": "Île de Ré is zo hondvriendelijk dat de meeste bezoekers hun hond gewoon overal mee naartoe nemen, maar voor een lange lunch, een boottochtje of een avond weg van huis wil je misschien een oppasser of uitlaatservice. Het eiland en het naburige gebied van La Rochelle worden gedekt door de grote Franse peer-to-peer-platforms voor huisdierenopvang, waar je gecontroleerde lokale oppassers vindt met profielen, beoordelingen en verzekering. In het hoogseizoen raakt het eiland snel vol, dus boek elke oppas ruim op tijd. Voor honden in vakantieverblijven of op campings is een kort bezoek van een uitlaatservice een simpele manier om het heetste deel van de dag in de zomer te overbruggen.",
+      "faqsDe": [],
+      "faqsNl": []
     }
   }
 }

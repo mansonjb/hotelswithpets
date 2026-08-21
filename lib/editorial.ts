@@ -10481,6 +10481,2098 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `das kompakte Kurzentrum rund um den Pouhon Pierre-le-Grand, der Warfaaz-See und das Naturschutzgebiet Hautes Fagnes über der Stadt`,
     },
   },
+  nl: {
+    sydney: {
+      personality: `een van de hondvriendelijkste grote steden ter wereld, waar een uitstekende outdoor levensstijl met hondenstranden aan de haven, enorme uitlaatparken en het hele jaar door terrasleven strenge zonegebonden strandregels en een openbaar vervoernetwerk dat huisdieren grotendeels uitsluit, in evenwicht houdt`,
+      highlight: `de uitlaatweiden van Sydney Park en de Centennial Parklands, het hondenstrand aan de haven bij Rose Bay en de langs de klif lopende Federation Cliff Walk`,
+      area: `de Inner West rond Alexandria en Leichhardt, de oostelijke buitenwijken van Rose Bay tot Watsons Bay en de haven bij Barangaroo`,
+    },
+    sylt: {
+      personality: `Duitslands meest chique Noordzee-strandeiland, waar 40 kilometer duinen en een reeks officiële hondenstranden het tot een van de echt hondvriendelijkste plekken van het land maken`,
+      highlight: `de aangewezen hondenstranden in Westerland, Kampen en List, de gloeiende Rode Klif bij Kampen en de vlonderpaden van de Braderuper Heide`,
+      area: `Westerland, Kampen en het rietgedekte Friese dorp Keitum`,
+    },
+    scheveningen: {
+      personality: `de Noordzee-badplaats van Den Haag, een levendige stedelijke kustwijk waar een lange strandboulevard, een opvallende pier en beschermde duinen aan beide uiteinden van de kust samenkomen met hondenstranden die het hele jaar open zijn`,
+      highlight: `de hondenstranden aan het Noorderstrand en aan het Kijkduin-uiteinde van het Zuiderstrand die het hele jaar open zijn, de duinen van het Westduinpark en de ver de zee in stekende pier`,
+      area: `de Strandweg-boulevard, de vissershaven en de duinen van het Westduinpark richting Kijkduin`,
+    },
+    zandvoort: {
+      personality: `de Noordzee-badplaats van Amsterdam, een ontspannen kustplaats op korte rechtstreekse treinafstand van de stad, waar een breed zandstrand, een lange boulevard en uitgestrekte duingebieden samenkomen met seizoensgebonden, gezoneerde regels voor hondenstranden`,
+      highlight: `het winterse loslaatstrand (1 oktober tot 15 april), het hele jaar open Parnassia-hondenstrand iets noordelijker in Bloemendaal aan Zee en de hondenduinen van de Noordduinen`,
+      area: `de strandboulevard, de duinen van de Noordduinen en Kennemerland en de oude dorpskern rond de Grote Krocht`,
+    },
+    gijon: {
+      personality: `een ontspannen cider-stad aan de Cantabrische kust, waar honden naast hun baasjes over de strandboulevard draven en onder de tafels van drukke sidrerías liggen te dutten`,
+      highlight: `El Rinconín, het hele jaar open hondenstrand van Gijón, met een eigen omheind uitlaatparkje direct op het zand`,
+      area: `Cimavilla, de kleurrijk geschilderde oude vissersbuurt die omhoog loopt naar de klifweiden van de Cerro de Santa Catalina, perfect voor avondwandelingen aan de lijn onder Chillida's sculptuur`,
+    },
+    amalfi: {
+      personality: `een van de mooiste plekken aan de Amalfikust, steil en zonovergoten, maar te voet te verkennen langs de kust, wat goed uitkomt voor hondeneigenaren die rekenen op bussen en veerboten en de zomerhitte inplannen`,
+      highlight: `een wandeling door het koele, schaduwrijke natuurgebied Valle delle Ferriere, gevolgd door de bergkam-wandelroute naar de Torre dello Ziro boven Atrani, beide toegestaan met hond aan de lijn`,
+      area: `het vlakke kustcentrum bij de Piazza Duomo, of het rustige Atrani en het tuindorp Ravello voor koelere lucht`,
+    },
+    almeria: {
+      personality: `zonovergoten, ontspannen en aangenaam rustig, beloont Almería hondeneigenaren die de hitte inplannen met lege stranden en wijde woestijnhorizonten`,
+      highlight: `een verkoeling met de hond op het officiële hondenstrand El Bobar, gevolgd door de zonsondergang boven de verlichte muren van de Alcazaba`,
+      area: `de wandelbare oude stad bij de kathedraal, of buiten in El Toyo en Retamar met directe strandtoegang aan de rand van Cabo de Gata`,
+    },
+    bayreuth: {
+      personality: `Wagners groene festivalstad in het hart van Franken`,
+      highlight: `de kanalen van de Hofgarten, de parkfollies van de Eremitage en de rivierweiden van de Wilhelminenaue`,
+      area: `de oude stad, de Grüner Hügel en het Rode Maindal`,
+    },
+    trento: {
+      personality: `een van de hondvriendelijkste Alpenprovinciehoofdsteden van Italië, met omheinde hondenparken in elke wijk en bergen die direct vanuit de stad oprijzen`,
+      highlight: `de bossen van Gocciadoro, het uitzichtpunt van de kabelbaan naar Sardagna en de hondenstranden bij het Lago di Caldonazzo`,
+      area: `het met fresco's versierde historische centrum, de heuvel van Gocciadoro en Sardagna boven het Etschdal`,
+    },
+    kitzbuehel: {
+      personality: `het meest legendarische skioord van de Alpen, waar gondels honden gratis vervoeren en wandelroutes beginnen bij de middeleeuwse stadspoorten`,
+      highlight: `de Streif-zomerroute op de Hahnenkamm, de rondwandeling om het Schwarzsee en het wildpark Aurach`,
+      area: `de ommuurde oude stad, de oever van het Schwarzsee en de zonnige Sonnbergseite`,
+    },
+    ravenna: {
+      personality: `Ravenna is een vlakke, ontspannen mozaïekenstad waar een hond aan de lijn heel natuurlijk past bij voetgangerspleinen, bospaden door dennenbossen en het rustige ritme van de Adriatische kust`,
+      highlight: `een ochtend met Byzantijnse mozaïeken, afgewisseld met een middagwandeling met hond door de Pineta di San Vitale en een duik op een hondenstrand bij Marina di Ravenna`,
+      area: `het ommuurde centrum vanwege de mozaïeken en Dantes graf, of buiten in Marina di Ravenna en de Lidi vanwege strandtoegang en vistrattoria's`,
+    },
+    'saint-malo': {
+      personality: `een van de sfeervolste ommuurde kuststeden van Frankrijk`,
+      highlight: `de wandeling over de vestingmuren van Intra-Muros, de Plage du Sillon en het bij eb bereikbare eiland Grand Bé`,
+      area: `Intra-Muros, Paramé en de Smaragdkust`,
+    },
+    quimper: {
+      personality: `een van de sfeervolste en best te voet te verkennen historische steden van Bretagne`,
+      highlight: `de kathedraal Saint-Corentin en de vakwerk-oude stad, de kades langs de rivier de Odet en de beboste Mont Frugy`,
+      area: `de middeleeuwse oude stad, de rivierkades langs de Odet en de aardewerkwijk Locmaria`,
+    },
+    carnac: {
+      personality: `een van de meest kenmerkende zomervakantie-strandbestemmingen van Frankrijk met een koeler zomerklimaat, gebouwd rond 's werelds grootste veld neolithische menhirs`,
+      highlight: `de menhirrijen van Carnac bij Ménec, Kermario en Kerlescan, het kustpad GR34 en de Tumulus Saint-Michel`,
+      area: `Carnac-Plage, Carnac-Ville rond de kerk Saint-Cornély en de bredere baai van Quiberon`,
+    },
+    quiberon: {
+      personality: `een van de ruigste en hondvriendelijkste kustontsnappingen van Bretagne`,
+      highlight: `de wilde kliffen van de Côte Sauvage, het Grande Plage en de veerboot naar Belle-Île vanaf Port Maria`,
+      area: `Port Maria, de Côte Sauvage en de Pointe du Conguel`,
+    },
+    ksamil: {
+      personality: `een van de mooiste en snelst opkomende strandbestemmingen aan de Albanese Rivièra, de Malediven van Europa genoemd`,
+      highlight: `de vier turquoise eilandjes van Ksamil, het Pasqyra-strand (Mirror Beach) en de open stranden buiten het seizoen waar honden vrij zonder lijn mogen lopen`,
+      area: `het dorp Ksamil, het Nationaal Park Butrint en Saranda`,
+    },
+    saranda: {
+      personality: `een van de snelst opkomende hondvriendelijke kustontsnappingen van Albanië`,
+      highlight: `de strandboulevard van Saranda, het uitzichtpunt bij kasteel Lëkurësi en de UNESCO-ruïnes van Butrint`,
+      area: `de strandboulevard, de bron Blue Eye en de heuvels met uitzicht op Corfu`,
+    },
+    saturnia: {
+      personality: `een piepklein warmwaterbronnendorp diep in de Toscaanse Maremma, gebouwd rond de gratis openluchtthermen van de Cascate del Mulino, een echt landelijke, ongehaaste basis voor reizen met huisdier in plaats van een stedentrip`,
+      highlight: `de gratis warme bronnen van de Cascate del Mulino, het VIPets-programma van thermenresort Terme di Saturnia en de Romeinse stadspoort Porta Romana`,
+      area: `het ommuurde middeleeuwse borgo, het net buiten gelegen resort Terme di Saturnia en het bredere Maremma-landschap richting Pitigliano en Sovana`,
+    },
+    sirmione: {
+      personality: `een romantisch schiereilandstadje aan het Gardameer rond het door een gracht omringde Scaligerkasteel bij de ingang van de oude stad, de Romeinse ruïnes van de Grotte di Catullo op de punt van het schiereiland, de witte rotsplaten van Jamaica Beach aan het meer, het thermale bad Aquaria en schaduwrijke oeverpromenades`,
+      highlight: `Jamaica Beach, Lido delle Bionde en het meerpad naar de Grotte di Catullo`,
+      area: `het Centro Storico, Colombare en Lugana`,
+    },
+    'riva-del-garda': {
+      personality: `een van de mooiste bergsteden aan een meer van Italië, waar de oeverpromenade en het door arcades omzoomde Piazza III Novembre, de middeleeuwse Rocca di Riva, het klifbolwerk Bastione, de waterval Cascata del Varone en de windsurfwateren en het Ponale-pad het tot een paradijs voor hondeneigenaren maken`,
+      highlight: `het Ponale-pad, de Monte Brione en de oeverpromenade`,
+      area: `het Piazza III Novembre, Porto San Nicolò en de oeverpromenade Viale Rovereto`,
+    },
+    'zahara-de-los-atunes': {
+      personality: `een wit gekalkt vissersdorp aan de Atlantische Oceaan rond het tonijnvangst-Castillo de las Almadrabas, waar lange wilde stranden en duinen richting de kust van Atlanterra en de klif Cabo de Plata lopen, waar de chiringuitos de beroemde rode tonijn van de Almadraba serveren en het zandstrand het perfect maakt voor lange, hondvriendelijke zomerverblijven`,
+      highlight: `het lange wilde Playa de Zahara, het duinvlonderpad naar Atlanterra en het kustpad Cabo de Plata`,
+      area: `het wit gekalkte Casco Antiguo rond de Calle María Luisa, de chiringuitos aan het strand en de kust van Atlanterra`,
+    },
+    sibenik: {
+      personality: `een duizend jaar oude Dalmatische stenen stad rond de UNESCO-kathedraal van Sint-Jacobus, bewaakt door de vestingen Sint-Michiel, Barone en Sint-Jan, waar de middeleeuwse steegjes van de oude stad uitkomen op de oeverpromenade Riva en de weg banen naar de watervallen van Krka en de Kornati-eilanden`,
+      highlight: `de vesting Sint-Michiel, het bospark Šubićevac en de paden met leibandplicht in Nationaal Park Krka`,
+      area: `de oude stad, de oeverpromenade Riva en Mandalina`,
+    },
+    limassol: {
+      personality: `een van de meest ontspannen en best te voet te verkennen steden aan de zuidkust van Cyprus, waar de strandboulevard Molos met beeldenpark, het middeleeuwse kasteel van Limassol en de oude stad, de jachthaven, het Lady's Mile-strand en de antieke ruïnes van Kourion en Amathous allemaal makkelijk met hond te verkennen zijn`,
+      highlight: `de strandboulevard Molos, het hondenpark Zakaki en het open terrein van het antieke Kourion`,
+      area: `de oude stad, de strandboulevard Molos en de jachthaven`,
+    },
+    trapani: {
+      personality: `een zonovergoten West-Siciliaanse havenstad, gekenmerkt door de zoutpannen en windmolens van de Saline di Trapani, een sikkelvormige oude stad die zich langs de Via Garibaldi de zee in strekt, de kusttoren Torre di Ligny, de draagvleugelboten van Liberty Lines naar de Egadische Eilanden en de kabelbaan omhoog naar het middeleeuwse Erice`,
+      highlight: `de oeverpromenade Lungomare Dante Alighieri, de tuin Villa Regina Margherita en de zoutpanpaden van de Saline di Trapani`,
+      area: `het Centro Storico, de Lungomare-oeverpromenade en het bergdorp Erice`,
+    },
+    sliema: {
+      personality: `een van de best te voet te verkennen kuststeden van Malta, waar de boulevard van Tigné Point over de rotsachtige kust van Exiles en Qui-si-Sana tot aan St. Julian's loopt`,
+      highlight: `de strandboulevard van Sliema, de oeverzone Tigné Point en de korte veerboot naar de skyline van Valletta`,
+      area: `Tigné Point, de strandboulevard Strand en de kust van Exiles`,
+    },
+    'costa-da-caparica': {
+      personality: `een lange Atlantische badplaats ten zuiden van Lissabon, waar de eindeloze genummerde praias en de oude Transpraia-trein, de strandavenida en het voormalige vissersdorp, de kliffen van Arriba Fossil en het dennenbos Mata dos Medos allemaal maar een korte oversteek van de hoofdstad verwijderd liggen`,
+      highlight: `de zuidelijke praias richting Fonte da Telha, de wandelpaden langs de klif van Arriba Fossil en het dennenbos Mata dos Medos`,
+      area: `de strandavenida, het oude vissersdorp en Fonte da Telha`,
+    },
+    cassis: {
+      personality: `een schilderachtige Provençaalse vissershaven bij Marseille, gelegen rond zijn met boten gevulde haven onder de oprijzende steile kust van Cap Canaille, met de calanques van Port-Miou, Port-Pin en En-Vau, het Plage de la Grande Mer en historische wijngaarden voor de deur, waarbij het beschermde kerngebied van het Nationaal Park Calanques honden grotendeels verbiedt`,
+      highlight: `de vissershaven en de Quai des Baux, de klifweg Cap Canaille en de buiten gelegen calanque Port-Miou`,
+      area: `de oude haven, het Bestouan en de AOC-wijngaarden van Cassis`,
+    },
+    'lignano-sabbiadoro': {
+      personality: `een lange gouden Blue Flag-badplaats aan de Adriatische kust in Friuli-Venezia Giulia, waar het eigen hondenstrand Doggy Beach, de modernistische dennenbosspiraal van de Pineta, het herkenningspunt Terrazza a Mare en de rustige lagune van Marano het tot een eenvoudige langdurige gezinsbasis maken voor reizen met hond`,
+      highlight: `het hondenstrand Doggy Beach, het lange Blue Flag-gezinsstrand en het schaduwrijke dennenbos Pineta met het Hemingway Park`,
+      area: `Sabbiadoro, Lignano Pineta en Lignano Riviera`,
+    },
+    bibione: {
+      personality: `een van de Europese voorbeeldplekken voor reizen met hond op het strand, gelegen rond het lange Blue Flag-zandstrand aan de Adriatische kust, het beroemde hondenstrand Spiaggia di Pluto, het thermaalbad Bibione Thermae en de vuurtoren Faro di Bibione in de dennenbossen bij de Tagliamento`,
+      highlight: `het hondenstrand Spiaggia di Pluto, het dennenbospad naar de Faro di Bibione en de 8 kilometer lange strandboulevard`,
+      area: `Bibione Spiaggia, Bibione Pineda en Lido dei Pini bij het hondenstrand`,
+    },
+    'cap-ferret': {
+      personality: `een blootsvoets te verkennen Atlantisch schiereiland, bekroond door de vuurtoren Phare du Cap-Ferret, omzoomd door de kleurrijke oesterhutten van L'Herbe en Le Canon, gespannen tussen de rustige stranden van het Bassin en de wilde oceaanbranding tegenover de Dune du Pilat aan de overkant van de baai`,
+      highlight: `de fietspaden door het dennenbos, de rondwandeling om de Pointe aux Chevaux en de natuurreservaten van Piraillan`,
+      area: `Claouey, L'Herbe en het dorp Le Cap-Ferret`,
+    },
+    'saint-jean-de-luz': {
+      personality: `een van de mooiste vakantieoorden aan de Franse Baskische kust, waar de beschutte baai van het Grande Plage met zijn drie golfbrekers een voetgangersoude stad ontmoet, bekroond door de kerk Saint-Jean-Baptiste waar Lodewijk XIV in 1660 trouwde, de vissershaven en het Maison Louis XIV, met de landtong Sainte-Barbe die zich opent naar de kustweg Corniche Basque richting Hendaye`,
+      highlight: `de baaipromenade en de golfbrekers, de landtong Sainte-Barbe en het kustpad Corniche Basque`,
+      area: `de oude stad rond de Place Louis XIV, de vissershaven en de landtong Sainte-Barbe`,
+    },
+    'conil-de-la-frontera': {
+      personality: `een van de meest ontspannen badplaatsen van de Costa de la Luz, waar een wit gekalkte oude stad, bekroond door de Torre de Guzmán, de lange Atlantische zandstranden Playa de los Bateles en Fontanilla ontmoet, plus de surfgolven van El Palmar en de oranje kliffen en baaien van Cabo Roche`,
+      highlight: `het Playa de los Bateles, het dennenbos Pinar de Roche en het klifpad bij Cabo Roche`,
+      area: `het Casco Antiguo, de kust van Roche en het wetland Río Salado`,
+    },
+    mojacar: {
+      personality: `een wit gekalkt heuveldorp boven zo'n 7 kilometer kust aan de Costa de Almería, met de lange strandboulevard van Mojácar Playa, het nieuwe hondenstrand Playa del Perulejo en de historische wachttoren Macenas aan de wilde zuidkust`,
+      highlight: `de lange vlakke Paseo Marítimo, het hondenstrand Perulejo bij Macenas en de uitzichtpunten van het dorp`,
+      area: `Mojácar Pueblo, de strandboulevard Mojácar Playa en de kust bij Macenas`,
+    },
+    gandia: {
+      personality: `een badplaats aan de Costa de Valencia waar het brede Playa de Gandía (Platja Nord), het natuurlijke duinstrand l'Ahuir met zijn testgebied voor honden, het hertogelijke Borgia-paleis in de oude stad en de levendige havenjachthaven samenkomen`,
+      highlight: `de lange, met hond begaanbare promenade Paseo Marítimo Neptuno, het rivierpad langs de Serpis en de groenweg Vía Verda, te bereiken met de gratis Cercanías-trein vanuit Valencia`,
+      area: `het Grau en Playa de Gandía, de oude stad en l'Ahuir`,
+    },
+    naxos: {
+      personality: `de groene, ontspannen reus van de Cycladen, waar de marmeren Portara-poort van de Apollotempel de zonsondergang boven de oude stad en het Kastro van Chora omlijst`,
+      highlight: `de landtong Portara, de lange stranden van St. George en Plaka en de marmeren dorpen Halki en Apiranthos`,
+      area: `Naxos-stad (Chora), Agios Georgios en de zuidelijke stranden van Agios Prokopios, Agia Anna en Plaka`,
+    },
+    trogir: {
+      personality: `een piepklein ommuurd UNESCO-oude-stadje op een Dalmatisch eiland, bekroond door de kathedraal van de Heilige Laurentius en het zeevestingtje Kamerlengo`,
+      highlight: `de marmeren steegjes van de oude stad, de door palmen omzoomde oeverpromenade Riva en de door pijnbomen beschaduwde paden van Pantan`,
+      area: `het UNESCO-oude-stadeiland, de oeverpromenade Riva en de nabijgelegen stranden van eiland Čiovo`,
+    },
+    portimao: {
+      personality: `een levendige Algarve-havenstad rond de rivier de Arade, bekroond door het gouden strand Praia da Rocha onder dramatische rode kliffen, met een drukke oeverpromenade met jachthaven, de historische oude stad rond de Largo 1 de Dezembro en het nabijgelegen vlonderpad bij de riviermonding van Alvor`,
+      highlight: `het langs de klif lopende vlonderpad van Praia da Rocha, de oeverpromenade langs de Arade en het vlonderpad bij de riviermonding Ria de Alvor`,
+      area: `Praia da Rocha, de oude stad en de oeverpromenade langs de Arade`,
+    },
+    larnaca: {
+      personality: `een van de meest ontspannen kuststeden van Cyprus, waar de door palmen omzoomde boulevard Finikoudes, de kerk van de Heilige Lazarus, het flamingorijke zoutmeer van Larnaca naast de moskee Hala Sultan Tekke en de jachthaven allemaal op comfortabele wandelafstand liggen`,
+      highlight: `het natuurpad bij het zoutmeer van Larnaca, de strandboulevard Finikoudes en het omheinde Larnaca Dog Park`,
+      area: `de strandboulevard Finikoudes, de oude stad rond de Heilige Lazarus en Mackenzie Beach`,
+    },
+    'las-palmas': {
+      personality: `de hoofdstad van de Canarische Eilanden op Gran Canaria, een compacte winterzonstad waar de koloniale balkons van de oude stad Vegueta, het door palmen omzoomde Parque Santa Catalina en de lange boog van het strand Las Canteras allemaal comfortabel te voet bereikbaar zijn, bij een bijna seizoenloos subtropisch klimaat`,
+      highlight: `de over de stad verspreide omheinde Pipican-hondenparken, het hondenstrand Bocabarranco aan de zuidelijke stadsrand en de koele bergpaden rond de Roque Nublo voor een dagtrip`,
+      area: `de oude stad Vegueta, Santa Catalina bij de jachthaven en de strandboulevard Las Canteras`,
+    },
+    kefalonia: {
+      personality: `het grootste en meest dramatische van de Ionische eilanden, gelegen rond de oeverpromenade van Argostoli met zijn stenen De Bosset-brug, met het uitzichtpunt bij Myrtos Beach, het klifdorp Assos, de grot Melissani en de pastelkleurige haven van Fiskardo`,
+      highlight: `het wandelpad om de lagune Koutavos, de rondwandeling om de vuurtoren Katavothres en de dennenbossen van Nationaal Park Mount Ainos`,
+      area: `Argostoli, Fiskardo en Assos`,
+    },
+    estepona: {
+      personality: `een wit gekalkte Costa del Sol-plaats waar de met bloempotten omzoomde steegjes van de oude stad, de openluchtroute met muurschilderingen Ruta de Murales en het door sinaasappelbomen omzoomde Plaza de las Flores naar beneden leiden naar een jachthaven met 447 ligplaatsen, met de botanische tuin Orquidario en het safaripark Selwo dichtbij`,
+      highlight: `de met bloempotten omzoomde steegjes van de oude stad, de promenade Senda Litoral en het omheinde hondenpark Las Mesas`,
+      area: `het Casco Antiguo, de Puerto Deportivo en de New Golden Mile`,
+    },
+    'la-spezia': {
+      personality: `een ontspannen Ligurische havenstad en de eenvoudigste hondvriendelijke toegangspoort naar de Cinque Terre`,
+      highlight: `de oeverpromenade Morin met zijn openbare tuinen, het heuvelkasteel Castello San Giorgio en de spoorlijn van de Cinque Terre`,
+      area: `de oeverpromenade Morin met de openbare tuinen, het historische centrum rond de Via del Prione en de Golf van de Dichters richting Portovenere en Lerici`,
+    },
+    gozo: {
+      personality: `Malta's rustigere tweede eiland, waar de heuvelvesting Cittadella van Victoria, het rode zandstrand van Ramla Bay, de dramatische kust van Dwejra met de Inland Sea, de beschutte baai Xlendi Bay en de prehistorische tempels van Ġgantija allemaal op korte rijafstand van elkaar liggen`,
+      highlight: `de langs de klif lopende paden van Ta' Ċenċ, de kustpaden van Dwejra en het schaduwrijke wandelpad door het dal van Mġarr ix-Xini`,
+      area: `Victoria (Rabat), Marsalforn en Xlendi`,
+    },
+    syracuse: {
+      personality: `een zonovergoten Siciliaans juweel waarvan het leven zich buiten afspeelt op het eiland Ortigia, rond de Piazza Duomo, de legendarische Fonte Aretusa, het antieke archeologische park Neapolis en de luchtige oeverpromenade Lungomare`,
+      highlight: `de Lungomare di Ortigia, de tuinen van het Foro Siracusano en de hondenstranden bij Marina di Priolo en Fontane Bianche`,
+      area: `Ortigia, het vasteland-centrum rond het Foro Siracusano en de archeologische wijk Neapolis`,
+    },
+    zakynthos: {
+      personality: `een ontspannen, buiten georiënteerd Ionisch eiland waar hondeneigenaren over de Venetiaanse pleinen van Zakynthos-stad slenteren, naar het door pijnbomen beschaduwde uitzichtpunt van kasteel Bochali klimmen en door de olijfgaardpaden van het schiereiland Vasilikos wandelen, met respect voor de streng beschermde schildpaddenkust rond Gerakas`,
+      highlight: `het Solomos-plein, het uitzichtpunt op de heuvel Bochali en de paden van het schiereiland Vasilikos`,
+      area: `Zakynthos-stad, Bochali en het schiereiland Vasilikos`,
+    },
+    nerja: {
+      personality: `een zonovergoten Costa del Sol-plaats, bekroond door het uitzichtpunt Balcón de Europa, met de prehistorische grotten van Nerja, de gouden stranden Burriana en Carabeo en de wit gekalkte kerk El Salvador in zijn hart`,
+      highlight: `de promenade bij het Balcón de Europa, het rivierpad langs de Río Chíllar en de twee nieuwe omheinde hondenparken`,
+      area: `de oude stad, Burriana en Carabeo`,
+    },
+    paphos: {
+      personality: `een van de meest zonovergoten en geschiedenisrijke kuststeden van Cyprus, waar de haven met zijn middeleeuwse kasteel, het archeologische park Kato Paphos, het kustpad richting Coral Bay en het stadsstrand allemaal comfortabel te voet bereikbaar zijn`,
+      highlight: `het kustpad Paphos Coastal Broadwalk, het Municipal Park van de oude stad en het schaduwrijke wandelpad door de Avakas-kloof`,
+      area: `Kato Paphos, de oude stad (Ktima) en Coral Bay`,
+    },
+    olbia: {
+      personality: `de zonovergoten toegangspoort tot Sardinië's Costa Smeralda, waar de granieten basiliek San Simplicio, de voetgangersboulevard Corso Umberto en de rustige golf van Olbia zich openen naar de turquoise stranden van Pittulongu`,
+      highlight: `het hondenstrand Le Saline, het Parco Fausto Noce en de heilige bron Sa Testa`,
+      area: `de historische oude stad rond de Corso Umberto, de strandboulevard van Pittulongu en de kust van de Costa Smeralda`,
+    },
+    olhao: {
+      personality: `de meest authentieke actieve vissershaven van de Algarve, waar een kubistisch wit gekalkte oude stad en de in 1916 gebouwde bakstenen markthallen bij de haven zich openen naar de lagune Ria Formosa en de voorgelegen eilanden Armona, Culatra en Farol`,
+      highlight: `het Parque Canino do Levante, de havenpromenade bij de markthallen en de eilandstranden van Armona en Culatra buiten het seizoen`,
+      area: `de kubistische oude stad, de havenpromenade bij de markthallen en de eilanden van de Ria Formosa`,
+    },
+    budva: {
+      personality: `een bruisende Adriatische vakantiestad rond de ommuurde oude stad Stari Grad, het lange strandgedeelte Slovenska Plaza, het klifpad Mogren en het ansichtkaartuitzicht op het nabijgelegen Sveti Stefan`,
+      highlight: `het kustpad Mogren, de promenade Slovenska Plaza en de steegjes van de oude stad Stari Grad`,
+      area: `Stari Grad, Slovenska Plaza en Bečići`,
+    },
+    paros: {
+      personality: `een van de meest ontspannen Cycladen-eilanden voor hondeneigenaren, waar je slentert door de haven van Parikia en het kerkhof van de Panagia Ekatontapiliani, door het vissersdorp Naoussa en de granieten baaien van Kolymbithres, voordat je naar de koelere marmerpaden boven Lefkes gaat`,
+      highlight: `het Byzantijnse pad vanaf Lefkes, de wandeling langs de haven van Naoussa en de granieten baaien van Kolymbithres`,
+      area: `Parikia, het vissersdorp Naoussa en de kust rond Golden Beach en Kolymbithres`,
+    },
+    cefalu: {
+      personality: `een van de meest fotogenieke kuststeden van Sicilië`,
+      highlight: `de Normandische kathedraal, de rotskaap La Rocca en de strandboulevard Lungomare`,
+      area: `de middeleeuwse oude stad, de strandboulevard Lungomare en het lange zandstrand van de stad`,
+    },
+    cartagena: {
+      personality: `een van de meest geschiedenisrijke en hondvriendelijke havensteden van Spanje`,
+      highlight: `het openluchtarcheologiepark Cerro del Molinete, de marmeren Calle Mayor en de door palmen omzoomde havenpromenade Paseo Alfonso XII`,
+      area: `het casco antiguo rond het Romeinse theater, de havenwijk Puerto en het Parque de la Rosa met zijn omheinde hondenpark`,
+    },
+    kolobrzeg: {
+      personality: `een vlakke, makkelijk te belopen Oostzee-kuuroord dat in 2025 al zijn stranden opende voor honden aan de lijn, gebouwd rond een historische vuurtoren, een 220 meter lange betonnen pier en het schaduwrijke Nadmorski Park Zdrojowy`,
+      highlight: `het terrein van de vuurtoren Latarnia Morska, de pier Molo Kołobrzeskie en de strandboulevard door het kuurpark`,
+      area: `de havenpromenade rond de straat Towarowa, de oude stad bij de Narutowicza-straat en de kuurwijk bij de pier`,
+    },
+    swinoujscie: {
+      personality: `Polens meest westelijke Oostzee-kuuroord, verspreid over drie Oostzee-eilanden vlak bij de Duitse grens, thuis van het eerste officiële hondenstrand van het land en een van de breedste zandstranden`,
+      highlight: `de hoogste vuurtoren aan de Poolse Oostzeekust, het molenvormige zeeteken Stawa Młyny en het omheinde loslaatgebied voor honden in het Park Zdrojowy`,
+      area: `de kuurwijk rond de straat Uzdrowiskowa, de promenade bij de haveningang bij Stawa Młyny en de strandboulevard richting Ahlbeck op Usedom`,
+    },
+    kotor: {
+      personality: `een van de schilderachtigste ommuurde kuststeden van Montenegro`,
+      highlight: `de ommuurde oude stad, de oeverpromenade van Dobrota en de fjord van de Baai van Kotor`,
+      area: `de oude stad, Dobrota en het nabijgelegen Perast`,
+    },
+    makarska: {
+      personality: `een van de meest ontspannen huisdiervriendelijke steden aan de Dalmatische kust`,
+      highlight: `het schiereiland Sveti Petar, het bospark Osejava en het hondenstrand Cvitačka`,
+      area: `de strandboulevard Riva, de oude stad rond het Kačić-plein en de dennenbossen van het schiereiland St. Peter`,
+    },
+    rhodes: {
+      personality: `een ontspannen, natuurverbonden Grieks eiland waar hondeneigenaren rondzwerven door de autovrije middeleeuwse oude stad en de havenpromenade van Mandraki, door rustige onbewaakte baaien, voordat ze zich terugtrekken in de schaduwrijke beekdalen van het Rodini-park`,
+      highlight: `het Rodini-park, de havenpromenade van Mandraki en de wandeling langs de burchtgracht van de oude stad`,
+      area: `de middeleeuwse oude stad, Mandraki en de kust van Ixia en Ialysos`,
+    },
+    rethymno: {
+      personality: `een van de sfeervolste oude steden van Griekenland, waar een Venetiaanse haven, de op een heuvel gelegen Fortezza en het lange stadsstrand van Rethymno allemaal comfortabel aan de lijn te bereiken zijn`,
+      highlight: `de oude Venetiaanse haven, de landtong van de Fortezza en de schaduwrijke Municipal Garden`,
+      area: `de oude stad, de Venetiaanse haven en de strandboulevard`,
+    },
+    alghero: {
+      personality: `een Catalaans getinte ommuurde stad waar je flaneert over de zeemuren van de Bastioni, langs het Lido di San Giovanni wandelt en de officiële hondenstranden Maria Pia en La Stalla bereikt`,
+      highlight: `de promenade op de zeemuren van de Bastioni, de Pineta di Maria Pia en het hondenstrand Maria Pia`,
+      area: `het Centro Storico, het Lido di San Giovanni en het dennenbos van Maria Pia`,
+    },
+    tenby: {
+      personality: `een middeleeuwse ommuurde havenstad aan de zuidkust van Pembrokeshire, waar honden het kustpad, de havenpubs en de gratis boottochtjes naar Caldey Island met hun baasjes delen, met drie stranden waarvan de seizoensgebonden hondenregels makkelijk in te plannen zijn`,
+      highlight: `het hele jaar hondvriendelijke Penally-uiteinde van South Beach, het Pembrokeshire Coast Path richting Penally en de gratis boottochtjes naar Caldey Island`,
+      area: `de middeleeuwse stadsmuur en de haven, Castle Hill boven de stranden en het Penally-uiteinde van South Beach met zijn duinen`,
+    },
+    tenerife: {
+      personality: `een subtropisch eiland voor het hele jaar, waar honden in de winterzon over de door palmen omzoomde strandboulevards van Costa Adeje en Los Cristianos wandelen, plezier maken op het hondenstrand Playa del Cabezo in El Médano en verkoelen op de schaduwrijke laurierbospaden van het natuurpark Anaga onder de vulkaan Teide`,
+      highlight: `het aangewezen hondenstrand Playa del Cabezo in El Médano, de lange kustboulevard van Costa Adeje en de koele, schaduwrijke gemarkeerde paden van de Parque Rural de Anaga`,
+      area: `de zuidelijke vakantiestrook van Costa Adeje, Playa de las Américas en Los Cristianos, met groenere locaties in Puerto de la Cruz en de hoofdstad Santa Cruz`,
+    },
+    'gran-canaria': {
+      personality: `bekend als miniatuurcontinent, biedt Gran Canaria hondeneigenaren het hele jaar warmte en een ritme dat helemaal draait om het leven buiten, van de 3 kilometer lange strandpaseo Playa de Las Canteras in Las Palmas tot de gouden duinen van Maspalomas en het geplaveide bergdorp Tejeda onder de rotsmonoliet Roque Nublo`,
+      highlight: `wandelingen aan de lijn over de hele lengte van de Paseo Las Canteras, het aangewezen hondenstrand bij El Burrero bij het vliegveld en het omheinde parque canino in San Fernando de Maspalomas`,
+      area: `Las Palmas met stadsstrand en oude stad, Maspalomas en Playa del Inglés met de zuidelijke vakantieoorden en Puerto de Mogán en Meloneras voor rustigere verblijven aan zee`,
+    },
+    lanzarote: {
+      personality: `Lanzarote beloont hondeneigenaren met warmte het hele jaar door en een surreëel vulkanisch landschap, van de zwarte lavavelden en de wijngaarden van La Geria rond Timanfaya tot de kenmerkende César-Manrique-bezienswaardigheden van het eiland, allemaal te belopen aan de lijn en ver genoeg naar het zuiden om terrasdiners met hond in de winter normaal te maken`,
+      highlight: `het afgebakende hondenstrand Playa de Guacimeta bij het vliegveld, het hondengedeelte van de Playa de las Coloradas bij de Marina Rubicón om te zwemmen en de door bodegas omzoomde wijnroute La Geria voor een wandeling met hond aan de lijn`,
+      area: `het strandnabije Playa Blanca in het zuiden, het levendige Puerto del Carmen aan de centrale kust of de rustige strandligging van Costa Teguise, waarbij de hoofdstad Arrecife zich leent voor een voordelig stedelijk verblijf`,
+    },
+    'a-coruna': {
+      personality: `Galicië's Atlantische havenstad rond de tot UNESCO-werelderfgoed behorende Torre de Hércules (de enige nog werkende Romeinse vuurtoren), met 's werelds langste stedelijke strandboulevard van 13 kilometer, een aangewezen loslaatgebied in het Parque de Santa Margarita en een 24 uur per dag geopende dierenkliniek aan de Calle Marqués de Amboage`,
+      highlight: `de 13 kilometer lange Paseo Marítimo van de jachthavengalerijen via het klifpark bij de Torre de Hércules tot het Castillo de San Antón, plus de stranden Riazor en Orzán buiten het seizoen (okt-mei) en het Atlantische uitzichtpunt Monte San Pedro`,
+      area: `de Ciudad Vieja rond de Plaza de María Pita en de Calle Estrella, de jachthaven met zijn glazen galerijen en de woonwijken Pescadería en Cuatro Caminos landinwaarts`,
+    },
+    aarhus: {
+      personality: `Denemarkens tweede stad, na Kopenhagen met de meest huisdiervriendelijke cafécultuur van Scandinavië, met gratis openbaar vervoer voor honden en 8 officiële loslaatbossen`,
+      highlight: `het Marselisborg Hundeskov, het hele jaar open hondenstrand Bellevue Strand en het openluchtmuseum Den Gamle By`,
+      area: `de Latijnse wijk, Frederiksbjerg en de havenwijk rond Dokk1`,
+    },
+    'abu-dhabi': {
+      personality: `de hoofdstad van de VAE die zich sinds een regeling van januari 2026, waarbij gelicentieerde hotels en restaurants katten en honden mogen verwelkomen, snel opent voor honden, met Yas Island als echt huisdiervriendelijk centrum en 24 uur per dag geopende dierenklinieken, hoewel beperkter dan in Europa, zonder hondenstranden en met de meeste bezienswaardigheden buiten bereik`,
+      highlight: `de 8 kilometer lange strandboulevard Corniche, de huisdiervriendelijke oeverzones Yas Bay en Yas Marina, het Reem Central Park en het Bark Park in Al Bateen, het enige loslaatgebied voor honden in de stad`,
+      area: `Yas Island en Saadiyat met de dichtste verzameling huisdiervriendelijke hotels en hondvriendelijke caféterrassen, plus de centrale wijken langs de Corniche en Khalifa City voor dierenartsen en hondenpensions`,
+    },
+    'aix-en-provence': {
+      personality: `de elegante 17e-eeuwse universiteitsstad van de Provence, waar schaduwrijke caféterrassen, met fonteinen versierde pleinen en het oprijzende massief van de Sainte-Victoire het tot een van de echt hondtolerantste steden van Zuid-Frankrijk maken`,
+      highlight: `het platanendak van de Cours Mirabeau, het Parc Jourdan en de wandelpaden Bibémus en Bimont bij de Sainte-Victoire`,
+      area: `de historische oude stad, de wijk Mazarin en de heuvel Les Lauves rond Cézannes atelier`,
+    },
+    'aix-les-bains': {
+      personality: `een compacte kuurstad in Savoie aan de oever van het Lac du Bourget, Frankrijks grootste natuurlijke meer, waar het bos Bois Vidal en een groen oeverpad de thermale baden en bewaakte stranden vervangen die voor honden verboden blijven`,
+      highlight: `het 18 hectare grote bos Bois Vidal, de historische tuinaanleg van het Parc Thermal en het groene oeverpad bij Cap des Séselets`,
+      area: `de meerpromenade Esplanade en de Petit Port, de kuurwijk rond de Thermes Nationaux en de helling van het Bois Vidal boven de stad`,
+    },
+    ajaccio: {
+      personality: `Corsica's zonnige hoofdstad en geboorteplaats van Napoleon, een Genuese citadel aan een beschutte Middellandse Zee-golf, waar milde winters het hele jaar door, maquis-paden langs de bergkammen, boottochten naar de Sanguinaires-eilanden en het wilde hondenstrand Capo di Feno het tot de meest huisdiervriendelijke basis van het eiland maken`,
+      highlight: `het kamwandelpad Sentier des Crêtes, de Pointe de la Parata met de Sanguinaires-eilanden en het hele jaar open hondenstrand Capo di Feno`,
+      area: `de wijk des Étrangers rond de Cours Grandval, de Vieille Ville rond het Maison Bonaparte en de Quai Napoléon bij de jachthaven`,
+    },
+    alcudia: {
+      personality: `een stad in het noorden van Mallorca met 21.000 inwoners en intacte middeleeuwse stadsmuren uit de 14e eeuw (1,5 kilometer hondvriendelijke rondwandeling), de Romeinse ruïnes van Pollentia uit de 1e eeuw v.Chr. (forum, woonwijk, theater), het Ramsar-wetland S'Albufera, het 6 kilometer lange Platja d'Alcúdia en de één uur durende Iscomar-sneleatamaran naar Ciutadella de Menorca`,
+      highlight: `de 1,5 kilometer lange rondwandeling langs de middeleeuwse stadsmuren, het vrij toegankelijke Romeinse opgravingsterrein van Pollentia en de 30 kilometer noordelijker gelegen klifweg naar de vuurtoren bij Cap de Formentor`,
+      area: `de casc antic binnen de middeleeuwse stadsmuren rond de Plaça de la Constitució, de 2 kilometer zuidelijker gelegen jachthaven van Port d'Alcúdia en het vissersdorp Mal Pas-Bonaire aan de noordkust`,
+    },
+    albufeira: {
+      personality: `de grootste badplaats van de Algarve, een stad op kliffen met twee gezichten, waar de geplaveide middeleeuwse Cidade Velha afdaalt naar het vissersstrand en de drukke vakantiestrook zich naar het oosten uitstrekt, met het hele jaar open hondenstranden vlak voor de poorten van de stad en zo'n 300 zonnige dagen per jaar die het buiten het hoogseizoen van juli en augustus tot een van de meest huisdiervriendelijke kustbestemmingen van Zuid-Europa maken`,
+      highlight: `het klifpad Pine Cliffs tussen Praia da Falésia en Olhos de Água, de Praia da Cova Redonda (hele jaar open hondenstrand) en het flamingo-vlonderpad bij de Praia dos Salgados`,
+      area: `de Cidade Velha rond het uitzichtpunt Pau da Bandeira, de jachthavenpromenade en de vakantiekust Praia da Galé ten westen van de stad`,
+    },
+    alicante: {
+      personality: `de zonovergoten hoofdstad van de Costa Blanca met meer dan 320 zonnige dagen per jaar, waar het Castillo de Santa Bárbara, de door palmen omzoomde Explanada en het hele jaar open hondenstrand Agua Amarga het tot een van de echt huisdiervriendelijkste Middellandse Zee-basissen van Spanje maken`,
+      highlight: `de openluchtpaden bij het Castillo de Santa Bárbara, de Playa de Agua Amarga (hele jaar open hondenstrand) en het kustpad bij de Serra Grossa`,
+      area: `het Casco Antiguo (Santa Cruz) onder het kasteel, de strandboulevard Explanada de España en de boulevard bij de Playa de San Juan ten noorden van de stad`,
+    },
+    amsterdam: {
+      personality: `een van de meest ontspannen en huisdiervriendelijkste hoofdsteden van Europa`,
+      highlight: `het Vondelpark en de loslaatoevers van de Amstel`,
+      area: `de Jordaan en de Grachtengordel`,
+    },
+    angers: {
+      personality: `de groene hoofdstad van Anjou in de Loirevallei, met het middeleeuwse Château d'Angers en zijn wereldberoemde Apocalyps-wandtapijt, meer dan 700 hectare stedelijk groen en een TGV-verbinding van 90 minuten naar Parijs`,
+      highlight: `de promenade du Bout du Monde onder de kasteelmuren, de bospaden van het Parc de Pignerolle 8 kilometer oostelijker en de jaagpaden langs de Bord de Maine`,
+      area: `het voetgangerscentrum rond de Place du Ralliement, de middeleeuwse wijk La Doutre aan de overkant van de Maine en Saint-Aubin bij de kathedraal`,
+    },
+    annecy: {
+      personality: `het "Venetië van de Alpen", een middeleeuwse, door UNESCO geroemde Vieille Ville aan kanalen, het schoonste grote meer van Europa met het hele jaar zwemmogelijkheden voor honden en het 4.000 hectare grote bos van Semnoz met 50 kilometer loslaatpaden vlak ten zuiden van het centrum`,
+      highlight: `de Pont des Amours en de kanalen van de Vieille Ville, het 42 kilometer lange vlakke fietspad rond het meer en de top van het Semnoz-bos op 1.699 meter`,
+      area: `de Vieille Ville rond het Palais de l'Île, de meeroever bij Pâquier en Albigny en de woonwijk Annecy-le-Vieux`,
+    },
+    antibes: {
+      personality: `een haven aan de Côte d'Azur, omringd door Vauban-vestingmuren uit de 16e eeuw, met een van de meest de moeite waard wandelingen met hond aan de Rivièra rond het Cap d'Antibes en een Provençaalse markt onder ijzeren overkappingen in Vieil Antibes`,
+      highlight: `het 5 kilometer lange kustpad Sentier du Littoral (Tirepoil) rond het Cap d'Antibes, het wallenpad boven de Port Vauban en de Plage de la Salis buiten het seizoen`,
+      area: `het ommuurde Vieil Antibes rond de Cours Masséna en de Port Vauban, de woonwijk op het Cap d'Antibes en de strandboulevard Pinède in Juan-les-Pins`,
+    },
+    antwerp: {
+      personality: `België's modehoofdstad en een van zijn hondvriendelijkste steden, met uitgestrekte oeverparken, hondvriendelijke terrassen en een bloeiende boutique-hotelscene`,
+      highlight: `het park Rivierenhof, de oeverpromenade langs de Schelde en het Nachtegalenpark`,
+      area: `de oude stad, Zurenborg en het Zuid`,
+    },
+    arcachon: {
+      personality: `een belle-époque badplaats aan het Bassin d'Arcachon, waar honden met de veerboot oversteken naar Cap Ferret, Europa's hoogste zandduin beklimmen en door de door dennen beschaduwde villa's van de Ville d'Hiver zwerven`,
+      highlight: `het panorama van de Dune du Pilat, de rustige baaistranden buiten het seizoen en de UBA-veerboot naar Cap Ferret`,
+      area: `de strandzone Ville d'Été, de groene belle-époque Ville d'Hiver rond het Parc Mauresque en de oesterhavens van L'Aiguillon en de Port d'Arcachon`,
+    },
+    arles: {
+      personality: `het zuidelijke eindpunt van de Romeinse driehoek van de Provence, een compacte, door UNESCO geroemde stad waar de arena's uit de 1e eeuw nog steeds de Paasferia huisvesten, waar het officiële VVV-kantoor een eigen pagina over reizen met hond bijhoudt, en waar de wilde stranden van de Camargue 30 minuten zuidelijk uitnodigen tot loslopen`,
+      highlight: `de Place du Forum met zijn Van Gogh-perspectieven, de door Van Gogh en Gauguin geschilderde Allée des Alyscamps en de 40 minuten zuidelijk gelegen Plage de Beauduc in de Camargue`,
+      area: `het intra-muros rond de arena's en de Place du Forum, de rechteroever van de Rhône bij Trinquetaille en de wijk La Roquette bij de Boulevard des Lices`,
+    },
+    athens: {
+      personality: `een zonovergoten Middellandse Zee-hoofdstad die reizigers met huisdier verrast met haar goed te belopen wijken en een groeiende boutique-hotelscene die honden het hele jaar door verwelkomt`,
+      highlight: `de Nationale Tuin, de heuvel Filopappou en de kustboulevard bij Faliro`,
+      area: `Koukaki, Monastiraki en Pangrati`,
+    },
+    auckland: {
+      personality: `de zeldzame grote stad waar een hond van elke maat het openbaar vervoer mag gebruiken, gratis op elke bus en trein buiten de doordeweekse spitsuren met muilkorf, en gratis op de havenveerboten op elk moment van de dag`,
+      highlight: `de Meola Reef Reserve, het enige volledig omheinde loslaatpark in het stadscentrum, de wetlandrondwandeling in de Waiatarua Reserve en het Saint Leonards Beach, dag en nacht zonder lijn`,
+      area: `het schiereiland Devonport, het Wynyard Quarter aan de haven en Grey Lynn langs de Great North Road`,
+    },
+    austin: {
+      personality: `een in Texaans Hill Country gelegen hoofdstad zonder zeetoegang rond het Lady Bird Lake, met onomheinde loslaatgebieden die echte terugroeptraining vereisen, een door de staatswetgeving op gezondheid gevormde terras-alleen restaurantcultuur en een openbaar vervoer dat helemaal geen honden vervoert`,
+      highlight: `de Great Lawn in het Zilker Metropolitan Park, het loslaat-zwemeilandje Red Bud Isle en de hondeninstap Auditorium Shores aan het Lady Bird Lake`,
+      area: `South Lamar en South Congress met hun terrasscene, het centrum langs de meerroute en het Zilker-gebied bij het park zelf`,
+    },
+    aveiro: {
+      personality: `het "Venetië van Portugal", een compacte, vlakke kanalenstad met drie omheinde stedelijke hondenparken, een huisdiertolerante esplanada-cultuur, moliceiro-boten die honden aan de lijn toelaten en Atlantische hondenstranden op korte rijafstand`,
+      highlight: `het centrale kanaal met zijn moliceiro-boten, de drie hondenparken (Forca-Vouga, Fonte do Meio en Canal de São Roque) en de gestreepte palheiros van Costa Nova`,
+      area: `de centrale kanalen en de wijk Beira-Mar, het stadspark Parque Infante D. Pedro en de strandzone van Costa Nova`,
+    },
+    avignon: {
+      personality: `de hoofdstad van de Provence en voormalige zetel van zeven pausen, een door UNESCO geroemde ommuurde oude stad, het imposante Palais des Papes (Europa's grootste gotische paleis), de legendarische Pont Saint-Bénézet over de Rhône en een rechtstreekse TGV-verbinding vanuit Parijs in 2 uur 40`,
+      highlight: `de Place du Palais des Papes, de tuinen van de Rocher des Doms met het iconische stadspanorama en de Île de la Barthelasse met 4 kilometer wandelpaden met hond langs de Rhône-oever`,
+      area: `het intra-muros rond het Palais des Papes, de bistrowijk rond de Rue des Teinturiers en de Place de l'Horloge, en de Île de la Barthelasse aan de overkant van de rivier`,
+    },
+    'bad-gastein': {
+      personality: `een belle-époque kuurstad die zich boven een 341 meter hoge waterval opstapelt in de Hohe Tauern, waar de Stubnerkogelbahn honden voor 5 euro naar een hangbrug op 2.246 meter brengt, het vlakke Kötschachtal-pad langs twee hondvriendelijke hutten loopt en op huisdieren gespecialiseerde hotels tijdens thermale behandelingen hondenoppas aanbieden`,
+      highlight: `de platforms bij de Gasteiner waterval, de hangbrug bij de Stubnerkogel en het dalpad door het Kötschachtal naar de Prossau`,
+      area: `de historische oude stad rond de waterval, de Kaiser-Wilhelm-promenade boven de stad en Böckstein richting Sportgastein`,
+    },
+    'bad-ischl': {
+      personality: `de keizerlijke kuurstad waar keizer Frans Jozef 82 zomers doorbracht, met het voor honden aan de lijn toegankelijke Kaiserpark van de Kaiservilla, een Katrinseilbahn die honden met muilkorf en lijn gratis naar 1.400 meter brengt, en een vlakke oeverpromenade Esplanade voor een comfortabele dagelijkse wandeling`,
+      highlight: `het terrein van het Kaiserpark rond de Kaiservilla, de Katrinseilbahn met zijn Alpenpaden en de promenade bij de Trinkhalle langs de Traun`,
+      area: `de oude stad rond de Trinkhalle en de Esplanade, de Kaiserpark-wijk en de stationsbuurt richting Götzstraße`,
+    },
+    barcelona: {
+      personality: `een Middellandse Zee-stad met een hoge huisdierdichtheid, waar de hotels langzaam bijtrekken`,
+      highlight: `het Parc de la Ciutadella, het strand van Poblenou en de heuvels van Collserola`,
+      area: `El Born, Gràcia en het Eixample`,
+    },
+    bari: {
+      personality: `Apulië's hoofdstad aan de Adriatische kust, met een ommuurde middeleeuwse oude stad rond de Basilica San Nicola, Italië's langste strandboulevard (4 kilometer), drie sinds 2020 geopende loslaat-hondenparken en drie 24 uur per dag geopende dierenklinieken`,
+      highlight: `het loslaatgebied in het Parco 2 Giugno, de omheinde hondenterreinen in het Parco Rossani en het Bau Beach in Polignano, 35 minuten zuidelijk met de trein`,
+      area: `Bari Vecchia rond de kathedraal en San Nicola, de winkelwijk Murat en de strandboulevard Lungomare Nazario Sauro`,
+    },
+    basel: {
+      personality: `een van de meest onderschatte hondvriendelijke steden van Europa, Zwitserlands kunsthoofdstad in het drielandenpunt, met twee aangewezen zwemplekken aan de Rijn, een loslaatpark in de Wiese-uiterwaarden en een 24 uur per dag geopende spoed-dierenkliniek`,
+      highlight: `de hondenzwemplek Birsköpfli, het landschapspark Wiese en het Pfalz-terras bij de Münster`,
+      area: `de middeleeuwse oude stad rond de Marktplatz, het creatieve Kleinbasel en de groene Sankt-Alban-wijk`,
+    },
+    bath: {
+      personality: `Engelands Georgiaanse, door UNESCO geroemde kuurstad, compact en goed te voet te verkennen, met een uitgesproken hondtolerante pubcultuur en het 9,6 kilometer lange Bath-Skyline-pad vlak boven het honingkleurige Royal Crescent`,
+      highlight: `het gazon voor het Royal Crescent, het National-Trust-pad Bath Skyline en het jaagpad langs het Kennet-en-Avonkanaal`,
+      area: `de Royal-Crescent-wijk, de rivieroever bij de Pulteney Bridge en Bathwick`,
+    },
+    bayonne: {
+      personality: `de hoofdstad van het Franse Baskenland, waar het roodgeschilderde Vieux Bayonne, de rivieroeverkades van Petit Bayonne en een 2,5 kilometer lange promenade op de Vauban-vestingmuren samenkomen met jambon de Bayonne en Cazenave-chocolade, in een centrum dat zo compact is dat een hond het in 12 minuten van de ene kant naar de andere doorkruist`,
+      highlight: `het Parc de Mousserolles, de rondwandeling op de Vauban-vestingmuren en het wetland Plaine d'Ansot`,
+      area: `het Grand Bayonne rond de kathedraal, de rivieroeverkades van Petit Bayonne en de stationsbuurt Saint-Esprit ten noorden van de Adour`,
+    },
+    begur: {
+      personality: `een middeleeuwse klifstad met 4.000 inwoners aan de Costa Brava, die een 200 meter hoge heuvel bekroont in de comarca Baix Empordà van de provincie Girona, gekenmerkt door de kasteelruïnes uit de 11e eeuw op de top, de vier middeleeuwse wachttorens gebouwd tegen Berberse piratenaanvallen in de 16e eeuw, de iconische 19e-eeuwse cases indianas, gebouwd door welgestelde uit Cuba teruggekeerde mannen uit Begur (de indianos), en een ansichtkaartachtige reeks van zes vissersbaaien die de rotsachtige kaap eronder omzomen (Sa Tuna, Aiguablava, Aiguafreda, Sa Riera, Fornells, Tamariu), verbonden door het 8 kilometer lange Camí de Ronda GR-92, algemeen beschouwd als het landschappelijk mooiste stuk van de hele Costa Brava`,
+      highlight: `de vrij toegankelijke kasteelruïnes van het Castell de Begur uit de 11e eeuw met een 360 graden panoramisch uitzicht over de zes baaien, de middeleeuwse steegjes van de casc antic met de beschilderde gevels van de cases indianas, het klifkustpad Camí de Ronda GR-92 van Sa Riera naar Tamariu en de kiezelbaai Sa Tuna met het strandrestaurant L'Hostal de Sa Tuna`,
+      area: `de casc antic rond de Esglesia de Sant Pere en de Plaça de l'Església, de zes baaien (Sa Tuna, Aiguablava, Aiguafreda, Sa Riera, Fornells, Tamariu) langs de rotsachtige kaap en de corridor vanaf de vuurtoren Cap de Begur langs de GR-92 zuidwaarts naar Tamariu en Llafranc`,
+    },
+    belfast: {
+      personality: `Noord-Ierlands herleefde hoofdstad aan de Belfast Lough, met een uitgesproken hondvriendelijke pubscene in het Cathedral Quarter, de 300 hectare grote wildernis van de Cave Hill die zich vlak boven de stad verheft, het hele jaar open hondenstranden in County Down en twee 24 uur per dag geopende spoed-dierenklinieken`,
+      highlight: `het Cave Hill Country Park tot aan de rotsformatie Napoleon's Nose, het 18 kilometer lange jaagpad langs de Lagan van Stranmillis naar Lisburn en het 20 minuten met de NIR-trein verwijderde, het hele jaar open hondenstrand Helen's Bay`,
+      area: `het Cathedral Quarter rond de Commercial Court, de zuidelijke wijken Ormeau en Stranmillis en de havenzone van het Titanic Quarter`,
+    },
+    belgrade: {
+      personality: `een van de meest betaalbare hoofdsteden van Europa, met het hele jaar open hondenstrand Ada Ciganlija, gratis openbaar vervoer sinds 2025 en Servië's enige 24-uurs dierenkliniek`,
+      highlight: `de vesting Kalemegdan, het schiereiland Ada Ciganlija en het Tašmajdan-park`,
+      area: `Stari Grad, Skadarlija en Dorćol`,
+    },
+    bellagio: {
+      personality: `de parel van het Comomeer, een luxedorp met 3.700 inwoners op het schiereiland waar het meer zich splitst in de Como- en de Lecco-arm, met de neoclassicistische tuinen van de Villa Melzi, de Y-vormige kaap Punta Spartivento, een levendig veerbootknooppunt van de Navigazione naar Varenna en Menaggio en de beboste wandelingen van de Triangolo Lariano die zich direct achter het centro storico verheffen`,
+      highlight: `de neoclassicistische tuinen van de Giardini di Villa Melzi d'Eril, de Y-vormige kaap Punta Spartivento bij de splitsing van het meer en de 1,5 kilometer lange oeverpromenade Lungolago Manzoni`,
+      area: `het centro storico rond de Salita Serbelloni en de Basilica di San Giacomo, de oeverpromenade rond de Piazza Mazzini en de visserssgehuchten Pescallo, San Giovanni en Loppia`,
+    },
+    bergamo: {
+      personality: `een door UNESCO beschermde, ommuurde heuvelstad in Lombardije, met twee huisdiervriendelijke kabelbanen, het 4.700 hectare grote Parco dei Colli aan haar noordflank en het Iseomeer, het Comomeer en het Gardameer, alle binnen een uur bereikbaar voor koele, hondvriendelijke dagtripjes`,
+      highlight: `de 6 kilometer lange rondwandeling op de UNESCO-stadsmuren Mura Venete, de beboste heuvelkammen van het Parco dei Colli boven de Città Alta en de kabelbaan San Vigilio naar het panoramakasteel op 496 meter`,
+      area: `de Città Alta rond de Piazza Vecchia, de Borgo Pignolo rond de Accademia Carrara en de heuvel San Vigilio`,
+    },
+    bergen: {
+      personality: `Noorwegens poort naar de fjorden, ingeklemd tussen zeven bergen en de zee, met gratis openbaar vervoer voor honden, leibandvrije bergen op 7 minuten van het stadscentrum en een UNESCO-Hanzekade aan de haven`,
+      highlight: `de berg Fløyen met de kabelbaan Fløibanen, het kampad Vidden naar de berg Ulriken en de kleurrijke Bryggen-kade`,
+      area: `Bryggen, Sandviken en Marken`,
+    },
+    berlin: {
+      personality: `wellicht Europa's hondvriendelijkste hoofdstad. Honden reizen mee met het openbaar vervoer en mogen veel winkels vrij binnenlopen`,
+      highlight: `de Tiergarten, het Tempelhofer Feld en de Grunewald`,
+      area: `Prenzlauer Berg, Mitte en Kreuzberg`,
+    },
+    bern: {
+      personality: `een van de huisdiervriendelijkste hoofdsteden van Europa, Zwitserlands UNESCO-oude stad biedt 6 kilometer overdekte arcadegangen, drie stadsbossen op tramafstand en de toonaangevende universitaire diergeneeskundige kliniek van het land`,
+      highlight: `het leibandvrije Bremgartenwald, de 5 kilometer lange oeverpromenade langs de Aare en het BärenPark onder de oude stad`,
+      area: `de oude stad met haar UNESCO-arcades, de Aare-oeverwijken Marzili en Matte en het uitzichtpunt Rosengarten`,
+    },
+    beziers: {
+      personality: `een Hérault-stad met 78.000 inwoners en een versterkte gotische kathedraal die 60 meter boven de Orb troont, met het UNESCO-Canal du Midi dat rechtstreeks door de stad loopt, de spectaculaire sluizentrap Neuf Écluses de Fonsérannes met haar negen sluizen, de 4,6 hectare grote Engelse tuin Plateau des Poètes en een zeldzaam, het hele jaar leibandvrij mediterraan hondenstrand in Valras-Plage, 15 minuten zuidelijk`,
+      highlight: `het leibandvrije hondenstrand plage canine in Valras-Plage, de Neuf Écluses de Fonsérannes en het aquaduct Pont-Canal de l'Orb, plus het terras van de Cathédrale Saint-Nazaire met uitzicht op de middeleeuwse Pont Vieux`,
+      area: `de voetgangerszone Allées Paul Riquet en het Plateau des Poètes, de oude stad Saint-Aphrodise onder de kathedraal en de kanaalwijk Fonsérannes ten westen van het centrum`,
+    },
+    biarritz: {
+      personality: `een Baskische surfstad met een heel ontspannen houding tegenover honden en het leven buiten`,
+      highlight: `het Grande Plage en het kustpad van de Côte Basque`,
+      area: `het Port Vieux en de wijk Les Halles`,
+    },
+    bilbao: {
+      personality: `een van de hondvriendelijkste steden van Spanje, waar de tram honden van elk formaat verwelkomt, pintxos-bars ze officieel binnen accepteren en het beroemde beeld "Puppy" bij het Guggenheim elke hond een thuis belooft`,
+      highlight: `de leibandvrije zone in het Parque Doña Casilda, het hondencompartiment van de kabelbaan Artxanda en de wandeling langs de Nervión-oever naar het Guggenheim`,
+      area: `de wijken Abando en Indautxu, de zeven straten van de Casco Viejo en de oeverpromenade Abandoibarra`,
+    },
+    bled: {
+      personality: `Slovenië's ansichtkaart-alpendorp rond een smaragdgroen gletsjermeer, waar de 6 kilometer lange oeverrondweg een beroemde stadswandeling voor honden is, het kasteel op de rots honden aan de lijn uitdrukkelijk welkom heet op zijn buitenterrassen en de poort naar Nationaal Park Triglav direct aan de rand van het dorp begint`,
+      highlight: `de 6 kilometer lange meerrondweg met uitzicht op het eiland Bled en de kerk, de buitenterrassen en weergangen van het kasteel Bled en de houten vlonderpaden van de Vintgarkloof`,
+      area: `de oostelijke dorpsoever rond de Cesta svobode, de kasteelheuvel boven het meer en het rustige uiteinde Bled Jezero/Mlino`,
+    },
+    bologna: {
+      personality: `een middeleeuwse Italiaanse stad van arcadegangen en voedselmarkten, die honden welkom heet in haar cafés, pleinen en de omliggende heuvels`,
+      highlight: `het park Giardini Margherita, het door arcades omzoomde San-Luca-pad (3,8 kilometer) en de heuvels boven de wijk Bolognina`,
+      area: `de voedselwijk Quadrilatero, Santo Stefano en de universiteitswijk rond de Via Zamboni`,
+    },
+    bolzano: {
+      personality: `de tweetalige Italiaans-Tiroolse poort naar de Dolomieten, waar wijngaardpromenades bergdalen ontmoeten en een kabelbaanrit van 12 minuten honden van het warme Etschdal naar het koele Ritten-plateau brengt`,
+      highlight: `de Talferwiesen langs de Talfer, de historische 5 kilometer lange panoramapromenade Guntschna boven Gries en de wandelpaden van het Ritten-plateau, te bereiken met de kabelbaan`,
+      area: `de door arcades omzoomde oude stad rond Waltherplatz en Obstmarkt, de groene wijk Gries op de westelijke hellingen en het Ritten-hoogland, te bereiken met de kabelbaan`,
+    },
+    bonn: {
+      personality: `Beethovens geboortestad en voormalige bondshoofdstad, een groene, goed te voet te verkennen Rijnstad waar honden welkom zijn op de terrassen bij de Markt, met de 160 hectare grote Rheinaue en de wandelpaden van het Siebengebirge aan de overkant van de Rijn`,
+      highlight: `de leibandvrije wei in de Rheinaue, het 40 km² grote Kottenforst en de Rijnoeverpromenade met veerverbindingen naar Beuel`,
+      area: `de oude stad rond Münsterplatz en Markt, Bad Godesberg en de oostelijke Rijnoever in Beuel`,
+    },
+    bordeaux: {
+      personality: `een stad waar honden over de wijnbarterrassen van de Chartrons slenteren, de Garonne-oever verkennen en welkom zijn in de meeste boutique-hotels`,
+      highlight: `het Parc Bordelais, de kades langs de Garonne en de Jardin Public`,
+      area: `de Chartrons, Saint-Pierre en het Triangle d'Or`,
+    },
+    'boulogne-sur-mer': {
+      personality: `een havenstad aan het Kanaal in Pas-de-Calais met 41.000 inwoners (130.000 in de agglomeratie), Frankrijks in tonnage grootste vissershaven, thuisbasis van Nausicaá, het grootste aquarium van Europa, omringd door de best bewaarde stadsmuren uit de 13e eeuw van heel Frankrijk met een 1,5 kilometer lange verhoogde weergang, bekroond door de 101 meter hoge italianiserende koepel van de Cathédrale Notre-Dame, met de krijtrotsen en vuurtoren van Cap d'Alprech 3 kilometer zuidelijk, het kustpad GR120 noordwaarts naar Wimereux en Cap Gris-Nez en directe TGV inOui naar Parijs Gare du Nord in 2u25`,
+      highlight: `de 1,5 kilometer lange wandeling op de weergang van de 13e-eeuwse stadsmuren van de Haute-Ville, de koepel en crypte van de Cathédrale Notre-Dame de Boulogne, de strandboulevard van Nausicaá en de wandeling bij de port de pêche, Frankrijks grootste vissershaven, plus de vuurtoren en krijtrotsen van Cap d'Alprech met het kustpad GR120 naar Wimereux`,
+      area: `de ommuurde Haute-Ville rond de Place Godefroy de Bouillon en de Cathédrale Notre-Dame, de benedenstad tussen de Place Dalton en het TGV-station Boulogne-Ville, de strandboulevard Boulevard Sainte-Beuve tegenover Nausicaá en de oostelijke voorstad Saint-Martin-Boulogne`,
+    },
+    bournemouth: {
+      personality: `de badplaats aan de zuidkust met zeven mijl gouden zandstrand, het hele jaar open hondenstranden bij Fisherman's Walk en het Hengistbury-uiteinde en het New Forest National Park 30 minuten noordelijk voor leibandvrij wandelen`,
+      highlight: `het natuurreservaat Hengistbury Head, het 2 kilometer lange langgerekte Bournemouth Gardens Park en de kloven Branksome, Durley en Alum Chine die naar het strand afdalen`,
+      area: `het stadscentrum en de pier, Westbourne en Boscombe langs de kliffen en het oostelijke uiteinde Hengistbury Head/Southbourne`,
+    },
+    braga: {
+      personality: `Portugals jongste en meest studentvriendelijke historische stad, waar barokke kerken, granieten pleinen en dierenvriendelijke terrassen de atlantisch-koele landschap van de Minho ontmoeten`,
+      highlight: `de beboste trappenpartij van Bom Jesus do Monte, het Parque da Ponte aan de rivier en de kloostertuinen van het Mosteiro de Tibães`,
+      area: `de historische wijk Sé, de cafébuurt Sá de Miranda en de groene universiteitscampus`,
+    },
+    brasov: {
+      personality: `een middeleeuwse Saksische citadel aan de voet van de Karpaten, waar de gotische silhouet van de Zwarte Kerk, het pastelkleurige Piața Sfatului en de beboste paden van de Tâmpa een ongewoon goed te belopen oude stad omkaderen, met directe toegang tot dagtripjes naar Bran, Râșnov en Peleș`,
+      highlight: `de bospaden en de kabelbaan van de berg Tâmpa, het Parcul Tractorul en het Parcul Tiberiu Brediceanu, plus de geplaveide Strada Sforii`,
+      area: `de oude stad rond het Piața Sfatului, de wijk Schei onder de Tâmpa en het district Centrul Civic`,
+    },
+    bratislava: {
+      personality: `een compacte, betaalbare Midden-Europese hoofdstad waar honden de geplaveide oude-stadspleinen, de Karpatenbossen en de Donau-oevers verkennen, allemaal te voet vanuit het centrum bereikbaar`,
+      highlight: `het bos Železná Studnička, het Sad Janka Kráľa en de Donau-oever bij Devín`,
+      area: `de oude stad, Petržalka en Devín`,
+    },
+    bregenz: {
+      personality: `Oostenrijks festivalstad aan de Bodensee, ingeklemd tussen meer en berg`,
+      highlight: `de meerbeplanting aan de oever, het Pipeline-oeverpad richting Lochau en de wandelpaden van de Pfänder`,
+      area: `de oeverpromenade, de bovenstad en Mehrerau`,
+    },
+    bremen: {
+      personality: `een Hanzestad in Noord-Duitsland waar het UNESCO-monument van de Stadsmuzikanten op de Marktplatz een hond centraal stelt in de stedelijke identiteit, het 200 hectare grote Bürgerpark direct aan het centrum ligt en stube-restaurants honden het hele jaar binnen verwelkomen`,
+      highlight: `het Bürgerpark en het aangrenzende Stadwald, de rondwandeling op de Wallanlagen en het zwemstrand aan de Werdersee`,
+      area: `de oude stad rond de Marktplatz, het Viertel en het Schnoor`,
+    },
+    brest: {
+      personality: `de Bretonse Atlantische marinehaven en grootste stad van de regio, waar de diepe natuurlijke haven, het 50 hectare grote dal Vallon du Stang-Alar, het strandterras Cours Dajot en de Penn-ar-Bed-veerboten naar de Iroise-eilanden het tot een van de moeite waard huisdiervriendelijke basissen in Noordwest-Frankrijk maken`,
+      highlight: `het dal Vallon du Stang-Alar met zijn botanisch conservatorium, het terras Cours Dajot boven de Rade de Brest en het kustpad GR34 westwaarts naar de vuurtoren Pointe Saint-Mathieu`,
+      area: `het wederopgebouwde naoorlogse centrum rond de Rue de Siam en de Place de la Liberté, de wijk Saint-Marc en Stang-Alar met het beboste dal en de wijk Recouvrance aan de overkant van de Pont de Recouvrance`,
+    },
+    burgos: {
+      personality: `een Castiliaanse hoogvlaktestad op 860 meter, bekroond door een gotische UNESCO-kathedraal, een belangrijk station op de Jakobsweg met elf officiële hondenrenzones, ontspannen wandelingen langs de rivier de Arlanzón en een 24 uur per dag geopende referentie-dierenkliniek`,
+      highlight: `de Paseo del Espolón en de Arlanzón-oever, het Parque del Castillo boven de kathedraal en de 6 kilometer lange bosuitbreiding Parque de Fuentes Blancas`,
+      area: `het historische centrum rond de kathedraal, de kasteelheuvel Castillo en de oeverpromenade Espolón`,
+    },
+    brighton: {
+      personality: `Groot-Brittannië's betrouwbaar hondvriendelijkste kuststad, waar huisdieren gratis met de bus reizen en het Hove Lawns Beach het hele jaar geopend blijft`,
+      highlight: `Hove Lawns, het Preston Park en het Stanmer Park bij de South Downs`,
+      area: `The Lanes, Kemptown en de oeverpromenade van Hove`,
+    },
+    brisbane: {
+      personality: `de hondvriendelijkste rivierstad van Australië, waar de CityCat-veerboten buiten de spitsuren honden aan de lijn en met muilkorf vervoeren, terwijl bussen en treinen volledig gesloten blijven, ondersteund door meer dan 160 gemeentelijke leibandvrije zones`,
+      highlight: `het leibandvrije terrein Powerhouse Park in New Farm, het klifpad van Kangaroo Point en de oeverpromenade van Sandgate tot Shorncliffe`,
+      area: `New Farm en Teneriffe, Kangaroo Point en West End`,
+    },
+    bristol: {
+      personality: `een van de groenste steden van Engeland, 70% van de pubs verwelkomt honden, met gratis openbaar vervoer voor huisdieren en de iconische Clifton Suspension Bridge en het 162 hectare grote Ashton Court Estate vlak voor de deur`,
+      highlight: `het Ashton Court Estate, de Downs boven de Avon-kloof en de drijvende Bristol Ferry naar Wapping Wharf`,
+      area: `Clifton, de Harbourside en Stokes Croft`,
+    },
+    brno: {
+      personality: `Moravië's compacte en opmerkelijk betaalbare hoofdstad met 14 omheinde gemeentelijke leibandvrije zones, een hondvriendelijke pivnice-cultuur door het hele centrum en een het hele jaar open hondenzwemmeer op 25 minuten met de tram`,
+      highlight: `het park op de heuvel Špilberk, het stuwmeer Brno Dam bij Bystrc en dagtripjes naar de Zuid-Moravische wijnstreek naar Pavlov en Mikulov`,
+      area: `het middeleeuwse centrum rond het náměstí Svobody, Lužánky en de meerwijk Bystrc`,
+    },
+    bruges: {
+      personality: `een door UNESCO beschermde Vlaamse middeleeuwse stad die je in 25 minuten van het ene eind naar het andere loopt, waar de 7 kilometer lange wallenrondweg honden aan de lijn standaard verwelkomt, de Belgische bruinbierkroegcultuur honden vanzelfsprekend vindt en NS-achtige NMBS-treinen honden gratis meenemen naar het hondenstrand van Zeebrugge, 15 minuten noordelijk`,
+      highlight: `het park Minnewater, het "meer der liefde", de 7 kilometer lange wallenrondweg Vesten met vier windmolens en het kanaalpad Damse Vaart naar het dorp Damme`,
+      area: `de oude stad rond Markt en Burg, de rustige Sint-Annawijk en het zuidelijke uiteinde Begijnhof en Minnewater`,
+    },
+    brussels: {
+      personality: `een onderschatte bestemming voor eigenaren van huisdieren met royale parken, een compact, goed te voet te verkennen centrum en een gastvrijheidscultuur die dieren echt verwelkomt`,
+      highlight: `het Bois de la Cambre, het Parc du Cinquantenaire en het Zoniënwoud`,
+      area: `Elsene, Sint-Gillis en de Europese wijk`,
+    },
+    bucharest: {
+      personality: `een van de meest betaalbare hoofdsteden van de EU, met een 187 hectare groot centraal park, twee omheinde gemeentelijke hondenrenzones erin en Roemeniës grootste 24-uurs dierenkliniek`,
+      highlight: `het Herăstrău-park, de tuin Cișmigiu en het Snagov-meer`,
+      area: `de oude stad Lipscani, Floreasca en de Calea Victoriei`,
+    },
+    budapest: {
+      personality: `een stad van geweldige architectuur en een groeiende hondvriendelijke scene. Honden reizen mee met de metro, hebben toegang tot de meeste parken en zijn welkom in Boedapests beroemde ruïnebars`,
+      highlight: `het Margarethaeiland, het stadspark (Városliget) en de Donau-oeverpromenades`,
+      area: `het 7e district (de Joodse wijk), de Boedapester burchtwijk en Óbuda`,
+    },
+    cadiz: {
+      personality: `een van de oudste steden van West-Europa, een compacte, ommuurde Andalusische haven omringd door Atlantische vestingwallen, waar honden aan de lijn over de oude-stadspleinen zwerven en, buiten het seizoen, mee mogen naar het strand`,
+      highlight: `de botanische tuinen Parque Genovés, de alleen 's winters toegestane hondentoegang tot Playa de la Victoria en Santa María del Mar en het eigen hondenstrand Torregorda aan het eind van de Cortadura`,
+      area: `de ommuurde oude stad rond Plaza de San Antonio en Plaza de Mina, de oeverpromenade La Caleta en de vestingwallen Campo del Sur`,
+    },
+    caen: {
+      personality: `de middeleeuwse Normandische hoofdstad, gesticht door Willem de Veroveraar, met twee romaanse abdijen, een 1.000 jaar oud kasteel op een uitgestrekt terrein dat honden aan de lijn toelaat, rivier- en kanaalwandelingen langs de Orne en een rit van 30 minuten naar de D-Day-landingsstranden en de stad van het tapijt van Bayeux`,
+      highlight: `de weergangen en binnenplaatsen van het Château de Caen, de Colline aux Oiseaux en de Jardin des Plantes en het kanaaljaagpad dat Caen verbindt met Ouistreham aan het Kanaal`,
+      area: `de wijk Vaugueux ten oosten van het kasteel, het riviereiland Presqu'île aan de Orne en de universiteits- en abdijwijk Beaulieu`,
+    },
+    cagliari: {
+      personality: `de Sardijnse hoofdstad met 8 kilometer stadsstrand bij Poetto, een seizoensgebonden gemeentelijk hondengedeelte, een het hele jaar open hondenbaai in Calamosca, de 1.600 hectare grote flamingolagune Molentargius en een echte 24-uurs spoed-dierenkliniek`,
+      highlight: `het panorama vanaf het Bastione di Saint Remy, het kustpad Sella del Diavolo boven Calamosca en de vlakke 7 kilometer lange flamingorondweg in het Parco di Molentargius`,
+      area: `de wijk Marina rond de Via Sardegna, de heuvelwijk Castello en de oeverpromenade Poetto`,
+    },
+    calais: {
+      personality: `een veerhaven aan het Kanaal in Pas-de-Calais met 67.000 inwoners recht tegenover de witte kliffen van Dover, met de drukste veerbootverbinding over het Kanaal van Europa (P&O, DFDS, Irish Ferries), de voor huisdieren perfecte Eurotunnel Le Shuttle vanaf Coquelles, waar honden tijdens de hele oversteek van 35 minuten in de auto blijven, het UNESCO-belfort van het Hôtel de Ville en Rodins bronzen beeld van de burgers van Calais, een 12 kilometer lange zandcorridor Plage de Calais en Sangatte en de Grand Site Cap Blanc-Nez / Cap Gris-Nez met zijn krijtrotsen 35 kilometer westelijk`,
+      highlight: `het UNESCO-belfort van het Hôtel de Ville, gratis te beklimmen, Rodins burgers van Calais op de Place du Soldat Inconnu en de krijtrotswandelpaden van de Grand Site Cap Blanc-Nez / Cap Gris-Nez tegenover de witte kliffen van Dover, 35 kilometer over het water van het Kanaal`,
+      area: `het historische centrum tussen de Place d'Armes en het Hôtel de Ville langs de Boulevard Jacquard, de strandboulevard Calais-Nord langs de Digue Gaston Berthe en de terminal van de Eurotunnel Le Shuttle bij Coquelles 5 kilometer westelijk`,
+    },
+    calpe: {
+      personality: `een Costa Blanca-stad met 24.000 inwoners in de provincie Alicante, gekenmerkt door de 332 meter hoge kalksteenmonoliet Peñón de Ifach (Spanjes kleinste natuurpark, beschermd sinds 1987), met de middeleeuwse casco antiguo en de mudéjar-gotische Iglesia Antigua, het flamingowetland Las Salinas midden in de stad, de Romeinse opgravingsbaden Banys de la Reina en het blauwbevlagde Playa La Fossa-Levante (950 meter zandstrand direct ten noorden van de Peñón)`,
+      highlight: `het basispad in het natuurpark Peñón de Ifach (honden aan de lijn op het toegangspad, niet toegestaan in de bovenste tunnel/het topgebied), de hondvriendelijke oeverpromenaderondweg van Las Salinas met vaste flamingo's en de Romeinse visbaden Banys de la Reina aan het zuidelijke uiteinde van de Playa Arenal-Bol`,
+      area: `de middeleeuwse casco antiguo, die oploopt naar het uitzichtpunt Forat de Calp, de Paseo Marítimo Princesa de Asturias langs de Playa La Fossa en de vissershaven Puerto Pesquero aan de voet van de Peñón`,
+    },
+    cambridge: {
+      personality: `een van Engelands betrouwbaar hondvriendelijkste kleine steden, met uitgestrekte leibandvrije stadsweiden (Jesus Green, Midsummer, Coe Fen), historische pubs die honden aan de lijn welkom heten in de schenkruimte, en directe treinen van Greater Anglia van 50 minuten vanuit London King's Cross`,
+      highlight: `het oeverpad The Backs, de Grantchester Meadows met de theetuin The Orchard en de wandelpaden van de ijzertijd-heuvelvesting in het Wandlebury Country Park`,
+      area: `het historische centrum rond de King's Parade, de wijk Mill Road en de oeverwijk Newnham`,
+    },
+    cannes: {
+      personality: `een glamoureuze stad aan de Franse Rivièra met een verrassend ontspannen hondencultuur, waar de terrassen in Le Suquet, de Marché Forville en de westelijke stranden honden het hele jaar door verwelkomen`,
+      highlight: `het beboste eiland Île Sainte-Marguerite, het Plage de la Bocca en de geplaveide steegjes van Le Suquet`,
+      area: `Le Suquet (de oude stad), de wijk Marché Forville en La Bocca`,
+    },
+    capri: {
+      personality: `het legendarische kalksteeneiland in de Golf van Napels, waar het rustige Anacapri bovenop de huisdiervriendelijke basis vormt, veerboten vanuit Napels en Sorrento het hele jaar honden aan de lijn meenemen en de klifpaden Via Krupp en Punta Tragara zich openen naar de rotsen van de Faraglioni`,
+      highlight: `het uitzichtpunt Punta Tragara boven de Faraglioni, de met bougainville omzoomde Giardini di Augusto en de Via Krupp, en de tuinen van de Villa San Michele 305 meter boven Marina Grande in Anacapri`,
+      area: `Anacapri (het rustigere bovendorp rond de Piazza Caprile en de Via Migliara), de gordel van Capri-stad van Quisisana tot Punta Tragara en de veerhaven Marina Grande`,
+    },
+    cardiff: {
+      personality: `de Welshe hoofdstad met een van de grootste stedelijke parknetwerken van Groot-Brittannië, 130 hectare leibandvrije oeverweiden in het Bute Park en de Pontcanna Fields tien minuten van het kasteel, een wandeling van 2 kilometer op de Cardiff-Bay-stormvloedkering rechtstreeks naar de Penarth Pier en een 24 uur per dag geopende referentie-spoedkliniek vijftien minuten noordelijk`,
+      highlight: `het Bute Park langs de rivier de Taff, de wandeling over de Cardiff-Bay-stormvloedkering naar de Penarth Pier en de hondvriendelijke begane grond van Caerphilly Castle`,
+      area: `het compacte stadscentrum rond Cardiff Castle, de wijk Pontcanna en de oeverpromenade Cardiff Bay bij Mermaid Quay`,
+    },
+    carcassonne: {
+      personality: `de grootste middeleeuwse vestingstad van Europa, een UNESCO-citadel op een heuvel in de Aude, waar honden aan de lijn 3 kilometer dubbele vestingmuren, 52 torens en de buitenplaatsen van het Château Comtal doorkruisen, terwijl het jaagpad van het Canal du Midi vlak en schaduwrijk door de benedenstad loopt`,
+      highlight: `de buitenplaatsen en de onderste weergang van het Château Comtal in La Cité, de rivieroversteek Pont Vieux naar de Bastide Saint-Louis bij zonsondergang en de beboste oostoever van het Lac de la Cavayère om te zwemmen buiten het seizoen`,
+      area: `La Cité op de heuvel ten oosten van de Aude, de rasterstadwijk Bastide Saint-Louis aan de overkant van de Pont Vieux en de kanaalwijk Bassin du Pont Rouge bij het station`,
+    },
+    cascais: {
+      personality: `Lissabons elegante kustontsnapping, waar bijna elk jachthaventerras ongevraagd waterbakjes serveert en de oeverpromenade Paredão bij zonsondergang volloopt met honden`,
+      highlight: `het schaduwrijke Parque Marechal Carmona, het klifpad Boca do Inferno en de wilde Atlantische duinpaden van Guincho en Cresmina`,
+      area: `het historische centrum rond de Largo Luís de Camões, de jachthavenwijk en de wijk Birre bij het natuurpark`,
+    },
+    catania: {
+      personality: `Sicilië's uit lava gebouwde barokke hoofdstad aan de voet van de Etna, met drie 24 uur per dag geopende dierenklinieken, een het hele jaar open gemeentelijk hondenstrand bij de Plaja en een door UNESCO beschermde oude stad waar hondvriendelijke terrassen van de Piazza Duomo tot de Via Crociferi de norm zijn`,
+      highlight: `de tuinen van de Villa Bellini aan de Via Etnea, de leibandvrije area cani in het Parco Vulcania, de van lava geplaveide vismarkt Pescheria en het hondenstrand bij het Lido Azzurro`,
+      area: `de door UNESCO beschermde centro storico rond de Piazza Duomo, de universiteitswijk Borgo en de strandboulevard Plaja aan de Viale Kennedy`,
+    },
+    'cesky-krumlov': {
+      personality: `een UNESCO-oude stad met 13.000 inwoners onder een uitgestrekt renaissancekasteel aan een nauwe bocht van de Moldau in Bohemen, waar honden aan de lijn welkom zijn op de beschilderde kasteelbinnenplaatsen, op de Mantelbrug en in de barokke slottuin, maar de vlottochten en de museuminterieurs verboden terrein blijven`,
+      highlight: `de vijf buitenplaatsen van het kasteel Český Krumlov en de driedubbele Mantelbrug, de barokke slottuin Zámecká zahrada boven de Moldau-bocht en de hondenwandelstrook in het stadspark Jelení zahrada aan de rivier`,
+      area: `het geplaveide Vnitřní Město rond het Náměstí Svornosti, de oeverstraat Parkán onder het kasteel en de wijk Latrán aan de voet van de kasteelheuvel`,
+    },
+    boston: {
+      personality: `de oudste te voet te verkennen stad van de VS en Nieuw-Engelands hoofdstad aan meer en haven, met het opvallende Off-Leash-Hours-programma in meer dan 20 openbare parken (voorop het Boston Common, het oudste openbare park van het land uit 1634), de 27 kilometer lange Charles River Esplanade, het 4 kilometer lange, volledig aan de lijn begaanbare Freedom Trail, grotere honden die buiten de spitsuren naar goeddunken van de bestuurder mee mogen in de MBTA-T-metro (zeldzaam in de VS), en harde nor'easter-winters die het uitlaten van december tot maart tot een ronde langs verwarmde terrassen maakt (Trillium Fort Point, Lower Depths)`,
+      highlight: `de Off-Leash-Hours van zonsopgang tot 9 uur op het Boston Common, het Peters Park (het enige omheinde leibandvrije hondenpark binnen de stadsgrenzen), de 27 kilometer lange Charles River Esplanade, het hele Freedom Trail en het Arnold Arboretum, en buiten het seizoen de oeverrondweg Castle Island/Pleasure Bay`,
+      area: `Back Bay en Beacon Hill voor esplanade en common vlak voor de deur, het South End voor het Peters Park en de terrassen bij Beehive, Seaport/Fort Point voor de Harborwalk en de biertuin van Trillium, Cambridge voor de terrassen bij Harvard Square en de noordelijke Charles-oever`,
+    },
+    chamonix: {
+      personality: `de bergsporthoofdstad van de Alpen aan de voet van de Mont Blanc, waar honden aan de lijn mee mogen in de dalbussen, de Mont-Blanc Express en bijna elke kabelbaan, inclusief de tandradbaan Montenvers naar de Mer de Glace, en het VVV-kantoor een officiële lijst hondvriendelijke wandelingen publiceert; alleen de kabelbaan naar de Aiguille du Midi en het natuurreservaat Aiguilles Rouges (met het Lac Blanc) blijven verboden terrein`,
+      highlight: `de beekjes in het Paradis des Praz, het door het dal lopende bospad Petit Balcon Sud, de wandeling naar de waterval Cascade du Dard en een duik in het Lac des Gaillands onder de Mont Blanc`,
+      area: `het voetgangerscentrum rond de Rue du Docteur Paccard, Les Praz voor de Flégère-kant en de golfweiden en Argentière voor rustigere verblijven bij de wandelroute-vertrekpunten`,
+    },
+    chicago: {
+      personality: `de hoofdstad aan het Michiganmeer in het Midwesten met een van de grootste Amerikaanse netwerken van Dog Friendly Areas (meer dan 25 omheinde leibandvrije DFA's plus het eigen Montrose Dog Beach, het enige leibandvrije strand van de stad), een vlak 29 kilometer lang Lakefront Trail langs het Michiganmeer, het 485 hectare grote Lincoln Park en ruige winters die het uitlaten van december tot maart tot een ronde langs verwarmde terrassen maken (Kaiser Tiger, Big Star)`,
+      highlight: `het Montrose Dog Beach in Uptown, de DFA Wiggly Field in het Lincoln Park, het Lakefront Trail en de gratis rondwandeling om de Lincoln Park Zoo, de Chicago Riverwalk en de wandeling aan de lijn rond "The Bean" (Cloud Gate) in het Millennium Park`,
+      area: `Lincoln Park en Lakeview voor hotels bij de hondenparken en de terrassen bij Wrigley Field, Wicker Park en Logan Square voor restaurantterrassen en West Loop en River North voor de Chicago Riverwalk en de restaurantscene bij Fulton Market`,
+    },
+    ciutadella: {
+      personality: `Menorca's voormalige hoofdstad aan de wilde westkust van het eiland, een in Italiaanse stijl honingkleurige oude stad rond de Plaça d'es Born en de 14e-eeuwse gotische kathedraal, waar het 185 kilometer lange Camí de Cavalls GR-223 begint bij de vuurtoren Castell de Sant Nicolau, het UNESCO-talayot-megaliethgraf Naveta des Tudons 4 kilometer oostelijk ligt en de meest gefotografeerde baaien van Menorca (Cala Macarella, Cala Macarelleta, Cala en Turqueta) van november tot maart weer open zijn voor honden aan de lijn`,
+      highlight: `de Plaça d'es Born en de Catedral de Menorca, het UNESCO-megaliethgraf Naveta des Tudons, de baaien in het zuidwesten bij Cala Macarella, Cala en Turqueta en Cala Galdana en het Camí de Cavalls GR-223 vanaf de vuurtoren Castell de Sant Nicolau`,
+      area: `de oude stad rond de Plaça d'es Born en de kathedraal, de kades van de Port de Ciutadella aan de Pla de Sant Joan en de baaien in het zuidwesten tussen Cala Galdana en Cap d'Artrutx`,
+    },
+    colmar: {
+      personality: `de hoofdstad van de Elzasser wijnroute, een sprookjesstad van met bloemen versierde vakwerksteegjes en de kanalen van Petite Venise, volledig in de buitenlucht te verkennen, waar honden aan boord mogen van de platte boten Sweet Narcisse en de Petit Train Blanc en Eguisheim, Riquewihr en Kaysersberg op korte rijafstand door de wijngaarden liggen`,
+      highlight: `de groene long van het Parc du Champ-de-Mars, het 780 m² grote omheinde Parc canin bij het zwembad Aqualia en de oeverpaden bij het Lac Blanc in de Vogezen`,
+      area: `de kanalen van Petite Venise, de oude stad rond de Grand'Rue en de wijk Champ-de-Mars bij het station`,
+    },
+    cologne: {
+      personality: `een nuchtere Rijnlandse stad waar honden met een kindertarief mee de trein in mogen, drinken bij waterbakjes voor kroegen en hun baasjes vergezellen langs de Rijnoever`,
+      highlight: `het oeverpad langs de Rijn, het bospark Stadtwald en het loslaatgebied in het Beethovenpark`,
+      area: `de oude stad rond de Dom, Ehrenfeld en de wijk Severinsviertel`,
+    },
+    como: {
+      personality: `een deftige Italiaanse meerstad aan de zuidpunt van het Comomeer, met huisdiervriendelijke veerboten naar Bellagio en Varenna, een hondvriendelijke kabelbaan omhoog naar de panorama's van Brunate en prachtige villatuinen (Olmo, Balbianello) die open zijn voor honden aan de lijn`,
+      highlight: `de meerpromenade Passeggiata Lino Gelpi, het panoramapad naar de Faro Voltiano boven Brunate en de tuinen van de Villa Olmo`,
+      area: `de meerpromenade rond de Piazza Cavour, het middeleeuwse Centro storico en de oostelijke oever bij Villa Geno`,
+    },
+    coimbra: {
+      personality: `een UNESCO-universiteitsstad die van haar heuvel afdaalt naar de Mondego, waar honden aan de lijn door middeleeuwse steegjes zwerven en het rivierbos Choupal het dagelijkse wandeldoel is`,
+      highlight: `het oeverbos Mata Nacional do Choupal, het Parque Verde do Mondego met zijn voetgangersbrug Pedro & Inês en de open binnenplaatsen van Europa's oudste universiteit`,
+      area: `de Baixa (benedenstad) langs de Mondego, de Alta (bovenstad) rond de universiteit en de zuidoever bij de brug Pedro & Inês`,
+    },
+    conwy: {
+      personality: `een middeleeuwse ommuurde kasteelstad aan de kust van Noord-Wales en een poort naar Eryri (Snowdonia), waar honden de kade, de riviermonding en de hondvriendelijke pubs mogen delen, plus geweldige heuvel- en bergwandelingen, waarbij het kasteelinterieur en de muurpaden alleen voor assistentiehonden zijn`,
+      highlight: `de rondwandeling over de Conwy Mountain boven de stad, het hondvriendelijke wandelpad naar de Aber Falls in Eryri en de Bodnant Garden op zijn hondendagen`,
+      area: `de ommuurde stad en de Conwy Quay, de jachthaven en Conwy Morfa en het pad langs de riviermonding richting de bergen`,
+    },
+    copenhagen: {
+      personality: `een stad die voorop loopt in Europa op het gebied van dierenwelzijn: honden reizen gratis mee met het openbaar vervoer, mogen de meeste winkels binnen en worden op bijna elk terras verwelkomd met waterbakjes`,
+      highlight: `de Frederiksberg Gardens, het Fælledpark en de havenpromenade`,
+      area: `Nørrebro, Frederiksberg en Vesterbro`,
+    },
+    corfu: {
+      personality: `de Ionische poort waar een UNESCO-Venetiaanse oude stad 400 jaar Venetiaanse heerschappij, Franse napoleontische arcades en Britse neoclassicistische paleizen op elkaar stapelt, de Spianada het grootste openbare plein van Griekenland is en weelderig groene eilandwandelingen lopen van Mon Repos tot Paleokastritsa`,
+      highlight: `de arcades van Liston en de Spianada, de kaap van de Old Fortress met 360 graden uitzicht op de haven en het Mon-Repos-park waar prins Philip werd geboren`,
+      area: `de ommuurde UNESCO-oude stad rond Liston en Campiello, de baai Garitsa ten zuiden van de Old Fortress en het schiereiland Kanoni richting Pontikonisi`,
+    },
+    cordoba: {
+      personality: `Andalusië's UNESCO-stad van de Mezquita-Catedral, 45 minuten met de AVE van Sevilla, met een compacte wit gekalkte oude stad, de Romeinse brug over de Guadalquivir en de uitlopers van de Sierra Morena 15 minuten noordelijk voor koele hondenwandelingen`,
+      highlight: `het zonsondergangsuitzicht vanaf de Romeinse brug, de steegjes van de Joodse wijk Judería en het oeverpad Sotos de la Albolafia`,
+      area: `de Judería, het Centro bij de Plaza de la Corredera en de moderne wijk San Fernando`,
+    },
+    cork: {
+      personality: `Ierlands culinaire rebellenstad aan de River Lee, met Georgiaanse straten, gezellige traditionele pubs, de legendarische English Market en het 200 hectare grote loslaatpark Ballincollig 8 kilometer westelijk, terwijl de stranden van West Cork een korte rit zuidelijk liggen`,
+      highlight: `het Fitzgerald's Park en de wandelroute Mardyke, de loslaatzone in het Ballincollig Regional Park en de treinrit van 25 minuten naar de hondvriendelijke oeverpromenade van Cobh`,
+      area: `het Latin Quarter, de rivieroever Marina en Blackrock`,
+    },
+    delft: {
+      personality: `het kleine grachtenstadje met 105.000 inwoners tussen Rotterdam en Den Haag, waar de kasseienmarkt onder de Nieuwe Kerk (grafplaats van Willem van Oranje sinds 1584, mausoleum van het Nederlandse koningshuis, 109 meter hoge toren), het renaissance-stadhuis, de Oude Kerk met Vermeers graf en zijn scheve toren, de in 1100 gegraven gracht Oude Delft (de oudste van Nederland), het Prinsenhof-museum (plaats van de moord op Willem van Oranje in 1584), de stadspoort Oostpoort uit 1400 en de koninklijke porseleinmanufactuur Royal Delft (Koninklijke Porceleyne Fles, opgericht in 1653) allemaal binnen de grachtenring liggen, op 12 minuten met de NS-trein van zowel Den Haag Centraal als Rotterdam Centraal`,
+      highlight: `de markt onder de 109 meter hoge toren van de Nieuwe Kerk, de porseleinfabriek en -winkel van Royal Delft aan de Rotterdamseweg en de het hele jaar open hondenstrandzones van Kijkduin/Scheveningen, te bereiken in 45-55 minuten met HTM-tram 1`,
+      area: `het Centrum binnen de grachtenring rond de Markt en de gracht Oude Delft, de groene campus van de TU Delft ten zuiden van de stad en het recreatiepark Delftse Hout ten oosten van het centrum`,
+    },
+    denia: {
+      personality: `de havenstad in het noorden van de Costa Blanca en UNESCO Creative City of Gastronomy, met het 11e-eeuwse Moorse Castillo boven de wit gekalkte Casco Antiguo, het 753 meter hoge natuurpark Montgó direct achter de stad, dagelijkse Baleària-veerboten naar Ibiza en het zeldzame het hele jaar open hondenstrand Platja Canina de Les Deveses`,
+      highlight: `de vestingmuren van het Castillo de Dénia in de buitenlucht, het klifpad bij het Cap de Sant Antoni boven het Reserva Marina en de Platja Canina de Les Deveses (het hele jaar open hondenstrand)`,
+      area: `het Casco Antiguo van Les Roques onder het kasteel, de vissersbuurt Baix la Mar bij de haven en de strandboulevard Les Marines ten noorden van de stad`,
+    },
+    denver: {
+      personality: `de Mile High City, een mijl boven zeeniveau met zo'n 300 zonnige dagen per jaar, zeventien omheinde hondenparken en een enorme terrascultuur, waarbij het openbaarvervoernetwerk huisdieren alleen in een draagtas vervoert`,
+      highlight: `de groenstroken van Cherry Creek en South Platte die samenkomen bij het Confluence Park, de wandelpaden van het Red Rocks Park aan de lijn en het 69 acre grote omheinde loslaatgebied met twee zwemvijvers in het Chatfield State Park`,
+      area: `het Union Station en LoDo, de met muurschilderingen versierde straten van RiNo en de grasvelden en boomrijke straten rond het Washington Park en Cherry Creek North`,
+    },
+    dresden: {
+      personality: `een compacte barokke deelstaathoofdstad aan de Elbe met kilometerslange leibandvrije Elbwiesen, een 5.800 hectare groot stadsbos aan de noordrand en een historische raderbootvloot die honden zonder toeslag verwelkomt`,
+      highlight: `de Elbwiesen dwars door het centrum, het bos van de Dresdner Heide en de kasteeltuinen van het Schlosspark Pillnitz`,
+      area: `de oude stad rond de Frauenkirche, de Äußere Neustadt en de woonwijken Striesen/Blasewitz`,
+    },
+    dubai: {
+      personality: `een hete woestijnmetropool aan de Perzische Golf, waar reizen met huisdier eigen regels volgt: honden zijn veel minder aanwezig in de openbare ruimte dan in Europa, maar de stad is uitzonderlijk goed uitgerust met 24-uurs dierenartsen en professionele huisdierresorts`,
+      highlight: `het kleine Dubai Islands Beach Dog Park (het enige officieel toegestane hondenstrand), hondvriendelijke caféterrassen zoals het Reform Social & Grill en de oeverpromenades langs het Dubai Water Canal`,
+      area: `Jumeirah en Umm Suqeim langs de Al Wasl Road, het aan het kanaal gelegen Business Bay en het Dubai Investment Park waar de huisdierresorts geconcentreerd zijn`,
+    },
+    dublin: {
+      personality: `een warme, door pubs gekenmerkte stad waar honden welkom zijn in biertuinen, op kustwandelingen en in het grootste stadspark van Europa: het Phoenix Park`,
+      highlight: `het Phoenix Park (1.750 acres, grotendeels zonder leibandplicht), het rivierpad langs de Dodder en het strand Sandymount Strand`,
+      area: `Ranelagh, Portobello en Stoneybatter`,
+    },
+    dubrovnik: {
+      personality: `een dramatisch ommuurde stad waar honden hun baasjes vergezellen op kustpaden, op rustige eilandstranden en op de door pijnbomen beschaduwde terrassen voor de oude stad`,
+      highlight: `het kustpad naar het strand Sveti Jakov, de dagtripveerboot naar het eiland Lokrum (honden toegestaan) en het schiereiland Lapad`,
+      area: `Lapad, Gruž en de omgeving van de oude stad`,
+    },
+    dunkerque: {
+      personality: `een kanaalhaven in het departement Nord met 86.000 inwoners (200.000 in de agglomeratie), Frankrijks derde haven en vertrekpunt van de DFDS-veerboot Dunkerque-Dover, bekroond door het UNESCO-belfort Beffroi Saint-Éloi (onderdeel van het UNESCO-ensemble van de belforten van België en Frankrijk), thuisbasis van het Mémorial Operation Dynamo en het Mémorial du Souvenir, die herinneren aan de evacuatie van 338.000 geallieerde soldaten in 1940, met het langste aaneengesloten duinpad aan de Franse Kanaalkust (12 kilometer van Malo-les-Bains tot Bray-Dunes bij de Belgische grens), het 100% gratis stadsbusnetwerk DK'Bus en het Carnaval de Dunkerque op zes weekenden in februari/maart`,
+      highlight: `de 12 kilometer lange duinkust aan het Kanaal van Malo-les-Bains tot Bray-Dunes (langste aaneengesloten duinpad aan de Franse Kanaalkust), het 220 hectare grote Réserve Naturelle Dune Marchand met seizoensgebonden loslaatzones, het plein bij het UNESCO-belfort Beffroi Saint-Éloi, het Mémorial Operation Dynamo bij Bastion 32 met het oeverpad naar de Mole de Dunkerque en de Quai de la Citadelle tegenover de historische driemaster Duchesse Anne`,
+      area: `het centrum rond de Place Jean Bart en het UNESCO-belfort Beffroi Saint-Éloi, het Bassin du Commerce met het Musée Portuaire en de Duchesse Anne, de belle-époque promenade Digue de Mer in Malo-les-Bains 2 kilometer noordelijk en de natuurreservaten Dune Marchand/Dune du Perroquet oostwaarts richting de Belgische grens`,
+    },
+    dusseldorf: {
+      personality: `een Rijnlandse mode- en bierhuismetropool met 21 officiële omheinde hondenweides, een 2 kilometer lange Rijnoeverpromenade door het centrum en Frank Gehry's Medienhafen, een tramrit verwijderd van de altbier-brouwerijen van de oude stad`,
+      highlight: `de Hofgarten (Duitslands eerste openbare park), de Medienhafen met de Gehry-gebouwen en de Rheinturm en de officiële hondenzwemzones aan het Unterbacher See 20 minuten zuidelijk`,
+      area: `de oude stad rond de Ratinger Straße, de Medienhafen en het groene Oberkassel aan de linkeroever van de Rijn`,
+    },
+    edinburgh: {
+      personality: `een van de hondvriendelijkste steden van Groot-Brittannië, met heuvels zonder leibandplicht, hondvriendelijke pubs op elke straat en een cultuur die honden als volwaardige gezinsleden behandelt`,
+      highlight: `de Arthur's Seat (zonder leibandplicht), het Holyrood Park en het wandelpad langs het Water of Leith`,
+      area: `Stockbridge, Leith en de New Town`,
+    },
+    ericeira: {
+      personality: `een Atlantische vissersstad met 10.000 inwoners 40 kilometer ten noorden van Lissabon, in 2011 uitgeroepen tot Europa's enige World Surfing Reserve, met zeven wereldklasse golven waaronder de WSL-Championship-Tour-spot Ribeira d'Ilhas en het machtige rif Coxos, een oude stad op de klif met wit gekalkte tasca-terrassen boven de Praia dos Pescadores en het monumentale UNESCO-Palácio Nacional de Mafra met zijn 800 hectare grote koninklijke bos Tapada 10 kilometer landinwaarts`,
+      highlight: `de WSL-Championship-Tour-golf Ribeira d'Ilhas en het uitzichtpunt van het World Surfing Reserve op de klif, het machtige rechtse rif Coxos en de vissershaven Praia dos Pescadores, en het UNESCO-Palácio Nacional de Mafra met het 800 hectare grote koninklijke bos Tapada 10 kilometer landinwaarts`,
+      area: `de oude stad op de klif rond de Largo das Ribas en de Praça da República, de strandboulevard boven de Praia dos Pescadores en de Praia do Sul en de surfspot-kust noordwaarts tot Ribeira d'Ilhas en Coxos`,
+    },
+    evora: {
+      personality: `de Alentejaanse UNESCO-hoofdstad en voormalige Romeinse, West-Gotische en Moorse stad, met een 2.000 jaar oude Romeinse tempel, de griezelige Capela dos Ossos, een van de grootste middeleeuwse stadsmuurringen van het Iberisch schiereiland en directe CP-treinverbinding vanuit Lissabon in 1u30`,
+      highlight: `de Romeinse tempel van Évora, de megaliethaanleg Cromeleque dos Almendres (7.000 jaar ouder dan Stonehenge) en de hondenstranden bij het Lago Alqueva bij Monsaraz`,
+      area: `het Centro Histórico rond de Praça do Giraldo, het terrein van de Romeinse tempel bij de Largo do Conde de Vila Flor en de wijnroute van de Alentejo vlak buiten de stadsmuren`,
+    },
+    falmouth: {
+      personality: `een levendige haven- en universiteitsstad aan Cornwalls milde zuidkust, met zandstranden op enkele minuten lopen van het centrum en een van de diepste natuurlijke havens ter wereld`,
+      highlight: `het hondvriendelijke Pendennis Castle, de gratis St-Mawes-veerboot over de Carrick Roads, de het hele jaar toegankelijke Sunny Cove en het kustpad rond Pendennis Point`,
+      area: `de hoofdwinkelstraat bij de haven en de Custom House Quay, de strandboulevard Gyllyngvase en de landtong Pendennis en de Discovery Quay bij het Maritime Museum`,
+    },
+    faro: {
+      personality: `de hoofdstad van de Algarve en poort naar Portugals zuidkust, met een door UNESCO geroemde Cidade Velha, het 18.000 hectare grote natuurpark Ria Formosa met het hele jaar flamingostegen, hondvriendelijke Atlantische stranden op voorgelegen barrière-eilanden per veerboot en de laagste huisdiertoeslagen van Zuid-Europa`,
+      highlight: `de Cidade Velha en de ooievaarspoort Arco da Vila, het vlonderpad van de Ria Formosa naar de zoutpannen en het wilde Atlantische hondenstrand van de Ilha Deserta per veerboot`,
+      area: `de Cidade Velha rond het domplein, de promenade bij de jachthaven en de woonwijk Bom João bij het station`,
+    },
+    florence: {
+      personality: `een renaissancestad waar honden over kasseien draven naar de ochtendmarkten, onder caféparasols zitten en elke avond met hun baasjes langs de oevers van de Arno wandelen`,
+      highlight: `de Boboli-tuin, het park Cascine (met loslaatzones) en de oeverpaden langs de Arno`,
+      area: `Oltrarno, Santa Croce en San Frediano`,
+    },
+    formentera: {
+      personality: `het kleinste van de vier grote Baleareneilanden, een vlakke, 19 kilometer lange strook van licht zand, jeneverbesstruiken en door UNESCO beschermd zeegras, alleen per veerboot vanaf Ibiza te bereiken, waar 12.000 vaste inwoners en een van de rustigste laagseizoenen van de Middellandse Zee het hele eiland veranderen in een lange hondenwandeling`,
+      highlight: `de vuurtoren Far de la Mola op de 142 meter hoge klif in het oosten, het historische pad Camí Romà omhoog naar het plateau van La Mola en de landengte van het schiereiland Trocadors boven Ses Illetes`,
+      area: `Sant Francesc Xavier (de hoofdstad met de in 1726 gebouwde vestingkerk), Es Pujols (de belangrijkste kustplaats) en Sant Ferran de ses Roques (het bohemien-dorp in het binnenland)`,
+    },
+    frankfurt: {
+      personality: `Duitslands groenste financiële metropool, waar 52% van de oppervlakte uit bos of park bestaat, met een 4.200 hectare groot stadsbos, hondvriendelijke appelwijncafés in Sachsenhausen en twee 24 uur per dag geopende dierenklinieken`,
+      highlight: `het omheinde hondenuitlaatgebied in het Grüneburgpark, de 4 kilometer lange promenade aan de Main-oever en de bospaden van het stadsbos`,
+      area: `Sachsenhausen, het Westend en de oude stad rond de Römerberg`,
+    },
+    freiburg: {
+      personality: `een Badense ecostad met 236.000 inwoners aan de voet van het Zwarte Woud en Duitslands zonnigste stadscentrum, met een autovrije oude stad in door UNESCO geroemde stijl, de beroemde Bächle in de kasseien en de Schauinslandbahn omhoog naar de 1.284 meter hoge Schauinsland`,
+      highlight: `de dagelijkse markt op het Münsterplatz, de beboste Schlossberg boven de oude stad, de Schauinslandbahn en het loslaatbos Mooswald ten westen van de stad`,
+      area: `de autovrije oude stad rond het Münsterplatz en de Schwabentor, de Stadtgarten en Colombipark ten noorden van het centrum en de wijk Stühlinger ten westen van het hoofdstation`,
+    },
+    frejus: {
+      personality: `met stip de hondvriendelijkste gemeente van de Côte d'Azur, met drie officiële, het hele jaar open hondenstranden (Argens, Esclamandes, Pacha Plage), het 100 hectare grote park Base Nature met een gloednieuw, volledig omheind Woof Park en honden aan de lijn in het 1e-eeuwse Romeinse amfitheater`,
+      highlight: `het hondenstrand Plage d'Argens bij Saint-Aygulf, de Base Nature François Léotard met haar Woof Park en de Romeinse arena's en aquaductruïnes`,
+      area: `de middeleeuwse Vieille Ville rond de Place Formigé en de Cathédrale Saint-Léonce, de jachthaven Port Fréjus en de strandboulevard van Saint-Aygulf`,
+    },
+    fuengirola: {
+      personality: `een levendig vakantieoord aan de Costa del Sol in de provincie Málaga met een 7 kilometer lange strandboulevard, het op een heuvel gelegen Castillo Sohail en een van de weinige officiële, het hele jaar open hondenstranden van Andalusië, plus zo'n zeven omheinde hondenparken en een Cercanías-trein die honden gratis vervoert vanaf vliegveld Málaga`,
+      highlight: `het hondenstrand Playa Canina del Castillo de Sohail, de 7 kilometer lange Paseo Marítimo en het rivierpark Parque del Río Fuengirola onder het kasteel`,
+      area: `de oude stad en de haven, de strandboulevard van Los Boliches en de landtong van het Castillo Sohail aan het zuidelijke uiteinde`,
+    },
+    funchal: {
+      personality: `de hoofdstad van Madeira, een het hele jaar mild Atlantisch eiland met esplanadecultuur, de klifpromenade Lido, de levada-wandelpaden boven de stad en de enige 24 uur per dag geopende dierenkliniek van de archipel`,
+      highlight: `het Parque de Santa Catarina boven de baai, het wandelpad Levada dos Tornos en het klifpad Promenade do Lido`,
+      area: `de Zona Velha rond de Rua de Santa Maria, de hotelstrook Lido/Estrada Monumental en de hoogten van Monte`,
+    },
+    galway: {
+      personality: `de bohemien-hoofdstad van Ierlands Wild Atlantic Way, waar pubs honden welkom heten in hun gezellige separees, de promenade van Salthill bij zonsondergang volloopt met viervoeters aan de lijn en de stranden en venen van Connemara 30 minuten westelijk liggen`,
+      highlight: `de 2 kilometer lange Salthill Promenade, het leibandvrije strand Silver Strand en de Spanish Arch en de oeverpromenade Long Walk`,
+      area: `het Latin Quarter, het West End en Salthill aan de baai`,
+    },
+    gdansk: {
+      personality: `de Hanzeparel van de Oostzee en voormalige Vrije Stad Danzig, met een door UNESCO geroemde Długi Targ, de geboorteplaats van Solidarność bij de Stocznia Gdańska en directe SKM-treinverbinding naar het Sopot Dog Beach (Polens bekendste) in 15 minuten`,
+      highlight: `de Długi Targ en de Mariacka-straat, het Sopot Dog Beach 15 minuten met de SKM en het Tri-City-landschapspark met 200 kilometer loslaatpaden`,
+      area: `het Główne Miasto rond de Długi Targ, het pakhuiseiland Wyspa Spichrzów aan de Motława en Wrzeszcz in het noorden`,
+    },
+    gdynia: {
+      personality: `de modernistische havenhelft van de Poolse Driestad (met Gdańsk en Sopot), een havenstad met 244.000 inwoners, twee het hele jaar open eigen hondenstranden, twee 24 uur per dag geopende dierenklinieken, de Sea Towers en de museumschepen Dar Pomorza en ORP Błyskawica bij de Zuidpier`,
+      highlight: `het Skwer Kościuszki en de Zuidpier met de Tweede Wereldoorlog-torpedobootjager ORP Błyskawica, de kliffen van Orłowo met hun 180 meter lange houten vlonderpad en het hondenstrand Kolibki met omheind agility-terrein`,
+      area: `Śródmieście rond het Skwer Kościuszki, Kamienna Góra boven de binnenstad en Orłowo met zijn kliffen en het houten vlonderpad`,
+    },
+    geneva: {
+      personality: `een van de huisdiervriendelijkste internationale hoofdsteden van Europa, waar de Zwitserse wet honden toestaat in restaurants en cafés, het hele jaar open loslaatgebied Bois de la Bâtie midden in het centrum ligt en twee 24 uur per dag geopende dierenklinieken het kanton bedienen`,
+      highlight: `het loslaatbos Bois de la Bâtie, de meerpromenade Quai Wilson en de bohemien-wijk Carouge`,
+      area: `Pâquis aan de rechteroever, Eaux-Vives aan de linkeroever en Carouge aan de overkant van de Arve`,
+    },
+    genoa: {
+      personality: `een van de onopvallend huisdiervriendelijkste steden van Italië, de eerste in Ligurië met een officieel hondenstrand, met caruggi-steegjes die op zomerdagen 8 °C koeler zijn dan de oeverpromenade, drie 24 uur per dag geopende dierenklinieken en een uniek verticaal verkeersnetwerk van kabelbanen en liften`,
+      highlight: `het het hele jaar open hondenstrand van Vesima, het 92.000 m² grote Parchi di Nervi en het door Renzo Piano heringerichte Porto Antico`,
+      area: `de UNESCO-Strade Nuove, het vissersdorp Boccadasse en de kustparken van Nervi`,
+    },
+    getxo: {
+      personality: `Bilbaos Baskische kustbuur aan de Golf van Biskaje, thuisbasis van de UNESCO-hangbrug Vizcaya-brug (hondvriendelijk sinds 2017), de schilderachtige vissershaven Puerto Viejo de Algorta en een 6 kilometer lang klifpad boven de Cantabrische Zee`,
+      highlight: `het klifpad naar de Punta Galea vanaf de windmolen Aixerrota, de zweefpont Vizcaya-brug voor honden tot 40 kilo en 17 aangewezen loslaatzones voor honden`,
+      area: `de Puerto Viejo de Algorta, de romantische villawijk Neguri en de oeverpromenade Las Arenas bij de monding van de Nervión`,
+    },
+    ghent: {
+      personality: `een progressieve Vlaamse universiteitsstad met Europa's grootste autovrije historische centrum, het Gravensteen van de graven van Vlaanderen met zijn slotgracht, Van Eycks Lam Gods in de Sint-Baafskathedraal, een hondenzwemstrand binnen de stad aan de Blaarmeersen en gratis NMBS-treinritten voor honden naar Brugge in 25 minuten`,
+      highlight: `het 13 hectare grote Citadelpark met omheinde loslaatzone, het 300 hectare grote NATURA-2000-gebied Bourgoyen-Ossemeersen en het hondenstrand aan de Blaarmeersen 4 kilometer van het centrum`,
+      area: `de middeleeuwse oeverzone Korenmarkt-Graslei-Korenlei, de oudste wijk Patershol rond het Gravensteen en de Vrijdagmarkt met haar cuberdon-verkopers`,
+    },
+    girona: {
+      personality: `Catalonië's te belopen middeleeuwse juweel op een uur van Barcelona, een stad met 103.000 inwoners en 7 kilometer officiële loslaatroutes voor honden langs de Ter en de Onyar, vijf omheinde hondenweides, het hele 2 kilometer lange muurpad dat open is voor honden aan de lijn, en een 24 uur per dag geopende dierenkliniek`,
+      highlight: `het 2 kilometer lange muurpad Passeig de la Muralla, het park Devesa met zijn twee hondenweides en de loslaatroute Ribes del Ter`,
+      area: `de Barri Vell en het Call rond de Carrer de la Força, Mercadal aan de overkant van de Onyar en Fontajau aan de oevers van de Ter`,
+    },
+    glasgow: {
+      personality: `een van de betrouwbaar hondvriendelijkste steden van Groot-Brittannië, met gratis meereizen voor huisdieren in elke ScotRail-trein, hondvriendelijke pubs in elke wijk en het 146 hectare grote Pollok Country Park midden in de stad`,
+      highlight: `het Pollok Country Park, het Kelvingrove Park en het Loch Lomond, een treinrit van 50 minuten verwijderd`,
+      area: `het West End, de Merchant City en Finnieston`,
+    },
+    gothenburg: {
+      personality: `Zwedens hondvriendelijkste stad, een levendige haven- en universiteitsstad waar honden gratis meereizen met de tram, zonder lijn mogen lopen in het 137 hectare grote Slottsskogen en welkom zijn in bijna elk café`,
+      highlight: `het stadsbos Slottsskogen, de cafés in de houten wijk Haga en de hondvriendelijke eilanden van de Göteborgse scherenkust`,
+      area: `Haga, de wijk Linné en de wijk Vasastan`,
+    },
+    graz: {
+      personality: `Oostenrijks door UNESCO geroemde Steiermarkse hoofdstad, waar de Uhrturm op de Schlossberg een perfect bewaarde renaissance-oude stad bekroont en de wirtshaus-cultuur honden ook 's winters binnen verwelkomt`,
+      highlight: `de beboste paden op de Schlossberg omhoog naar de Uhrturm, de hondenzone in het Stadtpark en het 7 kilometer lange oeverpad langs de Mur dwars door het centrum`,
+      area: `de UNESCO-oude stad rond het Hauptplatz, de trendy wijk Lend ten westen van de Mur en de groene studentenwijk Geidorf`,
+    },
+    granada: {
+      personality: `de sfeervolste Moorse stad van Europa, waar de Alhambra waakt over de kasseisteegjes van de Albaicín, de Andalusische terrascultuur honden echt verwelkomt en de Sierra Nevada op een uur ligt`,
+      highlight: `de Paseo de los Tristes onder de muren van de Alhambra, de UNESCO-wijk Albaicín en de hondvriendelijke parken in de wijk Arabial`,
+      area: `de Albaicín, de Realejo en het historische centrum rond de Plaza Nueva`,
+    },
+    grindelwald: {
+      personality: `het Zwitserse dorp aan de Eiger-noordwand in het hart van de Jungfrau-regio, met 4.000 inwoners op 1034 meter, waar de Skywalk First Cliff Walk hangt op 2168 meter, de Männlichenbahn (Europa's langste luchtkabelbaan) omhoog voert naar 2342 meter, de driekabelbaan Eiger Express vanaf het Grindelwald Terminal in 15 minuten de Eigergletsjer bereikt, en het noodnummer van de dierenkliniek Interlaken dag en nacht de hele vallei dekt`,
+      highlight: `de First Cliff Walk bij zonsopgang, wanneer de Eiger-noordwand oranje kleurt, de wandeling van een uur naar het ansichtkaartachtige Bachalpsee op 2265 meter en de Pfingstegg-kabelbaan naar het gletsjer-uitzichtpunt Bäregg`,
+      area: `Grindelwald Dorf langs de Hauptstrasse onder de Eiger, Grindelwald Grund bij het dalstation van Eiger Express en Männlichenbahn en de bergplateaus van First, Männlichen en Pfingstegg`,
+    },
+    groningen: {
+      personality: `de onofficiële hoofdstad van Nederlands noorden (235.000 inwoners), een studentenstad met meer dan 60.000 studenten rond de in 1614 opgerichte Rijksuniversiteit, met de 96 meter hoge Martinitoren (hoogste kerktoren van Noord-Nederland, 261 treden) aan de Grote Markt, het visplein Vismarkt met de in 1865 gebouwde Korenbeurs, de grachtkades van de Hoge der A en de Aa-kerk, het in 1830 aangelegde centrale park Noorderplantsoen (grote loslaatweide voor honden, kunstfestival Noorderzon in augustus) en het 140 hectare grote Stadspark ten zuiden van het centrum, op 2u05 vanaf Amsterdam Centraal met de NS-Intercity, en de poort naar de UNESCO-Waddenkust (veerboot naar het eiland Schiermonnikoog in 1u15 met Qbuzz-bus 163 plus overtocht met Wagenborg)`,
+      highlight: `de pleinen Martinikerkhof en Vismarkt onder de 96 meter hoge Martinitoren, de loslaatweide in het Noorderplantsoen en het hondenstrand op het Waddeneiland Schiermonnikoog, te bereiken in 1u15 met Qbuzz-bus en Wagenborg-veerboot`,
+      area: `het Centrum binnen de Diepenring rond de Grote Markt en de Hoge der A, het Noorderplantsoen en het Centrum-Noord en het oeverpad langs het Reitdiep noordwaarts uit de stad`,
+    },
+    guimaraes: {
+      personality: `de door UNESCO geroemde bakermat van Portugal, een volledig autovrije granieten oude stad rond het Castelo uit de 10e eeuw waar de eerste koning van Portugal werd geboren, het 15e-eeuwse paleis Paço dos Duques, het iconische middeleeuwse Largo da Oliveira en de 617 meter hoge berg Penha, te bereiken met Portugals langste kabelbaan die honden aan de lijn welkom heet in elke cabine`,
+      highlight: `het Castelo en het Paço dos Duques op de kasteelheuvel, het Largo da Oliveira met het gotische Padrão do Salado en de wandelpaden op de berg Penha, te bereiken met de hondvriendelijke Teleférico da Penha`,
+      area: `de UNESCO-oude-stadskern rond het Largo da Oliveira en de Praça de Santiago, de kasteelheuvel en de wijk Costa bij het dalstation van de Penha-kabelbaan`,
+    },
+    haarlem: {
+      personality: `de meest voor de hand liggende hondvriendelijke basis voor de regio Amsterdam, een compacte middeleeuwse Nederlandse stad 20 kilometer ten westen van Amsterdam, waar de Grote Markt onder de Grote Sint-Bavokerk (grafplaats van Frans Hals, het Müller-orgel dat Mozart bespeelde), de rivier het Spaarne met de molen De Adriaan, zestien historische hofjes en het oudste openbare park van Nederland (Haarlemmerhout, 1583) op maar 15 minuten met de NS-trein van Amsterdam Centraal en 10 minuten van het het hele jaar open hondenstrand van Zandvoort liggen`,
+      highlight: `de Grote Markt en het Klokhuisplein onder de Grote Sint-Bavokerk, de loslaatweides van het Schoterbos ten noorden van het Spaarne en het het hele jaar open hondenstrand Zandvoort Zuid en het hele 9 kilometer lange strand van Zandvoort zonder leibandplicht van oktober tot mei`,
+      area: `het Centrum binnen de grachtenring rond de Markt en de kades aan het Spaarne, Haarlem-Noord rond het Schoterbos en de kuststrook van Zandvoort aan Zee tot Bloemendaal aan Zee`,
+    },
+    hallstatt: {
+      personality: `het UNESCO-werelderfgoeddorp aan het meer in het Salzkammergut, een alpiene icoon met 750 inwoners waar honden gratis meevaren met de meerboot, met de zoutbergbaan omhoog gaan naar de Skywalk Welterbeblick, en het Echerntal en het hondvriendelijke zwemmeer Gosausee verkennen`,
+      highlight: `de 1 kilometer lange oeverpromenade, het Echerntal tot de waterval Waldbachstrub, en de Dachstein-Krippenstein-kabelbaan naar het uitzichtpunt Fünf Finger`,
+      area: `de UNESCO-kern bij de Marktplatz, het zoutbergplateau boven het dorp, en de Dachstein-Salzkammergut-wandelpaden rond Obertraun en Gosau`,
+    },
+    hamburg: {
+      personality: `Duitslands groenste grote stad met 56 omheinde hondenuitlaatzones, een 7 kilometer lange rondweg om de Alster, de beroemde Elbstrand-stadsstranden, en een havencultuur waar honden meevaren met de veerboot en dutten op caféterrassen`,
+      highlight: `de 7 kilometer lange rondweg om de Außenalster, het Elbstrand bij Övelgönne, en het 205 hectare grote Altonaer Volkspark`,
+      area: `de oevers van de Alster, het Schanzenviertel, en de Elbfront in Övelgönne`,
+    },
+    hannover: {
+      personality: `Nedersaksens rustige deelstaathoofdstad, thuisbasis van Duitslands grootste stadsbos (Eilenriede, 640 ha, groter dan Central Park), het Maschsee met zijn hondenzwemzone, en een dierenkliniek van wereldklasse`,
+      highlight: `het 640 hectare grote Eilenriede-woud, de 6 kilometer lange rondweg om het Maschsee met hondenzwemplek, en de barokke laan van de Georgengarten`,
+      area: `List, de oevers van het Maschsee, en de oude stad rond de Marktkirche`,
+    },
+    heidelberg: {
+      personality: `Duitslands meest romantische universiteitsstad, een barokke oude stad onder de renaissance-kasteelruïne, het iconische uitzichtpad Philosophenweg, het Königstuhlwoud met 70 kilometer leibandvrije paden, en directe ICE-treinen vanaf luchthaven Frankfurt in 50 minuten`,
+      highlight: `de kasteelterrassen, de Philosophenweg met zijn Heiligenberg-woud, en de Königstuhlbahn omhoog naar 70 kilometer leibandvrije boswegen`,
+      area: `de oude stad rond de Hauptstraße, Bergheim bij het station, en het groene Neuenheim aan de overkant van de Neckar`,
+    },
+    chania: {
+      personality: `Kreta's westelijke hoofdstad, waar een Venetiaans-Ottomaanse oude stad de meest fotogenieke haven van Griekenland omsluit, de 800 meter lange pier bij de Egyptische vuurtoren de populairste hondenwandeling is, en Falassarna, Elafonissi en Balos allemaal als dagtripje te bereiken zijn`,
+      highlight: `de Venetiaanse haven en de pier bij de Egyptische vuurtoren, de vestingmuren van het fort Firkas, en de steegjes van Splantzia met zijn door platanen beschaduwde plein`,
+      area: `de ommuurde oude stad rond de Venetiaanse haven en de Plateia 1821 in Splantzia, de oeverpromenade Nea Chora ten westen van het fort Firkas, en de woonwijk Halepa ten oosten van het centrum`,
+    },
+    heraklion: {
+      personality: `Kreta's hoofdstad, waar 4 kilometer Venetiaanse stadsmuren rond de oude stad, een mild klimaat het hele jaar door, en twee officiële hondenstrandzones het tot een van de meest voor de hand liggende Griekse steden voor reizen met hond maken`,
+      highlight: `het 4 kilometer lange wandelpad langs de Venetiaanse muren, de pier van het havenfort Koules, en het hondenstrand Amoudara 5 kilometer westelijk`,
+      area: `de ommuurde oude stad rond de Plateia Eleftherias en het Leeuwenplein, de havenpromenade, en de westkust richting Amoudara`,
+    },
+    helsinki: {
+      personality: `een Scandinavische hoofdstad waar de eilandengroep, de dennenbossen en een diep natuurverbonden cultuur haar uitzonderlijk hondvriendelijk maken`,
+      highlight: `het Centraal Park (Keskuspuisto), het natuurreservaat op het eiland Seurasaari, en het zeevestingeiland Suomenlinna`,
+      area: `Kallio, Töölö, en het Design District`,
+    },
+    heviz: {
+      personality: `een klein Hongaars kuuroord rond het grootste natuurlijk warme thermale meer ter wereld, bij de westpunt van het Balatonmeer, waar een schaduwrijk bospark het water omgeeft en hondenstranden aan het Balatonmeer op korte rijafstand liggen`,
+      highlight: `het bospark Véderdő rond het Hévízer-meer, de Árpád-periode kerk en de Romeinse ruïnetuin in Egregy, en het hondenstrand met hondenweide aan het Balatonmeer in het nabijgelegen Keszthely`,
+      area: `de kuurwijk aan de oever rond de Kossuth Lajos utca, de historische wijk Egregy, en de nabijgelegen stad Keszthely aan het Balatonmeer`,
+    },
+    hvar: {
+      personality: `Dalmatië's zonneiland (2.718 zonuren per jaar, de meeste van Kroatië), 11.000 inwoners op het hele eiland en maar 3.700 in het piepkleine Hvar-stad, gegroepeerd rond het Sint-Stefanplein (de grootste piazza van Dalmatië), de 16e-eeuwse kathedraal, het Arsenaaltheater uit 1612, het Franciscanenklooster op de havenklif en het fort Fortica Španjola op de heuvel erachter, met de archipel van de Pakleni-eilanden 15 minuten per watertaxi voor de westpunt, Stari Grad 20 kilometer oostelijk (de oudste stad van Kroatië, Grieks Pharos uit 384 v.Chr.) en de UNESCO-vlakte van Stari Grad, lavendelhellingen rond Velo Grablje en Plavac-Mali-wijngaarden bij Sveta Nedjelja, alleen te bereiken met de Jadrolinija-veerboot of de autoveerboot vanuit Split (SPU)`,
+      highlight: `het Sint-Stefanplein en het Arsenaaltheater uit 1612, het panorama vanaf de Fortica Španjola over de Pakleni-eilanden, het klifpad bij het Franciscanenklooster in de haven, de hondvriendelijke baaien Palmižana en Mlini op Sveti Klement, en de UNESCO-landbouwvlakte van Stari Grad met 16 kilometer wijngaardpaden met droogstenen muurtjes`,
+      area: `Hvar-stad rond het Sint-Stefanplein en de Fortica-heuvel, de archipel van de Pakleni-eilanden voor de westpunt, Stari Grad en de UNESCO-vlakte 20 kilometer oostelijk, en Jelsa/Vrboska, het "kleine Venetië" aan de centrale noordkust`,
+    },
+    hyeres: {
+      personality: `een vakantieoord aan de kust van de Var met het enige officieel aangewezen, het hele jaar open hondenstrand aan de Franse Rivièra (Plage du Mérou cani-plage), een dierenkliniek met 24-uurs spoeddienst in het centrum, en gratis meereizen voor honden op de TLV-TVM-veerboten naar Porquerolles en Port-Cros`,
+      highlight: `het hondenstrand Plage du Mérou tussen L'Ayguade en Les Salins, de dubbele tombolo-wandelroute Route du Sel op het schiereiland Giens, en het wetland Vieux Salins met zijn flamingo's`,
+      area: `de door palmen omzoomde Avenue Gambetta en de middeleeuwse Vieille Ville omhoog naar het Parc Saint-Bernard, de oeverpromenade van Port d'Hyères, en het schiereiland Giens`,
+    },
+    ibiza: {
+      personality: `de hoofdstad van het Baleareneiland Eivissa, waar de UNESCO-ommuurde Dalt Vila, een met dennen bebost binnenland, en een verrassend ontspannen laagseizoen haar voorbij het feestcliché tot een echte huisdiervriendelijke bestemming maken`,
+      highlight: `de UNESCO-ommuurde oude stad Dalt Vila met haar panoramamuren, het het hele jaar open hondenstrand bij Cala Nova, en het natuurreservaat Ses Salines met zijn flamingolagunes`,
+      area: `Dalt Vila (UNESCO-oude stad), de havenwijken Sa Penya en Sa Marina, en het rustigere gezinsoord Santa Eulalia 15 minuten noordelijk`,
+    },
+    'ile-de-re': {
+      personality: `een vlak, zonovergoten Atlantisch eiland voor La Rochelle, waar meer dan 100 kilometer fietspaden de hond in de fietsmand tot lokale norm maken en de leibandstranden, zoutmoerassen en havendorpjes ontspannen omgaan met huisdieren`,
+      highlight: `de UNESCO-Vauban-vestingwerken en de haven van Saint-Martin-de-Ré, de zoutmoerassen en de vuurtoren Phare des Baleines op de noordwestpunt, en de lange Atlantische zandstranden van Le Bois-Plage en La Couarde`,
+      area: `Saint-Martin-de-Ré binnen zijn stervormige vestingmuren, de middeleeuwse overdekte markt van La Flotte, en het strandoord Le Bois-Plage-en-Ré`,
+    },
+    innsbruck: {
+      personality: `Tirols deelstaathoofdstad, omringd door 2.300 meter hoge alpentoppen, met gratis openbaar vervoer voor honden, hondvriendelijke kabelbanen naar bergtoppen, een café- en herbergtraditie die honden verwelkomt, en dierenartsspoedhulp dag en nacht`,
+      highlight: `de vanuit het centrum per kabelbaan bereikbare Nordkette, de Hofgarten, en de geplaveide oude stad rond het Goldenes Dachl`,
+      area: `de oude stad, Wilten, en de as Maria-Theresien-Straße`,
+    },
+    interlaken: {
+      personality: `de poort van de Zwitserse Jungfrau-regio op de Bödeli tussen het Thunermeer en het Brienzermeer, waar de 10 hectare grote beschermde Höhematte-weide de Eiger, Mönch en Jungfrau omkadert, de Harder-Kulm-kabelbaan honden met muilkorf omhoog brengt naar 1322 meter, historische BLS-raderboten honden welkom heten op beide meren, en de dierenkliniek Interlaken AG met haar 24-uurs spoeddienst de hele regio dekt`,
+      highlight: `de Harder Kulm bij zonsondergang met de uitkragende Two Lakes Bridge, het wandelpad langs de Aare tussen Interlaken West en Oost, en een BLS-bootdag op het Brienzermeer naar Iseltwald en de Giessbach-watervallen`,
+      area: `het centrum van de Bödeli rond de Höheweg, Unterseen aan de Aare, en de zuidelijke rand Matten/Wilderswil bij de Jungfraubahn`,
+    },
+    inverness: {
+      personality: `de hoofdstad van de Schotse Hooglanden en poort naar Loch Ness, een compacte, echt hondvriendelijke stad aan de rivier waar de wandelingen de kern van de zaak zijn, de Ness Islands (beboste eilandjes verbonden door Victoriaanse voetgangersbruggen), het jaagpad van het Caledonian Canal en het bos Craig Phadrig allemaal gratis en op minuten van het centrum liggen, honden gratis aan de lijn meereizen met ScotRail, en het Inshes Veterinary Centre de lokale dienst buiten kantooruren draait`,
+      highlight: `de rondwandeling door de Ness Islands onder de Victoriaanse voetgangersbruggen, het strand van Dores met direct uitzicht op Loch Ness naast zijn hondvriendelijke herberg, en een hondvriendelijke Jacobite-boottocht op Loch Ness`,
+      area: `het compacte centrum rond de Church Street en Castle Street, de Ness Islands en de rivieroever Bught, en de stranden van Black Isle bij Rosemarkie en Chanonry Point`,
+    },
+    jurmala: {
+      personality: `Letlands beroemdste badplaats, 33 kilometer wit zandstrand aan de Oostzee, 30 minuten met de trein van Riga, sinds de 19e eeuw de zomerspeeltuin van de Riga-elite, met houten jugendstil-datsja's in Dzintari en Majori, het uitzichtpunt Dubulti, en een winterhondenstrand aan de lijn dat alleen open is van 1 november tot 31 maart`,
+      highlight: `het 200 jaar oude dennenbos van het Waldpark Dzintari, het 33 kilometer lange laagseizoen-hondenstrand van Lielupe tot Kemeri, en de wandeling naar de houten datsja's aan de Z.-Meierovica-prospekt`,
+      area: `Majori rond de Jomas iela, Dzintari rond de concertzaal en het bospark, en Dubulti bij het uitzichtpunt waar de rivier de zee ontmoet`,
+    },
+    'karlovy-vary': {
+      personality: `de beroemdste kuurstad van Tsjechië, genesteld in beboste heuvels`,
+      highlight: `de wandelpaden van het Kaiserwald, de paden naar het uitzichtpunt Diana, en het wandelpad langs de Eger tot aan de Svatošské-rotsen`,
+      area: `de kuurwijk, Rybáře, en Tuhnice`,
+    },
+    klagenfurt: {
+      personality: `een Karinthische deelstaathoofdstad met 104.000 inwoners aan de oostoever van het Wörthersee, het warmste meer van de Alpen (tot 26 graden in juli), met een compacte renaissance-oude stad, de iconische Lindwurmfontein en aangewezen hondenzwemplekken aan het meer`,
+      highlight: `de Lindwurmfontein op het Neuer Platz, het jaagpad langs het Lendkanal tot aan het Wörthersee, het Kreuzbergl-bos boven de oude stad, en de hondenzwemplekken Maria Loretto en Krumpendorf aan het meer`,
+      area: `de oude stad rond het Alter Platz en het Neuer Platz, het Europapark en de oever van het Wörthersee rond Minimundus, en het beboste Kreuzbergl ten westen van het centrum`,
+    },
+    krakow: {
+      personality: `een historische Poolse stad waar de ring van de Planty-tuinen rond de oude stad haar tot een van de meest wandelvriendelijke bestemmingen van Midden-Europa voor honden maakt`,
+      highlight: `de groengordel Planty, de weiden van Błonia, en de wandelpaden langs de Weichseloever`,
+      area: `de oude stad, Kazimierz, en Podgórze`,
+    },
+    kaunas: {
+      personality: `Litouwens hoofdstad van het interbellum van 1919 tot 1939, een compacte rivierstad met 294.000 inwoners waar 1.500 door UNESCO ingeschreven modernistische gebouwen een 1,6 kilometer lange voetgangersboulevard omzomen, het barokke Pažaislis-klooster de Kaunas-lagune verankert, en twee dierenklinieken met 24-uurs spoeddienst plus gratis meereizen voor honden buiten de spits elke wandeling makkelijk maken`,
+      highlight: `de UNESCO-modernismeroutes van Kaunas (inschrijving 2023), het kloosterterrein van Pažaislis aan de Kaunas-lagune, en het 63 hectare grote eikenbos Ąžuolynas`,
+      area: `de oude stad langs de Vilniaus gatvė, Naujamiestis langs de Laisvės alėja, en de kabelbaanheuvel Žaliakalnis`,
+    },
+    klaipeda: {
+      personality: `Litouwens enige Oostzeehaven en de poort naar de UNESCO-Koerse Landtong, een compacte stad met 150.000 inwoners waar de gratis voetgangersveerboot Smiltyne honden in 5 minuten overzet naar dennenbos en wit zand, de oude stad vakwerkhuizen uit de Memel-tijd en het theaterplein samenbrengt, en een dierenkliniek met 24-uurs spoeddienst elke reis verzekert`,
+      highlight: `de gratis Smiltyne-veerboot naar het bos en strand van de Koerse Landtong, het theaterplein met het standbeeld van Aennchen von Tharau, en het 12 hectare grote beeldenpark`,
+      area: `de oude stad langs de Tiltu- en Turgaus-straat, de oeverpromenade aan de Dane, en Smiltyne aan de overkant van de lagune`,
+    },
+    lagos: {
+      personality: `de meest hondtolerante basis van de westelijke Algarve, een 16e-eeuwse ommuurde oude stad met voetgangerssteegjes en terrassen op de stoep, de okerkleurige kalksteenkliffen van Ponta da Piedade met hun 4 kilometer lange klifpromenade, de 4 kilometer lange duin van Meia Praia voor hardlopen in het laagseizoen, en een het hele jaar open hondenzone bij het Praia de Porto de Mós`,
+      highlight: `de klifpromenade van Ponta da Piedade, de 4 kilometer lange laagseizoen-duin van Meia Praia, en de het hele jaar open hondenzone bij het Praia de Porto de Mós`,
+      area: `de ommuurde oude stad rond de Praça Gil Eanes en de Praça do Infante, de oeverpromenade Marina de Lagos, en de woonwijk Chinicato aan de rand van de stad`,
+    },
+    kyoto: {
+      personality: `Japans duizendjarige keizerstad, een veeleisende maar prachtige stad voor honden waar de meeste tempels, schrijnen en betaalde tuinen honden uitsluiten, waardoor het buitenplezier vooral langs de rivier de Kamo, het keizerpark en de historische straten ligt, met een eigen dierenkliniek voor nachtelijke spoedgevallen en de Shinkansen die Tokio in ongeveer 2u15 verbindt`,
+      highlight: `de oevers van de rivier de Kamo, de paden van het Kyoto Gyoen (het keizerpark), en het openbare bamboepad van Arashiyama plus de Philosophenweg`,
+      area: `het centrale Nakagyo en de straten van Higashiyama rond Gion, de oever van de Kamo, en Arashiyama in het westen`,
+    },
+    'la-rochelle': {
+      personality: `een Atlantische zeilhoofdstad rond haar middeleeuwse Vieux Port, waar drie wachttorens de haven omkaderen, arcadeomzoomde handelsstraten honden beschermen tegen regen en zon, en de vlakke, fietsvriendelijke geografie van de stad haar tot een van de makkelijkste van Frankrijk maakt om met hond te verkennen`,
+      highlight: `de drie torens van de Vieux Port (Saint-Nicolas, de la Chaîne en de la Lanterne), de bijna 2 kilometer lange groengordel Parc Charruyer van het centrum tot de zee, en de Île de Ré tien minuten over de brug`,
+      area: `de door arcades omzoomde Vieille Ville en de kades van de Vieux Port, de groene corridor van het Parc Charruyer, en de jachthaven Port des Minimes en de zeekant in het zuiden`,
+    },
+    lausanne: {
+      personality: `de olympische hoofdstad van Zwitserland aan het Meer van Genève, een van de van nature hondvriendelijkste steden van Europa waar honden gratis meereizen met de metro, het 200 hectare grote bos Sauvabelin doorkruisen, en welkom zijn in vrijwel elk restaurant`,
+      highlight: `het stadsbos Forêt de Sauvabelin, het UNESCO-wijngaardpad Lavaux langs het meer, en de oeverpromenade van Ouchy`,
+      area: `Ouchy (aan het meer), de creatieve wijk Flon, en de middeleeuwse Cité`,
+    },
+    lecce: {
+      personality: `het "Florence van het zuiden", een UNESCO-barokke centro storico, volledig gehouwen uit honingkleurige pietra leccese, hondtolerante Salento-cafécultuur, en het hele jaar open hondenstranden bij Punta Prosciutto en Frassanito op 30-45 minuten met de auto`,
+      highlight: `de Piazza del Duomo en de Basilica di Santa Croce, het Romeinse amfitheater aan de Piazza Sant'Oronzo, en de Salento-hondenstranden bij Punta Prosciutto en Frassanito`,
+      area: `de centro storico rond de Piazza Sant'Oronzo, de wijk Mazzini bij het station, en de woonwijk Borgo Piave`,
+    },
+    leiden: {
+      personality: `de oudste universiteitsstad van Nederland (opgericht 1575) en Rembrandts geboortestad, een compacte stad met 125.000 inwoners binnen een ring van 17e-eeuwse grachten, waar de Burcht van Leiden uit de 12e eeuw, een rond kasteel op zijn kunstmatige heuvel, de Hooglandse Kerk, de Pieterskerk met het monument voor de Pilgrim Fathers van de Mayflower (de gemeente bad hier van 1609 tot 1620 voordat ze naar de Nieuwe Wereld vertrok), de gracht Rapenburg, het Academiegebouw van de universiteit uit 1575, de Hortus Botanicus (oudste botanische tuin van Nederland, 1590) en de molen De Valk allemaal binnen de nieuwe 6 kilometer lange groene ring Singelpark liggen, op 35 minuten met de NS-trein van Amsterdam Centraal en 12 minuten van Den Haag Centraal`,
+      highlight: `de vestingmuren van de Burcht van Leiden (gratis, met panoramisch uitzicht, honden aan de lijn dag en nacht welkom), de Pilgrim Fathers-wandeling Rapenburg-Pieterskerk, en de Noordzeestranden Katwijk/Noordwijk voor honden, te bereiken in 25-30 minuten met Connexxion-bus 30/31`,
+      area: `het Centrum binnen de grachten rond de Burcht en het Rapenburg, het stadsbos Leidse Hout ten noorden van het station, en het polderpark Cronesteyn ten zuiden van het centrum`,
+    },
+    leipzig: {
+      personality: `Saksens muziekhoofdstad en de stad van Bach, met het 5.500 hectare grote Auenwald midden in het centrum, het hondvriendelijke jaagpad langs het Karl-Heine-kanaal, 11 omheinde hondenuitlaatzones, en een het hele jaar open hondenstrand aan het Cospudener See, 12 minuten met de S-Bahn`,
+      highlight: `het Auenwald, het hondenstrand aan het Cospudener See, en het jaagpad langs het Karl-Heine-kanaal tussen Plagwitz en de wijk Karli`,
+      area: `de binnenstad rond de Markt, de Karli (Karl-Liebknecht-Straße), en de creatieve wijk Plagwitz`,
+    },
+    liepaja: {
+      personality: `Letlands derde stad en belangrijkste zuidelijke Oostzeehaven, de stad waar de wind wordt geboren, met een 7 kilometer lang Blauwe Vlag-strand dat het hele jaar open is voor honden aan de lijn, het grootste ongerestaureerde mechanische orgel ter wereld in de Drie-eenheidskathedraal, en Karosta, de enige militaire gevangenis van Europa waar je kunt overnachten`,
+      highlight: `het 7 kilometer lange Blauwe Vlag-stadsstrand ten noorden van het Vissersmonument, het 50 hectare grote Seepark (Jurmalas parks), en het wilde strand van Karosta aan de overkant van de voormalige Sovjet-marinehaven`,
+      area: `de oude stad rond het Rozenplein, het Seepark langs de Liepu iela, en de wijk Karosta ten noorden van het handelskanaal`,
+    },
+    lille: {
+      personality: `een Vlaams getinte Noord-Franse stad met geplaveide steegjes en bakstenen puntgevelhuizen, thuisbasis van Europa's eerste speciaal voor honden ingerichte café, en een vlak, te belopen centrum waar honden gratis meereizen met de metro`,
+      highlight: `de wandeling over de vestingmuren van de Citadelle, het stadsbos Bois de Boulogne, en de terrascafés van Vieux Lille`,
+      area: `Vieux Lille, Wazemmes, en de studentenwijk Vauban`,
+    },
+    linz: {
+      personality: `Oostenrijks derde stad aan de Donau, een barokke oude stad waar honden welkom zijn op elk caféterras, een 539 meter hoge beboste heuvel te bereiken met Europa's steilste tandradbaan, een loslaatzone met rivierzwemmen aan de noordoever, en een tramnetwerk van de Linz Linien dat honden gratis meeneemt bij elke maandkaart`,
+      highlight: `de Pöstlingberg-basiliek, te bereiken met de historische Pöstlingbergbahn, de hondloslaatzone Urfahr/Donau aan de rivieroever, en de beeldenroute Forum Metall langs het Donaupark`,
+      area: `de oude stad rond het Hauptplatz en de Mariendom, Urfahr aan de overkant van de rivier, en de Donaulände`,
+    },
+    lisbon: {
+      personality: `een zonovergoten, heuvelachtige stad waarvan het milde klimaat haar het hele jaar door ideaal maakt voor reizen met huisdier`,
+      highlight: `het bospark Monsanto, de oeverpromenade van Belém, en de terrassen van Alfama`,
+      area: `Chiado, Príncipe Real, en Bairro Alto`,
+    },
+    leuven: {
+      personality: `de Vlaamse universiteitshoofdstad van Vlaams-Brabant, thuisbasis van de KU Leuven (de oudste katholieke universiteit ter wereld, 1425) en de Stella Artois-brouwerij, met een prachtig Brabants-gotisch stadhuis aan de Grote Markt, de UNESCO-wijk Groot Begijnhof, de café-straat met meer dan 40 zaken Oude Markt, "de langste bar van Europa", de 4800 hectare grote bossen Heverleebos en Meerdaalwoud aan de zuidrand, en Brussels Airport BRU op maar 18 minuten met de directe NMBS-trein`,
+      highlight: `het Brabants-gotische stadhuis met zijn gevel van 236 beelden, het UNESCO-Groot Begijnhof Leuven (grootst bewaarde begijnhof van België, 1232), de loslaatzones in het Heverleebos, en rondleidingen door de Stella Artois-brouwerij vanaf De Hoorn aan de Vaartkom`,
+      area: `de Grote Markt rond het stadhuis en de Sint-Pieterskerk, de café-straat Oude Markt, de studentenas Naamsestraat, het Groot Begijnhof in het zuiden, en het kanaalbekken Vaartkom in het noorden`,
+    },
+    liverpool: {
+      personality: `een door UNESCO geroemde havenstad met een van de grootste stedelijke parknetwerken van Noordwest-Engeland, drie leibandvrije hondenstranden binnen 25 minuten met Merseyrail, en een pubcorridor in het Baltic Triangle die honden aan de lijn het hele jaar door welkom heet`,
+      highlight: `de 95 hectare grote Victoriaanse weiden van het Sefton Park, het strand van Crosby met de ijzeren mannen van Antony Gormley, en de oeverpromenade van het Royal Albert Dock`,
+      area: `de oeverpromenade van het Royal Albert Dock, het Baltic Triangle, en het Georgian Quarter rond de kathedraal`,
+    },
+    ljubljana: {
+      personality: `Europa's groene hoofdstad. Een compact, verkeersvrij centrum waar honden naast hun baasjes wandelen op oeverterrassen, door kasteelterreinen en over middeleeuwse bruggen`,
+      highlight: `het Tivoli-park (leibandvrij), de kasteelheuvel van Ljubljana, en de groenstrook aan de Save`,
+      area: `de oude stad, Trnovo, en Šiška`,
+    },
+    london: {
+      personality: `een van de van nature huisdiervriendelijkste hoofdsteden van Europa, waar honden hun baasjes het hele jaar door vergezellen in pubs, cafés en door uitgestrekte koninklijke parken`,
+      highlight: `de leibandvrije delen van het Hyde Park, Hampstead Heath, en het hondvriendelijke oeverpad langs de Theems`,
+      area: `Islington, Notting Hill, en Bermondsey`,
+    },
+    'los-angeles': {
+      personality: `Californiës Pacifische entertainmenthoofdstad met een mediterrane levensstijl buiten het hele jaar door, de 1700 hectare grote stadswildernis Griffith Park met het art-decoterras van het observatorium en uitzicht op het Hollywood-bord, de aangewezen leibandvrije delen van de Runyon Canyon in de Hollywood Hills, het omheinde hondenpark bij het Silver Lake-reservoir, de AB-1681-terrasregels in duizenden restaurants in West Hollywood, Venice, Santa Monica en Silver Lake, Rosie's Dog Beach in Long Beach als enige leibandvrije strand in Los Angeles County, de Amtrak Pacific Surfliner die huisdieren tot 20 pond meeneemt langs de kust, en dierenartsspoedhulp dag en nacht in de hele metropoolregio`,
+      highlight: `het terras van het Griffith-observatorium met uitzicht op het Hollywood-bord, de 4,7 kilometer lange leibandvrije rondweg door de Runyon Canyon boven Hollywood, de Venice Boardwalk en de designstrook Abbot Kinney, de travertijnen buitentuinen van het Getty Center in Brentwood, Rosie's Dog Beach in Long Beach (het enige leibandvrije strand in Los Angeles County), en het hondenpark bij het Silver Lake-reservoir`,
+      area: `West Hollywood en Hollywood rond de Runyon Canyon en de Walk of Fame, de Westside (Santa Monica, Venice, Brentwood, Westwood) langs de Stille Oceaan, Downtown LA en het Arts District rond Bunker Hill, Silver Lake en Echo Park bij de oostelijke stuwmeren, Los Feliz bij de poort naar Griffith Park, en Long Beach in het zuiden voor Rosie's Dog Beach`,
+    },
+    lucca: {
+      personality: `de perfect bewaarde ommuurde stad van Toscane, waar 4,2 kilometer renaissance-vestingmuren (1545-1650) een vlakke, grasbegroeide hondenrondweg op de muren vormen, wellicht Italiës hondvriendelijkste grotere stad`,
+      highlight: `de 4,2 kilometer lange muurwandeling, het ovale Piazza dell'Anfiteatro en de hondenzwemzone aan de oever van de Serchio`,
+      area: `de ommuurde centro storico rond de Piazza San Michele, het Anfiteatro, en het gebied bij de kathedraal en de Guinigi-toren`,
+    },
+    lucerne: {
+      personality: `een sprookjesachtige Zwitserse stad rond een diep alpenmeer, waar overdekte houten bruggen, hondtolerante terrassen en hondvriendelijke tandradbanen omhoog naar Pilatus en Rigi meerdere-bergen-hondendagen uitzonderlijk makkelijk maken`,
+      highlight: `de oeverpromenade Schweizerhofquai, de boskam van de Sonnenberg boven de stad, en de 30 hectare grote Allmend`,
+      area: `de oude stad, Tribschen, en Hirschmatt-Neustadt`,
+    },
+    locarno: {
+      personality: `het zonovergoten Italiaanstalige gezicht van Ticino aan de noordpunt van het Lago Maggiore, 16.000 inwoners op 205 meter, waar de Piazza Grande in augustus het openluchtgrootscherm van het filmfestival Locarno huisvest, de bedevaartskerk Madonna del Sasso in 5 minuten per kabelbaan bereikbaar is, de kabelbaan Cardada-Cimetta omhoog gaat naar 1670 meter, de Centovalli-trein 100 dalen doorkruist tot in Italië, het Romeinse brugbad in het Verzascadal smaragdgroen kleurt, en het subtropische insubrische microklimaat het zonnigste van Zwitserland is`,
+      highlight: `de Piazza Grande en de middeleeuwse Città Vecchia, de kabelbaan Madonna del Sasso bij zonsondergang, en de Ponte dei Salti in Lavertezzo in het Verzascadal met zijn zomerse rivierbekkens`,
+      area: `het centrum rond de Piazza Grande en de Città Vecchia, Muralto en Minusio langs de Lungolago, en Ascona aan de oeverpromenade 4 kilometer westelijk`,
+    },
+    lugano: {
+      personality: `het elegante Italiaanstalige gezicht van Zwitserland aan het Luganomeer, waar honden gratis meevaren met de meerboten, over het Sentiero dell'Olivo naar Gandria wandelen, zwemmen op het speciaal aangewezen hondenstrand van Caslano, en met de kabelbaan naar de Monte Brè omhoog gaan voor een panorama op 925 meter`,
+      highlight: `de oeverpromenade Lugano-Paradiso, het Sentiero dell'Olivo naar Gandria, en de kabelbaan naar de Monte Brè tot aan het topterras`,
+      area: `het centrum rond de Piazza della Riforma, de oeverwijk Paradiso, en Castagnola-Gandria aan de oostoever`,
+    },
+    luxembourg: {
+      personality: `de enige Europese hoofdstad met gratis openbaar vervoer voor iedereen (honden inbegrepen) sinds 2020, met negen omheinde stedelijke hondenrenzones binnen de stad en een UNESCO-oude stad die zich nestelt rond de dramatische rivierdalen van de Pétrusse en de Alzette`,
+      highlight: `de Chemin de la Corniche, het Parc de la Pétrusse met zijn twee hondenrenzones, en het 600 hectare grote Bambësch-bos`,
+      area: `Ville-Haute, de Grund, en Belair`,
+    },
+    lyon: {
+      personality: `Frankrijks gastronomische hoofdstad, waar honden zo vanzelfsprekend zijn als bouchon-restaurants. Welkom in cafés, langs de rivieroevers, en in heel de Presqu'île`,
+      highlight: `het Parc de la Tête d'Or, de oevers van de Saône en de Rhône, en de wandelpaden op de Fourvière-heuvel`,
+      area: `de Presqu'île, Croix-Rousse, en Confluence`,
+    },
+    maastricht: {
+      personality: `de oudste stad van Nederland en Limburgs Bourgondische hoofdstad, waar Bourgondische cafécultuur honden aan de lijn vanzelfsprekend welkom heet, de beboste heuvel Sint-Pietersberg zich direct ten zuiden van het centrum verheft, en 22 omheinde losloopgebieden de middeleeuwse kern omringen`,
+      highlight: `de beboste heuvel Sint-Pietersberg, het jaagpad langs de Maas naar België, en de hondenzwemplas Pietersplas 5 kilometer zuidelijk`,
+      area: `het middeleeuwse centrum rond het Vrijthof, de wijk Wyck aan de rechteroever van de Maas, en de wijk Sint Pieter`,
+    },
+    madrid: {
+      personality: `een van de meest hondgekke hoofdsteden van Europa: Madrid heeft meer honden per hoofd van de bevolking dan bijna elke andere Europese stad`,
+      highlight: `het Retiro-park, Casa de Campo, en het leibandvrije Parque del Oeste`,
+      area: `Malasaña, Lavapiés, en Chamberí`,
+    },
+    malaga: {
+      personality: `een ontspannen Andalusische havenstad waar honden hun baasjes vergezellen op museumterrassen, in strandhotels, en door de historische Alcazaba-wijk`,
+      highlight: `de zeepromenade Parque de Málaga, het natuurpark Montes de Málaga, en de hondenzone bij het strand van Pedregalejo`,
+      area: `de oude stad, Soho, en Pedregalejo`,
+    },
+    malmo: {
+      personality: `Zuid-Zwedens kusthoofdstad, een compacte en fietsvriendelijke stad waar 61 omheinde hondenparken elke wijk omzomen, honden gratis meereizen in het hele netwerk van Skånetrafiken, en het het hele jaar open Ribersborg Hundbad een van de beste stedelijke hondenstranden van Europa is`,
+      highlight: `het hondenstrand en de leibandvrije zone van Ribersborg, het 45 hectare grote landschapspark Pildammsparken, en het kustpad Sundspromenaden tot aan de westerhaven`,
+      area: `Gamla Staden rond het Lilla Torg, de creatieve wijk Möllevången, en Västra Hamnen bij de Turning Torso`,
+    },
+    manchester: {
+      personality: `een van de betrouwbaarste hondvriendelijke steden van Groot-Brittannië, met gratis meereizen voor honden in elke Metrolink-tram en elke Bee Network-bus, hondvriendelijke pubs in elke straat van het Northern Quarter en het 240 hectare grote Heaton Park een tramrit verwijderd`,
+      highlight: `het Heaton Park, de botanische tuinen Fletcher Moss en het jaagpad langs het Bridgewater Canal`,
+      area: `het Northern Quarter, Ancoats en Castlefield`,
+    },
+    marbella: {
+      personality: `een vakantiestad aan de Costa del Sol met twee officiële, het hele jaar open hondenstranden, een 7 kilometer lange strandboulevard die het centrum met Puerto Banús verbindt, en een wit gekalkte Andalusische oude stad waar de meeste caféterrassen honden principieel verwelkomen`,
+      highlight: `de Playa Canina El Pinillo en de Playa Canina Ventura del Mar, de beeldenpromenade Avenida del Mar met de Dalí-werken en het kustpad Senda Litoral`,
+      area: `het Casco Antiguo rond de Plaza de los Naranjos, de strandkant van de Golden Mile en Puerto Banús`,
+    },
+    marseille: {
+      personality: `een zonovergoten Middellandse Zee-stad waar het leven buiten, terrassen en de kustnatuur een onmiskenbaar hondvriendelijk ritme vormen`,
+      highlight: `de wandelpaden van het Nationaal Park Calanques, de per veerboot bereikbare Frioul-eilanden en de 5 kilometer lange promenade Corniche Kennedy`,
+      area: `de kades van de Vieux-Port, de historische wijk Le Panier en de vissershaven Vallon des Auffes`,
+    },
+    maspalomas: {
+      personality: `de klassieke winterbestemming in het zuiden van Gran Canaria, mild en droog het hele jaar door, waar het beroemde strand zelf verboden terrein is voor honden, maar de promenades en nabijgelegen officiële hondenstranden het tot een makkelijke basis voor het laagseizoen maken`,
+      highlight: `de strandboulevard Boulevard El Faro bij de vuurtoren van Maspalomas, het vogelleven van de lagune La Charca en de lange strandboulevard van Meloneras`,
+      area: `Meloneras, San Fernando de Maspalomas en de rand van Playa del Inglés`,
+    },
+    matera: {
+      personality: `een UNESCO-werelderfgoedstad met 60.000 inwoners in de Basilicata, gebouwd in de kalksteenkloof van de rivier de Gravina rond de grotwoningen van de Sassi van Sasso Caveoso en Sasso Barisano, ononderbroken bewoond sinds het paleolithicum en in 2019 uitgeroepen tot Europese Culturele Hoofdstad, met de kathedraal op de hoogste tufsteensporen, de bovenstad Piano rond de Piazza Vittorio Veneto met de ondergrondse cisterne Palombaro Lungo, de rotskerken Madonna de Idris, Santa Lucia alle Malve en San Pietro Caveoso, het 8.000 hectare grote Parco della Murgia Materana met meer dan 150 rotskapellen en het filmpanorama Belvedere Murgia Timone (The Passion of the Christ, No Time to Die), de FAL-trein vanaf Bari Centrale die honden gratis vervoert, en de Pugliairbus-shuttle vanaf luchthaven Bari BRI`,
+      highlight: `de UNESCO-grotwoningen van de Sassi van Sasso Caveoso en Sasso Barisano, uitgehouwen in de tufsteenrotsen boven de Gravina-kloof, het filmpanorama Belvedere Murgia Timone aan de overkant van de kloof, decor van The Passion of the Christ (2004) en No Time to Die (2021), het 8.000 hectare grote Parco della Murgia Materana met meer dan 150 Byzantijnse rotskerken en wandelmogelijkheden zonder lijn, de Piazza Vittorio Veneto met de ondergrondse cisterne Palombaro Lungo en het onvoltooide 16e-eeuwse kasteel Tramontano in het westelijke Piano`,
+      area: `de UNESCO-Sassi (Sasso Caveoso en Sasso Barisano) aan de oostflank van het Piano boven de Gravina-kloof, de bovenstad Piano rond de Piazza Vittorio Veneto en de Via Lucana, het Parco della Murgia Materana op het tegenoverliggende plateau aan de overkant van de Gravina en het station Matera Centrale FAL aan de zuidelijke stadsrand, verbonden met het centrum van het Piano via een voetpad van 500 meter langs de Via Don Luigi Sturzo`,
+    },
+    miami: {
+      personality: `Florida's art-decohoofdstad South Beach met het hele jaar buiten eten, twee aangewezen leibandvrije stranden (Hobie Island aan de Rickenbacker Causeway en Haulover Dog Beach in Sunny Isles), grote omheinde hondenparken in South Pointe, Margaret Pace, Tropical Park en Amelia Earhart, een Brightline-sneltrein die huisdieren tot 11 kilo meeneemt, een door het CDC goedgekeurde internationale luchthaven voor honden (MIA) met twee overdekte uitlaatgebieden en dierenartsspoedhulp dag en nacht in de hele metropoolregio`,
+      highlight: `de art-decowijk Ocean Drive en Lummus Park tussen de 5th en de 15th Street, de voetgangerszone Lincoln Road, de openluchtmuurschilderingenwijk Wynwood Walls, de oeverterrassen van Brickell langs de Miami River, de baaipromenade van Coconut Grove, de mediterraan-revival villa's van Coral Gables en de omgeving van de Vizcaya-tuinen, en het leibandvrije zwemmeer voor honden in het Amelia Earhart Park bij Hialeah`,
+      area: `South Beach en Mid-Beach rond de Ocean Drive en de Collins Avenue, Brickell en Downtown Miami langs de Biscayne Bay, Wynwood en het Design District ten noorden van Downtown, Edgewater aan de Biscayne Boulevard, Coconut Grove aan de zuidelijke baai, Coral Gables in het zuidwesten en Key Biscayne, te bereiken via de Rickenbacker Causeway langs het Hobie Beach`,
+    },
+    milan: {
+      personality: `Italiës designhoofdstad, waar steeds meer luxe- en boutique-hotels huisdieren hartelijk verwelkomen`,
+      highlight: `het Parco Sempione, de kanaalwijk Navigli en de uitgestrekte tuinen van de Villa Reale`,
+      area: `Brera, Navigli en de designwijk Porta Venezia`,
+    },
+    modena: {
+      personality: `een vlakke, compacte Emiliaanse stad waar het UNESCO-Piazza Grande, vier omheinde loslaat-hondenparken en de Lambrusco-wijnheuvels een van de hondvriendelijkste steden van Italië vormen om te wandelen`,
+      highlight: `het Parco Ducale Estense met zijn uitlaatgebied, de loslaatzone van het Parco Novi Sad (meer dan 2 ha) en de door arcades omzoomde wandeling van de Piazza Grande naar de Mercato Albinelli`,
+      area: `de historische oude stad rond de dom en de Ghirlandina, het Parco Ducale ten noorden van het centrum en het Parco Novi Sad ten noorden van het station`,
+    },
+    montpellier: {
+      personality: `een zonovergoten universiteitsstad in Zuid-Frankrijk waar honden hun baasjes vergezellen op schaduwrijke caféterrassen, in trams en langs de oeverpaden van de Lez`,
+      highlight: `het omheinde loslaatterrein van het Parc Méric, het oeverpad Berges du Lez en het maar 20 kilometer verwijderde hondvriendelijke strand Grand Travers`,
+      area: `het middeleeuwse centrum Écusson, de esplanade Place de la Comédie en de neoclassicistische wijk Antigone`,
+    },
+    montreal: {
+      personality: `een van de weinige Noord-Amerikaanse steden waar een volwassen hond legaal mee mag met de metro, ondersteund door meer dan 65 omheinde hondenuitlaatplaatsen en een 14,5 kilometer lang autovrij kanaalpad`,
+      highlight: `de hondenuitlaatplaatsen in het Parc Jarry en het Parc Sir-Wilfrid-Laurier, het jaagpad langs het Lachine-kanaal van de oude haven tot Lachine en de klim aan de lijn via de Chemin Olmsted naar het uitzichtpunt Kondiaronk`,
+      area: `Le Plateau-Mont-Royal, Griffintown en de kades van de Vieux-Port, en Villeray rond het Parc Jarry`,
+    },
+    montreux: {
+      personality: `de Zwitserse Rivièra aan het Meer van Genève, een door palmen omzoomde belle-époque stad waar honden welkom zijn op caféterrassen, mee mogen met de SBB en de panoramische GoldenPass Line, en aan de lijn wandelen door de UNESCO-wijngaarden van Lavaux boven het meer`,
+      highlight: `de 7 kilometer lange promenade Quais Fleuris langs het Freddie Mercury-standbeeld, de binnenplaatsen van het 13e-eeuwse Château de Chillon en het Sentier Viticole door de UNESCO-wijngaardterrassen van Lavaux`,
+      area: `de meerpromenade Quais Fleuris tussen Clarens en Territet, het Vieux Montreux rond de Église Saint-Vincent en de wijngaardterrassen van Lavaux tussen Saint-Saphorin en Chexbres`,
+    },
+    munich: {
+      personality: `een stad waar honden welkom zijn in biertuinen, in het openbaar vervoer en in de hele Englischer Garten, Europa's grootste stadspark`,
+      highlight: `de Englischer Garten, het Olympiapark en de oevers van de Isar`,
+      area: `Schwabing, Maxvorstadt en Haidhausen`,
+    },
+    nantes: {
+      personality: `Frankrijks meest leefbare stad, met tien officiële hondenparken (Caniparcs), een QUALIDOG-gecertificeerd restaurantnetwerk en een 12 kilometer lang hondvriendelijk cultuurpad langs de Loire`,
+      highlight: `het Caniparc in het Parc de Procé, de kademuren van de Loire en de Japanse tuin op het Île de Versailles`,
+      area: `de historische wijk Bouffay, het Île de Nantes en de wijk Procé`,
+    },
+    naples: {
+      personality: `Italiës chaotische, gepassioneerde hoofdstad van het zuiden, met dichte historische steegjes, een 2,5 kilometer lang voetgangers-Lungomare, het 134 hectare grote Bosco di Capodimonte en trattoria's die honden als gezinsleden behandelen`,
+      highlight: `de Lungomare Caracciolo, het Bosco di Capodimonte en het Parco Virgiliano op Posillipo`,
+      area: `Chiaia, Posillipo en de historische oude stad rond Spaccanapoli`,
+    },
+    narbonne: {
+      personality: `een stad met 55.000 inwoners in de Languedoc-Roussillon met de blootgelegde resten van de Romeinse Via Domitia voor het Hôtel de Ville, het onvoltooide gotische koor van de Cathédrale Saint-Just (41 meter hoog), het UNESCO-Canal de la Robine door het centrum, de overdekte markthal Les Halles met hondtolerante planchakramen, en een zeldzaam, het hele jaar open leibandvrij hondenstrand aan de Middellandse Zee bij Saint-Pierre-la-Mer / Fleury-d'Aude (postcode 11560), 15 minuten oostelijk`,
+      highlight: `het leibandvrije hondenstrand Plage canine van Saint-Pierre-la-Mer (Fleury-d'Aude, postcode 11560), de garrigue-wandelpaden van het Massif de la Clape met het panorama vanaf de Pech Redon en het jaagpad langs het Canal de la Robine door de Cours Mirabeau`,
+      area: `het voetgangerscentrum rond de Place de l'Hôtel de Ville en de Cours Mirabeau, de esplanades van de Cours de la République bij het kanaal en het kustaanhangsel Saint-Pierre-la-Mer / Fleury-d'Aude, 15 minuten oostelijk`,
+    },
+    nazare: {
+      personality: `een Atlantische vissersstad met 10.000 inwoners aan Portugals Costa de Prata, die door de recordgolven van de Praia do Norte uitgroeide tot een wereldwijde big-wave-bestemming, met de klifwijk Sítio, verbonden met het lagere strand via een historische kabelbaan uit 1889, de vuurtoren Forte de São Miguel Arcanjo waar het surfmuseum is gehuisvest, en het brede zandstrand Praia da Nazaré waar honden 's zomers welkom zijn buiten het bewaakte gedeelte`,
+      highlight: `de big-wave-kliffen van de Praia do Norte en de uitzichtplatforms van de WSL Big Wave Tour bij de vuurtoren Forte de São Miguel Arcanjo, de rit met de kabelbaan naar Sítio en de klifesplanade van de bedevaartskerk Nossa Senhora da Nazaré, en het 2 kilometer landinwaarts gelegen heuveldorp Pederneira met zijn wit gekalkte huizen`,
+      area: `de lagere strandboulevard Praia, de klifwijk Sítio, te bereiken met de kabelbaan of via de steile Ladeira do Sítio, en het historische bovendorp Pederneira`,
+    },
+    neringa: {
+      personality: `de UNESCO-Koerse-Landtong-kuurgemeente op een 52 kilometer lange Baltische zandlandtong, met vier lagunedorpen en 2.500 vaste inwoners, alleen per veerboot vanaf Klaipėda te bereiken, waar honden aan de lijn zwerven door dennenbospaden, over de zonnewijzerduin Parnidis en langs de lagunepromenade van Nida`,
+      highlight: `de zonnewijzer op de Parnidis-duin in Nida, het beeldenpad Heksenberg in Juodkrantė en de lagunepromenade van Nida met zijn kleurrijke vissershuisjes en windvanen`,
+      area: `Nida (het zuidelijke kuurdorp), Juodkrantė (het tweede kuuroord met de Heksenberg) en de rustigere dorpjes Preila en Pervalka`,
+    },
+    'new-york': {
+      personality: `de meest huisdierbewuste grote stad van de VS, met meer dan 70 hondenuitlaatplaatsen, de royaalste stedelijke leibandvrije uren van het land (5-9 uur en 21-1 uur in Central Park en Prospect Park) en een dag-en-nacht dierenspoednetwerk met het Animal Medical Center als anker`,
+      highlight: `de leibandvrije uren in Central Park, het hondenstrand in Prospect Park en de hondenuitlaatplaatsen in Hudson River Park`,
+      area: `het West Village, het East Village en Park Slope in Brooklyn`,
+    },
+    melbourne: {
+      personality: `de hondvriendelijkste van Australiës hoofdsteden, waar grote honden met muilkorf en lijn legaal mee mogen met de voorstadstreinen, de Port Phillip Bay rustige hondenstranden biedt (de Sandown Street in Brighton is omheind en het hele jaar leibandvrij), de binnenstedelijke parken uit het Victoriaanse tijdperk aangewezen loslaatgebieden hebben en een op terrassen gebaseerde eetcultuur ervoor zorgt dat honden vrijwel overal welkom zijn waar echt wordt gegeten`,
+      highlight: `het Royal Park en het Princes Park, de bospaden van het Yarra Bend Park, de Royal Botanic Gardens (honden aan de lijn hebben gratis toegang) en de hondenstranden van Brighton en St Kilda West`,
+      area: `Fitzroy North en Abbotsford in het binnennoorden, St Kilda en Port Melbourne aan de baai, en Brighton langs de Sandringham-spoorlijn`,
+    },
+    menton: {
+      personality: `de meest oostelijke stad aan de Franse Côte d'Azur, tien minuten van de Italiaanse grens, met het warmste microklimaat van het Franse vasteland, een barokke oude stad die oploopt naar de Basilique Saint-Michel-Archange, historische tuinen (Jardin Serre de la Madone en Val Rahmeh) die honden aan de lijn toelaten, het kustpad Sentier Le Corbusier rond Cap Martin en een het hele jaar durende IGP-citroenteelt (Citron de Menton) die in februari uitmondt in het Fête du Citron`,
+      highlight: `de Vieille Ville en het voorplein van de Basilique Saint-Michel-Archange, de Promenade du Soleil langs de kust, de Jardin Serre de la Madone en Val Rahmeh (beide vriendelijk voor honden aan de lijn), en het kustpad Sentier Le Corbusier rond Cap Martin`,
+      area: `de naar Saint-Michel oplopende Vieille Ville, het centrum rond de Jardins Biovès en de Avenue Boyer, Garavan aan de kant van de Italiaanse grens en de kust langs de Promenade du Soleil`,
+    },
+    newquay: {
+      personality: `een ontspannen surfstadje in het noorden van Cornwall, omringd door stranden waar het merendeel van het zand het hele jaar hondvriendelijk blijft en honden het kustpad, de boottochtjes in de haven en de havenpubs delen met hun baasjes`,
+      highlight: `de het hele jaar hondvriendelijke stranden Fistral, Crantock en Watergate Bay, het South West Coast Path rond Towan Head en Pentire Head en de natuurobservatie-boottochtjes in de haven`,
+      area: `de haven met zijn het hele jaar open hondenstrand, Fistral en de landtong Pentire, en de riviermonding Gannel richting Crantock`,
+    },
+    padstow: {
+      personality: `een mooie vissershaven in het noorden van Cornwall aan de monding van de Camel, een van de makkelijkste hondenvakantieoorden van het graafschap, waar honden de pubs aan de kade, het vlakke Camel Trail en de stranden bij de riviermonding delen met hun baasjes`,
+      highlight: `de het hele jaar hondvriendelijke stranden Harbour Cove en Daymer Bay, het vlakke, autovrije Camel Trail en de Black Tor-veerboot over de monding naar Rock`,
+      area: `de haven en de oude stad, Harbour Cove en Stepper Point langs het kustpad, en Rock en Daymer Bay aan de overkant van de monding`,
+    },
+    nice: {
+      personality: `een zonovergoten Middellandse Zee-stad waar honden hun baasjes vergezellen op restaurantterrassen, op de markt van de oude stad, en langs de beroemde oeverpromenade`,
+      highlight: `de Promenade des Anglais, het Parc du Mont Boron en de Colline du Château`,
+      area: `de oude stad (Vieux-Nice), Cimiez en de havenwijk Port`,
+    },
+    nimes: {
+      personality: `de derde hoek van de Provençaalse Romeinse driehoek (met Avignon en Arles), waar de arena's het zeldzame Qualidog-label dragen en honden aan de lijn van elk formaat gratis toelaten, waar de 15 hectare grote Jardins de la Fontaine zich uitstrekken onder de Tour Magne, en waar de UNESCO-Pont du Gard 25 kilometer noordelijk klaarligt voor een hondvriendelijk dagtripje`,
+      highlight: `de Arènes de Nîmes (gratis Qualidog-toegang voor honden aan de lijn), de Jardins de la Fontaine tot aan de Tour Magne en de Pont du Gard met de hondenzwemplek aan de rivier de Gardon`,
+      area: `het historische centrum Écusson rond de arena's en het Maison Carrée, de Quai de la Fontaine en de Mont Cavalier, en de woonwijk Vacquerolles ten zuidwesten van het centrum`,
+    },
+    nuremberg: {
+      personality: `een middeleeuwse Frankische stad waar de wirtshaus-cultuur honden ook binnen welkom heet, twee dierenspoeddiensten dag en nacht klaarstaan, en het 25.000 hectare grote Reichswald aan de stadsrand loslaatgebieden biedt`,
+      highlight: `de tuinaanleg van de Kaiserburg, het hondenstrand aan het Wöhrder See en de boswegen van het Sebalder Reichswald`,
+      area: `de oude stad rond de Hauptmarkt en de Kaiserburg, het Stadtpark ten noorden van het centrum en het Wöhrder See ten oosten van de oude stad`,
+    },
+    opatija: {
+      personality: `de grande dame van de Kroatische Rivièra, een belle-époque kuuroord waar honden aan de lijn de 12 kilometer lange oeverpromenade Lungomare aflopen, zwemmen op twee aangewezen hondenstranden, en wandelen in het beboste natuurpark Učka achter de stad`,
+      highlight: `de hele lengte van de Lungomare-promenade, de hondenstranden Punta Kolova en Gornja Ika, en de topwandelpaden van de Učka`,
+      area: `het historische stadscentrum rond het park Angiolina, het oude vissersdorp Volosko en de kust tot Ičići en Lovran`,
+    },
+    osaka: {
+      personality: `het bruisende handelshart van de Kansai-regio, een aan regels gebonden maar haalbare hondenstad waar de draagtasplicht en overwegend hondvrije interieurs het plezier naar buiten verplaatsen, langs het Osaka Castle Park, het Dōtonbori-kanaal en de oeverparken, met de Shinkansen die Kyoto in ongeveer vijftien minuten en Tokio in ongeveer 2u30 bereikt`,
+      highlight: `de buitenpaden en grasvelden van het Osaka Castle Park, het groen van het Nakanoshima- en Utsubo-park, en de wandeling langs het Dōtonbori-kanaal`,
+      area: `Kita rond Umeda en Nakanoshima, de vermaakswijk Namba en Dōtonbori, en Tennōji in het zuiden`,
+    },
+    oslo: {
+      personality: `een Scandinavische hoofdstad die door de nabijheid van fjorden, bossen en het uitgestrekte padennetwerk van de Oslomarka een van de beste bestemmingen van het continent is voor actieve hondeneigenaren`,
+      highlight: `het bos Oslomarka, het schiereiland Bygdøy en het rivierpad langs de Akerselva`,
+      area: `Frogner, Grünerløkka en Tjuvholmen`,
+    },
+    ostend: {
+      personality: `een Belgische Koninklijke badplaats met 72.000 inwoners aan de Noordzee, met 9 kilometer zandige Albert-I-promenade, het hele jaar open hondenstrandzones in Mariakerke, Raversijde en Oosteroever, de kusttram (met 67 kilometer de langste tramlijn ter wereld), gratis NMBS-treinen voor honden naar Brugge in 12 minuten en Brussel in 1u15, en de Stena Line-veerboot naar Ramsgate (Groot-Brittannië) in ongeveer 4 uur`,
+      highlight: `de Albert-I-promenade en de kust bij de Kursaal, het duinerfgoedpark Atlantikwall Raversijde en het 36 hectare grote Maria-Hendrikapark (het grootste aan de Belgische kust)`,
+      area: `het kustcentrum rond de Kursaal en het Marie-José-park, de vissenkade Visserskaai en de zijstraten van de Vlaanderenstraat, en het westelijke hondenstrandcentrum bij Mariakerke en Raversijde`,
+    },
+    oviedo: {
+      personality: `de pre-Romaanse UNESCO-hoofdstad van het groene Spanje Asturië, met een voetgangers-Casco Antiguo rond de gotische Catedral de San Salvador en de Plaza del Fontán, de bekend hondvriendelijke cidre-terrassen van de Calle Gascona (de Bulevar de la Sidra), een centraal park Campo de San Francisco en een 24 uur per dag geopende dierenkliniek in Buenavista`,
+      highlight: `de wandelpaden van de Monte Naranco rond de pre-Romaanse UNESCO-kerken Santa María del Naranco en San Miguel de Lillo met het beste stadspanorama, plus de cidre-terrassen van de Calle Gascona en het Campo de San Francisco`,
+      area: `het voetgangers-Casco Antiguo rond de kathedraal en de Plaza del Fontán, de cidre-wijk Calle Gascona en de groene heuvel Monte Naranco die zich ten noorden van de stad verheft`,
+    },
+    oxford: {
+      personality: `een middeleeuwse universiteitsstad waar de honingkleurige collegebinnenplaatsen verboden terrein zijn, maar de omliggende weiden, rivierpubs en het loslaatgebied Port Meadow haar tot een van de makkelijkste kleinstadsuitjes met hond van Engeland maken`,
+      highlight: `de loslaatweide Port Meadow, de Christ Church Meadow en de University Parks`,
+      area: `het stadscentrum, Jericho en North Oxford`,
+    },
+    padua: {
+      personality: `een als UNESCO-werelderfgoed geregistreerde Venetiaanse universiteitsstad, verankerd in de Prato della Valle, een van de grootste pleinen van Europa met 88.620 m², met meer dan 25 kilometer arcadegangen en een vlakke, compacte centro storico, ideaal voor lange wandelingen aan de lijn`,
+      highlight: `de elliptische kanaalrondweg van de 88.620 m² grote Prato della Valle, de marktpleinen Piazza delle Erbe en Piazza della Frutta, en de oeverrondweg langs het kanaal Bacchiglione`,
+      area: `de centro storico rond de Piazza delle Erbe en de Piazza dei Signori, de wijk Il Santo rond de basiliek en de wijk Prato della Valle`,
+    },
+    mahon: {
+      personality: `de wit gekalkte hoofdstad van Menorca aan het hoofd van de na Pearl Harbor tweede langste natuurlijke diepwaterhaven ter wereld, waar honden de 5 kilometer lange promenade Moll de Llevant aflopen en het 185 kilometer lange kustpad Camí de Cavalls het hele eiland omrondt`,
+      highlight: `de havenpromenade Port de Maó, de UNESCO-talayot-megalieten van Trepucó, het natuurpark S'Albufera des Grau en het kustpad Camí de Cavalls GR-223`,
+      area: `de oude stad, de havenkade Moll de Llevant en de oeverpromenade van Es Castell`,
+    },
+    olomouc: {
+      personality: `een van de rustigste, minst toeristische UNESCO-steden van Midden-Europa`,
+      highlight: `het wallenpark Bezručovy sady, de boswegen van Svatý Kopeček en de hondvriendelijke Zoo Olomouc`,
+      area: `de oude stad, Svatý Kopeček en de rivieruiterwaarden van de Morava`,
+    },
+    palma: {
+      personality: `een zonovergoten eilandhoofdstad aan de Middellandse Zee waar terrassen, stranden en een het hele jaar warm klimaat haar tot een van de hondvriendelijkste steden van Spanje maken`,
+      highlight: `het het hele jaar open hondenstrand Es Carnatge, het Parc de sa Riera en het terrein van het Castell de Bellver op de heuvel`,
+      area: `Santa Catalina, de oude stad (Casc Antic) en Portixol`,
+    },
+    soller: {
+      personality: `een stad in het sinaasappeldal van de UNESCO-Serra de Tramuntana in het noordwesten van Mallorca, te bereiken met een houten trein uit 1912 en een historische open tram uit 1913, waar honden aan de lijn het droogstenen wandelpad GR-221 en de natuurlijke hoefijzervormige baai van Port de Sóller eronder aflopen`,
+      highlight: `de modernistische Plaça d'Espanya, de 4 kilometer lange vuurtoren-rondwandeling Camí des Faros boven Port de Sóller en het droogstenen pad GR-221 Ruta de Pedra en Sec door Biniaraix`,
+      area: `het historische centrum rond de Plaça d'Espanya en de Gran Via, de kust van Port de Sóller en de gehuchten Biniaraix en Fornalutx boven het dal`,
+    },
+    valldemossa: {
+      personality: `een dorp met 2.000 inwoners in de UNESCO-Serra de Tramuntana, 17 kilometer ten noorden van Palma, gekenmerkt door het 14e-eeuwse klooster Real Cartuja waar Chopin en George Sand in 1838-39 overwinterden, het geplaveide, met bloemen omzoomde Casc Antic en het droogstenen pad GR-221 dat door het dorp loopt`,
+      highlight: `de kloostergang en tuinen van de Real Cartuja (cel 4 van Chopin en George Sand), de Plaça pública en het Casa Natal de Santa Catalina Tomàs in het Casc Antic, en het zonsondergangsuitzicht vanaf de Mirador des Pi des Català over de daken van het dorp`,
+      area: `het Casc Antic rond de Plaça pública en de Real Cartuja, de bovenste uitzichtpunten richting Pla des Pouet en de vissersbaai Port de Valldemossa, 7 kilometer onder het dorp`,
+    },
+    palamos: {
+      personality: `een vissershavenplaats met 17.000 inwoners in het centrum van de Costa Brava, in de comarca Baix Empordà van de provincie Girona, gekenmerkt door haar actieve vloot in de Port de Palamós (naar volume de derde grootste van Catalonië), de middagvisveiling in de Llotja de Palamós, de middeleeuwse klifruïnes van het Castell de Sant Esteve de Mar en een kust met vier baaien van de Platja Gran (stadscentrum) tot La Fosca, de ansichtkaartachtige vissershuttenbaai Cala S'Alguer, de Platja del Castell met haar het hele jaar open hondenstrandzone in het noordelijke gedeelte en de zuidelijke Cala Margarida, allemaal in het noorden verbonden door het 6 kilometer lange klifpad Camí de Ronda GR-92 tot aan Calella de Palafrugell, bekroond door de beschermde oorsprongsbenaming Gamba de Palamós en de slow-food-keuken Cuina del Peix de Palamós`,
+      highlight: `de actieve havenkade Port de Palamós rond de visveiling in de Llotja (17 uur), de vrij toegankelijke openluchtklifruïnes van het Castell de Sant Esteve de Mar met panoramisch uitzicht over La Fosca, de ansichtkaartachtige vissershuttenbaai Cala S'Alguer (alleen te voet via de GR-92 bereikbaar) en de het hele jaar open hondenstrandzone in het noordelijke gedeelte van de Platja del Castell`,
+      area: `de oeverpromenade Passeig del Mar langs de Platja Gran, de havenkade rond de Plaça Sant Pere tegenover de Llotja, de Casc-Antic-heuvel Sant Joan de Palamós en de baaiencorridor van de noordkust (La Fosca, Cala S'Alguer, Platja del Castell, Cap de Planes)`,
+    },
+    palermo: {
+      personality: `Sicilië's chaotisch-barokke hoofdstad, waar de UNESCO-Arabisch-Normandische oude stad, het het hele jaar open hondenstrand Mondello Bau-Beach 11 kilometer noordelijk en het 400 hectare grote Parco della Favorita haar tot de meest royale Zuid-Italiaanse hondenbestemming maken`,
+      highlight: `het barokke kruispunt Quattro Canti, het 11 kilometer noordelijk gelegen hondenstrand Mondello Bau-Beach en het 400 hectare grote Parco della Favorita aan de voet van de Monte Pellegrino`,
+      area: `de oude stad rond Quattro Canti en de markten Vucciria, Ballarò en Capo, de wijk Kalsa en de kust bij het Foro Italico`,
+    },
+    pamplona: {
+      personality: `de pintxo-hoofdstad van Noord-Spanje, Hemingways stad van de San Fermines, met het 28 hectare grote Citadelpark als dagelijkse wandelronde en een van de parkrijkste stedelijke netwerken van Spanje`,
+      highlight: `het 28 hectare grote Citadelpark met zijn omheinde loslaatzone, de 11 kilometer lange groene rondweg aan de rivier de Arga en het Japanse Yamaguchi-park`,
+      area: `de middeleeuwse oude stad rond de Plaza del Castillo, de citadel en de Vuelta del Castillo ten zuiden van het centrum, en de universiteitswijk Iturrama`,
+    },
+    paris: {
+      personality: `een stad waar honden bekend staan als welkom in cafés, winkels en veel restaurants`,
+      highlight: `het Bois de Boulogne, het Bois de Vincennes en honderden kleinere pleintjes`,
+      area: `Le Marais, Saint-Germain-des-Prés en Montmartre`,
+    },
+    parnu: {
+      personality: `Estlands zomerhoofdstad, een kuur- en badplaats die zo ontspannen omgaat met honden dat het VVV-kantoor een eigen lijst hondvriendelijke cafés publiceert, met vier officiële hondenzwemplekken rond de baai`,
+      highlight: `het omheinde dubbele hondenpark aan het strand Mai, het bastionpark Vallikäär en het vlonderpad over de kustweide Rannaniit`,
+      area: `de strandwijk rond de Ranna puiestee, de houten oude stad langs de Rüütli-straat en het rustigere Mai bij het hondenpark`,
+    },
+    perpignan: {
+      personality: `de zonnige Catalaanse hoofdstad van Zuid-Frankrijk, een compacte, hondvriendelijke stad met zo'n 37 aangewezen hondengebieden, een tolerante terrascultuur en makkelijke toegang tot de hondvriendelijke stranden van de Roussillon`,
+      highlight: `Le Castillet en de oude stad, de vestingwerken van het Palais des Rois de Majorque en het het hele jaar open hondengebied aan het strand Lido van Canet-en-Roussillon`,
+      area: `het historische centrum rond Le Castillet en de Place de Verdun, de oevers van de Têt en de kust van de Roussillon bij Canet en Torreilles`,
+    },
+    perth: {
+      personality: `de Australische hoofdstad met de langste leibandvrije kust, waar meer dan twee kilometer hondenstrand bij Mosman en Leighton dag en nacht geopend blijft, terwijl Transperth huisdieren weert uit alle treinen, bussen en veerboten`,
+      highlight: `het hondenstrand van Mosman en Leighton, het omheinde agility-park in het Ozone Reserve en de bospaden van het Kings Park`,
+      area: `Fremantle, Cottesloe en North Fremantle, en East Perth`,
+    },
+    perugia: {
+      personality: `een van de hondvriendelijkste heuvelsteden van Midden-Italië`,
+      highlight: `het hondenpark Pian di Massiano, de wandeling over het middeleeuwse aquaduct en de wandelpaden van de Monte Tezio`,
+      area: `de oude stad, Borgo XX Giugno en Pian di Massiano`,
+    },
+    piran: {
+      personality: `Slovenië's Venetiaanse juweel aan de Adriatische Rivièra, een autovrij stenen schiereiland met pastelkleurige huizen, het Tartini-plein en de klokkentoren van San Giorgio, met huisdiervriendelijke terrassen aan zee, Montys Dog Beach in Lucija, en de zoutpannen van Sečovlje en de flysch-kliffen van Strunjan binnen makkelijk bereik`,
+      highlight: `het Tartini-plein en de oeverpromenade, het panoramapad langs de stadsmuren van Piran en Montys Dog Beach in Lucija`,
+      area: `de middeleeuwse oude stad rond het Tartini-plein, de kade Prešernovo nabrežje en de landtong met de vuurtoren Punta`,
+    },
+    pisa: {
+      personality: `een compacte Toscaanse UNESCO-stad gecombineerd met het 23.000 hectare grote Park San Rossore en een het hele jaar open hondenstrand in Marina di Pisa, alles binnen twintig minuten van het centrum`,
+      highlight: `het grasveld van het Veld der Wonderen, het dennenbos van San Rossore en het hondenstrand van Marina di Pisa`,
+      area: `Sant'Antonio, de Lungarni en Borgo Stretto`,
+    },
+    portland: {
+      personality: `een van de steden van Noord-Amerika die echt voor honden gemaakt zijn, waar overdekte brouwerijcafé-terrassen, meer dan dertig loslaatgebieden en een 5.200 hectare groot stadsbos zwaarder wegen dan het weer`,
+      highlight: `het Forest Park en het Wildwood Trail, het loslaatgebied The Fields in het Pearl District en de rivieroever in het Sellwood Riverfront Park`,
+      area: `het Pearl District, het noordwesten van Portland en Slabtown, en Alberta Arts`,
+    },
+    porto: {
+      personality: `een heuvelachtige, sfeervolle stad waar honden er gewoon bij horen, in trams, in de tuinen van de wijnbars en langs de oeverpromenade van de Douro`,
+      highlight: `de Jardins do Palácio de Cristal, de Douro-oever (Ribeira) en het park Serralves`,
+      area: `Ribeira, Bonfim en Foz do Douro`,
+    },
+    poznan: {
+      personality: `de bakermat van de Poolse staat, gesticht in 966 op het domeiland, met een van de grootste middeleeuwse marktpleinen van Europa (Stary Rynek), het 64 hectare grote Malta-meer midden in de stad en zo'n veertig omheinde hondenloslaatzones verspreid over het centrum`,
+      highlight: `het park Cytadela met zijn panoramaterras boven de oude stad, de 5 kilometer lange oeverrondweg aan het Malta-meer en het 30 kilometer zuidelijk gelegen Nationaal Park Wielkopolska voor uitgebreide boswandelingen`,
+      area: `de oude stad rond de Stary Rynek en het domeiland, de alternatieve wijk Jeżyce en de wijk Sołacz met zijn jugendstilpark`,
+    },
+    torun: {
+      personality: `een UNESCO-oude stad van bakstenen gotiek aan de Weichsel, geboorteplaats van Nicolaus Copernicus, met twee middeleeuwse marktpleinen, de scheve toren in de stadsmuur en een vlakke, compacte kern die met hond in vijftien minuten te voet te verkennen is`,
+      highlight: `de Rynek Staromiejski onder het gotische stadhuis, de scheve toren en de wandeling langs de stadsmuur bij de Weichsel, en de Weichseloever Bulwar Filadelfijski onder de middeleeuwse muren`,
+      area: `de UNESCO-oude stad rond de Rynek Staromiejski, de rivieroever langs de Bulwar Filadelfijski en de groene wijk Bydgoskie Przedmieście ten westen van het centrum`,
+    },
+    prague: {
+      personality: `een compacte, goed te voet te verkennen stad waar honden welkom zijn in de meeste kroegen, wijnbars en zelfs in sommige overdekte markten`,
+      highlight: `de parken Stromovka en Letná, en de oeverpaden in het Nusle-dal`,
+      area: `Vinohrady, Žižkov en Malá Strana`,
+    },
+    reims: {
+      personality: `de elegante hoofdstad van de Champagne, een UNESCO-stad waar gotische kathedralen, art-decogevels en met wijnranken omzoomde lanen uitnodigen tot lange wandelingen met hond aan de lijn`,
+      highlight: `de promenades rond de Place de la République, het beboste Parc de Champagne en de jaagpaden van het kanaal richting Cernay`,
+      area: `het historische centrum bij de Cathédrale Notre-Dame, de Place Drouet d'Erlon en de groene wijk rond het Parc de Champagne`,
+    },
+    regensburg: {
+      personality: `een Beierse stad met 155.000 inwoners aan de Donau, waarvan een van de best bewaarde middeleeuwse oude steden van Europa (UNESCO-werelderfgoed sinds 2006) met hond in 30 minuten helemaal te voet te verkennen is, aanmerkelijk rustiger dan München of Neurenberg`,
+      highlight: `de 12e-eeuwse Steinerne Brücke en de Donau-oever, het Stadtpark Regensburg met de Jahninsel, en de terrassen van de Walhalla 10 kilometer oostelijk in Donaustauf`,
+      area: `de UNESCO-oude stad rond Domplatz en Haidplatz, de eilandwijk Stadtamhof aan de overkant van de Steinerne Brücke en de groene wijken rond het Stadtpark ten zuiden van het centrum`,
+    },
+    rennes: {
+      personality: `de regionale hoofdstad van Bretagne, waarvan het middeleeuwse vakwerkcentrum (heropgebouwd na de brand van 1720), het 10 hectare grote Parc du Thabor en Frankrijks op één na grootste zaterdagmarkt op de Place des Lices haar tot een van de wandel- en hondvriendelijkste steden van Noordwest-Frankrijk maken`,
+      highlight: `de Place du Parlement de Bretagne, het centrale Parc du Thabor en het jaagpad langs de Vilaine, dat verder gaat naar het 84 kilometer lange Ille-et-Rance-kanaal richting Saint-Malo`,
+      area: `het middeleeuwse vakwerkcentrum rond de Rue du Chapitre en de Place Sainte-Anne, de elegante 19e-eeuwse wijk Thabor-Saint-Hélier en de heropgebouwde classicistische wijk rond het Parlement`,
+    },
+    reykjavik: {
+      personality: `de meest noordelijke hoofdstad ter wereld en een van de hondvriendelijkste. Met uitgestrekte lavavelden, geothermische stranden en een cultuur die honden overal mee naartoe neemt`,
+      highlight: `het dal Elliðaárdalur, de heuvel Öskjuhlíð en de kustwandeling naar de vuurtoren Grótta`,
+      area: `de oude stad (Miðborg), Laugardalur en Álftanes`,
+    },
+    riga: {
+      personality: `een prachtig gerestaureerde jugendstilstad met een uitgesproken Baltische buitencultuur. Honden horen er gewoon bij in parken, op markten en langs de oevers van de Daugava`,
+      highlight: `het bospark Mežaparks, het park Bastejkalns en de oeverpromenade aan de Daugava`,
+      area: `de oude stad (Vecrīga), de jugendstilwijk en Āgenskalns`,
+    },
+    rimini: {
+      personality: `de hoofdstad van de Italiaanse Adriatische Rivièra en een van de beste strandsteden van het land voor hondeneigenaren, met het grootste aangewezen hondenstrand aan de kust van Emilia-Romagna en een ontspannen Romagna-cafécultuur`,
+      highlight: `het hondenstrand Rimini Dog No Problem bij Bagno 81-82, het omheinde loslaatterrein FIDOPARK in het Parco Marecchia en de Romeinse Tiberiusbrug naar de Borgo San Giuliano`,
+      area: `Marina Centro langs de strandboulevard, het historische centrum rond de Piazza Cavour en de kleurrijke Borgo San Giuliano`,
+    },
+    rome: {
+      personality: `een stad waar honden hun baasjes overal vergezellen. Van het ochtendlijke cornetto-rondje tot de avondlijke passeggiata`,
+      highlight: `de tuinen van de Villa Borghese, de loslaatgebieden van het Parco dell'Appia Antica en de oeverpaden langs de Lungotevere`,
+      area: `Prati, Trastevere en Pigneto`,
+    },
+    roses: {
+      personality: `een vissershaven- en badplaats met 20.000 inwoners aan de noordelijke Costa Brava, gegroepeerd rond de renaissance-vesting Ciutadella de Roses, een vijfhoekige vestingaanleg uit de 16e eeuw, gebouwd onder Karel V op het terrein van de antieke Griekse kolonie Rhode (8e eeuw v.Chr.) en het Romeinse Rhodes, met de 12 kilometer lange baai Bahía de Roses die zich naar het zuiden opent, en het in het noorden oprijzende natuurpark Cap de Creus, plus het legendarische erfgoed van restaurant El Bulli in de Cala Montjoi (Ferran Adrià, 1962-2011, foundation-museum sinds 2023)`,
+      highlight: `de renaissance-muren van de Ciutadella de Roses met de opgegraven Grieks-Romeins-Westgotische ruïnes, de dolmen Dolmen de la Creu d'en Cobertella (de grootste dolmen van Catalonië, ca. 3000 v.Chr.), het 17e-eeuwse Castell de la Trinitat op de Punta Falconera en de zuidelijke toegang tot het natuurpark Cap de Creus via Cala Montjoi en Cala Joncols`,
+      area: `de casc antic rond de Esglesia de Santa Maria en de Plaça de Catalunya, de Passeig Marítim langs de baai Bahía de Roses en de zuidelijke toegang tot de Cap de Creus tot Cala Montjoi en Cala Joncols`,
+    },
+    rotterdam: {
+      personality: `een van de hondvriendelijkste steden van Nederland, waar huisdieren gratis meereizen in het openbaar vervoer en de meeste caféterrassen ze principieel verwelkomen`,
+      highlight: `het 28 hectare grote loslaatgebied in het Het Park naast de Euromast, het bos en meer Kralingse Bos, en het strand Maasvlakte`,
+      area: `Middelland langs de Nieuwe Binnenweg, de kunstwijk Witte de With en de oever rond de Veerhaven`,
+    },
+    rugen: {
+      personality: `Duitslands grootste eiland en een van de hondvriendelijkste kusten van de Oostzee, met officiële hondenstrandgedeeltes in elk Oostzeebad en bijna de hele kust die van oktober tot april open is voor honden`,
+      highlight: `de hondenstranden van Binz, Sellin en Baabe, het klifpad langs de steile kust door het Granitz-bos en de wandelpaden met leibandplicht in Nationaal Park Jasmund`,
+      area: `Binz rond de promenade en de strandtoegangen 50-51, Sellin bij de pier en het rustigere Baabe aan het vissersstrand`,
+    },
+    salamanca: {
+      personality: `een universiteitsstad van gouden zandsteen in Castilië, UNESCO-werelderfgoed sinds 1988, waar honden aan de lijn door barokke arcades slenteren en de oever van de Tormes het hart vormt van de avondwandelingen`,
+      highlight: `de Plaza Mayor en de Rúa Mayor, de oever van de Tormes (Salas Bajas) en het Parque de los Jesuitas met zijn omheinde loslaatgebied`,
+      area: `de oude stad rond de Plaza Mayor, de rivieroever ten zuiden van de Romeinse brug en het groene gebied bij de Universidad de Salamanca`,
+    },
+    salcombe: {
+      personality: `een beschutte zeilstad in South Devon aan de monding van het Kingsbridge-estuarium, waar honden de pubs aan het water, de kleine veerboten en de kustpaden van de National Trust delen, met seizoensgebonden hondenregels voor strandtoegang die goed te plannen zijn`,
+      highlight: `de het hele jaar hondvriendelijke stranden North Sands en Mill Bay, de hondvriendelijke veerboten over het estuarium en het kustpad naar Bolt Head en Snapes Point`,
+      area: `de Fore Street en de oever Whitestrand, North Sands en South Sands, en de estuarium-oversteek naar East Portlemouth en Mill Bay`,
+    },
+    woolacombe: {
+      personality: `een surfdorp in North Devon aan een prachtig, vijf kilometer lang Blue Flag-strand, waar honden de strandboulevard, de landtongen van de National Trust en een het hele jaar open hondenstrandgedeelte delen, met gezoneerde, seizoensgebonden maar goed te plannen strandtoegang`,
+      highlight: `het het hele jaar hondvriendelijke zand ten zuiden van Mill Rock en bij Putsborough, de strandboulevard en het dorp Mortehoe, en de kustpaden naar Morte Point en Baggy Point`,
+      area: `de strandboulevard van Woolacombe, het zuidelijke strandgedeelte aan de overkant van Mill Rock tot Putsborough en het op een heuvel gelegen dorp Mortehoe`,
+    },
+    salzburg: {
+      personality: `een compacte alpenstad waar architectuur uit de Mozarttijd, glooiende weiden en de omliggende bergen van het Salzkammergut een betoverend decor vormen voor reizen met huisdier`,
+      highlight: `het park Hellbrunn, het oeverpad langs de Salzach en de wandelpaden op de Kapuzinerberg`,
+      area: `de oude stad, Schallmoos en Mülln`,
+    },
+    'saint-tropez': {
+      personality: `een Provençaals havenstadje met 4.000 inwoners aan de westelijke Côte d'Azur, gekenmerkt door de levendige Vieux Port met zijn cafés onder rode markiezen, de 16e-eeuwse Citadelle met haar esplanade en marinemuseum, de door platanen beschaduwde markt aan de Place des Lices op dinsdag en zaterdag, de 5 kilometer lange baai van Pampelonne net achter de heuvel in Ramatuelle, en het 35 kilometer lange kustpad Sentier du Littoral rond het hele schiereiland`,
+      highlight: `de kade van de Vieux Port en de oude vissersbuurt La Ponche, de esplanade van de Citadelle met panoramisch uitzicht over de golf, de markt en het jeu-de-boulesplein aan de Place des Lices, en het Sentier du Littoral van het Plage des Salins rond het Cap de Saint-Tropez`,
+      area: `de Vieux Port en La Ponche, het centrum rond de Place des Lices, de corridor van de Route des Plages richting Pampelonne en het oostelijke schiereiland Salins/Cap de Saint-Tropez`,
+    },
+    'san-diego': {
+      personality: `de stad met de meeste hondenstranden van de VS, waarvan het klimaat het hele jaar een leven buiten mogelijk maakt en die zo'n twintig aangewezen loslaatlocaties telt, voorop het Dog Beach in Ocean Beach (sinds 1972 officieel leibandvrij en dag en nacht open), het Coronado Dog Beach en de leibandvrij te gebruiken oeverstrook van Fiesta Island`,
+      highlight: `het Dog Beach aan de voet van de Voltaire Street, het Coronado Dog Beach aan het noordelijke uiteinde van North Beach, de 8,4 kilometer lange rondweg op Fiesta Island met beschut zwemmen in de baai en de klifpaden in het Sunset Cliffs Natural Park`,
+      area: `Ocean Beach en Point Loma voor directe toegang tot het Dog Beach, Liberty Station en Bay Park voor hondvriendelijke brouwerijterrassen, en Little Italy en Mission Valley voor de nabijheid van de binnenstad en de 24-uurs dierenklinieken`,
+    },
+    'san-francisco': {
+      personality: `de koele, in nevel gehulde Pacifische poort naar de Bay Area, met een van de dichtste loslaatnetwerken van de VS van zo'n 30 omheinde Rec & Park Dog Play Areas en de landelijke GGNRA-zones met terugroepcontrole (Crissy Field East Beach met uitzicht op de Golden Gate Bridge, de kliffen en het strand van Fort Funston, Ocean Beach ten noorden van trap 21)`,
+      highlight: `het Crissy Field East Beach met uitzicht op de Golden Gate Bridge, het Sunset Trail en strand van Fort Funston, de loslaatgebieden Hellman Hollow en Speedway Meadow in het Golden Gate Park, en het kustpad Lands End naar de ruïnes van de Sutro Baths`,
+      area: `de Marina en Pacific Heights voor hotelterrassen, Hayes Valley en de Mission voor hondvriendelijke restaurants, en het Sunset District en Richmond voor de nabijheid van het Golden Gate Park en Ocean Beach`,
+    },
+    'san-sebastian': {
+      personality: `een Baskische kuststad waar honden in sommige wijken talrijker zijn dan kinderen en de stranden van oktober tot mei voor hen openstaan`,
+      highlight: `de stranden La Concha en Zurriola (oktober-mei), de wandelpaden op de Monte Urgull en het kustpad Paseo Nuevo`,
+      area: `de oude stad (Parte Vieja), Gros en de wijk Antiguo bij de Monte Igueldo`,
+    },
+    'sankt-polten': {
+      personality: `de rustige Neder-Oostenrijkse deelstaathoofdstad met 56.000 inwoners aan de Traisen, met een barokke voetgangers-oude stad, de modernistische regeringswijk en de Klangturm, en de Wachau-wijnplaatsen Dürnstein, Spitz en Krems, allemaal binnen 45 minuten bereikbaar`,
+      highlight: `het oeverpad langs de Traisen door het Traisenpark, het dakterras van de Klangturm in de regeringswijk en een dagtripje naar de Wachau naar Dürnstein en Spitz`,
+      area: `de voetgangers-oude stad rond het Rathausplatz, de modernistische regeringswijk aan de Traisen en de merenwijk Viehofen ten noorden van het centrum`,
+    },
+    'sant-antoni': {
+      personality: `de westelijke Ibiza-hoofdstad met 28.000 inwoners, wereldberoemd om de klifbars van de Sunset Strip en de sinds 1980 bestaande mixtape-traditie van Cafe del Mar, de 14e-eeuwse Església de Sant Antoni de Portmany (de oudste kerk van Ibiza), het Hostal La Torre en de Punta Galera voor rustigere zonsondergangen, en de Baleària-sneleatamaran naar Dénia vanaf de Port Deportiu Marina`,
+      highlight: `de zonsondergang bij Cafe del Mar of het Hostal La Torre, het toppad naar de Sa Talaia (475 meter, hoogste punt van Ibiza), buiten het seizoen de klifwandelingen bij Cala Bassa en Cala Conta, en boottochtjes naar de Es Vedrà vanaf de Port Deportiu`,
+      area: `het Passeig Marítim en de jachthaven Port Deportiu, het oude-stadsplein rond de Església de Sant Antoni, de Sunset Strip van Cafe del Mar tot Cap Negret en de baaien van de westkust Cala Bassa, Cala Conta, Cala Tarida en Cala Salada`,
+    },
+    'sant-josep': {
+      personality: `de qua oppervlakte grootste gemeente van Ibiza, met 28.000 inwoners verspreid over het hele zuiden van het eiland, thuisbasis van de Es Vedrà (de 382 meter loodrecht uit zee oprijzende kalksteenmonoliet voor de Cala d'Hort), de Sa Talaia (met 475 meter het hoogste punt van het eiland), de 18e-eeuwse Església de Sant Josep aan het dorpsplein, het UNESCO-biosfeerreservaat Parque Natural de Ses Salines d'Eivissa i Formentera, de steengroevebaai Sa Pedrera (Atlantis) en het 2,7 kilometer lange strandgedeelte Platja d'en Bossa, waarbij vliegveld Ibiza (IBZ) op haar grondgebied ligt`,
+      highlight: `de zonsondergang boven de Es Vedrà bij de Cala d'Hort, het toppad naar de Sa Talaia vanaf het dorp (475 meter, hoogste punt van Ibiza), de dijkpaden door de zoutpannen van Ses Salines met winterse flamingo's, buiten het seizoen de baaiwandelingen bij Cala Vadella en Cala Carbó, en boottochtjes naar de Es Vedrà vanaf de Cala d'Hort`,
+      area: `het dorpsplein en casco antiguo van Sant Josep, Sant Jordi de ses Salines naast het vliegveld, Es Cubells en Cala d'Hort op de kliffen in het zuidwesten, de zuidwestelijke baaien Cala Vadella, Cala Tarida, Cala Molí en Cala Carbó, en Cala Jondal, Sa Caleta en Platja d'en Bossa aan de zuidkust`,
+    },
+    'santa-eulalia': {
+      personality: `het rustigere gezinsoord aan de oostkust van Ibiza, een gemeente met 38.000 inwoners rond de wit gekalkte 16e-eeuwse kerkvesting Puig de Missa, de enige het hele jaar stromende rivier van de Pityusen met de Romeinse brug Pont Vell en de molen mil de baix, een lange Paseo Marítimo met jachthaven, en de zaterdagse hippiemarkt Las Dalias in Sant Carles`,
+      highlight: `het panorama vanaf de kerkvesting Puig de Missa op de heuvel, de dalwandeling langs de Riu de Santa Eulària naar de Pont Vell en de molen mil de baix, het het hele jaar open hondenstrand Cala Nova ten noorden van Es Canar, en de zaterdagse hippiemarkt Las Dalias in Sant Carles`,
+      area: `de strandboulevard en jachthaven Santa Eulària, de voetgangerszone Carrer Sant Vicent, het dal van de Riu de Santa Eulària tot aan de Puig de Missa, en de oostkustplaatsen Es Canar, S'Argamassa en Cala Llonga`,
+    },
+    sanremo: {
+      personality: `de bloemenhoofdstad van de Italiaanse Rivièra in de Ligurische provincie Imperia, een vriendelijke, vlakke badplaats met palmboulevards en een van de mildste klimaten van Italië, ontspannen met hond op pad, zelfs waar het casino en de kerkinterieurs verboden terrein blijven: honden aan de lijn wandelen over de Corso Imperatrice langs de strandboulevard, fietsen het lange kustpad Pista Ciclabile op de oude spoorlijn Genua-Ventimiglia af, en bereiken een aangewezen hondenstrand, terwijl de zomerse stabilimenti honden weren van het betaalde zand`,
+      highlight: `het vlakke, 24 kilometer lange Pista Ciclabile del Parco Costiero Riviera dei Fiori op de voormalige kustspoorlijn, de door palmen omzoomde promenade Corso Imperatrice, de exotische Giardini di Villa Ormond, de middeleeuwse oude stad La Pigna, en het gratis hondenstrand Pian di Poma en het hondenstrand Baubeach in het nabijgelegen Arma di Taggia`,
+      area: `de vlakke strandboulevard en de Corso Imperatrice, de Porto Vecchio en de Marina Portosole met het erachter gelegen restaurantplein Piazza Bresca, de op een heuvel gelegen oude stad La Pigna, en de naburige Riviera-dei-Fiori-plaatsen Ospedaletti, Bordighera, Arma di Taggia en San Lorenzo al Mare langs het fietspad`,
+    },
+    santander: {
+      personality: `de hoofdstad van Cantabrië aan de baai, met een belle-époque strandboulevard, het koninklijke schiereiland Magdalena, een aangewezen loslaatzone in het Parque de las Llamas en Brittany Ferries-overtochten naar Plymouth en Portsmouth vanaf de Estación Marítima`,
+      highlight: `de 8 kilometer lange wandeling langs zee van de Estación Marítima via de Paseo Pereda en de Península de la Magdalena tot de vuurtoren Faro de Cabo Mayor, plus de Playa del Sardinero buiten het seizoen (okt-apr)`,
+      area: `het Casco Antiguo rond de kathedraal en de Mercado de la Esperanza, de hotelwijk Sardinero en het schiereiland Magdalena dat de baai in het oosten afsluit`,
+    },
+    'santiago-de-compostela': {
+      personality: `een door UNESCO geroemde pelgrimshoofdstad waar de Camino de Santiago een duizendjarige traditie heeft gevormd om honden te verwelkomen door de met graniet geplaveide oude stad`,
+      highlight: `de vier pleinen rond de kathedraal, het park Alameda met zijn loslaatzone Carballeira de Santa Susana en het uitzichtrijke Parque de Bonaval`,
+      area: `het casco antiguo rond de kathedraal, de groene Alameda-corridor en de woonwijken Conxo en Vista Alegre`,
+    },
+    santorini: {
+      personality: `het sikkelvormige vulkanische Cycladen-eiland waar wit gekalkte klifdorpjes zich uitstrekken langs een 300 meter hoge calderarand, het 10 kilometer lange klifpad Fira-Imerovigli-Oia de klassieke hondenwandeling vormt (bij zonsopgang of na 17 uur, 's middags worden de pootjes te heet), de landinwaarts gelegen heuveldorpjes Pyrgos en Megalochori een rustige, authentieke Cycladensfeer bieden, en de Minoïsche bronstijd-opgraving Akrotiri onder een bioklimatisch dak aan de zuidpunt ligt`,
+      highlight: `het klifpad Fira-Oia langs de caldera, het Kasteli op de heuvel van Pyrgos met 360 graden panorama, en de maanlandschapachtige kliffen van Vlychada boven het lange zwarte zandstrand`,
+      area: `Fira (hoofdstad en KTEL-busknooppunt) aan de calderarand, de dorpjes in het binnenland Pyrgos, Megalochori en Karterados voor rustigere, huisdiervriendelijke verblijven, en de plaatsen aan de zuidkust Perissa, Perivolos en Vlychada`,
+    },
+    sanxenxo: {
+      personality: `Galiciës toonaangevende badplaats in de Rías Baixas, in de provincie Pontevedra, met het 750 meter lange Blauwe Vlag-strand Praia de Silgar, de 6 kilometer lange strandboulevard Silgar-Baltar, het nabijgelegen pakhuisdorp Combarro en de wilde duinen van A Lanzada, waarbij de stranden 's zomers voor honden gesloten zijn en tochtjes naar de eilanden Cíes en Ons niet toegestaan zijn voor huisdieren`,
+      highlight: `de promenade Silgar-Baltar, het wilde strand en de landtong A Lanzada, en de het hele jaar open hondenstranden van O Grove op zo'n 20 kilometer`,
+      area: `de strandboulevard en jachthaven Silgar in het centrum, de vissersbuurt Portonovo en de landengte A Lanzada richting O Grove`,
+    },
+    seattle: {
+      personality: `de hondenhoofdstad van het Pacifische Noordwesten, met meer dan een dozijn aangewezen loslaatgebieden en een overdekte, verwarmde biertuincultuur die honden het hele jaar welkom heet, wat echter wordt gecompenseerd door parkregels die honden weren van elk strand en zwemgebied van de stad`,
+      highlight: `het loslaatgebied in het Magnuson Park aan Lake Washington (het enige binnenstedelijke loslaatgebied met watertoegang), het 16 hectare grote county-loslaatgebied in het Marymoor Park, inmiddels lopend te bereiken vanaf het Marymoor Village-station, het volledig omheinde Westcrest Park in West Seattle, en de paden langs de Elliott Bay en het Burke-Gilman Trail`,
+      area: `Fremont en Wallingford voor proeflokalen en toegang tot de paden, Ballard voor biertuinen die honden ook binnen welkom heten, en Queen Anne en Belltown voor wandelingen aan het water vanaf het Olympic Sculpture Park`,
+    },
+    sete: {
+      personality: `een havenstad met 44.000 inwoners in het departement Hérault, gebouwd tegen de hellingen van de Mont Saint-Clair tussen de Middellandse Zee en de oesterlagune Étang de Thau, vanwege haar levendige kanalennetwerk het Venetië van de Languedoc genoemd, met een 175 meter hoge, beboste uitzichttop, de begraafplaats Cimetière Marin van Paul Valéry, het 12 kilometer lange Plage de la Corniche met het het hele jaar open hondloslaatstrand Lazaret plage canine, en een hondvriendelijke passagiersveerboot over de lagune naar de oesterdorpjes van Bouzigues`,
+      highlight: `het het hele jaar open hondloslaatstrand Lazaret plage canine aan het Plage de la Corniche, het panoramaterras op de Mont Saint-Clair bij Notre-Dame de la Salette, en de passagiersveerboot Sète-Mèze over de Étang de Thau`,
+      area: `de oeverpromenades Quai de la Résistance en Quai de la Marine langs het Canal Royal, de historische vissersbuurt Pointe Courte aan de Étang de Thau, en de beboste hellingen van de Mont Saint-Clair boven het centrum`,
+    },
+    seville: {
+      personality: `een van de hondvriendelijkste steden van Andalusië. Waar honden wandelen onder sinaasappelbomen, hun baasjes vergezellen op tapasbarterrassen en parken aan de rivier verkennen`,
+      highlight: `het Parque de María Luisa, het park Alamillo en de oeverpromenade aan de Guadalquivir`,
+      area: `Triana, Santa Cruz en El Arenal`,
+    },
+    sitges: {
+      personality: `de Catalaanse kuststad 35 kilometer ten zuidwesten van Barcelona met 17 stranden over 3,5 kilometer van de Costa del Garraf, het aangewezen hondenstrand Platja de la Bassa Rodona in het tijdvenster augustus-september, de kasseien van het Casc Antic rond de klifkerk Sant Bartomeu en het Palau Maricel, en een van de meest gevestigde LGBT-reisscenes van Europa rond Carnaval en het Fantastic Film Festival`,
+      highlight: `het hondentijdvenster aan de Platja de la Bassa Rodona en de baai Platja dels Balmins buiten het seizoen, de silhouet van de klifkerk Sant Bartomeu boven de Passeig Marítim, en de wandelpaden in het Parc Natural del Garraf landinwaarts`,
+      area: `het Casc Antic rond de kerk Sant Bartomeu, de 2 kilometer lange Passeig Marítim van de haven Aiguadolç tot Terramar, en de LGBT-wijk rond de Carrer del Primer de Maig`,
+    },
+    cadaques: {
+      personality: `het pueblo blanco met 2.800 inwoners aan het einde van de bergweg GI-614 op de landtong Cap de Creus, met een wit gekalkte oude-stadswijk die oploopt naar de barokke Església de Santa Maria, Salvador Dalí's familiehuis in Port Lligat, Spanjes eerste zee-land natuurpark, de meest oostelijke vasteland-vuurtoren Faro de Cap de Creus, en een tramuntana-wind die zowel het landschap als het lokale ritme bepaalt`,
+      highlight: `het kustpad GR-92 van de Riba Pianc naar Port Lligat langs het Casa-Museu Salvador Dalí, de leisteenpaden in het natuurpark Cap de Creus naar de vuurtoren en de Cala Jugadora, en de dorpswoonkamer Plaça Frederic Rahola rond de avondlijke ronda om 19 uur`,
+      area: `de havenpromenade Riba tussen Es Baluard en Plaça Frederic Rahola, de met leisteen geplaveide steegjes van de oude-stadswijk Carrer des Call omhoog naar de Santa Maria, en de 1,5 kilometer noordelijk gelegen baai Port Lligat rond het Dalí-huis`,
+    },
+    siena: {
+      personality: `een UNESCO-werelderfgoed heuvelstad met 53.000 inwoners in Zuid-Toscane, gebouwd rond de schelpvormige Piazza del Campo en onderverdeeld in 17 contrade (middeleeuwse stadswijken) die op 2 juli en 16 augustus tegen elkaar strijden bij de paardenrace Palio, met de zwart-wit gestreepte marmeren dom, de 102 meter hoge Torre del Mangia, het 14e-eeuwse Palazzo Pubblico, de panoramamuren van de Fortezza Medicea, de pelgrimsroute Via Francigena door de Porta Camollia en de Porta Romana, de regionale Trenitalia-trein naar Florence die honden met muilkorf voor de halve prijs meeneemt, en de Tiemme-bus naar San Gimignano, Volterra, Montepulciano en vliegveld Florence FLR`,
+      highlight: `de schelpvormige Piazza del Campo met de Torre del Mangia en de fontein Fonte Gaia, de 1,2 kilometer lange panoramarondweg op de muren van de Fortezza Medicea met de loslaatzone bij het zuidoostelijke bastion, de middeleeuwse dalttuin Orto de' Pecci in de laagte onder het Campo, de fonteinen en musea van de 17 contrade, en de pelgrimsetappes 31 naar Monteriggioni (20 kilometer noordelijk) en 32 naar Ponte d'Arbia (24 kilometer zuidelijk) van de Via Francigena door de glooiende heuvels van de Crete Senesi`,
+      area: `het ommuurde UNESCO-centrum rond de Piazza del Campo, de Piazza del Duomo en de drie terzi (Camollia, Città, San Martino), de Fortezza Medicea en de tuinen van La Lizza aan de noordwestelijke rand, de laagte Orto de' Pecci direct onder de zuidkant van het Campo, en het station Stazione di Siena aan de noordelijke stadsrand, verbonden met het centrum via roltrappen/loopbanden door de Galleria Antiporto`,
+    },
+    setubal: {
+      personality: `een levendige Atlantische haven rond het Sado-estuarium, met turquoise kalksteenbaaien van de Arrábida 15 minuten van het centrum, een gratis, het hele jaar durend schouwspel van tuimelaars vanaf de hondvriendelijke Tróia-veerboot, het 110 km² grote natuurpark Serra da Arrábida dat direct uit zee oprijst, en een onderschatte tasca-cultuur rond choco frito en Moscatel`,
+      highlight: `de Arrábida-baaien bij Figueirinha, Galapinhos en Portinho da Arrábida, de hondvriendelijke Atlantic Ferries-overtocht naar het schiereiland Tróia, en het panorama vanaf het Forte de São Filipe over het Sado-estuarium`,
+      area: `het historische centrum rond de Praça do Bocage en de Avenida Luísa Todi, de oever van Albarquel aan de westelijke stadsrand en de klifweg van de Arrábida richting Portinho`,
+    },
+    sintra: {
+      personality: `het UNESCO-culturele landschap 30 minuten van Lissabon, met kleurrijke romantische paleizen in de Serra de Sintra, de hondvriendelijke parkaanleg van de Parques de Sintra bij Pena, Regaleira, Monserrate en Capuchos, en een mild Atlantisch klimaat dat het hele jaar huisdiervriendelijk blijft`,
+      highlight: `de tuinen van het Parque da Pena en de Quinta da Regaleira, de muren van het Castelo dos Mouros, en de kliffen van de Cabo da Roca op het meest westelijke punt van het Europese vasteland`,
+      area: `de Vila Velha rond het Palácio Nacional, de woonwijk Estefânia bij het station, en het dorpsplein van São Pedro de Sintra`,
+    },
+    sofia: {
+      personality: `een van de goedkoopste hoofdsteden van de EU, met bijna 500 hondvriendelijke etablissementen, twee 24 uur per dag geopende dierenklinieken en het 2.290 meter hoge Vitosha-gebergte dat direct uit de stad oprijst`,
+      highlight: `het Borisova Gradina, het Yuzhen-park en de wandelpaden in het natuurpark Vitosha`,
+      area: `de Vitosha-boulevard, Lozenets en Boyana`,
+    },
+    sopot: {
+      personality: `het kuuroordhart van de Poolse Driestad, een badplaats met 35.000 inwoners, beroemd om Europa's langste houten pier (512 meter, honden aan de lijn gratis), sinds de regelwijziging van 2025 het hele jaar toegang tot het strand voor honden en twaalf gratis loslaatgebieden, waaronder het met agility-toestellen uitgeruste Błonia Sopockie`,
+      highlight: `de 512 meter lange pier en de boulevard Monte Cassino, het hondenstrandgedeelte bij de toegangen 43-45 bij het Park Północny, en de boswegen van de Leśna Opera omhoog naar de Łysa Góra`,
+      area: `Dolny Sopot rond de pier en de Monte Cassino, Karlikowo bij het loslaatgebied Błonia en Kamienny Potok bij het noordelijke hondenstrand`,
+    },
+    'cinque-terre': {
+      personality: `vijf door UNESCO geroemde Ligurische vissersdorpjes (Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore), op een rij aan getrapte kliffen in de provincie La Spezia, echt hondvriendelijk waar het ertoe doet: honden aan de lijn reizen mee met de regionale trein Cinque Terre Express en de veerboot van de Golfo dei Poeti en lopen de kustpaden van de CAI en het heropende Via dell'Amore, al zijn de dorpjes steil en hun stranden beperkt toegankelijk`,
+      highlight: `de heropende oeverpromenade Via dell'Amore tussen Riomaggiore en Manarola, het kustpad Sentiero Azzurro (Blauwe Pad), te belopen met de Cinque Terre Trekking Card, de uitzichtrijke kliftuin Punta Bonfiglio boven Manarola, de haven van Vernazza met het uitzichtpunt bij het Castello Doria, en het hondvriendelijke veerbootdek langs de hele kust`,
+      area: `de vijf dorpjes Monterosso, Vernazza, Corniglia, Manarola en Riomaggiore, de vlakke poort naar het noorden, Levanto, en La Spezia in het zuiden met de dichtstbijzijnde 24-uurs dierenkliniek`,
+    },
+    portofino: {
+      personality: `het iconische vissersdorp van de Italiaanse Rivièra, een verzameling pastelkleurige huizen rond een piepkleine, exclusieve haven op een steile, beboste landtong in de provincie Genua, glamoureus maar met hond eerlijk werk: een hondenstrand is er nauwelijks, de kust is rotsachtig en duur, maar honden aan de lijn slenteren over het vlakke havenpleintje, klimmen omhoog naar het Castello Brown en de vuurtoren, en wandelen op de paden van het Parco di Portofino tot aan San Fruttuoso`,
+      highlight: `het vlakke havenpleintje met zijn hondvriendelijke terrassen, de klim in de buitenlucht langs de kerk San Giorgio naar het Castello Brown en verder naar de vuurtoren Faro di Portofino, het wandelpad met leibandplicht over de landtong naar de abdij San Fruttuoso, en het kustpad naar Paraggi en Santa Margherita`,
+      area: `het vlakke havenpleintje in het hart van het dorp, het erachter gelegen, beboste Parco Naturale Regionale di Portofino, de baai Paraggi richting Santa Margherita, en de poorten Santa Margherita Ligure en Rapallo waar bussen en veerboten vertrekken`,
+    },
+    portoroz: {
+      personality: `Slovenië's belle-époque kuuroord aan de Istrische kust, een vlakke, goed te voet te verkennen strandboulevard met palmlanen en grote thalassohotels, buiten echt hondvriendelijk, ook al zijn de kuurinterieurs dat niet, met Monty's Dog Beach in Lucija, het beeldenpark Forma Viva op het schiereiland Seča, en de zoutpannen van Sečovlje en het autovrije Piran, allemaal comfortabel bereikbaar`,
+      highlight: `Monty's Dog Beach in Lucija, het beeldenpark Forma Viva op het groene schiereiland Seča, en het vlakke oeverpad naar Piran`,
+      area: `de palmboulevard en jachthaven in het centrum van het kuuroord, Lucija rond het hondenstrand, en het schiereiland Seča en de zoutpannen van Sečovlje`,
+    },
+    positano: {
+      personality: `het verticale juweel van de Amalfikust, een cascade pastelkleurige huizen die in de provincie Salerno de klif naar zee afdaalt, prachtig maar veeleisend met hond: de stad is een trap van honderden treden, de meeste stranden beperken honden en de steen gloeit 's zomers, maar honden aan de lijn mogen mee in de SITA-SUD-bussen en de veerboten van Travelmar en Alicost, en wandelen vooral het spectaculaire Götterpad boven de kust`,
+      highlight: `de Sentiero degli Dei (Götterpad) van Bomerano naar Nocelle met hond aan de lijn, het vlakke oeverpad Via Positanesi d'America tussen Spiaggia Grande en Fornillo, de kerk Santa Maria Assunta met haar majolica-koepel en plein, het groenere bergdorp Nocelle, en het koelere hoogplateau Agerola waar het pad begint`,
+      area: `het Spiaggia Grande op strandniveau en het rustigere Fornillo, het bovenste dorpsdeel langs de Viale Pasitea, bediend door de oranje interne shuttle, het bergdorp Nocelle boven het centrum, en de poorten Sorrento aan de overkant van de pas en Amalfi langs de kust`,
+    },
+    sorrento: {
+      personality: `een klifstad met 16.000 inwoners in Campanië, in de metropoolstad Napels, die dient als draaischijf voor de Amalfikust, Capri, Ischia en Pompeii (3 miljoen toeristen per jaar), met het historische Piazza Tasso, de uitzichtrijke kliftuinen van de Villa Comunale 80 meter boven de oude vissershaven Marina Grande, het draagvleugelboot-knooppunt Marina Piccola (Capri 25 min, Ischia 50 min, Napels 35 min), de EAV Circumvesuviana die als enige honden met muilkorf gratis meeneemt op de directe rit van 35 minuten naar Pompei Scavi, en de SITA-SUD-bus langs de Amalfikust naar Positano, Amalfi en het vertrekpunt van het Götterpad`,
+      highlight: `de kliftuinen van de Villa Comunale met het panoramaterras van 180 graden over de golf van Napels tot de Vesuvius, de oude vissershaven Marina Grande met de steiger Bagni Delfino van de familie De Gregorio, het dramatische uitzichtpunt bij de kloof Vallone dei Mulini, het natuurlijke zeebekken Bagni della Regina Giovanna bij de Romeinse villa van Pollio Felice 2 kilometer westelijk, en het vertrekpunt van het Götterpad (Sentiero degli Dei) 12 kilometer oostelijk bij Bomerano`,
+      area: `de centro storico rond de Piazza Tasso en de Corso Italia, de kliffen van de Villa Comunale en het Chiostro di San Francesco boven Marina Grande, de veerbootterminal Marina Piccola aan de voet van de klif (met lift bereikbaar), en de plaatsen landinwaarts Sant'Agnello, Piano di Sorrento en Meta aan de Circumvesuviana-lijn`,
+    },
+    split: {
+      personality: `een ontspannen Kroatische kuststad waar de Adriatische oeverpromenade, het antieke Diocletianuspaleis en een ontspannen lokale cultuur haar tot een uitstekende bestemming voor huisdiereigenaren maken`,
+      highlight: `het beboste park op de Marjan-heuvel, de hondenzone bij het strand Bačvice en het kustpad naar Stobreč`,
+      area: `Meje, de omgeving van de oude stad en de wijk Manuš`,
+    },
+    'st-ives': {
+      personality: `een wit-zandige havenstad in Cornwall en beroemde kunstenaarskolonie, waar honden het kustpad, de havenkroegen en boottochtjes naar de zeehonden delen, waarbij de strandtoegang wordt geregeld door seizoensgebonden hondenregels die makkelijk in te plannen zijn`,
+      highlight: `het het hele jaar hondvriendelijke Bamaluz Beach, het South West Coast Path richting Zennor en de hondvriendelijke boottochtjes naar Seal Island`,
+      area: `de havenkant en de Smeaton's Pier, de oude Downlong-vissersstraatjes en het Porthmeor Beach onder de Tate`,
+    },
+    'st-moritz': {
+      personality: `de alpine luxemaatstaf in het Engadin van Graubünden op 1856 meter, waar 322 zonnige dagen per jaar (de meeste van Zwitserland) het bevroren wintermeer Lej da San Murezzan doen stralen, samen met de historische skeletonbaan Cresta Run, de panoramische kabelbaan Muottas Muragl uit 1907, de Diavolezza-gletsjerbaan op 2978 meter en de UNESCO-Reto-Romaanse spoorlijn met Gletscher- en Bernina-Express`,
+      highlight: `de 4,5 kilometer lange rondweg om het Lej da San Murezzan tussen St. Moritz-Dorf en St. Moritz-Bad langs het kapelletje bij de Mauritiusbron, het panoramapad Senda Filosofica op Muottas Muragl over de vier Engadiner meren, en het wandelpad door het Val Roseg vanaf Pontresina met optie voor paardenkoets`,
+      area: `St. Moritz-Dorf rond de Via Maistra en de Scheve Toren, St. Moritz-Bad aan de meeroever en bij de bronstijd-Mauritiusbron, en de omliggende Boven-Engadiner dorpen Pontresina, Sils Maria en Silvaplana`,
+    },
+    stavanger: {
+      personality: `Noorwegens derde stad en de poort naar het Lysefjord, met een door UNESCO geroemde houten oude stad (Gamle Stavanger), uitzonderlijk hondvriendelijk vervoer (gratis bussen, gratis treinen, gratis fjordveerboten), de iconische Pulpit Rock 50 minuten oostelijk en 35 kilometer hondvriendelijk Atlantisch zand 15 minuten zuidelijk`,
+      highlight: `de wandeling naar de Pulpit Rock (Preikestolen) met hond aan de lijn, de Lysefjord-cruise en het Atlantische hondenstrand Solastranden 15 minuten van het centrum`,
+      area: `de haven Vågen en de houten oude stad Gamle Stavanger, de kleurrijke Fargegata-straat en de wijk bij het meer Mosvatnet`,
+    },
+    stockholm: {
+      personality: `een stad waar honden er gewoon bij horen, op veerboten, in cafés en over de eilanden van de scherenkust`,
+      highlight: `het eiland Djurgården, het Hagapark en het wandelpadennetwerk van de scherenkust`,
+      area: `Södermalm, Östermalm en Djurgården`,
+    },
+    strasbourg: {
+      personality: `een van de sfeervolste UNESCO-steden van Europa, waar Elzasser cultuur, kerstmarkten en een ontspannen omgang met honden haar tot een het hele jaar door bestemming voor huisdiereigenaren maken`,
+      highlight: `het Parc de l'Orangerie, de kanalen van Petite France en de Jardins des Deux Rives aan de Rijn`,
+      area: `Petite France, de Krutenau en de Europese wijk`,
+    },
+    stuttgart: {
+      personality: `een Zuid-Duitse deelstaathoofdstad in een groene dalkom van wijngaarden en beukenbossen, waar biertuinen en herbergen honden zonder uitzondering welkom heten en drie omheinde loslaatzones het centrum omringen`,
+      highlight: `het lint van de Schlossgarten, de bosmeren bij het Bärensee en het hoogtepark Killesberg`,
+      area: `Mitte, Süd en Bad Cannstatt`,
+    },
+    tallinn: {
+      personality: `een sprookjesachtige middeleeuwse stad met een vooruitstrevende Estse houding tegenover huisdieren, waar honden de meeste winkels binnen mogen, de oude stad bezoeken en vrij de kustpaden verkennen`,
+      highlight: `het Kadriorg-park, het kustpad Pirita en de natuurwandelingen in het moeras Pääsküla`,
+      area: `Kalamaja, Telliskivi en de oude stad`,
+    },
+    tampere: {
+      personality: `Finlands derde stad en de onofficiële saunahoofdstad, met uitzonderlijk hondvriendelijk vervoer (gratis trams, gratis treinen), 22 omheinde koira-aitaus, twee hondenstranden aan het meer op loopafstand van het centrum en de iconische Pyynikki-kam met het hele jaar uitlaten`,
+      highlight: `de Pyynikki-kam met het uitzichttoren-café, de hondenstranden Pyynikki en Niihama aan de twee meren, en het oeverpad langs de stroomversnelling Tammerkoski door het centrum`,
+      area: `het centrum tussen de stroomversnelling Tammerkoski en de Hämeenkatu, de creatieve wijk Finlayson en de Pyynikki-kam aan het meer`,
+    },
+    taormina: {
+      personality: `het Siciliaanse klifbalkon 200 meter boven de Ionische Zee, met uitzicht op de Etna, en decor van HBO-serie White Lotus seizoen 2, met een voetgangersvriendelijke Corso Umberto die door het middeleeuwse centrum tussen de Porta Catania en de Porta Messina loopt, het Grieks-Romeinse Teatro Antico uit de 3e eeuw v.Chr. met uitzicht over de Etna en de baai, de kabelbaan Funivia omlaag naar de kiezelbaai Mazzarò, het getijdegebonden eilandje Isola Bella als natuurreservaat, en een lang aangewezen zandstrand voor honden in Letojanni 5 kilometer noordelijk`,
+      highlight: `het panoramische Teatro Antico boven de Etna en de Ionische Zee, de wandeling langs de Corso Umberto van de Porta Catania naar de Piazza IX Aprile en de tuinen van de Villa Comunale, de kabelbaan Funivia omlaag naar Mazzarò en de dam naar de Isola Bella, het aangewezen hondenstrandgedeelte Sea Cup Beach in Letojanni 5 kilometer noordelijk, en een uitstapje naar de Etna-voorbergen naar het Rifugio Sapienza op 1923 meter`,
+      area: `de voetgangersvriendelijke Corso Umberto tussen de Porta Catania en de Porta Messina, de Piazza IX Aprile met het terras Sant'Agostino en de wandeling naar de Madonna della Rocca erboven, de tuinen van de Villa Comunale Trevelyan aan de zeekant, en de oeverpromenade van Mazzarò en Isola Bella 200 meter lager, te bereiken met de Funivia`,
+    },
+    tarifa: {
+      personality: `de meest zuidelijke stad van het Europese vasteland en wereldhoofdstad van het kite- en windsurfen, een piepkleine wit gekalkte middeleeuwse oude stad, omringd door 10 kilometer vlak zandstrand, waar honden aan de lijn buiten het badseizoen wandelen onder de levante-wind en een veerboot van 35 minuten oversteekt naar Tanger`,
+      highlight: `het Casco Antiguo rond het Castillo de Guzmán el Bueno, het 10 kilometer lange Playa de Los Lances bij zonsopgang, en de Romeinse ruïnes van Baelo Claudia achter het hondvriendelijke strand Bolonia`,
+      area: `het ommuurde Casco Antiguo, de haven en de promenade Alameda, en de door duinen omzoomde stranden Los Lances en Valdevaqueros ten noordwesten van de stad`,
+    },
+    tarragona: {
+      personality: `Catalonië's UNESCO-Romeinse zeehaven aan de Costa Daurada, met drie aangewezen hondenstranden, een openluchtamfitheater uit de 2e eeuw dat tevens de mooiste wandeling aan de lijn van de stad is, en een 24 uur per dag geopend referentie-dierenziekenhuis in La Canonja`,
+      highlight: `het Romeinse amfitheater met zijn uitzichtpunt op zee, het hondengedeelte bij het Platja Llarga en de verscholen baai Cala Fonda door het dennenbos Bosc de la Marquesa, en de Passeig Arqueològic rond de Romeinse stadsmuren`,
+      area: `de middeleeuwse Part Alta met de Romeinse stadsmuren, de Rambla Nova die eindigt bij de Balcó del Mediterrani, en het strand Platja del Miracle aan de oeverpromenade`,
+    },
+    tavira: {
+      personality: `de rustigere oostelijke Algarve-stad, verdeeld door de Rio Gilão en zijn zevenboogsbrug Ponte Romana, waar wit gekalkte steegjes van de Praça da República naar zo'n 37 kerken en het op een heuvel gelegen Castelo leiden, met het natuurpark Ria Formosa vlak voor de deur en alleen per veerboot bereikbare barrière-eilandstranden die de mensenmassa's weren`,
+      highlight: `de veerboot naar de Ilha de Tavira vanaf Quatro Águas, het miniatuurtreintje en het ankerkerkhof bij het Praia do Barril, de dijkpaden van de Salinas de Tavira met flamingo's, en het klifdorp Cacela Velha 10 kilometer oostelijk`,
+      area: `het centro histórico rond de Praça da República en het Castelo, de oeverpromenades aan de oostoever van de Rio Gilão, en het inktvissersdorp Santa Luzia en het zandbankdorp Cabanas de Tavira`,
+    },
+    texel: {
+      personality: `het moeiteloos hondvriendelijkste Waddeneiland van Nederland, een 24 kilometer lange Noordzee-landtong, 20 minuten met de voor honden gratis TESO-veerboot vanaf Den Helder, met vijf het hele jaar open loslaat-hondenstranden (Paal 8, 9, 17, 28, 31), het 4.300 hectare grote Nationaal Park Duinen van Texel langs de westelijke duinengordel, het 850 hectare grote dennenbos De Dennen met het hele jaar loslaatrondwegen, zeven verschillende dorpen (Den Burg de met kasseien geplaveide hoofdstad, De Koog naast de strandpaviljoens, Oudeschild met de Texelse Bierbrouwerij, Den Hoorn het kleinste, De Cocksdorp bij vuurtoren Eierland), en het kwelder De Slufter, een NATURA-2000-gebied aan de noordwestkust`,
+      highlight: `de vijf het hele jaar open loslaat-hondenstranden bij Paal 8, 9, 17, 28 en 31, de loslaatrondwegen in het dennenbos De Dennen, en het zeehondencentrum EcoMare en de klim naar de rode vuurtoren Eierland met hond aan de lijn`,
+      area: `Den Burg rond het geplaveide Groeneplaats en de Hervormde Kerk uit 1517, de strandpaviljoenstrook van De Koog bij Paal 17, het dorpsplein van Den Hoorn, de haven en brouwerij van Oudeschild, en het vuurtorencomplex van De Cocksdorp aan de noordpunt`,
+    },
+    'the-hague': {
+      personality: `een statige Nederlandse hoofdstad waar 11 kilometer Noordzeekust, hondvriendelijke duinen en hondvriendelijke cafés een tramrit van het centrum liggen`,
+      highlight: `het Westduinpark en de Bosjes van Poot, het bospark Haagse Bos en het landgoed Clingendael`,
+      area: `Statenkwartier, Hofkwartier en de haven Scheveningen`,
+    },
+    thessaloniki: {
+      personality: `Griekenlands tweede stad en een van de hondvriendelijkste steden van het land, een 2.300 jaar oude havenstad waar honden welkom zijn op terrassen, in de oude-stadswijk en langs de 3,5 kilometer lange oeverpromenade Nea Paralia`,
+      highlight: `het oeverpark Nea Paralia (met een eigen hondengedeelte), het stadsbos Seich Sou en de Byzantijnse muurpaden in Ano Poli`,
+      area: `Ano Poli (bovenstad), Ladadika en de oeverpromenade`,
+    },
+    toledo: {
+      personality: `de middeleeuwse keizerstad en voormalige hoofdstad van Westgoten, Moren en christenen, een door UNESCO geroemd openluchtmuseum op een granieten rots boven de Taag, met Madrid maar 33 minuten verwijderd met de hogesnelheidstrein Avant`,
+      highlight: `het uitzichtpunt Mirador del Valle met het iconische skylinepanorama, de rondwandeling Senda Ecológica langs de Taag, en de middeleeuwse brug Puente de San Martín`,
+      area: `het Casco Histórico rond de Plaza de Zocodover, de Judería met het El Greco-museum, en La Vega aan de overkant van de Puente de San Martín`,
+    },
+    tokyo: {
+      personality: `Japans elektrische hoofdstad, waar neonverlichte kruispunten in Shibuya, eeuwenoude tempels en rustige woonstraten naast elkaar liggen, met strengere huisdierregels dan in Europa, maar uitstekende geregistreerde hondenuitlaatplaatsen, oeverparken aan de Tokyo Bay en 24 uur per dag geopende Engelssprekende dierenartsen`,
+      highlight: `de hondenuitlaatplaats in het Yoyogi-park bij Harajuku, de hondenuitlaatplaats in het Komazawa Olympic Park in Setagaya, en de hondenuitlaatplaats met strand aan de Tokyo Bay in Jonanjima`,
+      area: `de internationaal getinte hondvriendelijke wijken Hiroo en Azabu-Jūban, de stijlvolle cafés van Daikanyama en Jiyugaoka, en de oeverparken van Odaiba en Kasai Rinkai`,
+    },
+    toronto: {
+      personality: `een van de weinige Noord-Amerikaanse steden waar honden van elk formaat buiten de doordeweekse spits gratis mee mogen met metro, tram en bus, ondersteund door meer dan tachtig aangewezen loslaatzones en een wet van Ontario die honden op restaurantterrassen toestaat`,
+      highlight: `het het hele jaar open hondenstrand aan het Cherry Beach in de Outer Harbour, het 3,4 hectare grote loslaatgebied Dog Hill in het High Park, en de veerbootoversteek aan de lijn naar het autovrije Toronto Island Park`,
+      area: `de Victoriaanse voetgangerssteegjes van het Distillery District, de terrassen en parken van Leslieville en The Beaches, en de kloofpaden rond de Evergreen Brick Works in de Don Valley`,
+    },
+    'tossa-de-mar': {
+      personality: `een strandstad aan de zuidelijke Costa Brava met 5.700 inwoners rond de 12e-eeuwse Vila Vella, het enige versterkte middeleeuwse centrum dat langs de hele Catalaanse kust bewaard is gebleven, met vier wachttorens, volledig intacte kantelenmuren en de gotische ruïnes van de kasteelkerk Sant Vicenç erbinnen, plus het bronzen standbeeld van Ava Gardner ter herinnering aan de opnames van Pandora and the Flying Dutchman uit 1951 op de rotsen boven de Platja Gran`,
+      highlight: `de 12e-eeuwse kantelenmuren van de Vila Vella met haar vier wachttorens (Joanàs, Hores, Mare de Déu, Codolar), het 9 kilometer lange kustpad Camí de Ronda GR-92 zuidwaarts langs Cala Bona, Cala Pola, Cala Llevadó en Cala Giverola tot Lloret de Mar, en de vuurtoren Far de Tossa uit 1917 op de meest oostelijke punt van de landtong`,
+      area: `de ommuurde landtong Vila Vella boven de Platja Gran, de cafés aan de Passeig del Mar en de Plaça d'Espanya tussen de Vila Vella en het centrale strand, en de woongebieden landinwaarts vanaf de Avinguda Mar Menuda`,
+    },
+    toulon: {
+      personality: `een van de echt hondvriendelijkste grote Franse Middellandse Zee-steden, met een kabelbaan naar de Mont Faron die honden gratis meeneemt, het zeldzame geval van een Frans stedelijk bus- en bateau-busnetwerk dat grote honden aan de lijn toelaat, een officieel hondenstrand Anse Tabarly met hondenzwemhelling, en twee omheinde cani-parcs bij Mourillon`,
+      highlight: `de top van de kabelbaan Mont Faron op 584 meter, het het hele jaar open hondenstrand Anse Tabarly in het oostelijke Mourillon, en het heropende kustpad Sentier du Littoral rond het Cap Brun`,
+      area: `de Vieille Ville rond de Cours Lafayette en de Place de la Liberté, de oeverpromenade Mourillon met haar cani-parcs en het Anse Tabarly, en het Cap Brun voor het heropende kustpad`,
+    },
+    toulouse: {
+      personality: `een ontspannen Zuidwest-Franse stad van roze baksteen en straatcafés, waar honden langs de Garonne heel vanzelfsprekend tot het dagelijks leven behoren`,
+      highlight: `de oevers van de Garonne, het jaagpad langs het Canal du Midi en het oeverpark Prairie des Filtres`,
+      area: `Place du Capitole, Carmes en de linkeroever Saint-Cyprien`,
+    },
+    tours: {
+      personality: `de meest huisdiervriendelijke basis in de Loirevallei, een middeleeuws vakwerkcentrum, een tram- en busnetwerk Fil Bleu dat zowel kleine als grote honden meeneemt, en vier belangrijke renaissancekastelen (Villandry, Chenonceau, Amboise, Chambord) die honden aan de lijn allemaal welkom heten in hun beroemde tuinen`,
+      highlight: `het 14 hectare grote Parc de Sainte-Radegonde met het officiële loslaatgebied van de stad, het fietspad Loire à Vélo langs de rivier, en de 19e-eeuwse Jardin des Prébendes d'Oé`,
+      area: `het vakwerk-Vieux-Tours rond de Place Plumereau, de wijk rond de kathedraal Saint-Gatien en de Loire-promenade tot Vouvray`,
+    },
+    treviso: {
+      personality: `Venetië zonder de mensenmassa's, een ommuurde stad in Veneto met kanalen, met fresco's versierde arcades en waterraderen, 30 minuten met de trein van de lagune, waar het vlakke jaagpad Restera de rivier de Sile de stad uit volgt en de UNESCO-Prosecco-heuvels 20 minuten noordelijk oprijzen`,
+      highlight: `het jaagpad Restera langs de Sile, het 67 hectare grote Parco dello Storga met zijn bronnen, en de omheinde stedelijke hondenuitlaatplaatsen zoals het Parco Ducale`,
+      area: `de ommuurde oude stad centro storico rond de Piazza dei Signori, de kanalen Buranelli en Pescheria, en de Sile-oever richting Casier`,
+    },
+    trieste: {
+      personality: `de Habsburgse havenhoofdstad van Friuli-Venezia Giulia aan de Adriatische kust, met zo'n 22.000 geregistreerde honden op 200.000 inwoners, officiële stedelijke loslaatzones, de iconische 4 kilometer lange oeverpromenade Barcola met haar eigen Bau Beach, en het 22 hectare grote oeverpark Parco di Miramare`,
+      highlight: `de Piazza Unità d'Italia (Europa's grootste plein aan zee), het park van het Castello di Miramare, en de wandelpaden van het karstplateau en de osmiza-wijnhuisjes boven de stad`,
+      area: `het Borgo-Teresiano-raster rond het Canal Grande, de oeverpromenade Piazza Unità d'Italia, en de oeverpromenade Barcola ten noorden van het centrum`,
+    },
+    tromso: {
+      personality: `de arctische hoofdstad van Noorwegen, 350 kilometer ten noorden van de poolcirkel, een centrum met 77.000 inwoners rond de jacht op noorderlicht in de winter en de middernachtzon in de zomer, met milde julimaxima van 14 °C die goed uitkomen voor kortsnuitige en oudere honden, en boswegen in het Tromsdalen op maar enkele minuten van het stadscentrum`,
+      highlight: `de kabelbaan Fjellheisen naar het uitzichtpunt Storsteinen op 421 meter, het plein voor de IJszeekathedraal, en het oeverpark Telegrafbukta in het zuiden van het eiland`,
+      area: `de Storgata en de centrale haven, het dal Tromsdalen rond de IJszeekathedraal, en de zuidelijke oever bij Folkeparken/Telegrafbukta`,
+    },
+    trondheim: {
+      personality: `Noorwegens derde stad en middeleeuwse hoofdstad, met de door UNESCO geroemde Nidaros-kathedraal (de meest noordelijke gotische kathedraal ter wereld), de kleurrijke houten wijk Bakklandet, gratis hondenvervoer in bussen, trams en treinen, en 80 km² stadsbos Bymarka aan de stadsrand`,
+      highlight: `de Nidaros-kathedraal en de brug Gamle Bybro, de iconische historische tram Gråkallbanen naar het bos Bymarka, en de veerboot naar het eiland Munkholmen`,
+      area: `de Midtbyen rond de Nidaros-kathedraal, de houten wijk Bakklandet en de havenwijk Solsiden`,
+    },
+    turin: {
+      personality: `Italiës Noord-Italiaanse barokke hoofdstad met 18 kilometer overdekte arcades die honden en baasjes beschermen tegen regen en zomerzon, meer dan 35 omheinde hondenuitlaatplaatsen en de Alpen op een uur voor weekenduitjes`,
+      highlight: `het 84 hectare grote Parco del Valentino, de 10 kilometer lange Po-oever, en de Basilica di Superga, te bereiken met de historische tandradbaan`,
+      area: `San Salvario, het Quadrilatero Romano en de historische kern rond de Piazza Castello`,
+    },
+    uppsala: {
+      personality: `Zwedens meest ontspannen stad voor reizen met hond na Stockholm, een compacte middeleeuwse universiteitsstad waar een 108 hectare groot stadsbos samenkomt met zeven stedelijke hondenuitlaatplaatsen (hundrastgårdar), met een 24 uur per dag geopend dierenziekenhuis en een fika-cultuur die honden welkom heet aan de cafétafel`,
+      highlight: `het 108 hectare grote bosreservaat Stadsskogen, de koninklijke grafheuvels van Gamla Uppsala, en een aangewezen rivier-hondenstrand bij het Storvadsbadet`,
+      area: `Centrum rond het Stora Torget en het domplein, Luthagen bij het Stadsskogen, en Sunnersta aan de oever van het Ekoln-meer`,
+    },
+    utrecht: {
+      personality: `een compacte Nederlandse universiteitsstad waar honden gratis meereizen in stadsbussen en trams, de rondvaartexploitant honden zonder toeslag welkom heet, en drie loslaatzones, het 300 hectare grote Máximapark, het centrale Griftpark en de landgoederen Amelisweerd, allemaal bereikbaar vanuit het historische centrum`,
+      highlight: `het Máximapark in Leidsche Rijn, het centrale Griftpark en de landgoederen Amelisweerd & Rhijnauwen 5 kilometer ten zuidoosten`,
+      area: `Binnenstad en de Oudegracht, Vogelenbuurt en Wittevrouwen`,
+    },
+    valencia: {
+      personality: `een zonnige Middellandse Zee-stad met 19 kilometer park dat door haar centrum loopt, de voormalige bedding van de Turia, wat haar tot een van de meest wandelvriendelijke steden van Europa maakt voor hondeneigenaren`,
+      highlight: `de Turia-tuin (9 kilometer loslaatvriendelijk), de hondenzone bij het strand Malvarrosa, en het natuurpark Albufera`,
+      area: `Ruzafa, El Carmen en het Eixample`,
+    },
+    valletta: {
+      personality: `een compacte UNESCO-kalksteen vestingstad waar honden het hele 1 kilometer lange schiereiland in een middag aflopen, gratis meevaren met de veerboten naar Sliema en de Three Cities, en welkom zijn op caféterrassen en in de historische Barrakka- en Hastings-tuinen`,
+      highlight: `de Upper Barrakka Gardens boven de Grand Harbour, de bastionwandeling door de Hastings Gardens, en een dagtripje naar het Ta'Qali National Park`,
+      area: `het schiereiland Valletta zelf, Sliema aan de overkant van de Marsamxett, en de Three Cities Senglea, Vittoriosa en Cospicua`,
+    },
+    vancouver: {
+      personality: `een van de hondvriendelijkste steden van Noord-Amerika, omringd door oceaan, bergen en regenwoud, waar honden aan de lijn de oeverpromenade van het Stanley Park en meer dan dertig loslaatzones claimen, ook al houdt TransLinks draagtasplicht grotere honden weg van de SkyTrain en de bussen`,
+      highlight: `de ongeveer 9 kilometer lange oeverpromenade van het Stanley Park, de loslaat-boswegen in het Pacific Spirit Regional Park, en het seizoensgebonden hondenstrand aan de Spanish Banks`,
+      area: `het West End en het Stanley Park, False Creek en Granville Island, en de wijken Kitsilano en Mount Pleasant`,
+    },
+    vannes: {
+      personality: `de poort naar de Golf van Morbihan, een Bretonse middeleeuwse stad waar drie kwart van de 13e- tot 16e-eeuwse vestingmuren bewaard zijn rond een volledig voetgangersvriendelijke vakwerk-Vieille Ville, met BreizhGo Bateaux-Bus-du-Golfe-veerboten naar de autovrije eilanden Arz en Aux Moines, wat haar tot een van de moeite waard huisdiervriendelijke basissen van Bretagne maakt`,
+      highlight: `de Jardin des Remparts aan de voet van de middeleeuwse stadsmuren, het Parc de la Garenne boven de wallen, en de 17 kilometer lange kustrondweg van het autovrije Île d'Arz, te bereiken met de Bateaux Bus du Golfe`,
+      area: `de vakwerk-Vieille Ville binnen de middeleeuwse stadsmuren, de wijk Saint-Patern net buiten de Porte Prison, en het schiereiland Conleau 4 kilometer zuidelijk aan de golf`,
+    },
+    venice: {
+      personality: `een van de verrassend hondvriendelijkste steden van Italië, waar honden meevaren met de vaporetto, rustige sestieri buiten de mensenmassa's verkennen, en welkom zijn in veel lokale bacari`,
+      highlight: `de stranden van het eiland Lido (buiten het seizoen zijn honden toegestaan), de rustige kanalen van Cannaregio, en het park Sant'Elena`,
+      area: `Cannaregio, Dorsoduro en Sant'Elena`,
+    },
+    verona: {
+      personality: `een door UNESCO geroemde romantische stad waar honden hun baasjes vergezellen op wijnbarterrassen, in renaissancetuinen, en langs de schilderachtige oevers van de Adige`,
+      highlight: `de Giardino Giusti, de oevers van de Adige, en hondvriendelijke terrassen bij de Arena`,
+      area: `Veronetta, het Centro Storico en de wijk rond de Piazza delle Erbe`,
+    },
+    vichy: {
+      personality: `Frankrijks koningin van de kuuroorden, een UNESCO-Great-Spa-of-Europe aan de Allier, waar honden aan de lijn wandelen over de belle-époque promenades en meeroeverparken, terwijl de kuurinterieurs verboden terrein blijven`,
+      highlight: `de jugendstil-wandelgalerijen van het Parc des Sources, het Engels aangelegde Parc Napoléon III, en de 6 kilometer lange oeverrondweg om het Lac d'Allier`,
+      area: `de kuurwijk rond het Parc des Sources, de Allier-oever, en de buursteden Bellerive-sur-Allier en Cusset`,
+    },
+    vienna: {
+      personality: `een stad die hondenbezit serieus neemt, waar honden meereizen met de metro, musea binnen mogen, en verwend worden in honderden Weense cafés`,
+      highlight: `de Prater, het Donaueiland, en de Lainzer Tiergarten`,
+      area: `het 1e district, de Naschmarkt en Josefstadt`,
+    },
+    vigo: {
+      personality: `Galiciës grootste havenstad, steil oprijzend uit een diepe Atlantische fjord, met 18 officiële loslaatzones, een uitgesproken werkhavenkarakter, en de Cíes-eilanden als nationaal park in het zicht (maar strikt verboden voor huisdieren) aan de overkant van de Ría`,
+      highlight: `de parkaanleg van het fort Castro met zonsondergangsuitzicht op de Cíes-eilanden, het 24 hectare grote Parque de Castrelos, en de oesterkraampjes van de Rúa Pescadería in het Casco Vello`,
+      area: `het Casco Vello rond de cruisehaven, de woonwijk Coruxo bij de westelijke stranden, en de groene parkwijk Castrelos`,
+    },
+    villach: {
+      personality: `een Karinthische rivierstad met 62.000 inwoners aan de Drau, met een renaissance-hoofdplein, twee van de warmste alpenmeren (Faaker See en Ossiacher See) binnen 10 kilometer, het natuurpark Dobratsch erboven, en de Italiaanse en Sloveense grens 30 tot 40 minuten verwijderd`,
+      highlight: `het Drau-fietspad langs de rivier, de hondenzwemplekken in Drobollach aan het Faaker See en in Sattendorf aan het Ossiacher See, en de panoramaweg Villacher Alpenstraße omhoog naar de Dobratsch`,
+      area: `de voetgangersvriendelijke oude stad rond het Hauptplatz, de woonwijk Lind bij de dierenkliniek Villach, en de meeroevers van Drobollach en Sattendorf`,
+    },
+    'villefranche-sur-mer': {
+      personality: `een havenstad aan de Côte d'Azur met 5.000 inwoners tussen Nice en Monaco, gebouwd in een steil okerkleurig amfitheater boven een van de diepste natuurlijke havens van de westelijke Middellandse Zee, met een actieve Port de la Santé, de overdekte 13e-eeuwse Rue Obscure, de tuinen van de Citadelle Saint-Elme, en de Chapelle Saint-Pierre des Pêcheurs, in 1957 door Jean Cocteau met fresco's beschilderd`,
+      highlight: `de kade van de Port de la Santé en de Chapelle Saint-Pierre, de Vieille Ville en de middeleeuwse Rue Obscure, het 1 kilometer lange Plage des Marinières (het langste strand van de Côte d'Azur), en het kustpad Sentier du Littoral van Cap Ferrat rond de Pointe Saint-Hospice en het Plage de Passable`,
+      area: `de Port de la Santé en de Vieille Ville, de Citadelle en de Port de la Darse, het Plage des Marinières met de stationscorridor van de SNCF, en het naburige schiereiland Cap Ferrat`,
+    },
+    vilnius: {
+      personality: `de groenste hoofdstad van de EU en een van de huisdiervriendelijkste, waar huisdieren gratis meereizen in elke bus en bijna 500 huisdiervriendelijke etablissementen in de UNESCO-oude stad liggen`,
+      highlight: `het bospark Vingis, de tuin Bernardinai, en de berg van de Drie Kruisen`,
+      area: `de oude stad, Užupis en Šnipiškės`,
+    },
+    'vitoria-gasteiz': {
+      personality: `de hoofdstad van de Baskische Autonome Gemeenschap en Europese Groene Hoofdstad 2012, met een 30 kilometer lange groengordel Anillo Verde van vijf verbonden natuurparken die samen het meest uitgestrekte hondgeschikte stedelijke groennetwerk van Spanje vormen`,
+      highlight: `de wetlands Salburua met hun hertenkuddes, het 160 hectare grote loslaatvriendelijke eikenbos Armentia, en de botanische tuin Olarizu`,
+      area: `de amandelvormige middeleeuwse heuvel Casco Medieval, het burgerlijke centrum aan de Plaza de la Virgen Blanca, en de nieuwe westelijke wijk Zabalgana`,
+    },
+    warsaw: {
+      personality: `een snel moderniserende Europese hoofdstad waar huisdiervriendelijke hotels steeds meer de norm worden en oeverparken uitstekende wandelingen bieden`,
+      highlight: `het Łazienki-park, de boulevards aan de Weichseloever, en het Kampinos-bos aan de stadsrand`,
+      area: `Śródmieście, Praga en de oeverwijk Powiśle`,
+    },
+    whitby: {
+      personality: `een van de meest hondenlievende kuststeden van Engeland, een historische vissershaven in North Yorkshire waar honden welkom zijn op de landtong bij de abdij, langs de klifpaden en in de meeste oude-stadspubs, en gratis meereizen met de Esk Valley Line`,
+      highlight: `de ruïne van de Whitby Abbey op de East Cliff, de klim over de 199 treden, en de het hele jaar open hondenstranden bij Tate Hill, Sandsend en Runswick Bay`,
+      area: `de oude stad rond de Church Street en de haven, de West Cliff en de landtong bij de abdij via de 199 treden`,
+    },
+    ambleside: {
+      personality: `een mooie wandelstad aan het hoofd van het Lake Windermere in het Lake District, waar honden welkom zijn op bijna elk fell en voetpad, gratis meevaren met de Windermere Lake Cruises, en welkom zijn in de meeste pubs`,
+      highlight: `de wandeling naar de waterval Stock Ghyll Force, het uitgestrekte Loughrigg Fell, en de hondvriendelijke Windermere Lake Cruises vanaf Waterhead`,
+      area: `het Market Cross en zijn steegjes, de meeroever bij Waterhead, en de oever van het Rydal Water richting Grasmere`,
+    },
+    cromer: {
+      personality: `een ouderwetse Noord-Norfolk kuststad met pier, kliffen en beroemde krabben, waar honden het hele jaar de promenade aflopen, het zomerse strandverbod je naar het nabijgelegen hondvriendelijke East Runton stuurt, en het Norfolk Coast Path langs de kliffen loopt`,
+      highlight: `de beschermde Victoriaanse pier en promenade, het het hele jaar open hondenstrand in East Runton, en het klifpad Norfolk Coast Path naar Sheringham`,
+      area: `de oeverpromenade en de pier, de stranden East en West Runton in het westen, en het landgoed Felbrigg Hall landinwaarts`,
+    },
+    'bourton-on-the-water': {
+      personality: `het "Venetië van de Cotswolds", een honingkleurig stenen dorp waar de ondiepe River Windrush onder lage bruggen door de hoofdstraat stroomt, honden welkom zijn in de meeste pubs en cafés, en bijna vlakke voetpaden naar de plaatjesdorpen van de Slaughters leiden`,
+      highlight: `de lage stenen bruggen over de Windrush, het vlakke wandelpad naar Lower en Upper Slaughter, en het natuurreservaat Greystones Farm`,
+      area: `het oevergazon en de High Street, het Warden's Way richting de Slaughters, en de weiden van Greystones Farm`,
+    },
+    bakewell: {
+      personality: `een statige kalkstenen stad in het hart van het Peak District, waar honden welkom zijn in de dalen en op de wandelpaden, in de meeste pubs van de stad, en aan de lijn door de tuin en het uitgestrekte park van Chatsworth`,
+      highlight: `het vlakke, autovrije Monsal Trail met zijn beroemde viaduct, het oeverpad langs de Wye, en het uitlaten aan de lijn door het Chatsworth Park`,
+      area: `de Rutland Square en de middeleeuwse brug, het Monsal Trail richting Monsal Head, en de dorpen Ashford-in-the-Water en Over Haddon`,
+    },
+    keswick: {
+      personality: `Groot-Brittanniës hondvriendelijkste stad aan het hoofd van het Derwentwater in het noordelijke Lake District, waar honden welkom zijn op bijna elk fell en voetpad, gratis meevaren met de Keswick-Launch-boten, en vanzelfsprekend aanwezig zijn in de pubs rond het Market Square`,
+      highlight: `de meeroever bij Friar's Crag, de klassieke bergkam Catbells, en de hondvriendelijke Keswick Launch op het Derwentwater`,
+      area: `het Market Square en de Lake Road, de Derwentwater-oever bij Friar's Crag, en de rustigere oostelijke baaien rond de Calfclose Bay`,
+    },
+    windermere: {
+      personality: `Engelands grootste meer in het hart van het Lake District, waar honden welkom zijn op bijna elk fell en voetpad, gratis meereizen met de treinen en meerrondvaarten, en vanzelfsprekend aanwezig zijn in de pubs van Bowness`,
+      highlight: `de klim naar het uitzichtpunt Orrest Head, de National Trust-meeroever bij Fell Foot, en de hondvriendelijke Windermere Lake Cruises`,
+      area: `het dorp Windermere, de oeverpromenade van Bowness-on-Windermere, en de rustigere zuidoever rond Fell Foot`,
+    },
+    wroclaw: {
+      personality: `een van de meest hondenlievende steden van Polen, waar het kleurrijke Rynek wordt omzoomd door caféterrassen die honden zonder gedoe welkom heten, het openbaar vervoer gratis is voor alle huisdieren, en zo'n veertig omheinde loslaatzones verspreid liggen over de stad`,
+      highlight: `het Park Szczytnicki met de Eeuwfeesthal, de eilanden van de Oder, en de door lantaarns verlichte kasseien van het domeiland in de schemering`,
+      area: `de oude stad rond het Rynek, de bohemien-wijk Nadodrze, en de wijk van de Vier Gezindten`,
+    },
+    yokohama: {
+      personality: `Japans grote havenstad aan de baai van Tokio, waar een compacte, te belopen oeverzone de strengere Japanse huisdierregels tot een makkelijk plezier maakt, met honden aan de lijn welkom langs de promenades van Minato Mirai en de openluchtterreinen aan de waterkant`,
+      highlight: `het grote, natuurlijk begroeide hondenuitlaatterrein SHIBA to KAZE in het Rinko Park, de grasvelden aan zee in het Yamashita Park, en het walvisrugvormige dakdek van de Osanbashi Pier`,
+      area: `de openluchtterreinen Marine & Walk en het Red Brick Warehouse aan de waterkant van Shinko, de promenades van Minato Mirai rond Sakuragicho, en het havenwandelpad Kishamichi`,
+    },
+    york: {
+      personality: `een van de betrouwbaar hondvriendelijkste steden van Engeland, een compacte middeleeuwse kern waar 80% van de pubs honden aan de lijn welkom heet, de 5 kilometer lange rondweg op de stadsmuren gratis is voor huisdieren, en directe LNER-treinen dagtripjes verbinden naar de hondenstranden van Filey, Sandsend en Bridlington`,
+      highlight: `de hondvriendelijke rondweg op de stadsmuren, de oeveraanleg van de Museum Gardens, en het het hele jaar open hondenstrand bij Filey, een uur oostelijk met de LNER-lijn`,
+      area: `het historische centrum binnen de muren, de wijk Fossgate, en de wijk Bishopthorpe Road/Knavesmire`,
+    },
+    rovinj: {
+      personality: `Istriës Venetiaans-Italiaans getinte havenstad, ooit een eiland, met pastelkleurige gevels die afdalen naar een werkende vissershaven onder de 60 meter hoge klokkentoren van de sv. Eufemija, met het 120 hectare grote kustbospark Punta Corrente, vier bebordde hondenstranden, een tweetalig Kroatisch-Italiaans Stari Grad, en de seizoensgebonden Venezia Lines-sneleatamaran naar Venetië`,
+      highlight: `het 120 hectare grote bospark Punta Corrente met drie hondenstranden, de heuvelklokkentoren van de sv. Eufemija naar het voorbeeld van de San Marco, het kunstenaarssteegje Grisia, en de veerbootverbindingen van de Rovinj-archipel naar Sv. Katarina en Crveni otok`,
+      area: `het schiereiland Stari Grad rond de sv. Eufemija en de Balbi-boog, de havenpromenade aan de rand van het busstation, en de vakantiekust Monsena/Borik ten noorden van de stad`,
+    },
+    pula: {
+      personality: `Istriës voormalige Romeinse hoofdstad met 53.000 inwoners aan de zuidpunt van het schiereiland, gekenmerkt door de 1e-eeuwse arena (een van de zes best bewaarde Romeinse amfitheaters ter wereld), het forum met de augusteïsche Augustustempel, de Sergiusboog, en het fort Kaštel op de heuvel, met het schiereiland Punta Verudela 4 kilometer zuidelijk, het leibandvrije natuurpark Kaap Kamenjak nog eens 10 kilometer verder, vliegveld PUY 7 kilometer verwijderd, en een seizoensgebonden Venezia Lines-veerboot naar Italië`,
+      highlight: `de buitenrondweg van de Pula-arena (gratis, dag en nacht, hondvriendelijk aan de lijn), de voetgangersas Forum-Augustus-Sergiusboog, het 360 graden panorama vanaf de heuvel Kaštel, het kustwandelpad Lungomare naar Stoja, en het natuurpark Kaap Kamenjak met leibandvrije hondenbaaien`,
+      area: `de in Romeins raster aangelegde oude stad tussen de arena en het forum, het schiereiland Verudela ten zuiden van de stad met zijn vakantiehotels en hondenstranden, en het natuurpark Premantura/Kaap Kamenjak 10 kilometer zuidelijk voor leibandvrije kustwandelingen`,
+    },
+    'ras-al-khaimah': {
+      personality: `het rustige strand- en bergresort-emiraat van de Verenigde Arabische Emiraten en dankzij haar officiële Ras-Al-K9-programma de hondvriendelijkste hoek van het land, met lange natuurlijke stranden en de corniche van Al Marjan Island, waarachter de Jebel Jais, de hoogste top van de VAE, oprijst, rustiger en goedkoper dan Dubai 45 tot 75 minuten zuidelijk onder dezelfde winterzon van november tot maart`,
+      highlight: `de in het Ras-Al-K9-programma vermelde stranden Flamingo en Al Hamra met honden aan de lijn, de lagere paden aan de lijn en het uitzichtpark Viewing Deck Park bij de Jebel Jais, het heuvelfort Dhayah, en het verlaten parelvissersdorp Al Jazirah Al Hamra`,
+      area: `de vakantiestrook Al Hamra Village en Al Marjan Island met huisdiervriendelijke hotels, cafés en vermelde stranden, het Flamingo Beach bij restaurant Ruzo, en de Hajar-bergen en de Jebel Jais landinwaarts voor wadi-wandelingen en bergtochten`,
+    },
+    zadar: {
+      personality: `de meest onderschatte stad van de Dalmatische kust, met Romeins forum, pre-Romaanse rotonde van de heilige Donatus, de door golven aangedreven zeeorgel en de groet aan de zon, allemaal op een compact, hondvriendelijk oude-stadsschiereiland met het hele jaar open Adriatische hondenstranden op korte rijafstand`,
+      highlight: `de 2 kilometer lange oeverpromenade Riva, de installaties zeeorgel en groet aan de zon, en het officieel aangewezen hondenstrand Kažin bij de brug van Vir`,
+      area: `het oude-stadsschiereiland rond het Romeinse forum, de vakantiewijk Borik in het noordwesten, en de restaurantwijk bij het plein van de Vijf Bronnen (Trg Pet Bunara)`,
+    },
+    zagreb: {
+      personality: `een ontspannen hoofdstad uit de Habsburgse tijd, waar honden meereizen met de kortste kabelbaan ter wereld, caféterrassen de voetgangerszone Tkalčićeva omzomen, en het 316 hectare grote Maksimir-park de belangrijkste omheinde loslaatzone van de stad huisvest`,
+      highlight: `het Maksimir-park, de middeleeuwse bovenstad, en de hondenstrandgedeeltes aan het Jarun-meer`,
+      area: `Donji Grad, Gornji Grad en de merenwijk rond Maksimir`,
+    },
+    zaragoza: {
+      personality: `Aragoniës hoofdstad en Spanjes vijfde stad, gekenmerkt door de Basílica del Pilar aan de Ebro en opgebouwd rond 126 aangewezen loslaatzones, een van de dichtste huisdiervriendelijke parknetwerken van Spanje, plus de 24 uur per dag geopende verwijskliniek AniCura Emvet`,
+      highlight: `het 27 hectare grote Parque Grande Labordeta, de omheinde hondenzone in het Parque del Tío Jorge, en de oeverpaden langs de Riberas del Ebro`,
+      area: `het Casco Histórico rond El Pilar, het groene Centro aan de Paseo de Sagasta, en de tapaswijk Magdalena`,
+    },
+    'zell-am-see': {
+      personality: `Oostenrijks meer- en gletsjerresort in het Pinzgau, waar honden met muilkorf en lijn meereizen met de Schmittenhöhebahnen, de gletsjerliften van de Kitzsteinhorn gebruiken tot 3.029 meter, en zelfs meevaren met de boten van het Zeller See (5 euro per rit), en de stad een officiële hondloslaatzone bij de Erlberg onderhoudt; de ene lokale gewoonte die je moet overnemen is de lijn- of muilkorfplicht op alle openbare plaatsen`,
+      highlight: `de meeroever bij het Elisabethpark, de ongeveer 11 kilometer lange rondweg om het Zeller See via Thumersbach, de hondloslaatzone bij de Erlberg, en het vlonderpad door de Sigmund-Thun-Klamm naar het Klammsee`,
+      area: `de oeverpromenade en oude stad rond het Stadtplatz, Thumersbach aan de overkant van het water voor rustigere oeververblijven, en het dorp Kaprun aan de gletsjerkant`,
+    },
+    zermatt: {
+      personality: `het autovrije alpendorp aan de voet van de Matterhorn, waar honden gratis of voor de halve prijs meereizen met de Sunnegga-kabelbaan en de Gornergratbahn, zwemmen bij het hondenstrand van het Leisee, en de legendarische vijfmerenwandeling langs de spiegeling van het Stellisee lopen`,
+      highlight: `de vijfmerenwandeling van het Stellisee naar het Leisee, de Gornergratbahn naar een hondvriendelijk panorama op 3.089 meter, en het rivierpad langs de Matter Vispa door het dorp`,
+      area: `het autovrije dorpscentrum aan de Bahnhofstrasse, het plateau Sunnegga-Blauherd, en de bergkammen Gornergrat en Schwarzsee boven het dal`,
+    },
+    zurich: {
+      personality: `een stad die tot de hondvriendelijkste van Europa behoort, met eigen hondenzones bij de meerstranden, hondvriendelijke trams, en overal geaccepteerde huisdierenpaspoorten`,
+      highlight: `de oever van het Zürichmeer, de Uetliberg, en de wandelpaden langs de Sihl`,
+      area: `Kreis 4, Zürich West en de oude stad`,
+    },
+    agadir: {
+      personality: `een ontspannen Atlantische stad, heropgebouwd rond een van de langste en meest wandelbare strandboulevards van Marokko`,
+      highlight: `de zes kilometer lange strandboulevard, de jachthaven, en het uitzichtpunt van de Kasbah Agadir Oufella`,
+      area: `de strandboulevard, de jachthavenwijk, en de monding van de Souss richting Nationaal Park Souss-Massa`,
+    },
+    antalya: {
+      personality: `de zonnige hoofdstad van de Turkse Rivièra, waar Romeinse havensteegjes lange kiezel- en zandstranden ontmoeten`,
+      highlight: `de oude haven van Kaleici, het strand Konyaalti, en het watervalpark Lower Duden`,
+      area: `Kaleici, Konyaalti en Lara`,
+    },
+    batumi: {
+      personality: `een subtropische Zwarte-Zeestad waarvan de door palmen omzoomde oeverpromenade zich kilometers uitstrekt`,
+      highlight: `de zeven kilometer lange Batumi Boulevard, het Miracle Park aan zee, en de botanische tuin op de helling`,
+      area: `de oude oeverpromenade, de oude stad rond het Piazza-plein, en de nieuwe boulevard`,
+    },
+    berat: {
+      personality: `Albaniës door UNESCO geroemde stad van de duizend ramen, gestapeld in witte Ottomaanse terrassen boven de rivier de Osum`,
+      highlight: `de burchtwijk van Berat, de oeverpromenade van de Osum, en de voetgangersbrug Gorica`,
+      area: `Mangalem, Gorica en de burchtwijk Kalaja`,
+    },
+    bodrum: {
+      personality: `een wit gekalkt vakantieplaatsje aan de Egeïsche Zee, gelegen rond twee baaien onder het kasteel van Sint-Pieter`,
+      highlight: `de jachthavenpromenade, het kasteel van Sint-Pieter, en het kustpad richting Bitez`,
+      area: `de jachthaven en de oude stad, Gumbet en Bitez`,
+    },
+    'cluj-napoca': {
+      personality: `Zevenburgens ongecompliceerde universiteitshoofdstad vol groene parken en terrascafés`,
+      highlight: `het centrale park aan de rivier de Someș, de uitzichtpunten van de heuvel Cetățuia, en de paden van het Hoia-bos`,
+      area: `de oude stad rond het Piata Unirii, de oevers van de Someș, en het groene Grigorescu`,
+    },
+    essaouira: {
+      personality: `een door de wind verkoelde Atlantische havenstad waar vestingmuren, meeuwen en een enorm halvemaanstrand het ritme bepalen`,
+      highlight: `de vestingmuren van de Skala, de autovrije steegjes van de Medina, en het lange strand richting Diabat`,
+      area: `de Medina, de oeverpromenade Skala, en de boulevard aan het strand`,
+    },
+    'feldkirchen-in-karnten': {
+      personality: `een klein Karinthisch marktstadje omringd door glooiende meren, weiden en beboste heuvels`,
+      highlight: `de oevers van het Ossiacher See, de wandelpaden van de Nockberge-voorbergen, en het arcadeplein van de oude stad`,
+      area: `het historische stadscentrum, de oever van het Ossiacher See, en de Nockberge-voorbergen`,
+    },
+    fundao: {
+      personality: `een rustige kersenteeltstad in de Beira Baixa aan de voet van de Serra da Gardunha`,
+      highlight: `de wandelpaden van de Serra da Gardunha, de kersenboomgaarden van Alcongosta, en de granieten steegjes van de oude stad`,
+      area: `het historische centrum, het berghellingdorp Alcongosta, en de dorpen van de Gardunha`,
+    },
+    gjirokastra: {
+      personality: `Albaniës UNESCO-stenen stad waar met leisteen gedekte Ottomaanse huizen oplopen naar een geweldig heuvelfort`,
+      highlight: `de muren van het fort van Gjirokastra, de geplaveide oude basar, en de uitzichtpunten van het Drino-dal`,
+      area: `de oude basar, de burchtwijk, en de nieuwere stad in het dal eronder`,
+    },
+    goreme: {
+      personality: `het dorp in het hart van Cappadocië, omringd door feeschoorstenen en open dalpaden alsof gemaakt voor lange wandelingen`,
+      highlight: `de wandelpaden van het Roze en het Rode Dal, het Duivendal richting Uchisar, en het zonsopgangsuitzicht op de heteluchtballonnen vanaf Sunset Point`,
+      area: `het dorpscentrum, de weg naar het openluchtmuseum Goreme, en de vertrekpunten van de dalpaden`,
+    },
+    ischia: {
+      personality: `een vulkanisch thermaal eiland in de golf van Napels, waar honden aan de lijn door het autovrije dorp Sant'Angelo zwerven, de Monte Epomeo en het dennenbos aan zee bewandelen, en de vrije gedeeltes van het lange strand Maronti bereiken`,
+      highlight: `de dam naar het Aragonese kasteel, het toppad naar de Monte Epomeo, en het kustpad van Sant'Angelo naar Maronti`,
+      area: `de havenplaatsen Ischia Porto en Ischia Ponte, het westelijke vakantieplaatsje Forio, en het autovrije dorp Sant'Angelo in het zuiden`,
+    },
+    istanbul: {
+      personality: `een metropool, beroemd om het behandelen van haar zwerfdieren als burgers, waar honden op beide continenten er gewoon bij horen`,
+      highlight: `de oeverwandelingen aan de Bosporus, het Macka-park boven Besiktas, en de oeverpromenade van Moda in Kadikoy`,
+      area: `Galata en Karakoy, Besiktas en Moda aan de Aziatische kant`,
+    },
+    kas: {
+      personality: `een rustige havenstad aan de Lycische kust, genesteld tussen turquoise baaien en bergpaden`,
+      highlight: `de voetpaden van de Lycische weg, de rondwandeling om het schiereiland Cukurbag, en de oude stad bij de haven`,
+      area: `de oude stad rond de haven, het schiereiland Cukurbag, en de baai Kucukcakil`,
+    },
+    kazbegi: {
+      personality: `een hoog-Kaukasisch dorp met uitzicht op de Kazbek, het klassieke vertrekpunt voor grote bergwandelingen in Georgië`,
+      highlight: `de weg naar de Drie-eenheidskerk van Gergeti, het Truso-dal, en het Sno-dal richting Juta`,
+      area: `het dorpscentrum Stepantsminda, Gergeti aan de overkant van de rivier, en de weg door het Sno-dal`,
+    },
+    marrakech: {
+      personality: `Marokkos okerkleurige keizerstad, waar riad-binnenplaatsen en uitgestrekte tuinen rust bieden tussen de wandelingen door de Medina`,
+      highlight: `de olijfgaarden van de Menara-tuinen, de schaduwrijke steegjes van het Cyber Park, en de palmwegen van de Palmeraie`,
+      area: `de Medina, Gueliz en de Palmeraie`,
+    },
+    mykonos: {
+      personality: `het meest kosmopolitische van de Cycladen, helemaal wit gekalkte steegjes, windmolens en zandige baaien`,
+      highlight: `de windmolens boven Little Venice, de oeverkant van Chora, en het kustpad tussen Ornos en Agios Ioannis`,
+      area: `Mykonos-stad, Ornos en Platis Gialos`,
+    },
+    'oropesa-del-mar': {
+      personality: `een gezinsvriendelijke vakantiebestemming aan de Costa del Azahar, aangelegd tussen baaien, een kasteelheuvel en een groenstrook aan zee`,
+      highlight: `de Via Verde del Mar richting Benicassim, de strandboulevard van La Concha, en de oude stad onder het kasteel`,
+      area: `de oude stad, de oeverzone van La Concha, en Marina d'Or`,
+    },
+    peniche: {
+      personality: `een werkend vissersschiereiland, beroemd om surfstranden en door de zee gevormde kliffen`,
+      highlight: `het klifpad bij het Cabo Carvoeiro, de duinstranden van Baleal, en de boottochtjes naar de Berlengas`,
+      area: `de ommuurde havenstad, Baleal en Consolação`,
+    },
+    plovdiv: {
+      personality: `een van de oudste nog bewoonde steden van Europa, verspreid over glooiende heuvels met een wandelbare Romeinse en wedergeboorte-kern`,
+      highlight: `de tuin Zar Simeon, de oeverpaden langs de Maritza, en het heuveluitzicht vanaf de Sahat Tepe`,
+      area: `de creatieve wijk Kapana, de oude stad, en de oevers van de Maritza`,
+    },
+    rouen: {
+      personality: `de vakwerk-rivierhoofdstad van Normandië, compact en alsof gemaakt voor rustige wandelingen tussen kathedraal en kades`,
+      highlight: `de begroeide Seine-kades, de Jardin des Plantes, en de steegjes rond de Gros-Horloge`,
+      area: `de oude stad rond de kathedraal, de Seine-kades aan de rechteroever, en de marktwijk Saint-Marc`,
+    },
+    tbilisi: {
+      personality: `Georgiës warme hoofdstad, waar zwerfhonden stedelijke oormerken dragen en parken de heuvels op klimmen`,
+      highlight: `het Rike-park aan de rivier, de beboste paden van de Mtatsminda, en het Schildpaddenmeer boven het Vake-park`,
+      area: `de oude stad, Vera en Vake`,
+    },
+    tirano: {
+      personality: `een klein Veltliner stadje waar de Bernina Express Italiaanse pleinen en oeverpaden ontmoet`,
+      highlight: `het Sentiero Valtellina langs de Adda, de uitzichten van de Berninalijn, en het bedevaartsplein van de Madonna di Tirano`,
+      area: `het historische centrum, Madonna di Tirano, en de oever van de Adda`,
+    },
+    valbona: {
+      personality: `een afgelegen dalendorp diep in de Albanese Alpen, het vertrekpunt voor enkele van de mooiste bergwandelingen van de Balkan`,
+      highlight: `het pastpad van Valbona naar Theth, de witte stenen bedding van de Valbona-rivier, en de weiden van Rragam`,
+      area: `het dorp Valbona, Rragam en het bovendal richting de pas`,
+    },
+    benidorm: {
+      personality: `Europa's grootste hoogbouw-badplaats aan de Costa Blanca, een klassieker populair bij Britse vakantiegangers, waar vijf gratis, omheinde hondenparken en een vlakke, wandelbare aanleg een het hele jaar geldend, strikt hondenverbod op het strand compenseren`,
+      highlight: `de Balcón del Mediterráneo op de klif, de wit gekalkte steegjes van de oude stad, en het door palmen omzoomde Parque Canino L'Aigüera`,
+      area: `Rincón de Loix bij de hondenparken en het vertrekpunt naar de Serra Gelada, en het Casco Antiguo, de oude vissersbuurt`,
+    },
+    spa: {
+      personality: `het kleine Ardense kuurstadje dat de Engelse taal het woord "spa" gaf, lid van de UNESCO-werelderfgoedsite Great Spas of Europe, omringd door boswegen`,
+      highlight: `de oeverrondweg om het Lac de Warfaaz, de overdekte galerijen van het Parc de Sept Heures, en de uitgestrekte wandelpaden van de Hautes Fagnes`,
+      area: `het compacte kuurcentrum rond de Pouhon Pierre-le-Grand, het Warfaaz-meer, en het natuurreservaat Hautes Fagnes boven de stad`,
+    },
+  },
 }
 
 // ─── Cat Intros ──────────────────────────────────────────────────────────────
@@ -10616,6 +12708,32 @@ const catIntrosByLocale: Record<string, Record<string, (d: string, ctx: DestCtx,
       `"Hunde übernachten kostenlos" ist bei den unten aufgeführten Unterkünften kein reiner Werbeslogan. Es steht hinter bestätigten Richtlinien, meist ohne Ausnahmen nach Gewicht oder Rasse. In ${d}, ${ctx.personality.replace('one of ', '')}, fügt sich diese Politik natürlich in die lokale Gastfreundschaftskultur ein.`,
     ],
   },
+  nl: {
+    'dog-friendly': (d, ctx, n) => [
+      `${d} is ${ctx.personality}. Met ${n} handgekozen hondvriendelijke accommodaties op deze lijst vind je opties van budgetvriendelijke boetiekhotels tot vijfsterrensuites. Allemaal bevestigd hondvriendelijk, zonder de gebruikelijke verborgen beperkingen.`,
+      `Wat ${d} bijzonder maakt voor hondeneigenaren is de infrastructuur buiten de hotelkamer: ${ctx.highlight} zijn vanaf de hieronder genoemde accommodaties gemakkelijk te bereiken. In ${ctx.area} horen honden gewoon bij het dagelijks leven, en de hotels op deze lijst zijn juist gekozen omdat ze die cultuur actief omarmen in plaats van hem alleen maar te dulden.`,
+    ],
+    'cat-friendly': (d, ctx, n) => [
+      `Reizen met een kat is nog altijd een stuk minder gangbaar dan reizen met een hond. Maar ${d} is ${ctx.personality}, en de horeca begint dat steeds meer te weerspiegelen. Deze ${n} katvriendelijke hotels zijn geselecteerd omdat ze verder gaan dan een schoorvoetend beleid en katten actief verwelkomen.`,
+      `Kattenbezitters die ${d} bezoeken, waarderen aan de hotels hieronder de rustige kamers, de makkelijke gelijkvloerse of liftgebonden toegang en personeel dat getraind is om de check-in met een reismand soepel te laten verlopen. De beste hotels bieden dekens en afgeschermde kattenbakruimtes zonder dat je erom hoeft te vragen.`,
+    ],
+    'beach-access': (d, ctx, n) => [
+      `Strandtoegang combineren met een huisdiervriendelijk verblijf is lastiger dan het klinkt: niet elk kusthotel laat honden toe, en veel stranden beperken de toegang voor honden per seizoen. Deze ${n} accommodaties in ${d} vormen de uitzondering. Bevestigd voor zowel strandnabijheid als een echt warm welkom voor je huisdier.`,
+      `De kust van ${d}. Inclusief ${ctx.highlight}. Is het meest huisdiervriendelijk in de lente (april-mei) en herfst (september-oktober), wanneer seizoensgebonden hondenbeperkingen op veel stranden worden opgeheven. De hotels hieronder zijn niet alleen gekozen om hun nabijheid tot zee, maar ook om voorzieningen zoals buitendouches, beschaduwde terrassen en personeel dat de lokale hondvriendelijke strandplekken kent.`,
+    ],
+    'near-parks': (d, ctx, n) => [
+      `Een hotel dicht bij groen verandert een stedentrip met hond volledig. Deze ${n} accommodaties in ${d} liggen allemaal op comfortabele loopafstand van ${ctx.highlight}. Zo worden ochtend- en avondwandelingen een genoegen in plaats van een logistieke puzzel.`,
+      `In ${ctx.area} is groen stevig verweven met het stadsleven. De hotels op deze lijst zijn specifiek gekozen om hun loopafstand tot loslooplocaties, met bomen omzoomde paden en de buurtsfeer die een stedentrip met hond echt aangenaam maakt.`,
+    ],
+    'luxury': (d, ctx, n) => [
+      `Vijfsterren gastvrijheid en een huisdiervriendelijk beleid kwamen vroeger zelden in dezelfde zin voor. ${d} verandert dat. Deze ${n} luxehotels gaan ver voorbij een simpele clausule "kleine huisdieren toegestaan" en bieden jou en je huisdier een echte high-end ervaring: welkomstpakketten, huisdierbedden op de kamer, lekkernijen bij het opmaken van het bed en uitlaatservice via de conciërge.`,
+      `Verblijven in een van de luxueuze huisdiervriendelijke hotels van ${d} betekent dat je het beste van ${ctx.area} beleeft vanuit een basis die jouw huisdier als een waardevolle gast behandelt. Meerdere hotels hieronder hebben eigen menu's voor huisdieren, en allemaal kunnen ze op verzoek reserveringen regelen bij lokale huisdiervriendelijke restaurants.`,
+    ],
+    'dogs-stay-free': (d, ctx, n) => [
+      `Huisdiertoeslagen kunnen 15-50 € per nacht aan je hotelrekening toevoegen. Een flink bedrag over een week bekeken. Deze ${n} hotels in ${d} hebben die kosten volledig geschrapt: jouw hond verblijft gratis, zonder verborgen schoonmaakkosten of borgsom.`,
+      `"Honden verblijven gratis" is bij de hotels hieronder geen loze marketingtekst. Het staat vast in bevestigd beleid, meestal zonder uitzonderingen op basis van gewicht of ras. In ${d}, ${ctx.personality.replace('one of ', '')}, past dit beleid van nature bij de lokale gastvrijheidscultuur.`,
+    ],
+  },
 }
 
 // ─── Intros ──────────────────────────────────────────────────────────────────
@@ -10627,7 +12745,7 @@ export function generateIntro(
   hotelCount: number,
   locale: string = 'en'
 ): string[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const ctxMap = destContextByLocale[l] ?? destContextByLocale['en']
   const ctx = ctxMap[destSlug] ?? {
     personality: 'a popular European destination',
@@ -10655,6 +12773,12 @@ export function generateIntro(
         `Alle Hotels auf dieser Liste akzeptieren Haustiere mit minimalen Einschränkungen. Wir empfehlen, die Details Ihres Haustiers (Größe, Rasse, Anzahl der Tiere) bei der Buchung direkt mit dem Hotel zu bestätigen.`,
       ]
     }
+    if (l === 'nl') {
+      return [
+        `${destName} heeft een groeiend aanbod aan huisdiervriendelijke hotels. Deze ${hotelCount} hotels zijn met zorg geselecteerd om hun oprechte welkom voor dieren, bevestigd huisdierbeleid en goede gastbeoordelingen.`,
+        `Alle hotels op deze lijst accepteren huisdieren met minimale beperkingen. We raden aan om de details van jouw huisdier (grootte, ras, aantal dieren) bij het boeken rechtstreeks met het hotel te bevestigen.`,
+      ]
+    }
     return [
       `${destName} has a growing selection of pet-friendly hotels. These ${hotelCount} properties have been handpicked for their genuine welcome to animals, confirmed pet policies, and guest satisfaction scores.`,
       `All hotels on this list accept pets with minimal restrictions. We recommend confirming your specific pet's details (size, breed, number of animals) directly with the property when booking.`,
@@ -10678,12 +12802,13 @@ export function generateFaqs(
   hotels: Array<{ name: string; petFee: number; petPolicy: string; stars: number }>,
   locale: string = 'en'
 ): Faq[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const { free } = petFeeStats(hotels)
   const topHotel = hotels[0]?.name ?? (
     l === 'fr' ? 'l\'hôtel le mieux noté' :
     l === 'es' ? 'el hotel mejor valorado' :
     l === 'de' ? 'das bestbewertete Hotel' :
+    l === 'nl' ? 'het best beoordeelde hotel' :
     'the top-rated hotel'
   )
 
@@ -10800,6 +12925,66 @@ export function generateFaqs(
       'near-parks': {
         q: `Sind die Parks in der Nähe dieser Hotels für Hunde ohne Leine geeignet?`,
         a: `Die meisten zu Fuß erreichbaren Parks von den Hotels auf dieser Liste haben ausgewiesene Freilaufzonen, auch wenn die Regeln je nach Tageszeit und Bereich variieren. Das Empfangspersonal aller gelisteten Hotels kann eine aktuelle Karte der hundefreundlichen Parks bereitstellen. Tragen Sie auch in Freilaufzonen immer eine Leine bei sich, da manche Bereiche auch von Familien mit kleinen Kindern genutzt werden.`,
+      },
+    }
+
+    if (extra[catSlug]) base.push(extra[catSlug])
+    return base
+  }
+
+  if (l === 'nl') {
+    const freeNote =
+      free > 0
+        ? `${free} van de ${hotels.length} hotels op deze lijst rekenen helemaal geen huisdiertoeslag.`
+        : 'De meeste hotels rekenen een kleine schoonmaakkosten van 10 tot 30 € per verblijf.'
+
+    const base: Faq[] = [
+      {
+        q: `Zijn ${catName.toLowerCase()} hotels makkelijk te vinden in ${destName}?`,
+        a: `Ja: ${destName} heeft een ruim aanbod aan echt ${catName.toLowerCase()} accommodaties. De ${hotels.length} hotels op deze pagina zijn gecontroleerd en accepteren huisdieren met expliciet beleid, niet alleen vage toezeggingen. Huisdiervriendelijke kamers zijn in het hoogseizoen echter snel volgeboekt, dus minstens 6 tot 8 weken van tevoren boeken is aan te raden.`,
+      },
+      {
+        q: `Wat is de gebruikelijke huisdiertoeslag in hotels in ${destName}?`,
+        a: `${freeNote} De kosten variëren van 0 tot 50 € afhankelijk van de categorie van het hotel en het type huisdier. Controleer bij het boeken altijd het exacte bedrag in het huisdierbeleid van het hotel. Soms wordt de toeslag per nacht in plaats van per verblijf berekend.`,
+      },
+      {
+        q: `Wat is de gebruikelijke gewichtslimiet in hotels in ${destName}?`,
+        a: `De meeste hotels in ${destName} hanteren een maximumgewicht van 15 tot 25 kg. Sommige hotels, waaronder ${topHotel}, accepteren honden zonder gewichtsbeperking. Het individuele huisdierbeleid op elke kaart hierboven geeft de details; bevestig altijd bij het hotel als je hond meer dan 20 kg weegt.`,
+      },
+      {
+        q: `Kan ik mijn huisdier alleen achterlaten in mijn hotelkamer in ${destName}?`,
+        a: `Het beleid verschilt per hotel. Sommige hotels staan toe dat je huisdier alleen op de kamer blijft (vaak met een bench), andere vereisen dat de eigenaar altijd aanwezig is. Het veiligst is om rechtstreeks naar het hotel te bellen. Het personeel kan meestal lokale huisdieroppasdiensten aanbevelen als dat nodig is.`,
+      },
+      {
+        q: `Wanneer is de beste tijd om ${destName} met een huisdier te bezoeken?`,
+        a: `Lente (april tot mei) en vroege herfst (september tot oktober) zijn ideaal. De temperaturen zijn mild, minder toeristen betekent rustigere straten en parken, en de meeste hotels zitten nog niet op piekbezetting. De zomer kan erg heet zijn in ${destName}, wat zwaar is voor dieren, en het aanbod aan huisdiervriendelijke kamers krimpt in juli en augustus flink.`,
+      },
+      {
+        q: `Wat is het beste seizoen om ${destName} met een hond te bezoeken?`,
+        a: `Voor ${catName.toLowerCase()} verblijven in ${destName} bieden lente (maart tot mei) en herfst (september tot november) de beste omstandigheden. De temperaturen zijn aangenaam voor wandelingen, de parken zijn minder druk en hotels bieden buiten het hoogseizoen vaak betere prijzen. Let 's zomers op grote hitte, die zwaar kan zijn voor honden, vooral voor kortsnuitige rassen.`,
+      },
+      {
+        q: `Welke buurt in ${destName} is het beste voor ${catName.toLowerCase()} hotels?`,
+        a: `De keuze van de buurt hangt af van jouw reisstijl. Centrale buurten bieden makkelijke toegang tot restaurants en musea, maar kunnen luidruchtig zijn. Woonwijken of buurten bij parken zijn meestal beter geschikt voor huisdieren, met meer groen in de buurt. De hotels op deze lijst zijn ook geselecteerd om hun praktische ligging voor huisdiereigenaren. Bekijk de kaart hierboven om de locaties te vergelijken.`,
+      },
+    ]
+
+    const extra: Record<string, Faq> = {
+      'beach-access': {
+        q: `Mogen honden op de stranden van ${destName}?`,
+        a: `Hondentoegang tot stranden in ${destName} verschilt per strand en per seizoen. Veel Europese stranden staan honden toe in het laagseizoen (lente en herfst), maar hanteren strenge beperkingen van juni tot september in het hoogseizoen. Buiten het zomerseizoen zijn de toegangstijden vaak flexibeler (voor 9 uur en na 19 uur in de zomer). Hotels met directe strandtoegang kunnen je adviseren over de beste tijden en plekken voor honden. Vraag bij het inchecken altijd naar een actuele kaart met hondvriendelijke stranden.`,
+      },
+      'dogs-stay-free': {
+        q: `Betekent "honden verblijven gratis" ook geen borgsom?`,
+        a: `In de meeste gevallen wel. Hotels die geen huisdiertoeslag vermelden, vragen meestal ook geen borgsom. Het hotel kan echter nog steeds kosten in rekening brengen voor aantoonbare schade door je huisdier. Lees het volledige huisdierbeleid altijd zorgvuldig door en bewaar een kopie van je boekingsbevestiging met het gratis beleid.`,
+      },
+      'luxury': {
+        q: `Welke luxevoorzieningen kan ik verwachten voor mijn huisdier in de hotels van ${destName}?`,
+        a: `Topklasse hotels in ${destName} hebben de lat flink hoger gelegd. Denk aan welkomstpakketten (mand, bak, snacks, speeltje), in-room menu's voor huisdieren, uitlaatservice via de conciërge en avondlijke aandacht. Sommige hotels bieden huisdiervriendelijke spa-arrangementen aan of kunnen dierenartsbezoeken regelen. ${topHotel} staat vooral bekend om zijn huisdiervoorzieningen. Controleer het exacte aanbod bij het boeken.`,
+      },
+      'near-parks': {
+        q: `Zijn de parken bij deze hotels geschikt voor honden zonder lijn?`,
+        a: `De meeste parken die je vanaf de hotels op deze lijst kunt bereiken, hebben aangewezen losloopzones, al verschillen de regels per tijdstip en zone. De receptie van alle vermelde hotels kan een actuele kaart van hondvriendelijke parken verstrekken. Draag ook in losloopzones altijd een lijn bij je, want sommige gebieden worden ook gebruikt door gezinnen met kleine kinderen.`,
       },
     }
 
@@ -11150,6 +13335,50 @@ const catTipsByLocale: Record<string, Record<string, Tip[]>> = {
       { n: 5, title: 'Hinterlassen Sie eine ausführliche Bewertung mit Erwähnung der Haustierrichtlinie', text: 'Nach Ihrem Aufenthalt hilft eine konkrete Bewertung, die das hundefreundliche Erlebnis erwähnt, zukünftigen Haustierbesitzern bei einer sicheren Entscheidung. Und sie ermutigt Hotels, ihre Richtlinien beizubehalten oder zu verbessern.' },
     ],
   },
+  nl: {
+    'dog-friendly': [
+      { n: 1, title: 'Boek het specifieke kamertype voor huisdieren', text: 'Niet elke kamer in een hondvriendelijk hotel accepteert huisdieren. Vraag bij het boeken specifiek naar het "huisdiervriendelijke" kamertype. Die heeft meestal makkelijke toegang naar buiten en harde vloeren in plaats van vloerbedekking.' },
+      { n: 2, title: 'Controleer de gewichtslimiet voor je aankomst', text: 'Hotels geven vaak een maximaal hondengewicht op (10, 20 of 25 kg). Zit je hond op de grens, bel dan vooraf. Het beleid is soms flexibel, vooral buiten het hoogseizoen.' },
+      { n: 3, title: 'Vraag naar lokale uitlaattips', text: 'Het conciërgepersoneel van de hotels op deze lijst weet precies welke parken loslooplocaties zijn, welke cafés waterbakjes buiten zetten en welke straten het rustigst zijn voor angstige honden.' },
+      { n: 4, title: 'Neem een EU-dierenpaspoort mee voor grensovergangen', text: 'Reis je met de auto naar je bestemming, dan is een EU-dierenpaspoort verplicht om grenzen over te steken. Zorg dat de rabiësvaccinatie minstens 21 dagen voor vertrek up-to-date is.' },
+      { n: 5, title: 'Bevestig het beleid per e-mail', text: 'Stuur na het boeken een kort mailtje met naam, ras en gewicht van je hond. Dat geeft je een schriftelijk bewijs en voorkomt onduidelijkheid bij het inchecken.' },
+    ],
+    'cat-friendly': [
+      { n: 1, title: 'Vraag om een rustige kamer, weg van straatlawaai', text: 'Katten zijn gevoelig voor lawaai. Vraag om een kamer aan een binnenplaats of op een hogere verdieping. Hoe minder straatverkeer en liftlawaai, hoe rustiger jouw kat blijft.' },
+      { n: 2, title: 'Houd je kat tijdens het inchecken in de reismand', text: 'Een drukke hotellobby kan overweldigend zijn. Houd je kat veilig totdat je op de kamer bent. De meeste hotels brengen je snel naar de lift zodra je bij aankomst vermeldt dat je een kat bij je hebt.' },
+      { n: 3, title: 'Neem vertrouwde geurtjes van thuis mee', text: 'Een deken of speeltje van thuis vermindert de stress in een nieuwe omgeving aanzienlijk. De vertrouwde geur helpt katten binnen enkele uren te wennen in plaats van dagen.' },
+      { n: 4, title: 'Dicht eerst alle kieren en verstop mogelijke ontsnappingsroutes', text: 'Voordat je je kat uit de reismand laat, sluit je ramen, kijk je achter zware meubels en plak je eventuele ventilatiespleten af. Een grondige controle van tien minuten voorkomt ontsnappingen.' },
+      { n: 5, title: 'Vraag de housekeeping om te kloppen en te wachten', text: 'Vraag de receptie je kamer te markeren, zodat housekeeping hard klopt en wacht voordat ze binnenkomen. Dit voorkomt dat je kat per ongeluk via een openstaande deur ontsnapt.' },
+    ],
+    'beach-access': [
+      { n: 1, title: 'Check van tevoren de strandregels voor honden', text: 'Veel Europese stranden verbieden honden van juni tot september, of beperken de toegangstijden tot voor 9 uur en na 19 uur. Vraag het hotel om een actuele kaart met hondvriendelijke strandtoegang.' },
+      { n: 2, title: 'Spoel je hond af na het zeewater', text: 'Zout water irriteert bij herhaalde blootstelling de pootjes en de huid. De meeste hotels met strandtoegang op deze lijst hebben buitendouches. Gebruik ze na elke duik en droog de pootjes goed af.' },
+      { n: 3, title: 'Let \'s zomers op de hitte van het zand', text: 'Droog zand kan \'s zomers 50-60°C worden en de voetzolen flink verbranden. Test met je eigen handpalm voordat je je hond over onbeschaduwd zand laat lopen.' },
+      { n: 4, title: 'Neem schaduw mee', text: 'Zelfs op huisdiervriendelijke stranden zijn parasols zelden te huur. Een draagbare strandschaduw of een geleende parasol van het hotel houdt je hond langer comfortabel op het strand.' },
+      { n: 5, title: 'Zorg dat er altijd zoet water beschikbaar is', text: 'Zout water maakt honden dorstig en kan bij grote hoeveelheden braken veroorzaken. Neem een opvouwbare bak mee en minstens 1,5 liter zoet water per dag voor op het strand.' },
+    ],
+    'near-parks': [
+      { n: 1, title: 'Vraag om de wandelroutekaart van het hotel', text: 'De beste hondvriendelijke hotels bij parken hebben de losloopzones, watervulpunten en hondvriendelijke caféterrasjes in de buurt in kaart gebracht. Vraag ernaar bij het inchecken.' },
+      { n: 2, title: 'Ga er vroeg op uit voor de beste parkervaring', text: 'Parken zijn het rustigst voor 9 uur \'s ochtends. Minder fietsers, minder kinderen en meer ruimte. Vroege ochtenden zijn \'s zomers ook koeler en beter voor energieke rassen.' },
+      { n: 3, title: 'Ken de losloopregels van het park', text: 'De losloopregels verschillen per zone binnen hetzelfde park. Let op borden of vraag het hotel. Word je zonder lijn betrapt in een aanlijnzone, dan kan dat in sommige steden een boete opleveren.' },
+      { n: 4, title: 'Pak opvouwbare voer- en waterbakjes in', text: 'Lichte siliconen bakjes wegen bijna niets en maken parkstops comfortabel voor je hond, zonder dat je zwaar spul hoeft te sjouwen.' },
+      { n: 5, title: 'Zoek de dichtstbijzijnde dierenarts bij je hotel', text: 'Vraag het hotel de dichtstbijzijnde 24-uursdierenkliniek te noteren. De meeste mensen hebben hem nooit nodig, maar het adres kennen neemt de paniek weg mocht er toch iets gebeuren.' },
+    ],
+    'luxury': [
+      { n: 1, title: 'Vraag vooraf om het welkomstpakket voor huisdieren', text: 'De meeste luxehotels bieden welkomstpakketten (mand, bak, snacks, speeltje), maar de voorraad is beperkt. Vraag er een aan bij het bevestigen van je boeking. Niet pas bij aankomst. Om de beschikbaarheid te garanderen.' },
+      { n: 2, title: 'Vraag naar de huisdier-conciërgeservice', text: 'Meerdere vijfsterrenhotels op deze lijst hebben een eigen huisdier-conciërge: uitlaatservice, in-room menu\'s voor huisdieren, trimafspraken en zelfs doorverwijzingen naar een dierenarts. Vraag voor aankomst wat er precies bij inbegrepen zit.' },
+      { n: 3, title: 'Boek een huisdiervriendelijke suite in plaats van een standaardkamer', text: 'Luxesuites hebben vaak betere geluidsisolatie, meer vloeroppervlak voor je huisdier om te bewegen en een privéterras. De upgrade is de moeite waard bij een verblijf van meerdere nachten met een dier.' },
+      { n: 4, title: 'Bevestig het spa-beleid', text: 'De meeste luxehotels verlangen dat je huisdier op de kamer blijft terwijl je de spafaciliteiten gebruikt. Vraag naar oppasmogelijkheden. Veel hotels kunnen een uitlaatservice regelen die samenvalt met je behandeling.' },
+      { n: 5, title: 'Geef een fooi aan het huisdierbewuste personeel', text: 'De housekeeper die extra moeite doet om een slapende kat niet te storen, en de piccolo die je hond naar de lift brengt. Kleine fooien dragen flink bij aan uitzonderlijke huisdiervriendelijke service tijdens je hele verblijf.' },
+    ],
+    'dogs-stay-free': [
+      { n: 1, title: 'Laat de kosteloosheid schriftelijk bevestigen', text: 'Boek rechtstreeks bij het hotel of via Booking.com en zorg dat de bevestigingsmail duidelijk "geen huisdiertoeslag" vermeldt. Screenshots van het beleid op het moment van boeken zijn handig bij een geschil bij het uitchecken.' },
+      { n: 2, title: 'Begrijp wat "gratis" precies dekt', text: '"Honden verblijven gratis" betekent geen verblijfstoeslag. Niet dat schade gratis is. Hotels kunnen nog steeds kosten in rekening brengen voor aantoonbare schade door je huisdier (bekraste deuren, bevuild tapijt). Een verantwoord verblijf beschermt iedereen.' },
+      { n: 3, title: 'Neem je eigen hondenmand of deken mee', text: 'Zelfs gratis hotels bieden niet altijd een hondenmand. Een vertrouwde deken van thuis meenemen houdt je hond comfortabel en beschermt het hotelmeubilair tegen haren en pootafdrukken.' },
+      { n: 4, title: 'Vergelijk de kosten per verblijf over meerdere nachten', text: 'Een hotel met een toeslag van 20 €/verblijf kan goedkoper zijn dan een "honden verblijven gratis"-hotel als de basiskamerprijs veel lager ligt. Vergelijk altijd de totale kosten over de duur van je verblijf.' },
+      { n: 5, title: 'Laat een uitgebreide review achter met vermelding van het huisdierbeleid', text: 'Na je verblijf helpt een concrete review die de hondvriendelijke ervaring noemt, toekomstige huisdiereigenaren om met vertrouwen te kiezen. En het moedigt hotels aan hun beleid te behouden of te verbeteren.' },
+    ],
+  },
 }
 
 // ─── Why Section ─────────────────────────────────────────────────────────────
@@ -11200,6 +13429,14 @@ const catBullet3: Record<string, Record<string, (d: string, ctx: DestCtx) => str
     'luxury':         (d, ctx) => `Luxusunterkünfte in ${ctx.area} haben umfassende Concierge-Pakete für Haustiere entwickelt. Willkommenssets, Speisekarten fürs Zimmer und Buchung von Gassi-Service. Weil ihre Gäste es verlangt haben.`,
     'dogs-stay-free': (d) =>      `Die gebührenfreien Richtlinien hier sind bestätigt und gelten ganzjährig. Keine saisonalen Aktionen oder Gewichtsbeschränkungen. Das macht ${d} zu einem zuverlässig kostengünstigen Reiseziel für Haustierbesitzer.`,
   },
+  nl: {
+    'dog-friendly':   (d, ctx) => `De hotels voor deze gids zijn specifiek gekozen in ${ctx.area}, waar de infrastructuur voor huisdieren het dichtst is en lokale restaurants standaard waterbakjes en terrastoegang bieden.`,
+    'cat-friendly':   (d) =>      `Katvriendelijke kamers in ${d} zijn meestal rustigere eenheden op hogere verdiepingen met betrouwbare liftoegang. Belangrijke kenmerken die je kat de hele reis rustig houden.`,
+    'beach-access':   (_d) =>     `De huisdiervriendelijke strandplekken bij deze hotels zijn op redelijke tijden toegankelijk. Geen wekker om 6 uur nodig. Het grootste deel van het jaar, wat het plannen makkelijk maakt.`,
+    'near-parks':     (d, ctx) => `De hotels op deze lijst liggen allemaal op minder dan 10 minuten lopen van losloopzones in ${ctx.highlight}. Geen drukke straten oversteken, geen logistiek gedoe voor de ochtendwandeling.`,
+    'luxury':         (d, ctx) => `Luxeaccommodaties in ${ctx.area} hebben volledige conciërgepakketten voor huisdieren ontwikkeld. Welkomstpakketten, in-room menu's en boekingen voor uitlaatservice. Omdat hun gasten erom vroegen.`,
+    'dogs-stay-free': (d) =>      `Het gratis beleid hier is bevestigd en geldt het hele jaar door. Geen seizoensacties of gewichtsbeperkingen. Dat maakt ${d} tot een betrouwbaar voordelige bestemming voor huisdiereigenaren.`,
+  },
 }
 
 const bestSeasonByLocale: Record<string, Record<string, string>> = {
@@ -11223,6 +13460,10 @@ const bestSeasonByLocale: Record<string, Record<string, string>> = {
     'dog-friendly': 'Frühling & Herbst', 'cat-friendly': 'ganzjährig', 'beach-access': 'Frühling & früher Herbst',
     'near-parks': 'Frühling & Herbst', 'luxury': 'ganzjährig', 'dogs-stay-free': 'ganzjährig',
   },
+  nl: {
+    'dog-friendly': 'lente & herfst', 'cat-friendly': 'het hele jaar door', 'beach-access': 'lente & vroege herfst',
+    'near-parks': 'lente & herfst', 'luxury': 'het hele jaar door', 'dogs-stay-free': 'het hele jaar door',
+  },
 }
 
 export function generateWhy(
@@ -11231,11 +13472,11 @@ export function generateWhy(
   catSlug: string,
   locale: string = 'en'
 ): WhySection {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const ctx = (destContextByLocale[l] ?? destContextByLocale['en'])[destSlug] ?? {
-    personality: l === 'fr' ? 'une destination européenne populaire' : l === 'es' ? 'un destino europeo popular' : l === 'de' ? 'ein beliebtes europäisches Reiseziel' : 'a popular European destination',
-    highlight: l === 'fr' ? 'les espaces verts locaux' : l === 'es' ? 'los espacios verdes locales' : l === 'de' ? 'lokale Parks und Grünflächen' : 'local parks and green spaces',
-    area: l === 'fr' ? 'le centre-ville' : l === 'es' ? 'el centro de la ciudad' : l === 'de' ? 'das Stadtzentrum' : 'the city centre',
+    personality: l === 'fr' ? 'une destination européenne populaire' : l === 'es' ? 'un destino europeo popular' : l === 'de' ? 'ein beliebtes europäisches Reiseziel' : l === 'nl' ? 'een populaire Europese bestemming' : 'a popular European destination',
+    highlight: l === 'fr' ? 'les espaces verts locaux' : l === 'es' ? 'los espacios verdes locales' : l === 'de' ? 'lokale Parks und Grünflächen' : l === 'nl' ? 'lokale parken en groene ruimtes' : 'local parks and green spaces',
+    area: l === 'fr' ? 'le centre-ville' : l === 'es' ? 'el centro de la ciudad' : l === 'de' ? 'das Stadtzentrum' : l === 'nl' ? 'het stadscentrum' : 'the city centre',
   }
 
   const bullet3fn = (catBullet3[l] ?? catBullet3['en'])[catSlug]
@@ -11247,7 +13488,9 @@ export function generateWhy(
         ? `La política pet-friendly de estos hoteles ha sido verificada individualmente. Sin sorpresas en el check-in.`
         : l === 'de'
           ? `Die Haustierrichtlinie jedes Hotels auf dieser Liste wurde einzeln geprüft. Keine Überraschungen beim Check-in.`
-          : `Pet policies at every hotel on this list have been verified individually. No surprises at check-in.`
+          : l === 'nl'
+            ? `Het huisdierbeleid van elk hotel op deze lijst is afzonderlijk gecontroleerd. Geen verrassingen bij het inchecken.`
+            : `Pet policies at every hotel on this list have been verified individually. No surprises at check-in.`
 
   const bullets =
     l === 'fr'
@@ -11268,14 +13511,20 @@ export function generateWhy(
               `${destName} ist ${ctx.personality}; Tiere gehören hier ganz selbstverständlich zum Straßenleben, zu Caféterrassen und Geschäften vor Ort.`,
               bullet3,
             ]
-          : [
+          : l === 'nl'
+            ? [
+                `In ${destName} zijn ${ctx.highlight} vanaf elk hotel op deze lijst te bereiken, ideaal voor uitstapjes in de ochtend en avond.`,
+                `${destName} is ${ctx.personality}; huisdieren horen hier gewoon bij het straatleven, de caféterrasjes en de lokale winkels.`,
+                bullet3,
+              ]
+            : [
             `In ${destName}, ${ctx.highlight} are within reach of every hotel on this list, good for morning and evening outings.`,
             `${destName} is ${ctx.personality}, pets are a normal part of street life, café terraces, and local shops.`,
             bullet3,
           ]
 
   const bestSeason = (bestSeasonByLocale[l] ?? bestSeasonByLocale['en'])[catSlug] ?? (
-    l === 'fr' ? 'printemps & automne' : l === 'es' ? 'primavera & otoño' : l === 'de' ? 'Frühling & Herbst' : 'spring & autumn'
+    l === 'fr' ? 'printemps & automne' : l === 'es' ? 'primavera & otoño' : l === 'de' ? 'Frühling & Herbst' : l === 'nl' ? 'lente & herfst' : 'spring & autumn'
   )
 
   return { bullets, bestSeason }
@@ -11330,6 +13579,14 @@ const testimonialsByLocale: Record<string, Record<string, (d: string) => Testimo
     'luxury':         (d) => ({ emoji: '✨', text: `Wir haben uns für unser Jubiläum eines der luxuriösen haustierfreundlichen Hotels in ${d} gegönnt. Das Hotel hatte für unseren Spaniel ein Willkommensset vorbereitet. Ein richtiges Bett, einen Keramiknapf und echte Hundekekse aus einer örtlichen Bäckerei. Der Concierge ist mit ihm Gassi gegangen, während wir im Spa waren. Jeden Euro wert.`, attribution: ' Verifizierte Bewertung, Luxusgast' }),
     'dogs-stay-free': (d) => ({ emoji: '🎉', text: `Ich habe Städtereisen mit Bruno wegen der sich summierenden Haustiergebühren gemieden. Sie summieren sich auf 200 € und mehr für eine Woche. Der Aufenthalt in einem bestätigt gebührenfreien Hotel in ${d} hat diese Hürde komplett beseitigt. Gleiche Qualität, deutlich besseres Preis-Leistungs-Verhältnis. Jetzt unser Standardansatz bei der Buchung.`, attribution: ' Verifizierte Bewertung, gebührenfreier Aufenthalt' }),
   },
+  nl: {
+    'dog-friendly':   (d) => ({ emoji: '🐕', text: `We brachten vijf nachten door in ${d} met onze Labrador van 30 kg, Max. Een hotel vinden dat hem echt welkom heette. Niet alleen "toestond". Maakte de hele vakantie. De conciërge had bij het inchecken al een kaart van lokale parken klaarliggen en wist precies welke cafés waterbakjes buiten zetten. We hebben al weer geboekt voor de lente.`, attribution: ' Geverifieerde reiziger, hondvriendelijk verblijf' }),
+    'cat-friendly':   (d) => ({ emoji: '🐈', text: `Ik was best zenuwachtig om Simone (mijn Bengaal) mee te nemen naar een stadshotel. Het personeel in ${d} was geweldig. Ze hadden een hoekje van de kamer klaargemaakt met ruimte voor een kattenbak en opgevouwen handdoeken om de kieren bij de radiator af te dichten. Ze was binnen twee uur op haar gemak. Ik zou zonder aarzelen teruggaan.`, attribution: ' Geverifieerde review, kattenbezitter' }),
+    'beach-access':   (d) => ({ emoji: '🏖️', text: `We kozen bewust voor ${d} omdat het hotel op vijf minuten van een hondvriendelijk strandstuk lag. Onze Vizsla bracht elke dag vier uur in zee door en het hotel had buitendouches, zodat we nooit zand door de lobby sleepten. De perfecte combinatie. We komen elke zomer terug.`, attribution: ' Geverifieerde review, strandverblijf' }),
+    'near-parks':     (d) => ({ emoji: '🌳', text: `Wat mij overtuigde van ${d} was de nabijheid. We stonden binnen zes minuten na het verlaten van de hotelkamer al in het park. Onze windhond uit het asiel heeft lange, rustige wandelingen nodig en de losloopzones in de buurt waren ideaal. Het personeel kende elke goede route zonder dat we ernaar hoefden te vragen. Echt hondvriendelijk denken.`, attribution: ' Geverifieerde review, parkverblijf' }),
+    'luxury':         (d) => ({ emoji: '✨', text: `We trakteerden onszelf op een van de luxe huisdiervriendelijke hotels van ${d} voor onze trouwdag. Het hotel had een welkomstpakket voor onze Spaniël klaargemaakt. Een echte mand, een keramische bak en echte hondenkoekjes van een lokale bakkerij. De conciërge liet hem uit terwijl wij in de spa waren. Elke euro waard.`, attribution: ' Geverifieerde review, luxegast' }),
+    'dogs-stay-free': (d) => ({ emoji: '🎉', text: `Ik vermeed stedentrips met Bruno vanwege de opgetelde huisdiertoeslagen. Ze lopen op tot 200 € en meer voor een weekverblijf. Verblijven in een bevestigd gratis hotel in ${d} nam die drempel volledig weg. Dezelfde kwaliteit, veel betere prijs-kwaliteitverhouding. Nu onze standaardaanpak bij het boeken.`, attribution: ' Geverifieerde review, gratis verblijf' }),
+  },
 }
 
 export function generateTestimonial(
@@ -11337,13 +13594,13 @@ export function generateTestimonial(
   catSlug: string,
   locale: string = 'en'
 ): Testimonial | null {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const fn = (testimonialsByLocale[l] ?? testimonialsByLocale['en'])[catSlug]
   return fn ? fn(destName) : null
 }
 
 export function generateTips(catSlug: string, destName: string, locale: string = 'en'): Tip[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const tipsMap = catTipsByLocale[l] ?? catTipsByLocale['en']
   const tips = tipsMap[catSlug]
   if (tips) return tips
@@ -11376,6 +13633,15 @@ export function generateTips(catSlug: string, destName: string, locale: string =
       { n: 5, title: 'Nach dem Aufenthalt eine Bewertung hinterlassen', text: 'Ausführliche Bewertungen von Haustierbesitzern helfen künftigen Reisenden, wirklich einladende Hotels zu finden, und ermutigen die Häuser, hohe Standards zu halten.' },
     ]
   }
+  if (l === 'nl') {
+    return [
+      { n: 1, title: 'Boek vroeg', text: `Huisdiervriendelijke kamers in ${destName} zijn beperkt en in het hoogseizoen snel volgeboekt. 6 tot 8 weken van tevoren boeken is aan te raden.` },
+      { n: 2, title: 'Bevestig het huisdierbeleid rechtstreeks', text: 'Ook na het boeken zorgt een kort mailtje of belletje om de details van jouw huisdier te bevestigen voor een soepele check-in.' },
+      { n: 3, title: 'Pak het essentiële in', text: 'Vaccinatiebewijzen, een EU-dierenpaspoort voor grensovergangen, eten voor onderweg en een vertrouwde deken van thuis.' },
+      { n: 4, title: 'Vraag naar lokale huisdierdiensten', text: 'Het conciërgepersoneel kan lokale dierenartsen, hondenuitlaters, trimsalons en hondvriendelijke restaurantterrasjes aanbevelen.' },
+      { n: 5, title: 'Laat na je verblijf een review achter', text: 'Uitgebreide reviews van huisdiereigenaren helpen toekomstige reizigers om echt gastvrije hotels te vinden, en moedigen hotels aan om hoge standaarden te behouden.' },
+    ]
+  }
   return [
     { n: 1, title: 'Book early', text: `Pet-friendly rooms in ${destName} are limited and fill quickly in peak season. Booking 6–8 weeks ahead is advisable.` },
     { n: 2, title: 'Verify the pet policy directly', text: 'Even after booking, a quick email or call to confirm your specific pet\'s details ensures a smooth check-in.' },
@@ -11403,9 +13669,9 @@ export function generateDestFaqs(
   hotelCount: number,
   locale: string = 'en'
 ): Faq[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const ctx = (destContextByLocale[l] ?? destContextByLocale['en'])[destSlug]
-  const highlight = ctx?.highlight ?? (l === 'fr' ? 'ses parcs et espaces verts' : l === 'es' ? 'sus parques y espacios verdes' : l === 'de' ? 'seine Parks und Grünflächen' : 'its parks and green spaces')
+  const highlight = ctx?.highlight ?? (l === 'fr' ? 'ses parcs et espaces verts' : l === 'es' ? 'sus parques y espacios verdes' : l === 'de' ? 'seine Parks und Grünflächen' : l === 'nl' ? 'zijn parken en groene ruimtes' : 'its parks and green spaces')
 
   if (l === 'fr') {
     return [
@@ -11444,6 +13710,26 @@ export function generateDestFaqs(
       {
         q: `Brauche ich einen Heimtierausweis für eine Reise nach ${destName}?`,
         a: `Wenn Sie aus der EU anreisen, wird ein EU-Heimtierausweis (mit aktueller Tollwutimpfung) für ${country} empfohlen. Außerhalb der EU prüfen Sie die Einreisebestimmungen bei der Botschaft von ${country} in Ihrem Wohnsitzland.`,
+      },
+    ]
+  }
+  if (l === 'nl') {
+    return [
+      {
+        q: `Accepteren de hotels in ${destName} echt huisdieren?`,
+        a: `Ja. De ${hotelCount} hotels op deze pagina zijn gecontroleerd en hebben een expliciet huisdierbeleid op Booking.com. We vermelden geen hotels die alleen "afhankelijk van beschikbaarheid" aangeven. Elk hotel heet huisdieren actief welkom.`,
+      },
+      {
+        q: `Wat zijn de beste plekken om met een hond te wandelen in ${destName}?`,
+        a: `${destName} biedt uitstekende opties: ${highlight}. In deze gebieden kunnen honden vrij bewegen, op korte afstand van de hotels op deze lijst.`,
+      },
+      {
+        q: `Wat is de gemiddelde huisdiertoeslag in hotels in ${destName}?`,
+        a: `Huisdiertoeslagen liggen in ${destName} meestal tussen 0 en 30 € per nacht. Sommige premium hotels kunnen tot 50 € rekenen. Ongeveer 40% van de hotels op onze lijst rekent geen extra kosten. Filter op "honden verblijven gratis" om die te vinden.`,
+      },
+      {
+        q: `Heb ik een dierenpaspoort nodig om naar ${destName} te reizen?`,
+        a: `Als je vanuit de EU reist, wordt een EU-dierenpaspoort (met actuele rabiësvaccinatie) aanbevolen voor ${country}. Buiten de EU controleer je de inreisvoorwaarden bij de ambassade van ${country} in je woonland.`,
       },
     ]
   }
@@ -11488,7 +13774,7 @@ export function generateDestFaqs(
 }
 
 export function generateDestIntro(destSlug: string, destName: string, country: string, locale: string = 'en'): string {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const ctxMap = destContextByLocale[l] ?? destContextByLocale['en']
   const ctx = ctxMap[destSlug]
   if (!ctx) return ''
@@ -11501,6 +13787,9 @@ export function generateDestIntro(destSlug: string, destName: string, country: s
   }
   if (l === 'de') {
     return `${destName} ist ${ctx.personality}. Die besten Orte für Haustiere sind ${ctx.highlight}, besonders rund um ${ctx.area}.`
+  }
+  if (l === 'nl') {
+    return `${destName} is ${ctx.personality}. De beste plekken voor huisdieren zijn ${ctx.highlight}, vooral rond ${ctx.area}.`
   }
   return `${destName} is ${ctx.personality}. Top spots for pets include ${ctx.highlight}, especially around ${ctx.area}.`
 }

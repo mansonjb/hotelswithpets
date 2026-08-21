@@ -41,9 +41,13 @@
           "tipPt": "Peça uma mesa de esplanada do lado do mar e leve a sua própria taça de água nas tardes quentes",
           "googleMapsUrl": "https://maps.google.com/?q=Sentido+do+Mar+Costa+da+Caparica",
           "descriptionDe": "Ein Restaurant direkt am Meer bei Praia do Norte mit großer, zum Atlantik ausgerichteter Terrasse, spezialisiert auf frischen gegrillten Fisch und Meeresfrüchte. Die Freiluft-Esplanade ist der natürliche Platz für einen angeleinten Hund zu Ihren Füßen, während Sie die Brandung beobachten. Meerblick und eine sonnenuntergangsfreundliche Atmosphäre machen es zu einem klassischen Ziel in Caparica.",
+          "descriptionNl": "Een restaurant direct aan zee bij Praia do Norte met een groot terras dat uitkijkt op de Atlantische Oceaan, gespecialiseerd in vers gegrilde vis en zeevruchten. Het buitenterras is de perfecte plek voor een hond aan de lijn aan je voeten terwijl je naar de branding kijkt. Zeezicht en een sfeer die perfect is bij zonsondergang maken het een klassieker in Caparica.",
           "petPolicyDe": "Hunde willkommen auf der Außenterrasse",
+          "petPolicyNl": "Honden welkom op het buitenterras",
           "mustTryDe": "Gegrillter Fisch des Tages, Meeresfrüchte-Reis",
-          "tipDe": "Bitten Sie um einen Terrassentisch auf der Meerseite und bringen Sie an heißen Nachmittagen Ihren eigenen Wassernapf mit"
+          "mustTryNl": "Gegrilde vis van de dag, zeevruchtenrijst",
+          "tipDe": "Bitten Sie um einen Terrassentisch auf der Meerseite und bringen Sie an heißen Nachmittagen Ihren eigenen Wassernapf mit",
+          "tipNl": "Vraag om een tafel op het terras aan de zeekant en neem op hete middagen je eigen waterbakje mee"
         },
         {
           "name": "The Ocean",
@@ -71,9 +75,13 @@
           "tipPt": "Venha para um almoço tardio, depois da proibição da praia ao meio-dia, para manter o cão mais fresco e a esplanada mais tranquila",
           "googleMapsUrl": "https://maps.google.com/?q=The+Ocean+Costa+da+Caparica",
           "descriptionDe": "Ein beliebtes Restaurant und Bar direkt am Strand von Caparica, bekannt für Fisch, Meeresfrüchte und lange, gemütliche Mittagessen auf der Terrasse. Das Freiluft-Deck direkt am Sand ist bequem für einen angeleinten Hund, der im Schatten ruht. Eine verlässliche Wahl für eine entspannte Mahlzeit zwischen zwei Strandbesuchen.",
+          "descriptionNl": "Een populair restaurant en bar direct aan het strand van Caparica, bekend om vis, zeevruchten en lange, gezellige lunches op het terras. Het buitendek vlak bij het zand is fijn voor een hond aan de lijn die lekker in de schaduw ligt. Een betrouwbare keuze voor een ontspannen maaltijd tussen twee strandbezoeken door.",
           "petPolicyDe": "Angeleinte Hunde willkommen auf dem Freiluft-Deck",
+          "petPolicyNl": "Honden aan de lijn welkom op het buitendek",
           "mustTryDe": "Gegrillte Meeresfrüchte, Cataplana",
-          "tipDe": "Kommen Sie zu einem späten Mittagessen nach dem mittäglichen Strandverbot, damit Ihr Hund kühler bleibt und die Terrasse ruhiger ist"
+          "mustTryNl": "Gegrilde zeevruchten, cataplana",
+          "tipDe": "Kommen Sie zu einem späten Mittagessen nach dem mittäglichen Strandverbot, damit Ihr Hund kühler bleibt und die Terrasse ruhiger ist",
+          "tipNl": "Kom laat lunchen, na het middagverbod op het strand, zodat jouw hond het koeler heeft en het terras rustiger is"
         },
         {
           "name": "Pelicano - Praia da Rainha",
@@ -101,9 +109,13 @@
           "tipPt": "Estas praias mais a sul são mais tranquilas do que a zona da vila, o que facilita com um cão nervoso",
           "googleMapsUrl": "https://maps.google.com/?q=Pelicano+Praia+da+Rainha+Costa+da+Caparica",
           "descriptionDe": "Ein entspanntes Strandrestaurant mit Bar an der Praia da Rainha, am Transpraia-Streifen gelegen, mit einer hölzernen Terrasse direkt auf dem Sand. Es ist die Art von lässiger Strand-Esplanade, in der ein ruhiger Hund an der Leine sich problemlos einfügt. Gegrillter Fisch, Salate und kalte Getränke mit den Dünen im Rücken.",
+          "descriptionNl": "Een ontspannen strandrestaurant met bar aan de Praia da Rainha, aan de Transpraia-strook, met een houten terras direct op het zand. Het is precies het soort losse strandterras waar een rustige hond aan de lijn zich moeiteloos thuis voelt. Gegrilde vis, salades en koude drankjes met de duinen op de achtergrond.",
           "petPolicyDe": "Ruhige angeleinte Hunde willkommen auf der Sandterrasse",
+          "petPolicyNl": "Rustige honden aan de lijn welkom op het zandterras",
           "mustTryDe": "Gegrillter Fisch, frische Salate",
-          "tipDe": "Diese südlichen Strände sind ruhiger als der Stadtstreifen, was es mit einem nervösen Hund leichter macht"
+          "mustTryNl": "Gegrilde vis, verse salades",
+          "tipDe": "Diese südlichen Strände sind ruhiger als der Stadtstreifen, was es mit einem nervösen Hund leichter macht",
+          "tipNl": "Deze zuidelijke stranden zijn rustiger dan de stadsstrook, wat het makkelijker maakt met een nerveuze hond"
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Costa da Caparica",
+      "titleNl": "Huisdiervriendelijke restaurants in Costa da Caparica",
       "introDe": "Costa da Caparica ist eine entspannte Atlantik-Strandstadt, in der Hunde zum Alltag am Meer gehören. Die meisten Freiluft-Esplanaden entlang der Strandpromenade und die hölzernen Strandterrassen sind unkompliziert, was angeleinte, wohlerzogene Hunde auf ihren Terrassen betrifft. Von Mai bis September spielt sich das gesamte Leben im Freien ab, sodass ein schattiger Terrassentisch mit Wassernapf selten ein Problem ist. Fragen Sie immer an der Tür nach, da die Regeln meist informell und nicht ausgeschildert sind.",
+      "introNl": "Costa da Caparica is een ontspannen Atlantische strandstad waar honden gewoon bij het leven aan zee horen. De meeste buitenterrassen langs de boulevard en de houten strandterrassen zijn soepel als het gaat om honden aan de lijn die zich netjes gedragen. Van mei tot september speelt alles zich buiten af, dus een schaduwrijk terrastafeltje met een waterbakje is zelden een probleem. Vraag altijd even bij de deur, want de regels zijn meestal informeel en nergens aangegeven.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Costa da Caparica erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "In welchen Gegenden lässt es sich am einfachsten mit Hund essen gehen?",
           "a": "Die Freiluft-Esplanaden entlang der Strandpromenade und die ruhigeren südlichen Strände, die über den Transpraia-Streifen erreichbar sind, sind am entspanntesten."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden welkom in restaurants in Costa da Caparica?",
+          "a": "Op buitenterrassen bijna altijd wel. De meeste strandterrassen verwelkomen honden aan de lijn die zich netjes gedragen. Binnen is het aan de eigenaar, dus vraag het vooraf even na."
+        },
+        {
+          "q": "Bieden strandrestaurants in Caparica water voor honden aan?",
+          "a": "Veel restaurants brengen op verzoek een bakje, zeker in de zomer, maar door de hitte is het slim om zelf een opvouwbaar bakje mee te nemen."
+        },
+        {
+          "q": "In welke gebieden is het makkelijkst om met je hond uit eten te gaan?",
+          "a": "De buitenterrassen langs de boulevard en de rustigere zuidelijke stranden, bereikbaar via de Transpraia-strook, zijn het meest ontspannen."
         }
       ]
     },
@@ -229,8 +257,11 @@
           "tipPt": "Comece cedo no verão pela sombra e estacionamento junto ao acesso da Fonte da Telha",
           "googleMapsUrl": "https://maps.google.com/?q=Mata+Nacional+dos+Medos+Caparica",
           "descriptionDe": "Ein geschützter Küstenwald aus Kiefern und Wacholder, der die Arriba-Fossil-Klippen krönt, mit drei einfachen, gut ausgeschilderten Rundwegen und kürzlich gebauten Holzstegen. Angeleinte Hunde sind auf den schattigen Pfaden willkommen, die einen Panoramablick über den Atlantik in Richtung Sintra und Arrábida bieten. Das kühle Kiefernblätterdach macht ihn zum besten Sommerspaziergang der Gegend, wenn die Strände mittags gesperrt sind.",
+          "descriptionNl": "Een beschermd kustbos van dennen en jeneverbes dat boven op de Arriba Fóssil-kliffen ligt, met drie eenvoudige, goed bewegwijzerde rondwandelingen en recent aangelegde houten vlonderpaden. Honden aan de lijn zijn welkom op de schaduwrijke paden, die een panoramisch uitzicht over de Atlantische Oceaan richting Sintra en Arrábida bieden. Het koele dennendak maakt het de beste zomerwandeling van de omgeving, wanneer de stranden 's middags dicht zijn.",
           "offLeashAreaDe": "Kein Freilaufbereich. Hunde müssen auf allen Pfaden angeleint bleiben",
-          "tipDe": "Starten Sie im Sommer früh für Schatten und Parkplätze in der Nähe des Zugangs Fonte da Telha"
+          "offLeashAreaNl": "Geen losloopgebied. Honden moeten op alle paden aangelijnd blijven",
+          "tipDe": "Starten Sie im Sommer früh für Schatten und Parkplätze in der Nähe des Zugangs Fonte da Telha",
+          "tipNl": "Vertrek 's zomers vroeg voor schaduw en parkeerplekken dicht bij de ingang Fonte da Telha"
         },
         {
           "name": "Praias do Sul / Fonte da Telha sands",
@@ -252,8 +283,11 @@
           "tipPt": "Leve água, há pouca sombra na areia aberta e poucas fontes a sul da vila",
           "googleMapsUrl": "https://maps.google.com/?q=Fonte+da+Telha+Costa+da+Caparica",
           "descriptionDe": "Der lange, nicht konzessionierte südliche Abschnitt der Küste von Caparica in Richtung Fonte da Telha ist der große offene Hundespaziergang der Gegend, mit kilometerlangem leerem Sand, der von Dünen gesäumt wird. Außerhalb der Badesaison von Juni bis September sind diese Strände praktisch den ganzen Tag für angeleinte Hunde offen. Nutzen Sie im Sommer den ganz frühen Morgen oder die Zeit nach Sonnenuntergang, um sowohl die Hitze als auch die saisonalen Einschränkungen zu vermeiden.",
+          "descriptionNl": "Het lange, niet-geconcedeerde zuidelijke deel van de kust van Caparica richting Fonte da Telha is de grote open hondenwandeling van de omgeving, met kilometers leeg zand omzoomd door duinen. Buiten het zwemseizoen van juni tot september zijn deze stranden vrijwel de hele dag open voor honden aan de lijn. Maak 's zomers gebruik van de vroege ochtend of de tijd na zonsondergang om zowel de hitte als de seizoensbeperkingen te vermijden.",
           "offLeashAreaDe": "Leine empfohlen in der Nähe von Menschen. Am ruhigsten bei Sonnenauf- und -untergang",
-          "tipDe": "Bringen Sie Wasser mit, es gibt wenig Schatten auf dem offenen Sand und südlich der Stadt nur wenige Brunnen"
+          "offLeashAreaNl": "Lijn aanbevolen in de buurt van mensen. Het rustigst bij zonsopgang en zonsondergang",
+          "tipDe": "Bringen Sie Wasser mit, es gibt wenig Schatten auf dem offenen Sand und südlich der Stadt nur wenige Brunnen",
+          "tipNl": "Neem water mee, er is weinig schaduw op het open zand en ten zuiden van de stad maar weinig fonteinen"
         },
         {
           "name": "Avenida and seafront promenade",
@@ -275,8 +309,11 @@
           "tipPt": "O fim do dia é mais fresco e mais animado pelos donos de cães locais, ideal para socializar o seu cão",
           "googleMapsUrl": "https://maps.google.com/?q=Avenida+da+Praia+Costa+da+Caparica",
           "descriptionDe": "Die gepflasterte Promenade entlang der Küste von Caparica und die alten Gassen des früheren Fischerdorfs dahinter bieten einen einfachen, geselligen Spaziergang mit Hund an der Leine, mit Cafépausen und ständigem Meerblick. Es ist der praktische Alltagsspaziergang, wenn der Strand selbst im Sommer für Hunde gesperrt ist. Flach, gut beleuchtet und abends belebt von Einheimischen mit ihren eigenen Hunden.",
+          "descriptionNl": "De geplaveide boulevard langs de kust van Caparica en de oude straatjes van het vroegere vissersdorp erachter bieden een simpele, gezellige wandeling met je hond aan de lijn, met koffiepauzes en voortdurend zeezicht. Het is de praktische dagelijkse wandeling wanneer het strand zelf, ook in de zomer, gesloten is voor honden. Vlak, goed verlicht en 's avonds levendig met bewoners en hun eigen honden.",
           "offLeashAreaDe": "Nur an der Leine. Belebte Promenade",
-          "tipDe": "Abends ist es am kühlsten und am belebtesten mit einheimischen Hundehaltern, ideal um Ihren Hund zu sozialisieren"
+          "offLeashAreaNl": "Alleen aan de lijn. Drukke boulevard",
+          "tipDe": "Abends ist es am kühlsten und am belebtesten mit einheimischen Hundehaltern, ideal um Ihren Hund zu sozialisieren",
+          "tipNl": "'s Avonds is het het koelst en het drukst met lokale hondenbezitters, ideaal om jouw hond te socialiseren"
         }
       ],
       "tipsEn": [
@@ -356,7 +393,9 @@
         }
       ],
       "titleDe": "Hundeparks & Spaziergänge in Costa da Caparica",
+      "titleNl": "Hondenparken & wandelingen in Costa da Caparica",
       "introDe": "Die besten Hundespaziergänge in Costa da Caparica führen an die wilden Ränder der Stadt: den Kiefernwald des botanischen Reservats Mata dos Medos auf den Arriba-Fossil-Klippen und den weiten offenen Sand der südlichen Strände außerhalb der Badesaison. Das Gelände ist flach und sandig, mit Meeresbrisen, die selbst Sommerspaziergänge am frühen Morgen und späten Nachmittag angenehm machen. Im Reservat müssen Hunde angeleint bleiben, und das Aufsammeln von Hinterlassenschaften ist überall Pflicht.",
+      "introNl": "De beste hondenwandelingen in Costa da Caparica voeren naar de wilde randen van de stad: het dennenbos van het natuurreservaat Mata dos Medos op de Arriba Fóssil-kliffen en het weidse open zand van de zuidelijke stranden buiten het zwemseizoen. Het terrein is vlak en zanderig, met zeebriesjes die zelfs zomerse wandelingen vroeg in de ochtend en laat op de middag aangenaam maken. In het reservaat moeten honden aangelijnd blijven, en overal moet je hondenpoep opruimen.",
       "faqsDe": [
         {
           "q": "Können Hunde in der Nähe von Costa da Caparica ohne Leine laufen?",
@@ -369,6 +408,20 @@
         {
           "q": "Sind Hunde im Reservat Mata dos Medos erlaubt?",
           "a": "Ja, angeleinte Hunde sind auf den markierten Pfaden und Holzstegen willkommen. Bleiben Sie auf den Wegen, um die geschützte Dünenflora zu schützen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kunnen honden in de buurt van Costa da Caparica loslopen?",
+          "a": "Er is geen officieel losloopgebied. In het reservaat Mata dos Medos en in de stad moeten honden aan de lijn. De rustige zuidelijke stranden buiten het seizoen komen het dichtst in de buurt van vrij loslopen, op eigen verantwoordelijkheid van de eigenaar."
+        },
+        {
+          "q": "Waar kan ik met mijn hond wandelen tijdens de zomerse middaghitte in Caparica?",
+          "a": "Ga naar de schaduwrijke dennenpaden van het natuurreservaat Mata dos Medos, die koel blijven, of beperk je vroeg op de ochtend en laat op de avond tot de boulevard."
+        },
+        {
+          "q": "Zijn honden welkom in het reservaat Mata dos Medos?",
+          "a": "Ja, honden aan de lijn zijn welkom op de gemarkeerde paden en vlonderpaden. Blijf op de paden om de beschermde duinvegetatie te sparen."
         }
       ]
     },
@@ -474,7 +527,9 @@
         }
       ],
       "titleDe": "Mit Haustieren unterwegs in Costa da Caparica",
+      "titleNl": "Onderweg met huisdieren in Costa da Caparica",
       "introDe": "Die meisten Besucher erreichen Costa da Caparica von Lissabon aus, indem sie den Tejo überqueren und dann einen TST-Regionalbus in die Strandstadt nehmen. Die Regeln für Hunde im portugiesischen öffentlichen Nahverkehr sind einheitlich: kleine Haustiere in einer Transportbox reisen problemlos mit, während größere Hunde Leine und Maulkorb benötigen und die Mitnahme im Ermessen des Betreibers liegt. Für einen Strandurlaub mit einem großen Hund ist ein Auto die einfachste Option, da die südlichen Strände und die Mata dos Medos weit verstreut liegen.",
+      "introNl": "De meeste bezoekers bereiken Costa da Caparica vanuit Lissabon door de Taag over te steken en vervolgens een regionale TST-bus naar de strandstad te nemen. De regels voor honden in het Portugese openbaar vervoer zijn overal hetzelfde: kleine huisdieren in een draagtas reizen probleemloos mee, terwijl grotere honden een lijn en muilkorf nodig hebben en meenemen ter beoordeling van de vervoerder is. Voor een strandvakantie met een grote hond is een auto de simpelste optie, omdat de zuidelijke stranden en de Mata dos Medos ver uit elkaar liggen.",
       "faqsDe": [
         {
           "q": "Wie komme ich mit Hund von Lissabon nach Costa da Caparica?",
@@ -487,6 +542,20 @@
         {
           "q": "Gibt es einen Strandzug für Hunde in Caparica?",
           "a": "Der historische Transpraia-Minizug, der die nummerierten Strände anfuhr, ist seit einigen Jahren nicht mehr regelmäßig im Einsatz, und seine Rückkehr ist ungewiss, verlassen Sie sich also nicht auf ihn für den Transport mit Hund."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe kom ik met mijn hond van Lissabon naar Costa da Caparica?",
+          "a": "De gebruikelijke route is een regionale TST-bus van Lissabon naar Caparica. Kleine honden reizen in een draagtas; grote honden hebben een lijn en muilkorf nodig en reizen mee ter beoordeling van de chauffeur. De oversteek via de brug 25 de Abril is met een grote hond de simpelste optie."
+        },
+        {
+          "q": "Kunnen honden mee met de Taagveer vanuit Lissabon?",
+          "a": "Ja. Op de veerboot van Lissabon naar Cacilhas worden honden aan de lijn met muilkorf geaccepteerd, en kleine honden in een draagtas reizen gratis mee. Neem altijd de vaccinatiepapieren mee."
+        },
+        {
+          "q": "Is er een strandtreintje voor honden in Caparica?",
+          "a": "Het historische Transpraia-treintje, dat langs de genummerde stranden reed, rijdt al een aantal jaren niet meer regelmatig, en het is onzeker of het terugkomt, reken er dus niet op voor vervoer met je hond."
         }
       ]
     },
@@ -508,16 +577,19 @@
           "descriptionEs": "La aldea pesquera salvaje y alternativa en el extremo norte del litoral, donde el Tajo se encuentra con el Atlántico. La arena no concesionada aquí es el tramo más tolerante con los perros cerca de la ciudad y ha acogido históricamente el adiestramiento del perro de agua portugués. Más tranquila y agreste que las playas centrales, sin concesión de vigilancia formal en gran parte de la arena.",
           "descriptionPt": "A aldeia piscatória selvagem e alternativa no extremo norte da costa, onde o Tejo encontra o Atlântico. A areia não concessionada aqui é o troço mais tolerante para cães perto da vila e acolheu historicamente o treino do cão de água português. Mais calma e agreste que as praias centrais, sem concessão de vigilância formal em grande parte da areia.",
           "descriptionDe": "Der wilde, alternative Fischerweiler ganz im Norden der Küste, dort wo der Tejo auf den Atlantik trifft. Der nicht konzessionierte Sand hier ist der hundetoleranteste Abschnitt in Stadtnähe und diente historisch dem Training des Portugiesischen Wasserhunds. Ruhiger und rauer als die zentralen Strände, ohne formelle Rettungsschwimmer-Konzession auf einem Großteil des Sands.",
+          "descriptionNl": "Het wilde, alternatieve vissersgehucht helemaal in het noorden van de kust, waar de Taag de Atlantische Oceaan ontmoet. Het niet-geconcedeerde zand hier is het meest hondvriendelijke stuk dicht bij de stad en werd van oudsher gebruikt om de Portugese waterhond te trainen. Rustiger en ruiger dan de centrale stranden, zonder officiële reddingsbrigade-concessie op een groot deel van het zand.",
           "season": "Most dog-friendly out of bathing season (Oct to May); leashed dogs tolerated year-round on the unconcessioned sand",
           "seasonFr": "Le plus accueillant pour les chiens hors saison de baignade (octobre à mai) ; chiens en laisse tolérés toute l'année sur le sable non concédé",
           "seasonEs": "El más pet-friendly fuera de temporada de baño (octubre a mayo); perros con correa tolerados todo el año en la arena no concesionada",
           "seasonPt": "O mais pet-friendly fora da época balnear (outubro a maio); cães com trela tolerados o ano inteiro na areia não concessionada",
           "seasonDe": "Am hundefreundlichsten außerhalb der Badesaison (Oktober bis Mai); angeleinte Hunde ganzjährig auf dem nicht konzessionierten Sand geduldet",
+          "seasonNl": "Het meest hondvriendelijk buiten het zwemseizoen (oktober tot mei); honden aan de lijn worden het hele jaar door getolereerd op het niet-geconcedeerde zand",
           "rules": "Keep dogs leashed and clean up waste. Avoid the supervised, concessioned core of Sao Joao da Caparica during the June to mid-September bathing season.",
           "rulesFr": "Gardez les chiens en laisse et ramassez leurs déjections. Évitez le cœur surveillé et concédé de Sao Joao da Caparica pendant la saison de baignade de juin à mi-septembre.",
           "rulesEs": "Mantén a los perros con correa y recoge sus deposiciones. Evita el núcleo vigilado y concesionado de Sao Joao da Caparica durante la temporada de baño de junio a mediados de septiembre.",
           "rulesPt": "Mantenha os cães com trela e recolha os dejetos. Evite o núcleo vigiado e concessionado de Sao Joao da Caparica durante a época balnear de junho a meados de setembro.",
           "rulesDe": "Hunde anleinen und Kot entfernen. Meiden Sie den überwachten, konzessionierten Kernbereich von Sao Joao da Caparica während der Badesaison von Juni bis Mitte September.",
+          "rulesNl": "Hond aan de lijn houden en poep opruimen. Vermijd het bewaakte, geconcedeerde kerngebied van São João da Caparica tijdens het zwemseizoen van juni tot half september.",
           "facilities": "A few cafes and surf spots; limited parking, no dedicated dog facilities",
           "googleMapsUrl": "https://maps.google.com/?q=Cova+do+Vapor+Caparica",
           "photo": ""
@@ -530,16 +602,19 @@
           "descriptionEs": "La larga franja meridional de playas más allá de las praias numeradas hacia Fonte da Telha incluye amplios tramos no concesionados que son la mejor opción veraniega de la zona para los perros. Respaldada por dunas y la reserva de pinos de Mata dos Medos, la arena está abierta y poco concurrida una vez te alejas de los centros concesionados. Fonte da Telha, en el extremo sur, es un relajado pueblo playero.",
           "descriptionPt": "O longo troço sul de praias para lá das praias numeradas em direção à Fonte da Telha inclui amplos trechos não concessionados que são a melhor opção de verão da zona para cães. Ladeada por dunas e pela reserva de pinhal da Mata dos Medos, a areia é aberta e pouco concorrida assim que se afasta dos centros concessionados. A Fonte da Telha, no extremo sul, é uma aldeia balnear descontraída.",
           "descriptionDe": "Der lange südliche Strandabschnitt jenseits der nummerierten Praias in Richtung Fonte da Telha umfasst breite, nicht konzessionierte Abschnitte, die im Sommer die beste Option der Region für Hunde sind. Von Dünen und dem Pinienwaldreservat Mata dos Medos gesäumt, ist der Sand offen und wenig überlaufen, sobald man sich von den konzessionierten Zentren entfernt. Fonte da Telha am südlichen Ende ist ein entspanntes Strandörtchen.",
+          "descriptionNl": "Het lange zuidelijke strandgedeelte voorbij de genummerde praias richting Fonte da Telha bestaat uit brede, niet-geconcedeerde stukken die 's zomers de beste optie van de regio zijn voor honden. Omzoomd door duinen en het dennenbosreservaat Mata dos Medos is het zand open en weinig druk zodra je de geconcedeerde centra achter je laat. Fonte da Telha, aan het zuidelijke uiteinde, is een ontspannen strandplaatsje.",
           "season": "Open to leashed dogs year-round on unconcessioned stretches; in Jun to mid-Sep keep clear of supervised concessions",
           "seasonFr": "Ouvert aux chiens en laisse toute l'année sur les tronçons non concédés ; de juin à mi-septembre, évitez les concessions surveillées",
           "seasonEs": "Abierto a perros con correa todo el año en los tramos no concesionados; de junio a mediados de septiembre, evita las concesiones vigiladas",
           "seasonPt": "Aberto a cães com trela o ano inteiro nos trechos não concessionados; de junho a meados de setembro, evite as concessões vigiadas",
           "seasonDe": "Ganzjährig für angeleinte Hunde geöffnet auf den nicht konzessionierten Abschnitten; von Juni bis Mitte September die überwachten Konzessionen meiden",
+          "seasonNl": "Het hele jaar door open voor honden aan de lijn op de niet-geconcedeerde delen; vermijd van juni tot half september de bewaakte concessies",
           "rules": "Dogs must be leashed and waste bagged. Stay on the unsupervised sand between concessions during the bathing season; the cliff-top dunes are a protected reserve.",
           "rulesFr": "Les chiens doivent être tenus en laisse et leurs déjections ramassées. Restez sur le sable non surveillé entre les concessions pendant la saison de baignade ; les dunes en haut des falaises constituent une réserve protégée.",
           "rulesEs": "Los perros deben ir con correa y sus deposiciones recogidas. Permanece en la arena sin vigilancia entre concesiones durante la temporada de baño; las dunas sobre los acantilados son una reserva protegida.",
           "rulesPt": "Os cães devem estar com trela e os dejetos recolhidos. Fique na areia sem vigilância entre concessões durante a época balnear; as dunas no topo das falésias são uma reserva protegida.",
           "rulesDe": "Hunde müssen angeleint sein, Kot ist zu entfernen. Bleiben Sie während der Badesaison auf dem unbewachten Sand zwischen den Konzessionen; die Dünen oben auf den Klippen sind ein geschütztes Reservat.",
+          "rulesNl": "Honden moeten aan de lijn, poep moet opgeruimd worden. Blijf tijdens het zwemseizoen op het onbewaakte zand tussen de concessies; de duinen boven op de kliffen zijn een beschermd reservaat.",
           "facilities": "Seasonal beach restaurants at Fonte da Telha; parking; little natural shade on the open sand",
           "googleMapsUrl": "https://maps.google.com/?q=Fonte+da+Telha+praia",
           "photo": ""
@@ -552,16 +627,19 @@
           "descriptionEs": "Una larga playa vigilada y popular en el extremo norte de la ciudad, respaldada por un camping y pinar. Durante la temporada de baño está concesionada y vigilada, por lo que los perros no están permitidos en la arena principal vigilada de junio a mediados de septiembre. Fuera de temporada se convierte en una playa amplia y fácil para pasear al perro.",
           "descriptionPt": "Uma longa praia vigiada e popular no extremo norte da vila, ladeada por um parque de campismo e pinhal. Durante a época balnear é concessionada e vigiada, pelo que os cães não são permitidos na areia principal vigiada de junho a meados de setembro. Fora de época torna-se uma praia ampla e fácil para passear com o cão.",
           "descriptionDe": "Ein langer, beliebter überwachter Strand am nördlichen Stadtrand, gesäumt von einem Campingplatz und Pinienwald. Während der Badesaison ist er konzessioniert und überwacht, sodass Hunde von Juni bis Mitte September auf dem überwachten Hauptsand nicht erlaubt sind. Außerhalb der Saison wird er zu einem weiten, einfachen Strand für Hundespaziergänge.",
+          "descriptionNl": "Een lang, populair bewaakt strand aan de noordkant van de stad, omzoomd door een camping en dennenbos. Tijdens het zwemseizoen is het geconcedeerd en bewaakt, waardoor honden van juni tot half september niet welkom zijn op het bewaakte hoofdgedeelte van het zand. Buiten het seizoen wordt het een wijds, eenvoudig strand om met je hond te wandelen.",
           "season": "Dogs effectively off-limits Jun to mid-Sep on the supervised sand; welcome out of season (Oct to May)",
           "seasonFr": "Chiens effectivement interdits de juin à mi-septembre sur le sable surveillé ; bienvenus hors saison (octobre à mai)",
           "seasonEs": "Perros efectivamente vetados de junio a mediados de septiembre en la arena vigilada; bienvenidos fuera de temporada (octubre a mayo)",
           "seasonPt": "Cães efetivamente vedados de junho a meados de setembro na areia vigiada; bem-vindos fora de época (outubro a maio)",
           "seasonDe": "Hunde faktisch von Juni bis Mitte September auf dem überwachten Sand ausgeschlossen; außerhalb der Saison willkommen (Oktober bis Mai)",
+          "seasonNl": "Honden zijn feitelijk uitgesloten van het bewaakte zand van juni tot half september; welkom buiten het seizoen (oktober tot mei)",
           "rules": "No dogs on the supervised, concessioned beach during the bathing season. Outside it, keep dogs leashed and clean up.",
           "rulesFr": "Pas de chiens sur la plage surveillée et concédée pendant la saison de baignade. En dehors, gardez les chiens en laisse et ramassez leurs déjections.",
           "rulesEs": "Sin perros en la playa vigilada y concesionada durante la temporada de baño. Fuera de ella, mantén a los perros con correa y recoge sus deposiciones.",
           "rulesPt": "Sem cães na praia vigiada e concessionada durante a época balnear. Fora dela, mantenha os cães com trela e recolha os dejetos.",
           "rulesDe": "Keine Hunde am überwachten, konzessionierten Strand während der Badesaison. Außerhalb davon Hunde anleinen und Kot entfernen.",
+          "rulesNl": "Geen honden op het bewaakte, geconcedeerde strand tijdens het zwemseizoen. Daarbuiten hond aan de lijn en poep opruimen.",
           "facilities": "Lifeguards in season, beach bars, campsite, parking",
           "googleMapsUrl": "https://maps.google.com/?q=Praia+de+Sao+Joao+da+Caparica",
           "photo": ""
@@ -608,7 +686,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in Costa da Caparica",
+      "titleNl": "Hondvriendelijke stranden in Costa da Caparica",
       "introDe": "Costa da Caparica ist ein einziger langer Atlantikstrand, der sich über rund 26 nummerierte Praias erstreckt, von Cova do Vapor und São João da Caparica im Norden bis Fonte da Telha im Süden, historisch verbunden durch den Transpraia-Minizug. Das portugiesische Gesetz (Decreto-Lei 93/2009) verbietet Hunde an bewachten, konzessionierten Stränden während der offiziellen Badesaison, die hier grob von Juni bis Mitte September läuft. Die praktische Regel für Hundehalter ist einfach: Nutzen Sie im Sommer die nicht konzessionierten, unbewachten Enden der Küste (die wilde nördliche Spitze rund um Cova do Vapor und den langen südlichen Sand Richtung Fonte da Telha), halten Sie Hunde angeleint, sammeln Sie Hinterlassenschaften auf und gehen Sie in der kühlen Früh oder am Abend spazieren. Außerhalb der Saison, von Oktober bis Mai, werden Hunde entlang fast der gesamten Küste toleriert.",
+      "introNl": "Costa da Caparica is één lang Atlantisch strand dat zich uitstrekt over zo'n 26 genummerde praias, van Cova do Vapor en São João da Caparica in het noorden tot Fonte da Telha in het zuiden, van oudsher verbonden door het Transpraia-treintje. De Portugese wet (Decreto-Lei 93/2009) verbiedt honden op bewaakte, geconcedeerde stranden tijdens het officiële zwemseizoen, dat hier ruwweg van juni tot half september loopt. De praktische regel voor hondenbezitters is simpel: gebruik 's zomers de niet-geconcedeerde, onbewaakte uiteinden van de kust (de wilde noordpunt rond Cova do Vapor en het lange zuidelijke zand richting Fonte da Telha), houd je hond aan de lijn, ruim poep op en ga in de koele vroege ochtend of avond wandelen. Buiten het seizoen, van oktober tot mei, worden honden langs vrijwel de hele kust getolereerd.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund im Sommer an den Strand von Costa da Caparica mitnehmen?",
@@ -617,6 +697,16 @@
         {
           "q": "Wann sind Hunde an allen Stränden von Caparica erlaubt?",
           "a": "Außerhalb der Badesaison, etwa von Oktober bis Mai, werden Hunde entlang fast der gesamten Küste toleriert, solange sie angeleint sind und Sie ihre Hinterlassenschaften aufsammeln. Diese Nebensaison ist die entspannteste Zeit, um die gesamte Strandkette mit Hund zu genießen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond 's zomers meenemen naar het strand van Costa da Caparica?",
+          "a": "Niet naar de bewaakte, geconcedeerde stranden: de Portugese wet verbiedt daar honden tijdens het zwemseizoen van juni tot half september. Gebruik in plaats daarvan de niet-geconcedeerde uiteinden van de kust, de wilde noordpunt bij Cova do Vapor of het lange zuidelijke zand richting Fonte da Telha, houd je hond aan de lijn en ruim poep op. Vroege ochtend en avond zijn het koelst en het minst beperkt."
+        },
+        {
+          "q": "Wanneer zijn honden welkom op alle stranden van Caparica?",
+          "a": "Buiten het zwemseizoen, ongeveer van oktober tot mei, worden honden langs vrijwel de hele kust getolereerd, zolang ze aan de lijn zijn en je hun poep opruimt. Dit laagseizoen is het meest ontspannen moment om de hele strandketen met je hond te ontdekken."
         }
       ]
     },
@@ -653,8 +743,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Universitario+Egas+Moniz+Caparica",
           "photo": "",
           "hoursDe": "Allgemein: Mo–Sa 09:00–20:00 Uhr. Notfälle: 24 Std., 365 Tage",
+          "hoursNl": "Algemeen: ma-za 09:00-20:00 uur. Spoedgevallen: 24 uur per dag, 365 dagen per jaar",
           "descriptionDe": "Das erste universitäre Tierkrankenhaus am Südufer des Tejo, eröffnet 2024, bietet allgemeine und fachärztliche Beratung, sämtliche Operationen, CT, Ultraschall, Röntgen und 24-Stunden-Notfallhospitalisierung. Seine vollständige Bildgebungs- und Operationskapazität macht es zur stärksten Notfalloption in der Region Caparica. Zum Team gehören englischsprachige Klinikerinnen und Studierende.",
-          "tipDe": "Rufen Sie vor der Ankunft mit einem Notfall an, damit sich das Team vorbereiten kann."
+          "descriptionNl": "Het eerste universitaire dierenziekenhuis aan de zuidoever van de Taag, geopend in 2024, biedt algemene en gespecialiseerde consulten, alle soorten chirurgie, CT, echografie, röntgen en 24-uurs spoedopname. De volledige beeldvormings- en operatiecapaciteit maakt het de sterkste spoedoptie in de regio Caparica. Het team bestaat onder andere uit Engelssprekende dierenartsen en studenten.",
+          "tipDe": "Rufen Sie vor der Ankunft mit einem Notfall an, damit sich das Team vorbereiten kann.",
+          "tipNl": "Bel vóór aankomst bij een spoedgeval, zodat het team zich kan voorbereiden."
         },
         {
           "name": "Hospital Veterinario Principal da Charneca de Caparica",
@@ -678,8 +771,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Principal+Charneca+de+Caparica",
           "photo": "",
           "hoursDe": "24-Stunden-Notdienst (Sprechzeiten bitte telefonisch bestätigen)",
+          "hoursNl": "24 uur spoeddienst (bevestig de openingstijden telefonisch)",
           "descriptionDe": "Ein Tierkrankenhaus mit vollem Leistungsspektrum in Charneca de Caparica, das Sprechstunden für Hunde, Katzen und Exoten, Operationen und 24-Stunden-Notfälle anbietet. Es ist eine der nächstgelegenen rund um die Uhr verfügbaren Optionen zur Strandpromenade von Caparica. Bestätigen Sie die genaue Adresse und Telefonnummer vorab über die Website.",
-          "tipDe": "Speichern Sie den Kontakt der Website gleich bei Ankunft in Ihrem Telefon, bevor Sie ihn tatsächlich benötigen."
+          "descriptionNl": "Een volwaardig dierenziekenhuis in Charneca de Caparica, met consulten voor honden, katten en exotische dieren, chirurgie en 24-uurs spoedgevallen. Het is een van de dichtstbijzijnde opties die dag en nacht bereikbaar zijn vanaf de boulevard van Caparica. Bevestig het exacte adres en telefoonnummer vooraf via de website.",
+          "tipDe": "Speichern Sie den Kontakt der Website gleich bei Ankunft in Ihrem Telefon, bevor Sie ihn tatsächlich benötigen.",
+          "tipNl": "Sla het contact van de website meteen bij aankomst op in je telefoon, voordat je het echt nodig hebt."
         },
         {
           "name": "Veterinarios Macario",
@@ -703,8 +799,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Veterinarios+Macario+Charneca+da+Caparica",
           "photo": "",
           "hoursDe": "Telefonisch oder über die Website bestätigen",
+          "hoursNl": "Bevestig telefonisch of via de website",
           "descriptionDe": "Eine Nachbarschaftstierklinik im Gebiet Charneca da Caparica, die Untersuchungen, Diagnosen, Operationen, Notfälle und Hospitalisierung sowie einen Hundepensions- und Haustierbetreuungsdienst anbietet. Eine praktische Wahl für routinemäßige Konsultationen während eines längeren Aufenthalts. Öffnungszeiten vor dem Besuch bestätigen.",
-          "tipDe": "Nützlich für Auffrischungsimpfungen oder kleinere Probleme während eines längeren Strandaufenthalts."
+          "descriptionNl": "Een buurtdierenkliniek in de omgeving van Charneca da Caparica, met onderzoeken, diagnostiek, chirurgie, spoedgevallen en opname, plus een hondenpension en huisdierverzorgingsdienst. Een praktische keuze voor routineconsulten tijdens een langer verblijf. Bevestig de openingstijden voor je bezoek.",
+          "tipDe": "Nützlich für Auffrischungsimpfungen oder kleinere Probleme während eines längeren Strandaufenthalts.",
+          "tipNl": "Handig voor herhalingsvaccinaties of kleine problemen tijdens een langer strandverblijf."
         }
       ],
       "faqsEn": [
@@ -748,7 +847,9 @@
         }
       ],
       "titleDe": "Tierärzte & Tierbetreuung in Costa da Caparica",
+      "titleNl": "Dierenartsen & dierenverzorging in Costa da Caparica",
       "introDe": "Die Region Caparica innerhalb der Gemeinde Almada verfügt über eine solide tierärztliche Versorgung, darunter zwei Kliniken mit rund um die Uhr verfügbarem Notdienst im nahegelegenen Charneca de Caparica. Bei einem sommerlichen Strandurlaub sind die Hauptrisiken Hitzschlag, Dehydrierung, Aufnahme von Salzwasser und heißer Sand unter den Pfoten. Führen Sie den EU-Heimtierausweis und die Impfnachweise Ihres Hundes stets mit sich.",
+      "introNl": "De regio Caparica, binnen de gemeente Almada, beschikt over goede dierenartsenzorg, waaronder twee klinieken met 24-uurs spoeddienst in het nabijgelegen Charneca de Caparica. Tijdens een zomerse strandvakantie zijn de belangrijkste risico's hitteberoerte, uitdroging, het binnenkrijgen van zeewater en heet zand onder de pootjes. Neem altijd het EU-huisdierenpaspoort en de vaccinatiebewijzen van je hond mee.",
       "faqsDe": [
         {
           "q": "Gibt es einen 24-Stunden-Notdienst-Tierarzt in der Nähe von Costa da Caparica?",
@@ -757,6 +858,16 @@
         {
           "q": "Welche Dokumente benötigt mein Hund zur Einreise nach Portugal?",
           "a": "Portugal folgt den EU-Regeln: ein Mikrochip, eine gültige Tollwutimpfung, die mindestens 21 Tage vor Reiseantritt verabreicht wurde, und ein EU-Heimtierausweis (oder eine EU-Tiergesundheitsbescheinigung von außerhalb der EU). Führen Sie diese stets mit sich."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs spoeddierenarts in de buurt van Costa da Caparica?",
+          "a": "Ja. Het universitaire dierenziekenhuis Egas Moniz in Monte de Caparica biedt 24 uur per dag, 365 dagen per jaar spoedhulp (tel. +351 212 946 839), en ook het Hospital Veterinário Principal in Charneca de Caparica biedt zorg rond de klok. Bel van tevoren zodat men zich kan voorbereiden."
+        },
+        {
+          "q": "Welke documenten heeft mijn hond nodig om Portugal binnen te komen?",
+          "a": "Portugal volgt de EU-regels: een microchip, een geldige rabiësvaccinatie die minstens 21 dagen voor vertrek is toegediend, en een EU-huisdierenpaspoort (of een EU-diergezondheidscertificaat van buiten de EU). Neem deze altijd mee."
         }
       ]
     },
@@ -889,7 +1000,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für einen Besuch in Costa da Caparica mit Hund",
+      "titleNl": "Praktische tips voor een bezoek aan Costa da Caparica met hond",
       "introDe": "Ein sommerlicher Strandaufenthalt in Costa da Caparica mit Hund gelingt am besten, wenn Sie sich nach der Hitze und den Strandregeln der Badesaison richten. Der Schlüssel liegt darin, Strandausflüge auf den frühen Morgen und Abend zu legen, die nicht konzessionierten Enden der Küste zu wählen und den schattigen Kiefernwald Mata dos Medos für Spaziergänge zur Mittagszeit zu nutzen. Da Lissabon nur eine kurze Überfahrt entfernt liegt, eignet sich der Ort auch gut als Basis für hundefreundliche Tagesausflüge.",
+      "introNl": "Een zomerse strandvakantie in Costa da Caparica met je hond lukt het best als je rekening houdt met de hitte en de strandregels van het zwemseizoen. De truc is om strandbezoekjes in de vroege ochtend en avond te plannen, de niet-geconcedeerde uiteinden van de kust te kiezen en het schaduwrijke dennenbos Mata dos Medos te gebruiken voor wandelingen rond het middaguur. Omdat Lissabon maar een korte overtocht verderop ligt, is de plek ook een goede uitvalsbasis voor hondvriendelijke dagtochten.",
       "faqsDe": [
         {
           "q": "Ist Costa da Caparica ein gutes Sommerziel für einen Hund?",
@@ -902,6 +1015,20 @@
         {
           "q": "Kann ich mich in Caparica niederlassen und mit meinem Hund Lissabon besuchen?",
           "a": "Ja. Caparica ist eine entspannte Basis direkt auf der anderen Seite des Tejo. Sie erreichen Lissabon mit Fähre oder Bus mit einem angeleinten, mit Maulkorb versehenen Hund, und die Aussichtspunkte und Uferpromenaden der Stadt sind hundefreundlich."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Costa da Caparica een goede zomerbestemming voor een hond?",
+          "a": "Ja, als je rekening houdt met de hitte en de strandregels. Wandel vroeg en laat, gebruik de niet-geconcedeerde uiteinden van de kust en het schaduwrijke bos Mata dos Medos, en houd je hond aan de lijn met genoeg water. Buiten het seizoen is het nog makkelijker, want dan is vrijwel de hele kust open."
+        },
+        {
+          "q": "Waar vind ik 's zomers schaduw voor honden in Caparica?",
+          "a": "Het dennenbos van het natuurreservaat Mata dos Medos op het klifplateau is de koelste plek. Op de stranden zelf is schaduw schaars, dus reken op bezoekjes vroeg in de ochtend en 's avonds."
+        },
+        {
+          "q": "Kan ik me in Caparica vestigen en met mijn hond Lissabon bezoeken?",
+          "a": "Ja. Caparica is een ontspannen uitvalsbasis vlak aan de overkant van de Taag. Je bereikt Lissabon met de veerboot of de bus met een hond aan de lijn en met muilkorf, en de uitzichtpunten en kades van de stad zijn hondvriendelijk."
         }
       ]
     },
@@ -938,9 +1065,13 @@
           "tipPt": "Combine o trilho do topo com um passeio na praia da Fonte da Telha em baixo para a paisagem completa.",
           "googleMapsUrl": "https://maps.google.com/?q=Arriba+Fossil+Costa+da+Caparica",
           "descriptionDe": "Eine geschützte Landschaft aus dramatischen, fossilreichen Klippen, die bis zu 70 Meter über den südlichen Stränden aufragen und vom Kiefernreservat Mata dos Medos gekrönt werden. Angeleinte Hunde können die Klippenpfade und Holzstege entlanggehen und dabei einen weiten Atlantikblick Richtung Sintra und Cabo Espichel genießen. Es ist die charakteristische Naturattraktion der Region und ihr kühlster Spaziergang im Sommer.",
+          "descriptionNl": "Een beschermd landschap van dramatische, fossielrijke kliffen die tot wel 70 meter boven de zuidelijke stranden uittorenen, met bovenop het dennenreservaat Mata dos Medos. Honden aan de lijn kunnen over de klifpaden en vlonderpaden lopen, met een weids uitzicht over de Atlantische Oceaan richting Sintra en Cabo Espichel. Het is de kenmerkende natuurattractie van de regio en de koelste wandeling in de zomer.",
           "dogPolicyDe": "Angeleinte Hunde willkommen auf Klippenpfaden und Holzstegen",
+          "dogPolicyNl": "Honden aan de lijn welkom op klifpaden en vlonderpaden",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Kombinieren Sie den Klippenpfad mit einem Strandspaziergang bei Fonte da Telha weiter unten für die volle Landschaft."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Kombinieren Sie den Klippenpfad mit einem Strandspaziergang bei Fonte da Telha weiter unten für die volle Landschaft.",
+          "tipNl": "Combineer het klifpad met een strandwandeling bij Fonte da Telha verderop voor het volledige landschap."
         },
         {
           "name": "Old fishing town & harbour",
@@ -965,9 +1096,13 @@
           "tipPt": "Programe um passeio ao fim do dia para a chegada do pescado e um ar mais fresco para o seu cão.",
           "googleMapsUrl": "https://maps.google.com/?q=Costa+da+Caparica+centro",
           "descriptionDe": "Das Herz von Caparica ist eine unaufgeregte ehemalige Fischerstadt, deren Hafen noch immer traditionelle Boote auslaufen lässt, mit einer lebendigen Strandpromenade voller Cafés, Esplanaden und dem Flair eines täglichen Fischmarkts. Ein Spaziergang mit angeleintem Hund entlang der Avenida und durch die Seitenstraßen gehört hier zu den einfachsten Vergnügen. Am belebtesten und kühlsten ist es abends, wenn Einheimische ihre eigenen Hunde entlang der Promenade ausführen.",
+          "descriptionNl": "Het hart van Caparica is een ongehaast voormalig vissersstadje, waar de haven nog altijd traditionele boten uit laat varen, met een levendige boulevard vol cafés, terrassen en de sfeer van een dagelijkse vismarkt. Een wandeling met je hond aan de lijn langs de Avenida en door de zijstraten is hier een van de simpelste genoegens. Het drukst en koelst is het 's avonds, wanneer bewoners hun eigen honden uitlaten langs de boulevard.",
           "dogPolicyDe": "Angeleinte Hunde willkommen in allen Straßen und auf der Avenida",
+          "dogPolicyNl": "Honden aan de lijn welkom op alle straten en op de Avenida",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Planen Sie einen Abendspaziergang für den Fischfang bei der Rückkehr der Boote und kühlere Luft für Ihren Hund."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Planen Sie einen Abendspaziergang für den Fischfang bei der Rückkehr der Boote und kühlere Luft für Ihren Hund.",
+          "tipNl": "Plan een avondwandeling voor de visvangst bij terugkeer van de boten en koelere lucht voor je hond."
         },
         {
           "name": "Fonte da Telha",
@@ -992,9 +1127,13 @@
           "tipPt": "O estacionamento é limitado em pleno verão, chegue cedo ou venha fora das horas de maior movimento.",
           "googleMapsUrl": "https://maps.google.com/?q=Fonte+da+Telha",
           "descriptionDe": "Ein entspanntes Strandörtchen an der südlichen Spitze der Küste, unterhalb der Arriba Fossil und der Mata dos Medos, mit einer Ansammlung saisonaler Restaurants und einem langen, wilden Strand. Der nicht konzessionierte Sand macht es im Sommer zu einem der hundetoleranteren Orte, und die umgebenden Dünen und Kiefern verleihen ihm ein abgelegenes Gefühl am Ende der Welt. Eine natürliche Belohnung am Ende eines Klippen- oder Strandspaziergangs.",
+          "descriptionNl": "Een ontspannen strandplaatsje aan de zuidpunt van de kust, onder de Arriba Fóssil en de Mata dos Medos, met een handjevol seizoensrestaurants en een lang, wild strand. Het niet-geconcedeerde zand maakt het 's zomers een van de meer hondvriendelijke plekken, en de omringende duinen en dennen geven het een afgelegen gevoel, alsof je aan het einde van de wereld bent. Een natuurlijke beloning aan het eind van een klif- of strandwandeling.",
           "dogPolicyDe": "Angeleinte Hunde willkommen auf dem nicht konzessionierten Sand und in den Dorfstraßen",
+          "dogPolicyNl": "Honden aan de lijn welkom op het niet-geconcedeerde zand en in de dorpsstraten",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Die Parkplätze sind in der Hochsaison im Sommer begrenzt, kommen Sie also früh oder außerhalb der Stoßzeiten."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Die Parkplätze sind in der Hochsaison im Sommer begrenzt, kommen Sie also früh oder außerhalb der Stoßzeiten.",
+          "tipNl": "Parkeerplekken zijn beperkt in het hoogseizoen 's zomers, kom dus vroeg of buiten de spits."
         }
       ],
       "tipsEn": [
@@ -1074,7 +1213,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Costa da Caparica",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Costa da Caparica",
       "introDe": "Die Sehenswürdigkeiten von Caparica sind größtenteils im Freien und von Natur aus hundefreundlich: die lange Strandkette, die dramatischen Arriba-Fossil-Klippen mit ihrem botanischen Reservat und die alte Fischerstadt mit ihrem funktionierenden Hafen und der Strandpromenade. Keine erfordert Eintrittskarten, und ein angeleinter Hund ist überall willkommen. Wer mehr möchte, findet in Lissabon nur eine kurze Überfahrt entfernt weitere Freiluft-Sehenswürdigkeiten.",
+      "introNl": "De bezienswaardigheden van Caparica zijn grotendeels buiten en van nature hondvriendelijk: de lange strandketen, de dramatische Arriba Fóssil-kliffen met hun natuurreservaat, en het oude vissersstadje met zijn actieve haven en boulevard. Geen enkele vereist een toegangskaartje, en een hond aan de lijn is overal welkom. Wie meer wil, vindt in Lissabon, maar een korte overtocht verderop, nog meer buitenattracties.",
       "faqsDe": [
         {
           "q": "Gibt es Indoor-Sehenswürdigkeiten in Caparica für Hunde?",
@@ -1087,6 +1228,20 @@
         {
           "q": "Was ist im Sommer die beste hundefreundliche Aktivität in Caparica?",
           "a": "Ein kühler früher Morgenspaziergang im Kiefernwald Mata dos Medos auf dem Klippenplateau, gefolgt von einem Strandspaziergang am ruhigen südlichen Ende Richtung Fonte da Telha vor der Mittagshitze und den Strandeinschränkungen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er indoor bezienswaardigheden in Caparica voor honden?",
+          "a": "De charme van Caparica zit hem juist buiten: stranden, kliffen en het vissersstadje, die allemaal honden aan de lijn welkom heten. Er zijn maar weinig indoor bezienswaardigheden, wat prima uitkomt voor hondenbezitters. Voor musea biedt Lissabon aan de overkant van de rivier meer, al zijn de meeste vanbinnen niet hondvriendelijk."
+        },
+        {
+          "q": "Kan ik de Arriba Fóssil-kliffen verkennen met mijn hond?",
+          "a": "Ja. Honden aan de lijn zijn welkom op de klifpaden en vlonderpaden van het reservaat Mata dos Medos op de Arriba Fóssil, dat 's zomers ook de beste schaduw en het mooiste uitzicht op de Atlantische Oceaan biedt."
+        },
+        {
+          "q": "Wat is 's zomers de beste hondvriendelijke activiteit in Caparica?",
+          "a": "Een koele vroege-ochtendwandeling in het dennenbos Mata dos Medos op het klifplateau, gevolgd door een strandwandeling aan het rustige zuidelijke uiteinde richting Fonte da Telha, vóór de middaghitte en de strandbeperkingen."
         }
       ]
     },
@@ -1123,8 +1278,11 @@
           "tipPt": "Reserve com pelo menos 48 horas de antecedência em pleno verão, pois a disponibilidade na zona de Lisboa esgota depressa.",
           "googleMapsUrl": "",
           "descriptionDe": "Rover ist eine führende Tierbetreuungsplattform, die in ganz Portugal tätig ist, einschließlich der Region Lissabon und Almada, zu der auch Costa da Caparica gehört. Reisende können geprüfte örtliche Sitter und Hundeausführer für Kurzbesuche, Tagesbetreuung oder Übernachtungen buchen, während sie Lissabon erkunden oder essen gehen. Die Sitter werden bewertet, und viele im Großraum Lissabon sprechen Englisch. In der App können Sie nach Standort, Hundegröße und Verfügbarkeit filtern.",
+          "descriptionNl": "Rover is een toonaangevend platform voor dierenverzorging dat actief is in heel Portugal, waaronder de regio Lissabon en Almada, waar ook Costa da Caparica onder valt. Reizigers kunnen gecontroleerde lokale oppassers en hondenuitlaters boeken voor korte bezoekjes, dagopvang of overnachtingen, terwijl ze Lissabon verkennen of uit eten gaan. De oppassers krijgen beoordelingen, en velen in de grootstedelijke regio Lissabon spreken Engels. In de app kun je filteren op locatie, hondengrootte en beschikbaarheid.",
           "serviceTypeDe": "App-basierte Buchung. Hundesitting, Gassigehen, Tagesbetreuung, Pension",
-          "tipDe": "Buchen Sie in der Hochsaison im Sommer mindestens 48 Stunden im Voraus, da die Verfügbarkeit im Raum Lissabon schnell ausgebucht ist."
+          "serviceTypeNl": "Boeken via de app. Hondenoppas, uitlaatservice, dagopvang, pension",
+          "tipDe": "Buchen Sie in der Hochsaison im Sommer mindestens 48 Stunden im Voraus, da die Verfügbarkeit im Raum Lissabon schnell ausgebucht ist.",
+          "tipNl": "Boek in het hoogseizoen 's zomers minstens 48 uur van tevoren, want de beschikbaarheid in de regio Lissabon is snel volgeboekt."
         },
         {
           "name": "Veterinarios Macario - Hotel para Caes",
@@ -1147,8 +1305,11 @@
           "tipPt": "Boa opção para cães idosos ou medicados, dado o apoio veterinário no local.",
           "googleMapsUrl": "https://maps.google.com/?q=Veterinarios+Macario+hotel+para+caes",
           "descriptionDe": "Diese Tierklinik im Gebiet Charneca da Caparica betreibt eine eigene Hundepension (Hotel para Cães) und einen Haustierbetreuungsdienst, eine praktische örtliche Option, wenn Sie beaufsichtigte Tagesbetreuung in Strandnähe benötigen. Die Anbindung an eine Tierklinik gibt zusätzliche Sicherheit bei älteren Hunden oder solchen, die Medikamente benötigen. Verfügbarkeit und Preise direkt bei der Klinik bestätigen.",
+          "descriptionNl": "Deze dierenkliniek in de omgeving van Charneca da Caparica heeft een eigen hondenpension (Hotel para Cães) en huisdierverzorgingsdienst, een handige lokale optie als je begeleide dagopvang nodig hebt dicht bij het strand. De koppeling met een dierenkliniek geeft extra zekerheid bij oudere honden of honden die medicatie nodig hebben. Bevestig beschikbaarheid en prijzen rechtstreeks bij de kliniek.",
           "serviceTypeDe": "Hundepension und Tagesbetreuung in einer Tierklinik",
-          "tipDe": "Gut geeignet für Senior-Hunde oder Hunde mit Medikamenten, dank der tierärztlichen Betreuung vor Ort."
+          "serviceTypeNl": "Hondenpension en dagopvang bij een dierenkliniek",
+          "tipDe": "Gut geeignet für Senior-Hunde oder Hunde mit Medikamenten, dank der tierärztlichen Betreuung vor Ort.",
+          "tipNl": "Goed geschikt voor senior honden of honden met medicatie, dankzij de dierenartsbegeleiding ter plaatse."
         }
       ],
       "tipsEn": [
@@ -1212,7 +1373,9 @@
         }
       ],
       "titleDe": "Hundesitter & Tierbetreuung in Costa da Caparica",
+      "titleNl": "Hondenoppas & dierenverzorging in Costa da Caparica",
       "introDe": "Da Hunde im Sommer tagsüber an den Stränden verboten sind, kann eine Betreuung von ein paar Stunden für einen Mittagsausflug nach Lissabon oder ein Restaurantessen im Sitzen nützlich sein. Die Region Caparica und das weitere Almada-Gebiet werden von Portugals wichtigsten Haustierbetreuungsplattformen sowie von örtlichen Pensionen und Kliniken mit Tagesbetreuung abgedeckt. Buchen Sie in der Hochsaison im Sommer im Voraus, da die Nachfrage hoch ist.",
+      "introNl": "Omdat honden 's zomers overdag niet welkom zijn op de stranden, kan een opvang van een paar uur handig zijn voor een dagtochtje naar Lissabon of een restaurantbezoek waarbij je rustig kunt zitten. De regio Caparica en het bredere gebied Almada worden gedekt door de belangrijkste huisdierverzorgingsplatforms van Portugal, plus lokale pensions en klinieken met dagopvang. Boek in het hoogseizoen 's zomers van tevoren, want de vraag is groot.",
       "faqsDe": [
         {
           "q": "Wo kann ich meinen Hund für ein paar Stunden in Costa da Caparica lassen?",
@@ -1221,6 +1384,16 @@
         {
           "q": "Muss ich die Tierbetreuung im Sommer im Voraus buchen?",
           "a": "Ja. Die Region Lissabon und Caparica ist in der Hochsaison im Sommer sehr belebt, buchen Sie also Sitter oder Tagesbetreuung mindestens ein bis zwei Tage im Voraus und halten Sie die Impfnachweise Ihres Hundes bereit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar kan ik mijn hond een paar uur laten in Costa da Caparica?",
+          "a": "Gebruik een platform zoals Rover om een gecontroleerde lokale oppasser of dagopvang te boeken, of een pension bij een kliniek zoals Veterinarios Macario in Charneca da Caparica. Dat is handig voor een dagtochtje naar Lissabon of een restaurantbezoek, zeker omdat bewaakte stranden 's zomers geen honden toelaten."
+        },
+        {
+          "q": "Moet ik dierenverzorging 's zomers van tevoren boeken?",
+          "a": "Ja. De regio Lissabon en Caparica is erg druk in het hoogseizoen 's zomers, dus boek oppas of dagopvang minstens een of twee dagen van tevoren en houd de vaccinatiebewijzen van je hond bij de hand."
         }
       ]
     }

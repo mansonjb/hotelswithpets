@@ -46,9 +46,13 @@
           "tipPt": "Vá almoçar num dia de mercado, terça ou quinta, pois os produtos estão no seu mais fresco e o terraço apanha a sombra da manhã. Acompanhe o tumbet com um copo de tinto de Pollença",
           "googleMapsUrl": "https://maps.google.com/?q=Sa+Mostra+Alcudia",
           "descriptionDe": "Sa Mostra liegt in der Carrer del Moll innerhalb der mittelalterlichen Mauern des casc antic, ein Steinhaus im mallorquinischen Stil mit einer kleinen Terrasse unter den Wehrmauern aus dem 14. Jahrhundert. Die Küche bietet ehrliche mallorquinische Landkost, direkt vom nur zwei Straßen entfernten Dienstags- und Donnerstagsmarkt: frit mallorquí, arròs brut, tumbet und saisonale greixonera-Gerichte. Angeleinte Hunde sind auf der Terrasse willkommen, und die Familie, die das Lokal führt, stammt selbst aus Alcúdia. Reservierung an Markttagen und am Wochenende empfohlen.",
+          "descriptionNl": "Sa Mostra ligt in de Carrer del Moll binnen de middeleeuwse muren van de casc antic, een stenen huis in Mallorcaanse stijl met een klein terras onder de vestingmuren uit de 14e eeuw. De keuken biedt eerlijke Mallorcaanse landkost, rechtstreeks van de markt op dinsdag en donderdag, die maar twee straten verderop is: frit mallorquí, arròs brut, tumbet en seizoensgebonden greixonera-gerechten. Aangelijnde honden zijn welkom op het terras, en de familie die de zaak runt komt zelf uit Alcúdia. Reserveren op marktdagen en in het weekend wordt aanbevolen.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Frit mallorquí, arròs brut, tumbet, greixonera de peix",
-          "tipDe": "Kommen Sie dienstags oder donnerstags zum Markttag zum Mittagessen, die Zutaten sind dann am frischesten und die Terrasse liegt morgens im Schatten. Kombinieren Sie den tumbet mit einem Glas Rotwein aus Pollença"
+          "mustTryNl": "Frit mallorquí, arròs brut, tumbet, greixonera de peix",
+          "tipDe": "Kommen Sie dienstags oder donnerstags zum Markttag zum Mittagessen, die Zutaten sind dann am frischesten und die Terrasse liegt morgens im Schatten. Kombinieren Sie den tumbet mit einem Glas Rotwein aus Pollença",
+          "tipNl": "Kom op dinsdag of donderdag, marktdag, lunchen, dan zijn de ingrediënten het verst en ligt het terras 's ochtends in de schaduw. Combineer de tumbet met een glas rode wijn uit Pollença"
         },
         {
           "name": "Bodega d'es Port",
@@ -75,9 +79,13 @@
           "tipPt": "Aponte para a hora do pôr do sol, por volta das 20:00 no verão, pois o terraço apanha a última luz sobre a marina e os barcos de pesca regressam. Reserve com antecedência as mesas da primeira fila",
           "googleMapsUrl": "https://maps.google.com/?q=Passeig+Maritim+Port+Alcudia",
           "descriptionDe": "Die Bodega d'es Port liegt am Passeig Marítim von Port d'Alcúdia mit Blick auf den Yachthafen und den Fischereihafen, eine traditionsreiche Tapas- und Fischadresse mit einer großzügigen, von Segeltuch beschatteten Außenterrasse. Die Karte richtet sich nach dem Fang der Fischerboote: gambes de Mallorca, calamares a la planxa, frit de peix und eine große Auswahl an pa amb oli mit sobrassada und Mahón-Käse. Angeleinte Hunde sind auf der Terrasse willkommen, Wassernäpfe sind selbstverständlich. Durchgehend geöffnet am Nachmittag, praktisch, wenn andere Lokale zwischen den Services schließen.",
+          "descriptionNl": "De Bodega d'es Port ligt aan de Passeig Marítim van Port d'Alcúdia, met uitzicht op de jachthaven en de vissershaven, een traditierijke tapas- en visadres met een royaal, door zeildoek beschaduwd buitenterras. De kaart volgt de vangst van de vissersboten: gambes de Mallorca, calamares a la planxa, frit de peix en een ruime keuze aan pa amb oli met sobrassada en Mahón-kaas. Aangelijnde honden zijn welkom op het terras, waterbakjes zijn vanzelfsprekend. 's Middags doorlopend open, handig wanneer andere zaken tussen de services sluiten.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Gambes de Mallorca, calamares a la planxa, frit de peix, pa amb oli mit sobrassada",
-          "tipDe": "Zielen Sie im Sommer auf die Stunde des Sonnenuntergangs gegen 20:00 Uhr, die Terrasse fängt das letzte Licht über dem Hafen ein, und die Fischerboote kehren zurück. Reservieren Sie die vorderen Tische im Voraus"
+          "mustTryNl": "Gambes de Mallorca, calamares a la planxa, frit de peix, pa amb oli met sobrassada",
+          "tipDe": "Zielen Sie im Sommer auf die Stunde des Sonnenuntergangs gegen 20:00 Uhr, die Terrasse fängt das letzte Licht über dem Hafen ein, und die Fischerboote kehren zurück. Reservieren Sie die vorderen Tische im Voraus",
+          "tipNl": "Mik in de zomer op het uur van zonsondergang rond 20:00 uur, het terras vangt het laatste licht boven de haven, en de vissersboten keren terug. Reserveer de voorste tafels van tevoren"
         },
         {
           "name": "Ca'n Costa",
@@ -104,14 +112,21 @@
           "tipPt": "Reserve uma mesa no piso superior do terraço se quiser uma vista sobre o Carrer Major. A panada e os rubiols de Páscoa só aparecem entre o Domingo de Ramos e a segunda semana depois da Páscoa, por isso pergunte na cozinha",
           "googleMapsUrl": "https://maps.google.com/?q=Carrer+Major+Alcudia",
           "descriptionDe": "Ca'n Costa ist eine Taverne in einem mallorquinischen Haus in der Carrer Major, der Hauptachse des casc antic, mit steingepflastertem Innenraum und einer kleinen Straßenterrasse direkt unter den mittelalterlichen Wehrmauern. Die Küche setzt auf Saisonales: porc rostit, Lammschulter, sopes mallorquines (der traditionelle Brot-Gemüse-Eintopf) und eine hervorragende panada de pix zur Osterwoche. Angeleinte Hunde sind auf der Terrasse willkommen, und das Personal ist an Rundgangsgäste mit Haustier gewöhnt. Eine wirklich lokale Adresse, die sich nicht dem Resort-Publikum angepasst hat.",
+          "descriptionNl": "Ca'n Costa is een taverne in een Mallorcaans huis aan de Carrer Major, de hoofdas van de casc antic, met een steengeplaveid interieur en een klein straatterras direct onder de middeleeuwse vestingmuren. De keuken zet in op het seizoen: porc rostit, lamsschouder, sopes mallorquines (de traditionele brood-groente-stoofpot) en een uitstekende panada de pix in de paasweek. Aangelijnde honden zijn welkom op het terras, en het personeel is gewend aan gasten met huisdier die de rondgang langs de muren maken. Een echt lokaal adres dat zich niet heeft aangepast aan het resortpubliek.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Porc rostit, sopes mallorquines, panada de pix (Ostern), rubiols",
-          "tipDe": "Reservieren Sie einen Tisch auf der oberen Terrassenebene, wenn Sie Ausblick auf die Carrer Major wünschen. Die Ostergebäcke panada und rubiols gibt es nur zwischen Palmsonntag und der zweiten Woche nach Ostern, fragen Sie in der Küche nach"
+          "mustTryNl": "Porc rostit, sopes mallorquines, panada de pix (Pasen), rubiols",
+          "tipDe": "Reservieren Sie einen Tisch auf der oberen Terrassenebene, wenn Sie Ausblick auf die Carrer Major wünschen. Die Ostergebäcke panada und rubiols gibt es nur zwischen Palmsonntag und der zweiten Woche nach Ostern, fragen Sie in der Küche nach",
+          "tipNl": "Reserveer een tafel op het bovenste terrasniveau als u uitzicht op de Carrer Major wilt. De paasgebakjes panada en rubiols zijn alleen verkrijgbaar tussen Palmzondag en de tweede week na Pasen, vraag ernaar in de keuken"
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Alcúdia",
+      "titleNl": "Huisdiervriendelijke restaurants in Alcúdia",
       "introDe": "Die Gastronomieszene von Alcúdia teilt sich klar in zwei Bereiche: den casc antic innerhalb der mittelalterlichen Stadtmauern, wo steingepflasterte Plätze und Gassen traditionsreiche mallorquinische Tavernen und Tapas-Bars mit hundefreundlichen Terrassen beherbergen; und den Yachthafen und die Uferpromenade von Port d'Alcúdia 2 km südlich, wo die Küche internationaler ausfällt und die Terrassen zum Hafen und zum 6 km langen Platja d'Alcúdia ausgerichtet sind. Die mallorquinische Landküche prägt die Altstadt: pa amb oli, sobrassada de Mallorca, tumbet, frit mallorquí und die Erzeugnisse des Dienstags- und Donnerstagsmarkts. Weine der Herkunftsbezeichnungen Pla i Llevant und Binissalem, Rotweine aus dem Mikroklima von Pollença sowie Olivenöl aus Pollença ziehen sich durch jede Weinkarte. Angeleinte Hunde sind auf den Außenterrassen ganzjährig weithin willkommen, und Wassernäpfe sind selbstverständlich.",
-      "faqsDe": []
+      "introNl": "De gastronomiescene van Alcúdia valt duidelijk uiteen in twee delen: de casc antic binnen de middeleeuwse stadsmuren, waar steengeplaveide pleinen en steegjes traditierijke Mallorcaanse taveernes en tapasbars met hondvriendelijke terrassen herbergen; en de jachthaven en boulevard van Port d'Alcúdia, 2 km zuidelijker, waar de keuken internationaler is en de terrassen uitkijken op de haven en het 6 km lange Platja d'Alcúdia. De Mallorcaanse landkeuken kleurt de oude stad: pa amb oli, sobrassada de Mallorca, tumbet, frit mallorquí en de producten van de dinsdag- en donderdagmarkt. Wijnen uit de herkomstbenamingen Pla i Llevant en Binissalem, rode wijnen uit het microklimaat van Pollença en olijfolie uit Pollença komen op elke wijnkaart terug. Aangelijnde honden zijn op de buitenterrassen het hele jaar door ruimhartig welkom, en waterbakjes zijn vanzelfsprekend.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks and Walks in Alcúdia",
@@ -143,8 +158,11 @@
           "tipPt": "Comece na Porta del Moll, perto da Plaça de la Constitució, e caminhe no sentido horário, pois a sombra da manhã incide na muralha sul antes das 10:00. O passeio na muralha superior só abre durante o dia, mas o perímetro na base fica sempre acessível",
           "googleMapsUrl": "https://maps.google.com/?q=Murada+medieval+Alcudia",
           "descriptionDe": "Die mittelalterlichen Stadtmauern von Alcúdia gehören zu den besterhaltenen der Balearen, ein steinerner Ring aus dem 14. Jahrhundert um den casc antic mit 26 Türmen und zwei Haupttoren (Porta de Mallorca und Porta del Moll). Der 1,5 km lange Rundweg entlang des äußeren Mauerfußes ist durchgehend hundefreundlich, eine flache, angeleinte Runde mit Sichtachsen über die Albufera-Feuchtgebiete im Süden und die Bucht von Pollença im Norden. Freier Zugang, 24 Stunden geöffnet, und die lohnendste 30-minütige Einführung in die Stadt mit Hund.",
+          "descriptionNl": "De middeleeuwse stadsmuren van Alcúdia behoren tot de best bewaarde van de Balearen, een stenen ring uit de 14e eeuw rond de casc antic met 26 torens en twee hoofdpoorten (Porta de Mallorca en Porta del Moll). Het 1,5 km lange rondpad langs de buitenvoet van de muur is doorlopend hondvriendelijk, een vlakke, aangelijnde ronde met zichtlijnen over de Albufera-waddengebieden in het zuiden en de baai van Pollença in het noorden. Vrije toegang, 24 uur per dag open, en de lonendste introductie van 30 minuten in de stad met hond.",
           "petPolicyDe": "Angeleinte Hunde entlang des Rundwegs willkommen",
-          "tipDe": "Starten Sie an der Porta del Moll nahe der Plaça de la Constitució und gehen Sie im Uhrzeigersinn, der Morgenschatten fällt vor 10:00 Uhr auf die Südmauer. Der obere Mauerrundgang ist nur tagsüber geöffnet, der Rundweg am Fuß der Mauer ist immer zugänglich"
+          "petPolicyNl": "Aangelijnde honden welkom langs het rondpad",
+          "tipDe": "Starten Sie an der Porta del Moll nahe der Plaça de la Constitució und gehen Sie im Uhrzeigersinn, der Morgenschatten fällt vor 10:00 Uhr auf die Südmauer. Der obere Mauerrundgang ist nur tagsüber geöffnet, der Rundweg am Fuß der Mauer ist immer zugänglich",
+          "tipNl": "Start bij de Porta del Moll nabij de Plaça de la Constitució en loop met de klok mee, de ochtendschaduw valt vóór 10:00 uur op de zuidmuur. Het bovenste muurpad is alleen overdag open, het rondpad aan de voet van de muur is altijd toegankelijk"
         },
         {
           "name": "Parc Natural de s'Albufera de Mallorca",
@@ -166,8 +184,11 @@
           "tipPt": "Levante a autorização de entrada gratuita no centro de visitantes de Sa Roca antes de caminhar. As melhores horas para observar aves são as 07:00-09:00 e as 17:00-19:00, pois o calor do meio-dia esvazia os caniçais. Leve 2 L de água por cão, pois não há fontes nos trilhos interiores",
           "googleMapsUrl": "https://maps.google.com/?q=Parc+Natural+s+Albufera+Mallorca",
           "descriptionDe": "S'Albufera de Mallorca ist das größte Feuchtgebiet der Balearen, ein 1.700 Hektar großes UNESCO-Ramsar-Reservat aus Schilfgürteln, Dünen, Lagunen und Reisfeldern am Südrand von Alcúdia, Heimat von mehr als 200 Vogelarten, darunter Fischadler, Reiher, Flamingos und der seltene Bartgrasmücke. Angeleinte Hunde sind auf dem markierten Hauptwanderweg ab dem Besucherzentrum Sa Roca und entlang der Randwege willkommen, mit strikten Zutrittsverboten in den inneren Brutgebieten. Die flache, 4 km lange Runde Camí de sa Roca ist der zugänglichste Hundespaziergang, mit mehreren Vogelbeobachtungshütten aus Holz entlang der Strecke.",
+          "descriptionNl": "S'Albufera de Mallorca is het grootste waddengebied van de Balearen, een 1.700 hectare groot UNESCO-Ramsarreservaat van rietgordels, duinen, lagunes en rijstvelden aan de zuidrand van Alcúdia, thuis aan meer dan 200 vogelsoorten, waaronder visarenden, reigers, flamingo's en de zeldzame Balearische rietzanger. Aangelijnde honden zijn welkom op het gemarkeerde hoofdwandelpad vanaf het bezoekerscentrum Sa Roca en langs de randpaden, met strikte toegangsverboden in de binnenste broedgebieden. De vlakke, 4 km lange lus Camí de sa Roca is de meest toegankelijke hondenwandeling, met meerdere houten vogelkijkhutten langs de route.",
           "petPolicyDe": "Leinenpflicht auf markierten Wegen; kein Zutritt zu den inneren Brutgebieten",
-          "tipDe": "Holen Sie sich die kostenlose Eintrittsgenehmigung am Besucherzentrum Sa Roca, bevor Sie losgehen. Beste Vogelbeobachtungszeiten sind 07:00-09:00 und 17:00-19:00 Uhr, die Mittagshitze leert die Schilfgürtel. Führen Sie 2 L Wasser pro Hund mit, es gibt keine Brunnen auf den inneren Wegen"
+          "petPolicyNl": "Aanlijnplicht op gemarkeerde paden; geen toegang tot de binnenste broedgebieden",
+          "tipDe": "Holen Sie sich die kostenlose Eintrittsgenehmigung am Besucherzentrum Sa Roca, bevor Sie losgehen. Beste Vogelbeobachtungszeiten sind 07:00-09:00 und 17:00-19:00 Uhr, die Mittagshitze leert die Schilfgürtel. Führen Sie 2 L Wasser pro Hund mit, es gibt keine Brunnen auf den inneren Wegen",
+          "tipNl": "Haal de gratis toegangsvergunning bij het bezoekerscentrum Sa Roca voordat u vertrekt. De beste momenten voor vogels spotten zijn 07:00-09:00 en 17:00-19:00 uur, de middaghitte maakt de rietgordels leeg. Neem 2 l water per hond mee, er zijn geen fonteinen op de binnenste paden"
         },
         {
           "name": "Coll Baix trail (Cap d'es Pinar)",
@@ -189,13 +210,19 @@
           "tipPt": "A península do Cap d'es Pinar é uma reserva militar, e o portão do parque da Ermita fecha por volta do pôr do sol, por isso planeie a descida para estar de volta ao carro bem antes. Os troços de descida são de pedra solta, só para cães de patas seguras",
           "googleMapsUrl": "https://maps.google.com/?q=Coll+Baix+Ermita+Victoria+Alcudia",
           "descriptionDe": "Der Coll-Baix-Weg fällt vom Parkplatz der Ermita de la Victòria auf der Halbinsel Cap d'es Pinar, 10 km nordöstlich von Alcúdia, über einen bewaldeten, steingepflasterten Pfad zu einer abgelegenen Kieselbucht (Platja de Coll Baix) ab, die nur zu Fuß erreichbar ist. Die Wanderung dauert etwa 1 Stunde bergab, 1:15 Std. bergauf, durch Steineichenwald mit weiten Ausblicken über die Bucht von Pollença. Angeleinte Hunde sind auf der gesamten Strecke willkommen. Die Bucht selbst ist unbewirtschaftet, ohne Einrichtungen, und das saisonale Strandverbot wird hier angesichts der Abgeschiedenheit nicht streng durchgesetzt. Führen Sie im Sommer ausreichend Wasser mit.",
+          "descriptionNl": "Het Coll-Baixpad daalt vanaf de parkeerplaats van de Ermita de la Victòria op het schiereiland Cap d'es Pinar, 10 km ten noordoosten van Alcúdia, via een beboste, steengeplaveide route af naar een afgelegen kiezelbaai (Platja de Coll Baix), die alleen te voet bereikbaar is. De wandeling duurt ongeveer 1 uur naar beneden, 1u15 naar boven, door steeneikenbos met wijde uitzichten over de baai van Pollença. Aangelijnde honden zijn welkom op de hele route. De baai zelf is onbewaakt, zonder voorzieningen, en het seizoensgebonden strandverbod wordt hier gezien de afgelegenheid niet strikt gehandhaafd. Neem 's zomers voldoende water mee.",
           "petPolicyDe": "Hunde an der Leine; abgelegene, unbewirtschaftete Bucht",
-          "tipDe": "Die Halbinsel Cap d'es Pinar ist militärisches Sperrgebiet, das Tor zum Parkplatz der Ermita schließt etwa bei Sonnenuntergang, planen Sie den Abstieg so, dass Sie rechtzeitig zurück am Auto sind. Die Abstiegspassagen bestehen aus losem Gestein, nur für trittsichere Hunde geeignet"
+          "petPolicyNl": "Honden aan de lijn; afgelegen, onbewaakte baai",
+          "tipDe": "Die Halbinsel Cap d'es Pinar ist militärisches Sperrgebiet, das Tor zum Parkplatz der Ermita schließt etwa bei Sonnenuntergang, planen Sie den Abstieg so, dass Sie rechtzeitig zurück am Auto sind. Die Abstiegspassagen bestehen aus losem Gestein, nur für trittsichere Hunde geeignet",
+          "tipNl": "Het schiereiland Cap d'es Pinar is militair sperrgebied, de poort naar de parkeerplaats van de Ermita sluit rond zonsondergang, plan de afdaling zo dat u op tijd terug bent bij de auto. De afdalingspassages bestaan uit los gesteente, alleen geschikt voor honden met vaste tred"
         }
       ],
       "titleDe": "Hundefreundliche Parks und Spaziergänge in Alcúdia",
+      "titleNl": "Hondvriendelijke parken en wandelingen in Alcúdia",
       "introDe": "Das Angebot an Grünflächen in Alcúdia ist für eine Stadt mit 21.000 Einwohnern ungewöhnlich stark. Der 1,5 km lange Rundweg entlang der intakten mittelalterlichen Stadtmauern aus dem 14. Jahrhundert im casc antic ist durchgehend hundefreundlich, eine angeleinte Runde mit Sichtachsen über die Albufera-Feuchtgebiete und die Bucht. Der Parc Natural de s'Albufera de Mallorca, ein 1.700 Hektar großes, als Ramsar-Gebiet ausgewiesenes UNESCO-Feuchtgebiet am Südrand der Stadt, beherbergt mehr als 200 Vogelarten und heißt angeleinte Hunde auf seinem markierten Wanderweg willkommen. Die römischen Ruinen von Pollentia am Südrand des casc antic sind zugänglich und außerhalb des eingezäunten Theaters hundefreundlich. Ergänzt durch die einstündige Wanderung zur abgelegenen Kieselbucht Coll Baix am Cap d'es Pinar und die dramatische Fahrt zum Leuchtturm Cap de Formentor ist Alcúdia eine der begehbarsten Basen Mallorcas für Hundebesitzer.",
-      "faqsDe": []
+      "introNl": "Het aanbod aan groene ruimtes in Alcúdia is ongewoon sterk voor een stad van 21.000 inwoners. Het 1,5 km lange rondpad langs de intacte middeleeuwse stadsmuren uit de 14e eeuw in de casc antic is doorlopend hondvriendelijk, een aangelijnde ronde met zichtlijnen over de Albufera-waddengebieden en de baai. Het Parc Natural de s'Albufera de Mallorca, een 1.700 hectare groot, als Ramsargebied aangewezen UNESCO-waddengebied aan de zuidrand van de stad, herbergt meer dan 200 vogelsoorten en verwelkomt aangelijnde honden op het gemarkeerde wandelpad. De Romeinse ruïnes van Pollentia aan de zuidrand van de casc antic zijn toegankelijk en hondvriendelijk buiten het omheinde theater. Aangevuld met de wandeling van een uur naar de afgelegen kiezelbaai Coll Baix op Cap d'es Pinar en de dramatische rit naar de vuurtoren Cap de Formentor is Alcúdia een van de best te belopen bases van Mallorca voor hondeneigenaren.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting Around Alcúdia with Your Pet",
@@ -226,8 +253,11 @@
           "tipPt": "Reserve a partida da manhã (normalmente às 08:00 ou às 09:00) para o mar mais calmo, pois a travessia da tarde pode ser mais agitada com o vento de Tramuntana. Chegue 60 minutos antes com o microchip e o passaporte europeu para animais do seu cão prontos",
           "googleMapsUrl": "https://maps.google.com/?q=Estacio+Maritima+Port+Alcudia",
           "descriptionDe": "Die Überfahrt von Port d'Alcúdia nach Ciutadella de Menorca ist die schnellste haustierfreundliche Verbindung zwischen Mallorca und Menorca, ein einstündiger Schnellkatamaran, betrieben von Iscomar/Trasmediterránea (und saisonal von Baleària), mit mehreren täglichen Abfahrten im Sommer und reduziertem Fahrplan im übrigen Jahr. Haustiere reisen in Transportboxen in der Passagierkabine gegen einen Aufpreis von etwa 15-30 € je nach Größe; größere Hunde reisen angeleint im eigens dafür vorgesehenen Bereich oder im eigenen Fahrzeug, falls Sie ein Auto mitbringen. Vorausbuchung ist im Juli und August unerlässlich.",
+          "descriptionNl": "De overtocht van Port d'Alcúdia naar Ciutadella de Menorca is de snelste huisdiervriendelijke verbinding tussen Mallorca en Menorca, een snelle catamaran van een uur, geëxploiteerd door Iscomar/Trasmediterránea (en seizoensgebonden door Baleària), met meerdere dagelijkse afvaarten in de zomer en een beperkter schema de rest van het jaar. Huisdieren reizen in draagtassen in de passagierscabine tegen een meerprijs van ongeveer 15-30 €, afhankelijk van de grootte; grotere honden reizen aangelijnd in het daarvoor bestemde gebied of in uw eigen voertuig als u een auto meeneemt. Vooraf boeken is in juli en augustus essentieel.",
           "petPolicyDe": "Haustiere in Transportboxen in der Kabine, Aufpreis 15-30 €; größere Hunde angeleint im eigens vorgesehenen Bereich oder im Fahrzeug",
-          "tipDe": "Buchen Sie die morgendliche Abfahrt (in der Regel 08:00 oder 09:00 Uhr) für den ruhigsten Seegang, die Nachmittagsüberfahrt kann bei Tramuntana-Wind rauer sein. Kommen Sie 60 Minuten vorher mit Mikrochip und EU-Heimtierausweis Ihres Hundes bereit an"
+          "petPolicyNl": "Huisdieren in draagtas in de cabine, meerprijs 15-30 €; grotere honden aangelijnd in het daarvoor bestemde gebied of in het voertuig",
+          "tipDe": "Buchen Sie die morgendliche Abfahrt (in der Regel 08:00 oder 09:00 Uhr) für den ruhigsten Seegang, die Nachmittagsüberfahrt kann bei Tramuntana-Wind rauer sein. Kommen Sie 60 Minuten vorher mit Mikrochip und EU-Heimtierausweis Ihres Hundes bereit an",
+          "tipNl": "Boek de ochtendafvaart (meestal 08:00 of 09:00 uur) voor de rustigste zeegang, de middagovertocht kan ruwer zijn bij tramuntanawind. Kom 60 minuten van tevoren met de microchip en het EU-dierenpaspoort van uw hond bij de hand"
         },
         {
           "name": "TIB Bus L351 / L352 Palma–Alcúdia",
@@ -248,8 +278,11 @@
           "tipPt": "Apanhe o L351 expresso em vez do L352 se viajar com um cão, pois a viagem é 15 minutos mais curta e menos paragens significam menos stress para o animal",
           "googleMapsUrl": "https://maps.google.com/?q=Estacio+Intermodal+Palma+Mallorca",
           "descriptionDe": "Die regionalen TIB-Busse L351 (Express) und L352 (mit Zwischenhalten) verbinden die Estació Intermodal in Palma mit Alcúdia in etwa 1 Stunde für rund 5 € pro Fahrt, mit häufigen Abfahrten über den ganzen Tag. Kleine Haustiere in einer zugelassenen Transportbox reisen kostenlos; größere Hunde können nach Ermessen des Fahrers akzeptiert werden. Der Bus hält an der Haltestelle Avinguda Príncep d'Espanya, 5 Gehminuten von der Porta del Moll und dem casc antic entfernt. Fahrkarten werden an Bord gekauft. Dies ist die übliche Art, Alcúdia ohne Auto zu erreichen.",
+          "descriptionNl": "De regionale TIB-bussen L351 (express) en L352 (met tussenstops) verbinden het Estació Intermodal in Palma met Alcúdia in ongeveer 1 uur voor rond de 5 € per rit, met frequente afvaarten de hele dag door. Kleine huisdieren in een goedgekeurde draagtas reizen gratis; grotere honden kunnen ter beoordeling van de chauffeur worden geaccepteerd. De bus stopt bij de halte Avinguda Príncep d'Espanya, 5 minuten lopen van de Porta del Moll en de casc antic. Kaartjes worden aan boord gekocht. Dit is de gebruikelijke manier om Alcúdia zonder auto te bereiken.",
           "petPolicyDe": "Haustiere in Transportboxen reisen kostenlos; größere Hunde nach Ermessen des Fahrers",
-          "tipDe": "Nehmen Sie mit Hund lieber den L351-Express als den L352, die Fahrt ist 15 Minuten kürzer und weniger Zwischenhalte bedeuten weniger Stress für das Tier"
+          "petPolicyNl": "Huisdieren in draagtas reizen gratis; grotere honden ter beoordeling van de chauffeur",
+          "tipDe": "Nehmen Sie mit Hund lieber den L351-Express als den L352, die Fahrt ist 15 Minuten kürzer und weniger Zwischenhalte bedeuten weniger Stress für das Tier",
+          "tipNl": "Neem met hond liever de L351-express dan de L352, de rit is 15 minuten korter en minder tussenstops betekenen minder stress voor het dier"
         },
         {
           "name": "Taxi Alcúdia & PMI airport transfer",
@@ -270,13 +303,19 @@
           "tipPt": "Alternativa mais barata: apanhe o TIB L351 do aeroporto até à Estació Intermodal de Palma e faça ligação ao L351/L352 para Alcúdia, num total de cerca de 10 euros com um cão pequeno. O táxi só faz sentido com um cão grande ou numa chegada tardia depois do último autocarro",
           "googleMapsUrl": "https://maps.google.com/?q=Avinguda+Princep+Espanya+Alcudia",
           "descriptionDe": "Alcúdia hat einen offiziellen Taxistand an der Avinguda Príncep d'Espanya am Eingang zum casc antic, mit gutem Angebot im Sommer und Bereitschaftsdienst im Winter. Die Fahrt zum Flughafen PMI kostet für die 50-km-Strecke etwa 70-80 € einfach, rund 50 Minuten Fahrzeit. Hunde werden nach Ermessen des Fahrers akzeptiert, meist gegen eine kleine Zusatzgebühr und mit der Bitte um eine Decke oder ein Handtuch. Für garantiert haustierfreundliche Transfers ist es oft einfacher, einen Privattransfer vorab zu buchen oder Cabify zu nutzen, wo Sie die Tierrichtlinie im Voraus bestätigen können.",
+          "descriptionNl": "Alcúdia heeft een officiële taxistandplaats aan de Avinguda Príncep d'Espanya bij de ingang van de casc antic, met een goed aanbod in de zomer en beperkte beschikbaarheid in de winter. De rit naar luchthaven PMI kost voor de 50 km lange route ongeveer 70-80 € enkele reis, zo'n 50 minuten rijtijd. Honden worden ter beoordeling van de chauffeur geaccepteerd, meestal tegen een kleine meerprijs en met het verzoek om een deken of handdoek. Voor gegarandeerd huisdiervriendelijke transfers is het vaak makkelijker om vooraf een privétransfer te boeken of Cabify te gebruiken, waar u het huisdierbeleid vooraf kunt bevestigen.",
           "petPolicyDe": "Hunde nach Ermessen des Fahrers akzeptiert; kleiner Aufpreis möglich",
-          "tipDe": "Günstigere Alternative: Nehmen Sie den TIB L351 vom Flughafen zur Estació Intermodal Palma und wechseln Sie dort zum L351/L352 nach Alcúdia, insgesamt etwa 10 € mit kleinem Hund. Das Taxi lohnt sich nur bei großem Hund oder später Ankunft nach dem letzten Bus"
+          "petPolicyNl": "Honden ter beoordeling van de chauffeur geaccepteerd; kleine meerprijs mogelijk",
+          "tipDe": "Günstigere Alternative: Nehmen Sie den TIB L351 vom Flughafen zur Estació Intermodal Palma und wechseln Sie dort zum L351/L352 nach Alcúdia, insgesamt etwa 10 € mit kleinem Hund. Das Taxi lohnt sich nur bei großem Hund oder später Ankunft nach dem letzten Bus",
+          "tipNl": "Goedkoper alternatief: neem de TIB L351 vanaf de luchthaven naar het Estació Intermodal Palma en stap daar over op de L351/L352 naar Alcúdia, in totaal ongeveer 10 € met een kleine hond. De taxi is alleen de moeite waard bij een grote hond of een late aankomst na de laatste bus"
         }
       ],
       "titleDe": "Fortbewegung in Alcúdia mit Haustier",
+      "titleNl": "Rondtrekken in Alcúdia met huisdier",
       "introDe": "Alcúdia hat keinen Bahnanschluss. Die Stadt wird über das regionale TIB-Busnetz von Palma aus erreicht (L351 oder L352, etwa 1 Stunde, rund 5 €, kleine Haustiere in Transportboxen kostenlos), per Taxi oder privatem Transfer vom Flughafen Palma (PMI, 50 km südlich, rund 70-80 € einfache Fahrt) sowie per Fähre von Menorca oder Cala Rajada. Innerhalb des casc antic selbst ist Gehen das einzige Fortbewegungsmittel, die Kopfsteinpflastergassen innerhalb der Mauern sind Fußgängerzone. Der Yachthafen von Port d'Alcúdia liegt 2 km südlich des casc antic und ist der saisonale Fährknotenpunkt, mit dem Iscomar/Trasmediterránea-Schnellkatamaran nach Ciutadella de Menorca in 1 Stunde sowie saisonalen Baleària-Verbindungen nach Cala Rajada im Osten Mallorcas und weiter nach Formentera.",
-      "faqsDe": []
+      "introNl": "Alcúdia heeft geen treinverbinding. De stad is bereikbaar via het regionale TIB-busnetwerk vanaf Palma (L351 of L352, ongeveer 1 uur, rond de 5 €, kleine huisdieren in draagtas gratis), per taxi of particuliere transfer vanaf luchthaven Palma (PMI, 50 km zuidelijker, rond de 70-80 € enkele reis) en per veerboot vanuit Menorca of Cala Rajada. Binnen de casc antic zelf is lopen het enige vervoermiddel, de kasseistraten binnen de muren zijn voetgangersgebied. De jachthaven van Port d'Alcúdia ligt 2 km ten zuiden van de casc antic en is het seizoensgebonden veerbootknooppunt, met de Iscomar/Trasmediterránea-sneltocht catamaran naar Ciutadella de Menorca in 1 uur en seizoensgebonden Baleària-verbindingen naar Cala Rajada in het oosten van Mallorca en verder naar Formentera.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches near Alcúdia",
@@ -308,8 +347,11 @@
           "tipPt": "A extremidade sul, em direção à Platja de Muro, é o trecho mais vazio mesmo em pleno inverno, por isso estacione no acesso às dunas de Es Comú. O nascer do sol a partir da praia sobre a baía é dramático, com o sol a emergir diretamente do mar por volta das 07:30 em janeiro",
           "googleMapsUrl": "https://maps.google.com/?q=Platja+d+Alcudia",
           "descriptionDe": "Der Platja d'Alcúdia ist der längste Sandstrand Mallorcas, ein 6 km langer Bogen aus feinem, hellem Sand, der vom Yachthafen Port d'Alcúdia entlang der Bucht südwärts in den Platja de Muro übergeht und weiter bis nach Can Picafort reicht. Mit Blauer Flagge ausgezeichnet, familienfreundlich, flach abfallend und einer der besten Badestrände der Insel. Laut der Verordnung des Ajuntament d'Alcúdia sind Hunde vom 1. April bis 31. Oktober auf dem ausgewiesenen öffentlichen Badeabschnitt verboten. Von November bis März sind angeleinte Hunde willkommen, und der Strand zeigt sich dann am schönsten, leer, mit dem Tramuntana-Licht über der Bucht.",
+          "descriptionNl": "Het Platja d'Alcúdia is het langste zandstrand van Mallorca, een 6 km lange boog van fijn, licht zand die vanaf de jachthaven Port d'Alcúdia langs de baai zuidwaarts overgaat in het Platja de Muro en verder doorloopt tot Can Picafort. Onderscheiden met een Blauwe Vlag, gezinsvriendelijk, geleidelijk aflopend en een van de beste zwemstranden van het eiland. Volgens de verordening van de Ajuntament d'Alcúdia zijn honden van 1 april tot 31 oktober verboden op het aangewezen openbare zwemgedeelte. Van november tot maart zijn aangelijnde honden welkom, en dan is het strand op zijn mooist, leeg, met het tramuntanalicht over de baai.",
           "petPolicyDe": "Hunde vom 1. April bis 31. Oktober laut Verordnung des Ajuntament d'Alcúdia verboten; außerhalb der Saison von November bis März an der Leine erlaubt",
-          "tipDe": "Das südliche Ende Richtung Platja de Muro ist selbst im tiefsten Winter der leerste Abschnitt, parken Sie am Dünenzugang Es Comú. Der Sonnenaufgang vom Strand über der Bucht ist eindrucksvoll, die Sonne geht im Januar gegen 07:30 Uhr direkt aus dem Meer auf"
+          "petPolicyNl": "Honden van 1 april tot 31 oktober verboden volgens de verordening van de Ajuntament d'Alcúdia; buiten het seizoen, van november tot maart, aan de lijn toegestaan",
+          "tipDe": "Das südliche Ende Richtung Platja de Muro ist selbst im tiefsten Winter der leerste Abschnitt, parken Sie am Dünenzugang Es Comú. Der Sonnenaufgang vom Strand über der Bucht ist eindrucksvoll, die Sonne geht im Januar gegen 07:30 Uhr direkt aus dem Meer auf",
+          "tipNl": "Het zuidelijke uiteinde richting Platja de Muro is zelfs in het hartje van de winter het leegste gedeelte, parkeer bij de duintoegang Es Comú. De zonsopgang vanaf het strand boven de baai is indrukwekkend, de zon komt in januari rond 07:30 uur recht uit zee op"
         },
         {
           "name": "Mal Pas & Bonaire coves",
@@ -331,8 +373,11 @@
           "tipPt": "Combine com um café num dos dois cafés à beira-mar da aldeia de Mal Pas antes de caminhar até à extremidade de Bonaire. A estrada para o Cap d'es Pinar começa nas traseiras de Bonaire, e o portão da reserva militar fica 2 km mais à frente",
           "googleMapsUrl": "https://maps.google.com/?q=Mal+Pas+Bonaire+Alcudia",
           "descriptionDe": "Mal Pas und Bonaire sind die beiden kleinen Buchten an der Nordseite von Alcúdia, um das kleine Hafendorf Mal Pas-Bonaire, 3 km nördlich des casc antic auf dem Weg zum Cap d'es Pinar. Die Buchten sind intim, von Pinien und Kalkstein gerahmt, mit steinernen Bootsrampen und einem kleinen Fischereihafen. Das Badeaufkommen ist gering, sodass angeleinte Spaziergänge außerhalb der Saison unbeanstandet bleiben, und die Hafenpromenade sowie die Bootsrampe sind ganzjährig hundefreundlich, selbst während des offiziellen saisonalen Badeverbots.",
+          "descriptionNl": "Mal Pas en Bonaire zijn de twee kleine baaien aan de noordkant van Alcúdia, rond het kleine havendorp Mal Pas-Bonaire, 3 km ten noorden van de casc antic, op weg naar Cap d'es Pinar. De baaien zijn intiem, omlijst door pijnbomen en kalksteen, met stenen bootrampen en een klein vissershaventje. De drukte met zwemmers is gering, waardoor aangelijnde wandelingen buiten het seizoen ongestoord blijven, en de havenpromenade en de bootramp zijn het hele jaar door hondvriendelijk, zelfs tijdens het officiële seizoensgebonden zwemverbod.",
           "petPolicyDe": "Angeleinte Hunde auf der Promenade ganzjährig willkommen; das saisonale Badeverbot gilt von April bis Oktober für den Sandstreifen",
-          "tipDe": "Kombinieren Sie den Besuch mit einem Kaffee in einem der beiden Uferlokale im Dorf Mal Pas, bevor Sie zum Bonaire-Ende weitergehen. Die Straße zum Cap d'es Pinar beginnt hinter Bonaire, das Tor zum militärischen Sperrgebiet liegt 2 km weiter"
+          "petPolicyNl": "Aangelijnde honden het hele jaar welkom op de promenade; het seizoensgebonden zwemverbod geldt van april tot oktober voor de zandstrook",
+          "tipDe": "Kombinieren Sie den Besuch mit einem Kaffee in einem der beiden Uferlokale im Dorf Mal Pas, bevor Sie zum Bonaire-Ende weitergehen. Die Straße zum Cap d'es Pinar beginnt hinter Bonaire, das Tor zum militärischen Sperrgebiet liegt 2 km weiter",
+          "tipNl": "Combineer het bezoek met een koffie in een van de twee horecagelegenheden aan het water in het dorp Mal Pas, voordat u verdergaat naar het Bonaire-uiteinde. De weg naar Cap d'es Pinar begint achter Bonaire, de poort naar het militaire sperrgebied ligt 2 km verderop"
         },
         {
           "name": "Cala Sant Vicenç (off-season)",
@@ -354,13 +399,19 @@
           "tipPt": "Estacione em Cala Molins, onde a estrada termina, e percorra o curto caminho da falésia entre as enseadas. Cala Clara é a mais pequena e mais vazia, ideal para uma manhã de inverno. Leve sapatos de água se o seu cão não gostar de seixos",
           "googleMapsUrl": "https://maps.google.com/?q=Cala+Sant+Vicenc+Pollenca",
           "descriptionDe": "Cala Sant Vicenç ist eine Gruppe von vier kleinen Sand- und Kieselbuchten (Cala Barques, Cala Molins, Cala Carbó, Cala Clara), eingebettet unter hoch aufragenden Tramuntana-Klippen in der Gemeinde Pollença, 15 km nordwestlich von Alcúdia. Die Buchten werden vom Cavall-Bernat-Grat gerahmt, der sich 350 m über dem Wasser erhebt, zu jeder Jahreszeit dramatisch. Laut der Gemeindeverordnung von Pollença sind Hunde während der Badesaison verboten, doch außerhalb der Saison sehen die Buchten sehr wenige Besucher, und angeleinte Hunde werden in der Praxis toleriert, besonders in Cala Carbó und Cala Clara, die über weniger Badeinfrastruktur verfügen.",
+          "descriptionNl": "Cala Sant Vicenç is een groep van vier kleine zand- en kiezelbaaien (Cala Barques, Cala Molins, Cala Carbó, Cala Clara), genesteld onder hoog oprijzende tramuntanakliffen in de gemeente Pollença, 15 km ten noordwesten van Alcúdia. De baaien worden omlijst door de Cavall-Bernatkam, die zich 350 m boven het water verheft, in elk seizoen indrukwekkend. Volgens de gemeenteverordening van Pollença zijn honden tijdens het badseizoen verboden, maar buiten het seizoen krijgen de baaien zeer weinig bezoekers, en aangelijnde honden worden in de praktijk getolereerd, vooral in Cala Carbó en Cala Clara, die minder zwemvoorzieningen hebben.",
           "petPolicyDe": "Hunde während der Badesaison laut Verordnung von Pollença verboten; außerhalb der Saison werden angeleinte Spaziergänge in der Praxis toleriert",
-          "tipDe": "Parken Sie bei Cala Molins, wo die Straße endet, und gehen Sie den kurzen Klippenpfad zwischen den Buchten. Cala Clara ist die kleinste und leerste, ideal für einen Wintermorgen. Bringen Sie Badeschuhe mit, falls Ihr Hund Kiesel nicht mag"
+          "petPolicyNl": "Honden tijdens het badseizoen verboden volgens de verordening van Pollença; buiten het seizoen worden aangelijnde wandelingen in de praktijk getolereerd",
+          "tipDe": "Parken Sie bei Cala Molins, wo die Straße endet, und gehen Sie den kurzen Klippenpfad zwischen den Buchten. Cala Clara ist die kleinste und leerste, ideal für einen Wintermorgen. Bringen Sie Badeschuhe mit, falls Ihr Hund Kiesel nicht mag",
+          "tipNl": "Parkeer bij Cala Molins, waar de weg eindigt, en loop het korte klifpad tussen de baaien. Cala Clara is de kleinste en leegste, ideaal voor een winterochtend. Neem waterschoenen mee als uw hond geen kiezels lust"
         }
       ],
       "titleDe": "Hundefreundliche Strände nahe Alcúdia",
+      "titleNl": "Hondvriendelijke stranden bij Alcúdia",
       "introDe": "Alcúdia verfügt über einen der längsten Sandstrände Mallorcas, den 6 km langen Platja d'Alcúdia / Platja de Muro entlang der Bucht. Das saisonale Strandverbot Mallorcas gilt: laut der Verordnung des Ajuntament d'Alcúdia sind Hunde vom 1. April bis 31. Oktober auf dem ausgewiesenen öffentlichen Badeabschnitt des Platja d'Alcúdia verboten, außerhalb der Saison (November bis März) an der Leine erlaubt. Der kleinere und intimere Platja de Sant Pere sowie die Buchten Mal Pas / Bonaire auf der Nordseite bleiben angesichts ihres geringeren Badeaufkommens ganzjährig für angeleinte Spaziergänge tolerierbar. Die Buchten von Cala Sant Vicenç im Nordwesten und die Kieselbucht Coll Baix am Cap d'es Pinar liegen abgelegen genug, dass angeleinte Besuche außerhalb der Saison unbeanstandet bleiben. Prüfen Sie stets die aktuelle Verordnung des Ajuntament, bevor Sie fahren.",
-      "faqsDe": []
+      "introNl": "Alcúdia beschikt over een van de langste zandstranden van Mallorca, het 6 km lange Platja d'Alcúdia/Platja de Muro langs de baai. Het seizoensgebonden strandverbod van Mallorca geldt: volgens de verordening van de Ajuntament d'Alcúdia zijn honden van 1 april tot 31 oktober verboden op het aangewezen openbare zwemgedeelte van het Platja d'Alcúdia, buiten het seizoen (november tot maart) aan de lijn toegestaan. Het kleinere en intiemere Platja de Sant Pere en de baaien Mal Pas/Bonaire aan de noordkant blijven, gezien hun geringere zwemdrukte, het hele jaar door tolereerbaar voor aangelijnde wandelingen. De baaien van Cala Sant Vicenç in het noordwesten en de kiezelbaai Coll Baix op Cap d'es Pinar liggen afgelegen genoeg dat aangelijnde bezoeken buiten het seizoen ongestoord blijven. Controleer altijd de actuele verordening van de Ajuntament voordat u vertrekt.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Emergency Vets near Alcúdia, Veterinary Clinics & Pet Care",
@@ -392,8 +443,11 @@
           "tipPt": "Para os certificados de viagem de ferry para Ciutadella de Menorca, conte pelo menos 48 horas antes da travessia reservada. Leve o número de microchip e o passaporte europeu do seu cão à primeira consulta",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Alcudia",
           "descriptionDe": "Die Clínica Veterinaria Alcúdia ist die zentrale Tagesklinik in der Stadt, in der Carrer dels Mariners direkt außerhalb der mittelalterlichen Mauern, ein kurzer Fußweg vom casc antic entfernt. Die Klinik übernimmt allgemeine Sprechstunden, Impfungen, Mikrochipping, EU-Reisebescheinigungen für Fährabfahrten ab Port d'Alcúdia, Röntgen, Ultraschall, Chirurgie und Hausbesuche. Bei ernsten Notfällen außerhalb der Öffnungszeiten überweist das Team an das AniCura Aragó in Palma. Prüfen Sie vor der Reise die aktuelle Durchwahl.",
+          "descriptionNl": "De Clínica Veterinaria Alcúdia is de centrale dagkliniek in de stad, aan de Carrer dels Mariners direct buiten de middeleeuwse muren, een korte wandeling van de casc antic. De kliniek verzorgt algemene consulten, vaccinaties, microchippen, EU-reiscertificaten voor veerbootafvaarten vanuit Port d'Alcúdia, röntgen, echografie, chirurgie en huisbezoeken. Bij ernstige spoedgevallen buiten openingstijden verwijst het team door naar het AniCura Aragó in Palma. Controleer vóór vertrek het actuele telefoonnummer.",
           "petPolicyDe": "Hunde und Katzen werden behandelt",
-          "tipDe": "Für Reisebescheinigungen zur Fähre nach Ciutadella de Menorca planen Sie mindestens 48 Stunden vor der gebuchten Überfahrt ein. Bringen Sie zur ersten Sprechstunde die Mikrochipnummer und den EU-Ausweis Ihres Hundes mit"
+          "petPolicyNl": "Honden en katten worden behandeld",
+          "tipDe": "Für Reisebescheinigungen zur Fähre nach Ciutadella de Menorca planen Sie mindestens 48 Stunden vor der gebuchten Überfahrt ein. Bringen Sie zur ersten Sprechstunde die Mikrochipnummer und den EU-Ausweis Ihres Hundes mit",
+          "tipNl": "Voor reiscertificaten voor de veerboot naar Ciutadella de Menorca plant u minstens 48 uur vóór de geboekte overtocht in. Neem bij het eerste consult het microchipnummer en het EU-paspoort van uw hond mee"
         },
         {
           "name": "Clínica Veterinaria Pollença",
@@ -415,8 +469,11 @@
           "tipPt": "Confirme o número direto em vigor antes de conduzir a partir de Alcúdia. As clínicas de aldeia de Pollença fecham para o almoço das 13:30 às 17:00, por isso planeie as visitas não urgentes de manhã ou ao fim da tarde",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Pollenca",
           "descriptionDe": "Die Clínica Veterinaria Pollença ist die Dorfklinik in Pollença, 10 km nördlich von Alcúdia, nützlich als Ausweichmöglichkeit, wenn die Klinik in der Stadt ausgebucht ist, oder für Besucher, die in der Gegend von Cala Sant Vicenç oder Port de Pollença übernachten. Sie übernimmt Routinesprechstunden, Impfungen, Zahnbehandlung, kleinere Operationen und Reisepapiere für Haustiere. Bei ernsten 24-Stunden-Notfällen überweist das Team an das AniCura Aragó in Palma (40 Minuten Anfahrt ab Pollença).",
+          "descriptionNl": "De Clínica Veterinaria Pollença is de dorpskliniek in Pollença, 10 km ten noorden van Alcúdia, handig als alternatief wanneer de kliniek in de stad volgeboekt is, of voor bezoekers die overnachten in de omgeving van Cala Sant Vicenç of Port de Pollença. Ze verzorgt routineconsulten, vaccinaties, tandheelkunde, kleinere operaties en reispapieren voor huisdieren. Bij ernstige 24-uursspoedgevallen verwijst het team door naar het AniCura Aragó in Palma (40 minuten rijden vanaf Pollença).",
           "petPolicyDe": "Hunde und Katzen werden behandelt",
-          "tipDe": "Prüfen Sie vor der Fahrt von Alcúdia die aktuelle Durchwahl. Die Dorfkliniken in Pollença schließen für die Mittagspause von 13:30 bis 17:00 Uhr, planen Sie nicht dringende Besuche für den Vormittag oder späten Nachmittag ein"
+          "petPolicyNl": "Honden en katten worden behandeld",
+          "tipDe": "Prüfen Sie vor der Fahrt von Alcúdia die aktuelle Durchwahl. Die Dorfkliniken in Pollença schließen für die Mittagspause von 13:30 bis 17:00 Uhr, planen Sie nicht dringende Besuche für den Vormittag oder späten Nachmittag ein",
+          "tipNl": "Controleer vóór het vertrek vanuit Alcúdia het actuele telefoonnummer. De dorpsklinieken in Pollença sluiten voor de lunchpauze van 13:30 tot 17:00 uur, plan niet-dringende bezoeken in voor de ochtend of late namiddag"
         },
         {
           "name": "AniCura Aragó Hospital Veterinari (Palma 24h)",
@@ -439,13 +496,19 @@
           "tipPt": "Telefone com antecedência a partir de Alcúdia antes de conduzir: +34 971 47 93 54. A autoestrada Ma-13 é a via mais rápida para Palma a qualquer hora, por isso não pegue na estrada costeira via Can Picafort, que acrescenta 30 minutos",
           "googleMapsUrl": "https://maps.google.com/?q=AniCura+Arago+Hospital+Veterinari+Palma",
           "descriptionDe": "Das AniCura Aragó Hospital Veterinari ist Mallorcas führende 24-Stunden-Tierklinik, das erste vollwertige Tierkrankenhaus, das auf der Insel eröffnet wurde. Es bietet rund um die Uhr Notfallaufnahme, Intensivstation, Chirurgie, bildgebende Diagnostik und Facharztsprechstunden. Von Alcúdia aus sind es über die Autobahn Ma-13 rund 40 Minuten nach Palma. Speichern Sie die Nummer vor der Reise: +34 971 47 93 54. Dies ist die praktische 24-Stunden-Anlaufstelle für ganz Nordmallorca, einschließlich Alcúdia, Pollença und der Region Cap de Formentor.",
+          "descriptionNl": "Het AniCura Aragó Hospital Veterinari is de toonaangevende 24-uurs dierenkliniek van Mallorca, het eerste volwaardige dierenziekenhuis dat op het eiland werd geopend. Het biedt 24/7 spoedopname, intensive care, chirurgie, beeldvormende diagnostiek en spreekuren met specialisten. Vanaf Alcúdia is het via de snelweg Ma-13 ongeveer 40 minuten naar Palma. Sla het nummer op vóór vertrek: +34 971 47 93 54. Dit is het praktische 24-uurs aanspreekpunt voor heel Noord-Mallorca, inclusief Alcúdia, Pollença en de regio Cap de Formentor.",
           "petPolicyDe": "Hunde, Katzen und Exoten werden behandelt, 24-Stunden-Notfallaufnahme",
-          "tipDe": "Rufen Sie von Alcúdia aus vorab an: +34 971 47 93 54. Die Autobahn Ma-13 ist zu jeder Tageszeit die schnellste Route nach Palma, nehmen Sie nicht die Küstenstraße über Can Picafort, das verlängert die Fahrt um 30 Minuten"
+          "petPolicyNl": "Honden, katten en exoten worden behandeld, 24-uurs spoedopname",
+          "tipDe": "Rufen Sie von Alcúdia aus vorab an: +34 971 47 93 54. Die Autobahn Ma-13 ist zu jeder Tageszeit die schnellste Route nach Palma, nehmen Sie nicht die Küstenstraße über Can Picafort, das verlängert die Fahrt um 30 Minuten",
+          "tipNl": "Bel vanuit Alcúdia van tevoren: +34 971 47 93 54. De snelweg Ma-13 is op elk moment van de dag de snelste route naar Palma, neem niet de kustweg via Can Picafort, dat verlengt de rit met 30 minuten"
         }
       ],
       "titleDe": "Notfalltierärzte nahe Alcúdia, tierärztliche Kliniken und Tierpflege",
+      "titleNl": "Spoeddierenartsen bij Alcúdia, dierenklinieken en huisdierenzorg",
       "introDe": "Alcúdia ist eine Stadt mit 21.000 Einwohnern und verfügt über eigene tierärztliche Alltagspraxen. Für eine echte 24-Stunden-Notfallklinik müssen Sie nach Palma ausweichen, rund 50 km südlich, 40 Minuten Fahrt über die Autobahn Ma-13, wo das AniCura Aragó Hospital Veterinari eine rund um die Uhr besetzte Intensivstation betreibt. Auch die Nachbarstadt Pollença, 10 km nördlich, verfügt über eine zuverlässige Dorfklinik. Eine Tierkrankenversicherung ist seit September 2023 für Hunde auf den Balearen verpflichtend, prüfen Sie vor der Reise, ob Ihre Police Spanien abdeckt. Führen Sie stets Mikrochipnummer, Impfausweis und EU-Heimtierausweis Ihres Hundes mit.",
-      "faqsDe": []
+      "introNl": "Alcúdia is een stad met 21.000 inwoners en beschikt over eigen dagelijkse dierenartspraktijken. Voor een echte 24-uurs spoedkliniek moet u uitwijken naar Palma, ongeveer 50 km zuidelijker, 40 minuten rijden via de snelweg Ma-13, waar het AniCura Aragó Hospital Veterinari een 24 uur per dag bemande intensive care runt. Ook de naburige stad Pollença, 10 km ten noorden, heeft een betrouwbare dorpskliniek. Een huisdierenverzekering is sinds september 2023 verplicht voor honden op de Balearen, controleer vóór vertrek of uw polis Spanje dekt. Neem altijd de microchipnummer, het vaccinatieboekje en het EU-dierenpaspoort van uw hond mee.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Pet Travel Tips for Alcúdia",
@@ -545,8 +608,11 @@
         ]
       },
       "titleDe": "Reisetipps mit Haustier für Alcúdia",
+      "titleNl": "Reistips met huisdier voor Alcúdia",
       "introDe": "Alcúdia belohnt Besucher, die etwas vorausplanen. Die Stadt ist dank des 1,5 km langen Rundwegs an den mittelalterlichen Stadtmauern, der römischen Ruinen von Pollentia, des UNESCO-Feuchtgebiets S'Albufera, der Fahrt zum Leuchtturm Cap de Formentor und des einstündigen Katamarans nach Ciutadella de Menorca die praktische Basis Nordmallorcas für Hundebesitzer. Das saisonale Strandverbot gilt laut Verordnung des Ajuntament d'Alcúdia vom 1. April bis 31. Oktober für den Platja d'Alcúdia, außerhalb der Saison, von November bis März, sind angeleinte Spaziergänge willkommen. Die 24-Stunden-Notfallklinik befindet sich in Palma (~40 Minuten über die Ma-13), speichern Sie also die Nummer des AniCura Aragó, +34 971 47 93 54, bevor Sie ankommen. Die verpflichtende Tierkrankenversicherung für Hunde auf den Balearen (seit September 2023) überrascht viele Besucher, prüfen Sie das vor dem Abflug.",
-      "faqsDe": []
+      "introNl": "Alcúdia beloont bezoekers die iets vooruitplannen. De stad is dankzij het 1,5 km lange rondpad langs de middeleeuwse stadsmuren, de Romeinse ruïnes van Pollentia, het UNESCO-waddengebied S'Albufera, de rit naar de vuurtoren Cap de Formentor en de catamaran van een uur naar Ciutadella de Menorca de praktische basis van Noord-Mallorca voor hondeneigenaren. Het seizoensgebonden strandverbod geldt volgens de verordening van de Ajuntament d'Alcúdia van 1 april tot 31 oktober voor het Platja d'Alcúdia, buiten het seizoen, van november tot maart, zijn aangelijnde wandelingen welkom. De 24-uurs spoedkliniek bevindt zich in Palma (~40 minuten via de Ma-13), sla dus het nummer van AniCura Aragó, +34 971 47 93 54, op voordat u aankomt. De verplichte huisdierenverzekering voor honden op de Balearen (sinds september 2023) verrast veel bezoekers, controleer dit vóór vertrek.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Alcúdia",
@@ -578,8 +644,11 @@
           "tipPt": "Chegue à abertura, às 10:00, para percorrer os terrenos abertos antes de chegarem os grupos de autocarro. O teatro fica a uns 200 m planos a sul, visível da estrada mas observável de perto a partir do exterior da vedação com o cão",
           "googleMapsUrl": "https://maps.google.com/?q=Pollentia+Roman+ruins+Alcudia",
           "descriptionDe": "Pollentia ist die im 1. Jahrhundert v. Chr. von Quintus Caecilius Metellus nach der römischen Eroberung der Balearen 123 v. Chr. gegründete römische Stadt, die bedeutendste römische Ausgrabungsstätte Mallorcas. Zum offenen Gelände gehören das Forum, das Wohnviertel (Domus Sa Portella), die Randwege und die Reste der Stadtmauern, mit einem eingezäunten römischen Theater 200 m südlich, zu Fuß erreichbar. Angeleinte Hunde sind auf dem offenen Gelände und den Randwegen willkommen, jedoch nicht im eingezäunten Theater oder im archäologischen Innenmuseum (Museu Monogràfic). 10 Gehminuten von der Plaça de la Constitució entfernt.",
+          "descriptionNl": "Pollentia is de in de 1e eeuw v.Chr. door Quintus Caecilius Metellus gestichte Romeinse stad, na de Romeinse verovering van de Balearen in 123 v.Chr., de belangrijkste Romeinse opgravingsplek van Mallorca. Tot het open terrein behoren het forum, de woonwijk (Domus Sa Portella), de randpaden en de resten van de stadsmuren, met een omheind Romeins theater 200 m zuidelijker, te voet bereikbaar. Aangelijnde honden zijn welkom op het open terrein en de randpaden, maar niet in het omheinde theater of het archeologische binnenmuseum (Museu Monogràfic). 10 minuten lopen van de Plaça de la Constitució.",
           "petPolicyDe": "Angeleinte Hunde auf dem offenen Gelände willkommen; eingezäuntes römisches Theater und Innenmuseum tabu",
-          "tipDe": "Kommen Sie zur Öffnung um 10:00 Uhr, um das offene Gelände vor den Reisegruppen zu erkunden. Das Theater liegt 200 m südlich, flach zu erreichen, von der Straße aus sichtbar und mit Hund von außerhalb des Zauns aus der Nähe betrachtbar"
+          "petPolicyNl": "Aangelijnde honden welkom op het open terrein; omheind Romeins theater en binnenmuseum verboden terrein",
+          "tipDe": "Kommen Sie zur Öffnung um 10:00 Uhr, um das offene Gelände vor den Reisegruppen zu erkunden. Das Theater liegt 200 m südlich, flach zu erreichen, von der Straße aus sichtbar und mit Hund von außerhalb des Zauns aus der Nähe betrachtbar",
+          "tipNl": "Kom bij de opening om 10:00 uur om het open terrein te verkennen vóór de reisgroepen. Het theater ligt 200 m zuidelijker, vlak te bereiken, zichtbaar vanaf de weg en met hond van dichtbij te bekijken van buiten het hek"
         },
         {
           "name": "Casc antic, Plaça de la Constitució & Mercat (Tue+Thu)",
@@ -601,8 +670,11 @@
           "tipPt": "Chegue ao mercado às 08:30, antes de as multidões dos autocarros turísticos chegarem por volta das 10:30. As bancas de produtos concentram-se no extremo do Carrer Major, a cerâmica e o couro nas traseiras da igreja, e o canto de música ao vivo no Ajuntament",
           "googleMapsUrl": "https://maps.google.com/?q=Placa+de+la+Constitucio+Alcudia",
           "descriptionDe": "Die Plaça de la Constitució ist der Hauptplatz des casc antic, gerahmt von der Església de Sant Jaume, dem Ajuntament und den Renaissance-Herrenhäusern der Carrer Major. Der Vormittagsmarkt dienstags und donnerstags gehört zu den größten Regionalmärkten Nordmallorcas und breitet sich über die umliegenden Straßen aus, mit Erzeugnissen, Olivenöl, sobrassada, Käse, ensaimades, Lederwaren und Keramik. Angeleinte Hunde sind auf dem Platz, in den umliegenden Gassen und auf dem Markt selbst willkommen, Wassernäpfe lassen sich an den Café-Terrassen leicht erbitten.",
+          "descriptionNl": "De Plaça de la Constitució is het hoofdplein van de casc antic, omlijst door de Església de Sant Jaume, het Ajuntament en de renaissanceherenhuizen van de Carrer Major. De ochtendmarkt op dinsdag en donderdag behoort tot de grootste streekmarkten van Noord-Mallorca en breidt zich uit over de omliggende straten, met producten, olijfolie, sobrassada, kaas, ensaimades, lederwaren en keramiek. Aangelijnde honden zijn welkom op het plein, in de omliggende steegjes en op de markt zelf, waterbakjes zijn gemakkelijk te vragen bij de caféterrassen.",
           "petPolicyDe": "Angeleinte Hunde auf Platz, Markt und Gassen willkommen; Kircheninneres tabu",
-          "tipDe": "Kommen Sie bis 08:30 Uhr auf den Markt, bevor gegen 10:30 Uhr die Reisebusgruppen eintreffen. Die Erzeugnisstände konzentrieren sich am Ende zur Carrer Major hin, Keramik und Lederwaren an der Rückseite der Kirche, die Live-Musik-Ecke beim Ajuntament"
+          "petPolicyNl": "Aangelijnde honden welkom op plein, markt en steegjes; kerkinterieur verboden terrein",
+          "tipDe": "Kommen Sie bis 08:30 Uhr auf den Markt, bevor gegen 10:30 Uhr die Reisebusgruppen eintreffen. Die Erzeugnisstände konzentrieren sich am Ende zur Carrer Major hin, Keramik und Lederwaren an der Rückseite der Kirche, die Live-Musik-Ecke beim Ajuntament",
+          "tipNl": "Kom vóór 08:30 uur naar de markt, voordat rond 10:30 uur de touringcargroepen aankomen. De productkraampjes concentreren zich aan het einde richting de Carrer Major, keramiek en lederwaren aan de achterkant van de kerk, de hoek met livemuziek bij het Ajuntament"
         },
         {
           "name": "Cap de Formentor lighthouse drive",
@@ -624,13 +696,19 @@
           "tipPt": "Vá ao nascer do sol, por volta das 07:00 no verão (antes de a estrada fechar às 10:00), ou ao pôr do sol no inverno, pois a luz incide nas falésias do leste de manhã e do oeste no regresso. O autocarro de ligação aceita cães pequenos em transportadora",
           "googleMapsUrl": "https://maps.google.com/?q=Cap+de+Formentor+lighthouse",
           "descriptionDe": "Der Leuchtturm Cap de Formentor liegt an der dramatischen nordöstlichen Spitze Mallorcas, 30 km von Alcúdia entfernt, am Ende einer der eindrucksvollsten Klippenstraßen Europas. Die Straße windet sich durch den Tramuntana-Pinienwald mit mehreren Aussichtspunkten am Straßenrand (Es Colomer, Mirador de la Creueta) und endet am Leuchtturm selbst mit einem 350 m senkrechten Abfall zum Meer. Angeleinte Hunde sind an jedem Aussichtspunkt und auf dem einstündigen Klippenwanderweg ab dem Parkplatz beim Leuchtturm willkommen. Die Straße ist vom 15. Juni bis 15. September zwischen 10:00 und 19:00 Uhr für Autos gesperrt, nur Shuttlebus.",
+          "descriptionNl": "De vuurtoren Cap de Formentor ligt aan de dramatische noordoostpunt van Mallorca, 30 km van Alcúdia, aan het einde van een van de indrukwekkendste klifwegen van Europa. De weg slingert door het tramuntana-pijnbomenbos met meerdere uitzichtpunten langs de weg (Es Colomer, Mirador de la Creueta) en eindigt bij de vuurtoren zelf, met een loodrechte val van 350 m naar zee. Aangelijnde honden zijn welkom bij elk uitzichtpunt en op het klifwandelpad van een uur vanaf de parkeerplaats bij de vuurtoren. De weg is van 15 juni tot 15 september tussen 10:00 en 19:00 uur gesloten voor auto's, alleen shuttlebus.",
           "petPolicyDe": "Angeleinte Hunde an Aussichtspunkten und auf den Leuchtturmwegen willkommen; Straße vom 15. Juni bis 15. September, 10:00-19:00 Uhr, für Autos gesperrt, nur Shuttlebus",
-          "tipDe": "Fahren Sie im Sommer zum Sonnenaufgang gegen 07:00 Uhr hinaus (bevor die Straße um 10:00 Uhr sperrt) oder im Winter zum Sonnenuntergang, das Licht trifft am Morgen von Osten und bei der Rückfahrt von Westen auf die Klippen. Der Shuttlebus akzeptiert kleine Hunde in Transportboxen"
+          "petPolicyNl": "Aangelijnde honden welkom bij uitzichtpunten en op de vuurtorenpaden; weg van 15 juni tot 15 september, 10:00-19:00 uur, gesloten voor auto's, alleen shuttlebus",
+          "tipDe": "Fahren Sie im Sommer zum Sonnenaufgang gegen 07:00 Uhr hinaus (bevor die Straße um 10:00 Uhr sperrt) oder im Winter zum Sonnenuntergang, das Licht trifft am Morgen von Osten und bei der Rückfahrt von Westen auf die Klippen. Der Shuttlebus akzeptiert kleine Hunde in Transportboxen",
+          "tipNl": "Rijd 's zomers rond 07:00 uur naar zonsopgang (voordat de weg om 10:00 uur sluit) of 's winters naar zonsondergang, het licht valt 's ochtends vanuit het oosten en bij de terugrit vanuit het westen op de kliffen. De shuttlebus accepteert kleine honden in een draagtas"
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Alcúdia",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Alcúdia",
       "introDe": "Die Hauptattraktionen von Alcúdia liegen naturgemäß im Freien und sind hundefreundlich: die intakten mittelalterlichen Stadtmauern aus dem 14. Jahrhundert im casc antic mit ihrem 1,5 km langen Rundweg, die Plaça de la Constitució und die Església de Sant Jaume am Hauptplatz, die Renaissance-Herrenhäuser entlang der Carrer Major, die archäologische Stätte Pollentia am Südrand (Forum aus dem 1. Jahrhundert v. Chr., Wohnviertel, Theater), der regionale Vormittagsmarkt dienstags und donnerstags auf der Plaça de la Constitució sowie die 30 km nördlich gelegene Fahrt zum Leuchtturm Cap de Formentor. Angeleinte Hunde sind im gesamten casc antic, auf dem offenen Gelände von Pollentia (nicht im eingezäunten Theater), auf dem Markt und auf jedem Aussichtspunkt und Wanderweg willkommen. Nur das Innere der Església, das Innenmuseum von Pollentia und das eingezäunte römische Theater sind für Haustiere gesperrt.",
-      "faqsDe": []
+      "introNl": "De belangrijkste attracties van Alcúdia bevinden zich vanzelfsprekend buiten en zijn hondvriendelijk: de intacte middeleeuwse stadsmuren uit de 14e eeuw in de casc antic met hun 1,5 km lange rondpad, de Plaça de la Constitució en de Església de Sant Jaume aan het hoofdplein, de renaissanceherenhuizen langs de Carrer Major, de archeologische vindplaats Pollentia aan de zuidrand (forum uit de 1e eeuw v.Chr., woonwijk, theater), de regionale ochtendmarkt op dinsdag en donderdag op de Plaça de la Constitució en de rit naar de 30 km noordelijker gelegen vuurtoren Cap de Formentor. Aangelijnde honden zijn welkom in de hele casc antic, op het open terrein van Pollentia (niet in het omheinde theater), op de markt en bij elk uitzichtpunt en wandelpad. Alleen het interieur van de Església, het binnenmuseum van Pollentia en het omheinde Romeinse theater zijn verboden terrein voor huisdieren.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "petsitting": {
       "titleEn": "Pet-Sitting Services in Alcúdia",
@@ -661,8 +739,11 @@
           "tipPt": "Procure Alcúdia, Port d'Alcúdia, Pollença e Sa Pobla em conjunto, pois os cuidadores das vilas vizinhas costumam estar disponíveis quando a própria Alcúdia se encontra totalmente reservada no pico do verão",
           "googleMapsUrl": null,
           "descriptionDe": "Rover ist die größte Plattform für Haustierbetreuung in Spanien und verfügt über ein stetiges Angebot verifizierter, in Nordmallorca rund um Alcúdia registrierter Betreuer, die überwiegend Hundebetreuung im eigenen Zuhause und Gassi-Service in der Stadt anbieten. Alle Buchungen sind durch die Versicherung von Rover abgesichert. Suchen Sie gemeinsam nach Alcúdia, Port d'Alcúdia, Pollença und Sa Pobla, um das Angebot zu erweitern.",
+          "descriptionNl": "Rover is het grootste platform voor huisdierenoppas in Spanje en beschikt over een gestaag aanbod van geverifieerde oppassers, geregistreerd in Noord-Mallorca rond Alcúdia, die vooral hondenoppas bij hen thuis en uitlaatservice in de stad aanbieden. Alle boekingen zijn gedekt door de verzekering van Rover. Zoek gezamenlijk op Alcúdia, Port d'Alcúdia, Pollença en Sa Pobla om het aanbod te vergroten.",
           "petPolicyDe": "Hunde und Katzen, alle Größen",
-          "tipDe": "Suchen Sie gemeinsam nach Alcúdia, Port d'Alcúdia, Pollença und Sa Pobla, Betreuer in den Nachbarstädten sind oft verfügbar, wenn Alcúdia selbst in der Hochsaison ausgebucht ist"
+          "petPolicyNl": "Honden en katten, alle formaten",
+          "tipDe": "Suchen Sie gemeinsam nach Alcúdia, Port d'Alcúdia, Pollença und Sa Pobla, Betreuer in den Nachbarstädten sind oft verfügbar, wenn Alcúdia selbst in der Hochsaison ausgebucht ist",
+          "tipNl": "Zoek gezamenlijk op Alcúdia, Port d'Alcúdia, Pollença en Sa Pobla, oppassers in de naburige steden zijn vaak beschikbaar wanneer Alcúdia zelf in het hoogseizoen volgeboekt is"
         },
         {
           "name": "Pawshake (Mallorca sitters)",
@@ -683,8 +764,11 @@
           "tipPt": "Recorra ao encontro de apresentação gratuito; os anfitriões da zona de Alcúdia estão repartidos por várias aldeias e convém ver a casa real antes de deixar o seu cão",
           "googleMapsUrl": null,
           "descriptionDe": "Pawshake ist ein europäischer Marktplatz für Haustierbetreuung mit breiter Abdeckung Mallorcas. Das Modell beruht auf Betreuung zu Hause: Ihr Hund bleibt bei einer lokalen Gastfamilie statt in einer Pension. Die Region Nordmallorca um Alcúdia verfügt über ein stetiges Angebot registrierter Gastgeber, und vor der Buchungsbestätigung ist ein Kennenlerntreffen inbegriffen. Beliebt bei der Expat-Community der Region.",
+          "descriptionNl": "Pawshake is een Europese marktplaats voor huisdierenoppas met brede dekking van Mallorca. Het model draait om oppas thuis: uw hond blijft bij een lokaal gastgezin in plaats van in een pension. De regio Noord-Mallorca rond Alcúdia beschikt over een gestaag aanbod geregistreerde gastheren, en vóór de boekingsbevestiging is een kennismakingsafspraak inbegrepen. Populair bij de expatgemeenschap van de regio.",
           "petPolicyDe": "Hunde und Katzen",
-          "tipDe": "Nutzen Sie das kostenlose Kennenlerntreffen, die Gastgeber im Raum Alcúdia verteilen sich auf mehrere Dörfer, und Sie sollten das tatsächliche Zuhause sehen, bevor Sie Ihren Hund dort lassen"
+          "petPolicyNl": "Honden en katten",
+          "tipDe": "Nutzen Sie das kostenlose Kennenlerntreffen, die Gastgeber im Raum Alcúdia verteilen sich auf mehrere Dörfer, und Sie sollten das tatsächliche Zuhause sehen, bevor Sie Ihren Hund dort lassen",
+          "tipNl": "Gebruik de gratis kennismakingsafspraak, de gastheren in de regio Alcúdia zijn verspreid over meerdere dorpen, en u moet het daadwerkelijke huis zien voordat u uw hond daar achterlaat"
         },
         {
           "name": "TrustedHousesitters (Alcúdia villas)",
@@ -705,13 +789,19 @@
           "tipPt": "Publique o seu anúncio com pelo menos 3 semanas de antecedência, pois Alcúdia e Pollença são destinos populares para cuidadores e os melhores candidatos são escolhidos depressa",
           "googleMapsUrl": null,
           "descriptionDe": "TrustedHousesitters verbindet Haustierbesitzer mit verifizierten Haussittern, die in Ihrer Unterkunft wohnen und sich im Gegenzug um Ihre Haustiere kümmern, ohne Zahlung über die Mitgliedsgebühr hinaus. Die Region Nordmallorca um Alcúdia und Pollença mit ihrer Konzentration an Villen und Stadthäusern ist einer der aktiven Mallorca-Hotspots der Plattform. Ideal für wochenlange oder längere Aufenthalte, bei denen es vorzuziehen ist, den Hund in seiner vertrauten Umgebung zu lassen.",
+          "descriptionNl": "TrustedHousesitters verbindt huisdiereigenaren met geverifieerde huissitters, die in uw woning verblijven en in ruil daarvoor voor uw huisdieren zorgen, zonder betaling naast het lidmaatschapsgeld. De regio Noord-Mallorca rond Alcúdia en Pollença, met haar concentratie aan villa's en herenhuizen, is een van de actieve Mallorca-hotspots van het platform. Ideaal voor verblijven van weken of langer, waarbij het de voorkeur verdient de hond in zijn vertrouwde omgeving te laten.",
           "petPolicyDe": "Hunde, Katzen und andere Haustiere",
-          "tipDe": "Veröffentlichen Sie Ihr Inserat mindestens 3 Wochen im Voraus, Alcúdia und Pollença sind beliebte Sits, und die besten Bewerber sind schnell vergeben"
+          "petPolicyNl": "Honden, katten en andere huisdieren",
+          "tipDe": "Veröffentlichen Sie Ihr Inserat mindestens 3 Wochen im Voraus, Alcúdia und Pollença sind beliebte Sits, und die besten Bewerber sind schnell vergeben",
+          "tipNl": "Plaats uw advertentie minstens 3 weken van tevoren, Alcúdia en Pollença zijn populaire sits, en de beste kandidaten zijn snel vergeven"
         }
       ],
       "titleDe": "Haustierbetreuung in Alcúdia",
+      "titleNl": "Huisdierenoppas in Alcúdia",
       "introDe": "Alcúdia hat keine eigene kommerzielle Tierpension. Haustierbetreuung wird meist über die internationalen Plattformen abgewickelt, die die ganze Insel abdecken, mit Betreuern, die typischerweise in der Stadt Alcúdia, in Port d'Alcúdia, Pollença und Sa Pobla ansässig sind. Rover, Pawshake und TrustedHousesitters verfügen alle über ein stetiges Angebot verifizierter Gastgeber im nördlichen Mallorca. Für längere Aufenthalte funktioniert das Housesitting-Modell in Alcúdia gut, da die meisten Unterkünfte Stadthäuser oder Villen sind, bei denen ein vor Ort wohnender Betreuer angenehmer ist, als den Hund andernorts unterzubringen.",
-      "faqsDe": []
+      "introNl": "Alcúdia heeft geen eigen commerciële dierenpension. Huisdierenoppas verloopt meestal via de internationale platforms die het hele eiland dekken, met oppassers die doorgaans gevestigd zijn in de stad Alcúdia, in Port d'Alcúdia, Pollença en Sa Pobla. Rover, Pawshake en TrustedHousesitters beschikken alle drie over een gestaag aanbod geverifieerde gastheren in Noord-Mallorca. Voor langere verblijven werkt het housesittingmodel goed in Alcúdia, omdat de meeste accommodaties herenhuizen of villa's zijn, waarbij een ter plekke wonende oppasser aangenamer is dan de hond elders onder te brengen.",
+      "faqsDe": [],
+      "faqsNl": []
     }
   }
 }

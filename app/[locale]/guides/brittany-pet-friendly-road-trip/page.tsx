@@ -20,6 +20,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   es: { label: 'Hoteles del road trip por Bretaña con perro', cta: 'Ver hoteles' },
   pt: { label: 'Hotéis do road trip pela Bretanha com cão', cta: 'Ver hotéis' },
   de: { label: 'Hotels für den hundefreundlichen Roadtrip durch die Bretagne', cta: 'Hotels ansehen' },
+  nl: { label: 'Hotels voor de hondvriendelijke roadtrip door Bretagne', cta: 'Bekijk hotels' },
 }
 
 export async function generateStaticParams() {
@@ -40,6 +41,7 @@ export async function generateMetadata({
     es: 'Road trip pet-friendly por Bretaña en 5 días: Rennes, Saint-Malo, Dinard y Cancale (2026)',
     pt: 'Road trip pet-friendly pela Bretanha em 5 dias: Rennes, Saint-Malo, Dinard e Cancale (2026)',
     de: '5-tägiger haustierfreundlicher Roadtrip durch die Bretagne: Rennes, Saint-Malo, Dinard & Cancale (2026)',
+    nl: '5-daagse huisdiervriendelijke roadtrip door Bretagne: Rennes, Saint-Malo, Dinard & Cancale (2026)',
   }
 
   const descriptions: Record<string, string> = {
@@ -48,6 +50,7 @@ export async function generateMetadata({
     es: 'Un road trip de 5 días por la Bretaña norte con perro: Rennes, Saint-Malo, Dinard y Cancale. Mapa, itinerario día a día, hoteles pet-friendly en cada parada, normativa de playas y tiempos de conducción.',
     pt: 'Um road trip de 5 dias pela Bretanha norte com cão: Rennes, Saint-Malo, Dinard e Cancale. Mapa, itinerário dia a dia, hotéis pet-friendly em cada paragem, regras nas praias e tempos de condução.',
     de: 'Ein 5-tägiger haustierfreundlicher Roadtrip durch die nördliche Bretagne mit Rennes, Saint-Malo, Dinard und Cancale. Karte, Tag-für-Tag-Reiseplan, hundefreundliche Hotels an jeder Station, Regeln für den Strandzugang und Fahrzeiten.',
+    nl: 'Een 5-daagse huisdiervriendelijke roadtrip door Noord-Bretagne langs Rennes, Saint-Malo, Dinard en Cancale. Kaart, dagindeling, hondvriendelijke hotels bij elke stop, regels voor strandtoegang en rijtijden.',
   }
 
   const today = new Date().toISOString().split('T')[0]
@@ -63,6 +66,7 @@ export async function generateMetadata({
         es: `${SITE_URL}/es/guides/${SLUG}`,
         pt: `${SITE_URL}/pt/guides/${SLUG}`,
         de: `${SITE_URL}/de/guides/${SLUG}`,
+        nl: `${SITE_URL}/nl/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },
@@ -92,18 +96,20 @@ type Stop = {
   slug: string
   name: string
   nights: number
-  drive: { fr: string; en: string; es: string; pt: string; de: string }
+  drive: { fr: string; en: string; es: string; pt: string; de: string; nl: string }
   whyEn: string
   whyFr: string
   whyEs: string
   whyPt: string
   whyDe: string
+  whyNl: string
   highlightsEn: string[]
   highlightsFr: string[]
   highlightsEs: string[]
   highlightsPt: string[]
   highlightsDe: string[]
-  hotels: { name: string; pitchEn: string; pitchFr: string; pitchEs: string; pitchPt: string; pitchDe: string }[]
+  highlightsNl: string[]
+  hotels: { name: string; pitchEn: string; pitchFr: string; pitchEs: string; pitchPt: string; pitchDe: string; pitchNl: string }[]
   hasDestPage?: boolean
 }
 
@@ -118,17 +124,20 @@ const STOPS: Stop[] = [
       es: 'Llegada - TGV desde París (1h25) o en coche. Aparcas una vez, todo se hace andando.',
       pt: 'Chegada - TGV de Paris (1h25) ou de carro. Estacionas uma vez, tudo se faz a pé.',
       de: 'Ankunft, TGV aus Paris (1 Std. 25) oder mit dem Auto. Einmal parken, alles zu Fuß erreichen.',
+      nl: 'Aankomst, TGV vanuit Parijs (1u25) of met de auto. Eén keer parkeren, daarna alles te voet.',
     },
     whyEn: `Brittany's regional capital is the natural launch pad: a compact medieval centre, a 10-hectare central park (Parc du Thabor) that welcomes leashed dogs, and abundant café terraces. The half-timbered streets east of Place du Parlement de Bretagne were spared by the 1720 fire and remain the most photogenic dog-walking ground in the city.`,
     whyFr: `La capitale régionale est le point de départ logique : un centre médiéval compact, un parc central de 10 hectares (Parc du Thabor) qui accueille les chiens en laisse et des terrasses partout. Les rues à pans de bois à l'est de la Place du Parlement de Bretagne ont échappé à l'incendie de 1720 et restent le terrain de promenade le plus photogénique de la ville.`,
     whyEs: `La capital regional es el punto de partida lógico: un centro medieval compacto, un parque central de 10 hectáreas (Parc du Thabor) que admite perros con correa y terrazas por todas partes. Las calles con entramado de madera al este de la Place du Parlement de Bretagne se salvaron del incendio de 1720 y siguen siendo el terreno de paseo más fotogénico de la ciudad.`,
     whyPt: `A capital regional é o ponto de partida lógico: um centro medieval compacto, um parque central de 10 hectares (Parc du Thabor) que aceita cães com trela e esplanadas por todo o lado. As ruas em tabique a leste da Place du Parlement de Bretagne escaparam ao incêndio de 1720 e continuam a ser o terreno de passeio mais fotogénico da cidade.`,
     whyDe: `Die Regionalhauptstadt der Bretagne ist der natürliche Ausgangspunkt: ein kompaktes mittelalterliches Zentrum, ein 10 Hektar großer zentraler Park (Parc du Thabor), der Hunde an der Leine willkommen heißt, und zahlreiche Café-Terrassen. Die Fachwerkstraßen östlich der Place du Parlement de Bretagne blieben vom Brand von 1720 verschont und sind bis heute das fotogenste Gassenrevier für Hundespaziergänge der Stadt.`,
+    whyNl: `De regionale hoofdstad van Bretagne is het logische vertrekpunt: een compact middeleeuws centrum, een 10 hectare groot centraal park (Parc du Thabor) waar honden aan de lijn welkom zijn, en overal terrasjes. De vakwerkstraatjes ten oosten van de Place du Parlement de Bretagne ontsnapten aan de brand van 1720 en blijven het meest fotogenieke wandelgebied van de stad voor jou en je hond.`,
     highlightsEn: ['Parc du Thabor (10 ha, leashed dogs welcome)', 'Half-timbered medieval centre', 'La Vilaine river towpath walk'],
     highlightsFr: ['Parc du Thabor (10 ha, chiens en laisse acceptés)', 'Centre médiéval à pans de bois', `Promenade sur les bords de la Vilaine`],
     highlightsEs: ['Parc du Thabor (10 ha, perros con correa)', 'Centro medieval con entramado', 'Paseo a orillas del Vilaine'],
     highlightsPt: ['Parc du Thabor (10 ha, cães com trela)', 'Centro medieval em tabique', 'Passeio à beira do Vilaine'],
     highlightsDe: ['Parc du Thabor (10 ha, Hunde an der Leine willkommen)', 'Mittelalterliches Fachwerkzentrum', 'Spaziergang am Ufer der Vilaine'],
+    highlightsNl: ['Parc du Thabor (10 ha, honden aan de lijn welkom)', 'Middeleeuws vakwerkcentrum', 'Wandeling langs het jaagpad van de Vilaine'],
     hasDestPage: true,
     hotels: [
       {
@@ -138,6 +147,7 @@ const STOPS: Stop[] = [
         pitchEs: 'Boutique 4★ peculiar a 5 minutos a pie de la estación. Acepta perros, decoración teatral, céntrico pero tranquilo de noche.',
         pitchPt: 'Boutique 4★ peculiar a 5 minutos a pé da estação. Aceita cães, decoração teatral, central mas tranquilo à noite.',
         pitchDe: 'Schrulliges Boutique-4★-Hotel, 5 Gehminuten vom Bahnhof. Hunde willkommen, theatralische Einrichtung, zentral, aber nachts ruhig.',
+        pitchNl: 'Eigenzinnig boutique 4★-hotel op 5 minuten lopen van het station. Honden welkom, theatraal interieur, centraal maar rustig in de avond.',
       },
       {
         name: 'Mercure Rennes Centre Gare',
@@ -146,6 +156,7 @@ const STOPS: Stop[] = [
         pitchEs: 'Mercure fiable junto a la estación TGV. La cadena Mercure mantiene una política pet-friendly homogénea en Francia.',
         pitchPt: 'Mercure fiável junto à estação TGV. A cadeia Mercure mantém uma política pet-friendly homogénea em França.',
         pitchDe: 'Verlässliches Mercure direkt am TGV-Bahnhof. Die Mercure-Kette verfolgt in ganz Frankreich eine einheitliche haustierfreundliche Politik.',
+        pitchNl: 'Betrouwbaar Mercure vlak bij het TGV-station. De Mercure-keten voert overal in Frankrijk hetzelfde huisdiervriendelijke beleid.',
       },
     ],
   },
@@ -159,17 +170,20 @@ const STOPS: Stop[] = [
       es: '~70 km / 1h desde Rennes por la N137. Aparca fuera de la ciudad amurallada (intramuros) - Parking des Remparts.',
       pt: '~70 km / 1h de Rennes pela N137. Estaciona fora da cidade muralhada (intramuros) - Parking des Remparts.',
       de: '~70 km / 1 Std. Fahrt ab Rennes über die N137. Außerhalb der ummauerten Altstadt (intramuros) parken, Parking des Remparts.',
+      nl: '~70 km / 1 uur rijden vanuit Rennes via de N137. Parkeer buiten de ommuurde stad (intramuros), Parking des Remparts.',
     },
     whyEn: `The walled corsair city is the heart of the road trip. Two clear nights here let you cover the ramparts walk (2 km loop), the Plage du Sillon (Brittany's most famous beach - dogs allowed in the off-peak season, banned 1 June–30 September on the main stretch), and a day trip to either Cancale or Mont-Saint-Michel. Tides here are among the largest in Europe - check the horaire des marées before any beach walk.`,
     whyFr: `La cité corsaire fortifiée est le cœur du road trip. Deux nuits permettent de couvrir le tour des remparts (boucle de 2 km), la Plage du Sillon (la plus célèbre de Bretagne - chiens autorisés hors saison, interdits du 1ᵉʳ juin au 30 septembre sur la portion principale) et une excursion à Cancale ou au Mont-Saint-Michel. Les marées sont parmi les plus fortes d'Europe - consultez l'horaire des marées avant toute balade sur la plage.`,
     whyEs: `La ciudad corsaria amurallada es el corazón del viaje. Dos noches permiten cubrir las murallas (circuito de 2 km), la Plage du Sillon (la playa más famosa de Bretaña - perros admitidos fuera de temporada, prohibidos del 1 de junio al 30 de septiembre en el tramo principal) y una excursión a Cancale o al Mont-Saint-Michel. Las mareas están entre las más fuertes de Europa - consulta el horario antes de bajar a la playa.`,
     whyPt: `A cidade corsária muralhada é o coração da viagem. Duas noites permitem percorrer as muralhas (circuito de 2 km), a Plage du Sillon (a praia mais famosa da Bretanha - cães permitidos fora de época, proibidos de 1 de junho a 30 de setembro no troço principal) e uma excursão a Cancale ou ao Mont-Saint-Michel. As marés estão entre as mais fortes da Europa - consulta o horário antes de descer à praia.`,
     whyDe: `Die ummauerte Korsarenstadt ist das Herzstück des Roadtrips. Zwei Nächte hier reichen, um den Rundweg auf den Stadtmauern (2-km-Schleife) zu gehen, die Plage du Sillon zu besuchen (Bretagnes berühmtester Strand, Hunde außerhalb der Saison erlaubt, vom 1. Juni bis 30. September auf dem Hauptabschnitt verboten) und einen Tagesausflug nach Cancale oder zum Mont-Saint-Michel zu machen. Die Gezeiten hier gehören zu den stärksten Europas, prüfen Sie den horaire des marées vor jedem Strandspaziergang.`,
+    whyNl: `De ommuurde kapersstad is het hart van de roadtrip. Twee nachten hier geven je de tijd voor de wandeling over de stadsmuren (lus van 2 km), het Plage du Sillon (het bekendste strand van Bretagne, honden toegestaan buiten het hoogseizoen, verboden van 1 juni tot 30 september op het hoofdgedeelte) en een dagtrip naar Cancale of de Mont-Saint-Michel. De getijden hier behoren tot de sterkste van Europa, check altijd het horaire des marées voor je een strandwandeling maakt.`,
     highlightsEn: ['Ramparts walk (2 km loop, dogs on leash welcome)', 'Plage du Sillon (off-season dog beach)', 'Fort National at low tide', 'Day trip to Mont-Saint-Michel (50 km)'],
     highlightsFr: ['Tour des remparts (2 km, chiens en laisse acceptés)', 'Plage du Sillon (plage à chiens hors saison)', 'Fort National à marée basse', 'Excursion au Mont-Saint-Michel (50 km)'],
     highlightsEs: ['Murallas (2 km, perros con correa)', 'Plage du Sillon (playa con perros fuera de temporada)', 'Fort National en bajamar', 'Excursión al Mont-Saint-Michel (50 km)'],
     highlightsPt: ['Muralhas (2 km, cães com trela)', 'Plage du Sillon (praia com cães fora de época)', 'Fort National com a maré baixa', 'Excursão ao Mont-Saint-Michel (50 km)'],
     highlightsDe: ['Rundweg auf den Stadtmauern (2 km, Hunde an der Leine willkommen)', 'Plage du Sillon (Hundestrand außerhalb der Saison)', 'Fort National bei Ebbe', 'Tagesausflug zum Mont-Saint-Michel (50 km)'],
+    highlightsNl: ['Wandeling over de stadsmuren (lus van 2 km, honden aan de lijn welkom)', 'Plage du Sillon (hondenstrand buiten het seizoen)', 'Fort National bij eb', 'Dagtrip naar de Mont-Saint-Michel (50 km)'],
     hotels: [
       {
         name: 'Mercure Saint-Malo Front de Mer',
@@ -178,6 +192,7 @@ const STOPS: Stop[] = [
         pitchEs: 'Acceso directo a la Plage du Sillon, política pet-friendly Mercure, parking fácil y 15 minutos a pie del intramuros.',
         pitchPt: 'Acesso direto à Plage du Sillon, política pet-friendly Mercure, estacionamento fácil e 15 minutos a pé do intramuros.',
         pitchDe: 'Direkter Zugang zur Plage du Sillon, haustierfreundliche Kettenpolitik, unkompliziertes Parken und 15 Gehminuten bis zur Altstadt (intramuros).',
+        pitchNl: 'Directe toegang tot het Plage du Sillon, huisdiervriendelijk beleid van de keten, makkelijk parkeren en 15 minuten lopen naar de intramuros.',
       },
       {
         name: 'Grand Hôtel des Thermes',
@@ -186,6 +201,7 @@ const STOPS: Stop[] = [
         pitchEs: 'Edificio Belle Époque frente al mar con talasoterapia. Mascotas admitidas en habitación (verifica el suplemento al reservar). Etapa de lujo del viaje.',
         pitchPt: 'Edifício Belle Époque à beira-mar com talassoterapia. Animais aceites em quarto (verifica o suplemento na reserva). Etapa de luxo da viagem.',
         pitchDe: 'Belle-Époque-Wahrzeichen direkt am Meer mit Thalasso-Spa. Haustiere im Zimmer erlaubt (Gebühr bei der Buchung prüfen). Der luxuriöse Höhepunkt der Reise.',
+        pitchNl: 'Belle-Époque landmark aan zee met thalassotherapie-spa. Huisdieren toegestaan op de kamer (kosten checken bij reservering). Het luxueuze hoogtepunt van de reis.',
       },
     ],
   },
@@ -199,17 +215,20 @@ const STOPS: Stop[] = [
       es: '~15 km / 25 min por carretera vía Pont Saint-Hubert, o 10 min en lanzadera peatonal Compagnie Corsaire (perros con correa).',
       pt: '~15 km / 25 min por estrada via Pont Saint-Hubert, ou 10 min de barco de passageiros Compagnie Corsaire (cães com trela).',
       de: '~15 km / 25 Min. mit dem Auto über den Pont Saint-Hubert, oder 10 Min. mit der Personenfähre Compagnie Corsaire (Hunde an der Leine erlaubt).',
+      nl: '~15 km / 25 min met de auto via de Pont Saint-Hubert, of 10 min met de voetveer Compagnie Corsaire (honden aan de lijn toegestaan).',
     },
     whyEn: `Belle-Époque seaside resort facing Saint-Malo across the Rance estuary. The Promenade du Clair de Lune (1.5 km coastal path) and the Pointe du Moulinet are open to leashed dogs year-round. Quieter than Saint-Malo, with a softer pace ideal for an evening with the dog.`,
     whyFr: `Station balnéaire Belle Époque face à Saint-Malo, de l'autre côté de l'estuaire de la Rance. La Promenade du Clair de Lune (1,5 km en bord de mer) et la Pointe du Moulinet sont ouvertes aux chiens en laisse toute l'année. Plus calme que Saint-Malo, rythme plus doux, idéal pour une soirée avec le chien.`,
     whyEs: `Estación balnearia Belle Époque frente a Saint-Malo, al otro lado del estuario del Rance. La Promenade du Clair de Lune (1,5 km costero) y la Pointe du Moulinet admiten perros con correa todo el año. Más tranquila que Saint-Malo, ritmo más suave, ideal para una velada con el perro.`,
     whyPt: `Estância balnear Belle Époque frente a Saint-Malo, do outro lado do estuário do Rance. A Promenade du Clair de Lune (1,5 km à beira-mar) e a Pointe du Moulinet aceitam cães com trela todo o ano. Mais calma que Saint-Malo, ritmo mais suave, ideal para uma noite com o cão.`,
     whyDe: `Belle-Époque-Seebad gegenüber von Saint-Malo, auf der anderen Seite der Rance-Mündung. Die Promenade du Clair de Lune (1,5 km Küstenweg) und die Pointe du Moulinet sind das ganze Jahr über für Hunde an der Leine geöffnet. Ruhiger als Saint-Malo, mit einem gemächlicheren Tempo, ideal für einen Abend mit dem Hund.`,
+    whyNl: `Belle-Époque badplaats tegenover Saint-Malo aan de overkant van de Rance-monding. De Promenade du Clair de Lune (kustpad van 1,5 km) en de Pointe du Moulinet zijn het hele jaar open voor honden aan de lijn. Rustiger dan Saint-Malo, met een zachter tempo, ideaal voor een avond met je hond.`,
     highlightsEn: [`Promenade du Clair de Lune (1.5 km, year-round leashed)`, `Plage de l'Écluse (off-season dog beach)`, `Pointe du Moulinet viewpoint`],
     highlightsFr: [`Promenade du Clair de Lune (1,5 km, en laisse toute l'année)`, `Plage de l'Écluse (chiens hors saison)`, `Belvédère de la Pointe du Moulinet`],
     highlightsEs: [`Promenade du Clair de Lune (1,5 km, con correa todo el año)`, `Plage de l'Écluse (con perros fuera de temporada)`, `Mirador de la Pointe du Moulinet`],
     highlightsPt: [`Promenade du Clair de Lune (1,5 km, com trela todo o ano)`, `Plage de l'Écluse (cães fora de época)`, `Miradouro da Pointe du Moulinet`],
     highlightsDe: [`Promenade du Clair de Lune (1,5 km, ganzjährig an der Leine)`, `Plage de l'Écluse (Hundestrand außerhalb der Saison)`, `Aussichtspunkt Pointe du Moulinet`],
+    highlightsNl: [`Promenade du Clair de Lune (1,5 km, het hele jaar aan de lijn)`, `Plage de l'Écluse (hondenstrand buiten het seizoen)`, `Uitzichtpunt Pointe du Moulinet`],
     hotels: [
       {
         name: 'Castelbrac Hôtel & Spa',
@@ -218,6 +237,7 @@ const STOPS: Stop[] = [
         pitchEs: 'Relais & Châteaux 5★ en una villa Belle Époque sobre el acantilado, con cala privada. Mascotas a petición - llama antes.',
         pitchPt: 'Relais & Châteaux 5★ numa villa Belle Époque sobre a falésia, com enseada privada. Animais sob pedido - telefona antes.',
         pitchDe: 'Relais & Châteaux 5★ in einer Belle-Époque-Villa auf der Klippe mit privater Bucht. Haustiere auf Anfrage willkommen, bitte vorher anrufen.',
+        pitchNl: 'Relais & Châteaux 5★ in een Belle-Époque villa op de rotsen met een eigen baaitje. Huisdieren welkom op aanvraag, bel van tevoren.',
       },
       {
         name: 'Hôtel Printania',
@@ -226,6 +246,7 @@ const STOPS: Stop[] = [
         pitchEs: 'Hotel familiar clásico frente al mar y a Saint-Malo. Comedor bretón tradicional, perros admitidos con suplemento.',
         pitchPt: 'Hotel familiar clássico à beira-mar frente a Saint-Malo. Sala bretã tradicional, cães aceites com suplemento.',
         pitchDe: 'Klassisches familiengeführtes Hotel direkt am Meer, gegenüber von Saint-Malo. Traditioneller bretonischer Speisesaal, Hunde gegen Aufpreis willkommen.',
+        pitchNl: 'Klassiek familiehotel aan zee tegenover Saint-Malo. Traditionele Bretonse eetzaal, honden welkom tegen meerprijs.',
       },
     ],
   },
@@ -239,17 +260,20 @@ const STOPS: Stop[] = [
       es: '~25 km / 35 min desde Dinard por la D201 (cornisa), o 15 km / 20 min directamente desde Saint-Malo.',
       pt: '~25 km / 35 min de Dinard pela D201 (corniche), ou 15 km / 20 min diretamente de Saint-Malo.',
       de: '~25 km / 35 Min. ab Dinard über die D201 (Küstenstraße), oder 15 km / 20 Min. direkt ab Saint-Malo.',
+      nl: '~25 km / 35 min vanuit Dinard via de D201 (de kustweg), of 15 km / 20 min rechtstreeks vanuit Saint-Malo.',
     },
     whyEn: `Brittany's oyster capital and the soft-landing end of the loop. The GR34 coastal path runs all along the Pointe du Grouin headland with sweeping bay views, leashed dogs welcome year-round. Plage du Verger, 6 km north, is one of the rare year-round dog beaches in the area (off the main season the whole bay is open). Eat oysters by the dozen at the Marché aux Huîtres dockside stalls.`,
     whyFr: `Capitale ostréicole de Bretagne et fin en douceur du circuit. Le GR34 longe toute la Pointe du Grouin avec des vues plongeantes sur la baie, chiens en laisse acceptés toute l'année. La Plage du Verger, 6 km au nord, est l'une des rares plages à chiens autorisées toute l'année du secteur (hors saison toute la baie est ouverte). Huîtres à la douzaine sur le port aux Marché aux Huîtres.`,
     whyEs: `Capital ostrícola de Bretaña y final suave del circuito. El GR34 recorre toda la Pointe du Grouin con vistas a la bahía, perros con correa todo el año. Plage du Verger, 6 km al norte, es una de las pocas playas con perros todo el año (fuera de temporada toda la bahía está abierta). Ostras a docenas en el puerto, en el Marché aux Huîtres.`,
     whyPt: `Capital ostreícola da Bretanha e fim suave do circuito. O GR34 percorre toda a Pointe du Grouin com vistas sobre a baía, cães com trela todo o ano. Plage du Verger, 6 km a norte, é uma das poucas praias com cães todo o ano (fora de época toda a baía está aberta). Ostras à dúzia no porto, no Marché aux Huîtres.`,
     whyDe: `Die Austernhauptstadt der Bretagne und der sanfte Abschluss der Rundtour. Der GR34 führt am gesamten Kap Pointe du Grouin entlang mit weitem Blick über die Bucht, Hunde an der Leine sind das ganze Jahr über willkommen. Die Plage du Verger, 6 km nördlich, ist einer der wenigen ganzjährigen Hundestrände der Gegend (außerhalb der Hauptsaison ist die ganze Bucht geöffnet). Austern dutzendweise an den Ständen des Marché aux Huîtres direkt am Hafen.`,
+    whyNl: `De oesterhoofdstad van Bretagne en het rustige eindpunt van de lus. Het GR34-kustpad loopt langs de hele Pointe du Grouin met weids uitzicht over de baai, honden aan de lijn het hele jaar welkom. Plage du Verger, 6 km noordelijker, is een van de weinige hondenstranden in de omgeving die het hele jaar open zijn (buiten het hoogseizoen is de hele baai open). Eet oesters bij het dozijn aan de kraampjes van de Marché aux Huîtres op de kade.`,
     highlightsEn: [`Pointe du Grouin (GR34 coastal headland)`, `Plage du Verger (year-round dog beach)`, `Marché aux Huîtres (waterfront oyster bar)`],
     highlightsFr: [`Pointe du Grouin (GR34 sur la falaise)`, `Plage du Verger (plage à chiens toute l'année)`, `Marché aux Huîtres (bar à huîtres du port)`],
     highlightsEs: [`Pointe du Grouin (GR34 en el acantilado)`, `Plage du Verger (playa con perros todo el año)`, `Marché aux Huîtres (bar de ostras del puerto)`],
     highlightsPt: [`Pointe du Grouin (GR34 sobre a falésia)`, `Plage du Verger (praia com cães todo o ano)`, `Marché aux Huîtres (bar de ostras do porto)`],
     highlightsDe: [`Pointe du Grouin (GR34 auf dem Kliff)`, `Plage du Verger (ganzjähriger Hundestrand)`, `Marché aux Huîtres (Austernstand am Hafen)`],
+    highlightsNl: [`Pointe du Grouin (GR34 kustkaap)`, `Plage du Verger (hondenstrand het hele jaar)`, `Marché aux Huîtres (oesterbar aan het water)`],
     hotels: [
       {
         name: 'Le Continental Cancale',
@@ -258,6 +282,7 @@ const STOPS: Stop[] = [
         pitchEs: 'Clásico 3★ en el muelle, a pie del mercado de ostras. Perros admitidos con un pequeño suplemento.',
         pitchPt: 'Clássico 3★ no cais, a pé do mercado de ostras. Cães aceites com pequeno suplemento.',
         pitchDe: 'Klassisches 3★-Hotel am Kai, fußläufig zum Austernmarkt. Hunde gegen eine kleine Übernachtungsgebühr willkommen.',
+        pitchNl: 'Klassiek 3★-hotel aan de kade, op loopafstand van de oestermarkt. Honden welkom tegen een kleine meerprijs per nacht.',
       },
       {
         name: 'Auberge de la Motte Jean',
@@ -266,6 +291,7 @@ const STOPS: Stop[] = [
         pitchEs: 'Casona del siglo XVII rehabilitada a las afueras. Jardín cerrado amplio, parada final ideal para un perro tras 4 días de carretera.',
         pitchPt: 'Casa do século XVII recuperada à saída da vila. Jardim fechado amplo, paragem final ideal para um cão depois de 4 dias de estrada.',
         pitchDe: 'Renoviertes Gutshof-Hotel aus dem 17. Jahrhundert am Ortsrand. Großer umzäunter Garten, ideale letzte Station für einen Hund nach 4 Tagen unterwegs.',
+        pitchNl: 'Gerenoveerd 17e-eeuws boerderijhotel net buiten het dorp. Grote omheinde tuin, ideale laatste stop voor een hond na 4 dagen onderweg.',
       },
     ],
   },
@@ -427,6 +453,37 @@ const COPY = {
       { q: 'Ist mein Hund in Restaurants willkommen?', a: 'Die Terrassen in der Bretagne sind sehr hundefreundlich. Ob der Hund auch drinnen erlaubt ist, hängt vom jeweiligen Lokal ab, am besten fragen. Der Marché aux Huîtres in Cancale liegt unter freiem Himmel direkt am Hafen, perfekt mit Hund.' },
     ],
   },
+  nl: {
+    dayLabels: ['Dag 1', 'Dag 2 & 3', 'Dag 4', 'Dag 5'],
+    dayLabelsShort: ['Dag 1', 'Dag 2–3', 'Dag 4', 'Dag 5'],
+    checkAvailability: 'Beschikbaarheid bekijken →',
+    browseAll: (city: string) => `Bekijk alle huisdiervriendelijke hotels in ${city} →`,
+    eyebrow: '5-daagse huisdiervriendelijke roadtrip door Bretagne',
+    title: 'Roadtrip door Bretagne met je hond: 5 dagen, 4 stops, 1 lus',
+    intro: `Noord-Bretagne verenigt vier heel verschillende hondvriendelijke stops in een lus van 200 km die je comfortabel in vijf dagen rijdt. We hebben elke stad gekoppeld aan de juiste verblijfsduur, per stop twee geverifieerde hotels gekozen en de seizoensgebonden strandregels genoteerd waar elke bezoeker de eerste keer intrapt. De afstanden zijn kort, de ritten schilderachtig, en je hond is bijna overal welkom buiten het zomerse strandverbod.`,
+    stats: ['5 dagen', '~200 km totale rit', '4 stops · 4 nachten', 'Honden welkom in elk hotel'],
+    routeHeading: 'De route in één oogopslag',
+    mapHeading: 'Interactieve kaart',
+    mapNote: 'Verschuif en zoom, elke blauwe marker is een geverifieerd huisdiervriendelijk hotel.',
+    itineraryHeading: 'Dagindeling',
+    nightsLabel: (n: number) => `${n} ${n > 1 ? 'nachten' : 'nacht'}`,
+    driveLabel: 'Onderweg',
+    highlightsLabel: 'Niet te missen',
+    hotelsLabel: 'Waar je slaapt',
+    practicalHeading: 'Praktische info voor je vertrekt',
+    practical: [
+      { h: 'Strandregels', p: `De meeste gemeentelijke stranden in Bretagne verbieden honden tussen 1 juni en 30 september. Buiten die periode zijn honden aan de lijn bijna overal toegestaan. De uitzonderingen waar honden het hele jaar welkom zijn, staan hierboven vermeld.` },
+      { h: 'Getijden', p: 'De getijden hier behoren tot de sterkste van Europa (tot 13 m). Check altijd het horaire des marées voordat je op een strand gaat wandelen, het zand kan binnen enkele minuten verdwijnen.' },
+      { h: 'Autorijden met je hond', p: 'De Franse wet schrijft voor dat honden in de auto vastgezet moeten zijn (harnas, bench of scheidingsrek). Hitte is het grootste risico in de zomer, laat je hond nooit achter in een geparkeerde auto, ook niet met een raampje op een kier.' },
+      { h: 'Dierenarts spoedgevallen', p: 'Saint-Malo: Clinique Vétérinaire de la Roche, 02 99 81 22 22. Rennes: ChronoVet Atlantia, 02 99 14 91 91 (24u).' },
+    ],
+    faqHeading: 'Veelgestelde vragen',
+    faq: [
+      { q: 'Kan ik deze trip zonder auto doen?', a: `Rennes ligt aan de TGV-lijn vanuit Parijs en Saint-Malo is rechtstreeks bereikbaar met de TER-trein (1u). Dinard en Cancale zijn lastiger zonder auto, de veerpont van de Compagnie Corsaire verbindt Saint-Malo en Dinard (10 min), maar voor Cancale heb je een lokale bus nodig (lijn 14) die kleine honden alleen in een draagtas toelaat. Een huurauto voor dag 2 tot 5 is de comfortabele optie.` },
+      { q: 'Beste seizoen om dit met je hond te doen?', a: 'Mei tot half juni en september tot half oktober. Mild weer, het strandverbod is opgeheven, terrasjes zijn open, en het is veel rustiger dan in juli en augustus. De winter kan ook, maar dan sluiten meerdere seizoensgebonden restaurants.' },
+      { q: 'Is mijn hond welkom in restaurants?', a: 'De terrassen in Bretagne zijn erg hondvriendelijk. Of je binnen mag zitten, hangt van de zaak af, gewoon even vragen. De Marché aux Huîtres in Cancale is een openluchtmarkt aan de kade, perfect met een hond.' },
+    ],
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -485,6 +542,7 @@ export default async function Page({
     if (locale === 'es') return { why: s.whyEs, hl: s.highlightsEs, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchEs })) }
     if (locale === 'pt') return { why: s.whyPt, hl: s.highlightsPt, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchPt })) }
     if (locale === 'de') return { why: s.whyDe, hl: s.highlightsDe, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchDe })) }
+    if (locale === 'nl') return { why: s.whyNl, hl: s.highlightsNl, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchNl })) }
     return { why: s.whyEn, hl: s.highlightsEn, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchEn })) }
   }
 

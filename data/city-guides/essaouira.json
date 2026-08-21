@@ -41,9 +41,13 @@
           "tipPt": "A tarde em Taros (18h00-20h00) quando o sol se põe atrás das paredes branco-azuis da medina é um dos melhores momentos em Essaouira; o vento Alizé baixa no início da tarde, os cães podem relaxar, e o ambiente é electrizante",
           "googleMapsUrl": "https://maps.google.com/?q=Taros+Cafe+Essaouira",
           "descriptionDe": "Eine Dachterrassen-Institution in Essaouira seit 1993: ein künstlerisches Café-Restaurant am Hauptplatz mit offener Terrasse, das zum sozialen Treffpunkt der Expat- und Kreativszene Essaouiras geworden ist. Hunde sind hier auf der Terrasse ein gewohnter Anblick. Die Karte umfasst marokkanische Fusionsküche, Cocktails und abends Live-Musik (die Gnawa-Musikfestivals ziehen internationales Publikum an). Die Terrasse blickt auf den belebten Place Moulay Hassan und die weiß-blaue Medina.",
+          "descriptionNl": "Een dakterrasinstituut in Essaouira sinds 1993: een artistiek café-restaurant aan het hoofdplein met een open terras, uitgegroeid tot het sociale trefpunt van de expat- en creatieve scene van Essaouira. Honden zijn hier op het terras een vertrouwd gezicht. De kaart omvat Marokkaanse fusionkeuken, cocktails en 's avonds livemuziek (de Gnawa-muziekfestivals trekken internationaal publiek). Het terras kijkt uit op het levendige Place Moulay Hassan en de wit-blauwe medina.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Kefta-Tajine, lokale gegrillte Sardinen, Ziegenkäse aus Essaouira, kalter marokkanischer Minztee oder Casablanca-Bier",
-          "tipDe": "Der Abend im Taros (18:00-20:00 Uhr) bei Sonnenuntergang hinter den blau-weißen Medinamauern ist einer der schönsten Momente in Essaouira; der Alizé-Wind lässt am frühen Abend nach, Hunde können entspannen, und die Atmosphäre ist elektrisierend"
+          "mustTryNl": "Kefta-tajine, lokale gegrilde sardines, geitenkaas uit Essaouira, koude Marokkaanse muntthee of Casablanca-bier",
+          "tipDe": "Der Abend im Taros (18:00-20:00 Uhr) bei Sonnenuntergang hinter den blau-weißen Medinamauern ist einer der schönsten Momente in Essaouira; der Alizé-Wind lässt am frühen Abend nach, Hunde können entspannen, und die Atmosphäre ist elektrisierend",
+          "tipNl": "De avond in Taros (18:00-20:00 uur) bij zonsondergang achter de blauw-witte medinamuren is een van de mooiste momenten in Essaouira; de Alizé-wind neemt vroeg in de avond af, honden kunnen ontspannen, en de sfeer is elektrisch"
         }
       ],
       "tipsEn": [
@@ -107,7 +111,9 @@
         }
       ],
       "titleDe": "Mit Hund essen gehen in Essaouira",
+      "titleNl": "Uit eten met hond in Essaouira",
       "introDe": "Essaouira ist Marokkos hundefreundlichste Stadt. Die entspannte Surfkultur, die große europäische und marokkanische Expat-Gemeinschaft sowie die offenen, windumwehten Terrassen rund um Hafen und Stadtmauer machen es wirklich einfach, mit Hund essen zu gehen. Viele Café- und Restaurantterrassen in der Medina und entlang der Strandpromenade akzeptieren Hunde ohne Probleme.",
+      "introNl": "Essaouira is de hondvriendelijkste stad van Marokko. De ontspannen surfcultuur, de grote Europese en Marokkaanse expatgemeenschap en de open, winderige terrassen rond de haven en de stadsmuur maken het echt makkelijk om met hond uit eten te gaan. Veel café- en restaurantterrassen in de medina en langs de strandpromenade accepteren honden zonder problemen.",
       "faqsDe": [
         {
           "q": "Ist Essaouira hundefreundlicher als Marrakesch?",
@@ -116,6 +122,16 @@
         {
           "q": "Kann ich in Essaouira gefahrlos Meeresfrüchte mit meinem Hund essen?",
           "a": "Ja, bei einfach gegrilltem Fisch (ohne Zwiebel, Knoblauch oder schwere Gewürzsaucen). Die Grillstände am Hafen bereiten Fisch schlicht zu; bestellen Sie einfach gegrillte Sardine oder Wolfsbarsch ohne Sauce. Schalentiere und Tintenfisch werden für Hunde nicht empfohlen. Meiden Sie Tajine-Saucen mit eingelegter Zitrone, Zwiebel und Gewürzmischungen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Essaouira hondvriendelijker dan Marrakesh?",
+          "a": "Aanmerkelijk hondvriendelijker. Essaouira heeft een decennialange expat- en creatieve scene en een surfcultuur die honden in de openbare ruimte normaliseert. Honden lopen aan de lijn door de medina, langs de havenmuren en op het strand, zonder de culturele wrijving die je in conservatievere Marokkaanse steden ervaart. Het is de beste Marokkaanse basisstad om met hond te reizen."
+        },
+        {
+          "q": "Kan ik in Essaouira zonder risico zeevruchten eten met mijn hond erbij?",
+          "a": "Ja, bij eenvoudig gegrilde vis (zonder ui, knoflook of zware kruidensauzen). De grillkraampjes bij de haven bereiden vis eenvoudig; bestel gewoon gegrilde sardine of zeebaars zonder saus. Schaaldieren en inktvis worden niet aangeraden voor honden. Vermijd tajinesauzen met ingelegde citroen, ui en kruidenmengsels."
         }
       ]
     },
@@ -150,8 +166,11 @@
           "tipPt": "O vento Alizé é mais forte ao meio-dia (20-35 nós); manhãs e tardes são mais calmas para os cães. A praia está no seu melhor durante a hora dourada antes do pôr do sol quando a luz atlântica tinge a areia de âmbar e as montanhas do Atlas aparecem no horizonte em dias claros",
           "googleMapsUrl": "https://maps.google.com/?q=Essaouira+Beach+Morocco",
           "descriptionDe": "Ein 14 km langer Atlantikstrand, der wohl der beste Hundestrand Marokkos ist. Kein saisonales Verbot, keine Sperrzonen für Hunde, und der beständige Atlantik-Passatwind (der Alizé) hält die Temperaturen ganzjährig angenehm. Der Strand ist breit und nahe der Wasserlinie fest, ideal zum Rennen. Südlich der Medinamauern laufen Hunde frei ohne Leine. Der Wind macht Frisbee- und Ballspiele spektakulär; die Wellen sind gleichmäßig (2-4 m Dünung), doch nahe der Küste gibt es eine ruhige Zone.",
+          "descriptionNl": "Een 14 km lang Atlantisch strand dat wellicht het beste hondenstrand van Marokko is. Geen seizoensverbod, geen verboden zones voor honden, en de gestage Atlantische passaatwind (de Alizé) houdt de temperaturen het hele jaar door aangenaam. Het strand is breed en dicht bij de waterlijn stevig, ideaal om te rennen. Zuidelijk van de medinamuren lopen honden vrij zonder lijn. De wind maakt frisbee- en balspelletjes spectaculair; de golven zijn gelijkmatig (2-4 m deining), maar dicht bij de kust is er een rustige zone.",
           "petPolicyDe": "Freilauf ohne Leine erlaubt, keine saisonalen Einschränkungen",
-          "tipDe": "Der Alizé-Wind ist mittags am stärksten (20-35 Knoten); morgens und abends ist es ruhiger für Hunde. Am schönsten ist der Strand zur goldenen Stunde vor Sonnenuntergang, wenn das Atlantiklicht den Sand bernsteinfarben färbt und an klaren Tagen die Atlasberge am Horizont erscheinen"
+          "petPolicyNl": "Los lopen zonder lijn toegestaan, geen seizoensbeperkingen",
+          "tipDe": "Der Alizé-Wind ist mittags am stärksten (20-35 Knoten); morgens und abends ist es ruhiger für Hunde. Am schönsten ist der Strand zur goldenen Stunde vor Sonnenuntergang, wenn das Atlantiklicht den Sand bernsteinfarben färbt und an klaren Tagen die Atlasberge am Horizont erscheinen",
+          "tipNl": "De Alizé-wind is 's middags het sterkst (20-35 knopen); 's ochtends en 's avonds is het rustiger voor honden. Het strand is het mooist tijdens het gouden uur voor zonsondergang, wanneer het Atlantische licht het zand amberkleurig kleurt en op heldere dagen het Atlasgebergte aan de horizon verschijnt"
         }
       ],
       "tipsEn": [
@@ -215,7 +234,9 @@
         }
       ],
       "titleDe": "Strände & Naturräume in Essaouira",
+      "titleNl": "Stranden & natuurgebieden in Essaouira",
       "introDe": "Essaouiras größter Trumpf für Reisen mit Hund ist sein prächtiger Atlantikstrand: 14 km windgepeitschter Sand ohne saisonales Hundeverbot. Der Strand verläuft südlich von der Medina bis zum Kap Cap Sim. Formelle Hundeparks gibt es nicht; der Strand sowie der umliegende Arganwald und die Dünenpfade sind hier das Revier für Hundespaziergänge.",
+      "introNl": "Essaouiras grootste troef om met hond te reizen is zijn prachtige Atlantische strand: 14 km winderig zand zonder seizoensverbod voor honden. Het strand loopt zuidelijk van de medina tot aan Cap Sim. Formele hondenparken zijn er niet; het strand plus het omliggende arganwoud en de duinpaden vormen hier het territorium voor hondenwandelingen.",
       "faqsDe": [
         {
           "q": "Ist der Strand von Essaouira ganzjährig gut für Hunde?",
@@ -224,6 +245,16 @@
         {
           "q": "Kann mein Hund im Atlantik von Essaouira gefahrlos schwimmen?",
           "a": "In ruhigen Phasen ja, unter Aufsicht. Der Strand von Essaouira hat starke Atlantikdünung (2-4 m an windigen Tagen), und Rippströmungen sind möglich. Die sicherste Schwimmzone liegt unmittelbar südlich der Medinamauern, wo die Mole teilweisen Wellenschutz bietet. Die Flussmündung des Oued Ksob bei Diabat (7 km südlich) ist die ruhigste Option zum Schwimmen mit Hund."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is het strand van Essaouira het hele jaar door goed voor honden?",
+          "a": "Ja, het is een van de beste hondenstranden van Noord-Afrika, het hele jaar door. Geen seizoensverbod, doorlopend gematigde Atlantische temperaturen (17-25 °C aan het strand zelf in de zomer dankzij de koude Canarische Stroom), en de gestage Alizé-wind zorgt dat het strand in de zomer aanzienlijk koeler aanvoelt dan Marrakesh. Het strand is het mooist van maart tot mei en van september tot november, wanneer de wind gematigd is en het licht perfect staat."
+        },
+        {
+          "q": "Kan mijn hond zonder risico zwemmen in de Atlantische Oceaan bij Essaouira?",
+          "a": "In rustige periodes wel, onder toezicht. Het strand van Essaouira heeft sterke Atlantische deining (2-4 m op winderige dagen), en muistromen zijn mogelijk. De veiligste zwemzone ligt direct zuidelijk van de medinamuren, waar de pier gedeeltelijke golfbescherming biedt. De riviermonding van de Oued Ksob bij Diabat (7 km zuidelijk) is de rustigste optie om met hond te zwemmen."
         }
       ]
     },
@@ -302,7 +333,9 @@
         }
       ],
       "titleDe": "Anreise nach Essaouira mit Hund",
+      "titleNl": "Naar Essaouira reizen met hond",
       "introDe": "Essaouira hat einen kleinen Regionalflughafen (ESU/Mogador Airport) mit begrenzten Direktflügen. Die praktischsten Routen aus Europa führen über Marrakesch (175 km, 2,5 Std. Fahrt) oder über Agadir (173 km, 2 Std. Fahrt). Die meisten Reisenden mit Hund fliegen nach Marrakesch oder Agadir und mieten dort ein Auto oder ein Grand Taxi nach Essaouira.",
+      "introNl": "Essaouira heeft een klein regionaal vliegveld (ESU/Mogador Airport) met beperkte directe vluchten. De praktischste routes vanuit Europa lopen via Marrakesh (175 km, 2,5 uur rijden) of via Agadir (173 km, 2 uur rijden). De meeste reizigers met hond vliegen naar Marrakesh of Agadir en huren daar een auto of een grand taxi naar Essaouira.",
       "faqsDe": [
         {
           "q": "Kann ich mit dem CTM-Bus von Marrakesch nach Essaouira mit meinem Hund fahren?",
@@ -311,6 +344,16 @@
         {
           "q": "Gibt es einen Direktflug von Europa nach Essaouira?",
           "a": "Der Mogador Airport (ESU) hat begrenzte saisonale Direktflüge aus Frankreich (vor allem ab Paris und Toulouse mit Charterflügen) und gelegentlich aus Großbritannien. Für die meisten europäischen Reisenden ist ein Flug nach Marrakesch (RAK) oder Agadir (AGA) mit anschließender Fahrt nach Essaouira zuverlässiger und bietet eine bessere Flugauswahl."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik met de CTM-bus van Marrakesh naar Essaouira reizen met mijn hond?",
+          "a": "Het beleid van CTM ten aanzien van honden is wisselend; kleine honden in een draagtas worden doorgaans geaccepteerd, grote honden zijn niet toegestaan in de passagiersruimte. Voor de meeste hondenbezitters is een huurauto of een gehuurde grand taxi voor de rit van 2,5 uur tussen Marrakesh en Essaouira de praktischste optie."
+        },
+        {
+          "q": "Is er een directe vlucht van Europa naar Essaouira?",
+          "a": "Mogador Airport (ESU) heeft beperkte seizoensgebonden directe vluchten vanuit Frankrijk (vooral vanaf Parijs en Toulouse met chartervluchten) en soms vanuit het Verenigd Koninkrijk. Voor de meeste Europese reizigers is een vlucht naar Marrakesh (RAK) of Agadir (AGA) met aansluitend een rit naar Essaouira betrouwbaarder en biedt het meer vluchtkeuze."
         }
       ]
     },
@@ -385,7 +428,9 @@
         }
       ],
       "titleDe": "Strände & Küstenwanderungen in Essaouira",
+      "titleNl": "Stranden & kustwandelingen in Essaouira",
       "introDe": "Essaouiras Atlantikküste ist für Reisen mit Hund außergewöhnlich. Der 14 km lange Hauptstrand hat keine Einschränkungen für Hunde, und der Küstenstreifen südlich bis Cap Sim ist wild, menschenleer und durchgehend ohne Leine begehbar. Das ist das definierende Erlebnis für Hundereisen in Marokko.",
+      "introNl": "De Atlantische kust van Essaouira is uitzonderlijk om met hond te reizen. Het 14 km lange hoofdstrand kent geen beperkingen voor honden, en de kuststrook zuidelijk tot Cap Sim is wild, verlaten en overal zonder lijn te belopen. Dat is de bepalende ervaring voor hondenreizen in Marokko.",
       "faqsDe": [
         {
           "q": "Ist der Strand von Essaouira für Hunde sicher vor Quallen?",
@@ -394,6 +439,16 @@
         {
           "q": "Sind Pferde am Strand von Essaouira ein Problem für Hunde?",
           "a": "Kutschpferde und Reitpferde sind am Strand unterwegs, besonders auf dem festen Sand nahe den Medinamauern. Die meisten sind gut ausgebildet, doch manche Hunde reagieren stark auf Pferde. Führen Sie Ihren Hund an einer langen Leine über den weicheren Sand weiter von der Medina entfernt, bis Sie wissen, wie Ihr Hund auf die Pferde reagiert."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is het strand van Essaouira veilig voor honden wat kwallen betreft?",
+          "a": "De Portugese oorlogsman (Physalia) en gewone kwallen (Medusa) spoelen af en toe laat in de zomer (augustus-september) aan bij het strand van Essaouira, wanneer de Canarische Stroom verschuift. Controleer de waterlijn voordat je je hond laat lopen; als er kwallen zijn, houd honden dan bij de waterrand vandaan. De koude Canarische Stroom zorgt ervoor dat kwallenbloei hier zeldzamer is dan aan de Middellandse Zeekust."
+        },
+        {
+          "q": "Zijn paarden op het strand van Essaouira een probleem voor honden?",
+          "a": "Koetspaarden en rijpaarden zijn op het strand te vinden, vooral op het stevige zand dicht bij de medinamuren. De meeste zijn goed getraind, maar sommige honden reageren sterk op paarden. Loop met je hond aan een lange lijn over het zachtere zand verder van de medina vandaan, tot je weet hoe je hond op de paarden reageert."
         }
       ]
     },
@@ -472,7 +527,9 @@
         }
       ],
       "titleDe": "Tierärzte in Essaouira",
+      "titleNl": "Dierenartsen in Essaouira",
       "introDe": "Essaouira hat ein bis zwei Tierarztpraxen in der Neustadt. Für das EU-Gesundheitszeugnis zur Rückreise muss ein von der ONSSA zugelassener Tierarzt das Dokument innerhalb von 10 Tagen vor Abreise ausstellen. Fragen Sie Ihren Riad-Besitzer oder die lokale Expat-Gemeinschaft nach der aktuellen Empfehlung; die Kontaktdaten der Tierärzte ändern sich häufig.",
+      "introNl": "Essaouira heeft een of twee dierenartspraktijken in de nieuwe stad. Voor het EU-gezondheidscertificaat voor de terugreis moet een door ONSSA erkende dierenarts het document binnen 10 dagen voor vertrek afgeven. Vraag je riad-eigenaar of de lokale expatgemeenschap naar de actuele aanbeveling; de contactgegevens van dierenartsen wijzigen regelmatig.",
       "faqsDe": [
         {
           "q": "Was tue ich, wenn mein Hund am Strand von Essaouira weit von der Medina entfernt verletzt wird?",
@@ -481,6 +538,16 @@
         {
           "q": "Gibt es einen 24-Stunden-Notfalltierarzt in Essaouira?",
           "a": "Nicht zuverlässig. Marrakesch und Agadir sind die nächstgelegenen Städte mit 24-Stunden-Notfallversorgung für Tiere. Bei einem Aufenthalt in Essaouira fragen Sie bei Ankunft Ihre Unterkunft nach dem aktuellen Notfalltierarzt-Kontakt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat doe ik als mijn hond gewond raakt op het strand van Essaouira, ver van de medina?",
+          "a": "Bel je accommodatie voor het actuele dierenartscontact. Bij ernstige verwondingen rijd je direct naar Marrakesh of Agadir (beide minder dan 2,5 uur verwijderd). Neem een eerstehulpset voor huisdieren mee (wondverband, antisepticum, pincet voor doorns van arganbomen). Zandschaafwonden van het lopen op het strand drogen snel uit en genezen vlot; spoelen met zeewater werkt goed bij kleine wondjes."
+        },
+        {
+          "q": "Is er een 24-uurs spoeddierenarts in Essaouira?",
+          "a": "Niet betrouwbaar. Marrakesh en Agadir zijn de dichtstbijzijnde steden met 24-uurs spoedzorg voor dieren. Vraag bij aankomst in Essaouira je accommodatie naar het actuele contact voor een spoeddierenarts."
         }
       ]
     },
@@ -556,7 +623,9 @@
         }
       ],
       "titleDe": "Wichtige Tipps für den Besuch von Essaouira mit Hund",
+      "titleNl": "Belangrijke tips voor een bezoek aan Essaouira met hond",
       "introDe": "Essaouira ist das mühelos hundefreundlichste Reiseziel Marokkos. Die weltoffene, international geprägte Kultur, der windgekühlte Atlantikstrand und die breite Promenade auf der Stadtmauer der Medina machen es zu einem echten Vergnügen. Ein paar praktische Dinge sollten Sie vor der Anreise wissen.",
+      "introNl": "Essaouira is de moeiteloos hondvriendelijkste bestemming van Marokko. De wereldse, internationaal getinte cultuur, het door de wind verkoelde Atlantische strand en de brede promenade op de stadsmuur van de medina maken het een echt genoegen. Een paar praktische dingen moet je weten voordat je vertrekt.",
       "faqsDe": [
         {
           "q": "Was ist die beste Jahreszeit für einen Besuch in Essaouira mit Hund?",
@@ -565,6 +634,16 @@
         {
           "q": "Ist die Medina von Essaouira mit einem großen Hund leicht zu bewältigen?",
           "a": "Die Medina von Essaouira hat im Vergleich zu Marrakesch oder Fès ungewöhnlich breite Gassen; die Hauptachse (Avenue de l'Istiqal) und die zum Hafen führenden Straßen sind breit genug für einen großen Hund. In den belebtesten Souks werden die Gassen enger. Die Promenade auf der Stadtmauer (das Gehen auf der Krone der Medinamauern) ist der beste Hundespaziergang in der Medina selbst: breit, offen und mit spektakulärem Blick auf Ozean und Stadt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat is het beste seizoen voor een bezoek aan Essaouira met hond?",
+          "a": "Maart tot mei en september tot november zijn ideaal: aangename temperaturen (20-25 °C), matige wind, weinig toeristen en het strand in het beste licht. De zomer (juni-augustus) is het hoofdwindseizoen (uitstekend voor kitesurfen), maar kan met de middagvlagen vermoeiend zijn voor honden. De winter (december-februari) is naar Europese maatstaven mild (16-20 °C), en het strand is vaak leeg; een goed seizoen om met hond te reizen als je wat regen op de koop toe neemt."
+        },
+        {
+          "q": "Is de medina van Essaouira makkelijk te doen met een grote hond?",
+          "a": "De medina van Essaouira heeft in vergelijking met Marrakesh of Fez ongewoon brede steegjes; de hoofdas (Avenue de l'Istiqal) en de straten naar de haven zijn breed genoeg voor een grote hond. In de drukste souks worden de steegjes smaller. De promenade op de stadsmuur (lopen op de kroonlijst van de medinamuren) is de beste hondenwandeling in de medina zelf: breed, open en met spectaculair zicht op oceaan en stad."
         }
       ]
     },
@@ -639,7 +718,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Essaouira",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Essaouira",
       "introDe": "Essaouiras berühmteste Sehenswürdigkeiten sind die blau-weißen Medinamauern, die Skala du Port (Seebastion mit Kanonen) und der Fischereihafen. Alle sind mit Hund an der Leine zugänglich. Die Medina ist UNESCO-Weltkulturerbe: Die portugiesisch geprägten Stadtmauern aus dem 18. Jahrhundert lassen sich kostenlos begehen und bieten Panoramablick auf den Ozean.",
+      "introNl": "Essaouiras beroemdste bezienswaardigheden zijn de blauw-witte medinamuren, de Skala du Port (zeebastion met kanonnen) en de vissershaven. Alle zijn toegankelijk met hond aan de lijn. De medina is UNESCO-werelderfgoed: de door Portugal beïnvloede stadsmuren uit de 18e eeuw zijn gratis te belopen en bieden panoramisch zicht op de oceaan.",
       "faqsDe": [
         {
           "q": "Kann ich mit meinem Hund auf den Medinamauern spazieren gehen?",
@@ -648,6 +729,16 @@
         {
           "q": "Gibt es in Essaouira Innensehenswürdigkeiten, die mit Hund lohnenswert sind?",
           "a": "Das Museum Sidi Mohammed ben Abdallah (Musikinstrumente und Handwerk) erlaubt keine Hunde im Inneren, doch der Außenhof lässt sich vom Eingang aus betrachten. Die lohnendsten Sehenswürdigkeiten mit Hund in Essaouira sind allesamt im Freien: die Stadtmauern, der Hafen, der Strand und der Arganwald."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik met mijn hond over de medinamuren wandelen?",
+          "a": "Ja, de Skala de la Ville (zeebastion, vrije toegang vanuit de medina) heeft bovenop een brede loopweg die voor iedereen open is. Honden aan de lijn zijn welkom. Dit is de beste bezienswaardigheid in Essaouira en een van de weinige stadsmuurwandelingen in Marokko waar een hond zich helemaal op zijn gemak voelt."
+        },
+        {
+          "q": "Zijn er in Essaouira binnenbezienswaardigheden die de moeite waard zijn met hond?",
+          "a": "Het museum Sidi Mohammed ben Abdallah (muziekinstrumenten en ambacht) laat geen honden binnen toe, maar de buitenplaats is vanaf de ingang te bekijken. De meest de moeite waarde bezienswaardigheden met hond in Essaouira zijn allemaal buiten: de stadsmuren, de haven, het strand en het arganwoud."
         }
       ]
     },
@@ -722,7 +813,9 @@
         }
       ],
       "titleDe": "Hundebetreuung in Essaouira",
+      "titleNl": "Hondenoppas in Essaouira",
       "introDe": "Essaouiras Expat-Gemeinschaft ist Ihre beste Anlaufstelle für Hundebetreuung. Die Facebook-Gruppe 'Essaouira Expats' und die größere Gruppe 'Morocco Expats' sind aktiv und englischsprachig freundlich. Viele Riad-Besitzer mit privaten Gärten passen auf Ihren Hund auf, während Sie einen Hamam-Nachmittag oder eine Surfstunde genießen.",
+      "introNl": "Essaouiras expatgemeenschap is jouw beste aanspreekpunt voor hondenoppas. De Facebookgroep 'Essaouira Expats' en de grotere groep 'Morocco Expats' zijn actief en Engelstalig vriendelijk. Veel riad-eigenaren met een privétuin passen op je hond terwijl je geniet van een middag hamam of een surfles.",
       "faqsDe": [
         {
           "q": "Ist es in Essaouira sicher, meinen Hund vor einem Café angebunden zu lassen, während ich drinnen stöbere?",
@@ -731,6 +824,16 @@
         {
           "q": "Gibt es Hundehotels (Pensionen) in Essaouira?",
           "a": "Keine spezialisierten Hundepensionen; Essaouira ist eine kleine Stadt. Hundefreundliche Riads mit privatem Garten sind die praktische Lösung für Halter, die während Tagesausflügen eine sichere Unterbringung wünschen. Die Facebook-Gruppe 'Essaouira Expats' kann Ihnen bei längerer Abwesenheit zuverlässige Tiersitter vermitteln."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is het veilig om mijn hond in Essaouira vastgebonden bij een café te laten wachten terwijl ik binnen rondkijk?",
+          "a": "Ja, Essaouira is een veilige stad om een hond aan een paal vast te binden voor een café op de hoofdpleinen en de strandpromenade. De toeristische straten zijn goed overzichtelijk. In de nauwere souksteegjes van de medina is meer drukte, en honden kunnen angstig worden; de strandterrassen en de straten van de nieuwe stad (vergelijkbaar met Guéliz) zijn beter geschikt."
+        },
+        {
+          "q": "Zijn er hondenhotels (pensions) in Essaouira?",
+          "a": "Geen gespecialiseerde hondenpensions; Essaouira is een kleine stad. Hondvriendelijke riads met een privétuin zijn de praktische oplossing voor eigenaren die tijdens dagtochten een veilige opvang willen. De Facebookgroep 'Essaouira Expats' kan je bij langere afwezigheid in contact brengen met betrouwbare dierenoppassers."
         }
       ]
     }

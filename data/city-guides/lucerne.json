@@ -39,9 +39,13 @@
           "mustTryPt": "Plateau d'huîtres, entrecôte café de Paris, tarte tatin",
           "tipPt": "Reserve um banco de canto para dois, o espaço é estreito, por isso os cães médios a grandes acomodam-se melhor entre a parede do fundo e o balcão.",
           "descriptionDe": "Pariser Brasserie versteckt hinter dem Kornmarkt mit roten Lederbänken, Austern, Steak frites und einer der ernsthaftesten Weinkarten Luzerns. Ein langjähriger Fixpunkt unter den frankophonen Gästen der Stadt.",
+          "descriptionNl": "Parijse brasserie verstopt achter de Kornmarkt met rode leren bankjes, oesters, steak frites en een van de meest serieuze wijnkaarten van Luzern. Al jarenlang een vaste waarde onder de Franstalige gasten van de stad.",
           "petPolicyDe": "Angeleinte Hunde willkommen auf der Terrasse und im Speisesaal",
+          "petPolicyNl": "Aangelijnde honden welkom op het terras en in de eetzaal",
           "mustTryDe": "Plateau d'huîtres, Entrecôte café de Paris, Tarte Tatin",
-          "tipDe": "Reservieren Sie eine Ecknische für zwei, der schmale Raum bedeutet, dass mittelgroße bis große Hunde leichter zwischen Rückwand und Bar Platz finden."
+          "mustTryNl": "Plateau d'huîtres, entrecôte café de Paris, tarte tatin",
+          "tipDe": "Reservieren Sie eine Ecknische für zwei, der schmale Raum bedeutet, dass mittelgroße bis große Hunde leichter zwischen Rückwand und Bar Platz finden.",
+          "tipNl": "Reserveer een hoekbankje voor twee, de smalle ruimte betekent dat middelgrote tot grote honden makkelijker passen tussen de achterwand en de bar."
         },
         {
           "name": "Restaurant Bündnerland",
@@ -69,9 +73,13 @@
           "mustTryPt": "Capuns, Bündner Pizokel, tábua de Bündnerfleisch",
           "tipPt": "Encerra domingo e segunda-feira, e os capuns esgotam por volta das 13:00 ao almoço de sábado. Chegue ao meio-dia em ponto.",
           "descriptionDe": "Kleines Bündner Gasthaus drei Blocks südlich des Bahnhofs, serviert Capuns, Pizokel, Bündnerfleisch und rustikale alpine Spezialitäten in einer holzvertäfelten Stube. Familienbetrieb, offen stolz darauf, eine der hundefreundlichsten Adressen der Stadt zu sein.",
+          "descriptionNl": "Klein Graubündens gasthuis drie straten ten zuiden van het station, serveert capuns, pizokel, bündnerfleisch en rustieke alpiene specialiteiten in een houten stube. Familiebedrijf, trots op het feit dat het een van de hondvriendelijkste adressen van de stad is.",
           "petPolicyDe": "Hunde ganzjährig drinnen willkommen; Wassernapf wird bei Ankunft serviert",
+          "petPolicyNl": "Honden het hele jaar door welkom binnen; waterbak wordt bij aankomst geserveerd",
           "mustTryDe": "Capuns, Bündner Pizokel, Bündnerfleisch-Teller",
-          "tipDe": "Sonntag und Montag geschlossen, und die Capuns sind samstags mittags oft schon um 13 Uhr ausverkauft. Kommen Sie pünktlich um 12 Uhr."
+          "mustTryNl": "Capuns, Bündner pizokel, bündnerfleisch-bord",
+          "tipDe": "Sonntag und Montag geschlossen, und die Capuns sind samstags mittags oft schon um 13 Uhr ausverkauft. Kommen Sie pünktlich um 12 Uhr.",
+          "tipNl": "Zondag en maandag gesloten, en de capuns zijn op zaterdagmiddag vaak al om 13 uur uitverkocht. Kom stipt om 12 uur."
         },
         {
           "name": "Restaurant Wirtshaus Galliker",
@@ -99,9 +107,13 @@
           "mustTryPt": "Chügelipastetli, kuttelsuppe de Lucerna, tarte de maçã Galliker",
           "tipPt": "Preferem dinheiro e a reserva é imprescindível depois das 19:30; os cães pequenos encaixam debaixo das mesas de canto, os grandes ficam melhor na sala dos fundos.",
           "descriptionDe": "Familiengeführte Luzerner Institution seit 1856, berühmt für Chügelipastetli, Kuttelsuppe und fassgereiftes Hopfenperle vom Fass. Der Speisesaal hat sich seit fünfzig Jahren nicht verändert, karierte Tischdecken, dunkles Holz, Kupferpfannen an der Wand.",
+          "descriptionNl": "Familiebedrijf en Luzernse instituut sinds 1856, beroemd om chügelipastetli, pensensoep en vatgerijpt bier van het vat. De eetzaal is al vijftig jaar niet veranderd: geruite tafelkleden, donker hout, koperen pannen aan de muur.",
           "petPolicyDe": "Wohlerzogene, angeleinte Hunde willkommen in der Stube und draußen",
+          "petPolicyNl": "Welopgevoede, aangelijnde honden welkom in de stube en buiten",
           "mustTryDe": "Chügelipastetli, Luzerner Kuttelsuppe, Galliker Apfelwähe",
-          "tipDe": "Bargeld bevorzugt, und nach 19:30 Uhr sind Reservierungen unerlässlich; kleine Hunde passen unter die Ecktische, große Hunde besser in den Hinterraum."
+          "mustTryNl": "Chügelipastetli, Luzerner pensensoep, Galliker appelvlaai",
+          "tipDe": "Bargeld bevorzugt, und nach 19:30 Uhr sind Reservierungen unerlässlich; kleine Hunde passen unter die Ecktische, große Hunde besser in den Hinterraum.",
+          "tipNl": "Contant geld heeft de voorkeur, en na 19:30 uur zijn reserveringen essentieel; kleine honden passen onder de hoektafels, grote honden beter in de achterste ruimte."
         }
       ],
       "tipsEn": [
@@ -167,7 +179,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Luzern, Seeterrassen & Altstadt-Bistros",
+      "titleNl": "Hondvriendelijke restaurants in Luzern, meerterrassen & bistro's in de oude stad",
       "introDe": "Luzern geht für eine Schweizer Stadt ungewöhnlich entspannt mit Hunden in Restaurants um: Die meisten Seeterrassen, Altstadt-Brasserien und traditionellen Stuben servieren Wassernäpfe, ohne dass man fragen muss. Falstaff listet 17 Lokale, die Hunde ausdrücklich willkommen heißen, und einige lassen sie das ganze Jahr über auch drinnen sitzen.",
+      "introNl": "Luzern gaat voor een Zwitserse stad ongewoon ontspannen om met honden in restaurants: de meeste meerterrassen, brasseries in de oude stad en traditionele stubes zetten waterbakken neer zonder dat je erom hoeft te vragen. Falstaff noemt 17 zaken die honden expliciet welkom heten, en sommige laten ze het hele jaar door ook binnen zitten.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Luzerner Restaurants erlaubt?",
@@ -176,6 +190,16 @@
         {
           "q": "Muss ich für meinen Hund im Restaurant extra bezahlen?",
           "a": "Nein. Schweizer Restaurants berechnen nichts für Haustiere, und ein kostenloser Wassernapf ist Standard. Ein Trinkgeld von den üblichen 5-10% wird geschätzt, wenn sich das Personal um Ihren Hund gekümmert hat."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden welkom in restaurants in Luzern?",
+          "a": "Ja, in de meeste gevallen. Luzern is hondvriendelijker dan Zürich of Genève: terrassen zijn vrijwel altijd open, en veel stubes staan het hele jaar door binnenzitplaatsen toe. Vraag altijd bij de deur, weigeringen zijn zeldzaam en meestal beperkt tot fine-dining degustatiemenu's."
+        },
+        {
+          "q": "Moet ik extra betalen voor mijn hond in het restaurant?",
+          "a": "Nee. Zwitserse restaurants rekenen niets voor huisdieren, en een gratis waterbak is standaard. Een fooi van de gebruikelijke 5-10% wordt gewaardeerd als het personeel voor je hond heeft gezorgd."
         }
       ]
     },
@@ -207,8 +231,11 @@
           "petPolicyPt": "Cães com trela bem-vindos o ano inteiro; sem trela tolerado na orla arborizada a leste fora dos dias de evento",
           "tipPt": "Evite os dias de jogo no Swissporarena, a zona fica a fervilhar de gente e ruído. Consulte o calendário do FCL antes de vir passear aqui a uma tarde de sábado.",
           "descriptionDe": "Ein weitläufiges, 30 Hektar großes Gemeindegebiet südlich des Bahnhofs, das Sportfelder, das Swissporarena-Stadion und eine große Hundeauslaufzone am bewaldeten Rand vereint. Einheimische führen hier ihre Hunde im Morgengrauen aus, bevor die Fussballmenge eintrifft.",
+          "descriptionNl": "Een uitgestrekt, 30 hectare groot gemeentegebied ten zuiden van het station, dat sportvelden, het Swissporarena-stadion en een grote hondenuitlaatzone aan de bosrand combineert. Locals laten hier hun hond uit bij zonsopgang, voordat de voetbalmenigte arriveert.",
           "petPolicyDe": "Angeleinte Hunde ganzjährig willkommen; Freilauf am bewaldeten Ostrand außerhalb von Spieltagen toleriert",
-          "tipDe": "Meiden Sie Spieltage im Swissporarena, das Gebiet ist dann voller Menschen und Lärm. Prüfen Sie den FCL-Spielplan, bevor Sie samstagnachmittags hierher zum Spaziergang kommen."
+          "petPolicyNl": "Aangelijnde honden het hele jaar door welkom; loslopen aan de beboste oostrand buiten wedstrijddagen wordt getolereerd",
+          "tipDe": "Meiden Sie Spieltage im Swissporarena, das Gebiet ist dann voller Menschen und Lärm. Prüfen Sie den FCL-Spielplan, bevor Sie samstagnachmittags hierher zum Spaziergang kommen.",
+          "tipNl": "Vermijd wedstrijddagen in het Swissporarena, het gebied zit dan vol mensen en lawaai. Check het FCL-speelschema voordat je op zaterdagmiddag hierheen komt wandelen."
         },
         {
           "name": "Inseli Park",
@@ -230,8 +257,11 @@
           "petPolicyPt": "Trela obrigatória; o acesso à água do lago ao longo do muro de proteção é permitido",
           "tipPt": "O cais acolhe os barcos de cruzeiro pelo lago da SGV, a maioria aceita cães gratuitamente, uma excelente forma de combinar uma visita ao parque com um rápido passeio pitoresco.",
           "descriptionDe": "Kleiner Seepark direkt hinter dem Bahnhof, verankert durch eine Skulptur von Niki de Saint Phalle und Uferbänke. Fünf Minuten von jedem Bahnhofshotel entfernt, perfekt für ein kurzes Schnuppern am Seeufer vor dem Zugfahren.",
+          "descriptionNl": "Klein meerpark direct achter het station, verankerd door een sculptuur van Niki de Saint Phalle en oeverbankjes. Vijf minuten van elk stationshotel, perfect voor een korte snuffelwandeling langs het meer voor je de trein pakt.",
           "petPolicyDe": "Leinenpflicht; Zugang zum Seewasser entlang der Kaimauer erlaubt",
-          "tipDe": "Vom Pier legen die SGV-Seeschiffe ab, die meisten nehmen Hunde kostenlos mit, eine ausgezeichnete Art, einen Parkbesuch mit einer kurzen, malerischen Fahrt zu verbinden."
+          "petPolicyNl": "Aanlijnplicht; toegang tot het meerwater langs de kademuur toegestaan",
+          "tipDe": "Vom Pier legen die SGV-Seeschiffe ab, die meisten nehmen Hunde kostenlos mit, eine ausgezeichnete Art, einen Parkbesuch mit einer kurzen, malerischen Fahrt zu verbinden.",
+          "tipNl": "Vanaf de pier vertrekken de SGV-meerboten, de meeste nemen honden gratis mee, een uitstekende manier om een parkbezoek te combineren met een korte, schilderachtige vaartocht."
         },
         {
           "name": "Sonnenberg Forest",
@@ -253,8 +283,11 @@
           "petPolicyPt": "Trela obrigatória de 1 de abril a 31 de julho (época de nidificação); sem trela nas pistas o resto do ano se o cão tiver bom controlo de chamada",
           "tipPt": "Suba de funicular e desça pelo trilho dos bunkers da Segunda Guerra Mundial, 90 minutos de floresta, com saída junto a uma paragem de elétrico de regresso ao centro.",
           "descriptionDe": "Bewaldeter Höhenzug, der sich direkt über der Stadt bis auf 745 m erhebt, durchzogen von 15 km Forstwegen und Panoramapfaden entlang des Grats. Die Sonnenbergbahn-Standseilbahn ab Kriens bringt Menschen und angeleinte Hunde in fünf Minuten nach oben für einen langen Abstieg zurück nach Luzern.",
+          "descriptionNl": "Beboste bergrug die zich direct boven de stad verheft tot 745 m, doorkruist door 15 km bospaden en panoramapaden langs de kam. De Sonnenbergbahn-kabelbaan vanaf Kriens brengt mensen en aangelijnde honden in vijf minuten naar boven voor een lange afdaling terug naar Luzern.",
           "petPolicyDe": "Leinenpflicht vom 1. April bis 31. Juli (Brutzeit); außerhalb der Saison Freilauf auf den Wegen möglich, wenn der Hund zuverlässig zurückkommt",
-          "tipDe": "Fahren Sie mit der Standseilbahn hoch und gehen Sie über den Bunkerpfad aus dem Zweiten Weltkrieg abwärts, 90 Minuten Wald, endet direkt bei einer Tramhaltestelle zurück ins Zentrum."
+          "petPolicyNl": "Aanlijnplicht van 1 april tot 31 juli (broedseizoen); buiten het seizoen loslopen op de paden mogelijk als je hond betrouwbaar terugkomt",
+          "tipDe": "Fahren Sie mit der Standseilbahn hoch und gehen Sie über den Bunkerpfad aus dem Zweiten Weltkrieg abwärts, 90 Minuten Wald, endet direkt bei einer Tramhaltestelle zurück ins Zentrum.",
+          "tipNl": "Ga met de kabelbaan omhoog en loop via het bunkerpad uit de Tweede Wereldoorlog naar beneden, 90 minuten bos, eindigt direct bij een tramhalte terug naar het centrum."
         }
       ],
       "tipsEn": [
@@ -320,7 +353,9 @@
         }
       ],
       "titleDe": "Die besten Parks & Freilaufzonen in Luzern",
+      "titleNl": "De beste parken & loslooplocaties in Luzern",
       "introDe": "Luzern liegt zwischen dem Vierwaldstättersee und dem bewaldeten Höhenzug des Sonnenbergs, sodass Grünflächen näher liegen als in den meisten Schweizer Städten. Die Stadt unterhält einige eingezäunte oder ausgeschilderte Freilaufzonen, und die umliegenden Wälder von Allmend, Sonnenberg und Eichwäldli sind mit Leine haustierfreundlich, vom 1. April bis 31. Juli (Bodenbrüter-Saison).",
+      "introNl": "Luzern ligt tussen het Vierwoudstrekenmeer en de beboste bergrug van de Sonnenberg, waardoor groen dichterbij ligt dan in de meeste Zwitserse steden. De stad onderhoudt een aantal omheinde of gemarkeerde loslooplocaties, en de omliggende bossen van Allmend, Sonnenberg en Eichwäldli zijn aangelijnd hondvriendelijk, van 1 april tot 31 juli (seizoen voor grondbroeders).",
       "faqsDe": [
         {
           "q": "Wo dürfen Hunde in Luzern ohne Leine laufen?",
@@ -329,6 +364,16 @@
         {
           "q": "Sind die Seepromenaden in Luzern hundefreundlich?",
           "a": "Ja, Schweizerhofquai, Nationalquai und die Uferpromenade Inseli heißen angeleinte Hunde ganzjährig willkommen. Der Zugang zum Seewasser außerhalb der ausgewiesenen Badezonen ist über die Kaimauer erlaubt, prüfen Sie aber im Sommer die Regeln von Lido und Ufschötti."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar mogen honden in Luzern loslopen?",
+          "a": "Er is geen omheinde hondenuitlaatplaats binnen de stad. Honden mogen loslopen aan de beboste rand van de Allmend, op de bospaden van de Sonnenberg (buiten 1 april tot 31 juli) en in het Eichwäldli-bos, mits de terugroep betrouwbaar is. Verder geldt overal in de openbare ruimte aanlijnplicht."
+        },
+        {
+          "q": "Zijn de meerpromenades in Luzern hondvriendelijk?",
+          "a": "Ja, Schweizerhofquai, Nationalquai en de oeverpromenade Inseli heten aangelijnde honden het hele jaar door welkom. Toegang tot het meerwater buiten de aangewezen zwemzones is toegestaan via de kademuur, maar check in de zomer wel de regels van Lido en Ufschötti."
         }
       ]
     },
@@ -360,8 +405,11 @@
           "petPolicyPt": "Cães pequenos em transportadora: grátis. Cães maiores: bilhete a meio preço exigido ou Hundespass diário de 25 CHF",
           "tipPt": "Compre o passe diário para cães em qualquer máquina de bilhetes SBB (toque em 'Hund', há um botão), a 25 CHF compensa logo se também planear usar comboios SBB ou barcos SGV no mesmo dia.",
           "descriptionDe": "Die Verkehrsbetriebe Luzern betreiben 23 Tageslinien mit Bussen und Trolleybussen, die die ganze Stadt und die innere Agglomeration abdecken. Kleine Hunde in der Tragetasche fahren kostenlos; größere Hunde brauchen ein Halbtax-Ticket oder einen CHF-25-Tagespass.",
+          "descriptionNl": "De Verkehrsbetriebe Luzern rijdt 23 daglijnen met bussen en trolleybussen die de hele stad en de binnenste agglomeratie bedienen. Kleine honden in een draagtas reizen gratis; grotere honden hebben een halftax-ticket of een dagpas van CHF 25 nodig.",
           "petPolicyDe": "Kleine Hunde in der Tragetasche: kostenlos. Größere Hunde: Halbtax-Ticket erforderlich oder CHF-25-Tages-Hundepass",
-          "tipDe": "Kaufen Sie den Hunde-Tagespass an jedem SBB-Automaten (tippen Sie auf \"Hund\", es gibt einen eigenen Knopf), bei CHF 25 rechnet er sich sofort, wenn Sie am selben Tag auch SBB-Züge oder SGV-Schiffe nutzen wollen."
+          "petPolicyNl": "Kleine honden in draagtas: gratis. Grotere honden: halftax-ticket vereist of dag-hondenpas van CHF 25",
+          "tipDe": "Kaufen Sie den Hunde-Tagespass an jedem SBB-Automaten (tippen Sie auf \"Hund\", es gibt einen eigenen Knopf), bei CHF 25 rechnet er sich sofort, wenn Sie am selben Tag auch SBB-Züge oder SGV-Schiffe nutzen wollen.",
+          "tipNl": "Koop de dagpas voor honden bij elke SBB-automaat (tik op \"Hund\", er is een aparte knop), voor CHF 25 verdient hij zich direct terug als je dezelfde dag ook SBB-treinen of SGV-boten wilt gebruiken."
         },
         {
           "name": "SGV Lake Lucerne Boats",
@@ -383,8 +431,11 @@
           "petPolicyPt": "Cães bem-vindos em todas as embarcações da SGV com bilhete a meio preço; cães pequenos em transportadora viajam grátis; açaime pedido apenas para cães grandes nervosos",
           "tipPt": "A ida e volta de 2 horas Lucerna-Vitznau num vapor de roda é o transporte acolhedor para cães mais bonito da Suíça, reserve o convés inferior aberto pela sombra.",
           "descriptionDe": "Die Schifffahrtsgesellschaft des Vierwaldstättersees betreibt die historischen Raddampfer und modernen Motorschiffe, die den Vierwaldstättersee durchqueren. Hunde sind auf jedem Schiff und jedem Deck willkommen, mit Halbtax-Ticket oder Swiss Travel Pass.",
+          "descriptionNl": "De Schifffahrtsgesellschaft des Vierwaldstättersees vaart met de historische raderstoomboten en moderne motorschepen over het Vierwoudstrekenmeer. Honden zijn welkom op elk schip en elk dek, met een halftax-ticket of Swiss Travel Pass.",
           "petPolicyDe": "Hunde auf allen SGV-Schiffen mit Halbtax-Ticket willkommen; kleine Hunde in der Tragetasche reisen kostenlos; Maulkorb nur bei nervösen großen Hunden verlangt",
-          "tipDe": "Die zweistündige Rundfahrt Luzern-Vitznau auf einem Raddampfer ist der schönste hundefreundliche Transport der Schweiz, buchen Sie das offene Unterdeck für Schatten."
+          "petPolicyNl": "Honden welkom op alle SGV-boten met halftax-ticket; kleine honden in draagtas reizen gratis; muilkorf alleen vereist bij nerveuze grote honden",
+          "tipDe": "Die zweistündige Rundfahrt Luzern-Vitznau auf einem Raddampfer ist der schönste hundefreundliche Transport der Schweiz, buchen Sie das offene Unterdeck für Schatten.",
+          "tipNl": "De rondvaart van twee uur Luzern-Vitznau op een raderstoomboot is het mooiste hondvriendelijke vervoer van Zwitserland, boek het open onderdek voor schaduw."
         },
         {
           "name": "Pilatus & Rigi Mountain Railways",
@@ -406,8 +457,11 @@
           "petPolicyPt": "Pilatus: cães grátis nas cabinas, bilhete a meio preço no comboio de cremalheira. Rigi: cães grátis o ano inteiro em comboios de cremalheira, teleférico e telecabina; açaime pedido nos dias de muita afluência",
           "tipPt": "No Pilatus, o comboio de cremalheira só circula de maio a novembro; fora desse período, apanhe o teleférico a partir de Kriens. O cume Pilatus Kulm tem taças de água na esplanada panorâmica.",
           "descriptionDe": "Zwei der bekanntesten Zahnradbergbahnen der Schweiz führen direkt ab Luzern hinauf. Der Pilatus hat die steilste Zahnradbahn der Welt (48% Steigung); die Rigi ist die ursprüngliche Königin der Berge. Beide nehmen angeleinte, wohlerzogene Hunde mit.",
+          "descriptionNl": "Twee van de bekendste tandradbaanspoorwegen van Zwitserland vertrekken direct vanaf Luzern naar boven. De Pilatus heeft de steilste tandradbaan ter wereld (48% helling); de Rigi is de oorspronkelijke koningin der bergen. Beide nemen aangelijnde, welopgevoede honden mee.",
           "petPolicyDe": "Pilatus: Hunde fahren in den Kabinen kostenlos, auf der Zahnradbahn zum halben Preis. Rigi: Hunde ganzjährig kostenlos auf Zahnradbahn, Luftseilbahn und Gondel; an belebten Tagen wird ein Maulkorb erbeten",
-          "tipDe": "Auf dem Pilatus verkehrt die Zahnradbahn nur Mai bis November; außerhalb dieser Zeit die Luftseilbahn ab Kriens nehmen. Auf dem Pilatus Kulm gibt es Wassernäpfe auf der Panoramaterrasse."
+          "petPolicyNl": "Pilatus: honden reizen gratis in de cabines, halve prijs op de tandradbaan. Rigi: honden het hele jaar gratis op tandradbaan, kabelbaan en gondel; op drukke dagen wordt een muilkorf gevraagd",
+          "tipDe": "Auf dem Pilatus verkehrt die Zahnradbahn nur Mai bis November; außerhalb dieser Zeit die Luftseilbahn ab Kriens nehmen. Auf dem Pilatus Kulm gibt es Wassernäpfe auf der Panoramaterrasse.",
+          "tipNl": "Op de Pilatus rijdt de tandradbaan alleen van mei tot november; buiten die periode neem je de kabelbaan vanaf Kriens. Op de Pilatus Kulm staan waterbakken op het panoramaterras."
         }
       ],
       "tipsEn": [
@@ -473,7 +527,9 @@
         }
       ],
       "titleDe": "Mit dem Hund unterwegs in Luzern, Transport & Mobilität",
+      "titleNl": "Onderweg met je hond in Luzern, vervoer & mobiliteit",
       "introDe": "Die Schweiz hat klare, landesweite Haustierregeln im öffentlichen Verkehr, und Luzern liegt innerhalb des Passepartout-Tarifverbunds für Züge, Busse, Schiffe sowie die Zahnradbahnen auf Pilatus und Rigi. Der Tagespass für Hunde (CHF 25) deckt an einem Tag alles ab, überall in der Schweiz, das beste Angebot Europas für eine Mehrberg-Tour mit Hund.",
+      "introNl": "Zwitserland heeft duidelijke, landelijke huisdierregels in het openbaar vervoer, en Luzern valt binnen het Passepartout-tariefverbond voor treinen, bussen, boten en de tandradbanen van Pilatus en Rigi. De dagpas voor honden (CHF 25) dekt in één dag alles, overal in Zwitserland, het beste aanbod van Europa voor een tour langs meerdere bergen met hond.",
       "faqsDe": [
         {
           "q": "Brauchen Hunde im öffentlichen Verkehr der Schweiz ein Ticket?",
@@ -482,6 +538,16 @@
         {
           "q": "Sind Hunde auf der Pilatus-Zahnradbahn erlaubt?",
           "a": "Ja. Angeleinte, wohlerzogene Hunde fahren zum halben Preis mit; die Luftseilbahn ab Kriens nimmt Hunde kostenlos mit. Die Zahnradbahn verkehrt nur zwischen Mai und November; außerhalb dieser Zeit die Luftseilbahn nutzen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hebben honden een ticket nodig in het openbaar vervoer van Zwitserland?",
+          "a": "Ja, als ze groter zijn dan 30 cm schofthoogte. Kleine honden in een gesloten draagtas reizen gratis. Grotere honden hebben voor elk traject een 2e-klas halftax-ticket nodig, of een landelijk geldige dagpas van CHF 25 voor SBB, streekbussen, meerboten en de meeste tandradbanen."
+        },
+        {
+          "q": "Zijn honden toegestaan op de Pilatus-tandradbaan?",
+          "a": "Ja. Aangelijnde, welopgevoede honden reizen mee voor de halve prijs; de kabelbaan vanaf Kriens neemt honden gratis mee. De tandradbaan rijdt alleen tussen mei en november; buiten die periode gebruik je de kabelbaan."
         }
       ]
     },
@@ -513,8 +579,11 @@
           "petPolicyPt": "Banho sem trela tolerado o ano inteiro; não é uma zona de banho oficialmente designada",
           "tipPt": "Combine uma visita ao Museu Wagner com um mergulho do cão, os terrenos do parque Wagner em frente à villa estão abertos e são acolhedores para cães com trela.",
           "descriptionDe": "Die nächstgelegene Hunde-Badebucht zum Stadtzentrum, am südlichen Seeufer hinter dem Wagner-Museum Tribschen. Ein kurzer Kiesstrand mit flachem Einstieg in den klaren See, ganzjährig von Stadthunden genutzt.",
+          "descriptionNl": "De dichtstbijzijnde hondenzwemplek bij het centrum, aan de zuidelijke meeroever achter het Wagner-museum Tribschen. Een kort kiezelstrand met een vlakke ingang naar het heldere meer, het hele jaar door gebruikt door stadshonden.",
           "petPolicyDe": "Freilauf-Schwimmen ganzjährig toleriert; kein offiziell ausgewiesenes Bad",
-          "tipDe": "Kombinieren Sie einen Besuch des Wagner-Museums mit einem Hundebad, das Parkgelände vor der Villa ist offen und an der Leine hundefreundlich."
+          "petPolicyNl": "Vrij zwemmen het hele jaar getolereerd; geen officieel aangewezen zwemplek",
+          "tipDe": "Kombinieren Sie einen Besuch des Wagner-Museums mit einem Hundebad, das Parkgelände vor der Villa ist offen und an der Leine hundefreundlich.",
+          "tipNl": "Combineer een bezoek aan het Wagner-museum met een hondenbad, het parkterrein voor de villa is open en aangelijnd hondvriendelijk."
         },
         {
           "name": "Würzenbach Lakeshore",
@@ -536,8 +605,11 @@
           "petPolicyPt": "Trela no caminho; banho sem trela permitido a partir dos pontões rochosos fora da época balnear de verão",
           "tipPt": "A água aqui aprofunda depressa, ótima para jogos de apanha a nadar para cães à vontade na água, mas mantenha-se perto da margem com raças mais pequenas.",
           "descriptionDe": "Ruhiges Wohnviertel-Seeufer östlich des Zentrums, wo ein öffentlicher Fußweg eine Reihe von Grasufern und kleinen Kiesbuchten verbindet. Ein Favorit lokaler Hundehalter abseits der Touristenmengen; Bus 6/8 ab dem Bahnhof hält in Würzenbach.",
+          "descriptionNl": "Rustige woonwijk-meeroever ten oosten van het centrum, waar een openbaar wandelpad een reeks graszones en kleine kiezelbaaien met elkaar verbindt. Een favoriet van lokale hondenbezitters, weg van de toeristendrukte; bus 6/8 vanaf het station stopt bij Würzenbach.",
           "petPolicyDe": "Leinenpflicht auf dem Weg; Freilauf-Schwimmen an den Felspunkten außerhalb der sommerlichen Badesaison erlaubt",
-          "tipDe": "Das Wasser fällt hier schnell ab, gutes Apportier-Schwimmen für wasserfeste Hunde, bei kleineren Rassen aber nahe am Ufer bleiben."
+          "petPolicyNl": "Aanlijnplicht op het pad; vrij zwemmen bij de rotspunten buiten het zomerse zwemseizoen toegestaan",
+          "tipDe": "Das Wasser fällt hier schnell ab, gutes Apportier-Schwimmen für wasserfeste Hunde, bei kleineren Rassen aber nahe am Ufer bleiben.",
+          "tipNl": "Het water wordt hier snel diep, goed voor apporteerzwemmen bij waterhonden, blijf bij kleinere rassen dicht bij de oever."
         },
         {
           "name": "Lido Lucerne (perimeter only)",
@@ -559,8 +631,11 @@
           "petPolicyPt": "Cães proibidos dentro da zona de banho paga do Lido o ano inteiro; permitidos com trela no passeio público adjacente",
           "tipPt": "Percorra a frente de lago a partir do Lido para leste até ao cais do Verkehrshaus, 1 km de caminho acolhedor para cães com duas entradas de seixos não assinaladas para um mergulho rápido.",
           "descriptionDe": "Luzerns Flaggschiff-Sandstrand mit 300 m Ufer, Liegewiesen, Umkleiden und Blick auf Pilatus und Bürgenstock. Hunde sind innerhalb der kostenpflichtigen Badezone nicht zugelassen, aber die öffentliche Lido-Promenade daneben ist mit schattigen Bänken und einem Trinkbrunnen hundefreundlich.",
+          "descriptionNl": "Luzerns vlaggenschip-zandstrand met 300 m oever, ligweides, kleedhokjes en uitzicht op Pilatus en Bürgenstock. Honden zijn niet toegestaan binnen de betaalde zwemzone, maar de aangrenzende openbare Lido-promenade is met schaduwrijke bankjes en een drinkfontein hondvriendelijk.",
           "petPolicyDe": "Hunde innerhalb der kostenpflichtigen Lido-Badezone ganzjährig verboten; an der Leine auf der angrenzenden öffentlichen Promenade erlaubt",
-          "tipDe": "Gehen Sie das Seeufer vom Lido ostwärts zum Verkehrshaus-Pier, 1 km hundefreundlicher Weg mit zwei unmarkierten Kieseinstiegen ins Wasser für ein schnelles Bad."
+          "petPolicyNl": "Honden het hele jaar verboden binnen de betaalde Lido-zwemzone; aangelijnd toegestaan op de aangrenzende openbare promenade",
+          "tipDe": "Gehen Sie das Seeufer vom Lido ostwärts zum Verkehrshaus-Pier, 1 km hundefreundlicher Weg mit zwei unmarkierten Kieseinstiegen ins Wasser für ein schnelles Bad.",
+          "tipNl": "Loop de meeroever vanaf de Lido oostwaarts naar de Verkehrshaus-pier, 1 km hondvriendelijk pad met twee ongemarkeerde kiezelingangen naar het water voor een snel bad."
         }
       ],
       "tipsEn": [
@@ -626,7 +701,9 @@
         }
       ],
       "titleDe": "Strände am Vierwaldstättersee & Badestellen für Hunde",
+      "titleNl": "Stranden aan het Vierwoudstrekenmeer & zwemplekken voor honden",
       "introDe": "Der Vierwaldstättersee ist fjordartig, tief, sauber und von Juni bis Anfang September warm genug zum Schwimmen. Hunde sind im Sommer von den offiziellen Bade­zonen Lido und Ufschötti ausgeschlossen, aber das weitere Seeufer bietet mehrere Kiesbuchten und diskrete Einstiegsstellen, an denen Hunde außerhalb der Badesaison frei schwimmen können.",
+      "introNl": "Het Vierwoudstrekenmeer is fjordachtig, diep, schoon en van juni tot begin september warm genoeg om in te zwemmen. Honden zijn 's zomers uitgesloten van de officiële zwemzones Lido en Ufschötti, maar de rest van de meeroever biedt meerdere kiezelbaaien en discrete ingangen waar honden buiten het zwemseizoen vrij kunnen zwemmen.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde im Vierwaldstättersee schwimmen?",
@@ -635,6 +712,16 @@
         {
           "q": "Ist das Seewasser für Hunde unbedenklich?",
           "a": "Im Allgemeinen ja, der Vierwaldstättersee wird wöchentlich auf E. coli und Enterokokken überwacht und schneidet durchgehend hervorragend ab. Meiden Sie Algenblüten (selten, Spätsommer) und verzichten Sie 24 Stunden nach starkem Regen aufs Schwimmen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden zwemmen in het Vierwoudstrekenmeer?",
+          "a": "Ja, buiten de officiële zwemzones. Honden zwemmen het hele jaar vrij bij Tribschen, aan de Würzenbach-meeroever en in meerdere baaien langs de oeverpaden. Binnen de betaalde Lido- en de gratis Ufschötti-zone zijn honden verboden van 1 mei tot 30 september."
+        },
+        {
+          "q": "Is het meerwater veilig voor honden?",
+          "a": "Over het algemeen wel, het Vierwoudstrekenmeer wordt wekelijks gecontroleerd op E. coli en enterokokken en scoort steevast uitstekend. Vermijd algenbloei (zeldzaam, laat in de zomer) en zwem niet 24 uur na hevige regenval."
         }
       ]
     },
@@ -666,8 +753,11 @@
           "petPolicyPt": "Atendimento sem marcação durante o horário de abertura; urgências fora do horário encaminhadas pelo atendedor automático para o veterinário de serviço",
           "tipPt": "Mesmo depois de fechar, ligue para o número principal, o atendedor automático encaminha para o sistema de urgência regional que cobre os cantões de Lucerna, Nidwalden e Obwalden.",
           "descriptionDe": "Luzerns größte Kleintierklinik, seit über 40 Jahren familiengeführt. Innere Medizin, Chirurgie, Zahnmedizin, Ultraschall, hauseigenes Labor und eigene Apotheke. Erweiterte Öffnungszeiten unter der Woche und Samstagvormittag-Sprechstunden.",
+          "descriptionNl": "De grootste kleindierenkliniek van Luzern, al meer dan 40 jaar een familiebedrijf. Interne geneeskunde, chirurgie, tandheelkunde, echografie, eigen lab en eigen apotheek. Verlengde openingstijden doordeweeks en spreekuur op zaterdagochtend.",
           "petPolicyDe": "Ohne Termin während der Öffnungszeiten möglich; Notfälle außerhalb der Öffnungszeiten werden über den Anrufbeantworter an den Bereitschaftstierarzt weitergeleitet",
-          "tipDe": "Wählen Sie auch nach Feierabend die Hauptnummer, der Anrufbeantworter leitet an den regionalen Notdienst für die Kantone Luzern, Nidwalden und Obwalden weiter."
+          "petPolicyNl": "Zonder afspraak mogelijk tijdens openingstijden; noodgevallen buiten openingstijden worden via het antwoordapparaat doorverwezen naar de dienstdoende dierenarts",
+          "tipDe": "Wählen Sie auch nach Feierabend die Hauptnummer, der Anrufbeantworter leitet an den regionalen Notdienst für die Kantone Luzern, Nidwalden und Obwalden weiter.",
+          "tipNl": "Bel ook na sluitingstijd het hoofdnummer, het antwoordapparaat verwijst door naar de regionale spoeddienst voor de kantons Luzern, Nidwalden en Obwalden."
         },
         {
           "name": "Tierarztpraxis Kneubühler",
@@ -689,8 +779,11 @@
           "petPolicyPt": "Por marcação; urgências sem marcação aceites com agravamento fora do horário",
           "tipPt": "O veterinário mais central, a 5 minutos a pé de qualquer hotel da cidade velha, guarde o cartão do consultório na carteira desde o primeiro dia de chegada.",
           "descriptionDe": "Etablierte Praxis im Stadtzentrum, geführt von Dr. Arthur Kneubühler, spezialisiert auf Katzen und kleine Hunde. Günstig gelegen direkt bei den Seebrücken und dem Busknoten Schwanenplatz. Bietet Nacht- und Wochenend-Notfallsprechstunden gegen Aufpreis.",
+          "descriptionNl": "Gevestigde praktijk in het stadscentrum, geleid door dr. Arthur Kneubühler, gespecialiseerd in katten en kleine honden. Handig gelegen vlak bij de meerbruggen en het busknooppunt Schwanenplatz. Biedt nacht- en weekendspreekuur voor noodgevallen tegen meerprijs.",
           "petPolicyDe": "Terminbasiert; Notfälle ohne Termin gegen Aufpreis außerhalb der Öffnungszeiten möglich",
-          "tipDe": "Der zentralste Tierarzt, 5 Gehminuten von jedem Altstadthotel entfernt, bewahren Sie die Praxiskarte vom ersten Tag an in Ihrer Brieftasche auf."
+          "petPolicyNl": "Op afspraak; noodgevallen zonder afspraak tegen meerprijs mogelijk buiten openingstijden",
+          "tipDe": "Der zentralste Tierarzt, 5 Gehminuten von jedem Altstadthotel entfernt, bewahren Sie die Praxiskarte vom ersten Tag an in Ihrer Brieftasche auf.",
+          "tipNl": "De meest centrale dierenarts, 5 minuten lopen van elk hotel in de oude stad, bewaar de praktijkkaart vanaf dag één in je portemonnee."
         },
         {
           "name": "AniCura Tierspital Zürich (24h, 60 km)",
@@ -712,8 +805,11 @@
           "petPolicyPt": "Atendimento sem marcação 24/7; recomenda-se ligar antes para alertar a equipa de serviço e confirmar a capacidade",
           "tipPt": "Guarde +41 44 315 47 47 no telemóvel antes de qualquer viagem à Suíça, é o veterinário com cuidados intensivos 24/7 mais próximo de Lucerna, e a linha nacional da AniCura também o pode reencaminhar para clínicas parceiras mais próximas se Zurique ficar demasiado longe.",
           "descriptionDe": "Die größte 24-Stunden-Kleintierklinik der Schweiz, 50 Minuten mit dem Auto von Luzern (Autobahn A4-A3) und 65 Minuten mit SBB-Zug und Tram ab dem Luzerner Hauptbahnhof. Intensivmedizin, Intensivstation, MRT und Notoperationen rund um die Uhr verfügbar.",
+          "descriptionNl": "De grootste 24-uurskliniek voor kleine huisdieren van Zwitserland, 50 minuten met de auto vanaf Luzern (snelweg A4-A3) en 65 minuten met de SBB-trein en tram vanaf Luzern Hauptbahnhof. Intensieve zorg, IC-afdeling, MRI en spoedoperaties dag en nacht beschikbaar.",
           "petPolicyDe": "Rund um die Uhr ohne Termin; ein Anruf vorab wird empfohlen, um das Bereitschaftsteam zu informieren und die Kapazität zu bestätigen",
-          "tipDe": "Speichern Sie +41 44 315 47 47 vor jeder Schweizreise im Telefon, es ist die nächstgelegene 24/7-Intensivstation für Tiere ab Luzern, und die landesweite AniCura-Hotline kann Sie auch an nähere Partnerkliniken verweisen, falls Zürich zu weit ist."
+          "petPolicyNl": "Dag en nacht zonder afspraak; vooraf bellen wordt aangeraden om het dienstdoende team te informeren en de capaciteit te bevestigen",
+          "tipDe": "Speichern Sie +41 44 315 47 47 vor jeder Schweizreise im Telefon, es ist die nächstgelegene 24/7-Intensivstation für Tiere ab Luzern, und die landesweite AniCura-Hotline kann Sie auch an nähere Partnerkliniken verweisen, falls Zürich zu weit ist.",
+          "tipNl": "Sla +41 44 315 47 47 op in je telefoon voor elke reis naar Zwitserland, het is de dichtstbijzijnde 24/7 IC-afdeling voor dieren vanaf Luzern, en de landelijke AniCura-hotline kan je ook doorverwijzen naar dichterbij gelegen partnerklinieken als Zürich te ver is."
         }
       ],
       "tipsEn": [
@@ -779,7 +875,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte & 24h-Tierversorgung in Luzern",
+      "titleNl": "Spoeddierenartsen & 24-uurszorg voor huisdieren in Luzern",
       "introDe": "Luzern hat innerhalb der Stadt keine eigene 24-Stunden-Tierklinik, aber zwei langjährige Praxen kümmern sich mit erweiterten Öffnungszeiten um Kleintiermedizin und Chirurgie, und die Tierklinik Aarau sowie das Universitäre Tierspital Zürich (60 km, nimmt rund um die Uhr Notfälle ohne Voranmeldung an) decken die Nachtschicht ab. Speichern Sie diese Nummern schon vor der Ankunft im Telefon.",
+      "introNl": "Luzern heeft binnen de stad geen eigen 24-uurskliniek voor dieren, maar twee gevestigde praktijken zorgen met verlengde openingstijden voor kleindiergeneeskunde en chirurgie, en de Tierklinik Aarau en het universitaire dierenziekenhuis van Zürich (60 km, neemt dag en nacht spoedgevallen aan zonder afspraak) dekken de nachtdienst. Sla deze nummers al voor aankomst op in je telefoon.",
       "faqsDe": [
         {
           "q": "Gibt es in der Stadt Luzern einen 24-Stunden-Tierarzt?",
@@ -788,6 +886,16 @@
         {
           "q": "Funktioniert mein EU-Heimtierausweis in der Schweiz?",
           "a": "Ja. Die Schweiz akzeptiert den EU-Heimtierausweis an der Grenze in beide Richtungen, mit den üblichen Anforderungen: ISO-Mikrochip, gültige Tollwutimpfung mindestens 21 Tage alt, und eine Bandwurmbehandlung ist für die Ein- oder Ausreise in die Schweiz NICHT erforderlich (im Gegensatz zu Großbritannien oder Irland)."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uursdierenarts in de stad Luzern?",
+          "a": "Nee, binnen de stad Luzern is er geen eigen 24-uurskliniek. De regionale spoeddienst is bereikbaar via het antwoordapparaat van elke lokale praktijk (Tierklinik Obergrund of Tierarztpraxis Kneubühler). De dichtstbijzijnde 24/7-kliniek is het AniCura Tierspital Zürich, 50 minuten met de auto of 65 minuten met de trein."
+        },
+        {
+          "q": "Werkt mijn Europees dierenpaspoort in Zwitserland?",
+          "a": "Ja. Zwitserland accepteert het Europees dierenpaspoort aan de grens in beide richtingen, met de gebruikelijke eisen: ISO-microchip, geldige rabiësvaccinatie van minstens 21 dagen oud, en een lintwormbehandeling is NIET vereist voor in- of uitreis in Zwitserland (in tegenstelling tot het Verenigd Koninkrijk of Ierland)."
         }
       ]
     },
@@ -866,7 +974,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für den Besuch Luzerns mit Hund",
+      "titleNl": "Praktische tips voor een bezoek aan Luzern met hond",
       "introDe": "Die Schweiz ist auf dem Papier eines der haustierfreundlichsten Länder Europas, und Luzern hält, was das verspricht. Saubereres Seewasser als im Durchschnitt, gut markierte Wege, hundetolerante Restaurants und ein hervorragender öffentlicher Verkehr. Die vier praktischen Hürden, mit denen Sie rechnen sollten: hohe Tierarztkosten, strenge Leinenpflicht vom 1. April bis 31. Juli, brutal heißes Altstadtpflaster im Juli und August, und der Sprachwechsel von Hochdeutsch zum Dialekt Schwyzerdütsch.",
+      "introNl": "Zwitserland is op papier een van de hondvriendelijkste landen van Europa, en Luzern maakt die belofte waar. Schoner meerwater dan gemiddeld, goed gemarkeerde paden, hondtolerante restaurants en uitstekend openbaar vervoer. De vier praktische hindernissen waar je rekening mee moet houden: hoge dierenartskosten, strikte aanlijnplicht van 1 april tot 31 juli, brandend heet plaveisel in de oude stad in juli en augustus, en de taalwissel van Hoogduits naar het dialect Zwitserduits.",
       "faqsDe": [
         {
           "q": "Welche Dokumente braucht mein Hund für die Einreise in die Schweiz?",
@@ -875,6 +985,16 @@
         {
           "q": "Sind Hunde in Luftseilbahnen und Zahnradbahnen rund um Luzern erlaubt?",
           "a": "Fast durchweg ja. Pilatus, Rigi, Stanserhorn, Bürgenstock und Klewenalp nehmen alle angeleinte Hunde mit. An belebten Tagen wird bei nervösen großen Hunden manchmal ein Maulkorb verlangt. Kleine Hunde in der Tragetasche reisen kostenlos; größere Hunde brauchen ein Halbtax-Ticket oder den CHF-25-Tagespass."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welke documenten heeft mijn hond nodig om Zwitserland binnen te komen?",
+          "a": "Een Europees dierenpaspoort (of gelijkwaardig document voor niet-EU-landen), een ISO-microchip en een geldige rabiësvaccinatie van minstens 21 dagen oud. Een lintwormbehandeling is NIET vereist voor in- of uitreis in Zwitserland. Honden uit landen die niet vrij zijn van rabiës hebben extra serologie nodig, check de BLV-eisen voor je reist."
+        },
+        {
+          "q": "Zijn honden toegestaan in kabelbanen en tandradbanen rond Luzern?",
+          "a": "Vrijwel altijd wel. Pilatus, Rigi, Stanserhorn, Bürgenstock en Klewenalp nemen allemaal aangelijnde honden mee. Op drukke dagen wordt bij nerveuze grote honden soms een muilkorf gevraagd. Kleine honden in draagtas reizen gratis; grotere honden hebben een halftax-ticket of de dagpas van CHF 25 nodig."
         }
       ]
     },
@@ -906,8 +1026,11 @@
           "petPolicyPt": "Cães com trela bem-vindos o ano inteiro; leve os cães pequenos ao colo nas horas de maior afluência de verão",
           "tipPt": "Atravesse às 07:30, a ponte fica vazia, a luz da manhã realça os painéis pintados e o seu cão não será empurrado pelos grupos de excursão. Os cafés com esplanada do lado do Reuss abrem às 08:00.",
           "descriptionDe": "Die überdachte Holzbrücke aus dem 14. Jahrhundert, die sich im Zickzack über die Reuss zieht, ist Europas älteste erhaltene Fachwerkbrücke und Luzerns Wahrzeichen. Dreieckige Deckenbilder erzählen die Geschichte der Stadt; der achteckige Wasserturm erhebt sich mittig über der Brücke. Die Überquerung ist kostenlos, hundefreundlich und dauert drei Minuten.",
+          "descriptionNl": "De overdekte houten brug uit de 14e eeuw die zigzaggend over de Reuss loopt, is Europa's oudste bewaarde vakwerkbrug en het symbool van Luzern. Driehoekige plafondschilderingen vertellen het verhaal van de stad; de achthoekige watertoren rijst midden op de brug omhoog. Oversteken is gratis, hondvriendelijk en duurt drie minuten.",
           "petPolicyDe": "Angeleinte Hunde ganzjährig willkommen; kleine Hunde bei sommerlichem Hochbetrieb tragen",
-          "tipDe": "Überqueren Sie sie um 07:30 Uhr, die Brücke ist leer, das Morgenlicht trifft die bemalten Deckenbilder, und Ihr Hund wird nicht von Reisegruppen bedrängt. Die Terrassen an der Reuss öffnen um 08:00 Uhr für Kaffee."
+          "petPolicyNl": "Aangelijnde honden het hele jaar welkom; kleine honden dragen bij drukte in de zomer",
+          "tipDe": "Überqueren Sie sie um 07:30 Uhr, die Brücke ist leer, das Morgenlicht trifft die bemalten Deckenbilder, und Ihr Hund wird nicht von Reisegruppen bedrängt. Die Terrassen an der Reuss öffnen um 08:00 Uhr für Kaffee.",
+          "tipNl": "Steek om 07:30 uur over, de brug is dan leeg, het ochtendlicht valt op de beschilderde plafonds, en je hond wordt niet lastiggevallen door reisgroepen. De terrassen aan de Reuss openen om 08:00 uur voor koffie."
         },
         {
           "name": "Lion Monument (Löwendenkmal)",
@@ -929,8 +1052,11 @@
           "petPolicyPt": "Cães com trela bem-vindos no pequeno parque em redor do monumento",
           "tipPt": "Combine com o Jardim dos Glaciares ao lado, a sua secção exterior (gigantes marmitas glaciares, caminhos) é acolhedora para cães; o labirinto de espelhos interior não é.",
           "descriptionDe": "Bertel Thorvaldsens sterbender Löwe von 1820, direkt in die Felswand gehauen, erinnert an die Schweizer Garden, die 1792 bei der Verteidigung der Tuilerien starben. Mark Twain nannte ihn \"das traurigste und bewegendste Stück Stein der Welt\". Im Freien, kostenlos, mit einem kleinen Spiegelteich.",
+          "descriptionNl": "Bertel Thorvaldsens stervende leeuw uit 1820, rechtstreeks uitgehouwen in de rotswand, herdenkt de Zwitserse gardisten die in 1792 stierven bij de verdediging van de Tuilerieën. Mark Twain noemde het \"het treurigste en meest ontroerende stuk steen ter wereld\". Buiten, gratis, met een klein spiegelvijvertje.",
           "petPolicyDe": "Angeleinte Hunde im kleinen Park rund um das Denkmal willkommen",
-          "tipDe": "Kombinieren Sie den Besuch mit dem angrenzenden Gletschergarten, dessen Außenbereich (riesige Gletschertöpfe, Wege) ist hundefreundlich; das Spiegellabyrinth im Innern nicht."
+          "petPolicyNl": "Aangelijnde honden welkom in het kleine park rond het monument",
+          "tipDe": "Kombinieren Sie den Besuch mit dem angrenzenden Gletschergarten, dessen Außenbereich (riesige Gletschertöpfe, Wege) ist hundefreundlich; das Spiegellabyrinth im Innern nicht.",
+          "tipNl": "Combineer het bezoek met de aangrenzende Gletschergarten, het buitengedeelte (enorme gletsjerpotten, paden) is hondvriendelijk; het spiegellabyrint binnen niet."
         },
         {
           "name": "Musegg Wall (Museggmauer)",
@@ -952,8 +1078,11 @@
           "petPolicyPt": "Cães bem-vindos ao longo do passeio das muralhas; confirme torre a torre o acesso às escadas (algumas aceitam cães pequenos com trela, nenhuma aceita os grandes)",
           "tipPt": "A Männliturm é a torre mais fácil com um cão, escadas de pedra largas e uma plataforma panorâmica acolhedora para cães. Aberta todos os dias apenas de abril a outubro.",
           "descriptionDe": "Die 870 Meter lange mittelalterliche Stadtmauer nördlich der Altstadt mit neun Türmen, darunter der Zytturm, dessen Uhr von 1535 eine Minute vor allen anderen Uhren der Stadt schlägt. Drei der Türme sind begehbar, mit Panoramablick auf den See und die schneebedeckten Alpen von der Dachterrasse.",
+          "descriptionNl": "De 870 meter lange middeleeuwse stadsmuur ten noorden van de oude stad met negen torens, waaronder de Zytturm, waarvan de klok uit 1535 een minuut voor alle andere klokken van de stad slaat. Drie torens zijn te beklimmen, met panoramisch uitzicht op het meer en de besneeuwde Alpen vanaf het dakterras.",
           "petPolicyDe": "Hunde entlang des Mauerwegs willkommen; Treppenzugang von Turm zu Turm unterschiedlich (manche erlauben angeleinte kleine Hunde, keiner erlaubt große)",
-          "tipDe": "Der Männliturm ist der einfachste Turm mit Hund, breite Steintreppen und eine hundefreundliche Aussichtsplattform. Nur April bis Oktober täglich geöffnet."
+          "petPolicyNl": "Honden welkom langs het muurpad; traptoegang van toren tot toren verschilt (sommige staan aangelijnde kleine honden toe, geen enkele staat grote honden toe)",
+          "tipDe": "Der Männliturm ist der einfachste Turm mit Hund, breite Steintreppen und eine hundefreundliche Aussichtsplattform. Nur April bis Oktober täglich geöffnet.",
+          "tipNl": "De Männliturm is de makkelijkste toren met hond, brede stenen trappen en een hondvriendelijk uitkijkplatform. Alleen april tot oktober dagelijks open."
         }
       ],
       "tipsEn": [
@@ -1019,7 +1148,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Luzern",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Luzern",
       "introDe": "Luzerns bekannteste Sehenswürdigkeiten, die Kapellbrücke, das Löwendenkmal, die Museggmauer und der Pilatus, sind fast alle im Freien und mit Leine hundefreundlich. Die beiden Innenraum-Museen, die für Hunde tabu sind (Verkehrshaus und Picasso-Museum), liegen direkt neben hundefreundlichen Uferspaziergängen; Sie können den Hund mit einem Reisebegleiter auf einer schattigen Bank lassen, während der andere die Ausstellungen besucht.",
+      "introNl": "Luzerns bekendste bezienswaardigheden, de Kapellbrücke, het Leeuwenmonument, de Museggmauer en de Pilatus, zijn bijna allemaal buiten en aangelijnd hondvriendelijk. De twee binnenmusea die verboden zijn voor honden (Verkehrshaus en Picasso-museum) liggen direct naast hondvriendelijke oeverwandelingen; je kunt de hond met een reisgenoot op een schaduwrijk bankje achterlaten terwijl de ander de tentoonstelling bezoekt.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund über die Kapellbrücke mitnehmen?",
@@ -1028,6 +1159,16 @@
         {
           "q": "Welche Luzerner Berge kann ich mit meinem Hund besuchen?",
           "a": "Pilatus (Luftseilbahn oder saisonale Zahnradbahn), Rigi (Zahnradbahn und Luftseilbahn, Hunde ganzjährig kostenlos), Stanserhorn (offene CabriO-Luftseilbahn), Bürgenstock (Hammetschwand-Lift) und Klewenalp heißen alle angeleinte Hunde willkommen. Nutzen Sie den CHF-25-Hunde-Tagespass, um mehrere an einem Tag zu kombinieren."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen over de Kapellbrücke?",
+          "a": "Ja, aangelijnde honden zijn het hele jaar welkom op de Kapellbrücke. De houten planken zijn glad en pootvriendelijk. Op drukke zomermiddagen (14:00-17:00 uur) wordt de brug erg vol; draag kleine honden en loop met middelgrote tot grote honden rustig langs de reling."
+        },
+        {
+          "q": "Welke bergen bij Luzern kan ik met mijn hond bezoeken?",
+          "a": "Pilatus (kabelbaan of seizoensgebonden tandradbaan), Rigi (tandradbaan en kabelbaan, honden het hele jaar gratis), Stanserhorn (open CabriO-kabelbaan), Bürgenstock (Hammetschwand-lift) en Klewenalp heten allemaal aangelijnde honden welkom. Gebruik de CHF-25 dagpas voor honden om er meerdere op één dag te combineren."
         }
       ]
     },
@@ -1058,7 +1199,9 @@
           "descriptionPt": "A maior plataforma de cuidado de animais movida pela comunidade na Suíça. Lucerna lista mais de 30 cuidadores ativos a oferecer creche, hospedagem, passeios e visitas ao domicílio. Verificação de antecedentes e seguro com apoio veterinário incluídos em cada reserva.",
           "tipPt": "Reserve com pelo menos 7 dias de antecedência no verão, os cuidadores de Lucerna enchem depressa por volta do fim de semana do Dia Nacional Suíço, 1 de agosto.",
           "descriptionDe": "Größte gemeinschaftsbasierte Tierbetreuungsplattform der Schweiz. Luzern listet über 30 aktive Betreuer, die Tagesbetreuung, Tierpension, Spaziergänge und Hausbesuche anbieten. Hintergrundprüfungen und tierärztlich unterstützte Versicherung bei jeder Buchung inbegriffen.",
-          "tipDe": "Buchen Sie im Sommer mindestens 7 Tage im Voraus, Luzerner Betreuer sind rund um das Wochenende des 1. August (Schweizer Nationalfeiertag) schnell ausgebucht."
+          "descriptionNl": "Grootste communitygebaseerde huisdierenzorgplatform van Zwitserland. Luzern telt meer dan 30 actieve oppassers die dagopvang, dierenpensions, wandelingen en huisbezoeken aanbieden. Achtergrondcontroles en door dierenartsen ondersteunde verzekering inbegrepen bij elke boeking.",
+          "tipDe": "Buchen Sie im Sommer mindestens 7 Tage im Voraus, Luzerner Betreuer sind rund um das Wochenende des 1. August (Schweizer Nationalfeiertag) schnell ausgebucht.",
+          "tipNl": "Boek in de zomer minstens 7 dagen van tevoren, oppassers in Luzern zitten snel vol rond het weekend van 1 augustus (Zwitserse nationale feestdag)."
         },
         {
           "name": "Petsitting24",
@@ -1080,7 +1223,9 @@
           "descriptionPt": "Plataforma de cuidado de animais de origem suíço com interface em alemão/francês/inglês/italiano e um diretório completo da cidade para Lucerna. Faturação à hora, mensagens integradas, cuidado de pernoita ao domicílio opcional.",
           "tipPt": "Filtre por 'Probelektion gratis' para cuidadores que oferecem um encontro prévio gratuito, essencial se o seu cão for reativo ou ansioso em casas novas.",
           "descriptionDe": "Schweizer Tierbetreuungsplattform mit englisch/deutsch/französisch/italienischer Oberfläche und einem vollständigen Stadtverzeichnis für Luzern. Stundenweise Abrechnung, integrierte Nachrichtenfunktion, optionale Übernachtungsbetreuung zu Hause.",
-          "tipDe": "Filtern Sie nach \"Probelektion gratis\" für Betreuer, die ein kostenloses Kennenlerntreffen anbieten, wichtig, wenn Ihr Hund in neuen Umgebungen reaktiv oder ängstlich ist."
+          "descriptionNl": "Zwitsers huisdierenzorgplatform met Engels/Duits/Frans/Italiaanstalige interface en een volledige stadsgids voor Luzern. Uurtarief, ingebouwde berichtenfunctie, optionele overnachtingsopvang bij jou thuis.",
+          "tipDe": "Filtern Sie nach \"Probelektion gratis\" für Betreuer, die ein kostenloses Kennenlerntreffen anbieten, wichtig, wenn Ihr Hund in neuen Umgebungen reaktiv oder ängstlich ist.",
+          "tipNl": "Filter op \"gratis proefles\" voor oppassers die een gratis kennismakingsafspraak aanbieden, belangrijk als je hond reactief of angstig is in nieuwe omgevingen."
         },
         {
           "name": "PetBacker Lucerne",
@@ -1100,7 +1245,9 @@
           "descriptionPt": "Plataforma internacional de cuidado de animais com presença ativa em Lucerna. Especialmente forte para reservas de última hora e passeios de última hora; segurada em cada reserva e avaliada publicamente em cada perfil de cuidador.",
           "tipPt": "Útil quando precisa de um passeio de 1 hora enquanto visita um museu de Lucerna que exclui cães (Verkehrshaus, Picasso). Procure cuidadores listados a menos de 1 km do seu hotel para entregas rápidas.",
           "descriptionDe": "Internationale Tierbetreuungsplattform mit aktiver Präsenz in Luzern. Besonders stark bei kurzfristigen Buchungen und spontanen Spaziergängen; jede Buchung versichert und öffentlich pro Betreuerprofil bewertet.",
-          "tipDe": "Nützlich, wenn Sie einen einstündigen Spaziergang brauchen, während Sie ein Luzerner Museum besuchen, das Hunde ausschließt (Verkehrshaus, Picasso). Suchen Sie nach Betreuern im Umkreis von 1 km Ihres Hotels für eine schnelle Übergabe."
+          "descriptionNl": "Internationaal huisdierenzorgplatform met actieve aanwezigheid in Luzern. Bijzonder sterk in last-minute boekingen en spontane wandelingen; elke boeking is verzekerd en openbaar beoordeeld per oppasserprofiel.",
+          "tipDe": "Nützlich, wenn Sie einen einstündigen Spaziergang brauchen, während Sie ein Luzerner Museum besuchen, das Hunde ausschließt (Verkehrshaus, Picasso). Suchen Sie nach Betreuern im Umkreis von 1 km Ihres Hotels für eine schnelle Übergabe.",
+          "tipNl": "Handig als je een uurtje wandelen nodig hebt terwijl je een museum in Luzern bezoekt dat honden weert (Verkehrshaus, Picasso). Zoek oppassers binnen 1 km van je hotel voor een snelle overdracht."
         }
       ],
       "tipsEn": [
@@ -1166,7 +1313,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Hundeausführer in Luzern",
+      "titleNl": "Huisdierenoppas & hondenuitlaatservice in Luzern",
       "introDe": "Die Schweiz hat einen ausgereiften Markt für Tierbetreuung, und drei Hauptplattformen decken Luzern mit geprüften Betreuern und Hundeausführern ab. Die Stundensätze liegen über dem europäischen Durchschnitt (CHF 25-40/Stunde für Spaziergänge, CHF 60-90/Tag für die Tierpension), aber die Profile sind detailliert, Versicherung ist inbegriffen, und Sprachbarrieren lassen sich leicht überwinden: Die meisten Luzerner Betreuer geben neben Deutsch auch Englisch an.",
+      "introNl": "Zwitserland heeft een volwassen markt voor huisdierenzorg, en drie grote platforms dekken Luzern met gescreende oppassers en hondenuitlaters. De uurtarieven liggen boven het Europese gemiddelde (CHF 25-40/uur voor wandelingen, CHF 60-90/dag voor dierenpensions), maar de profielen zijn uitgebreid, verzekering is inbegrepen, en taalbarrières zijn makkelijk te overbruggen: de meeste oppassers in Luzern geven naast Duits ook Engels op.",
       "faqsDe": [
         {
           "q": "Was kostet ein Tiersitter in Luzern?",
@@ -1175,6 +1324,16 @@
         {
           "q": "Sind die Betreuer versichert?",
           "a": "Ja, bei Pawshake, Petsitting24 und PetBacker beinhaltet jede Buchung eine Haftpflicht- und Tierkrankenversicherung bis zu einer von der Plattform festgelegten Obergrenze. Lesen Sie die Buchungsbestätigung für den genauen Deckungsumfang."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat kost een oppas voor je huisdier in Luzern?",
+          "a": "De uurtarieven liggen rond CHF 25-40 voor wandelingen of dagopvang thuis, CHF 60-90 per nacht voor volledig dierenpension en CHF 35-50 per overnachting bij opvang bij de oppasser thuis. Boekingen worden meestal via het platform betaald met een kleine servicevergoeding."
+        },
+        {
+          "q": "Zijn de oppassers verzekerd?",
+          "a": "Ja, bij Pawshake, Petsitting24 en PetBacker is bij elke boeking een aansprakelijkheids- en dierenzorgverzekering inbegrepen tot een door het platform vastgesteld maximum. Lees de boekingsbevestiging voor de exacte dekking."
         }
       ]
     }

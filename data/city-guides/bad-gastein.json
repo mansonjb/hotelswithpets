@@ -41,9 +41,13 @@
           "tipPt": "A cozinha serve sem interrupção até à meia-noite, coisa rara no vale: é a opção segura para jantar tarde depois de uma caminhada longa.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=J%C3%A4gerh%C3%A4usl+Bad+Gastein",
           "descriptionDe": "Ein seit 1828 geführtes Gasthaus im Herzen von Bad Gasteins, das alpine Klassiker mit italienischer Pizza aus dem Holzofen kombiniert. Die holzvertäfelten Räume sind gemütlich und einladend, wohlerzogene Hunde sieht man regelmäßig unter den Gästen.",
+          "descriptionNl": "Een sinds 1828 gerund gasthuis in het hart van Bad Gastein, dat Alpiene klassiekers combineert met Italiaanse pizza uit de houtoven. De houten kamers zijn gezellig en gastvrij, brave honden zie je regelmatig tussen de gasten.",
           "petPolicyDe": "Angeleinte Hunde sind willkommen; zu Stoßzeiten beim Abendessen mit dem Personal abstimmen.",
+          "petPolicyNl": "Aangelijnde honden zijn welkom, overleg tijdens drukke etenstijden even met het personeel.",
           "mustTryDe": "Salamipizza aus dem Holzofen",
-          "tipDe": "Die Küche läuft durchgehend bis Mitternacht, im Tal eine Seltenheit, deshalb die sichere spätabendliche Option nach einer langen Wanderung."
+          "mustTryNl": "Salamipizza uit de houtoven",
+          "tipDe": "Die Küche läuft durchgehend bis Mitternacht, im Tal eine Seltenheit, deshalb die sichere spätabendliche Option nach einer langen Wanderung.",
+          "tipNl": "De keuken blijft doorlopend open tot middernacht, een zeldzaamheid in het dal, dus de veilige optie voor laat op de avond na een lange wandeling."
         },
         {
           "name": "Himmelwandhütte",
@@ -71,9 +75,13 @@
           "tipPt": "Combine-a com o passeio até à Prossau: a cabana fica na rota da Himmelwand e é a paragem natural a meio caminho com cão.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Himmelwandh%C3%BCtte+K%C3%B6tschachtal+Bad+Gastein",
           "descriptionDe": "Ein rustikales Chaletrestaurant auf 1.079 m unterhalb der Himmelwand-Felswand, erreichbar über einen fast ebenen Weg vom Ende des Kötschachtals bei Grüner Baum. Bio-Gerichte und vegetarische Optionen kommen mit Terrassenblick, und Hunde sind ausdrücklich willkommen.",
+          "descriptionNl": "Een rustiek chaletrestaurant op 1.079 m onder de Himmelwand-rotswand, bereikbaar via een bijna vlak pad vanaf het einde van het Kotschachtal bij Gruner Baum. Biologische gerechten en vegetarische opties komen met terrasuitzicht, en honden zijn nadrukkelijk welkom.",
           "petPolicyDe": "Hunde willkommen innen und auf der Terrasse; die Hütte hat eigene ansässige Hunde.",
+          "petPolicyNl": "Honden welkom binnen en op het terras, de hut heeft eigen honden.",
           "mustTryDe": "Bio-Almgerichte und hausgemachte Kuchen",
-          "tipDe": "Mit der Prossau-Wanderung kombinieren: die Hütte liegt direkt an der Himmelwand-Route, was sie zum natürlichen Halbzeitstopp mit Hund macht."
+          "mustTryNl": "Biologische alm-gerechten en zelfgemaakte taart",
+          "tipDe": "Mit der Prossau-Wanderung kombinieren: die Hütte liegt direkt an der Himmelwand-Route, was sie zum natürlichen Halbzeitstopp mit Hund macht.",
+          "tipNl": "Combineer met de Prossau-wandeling, de hut ligt direct aan de Himmelwand-route, wat het de natuurlijke tussenstop met hond maakt."
         },
         {
           "name": "Alpenhaus Prossau",
@@ -101,9 +109,13 @@
           "tipPt": "Conte cerca de 2 horas desde o início em Grüner Baum ao ritmo do cão; o ribeiro ao longo do trilho serve de ponto de água natural.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alpenhaus+Prossau+Bad+Gastein",
           "descriptionDe": "Ein warmes, rustikales Berghaus auf 1.278 m am Ende des Kötschachtals, das traditionelle österreichische Hüttenkost für Wanderer und Winterwanderer serviert. Hunde sind willkommen, und der sanfte Anstieg über den Talboden macht es zu einer der leichtesten Hüttenmahlzeiten mit Hund in der Region.",
+          "descriptionNl": "Een warm, rustiek berghuis op 1.278 m aan het einde van het Kotschachtal, dat traditionele Oostenrijkse hutkost serveert voor wandelaars en winterwandelaars. Honden zijn welkom, en de zachte klim over de dalbodem maakt het een van de makkelijkste hutmaaltijden met hond in de regio.",
           "petPolicyDe": "Hunde willkommen; Gäste, die andernorts wegen ihres Hundes abgewiesen wurden, berichten hier von einem herzlichen Empfang.",
+          "petPolicyNl": "Honden welkom, gasten die elders zijn geweigerd vanwege hun hond melden hier een hartelijk onthaal.",
           "mustTryDe": "Kaiserschmarrn nach der Talwanderung",
-          "tipDe": "Vom Trailhead Grüner Baum im Hundetempo etwa 2 Stunden einplanen; der Bach neben dem Weg dient als natürliche Wasserstelle."
+          "mustTryNl": "Kaiserschmarrn na de dalwandeling",
+          "tipDe": "Vom Trailhead Grüner Baum im Hundetempo etwa 2 Stunden einplanen; der Bach neben dem Weg dient als natürliche Wasserstelle.",
+          "tipNl": "Reken vanaf trailhead Gruner Baum op hondentempo ongeveer 2 uur, de beek naast het pad dient als natuurlijke waterplek."
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Bad Gastein",
+      "titleNl": "Hondvriendelijke restaurants in Bad Gastein",
       "introDe": "In Bad Gastein isst man nach österreichischer Berg-Art: holzvertäfelte Gaststuben im Belle-Époque-Zentrum und rustikale Hütten im Kötschachtal, von denen die meisten einen ruhigen, angeleinten Hund unter dem Tisch dulden. Im Sommer sind die Hüttenterrassen entlang der Wanderwege die einfachste Option überhaupt, mit üblichen Wassernäpfen und herzhafter Pongauer Küche auf jeder Karte.",
+      "introNl": "In Bad Gastein eet je op Oostenrijkse berg-wijze, houten gaststuben in het Belle-Epoque centrum en rustieke hutten in het Kotschachtal, waarvan de meeste een rustige, aangelijnde hond onder de tafel dulden. In de zomer zijn de hutterrassen langs de wandelpaden de makkelijkste optie van allemaal, met de gebruikelijke waterbakjes en stevige Pongauer keuken op elke kaart.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Bad Gastein im Innenbereich erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Gibt es in Bad Gastein spätabends etwas zu essen mit Hund?",
           "a": "Das Jägerhäusl im Ortszentrum serviert von Mittwoch bis Sonntag durchgehend bis Mitternacht und toleriert wohlerzogene angeleinte Hunde, was es zur Standardoption für spätabends macht."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden binnen toegestaan in restaurants in Bad Gastein?",
+          "a": "In traditionele gaststuben en hutrestaurants meestal wel, naar het oordeel van de eigenaar. Houd de hond aan de lijn onder de tafel en vraag bij aankomst, terrassen zijn in het seizoen altijd de makkelijke optie."
+        },
+        {
+          "q": "Nemen berghutten rond Bad Gastein honden aan?",
+          "a": "De hutten in het Kotschachtal (Himmelwandhutte, Alpenhaus Prossau) heten honden nadrukkelijk welkom. Neem water mee voor de klim en controleer voor de wandeling de seizoensgebonden openingsdagen."
+        },
+        {
+          "q": "Is er in Bad Gastein laat op de avond iets te eten met hond?",
+          "a": "Het Jagerhausl in het centrum serveert van woensdag tot zondag doorlopend tot middernacht en tolereert brave aangelijnde honden, wat het de standaardoptie voor laat op de avond maakt."
         }
       ]
     },
@@ -229,8 +257,11 @@
           "tipPt": "Percorra-o de ponta a ponta e desça de novo à vila pelo Wasserfallweg para um circuito de cerca de duas horas ao ritmo do faro.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaiser-Wilhelm-Promenade+Bad+Gastein",
           "descriptionDe": "Ein breiter, fast ebener Panoramaweg oberhalb des Ortes durch schattigen Wald, angelegt für die Kurgäste der Kaiserzeit. Es ist der klassische leichte tägliche Spaziergang in Bad Gastein: weicher Untergrund, große Talblicke und kühle Luft auch an warmen Tagen.",
+          "descriptionNl": "Een brede, bijna vlakke panoramaweg boven het dorp door schaduwrijk bos, aangelegd voor de kuurgasten uit de keizertijd. Het is de klassieke lichte dagelijkse wandeling in Bad Gastein, zachte ondergrond, weidse dalzichten en koele lucht zelfs op warme dagen.",
           "offLeashAreaDe": "Keine; Leinenpflicht auf der gesamten Promenade",
-          "tipDe": "Die Strecke von Ende zu Ende laufen und über den Wasserfallweg zurück in den Ort für eine Runde von etwa zwei Stunden im Schnüffeltempo."
+          "offLeashAreaNl": "Geen, aanlijnplicht op de hele promenade",
+          "tipDe": "Die Strecke von Ende zu Ende laufen und über den Wasserfallweg zurück in den Ort für eine Runde von etwa zwei Stunden im Schnüffeltempo.",
+          "tipNl": "Loop het traject van eind tot eind en ga via het watervalpad terug naar het dorp voor een rondje van ongeveer twee uur op snuffeltempo."
         },
         {
           "name": "Wasserfallweg (Gastein Waterfall trail)",
@@ -252,8 +283,11 @@
           "tipPt": "O trilho fecha no inverno; de novembro à primavera, admire a cascata gelada da ponte rodoviária no centro.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gasteiner+Wasserfall+Bad+Gastein",
           "descriptionDe": "Die Gasteiner Ache stürzt in drei Stufen 341 m durch die Ortsmitte, und dieser kostenlose Weg mit Treppen und Plattformen folgt ihr hinunter Richtung Badbruck, vorbei an der steinernen Wasserfallbrücke von 1840. Die Gischt hält die Schlucht an Sommernachmittagen angenehm kühl, was Hunde zu schätzen wissen.",
+          "descriptionNl": "De Gasteiner Ache stort in drie trappen 341 m door het midden van het dorp, en dit gratis pad met trappen en platforms volgt hem naar beneden richting Badbruck, langs de stenen watervalbrug uit 1840. De nevel houdt de kloof op zomermiddagen aangenaam koel, wat honden waarderen.",
           "offLeashAreaDe": "Keine; auf den Treppen und Aussichtsplattformen ist eine kurze Leine unerlässlich",
-          "tipDe": "Der Weg ist im Winter geschlossen; von November bis zum Frühjahr die gefrorenen Fälle stattdessen von der Straßenbrücke im Zentrum aus bewundern."
+          "offLeashAreaNl": "Geen, op de trappen en uitzichtplatforms is een korte lijn essentieel",
+          "tipDe": "Der Weg ist im Winter geschlossen; von November bis zum Frühjahr die gefrorenen Fälle stattdessen von der Straßenbrücke im Zentrum aus bewundern.",
+          "tipNl": "Het pad is in de winter gesloten, bewonder van november tot het voorjaar de bevroren watervallen in plaats daarvan vanaf de wegbrug in het centrum."
         },
         {
           "name": "Kötschachtal valley trail",
@@ -275,8 +309,11 @@
           "tipPt": "O ribeiro oferece pontos constantes para beber e chapinhar: é a melhor opção em dias quentes; no inverno torna-se um percurso sinalizado de caminhada invernal.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=K%C3%B6tschachtal+Bad+Gastein",
           "descriptionDe": "Ein sanftes Seitental, das beim Hotelweiler Grüner Baum beginnt und einem Bach über den flachen Talboden unterhalb der Himmelwand-Felswände bis zur Prossau auf 1.278 m folgt. Von Reisebloggern für Hundebesitzer als die Hundewanderung im Gasteinertal dokumentiert, mit zwei hundefreundlichen Hütten am Weg.",
+          "descriptionNl": "Een zacht zijdal dat begint bij het hotelgehucht Gruner Baum en een beek volgt over de vlakke dalbodem onder de Himmelwand-rotswanden tot aan de Prossau op 1.278 m. Door reisbloggers voor hondeneigenaren gedocumenteerd als de hondenwandeling in het Gasteinertal, met twee hondvriendelijke hutten onderweg.",
           "offLeashAreaDe": "Keine offizielle; bei weidenden Kühen und Wildtieren die Leine anlegen",
-          "tipDe": "Der Bach bietet ständige Trink- und Planschstellen, deshalb die beste Option an heißen Tagen; im Winter wird er zu einem markierten Winterwanderweg."
+          "offLeashAreaNl": "Geen officiele, leg bij grazende koeien en wild de lijn aan",
+          "tipDe": "Der Bach bietet ständige Trink- und Planschstellen, deshalb die beste Option an heißen Tagen; im Winter wird er zu einem markierten Winterwanderweg.",
+          "tipNl": "De beek biedt voortdurend drink- en plonsplekken, dus de beste optie op hete dagen, in de winter wordt het een gemarkeerd winterwandelpad."
         }
       ],
       "tipsEn": [
@@ -356,7 +393,9 @@
         }
       ],
       "titleDe": "Hundespaziergänge & Grünflächen in Bad Gastein",
+      "titleNl": "Hondenwandelingen en groen in Bad Gastein",
       "introDe": "Bad Gastein hat keine Stadtparks im klassischen Sinn, und braucht auch keine: der Ort hängt an einem bewaldeten Berghang, durchzogen von Promenaden, Wasserfallwegen und einem flachen Seitental, die wie für Hunde gemacht wirken. Auf allen wird Leinenpflicht erwartet, und im Sommer teilt man sich die höheren Almwiesen mit weidenden Kühen.",
+      "introNl": "Bad Gastein heeft geen stadsparken in klassieke zin, en heeft ze ook niet nodig, het dorp hangt aan een beboste berghelling, doorsneden met promenades, watervalpaden en een vlak zijdal die als gemaakt lijken voor honden. Op allemaal wordt aanlijnplicht verwacht, en in de zomer deel je de hogere almweides met grazende koeien.",
       "faqsDe": [
         {
           "q": "Gibt es in Bad Gastein Hundeauslaufflächen ohne Leine?",
@@ -369,6 +408,20 @@
         {
           "q": "Welcher Spaziergang eignet sich am besten in der Sommerhitze?",
           "a": "Das Kötschachtal: der Talboden bleibt schattig, der Bach bietet ständig Wasser, und die zwei Hütten am Weg heißen Hunde willkommen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er in Bad Gastein losloopgebieden zonder lijn?",
+          "a": "Er zijn geen omheinde hondenparken in het dorp. Het compenseert met een enorm netwerk van boswandelingen en het vlakke Kotschachtal, allemaal aan de lijn te belopen, plus enkele op huisdieren gespecialiseerde hotels met omheinde prive tuinen."
+        },
+        {
+          "q": "Kunnen honden langs het watervalpad lopen?",
+          "a": "Ja, het watervalpad is van voorjaar tot herfst gratis en open voor aangelijnde honden, maar het is een pad met trappen en platforms, houd de lijn dus kort. In de winter is het gesloten."
+        },
+        {
+          "q": "Welke wandeling is het beste bij zomerhitte?",
+          "a": "Het Kotschachtal, de dalbodem blijft schaduwrijk, de beek biedt voortdurend water, en de twee hutten onderweg heten honden welkom."
         }
       ]
     },
@@ -508,7 +561,9 @@
         }
       ],
       "titleDe": "Mit Hund unterwegs in Bad Gastein",
+      "titleNl": "Met hond onderweg in Bad Gastein",
       "introDe": "Bad Gastein liegt an der Tauernbahn, sodass man direkt mit dem Zug anreisen und sich dann auf Talbusse, Seilbahnen und die eigenen vier Pfoten verlassen kann. Die österreichischen Regeln sind streng, aber vorhersehbar: In Zügen und Bussen sind Maulkorb und Leine Pflicht, und die Gasteiner Bergbahnen befördern Hunde gegen eine geringe Tagesgebühr.",
+      "introNl": "Bad Gastein ligt aan de Tauernbahn, zodat je direct met de trein kunt aankomen en daarna kunt vertrouwen op dalbussen, kabelbanen en je eigen vier pootjes. De Oostenrijkse regels zijn streng maar voorspelbaar, in treinen en bussen zijn muilkorf en lijn verplicht, en de Gasteiner bergbanen vervoeren honden tegen een kleine dagvergoeding.",
       "faqsDe": [
         {
           "q": "Brauchen Hunde in Bad Gastein einen Maulkorb im öffentlichen Verkehr?",
@@ -521,6 +576,20 @@
         {
           "q": "Kann ich das Tal ohne Auto erkunden?",
           "a": "Ja. Der Zug plus die Talbusse verbinden Dorfgastein, Bad Hofgastein, Bad Gastein, Böckstein und Sportgastein, und die Bahnen bringen Hunde auf die Berge, sodass ein autofreier Hundeurlaub hier wirklich praktikabel ist."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hebben honden in Bad Gastein een muilkorf nodig in het openbaar vervoer?",
+          "a": "Ja. OBB-treinen en SVV-bussen vereisen voor honden buiten een draagbox een muilkorf en een lijn. Neem de muilkorf ook mee voor de kabelbanen, waar hij weliswaar aanbevolen maar niet verplicht is."
+        },
+        {
+          "q": "Hoeveel kost een ticket voor de hond?",
+          "a": "In treinen een vast bedrag van 2 euro tot 98 km en 10 procent van de volle prijs daarboven, in de dalbussen het minimumtarief, in de Gasteiner kabelbanen 5 euro per dag. Kleine honden in draagboxen reizen gratis in treinen en bussen."
+        },
+        {
+          "q": "Kan ik het dal verkennen zonder auto?",
+          "a": "Ja. De trein plus de dalbussen verbinden Dorfgastein, Bad Hofgastein, Bad Gastein, Bockstein en Sportgastein, en de kabelbanen brengen honden de bergen op, waardoor een autovrije hondenvakantie hier echt haalbaar is."
         }
       ]
     },
@@ -575,7 +644,9 @@
         }
       ],
       "titleDe": "Badestellen bei Bad Gastein",
+      "titleNl": "Zwemplekken bij Bad Gastein",
       "introDe": "Inhalt folgt in Kürze. Bad Gastein ist ein hochalpiner Kurort auf etwa 1.000 m ohne Meer und ohne Badesee im Tal selbst; Hunde kühlen sich stattdessen in den Gebirgsbächen des Kötschachtals und der Gasteiner Ache ab, und ein auf Haustiere spezialisiertes Hotel unterhält einen privaten, eingezäunten Hundeschwimmteich. Die nächste klassische Seebademöglichkeit liegt rund um Zell am See, etwa 40 km entfernt.",
+      "introNl": "Inhoud volgt binnenkort. Bad Gastein is een hoogalpine kuurplaats op ongeveer 1.000 m zonder zee en zonder zwemmeer in het dal zelf, honden verkoelen zich in plaats daarvan in de bergbeken van het Kotschachtal en de Gasteiner Ache, en een op huisdieren gespecialiseerd hotel heeft een prive, omheinde hondenzwemvijver. De dichtstbijzijnde klassieke zwemgelegenheid bij een meer ligt rond Zell am See, ongeveer 40 km verderop.",
       "faqsDe": [
         {
           "q": "Gibt es einen Hundestrand in Bad Gastein?",
@@ -584,6 +655,16 @@
         {
           "q": "Wo kann mein Hund an einem heißen Tag schwimmen?",
           "a": "Der Bach entlang des Kötschachtal-Talbodens hat sichere, flache Planschstellen, und das auf Haustiere spezialisierte Hotel GRUBERS in Böckstein hat einen privaten, eingezäunten Hundeteich für seine Gäste."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een hondenstrand in Bad Gastein?",
+          "a": "Nee. Het dal heeft geen zwemmeer, honden plonsen in plaats daarvan in de bergbeken, en het Zeller See bij Zell am See (ongeveer 40 km) is de dichtstbijzijnde bestemming bij een meer."
+        },
+        {
+          "q": "Waar kan mijn hond op een hete dag zwemmen?",
+          "a": "De beek langs de dalbodem van het Kotschachtal heeft veilige, ondiepe plonsplekken, en het op huisdieren gespecialiseerde hotel GRUBERS in Bockstein heeft een prive, omheinde hondenvijver voor zijn gasten."
         }
       ]
     },
@@ -620,8 +701,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tierarztpraxis+Laubichler+Achenstra%C3%9Fe+17+Bad+Hofgastein",
           "photo": "/images/city-places/bad-gastein-vets-tierarztpraxis-laubichler.jpg",
           "hoursDe": "Kleintiersprechstunde Mo, Mi, Fr 11:00-13:00 Uhr, nach telefonischer Terminvereinbarung",
+          "hoursNl": "Spreekuur voor kleine huisdieren ma, wo, vr 11.00-13.00 uur, na telefonische afspraak",
           "descriptionDe": "Die Tierarztpraxis des Gasteinertals, geführt von Mag. med. vet. Katrin Laubichler, behandelt Hunde und Katzen neben Nutztieren. Sie ist die nächstgelegene professionelle Hilfe für Bad Gastein, etwa 7 km entfernt in Bad Hofgastein.",
-          "tipDe": "Immer vorher anrufen: Die Kleintiersprechstunde läuft mit begrenzten Zeiten und Terminen, und die Praxis deckt auch Hofbesuche im ganzen Tal ab."
+          "descriptionNl": "De dierenartspraktijk van het Gasteinertal, geleid door Mag. med. vet. Katrin Laubichler, behandelt honden en katten naast landbouwhuisdieren. Het is de dichtstbijzijnde professionele hulp voor Bad Gastein, ongeveer 7 km verderop in Bad Hofgastein.",
+          "tipDe": "Immer vorher anrufen: Die Kleintiersprechstunde läuft mit begrenzten Zeiten und Terminen, und die Praxis deckt auch Hofbesuche im ganzen Tal ab.",
+          "tipNl": "Bel altijd van tevoren, het spreekuur voor kleine huisdieren heeft beperkte tijden en werkt op afspraak, en de praktijk verzorgt ook huisbezoeken in het hele dal."
         }
       ],
       "faqsEn": [
@@ -665,7 +749,9 @@
         }
       ],
       "titleDe": "Tierärzte in der Nähe von Bad Gastein",
+      "titleNl": "Dierenartsen bij Bad Gastein",
       "introDe": "Bad Gastein selbst hat keine Kleintierklinik; die Tierarztpraxis des Tals liegt im benachbarten Bad Hofgastein, etwa 7 km talabwärts und mit dem Talbus erreichbar. Außerhalb ihrer begrenzten Sprechzeiten betreibt das Land Salzburg ein rotierendes tierärztliches Bereitschaftssystem, deshalb vor der Fahrt immer anrufen und in einem lebensbedrohlichen Notfall das Hotel um Hilfe bitten, den aktuellen Bereitschaftstierarzt für den Pongau zu erreichen.",
+      "introNl": "Bad Gastein zelf heeft geen kliniek voor kleine huisdieren, de dierenartspraktijk van het dal ligt in het naburige Bad Hofgastein, ongeveer 7 km dalafwaarts en bereikbaar met de dalbus. Buiten hun beperkte spreekuren beheert de deelstaat Salzburg een roulerend dierenartsdienstsysteem, bel dus altijd voor de rit en vraag in een levensbedreigend spoedgeval het hotel om te helpen de actuele dienstdoende dierenarts voor de Pongau te bereiken.",
       "faqsDe": [
         {
           "q": "Gibt es in Bad Gastein eine 24-Stunden-Tierklinik?",
@@ -674,6 +760,16 @@
         {
           "q": "Welche Nummer rufe ich bei einem Tiernotfall an?",
           "a": "Zuerst die Talpraxis unter +43 664 3840438; der Anrufbeantworter verweist auf den aktuellen Bereitschaftstierarzt. Die allgemeine europäische Notrufnummer 112 ist nur für menschliche Notfälle."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs dierenkliniek in Bad Gastein?",
+          "a": "Nee. De dalpraktijk in Bad Hofgastein heeft beperkte spreekuren, en de deelstaat Salzburg dekt nachten en weekenden af via een roulerend dienstsysteem. Sla het praktijknummer op, bel eerst, en houd er bij grotere spoedgevallen rekening mee dat je richting St. Johann im Pongau of Salzburg moet rijden."
+        },
+        {
+          "q": "Welk nummer bel ik bij een dierennoodgeval?",
+          "a": "Bel eerst de dalpraktijk op +43 664 3840438, het antwoordapparaat verwijst naar de actuele dienstdoende dierenarts. Het algemene Europese alarmnummer 112 is alleen voor noodgevallen bij mensen."
         }
       ]
     },
@@ -790,7 +886,9 @@
       "tipsEs": [],
       "tipsPt": [],
       "titleDe": "Praktische Tipps für einen Besuch in Bad Gastein mit Hund",
+      "titleNl": "Praktische tips voor een bezoek aan Bad Gastein met hond",
       "introDe": "Bad Gastein ist einer der Kurorte in den Alpen, die man am leichtesten mit Hund genießen kann, solange man drei lokale Gegebenheiten respektiert: die Thermalbäder sind nur für Menschen, das Gelände ist steil, und in ganz Österreich gelten auf allen Verkehrsmitteln Maulkorb- und Leinenpflicht. Wer sich darauf einstellt, wird im Tal mit liftbedienten Gipfeln, Hüttenmittagessen und Spaziergängen am Bach im Tal belohnt.",
+      "introNl": "Bad Gastein is een van de kuuroorden in de Alpen die het makkelijkst te genieten is met hond, zolang je drie lokale zaken respecteert, de thermale baden zijn alleen voor mensen, het terrein is steil, en in heel Oostenrijk gelden op al het openbaar vervoer muilkorf- en aanlijnplicht. Wie zich daarop instelt, wordt in het dal beloond met liftbediende toppen, hutlunches en wandelingen langs de beek in het dal.",
       "faqsDe": [
         {
           "q": "Kann mein Hund mit in die Alpentherme oder Felsentherme?",
@@ -803,6 +901,20 @@
         {
           "q": "Welche Dokumente braucht mein Hund in Österreich?",
           "a": "Die Standard-EU-Regeln: Heimtierausweis, Mikrochip und gültige Tollwutimpfung. Österreich verlangt bei EU-Einreise keine Quarantäne; den Ausweis in Zügen mitführen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond mee naar de Alpentherme of Felsentherme?",
+          "a": "Nee, thermale baden en behandelcentra laten nooit honden toe. Gebruik hotelgebonden hondenopvang (GRUBERS biedt het per uur aan) en plan spa-sessies rond de wandelingen van de hond."
+        },
+        {
+          "q": "Is Bad Gastein geschikt voor een wintervakantie met hond?",
+          "a": "Ja, met de juiste hond, het dal prepareert winterwandelpaden, hotels heten honden in het laagseizoen welkom, en de kabelbanen blijven ze vervoeren. Bescherm pootjes tegen strooizout en houd er rekening mee dat het watervalpad gesloten is."
+        },
+        {
+          "q": "Welke documenten heeft mijn hond nodig in Oostenrijk?",
+          "a": "De standaard EU-regels, huisdierenpaspoort, chip en geldige hondsdolheidsvaccinatie. Oostenrijk vereist bij EU-binnenkomst geen quarantaine, neem het paspoort mee in de trein."
         }
       ]
     },
@@ -839,9 +951,13 @@
           "tipPt": "Venha depois de chuvas fortes ou durante o degelo de junho, quando a cascata troveja com mais força e os borrifos refrescam toda a garganta.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gasteiner+Wasserfall+Bad+Gastein",
           "descriptionDe": "Einer der großen Wasserfälle Europas mitten im Ort, der in drei Stufen 341 m zwischen den großen Hotels hinabstürzt. Aussichtsplattformen, die steinerne Brücke von 1840 und der anschließende Wasserfallweg machen ihn zu einem vollwertigen Ausflug statt nur einem Fotostopp.",
+          "descriptionNl": "Een van de grote watervallen van Europa midden in het dorp, die in drie trappen 341 m naar beneden stort tussen de grote hotels. Uitzichtplatforms, de stenen brug uit 1840 en het aansluitende watervalpad maken er een volwaardig uitje van in plaats van slechts een fotostop.",
           "dogPolicyDe": "Kostenlose öffentliche Freiluftanlage; angeleinte Hunde auf allen Plattformen und Wegen willkommen (Weg im Winter geschlossen).",
+          "dogPolicyNl": "Gratis openbare buitenvoorziening, aangelijnde honden welkom op alle platforms en paden (pad gesloten in de winter).",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Nach starkem Regen oder während der Schneeschmelze im Juni kommen, wenn die Fälle am donnerndsten sind und die Gischt die ganze Schlucht abkühlt."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Nach starkem Regen oder während der Schneeschmelze im Juni kommen, wenn die Fälle am donnerndsten sind und die Gischt die ganze Schlucht abkühlt.",
+          "tipNl": "Kom na stevige regen of tijdens de sneeuwsmelt in juni, wanneer de watervallen het luidst zijn en de nevel de hele kloof afkoelt."
         },
         {
           "name": "Stubnerkogel suspension bridge",
@@ -866,9 +982,13 @@
           "tipPt": "Verifique primeiro o conforto das patas no piso metálico gradeado; se o seu cão hesitar, o trilho alternativo de piso firme chega aos mesmos miradouros.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stubnerkogel+H%C3%A4ngebr%C3%BCcke+Bad+Gastein",
           "descriptionDe": "Eine 140 Meter lange Hängebrücke knapp unterhalb des Stubnerkogel-Gipfels, mit Blick auf die Gletscher der Hohen Tauern an klaren Tagen. Die Gondel vom Ort befördert Hunde, sodass der gesamte hochalpine Ausflug ganz ohne einen Höhenmeter zu Fuß gelingt.",
+          "descriptionNl": "Een hangbrug van 140 meter net onder de top van de Stubnerkogel, met uitzicht op de gletsjers van de Hohe Tauern op heldere dagen. De gondel vanuit het dorp vervoert honden, zodat het hele hoogalpine uitje volledig zonder een hoogtemeter te voet lukt.",
           "dogPolicyDe": "Hunde fahren angeleint für 5 EUR pro Tag mit der Gondel; Maulkorb in der Kabine empfohlen. Der Gitterbelag der Brücke stört manche Hunde, ein paralleler fester Weg umgeht ihn.",
+          "dogPolicyNl": "Honden reizen aangelijnd voor 5 euro per dag mee met de gondel, muilkorf in de cabine aanbevolen. De roosterbevloering van de brug stoort sommige honden, een parallel vast pad omzeilt dit.",
           "admissionFeeDe": "Liftticket erforderlich; Hund 5 EUR/Tag",
-          "tipDe": "Zuerst prüfen, wie der Hund mit dem Metallgitterbelag der Brücke zurechtkommt; wenn er zögert, erreicht der feste Umgehungsweg dieselben Aussichtspunkte."
+          "admissionFeeNl": "Liftticket vereist, hond 5 euro/dag",
+          "tipDe": "Zuerst prüfen, wie der Hund mit dem Metallgitterbelag der Brücke zurechtkommt; wenn er zögert, erreicht der feste Umgehungsweg dieselben Aussichtspunkte.",
+          "tipNl": "Controleer eerst hoe de hond omgaat met de metalen roosterbevloering van de brug, als hij aarzelt, bereikt het vaste omleidingspad dezelfde uitkijkpunten."
         },
         {
           "name": "Belle Époque town centre",
@@ -893,9 +1013,13 @@
           "tipPt": "Faça o circuito ao anoitecer, quando as grandes fachadas se iluminam e as ruas se esvaziam; o rugido da cascata guia-o de volta ao centro.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bad+Gastein+town+centre",
           "descriptionDe": "Bad Gasteins monumentale Kurhotels aus der Kaiserzeit klammern sich in theatralischen Terrassen an die Schlucht, ein Ortsbild wie sonst nirgends in den Alpen. Das Durchstreifen der gestaffelten Straßen, Treppen und Aussichtspunkte kostet nichts und ist völlig hundekompatibel.",
+          "descriptionNl": "De monumentale kuurhotels van Bad Gastein uit de keizertijd klampen zich in theatrale terrassen aan de kloof, een dorpsaanzicht zoals nergens anders in de Alpen. Het doorkruisen van de trapsgewijze straten, trappen en uitkijkpunten kost niets en is volledig hondvriendelijk.",
           "dogPolicyDe": "Öffentliche Straßen und Aussichtspunkte; Leinenpflicht, Gebäudeinneres ausgenommen.",
+          "dogPolicyNl": "Openbare straten en uitkijkpunten, aanlijnplicht, binnenruimtes uitgezonderd.",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Die Runde in der Dämmerung machen, wenn die prächtigen Fassaden beleuchtet werden und die Straßen sich leeren; das Tosen des Wasserfalls führt zurück ins Zentrum."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Die Runde in der Dämmerung machen, wenn die prächtigen Fassaden beleuchtet werden und die Straßen sich leeren; das Tosen des Wasserfalls führt zurück ins Zentrum.",
+          "tipNl": "Maak de ronde in de schemering, wanneer de prachtige gevels verlicht worden en de straten leeglopen, het geraas van de waterval leidt terug naar het centrum."
         }
       ],
       "tipsEn": [
@@ -943,11 +1067,19 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Bad Gastein",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Bad Gastein",
       "introDe": "Bad Gasteins Hauptattraktionen liegen allesamt im Freien, die beste denkbare Nachricht mit Hund: ein 341 Meter hoher Wasserfall mitten im Ort, eine Hängebrücke auf 2.300 m, erreichbar mit einer hundefreundlichen Gondel, und ein Belle-Époque-Ortsbild, das man am besten zu Fuß erlebt. Nur die Thermalbäder und Innenmuseen bleiben tabu.",
+      "introNl": "De belangrijkste attracties van Bad Gastein liggen allemaal buiten, het beste denkbare nieuws met hond, een 341 meter hoge waterval midden in het dorp, een hangbrug op 2.300 m bereikbaar met een hondvriendelijke gondel, en een Belle-Epoque dorpsaanzicht dat je het beste te voet beleeft. Alleen de thermale baden en binnenmusea blijven verboden terrein.",
       "faqsDe": [
         {
           "q": "Was ist das absolut Beste, was man in Bad Gastein mit Hund unternehmen kann?",
           "a": "Mit dem Hund die Stubnerkogelbahn hinauffahren (5 EUR), die Gipfelwege und den Bereich der Hängebrücke erkunden, dann für ein spätes Mittagessen an einer Hütte im Kötschachtal absteigen. Das packt die drei Markenzeichen des Tals (Bahnen, Aussichten, Hütten) in einen für Hunde perfekten Tag."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat is het absolute hoogtepunt om met hond te doen in Bad Gastein?",
+          "a": "Ga met de hond met de Stubnerkogelbahn omhoog (5 euro), verken de toppaden en het gebied van de hangbrug, en daal dan af voor een late lunch bij een hut in het Kotschachtal. Dit combineert de drie kenmerken van het dal (kabelbanen, uitzichten, hutten) in een perfecte hondendag."
         }
       ]
     },
@@ -982,8 +1114,11 @@
           "tipEs": "Reserva las franjas de cuidado al reservar la habitación, sobre todo para estancias de cura: los horarios de tratamiento y la disponibilidad de cuidado se casan al reservar.",
           "tipPt": "Reserve as sessões de guarda ao reservar o quarto, sobretudo para estadas de cura: os horários de tratamento e a disponibilidade de guarda são conciliados na reserva.",
           "descriptionDe": "Das auf Hunde spezialisierte Hotel des Tals in Böckstein, mit einem 4.000 m² eingezäunten Garten und einem natürlichen Hundeschwimmteich, bietet Hundebetreuung für 15 EUR pro Stunde für seine Gäste. Aufenthalte ab fünf Nächten beinhalten eine Betreuungssitzung, und die Betreuung während Spa-Behandlungen ist für Gäste, die eine Kur machen, kostenlos.",
+          "descriptionNl": "Het op honden gespecialiseerde hotel van het dal in Bockstein, met een omheinde tuin van 4.000 m2 en een natuurlijke hondenzwemvijver, biedt hondenopvang voor 15 euro per uur aan zijn gasten. Verblijven vanaf vijf nachten omvatten een opvangsessie, en opvang tijdens spa-behandelingen is gratis voor gasten die een kuur volgen.",
           "serviceTypeDe": "Hotelbasierte Hundebetreuung, geführte Hundewanderungen, Hundetrainingseinheiten",
-          "tipDe": "Betreuungstermine bereits bei der Zimmerbuchung reservieren, besonders bei Kuraufenthalten: Behandlungspläne und Betreuungsverfügbarkeit werden bei der Buchung aufeinander abgestimmt."
+          "serviceTypeNl": "Hotelgebonden hondenopvang, begeleide hondenwandelingen, hondentrainingssessies",
+          "tipDe": "Betreuungstermine bereits bei der Zimmerbuchung reservieren, besonders bei Kuraufenthalten: Behandlungspläne und Betreuungsverfügbarkeit werden bei der Buchung aufeinander abgestimmt.",
+          "tipNl": "Reserveer opvangmomenten al bij het boeken van de kamer, vooral bij kuurverblijven, behandelplannen en opvangbeschikbaarheid worden bij het boeken op elkaar afgestemd."
         }
       ],
       "tipsEn": [
@@ -1031,11 +1166,19 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Hundebetreuung in Bad Gastein",
+      "titleNl": "Huisdierenoppas en hondenopvang in Bad Gastein",
       "introDe": "Bad Gastein ist ein kleiner Bergort ohne eigene Haustierbetreuungsagenturen oder Tagesbetreuungszentren; das Betreuungsangebot lebt stattdessen in den auf Haustiere spezialisierten Hotels. Für Spa-Behandlungen, den Besuch der Radongalerie oder Skitage die hotelbasierte Hundebetreuung vor der Anreise organisieren, statt vor Ort spontan einen Sitter zu suchen.",
+      "introNl": "Bad Gastein is een klein bergdorp zonder eigen huisdierenoppasbureaus of dagopvangcentra, het opvangaanbod leeft in plaats daarvan in de op huisdieren gespecialiseerde hotels. Organiseer voor spa-behandelingen, een bezoek aan de radongalerij of skidagen de hotelgebonden hondenopvang voor vertrek, in plaats van ter plekke spontaan een oppasser te zoeken.",
       "faqsDe": [
         {
           "q": "Finde ich in Bad Gastein einen Hundesitter für meine Spa-Behandlung?",
           "a": "Ja, aber über die Unterkunft statt über Agenturen: GRUBERS in Böckstein bietet einen hauseigenen Betreuungsdienst (für Kurgäste während der Behandlungen kostenlos), und andere Hotels können bei Anfrage vor der Anreise oft informelle Gassi-Hilfe organisieren."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Vind ik in Bad Gastein een hondenoppasser voor mijn spa-behandeling?",
+          "a": "Ja, maar via de accommodatie in plaats van via bureaus, GRUBERS in Bockstein biedt een eigen opvangdienst (gratis voor kuurgasten tijdens de behandelingen), en andere hotels kunnen bij navraag voor vertrek vaak informele uitlaathulp regelen."
         }
       ]
     }

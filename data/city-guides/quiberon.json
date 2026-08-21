@@ -41,9 +41,13 @@
           "tipPt": "Sente-se na esplanada e mantenha o seu cão com trela curta. A rua fica movimentada nos dias de ferry",
           "googleMapsUrl": "https://maps.google.com/?q=La+Crep+Port+Maria+Quiberon",
           "descriptionDe": "Eine einladende Crêperie wenige Schritte vom Fährterminal Port Maria entfernt, die bretonische Galettes und süße Crêpes aus frischen, lokalen Zutaten auf einer angenehmen Straßenterrasse serviert. Hunde sind auf der Terrasse willkommen, was sie zu einem praktischen Halt vor oder nach einer Inselfähre macht.",
+          "descriptionNl": "Een gastvrije creperie op een paar stappen van de veerterminal Port Maria, die Bretonse galettes en zoete crepes serveert met verse, lokale ingredienten op een aangenaam straatterras. Honden zijn welkom op het terras, wat het een praktische stop maakt voor of na een eilandveerboot.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Galette complète, Karamell-Crêpe, bretonischer Cidre",
-          "tipDe": "Setzen Sie sich auf die Terrasse und halten Sie Ihren Hund an einer kurzen Leine. An Fährtagen wird die Straße belebt"
+          "mustTryNl": "Galette complete, karamelcrepe, Bretonse cidre",
+          "tipDe": "Setzen Sie sich auf die Terrasse und halten Sie Ihren Hund an einer kurzen Leine. An Fährtagen wird die Straße belebt",
+          "tipNl": "Ga op het terras zitten en houd je hond aan een korte lijn. Op vertrekdagen van de veerboot wordt de straat druk"
         },
         {
           "name": "Ty Rétro",
@@ -71,9 +75,13 @@
           "tipPt": "Peça uma mesa na esplanada da praça. O interior é pequeno e enche depressa no verão",
           "googleMapsUrl": "https://maps.google.com/?q=Ty+Retro+Quiberon",
           "descriptionDe": "Eine im Vintage-Stil gestaltete Crêperie etwas hinter der Uferpromenade, die großzügige Galettes und Crêpes serviert, mit einer Terrasse am Platz. Das Restaurant akzeptiert Hunde, sodass Ihr Begleiter sich neben dem Tisch niederlassen kann, während Sie essen.",
+          "descriptionNl": "Een in vintage stijl ingerichte creperie iets achter de kadepromenade, die royale galettes en crepes serveert, met een terras aan het plein. Het restaurant accepteert honden, zodat je metgezel naast de tafel kan liggen terwijl je eet.",
           "petPolicyDe": "Hunde akzeptiert, Terrassensitzplätze",
+          "petPolicyNl": "Honden geaccepteerd, terraszitplaatsen",
           "mustTryDe": "Galette mit Andouille, Buchweizen-Crêpes, lokaler Cidre",
-          "tipDe": "Bitten Sie um einen Terrassentisch am Platz. Der Innenbereich ist klein und füllt sich im Sommer schnell"
+          "mustTryNl": "Galette met andouille, boekweitcrepes, lokale cidre",
+          "tipDe": "Bitten Sie um einen Terrassentisch am Platz. Der Innenbereich ist klein und füllt sich im Sommer schnell",
+          "tipNl": "Vraag om een terrastafel aan het plein. Het interieur is klein en loopt in de zomer snel vol"
         },
         {
           "name": "Terraces of Port Maria",
@@ -101,9 +109,13 @@
           "tipPt": "Escolha uma esplanada virada para o porto e pergunte antes de se sentar. As mesas do cais são mais calmas do que o interior para cães nervosos",
           "googleMapsUrl": "https://maps.google.com/?q=Port+Maria+Quiberon",
           "descriptionDe": "Der aktive Fischerhafen Port Maria ist gesäumt von Brasserien, Crêperies und Meeresfrüchte-Terrassen mit Blick auf die Boote und die Inselfähren. Viele dieser Terrassen am Kai akzeptieren einen Hund an der Leine, und die Meeresbrise hält die Tische im Sommer angenehm kühl.",
+          "descriptionNl": "De actieve vissershaven Port Maria is omzoomd met brasseries, creperies en zeevruchtenterrassen met uitzicht op de boten en de eilandveerboten. Veel van deze terrassen aan de kade accepteren een aangelijnde hond, en de zeebries houdt de tafels in de zomer aangenaam koel.",
           "petPolicyDe": "Viele Terrassen am Kai akzeptieren Hunde an der Leine. Fragen Sie zuerst nach",
+          "petPolicyNl": "Veel terrassen aan de kade accepteren aangelijnde honden. Vraag eerst na",
           "mustTryDe": "Austern aus Quiberon, Moules-frites, gegrillter Fisch des Tages",
-          "tipDe": "Wählen Sie eine Terrasse mit Blick auf den Hafen und fragen Sie vor dem Hinsetzen nach. Tische am Kai sind ruhiger als im Innenbereich für nervöse Hunde"
+          "mustTryNl": "Oesters uit Quiberon, mosselen met friet, gegrilde vis van de dag",
+          "tipDe": "Wählen Sie eine Terrasse mit Blick auf den Hafen und fragen Sie vor dem Hinsetzen nach. Tische am Kai sind ruhiger als im Innenbereich für nervöse Hunde",
+          "tipNl": "Kies een terras met uitzicht op de haven en vraag na voordat je gaat zitten. Tafels aan de kade zijn rustiger dan binnen voor nerveuze honden"
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Quiberon",
+      "titleNl": "Huisdiervriendelijke restaurants in Quiberon",
       "introDe": "Quiberon ist eine entspannte bretonische Küstenstadt, und die meisten Terrassen rund um Port Maria und den alten Hafen heißen einen wohlerzogenen Hund zu Ihren Füßen willkommen. Crêpes, Galettes, frische Austern und Meeresfrüchte sind die lokalen Spezialitäten, und der kühle atlantische Sommer sorgt dafür, dass die Tische im Freien auch im Juli und August angenehm bleiben.",
+      "introNl": "Quiberon is een ontspannen Bretonse kuststad, en de meeste terrassen rond Port Maria en de oude haven verwelkomen een goed opgevoede hond aan je voeten. Crepes, galettes, verse oesters en zeevruchten zijn de lokale specialiteiten, en de koele Atlantische zomer zorgt ervoor dat de buitentafels ook in juli en augustus aangenaam blijven.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Quiberon erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Kann ich mit meinem Hund essen, bevor ich eine Fähre zur Insel nehme?",
           "a": "Ja. Mehrere Terrassen liegen direkt am Fährterminal Port Maria, sodass Sie mit Ihrem Hund eine Galette oder Austern genießen können, bevor Sie das Boot nach Belle-Île, Houat oder Hoëdic besteigen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Quiberon?",
+          "a": "Op terrassen over het algemeen wel. Quiberon is een ontspannen kuststad, en de meeste creperies en zeevruchtenterrassen rond Port Maria accepteren een goed opgevoede aangelijnde hond. Binnen ligt het aan het oordeel van de uitbater, vraag dus altijd eerst na."
+        },
+        {
+          "q": "Waar vind je de meest huisdiervriendelijke restaurants in Quiberon?",
+          "a": "De haven van Port Maria en de oude haven hebben de hoogste concentratie hondvriendelijke terrassen. La Crep en Ty Retro zijn betrouwbare creperie-opties."
+        },
+        {
+          "q": "Kan ik met mijn hond eten voordat ik een veerboot naar het eiland neem?",
+          "a": "Ja. Meerdere terrassen liggen direct bij de veerterminal Port Maria, zodat je met je hond een galette of oesters kunt genieten voordat je aan boord gaat van de boot naar Belle-Ile, Houat of Hoedic."
         }
       ]
     },
@@ -229,8 +257,11 @@
           "tipPt": "Nunca solte o seu cão aqui. As falésias não têm proteção e ondas repentinas varrem as rochas",
           "googleMapsUrl": "https://maps.google.com/?q=Cote+Sauvage+Quiberon",
           "descriptionDe": "Die Côte Sauvage erstreckt sich über rund 8 km entlang der Atlantikseite der Halbinsel, vom Château Turpault bis zur Pointe du Percho, ein wilder Abschnitt mit Klippen, Bögen und tosender Brandung, gefolgt von einem Teilstück des GR34. Es ist ein spektakulärer Spaziergang mit Hund an der Leine, doch Schwimmen ist hier verboten, da die Strömungen und Unterströmungen zu den gefährlichsten im Morbihan zählen.",
+          "descriptionNl": "De Cote Sauvage strekt zich uit over ongeveer 8 km langs de Atlantische kant van het schiereiland, van Chateau Turpault tot Pointe du Percho, een ruig stuk met kliffen, rotsbogen en beukende branding, gevolgd door een deel van de GR34. Het is een spectaculaire wandeling met aangelijnde hond, maar zwemmen is hier verboden, want de stromingen en onderstromen behoren tot de gevaarlijkste van de Morbihan.",
           "offLeashAreaDe": "Keine. Hunde in der Nähe der Klippenkanten und vom Wasser fernhalten und an der Leine führen",
-          "tipDe": "Lassen Sie Ihren Hund hier niemals ohne Leine. Die Klippen sind nicht eingezäunt, und plötzliche Wellen überspülen die Felsen"
+          "offLeashAreaNl": "Geen. Houd honden bij de klifranden en het water weg en aan de lijn",
+          "tipDe": "Lassen Sie Ihren Hund hier niemals ohne Leine. Die Klippen sind nicht eingezäunt, und plötzliche Wellen überspülen die Felsen",
+          "tipNl": "Laat je hond hier nooit los. De kliffen zijn niet omheind, en plotselinge golven overspoelen de rotsen"
         },
         {
           "name": "Pointe du Conguel walk",
@@ -252,8 +283,11 @@
           "tipPt": "Combine com um café no Port Maria. O percurso plano da marginal é ideal para cães idosos ou pequenos",
           "googleMapsUrl": "https://maps.google.com/?q=Pointe+du+Conguel+Quiberon",
           "descriptionDe": "Ein leichter, überwiegend ebener Spaziergang von Port Maria entlang der Uferpromenade zur Pointe du Conguel, der südlichsten Spitze der Halbinsel, mit weiten Blicken über die Bucht und hinüber nach Belle-Île. Die Promenade ist fußgängerfreundlich und hundefreundlich an der Leine, wobei die empfindliche Spitze der Landzunge selbst zu belebten Zeiten den Zugang einschränkt.",
+          "descriptionNl": "Een makkelijke, grotendeels vlakke wandeling van Port Maria langs de kadepromenade naar Pointe du Conguel, de zuidelijkste punt van het schiereiland, met wijde uitzichten over de baai en naar Belle-Ile. De promenade is voetgangersvriendelijk en hondvriendelijk aan de lijn, waarbij de kwetsbare punt van de landtong zelf tijdens drukke tijden de toegang beperkt.",
           "offLeashAreaDe": "Keine. Leinenpflicht auf der Promenade und der Landzunge",
-          "tipDe": "Kombinieren Sie den Spaziergang mit einem Kaffee in Port Maria. Die flache Route entlang der Uferpromenade eignet sich ideal für ältere oder kleine Hunde"
+          "offLeashAreaNl": "Geen. Aanlijnplicht op de promenade en de landtong",
+          "tipDe": "Kombinieren Sie den Spaziergang mit einem Kaffee in Port Maria. Die flache Route entlang der Uferpromenade eignet sich ideal für ältere oder kleine Hunde",
+          "tipNl": "Combineer de wandeling met een koffie in Port Maria. De vlakke route langs de kadepromenade is ideaal voor oudere of kleine honden"
         },
         {
           "name": "Isthme de Penthièvre & dunes",
@@ -275,8 +309,11 @@
           "tipPt": "Mantenha-se nos trilhos marcados. Atravessar as dunas fora do trilho é proibido e danifica este habitat frágil",
           "googleMapsUrl": "https://maps.google.com/?q=Isthme+de+Penthievre",
           "descriptionDe": "An der schmalen Landenge, die die Halbinsel mit dem Festland verbindet, hat die Landenge von Penthièvre auf kaum 300 Metern das Meer auf beiden Seiten, überragt vom historischen Fort Penthièvre. Die geschützten Dünen und der Zollpfad (sentier des douaniers) in Richtung Portivy bieten einen luftigen, offenen Spaziergang, bei dem Hunde zum Schutz der Dünenvegetation und der brütenden Vögel an der Leine bleiben müssen.",
+          "descriptionNl": "Op de smalle landengte die het schiereiland met het vasteland verbindt, heeft de landengte van Penthievre op nauwelijks 300 meter de zee aan beide kanten, overheerst door het historische Fort Penthievre. De beschermde duinen en het douanepad (sentier des douaniers) richting Portivy bieden een luchtige, open wandeling, waarbij honden aangelijnd moeten blijven ter bescherming van de duinvegetatie en broedende vogels.",
           "offLeashAreaDe": "Keine. Leinenpflicht zum Schutz der Dünen und brütender Vögel",
-          "tipDe": "Bleiben Sie auf markierten Wegen. Das Betreten der Dünen abseits der Pfade ist verboten und schädigt den empfindlichen Lebensraum"
+          "offLeashAreaNl": "Geen. Aanlijnplicht ter bescherming van de duinen en broedende vogels",
+          "tipDe": "Bleiben Sie auf markierten Wegen. Das Betreten der Dünen abseits der Pfade ist verboten und schädigt den empfindlichen Lebensraum",
+          "tipNl": "Blijf op de gemarkeerde paden. Het betreden van de duinen buiten de paden is verboden en beschadigt de kwetsbare habitat"
         }
       ],
       "tipsEn": [
@@ -360,7 +397,9 @@
         }
       ],
       "titleDe": "Hundespaziergänge & Grünflächen in Quiberon",
+      "titleNl": "Hondenwandelingen & groene plekken in Quiberon",
       "introDe": "Der wahre Hundespielplatz von Quiberon ist seine Küste. Der Küstenpfad GR34 umrundet die gesamte Halbinsel, mit der dramatischen Côte Sauvage auf der wilden Atlantikseite und sanfteren Dünen und Heideflächen auf der Buchtseite. Es handelt sich um Spaziergänge und nicht um eingezäunte Parks, daher bleiben Hunde auf den Küstenpfaden an der Leine.",
+      "introNl": "De echte hondenspeeltuin van Quiberon is zijn kust. Het kustpad GR34 loopt rond het hele schiereiland, met de indrukwekkende Cote Sauvage aan de ruige Atlantische kant en zachtere duinen en heidevelden aan de baaikant. Het gaat om wandelingen en geen omheinde parken, dus blijven honden op de kustpaden aan de lijn.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde in Quiberon ohne Leine laufen?",
@@ -373,6 +412,20 @@
         {
           "q": "Gibt es Hundeparks in Quiberon?",
           "a": "Es gibt keine eingezäunten Freilauf-Hundeparks. Der Reiz der Halbinsel für Hunde liegt in ihrer Küstenlinie: Kilometer an Küstenspaziergängen an der Leine plus saisonale Hundestrände zum Laufen und Schwimmen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden in Quiberon loslopen?",
+          "a": "Niet op de kustpaden. De GR34-paden langs de Cote Sauvage en de duinen vereisen aangelijnde honden, zowel om veiligheidsredenen bij de kliffen als ter bescherming van de duinvegetatie en broedende vogels. Loslopen is realistisch alleen mogelijk op het open zand van de officiele hondenstranden."
+        },
+        {
+          "q": "Is de Cote Sauvage veilig voor een wandeling met hond?",
+          "a": "Ja, voor een wandeling aan de lijn, met grote voorzichtigheid bij de randen. Laat de hond daar nooit los. De kliffen zijn niet omheind, en plotselinge golven overspoelen de rotsen. Zwemmen is verboden langs de hele ruige kust."
+        },
+        {
+          "q": "Zijn er hondenparken in Quiberon?",
+          "a": "Er zijn geen omheinde losloopparken. De charme van het schiereiland voor honden ligt in de kustlijn: kilometers kustwandelingen aan de lijn plus seizoensgebonden hondenstranden om te lopen en te zwemmen."
         }
       ]
     },
@@ -512,7 +565,9 @@
         }
       ],
       "titleDe": "Mit Haustieren unterwegs in Quiberon",
+      "titleNl": "Op reis met huisdieren in Quiberon",
       "introDe": "Die An- und Weiterreise auf der Halbinsel Quiberon mit Hund ist unkompliziert. Der saisonale Tire-Bouchon-Zug verbindet Auray mit Quiberon, die BreizhGo-Océane-Fähren erreichen von Port Maria aus Belle-Île, Houat und Hoëdic, und der Großteil der Stadt ist zu Fuß erreichbar. Die Haustierregeln für Zug und Fähre sind klar und günstig.",
+      "introNl": "Aankomen en verder reizen op het schiereiland Quiberon met hond is eenvoudig. De seizoensgebonden Tire-Bouchon-trein verbindt Auray met Quiberon, de BreizhGo-Oceane-veerboten bereiken vanaf Port Maria Belle-Ile, Houat en Hoedic, en het grootste deel van de stad is te voet bereikbaar. De huisdierregels voor trein en veerboot zijn duidelijk en gunstig.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund im Tire-Bouchon-Zug nach Quiberon mitnehmen?",
@@ -525,6 +580,20 @@
         {
           "q": "Muss ich Fähr- oder Zugtickets mit Hund im Voraus buchen?",
           "a": "Im Sommer und an Wochenenden ja. Der Tire-Bouchon und die kleineren Inselfähren sind schnell ausgebucht. Eine Online-Buchung sichert sowohl Ihren Sitzplatz als auch das Ticket für Ihren Hund und ermöglicht die Reservierung von Fahrradplätzen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen in de Tire-Bouchon-trein naar Quiberon?",
+          "a": "Ja. De Tire-Bouchon is een TER-BreizhGo-zomertrein, dus gelden de gebruikelijke regels: honden onder 6 kg in een tas reizen gratis, grotere honden betalen een vast huisdierticket van 7 EUR, geldig de hele dag, en reizen aan de lijn met muilkorf."
+        },
+        {
+          "q": "Zijn honden toegestaan op de veerboot van Quiberon naar Belle-Ile?",
+          "a": "Ja. BreizhGo-Oceane-veerboten vanaf Port Maria nemen honden mee. Kleine honden in een tas reizen gratis, andere honden betalen ongeveer 6,70 EUR voor de heen- en terugreis, en alle dieren blijven tijdens de overtocht aan de lijn of op de arm van de eigenaar. Op Houat en Hoedic moeten honden aangelijnd blijven."
+        },
+        {
+          "q": "Moet ik veer- of treintickets met hond van tevoren boeken?",
+          "a": "In de zomer en in het weekend wel. De Tire-Bouchon en de kleinere eilandveerboten raken snel volgeboekt. Online boeken zorgt zowel voor je zitplaats als voor het ticket van je hond en maakt het mogelijk fietsplekken te reserveren."
         }
       ]
     },
@@ -546,16 +615,19 @@
           "descriptionEs": "Quiberon designa varias playas para perros oficiales que permanecen abiertas a los perros todo el año, incluidas Port Puns, las calas entre el casino y Beg-er-Vil en Port Maria, y dos pequeñas playas en Le Conguel. Son los lugares donde los perros pueden correr y bañarse en el lado abrigado de la bahía, incluso durante la prohibición estival en las playas familiares.",
           "descriptionPt": "Quiberon designa várias praias para cães oficiais que permanecem abertas aos cães durante todo o ano, incluindo Port Puns, as enseadas entre o casino e Beg-er-Vil em Port Maria, e duas pequenas praias em Le Conguel. São os locais onde os cães podem correr e nadar do lado abrigado da baía, mesmo durante a proibição de verão nas praias de família.",
           "descriptionDe": "Quiberon weist mehrere offizielle Hundestrände aus, die das ganze Jahr über für Hunde geöffnet bleiben, darunter Port Puns, die Buchten zwischen dem Casino und Beg-er-Vil bei Port Maria sowie zwei kleine Strände am Conguel. Dort können Hunde an der geschützten Buchtseite laufen und schwimmen, selbst während des sommerlichen Verbots an den Familienstränden.",
+          "descriptionNl": "Quiberon wijst meerdere officiele hondenstranden aan die het hele jaar door open blijven voor honden, waaronder Port Puns, de baaien tussen het Casino en Beg-er-Vil bij Port Maria en twee kleine stranden bij Le Conguel. Daar kunnen honden lopen en zwemmen aan de beschutte baaikant, zelfs tijdens het zomerverbod op de familiestranden.",
           "season": "Year-round",
           "seasonFr": "Toute l'année",
           "seasonEs": "Todo el año",
           "seasonPt": "Todo o ano",
           "seasonDe": "Ganzjährig",
+          "seasonNl": "Het hele jaar",
           "rules": "Open to dogs all year. Keep dogs under control, pick up after them, and check the on-site signs as exact zones can change each season.",
           "rulesFr": "Ouvertes aux chiens toute l'année. Gardez votre chien sous contrôle, ramassez ses déjections et consultez la signalétique sur place, car les zones exactes peuvent changer chaque saison.",
           "rulesEs": "Abiertas a los perros todo el año. Mantenga a su perro bajo control, recoja sus excrementos y consulte la señalización local, ya que las zonas exactas pueden cambiar cada temporada.",
           "rulesPt": "Abertas aos cães durante todo o ano. Mantenha o seu cão sob controlo, recolha os dejetos e consulte a sinalização no local, pois as zonas exatas podem mudar a cada temporada.",
           "rulesDe": "Ganzjährig für Hunde geöffnet. Halten Sie Ihren Hund unter Kontrolle, entfernen Sie seine Hinterlassenschaften und beachten Sie die Beschilderung vor Ort, da sich die genauen Zonen von Saison zu Saison ändern können.",
+          "rulesNl": "Het hele jaar open voor honden. Houd je hond onder controle, ruim de uitwerpselen op en let op de bebording ter plekke, want de precieze zones kunnen per seizoen veranderen.",
           "facilities": "Town beaches with nearby parking and cafés",
           "googleMapsUrl": "https://maps.google.com/?q=Port+Puns+Quiberon",
           "photo": ""
@@ -568,16 +640,19 @@
           "descriptionEs": "La Grande Plage es la principal playa familiar de Quiberon, una larga media luna de arena abrigada en la bahía. Es una de las playas donde los perros están prohibidos del 31 de marzo al 31 de octubre, así que planifique pasear a su perro aquí solo durante los meses de invierno, cuando se levanta la prohibición estacional.",
           "descriptionPt": "A Grande Plage é a principal praia de família de Quiberon, um longo crescente de areia abrigado do lado da baía. É uma das praias onde os cães são proibidos de 31 de março a 31 de outubro, por isso planeie passear com o seu cão aqui apenas nos meses de inverno, quando a proibição sazonal é levantada.",
           "descriptionDe": "Die Grande Plage ist Quiberons wichtigster Familienstrand, ein langer geschützter Sandbogen an der Bucht. Sie gehört zu den Stränden, an denen Hunde vom 31. März bis 31. Oktober verboten sind. Planen Sie den Hundespaziergang hier also nur in den Wintermonaten ein, wenn das saisonale Verbot aufgehoben ist.",
+          "descriptionNl": "De Grande Plage is Quiberons belangrijkste familiestrand, een lange beschutte zandboog aan de baai. Het behoort tot de stranden waar honden van 31 maart tot 31 oktober verboden zijn. Plan de hondenwandeling hier dus alleen in de wintermaanden, wanneer het seizoensverbod is opgeheven.",
           "season": "Dogs banned 31 March to 31 October",
           "seasonFr": "Chiens interdits du 31 mars au 31 octobre",
           "seasonEs": "Perros prohibidos del 31 de marzo al 31 de octubre",
           "seasonPt": "Cães proibidos de 31 de março a 31 de outubro",
           "seasonDe": "Hunde vom 31. März bis 31. Oktober verboten",
+          "seasonNl": "Honden verboden van 31 maart tot 31 oktober",
           "rules": "No dogs from 31 March to 31 October. Dogs allowed 1 November to 31 March. Use the caniplages in summer instead.",
           "rulesFr": "Pas de chiens du 31 mars au 31 octobre. Chiens autorisés du 1er novembre au 31 mars. Utilisez les caniplages en été.",
           "rulesEs": "Sin perros del 31 de marzo al 31 de octubre. Perros permitidos del 1 de noviembre al 31 de marzo. Use las caniplages en verano.",
           "rulesPt": "Sem cães de 31 de março a 31 de outubro. Cães permitidos de 1 de novembro a 31 de março. Use as caniplages no verão.",
           "rulesDe": "Keine Hunde vom 31. März bis 31. Oktober. Hunde vom 1. November bis 31. März erlaubt. Nutzen Sie im Sommer die Caniplages.",
+          "rulesNl": "Geen honden van 31 maart tot 31 oktober. Honden toegestaan van 1 november tot 31 maart. Gebruik in de zomer de caniplages.",
           "facilities": "Lifeguarded in season, cafés, parking nearby",
           "googleMapsUrl": "https://maps.google.com/?q=Grande+Plage+Quiberon",
           "photo": ""
@@ -590,16 +665,19 @@
           "descriptionEs": "Las pequeñas calas de la salvaje Côte Sauvage ofrecen paseos espectaculares con el perro atado, pero la natación está prohibida en toda esta costa porque las corrientes y las olas repentinas se encuentran entre las más peligrosas de Morbihan. Disfrútelas como paseo por los acantilados y la playa, nunca como zona de baño.",
           "descriptionPt": "As pequenas enseadas da selvagem Côte Sauvage proporcionam passeios espantosos com o cão preso à trela, mas a natação é proibida ao longo de toda esta costa, porque as correntes e as ondas repentinas estão entre as mais perigosas de Morbihan. Desfrute delas como passeio pelas falésias e pela praia, nunca como local de banho.",
           "descriptionDe": "Die kleinen Buchten der wilden Côte Sauvage eignen sich hervorragend für Spaziergänge mit angeleintem Hund, doch entlang der gesamten Küste ist Schwimmen verboten, da die Strömungen und plötzlichen Wellen zu den gefährlichsten im Morbihan zählen. Genießen Sie sie als Klippen- und Strandspaziergang, niemals zum Schwimmen.",
+          "descriptionNl": "De kleine baaien van de ruige Cote Sauvage lenen zich uitstekend voor wandelingen met aangelijnde hond, maar langs de hele kust is zwemmen verboden, want de stromingen en plotselinge golven behoren tot de gevaarlijkste van de Morbihan. Geniet ervan als klif- en strandwandeling, nooit om te zwemmen.",
           "season": "Walking year-round. Swimming forbidden",
           "seasonFr": "Promenade toute l'année. Baignade interdite",
           "seasonEs": "Paseo todo el año. Baño prohibido",
           "seasonPt": "Passeio durante todo o ano. Banho proibido",
           "seasonDe": "Ganzjährig zum Spazierengehen. Schwimmen verboten",
+          "seasonNl": "Het hele jaar om te wandelen. Zwemmen verboden",
           "rules": "Swimming prohibited everywhere on the Côte Sauvage. Keep dogs leashed near cliffs and out of the water.",
           "rulesFr": "Baignade interdite partout sur la Côte Sauvage. Gardez votre chien en laisse près des falaises et hors de l'eau.",
           "rulesEs": "Baño prohibido en toda la Côte Sauvage. Mantenga a su perro atado cerca de los acantilados y fuera del agua.",
           "rulesPt": "Banho proibido em toda a Côte Sauvage. Mantenha o cão preso à trela perto das falésias e fora de água.",
           "rulesDe": "Schwimmen ist überall an der Côte Sauvage verboten. Halten Sie Ihren Hund in der Nähe der Klippen und außerhalb des Wassers angeleint.",
+          "rulesNl": "Zwemmen is overal aan de Cote Sauvage verboden. Houd je hond bij de kliffen en buiten het water aangelijnd.",
           "facilities": "Coastal path access, car parks at viewpoints",
           "googleMapsUrl": "https://maps.google.com/?q=Cote+Sauvage+Quiberon",
           "photo": ""
@@ -646,7 +724,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in Quiberon",
+      "titleNl": "Hondvriendelijke stranden in Quiberon",
       "introDe": "Die Strandregeln für Hunde in Quiberon sind streng saisonal. Vom 1. November bis 31. März sind alle Strände der Stadt für Hunde geöffnet, doch vom 31. März bis 31. Oktober bleiben nur die offiziellen Hundestrände (Caniplages) geöffnet, während die Familienstrände auf der Buchtseite, einschließlich der Grande Plage, tabu sind. Der kühle atlantische Sommer macht einen morgendlichen Strandspaziergang selbst im August angenehm.",
+      "introNl": "De strandregels voor honden in Quiberon zijn strikt seizoensgebonden. Van 1 november tot 31 maart zijn alle stranden van de stad open voor honden, maar van 31 maart tot 31 oktober blijven alleen de officiele hondenstranden (caniplages) open, terwijl de familiestranden aan de baaikant, inclusief de Grande Plage, taboe zijn. De koele Atlantische zomer maakt een ochtendlijke strandwandeling zelfs in augustus aangenaam.",
       "faqsDe": [
         {
           "q": "Gibt es Hundestrände in Quiberon?",
@@ -655,6 +735,16 @@
         {
           "q": "Dürfen Hunde an der Côte Sauvage schwimmen?",
           "a": "Nein. Schwimmen ist entlang der gesamten wilden Côte Sauvage für alle verboten, da die Strömungen und Unterströmungen extrem gefährlich sind. Führen Sie Ihren Hund dort an der Leine spazieren, um die Landschaft zu genießen, und gehen Sie für das Schwimmen zu einem geschützten Caniplage auf der Buchtseite."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er hondenstranden in Quiberon?",
+          "a": "Ja. Quiberon heeft het hele jaar door open officiele hondenstranden (caniplages), waaronder Port Puns, de baaien van Port Maria en twee stranden bij Le Conguel. Van 31 maart tot 31 oktober zijn dit de enige voor honden open stranden; alle stranden van de stad openen van 1 november tot 31 maart weer voor honden."
+        },
+        {
+          "q": "Mogen honden zwemmen aan de Cote Sauvage?",
+          "a": "Nee. Zwemmen is verboden voor iedereen langs de hele ruige Cote Sauvage, want de stromingen en onderstromen zijn extreem gevaarlijk. Wandel daar met je hond aan de lijn om het landschap te genieten, en ga voor het zwemmen naar een beschutte caniplage aan de baaikant."
         }
       ]
     },
@@ -704,8 +794,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+veterinaire+Quiberon+Presquile",
           "photo": "",
           "hoursDe": "Nach Vereinbarung. Vorher anrufen",
+          "hoursNl": "Op afspraak. Van tevoren bellen",
           "descriptionDe": "Eine allgemeine Tierarztpraxis an der Hauptstraße durch Quiberon, die routinemäßige Konsultationen, Impfungen und Reisegesundheitsbedürfnisse sowie dringende Fälle innerhalb der Öffnungszeiten behandelt. Es ist die zentralste Praxis der Stadt und ein praktischer erster Anlaufpunkt für nicht dringende Anliegen während eines Aufenthalts.",
-          "tipDe": "Rufen Sie vorher an. Es handelt sich um eine Praxis in einer Kleinstadt, und Konsultationen erfolgen nach Vereinbarung"
+          "descriptionNl": "Een algemene dierenartspraktijk aan de hoofdstraat door Quiberon, die routineconsulten, vaccinaties en reisgezondheidsbehoeften behandelt, evenals dringende gevallen binnen de openingstijden. Het is de meest centrale praktijk van de stad en een praktisch eerste aanspreekpunt voor niet-dringende zaken tijdens een verblijf.",
+          "tipDe": "Rufen Sie vorher an. Es handelt sich um eine Praxis in einer Kleinstadt, und Konsultationen erfolgen nach Vereinbarung",
+          "tipNl": "Bel van tevoren. Het is een praktijk in een kleine stad, en consulten verlopen op afspraak"
         },
         {
           "name": "Cabinet vétérinaire de Port Maria",
@@ -729,8 +822,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cabinet+veterinaire+Port+Maria+Quiberon",
           "photo": "",
           "hoursDe": "Nach Vereinbarung. Vorher anrufen",
+          "hoursNl": "Op afspraak. Van tevoren bellen",
           "descriptionDe": "Eine allgemeine Tierarztpraxis in der Nähe des Fischerhafens Port Maria, praktisch, wenn Sie in der Nähe des Hafens oder des Fährterminals übernachten. Sie behandelt alltägliche Konsultationen und kann bei Bedarf zu örtlichen Regelungen außerhalb der Öffnungszeiten beraten.",
-          "tipDe": "Praktisch, wenn Ihre Unterkunft in der Nähe des Hafens liegt. Rufen Sie immer vorher an"
+          "descriptionNl": "Een algemene dierenartspraktijk bij de vissershaven Port Maria, praktisch als je in de buurt van de haven of de veerterminal overnacht. Ze behandelt alledaagse consulten en kan indien nodig advies geven over lokale regelingen buiten openingstijden.",
+          "tipDe": "Praktisch, wenn Ihre Unterkunft in der Nähe des Hafens liegt. Rufen Sie immer vorher an",
+          "tipNl": "Praktisch als je accommodatie dicht bij de haven ligt. Bel altijd van tevoren"
         },
         {
           "name": "Maison des Urgences Vétérinaires d'Auray",
@@ -754,8 +850,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Maison+des+Urgences+Veterinaires+Auray",
           "photo": "",
           "hoursDe": "Notfälle außerhalb der Öffnungszeiten. Vor dem Hinfahren anrufen",
+          "hoursNl": "Spoedgevallen buiten openingstijden. Bel voordat je gaat",
           "descriptionDe": "Ein spezialisierter tierärztlicher Notdienst in Auray, der Fälle außerhalb der Öffnungszeiten behandelt, wenn Ihr üblicher Tierarzt geschlossen hat, mit einem regulierenden Tierarzt, den Sie zunächst telefonisch erreichen können. Da es auf der Halbinsel selbst keine 24/7-Notfallklinik gibt, ist dies die nächste spezialisierte Notfalloption für ernsthafte Probleme nachts oder am Wochenende.",
-          "tipDe": "Speichern Sie diese Nummer vor Ihrer Reise. Rufen Sie zuerst an, damit der regulierende Tierarzt Sie beraten kann, bevor Sie nach Auray fahren"
+          "descriptionNl": "Een gespecialiseerde dierenartsspoeddienst in Auray, die gevallen buiten openingstijden behandelt wanneer je gewone dierenarts gesloten is, met een regelend dierenarts die je eerst telefonisch kunt bereiken. Omdat er op het schiereiland zelf geen 24/7-spoedkliniek is, is dit de dichtstbijzijnde gespecialiseerde spoedoptie voor ernstige problemen 's nachts of in het weekend.",
+          "tipDe": "Speichern Sie diese Nummer vor Ihrer Reise. Rufen Sie zuerst an, damit der regulierende Tierarzt Sie beraten kann, bevor Sie nach Auray fahren",
+          "tipNl": "Sla dit nummer op voor je reis. Bel eerst, zodat de regelend dierenarts je kan adviseren voordat je naar Auray rijdt"
         }
       ],
       "faqsEn": [
@@ -799,7 +898,9 @@
         }
       ],
       "titleDe": "Notfalltierärzte in Quiberon, Tierarztpraxen & Haustierbetreuung",
+      "titleNl": "Spoeddierenartsen in Quiberon, dierenartspraktijken & huisdierenzorg",
       "introDe": "Quiberon verfügt über zwei Tierarztpraxen in der Stadt für die tägliche Versorgung, und der nächste spezialisierte Notdienst außerhalb der Öffnungszeiten befindet sich in Auray, etwa 30 Minuten entfernt. Als EU-Land lässt Frankreich Hunde und Katzen mit EU-Heimtierausweis, Mikrochip und gültiger Tollwutimpfung einreisen.",
+      "introNl": "Quiberon heeft twee dierenartspraktijken in de stad voor dagelijkse zorg, en de dichtstbijzijnde gespecialiseerde spoeddienst buiten openingstijden bevindt zich in Auray, ongeveer 30 minuten verderop. Als EU-land laat Frankrijk honden en katten toe met een EU-huisdierenpaspoort, microchip en geldige rabiesvaccinatie.",
       "faqsDe": [
         {
           "q": "Gibt es einen Notfalltierarzt in Quiberon?",
@@ -808,6 +909,16 @@
         {
           "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Quiberon zu bringen?",
           "a": "Für in der EU registrierte Haustiere ja: einen EU-Heimtierausweis mit Mikrochip und aktueller Tollwutimpfung. Haustiere von außerhalb der EU benötigen eine Tiergesundheitsbescheinigung, einen Mikrochip und eine gültige Tollwutimpfung sowie je nach Herkunftsland möglicherweise einen Tollwut-Titertest. Prüfen Sie die französischen und EU-Einfuhrbestimmungen vor der Reise."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een spoeddierenarts in Quiberon?",
+          "a": "Er is geen 24/7-spoedkliniek op het schiereiland zelf. De twee praktijken in de stad behandelen dringende gevallen binnen openingstijden, en de dichtstbijzijnde gespecialiseerde spoeddienst buiten openingstijden is de Maison des Urgences Veterinaires d'Auray (+33 2 30 17 03 53), ongeveer 30 minuten verderop. Bel altijd eerst."
+        },
+        {
+          "q": "Heb ik een huisdierenpaspoort nodig om mijn hond naar Quiberon te brengen?",
+          "a": "Voor in de EU geregistreerde huisdieren wel: een EU-huisdierenpaspoort met microchip en actuele rabiesvaccinatie. Huisdieren van buiten de EU hebben een diergezondheidscertificaat, een microchip en een geldige rabiesvaccinatie nodig, en afhankelijk van het land van herkomst mogelijk een rabies-titertest. Controleer de Franse en EU-invoerregels voor je reis."
         }
       ]
     },
@@ -924,7 +1035,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Tipps für Quiberon",
+      "titleNl": "Hondvriendelijke tips voor Quiberon",
       "introDe": "Quiberon ist eine Atlantik-Badestadt mit kühlem Sommer, die sich gut für Hunde eignet, mit kilometerlangen Küstenspaziergängen und einem entspannten Tempo am Meer. Die wichtigsten Punkte, die es zu planen gilt, sind das saisonale Strandverbot und die Leinenpflicht auf den Küstenpfaden.",
+      "introNl": "Quiberon is een Atlantische badplaats met een koele zomer, uitstekend geschikt voor honden, met kilometers kustwandelingen en een ontspannen tempo aan zee. De belangrijkste punten om te plannen zijn het seizoensgebonden strandverbod en de aanlijnplicht op de kustpaden.",
       "faqsDe": [
         {
           "q": "Ist Quiberon gut für Hunde geeignet?",
@@ -937,6 +1050,20 @@
         {
           "q": "Was sollte ich für Quiberon mit meinem Hund einpacken?",
           "a": "Bringen Sie einen EU-Heimtierausweis, eine Leine (unverzichtbar auf den Küstenpfaden), Kotbeutel, einen Reise-Wassernapf und ein Handtuch für die Hundestrände mit. Eine windabweisende Schicht ist ebenfalls praktisch. Die Atlantikküste ist ganzjährig windig."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Quiberon geschikt voor honden?",
+          "a": "Ja, vooral buiten het hoogseizoen. Het is een Atlantische badplaats met een koele zomer, met kilometers kustwandelingen aan de lijn op de GR34, het hele jaar door open hondenstranden en een ontspannen tempo aan zee. De belangrijkste beperking is het zomerverbod op de familiestranden tussen 31 maart en 31 oktober."
+        },
+        {
+          "q": "Wanneer mogen honden naar de stranden van Quiberon?",
+          "a": "Honden kunnen het hele jaar door de officiele hondenstranden (caniplages) gebruiken. De familiestranden, inclusief de Grande Plage, zijn van 31 maart tot 31 oktober taboe voor honden en openen daarna van 1 november tot 31 maart weer voor honden."
+        },
+        {
+          "q": "Wat moet ik inpakken voor Quiberon met mijn hond?",
+          "a": "Neem een EU-huisdierenpaspoort mee, een lijn (onmisbaar op de kustpaden), poepzakjes, een reiswaterbakje en een handdoek voor de hondenstranden. Een windwerende laag is ook handig. De Atlantische kust is het hele jaar door winderig."
         }
       ]
     },
@@ -965,7 +1092,9 @@
           "tipPt": "Um ponto de partida perfeito para o passeio da Côte Sauvage. Mantenha o seu cão com trela. As falésias começam aqui",
           "googleMapsUrl": "https://maps.google.com/?q=Chateau+Turpault+Quiberon",
           "descriptionDe": "Das märchenhafte Château Turpault, ein privates Klippenhaus aus dem Jahr 1904, markiert den südlichen Beginn der Côte Sauvage und ist eines der meistfotografierten Wahrzeichen von Quiberon. Sie können es bewundern und von hier aus den Küstenspaziergang an der Leine beginnen, wobei das Château selbst eine private Residenz ist, die nicht für Besucher zugänglich ist.",
-          "tipDe": "Ein perfekter Startpunkt für den Spaziergang an der Côte Sauvage. Halten Sie Ihren Hund an der Leine. Die Klippen beginnen genau hier"
+          "descriptionNl": "Het sprookjesachtige Chateau Turpault, een prive klifhuis uit 1904, markeert het zuidelijke begin van de Cote Sauvage en is een van de meest gefotografeerde bezienswaardigheden van Quiberon. Je kunt het bewonderen en vanaf hier de kustwandeling aan de lijn beginnen, waarbij het chateau zelf een prive-residentie is die niet toegankelijk is voor bezoekers.",
+          "tipDe": "Ein perfekter Startpunkt für den Spaziergang an der Côte Sauvage. Halten Sie Ihren Hund an der Leine. Die Klippen beginnen genau hier",
+          "tipNl": "Een perfect startpunt voor de wandeling langs de Cote Sauvage. Houd je hond aan de lijn. De kliffen beginnen precies hier"
         },
         {
           "name": "Port Maria fishing harbour",
@@ -982,7 +1111,9 @@
           "tipPt": "Ótimo para um passeio tranquilo no porto. Atenção aos anzóis e às linhas no cais com cães curiosos",
           "googleMapsUrl": "https://maps.google.com/?q=Port+Maria+Quiberon",
           "descriptionDe": "Port Maria ist der lebendige Fischerhafen von Quiberon und der Abfahrtsort der Inselfähren, gesäumt von Meeresfrüchte-Terrassen, Fischhändlern und dem Kommen und Gehen der Boote. Es ist ein einfacher, stimmungsvoller Ort für einen Spaziergang mit Hund an der Leine, mit Austern oder Crêpes vor einer Überfahrt.",
-          "tipDe": "Hervorragend für einen entspannten Spaziergang am Hafen. Achten Sie bei neugierigen Hunden auf Angelhaken und Leinen am Kai"
+          "descriptionNl": "Port Maria is de levendige vissershaven van Quiberon en het vertrekpunt van de eilandveerboten, omzoomd met zeevruchtenterrassen, vishandelaren en het komen en gaan van de boten. Het is een eenvoudige, sfeervolle plek voor een wandeling met aangelijnde hond, met oesters of crepes voor een overtocht.",
+          "tipDe": "Hervorragend für einen entspannten Spaziergang am Hafen. Achten Sie bei neugierigen Hunden auf Angelhaken und Leinen am Kai",
+          "tipNl": "Uitstekend voor een ontspannen wandeling langs de haven. Let bij nieuwsgierige honden op vishaken en lijnen aan de kade"
         },
         {
           "name": "Quiberon thalassotherapy seafront",
@@ -999,7 +1130,9 @@
           "tipPt": "Passeie pela marginal aqui enquanto um de vocês usa o spa. O outro pode esperar fora com o cão",
           "googleMapsUrl": "https://maps.google.com/?q=Thalassotherapie+Quiberon",
           "descriptionDe": "Quiberon ist eine der Wiegen der modernen Thalassotherapie, und ihr Meerwasser-Spa neben dem Sofitel ist ein berühmter Teil der Identität der Stadt, gelegen an der Uferpromenade nahe der Pointe de Goulvars. Das Spa selbst ist nichts für Hunde, doch die umliegende Uferpromenade ist ein angenehmer Spaziergang an der Leine mit offenem Blick auf den Atlantik.",
-          "tipDe": "Spazieren Sie hier an der Uferpromenade entlang, während einer von Ihnen das Spa nutzt. Der andere kann mit dem Hund draußen warten"
+          "descriptionNl": "Quiberon is een van de bakermatten van de moderne thalassotherapie, en de zeewaterspa naast de Sofitel is een beroemd onderdeel van de identiteit van de stad, gelegen aan de kadepromenade bij Pointe de Goulvars. De spa zelf is niets voor honden, maar de omliggende kadepromenade is een aangename wandeling aan de lijn met open uitzicht op de Atlantische Oceaan.",
+          "tipDe": "Spazieren Sie hier an der Uferpromenade entlang, während einer von Ihnen das Spa nutzt. Der andere kann mit dem Hund draußen warten",
+          "tipNl": "Wandel hier langs de kadepromenade terwijl een van jullie de spa gebruikt. De ander kan buiten wachten met de hond"
         }
       ],
       "tipsEn": [
@@ -1079,7 +1212,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Quiberon",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Quiberon",
       "introDe": "Die Sehenswürdigkeiten von Quiberon sind größtenteils im Freien, was sich perfekt für Hunde eignet. Die wilde Küste, der aktive Hafen und die Inselfähren lassen sich alle mit einem Hund an der Leine genießen, und das Thalassotherapie-Erbe der Stadt sorgt für ein denkwürdiges, wenn auch hundefreies, Wahrzeichen an der Uferpromenade.",
+      "introNl": "De bezienswaardigheden van Quiberon zijn grotendeels buiten, wat perfect geschikt is voor honden. De ruige kust, de actieve haven en de eilandveerboten kun je allemaal genieten met een aangelijnde hond, en het thalassotherapie-erfgoed van de stad zorgt voor een gedenkwaardig, zij het hondenvrij, herkenningspunt aan de kadepromenade.",
       "faqsDe": [
         {
           "q": "Was kann ich in Quiberon mit meinem Hund unternehmen?",
@@ -1092,6 +1227,20 @@
         {
           "q": "Sind Hunde im Thalasso-Spa von Quiberon erlaubt?",
           "a": "Nein. Das Thalassotherapie-Zentrum ist ein Indoor-Spa und lässt keine Hunde zu. Sie können die umliegende Uferpromenade dennoch mit Ihrem Hund genießen, während ein Reisebegleiter das Spa nutzt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat kan ik in Quiberon doen met mijn hond?",
+          "a": "Veel in de buitenlucht: wandel de Cote Sauvage vanaf Chateau Turpault, slenter door de haven van Port Maria, volg de kadepromenade naar Pointe du Conguel en neem de veerboot naar Belle-Ile. Alles werkt met een aangelijnde hond."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen naar Pointe du Conguel?",
+          "a": "Je kunt de vlakke kadepromenade richting Pointe du Conguel aan de lijn belopen, maar de kwetsbare punt van de landtong zelf beperkt de voetgangerstoegang en is tijdens drukke tijden niet geschikt voor honden. Geniet in plaats daarvan van de aanloop en het uitzicht."
+        },
+        {
+          "q": "Zijn honden toegestaan in de thalasso-spa van Quiberon?",
+          "a": "Nee. Het thalassotherapiecentrum is een binnenspa en laat geen honden toe. Je kunt de omliggende kadepromenade wel met je hond genieten terwijl een reisgenoot de spa gebruikt."
         }
       ]
     },
@@ -1126,8 +1275,11 @@
           "tipEs": "Reserva con mucha antelación en julio y agosto. Los cuidadores en la península son limitados y se llenan rápido en temporada alta",
           "tipPt": "Reserve com muita antecedência em julho e agosto. Os cuidadores na península são limitados e enchem depressa na época alta",
           "descriptionDe": "Holidog ist eine der führenden Haustierbetreuungs-Plattformen Frankreichs, die Besitzer mit Gastfamilien und Haussittern im gesamten Morbihan, einschließlich der Region Quiberon, verbindet. Jede Buchung beinhaltet die Holivet-Garantie, die Tierarztkosten bis zu einem festgelegten Betrag abdeckt, während sich Ihr Tier in der Obhut eines Sitters befindet. Für Reisende ist es eine zuverlässige Möglichkeit, ein paar Stunden oder einen ganzen Tag Hundebetreuung zu organisieren, während Sie ein Spa, eine Insel oder eine Indoor-Sehenswürdigkeit besuchen, die keine Hunde zulässt.",
+          "descriptionNl": "Holidog is een van de toonaangevende huisdierenoppasplatforms van Frankrijk, dat eigenaren verbindt met gastgezinnen en huissitters in heel de Morbihan, inclusief de regio Quiberon. Elke boeking omvat de Holivet-garantie, die dierenartskosten tot een vastgesteld bedrag dekt terwijl je dier onder de hoede van een oppas is. Voor reizigers is het een betrouwbare manier om een paar uur of een hele dag hondenopvang te regelen terwijl je een spa, een eiland of een binnenattractie bezoekt die geen honden toelaat.",
           "serviceTypeDe": "Online-Buchung. Haussitting, Gastfamilien, Tagesbetreuung",
-          "tipDe": "Buchen Sie im Juli und August frühzeitig. Sitter auf der Halbinsel sind begrenzt und in der Hochsaison schnell ausgebucht"
+          "serviceTypeNl": "Online boeken. Huisoppas, gastgezinnen, dagopvang",
+          "tipDe": "Buchen Sie im Juli und August frühzeitig. Sitter auf der Halbinsel sind begrenzt und in der Hochsaison schnell ausgebucht",
+          "tipNl": "Boek in juli en augustus vroeg. Oppassers op het schiereiland zijn beperkt en raken in het hoogseizoen snel volgeboekt"
         },
         {
           "name": "Pawshake (Morbihan)",
@@ -1150,8 +1302,11 @@
           "tipEs": "Contacta a un cuidador antes de reservar para confirmar la disponibilidad y que se siente cómodo con la raza y el tamaño de tu perro",
           "tipPt": "Contacte um cuidador antes de reservar para confirmar a disponibilidade e que está à vontade com a raça e o tamanho do seu cão",
           "descriptionDe": "Pawshake ist eine international tätige Haustierbetreuungs-Plattform in ganz Frankreich, die lokale Sitter für Hundespaziergänge, Tagesbetreuung, Kurzbesuche und Unterbringung im Morbihan auflistet. Jede Buchung beinhaltet automatisch die Pawshake-Garantie, die Tierarztkosten abdeckt, und Sie können Sitter direkt kontaktieren, um sich zu vergewissern, dass sie mit der Größe und dem Energielevel Ihres Hundes zurechtkommen, bevor Sie buchen. Eine praktische Option für Besucher, die einen lokalen Sitter in der Nähe von Quiberon suchen.",
+          "descriptionNl": "Pawshake is een internationaal actief huisdierenoppasplatform in heel Frankrijk, dat lokale oppassers voor hondenwandelingen, dagopvang, korte bezoekjes en logeeropvang in de Morbihan aanbiedt. Elke boeking omvat automatisch de Pawshake-garantie, die dierenartskosten dekt, en je kunt oppassers direct contacteren om te controleren of ze overweg kunnen met de grootte en het energieniveau van je hond voordat je boekt. Een praktische optie voor bezoekers die een lokale oppas in de buurt van Quiberon zoeken.",
           "serviceTypeDe": "Online-Buchung. Spaziergänge, Tagesbetreuung, Kurzbesuche, Unterbringung",
-          "tipDe": "Kontaktieren Sie einen Sitter vor der Buchung, um die Verfügbarkeit zu bestätigen und sicherzustellen, dass er mit der Rasse und Größe Ihres Hundes zufrieden ist"
+          "serviceTypeNl": "Online boeken. Wandelingen, dagopvang, korte bezoekjes, logeeropvang",
+          "tipDe": "Kontaktieren Sie einen Sitter vor der Buchung, um die Verfügbarkeit zu bestätigen und sicherzustellen, dass er mit der Rasse und Größe Ihres Hundes zufrieden ist",
+          "tipNl": "Neem contact op met een oppas voor het boeken om de beschikbaarheid te bevestigen en te zorgen dat hij zich prettig voelt bij het ras en de grootte van je hond"
         }
       ],
       "tipsEn": [
@@ -1203,11 +1358,19 @@
         }
       ],
       "titleDe": "Hundesitter & Haustierbetreuung in Quiberon",
+      "titleNl": "Hondenoppas & huisdierenzorg in Quiberon",
       "introDe": "Quiberon ist eine kleine Stadt ohne große Hundetagesstätten-Ketten, daher verlassen sich Reisende, die ein paar Stunden Hundebetreuung benötigen, auf landesweite Haustierbetreuungs-Plattformen, die den Morbihan abdecken. Eine frühzeitige Buchung ist in den geschäftigen Sommermonaten unerlässlich, wenn lokale Sitter schnell ausgebucht sind.",
+      "introNl": "Quiberon is een kleine stad zonder grote hondendagopvangketens, dus reizigers die een paar uur hondenopvang nodig hebben, vertrouwen op landelijke huisdierenoppasplatforms die de Morbihan bestrijken. Vroeg boeken is essentieel in de drukke zomermaanden, wanneer lokale oppassers snel volgeboekt zijn.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Hundesitter in Quiberon?",
           "a": "Nutzen Sie landesweite Plattformen wie Holidog oder Pawshake, die Sitter im gesamten Morbihan, einschließlich der Region Quiberon, auflisten. Beide beinhalten eine Tierarztversicherung bei jeder Buchung. Da die Halbinsel klein ist, buchen Sie im Sommer mehrere Tage im Voraus."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe vind ik een hondenoppas in Quiberon?",
+          "a": "Gebruik landelijke platforms zoals Holidog of Pawshake, die oppassers in heel de Morbihan, inclusief de regio Quiberon, aanbieden. Beide omvatten een dierenartsverzekering bij elke boeking. Omdat het schiereiland klein is, boek je in de zomer meerdere dagen van tevoren."
         }
       ]
     }

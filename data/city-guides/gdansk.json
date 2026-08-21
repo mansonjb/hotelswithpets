@@ -39,9 +39,13 @@
           "mustTryPt": "Pierogi ruskie, pierogi de mirtilo, sopa żurek",
           "tipPt": "Ementa polaca traduzida para inglês, peça ao balcão e coma nas mesas do pátio. As opções de pierogi vegan são excelentes.",
           "descriptionDe": "Eine traditionelle Pierogi-Bar mit über 40 Sorten, Fleisch, Pilz, Frucht, vegan. Hunde sind ganzjährig im vorderen Innenhof willkommen und im hinteren Raum außerhalb der Mittagsspitze (12:00-14:30 Uhr).",
+          "descriptionNl": "Een traditionele pierogibar met meer dan 40 soorten, vlees, paddenstoel, fruit, vegan. Honden zijn het hele jaar welkom in de voorste binnenplaats en in de achterste ruimte buiten de lunchdrukte (12:00-14:30 uur).",
           "petPolicyDe": "Hunde im Innenhof ganzjährig; hinterer Raum außerhalb der Stoßzeit",
+          "petPolicyNl": "Honden op de binnenplaats het hele jaar; achterste ruimte buiten piektijden",
           "mustTryDe": "Ruskie-Pierogi, Heidelbeer-Pierogi, Żurek-Suppe",
-          "tipDe": "Polnische Speisekarte ins Englische übersetzt, Bestellung am Tresen, Sitzplätze im Innenhof. Die veganen Pierogi-Optionen sind hervorragend."
+          "mustTryNl": "Ruskie-pierogi, bosbessen-pierogi, żurek-soep",
+          "tipDe": "Polnische Speisekarte ins Englische übersetzt, Bestellung am Tresen, Sitzplätze im Innenhof. Die veganen Pierogi-Optionen sind hervorragend.",
+          "tipNl": "Poolse menukaart vertaald naar het Engels, bestellen aan de toonbank, zitplaatsen op de binnenplaats. De veganistische pierogi-opties zijn uitstekend."
         },
         {
           "name": "Brovarnia Gdańsk",
@@ -69,9 +73,13 @@
           "mustTryPt": "Cerveja de trigo Brovarnia Pszeniczne, ganso pomerano, sopa de beterraba",
           "tipPt": "A esplanada ribeirinha ao pôr do sol é o ponto icónico de Gdansk para observar cães, reserve com antecedência no verão (junho a agosto) para a primeira fila.",
           "descriptionDe": "Eine Craft-Brauerei und ein Restaurant im Hotel Gdańsk am Fluss Motława, regionale polnisch-pommersche Küche, sechs hauseigene Biere, vor Ort gebraut. Hunde sind ganzjährig auf der Terrasse am Fluss willkommen, außerhalb der Stoßzeiten drinnen auf dem Boden.",
+          "descriptionNl": "Een ambachtelijke brouwerij en restaurant in Hotel Gdańsk aan de rivier de Motława, regionale Pools-Pommerse keuken, zes eigen bieren, ter plekke gebrouwen. Honden zijn het hele jaar welkom op het terras aan de rivier, buiten piektijden ook binnen op de grond.",
           "petPolicyDe": "Hunde auf der Terrasse ganzjährig; drinnen auf dem Boden außerhalb der Stoßzeit",
+          "petPolicyNl": "Honden op het terras het hele jaar; binnen op de grond buiten piektijden",
           "mustTryDe": "Brovarnia Pszeniczne Weizenbier, pommersche Gans, Rote-Bete-Suppe",
-          "tipDe": "Die Flussterrasse bei Sonnenuntergang ist der ikonische Danziger Hundebeobachtungsplatz, im Sommer (Juni-August) für die erste Reihe im Voraus buchen."
+          "mustTryNl": "Brovarnia Pszeniczne tarwebier, Pommerse gans, bietensoep",
+          "tipDe": "Die Flussterrasse bei Sonnenuntergang ist der ikonische Danziger Hundebeobachtungsplatz, im Sommer (Juni-August) für die erste Reihe im Voraus buchen.",
+          "tipNl": "Het rivierterras bij zonsondergang is de iconische plek in Gdańsk om honden te spotten, boek in de zomer (juni-augustus) van tevoren voor de eerste rij."
         },
         {
           "name": "Cafe Józef K",
@@ -99,9 +107,13 @@
           "mustTryPt": "Flat white de especialidade, sernik (tarte de queijo polaca), brunch vegan",
           "tipPt": "O lugar à janela dá para a rua Piwna com a Basílica de Santa Maria à vista, o melhor sítio de Gdansk para foto de Instagram com cão.",
           "descriptionDe": "Eine bohemienhafte Café-Bar, benannt nach Kafka, Spezialitätenkaffee, vegetarierfreundlicher Brunch, Vintage-Möbel. Hunde sind im gesamten kleinen Innenraum willkommen; Wassernäpfe stehen ganzjährig an der Tür.",
+          "descriptionNl": "Een bohemienachtige koffiebar, vernoemd naar Kafka, koffie van topkwaliteit, vegetarisch-vriendelijke brunch, vintage meubels. Honden zijn welkom in de hele kleine binnenruimte; er staan het hele jaar waterbakjes bij de deur.",
           "petPolicyDe": "Hunde überall willkommen",
+          "petPolicyNl": "Honden overal welkom",
           "mustTryDe": "Flat White als Spezialität, Sernik (polnischer Käsekuchen), veganer Brunch",
-          "tipDe": "Der Fensterplatz blickt auf die Piwna-Straße mit Sicht auf die Marienbasilika, der beste Instagram-und-Hund-Spot in Danzig."
+          "mustTryNl": "Flat white als specialiteit, sernik (Poolse kwarktaart), veganistische brunch",
+          "tipDe": "Der Fensterplatz blickt auf die Piwna-Straße mit Sicht auf die Marienbasilika, der beste Instagram-und-Hund-Spot in Danzig.",
+          "tipNl": "De plek bij het raam kijkt uit op de Piwna-straat met zicht op de Mariabasiliek, de beste Instagram-en-hond-plek in Gdańsk."
         }
       ],
       "tipsEn": [
@@ -167,7 +179,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Danzig",
+      "titleNl": "Hondvriendelijke restaurants in Gdańsk",
       "introDe": "Die polnische Cafékultur in Danzig ist durchweg hundefreundlich, angeleinte Hunde sind auf Terrassen standardmäßig willkommen, Wassernäpfe erscheinen ungefragt, und der Długi Targ (Langer Markt) sowie die Mariacka-Straße konzentrieren die besten unabhängigen Lokale.",
+      "introNl": "De Poolse cafécultuur in Gdańsk is door en door hondvriendelijk, aangelijnde honden zijn standaard welkom op terrassen, waterbakjes verschijnen zonder dat je erom hoeft te vragen, en de Długi Targ (Lange Markt) en de Mariacka-straat verzamelen de beste onafhankelijke tentjes.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Danziger Restaurants erlaubt?",
@@ -176,6 +190,16 @@
         {
           "q": "Bekomme ich vegetarische Pierogi?",
           "a": "Ja. Pierogarnia Mandu und die meisten Danziger Pierogi-Bars servieren mehr als 10 vegetarische und vegane Sorten: ruskie (Kartoffel-Käse), Spinat-Feta, Pilz, Heidelbeere. Vegane Pierogi-Optionen haben sich seit 2020 verfünffacht."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Gdańsk?",
+          "a": "Ja, in de meeste. Zo'n 80% van de cafés en bars in Gdańsk accepteert aangelijnde honden op het terras, en veel heten ze buiten piektijden ook binnen welkom."
+        },
+        {
+          "q": "Krijg ik vegetarische pierogi?",
+          "a": "Ja. Pierogarnia Mandu en de meeste pierogibars in Gdańsk serveren meer dan 10 vegetarische en veganistische soorten: ruskie (aardappel-kaas), spinazie-feta, paddenstoel, bosbes. Veganistische pierogi-opties zijn sinds 2020 vervijfvoudigd."
         }
       ]
     },
@@ -231,8 +255,11 @@
           ],
           "tipPt": "Os concertos de órgão da catedral (duas vezes por dia de junho a setembro) são gratuitos e dog-friendly, mantenha o cão com trela e em silêncio durante os 30 minutos do concerto.",
           "leashRuleDe": "Ganzjährig Leinenpflicht; eine eingezäunte Hundezone",
+          "leashRuleNl": "Het hele jaar aanlijnplicht; één omheind hondengebied",
           "descriptionDe": "Danzigs schönster Park, ein Landschaftsgarten aus dem 17. Jahrhundert neben der Kathedrale von Oliwa, mit Palmenhaus, Zierteichen und dem Kunstmuseum Pałac Opatów. Freier Eintritt, hundefreundlich mit angeleinten Hunden und einer eingezäunten Hundezone in der Südostecke.",
-          "tipDe": "Orgelkonzerte in der Kathedrale (zweimal täglich Juni-September) sind kostenlos und hundefreundlich, den Hund während des 30-minütigen Konzerts ruhig anleinen."
+          "descriptionNl": "Het mooiste park van Gdańsk, een landschapstuin uit de 17e eeuw naast de kathedraal van Oliwa, met palmenhuis, sierlijke vijvers en het kunstmuseum Pałac Opatów. Gratis toegang, hondvriendelijk met aangelijnde honden en een omheind hondengebied in de zuidoosthoek.",
+          "tipDe": "Orgelkonzerte in der Kathedrale (zweimal täglich Juni-September) sind kostenlos und hundefreundlich, den Hund während des 30-minütigen Konzerts ruhig anleinen.",
+          "tipNl": "Orgelconcerten in de kathedraal (twee keer per dag juni-september) zijn gratis en hondvriendelijk, houd je hond tijdens het concert van 30 minuten rustig aan de lijn."
         },
         {
           "name": "TPK Trójmiejski Park Krajobrazowy",
@@ -278,8 +305,11 @@
           ],
           "tipPt": "Melhor acesso pela entrada de Łostowice (sul de Gdansk) ou pela de Oliwa (norte), a 15 min da Cidade Velha de elétrico mais 5 min a pé.",
           "leashRuleDe": "Freilauf auf Waldwegen außerhalb der Brutzeit",
+          "leashRuleNl": "Loslopen op boswegen toegestaan buiten het broedseizoen",
           "descriptionDe": "Der Dreistadt-Landschaftspark, 200 km² Buchen- und Kiefernwald entlang der westlichen Ränder von Danzig, Sopot und Gdynia. 200 km markierte Sommerwanderwege und Winter-Langlaufloipen, freier öffentlicher Zugang, der größte Stadtwald Polens.",
-          "tipDe": "Bester Zugang vom Tor Łostowice (Süd-Danzig) oder vom Tor Oliwa (Nord), 15 Minuten von der Altstadt mit der Straßenbahn plus 5 Minuten zu Fuß."
+          "descriptionNl": "Het landschapspark van de Driestad, 200 km² beuken- en dennenbos langs de westrand van Gdańsk, Sopot en Gdynia. 200 km gemarkeerde zomerwandelpaden en langlaufloipes in de winter, vrije openbare toegang, het grootste stadsbos van Polen.",
+          "tipDe": "Bester Zugang vom Tor Łostowice (Süd-Danzig) oder vom Tor Oliwa (Nord), 15 Minuten von der Altstadt mit der Straßenbahn plus 5 Minuten zu Fuß.",
+          "tipNl": "De beste toegang is via de poort Łostowice (zuidelijk Gdańsk) of de poort Oliwa (noord), 15 minuten met de tram vanaf de oude binnenstad plus 5 minuten lopen."
         },
         {
           "name": "Wisłoujście Fortress Park",
@@ -325,8 +355,11 @@
           ],
           "tipPt": "Combine com uma visita ao memorial da II Guerra Mundial de Westerplatte (3 km a norte), ambos ao ar livre e dog-friendly, acessíveis pelo elétrico 8 mais o autocarro 138.",
           "leashRuleDe": "Leinenpflicht auf den Festungswegen; Freilauf auf ländlichen Wiesenabschnitten",
+          "leashRuleNl": "Aanlijnplicht op de vestingpaden; loslopen toegestaan op de landelijke weidedelen",
           "descriptionDe": "Eine sternförmige Festung aus dem 17. Jahrhundert an der Weichselmündung, umgeben von 12 ha Wiesen- und Wasserwegen. Freier Eintritt, hundefreundlich mit angeleinten Hunden auf dem Festungsmauern-Rundweg (4 km).",
-          "tipDe": "Kombinieren Sie den Besuch mit der Westerplatte-Gedenkstätte zum Zweiten Weltkrieg (3 km nördlich), beide hundefreundlich im Freien, erreichbar mit Straßenbahn 8 plus Bus 138."
+          "descriptionNl": "Een stervormig fort uit de 17e eeuw bij de monding van de Wisła, omringd door 12 ha weide- en waterpaden. Gratis toegang, hondvriendelijk met aangelijnde honden op het rondje over de vestingmuren (4 km).",
+          "tipDe": "Kombinieren Sie den Besuch mit der Westerplatte-Gedenkstätte zum Zweiten Weltkrieg (3 km nördlich), beide hundefreundlich im Freien, erreichbar mit Straßenbahn 8 plus Bus 138.",
+          "tipNl": "Combineer het bezoek met de Westerplatte-herdenkingsplek voor de Tweede Wereldoorlog (3 km noordelijker), beide hondvriendelijk in de buitenlucht, te bereiken met tram 8 plus bus 138."
         }
       ],
       "tipsEn": [
@@ -392,7 +425,9 @@
         }
       ],
       "titleDe": "Hundeparks & Grünflächen in Danzig",
+      "titleNl": "Hondenparken & groengebieden in Gdańsk",
       "introDe": "Danzig ist von Wald und Ostseeküste umgeben, der Park Oliwski bildet das Zentrum des westlichen Stadtteils, die Stadtwälder Las Otomiński und TPK Trójmiejski Park bedecken 65 km² Wege ohne Leinenpflicht, und der Hundestrand von Sopot ist 15 Minuten mit der SKM-Pendlerbahn entfernt.",
+      "introNl": "Gdańsk is omgeven door bos en Oostzeekust, het Park Oliwski vormt het middelpunt van het westelijke stadsdeel, de stadsbossen Las Otomiński en TPK Trójmiejski Park bestrijken 65 km² paden zonder aanlijnplicht, en het hondenstrand van Sopot ligt 15 minuten met de SKM-forensentrein verderop.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde in Danziger Parks ohne Leine laufen?",
@@ -401,6 +436,16 @@
         {
           "q": "Dürfen Hunde die Westerplatte, das Gedenkstätte zum Zweiten Weltkrieg, besuchen?",
           "a": "Ja, der Freiluftbereich der Gedenkstätte ist ganzjährig kostenlos hundefreundlich für angeleinte Hunde. Das Innenmuseum (Muzeum II Wojny Światowej) lässt nur Assistenzhunde zu."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden in parken in Gdańsk los lopen?",
+          "a": "Loslopen mag het hele jaar alleen in de 18 omheinde gemeentelijke wybiegi. Daarbuiten schrijft de Poolse wet van 1 april tot en met 31 augustus aanlijnplicht voor; van september tot maart mag je op de meeste boswegen van het TPK Trójmiejski loslopen."
+        },
+        {
+          "q": "Mogen honden naar de Westerplatte, de herdenkingsplek voor de Tweede Wereldoorlog?",
+          "a": "Ja, het buitengedeelte van de herdenkingsplek is het hele jaar gratis hondvriendelijk voor aangelijnde honden. Het binnenmuseum (Muzeum II Wojny Światowej) laat alleen assistentiehonden toe."
         }
       ]
     },
@@ -431,8 +476,11 @@
           "petPolicyPt": "Grátis com trela e açaime",
           "tipPt": "Os transportes públicos polacos exigem açaime para TODOS os cães a bordo (incluindo cães pequenos), ao contrário da Alemanha ou dos Países Baixos. Leve um açaime macio na mala.",
           "descriptionDe": "ZTM Gdansk betreibt 11 Straßenbahnlinien und über 80 Buslinien. Angeleinte Hunde fahren mit Maulkorb kostenlos in allen Straßenbahnen und Bussen, für den Hund wird keine Fahrkarte benötigt.",
+          "descriptionNl": "ZTM Gdansk beheert 11 tramlijnen en meer dan 80 buslijnen. Aangelijnde honden met muilkorf reizen gratis mee in alle trams en bussen, voor de hond is geen kaartje nodig.",
           "petPolicyDe": "Kostenlos mit Leine und Maulkorb",
-          "tipDe": "Der polnische öffentliche Nahverkehr schreibt für ALLE Hunde an Bord einen Maulkorb vor (auch kleine Hunde), anders als in Deutschland oder den Niederlanden. Einen weichen Maulkorb in der Tasche mitführen."
+          "petPolicyNl": "Gratis met lijn en muilkorf",
+          "tipDe": "Der polnische öffentliche Nahverkehr schreibt für ALLE Hunde an Bord einen Maulkorb vor (auch kleine Hunde), anders als in Deutschland oder den Niederlanden. Einen weichen Maulkorb in der Tasche mitführen.",
+          "tipNl": "Het Poolse openbaar vervoer schrijft voor ALLE honden aan boord een muilkorf voor (ook kleine honden), anders dan in Duitsland of Nederland. Neem een zachte muilkorf in je tas mee."
         },
         {
           "name": "SKM Tri-City Commuter Rail",
@@ -453,8 +501,11 @@
           "petPolicyPt": "Grátis com trela e açaime",
           "tipPt": "De Gdansk Główny até Sopot no SKM em 15 min, a praia canina aberta o ano inteiro em Sopot fica a 10 min a pé da estação de Sopot.",
           "descriptionDe": "Die SKM betreibt die Dreistadt-Pendlerbahn von Danzig über Sopot nach Gdynia (40 Minuten von Ende zu Ende, alle 7 Minuten zur Stoßzeit). Angeleinte Hunde mit Maulkorb fahren kostenlos; für den Hund wird keine Fahrkarte benötigt. Der schnellste Weg zum Hundestrand in Sopot.",
+          "descriptionNl": "De SKM verzorgt de forensentrein van de Driestad van Gdańsk via Sopot naar Gdynia (40 minuten van begin tot eind, elke 7 minuten in de spits). Aangelijnde honden met muilkorf reizen gratis mee; voor de hond is geen kaartje nodig. De snelste manier naar het hondenstrand van Sopot.",
           "petPolicyDe": "Kostenlos mit Leine und Maulkorb",
-          "tipDe": "Von Gdansk Główny nach Sopot mit der SKM in 15 Minuten, der ganzjährige Hundestrand in Sopot liegt 10 Minuten zu Fuß vom Bahnhof Sopot."
+          "petPolicyNl": "Gratis met lijn en muilkorf",
+          "tipDe": "Von Gdansk Główny nach Sopot mit der SKM in 15 Minuten, der ganzjährige Hundestrand in Sopot liegt 10 Minuten zu Fuß vom Bahnhof Sopot.",
+          "tipNl": "Van Gdansk Główny naar Sopot met de SKM in 15 minuten, het hele jaar geopende hondenstrand van Sopot ligt 10 minuten lopen van station Sopot."
         },
         {
           "name": "PKP Intercity & EIC",
@@ -475,8 +526,11 @@
           "petPolicyPt": "Meio-bilhete e açaime para cães médios/grandes",
           "tipPt": "O EIC Gdansk-Varsóvia em 2h45 faz de Gdansk um fim de semana dog-friendly perfeito a partir da capital polaca, reserve um lugar à janela com antecedência para viajar no verão.",
           "descriptionDe": "PKP Intercity betreibt direkte EIC-Züge von Danzig nach Warschau (2 Std. 45 Min.), Krakau (5 Std. 30 Min.) und Berlin (5 Std., mit einem Umstieg in Poznań). Angeleinte Hunde benötigen ein halbes Ticket und einen Maulkorb an Bord; kleine Hunde in Transportboxen fahren kostenlos.",
+          "descriptionNl": "PKP Intercity rijdt directe EIC-treinen van Gdańsk naar Warschau (2 uur 45 min), Krakau (5 uur 30 min) en Berlijn (5 uur, met een overstap in Poznań). Aangelijnde honden hebben aan boord een half kaartje en een muilkorf nodig; kleine honden in een reismand reizen gratis.",
           "petPolicyDe": "Halbes Ticket plus Maulkorb für mittelgroße und große Hunde",
-          "tipDe": "Der EIC Danzig-Warschau in 2 Std. 45 Min. macht Danzig zu einem perfekten hundefreundlichen Wochenendziel ab der polnischen Hauptstadt, im Sommer im Voraus einen Fensterplatz buchen."
+          "petPolicyNl": "Half kaartje plus muilkorf voor middelgrote en grote honden",
+          "tipDe": "Der EIC Danzig-Warschau in 2 Std. 45 Min. macht Danzig zu einem perfekten hundefreundlichen Wochenendziel ab der polnischen Hauptstadt, im Sommer im Voraus einen Fensterplatz buchen.",
+          "tipNl": "De EIC Gdańsk-Warschau in 2 uur 45 min maakt van Gdańsk een perfecte hondvriendelijke weekendbestemming vanuit de Poolse hoofdstad, boek in de zomer van tevoren een plek bij het raam."
         }
       ],
       "tipsEn": [
@@ -542,7 +596,9 @@
         }
       ],
       "titleDe": "Haustierfreundlicher Transport in Danzig",
+      "titleNl": "Huisdiervriendelijk vervoer in Gdańsk",
       "introDe": "Danzigs kompaktes Główne Miasto (Hauptstadt) ist in 25 Minuten von Ende zu Ende zu Fuß erreichbar. Für Tagesausflüge akzeptieren die ZTM-Straßenbahnen, die SKM-Pendlerbahn (Dreistadt-Linie) und die PKP-Intercity-Züge angeleinte Hunde.",
+      "introNl": "Het compacte Główne Miasto (hoofdstad) van Gdańsk is in 25 minuten van begin tot eind te belopen. Voor dagtochten accepteren de ZTM-trams, de SKM-forensentrein (Driestad-lijn) en de PKP-intercitytreinen aangelijnde honden.",
       "faqsDe": [
         {
           "q": "Muss ich meinem Hund im Danziger öffentlichen Nahverkehr einen Maulkorb anlegen?",
@@ -551,6 +607,16 @@
         {
           "q": "Kann ich meinen Hund mit dem Zug zum Hundestrand in Sopot bringen?",
           "a": "Ja. Die SKM-Pendlerbahn fährt von Gdansk Główny nach Sopot in 15 Minuten (alle 7 Minuten zur Stoßzeit). Der Hundestrand von Sopot ist 10 Minuten zu Fuß vom SKM-Bahnhof entfernt. Angeleinte Hunde mit Maulkorb fahren kostenlos."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Moet mijn hond een muilkorf dragen in het openbaar vervoer in Gdańsk?",
+          "a": "Ja, de Poolse wet schrijft voor ALLE honden (klein, middel, groot) een muilkorf voor in trams, bussen, SKM- en PKP-treinen. Een van de strengste regels van Europa. Zachte muilkorven zijn ruim verkrijgbaar bij Poolse dierenwinkels voor 30-50 PLN (7-12 euro)."
+        },
+        {
+          "q": "Kan ik mijn hond met de trein meenemen naar het hondenstrand in Sopot?",
+          "a": "Ja. De SKM-forensentrein rijdt van Gdansk Główny naar Sopot in 15 minuten (elke 7 minuten in de spits). Het hondenstrand van Sopot ligt 10 minuten lopen van het SKM-station. Aangelijnde honden met muilkorf reizen gratis mee."
         }
       ]
     },
@@ -604,8 +670,11 @@
           ],
           "tipPt": "A água do Báltico mantém-se fria (16 a 19 °C no pico do verão), a maioria dos cães prefere correr na areia molhada a nadar. O icónico Molhe de Sopot, 600 m a sul, é dog-friendly com cães com trela, gratuitamente.",
           "leashRuleDe": "Ganzjähriger Freilauf am dedizierten Hundestrand",
+          "leashRuleNl": "Het hele jaar loslopen toegestaan op het speciale hondenstrand",
           "descriptionDe": "Der offizielle Hundestrand von Sopot (Plaża dla Psów), eine ausgeschilderte ganzjährige Freilaufzone nördlich des ikonischen Piers von Sopot. Feiner weißer Sand, flaches Ostseewasser, freier Eintritt. Der berühmteste Hundestrand Polens. 15 Minuten mit der SKM von Gdansk Główny.",
-          "tipDe": "Das Ostseewasser bleibt kalt (16-19 °C im Hochsommer), die meisten Hunde bevorzugen das Laufen im nassen Sand gegenüber dem Schwimmen. Der ikonische Pier von Sopot, 600 m südlich, ist mit angeleinten Hunden kostenlos hundefreundlich."
+          "descriptionNl": "Het officiële hondenstrand van Sopot (Plaża dla Psów), een gemarkeerd losloopgebied dat het hele jaar open is, ten noorden van de iconische pier van Sopot. Fijn wit zand, ondiep Oostzeewater, gratis toegang. Het bekendste hondenstrand van Polen. 15 minuten met de SKM vanaf Gdansk Główny.",
+          "tipDe": "Das Ostseewasser bleibt kalt (16-19 °C im Hochsommer), die meisten Hunde bevorzugen das Laufen im nassen Sand gegenüber dem Schwimmen. Der ikonische Pier von Sopot, 600 m südlich, ist mit angeleinten Hunden kostenlos hundefreundlich.",
+          "tipNl": "Het Oostzeewater blijft koud (16-19 °C in hoogzomer), de meeste honden lopen liever door het natte zand dan dat ze zwemmen. De iconische pier van Sopot, 600 m zuidelijker, is met een aangelijnde hond gratis hondvriendelijk."
         },
         {
           "name": "Brzeźno Beach (Dog Zone)",
@@ -649,8 +718,11 @@
           ],
           "tipPt": "O elétrico 7 de Gdansk Główny poupa a caminhada de 5 km, vai direto ao terminal de Brzeźno, depois 5 min a pé até à zona canina.",
           "leashRuleDe": "Ganzjähriger Freilauf in der dedizierten Hundezone",
+          "leashRuleNl": "Het hele jaar loslopen toegestaan in het speciale hondengebied",
           "descriptionDe": "Der nächstgelegene Hundestrand zur Danziger Altstadt, eine 1 km lange ausgeschilderte Hundezone am Strand von Brzeźno, 5 km nördlich der Altstadt, erreichbar mit der Straßenbahn 7 in 20 Minuten. Feiner Sand, von Dünen gesäumt, ruhiges flaches Ostseewasser.",
-          "tipDe": "Die Straßenbahn 7 von Gdansk Główny erspart den 5 km langen Fußweg, direkt bis zur Endhaltestelle Brzeźno, dann 5 Minuten zu Fuß zur Hundezone."
+          "descriptionNl": "Het dichtstbijzijnde hondenstrand bij de oude binnenstad van Gdańsk, een 1 km lang gemarkeerd hondengebied op het strand van Brzeźno, 5 km ten noorden van de oude binnenstad, te bereiken met tram 7 in 20 minuten. Fijn zand, omzoomd door duinen, rustig ondiep Oostzeewater.",
+          "tipDe": "Die Straßenbahn 7 von Gdansk Główny erspart den 5 km langen Fußweg, direkt bis zur Endhaltestelle Brzeźno, dann 5 Minuten zu Fuß zur Hundezone.",
+          "tipNl": "Tram 7 vanaf Gdansk Główny bespaart je de wandeling van 5 km, rechtstreeks naar eindhalte Brzeźno, daarna 5 minuten lopen naar het hondengebied."
         },
         {
           "name": "Stogi Beach (Dog Zone East)",
@@ -694,8 +766,11 @@
           ],
           "tipPt": "A zona canina oriental de Stogi fica vazia mesmo em agosto, a dica de quem é da terra quando Sopot enche demais.",
           "leashRuleDe": "Ganzjähriger Freilauf in der östlichen Hundezone",
+          "leashRuleNl": "Het hele jaar loslopen toegestaan in het oostelijke hondengebied",
           "descriptionDe": "Danzigs ruhigster Hundestrand, Stogi Beach 8 km östlich der Altstadt, mit einer ausgeschilderten Hundezone am östlichen Abschnitt. Breiter Sand, von Dünen gesäumt, fern der zentralen Touristenmassen. Straßenbahn 8 von Gdansk Główny in 25 Minuten.",
-          "tipDe": "Die östliche Hundezone von Stogi ist selbst im August leer, der Insider-Tipp der Einheimischen, wenn Sopot überfüllt ist."
+          "descriptionNl": "Het rustigste hondenstrand van Gdańsk, Stogi Beach 8 km ten oosten van de oude binnenstad, met een gemarkeerd hondengebied aan het oostelijke deel. Breed zand, omzoomd door duinen, ver van de centrale toeristendrukte. Tram 8 vanaf Gdansk Główny in 25 minuten.",
+          "tipDe": "Die östliche Hundezone von Stogi ist selbst im August leer, der Insider-Tipp der Einheimischen, wenn Sopot überfüllt ist.",
+          "tipNl": "Het oostelijke hondengebied van Stogi is zelfs in augustus leeg, de insidertip van de locals als Sopot te druk is."
         }
       ],
       "tipsEn": [
@@ -761,7 +836,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in Danzig",
+      "titleNl": "Hondvriendelijke stranden in Gdańsk",
       "introDe": "Die Küste der Dreistadt-Bucht bietet einige der besten Hundestrände Polens, feinen weißen Sand, ruhiges Ostseewasser, über 15 km Uferlinie. Der Hundestrand von Sopot ist die ikonische Option, ganzjährig zugänglich in nur 15 Minuten mit der SKM-Bahn.",
+      "introNl": "De kust van de Driestad-baai biedt een aantal van de beste hondenstranden van Polen, fijn wit zand, rustig Oostzeewater, meer dan 15 km kustlijn. Het hondenstrand van Sopot is de iconische optie, het hele jaar bereikbaar in slechts 15 minuten met de SKM-trein.",
       "faqsDe": [
         {
           "q": "Wie weit ist der Hundestrand von Sopot von Danzig entfernt?",
@@ -770,6 +847,16 @@
         {
           "q": "Sind Hunde im Sommer an polnischen Stränden erlaubt?",
           "a": "Ja, in markierten Hundezonen (Plaża dla Psów). Außerhalb davon sind Hunde vom 1. Mai bis 30. September von den öffentlichen Hauptstränden ausgeschlossen. Die offiziellen Hundezonen in Sopot, Brzeźno und Stogi bleiben ganzjährig hundefreundlich."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe ver is het hondenstrand van Sopot vanaf Gdańsk?",
+          "a": "15 minuten met de SKM-forensentrein vanaf Gdansk Główny plus 10 minuten lopen vanaf station Sopot. Het bekendste hondenstrand van Polen, het hele jaar bereikbaar. Brzeźno (5 km ten noorden van Gdańsk, 20 minuten met tram 7) en Stogi (8 km oostelijker, 25 minuten met tram 8) liggen dichterbij."
+        },
+        {
+          "q": "Zijn honden 's zomers toegestaan op Poolse stranden?",
+          "a": "Ja, in gemarkeerde hondengebieden (Plaża dla Psów). Daarbuiten zijn honden van 1 mei tot en met 30 september geweerd van de openbare hoofdstranden. De officiële hondengebieden in Sopot, Brzeźno en Stogi blijven het hele jaar hondvriendelijk."
         }
       ]
     },
@@ -803,7 +890,9 @@
           "descriptionPt": "Hospital veterinário de urgências 24h em Wrzeszcz (centro-norte de Gdansk), com cirurgia completa, cuidados intensivos, ecografia, raio-X e ressonância magnética. O veterinário 24/7 mais próximo da Cidade Velha central de Gdansk.",
           "tipPt": "Telefone antes de seguir de carro, fazem triagem por telefone e podem reencaminhar casos noturnos não urgentes.",
           "descriptionDe": "24-Stunden-Notfall-Tierklinik in Wrzeszcz (zentrales Nord-Danzig), vollständige Chirurgie, Intensivstation, Ultraschall, Röntgen, MRT. Der nächstgelegene rund um die Uhr geöffnete Tierarzt für die zentrale Danziger Altstadt.",
-          "tipDe": "Vor der Anfahrt anrufen, dort erfolgt eine telefonische Triage, nicht dringende Fälle über Nacht können weitergeleitet werden."
+          "descriptionNl": "24-uurs spoedkliniek voor dieren in Wrzeszcz (centraal-noord Gdańsk), volledige chirurgie, intensive care, echografie, röntgen, MRI. De dichtstbijzijnde dierenarts die dag en nacht open is voor de centrale oude binnenstad van Gdańsk.",
+          "tipDe": "Vor der Anfahrt anrufen, dort erfolgt eine telefonische Triage, nicht dringende Fälle über Nacht können weitergeleitet werden.",
+          "tipNl": "Bel voordat je komt, ze doen telefonisch een triage, niet-dringende gevallen kunnen 's nachts worden doorverwezen."
         },
         {
           "name": "Centrum Weterynaryjne Gdańsk",
@@ -826,7 +915,9 @@
           "descriptionPt": "Clínica moderna de pequenos animais, em horário diurno, em Wrzeszcz, com medicina geral, vacinação, cirurgia e dentária. As chamadas fora de horas são desviadas para a Vetmedica 24h.",
           "tipPt": "Falam inglês fluente e aceitam atendimento sem marcação para vacinas e verificação de microchip antes das 11:00.",
           "descriptionDe": "Moderne tagsüber geöffnete Kleintierpraxis in Wrzeszcz, Allgemeinmedizin, Impfungen, Chirurgie, Zahnmedizin. Anrufe außerhalb der Öffnungszeiten werden an Vetmedica 24h weitergeleitet.",
-          "tipDe": "Man spricht dort fließend Englisch und nimmt vor 11:00 Uhr Laufkundschaft für Impfungen und Mikrochip-Kontrollen an."
+          "descriptionNl": "Moderne overdag geopende kleindierenpraktijk in Wrzeszcz, algemene diergeneeskunde, vaccinaties, chirurgie, tandheelkunde. Telefoontjes buiten openingstijden worden doorgeschakeld naar Vetmedica 24h.",
+          "tipDe": "Man spricht dort fließend Englisch und nimmt vor 11:00 Uhr Laufkundschaft für Impfungen und Mikrochip-Kontrollen an.",
+          "tipNl": "Er wordt vloeiend Engels gesproken en je kunt vóór 11:00 uur zonder afspraak binnenlopen voor vaccinaties en microchipcontroles."
         },
         {
           "name": "Klinika Weterynaryjna Animalia Oliwa",
@@ -849,7 +940,9 @@
           "descriptionPt": "Clínica veterinária diurna em Oliwa, perto do Park Oliwski, com medicina geral, emissão de passaporte europeu para animais, colocação de microchip e consultas comportamentais.",
           "tipPt": "Útil para emitir ou atualizar um passaporte europeu a meio da viagem, a Animalia cobra cerca de 150 PLN (35 euros) por um passaporte e 200 PLN (45 euros) por um microchip.",
           "descriptionDe": "Tagsüber geöffnete Tierarztpraxis in Oliwa nahe dem Park Oliwski, Allgemeinmedizin, Ausstellung von EU-Heimtierausweisen, Mikrochipping, Verhaltensberatung.",
-          "tipDe": "Nützlich zur Ausstellung/Aktualisierung eines EU-Heimtierausweises während der Reise, Animalia berechnet etwa 150 PLN (35 €) für einen Ausweis, 200 PLN (45 €) für einen Mikrochip."
+          "descriptionNl": "Overdag geopende dierenartspraktijk in Oliwa vlak bij het Park Oliwski, algemene diergeneeskunde, afgifte van EU-dierenpaspoorten, microchippen, gedragsadvies.",
+          "tipDe": "Nützlich zur Ausstellung/Aktualisierung eines EU-Heimtierausweises während der Reise, Animalia berechnet etwa 150 PLN (35 €) für einen Ausweis, 200 PLN (45 €) für einen Mikrochip.",
+          "tipNl": "Handig voor het afgeven of vernieuwen van een EU-dierenpaspoort tijdens je reis, Animalia rekent ongeveer 150 PLN (35 euro) voor een paspoort, 200 PLN (45 euro) voor een microchip."
         }
       ],
       "tipsEn": [
@@ -915,7 +1008,9 @@
         }
       ],
       "titleDe": "24-Stunden-Notfall-Tierärzte in Danzig, Tierkliniken & Haustierbetreuung",
+      "titleNl": "24-uurs spoeddierenartsen in Gdańsk, dierenklinieken & huisdierenzorg",
       "introDe": "Danzig verfügt über eine solide tagsüber verfügbare tierärztliche Versorgung und zwei regionale 24-Stunden-Notfallkliniken, eine im zentralen Wrzeszcz und eine in Gdynia, 15 km nördlich. Die veterinärmedizinische Fakultät der Universität Warmia-Mazury in Olsztyn ist das Überweisungszentrum, 2 Stunden östlich.",
+      "introNl": "Gdańsk beschikt over solide dierenzorg overdag en twee regionale 24-uurs spoedklinieken, een in centraal Wrzeszcz en een in Gdynia, 15 km noordelijker. De faculteit diergeneeskunde van de universiteit Warmia-Mazury in Olsztyn is het verwijscentrum, 2 uur oostelijker.",
       "faqsDe": [
         {
           "q": "Wo ist der 24-Stunden-Notfall-Tierarzt in der Nähe von Danzig?",
@@ -924,6 +1019,16 @@
         {
           "q": "Benötige ich einen Heimtierausweis für Danzig?",
           "a": "Ja, für die Einreise von außerhalb Polens. EU-Heimtierausweis mit Tollwutimpfung (mindestens 21 Tage alt, nicht abgelaufen) und ISO-Mikrochip, gemäß den Standard-EU-Regeln. Keine zusätzlichen polnischen Formalitäten."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar is de 24-uurs spoeddierenarts bij Gdańsk?",
+          "a": "Vetmedica Gdansk aan de Aleja Grunwaldzka 467 in Wrzeszcz, +48 58 763 75 00, 4 km ten noorden van de oude binnenstad, 10 minuten met tram 6 of 12. Bel voordat je komt voor de triage."
+        },
+        {
+          "q": "Heb ik een dierenpaspoort nodig voor Gdańsk?",
+          "a": "Ja, voor binnenkomst vanuit een ander land dan Polen. EU-dierenpaspoort met rabiësvaccinatie (minstens 21 dagen oud, niet verlopen) en ISO-microchip, volgens de standaard EU-regels. Geen extra Poolse formaliteiten."
         }
       ]
     },
@@ -942,7 +1047,8 @@
           "descriptionFr": "Mai-septembre sont idéaux, maxima moyens 15-22 °C, la Baltique à température baignable, la plage canine de Sopot pleinement opérationnelle. Avril et octobre sont à 12-15 °C, accès plage toujours toute l'année mais moins de cafés. Novembre-mars est rude (jusqu'à -8 °C avec neige) mais le marché de Noël (décembre) est magique pour les promenades canines.",
           "descriptionEs": "Mayo-septiembre son ideales, máximas medias 15-22 °C, el Báltico a temperatura bañable, la playa canina de Sopot a pleno funcionamiento. Abril y octubre son 12-15 °C, acceso a playa todavía todo el año pero menos cafés. Noviembre-marzo es duro (hasta -8 °C con nieve) pero el Mercado Navideño (diciembre) es mágico para paseos caninos.",
           "descriptionPt": "Maio a setembro são ideais, máximas médias de 15 a 22 °C, o Báltico a temperatura de banho, a praia canina de Sopot em pleno funcionamento. Abril e outubro rondam os 12 a 15 °C, o acesso à praia mantém-se o ano inteiro mas com menos cafés. Novembro a março é rigoroso (até -8 °C com neve) mas o Mercado de Natal (dezembro) é uma época mágica para passear o cão.",
-          "descriptionDe": "Mai bis September sind ideal, durchschnittliche Höchsttemperaturen von 15-22 °C, die Ostsee auf Badetemperatur, der Hundestrand von Sopot in vollem Betrieb. April und Oktober liegen bei 12-15 °C, der Strandzugang ist weiterhin ganzjährig gegeben, aber es gibt weniger geöffnete Cafés. November bis März ist rau (bis zu -8 °C mit Schnee), doch der Weihnachtsmarkt (Dezember) ist eine zauberhafte Zeit für Hundespaziergänge."
+          "descriptionDe": "Mai bis September sind ideal, durchschnittliche Höchsttemperaturen von 15-22 °C, die Ostsee auf Badetemperatur, der Hundestrand von Sopot in vollem Betrieb. April und Oktober liegen bei 12-15 °C, der Strandzugang ist weiterhin ganzjährig gegeben, aber es gibt weniger geöffnete Cafés. November bis März ist rau (bis zu -8 °C mit Schnee), doch der Weihnachtsmarkt (Dezember) ist eine zauberhafte Zeit für Hundespaziergänge.",
+          "descriptionNl": "Mei tot en met september is ideaal, gemiddelde maximumtemperaturen van 15-22 °C, de Oostzee op zwemtemperatuur, het hondenstrand van Sopot in volle gang. April en oktober liggen rond 12-15 °C, het strand blijft het hele jaar toegankelijk, maar er zijn minder cafés open. November tot en met maart is guur (tot -8 °C met sneeuw), maar de kerstmarkt (december) is een sfeervolle tijd voor hondenwandelingen."
         },
         {
           "name": "Polish dog laws & costs",
@@ -951,7 +1057,8 @@
           "descriptionFr": "La Pologne exige une muselière pour TOUS les chiens dans les transports publics (petits, moyens, grands), parmi les plus strictes d'Europe. Loi laisse 1er avril - 31 août dans tous les parcs et forêts hors wybiegi clôturés. Les frais vétérinaires polonais sont 40-60 % en-dessous de l'Europe occidentale ; suppléments hôtels 40-80 PLN/nuit (10-18 €).",
           "descriptionEs": "Polonia exige bozal para TODOS los perros en transporte público (pequeños, medianos, grandes), de los más estrictos de Europa. Ley de correa 1 abril - 31 agosto en todos los parques y bosques fuera de los wybiegi vallados. Los costes veterinarios polacos están un 40-60 % por debajo de Europa Occidental; suplementos hoteleros 40-80 PLN/noche (10-18 €).",
           "descriptionPt": "A Polónia exige açaime para TODOS os cães nos transportes públicos (pequenos, médios, grandes), entre as mais rigorosas da Europa. Lei da trela de 1 de abril a 31 de agosto em todos os parques e florestas exceto nos wybiegi vedados. Os custos veterinários polacos ficam 40 a 60% abaixo da Europa Ocidental; suplementos de hotel para animais de 40 a 80 PLN por noite (10 a 18 euros).",
-          "descriptionDe": "Polen schreibt für ALLE Hunde (klein, mittel, groß) im öffentlichen Nahverkehr einen Maulkorb vor, zu den strengsten Regeln Europas. Leinenpflicht vom 1. April bis 31. August in allen Parks und Wäldern außer den eingezäunten wybiegi. Polnische Tierarztkosten liegen 40-60% unter Westeuropa; Haustierzuschläge in Hotels betragen 40-80 PLN pro Nacht (10-18 €)."
+          "descriptionDe": "Polen schreibt für ALLE Hunde (klein, mittel, groß) im öffentlichen Nahverkehr einen Maulkorb vor, zu den strengsten Regeln Europas. Leinenpflicht vom 1. April bis 31. August in allen Parks und Wäldern außer den eingezäunten wybiegi. Polnische Tierarztkosten liegen 40-60% unter Westeuropa; Haustierzuschläge in Hotels betragen 40-80 PLN pro Nacht (10-18 €).",
+          "descriptionNl": "Polen schrijft voor ALLE honden (klein, middel, groot) in het openbaar vervoer een muilkorf voor, een van de strengste regels van Europa. Aanlijnplicht van 1 april tot en met 31 augustus in alle parken en bossen, behalve de omheinde wybiegi. Poolse dierenartskosten liggen 40-60% lager dan in West-Europa; huisdiertoeslagen in hotels bedragen 40-80 PLN per nacht (10-18 euro)."
         },
         {
           "name": "Currency & cost",
@@ -960,7 +1067,8 @@
           "descriptionFr": "La Pologne utilise le złoty polonais (PLN), pas l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel, les distributeurs largement disponibles. Les suppléments animaux dans les hôtels de Gdansk tournent autour de 40-80 PLN/nuit (10-18 €), parmi les plus bas d'Europe.",
           "descriptionEs": "Polonia usa el zloty polaco (PLN), no el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal, los cajeros están ampliamente disponibles. Los suplementos para mascotas en hoteles de Gdansk rondan 40-80 PLN/noche (10-18 €), de los más bajos de Europa.",
           "descriptionPt": "A Polónia usa o złoty polaco (PLN), não o euro. A maioria dos hotéis e restaurantes aceita Visa/Mastercard, o contactless é universal, há multibancos por todo o lado. Os suplementos para animais nos hotéis de Gdansk rondam em média 40 a 80 PLN por noite (10 a 18 euros), entre os mais baixos da Europa.",
-          "descriptionDe": "Polen verwendet den polnischen Złoty (PLN), nicht den Euro. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, kontaktloses Bezahlen ist üblich, Geldautomaten sind weit verbreitet. Haustierzuschläge in Danziger Hotels liegen durchschnittlich bei 40-80 PLN pro Nacht (10-18 €), zu den niedrigsten in Europa."
+          "descriptionDe": "Polen verwendet den polnischen Złoty (PLN), nicht den Euro. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, kontaktloses Bezahlen ist üblich, Geldautomaten sind weit verbreitet. Haustierzuschläge in Danziger Hotels liegen durchschnittlich bei 40-80 PLN pro Nacht (10-18 €), zu den niedrigsten in Europa.",
+          "descriptionNl": "Polen gebruikt de Poolse złoty (PLN), niet de euro. De meeste hotels en restaurants accepteren Visa/Mastercard, contactloos betalen is gangbaar, geldautomaten zijn er volop. Huisdiertoeslagen in hotels in Gdańsk liggen gemiddeld op 40-80 PLN per nacht (10-18 euro), tot de laagste van Europa."
         }
       ],
       "tipsEn": [
@@ -1026,7 +1134,9 @@
         }
       ],
       "titleDe": "Mit Hund nach Danzig reisen: praktische Tipps",
+      "titleNl": "Met hond naar Gdańsk reizen: praktische tips",
       "introDe": "Danzig, die hanseatische Perle der Ostsee und ehemalige Freie Stadt Danzig, vereint den UNESCO-gewürdigten Langen Markt, die Geburtsstätte der Solidarność bei der Stocznia Gdańska und den direkten SKM-Bahnzugang zum Hundestrand von Sopot (dem berühmtesten Polens) in 15 Minuten.",
+      "introNl": "Gdańsk, de hanzeparel van de Oostzee en voormalige Vrije Stad Danzig, combineert de door UNESCO geroemde Lange Markt, de geboorteplek van Solidarność bij de Stocznia Gdańska en directe SKM-treintoegang tot het hondenstrand van Sopot (het bekendste van Polen) in 15 minuten.",
       "faqsDe": [
         {
           "q": "Eignet sich Danzig für ein hundefreundliches Wochenende?",
@@ -1035,6 +1145,16 @@
         {
           "q": "Wie schneidet Danzig im Vergleich zu Warschau für Hundereisen ab?",
           "a": "Danzig ist kleiner, mit dem ikonischen Zugang zum Ostsee-Hundestrand (Sopot in 15 Minuten mit der SKM) und einem kompakteren Fußgängerkern. Warschau hat mehr haustierfreundliche Hotels und einen belebteren Łazienki-Park. Danzig punktet mit Strand und hanseatischem Erbe; Warschau mit Vielfalt und dem zentralen Flughafen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Gdańsk geschikt voor een hondvriendelijk weekend?",
+          "a": "Ja, Gdańsk combineert een UNESCO-hanzestad, het iconische hondenstrand van Sopot in 15 minuten met de SKM, het landschapspark van de Driestad met 200 km paden en zeer voordelige huisdiertoeslagen (10-18 euro/nacht). De verplichte muilkorf in het openbaar vervoer is het grootste struikelblok."
+        },
+        {
+          "q": "Hoe verhoudt Gdańsk zich tot Warschau voor reizen met hond?",
+          "a": "Gdańsk is kleiner, met iconische toegang tot een hondenstrand aan de Oostzee (Sopot in 15 minuten met de SKM) en een compactere voetgangerskern. Warschau heeft meer hondvriendelijke hotels en een levendiger Łazienki-park. Gdańsk scoort met strand en hanzeerfgoed; Warschau met variatie en het centrale vliegveld."
         }
       ]
     },
@@ -1066,8 +1186,11 @@
           "petPolicyPt": "Praça pública, cães com trela grátis",
           "tipPt": "O pôr do sol (20:00 às 22:00 no verão) é a hora icónica para a foto com cão, as fachadas com empenas captam a luz dourada do Báltico.",
           "descriptionDe": "Danzigs ikonischer Hauptplatz, der Neptunbrunnen, der Artushof, das Goldene Tor, umgeben von bunten Giebelhäusern der Kaufleute, die nach dem Zweiten Weltkrieg wiederaufgebaut wurden. Rund um die Uhr geöffnet, hundefreundlich mit angeleinten Hunden überall. Die meistfotografierte Straße Polens.",
+          "descriptionNl": "Het iconische hoofdplein van Gdańsk, de Neptunusfontein, het Artushof, de Gouden Poort, omringd door kleurrijke koopmanshuizen die na de Tweede Wereldoorlog zijn herbouwd. Dag en nacht open, hondvriendelijk met overal aangelijnde honden. De meest gefotografeerde straat van Polen.",
           "petPolicyDe": "Öffentlicher Platz, angeleinte Hunde kostenlos",
-          "tipDe": "Sonnenuntergang (20:00-22:00 Uhr im Sommer) ist die ikonische Zeit für Hundefotos, die Giebelfassaden fangen das goldene Ostseelicht ein."
+          "petPolicyNl": "Openbaar plein, aangelijnde honden gratis",
+          "tipDe": "Sonnenuntergang (20:00-22:00 Uhr im Sommer) ist die ikonische Zeit für Hundefotos, die Giebelfassaden fangen das goldene Ostseelicht ein.",
+          "tipNl": "Zonsondergang (20:00-22:00 uur in de zomer) is het iconische moment voor hondenfoto's, de gevels vangen dan het gouden Oostzeelicht."
         },
         {
           "name": "Mariacka Street",
@@ -1089,8 +1212,11 @@
           "petPolicyPt": "Rua pública, cães com trela grátis",
           "tipPt": "Os terraços de pedra de Mariacka são poleiros perfeitos para retratos de cães, a tradição local de Instagram inclui pôr os cães a posar nos degraus das gárgulas.",
           "descriptionDe": "Die schönste Straße Danzigs, schmale Steinbogen-Terrassen vor jedem Haus, führend zur Marienbasilika (der größten Backsteinkirche der Welt). Rund um die Uhr geöffnet, hundefreundlich mit angeleinten Hunden überall. Berühmt für Bernsteinschmuck-Geschäfte.",
+          "descriptionNl": "De mooiste straat van Gdańsk, smalle stenen terrassen met bogen voor elk huis, leidend naar de Mariabasiliek (de grootste bakstenen kerk ter wereld). Dag en nacht open, hondvriendelijk met overal aangelijnde honden. Beroemd om de winkels met barnsteensieraden.",
           "petPolicyDe": "Öffentliche Straße, angeleinte Hunde kostenlos",
-          "tipDe": "Die Steinterrassen an der Mariacka-Straße sind perfekte Plätze für Hundeporträts, eine lokale Instagram-Tradition posiert Hunde auf den Wasserspeier-Stufen."
+          "petPolicyNl": "Openbare straat, aangelijnde honden gratis",
+          "tipDe": "Die Steinterrassen an der Mariacka-Straße sind perfekte Plätze für Hundeporträts, eine lokale Instagram-Tradition posiert Hunde auf den Wasserspeier-Stufen.",
+          "tipNl": "De stenen terrassen aan de Mariacka-straat zijn perfecte plekken voor hondenportretten, een lokale Instagram-traditie is honden poseren op de waterspuwertrapjes."
         },
         {
           "name": "Westerplatte Memorial",
@@ -1112,8 +1238,11 @@
           "petPolicyPt": "Memorial ao ar livre gratuito; interior do museu só cães de assistência",
           "tipPt": "Combine com um cruzeiro no rio Motława a partir do cais da Cidade Velha (1h ida e volta, cães com trela aceites nos conveses ao ar livre).",
           "descriptionDe": "Die Halbinsel, auf der am 1. September 1939 der Zweite Weltkrieg begann, das hoch aufragende Westerplatte-Gedenkdenkmal, die Ruinen der polnischen Garnison und ein 1 km langer hundefreundlicher Freiluftweg. Der Innenraum des Muzeum II Wojny Światowej lässt nur Assistenzhunde zu.",
+          "descriptionNl": "Het schiereiland waar op 1 september 1939 de Tweede Wereldoorlog begon, het hoog oprijzende Westerplatte-monument, de ruïnes van het Poolse garnizoen en een 1 km lang hondvriendelijk buitenpad. Het binnengedeelte van het Muzeum II Wojny Światowej laat alleen assistentiehonden toe.",
           "petPolicyDe": "Freiluft-Gedenkstätte kostenlos; Museumsinnenraum nur für Assistenzhunde",
-          "tipDe": "Kombinieren Sie den Besuch mit einer Flussfahrt auf der Motława ab dem Pier der Altstadt (1 Stunde Rundfahrt, angeleinte Hunde auf den Außendecks zugelassen)."
+          "petPolicyNl": "Buitengedeelte van de herdenkingsplek gratis; museumbinnenruimte alleen voor assistentiehonden",
+          "tipDe": "Kombinieren Sie den Besuch mit einer Flussfahrt auf der Motława ab dem Pier der Altstadt (1 Stunde Rundfahrt, angeleinte Hunde auf den Außendecks zugelassen).",
+          "tipNl": "Combineer het bezoek met een boottochtje op de Motława vanaf de kade van de oude binnenstad (1 uur durende rondvaart, aangelijnde honden toegestaan op de buitendekken)."
         }
       ],
       "tipsEn": [
@@ -1179,7 +1308,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Danzig",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Gdańsk",
       "introDe": "Die meisten der bekannten Freiluft-Sehenswürdigkeiten Danzigs sind hundefreundlich, der Długi Targ (Lange Markt), der Neptunbrunnen, die Mariacka-Straße, der Kran an der Motława, das Solidarność-Denkmal und die Gedenkstätte Westerplatte heißen angeleinte Hunde alle kostenlos willkommen.",
+      "introNl": "De meeste bekende buitenbezienswaardigheden van Gdańsk zijn hondvriendelijk, de Długi Targ (Lange Markt), de Neptunusfontein, de Mariacka-straat, de Kraan aan de Motława, het Solidarność-monument en de herdenkingsplek Westerplatte heten allemaal aangelijnde honden gratis welkom.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund zur Marienbasilika mitnehmen?",
@@ -1188,6 +1319,16 @@
         {
           "q": "Sind Hunde an der Gedenkstätte Westerplatte erlaubt?",
           "a": "Ja, der Freiluftbereich der Gedenkstätte einschließlich des Denkmals und der Ruinen der polnischen Garnison ist ganzjährig kostenlos hundefreundlich für angeleinte Hunde. Das Innenmuseum Muzeum II Wojny Światowej lässt nur Assistenzhunde zu."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar de Mariabasiliek?",
+          "a": "Naar het omliggende Targ Rybny-plein en het buitengedeelte van de basiliek wel, aangelijnd en gratis. Het binnengedeelte van de basiliek (de grootste bakstenen kerk ter wereld) laat alleen assistentiehonden toe."
+        },
+        {
+          "q": "Zijn honden toegestaan bij de herdenkingsplek Westerplatte?",
+          "a": "Ja, het buitengedeelte van de herdenkingsplek, inclusief het monument en de ruïnes van het Poolse garnizoen, is het hele jaar gratis hondvriendelijk voor aangelijnde honden. Het binnenmuseum Muzeum II Wojny Światowej laat alleen assistentiehonden toe."
         }
       ]
     },
@@ -1215,7 +1356,9 @@
           "descriptionPt": "Plataforma internacional de pet sitting com cerca de 30 cuidadores verificados sediados em Gdansk, num raio de 5 km do centro, com visitas pontuais, creche canina e alojamento com pernoita. Todos os cuidadores são verificados e o seguro vem incluído.",
           "tipPt": "Filtre por cuidadores que falem inglês nas definições da plataforma, cerca de 60% dos cuidadores de Gdansk falam inglês fluente graças à base de turistas e estudantes internacionais.",
           "descriptionDe": "Internationale Plattform für Haustierbetreuung mit rund 30 geprüften Betreuungspersonen in Danzig im Umkreis von 5 km um das Zentrum, Kurzbesuche, Hundetagesbetreuung, Übernachtungspension. Alle Betreuungspersonen sind geprüft, eine Versicherung ist inbegriffen.",
-          "tipDe": "In den Plattformeinstellungen nach englischsprachigen Betreuungspersonen filtern, etwa 60% der Danziger Betreuungspersonen sprechen dank des internationalen Touristen- und Studentenpublikums fließend Englisch."
+          "descriptionNl": "Internationaal platform voor huisdierenoppas met ongeveer 30 gecontroleerde oppassers in Gdańsk binnen 5 km van het centrum, korte bezoekjes, hondendagopvang, logeeropvang. Alle oppassers zijn gecontroleerd, een verzekering is inbegrepen.",
+          "tipDe": "In den Plattformeinstellungen nach englischsprachigen Betreuungspersonen filtern, etwa 60% der Danziger Betreuungspersonen sprechen dank des internationalen Touristen- und Studentenpublikums fließend Englisch.",
+          "tipNl": "Filter in de platforminstellingen op Engelssprekende oppassers, zo'n 60% van de oppassers in Gdańsk spreekt vloeiend Engels dankzij het internationale toeristen- en studentenpubliek."
         },
         {
           "name": "PetHotel Trójmiasto",
@@ -1233,7 +1376,9 @@
           "descriptionPt": "Cadeia local de hotéis para animais da Tri-City com dois espaços (centro de Gdansk e Sopot), creche supervisionada, alojamento com pernoita e passeios. Seguro e linha telefónica veterinária 24/7 incluídos; tarifa de 80 a 120 PLN por dia (18 a 28 euros).",
           "tipPt": "Reserve com pelo menos 1 semana de antecedência no verão (junho a agosto), é popular entre famílias polacas de férias e turistas internacionais que visitam a Praia Canina de Sopot.",
           "descriptionDe": "Lokale Dreistadt-Tierpension mit zwei Standorten (zentrales Danzig und Sopot), betreute Tagesbetreuung, Übernachtungspension, Gassi-Service. Versicherung und eine 24-Stunden-Tierarzt-Telefonleitung inbegriffen; Preis 80-120 PLN pro Tag (18-28 €).",
-          "tipDe": "Im Sommer (Juni-August) mindestens 1 Woche im Voraus buchen, beliebt bei polnischen Urlauberfamilien und internationalen Touristen, die den Hundestrand von Sopot besuchen."
+          "descriptionNl": "Lokale dierenpension van de Driestad met twee locaties (centraal Gdańsk en Sopot), begeleide dagopvang, logeeropvang, uitlaatservice. Verzekering en een 24-uurs dierenartsenlijn inbegrepen; prijs 80-120 PLN per dag (18-28 euro).",
+          "tipDe": "Im Sommer (Juni-August) mindestens 1 Woche im Voraus buchen, beliebt bei polnischen Urlauberfamilien und internationalen Touristen, die den Hundestrand von Sopot besuchen.",
+          "tipNl": "Boek in de zomer (juni-augustus) minstens 1 week van tevoren, populair bij Poolse vakantiegezinnen en internationale toeristen die het hondenstrand van Sopot bezoeken."
         }
       ],
       "tipsEn": [
@@ -1299,7 +1444,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Danzig",
+      "titleNl": "Huisdierenoppas & uitlaatservice in Gdańsk",
       "introDe": "Für Tagesausflüge, bei denen der Hund nicht mitkommen kann (Solidarność-Zentrum, Muzeum II Wojny Światowej, Marienbasilika), bietet Danzig zuverlässige, geprüfte Haustierbetreuung über internationale und polnische Plattformen.",
+      "introNl": "Voor dagtochten waarbij de hond niet mee kan (Solidarność-centrum, Muzeum II Wojny Światowej, Mariabasiliek), biedt Gdańsk betrouwbare, gecontroleerde huisdierenoppas via internationale en Poolse platforms.",
       "faqsDe": [
         {
           "q": "Wie viel kostet Hundetagesbetreuung in Danzig?",
@@ -1308,6 +1455,16 @@
         {
           "q": "Finde ich in Danzig eine englischsprachige Betreuungsperson?",
           "a": "Ja, etwa 60% der Danziger Betreuungspersonen auf Pawshake sprechen dank des internationalen Touristen- und Studentenpublikums fließend Englisch. Filtern Sie die Plattform nach Sprache."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost hondendagopvang in Gdańsk?",
+          "a": "70-120 PLN per dag (16-28 euro), afhankelijk van het platform en de hondengrootte, via Pawshake of PetHotel Trójmiasto. Korte bezoekjes kosten 40-60 PLN (9-14 euro) voor 30 minuten."
+        },
+        {
+          "q": "Vind ik in Gdańsk een Engelssprekende oppasser?",
+          "a": "Ja, zo'n 60% van de oppassers in Gdańsk op Pawshake spreekt vloeiend Engels dankzij het internationale toeristen- en studentenpubliek. Filter het platform op taal."
         }
       ]
     }

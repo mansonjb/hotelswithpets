@@ -39,9 +39,13 @@
           "mustTryPt": "Leffe a pressão, croque-monsieur",
           "tipPt": "Chegue cedo nas manhãs de fim de semana para arranjar uma mesa de esplanada virada para os lagos",
           "descriptionDe": "Das ikonische Art-déco-Café am Place Flagey ist eine der bekanntesten hundefreundlichen Terrassen Brüssels. Die weitläufige Terrasse blickt auf den Flagey-Platz und die Teiche von Ixelles (étangs d'Ixelles). Das Personal ist Hunden gegenüber aufgeschlossen, und Wassernäpfe sind auf Anfrage erhältlich. Auch der Innenbereich akzeptiert Hunde in ruhigeren Zeiten. Eine Brüsseler Institution für Wochenendbrunch und Nachmittagsdrinks.",
+          "descriptionNl": "Het iconische art-decocafé aan het Place Flagey heeft een van de bekendste hondvriendelijke terrassen van Brussel. Het weidse terras kijkt uit op het Flageyplein en de vijvers van Elsene (étangs d'Ixelles). Het personeel staat open voor honden en waterbakjes zijn op aanvraag beschikbaar. Ook binnen worden honden buiten de drukke uren geaccepteerd. Een Brusselse instelling voor weekendbrunch en middagborrels.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen, im Innenbereich außerhalb der Stoßzeiten akzeptiert",
+          "petPolicyNl": "Honden welkom op het terras, binnen geaccepteerd buiten de spitsuren",
           "mustTryDe": "Leffe vom Fass, Croque-Monsieur",
-          "tipDe": "Kommen Sie am Wochenendmorgen früh, um sich einen Terrassenplatz mit Blick auf die Teiche zu sichern"
+          "mustTryNl": "Leffe van het vat, croque-monsieur",
+          "tipDe": "Kommen Sie am Wochenendmorgen früh, um sich einen Terrassenplatz mit Blick auf die Teiche zu sichern",
+          "tipNl": "Kom vroeg op een weekendochtend om een terrasplek met zicht op de vijvers te bemachtigen"
         },
         {
           "name": "Brasserie de la Senne",
@@ -69,9 +73,13 @@
           "mustTryPt": "Taras Boulba (session ale lupulada), Zinnebir",
           "tipPt": "Compre um pacote de degustação variado para levar para casa; embrulham as garrafas para a viagem",
           "descriptionDe": "Eine beliebte Brüsseler Craft-Brauerei mit einem einladenden Ausschank, der Hunde aktiv ermutigt. Die Senne-Biere, Zinnebir, Taras Boulba, Stouterik, gehören zu den besten Belgiens. Der entspannte Industrieraum bietet viel Platz für Hunde, und das Personal freut sich wirklich über vierbeinige Besucher. Ein toller Stopp nach der Erkundung der historischen Altstadt.",
+          "descriptionNl": "Een populaire Brusselse ambachtelijke brouwerij met een gastvrije schenkruimte die honden actief aanmoedigt. De Zenne-bieren, Zinnebir, Taras Boulba, Stouterik, behoren tot de beste van België. De ontspannen industriële ruimte biedt veel plek voor honden, en het personeel is oprecht blij met viervoetige gasten. Een fijne stop na het verkennen van de historische binnenstad.",
           "petPolicyDe": "Hunde im Innenbereich und auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom binnen en op het terras",
           "mustTryDe": "Taras Boulba (hopfiges Session Ale), Zinnebir",
-          "tipDe": "Kaufen Sie ein gemischtes Verkostungspaket zum Mitnehmen, die Flaschen werden reisefertig verpackt"
+          "mustTryNl": "Taras Boulba (hoppig session ale), Zinnebir",
+          "tipDe": "Kaufen Sie ein gemischtes Verkostungspaket zum Mitnehmen, die Flaschen werden reisefertig verpackt",
+          "tipNl": "Koop een gemengd proefpakket om mee te nemen, de flessen worden reisklaar ingepakt"
         },
         {
           "name": "Le Berger",
@@ -99,9 +107,13 @@
           "mustTryPt": "Seleção de vinhos naturais, steak tartare",
           "tipPt": "Reserve com antecedência às quintas, sextas e sábados à noite; enche depressa",
           "descriptionDe": "Eine Weinbar und Bistro im Viertel Ixelles, die mühelos hundefreundlich ist. Sowohl der kleine, warme Innenraum als auch die Terrasse am Gehweg heißen Hunde willkommen, und die Besitzer haben selbst einen Hund. Die Weinkarte konzentriert sich auf Natur- und biodynamische Erzeuger, und die Küche serviert ehrliche Bistroküche, etwa Wurst- und Käseplatten, Steak Tartare und Tagesgerichte. Ein Favorit der Einheimischen.",
+          "descriptionNl": "Een wijnbar en bistro in de wijk Elsene die moeiteloos hondvriendelijk is. Zowel de kleine, warme binnenruimte als het terras aan de stoep verwelkomen honden, en de eigenaars hebben zelf een hond. De wijnkaart focust op natuur- en biodynamische producenten, en de keuken serveert eerlijke bistrogerechten, zoals worst- en kaasplanken, steak tartare en dagschotels. Een favoriet bij de buurtbewoners.",
           "petPolicyDe": "Hunde im Innenbereich und auf der Terrasse willkommen, die Besitzer haben einen eigenen Hund",
+          "petPolicyNl": "Honden welkom binnen en op het terras, de eigenaars hebben zelf een hond",
           "mustTryDe": "Naturweinauswahl, Steak Tartare",
-          "tipDe": "Reservieren Sie an Donnerstag- bis Samstagabenden im Voraus, es füllt sich schnell"
+          "mustTryNl": "Natuurwijnselectie, steak tartare",
+          "tipDe": "Reservieren Sie an Donnerstag- bis Samstagabenden im Voraus, es füllt sich schnell",
+          "tipNl": "Reserveer op donderdag- tot zaterdagavonden vooraf, het loopt snel vol"
         },
         {
           "name": "Moeder Lambic Fontainas",
@@ -129,9 +141,13 @@
           "mustTryPt": "Cantillon Gueuze, qualquer lambic da época a pressão",
           "tipPt": "Peça ao empregado do bar uma recomendação; conhece a garrafeira melhor do que qualquer ementa pode mostrar",
           "descriptionDe": "Brüssels renommierteste Craft-Bier-Bar mit über 40 Bieren vom Fass und Hunderten von Flaschen. Hunde sind in dieser Institution in Saint-Gilles im Innenbereich und auf der Terrasse willkommen. Die Bar hat eine entspannte, unprätentiöse Atmosphäre, man kommt wegen des Biers und bleibt wegen der Gespräche. Die Gueuze- und Lambic-Auswahl ist außergewöhnlich und anderswo in der Stadt kaum zu finden.",
+          "descriptionNl": "Brussels bekendste speciaalbierbar met meer dan 40 bieren van het vat en honderden flessen. Honden zijn in deze instelling in Sint-Gillis welkom binnen en op het terras. De bar heeft een ontspannen, ongedwongen sfeer, je komt voor het bier en blijft voor de gesprekken. De gueuze- en lambikselectie is uitzonderlijk en elders in de stad nauwelijks te vinden.",
           "petPolicyDe": "Hunde im Innenbereich und auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom binnen en op het terras",
           "mustTryDe": "Cantillon Gueuze, jedes saisonale Lambic vom Fass",
-          "tipDe": "Fragen Sie den Barkeeper nach seiner Empfehlung, er kennt den Keller besser als jede Karte zeigen kann"
+          "mustTryNl": "Cantillon Gueuze, elke seizoensgebonden lambik van het vat",
+          "tipDe": "Fragen Sie den Barkeeper nach seiner Empfehlung, er kennt den Keller besser als jede Karte zeigen kann",
+          "tipNl": "Vraag de barman om zijn aanbeveling, hij kent de kelder beter dan welke kaart ook kan tonen"
         },
         {
           "name": "Brasserie L'Ours",
@@ -159,9 +175,13 @@
           "mustTryPt": "Moules-frites, vol-au-vent à la Bruxelloise",
           "tipPt": "Reserve uma mesa de esplanada para o almoço de fim de semana; vale a pena para ver a vida passar na Avenue Louise",
           "descriptionDe": "Eine klassische Brüsseler Brasserie an der Avenue Louise mit einer geräumigen Terrasse, die Hunde ausdrücklich willkommen heißt. Die Speisekarte ist traditionell belgisch, Vol-au-vent, Waterzooi, Miesmuscheln mit Pommes, ordentlich und gleichbleibend zubereitet. Die Terrasse ist in den kühleren Monaten beheizt, was die Freiluftsaison verlängert. Eine verlässliche Wahl für ein richtiges belgisches Essen mit Ihrem Hund.",
+          "descriptionNl": "Een klassieke Brusselse brasserie aan de Louizalaan met een ruim terras dat honden nadrukkelijk verwelkomt. De kaart is traditioneel Belgisch, vol-au-vent, waterzooi, mosselen met friet, degelijk en constant bereid. Het terras is in de koelere maanden verwarmd, wat het buitenseizoen verlengt. Een betrouwbare keuze voor een echte Belgische maaltijd met je hond.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen, wohlerzogene Hunde im Innenbereich akzeptiert",
+          "petPolicyNl": "Honden welkom op het terras, brave honden geaccepteerd binnen",
           "mustTryDe": "Miesmuscheln mit Pommes, Vol-au-vent à la Bruxelloise",
-          "tipDe": "Reservieren Sie einen Terrassentisch fürs Wochenendmittagessen, es lohnt sich für das Leute-Beobachten an der Avenue Louise"
+          "mustTryNl": "Mosselen met friet, vol-au-vent à la Bruxelloise",
+          "tipDe": "Reservieren Sie einen Terrassentisch fürs Wochenendmittagessen, es lohnt sich für das Leute-Beobachten an der Avenue Louise",
+          "tipNl": "Reserveer een terrastafel voor de weekendlunch, het is de moeite waard om mensen te kijken aan de Louizalaan"
         }
       ],
       "tipsEn": [
@@ -247,7 +267,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Brüssel",
+      "titleNl": "Huisdiervriendelijke restaurants in Brussel",
       "introDe": "Brüssel hat eine wirklich einladende Café-Kultur für Hunde. Die Brasserie- und Estaminet-Tradition der Stadt bedeutet, dass Hunde schon lange Teil der Gastronomieszene sind, besonders auf den Terrassen rund um Place Flagey, Ixelles und Saint-Gilles. Von April bis Oktober sind die Brüsseler Terrassen voll, und die meisten heißen wohlerzogene Hunde willkommen. Selbst im Winter erlauben viele Stadtteilcafés Hunde ausdrücklich im Innenbereich. Die fünf unten genannten Orte sind ganzjährig zuverlässig haustierfreundlich.",
+      "introNl": "Brussel heeft een echt gastvrije cafécultuur voor honden. De brasserie- en estaminettraditie van de stad betekent dat honden al lang deel uitmaken van de horecascene, vooral op de terrassen rond het Flageyplein, Elsene en Sint-Gillis. Van april tot oktober zitten de Brusselse terrassen vol, en de meeste verwelkomen brave honden. Zelfs in de winter laten veel buurtcafés honden uitdrukkelijk binnen toe. De vijf hieronder genoemde plekken zijn het hele jaar door betrouwbaar huisdiervriendelijk.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Brüssel im Innenbereich erlaubt?",
@@ -260,6 +282,20 @@
         {
           "q": "Welche Brüsseler Stadtviertel sind zum Essen am hundefreundlichsten?",
           "a": "Ixelles (besonders rund um Place Flagey und Place du Châtelain), Saint-Gilles und das Châtelain-Viertel sind bei Hunden in Restaurants und Cafés am entspanntesten."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden binnen bij restaurants in Brussel?",
+          "a": "België heeft geen nationale wet die honden in restaurants verbiedt, het ligt bij de eigenaar. Veel Brusselse cafés en brasserieën, vooral in Elsene en Sint-Gillis, verwelkomen honden binnen. Vraag altijd eerst even na."
+        },
+        {
+          "q": "Zetten Brusselse restaurants waterbakjes klaar voor honden?",
+          "a": "Sommige wel, vooral de meer hondvriendelijke zaken zoals Café Belga en Moeder Lambic. Vragen kan altijd, het personeel helpt meestal graag."
+        },
+        {
+          "q": "Welke Brusselse wijken zijn het meest hondvriendelijk om te eten?",
+          "a": "Elsene (vooral rond het Flageyplein en Place du Châtelain), Sint-Gillis en de Châtelainwijk zijn het meest ontspannen voor honden in restaurants en cafés."
         }
       ]
     },
@@ -297,9 +333,13 @@
           "mustTryPt": "Passeio matinal à volta do lago central, prado sem trela perto da Avenue du Brésil",
           "tipPt": "Entre pela Avenue Louise para o caminho mais rápido até aos prados sem trela na secção norte",
           "descriptionDe": "Der Bois de la Cambre ist Brüssels beliebtester Park für Hunde und ihre Besitzer. Am südlichen Ende der Avenue Louise gelegen, verfügt dieser 123 Hektar große Park über ausgewiesene Freilaufzonen, in denen Hunde frei laufen können. Der zentrale See, die Waldwege und offenen Wiesen machen ihn ideal für einen langen Morgenspaziergang. An Wochenendmorgen ist der Park voller Brüsseler Hundebesitzer und wirkt wie ein echter Treffpunkt der Gemeinschaft.",
+          "descriptionNl": "Het Ter Kamerenbos is Brussels populairste park voor honden en hun baasjes. Gelegen aan het zuidelijke uiteinde van de Louizalaan, telt dit park van 123 hectare aangewezen loslopen-zones waar honden vrij kunnen rennen. Het centrale meer, de boswegen en open weiden maken het ideaal voor een lange ochtendwandeling. Op weekendochtenden staat het park vol Brusselse hondenbezitters en voelt het als een echte ontmoetingsplek.",
           "petPolicyDe": "Hunde erlaubt, ausgewiesene Freilaufzonen vorhanden",
+          "petPolicyNl": "Honden toegestaan, aangewezen loslopen-zones aanwezig",
           "mustTryDe": "Morgenspaziergang rund um den zentralen See, Freilaufwiese nahe der Avenue du Brésil",
-          "tipDe": "Betreten Sie den Park von der Avenue Louise aus für den schnellsten Weg zu den Freilaufwiesen im nördlichen Bereich"
+          "mustTryNl": "Ochtendwandeling rond het centrale meer, loslopen-weide bij de Brazilië-laan",
+          "tipDe": "Betreten Sie den Park von der Avenue Louise aus für den schnellsten Weg zu den Freilaufwiesen im nördlichen Bereich",
+          "tipNl": "Ga het park binnen vanaf de Louizalaan voor de snelste weg naar de loslopen-weiden in het noordelijke deel"
         },
         {
           "name": "Parc du Cinquantenaire",
@@ -327,9 +367,13 @@
           "mustTryPt": "Passeie sob o arco triunfal, explore a secção arborizada a leste",
           "tipPt": "A metade leste do parque, perto do museu Autoworld, é mais sossegada e arborizada, melhor para cães que preferem menos movimento de pessoas",
           "descriptionDe": "Einer der prächtigsten Parks Brüssels, dominiert vom Triumphbogen und flankiert von den Königlichen Museen. Angeleinte Hunde sind überall willkommen, und die breiten Kieswege und offenen Rasenflächen ermöglichen würdevolle Spaziergänge. Der Park ist bei Büroangestellten des Europaviertels zur Mittagszeit und bei Familien am Wochenende beliebt. Die Größe und Formalität des Parks verleihen ihm eine andere Energie als dem Bois de la Cambre, architektonischer, typisch Brüssel.",
+          "descriptionNl": "Een van de prachtigste parken van Brussel, gedomineerd door de Triomfboog en omringd door de Koninklijke Musea. Aangelijnde honden zijn overal welkom, en de brede grindpaden en open grasvelden maken waardige wandelingen mogelijk. Het park is populair bij kantoormedewerkers uit de Europese wijk tijdens de lunch en bij gezinnen in het weekend. De omvang en formaliteit van het park geven het een andere energie dan het Ter Kamerenbos, architectonischer, typisch Brussels.",
           "petPolicyDe": "Angeleinte Hunde überall willkommen",
+          "petPolicyNl": "Aangelijnde honden overal welkom",
           "mustTryDe": "Spaziergang unter dem Triumphbogen, Erkundung des östlichen bewaldeten Abschnitts",
-          "tipDe": "Die östliche Parkhälfte nahe dem Autoworld-Museum ist ruhiger und bewaldeter, besser für Hunde, die weniger Fußgängerverkehr bevorzugen"
+          "mustTryNl": "Wandeling onder de Triomfboog, verkenning van het oostelijke beboste deel",
+          "tipDe": "Die östliche Parkhälfte nahe dem Autoworld-Museum ist ruhiger und bewaldeter, besser für Hunde, die weniger Fußgängerverkehr bevorzugen",
+          "tipNl": "De oostelijke parkhelft bij het Autoworld-museum is rustiger en bosrijker, beter voor honden die minder voetgangersverkeer prefereren"
         },
         {
           "name": "Parc de Forest",
@@ -357,9 +401,13 @@
           "mustTryPt": "Circuito pelo trilho arborizado, miradouro Altitude 100",
           "tipPt": "Venha nas manhãs de dias úteis, quando a secção arborizada fica quase deserta, um raro espaço verde sossegado em Bruxelas",
           "descriptionDe": "Ein weniger bekannter, aber ausgezeichneter Park in der Gemeinde Forest, mit einer Mischung aus formalen Gärten und wilden Waldflächen. Hunde sind überall an der Leine willkommen, und im bewaldeten Abschnitt gibt es einen informellen Freilaufbereich, der von lokalen Hundebesitzern genutzt wird. Der Park ist selten überfüllt und bietet ein wirklich angenehmes, entspanntes Spazierlerlebnis. Der Aussichtspunkt Altitude 100 bietet gute Ausblicke über die Stadt.",
+          "descriptionNl": "Een minder bekend maar uitstekend park in de gemeente Vorst, met een mix van formele tuinen en wilde bosgebieden. Honden zijn overal aangelijnd welkom, en in het beboste deel is er een informele loslopen-zone die door lokale hondenbezitters wordt gebruikt. Het park is zelden druk en biedt een echt aangename, ontspannen wandelervaring. Het uitkijkpunt Altitude 100 biedt mooi zicht over de stad.",
           "petPolicyDe": "Angeleinte Hunde willkommen, informeller Freilaufbereich im Waldabschnitt",
+          "petPolicyNl": "Aangelijnde honden welkom, informele loslopen-zone in het bosgedeelte",
           "mustTryDe": "Waldrundweg, Aussichtspunkt Altitude 100",
-          "tipDe": "Kommen Sie an Wochentagmorgen, wenn der Waldabschnitt fast menschenleer ist, ein seltener ruhiger Grünraum in Brüssel"
+          "mustTryNl": "Bosrondwandeling, uitkijkpunt Altitude 100",
+          "tipDe": "Kommen Sie an Wochentagmorgen, wenn der Waldabschnitt fast menschenleer ist, ein seltener ruhiger Grünraum in Brüssel",
+          "tipNl": "Kom op een doordeweekse ochtend, wanneer het bosgedeelte bijna verlaten is, een zeldzaam rustig groen plekje in Brussel"
         },
         {
           "name": "Laeken Park (Parc de Laeken)",
@@ -387,9 +435,13 @@
           "mustTryPt": "Percorra a alameda principal, veja o Atomium a partir da orla do parque",
           "tipPt": "Verifique com antecedência; as secções perto do Palácio Real podem estar fechadas durante eventos reais",
           "descriptionDe": "Der große Park neben dem Königlichen Palast von Laeken, nahe dem Atomium. Der öffentliche Bereich des Parks ist für angeleinte Hunde zugänglich und bietet breite baumgesäumte Alleen und offene Rasenflächen. Kombinieren Sie einen Besuch hier mit einem Spaziergang, um das Atomium von außen und den nahegelegenen Japanischen Turm zu sehen. Eine ruhigere Alternative zum Bois de la Cambre für alle, die im Norden Brüssels wohnen.",
+          "descriptionNl": "Het grote park naast het Koninklijk Paleis van Laken, dichtbij het Atomium. Het publieke deel van het park is toegankelijk voor aangelijnde honden en biedt brede lanen met bomen en open grasvelden. Combineer een bezoek hier met een wandeling om het Atomium van buiten en de nabijgelegen Japanse Toren te zien. Een rustiger alternatief voor het Ter Kamerenbos voor wie in het noorden van Brussel woont.",
           "petPolicyDe": "Angeleinte Hunde in den öffentlichen Bereichen willkommen",
+          "petPolicyNl": "Aangelijnde honden welkom in de publieke delen",
           "mustTryDe": "Spaziergang die Hauptallee entlang, Blick auf das Atomium vom Parkrand",
-          "tipDe": "Erkundigen Sie sich vorab, Bereiche nahe dem Königlichen Palast können bei königlichen Veranstaltungen gesperrt sein"
+          "mustTryNl": "Wandeling langs de hoofdlaan, zicht op het Atomium vanaf de parkrand",
+          "tipDe": "Erkundigen Sie sich vorab, Bereiche nahe dem Königlichen Palast können bei königlichen Veranstaltungen gesperrt sein",
+          "tipNl": "Informeer vooraf, gebieden bij het Koninklijk Paleis kunnen tijdens koninklijke evenementen afgesloten zijn"
         }
       ],
       "tipsEn": [
@@ -475,7 +527,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Parks in Brüssel",
+      "titleNl": "Huisdiervriendelijke parken in Brussel",
       "introDe": "Brüssel verfügt für eine Hauptstadt über erstaunlich viel Grünfläche, und Hunde sind in den meisten Parks willkommen. Der Bois de la Cambre ist das beliebteste Freilaufgebiet der Stadt. Der Parc du Cinquantenaire ist ein prächtiger formaler Park, der angeleinte Hunde überall zulässt. Auch kleinere Stadtteilplätze in Ixelles, Saint-Gilles und Etterbeek dienen lokalen Hundebesitzern als tägliche Spazierziele.",
+      "introNl": "Brussel heeft voor een hoofdstad verrassend veel groen, en honden zijn welkom in de meeste parken. Het Ter Kamerenbos is het populairste loslopen-gebied van de stad. Het Jubelpark is een prachtig formeel park dat aangelijnde honden overal toelaat. Ook kleinere buurtparken in Elsene, Sint-Gillis en Etterbeek dienen als dagelijkse wandelplekken voor lokale hondenbezitters.",
       "faqsDe": [
         {
           "q": "Gibt es Freilaufzonen für Hunde in Brüssel?",
@@ -488,6 +542,20 @@
         {
           "q": "Was ist die Promenade Verte?",
           "a": "Die Promenade Verte (Grüner Spazierweg) ist eine 60 km lange Rundstrecke um Brüssel durch Parks, Wälder und Grünkorridore. Hunde sind auf der gesamten Strecke an der Leine willkommen, und es ist eine großartige Möglichkeit, den Grüngürtel der Stadt über mehrere Tage zu erkunden."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er loslopen-zones voor honden in Brussel?",
+          "a": "Ja, het Ter Kamerenbos heeft aangewezen loslopen-zones (let op de bordjes). Sommige kleinere buurtparken hebben ook informele loslopen-gebieden die door lokale hondenbezitters worden gebruikt. Controleer bij binnenkomst altijd de bebording."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen naar het Jubelpark?",
+          "a": "Ja, aangelijnde honden zijn welkom in het hele Jubelpark. Honden zijn niet toegestaan in de gebouwen van de Koninklijke Musea."
+        },
+        {
+          "q": "Wat is de Groene Wandeling?",
+          "a": "De Groene Wandeling (Promenade Verte) is een rondweg van 60 km rond Brussel door parken, bossen en groene corridors. Honden zijn aangelijnd welkom over de hele route, en het is een geweldige manier om de groene gordel van de stad over meerdere dagen te verkennen."
         }
       ]
     },
@@ -630,7 +698,9 @@
         }
       ],
       "titleDe": "Mit Haustier in Brüssel unterwegs",
+      "titleNl": "Met huisdier onderweg in Brussel",
       "introDe": "Die öffentlichen Verkehrsmittel Brüssels werden von STIB/MIVB betrieben (U-Bahn, Straßenbahn, Bus). Die Regeln für Hunde sind klar und werden konsequent durchgesetzt: kleine Hunde in einer geschlossenen Transportbox fahren kostenlos. Größere Hunde sind im STIB/MIVB-Netz nicht erlaubt. Taxis und Fahrdienste sind flexibler. Die Stadt ist in den meisten Bereichen zu Fuß gut erreichbar, was mit Hund oft die beste Option ist.",
+      "introNl": "Het openbaar vervoer van Brussel wordt beheerd door de MIVB/STIB (metro, tram, bus). De regels voor honden zijn duidelijk en worden consequent gehandhaafd: kleine honden in een gesloten draagtas reizen gratis. Grotere honden zijn niet toegestaan op het MIVB/STIB-net. Taxi's en ritdiensten zijn flexibeler. De stad is in de meeste gebieden goed te voet te bereiken, wat met hond vaak de beste optie is.",
       "faqsDe": [
         {
           "q": "Kann ich meinen großen Hund in den öffentlichen Verkehrsmitteln Brüssels mitnehmen?",
@@ -643,6 +713,20 @@
         {
           "q": "Kann ich einen Hund im Zug von Brüssel nach Brügge mitnehmen?",
           "a": "Ja. SNCB/NMBS-Züge erlauben kleine Hunde in einer Transportbox kostenlos, mittelgroße Hunde mit einer Kinderfahrkarte zum halben Preis und große Hunde mit einer Fahrkarte zum vollen Preis (an der Leine, mit Maulkorb). Die Fahrt Brüssel-Brügge dauert etwa 1 Stunde."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn grote hond meenemen in het openbaar vervoer van Brussel?",
+          "a": "Nee. MIVB/STIB (metro, tram, bus) laat alleen kleine honden toe in een gesloten draagtas. Grote honden zijn niet toegestaan. Gebruik een taxi of ga te voet."
+        },
+        {
+          "q": "Hoeveel kost het om mijn hond mee te nemen in de Brusselse metro?",
+          "a": "Kleine honden in een volledig gesloten draagtas reizen gratis bij MIVB/STIB. Voor de hond is geen ticket nodig."
+        },
+        {
+          "q": "Mag ik een hond meenemen in de trein van Brussel naar Brugge?",
+          "a": "Ja. NMBS/SNCB-treinen laten kleine honden in een draagtas gratis toe, middelgrote honden met een kinderticket tegen halve prijs en grote honden met een volledig ticket (aangelijnd, met muilkorf). De rit Brussel-Brugge duurt ongeveer 1 uur."
         }
       ]
     },
@@ -680,9 +764,13 @@
           "mustTryPt": "Longo passeio matinal ao longo da orla, explorar o centro da vila Belle Époque",
           "tipPt": "Apanhe o elétrico costeiro Kusttram a partir de Ostende; percorre toda a costa belga e é a forma mais cénica de chegar",
           "descriptionDe": "De Haan ist der charmanteste Ort an der belgischen Küste, mit Belle-Époque-Villen, ruhiger Atmosphäre und einem breiten Sandstrand. Hunde sind auf den meisten Strandabschnitten ganzjährig erlaubt, außer während der festgelegten Sommerbadezeiten. Der Strand ist breit genug, dass Hunde und Badegäste bequem nebeneinander bestehen können. Die Küstenstraßenbahn (Kusttram) verkehrt entlang der gesamten Küste und nimmt Hunde in Transportboxen mit.",
+          "descriptionNl": "De Haan is de charmantste plek aan de Belgische kust, met belle-époquevilla's, rustige sfeer en een breed zandstrand. Honden zijn het hele jaar door toegestaan op de meeste strandgedeelten, behalve tijdens de vastgestelde zomerbadzones. Het strand is breed genoeg zodat honden en zwemmers gemakkelijk naast elkaar kunnen bestaan. De kusttram rijdt langs de hele kust en neemt honden in draagtassen mee.",
           "petPolicyDe": "Hunde das ganze Jahr über erlaubt, außer während der festgelegten Sommerbadezeiten/-zonen",
+          "petPolicyNl": "Honden het hele jaar toegestaan, behalve tijdens de vastgestelde zomerbadzones",
           "mustTryDe": "Langer Morgenspaziergang entlang der Küste, Erkundung des Belle-Époque-Ortszentrums",
-          "tipDe": "Nehmen Sie die Kusttram-Küstenstraßenbahn von Ostende, sie verkehrt entlang der gesamten belgischen Küste und ist die schönste Art anzureisen"
+          "mustTryNl": "Lange ochtendwandeling langs de kust, verkenning van het belle-époquecentrum",
+          "tipDe": "Nehmen Sie die Kusttram-Küstenstraßenbahn von Ostende, sie verkehrt entlang der gesamten belgischen Küste und ist die schönste Art anzureisen",
+          "tipNl": "Neem de kusttram vanaf Oostende, hij rijdt langs de hele Belgische kust en is de mooiste manier om te reizen"
         },
         {
           "name": "Oostduinkerke Beach",
@@ -710,9 +798,13 @@
           "mustTryPt": "Caminhar pelas dunas, ver os pescadores de camarão a cavalo (ativos na primavera/verão)",
           "tipPt": "A secção de praia pet-friendly aparece claramente marcada com placas; consulte o site da comuna local antes de visitar no verão",
           "descriptionDe": "Oostduinkerke ist berühmt für seine Krabbenfischer zu Pferd (eine UNESCO-Kulturerbe-Tradition) und hat einen der breitesten Strände an der belgischen Küste. Hunde sind das ganze Jahr über auf ausgewiesenen Abschnitten erlaubt. Die Dünen hinter dem Strand eignen sich hervorragend für Spaziergänge. Eine ruhigere Alternative zu Ostende, mit dem echten Charme eines Fischerdorfs.",
+          "descriptionNl": "Oostduinkerke staat bekend om zijn paardenvissers op garnalen (een UNESCO-erfgoedtraditie) en heeft een van de breedste stranden aan de Belgische kust. Honden zijn het hele jaar door toegestaan op aangewezen gedeelten. De duinen achter het strand zijn uitstekend om te wandelen. Een rustiger alternatief voor Oostende, met de echte charme van een vissersdorp.",
           "petPolicyDe": "Hunde auf ausgewiesenen Strandabschnitten ganzjährig erlaubt",
+          "petPolicyNl": "Honden het hele jaar toegestaan op aangewezen strandgedeelten",
           "mustTryDe": "Spaziergang durch die Dünen, den Krabbenfischern zu Pferd zusehen (aktiv im Frühjahr/Sommer)",
-          "tipDe": "Der hundefreundliche Strandabschnitt ist deutlich mit Schildern gekennzeichnet, prüfen Sie vor einem Sommerbesuch die Website der örtlichen Gemeinde"
+          "mustTryNl": "Wandeling door de duinen, kijken naar de paardenvissers (actief in voor- en zomer)",
+          "tipDe": "Der hundefreundliche Strandabschnitt ist deutlich mit Schildern gekennzeichnet, prüfen Sie vor einem Sommerbesuch die Website der örtlichen Gemeinde",
+          "tipNl": "Het hondvriendelijke strandgedeelte is duidelijk gemarkeerd met bordjes, controleer voor een zomerbezoek de website van de lokale gemeente"
         },
         {
           "name": "De Panne Beach (North Section)",
@@ -740,9 +832,13 @@
           "mustTryPt": "Passeio pelas dunas do Westhoek, praia na maré baixa (grande amplitude de maré aqui)",
           "tipPt": "Visite na maré baixa; a amplitude de maré de De Panne é dramática e a praia a descoberto é enorme, perfeita para uma longa corrida com o seu cão",
           "descriptionDe": "De Panne ist der westlichste belgische Küstenort, direkt neben dem Naturschutzgebiet Westhoek. Der nördliche Abschnitt des De-Panne-Strandes ist ganzjährig hundefreundlich. Das riesige Dünensystem des Westhoek, das größte mobile Dünensystem Belgiens, erlaubt angeleinte Hunde auf markierten Wegen. Ein fantastisches Ziel für einen ganzen Tag mit Hund.",
+          "descriptionNl": "De Panne is de meest westelijke Belgische kustplaats, direct naast het natuurreservaat Westhoek. Het noordelijke gedeelte van het strand van De Panne is het hele jaar door hondvriendelijk. Het enorme duinstelsel van de Westhoek, het grootste mobiele duinstelsel van België, laat aangelijnde honden toe op gemarkeerde paden. Een fantastische bestemming voor een hele dag met hond.",
           "petPolicyDe": "Nördlicher Strandabschnitt ganzjährig hundefreundlich; angeleinte Hunde auf markierten Wegen im Westhoek",
+          "petPolicyNl": "Noordelijk strandgedeelte het hele jaar hondvriendelijk; aangelijnde honden op gemarkeerde paden in de Westhoek",
           "mustTryDe": "Dünenwanderung im Westhoek, Strand bei Ebbe (hier ein enormer Tidenhub)",
-          "tipDe": "Besuchen Sie den Strand bei Ebbe, der Tidenhub in De Panne ist dramatisch und der freigelegte Strand riesig, perfekt für einen langen Lauf mit Ihrem Hund"
+          "mustTryNl": "Duinwandeling in de Westhoek, strand bij eb (hier een enorm getijdenverschil)",
+          "tipDe": "Besuchen Sie den Strand bei Ebbe, der Tidenhub in De Panne ist dramatisch und der freigelegte Strand riesig, perfekt für einen langen Lauf mit Ihrem Hund",
+          "tipNl": "Bezoek het strand bij eb, het getijdenverschil in De Panne is dramatisch en het drooggevallen strand enorm, perfect voor een lange rit met je hond"
         }
       ],
       "tipsEn": [
@@ -828,7 +924,9 @@
         }
       ],
       "titleDe": "Tagesausflüge zu haustierfreundlichen Stränden ab Brüssel",
+      "titleNl": "Dagtripjes naar huisdiervriendelijke stranden vanuit Brussel",
       "introDe": "Brüssel liegt etwa 100 km von der belgischen Küste entfernt. Die belgische Küste ist flach, windig und wirklich wunderschön, und Hunde sind das ganze Jahr über an den meisten Stränden außerhalb der Badezonen im Sommer erlaubt. De Haan, Oostduinkerke und die Strände nördlich von De Panne sind am hundefreundlichsten. Von Brüssel aus dauert die Zugfahrt (SNCB/NMBS) nach Ostende oder De Panne etwa 1h15-1h30.",
+      "introNl": "Brussel ligt ongeveer 100 km van de Belgische kust. De Belgische kust is vlak, winderig en werkelijk prachtig, en honden zijn het hele jaar door toegestaan op de meeste stranden buiten de zomerbadzones. De Haan, Oostduinkerke en de stranden ten noorden van De Panne zijn het meest hondvriendelijk. Vanuit Brussel duurt de treinrit (NMBS/SNCB) naar Oostende of De Panne ongeveer 1u15-1u30.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund an den Strand in der Nähe von Brüssel mitnehmen?",
@@ -841,6 +939,20 @@
         {
           "q": "Kann ich meinen Hund in der Küstenstraßenbahn Kusttram mitnehmen?",
           "a": "Ja, kleine Hunde in einer geschlossenen Transportbox fahren kostenlos in der Kusttram. Größere Hunde sind nicht zugelassen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar het strand bij Brussel?",
+          "a": "Brussel heeft zelf geen strand, maar de Belgische kust is ongeveer 1u15 met de trein. De Haan en De Panne zijn de meest hondvriendelijke kustplaatsen, met toelating van honden het hele jaar door buiten de zomerbadzones."
+        },
+        {
+          "q": "Zijn honden toegestaan op Belgische stranden in de zomer?",
+          "a": "In de zomer (ongeveer 15 juni tot 15 september) worden honden tijdens badtijden geweerd uit de aangewezen badzones. Elke gemeente markeert deze zones met bordjes. Buiten de badzones en buiten deze data zijn honden meestal welkom."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen in de kusttram?",
+          "a": "Ja, kleine honden in een gesloten draagtas reizen gratis in de kusttram. Grotere honden zijn niet toegestaan."
         }
       ]
     },
@@ -878,9 +990,13 @@
           "mustTryPt": "N/A",
           "tipPt": "Ligue antes se a sua visita for urgente; muitas vezes conseguem encaixar consultas no próprio dia para problemas agudos",
           "descriptionDe": "Eine etablierte Tierklinik in Ixelles, zentral gelegen für Touristen, die im Flagey/Châtelain-Viertel übernachten. Englischsprachiges Personal, vollständige Diagnoseeinrichtungen und ein breites Leistungsspektrum. Die Klinik bietet auch Notfallsprechstunden zu erweiterten Öffnungszeiten an. Ein verlässlicher erster Anlaufpunkt für reisende Haustierbesitzer.",
+          "descriptionNl": "Een gevestigde dierenkliniek in Elsene, centraal gelegen voor toeristen die in de wijk Flagey/Châtelain overnachten. Engelstalig personeel, volledige diagnostische faciliteiten en een breed dienstenpakket. De kliniek biedt ook spoedconsulten aan tijdens verlengde openingsuren. Een betrouwbaar eerste aanspreekpunt voor reizende huisdiereigenaars.",
           "petPolicyDe": "Offen für alle Patienten einschließlich Besuchertiere",
+          "petPolicyNl": "Open voor alle patiënten, inclusief bezoekende dieren",
           "mustTryDe": "Nicht zutreffend",
-          "tipDe": "Rufen Sie vorab an, wenn Ihr Besuch dringend ist, oft können Termine noch am selben Tag für akute Fälle vergeben werden"
+          "mustTryNl": "Niet van toepassing",
+          "tipDe": "Rufen Sie vorab an, wenn Ihr Besuch dringend ist, oft können Termine noch am selben Tag für akute Fälle vergeben werden",
+          "tipNl": "Bel vooraf als je bezoek dringend is, vaak kunnen er nog dezelfde dag afspraken worden ingepland voor acute gevallen"
         },
         {
           "name": "Veterinary Emergency Centre Brussels (AniCura)",
@@ -908,9 +1024,13 @@
           "mustTryPt": "N/A",
           "tipPt": "Guarde o número no telemóvel antes da viagem: este é o seu contacto de veterinário de urgência em Bruxelas",
           "descriptionDe": "AniCura Brüssel ist ein Spezial- und Notfall-Tierzentrum mit 24-Stunden-Notfallversorgung. Vollständige Einrichtungen für Chirurgie, Bildgebung und Intensivpflege. Das Team umfasst Spezialisten für Kardiologie, Onkologie, Neurologie und Innere Medizin. Dies ist die erste Anlaufstelle für ernsthafte Notfälle in Brüssel. Englischsprachiges Personal verfügbar.",
+          "descriptionNl": "AniCura Brussel is een gespecialiseerd spoedcentrum voor dieren met 24-uurs spoedzorg. Volledige faciliteiten voor chirurgie, beeldvorming en intensieve zorg. Het team omvat specialisten in cardiologie, oncologie, neurologie en interne geneeskunde. Dit is het eerste aanspreekpunt voor ernstige noodgevallen in Brussel. Engelstalig personeel beschikbaar.",
           "petPolicyDe": "24-Stunden-Notfallversorgung, Notfälle ohne Termin werden angenommen",
+          "petPolicyNl": "24-uurs spoedzorg, noodgevallen zonder afspraak worden aangenomen",
           "mustTryDe": "Nicht zutreffend",
-          "tipDe": "Speichern Sie die Nummer vor Ihrer Reise in Ihrem Telefon: dies ist Ihr Notfall-Tierarztkontakt in Brüssel"
+          "mustTryNl": "Niet van toepassing",
+          "tipDe": "Speichern Sie die Nummer vor Ihrer Reise in Ihrem Telefon: dies ist Ihr Notfall-Tierarztkontakt in Brüssel",
+          "tipNl": "Sla het nummer op in je telefoon voor je reis: dit is je spoedcontact voor dierenarts in Brussel"
         }
       ],
       "tipsEn": [
@@ -996,7 +1116,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte in Brüssel, Tierkliniken & Haustierbetreuung",
+      "titleNl": "Spoeddierenartsen in Brussel, dierenklinieken en huisdierenzorg",
       "introDe": "Brüssel verfügt über ausgezeichnete tierärztliche Versorgung. Die Tierärzte der Stadt sind an internationale Besucher gewöhnt, und die meisten sprechen Englisch und Französisch. Für Notfälle betreibt die Veterinärfakultät der Universität Lüttich (etwa 1 Stunde mit dem Auto) eine 24-Stunden-Notfallklinik, und es gibt mehrere 24-Stunden-Notfall-Tierärzte in der Region Brüssel.",
+      "introNl": "Brussel beschikt over uitstekende diergeneeskundige zorg. De dierenartsen van de stad zijn gewend aan internationale bezoekers, en de meesten spreken Engels en Frans. Voor noodgevallen beheert de faculteit diergeneeskunde van de Universiteit van Luik (ongeveer 1 uur met de auto) een 24-uurs spoedkliniek, en er zijn meerdere 24-uurs spoeddierenartsen in de regio Brussel.",
       "faqsDe": [
         {
           "q": "Welche Dokumente benötigt mein Haustier zur Einreise nach Belgien?",
@@ -1009,6 +1131,20 @@
         {
           "q": "Sprechen Brüsseler Tierärzte Englisch?",
           "a": "Die meisten schon, besonders im Zentrum von Brüssel und in Ixelles. Belgien ist ein mehrsprachiges Land, und das tierärztliche Personal ist in der Regel sicher in Englisch, Französisch und oft auch Niederländisch."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welke documenten heeft mijn huisdier nodig om België binnen te komen?",
+          "a": "EU-huisdieren hebben een geldig EU-huisdierenpaspoort nodig met een actuele rabiësvaccinatie. Niet-EU-huisdieren hebben een officieel gezondheidscertificaat (AHC) nodig, afgegeven binnen 10 dagen voor de reis, plus bewijs van rabiësvaccinatie. Controleer de FAVV-website voor actuele vereisten."
+        },
+        {
+          "q": "Is er een 24-uurs spoeddierenarts in Brussel?",
+          "a": "Ja, AniCura Brussel biedt 24-uurs spoeddiensten voor dieren aan. Sla het nummer op voor je reis."
+        },
+        {
+          "q": "Spreken Brusselse dierenartsen Engels?",
+          "a": "De meesten wel, vooral in het centrum van Brussel en in Elsene. België is een meertalig land, en het diergeneeskundig personeel is meestal vlot in Engels, Frans en vaak ook Nederlands."
         }
       ]
     },
@@ -1107,7 +1243,9 @@
         }
       ],
       "titleDe": "Wichtige Reisetipps mit Haustier für Brüssel",
+      "titleNl": "Belangrijke reistips met huisdier voor Brussel",
       "introDe": "Brüssel ist eine einladende Stadt für reisende Haustierbesitzer. Diese Tipps helfen Ihnen, die Stadt selbstbewusst mit Ihrem Hund zu erkunden.",
+      "introNl": "Brussel is een gastvrije stad voor reizende huisdiereigenaars. Deze tips helpen je om de stad zelfverzekerd met je hond te verkennen.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Brüsseler Hotels erlaubt?",
@@ -1120,6 +1258,20 @@
         {
           "q": "Was sollte ich über Brüssels Regeln für Hunde in der Öffentlichkeit wissen?",
           "a": "Hunde müssen in den meisten öffentlichen Bereichen an der Leine geführt werden. Kotbeutel sind Pflicht, und es drohen Bußgelder. Hunde sind auf Lebensmittelmärkten und in Geschäften nicht erlaubt. Die meisten Parks sind mit angeleinten Hunden zugänglich."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in Brusselse hotels?",
+          "a": "Veel Brusselse hotels accepteren honden, vooral in de boutique- en onafhankelijke hotelsector. Meld je huisdier altijd aan bij het boeken en bevestig het beleid. Een huisdiertoeslag van 15-30 EUR per nacht is gebruikelijk."
+        },
+        {
+          "q": "Is Brussel een goede stad om met hond te bezoeken?",
+          "a": "Ja, Brussel is een van de meest hondvriendelijke steden van België. De cafécultuur, de royale groene ruimtes en de ontspannen houding tegenover honden in het openbaar maken de stad gemakkelijk te verkennen met huisdier."
+        },
+        {
+          "q": "Wat moet ik weten over Brusselse regels voor honden in het openbaar?",
+          "a": "Honden moeten in de meeste openbare ruimtes aangelijnd zijn. Poepzakjes zijn verplicht, en er staan boetes op. Honden zijn niet toegestaan op voedselmarkten en in winkels. De meeste parken zijn toegankelijk met aangelijnde honden."
         }
       ]
     },
@@ -1157,9 +1309,13 @@
           "mustTryPt": "Passeio matinal antes das 8h, a praça só para si",
           "tipPt": "Venha às 7h num dia útil; a praça fica vazia, a luz é bonita e o seu cão pode explorar sem multidões",
           "descriptionDe": "Der Grand Place ist einer der beeindruckendsten Plätze Europas, ein UNESCO-Weltkulturerbe, umgeben von prächtigen Zunfthäusern und dem gotischen Rathaus. Hunde sind auf dem Platz selbst willkommen. Die beste Zeit für einen Besuch mit Hund ist der frühe Morgen (vor 9 Uhr), wenn der Platz fast leer ist. Ab dem späteren Vormittag füllen ihn Touristengruppen vollständig. Der Platz ist reine Fußgängerzone, und das Kopfsteinpflaster kann trotz seiner Fotogenität für Hunde rutschig sein.",
+          "descriptionNl": "De Grote Markt is een van de meest indrukwekkende pleinen van Europa, een UNESCO-Werelderfgoed, omringd door prachtige gildehuizen en het gotische stadhuis. Honden zijn welkom op het plein zelf. De beste tijd voor een bezoek met hond is vroeg in de ochtend (voor 9 uur), wanneer het plein bijna leeg is. Vanaf later in de ochtend vullen toeristengroepen het plein volledig. Het plein is volledig voetgangersgebied, en de kasseien kunnen ondanks hun fotogenieke uitstraling glad zijn voor honden.",
           "petPolicyDe": "Hunde auf dem Platz willkommen, nur im Freien",
+          "petPolicyNl": "Honden welkom op het plein, alleen buiten",
           "mustTryDe": "Früher Morgenspaziergang vor 8 Uhr, den Platz für sich allein",
-          "tipDe": "Kommen Sie an einem Wochentag um 7 Uhr, der Platz ist leer, das Licht ist wunderschön, und Ihr Hund kann ohne Menschenmassen erkunden"
+          "mustTryNl": "Vroege ochtendwandeling voor 8 uur, het plein helemaal voor jezelf",
+          "tipDe": "Kommen Sie an einem Wochentag um 7 Uhr, der Platz ist leer, das Licht ist wunderschön, und Ihr Hund kann ohne Menschenmassen erkunden",
+          "tipNl": "Kom op een doordeweekse dag om 7 uur, het plein is leeg, het licht is prachtig, en je hond kan verkennen zonder mensenmassa's"
         },
         {
           "name": "Place du Jeu de Balle Flea Market",
@@ -1187,9 +1343,13 @@
           "mustTryPt": "Dar uma volta de manhã cedo, café numa esplanada das Marolles",
           "tipPt": "Vá entre as 7h e as 9h para os melhores achados e o ambiente mais descontraído, antes de chegarem as multidões do fim de semana",
           "descriptionDe": "Brüssels bekanntester Flohmarkt findet jeden Morgen im Viertel Marolles statt. Hunde sind sehr willkommen, viele Standbetreiber bringen ihre eigenen Hunde mit. Der Markt verkauft Antiquitäten, Vintage-Kleidung, Bücher, Kuriositäten und vieles mehr. Die umliegenden Straßen der Marolles sind das stimmungsvollste Viertel Brüssels. Ein Kaffee auf einer der umliegenden Café-Terrassen ist ein Muss.",
+          "descriptionNl": "Brussels bekendste vlooienmarkt vindt elke ochtend plaats in de wijk Marollen. Honden zijn zeer welkom, veel standhouders brengen hun eigen hond mee. De markt verkoopt antiek, vintage kleding, boeken, curiosa en meer. De omliggende straten van de Marollen vormen de sfeervolste wijk van Brussel. Een koffie op een van de omliggende caféterrassen is een must.",
           "petPolicyDe": "Hunde sehr willkommen, viele Marktverkäufer bringen ihre eigenen mit",
+          "petPolicyNl": "Honden zeer welkom, veel marktverkopers brengen hun eigen hond mee",
           "mustTryDe": "Früher Morgenbummel, Kaffee auf einer Café-Terrasse in Marolles",
-          "tipDe": "Gehen Sie zwischen 7 und 9 Uhr für die besten Funde und die entspannteste Atmosphäre, bevor die Wochenendmenge eintrifft"
+          "mustTryNl": "Vroege ochtendslentertocht, koffie op een caféterras in de Marollen",
+          "tipDe": "Gehen Sie zwischen 7 und 9 Uhr für die besten Funde und die entspannteste Atmosphäre, bevor die Wochenendmenge eintrifft",
+          "tipNl": "Ga tussen 7 en 9 uur voor de beste vondsten en de meest ontspannen sfeer, voor de weekenddrukte begint"
         },
         {
           "name": "Sablon Neighbourhood and Antiques Market",
@@ -1217,9 +1377,13 @@
           "mustTryPt": "Mercado de antiguidades de fim de semana (manhã de sáb-dom), chocolate de um dos chocolateiros do Sablon",
           "tipPt": "A Wittamer e a Pierre Marcolini são os dois chocolateiros do Sablon que vale a pena visitar; ambos têm esplanada onde os cães são bem-vindos",
           "descriptionDe": "Der Sablon ist Brüssels elegantestes Viertel, Antiquitätenhändler, Schokoladenläden, Feinkostgeschäfte und stattliche Terrassen. Der Wochenend-Antiquitätenmarkt auf dem Grand Sablon-Platz ist vollständig im Freien, und Hunde sind willkommen. Die umliegenden Straßen sind voller gehobener Cafés und Restaurants mit hundefreundlichen Terrassen. Ein großartiges Gebiet für einen gemütlichen Morgen mit Ihrem Hund.",
+          "descriptionNl": "De Zavel is Brussels meest elegante wijk, antiekhandelaars, chocoladewinkels, delicatessenzaken en statige terrassen. De weekendantiekmarkt op de Grote Zavel is volledig buiten, en honden zijn welkom. De omliggende straten staan vol chique cafés en restaurants met hondvriendelijke terrassen. Een geweldig gebied voor een gezellige ochtend met je hond.",
           "petPolicyDe": "Hunde auf dem Freiluftmarkt und den Terrassenbereichen willkommen",
+          "petPolicyNl": "Honden welkom op de openluchtmarkt en de terrasgedeelten",
           "mustTryDe": "Wochenend-Antiquitätenmarkt (Sa-So-Vormittag), Schokolade von einem der Sablon-Chocolatiers",
-          "tipDe": "Wittamer und Pierre Marcolini sind die beiden sehenswerten Sablon-Chocolatiers, beide bieten Terrassenplätze, an denen Hunde willkommen sind"
+          "mustTryNl": "Weekendantiekmarkt (za-zo ochtend), chocolade van een van de Zavel-chocolatiers",
+          "tipDe": "Wittamer und Pierre Marcolini sind die beiden sehenswerten Sablon-Chocolatiers, beide bieten Terrassenplätze, an denen Hunde willkommen sind",
+          "tipNl": "Wittamer en Pierre Marcolini zijn de twee bezienswaardige chocolatiers van de Zavel, beide bieden terrasplekken waar honden welkom zijn"
         }
       ],
       "tipsEn": [
@@ -1309,7 +1473,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Brüssel",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Brussel",
       "introDe": "Die meisten Museen und Innenattraktionen Brüssels erlauben keine Haustiere. Die Außenarchitektur, Märkte und Viertel der Stadt sind jedoch mit Hund sehr gut zugänglich. Der Grand Place lohnt sich früh am Morgen vor den Menschenmassen. Der Antiquitätenmarkt am Sablon, der Flohmarkt Place du Jeu de Balle und das Viertel Marolles sind hervorragende hundefreundliche Gebiete zum Erkunden.",
+      "introNl": "De meeste musea en binnenattracties van Brussel laten geen huisdieren toe. De buitenarchitectuur, markten en wijken van de stad zijn echter zeer goed toegankelijk met hond. De Grote Markt is de moeite waard vroeg in de ochtend, voor de mensenmassa's. De antiekmarkt op de Zavel, de vlooienmarkt Vossenplein en de wijk Marollen zijn uitstekende hondvriendelijke gebieden om te verkennen.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund mitnehmen, um das Atomium in Brüssel zu sehen?",
@@ -1322,6 +1488,20 @@
         {
           "q": "Sind Hunde in Brüssels überdachten Märkten und Einkaufspassagen erlaubt?",
           "a": "Nein, die Galeries Royales Saint-Hubert und Indoor-Märkte erlauben keine Hunde. Halten Sie sich an Außenmärkte wie Place du Jeu de Balle und den Sablon."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen om het Atomium in Brussel te zien?",
+          "a": "Het buitengebied rond het Atomium is toegankelijk met aangelijnde hond. Honden zijn niet toegestaan in het Atomium zelf."
+        },
+        {
+          "q": "Is het Brusselse bloementapijt hondvriendelijk?",
+          "a": "Het bloementapijt op de Grote Markt (om de twee jaar, midden augustus) is een openluchtevenement. Honden zijn toegestaan op de Grote Markt, maar het evenement is erg druk, de vroege ochtend is het enige aangename moment voor een bezoek met hond."
+        },
+        {
+          "q": "Zijn honden toegestaan in Brusselse overdekte markten en winkelgalerijen?",
+          "a": "Nee, de Koninklijke Sint-Hubertusgalerijen en overdekte markten laten geen honden toe. Houd je aan buitenmarkten zoals het Vossenplein en de Zavel."
         }
       ]
     },
@@ -1358,9 +1538,13 @@
           "mustTryPt": "Reserve um passeador de cães para os dias em que planeia visitar museus de manhã",
           "tipPt": "Filtre por sitters com 'experiência com cães do estrangeiro'; percebem melhor os requisitos de vacinação e de documentação",
           "descriptionDe": "Rover ist die zuverlässigste Plattform für Haustierbetreuung in Belgien. Brüssel verfügt über ein starkes Netzwerk geprüfter, bewerteter Betreuer in allen Vierteln. Die Leistungen umfassen Kurzbesuche, Hundetagesbetreuung, Übernachtungsbetreuung und Gassi-Service. Die meisten Brüsseler Sitter auf Rover sprechen Englisch, Französisch und oft Niederländisch. Buchen Sie für Wochenenden mindestens 48 Stunden im Voraus.",
+          "descriptionNl": "Rover is het meest betrouwbare platform voor huisdierenzorg in België. Brussel heeft een sterk netwerk van gescreende, beoordeelde oppassers in alle wijken. De diensten omvatten korte bezoekjes, hondendagopvang, logeeropvang en uitlaatservice. De meeste Brusselse oppassers op Rover spreken Engels, Frans en vaak Nederlands. Boek voor weekenden minstens 48 uur van tevoren.",
           "petPolicyDe": "Besuchende und ansässige Haustiere willkommen, Sitterprofile zeigen ihre Präferenzen",
+          "petPolicyNl": "Bezoekende en vaste huisdieren welkom, oppasprofielen tonen hun voorkeuren",
           "mustTryDe": "Buchen Sie einen Gassi-Geher für Tage, an denen Sie morgens Museumsbesuche planen",
-          "tipDe": "Filtern Sie nach Sittern mit 'Erfahrung mit Hunden aus dem Ausland', sie kennen sich besser mit Impf- und Dokumentanforderungen aus"
+          "mustTryNl": "Boek een uitlaatservice voor dagen waarop je 's ochtends museumbezoeken plant",
+          "tipDe": "Filtern Sie nach Sittern mit 'Erfahrung mit Hunden aus dem Ausland', sie kennen sich besser mit Impf- und Dokumentanforderungen aus",
+          "tipNl": "Filter op oppassers met 'ervaring met honden uit het buitenland', zij kennen de vaccinatie- en documentvereisten beter"
         }
       ],
       "tipsEn": [
@@ -1446,7 +1630,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung und Gassi-Service in Brüssel",
+      "titleNl": "Huisdierenzorg en uitlaatservice in Brussel",
       "introDe": "Brüssel hat eine wachsende Szene für Haustierbetreuung und Gassi-Service, größtenteils über Apps wie Rover und lokale Alternativen organisiert. Für Museumsbesuche oder Veranstaltungen, bei denen Hunde nicht mitkommen können, sind diese Dienste zuverlässig und einfach zu buchen. Die meisten Haustiersitter in Brüssel sind mehrsprachig und im Umgang mit reisenden internationalen Haustieren erfahren.",
+      "introNl": "Brussel heeft een groeiende scene voor huisdierenzorg en uitlaatservice, grotendeels georganiseerd via apps zoals Rover en lokale alternatieven. Voor museumbezoeken of evenementen waar honden niet mee naartoe kunnen, zijn deze diensten betrouwbaar en makkelijk te boeken. De meeste huisdiersitters in Brussel zijn meertalig en ervaren in de omgang met reizende internationale huisdieren.",
       "faqsDe": [
         {
           "q": "Ist Rover in Brüssel verfügbar?",
@@ -1459,6 +1645,20 @@
         {
           "q": "Finde ich englischsprachige Haustiersitter in Brüssel?",
           "a": "Ja, Brüssel ist eine sehr internationale Stadt, und die meisten Haustiersitter im Stadtzentrum und im Viertel Ixelles sprechen fließend Englisch."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Rover beschikbaar in Brussel?",
+          "a": "Ja, Rover is actief in België, en Brussel heeft een sterk netwerk van oppassers. Boek via rover.com/be."
+        },
+        {
+          "q": "Wat kost een hondenoppas in Brussel gemiddeld?",
+          "a": "Reken op 20-40 EUR per dag voor hondendagopvang of korte bezoekjes en 30-60 EUR per nacht voor logeeropvang. De prijzen variëren afhankelijk van de ervaring van de oppasser en de wijk."
+        },
+        {
+          "q": "Vind ik Engelstalige huisdiersitters in Brussel?",
+          "a": "Ja, Brussel is een zeer internationale stad, en de meeste huisdiersitters in het stadscentrum en de wijk Elsene spreken vloeiend Engels."
         }
       ]
     }

@@ -27,7 +27,7 @@ type BeachEntry = {
   photoSlug: string
   region: 'cote-azur' | 'languedoc' | 'aquitaine' | 'vendee' | 'bretagne' | 'normandie' | 'nord'
   yearRound: boolean
-  reason: { en: string; fr: string; es: string; pt: string; de: string }
+  reason: { en: string; fr: string; es: string; pt: string; de: string; nl: string }
 }
 
 const BEACHES: BeachEntry[] = [
@@ -37,6 +37,7 @@ const BEACHES: BeachEntry[] = [
     es: `Antibes designa una sección canina todo el año en el extremo oeste de la Plage de la Salis: fondo de arena, correa obligatoria, duchas públicas y pinar de sombra detrás. Una de las raras zonas caninas de la Costa Azul que no cierra en verano.`,
     pt: `Antibes designa uma secção canina o ano inteiro na extremidade oeste da Plage de la Salis: fundo de areia, trela obrigatória, duches públicos e pinhal de sombra atrás. Uma das raras zonas caninas da Côte d'Azur que não fecha no verão.`,
     de: `Antibes weist am westlichen Ende der Plage de la Salis einen ganzjährigen Hundebereich aus: Sandboden, Leinenpflicht, öffentliche Duschen und schattige Pinien im Hintergrund. Einer der wenigen Hundestrände an der Côte d'Azur, der in der Sommersaison nicht schließt.`,
+    nl: `Antibes wijst aan het westelijke uiteinde van de Plage de la Salis een hondenstrook aan die het hele jaar open is: zandbodem, aanlijnplicht, openbare douches en schaduwrijke pijnbomen op de achtergrond. Een van de weinige hondenstranden aan de Côte d'Azur die in het zomerseizoen niet sluit.`,
   }},
   { rank: 2, beachName: `Plage du Mourre Rouge`, locationLabel: `Cannes, Côte d'Azur`, slug: 'cannes', photoSlug: 'cannes', region: 'cote-azur', yearRound: true, reason: {
     en: `Cannes' only dog beach, on the eastern side of the Pointe de la Croisette. Mixed sand and small pebbles, leash required, year-round access including July and August (rare for the Côte d'Azur). Walking distance from the Palais des Festivals.`,
@@ -44,6 +45,7 @@ const BEACHES: BeachEntry[] = [
     es: `La única playa canina de Cannes, en el lado este de la Pointe de la Croisette. Arena y guijarros pequeños mezclados, correa obligatoria, acceso todo el año incluido julio y agosto, raro en la Costa Azul. A pie del Palais des Festivals.`,
     pt: `A única praia canina de Cannes, no flanco leste da Pointe de la Croisette. Areia e seixos pequenos misturados, trela obrigatória, acesso o ano inteiro incluindo julho e agosto, raro na Côte d'Azur. A pé do Palais des Festivals.`,
     de: `Der einzige Hundestrand von Cannes, an der Ostseite der Pointe de la Croisette. Sand gemischt mit kleinen Kieseln, Leinenpflicht, ganzjähriger Zugang auch im Juli und August, an der Côte d'Azur selten. Fußläufig vom Palais des Festivals.`,
+    nl: `Het enige hondenstrand van Cannes, aan de oostkant van de Pointe de la Croisette. Gemengd zand en kleine kiezels, aanlijnplicht, het hele jaar toegankelijk, ook in juli en augustus (zeldzaam aan de Côte d'Azur). Op loopafstand van het Palais des Festivals.`,
   }},
   { rank: 3, beachName: `Plage du Verdon (zone chiens)`, locationLabel: `Hyères, Var`, slug: null, photoSlug: 'hyeres-verdon', region: 'cote-azur', yearRound: true, reason: {
     en: `On the Route du Sel between Hyères and the Giens peninsula, the dedicated dog zone of Plage du Verdon runs for several hundred metres on fine sand. Year-round, leash recommended, calm shallow water on the Almanarre side, open Mistral wind on the other.`,
@@ -51,6 +53,7 @@ const BEACHES: BeachEntry[] = [
     es: `En la Route du Sel entre Hyères y la península de Giens, la zona canina oficial de la Plage du Verdon ocupa varios cientos de metros de arena fina. Todo el año, correa recomendada, agua tranquila y poco profunda en el lado de Almanarre, viento Mistral expuesto del otro lado.`,
     pt: `Na Route du Sel entre Hyères e a península de Giens, a zona canina oficial da Plage du Verdon estende-se por várias centenas de metros de areia fina. O ano inteiro, trela recomendada, água calma e pouco profunda do lado de Almanarre, vento Mistral exposto do outro lado.`,
     de: `An der Route du Sel zwischen Hyères und der Halbinsel Giens erstreckt sich die ausgewiesene Hundezone der Plage du Verdon über mehrere hundert Meter feinen Sand. Ganzjährig, Leine empfohlen, ruhiges flaches Wasser auf der Almanarre-Seite, dem Mistral ausgesetzt auf der anderen.`,
+    nl: `Aan de Route du Sel tussen Hyères en het schiereiland Giens strekt de speciale hondenzone van Plage du Verdon zich uit over enkele honderden meters fijn zand. Het hele jaar open, aanlijnen aanbevolen, rustig ondiep water aan de kant van Almanarre, blootgesteld aan de mistralwind aan de andere kant.`,
   }},
   { rank: 4, beachName: `Plage de l'Almanarre (extrémité nord)`, locationLabel: `Hyères, Var`, slug: null, photoSlug: 'hyeres-almanarre', region: 'cote-azur', yearRound: true, reason: {
     en: `The northern end of L'Almanarre, adjoining the Salins, is a tolerated year-round dog zone. Open to the Mistral, popular with kitesurfers, sand bottom and shallow lagoon-like water make it safe for older or nervous dogs. Leash required.`,
@@ -58,6 +61,7 @@ const BEACHES: BeachEntry[] = [
     es: `El extremo norte de L'Almanarre, junto a los Salins, es una zona canina tolerada todo el año. Expuesta al Mistral, popular entre los kitesurfistas, fondo de arena y agua de laguna poco profunda, tranquilizadora para perros mayores o asustadizos. Correa obligatoria.`,
     pt: `A extremidade norte de L'Almanarre, em junção com os Salins, é uma zona canina tolerada o ano inteiro. Exposta ao Mistral, popular entre kitesurfistas, fundo de areia e água de laguna pouco profunda, tranquilizadora para cães idosos ou medrosos. Trela obrigatória.`,
     de: `Das nördliche Ende von L'Almanarre, angrenzend an die Salins, ist eine geduldete ganzjährige Hundezone. Dem Mistral ausgesetzt, bei Kitesurfern beliebt, Sandboden und flaches lagunenartiges Wasser machen sie sicher für ältere oder ängstliche Hunde. Leinenpflicht.`,
+    nl: `Het noordelijke uiteinde van L'Almanarre, grenzend aan de Salins, is een gedoogde hondenzone die het hele jaar open is. Blootgesteld aan de mistral, populair bij kitesurfers, zandbodem en ondiep lagunewater maken het geschikt voor oudere of angstige honden. Aanlijnplicht.`,
   }},
   { rank: 5, beachName: `Plage de l'Espiguette (extrémité ouest)`, locationLabel: `Le Grau-du-Roi, Gard`, slug: null, photoSlug: 'espiguette', region: 'languedoc', yearRound: true, reason: {
     en: `One of the longest wild beaches in France (about 18 km of fine dune sand). Dogs are tolerated year-round on the far western end, well past the lighthouse and the official bathing zone. Walk at least 1 km from the car park to reach the dog-tolerated stretch. No leash imposed but voice control expected, in nature reserve.`,
@@ -65,6 +69,7 @@ const BEACHES: BeachEntry[] = [
     es: `Una de las playas salvajes más largas de Francia (unos 18 km de arena dunar fina). Los perros se toleran todo el año en el extremo oeste, mucho más allá del faro y de la zona de baño oficial. Caminar al menos 1 km desde el parking para llegar al tramo tolerado. Sin correa impuesta pero control por voz esperado, es reserva natural.`,
     pt: `Uma das praias selvagens mais longas de França (cerca de 18 km de areia dunar fina). Os cães são tolerados o ano inteiro na extremidade oeste, bem para lá do farol e da zona de banho oficial. Caminhar pelo menos 1 km a partir do parque para alcançar o troço tolerado. Sem trela imposta mas controlo por voz esperado, é reserva natural.`,
     de: `Einer der längsten Wildstrände Frankreichs (etwa 18 km feiner Dünensand). Hunde werden ganzjährig am äußersten westlichen Ende geduldet, weit hinter dem Leuchtturm und der offiziellen Badezone. Mindestens 1 km vom Parkplatz laufen, um den hundegeduldeten Abschnitt zu erreichen. Keine Leinenpflicht, aber Rückrufkontrolle erwartet, da Naturschutzgebiet.`,
+    nl: `Een van de langste wilde stranden van Frankrijk (ongeveer 18 km fijn duinzand). Honden worden het hele jaar getolereerd op het uiterste westelijke deel, ver voorbij de vuurtoren en de officiële zwemzone. Loop minstens 1 km vanaf de parkeerplaats om het hondvriendelijke stuk te bereiken. Geen aanlijnplicht, maar terugroepcontrole wordt verwacht, want het is natuurgebied.`,
   }},
   { rank: 6, beachName: `Plage de la Tamarissière (zone chiens)`, locationLabel: `Agde, Hérault`, slug: 'montpellier', photoSlug: 'montpellier', region: 'languedoc', yearRound: true, reason: {
     en: `On the southern bank of the Hérault river mouth, the Tamarissière forest backs a dedicated year-round dog beach. Fine sand, pine shade behind, leash required, shallow water entry. Quieter than Cap d'Agde, which sits across the river.`,
@@ -72,6 +77,7 @@ const BEACHES: BeachEntry[] = [
     es: `En la orilla sur de la desembocadura del Hérault, el bosque de Tamarissière limita con una playa canina oficial abierta todo el año. Arena fina, sombra de pinos detrás, correa obligatoria, entrada de agua poco profunda. Más tranquila que el Cap d'Agde, situado enfrente.`,
     pt: `Na margem sul da foz do Hérault, a floresta da Tamarissière fica junto a uma praia canina oficial aberta o ano inteiro. Areia fina, sombra de pinheiros atrás, trela obrigatória, entrada de água pouco profunda. Mais calma do que o Cap d'Agde, situado em frente.`,
     de: `Am Südufer der Hérault-Mündung grenzt der Wald der Tamarissière an einen ausgewiesenen ganzjährigen Hundestrand. Feiner Sand, Pinienschatten im Hintergrund, Leinenpflicht, flacher Wassereinstieg. Ruhiger als Cap d'Agde auf der gegenüberliegenden Flussseite.`,
+    nl: `Aan de zuidoever van de monding van de Hérault grenst het bos van Tamarissière aan een officieel hondenstrand dat het hele jaar open is. Fijn zand, schaduw van pijnbomen op de achtergrond, aanlijnplicht, ondiepe waterinstap. Rustiger dan Cap d'Agde, aan de overkant van de rivier.`,
   }},
   { rank: 7, beachName: `Plage des Trois Digues (zone canine)`, locationLabel: `Sète, Hérault`, slug: 'montpellier', photoSlug: 'sete', region: 'languedoc', yearRound: true, reason: {
     en: `Sète's dedicated year-round dog beach lies between the third and fourth groynes on the long Lido stretch facing the Mediterranean. Fine sand, gentle slope, leash required by municipal arrêté. Easy parking, walking distance from the salt-water Étang de Thau.`,
@@ -79,6 +85,7 @@ const BEACHES: BeachEntry[] = [
     es: `La playa canina oficial de Sète abierta todo el año se sitúa entre la tercera y la cuarta escollera en el largo lido frente al Mediterráneo. Arena fina, pendiente suave, correa obligatoria por arrêté municipal. Parking fácil, a pie del Étang de Thau.`,
     pt: `A praia canina oficial de Sète aberta o ano inteiro situa-se entre o terceiro e o quarto molhe no longo lido virado para o Mediterrâneo. Areia fina, declive suave, trela obrigatória por arrêté municipal. Estacionamento fácil, a pé do Étang de Thau.`,
     de: `Der ausgewiesene ganzjährige Hundestrand von Sète liegt zwischen der dritten und vierten Buhne auf dem langen Lido-Abschnitt zum Mittelmeer hin. Feiner Sand, sanftes Gefälle, Leinenpflicht laut Gemeindeverordnung. Einfaches Parken, fußläufig zum Salzwassersee Étang de Thau.`,
+    nl: `Het officiële hondenstrand van Sète, het hele jaar open, ligt tussen de derde en vierde strandhoofd op het lange Lido tegenover de Middellandse Zee. Fijn zand, zachte helling, aanlijnplicht volgens gemeentelijk besluit. Makkelijk parkeren, op loopafstand van het zoutmeer Étang de Thau.`,
   }},
   { rank: 8, beachName: `Plage de la Côte des Basques`, locationLabel: `Biarritz, Pays Basque`, slug: 'biarritz', photoSlug: 'biarritz', region: 'aquitaine', yearRound: false, reason: {
     en: `Biarritz' most famous surf beach permits dogs on leash from 1 October to 31 May, banned in the bathing season (1 June to 30 September). Fine sand at low tide, rocky shelves and tide pools at the south end, dramatic cliff backdrop. Voice control accepted on the wide low-tide flats.`,
@@ -86,6 +93,7 @@ const BEACHES: BeachEntry[] = [
     es: `La playa de surf más famosa de Biarritz admite perros con correa del 1 de octubre al 31 de mayo, prohibidos en temporada de baño (1 de junio al 30 de septiembre). Arena fina en marea baja, plataformas rocosas y charcas al sur, espectacular acantilado de fondo. Llamada por voz tolerada en las amplias rasas en marea baja.`,
     pt: `A praia de surf mais famosa de Biarritz aceita cães à trela de 1 de outubro a 31 de maio, proibidos na época balnear (1 de junho a 30 de setembro). Areia fina na maré baixa, plataformas rochosas e poças a sul, falésia espetacular ao fundo. Chamada por voz tolerada nos vastos rasos a maré baixa.`,
     de: `Der berühmteste Surfstrand von Biarritz erlaubt Hunde an der Leine vom 1. Oktober bis 31. Mai, verboten in der Badesaison (1. Juni bis 30. September). Feiner Sand bei Ebbe, Felsplatten und Gezeitenpools am südlichen Ende, dramatische Klippenkulisse. Rückrufkontrolle auf den weiten Wattflächen bei Ebbe akzeptiert.`,
+    nl: `Het beroemdste surfstrand van Biarritz staat honden aan de lijn toe van 1 oktober tot 31 mei, verboden in het badseizoen (1 juni tot 30 september). Fijn zand bij eb, rotsplateaus en getijdenpoelen aan het zuidelijke uiteinde, indrukwekkend klifdecor. Terugroepcontrole geaccepteerd op de brede vlakten bij eb.`,
   }},
   { rank: 9, beachName: `Plage des Estagnots`, locationLabel: `Seignosse, Landes`, slug: 'biarritz', photoSlug: 'seignosse', region: 'aquitaine', yearRound: false, reason: {
     en: `One of the Landes' most consistent dog beaches: dogs welcome from 1 October to 30 April, fine Atlantic sand, towering dunes and the Forêt des Landes pine forest immediately behind. Powerful surf, swimming with a dog not recommended. Leash required on duned access paths.`,
@@ -93,6 +101,7 @@ const BEACHES: BeachEntry[] = [
     es: `Una de las playas caninas más consistentes de las Landas: perros admitidos del 1 de octubre al 30 de abril, arena fina atlántica, dunas altas y el bosque de las Landas inmediatamente detrás. Surf potente, baño canino desaconsejado. Correa obligatoria en los accesos dunares.`,
     pt: `Uma das praias caninas mais constantes das Landes: cães admitidos de 1 de outubro a 30 de abril, areia fina atlântica, dunas altas e a floresta das Landes imediatamente atrás. Surf potente, banho canino desaconselhado. Trela obrigatória nos acessos dunares.`,
     de: `Einer der zuverlässigsten Hundestrände der Landes: Hunde willkommen vom 1. Oktober bis 30. April, feiner Atlantiksand, hohe Dünen und der Pinienwald der Forêt des Landes unmittelbar dahinter. Starke Brandung, Schwimmen mit Hund nicht empfohlen. Leinenpflicht auf den Dünenzugangswegen.`,
+    nl: `Een van de meest betrouwbare hondenstranden van de Landes: honden welkom van 1 oktober tot 30 april, fijn Atlantisch zand, hoge duinen en het bos van Forêt des Landes direct erachter. Krachtige branding, zwemmen met een hond wordt afgeraden. Aanlijnplicht op de duinpaden.`,
   }},
   { rank: 10, beachName: `Plage des Conches (zone canine)`, locationLabel: `Longeville-sur-Mer, Vendée`, slug: null, photoSlug: 'longeville-conches', region: 'vendee', yearRound: true, reason: {
     en: `One of the few Vendée beaches with a year-round dedicated dog zone, on the southern end past the surf school. Wild Atlantic sand, pine forest behind, leash required. Strong currents at high tide, safer for paddling than swimming. Voice control accepted on the dunes.`,
@@ -100,6 +109,7 @@ const BEACHES: BeachEntry[] = [
     es: `Una de las pocas playas de Vendée con zona canina dedicada todo el año, en el extremo sur pasada la escuela de surf. Arena atlántica salvaje, pinar detrás, correa obligatoria. Corrientes fuertes en marea alta, más segura para chapotear que para nadar. Llamada por voz tolerada en las dunas.`,
     pt: `Uma das poucas praias da Vendée com zona canina dedicada o ano inteiro, na extremidade sul para além da escola de surf. Areia atlântica selvagem, pinhal atrás, trela obrigatória. Correntes fortes na maré cheia, mais segura para chapinhar do que para nadar. Chamada por voz tolerada nas dunas.`,
     de: `Einer der wenigen Strände der Vendée mit einer ausgewiesenen ganzjährigen Hundezone, am südlichen Ende hinter der Surfschule. Wilder Atlantiksand, Pinienwald im Hintergrund, Leinenpflicht. Starke Strömungen bei Flut, sicherer zum Planschen als zum Schwimmen. Rückrufkontrolle in den Dünen akzeptiert.`,
+    nl: `Een van de weinige stranden van de Vendée met een speciale hondenzone die het hele jaar open is, aan het zuidelijke uiteinde voorbij de surfschool. Wild Atlantisch zand, pijnbos op de achtergrond, aanlijnplicht. Sterke stroming bij vloed, veiliger om te pootjebaden dan te zwemmen. Terugroepcontrole geaccepteerd in de duinen.`,
   }},
   { rank: 11, beachName: `Plage des Sablons (extrémité nord)`, locationLabel: `Saint-Jean-de-Monts, Vendée`, slug: null, photoSlug: 'saint-jean-de-monts', region: 'vendee', yearRound: false, reason: {
     en: `Saint-Jean-de-Monts' northern beaches (towards Notre-Dame-de-Monts) allow dogs from 1 October to 30 April, leash required, wide flat fine sand at low tide. Banned 1 May to 30 September on the central swimming zone. Easy access from the coastal cycle path.`,
@@ -107,6 +117,7 @@ const BEACHES: BeachEntry[] = [
     es: `Las playas norte de Saint-Jean-de-Monts (hacia Notre-Dame-de-Monts) admiten perros del 1 de octubre al 30 de abril, correa obligatoria, amplia rasa plana de arena fina en marea baja. Prohibido del 1 de mayo al 30 de septiembre en la zona central de baño. Acceso fácil desde el carril bici litoral.`,
     pt: `As praias norte de Saint-Jean-de-Monts (em direção a Notre-Dame-de-Monts) aceitam cães de 1 de outubro a 30 de abril, trela obrigatória, vasto raso plano de areia fina na maré baixa. Proibido de 1 de maio a 30 de setembro na zona central de banho. Acesso fácil pela ciclovia litoral.`,
     de: `Die nördlichen Strände von Saint-Jean-de-Monts (Richtung Notre-Dame-de-Monts) erlauben Hunde vom 1. Oktober bis 30. April, Leinenpflicht, breiter flacher feiner Sand bei Ebbe. Verboten vom 1. Mai bis 30. September in der zentralen Badezone. Einfacher Zugang über den Küstenradweg.`,
+    nl: `De noordelijke stranden van Saint-Jean-de-Monts (richting Notre-Dame-de-Monts) staan honden toe van 1 oktober tot 30 april, aanlijnplicht, breed vlak fijn zand bij eb. Verboden van 1 mei tot 30 september op de centrale zwemzone. Makkelijk bereikbaar via het kustfietspad.`,
   }},
   { rank: 12, beachName: `Plage de la Conche des Baleines`, locationLabel: `Île de Ré, Les Portes-en-Ré`, slug: null, photoSlug: 'ile-de-re', region: 'vendee', yearRound: false, reason: {
     en: `The Île de Ré's wild northwestern beach welcomes dogs from 1 October to 30 April, with leash required on bathing sections. Vast fine-sand crescent backed by dunes and the Lilleau-des-Niges nature reserve. Easy to find quiet stretches even out of season. Tide range is huge, watch out for cut-offs.`,
@@ -114,6 +125,7 @@ const BEACHES: BeachEntry[] = [
     es: `La playa salvaje del noroeste de la Île de Ré admite perros del 1 de octubre al 30 de abril, correa obligatoria en las secciones de baño. Vasto creciente de arena fina pegado a las dunas y a la reserva natural de Lilleau-des-Niges. Fácil encontrar tramos desiertos incluso fuera de temporada. Amplitud de marea importante, ojo con los aislamientos.`,
     pt: `A praia selvagem do noroeste da Île de Ré recebe cães de 1 de outubro a 30 de abril, trela obrigatória nas secções de banho. Vasto crescente de areia fina encostado às dunas e à reserva natural de Lilleau-des-Niges. Fácil encontrar troços desertos mesmo fora de época. Amplitude de maré grande, atenção aos isolamentos.`,
     de: `Der wilde Nordweststrand der Île de Ré empfängt Hunde vom 1. Oktober bis 30. April, Leinenpflicht auf den Badeabschnitten. Weiter Feinsandbogen, gesäumt von Dünen und dem Naturschutzgebiet Lilleau-des-Niges. Ruhige Abschnitte lassen sich auch außerhalb der Saison leicht finden. Großer Tidenhub, auf Wasserabschnürungen achten.`,
+    nl: `Het wilde noordwestelijke strand van Île de Ré verwelkomt honden van 1 oktober tot 30 april, aanlijnplicht op de zwemgedeeltes. Uitgestrekte fijnzandige baai, omzoomd door duinen en het natuurgebied Lilleau-des-Niges. Ook buiten het seizoen makkelijk rustige stukken te vinden. Groot getijverschil, let op afgesloten waterpartijen.`,
   }},
   { rank: 13, beachName: `Plage de Trévignon (anses est)`, locationLabel: `Trégunc, Finistère sud`, slug: null, photoSlug: 'trevignon', region: 'bretagne', yearRound: false, reason: {
     en: `The series of small east-facing coves around the Pointe de Trévignon (Plage de Don, Plage du Loc'h) allow dogs on leash from 1 October to 14 June, banned 15 June to 30 September. Fine sand interrupted by granite outcrops, pine and gorse heath behind, very calm water on east-wind days.`,
@@ -121,6 +133,7 @@ const BEACHES: BeachEntry[] = [
     es: `La sucesión de pequeñas calas orientadas al este alrededor de la Pointe de Trévignon (Plage de Don, Plage du Loc'h) admite perros con correa del 1 de octubre al 14 de junio, prohibidos del 15 de junio al 30 de septiembre. Arena fina cortada por afloramientos graníticos, brezal de pinos y aulagas detrás, agua muy tranquila con viento del este.`,
     pt: `A sucessão de pequenas enseadas voltadas a leste em redor da Pointe de Trévignon (Plage de Don, Plage du Loc'h) aceita cães com trela de 1 de outubro a 14 de junho, proibidos de 15 de junho a 30 de setembro. Areia fina cortada por afloramentos graníticos, charneca de pinheiros e tojos atrás, água muito calma com vento de leste.`,
     de: `Die Reihe kleiner ostexponierter Buchten rund um die Pointe de Trévignon (Plage de Don, Plage du Loc'h) erlaubt Hunde an der Leine vom 1. Oktober bis 14. Juni, verboten vom 15. Juni bis 30. September. Feiner Sand, unterbrochen von Granitfelsen, Pinien- und Ginsterheide im Hintergrund, sehr ruhiges Wasser bei Ostwind.`,
+    nl: `De reeks kleine, oostgerichte baaien rond de Pointe de Trévignon (Plage de Don, Plage du Loc'h) staat honden aan de lijn toe van 1 oktober tot 14 juni, verboden van 15 juni tot 30 september. Fijn zand afgewisseld met granietrotsen, dennen- en heidegebied op de achtergrond, zeer rustig water bij oostenwind.`,
   }},
   { rank: 14, beachName: `Plage du Cabellou`, locationLabel: `Concarneau, Finistère sud`, slug: null, photoSlug: 'cabellou', region: 'bretagne', yearRound: false, reason: {
     en: `Concarneau's southern peninsula has a string of small dog-tolerated coves outside the high season (15 September to 14 June). Coarse sand and granite rocks, sheltered from prevailing south-westerlies, shallow swimming with a dog at high tide. Leash recommended on the GR34 coastal path above.`,
@@ -128,6 +141,7 @@ const BEACHES: BeachEntry[] = [
     es: `La península sur de Concarneau alinea varias calas pequeñas donde los perros se toleran fuera de temporada (15 de septiembre al 14 de junio). Arena gruesa y rocas graníticas, al abrigo de los vientos dominantes del suroeste, baño canino poco profundo en marea alta. Correa recomendada en el GR34 encima.`,
     pt: `A península sul de Concarneau alinha várias enseadas pequenas onde os cães são tolerados fora de época (15 de setembro a 14 de junho). Areia grossa e rochas graníticas, ao abrigo dos ventos dominantes de sudoeste, banho canino pouco profundo na maré cheia. Trela recomendada no GR34 por cima.`,
     de: `Die südliche Halbinsel von Concarneau reiht mehrere kleine hundegeduldete Buchten außerhalb der Hochsaison (15. September bis 14. Juni) aneinander. Grober Sand und Granitfelsen, geschützt vor den vorherrschenden Südwestwinden, flaches Schwimmen mit Hund bei Flut. Leine empfohlen auf dem darüberliegenden Küstenweg GR34.`,
+    nl: `Het zuidelijke schiereiland van Concarneau telt meerdere kleine baaien waar honden buiten het hoogseizoen worden getolereerd (15 september tot 14 juni). Grof zand en granietrotsen, beschut tegen de overheersende zuidwestenwind, ondiep zwemmen met een hond bij vloed. Aanlijnen aanbevolen op het GR34-kustpad erboven.`,
   }},
   { rank: 15, beachName: `Plage de Trez-Bellec`, locationLabel: `Telgruc-sur-Mer, presqu'île de Crozon`, slug: null, photoSlug: 'crozon-trez-bellec', region: 'bretagne', yearRound: false, reason: {
     en: `On the wild Crozon peninsula, Trez-Bellec is a long curve of fine yellow sand open to dogs from 1 October to 14 June, leash required. Backed by low cliffs and the Ménez-Hom heath, far less visited than the south-Finistère beaches. Cold water but pristine.`,
@@ -135,6 +149,7 @@ const BEACHES: BeachEntry[] = [
     es: `En la salvaje península de Crozon, Trez-Bellec describe una larga curva de arena fina amarilla abierta a perros del 1 de octubre al 14 de junio, correa obligatoria. Respaldada por acantilados bajos y el brezal del Ménez-Hom, mucho menos frecuentada que las playas del sur del Finisterre. Agua fría pero impecable.`,
     pt: `Na selvagem península de Crozon, Trez-Bellec desenha uma longa curva de areia fina amarela aberta a cães de 1 de outubro a 14 de junho, trela obrigatória. Encostada a falésias baixas e à charneca do Ménez-Hom, bem menos frequentada do que as praias do sul do Finistère. Água fria mas impecável.`,
     de: `Auf der wilden Halbinsel Crozon ist Trez-Bellec ein langer Bogen aus feinem gelbem Sand, der Hunden vom 1. Oktober bis 14. Juni offensteht, Leinenpflicht. Umgeben von niedrigen Klippen und der Heidelandschaft des Ménez-Hom, deutlich weniger besucht als die Strände im Süden des Finistère. Kaltes, aber unberührtes Wasser.`,
+    nl: `Op het wilde schiereiland Crozon is Trez-Bellec een lange boog van fijn geel zand dat open staat voor honden van 1 oktober tot 14 juni, aanlijnplicht. Omzoomd door lage kliffen en de heide van Ménez-Hom, veel minder druk bezocht dan de stranden in Zuid-Finistère. Koud maar smetteloos water.`,
   }},
   { rank: 16, beachName: `Plage de Trestraou (extrémité ouest)`, locationLabel: `Perros-Guirec, Côtes-d'Armor`, slug: null, photoSlug: 'perros-guirec', region: 'bretagne', yearRound: false, reason: {
     en: `On the Côte de Granit Rose, Trestraou's western end tolerates dogs from 1 October to 30 April. Fine sand at low tide, pink granite boulders at the back, the GR34 sentier des douaniers leaves directly from the beach for the famous Ploumanac'h walk with a dog.`,
@@ -142,6 +157,7 @@ const BEACHES: BeachEntry[] = [
     es: `En la Côte de Granit Rose, el extremo oeste de Trestraou tolera perros del 1 de octubre al 30 de abril. Arena fina en marea baja, bloques de granito rosa al fondo, el GR34 sentier des douaniers parte directamente de la playa hacia el famoso paseo a Ploumanac'h con perro.`,
     pt: `Na Côte de Granit Rose, a extremidade oeste de Trestraou tolera cães de 1 de outubro a 30 de abril. Areia fina na maré baixa, blocos de granito rosa ao fundo, o GR34 sentier des douaniers parte directamente da praia para o famoso passeio a Ploumanac'h com cão.`,
     de: `An der Côte de Granit Rose duldet das westliche Ende von Trestraou Hunde vom 1. Oktober bis 30. April. Feiner Sand bei Ebbe, rosafarbene Granitblöcke im Hintergrund, der GR34 Sentier des Douaniers startet direkt am Strand für die berühmte Wanderung nach Ploumanac'h mit Hund.`,
+    nl: `Aan de Côte de Granit Rose tolereert het westelijke uiteinde van Trestraou honden van 1 oktober tot 30 april. Fijn zand bij eb, rotsblokken van roze graniet op de achtergrond, de GR34 sentier des douaniers begint direct op het strand voor de beroemde wandeling naar Ploumanac'h met hond.`,
   }},
   { rank: 17, beachName: `Plage de Cabourg (zone segregée)`, locationLabel: `Cabourg, Calvados`, slug: null, photoSlug: 'cabourg', region: 'normandie', yearRound: true, reason: {
     en: `Cabourg keeps a year-round segregated dog zone on its eastern end (towards Dives-sur-Mer), away from the main swimming area. Fine sand, vast low-tide flats perfect for off-leash running under voice control, leash imposed near the promenade Marcel Proust.`,
@@ -149,6 +165,7 @@ const BEACHES: BeachEntry[] = [
     es: `Cabourg mantiene una zona canina segregada todo el año en su extremo este (hacia Dives-sur-Mer), apartada de la zona principal de baño. Arena fina, vastas rasas en marea baja perfectas para carreras con llamada por voz, correa impuesta cerca del paseo Marcel Proust.`,
     pt: `Cabourg mantém uma zona canina segregada o ano inteiro na sua extremidade leste (em direcção a Dives-sur-Mer), afastada da zona principal de banho. Areia fina, vastos rasos na maré baixa perfeitos para corridas por chamada de voz, trela imposta perto do passeio Marcel Proust.`,
     de: `Cabourg unterhält an seinem östlichen Ende (Richtung Dives-sur-Mer) eine ganzjährige, abgetrennte Hundezone, abseits des Hauptbadebereichs. Feiner Sand, weite Wattflächen bei Ebbe, ideal zum Freilauf unter Rückrufkontrolle, Leinenpflicht in der Nähe der Promenade Marcel Proust.`,
+    nl: `Cabourg houdt het hele jaar een afgescheiden hondenzone aan het oostelijke uiteinde (richting Dives-sur-Mer), weg van de belangrijkste zwemzone. Fijn zand, uitgestrekte platen bij eb perfect om los te lopen onder terugroepcontrole, aanlijnplicht bij de Promenade Marcel Proust.`,
   }},
   { rank: 18, beachName: `Plage d'Utah Beach`, locationLabel: `Sainte-Marie-du-Mont, Manche`, slug: null, photoSlug: 'utah-beach', region: 'normandie', yearRound: true, reason: {
     en: `The D-Day landing beach is a wild stretch of fine sand and oyster banks where dogs are welcome year-round, no leash imposed on the long open beach (voice control expected), leash recommended near the memorials. Quiet, windswept, perfect for big-dog energy. Cold North Sea water.`,
@@ -156,6 +173,7 @@ const BEACHES: BeachEntry[] = [
     es: `La playa del desembarco es una vasta extensión de arena fina y bancos de ostras donde los perros son bienvenidos todo el año, sin correa impuesta en la larga playa abierta (llamada por voz esperada), correa recomendada cerca de los memoriales. Tranquila, ventosa, perfecta para perros con mucha energía. Agua fría del Canal.`,
     pt: `A praia do desembarque é uma vasta extensão de areia fina e bancos de ostras onde os cães são bem-vindos o ano inteiro, sem trela imposta na longa praia aberta (chamada por voz esperada), trela recomendada perto dos memoriais. Calma, ventosa, perfeita para cães com muita energia. Água fria do Canal.`,
     de: `Der Landungsstrand vom D-Day ist ein wilder Abschnitt aus feinem Sand und Austernbänken, an dem Hunde ganzjährig willkommen sind, keine Leinenpflicht auf dem langen offenen Strand (Rückrufkontrolle erwartet), Leine empfohlen in der Nähe der Gedenkstätten. Ruhig, windgepeitscht, perfekt für große, energiegeladene Hunde. Kaltes Wasser des Ärmelkanals.`,
+    nl: `Het D-Day-landingsstrand is een wilde strook fijn zand en oesterbanken waar honden het hele jaar welkom zijn, geen aanlijnplicht op het lange open strand (terugroepcontrole verwacht), aanlijnen aanbevolen bij de gedenktekens. Rustig, winderig, perfect voor honden met veel energie. Koud water van het Kanaal.`,
   }},
   { rank: 19, beachName: `Plage du Touquet (hors saison)`, locationLabel: `Le Touquet-Paris-Plage, Pas-de-Calais`, slug: null, photoSlug: 'le-touquet', region: 'nord', yearRound: false, reason: {
     en: `Le Touquet allows dogs on its enormous flat sand beach from 1 October to 31 March, banned 1 April to 30 September, leash required. Vast low-tide expanse perfect for sand-galloping, sand-yachts share the space, watch out for sailing carts. Pine forest behind for a follow-up walk.`,
@@ -163,6 +181,7 @@ const BEACHES: BeachEntry[] = [
     es: `Le Touquet admite perros en su enorme playa de arena plana del 1 de octubre al 31 de marzo, prohibidos del 1 de abril al 30 de septiembre, correa obligatoria. Vasta rasa en marea baja perfecta para galopadas, se comparte con los carros vela, ojo con los aparatos. Bosque de pinos detrás para prolongar el paseo.`,
     pt: `Le Touquet aceita cães na sua enorme praia de areia plana de 1 de outubro a 31 de março, proibidos de 1 de abril a 30 de setembro, trela obrigatória. Vasto raso na maré baixa perfeito para galopadas, partilha com carros à vela, atenção aos engenhos. Floresta de pinheiros atrás para prolongar o passeio.`,
     de: `Le Touquet erlaubt Hunde auf seinem riesigen flachen Sandstrand vom 1. Oktober bis 31. März, verboten vom 1. April bis 30. September, Leinenpflicht. Weite Fläche bei Ebbe, ideal zum Galoppieren im Sand, Strandsegler teilen sich den Raum, auf die Fahrzeuge achten. Pinienwald im Hintergrund für einen anschließenden Spaziergang.`,
+    nl: `Le Touquet staat honden toe op zijn enorme vlakke zandstrand van 1 oktober tot 31 maart, verboden van 1 april tot 30 september, aanlijnplicht. Uitgestrekte vlakte bij eb, perfect om te galopperen, gedeeld met strandzeilers, let op de karren. Pijnbos op de achtergrond voor een vervolgwandeling.`,
   }},
   { rank: 20, beachName: `Plage de Berck (zone canine sud)`, locationLabel: `Berck-sur-Mer, Pas-de-Calais`, slug: null, photoSlug: 'berck', region: 'nord', yearRound: true, reason: {
     en: `Berck-sur-Mer keeps a year-round dedicated dog zone on the southern end (towards the Baie d'Authie seal colony). Fine sand, leash required, careful at high tide (fast incoming sea on this very flat coast). The bay is one of Europe's biggest grey-seal colonies, keep distance and your dog short.`,
@@ -170,6 +189,7 @@ const BEACHES: BeachEntry[] = [
     es: `Berck-sur-Mer mantiene una zona canina dedicada todo el año en el extremo sur (hacia la Baie d'Authie y su colonia de focas). Arena fina, correa obligatoria, atención en marea alta (mar rápido en esta costa muy plana). La bahía alberga una de las mayores colonias de focas grises de Europa, mantener la distancia y el perro corto.`,
     pt: `Berck-sur-Mer mantém uma zona canina dedicada o ano inteiro na extremidade sul (em direcção à Baie d'Authie e à sua colónia de focas). Areia fina, trela obrigatória, atenção na maré cheia (mar rápido nesta costa muito plana). A baía abriga uma das maiores colónias de focas cinzentas da Europa, manter distância e o cão curto.`,
     de: `Berck-sur-Mer unterhält am südlichen Ende (Richtung Baie d'Authie mit ihrer Seehundkolonie) eine ganzjährige ausgewiesene Hundezone. Feiner Sand, Leinenpflicht, Vorsicht bei Flut (schnell auflaufende See an dieser sehr flachen Küste). Die Bucht beherbergt eine der größten Kegelrobbenkolonien Europas, Abstand halten und den Hund kurz an der Leine führen.`,
+    nl: `Berck-sur-Mer houdt het hele jaar een speciale hondenzone aan het zuidelijke uiteinde (richting de Baie d'Authie met haar zeehondenkolonie). Fijn zand, aanlijnplicht, wees voorzichtig bij vloed (snel opkomend water aan deze zeer vlakke kust). De baai herbergt een van de grootste kolonies grijze zeehonden van Europa, houd afstand en houd uw hond kort aangelijnd.`,
   }},
 ]
 
@@ -186,6 +206,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     es: 'Mejores playas para perros en Francia (guía 2026): 20 playas verificadas | HotelsWithPets',
     pt: 'Melhores praias para cães em França (guia 2026): 20 praias verificadas | HotelsWithPets',
     de: 'Die besten hundefreundlichen Strände Frankreichs (Guide 2026): 20 geprüfte Strände | HotelsWithPets',
+    nl: 'De beste hondenstranden van Frankrijk (gids 2026): 20 geverifieerde plekken | HotelsWithPets',
   }
   const descriptions: Record<string, string> = {
     en: `Most French beaches ban dogs from 1 June to 30 September. Here are 20 verified exceptions, year-round dog zones and off-season beaches across Côte d'Azur, Languedoc, Aquitaine, Vendée, Bretagne, Normandie and the northern coast.`,
@@ -193,6 +214,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     es: `La mayoría de las playas francesas prohíben perros del 1 de junio al 30 de septiembre. Aquí 20 excepciones verificadas: zonas caninas todo el año y playas fuera de temporada en la Costa Azul, Languedoc, Aquitania, Vendée, Bretaña, Normandía y el norte.`,
     pt: `A maioria das praias francesas proíbe cães de 1 de junho a 30 de setembro. Aqui estão 20 excepções verificadas: zonas caninas o ano inteiro e praias fora de época na Côte d'Azur, Languedoc, Aquitânia, Vendée, Bretanha, Normandia e norte.`,
     de: `Die meisten französischen Strände verbieten Hunde vom 1. Juni bis 30. September. Hier sind 20 geprüfte Ausnahmen: ganzjährige Hundezonen und Strände außerhalb der Saison an der Côte d'Azur, im Languedoc, in Aquitanien, in der Vendée, in der Bretagne, in der Normandie und an der Nordküste.`,
+    nl: `De meeste Franse stranden verbieden honden van 1 juni tot 30 september. Hier zijn 20 geverifieerde uitzonderingen: hondenzones die het hele jaar open zijn en stranden buiten het seizoen langs de Côte d'Azur, Languedoc, Aquitaine, Vendée, Bretagne, Normandië en de noordkust.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -206,6 +228,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         es: `${SITE_URL}/es/guides/${SLUG}`,
         pt: `${SITE_URL}/pt/guides/${SLUG}`,
         de: `${SITE_URL}/de/guides/${SLUG}`,
+        nl: `${SITE_URL}/nl/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },
@@ -500,6 +523,57 @@ const COPY: Record<string, Copy> = {
     bottomBookCtaDesc: `Live-Preise und Sofortbuchung entlang der gesamten französischen Küste und in ganz Europa, Booking.com, Expedia, Hotels.com und mehr. Kostenlose Stornierung bei den meisten Unterkünften, geprüfte Haustierrichtlinien bei jedem Eintrag.`,
     bottomBookCtaButton: `Haustierfreundliche Hotels suchen →`,
   },
+  nl: {
+    hero: { kicker: `FRANKRIJKS BESTE HONDENSTRANDEN · EDITIE 2026`, h1: `De beste hondenstranden van Frankrijk: 20 geverifieerde plekken`, lede: `De meeste Franse gemeentelijke besluiten verbieden honden van 1 juni tot 30 september op het strand. Wij brachten de uitzonderingen in kaart: 20 geverifieerde stranden langs vijf kustlijnen waar je legaal met je hond terechtkunt, waaronder 12 zones die het hele jaar open zijn. Het eerste deel van onze land-voor-land serie over hondenstranden.` },
+    intro: { title: `Waarom een gids alleen over Frankrijk`, paras: [
+      `Frankrijk heeft 5.500 km kustlijn en een standaardregel die de meeste buitenlandse bezoekers verrast: van 1 juni tot 30 september zijn honden bij gemeentelijk besluit op vrijwel elk openbaar strand verboden, zelfs aangelijnd. De boetes zijn echt (38 tot 750 euro) en de handhaving in juli en augustus is inmiddels systematisch aan de Côte d'Azur en in de Languedoc.`,
+      `Het goede nieuws: elke kust heeft een handvol officieel aangewezen hondenstranden die het seizoensverbod opheffen, en nog veel meer stranden die het verbod gewoon laten vervallen van 1 oktober tot 30 april. Weten welke dat zijn, bespaart je een boete en een gefrustreerde hond bij de ingang.`,
+      `We hebben elk van de 20 onderstaande stranden gecontroleerd aan de hand van het gemeentelijk besluit of een recente (2024 of later) bron over reizen met hond. Waar een "zone canine" officieel is aangewezen, vermelden we dat. Waar de regel seizoensgebonden is, geven we de exacte data. Waar het strand wild genoeg is dat terugroepcontrole wordt getolereerd, zeggen we dat ook.`,
+    ] },
+    methodology: { title: `Onze methodologie`, paras: [
+      `We zijn uitgegaan van de gemeentelijke besluiten van elke Franse kustgemeente met meer dan 5.000 inwoners, op zoek naar de trefwoorden "chien" of "animal" in hun strandregels. Stranden zonder expliciete hondenregeling werden uitgesloten, tenzij ze in een nationaal park of natuurgebied liggen met een bekende traditie van terugroepcontrole.`,
+      `Vervolgens filterden we op stranden die fysiek hondvriendelijk zijn: een hondenzone die het hele jaar open is, of een duidelijke seizoensopening van minstens zes maanden. Stranden die honden alleen midden in de winter toelaten (1 november tot 31 maart) werden als te beperkt beschouwd.`,
+      `Er is gestuurd op geografische spreiding. We kozen ongeveer 5 stranden aan de Middellandse Zee (Côte d'Azur en Languedoc), 5 aan de Atlantische zuidwestkust (Aquitaine en Baskenland), 3 tussen de Vendée en de Charente-Maritime, 3 in Bretagne, 2 in Normandië en 2 aan de kust van Hauts-de-France en Nord, zodat de ranglijst elk klimaat en getijdenprofiel van de Franse kust weerspiegelt.`,
+      `Voor elk strand noteerden we: zand of kiezels (galets) voor het comfort van de pootjes, aanlijnplicht (bijna altijd verplicht), schaduw op de achtergrond voor warme dagen, afstand tot de dichtstbijzijnde 24/7 spoeddierenarts, en hoe je bij aankomst het hondvriendelijke gedeelte vindt (vaak aan het uiterste uiteinde van een veel groter strand).`,
+      `Ten slotte is elk item herschreven in vier talen (Engels, Frans, Spaans, Portugees), zodat bezoekers uit het Verenigd Koninkrijk, Spanje en Portugal, de drie grootste buitenlandse markten voor Frans kusttoerisme, deze gids direct kunnen gebruiken.`,
+    ] },
+    rankingTitle: `De ranglijst van 20 stranden`,
+    rankingSubtitle: `Elk strand linkt naar actuele prijzen voor huisdiervriendelijke hotels in de dichtstbijzijnde stad, en naar onze volledige bestemmingsgids als die bestaat.`,
+    bookPrefix: `Boek huisdiervriendelijke hotels bij`,
+    guideLink: `Volledige bestemmingsgids →`,
+    yearRoundLabel: `Hele jaar`,
+    seasonalLabel: `Seizoensgebonden`,
+    mapTitle: `Live kaart · huisdiervriendelijke hotels bij Cap d'Antibes (gebied #1)`,
+    mapDesc: `Gecentreerd op Cap d'Antibes, bij ons hondenstrand nummer 1. Verschuif, zoom in en klik op een marker voor actuele prijzen, huisdierenbeleid en gratis annuleerbare beschikbaarheid langs de hele Franse kust. De kaart omvat alle 770+ huisdiervriendelijke hotels in onze 144 Europese bestemmingen.`,
+    keywordChipsTitle: `Populaire zoekopdrachten naar hondenstranden in Frankrijk in 2026`,
+    keywordChips: [
+      `Hondenstrand Antibes Salis`, `Hondenstrand Cannes Mourre Rouge`, `Hondenstrand Hyères Verdon`,
+      `Hondenstrand Almanarre Hyères`, `Hondenstrand Espiguette Grau-du-Roi`, `Hondenstrand Agde Tamarissière`,
+      `Hondenstrand Sète Trois Digues`, `Hondenstrand Biarritz Côte des Basques`, `Hondenstrand Seignosse Estagnots`,
+      `Hondenstrand Longeville Conches`, `Hondenstrand Saint-Jean-de-Monts`, `Hondenstrand Île de Ré Baleines`,
+      `Hondenstrand Trévignon Trégunc`, `Hondenstrand Concarneau Cabellou`, `Hondenstrand Crozon Trez-Bellec`,
+      `Hondenstrand Perros-Guirec Trestraou`, `Hondenstrand Cabourg`, `Hondenstrand Utah Beach Normandië`,
+      `Hondenstrand Le Touquet`, `Hondenstrand Berck-sur-Mer`,
+    ],
+    faqTitle: `Veelgestelde vragen`,
+    faqs: [
+      { q: `Mag mijn hond in juli en augustus legaal naar elk Frans strand?`, a: `Standaard niet. De meeste Franse kustgemeenten verbieden honden bij gemeentelijk besluit tussen 1 juni en 30 september op hun stranden, met boetes tussen 38 en 750 euro. De 12 hondenstranden die het hele jaar open zijn in deze gids (Antibes Salis, Cannes Mourre Rouge, Hyères Verdon en Almanarre, Espiguette, Agde Tamarissière, Sète Trois Digues, Longeville Conches, Cabourg, Utah Beach, Berck-sur-Mer) zijn de zeldzame uitzonderingen en worden door hun gemeente expliciet aangewezen als "zone canine" of gelijkwaardig.` },
+      { q: `Is aanlijnen altijd verplicht?`, a: `Bijna altijd wel. Zelfs op aangewezen hondenstranden geldt doorgaans de regel "chien tenu en laisse" (hond aangelijnd). Terugroepcontrole wordt alleen geaccepteerd op enkele wilde stranden binnen natuurgebieden (Espiguette, de platen van Utah Beach bij eb), en zelfs daar blijft de leiband verplicht tijdens het broedseizoen van vogels (april tot juli). Neem een riem mee en gebruik hem op verzoek, de gendarmerie en de gemeentepolitie controleren daadwerkelijk.` },
+      { q: `En katten?`, a: `Dezelfde besluiten gelden voor alle "animaux domestiques", dus katten zijn onderworpen aan dezelfde regels als honden. In de praktijk zijn stranden met katten zeldzaam in Frankrijk en richt de handhaving zich op honden. Als je met een kat reist, is het overdekte terras van een huisdiervriendelijk hotel een betere plek dan een strand.` },
+      { q: `Wat als mijn hond ziek wordt op het strand?`, a: `Alle grote kuststeden beschikken over een 24/7 spoeddierenarts: Nice, Marseille, Montpellier, Bordeaux, Nantes, Brest, Caen, Le Touquet (via Boulogne-sur-Mer). Bij de wildere stranden in de Vendée, Bretagne of Normandië kan de dichtstbijzijnde 24/7 dienst 45 minuten verderop liggen, sla het nummer op in je telefoon voordat je vertrekt. Hitteberoerte en het binnenkrijgen van zeewater zijn de twee meest voorkomende noodgevallen.` },
+      { q: `Geldt deze ranglijst voor alle honden hetzelfde?`, a: `Niet helemaal. Grote, actieve honden gedijen het best op de Atlantische en noordelijke stranden (Utah Beach, Le Touquet, Berck, Longeville Conches), waar uitgestrekte platen bij eb uitnodigen tot rennen en het water zelfs in augustus koel blijft. Kleine of oudere honden doen het beter op de mediterrane zones (Antibes Salis, Cannes Mourre Rouge, Sète Trois Digues), waar rustig ondiep water en korte zandstroken uitputting beperken. Brachycefale rassen (bulldogs, pugs) kunnen de mediterrane kust in juli en augustus beter sowieso vermijden.` },
+    ],
+    conclusion: { title: `Onze keuze als je maar één weekend hebt`, paras: [
+      `Als je maar één weekend hebt en een hond, ga dan naar Hyères. De Plage du Verdon en het noordelijke deel van Almanarre zijn allebei hondenzones die het hele jaar open zijn, de Var is met de directe TGV vanuit Parijs in minder dan 4 uur bereikbaar, en het achterland van het Massif des Maures biedt koele ochtendwandelingen voor het strandbezoek. Huisdiervriendelijke hotels zijn ruim voorhanden in Hyères, La Londe en Le Lavandou.`,
+      `Voor een weekend buiten het seizoen is de Île de Ré in oktober of november onverslaanbaar. De Conche des Baleines is leeg, de wind gaat 's middags liggen, en het vlakke fietsnetwerk van het eiland maakt het de makkelijkste Franse kust om met een hond te reizen, geen auto nodig eenmaal aangekomen.`,
+    ] },
+    ctaTitle: `Plan je Frankrijkreis met hond met onze bestemmingsgidsen`,
+    ctaDesc: `Nice, Cannes, Biarritz, Montpellier, Nantes en meer dan 30 andere Franse steden hebben een volledige huisdiervriendelijke bestemmingsgids, dierenarts-telefoonnummers en een live boekingskaart.`,
+    ctaButton: `Bekijk alle Franse bestemmingen →`,
+    bottomBookCtaTitle: `Klaar om te boeken? Vergelijk 770+ huisdiervriendelijke hotels`,
+    bottomBookCtaDesc: `Actuele prijzen en direct boeken langs de Franse kust en in heel Europa, Booking.com, Expedia, Hotels.com en meer. Gratis annulering bij de meeste accommodaties, geverifieerd huisdierenbeleid bij elke vermelding.`,
+    bottomBookCtaButton: `Zoek huisdiervriendelijke hotels →`,
+  },
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
@@ -629,6 +703,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                             locale === 'es' ? `Dónde dormir cerca de ${b.beachName}` :
                             locale === 'pt' ? `Onde dormir perto de ${b.beachName}` :
                             locale === 'de' ? `Übernachten in der Nähe von ${b.beachName}` :
+                            locale === 'nl' ? `Overnachten bij ${b.beachName}` :
                             `Where to stay near ${b.beachName}`
                           }
                         />
@@ -774,6 +849,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
           locale === 'es' ? `Hoteles pet-friendly Costa Azul desde 95 €/noche` :
           locale === 'pt' ? `Hotéis pet-friendly Costa Azul desde 95 €/noite` :
           locale === 'de' ? `Haustierfreundliche Hotels an der Côte d'Azur ab 95 €/Nacht` :
+          locale === 'nl' ? `Huisdiervriendelijke hotels Côte d'Azur vanaf 95 €/nacht` :
           `Pet-friendly Côte d'Azur hotels from €95/night`
         }
         cta={
@@ -781,6 +857,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
           locale === 'es' ? 'Ver' :
           locale === 'pt' ? 'Ver' :
           locale === 'de' ? 'Ansehen' :
+          locale === 'nl' ? 'Bekijken' :
           'View'
         }
       />

@@ -39,9 +39,13 @@
           "mustTryPt": "Menu de degustação, marisco local, vinhos do Priorat",
           "tipPt": "Reserve o primeiro turno de almoço se quiser uma esplanada tranquila com o seu cão",
           "descriptionDe": "Ein modernes katalanisches Restaurant in der mittelalterlichen Part Alta mit einem zeitgenössischen Degustationsmenü-Ansatz für lokalen Fisch und Saisongemüse. Auf TheFork als eines der bestbewerteten hundefreundlichen Restaurants Tarragonas gelistet (Bewertung 9,5). Die Terrasse an der Carrer de Sant Pau akzeptiert wohlerzogene angeleinte Hunde zum Mittag- und Abendessen; der Innenraum liegt im Ermessen des Gastgebers.",
+          "descriptionNl": "Een modern Catalaans restaurant in de middeleeuwse Part Alta met een eigentijdse benadering van een degustatiemenu voor lokale vis en seizoensgroente. Op TheFork gelist als een van de best beoordeelde hondvriendelijke restaurants van Tarragona (beoordeling 9,5). Het terras aan de Carrer de Sant Pau accepteert goed opgevoede honden aan de lijn voor lunch en diner; binnen is het ter beoordeling van de gastheer.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen; nach dem Innenraum fragen",
+          "petPolicyNl": "Honden aan de lijn welkom op het terras; vraag naar de binnenruimte",
           "mustTryDe": "Degustationsmenü, lokaler Fisch, Priorat-Weine",
-          "tipDe": "Buchen Sie die frühe Mittagssitzung, wenn Sie mit Ihrem Hund eine ruhige Terrasse möchten"
+          "mustTryNl": "Degustatiemenu, lokale vis, Priorat-wijnen",
+          "tipDe": "Buchen Sie die frühe Mittagssitzung, wenn Sie mit Ihrem Hund eine ruhige Terrasse möchten",
+          "tipNl": "Boek de vroege lunchsessie als je met je hond een rustig terras wilt"
         },
         {
           "name": "The Lotus Bistro",
@@ -69,9 +73,13 @@
           "mustTryPt": "Bao buns, pratos de brunch, saladas frescas",
           "tipPt": "O brunch de domingo esgota com 2 a 3 dias de antecedência no verão; aposte no turno das 12:00",
           "descriptionDe": "Ein lockeres Ganztags-Bistro, beliebt bei Einheimischen und Besuchern gleichermaßen, mit wechselnden mediterran-asiatischen Fusionsgerichten und einer Terrasse, die sich beim Brunch mit Familien und Hunden füllt. Auf dem Hundefreundlich-Filter von TheFork mit 9,1 bewertet. Das Personal bringt auf Wunsch eine Wasserschale, und die Terrasse liegt bis mittags im Schatten.",
+          "descriptionNl": "Een ontspannen bistro voor de hele dag, populair bij zowel locals als bezoekers, met wisselende mediterraan-Aziatische fusiongerechten en een terras dat bij de brunch vol loopt met gezinnen en honden. Op de hondvriendelijke filter van TheFork beoordeeld met 9,1. Het personeel brengt op verzoek een waterbakje, en het terras ligt tot 's middags in de schaduw.",
           "petPolicyDe": "Hunde ganzjährig auf der Terrasse willkommen",
+          "petPolicyNl": "Honden het hele jaar welkom op het terras",
           "mustTryDe": "Bao-Buns, Brunch-Gerichte, frische Salate",
-          "tipDe": "Der Sonntagsbrunch ist im Sommer 2–3 Tage im Voraus ausgebucht; zielen Sie auf die 12:00-Uhr-Sitzung ab"
+          "mustTryNl": "Bao-broodjes, brunchgerechten, verse salades",
+          "tipDe": "Der Sonntagsbrunch ist im Sommer 2–3 Tage im Voraus ausgebucht; zielen Sie auf die 12:00-Uhr-Sitzung ab",
+          "tipNl": "De zondagsbrunch zit 's zomers 2 tot 3 dagen van tevoren vol; mik op de sessie van 12:00 uur"
         },
         {
           "name": "Cardinal Fox",
@@ -99,9 +107,13 @@
           "mustTryPt": "Pequenos pratos, vinhos catalães, cocktails de assinatura",
           "tipPt": "Melhor à hora dourada pela luz da Rambla; chegue antes das 21:00 para a esplanada da primeira fila",
           "descriptionDe": "Eine entspannte Bistro-Bar an oder nahe der Rambla Nova mit großzügiger Terrasse, bewertet mit 9,0 im Haustier-Filter von TheFork für Tarragona. Mediterrane kleine Gerichte, Craft-Cocktails und katalanische Weine, mit treuer lokaler Kundschaft aus Hundehaltern im Frühling und Sommer.",
+          "descriptionNl": "Een ontspannen bistrobar aan of bij de Rambla Nova met een royaal terras, beoordeeld met 9,0 op de huisdierenfilter van TheFork voor Tarragona. Mediterrane kleine gerechten, craft-cocktails en Catalaanse wijnen, met een trouwe lokale klantenkring van hondeneigenaren in het voor- en najaar.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden aan de lijn welkom op het terras",
           "mustTryDe": "Kleine Gerichte, katalanische Weine, Signature-Cocktails",
-          "tipDe": "Am schönsten zur goldenen Stunde für das Licht der Rambla; kommen Sie vor 21:00 Uhr für die vorderste Terrassenreihe"
+          "mustTryNl": "Kleine gerechten, Catalaanse wijnen, signature cocktails",
+          "tipDe": "Am schönsten zur goldenen Stunde für das Licht der Rambla; kommen Sie vor 21:00 Uhr für die vorderste Terrassenreihe",
+          "tipNl": "Het mooist tijdens het gouden uur voor het licht op de Rambla; kom voor 21:00 uur voor de voorste terrasrij"
         }
       ],
       "tipsEn": [
@@ -167,7 +179,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Tarragona",
+      "titleNl": "Huisdiervriendelijke restaurants in Tarragona",
       "introDe": "Tarragona bewirbt hundefreundliches Essen seit Januar 2020 aktiv, als das städtische Tourismusbüro (Tarragona Turisme) seinem Restaurantverzeichnis einen Hundefreundlich-Filter hinzufügte und damit rund 80 bestätigt hundefreundliche Lokale von etwa 240 Stadtrestaurants sichtbar machte. Das macht die Stadt zu einer der unkompliziertesten mittelgroßen spanischen Städte für die Essensplanung mit Haustier. Die katalanische Tradition schätzt lange Mittagessen und schattige Terrassen, und die drei unten genannten Lokale sind jene, die durchgehend auf regionalen Hundefreundlich-Verzeichnissen und im Haustier-Filter von TheFork für Tarragona auftauchen.",
+      "introNl": "Tarragona promoot hondvriendelijk eten al actief sinds januari 2020, toen het gemeentelijke toeristenbureau (Tarragona Turisme) een hondvriendelijke filter toevoegde aan zijn restaurantgids, waardoor zo'n 80 bevestigd hondvriendelijke zaken van ongeveer 240 restaurants in de stad zichtbaar werden. Dat maakt de stad een van de makkelijkste middelgrote Spaanse steden om eten te plannen met huisdier. De Catalaanse traditie waardeert lange lunches en schaduwrijke terrassen, en de drie hieronder genoemde zaken zijn degene die steevast opduiken in regionale hondvriendelijke gidsen en op de huisdierenfilter van TheFork voor Tarragona.",
       "faqsDe": [
         {
           "q": "Verlangt Tarragona von Restaurants, ihre Haustierpolitik anzugeben?",
@@ -176,6 +190,16 @@
         {
           "q": "Darf ich einen Hund in eine Vermut-Bar oder an die Tapas-Theke mitnehmen?",
           "a": "Ja, in nahezu jeder Vermut-Bar Tarragonas mit Terrasse, und oft auch an der Innentheke außerhalb der Stoßzeiten. Die sonntägliche Vermut-Stunde (12:00–14:00 Uhr) gehört zu den hundereichsten sozialen Ritualen der Stadt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Verplicht Tarragona restaurants hun huisdierenbeleid te vermelden?",
+          "a": "Niet verplicht, maar het gemeentelijke toeristenbureau houdt sinds 2020 een gecureerde lijst 'admeten gossos' (honden welkom) bij met zo'n 80 bevestigde zaken. De Catalaanse gezondheidsvoorschriften staan honden apart toe naar goeddunken van de eigenaar in elke horecaruimte, zolang ze aan de lijn zijn en buiten de voedselbereidingszones blijven."
+        },
+        {
+          "q": "Mag ik een hond meenemen naar een vermutbar of aan de tapastoog?",
+          "a": "Ja, in vrijwel elke vermutbar van Tarragona met terras, en vaak ook aan de binnentoog buiten de spitsuren. Het zondagse vermuturtje (12:00-14:00 uur) is een van de hondrijkste sociale rituelen van de stad."
         }
       ]
     },
@@ -212,9 +236,13 @@
           "amenitiesPt": "Trilho à beira-rio, área vedada para cães, bebedouros, mesas de piquenique",
           "tipPt": "Use a entrada sul, junto à Avinguda de Vidal i Barraquer, para ficar perto da área para cães em 5 minutos",
           "descriptionDe": "Tarragonas größter Stadtpark, der sich entlang des unteren Francolí-Flusses neben dem Mittelmeer erstreckt. Flache, schattige Wege, eine eingezäunte àrea d'esbarjo per a gossos und eine Uferpromenade machen ihn zum täglichen Anlaufpunkt für Spaziergänge mit Hund. Einheimische kommen zum Joggen bei Sonnenaufgang und für Spaziergänge nach der Siesta.",
+          "descriptionNl": "Het grootste stadspark van Tarragona, dat zich uitstrekt langs de benedenloop van de rivier de Francolí naast de Middellandse Zee. Vlakke, schaduwrijke paden, een omheind àrea d'esbarjo per a gossos en een rivierpromenade maken het tot het dagelijkse aanspreekpunt voor wandelingen met hond. Locals komen er bij zonsopgang joggen en na de siësta wandelen.",
           "petPolicyDe": "Angeleinte Hunde willkommen; Freilauf im eingezäunten Hundeareal erlaubt",
+          "petPolicyNl": "Honden aan de lijn welkom; loslopen toegestaan in het omheinde hondenveld",
           "amenitiesDe": "Uferweg, eingezäuntes Hundeareal, Trinkbrunnen, Picknicktische",
-          "tipDe": "Nutzen Sie den südlichen Eingang an der Avinguda de Vidal i Barraquer, um in 5 Minuten am Hundeareal zu sein"
+          "amenitiesNl": "Rivieroeverpad, omheind hondenveld, drinkfontein, picknicktafels",
+          "tipDe": "Nutzen Sie den südlichen Eingang an der Avinguda de Vidal i Barraquer, um in 5 Minuten am Hundeareal zu sein",
+          "tipNl": "Gebruik de zuidelijke ingang aan de Avinguda de Vidal i Barraquer om in 5 minuten bij het hondenveld te zijn"
         },
         {
           "name": "Camp de Mart",
@@ -241,9 +269,13 @@
           "amenitiesPt": "Sombra de pinheiros, caminhos de gravilha, miradouros sobre as muralhas romanas",
           "tipPt": "O circuito combinado com o Passeig Arqueològic (Passeio Arqueológico) dá um passeio de 45 minutos pelas muralhas romanas inteiramente à sombra",
           "descriptionDe": "Ein historischer Grünkorridor um die römischen Stadtmauern in der Part Alta, mit schattigen Pinienhainen, Kieswegen und Ausblicken in die Altstadt durch Schießscharten. Leicht von der Plaça del Rei aus erreichbar, ein perfekter Spaziergang an der Leine, der zugleich eine römische Geschichtstour ist.",
+          "descriptionNl": "Een historische groene corridor rond de Romeinse stadsmuren in de Part Alta, met schaduwrijke dennenbosjes, grindpaden en uitzichten op de oude stad door schietgaten. Gemakkelijk bereikbaar vanaf de Plaça del Rei, een perfecte wandeling aan de lijn die tegelijk een Romeinse geschiedenistour is.",
           "petPolicyDe": "Angeleinte Hunde willkommen; keine ausgewiesene Freilaufzone",
+          "petPolicyNl": "Honden aan de lijn welkom; geen aangewezen aanlijnvrije zone",
           "amenitiesDe": "Pinienschatten, Kieswege, Aussichtspunkte über die römischen Mauern",
-          "tipDe": "Kombiniert mit dem Passeig Arqueològic (archäologische Promenade) ergibt sich ein 45-minütiger Spaziergang entlang der römischen Mauer, komplett im Schatten"
+          "amenitiesNl": "Dennenschaduw, grindpaden, uitzichtpunten over de Romeinse muren",
+          "tipDe": "Kombiniert mit dem Passeig Arqueològic (archäologische Promenade) ergibt sich ein 45-minütiger Spaziergang entlang der römischen Mauer, komplett im Schatten",
+          "tipNl": "Gecombineerd met de Passeig Arqueològic (archeologische promenade) ontstaat een wandeling van 45 minuten langs de hele Romeinse muur, volledig in de schaduw"
         },
         {
           "name": "Bosc de la Marquesa",
@@ -270,9 +302,13 @@
           "amenitiesPt": "Sombra de pinheiros, trilhos arenosos, vistas para o mar, enseadas recatadas",
           "tipPt": "Estacione perto da rotunda de Cap Salou para evitar a mais longa pista de terra; leve água para o cão, pois não há bebedouros no trilho",
           "descriptionDe": "Ein küstennaher Aleppo-Pinienwald östlich der Stadt mit schattigen Sandwegen, die zu mehreren abgelegenen Buchten hinabführen, darunter die bekannte Cala Fonda. Angeleinte Hunde sind auf allen Wegen willkommen; die Buchten unterliegen außerhalb des Sommers nicht der Leinenpflicht, der Weg selbst ist jedoch ein Spaziergang an der Leine.",
+          "descriptionNl": "Een kustnabij Aleppo-dennenbos ten oosten van de stad met schaduwrijke zandpaden die naar verschillende afgelegen baaien afdalen, waaronder de bekende Cala Fonda. Honden aan de lijn zijn welkom op alle paden; voor de baaien geldt buiten de zomer geen aanlijnplicht, het pad zelf is echter een wandeling aan de lijn.",
           "petPolicyDe": "Angeleinte Hunde auf den Wegen willkommen; Buchten saisonal (siehe Strände-Abschnitt)",
+          "petPolicyNl": "Honden aan de lijn welkom op de paden; baaien seizoensgebonden (zie stranden-sectie)",
           "amenitiesDe": "Pinienschatten, Sandwege, Meerblick, abgelegene Buchten",
-          "tipDe": "Parken Sie am Kreisverkehr Cap Salou, um den längsten Staubweg zu vermeiden; bringen Sie Wasser für den Hund mit, es gibt keine Brunnen auf dem Weg"
+          "amenitiesNl": "Dennenschaduw, zandpaden, zeezicht, afgelegen baaien",
+          "tipDe": "Parken Sie am Kreisverkehr Cap Salou, um den längsten Staubweg zu vermeiden; bringen Sie Wasser für den Hund mit, es gibt keine Brunnen auf dem Weg",
+          "tipNl": "Parkeer bij de rotonde Cap Salou om het langste stoffige pad te vermijden; neem water voor de hond mee, er zijn geen fonteinen onderweg"
         }
       ],
       "tipsEn": [
@@ -338,7 +374,9 @@
         }
       ],
       "titleDe": "Die besten Parks & Grünflächen in Tarragona",
+      "titleNl": "De beste parken & groengebieden in Tarragona",
       "introDe": "Tarragonas Grünflächennetz wird von einer Reihe historischer Anlagen am Küstensteilhang und im tiefen Flusstal des Francolí geprägt. Die städtische Verordnung folgt dem katalanischen Tierschutzgesetz: Leinenpflicht in allen Parks und öffentlichen Räumen, Freilauf nur in den eingezäunten àrees d'esbarjo per a gossos (Hundeauslaufzonen). Halter müssen einen Kotbeutel sowie eine kleine Flasche Wasser/verdünnte Seife mitführen, die übliche katalanische Regel zum Abspülen von Urin.",
+      "introNl": "Het groennetwerk van Tarragona wordt gekenmerkt door een reeks historische aanleg op de kustrand en in de diepe rivierbedding van de Francolí. De gemeentelijke verordening volgt de Catalaanse dierenwelzijnswet: aanlijnplicht in alle parken en openbare ruimtes, loslopen alleen in de omheinde àrees d'esbarjo per a gossos (hondenuitlaatzones). Eigenaren moeten een poepzakje en een klein flesje water/verdund zeepwater bij zich dragen, de gebruikelijke Catalaanse regel om urine weg te spoelen.",
       "faqsDe": [
         {
           "q": "Wo darf ich meinen Hund in Tarragona legal von der Leine lassen?",
@@ -347,6 +385,16 @@
         {
           "q": "Ist die Cala Fonda hundefreundlich?",
           "a": "Die Bucht ist unbeaufsichtigt und liegt außerhalb der bewachten städtischen Strände, weshalb sie bei Einheimischen die beliebteste Hundebucht ist. Der Weg durch den Bosc de la Marquesa erfordert eine Leine; viele Halter lassen den Hund schwimmen, sobald sie die Bucht erreichen, aber für den Rückweg muss der Hund wieder angeleint werden."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar mag ik mijn hond in Tarragona wettelijk loslaten?",
+          "a": "Alleen in de omheinde àrees d'esbarjo in het Parc del Francolí, het Parc Saavedra en een of twee kleinere wijkparken. Overal elders, inclusief de Romeinse ruïnes en de strandpromenade, is een lijn van maximaal 2 m verplicht."
+        },
+        {
+          "q": "Is de Cala Fonda hondvriendelijk?",
+          "a": "De baai is onbewaakt en ligt buiten de bewaakte stadsstranden, waardoor het bij locals de populairste hondenbaai is. Het pad door de Bosc de la Marquesa vereist een lijn; veel eigenaren laten de hond zwemmen zodra ze de baai bereiken, maar voor de terugweg moet de hond weer aan de lijn."
         }
       ]
     },
@@ -383,9 +431,13 @@
           "amenitiesPt": "Duches, espreguiçadeiras, bar de praia, nadadores-salvadores (na época)",
           "tipPt": "Chegue pela estação Tarragona da Renfe Rodalies e depois o autocarro 5; poupa o pesadelo do estacionamento de verão",
           "descriptionDe": "Tarragonas längster Strand, 3 km Sand und sanftes Wasser in ruhigerer, naturbelassener Lage östlich des Zentrums. Die Gemeinde unterhält hier eine ausgewiesene Hundezone, im übrigen Sandbereich gilt Leinenpflicht. Duschen, Liegen und eine Strandbar sind im Sommer vorhanden.",
+          "descriptionNl": "Het langste strand van Tarragona, 3 km zand en zacht water op een rustigere, natuurlijkere locatie ten oosten van het centrum. De gemeente onderhoudt hier een aangewezen hondenzone, op de rest van het zand geldt aanlijnplicht. Douches, ligstoelen en een strandbar zijn er 's zomers.",
           "petPolicyDe": "Ganzjährig ausgewiesene Hundezone; sonst am Strand Leinenpflicht",
+          "petPolicyNl": "Het hele jaar aangewezen hondenzone; verder op het strand aanlijnplicht",
           "amenitiesDe": "Duschen, Sonnenliegen, Strandbar, Rettungsschwimmer (saisonal)",
-          "tipDe": "Anreise mit dem Renfe-Rodalies-Bahnhof Tarragona, dann Bus 5; erspart den sommerlichen Parkplatz-Albtraum"
+          "amenitiesNl": "Douches, ligstoelen, strandbar, strandwacht (seizoensgebonden)",
+          "tipDe": "Anreise mit dem Renfe-Rodalies-Bahnhof Tarragona, dann Bus 5; erspart den sommerlichen Parkplatz-Albtraum",
+          "tipNl": "Kom met de trein via station Renfe Rodalies Tarragona, dan bus 5; bespaart de zomerse parkeernachtmerrie"
         },
         {
           "name": "Cala Fonda (Waikiki)",
@@ -412,9 +464,13 @@
           "amenitiesPt": "Enseada selvagem, sem serviços, banhos abrigados",
           "tipPt": "Leve sombra, água para o cão e os dados do microchip, pois a polícia municipal verifica ocasionalmente nos fins de semana de julho",
           "descriptionDe": "Eine 200 Meter lange abgeschiedene Bucht, erreichbar über einen 20-minütigen Spaziergang durch den Pinienwald Bosc de la Marquesa nördlich der Platja Llarga. Geschützt, sandig und klares Wasser. Da sie außerhalb der bewachten städtischen Strände liegt, gilt sie bei Einheimischen ganzjährig als die inoffizielle Hundebucht der Stadt.",
+          "descriptionNl": "Een 200 meter lange afgelegen baai, bereikbaar via een wandeling van 20 minuten door het dennenbos Bosc de la Marquesa ten noorden van de Platja Llarga. Beschut, zanderig en helder water. Omdat het buiten de bewaakte stadsstranden ligt, geldt het bij locals het hele jaar als de onofficiële hondenbaai van de stad.",
           "petPolicyDe": "Unbeaufsichtigte Bucht, Hunde ganzjährig willkommen; auf dem Zugangsweg Leinenpflicht",
+          "petPolicyNl": "Onbewaakte baai, honden het hele jaar welkom; op het toegangspad aanlijnplicht",
           "amenitiesDe": "Naturbucht, keine Einrichtungen, geschütztes Schwimmen",
-          "tipDe": "Bringen Sie Schatten, Wasser für den Hund und die Mikrochip-Daten mit - die Stadtpolizei kontrolliert gelegentlich an Juli-Wochenenden"
+          "amenitiesNl": "Natuurlijke baai, geen voorzieningen, beschut zwemmen",
+          "tipDe": "Bringen Sie Schatten, Wasser für den Hund und die Mikrochip-Daten mit - die Stadtpolizei kontrolliert gelegentlich an Juli-Wochenenden",
+          "tipNl": "Neem schaduw, water voor de hond en de microchipgegevens mee, de gemeentepolitie controleert af en toe in juli-weekenden"
         },
         {
           "name": "Bon Caponet (Cala dels Capellans)",
@@ -441,9 +497,13 @@
           "amenitiesPt": "Enseada pequena, sombra natural, sem serviços no local",
           "tipPt": "Melhor antes das 10:30 ou depois das 17:00 em julho e agosto para encontrar espaço no areal",
           "descriptionDe": "Tarragonas erster offiziell ausgewiesener Hundestrand, eine kleine, intime Bucht aus feinem Sand und Kies, umgeben von Bäumen und Felsen, direkt hinter der Cala Romana. Näher an der Stadt als die Cala Fonda und leichter erreichbar; die Bucht füllt sich an Sommerwochenenden schnell.",
+          "descriptionNl": "Het eerste officieel aangewezen hondenstrand van Tarragona, een kleine, intieme baai van fijn zand en kiezels, omgeven door bomen en rotsen, direct achter de Cala Romana. Dichter bij de stad dan de Cala Fonda en gemakkelijker bereikbaar; de baai loopt in de zomerweekenden snel vol.",
           "petPolicyDe": "Ausgewiesener Hundestrand, ganzjährig; auf dem Zugangsweg Leinenpflicht, im Wasser ohne Leine",
+          "petPolicyNl": "Aangewezen hondenstrand, het hele jaar; op het toegangspad aanlijnplicht, in het water zonder lijn",
           "amenitiesDe": "Kleine Bucht, natürlicher Schatten, keine Einrichtungen vor Ort",
-          "tipDe": "Am besten vor 10:30 Uhr oder nach 17:00 Uhr im Juli-August, um noch Platz auf dem Sand zu finden"
+          "amenitiesNl": "Kleine baai, natuurlijke schaduw, geen voorzieningen ter plaatse",
+          "tipDe": "Am besten vor 10:30 Uhr oder nach 17:00 Uhr im Juli-August, um noch Platz auf dem Sand zu finden",
+          "tipNl": "Ga in juli-augustus het beste voor 10:30 uur of na 17:00 uur om nog plek op het zand te vinden"
         }
       ],
       "tipsEn": [
@@ -509,7 +569,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in Tarragona",
+      "titleNl": "Hondvriendelijke stranden in Tarragona",
       "introDe": "Tarragona gehört zu den besseren großen katalanischen Gemeinden für Strandtage mit Hund. Die Stadt betreibt ausgewiesene Hundestrandzonen an der Platja del Miracle und der Platja Llarga, die Bucht Cala Fonda ist seit langem der inoffizielle lokale Favorit für Hunde, und die kleine Bucht Bon Caponet war Tarragonas erster offizieller Hundestrand. Die katalanischen Gesundheitsvorschriften verlangen an jedem bewachten öffentlichen Strand einen Mikrochip, ein aktuelles Impfheft und eine Leine; an den unbeaufsichtigten Buchten lockern sich die Regeln.",
+      "introNl": "Tarragona behoort tot de betere grote Catalaanse gemeentes voor stranddagen met hond. De stad beheert aangewezen hondenstrandzones aan de Platja del Miracle en de Platja Llarga, de baai Cala Fonda is al lang de onofficiële lokale favoriet voor honden, en de kleine baai Bon Caponet was het eerste officiële hondenstrand van Tarragona. De Catalaanse gezondheidsvoorschriften vereisen op elk bewaakt openbaar strand een microchip, een actueel vaccinatieboekje en een lijn; op de onbewaakte baaien versoepelen de regels.",
       "faqsDe": [
         {
           "q": "Sind Hunde an der Platja del Miracle, dem zentralen Stadtstrand, erlaubt?",
@@ -518,6 +580,16 @@
         {
           "q": "Brauche ich eine Genehmigung, um Tarragonas Hundestrände zu nutzen?",
           "a": "Keine förmliche Genehmigung nötig, aber die Stadtpolizei kann Mikrochip, Impfheft und mitgeführten Kotbeutel plus eine kleine Flasche Wasser/verdünnte Seife kontrollieren. Bei Nichteinhaltung droht ein Bußgeld von 100–300 €."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan op de Platja del Miracle, het centrale stadsstrand?",
+          "a": "Ja, alleen binnen het aangewezen hondengedeelte. Het hoofdgedeelte onder toezicht van strandwachten verbiedt honden van juni tot september. Buiten het zomerseizoen versoepelen de regels, en is het grootste deel van het strand toegankelijk voor honden aan de lijn."
+        },
+        {
+          "q": "Heb ik een vergunning nodig om de hondenstranden van Tarragona te gebruiken?",
+          "a": "Geen formele vergunning nodig, maar de gemeentepolitie kan de microchip, het vaccinatieboekje en het meegebrachte poepzakje plus een klein flesje water/verdund zeepwater controleren. Bij niet-naleving dreigt een boete van 100-300 €."
         }
       ]
     },
@@ -552,8 +624,11 @@
           "descriptionPt": "O maior hospital veterinário de referência da província, parte do grupo AniCura, com 500 m² de instalações, mais de 20 especialistas e equipa completa 24/7, 365 dias por ano. Medicina interna, cirurgia de tecidos moles e ortopédica, dermatologia, cardiologia, imagiologia (raio-X, ecografia, TAC) e cuidados intensivos.",
           "tipPt": "Telefone antes de chegar, mesmo às 03:00, pois a equipa da noite prepara a área de triagem e o portão do estacionamento",
           "servicesDe": "24/7-Notfall, Hospitalisierung, Chirurgie, Bildgebung, Facharztkonsultationen",
+          "servicesNl": "24/7-spoeddienst, opname, chirurgie, beeldvorming, specialistenconsulten",
           "descriptionDe": "Das größte Referenztierkrankenhaus der Provinz, Teil der AniCura-Gruppe, mit 500 m² Fläche, über 20 Fachärzten und vollständiger 24/7-Besetzung an 365 Tagen im Jahr. Innere Medizin, Weichteil- und orthopädische Chirurgie, Dermatologie, Kardiologie, Bildgebung (Röntgen, Ultraschall, CT) und eine Intensivstation.",
-          "tipDe": "Rufen Sie auch um 03:00 Uhr vor der Ankunft an - das Nachtteam bereitet die Triage-Box und das Parktor vor"
+          "descriptionNl": "Het grootste referentiedierenziekenhuis van de provincie, onderdeel van de AniCura-groep, met 500 m² oppervlakte, meer dan 20 specialisten en volledige 24/7-bezetting, 365 dagen per jaar. Interne geneeskunde, weke delen- en orthopedische chirurgie, dermatologie, cardiologie, beeldvorming (röntgen, echografie, CT) en een intensive care-afdeling.",
+          "tipDe": "Rufen Sie auch um 03:00 Uhr vor der Ankunft an - das Nachtteam bereitet die Triage-Box und das Parktor vor",
+          "tipNl": "Bel ook om 03:00 uur voor aankomst, het nachtteam bereidt de triagebox en de parkeerpoort voor"
         },
         {
           "name": "Hospital Veterinario Dr. Patino",
@@ -578,8 +653,11 @@
           "descriptionPt": "Uma clínica consolidada de localização central, com horário normal das 08:00 às 20:00 nos dias úteis e das 09:00 às 21:00 aos fins de semana, mas com pessoal auxiliar e instalações de internamento 365 dias por ano para os animais já internados. Útil como primeira clínica de recurso para os visitantes alojados no centro.",
           "tipPt": "Telefone com antecedência para o atendimento fora de horas; para verdadeiras urgências noturnas, encaminham-no para o AniCura Bofarull",
           "servicesDe": "Tagesklinik + Bereitschaftsnotfall, 24h-Hilfspersonal, Hospitalisierung",
+          "servicesNl": "Dagkliniek + spoedwachtdienst, 24-uurs ondersteunend personeel, opname",
           "descriptionDe": "Eine etablierte, zentral gelegene Klinik mit regulären Öffnungszeiten Mo-Fr 08:00–20:00 und Sa-So 09:00–21:00 Uhr, aber Hilfspersonal und Hospitalisierungseinrichtungen an 365 Tagen im Jahr für bereits aufgenommene Tiere. Nützliche erste Anlaufstelle für Besucher, die im Zentrum wohnen.",
-          "tipDe": "Rufen Sie außerhalb der Öffnungszeiten vorher an; bei echten nächtlichen Notfällen werden Sie an AniCura Bofarull verwiesen"
+          "descriptionNl": "Een gevestigde, centraal gelegen kliniek met reguliere openingstijden ma-vr 08:00-20:00 en za-zo 09:00-21:00 uur, maar met ondersteunend personeel en opnamefaciliteiten 365 dagen per jaar voor reeds opgenomen dieren. Handig eerste aanspreekpunt voor bezoekers die in het centrum verblijven.",
+          "tipDe": "Rufen Sie außerhalb der Öffnungszeiten vorher an; bei echten nächtlichen Notfällen werden Sie an AniCura Bofarull verwiesen",
+          "tipNl": "Bel buiten openingstijden van tevoren; bij echte nachtelijke noodgevallen word je doorverwezen naar AniCura Bofarull"
         },
         {
           "name": "COVT Tarragona Emergency Rota (Col·legi Oficial de Veterinaris de Tarragona)",
@@ -604,8 +682,11 @@
           "descriptionPt": "A ordem dos veterinários oficial da província de Tarragona publica uma escala semanal de urgência das clínicas da cidade que cobre as noites e os fins de semana. Útil como recurso quando o AniCura Bofarull fica demasiado longe e é necessária uma opção noturna no centro da cidade.",
           "tipPt": "Consulte o covt.cat com antecedência e capture a escala em vigor; nem todas as clínicas da escala atendem o telefone de imediato",
           "servicesDe": "Referenzinformationen, Nachschlagen der Bereitschaftsrota",
+          "servicesNl": "Referentie-informatie, opzoeken van het wachtdienstrooster",
           "descriptionDe": "Die offizielle Tierärztekammer der Provinz Tarragona veröffentlicht wöchentlich eine Notfall-Rota der Stadtkliniken für Nächte und Wochenenden. Nützlich als Ausweichoption, wenn AniCura Bofarull zu weit entfernt ist und eine zentrale Nachtoption benötigt wird.",
-          "tipDe": "Prüfen Sie covt.cat im Voraus und machen Sie einen Screenshot der aktuellen Rota; nicht alle gelisteten Kliniken sind sofort telefonisch erreichbar"
+          "descriptionNl": "De officiële dierenartsenkamer van de provincie Tarragona publiceert wekelijks een spoedrooster van stadsklinieken voor nachten en weekenden. Handige uitwijkoptie als AniCura Bofarull te ver weg is en er een centrale nachtoptie nodig is.",
+          "tipDe": "Prüfen Sie covt.cat im Voraus und machen Sie einen Screenshot der aktuellen Rota; nicht alle gelisteten Kliniken sind sofort telefonisch erreichbar",
+          "tipNl": "Controleer covt.cat van tevoren en maak een screenshot van het actuele rooster; niet alle vermelde klinieken zijn direct telefonisch bereikbaar"
         }
       ],
       "tipsEn": [
@@ -671,7 +752,9 @@
         }
       ],
       "titleDe": "24/7-Notfalltierärzte in Tarragona",
+      "titleNl": "24/7-spoeddierenartsen in Tarragona",
       "introDe": "Tarragona verfügt über ein vollständiges 24/7-Referenzkrankenhaus im Ballungsraum (AniCura Bofarull in La Canonja, 5 km vom Zentrum entfernt) sowie ein Netzwerk zentraler Kliniken mit erweiterten Notfallzeiten. Der katalanische Tierärzteverband betreibt zudem eine telefonische Notfall-Rota, die außerhalb der regulären Zeiten auf die diensthabende Praxis verweist. Besucher sollten die Nummer von AniCura Bofarull gleich bei der Ankunft im Telefon speichern.",
+      "introNl": "Tarragona beschikt over een volledig 24/7-referentieziekenhuis in het stedelijk gebied (AniCura Bofarull in La Canonja, 5 km van het centrum) plus een netwerk van centrale klinieken met verlengde spoedtijden. De Catalaanse dierenartsenvereniging beheert daarnaast een telefonisch spoedrooster dat buiten reguliere tijden doorverwijst naar de dienstdoende praktijk. Bezoekers doen er goed aan het nummer van AniCura Bofarull meteen bij aankomst in hun telefoon te bewaren.",
       "faqsDe": [
         {
           "q": "Wo ist die nächste vollständige 24/7-Tierklinik vom Stadtzentrum Tarragonas aus?",
@@ -680,6 +763,16 @@
         {
           "q": "Gibt es eine katalanische Notfallhotline für Haustiere?",
           "a": "Ja, das Col·legi Oficial de Veterinaris der Provinz (COVT) betreibt eine telefonische Rota (+34 977 211 989), die außerhalb der regulären Zeiten auf die diensthabende Klinik der Stadt verweist. Der richtige erste Anruf, wenn der reguläre Tierarzt geschlossen hat."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar is de dichtstbijzijnde volledige 24/7-dierenkliniek vanaf het centrum van Tarragona?",
+          "a": "AniCura Bofarull in La Canonja, 5 km ten westen van het centrum, is het enige 365 dagen per jaar geopende 24/7-referentieziekenhuis in het stedelijk gebied. Het Hospital Veterinario Dr. Patino in het centrum van Tarragona heeft verlengde openingstijden, maar verwijst nachtelijke noodgevallen door naar AniCura."
+        },
+        {
+          "q": "Is er een Catalaanse noodhulplijn voor huisdieren?",
+          "a": "Ja, het Col·legi Oficial de Veterinaris van de provincie (COVT) beheert een telefoonrooster (+34 977 211 989) dat buiten reguliere tijden doorverwijst naar de dienstdoende kliniek van de stad. Het juiste eerste telefoontje als de vaste dierenarts gesloten is."
         }
       ]
     },
@@ -800,7 +893,9 @@
         }
       ],
       "titleDe": "Mit Hund unterwegs in Tarragona",
+      "titleNl": "Onderweg met hond in Tarragona",
       "introDe": "Tarragona ist von einem Ende zum anderen zu Fuß erreichbar, und die Part Alta sowie die Rambla Nova decken zusammen die meisten Besucherrouten zu Fuß ab. EMT Tarragona betreibt das städtische Busnetz und folgt der üblichen katalanischen Regel: kleine Hunde in geschlossener Transportbox kostenlos, größere Hunde nach Ermessen des Fahrers außerhalb der Stoßzeiten. Renfe Rodalies de Catalunya verbindet die Stadt mit Barcelona, Sitges und Reus mit einer klaren Hunderichtlinie. AVE/Avlo-Hochgeschwindigkeitszüge ab dem Bahnhof Camp de Tarragona akzeptieren im Rahmen von Renfes landesweitem Pilotprojekt jetzt auch große Hunde bis 40 kg.",
+      "introNl": "Tarragona is van het ene naar het andere eind te belopen, en de Part Alta en de Rambla Nova dekken samen de meeste bezoekersroutes te voet. EMT Tarragona exploiteert het stedelijke busnetwerk en volgt de gebruikelijke Catalaanse regel: kleine honden in een gesloten transportbox gratis, grotere honden naar goeddunken van de bestuurder buiten de spitsuren. Renfe Rodalies de Catalunya verbindt de stad met Barcelona, Sitges en Reus met een duidelijk hondenbeleid. AVE/Avlo-hogesnelheidstreinen vanaf station Camp de Tarragona accepteren nu ook grote honden tot 40 kg, in het kader van Renfes landelijke proefproject.",
       "faqsDe": [
         {
           "q": "Darf ich einen großen Hund im Zug von Tarragona nach Barcelona mitnehmen?",
@@ -809,6 +904,16 @@
         {
           "q": "Wie schneidet Tarragona im Vergleich zu Barcelona beim Hundetransport ab?",
           "a": "Einfacher. Die Regeln für Bus und Bahn sind identisch, aber Tarragona ist viel weniger überlastet, und Sie bekommen fast immer einen Sitzplatz, selbst mit Hund. Der einzige Schwachpunkt ist das Fehlen einer eigenen Metro- oder Straßenbahnlinie."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik een grote hond meenemen in de trein van Tarragona naar Barcelona?",
+          "a": "Ja. De regionale Rodalies-R16-trein accepteert honden tot 40 kg aan de lijn met muilkorf voor 25 procent van de normale ritprijs. De AVE-hogesnelheidstrein vanaf Camp de Tarragona accepteert eveneens grote honden, maar vereist in het kader van Renfes landelijke programma een betaalde naastgelegen zitplaats."
+        },
+        {
+          "q": "Hoe verhoudt Tarragona zich tot Barcelona op het gebied van hondenvervoer?",
+          "a": "Eenvoudiger. De regels voor bus en trein zijn identiek, maar Tarragona is veel minder druk, en je krijgt bijna altijd een zitplaats, zelfs met hond. Het enige zwakke punt is het ontbreken van een eigen metro- of tramlijn."
         }
       ]
     },
@@ -841,8 +946,11 @@
           "petPolicyPt": "Parque exterior + miradouro: cães com trela bem-vindos; ruínas vedadas não acessíveis",
           "tipPt": "O miradouro sobre o mar é o ângulo fotográfico icónico e é de acesso livre com um cão à trela",
           "descriptionDe": "Ein Amphitheater aus dem 2. Jahrhundert n. Chr., in das natürliche Amphitheater der Küste gehauen, mit dem Mittelmeer als Kulisse und einst Platz für 15.000 Zuschauer. Heute in Ruinen, aber sofort erfassbar. Angeleinte Hunde sind auf den umliegenden Parkwegen und dem Aussichtspunkt an der Strandpromenade darüber willkommen; der eingezäunte Innenbereich ist für Hunde ohne Assistenzfunktion gesperrt.",
+          "descriptionNl": "Een amfitheater uit de 2e eeuw n.Chr., uitgehouwen in het natuurlijke amfitheater van de kust, met de Middellandse Zee als decor en ooit plaats voor 15.000 toeschouwers. Tegenwoordig in ruïnes, maar direct herkenbaar. Honden aan de lijn zijn welkom op de omliggende parkpaden en het uitzichtpunt aan de strandpromenade erboven; het omheinde binnengebied is gesloten voor honden zonder assistentiefunctie.",
           "petPolicyDe": "Außenpark + Aussichtspunkt: angeleinte Hunde willkommen; eingezäunte Ruinen nicht zugänglich",
-          "tipDe": "Der Aussichtspunkt an der Strandpromenade ist der ikonische Fotowinkel und mit angeleintem Hund frei zugänglich"
+          "petPolicyNl": "Buitenpark + uitzichtpunt: honden aan de lijn welkom; omheinde ruïnes niet toegankelijk",
+          "tipDe": "Der Aussichtspunkt an der Strandpromenade ist der ikonische Fotowinkel und mit angeleintem Hund frei zugänglich",
+          "tipNl": "Het uitzichtpunt aan de strandpromenade is de iconische foto-invalshoek en vrij toegankelijk met hond aan de lijn"
         },
         {
           "name": "Passeig Arqueològic & Roman Walls",
@@ -865,8 +973,11 @@
           "petPolicyPt": "Passeio ao ar livre, cães com trela bem-vindos",
           "tipPt": "Combine com o Camp de Mart para um único circuito de 1,5 km que cobre todo o perímetro das muralhas romanas",
           "descriptionDe": "Eine 1 km lange schattige Promenade zwischen den inneren römischen Mauern (3. Jahrhundert v. Chr.) und den äußeren Befestigungsanlagen aus dem 18. Jahrhundert, mit Aussichtspunkten, Rasenflächen und alten Wachtürmen. Die gesamte Strecke liegt im Freien und ist an der Leine problemlos begehbar, oft Teil kostenloser Stadtführungen.",
+          "descriptionNl": "Een schaduwrijke promenade van 1 km tussen de binnenste Romeinse muren (3e eeuw v.Chr.) en de buitenste vestingwerken uit de 18e eeuw, met uitzichtpunten, grasvelden en oude wachttorens. Het hele traject ligt buiten en is probleemloos begaanbaar aan de lijn, vaak onderdeel van gratis stadswandelingen.",
           "petPolicyDe": "Freiluftpromenade, angeleinte Hunde willkommen",
-          "tipDe": "Kombiniert mit dem Camp de Mart ergibt sich eine einzige 1,5-km-Runde entlang des gesamten römischen Mauerumfangs"
+          "petPolicyNl": "Buitenpromenade, honden aan de lijn welkom",
+          "tipDe": "Kombiniert mit dem Camp de Mart ergibt sich eine einzige 1,5-km-Runde entlang des gesamten römischen Mauerumfangs",
+          "tipNl": "Gecombineerd met de Camp de Mart ontstaat één rondje van 1,5 km langs de hele Romeinse muur"
         },
         {
           "name": "Balcó del Mediterrani",
@@ -889,8 +1000,11 @@
           "petPolicyPt": "Miradouro público aberto, cães com trela bem-vindos 24h",
           "tipPt": "A superstição catalã diz que tocar no gradeamento de ferro (tocar ferro) dá sorte; faça-o com o cão ao seu lado à hora dourada",
           "descriptionDe": "Der markante Aussichtsbalkon mit schmiedeeisernem Geländer am östlichen Ende der Rambla Nova, mit Blick auf das Mittelmeer, das römische Amphitheater und die lange Kurve der Platja del Miracle. Der meistfotografierte Aussichtspunkt der Stadt und ein tägliches Ritual für Einheimische, die bei Sonnenuntergang mit ihrem Hund spazieren gehen.",
+          "descriptionNl": "Het opvallende uitzichtbalkon met smeedijzeren leuning aan het oostelijke uiteinde van de Rambla Nova, met uitzicht op de Middellandse Zee, het Romeinse amfitheater en de lange bocht van de Platja del Miracle. Het meest gefotografeerde uitzichtpunt van de stad en een dagelijks ritueel voor locals die bij zonsondergang met hun hond wandelen.",
           "petPolicyDe": "Öffentlicher Aussichtspunkt, angeleinte Hunde rund um die Uhr willkommen",
-          "tipDe": "Katalanischer Aberglaube besagt, dass das Berühren des Eisengeländers (tocar ferro) Glück bringt; tun Sie es mit dem Hund an Ihrer Seite zur goldenen Stunde"
+          "petPolicyNl": "Openbaar uitzichtpunt, honden aan de lijn dag en nacht welkom",
+          "tipDe": "Katalanischer Aberglaube besagt, dass das Berühren des Eisengeländers (tocar ferro) Glück bringt; tun Sie es mit dem Hund an Ihrer Seite zur goldenen Stunde",
+          "tipNl": "Catalaans bijgeloof zegt dat het aanraken van de ijzeren leuning (tocar ferro) geluk brengt; doe het met je hond aan je zijde tijdens het gouden uur"
         }
       ],
       "tipsEn": [
@@ -956,7 +1070,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten & Spaziergänge in Tarragona",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden & wandelingen in Tarragona",
       "introDe": "Tarragonas UNESCO-gelistetes archäologisches Ensemble von Tarraco ist von A bis Z ein Freiluftdenkmal: Mauern, Amphitheater, Zirkus, Forum und der berühmte Balcó del Mediterrani liegen alle im Freien und sind an der Leine begehbar. Das römische Amphitheater, vom Meer gerahmt, ist einer der fotogensten Hundespaziergänge Kataloniens. Wie in Spanien üblich lassen Museums- und Kathedraleninnenräume keine Hunde ohne Assistenzfunktion zu, aber jede römische Freiluftstätte schon.",
+      "introNl": "Het door UNESCO erkende archeologische ensemble Tarraco van Tarragona is van begin tot eind een openluchtmonument: muren, amfitheater, circus, forum en het beroemde Balcó del Mediterrani liggen allemaal buiten en zijn begaanbaar aan de lijn. Het Romeinse amfitheater, omlijst door de zee, is een van de meest fotogenieke hondenwandelingen van Catalonië. Zoals gebruikelijk in Spanje laten museum- en kathedraalinterieurs geen honden zonder assistentiefunctie toe, maar elke Romeinse openluchtplek wel.",
       "faqsDe": [
         {
           "q": "Sind Hunde in der Kathedrale von Tarragona erlaubt?",
@@ -965,6 +1081,16 @@
         {
           "q": "Darf ich meinen Hund entlang der Rambla Nova ausführen?",
           "a": "Ja. Die Rambla Nova ist an der Leine vollständig haustierfreundlich; Bänke unter den Platanen spenden Schatten, und die Route endet am Balcó del Mediterrani mit dem berühmten Sonnenuntergangsblick der Stadt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in de kathedraal van Tarragona?",
+          "a": "Nee. Het interieur van de kathedraal volgt de landelijke Spaanse regel voor kerken en musea en laat alleen gecertificeerde assistentiehonden toe. De binnenplaats van de kloostergang en het plein ervoor zijn toegankelijk voor honden aan de lijn."
+        },
+        {
+          "q": "Mag ik mijn hond uitlaten langs de Rambla Nova?",
+          "a": "Ja. De Rambla Nova is aan de lijn volledig huisdiervriendelijk; bankjes onder de platanen bieden schaduw, en de route eindigt bij het Balcó del Mediterrani met het beroemde zonsondergangsuitzicht van de stad."
         }
       ]
     },
@@ -1038,7 +1164,9 @@
         }
       ],
       "titleDe": "Wichtige Tipps für Reisende mit Haustier in Tarragona",
+      "titleNl": "Belangrijke tips voor reizigers met huisdier in Tarragona",
       "introDe": "Tarragona ist eine kompakte, zu Fuß erkundbare Mittelmeerstadt mit strenger katalanischer Tierschutzregulierung. Die wichtigsten Punkte für Besucher: kurze Leine (≤2 m), Mikrochip und Impfheft immer dabei, Urin-Abspülset (kleine Flasche Wasser/verdünnte Seife) bei sich, und ein klarer Plan für die heißen Nachmittage im Juli-August, wenn die Oberflächentemperatur auf dem römischen Lavapflaster 45 °C erreicht.",
+      "introNl": "Tarragona is een compacte, te voet te verkennen Middellandse Zeestad met strenge Catalaanse dierenwelzijnsregelgeving. De belangrijkste punten voor bezoekers: korte lijn (max 2 m), microchip en vaccinatieboekje altijd bij je, een urine-afspoelsetje (klein flesje water/verdund zeepwater) bij je, en een duidelijk plan voor de hete middagen in juli-augustus, wanneer de oppervlaktetemperatuur op de Romeinse lavastenen 45 °C bereikt.",
       "faqsDe": [
         {
           "q": "Gibt es eine katalanische Liste eingeschränkter Hunderassen?",
@@ -1047,6 +1175,16 @@
         {
           "q": "Beste Reisezeit für einen Besuch in Tarragona mit Hund?",
           "a": "Mai, Juni und Ende September sind ideal. Das Meer ist zum Schwimmen geeignet, die römischen Ruinen sind ohne Probleme mit heißen Oberflächen begehbar, und die Stadt ist noch nicht in der Hochsaison-Dichte. Vermeiden Sie die ersten drei Augustwochen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Bestaat er een Catalaanse lijst van beperkte hondenrassen?",
+          "a": "Ja. Decreet 170/2002 vermeldt acht als potentieel gevaarlijk ingedeelde rassen (pitbull, Rottweiler, Tosa Inu, Akita Inu, Staffordshire bullterriër, American Staffordshire, Dogo Argentino, Fila Brasileiro). Hiervoor zijn een vergunning, een muilkorf, een lijn van max 2 m en een eigenaar ouder dan 18 jaar vereist."
+        },
+        {
+          "q": "Beste reistijd voor een bezoek aan Tarragona met hond?",
+          "a": "Mei, juni en eind september zijn ideaal. De zee is geschikt om te zwemmen, de Romeinse ruïnes zijn probleemloos begaanbaar zonder hete oppervlaktes, en de stad zit nog niet in de hoogseizoendrukte. Vermijd de eerste drie weken van augustus."
         }
       ]
     },
@@ -1078,7 +1216,9 @@
           "descriptionPt": "A maior plataforma de cuidadores de animais de Espanha, com cuidadores ativos em Tarragona que oferecem alojamento, passeios de cães, creche e visitas ao domicílio. Seguro, apoio veterinário e encontros prévios incluídos em cada reserva.",
           "tipPt": "Filtre por 'Possui certificado de primeiros socorros veterinários' se tiver um cão mais velho ou dependente de medicação",
           "descriptionDe": "Die größte Plattform für Haustierbetreuung in Spanien, mit aktiven Betreuern in Tarragona, die Unterbringung, Gassi-Service, Tagesbetreuung und Hausbesuche anbieten. Versicherung, tierärztlicher Support und Kennenlerntreffen sind in jeder Buchung enthalten.",
-          "tipDe": "Filtern Sie nach 'Verfügt über ein tierärztliches Erste-Hilfe-Zertifikat', wenn Sie einen älteren oder medikamentenabhängigen Hund haben"
+          "descriptionNl": "Het grootste platform voor huisdieroppas in Spanje, met actieve oppassers in Tarragona die logeeropvang, uitlaatservice, dagopvang en huisbezoeken aanbieden. Verzekering, dierenartssupport en een kennismakingsgesprek zijn bij elke boeking inbegrepen.",
+          "tipDe": "Filtern Sie nach 'Verfügt über ein tierärztliches Erste-Hilfe-Zertifikat', wenn Sie einen älteren oder medikamentenabhängigen Hund haben",
+          "tipNl": "Filter op 'Beschikt over een eerstehulpcertificaat voor dieren' als je een oudere hond hebt of een hond die medicatie nodig heeft"
         },
         {
           "name": "Gudog",
@@ -1100,7 +1240,9 @@
           "descriptionPt": "Uma plataforma de cuidadores de animais focada no espanhol/catalão, anterior à Rover em Espanha, com perfis de cuidadores detalhados e encontros prévios gratuitos em Tarragona e nas próximas Reus e Salou.",
           "tipPt": "Vários cuidadores da Gudog em Tarragona vivem em apartamentos acima do piso térreo, por isso pergunte explicitamente por um jardim exterior privado se o seu cão precisar de saídas frequentes ao jardim",
           "descriptionDe": "Eine spanisch-katalanisch geprägte Plattform für Haustierbetreuung, die in Spanien vor Rover existierte, mit ausführlichen Betreuerprofilen und kostenlosen Kennenlerntreffen in Tarragona und im nahegelegenen Reus und Salou.",
-          "tipDe": "Mehrere Gudog-Betreuer in Tarragona wohnen in Wohnungen über dem Erdgeschoss; fragen Sie ausdrücklich nach einem privaten Außengarten, wenn Ihr Hund häufige Gartenpausen braucht"
+          "descriptionNl": "Een Spaans-Catalaans getint platform voor huisdieroppas dat in Spanje al bestond vóór Rover, met uitgebreide oppasprofielen en gratis kennismakingsgesprekken in Tarragona en het nabijgelegen Reus en Salou.",
+          "tipDe": "Mehrere Gudog-Betreuer in Tarragona wohnen in Wohnungen über dem Erdgeschoss; fragen Sie ausdrücklich nach einem privaten Außengarten, wenn Ihr Hund häufige Gartenpausen braucht",
+          "tipNl": "Meerdere Gudog-oppassers in Tarragona wonen in appartementen boven de begane grond; vraag expliciet naar een privétuin buiten als je hond regelmatig tuinpauzes nodig heeft"
         },
         {
           "name": "TrustedHousesitters",
@@ -1121,7 +1263,9 @@
           "descriptionPt": "Intercâmbio de cuidados de casa e de animais, com um punhado de perfis verificados em Tarragona e na Costa Daurada. Os cuidadores ficam no seu alojamento em troca de cuidar do seu animal; a plataforma cobra uma adesão anual em vez de taxas por estadia.",
           "tipPt": "Melhor para estadias de 4 ou mais noites e apartamentos com cozinha; abaixo disso, os cuidadores freelance por noite costumam compensar mais nas contas",
           "descriptionDe": "Haus- und Haustiersitting-Austausch mit einer Handvoll verifizierter Profile in Tarragona und der Costa Daurada. Betreuer wohnen in Ihrer Unterkunft im Austausch für die Betreuung Ihres Haustiers; die Plattform berechnet eine Jahresmitgliedschaft statt Gebühren pro Aufenthalt.",
-          "tipDe": "Am besten für Aufenthalte ab 4 Nächten und Ferienwohnungen mit Selbstverpflegung; darunter rechnen sich meist freiberufliche Betreuer pro Nacht besser"
+          "descriptionNl": "Huis- en huisdieroppasruil met een handvol geverifieerde profielen in Tarragona en de Costa Daurada. Oppassers verblijven in jouw woning in ruil voor het verzorgen van je huisdier; het platform rekent een jaarlijks lidmaatschap in plaats van kosten per verblijf.",
+          "tipDe": "Am besten für Aufenthalte ab 4 Nächten und Ferienwohnungen mit Selbstverpflegung; darunter rechnen sich meist freiberufliche Betreuer pro Nacht besser",
+          "tipNl": "Het beste voor verblijven vanaf 4 nachten en vakantiewoningen met zelfverzorging; daaronder zijn zelfstandige oppassers per nacht meestal voordeliger"
         }
       ],
       "tipsEn": [
@@ -1187,7 +1331,9 @@
         }
       ],
       "titleDe": "Hundesitter & Gassigeher in Tarragona",
+      "titleNl": "Hondenoppas & uitlaters in Tarragona",
       "introDe": "Tarragona hat eine stabile Szene freiberuflicher Haustierbetreuer mit rund 20 aktiven Sittern und Gassigehern auf Rover, Pawshake und Gudog (dem katalanisch-spanischen Pendant), dazu eine Handvoll TrustedHousesitters-Profile für längere Aufenthalte. Die Durchschnittspreise Anfang 2026 liegen bei 14–18 € pro Nacht für die Unterbringung zu Hause und 10–13 € pro Spaziergang. Die meisten Betreuer sprechen Katalanisch und Spanisch; Englisch ist verbreitet, Französisch und Italienisch seltener.",
+      "introNl": "Tarragona heeft een stabiele scene van zelfstandige huisdieroppassers, met zo'n 20 actieve oppassers en uitlaters op Rover, Pawshake en Gudog (het Catalaans-Spaanse equivalent), plus een handvol TrustedHousesitters-profielen voor langere verblijven. De gemiddelde prijzen begin 2026 liggen op 14-18 € per nacht voor logeeropvang thuis en 10-13 € per wandeling. De meeste oppassers spreken Catalaans en Spaans; Engels is gangbaar, Frans en Italiaans minder vaak.",
       "faqsDe": [
         {
           "q": "Wie viel sollte ich für einen Hundesitter in Tarragona einplanen?",
@@ -1196,6 +1342,16 @@
         {
           "q": "Sind Betreuer in Tarragona versichert?",
           "a": "Über Rover, Gudog und TrustedHousesitters gebuchte Betreuer profitieren von der Haftpflichtversicherung und dem Kundensupport der jeweiligen Plattform. Direkte freiberufliche Buchungen (z. B. über Facebook oder Wallapop) sind standardmäßig nicht versichert."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel moet ik rekenen voor een hondenoppas in Tarragona?",
+          "a": "Reken op 14-18 € per nacht voor logeeropvang thuis en 10-13 € per wandeling op Rover en Gudog. Dagopvang kost 20-28 € per dag, en de prijzen stijgen met Pasen, de augustusvakantie en Kerstmis met 20-30 procent."
+        },
+        {
+          "q": "Zijn oppassers in Tarragona verzekerd?",
+          "a": "Oppassers geboekt via Rover, Gudog en TrustedHousesitters profiteren van de aansprakelijkheidsverzekering en klantensupport van het betreffende platform. Directe zelfstandige boekingen (bijvoorbeeld via Facebook of Wallapop) zijn standaard niet verzekerd."
         }
       ]
     }

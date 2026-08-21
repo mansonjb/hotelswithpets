@@ -15,6 +15,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   es: { label: 'Hoteles cat-friendly en Europa', cta: 'Ver hoteles' },
   pt: { label: 'Hotéis cat-friendly na Europa', cta: 'Ver hotéis' },
   de: { label: 'Katzenfreundliche Hotels in Europa', cta: 'Hotels ansehen' },
+  nl: { label: 'Kattenvriendelijke hotels in Europa', cta: 'Bekijk hotels' },
 }
 
 export async function generateStaticParams() {
@@ -35,6 +36,7 @@ export async function generateMetadata({
     es: `Viajar con tu gato en Europa: guía completa (tren, avión, hoteles) 2026`,
     pt: `Viajar com o seu gato na Europa: guia completo (comboio, avião, hotéis) 2026`,
     de: `Mit der Katze durch Europa reisen: der komplette Ratgeber (Zug, Flug, Hotels) 2026`,
+    nl: `Reizen met je kat door Europa: complete gids (trein, vlucht, hotels) 2026`,
   }
   const descriptions: Record<string, string> = {
     en: `The complete guide to travelling Europe with a cat: EU pet passport, IATA cabin carriers, train policies per country, anti-stress protocol, and 6 European cities with genuinely cat-friendly hotels (verified, not just pet-friendly).`,
@@ -42,6 +44,7 @@ export async function generateMetadata({
     es: `La guía completa para viajar por Europa con tu gato: pasaporte UE, transportines IATA, políticas de tren por país, protocolo anti-estrés, y 6 ciudades europeas con hoteles realmente cat-friendly (verificados, no solo "pet-friendly").`,
     pt: `O guia completo para viajar pela Europa com o seu gato: passaporte UE, transportadoras IATA, políticas de comboio por país, protocolo anti-stress, e 6 cidades europeias com hotéis verdadeiramente cat-friendly (verificados, não apenas "pet-friendly").`,
     de: `Der komplette Ratgeber für Reisen durch Europa mit Katze: EU-Heimtierausweis, IATA-Kabinentransportboxen, Zugrichtlinien je Land, Anti-Stress-Protokoll, und 6 europäische Städte mit wirklich katzenfreundlichen Hotels (verifiziert, nicht nur "haustierfreundlich").`,
+    nl: `De complete gids voor reizen door Europa met je kat: EU-dierenpaspoort, IATA-kattenmanden voor de cabine, treinregels per land, anti-stressprotocol, en 6 Europese steden met écht katvriendelijke hotels (geverifieerd, niet zomaar "huisdiervriendelijk").`,
   }
   return {
     title: titles[locale] ?? titles.en,
@@ -54,6 +57,7 @@ export async function generateMetadata({
         es: `${SITE_URL}/es/guides/${SLUG}`,
         pt: `${SITE_URL}/pt/guides/${SLUG}`,
         de: `${SITE_URL}/de/guides/${SLUG}`,
+        nl: `${SITE_URL}/nl/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },
@@ -77,12 +81,14 @@ type Pick = {
   whyEs: string
   whyPt: string
   whyDe?: string
+  whyNl?: string
   hotelName: string
   hotelEn: string
   hotelFr: string
   hotelEs: string
   hotelPt: string
   hotelDe?: string
+  hotelNl?: string
 }
 
 const PICKS: Pick[] = [
@@ -96,12 +102,14 @@ const PICKS: Pick[] = [
     whyEs: `París tiene la densidad de hoteles cat-friendly más alta de Europa y una larga cultura café que admite discretamente a un gato tranquilo en bolsa blanda. El cementerio del Père-Lachaise es una colonia de gatos famosa (300+ gatos alimentados por voluntarios de la ciudad), el Café des Chats y Le Café des Chats permiten visitar gatos mientras viajas con el tuyo, y la mayoría de hoteles boutique tienen mosquiteras que evitan el escenario "gato-por-la-ventana".`,
     whyPt: `Paris tem a densidade de hotéis cat-friendly mais alta da Europa e uma longa cultura café que aceita discretamente um gato calmo num saco mole. O cemitério do Père-Lachaise é uma colónia de gatos famosa (300+ gatos alimentados por voluntários da cidade), o Café des Chats e Le Café des Chats permitem visitar gatos enquanto viaja com o seu, e a maioria dos hotéis boutique tem redes mosquiteiras que evitam o cenário "gato-pela-janela".`,
     whyDe: `Paris hat die dichteste katzenfreundliche Hotellandschaft Europas und eine lange Café-Kultur, die eine ruhige Katze in einer weichen Transportbox diskret willkommen heißt. Der Friedhof Père-Lachaise ist eine bekannte Straßenkatzen-Kolonie (300+ Katzen, gefüttert von städtischen Freiwilligen), das Café des Chats und Le Café des Chats erlauben Ihnen, Katzen zu besuchen, während Sie mit Ihrer eigenen reisen, und die meisten Boutique-Hotels haben Fenstergitter, die das gefürchtete Szenario "Katze-aus-dem-Fenster" verhindern.`,
+    whyNl: `Parijs heeft het dichtste aanbod katvriendelijke hotels van Europa en een lange cafécultuur die een rustige kat in een zachte mand stilletjes verwelkomt. Het kerkhof Père-Lachaise is een bekende kattenkolonie (300+ katten, gevoed door vrijwilligers van de stad), het Café des Chats en Le Café des Chats laten je katten bezoeken terwijl je met je eigen kat reist, en de meeste boetiekhotels hebben horren die het gevreesde scenario "kat-uit-het-raam" voorkomen.`,
     hotelName: 'Hôtel Particulier Montmartre',
     hotelEn: `Boutique 5-star tucked into a private garden in Montmartre, cats explicitly welcomed (the resident hotel cat is well known). Window screens on all rooms, no balcony access, quiet residential street with zero traffic noise.`,
     hotelFr: `Boutique 5 étoiles dans un jardin privé à Montmartre, chats explicitement bienvenus (la chatte résidente de l'hôtel est célèbre). Moustiquaires sur toutes les chambres, pas d'accès balcon, rue résidentielle calme sans bruit de circulation.`,
     hotelEs: `Boutique 5 estrellas en un jardín privado en Montmartre, gatos explícitamente bienvenidos (la gata residente del hotel es muy conocida). Mosquiteras en todas las habitaciones, sin acceso a balcón, calle residencial tranquila sin ruido de tráfico.`,
     hotelPt: `Boutique 5 estrelas num jardim privado em Montmartre, gatos explicitamente bem-vindos (a gata residente do hotel é famosa). Redes mosquiteiras em todos os quartos, sem acesso a varanda, rua residencial calma sem barulho de tráfego.`,
     hotelDe: `Boutique-5-Sterne-Hotel in einem privaten Garten in Montmartre, Katzen ausdrücklich willkommen (die hoteleigene Katze ist wohlbekannt). Fenstergitter in allen Zimmern, kein Balkonzugang, ruhige Wohnstraße ohne Verkehrslärm.`,
+    hotelNl: `Boetiek 5-sterrenhotel verscholen in een privétuin in Montmartre, katten zijn expliciet welkom (de huiskat van het hotel is bekend). Horren in alle kamers, geen toegang tot een balkon, rustige woonstraat zonder verkeerslawaai.`,
   },
   {
     slug: 'rome',
@@ -113,12 +121,14 @@ const PICKS: Pick[] = [
     whyEs: `Roma es una de las ciudades europeas más tolerantes con gatos por ley: los gatos callejeros tienen el estatus oficial de "patrimonio biocultural". El santuario de gatos del Largo di Torre Argentina (donde fue asesinado Julio César) alberga 130+ gatos y admite visitantes. Los hoteles italianos suelen aceptar gatos - la palabra italiana para estancia (soggiorno) incluía históricamente un pequeño suplemento por "el gato que viaja con la familia".`,
     whyPt: `Roma é uma das cidades europeias mais tolerantes com gatos por lei: os gatos vadios têm o estatuto oficial de "património biocultural". O santuário dos gatos do Largo di Torre Argentina (onde Júlio César foi assassinado) abriga 130+ gatos e aceita visitantes. Os hotéis italianos costumam aceitar gatos - a palavra italiana para estadia (soggiorno) incluía historicamente uma pequena taxa por "o gato que viaja com a família".`,
     whyDe: `Rom ist per Gesetz eine der katzenfreundlichsten Städte Europas: Straßenkatzen haben offiziell den Status "biokulturelles Erbe". Das Katzenschutzgebiet Largo di Torre Argentina (wo Julius Cäsar ermordet wurde) beherbergt 130+ Katzen und heißt Besucher willkommen. Italienische Hotels akzeptieren Katzen in der Regel - das italienische Wort für Aufenthalt (soggiorno) beinhaltete historisch einen kleinen Aufschlag für "die Katze, die mit der Familie reist".`,
+    whyNl: `Rome is wettelijk een van de meest katvriendelijke steden van Europa: zwerfkatten hebben officieel de status "biocultureel erfgoed". Het kattenasiel Largo di Torre Argentina (waar Julius Caesar werd vermoord) huisvest 130+ katten en verwelkomt bezoekers. Italiaanse hotels accepteren doorgaans katten, het Italiaanse woord voor verblijf (soggiorno) omvatte historisch een klein toeslagje voor "de kat die met het gezin meereist".`,
     hotelName: 'Portrait Roma',
     hotelEn: `Lungarno Collection 5-star on Via Bocca di Leone, cats welcomed in suites (mid fee). Heavy curtains and triple-glazed windows mean a quiet nest for an anxious traveller, the rooftop terrace is humans-only but the suite balconies have netting on request.`,
     hotelFr: `5 étoiles Lungarno Collection sur la Via Bocca di Leone, chats acceptés en suites (supplément modéré). Rideaux épais et triple vitrage = nid calme pour un voyageur anxieux, la terrasse rooftop est humaine uniquement mais les balcons des suites ont des filets sur demande.`,
     hotelEs: `5 estrellas Lungarno Collection en Via Bocca di Leone, gatos admitidos en suites (suplemento moderado). Cortinas gruesas y triple acristalamiento = nido tranquilo para viajero ansioso, la terraza es solo humanos pero los balcones de las suites tienen redes a petición.`,
     hotelPt: `5 estrelas Lungarno Collection na Via Bocca di Leone, gatos aceites em suítes (taxa moderada). Cortinas pesadas e vidro triplo = ninho calmo para viajante ansioso, o terraço é só humanos mas as varandas das suítes têm redes a pedido.`,
     hotelDe: `5-Sterne-Haus der Lungarno Collection in der Via Bocca di Leone, Katzen in Suiten willkommen (mittlerer Aufpreis). Schwere Vorhänge und dreifach verglaste Fenster bedeuten ein ruhiges Nest für einen ängstlichen Reisenden, die Dachterrasse ist nur für Menschen, aber die Suiten-Balkone haben auf Anfrage Netze.`,
+    hotelNl: `5-sterrenhotel van de Lungarno Collection aan de Via Bocca di Leone, katten welkom in suites (gemiddelde toeslag). Zware gordijnen en driedubbel glas betekenen een rustig nestje voor een gestreste reiziger, het dakterras is alleen voor mensen, maar de suitebalkons hebben op verzoek gaas.`,
   },
   {
     slug: 'amsterdam',
@@ -130,12 +140,14 @@ const PICKS: Pick[] = [
     whyEs: `Hogar del famoso Poezenboot (el barco-gatos) - un santuario flotante en el canal Singel, abierto a visitantes con su propio gato en transportín. Los hoteles holandeses lideran Europa en infraestructura gatuna: mosquiteras, rascadores a petición, y fuentes de agua en alquiler. El transporte público (metro y tranvías GVB) admite gatos en transportín gratis.`,
     whyPt: `Lar do famoso Poezenboot (o barco-gatos) - um santuário flutuante no canal Singel, aberto a visitantes com o seu próprio gato em transportadora. Os hotéis holandeses lideram a Europa em infraestrutura felina: redes mosquiteiras, arranhadores a pedido, e fontes de água em aluguer. Os transportes públicos (metro e elétricos GVB) aceitam gatos em transportadora gratuitamente.`,
     whyDe: `Heimat des weltberühmten Poezenboot (Katzenboot) - ein schwimmendes Refugium am Singel-Kanal, offen für Besucher mit der eigenen Katze in der Transportbox. Niederländische Hotels führen Europa bei der Katzeninfrastruktur an: Fenstergitter, Kratzbäume auf Anfrage, und Trinkbrunnen zum Mieten. Öffentliche Verkehrsmittel (GVB-Metro und -Trams) nehmen Katzen in der Transportbox kostenlos mit.`,
+    whyNl: `Thuisbasis van de wereldberoemde Poezenboot, een drijvend toevluchtsoord aan de Singel, open voor bezoekers met hun eigen kat in een mand. Nederlandse hotels lopen voorop in Europa op het gebied van kattenvoorzieningen: horren, krabpalen op verzoek en waterfonteintjes te huur. Het openbaar vervoer (GVB-metro en trams) neemt katten in een mand gratis mee.`,
     hotelName: 'Pulitzer Amsterdam',
     hotelEn: `5-star spread across 25 connected 17th-century canal houses on the Prinsengracht. Cats welcomed (small fee), the canal-side rooms have window-screens, and the inner garden courtyard is a calm spot for a curious leashed cat to take in 30 min of outdoor stimulation.`,
     hotelFr: `5 étoiles répartis sur 25 maisons de canal du XVIIᵉ reliées sur le Prinsengracht. Chats acceptés (petit supplément), les chambres côté canal ont des moustiquaires, et la cour-jardin intérieure est un spot calme pour 30 min de stimulation extérieure avec chat en laisse.`,
     hotelEs: `5 estrellas repartidos en 25 casas-canal del siglo XVII conectadas en el Prinsengracht. Gatos admitidos (pequeño suplemento), las habitaciones lado canal tienen mosquiteras, y el patio-jardín interior es un sitio tranquilo para 30 min de estimulación exterior con gato con arnés.`,
     hotelPt: `5 estrelas distribuídos por 25 casas-canal do século XVII conectadas no Prinsengracht. Gatos aceites (pequena taxa), os quartos lado canal têm redes mosquiteiras, e o pátio-jardim interior é um sítio calmo para 30 min de estimulação exterior com gato com peitoral.`,
     hotelDe: `5-Sterne-Hotel verteilt auf 25 verbundene Grachtenhäuser aus dem 17. Jahrhundert am Prinsengracht. Katzen willkommen (kleiner Aufpreis), die Zimmer zur Gracht haben Fenstergitter, und der Innenhof-Garten ist ein ruhiger Ort für 30 Minuten Außenreize mit angeleinter Katze.`,
+    hotelNl: `5-sterrenhotel verspreid over 25 verbonden 17e-eeuwse grachtenpanden aan de Prinsengracht. Katten welkom (kleine toeslag), de kamers aan de gracht hebben horren, en de binnentuin is een rustige plek voor 30 minuten buitenprikkels met een aangelijnde kat.`,
   },
   {
     slug: 'vienna',
@@ -147,12 +159,14 @@ const PICKS: Pick[] = [
     whyEs: `La cultura del café vienés es la más tolerante con gatos de Europa: un gato tranquilo en bolsa blanda a tus pies, pidiendo un melange, es tradición habsbúrgica desde 1750. La mayoría de hoteles centrales son edificios históricos de planta baja con muros gruesos (bajo estrés sonoro), y el transporte público Wiener Linien admite gatos en transportín gratis todo el año. Inviernos fríos = temporada ideal para gato de interior.`,
     whyPt: `A cultura do café vienense é a mais tolerante com gatos da Europa: um gato calmo num saco mole aos seus pés, a pedir um melange, é tradição habsbúrgica desde 1750. A maioria dos hotéis centrais são edifícios históricos no rés-do-chão com paredes espessas (baixo stress sonoro), e o transporte público Wiener Linien aceita gatos em sacos gratuitamente todo o ano. Invernos frios = época ideal para gato de interior.`,
     whyDe: `Die Wiener Kaffeehauskultur ist die katzentoleranteste Europas: eine ruhige Katze in einer weichen Transportbox zu Ihren Füßen, während Sie einen Melange bestellen, ist Habsburger Tradition seit 1750. Die meisten zentralen Hotels sind ruhige Altbauten im Erdgeschoss mit dicken Wänden (geringer Lärmstress), und die Wiener Linien nehmen Katzen in der Transportbox das ganze Jahr kostenlos mit. Kalte Winter bedeuten eine geeignete Saison für eine Wohnungskatze.`,
+    whyNl: `De Weense koffiehuiscultuur is de meest katvriendelijke van Europa: een rustige kat in een zachte mand aan je voeten terwijl je een melange bestelt, is een traditie uit de Habsburgse tijd sinds 1750. De meeste centrale hotels zijn rustige historische panden op de begane grond met dikke muren (weinig geluidsstress), en het openbaar vervoer van Wiener Linien neemt het hele jaar door gratis katten in een mand mee. Koude winters zijn een goed seizoen voor een binnenkat.`,
     hotelName: 'Hotel Imperial, a Luxury Collection Hotel',
     hotelEn: `5-star Habsburg palace on the Ringstrasse. Cats welcomed in classic rooms (mid fee), in-room minibar can be replaced by a cat-stocked basket on request, and the lobby tolerates a carrier-bound cat while you check in.`,
     hotelFr: `Palace 5 étoiles habsbourgeois sur le Ringstrasse. Chats acceptés en chambres classiques (supplément modéré), le minibar de la chambre peut être remplacé par un panier de fournitures chat sur demande, et le lobby tolère un chat en sac pendant le check-in.`,
     hotelEs: `Palacio 5 estrellas habsbúrgico en la Ringstrasse. Gatos admitidos en habitaciones clásicas (suplemento moderado), el minibar de la habitación puede sustituirse por una cesta de suministros para gato a petición, y el lobby tolera un gato en transportín durante el check-in.`,
     hotelPt: `Palace 5 estrelas habsbúrgico na Ringstrasse. Gatos aceites em quartos clássicos (taxa moderada), o minibar do quarto pode ser substituído por um cesto de produtos para gato a pedido, e o lobby tolera um gato em transportadora durante o check-in.`,
     hotelDe: `5-Sterne-Habsburger-Palais an der Ringstraße. Katzen in klassischen Zimmern willkommen (mittlerer Aufpreis), die Minibar im Zimmer kann auf Anfrage durch einen Katzenkorb ersetzt werden, und die Lobby toleriert eine Katze in der Transportbox während des Check-ins.`,
+    hotelNl: `5-sterren Habsburgs paleis aan de Ringstrasse. Katten welkom in klassieke kamers (gemiddelde toeslag), de minibar in de kamer kan op verzoek vervangen worden door een mand met kattenspullen, en de lobby staat een kat in een mand toe tijdens het inchecken.`,
   },
   {
     slug: 'lisbon',
@@ -164,12 +178,14 @@ const PICKS: Pick[] = [
     whyEs: `Clima atlántico suave todo el año (raramente bajo 9°C o sobre 28°C) conviene a un gato que detesta los extremos. Lisboa acoge el santuario Refúgio dos Gatos en Belém, y el barrio de Alfama tiene colonias de gatos callejeros alimentadas por los vecinos. Los hoteles portugueses son fiablemente cat-tolerantes; el Tranvía Carris 28 es famoso por sus gatos tumbados en los alféizares de Alfama.`,
     whyPt: `Clima atlântico ameno todo o ano (raramente abaixo dos 9°C ou acima dos 28°C) convém a um gato que detesta extremos. Lisboa acolhe o santuário Refúgio dos Gatos em Belém, e o bairro de Alfama tem colónias de gatos de rua alimentadas pelos vizinhos. Os hotéis portugueses são fiavelmente cat-tolerantes; o Elétrico Carris 28 é famoso pelos seus gatos deitados nos parapeitos de Alfama.`,
     whyDe: `Mildes atlantisches Klima das ganze Jahr über (selten unter 9°C oder über 28°C) passt zu einer Katze, die Extreme hasst. Lissabon beherbergt das Katzenschutzgebiet Refúgio dos Gatos in Belém, und das Alfama-Viertel hat Straßenkatzen-Kolonien, die von Nachbarn gefüttert werden. Portugiesische Hotels sind zuverlässig katzentolerant; die Straßenbahn Carris 28 ist berühmt für Katzen, die auf den Fensterbänken der Alfama liegen.`,
+    whyNl: `Mild Atlantisch klimaat het hele jaar door (zelden onder 9°C of boven 28°C) past bij een kat die extremen haat. Lissabon huisvest het opvangcentrum Refúgio dos Gatos in Belém, en de wijk Alfama heeft zwerfkattenkolonies die door buren worden gevoerd. Portugese hotels zijn betrouwbaar katvriendelijk; de tramlijn Carris 28 staat bekend als een echte kattenspotter, met katten die op de vensterbanken van Alfama liggen.`,
     hotelName: 'Memmo Alfama',
     hotelEn: `Boutique 5-star carved into a 17th-century convent in Alfama with rooftop pool views over the Tejo. Cats welcomed in classic rooms (small fee), the rooms have heavy shutters for darkness on demand, and the resident neighbourhood cats often visit the terrace boundary.`,
     hotelFr: `Boutique 5 étoiles dans un couvent du XVIIᵉ à Alfama avec piscine rooftop vue sur le Tage. Chats acceptés en chambres classiques (petit supplément), les chambres ont des volets épais pour obscurité à la demande, et les chats du quartier visitent souvent la limite de la terrasse.`,
     hotelEs: `Boutique 5 estrellas en un convento del siglo XVII en Alfama con piscina en azotea con vista al Tajo. Gatos admitidos en habitaciones clásicas (pequeño suplemento), las habitaciones tienen postigos gruesos para oscuridad a demanda, y los gatos del barrio visitan a menudo el borde de la terraza.`,
     hotelPt: `Boutique 5 estrelas num convento do século XVII em Alfama com piscina no terraço com vista para o Tejo. Gatos aceites em quartos clássicos (pequena taxa), os quartos têm portadas espessas para escuridão a pedido, e os gatos do bairro visitam frequentemente o limite do terraço.`,
     hotelDe: `Boutique-5-Sterne-Hotel in einem Kloster aus dem 17. Jahrhundert in Alfama mit Dachpool-Blick auf den Tejo. Katzen in klassischen Zimmern willkommen (kleiner Aufpreis), die Zimmer haben schwere Fensterläden für Dunkelheit auf Anfrage, und die Katzen der Nachbarschaft besuchen häufig die Terrassengrenze.`,
+    hotelNl: `Boetiek 5-sterrenhotel in een 17e-eeuws klooster in Alfama met uitzicht op de Taag vanaf het dakzwembad. Katten welkom in klassieke kamers (kleine toeslag), de kamers hebben zware luiken voor duisternis op verzoek, en de buurtkatten komen vaak langs de rand van het terras.`,
   },
   {
     slug: 'innsbruck',
@@ -181,12 +197,14 @@ const PICKS: Pick[] = [
     whyEs: `Una elección fuera de pista para gatos de interior que odian el calor. Julio alpino fresco (máx media 23°C, noches 10°C) y el profesionalismo hotelero austriaco hacen de Innsbruck la alternativa tranquila a Viena para una estancia gatuna de 4-5 días. El casco antiguo se atraviesa en 20 min, las habitaciones son grandes según el estándar austriaco, y la naturaleza tirolesa circundante es solo un decorado que aprecias desde la ventana.`,
     whyPt: `Uma escolha fora-de-pista para gatos de interior que odeiam o calor. Julho alpino fresco (máx média 23°C, noites 10°C) e o profissionalismo hoteleiro austríaco fazem de Innsbruck a alternativa calma a Viena para uma estadia felina de 4-5 dias. A cidade velha atravessa-se em 20 min, os quartos são grandes pelo padrão austríaco, e a natureza tirolesa circundante é apenas um cenário que aprecia da janela.`,
     whyDe: `Ein Geheimtipp für Wohnungskatzen, die Hitze hassen. Kühler Alpen-Juli (Durchschnittshoch 23°C, Nächte 10°C) und österreichische Hotelprofessionalität machen Innsbruck zur ruhigen Alternative zu Wien für eine 4-5-tägige Katzenreise. Die Altstadt ist in 20 Minuten zu Fuß durchquert, die Zimmer sind nach österreichischem Standard groß, und die umliegende Tiroler Natur ist nur eine Kulisse, die Sie vom Fenster aus genießen.`,
+    whyNl: `Een verrassende keuze voor binnenkatten die hitte haten. Koele alpiene juli (gemiddeld hoog 23°C, nachten 10°C) en Oostenrijkse hotelprofessionaliteit maken Innsbruck het rustige alternatief voor Wenen voor een reis van 4-5 dagen met kat. De oude stad is in 20 minuten te belopen, hotelkamers zijn groot naar Oostenrijkse maatstaven, en de omliggende Tiroolse natuur is gewoon een decor dat je vanuit het raam bewondert.`,
     hotelName: 'Hotel Maximilian',
     hotelEn: `Family-run boutique 4-star in the heart of the old town. Cats welcomed (small fee), rooms face the quiet Marktplatz courtyard, the family literally grew up with cats and the staff knows the routine - this matters more than any marble lobby for an anxious traveller.`,
     hotelFr: `Boutique 4 étoiles familial au cœur de la vieille ville. Chats acceptés (petit supplément), chambres côté Marktplatz calme, la famille a littéralement grandi avec des chats et le personnel connaît la routine - ce qui compte plus qu'un lobby en marbre pour un voyageur anxieux.`,
     hotelEs: `Boutique 4 estrellas familiar en el corazón del casco antiguo. Gatos admitidos (pequeño suplemento), habitaciones lado Marktplatz tranquilo, la familia creció literalmente con gatos y el personal conoce la rutina - importa más que cualquier lobby de mármol para un viajero ansioso.`,
     hotelPt: `Boutique 4 estrelas familiar no coração da cidade velha. Gatos aceites (pequena taxa), quartos lado Marktplatz calmo, a família cresceu literalmente com gatos e o staff conhece a rotina - importa mais que qualquer lobby de mármore para um viajante ansioso.`,
     hotelDe: `Familiengeführtes Boutique-4-Sterne-Hotel im Herzen der Altstadt. Katzen willkommen (kleiner Aufpreis), Zimmer zum ruhigen Marktplatz-Innenhof, die Familie ist buchstäblich mit Katzen aufgewachsen und das Personal kennt die Routine - das zählt für einen ängstlichen Reisenden mehr als jede Marmorlobby.`,
+    hotelNl: `Familiehotel, boetiek 4-sterren in het hart van de oude stad. Katten welkom (kleine toeslag), kamers uitkijkend op de rustige binnenplaats aan de Marktplatz, het gezin is letterlijk opgegroeid met katten en het personeel kent de routine, dat telt voor een gestreste reiziger meer dan welke marmeren lobby dan ook.`,
   },
 ]
 
@@ -331,6 +349,34 @@ const COPY = {
     accessoriesNote: `Unsere französischsprachige Auswahl an Katzenzubehör: Transportbox, Trinkbrunnen, Feliway-Diffusor und Nachfüllpackungen, Reise-Katzentoilette.`,
     accessoriesCta: `Katzenzubehör ansehen →`,
   },
+  nl: {
+    eyebrow: `KATVRIENDELIJK EUROPA · COMPLETE GIDS`,
+    title: `Reizen met je kat door Europa: de complete gids`,
+    intro: `Reizen met een kat is niet "hetzelfde als met een hond, maar dan kleiner". Katten zijn stressgevoelig, territoriaal, en hun eisen aan een hotel zijn specifiek: horren voor de ramen (de gevreesde sprong van het balkon), dikke muren (geluidsisolatie), geen gedeelde kamer met een reactieve hond ernaast. Deze gids behandelt het EU-dierenpaspoort voor katten, de juiste maat kattenmand voor de cabine (IATA), treinregels per land, een anti-stressprotocol dat echt werkt (Feliway, 14 dagen van tevoren), en zes Europese steden waar de hotels die we noemen geverifieerd katvriendelijk zijn, niet zomaar "huisdiervriendelijk" met een beleefde voetnoot.`,
+    pickHeading: 'De zes katvriendelijke steden',
+    whyHere: 'Waarom hier',
+    hotelLabel: 'Waar je kunt overnachten',
+    seeDestCta: 'Volledige stadsgids →',
+    hotelCta: 'Bekijk beschikbaarheid →',
+    practicalHeading: 'Onmisbaar voor reizen met kat',
+    practical: [
+      { h: 'EU-dierenpaspoort (ook voor katten)', p: `Dezelfde papieren als voor honden: ISO-chip, geldige rabiësvaccinatie (minimaal 3 weken voor vertrek, geldig 1-3 jaar afhankelijk van het vaccin), EU-dierenpaspoort van de dierenarts. Het VK en IJsland vragen daarnaast een Animal Health Certificate (ook voor katten), en IJsland wil ook een rabiës-titerbepaling. Katten KUNNEN NIET zonder specifieke papieren vooraf naar Noorwegen, Zweden, Finland of Malta reizen, check de nationale instanties.` },
+      { h: 'De juiste kattenmand voor de cabine (IATA)', p: `De meeste EU-luchtvaartmaatschappijen accepteren katten tot 6-8 kg (mand + kat) in de cabine. Vereist: door IATA goedgekeurde zachte mand, 46 cm L × 28 cm B × 23 cm H is de universele maat die onder alle stoelen van grote Europese maatschappijen past. Geverifieerde modellen: Trixie Wings, Sleepypod Air, Pet Magasin. Koop altijd een TWEEDE identieke mand, je kat heeft die 2 weken voor de reis om hem met veiligheid te associëren, niet met stress.` },
+      { h: 'Het 14-dagen-Feliwayprotocol', p: `Twee weken voor vertrek zet je thuis een Feliway Classic-verdamper bij de mand (open, met een dekentje erin). Dag 1: de mand is alleen maar snoepjes. Dag 7: korte ritjes met de auto met een doekje besprenkeld met Feliway. Dag 14: de echte reis. Het effect verschilt per kat, maar bij stressgevoelige katten daalt de reisangst volgens observationele studies met 60-80%. De Feliway Travel-spray op de mand 30 minuten van tevoren is de laag voor de dag zelf.` },
+      { h: 'Checklist katvriendelijk hotel', p: `Mail voor je boekt. Vraag expliciet naar: (1) horren of niet-openbare ramen in je kamer, (2) geen toegang tot een balkon vanuit de kamer (of een balkon met net), (3) kamer uit de buurt van de lift en de ijsmachine, (4) schoonmaakschema op verzoek (geen verrassingsbezoeken), (5) is er een hotelkat aanwezig waar jouw kat op zou kunnen reageren. Het label "huisdiervriendelijk" betekent vaak "kleine honden toegestaan" en het personeel heeft misschien nog nooit een kat gehad. Check het.` },
+    ],
+    faqHeading: 'Veelgestelde vragen',
+    faqs: [
+      { q: 'Trein: kan ik mijn kat meenemen in de Franse TGV, Italiaanse Frecciarossa of Duitse ICE?', a: `Ja, alle drie accepteren katten in een mand (samen onder 6-8 kg) voor €7,10 (TGV), €5 (Frecciarossa, in het laatste rijtuig), gratis (ICE voor katten in mand). Eurostar (Parijs-Londen) accepteert alleen hulphonden, katten kunnen niet met de Eurostar naar het VK. Renfe (Spanje) accepteert katten in mand tot 10 kg voor €10. Boek de plek voor je kat altijd tegelijk met je eigen ticket.` },
+      { q: 'En hoe zit het met grensoverschrijdend rijden?', a: `Binnen de EU volstaat het dierenpaspoort aan de grens, geen controles bij de meeste interne Schengen-overgangen (Frankrijk-Spanje, Frankrijk-Italië, enzovoort). Je kat moet in de auto in een mand zitten of vastzitten (loslopende katten zijn illegaal in Frankrijk, Duitsland, Italië, Spanje). Stop elke 3 uur, bied water aan (een Catit Pixi-fontein in de mand is een geverifieerde standaard), en vermijd direct zonlicht. Zet de mand op de achterbank met de gordel erdoorheen.` },
+      { q: 'Is mijn kat welkom op restaurantterrassen?', a: `In Italië, Portugal, Spanje, Frankrijk: ja op het terras, als hij rustig in een mand of tuigje zit. In Duitsland, Oostenrijk, Zwitserland: ja, maar vraag eerst het personeel. In het VK, Ierland, Nederland: wisselender, maar rustige, chique cafés zeggen meestal ja. Binnen zitten mag bijna nergens vanwege hygiëne. Katten genieten hier bijna nooit zo van als honden; reken op 30 minuten koffie, geen diner van 2 uur.` },
+      { q: 'Spoedeisende dierenarts in het buitenland met een kat?', a: `Dezelfde procedure als bij een hond: de meeste Europese landen hebben 24-uursklinieken in grote steden, gemiddelde kosten €100-€250 plus behandeling. Sla het spoednummer van de dierenarts in de stad VOOR vertrek op in je telefoon. Het Europese dierenpaspoort heeft een sectie voor dierenartscontact, werk die bij voor de reis. Neem twee weken vast voer van je kat mee en eventuele chronische medicatie in de originele verpakking.` },
+    ],
+    relatedHeading: 'Nuttige links',
+    accessoriesHeading: 'Shop met kattenreisbenodigdheden',
+    accessoriesNote: `Onze Franse selectie kattenaccessoires: draagmand, drinkfontein, Feliway-verdamper en navullingen, reiskattenbak.`,
+    accessoriesCta: `Bekijk kattenaccessoires →`,
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -375,8 +421,8 @@ export default async function Page({
     publisher: { '@type': 'Organization', name: 'HotelsWithPets', url: SITE_URL },
   }
 
-  const pickWhy = (p: Pick) => locale === 'fr' ? p.whyFr : locale === 'es' ? p.whyEs : locale === 'pt' ? p.whyPt : locale === 'de' ? (p.whyDe ?? p.whyEn) : p.whyEn
-  const pickHotel = (p: Pick) => locale === 'fr' ? p.hotelFr : locale === 'es' ? p.hotelEs : locale === 'pt' ? p.hotelPt : locale === 'de' ? (p.hotelDe ?? p.hotelEn) : p.hotelEn
+  const pickWhy = (p: Pick) => locale === 'fr' ? p.whyFr : locale === 'es' ? p.whyEs : locale === 'pt' ? p.whyPt : locale === 'de' ? (p.whyDe ?? p.whyEn) : locale === 'nl' ? (p.whyNl ?? p.whyEn) : p.whyEn
+  const pickHotel = (p: Pick) => locale === 'fr' ? p.hotelFr : locale === 'es' ? p.hotelEs : locale === 'pt' ? p.hotelPt : locale === 'de' ? (p.hotelDe ?? p.hotelEn) : locale === 'nl' ? (p.hotelNl ?? p.hotelEn) : p.hotelEn
 
   return (
     <main className="min-h-screen bg-stone-50">

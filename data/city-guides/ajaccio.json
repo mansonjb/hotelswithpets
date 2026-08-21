@@ -38,9 +38,13 @@
           "mustTryPt": "Planche corse, figatellu grillé, fiadone",
           "tipPt": "Reserve com antecedência no verão, pois as 6 mesas exteriores enchem-se depressa. Peça o rosé de Patrimonio para acompanhar a charcutaria.",
           "descriptionDe": "Korsische Institution in der Altstadt, serviert traditionelle Platten mit Wurstwaren, Brocciu, Figatellu und korsischen Weinen. Steinmauern, Holzbalken, Terrassentische in einer ruhigen Fußgängergasse nahe der Maison Bonaparte.",
+          "descriptionNl": "Corsicaanse institutie in de oude stad, serveert traditionele planken met vleeswaren, brocciu, figatellu en Corsicaanse wijnen. Stenen muren, houten balken, terrastafels in een rustig voetgangersstraatje vlakbij het Maison Bonaparte.",
           "petPolicyDe": "Angeleinte Hunde auf der Außenterrasse willkommen, Wassernapf auf Anfrage",
+          "petPolicyNl": "Aangelijnde honden welkom op het buitenterras, waterbakje op aanvraag",
           "mustTryDe": "Planche corse, gegrillte Figatellu, Fiadone",
-          "tipDe": "Im Sommer vorab reservieren, die 6 Außentische sind schnell voll. Fragen Sie nach dem Patrimonio Rosé zu den Wurstwaren."
+          "mustTryNl": "Planche corse, gegrilde figatellu, fiadone",
+          "tipDe": "Im Sommer vorab reservieren, die 6 Außentische sind schnell voll. Fragen Sie nach dem Patrimonio Rosé zu den Wurstwaren.",
+          "tipNl": "Reserveer in de zomer van tevoren, de 6 buitentafels zitten snel vol. Vraag naar de Patrimonio rosé bij de vleeswaren."
         },
         {
           "name": "20123",
@@ -68,9 +72,13 @@
           "mustTryPt": "Menu corso fixo, veau aux olives, fiadone",
           "tipPt": "Reserva essencial. Um único serviço por noite, e a experiência dura cerca de 2h30, por isso é melhor apenas para cães calmos e bem treinados.",
           "descriptionDe": "Ein gefeiertes Restaurant im Stil eines Bergdorfs, das ein Interieur aus dem Niolu nachbildet, mit einem einzigen festen korsischen Degustationsmenü (Suppe, Wurstwaren, Kalb mit Oliven, Brocciu-Käse, Fiadone). Seit den 1990er-Jahren ein langjähriger Klassiker in Ajaccio.",
+          "descriptionNl": "Een geliefd restaurant in de stijl van een bergdorp, dat een interieur uit de Niolu-vallei nabootst, met één vast Corsicaans degustatiemenu (soep, vleeswaren, kalfsvlees met olijven, brocciu-kaas, fiadone). Al sinds de jaren 90 een blijvende klassieker in Ajaccio.",
           "petPolicyDe": "Angeleinte Hunde an den Außenterrassentischen in der Rue Roi de Rome willkommen",
+          "petPolicyNl": "Aangelijnde honden welkom aan de buitentafels op het terras in de Rue Roi de Rome",
           "mustTryDe": "Festes korsisches Menü, Kalb mit Oliven, Fiadone",
-          "tipDe": "Reservierung unerlässlich. Nur eine Sitzung pro Abend, das Erlebnis dauert etwa 2,5 Stunden - nur für ruhige, gut erzogene Hunde geeignet."
+          "mustTryNl": "Vast Corsicaans menu, kalfsvlees met olijven, fiadone",
+          "tipDe": "Reservierung unerlässlich. Nur eine Sitzung pro Abend, das Erlebnis dauert etwa 2,5 Stunden - nur für ruhige, gut erzogene Hunde geeignet.",
+          "tipNl": "Reserveren is een must. Slechts één zitting per avond, de ervaring duurt ongeveer 2,5 uur - alleen geschikt voor rustige, goed opgevoede honden."
         },
         {
           "name": "Le Grand Café Napoléon",
@@ -98,9 +106,13 @@
           "mustTryPt": "Café gourmand, soupe corse, daube de sanglier",
           "tipPt": "A copa de plátanos do Cours Napoléon mantém o terraço 5 ºC mais fresco do que a marina nas tardes quentes.",
           "descriptionDe": "Belle-Époque-Brasserie am Cours Napoléon, innen vergoldete Spiegel und Fresken, außen eine breite schattige Terrasse unter den Platanen. Café-Service, klassische Brasserie-Gerichte und korsische Spezialitäten den ganzen Tag über.",
+          "descriptionNl": "Belle-époquebrasserie aan de Cours Napoléon, binnen vergulde spiegels en fresco's, buiten een breed schaduwrijk terras onder de platanen. De hele dag door café-service, klassieke brasseriegerechten en Corsicaanse specialiteiten.",
           "petPolicyDe": "Angeleinte Hunde auf der schattigen Außenterrasse unter den Platanen willkommen",
+          "petPolicyNl": "Aangelijnde honden welkom op het schaduwrijke buitenterras onder de platanen",
           "mustTryDe": "Café gourmand, korsische Suppe, Wildschwein-Daube",
-          "tipDe": "Das Platanendach am Cours Napoléon hält die Terrasse an heißen Nachmittagen 5 °C kühler als der Hafen."
+          "mustTryNl": "Café gourmand, Corsicaanse soep, stoofpot van wild zwijn",
+          "tipDe": "Das Platanendach am Cours Napoléon hält die Terrasse an heißen Nachmittagen 5 °C kühler als der Hafen.",
+          "tipNl": "Het bladerdak van platanen aan de Cours Napoléon houdt het terras op hete middagen 5 °C koeler dan de haven."
         }
       ],
       "tipsEn": [
@@ -182,7 +194,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Ajaccio, korsische Tafeln & Cafés am Hafen",
+      "titleNl": "Hondvriendelijke restaurants in Ajaccio, Corsicaanse tafels & cafés aan de haven",
       "introDe": "Die korsische Café-Kultur im Freien in Ajaccio ist auf den Terrassen überwiegend hundetolerant, besonders entlang des Cours Napoléon, der Place Foch und der Hafenpromenade Quai Napoléon. Korsische, familiengeführte Restaurants heißen einen angeleinten Hund an Außentischen meist unkompliziert willkommen, vor allem außerhalb der Mittagshitze von Juli bis August.",
+      "introNl": "De Corsicaanse terrascultuur in Ajaccio is over het algemeen erg hondvriendelijk, vooral langs de Cours Napoléon, de Place Foch en de havenboulevard Quai Napoléon. Corsicaanse familierestaurants verwelkomen een aangelijnde hond aan een buitentafel meestal zonder problemen, zeker buiten de hitte van juli en augustus rond het middaguur.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund in Restaurants in Ajaccio mit hineinnehmen?",
@@ -195,6 +209,20 @@
         {
           "q": "Sind Hunde auf dem Marché d'Ajaccio an der Place Foch erlaubt?",
           "a": "Angeleinte Hunde sind auf dem offenen Platz beim Vormittagsmarkt von Dienstag bis Sonntag willkommen, aber aus Hygienegründen nicht in der überdachten Fischhalle am Square Campinchi."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond mee naar binnen in restaurants in Ajaccio?",
+          "a": "Buitentafels zijn de norm. Binnen zitten is ter beoordeling van de eigenaar; kleinere, rustige honden worden in de koelere maanden (november tot maart) meestal toegelaten."
+        },
+        {
+          "q": "Geldt er in Ajaccio een hitte-uitgaansverbod voor honden?",
+          "a": "Ja, informeel wel: locals lopen van half juni tot half september vóór 09:00 uur en na 19:00 uur met de hond. Vermijd 's zomers rond het middaguur wandelingen op straat - de granieten stoeptegels worden dan wel 50 °C."
+        },
+        {
+          "q": "Zijn honden toegestaan op de Marché d'Ajaccio aan de Place Foch?",
+          "a": "Aangelijnde honden zijn welkom op het open plein tijdens de ochtendmarkt van dinsdag tot zondag, maar niet in de overdekte vishal aan het Square Campinchi, om hygiënische redenen."
         }
       ]
     },
@@ -230,9 +258,13 @@
           "amenitiesPt": "Parque de estacionamento gratuito, fonte de água potável no início do trilho, casas de banho públicas, banca de petiscos na época",
           "tipPt": "Melhor ao pôr do sol, quando as ilhas Sanguinaires ganham um tom vermelho; leve água, pois o maquis oferece pouca sombra e o granito reflete fortemente o calor no verão.",
           "leashRuleDe": "Leine empfohlen nahe dem genuesischen Turm und den Aussichtspunkten, auf den Macchia-Seitenwegen wird Freilauf toleriert",
+          "leashRuleNl": "Lijn aanbevolen bij de Genuese toren en de uitzichtpunten, loslopen wordt getolereerd op de zijpaden door de macchia",
           "descriptionDe": "Die felsige Landzunge an der Westspitze von Ajaccio, gekrönt von einem genuesischen Wachturm aus dem 16. Jahrhundert, mit den vier vorgelagerten Sanguinaires-Inseln. Die ausgeschilderte Rundwanderung Sentier des Crêtes/Sanguinaires führt durch die Macchia (Rosmarin, Myrte, Wacholder) mit durchgehendem Meerblick.",
+          "descriptionNl": "De rotsachtige landtong aan de westpunt van Ajaccio, bekroond met een 16e-eeuwse Genuese wachttoren, met de vier Sanguinaires-eilanden voor de kust. De bewegwijzerde rondwandeling Sentier des Crêtes/Sanguinaires loopt door de macchia (rozemarijn, mirte, jeneverbes) met zeezicht de hele weg.",
           "amenitiesDe": "Kostenloser Parkplatz, Trinkbrunnen am Wegbeginn, öffentliche Toiletten, saisonaler Snackstand",
-          "tipDe": "Am schönsten zum Sonnenuntergang, wenn sich die Sanguinaires-Inseln rot färben - Wasser mitbringen, die Macchia bietet wenig Schatten und der Granit reflektiert im Sommer stark die Hitze."
+          "amenitiesNl": "Gratis parkeren, drinkfontein bij het beginpunt, openbare toiletten, seizoensgebonden snackkraam",
+          "tipDe": "Am schönsten zum Sonnenuntergang, wenn sich die Sanguinaires-Inseln rot färben - Wasser mitbringen, die Macchia bietet wenig Schatten und der Granit reflektiert im Sommer stark die Hitze.",
+          "tipNl": "Het mooist bij zonsondergang, wanneer de Sanguinaires-eilanden rood kleuren - neem water mee, de macchia biedt weinig schaduw en het graniet weerkaatst 's zomers sterk de hitte."
         },
         {
           "name": "Sentier des Crêtes",
@@ -258,9 +290,13 @@
           "amenitiesPt": "Estacionamento gratuito no início do trilho, duas nascentes naturais ao longo do percurso, sem serviços comerciais",
           "tipPt": "Comece a partir do Bois des Anglais para o declive mais fácil e a sombra mais cedo. Leve 2 L de água por cão no verão, pois as nascentes nem sempre correm em agosto.",
           "leashRuleDe": "Freilauf entlang des Kamms erlaubt, an Wegbeginn und Aussichtspunkten Leinenpflicht",
+          "leashRuleNl": "Loslopen toegestaan langs de bergkam, aan het beginpunt en bij de uitzichtpunten geldt een aanlijnplicht",
           "descriptionDe": "Der 7 km lange Kammweg über den Hügeln oberhalb von Ajaccio mit 360°-Panorama über den Golfe d'Ajaccio und die Sanguinaires. Leichte bis mäßige Steigung auf breitem Waldweg, teilweise Schatten durch Pinien und Steineichen. Der ganzjährige Lieblingsspaziergang der Einheimischen von Ajaccio.",
+          "descriptionNl": "Het 7 km lange kampad over de heuvels boven Ajaccio, met een 360°-panorama over de Golfe d'Ajaccio en de Sanguinaires. Licht tot matig stijgend op een breed bospad, deels schaduw van pijnbomen en steeneiken. De favoriete hondenwandeling van de locals, het hele jaar door.",
           "amenitiesDe": "Kostenloser Parkplatz am Wegbeginn, zwei natürliche Quellen entlang der Strecke, keine kommerziellen Einrichtungen",
-          "tipDe": "Starten Sie am Bois des Anglais für die sanfteste Steigung und den frühesten Schatten. Führen Sie im Sommer 2 L Wasser pro Hund mit, die Quellen führen bis August nicht immer Wasser."
+          "amenitiesNl": "Gratis parkeren bij het beginpunt, twee natuurlijke bronnen langs de route, geen commerciële voorzieningen",
+          "tipDe": "Starten Sie am Bois des Anglais für die sanfteste Steigung und den frühesten Schatten. Führen Sie im Sommer 2 L Wasser pro Hund mit, die Quellen führen bis August nicht immer Wasser.",
+          "tipNl": "Start bij Bois des Anglais voor de zachtste stijging en de vroegste schaduw. Neem 's zomers 2 l water per hond mee, de bronnen stromen in augustus niet altijd."
         },
         {
           "name": "Jardin des Milelli",
@@ -286,9 +322,13 @@
           "amenitiesPt": "Entrada gratuita, fonte de água potável, mesas de piquenique, casas de banho públicas, parque de estacionamento gratuito",
           "tipPt": "Acessível pela linha 7 de autocarro TCA a partir da Place de Gaulle. Encerra às segundas e a partir das 18:00 no inverno; verifique a sinalização ao portão.",
           "leashRuleDe": "Angeleinte Hunde im gesamten öffentlichen Park willkommen, Freilauf nicht gestattet",
+          "leashRuleNl": "Aangelijnde honden welkom in het hele openbare park, loslopen niet toegestaan",
           "descriptionDe": "Der Olivenhain-Rückzugsort der Familie Bonaparte, 4 km nördlich des Zentrums von Ajaccio, heute als kostenloser öffentlicher Park geöffnet. Jahrhundertealte Olivenbäume, schattige Picknicktische und eine restaurierte Steinbergerie aus dem 18. Jahrhundert. Ruhig, selten überlaufen, die zuverlässigste schattige Grünfläche im Stadtgebiet.",
+          "descriptionNl": "De olijfgaard van de familie Bonaparte, 4 km ten noorden van het centrum van Ajaccio, nu geopend als gratis openbaar park. Eeuwenoude olijfbomen, schaduwrijke picknicktafels en een gerestaureerde stenen bergerie uit de 18e eeuw. Rustig, zelden druk, de meest betrouwbaar schaduwrijke groene plek in het stedelijk gebied.",
           "amenitiesDe": "Kostenloser Eintritt, Trinkbrunnen, Picknicktische, öffentliche Toiletten, kostenloser Parkplatz",
-          "tipDe": "Erreichbar mit der TCA-Buslinie 7 ab Place de Gaulle. Montags geschlossen und im Winter ab 18:00 Uhr - Beschilderung am Tor beachten."
+          "amenitiesNl": "Gratis toegang, drinkfontein, picknicktafels, openbare toiletten, gratis parkeren",
+          "tipDe": "Erreichbar mit der TCA-Buslinie 7 ab Place de Gaulle. Montags geschlossen und im Winter ab 18:00 Uhr - Beschilderung am Tor beachten.",
+          "tipNl": "Bereikbaar met TCA-buslijn 7 vanaf Place de Gaulle. Op maandag gesloten en 's winters vanaf 18:00 uur - controleer de bebording bij de ingang."
         }
       ],
       "tipsEn": [
@@ -370,7 +410,9 @@
         }
       ],
       "titleDe": "Die besten Hundespaziergänge, Küstenwege und Grünflächen in Ajaccio",
+      "titleNl": "De beste hondenwandelingen, kustpaden en groene ruimtes in Ajaccio",
       "introDe": "Die besten Hundespaziergänge in Ajaccio führen über die felsigen Landzungen und Küstenwege rund um den Golfe d'Ajaccio: Der Sentier des Crêtes verläuft über den Bergrücken der Stadt, die Pointe de la Parata ragt im Westen zu den Sanguinaires-Inseln, und der Jardin des Milelli im Landesinneren bietet Schatten im Olivenhain. Städtische Parks sind kleiner als in vergleichbaren französischen Festlandstädten, hier steht eindeutig die Küste im Mittelpunkt.",
+      "introNl": "De beste hondenwandelingen in Ajaccio voer je over de rotsachtige landtongen en kustpaden rond de Golfe d'Ajaccio: de Sentier des Crêtes loopt over de bergrug van de stad, de Pointe de la Parata steekt in het westen uit richting de Sanguinaires-eilanden, en de Jardin des Milelli in het achterland biedt schaduw in een olijfgaard. Stadsparken zijn kleiner dan in vergelijkbare steden op het Franse vasteland, hier is de kust echt de hoofdrolspeler.",
       "faqsDe": [
         {
           "q": "Sind Hunde auf der Place de Gaulle und dem Square Casanova erlaubt?",
@@ -383,6 +425,20 @@
         {
           "q": "Ist die Île de Cavallo oder Île d'Aitone von Ajaccio aus für Hunde zugänglich?",
           "a": "Cavallo ist Privatbesitz und nicht zugänglich. Die Bootstouren zu den Sanguinaires-Inseln (Abfahrt Tino Rossi) akzeptieren bei den meisten Anbietern angeleinte Hunde an Bord, aber die Anlandungen auf der größten Insel Mezu Mare sind saisonal und durch das Réserve Naturelle eingeschränkt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan op de Place de Gaulle en het Square Casanova?",
+          "a": "Ja, aangelijnde honden zijn het hele jaar welkom op beide pleinen. Ze zijn bestraat of met grind bedekt in plaats van groen, gebruik ze dus eerder als doorgangspunt dan als speelplek."
+        },
+        {
+          "q": "Kan mijn hond de GR20 vanuit Ajaccio lopen?",
+          "a": "De GR20 zelf verbiedt honden in de meeste overnachtingshutten en doorkruist kwetsbaar moeflonhabitat. Dagwandelingen op de lagere zuidelijke etappes (omgeving Conca, 1 uur rijden oostwaarts) accepteren aangelijnde honden, maar overnachten in berghutten is niet mogelijk."
+        },
+        {
+          "q": "Is het Île de Cavallo of het Île d'Aitone toegankelijk voor honden vanuit Ajaccio?",
+          "a": "Cavallo is privébezit en niet toegankelijk. De boottochten naar de Sanguinaires-eilanden (vertrek vanaf Tino Rossi) accepteren bij de meeste aanbieders aangelijnde honden aan boord, maar aanmeren op het grootste eiland Mezu Mare is seizoensgebonden en beperkt door het Réserve Naturelle."
         }
       ]
     },
@@ -413,8 +469,11 @@
           "petPolicyPt": "25 a 45 euros por animal por travessia. Passaporte europeu para animais atualizado e vacina antirrábica obrigatórios. Cabina pet-friendly recomendada para cães de porte médio e grande, pois os canis de bordo não têm climatização e as travessias duram 10 a 12h.",
           "tipPt": "Reserve a cabina pet-friendly com 6 a 8 semanas de antecedência em julho e agosto, pois o inventário é reduzido e esgota. Leve o certificado de raiva em papel como reserva, pois o balcão de embarque digitaliza-o no check-in.",
           "descriptionDe": "Nachtfähren Marseille-Ajaccio (12 Std.) und Toulon-Ajaccio (10 Std.), betrieben von Corsica Linea, der in Marseille ansässigen Reederei. Haustiere reisen entweder in Bordzwingern auf dem Autodeck (einfache, belüftete Käfige) oder in einer ausgewiesenen haustierfreundlichen Kabine (begrenztes Kontingent, muss vorab gebucht werden).",
+          "descriptionNl": "Nachtveerboten Marseille-Ajaccio (12 uur) en Toulon-Ajaccio (10 uur), geëxploiteerd door Corsica Linea, de rederij met thuisbasis Marseille. Huisdieren reizen ofwel in scheepskooien op het autodek (eenvoudige, geventileerde kooien) of in een aangewezen huisdiervriendelijke hut (beperkt aantal, vooraf te boeken).",
           "petPolicyDe": "25-45 € pro Tier und Überfahrt. Gültiger EU-Heimtierausweis und Tollwutimpfung erforderlich. Haustierfreundliche Kabine für mittelgroße/große Hunde empfohlen - Bordzwinger sind nicht klimatisiert und die Überfahrten dauern 10-12 Std.",
-          "tipDe": "Buchen Sie die haustierfreundliche Kabine im Juli/August 6-8 Wochen im Voraus, das Kontingent ist klein und schnell ausgebucht. Führen Sie das Tollwutzeugnis als Papierkopie mit, es wird am Check-in-Schalter gescannt."
+          "petPolicyNl": "25-45 € per dier per overtocht. Geldig EU-dierenpaspoort en rabiësvaccinatie vereist. Huisdiervriendelijke hut aanbevolen voor middelgrote/grote honden - scheepskooien zijn niet geklimatiseerd en de overtocht duurt 10-12 uur.",
+          "tipDe": "Buchen Sie die haustierfreundliche Kabine im Juli/August 6-8 Wochen im Voraus, das Kontingent ist klein und schnell ausgebucht. Führen Sie das Tollwutzeugnis als Papierkopie mit, es wird am Check-in-Schalter gescannt.",
+          "tipNl": "Boek de huisdiervriendelijke hut in juli/augustus 6-8 weken van tevoren, het aantal is beperkt en snel volgeboekt. Neem het rabiëscertificaat op papier mee, het wordt bij de incheckbalie gescand."
         },
         {
           "name": "Corsica Ferries (Nice / Toulon / Livorno / Savona → Ajaccio)",
@@ -435,8 +494,11 @@
           "petPolicyPt": "20 a 40 euros por animal por travessia. Os animais pequenos em transportadora podem ficar consigo nas salas de passageiros nas travessias curtas; os cães maiores ficam em canil no convés dos automóveis, salvo se for reservada uma cabina para animais. As rotas italianas aplicam regras idênticas.",
           "tipPt": "No catamarã rápido NGV de Nice, o açaime é obrigatório para os cães maiores nas salas de passageiros. As travessias diurnas são mais fáceis para os cães do que as noturnas, sem a provação do canil.",
           "descriptionDe": "Schnelle Tag- und Nachtfähren Nizza-Ajaccio (5,5 Std. mit dem NGV-Hochgeschwindigkeitskatamaran im Sommer), Toulon-Ajaccio (10 Std. Nachtüberfahrt) sowie italienische Routen ab Livorno (6 Std.) und Savona (10 Std.). Der größte Fährbetreiber auf Korsika mit der höchsten Sommerfrequenz.",
+          "descriptionNl": "Snelle dag- en nachtveerboten Nice-Ajaccio (5,5 uur met de NGV-sneltocht catamaran in de zomer), Toulon-Ajaccio (10 uur nachtovertocht) en Italiaanse routes vanaf Livorno (6 uur) en Savona (10 uur). De grootste veerbootmaatschappij op Corsica met de hoogste zomerfrequentie.",
           "petPolicyDe": "20-40 € pro Tier und Überfahrt. Kleine Haustiere in Transportboxen dürfen auf kurzen Überfahrten bei Ihnen in den Passagierlounges bleiben; größere Hunde werden auf dem Autodeck untergebracht, sofern keine Tierkabine gebucht ist. Auf den italienischen Routen gelten dieselben Regeln.",
-          "tipDe": "Auf dem NGV-Schnellkatamaran ab Nizza besteht in den Passagierlounges Maulkorbpflicht für größere Hunde. Tagesüberfahrten sind für Hunde einfacher als Nachtüberfahrten - keine Zwinger-Tortur."
+          "petPolicyNl": "20-40 € per dier per overtocht. Kleine huisdieren in draagtas mogen bij korte overtochten bij u blijven in de passagierslounges; grotere honden worden op het autodek geplaatst, tenzij een dierenhut is geboekt. Op de Italiaanse routes gelden dezelfde regels.",
+          "tipDe": "Auf dem NGV-Schnellkatamaran ab Nizza besteht in den Passagierlounges Maulkorbpflicht für größere Hunde. Tagesüberfahrten sind für Hunde einfacher als Nachtüberfahrten - keine Zwinger-Tortur.",
+          "tipNl": "Op de NGV-snelcatamaran vanaf Nice geldt in de passagierslounges een muilkorfplicht voor grotere honden. Dagovertochten zijn voor honden eenvoudiger dan nachtovertochten - geen beproeving in een kooi."
         },
         {
           "name": "Air Corsica & Air France (Paris/Marseille/Nice/Lyon → AJA)",
@@ -457,8 +519,11 @@
           "petPolicyPt": "Cabina: 40 euros (Air Corsica), 75 euros (Air France) por trajeto. Porão: a partir de 100 euros conforme o tamanho. Dimensões da transportadora até 46x28x24 cm na cabina. Reserva prévia por telefone obrigatória, pois o pagamento online não trata de animais.",
           "tipPt": "A Air Corsica é geralmente mais pet-friendly do que a Air France, pois costuma reservar aos passageiros com animal lugares com mais espaço no chão, se houver disponibilidade. Telefone para a linha telefónica deles e não confie no site.",
           "descriptionDe": "Der Flughafen Ajaccio Napoléon-Bonaparte (AJA) wird von Air Corsica und Air France aus Paris (Orly, CDG), Marseille, Nizza, Lyon sowie saisonal aus London, Brüssel und Genf angeflogen. Beide Airlines akzeptieren Haustiere in der Kabine (unter 6-8 kg inklusive Box) oder im Frachtraum (geregelter Frachttransport, 8-75 kg).",
+          "descriptionNl": "Luchthaven Ajaccio Napoléon-Bonaparte (AJA) wordt aangevlogen door Air Corsica en Air France vanuit Parijs (Orly, CDG), Marseille, Nice, Lyon en seizoensgebonden vanuit Londen, Brussel en Genève. Beide maatschappijen accepteren huisdieren in de cabine (onder 6-8 kg inclusief tas) of als vracht (gereguleerd vrachtvervoer, 8-75 kg).",
           "petPolicyDe": "Kabine: 40 € (Air Corsica), 75 € (Air France) einfach. Frachtraum: ab 100 € je nach Größe. Boxenmaße ≤46×28×24 cm in der Kabine. Vorbuchung nur telefonisch, der Online-Checkout verarbeitet keine Haustiere.",
-          "tipDe": "Air Corsica ist im Allgemeinen haustierfreundlicher als Air France - Passagiere mit Haustier werden bei verfügbarem Platz häufig auf Sitze mit mehr Bodenfreiheit hochgestuft. Rufen Sie die Telefonhotline an, verlassen Sie sich nicht auf die Website."
+          "petPolicyNl": "Cabine: 40 € (Air Corsica), 75 € (Air France) enkele reis. Vracht: vanaf 100 €, afhankelijk van formaat. Bench-afmetingen ≤46×28×24 cm in de cabine. Alleen telefonisch vooraf te boeken, de online checkout verwerkt geen huisdieren.",
+          "tipDe": "Air Corsica ist im Allgemeinen haustierfreundlicher als Air France - Passagiere mit Haustier werden bei verfügbarem Platz häufig auf Sitze mit mehr Bodenfreiheit hochgestuft. Rufen Sie die Telefonhotline an, verlassen Sie sich nicht auf die Website.",
+          "tipNl": "Air Corsica is over het algemeen huisdiervriendelijker dan Air France - passagiers met huisdier worden bij beschikbare plaatsen vaak geüpgraded naar stoelen met meer beenruimte. Bel de telefonische hotline, vertrouw niet op de website."
         }
       ],
       "tipsEn": [
@@ -540,7 +605,9 @@
         }
       ],
       "titleDe": "Anreise und Fortbewegung in Ajaccio mit Haustier",
+      "titleNl": "Reizen naar en rondtrekken in Ajaccio met je huisdier",
       "introDe": "Ajaccio wird von Corsica Linea oder Corsica Ferries aus Marseille, Nizza, Toulon, Livorno, Savona und Piombino erreicht, oder per Air Corsica/Air France vom französischen Festland. Der lokale öffentliche Nahverkehr wird von der TCA betrieben (Bus, 24 Linien). Die Tierregeln sind klar definiert: Fähren erfordern eine Vorbuchung mit Zuschlag pro Tier und (bei mittelgroßen/großen Hunden) eine Privatkabine; Flüge ab Frankreich akzeptieren kleine Haustiere in der Kabine; TCA-Busse akzeptieren kleine Hunde in Transportboxen und angeleinte, maulkorbtragende größere Hunde.",
+      "introNl": "Ajaccio is bereikbaar met Corsica Linea of Corsica Ferries vanuit Marseille, Nice, Toulon, Livorno, Savona en Piombino, of met Air Corsica/Air France vanaf het Franse vasteland. Het lokale openbaar vervoer wordt verzorgd door TCA (bus, 24 lijnen). De huisdierregels zijn duidelijk: veerboten vereisen een boeking vooraf met toeslag per dier en (voor middelgrote/grote honden) een privéhut; vluchten vanuit Frankrijk accepteren kleine huisdieren in de cabine; TCA-bussen accepteren kleine honden in een draagtas en aangelijnde, gemuilkorfde grotere honden.",
       "faqsDe": [
         {
           "q": "Brauche ich eine Privatkabine, um meinen Hund auf der Fähre nach Ajaccio mitzunehmen?",
@@ -553,6 +620,20 @@
         {
           "q": "Gibt es auf Korsika einen Zug, der Hunde akzeptiert?",
           "a": "Ja, die Chemins de Fer de la Corse (CFC) auf der Strecke Ajaccio-Bastia akzeptieren angeleinte Hunde kostenlos (kleine Hunde in Transportboxen) oder für 5 € (größere Hunde mit Maulkorb). Die malerische, 4-stündige Fahrt über den Gebirgsrücken Korsikas gehört zu den großen Mittelmeer-Bahnreisen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Heb ik een privéhut nodig om mijn hond mee te nemen op de veerboot naar Ajaccio?",
+          "a": "Voor een kleine hond in een draagtas niet - bij de meeste maatschappijen mag die gewoon bij u blijven in de passagierslounges. Voor middelgrote/grote honden op nachtovertochten wordt een huisdiervriendelijke hut sterk aanbevolen; het alternatief is de scheepskooi, een eenvoudige geventileerde kooi op het autodek zonder airconditioning."
+        },
+        {
+          "q": "Kan mijn hond van Parijs naar Ajaccio in de cabine vliegen?",
+          "a": "Ja, als het totale gewicht (dier + tas) onder de 6 kg blijft bij Air Corsica of 8 kg bij Air France, en de tas past binnen 46×28×24 cm. Boeken kan alleen telefonisch, de online checkout verwerkt geen huisdieren."
+        },
+        {
+          "q": "Is er op Corsica een trein die honden accepteert?",
+          "a": "Ja, de Chemins de Fer de la Corse (CFC) op het traject Ajaccio-Bastia accepteert aangelijnde honden gratis (kleine honden in een draagtas) of voor 5 € (grotere honden met muilkorf). De schilderachtige, 4 uur durende rit over de bergrug van Corsica is een van de grote mediterrane treinreizen."
         }
       ]
     },
@@ -586,9 +667,13 @@
           "amenitiesPt": "Estacionamento gratuito na berma (limitado no verão), um único bar de praia na extremidade sul (na época), sem casas de banho públicas",
           "tipPt": "Capo di Feno fica exposta à ondulação ao estilo atlântico, com uma rebentação perigosa junto à costa para cães pequenos com os ventos de oeste de verão. Consulte a previsão marítima da Météo-France antes de deixar um cão nadar.",
           "leashRuleDe": "Hunde ganzjährig erlaubt, Leinenpflicht nicht durchgesetzt - Rückruftraining empfohlen (atlantikähnlicher Wellengang und Surfer im Line-up)",
+          "leashRuleNl": "Honden het hele jaar toegestaan, aanlijnplicht wordt niet gehandhaafd - terugroeptraining aanbevolen (golfslag als op de Atlantische kust en surfers in de lineup)",
           "descriptionDe": "Wilde Bucht aus weißem Sand und Granitlandzungen 15 Minuten westlich von Ajaccio mit dem Auto, zum offenen Meer ausgerichtet (nicht zum Golf). Kein Bademeister, keine touristische Infrastruktur, der längste Abschnitt uneingeschränkten Hundestrands in der Nähe der Stadt. Bei Einheimischen aus Ajaccio ganzjährig für den Hundespaziergang zum Sonnenuntergang beliebt.",
+          "descriptionNl": "Wilde baai van wit zand en granieten landtongen, 15 minuten met de auto ten westen van Ajaccio, gericht op open zee (niet op de golf). Geen strandwacht, geen toeristische infrastructuur, het langste stuk onbeperkt hondenstrand bij de stad. Het hele jaar door populair bij locals uit Ajaccio voor de hondenwandeling bij zonsondergang.",
           "amenitiesDe": "Kostenloses Parken am Straßenrand (im Sommer begrenzt), eine Strandbar am Südende (saisonal), keine öffentlichen Toiletten",
-          "tipDe": "Capo di Feno ist atlantikähnlichem Wellengang ausgesetzt - gefährliche Brandung für kleine Hunde bei sommerlichen Westwinden. Prüfen Sie die Seewettervorhersage von Météo-France, bevor Sie den Hund schwimmen lassen."
+          "amenitiesNl": "Gratis parkeren langs de weg (in de zomer beperkt), een strandbar aan het zuideinde (seizoensgebonden), geen openbare toiletten",
+          "tipDe": "Capo di Feno ist atlantikähnlichem Wellengang ausgesetzt - gefährliche Brandung für kleine Hunde bei sommerlichen Westwinden. Prüfen Sie die Seewettervorhersage von Météo-France, bevor Sie den Hund schwimmen lassen.",
+          "tipNl": "Capo di Feno is blootgesteld aan golfslag als op de Atlantische kust - gevaarlijke branding voor kleine honden bij zomerse westenwind. Controleer de zeeweersverwachting van Météo-France voordat u de hond laat zwemmen."
         },
         {
           "name": "Plage du Ricanto (eastern end)",
@@ -612,9 +697,13 @@
           "amenitiesPt": "Bolsas de estacionamento gratuito ao longo da estrada costeira, bar de praia na secção central, chuveiros públicos (só na zona central)",
           "tipPt": "Caminhe para leste e não para oeste, pois os parques junto ao aeroporto têm fiscalização municipal semanal das regras estivais de trela e da proibição de cães, mas a extremidade selvagem a meio caminho de Porticcio raramente a tem.",
           "leashRuleDe": "Nebensaison (1. Okt.-31. Mai): angeleinte Hunde willkommen. Das Sommerverbot (1. Juni-30. Sept.) gilt nicht für den östlichen, unbewachten Abschnitt hinter der Flughafenlandebahn",
+          "leashRuleNl": "Laagseizoen (1 okt.-31 mei): aangelijnde honden welkom. Het zomerverbod (1 juni-30 sept.) geldt niet voor het oostelijke, onbewaakte gedeelte achter de landingsbaan van de luchthaven",
           "descriptionDe": "Der lange Sand- und Kiesstadtstrand von Ajaccio, der sich 4 km entlang des Golfs östlich des Zentrums erstreckt. Im mittleren, bewachten Abschnitt gilt das Sommerverbot für Hunde, doch der östliche, unbewachte Abschnitt hinter der Flughafenlandebahn (Richtung Mare e Sole) ist ein ganzjähriger Hundespaziergangsort für Einheimische.",
+          "descriptionNl": "Het lange zand- en kiezelstrand van Ajaccio, dat zich 4 km uitstrekt langs de golf ten oosten van het centrum. In het middelste, bewaakte gedeelte geldt het zomerverbod voor honden, maar het oostelijke, onbewaakte gedeelte achter de landingsbaan (richting Mare e Sole) is het hele jaar door een hondenwandelplek voor locals.",
           "amenitiesDe": "Kostenlose Parkbuchten entlang der Küstenstraße, Strandbar im mittleren Abschnitt, öffentliche Duschen (nur mittlerer Abschnitt)",
-          "tipDe": "Gehen Sie nach Osten, nicht nach Westen - die Parkplätze am Flughafenende werden wöchentlich von der Gemeindepolizei auf die Sommer-Leinen- und Hundeverbotsregeln kontrolliert, das wilde Ende auf halbem Weg nach Porticcio dagegen selten."
+          "amenitiesNl": "Gratis parkeervakken langs de kustweg, strandbar in het middelste gedeelte, openbare douches (alleen middelste gedeelte)",
+          "tipDe": "Gehen Sie nach Osten, nicht nach Westen - die Parkplätze am Flughafenende werden wöchentlich von der Gemeindepolizei auf die Sommer-Leinen- und Hundeverbotsregeln kontrolliert, das wilde Ende auf halbem Weg nach Porticcio dagegen selten.",
+          "tipNl": "Ga naar het oosten, niet naar het westen - de parkeerplaatsen aan het luchthaveneinde worden wekelijks door de gemeentepolitie gecontroleerd op de zomerse aanlijn- en hondenverbodregels, terwijl het wilde stuk halverwege naar Porticcio zelden wordt gecontroleerd."
         },
         {
           "name": "Plage de Saint-François (off-season)",
@@ -638,9 +727,13 @@
           "amenitiesPt": "Estacionamento pago Mairie a 2 min a pé, terraços de café ao longo do Boulevard Lantivy, casas de banho públicas",
           "tipPt": "De outubro a maio, este local é magnífico para um banho de cão de manhã cedo, com o ar a 14 a 18 ºC e a água ainda a 16 a 18 ºC ao longo de novembro.",
           "leashRuleDe": "1. Okt.-31. Mai: angeleinte Hunde toleriert. 1. Juni-30. Sept.: totales Hundeverbot, von der Gemeindepolizei kontrolliert, Bußgeld 38 €",
+          "leashRuleNl": "1 okt.-31 mei: aangelijnde honden getolereerd. 1 juni-30 sept.: totaal hondenverbod, gecontroleerd door de gemeentepolitie, boete 38 €",
           "descriptionDe": "Der zentrale Stadtstrand direkt unterhalb der Citadelle, eine 200 m lange Sandbucht mit ruhigem, flachem Wasser. In der Nebensaison der einfachste Ort in der Stadt zum Schwimmen mit Hund, von der Altstadt in 5 Minuten zu Fuß erreichbar. Von Juni bis September für Hunde gesperrt.",
+          "descriptionNl": "Het centrale stadsstrand direct onder de citadel, een 200 m lange zandbaai met rustig, ondiep water. In het laagseizoen de makkelijkste plek in de stad om met hond te zwemmen, op 5 minuten lopen van de oude stad. Van juni tot september gesloten voor honden.",
           "amenitiesDe": "Kostenpflichtiger Parkplatz Mairie, 2 Min. zu Fuß, Caféterrassen entlang des Boulevard Lantivy, öffentliche Toiletten",
-          "tipDe": "Von Oktober bis Mai ist es hier herrlich für ein frühmorgendliches Hundeschwimmen - Lufttemperatur 14-18 °C und Wassertemperatur bis November noch 16-18 °C."
+          "amenitiesNl": "Betaald parkeren Mairie, 2 min. lopen, caféterrassen langs de Boulevard Lantivy, openbare toiletten",
+          "tipDe": "Von Oktober bis Mai ist es hier herrlich für ein frühmorgendliches Hundeschwimmen - Lufttemperatur 14-18 °C und Wassertemperatur bis November noch 16-18 °C.",
+          "tipNl": "Van oktober tot mei is dit een heerlijke plek voor een vroege ochtendzwem met de hond - luchttemperatuur 14-18 °C en watertemperatuur tot november nog 16-18 °C."
         }
       ],
       "tipsEn": [
@@ -722,7 +815,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in und um Ajaccio",
+      "titleNl": "Hondvriendelijke stranden in en rond Ajaccio",
       "introDe": "In Ajaccio gilt die übliche französische Mittelmeer-Regel: Hunde sind vom 1. Juni bis 30. September an den bewachten Hauptstränden im Sommer verboten (Trottel, Saint-François, mittlerer Abschnitt des Ricanto). Ausnahmen sind der wildere Capo di Feno an der westlichen Landzunge (ganzjährig, ohne Bademeister), das östliche Ende der Plage du Ricanto hinter dem Flughafen (lockerere Kontrolle) sowie jeder Strand außerhalb der Saison (Oktober bis Mai), wo Hunde an der Leine toleriert werden.",
+      "introNl": "In Ajaccio geldt de gebruikelijke Franse Middellandse Zee-regel: honden zijn van 1 juni tot 30 september verboden op de belangrijkste bewaakte stranden in de zomer (Trottel, Saint-François, middelste gedeelte van het Ricanto). Uitzonderingen zijn het wildere Capo di Feno op de westelijke landtong (het hele jaar door, zonder strandwacht), het oostelijke uiteinde van de Plage du Ricanto achter de luchthaven (minder strenge controle) en elk strand buiten het seizoen (oktober tot mei), waar aangelijnde honden worden getolereerd.",
       "faqsDe": [
         {
           "q": "Gibt es ganzjährige Hundestrände in der Nähe des Zentrums von Ajaccio?",
@@ -735,6 +830,20 @@
         {
           "q": "Ist Meerbaden für Hunde im Golf von Ajaccio sicher?",
           "a": "In der Regel ja, der Golf ist geschützt mit ruhigem Wasser und in den meisten Jahren ohne Quallenblüten. Vermeiden Sie im August Meldungen über Quallen (méduses Pelagia noctiluca) in den lokalen Nachrichten und achten Sie von Juni bis August auf Ausschlusszonen für nistende Unechte Karettschildkröten (Pheraea) an den östlichen Stränden."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er hondenstranden het hele jaar door in de buurt van het centrum van Ajaccio?",
+          "a": "Capo di Feno (15 minuten met de auto naar het westen) is de belangrijkste optie het hele jaar door. Ook het oostelijke, onbewaakte uiteinde van de Plage du Ricanto achter de luchthaven wordt het hele jaar getolereerd. Lopend vanaf de oude stad is er geen echt jaarrond beschikbare optie."
+        },
+        {
+          "q": "Kan ik 's zomers met mijn hond op een strandcafé-terras zitten?",
+          "a": "Ja, de paillotes (strandbars) langs de Plage du Ricanto en Saint-François verwelkomen honden op hun houten terrassen het hele jaar door - alleen het zand eronder valt onder het seizoensverbod. Het terras is in de hoogzomer een paar vierkante meter legale grond voor uw hond."
+        },
+        {
+          "q": "Is zeezwemmen veilig voor honden in de Golfe d'Ajaccio?",
+          "a": "Over het algemeen wel, de golf is beschut met rustig water en in de meeste jaren zonder kwallenplagen. Let in augustus op berichten over kwallen (méduses, Pelagia noctiluca) in het lokale nieuws en let van juni tot augustus op afgesloten zones voor nestelende onechte karetschildpadden (Caretta caretta) op de oostelijke stranden."
         }
       ]
     },
@@ -768,7 +877,9 @@
           "descriptionPt": "A principal clínica veterinária do centro de Ajaccio, situada no eixo das Salines, a 5 min da marina. Serviços completos de pequenos animais: consultas, vacinação, cirurgia, cuidados dentários, laboratório próprio e raios-X digitais. Participa na rotação do veterinário de serviço de Ajaccio para urgências fora de horas.",
           "tipPt": "Telefone antes de chegar, pois os sábados de manhã aceitam atendimento sem marcação, mas os dias úteis costumam exigir consulta marcada, mesmo para animais em viagem.",
           "descriptionDe": "Die wichtigste Tierarztklinik im Zentrum von Ajaccio, an der Achse Salines, 5 Min. vom Hafen entfernt. Vollständige Kleintierversorgung: Sprechstunden, Impfungen, Chirurgie, Zahnbehandlung, hauseigenes Labor und digitales Röntgen. Nimmt am rotierenden Bereitschaftsdienst von Ajaccio für Notfälle außerhalb der Öffnungszeiten teil.",
-          "tipDe": "Vor Ankunft anrufen - Samstagvormittage sind ohne Termin gut geeignet, unter der Woche ist meist ein Termin nötig, auch für reisende Haustiere."
+          "descriptionNl": "De belangrijkste dierenkliniek in het centrum van Ajaccio, aan de as Salines, 5 min. van de haven. Volledige zorg voor kleine huisdieren: consulten, vaccinaties, chirurgie, tandheelkunde, eigen laboratorium en digitale röntgen. Neemt deel aan de roulerende wachtdienst van Ajaccio voor spoedgevallen buiten openingstijden.",
+          "tipDe": "Vor Ankunft anrufen - Samstagvormittage sind ohne Termin gut geeignet, unter der Woche ist meist ein Termin nötig, auch für reisende Haustiere.",
+          "tipNl": "Bel vooraf - zaterdagochtend is goed geschikt zonder afspraak, doordeweeks is meestal een afspraak nodig, ook voor reizende huisdieren."
         },
         {
           "name": "Clinique Vétérinaire San Niculaiu",
@@ -792,7 +903,9 @@
           "descriptionPt": "Clínica moderna na orla norte de Ajaccio (eixo industrial de Mezzavia), com bloco cirúrgico completo, ecografia e imagiologia próprias. Estacionamento fácil, destino comum para quem chega de ferry e precisa de um controlo de vacinação antes da viagem de regresso. Participa também na rotação de chamada.",
           "tipPt": "A melhor clínica da Córsega para um controlo de saúde pré-ferry (Certificado de Saúde Animal para o regresso ao Reino Unido, ou titulação de raiva para regressos fora da UE).",
           "descriptionDe": "Moderne Klinik am nördlichen Rand von Ajaccio (Gewerbeachse Mezzavia), mit vollständigem OP-Trakt, hauseigenem Ultraschall und Bildgebung. Gute Parkmöglichkeiten, häufiges Ziel für Fährankömmlinge, die vor der Rückreise eine Impfkontrolle benötigen. Nimmt ebenfalls am Bereitschaftsdienst teil.",
-          "tipDe": "Beste Klinik auf Korsika für eine Gesundheitskontrolle vor der Fähre (Tiergesundheitsbescheinigung für die Rückreise nach UK oder Tollwut-Titertest für Rückreisen außerhalb der EU)."
+          "descriptionNl": "Moderne kliniek aan de noordrand van Ajaccio (bedrijventerrein Mezzavia), met volledige operatievleugel, eigen echografie en beeldvorming. Goede parkeergelegenheid, vaak bezocht door aankomende veerbootreizigers die vóór de terugreis een vaccinatiecontrole nodig hebben. Neemt ook deel aan de wachtdienst.",
+          "tipDe": "Beste Klinik auf Korsika für eine Gesundheitskontrolle vor der Fähre (Tiergesundheitsbescheinigung für die Rückreise nach UK oder Tollwut-Titertest für Rückreisen außerhalb der EU).",
+          "tipNl": "Beste kliniek op Corsica voor een gezondheidscontrole vóór de veerboot (diergezondheidscertificaat voor terugreis naar het VK of rabiës-titertest voor terugreizen buiten de EU)."
         },
         {
           "name": "Vétérinaire de Garde - Ajaccio Rotation",
@@ -815,7 +928,9 @@
           "descriptionPt": "O sistema de veterinário de serviço da Córsega (vétérinaire de garde) cobre as urgências fora de horas e de fim de semana. Telefone para a clínica mais próxima, pois o atendedor de chamadas dará o número do veterinário de serviço da noite. O tempo médio de resposta é de 30 a 60 min para casos graves no centro de Ajaccio. A linha nacional SOS Vétérinaires (+33 9 70 72 73 73) é o recurso alternativo para a triagem geral.",
           "tipPt": "Guarde no telemóvel o número da clínica das Salines E a linha nacional SOS Vétérinaires antes de chegar; os operadores franceses atendem em inglês básico, mas ter ambos os números já carregados poupa minutos preciosos numa emergência.",
           "descriptionDe": "Das korsische Bereitschaftssystem (vétérinaire de garde) deckt Notfälle außerhalb der Öffnungszeiten und am Wochenende ab. Rufen Sie Ihre nächstgelegene Klinik an - der Anrufbeantworter nennt die Nummer des in dieser Nacht diensthabenden Tierarztes. Die durchschnittliche Reaktionszeit bei ernsten Fällen im Zentrum von Ajaccio beträgt 30-60 Min. Die landesweite Notrufnummer SOS Vétérinaires (+33 9 70 72 73 73) dient als Rückfalloption für die allgemeine Ersteinschätzung.",
-          "tipDe": "Speichern Sie vor der Anreise sowohl die Nummer der Salines-Klinik als auch die landesweite SOS-Vétérinaires-Nummer in Ihrem Telefon - französische Vermittler antworten zwar in einfachem Englisch, aber beide Nummern vorab griffbereit zu haben, spart im Notfall wertvolle Minuten."
+          "descriptionNl": "Het Corsicaanse wachtdienstsysteem (vétérinaire de garde) dekt spoedgevallen buiten openingstijden en in het weekend. Bel uw dichtstbijzijnde kliniek - het antwoordapparaat noemt het nummer van de dierenarts die die nacht dienst heeft. De gemiddelde reactietijd bij ernstige gevallen in het centrum van Ajaccio is 30-60 min. Het landelijke noodnummer SOS Vétérinaires (+33 9 70 72 73 73) dient als terugvaloptie voor algemene eerste inschatting.",
+          "tipDe": "Speichern Sie vor der Anreise sowohl die Nummer der Salines-Klinik als auch die landesweite SOS-Vétérinaires-Nummer in Ihrem Telefon - französische Vermittler antworten zwar in einfachem Englisch, aber beide Nummern vorab griffbereit zu haben, spart im Notfall wertvolle Minuten.",
+          "tipNl": "Sla vóór vertrek zowel het nummer van de Salines-kliniek als het landelijke SOS-Vétérinaires-nummer op in uw telefoon - Franse operators antwoorden weliswaar in eenvoudig Engels, maar beide nummers vooraf paraat hebben, bespaart in noodgevallen kostbare minuten."
         }
       ],
       "tipsEn": [
@@ -897,7 +1012,9 @@
         }
       ],
       "titleDe": "Tierärztliche Kliniken und Notfalldienste in Ajaccio",
+      "titleNl": "Dierenklinieken en spoeddiensten in Ajaccio",
       "introDe": "Ajaccio verfügt über die größte tierärztliche Kapazität auf Korsika, hat aber, anders als vergleichbar große französische Festlandstädte (ab 60.000 Einwohnern), keine eigene 24/7-Notfallklinik. Notfälle außerhalb der Öffnungszeiten werden über einen rotierenden Bereitschaftsdienst (vétérinaire de garde) abgedeckt, den sich die örtlichen Kliniken teilen - rufen Sie zunächst an, um den diensthabenden Tierarzt zu ermitteln. Die drei unten aufgeführten Kliniken decken während der Öffnungszeiten die Grundversorgung, Operationen und die meisten Notfälle ab.",
+      "introNl": "Ajaccio heeft de grootste dierenartscapaciteit op Corsica, maar heeft, anders dan vergelijkbaar grote steden op het Franse vasteland (vanaf 60.000 inwoners), geen eigen 24/7-spoedkliniek. Spoedgevallen buiten openingstijden worden gedekt via een roulerende wachtdienst (vétérinaire de garde), die de lokale klinieken onderling verdelen - bel eerst om te achterhalen welke dierenarts dienst heeft. De drie hieronder genoemde klinieken bieden tijdens openingstijden basiszorg, chirurgie en de meeste spoedgevallen.",
       "faqsDe": [
         {
           "q": "Gibt es in Ajaccio einen 24/7-Notfalltierarzt?",
@@ -910,6 +1027,20 @@
         {
           "q": "Ist die tierärztliche Versorgung auf Korsika teurer als auf dem französischen Festland?",
           "a": "Etwa 10-20 % höher als bei vergleichbaren Kliniken auf dem Festland, hauptsächlich wegen der Transportkosten für Spezialmedikamente und Ausrüstung. EU-Tierkrankenversicherungen werden allgemein akzeptiert, die Erstattungsverfahren sind identisch."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er in Ajaccio een 24/7-spoeddierenarts?",
+          "a": "Geen eigen 24/7-spoedkliniek. De lokale klinieken delen een wachtdienst (vétérinaire de garde) die nachten, weekenden en feestdagen dekt. Bel de Clinique des Salines (+33 4 95 22 39 51) - het antwoordapparaat noemt het nummer van de dienstdoende dierenarts. Het landelijke noodnummer SOS Vétérinaires (+33 9 70 72 73 73) dient als terugvaloptie."
+        },
+        {
+          "q": "Welke documenten heb ik nodig om mijn hond van het Franse vasteland naar Corsica te brengen?",
+          "a": "Dezelfde als voor het Franse vasteland: een geldig EU-dierenpaspoort met geldige rabiësvaccinatie (toegediend ≥21 dagen voor vertrek) en een ISO-microchip. Geen extra Corsica-specifieke documenten."
+        },
+        {
+          "q": "Is dierenartsenzorg op Corsica duurder dan op het Franse vasteland?",
+          "a": "Ongeveer 10-20% hoger dan bij vergelijkbare klinieken op het vasteland, vooral vanwege de transportkosten voor gespecialiseerde medicijnen en apparatuur. EU-huisdierenverzekeringen worden algemeen geaccepteerd, de vergoedingsprocedures zijn identiek."
         }
       ]
     },
@@ -928,7 +1059,8 @@
           "descriptionFr": "Quartier résidentiel du XIXe siècle à l'ouest du centre, sur la colline de l'Athéna. Rues calmes ombragées, le Cours Grandval bordé de platanes, le Jardin du Casone pour les petites promenades, et l'accès urbain au départ du Sentier des Crêtes. Le quartier le plus calme pour s'installer avec un chien.",
           "descriptionEs": "Barrio residencial del siglo XIX al oeste del centro, en la colina de Athéna. Calles tranquilas arboladas, el Cours Grandval bordeado de plátanos, el Jardin du Casone para paseos cortos, y el acceso urbano al inicio del Sentier des Crêtes. El barrio más tranquilo para alojarse con un perro.",
           "descriptionPt": "O bairro residencial do século XIX a oeste do centro, que sobe a colina de Athéna. Ruas sossegadas e arborizadas, a avenida Cours Grandval ladeada de plátanos, o Jardin du Casone para passeios curtos e o início do acesso urbano ao Sentier des Crêtes. O bairro mais calmo para se instalar com um cão.",
-          "descriptionDe": "Das Wohnviertel aus dem 19. Jahrhundert westlich des Zentrums, das den Hügel von Athéna hinaufsteigt. Ruhige, grüne Straßen, die mit Platanen gesäumte Avenue Cours Grandval, der Jardin du Casone für kurze Spaziergänge und der Ausgangspunkt des städtischen Zugangs zum Sentier des Crêtes. Das ruhigste Viertel, um mit Hund zu übernachten."
+          "descriptionDe": "Das Wohnviertel aus dem 19. Jahrhundert westlich des Zentrums, das den Hügel von Athéna hinaufsteigt. Ruhige, grüne Straßen, die mit Platanen gesäumte Avenue Cours Grandval, der Jardin du Casone für kurze Spaziergänge und der Ausgangspunkt des städtischen Zugangs zum Sentier des Crêtes. Das ruhigste Viertel, um mit Hund zu übernachten.",
+          "descriptionNl": "De 19e-eeuwse woonwijk ten westen van het centrum, die de heuvel van Athéna oploopt. Rustige, groene straten, de met platanen omzoomde Avenue Cours Grandval, de Jardin du Casone voor korte wandelingen en het startpunt van de stadsontsluiting naar de Sentier des Crêtes. De rustigste wijk om met hond te overnachten."
         },
         {
           "name": "Marina & Quai Napoléon",
@@ -937,7 +1069,8 @@
           "descriptionFr": "Port de plaisance s'étendant de la Place du Diamant à la Citadelle, avec un large quai piéton bordé de cafés et de terminaux passagers ferry. Pet-friendly à l'année en laisse, marché aux poissons (Place Foch) à l'extrémité nord le matin, et accès direct le soir aux terrasses d'apéritif de la vieille ville.",
           "descriptionEs": "Puerto deportivo que se extiende desde la Place du Diamant hasta la Citadelle, con un amplio muelle peatonal bordeado de cafés y terminales de pasajeros de ferry. Pet-friendly todo el año con correa, mercado de pescado (Place Foch) en el extremo norte por la mañana y acceso directo por la noche a las terrazas de aperitivo del casco antiguo.",
           "descriptionPt": "O porto de iates que se estende da Place du Diamant à Citadelle, com um amplo cais pedonal ladeado de cafés e terminais de passageiros de ferry. Pet-friendly à trela durante todo o ano, com o mercado de peixe matinal (Place Foch) na extremidade norte e acesso direto ao fim do dia aos terraços de aperitivo do centro histórico.",
-          "descriptionDe": "Der Yachthafen, der sich von der Place du Diamant bis zur Citadelle erstreckt, mit einer breiten Fußgängerpromenade voller Cafés und Fährterminals. Ganzjährig hundefreundlich an der Leine, mit dem morgendlichen Fischmarkt (Place Foch) am Nordende und direktem abendlichem Zugang zu den Aperitif-Terrassen der Altstadt."
+          "descriptionDe": "Der Yachthafen, der sich von der Place du Diamant bis zur Citadelle erstreckt, mit einer breiten Fußgängerpromenade voller Cafés und Fährterminals. Ganzjährig hundefreundlich an der Leine, mit dem morgendlichen Fischmarkt (Place Foch) am Nordende und direktem abendlichem Zugang zu den Aperitif-Terrassen der Altstadt.",
+          "descriptionNl": "De jachthaven, die zich uitstrekt van de Place du Diamant tot de citadel, met een brede voetgangerspromenade vol cafés en veerbootterminals. Het hele jaar door hondvriendelijk aan de lijn, met de ochtendse vismarkt (Place Foch) aan het noordeinde en directe toegang 's avonds tot de aperitiefterrassen van de oude stad."
         },
         {
           "name": "Vieille Ville Bonaparte",
@@ -946,7 +1079,8 @@
           "descriptionFr": "Vieille ville autour de la Rue Bonaparte, Rue Cardinal Fesch et Place Maréchal Foch - Maison Bonaparte (lieu de naissance de Napoléon), la cathédrale, le musée du Palais Fesch et des dizaines de trattorie pet-friendly. Dalles de granit, ruelles étroites ombragées, le quartier le plus simple à parcourir avec un chien en plein été.",
           "descriptionEs": "Casco antiguo en torno a la Rue Bonaparte, Rue Cardinal Fesch y Place Maréchal Foch - Maison Bonaparte (lugar de nacimiento de Napoleón), la catedral, el museo del Palais Fesch y decenas de trattorias pet-friendly. Losas de granito, callejones estrechos sombreados, el barrio más cómodo para recorrer con perro en pleno verano.",
           "descriptionPt": "O centro histórico em torno da Rue Bonaparte, da Rue Cardinal Fesch e da Place Maréchal Foch: a Maison Bonaparte (local de nascimento de Napoleão), a catedral, o museu Palais Fesch e dezenas de trattorie tolerantes a animais. Calçadas de granito, ruelas estreitas com sombra, a zona mais facilmente percorrível com um cão em pleno verão.",
-          "descriptionDe": "Die Altstadt rund um die Rue Bonaparte, die Rue Cardinal Fesch und die Place Maréchal Foch - Maison Bonaparte (Napoleons Geburtshaus), die Kathedrale, das Museum Palais Fesch und Dutzende haustiertolerante Trattorien. Granitpflaster, schmale schattige Gassen, das Viertel, das sich im Hochsommer am einfachsten mit Hund erkunden lässt."
+          "descriptionDe": "Die Altstadt rund um die Rue Bonaparte, die Rue Cardinal Fesch und die Place Maréchal Foch - Maison Bonaparte (Napoleons Geburtshaus), die Kathedrale, das Museum Palais Fesch und Dutzende haustiertolerante Trattorien. Granitpflaster, schmale schattige Gassen, das Viertel, das sich im Hochsommer am einfachsten mit Hund erkunden lässt.",
+          "descriptionNl": "De oude stad rond de Rue Bonaparte, de Rue Cardinal Fesch en de Place Maréchal Foch - Maison Bonaparte (Napoleons geboortehuis), de kathedraal, het museum Palais Fesch en tientallen huisdiertolerante trattoria's. Granieten straatstenen, smalle schaduwrijke steegjes, de wijk die in de hoogzomer het makkelijkst met hond te verkennen is."
         }
       ],
       "tipsEn": [
@@ -1036,7 +1170,9 @@
         }
       ],
       "titleDe": "Wichtige Reisetipps mit Haustier für Ajaccio",
+      "titleNl": "Belangrijke reistips met huisdier voor Ajaccio",
       "introDe": "Ajaccio ist ganzjährig ein hervorragendes korsisches Reiseziel mit Hund, doch die Insel birgt spezifische Risiken (Leishmaniose, Zecken, sommerliche Strandverbote, Fährlogistik), mit denen Reisende vom französischen Festland nicht immer rechnen. Die drei unten aufgeführten Orte sind die nützlichsten Stadtviertel-Anker für einen haustierfreundlichen Aufenthalt.",
+      "introNl": "Ajaccio is het hele jaar door een uitstekende Corsicaanse bestemming met hond, maar het eiland kent specifieke risico's (leishmaniasis, teken, zomerse strandverboden, veerbootlogistiek) waar reizigers vanaf het Franse vasteland niet altijd op rekenen. De drie hieronder genoemde plekken zijn de handigste wijkankers voor een huisdiervriendelijk verblijf.",
       "faqsDe": [
         {
           "q": "Ist Ajaccio ganzjährig ein gutes Reiseziel mit Haustier?",
@@ -1049,6 +1185,20 @@
         {
           "q": "Welches Stadtviertel in Ajaccio eignet sich am besten als Basis für Haustierbesitzer?",
           "a": "Quartier des Étrangers / Cours Grandval ist am ruhigsten und grünsten, mit dem einfachsten Zugang von der Stadt zu den Wanderwegen. Vieille Ville ist zum Essengehen am haustiertolerantesten. Marina eignet sich am besten für Fähranreisen. Meiden Sie die modernen Wohnblocks östlich des Zentrums - lange, rein gepflasterte Spaziergänge ohne Grün."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Ajaccio het hele jaar door een goede bestemming met huisdier?",
+          "a": "Ja - de winter is het makkelijkste seizoen (12-15 °C, geen zomers strandverbod, geen kwallen, geen tekenhoogseizoen). Mei/juni en september/oktober zijn de sweet spot om warm zeezwemmen te combineren met onbeperkte toegang. Juli/augustus zijn heet en aan het strand beperkt, maar de macchia-paden, die vóór 09:00 uur open zijn, blijven uitstekend."
+        },
+        {
+          "q": "Mag mijn hond mee op de boottocht naar de Sanguinaires?",
+          "a": "Ja, de meeste aanbieders (Nave Va, Découvertes Naturelles) accepteren aangelijnde honden op het open bovendek. Aanmeren op Mezu Mare (het grootste Sanguinaires-eiland) is seizoensgebonden en kan door het Réserve Naturelle beperkt zijn, maar pure boottochten kennen geen beperkingen."
+        },
+        {
+          "q": "Welke wijk in Ajaccio is het meest geschikt als basis voor huisdiereigenaars?",
+          "a": "Quartier des Étrangers/Cours Grandval is het rustigst en groenst, met de makkelijkste toegang vanuit de stad naar de wandelpaden. De oude stad is het meest huisdiertolerant om uit eten te gaan. De jachthaven is het meest geschikt voor aankomst per veerboot. Vermijd de moderne woonblokken ten oosten van het centrum - lange, puur bestrate wandelingen zonder groen."
         }
       ]
     },
@@ -1080,8 +1230,11 @@
           "petPolicyPt": "Cães não permitidos no interior do museu; a fachada exterior e a Place Letizia são pet-friendly para cães à trela durante todo o ano",
           "tipPt": "Peça a outro turista para tomar conta do cão na Place Letizia durante 30 min enquanto um de vocês visita o interior, pois é o mais pequeno dos principais museus de Ajaccio.",
           "descriptionDe": "Das Geburtshaus Napoleon Bonapartes, ein Stadthaus aus dem 17. Jahrhundert im Herzen der Altstadt, heute ein Nationalmuseum. Der Innenbereich ist nicht mit Hund zugänglich, doch die Fassade des Gebäudes und die kleine davorliegende Place Letizia sind wichtige Fotomotive und ganzjährig hundefreundlich.",
+          "descriptionNl": "Het geboortehuis van Napoleon Bonaparte, een 17e-eeuws herenhuis in het hart van de oude stad, nu een nationaal museum. Het interieur is niet toegankelijk met hond, maar de gevel van het gebouw en het kleine ervoor gelegen Place Letizia zijn belangrijke fotolocaties en het hele jaar door hondvriendelijk.",
           "petPolicyDe": "Hunde im Museum nicht erlaubt; Außenfassade und Place Letizia ganzjährig freundlich für angeleinte Hunde",
-          "tipDe": "Bitten Sie einen Mitreisenden, 30 Minuten auf der Place Letizia auf den Hund aufzupassen, während einer von Ihnen den Innenbereich besichtigt - es ist das kleinste der wichtigsten Museen in Ajaccio."
+          "petPolicyNl": "Honden niet toegestaan in het museum; buitengevel en Place Letizia het hele jaar vriendelijk voor aangelijnde honden",
+          "tipDe": "Bitten Sie einen Mitreisenden, 30 Minuten auf der Place Letizia auf den Hund aufzupassen, während einer von Ihnen den Innenbereich besichtigt - es ist das kleinste der wichtigsten Museen in Ajaccio.",
+          "tipNl": "Vraag een medereiziger om 30 minuten op de hond te passen op de Place Letizia terwijl een van u het interieur bezoekt - het is het kleinste van de belangrijkste musea in Ajaccio."
         },
         {
           "name": "Citadelle Miollis & Boulevard Danièle Casanova",
@@ -1103,8 +1256,11 @@
           "petPolicyPt": "Percurso das muralhas exteriores: cães à trela bem-vindos durante todo o ano. Visitas guiadas ao interior: cães não permitidos",
           "tipPt": "Percorra as muralhas ao pôr do sol, pois a luz alaranjada sobre a alvenaria genovesa, mais as ilhas ao largo, é uma das grandes vistas da Córsega.",
           "descriptionDe": "Die genuesische Zitadelle aus dem 16. Jahrhundert bewacht das südliche Ende des Hafens und wurde 2019 von militärischer zu ziviler Nutzung überführt. Der Großteil des Rundgangs entlang des Boulevard Danièle Casanova ist öffentlich zugänglich, mit Meerblick und Promenaden bis zur Place de Gaulle. Innenbesichtigungen sind nur geführt und lassen keine Hunde zu, doch der Mauerrundgang ist der schönste kostenlose Hundespaziergang im Stadtzentrum.",
+          "descriptionNl": "De 16e-eeuwse Genuese citadel bewaakt het zuideinde van de haven en werd in 2019 overgedragen van militair naar civiel gebruik. Het grootste deel van de wandeling langs de Boulevard Danièle Casanova is openbaar toegankelijk, met zeezicht en promenades tot aan de Place de Gaulle. Interieurbezoeken zijn alleen met gids en laten geen honden toe, maar de muurwandeling is de mooiste gratis hondenwandeling in het centrum.",
           "petPolicyDe": "Außenrundgang entlang der Wehrmauern: angeleinte Hunde ganzjährig willkommen. Geführte Innenbesichtigungen: keine Hunde erlaubt",
-          "tipDe": "Gehen Sie den Wehrmauerrundgang zum Sonnenuntergang - das orangefarbene Licht auf dem genuesischen Mauerwerk zusammen mit den vorgelagerten Inseln gehört zu den großen Anblicken Korsikas."
+          "petPolicyNl": "Buitenwandeling langs de vestingmuren: aangelijnde honden het hele jaar welkom. Geleide binnenbezoeken: geen honden toegestaan",
+          "tipDe": "Gehen Sie den Wehrmauerrundgang zum Sonnenuntergang - das orangefarbene Licht auf dem genuesischen Mauerwerk zusammen mit den vorgelagerten Inseln gehört zu den großen Anblicken Korsikas.",
+          "tipNl": "Loop de vestingmuurwandeling bij zonsondergang - het oranje licht op het Genuese metselwerk, samen met de eilanden op de achtergrond, is een van de mooiste plekjes van Corsica."
         },
         {
           "name": "Sanguinaires Boat Tour (Nave Va / Découvertes Naturelles)",
@@ -1126,8 +1282,11 @@
           "petPolicyPt": "Cães à trela bem-vindos no convés superior ao ar livre. 0 euros de suplemento na maioria dos operadores. Cães não permitidos no salão interior com ar condicionado",
           "tipPt": "Reserve a partida ao pôr do sol para o brilho vermelho das ilhas na hora dourada. Leve um tapete antiderrapante ou uma toalha, pois o aço do convés superior pode aquecer ao meio-dia e escorregar quando molhado.",
           "descriptionDe": "Die klassische 2,5-stündige Bootsausflug vom Hafen von Ajaccio rund um die vier Sanguinaires-Inseln am westlichen Eingang des Golfs, mit optionaler Anlandung auf Mezu Mare (der größten Insel, wetter- und Réserve-Naturelle-abhängig). Nave Va und Découvertes Naturelles sind die beiden Hauptanbieter, beide akzeptieren angeleinte Hunde auf den offenen Oberdecks.",
+          "descriptionNl": "De klassieke boottocht van 2,5 uur vanaf de haven van Ajaccio rond de vier Sanguinaires-eilanden bij de westelijke ingang van de golf, met optioneel aanmeren op Mezu Mare (het grootste eiland, afhankelijk van weer en het Réserve Naturelle). Nave Va en Découvertes Naturelles zijn de twee belangrijkste aanbieders, beide accepteren aangelijnde honden op de open bovendekken.",
           "petPolicyDe": "Angeleinte Hunde auf dem offenen Oberdeck willkommen. Bei den meisten Anbietern kein Aufpreis. Im klimatisierten Innensalon keine Hunde erlaubt",
-          "tipDe": "Buchen Sie die Sonnenuntergangsabfahrt für das rote Leuchten der Inseln zur goldenen Stunde. Bringen Sie eine rutschfeste Matte oder ein Handtuch mit - der Stahlboden des Oberdecks kann sich mittags aufheizen und bei Nässe rutschig werden."
+          "petPolicyNl": "Aangelijnde honden welkom op het open bovendek. Bij de meeste aanbieders geen meerprijs. In de geklimatiseerde binnensalon geen honden toegestaan",
+          "tipDe": "Buchen Sie die Sonnenuntergangsabfahrt für das rote Leuchten der Inseln zur goldenen Stunde. Bringen Sie eine rutschfeste Matte oder ein Handtuch mit - der Stahlboden des Oberdecks kann sich mittags aufheizen und bei Nässe rutschig werden.",
+          "tipNl": "Boek de vertrektijd bij zonsondergang voor de rode gloed van de eilanden tijdens het gouden uur. Neem een antislipmat of handdoek mee - de stalen vloer van het bovendek kan 's middags heet worden en glad worden bij nattigheid."
         }
       ],
       "tipsEn": [
@@ -1209,7 +1368,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Ajaccio",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Ajaccio",
       "introDe": "Die Hauptattraktionen von Ajaccio liegen größtenteils im Freien: das Äußere der Maison Bonaparte, die Place Maréchal Foch, die Wehrmauern der Citadelle Miollis, der Innenhof des Palais Fesch und die Sanguinaires-Inseln per Boot. Innenmuseen (Innenbereich der Maison Bonaparte, Kunstsammlung des Palais Fesch) lassen keine Hunde zu, doch Außenbereiche und angrenzende Plätze sind ganzjährig hundefreundlich.",
+      "introNl": "De belangrijkste attracties van Ajaccio bevinden zich grotendeels buiten: de buitenkant van het Maison Bonaparte, de Place Maréchal Foch, de vestingmuren van de Citadelle Miollis, de binnenplaats van het Palais Fesch en de Sanguinaires-eilanden per boot. Binnenmusea (het interieur van het Maison Bonaparte, de kunstcollectie van het Palais Fesch) laten geen honden toe, maar buitenruimtes en aangrenzende pleinen zijn het hele jaar door hondvriendelijk.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund ins Museum Maison Bonaparte mitnehmen?",
@@ -1222,6 +1383,20 @@
         {
           "q": "Ist das Museum Palais Fesch mit Hund zugänglich?",
           "a": "Der Außenhof und die angrenzende Café-Terrasse sind haustierfreundlich. Die Innengalerien mit italienischer Renaissancekunst (eine der besten Sammlungen Frankreichs außerhalb von Paris) lassen keine Hunde zu."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond mee naar binnen in het museum Maison Bonaparte?",
+          "a": "Niet in het museum zelf, maar de buitenkant van het gebouw en het ervoor gelegen Place Letizia zijn het hele jaar door hondvriendelijk. Bezoek het interieur om de beurt of gebruik een uur lang een peer-to-peer huisdierenoppas."
+        },
+        {
+          "q": "Zijn honden toegestaan bij de boottocht naar de Sanguinaires?",
+          "a": "Ja, op het open bovendek bij de meeste aanbieders (Nave Va, Découvertes Naturelles) zonder meerprijs. Geklimatiseerde binnensalons zijn verboden terrein voor honden. Aanmeren op het eiland Mezu Mare is seizoensgebonden en gebonden aan de regels van het Réserve Naturelle."
+        },
+        {
+          "q": "Is het museum Palais Fesch toegankelijk met hond?",
+          "a": "De buitenplaats en het aangrenzende caféterras zijn huisdiervriendelijk. De binnengalerijen met Italiaanse renaissancekunst (een van de beste collecties van Frankrijk buiten Parijs) laten geen honden toe."
         }
       ]
     },
@@ -1249,7 +1424,9 @@
           "descriptionPt": "Plataforma europeia de pet sitting entre particulares com um catálogo constante de cuidadores da zona de Ajaccio que cobrem creche, alojamento, visitas pontuais e passeio de cães. Os cuidadores definem as suas próprias tarifas (normalmente 15 a 30 euros/dia para creche, 25 a 40 euros/noite para alojamento em casa). Perfis verificados, comentários, mensagens na aplicação e um seguro Premium Protection para incidentes.",
           "tipPt": "Filtre por cuidadores com jardim + multilingues para maximizar o conforto do cão e a facilidade para os donos que falam inglês. Os bairros residenciais das Salines/Mezzavia concentram a maioria dos cuidadores.",
           "descriptionDe": "Europäische Peer-to-Peer-Plattform für Haustierbetreuung mit einem stetigen Angebot an Betreuern in der Region Ajaccio, das Tagesbetreuung, Übernachtungsbetreuung, Kurzbesuche und Gassi-Service abdeckt. Betreuer legen ihre eigenen Preise fest (typischerweise 15-30 €/Tag für Tagesbetreuung, 25-40 €/Nacht für Übernachtungsbetreuung zu Hause). Verifizierte Profile, Bewertungen, In-App-Nachrichten und eine Premium-Schutzversicherung für Vorfälle.",
-          "tipDe": "Filtern Sie nach Betreuern mit Garten und Mehrsprachigkeit, um den Komfort für den Hund und die Verständigung für englischsprachige Besitzer zu maximieren. Die Wohnviertel Salines/Mezzavia konzentrieren die meisten Betreuer."
+          "descriptionNl": "Europees peer-to-peer platform voor huisdierenoppas met een gestaag aanbod van oppassers in de regio Ajaccio, dat dagopvang, overnachtingsopvang, korte bezoekjes en uitlaatservice dekt. Oppassers bepalen hun eigen tarieven (doorgaans 15-30 €/dag voor dagopvang, 25-40 €/nacht voor overnachtingsopvang bij hen thuis). Geverifieerde profielen, beoordelingen, in-app berichten en een premium ongevallenverzekering.",
+          "tipDe": "Filtern Sie nach Betreuern mit Garten und Mehrsprachigkeit, um den Komfort für den Hund und die Verständigung für englischsprachige Besitzer zu maximieren. Die Wohnviertel Salines/Mezzavia konzentrieren die meisten Betreuer.",
+          "tipNl": "Filter op oppassers met tuin en meertaligheid, om het comfort voor de hond en de communicatie voor Engelstalige eigenaren te maximaliseren. De woonwijken Salines/Mezzavia hebben de meeste oppassers."
         },
         {
           "name": "AnimalSitting.fr Ajaccio",
@@ -1266,7 +1443,9 @@
           "descriptionPt": "Plataforma nacional apenas em francês com a maior base registada de cuidadores corsos particulares. Comissão de transação mais baixa do que a Pawshake (cerca de 15% contra 19%), mas a interface é só em francês e os comentários podem ser escassos para cada cuidador. Útil para encontrar cuidadores especializados em cães maiores ou mais velhos.",
           "tipPt": "Use o Google Tradutor para navegar pelos perfis dos cuidadores se o seu francês for limitado. A maioria dos cuidadores de Ajaccio fala algum inglês, mesmo quando o seu perfil na AnimalSitting é só em francês.",
           "descriptionDe": "Rein französischsprachige nationale Plattform mit der größten registrierten Basis privater korsischer Betreuer. Niedrigere Vermittlungsprovision als Pawshake (~15 % statt 19 %), doch die Oberfläche ist ausschließlich auf Französisch und die Bewertungen einzelner Betreuer können spärlich sein. Nützlich, um auf größere oder ältere Hunde spezialisierte Betreuer zu finden.",
-          "tipDe": "Nutzen Sie Google Translate, um Betreuerprofile zu durchsuchen, wenn Ihr Französisch begrenzt ist. Die meisten Betreuer in Ajaccio sprechen etwas Englisch, auch wenn ihr AnimalSitting-Profil nur auf Französisch ist."
+          "descriptionNl": "Puur Franstalig landelijk platform met de grootste geregistreerde groep particuliere Corsicaanse oppassers. Lagere bemiddelingscommissie dan Pawshake (~15% in plaats van 19%), maar de interface is uitsluitend in het Frans en de beoordelingen van individuele oppassers kunnen schaars zijn. Handig om oppassers te vinden die gespecialiseerd zijn in grotere of oudere honden.",
+          "tipDe": "Nutzen Sie Google Translate, um Betreuerprofile zu durchsuchen, wenn Ihr Französisch begrenzt ist. Die meisten Betreuer in Ajaccio sprechen etwas Englisch, auch wenn ihr AnimalSitting-Profil nur auf Französisch ist.",
+          "tipNl": "Gebruik Google Translate om oppasprofielen door te nemen als uw Frans beperkt is. De meeste oppassers in Ajaccio spreken wat Engels, ook al is hun AnimalSitting-profiel alleen in het Frans."
         }
       ],
       "tipsEn": [
@@ -1348,7 +1527,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung und Gassi-Service in Ajaccio",
+      "titleNl": "Huisdierenoppas en uitlaatservice in Ajaccio",
       "introDe": "Ajaccio hat einen kleineren Markt für Haustierbetreuung als vergleichbar große Städte auf dem französischen Festland - der Großteil der Nachfrage wird über Peer-to-Peer-Plattformen (Pawshake, AnimalSitting.fr, Holidog) mit lokalen korsischen Betreuern gedeckt, ergänzt durch einige wenige Tierpensionen in der weiteren Gemeinde. Buchen Sie für Sommertermine 2-4 Wochen im Voraus.",
+      "introNl": "Ajaccio heeft een kleinere markt voor huisdierenoppas dan vergelijkbaar grote steden op het Franse vasteland - het grootste deel van de vraag wordt gedekt via peer-to-peer platforms (Pawshake, AnimalSitting.fr, Holidog) met lokale Corsicaanse oppassers, aangevuld met een paar dierenpensions in de wijdere gemeente. Boek voor zomerdata 2-4 weken van tevoren.",
       "faqsDe": [
         {
           "q": "Wie viel kostet Haustierbetreuung in Ajaccio?",
@@ -1361,6 +1542,20 @@
         {
           "q": "Kann ich einen Betreuer finden, der meinen Hund von der Fähre oder vom Flughafen abholt?",
           "a": "Ja, manche Pawshake-Betreuer bieten gegen einen Aufpreis von 10-20 € einen Meet-and-Greet-Abholservice an. Erwähnen Sie den Wunsch in Ihrer ersten Nachricht und bestätigen Sie das Zeitfenster."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost huisdierenoppas in Ajaccio?",
+          "a": "Dagopvang doorgaans 15-30 €/dag, overnachtingsopvang bij de oppasser thuis 25-40 €/nacht, korte bezoekjes 10-15 € per bezoek. Iets boven het gemiddelde van het Franse vasteland, vanwege de kleinere groep oppassers op Corsica."
+        },
+        {
+          "q": "Zijn de huisdierenoppassers in Ajaccio verzekerd?",
+          "a": "Oppassers via platforms (Pawshake, AnimalSitting) zijn gedekt door de platformverzekering voor incidenten tijdens de boeking. Particuliere of via mond-tot-mondreclame gevonden oppassers hebben doorgaans geen formele dekking - overweeg een eigen huisdierenverzekering voor bescherming bij incidenten."
+        },
+        {
+          "q": "Kan ik een oppasser vinden die mijn hond ophaalt van de veerboot of de luchthaven?",
+          "a": "Ja, sommige Pawshake-oppassers bieden tegen een meerprijs van 10-20 € een meet-and-greet ophaalservice aan. Vermeld deze wens in uw eerste bericht en bevestig het tijdvenster."
         }
       ]
     }

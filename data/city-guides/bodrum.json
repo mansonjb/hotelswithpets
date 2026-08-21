@@ -41,9 +41,13 @@
           "tipPt": "Reserve a mesa do jardim perto da velha figueira; é onde há mais sombra e mais espaço para um cão grande se instalar confortavelmente",
           "googleMapsUrl": "https://maps.google.com/?q=Kocadon+Restaurant+Bodrum+Turkey",
           "descriptionDe": "Eines der gefeiertsten Restaurants Bodrums, untergebracht in einem umgebauten osmanischen Haus mit großem schattigem Gartenhof. Bekannt für kreative türkisch-mediterrane Küche: Wolfsbarsch-Ceviche, Lamm mit Wildkräutern und außergewöhnliche Mezze-Platten. Hunde sind im Gartenbereich willkommen.",
+          "descriptionNl": "Een van de meest gevierde restaurants van Bodrum, gevestigd in een omgebouwd Ottomaans huis met een grote schaduwrijke tuinbinnenplaats. Bekend om creatieve Turks-mediterrane keuken: zeebaarsceviche, lam met wilde kruiden en uitzonderlijke mezeschotels. Honden zijn welkom in de tuin.",
           "petPolicyDe": "Hunde im Gartenhof willkommen",
+          "petPolicyNl": "Honden welkom in de tuin",
           "mustTryDe": "Wolfsbarsch-Carpaccio, Lamm mit Sumach, geräucherte Aubergine mit Walnuss",
-          "tipDe": "Reservieren Sie den Gartentisch beim alten Feigenbaum, er bietet den meisten Schatten und Platz für einen großen Hund, um sich bequem niederzulassen"
+          "mustTryNl": "Zeebaarscarpaccio, lam met sumak, gerookte aubergine met walnoot",
+          "tipDe": "Reservieren Sie den Gartentisch beim alten Feigenbaum, er bietet den meisten Schatten und Platz für einen großen Hund, um sich bequem niederzulassen",
+          "tipNl": "Reserveer de tuintafel bij de oude vijgenboom, die biedt de meeste schaduw en ruimte voor een grote hond om lekker te gaan liggen"
         },
         {
           "name": "Marina Yacht Club Restaurant",
@@ -71,9 +75,13 @@
           "tipPt": "O passeio da marina permite cães livremente; combine a sua refeição com um passeio pós-almoço ao longo da doca a ver os barcos",
           "googleMapsUrl": "https://maps.google.com/?q=Bodrum+Marina+waterfront+restaurant",
           "descriptionDe": "Ein Restaurant direkt am Yachthafen mit langer Uferterrasse mit Blick auf die schaukelnden Yachten und die Burg des Heiligen Petrus. Ein entspannter Ort zum Mittagessen, beliebt bei Bootsbesitzern und ihren Hunden. Frischer Fisch, Mezze und kalte Getränke. Hunde sind auf der Hafenterrasse Standard.",
+          "descriptionNl": "Een restaurant direct aan de jachthaven met een lang terras aan het water, met uitzicht op de deinende jachten en het kasteel van Sint-Pieter. Een ontspannen plek voor de lunch, populair bij booteigenaren en hun honden. Verse vis, meze en koude drankjes. Honden zijn standaard welkom op het haventerras.",
           "petPolicyDe": "Hunde regelmäßig auf der Hafenterrasse willkommen",
+          "petPolicyNl": "Honden regelmatig welkom op het haventerras",
           "mustTryDe": "Gegrillte Goldbrasse, Oktopussalat, Baklava",
-          "tipDe": "Die Hafenpromenade erlaubt Hunde uneingeschränkt; verbinden Sie Ihr Essen mit einem Spaziergang am Kai nach dem Mittagessen mit Blick auf die Boote"
+          "mustTryNl": "Gegrilde goudbrasem, octopussalade, baklava",
+          "tipDe": "Die Hafenpromenade erlaubt Hunde uneingeschränkt; verbinden Sie Ihr Essen mit einem Spaziergang am Kai nach dem Mittagessen mit Blick auf die Boote",
+          "tipNl": "De havenpromenade staat honden zonder beperking toe; combineer je maaltijd met een wandeling langs de kade na de lunch met uitzicht op de boten"
         }
       ],
       "tipsEn": [
@@ -137,7 +145,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Bodrum",
+      "titleNl": "Huisdiervriendelijke restaurants in Bodrum",
       "introDe": "Bodrum hat eine der am stärksten europäisch geprägten Gastronomieszenen der Türkei, geformt durch Jahrzehnte des Yachttourismus und eine große Auswanderer-Community. Außenbewirtung ist von April bis Oktober die Norm, und wohlerzogene Hunde auf Terrassen werden in der Mehrheit der Restaurants am Hafen und in der Altstadt akzeptiert. Die Buchten Gümbet und Türkbükü sind besonders hundetolerant.",
+      "introNl": "Bodrum heeft een van de meest Europees getinte restaurantscenes van Turkije, gevormd door decennia van jachttoerisme en een grote expatgemeenschap. Buiten eten is van april tot oktober de norm, en goedopgevoede honden op terrassen worden geaccepteerd in de meerderheid van de restaurants bij de haven en in de oude stad. De baaien Gümbet en Türkbükü zijn bijzonder hondtolerant.",
       "faqsDe": [
         {
           "q": "Ist die Bar- und Clubszene von Bodrum hundefreundlich?",
@@ -146,6 +156,16 @@
         {
           "q": "Finde ich in Bodrum vegane oder vegetarische Speisen für mich, während mein Hund von unserer Mahlzeit isst?",
           "a": "Ja, Bodrums kosmopolitische Restaurantszene bietet zahlreiche vegetarierfreundliche Optionen. Die Mezze-Kultur sorgt dafür, dass an jedem Tisch stets pflanzliche Gerichte verfügbar sind."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is de bar- en clubscene van Bodrum hondvriendelijk?",
+          "a": "Nee. De beroemde Bar Street (Cumhuriyet Caddesi) van Bodrum is 's avonds extreem druk en luid, en totaal ongeschikt voor honden. Blijf voor hondvriendelijk diner bij de jachthaven en in de oude stad."
+        },
+        {
+          "q": "Vind ik in Bodrum veganistisch of vegetarisch eten voor mezelf, terwijl mijn hond meeëet van onze maaltijd?",
+          "a": "Ja, de kosmopolitische restaurantscene van Bodrum biedt talloze vegetarische opties. Dankzij de mezecultuur staan er aan elke tafel altijd plantaardige gerechten."
         }
       ]
     },
@@ -180,8 +200,11 @@
           "tipPt": "Os passeios noturnos ao longo deste caminho são espetaculares; os holofotes do castelo e as luzes da marina em baixo criam vistas excecionais e a queda de temperatura torna-o confortável para os cães",
           "googleMapsUrl": "https://maps.google.com/?q=Bodrum+Castle+windmill+path+Turkey",
           "descriptionDe": "Der Weg vom Yachthafen entlang der Burgmauern hinauf zu den restaurierten Windmühlen bietet ein 360-Grad-Panorama über beide Buchten und die Ägäis. Hunde können auf dem Weg frei laufen; das Außengelände der Burg ist zugänglich, das Museumsinnere jedoch nicht. Ein hervorragender Abendspaziergang, wenn die Burg beleuchtet wird.",
+          "descriptionNl": "Het pad vanaf de jachthaven langs de kasteelmuren omhoog naar de gerestaureerde windmolens biedt een panorama van 360 graden over beide baaien en de Egeïsche Zee. Honden kunnen vrij lopen op het pad; het buitenterrein van het kasteel is toegankelijk, het binnenmuseum niet. Een uitstekende avondwandeling, wanneer het kasteel wordt verlicht.",
           "petPolicyDe": "Hunde auf den Außenwegen frei; kein Zutritt zum Museum",
-          "tipDe": "Abendspaziergänge auf diesem Weg sind spektakulär; die Burgbeleuchtung und die Lichter des Yachthafens darunter sorgen für außergewöhnliche Ausblicke, und die sinkenden Temperaturen machen es für Hunde angenehm"
+          "petPolicyNl": "Honden vrij op de buitenpaden; geen toegang tot het museum",
+          "tipDe": "Abendspaziergänge auf diesem Weg sind spektakulär; die Burgbeleuchtung und die Lichter des Yachthafens darunter sorgen für außergewöhnliche Ausblicke, und die sinkenden Temperaturen machen es für Hunde angenehm",
+          "tipNl": "Avondwandelingen op dit pad zijn spectaculair; de verlichting van het kasteel en de lichten van de jachthaven eronder zorgen voor uitzonderlijke uitzichten, en de dalende temperaturen maken het aangenaam voor honden"
         }
       ],
       "tipsEn": [
@@ -245,7 +268,9 @@
         }
       ],
       "titleDe": "Grünflächen & Hundespaziergänge in Bodrum",
+      "titleNl": "Groene ruimtes en hondenwandelingen in Bodrum",
       "introDe": "Die Stadt Bodrum hat begrenzte Grünflächen, aber hervorragende Spazierwege auf den ruhigen Nebenstraßen der Halbinsel und dem Küstenweg rund um die Burg. Der Burghügel von Bodrum und der Windmühlenhügel über dem Yachthafen sind die wichtigsten erhöhten Spazierbereiche. Das Landesinnere der Halbinsel ist von Oliven- und Mandarinenhainen übersät, die zu Fuß erreichbar sind.",
+      "introNl": "De stad Bodrum heeft beperkte groene ruimte, maar uitstekende wandelpaden op de rustige zijwegen van het schiereiland en het kustpad rond het kasteel. De kasteelheuvel van Bodrum en de windmolenheuvel boven de jachthaven zijn de belangrijkste verhoogde wandelgebieden. Het binnenland van het schiereiland is bezaaid met olijf- en mandarijnboomgaarden die te voet bereikbaar zijn.",
       "faqsDe": [
         {
           "q": "Eignet sich die Halbinsel Bodrum für Wanderungen mit Hund?",
@@ -254,6 +279,16 @@
         {
           "q": "Gibt es offizielle Hundeparks in Bodrum?",
           "a": "Keinen eingezäunten Hundepark in der Stadt Bodrum. Der Rasenbereich am Myndos-Tor und die offenen Strandabschnitte übernehmen diese Rolle informell. Die Gemeinde Bodrum hat die hundefreundliche Infrastruktur in den letzten Jahren verbessert."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is het schiereiland Bodrum geschikt om te wandelen met je hond?",
+          "a": "Zeer goed, vooral buiten het hoogseizoen. Het schiereiland heeft tientallen rustige zijwegen door olijfgaarden en de Egeïsche macchia, vrijwel zonder verkeer. De heuvels van Yalıkavak en de weg naar Gümüşlük zijn bijzonder aangenaam."
+        },
+        {
+          "q": "Zijn er officiële hondenparken in Bodrum?",
+          "a": "Geen omheind hondenpark in de stad Bodrum. Het grasveld bij de Myndospoort en de open strandgedeeltes vervullen deze rol informeel. De gemeente Bodrum heeft de hondvriendelijke infrastructuur de afgelopen jaren verbeterd."
         }
       ]
     },
@@ -328,7 +363,9 @@
         }
       ],
       "titleDe": "Mit Hund auf der Halbinsel Bodrum unterwegs",
+      "titleNl": "Onderweg met je hond op het schiereiland Bodrum",
       "introDe": "Bodrum hat einen eigenen internationalen Flughafen (BJV, Milas-Bodrum) mit Flügen aus großen europäischen Städten. Für die Erkundung der Halbinsel mit Hund wird ein Mietwagen dringend empfohlen. Dolmuş-Linien verbinden alle Dörfer der Halbinsel; kleine Hunde in Transportboxen werden akzeptiert.",
+      "introNl": "Bodrum heeft een eigen internationale luchthaven (BJV, Milas-Bodrum) met vluchten vanuit grote Europese steden. Om het schiereiland met hond te verkennen wordt een huurauto sterk aanbevolen. Dolmuş-lijnen verbinden alle dorpen van het schiereiland; kleine honden in een transportbox worden geaccepteerd.",
       "faqsDe": [
         {
           "q": "Kann mein Hund mit der Fähre von Bodrum nach Kos reisen?",
@@ -337,6 +374,16 @@
         {
           "q": "Ist es einfach, in Bodrum einen haustierfreundlichen Mietwagen zu bekommen?",
           "a": "Standard-Mietwagen akzeptieren in der Türkei Hunde ohne Einschränkung; es gibt keine Zusatzgebühr für Hunde in Mietfahrzeugen (anders als in manchen europäischen Ländern). Bringen Sie eine Kofferraumeinlage mit, falls Ihr Hund haart."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan mijn hond meereizen op de veerboot van Bodrum naar Kos?",
+          "a": "Ja, in principe wel, maar dat vereist een geldig EU-gezondheidscertificaat en rabiësvaccinatie. Controleer voor het boeken de actuele Griekse en Turkse grensvoorwaarden; deze kunnen per seizoen veranderen."
+        },
+        {
+          "q": "Is het makkelijk om in Bodrum een huisdiervriendelijke huurauto te krijgen?",
+          "a": "Standaard huurauto's in Turkije accepteren honden zonder beperking; er is geen extra kosten voor honden in huurvoertuigen (anders dan in sommige Europese landen). Neem een kofferbakinleg mee als je hond haren verliest."
         }
       ]
     },
@@ -371,8 +418,11 @@
           "tipPt": "Estacione na entrada da aldeia (os carros não são permitidos no centro da aldeia) e caminhe 10 min até à praia; as áreas rasas de água no extremo sul da praia são as melhores para os cães",
           "googleMapsUrl": "https://maps.google.com/?q=Gumusluk+Beach+Bodrum+Turkey",
           "descriptionDe": "Ein ruhiges, autofreies Fischerdorf an der Westspitze der Halbinsel, gebaut um eine geschützte Bucht mit einer antiken versunkenen Stadt (Myndos). Der Sand- und Kiesstrand ist offen, und Hunde schwimmen hier außerhalb der Hochsaison im Juli/August frei. Das Dorf hat eine entspannte Reihe an Fischrestaurants, in denen Hunde an den Außentischen Standard sind.",
+          "descriptionNl": "Een rustig, autovrij vissersdorp aan de westpunt van het schiereiland, gebouwd rond een beschutte baai met een antieke verzonken stad (Myndos). Het zand- en kiezelstrand is open, en honden zwemmen hier vrij buiten het hoogseizoen van juli/augustus. Het dorp heeft een ontspannen rij visrestaurants waar honden aan de buitentafels standaard welkom zijn.",
           "petPolicyDe": "Hunde am Strand und an Außentischen der Restaurants frei",
-          "tipDe": "Parken Sie am Dorfeingang (Autos sind im Dorfzentrum nicht erlaubt) und gehen Sie 10 Minuten zum Strand; die flachen Wattbereiche am südlichen Ende des Strands eignen sich am besten für Hunde"
+          "petPolicyNl": "Honden vrij op het strand en aan de buitentafels van de restaurants",
+          "tipDe": "Parken Sie am Dorfeingang (Autos sind im Dorfzentrum nicht erlaubt) und gehen Sie 10 Minuten zum Strand; die flachen Wattbereiche am südlichen Ende des Strands eignen sich am besten für Hunde",
+          "tipNl": "Parkeer bij de ingang van het dorp (auto's zijn niet toegestaan in het centrum) en loop 10 minuten naar het strand; de ondiepe wadgedeeltes aan het zuidelijke uiteinde van het strand zijn het meest geschikt voor honden"
         }
       ],
       "tipsEn": [
@@ -436,7 +486,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände auf der Halbinsel Bodrum",
+      "titleNl": "Hondvriendelijke stranden op het schiereiland Bodrum",
       "introDe": "Die Halbinsel Bodrum hat über 25 Buchten und Strände. Der Hauptstrand der Stadt und die organisierten Beach Clubs lassen in der Hauptsaison keine Hunde zu. Die hundefreundlichsten Strände liegen auf der Nordhalbinsel (Gümüşlük, Yalıkavak) in der Nebensaison sowie in den nur mit dem Auto erreichbaren Buchten abseits der Hauptstraßen.",
+      "introNl": "Het schiereiland Bodrum heeft meer dan 25 baaien en stranden. Het hoofdstrand van de stad en de georganiseerde beachclubs laten in het hoogseizoen geen honden toe. De meest hondvriendelijke stranden liggen op het noordelijke schiereiland (Gümüşlük, Yalıkavak) buiten het hoogseizoen, evenals in de alleen met de auto bereikbare baaien weg van de hoofdwegen.",
       "faqsDe": [
         {
           "q": "Welcher Strand auf der Halbinsel Bodrum ist am hundefreundlichsten?",
@@ -445,6 +497,16 @@
         {
           "q": "Können Hunde zu Bodrums beliebten Beach Clubs wie Antika Beach oder Miam?",
           "a": "Nein. Große Beach Clubs setzen eine Regel ohne Hunde durch. Dies sind organisierte, kostenpflichtige Anlagen mit Liegen und Personal; Hunde sind unabhängig von der Saison nicht erlaubt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welk strand op het schiereiland Bodrum is het meest hondvriendelijk?",
+          "a": "Gümüşlük is consequent het meest hondtolerant. De vissersdorpcultuur en het ontbreken van beachclubs maken het het hele jaar door gastvrij. Yalıkavak en de baaien ten noorden van Torba zijn ook goede opties."
+        },
+        {
+          "q": "Mogen honden naar de populaire beachclubs van Bodrum zoals Antika Beach of Miam?",
+          "a": "Nee. Grote beachclubs handhaven een geen-honden-beleid. Dit zijn georganiseerde, betaalde faciliteiten met ligbedden en personeel; honden zijn ongeacht het seizoen niet toegestaan."
         }
       ]
     },
@@ -480,8 +542,11 @@
           "tipPt": "Traga o seu passaporte UE de animal e os registos de vacinação; os veterinários turcos estão familiarizados com a documentação UE e registarão qualquer tratamento no seu passaporte",
           "googleMapsUrl": "https://maps.google.com/?q=veteriner+klinigi+Bodrum+Turkey",
           "descriptionDe": "Eine der größeren Tierarztpraxen in Bodrum, die Routineversorgung und kleinere Notfälle behandelt. Mehrere Tierärzte sprechen einfaches Englisch. In der Sommersaison mit erweiterten Öffnungszeiten. Bei schweren Notfällen kann die Klinik nach Milas oder Muğla überweisen.",
+          "descriptionNl": "Een van de grotere dierenartsenpraktijken in Bodrum, die reguliere zorg en kleinere spoedgevallen behandelt. Meerdere dierenartsen spreken eenvoudig Engels. In het zomerseizoen met verruimde openingstijden. Bij ernstige spoedgevallen kan de kliniek doorverwijzen naar Milas of Muğla.",
           "petPolicyDe": "Alle Haustiere willkommen",
-          "tipDe": "Bringen Sie Ihren EU-Heimtierausweis und Impfnachweise mit; türkische Tierärzte sind mit EU-Dokumentation vertraut und tragen jede Behandlung in Ihren Ausweis ein"
+          "petPolicyNl": "Alle huisdieren welkom",
+          "tipDe": "Bringen Sie Ihren EU-Heimtierausweis und Impfnachweise mit; türkische Tierärzte sind mit EU-Dokumentation vertraut und tragen jede Behandlung in Ihren Ausweis ein",
+          "tipNl": "Neem je EU-huisdierenpaspoort en vaccinatiebewijzen mee; Turkse dierenartsen zijn vertrouwd met EU-documentatie en noteren elke behandeling in je paspoort"
         }
       ],
       "tipsEn": [
@@ -545,7 +610,9 @@
         }
       ],
       "titleDe": "Tierärzte & tiermedizinische Notfallversorgung in Bodrum",
+      "titleNl": "Dierenartsen en diergeneeskundige spoedzorg in Bodrum",
       "introDe": "Bodrum verfügt über mehrere Tierarztpraxen, darunter mindestens eine 24-Stunden-Notfallklinik in der Saison, was eine deutlich bessere Versorgung darstellt als in kleineren türkischen Ferienorten. Die Auswanderer-Community hat die Nachfrage nach guter tiermedizinischer Versorgung angetrieben.",
+      "introNl": "Bodrum heeft meerdere dierenartsenpraktijken, waaronder minstens één 24-uurs spoedkliniek in het seizoen, wat aanzienlijk betere zorg biedt dan in kleinere Turkse badplaatsen. De expatgemeenschap heeft de vraag naar goede diergeneeskundige zorg aangewakkerd.",
       "faqsDe": [
         {
           "q": "Sprechen Tierärzte in Bodrum Englisch?",
@@ -554,6 +621,16 @@
         {
           "q": "Was tue ich, wenn mein Hund beim Schwimmen in der Ägäis mit Seeigeln in Kontakt kommt?",
           "a": "Sichtbare Stacheln mit einer Pinzette entfernen (Handschuhe tragen). Die Stacheln nicht zerdrücken, da die Spitzen abbrechen. Die betroffene Pfote in warmem Wasser mit Antiseptikum einweichen. Bei tief eingedrungenen Stacheln oder einer Infektion einen Tierarzt aufsuchen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Spreken dierenartsen in Bodrum Engels?",
+          "a": "In Bodrum specifiek wel, bovengemiddeld; de grote expatgemeenschap betekent dat dierenartsen gewend zijn aan Engelssprekende klanten. Jongere dierenartsen zijn vaak vloeiend."
+        },
+        {
+          "q": "Wat doe ik als mijn hond tijdens het zwemmen in de Egeïsche Zee in aanraking komt met zee-egels?",
+          "a": "Verwijder zichtbare stekels met een pincet (draag handschoenen). Kneus de stekels niet, want de punten breken af. Week de aangedane poot in warm water met antisepticum. Ga bij diep doorgedrongen stekels of een infectie naar een dierenarts."
         }
       ]
     },
@@ -619,7 +696,9 @@
         }
       ],
       "titleDe": "Wichtige Tipps für Reisen mit Hund nach Bodrum",
+      "titleNl": "Belangrijke tips voor reizen met je hond naar Bodrum",
       "introDe": "Bodrum ist der am stärksten europäisch geprägte Ferienort der türkischen Küste und dadurch der hundefreundlichste unter den großen türkischen Strandzielen. Die Auswanderer-Community und die Yachtkultur haben eine Infrastruktur aufgebaut, die Hunde bereitwilliger akzeptiert als anderswo in der Türkei. Meiden Sie die Hauptsaison Juli/August wegen der Hitze; die Nebensaisons sind hervorragend.",
+      "introNl": "Bodrum is de meest Europees getinte badplaats aan de Turkse kust, en daardoor de meest hondvriendelijke onder de grote Turkse strandbestemmingen. De expatgemeenschap en de jachtcultuur hebben een infrastructuur opgebouwd die honden gemakkelijker accepteert dan elders in Turkije. Vermijd het hoogseizoen juli/augustus vanwege de hitte; de tussenseizoenen zijn uitstekend.",
       "faqsDe": [
         {
           "q": "Kann mein Hund in einem Hotel in Bodrum übernachten?",
@@ -628,6 +707,16 @@
         {
           "q": "Ist Bodrum für einen entspannten Hundeurlaub zu touristisch?",
           "a": "Im Juli/August ja: extrem überfüllt, heiß und laut. In der Nebensaison (Mai/Juni, September/Oktober) ist es ein wirklich angenehmes und gut handhabbares Reiseziel. Die Halbinsel ist groß genug, um immer ruhige Ecken zu finden."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan mijn hond overnachten in een hotel in Bodrum?",
+          "a": "Een groeiend aantal accepteert honden; bevestig dit altijd bij het boeken. Let op boetiekhotels en particuliere villaverhuur, die eerder honden toelaten dan grote hotelketens. De regio Türkbükü heeft meerdere hondvriendelijke boetiekverblijven."
+        },
+        {
+          "q": "Is Bodrum te toeristisch voor een ontspannen hondenvakantie?",
+          "a": "In juli/augustus wel: extreem druk, heet en luid. Buiten het hoogseizoen (mei/juni, september/oktober) is het een echt aangename en goed te overzien bestemming. Het schiereiland is groot genoeg om altijd rustige hoekjes te vinden."
         }
       ]
     },
@@ -662,8 +751,11 @@
           "tipPt": "Vá ao nascer do sol ou ao final da tarde; o teatro fica voltado a oeste, por isso a luz da hora dourada sobre a pedra é espetacular e a temperatura é gerível para os cães",
           "googleMapsUrl": "https://maps.google.com/?q=Bodrum+Antique+Theatre+Turkey",
           "descriptionDe": "Ein restauriertes antikes griechisch-römisches Theater auf dem Hügel über Bodrum mit 13.000 Sitzplätzen, das noch für Sommerkonzerte genutzt wird. Außerhalb der Konzerttermine ist es für Besuche geöffnet, und Hunde können frei im Theaterrund laufen. Der Blick über die Bucht und die Burg ist außergewöhnlich. Ein kurzer Spaziergang vom Stadtzentrum aus.",
+          "descriptionNl": "Een gerestaureerd antiek Grieks-Romeins theater op de heuvel boven Bodrum met 13.000 zitplaatsen, dat nog steeds wordt gebruikt voor zomerconcerten. Buiten de concertdata is het open voor bezoek, en honden kunnen vrij rondlopen in de theaterkom. Het uitzicht over de baai en het kasteel is uitzonderlijk. Een korte wandeling vanaf het stadscentrum.",
           "petPolicyDe": "Hunde frei, wenn kein Konzert angesetzt ist",
-          "tipDe": "Gehen Sie bei Sonnenaufgang oder am späten Nachmittag; das Theater ist nach Westen ausgerichtet, sodass das goldene Licht auf dem Stein spektakulär ist und die Temperatur für Hunde angenehm bleibt"
+          "petPolicyNl": "Honden vrij als er geen concert gepland is",
+          "tipDe": "Gehen Sie bei Sonnenaufgang oder am späten Nachmittag; das Theater ist nach Westen ausgerichtet, sodass das goldene Licht auf dem Stein spektakulär ist und die Temperatur für Hunde angenehm bleibt",
+          "tipNl": "Ga bij zonsopgang of laat in de middag; het theater is naar het westen gericht, waardoor het gouden licht op de steen spectaculair is en de temperatuur aangenaam blijft voor honden"
         }
       ],
       "tipsEn": [
@@ -727,7 +819,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Bodrum",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Bodrum",
       "introDe": "Die Burg des Heiligen Petrus in Bodrum (Museum für Unterwasserarchäologie) ist die wichtigste Innenattraktion und lässt keine Hunde zu. Alle Außensehenswürdigkeiten (das antike Theater, das Mausoleum-Gelände, der Yachthafen, die Gassen der Altstadt) sind mit Hund frei zugänglich.",
+      "introNl": "Het kasteel van Sint-Pieter in Bodrum (Museum voor Onderwaterarcheologie) is de belangrijkste binnenattractie en laat geen honden toe. Alle buitenbezienswaardigheden (het antieke theater, het mausoleumterrein, de jachthaven, de steegjes van de oude stad) zijn vrij toegankelijk met hond.",
       "faqsDe": [
         {
           "q": "Kann mein Hund zu den Bodrumer Sommerkonzerten im antiken Theater kommen?",
@@ -736,6 +830,16 @@
         {
           "q": "Ist der Yachthafen von Bodrum abends mit Hund begehbar?",
           "a": "Ja, absolut. Der Hafenstreifen Neyzen Tevfik Caddesi ist eine der besten Abendspazierrouten mit Hund in der Türkei: eben, beleuchtet, mit Restaurants auf der einen und Booten auf der anderen Seite."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan mijn hond mee naar de zomerconcerten van Bodrum in het antieke theater?",
+          "a": "Op concertavonden zijn het theater en de omgeving overvol; dat zou voor de meeste honden stressvol zijn. Buiten de concertdata is het theater een rustige, uitstekende bestemming voor honden."
+        },
+        {
+          "q": "Is de jachthaven van Bodrum 's avonds te belopen met hond?",
+          "a": "Ja, absoluut. De havenstrook Neyzen Tevfik Caddesi is een van de beste avondwandelroutes met hond in Turkije: vlak, verlicht, met restaurants aan de ene kant en boten aan de andere."
         }
       ]
     },
@@ -810,7 +914,9 @@
         }
       ],
       "titleDe": "Hundebetreuung & Unterbringung in Bodrum",
+      "titleNl": "Hondenoppas en onderbrenging in Bodrum",
       "introDe": "Bodrum verfügt über die am besten entwickelte Infrastruktur für Haustierbetreuung unter allen türkischen Ferienorten, angetrieben durch die große ansässige Auswanderer-Community. Facebook-Gruppen, spezialisierte Sitter-Unternehmen und einige Tierpensionen sind alle verfügbar.",
+      "introNl": "Bodrum heeft de best ontwikkelde infrastructuur voor huisdierenzorg van alle Turkse badplaatsen, aangedreven door de grote lokale expatgemeenschap. Facebookgroepen, gespecialiseerde oppasbedrijven en een aantal dierenpensions zijn allemaal beschikbaar.",
       "faqsDe": [
         {
           "q": "Gibt es Tierpensionen in Bodrum?",
@@ -819,6 +925,16 @@
         {
           "q": "Kann mein Hund in einer Ferienvilla in Bodrum übernachten?",
           "a": "Viele private Villenvermietungen auf der Halbinsel Bodrum heißen Hunde ausdrücklich willkommen; dies ist oft die beste Unterkunftsoption für Hundebesitzer. Suchen Sie auf Buchungsplattformen nach 'pet-friendly villa Bodrum'."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er dierenpensions in Bodrum?",
+          "a": "Ja, Bodrum heeft minstens twee professionele dierenpensions buiten het stadscentrum; vraag bij je hotel of in de expat-Facebookgroepen naar actuele aanbevelingen, aangezien het aanbod van jaar tot jaar verandert."
+        },
+        {
+          "q": "Kan mijn hond overnachten in een vakantievilla in Bodrum?",
+          "a": "Veel particuliere villaverhuur op het schiereiland Bodrum heet honden uitdrukkelijk welkom; dit is vaak de beste accommodatieoptie voor hondenbezitters. Zoek op boekingsplatforms naar 'pet-friendly villa Bodrum'."
         }
       ]
     }

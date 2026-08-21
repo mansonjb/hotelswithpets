@@ -41,9 +41,13 @@
           "tipPt": "No verão reserve uma mesa na esplanada ao início da noite, quando a baía arrefece e a pedra já não está quente para as patas",
           "googleMapsUrl": "https://maps.google.com/?q=Il-Kartell+Restaurant+Marsalforn+Gozo",
           "descriptionDe": "Eine seit langem bestehende Fischinstitution direkt an der Marsalforn Bay, mit überdachter Wasserterrasse mit Blick über den Hafen. Der Fisch kommt täglich frisch an, und die entspannte Terrasse ist bekannt dafür, fellfreundlich zu sein, sodass ein angeleinter Hund zu Ihren Füßen bestens dazupasst.",
+          "descriptionNl": "Een al lang bestaande visinstelling direct aan Marsalforn Bay, met een overdekt waterterras met uitzicht over de haven. De vis komt dagelijks vers binnen, en het ontspannen terras staat bekend als huisdiervriendelijk, zodat een aangelijnde hond aan je voeten perfect past.",
           "petPolicyDe": "Hunde auf der Wasserterrasse willkommen",
+          "petPolicyNl": "Honden welkom op het waterterras",
           "mustTryDe": "Frischer lokaler Fisch, gozitanische Ravioli",
-          "tipDe": "Buchen Sie im Sommer einen Terrassentisch für den frühen Abend, wenn die Bucht abkühlt und der Stein für Pfoten nicht mehr heiß ist"
+          "mustTryNl": "Verse lokale vis, Gozitaanse ravioli",
+          "tipDe": "Buchen Sie im Sommer einen Terrassentisch für den frühen Abend, wenn die Bucht abkühlt und der Stein für Pfoten nicht mehr heiß ist",
+          "tipNl": "Boek in de zomer een terrastafel voor vroeg in de avond, wanneer de baai afkoelt en de steen niet meer heet is voor pootjes"
         },
         {
           "name": "The Boathouse",
@@ -71,9 +75,13 @@
           "tipPt": "Leve uma toalha. Os cães nadam muitas vezes na enseada, e a entrada rochosa é suave e pouco profunda",
           "googleMapsUrl": "https://maps.google.com/?q=The+Boathouse+Xlendi+Gozo",
           "descriptionDe": "Direkt am Wasser in der hübschen Bucht von Xlendi gelegen, gilt The Boathouse weithin als eines der besten Fischrestaurants auf Gozo und heißt Hunde wirklich gerne willkommen. Die Bucht ist flach und ruhig, sodass Ihr Hund zwischen den Gängen nur wenige Schritte vom Tisch entfernt kurz baden kann.",
+          "descriptionNl": "Direct aan het water gelegen in de mooie baai van Xlendi, wordt The Boathouse algemeen beschouwd als een van de beste visrestaurants van Gozo en verwelkomt het echt graag honden. De baai is ondiep en rustig, zodat je hond tussen de gangen door slechts een paar stappen van tafel kort kan zwemmen.",
           "petPolicyDe": "Hunde an den Außentischen am Wasser willkommen",
+          "petPolicyNl": "Honden welkom aan de buitentafels bij het water",
           "mustTryDe": "Gegrillter Fisch des Tages, Meeresfrüchteplatte",
-          "tipDe": "Bringen Sie ein Handtuch mit. Hunde schwimmen hier oft in der Bucht, und der felsige Zugang ist sanft und flach"
+          "mustTryNl": "Gegrilde vis van de dag, zeevruchtenschotel",
+          "tipDe": "Bringen Sie ein Handtuch mit. Hunde schwimmen hier oft in der Bucht, und der felsige Zugang ist sanft und flach",
+          "tipNl": "Neem een handdoek mee. Honden zwemmen hier vaak in de baai, en de rotsachtige toegang is zacht en ondiep"
         },
         {
           "name": "Il Gabbiano",
@@ -101,9 +109,13 @@
           "tipPt": "Se o seu cão é tímido com outros cães, peça um canto mais sossegado da esplanada, pois os cães residentes circulam na frente",
           "googleMapsUrl": "https://maps.google.com/?q=Il+Gabbiano+Marsalforn+Gozo",
           "descriptionDe": "Ein Lokal direkt am Meer in Marsalforn, das sich fest auf Gozos Liste hundefreundlicher Adressen etabliert hat, auch weil der Besitzer mehrere kleine Hunde hält, die Gäste begrüßen. Es erwarten Sie frischer Fisch und ein warmherziger, unkomplizierter Empfang, bei dem Ihr eigener Hund auf der Terrasse in guter Gesellschaft ist.",
+          "descriptionNl": "Een tent direct aan zee in Marsalforn, die stevig op de lijst van hondvriendelijke adressen van Gozo staat, ook omdat de eigenaar meerdere kleine honden houdt die gasten begroeten. Er wachten je verse vis en een warme, ongedwongen ontvangst, waarbij je eigen hond op het terras in goed gezelschap is.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen; hauseigene Hunde vor Ort",
+          "petPolicyNl": "Honden welkom op het terras; eigen honden aanwezig",
           "mustTryDe": "Frischer Fisch, mediterrane Pasta",
-          "tipDe": "Falls Ihr Hund schüchtern gegenüber anderen Hunden ist, bitten Sie um eine ruhigere Ecke der Terrasse, da die hauseigenen Hunde vorne umherstreifen"
+          "mustTryNl": "Verse vis, mediterrane pasta",
+          "tipDe": "Falls Ihr Hund schüchtern gegenüber anderen Hunden ist, bitten Sie um eine ruhigere Ecke der Terrasse, da die hauseigenen Hunde vorne umherstreifen",
+          "tipNl": "Als je hond verlegen is tegenover andere honden, vraag dan om een rustiger hoekje van het terras, want de huishonden zwerven vooraan rond"
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants auf Gozo",
+      "titleNl": "Hondvriendelijke restaurants op Gozo",
       "introDe": "Gozos Gastronomieszene ist ganz auf das Meer ausgerichtet, und das passt perfekt zu Hunden: Die besten Tische stehen meist auf offenen Terrassen direkt am Wasser in Marsalforn, Xlendi und Mgarr. Außerhalb der Sommersaison ist die Insel ruhig und entspannt, sodass ein gut erzogener Hund an der Leine an den meisten Restaurants am Meer wirklich willkommen ist. Im Juli und August sollten Sie ein frühes Mittagessen oder ein spätes Abendessen wählen, damit Ihr Hund mittags nicht auf heißem Stein liegen muss.",
+      "introNl": "De horecascene van Gozo is helemaal gericht op de zee, en dat past perfect bij honden: de beste tafels staan meestal op open terrassen direct aan het water in Marsalforn, Xlendi en Mgarr. Buiten het zomerseizoen is het eiland rustig en ontspannen, zodat een goed opgevoede hond aan de lijn echt welkom is bij de meeste restaurants aan zee. In juli en augustus kun je beter kiezen voor een vroege lunch of een laat diner, zodat je hond 's middags niet op hete steen hoeft te liggen.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants auf Gozo erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Stellen Restaurants auf Gozo Wasser für Hunde bereit?",
           "a": "Manche schon, besonders die üblichen hundefreundlichen Adressen, aber garantiert ist es nicht. Bringen Sie einen faltbaren Napf mit und bitten Sie das Personal einfach, ihn aufzufüllen. Man hilft dort in der Regel sehr gerne."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants op Gozo?",
+          "a": "Op buitenterrassen wel, in de meeste restaurants aan zee in Marsalforn, Xlendi en Mgarr is een aangelijnde, goed opgevoede hond welkom. Binnenruimtes zijn meestal alleen voor gasten zonder dier, plan dus een plekje buiten, wat in het klimaat van Gozo sowieso de norm is."
+        },
+        {
+          "q": "Wat is het beste moment om in de zomer met hond uit eten te gaan op Gozo?",
+          "a": "Vroeg in de avond of na zonsondergang. De middaghitte van juni tot september maakt stenen terrassen onaangenaam voor pootjes, en veel keukens sluiten bovendien tussen de middag. Plan een tafel vanaf ongeveer 19:00 uur."
+        },
+        {
+          "q": "Bieden restaurants op Gozo water voor honden aan?",
+          "a": "Sommige wel, vooral de bekende hondvriendelijke adressen, maar het is geen garantie. Neem een opvouwbaar bakje mee en vraag het personeel het gewoon te vullen. Meestal helpt men daar graag mee."
         }
       ]
     },
@@ -229,8 +257,11 @@
           "tipPt": "Faça este passeio ao nascer ou ao pôr do sol. Não há sombra no planalto e a rocha irradia calor toda a tarde no verão",
           "googleMapsUrl": "https://maps.google.com/?q=Ta+Cenc+Cliffs+Gozo",
           "descriptionDe": "Die höchsten Klippen auf Gozo, die sich über der Südküste nahe Sannat erheben, mit weitem offenem Garigue-Plateau und weiten Blicken über das Mittelmeer. Die flachen Wege auf dem Klippenplateau eignen sich hervorragend für einen angeleinten Hundespaziergang, doch es gibt ungesicherte Abgründe, halten Sie Ihren Hund also jederzeit dicht an der Leine.",
+          "descriptionNl": "De hoogste kliffen van Gozo, die zich verheffen boven de zuidkust nabij Sannat, met een wijd open garigue-plateau en verre uitzichten over de Middellandse Zee. De vlakke paden op het klifplateau lenen zich uitstekend voor een aangelijnde hondenwandeling, maar er zijn onbeveiligde afgronden, houd je hond dus altijd kort aan de lijn.",
           "offLeashAreaDe": "Keiner. Hunde in der Nähe der ungesicherten Klippenkanten anleinen",
-          "tipDe": "Gehen Sie diesen Weg bei Sonnenauf- oder -untergang. Auf dem Plateau gibt es keinen Schatten, und der Fels strahlt im Sommer den ganzen Nachmittag Hitze ab"
+          "offLeashAreaNl": "Geen. Honden aanlijnen bij de onbeveiligde klifranden",
+          "tipDe": "Gehen Sie diesen Weg bei Sonnenauf- oder -untergang. Auf dem Plateau gibt es keinen Schatten, und der Fels strahlt im Sommer den ganzen Nachmittag Hitze ab",
+          "tipNl": "Loop dit pad bij zonsopgang of zonsondergang. Er is geen schaduw op het plateau, en de rots straalt in de zomer de hele middag hitte af"
         },
         {
           "name": "Dwejra & the Inland Sea",
@@ -252,8 +283,11 @@
           "tipPt": "Vá cedo. O parque de estacionamento e os caminhos enchem-se de visitantes a meio da manhã, e quase não há sombra depois de o sol nascer",
           "googleMapsUrl": "https://maps.google.com/?q=Dwejra+Inland+Sea+Gozo",
           "descriptionDe": "Gozos dramatischster Küstenabschnitt, Heimat des Inland Sea, des Fungus Rock, des Blue Hole und des Dwejra Tower. Die offenen Küstenwege rund um die Bucht eignen sich für einen leichten, malerischen angeleinten Spaziergang, und außerhalb der Saison kann Ihr Hund am felsigen Wasserrand des Inland Sea planschen.",
+          "descriptionNl": "Het meest dramatische kustgedeelte van Gozo, thuisbasis van de Inland Sea, de Fungus Rock, het Blue Hole en de Dwejra Tower. De open kustpaden rond de baai lenen zich voor een lichte, schilderachtige wandeling aan de lijn, en buiten het seizoen kan je hond bij de rotsachtige waterrand van de Inland Sea plonzen.",
           "offLeashAreaDe": "Kein ausgewiesener Bereich. Leinenpflicht; felsiger Wasserzugang am Inland Sea",
-          "tipDe": "Gehen Sie früh los. Parkplatz und Wege füllen sich am späten Vormittag mit Bootstouristen, und sobald die Sonne oben steht, gibt es fast keinen Schatten mehr"
+          "offLeashAreaNl": "Geen aangewezen zone. Aanlijnplicht; rotsachtige watertoegang bij de Inland Sea",
+          "tipDe": "Gehen Sie früh los. Parkplatz und Wege füllen sich am späten Vormittag mit Bootstouristen, und sobald die Sonne oben steht, gibt es fast keinen Schatten mehr",
+          "tipNl": "Ga er vroeg op uit. De parkeerplaats en paden lopen laat in de ochtend vol met bootvaarders, en zodra de zon hoog staat, is er bijna geen schaduw meer"
         },
         {
           "name": "Mgarr ix-Xini Valley Walk",
@@ -275,8 +309,11 @@
           "tipPt": "É o passeio mais adequado ao verão em Gozo graças à sombra do vale. Ainda assim, vá antes do meio da manhã em julho e agosto",
           "googleMapsUrl": "https://maps.google.com/?q=Mgarr+ix-Xini+Gozo",
           "descriptionDe": "Ein grüner, geschützter Talweg, der hinunter zur schmalen, felsigen Bucht von Mgarr ix-Xini führt, einer der schattigeren Wanderungen der Insel dank der Talhänge und Bäume. Die Bucht ist felsig statt sandig, Hunde dürfen also ins Wasser, und die Bucht ist ruhig und geschützt.",
+          "descriptionNl": "Een groen, beschut dalpad dat afdaalt naar de smalle, rotsachtige baai van Mgarr ix-Xini, een van de schaduwrijkste wandelingen van het eiland dankzij de dalhellingen en bomen. De baai is rotsachtig in plaats van zanderig, dus honden mogen het water in, en de baai is rustig en beschut.",
           "offLeashAreaDe": "Kein ausgewiesener Bereich. Leinenpflicht auf dem Weg; Hunde dürfen außerhalb der Saison in der felsigen Bucht schwimmen",
-          "tipDe": "Dies ist der sommerfreundlichste Spaziergang auf Gozo dank des Talschattens. Gehen Sie im Juli und August dennoch vor dem späten Vormittag"
+          "offLeashAreaNl": "Geen aangewezen zone. Aanlijnplicht op het pad; honden mogen buiten het seizoen zwemmen in de rotsachtige baai",
+          "tipDe": "Dies ist der sommerfreundlichste Spaziergang auf Gozo dank des Talschattens. Gehen Sie im Juli und August dennoch vor dem späten Vormittag",
+          "tipNl": "Dit is de meest zomervriendelijke wandeling op Gozo dankzij de schaduw van het dal. Ga in juli en augustus toch vóór het late ochtenduur"
         }
       ],
       "tipsEn": [
@@ -340,7 +377,9 @@
         }
       ],
       "titleDe": "Hundespaziergänge & Natur auf Gozo",
+      "titleNl": "Hondenwandelingen en natuur op Gozo",
       "introDe": "Gozo ist klein, ländlich und von Landwegen durchzogen, weshalb die eigentlichen Hundespaziergänge hier Küstenpfade und Täler sind statt eingezäunter Stadtparks. Die Klippen von Ta' Cenc, die dramatische Küste von Dwejra und die grünen Talwanderungen Richtung Mgarr ix-Xini sind allesamt offenes Gebiet für angeleinte Hunde mit Meerblick auf der ganzen Strecke. Auf den Klippen gibt es kaum natürlichen Schatten, gehen Sie also von Juni bis September bei Sonnenaufgang oder -untergang und führen Sie immer Wasser für Ihren Hund mit.",
+      "introNl": "Gozo is klein, landelijk en doorkruist met landwegen, waardoor de echte hondenwandelingen hier kustpaden en dalen zijn in plaats van omheinde stadsparken. De kliffen van Ta' Cenc, de dramatische kust van Dwejra en de groene daltochten richting Mgarr ix-Xini zijn allemaal open gebied voor aangelijnde honden met zeezicht over de hele route. Op de kliffen is er nauwelijks natuurlijke schaduw, ga dus van juni tot september bij zonsopgang of zonsondergang en neem altijd water mee voor je hond.",
       "faqsDe": [
         {
           "q": "Gibt es Hundeparks auf Gozo?",
@@ -349,6 +388,16 @@
         {
           "q": "Wo kann mein Hund im Sommer im Schatten spazieren auf Gozo?",
           "a": "Der Talweg von Mgarr ix-Xini ist am schattigsten, mit Schatten durch die Talhänge und Bäume. Die meisten Klippen- und Küstenrouten liegen völlig offen, machen Sie diese also von Juni bis September bei Sonnenaufgang oder -untergang."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er hondenparken op Gozo?",
+          "a": "Niet in de omheinde, stedelijke zin. Hondenwandelingen op Gozo vinden plaats op open landwegen en kustpaden, zoals in Ta' Cenc, Dwejra en het dal van Mgarr ix-Xini. Honden moeten aangelijnd blijven, vooral bij onbeveiligde klifranden."
+        },
+        {
+          "q": "Waar kan mijn hond in de zomer in de schaduw wandelen op Gozo?",
+          "a": "Het dalpad van Mgarr ix-Xini is het schaduwrijkst, met schaduw van de dalhellingen en bomen. De meeste klif- en kustroutes liggen volledig open, doe die dus van juni tot september bij zonsopgang of zonsondergang."
         }
       ]
     },
@@ -474,7 +523,9 @@
         }
       ],
       "titleDe": "Mit Haustieren unterwegs auf Gozo",
+      "titleNl": "Met huisdieren op pad op Gozo",
       "introDe": "Um Gozo zu erreichen, muss man den Kanal vom maltesischen Festland überqueren, und die praktische Frage lautet immer gleich: Wie kommt der Hund mit, und wie bewegt man sich vor Ort fort. Die Gozo-Channel-Fähre zwischen Cirkewwa und Mgarr ist die Hauptverbindung und nimmt Hunde auf dem offenen Deck mit, während sich auf Gozo selbst die meisten Reisenden mit Hund auf ein Auto verlassen. Denken Sie daran, dass in Malta Linksverkehr herrscht, sodass sich ein Mietwagen für die meisten europäischen Besucher ungewohnt anfühlt.",
+      "introNl": "Om Gozo te bereiken moet je het kanaal vanaf het Maltese vasteland oversteken, en de praktische vraag is altijd hetzelfde: hoe komt de hond mee, en hoe verplaats je je ter plekke. De Gozo-Channel-veerboot tussen Cirkewwa en Mgarr is de belangrijkste verbinding en neemt honden mee op het open dek, terwijl de meeste reizigers met hond op Gozo zelf op een auto vertrouwen. Onthoud dat er in Malta links wordt gereden, waardoor een huurauto voor de meeste Europese bezoekers ongewoon aanvoelt.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund auf die Gozo-Fähre mitnehmen?",
@@ -487,6 +538,20 @@
         {
           "q": "Brauche ich ein Auto, um mich mit Hund auf Gozo fortzubewegen?",
           "a": "Für alles außer einem kleinen, transportboxtauglichen Hund im Grunde ja. Ein Auto gibt Ihnen Flexibilität für die Küstenwanderungen und Strände, und die Fähre befördert auch Fahrzeuge. Denken Sie an den Linksverkehr in Malta, und lassen Sie einen Hund im Sommer niemals im geparkten Auto zurück."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen op de veerboot naar Gozo?",
+          "a": "Ja. De Gozo-Channel-veerboot tussen Cirkewwa en Mgarr vervoert honden op het open buitendek, aan de lijn of in een draagtas. In de binnensalon of cafetaria zijn honden niet toegestaan. De overtocht duurt ongeveer 25 minuten, en je betaalt de terugreisprijs wanneer je Gozo verlaat."
+        },
+        {
+          "q": "Mag ik een hond meenemen in de bus op Gozo?",
+          "a": "Alleen assistentiehonden reizen gratis mee. Andere huisdieren moeten in een draagtas op schoot worden gehouden, waardoor de bus alleen werkt voor kleine honden. Voor een middelgrote of grote hond gebruik je in plaats daarvan een auto of een huisdiervriendelijke taxi."
+        },
+        {
+          "q": "Heb ik een auto nodig om me met hond te verplaatsen op Gozo?",
+          "a": "Voor alles behalve een kleine hond die in een draagtas past, eigenlijk wel. Een auto geeft je flexibiliteit voor de kustwandelingen en stranden, en de veerboot vervoert ook voertuigen. Denk aan het linksrijden in Malta, en laat een hond in de zomer nooit achter in een geparkeerde auto."
         }
       ]
     },
@@ -572,7 +637,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände auf Gozo",
+      "titleNl": "Hondvriendelijke stranden op Gozo",
       "introDe": "Maltas Strandregeln sind streng und wichtig zu kennen: Hunde sind zu keiner Jahreszeit an Sandstränden erlaubt, und an Blaue-Flagge-Stränden sind sie im Sommer komplett verboten. Die gute Nachricht: Hunde sind ganzjährig an felsigen Stränden willkommen, und Gozo hat zwei offiziell ausgewiesene hundefreundliche Buchten, Qbajjar Bay und Ras il-Hobz. Damit fällt Gozos berühmter rotsandiger Ramla Bay aus der Liste, planen Sie also stattdessen mit den felsigen Buchten.",
+      "introNl": "De strandregels van Malta zijn streng en belangrijk om te kennen: honden zijn geen enkel seizoen toegestaan op zandstranden, en op stranden met een Blauwe Vlag zijn ze in de zomer volledig verboden. Het goede nieuws: honden zijn het hele jaar door welkom op rotsstranden, en Gozo heeft twee officieel aangewezen hondvriendelijke baaien, Qbajjar Bay en Ras il-Hobz. Daarmee valt de beroemde roodzanderige Ramla Bay van Gozo af, plan dus in plaats daarvan met de rotsbaaien.",
       "faqsDe": [
         {
           "q": "Welche Strände auf Gozo sind hundefreundlich?",
@@ -581,6 +648,16 @@
         {
           "q": "Darf mein Hund an die Ramla Bay, den rotsandigen Strand?",
           "a": "Nein. Ramla Bay ist ein Sandstrand, und in Malta und Gozo sind Hunde zu keiner Jahreszeit an Sandstränden erlaubt. Fahren Sie stattdessen zu den ausgewiesenen felsigen Hundestränden bei Qbajjar Bay oder Ras il-Hobz."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welke stranden op Gozo zijn hondvriendelijk?",
+          "a": "Twee stranden op Gozo zijn officieel aangewezen als hondvriendelijk: Qbajjar Bay bij Marsalforn en Ras il-Hobz bij Ghajnsielem. Beide zijn rotsbaaien met goed zwemwater. Honden zijn het hele jaar ook toegestaan op andere rotsstranden, maar in de zomer nooit op zand- of Blauwe-Vlagstranden."
+        },
+        {
+          "q": "Mag mijn hond naar Ramla Bay, het roodzanderige strand?",
+          "a": "Nee. Ramla Bay is een zandstrand, en in Malta en Gozo zijn honden geen enkel seizoen toegestaan op zandstranden. Ga in plaats daarvan naar de aangewezen rotsachtige hondenstranden bij Qbajjar Bay of Ras il-Hobz."
         }
       ]
     },
@@ -630,8 +707,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Galea+Veterinary+Clinic+Victoria+Gozo",
           "photo": "",
           "hoursDe": "Sprechstundenzeiten; Notfälle außerhalb der Zeiten telefonisch",
+          "hoursNl": "Spreekuurtijden; noodgevallen buiten de uren telefonisch",
           "descriptionDe": "Eine seit langem etablierte Kleintierpraxis in Victoria, zentral gelegen für fast jeden Ort auf Gozo. Die Praxis genießt lokal einen starken Ruf für die telefonische Reaktion auf Notfälle außerhalb der Öffnungszeiten. Speichern Sie die Nummer als ersten Anruf auf der Insel.",
-          "tipDe": "Speichern Sie diese Nummer vor der Reise. Da es auf Gozo kein 24-Stunden-Tierkrankenhaus gibt, ist ein vorheriger Anruf im Notfall unerlässlich"
+          "descriptionNl": "Een al lang gevestigde kleindierenpraktijk in Victoria, centraal gelegen voor bijna elke plek op Gozo. De praktijk geniet lokaal een sterke reputatie voor telefonische bereikbaarheid bij noodgevallen buiten openingstijden. Bewaar dit nummer als eerste telefoontje op het eiland.",
+          "tipDe": "Speichern Sie diese Nummer vor der Reise. Da es auf Gozo kein 24-Stunden-Tierkrankenhaus gibt, ist ein vorheriger Anruf im Notfall unerlässlich",
+          "tipNl": "Sla dit nummer op voor je reis. Aangezien er geen 24-uurs dierenziekenhuis is op Gozo, is vooraf bellen bij een noodgeval essentieel"
         },
         {
           "name": "William's Vet Surgery",
@@ -655,8 +735,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=William's+Vet+Surgery+Victoria+Gozo",
           "photo": "",
           "hoursDe": "Nach Terminvereinbarung; aktuelle Öffnungszeiten prüfen",
+          "hoursNl": "Op afspraak; controleer actuele openingstijden",
           "descriptionDe": "Eine evidenzbasierte Kleintierpraxis in Victoria mit Medizin, Chirurgie, Orthopädie, Zahnmedizin und moderner Diagnostik für Hunde und Katzen. Eine gute Wahl für nicht-dringende Konsultationen, Reisechecks oder Nachsorge während eines längeren Aufenthalts.",
-          "tipDe": "Nutzen Sie diese Praxis für Routineuntersuchungen und Reisepapiere, und vereinbaren Sie einen Termin im Voraus, statt einfach vorbeizukommen"
+          "descriptionNl": "Een evidence-based kleindierenpraktijk in Victoria met geneeskunde, chirurgie, orthopedie, tandheelkunde en moderne diagnostiek voor honden en katten. Een goede keuze voor niet-dringende consulten, reischecks of nazorg tijdens een langer verblijf.",
+          "tipDe": "Nutzen Sie diese Praxis für Routineuntersuchungen und Reisepapiere, und vereinbaren Sie einen Termin im Voraus, statt einfach vorbeizukommen",
+          "tipNl": "Gebruik deze praktijk voor routineonderzoeken en reisdocumenten, en maak van tevoren een afspraak in plaats van gewoon binnen te lopen"
         },
         {
           "name": "Animal Doctor (Pierre Camilleri)",
@@ -680,8 +763,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Animal+Doctor+Victoria+Gozo",
           "photo": "",
           "hoursDe": "Sprechstundenzeiten; telefonisch bestätigen",
+          "hoursNl": "Spreekuurtijden; telefonisch bevestigen",
           "descriptionDe": "Eine Tierarztpraxis im Zentrum von Victoria mit allgemeiner Kleintierversorgung für Hunde und Katzen. Eine nützliche zusätzliche Option auf Gozo, falls Ihre erste Wahl ausgebucht oder geschlossen ist.",
-          "tipDe": "Rufen Sie vorher an, um die Öffnungszeiten zu bestätigen, die auf einer kleinen Insel begrenzter sein können als auf dem maltesischen Festland"
+          "descriptionNl": "Een dierenartspraktijk in het centrum van Victoria met algemene kleindierenzorg voor honden en katten. Een handige extra optie op Gozo, mocht je eerste keuze volgeboekt of gesloten zijn.",
+          "tipDe": "Rufen Sie vorher an, um die Öffnungszeiten zu bestätigen, die auf einer kleinen Insel begrenzter sein können als auf dem maltesischen Festland",
+          "tipNl": "Bel van tevoren om de openingstijden te bevestigen, die op een klein eiland beperkter kunnen zijn dan op het Maltese vasteland"
         }
       ],
       "faqsEn": [
@@ -725,7 +811,9 @@
         }
       ],
       "titleDe": "Notfalltierärzte auf Gozo, Tierarztpraxen & Tierpflege",
+      "titleNl": "Spoedeisende dierenartsen op Gozo, dierenartspraktijken en huisdierenzorg",
       "introDe": "Auf Gozo gibt es eine Handvoll Kleintierpraxen, konzentriert in Victoria (Rabat), der Hauptstadt der Insel. Ein großes 24-Stunden-Tierkrankenhaus gibt es auf Gozo selbst nicht, bei schweren nächtlichen Notfällen kann daher das Bereitschaftsnetzwerk oder eine Verlegung in eine Klinik auf dem maltesischen Festland nötig sein. Wichtig: Malta ist ein bandwurmfreies Land und setzt die EU-Bandwurmregel für Hunde strikt durch: Die Behandlung muss 1 bis 5 Tage vor der Ankunft erfolgen.",
+      "introNl": "Op Gozo is er een handvol kleindierenpraktijken, geconcentreerd in Victoria (Rabat), de hoofdstad van het eiland. Een groot 24-uurs dierenziekenhuis is er op Gozo zelf niet, bij ernstige nachtelijke noodgevallen kan daarom het bereikbaarheidsnetwerk of overplaatsing naar een kliniek op het Maltese vasteland nodig zijn. Belangrijk: Malta is een lintwormvrij land en handhaaft de EU-lintwormregel voor honden strikt: de behandeling moet 1 tot 5 dagen voor aankomst plaatsvinden.",
       "faqsDe": [
         {
           "q": "Gibt es einen 24-Stunden-Tierarzt auf Gozo?",
@@ -734,6 +822,16 @@
         {
           "q": "Brauche ich eine Bandwurmbehandlung, um meinen Hund nach Malta und Gozo zu bringen?",
           "a": "Ja. Malta ist ein bandwurmfreies Land und setzt die EU-Regel strikt durch: Hunde müssen zwischen 1 und 5 Tagen vor der Ankunft von einem Tierarzt gegen Bandwurm (Echinococcus) behandelt werden, wobei die Behandlung im Heimtierausweis vermerkt sein muss. Katzen sind ausgenommen. Dies gilt unabhängig davon, ob Sie über das maltesische Festland oder direkt anreisen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs dierenarts op Gozo?",
+          "a": "Een groot 24-uurs dierenziekenhuis is er op Gozo zelf niet. De praktijken zijn geconcentreerd in Victoria, en zorg buiten openingstijden loopt via het bereikbaarheidsnetwerk. Bewaar Galea Veterinary Clinic (+356 2155 4257) en het noodnummer van de Maltese Veterinary Association (+356 5250 2000), en bel altijd voor je gaat."
+        },
+        {
+          "q": "Heb ik een lintwormbehandeling nodig om mijn hond naar Malta en Gozo te brengen?",
+          "a": "Ja. Malta is een lintwormvrij land en handhaaft de EU-regel strikt: honden moeten tussen 1 en 5 dagen voor aankomst door een dierenarts tegen lintworm (Echinococcus) worden behandeld, waarbij de behandeling in het dierenpaspoort moet zijn genoteerd. Katten zijn uitgezonderd. Dit geldt ongeacht of je via het Maltese vasteland of rechtstreeks aankomt."
         }
       ]
     },
@@ -865,7 +963,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Tipps für Gozo",
+      "titleNl": "Hondvriendelijke tips voor Gozo",
       "introDe": "Gozo ist eine langsame, ländliche, zutiefst haustierentspannte Insel, liegt jedoch in einem heißen mediterranen Klima mit strengen Strandregeln und einer wichtigen Einreiseanforderung. Regeln Sie das Hitzemanagement, die Strandregeln und die Bandwurm-Papiere richtig, und der Rest der Reise mit Hund ist wunderbar unkompliziert.",
+      "introNl": "Gozo is een traag, landelijk, uitermate huisdiervriendelijk eiland, maar ligt wel in een heet mediterraan klimaat met strenge strandregels en een belangrijke inreisvereiste. Regel het hittebeheer, de strandregels en de lintworm-papieren goed, en de rest van de reis met hond verloopt heerlijk soepel.",
       "faqsDe": [
         {
           "q": "Ist Gozo gut für Hunde?",
@@ -878,6 +978,20 @@
         {
           "q": "Kann ich Gozos Hauptsehenswürdigkeiten mit meinem Hund besuchen?",
           "a": "Die Freiluft- und Klippensehenswürdigkeiten, die Mauern und Anlagen der Cittadella in Victoria, Dwejra und die Landschaft rund um Ggantija, sind alle an der Leine begehbar. Innenmuseen und ticketpflichtige Innenbereiche lassen Hunde in der Regel nicht zu, planen Sie diese also für Zeiten ein, in denen Ihr Hund in der Unterkunft ruhen kann."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Gozo goed voor honden?",
+          "a": "Ja, zelfs heel goed. Het is een rustig, landelijk eiland waar aangelijnde honden welkom zijn op restaurantterrassen aan zee, bij landwandelingen en op rotsstranden. De twee dingen om rekening mee te houden zijn de zomerhitte en de strenge strand- en inreisregels, maar als die geregeld zijn, is Gozo een ontspannen reisbestemming met hond."
+        },
+        {
+          "q": "Wat moet ik inpakken voor Gozo met mijn hond?",
+          "a": "Neem het EU-dierenpaspoort mee met genoteerde lintwormbehandeling, een korte lijn, een opvouwbaar waterbakje, een handdoek voor een duik op rotsstranden en aandacht voor pootbescherming op hete ondergrond. Een plan met auto of huisdiervriendelijke taxi helpt, aangezien bussen alleen honden meenemen die in een draagtas passen."
+        },
+        {
+          "q": "Kan ik de belangrijkste bezienswaardigheden van Gozo bezoeken met mijn hond?",
+          "a": "De buiten- en klifbezienswaardigheden, de muren en terreinen van de Cittadella in Victoria, Dwejra en het landschap rond Ggantija, zijn allemaal begaanbaar aan de lijn. Binnenmusea en ticketplichtige binnenruimtes laten meestal geen honden toe, plan die dus voor momenten waarop je hond kan uitrusten in de accommodatie."
         }
       ]
     },
@@ -914,9 +1028,13 @@
           "tipPt": "Percorra as muralhas ao pôr do sol pelo ar fresco e a melhor luz. O meio-dia sobre a pedra exposta é duro para as patas no verão",
           "googleMapsUrl": "https://maps.google.com/?q=Cittadella+Victoria+Gozo",
           "descriptionDe": "Die befestigte Zitadelle auf dem Hügel über Victoria, mit restaurierten Bastionsmauern, die einen 360-Grad-Blick über die ganze Insel bieten. Die Anlage ist kostenlos zugänglich, und die Mauern sind rund um die Uhr geöffnet, sodass ein angeleinter Hund mit Ihnen hinaufsteigen und in der Kühle des Morgens oder Abends die Wehrgänge entlanggehen kann.",
+          "descriptionNl": "De versterkte citadel op de heuvel boven Victoria, met gerestaureerde bastionmuren die een uitzicht van 360 graden over het hele eiland bieden. Het terrein is gratis toegankelijk, en de muren zijn dag en nacht open, zodat een aangelijnde hond met je mee de heuvel op kan en in de koelte van de ochtend of avond over de weergangen kan lopen.",
           "dogPolicyDe": "Angeleinte Hunde willkommen in den offenen Anlagen und auf den Mauern; nicht in den Innenmuseen",
+          "dogPolicyNl": "Honden aan de lijn welkom op de open terreinen en muren; niet in de binnenmusea",
           "admissionFeeDe": "Anlage kostenlos; Museen kostenpflichtig",
-          "tipDe": "Gehen Sie bei Sonnenuntergang über die Wehrgänge für kühle Luft und das beste Licht. Mittags ist der freiliegende Stein im Sommer hart für Pfoten"
+          "admissionFeeNl": "Terrein gratis; musea betaald",
+          "tipDe": "Gehen Sie bei Sonnenuntergang über die Wehrgänge für kühle Luft und das beste Licht. Mittags ist der freiliegende Stein im Sommer hart für Pfoten",
+          "tipNl": "Loop bij zonsondergang over de weergangen voor koele lucht en het beste licht. Rond de middag is de blootgestelde steen in de zomer hard voor pootjes"
         },
         {
           "name": "Ggantija Temples (surroundings)",
@@ -941,9 +1059,13 @@
           "tipPt": "Façam à vez: uma pessoa visita o recinto enquanto a outra passeia o cão nos caminhos, depois trocam",
           "googleMapsUrl": "https://maps.google.com/?q=Ggantija+Temples+Xaghra+Gozo",
           "descriptionDe": "Eine der ältesten freistehenden Bauwerke der Welt, diese UNESCO-gelisteten megalithischen Tempel sind älter als die Pyramiden. Die eingezäunte archäologische Anlage und ihr Besucherzentrum lassen keine Hunde zu, doch die offene Landschaft und die Wege rund um Xaghra bieten einen schönen angeleinten Spaziergang mit Blick auf die Tempelanlage.",
+          "descriptionNl": "Een van de oudste vrijstaande bouwwerken ter wereld, deze op de UNESCO-lijst staande megalithische tempels zijn ouder dan de piramides. Het omheinde archeologische terrein en het bezoekerscentrum laten geen honden toe, maar het open landschap en de paden rond Xaghra bieden een mooie wandeling aan de lijn met uitzicht op de tempelsite.",
           "dogPolicyDe": "Hunde nicht innerhalb der eingezäunten Anlage oder des Besucherzentrums erlaubt; angeleinte Spaziergänge in der umliegenden Landschaft",
+          "dogPolicyNl": "Honden niet toegestaan binnen het omheinde terrein of het bezoekerscentrum; aangelijnde wandelingen in het omliggende landschap",
           "admissionFeeDe": "Tempelanlage kostenpflichtig; umliegende Wege kostenlos",
-          "tipDe": "Wechseln Sie sich ab: Eine Person besichtigt die Anlage, während die andere den Hund auf den Wegen ausführt, dann tauschen Sie"
+          "admissionFeeNl": "Tempelsite betaald; omliggende paden gratis",
+          "tipDe": "Wechseln Sie sich ab: Eine Person besichtigt die Anlage, während die andere den Hund auf den Wegen ausführt, dann tauschen Sie",
+          "tipNl": "Wissel af: de ene persoon bezoekt het terrein, terwijl de andere de hond uitlaat op de paden, en wissel dan om"
         },
         {
           "name": "Ta' Pinu Basilica (grounds)",
@@ -968,9 +1090,13 @@
           "tipPt": "Combine com um pequeno circuito de campo rumo a Gharb, um dos cantos mais sossegados e verdes de Gozo para um cão",
           "googleMapsUrl": "https://maps.google.com/?q=Ta+Pinu+Basilica+Gharb+Gozo",
           "descriptionDe": "Ein stilles nationales Heiligtum, allein inmitten offener Landschaft nahe Gharb gelegen, dessen helle Steinfassade schon von der anderen Seite des Tals sichtbar ist. Hunde sind im Kircheninneren nicht erlaubt, doch die umliegenden Wege, der mosaikbesetzte Kreuzweg-Hügel und der offene Zugang bieten einen ruhigen angeleinten Spaziergang, besonders im sanften Licht des frühen Morgens.",
+          "descriptionNl": "Een stil nationaal heiligdom, alleen gelegen te midden van open landschap nabij Gharb, waarvan de lichte stenen gevel al vanaf de andere kant van het dal zichtbaar is. Honden zijn niet toegestaan in het kerkinterieur, maar de omliggende paden, de met mozaïek belegde heuvel van de kruisweg en de open toegang bieden een rustige wandeling aan de lijn, vooral in het zachte licht van de vroege ochtend.",
           "dogPolicyDe": "Hunde im Inneren der Basilika nicht erlaubt; angeleinte Spaziergänge auf dem umliegenden Gelände und den Wegen",
+          "dogPolicyNl": "Honden niet toegestaan binnen de basiliek; aangelijnde wandelingen op het omliggende terrein en de paden",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Kombinieren Sie den Besuch mit einer kurzen Landschaftsrunde Richtung Gharb, einer der ruhigsten und grünsten Ecken Gozos für einen Hund"
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Kombinieren Sie den Besuch mit einer kurzen Landschaftsrunde Richtung Gharb, einer der ruhigsten und grünsten Ecken Gozos für einen Hund",
+          "tipNl": "Combineer het bezoek met een korte landschapsronde richting Gharb, een van de rustigste en groenste hoekjes van Gozo voor een hond"
         }
       ],
       "tipsEn": [
@@ -1050,7 +1176,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten auf Gozo",
+      "titleNl": "Hondvriendelijke bezienswaardigheden op Gozo",
       "introDe": "Gozos wichtigste Sehenswürdigkeiten liegen größtenteils im Freien, was gut zu einem Hund passt: Festungsmauern auf einem Hügel, eine eindrucksvolle Basilika und prähistorische Tempel inmitten offener Landschaft. Hunde dürfen an der Leine durch die offenen Anlagen und zu den Aussichtspunkten, doch ticketpflichtige Innenmuseen und die eingezäunte Tempelanlage selbst lassen keine Haustiere zu. Kombinieren Sie die Besichtigung mit den kühleren Stunden, und Ihr Hund kann an einem Großteil des Inselcharakters teilhaben.",
+      "introNl": "De belangrijkste bezienswaardigheden van Gozo liggen grotendeels in de open lucht, wat goed past bij een hond: vestingmuren op een heuvel, een indrukwekkende basiliek en prehistorische tempels te midden van open landschap. Honden mogen aan de lijn door de open terreinen en naar de uitzichtpunten, maar ticketplichtige binnenmusea en het omheinde tempelterrein zelf laten geen huisdieren toe. Combineer het bezoek met de koelere uren, en je hond kan meegenieten van een groot deel van het eilandkarakter.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund zur Cittadella auf Gozo mitnehmen?",
@@ -1063,6 +1191,20 @@
         {
           "q": "Welche Sehenswürdigkeiten auf Gozo eignen sich am besten mit Hund?",
           "a": "Die Freiluftsehenswürdigkeiten: die Cittadella-Mauern in Victoria, die Küste von Dwejra, die Landschaft rund um Ggantija und die Anlagen der Ta'-Pinu-Basilika bei Gharb. Sie sind alle an der Leine begehbar, während Innenbereiche und ticketpflichtige Räume nicht haustierfreundlich sind."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar de Cittadella op Gozo?",
+          "a": "Ja, aan de lijn, door de gratis, altijd geopende terreinen en langs de bastionmuren die het beste uitzicht van het eiland bieden. De binnenmusea van de citadel laten geen honden toe, bewaar die dus voor een moment waarop je hond kan uitrusten."
+        },
+        {
+          "q": "Zijn honden toegestaan bij de Ggantija-tempels?",
+          "a": "Niet binnen het omheinde archeologische terrein of het bezoekerscentrum. Je kunt wel genieten van aangelijnde wandelingen in het open landschap en op de paden rond Xaghra, met uitzicht op de tempelsite, idealiter in de koelere ochtend of avond."
+        },
+        {
+          "q": "Welke bezienswaardigheden op Gozo zijn het meest geschikt met hond?",
+          "a": "De openluchtbezienswaardigheden: de Cittadella-muren in Victoria, de kust van Dwejra, het landschap rond Ggantija en de terreinen van de Ta'-Pinu-basiliek bij Gharb. Ze zijn allemaal begaanbaar aan de lijn, terwijl binnenruimtes en ticketplichtige zalen niet huisdiervriendelijk zijn."
         }
       ]
     },
@@ -1097,8 +1239,11 @@
           "tipEs": "Reserva con al menos unos días de antelación en verano y escribe al cuidador para confirmar que está cómodo con el tamaño de tu perro y el calor",
           "tipPt": "Reserve com pelo menos alguns dias de antecedência no verão e envie mensagem ao cuidador para confirmar que está à vontade com o tamanho do seu cão e o calor",
           "descriptionDe": "PetBacker ist eine internationale Buchungsplattform mit Sittern, Betreuungsstellen und Gassigehern in ganz Gozo, die käfigfreie Heimbetreuung, Tagesbesuche und Spaziergänge anbietet. Buchungen sind mit Versicherung und Zahlungsschutz abgesichert, und die App liefert Foto- und Video-Updates sowie GPS-verfolgte Spaziergänge, was beruhigend ist, wenn Sie Ihren Hund bei einer neuen Person auf einer kurzen Reise lassen.",
+          "descriptionNl": "PetBacker is een internationaal boekingsplatform met oppassers, verblijfplaatsen en uitlaatservices in heel Gozo, dat kooivrije oppas thuis, dagbezoeken en wandelingen aanbiedt. Boekingen zijn beveiligd met verzekering en betalingsbescherming, en de app levert foto- en video-updates plus gps-gevolgde wandelingen, wat geruststellend is als je je hond bij een nieuw persoon achterlaat tijdens een korte reis.",
           "serviceTypeDe": "App-basierte Buchung. Betreuung, Unterbringung, Gassigehen",
-          "tipDe": "Buchen Sie im Sommer mindestens ein paar Tage im Voraus und schreiben Sie dem Sitter, um zu bestätigen, dass er mit der Größe Ihres Hundes und der Hitze zurechtkommt"
+          "serviceTypeNl": "App-gebaseerd boeken. Oppas, verblijf, uitlaten",
+          "tipDe": "Buchen Sie im Sommer mindestens ein paar Tage im Voraus und schreiben Sie dem Sitter, um zu bestätigen, dass er mit der Größe Ihres Hundes und der Hitze zurechtkommt",
+          "tipNl": "Boek in de zomer minstens een paar dagen van tevoren en stuur de oppasser een bericht om te bevestigen dat hij met de grootte van je hond en de hitte overweg kan"
         },
         {
           "name": "Paws Tails & Whiskers",
@@ -1121,8 +1266,11 @@
           "tipEs": "Confirma si el cuidador cubre tu localidad concreta en Gozo, ya que la cobertura es más escasa fuera de Victoria y los principales centros turísticos",
           "tipPt": "Confirme se o cuidador cobre a sua localidade específica em Gozo, pois a cobertura é mais reduzida fora de Victoria e dos principais centros turísticos",
           "descriptionDe": "Eine Plattform für Tierbetreuung in Malta und Gozo, die Besitzer mit lokalen Sittern und Gassigehern für Hausbesuche, Spaziergänge und Unterbringung verbindet. Nützlich für Reisende, die einen lokalen maltesischen Service einer globalen App vorziehen, mit Abdeckung für beide Inseln und einem Schwerpunkt auf Betreuung zu Hause statt in Zwingern.",
+          "descriptionNl": "Een platform voor dierenzorg in Malta en Gozo dat baasjes verbindt met lokale oppassers en uitlaatservices voor huisbezoeken, wandelingen en verblijf. Handig voor reizigers die een lokale Maltese service verkiezen boven een wereldwijde app, met dekking voor beide eilanden en een focus op zorg thuis in plaats van in kennels.",
           "serviceTypeDe": "Online-Vermittlung. Hausbesuche, Gassigehen, Unterbringung",
-          "tipDe": "Bestätigen Sie, ob der Sitter Ihren speziellen Ort auf Gozo abdeckt, da das Angebot außerhalb von Victoria und der Hauptresorts dünner ist"
+          "serviceTypeNl": "Online bemiddeling. Huisbezoeken, uitlaten, verblijf",
+          "tipDe": "Bestätigen Sie, ob der Sitter Ihren speziellen Ort auf Gozo abdeckt, da das Angebot außerhalb von Victoria und der Hauptresorts dünner ist",
+          "tipNl": "Bevestig of de oppasser jouw specifieke locatie op Gozo dekt, aangezien het aanbod buiten Victoria en de belangrijkste resorts dunner is"
         }
       ],
       "tipsEn": [
@@ -1170,11 +1318,19 @@
         }
       ],
       "titleDe": "Hundesitter & Tierbetreuung auf Gozo",
+      "titleNl": "Hondenoppas en huisdierenzorg op Gozo",
       "introDe": "Wenn Sie ein paar Stunden ohne Ihren Hund brauchen, für ein Museum, eine Bootstour oder ein Essen an einem Ort, den Haustiere nicht betreten dürfen, hat Gozo ein kleines, aber echtes Netzwerk aus Sittern und Betreuungsstellen, meist online organisiert. Da die Insel klein ist, buchen Sie früh, besonders im Sommer, da das lokale Angebot begrenzter ist als auf dem maltesischen Festland.",
+      "introNl": "Als je een paar uur zonder je hond nodig hebt, voor een museum, een boottocht of een maaltijd op een plek waar huisdieren niet mogen komen, heeft Gozo een klein maar echt netwerk van oppassers en verblijfplaatsen, meestal online georganiseerd. Omdat het eiland klein is, boek je vroeg, vooral in de zomer, aangezien het lokale aanbod beperkter is dan op het Maltese vasteland.",
       "faqsDe": [
         {
           "q": "Finde ich auf Gozo einen Hundesitter für ein paar Stunden?",
           "a": "Ja, über Plattformen wie PetBacker und Paws Tails & Whiskers, die lokale Sitter und Gassigeher für Tagesbesuche, Spaziergänge und Betreuung auflisten. Buchen Sie im Sommer einige Tage im Voraus, da die Insel klein ist und das lokale Angebot begrenzter ist als auf dem maltesischen Festland."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Vind ik op Gozo een hondenoppas voor een paar uur?",
+          "a": "Ja, via platforms zoals PetBacker en Paws Tails & Whiskers, die lokale oppassers en uitlaatservices vermelden voor dagbezoeken, wandelingen en verblijf. Boek in de zomer een paar dagen van tevoren, aangezien het eiland klein is en het lokale aanbod beperkter is dan op het Maltese vasteland."
         }
       ]
     }

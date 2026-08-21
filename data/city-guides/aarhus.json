@@ -39,9 +39,13 @@
           "mustTryPt": "Brunch de fim de semana, smørrebrød, vinho natural",
           "tipPt": "O brunch de sábado de manhã enche o bar a partir das 10:30; chegue às 09:00 para a hora dourada sossegada.",
           "descriptionDe": "Ein angesagtes Bistro in Aarhus' hippster Straße, in einer ehemaligen Apotheke. Angeleinte Hunde sind im Barbereich und auf der ganzjährig beheizten Außenterrasse willkommen. Brunch, moderne nordische Gerichte, Naturweine.",
+          "descriptionNl": "Een populair bistro in de hipsterstraat van Aarhus, in een voormalige apotheek. Aangelijnde honden zijn welkom in het barsgedeelte en op het hele jaar verwarmde buitenterras. Brunch, moderne Scandinavische gerechten, natuurwijnen.",
           "petPolicyDe": "Hunde im Barbereich und auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom in het barsgedeelte en op het terras",
           "mustTryDe": "Wochenend-Brunch, Smørrebrød, Naturwein",
-          "tipDe": "Der Samstagvormittags-Brunch füllt die Bar ab 10:30 Uhr, kommen Sie um 09:00 Uhr für die ruhige goldene Stunde."
+          "mustTryNl": "Weekendbrunch, smørrebrød, natuurwijn",
+          "tipDe": "Der Samstagvormittags-Brunch füllt die Bar ab 10:30 Uhr, kommen Sie um 09:00 Uhr für die ruhige goldene Stunde.",
+          "tipNl": "De zaterdagochtendbrunch vult de bar vanaf 10:30 uur, kom om 09:00 uur voor het rustige gouden uur."
         },
         {
           "name": "Aarhus Street Food",
@@ -69,9 +73,13 @@
           "mustTryPt": "Smørrebrød (Selma), churrasco coreano (Hanami), cerveja local Mikkeller",
           "tipPt": "As noites de sexta e de sábado ficam barulhentas e cheias; para um cão ansioso, prefira o almoço de terça ou de quarta.",
           "descriptionDe": "Aarhus' Vorzeige-Markthalle, über 30 internationale Streetfood-Stände unter einem Dach, dazu eine überdachte Außenterrasse mit Blick auf den Hauptbahnhof. Angeleinte Hunde überall willkommen, Wassernäpfe am Eingang, Gemeinschaftstische, unter denen Hunde Platz finden.",
+          "descriptionNl": "De vlaggenschip-markthal van Aarhus, meer dan 30 internationale streetfoodkraampjes onder één dak, plus een overdekt buitenterras met uitzicht op het centraal station. Aangelijnde honden overal welkom, waterbakjes bij de ingang, gemeenschappelijke tafels waar honden onder passen.",
           "petPolicyDe": "Angeleinte Hunde in allen Bereichen willkommen",
+          "petPolicyNl": "Aangelijnde honden welkom in alle gedeeltes",
           "mustTryDe": "Smørrebrød (Selma), Korean BBQ (Hanami), lokales Mikkeller-Bier",
-          "tipDe": "Freitag- und Samstagabend wird es laut und voll, für einen ängstlichen Hund eignet sich eher der Dienstag- oder Mittwochmittag."
+          "mustTryNl": "Smørrebrød (Selma), Koreaanse bbq (Hanami), lokaal Mikkeller-bier",
+          "tipDe": "Freitag- und Samstagabend wird es laut und voll, für einen ängstlichen Hund eignet sich eher der Dienstag- oder Mittwochmittag.",
+          "tipNl": "Vrijdag- en zaterdagavond wordt het luid en druk, voor een angstige hond is dinsdag- of woensdagmiddag beter geschikt."
         },
         {
           "name": "Café Smagløs",
@@ -99,9 +107,13 @@
           "mustTryPt": "Smørrebrød clássico (3 peças), bolo dinamarquês de camadas, sumo fresco",
           "tipPt": "Reserve uma mesa de canto no jardim para a experiência mais sossegada com um cão, pois o terraço da frente apanha o movimento de peões da rua empedrada.",
           "descriptionDe": "Ein hundertjähriges dänisches Café im gepflasterten Latinerkvarteret, traditionelles Smørrebrød und Gebäck werden auf weiß gedeckten Tischen serviert. Hunde sind auf der vorderen Terrasse unter den Bäumen und im hinteren Garten willkommen. Einheimische bringen ihre Hunde hierher zum Sonntagsessen mit.",
+          "descriptionNl": "Een honderd jaar oud Deens café in het geplaveide Latinerkvarteret, waar traditionele smørrebrød en gebak worden geserveerd op wit gedekte tafels. Honden zijn welkom op het voorterras onder de bomen en in de achtertuin. Lokale bewoners nemen hun honden hier mee naar de zondaglunch.",
           "petPolicyDe": "Hunde auf der Terrasse und im Garten willkommen",
+          "petPolicyNl": "Honden welkom op het terras en in de tuin",
           "mustTryDe": "Klassisches Smørrebrød (3-teilig), dänische Schichttorte, frischer Saft",
-          "tipDe": "Reservieren Sie einen Tisch in der Gartenecke für das ruhigste Erlebnis mit Hund, die vordere Terrasse hat Fußgängerverkehr von der Kopfsteinpflasterstraße."
+          "mustTryNl": "Klassieke smørrebrød (3 stuks), Deense laagjestaart, verse jus",
+          "tipDe": "Reservieren Sie einen Tisch in der Gartenecke für das ruhigste Erlebnis mit Hund, die vordere Terrasse hat Fußgängerverkehr von der Kopfsteinpflasterstraße.",
+          "tipNl": "Reserveer een tafel in de tuinhoek voor de rustigste ervaring met hond, het voorterras heeft voetgangersverkeer vanaf de kasseienstraat."
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Aarhus",
+      "titleNl": "Dierenvriendelijke restaurants in Aarhus",
       "introDe": "Aarhus hat nach Kopenhagen die entspannteste Café-Kultur Dänemarks gegenüber Hunden, das Latinerkvarteret, die Viertel Mejlgade und Frederiksbjerg heißen alle angeleinte Hunde auf ihren Café-Terrassen und in vielen Innenräumen willkommen. Die dänische Hygge-Kultur erstreckt sich ganz natürlich auch auf vierbeinige Gäste.",
+      "introNl": "Aarhus heeft na Kopenhagen de meest ontspannen cafécultuur van Denemarken tegenover honden, het Latinerkvarteret, en de wijken Mejlgade en Frederiksbjerg heten allemaal aangelijnde honden welkom op hun caféterrassen en in veel binnenruimtes. De Deense hygge-cultuur strekt zich heel natuurlijk uit tot viervoetige gasten.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Aarhus erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Kann ich meinen Hund im Winter mit hineinnehmen?",
           "a": "Viele Cafés sagen angesichts der Kälte ja, fragen Sie höflich nach. Kleinere Hunde werden drinnen in der Regel bereitwilliger akzeptiert als größere Rassen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Aarhus?",
+          "a": "De meeste onafhankelijke cafés en brasseries heten aangelijnde honden welkom, vooral op buitenterrassen. Bij chiquere restaurants verschilt het, vraag altijd vooraf voor je reserveert."
+        },
+        {
+          "q": "Bieden cafés in Aarhus waterbakjes aan?",
+          "a": "De overgrote meerderheid wel, vooral in het Latinerkvarteret en Frederiksbjerg. Vraag naar 'vand til hunden' als je er geen ziet."
+        },
+        {
+          "q": "Kan ik mijn hond 's winters mee naar binnen nemen?",
+          "a": "Veel cafés zeggen ja vanwege de kou, vraag beleefd. Kleinere honden worden binnen doorgaans makkelijker toegelaten dan grotere rassen."
         }
       ]
     },
@@ -233,9 +261,13 @@
           "facilitiesPt": "Estacionamento gratuito, trilhos, fonte de água, sem casas de banho",
           "tipPt": "Ao sábado de manhã há um encontro informal de cães; os locais passeiam em grupos a partir das 09:00. A melhor altura para socializar o seu cão.",
           "descriptionDe": "Aarhus' größter offizieller Freilauf-Hundewald (Hundeskov), 25 Hektar eingezäuntes Buchen- und Eichenwaldgebiet innerhalb des größeren Marselisborg-Waldes. Mehrere Wanderwege, eine kleine Lichtung für Ballspiele und direkter Zugang an der Leine zum Rest des 1.400 Hektar großen Waldes.",
+          "descriptionNl": "Het grootste officiële hondenbos (hundeskov) van Aarhus waar honden los mogen lopen, 25 hectare omheind beuken- en eikenbos binnen het grotere Marselisborgbos. Meerdere wandelpaden, een kleine open plek om te ballen en directe toegang aan de lijn tot de rest van het 1.400 hectare grote bos.",
           "petPolicyDe": "Ganzjährig ohne Leine (eingezäunt)",
+          "petPolicyNl": "Het hele jaar zonder lijn (omheind)",
           "facilitiesDe": "Kostenlose Parkplätze, Wege, Wasserstelle, keine Toiletten",
-          "tipDe": "Samstagvormittags trifft sich informell eine Hundegruppe, Einheimische gehen ab 09:00 Uhr in Gruppen spazieren. Beste Zeit zur Sozialisierung Ihres Hundes."
+          "facilitiesNl": "Gratis parkeren, paden, waterpunt, geen toiletten",
+          "tipDe": "Samstagvormittags trifft sich informell eine Hundegruppe, Einheimische gehen ab 09:00 Uhr in Gruppen spazieren. Beste Zeit zur Sozialisierung Ihres Hundes.",
+          "tipNl": "Op zaterdagochtend komt informeel een hondengroep samen, lokale bewoners lopen vanaf 09:00 uur in groepen te wandelen. Beste moment om je hond te socialiseren."
         },
         {
           "name": "Riis Skov",
@@ -263,9 +295,13 @@
           "facilitiesPt": "Estacionamento gratuito, trilhos, acesso à praia, café",
           "tipPt": "Caminhe de Riis Skov até Bellevue Strand para um circuito combinado de floresta + praia de 4 km; o seu cão apanha areia, mar e sombra numa só saída.",
           "descriptionDe": "100 Hektar Buchenwald entlang der nördlichen Bucht von Aarhus, mit Meerblick und direktem Zugang zum hundefreundlichen Bellevue Strand. Eigener Hundeskov-Bereich im südlichen Teil; der Rest des Waldes gilt als Leinenpflichtzone, ist aber sehr hundefreundlich.",
+          "descriptionNl": "100 hectare beukenbos langs de noordelijke baai van Aarhus, met zeezicht en directe toegang tot het hondvriendelijke Bellevue-strand. Eigen hundeskov-gedeelte in het zuidelijke deel, de rest van het bos geldt als aanlijnzone maar is erg hondvriendelijk.",
           "petPolicyDe": "Freilauf-Hundeskov + Leinenpflicht im übrigen Wald",
+          "petPolicyNl": "Loslopgebied (hundeskov) plus aanlijnplicht in de rest van het bos",
           "facilitiesDe": "Kostenlose Parkplätze, Wege, Strandzugang, Café",
-          "tipDe": "Gehen Sie vom Riis Skov hinunter zum Bellevue Strand für eine 4 km lange kombinierte Wald- und Strandrunde, Ihr Hund bekommt bei diesem Ausflug Sand, Meer und Schatten."
+          "facilitiesNl": "Gratis parkeren, paden, strandtoegang, café",
+          "tipDe": "Gehen Sie vom Riis Skov hinunter zum Bellevue Strand für eine 4 km lange kombinierte Wald- und Strandrunde, Ihr Hund bekommt bei diesem Ausflug Sand, Meer und Schatten.",
+          "tipNl": "Loop vanaf het Riis Skov naar beneden naar het Bellevue-strand voor een gecombineerde bos- en strandronde van 4 km, je hond krijgt op dit uitstapje zand, zee en schaduw."
         },
         {
           "name": "Botanisk Have",
@@ -293,9 +329,13 @@
           "facilitiesPt": "Café, casas de banho públicas, caminhos pedestres, lagos",
           "tipPt": "O relvado sul, perto da roseira, tem o melhor ponto para observar cães; os locais trazem os seus cães para ler livros na relva nas tardes de verão.",
           "descriptionDe": "Der Botanische Garten der Universität Aarhus, 21 Hektar gestaltete Parkanlage mit dem Freilichtmuseum Den Gamle By am Eingang. Hunde an der Leine in allen Außenbereichen willkommen; das tropische Gewächshaus lässt keine Haustiere zu.",
+          "descriptionNl": "De Botanische Tuin van de Universiteit van Aarhus, 21 hectare aangelegd park met het openluchtmuseum Den Gamle By bij de ingang. Honden aan de lijn welkom in alle buitengedeeltes, de tropische kas laat geen huisdieren toe.",
           "petPolicyDe": "Angeleinte Hunde im Freien willkommen",
+          "petPolicyNl": "Aangelijnde honden welkom buiten",
           "facilitiesDe": "Café, öffentliche Toiletten, Wanderwege, Teiche",
-          "tipDe": "Die südliche Rasenfläche nahe dem Rosengarten ist der beste Ort für Hundebeobachtung, Einheimische bringen im Sommer nachmittags ihre Hunde mit, um im Gras zu lesen."
+          "facilitiesNl": "Café, openbare toiletten, wandelpaden, vijvers",
+          "tipDe": "Die südliche Rasenfläche nahe dem Rosengarten ist der beste Ort für Hundebeobachtung, Einheimische bringen im Sommer nachmittags ihre Hunde mit, um im Gras zu lesen.",
+          "tipNl": "Het zuidelijke grasveld bij de rozentuin is de beste plek om honden te spotten, lokale bewoners nemen 's zomers in de middag hun hond mee om in het gras te lezen."
         }
       ],
       "tipsEn": [
@@ -377,7 +417,9 @@
         }
       ],
       "titleDe": "Hundeparks & Wälder in Aarhus",
+      "titleNl": "Hondenparken en bossen in Aarhus",
       "introDe": "Aarhus ist von Wald umgeben, der Marselisborg-Wald (1.400 ha) bedeckt die südliche Stadthälfte, und der Riis Skov erstreckt sich nördlich entlang der Bucht. Beide verfügen über offizielle Freilaufzonen (Hundeskove). Strände rund um die Stadt sind außerhalb der markierten sommerlichen Badezonen (15. Mai–30. September) hundefreundlich.",
+      "introNl": "Aarhus is omringd door bos, het Marselisborgbos (1.400 ha) bedekt de zuidelijke stadshelft, en het Riis Skov strekt zich noordelijk uit langs de baai. Beide hebben officiële loslopgebieden (hundeskove). Stranden rond de stad zijn buiten de gemarkeerde zomerse zwemzones (15 mei-30 september) hondvriendelijk.",
       "faqsDe": [
         {
           "q": "Wo können Hunde in Aarhus ohne Leine laufen?",
@@ -390,6 +432,20 @@
         {
           "q": "Sind Hunde im Botanischen Garten von Aarhus erlaubt?",
           "a": "Ja, im Freien an der Leine. Das tropische Gewächshaus (Væksthusene) lässt keine Haustiere zu."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar kunnen honden in Aarhus zonder lijn lopen?",
+          "a": "Alleen in de 8 officiële hundeskove. Marselisborg Hundeskov (25 ha) en Risskov Hundeskov (15 ha) liggen het dichtst bij het centrum. Daarbuiten geldt aanlijnplicht."
+        },
+        {
+          "q": "Kan mijn hond zwemmen aan de stranden van Aarhus?",
+          "a": "Ja, de meeste noordelijke baaistranden accepteren het hele jaar aangelijnde honden, met loslopgebieden bij het Bellevue-strand en Den Permanente. De gemarkeerde zomerse zwemzones (15 mei-30 september) verbieden honden alleen in de gemarkeerde delen."
+        },
+        {
+          "q": "Zijn honden toegestaan in de Botanische Tuin van Aarhus?",
+          "a": "Ja, buiten aan de lijn. De tropische kas (Væksthusene) laat geen huisdieren toe."
         }
       ]
     },
@@ -417,7 +473,9 @@
           "descriptionPt": "O Letbanen é o moderno elétrico de metro ligeiro de Aarhus (rede de 12 km, inaugurada em 2017), com os autocarros Midttrafik a cobrir o resto da cidade. Os cães à trela viajam grátis em toda a rede. Os motoristas podem pedir um açaime para os cães maiores em condições de muita gente.",
           "petPolicyPt": "Cães à trela grátis, açaime possível para os cães maiores",
           "descriptionDe": "Letbanen ist Aarhus' moderne Stadtbahn (12 km Netz, eröffnet 2017), Midttrafik-Busse decken den Rest der Stadt ab. Angeleinte Hunde fahren im gesamten Netz kostenlos mit. Fahrer können bei größeren Hunden unter beengten Bedingungen einen Maulkorb verlangen.",
-          "petPolicyDe": "Angeleinte Hunde kostenlos, bei größeren Hunden ggf. Maulkorbpflicht"
+          "descriptionNl": "Letbanen is de moderne stadstram van Aarhus (12 km netwerk, geopend in 2017), Midttrafik-bussen dekken de rest van de stad. Aangelijnde honden reizen gratis mee in het hele netwerk. Chauffeurs kunnen bij grotere honden onder krappe omstandigheden een muilkorf verlangen.",
+          "petPolicyDe": "Angeleinte Hunde kostenlos, bei größeren Hunden ggf. Maulkorbpflicht",
+          "petPolicyNl": "Aangelijnde honden gratis, bij grotere honden eventueel muilkorfplicht"
         },
         {
           "name": "DSB Trains (Aarhus Hovedbanegård)",
@@ -435,7 +493,9 @@
           "descriptionPt": "Os comboios intercidades da DSB ligam Aarhus a Copenhaga (3h), a Hamburgo pelo novo túnel de Femern (4h, com abertura em 2029) e ao resto da Dinamarca. Os cães pequenos em transportadora viajam grátis; os maiores precisam de um hund-billet a metade do preço (cerca de 50 DKK, 7 euros).",
           "petPolicyPt": "Cães pequenos grátis em transportadora; cães grandes com bilhete a metade do preço",
           "descriptionDe": "DSB-Intercityzüge verbinden Aarhus mit Kopenhagen (3 Std.), Hamburg über den neuen Fehmarnbelt-Tunnel (4 Std., Eröffnung 2029) und dem restlichen Dänemark. Kleine Hunde in Transportboxen fahren kostenlos mit; größere Hunde benötigen eine Hund-Fahrkarte zum halben Preis (ca. 50 DKK, 7 €).",
-          "petPolicyDe": "Kleine Hunde kostenlos in Transportbox; große Hunde zum halben Fahrpreis"
+          "descriptionNl": "DSB-intercitytreinen verbinden Aarhus met Kopenhagen (3 uur), Hamburg via de nieuwe Fehmarnbelt-tunnel (4 uur, opening 2029) en de rest van Denemarken. Kleine honden in reismanden reizen gratis mee, grotere honden hebben een hondenkaartje nodig tegen halve prijs (ongeveer 50 DKK, 7 euro).",
+          "petPolicyDe": "Kleine Hunde kostenlos in Transportbox; große Hunde zum halben Fahrpreis",
+          "petPolicyNl": "Kleine honden gratis in reismand, grote honden tegen halve prijs"
         }
       ],
       "tipsEn": [
@@ -517,7 +577,9 @@
         }
       ],
       "titleDe": "Mit Hund unterwegs in Aarhus",
+      "titleNl": "Met je hond onderweg in Aarhus",
       "introDe": "Aarhus' Verkehrsnetz (Letbanen-Straßenbahn + Midttrafik-Busse) nimmt Hunde kostenlos mit, kleine Hunde in Transportboxen, größere Hunde in überfüllten Fahrzeugen an kurzer Leine mit Maulkorb. Der DSB-Intercityzug von Aarhus nach Kopenhagen nimmt Hunde gegen ein halbes Fahrkartenticket mit.",
+      "introNl": "Het vervoersnetwerk van Aarhus (Letbanen-tram plus Midttrafik-bussen) neemt honden gratis mee, kleine honden in reismanden, grotere honden in volle voertuigen aan een korte lijn met muilkorf. De DSB-intercitytrein van Aarhus naar Kopenhagen neemt honden mee tegen een half treinkaartje.",
       "faqsDe": [
         {
           "q": "Fahren Hunde in Aarhus kostenlos im öffentlichen Nahverkehr?",
@@ -530,6 +592,20 @@
         {
           "q": "Sind Taxis in Aarhus hundefreundlich?",
           "a": "Die meisten schon, erwähnen Sie den Hund aber immer bei der Buchung. Aarhus Taxa, Dantaxi und Bolt schicken alle bei entsprechender Angabe hundefreundliche Fahrer."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Reizen honden in Aarhus gratis mee in het openbaar vervoer?",
+          "a": "Ja, aangelijnde honden reizen gratis mee in Letbanen-trams en Midttrafik-bussen. Geen groottebeperking. De chauffeur kan bij grotere honden in volle voertuigen een muilkorf verlangen."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen in de DSB-trein naar Kopenhagen?",
+          "a": "Ja, kleine honden in reismanden gratis, grotere honden met een hondenkaartje (50 DKK, 7 euro) enkele reis. De rit van 3 uur heeft een eigen hondengedeelte."
+        },
+        {
+          "q": "Zijn taxi's in Aarhus hondvriendelijk?",
+          "a": "De meeste wel, maar noem de hond altijd bij het boeken. Aarhus Taxa, Dantaxi en Bolt sturen allemaal een hondvriendelijke chauffeur als je dat aangeeft."
         }
       ]
     },
@@ -562,8 +638,11 @@
           "petPolicyPt": "Sem trela durante todo o ano na secção norte para cães",
           "tipPt": "Caminhe da paragem Den Permanente da Letbanen até à secção para cães (10 min para norte); a zona balnear sul (de 15 de maio a 30 de setembro) proíbe cães.",
           "descriptionDe": "Aarhus' beliebtester Stadtstrand, an der nördlichen Bucht 4 km vom Zentrum mit der Letbanen Linie 1 entfernt. Der nördlichste Abschnitt ist ein ganzjähriger Hundestrand mit Freilauf-Schwimmen. Sandig, sanft abfallend, familienfreundlich. Bei Einheimischen zu jeder Jahreszeit beliebt.",
+          "descriptionNl": "Het populairste stadsstrand van Aarhus, aan de noordelijke baai, 4 km van het centrum met Letbanen lijn 1. Het meest noordelijke gedeelte is het hele jaar door een hondenstrand met vrij zwemmen. Zanderig, geleidelijk aflopend, gezinsvriendelijk. Bij lokale bewoners het hele jaar door populair.",
           "petPolicyDe": "Ganzjährig ohne Leine im nördlichen Hundebereich",
-          "tipDe": "Gehen Sie von der Haltestelle Den Permanente 10 Minuten nordwärts zum Hundebereich, in der südlichen Badezone (15. Mai–30. September) sind Hunde verboten."
+          "petPolicyNl": "Het hele jaar zonder lijn in het noordelijke hondengedeelte",
+          "tipDe": "Gehen Sie von der Haltestelle Den Permanente 10 Minuten nordwärts zum Hundebereich, in der südlichen Badezone (15. Mai–30. September) sind Hunde verboten.",
+          "tipNl": "Loop vanaf halte Den Permanente 10 minuten noordwaarts naar het hondengedeelte, in de zuidelijke zwemzone (15 mei-30 september) zijn honden verboden."
         },
         {
           "name": "Den Permanente",
@@ -586,8 +665,11 @@
           "petPolicyPt": "Zona sem trela na ala norte durante todo o ano",
           "tipPt": "O banho de mar de inverno é uma tradição dinamarquesa; o balneário Den Permanente abre das 06:00 às 22:00 durante todo o ano. O seu cão pode esperar na praia para cães enquanto faz um mergulho gelado de 3 minutos.",
           "descriptionDe": "Ein modernistischer Seebad-Komplex von 1933 (ursprünglich für ganzjährige Kaltwasserbadegäste) mit angrenzendem Hundestrand. Sandig, geschützt und 5 Minuten mit der Letbanen vom Stadtzentrum entfernt. Die Freilaufzone für Hunde befindet sich im nördlichen Flügel des Strandes.",
+          "descriptionNl": "Een modernistisch zeebadcomplex uit 1933 (oorspronkelijk voor koudwaterzwemmers het hele jaar door) met aangrenzend hondenstrand. Zanderig, beschut en 5 minuten met de Letbanen van het stadscentrum. Het loslopgebied voor honden ligt in de noordelijke vleugel van het strand.",
           "petPolicyDe": "Freilaufzone im nördlichen Flügel ganzjährig",
-          "tipDe": "Winterliches Meerbaden ist eine dänische Tradition, das Seebad Den Permanente öffnet ganzjährig von 06:00 bis 22:00 Uhr. Ihr Hund kann am Hundestrand warten, während Sie einen 3-minütigen eisigen Sprung wagen."
+          "petPolicyNl": "Loslopgebied in de noordelijke vleugel het hele jaar",
+          "tipDe": "Winterliches Meerbaden ist eine dänische Tradition, das Seebad Den Permanente öffnet ganzjährig von 06:00 bis 22:00 Uhr. Ihr Hund kann am Hundestrand warten, während Sie einen 3-minütigen eisigen Sprung wagen.",
+          "tipNl": "Winterzwemmen in zee is een Deense traditie, het zeebad Den Permanente is het hele jaar open van 06:00 tot 22:00 uur. Je hond kan bij het hondenstrand wachten terwijl jij een ijskoude duik van 3 minuten waagt."
         },
         {
           "name": "Ballehage Strand",
@@ -610,8 +692,11 @@
           "petPolicyPt": "Trela durante todo o ano; sem trela na ala sul de 1 out a 14 mai",
           "tipPt": "Combine com um passeio na Marselisborg Hundeskov para um dia completo de floresta + praia, um circuito de cerca de 6 km, todo pet-friendly.",
           "descriptionDe": "Ein ruhigerer, ländlicherer Strand an der südlichen Bucht von Aarhus, 8 km vom Zentrum mit Auto oder Bus entfernt. Sandig mit Grasböschungen, geschützt durch den dahinterliegenden Marselisborg-Wald. Ganzjährig hundefreundlich an der Leine; Freilauf im südlichen Flügel außerhalb der sommerlichen Badezone.",
+          "descriptionNl": "Een rustiger, landelijker strand aan de zuidelijke baai van Aarhus, 8 km van het centrum met auto of bus. Zanderig met grastaluds, beschut door het erachter gelegen Marselisborgbos. Het hele jaar hondvriendelijk aan de lijn, loslopen in de zuidelijke vleugel buiten de zomerse zwemzone.",
           "petPolicyDe": "Ganzjährig Leinenpflicht; Freilauf im südlichen Flügel 1. Okt.–14. Mai",
-          "tipDe": "Kombinieren Sie den Besuch mit einem Spaziergang durch den Marselisborg Hundeskov für einen vollständigen Wald- und Strandtag, rund 6 km Rundweg, alles hundefreundlich."
+          "petPolicyNl": "Het hele jaar aanlijnplicht, loslopen in de zuidelijke vleugel 1 okt.-14 mei",
+          "tipDe": "Kombinieren Sie den Besuch mit einem Spaziergang durch den Marselisborg Hundeskov für einen vollständigen Wald- und Strandtag, rund 6 km Rundweg, alles hundefreundlich.",
+          "tipNl": "Combineer het bezoek met een wandeling door het Marselisborg Hundeskov voor een complete bos- en strandbeleving, ongeveer 6 km rondwandeling, alles hondvriendelijk."
         }
       ],
       "tipsEn": [
@@ -693,7 +778,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in Aarhus",
+      "titleNl": "Hondvriendelijke stranden in Aarhus",
       "introDe": "Aarhus hat eine 22 km lange Buchtküste mit Sand- und Kiesstränden, die mit der Letbanen-Straßenbahn erreichbar sind. Die meisten akzeptieren ganzjährig angeleinte Hunde, mit Freilaufzonen außerhalb des markierten sommerlichen Badebereichs (15. Mai–30. September). Bellevue Strand und Den Permanente sind die beliebtesten Hundestrände.",
+      "introNl": "Aarhus heeft een 22 km lange baaikustlijn met zand- en kiezelstranden, bereikbaar met de Letbanen-tram. De meeste accepteren het hele jaar aangelijnde honden, met loslopgebieden buiten het gemarkeerde zomerse zwemgebied (15 mei-30 september). Bellevue-strand en Den Permanente zijn de populairste hondenstranden.",
       "faqsDe": [
         {
           "q": "Kann mein Hund an Aarhus' Stränden schwimmen?",
@@ -706,6 +793,20 @@
         {
           "q": "Wie komme ich ohne Auto zum Bellevue Strand?",
           "a": "Letbanen Linie 1 vom Zentrum bis zur Haltestelle Den Permanente, dann 10 Minuten Fußweg nordwärts entlang des Strandes. Gesamtzeit 25 Minuten vom Stadtzentrum, Hunde fahren kostenlos mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan mijn hond zwemmen aan de stranden van Aarhus?",
+          "a": "Ja, de meeste noordelijke baaistranden accepteren het hele jaar aangelijnde honden. Bellevue-strand en Den Permanente hebben het hele jaar loslopgebieden voor honden. De zomerse zwemzones (15 mei-30 september) verbieden honden alleen in de gemarkeerde delen."
+        },
+        {
+          "q": "Is het water koud voor honden?",
+          "a": "Ja, de baai van Aarhus is in februari 4 graden Celsius en bereikt in augustus hooguit 18 graden. De meeste honden pootjebaden liever dan dat ze zwemmen. Neem een microvezelhanddoek en een windjack voor de hond mee."
+        },
+        {
+          "q": "Hoe kom ik zonder auto bij het Bellevue-strand?",
+          "a": "Letbanen lijn 1 vanaf het centrum tot halte Den Permanente, dan 10 minuten lopen noordwaarts langs het strand. Totale tijd 25 minuten vanaf het stadscentrum, honden reizen gratis mee."
         }
       ]
     },
@@ -743,9 +844,13 @@
           "servicesPt": "Urgência, cirurgia, RM, oncologia, dermatologia",
           "tipPt": "Telefone sempre primeiro (+45 86 14 28 00); o enfermeiro de triagem poupa-lhe uma viagem de 15 min às 3 da manhã. Estacionamento gratuito no local.",
           "descriptionDe": "Jütlands führendes 24-Stunden-Notfallkrankenhaus, direkt südlich von Aarhus. Vollständige Diagnostikpalette (CT, MRT, Ultraschall, Röntgen), Operationssaal, Intensivstation sowie Onkologie- und Dermatologie-Spezialisten. Fungiert als zentrale Anlaufstelle außerhalb der Öffnungszeiten für die meisten lokalen Praxen.",
+          "descriptionNl": "Het toonaangevende 24-uurs spoedziekenhuis van Jutland, direct ten zuiden van Aarhus. Volledig diagnostisch pakket (CT, MRI, echo, röntgen), operatiekamer, intensive care, en specialisten oncologie en dermatologie. Fungeert als centrale plek buiten kantooruren voor de meeste lokale praktijken.",
           "petPolicyDe": "24-Stunden-Notfälle ohne Termin werden angenommen",
+          "petPolicyNl": "24-uurs spoedgevallen zonder afspraak worden aangenomen",
           "servicesDe": "Notfall, Chirurgie, MRT, Onkologie, Dermatologie",
-          "tipDe": "Rufen Sie immer zuerst an (+45 86 14 28 00), die Triage-Pflegekraft erspart Ihnen um 3 Uhr nachts eine 15-minütige Fahrt umsonst. Kostenlose Parkplätze vor Ort."
+          "servicesNl": "Spoedeisende hulp, chirurgie, MRI, oncologie, dermatologie",
+          "tipDe": "Rufen Sie immer zuerst an (+45 86 14 28 00), die Triage-Pflegekraft erspart Ihnen um 3 Uhr nachts eine 15-minütige Fahrt umsonst. Kostenlose Parkplätze vor Ort.",
+          "tipNl": "Bel altijd eerst (+45 86 14 28 00), de triageverpleegkundige bespaart je om 3 uur 's nachts een nutteloze rit van 15 minuten. Gratis parkeren ter plaatse."
         },
         {
           "name": "Evidensia Aarhus Dyreklinik",
@@ -773,9 +878,13 @@
           "servicesPt": "Urgência, cirurgia, imagiologia, medicina interna",
           "tipPt": "Mais perto da Floresta de Marselisborg do que o AniCura, preferível para hóspedes que ficam em Frederiksbjerg ou Højbjerg. Estacionamento gratuito.",
           "descriptionDe": "Evidensias Filiale in Aarhus mit 24-Stunden-Notfallaufnahme. Kleiner als AniCura, aber gut geeignet für Gäste in der Nähe von Marselisborg oder im südlichen Aarhus. Chirurgie, Bildgebung, Innere Medizin.",
+          "descriptionNl": "De vestiging van Evidensia in Aarhus met 24-uurs spoedopname. Kleiner dan AniCura, maar goed geschikt voor gasten bij Marselisborg of in het zuiden van Aarhus. Chirurgie, beeldvorming, interne geneeskunde.",
           "petPolicyDe": "24-Stunden-Notfälle ohne Termin werden angenommen",
+          "petPolicyNl": "24-uurs spoedgevallen zonder afspraak worden aangenomen",
           "servicesDe": "Notfall, Chirurgie, Bildgebung, Innere Medizin",
-          "tipDe": "Näher am Marselisborg-Wald als AniCura, bevorzugt für Gäste, die in Frederiksbjerg oder Højbjerg übernachten. Kostenlose Parkplätze."
+          "servicesNl": "Spoedeisende hulp, chirurgie, beeldvorming, interne geneeskunde",
+          "tipDe": "Näher am Marselisborg-Wald als AniCura, bevorzugt für Gäste, die in Frederiksbjerg oder Højbjerg übernachten. Kostenlose Parkplätze.",
+          "tipNl": "Dichter bij het Marselisborgbos dan AniCura, te verkiezen voor gasten die overnachten in Frederiksbjerg of Højbjerg. Gratis parkeren."
         }
       ],
       "tipsEn": [
@@ -857,7 +966,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte in Aarhus, Tierkliniken & Haustierbetreuung",
+      "titleNl": "Spoeddierenartsen in Aarhus, dierenklinieken en huisdierenoppas",
       "introDe": "Aarhus verfügt über zwei 24-Stunden-Notfall-Tierkliniken, AniCura Aarhus Dyrehospital (die größte in Jütland) und Evidensia Aarhus. Reguläre Tagespraxen gibt es reichlich; die Versorgung außerhalb der Öffnungszeiten ist bei AniCura zentralisiert.",
+      "introNl": "Aarhus heeft twee 24-uurs spoeddierenklinieken, AniCura Aarhus Dyrehospital (de grootste van Jutland) en Evidensia Aarhus. Reguliere dagpraktijken zijn er in overvloed, de zorg buiten kantooruren is gecentraliseerd bij AniCura.",
       "faqsDe": [
         {
           "q": "Welcher Tierarzt in Aarhus hat rund um die Uhr geöffnet?",
@@ -870,6 +981,20 @@
         {
           "q": "Sprechen Tierärzte in Aarhus Englisch?",
           "a": "Ja, praktisch jeder dänische Tierarzt spricht ausgezeichnetes Englisch. AniCura-Kliniken haben ausdrücklich international-freundliche Richtlinien."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welke dierenarts in Aarhus is 24/7 geopend?",
+          "a": "Twee klinieken: AniCura Aarhus Dyrehospital (Viby J, +45 86 14 28 00) en Evidensia Aarhus (Højbjerg, +45 87 32 03 00). Beide nemen spoedgevallen zonder afspraak aan, bel van tevoren."
+        },
+        {
+          "q": "Hoeveel kost een bezoek aan de spoeddierenarts in Aarhus?",
+          "a": "Basisconsult buiten kantooruren 1.800-2.400 DKK (240-320 euro), plus diagnostiek. De EU-huisdierenverzekering dekt het grootste deel van de kosten."
+        },
+        {
+          "q": "Spreken dierenartsen in Aarhus Engels?",
+          "a": "Ja, vrijwel elke Deense dierenarts spreekt uitstekend Engels. AniCura-klinieken hebben expliciet internationaal-vriendelijk beleid."
         }
       ]
     },
@@ -968,7 +1093,9 @@
         }
       ],
       "titleDe": "Wichtige Reisetipps für Aarhus mit Haustier",
+      "titleNl": "Belangrijke reistips voor Aarhus met huisdier",
       "introDe": "Aarhus ist eine der haustierfreundlichsten Städte Europas, in Skandinavien nur hinter Kopenhagen und Bergen. Kostenloser öffentlicher Nahverkehr, 8 offizielle Freilaufwälder, ganzjährige Hundestrände und 24-Stunden-Notfalltierärzte, aber es gelten das dänische Leinengesetz und saisonale Strandregeln.",
+      "introNl": "Aarhus is een van de dierenvriendelijkste steden van Europa, in Scandinavië alleen na Kopenhagen en Bergen. Gratis openbaar vervoer, 8 officiële loslopbossen, het hele jaar hondenstranden, en 24-uurs spoeddierenartsen, maar de Deense aanlijnwet en seizoensgebonden strandregels gelden wel.",
       "faqsDe": [
         {
           "q": "Ist Aarhus eine gute Stadt für einen Besuch mit Hund?",
@@ -981,6 +1108,20 @@
         {
           "q": "Gibt es Rasseverbote in Dänemark?",
           "a": "Ja, 13 Rassen sind seit 2010 verboten, darunter Pit Bull, Tosa, American Bulldog, Boerboel, Kangal. Diese dürfen überhaupt nicht nach Dänemark einreisen. Andere Rassen sind willkommen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Aarhus een goede stad om te bezoeken met hond?",
+          "a": "Ja, in de top 5 van hondvriendelijkste steden van Scandinavië. Gratis openbaar vervoer, 8 loslopbossen, het hele jaar hondenstranden, hondvriendelijke cafécultuur en 24-uurs spoeddierenartsen. De Deense hygge-cultuur strekt zich ook uit tot viervoetige gasten."
+        },
+        {
+          "q": "Heb ik speciale documenten nodig voor Denemarken?",
+          "a": "EU-dierenpaspoort met geldige rabiësvaccinatie. Geen lintwormbehandeling vereist (in tegenstelling tot het VK/Ierland). Microchip volgens ISO 11784/11785 verplicht."
+        },
+        {
+          "q": "Zijn er rasverboden in Denemarken?",
+          "a": "Ja, 13 rassen zijn sinds 2010 verboden, waaronder Pit Bull, Tosa, American Bulldog, Boerboel, Kangal. Deze mogen Denemarken helemaal niet binnenkomen. Andere rassen zijn welkom."
         }
       ]
     },
@@ -1013,8 +1154,11 @@
           "petPolicyPt": "Cães à trela bem-vindos ao ar livre; sem entrada nos edifícios",
           "tipPt": "Visite num dia útil à hora de abertura (10:00) para um passeio sossegado; o seu cão pode percorrer as 5 ruas históricas sem multidões.",
           "descriptionDe": "Aarhus' Freilichtmuseum, das dänische Stadtgeschichte anhand von 75 historischen, aus ganz Dänemark umgesiedelten Gebäuden nachbildet. Die Straßen, Gärten und Außenbereiche akzeptieren angeleinte Hunde (kostenpflichtiger Eintritt). Hunde dürfen die Gebäude nicht betreten, aber der größte Teil des Erlebnisses findet im Freien statt.",
+          "descriptionNl": "Het openluchtmuseum van Aarhus, dat de Deense stadsgeschiedenis naspeelt aan de hand van 75 historische gebouwen die uit heel Denemarken zijn verplaatst. De straten, tuinen en buitengedeeltes accepteren aangelijnde honden (betaalde entree). Honden mogen de gebouwen niet in, maar het grootste deel van de ervaring speelt zich buiten af.",
           "petPolicyDe": "Angeleinte Hunde im Freien willkommen; keine Gebäude",
-          "tipDe": "Besuchen Sie das Museum an einem Wochentag zur Öffnungszeit (10:00 Uhr) für einen ruhigen Spaziergang, Ihr Hund kann alle 5 historischen Straßen ohne Menschenmengen erleben."
+          "petPolicyNl": "Aangelijnde honden welkom buiten, geen gebouwen",
+          "tipDe": "Besuchen Sie das Museum an einem Wochentag zur Öffnungszeit (10:00 Uhr) für einen ruhigen Spaziergang, Ihr Hund kann alle 5 historischen Straßen ohne Menschenmengen erleben.",
+          "tipNl": "Bezoek het museum op een doordeweekse dag bij openingstijd (10:00 uur) voor een rustige wandeling, je hond kan alle 5 historische straten zonder drukte beleven."
         },
         {
           "name": "Dokk1 Harbour Plaza",
@@ -1037,8 +1181,11 @@
           "petPolicyPt": "Praça pet-friendly; interior da biblioteca interdito",
           "tipPt": "Caminhe de Dokk1 ao longo da marginal do porto, passando pelos apartamentos Iceberg, até Aarhus Ø, 2 km de frente de mar pet-friendly com cafés e bancos.",
           "descriptionDe": "Die architektonisch preisgekrönte Bibliothek und das Kulturzentrum am Wasser, mit einem weitläufigen öffentlichen Platz mit Blick auf den Hafen. Der Außenplatz ist an der Leine hundefreundlich, mit Blick auf den Hafen und die neuen Stadtentwicklungen in Aarhus Ø.",
+          "descriptionNl": "De architectonisch bekroonde bibliotheek en het cultuurcentrum aan het water, met een weids openbaar plein met uitzicht op de haven. Het buitenplein is hondvriendelijk aan de lijn, met uitzicht op de haven en de nieuwe stadsontwikkelingen in Aarhus Ø.",
           "petPolicyDe": "Platz hundefreundlich; Inneres der Bibliothek tabu",
-          "tipDe": "Gehen Sie von Dokk1 entlang der Hafenpromenade an den Iceberg-Apartments vorbei bis Aarhus Ø, 2 km hundefreundliches Ufer mit Cafés und Bänken."
+          "petPolicyNl": "Plein hondvriendelijk, binnenin de bibliotheek verboden",
+          "tipDe": "Gehen Sie von Dokk1 entlang der Hafenpromenade an den Iceberg-Apartments vorbei bis Aarhus Ø, 2 km hundefreundliches Ufer mit Cafés und Bänken.",
+          "tipNl": "Loop vanaf Dokk1 langs de havenpromenade voorbij de Iceberg-appartementen tot Aarhus Ø, 2 km hondvriendelijke oever met cafés en bankjes."
         },
         {
           "name": "Marselisborg Royal Park",
@@ -1061,8 +1208,11 @@
           "petPolicyPt": "Cães à trela bem-vindos nos jardins",
           "tipPt": "Combine com um passeio na Floresta de Marselisborg para uma tarde completa; o parque real situa-se à entrada norte dos 1400 hectares de floresta.",
           "descriptionDe": "Der Sommersitz der dänischen königlichen Familie, mit 13 Hektar öffentlich zugänglicher gestalteter Gärten. Hunde an der Leine willkommen; das Schloss selbst ist nur bei Abwesenheit der königlichen Familie geöffnet (jährlich bekannt gegeben). Wachablösung um Mittag, wenn die königliche Familie residiert.",
+          "descriptionNl": "De zomerresidentie van de Deense koninklijke familie, met 13 hectare openbaar toegankelijke aangelegde tuinen. Honden aan de lijn welkom, het kasteel zelf is alleen geopend als de koninklijke familie afwezig is (jaarlijks bekendgemaakt). Wisseling van de wacht rond het middaguur wanneer de koninklijke familie er verblijft.",
           "petPolicyDe": "Angeleinte Hunde in den Gärten willkommen",
-          "tipDe": "Kombinieren Sie den Besuch mit einem Spaziergang durch den Marselisborg-Wald für einen ganzen Nachmittag, der königliche Park liegt am Nordeingang des 1.400 Hektar großen Waldes."
+          "petPolicyNl": "Aangelijnde honden welkom in de tuinen",
+          "tipDe": "Kombinieren Sie den Besuch mit einem Spaziergang durch den Marselisborg-Wald für einen ganzen Nachmittag, der königliche Park liegt am Nordeingang des 1.400 Hektar großen Waldes.",
+          "tipNl": "Combineer het bezoek met een wandeling door het Marselisborgbos voor een hele middag, het koninklijke park ligt bij de noordelijke ingang van het 1.400 hectare grote bos."
         }
       ],
       "tipsEn": [
@@ -1144,7 +1294,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Aarhus",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Aarhus",
       "introDe": "Aarhus' Wahrzeichen, die Altstadt Den Gamle By, der Hafenplatz der Bibliothek Dokk1, die Kopfsteinpflastergassen des Latinerkvarteret und der königliche Park Marselisborg, heißen alle angeleinte Hunde im Freien willkommen. Die großen Museen (ARoS, Moesgaard) verbieten Haustiere in den Innenräumen.",
+      "introNl": "De bekendste plekken van Aarhus, de oude stad Den Gamle By, het havenplein van bibliotheek Dokk1, de kasseienstraatjes van het Latinerkvarteret en het koninklijke park Marselisborg, heten allemaal aangelijnde honden welkom buiten. De grote musea (ARoS, Moesgaard) verbieden huisdieren binnen.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund mit nach Den Gamle By nehmen?",
@@ -1157,6 +1309,20 @@
         {
           "q": "Kann ich die Gärten des königlichen Schlosses Marselisborg mit meinem Hund besuchen?",
           "a": "Ja, die öffentlichen Gärten (13 ha) akzeptieren ganzjährig angeleinte Hunde. Das Schloss selbst öffnet nur bei Abwesenheit der königlichen Familie, was jährlich bekannt gegeben wird."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen naar Den Gamle By?",
+          "a": "Ja, buitenstraten, tuinen en buitengedeeltes accepteren aangelijnde honden (betaalde entree). De historische gebouwen zelf zijn verboden terrein, maar het grootste deel van de ervaring speelt zich buiten af."
+        },
+        {
+          "q": "Zijn honden toegestaan in kunstmuseum ARoS?",
+          "a": "Nee, huisdieren zijn binnen verboden. Alleen assistentiehonden zijn toegestaan. De beroemde regenboogronde op het dak is vanaf de haven op straatniveau te zien."
+        },
+        {
+          "q": "Kan ik de tuinen van koninklijk kasteel Marselisborg met mijn hond bezoeken?",
+          "a": "Ja, de openbare tuinen (13 ha) accepteren het hele jaar aangelijnde honden. Het kasteel zelf is alleen open als de koninklijke familie afwezig is, wat jaarlijks wordt bekendgemaakt."
         }
       ]
     },
@@ -1188,8 +1354,11 @@
           "petPolicyPt": "Cuidadores verificados, seguro incluído",
           "servicesPt": "Passeio de cães, creche, alojamento em casa",
           "descriptionDe": "Europäischer Marktplatz für Haustierbetreuung mit geprüften Sittern in Aarhus für Spaziergänge, Tagesbetreuung und Pension zu Hause. Alle Buchungen beinhalten Versicherung und tägliche Fotoupdates. Durchschnittliche Preise: 200–300 DKK/Tag Pension (27–40 €), 100–180 DKK/Spaziergang (14–24 €).",
+          "descriptionNl": "Europese marktplaats voor huisdierenoppas met gescreende oppassers in Aarhus voor wandelingen, dagopvang en pension aan huis. Alle boekingen omvatten verzekering en dagelijkse foto-updates. Gemiddelde prijzen: 200-300 DKK/dag pension (27-40 euro), 100-180 DKK/wandeling (14-24 euro).",
           "petPolicyDe": "Geprüfte Sitter, Versicherung inbegriffen",
-          "servicesDe": "Gassi-Service, Tagesbetreuung, Pension zu Hause"
+          "petPolicyNl": "Gescreende oppassers, verzekering inbegrepen",
+          "servicesDe": "Gassi-Service, Tagesbetreuung, Pension zu Hause",
+          "servicesNl": "Uitlaatservice, dagopvang, pension aan huis"
         }
       ],
       "tipsEn": [
@@ -1271,7 +1440,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Aarhus",
+      "titleNl": "Huisdierenoppas en uitlaatservice in Aarhus",
       "introDe": "Aarhus' Markt für Haustierbetreuung wird von Pawshake und der dänischen Plattform Hundepasning.dk dominiert. Tagesstätten konzentrieren sich in Risskov und Højbjerg. Die Preise ähneln denen in Kopenhagen, sind aber etwas günstiger.",
+      "introNl": "De markt voor huisdierenoppas in Aarhus wordt gedomineerd door Pawshake en het Deense platform Hundepasning.dk. Dagopvang is geconcentreerd in Risskov en Højbjerg. De prijzen lijken op die in Kopenhagen, maar zijn iets voordeliger.",
       "faqsDe": [
         {
           "q": "Wie viel kostet Haustierbetreuung in Aarhus?",
@@ -1284,6 +1455,20 @@
         {
           "q": "Kann ich in Aarhus einen englischsprachigen Sitter finden?",
           "a": "Ja, praktisch jeder Däne unter 50 spricht fließend Englisch. Die meisten Pawshake-Profile geben die Sprachen ausdrücklich an."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost huisdierenoppas in Aarhus?",
+          "a": "Typische Pawshake-prijzen: 200-300 DKK/dag pension (27-40 euro), 100-180 DKK/wandeling (14-24 euro). 's Zomers iets hoger."
+        },
+        {
+          "q": "Zijn oppassers in Aarhus verzekerd?",
+          "a": "Pawshake omvat aansprakelijkheids- en dierenartsspoedverzekering. Hundepasning.dk vereist een verzekeringscontrole van de oppasser voor het boeken."
+        },
+        {
+          "q": "Kan ik in Aarhus een Engelstalige oppasser vinden?",
+          "a": "Ja, vrijwel elke Deen onder de 50 spreekt vloeiend Engels. De meeste Pawshake-profielen geven expliciet aan welke talen ze spreken."
         }
       ]
     }

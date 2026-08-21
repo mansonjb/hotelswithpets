@@ -41,9 +41,13 @@
           "tipPt": "O bazar fecha para a maioria dos veículos às 11h; chegue cedo para estacionar perto do restaurante antes de subir as ruelas de pedra",
           "googleMapsUrl": "https://maps.google.com/?q=Restaurant+Kujtimi+Gjirokastra+Albania",
           "descriptionDe": "Ein angesehenes traditionelles Restaurant im alten Basar, bekannt für langsam gegarte albanische Gerichte wie speca të mbushura (gefüllte Paprika), tave dheu (Lamm aus dem Tontopf) und lokale Weine. Tische im Freien unter Steinbögen, wo Hunde willkommen sind.",
+          "descriptionNl": "Een gerenommeerd traditioneel restaurant in de oude bazaar, bekend om langzaam gegaarde Albanese gerechten zoals speca të mbushura (gevulde paprika's), tave dheu (lam uit de kleipot) en lokale wijnen. Tafels buiten onder stenen bogen, waar honden welkom zijn.",
           "petPolicyDe": "Hunde an den Tischen der Außenterrasse willkommen",
+          "petPolicyNl": "Honden welkom aan de tafels op het buitenterras",
           "mustTryDe": "Tave dheu, gefüllte Paprika, lokaler Wein aus Gjirokastra",
-          "tipDe": "Der Basar wird bis 11 Uhr für die meisten Fahrzeuge gesperrt; früh kommen, um in der Nähe des Restaurants zu parken, bevor Sie die steinernen Gassen hinaufgehen"
+          "mustTryNl": "Tave dheu, gevulde paprika's, lokale wijn uit Gjirokastra",
+          "tipDe": "Der Basar wird bis 11 Uhr für die meisten Fahrzeuge gesperrt; früh kommen, um in der Nähe des Restaurants zu parken, bevor Sie die steinernen Gassen hinaufgehen",
+          "tipNl": "De bazaar is tot 11 uur afgesloten voor de meeste voertuigen; kom vroeg om dicht bij het restaurant te parkeren voordat je de stenen steegjes op loopt"
         },
         {
           "name": "Taverna e Kalasë",
@@ -71,9 +75,13 @@
           "tipPt": "Sente-se no lado esquerdo da esplanada para a melhor vista do castelo e vale; o seu cão pode deitar-se debaixo da mesa na sombra do toldo",
           "googleMapsUrl": "https://maps.google.com/?q=castle+road+restaurant+Gjirokastra+Albania",
           "descriptionDe": "Eine einfache Grillterrasse an der Straße zur Burg, bei Tagesausflüglern beliebt wegen des Blicks über die steinbedachte Stadt. Gegrilltes Fleisch, Salate und kalte Getränke. Hunde werden problemlos am Terrassengeländer angebunden.",
+          "descriptionNl": "Een eenvoudig grillterras aan de weg naar het kasteel, populair bij dagjesmensen vanwege het uitzicht over de stad met stenen daken. Gegrild vlees, salades en koude drankjes. Honden worden probleemloos aan de terrasleuning vastgemaakt.",
           "petPolicyDe": "Hunde an den Terrassentischen geduldet",
+          "petPolicyNl": "Honden getolereerd aan de terrastafels",
           "mustTryDe": "Qofte, Lammkoteletts, Korça-Bier",
-          "tipDe": "Auf der linken Seite der Terrasse sitzen für den besten Blick auf Burg und Tal; Ihr Hund kann unter dem Tisch im Schatten der Markise liegen"
+          "mustTryNl": "Qofte, lamskoteletjes, Korça-bier",
+          "tipDe": "Auf der linken Seite der Terrasse sitzen für den besten Blick auf Burg und Tal; Ihr Hund kann unter dem Tisch im Schatten der Markise liegen",
+          "tipNl": "Ga aan de linkerkant van het terras zitten voor het beste uitzicht op kasteel en dal; jouw hond kan onder de tafel in de schaduw van het zonnescherm liggen"
         }
       ],
       "tipsEn": [
@@ -137,7 +145,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Gjirokastra",
+      "titleNl": "Hondvriendelijke restaurants in Gjirokastra",
       "introDe": "Gjirokastras Restaurantszene konzentriert sich auf den alten osmanischen Basar (pazari i vjetër) und entlang der Straße unterhalb der Burg. Die Höhenlage (300 m über dem Drino-Tal) hält die Temperaturen angenehm niedriger als an der Küste, und das Essen mit Hund auf der Terrasse im Freien ist entspannt und ungezwungen.",
+      "introNl": "De restaurantscene van Gjirokastra concentreert zich rond de oude Ottomaanse bazaar (pazari i vjetër) en langs de weg onder het kasteel. De hoogteligging (300 m boven het Drino-dal) houdt de temperaturen aangenaam lager dan aan de kust, en buiten eten met je hond op het terras voelt ontspannen en informeel.",
       "faqsDe": [
         {
           "q": "Sind Hunde im alten Basar von Gjirokastra erlaubt?",
@@ -146,6 +156,16 @@
         {
           "q": "Welche albanischen Gerichte kann ich mit meinem Hund teilen?",
           "a": "Einfach gegrilltes Fleisch (Qofte, Lamm) kann in kleinen Mengen bedenkenlos geteilt werden. Albanisches Byrek-Gebäck (fettreich) und knoblauchlastige Salate vermeiden."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in de oude bazaar van Gjirokastra?",
+          "a": "Ja. De bazaar is een open voetgangersgebied en honden lopen er zonder beperking doorheen. De met steen geplaveide steegjes zijn smal, maar goed te doen aan de lijn."
+        },
+        {
+          "q": "Welke Albaanse gerechten kan ik met mijn hond delen?",
+          "a": "Eenvoudig gegrild vlees (qofte, lam) kun je in kleine hoeveelheden gerust delen. Vermijd Albaans byrek-gebak (vetrijk) en salades met veel knoflook."
         }
       ]
     },
@@ -180,8 +200,11 @@
           "tipPt": "De manhã das 7:00 às 9:00 e à tarde depois das 18:00 são os horários locais de passeio com cães; vai encontrar outros donos e os seus cães, o que facilita a socialização",
           "googleMapsUrl": "https://maps.google.com/?q=City+Park+Gjirokastra+Albania",
           "descriptionDe": "Der wichtigste städtische Park am zentralen Boulevard, mit Rasenflächen, Bänken und großen Schattenbäumen. Einheimische Familien bringen regelmäßig ihre Hunde her. Der Park ist flach und leicht zugänglich, ein Kontrast zu den steilen Burgstraßen.",
+          "descriptionNl": "Het belangrijkste stadspark aan de centrale boulevard, met grasvelden, bankjes en grote schaduwbomen. Lokale gezinnen nemen er regelmatig hun honden mee naartoe. Het park is vlak en makkelijk toegankelijk, een contrast met de steile straten rond het kasteel.",
           "petPolicyDe": "Hunde willkommen, de facto ohne Leine",
-          "tipDe": "Morgens von 7:00-9:00 Uhr und abends nach 18:00 Uhr sind die örtlichen Hundespaziergang-Stunden; Sie treffen andere Halter und ihre Hunde, was die Sozialisierung erleichtert"
+          "petPolicyNl": "Honden welkom, de facto zonder lijn",
+          "tipDe": "Morgens von 7:00-9:00 Uhr und abends nach 18:00 Uhr sind die örtlichen Hundespaziergang-Stunden; Sie treffen andere Halter und ihre Hunde, was die Sozialisierung erleichtert",
+          "tipNl": "'s Ochtends van 7:00-9:00 uur en 's avonds na 18:00 uur zijn de lokale uitlaatuurtjes; je ontmoet er andere baasjes en hun honden, wat de socialisatie makkelijker maakt"
         }
       ],
       "tipsEn": [
@@ -245,7 +268,9 @@
         }
       ],
       "titleDe": "Grünflächen & Hundespaziergänge in Gjirokastra",
+      "titleNl": "Groengebieden & hondenwandelingen in Gjirokastra",
       "introDe": "Gjirokastra liegt an einem steilen Hügel, und Grünflächen befinden sich hauptsächlich an den Hängen rund um die Burg und im Drino-Tal darunter. Der Stadtpark (Parku i Qytetit) am Hauptboulevard ist der wichtigste flache Spazierbereich. Hunde laufen in der Praxis in fast der gesamten Stadt ohne Leine.",
+      "introNl": "Gjirokastra ligt op een steile heuvel, en groengebieden bevinden zich vooral op de hellingen rond het kasteel en in het Drino-dal daaronder. Het stadspark (Parku i Qytetit) aan de hoofdboulevard is het belangrijkste vlakke wandelgebied. In de praktijk lopen honden in vrijwel de hele stad zonder lijn.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde auf dem Burghügel von Gjirokastra spazieren gehen?",
@@ -254,6 +279,16 @@
         {
           "q": "Gibt es einen Hundepark in Gjirokastra?",
           "a": "Keinen eigenen eingezäunten Hundepark. Der Stadtpark und die offenen Hänge übernehmen diese Rolle inoffiziell."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden wandelen op de kasteelheuvel van Gjirokastra?",
+          "a": "Ja. De toegangsweg naar het kasteel en de omliggende hellingen zijn open voor honden. Alleen binnen in het kasteelmuseum moet je jouw hond buiten bij de poort laten."
+        },
+        {
+          "q": "Is er een hondenpark in Gjirokastra?",
+          "a": "Geen eigen omheind hondenpark. Het stadspark en de open hellingen vervullen die rol op informele wijze."
         }
       ]
     },
@@ -328,7 +363,9 @@
         }
       ],
       "titleDe": "Mit Ihrem Hund unterwegs in Gjirokastra",
+      "titleNl": "Onderweg met jouw hond in Gjirokastra",
       "introDe": "Gjirokastra ist eine kleine UNESCO-Stadt, die sich am besten zu Fuß erkunden lässt; die gesamte Altstadt ist von einem Ende zum anderen ein 20-minütiger Spaziergang. Furgons verbinden nach Tirana (3 Stunden) und zur Küste. Private Taxis sind flexibel und fast immer hundefreundlich, wenn man es vorab abspricht.",
+      "introNl": "Gjirokastra is een klein UNESCO-stadje dat je het best te voet verkent; de hele oude stad is van het ene naar het andere uiteinde een wandeling van 20 minuten. Furgons rijden naar Tirana (3 uur) en naar de kust. Privétaxi's zijn flexibel en bijna altijd hondvriendelijk als je het vooraf afspreekt.",
       "faqsDe": [
         {
           "q": "Wie weit ist Gjirokastra von der albanischen Riviera entfernt?",
@@ -337,6 +374,16 @@
         {
           "q": "Kann ich in Gjirokastra ein Auto mieten?",
           "a": "Es gibt eine Handvoll lokaler Autovermietungen in der Stadt. Tirana bietet weit mehr Auswahl. Für Tagesausflüge zur Blauen Quelle (30 km) oder zur Küste ist ein Mietwagen oder ein vorab vereinbartes Taxi ideal."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe ver ligt Gjirokastra van de Albanese Riviera?",
+          "a": "Saranda aan de Ionische kust ligt 52 km zuidwestelijk, ongeveer 1 uur met de auto. De rit gaat door het Drino-dal en bergpassen met prachtige landschappen."
+        },
+        {
+          "q": "Kan ik in Gjirokastra een auto huren?",
+          "a": "Er zijn een handvol lokale autoverhuurbedrijven in de stad. Tirana biedt veel meer keuze. Voor dagtochten naar de Blauwe Bron (30 km) of naar de kust is een huurauto of een vooraf geregelde taxi ideaal."
         }
       ]
     },
@@ -411,7 +458,9 @@
         }
       ],
       "titleDe": "Tagesausflüge zum Strand von Gjirokastra aus",
+      "titleNl": "Dagtochten naar het strand vanuit Gjirokastra",
       "introDe": "Gjirokastra liegt 52 km von der ionischen Küste entfernt; ein Strand-Tagesausflug mit dem Auto ist unkompliziert. Die Fahrt durch das Drino-Tal und über die Küstenstraße SH4 ist landschaftlich reizvoll. Saranda, Qeparo und die Strände von Himara sind die nächstgelegenen Optionen, außerhalb des Augusts alle im Allgemeinen hundefreundlich.",
+      "introNl": "Gjirokastra ligt 52 km van de Ionische kust; een strand-dagtocht met de auto is eenvoudig te doen. De rit door het Drino-dal en over de kustweg SH4 is landschappelijk prachtig. Saranda, Qeparo en de stranden van Himara zijn de dichtstbijzijnde opties, allemaal over het algemeen hondvriendelijk buiten augustus.",
       "faqsDe": [
         {
           "q": "Ist das Blaue Auge (Syri i Kaltër) mit Hund zugänglich?",
@@ -420,6 +469,16 @@
         {
           "q": "Welcher Strand nahe Gjirokastra ist am hundefreundlichsten?",
           "a": "Die Strände Qeparo und Borsh (südlich von Himara) sind am tolerantesten gegenüber Hunden: lang, kiesig, mit vereinzelten einheimischen Familien statt Beach Clubs. Im Mai, Juni und September können Hunde frei umherlaufen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is het Blauwe Oog (Syri i Kaltër) toegankelijk met hond?",
+          "a": "Ja. De plek ligt in een nationaal park met een kort wandelpad door het bos. Honden zijn toegestaan op het pad en bij de uitkijkpunten van de bron; houd jouw hond aan de lijn dicht bij de rand van het bekken, want de stroming is erg sterk."
+        },
+        {
+          "q": "Welk strand bij Gjirokastra is het meest hondvriendelijk?",
+          "a": "De stranden Qeparo en Borsh (ten zuiden van Himara) zijn het meest tolerant tegenover honden: lang, kiezelig, met verspreide lokale gezinnen in plaats van beachclubs. In mei, juni en september kunnen honden vrij rondlopen."
         }
       ]
     },
@@ -455,8 +514,11 @@
           "tipPt": "Traduza ou resuma o registo de vacinação do seu animal para inglês ou italiano simples antes da viagem; os veterinários albaneses estão habituados aos passaportes UE de animais",
           "googleMapsUrl": "https://maps.google.com/?q=veterinar+Gjirokastra+Albania",
           "descriptionDe": "Eine allgemeine Tierarztpraxis im unteren Teil der Stadt. Behandelt Routineversorgung, Impfungen und kleinere Notfälle. Die Öffnungszeiten sind unregelmäßig; rufen Sie vorab an oder bitten Sie Ihre Unterkunft, die Verfügbarkeit zu bestätigen.",
+          "descriptionNl": "Een algemene dierenartspraktijk in het onderste deel van de stad. Behandelt routinezorg, vaccinaties en kleinere spoedgevallen. De openingstijden zijn onregelmatig; bel vooraf of vraag jouw accommodatie om de beschikbaarheid te bevestigen.",
           "petPolicyDe": "Alle Haustiere willkommen",
-          "tipDe": "Lassen Sie den Impfausweis Ihres Haustiers vor der Reise übersetzen oder auf einfachem Englisch oder Italienisch zusammenfassen; albanische Tierärzte sind an EU-Heimtierausweise gewöhnt"
+          "petPolicyNl": "Alle huisdieren welkom",
+          "tipDe": "Lassen Sie den Impfausweis Ihres Haustiers vor der Reise übersetzen oder auf einfachem Englisch oder Italienisch zusammenfassen; albanische Tierärzte sind an EU-Heimtierausweise gewöhnt",
+          "tipNl": "Laat het vaccinatieboekje van jouw huisdier vóór de reis vertalen of samenvatten in eenvoudig Engels of Italiaans; Albanese dierenartsen zijn gewend aan EU-huisdierenpaspoorten"
         }
       ],
       "tipsEn": [
@@ -520,7 +582,9 @@
         }
       ],
       "titleDe": "Tierärzte & Notfallversorgung in Gjirokastra",
+      "titleNl": "Dierenartsen & spoedzorg in Gjirokastra",
       "introDe": "Gjirokastra hat ein oder zwei kleine Tierarztpraxen in der Unterstadt. Für alles über die grundlegende Wundversorgung oder Medikamente hinaus, planen Sie die Fahrt nach Saranda (1 Stunde) oder Tirana (3 Stunden) für fachärztliche Versorgung ein. Führen Sie stets ein einfaches Erste-Hilfe-Set für Haustiere mit.",
+      "introNl": "Gjirokastra heeft een of twee kleine dierenartspraktijken in de benedenstad. Voor alles wat verder gaat dan basale wondverzorging of medicatie, plan je de rit naar Saranda (1 uur) of Tirana (3 uur) voor gespecialiseerde zorg. Neem altijd een eenvoudige eerstehulpset voor huisdieren mee.",
       "faqsDe": [
         {
           "q": "Sprechen Tierärzte in Gjirokastra Englisch?",
@@ -529,6 +593,16 @@
         {
           "q": "Was soll ich tun, wenn sich mein Hund auf dem Burgweg verletzt?",
           "a": "Erste Hilfe leisten und den Hund, falls nötig, in die Unterstadt tragen. Die Burgstraße ist für Fahrzeuge etwa auf der halben Strecke befahrbar. Rufen Sie den örtlichen Tierarzt vorab an, damit er sich auf Ihre Ankunft vorbereiten kann."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Spreken dierenartsen in Gjirokastra Engels?",
+          "a": "Soms; Italiaans wordt in Zuid-Albanië vanwege de historische Italiaanse invloed vaker begrepen dan Engels. Neem een vertaal-app en een gedrukte samenvatting van de medische geschiedenis van jouw huisdier mee."
+        },
+        {
+          "q": "Wat moet ik doen als mijn hond zich verwondt op het pad naar het kasteel?",
+          "a": "Verleen eerste hulp en draag de hond indien nodig naar de benedenstad. De weg naar het kasteel is voor voertuigen ongeveer tot halverwege begaanbaar. Bel de lokale dierenarts vooraf, zodat die zich kan voorbereiden op jouw komst."
         }
       ]
     },
@@ -604,7 +678,9 @@
         }
       ],
       "titleDe": "Wichtige Reisetipps mit Hund für Gjirokastra",
+      "titleNl": "Belangrijke reistips met hond voor Gjirokastra",
       "introDe": "Gjirokastra ist ein hervorragendes Reiseziel für Hundebesitzer auf dem Balkan: kühle Temperaturen in der Höhenlage, verkehrsfreie Altstadt, keinerlei Haustiervorschriften im öffentlichen Raum und außergewöhnlich freundliche Einheimische. Die Hauptherausforderung ist das steile Gelände; Pfotenpflege ist auf nassem Kalkstein wichtig.",
+      "introNl": "Gjirokastra is een uitstekende bestemming voor hondenbezitters op de Balkan: koelere temperaturen door de hoogteligging, een autovrije oude stad, geen enkele huisdierregel in de openbare ruimte en uitzonderlijk vriendelijke locals. De grootste uitdaging is het steile terrein; pootverzorging is belangrijk op natte kalksteen.",
       "faqsDe": [
         {
           "q": "Ist Gjirokastra wirklich hundefreundlich oder nur tolerant?",
@@ -613,6 +689,16 @@
         {
           "q": "Kann ich Gjirokastra mit der albanischen Riviera in einer Reise verbinden?",
           "a": "Ja, sehr natürlich. Gjirokastra ist ein ausgezeichnetes Gegenstück im Landesinneren zu 2-3 Tagen an der ionischen Küste rund um Saranda oder Himara. Eine Autostunde trennt sie."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Gjirokastra echt hondvriendelijk of alleen tolerant?",
+          "a": "Echt ontspannen. Zuid-Albanië heeft een uitgesproken buitenlevencultuur, en honden in de openbare ruimte zijn volkomen normaal. Niemand vraagt je vanwege jouw hond om restaurants, bankjes of openbare plekken te verlaten."
+        },
+        {
+          "q": "Kan ik Gjirokastra combineren met de Albanese Riviera in één reis?",
+          "a": "Ja, heel logisch. Gjirokastra is een uitstekende tegenhanger in het binnenland bij 2-3 dagen aan de Ionische kust rond Saranda of Himara. Er zit maar een uur rijden tussen."
         }
       ]
     },
@@ -647,8 +733,11 @@
           "tipPt": "Vá cedo de manhã antes das 9:00 quando o castelo está vazio; os baluartes de pedra aquecem rapidamente e não fornecem sombra para os cães ao meio-dia",
           "googleMapsUrl": "https://maps.google.com/?q=Gjirokaster+Castle+Albania",
           "descriptionDe": "Eine der größten Burgen des Balkans, mit Panoramablick über das Drino-Tal und die steinbedachte Stadt darunter. Das Burggelände umfasst ein Freiluft-Militärmuseum mit einem erbeuteten US-Flugzeug und einer Waffenkammer. Hunde laufen frei auf den Burgmauern; in den Innenbereichen des Museums müssen Sie Ihren Hund vor dem Eingang anbinden.",
+          "descriptionNl": "Een van de grootste kastelen van de Balkan, met panoramisch uitzicht over het Drino-dal en de stad met stenen daken eronder. Het kasteelterrein omvat een openluchtmilitairmuseum met een buitgemaakt Amerikaans vliegtuig en een wapenkamer. Honden lopen vrij op de kasteelmuren; in de binnenruimtes van het museum moet je jouw hond voor de ingang vastmaken.",
           "petPolicyDe": "Hunde auf dem Burggelände kostenlos; im Inneren der Museumsräume nicht erlaubt",
-          "tipDe": "Früh morgens vor 9 Uhr gehen, wenn die Burg leer ist; die steinernen Mauern heizen sich schnell auf und bieten Hunden gegen Mittag keinen Schatten"
+          "petPolicyNl": "Honden gratis op het kasteelterrein; niet toegestaan binnen in de museumzalen",
+          "tipDe": "Früh morgens vor 9 Uhr gehen, wenn die Burg leer ist; die steinernen Mauern heizen sich schnell auf und bieten Hunden gegen Mittag keinen Schatten",
+          "tipNl": "Ga vroeg in de ochtend voor 9 uur, wanneer het kasteel leeg is; de stenen muren warmen snel op en bieden honden rond het middaguur geen schaduw"
         }
       ],
       "tipsEn": [
@@ -712,7 +801,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Gjirokastra",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Gjirokastra",
       "introDe": "Gjirokastras UNESCO-gelistete Altstadt liegt fast vollständig im Freien: der Basar, die steinbedachten Häuser und der Zugang zur Burg. Hunde laufen frei durch all das. Das Burgmuseum von Gjirokastra und das Innere des Skënduli-Hauses lassen keine Hunde zu, aber alle Außenanlagen sind offen.",
+      "introNl": "De door UNESCO erkende oude stad van Gjirokastra ligt vrijwel volledig in de open lucht: de bazaar, de huizen met stenen daken en de toegang tot het kasteel. Honden lopen daar vrij doorheen. Het kasteelmuseum van Gjirokastra en het interieur van het Skënduli-huis laten geen honden toe, maar alle buitenruimtes zijn open.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund zum Volksfestival von Gjirokastra mitnehmen, falls es mit meinem Besuch zusammenfällt?",
@@ -721,6 +812,16 @@
         {
           "q": "Gibt es einen hundefreundlichen Aussichtspunkt über der Stadt?",
           "a": "Der beste Aussichtspunkt sind die Burgmauern (immer geöffnet, Hunde kostenlos). Der Hügel Kodra e Idrizit auf der Südseite der Stadt hat ebenfalls einen inoffiziellen, mit dem Auto erreichbaren Aussichtspunkt, wo Hunde frei laufen können."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen naar het volksfestival van Gjirokastra, als dat samenvalt met mijn bezoek?",
+          "a": "Het festival gebruikt de kasteelbinnenplaats en de omliggende open ruimtes; honden kunnen bij de optredens in de open lucht aanwezig zijn. De mensenmassa en het lawaai kunnen belastend zijn voor angstige honden."
+        },
+        {
+          "q": "Is er een hondvriendelijk uitkijkpunt over de stad?",
+          "a": "Het beste uitkijkpunt zijn de kasteelmuren (altijd open, honden gratis). De heuvel Kodra e Idrizit aan de zuidkant van de stad heeft ook een informeel, met de auto bereikbaar uitkijkpunt waar honden vrij kunnen rondlopen."
         }
       ]
     },
@@ -795,7 +896,9 @@
         }
       ],
       "titleDe": "Hundebetreuung & Unterbringung in Gjirokastra",
+      "titleNl": "Hondenoppas & onderdak in Gjirokastra",
       "introDe": "Formelle Haustierbetreuung ist in Gjirokastra sehr eingeschränkt. Familiengeführte Pensionen sind die praktischste Lösung für kurzfristige Hundebetreuung beim Besuch von Innenraum-Sehenswürdigkeiten. Fragen Sie bei der Buchung nach; die meisten Gastgeber in der Altstadt sind an hundebesitzende Gäste gewöhnt und richten sich informell danach.",
+      "introNl": "Formele huisdierenopvang is in Gjirokastra erg beperkt. Familiepensions zijn de meest praktische oplossing voor kortdurende hondenoppas tijdens een bezoek aan bezienswaardigheden binnenshuis. Vraag ernaar bij het boeken; de meeste gastheren in de oude stad zijn gewend aan gasten met hond en regelen dit informeel.",
       "faqsDe": [
         {
           "q": "Kann ich das Burgmuseum ohne meinen Hund besuchen?",
@@ -804,6 +907,16 @@
         {
           "q": "Gibt es eine Hundepension in Gjirokastra?",
           "a": "Keine professionelle Hundepension. Tirana (3 Stunden) ist die nächstgelegene Option für mehrtägige Unterbringung. Für kürzere Zeiträume sind Pensionsinhaber die praktische Alternative."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik het kasteelmuseum bezoeken zonder mijn hond?",
+          "a": "Ja. Maak jouw hond vast aan de schaduwrijke poortpaal bij de kasteelingang. Het museumbezoek duurt 45-60 minuten. Voorbijkomende locals storen zich niet aan een rustige, vastgebonden hond."
+        },
+        {
+          "q": "Is er een hondenpension in Gjirokastra?",
+          "a": "Geen professioneel hondenpension. Tirana (3 uur) is de dichtstbijzijnde optie voor meerdaags onderdak. Voor kortere periodes zijn pensionhouders het praktische alternatief."
         }
       ]
     }

@@ -25,6 +25,7 @@ export async function generateMetadata({
     fr: `Meilleurs Hotels Pet-Friendly a Paris par Arrondissement (2026) | HotelsWithPets`,
     es: `Mejores Hoteles Pet-Friendly en Paris por Arrondissement (2026) | HotelsWithPets`,
     pt: `Melhores Hoteis Pet-Friendly em Paris por Arrondissement (2026) | HotelsWithPets`,
+    nl: `Beste Hondvriendelijke Hotels in Parijs per Arrondissement (2026) | HotelsWithPets`,
   }
   const description =
     locale === 'fr'
@@ -33,6 +34,8 @@ export async function generateMetadata({
       ? `60 hoteles verificados en los 20 arrondissements de Paris - parques, veterinarios y politica canina por barrio.`
       : locale === 'pt'
       ? `60 hoteis verificados nos 20 arrondissements de Paris - parques, veterinarios e politica canina por bairro.`
+      : locale === 'nl'
+      ? `60 geverifieerde hotels in de 20 arrondissementen van Parijs, parken, dierenartsen en hondenbeleid per wijk.`
       : `60 hotels verified across 20 Paris arrondissements - parks, vets and dog policy per neighbourhood.`
 
   return {
@@ -46,6 +49,7 @@ export async function generateMetadata({
         es: `${SITE_URL}/es/${SLUG_PATH}`,
         pt: `${SITE_URL}/pt/${SLUG_PATH}`,
         de: `${SITE_URL}/de/${SLUG_PATH}`,
+        nl: `${SITE_URL}/nl/${SLUG_PATH}`,
         'x-default': `${SITE_URL}/en/${SLUG_PATH}`,
       },
     },
@@ -237,6 +241,52 @@ const COPY = {
       },
     ],
   },
+  nl: {
+    breadcrumbHome: 'Home',
+    breadcrumbParis: 'Parijs',
+    breadcrumbCurrent: 'Hotels per arrondissement',
+    badge: '🐾 60 hotels geverifieerd',
+    h1: 'Beste hondvriendelijke hotels in Parijs per arrondissement',
+    intro: `De keuze van het juiste arrondissement verandert alles voor een reis naar Parijs met je hond. Elke wijk heeft zijn eigen sfeer, zijn eigen groene ruimtes (of het gebrek daaraan), zijn eigen toegang tot de metro en zijn eigen hondenbeleid. We hebben 60 hotels in alle 20 wijken geverifieerd, zodat je je basis kiest voordat je boekt.`,
+    stat1: '20 arrondissementen',
+    stat2: '60 hotels',
+    navTitle: 'Ga naar een arrondissement',
+    metrosLabel: 'Metro',
+    priceFrom: 'Vanaf',
+    petFee: 'Huisdiertoeslag',
+    petFeePerNight: '/nacht',
+    petFeeIncluded: 'inbegrepen',
+    bookCta: 'Boek op Booking.com',
+    guideCta: 'Volledige gids voor',
+    faqTitle: 'Veelgestelde vragen over Parijs met je hond',
+    backParis: 'Terug naar de gids van Parijs',
+    faqs: [
+      {
+        q: 'Welk arrondissement is het beste voor honden in Parijs?',
+        a: `Het 11e (Bastille/Oberkampf) en het 12e (Bercy) bieden de beste combinatie van losloopgebieden, betaalbare hotels en gemakkelijke metrotoegang. Het Bois de Vincennes in het 12e heeft het grootste losloopgebied van de stad. Voor een centrale, goed te belopen basis heeft het 4e (Marais) talloze hondvriendelijke caféterrassen en de arcades van de Place des Vosges.`,
+      },
+      {
+        q: 'Zijn honden toegestaan in de parken van Parijs?',
+        a: `De meeste grote parken in Parijs verbieden honden op de grasvelden en bloemperken. Honden aan de lijn zijn toegestaan op de grindpaden van de meeste parken. Het Bois de Boulogne en het Bois de Vincennes hebben speciale losloopgebieden voor honden. De Jardin des Plantes en het binnenterrein van de Jardin du Palais-Royal verbieden honden helemaal.`,
+      },
+      {
+        q: 'Mogen honden de metro van Parijs gebruiken?',
+        a: `Kleine honden (onder 6 kg, in een tas of draagmand van maximaal 45x30 cm) reizen gratis mee met de RATP-metro, de RER en de bussen. Grotere honden betalen een gereduceerd kindertarief en moeten gemuilkorfd en aan een korte lijn zijn. Honden zijn niet toegestaan in de eerste wagon van een metrolijn.`,
+      },
+      {
+        q: 'Wat is de huisdiertoeslag bij hotels in Parijs?',
+        a: `De huisdiertoeslag in hotels in Parijs varieert van gratis (veel boetiek- en designhotels rekenen niets) tot 50-100 EUR per nacht bij luxe paleishotels. Budgethotels rekenen vaak 10-20 EUR per verblijf. Controleer dit altijd bij het boeken, want de toeslag kan verschillen per hondengrootte en is soms per huisdier.`,
+      },
+      {
+        q: 'Welke wijk in Parijs heeft de meeste groene ruimte voor honden?',
+        a: `Het 12e arrondissement (Bercy/Bois de Vincennes) heeft verreweg de meeste groene ruimte: het Bois de Vincennes beslaat 995 hectare met meerdere losloopgebieden voor honden. Het 16e (Passy/Auteuil) grenst aan het Bois de Boulogne met 846 hectare en zijn eigen losloopgebieden. Beide zijn ideale bases voor eigenaren van grote of zeer actieve honden.`,
+      },
+      {
+        q: 'Zijn er dierenartsen met 24-uursdienst in Parijs?',
+        a: `Ja. De belangrijkste 24-uurs spoedklinieken voor dieren in Parijs zijn de Clinique Veterinaire des Champs-Elysees (9 rue Balzac, 75008, tel: +33 1 45 63 04 03) en de ADVET (Centre Hospitalier Veterinaire, Maisons-Alfort, 30 min met de auto/RER). Het landelijke noodnummer 3115 verwijst je elke nacht door naar de dichtstbijzijnde beschikbare dierenarts.`,
+      },
+    ],
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -247,6 +297,7 @@ function getIntro(a: ArrondissementData, locale: Locale): string {
   if (locale === 'fr') return a.introFr
   if (locale === 'es') return a.introEs
   if (locale === 'pt') return a.introPt
+  if (locale === 'nl') return a.introEn
   return a.introEn
 }
 
@@ -257,6 +308,7 @@ function getPitch(
   if (locale === 'fr') return hotel.pitchFr
   if (locale === 'es') return hotel.pitchEs
   if (locale === 'pt') return hotel.pitchPt
+  if (locale === 'nl') return hotel.pitchEn
   return hotel.pitchEn
 }
 

@@ -41,9 +41,13 @@
           "tipPt": "Reserve em julho e agosto, a sala nostálgica enche depressa.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oma%27s%20K%C3%BCche%20Binz",
           "descriptionDe": "Ein Binzer Klassiker mit Hausmannskost nach Omas Rezepten in einem nostalgischen Gastraum voller Kuriositäten. Hunde sind ausdrücklich willkommen, und die Küche bereitet sogar eine eigene Hundekarte zu, damit Ihr vierbeiniger Begleiter auch etwas isst.",
+          "descriptionNl": "Een klassieker in Binz met huisgemaakte kost volgens omaas recepten in een nostalgische eetzaal vol curiosa. Honden zijn nadrukkelijk welkom, en de keuken bereidt zelfs een eigen hondenkaart, zodat je viervoetige metgezel ook iets te eten heeft.",
           "petPolicyDe": "Hunde drinnen und auf der Terrasse willkommen; eigene Hundekarte verfügbar. Die Abendbewirtung (ab 17 Uhr) ist nur für Erwachsene mit Hund.",
+          "petPolicyNl": "Honden welkom binnen en op het terras; eigen hondenkaart beschikbaar. De avondbediening (vanaf 17 uur) is alleen voor volwassenen met hond.",
           "mustTryDe": "Königsberger Klopse und der tägliche Ostseefisch",
-          "tipDe": "Im Juli und August im Voraus buchen, der nostalgische Gastraum füllt sich schnell."
+          "mustTryNl": "Koningsbergse balletjes en de dagverse Oostzeevis",
+          "tipDe": "Im Juli und August im Voraus buchen, der nostalgische Gastraum füllt sich schnell.",
+          "tipNl": "Reserveer in juli en augustus van tevoren, de nostalgische eetzaal loopt snel vol."
         },
         {
           "name": "Strandhalle Binz",
@@ -71,9 +75,13 @@
           "tipPt": "Peça mesa na varanda ao pôr do sol; a praia canina do acesso 50 fica a uma curta caminhada para leste.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Strandhalle%20Binz",
           "descriptionDe": "Historische Strandhalle an der Promenade von Binz mit verglaster Veranda und regionalen Fischgerichten. Wohlerzogene Hunde sind willkommen, und die Lage an der Promenade macht sie zu einem einfachen Stopp nach einem Spaziergang an der Küste.",
+          "descriptionNl": "Historische strandhal aan de promenade van Binz met glazen veranda en regionale visgerechten. Welopgevoede honden zijn welkom, en de ligging aan de promenade maakt het een makkelijke stop na een wandeling langs de kust.",
           "petPolicyDe": "Angeleinte Hunde willkommen; Wassernapf auf Anfrage.",
+          "petPolicyNl": "Aangelijnde honden welkom; waterbakje op aanvraag.",
           "mustTryDe": "Räucherfischplatte mit Ostseeblick",
-          "tipDe": "Fragen Sie bei Sonnenuntergang nach einem Verandatisch; der Hundestrand am Zugang 50 ist nur einen kurzen Spaziergang östlich entfernt."
+          "mustTryNl": "Gerookte-visplank met uitzicht op de Oostzee",
+          "tipDe": "Fragen Sie bei Sonnenuntergang nach einem Verandatisch; der Hundestrand am Zugang 50 ist nur einen kurzen Spaziergang östlich entfernt.",
+          "tipNl": "Vraag bij zonsondergang om een tafel op de veranda; het hondenstrand bij ingang 50 ligt maar een korte wandeling oostelijker."
         },
         {
           "name": "Zum Skipper",
@@ -101,14 +109,21 @@
           "tipPt": "Combine o jantar com um passeio noturno de trela no pontão de Sellin, os cães são admitidos.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Zum%20Skipper%20Sellin",
           "descriptionDe": "Freundliches Fischrestaurant an der eleganten Wilhelmstraße in Sellin, der Allee, die direkt zur berühmten Seebrücke führt. Hunde sind willkommen, und die maritime Karte reicht von gebratenem Hering bis zu frischem Ostseedorsch.",
+          "descriptionNl": "Gastvrij visrestaurant aan de elegante Wilhelmstraße in Sellin, de laan die rechtstreeks naar de beroemde pier leidt. Honden zijn welkom, en de maritieme kaart loopt van gebakken haring tot verse Oostzeekabeljauw.",
           "petPolicyDe": "Hunde drinnen und auf der Terrasse willkommen.",
+          "petPolicyNl": "Honden welkom binnen en op het terras.",
           "mustTryDe": "Gebratener Ostseehering mit Bratkartoffeln",
-          "tipDe": "Kombinieren Sie das Abendessen mit einem abendlichen Leinenspaziergang auf der Seebrücke Sellin, Hunde sind dort erlaubt."
+          "mustTryNl": "Gebakken Oostzeeharing met gebakken aardappelen",
+          "tipDe": "Kombinieren Sie das Abendessen mit einem abendlichen Leinenspaziergang auf der Seebrücke Sellin, Hunde sind dort erlaubt.",
+          "tipNl": "Combineer het diner met een avondwandeling aan de lijn op de pier van Sellin, honden zijn daar toegestaan."
         }
       ],
       "titleDe": "Hundefreundliche Restaurants auf Rügen",
+      "titleNl": "Hondvriendelijke restaurants op Rügen",
       "introDe": "Rügens Seebäder nehmen Hunde ernst: Die meisten Terrassen entlang der Promenaden von Binz und Sellin heißen sie willkommen, Wassernäpfe sind Standard, und eine Binzer Institution druckt sogar eine eigene Hundekarte. Erwarten Sie Ostseefisch, herzhafte deutsche Hausmannskost und Meerblick aus der ersten Reihe.",
-      "faqsDe": []
+      "introNl": "Rügens badplaatsen nemen honden serieus: de meeste terrassen langs de promenades van Binz en Sellin heten ze welkom, waterbakjes zijn standaard, en een instituut in Binz drukt zelfs een eigen hondenkaart. Verwacht Oostzeevis, stevige Duitse huiskost en zeezicht vanaf de eerste rij.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Parks & Walks for Dogs on Rügen",
@@ -160,8 +175,11 @@
           "bestTimeToVisitPt": "De manhã cedo para um Hochuferweg tranquilo; outubro pela folhagem dourada das faias",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jagdschloss%20Granitz",
           "descriptionDe": "Ein weitläufiger Buchenwald zwischen Binz und Sellin, gekrönt vom Jagdschloss. Der berühmte Hochuferweg verläuft entlang seines östlichen Rands mit ständigem Ostseeblick und ist ein Favorit der örtlichen Hundehalter.",
+          "descriptionNl": "Een uitgestrekt beukenbos tussen Binz en Sellin, bekroond door het jachtslot. Het beroemde Hochuferweg-pad loopt langs de oostrand met voortdurend zicht op de Oostzee en is een favoriet van lokale hondenbezitters.",
           "leashRulesDe": "Leinenpflicht im Schlosspark und im gesamten Wald empfohlen; Forstgebiet mit Wildtieren.",
-          "bestTimeToVisitDe": "Früh morgens für einen autofreien Hochuferweg; Oktober für goldenes Buchenlaub"
+          "leashRulesNl": "Aanlijnplicht in het slotpark en aanbevolen in het hele bos; bosgebied met wild.",
+          "bestTimeToVisitDe": "Früh morgens für einen autofreien Hochuferweg; Oktober für goldenes Buchenlaub",
+          "bestTimeToVisitNl": "Vroeg in de ochtend voor een autovrij Hochuferweg-pad; oktober voor gouden beukenblad"
         },
         {
           "name": "Nationalpark Jasmund",
@@ -203,8 +221,11 @@
           "bestTimeToVisitPt": "Manhãs de dias úteis fora de julho-agosto; as falésias brilham ao nascer do sol",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nationalpark%20Jasmund",
           "descriptionDe": "Deutschlands kleinster Nationalpark schützt die berühmten Kreidefelsen und die UNESCO-gelisteten uralten Buchenwälder rund um den Königsstuhl. Angeleinte Hunde sind auf den markierten Wegen erlaubt, einschließlich des spektakulären Hochuferwegs von Sassnitz aus.",
+          "descriptionNl": "Duitslands kleinste nationaal park beschermt de beroemde krijtrotsen en de op de UNESCO-lijst staande oeroude beukenbossen rond de Königsstuhl. Aangelijnde honden zijn toegestaan op de gemarkeerde paden, inclusief het spectaculaire Hochuferweg-pad vanaf Sassnitz.",
           "leashRulesDe": "Hunde müssen im Nationalpark jederzeit angeleint sein; auf markierten Wegen bleiben.",
-          "bestTimeToVisitDe": "Werktagmorgen außerhalb von Juli-August; die Felsen leuchten bei Sonnenaufgang"
+          "leashRulesNl": "Honden moeten in het nationaal park altijd aangelijnd zijn; blijf op de gemarkeerde paden.",
+          "bestTimeToVisitDe": "Werktagmorgen außerhalb von Juli-August; die Felsen leuchten bei Sonnenaufgang",
+          "bestTimeToVisitNl": "Doordeweekse ochtend buiten juli-augustus; de rotsen gloeien bij zonsopgang"
         },
         {
           "name": "Schaabe",
@@ -246,13 +267,19 @@
           "bestTimeToVisitPt": "De outubro a abril, quando toda a praia está aberta aos cães",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Schaabe%20Glowe%20R%C3%BCgen",
           "descriptionDe": "Ein zehn Kilometer langer Bogen aus feinem Sand, gesäumt von einem schattigen Kiefernwald, der die Halbinseln Jasmund und Wittow verbindet. Außerhalb der Sommersaison öffnet sich der gesamte Strand für Hunde, und auch im Sommer ist der Waldweg hinter den Dünen ein hervorragender Leinenspaziergang.",
+          "descriptionNl": "Een tien kilometer lange boog van fijn zand, omzoomd door een schaduwrijk dennenbos, die de schiereilanden Jasmund en Wittow verbindt. Buiten het zomerseizoen gaat het hele strand open voor honden, en ook in de zomer is het bospad achter de duinen een uitstekende aangelijnde wandeling.",
           "leashRulesDe": "Leine auf dem Waldweg; Strandzugang für Hunde von Mai bis September auf ausgewiesene Abschnitte beschränkt.",
-          "bestTimeToVisitDe": "Oktober bis April, wenn der gesamte Strand für Hunde geöffnet ist"
+          "leashRulesNl": "Aanlijnplicht op het bospad; strandtoegang voor honden van mei tot september beperkt tot aangewezen gedeeltes.",
+          "bestTimeToVisitDe": "Oktober bis April, wenn der gesamte Strand für Hunde geöffnet ist",
+          "bestTimeToVisitNl": "Oktober tot april, wanneer het hele strand geopend is voor honden"
         }
       ],
       "titleDe": "Parks & Spaziergänge mit Hund auf Rügen",
+      "titleNl": "Parken en wandelingen met hond op Rügen",
       "introDe": "Deutschlands größte Insel ist ein einziges großes Spaziergebiet: uralte Buchenwälder, Kreidefelsen-Panoramen und kilometerlange, von Kiefern gesäumte Küstenlinien. In Schutzgebieten müssen Hunde angeleint bleiben, aber das Netz aus Wald- und Küstenwegen ist nahezu endlos.",
-      "faqsDe": []
+      "introNl": "Duitslands grootste eiland is één groot wandelgebied: oeroude beukenbossen, panorama's met krijtrotsen en kilometers met dennen omzoomde kustlijn. In beschermde gebieden moeten honden aangelijnd blijven, maar het netwerk van bos- en kustpaden is bijna eindeloos.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting Around Rügen with a Dog",
@@ -309,8 +336,11 @@
         }
       ],
       "titleDe": "Mit Hund auf Rügen unterwegs",
+      "titleNl": "Met de hond op stap op Rügen",
       "introDe": "Rügen ist für eine ländliche Insel gut angebunden: VVR-Busse bedecken jeden Ferienort, der dampfbetriebene Rasende Roland verbindet Binz, Sellin und Göhren, und Regionalzüge queren den Rügendamm nach Stralsund. Hunde fahren überall mit, beachten Sie jedoch die deutschen Maulkorbregeln im öffentlichen Nahverkehr.",
-      "faqsDe": []
+      "introNl": "Rügen is voor een landelijk eiland goed bereikbaar: VVR-bussen bedienen elke badplaats, de stoomtrein Rasende Roland verbindt Binz, Sellin en Göhren, en regionale treinen steken de Rügendamm over naar Stralsund. Honden mogen overal mee, let echter op de Duitse muilkorfregels in het openbaar vervoer.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Dog Beaches on Rügen",
@@ -382,8 +412,11 @@
         }
       ],
       "titleDe": "Hundestrände auf Rügen",
+      "titleNl": "Hondenstranden op Rügen",
       "introDe": "Rügen zählt zu Deutschlands besten Küsten für Hunde: Jeder größere Ferienort unterhält offizielle Hundestrandabschnitte, und vom 1. Oktober bis 30. April öffnet sich fast die gesamte Küstenlinie. In der Hauptsaison (1. Mai bis 30. September) sind Hunde auf die ausgewiesenen Hundestrände beschränkt.",
-      "faqsDe": []
+      "introNl": "Rügen behoort tot de beste kusten van Duitsland voor honden: elke grotere badplaats heeft officiële hondenstrandgedeeltes, en van 1 oktober tot 30 april gaat bijna de hele kustlijn open. In het hoogseizoen (1 mei tot 30 september) zijn honden beperkt tot de aangewezen hondenstranden.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Veterinarians on Rügen",
@@ -437,8 +470,11 @@
         }
       ],
       "titleDe": "Tierärzte auf Rügen",
+      "titleNl": "Dierenartsen op Rügen",
       "introDe": "Die tierärztliche Versorgung auf der Insel konzentriert sich auf Bergen auf Rügen, mit einer etablierten Praxis, die abendliche Notfalltermine anbietet, und einem mobilen Tierarzt, der jeden Ferienort anfährt. Nach 22 Uhr und am Wochenende übernimmt die regionale Kleintier-Notrufnummer.",
-      "faqsDe": []
+      "introNl": "De dierenartsenzorg op het eiland concentreert zich in Bergen auf Rügen, met een gevestigde praktijk die 's avonds spoedafspraken aanbiedt, en een rijdende dierenarts die elke badplaats aandoet. Na 22 uur en in het weekend neemt het regionale spoednummer voor kleine huisdieren het over.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Rügen with a Dog",
@@ -535,7 +571,9 @@
         }
       ],
       "titleDe": "Wichtige Tipps für einen Rügen-Besuch mit Hund",
+      "titleNl": "Belangrijke tips voor een bezoek aan Rügen met hond",
       "introDe": "Praktische Regeln und Ortskenntnis für einen reibungslosen Ostseeinsel-Urlaub mit Ihrem Hund.",
+      "introNl": "Praktische regels en lokale kennis voor een soepele vakantie op het Oostzee-eiland met je hond.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund im Sommer an den Strand auf Rügen mitnehmen?",
@@ -548,6 +586,20 @@
         {
           "q": "Sind Hunde am Königsstuhl mit den Kreidefelsen erlaubt?",
           "a": "Angeleinte Hunde sind auf den markierten Wegen des Nationalparks Jasmund willkommen, einschließlich des Hochuferwegs zu den Felsaussichtspunkten. Beachten Sie, dass der Baumwipfelpfad in Prora keine Hunde zulässt, an seinem Eingang jedoch kostenlose Zwinger mit Wasser bereitstehen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond 's zomers meenemen naar het strand op Rügen?",
+          "a": "Ja, maar alleen naar de aangewezen hondenstrandgedeeltes tussen 1 mei en 30 september. Binz, Sellin, Baabe, Göhren en de meeste andere badplaatsen hebben officiële hondenstranden; van oktober tot april gaat vrijwel de hele kust open voor honden."
+        },
+        {
+          "q": "Is er een vergoeding om een hond mee te brengen naar Rügen?",
+          "a": "De meeste badplaatsen heffen naast de reguliere toeristenbelasting een kleine hondentoeristenbelasting; in Binz bedraagt die in 2026 2 euro per dag. Je accommodatie int deze bij het inchecken."
+        },
+        {
+          "q": "Zijn honden toegestaan bij de Königsstuhl met de krijtrotsen?",
+          "a": "Aangelijnde honden zijn welkom op de gemarkeerde paden van het nationaal park Jasmund, inclusief het Hochuferweg-pad naar de rotsuitkijkpunten. Let op: het boomkronenpad in Prora laat geen honden toe, maar bij de ingang staan wel gratis hokjes met water klaar."
         }
       ]
     },
@@ -572,7 +624,8 @@
           "dogFriendly": true,
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jagdschloss%20Granitz",
-          "descriptionDe": "Ein türmchenbewehrtes Jagdschloss aus dem 19. Jahrhundert auf dem höchsten Hügel im Südosten Rügens, mit einem gusseisernen Turm, der die gesamte Küstenlinie überblickt. Angeleinte Hunde dürfen den umliegenden Schlosspark und die Waldwege erkunden, jedoch nicht die Schlossräume selbst."
+          "descriptionDe": "Ein türmchenbewehrtes Jagdschloss aus dem 19. Jahrhundert auf dem höchsten Hügel im Südosten Rügens, mit einem gusseisernen Turm, der die gesamte Küstenlinie überblickt. Angeleinte Hunde dürfen den umliegenden Schlosspark und die Waldwege erkunden, jedoch nicht die Schlossräume selbst.",
+          "descriptionNl": "Een torentjesrijk 19e-eeuws jachtslot op de hoogste heuvel in het zuidoosten van Rügen, met een gietijzeren toren die uitkijkt over de hele kustlijn. Aangelijnde honden mogen het omliggende slotpark en de bospaden verkennen, maar niet de vertrekken van het slot zelf."
         },
         {
           "name": "Seebrücke Sellin",
@@ -585,7 +638,8 @@
           "dogFriendly": true,
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Seebr%C3%BCcke%20Sellin",
-          "descriptionDe": "Rügens Postkartenmotiv: eine 394 Meter lange Seebrücke mit weißem Pavillonrestaurant, wiederaufgebaut im eleganten Stil von 1927. Angeleinte Hunde sind auf der Brücke erlaubt, und der Hundestrandabschnitt liegt praktischerweise direkt daneben."
+          "descriptionDe": "Rügens Postkartenmotiv: eine 394 Meter lange Seebrücke mit weißem Pavillonrestaurant, wiederaufgebaut im eleganten Stil von 1927. Angeleinte Hunde sind auf der Brücke erlaubt, und der Hundestrandabschnitt liegt praktischerweise direkt daneben.",
+          "descriptionNl": "Rügens plaatje voor de ansichtkaart: een 394 meter lange pier met wit paviljoenrestaurant, herbouwd in de elegante stijl van 1927. Aangelijnde honden zijn toegestaan op de pier, en het hondenstrandgedeelte ligt gemakshalve er direct naast."
         },
         {
           "name": "Naturerbe Zentrum Rügen (Prora)",
@@ -598,12 +652,16 @@
           "dogFriendly": false,
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Naturerbe%20Zentrum%20R%C3%BCgen",
-          "descriptionDe": "Das Naturerbe Zentrum in Prora ist berühmt für seinen 1.250 Meter langen Baumwipfelpfad, der im 40 Meter hohen Adlerhorst-Turm endet. Hunde sind auf dem Pfad selbst nicht erlaubt, aber das Zentrum stellt am Eingang kostenlose schattige Zwinger mit Trinkwasser bereit, während Sie hinaufsteigen."
+          "descriptionDe": "Das Naturerbe Zentrum in Prora ist berühmt für seinen 1.250 Meter langen Baumwipfelpfad, der im 40 Meter hohen Adlerhorst-Turm endet. Hunde sind auf dem Pfad selbst nicht erlaubt, aber das Zentrum stellt am Eingang kostenlose schattige Zwinger mit Trinkwasser bereit, während Sie hinaufsteigen.",
+          "descriptionNl": "Het Naturerbe Zentrum in Prora is beroemd om zijn 1.250 meter lange boomkronenpad, dat eindigt in de 40 meter hoge Adlerhorst-toren. Honden zijn niet toegestaan op het pad zelf, maar het centrum stelt bij de ingang gratis schaduwrijke hokjes met drinkwater beschikbaar terwijl je naar boven klimt."
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten auf Rügen",
+      "titleNl": "Hondvriendelijke bezienswaardigheden op Rügen",
       "introDe": "Vom märchenhaften Jagdschloss bis zu Deutschlands berühmtester Seebrücke liegen Rügens Wahrzeichen größtenteils im Freien, was Hunden bestens entgegenkommt. Innenräume sind meist tabu, aber Parks, Seebrücken und Promenaden heißen angeleinte Begleiter willkommen.",
-      "faqsDe": []
+      "introNl": "Van het sprookjesachtige jachtslot tot Duitslands beroemdste pier, Rügens bezienswaardigheden liggen grotendeels buiten, wat honden goed uitkomt. Binnenruimtes zijn meestal verboden terrein, maar parken, pieren en promenades heten aangelijnde metgezellen welkom.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Care on Rügen",
@@ -657,8 +715,11 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Hundebetreuung auf Rügen",
+      "titleNl": "Huisdierenoppas en hondenoppas op Rügen",
       "introDe": "Wenn Sie einen hundefreien Nachmittag am Baumwipfelpfad oder eine Wellness-Anwendung genießen möchten, listen mehrere deutsche Plattformen geprüfte Betreuer und familiengeführte Tagesbetreuung rund um Bergen auf Rügen und die Küstenorte. Für Juli und August, wenn die Nachfrage am höchsten ist, im Voraus buchen.",
-      "faqsDe": []
+      "introNl": "Wil je een hondvrije middag genieten van het boomkronenpad of een wellnessbehandeling, meerdere Duitse platforms vermelden gecontroleerde oppassers en familiebedrijven met dagopvang rond Bergen auf Rügen en de kustplaatsen. Boek voor juli en augustus, wanneer de vraag het hoogst is, van tevoren.",
+      "faqsDe": [],
+      "faqsNl": []
     }
   }
 }

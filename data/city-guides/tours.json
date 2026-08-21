@@ -39,9 +39,13 @@
           "mustTryPt": "Rillettes de Tours, sandre au beurre blanc, Vouvray sec",
           "tipPt": "Reserve uma mesa de canto na esplanada, longe da multidão central da Place Plumereau, às sextas e sábados à noite. A praça central fica muito animada e os cantos mantêm-se mais calmos para cães sensíveis.",
           "descriptionDe": "Ein französisches Bistro an der ikonischen Place Plumereau im Fachwerkviertel Vieux-Tours, das sorgfältig ausgewählte lokale Produkte und hausgebrautes Craft-Bier serviert. Die Terrasse zum Platz hin ist an Sommerabenden der Ort, an dem man sein möchte, Hunde an der Leine sind willkommen und Wassernäpfe werden auf Anfrage gereicht.",
+          "descriptionNl": "Een Frans bistro aan de iconische Place Plumereau in de vakwerkwijk Vieux-Tours, met zorgvuldig gekozen lokale producten en huisgebrouwen craft-bier. Het terras aan het plein is op zomeravonden de plek om te zijn, honden aan de lijn zijn welkom en waterbakken worden op verzoek gebracht.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Rillettes de Tours, Zander mit Weißweinbutter (sandre au beurre blanc), Vouvray sec",
-          "tipDe": "Buchen Sie an Freitag- und Samstagabenden einen Ecktisch auf der Terrasse, abseits des Trubels auf der zentralen Place Plumereau. Der zentrale Platz wird sehr belebt, die Ecken bleiben ruhiger für empfindsame Hunde."
+          "mustTryNl": "Rillettes de Tours, snoekbaars met botersaus (sandre au beurre blanc), droge Vouvray",
+          "tipDe": "Buchen Sie an Freitag- und Samstagabenden einen Ecktisch auf der Terrasse, abseits des Trubels auf der zentralen Place Plumereau. Der zentrale Platz wird sehr belebt, die Ecken bleiben ruhiger für empfindsame Hunde.",
+          "tipNl": "Boek op vrijdag- en zaterdagavond een hoektafel op het terras, weg van de drukte op het centrale Place Plumereau. Het centrale plein wordt erg druk, de hoeken blijven rustiger voor gevoelige honden."
         },
         {
           "name": "Le Chien Jaune",
@@ -69,9 +73,13 @@
           "mustTryPt": "Confit de canard, tártaro de vaca, andouillette",
           "tipPt": "A esplanada é pequena (apenas 4 a 5 mesas). Reserve na mesma manhã para uma mesa ao serão, sobretudo à sexta e ao sábado, quando os locais a enchem antes de chegarem os turistas.",
           "descriptionDe": "Ein alteingesessenes Bistro nahe dem Bahnhof, benannt nach dem Maigret-Roman von Georges Simenon, mit traditioneller französischer Küche - Entenconfit, Tartare, Andouillette - zu vernünftigen Preisen. Die kleine Terrasse an der Vorderseite heißt Hunde an der Leine willkommen, und schon der Name signalisiert den Empfang.",
+          "descriptionNl": "Een gevestigd bistro bij het station, vernoemd naar de Maigret-roman van Georges Simenon, met traditionele Franse keuken, eendenconfit, tartaar, andouillette, tegen redelijke prijzen. Het kleine terras aan de voorzijde heet honden aan de lijn welkom, en de naam alleen al belooft een goed onthaal.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Entenconfit, Rindertartare, Andouillette",
-          "tipDe": "Die Terrasse ist klein (nur 4-5 Tische) - reservieren Sie am selben Morgen für einen Abendtisch, besonders freitags und samstags, wenn Einheimische sie vor den Touristen füllen."
+          "mustTryNl": "Eendenconfit, runder-tartaar, andouillette",
+          "tipDe": "Die Terrasse ist klein (nur 4-5 Tische) - reservieren Sie am selben Morgen für einen Abendtisch, besonders freitags und samstags, wenn Einheimische sie vor den Touristen füllen.",
+          "tipNl": "Het terras is klein (slechts 4-5 tafels) - reserveer dezelfde ochtend voor een tafel 's avonds, vooral op vrijdag en zaterdag, wanneer bewoners het vullen voor de toeristen."
         },
         {
           "name": "Le Chien Fou",
@@ -99,16 +107,23 @@
           "mustTryPt": "Sandre du Loire, queijo de cabra de Sainte-Maure, Chinon natural",
           "tipPt": "O almoço é o serviço mais fácil para cães; o horário de jantar é íntimo e as pequenas mesas vizinhas podem agitar um cão menos confiante. O almoço na esplanada apanha também a luz da tarde da Touraine.",
           "descriptionDe": "Ein im Gault&Millau gelistetes Bistro mit lokaler Küche in einer kleinen Gasse des Vieux-Tours, mit saisonalen Loire-Gerichten und klarem Fokus auf naturbelassene lokale Weine. Der kleine, aber gut beschattete Außenbereich heißt Hunde an der Leine willkommen; das Küchenteam bringt ungefragt Wasser, ein Zeichen des unkomplizierten Empfangs.",
+          "descriptionNl": "Een in de Gault&Millau vermeld bistro met lokale keuken in een klein steegje van Vieux-Tours, met seizoensgerechten uit de Loire en een duidelijke focus op natuurlijke lokale wijnen. Het kleine maar goed beschaduwde buitenterras heet honden aan de lijn welkom; het keukenteam brengt ongevraagd water, een teken van de vanzelfsprekende gastvrijheid.",
           "petPolicyDe": "Hunde auf der Außenterrasse willkommen",
+          "petPolicyNl": "Honden welkom op het buitenterras",
           "mustTryDe": "Loire-Zander, Ziegenkäse aus Sainte-Maure, naturbelassener Chinon",
-          "tipDe": "Mittags ist der hundefreundlichere Service - abends ist es intim, und kleine Gruppen an Nachbartischen können weniger selbstsichere Hunde verunsichern. Zum Mittagessen auf der Terrasse fängt man zudem das Nachmittagslicht der Touraine ein."
+          "mustTryNl": "Loire-snoekbaars, geitenkaas uit Sainte-Maure, natuurlijke Chinon",
+          "tipDe": "Mittags ist der hundefreundlichere Service - abends ist es intim, und kleine Gruppen an Nachbartischen können weniger selbstsichere Hunde verunsichern. Zum Mittagessen auf der Terrasse fängt man zudem das Nachmittagslicht der Touraine ein.",
+          "tipNl": "De lunch is de hondvriendelijkere service - 's avonds is het intiem, en kleine groepen aan naburige tafels kunnen minder zelfverzekerde honden onzeker maken. Bij de lunch op het terras vang je bovendien het middaglicht van de Touraine."
         }
       ],
       "titlePt": "Restaurantes que aceitam cães em Tours",
       "introPt": "A cultura de restaurantes de Tours organiza-se em torno do Vieux-Tours de casas em tabique e dos cafés que rodeiam a Place Plumereau, com lugares de esplanada a acolher cães quase universalmente de abril a outubro. A gastronomia local enaltece o peixe do rio Loire (sandre, lúcio), os rillons e as rillettes de Tours, os queijos de cabra (Sainte-Maure-de-Touraine) e os secos vinhos de Vouvray e Chinon.",
       "titleDe": "Hundefreundliche Restaurants in Tours",
+      "titleNl": "Hondvriendelijke restaurants in Tours",
       "introDe": "Die Restaurantkultur von Tours dreht sich um das Fachwerkviertel Vieux-Tours und die Cafés rund um die Place Plumereau, wo Terrassenplätze von April bis Oktober fast überall Hunde willkommen heißen. Die lokale Küche setzt auf Loire-Flussfisch (Zander, Hecht), Rillons und Rillettes de Tours, Ziegenkäse (Sainte-Maure-de-Touraine) sowie die knochentrockenen Weine Vouvray und Chinon.",
-      "faqsDe": []
+      "introNl": "De restaurantcultuur van Tours draait om de vakwerkwijk Vieux-Tours en de cafés rond de Place Plumereau, waar terrasplekken van april tot oktober bijna overal honden welkom heten. De lokale keuken draait om Loire-riviervis (snoekbaars, snoek), rillons en rillettes de Tours, geitenkaas (Sainte-Maure-de-Touraine) en de kurkdroge wijnen Vouvray en Chinon.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks & Green Spaces in Tours",
@@ -139,8 +154,11 @@
           "petPolicyPt": "Zona de recreio canina vedada sem trela; cães à trela bem-vindos no restante",
           "tipPt": "Atravesse a Pont Wilson a partir do Vieux-Tours e siga o trilho junto ao Loire para chegar ao parque em 20 minutos. É o percurso mais agradável, totalmente acolhedor para cães, e evita a linha do elétrico, que acrescenta complicação com um cão.",
           "descriptionDe": "Der größte Stadtpark von Tours, 14 Hektar Waldflächen, Wiesen, Picknicktische und ein Spielplatz, mit der ersten offiziellen Aire d'ébats canins der Stadt (eingezäunte Freilaufzone für Hunde), eingeweiht am 3. Oktober 2021. Es gibt sogar ein über 1 Hektar großes Gehege mit Lamas nahe dem Tennisclub. Hunde an der Leine sind im übrigen Park willkommen.",
+          "descriptionNl": "Het grootste stadspark van Tours, 14 hectare bos, weiden, picknicktafels en een speeltuin, met de eerste officiële aire d'ébats canins van de stad (omheinde losloopzone voor honden), geopend op 3 oktober 2021. Er is zelfs een ruim 1 hectare groot verblijf met lama's bij de tennisclub. Honden aan de lijn zijn welkom in de rest van het park.",
           "petPolicyDe": "Eingezäunte Freilaufzone für Hunde; anderswo Hunde an der Leine willkommen",
-          "tipDe": "Überqueren Sie die Pont Wilson vom Vieux-Tours aus und gehen Sie am Loire-Ufer entlang, um den Park in 20 Minuten zu erreichen - die angenehmste Route, komplett hundefreundlich, und sie umgeht die Straßenbahnstrecke, die mit Hund zusätzliche Komplexität bedeutet."
+          "petPolicyNl": "Omheinde losloopzone voor honden; elders honden aan de lijn welkom",
+          "tipDe": "Überqueren Sie die Pont Wilson vom Vieux-Tours aus und gehen Sie am Loire-Ufer entlang, um den Park in 20 Minuten zu erreichen - die angenehmste Route, komplett hundefreundlich, und sie umgeht die Straßenbahnstrecke, die mit Hund zusätzliche Komplexität bedeutet.",
+          "tipNl": "Steek de Pont Wilson over vanuit Vieux-Tours en loop langs de Loire-oever om het park in 20 minuten te bereiken - de aangenaamste route, volledig hondvriendelijk, en die vermijdt het tramtraject, wat met hond extra gedoe betekent."
         },
         {
           "name": "Promenade du Lac de la Bergeonnerie",
@@ -163,8 +181,11 @@
           "petPolicyPt": "Cães à trela bem-vindos em toda a área; banhos proibidos a cães no lago",
           "tipPt": "Percorra o lago no sentido anti-horário para terminar perto do parque de estacionamento do centro aquático. Há um discreto bebedouro à entrada do estacionamento, útil depois de um circuito quente de verão com um cão.",
           "descriptionDe": "Ein 18 Hektar großer Park rund um einen künstlichen See südlich des Cher, mit einer 2,3 km langen Rundweg-Schleife, einem Spielplatz, Picknickplätzen und dem Segelclub Cercle de Voile de Touraine. Hunde an der Leine sind überall willkommen. Abends und am Wochenende stark von Einwohnern von Tours frequentiert, morgens von Läufern auf der Seerunde genutzt.",
+          "descriptionNl": "Een 18 hectare groot park rond een kunstmatig meer ten zuiden van de Cher, met een 2,3 km lange rondwandeling, een speeltuin, picknickplekken en de zeilclub Cercle de Voile de Touraine. Honden aan de lijn zijn overal welkom. 's Avonds en in het weekend druk bezocht door bewoners van Tours, 's ochtends gebruikt door hardlopers op de meerrondje.",
           "petPolicyDe": "Hunde an der Leine überall willkommen; Baden für Hunde im See verboten",
-          "tipDe": "Gehen Sie den See gegen den Uhrzeigersinn ab, um in der Nähe des Parkplatzes am Schwimmbad zu enden - dort gibt es einen unauffälligen Trinkbrunnen am Parkplatzeingang, nützlich nach einer heißen Sommerrunde mit Hund."
+          "petPolicyNl": "Honden aan de lijn overal welkom; zwemmen voor honden in het meer verboden",
+          "tipDe": "Gehen Sie den See gegen den Uhrzeigersinn ab, um in der Nähe des Parkplatzes am Schwimmbad zu enden - dort gibt es einen unauffälligen Trinkbrunnen am Parkplatzeingang, nützlich nach einer heißen Sommerrunde mit Hund.",
+          "tipNl": "Loop het meer tegen de klok in, zodat je eindigt bij de parkeerplaats van het zwembad - daar is een onopvallende drinkfontein bij de ingang van de parkeerplaats, handig na een warme zomerronde met hond."
         },
         {
           "name": "Jardin des Prébendes d'Oé",
@@ -187,15 +208,21 @@
           "petPolicyPt": "Cães à trela bem-vindos em toda a área",
           "tipPt": "Os concertos de banda de metais das 11:00 aos domingos no verão são uma instituição de Tours. Leve uma manta de piquenique para o cão e ouça a partir do relvado sul, a 30 m do coreto, confortável para ambos.",
           "descriptionDe": "Ein 4 Hektar großer englischer Landschaftspark aus dem 19. Jahrhundert, 1872 von den Gebrüdern Bühler gestaltet (auch Landschaftsarchitekten des Parc de la Tête d'Or in Lyon), 7 Gehminuten vom Bahnhof entfernt. Ein Bach, alte Bäume, Wiesen und Blumenbeete in einer noblen Belle-Époque-Kulisse. Hunde an der Leine willkommen - hier machen die Einwohner der Innenstadt von Tours ihren morgendlichen Kaffeespaziergang.",
+          "descriptionNl": "Een 4 hectare groot Engels landschapspark uit de 19e eeuw, in 1872 aangelegd door de gebroeders Bühler (ook landschapsarchitecten van het Parc de la Tête d'Or in Lyon), 7 minuten lopen van het station. Een beek, oude bomen, weiden en bloemperken in een chique belle-époquesetting. Honden aan de lijn welkom - hier maken bewoners van het centrum van Tours hun ochtendlijke koffiewandeling.",
           "petPolicyDe": "Hunde an der Leine überall willkommen",
-          "tipDe": "Die Blaskapellenkonzerte um 11:00 Uhr sonntags im Sommer sind eine Institution in Tours - bringen Sie eine Picknickdecke für den Hund mit und hören Sie von der südlichen Wiese aus zu, 30 m vom Musikpavillon entfernt, angenehm für Sie beide."
+          "petPolicyNl": "Honden aan de lijn overal welkom",
+          "tipDe": "Die Blaskapellenkonzerte um 11:00 Uhr sonntags im Sommer sind eine Institution in Tours - bringen Sie eine Picknickdecke für den Hund mit und hören Sie von der südlichen Wiese aus zu, 30 m vom Musikpavillon entfernt, angenehm für Sie beide.",
+          "tipNl": "De fanfareconcerten om 11:00 uur op zondag in de zomer zijn een instituut in Tours - neem een picknickkleed voor de hond mee en luister vanaf het zuidelijke grasveld, 30 m van de muziektent, aangenaam voor jullie allebei."
         }
       ],
       "titlePt": "Parques e espaços verdes que aceitam cães em Tours",
       "introPt": "Tours tem um rácio verde invulgarmente alto para uma cidade francesa da sua dimensão. O Parc de Sainte-Radegonde, de 14 hectares, a norte do Loire, é o parque emblemático da cidade e alberga uma aire d'ébats canins dedicada (zona de recreio sem trela) inaugurada em 2021. O Lac de la Bergeonnerie, de 18 hectares, a sul do Cher, oferece passeios à beira do lago, enquanto o central Jardin des Prébendes d'Oé é um parque do século XIX de 4 hectares desenhado por Bühler, a 5 minutos da estação.",
       "titleDe": "Hundefreundliche Parks & Grünflächen in Tours",
+      "titleNl": "Hondvriendelijke parken & groen in Tours",
       "introDe": "Tours hat für eine französische Stadt dieser Größe einen ungewöhnlich hohen Grünanteil. Der 14 Hektar große Parc de Sainte-Radegonde nördlich der Loire ist der Vorzeigepark der Stadt und beherbergt eine eigene Aire d'ébats canins (Freilaufzone für Hunde), die 2021 eingeweiht wurde. Der 18 Hektar große Lac de la Bergeonnerie südlich des Cher bietet Spaziergänge am See, während der zentrale Jardin des Prébendes d'Oé, ein 4 Hektar großer, von Bühler gestalteter Park aus dem 19. Jahrhundert, nur 5 Minuten vom Bahnhof entfernt liegt.",
-      "faqsDe": []
+      "introNl": "Tours heeft voor een Franse stad van dit formaat een ongewoon hoog aandeel groen. Het 14 hectare grote Parc de Sainte-Radegonde ten noorden van de Loire is het pronkpark van de stad en huisvest een eigen aire d'ébats canins (losloopzone voor honden), geopend in 2021. Het 18 hectare grote Lac de la Bergeonnerie ten zuiden van de Cher biedt wandelingen aan het meer, terwijl de centrale Jardin des Prébendes d'Oé, een 4 hectare groot, door Bühler aangelegd park uit de 19e eeuw, slechts 5 minuten van het station ligt.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting Around Tours with a Dog",
@@ -226,8 +253,11 @@
           "petPolicyPt": "Cães pequenos em transportadora ao colo; cães maiores com trela e açaime com bilhete de passageiro. Sem cães de cat. 1.",
           "tipPt": "A linha de elétrico T1 liga a estação de comboios à Place Jean-Jaurès, ao Vieux-Tours e ao parque de Sainte-Radegonde. Compre um Carnet de 10 bilhetes se for usá-lo mais de 5 vezes, muito mais barato do que bilhetes simples.",
           "descriptionDe": "Das Fil-Bleu-Netz von Tours betreibt eine Straßenbahnlinie und ein dichtes Busnetz. Sowohl kleine Hunde in einer Transporttasche (auf dem Schoß des Besitzers) als auch größere Hunde (angeleint und mit Maulkorb, mit Fahrgastticket) sind im gesamten Netz zugelassen. Hunde der Kategorie 1 (Pitbull und ähnliche) sind verboten. Tickets kosten 1,60 € pro Einzelfahrt, 4,10 € für die Tageskarte.",
+          "descriptionNl": "Het Fil-Bleu-netwerk van Tours runt een tramlijn en een dicht busnetwerk. Zowel kleine honden in een draagtas (op schoot van de eigenaar) als grotere honden (aangelijnd en met muilkorf, met reizigersticket) zijn toegestaan in het hele netwerk. Honden van categorie 1 (pitbull en vergelijkbaar) zijn verboden. Tickets kosten 1,60 € per enkele rit, 4,10 € voor een dagkaart.",
           "petPolicyDe": "Kleine Hunde in Transporttasche auf dem Schoß; größere Hunde angeleint und mit Maulkorb mit Fahrgastticket. Keine Hunde der Kategorie 1.",
-          "tipDe": "Die Straßenbahnlinie T1 verbindet den Bahnhof mit der Place Jean-Jaurès, dem Vieux-Tours und dem Park Sainte-Radegonde - kaufen Sie ein Carnet mit 10 Fahrscheinen, wenn Sie es mehr als 5-mal nutzen, das ist deutlich günstiger als Einzeltickets."
+          "petPolicyNl": "Kleine honden in draagtas op schoot; grotere honden aangelijnd en met muilkorf met reizigersticket. Geen honden van categorie 1.",
+          "tipDe": "Die Straßenbahnlinie T1 verbindet den Bahnhof mit der Place Jean-Jaurès, dem Vieux-Tours und dem Park Sainte-Radegonde - kaufen Sie ein Carnet mit 10 Fahrscheinen, wenn Sie es mehr als 5-mal nutzen, das ist deutlich günstiger als Einzeltickets.",
+          "tipNl": "Tramlijn T1 verbindt het station met de Place Jean-Jaurès, Vieux-Tours en het Parc Sainte-Radegonde - koop een carnet van 10 kaartjes als je het meer dan 5 keer gebruikt, dat is een stuk goedkoper dan losse tickets."
         },
         {
           "name": "Tours TGV Station (Gare de Tours)",
@@ -250,8 +280,11 @@
           "petPolicyPt": "Animais pequenos em transportadora 7€ por viagem; cães maiores com trela e açaime a metade da tarifa de adulto",
           "tipPt": "Saint-Pierre-des-Corps é mais rápida para Paris (1h05) do que a estação central de Tours (1h12), e o autocarro de ligação Fil Bleu aceita cães, útil se a sua reserva de TGV só indicar SPDC.",
           "descriptionDe": "Tours ist ein wichtiger SNCF-Knotenpunkt, direkt angebunden an den TGV InOui von Paris Montparnasse (1:05 Std.) und an der südlichen Strecke nach Bordeaux. Die SNCF nimmt kleine Haustiere in einer Transporttasche (unter 6 kg) für 7 € pro Fahrt mit; größere Hunde reisen angeleint und mit Maulkorb zum halben Erwachsenenpreis. Der Bahnhof Saint-Pierre-des-Corps, 5 km östlich, wickelt den Großteil des TGV-Verkehrs ab; der zentrale Bahnhof Tours bedient die regionalen TER-Züge.",
+          "descriptionNl": "Tours is een belangrijk SNCF-knooppunt, rechtstreeks verbonden met de TGV InOui vanuit Paris Montparnasse (1:05 uur) en op de zuidelijke lijn naar Bordeaux. De SNCF neemt kleine huisdieren in een draagtas (onder 6 kg) mee voor 7 € per rit; grotere honden reizen aangelijnd en met muilkorf voor de halve volwassenprijs. Station Saint-Pierre-des-Corps, 5 km ten oosten, verwerkt het grootste deel van het TGV-verkeer; het centrale station van Tours bedient de regionale TER-treinen.",
           "petPolicyDe": "Kleine Haustiere in Transporttasche 7 € pro Fahrt; größere Hunde angeleint und mit Maulkorb zum halben Erwachsenenpreis",
-          "tipDe": "Saint-Pierre-des-Corps ist mit 1:05 Std. schneller nach Paris als der zentrale Bahnhof Tours (1:12 Std.), und der Anschlussbus von Fil Bleu nimmt Hunde mit - nützlich, wenn Ihre TGV-Buchung nur SPDC anzeigt."
+          "petPolicyNl": "Kleine huisdieren in draagtas 7 € per rit; grotere honden aangelijnd en met muilkorf voor de halve volwassenprijs",
+          "tipDe": "Saint-Pierre-des-Corps ist mit 1:05 Std. schneller nach Paris als der zentrale Bahnhof Tours (1:12 Std.), und der Anschlussbus von Fil Bleu nimmt Hunde mit - nützlich, wenn Ihre TGV-Buchung nur SPDC anzeigt.",
+          "tipNl": "Saint-Pierre-des-Corps is met 1:05 uur sneller naar Parijs dan het centrale station van Tours (1:12 uur), en de aansluitende bus van Fil Bleu neemt honden mee - handig als je TGV-boeking alleen SPDC toont."
         },
         {
           "name": "Tours Val de Loire Airport (TUF)",
@@ -274,15 +307,21 @@
           "petPolicyPt": "Passaporte europeu para animais + microchip + antirrábica obrigatórios; animais em cabine na Ryanair até 8 kg",
           "tipPt": "Para viajantes do Reino Unido, o TGV de Paris (depois do Eurostar) demora 4h30 porta a porta incluindo as ligações, mais lento do que voar via TUF, mas sem porão para animais, sem papelada de carga, e os cães viajam como passageiros de pleno direito ao seu lado.",
           "descriptionDe": "Tours Val de Loire (TUF) ist ein kleiner Regionalflughafen 10 Autominuten nördlich der Stadt, mit saisonalen Ryanair-Strecken nach London Stansted, Dublin und Marseille. Es gelten die EU-Haustierregeln (Mikrochip + EU-Heimtierausweis + Tollwutimpfung). Der Flughafen hat einen einfachen Außenbereich zum Gassigehen, aber begrenzte Einrichtungen - der Zug (TGV aus Paris) ist für Reisende mit Haustier meist die bevorzugte Anreiseoption.",
+          "descriptionNl": "Tours Val de Loire (TUF) is een kleine regionale luchthaven 10 minuten met de auto ten noorden van de stad, met seizoensgebonden Ryanair-verbindingen naar Londen Stansted, Dublin en Marseille. De EU-huisdierregels gelden (microchip + EU-dierenpaspoort + rabiësvaccinatie). De luchthaven heeft een eenvoudige buitenruimte om uit te laten, maar beperkte voorzieningen - de trein (TGV vanuit Parijs) is voor reizigers met huisdier meestal de voorkeursoptie.",
           "petPolicyDe": "EU-Heimtierausweis + Mikrochip + Tollwutimpfung erforderlich; Ryanair-Kabinenhaustiere bis 8 kg",
-          "tipDe": "Für Reisende aus Großbritannien dauert der TGV ab Paris (nach dem Eurostar) 4:30 Std. von Tür zu Tür inklusive Anschlüssen - langsamer als der Flug über TUF, aber ohne Frachtraum, ohne Cargo-Papierkram, und der Hund reist als vollwertiger Fahrgast neben Ihnen."
+          "petPolicyNl": "EU-dierenpaspoort + microchip + rabiësvaccinatie vereist; Ryanair cabinehuisdieren tot 8 kg",
+          "tipDe": "Für Reisende aus Großbritannien dauert der TGV ab Paris (nach dem Eurostar) 4:30 Std. von Tür zu Tür inklusive Anschlüssen - langsamer als der Flug über TUF, aber ohne Frachtraum, ohne Cargo-Papierkram, und der Hund reist als vollwertiger Fahrgast neben Ihnen.",
+          "tipNl": "Voor reizigers uit het Verenigd Koninkrijk duurt de TGV vanaf Parijs (na de Eurostar) 4:30 uur van deur tot deur inclusief overstappen - langzamer dan de vlucht via TUF, maar zonder vrachtruim, zonder cargo-papierwerk, en de hond reist als volwaardige passagier naast je."
         }
       ],
       "titlePt": "Deslocar-se em Tours com um cão",
       "introPt": "Tours é uma das cidades de França mais acolhedoras para cães nos transportes públicos. A rede de elétrico e autocarros Fil Bleu aceita cães pequenos e grandes (com trela e açaime para os maiores, com bilhete de passageiro). A cidade é também um importante nó da SNCF na linha de alta velocidade Paris-Bordéus, com o TGV InOui a chegar a Paris Montparnasse em apenas 1h05. O aeroporto Tours Val de Loire (TUF) é pequeno, mas tem ligações Ryanair ao Reino Unido e à Irlanda.",
       "titleDe": "Mit Hund unterwegs in Tours",
+      "titleNl": "Met je hond onderweg in Tours",
       "introDe": "Tours zählt zu den haustierfreundlichsten Städten Frankreichs für den öffentlichen Nahverkehr. Das Straßenbahn- und Busnetz Fil Bleu nimmt sowohl kleine als auch große Hunde mit (angeleint und mit Maulkorb bei größeren Hunden, mit Fahrgastticket). Die Stadt ist zudem ein wichtiger SNCF-Knotenpunkt an der Hochgeschwindigkeitsstrecke Paris-Bordeaux, mit dem TGV InOui nach Paris Montparnasse in nur 1:05 Stunden. Der Flughafen Tours Val de Loire (TUF) ist klein, bietet aber Ryanair-Verbindungen nach Großbritannien und Irland.",
-      "faqsDe": []
+      "introNl": "Tours behoort tot de huisdiervriendelijkste steden van Frankrijk voor openbaar vervoer. Het tram- en busnetwerk Fil Bleu neemt zowel kleine als grote honden mee (aangelijnd en met muilkorf bij grotere honden, met reizigersticket). De stad is ook een belangrijk SNCF-knooppunt aan de hogesnelheidslijn Parijs-Bordeaux, met de TGV InOui naar Paris Montparnasse in slechts 1:05 uur. Luchthaven Tours Val de Loire (TUF) is klein, maar biedt Ryanair-verbindingen naar het Verenigd Koninkrijk en Ierland.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Lake Day Trips from Tours",
@@ -313,8 +352,11 @@
           "petPolicyPt": "Cães tolerados a chapinhar na orla do rio; sem banho humano",
           "tipPt": "Evite depois de chuva intensa (maio, outubro), quando a corrente do Loire ganha força e as margens encolhem. A melhor janela é de meados de julho a início de setembro, quando o rio fica mais baixo e mais quente.",
           "descriptionDe": "Unterhalb der Pont Wilson treten im Sommer (Juni-Sept.) breite Sand- und Kiesbänke aus der Loire hervor und bilden improvisierte Strände, die von den Einwohnern von Tours für Hundespaziergänge und leichtes Waten genutzt werden. Baden ist für Menschen offiziell wegen der Strömung verboten, aber Hunde, die am Rand plantschen, werden toleriert. Zugang vom nördlichen Ufer, Quai Paul Bert.",
+          "descriptionNl": "Onder de Pont Wilson komen in de zomer (juni-sept.) brede zand- en grindbanken van de Loire tevoorschijn en vormen geïmproviseerde stranden, gebruikt door bewoners van Tours voor hondenwandelingen en licht waden. Zwemmen is voor mensen officieel verboden vanwege de stroming, maar honden die aan de rand plensen worden getolereerd. Toegang vanaf de noordelijke oever, Quai Paul Bert.",
           "petPolicyDe": "Plantschen für Hunde am Flussrand toleriert; kein Baden für Menschen",
-          "tipDe": "Meiden Sie den Ort nach starkem Regen (Mai, Oktober), wenn die Loire-Strömung stärker wird und die Sandbänke schrumpfen - das beste Zeitfenster ist Mitte Juli bis Anfang September, wenn der Fluss am niedrigsten und wärmsten ist."
+          "petPolicyNl": "Plensen voor honden aan de rivieroever getolereerd; geen zwemmen voor mensen",
+          "tipDe": "Meiden Sie den Ort nach starkem Regen (Mai, Oktober), wenn die Loire-Strömung stärker wird und die Sandbänke schrumpfen - das beste Zeitfenster ist Mitte Juli bis Anfang September, wenn der Fluss am niedrigsten und wärmsten ist.",
+          "tipNl": "Vermijd de plek na hevige regen (mei, oktober), wanneer de stroming van de Loire sterker wordt en de zandbanken krimpen - het beste tijdvenster is half juli tot begin september, wanneer de rivier het laagst en warmst is."
         },
         {
           "name": "Cher River at Saint-Avertin",
@@ -337,8 +379,11 @@
           "petPolicyPt": "Banho de cães tolerado; não é uma zona oficial de banhos",
           "tipPt": "Estacione na Rue de la Plaine e caminhe 5 minutos até ao rio. O trilho é suave e sombreado por árvores, bom para cães idosos que precisam de uma descida cuidadosa até à água.",
           "descriptionDe": "Der Cher verlangsamt sich unterhalb von Saint-Avertin zu einer Reihe von Kiesgrund-Abschnitten, die sich ideal zum Hundeschwimmen eignen. Lokale Hundehalter treffen sich im Sommer an den öffentlichen Zugängen entlang der Rue de la Plaine - sanfte Strömung, knietiefes Wasser am Ufer, sandiger Einstieg. Kein offizieller Badebereich, aber für Hunde auf eigene Verantwortung toleriert.",
+          "descriptionNl": "De Cher vertraagt onder Saint-Avertin tot een reeks grindbodemgedeeltes die ideaal zijn om honden te laten zwemmen. Lokale hondenbezitters treffen elkaar in de zomer bij de openbare toegangen langs de Rue de la Plaine - zachte stroming, kniediep water aan de oever, zanderige ingang. Geen officiële zwemplek, maar voor honden op eigen risico getolereerd.",
           "petPolicyDe": "Baden für Hunde toleriert; kein offizieller Badebereich",
-          "tipDe": "Parken Sie in der Rue de la Plaine und gehen Sie 5 Minuten zum Fluss - der Weg ist sanft und schattig, gut für ältere Hunde, die einen vorsichtigen Abstieg zum Wasser brauchen."
+          "petPolicyNl": "Zwemmen voor honden getolereerd; geen officiële zwemplek",
+          "tipDe": "Parken Sie in der Rue de la Plaine und gehen Sie 5 Minuten zum Fluss - der Weg ist sanft und schattig, gut für ältere Hunde, die einen vorsichtigen Abstieg zum Wasser brauchen.",
+          "tipNl": "Parkeer in de Rue de la Plaine en loop 5 minuten naar de rivier - het pad is zacht en schaduwrijk, goed voor oudere honden die een voorzichtige afdaling naar het water nodig hebben."
         },
         {
           "name": "Lac de Rillé (Pincemaille)",
@@ -361,15 +406,21 @@
           "petPolicyPt": "Proibido na praia de banhos oficial de 15 jun a 15 set; as margens leste/sul deixam o banho de cães à trela",
           "tipPt": "Combine o passeio ao lago com uma paragem nos jardins do Château de Gizeux, que aceitam cães, no caminho de regresso. O castelo fica 15 km a sul de Rillé e acolhe cães à trela no parque.",
           "descriptionDe": "Ein 220 Hektar großer künstlicher See 45 Minuten westlich von Tours, in geschütztem Waldgebiet mit einem 7 km langen Rundweg. Das Baden für Hunde ist am offiziellen Badestrand (15. Juni bis 15. Sept.) verboten, aber am östlichen und südlichen Ufer gibt es unbewachte Zugänge, an denen Hunde an der Leine frei plantschen. Hervorragende schattige Waldwege für einen ganztägigen Ausflug mit Hund.",
+          "descriptionNl": "Een 220 hectare groot kunstmatig meer 45 minuten ten westen van Tours, in een beschermd bosgebied met een 7 km lange rondwandeling. Zwemmen voor honden is verboden op het officiële zwemstrand (15 juni tot 15 sept.), maar aan de oostelijke en zuidelijke oever zijn er onbewaakte toegangen waar honden aan de lijn vrij mogen plensen. Uitstekende schaduwrijke boswandelpaden voor een dagvullend uitje met hond.",
           "petPolicyDe": "Am offiziellen Badestrand 15. Juni bis 15. Sept. verboten; östliches/südliches Ufer erlaubt Plantschen für Hunde an der Leine",
-          "tipDe": "Kombinieren Sie den Seespaziergang mit einem Stopp in den hundefreundlichen Gärten des Château de Gizeux auf dem Rückweg - das Schloss liegt 15 km südlich von Rillé und heißt Hunde an der Leine im Park willkommen."
+          "petPolicyNl": "Op het officiële zwemstrand verboden van 15 juni tot 15 sept.; oostelijke/zuidelijke oever staat plensen toe voor aangelijnde honden",
+          "tipDe": "Kombinieren Sie den Seespaziergang mit einem Stopp in den hundefreundlichen Gärten des Château de Gizeux auf dem Rückweg - das Schloss liegt 15 km südlich von Rillé und heißt Hunde an der Leine im Park willkommen.",
+          "tipNl": "Combineer de meerwandeling met een stop bij de hondvriendelijke tuinen van het Château de Gizeux op de terugweg - het kasteel ligt 15 km ten zuiden van Rillé en heet honden aan de lijn welkom in het park."
         }
       ],
       "titlePt": "Passeios de um dia a lagos que aceitam cães a partir de Tours",
       "introPt": "Tours fica no interior, mas as praias fluviais do Loire e do Cher, além de vários lagos na Touraine, oferecem banhos de rio para cães. O Loire é oficialmente impróprio para banhos humanos devido às correntes, mas as amplas margens arenosas a jusante da Pont Wilson são toleradas para cães no verão. O Lac de Rillé (45 km a oeste) e o Lac de la Bergeonnerie (dentro da cidade) proíbem o banho de cães, mas os trilhos caninos à beira de água mantêm-se excelentes. Para banhos de cães a sério, o Cher, perto de Saint-Avertin, oferece águas mais suaves e mais lentas.",
       "titleDe": "Hundefreundliche Tagesausflüge zu Seen ab Tours",
+      "titleNl": "Hondvriendelijke dagtochtjes naar meren vanuit Tours",
       "introDe": "Tours liegt im Landesinneren, aber die Fluss-Strände von Loire und Cher sowie mehrere Seen in der Touraine bieten Badegelegenheiten für Hunde. Die Loire ist wegen der Strömung offiziell nicht zum Schwimmen für Menschen freigegeben, aber die breiten Sandbänke unterhalb der Pont Wilson werden im Sommer für Hunde toleriert. Der Lac de Rillé (45 km westlich) und der Lac de la Bergeonnerie (in der Stadt) verbieten das Baden für Hunde, aber die Uferwege bleiben hervorragend. Für echtes Hundeschwimmen bietet der Cher bei Saint-Avertin ruhigeres, langsameres Wasser.",
-      "faqsDe": []
+      "introNl": "Tours ligt landinwaarts, maar de rivierstranden van de Loire en de Cher en meerdere meren in de Touraine bieden zwemgelegenheid voor honden. De Loire is officieel niet vrijgegeven voor zwemmen door mensen vanwege de stroming, maar de brede zandbanken onder de Pont Wilson worden in de zomer getolereerd voor honden. Het Lac de Rillé (45 km ten westen) en het Lac de la Bergeonnerie (in de stad) verbieden zwemmen voor honden, maar de oeverpaden blijven uitstekend. Voor echt hondenzwemmen biedt de Cher bij Saint-Avertin rustiger, langzamer water.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Emergency Vet in Tours, Hospitals & Veterinary Clinics",
@@ -403,8 +454,11 @@
           "petPolicyPt": "Clínica de urgência noturna/de fim de semana, ligue antes de chegar",
           "tipPt": "Leve o passaporte europeu para animais e qualquer medicação atual. Aceita-se pagamento com cartão; leve o equivalente a 200-300 € em dinheiro caso a fatura cirúrgica ultrapasse o limite diário do cartão.",
           "descriptionDe": "Eine eigene tierärztliche Notfallklinik in Rochecorbon, 5 km östlich von Tours, jede Nacht (19:00-08:00 Uhr), an Wochenenden und Feiertagen geöffnet. Operationssaal, Bildgebung, stationäre Aufnahme möglich. Die Referenzklinik außerhalb der Öffnungszeiten für das gesamte Département Indre-et-Loire, an die die meisten Praxen im Zentrum von Tours überweisen.",
+          "descriptionNl": "Een eigen dierenartsspoedkliniek in Rochecorbon, 5 km ten oosten van Tours, elke nacht (19:00-08:00 uur), in het weekend en op feestdagen open. Operatiekamer, beeldvorming, klinische opname mogelijk. De referentiekliniek buiten openingstijden voor het hele departement Indre-et-Loire, waar de meeste praktijken in het centrum van Tours naar doorverwijzen.",
           "petPolicyDe": "Notfallklinik nachts/am Wochenende, vor Ankunft anrufen",
-          "tipDe": "Bringen Sie den EU-Heimtierausweis und alle aktuellen Medikamente mit. Kartenzahlung wird akzeptiert; führen Sie umgerechnet 200-300 € mit, falls die Operationsrechnung das tägliche Kartenlimit übersteigt."
+          "petPolicyNl": "Spoedkliniek 's nachts/in het weekend, voor aankomst bellen",
+          "tipDe": "Bringen Sie den EU-Heimtierausweis und alle aktuellen Medikamente mit. Kartenzahlung wird akzeptiert; führen Sie umgerechnet 200-300 € mit, falls die Operationsrechnung das tägliche Kartenlimit übersteigt.",
+          "tipNl": "Neem het EU-dierenpaspoort en alle actuele medicijnen mee. Kaartbetaling wordt geaccepteerd; neem omgerekend 200-300 € mee voor het geval de operatierekening het dagelijkse kaartlimiet overschrijdt."
         },
         {
           "name": "Clinique Vétérinaire TouraineVet",
@@ -431,8 +485,11 @@
           "petPolicyPt": "Consultório diurno; fora de horas encaminhado para a Urg&Vet",
           "tipPt": "Reserve por telefone na mesma manhã para uma vaga à tarde. A TouraineVet tem reserva online, mas os clientes residentes locais enchem o calendário depressa; a fila do telefone é mais curta para visitantes.",
           "descriptionDe": "Eine Gemeinschaftspraxis im Zentrum von Tours für Routineuntersuchungen, Impfungen, Mikrochip-Kontrollen und kleinere Eingriffe. Moderne Ausstattung, englischsprachige Tierärzte im Team. Notfälle außerhalb der Öffnungszeiten werden über den Anrufbeantworter der Praxis an Urg&Vet weitergeleitet.",
+          "descriptionNl": "Een groepspraktijk in het centrum van Tours voor routineonderzoeken, vaccinaties, microchipcontroles en kleine ingrepen. Moderne apparatuur, Engelssprekende dierenartsen in het team. Noodgevallen buiten openingstijden worden via het antwoordapparaat van de praktijk doorgeschakeld naar Urg&Vet.",
           "petPolicyDe": "Tagespraxis; außerhalb der Öffnungszeiten Weiterleitung an Urg&Vet",
-          "tipDe": "Buchen Sie telefonisch am selben Morgen einen Nachmittagstermin - die Online-Buchung von TouraineVet existiert zwar, aber Stammkunden füllen den Kalender schnell, die Telefonwarteschlange ist für Besucher kürzer."
+          "petPolicyNl": "Dagpraktijk; buiten openingstijden doorschakeling naar Urg&Vet",
+          "tipDe": "Buchen Sie telefonisch am selben Morgen einen Nachmittagstermin - die Online-Buchung von TouraineVet existiert zwar, aber Stammkunden füllen den Kalender schnell, die Telefonwarteschlange ist für Besucher kürzer.",
+          "tipNl": "Boek telefonisch dezelfde ochtend een middagafspraak - het online boeken bij TouraineVet bestaat wel, maar vaste klanten vullen de agenda snel, de telefonische wachtrij is voor bezoekers korter."
         },
         {
           "name": "Clinique Vétérinaire de la Tour Carrée",
@@ -459,15 +516,21 @@
           "petPolicyPt": "Consultório diurno com linha ALVETIS fora de horas +33 2 47 40 10 30",
           "tipPt": "Se ligar para a ALVETIS à noite, tenha à mão o número de microchip do seu cão e o passaporte europeu para animais; o veterinário de serviço pedirá ambos antes de o encaminhar para o consultório certo.",
           "descriptionDe": "Eine etablierte Tierarztpraxis im Zentrum von Tours mit regulären Sprechstunden und einer Partnerschaft mit der Vermittlungsplattform ALVETIS für Anrufe außerhalb der Öffnungszeiten. Rufen Sie +33 2 47 40 10 30 an, um den diensthabenden Tierarzt zu erreichen, wenn die Praxis geschlossen ist; der Anruf wird außerhalb der Öffnungszeiten automatisch weitergeleitet.",
+          "descriptionNl": "Een gevestigde dierenartspraktijk in het centrum van Tours met reguliere spreekuren en een samenwerking met het bemiddelingsplatform ALVETIS voor oproepen buiten openingstijden. Bel +33 2 47 40 10 30 om de dienstdoende dierenarts te bereiken als de praktijk gesloten is; het gesprek wordt buiten openingstijden automatisch doorgeschakeld.",
           "petPolicyDe": "Tagespraxis mit ALVETIS-Notdienstnummer +33 2 47 40 10 30 außerhalb der Öffnungszeiten",
-          "tipDe": "Wenn Sie nachts bei ALVETIS anrufen, halten Sie die Mikrochipnummer Ihres Hundes und den EU-Heimtierausweis bereit - der diensthabende Tierarzt fragt beides ab, bevor er Sie zur richtigen Praxis schickt."
+          "petPolicyNl": "Dagpraktijk met ALVETIS-spoednummer +33 2 47 40 10 30 buiten openingstijden",
+          "tipDe": "Wenn Sie nachts bei ALVETIS anrufen, halten Sie die Mikrochipnummer Ihres Hundes und den EU-Heimtierausweis bereit - der diensthabende Tierarzt fragt beides ab, bevor er Sie zur richtigen Praxis schickt.",
+          "tipNl": "Als je 's nachts naar ALVETIS belt, houd dan de microchipnummer van je hond en het EU-dierenpaspoort bij de hand - de dienstdoende dierenarts vraagt beide voordat hij je naar de juiste praktijk stuurt."
         }
       ],
       "titlePt": "Veterinário de urgência em Tours, hospitais e clínicas veterinárias",
       "introPt": "Tours encontra-se bem servida em cuidados veterinários, com uma clínica de urgência 24/7 dedicada (Urg&Vet, na vizinha Rochecorbon) a cobrir noites, fins de semana e feriados, além de uma rede de consultórios privados no centro. A escala nacional francesa de urgência veterinária é coordenada pelo Conseil de l'Ordre des Vétérinaires; ligue para a linha de fora de horas do seu veterinário habitual para ser encaminhado para o consultório de serviço. A maioria das clínicas fecha das 12:30 às 14:30 a meio do dia.",
       "titleDe": "Tierärztlicher Notdienst in Tours, Kliniken & Tierarztpraxen",
+      "titleNl": "Dierenartsspoeddienst in Tours, klinieken & dierenartspraktijken",
       "introDe": "Tours ist tierärztlich gut versorgt, mit einer eigenen 24/7-Notfallklinik (Urg&Vet im nahegelegenen Rochecorbon) für Nächte, Wochenenden und Feiertage sowie einem Netz von Privatpraxen im Zentrum. Der französische tierärztliche Notdienst wird vom Conseil de l'Ordre des Vétérinaires koordiniert; rufen Sie außerhalb der Öffnungszeiten die Nummer Ihres üblichen Tierarztes an, um zur diensthabenden Praxis weitergeleitet zu werden. Die meisten Kliniken schließen mittags von 12:30 bis 14:30 Uhr.",
-      "faqsDe": []
+      "introNl": "Tours is goed voorzien van dierenartsen, met een eigen 24/7-spoedkliniek (Urg&Vet in het nabijgelegen Rochecorbon) voor nachten, weekenden en feestdagen, en een netwerk van privépraktijken in het centrum. De Franse dierenartsspoeddienst wordt gecoördineerd door de Conseil de l'Ordre des Vétérinaires; bel buiten openingstijden het nummer van je gebruikelijke dierenarts om te worden doorverwezen naar de dienstdoende praktijk. De meeste klinieken sluiten 's middags van 12:30 tot 14:30 uur.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Essential Pet Travel Tips for Tours",
@@ -498,8 +561,11 @@
           "petPolicyPt": "Cidade tolerante a cães; cães de cat. 1 proibidos no transporte público; açaime obrigatório para cães grandes na Fil Bleu",
           "tipPt": "Fora do Vieux-Tours, o passeio canino mais subvalorizado é a ciclovia Loire à Vélo para leste, em direção a Vouvray: 8 km de trilho ribeirinho acolhedor para cães por terras de vinhas, terminando com uma prova de Vouvray na esplanada de um domínio vinícola.",
           "descriptionDe": "Das Fremdenverkehrsamt von Tours zählt die Stadt zu den hundefreundlichsten in Zentralfrankreich: Hunde sind in Fil-Bleu-Straßenbahnen und -Bussen, auf den meisten Café-Terrassen im Freien, in den Stadtparks und entlang des Loire-Radwegs Loire à Vélo willkommen. Hunde der Kategorie 1 sind vom öffentlichen Nahverkehr ausgeschlossen. Führen Sie überall Kotbeutel mit - die städtische Geldbuße für Nichtentsorgung beträgt 68 €.",
+          "descriptionNl": "Het toeristenbureau van Tours rekent de stad tot de hondvriendelijkste van centraal Frankrijk: honden zijn welkom in Fil-Bleu-trams en -bussen, op de meeste buitencaféterrassen, in de stadsparken en langs het Loire-fietspad Loire à Vélo. Honden van categorie 1 zijn uitgesloten van het openbaar vervoer. Neem overal poepzakjes mee - de gemeentelijke boete voor niet opruimen bedraagt 68 €.",
           "petPolicyDe": "Hundetolerante Stadt; Hunde der Kategorie 1 im ÖPNV verboten; Maulkorbpflicht für große Hunde bei Fil Bleu",
-          "tipDe": "Außerhalb des Vieux-Tours ist der am meisten unterschätzte Hundespaziergang der Radweg Loire à Vélo Richtung Osten nach Vouvray - 8 km hundefreundlicher Uferweg durch Weinbergland, zum Abschluss eine Vouvray-Verkostung auf der Terrasse eines Weinguts."
+          "petPolicyNl": "Hondentolerante stad; honden van categorie 1 verboden in het ov; muilkorfplicht voor grote honden bij Fil Bleu",
+          "tipDe": "Außerhalb des Vieux-Tours ist der am meisten unterschätzte Hundespaziergang der Radweg Loire à Vélo Richtung Osten nach Vouvray - 8 km hundefreundlicher Uferweg durch Weinbergland, zum Abschluss eine Vouvray-Verkostung auf der Terrasse eines Weinguts.",
+          "tipNl": "Buiten Vieux-Tours is de meest onderschatte hondenwandeling het fietspad Loire à Vélo richting het oosten naar Vouvray - 8 km hondvriendelijk oeverpad door wijngaardengebied, afgesloten met een Vouvray-proeverij op het terras van een wijngoed."
         },
         {
           "name": "Loire Valley Chateaux Dog Policies",
@@ -522,8 +588,11 @@
           "petPolicyPt": "Os 4 grandes castelos: à trela nos jardins; cães pequenos em bolsa/ao colo no interior; cães grandes apenas no exterior",
           "tipPt": "Se viajar com um cão grande, dê prioridade aos castelos com os jardins mais gratificantes: as hortas renascentistas de Villandry (as melhores da Europa) e os jardins de água de Chenonceau preenchem ambos uma visita completa mesmo sem entrar nos edifícios.",
           "descriptionDe": "Alle vier großen Loire-Schlösser bei Tours heißen Hunde in ihren Außenbereichen willkommen, mit unterschiedlichen Regeln für die Innenräume. Chambord: Hunde an der Leine im ganzen Park erlaubt; verboten in Schloss, Stallungen und französischen Gärten. Chenonceau: an der Leine auf dem Gelände und in den Gärten, in einer Tasche für kleine Hunde im Innenbereich. Villandry: an der Leine in den berühmten Gärten; in einer Tasche im Innenbereich. Amboise: an der Leine im gesamten Park; kleine Hunde auf dem Arm oder in einer Tasche im Innenbereich.",
+          "descriptionNl": "Alle vier de grote Loirekastelen bij Tours heten honden welkom in hun buitengebieden, met verschillende regels voor de binnenruimtes. Chambord: honden aan de lijn toegestaan in het hele park; verboden in het kasteel, de stallen en de Franse tuinen. Chenonceau: aan de lijn op het terrein en in de tuinen, in een tas voor kleine honden binnen. Villandry: aan de lijn in de beroemde tuinen; in een tas binnen. Amboise: aan de lijn in het hele park; kleine honden op schoot of in een tas binnen.",
           "petPolicyDe": "Alle 4 großen Schlösser: an der Leine in den Gärten; kleine Hunde in Tasche/auf dem Arm im Innenbereich; große Hunde nur im Freien",
-          "tipDe": "Wenn Sie mit einem großen Hund reisen, priorisieren Sie die Schlösser mit den lohnendsten Gärten: Villandrys Renaissance-Gemüsegärten (die besten in Europa) und Chenonceaus Wassergärten füllen auch ohne Gebäudebesuch einen ganzen Ausflug."
+          "petPolicyNl": "Alle 4 grote kastelen: aan de lijn in de tuinen; kleine honden in tas/op schoot binnen; grote honden alleen buiten",
+          "tipDe": "Wenn Sie mit einem großen Hund reisen, priorisieren Sie die Schlösser mit den lohnendsten Gärten: Villandrys Renaissance-Gemüsegärten (die besten in Europa) und Chenonceaus Wassergärten füllen auch ohne Gebäudebesuch einen ganzen Ausflug.",
+          "tipNl": "Als je met een grote hond reist, geef dan voorrang aan de kastelen met de mooiste tuinen: de renaissance-moestuinen van Villandry (de beste van Europa) en de watertuinen van Chenonceau vullen ook zonder gebouwbezoek een heel uitje."
         },
         {
           "name": "Summer Heat in Vieux-Tours",
@@ -546,15 +615,21 @@
           "petPolicyPt": "Passeie antes das 10:00 / depois das 19:00 no verão; use trilhos sombreados durante as ondas de calor",
           "tipPt": "Teste as pedras da calçada com as costas da mão antes de caminhar; se não conseguir mantê-la lá 7 segundos, as patas do seu cão também não. Leve água a todo o lado; muitas esplanadas de café do Vieux-Tours voltam a encher as taças dos cães sem que seja preciso pedir.",
           "descriptionDe": "Tours erlebt im Juli-August Spitzentemperaturen von 28-32 °C, wobei das Kopfsteinpflaster im Vieux-Tours von spätem Vormittag bis frühem Abend Wärme speichert. Spaziergänge sind am besten vor 10:00 Uhr oder nach 19:00 Uhr. Der Weg am Loire-Ufer (unter Platanen) und der schattige Jardin des Prébendes d'Oé bleiben auch mittags in der Hitze angenehm.",
+          "descriptionNl": "Tours kent in juli-augustus piektemperaturen van 28-32 °C, waarbij de kasseien in Vieux-Tours van laat in de ochtend tot vroeg in de avond warmte vasthouden. Wandelen is het beste voor 10:00 uur of na 19:00 uur. Het pad langs de Loire-oever (onder platanen) en de schaduwrijke Jardin des Prébendes d'Oé blijven ook 's middags bij hitte aangenaam.",
           "petPolicyDe": "Im Sommer vor 10:00 / nach 19:00 Uhr Gassi gehen; bei Hitzewelle schattige Wege nutzen",
-          "tipDe": "Testen Sie das Kopfsteinpflaster mit dem Handrücken, bevor Sie losgehen - wenn Sie es nicht 7 Sekunden lang aushalten, können es die Pfoten Ihres Hundes auch nicht. Führen Sie überall Wasser mit; viele Café-Terrassen im Vieux-Tours füllen Hundenäpfe nach, ohne dass man fragen muss."
+          "petPolicyNl": "In de zomer voor 10:00 / na 19:00 uur uitlaten; bij hittegolf schaduwrijke paden gebruiken",
+          "tipDe": "Testen Sie das Kopfsteinpflaster mit dem Handrücken, bevor Sie losgehen - wenn Sie es nicht 7 Sekunden lang aushalten, können es die Pfoten Ihres Hundes auch nicht. Führen Sie überall Wasser mit; viele Café-Terrassen im Vieux-Tours füllen Hundenäpfe nach, ohne dass man fragen muss.",
+          "tipNl": "Test de kasseien met de rug van je hand voordat je vertrekt - als jij het geen 7 seconden volhoudt, kunnen de pootjes van je hond dat ook niet. Neem overal water mee; veel caféterrassen in Vieux-Tours vullen hondenbakken bij zonder dat je erom hoeft te vragen."
         }
       ],
       "titlePt": "Dicas essenciais de viagem com animais para Tours",
       "introPt": "Tours é genuinamente tolerante a cães: o elétrico e o autocarro aceitam cães pequenos e grandes, as esplanadas do Vieux-Tours acolhem-nos universalmente, e os castelos do Vale do Loire em redor acolhem todos cães à trela nos seus jardins. Importam quatro realidades locais: (1) os cães de categoria 1 (Pit Bull e semelhantes) estão vedados no transporte Fil Bleu; (2) os interiores dos castelos só admitem cães pequenos numa bolsa; (3) a tolerância de verão nas margens do Loire para o banho de cães é um costume local, não uma política oficial; (4) a zona de recreio canina de Sainte-Radegonde é o único recinto municipal totalmente sem trela.",
       "titleDe": "Wichtige Reisetipps mit Haustier für Tours",
+      "titleNl": "Belangrijke reistips met huisdier voor Tours",
       "introDe": "Tours ist wirklich hundetolerant - Straßenbahn und Bus nehmen sowohl kleine als auch große Hunde mit, die Terrassen im Vieux-Tours heißen sie durchweg willkommen, und die umliegenden Loire-Schlösser erlauben alle Hunde an der Leine in ihren Gärten. Vier lokale Besonderheiten sind wichtig: (1) Hunde der Kategorie 1 (Pitbull und ähnliche) sind vom Fil-Bleu-Nahverkehr ausgeschlossen; (2) in Schlossinnenräume dürfen nur kleine Hunde in einer Tasche; (3) die sommerliche Toleranz an den Loire-Ufern zum Hundeschwimmen ist lokaler Brauch, keine offizielle Regelung; (4) die Hundefreilaufzone Sainte-Radegonde ist die einzige vollständig leinenfreie städtische Anlage.",
-      "faqsDe": []
+      "introNl": "Tours is echt hondentolerant - tram en bus nemen zowel kleine als grote honden mee, de terrassen in Vieux-Tours heten ze consequent welkom, en de omliggende Loirekastelen staan allemaal honden aan de lijn toe in hun tuinen. Vier lokale bijzonderheden zijn belangrijk: (1) honden van categorie 1 (pitbull en vergelijkbaar) zijn uitgesloten van het Fil-Bleu-ov; (2) in kasteelbinnenruimtes mogen alleen kleine honden in een tas; (3) de zomerse tolerantie aan de Loire-oevers voor hondenzwemmen is een lokaal gebruik, geen officiële regel; (4) de hondenlosloopzone Sainte-Radegonde is de enige volledig lijnvrije gemeentelijke voorziening.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Tours",
@@ -585,8 +660,11 @@
           "petPolicyPt": "Cães à trela bem-vindos em todo o bairro pedonal",
           "tipPt": "Percorra a Place Plumereau antes das 10:00 para ver as casas em tabique sem a multidão. A luz da manhã sobre as fachadas esculpidas e a calçada vazia tornam-na perfeitamente fotografável com um cão sossegado aos seus pés.",
           "descriptionDe": "Der ikonische mittelalterliche Platz von Tours, umringt von Fachwerkhäusern aus dem 15. Jahrhundert, die zu Café-Restaurants umgebaut wurden, ist das gesellschaftliche Herz des Fußgängerviertels Vieux-Tours. Verbunden mit der engen Rue Colbert und der Rue du Grand Marché. Die Fußgängerzone mit Kopfsteinpflaster erstreckt sich über rund 600 m von Ost nach West; Hunde an der Leine sind überall willkommen, und die meisten Café-Terrassen nehmen Hunde ohne Nachfrage auf.",
+          "descriptionNl": "Het iconische middeleeuwse plein van Tours, omringd door vakwerkhuizen uit de 15e eeuw die zijn omgebouwd tot café-restaurants, is het sociale hart van de voetgangerswijk Vieux-Tours. Verbonden met de smalle Rue Colbert en de Rue du Grand Marché. De voetgangerszone met kasseien strekt zich zo'n 600 m uit van oost naar west; honden aan de lijn zijn overal welkom, en de meeste caféterrassen laten honden toe zonder dat je het hoeft te vragen.",
           "petPolicyDe": "Hunde an der Leine im gesamten Fußgängerviertel willkommen",
-          "tipDe": "Gehen Sie vor 10:00 Uhr über die Place Plumereau, um die Fachwerkhäuser ohne Menschenmenge zu sehen - das Morgenlicht auf den geschnitzten Fassaden und das leere Kopfsteinpflaster machen perfekte Fotos mit einem ruhigen Hund zu Ihren Füßen."
+          "petPolicyNl": "Honden aan de lijn welkom in de hele voetgangerswijk",
+          "tipDe": "Gehen Sie vor 10:00 Uhr über die Place Plumereau, um die Fachwerkhäuser ohne Menschenmenge zu sehen - das Morgenlicht auf den geschnitzten Fassaden und das leere Kopfsteinpflaster machen perfekte Fotos mit einem ruhigen Hund zu Ihren Füßen.",
+          "tipNl": "Loop voor 10:00 uur over de Place Plumereau om de vakwerkhuizen zonder mensenmassa te zien - het ochtendlicht op de bewerkte gevels en de lege kasseien maken perfecte foto's met een rustige hond aan je voeten."
         },
         {
           "name": "Cathédrale Saint-Gatien",
@@ -609,8 +687,11 @@
           "petPolicyPt": "Sem cães no interior (exceto assistência); exterior, claustro e jardins acolhem cães à trela",
           "tipPt": "Contorne o exterior da catedral para encontrar o Jardin de Beaune-Semblançay nas traseiras, um pequeno jardim murado com os restos de uma capela privada do século XVI, acolhedor para cães e quase sempre vazio.",
           "descriptionDe": "Die gotische Kathedrale von Tours, erbaut zwischen dem 13. und 16. Jahrhundert, mit Buntglasfenstern aus dem 13.-15. Jahrhundert, die den Zweiten Weltkrieg überstanden haben. Ins Innere der Kathedrale dürfen Hunde jeder Größe nicht, ausgenommen registrierte Assistenzhunde. Der Platz vor der Kathedrale, der angrenzende Innenhof des Kreuzgangs Psalette und der dahinterliegende Jardin de Beaune-Semblançay heißen Hunde an der Leine willkommen.",
+          "descriptionNl": "De gotische kathedraal van Tours, gebouwd tussen de 13e en 16e eeuw, met glas-in-loodramen uit de 13e-15e eeuw die de Tweede Wereldoorlog hebben overleefd. Naar binnen in de kathedraal mogen honden van geen enkele grootte, met uitzondering van geregistreerde assistentiehonden. Het plein voor de kathedraal, de aangrenzende binnenplaats van de kloostergang Psalette en de erachter gelegen Jardin de Beaune-Semblançay heten honden aan de lijn welkom.",
           "petPolicyDe": "Keine Hunde im Inneren (außer Assistenzhunde); Außenbereich, Kreuzgang und Gärten hundefreundlich an der Leine",
-          "tipDe": "Gehen Sie um die Kathedrale herum, um den Jardin de Beaune-Semblançay dahinter zu finden - ein kleiner, eingefasster Garten mit den Überresten einer Privatkapelle aus dem 16. Jahrhundert, hundefreundlich und fast immer leer."
+          "petPolicyNl": "Geen honden binnen (behalve assistentiehonden); buitenruimte, kloostergang en tuinen hondvriendelijk aan de lijn",
+          "tipDe": "Gehen Sie um die Kathedrale herum, um den Jardin de Beaune-Semblançay dahinter zu finden - ein kleiner, eingefasster Garten mit den Überresten einer Privatkapelle aus dem 16. Jahrhundert, hundefreundlich und fast immer leer.",
+          "tipNl": "Loop om de kathedraal heen om de Jardin de Beaune-Semblançay erachter te vinden - een kleine, omheinde tuin met de resten van een privékapel uit de 16e eeuw, hondvriendelijk en bijna altijd leeg."
         },
         {
           "name": "Château de Villandry Gardens",
@@ -633,15 +714,21 @@
           "petPolicyPt": "Cães à trela bem-vindos em 9 ha de jardins; cães pequenos em bolsa/cesto no interior do castelo",
           "tipPt": "Percorra primeiro o terraço superior do Belvedere para ver os seis jardins de cima, e depois desça secção a secção. Uma visita de 2 horas com um cão à trela, mágica no final da primavera, quando a horta atinge o seu pico visual.",
           "descriptionDe": "Die Renaissance-Gärten von Villandry gelten als die schönsten Europas - sechs Terrassenbereiche, darunter der zierende Nutzgarten (Renaissance-Küchengarten), der Kräutergarten, der Wassergarten und der Sonnengarten. Hunde an der Leine sind in den 9 Hektar Gärten überall willkommen. Kleine Hunde in einer Tasche oder einem Korb dürfen auch in das Schlossinnere. Das nächstgelegene der großen Loire-Schlösser zum Zentrum von Tours.",
+          "descriptionNl": "De renaissancetuinen van Villandry gelden als de mooiste van Europa - zes terrasgedeeltes, waaronder de sierlijke moestuin (renaissance-groentetuin), de kruidentuin, de watertuin en de zonnetuin. Honden aan de lijn zijn overal welkom in de 9 hectare tuinen. Kleine honden in een tas of mand mogen ook naar binnen in het kasteel. Het dichtstbijzijnde van de grote Loirekastelen bij het centrum van Tours.",
           "petPolicyDe": "Hunde an der Leine in 9 ha Gärten willkommen; kleine Hunde in Tasche/Korb im Schlossinneren",
-          "tipDe": "Gehen Sie zuerst auf die obere Belvedere-Terrasse, um alle sechs Gärten von oben zu sehen, und steigen Sie dann abschnittsweise hinab - 2-stündiger Besuch mit angeleintem Hund, im späten Frühling magisch, wenn der Küchengarten seinen optischen Höhepunkt erreicht."
+          "petPolicyNl": "Honden aan de lijn welkom in 9 ha tuinen; kleine honden in tas/mand binnen in het kasteel",
+          "tipDe": "Gehen Sie zuerst auf die obere Belvedere-Terrasse, um alle sechs Gärten von oben zu sehen, und steigen Sie dann abschnittsweise hinab - 2-stündiger Besuch mit angeleintem Hund, im späten Frühling magisch, wenn der Küchengarten seinen optischen Höhepunkt erreicht.",
+          "tipNl": "Ga eerst naar het bovenste belvedère-terras om alle zes tuinen van bovenaf te zien, en daal daarna gedeelte voor gedeelte af - bezoek van 2 uur met aangelijnde hond, magisch laat in de lente, wanneer de moestuin zijn visuele hoogtepunt bereikt."
         }
       ],
       "titlePt": "Atrações que aceitam cães em Tours",
       "introPt": "O bairro do Vieux-Tours (a Place Plumereau, a estreita Rue Colbert, a Cathédrale Saint-Gatien e o pátio do Musée des Beaux-Arts) é uma zona de passeio compacta e acolhedora para cães, e a margem do rio Loire (rota Loire à Vélo) percorre a cidade de este a oeste para pedalar ou caminhar com um cão. O raio de excursão de um dia abrange Chambord (1h de carro), Chenonceau (35 min), Amboise (25 min) e Villandry (15 min), todos acolhendo cães à trela nos seus jardins.",
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Tours",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Tours",
       "introDe": "Das Vieux-Tours-Viertel von Tours - Place Plumereau, die enge Rue Colbert, die Kathedrale Saint-Gatien und der Innenhof des Musée des Beaux-Arts - ist eine kompakte, hundefreundliche Spazierzone, und der Loire-Uferweg (Route Loire à Vélo) verläuft von Ost nach West durch die Stadt zum Radeln oder Gassigehen mit Hund. Tagesausflüge erreichen Chambord (1 Std. Fahrt), Chenonceau (35 Min.), Amboise (25 Min.) und Villandry (15 Min.), die alle Hunde an der Leine in ihren Gärten willkommen heißen.",
-      "faqsDe": []
+      "introNl": "De wijk Vieux-Tours van Tours - Place Plumereau, de smalle Rue Colbert, de kathedraal Saint-Gatien en de binnenplaats van het Musée des Beaux-Arts - is een compacte, hondvriendelijke wandelzone, en het Loire-oeverpad (route Loire à Vélo) loopt van oost naar west door de stad om te fietsen of uit te laten met hond. Dagtochtjes bereiken Chambord (1 uur rijden), Chenonceau (35 min.), Amboise (25 min.) en Villandry (15 min.), die allemaal honden aan de lijn welkom heten in hun tuinen.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Care Services in Tours",
@@ -671,8 +758,11 @@
           "petPolicyPt": "Pet sitters verificados, seguro incluído via plataforma",
           "tipPt": "Filtre por pet sitters que mencionem explicitamente experiência com o tamanho do seu cão. A oferta de Tours é sólida, mas os pet sitters mais bem classificados ficam reservados com 2 a 3 semanas de antecedência na época alta dos castelos (maio-junho, setembro-outubro).",
           "descriptionDe": "Pawshake betreibt ein robustes Netzwerk verifizierter Haustierbetreuer in Tours und der umliegenden Touraine, mit Hausbesuchen, Gassigehen, Tagesbetreuung, Haussitting und Übernachtungsbetreuung. Die Betreuer werden vom Sicherheitsteam von Pawshake geprüft; jede Buchung ist durch die Pawshake-Garantie abgesichert (Tierarztversicherung + 7-Tage-Kundensupport). Gassigänge starten bei 9 € pro 30 Minuten.",
+          "descriptionNl": "Pawshake runt een robuust netwerk van geverifieerde huisdieroppassers in Tours en de omliggende Touraine, met huisbezoeken, uitlaten, dagopvang, huisoppas en overnachtingszorg. De oppassers worden gescreend door het veiligheidsteam van Pawshake; elke boeking is gedekt door de Pawshake-garantie (dierenartsverzekering + 7 dagen klantenondersteuning). Uitlaatbeurten beginnen bij 9 € per 30 minuten.",
           "petPolicyDe": "Verifizierte Betreuer, Versicherung über die Plattform inklusive",
-          "tipDe": "Filtern Sie nach Betreuern, die ausdrücklich Erfahrung mit der Größe Ihres Hundes angeben - das Angebot in Tours ist solide, aber die bestbewerteten Betreuer sind in der Hochsaison der Schlösser (Mai-Juni, September-Oktober) 2-3 Wochen im Voraus ausgebucht."
+          "petPolicyNl": "Geverifieerde oppassers, verzekering via het platform inbegrepen",
+          "tipDe": "Filtern Sie nach Betreuern, die ausdrücklich Erfahrung mit der Größe Ihres Hundes angeben - das Angebot in Tours ist solide, aber die bestbewerteten Betreuer sind in der Hochsaison der Schlösser (Mai-Juni, September-Oktober) 2-3 Wochen im Voraus ausgebucht.",
+          "tipNl": "Filter op oppassers die expliciet ervaring aangeven met de grootte van je hond - het aanbod in Tours is solide, maar de best beoordeelde oppassers zitten in het hoogseizoen van de kastelen (mei-juni, september-oktober) 2-3 weken van tevoren volgeboekt."
         },
         {
           "name": "Rover.com Tours",
@@ -694,8 +784,11 @@
           "petPolicyPt": "Pet sitters verificados, garantia Rover incluída",
           "tipPt": "Reserve o seu pet sitter com, pelo menos, 1 semana de antecedência antes de chegar a Tours. Os pet sitters mais bem avaliados esgotam depressa no verão (junho a agosto) e na época alta dos castelos no início do outono (setembro a outubro).",
           "descriptionDe": "Rover.com listet 28 aktive Haustierbetreuer in Tours (Stand April 2026), mit einem Durchschnittspreis von etwa 10 € pro Nacht inklusive Servicegebühren. Die Leistungen umfassen Gassigehen, Tagesbetreuung, Haussitting und Übernachtungsbetreuung. Alle Betreuer durchlaufen eine Identitätsprüfung. Bewertungen sind meist auf Französisch; eine wachsende Minderheit der Profile weist Englischkenntnisse aus.",
+          "descriptionNl": "Rover.com vermeldt 28 actieve huisdieroppassers in Tours (stand april 2026), met een gemiddelde prijs van zo'n 10 € per nacht inclusief servicekosten. De diensten omvatten uitlaten, dagopvang, huisoppas en overnachtingszorg. Alle oppassers doorlopen een identiteitscontrole. Beoordelingen zijn meestal in het Frans; een groeiende minderheid van de profielen vermeldt Engelse taalvaardigheid.",
           "petPolicyDe": "Verifizierte Betreuer, Rover-Garantie inklusive",
-          "tipDe": "Buchen Sie Ihren Betreuer mindestens 1 Woche vor Ankunft in Tours - die bestbewerteten Betreuer sind im Sommer (Juni-August) und während der herbstlichen Schlösser-Hochsaison (September-Oktober) schnell ausgebucht."
+          "petPolicyNl": "Geverifieerde oppassers, Rover-garantie inbegrepen",
+          "tipDe": "Buchen Sie Ihren Betreuer mindestens 1 Woche vor Ankunft in Tours - die bestbewerteten Betreuer sind im Sommer (Juni-August) und während der herbstlichen Schlösser-Hochsaison (September-Oktober) schnell ausgebucht.",
+          "tipNl": "Boek je oppasser minstens 1 week voor aankomst in Tours - de best beoordeelde oppassers zitten snel vol in de zomer (juni-augustus) en tijdens het herfstelijke hoogseizoen van de kastelen (september-oktober)."
         },
         {
           "name": "Holidog Tours",
@@ -717,15 +810,21 @@
           "petPolicyPt": "Pet sitters verificados, seguro incluído em todas as reservas",
           "tipPt": "Marque com antecedência um encontro de apresentação de 30 minutos com qualquer pet sitter novo antes da estadia em si. A maioria dos pet sitters da Touraine oferece isto gratuitamente, e deixa o seu cão habituar-se ao local, sobretudo importante para cães sensíveis.",
           "descriptionDe": "Holidog ist eine ursprünglich französische Plattform für Haustierbetreuung mit starker Präsenz im gesamten Loiretal einschließlich Tours, mit Gassigehen, Tagesbetreuung und Haussitting. Die Betreuer werden geprüft und Bewertungen sind auf Französisch. Eine Versicherung ist bei jeder Buchung inbegriffen. Besonders nützlich für französischsprachige Besucher, die eine klar französischsprachige Oberfläche und Kundenbetreuung wünschen.",
+          "descriptionNl": "Holidog is een oorspronkelijk Frans platform voor huisdierenzorg met een sterke aanwezigheid in de hele Loirevallei inclusief Tours, met uitlaten, dagopvang en huisoppas. De oppassers worden gescreend en beoordelingen zijn in het Frans. Een verzekering is bij elke boeking inbegrepen. Bijzonder nuttig voor Franstalige bezoekers die een duidelijk Franstalige interface en klantenservice willen.",
           "petPolicyDe": "Verifizierte Betreuer, Versicherung bei jeder Buchung inklusive",
-          "tipDe": "Buchen Sie vor dem eigentlichen Aufenthalt ein 30-minütiges Kennenlerntreffen mit jedem neuen Betreuer im Voraus - die meisten Betreuer in der Touraine bieten dies kostenlos an, und es lässt Ihren Hund sich an den Ort gewöhnen, besonders wichtig für sensible Hunde."
+          "petPolicyNl": "Geverifieerde oppassers, verzekering bij elke boeking inbegrepen",
+          "tipDe": "Buchen Sie vor dem eigentlichen Aufenthalt ein 30-minütiges Kennenlerntreffen mit jedem neuen Betreuer im Voraus - die meisten Betreuer in der Touraine bieten dies kostenlos an, und es lässt Ihren Hund sich an den Ort gewöhnen, besonders wichtig für sensible Hunde.",
+          "tipNl": "Boek voor het eigenlijke verblijf een kennismakingsafspraak van 30 minuten met elke nieuwe oppasser vooraf - de meeste oppassers in de Touraine bieden dit gratis aan, en het laat je hond wennen aan de plek, vooral belangrijk voor gevoelige honden."
         }
       ],
       "titlePt": "Pet sitting e serviços de cuidados para cães em Tours",
       "introPt": "Tours tem um sólido mercado de pet sitting nas principais plataformas francesas (Pawshake, Rover, Holidog), útil quando quer visitar interiores de castelos que não admitem cães maiores, fazer uma prova de vinhos de Vouvray ou apanhar o TGV para Paris por um dia. A maioria dos pet sitters fala francês; há quem fale inglês, mas em menor número. A tarifa mediana da Rover é de cerca de 10€ por noite (dados de abril de 2026); os passeios de cães da Pawshake começam nos 9€ por 30 minutos.",
       "titleDe": "Haustierbetreuung & Hundebetreuung in Tours",
+      "titleNl": "Huisdierenzorg & hondenoppas in Tours",
       "introDe": "Tours hat einen soliden Markt für Haustierbetreuung auf den großen französischen Plattformen (Pawshake, Rover, Holidog), nützlich, wenn Sie Schlossinnenräume besichtigen möchten, die größere Hunde nicht zulassen, eine Vouvray-Weinverkostung machen oder für einen Tag den TGV nach Paris nehmen wollen. Die meisten Betreuer sprechen Französisch; Englischsprachige gibt es, aber weniger. Der mittlere Rover-Preis liegt bei ca. 10 € pro Nacht (Stand April 2026); Pawshake-Gassigänge starten bei 9 € für 30 Minuten.",
-      "faqsDe": []
+      "introNl": "Tours heeft een solide markt voor huisdierenzorg op de grote Franse platforms (Pawshake, Rover, Holidog), nuttig als je kasteelbinnenruimtes wilt bezoeken die grotere honden niet toelaten, een Vouvray-wijnproeverij wilt doen of voor een dag de TGV naar Parijs wilt nemen. De meeste oppassers spreken Frans; Engelssprekenden zijn er, maar minder. De gemiddelde Rover-prijs ligt rond 10 € per nacht (stand april 2026); Pawshake-uitlaatbeurten beginnen bij 9 € voor 30 minuten.",
+      "faqsDe": [],
+      "faqsNl": []
     }
   }
 }

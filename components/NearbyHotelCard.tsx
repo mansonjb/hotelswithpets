@@ -56,6 +56,14 @@ const LABELS: Record<string, {
     petFee: n => `taxa animal ${n} €/noite`,
     ratingLabel: 'nota',
   },
+  nl: {
+    defaultProximity: c => `Waar overnachten in ${c}`,
+    bookCta: 'Tarieven bekijken →',
+    perNight: '/nacht',
+    freePets: 'huisdieren gratis',
+    petFee: n => `huisdiertoeslag ${n} €/nacht`,
+    ratingLabel: 'score',
+  },
 }
 
 /**

@@ -38,9 +38,13 @@
           "mustTryPt": "Polvo grelhado, courgettes fritas, ouzo fresco",
           "tipPt": "Venha ao anoitecer, quando as luzes da cidade começam a surgir lá em baixo. A vista da esplanada da Cidade Alta a esta hora é extraordinária",
           "descriptionDe": "Eine geliebte Institution in der Oberstadt von Thessaloniki, Ouzeri tou Lola serviert klassische Mezedhes auf einer Terrasse mit einem der besten Ausblicke auf die Stadt und den darunterliegenden Thermaischen Golf. Hunde sind an den Außentischen willkommen, eine übliche Höflichkeit im gesamten Viertel Ano Poli. Der gegrillte Oktopus, die frittierten Zucchini und der kalte Ouzo an einem warmen Abend, das schmeckt Thessaloniki am urtypischsten.",
+          "descriptionNl": "Een geliefd instituut in de Bovenstad van Thessaloniki, Ouzeri tou Lola serveert klassieke mezedhes op een terras met een van de beste uitzichten op de stad en de Thermaïsche Golf eronder. Honden zijn welkom aan de buitentafels, een gangbare hoffelijkheid door de hele wijk Ano Poli. De gegrilde octopus, gefrituurde courgette en koude ouzo op een warme avond, dat is Thessaloniki op zijn meest lokaal.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Gegrillter Oktopus, frittierte Zucchini, kalter Ouzo",
-          "tipDe": "Kommen Sie in der Dämmerung, wenn unten die Lichter der Stadt aufleuchten. Der Blick von der Terrasse der Oberstadt zu dieser Stunde ist außergewöhnlich"
+          "mustTryNl": "Gegrilde octopus, gefrituurde courgette, koude ouzo",
+          "tipDe": "Kommen Sie in der Dämmerung, wenn unten die Lichter der Stadt aufleuchten. Der Blick von der Terrasse der Oberstadt zu dieser Stunde ist außergewöhnlich",
+          "tipNl": "Kom bij schemering wanneer de lichten van de stad eronder beginnen te verschijnen. Het uitzicht vanaf het terras van de Bovenstad op dat uur is buitengewoon"
         },
         {
           "name": "Meze Bar en Plo",
@@ -67,9 +71,13 @@
           "mustTryPt": "Travessa de mezes variados, saganaki (queijo frito), vinho local",
           "tipPt": "O passeio ao entardecer pela marginal, daqui até à Torre Branca, é um dos melhores percursos pet-friendly da Grécia",
           "descriptionDe": "Direkt an der Aristotelous-Platz, dem prächtigsten öffentlichen Platz Thessalonikis, belegt En Plo das Erdgeschoss eines neoklassizistischen Gebäudes mit einer breiten Terrasse zum Brunnen des Platzes und dem Meer dahinter. Hunde sind an den Außentischen willkommen, und Wassernäpfe sind leicht verfügbar. Die Meze-Auswahl ist großzügig, und das Beobachten der Menschen ist hervorragend, der Platz ist das gesellschaftliche Herz der Stadt.",
+          "descriptionNl": "Direct aan het Aristotelousplein, het grootste openbare plein van Thessaloniki, neemt En Plo de begane grond in van een neoclassicistisch gebouw met een breed terras richting de fontein van het plein en de zee daarachter. Honden zijn welkom aan de buitentafels en waterbakken zijn gemakkelijk beschikbaar. De mezedeskeuze is royaal en het mensenkijken uitstekend, het plein is het sociale hart van de stad.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Gemischte Meze-Platte, Saganaki (gebratener Käse), lokaler Wein",
-          "tipDe": "Der abendliche Spaziergang von hier entlang der Promenade bis zum Weißen Turm ist einer der besten hundefreundlichen Spaziergänge in Griechenland"
+          "mustTryNl": "Gemengde mezeplank, saganaki (gebakken kaas), lokale wijn",
+          "tipDe": "Der abendliche Spaziergang von hier entlang der Promenade bis zum Weißen Turm ist einer der besten hundefreundlichen Spaziergänge in Griechenland",
+          "tipNl": "De avondwandeling van hier langs de kust naar de Witte Toren is een van de beste hondvriendelijke wandelingen van Griekenland"
         },
         {
           "name": "Louloudadika",
@@ -96,16 +104,23 @@
           "mustTryPt": "Sardinhas grelhadas, beringela de conserva, retsina",
           "tipPt": "Ladadika fica pedonal ao fim do dia, sendo uma das poucas zonas do centro de Salonica onde um longo passeio nocturno com um cão depois do jantar é verdadeiramente agradável",
           "descriptionDe": "Im restaurierten Lagerhausviertel Ladadika gelegen, Thessalonikis altem Olivenölviertel und heute atmosphärischstem Ausgehviertel, ist Louloudadika eine traditionelle Ouzeri mit Kopfsteinpflaster-Außenbestuhlung, die Hunde ohne Umstände willkommen heißt. Die Atmosphäre ist das alte Thessaloniki in seiner unprätentiösesten Form: Backsteinwände, alte Fässer, guter Retsina und ausgezeichnete gegrillte Sardinen.",
+          "descriptionNl": "Gelegen in de gerestaureerde pakhuiswijk Ladadika, Thessaloniki's oude olijfoliewijk, nu de sfeervolste uitgaanswijk, is Louloudadika een traditionele ouzeri met buitenzitplaatsen op kasseien die honden zonder voorbehoud verwelkomt. De sfeer is oud Thessaloniki op zijn meest onopgesmukt: bakstenen muren, oude vaten, goede retsina en uitstekende gegrilde sardines.",
           "petPolicyDe": "Hunde an den Außentischen willkommen",
+          "petPolicyNl": "Honden welkom aan de buitentafels",
           "mustTryDe": "Gegrillte Sardinen, eingelegte Aubergine, Retsina",
-          "tipDe": "Ladadika ist abends autofrei, es ist eines der wenigen Viertel im Zentrum von Thessaloniki, in dem ein langer Abendspaziergang mit Hund nach dem Essen wirklich angenehm ist"
+          "mustTryNl": "Gegrilde sardines, ingelegde aubergine, retsina",
+          "tipDe": "Ladadika ist abends autofrei, es ist eines der wenigen Viertel im Zentrum von Thessaloniki, in dem ein langer Abendspaziergang mit Hund nach dem Essen wirklich angenehm ist",
+          "tipNl": "Ladadika is 's avonds autovrij, het is een van de weinige wijken in het centrum van Thessaloniki waar een lange avondwandeling met hond na het eten echt aangenaam is"
         }
       ],
       "titlePt": "Restaurantes Pet-Friendly em Salonica",
       "introPt": "Salonica tem uma das culturas gastronómicas mais descontraídas e genuínas da Grécia no que toca a aceitar cães. As infindáveis tabernas, cafés e ouzeries da cidade quase pressupõem que os cães fazem parte da equação; as esplanadas exteriores na Praça Aristotelous, ao longo da marginal e no bairro nocturno de Ladadika acolhem cães sem qualquer hesitação. O clima ameno prolonga as refeições ao ar livre de abril a novembro, e o passeio marítimo de Nea Paralia é ladeado por cafés onde os cães são tratados como convidados bem-vindos. Os gregos têm uma relação profunda e afectuosa com os cães, e em Salonica isso nota-se à mesa tanto como em qualquer outro ponto do país.",
       "titleDe": "Haustierfreundliche Restaurants in Thessaloniki",
+      "titleNl": "Huisdiervriendelijke restaurants in Thessaloniki",
       "introDe": "Thessaloniki hat eine der entspanntesten und authentischsten hundefreundlichen Gastronomiekulturen Griechenlands. Die unzähligen Tavernen, Cafés und Ouzerien der Stadt gehen fast selbstverständlich davon aus, dass Hunde dazugehören, Außenterrassen an der Aristotelous-Platz, entlang der Promenade und im Ausgehviertel Ladadika nehmen Hunde routinemäßig auf, ohne zu zögern. Das warme Klima verlängert das Essen im Freien von April bis November, und die Promenade Nea Paralia am Wasser ist gesäumt von Cafés, in denen Hunde als willkommene Gäste behandelt werden. Griechen haben eine tiefe und liebevolle Beziehung zu Hunden, und in Thessaloniki zeigt sich das am Tisch genauso wie überall sonst im Land.",
-      "faqsDe": []
+      "introNl": "Thessaloniki heeft een van de meest ontspannen en oprechte hondvriendelijke eetculturen van Griekenland. De eindeloze taverna's, cafés en ouzeria's van de stad gaan er bijna vanzelfsprekend van uit dat honden erbij horen, buitenterrassen op het Aristotelousplein, langs de kust en in de uitgaanswijk Ladadika nemen honden routinematig op zonder aarzeling. Het warme klimaat verlengt het buiten eten van april tot november en de kustpromenade Nea Paralia is omzoomd met cafés waar honden als welkome gasten worden behandeld. Grieken hebben een diepe en liefdevolle band met honden, en in Thessaloniki blijkt dat aan tafel net zo goed als overal elders in het land.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks in Thessaloniki",
@@ -135,8 +150,11 @@
           "petPolicyPt": "Cães com trela em toda a extensão; inclui parque para cães sem trela dedicado",
           "tipPt": "A área dedicada a cães fica sensivelmente a meio do passeio; procure o recinto vedado com bancos. O início da manhã é a hora mais popular para passear cães",
           "descriptionDe": "Die Nea Paralia ist Thessalonikis Vorzeigeraum, ein weitläufiger 3,5 km langer Park am Wasser, der 2013 mit 12 thematischen Gartenabschnitten, Skulpturen, einem Skatepark, Radwegen und einem eigenen Hundepark mit Bänken und Trinkstationen neu gestaltet wurde. Sie erstreckt sich von der Konzerthalle im Osten bis zum Hafen und wird täglich von Tausenden Anwohnern genutzt. Hunde sind überall willkommen, und der eigene Hundebereich bietet echten Freilaufraum.",
+          "descriptionNl": "Nea Paralia is Thessaloniki's vlaggenschip onder de openbare ruimtes, een uitgestrekt 3,5 km park aan de kust, in 2013 heringericht met 12 themagetuinen, beeldhouwwerk, een skatepark, fietspaden en een speciaal hondenpark met bankjes en waterpunten. Het loopt van de Concertzaal in het oosten tot de haven en wordt dagelijks door duizenden bewoners gebruikt. Honden zijn overal welkom en het speciale hondengebied biedt echte loslopruimte.",
           "petPolicyDe": "Hunde überall an der Leine; eigener Freilauf-Hundepark inklusive",
-          "tipDe": "Der eigene Hundebereich befindet sich etwa auf halber Strecke der Promenade, halten Sie nach dem eingezäunten Gehege mit Bänken Ausschau. Der frühe Morgen ist die beliebteste Zeit für Hundespaziergänge"
+          "petPolicyNl": "Honden overal aan de lijn; speciaal loslop-hondenpark inbegrepen",
+          "tipDe": "Der eigene Hundebereich befindet sich etwa auf halber Strecke der Promenade, halten Sie nach dem eingezäunten Gehege mit Bänken Ausschau. Der frühe Morgen ist die beliebteste Zeit für Hundespaziergänge",
+          "tipNl": "Het speciale hondengebied ligt ongeveer halverwege de promenade, zoek naar het omheinde gedeelte met bankjes. Vroeg in de ochtend is de populairste tijd om honden uit te laten"
         },
         {
           "name": "Ano Poli",
@@ -158,8 +176,11 @@
           "petPolicyPt": "Cães com trela bem-vindos em todo o bairro",
           "tipPt": "O passeio pelas muralhas bizantinas oferece a melhor vista sobre Salonica e o Golfo Termaico. Comece na fortaleza de Eptapyrgio e siga para sul ao longo das muralhas",
           "descriptionDe": "Ano Poli (die Oberstadt) ist Thessalonikis besterhaltenes historisches Viertel, ein Gewirr aus Kopfsteinpflastergassen, weißgekalkten Häusern, byzantinischen Kirchen und Resten der ursprünglichen Stadtmauern, auf dem Hügel oberhalb der modernen Stadt gelegen. Für Hundebesitzer ist es das beste Spazierviertel Thessalonikis: die Straßen sind ruhig, die Aussicht außergewöhnlich, und die Altstadtatmosphäre ist völlig anders als in der geschäftigen Stadt unten. Angeleinte Hunde fühlen sich hier vollkommen zu Hause.",
+          "descriptionNl": "Ano Poli (de Bovenstad) is Thessaloniki's best bewaarde historische wijk, een doolhof van geplaveide steegjes, witgekalkte huizen, Byzantijnse kerken en resten van de oorspronkelijke stadsmuren, gelegen op de heuvel boven de moderne stad. Voor hondenbaasjes is het de beste wandelwijk van Thessaloniki: de straten zijn rustig, de uitzichten buitengewoon en de sfeer van de oude stad totaal anders dan de drukke stad eronder. Honden aan de lijn voelen zich hier helemaal thuis.",
           "petPolicyDe": "Angeleinte Hunde im gesamten Viertel willkommen",
-          "tipDe": "Der Spaziergang entlang der byzantinischen Stadtmauern bietet den besten Blick auf Thessaloniki und den Thermaischen Golf. Starten Sie an der Festung Eptapyrgio und gehen Sie südwärts entlang der Mauern"
+          "petPolicyNl": "Honden aan de lijn welkom in de hele wijk",
+          "tipDe": "Der Spaziergang entlang der byzantinischen Stadtmauern bietet den besten Blick auf Thessaloniki und den Thermaischen Golf. Starten Sie an der Festung Eptapyrgio und gehen Sie südwärts entlang der Mauern",
+          "tipNl": "De wandeling langs de Byzantijnse stadsmuren biedt het beste uitzicht op Thessaloniki en de Thermaïsche Golf. Begin bij het fort Eptapyrgio en loop zuidwaarts langs de muren"
         },
         {
           "name": "Seich Sou Forest Park",
@@ -181,15 +202,21 @@
           "petPolicyPt": "Cães com trela nos trilhos sinalizados",
           "tipPt": "Apanhe o autocarro da linha 58 a partir do centro da cidade, pois para na entrada de Seich Sou. Leve água para o seu cão; é uma longa caminhada até lá dentro e a floresta não tem instalações",
           "descriptionDe": "Seich Sou ist Thessalonikis Stadtwald, ein 3.300 Hektar großer Kiefernwald in den Hügeln nordöstlich der Stadt, der die besten unbefestigten Wanderwege für Hunde in der Gegend bietet. Er verfügt über markierte Wege, offene Lichtungen und ein kühleres Mikroklima, das ihn zur bevorzugten Fluchtmöglichkeit vor der Sommerhitze der Stadt macht. Angeleinte Hunde können das gesamte Wegenetz erkunden, und viele Besitzer nutzen die weiter entfernten Waldwege für Freilaufbewegung in weniger frequentierten Bereichen.",
+          "descriptionNl": "Seich Sou is Thessaloniki's stadsbos, een 3.300 hectare groot dennenbos op de heuvels ten noordoosten van de stad dat de beste onverharde wandelingen voor honden in de omgeving biedt. Het heeft gemarkeerde paden, open open plekken en een koeler microklimaat dat het tot de favoriete ontsnapping aan de zomerse hitte van de stad maakt. Honden aan de lijn kunnen het hele padennetwerk verkennen, en veel baasjes gebruiken de bredere bospaden voor loslooptraining in minder drukke gebieden.",
           "petPolicyDe": "Angeleinte Hunde auf markierten Wegen",
-          "tipDe": "Nehmen Sie die Buslinie 58 vom Stadtzentrum, sie hält am Eingang zu Seich Sou. Bringen Sie Wasser für Ihren Hund mit; der Weg dorthin ist lang, und der Wald hat keine Einrichtungen"
+          "petPolicyNl": "Honden aan de lijn op gemarkeerde paden",
+          "tipDe": "Nehmen Sie die Buslinie 58 vom Stadtzentrum, sie hält am Eingang zu Seich Sou. Bringen Sie Wasser für Ihren Hund mit; der Weg dorthin ist lang, und der Wald hat keine Einrichtungen",
+          "tipNl": "Neem buslijn 58 vanuit het stadscentrum, deze stopt bij de ingang van Seich Sou. Neem water mee voor je hond; het is een lange wandeling naar binnen en het bos heeft geen voorzieningen"
         }
       ],
       "titlePt": "Parques Pet-Friendly em Salonica",
       "introPt": "O espaço verde mais notável de Salonica para cães é a Nea Paralia, um passeio marítimo modernizado de 3,5 km concluído em 2013 que inclui vários jardins temáticos, um parque para cães dedicado e espaços abertos onde os cães são genuinamente bem-vindos. Para além da marginal, o bairro de Ano Poli (Cidade Alta) oferece ruas em calçada e passeios pelas muralhas bizantinas, onde os cães podem deambular com trela por uma das cidades antigas de época otomana mais bem preservadas da Europa. Nota: a Grécia exige que os cães andem com trela em todas as ruas e parques públicos; apenas as áreas designadas sem trela são exceção.",
       "titleDe": "Hundefreundliche Parks in Thessaloniki",
+      "titleNl": "Hondvriendelijke parken in Thessaloniki",
       "introDe": "Thessalonikis bemerkenswertester Grünraum für Hunde ist die Nea Paralia, eine 3,5 km lange, 2013 fertiggestellte modernisierte Promenade am Wasser mit mehreren thematischen Gärten, einem eigenen Hundepark und offenen Flächen, in denen Hunde wirklich willkommen sind. Über die Promenade hinaus bietet das Viertel Ano Poli (Oberstadt) Kopfsteinpflastergassen und Spaziergänge entlang der byzantinischen Mauern, wo Hunde an der Leine durch eine der besterhaltenen Altstädte aus osmanischer Zeit Europas streifen können. Hinweis: Griechenland schreibt vor, dass Hunde auf allen Straßen und in öffentlichen Parks angeleint sein müssen; nur ausgewiesene Freilaufbereiche sind ausgenommen.",
-      "faqsDe": []
+      "introNl": "De opmerkelijkste groene ruimte van Thessaloniki voor honden is de Nea Paralia, een 3,5 km gemoderniseerde kustpromenade voltooid in 2013 met meerdere themagetuinen, een speciaal hondenpark en open ruimtes waar honden echt welkom zijn. Naast de kust biedt de wijk Ano Poli (Bovenstad) geplaveide steegjes en wandelingen langs de Byzantijnse muren waar honden aan de lijn kunnen dwalen door een van de best bewaarde Ottomaanse oude steden van Europa. Let op: Griekenland vereist dat honden aan de lijn zijn op alle straten en in openbare parken; alleen aangewezen loslopgebieden zijn uitgezonderd.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting Around Thessaloniki with Your Pet",
@@ -218,8 +245,11 @@
           "petPolicyPt": "Animais pequenos em transportadora ao critério do motorista; cães grandes com açaime e trela",
           "tipPt": "Para a Nea Paralia, as linhas de autocarro 5, 6 e 31 circulam ao longo da marginal e são a forma mais fácil de viajar com um cão entre o porto e a Sala de Concertos",
           "descriptionDe": "Das städtische Busnetz OASTH bedient Thessaloniki und den weiteren Ballungsraum. Kleine Hunde in einer zugelassenen Transportbox (max. 50×40×35 cm) dürfen nach Ermessen des Fahrers kostenlos befördert werden. Größere Hunde müssen einen Maulkorb tragen und an einer kurzen Leine gehalten werden; sie werden auf den meisten Linien außerhalb der Stoßzeiten akzeptiert. Blindenführhunde sind auf allen Linien uneingeschränkt immer zugelassen.",
+          "descriptionNl": "Het stedelijke busnet OASTH bedient Thessaloniki en de bredere agglomeratie. Kleine honden in een goedgekeurde reismand (max 50×40×35 cm) mogen naar goeddunken van de chauffeur gratis worden vervoerd. Grotere honden moeten gemuilkorfd zijn en aan een korte lijn worden gehouden; ze worden op de meeste lijnen buiten de spits geaccepteerd. Geleidehonden zijn altijd op alle lijnen zonder beperkingen toegestaan.",
           "petPolicyDe": "Kleine Haustiere in Transportbox nach Ermessen des Fahrers; große Hunde mit Maulkorb + Leine",
-          "tipDe": "Für die Nea Paralia fahren die Buslinien 5, 6 und 31 entlang der Promenade und sind die einfachste Möglichkeit, mit Hund zwischen Hafen und Konzerthalle zu reisen"
+          "petPolicyNl": "Kleine huisdieren in reismand naar goeddunken van de chauffeur; grote honden gemuilkorfd + aan de lijn",
+          "tipDe": "Für die Nea Paralia fahren die Buslinien 5, 6 und 31 entlang der Promenade und sind die einfachste Möglichkeit, mit Hund zwischen Hafen und Konzerthalle zu reisen",
+          "tipNl": "Voor de Nea Paralia rijden buslijnen 5, 6 en 31 langs de kust en zijn de makkelijkste manier om met een hond tussen de haven en de Concertzaal te reizen"
         },
         {
           "name": "Hellenic Train (intercity)",
@@ -240,8 +270,11 @@
           "petPolicyPt": "Cães com menos de 10 kg em transportadora: grátis. Cães maiores: caixa na carruagem de bagagens, suplemento",
           "tipPt": "Reserve a viagem do animal com antecedência em hellenictrain.gr. Leve o boletim sanitário do seu cão e o passaporte europeu para animais em todas as viagens de comboio na Grécia",
           "descriptionDe": "Hellenic Train verbindet Thessaloniki mit Athen, Alexandroupoli und anderen griechischen Städten. Hunde unter 10 kg in einer zugelassenen Transportbox reisen in allen Klassen kostenlos. Größere Hunde müssen in einer Tiertransportbox im Gepäckwagen reisen, nur auf ausgewählten Strecken; ein Aufpreis fällt an. Die Strecke Thessaloniki-Athen (etwa 4,5 Stunden im Intercity) nimmt Haustiere mit vorheriger Buchung mit.",
+          "descriptionNl": "Hellenic Train verbindt Thessaloniki met Athene, Alexandroupoli en andere Griekse steden. Honden onder de 10 kg in een goedgekeurde reismand reizen gratis mee in alle klassen. Grotere honden moeten reizen in een dierentransportbox in de bagagewagon, alleen op bepaalde routes; er geldt een toeslag. De route Thessaloniki-Athene (ongeveer 4,5 uur met de intercity) accepteert huisdieren met reservering vooraf.",
           "petPolicyDe": "Hunde unter 10 kg in Transportbox: kostenlos. Größere Hunde: Tierbox im Gepäckwagen, Aufpreis",
-          "tipDe": "Buchen Sie die Tierreise vorab online auf hellenictrain.gr. Bringen Sie das Gesundheitsheft Ihres Hundes und den EU-Heimtierausweis auf allen Zugfahrten in Griechenland mit"
+          "petPolicyNl": "Honden onder 10 kg in reismand: gratis. Grotere honden: dierenbox in bagagewagon, toeslag",
+          "tipDe": "Buchen Sie die Tierreise vorab online auf hellenictrain.gr. Bringen Sie das Gesundheitsheft Ihres Hundes und den EU-Heimtierausweis auf allen Zugfahrten in Griechenland mit",
+          "tipNl": "Boek de huisdierreis vooraf online op hellenictrain.gr. Neem het gezondheidsboekje van je hond en het EU-huisdierenpaspoort mee op alle treinreizen in Griekenland"
         },
         {
           "name": "Taxis",
@@ -262,15 +295,21 @@
           "petPolicyPt": "Ao critério do motorista, avise no momento da reserva",
           "tipPt": "Use a aplicação Taxibeat, pois é a mais usada em Salonica e deixa-o indicar que viaja com um animal",
           "descriptionDe": "Taxis in Thessaloniki sind weit verbreitet und nehmen im Allgemeinen Hunde in einer Transportbox oder gut erzogene Hunde auf einer Decke mit. Buchen Sie über die App Taxibeat oder Uber für eine bestätigte haustierfreundliche Buchung. Der Standardpreis vom Flughafen Thessaloniki (SKG) ins Stadtzentrum liegt bei etwa 15-20 EUR und dauert 15-25 Minuten. Flughafentransfers sind zuverlässig, und die meisten Fahrer akzeptieren Hunde ohne Probleme, wenn dies bei der Buchung angegeben wird.",
+          "descriptionNl": "Taxi's in Thessaloniki zijn ruim beschikbaar en accepteren over het algemeen honden in een reismand of goed opgevoede honden op een matje. Boek via de app Taxibeat of Uber voor een bevestigde huisdiervriendelijke boeking. Het standaardtarief van luchthaven Thessaloniki (SKG) naar het stadscentrum is ongeveer €15-20, met een rit van 15-25 minuten. Luchthaventransfers zijn betrouwbaar en de meeste chauffeurs accepteren honden zonder problemen als je dit bij het boeken aangeeft.",
           "petPolicyDe": "Nach Ermessen des Fahrers, bei Buchung angeben",
-          "tipDe": "Nutzen Sie die App Taxibeat, sie ist die in Thessaloniki am weitesten verbreitete und ermöglicht es Ihnen, anzugeben, dass Sie mit einem Haustier reisen"
+          "petPolicyNl": "Naar goeddunken van de chauffeur, geef het aan bij het boeken",
+          "tipDe": "Nutzen Sie die App Taxibeat, sie ist die in Thessaloniki am weitesten verbreitete und ermöglicht es Ihnen, anzugeben, dass Sie mit einem Haustier reisen",
+          "tipNl": "Gebruik de app Taxibeat, het is de meest gebruikte in Thessaloniki en laat je aangeven dat je met een huisdier reist"
         }
       ],
       "titlePt": "Deslocar-se em Salonica com o Seu Animal",
       "introPt": "Salonica é uma cidade muito acessível a pé, e a maioria dos bairros centrais, Aristotelous, Ladadika, Ano Poli e a marginal, alcançam-se a pé a partir de qualquer hotel central. Para trajetos mais longos, a rede de autocarros urbanos OASTH aceita cães pequenos em transportadora, ao critério do motorista, e cães maiores com açaime e trela. Salonica não tem linha de metro, embora esteja uma em construção. Os táxis são abundantes e a maioria dos motoristas aceita cães em transportadora ou cães bem-comportados com trela, sobre uma manta. As viagens de comboio interurbano são asseguradas pela Hellenic Train (antiga TrainOSE), que tem políticas claras para animais em viagens por toda a Grécia.",
       "titleDe": "Mit Ihrem Haustier in Thessaloniki unterwegs",
+      "titleNl": "Met je huisdier onderweg in Thessaloniki",
       "introDe": "Thessaloniki ist eine sehr fußgängerfreundliche Stadt, und die meisten zentralen Viertel, Aristotelous, Ladadika, Ano Poli, die Promenade, sind von jedem zentralen Hotel aus zu Fuß erreichbar. Für längere Strecken akzeptiert das städtische Busnetz OASTH kleine Hunde in Transportboxen nach Ermessen des Fahrers sowie größere Hunde mit Maulkorb und Leine. Thessaloniki hat keine U-Bahn-Linie, obwohl eine im Bau ist. Taxis sind weit verbreitet, und die meisten Fahrer nehmen Hunde in einer Transportbox oder gut erzogene angeleinte Hunde mit Decke mit. Der Fernzugverkehr wird von Hellenic Train (ehemals TrainOSE) abgewickelt, das klare Haustierrichtlinien für Reisen in ganz Griechenland hat.",
-      "faqsDe": []
+      "introNl": "Thessaloniki is een heel goed te belopen stad en de meeste centrale wijken, Aristotelous, Ladadika, Ano Poli, de kust, zijn vanaf elk centraal hotel te voet bereikbaar. Voor langere ritten accepteert het stadsbusnetwerk OASTH kleine honden in reismanden naar goeddunken van de chauffeur, en grotere honden gemuilkorfd en aangelijnd. Thessaloniki heeft geen metrolijn, al is er wel een in aanbouw. Taxi's zijn ruim beschikbaar en de meeste chauffeurs accepteren honden in een reismand of goed opgevoede honden aan de lijn met een matje. Intercity-treinreizen worden verzorgd door Hellenic Train (voorheen TrainOSE), dat duidelijk huisdierbeleid heeft voor reizen door heel Griekenland.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches near Thessaloniki",
@@ -299,8 +338,11 @@
           "petPolicyPt": "Cães permitidos nas secções não organizadas durante todo o ano",
           "tipPt": "Vá ao início da manhã nos dias úteis de verão para evitar o trânsito da cidade. O trajeto demora cerca de 25 minutos pela estrada costeira",
           "descriptionDe": "Peraia ist der am leichtesten erreichbare hundefreundliche Strand von Thessaloniki aus, ein langer Sandstreifen am Thermaischen Golf in der Gemeinde Thermaikos, etwa 25 km südlich der Stadt. Die unorganisierten Abschnitte des Strands von Peraia erlauben Hunde uneingeschränkt. Cafés und Tavernen säumen die Uferpromenade, und die meisten heißen Hunde auf ihren Außenterrassen willkommen. Es ist ein Familienstrand, an Wochenenden bei Bewohnern Thessalonikis beliebt.",
+          "descriptionNl": "Peraia is het best bereikbare hondvriendelijke strand vanuit Thessaloniki, een lange strook zand aan de Thermaïsche Golf in de gemeente Thermaikos, ongeveer 25 km ten zuiden van de stad. De niet-georganiseerde gedeeltes van het strand van Peraia laten honden vrij toe. Cafés en taverna's zoomen de kust in en de meeste verwelkomen honden op hun buitenterrassen. Het is een gezinsstrand, populair bij bewoners van Thessaloniki in het weekend.",
           "petPolicyDe": "Hunde in den unorganisierten Abschnitten das ganze Jahr über erlaubt",
-          "tipDe": "Fahren Sie an Sommerwochentagen früh morgens, um den Verkehr aus der Stadt zu vermeiden. Die Fahrt dauert über die Küstenstraße etwa 25 Minuten"
+          "petPolicyNl": "Honden toegestaan op niet-georganiseerde gedeeltes, het hele jaar",
+          "tipDe": "Fahren Sie an Sommerwochentagen früh morgens, um den Verkehr aus der Stadt zu vermeiden. Die Fahrt dauert über die Küstenstraße etwa 25 Minuten",
+          "tipNl": "Ga vroeg in de ochtend op zomerse werkdagen om verkeer vanuit de stad te vermijden. De rit duurt ongeveer 25 minuten via de kustweg"
         },
         {
           "name": "Agia Triada",
@@ -321,8 +363,11 @@
           "petPolicyPt": "Cães permitidos nas secções de praia não organizadas",
           "tipPt": "O BringFido lista vários pontos de acesso a praias pet-friendly na zona de Thermaikos, úteis para perceber onde começam e acabam as secções organizadas e não organizadas",
           "descriptionDe": "Agia Triada ist ein kleiner Ferienort südlich von Thessaloniki mit mehreren unorganisierten Strandabschnitten, die Hunde uneingeschränkt erlauben. Das Dorf hat eine richtige Uferpromenade, Fischtavernen am Wasser und eine entspannte Atmosphäre, die sich gut für einen Besuch mit Hund eignet. Der Strand ist sandig, und das Wasser des Thermaischen Golfs ist flach und ruhig, gut für Hunde, die gerne schwimmen.",
+          "descriptionNl": "Agia Triada is een klein badplaatsje ten zuiden van Thessaloniki met meerdere niet-georganiseerde strandgedeeltes die honden vrij toelaten. Het dorp heeft een echte boulevard, vistaverna's aan de kust en een ontspannen sfeer die goed past bij een bezoek met hond. Het strand is zanderig en het water van de Thermaïsche Golf is ondiep en kalm, goed voor honden die graag zwemmen.",
           "petPolicyDe": "Hunde in den unorganisierten Strandabschnitten erlaubt",
-          "tipDe": "BringFido listet mehrere konkrete hundefreundliche Strandzugänge im Gebiet Thermaikos auf, nützlich, um herauszufinden, wo organisierte und unorganisierte Abschnitte beginnen und enden"
+          "petPolicyNl": "Honden toegestaan op niet-georganiseerde strandgedeeltes",
+          "tipDe": "BringFido listet mehrere konkrete hundefreundliche Strandzugänge im Gebiet Thermaikos auf, nützlich, um herauszufinden, wo organisierte und unorganisierte Abschnitte beginnen und enden",
+          "tipNl": "BringFido vermeldt meerdere specifieke hondvriendelijke strandtoegangen in het Thermaikos-gebied, handig om te navigeren waar georganiseerde en niet-georganiseerde gedeeltes beginnen en eindigen"
         },
         {
           "name": "Nea Paralia Waterfront",
@@ -343,15 +388,21 @@
           "petPolicyPt": "Cães com trela bem-vindos em toda a extensão do passeio",
           "tipPt": "Caminhe da Praça Aristotelous para leste até à Torre Branca ao fim do dia, cerca de 1,5 km, para a experiência nocturna por excelência de Salonica com o seu cão",
           "descriptionDe": "Die Nea Paralia ist kein Strand, sondern eine landschaftlich gestaltete Promenade, aber sie ist der beste hundefreundliche Küstenspaziergang in Thessaloniki selbst. Angeleinte Hunde können die gesamte 3,5 km lange Uferstrecke mit Meerblick, Springbrunnen und der Silhouette des Weißen Turms als Kulisse entlanggehen. An warmen Abenden ist sie der geselligste öffentliche Ort der Stadt, und Hunde sind ein normaler und willkommener Teil des Geschehens.",
+          "descriptionNl": "De Nea Paralia is geen strand, het is een aangelegde promenade, maar het is de beste hondvriendelijke kustwandeling in Thessaloniki zelf. Honden aan de lijn kunnen de volledige 3,5 km kuststrook belopen met zeezicht, fonteinen en de silhouet van de Witte Toren als achtergrond. Op warme avonden is het de meest sociale openbare ruimte van de stad, en honden zijn een normaal en welkom onderdeel van het tafereel.",
           "petPolicyDe": "Angeleinte Hunde auf der gesamten Länge der Promenade willkommen",
-          "tipDe": "Gehen Sie abends von der Aristotelous-Platz ostwärts zum Weißen Turm, etwa 1,5 km, für das typische Abenderlebnis von Thessaloniki mit Ihrem Hund"
+          "petPolicyNl": "Honden aan de lijn welkom over de hele lengte van de promenade",
+          "tipDe": "Gehen Sie abends von der Aristotelous-Platz ostwärts zum Weißen Turm, etwa 1,5 km, für das typische Abenderlebnis von Thessaloniki mit Ihrem Hund",
+          "tipNl": "Loop 's avonds van het Aristotelousplein oostwaarts naar de Witte Toren, ongeveer 1,5 km, voor de typische avondervaring van Thessaloniki met je hond"
         }
       ],
       "titlePt": "Praias Pet-Friendly perto de Salonica",
       "introPt": "Salonica situa-se nas margens do Golfo Termaico, o que significa que o mar nunca fica a mais do que alguns minutos. A própria marginal da cidade é um passeio público, não uma praia, mas várias praias de fácil acesso aceitam cães. A lei grega proíbe cães nas praias organizadas (as que têm camas de sol e nadadores-salvadores), mas as praias não organizadas aceitam cães livremente. As praias pet-friendly não organizadas mais próximas de Salonica ficam em Peraia e Agia Triada, alcançáveis em 25 a 35 minutos de carro. As temperaturas de verão chegam aos 32 °C; nunca deixe um cão dentro de um carro.",
       "titleDe": "Hundefreundliche Strände bei Thessaloniki",
+      "titleNl": "Hondvriendelijke stranden bij Thessaloniki",
       "introDe": "Thessaloniki liegt am Ufer des Thermaischen Golfs, sodass das Meer nie mehr als ein paar Minuten entfernt ist. Die Promenade der Stadt selbst ist kein Strand, aber mehrere leicht erreichbare Strände in der Nähe erlauben Hunde. Das griechische Recht verbietet Hunde an organisierten Stränden (mit Liegen und Rettungsschwimmern), aber unorganisierte Strände erlauben Hunde uneingeschränkt. Die nächsten unorganisierten hundefreundlichen Strände bei Thessaloniki liegen in Peraia und Agia Triada, in 25-35 Minuten mit dem Auto erreichbar. Die Sommertemperaturen erreichen 32 °C, lassen Sie einen Hund niemals im Auto zurück.",
-      "faqsDe": []
+      "introNl": "Thessaloniki ligt aan de oevers van de Thermaïsche Golf, wat betekent dat de zee nooit meer dan een paar minuten weg is. De eigen kust van de stad is een promenade, geen strand, maar meerdere stranden binnen makkelijk bereik laten honden toe. De Griekse wet verbiedt honden op georganiseerde stranden (die met ligbedden en strandwachten) maar niet-georganiseerde stranden laten honden vrij toe. De dichtstbijzijnde niet-georganiseerde hondvriendelijke stranden bij Thessaloniki liggen in Peraia en Agia Triada, in 25-35 minuten met de auto bereikbaar. Zomertemperaturen bereiken 32°C, laat een hond nooit in de auto achter.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Thessaloniki, Veterinary Clinics & Pet Care",
@@ -382,8 +433,11 @@
           "petPolicyPt": "Cães e gatos aceites",
           "tipPt": "Um dos poucos veterinários de Salonica abertos ao domingo. Telefone com antecedência para confirmar o horário, que pode variar conforme a época: 2316 019719",
           "descriptionDe": "City Paws ist eine umfassende Tierarztpraxis im Zentrum von Thessaloniki an der Ecke Proxenou Koromila und Agias Sofias, wenige Gehminuten von der Aristotelous-Platz entfernt. Sie ist eine der wenigen Kliniken in Thessaloniki, die sonntags geöffnet ist, was sie zu einer praktischen Option für Besucher macht. Zu den Leistungen zählen Routinekontrollen, Impfungen, Chirurgie, Zahnpflege, Radiologie, Ultraschall und eine Pflegestation. Sie können auch EU-Reisezertifikate für Haustiere ausstellen.",
+          "descriptionNl": "City Paws is een uitgebreide dierenartskliniek in het centrum van Thessaloniki op de hoek van Proxenou Koromila en Agias Sofias, een korte wandeling van het Aristotelousplein. Het is een van de weinige klinieken in Thessaloniki die op zondag open is, wat het een praktische optie maakt voor bezoekers. Diensten omvatten routineonderzoeken, vaccinaties, chirurgie, tandheelkundige zorg, radiologie, echografie en een trimsalon. Ze kunnen ook EU-reiscertificaten voor huisdieren afgeven.",
           "petPolicyDe": "Hunde und Katzen werden angenommen",
-          "tipDe": "Eine der wenigen Tierarztpraxen in Thessaloniki, die sonntags geöffnet ist. Rufen Sie vorab an, um die Öffnungszeiten zu bestätigen, da sie saisonal variieren können: 2316 019719"
+          "petPolicyNl": "Honden en katten geaccepteerd",
+          "tipDe": "Eine der wenigen Tierarztpraxen in Thessaloniki, die sonntags geöffnet ist. Rufen Sie vorab an, um die Öffnungszeiten zu bestätigen, da sie saisonal variieren können: 2316 019719",
+          "tipNl": "Een van de weinige dierenartsen in Thessaloniki die op zondag open is. Bel van tevoren om de openingstijden te bevestigen, want deze kunnen per seizoen variëren: 2316 019719"
         },
         {
           "name": "AUTh Veterinary Teaching Hospital",
@@ -406,8 +460,11 @@
           "petPolicyPt": "Cães e gatos aceites, incluindo casos complexos",
           "tipPt": "Para urgências de fim de semana, esta é a estrutura mais bem equipada de Salonica. Telefone antes de chegar: +30 2310 994403",
           "descriptionDe": "Das tiermedizinische Lehrkrankenhaus der Aristoteles-Universität ist eine der umfassendsten tierärztlichen Einrichtungen Südosteuropas. Es bietet an Wochentagen von 14:00 bis 09:00 Uhr fachärztliche Notfallversorgung, an Wochenenden und Feiertagen durchgehend 24 Stunden. Das Krankenhaus behandelt komplexe Fälle, darunter Chirurgie, Kardiologie, Onkologie und Intensivpflege. Für Routinetermine: +30 2310 994403 (Mo-Fr 9:30-14:30)",
+          "descriptionNl": "Het diergeneeskundig academisch ziekenhuis van de Aristoteles-universiteit is een van de meest uitgebreide diergeneeskundige voorzieningen van Zuidoost-Europa. Het biedt gespecialiseerde spoedzorg van 14:00 tot 09:00 uur op werkdagen, met volledige 24-uursdekking in het weekend en op feestdagen. Het ziekenhuis behandelt complexe gevallen waaronder chirurgie, cardiologie, oncologie en intensive care. Voor routineafspraken: +30 2310 994403 (ma-vr 9:30-14:30).",
           "petPolicyDe": "Hunde und Katzen werden angenommen, einschließlich komplexer Fälle",
-          "tipDe": "Für Notfälle am Wochenende ist dies die bestausgestattete Einrichtung in Thessaloniki. Rufen Sie vor der Anfahrt an: +30 2310 994403"
+          "petPolicyNl": "Honden en katten geaccepteerd, inclusief complexe gevallen",
+          "tipDe": "Für Notfälle am Wochenende ist dies die bestausgestattete Einrichtung in Thessaloniki. Rufen Sie vor der Anfahrt an: +30 2310 994403",
+          "tipNl": "Voor spoedgevallen in het weekend is dit de best uitgeruste voorziening in Thessaloniki. Bel voordat je aankomt: +30 2310 994403"
         },
         {
           "name": "Vetland Animal Clinic",
@@ -429,15 +486,21 @@
           "petPolicyPt": "Cães e gatos aceites",
           "tipPt": "Boa escolha se ficar perto do aeroporto ou a leste de Salonica. Kalamaria fica a cerca de 15 minutos de táxi do centro",
           "descriptionDe": "Vetland ist eine angesehene private Tierarztpraxis im Stadtteil Kalamaria, östlich des Zentrums von Thessaloniki. Sie bietet allgemeine Konsultationen, Impfungen, Mikrochipping, bildgebende Diagnostik und Reisegesundheitszertifikate. Eine praktische Option für Besucher, die im östlichen Vorortgebiet oder in der Nähe des Flughafens übernachten, der ebenfalls im Osten der Stadt liegt.",
+          "descriptionNl": "Vetland is een gewaardeerde particuliere dierenartskliniek in de wijk Kalamaria, ten oosten van het centrum van Thessaloniki. Het biedt algemene consulten, vaccinaties, microchippen, diagnostische beeldvorming en reisgezondheidscertificaten. Een handige optie voor bezoekers die in de oostelijke voorsteden of nabij de luchthaven verblijven, die ook in het oosten van de stad ligt.",
           "petPolicyDe": "Hunde und Katzen werden angenommen",
-          "tipDe": "Gute Wahl bei Unterkunft in der Nähe des Flughafens oder im östlichen Thessaloniki. Kalamaria ist etwa 15 Minuten mit dem Taxi vom Stadtzentrum entfernt"
+          "petPolicyNl": "Honden en katten geaccepteerd",
+          "tipDe": "Gute Wahl bei Unterkunft in der Nähe des Flughafens oder im östlichen Thessaloniki. Kalamaria ist etwa 15 Minuten mit dem Taxi vom Stadtzentrum entfernt",
+          "tipNl": "Goede keuze als je bij de luchthaven of in oost-Thessaloniki verblijft. Kalamaria ligt ongeveer 15 minuten met de taxi van het stadscentrum"
         }
       ],
       "titlePt": "Veterinários de Urgência em Salonica, Clínicas Veterinárias e Cuidados para Animais",
       "introPt": "Salonica tem uma rede veterinária bem desenvolvida, incluindo a Faculdade de Medicina Veterinária da Universidade Aristóteles, uma das principais instituições veterinárias do sudeste da Europa. A clínica universitária dá cobertura de urgência das 14h00 às 09h00 nos dias úteis e cobertura 24 horas aos fins de semana. Várias clínicas privadas do centro tratam de consultas de rotina e pequenas urgências. Nota: a Grécia tem uma população significativa de cães errantes; mantenha o seu cão com trela em zonas onde haja errantes, pois os encontros são comuns.",
       "titleDe": "Notfall-Tierärzte, Tierarztpraxen & Haustierversorgung in Thessaloniki",
+      "titleNl": "Spoeddierenartsen in Thessaloniki, dierenklinieken & huisdierenzorg",
       "introDe": "Thessaloniki verfügt über ein gut ausgebautes tierärztliches Netzwerk, einschließlich der veterinärmedizinischen Fakultät der Aristoteles-Universität, einer der führenden veterinärmedizinischen Einrichtungen Südosteuropas. Die Universitätsklinik bietet an Wochentagen von 14:00 bis 09:00 Uhr Notfallversorgung und am Wochenende durchgehend 24 Stunden. Mehrere private Kliniken im Stadtzentrum übernehmen Routinekonsultationen und kleinere Notfälle. Hinweis: Griechenland hat eine beträchtliche Population streunender Hunde; halten Sie Ihren Hund in Gebieten, in denen Streuner vorkommen, angeleint, da Begegnungen häufig sind.",
-      "faqsDe": []
+      "introNl": "Thessaloniki heeft een goed ontwikkeld dierenartsnetwerk, waaronder de faculteit diergeneeskunde van de Aristoteles-universiteit, een van de toonaangevende diergeneeskundige instellingen van Zuidoost-Europa. De universiteitskliniek biedt spoedzorg van 14:00 tot 09:00 uur op werkdagen en 24-uursdekking in het weekend. Meerdere particuliere klinieken in het centrum verzorgen routineconsulten en kleine spoedgevallen. Let op: Griekenland heeft een aanzienlijke populatie zwerfhonden; houd je hond aan de lijn in gebieden waar zwerfhonden aanwezig zijn, want ontmoetingen komen vaak voor.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Pet Travel Tips for Thessaloniki",
@@ -516,8 +579,11 @@
       "titlePt": "Conselhos de Viagem com Animais para Salonica",
       "introPt": "Salonica é uma das cidades mais genuinamente pet-friendly da Grécia, com uma cultura que acolhe animais em cafés, restaurantes e espaços públicos. A lei grega de viagem com animais é relativamente simples para visitantes da UE: exigem-se passaporte europeu para animais válido, microchip e vacina antirrábica em dia. Uma nota local importante: Salonica tem uma população significativa de cães errantes, na sua maioria vacinados e identificados na orelha pelo município, e em geral são amigáveis, mas mantenha o seu cão com trela nas zonas onde os errantes se juntam, para evitar confrontos indesejados.",
       "titleDe": "Tipps für Reisen mit Haustier nach Thessaloniki",
+      "titleNl": "Reistips met huisdier voor Thessaloniki",
       "introDe": "Thessaloniki ist eine der wirklich hundefreundlichsten Städte Griechenlands, mit einer Kultur, die Haustiere in Cafés, Restaurants und öffentlichen Räumen willkommen heißt. Das griechische Recht zu Haustierreisen ist für EU-Besucher relativ unkompliziert: ein gültiger EU-Heimtierausweis, ein Mikrochip und eine aktuelle Tollwutimpfung sind erforderlich. Ein wichtiger lokaler Hinweis: Thessaloniki hat eine bedeutende Population streunender Hunde, die meisten sind von der Gemeinde geimpft und mit Ohrmarke versehen, und sie sind im Allgemeinen freundlich, halten Sie Ihren Hund jedoch in Gebieten, in denen sich Streuner versammeln, angeleint, um unerwünschte Konfrontationen zu vermeiden.",
-      "faqsDe": []
+      "introNl": "Thessaloniki is een van de meest oprecht hondvriendelijke steden van Griekenland, met een cultuur die huisdieren verwelkomt in cafés, restaurants en openbare ruimtes. De Griekse wetgeving voor reizen met huisdier is relatief eenvoudig voor EU-bezoekers: een geldig EU-huisdierenpaspoort, microchip en actuele rabiësvaccinatie zijn vereist. Een belangrijke lokale opmerking: Thessaloniki heeft een aanzienlijke populatie zwerfhonden, de meeste zijn gevaccineerd en oormerken door de gemeente, en ze zijn over het algemeen vriendelijk, maar houd je hond aan de lijn in gebieden waar zwerfhonden samenkomen om ongewenste confrontaties te vermijden.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Thessaloniki",
@@ -547,8 +613,11 @@
           "petPolicyPt": "Cães bem-vindos nos jardins e no passeio; sem cães no interior do museu",
           "tipPt": "O passeio ao fim do dia, daqui para oeste pela marginal até à Praça Aristotelous (cerca de 20 minutos), é a melhor introdução a Salonica que pode dar tanto a um visitante como a um cão",
           "descriptionDe": "Der Weiße Turm ist das Symbol Thessalonikis, ein osmanischer Rundturm aus dem 16. Jahrhundert an der Promenade, das meistfotografierte Wahrzeichen der Stadt. Hunde sind in den umliegenden öffentlichen Gärten und auf der Uferpromenade willkommen. Das Innenmuseum (7 Stockwerke, 8 EUR Eintritt) erlaubt keine Hunde, aber das Äußere und die Promenade darum herum eignen sich hervorragend für einen Spaziergang mit Ihrem Hund vor der Kulisse des Turms.",
+          "descriptionNl": "De Witte Toren is het symbool van Thessaloniki, een 16e-eeuwse Ottomaanse ronde toren aan de kust die het meest gefotografeerde herkenningspunt van de stad is. Honden zijn welkom in de omliggende openbare tuinen en de boulevard aan de kust. Het binnenmuseum (7 verdiepingen, €8 entree) staat geen honden toe, maar het exterieur en de promenade eromheen zijn perfect voor een wandeling met je hond met de toren als achtergrond.",
           "petPolicyDe": "Hunde in Gärten und auf der Promenade willkommen; keine Hunde im Museum",
-          "tipDe": "Der abendliche Spaziergang von hier westwärts entlang der Promenade zur Aristotelous-Platz (etwa 20 Minuten) ist die beste Einführung in Thessaloniki, die Sie einem Besucher und Hund gleichermaßen bieten können"
+          "petPolicyNl": "Honden welkom in tuinen en op de promenade; geen honden in het museum",
+          "tipDe": "Der abendliche Spaziergang von hier westwärts entlang der Promenade zur Aristotelous-Platz (etwa 20 Minuten) ist die beste Einführung in Thessaloniki, die Sie einem Besucher und Hund gleichermaßen bieten können",
+          "tipNl": "De avondwandeling van hier westwaarts langs de kust naar het Aristotelousplein (ongeveer 20 minuten) is de beste kennismaking met Thessaloniki die je zowel een bezoeker als een hond kunt geven"
         },
         {
           "name": "Arch of Galerius & Rotunda",
@@ -570,8 +639,11 @@
           "petPolicyPt": "Cães com trela bem-vindos na praça envolvente",
           "tipPt": "Os cafés e bares que ladeiam a praça de Kamara acolhem quase todos os cães nos seus lugares exteriores. O fim do dia é a melhor altura para visitar, quando os habitantes enchem a praça",
           "descriptionDe": "Der Galeriusbogen (Kamara) und die angrenzende Rotunda sind zwei bemerkenswerte römische Denkmäler im Herzen Thessalonikis, erbaut um 300 n. Chr. Der umliegende Platz ist autofrei und für angeleinte Hunde völlig offen. Das Gebiet Kamara ist einer der lebendigsten Freiluftorte Thessalonikis, besonders abends, wenn sich Einheimische rund um den Bogen versammeln. Ein völlig kostenloser Spaziergang unter freiem Himmel durch 1.700 Jahre Geschichte.",
+          "descriptionNl": "De Boog van Galerius (Kamara) en de aangrenzende Rotunda zijn twee opmerkelijke Romeinse monumenten in het hart van Thessaloniki, gebouwd rond 300 na Christus. Het omliggende plein is autovrij en volledig open voor honden aan de lijn. Het Kamara-gebied is een van de levendigste buitenruimtes van Thessaloniki, vooral 's avonds wanneer locals zich rond de boog verzamelen. Een volledig gratis wandeling in de open lucht door 1.700 jaar geschiedenis.",
           "petPolicyDe": "Angeleinte Hunde auf dem umliegenden Platz willkommen",
-          "tipDe": "Die Cafés und Bars rund um den Platz Kamara heißen Hunde auf ihren Außensitzplätzen fast alle willkommen. Der Abend ist die beste Zeit für einen Besuch, wenn Einheimische den Platz füllen"
+          "petPolicyNl": "Honden aan de lijn welkom op het omliggende plein",
+          "tipDe": "Die Cafés und Bars rund um den Platz Kamara heißen Hunde auf ihren Außensitzplätzen fast alle willkommen. Der Abend ist die beste Zeit für einen Besuch, wenn Einheimische den Platz füllen",
+          "tipNl": "De cafés en bars rond het Kamaraplein verwelkomen bijna allemaal honden op hun buitenzitplaatsen. De avond is de beste tijd om te bezoeken, wanneer locals het plein vullen"
         },
         {
           "name": "Byzantine City Walls",
@@ -593,15 +665,21 @@
           "petPolicyPt": "Cães com trela bem-vindos em todo o percurso da muralha",
           "tipPt": "Comece na fortaleza de Eptapyrgio, na ponta norte, e siga para sul, pois as vistas melhoram à medida que desce. O início da manhã é a hora mais sossegada e fresca",
           "descriptionDe": "Thessalonikis byzantinische Stadtmauern aus dem 4. Jahrhundert gehören zu den besterhaltenen Europas und erstrecken sich über mehrere Kilometer entlang des Hügels von Ano Poli. Der Spaziergang entlang der Mauern von der Festung Eptapyrgio (Heptapyrgion) südwärts bietet Panoramablicke über die Stadt bis zum Thermaischen Golf und an klaren Tagen bis zum Olymp. Angeleinte Hunde sind überall willkommen. Dies ist Thessalonikis schönste und meist unterschätzte Wanderroute.",
+          "descriptionNl": "Thessaloniki's 4e-eeuwse Byzantijnse stadsmuren behoren tot de best bewaarde van Europa, en strekken zich uit over meerdere kilometers langs de heuvel van Ano Poli. De wandeling langs de muren vanaf het fort Eptapyrgio (Heptapyrgion) zuidwaarts biedt panoramisch uitzicht over de stad tot aan de Thermaïsche Golf en, op heldere dagen, tot aan de Olympus. Honden aan de lijn zijn overal welkom. Dit is Thessaloniki's mooiste en meest onderschatte wandelroute.",
           "petPolicyDe": "Angeleinte Hunde auf der gesamten Mauerwanderung willkommen",
-          "tipDe": "Starten Sie an der Festung Eptapyrgio im nördlichen Teil und gehen Sie südwärts, die Aussicht wird beim Abstieg immer besser. Früh morgens ist es am ruhigsten und kühlsten"
+          "petPolicyNl": "Honden aan de lijn welkom op de hele muurwandeling",
+          "tipDe": "Starten Sie an der Festung Eptapyrgio im nördlichen Teil und gehen Sie südwärts, die Aussicht wird beim Abstieg immer besser. Früh morgens ist es am ruhigsten und kühlsten",
+          "tipNl": "Begin bij het fort Eptapyrgio aan de noordelijke punt en loop zuidwaarts, het uitzicht verbetert naarmate je afdaalt. Vroeg in de ochtend is het rustigst en koelst"
         }
       ],
       "titlePt": "Atrações Pet-Friendly em Salonica",
       "introPt": "Salonica é excecionalmente rica em monumentos ao ar livre e espaços públicos que acolhem cães com trela. As muralhas bizantinas, o arco de Galério, a Rotunda e a Torre Branca situam-se todos em zonas públicas abertas que pode explorar livremente com o seu cão. Os museus interiores e as igrejas estão vedados a animais, mas, dada a extraordinária herança ao ar livre da cidade, dois mil anos de camadas visíveis de uma única esquina, a maioria dos visitantes acha a experiência exterior mais do que suficiente.",
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Thessaloniki",
+      "titleNl": "Huisdiervriendelijke attracties in Thessaloniki",
       "introDe": "Thessaloniki ist außergewöhnlich reich an Freiluftdenkmälern und öffentlichen Räumen, die angeleinte Hunde willkommen heißen. Die byzantinischen Stadtmauern, der Galeriusbogen, die Rotunda und der Weiße Turm liegen alle in offenen öffentlichen Bereichen, die Sie frei mit Ihrem Hund erkunden können. Innenmuseen und Kirchen sind für Haustiere tabu, aber angesichts des außergewöhnlichen Freiluft-Erbes der Stadt, zweitausend Jahre an Schichten, sichtbar von einer einzigen Straßenecke aus, empfinden die meisten Besucher das Erlebnis im Freien als mehr als ausreichend.",
-      "faqsDe": []
+      "introNl": "Thessaloniki is uitzonderlijk rijk aan buitenmonumenten en openbare ruimtes die honden aan de lijn verwelkomen. De Byzantijnse stadsmuren, de boog van Galerius, de Rotunda en de Witte Toren liggen allemaal in open openbare gebieden die je vrij met je hond kunt verkennen. Overdekte musea en kerken zijn verboden terrein voor huisdieren, maar gezien het buitengewone buitenerfgoed van de stad, tweeduizend jaar aan lagen zichtbaar vanaf één straathoek, vinden de meeste bezoekers de buitenervaring meer dan voldoende.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "petsitting": {
       "titleEn": "Pet-Sitting Services in Thessaloniki",
@@ -630,8 +708,11 @@
           "petPolicyPt": "Cães e gatos, todos os tamanhos",
           "tipPt": "Reserve com pelo menos uma semana de antecedência se visitar no verão. Salonica é um destino turístico popular e a disponibilidade de cuidadores experientes esgota depressa",
           "descriptionDe": "Rover ist der größte Marktplatz für Haustierbetreuung in Griechenland, mit verifizierten und versicherten Betreuern in Thessaloniki, die Hundepension, Hausbesuche, Gassigehen und Tagesbetreuung anbieten. Alle Buchungen sind durch die Versicherungspolice von Rover abgedeckt, und die Plattform bietet rund um die Uhr Kundensupport.",
+          "descriptionNl": "Rover is de grootste huisdierenoppasmarktplaats van Griekenland, met geverifieerde en verzekerde oppassers in Thessaloniki die hondenpension, huisbezoeken, hondenuitlaatservice en dagopvang aanbieden. Alle boekingen zijn gedekt door de verzekeringspolis van Rover en het platform biedt 24/7 klantenservice.",
           "petPolicyDe": "Hunde und Katzen, alle Größen",
-          "tipDe": "Buchen Sie bei einem Sommerbesuch mindestens eine Woche im Voraus. Thessaloniki ist ein beliebtes Reiseziel, und die Verfügbarkeit erfahrener Betreuer sinkt schnell"
+          "petPolicyNl": "Honden en katten, alle maten",
+          "tipDe": "Buchen Sie bei einem Sommerbesuch mindestens eine Woche im Voraus. Thessaloniki ist ein beliebtes Reiseziel, und die Verfügbarkeit erfahrener Betreuer sinkt schnell",
+          "tipNl": "Boek minstens een week van tevoren als je in de zomer op bezoek komt. Thessaloniki is een populaire toeristenbestemming en de beschikbaarheid van ervaren oppassers daalt snel"
         },
         {
           "name": "Pawshake",
@@ -652,8 +733,11 @@
           "petPolicyPt": "Cães e gatos",
           "tipPt": "A sessão de conhecimento prévio é gratuita, use-a sempre. Os cuidadores gregos são tipicamente muito carinhosos com os animais e uma boa apresentação faz toda a diferença",
           "descriptionDe": "Pawshake verbindet Haustierbesitzer mit hausbasierten lokalen Betreuern in ganz Thessaloniki und der Region Thessaloniki. Jede Buchung beinhaltet eine Versicherung und ein Kennenlern-Treffen, bevor Sie bestätigen. Die Plattform verfügt über eine starke Gemeinschaft lokaler Betreuer und ist bei Expats und langjährigen Bewohnern der Stadt beliebt.",
+          "descriptionNl": "Pawshake verbindt huisdierenbaasjes met lokale oppassers thuis in heel Thessaloniki en de regio Thessaloniki. Elke boeking omvat een verzekering en een kennismakingssessie voordat je bevestigt. Het platform heeft een sterke gemeenschap van lokale oppassers en is populair bij expats en langdurige bewoners van de stad.",
           "petPolicyDe": "Hunde und Katzen",
-          "tipDe": "Das Kennenlern-Treffen ist kostenlos, nutzen Sie es immer. Griechische Betreuer sind typischerweise sehr herzlich zu Tieren, und ein gutes Kennenlernen macht einen großen Unterschied"
+          "petPolicyNl": "Honden en katten",
+          "tipDe": "Das Kennenlern-Treffen ist kostenlos, nutzen Sie es immer. Griechische Betreuer sind typischerweise sehr herzlich zu Tieren, und ein gutes Kennenlernen macht einen großen Unterschied",
+          "tipNl": "De kennismaking is gratis, gebruik hem altijd. Griekse oppassers zijn doorgaans erg warm met dieren en een goede kennismaking maakt een groot verschil"
         },
         {
           "name": "PetBacker",
@@ -674,15 +758,21 @@
           "petPolicyPt": "Cães e gatos",
           "tipPt": "Boa para reservas de última hora. Filtre por 'home boarding' para encontrar cuidadores que recebem os cães em casa própria, em vez do quarto de hotel",
           "descriptionDe": "PetBacker ist eine internationale Plattform für Haustierpflege mit mehreren registrierten Betreuern in Thessaloniki. Sie bietet Hundepension, Katzenpension, Hausbesuche, Gassigehen und Tagesbetreuung. Alle Betreuer werden bewertet, und die Plattform beinhaltet einen Versicherungsschutz für Buchungen. Eine gute Option für kurzfristige Buchungen dank ihres breiteren Netzwerks.",
+          "descriptionNl": "PetBacker is een internationaal huisdierenzorgplatform met meerdere geregistreerde oppassers in Thessaloniki. Het biedt hondenpension, kattenpension, huisbezoeken, hondenuitlaatservice en dagopvang. Alle oppassers worden beoordeeld en het platform omvat verzekeringsdekking voor boekingen. Een goede optie voor last-minute boekingen gezien het bredere netwerk.",
           "petPolicyDe": "Hunde und Katzen",
-          "tipDe": "Gut für kurzfristige Buchungen. Filtern Sie nach 'home boarding', um Betreuer zu finden, die Hunde bei sich zu Hause aufnehmen, statt in Ihrem Hotelzimmer"
+          "petPolicyNl": "Honden en katten",
+          "tipDe": "Gut für kurzfristige Buchungen. Filtern Sie nach 'home boarding', um Betreuer zu finden, die Hunde bei sich zu Hause aufnehmen, statt in Ihrem Hotelzimmer",
+          "tipNl": "Goed voor last-minute boekingen. Filter op 'home boarding' om oppassers te vinden die honden bij hen thuis opvangen in plaats van in je hotelkamer"
         }
       ],
       "titlePt": "Serviços de Pet-Sitting em Salonica",
       "introPt": "As plataformas de pet-sitting operam em Salonica e por toda a Grécia, tornando fácil encontrar um cuidador local para uma tarde ou uma estadia mais longa. A Rover, a Pawshake e a PetBacker têm cuidadores registados na zona. Para quem viaja em visita, reservar um cuidador local de confiança por uma destas plataformas é a forma mais prática de explorar os museus ou as igrejas bizantinas da cidade, que não admitem animais, sem deixar o seu cão sozinho no quarto de hotel.",
       "titleDe": "Haustierbetreuungsdienste in Thessaloniki",
+      "titleNl": "Huisdierenoppasdiensten in Thessaloniki",
       "introDe": "Plattformen für Haustierbetreuung sind in Thessaloniki und ganz Griechenland aktiv, sodass es leicht ist, einen lokalen Betreuer für einen Nachmittag oder einen längeren Aufenthalt zu finden. Rover, Pawshake und PetBacker haben alle registrierte Betreuer in der Gegend. Für Reisende ist die Buchung eines vertrauenswürdigen lokalen Betreuers über eine dieser Plattformen die praktischste Möglichkeit, die Museen oder byzantinischen Kirchen der Stadt zu erkunden, die keine Haustiere zulassen, ohne den Hund allein im Hotelzimmer zu lassen.",
-      "faqsDe": []
+      "introNl": "Huisdierenoppasplatforms zijn actief in Thessaloniki en heel Griekenland, waardoor het makkelijk is een lokale zorgverlener te vinden voor een middag of een langer verblijf. Rover, Pawshake en PetBacker hebben allemaal geregistreerde oppassers in de omgeving. Voor bezoekende reizigers is het boeken van een vertrouwde lokale oppas via een van deze platforms de praktischste manier om de musea of Byzantijnse kerken van de stad te verkennen, die geen huisdieren toelaten, zonder je hond alleen in een hotelkamer achter te laten.",
+      "faqsDe": [],
+      "faqsNl": []
     }
   }
 }

@@ -39,9 +39,13 @@
           "mustTryPt": "Uma stout Murphy's tirada à boa maneira de Cork, devagar.",
           "tipPt": "As sessões começam por volta das 21:30 na maioria das noites, chegue mais cedo com o cão para aproveitar o snug mais sossegado.",
           "descriptionDe": "Ikonischer traditioneller Pub in Cork mit allabendlicher Live-Trad-Musik, Hunde willkommen im holzvertäfelten Séparée im hinteren Bereich.",
+          "descriptionNl": "Iconische traditionele pub in Cork met elke avond live tradmuziek, honden welkom in het houten séparé achterin.",
           "petPolicyDe": "Angeleinte Hunde im Séparée und an den Außentischen auf der Straße willkommen; nicht in der Hauptbar während der Musiksessions.",
+          "petPolicyNl": "Aangelijnde honden welkom in het séparé en aan de buitentafels op straat; niet in de hoofdbar tijdens muzieksessies.",
           "mustTryDe": "Murphy's Stout, gezapft auf die richtige, langsame Cork-Art.",
-          "tipDe": "Die Sessions beginnen meist gegen 21:30 Uhr, kommen Sie mit dem Hund früher für eine ruhigere Zeit im Séparée."
+          "mustTryNl": "Murphy's stout getapt op de juiste, langzame Cork-manier.",
+          "tipDe": "Die Sessions beginnen meist gegen 21:30 Uhr, kommen Sie mit dem Hund früher für eine ruhigere Zeit im Séparée.",
+          "tipNl": "De sessies beginnen de meeste avonden rond 21:30 uur, kom eerder met je hond voor een rustiger moment in het séparé."
         },
         {
           "name": "The Franciscan Well Brewpub",
@@ -69,9 +73,13 @@
           "mustTryPt": "A cerveja Rebel Red produzida no local, acompanhada de uma pizza no forno a lenha.",
           "tipPt": "Pizza à sexta-feira a partir das 17:00, reserve o jardim coberto com antecedência no inverno.",
           "descriptionDe": "Craft-Brauerei mit großem überdachtem Biergarten auf dem Gelände eines Franziskanerklosters aus dem 13. Jahrhundert, angeleinte Hunde überall willkommen.",
+          "descriptionNl": "Craft-brouwerij met een grote overdekte biertuin op het terrein van een 13e-eeuws Franciscaner klooster, aangelijnde honden overal welkom.",
           "petPolicyDe": "Angeleinte Hunde im Biergarten und im Innenraum der Ausschank willkommen; Wassernäpfe werden bereitgestellt.",
+          "petPolicyNl": "Aangelijnde honden welkom in de biertuin en de tapruimte binnen; waterbakjes aanwezig.",
           "mustTryDe": "Vor Ort gebrautes Rebel-Red-Ale, kombiniert mit einer holzofengebackenen Pizza.",
-          "tipDe": "Freitags ab 17:00 Uhr Pizza-Tag, den überdachten Garten im Winter im Voraus buchen."
+          "mustTryNl": "Rebel Red ale, ter plekke gebrouwen, gecombineerd met een pizza uit de houtoven.",
+          "tipDe": "Freitags ab 17:00 Uhr Pizza-Tag, den überdachten Garten im Winter im Voraus buchen.",
+          "tipNl": "Pizzavrijdag vanaf 17:00 uur, boek de overdekte tuin 's winters van tevoren."
         },
         {
           "name": "The Cornstore Cork",
@@ -99,9 +107,13 @@
           "mustTryPt": "Bife Hereford curado a seco com molho de pimenta cultivada em Cork.",
           "tipPt": "A esplanada exterior fecha às 21:00; reserve uma mesa abrigada, a brisa do rio em Cork arrefece depois de escurecer.",
           "descriptionDe": "Steakhouse und Meeresfrüchte-Grill in einem restaurierten Kornspeicher aus dem 19. Jahrhundert, mit Terrasse am Fluss mit Blick auf den Lee.",
+          "descriptionNl": "Steakhouse en visgrill in een gerestaureerd 19e-eeuws korenpakhuis, met een terras aan de rivier met uitzicht op de Lee.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse am Fluss willkommen; nicht in den Hauptspeiseräumen.",
+          "petPolicyNl": "Aangelijnde honden welkom op het buitenterras aan de rivier; niet binnen in de hoofdeetzalen.",
           "mustTryDe": "Trocken gereiftes Hereford-Steak mit in Cork angebauter Pfeffersauce.",
-          "tipDe": "Die Außenterrasse schließt um 21:00 Uhr; reservieren Sie einen geschützten Tisch, die Flussbrise in Cork wird nach Einbruch der Dunkelheit kühl."
+          "mustTryNl": "Dry-aged Hereford-steak met pepersaus van lokaal geteelde peperkorrels uit Cork.",
+          "tipDe": "Die Außenterrasse schließt um 21:00 Uhr; reservieren Sie einen geschützten Tisch, die Flussbrise in Cork wird nach Einbruch der Dunkelheit kühl.",
+          "tipNl": "Het buitenterras sluit om 21:00 uur; reserveer een beschutte tafel, de rivierbries in Cork wordt na donker koud."
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Cork",
+      "titleNl": "Hondvriendelijke restaurants in Cork",
       "introDe": "Corks kompaktes Stadtzentrum bietet eine bekanntermaßen kulinarisch geprägte Szene rund um den English Market, mit Terrassen am Fluss, Pub-Gärten und Craft-Beer-Hallen, in denen Hunde willkommen sind. Die meisten Orte sind draußen nur mit Leine erlaubt, aber mehrere traditionelle Pubs lassen wohlerzogene Hunde in ihren hölzernen Séparées zu.",
+      "introNl": "Het compacte centrum van Cork biedt een beroemd foodgerichte scene rond de English Market, met terrassen aan de rivier, pubtuinen en craft-bierhallen die honden verwelkomen. De meeste plekken zijn buiten alleen toegankelijk aan de lijn, maar verschillende traditionele pubs laten goed opgevoede honden toe in hun houten séparés.",
       "faqsDe": [
         {
           "question": "Sind Hunde auf dem English Market erlaubt?",
@@ -196,6 +210,20 @@
         {
           "question": "Berechnen Restaurants in Cork eine Haustiergebühr?",
           "answer": "Nein, es gibt keine irische Tradition von Haustiergebühren in Restaurants. Cafés und Pub-Gärten akzeptieren angeleinte Hunde standardmäßig, ohne Aufpreis."
+        }
+      ],
+      "faqsNl": [
+        {
+          "question": "Zijn honden toegestaan op de English Market?",
+          "answer": "Nee, de overdekte Victoriaanse voedselmarkt van Cork staat honden binnen niet toe om hygiënische redenen. Bind je hond buiten vast op Princes Street."
+        },
+        {
+          "question": "Welke pubs in Cork zijn het meest betrouwbaar hondvriendelijk?",
+          "answer": "Sin É (Coburg Street), Franciscan Well (North Mall), The Long Valley (Winthrop Street) en An Spailpín Fánach (South Main Street) verwelkomen allemaal aangelijnde honden in hun séparés of biertuinen."
+        },
+        {
+          "question": "Berekenen restaurants in Cork een huisdiertoeslag?",
+          "answer": "Nee, er is geen Ierse traditie van huisdiertoeslagen in restaurants. Cafés en pubtuinen accepteren aangelijnde honden standaard, zonder toeslag."
         }
       ]
     },
@@ -227,8 +255,11 @@
           "offLeashAreaPt": "Trela obrigatória em toda a área, com caixotes e sacos disponíveis em cada entrada.",
           "tipPt": "Atravesse a ponte pedonal Daly's do parque até ao passeio do Mardyke para um circuito à beira-rio de 3 km.",
           "descriptionDe": "Corks Vorzeige-Park aus der Edwardianischen Zeit (5 Hektar) am westlichen Rand des Stadtzentrums, mit dem River Lee, dem Cork Public Museum, Springbrunnen und Rosengärten.",
+          "descriptionNl": "Corks vlaggenschippark uit het Edwardiaanse tijdperk (5 hectare) aan de westrand van het stadscentrum, met de River Lee, het Cork Public Museum, fonteinen en rozentuinen.",
           "offLeashAreaDe": "Leinenpflicht im gesamten Park, Mülleimer und Beutel an jedem Eingang vorhanden.",
-          "tipDe": "Überqueren Sie Daly's Fußgängerbrücke vom Park zum Mardyke-Weg für eine 3 km lange Uferrunde."
+          "offLeashAreaNl": "Overal aanlijnplicht, prullenbakken en zakjes bij elke ingang aanwezig.",
+          "tipDe": "Überqueren Sie Daly's Fußgängerbrücke vom Park zum Mardyke-Weg für eine 3 km lange Uferrunde.",
+          "tipNl": "Steek de voetgangersbrug van Daly's over vanuit het park naar het Mardyke-pad voor een rondwandeling van 3 km langs de rivier."
         },
         {
           "name": "Ballincollig Regional Park",
@@ -250,8 +281,11 @@
           "offLeashAreaPt": "Zona sem trela designada ao longo do trilho da margem sul do rio; trela obrigatória junto ao parque infantil e às ruínas do moinho de pólvora.",
           "tipPt": "O autocarro 220 do centro de Cork até Ballincollig para a 5 min da entrada do parque, cães com trela gratuitos.",
           "descriptionDe": "Corks größter Park (200 Hektar) am River Lee, 8 km westlich des Zentrums, mit ausgedehnten Uferpfaden ohne Leinenpflicht und den Ruinen der Royal Gunpowder Mills.",
+          "descriptionNl": "Corks grootste park (200 hectare) langs de River Lee, 8 km ten westen van het centrum, met uitgestrekte aanlijnvrije oeverpaden en de ruïnes van de Royal Gunpowder Mills.",
           "offLeashAreaDe": "Ausgewiesene Zone ohne Leinenpflicht entlang des südlichen Uferpfads; Leinenpflicht in der Nähe des Spielplatzes und der Ruinen der Pulvermühle.",
-          "tipDe": "Bus 220 vom Stadtzentrum Cork nach Ballincollig hält 5 Minuten vom Parkeingang entfernt, angeleinte Hunde kostenlos."
+          "offLeashAreaNl": "Aangewezen aanlijnvrije zone langs het zuidelijke oeverpad; aanlijnplicht bij de speeltuin en de ruïnes van de kruitmolen.",
+          "tipDe": "Bus 220 vom Stadtzentrum Cork nach Ballincollig hält 5 Minuten vom Parkeingang entfernt, angeleinte Hunde kostenlos.",
+          "tipNl": "Bus 220 vanaf het centrum van Cork naar Ballincollig stopt 5 minuten van de parkingang, aangelijnde honden reizen gratis mee."
         },
         {
           "name": "The Lough",
@@ -273,8 +307,11 @@
           "offLeashAreaPt": "Trela obrigatória, colónia protegida de cisnes, patos e aves aquáticas.",
           "tipPt": "Não deixe os cães perseguirem os cisnes, que nidificam no ilhéu e cuja perturbação é sancionada pelas posturas municipais de Cork.",
           "descriptionDe": "Ein 5 Hektar großer Süßwassersee und Naturschutzgebiet in den südlichen Vororten, mit einem 1 km langen Rundweg, der bei Corks Hundebesitzern beliebt ist.",
+          "descriptionNl": "Een 5 hectare groot zoetwatermeer en natuurreservaat in de zuidelijke buitenwijken, met een rondwandeling van 1 km die populair is bij hondenbezitters in Cork.",
           "offLeashAreaDe": "Leinenpflicht, geschützte Schwan-, Enten- und Wasservogelkolonie.",
-          "tipDe": "Lassen Sie Hunde nicht die Schwäne jagen, sie nisten auf der kleinen Insel, und Reaktionen sind durch die Verordnungen des Cork City Council geschützt."
+          "offLeashAreaNl": "Aanlijnplicht, beschermde kolonie zwanen, eenden en watervogels.",
+          "tipDe": "Lassen Sie Hunde nicht die Schwäne jagen, sie nisten auf der kleinen Insel, und Reaktionen sind durch die Verordnungen des Cork City Council geschützt.",
+          "tipNl": "Laat honden niet achter de zwanen aan jagen, ze nestelen op het eilandje en zijn beschermd volgens de verordeningen van de Cork City Council."
         }
       ],
       "tipsEn": [
@@ -356,7 +393,9 @@
         }
       ],
       "titleDe": "Die besten Parks für Hunde in Cork",
+      "titleNl": "De beste parken voor honden in Cork",
       "introDe": "Cork ist eine der grünsten kleinen Städte Irlands, der Fitzgerald's Park liegt am westlichen Stadtrand des Zentrums, die Lee Fields ziehen sich am Fluss entlang, und der 200 Hektar große Ballincollig Regional Park bietet 8 km von der Stadt entfernt Corks größte Zone ohne Leinenpflicht.",
+      "introNl": "Cork is een van de groenste kleine steden van Ierland, Fitzgerald's Park ligt aan de westrand van het centrum, de Lee Fields lopen langs de rivier, en het 200 hectare grote Ballincollig Regional Park biedt Corks grootste aanlijnvrije zone, 8 km van de stad.",
       "faqsDe": [
         {
           "question": "Wo können Hunde in Cork ohne Leine laufen?",
@@ -369,6 +408,20 @@
         {
           "question": "Kann mein Hund im River Lee schwimmen?",
           "answer": "Schwimmen ist erlaubt, wird aber im Stadtzentrum wegen Strömungen und Wasserqualität nicht empfohlen. Wählen Sie den Abschnitt der Lee Fields oberhalb von Carrigrohane für saubereres Wasser und flachere Ufer."
+        }
+      ],
+      "faqsNl": [
+        {
+          "question": "Waar kunnen honden aanlijnvrij rennen in Cork?",
+          "answer": "Het aangewezen zuidelijke oeverpad in Ballincollig Regional Park (8 km ten westen van het centrum) is Corks enige officiële aanlijnvrije zone. In alle andere openbare parken geldt aanlijnplicht."
+        },
+        {
+          "question": "Zijn er omheinde hondenparken in Cork?",
+          "answer": "Er zijn geen volledig omheinde hondenparken binnen de stad Cork. De aanlijnvrije zone van Ballincollig Regional Park is niet omheind, houd honden onder stemcontrole."
+        },
+        {
+          "question": "Mag mijn hond zwemmen in de River Lee?",
+          "answer": "Zwemmen is toegestaan maar wordt in het centrum afgeraden vanwege stromingen en waterkwaliteit. Kies het stuk van de Lee Fields stroomopwaarts van Carrigrohane voor schoner water en ondiepere oevers."
         }
       ]
     },
@@ -396,7 +449,9 @@
           "descriptionPt": "Principal operador de autocarros de Cork, opera carreiras urbanas (série 200), serviços regionais para Cobh, Kinsale e Ballincollig, e camionetas interurbanas para Dublin e Galway.",
           "tipPt": "Os autocarros 220 (Cork–Ballincollig) e 226 (Cork–Cobh) aceitam cães com trela de forma fiável, mostre o açaime a bordo para as raças restritas na Irlanda.",
           "descriptionDe": "Corks wichtigster Busbetreiber, betreibt Stadtlinien (200er-Serie), Regionalverbindungen nach Cobh, Kinsale und Ballincollig sowie Fernbusse nach Dublin und Galway.",
-          "tipDe": "Bus 220 (Cork–Ballincollig) und 226 (Cork–Cobh) akzeptieren beide zuverlässig angeleinte Hunde, zeigen Sie den Maulkorb an Bord für in Irland eingeschränkte Rassen."
+          "descriptionNl": "Corks belangrijkste busmaatschappij, rijdt stadslijnen (200-serie), regionale verbindingen naar Cobh, Kinsale en Ballincollig, en streekbussen naar Dublin en Galway.",
+          "tipDe": "Bus 220 (Cork–Ballincollig) und 226 (Cork–Cobh) akzeptieren beide zuverlässig angeleinte Hunde, zeigen Sie den Maulkorb an Bord für in Irland eingeschränkte Rassen.",
+          "tipNl": "Bus 220 (Cork-Ballincollig) en 226 (Cork-Cobh) accepteren allebei betrouwbaar aangelijnde honden, toon aan boord een muilkorf voor rassen die in Ierland beperkt zijn."
         },
         {
           "name": "Iarnród Éireann (Cork-Kent Station)",
@@ -414,7 +469,9 @@
           "descriptionPt": "A principal estação ferroviária de Cork, que serve a linha principal Dublin-Cork (2h30) e a linha suburbana Cork-Cobh (25 min, popular para passeios de um dia com cães até à frente ribeirinha de Cobh).",
           "tipPt": "Os cães pequenos em transportadora viajam gratuitamente; os cães maiores precisam de trela e açaime e devem evitar a carruagem silenciosa dedicada.",
           "descriptionDe": "Corks Hauptbahnhof, bedient die Hauptstrecke Dublin-Cork (2 Std. 30 Min.) und die Vorortlinie Cork-Cobh (25 Min., beliebt für Hunde-Tagesausflüge zur Uferpromenade von Cobh).",
-          "tipDe": "Kleine Hunde in Transportboxen reisen kostenlos; größere Hunde brauchen Leine und Maulkorb und müssen den speziellen Ruhewagen meiden."
+          "descriptionNl": "Corks hoofdstation, bedient de hoofdlijn Dublin-Cork (2 u 30 min) en de voorstadslijn Cork-Cobh (25 min, populair voor hondendagtripjes naar de boulevard van Cobh).",
+          "tipDe": "Kleine Hunde in Transportboxen reisen kostenlos; größere Hunde brauchen Leine und Maulkorb und müssen den speziellen Ruhewagen meiden.",
+          "tipNl": "Kleine honden in een reismand reizen gratis mee; grotere honden hebben een lijn en muilkorf nodig en moeten de speciale stiltecoupé mijden."
         }
       ],
       "tipsEn": [
@@ -496,7 +553,9 @@
         }
       ],
       "titleDe": "Öffentlicher Nahverkehr mit Haustieren in Cork",
+      "titleNl": "Openbaar vervoer met huisdieren in Cork",
       "introDe": "Sowohl die Stadtbusse von Bus Éireann als auch die Züge von Iarnród Éireann akzeptieren in der gesamten Region Cork angeleinte und mit Maulkorb versehene Hunde kostenlos, nach Ermessen des Fahrers oder Schaffners. Das kompakte Stadtzentrum ist vollständig zu Fuß erreichbar.",
+      "introNl": "Zowel de stadsbussen van Bus Éireann als de treinen van Iarnród Éireann accepteren in de hele regio Cork aangelijnde en gemuilkorfde honden gratis, naar goeddunken van de chauffeur of conducteur. Het compacte stadscentrum is volledig te voet bereikbaar.",
       "faqsDe": [
         {
           "question": "Kann ich meinen Hund in einem Stadtbus in Cork mitnehmen?",
@@ -509,6 +568,20 @@
         {
           "question": "Wie komme ich vom Flughafen Cork mit meinem Hund weiter?",
           "answer": "Bus 226A fährt alle 30 Minuten vom Flughafen ins Stadtzentrum (25 Min., angeleinte Hunde kostenlos), oder buchen Sie im Voraus ein als haustierfreundlich gekennzeichnetes Free-Now-/Lynk-Taxi (20–25 €, 15 Min.)."
+        }
+      ],
+      "faqsNl": [
+        {
+          "question": "Mag mijn hond mee in een stadsbus in Cork?",
+          "answer": "Ja, Bus Éireann staat aangelijnde en gemuilkorfde honden gratis toe op alle stads- en regionale diensten, naar goeddunken van de chauffeur. Chauffeurs kunnen dit tijdens de spits weigeren als bussen vol zijn."
+        },
+        {
+          "question": "Zijn honden toegestaan in de trein Cork-Cobh?",
+          "answer": "Ja, Iarnród Éireann accepteert aangelijnde honden op de forensenlijn Cork-Cobh gratis. Kleine honden in een reismand mogen overal in de trein mee; grotere honden moeten in het portaalgedeelte blijven."
+        },
+        {
+          "question": "Hoe kom ik met mijn hond vanaf luchthaven Cork weg?",
+          "answer": "Bus 226A rijdt elke 30 minuten van de luchthaven naar het centrum (25 min, aangelijnde honden gratis), of boek van tevoren een als huisdiervriendelijk gemarkeerde Free Now/Lynk-taxi (20-25 €, 15 min)."
         }
       ]
     },
@@ -610,7 +683,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände bei Cork",
+      "titleNl": "Hondvriendelijke stranden bij Cork",
       "introDe": "Die Stadt Cork hat keinen eigenen Strand, aber der Hafen von Cork und die weitere Küste der Grafschaft Cork bieten innerhalb von 30 Autominuten einige der besten hundefreundlichen Strände Irlands, Garrettstown, Inchydoney und den Abschnitt bei Fountainstown.",
+      "introNl": "De stad Cork heeft geen eigen strand, maar de haven van Cork en de bredere kust van County Cork bieden binnen 30 minuten rijden enkele van de beste hondvriendelijke stranden van Ierland: Garrettstown, Inchydoney en het stuk bij Fountainstown.",
       "faqsDe": [
         {
           "question": "Was ist der nächstgelegene hundefreundliche Strand zur Stadt Cork?",
@@ -623,6 +698,20 @@
         {
           "question": "Können Hunde am Inchydoney Beach schwimmen?",
           "answer": "Ja, der westliche Abschnitt von Inchydoney ist ganzjährig hundefreundlich, und Hunde dürfen schwimmen. Die Atlantikbrandung kann stark sein, beaufsichtigen Sie daher kleine Hunde und bringen Sie frisches Wasser mit (keine öffentlichen Wasserhähne)."
+        }
+      ],
+      "faqsNl": [
+        {
+          "question": "Wat is het dichtstbijzijnde hondvriendelijke strand bij de stad Cork?",
+          "answer": "Fountainstown Beach (25 minuten met de auto, zuidwaarts op de R613) is het dichtstbijzijnde zandstrand waar honden het hele jaar welkom zijn, met een zomerse aanlijnplicht van 11:00 tot 19:00 uur."
+        },
+        {
+          "question": "Zijn honden 's zomers toegestaan op de stranden van de haven van Cork?",
+          "answer": "De meeste stranden bij de haven van Cork hanteren een aanlijnplicht (geen verbod) tussen 1 juni en 15 september van 11:00 tot 18:00 of 19:00 uur. Buiten die uren en data is aanlijnvrij lopen toegestaan in aangewezen zones."
+        },
+        {
+          "question": "Kunnen honden zwemmen bij Inchydoney Beach?",
+          "answer": "Ja, het westelijke gedeelte van Inchydoney is het hele jaar door hondvriendelijk en honden mogen zwemmen. De Atlantische branding kan sterk zijn, houd dus toezicht op kleine honden en neem vers water mee (geen openbare kranen)."
         }
       ]
     },
@@ -656,8 +745,11 @@
           "descriptionPt": "Um dos maiores hospitais de animais de companhia de Cork, com cobertura de urgência durante a noite, imagiologia própria (TAC, ressonância, ecografia) e serviços de encaminhamento especializado.",
           "tipPt": "Ligue com antecedência para urgências fora de horas, a equipa da enfermaria noturna confirma a capacidade e faz a triagem por telefone antes da chegada.",
           "hoursDe": "24/7-Notfalllinie; reguläre Sprechstunden Mo–Fr 08:30–19:00 Uhr, Sa 09:00–14:00 Uhr",
+          "hoursNl": "24/7 spoedlijn; reguliere consulten ma-vr 08:30-19:00 uur, za 09:00-14:00 uur",
           "descriptionDe": "Eines von Corks größten Tierkliniken für Begleittiere, mit nächtlicher Notfallversorgung, hausinterner Bildgebung (CT, MRT, Ultraschall) und fachärztlichen Überweisungsdiensten.",
-          "tipDe": "Rufen Sie bei Notfällen außerhalb der Öffnungszeiten vorher an, das Nachtpersonal bestätigt Kapazität und Triage telefonisch vor der Ankunft."
+          "descriptionNl": "Een van de grootste dierenziekenhuizen voor gezelschapsdieren in Cork, met nachtelijke spoedzorg, beeldvorming in huis (CT, MRI, echografie) en gespecialiseerde doorverwijsdiensten.",
+          "tipDe": "Rufen Sie bei Notfällen außerhalb der Öffnungszeiten vorher an, das Nachtpersonal bestätigt Kapazität und Triage telefonisch vor der Ankunft.",
+          "tipNl": "Bel van tevoren voor spoedgevallen buiten kantooruren, het nachtpersoneel bevestigt telefonisch capaciteit en triage voor aankomst."
         },
         {
           "name": "ARK Veterinary Hospital",
@@ -681,8 +773,11 @@
           "descriptionPt": "Hospital moderno de urgência e encaminhamento em Turner's Cross, no sul de Cork, com cuidados intensivos, cirurgia e capacidade para animais exóticos.",
           "tipPt": "Estacionamento gratuito no local, útil para chegadas noturnas, quando o estacionamento no centro de Cork fica condicionado.",
           "hoursDe": "24/7-Notfallversorgung; regulär Mo–Fr 09:00–18:30 Uhr, Sa 09:00–13:00 Uhr",
+          "hoursNl": "24/7 spoeddienst; regulier ma-vr 09:00-18:30 uur, za 09:00-13:00 uur",
           "descriptionDe": "Modernes Notfall- und Überweisungskrankenhaus in Turner's Cross im Süden Corks, mit Intensivstation, Chirurgie und Fähigkeiten für exotische Haustiere.",
-          "tipDe": "Kostenlose Parkplätze vor Ort, nützlich für nächtliche Ankünfte, wenn das Parken im Zentrum von Cork eingeschränkt ist."
+          "descriptionNl": "Modern spoed- en doorverwijsziekenhuis in Turner's Cross, zuidelijk Cork, met intensive care, chirurgie en mogelijkheden voor exotische huisdieren.",
+          "tipDe": "Kostenlose Parkplätze vor Ort, nützlich für nächtliche Ankünfte, wenn das Parken im Zentrum von Cork eingeschränkt ist.",
+          "tipNl": "Gratis parkeren ter plaatse, handig bij nachtelijke aankomst wanneer parkeren in het centrum van Cork beperkt is."
         }
       ],
       "tipsEn": [
@@ -764,7 +859,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte in Cork, Tierkliniken & Haustierpflege",
+      "titleNl": "Spoedeisende dierenartsen in Cork, dierenklinieken en huisdierenzorg",
       "introDe": "Cork verfügt über zwei 24/7-Notfall-Tierkrankenhäuser, die die Stadt und die Region Munster versorgen. Regelkliniken sind breit über die Vororte verteilt; das Register des Veterinary Council of Ireland (VCI) bestätigt englischsprachige Praxisführung für alle zugelassenen Tierärzte.",
+      "introNl": "Cork beschikt over twee 24/7-spoedziekenhuizen voor dieren die de stad en de regio Munster bedienen. Reguliere klinieken zijn breed verspreid over de buitenwijken; het register van de Veterinary Council of Ireland (VCI) bevestigt Engelstalige praktijkvoering voor alle erkende dierenartsen.",
       "faqsDe": [
         {
           "question": "Gibt es in Cork einen 24/7-Notfall-Tierarzt?",
@@ -777,6 +874,20 @@
         {
           "question": "Welche Dokumente benötigt ein Tierarzt in Cork für einen ausländischen Hund?",
           "answer": "Ihren EU-Heimtierausweis (oder ein gleichwertiges Zertifikat aus einem Drittland), den Nachweis einer gültigen Tollwutimpfung sowie den in Irland vorgeschriebenen Bandwurm-Behandlungsnachweis, verabreicht 24–120 Stunden vor der Einreise."
+        }
+      ],
+      "faqsNl": [
+        {
+          "question": "Is er een 24/7 spoedeisende dierenarts in Cork?",
+          "answer": "Ja, het Gilabbey Veterinary Hospital (021 431 2900) en het ARK Veterinary Hospital (021 496 6677) bieden allebei 24/7 spoedzorg. Bel van tevoren voor triage."
+        },
+        {
+          "question": "Moet ik in Cork op zoek naar een Engelssprekende dierenarts?",
+          "answer": "Alle Ierse dierenartsen werken standaard in het Engels, Ierland is een Engelstalig land en het VCI-register vereist Engelse taalvaardigheid van alle erkende praktijkhouders."
+        },
+        {
+          "question": "Welke documenten moet een dierenarts in Cork zien voor een buitenlandse hond?",
+          "answer": "Je Europese dierenpaspoort (of gelijkwaardig certificaat uit een derde land), bewijs van geldige rabiësvaccinatie, en het door Ierland vereiste bewijs van lintwormbehandeling, toegediend 24-120 uur voor binnenkomst."
         }
       ]
     },
@@ -871,7 +982,9 @@
         }
       ],
       "titleDe": "Praktische Reisetipps für Cork mit Haustier",
+      "titleNl": "Praktische reistips voor Cork met huisdier",
       "introDe": "Cork ist eine der hundefreundlichsten Städte Irlands, aber die irischen Einreisebestimmungen für Haustiere und einige lokale Vorschriften sollte man vorab kennen. Hier die wichtigste Checkliste für Reisen mit Ihrem Hund.",
+      "introNl": "Cork is een van de meest huisdiervriendelijke steden van Ierland, maar het is goed om vooraf de Ierse invoerregels voor huisdieren en een paar lokale verordeningen te kennen. Hier de essentiële checklist voor reizen met je hond.",
       "faqsDe": [
         {
           "question": "Welche Dokumente brauche ich, um meinen Hund vom europäischen Festland nach Cork zu bringen?",
@@ -884,6 +997,20 @@
         {
           "question": "Wo ist der nächste Notfall-Tierarzt zum Stadtzentrum von Cork?",
           "answer": "Das Gilabbey Veterinary Hospital in der Gilabbey Street liegt im Stadtzentrum und bietet 24/7-Notfallversorgung (021 431 2900). Das ARK Veterinary Hospital in Turner's Cross läuft ebenfalls 24/7 und verfügt über Parkplätze vor Ort."
+        }
+      ],
+      "faqsNl": [
+        {
+          "question": "Welke documenten heb ik nodig om mijn hond vanuit continentaal Europa mee te nemen naar Cork?",
+          "answer": "Europees dierenpaspoort, chip, geldige rabiësvaccinatie (minstens 21 dagen voor vertrek toegediend), en een lintwormbehandeling door een EU-dierenarts 24-120 uur voor aankomst in Ierland."
+        },
+        {
+          "question": "Zijn er rasverboden die ik moet kennen in Cork?",
+          "answer": "De Ierse Control of Dogs Act somt 11 beperkte rassen op (waaronder Pit Bull Terriër, Rottweiler, Dobermann, Bullmastiff), die allemaal in het openbaar een muilkorf en een korte lijn (max. 2 m) moeten dragen, en alleen personen boven de 16 jaar mogen ze uitlaten."
+        },
+        {
+          "question": "Waar is de dichtstbijzijnde spoedeisende dierenarts bij het centrum van Cork?",
+          "answer": "Het Gilabbey Veterinary Hospital aan Gilabbey Street ligt in het centrum en biedt 24/7 spoedzorg (021 431 2900). Het ARK Veterinary Hospital in Turner's Cross is ook 24/7 open en heeft parkeergelegenheid ter plaatse."
         }
       ]
     },
@@ -918,9 +1045,13 @@
           "admissionFeePt": "Recinto do castelo gratuito; visitas ao observatório 8 € por adulto (cães não admitidos nas visitas).",
           "tipPt": "Faça o Marina Walk de 5 km do centro da cidade até Blackrock, um caminho à beira-rio plano e pavimentado, popular entre quem passeia cães em Cork.",
           "descriptionDe": "Burg aus dem 16. Jahrhundert auf einer Landzunge im Hafen von Cork, heute ein astronomisches Observatorium. Das Gelände, der Damm am Fluss und die Café-Terrasse sind alle hundefreundlich.",
+          "descriptionNl": "Kasteel uit de 16e eeuw op een landtong in de haven van Cork, tegenwoordig een astronomisch observatorium. Het terrein, de dam langs de rivier en het caféterras zijn allemaal hondvriendelijk.",
           "dogPolicyDe": "Angeleinte Hunde auf dem Burggelände, dem Weg am Fluss und auf der Außenterrasse des Cafés willkommen; nicht im Inneren der Ausstellungen des Observatoriums.",
+          "dogPolicyNl": "Aangelijnde honden welkom op het kasteelterrein, het pad langs de rivier en op het buitenterras van het café; niet binnen bij de tentoonstellingen van het observatorium.",
           "admissionFeeDe": "Burggelände kostenlos; Führungen durch das Observatorium 8 € für Erwachsene (Hunde bei den Führungen nicht zugelassen).",
-          "tipDe": "Gehen Sie den 5 km langen Marina Walk vom Stadtzentrum nach Blackrock, flach, asphaltiert, ein bei Corks Hundebesitzern beliebter Uferweg."
+          "admissionFeeNl": "Kasteelterrein gratis; rondleidingen door het observatorium 8 € per volwassene (honden niet toegestaan bij de rondleidingen).",
+          "tipDe": "Gehen Sie den 5 km langen Marina Walk vom Stadtzentrum nach Blackrock, flach, asphaltiert, ein bei Corks Hundebesitzern beliebter Uferweg.",
+          "tipNl": "Wandel de 5 km lange Marina Walk van het centrum naar Blackrock, een vlak, verhard pad langs de rivier dat populair is bij hondenbezitters in Cork."
         },
         {
           "name": "Saint Fin Barre's Cathedral grounds",
@@ -945,9 +1076,13 @@
           "admissionFeePt": "Recinto gratuito; interior da catedral 6 € por adulto (cães não admitidos).",
           "tipPt": "Combine com um circuito de 1 km até ao canal sul do Lee e de volta pelo passeio do Mardyke.",
           "descriptionDe": "Neugotische Kathedrale von William Burges (1879), mit den meistfotografierten Türmen in Cork. Angeleinte Hunde sind im Kathedralbezirk und auf den umliegenden Rasenflächen willkommen.",
+          "descriptionNl": "Neogotische kathedraal van William Burges (1879), met de meest gefotografeerde torenspitsen van Cork. Aangelijnde honden zijn welkom in de kathedraalomgeving en op de omliggende grasvelden.",
           "dogPolicyDe": "Angeleinte Hunde im Außenbezirk und in den Gärten willkommen; nicht im Inneren der Kathedrale.",
+          "dogPolicyNl": "Aangelijnde honden welkom in de buitenomgeving en de tuinen; niet binnen in de kathedraal.",
           "admissionFeeDe": "Gelände kostenlos; Kathedraleninneres 6 € für Erwachsene (Hunde nicht zugelassen).",
-          "tipDe": "Verbinden Sie den Besuch mit einer 1 km langen Runde hinunter zum südlichen Arm des Lee und zurück über den Mardyke-Weg."
+          "admissionFeeNl": "Terrein gratis; interieur van de kathedraal 6 € per volwassene (honden niet toegestaan).",
+          "tipDe": "Verbinden Sie den Besuch mit einer 1 km langen Runde hinunter zum südlichen Arm des Lee und zurück über den Mardyke-Weg.",
+          "tipNl": "Combineer het bezoek met een rondwandeling van 1 km naar het zuidelijke kanaal van de Lee en terug via het Mardyke-pad."
         },
         {
           "name": "Cobh waterfront (day trip)",
@@ -972,9 +1107,13 @@
           "admissionFeePt": "Passeio gratuito; comboio Cork-Cobh ida e volta 9 € por adulto, cães gratuitos com trela.",
           "tipPt": "Caminhe para oeste ao longo do passeio até Five Foot Way para vistas sobre as falésias, vazio nas manhãs de dias úteis.",
           "descriptionDe": "Historischer Abfahrtshafen der Titanic, mit einer 2 km langen Uferpromenade, der ikonischen, bunten Häuserreihe 'Deck of Cards' und der St.-Colman's-Kathedrale darüber. 25-minütige Zugfahrt vom Bahnhof Cork-Kent.",
+          "descriptionNl": "Historische vertrekhaven van de Titanic, met een 2 km lange boulevard, de iconische, kleurrijke huizenrij 'Deck of Cards' en de St.-Colman's-kathedraal erboven. 25 minuten met de trein vanaf station Cork-Kent.",
           "dogPolicyDe": "Angeleinte Hunde auf der gesamten Uferpromenade und in den meisten Außencafés willkommen; das Cobh Heritage Centre und die Titanic-Experience-Museen lassen keine Hunde zu.",
+          "dogPolicyNl": "Aangelijnde honden welkom op de hele boulevard en de meeste buitencafés; het Cobh Heritage Centre en de Titanic Experience-musea laten geen honden toe.",
           "admissionFeeDe": "Promenade kostenlos; Zug Cork-Cobh hin und zurück 9 € für Erwachsene, Hunde an der Leine kostenlos.",
-          "tipDe": "Gehen Sie die Promenade westwärts zum Five Foot Way für Klippenblicke, an Wochentagvormittagen menschenleer."
+          "admissionFeeNl": "Boulevard gratis; trein Cork-Cobh retour 9 € per volwassene, honden reizen gratis mee aan de lijn.",
+          "tipDe": "Gehen Sie die Promenade westwärts zum Five Foot Way für Klippenblicke, an Wochentagvormittagen menschenleer.",
+          "tipNl": "Wandel westwaarts langs de boulevard naar Five Foot Way voor uitzicht op de kliffen, doordeweeks 's ochtends verlaten."
         }
       ],
       "tipsEn": [
@@ -1056,7 +1195,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Cork",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Cork",
       "introDe": "Corks kompaktes mittelalterlich-georgianisches Zentrum lässt sich mit Hund hervorragend zu Fuß erkunden. Außerhalb der Stadt heißen Blackrock Castle, die Uferpromenade von Cobh und die Klippenwege West Corks angeleinte Haustiere das ganze Jahr über willkommen.",
+      "introNl": "Het compacte middeleeuws-Georgiaanse centrum van Cork is uitstekend te voet te verkennen met een hond. Buiten de stad verwelkomen Blackrock Castle, de boulevard van Cobh en de klifpaden van West Cork het hele jaar door aangelijnde huisdieren.",
       "faqsDe": [
         {
           "question": "Kann ich mit meinem Hund den English Market besuchen?",
@@ -1069,6 +1210,20 @@
         {
           "question": "Gibt es einen hundefreundlichen Tagesausflug ab Cork?",
           "answer": "Ja, die 25-minütige Zugfahrt Cork-Cobh (angeleinte Hunde kostenlos) bringt Sie zur 2 km langen Uferpromenade von Cobh, mit Blick auf den Hafen von Cork und die ikonische, bunte Häuserreihe 'Deck of Cards'."
+        }
+      ],
+      "faqsNl": [
+        {
+          "question": "Kan ik met mijn hond de English Market bezoeken?",
+          "answer": "Nee, de overdekte Victoriaanse voedselmarkt van Cork staat honden binnen niet toe om hygiënische redenen. Buitenmarkten zoals de zaterdagmarkt op Coal Quay zijn hondvriendelijk."
+        },
+        {
+          "question": "Zijn honden toegestaan bij Blackrock Castle?",
+          "answer": "Ja, aangelijnde honden zijn welkom op het kasteelterrein, de dam langs de rivier en op het buitenterras van het café. Honden zijn niet toegestaan bij de rondleidingen door het observatorium binnen."
+        },
+        {
+          "question": "Is er een hondvriendelijk dagtripje vanuit Cork?",
+          "answer": "Ja, de trein Cork-Cobh (25 min, aangelijnde honden gratis) brengt je naar de 2 km lange boulevard van Cobh, met uitzicht op de haven van Cork en de iconische, kleurrijke huizenrij 'Deck of Cards'."
         }
       ]
     },
@@ -1103,8 +1258,11 @@
           "serviceTypePt": "Acolhimento, creche, passeio, visitas ao domicílio",
           "tipPt": "Filtre por cuidadores com acesso a jardim para cães médios e grandes, os apartamentos centrais de Cork raramente têm espaço exterior.",
           "descriptionDe": "Online-Plattform für geprüfte Haustierbetreuer und Hundeausführer in Cork, Unterbringung bei einem Gastgeber zu Hause, Besuche zu Hause oder tägliche Spaziergänge. Betreuer bewertet und versichert.",
+          "descriptionNl": "Online platform voor gecontroleerde huisdierenoppassers en hondenuitlaters in Cork, pension bij een gastgezin thuis, huisbezoeken of dagelijkse wandelingen. Oppassers beoordeeld en verzekerd.",
           "serviceTypeDe": "Unterbringung, Tagesbetreuung, Ausführen, Besuche zu Hause",
-          "tipDe": "Filtern Sie nach Betreuern mit Gartenzugang für mittelgroße und große Hunde, Corks zentrale Wohnungen haben selten Außenbereiche."
+          "serviceTypeNl": "Pension, dagopvang, uitlaten, huisbezoeken",
+          "tipDe": "Filtern Sie nach Betreuern mit Gartenzugang für mittelgroße und große Hunde, Corks zentrale Wohnungen haben selten Außenbereiche.",
+          "tipNl": "Filter op oppassers met tuintoegang voor middelgrote en grote honden, appartementen in het centrum van Cork hebben zelden buitenruimte."
         }
       ],
       "tipsEn": [
@@ -1186,7 +1344,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung und Hundeausführen in Cork",
+      "titleNl": "Huisdierenoppas en hondenuitlaten in Cork",
       "introDe": "Cork ist gut durch irlandweite Haustierpflege-Plattformen abgedeckt. Für Tagesausflüge sind mehrere lokale Hundeausführer im Stadtzentrum und in Ballincollig tätig, buchen Sie im Sommer mindestens 48 Stunden im Voraus.",
+      "introNl": "Cork wordt goed gedekt door landelijke Ierse huisdierenzorgplatforms. Voor dagtochten zijn verschillende lokale hondenuitlaters actief in het centrum en Ballincollig, boek 's zomers minstens 48 uur van tevoren.",
       "faqsDe": [
         {
           "question": "Kann ich meinen Hund an der Hotelrezeption lassen, während ich besichtige?",
@@ -1199,6 +1359,20 @@
         {
           "question": "Nehmen Hundeausführer in Cork Gruppen oder Einzelhunde?",
           "answer": "Beides, die meisten unabhängigen Anbieter in Cork (geprüft über Pawshake/Rover) bieten Einzelspaziergänge für nervöse Hunde (20–25 € / 30 Min.) und kleine Gruppenspaziergänge (max. 4 Hunde, 15–18 € / 30 Min.) für gesellige Tiere an."
+        }
+      ],
+      "faqsNl": [
+        {
+          "question": "Kan ik mijn hond bij de hotelreceptie achterlaten terwijl ik ga sightseeën?",
+          "answer": "Nee, hotels in Cork bieden geen kennel of hondendagopvang aan. Gebruik Pawshake of Rover om dezelfde dag nog een bezoek op de kamer (20-30 € per bezoek) of een dagoppas te vinden."
+        },
+        {
+          "question": "Zijn er hondendagopvangvoorzieningen in Cork?",
+          "answer": "Ja, Doggy Day Care Cork (Ballincollig) en Cork Pet Hotel (Carrigaline) bieden dagopvang vanaf 25 €/dag met tuinuitloop. Beide vereisen vooraf boeken en een vaccinatiecontrole."
+        },
+        {
+          "question": "Nemen hondenuitlaters in Cork groepen of individuele honden mee?",
+          "answer": "Allebei, de meeste zelfstandige uitlaters in Cork (geverifieerd via Pawshake/Rover) bieden solowandelingen voor nerveuze honden (20-25 € / 30 min) en kleine groepswandelingen (max. 4 honden, 15-18 € / 30 min) voor sociale dieren."
         }
       ]
     }

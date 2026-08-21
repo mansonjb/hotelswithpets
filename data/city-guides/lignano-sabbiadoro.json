@@ -39,9 +39,13 @@
           "mustTryPt": "Bebidas frescas, panini, gelado",
           "tipPt": "Leve o comprovativo de vacinação e do microchip. A praia para cães verifica os documentos à entrada",
           "descriptionDe": "Die Snackbar und der Kiosk auf Lignanos ausgewiesenem Hundestrand sind der einzige Ort in der Stadt, der ganz auf das gemeinsame Essen mit dem Hund an Ihrer Seite ausgelegt ist. Sie können ein Sandwich, ein Getränk oder ein Eis genießen, ohne Ihren eingezäunten Strandplatz zu verlassen, während Frischwassernäpfe und Hundeduschen nur wenige Schritte entfernt sind. Es ist die einfachste Lösung für eine Mahlzeit mit Hund an einem ganzen Strandtag, ganz ohne Kompromisse.",
+          "descriptionNl": "De snackbar en kiosk op Lignano's aangewezen hondenstrand zijn de enige plek in de stad die volledig is ingericht om samen te eten met je hond naast je. Je kunt een broodje, een drankje of een ijsje nemen zonder je omheinde strandplek te verlaten, terwijl schone waterbakjes en hondendouches op een paar stappen afstand liggen. Het is de makkelijkste oplossing voor een maaltijd met hond tijdens een hele stranddag, zonder compromissen.",
           "petPolicyDe": "Hunde überall willkommen (es ist ein Hundestrand)",
+          "petPolicyNl": "Honden overal welkom (het is een hondenstrand)",
           "mustTryDe": "Kalte Getränke, Panini, Gelato",
-          "tipDe": "Bringen Sie den Impfnachweis und den Mikrochip-Nachweis mit. Der Hundestrand kontrolliert die Unterlagen am Eingang"
+          "mustTryNl": "Koude drankjes, panini, gelato",
+          "tipDe": "Bringen Sie den Impfnachweis und den Mikrochip-Nachweis mit. Der Hundestrand kontrolliert die Unterlagen am Eingang",
+          "tipNl": "Neem het vaccinatiebewijs en het microchipbewijs mee. Het hondenstrand controleert de documenten bij de ingang"
         },
         {
           "name": "Pizzeria Alisei",
@@ -69,9 +73,13 @@
           "mustTryPt": "Pizza em forno a lenha, fritto misto local",
           "tipPt": "Peça uma mesa debaixo dos pinheiros. A sombra mantém o seu cão confortável no calor do verão",
           "descriptionDe": "Eine langjährige Pizzeria am Corso degli Alisei im Herzen des Pinienwalds Pineta, die in italienischen Hundereise-Verzeichnissen als hundefreundlich für ihre Außentische gelistet ist. Die schattige Lage im Pinienwald hält die Terrasse an heißen Adria-Nachmittagen kühler als die offene Uferpromenade, was beim Essen mit Hund einen echten Unterschied macht. Ein praktischer Stopp für ein Familienabendessen in Gehweite des Hemingway Parks.",
+          "descriptionNl": "Een al lang bestaande pizzeria aan de Corso degli Alisei in het hart van het pijnbomenbos Pineta, vermeld in Italiaanse hondenreisgidsen als hondvriendelijk vanwege de buitentafels. De schaduwrijke ligging in het pijnbomenbos houdt het terras koeler dan de open boulevard tijdens hete Adriatische middagen, wat een echt verschil maakt als je met hond eet. Een praktische stop voor een gezinsdiner op loopafstand van het Hemingway Park.",
           "petPolicyDe": "Hunde auf der Außenterrasse willkommen",
+          "petPolicyNl": "Honden welkom op het buitenterras",
           "mustTryDe": "Pizza aus dem Holzofen, lokaler Fritto Misto",
-          "tipDe": "Bitten Sie um einen Tisch unter den Pinien. Der Schatten hält Ihren Hund auch in der Sommerhitze angenehm kühl"
+          "mustTryNl": "Pizza uit de houtoven, lokale fritto misto",
+          "tipDe": "Bitten Sie um einen Tisch unter den Pinien. Der Schatten hält Ihren Hund auch in der Sommerhitze angenehm kühl",
+          "tipNl": "Vraag om een tafel onder de pijnbomen. De schaduw houdt je hond ook in de zomerhitte aangenaam koel"
         },
         {
           "name": "La Spiaggia di Duke Beach Bar",
@@ -99,9 +107,13 @@
           "mustTryPt": "Spritz, focaccia, fruta fresca da época",
           "tipPt": "Os cães têm de manter uma trela fixa no chapéu de sol e ter um açaime disponível a pedido, mesmo no bar",
           "descriptionDe": "Die Gastro-Ecke des Hundestrands Duke in Lignano Riviera lässt Sie essen und trinken, ohne sich je von Ihrem Hund zu trennen, der sich an einem schattigen, eingezäunten Platz ausruhen oder zwischen den Gängen im Meer abkühlen kann. Es handelt sich eher um eine lockere Strandbar-Formel als um ein vollwertiges Restaurant, gemacht für lange Tage an der Lagune mit Hund. Der Zugang erfolgt über die Fußgängerbrücke bei Bagno 6 neben dem Camping Pino Mare.",
+          "descriptionNl": "Het gastronomische hoekje van het hondenstrand Duke in Lignano Riviera laat je eten en drinken zonder ooit gescheiden te zijn van je hond, die kan uitrusten op een schaduwrijke, omheinde plek of tussen de gangen door afkoelen in zee. Het is meer een losse strandbarformule dan een volwaardig restaurant, gemaakt voor lange dagen aan de lagune met hond. De toegang is via de voetgangersbrug bij Bagno 6 naast Camping Pino Mare.",
           "petPolicyDe": "Hunde überall willkommen (es ist ein Hundestrand)",
+          "petPolicyNl": "Honden overal welkom (het is een hondenstrand)",
           "mustTryDe": "Spritz, Focaccia, frisches Saisonobst",
-          "tipDe": "Hunde müssen am Sonnenschirm an einer festen Leine bleiben und auf Anfrage einen Maulkorb bereithalten, auch an der Bar"
+          "mustTryNl": "Spritz, focaccia, vers seizoensfruit",
+          "tipDe": "Hunde müssen am Sonnenschirm an einer festen Leine bleiben und auf Anfrage einen Maulkorb bereithalten, auch an der Bar",
+          "tipNl": "Honden moeten aan een vaste lijn blijven bij de parasol en op verzoek een muilkorf bij de hand hebben, ook aan de bar"
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Lignano Sabbiadoro",
+      "titleNl": "Huisdiervriendelijke restaurants in Lignano Sabbiadoro",
       "introDe": "Lignano Sabbiadoro ist ein entspanntes Familienresort an der Adria, in dem Hunde ganz selbstverständlich zum langen Strandurlaub gehören, und viele Terrassen direkt am Meer und im Pinienwald heißen einen wohlerzogenen Hund willkommen. Die hundefreundliche Kultur ist im Sommer am stärksten ausgeprägt, wenn sich die Außentische am Lungomare und in den Alleen der Pineta füllen und ein Wassernapf selten ein Problem ist. Im Folgenden finden Sie drei zuverlässig hundefreundliche Orte, darunter die Snackbar direkt am Hundestrand.",
+      "introNl": "Lignano Sabbiadoro is een ontspannen familieresort aan de Adriatische kust, waar honden vanzelfsprekend deel uitmaken van de lange strandvakantie, en veel terrassen direct aan zee en in het pijnbomenbos verwelkomen een welopgevoede hond. De hondvriendelijke cultuur is het sterkst 's zomers, wanneer de buitentafels aan de Lungomare en in de lanen van de Pineta vollopen en een waterbakje zelden een probleem is. Hieronder staan drie betrouwbaar hondvriendelijke plekken, waaronder de snackbar direct op het hondenstrand.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Lignano Sabbiadoro erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Stellen die Restaurants in Lignano Wassernäpfe für Hunde bereit?",
           "a": "Viele hundefreundliche Terrassen bringen auf Anfrage einen Napf, und die Hundestrände bieten standardmäßig Frischwassernäpfe und Duschen. In der Sommerhitze sollten Sie zur Sicherheit einen eigenen faltbaren Napf mitbringen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Lignano Sabbiadoro?",
+          "a": "Veel buitenterrassen langs de boulevard en in Lignano Pineta accepteren welopgevoede, aangelijnde honden, vooral 's zomers. De hondenstranden (Doggy Beach, La Spiaggia di Duke) hebben eigen snackbars waar honden overal welkom zijn. Vraag bij twijfel altijd eerst na, want de regels verschillen per zaak."
+        },
+        {
+          "q": "Waar kan ik in Lignano met mijn hond direct aan het strand eten?",
+          "a": "De makkelijkste opties zijn de snackbars binnen de aangewezen hondenstranden: Doggy Beach aan de Lungomare Marin en La Spiaggia di Duke in Lignano Riviera. Bij beide kun je met je hond op een omheinde plek eten in plaats van hem buiten vast te binden."
+        },
+        {
+          "q": "Bieden restaurants in Lignano waterbakjes voor honden?",
+          "a": "Veel hondvriendelijke terrassen brengen op verzoek een bakje, en de hondenstranden bieden standaard schone waterbakjes en douches. Neem in de zomerhitte voor de zekerheid een eigen opvouwbaar bakje mee."
         }
       ]
     },
@@ -227,8 +255,11 @@
           "offLeashAreaPt": "Trela obrigatória em todo o parque. Sem zona sem trela dedicada",
           "tipPt": "Passeie de manhã cedo ou depois das 18:00. A sombra dos pinheiros mantém-no mais fresco do que a frente de mar, mas o meio-dia continua quente",
           "descriptionDe": "Lignanos bekanntester Park liegt mitten im Pinienwald Pineta zwischen Corso degli Alisei und Via Tarvisio, benannt nach Ernest Hemingway, der hier Urlaub machte. Seine schattigen Wege unter hohen Pinien sind an heißen Adria-Nachmittagen ein kühler Rückzugsort für einen angeleinten Hund, mit einer Freilichtarena und Spielplätzen für Familien. Er ist der angenehmste grüne Spaziergang im Resort während der Hochsommerhitze.",
+          "descriptionNl": "Lignano's bekendste park ligt midden in het pijnbomenbos Pineta tussen de Corso degli Alisei en de Via Tarvisio, vernoemd naar Ernest Hemingway, die hier op vakantie ging. De schaduwrijke paden onder hoge pijnbomen zijn tijdens hete Adriatische middagen een koele toevlucht voor een aangelijnde hond, met een openluchtarena en speeltuinen voor gezinnen. Het is de aangenaamste groene wandeling in het resort tijdens de hoogzomerse hitte.",
           "offLeashAreaDe": "Durchgehend Leinenpflicht. Keine ausgewiesene Freilauffläche",
-          "tipDe": "Gehen Sie früh morgens oder nach 18:00 Uhr spazieren. Der Pinienschatten hält den Park kühler als die Uferpromenade, doch mittags ist es trotzdem heiß"
+          "offLeashAreaNl": "Overal leinenplicht. Geen aangewezen losloopterrein",
+          "tipDe": "Gehen Sie früh morgens oder nach 18:00 Uhr spazieren. Der Pinienschatten hält den Park kühler als die Uferpromenade, doch mittags ist es trotzdem heiß",
+          "tipNl": "Wandel vroeg in de ochtend of na 18.00 uur. De pijnbomenschaduw houdt het park koeler dan de boulevard, maar rond het middaguur is het toch heet"
         },
         {
           "name": "Parco Junior",
@@ -250,8 +281,11 @@
           "offLeashAreaPt": "Trela obrigatória. Parque urbano, não é uma zona sem trela",
           "tipPt": "Melhor ao anoitecer, quando arrefece. Leve água, pois os relvados abertos dão pouca sombra ao meio-dia",
           "descriptionDe": "Der Parco Junior ist ein Familienpark nur einen kurzen Spaziergang vom Stadtzentrum Sabbiadoro und dem Strand entfernt, mit Rasenflächen und Spielbereichen, die sich für einen angeleinten Abendspaziergang mit Hund eignen. Er ist belebter und offener als die Pineta und funktioniert daher am besten außerhalb der Mittagssonne, wenn sich hier Familien versammeln. Praktisch, wenn Sie nahe dem Zentrum wohnen und eine schnelle grüne Runde ohne Auto möchten.",
+          "descriptionNl": "Het Parco Junior is een familiepark op een korte wandeling van het centrum van Sabbiadoro en het strand, met grasvelden en speelgebieden die geschikt zijn voor een avondwandeling met aangelijnde hond. Het is drukker en opener dan de Pineta en werkt daarom het best buiten de middagzon, wanneer gezinnen hier samenkomen. Handig als je vlak bij het centrum woont en een snel groen rondje zonder auto wilt.",
           "offLeashAreaDe": "Leinenpflicht. Stadtpark, keine Freilauffläche",
-          "tipDe": "Am besten in der Dämmerung, wenn es kühler wird. Bringen Sie Wasser mit, da die offenen Rasenflächen mittags wenig Schatten bieten"
+          "offLeashAreaNl": "Leinenplicht. Stadspark, geen losloopterrein",
+          "tipDe": "Am besten in der Dämmerung, wenn es kühler wird. Bringen Sie Wasser mit, da die offenen Rasenflächen mittags wenig Schatten bieten",
+          "tipNl": "Het best in de schemering, als het koeler wordt. Neem water mee, want de open grasvelden bieden rond het middaguur weinig schaduw"
         },
         {
           "name": "Pineta avenues & lungomare promenade",
@@ -273,8 +307,11 @@
           "offLeashAreaPt": "Trela obrigatória em todas as avenidas públicas e na marginal",
           "tipPt": "As avenidas interiores da Pineta são as mais sombreadas. Fique por elas ao meio-dia e guarde o lungomare aberto para a noite",
           "descriptionDe": "Über die benannten Parks hinaus bietet der spiralförmige Straßenplan von Lignano Pineta, entworfen vom Architekten Marcello D'Olivo in den 1950er-Jahren, lange baumgesäumte Alleen, die selbst schon einen Spaziergang darstellen und sich ruhig zwischen Pinien in Richtung Meer schlängeln. Kombiniert mit der Uferpromenade ergeben sie eine einfache, größtenteils schattige Leinen-Runde. Dies ist der alltägliche Hundespaziergang, den die meisten Langzeitgäste für sich entdecken.",
+          "descriptionNl": "Naast de genoemde parken biedt het spiraalvormige stratenplan van Lignano Pineta, ontworpen door architect Marcello D'Olivo in de jaren vijftig, lange, met bomen omzoomde lanen die op zich al een wandeling vormen en rustig tussen de pijnbomen richting zee kronkelen. Gecombineerd met de boulevard vormen ze een eenvoudig, grotendeels schaduwrijk rondje aan de lijn. Dit is de dagelijkse hondenwandeling die de meeste langverblijvers voor zichzelf ontdekken.",
           "offLeashAreaDe": "Leinenpflicht auf allen öffentlichen Alleen und der Promenade",
-          "tipDe": "Die inneren Pineta-Alleen sind am schattigsten. Bleiben Sie mittags dort und heben Sie die offene Uferpromenade für den Abend auf"
+          "offLeashAreaNl": "Leinenplicht op alle openbare lanen en de boulevard",
+          "tipDe": "Die inneren Pineta-Alleen sind am schattigsten. Bleiben Sie mittags dort und heben Sie die offene Uferpromenade für den Abend auf",
+          "tipNl": "De binnenste Pineta-lanen zijn het schaduwrijkst. Blijf daar rond het middaguur en bewaar de open boulevard voor de avond"
         }
       ],
       "tipsEn": [
@@ -342,7 +379,9 @@
         }
       ],
       "titleDe": "Hundeparks & Spaziergänge in Lignano Sabbiadoro",
+      "titleNl": "Hondenparken en wandelingen in Lignano Sabbiadoro",
       "introDe": "Das grüne Herz Lignanos ist die Pineta, ein angelegter Pinienwald an der Adria, dessen schattige Alleen sich ideal für Hundespaziergänge abseits der Sommersonne eignen. Die Parks des Resorts sind Freizeit- und Spielflächen und keine ausgewiesenen Freilaufflächen für Hunde, daher gilt Leinenpflicht, doch der kühle Pinienschatten macht sie zur besten Option für einen Mittagsspaziergang. Echte Freilauffreiheit gibt es an den Hundestränden, die im Abschnitt Strände beschrieben werden.",
+      "introNl": "Het groene hart van Lignano is de Pineta, een aangelegd pijnbomenbos aan de Adriatische kust, waarvan de schaduwrijke lanen ideaal zijn voor hondenwandelingen weg van de zomerzon. De parken van het resort zijn recreatie- en speelgebieden en geen aangewezen losloopterreinen voor honden, dus geldt er leinenplicht, maar de koele pijnbomenschaduw maakt ze de beste optie voor een middagwandeling. Echte losloopvrijheid vind je op de hondenstranden, beschreven in het onderdeel Stranden.",
       "faqsDe": [
         {
           "q": "Gibt es Freilaufflächen für Hunde in Lignano Sabbiadoro?",
@@ -355,6 +394,20 @@
         {
           "q": "Dürfen Hunde auf der Uferpromenade von Lignano laufen?",
           "a": "Ja, an der Leine. Die Uferpromenade Lungomare ist für angeleinte Hunde geöffnet, wobei die regulären Sandstrände daneben für Hunde tabu sind, außer an den ausgewiesenen Hundestränden. Nutzen Sie im Sommer die kühleren Abendstunden für den Spaziergang."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er losloopterreinen voor honden in Lignano Sabbiadoro?",
+          "a": "Lignano's parken (Hemingway Park, Parco Junior) zijn recreatieparken met leinenplicht. De enige plekken waar honden los mogen lopen zijn de aangewezen hondenstranden met omheinde Dog-VIP-zones zonder lijn. Houd je hond in alle parken en op openbare lanen aan de lijn."
+        },
+        {
+          "q": "Waar is de beste schaduwrijke hondenwandeling in Lignano?",
+          "a": "Het Parco Hemingway en de binnenste lanen van Lignano Pineta, beide gelegen in aangelegd pijnbomenbos, bieden de koelste schaduwrijke wandelroute in het resort. Ze zijn op hete zomermiddagen aanzienlijk aangenamer dan de open boulevard."
+        },
+        {
+          "q": "Mogen honden lopen op de boulevard van Lignano?",
+          "a": "Ja, aan de lijn. De boulevard Lungomare is open voor aangelijnde honden, terwijl de reguliere zandstranden ernaast verboden zijn voor honden, behalve op de aangewezen hondenstranden. Gebruik 's zomers de koelere avonduren voor de wandeling."
         }
       ]
     },
@@ -466,7 +519,9 @@
         }
       ],
       "titleDe": "Mit Haustieren unterwegs in Lignano Sabbiadoro",
+      "titleNl": "Onderweg met huisdieren in Lignano Sabbiadoro",
       "introDe": "Lignano Sabbiadoro liegt auf einer langen, flachen Halbinsel und lässt sich mit Hund am besten zu Fuß oder mit dem Fahrrad erkunden, die meisten Besucher reisen mit dem Auto an. Es gibt keinen Bahnhof direkt in der Stadt: der nächstgelegene ist Latisana-Lignano-Bibione, etwa 23 km entfernt, angebunden durch die TPL-FVG-Buslinie 455 sowie ATVO-Reisebusse, die auch die Flughäfen Venedig und Triest bedienen. Saisonale Sommerboote verbinden Lignano über die Lagune mit Marano Lagunare, Grado und Bibione.",
+      "introNl": "Lignano Sabbiadoro ligt op een lang, vlak schiereiland en is met hond het best te voet of per fiets te verkennen, de meeste bezoekers komen met de auto. Er is geen station direct in de stad: het dichtstbijzijnde is Latisana-Lignano-Bibione, ongeveer 23 km verderop, bereikbaar met TPL-FVG-buslijn 455 en ATVO-touringcars, die ook de luchthavens van Venetië en Triëst bedienen. Seizoensgebonden zomerboten verbinden Lignano via de lagune met Marano Lagunare, Grado en Bibione.",
       "faqsDe": [
         {
           "q": "Gibt es einen Bahnhof in Lignano Sabbiadoro?",
@@ -479,6 +534,20 @@
         {
           "q": "Sind Hunde auf den Lagunenbooten von Lignano erlaubt?",
           "a": "Grundsätzlich ja auf den saisonalen Bootslinien mit offenem Deck nach Marano Lagunare, Grado und Bibione (X River Ferry), mit Leine und einem verfügbaren Maulkorb. Die Kapazität ist im Sommer begrenzt, bestätigen Sie daher beim Betreiber und kommen Sie früh."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een station in Lignano Sabbiadoro?",
+          "a": "Nee. Het dichtstbijzijnde station is Latisana-Lignano-Bibione, ongeveer 23 km verderop, bediend door Trenitalia op de lijn Venetië-Triëst. Vandaar verbinden TPL-FVG-buslijn 455 en ATVO-touringcars naar Lignano. Kleine honden reizen gratis in een transportmand, grotere aangelijnde honden met muilkorf hebben een verlaagd tarief nodig."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen in de bus naar Lignano?",
+          "a": "Ja. TPL-FVG- en ATVO-bussen accepteren kleine honden gratis in een gesloten transportmand en grotere honden aangelijnd met muilkorf, meestal tegen een verlaagd tarief en naar inzicht van de chauffeur. Vermijd de drukste zomerafvaarten, want bij een volle bus kan meenemen geweigerd worden."
+        },
+        {
+          "q": "Zijn honden toegestaan op de lagunenboten van Lignano?",
+          "a": "In principe wel op de seizoensgebonden bootlijnen met open dek naar Marano Lagunare, Grado en Bibione (X River Ferry), aangelijnd en met een beschikbare muilkorf. De capaciteit is 's zomers beperkt, bevestig dit dus bij de exploitant en kom vroeg."
         }
       ]
     },
@@ -554,7 +623,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in Lignano Sabbiadoro",
+      "titleNl": "Hondvriendelijke stranden in Lignano Sabbiadoro",
       "introDe": "Lignanos langer goldener Strand mit Blauer Flagge gehört zu den größten der nördlichen Adria, doch die regulären Strandbetriebe verbieten Hunde (außer Blindenhunden), selbst angeleint oder mit Maulkorb. Der eigentliche Trumpf für Haustierbesitzer ist hier eine Gruppe von ausgewiesenen Hundestränden mit eingezäunten Bereichen, Hundeduschen, Tierarztservice und freiem Meerzugang. Im Folgenden finden Sie die beiden ausgestatteten Hundestrände sowie die kostenlose Hundestrand-Option mit den Sommer-Zugangsregeln.",
+      "introNl": "Lignano's lange gouden strand met Blauwe Vlag behoort tot de grootste van de noordelijke Adriatische kust, maar de reguliere strandbedrijven verbieden honden (behalve geleidehonden), ook aangelijnd of met muilkorf. De echte troef voor huisdierbezitters hier is een groep aangewezen hondenstranden met omheinde zones, hondendouches, dierenartsservice en vrije toegang tot zee. Hieronder staan de twee uitgeruste hondenstranden plus de gratis hondenstrandoptie met de zomerse toegangsregels.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund an den Hauptstrand von Lignano Sabbiadoro mitnehmen?",
@@ -563,6 +634,16 @@
         {
           "q": "Was muss ich mitbringen, um im Sommer einen Hundestrand in Lignano zu nutzen?",
           "a": "Bringen Sie einen Nachweis über aktuelle Impfungen (Heimtierausweis, Gesundheitszeugnis oder Modell 12) sowie eine Mikrochip- oder Tätowierungs-Kennzeichnung und eine mindestens 1,5 m lange Leine mit. La Spiaggia di Duke verlangt zusätzlich eine Haftpflichtversicherung des Halters und einen auf Anfrage verfügbaren Maulkorb. Gehen und schwimmen Sie mit Ihrem Hund in den kühleren Morgen- und Abendstunden, um die adriatische Mittagshitze zu vermeiden."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar het hoofdstrand van Lignano Sabbiadoro?",
+          "a": "Nee. Lignano's reguliere strandbedrijven staan geen honden toe, ook niet aangelijnd of met muilkorf, met als enige uitzondering geleidehonden. Honden zijn uitsluitend welkom op de aangewezen hondenstranden: Doggy Beach aan de Lungomare Marin, La Spiaggia di Duke in Lignano Riviera en de gratis hondenstrandgedeeltes bij Beach Office 19 en achter de Rode Vuurtoren."
+        },
+        {
+          "q": "Wat moet ik meenemen om 's zomers een hondenstrand in Lignano te gebruiken?",
+          "a": "Neem een bewijs van actuele vaccinaties mee (dierenpaspoort, gezondheidsverklaring of Modello 12) plus een microchip- of tatoeagemarkering en een lijn van minstens 1,5 m lang. La Spiaggia di Duke vereist bovendien een aansprakelijkheidsverzekering van de eigenaar en een op verzoek beschikbare muilkorf. Wandel en zwem met je hond in de koelere ochtend- en avonduren om de Adriatische middaghitte te vermijden."
         }
       ]
     },
@@ -610,8 +691,11 @@
           "descriptionPt": "A clínica veterinária mais central de Lignano Sabbiadoro, no Viale Europa, perto da praia da cidade, aberta todas as manhãs de segunda a sábado. Crucial para os viajantes: indica um número dedicado fora de horas para as tardes e os domingos, o que faz dela a primeira chamada perante um problema durante as férias. Guarde ambos os números antes da viagem para não andar a procurar em plena emergência.",
           "tipPt": "Guarde o +39 348 707 7960 para as tardes e os domingos. A linha da consulta da manhã não cobre essas horas",
           "hoursDe": "Mo-Sa 09:30-12:30 Uhr; außerhalb der Öffnungszeiten (nachmittags & So) +39 348 707 7960",
+          "hoursNl": "Ma-za 09.30-12.30 uur; buiten openingstijden (middag & zo) +39 348 707 7960",
           "descriptionDe": "Die zentralste Tierarztpraxis in Lignano Sabbiadoro, auf der Viale Europa nahe dem Stadtstrand gelegen, montags bis samstags jeden Morgen geöffnet. Entscheidend für Reisende: Es gibt eine eigene Notfallnummer für Nachmittage und Sonntage, was diese Praxis zur ersten Anlaufstelle bei einem Urlaubsproblem in der Stadt macht. Speichern Sie beide Nummern vor Ihrer Reise, damit Sie im Notfall nicht erst suchen müssen.",
-          "tipDe": "Speichern Sie +39 348 707 7960 für Nachmittage und Sonntage. Die Vormittags-Sprechstundenlinie deckt diese Zeiten nicht ab"
+          "descriptionNl": "De meest centrale dierenartspraktijk in Lignano Sabbiadoro, gelegen aan de Viale Europa vlak bij het stadsstrand, maandag tot en met zaterdag elke ochtend open. Cruciaal voor reizigers: er is een apart spoednummer voor middagen en zondagen, wat deze praktijk het eerste aanspreekpunt maakt bij een vakantieprobleem in de stad. Bewaar beide nummers voor je reis, zodat je in een noodgeval niet eerst hoeft te zoeken.",
+          "tipDe": "Speichern Sie +39 348 707 7960 für Nachmittage und Sonntage. Die Vormittags-Sprechstundenlinie deckt diese Zeiten nicht ab",
+          "tipNl": "Bewaar +39 348 707 7960 voor middagen en zondagen. De ochtendspreekuurlijn dekt deze tijden niet"
         },
         {
           "name": "Dott. Patrizio Bernardis. Ambulatorio Veterinario",
@@ -635,8 +719,11 @@
           "descriptionPt": "Um segundo veterinário local, bem situado no Corso degli Alisei, no pinhal da Pineta, perto do Parque Hemingway, útil se estiver alojado no lado da Pineta ou da Riviera da estância. As janelas de abertura são curtas e repartidas ao longo do dia, por isso telefone antes de aparecer. Bom para necessidades de rotina, vacinações e papelada de viagem durante uma estadia mais longa.",
           "tipPt": "O horário é curto e repartido. Telefone sempre primeiro para confirmar a abertura do dia antes de se deslocar",
           "hoursDe": "Mo/Mi/Fr 10:00-11:00 Uhr, Di/Do 12:00-13:00 Uhr (telefonische Bestätigung empfohlen)",
+          "hoursNl": "Ma/wo/vr 10.00-11.00 uur, di/do 12.00-13.00 uur (telefonische bevestiging aanbevolen)",
           "descriptionDe": "Eine zweite örtliche Tierarztpraxis, praktisch gelegen am Corso degli Alisei im Pinienwald Pineta nahe dem Hemingway Park, nützlich, wenn Sie auf der Pineta- oder Riviera-Seite des Resorts wohnen. Die Öffnungsfenster sind kurz und über den Tag verteilt, rufen Sie daher lieber vorher an, statt einfach vorbeizukommen. Gut geeignet für Routineanliegen, Impfungen und Reisepapiere während eines längeren Aufenthalts.",
-          "tipDe": "Die Öffnungszeiten sind kurz und geteilt. Rufen Sie immer vorher an, um die Öffnungszeiten des Tages zu bestätigen, bevor Sie hinlaufen"
+          "descriptionNl": "Een tweede lokale dierenartspraktijk, handig gelegen aan de Corso degli Alisei in het pijnbomenbos Pineta bij het Hemingway Park, nuttig als je aan de Pineta- of Riviera-kant van het resort verblijft. De openingstijden zijn kort en over de dag verspreid, bel daarom liever eerst voordat je langsgaat. Goed geschikt voor routinezaken, vaccinaties en reisdocumenten tijdens een langer verblijf.",
+          "tipDe": "Die Öffnungszeiten sind kurz und geteilt. Rufen Sie immer vorher an, um die Öffnungszeiten des Tages zu bestätigen, bevor Sie hinlaufen",
+          "tipNl": "De openingstijden zijn kort en verdeeld. Bel altijd eerst om de openingstijden van die dag te bevestigen voordat je gaat"
         },
         {
           "name": "Clinica Veterinaria Urizzi Andrea",
@@ -660,8 +747,11 @@
           "descriptionPt": "Logo do outro lado do rio Tagliamento, em San Michele al Tagliamento (em direção a Bibione), esta é a clínica de maior dimensão mais próxima de Lignano, com horários sem marcação e com marcação que cobrem manhãs e tardes seis dias por semana. É a melhor aposta para tudo o que vá além de uma consulta local rápida, ou quando as clínicas de Lignano estão fechadas. A cerca de 20 a 25 minutos de carro do centro de Lignano.",
           "tipPt": "Melhor opção quando ambas as clínicas de Lignano estão fechadas. Ligue com antecedência numa emergência para que se possam preparar",
           "hoursDe": "Ohne Termin Mo-Fr 10:00-12:00 & 16:00-19:00 Uhr, Sa 10:00-12:00 Uhr; mit Termin Mo-Fr 09:00-12:00 & 14:30-18:30 Uhr",
+          "hoursNl": "Zonder afspraak ma-vr 10.00-12.00 & 16.00-19.00 uur, za 10.00-12.00 uur; op afspraak ma-vr 09.00-12.00 & 14.30-18.30 uur",
           "descriptionDe": "Direkt jenseits des Flusses Tagliamento in San Michele al Tagliamento (Richtung Bibione) gelegen, ist dies die nächste größere Klinik zu Lignano, mit sowohl Sprechstunden ohne Termin als auch Terminvergabe an sechs Tagen die Woche, vormittags und nachmittags. Sie ist die bessere Wahl für alles, was über eine schnelle örtliche Konsultation hinausgeht, oder wenn die Praxen in Lignano geschlossen sind. Etwa 20 bis 25 Minuten Fahrt vom Zentrum Lignanos entfernt.",
-          "tipDe": "Die beste Option, wenn beide Praxen in Lignano geschlossen sind. Rufen Sie bei einem Notfall vorher an, damit man sich vorbereiten kann"
+          "descriptionNl": "Direct aan de overkant van de rivier de Tagliamento in San Michele al Tagliamento (richting Bibione), dit is de dichtstbijzijnde grotere kliniek bij Lignano, met zowel spreekuur zonder afspraak als afspraken op zes dagen per week, ochtend en middag. Het is de betere keuze voor alles wat verder gaat dan een snelle lokale consultatie, of wanneer de praktijken in Lignano gesloten zijn. Ongeveer 20 tot 25 minuten rijden vanaf het centrum van Lignano.",
+          "tipDe": "Die beste Option, wenn beide Praxen in Lignano geschlossen sind. Rufen Sie bei einem Notfall vorher an, damit man sich vorbereiten kann",
+          "tipNl": "De beste optie als beide praktijken in Lignano gesloten zijn. Bel bij een spoedgeval van tevoren, zodat men zich kan voorbereiden"
         }
       ],
       "faqsEn": [
@@ -707,7 +797,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte in Lignano Sabbiadoro, Tierkliniken & Tierbetreuung",
+      "titleNl": "Spoeddierenartsen in Lignano Sabbiadoro, dierenklinieken en huisdierenzorg",
       "introDe": "Lignano verfügt über kleinstädtische Tierarztpraxen statt eines 24-Stunden-Krankenhauses, informieren Sie sich daher vor einem Sommer-Notfall über Ihre Optionen. Zwei örtliche Tierärzte decken Sabbiadoro und die Pineta ab, während sich die nächste vollwertige Klinik mit längeren Öffnungszeiten direkt jenseits des Tagliamento in San Michele al Tagliamento befindet. EU-registrierte Haustiere reisen mit gültigem EU-Heimtierausweis, Mikrochip und aktueller Tollwutimpfung nach Italien ein.",
+      "introNl": "Lignano beschikt over kleinschalige dierenartspraktijken in plaats van een 24-uursziekenhuis, informeer je daarom voor een zomerse noodsituatie over je opties. Twee lokale dierenartsen dekken Sabbiadoro en de Pineta, terwijl de eerstvolgende volwaardige kliniek met langere openingstijden zich net aan de overkant van de Tagliamento bevindt in San Michele al Tagliamento. EU-geregistreerde huisdieren reizen met een geldig EU-dierenpaspoort, microchip en actuele rabiësvaccinatie Italië binnen.",
       "faqsDe": [
         {
           "q": "Gibt es einen 24-Stunden-Notfalltierarzt in Lignano Sabbiadoro?",
@@ -716,6 +808,16 @@
         {
           "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Lignano Sabbiadoro mitzubringen?",
           "a": "EU-registrierte Haustiere reisen mit gültigem EU-Heimtierausweis, Mikrochip und aktueller Tollwutimpfung ohne Quarantäne nach Italien ein. Haustiere aus Nicht-EU-Ländern benötigen ein Tiergesundheitszeugnis sowie Mikrochip und Tollwutimpfung, aus manchen Ländern zusätzlich einen Tollwut-Titertest. Prüfen Sie vor der Reise die Anforderungen des italienischen Gesundheitsministeriums."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs spoeddierenarts in Lignano Sabbiadoro?",
+          "a": "Lignano heeft geen 24-uurskliniek voor dieren. De nuttigste lokale optie is Dott. Bidin Roberto (Viale Europa 6, +39 0431 70229), die een spoednummer opgeeft voor middagen en zondagen (+39 348 707 7960). De eerstvolgende grotere kliniek met uitgebreide dagopeningstijden is de Clinica Veterinaria Urizzi in San Michele al Tagliamento. Bel bij elk levensbedreigend noodgeval 112."
+        },
+        {
+          "q": "Heb ik een dierenpaspoort nodig om mijn hond mee te nemen naar Lignano Sabbiadoro?",
+          "a": "EU-geregistreerde huisdieren reizen met een geldig EU-dierenpaspoort, microchip en actuele rabiësvaccinatie zonder quarantaine Italië binnen. Huisdieren uit niet-EU-landen hebben een gezondheidsverklaring plus microchip en rabiësvaccinatie nodig, uit sommige landen bovendien een rabiës-titertest. Controleer voor je reis de vereisten van het Italiaanse ministerie van Volksgezondheid."
         }
       ]
     },
@@ -818,7 +920,9 @@
       ],
       "tipsPt": [],
       "titleDe": "Hundefreundliche Tipps für Lignano Sabbiadoro",
+      "titleNl": "Hondvriendelijke tips voor Lignano Sabbiadoro",
       "introDe": "Lignano Sabbiadoro ist dank seiner Gruppe von ausgewiesenen Hundestränden ein wirklich hundebewusstes Sommerresort, doch die übrigen Regeln sind strenger, als Erstbesucher erwarten: reguläre Strände verbieten Hunde, und die sommerliche Adria-Hitze ist das eigentliche Risiko. Ein paar örtliche Gewohnheiten machen einen langen Strandaufenthalt mit Hund einfach.",
+      "introNl": "Lignano Sabbiadoro is dankzij zijn groep aangewezen hondenstranden een echt hondbewust zomerresort, maar de overige regels zijn strenger dan eerstebezoekers verwachten: reguliere stranden verbieden honden, en de zomerse Adriatische hitte is het echte risico. Een paar lokale gewoontes maken een lang strandverblijf met hond eenvoudig.",
       "faqsDe": [
         {
           "q": "Ist Lignano Sabbiadoro gut für Hunde geeignet?",
@@ -831,6 +935,20 @@
         {
           "q": "Darf mein Hund an die regulären Strände von Lignano?",
           "a": "Nein. Die üblichen Strandbetriebe in Lignano lassen keine Hunde zu, selbst angeleint oder mit Maulkorb nicht, außer Blindenhunden. Nutzen Sie stattdessen Doggy Beach, La Spiaggia di Duke oder die kostenlosen Hundestrand-Abschnitte bei Beach Office 19 und hinter dem Roten Leuchtturm."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Lignano Sabbiadoro geschikt voor honden?",
+          "a": "Ja, voor een strandresort is het ongewoon goed uitgerust, met drie aangewezen hondenstranden die omheinde zones, hondendouches, dierenartsservice en vrij zwemmen in zee bieden. Het addertje is dat reguliere stranden honden volledig verbieden en de zomerhitte aan de Adriatische kust intens is, plan dus rond de hondenstranden en de koelere uren."
+        },
+        {
+          "q": "Wat moet ik inpakken voor Lignano Sabbiadoro met mijn hond?",
+          "a": "Neem het EU-dierenpaspoort mee met bewijs van microchip en rabiësvaccinatie (wordt gecontroleerd op de hondenstranden), een lijn van minstens 1,5 m lang, een muilkorf voor bussen en het Duke-strand, een opvouwbaar waterbakje en pootbescherming voor heet zand. Een parasol is handig op de gratis hondenstranden, want die hebben geen voorzieningen."
+        },
+        {
+          "q": "Mag mijn hond naar de reguliere stranden van Lignano?",
+          "a": "Nee. De gewone strandbedrijven in Lignano staan geen honden toe, ook niet aangelijnd of met muilkorf, behalve geleidehonden. Gebruik in plaats daarvan Doggy Beach, La Spiaggia di Duke of de gratis hondenstrandgedeeltes bij Beach Office 19 en achter de Rode Vuurtoren."
         }
       ]
     },
@@ -865,9 +983,13 @@
           "admissionFeePt": "Gratuito (exterior e marginal)",
           "tipPt": "Venha ao pôr do sol para a melhor luz e mantenha o seu cão com trela na marginal movimentada",
           "descriptionDe": "Die Terrazza a Mare ist Lignanos Wahrzeichen, ein auffälliger modernistischer Steg-Pavillon, der von der Uferpromenade Sabbiadoro über die Adria hinausragt und seit Langem ein Symbol des Resorts ist. Sie können Ihren Hund nicht in den Strandbetrieb mitnehmen, auf dem er steht, aber die öffentliche Promenade und die Zugänge zur Terrasse rundherum ergeben einen klassischen angeleinten Spaziergang am Meer mit Wasser auf beiden Seiten. Am schönsten bei Sonnenuntergang, wenn das Licht auf das Bauwerk fällt.",
+          "descriptionNl": "De Terrazza a Mare is Lignano's iconische bezienswaardigheid, een opvallend modernistisch steigerpaviljoen dat vanaf de boulevard van Sabbiadoro over de Adriatische kust uitsteekt en al lang een symbool is van het resort. Je kunt je hond niet meenemen naar het strandbedrijf waar het op staat, maar de openbare promenade en de toegangswegen naar het terras eromheen vormen een klassieke aangelijnde wandeling aan zee, met water aan beide kanten. Het mooist bij zonsondergang, wanneer het licht op het bouwwerk valt.",
           "dogPolicyDe": "Hunde auf der öffentlichen Promenade willkommen, nicht im Strandbetrieb selbst",
+          "dogPolicyNl": "Honden welkom op de openbare promenade, niet in het strandbedrijf zelf",
           "admissionFeeDe": "Kostenlos (Außenbereich & Promenade)",
-          "tipDe": "Kommen Sie bei Sonnenuntergang für das beste Licht und halten Sie Ihren Hund auf der belebten Promenade an der Leine"
+          "admissionFeeNl": "Gratis (buitenruimte & promenade)",
+          "tipDe": "Kommen Sie bei Sonnenuntergang für das beste Licht und halten Sie Ihren Hund auf der belebten Promenade an der Leine",
+          "tipNl": "Kom bij zonsondergang voor het mooiste licht en houd je hond aan de lijn op de drukke promenade"
         },
         {
           "name": "Lignano Pineta (Marcello D'Olivo spiral)",
@@ -892,9 +1014,13 @@
           "admissionFeePt": "Gratuito",
           "tipPt": "Percorra a espiral interior ao meio-dia pela sombra. É o percurso com trela mais fresco da estância",
           "descriptionDe": "Lignano Pineta ist ein Stück Stadtplanung der 1950er-Jahre, das man durchwandern kann: Architekt Marcello D'Olivo legte den Stadtteil als Spirale an, mit Straßen, die sich um einen Mittelpunkt inmitten des angelegten Pinienwalds winden. Für einen Hund ist es ein ruhiger, schattiger, angeleinter Spaziergang fernab des Strandtrubels, der zwischen Villen und Pinien hindurchführt. Kombinieren Sie ihn mit dem Hemingway Park für die beste grüne Runde des Resorts.",
+          "descriptionNl": "Lignano Pineta is een stuk stedenbouw uit de jaren vijftig dat je kunt doorwandelen: architect Marcello D'Olivo legde de wijk aan als spiraal, met straten die om een middelpunt kronkelen midden in het aangelegde pijnbomenbos. Voor een hond is het een rustige, schaduwrijke, aangelijnde wandeling ver van de strand-drukte, die tussen villa's en pijnbomen door voert. Combineer het met het Hemingway Park voor het beste groene rondje van het resort.",
           "dogPolicyDe": "Öffentliche Straßen, Hunde an der Leine willkommen",
+          "dogPolicyNl": "Openbare straten, honden welkom aan de lijn",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Gehen Sie mittags die innere Spirale ab, wegen des Schattens. Es ist die kühlste angeleinte Route im Resort"
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Gehen Sie mittags die innere Spirale ab, wegen des Schattens. Es ist die kühlste angeleinte Route im Resort",
+          "tipNl": "Loop rond het middaguur de binnenste spiraal af, vanwege de schaduw. Het is de koelste aangelijnde route in het resort"
         },
         {
           "name": "Marano Lagoon waterfront",
@@ -919,9 +1045,13 @@
           "admissionFeePt": "Gratuito",
           "tipPt": "Vá ao amanhecer pelas aves e pelo ar fresco. Mantenha o seu cão com trela perto da zona húmida protegida",
           "descriptionDe": "Auf seiner geschützten Seite grenzt Lignano an die Marano-Lagune, ein ruhiges Schutzgebiet aus Kanälen, Fischerhütten und Vogelwelt, das einen ruhigeren Gegenpol zur offenen See bildet. Angeleinte Hunde sind entlang der Wege und Uferdämme der Lagune willkommen, und im Sommer verkehren saisonale Boote nach Marano Lagunare selbst. Der beste Ort, um dem Strandtrubel für einen langsamen, unaufgeregten Spaziergang mit Hund zu entfliehen.",
+          "descriptionNl": "Aan zijn beschutte zijde grenst Lignano aan de Marano-lagune, een rustig beschermd gebied van kanalen, vissershutten en vogelleven, dat een rustiger tegenhanger vormt van de open zee. Aangelijnde honden zijn welkom langs de paden en oeverdijken van de lagune, en 's zomers varen er seizoensgebonden boten naar Marano Lagunare zelf. De beste plek om aan de strand-drukte te ontsnappen voor een langzame, ontspannen wandeling met hond.",
           "dogPolicyDe": "Hunde an der Leine auf den Wegen an der Lagune willkommen",
+          "dogPolicyNl": "Honden aan de lijn welkom op de paden bij de lagune",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Gehen Sie im Morgengrauen für Vogelbeobachtung und kühle Luft. Halten Sie Ihren Hund nahe dem Schutzgebiet an der Leine"
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Gehen Sie im Morgengrauen für Vogelbeobachtung und kühle Luft. Halten Sie Ihren Hund nahe dem Schutzgebiet an der Leine",
+          "tipNl": "Ga bij zonsopgang voor vogels spotten en koele lucht. Houd je hond aan de lijn dicht bij het beschermde gebied"
         }
       ],
       "tipsEn": [
@@ -1003,7 +1133,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Lignano Sabbiadoro",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Lignano Sabbiadoro",
       "introDe": "Lignanos Reiz liegt im Freien und unter offenem Himmel, was sich gut für einen Hund eignet: eine lange Uferpromenade, der modernistische Spiral-Straßenplan der Pineta und der Lagunenrand in Richtung Marano. Die wichtigsten Strand-Sehenswürdigkeiten und Parks lassen sich am besten an der Leine genießen, und mehrere lassen sich zu einem langen, begehbaren Hundetag verbinden. Im Folgenden drei Highlights unter freiem Himmel, die mit Hund an Ihrer Seite funktionieren.",
+      "introNl": "Lignano's charme ligt buiten en onder de open lucht, wat goed uitpakt voor een hond: een lange boulevard, het modernistische spiraalvormige stratenplan van de Pineta en de lagunerand richting Marano. De belangrijkste strandbezienswaardigheden en parken geniet je het best aan de lijn, en meerdere zijn te combineren tot een lange, wandelbare hondendag. Hieronder drie hoogtepunten in de buitenlucht die werken met hond naast je.",
       "faqsDe": [
         {
           "q": "Was kann ich in Lignano Sabbiadoro mit meinem Hund außer dem Strand unternehmen?",
@@ -1016,6 +1148,20 @@
         {
           "q": "Gibt es einen guten Lagunen-Tagesausflug von Lignano mit Hund?",
           "a": "Ja. Die Seite der Marano-Lagune bietet ruhige, angeleinte Spaziergänge, und im Sommer verkehren saisonale TPL-FVG-Boote nach Marano Lagunare und Grado, die angeleinte Hunde auf dem offenen Deck in der Regel akzeptieren. Bestätigen Sie dies beim Betreiber, da die Sommerkapazität begrenzt ist."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat kan ik in Lignano Sabbiadoro met mijn hond doen buiten het strand?",
+          "a": "Genoeg buitenactiviteiten: wandel over de boulevard langs de iconische Terrazza a Mare, loop de schaduwrijke, door Marcello D'Olivo ontworpen spiraalstraten van Lignano Pineta af en verken de rustigere oever van de Marano-lagune. Alles is aan-de-lijn-vriendelijk en gratis en past goed bij het Hemingway Park."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen naar de bezienswaardigheden van Lignano?",
+          "a": "Lignano's attracties zijn grotendeels buitenattracties, dus een aangelijnde hond is probleemloos welkom op de promenades, in de Pineta en langs de lagune. Strandbedrijven en binnenruimtes laten honden meestal niet toe, plan indoor-stops dus voor momenten waarop je hond kan rusten in de accommodatie."
+        },
+        {
+          "q": "Is er een goede lagunedagtocht vanuit Lignano met hond?",
+          "a": "Ja. De kant van de Marano-lagune biedt rustige, aangelijnde wandelingen, en 's zomers varen seizoensgebonden TPL-FVG-boten naar Marano Lagunare en Grado, die aangelijnde honden op het open dek meestal accepteren. Bevestig dit bij de exploitant, want de zomercapaciteit is beperkt."
         }
       ]
     },
@@ -1048,8 +1194,11 @@
           "serviceTypePt": "Reserva online. Pet sitting, passeios, creche, alojamento",
           "tipPt": "Reserve com pelo menos uma semana de antecedência em julho e agosto. A disponibilidade de cuidadores é limitada nas pequenas estâncias de verão",
           "descriptionDe": "Pawshake ist eine weit verbreitete italienische Plattform für Tierbetreuung, die örtliche Sitter, Hundeausführer und Heimtierpensionen nach Gebiet auflistet, nützlich, um in und um Lignano Sabbiadoro während eines Strandaufenthalts Betreuung zu finden. Alle Sitter haben ein Profil mit Bewertungen und sind durch die Versicherung von Pawshake abgedeckt, und Sie können nach Leistung, Hundegröße und Verfügbarkeit filtern. Die Abdeckung in einem kleinen Resort ist dünner als in Großstädten, buchen Sie daher in der Hochsaison im Sommer frühzeitig.",
+          "descriptionNl": "Pawshake is een veelgebruikt Italiaans platform voor huisdierenoppas, dat lokale oppassers, uitlaters en huisdierenpensions per gebied vermeldt, handig om in en rond Lignano Sabbiadoro tijdens een strandverblijf oppas te vinden. Alle oppassers hebben een profiel met beoordelingen en zijn gedekt door de verzekering van Pawshake, en je kunt filteren op dienst, hondengrootte en beschikbaarheid. De dekking in een klein resort is dunner dan in grote steden, boek daarom vroeg in het hoogseizoen van de zomer.",
           "serviceTypeDe": "Online-Buchung. Betreuung, Gassigehen, Tagesbetreuung, Übernachtung",
-          "tipDe": "Buchen Sie im Juli und August mindestens eine Woche im Voraus. Die Verfügbarkeit von Sittern ist in kleinen Sommerresorts begrenzt"
+          "serviceTypeNl": "Online boeken. Oppas, uitlaten, dagopvang, overnachting",
+          "tipDe": "Buchen Sie im Juli und August mindestens eine Woche im Voraus. Die Verfügbarkeit von Sittern ist in kleinen Sommerresorts begrenzt",
+          "tipNl": "Boek in juli en augustus minstens een week van tevoren. De beschikbaarheid van oppassers is beperkt in kleine zomerresorts"
         },
         {
           "name": "Rover Italia",
@@ -1072,8 +1221,11 @@
           "serviceTypePt": "Reserva pela aplicação. Pet sitting, passeios, alojamento",
           "tipPt": "Alargue o raio de pesquisa para Latisana para mais cuidadores. A própria Lignano tem poucos anúncios",
           "descriptionDe": "Rover ist die größte internationale Plattform für Tierbetreuung in Italien, mit überprüften Sittern, die Kurzbesuche, Spaziergänge, Tagesbetreuung und Übernachtung über die App buchbar anbieten. Für Reisende ist es der einfachste Weg, in einem Resort wie Lignano ohne persönlichen örtlichen Kontakt ein paar Stunden Betreuung zu organisieren. Die Angebote konzentrieren sich auf größere Orte in der Nähe, erweitern Sie die Suche daher Richtung Latisana, wenn Lignano selbst wenige Sitter zeigt.",
+          "descriptionNl": "Rover is het grootste internationale platform voor huisdierenoppas in Italië, met geverifieerde oppassers die korte bezoekjes, wandelingen, dagopvang en overnachting via de app boekbaar aanbieden. Voor reizigers is het de makkelijkste manier om in een resort als Lignano zonder persoonlijk lokaal contact een paar uur oppas te regelen. Het aanbod concentreert zich op grotere plaatsen in de buurt, verbreed de zoekopdracht dus richting Latisana als Lignano zelf weinig oppassers toont.",
           "serviceTypeDe": "App-basierte Buchung. Hundebetreuung, Gassigehen, Übernachtung",
-          "tipDe": "Erweitern Sie den Suchradius Richtung Latisana für mehr Sitter. Lignano selbst hat ein begrenztes Angebot"
+          "serviceTypeNl": "App-gebaseerd boeken. Hondenoppas, uitlaten, overnachting",
+          "tipDe": "Erweitern Sie den Suchradius Richtung Latisana für mehr Sitter. Lignano selbst hat ein begrenztes Angebot",
+          "tipNl": "Verbreed de zoekstraal richting Latisana voor meer oppassers. Lignano zelf heeft een beperkt aanbod"
         },
         {
           "name": "Doggy Beach dog services (training & grooming)",
@@ -1095,8 +1247,11 @@
           "serviceTypePt": "No local: veterinário, treinador, agility, higiene em self-service",
           "tipPt": "Use os duches de higiene no local para tirar o sal e a areia do seu cão antes de regressar",
           "descriptionDe": "Zwar kein Sitter, doch Lignanos Doggy Beach bietet Vor-Ort-Services, die einen Strandtag erleichtern: einen Tierarzt vor Ort, einen spezialisierten Hundetrainer, ein Agility-Feld und einen Selbstbedienungsbereich zur Fellpflege mit Duschen. Es ist der praktische Anlaufpunkt, um den Hund komfortabel zu halten, statt ihn zurückzulassen, was oft die Notwendigkeit eines Sitters im Strandurlaub überflüssig macht. Ein kostenloser Shuttle fährt vom Hotel La Perla ab.",
+          "descriptionNl": "Geen oppas, maar Lignano's Doggy Beach biedt diensten ter plekke die een stranddag makkelijker maken: een dierenarts ter plaatse, een gespecialiseerde hondentrainer, een agility-veld en een zelfbedieningsgedeelte voor vachtverzorging met douches. Het is het praktische aanspreekpunt om je hond comfortabel te houden in plaats van hem achter te laten, wat vaak de behoefte aan een oppas tijdens de strandvakantie overbodig maakt. Een gratis shuttle vertrekt vanaf Hotel La Perla.",
           "serviceTypeDe": "Vor Ort: Tierarzt, Hundetrainer, Agility, Selbstbedienungs-Fellpflege",
-          "tipDe": "Nutzen Sie die Duschen im Selbstbedienungsbereich, um Salz und Sand von Ihrem Hund abzuspülen, bevor Sie zurückgehen"
+          "serviceTypeNl": "Ter plaatse: dierenarts, hondentrainer, agility, zelfbedieningsvachtverzorging",
+          "tipDe": "Nutzen Sie die Duschen im Selbstbedienungsbereich, um Salz und Sand von Ihrem Hund abzuspülen, bevor Sie zurückgehen",
+          "tipNl": "Gebruik de douches in het zelfbedieningsgedeelte om zout en zand van je hond te spoelen voordat je teruggaat"
         }
       ],
       "tipsEn": [
@@ -1168,7 +1323,9 @@
         }
       ],
       "titleDe": "Hundesitter & Tierbetreuung in Lignano Sabbiadoro",
+      "titleNl": "Hondenoppas en huisdierenzorg in Lignano Sabbiadoro",
       "introDe": "Bei einem langen Strandurlaub brauchen Sie vielleicht ein paar Stunden ohne Hund, und Lignano ist ein kleines Resort ohne große Ketten von Hundepensionen, weshalb Online-Sitter-Plattformen der zuverlässigste Weg sind. Die Hundestrände nehmen zudem Druck heraus, da Sie Ihren Hund den ganzen Tag bei sich behalten können. Im Folgenden die praktischen Optionen, um während eines Sommeraufenthalts Betreuung zu finden.",
+      "introNl": "Tijdens een lange strandvakantie heb je misschien een paar uur zonder hond nodig, en Lignano is een klein resort zonder grote ketens van hondenpensions, waardoor online oppasplatforms de betrouwbaarste manier zijn. De hondenstranden nemen bovendien druk weg, omdat je je hond de hele dag bij je kunt houden. Hieronder staan de praktische opties om tijdens een zomerverblijf oppas te vinden.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Hundesitter in Lignano Sabbiadoro?",
@@ -1181,6 +1338,20 @@
         {
           "q": "Brauche ich überhaupt einen Sitter im Strandurlaub in Lignano?",
           "a": "Oft nicht. Da Ihr Hund an den ausgewiesenen Hundestränden den ganzen Tag bei Ihnen bleiben kann, mit Schatten, Duschen, Wasser und sogar Tierarzt vor Ort, verzichten viele Besucher komplett auf einen Sitter. Ein Sitter ist vor allem für Indoor-Ausflüge oder einen längeren Tagesausflug nützlich, bei denen Hunde nicht willkommen sind."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe vind ik een hondenoppas in Lignano Sabbiadoro?",
+          "a": "Gebruik online platforms zoals Pawshake Italia en Rover Italia, die geverifieerde oppassers vermelden en boekingen mogelijk maken voor wandelingen, dagopvang of overnachting. In een klein zomerresort is de beschikbaarheid beperkt, boek daarom in juli en augustus een week of meer van tevoren en verbreed de zoekopdracht indien nodig richting Latisana."
+        },
+        {
+          "q": "Hoeveel kost hondenoppas in Lignano?",
+          "a": "Reken op ongeveer 12-35 euro per dag afhankelijk van de dienst, waarbij korte bezoekjes en wandelingen aan de onderkant liggen en hele dagen opvang of overnachting hoger. Bevestig het exacte tarief en de inbegrepen diensten direct bij het boeken met de oppasser."
+        },
+        {
+          "q": "Heb ik überhaupt een oppas nodig tijdens de strandvakantie in Lignano?",
+          "a": "Vaak niet. Omdat je hond de hele dag bij je kan blijven op de aangewezen hondenstranden, met schaduw, douches, water en zelfs een dierenarts ter plaatse, doen veel bezoekers helemaal geen oppas. Een oppas is vooral nuttig voor indoor-uitstapjes of een langere dagtocht waar honden niet welkom zijn."
         }
       ]
     }

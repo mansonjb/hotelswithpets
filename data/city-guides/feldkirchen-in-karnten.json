@@ -41,9 +41,13 @@
           "tipPt": "Peça um recipiente de água para o seu cão - os Gasthäuser austríacos geralmente ficam felizes em trazer.",
           "googleMapsUrl": "https://www.google.com/maps/search/Gasthof+Feldkirchen+Karnten+Hauptplatz",
           "descriptionDe": "Ein traditionelles Kärntner Gasthaus am Hauptplatz mit einer Außenterrasse unter Sonnenschirmen. Klassische österreichische Gerichte: Wiener Schnitzel, Tafelspitz, Kasnudeln (Kärntner Käsenudeln). Hunde an der Leine sind auf der Terrasse willkommen.",
+          "descriptionNl": "Een traditioneel Karinthisch gasthuis aan het hoofdplein met een buitenterras onder parasols. Klassieke Oostenrijkse gerechten: Wiener Schnitzel, Tafelspitz, Kasnudeln (Karinthische kaaspasta). Aangelijnde honden zijn welkom op het terras.",
           "petPolicyDe": "Hunde an der Leine auf der Außenterrasse willkommen.",
+          "petPolicyNl": "Aangelijnde honden welkom op het buitenterras.",
           "mustTryDe": "Kasnudeln - Kärntner Nudeltaschen gefüllt mit Topfen und Minze. Die regionale Spezialität.",
-          "tipDe": "Bitten Sie um einen Wassernapf für Ihren Hund - österreichische Gasthäuser sind dazu in der Regel gerne bereit."
+          "mustTryNl": "Kasnudeln - Karinthische pastazakjes gevuld met kwark en munt. De regionale specialiteit.",
+          "tipDe": "Bitten Sie um einen Wassernapf für Ihren Hund - österreichische Gasthäuser sind dazu in der Regel gerne bereit.",
+          "tipNl": "Vraag om een waterbakje voor je hond - Oostenrijkse gasthuizen doen dat meestal graag."
         },
         {
           "name": "Strandbad Restaurant Maltschacher See",
@@ -71,9 +75,13 @@
           "tipPt": "Chegue antes do meio-dia aos fins de semana em julho - as mesas à beira do lago esgotam antes das 12:30.",
           "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Maltschacher+See+Feldkirchen",
           "descriptionDe": "Ein Seerestaurant am Maltschacher See mit breiten Holzterrassentischen zum Wasser hin. Hunde sind auf dem Terrassenbereich abseits der Hauptbadezone erlaubt. Sommerliche Speisekarte mit gegrilltem Fisch, Salaten und Kärntner Klassikern. Allein die Lage ist die Fahrt wert.",
+          "descriptionNl": "Een restaurant aan het water bij het Maltschacher See met brede houten terrastafels met uitzicht op het meer. Honden zijn toegestaan op het terrasgedeelte, weg van de hoofdzwemzone. Zomerse kaart met gegrilde vis, salades en Karinthische klassiekers. Alleen al de locatie is de rit waard.",
           "petPolicyDe": "Hunde auf der Terrasse abseits des Hauptbadestrands erlaubt; Leinenpflicht.",
+          "petPolicyNl": "Honden toegestaan op het terras, weg van het hoofdstrand; aanlijnplicht.",
           "mustTryDe": "Seesaibling aus heimischen Kärntner Seen - Süßwasserfisch in seiner regionalen Bestform.",
-          "tipDe": "An Wochenenden im Juli vor dem Mittag ankommen - Seeplatz-Tische sind bis 12:30 Uhr vergeben."
+          "mustTryNl": "Beekforel uit lokale Karinthische meren - zoetwatervis in zijn beste regionale vorm.",
+          "tipDe": "An Wochenenden im Juli vor dem Mittag ankommen - Seeplatz-Tische sind bis 12:30 Uhr vergeben.",
+          "tipNl": "Kom in juli in het weekend voor de middag aan - tafels bij het meer zijn tegen 12:30 uur allemaal bezet."
         },
         {
           "name": "Cafe Central Feldkirchen",
@@ -101,14 +109,21 @@
           "tipPt": "O Hauptplatz tem um mercado de agricultores semanal - ótimo para abastecer de queijo carinthiano e enchidos.",
           "googleMapsUrl": "https://www.google.com/maps/search/Cafe+Konditorei+Feldkirchen+Karnten",
           "descriptionDe": "Das führende Kaffeehaus am zentralen Platz von Feldkirchen, mit Tischen im Freien und entspannter Atmosphäre. Perfekt für einen morgendlichen Melange (österreichischer Kaffee mit Milchschaum) und Kipferl oder nachmittägliche Kaffee und Kuchen. Hunde werden am Tisch angebunden, ohne dass jemand etwas sagt.",
+          "descriptionNl": "Het belangrijkste koffiehuis aan het centrale plein van Feldkirchen, met tafels buiten en een ontspannen sfeer. Perfect voor een ochtendlijke melange (Oostenrijkse koffie met melkschuim) en kipferl of een namiddagkoffie met taart. Honden worden aan de tafel vastgemaakt zonder dat iemand er iets van zegt.",
           "petPolicyDe": "Hunde an der Leine auf der Terrasse zum Gehweg willkommen.",
+          "petPolicyNl": "Aangelijnde honden welkom op het terras aan het trottoir.",
           "mustTryDe": "Apfelstrudel mit Schlagobers - der klassische österreichische Nachmittagsgenuss.",
-          "tipDe": "Auf dem Hauptplatz findet ein wöchentlicher Bauernmarkt statt (lokalen Kalender prüfen) - ideal, um sich mit Kärntner Käse und Trockenfleisch einzudecken."
+          "mustTryNl": "Apfelstrudel met slagroom - het klassieke Oostenrijkse middaggenot.",
+          "tipDe": "Auf dem Hauptplatz findet ein wöchentlicher Bauernmarkt statt (lokalen Kalender prüfen) - ideal, um sich mit Kärntner Käse und Trockenfleisch einzudecken.",
+          "tipNl": "Op het hoofdplein is er een wekelijkse boerenmarkt (check de lokale kalender) - ideaal om Karinthische kaas en gedroogd vlees in te slaan."
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Feldkirchen in Kärnten",
+      "titleNl": "Hondvriendelijke restaurants in Feldkirchen in Kärnten",
       "introDe": "Feldkirchens Hauptplatz und die umliegenden Straßen bieten eine angenehme Ansammlung von Gasthäusern und Cafés mit Außenterrassen. Die Seerestaurants am Maltschacher See und Ossiacher See sind die sommerlichen Highlights - nichts geht über ein Schnitzel mit dem Hund unter dem Tisch und einem Alpensee im Blick.",
-      "faqsDe": []
+      "introNl": "Het hoofdplein van Feldkirchen en de omliggende straten bieden een aangename verzameling gasthuizen en cafés met buitenterrassen. De restaurants aan het water bij het Maltschacher See en Ossiacher See zijn de zomerse hoogtepunten - niets gaat boven een schnitzel met je hond onder de tafel en uitzicht op een alpenmeer.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Parks and Lake Walks in Feldkirchen with a Dog",
@@ -146,9 +161,13 @@
           "tipPt": "Verifique os cartazes atuais para cães no parque de estacionamento antes de ir à água - as regras podem mudar anualmente.",
           "googleMapsUrl": "https://www.google.com/maps/search/Maltschacher+See+Hundebereich",
           "descriptionDe": "Der Maltschacher See ist ein 80 Hektar großer See mit einem ausgewiesenen hundefreundlichen Bereich an seinem Ostufer. Hunde können in ausgewiesenen Abschnitten außerhalb des Hauptbadebereichs für Menschen schwimmen. In der Hochsaison Juli-August sind Hunde während der Badezeiten (in der Regel 10-18 Uhr) vom Hauptstrand ausgeschlossen; außerhalb dieser Zeiten können sie das gesamte Ufer nutzen.",
+          "descriptionNl": "Het Maltschacher See is een 80 hectare groot meer met een aangewezen hondvriendelijk gebied aan de oostoever. Honden mogen zwemmen in aangewezen delen, weg van de hoofdzwemzone voor mensen. In het hoogseizoen juli-augustus zijn honden tijdens de zwemuren (doorgaans 10-18 uur) uitgesloten van het hoofdstrand; buiten die uren kunnen ze de hele oever gebruiken.",
           "petPolicyDe": "Hundestrand am Ostufer; Hauptstrand Juli-August 10-18 Uhr eingeschränkt. Außerhalb des Hundestrands stets an der Leine.",
+          "petPolicyNl": "Hondenstrand aan de oostoever; hoofdstrand juli-augustus 10-18 uur beperkt. Buiten het hondenstrand altijd aan de lijn.",
           "mustTryDe": "Das frühmorgendliche Seebad, bevor das Strandbad öffnet - ruhiges Wasser, kühle Luft, völlige Stille.",
-          "tipDe": "Prüfen Sie am Parkplatz die aktuellen Hundeschilder, bevor Sie zum Wasser gehen - die Regeln können sich jährlich ändern."
+          "mustTryNl": "Het vroege ochtendbad voordat het strandbad opengaat - rustig water, koele lucht, volledige stilte.",
+          "tipDe": "Prüfen Sie am Parkplatz die aktuellen Hundeschilder, bevor Sie zum Wasser gehen - die Regeln können sich jährlich ändern.",
+          "tipNl": "Check de actuele hondenbordjes bij de parkeerplaats voordat je naar het water gaat - de regels kunnen jaarlijks veranderen."
         },
         {
           "name": "Ossiacher See - North Shore Walk",
@@ -176,9 +195,13 @@
           "tipPt": "A abadia de Ossiach aceita cães nos terrenos e jardim - o claustro é tranquilo e sombreado.",
           "googleMapsUrl": "https://www.google.com/maps/search/Ossiacher+See+Nordufer+Wanderweg",
           "descriptionDe": "Das Nordufer des Ossiacher Sees hat einen flachen Uferweg, der von Steindorf in Richtung Ossiach und dem Zisterzienserstift führt. Hunde sind auf dem Weg willkommen und können den See von den Nicht-Badebereichen des Ufers aus erreichen. Das Seewasser erreicht im Juli 24 °C.",
+          "descriptionNl": "De noordoever van het Ossiacher See heeft een vlak oeverpad dat van Steindorf richting Ossiach en de cisterciënzerabdij loopt. Honden zijn welkom op het pad en kunnen het meer bereiken vanuit de niet-zwemgedeeltes van de oever. Het water bereikt in juli 24°C.",
           "petPolicyDe": "Hunde auf dem Uferweg willkommen; an Badestränden im Hochsommer Juli-August eingeschränkt.",
+          "petPolicyNl": "Honden welkom op het oeverpad; beperkt bij zwemstranden in hoogzomer juli-augustus.",
           "mustTryDe": "Der Spaziergang von Steindorf zum Stift Ossiach und zurück - 8 km Rundweg, flach, atemberaubende Seeblicke.",
-          "tipDe": "Das Stift Ossiach ist im Gelände hundefreundlich - der Kreuzgang ist ruhig und schattig."
+          "mustTryNl": "De wandeling van Steindorf naar Stift Ossiach en terug - 8 km rondwandeling, vlak, adembenemende meerzichten.",
+          "tipDe": "Das Stift Ossiach ist im Gelände hundefreundlich - der Kreuzgang ist ruhig und schattig.",
+          "tipNl": "Stift Ossiach is hondvriendelijk op het terrein - de kloostergang is rustig en schaduwrijk."
         },
         {
           "name": "Nockberge Biosphere Reserve",
@@ -206,14 +229,21 @@
           "tipPt": "Descarregue o mapa dos trilhos de nockberge.at antes de ir para a montanha - o sinal móvel é fraco.",
           "googleMapsUrl": "https://www.google.com/maps/search/Nockberge+Biosphaerenpark+Wandern",
           "descriptionDe": "Die Nockberge sind sanft gerundete Alpenberge nördlich von Feldkirchen, Teil eines UNESCO-Biosphärenparks. Gut markierte Wanderwege führen durch Almen, auf denen Kühe frei weiden. Hunde auf allen markierten Wegen an der Leine erlaubt - Vorsicht bei Vieh, Abstand zu weidenden Tieren halten.",
+          "descriptionNl": "De Nockberge zijn zacht glooiende alpenbergen ten noorden van Feldkirchen, onderdeel van een UNESCO-biosfeerpark. Goed gemarkeerde wandelpaden lopen door alpenweides waar koeien vrij grazen. Honden aan de lijn toegestaan op alle gemarkeerde paden - wees voorzichtig bij vee, houd afstand van grazende dieren.",
           "petPolicyDe": "Hunde durchgehend an der Leine; besondere Vorsicht bei weidendem Vieh auf den Almen.",
+          "petPolicyNl": "Honden voortdurend aan de lijn; extra voorzichtig bij grazend vee op de alpenweides.",
           "mustTryDe": "Der Abschnitt des Alpe-Adria-Trails durch die Nockberge - Europas längster Wanderweg führt hier hindurch.",
-          "tipDe": "Laden Sie die Nockberge-Wanderkarte von nockberge.at herunter, bevor Sie in die Berge aufbrechen - der Mobilfunkempfang ist schlecht."
+          "mustTryNl": "Het stuk van de Alpe-Adria-Trail door de Nockberge - het langste wandelpad van Europa loopt hier doorheen.",
+          "tipDe": "Laden Sie die Nockberge-Wanderkarte von nockberge.at herunter, bevor Sie in die Berge aufbrechen - der Mobilfunkempfang ist schlecht.",
+          "tipNl": "Download de Nockberge-wandelkaart van nockberge.at voordat je de bergen in gaat - het mobiele bereik is slecht."
         }
       ],
       "titleDe": "Parks und Seespaziergänge in Feldkirchen mit Hund",
+      "titleNl": "Parken en meerwandelingen in Feldkirchen met hond",
       "introDe": "Feldkirchen liegt im Zentrum von Kärntens Seenregion. Innerhalb von 15 km erreichen Sie den Maltschacher See, den Ossiacher See und das Tiebeltal, die alle flache, hundefreundliche Wanderwege bieten. Das Biosphärenpark Nockberge im Norden bringt für abenteuerlustigere Besuche Bergwanderwege dazu.",
-      "faqsDe": []
+      "introNl": "Feldkirchen ligt in het hart van de meren-regio van Kärnten. Binnen 15 km bereik je het Maltschacher See, het Ossiacher See en het Tiebeltal, die allemaal vlakke, hondvriendelijke wandelpaden bieden. Het biosfeerpark Nockberge in het noorden voegt bergwandelpaden toe voor avontuurlijkere uitstapjes.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting to Feldkirchen in Kärnten with a Pet",
@@ -251,9 +281,13 @@
           "tipPt": "A A2 requer uma vinheta de autoestrada na Áustria - compre na fronteira ou online em asfinag.at.",
           "googleMapsUrl": "https://www.google.com/maps/search/Feldkirchen+Kaernten+Bahnhof",
           "descriptionDe": "Regionalzüge verkehren von Feldkirchen nach Klagenfurt Hbf (30 Min.) und Villach Hbf (35 Min.). Hunde in einer Transportbox (max. 50 cm lang) reisen kostenlos. Größere Hunde an der Leine benötigen eine Hundefahrkarte (halber Erwachsenenfahrpreis) und müssen in ÖBB-Zügen einen Maulkorb tragen. Fahrkarten am Automaten oder über die ÖBB-App kaufen.",
+          "descriptionNl": "Streektreinen rijden van Feldkirchen naar Klagenfurt Hbf (30 min.) en Villach Hbf (35 min.). Honden in een transportbox (max. 50 cm lang) reizen gratis mee. Grotere honden aan de lijn hebben een hondenkaartje nodig (half volwassenentarief) en moeten een muilkorf dragen in ÖBB-treinen. Koop tickets bij de automaat of via de ÖBB-app.",
           "petPolicyDe": "Kleine Hunde in der Box: kostenlos. Größere Hunde: Hundefahrkarte zum halben Preis + Maulkorb auf allen ÖBB-Zügen.",
+          "petPolicyNl": "Kleine honden in de box: gratis. Grotere honden: hondenkaartje tegen half tarief + muilkorf op alle ÖBB-treinen.",
           "mustTryDe": "Die ÖBB-App macht den Kauf von Hundefahrkarten einfach - vor dem Einsteigen erledigen, um Zeit zu sparen.",
-          "tipDe": "Auf der A2-Autobahn gilt in Österreich Vignettenpflicht - an der Grenze oder online auf asfinag.at kaufen."
+          "mustTryNl": "De ÖBB-app maakt het kopen van hondenkaartjes eenvoudig - regel dit voor het instappen om tijd te besparen.",
+          "tipDe": "Auf der A2-Autobahn gilt in Österreich Vignettenpflicht - an der Grenze oder online auf asfinag.at kaufen.",
+          "tipNl": "Op de A2-snelweg geldt in Oostenrijk een vignetplicht - koop deze aan de grens of online op asfinag.at."
         },
         {
           "name": "Klagenfurt Airport (KLU)",
@@ -281,9 +315,13 @@
           "tipPt": "Viena (3h30 de carro) é uma porta de entrada alternativa pela A2 - boa para combinar uma city break com uma estadia no lago.",
           "googleMapsUrl": "https://www.google.com/maps/search/Klagenfurt+Airport+KLU",
           "descriptionDe": "Der Flughafen Klagenfurt (KLU) liegt 25 km südlich von Feldkirchen und wird von Ryanair und Eurowings aus mehreren europäischen Städten angeflogen. Autovermietungen befinden sich am Terminal. Die A2-Autobahn verbindet den Flughafen in etwa 20 Minuten mit Feldkirchen.",
+          "descriptionNl": "Luchthaven Klagenfurt (KLU) ligt 25 km ten zuiden van Feldkirchen en wordt aangevlogen door Ryanair en Eurowings vanuit meerdere Europese steden. Autoverhuurbedrijven bevinden zich bij de terminal. De A2-snelweg verbindt de luchthaven in ongeveer 20 minuten met Feldkirchen.",
           "petPolicyDe": "Haustiere reisen gemäß den Richtlinien der jeweiligen Fluggesellschaft; Mietwagen gemäß den Regeln des Anbieters.",
+          "petPolicyNl": "Huisdieren reizen volgens het beleid van de betreffende luchtvaartmaatschappij; huurauto's volgens de regels van de aanbieder.",
           "mustTryDe": "Buchen Sie einen Kombi oder SUV mit Kofferraum für Hunde - die Seenstraßen erfordern ein flexibles Fahrzeug.",
-          "tipDe": "Wien (3 Std. 30 Min. mit dem Auto) ist über die A2 eine alternative Anreise - gut, um einen Städtetrip mit einem Aufenthalt am See zu verbinden."
+          "mustTryNl": "Boek een stationwagon of SUV met kofferruimte voor honden - de wegen bij de meren vragen om een flexibel voertuig.",
+          "tipDe": "Wien (3 Std. 30 Min. mit dem Auto) ist über die A2 eine alternative Anreise - gut, um einen Städtetrip mit einem Aufenthalt am See zu verbinden.",
+          "tipNl": "Wenen (3 uur 30 min. met de auto) is via de A2 een alternatieve aankomstroute - handig om een stedentrip te combineren met een verblijf aan het meer."
         },
         {
           "name": "A2 Motorway - Carinthia",
@@ -311,14 +349,21 @@
           "tipPt": "A lei austríaca exige que os cães estejam presos num veículo - um arnês ou caixa de transporte homologados evita uma multa.",
           "googleMapsUrl": "https://www.google.com/maps/search/A2+Autobahn+Feldkirchen+Kaernten",
           "descriptionDe": "Die Süd Autobahn A2 ist die wichtigste Verkehrsader durch Kärnten und verbindet Wien, Graz, Klagenfurt und Villach. Feldkirchen ist direkt über die Anschlussstelle Feldkirchen-Ost erreichbar. Die Vignette (Straßenmaut) ist erforderlich und kostet etwa 10 € für 10 Tage oder 30 € für 2 Monate. Vor der Anreise online auf asfinag.at kaufen.",
+          "descriptionNl": "De Süd Autobahn A2 is de belangrijkste verkeersader door Kärnten en verbindt Wenen, Graz, Klagenfurt en Villach. Feldkirchen is rechtstreeks bereikbaar via afrit Feldkirchen-Ost. Het vignet (wegentol) is verplicht en kost ongeveer 10€ voor 10 dagen of 30€ voor 2 maanden. Koop het online op asfinag.at voor vertrek.",
           "petPolicyDe": "Keine speziellen Haustierregeln für Autofahrten; sichern Sie Ihren Hund im Auto mit Geschirr oder Box.",
+          "petPolicyNl": "Geen speciale huisdierregels voor autoritten; zet je hond in de auto vast met een tuig of een box.",
           "mustTryDe": "Kaufen Sie die digitale Vignette vor der Abreise auf asfinag.at - günstiger und keine Warteschlange an der Grenze.",
-          "tipDe": "Das österreichische Recht verlangt, dass Hunde im Fahrzeug gesichert werden - ein crashgetestetes Geschirr oder eine Box vermeidet eine Strafe."
+          "mustTryNl": "Koop het digitale vignet voor vertrek op asfinag.at - goedkoper en geen wachtrij aan de grens.",
+          "tipDe": "Das österreichische Recht verlangt, dass Hunde im Fahrzeug gesichert werden - ein crashgetestetes Geschirr oder eine Box vermeidet eine Strafe.",
+          "tipNl": "De Oostenrijkse wet vereist dat honden in het voertuig vastgezet worden - een crashgeteste tuig of box voorkomt een boete."
         }
       ],
       "titleDe": "Mit Haustier nach Feldkirchen in Kärnten reisen",
+      "titleNl": "Met huisdier naar Feldkirchen in Kärnten reizen",
       "introDe": "Feldkirchen liegt an der A2-Autobahn zwischen Klagenfurt (25 km südlich) und Villach (35 km westlich). Der Flughafen Klagenfurt (KLU) ist 25 km entfernt. Die Stadt hat einen Regionalbahnhof mit Verbindungen nach Klagenfurt (30 Min.). Hunde reisen auf österreichischen ÖBB-Zügen mit Hundefahrkarte und Maulkorb mit.",
-      "faqsDe": []
+      "introNl": "Feldkirchen ligt aan de A2-snelweg tussen Klagenfurt (25 km ten zuiden) en Villach (35 km ten westen). Luchthaven Klagenfurt (KLU) ligt op 25 km. De stad heeft een streekstation met verbindingen naar Klagenfurt (30 min.). Honden reizen mee op Oostenrijkse ÖBB-treinen met een hondenkaartje en muilkorf.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Lake Beaches near Feldkirchen with a Dog",
@@ -356,9 +401,13 @@
           "tipPt": "Leve toalhas para o seu cão - a bagageira fica muito molhada num dia de lago.",
           "googleMapsUrl": "https://www.google.com/maps/search/Maltschacher+See+Baden+Hund",
           "descriptionDe": "Der nächstgelegene See zu Feldkirchen mit einem ausgewiesenen Hundebereich. Der Hundebadebereich liegt am Ostufer, abseits des Hauptstrandbads. Bestätigt durch eine Buchung im angrenzenden Feriendorf - Hunde sind hier wirklich willkommen. Wassertemperatur im Sommer 20-23 °C.",
+          "descriptionNl": "Het dichtstbijzijnde meer bij Feldkirchen met een aangewezen hondengebied. Het hondenzwemgedeelte ligt aan de oostoever, weg van het hoofdstrandbad. Bevestigd door een boeking in het aangrenzende vakantiedorp - honden zijn hier echt welkom. Watertemperatuur in de zomer 20-23°C.",
           "petPolicyDe": "Ausgewiesener Hundebereich am Ostufer; bei Ankunft die aktuellen Schilder prüfen.",
+          "petPolicyNl": "Aangewezen hondengebied aan de oostoever; check bij aankomst de actuele bordjes.",
           "mustTryDe": "Das Sonnenaufgangs-Bad - der Maltschacher See um 7 Uhr im Juli ist der friedlichste Ort in Kärnten.",
-          "tipDe": "Bringen Sie Handtücher für Ihren Hund mit - der Kofferraum wird an einem Seetag sehr nass."
+          "mustTryNl": "Het zonsopgangsbad - het Maltschacher See om 7 uur in juli is de vredigste plek in Kärnten.",
+          "tipDe": "Bringen Sie Handtücher für Ihren Hund mit - der Kofferraum wird an einem Seetag sehr nass.",
+          "tipNl": "Neem handdoeken voor je hond mee - de kofferbak wordt op een meerdag flink nat."
         },
         {
           "name": "Ossiacher See - North Shore Dog Access",
@@ -386,9 +435,13 @@
           "tipPt": "Estacione no Strandcafé Steindorf e caminhe 200m para o este onde o acesso para cães é informal.",
           "googleMapsUrl": "https://www.google.com/maps/search/Ossiacher+See+Steindorf+Hund+Baden",
           "descriptionDe": "Österreichs drittgrößter See. Das Nordufer bei Steindorf hat inoffizielle Hundezugänge an den Grasbänken zwischen den offiziellen Strandbadzonen. Das Wasser erreicht im Juli 24 °C. Außerhalb der Hauptbadezeiten können Hunde entlang des größten Teils des Ufers zum See gelangen.",
+          "descriptionNl": "Oostenrijks op twee na grootste meer. De noordoever bij Steindorf heeft informele hondentoegangen bij de grasstroken tussen de officiële strandbadzones. Het water bereikt in juli 24°C. Buiten de belangrijkste zwemuren kunnen honden langs het grootste deel van de oever bij het meer komen.",
           "petPolicyDe": "Inoffizieller Zugang zwischen den Badezonen; auf Schilder für ausgewiesene Hundebereiche achten.",
+          "petPolicyNl": "Informele toegang tussen de zwemzones; let op bordjes voor aangewezen hondengebieden.",
           "mustTryDe": "Das Abendbad um 19 Uhr nach Schließung des Strandbads - der See ist zu dieser Stunde ruhig und nur für Hunde da.",
-          "tipDe": "Parken Sie beim Strandcafé Steindorf und gehen Sie 200 m zum östlichen Ende, wo der Hundezugang inoffiziell ist."
+          "mustTryNl": "Het avondbad om 19 uur nadat het strandbad sluit - het meer is op dat uur rustig en helemaal voor de honden.",
+          "tipDe": "Parken Sie beim Strandcafé Steindorf und gehen Sie 200 m zum östlichen Ende, wo der Hundezugang inoffiziell ist.",
+          "tipNl": "Parkeer bij het Strandcafé Steindorf en loop 200 m naar het oostelijke uiteinde, waar de hondentoegang informeel is."
         },
         {
           "name": "Millstätter See - Dog Beaches",
@@ -416,14 +469,21 @@
           "tipPt": "O passeio à beira do lago da cidade de Millstatt até à praia oeste são 1,5km de ida - um bom passeio de aquecimento.",
           "googleMapsUrl": "https://www.google.com/maps/search/Millstatter+See+Hundebereich+Strand",
           "descriptionDe": "Der Millstätter See (40 km von Feldkirchen) ist einer der tiefsten und klarsten Seen Kärntens. Die Stadt Millstatt hat am westlichen Stadtrand einen ausgewiesenen Hundestrand, der gut gepflegt und während der ganzen Saison geöffnet ist. Hunde schwimmen frei im ausgewiesenen Bereich.",
+          "descriptionNl": "Het Millstätter See (40 km van Feldkirchen) is een van de diepste en helderste meren van Kärnten. De stad Millstatt heeft aan de westelijke rand een aangewezen hondenstrand dat goed onderhouden en het hele seizoen open is. Honden zwemmen vrij in het aangewezen gedeelte.",
           "petPolicyDe": "Ausgewiesener Hundestrand am westlichen Stadtrand; bei Ankunft die Beschilderung prüfen.",
+          "petPolicyNl": "Aangewezen hondenstrand aan de westelijke stadsrand; check bij aankomst de bewegwijzering.",
           "mustTryDe": "Die Kreuzgänge des Stifts Millstatt sind im Innenhof hundefreundlich - kombinieren Sie ein Seebad mit einem 10-minütigen Stiftsbesuch.",
-          "tipDe": "Die Uferpromenade von der Stadt Millstatt zum westlichen Strand ist 1,5 km pro Strecke - ein guter Aufwärmspaziergang."
+          "mustTryNl": "De kloostergangen van Stift Millstatt zijn hondvriendelijk in het binnenplein - combineer een bad in het meer met een bezoek van 10 minuten aan de abdij.",
+          "tipDe": "Die Uferpromenade von der Stadt Millstatt zum westlichen Strand ist 1,5 km pro Strecke - ein guter Aufwärmspaziergang.",
+          "tipNl": "De boulevard van de stad Millstatt naar het westelijke strand is 1,5 km enkele reis - een goede warming-upwandeling."
         }
       ],
       "titleDe": "Seestrände nahe Feldkirchen mit Hund",
+      "titleNl": "Meerstranden bij Feldkirchen met hond",
       "introDe": "Kärnten ist Österreichs wärmste Seenregion, und Feldkirchen ist von ihnen umgeben. Die wichtigste Regel: Österreichische Seen verbieten Hunde in der Hochsaison (in der Regel 10-18 Uhr, Juli-August) in den Hauptbadezonen. Außerhalb dieser Zeiten und an ausgewiesenen Hundestränden können Hunde frei schwimmen. Die Wassertemperatur erreicht bis Juli 22-24 °C.",
-      "faqsDe": []
+      "introNl": "Kärnten is Oostenrijks warmste meren-regio, en Feldkirchen ligt er middenin. De belangrijkste regel: Oostenrijkse meren verbieden honden in het hoogseizoen (doorgaans 10-18 uur, juli-augustus) op de hoofdzwemzones. Buiten die uren en bij aangewezen hondenstranden kunnen honden vrij zwemmen. De watertemperatuur bereikt tegen juli 22-24°C.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Vets near Feldkirchen in Kärnten",
@@ -461,9 +521,13 @@
           "tipPt": "Os veterinários austríacos falam alemão; use o Google Translate para preparar frases-chave se necessário.",
           "googleMapsUrl": "https://www.google.com/maps/search/Tierarzt+Feldkirchen+Kaernten",
           "descriptionDe": "Lokale Tierarztpraxis in Feldkirchen für Routineuntersuchungen und kleinere Notfälle während der Geschäftszeiten. Suchen Sie „Tierarzt Feldkirchen“ auf Google Maps für die aktuelle Adresse und Kontaktdaten. Für Notfälle außerhalb der Öffnungszeiten ist Klagenfurt 25 km entfernt.",
+          "descriptionNl": "Lokale dierenartspraktijk in Feldkirchen voor routineonderzoeken en kleinere noodgevallen tijdens openingstijden. Zoek op \"Tierarzt Feldkirchen\" op Google Maps voor het actuele adres en de contactgegevens. Voor spoedgevallen buiten kantooruren ligt Klagenfurt op 25 km.",
           "petPolicyDe": "Vorab anrufen, um Öffnungszeiten und Notfallverfügbarkeit zu bestätigen.",
+          "petPolicyNl": "Bel van tevoren om openingstijden en beschikbaarheid voor spoedgevallen te bevestigen.",
           "mustTryDe": "Speichern Sie die Notfallnummer des Tierarztes in Klagenfurt vor der Reise in Ihrem Telefon.",
-          "tipDe": "Österreichische Tierärzte sprechen Deutsch; nutzen Sie bei Bedarf Google Translate, um wichtige Sätze vorzubereiten."
+          "mustTryNl": "Sla het spoednummer van de dierenarts in Klagenfurt voor vertrek op in je telefoon.",
+          "tipDe": "Österreichische Tierärzte sprechen Deutsch; nutzen Sie bei Bedarf Google Translate, um wichtige Sätze vorzubereiten.",
+          "tipNl": "Oostenrijkse dierenartsen spreken Duits; gebruik indien nodig Google Translate om belangrijke zinnen voor te bereiden."
         },
         {
           "name": "Tierärztliche Gemeinschaftspraxis Klagenfurt",
@@ -491,9 +555,13 @@
           "tipPt": "Na Áustria, marque 1400 (Tierärztliche Notfallnummer) para referência de emergência veterinária nacional.",
           "googleMapsUrl": "https://www.google.com/maps/search/Tierarzt+Notfall+Klagenfurt",
           "descriptionDe": "Klagenfurt, die Landeshauptstadt Kärntens, verfügt über mehrere Tierarztpraxen und einen 24-Stunden-Notdienst. Suchen Sie „Tierarzt Notfall Klagenfurt“ für aktuelle Notfallkontakte. Die A2-Autobahn macht die 25 km lange Fahrt schnell (unter 20 Minuten).",
+          "descriptionNl": "Klagenfurt, de hoofdstad van de deelstaat Kärnten, heeft meerdere dierenartspraktijken en een 24-uurs spoeddienst. Zoek op \"Tierarzt Notfall Klagenfurt\" voor actuele spoedcontacten. De A2-snelweg maakt de rit van 25 km snel (onder de 20 minuten).",
           "petPolicyDe": "24-Stunden-Notdienst verfügbar; vorab anrufen, um den aktuellen Kontakt zu bestätigen.",
+          "petPolicyNl": "24-uurs spoeddienst beschikbaar; bel van tevoren om het actuele contact te bevestigen.",
           "mustTryDe": "Speichern Sie die Adresse vor der Reise offline in Google Maps - im Seental kann der Mobilfunkempfang ausfallen.",
-          "tipDe": "In Österreich wählen Sie 1400 (Tierärztliche Notfallnummer) für die bundesweite tierärztliche Notfallvermittlung."
+          "mustTryNl": "Sla het adres voor vertrek offline op in Google Maps - in het meerdal kan het mobiele bereik uitvallen.",
+          "tipDe": "In Österreich wählen Sie 1400 (Tierärztliche Notfallnummer) für die bundesweite tierärztliche Notfallvermittlung.",
+          "tipNl": "In Oostenrijk bel je 1400 (dierenartsspoedlijn) voor landelijke doorverwijzing naar diergeneeskundige spoedhulp."
         },
         {
           "name": "EU Pet Passport - Austria Rules",
@@ -521,14 +589,21 @@
           "tipPt": "Guarde uma cópia física do passaporte europeu e das páginas de vacinação - útil se o original se perder no lago.",
           "googleMapsUrl": "https://www.google.com/maps/search/Tierarzt+Feldkirchen+Klagenfurt",
           "descriptionDe": "Österreich ist EU-Mitglied, daher genügt aus anderen EU-Ländern ein EU-Heimtierausweis mit gültigem Mikrochip und aktueller Tollwutimpfung. Hunde müssen im Fahrzeug gesichert werden (österreichisches Straßenverkehrsrecht). In öffentlichen Verkehrsmitteln (ÖBB, Busse) ist ein Maulkorb erforderlich. Keine Bandwurmbehandlung nötig.",
+          "descriptionNl": "Oostenrijk is EU-lid, dus vanuit andere EU-landen volstaat een EU-huisdierenpaspoort met geldige microchip en actuele rabiësvaccinatie. Honden moeten in het voertuig vastgezet worden (Oostenrijks verkeersrecht). In het openbaar vervoer (ÖBB, bussen) is een muilkorf verplicht. Geen lintwormbehandeling nodig.",
           "petPolicyDe": "EU-Heimtierausweis erforderlich; Hund muss im Fahrzeug gesichert werden; Maulkorb in öffentlichen Verkehrsmitteln.",
+          "petPolicyNl": "EU-huisdierenpaspoort vereist; hond moet in het voertuig vastgezet worden; muilkorf in het openbaar vervoer.",
           "mustTryDe": "Prüfen Sie, ob die Tollwutimpfung Ihres Hundes aktuell ist - der österreichische Seesommer ist lang und die Tierärzte sind ausgelastet.",
-          "tipDe": "Bewahren Sie eine physische Kopie des EU-Heimtierausweises und der Impfseiten auf - nützlich, falls das Original am See verloren geht."
+          "mustTryNl": "Check of de rabiësvaccinatie van je hond actueel is - de Oostenrijkse meerzomer is lang en de dierenartsen zitten vol.",
+          "tipDe": "Bewahren Sie eine physische Kopie des EU-Heimtierausweises und der Impfseiten auf - nützlich, falls das Original am See verloren geht.",
+          "tipNl": "Bewaar een fysieke kopie van het EU-huisdierenpaspoort en de vaccinatiepagina's - handig als het origineel bij het meer zoekraakt."
         }
       ],
       "titleDe": "Tierärzte nahe Feldkirchen in Kärnten",
+      "titleNl": "Dierenartsen bij Feldkirchen in Kärnten",
       "introDe": "Feldkirchen bietet lokale tierärztliche Optionen, und Klagenfurt (25 km) ist die nächste Stadt mit einem vollwertigen Tierkrankenhaus und 24-Stunden-Notdienst. Führen Sie stets den EU-Heimtierausweis mit sich. Österreichische Tierärzte sind gut ausgestattet und deutschsprachig - eine Übersetzungs-App hilft nicht deutschsprachigen Besuchern.",
-      "faqsDe": []
+      "introNl": "Feldkirchen biedt lokale diergeneeskundige opties, en Klagenfurt (25 km) is de dichtstbijzijnde stad met een volwaardig dierenziekenhuis en 24-uurs spoeddienst. Neem altijd het EU-huisdierenpaspoort mee. Oostenrijkse dierenartsen zijn goed uitgerust en Duitstalig - een vertaal-app helpt niet-Duitstalige bezoekers.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Pet Travel Tips for Feldkirchen in Kärnten",
@@ -566,9 +641,13 @@
           "tipPt": "O Carinthia Card (Kärnten Card) inclui entrada no lago e alguns passeios de barco dog-friendly - vale a pena para uma estadia de uma semana.",
           "googleMapsUrl": "https://www.google.com/maps/search/Kaernten+Seen+Baden",
           "descriptionDe": "Die österreichische Badeverordnung verbietet Hunde während der offiziellen Badezeiten im Sommer (in der Regel 10-18 Uhr, 15. Juni-15. September) in den ausgewiesenen öffentlichen Badezonen. Außerhalb dieser Zeiten und an inoffiziellen Zugängen können Hunde frei schwimmen. Jeder See und jede Gemeinde kann eigene Regeln festlegen - Schilder am Parkplatz prüfen.",
+          "descriptionNl": "De Oostenrijkse zwemverordening verbiedt honden tijdens de officiële zwemuren in de zomer (doorgaans 10-18 uur, 15 juni-15 september) in de aangewezen openbare zwemzones. Buiten die uren en bij informele toegangen kunnen honden vrij zwemmen. Elk meer en elke gemeente kan eigen regels vaststellen - check bordjes bij de parkeerplaats.",
           "petPolicyDe": "Hunde während der Badezeiten in den ausgewiesenen Badezonen verboten; individuelle Seeschilder prüfen.",
+          "petPolicyNl": "Honden verboden tijdens zwemuren in de aangewezen zwemzones; check individuele meerbordjes.",
           "mustTryDe": "Der frühmorgendliche Seezugang (6-9 Uhr) bietet Ihrem Hund das beste Schwimmen im Hochsommer ohne Einschränkungen.",
-          "tipDe": "Die Kärnten Card umfasst Seeeintritt und einige hundefreundliche Bootsfahrten - lohnt sich für einen mehrwöchigen Aufenthalt."
+          "mustTryNl": "De vroege ochtendtoegang tot het meer (6-9 uur) biedt je hond het beste zwemmen in hoogzomer zonder beperkingen.",
+          "tipDe": "Die Kärnten Card umfasst Seeeintritt und einige hundefreundliche Bootsfahrten - lohnt sich für einen mehrwöchigen Aufenthalt.",
+          "tipNl": "De Kärnten Card omvat toegang tot meren en enkele hondvriendelijke boottochten - de moeite waard voor een verblijf van meerdere weken."
         },
         {
           "name": "Carinthia Card - Dog-Friendly Activities",
@@ -596,9 +675,13 @@
           "tipPt": "Compre o cartão no dia 1 não no dia 2 - perde um dia de valor se esperar.",
           "googleMapsUrl": "https://www.google.com/maps/search/Kaernten+Card+Feldkirchen+touristinfo",
           "descriptionDe": "Die Kärnten Card bietet freien Eintritt zu über 100 Kärntner Sehenswürdigkeiten, darunter Seezugang, Seilbahnen, Museen und Bootsfahrten. Viele enthaltene Attraktionen heißen Hunde willkommen. Die Karte ist für 1, 2 oder 3 Wochen erhältlich. Online oder beim regionalen Tourismusbüro in Feldkirchen erhältlich.",
+          "descriptionNl": "De Kärnten Card geeft gratis toegang tot meer dan 100 bezienswaardigheden in Kärnten, waaronder toegang tot meren, kabelbanen, musea en boottochten. Veel inbegrepen attracties heten honden welkom. De kaart is verkrijgbaar voor 1, 2 of 3 weken. Online of bij het regionale toeristenbureau in Feldkirchen verkrijgbaar.",
           "petPolicyDe": "Hunderichtlinien variieren je nach enthaltener Attraktion; einzelne Standorte prüfen.",
+          "petPolicyNl": "Hondenbeleid varieert per inbegrepen attractie; check afzonderlijke locaties.",
           "mustTryDe": "Die Bootsfahrt auf dem Wörthersee ist inbegriffen und hundefreundlich - die beste Nutzung der Karte am ersten Tag.",
-          "tipDe": "Kaufen Sie die Karte am ersten und nicht am zweiten Tag - sonst verlieren Sie einen Tag Wert."
+          "mustTryNl": "De boottocht op het Wörthersee is inbegrepen en hondvriendelijk - het beste gebruik van de kaart op de eerste dag.",
+          "tipDe": "Kaufen Sie die Karte am ersten und nicht am zweiten Tag - sonst verlieren Sie einen Tag Wert.",
+          "tipNl": "Koop de kaart op de eerste dag en niet op de tweede - anders verlies je een dag waarde."
         },
         {
           "name": "Best Months for Dogs in Carinthia",
@@ -626,14 +709,21 @@
           "tipPt": "Se tiver de visitar em julho-agosto, reserve alojamento diretamente no Maltschacher See (Feriendorf) para acesso garantido ao lago para cães sem conduzir.",
           "googleMapsUrl": "https://www.google.com/maps/search/Feldkirchen+Kaernten+Urlaub",
           "descriptionDe": "Juni und September sind die besten Monate für Hunde an den Kärntner Seen. Die Wassertemperaturen liegen bei 18-22 °C (Juni) und 20-22 °C (September), die Menschenmengen sind geringer, und Hundebeschränkungen gelten entweder noch nicht oder sind bereits abgelaufen. Juli und August sind die menschliche Hauptbadesaison - dann ist der Hundezugang am stärksten eingeschränkt.",
+          "descriptionNl": "Juni en september zijn de beste maanden voor honden bij de meren van Kärnten. De watertemperaturen liggen op 18-22°C (juni) en 20-22°C (september), er zijn minder mensen, en hondenbeperkingen gelden ofwel nog niet ofwel zijn al verstreken. Juli en augustus zijn het hoofdzwemseizoen voor mensen - dan is de hondentoegang het sterkst beperkt.",
           "petPolicyDe": "Juni und September: minimale Hundebeschränkungen an den meisten Seen.",
+          "petPolicyNl": "Juni en september: minimale hondenbeperkingen bij de meeste meren.",
           "mustTryDe": "Ein Sonnenaufgangs-Bad im Juni am Maltschacher See, ganz ohne Menschen, ist einer der großen Hundereisemomente Europas.",
-          "tipDe": "Wenn Sie im Juli-August reisen müssen, buchen Sie eine Unterkunft direkt am Maltschacher See (Feriendorf) für garantierten Hundezugang zum See ohne Autofahrt."
+          "mustTryNl": "Een zonsopgangsbad in juni in het Maltschacher See, helemaal zonder mensen, is een van de grote hondenreismomenten van Europa.",
+          "tipDe": "Wenn Sie im Juli-August reisen müssen, buchen Sie eine Unterkunft direkt am Maltschacher See (Feriendorf) für garantierten Hundezugang zum See ohne Autofahrt.",
+          "tipNl": "Als je in juli-augustus moet reizen, boek dan een verblijf direct aan het Maltschacher See (vakantiedorp) voor gegarandeerde hondentoegang tot het meer zonder autorit."
         }
       ],
       "titleDe": "Reisetipps mit Haustier für Feldkirchen in Kärnten",
+      "titleNl": "Reistips met huisdier voor Feldkirchen in Kärnten",
       "introDe": "Österreich ist ein hervorragendes Land für Hunde. Die Seen und Berge Kärntens sind besonders einladend, und die Einheimischen nehmen das sommerliche Seeleben sehr ernst. Kennen Sie die Seeregeln (Hunde in den Hauptzeiten nicht an den Hauptstränden), führen Sie für öffentliche Verkehrsmittel einen Maulkorb mit, und sichern Sie Ihren Hund im Auto.",
-      "faqsDe": []
+      "introNl": "Oostenrijk is een uitstekend land voor honden. De meren en bergen van Kärnten zijn bijzonder gastvrij, en de lokale bevolking neemt het zomerse meerleven serieus. Ken de meerregels (honden mogen tijdens de hoofduren niet op de hoofdstranden), neem een muilkorf mee voor het openbaar vervoer, en zet je hond vast in de auto.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions near Feldkirchen",
@@ -671,9 +761,13 @@
           "tipPt": "Há água numa fonte perto da porta 3 - encha um recipiente de viagem para a subida.",
           "googleMapsUrl": "https://www.google.com/maps/search/Burg+Hochosterwitz+Karnten",
           "descriptionDe": "Eine der spektakulärsten mittelalterlichen Burgen Österreichs, thronend auf einem 160 m hohen Basaltfelsen. Der Zickzackweg führt durch 14 befestigte Tore zum Gipfel. Hunde sind an der Leine im gesamten Außenbereich der Burganlage erlaubt. Der 20-minütige Aufstieg ist für die meisten Hunde machbar.",
+          "descriptionNl": "Een van de spectaculairste middeleeuwse kastelen van Oostenrijk, tronend op een 160 m hoge basaltrots. Het zigzagpad loopt door 14 versterkte poorten naar de top. Aangelijnde honden zijn toegestaan in het hele buitengedeelte van het kasteelcomplex. De klim van 20 minuten is voor de meeste honden haalbaar.",
           "petPolicyDe": "Hunde an der Leine im gesamten Außenbereich der Burganlage; im Burgmuseum nicht erlaubt.",
+          "petPolicyNl": "Aangelijnde honden toegestaan in het hele buitengedeelte van het kasteelcomplex; niet toegestaan in het kasteelmuseum.",
           "mustTryDe": "Der Ausblick vom obersten Tor über das Kärntner Seenbecken an einem klaren Tag - wirklich eindrucksvoll.",
-          "tipDe": "Wasser gibt es an einem Brunnen nahe Tor 3 - füllen Sie für den Aufstieg einen Reisenapf auf."
+          "mustTryNl": "Het uitzicht vanaf de bovenste poort over het Karinthische merenbekken op een heldere dag - werkelijk indrukwekkend.",
+          "tipDe": "Wasser gibt es an einem Brunnen nahe Tor 3 - füllen Sie für den Aufstieg einen Reisenapf auf.",
+          "tipNl": "Er is water bij een fontein vlakbij poort 3 - vul een reisbakje voor de klim."
         },
         {
           "name": "Stift Ossiach - Cistercian Abbey",
@@ -701,9 +795,13 @@
           "tipPt": "O café da abadia tem um terraço à beira do lago - pergunte se o cão pode ficar consigo lá fora.",
           "googleMapsUrl": "https://www.google.com/maps/search/Stift+Ossiach+Kloster",
           "descriptionDe": "Ein Zisterzienserstift aus dem 11. Jahrhundert am Ufer des Ossiacher Sees, mit einer prächtigen Barockkirche und einem Stiftsgarten. Hunde sind im Stiftsgelände und Garten willkommen. Das Kircheninnere ist nur ohne Hund zugänglich. Im Sommer findet hier das Ossiacher Musikfestival statt.",
+          "descriptionNl": "Een cisterciënzerabdij uit de 11e eeuw aan de oever van het Ossiacher See, met een prachtige barokke kerk en een abdijtuin. Honden zijn welkom op het abdijterrein en in de tuin. Het interieur van de kerk is alleen zonder hond toegankelijk. In de zomer vindt hier het Ossiacher muziekfestival plaats.",
           "petPolicyDe": "Hunde im Gelände und Garten willkommen; im Inneren der Kirche nicht erlaubt.",
+          "petPolicyNl": "Honden welkom op het terrein en in de tuin; niet toegestaan in het interieur van de kerk.",
           "mustTryDe": "Der Seeblick von der Stiftsterrasse bei Sonnenuntergang - Spiegelungen der Kirche im Ossiacher See.",
-          "tipDe": "Das Stiftscafé hat eine Seeterrasse - fragen Sie, ob der Hund draußen mitkommen darf."
+          "mustTryNl": "Het uitzicht op het meer vanaf het abdijterras bij zonsondergang - weerspiegelingen van de kerk in het Ossiacher See.",
+          "tipDe": "Das Stiftscafé hat eine Seeterrasse - fragen Sie, ob der Hund draußen mitkommen darf.",
+          "tipNl": "Het abdijcafé heeft een terras aan het meer - vraag of de hond buiten mee mag."
         },
         {
           "name": "Pyramidenkogel Viewpoint Tower",
@@ -731,14 +829,21 @@
           "tipPt": "Visite numa manhã clara antes das nuvens se formarem nas montanhas - as vistas da tarde são frequentemente neblinosas.",
           "googleMapsUrl": "https://www.google.com/maps/search/Pyramidenkogel+Karnten+Aussichtsturm",
           "descriptionDe": "Der weltweit höchste Holzaussichtsturm (100 m) mit einem 360-Grad-Panorama über Kärntens Seen vom Wörthersee bis zum Ossiacher See. Hunde sind auf den Außenaussichtsplattformen und im Aufzug erlaubt. An einem klaren Tag sind gleichzeitig 6 Seen zu sehen.",
+          "descriptionNl": "De hoogste houten uitkijktoren ter wereld (100 m) met een 360-gradenpanorama over de meren van Kärnten, van het Wörthersee tot het Ossiacher See. Honden zijn toegestaan op de buitenuitkijkplatforms en in de lift. Op een heldere dag zijn tegelijk 6 meren te zien.",
           "petPolicyDe": "Hunde im Aufzug und auf den Außenaussichtsplattformen erlaubt; an der Leine halten.",
+          "petPolicyNl": "Honden toegestaan in de lift en op de buitenuitkijkplatforms; aan de lijn houden.",
           "mustTryDe": "Die Rutsche von der obersten Plattform ist nicht hundegeeignet, die Aussicht dagegen absolut.",
-          "tipDe": "An einem klaren Morgen besuchen, bevor sich Wolken über den Bergen bilden - Nachmittagsblicke sind oft diesig."
+          "mustTryNl": "De glijbaan vanaf het bovenste platform is niet geschikt voor honden, het uitzicht daarentegen absoluut.",
+          "tipDe": "An einem klaren Morgen besuchen, bevor sich Wolken über den Bergen bilden - Nachmittagsblicke sind oft diesig.",
+          "tipNl": "Bezoek op een heldere ochtend, voordat er wolken boven de bergen ontstaan - namiddaguitzichten zijn vaak wazig."
         }
       ],
       "titleDe": "Hundefreundliche Attraktionen nahe Feldkirchen",
+      "titleNl": "Hondvriendelijke attracties bij Feldkirchen",
       "introDe": "Feldkirchen ist ein Ausgangspunkt für Kärntens größte Highlights. Burg Hochosterwitz, die mittelalterliche Stadt Friesach, das Stift Ossiach und der Aussichtsturm Pyramidenkogel sind alle innerhalb einer Stunde erreichbar und heißen Hunde an der Leine willkommen.",
-      "faqsDe": []
+      "introNl": "Feldkirchen is een uitvalsbasis voor de grootste hoogtepunten van Kärnten. Burg Hochosterwitz, de middeleeuwse stad Friesach, Stift Ossiach en de uitkijktoren Pyramidenkogel zijn allemaal binnen een uur bereikbaar en heten aangelijnde honden welkom.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting and Dog Services in Feldkirchen",
@@ -776,9 +881,13 @@
           "tipPt": "Leve o cobertor ou brinquedo do seu cão - os cheiros familiares ajudam na primeira noite.",
           "googleMapsUrl": "https://www.google.com/maps/search/Hundepension+Tierhotel+Klagenfurt",
           "descriptionDe": "Klagenfurt verfügt über mehrere etablierte Hundepensionen. Suchen Sie „Tierhotel Klagenfurt“ oder „Hundepension Klagenfurt“ auf Google Maps nach aktuellen Optionen mit Bewertungen. Die meisten erfordern im Sommer (Kärntner Seesaison) eine Vorausbuchung - 2-3 Wochen im Voraus buchen.",
+          "descriptionNl": "Klagenfurt heeft meerdere gevestigde hondenpensions. Zoek op \"Tierhotel Klagenfurt\" of \"Hundepension Klagenfurt\" op Google Maps voor actuele opties met beoordelingen. De meeste vragen in de zomer (Karinthisch meerseizoen) om vooraf te boeken - boek 2-3 weken van tevoren.",
           "petPolicyDe": "Impfnachweise erforderlich (Tollwut, Staupe, Parvovirose, Zwingerhusten).",
+          "petPolicyNl": "Vaccinatiebewijs vereist (rabiës, hondenziekte, parvo, kennelhoest).",
           "mustTryDe": "Fragen Sie nach einem halbtägigen Probeaufenthalt, bevor Sie Ihren Hund zum ersten Mal über Nacht lassen.",
-          "tipDe": "Bringen Sie die eigene Decke oder das Spielzeug Ihres Hundes mit - vertraute Gerüche helfen bei der ersten Übernachtung."
+          "mustTryNl": "Vraag naar een halve-dag-proefverblijf voordat je je hond voor het eerst 's nachts achterlaat.",
+          "tipDe": "Bringen Sie die eigene Decke oder das Spielzeug Ihres Hundes mit - vertraute Gerüche helfen bei der ersten Übernachtung.",
+          "tipNl": "Neem de eigen deken of het speelgoed van je hond mee - vertrouwde geuren helpen bij de eerste overnachting."
         },
         {
           "name": "Feriendorf am Maltschacher See",
@@ -806,9 +915,13 @@
           "tipPt": "Se o Feriendorf estiver cheio, chalés similares existem no Ossiacher See - pesquise 'Ferienwohnungen Ossiach Hund' em sites de propriedades alemães.",
           "googleMapsUrl": "https://www.google.com/maps/search/Feriendorf+Maltschacher+See",
           "descriptionDe": "Das Feriendorf am Maltschacher See ist eine haustierfreundliche Chalet-Anlage mit direktem Seezugang - die bestätigte Buchung, die Feldkirchen auf unseren Radar brachte. Ein Aufenthalt hier löst das Problem des Hundezugangs zum See vollständig. Die Chalets sind Selbstversorger mit Garten.",
+          "descriptionNl": "Het vakantiedorp aan het Maltschacher See is een huisdiervriendelijk chaletcomplex met directe toegang tot het meer - de bevestigde boeking die Feldkirchen op onze radar bracht. Een verblijf hier lost het probleem van hondentoegang tot het meer volledig op. De chalets hebben een eigen keuken en tuin.",
           "petPolicyDe": "Haustiere in Chalets willkommen; Seezugang vom privaten Grundstück aus.",
+          "petPolicyNl": "Huisdieren welkom in chalets; toegang tot het meer vanaf het privéterrein.",
           "mustTryDe": "Buchen Sie direkt und fragen Sie nach einem Chalet mit direktem Garten-Seezugang für das beste Erlebnis mit Hund.",
-          "tipDe": "Wenn das Feriendorf ausgebucht ist, gibt es ähnliche Seechalets am Ossiacher See - suchen Sie „Ferienwohnungen Ossiach Hund“ auf deutschen Immobilienseiten."
+          "mustTryNl": "Boek rechtstreeks en vraag naar een chalet met directe tuin-meertoegang voor de beste ervaring met je hond.",
+          "tipDe": "Wenn das Feriendorf ausgebucht ist, gibt es ähnliche Seechalets am Ossiacher See - suchen Sie „Ferienwohnungen Ossiach Hund“ auf deutschen Immobilienseiten.",
+          "tipNl": "Als het vakantiedorp volgeboekt is, zijn er vergelijkbare meerchalets bij het Ossiacher See - zoek op \"Ferienwohnungen Ossiach Hund\" op Duitse vastgoedsites."
         },
         {
           "name": "Rover.com Austria",
@@ -836,14 +949,21 @@
           "tipPt": "Os perfis em alemão respondem frequentemente mais rápido - uma breve mensagem em alemão ajuda.",
           "googleMapsUrl": "https://www.google.com/maps/search/dog+sitter+Klagenfurt+Feldkirchen",
           "descriptionDe": "Rover verbindet Haustierbesitzer mit lokalen Betreuern in Österreich. Klagenfurt und Villach haben die meisten registrierten Betreuer in der Nähe von Feldkirchen. In der Hochsaison Juli-August 2 Wochen im Voraus buchen.",
+          "descriptionNl": "Rover verbindt huisdiereigenaren met lokale oppassers in Oostenrijk. Klagenfurt en Villach hebben de meeste geregistreerde oppassers in de buurt van Feldkirchen. In het hoogseizoen juli-augustus 2 weken van tevoren boeken.",
           "petPolicyDe": "Variiert je nach Betreuer; einzelne Profile prüfen.",
+          "petPolicyNl": "Varieert per oppasser; check afzonderlijke profielen.",
           "mustTryDe": "Stellen Sie den Suchort auf Klagenfurt ein, für die beste Abdeckung in der Nähe.",
-          "tipDe": "Deutschsprachige Betreuerprofile antworten oft schneller - eine kurze Nachricht auf Deutsch hilft."
+          "mustTryNl": "Stel de zoeklocatie in op Klagenfurt voor de beste dekking in de buurt.",
+          "tipDe": "Deutschsprachige Betreuerprofile antworten oft schneller - eine kurze Nachricht auf Deutsch hilft.",
+          "tipNl": "Duitstalige oppasserprofielen reageren vaak sneller - een kort berichtje in het Duits helpt."
         }
       ],
       "titleDe": "Haustierbetreuung und Hundeservice in Feldkirchen",
+      "titleNl": "Huisdieroppas en hondenservice in Feldkirchen",
       "introDe": "Feldkirchen verfügt über ein begrenztes Angebot an dedizierten Haustierbetreuungsdiensten. Klagenfurt (25 km) bietet das umfangreichste Angebot an Hundepensionen und Tierhotels in der Region. Viele Kärntner Seehotels akzeptieren Hunde und können manchmal lokale Gassigeher für Tagesausflüge empfehlen.",
-      "faqsDe": []
+      "introNl": "Feldkirchen heeft een beperkt aanbod aan gespecialiseerde huisdieroppasdiensten. Klagenfurt (25 km) biedt het ruimste aanbod aan hondenpensions en dierenhotels in de regio. Veel meerhotels in Kärnten accepteren honden en kunnen soms lokale uitlaters aanbevelen voor dagtrips.",
+      "faqsDe": [],
+      "faqsNl": []
     }
   }
 }

@@ -39,9 +39,13 @@
           "mustTryPt": "Bacalhau, bife de rena, sopa de peixe de Bergen",
           "tipPt": "Reserve uma mesa de canto do lado Stuene, o piso superior Loftet tem uma escada estreita e íngreme, difícil para cães idosos.",
           "descriptionDe": "Ein traditionelles norwegisches Restaurant im UNESCO-Kai Bryggen, Holzböden, niedrige Balken, hundetolerant auf der Erdgeschossseite Stuene. Bekannt für frischen Stockfisch, Rentiersteak und norwegisches Walfleisch-Carpaccio.",
+          "descriptionNl": "Een traditioneel Noors restaurant op de UNESCO-kade Bryggen, houten vloeren, lage balken, hondvriendelijk aan de kant van de Stuene op de begane grond. Bekend om verse stokvis, rendiersteak en Noorse walvisvlees-carpaccio.",
           "petPolicyDe": "Hunde willkommen im Erdgeschoss Stuene + draußen",
+          "petPolicyNl": "Honden welkom op de begane grond (Stuene) + buiten",
           "mustTryDe": "Bacalao, Rentiersteak, Bergener Fischsuppe",
-          "tipDe": "Reservieren Sie einen Ecktisch auf der Stuene-Seite, das obere Loftet hat eine steile, enge Treppe, die für ältere Hunde schwierig ist."
+          "mustTryNl": "Bacalao, rendiersteak, Bergense vissoep",
+          "tipDe": "Reservieren Sie einen Ecktisch auf der Stuene-Seite, das obere Loftet hat eine steile, enge Treppe, die für ältere Hunde schwierig ist.",
+          "tipNl": "Reserveer een hoektafel aan de Stuene-kant, de bovenverdieping Loftet heeft een steile, smalle trap die lastig is voor oudere honden."
         },
         {
           "name": "Pingvinen",
@@ -69,9 +73,13 @@
           "mustTryPt": "Raspeballer (bolinhos de batata), almôndegas norueguesas, cerveja local",
           "tipPt": "A quinta-feira é o dia do Raspeballer, a tradição dos bolinhos atrai clientes habituais e os seus cães de toda a cidade. Reserve ou chegue às 17:00.",
           "descriptionDe": "Eine unkomplizierte Institution Bergens seit 2000, Pingvinen serviert traditionelle norwegische Hausmannskost und Craft-Bier in einem holzvertäfelten Raum, der Hunde ausdrücklich drinnen willkommen heißt. Ein fester Wassernapf für Hunde an der Bar; die Küche gibt manchmal Reste ab.",
+          "descriptionNl": "Een nuchtere instelling van Bergen sinds 2000, Pingvinen serveert traditionele Noorse huiskost en craftbier in een houten interieur dat honden uitdrukkelijk binnen verwelkomt. Een vast waterbakje voor honden bij de bar; de keuken geeft soms restjes weg.",
           "petPolicyDe": "Hunde ausdrücklich drinnen willkommen",
+          "petPolicyNl": "Honden uitdrukkelijk welkom binnen",
           "mustTryDe": "Raspeballer (Kartoffelklöße), norwegische Frikadellen, lokales Bier",
-          "tipDe": "Donnerstag ist Raspeballer-Tag, die Klößtradition zieht Stammgäste und ihre Hunde aus der ganzen Stadt an. Reservieren oder um 17:00 Uhr kommen."
+          "mustTryNl": "Raspeballer (aardappelballen), Noorse gehaktballen, lokaal bier",
+          "tipDe": "Donnerstag ist Raspeballer-Tag, die Klößtradition zieht Stammgäste und ihre Hunde aus der ganzen Stadt an. Reservieren oder um 17:00 Uhr kommen.",
+          "tipNl": "Donderdag is raspeballer-dag, de traditie van deze aardappelballen trekt vaste gasten en hun honden uit de hele stad. Reserveer of kom om 17:00 uur."
         },
         {
           "name": "Daily Pot",
@@ -99,9 +107,13 @@
           "mustTryPt": "Taça poke de salmão, ramen de miso, cervejas artesanais norueguesas",
           "tipPt": "As lâmpadas aquecedoras exteriores ligam-se de outubro a abril, os habitantes de Bergen comem lá fora o ano inteiro e os cães são bem-vindos sob o calor.",
           "descriptionDe": "Eine moderne asiatisch-fusionierte Bowl-Bar in der angesagten Fußgängerzone Marken. Die Außensitzplätze sind ganzjährig hundefreundlich (Heizstrahler im Winter), und die Bar drinnen nimmt wohlerzogene Hunde zu ruhigeren Zeiten an.",
+          "descriptionNl": "Een moderne Aziatisch-fusion bowl-bar in de trendy voetgangerszone Marken. De buitenzitplaatsen zijn het hele jaar hondvriendelijk (terrasverwarming in de winter), en de bar binnen laat goed opgevoede honden toe op rustigere momenten.",
           "petPolicyDe": "Draußen ganzjährig; drinnen zu ruhigeren Zeiten",
+          "petPolicyNl": "Buiten het hele jaar; binnen op rustige momenten",
           "mustTryDe": "Lachs-Poke-Bowl, Miso-Ramen, norwegisches Craft-Bier",
-          "tipDe": "Die Heizstrahler draußen laufen von Oktober bis April, Einwohner Bergens essen ganzjährig draußen, und Hunde sind unter der Wärme willkommen."
+          "mustTryNl": "Zalm-pokébowl, miso-ramen, Noors craftbier",
+          "tipDe": "Die Heizstrahler draußen laufen von Oktober bis April, Einwohner Bergens essen ganzjährig draußen, und Hunde sind unter der Wärme willkommen.",
+          "tipNl": "De terrasverwarming buiten staat aan van oktober tot april, inwoners van Bergen eten het hele jaar buiten, en honden zijn welkom onder de warmte."
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Bergen",
+      "titleNl": "Hondvriendelijke restaurants in Bergen",
       "introDe": "Bergen hat Norwegens entspannteste Café-Kultur gegenüber Hunden. Die Lokale am Hafen von Bryggen, die Cafés in der Gasse Skostredet und das Viertel Sandviken heißen angeleinte Hunde auf ihren Außenterrassen alle willkommen, und viele Cafés auch drinnen, besonders in den kalten Monaten, wenn Sitzen im Freien nicht praktikabel ist.",
+      "introNl": "Bergen heeft Noorwegens meest ontspannen cafécultuur ten opzichte van honden. De zaken aan de haven van Bryggen, de cafés in het steegje Skostredet en de wijk Sandviken verwelkomen allemaal aangelijnde honden op hun buitenterrassen, en veel cafés ook binnen, vooral in de koude maanden wanneer buiten zitten niet haalbaar is.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Bergen erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Kann ich meinen Hund im Winter mit ins Restaurant nehmen?",
           "a": "Viele Lokale erlauben das, besonders zu ruhigeren Zeiten (Mittag, später Abend). Die Winter in Bergen sind nass und kalt, fragen Sie höflich, die Einheimischen haben Verständnis."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden in restaurants in Bergen?",
+          "a": "Er is geen Noorse wet die honden verbiedt of toestaat, elk restaurant beslist zelf. Bergen is een van de huisdiertolerantste steden van het land; de meeste onafhankelijke cafés en pubs verwelkomen honden, zeker buiten."
+        },
+        {
+          "q": "Bieden cafés in Bergen waterbakjes aan?",
+          "a": "De meeste wel, zeker in de toeristische wijken Bryggen en Marken. Vraag naar \"vann til hunden\" (water voor de hond), dat wordt nooit geweigerd."
+        },
+        {
+          "q": "Kan ik mijn hond 's winters mee het restaurant in nemen?",
+          "a": "Veel zaken staan dat toe, zeker op rustigere momenten (lunch, late avond). De winters in Bergen zijn nat en koud, vraag beleefd, de locals hebben er begrip voor."
         }
       ]
     },
@@ -233,9 +261,13 @@
           "facilitiesPt": "Funicular, café, trilhos assinalados, plataformas panorâmicas",
           "tipPt": "O Fløibanen aceita cães gratuitamente, mas conte com 30 min de espera no verão, os cães grandes podem ter de esperar pela carruagem seguinte. A descida a pé demora 1h e é totalmente acolhedora para cães.",
           "descriptionDe": "Der am leichtesten zugängliche der sieben Berge Bergens, erreichbar mit der Fløibanen-Standseilbahn (Hunde kostenlos) in 7 Minuten vom Stadtzentrum. Oben gibt es 50 km markierte Wege durch Kiefernwald, Panoramablicke über Bergen, ein Café mit Außensitzplätzen, und Hunde laufen auf dem oberen Plateau ohne Leine (außerhalb der Brutzeit).",
+          "descriptionNl": "De makkelijkst bereikbare van de zeven bergen van Bergen, te bereiken met de kabelbaan Fløibanen (honden gratis) in 7 minuten vanaf het stadscentrum. Bovenaan liggen 50 km gemarkeerde paden door dennenbos, panoramisch uitzicht over Bergen, een café met buitenzitplaatsen, en honden lopen los op het bovenste plateau (buiten het broedseizoen).",
           "petPolicyDe": "Ohne Leine auf dem Plateau (21. Aug.-31. März); Leinenpflicht 1. Apr.-20. Aug.",
+          "petPolicyNl": "Los op het plateau (21 aug.-31 maart); aanlijnplicht 1 apr.-20 aug.",
           "facilitiesDe": "Standseilbahn, Café, markierte Wege, Aussichtsplattformen",
-          "tipDe": "Die Fløibanen nimmt Hunde kostenlos mit, aber rechnen Sie im Sommer mit 30 Minuten Wartezeit, große Hunde müssen eventuell auf die nächste Kabine warten. Der Abstieg zu Fuß dauert 1 Stunde und ist durchgehend hundefreundlich."
+          "facilitiesNl": "Kabelbaan, café, gemarkeerde paden, uitzichtplatforms",
+          "tipDe": "Die Fløibanen nimmt Hunde kostenlos mit, aber rechnen Sie im Sommer mit 30 Minuten Wartezeit, große Hunde müssen eventuell auf die nächste Kabine warten. Der Abstieg zu Fuß dauert 1 Stunde und ist durchgehend hundefreundlich.",
+          "tipNl": "De Fløibanen neemt honden gratis mee, maar reken in de zomer op 30 minuten wachttijd, grote honden moeten mogelijk op de volgende cabine wachten. De afdaling te voet duurt 1 uur en is de hele route hondvriendelijk."
         },
         {
           "name": "Mount Ulriken",
@@ -263,9 +295,13 @@
           "facilitiesPt": "Teleférico, café no cume, trilhos assinalados",
           "tipPt": "Suba de teleférico e faça o Vidden a pé até Fløyen, depois desça pelo Fløibanen. 5-6h de caminhada no total, quase toda sem trela, a caminhada de assinatura de Bergen.",
           "descriptionDe": "Mit 643 m Bergens höchster Berg, erreichbar mit der Seilbahn Ulriken643 (Hunde mit Leine kostenlos). Endlose Wege entlang des Bergkamms, darunter die berühmte 14-km-Wanderung Vidden zwischen Ulriken und Fløyen. Der Wind auf dem Gipfel kann heftig sein, Hunde müssen daran gewöhnt sein.",
+          "descriptionNl": "Met 643 m de hoogste berg van Bergen, te bereiken met de kabelbaan Ulriken643 (honden aan de lijn gratis mee). Eindeloze paden langs de bergkam, waaronder de beroemde 14 km lange Vidden-wandeling tussen Ulriken en Fløyen. De wind op de top kan hevig zijn, honden moeten daaraan gewend zijn.",
           "petPolicyDe": "Seilbahn: Leine + Transportbox erforderlich",
+          "petPolicyNl": "Kabelbaan: lijn + reismand vereist",
           "facilitiesDe": "Seilbahn, Café am Gipfel, markierte Wege",
-          "tipDe": "Nehmen Sie die Seilbahn hinauf, wandern Sie den Vidden-Weg hinüber nach Fløyen und dann mit der Fløibanen hinunter. 5-6 Stunden Gesamtwanderung, größtenteils ohne Leine, die Signature-Wanderung Bergens."
+          "facilitiesNl": "Kabelbaan, café op de top, gemarkeerde paden",
+          "tipDe": "Nehmen Sie die Seilbahn hinauf, wandern Sie den Vidden-Weg hinüber nach Fløyen und dann mit der Fløibanen hinunter. 5-6 Stunden Gesamtwanderung, größtenteils ohne Leine, die Signature-Wanderung Bergens.",
+          "tipNl": "Neem de kabelbaan naar boven, wandel de Vidden-route naar Fløyen en daal dan af met de Fløibanen. 5-6 uur totale wandeling, grotendeels los, dé signatuurwandeling van Bergen."
         },
         {
           "name": "Nygårdsparken",
@@ -293,9 +329,13 @@
           "facilitiesPt": "Lago, caminhos para passear, bancos, casas de banho públicas",
           "tipPt": "No domingo de manhã há um encontro canino informal no relvado sul, os locais conversam enquanto os cães brincam. A melhor altura para socializar o seu cão.",
           "descriptionDe": "Der größte Stadtpark Bergens, 80.000 m² romantische englische Gartenanlagen mit einem kleinen Teich, altem Baumbestand und Fußwegen. Angeleinte Hunde ganzjährig willkommen; die Südwiese ist außerhalb der Brutzeit ein beliebter Freilaufbereich.",
+          "descriptionNl": "Het grootste stadspark van Bergen, 80.000 m² romantische Engelse tuinaanleg met een klein vijvertje, oude bomen en wandelpaden. Aangelijnde honden het hele jaar welkom; de zuidelijke wei is buiten het broedseizoen een populair losloopgebied.",
           "petPolicyDe": "Leinenpflicht ganzjährig; Freilauf auf der Südwiese (21. Aug.-31. März)",
+          "petPolicyNl": "Aanlijnplicht het hele jaar; loslopen op de zuidelijke wei (21 aug.-31 maart)",
           "facilitiesDe": "Teich, Spazierwege, Bänke, öffentliche Toiletten",
-          "tipDe": "Sonntagvormittags trifft sich informell eine Hundegruppe auf der Südwiese, Einheimische unterhalten sich, während die Hunde spielen. Beste Zeit, um Ihren Hund zu sozialisieren."
+          "facilitiesNl": "Vijver, wandelpaden, bankjes, openbare toiletten",
+          "tipDe": "Sonntagvormittags trifft sich informell eine Hundegruppe auf der Südwiese, Einheimische unterhalten sich, während die Hunde spielen. Beste Zeit, um Ihren Hund zu sozialisieren.",
+          "tipNl": "Op zondagochtend komt een informele hondengroep samen op de zuidelijke wei, locals kletsen terwijl de honden spelen. Het beste moment om je hond te socialiseren."
         }
       ],
       "tipsEn": [
@@ -377,7 +417,9 @@
         }
       ],
       "titleDe": "Hundeparks & Natur in Bergen",
+      "titleNl": "Hondenparken & natuur in Bergen",
       "introDe": "Bergen liegt eingekeilt zwischen sieben Bergen und dem Meer, ein reines Freilaufparadies für Hunde, sobald man das Stadtzentrum verlässt. Das norwegische „allemannsrett\" (Jedermannsrecht) bedeutet, dass Sie Hunde fast überall in der Natur führen können, ohne Leine vom 21. August bis 31. März, mit Leine vom 1. April bis 20. August (Vogelbrutzeit).",
+      "introNl": "Bergen ligt ingeklemd tussen zeven bergen en de zee, een waar losloopparadijs voor honden zodra je het stadscentrum verlaat. Het Noorse \"allemannsrett\" (recht van vrije toegang) betekent dat je je hond bijna overal in de natuur kunt uitlaten, los van 21 augustus tot 31 maart, aangelijnd van 1 april tot 20 augustus (broedseizoen van vogels).",
       "faqsDe": [
         {
           "q": "Wo dürfen Hunde in Bergen ohne Leine laufen?",
@@ -390,6 +432,20 @@
         {
           "q": "Wie sieht die Leinenpflicht-Saison in Norwegen aus?",
           "a": "1. April bis 20. August: Hunde müssen überall außerhalb ausgewiesener Hundeparks angeleint sein, zum Schutz bodenbrütender Vögel. Außerhalb dieser Zeit gelten lokale Regeln, Bergen verlangt Leinenpflicht in Stadtparks, erlaubt aber Freilauf in den Bergen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar mogen honden in Bergen loslopen?",
+          "a": "Vrijwel overal in de natuur buiten de aanlijnplicht van 1 april tot 20 augustus. Het plateau van de Fløyen, de top van de Ulriken, de Vidden-wandelroute, de zuidelijke wei van het Nygårdsparken en de meeste stranden buiten het stadscentrum."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen op de kabelbaan Fløibanen?",
+          "a": "Ja, aangelijnde honden reizen gratis mee. De kabelbaan rijdt elke 15 minuten van 07:30 tot 23:00 uur, de enkele rit duurt 7 minuten."
+        },
+        {
+          "q": "Hoe zit het met het aanlijnseizoen in Noorwegen?",
+          "a": "1 april tot 20 augustus: honden moeten overal buiten aangewezen hondenparken aangelijnd zijn, ter bescherming van grondbroedende vogels. Buiten die periode gelden lokale regels, Bergen vereist aanlijnen in stadsparken, maar staat loslopen toe in de bergen."
         }
       ]
     },
@@ -417,7 +473,9 @@
           "descriptionPt": "A rede Skyss de Bergen cobre todos os autocarros urbanos e o elétrico Bybanen (metro de superfície) que percorre 19 km do centro da cidade até ao aeroporto. Os cães com trela viajam grátis em toda a rede. O condutor só pode recusar por razões de segurança, o que é muito raro.",
           "petPolicyPt": "Cães com trela grátis, de todos os tamanhos",
           "descriptionDe": "Bergens Skyss-Netz umfasst alle Stadtbusse und die Stadtbahn Bybanen, die 19 km vom Stadtzentrum zum Flughafen fährt. Angeleinte Hunde fahren im gesamten Netz kostenlos mit. Fahrer können nur aus Sicherheitsgründen ablehnen, sehr selten.",
-          "petPolicyDe": "Angeleinte Hunde kostenlos, alle Größen"
+          "descriptionNl": "Het Skyss-netwerk van Bergen omvat alle stadsbussen en de tram Bybanen, die 19 km van het stadscentrum naar de luchthaven rijdt. Aangelijnde honden reizen gratis mee in het hele netwerk. Chauffeurs mogen alleen om veiligheidsredenen weigeren, wat zeer zelden gebeurt.",
+          "petPolicyDe": "Angeleinte Hunde kostenlos, alle Größen",
+          "petPolicyNl": "Aangelijnde honden gratis, alle formaten"
         },
         {
           "name": "Vy Regional Trains (Bergen Station)",
@@ -435,7 +493,9 @@
           "descriptionPt": "A Vy explora os comboios regionais a partir de Bergen, sendo o mais famoso o Bergensbanen para Oslo, pelo icónico planalto de montanha (6h30, bilhete canino 200 NOK). Cães pequenos em transportadora viajam grátis; cães maiores em carruagens dedicadas a cães por metade do preço.",
           "petPolicyPt": "Cães pequenos grátis em transportadora; cães maiores a metade do preço",
           "descriptionDe": "Vy betreibt Regionalzüge ab Bergen, am bekanntesten die Bergensbahn nach Oslo über das ikonische Bergplateau (6 Std. 30 Min., Hundeticket 200 NOK). Kleinere Hunde in Transporttaschen fahren kostenlos; größere Hunde in eigenen Hundewagen zum halben Preis.",
-          "petPolicyDe": "Kleine Hunde kostenlos in Transporttasche; größere Hunde zum halben Preis"
+          "descriptionNl": "Vy exploiteert regiotreinen vanuit Bergen, met als bekendste de Bergensbahn naar Oslo over het iconische bergplateau (6 uur 30 min., hondenticket 200 NOK). Kleinere honden in een reistas reizen gratis; grotere honden in een eigen hondenwagon voor de halve prijs.",
+          "petPolicyDe": "Kleine Hunde kostenlos in Transporttasche; größere Hunde zum halben Preis",
+          "petPolicyNl": "Kleine honden gratis in reistas; grotere honden voor de halve prijs"
         }
       ],
       "tipsEn": [
@@ -517,7 +577,9 @@
         }
       ],
       "titleDe": "Mit Hund unterwegs in Bergen",
+      "titleNl": "Onderweg met je hond in Bergen",
       "introDe": "Bergen hat eines der haustierfreundlichsten Verkehrsnetze Skandinaviens, die Skyss-Busse und die Stadtbahn Bybanen nehmen alle angeleinten Hunde kostenlos mit, ebenso die Standseilbahn Fløibanen, und die Vy-Regionalzüge nördlich und südlich der Stadt nehmen Hunde mit einem kleinen Hundeticket mit. Auch die Hurtigruten-Fähre Bergen-Stavanger nimmt Hunde mit.",
+      "introNl": "Bergen heeft een van de meest huisdiervriendelijke vervoersnetwerken van Scandinavië, de Skyss-bussen en de tram Bybanen nemen alle aangelijnde honden gratis mee, net als de kabelbaan Fløibanen, en de Vy-regiotreinen ten noorden en zuiden van de stad nemen honden mee tegen een klein hondenticket. Ook de Hurtigruten-veerboot Bergen-Stavanger neemt honden mee.",
       "faqsDe": [
         {
           "q": "Fahren Hunde in Bergens öffentlichen Verkehrsmitteln wirklich kostenlos mit?",
@@ -530,6 +592,20 @@
         {
           "q": "Kann ich meinen Hund auf eine Fjordkreuzfahrt mitnehmen?",
           "a": "Ja, die meisten Fjordanbieter (Fjord Tours, Norled) nehmen angeleinte Hunde auf den Außendecks mit. Die Hurtigruten-Küstenfahrt nach Norden ist mit privater Kabine hundefreundlich."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Reizen honden echt gratis mee in het openbaar vervoer van Bergen?",
+          "a": "Ja, alle aangelijnde honden reizen gratis mee in de Skyss-bussen, de tram Bybanen en de kabelbaan Fløibanen. Vy-regiotreinen rekenen voor grotere honden de halve prijs."
+        },
+        {
+          "q": "Hoe kom ik met hond van luchthaven Bergen naar het centrum?",
+          "a": "Tramlijn Bybanen lijn 1 rijdt in 45 minuten van BGO naar het stadscentrum. Aangelijnde honden gratis mee. Trams elke 8-10 minuten overdag."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen op een fjordcruise?",
+          "a": "Ja, de meeste fjordaanbieders (Fjord Tours, Norled) nemen aangelijnde honden mee op de buitendekken. De kusttocht (Kystruten) van Hurtigruten naar het noorden is hondvriendelijk met een privécabine."
         }
       ]
     },
@@ -562,8 +638,11 @@
           "petPolicyPt": "Sem trela 21 ago-31 mar; com trela 1 abr-20 ago",
           "tipPt": "As águas de Bergen têm em média 8-13°C mesmo em agosto, a maioria dos cães apenas chapinha. Leve uma toalha e um corta-vento; o vento do fiorde pode ser brutal no outono.",
           "descriptionDe": "Eine kleine felsige Bucht an der Nordküste von Sandviken, 15 Minuten mit dem Bus vom Stadtzentrum. Ganzjährig hundetolerant; ohne Leine außerhalb der Brutzeit. Fjordblick und sanfter Zugang ins Wasser des Byfjorden, nur für wetterfeste Hunde.",
+          "descriptionNl": "Een kleine rotsachtige baai aan de noordkust van Sandviken, 15 minuten met de bus vanaf het stadscentrum. Het hele jaar hondvriendelijk; los buiten het broedseizoen. Fjorduitzicht en zachte toegang tot het water van de Byfjorden, alleen voor weerbestendige honden.",
           "petPolicyDe": "Ohne Leine 21. Aug.-31. März; Leinenpflicht 1. Apr.-20. Aug.",
-          "tipDe": "Das Wasser bei Bergen hat auch im August durchschnittlich nur 8-13 °C, die meisten Hunde plantschen nur. Bringen Sie ein Handtuch und eine Windjacke mit, der Fjordwind kann im Herbst heftig sein."
+          "petPolicyNl": "Los 21 aug.-31 maart; aanlijnplicht 1 apr.-20 aug.",
+          "tipDe": "Das Wasser bei Bergen hat auch im August durchschnittlich nur 8-13 °C, die meisten Hunde plantschen nur. Bringen Sie ein Handtuch und eine Windjacke mit, der Fjordwind kann im Herbst heftig sein.",
+          "tipNl": "Het water bij Bergen heeft ook in augustus gemiddeld maar 8-13 °C, de meeste honden plonzen er alleen wat rond. Neem een handdoek en een windjack mee, de fjordwind kan in de herfst hevig zijn."
         },
         {
           "name": "Korsen Hundebadeplass",
@@ -586,8 +665,11 @@
           "petPolicyPt": "Sem trela o ano inteiro",
           "tipPt": "Ao sábado de manhã há aulas informais de treino de cães no relvado, os locais acolhem os visitantes que se juntam com os seus cães.",
           "descriptionDe": "Bergens einziger offizieller Hundestrand („hundebadeplass\"), am Südufer des Sees Nordåsvatnet. Ganzjährig ohne Leine, Süßwasserbaden, sanfte Zugänge für alte Hunde. Kostenloses Parken, Picknicktische, echtes Einheimischen-Flair.",
+          "descriptionNl": "Het enige officiële hondenstrand van Bergen (\"hundebadeplass\"), aan de zuidoever van het meer Nordåsvatnet. Het hele jaar los, zoetwaterzwemmen, zachte toegang voor oudere honden. Gratis parkeren, picknicktafels, echte lokale sfeer.",
           "petPolicyDe": "Ganzjährig ohne Leine",
-          "tipDe": "Samstagvormittags finden auf der Wiese informelle Hundetrainingskurse statt, Einheimische heißen Besucher, die mit ihren Hunden mitmachen, willkommen."
+          "petPolicyNl": "Het hele jaar los",
+          "tipDe": "Samstagvormittags finden auf der Wiese informelle Hundetrainingskurse statt, Einheimische heißen Besucher, die mit ihren Hunden mitmachen, willkommen.",
+          "tipNl": "Op zaterdagochtend vinden op het grasveld informele hondentrainingen plaats, locals verwelkomen bezoekers die met hun hond meedoen."
         }
       ],
       "tipsEn": [
@@ -669,7 +751,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände & Fjorde bei Bergen",
+      "titleNl": "Hondvriendelijke stranden & fjorden bij Bergen",
       "introDe": "Bergen hat direkten Zugang zum Meer, aber „Strand\" bedeutet hier felsige Buchten, kaltes Baden (Atlantiktemperaturen um 12 °C im Sommer) und dramatische Fjordküsten statt Sandbaden. Hunde sind außerhalb der Leinenpflicht-Saison an praktisch jedem Strand und Ufer willkommen.",
+      "introNl": "Bergen heeft directe toegang tot zee, maar \"strand\" betekent hier rotsachtige baaien, koud zwemmen (Atlantische temperaturen rond 12 °C in de zomer) en dramatische fjordkusten in plaats van zandstranden. Honden zijn buiten het aanlijnseizoen welkom op vrijwel elk strand en elke oever.",
       "faqsDe": [
         {
           "q": "Kann mein Hund im Fjord schwimmen?",
@@ -682,6 +766,20 @@
         {
           "q": "Kann ich meinen Hund auf eine Hurtigruten-Kreuzfahrt ab Bergen mitnehmen?",
           "a": "Ja, die Küstenfahrt (Kystruten) von Hurtigruten nimmt Hunde in eigenen Haustierkabinen mit. Buchung 2 Monate im Voraus im Sommer empfohlen; Haustierzuschlag fällt an."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan mijn hond zwemmen in de fjord?",
+          "a": "Technisch gezien wel, buiten het aanlijnseizoen, maar het water is 8-13 °C koud, de meeste honden plonzen er alleen wat rond. Het meer Korsen (hundebadeplass) is in de zomer frisser en warmer (15-18 °C) en de veiligere keuze."
+        },
+        {
+          "q": "Zijn er zandstranden bij Bergen?",
+          "a": "Geen echte zandstranden in het centrum van Bergen. De dichtstbijzijnde liggen 1 uur zuidelijk bij Borshavn (kleine zandbaai) of 2 uur zuidelijk bij Bryggjaå (lang strand in de Sognefjord). De meeste \"stranden\" van Bergen zijn rotsachtig."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen op een Hurtigruten-cruise vanuit Bergen?",
+          "a": "Ja, de kusttocht (Kystruten) van Hurtigruten neemt honden mee in eigen huisdiercabines. Boeken 2 maanden van tevoren in de zomer aanbevolen; er geldt een huisdiertoeslag."
         }
       ]
     },
@@ -719,9 +817,13 @@
           "servicesPt": "Urgências, cirurgia, imagiologia, oncologia, dermatologia",
           "tipPt": "Ligue sempre primeiro (+47 55 70 33 30), o enfermeiro de triagem confirma o veterinário de serviço e pode poupar-lhe uma viagem de 30 min às 3 da manhã. Estacionamento gratuito no local.",
           "descriptionDe": "Bergens führende rund um die Uhr geöffnete Notfallklinik, in einem Einkaufszentrum südlich der Stadt gelegen. Vollständige Diagnostik (CT, Ultraschall, Röntgen), Operationssaal, Intensivstation, Onkologie- und Dermatologiespezialisten. Dient als Anlaufstelle außerhalb der Öffnungszeiten für die meisten lokalen Praxen.",
+          "descriptionNl": "De belangrijkste 24-uursspoedkliniek van Bergen, gevestigd in een winkelcentrum ten zuiden van de stad. Volledige diagnostiek (CT, echografie, röntgen), operatiekamer, intensive care, oncologie- en dermatologiespecialisten. Fungeert als aanspreekpunt buiten openingstijden voor de meeste lokale praktijken.",
           "petPolicyDe": "24/7-Notfälle ohne Termin werden angenommen",
+          "petPolicyNl": "24/7 spoedgevallen zonder afspraak worden aangenomen",
           "servicesDe": "Notfallmedizin, Chirurgie, Bildgebung, Onkologie, Dermatologie",
-          "tipDe": "Rufen Sie immer zuerst an (+47 55 70 33 30), die Triage-Krankenschwester bestätigt den diensthabenden Tierarzt und erspart Ihnen möglicherweise um 3 Uhr morgens eine 30-minütige Fahrt. Kostenloses Parken vor Ort."
+          "servicesNl": "Spoedeisende geneeskunde, chirurgie, beeldvorming, oncologie, dermatologie",
+          "tipDe": "Rufen Sie immer zuerst an (+47 55 70 33 30), die Triage-Krankenschwester bestätigt den diensthabenden Tierarzt und erspart Ihnen möglicherweise um 3 Uhr morgens eine 30-minütige Fahrt. Kostenloses Parken vor Ort.",
+          "tipNl": "Bel altijd eerst (+47 55 70 33 30), de triageverpleegkundige bevestigt de dienstdoende dierenarts en bespaart je mogelijk om 3 uur 's nachts een rit van 30 minuten. Gratis parkeren ter plaatse."
         },
         {
           "name": "AniCura Eidsvågneset",
@@ -749,9 +851,13 @@
           "servicesPt": "Urgências, cirurgia, imagiologia",
           "tipPt": "Mais perto do centro da cidade do que a Bergen Sør, preferível quando há muito trânsito na autoestrada E39 a sul. Estacionamento gratuito.",
           "descriptionDe": "AniCuras nördliche Filiale in Bergen, 10 Minuten vom Zentrum entfernt. Kleiner als Bergen Sør, aber mit vollem 24/7-Notfallangebot, gut geeignet für Gäste, die in der Nähe von Sandviken oder Bryggen wohnen.",
+          "descriptionNl": "De noordelijke vestiging van AniCura in Bergen, 10 minuten van het centrum. Kleiner dan Bergen Sør, maar met volledig 24/7-spoedaanbod, goed geschikt voor gasten die in de buurt van Sandviken of Bryggen verblijven.",
           "petPolicyDe": "24/7-Notfälle ohne Termin werden angenommen",
+          "petPolicyNl": "24/7 spoedgevallen zonder afspraak worden aangenomen",
           "servicesDe": "Notfallmedizin, Chirurgie, Bildgebung",
-          "tipDe": "Näher am Stadtzentrum als Bergen Sør, vorzuziehen bei starkem Verkehr auf der südlichen E39. Kostenloses Parken."
+          "servicesNl": "Spoedeisende geneeskunde, chirurgie, beeldvorming",
+          "tipDe": "Näher am Stadtzentrum als Bergen Sør, vorzuziehen bei starkem Verkehr auf der südlichen E39. Kostenloses Parken.",
+          "tipNl": "Dichter bij het stadscentrum dan Bergen Sør, te verkiezen bij drukte op de zuidelijke E39. Gratis parkeren."
         }
       ],
       "tipsEn": [
@@ -833,7 +939,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte in Bergen, Tierarztpraxen & Tierpflege",
+      "titleNl": "Spoeddierenartsen in Bergen, dierenartspraktijken & dierenverzorging",
       "introDe": "Bergen beherbergt zwei rund um die Uhr geöffnete Tiernotfallkliniken, betrieben von AniCura, der größten nordischen Tierarztkette. Normale Tagespraxen gibt es reichlich in jedem Viertel; die Versorgung außerhalb der Öffnungszeiten ist bei AniCura Bergen Sør oder AniCura Eidsvågneset zentralisiert.",
+      "introNl": "Bergen heeft twee 24-uursspoedklinieken voor dieren, beide beheerd door AniCura, de grootste Noordse dierenartsenketen. Gewone dagpraktijken zijn er volop in elke wijk; de zorg buiten openingstijden is gecentraliseerd bij AniCura Bergen Sør of AniCura Eidsvågneset.",
       "faqsDe": [
         {
           "q": "Welcher Tierarzt in Bergen hat rund um die Uhr geöffnet?",
@@ -846,6 +954,20 @@
         {
           "q": "Sprechen Tierärzte in Bergen Englisch?",
           "a": "Ja, fast alle norwegischen Tierärzte sprechen ausgezeichnetes Englisch. Die AniCura-Kliniken haben ausdrücklich international ausgerichtete Angebote."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welke dierenarts in Bergen is 24 uur per dag open?",
+          "a": "Twee AniCura-klinieken: Bergen Sør (+47 55 70 33 30) in Sletten en Eidsvågneset (+47 55 25 18 00) in het noorden van Bergen. Beide nemen spoedgevallen zonder afspraak aan, bel vooraf."
+        },
+        {
+          "q": "Hoeveel kost een spoedbezoek aan de dierenarts in Bergen?",
+          "a": "Het basisconsult buiten openingstijden kost 1.800-2.500 NOK (150-210 €), plus diagnostiek. Een simpele röntgenfoto kost daar 800 NOK bovenop. Een huisdierverzekering dekt de meeste kosten."
+        },
+        {
+          "q": "Spreken dierenartsen in Bergen Engels?",
+          "a": "Ja, vrijwel alle Noorse dierenartsen spreken uitstekend Engels. De AniCura-klinieken richten zich uitdrukkelijk ook internationaal."
         }
       ]
     },
@@ -932,7 +1054,9 @@
         }
       ],
       "titleDe": "Wichtige Reisetipps mit Haustier für Bergen",
+      "titleNl": "Belangrijke reistips met huisdier voor Bergen",
       "introDe": "Bergen ist eine der haustiertolerantesten Städte Europas, aber Norwegen liegt außerhalb des EU-Heimtierausweis-Systems und hat eigene, ähnliche, aber abweichende Einreiseregeln. Planen Sie die Papiere im Voraus.",
+      "introNl": "Bergen is een van de huisdiertolerantste steden van Europa, maar Noorwegen valt buiten het EU-dierenpaspoortsysteem en heeft eigen, vergelijkbare maar afwijkende inreisregels. Regel de papieren van tevoren.",
       "faqsDe": [
         {
           "q": "Ist Bergen eine gute Stadt für einen Besuch mit Hund?",
@@ -945,6 +1069,20 @@
         {
           "q": "Gibt es Rasseverbote in Norwegen?",
           "a": "Ja. Norwegen verbietet American Staffordshire Terrier, Pit Bull Terrier, Tosa Inu, Dogo Argentino, Fila Brasileiro und die tschechoslowakische Wolfshund-Rasse. Sie dürfen überhaupt nicht nach Norwegen einreisen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Bergen een goede stad om met hond te bezoeken?",
+          "a": "Ja, mogelijk de huisdiervriendelijkste stad van Scandinavië. Gratis openbaar vervoer voor honden, eersteklas wandelen op 7 minuten van het centrum, dierenklinieken die 24 uur per dag open zijn en een sterke hondencultuur in cafés en pubs. De aanhoudende regen is de grootste uitdaging."
+        },
+        {
+          "q": "Heb ik speciale papieren nodig voor Noorwegen?",
+          "a": "Het EU-dierenpaspoort wordt geaccepteerd, plus een lintwormbehandeling 24-120 uur voor aankomst, uitgevoerd door een dierenarts en vermeld in het paspoort. Precies zoals in Finland, maar anders dan in de meeste EU-landen, die dit niet vereisen."
+        },
+        {
+          "q": "Zijn er rasverboden in Noorwegen?",
+          "a": "Ja. Noorwegen verbiedt de American Staffordshire Terrier, Pit Bull Terrier, Tosa Inu, Dogo Argentino, Fila Brasileiro en de Tsjecho-Slowaakse wolfhond. Deze rassen mogen Noorwegen helemaal niet in."
         }
       ]
     },
@@ -977,8 +1115,11 @@
           "petPolicyPt": "Acolhedor para cães com trela ao ar livre",
           "tipPt": "O Museu Hanseático (Det Hanseatiske Museum) não admite cães, mas o cais em si é a experiência. Percorra as ruelas à hora dourada para as melhores fotografias.",
           "descriptionDe": "Der farbenfrohe hölzerne Hansekai, seit 1979 UNESCO-Weltkulturerbe und Bergens ikonisches Wahrzeichen. Die gepflasterte Hauptstraße und das labyrinthartige Gassennetz dahinter (Schøtstuene, Solgården) sind vollständig mit angeleintem Hund zugänglich. Die meisten Restaurants und Geschäfte am Kai heißen Hunde an Außentischen willkommen.",
+          "descriptionNl": "De kleurrijke houten Hanzekade, sinds 1979 UNESCO-werelderfgoed en het iconische symbool van Bergen. De geplaveide hoofdstraat en het labyrint van steegjes erachter (Schøtstuene, Solgården) zijn volledig toegankelijk met aangelijnde hond. De meeste restaurants en winkels aan de kade verwelkomen honden aan buitentafels.",
           "petPolicyDe": "Im Freien mit angeleintem Hund zugänglich",
-          "tipDe": "Das Hanseatische Museum (Det Hanseatiske Museum) lässt keine Hunde zu, aber der Kai selbst ist das Erlebnis. Gehen Sie die Gassen zur goldenen Stunde für die besten Fotos ab."
+          "petPolicyNl": "In de buitenlucht toegankelijk met aangelijnde hond",
+          "tipDe": "Das Hanseatische Museum (Det Hanseatiske Museum) lässt keine Hunde zu, aber der Kai selbst ist das Erlebnis. Gehen Sie die Gassen zur goldenen Stunde für die besten Fotos ab.",
+          "tipNl": "Het Hanzemuseum (Det Hanseatiske Museum) laat geen honden toe, maar de kade zelf is de ervaring. Loop de steegjes door tijdens het gouden uur voor de mooiste foto's."
         },
         {
           "name": "Fløibanen Funicular",
@@ -1001,8 +1142,11 @@
           "petPolicyPt": "Cães com trela grátis, de todos os tamanhos",
           "tipPt": "As filas de verão podem ter 30 min, os cães grandes podem ter de esperar por uma carruagem menos cheia. Subir a pé também é viável em 50 min para cães em forma.",
           "descriptionDe": "Bergens 7-minütige Standseilbahnfahrt vom Stadtzentrum zum Berg Fløyen auf 320 m. Angeleinte Hunde fahren kostenlos mit, auch sehr große Hunde. Oben gibt es ein Café, eine Aussichtsplattform und 50 km Waldwege. Der Abstieg dauert für aktive Hunde 1 Stunde zu Fuß.",
+          "descriptionNl": "De 7 minuten durende kabelbaanrit van Bergen vanaf het stadscentrum naar de berg Fløyen op 320 m. Aangelijnde honden reizen gratis mee, ook heel grote honden. Bovenaan zijn er een café, een uitzichtplatform en 50 km bospaden. De afdaling duurt voor actieve honden 1 uur te voet.",
           "petPolicyDe": "Angeleinte Hunde kostenlos, alle Größen",
-          "tipDe": "Sommerliche Warteschlangen können 30 Minuten dauern, große Hunde müssen eventuell auf eine weniger volle Kabine warten. Der Aufstieg zu Fuß ist für fitte Hunde ebenfalls in 50 Minuten machbar."
+          "petPolicyNl": "Aangelijnde honden gratis, alle formaten",
+          "tipDe": "Sommerliche Warteschlangen können 30 Minuten dauern, große Hunde müssen eventuell auf eine weniger volle Kabine warten. Der Aufstieg zu Fuß ist für fitte Hunde ebenfalls in 50 Minuten machbar.",
+          "tipNl": "Zomerse wachtrijen kunnen 30 minuten duren, grote honden moeten mogelijk wachten op een minder volle cabine. De klim te voet is voor fitte honden ook haalbaar, in 50 minuten."
         },
         {
           "name": "Fish Market (Fisketorget)",
@@ -1025,8 +1169,11 @@
           "petPolicyPt": "Cães com trela bem-vindos",
           "tipPt": "O mercado coberto Mathallen é a opção o ano inteiro (as bancas exteriores encerram no inverno). A praça de alimentação no interior tem mesas acolhedoras para cães.",
           "descriptionDe": "Bergens ikonischer Fischmarkt am Innenhafen, seit 1276. Die Außenstände (Juni-September) und die ganzjährig geöffnete Markthalle Mathallen nehmen angeleinte Hunde an. Die Fischverkäufer geben vorbeikommenden Hunden regelmäßig Lachsreste ab.",
+          "descriptionNl": "De iconische vismarkt van Bergen aan de binnenhaven, sinds 1276. De buitenkraampjes (juni-september) en de het hele jaar geopende markthal Mathallen laten aangelijnde honden toe. De visverkopers geven voorbijkomende honden regelmatig zalmrestjes.",
           "petPolicyDe": "Angeleinte Hunde willkommen",
-          "tipDe": "Die Markthalle Mathallen ist die ganzjährige Option (die Außenstände schließen im Winter). Der Food-Court drinnen hat hundefreundliche Tische."
+          "petPolicyNl": "Aangelijnde honden welkom",
+          "tipDe": "Die Markthalle Mathallen ist die ganzjährige Option (die Außenstände schließen im Winter). Der Food-Court drinnen hat hundefreundliche Tische.",
+          "tipNl": "De markthal Mathallen is de optie voor het hele jaar (de buitenkraampjes sluiten 's winters). De foodcourt binnen heeft hondvriendelijke tafels."
         }
       ],
       "tipsEn": [
@@ -1108,7 +1255,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Bergen",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Bergen",
       "introDe": "Bergens Hauptattraktionen, der UNESCO-Kai Bryggen, die Standseilbahn Fløibanen, der Berg Ulriken, der Fischmarkt, heißen alle angeleinte Hunde im Freien willkommen. Die KODE-Kunstmuseen und der Innenbereich der Fløibanen lassen keine Haustiere zu, aber die meisten Freiluftorte sind ganzjährig hundefreundlich.",
+      "introNl": "De belangrijkste attracties van Bergen, de UNESCO-kade Bryggen, de kabelbaan Fløibanen, de berg Ulriken, de vismarkt, verwelkomen allemaal aangelijnde honden in de buitenlucht. De KODE-kunstmusea en het binnengedeelte van de Fløibanen laten geen huisdieren toe, maar de meeste plekken in de buitenlucht zijn het hele jaar hondvriendelijk.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund auf eine Fjordkreuzfahrt mitnehmen?",
@@ -1121,6 +1270,20 @@
         {
           "q": "Kann ich Bryggen mit meinem Hund besuchen?",
           "a": "Ja, der gesamte Kai und die umliegenden Gassen sind im Freien mit angeleintem Hund zugänglich. Das Innere des Hanseatischen Museums lässt keine Haustiere zu."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen op een fjordcruise?",
+          "a": "Ja, Norled, Fjord Tours en Hurtigruten nemen allemaal aangelijnde honden mee op de buitendekken. De dagtocht \"Norway in a Nutshell\" van Fjord Tours vanuit Bergen neemt honden mee zonder toeslag."
+        },
+        {
+          "q": "Mogen honden in het Bergen-aquarium?",
+          "a": "Nee, huisdieren zijn binnen verboden. Het aquarium is een van de weinige grote attracties van Bergen die geen honden toelaat."
+        },
+        {
+          "q": "Kan ik Bryggen met mijn hond bezoeken?",
+          "a": "Ja, de hele kade en de omliggende steegjes zijn in de buitenlucht toegankelijk met aangelijnde hond. Het interieur van het Hanzemuseum laat geen huisdieren toe."
         }
       ]
     },
@@ -1152,8 +1315,11 @@
           "petPolicyPt": "Cuidadores verificados, seguro incluído",
           "servicesPt": "Passeio de cães, creche de dia, hospedagem ao domicílio",
           "descriptionDe": "Europäischer Marktplatz für Haustierbetreuung mit verifizierten Betreuern in Bergen für Spaziergänge, Tagesbetreuung und Pension zu Hause. Alle Buchungen beinhalten Versicherung und tägliche Fotoupdates. Durchschnittliche Preise: 350-500 NOK/Tag Pension (30-42 €), 200-300 NOK/Spaziergang (17-25 €).",
+          "descriptionNl": "Europese marktplaats voor huisdieroppas met geverifieerde oppassers in Bergen voor wandelingen, dagopvang en logeeroppas thuis. Alle boekingen omvatten verzekering en dagelijkse fotoupdates. Gemiddelde prijzen: 350-500 NOK/dag logeeroppas (30-42 €), 200-300 NOK/wandeling (17-25 €).",
           "petPolicyDe": "Verifizierte Betreuer, Versicherung inklusive",
-          "servicesDe": "Gassi-Service, Tagesbetreuung, Pension zu Hause"
+          "petPolicyNl": "Geverifieerde oppassers, verzekering inbegrepen",
+          "servicesDe": "Gassi-Service, Tagesbetreuung, Pension zu Hause",
+          "servicesNl": "Uitlaatservice, dagopvang, logeeroppas thuis"
         }
       ],
       "tipsEn": [
@@ -1235,7 +1401,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Bergen",
+      "titleNl": "Huisdieroppas & uitlaatservice in Bergen",
       "introDe": "Bergens Markt für Tierpflege ist kleiner als der von Oslo, aber gut organisiert. Pawshake ist stadtweit aktiv; die norwegische Plattform Hundeklubben vermittelt Hundehalter an verifizierte lokale Betreuer. Tagesstätten konzentrieren sich in Sandviken und Bergen Sør.",
+      "introNl": "De markt voor dierenverzorging in Bergen is kleiner dan die van Oslo, maar goed georganiseerd. Pawshake is stadsbreed actief; het Noorse platform Hundeklubben koppelt hondenbezitters aan geverifieerde lokale oppassers. Dagopvang concentreert zich in Sandviken en Bergen Sør.",
       "faqsDe": [
         {
           "q": "Wie viel kostet Haustierbetreuung in Bergen?",
@@ -1248,6 +1416,20 @@
         {
           "q": "Finde ich in Bergen einen englischsprachigen Betreuer?",
           "a": "Ja, praktisch jeder Norweger unter 50 spricht fließend Englisch. Die meisten Pawshake-Profile geben Sprachkenntnisse an."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost huisdieroppas in Bergen?",
+          "a": "Typische Pawshake-prijzen: 350-500 NOK/dag logeeroppas (30-42 €), 200-300 NOK voor een wandeling van 1 uur (17-25 €). Iets hoger in het zomerse cruiseseizoen."
+        },
+        {
+          "q": "Zijn oppassers in Bergen verzekerd?",
+          "a": "Pawshake omvat aansprakelijkheids- en dierenspoedverzekering. Bemiddeling via Hundeklubben is meestal informeel; voor die boekingen wordt een privéverzekering aanbevolen."
+        },
+        {
+          "q": "Vind ik in Bergen een Engelssprekende oppasser?",
+          "a": "Ja, vrijwel elke Noor onder de 50 spreekt vloeiend Engels. De meeste Pawshake-profielen vermelden taalvaardigheden."
         }
       ]
     }

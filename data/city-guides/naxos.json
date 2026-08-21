@@ -41,9 +41,13 @@
           "tipPt": "Reserve uma mesa na esplanada para o pôr do sol e peça uma taça de água. O Kastro mantém-se mais fresco do que a marginal nas noites quentes",
           "googleMapsUrl": "https://maps.google.com/?q=Taverna+To+Kastro+Naxos+Town",
           "descriptionDe": "Eine seit Langem bestehende Taverne in den Gassen des Kastro, mit einer Freiluftterrasse mit Blick über die Dächer von Chora bis zum Hafen. Wie in den meisten Tavernen auf Naxos sind angeleinte, wohlerzogene Hunde an den Außentischen willkommen, wo die Abendbrise für Kühlung sorgt. Die Küche setzt auf naxiotische Klassiker rund um die berühmten Käsesorten und langsam gegartes Fleisch der Insel.",
+          "descriptionNl": "Een taverna van oude datum, verscholen in de steegjes van de Kastro, met een openluchtterras dat uitkijkt over de daken van Chora tot aan de haven. Zoals in de meeste taverna's op Naxos zijn aangelijnde, brave honden welkom aan de buitentafels, waar de avondbries voor verkoeling zorgt. De keuken zet in op naxiotische klassiekers rond de beroemde kazen en langzaam gegaarde vleesgerechten van het eiland.",
           "petPolicyDe": "Angeleinte Hunde auf der Außenterrasse willkommen",
+          "petPolicyNl": "Aangelijnde honden welkom op het buitenterras",
           "mustTryDe": "Naxos-Graviera-Käse, langsam gegartes Lamm, Wein aus der Region",
-          "tipDe": "Reservieren Sie einen Terrassentisch zum Sonnenuntergang und bitten Sie um einen Wassernapf. Das Kastro bleibt an heißen Abenden kühler als die Uferpromenade"
+          "mustTryNl": "Naxos-gravierakaas, langzaam gegaard lamsvlees, lokale wijn",
+          "tipDe": "Reservieren Sie einen Terrassentisch zum Sonnenuntergang und bitten Sie um einen Wassernapf. Das Kastro bleibt an heißen Abenden kühler als die Uferpromenade",
+          "tipNl": "Reserveer een terrastafel voor zonsondergang en vraag om een waterbakje. De Kastro blijft op warme avonden koeler dan de boulevard"
         },
         {
           "name": "Scirocco",
@@ -71,9 +75,13 @@
           "tipPt": "Sente-se numa zona à sombra da praça no calor do meio-dia e mantenha o seu cão longe do pavimento quente",
           "googleMapsUrl": "https://maps.google.com/?q=Scirocco+Naxos+Town",
           "descriptionDe": "Ein beliebter ganztägig geöffneter Ort am lebhaften Protodikiou-Platz im Herzen von Chora, mit reichlich schattigen Außensitzplätzen abseits des Verkehrs. Ruhige, angeleinte Hunde sind an den Terrassen des Platzes ein alltäglicher Anblick, und die offene Lage macht es im Sommer angenehm. Erwarten Sie eine breite griechische Speisekarte mit Gegrilltem, Salaten und Mezze.",
+          "descriptionNl": "Een populaire, de hele dag geopende plek aan het levendige Protodikiou-plein in het hart van Chora, met volop schaduwrijke buitenzitplaatsen weg van het verkeer. Rustige, aangelijnde honden zijn een dagelijks gezicht op de terrassen van het plein, en de open ligging maakt het aangenaam in de zomer. Verwacht een brede Griekse kaart met grillgerechten, salades en mezze.",
           "petPolicyDe": "Angeleinte Hunde an den Außentischen am Platz willkommen",
+          "petPolicyNl": "Aangelijnde honden welkom aan de buitentafels op het plein",
           "mustTryDe": "Gemischter Grillteller, griechischer Salat, gegrillter Oktopus",
-          "tipDe": "Setzen Sie sich in der Mittagshitze an einen schattigen Rand des Platzes und halten Sie Ihren Hund vom heißen Pflaster fern"
+          "mustTryNl": "Gemengde grill, Griekse salade, gegrilde octopus",
+          "tipDe": "Setzen Sie sich in der Mittagshitze an einen schattigen Rand des Platzes und halten Sie Ihren Hund vom heißen Pflaster fern",
+          "tipNl": "Ga in de middaghitte aan een schaduwrijke rand van het plein zitten en houd je hond weg van de hete bestrating"
         },
         {
           "name": "Banana Beach Bar & Restaurant",
@@ -101,9 +109,13 @@
           "tipPt": "Desça até à beira da água para o seu cão se refrescar e depois instale-se numa mesa à sombra para jantar",
           "googleMapsUrl": "https://maps.google.com/?q=Banana+Beach+Bar+Plaka+Naxos",
           "descriptionDe": "Eine entspannte Strandbar und ein Restaurant direkt am langen Sandstrand von Plaka, die Art von Freiluftort mit Sand unter den Füßen, an dem sich Hunde leicht wohlfühlen. Da Plaka ein weitläufiger, nicht organisierter Strand ist, sind angeleinte Hunde im Sand neben den Liegen und auf der lockeren Terrasse willkommen. Kommen Sie für Cocktails, frischen Fisch und einen unschlagbaren Sonnenuntergang über den Dünen.",
+          "descriptionNl": "Een ontspannen strandbar en restaurant recht aan het lange zandstrand van Plaka, het soort openluchtplek met de voeten in het zand waar honden zich snel thuis voelen. Omdat Plaka een uitgestrekt, niet-georganiseerd strand is, zijn aangelijnde honden welkom in het zand naast de ligbedden en op het losse terras. Kom voor cocktails, verse vis en een onverslaanbare zonsondergang boven de duinen.",
           "petPolicyDe": "Angeleinte Hunde im Sand und auf der Terrasse willkommen",
+          "petPolicyNl": "Aangelijnde honden welkom in het zand en op het terras",
           "mustTryDe": "Frischer Fisch des Tages, Cocktails zum Sonnenuntergang",
-          "tipDe": "Gehen Sie bis ans Wasser hinunter, damit sich Ihr Hund abkühlen kann, und setzen Sie sich dann zum Abendessen an einen schattigen Tisch"
+          "mustTryNl": "Verse vis van de dag, cocktails bij zonsondergang",
+          "tipDe": "Gehen Sie bis ans Wasser hinunter, damit sich Ihr Hund abkühlen kann, und setzen Sie sich dann zum Abendessen an einen schattigen Tisch",
+          "tipNl": "Loop tot aan de waterlijn zodat je hond kan afkoelen, en ga daarna aan een schaduwrijke tafel zitten voor het avondeten"
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Naxos",
+      "titleNl": "Huisdiervriendelijke restaurants in Naxos",
       "introDe": "Das kulinarische Leben in Naxos spielt sich im Freien ab, auf Hafenterrassen in Chora und in Strandtavernen im Sand, sodass es leicht ist, einen ruhigen, angeleinten Hund mitzunehmen. Griechische Tavernen heißen Hunde auf ihren Freiluftterrassen fast überall willkommen, weshalb die entspannten Uferrestaurants unten eine natürliche Wahl sind. In der Sommerhitze der Kykladen sollten Sie einen schattigen Tisch und eine frühabendliche Reservierung anstreben und das Personal um einen Wassernapf bitten, den es gerne bringt.",
+      "introNl": "Het culinaire leven op Naxos speelt zich buiten af, op haventerrassen in Chora en in strandtaverna's in het zand, waardoor het makkelijk is om een rustige, aangelijnde hond mee te nemen. Griekse taverna's heten honden op hun openluchtterrassen vrijwel overal welkom, waardoor de ontspannen restaurants aan het water hieronder een natuurlijke keuze zijn. Streef in de zomerhitte van de Cycladen naar een schaduwrijke tafel en een vroege avondreservering, en vraag het personeel om een waterbakje, dat ze graag brengen.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants auf Naxos erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Wo in Chora eignet sich am besten zum Essen mit Hund?",
           "a": "Die Gassen und Plätze der Kastro-Altstadt wie Protodikiou bleiben etwas kühler und ruhiger als die belebte Hafenpromenade. Strandtavernen in Plaka und Agios Georgios sind von allen am entspanntesten für Hunde."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden welkom in restaurants op Naxos?",
+          "a": "Op openluchtterrassen wel, vrijwel overal. Griekse taverna's in Naxos-Stad en aan de stranden heten aangelijnde, brave honden standaard welkom op hun buitenplekken. Binnenruimtes zijn meestal niet toegankelijk voor huisdieren, dus reken erop dat je buiten zit."
+        },
+        {
+          "q": "Geven de taverna's op Naxos mijn hond water?",
+          "a": "Meestal wel. Vraag er gewoon om. In de zomerhitte van de Cycladen is het personeel gewend om een waterbakje te brengen, en het is verstandig om je hond gehydrateerd en in de schaduw te houden."
+        },
+        {
+          "q": "Waar in Chora kun je het beste eten met een hond?",
+          "a": "De steegjes en pleinen van de Kastro-oude stad, zoals Protodikiou, blijven wat koeler en rustiger dan de drukke havenboulevard. Strandtaverna's in Plaka en Agios Georgios zijn van alles het meest ontspannen voor honden."
         }
       ]
     },
@@ -229,8 +257,11 @@
           "tipPt": "Vá ao nascer do sol antes de as espreguiçadeiras encherem, quando o seu cão pode chapinhar em paz na zona pouco funda",
           "googleMapsUrl": "https://maps.google.com/?q=Agios+Georgios+Beach+Naxos",
           "descriptionDe": "Der lange Sandstrand von Agios Georgios liegt direkt neben Chora, mit einer flachen, begehbaren Promenade und flachem Wasser, perfekt für den morgendlichen Spaziergang eines angeleinten Hundes. Es ist der am leichtesten zu Fuß erreichbare Grün- und Blauraum von den Hotels der Stadt aus. Früh morgens und abends ist es ruhig, kühler und deutlich weniger überlaufen als mittags.",
+          "descriptionNl": "Het lange zandstrand van Agios Georgios ligt vlak naast Chora, met een vlakke, begaanbare boulevard en ondiep water, perfect voor de ochtendwandeling van een aangelijnde hond. Het is de groene en blauwe ruimte die vanaf de hotels in de stad het makkelijkst te voet te bereiken is. Vroeg in de ochtend en 's avonds is het rustig, koeler en veel minder druk dan rond het middaguur.",
           "offLeashAreaDe": "Keiner. Hunde müssen nach griechischem Recht angeleint sein",
-          "tipDe": "Gehen Sie bei Sonnenaufgang, bevor die Liegen belegt sind, wenn Ihr Hund in Ruhe im Flachwasser planschen kann"
+          "offLeashAreaNl": "Geen. Honden moeten volgens de Griekse wet aangelijnd zijn",
+          "tipDe": "Gehen Sie bei Sonnenaufgang, bevor die Liegen belegt sind, wenn Ihr Hund in Ruhe im Flachwasser planschen kann",
+          "tipNl": "Ga bij zonsopgang, voordat de ligbedden vol liggen, wanneer je hond rustig kan spetteren in het ondiepe water"
         },
         {
           "name": "Portara Headland Walk",
@@ -252,8 +283,11 @@
           "tipPt": "O mármore e a rocha acumulam calor. Visite perto do pôr do sol e vigie o apoio do seu cão na pedra lisa",
           "googleMapsUrl": "https://maps.google.com/?q=Portara+Naxos",
           "descriptionDe": "Der kurze Damm und die felsige Insel, die zur Portara führen (dem riesigen Marmortor des Apollon-Tempels), sind ein Freiluft- und leinenfreundlicher Spaziergang direkt am Rand von Chora. Hunde sind auf dem Weg und rund um das Monument willkommen, das unumzäunt und zu jeder Stunde frei zugänglich ist. Es ist der bekannteste Sonnenuntergangsspaziergang der Insel, luftig und kühler als die Straßen im Landesinneren.",
+          "descriptionNl": "De korte dam en het rotsachtige eilandje die naar de Portara leiden (de reusachtige marmeren poort van de Apollotempel) vormen een openlucht- en leinevriendelijke wandeling vlak aan de rand van Chora. Honden zijn welkom op het pad en rond het monument, dat onomheind en op elk uur vrij toegankelijk is. Het is de iconische zonsondergangswandeling van het eiland, winderig en koeler dan de straten landinwaarts.",
           "offLeashAreaDe": "Keiner. Halten Sie Hunde auf dem Damm und den Felsen angeleint",
-          "tipDe": "Der Marmor und die Felsen speichern Hitze. Besuchen Sie den Ort nahe dem Sonnenuntergang und achten Sie auf den Halt Ihres Hundes auf dem glatten Stein"
+          "offLeashAreaNl": "Geen. Houd honden aangelijnd op de dam en de rotsen",
+          "tipDe": "Der Marmor und die Felsen speichern Hitze. Besuchen Sie den Ort nahe dem Sonnenuntergang und achten Sie auf den Halt Ihres Hundes auf dem glatten Stein",
+          "tipNl": "Het marmer en de rotsen houden hitte vast. Bezoek de plek dicht bij zonsondergang en let op de pootjes van je hond op de gladde steen"
         },
         {
           "name": "Melanes & Tragea Valley Walks",
@@ -275,8 +309,11 @@
           "tipPt": "Alugue um carro ou apanhe um autocarro para Melanes. Estes vales são a opção mais fresca numa tarde escaldante",
           "googleMapsUrl": "https://maps.google.com/?q=Melanes+Naxos",
           "descriptionDe": "Das Landesinnere von Naxos ist überraschend grün, und die Olivenhaine und platanenbeschatteten Gassen rund um Melanes und das Tragea-Tal bieten kühlere, schattige Wanderungen abseits der Küstenhitze. Diese ruhigen Landwege, gesäumt von alten Marmor-Kouros-Statuen und byzantinischen Kapellen, eignen sich hervorragend für einen angeleinten Hund, der eine Pause von Sand und Menschenmengen braucht. Bringen Sie viel Wasser mit, da es kaum Einrichtungen gibt.",
+          "descriptionNl": "Het binnenland van Naxos is verrassend groen, en de olijfgaarden en platanenschaduwrijke lanen rond Melanes en de vallei van Tragea bieden koelere, schaduwrijke wandelingen weg van de kusthitte. Deze rustige landweggetjes, bezaaid met oude marmeren kouros-beelden en Byzantijnse kapelletjes, zijn uitstekend voor een aangelijnde hond die pauze nodig heeft van zand en drukte. Neem veel water mee, want voorzieningen zijn schaars.",
           "offLeashAreaDe": "Kein offizieller. Hunde in der Nähe weidenden Viehs angeleint halten",
-          "tipDe": "Mieten Sie ein Auto oder nehmen Sie einen Bus nach Melanes. Diese Täler sind an einem sengend heißen Nachmittag die kühlste Option"
+          "offLeashAreaNl": "Geen officiële. Houd honden aangelijnd in de buurt van grazend vee",
+          "tipDe": "Mieten Sie ein Auto oder nehmen Sie einen Bus nach Melanes. Diese Täler sind an einem sengend heißen Nachmittag die kühlste Option",
+          "tipNl": "Huur een auto of neem een bus naar Melanes. Deze valleien zijn op een snikhete middag de koelste optie"
         }
       ],
       "tipsEn": [
@@ -356,7 +393,9 @@
         }
       ],
       "titleDe": "Hundespaziergänge & Grünflächen in Naxos",
+      "titleNl": "Hondenwandelingen & groene ruimtes in Naxos",
       "introDe": "Naxos hat keine eingezäunten städtischen Hundeparks, bietet aber etwas Besseres: lange offene Strände, ruhige Landzungenwege rund um Chora und grüne Täler im Landesinneren für kühlere Spaziergänge. Nach griechischem Recht müssen Hunde in der Öffentlichkeit angeleint sein, und Sie sollten Kotbeutel und Wasser mitführen. Gehen Sie im Sommer früh oder spät, denn die Mittagshitze auf Stein und Sand belastet die Pfoten stark.",
+      "introNl": "Naxos heeft geen omheinde stedelijke hondenparken, maar biedt iets beters: lange open stranden, rustige landtongpaden rond Chora en groene binnenlandse valleien voor koelere wandelingen. Volgens de Griekse wet moeten honden in het openbaar aangelijnd zijn, en je moet poepzakjes en water meenemen. Wandel in de zomer vroeg of laat, want de middaghitte op steen en zand is zwaar voor de pootjes.",
       "faqsDe": [
         {
           "q": "Gibt es Hundeparks in Naxos?",
@@ -369,6 +408,20 @@
         {
           "q": "Wo kann ich auf Naxos abseits der Sommerhitze mit einem Hund spazieren gehen?",
           "a": "Fahren Sie ins Landesinnere zu den Olivenhainen und platanenbeschatteten Gassen von Melanes und dem Tragea-Tal, oder gehen Sie bei Sonnenaufgang die Promenade von Agios Georgios entlang. Meiden Sie Stein und Sand in der Mittagszeit im Juli und August."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er hondenparken in Naxos?",
+          "a": "Er zijn geen omheinde losloopparken voor honden op Naxos. In plaats daarvan genieten honden van de lange open stranden, de Portara-landtongwandeling bij Chora en de koelere, groene valleien landinwaarts rond Melanes en Tragea, allemaal aan de lijn."
+        },
+        {
+          "q": "Kan mijn hond ergens op Naxos loslopen?",
+          "a": "De Griekse wet schrijft voor dat honden in openbare ruimtes aangelijnd moeten zijn. Op rustige, niet-georganiseerde stranden mogen honden de zee in, maar op het land is de lijn verplicht, houd je hond dus altijd onder controle."
+        },
+        {
+          "q": "Waar kan ik op Naxos met een hond wandelen, weg van de zomerhitte?",
+          "a": "Ga landinwaarts naar de olijfgaarden en platanenschaduwrijke lanen van Melanes en de vallei van Tragea, of wandel bij zonsopgang over de boulevard van Agios Georgios. Vermijd steen en zand rond het middaguur in juli en augustus."
         }
       ]
     },
@@ -494,7 +547,9 @@
         }
       ],
       "titleDe": "Mit Haustieren unterwegs in Naxos",
+      "titleNl": "Op reis met huisdieren in Naxos",
       "introDe": "Die Anreise nach Naxos erfolgt mit der Fähre, und die örtlichen KTEL-Busse verbinden Chora mit den wichtigsten Stränden und Dörfern. Beide haben klare Haustierregeln: Hunde reisen auf Fähren in einer Box oder Transportkiste, und kleine Hunde in einer geschlossenen Box in Bussen, nach Ermessen des Fahrers. In der Sommerhitze ist ein Mietwagen mit Klimaanlage die einfachste und angenehmste Art, einen Hund auf der Insel zu bewegen.",
+      "introNl": "Naxos bereik je met de veerboot, en de lokale KTEL-bussen verbinden Chora met de belangrijkste stranden en dorpen. Beide hebben duidelijke huisdierregels: honden reizen op veerboten in een bench of transportbox, en kleine honden in een gesloten box in de bus, ter beoordeling van de chauffeur. In de zomerhitte is een huurauto met airconditioning de makkelijkste en aangenaamste manier om een hond over het eiland te vervoeren.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund mit auf die Fähre nach Naxos nehmen?",
@@ -507,6 +562,20 @@
         {
           "q": "Was ist die einfachste Art, sich mit einem Hund auf Naxos fortzubewegen?",
           "a": "Ein Mietwagen mit Klimaanlage. Er umgeht die Hitze, die Boxenpflicht und das Ermessen der Busfahrer und lässt Sie ruhigere Strände und die kühleren Täler im Landesinneren nach eigenem Zeitplan erreichen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen op de veerboot naar Naxos?",
+          "a": "Ja. Blue Star Ferries vervoeren honden in huisdiercabines, bordkooien of je eigen transportbox, en je moet de hond bij het aan boord gaan aangelijnd en gemuilkorfd houden. Snelle SeaJets-catamarans accepteren alleen kleine honden in een gesloten box die bij je blijft. Boek voor zomeroverzetten altijd van tevoren een huisdierplek."
+        },
+        {
+          "q": "Zijn honden toegestaan in bussen op Naxos?",
+          "a": "Kleine honden zijn toegestaan in KTEL-bussen in een veilige, gesloten box, ter beoordeling van de chauffeur en met een limiet van twee huisdieren per bus. Neem het gezondheidsboekje van het dier mee. Grote honden worden over het algemeen niet geaccepteerd, waardoor een huurauto de betere keuze is."
+        },
+        {
+          "q": "Wat is de makkelijkste manier om je met een hond op Naxos te verplaatsen?",
+          "a": "Een huurauto met airconditioning. Die omzeilt de hitte, de boxplicht en de beoordelingsvrijheid van buschauffeurs, en laat je rustigere stranden en de koelere binnenlandse valleien op je eigen tempo bereiken."
         }
       ]
     },
@@ -592,7 +661,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in Naxos",
+      "titleNl": "Hondvriendelijke stranden in Naxos",
       "introDe": "Naxos hat einige der längsten Sandstrände der Kykladen, und an den ruhigeren, nicht organisierten Abschnitten der Insel sind Hunde nach griechischem Gesetz 4830/2021 rechtlich zum Spazieren und Baden willkommen. An Land ist eine Leine Pflicht, und Hunde dürfen an freien Stränden ins Meer. Organisierte, mit Liegen vollgepackte Abschnitte lassen Hunde nur zu, wenn der Betreiber zustimmt, gehen Sie also am frühen Morgen zu den weiten offenen Enden der großen Strände.",
+      "introNl": "Naxos heeft enkele van de langste zandstranden van de Cycladen, en op de rustigere, niet-georganiseerde stukken van het eiland zijn honden volgens de Griekse wet 4830/2021 wettelijk welkom om te wandelen en te zwemmen. Op het land is een lijn verplicht, en honden mogen op vrije stranden de zee in. Georganiseerde, met ligbedden volgepakte stukken laten honden alleen toe als de exploitant akkoord gaat, ga dus vroeg in de ochtend naar de brede open uiteinden van de grote stranden.",
       "faqsDe": [
         {
           "q": "Gibt es hundefreundliche Strände in Naxos?",
@@ -601,6 +672,16 @@
         {
           "q": "Kann mein Hund am Strand in Naxos schwimmen?",
           "a": "Ja, an den freien (nicht organisierten) Stränden dürfen Hunde ins Meer, an Land ist jedoch eine Leine Pflicht. Bringen Sie frisches Wasser mit, meiden Sie die Mittagshitze und spülen Sie Ihrem Hund danach das Salz ab. Ihr Hund muss gechipt sein und ein aktuelles Gesundheitsheft besitzen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er hondvriendelijke stranden in Naxos?",
+          "a": "Ja. Op de vrije, niet-georganiseerde stranden van het eiland, zoals Plaka, Agios Georgios en Agiassos, zijn honden volgens de Griekse wet wettelijk welkom om te wandelen en te zwemmen. Houd je hond aangelijnd in het zand en kies de brede, rustige uiteinden weg van de ligbedexploitanten."
+        },
+        {
+          "q": "Kan mijn hond zwemmen op het strand in Naxos?",
+          "a": "Ja, op de vrije (niet-georganiseerde) stranden mogen honden de zee in, al is op het land een lijn verplicht. Neem vers water mee, vermijd de middaghitte en spoel het zout daarna van je hond af. Je hond moet gechipt zijn en een actueel gezondheidsboekje hebben."
         }
       ]
     },
@@ -650,8 +731,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Vasalakis+Veterinary+Naxos",
           "photo": "",
           "hoursDe": "Täglich 09:00-15:00; Di/Do/Fr auch 18:00-21:00; So geschlossen",
+          "hoursNl": "Dagelijks 09:00-15:00; di/do/vr ook 18:00-21:00; zo gesloten",
           "descriptionDe": "Die etablierteste Tierklinik der Insel, geführt von Dimitris Vasalakis in Chora und kombiniert mit einem Zoofachgeschäft für Futter und Zubehör. Sie übernimmt Routineversorgung, Reisegesundheitschecks und dringende Fälle, mit einer Notfall-Mobilnummer für Zeiten außerhalb der Öffnungszeiten. Englisch wird gesprochen, was sie zur naheliegenden ersten Anlaufstelle für Haustierbesitzer auf Reisen macht.",
-          "tipDe": "Speichern Sie sowohl die Kliniknummer als auch die Notfall-Mobilnummer +30 6944278947, bevor Sie ankommen, und rufen Sie immer vorab an"
+          "descriptionNl": "De meest gevestigde dierenkliniek van het eiland, geleid door Dimitris Vasalakis in Chora en gecombineerd met een dierenwinkel voor voer en benodigdheden. Ze verzorgt routinezorg, reisgezondheidschecks en spoedgevallen, met een noodmobiel nummer voor buiten de openingstijden. Er wordt Engels gesproken, waardoor het de logische eerste keuze is voor huisdiereigenaren op reis.",
+          "tipDe": "Speichern Sie sowohl die Kliniknummer als auch die Notfall-Mobilnummer +30 6944278947, bevor Sie ankommen, und rufen Sie immer vorab an",
+          "tipNl": "Sla zowel het kliniknummer als het noodmobiele nummer +30 6944278947 op voordat je aankomt, en bel altijd van tevoren"
         },
         {
           "name": "Naxos Vet Center",
@@ -675,8 +759,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Naxos+Vet+Center+Chora",
           "photo": "",
           "hoursDe": "Saisonale Öffnungszeiten; vorher anrufen",
+          "hoursNl": "Seizoensgebonden openingstijden; bel van tevoren",
           "descriptionDe": "Ein Tierärztezentrum in Chora, dessen Personal Englisch und Französisch spricht, nützlich für internationale Besucher, die klare Kommunikation über die Versorgung ihres Haustiers wünschen. Es deckt allgemeine Beratungen und kleinere dringende Angelegenheiten ab. Wie bei allen Tierärzten auf Naxos gilt: vorher anrufen, besonders außerhalb der Saison, wenn die Öffnungszeiten variieren.",
-          "tipDe": "Rufen Sie an oder schreiben Sie vorab über die sozialen Medien, um die Öffnungszeiten zu bestätigen, bevor Sie losfahren"
+          "descriptionNl": "Een dierenartsencentrum in Chora waarvan het personeel Engels en Frans spreekt, handig voor internationale bezoekers die duidelijke communicatie willen over de zorg voor hun huisdier. Het behandelt algemene consulten en kleinere spoedgevallen. Zoals bij alle dierenartsen op Naxos geldt: bel van tevoren, vooral buiten het seizoen wanneer de openingstijden variëren.",
+          "tipDe": "Rufen Sie an oder schreiben Sie vorab über die sozialen Medien, um die Öffnungszeiten zu bestätigen, bevor Sie losfahren",
+          "tipNl": "Bel of stuur van tevoren een bericht via hun sociale media om de openingstijden te bevestigen voordat je vertrekt"
         },
         {
           "name": "On-call / emergency vet (phone ahead)",
@@ -700,8 +787,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Veterinary+Chora+Naxos",
           "photo": "",
           "hoursDe": "Telefonisch, auf Abruf. Keine 24-Stunden-Anlaufklinik auf der Insel",
+          "hoursNl": "Telefonisch, op afroep. Geen 24-uursinloopkliniek op het eiland",
           "descriptionDe": "Naxos hat kein 24-Stunden-Tierkrankenhaus, weshalb echte Notfälle von den örtlichen Tierärzten auf Abruf behandelt werden. Speichern Sie bei Ankunft die Mobilnummer der von Ihnen gewählten Klinik und rufen Sie sofort an, wenn außerhalb der Öffnungszeiten etwas passiert; gehen Sie nicht davon aus, dass eine Klinik geöffnet ist. Für einen kritischen Fall, der die Möglichkeiten der Insel übersteigt, befinden sich die nächsten großen Krankenhäuser in Athen, erreichbar per Fähre oder Flugzeug.",
-          "tipDe": "Auf einer kleinen Insel zählt Vorbeugung: Halten Sie Ihren Hund kühl, hydriert und fern von der Mittagshitze, um einen Notfall von vornherein zu vermeiden"
+          "descriptionNl": "Naxos heeft geen 24-uurs dierenziekenhuis, waardoor echte spoedgevallen door de lokale dierenartsen op afroep worden behandeld. Sla bij aankomst het mobiele nummer van je gekozen kliniek op en bel meteen als er iets gebeurt buiten de openingstijden; ga er niet vanuit dat een kliniek open is. Voor een kritiek geval dat de mogelijkheden van het eiland te boven gaat, liggen de dichtstbijzijnde grote ziekenhuizen in Athene, te bereiken per veerboot of vliegtuig.",
+          "tipDe": "Auf einer kleinen Insel zählt Vorbeugung: Halten Sie Ihren Hund kühl, hydriert und fern von der Mittagshitze, um einen Notfall von vornherein zu vermeiden",
+          "tipNl": "Op een klein eiland telt preventie: houd je hond koel, gehydrateerd en uit de middaghitte om een noodgeval van tevoren te voorkomen"
         }
       ],
       "faqsEn": [
@@ -745,7 +835,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte in Naxos, Tierkliniken & Haustierpflege",
+      "titleNl": "Spoeddierenartsen in Naxos, dierenklinieken & huisdierenzorg",
       "introDe": "Naxos hat mehrere örtliche Tierarztpraxen in Chora, verfügt jedoch als kleine Kykladeninsel über kein spezielles 24-Stunden-Tierkrankenhaus. Für einen Notfall außerhalb der Öffnungszeiten müssen Sie Ihren Tierarzt vorab auf dessen Mobiltelefon anrufen, da dringende Fälle telefonisch abgewickelt werden. EU-registrierte Haustiere benötigen einen gültigen EU-Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung, um nach Griechenland einzureisen.",
+      "introNl": "Naxos heeft meerdere lokale dierenartspraktijken in Chora, maar beschikt als klein Cycladisch eiland niet over een speciaal 24-uurs dierenziekenhuis. Voor een noodgeval buiten de openingstijden moet je je dierenarts van tevoren op diens mobiele nummer bellen, omdat spoedgevallen telefonisch worden afgehandeld. EU-geregistreerde huisdieren hebben een geldig EU-huisdierenpaspoort, een microchip en een actuele rabiësvaccinatie nodig om Griekenland binnen te komen.",
       "faqsDe": [
         {
           "q": "Gibt es einen 24-Stunden-Tierarzt in Naxos?",
@@ -754,6 +846,16 @@
         {
           "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Naxos zu bringen?",
           "a": "Ja. EU-registrierte Haustiere benötigen einen gültigen EU-Heimtierausweis mit Mikrochip und aktueller Tollwutimpfung, die mindestens 21 Tage vor der Reise verabreicht wurde. Nicht-EU-Haustiere benötigen eine EU-Tiergesundheitsbescheinigung und möglicherweise einen Tollwut-Antikörpertest. Führen Sie die Dokumente für die Fähre mit, wo sie kontrolliert werden."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs dierenarts in Naxos?",
+          "a": "Nee. Naxos is een klein eiland zonder 24-uurs dierenziekenhuis. Lokale dierenartsen in Chora, zoals de praktijk Vasalakis (+30 2285024567, noodmobiel +30 6944278947) en het Naxos Vet Center (+30 2285301653), behandelen spoedgevallen telefonisch, sla dus een nummer op en bel altijd van tevoren."
+        },
+        {
+          "q": "Heb ik een huisdierenpaspoort nodig om mijn hond mee te nemen naar Naxos?",
+          "a": "Ja. EU-geregistreerde huisdieren hebben een geldig EU-huisdierenpaspoort nodig met microchip en een actuele rabiësvaccinatie die minstens 21 dagen voor vertrek is toegediend. Niet-EU-huisdieren hebben een EU-diergezondheidscertificaat nodig en mogelijk een rabiës-titertest. Neem de documenten mee voor de veerboot, waar ze gecontroleerd worden."
         }
       ]
     },
@@ -869,7 +971,9 @@
       "tipsEs": [],
       "tipsPt": [],
       "titleDe": "Hundefreundliche Tipps für Naxos",
+      "titleNl": "Hondvriendelijke tips voor Naxos",
       "introDe": "Naxos ist eine entspannte, hundetolerante Kykladeninsel mit weiten Stränden, begehbaren Gassen der Altstadt und einer starken Tavernenkultur, die sich für Reisen mit einem ruhigen Hund eignet. Die zwei Dinge, die Sie einplanen sollten, sind die Sommerhitze und die Fährlogistik. Hier ist, was Sie vor der Reise wissen sollten.",
+      "introNl": "Naxos is een ontspannen, hondtolerant Cycladisch eiland met uitgestrekte stranden, wandelbare steegjes in de oude stad en een sterke tavernacultuur die goed past bij reizen met een rustige hond. De twee zaken waar je rekening mee moet houden zijn de zomerhitte en de logistiek van de veerboot. Dit is wat je moet weten voordat je vertrekt.",
       "faqsDe": [
         {
           "q": "Ist Naxos gut für Hunde?",
@@ -882,6 +986,20 @@
         {
           "q": "Kann ich von Naxos aus Tagesausflüge mit meinem Hund unternehmen?",
           "a": "Ja. Kleine Kykladeninseln wie Koufonisia und Iraklia sind mit der örtlichen Fähre erreichbar und sehr entspannt im Umgang mit Hunden, prüfen Sie aber die Haustierregeln des jeweiligen Betreibers und die Hitze vor der Fahrt und führen Sie Wasser für die Bootsfahrt mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Naxos goed voor honden?",
+          "a": "Ja. Naxos is een van de meer ontspannen, hondtolerante Cycladische eilanden, met enorme open stranden waar honden op vrije stukken kunnen zwemmen, wandelbare steegjes in de oude stad en taverna's die honden op de terrassen welkom heten. De grootste uitdagingen zijn de zomerhitte en de logistiek van de veerboot, allebei goed te beheersen met wat planning."
+        },
+        {
+          "q": "Wat moet ik inpakken voor Naxos met mijn hond?",
+          "a": "Neem het EU-huisdierenpaspoort of gezondheidscertificaat mee, een lijn en muilkorf (nodig bij het aan boord gaan van de veerboot), poepzakjes, een opvouwbaar waterbakje, pootbescherming of schoentjes voor heet zand en steen, en een parasol. Een koelmat en veel water zijn onmisbaar in juli en augustus."
+        },
+        {
+          "q": "Kan ik dagtochten maken vanaf Naxos met mijn hond?",
+          "a": "Ja. Kleine Cycladische eilanden zoals Koufonisia en Iraklia zijn bereikbaar met de lokale veerboot en zijn heel relaxed met honden, maar controleer de huisdierregels van elke maatschappij en de hitte voordat je vertrekt, en neem water mee voor de boot."
         }
       ]
     },
@@ -918,9 +1036,13 @@
           "tipPt": "Vá ao pôr do sol pela brisa fresca e pela vista famosa, e vigie o apoio do seu cão no mármore liso e aquecido pelo sol",
           "googleMapsUrl": "https://maps.google.com/?q=Portara+Naxos",
           "descriptionDe": "Die Portara ist das riesige Marmortor eines unvollendeten Apollon-Tempels aus dem 6. Jahrhundert v. Chr., das allein auf der Insel Palatia am Rand von Chora steht und über einen kurzen Damm erreichbar ist. Sie ist unumzäunt, kostenlos und zu jeder Stunde geöffnet, sodass ein angeleinter Hund Sie auf dem Spaziergang begleiten darf. Der Sonnenuntergang hier ist das ikonische Bild von Naxos und weit kühler als die Stadt tagsüber.",
+          "descriptionNl": "De Portara is de reusachtige marmeren poort van een onvoltooide Apollotempel uit de 6e eeuw v.Chr., die alleen staat op het eilandje Palatia aan de rand van Chora en bereikbaar is via een korte dam. Ze is onomheind, gratis en op elk uur geopend, zodat een aangelijnde hond je op de wandeling kan vergezellen. De zonsondergang hier is het iconische beeld van Naxos en veel koeler dan de stad overdag.",
           "dogPolicyDe": "Angeleinte Hunde auf dem Damm und rund um das Denkmal willkommen",
+          "dogPolicyNl": "Aangelijnde honden welkom op de dam en rond het monument",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Gehen Sie zum Sonnenuntergang für die kühle Brise und den berühmten Ausblick und achten Sie auf den Halt Ihres Hundes auf dem glatten, sonnenwarmen Marmor"
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Gehen Sie zum Sonnenuntergang für die kühle Brise und den berühmten Ausblick und achten Sie auf den Halt Ihres Hundes auf dem glatten, sonnenwarmen Marmor",
+          "tipNl": "Ga bij zonsondergang voor de koele bries en het beroemde uitzicht, en let op de pootjes van je hond op het gladde, door de zon opgewarmde marmer"
         },
         {
           "name": "Naxos Town Old Town & Kastro",
@@ -945,9 +1067,13 @@
           "tipPt": "Explore o Kastro de manhã cedo antes das multidões dos cruzeiros e do calor do meio-dia. A sombra entre as casas mantém o seu cão confortável",
           "googleMapsUrl": "https://maps.google.com/?q=Kastro+Naxos+Old+Town",
           "descriptionDe": "Die Altstadt von Chora ist ein Labyrinth aus weiß getünchten Gassen, die zum venezianischen Kastro hinaufführen, dem mittelalterlichen Hügelviertel, erbaut von Marco Sanudo, voller Torbögen, Wappen und Meerblicke. Alles ist zu Fuß mit einem angeleinten Hund begehbar, mit unzähligen schattigen Ecken und Terrassencafés zum Verweilen. Die engen Gassen bleiben in der Tageshitze kühler als die offene Uferpromenade.",
+          "descriptionNl": "De oude stad van Chora is een labyrint van witgekalkte steegjes die omhoog leiden naar de Venetiaanse Kastro, de middeleeuwse heuvelwijk gebouwd door Marco Sanudo, vol poorten, wapenschilden en zeezicht. Alles is te voet te verkennen met een aangelijnde hond, met talloze schaduwrijke hoekjes en terrascafés om te vertoeven. De smalle steegjes blijven in de daghitte koeler dan de open boulevard.",
           "dogPolicyDe": "Hunde an der Leine in Straßen und auf Plätzen willkommen",
+          "dogPolicyNl": "Honden aan de lijn welkom in straten en op pleinen",
           "admissionFeeDe": "Kostenlos (Museumsinnenräume nicht haustierfreundlich)",
-          "tipDe": "Erkunden Sie das Kastro am frühen Morgen vor den Kreuzfahrtmassen und der Mittagshitze. Der Schatten zwischen den Häusern hält Ihren Hund angenehm kühl"
+          "admissionFeeNl": "Gratis (binnenruimtes van musea niet huisdiervriendelijk)",
+          "tipDe": "Erkunden Sie das Kastro am frühen Morgen vor den Kreuzfahrtmassen und der Mittagshitze. Der Schatten zwischen den Häusern hält Ihren Hund angenehm kühl",
+          "tipNl": "Verken de Kastro vroeg in de ochtend, vóór de cruisedrukte en de middaghitte. De schaduw tussen de huizen houdt je hond aangenaam koel"
         },
         {
           "name": "Halki & Apiranthos Villages",
@@ -972,9 +1098,13 @@
           "tipPt": "Suba à tarde quando a costa está mais quente. Faça uma pausa num kafeneio de aldeia à sombra de plátanos onde o seu cão possa descansar ao fresco",
           "googleMapsUrl": "https://maps.google.com/?q=Apiranthos+Naxos",
           "descriptionDe": "Die Dörfer im Landesinneren belohnen einen kühleren Tagesausflug: Halki, das alte Handelszentrum des Tragea-Tals mit klassizistischen Herrenhäusern und einer berühmten Kitron-Brennerei, und Apiranthos, ein eindrucksvolles, marmorgepflastertes Bergdorf mit Steinhäusern und venezianischen Türmen. Ihre offenen Straßen und platanenbeschatteten Plätze lassen sich mit einem angeleinten Hund leicht erkunden. Beide liegen höher und kühler als die Küste, eine Erleichterung im Hochsommer.",
+          "descriptionNl": "De dorpen landinwaarts belonen een koelere dagtocht: Halki, het oude handelscentrum van de Tragea-vallei met classicistische herenhuizen en een beroemde kitron-distilleerderij, en Apiranthos, een indrukwekkend, met marmer geplaveid bergdorp met stenen huizen en Venetiaanse torens. De open straten en platanenschaduwrijke pleinen zijn makkelijk te verkennen met een aangelijnde hond. Beide liggen hoger en koeler dan de kust, een verademing in het hoogseizoen.",
           "dogPolicyDe": "Hunde an der Leine in den Dorfstraßen und auf den Plätzen willkommen",
+          "dogPolicyNl": "Honden aan de lijn welkom in dorpsstraten en op pleinen",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Fahren Sie am Nachmittag hinauf, wenn die Küste am heißesten ist. Machen Sie Halt an einem platanenbeschatteten Dorfkafeneio, wo sich Ihr Hund im Kühlen ausruhen kann"
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Fahren Sie am Nachmittag hinauf, wenn die Küste am heißesten ist. Machen Sie Halt an einem platanenbeschatteten Dorfkafeneio, wo sich Ihr Hund im Kühlen ausruhen kann",
+          "tipNl": "Rijd 's middags omhoog, wanneer de kust het heetst is. Stop bij een platanenschaduwrijk dorpskafeneio, waar je hond in de koelte kan uitrusten"
         }
       ],
       "tipsEn": [
@@ -1054,7 +1184,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Naxos",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Naxos",
       "introDe": "Das meiste, was Naxos besonders macht, ist im Freien, was für Hundebesitzer ausgezeichnete Nachrichten sind. Das Portara-Denkmal, die venezianischen Kastro-Gassen von Chora und die Marmordörfer im Landesinneren lassen sich alle zu Fuß mit einem angeleinten Hund erkunden. Innenräume von Museen und Kircheninnenräume lassen keine Haustiere zu, aber Sie werden sie hier kaum vermissen.",
+      "introNl": "Het meeste wat Naxos bijzonder maakt, bevindt zich buiten, uitstekend nieuws voor hondeneigenaren. Het Portara-monument, de Venetiaanse Kastro-steegjes van Chora en de marmeren dorpen landinwaarts zijn allemaal te voet te verkennen met een aangelijnde hond. Binnenruimtes van musea en kerken laten geen huisdieren toe, maar dat zul je hier nauwelijks missen.",
       "faqsDe": [
         {
           "q": "Kann ich Sehenswürdigkeiten auf Naxos mit meinem Hund besuchen?",
@@ -1067,6 +1199,20 @@
         {
           "q": "Was kann ich mit meinem Hund in Naxos unternehmen, wenn es zu heiß ist?",
           "a": "Fahren Sie ins Landesinnere und bergauf zu den kühleren, platanenbeschatteten Dörfern des Tragea-Tals wie Halki und Apiranthos, oder gehen Sie bei Sonnenauf- und -untergang an den Stränden und der Portara spazieren. Meiden Sie nackten Stein und Sand in der Mittagshitze."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik met mijn hond bezienswaardigheden bezoeken op Naxos?",
+          "a": "De meeste belangrijke bezienswaardigheden bevinden zich buiten en zijn hondvriendelijk aan de lijn: de Portara, de oude stad van Chora en de Kastro, en de binnenlandse dorpen Halki en Apiranthos. Binnenruimtes van musea en kerken laten geen huisdieren toe, bewaar die dus voor momenten waarop je hond in de accommodatie rust."
+        },
+        {
+          "q": "Is de Portara hondvriendelijk?",
+          "a": "Ja. De Portara staat op een open, onomheind eilandje dat bereikbaar is via een korte dam, gratis en op elk uur toegankelijk, zodat je er met een aangelijnde hond naartoe kunt wandelen. Ga dicht bij zonsondergang voor koelere lucht en het klassieke uitzicht."
+        },
+        {
+          "q": "Wat kan ik met mijn hond doen op Naxos als het te heet is?",
+          "a": "Rijd landinwaarts en omhoog naar de koelere, platanenschaduwrijke dorpen van de Tragea-vallei zoals Halki en Apiranthos, of wandel bij zonsopgang en zonsondergang over de stranden en bij de Portara. Vermijd kale steen en zand in de middaghitte."
         }
       ]
     },
@@ -1101,8 +1247,11 @@
           "tipEs": "Publica tus fechas con mucha antelación. Naxos tiene menos cuidadores que Atenas, así que contactar pronto es clave en verano",
           "tipPt": "Publique as suas datas com muita antecedência. Naxos tem menos cuidadores do que Atenas, por isso o contacto antecipado é fundamental no verão",
           "descriptionDe": "TrustedHousesitters ist eine Mitgliedschaftsplattform, die Haustierbesitzer mit verifizierten Sittern verbindet, und listet Haustier- und Haussitter speziell für Naxos. Sie funktioniert gut für längere Aufenthalte, bei denen jemand sich um Ihren Hund in Ihrer Unterkunft kümmern soll. Sitter werden ausweisgeprüft und bewertet, und viele sprechen Englisch. Durchsuchen Sie Naxos-Sitter und kontaktieren Sie sie im Voraus, da das Angebot auf der Insel dünner ist als auf dem Festland.",
+          "descriptionNl": "TrustedHousesitters is een lidmaatschapsplatform dat huisdiereigenaren koppelt aan geverifieerde oppassers, en biedt speciaal voor Naxos huisdier- en huisoppassers aan. Het werkt goed voor langere verblijven, waarbij iemand voor je hond in je accommodatie moet zorgen. Oppassers worden op identiteit gecontroleerd en beoordeeld, en velen spreken Engels. Doorzoek oppassers op Naxos en neem vroeg contact op, want het aanbod op het eiland is dunner dan op het vasteland.",
           "serviceTypeDe": "Mitgliedschaftsplattform. Haustier- und Haussitting im eigenen Zuhause",
-          "tipDe": "Geben Sie Ihre Termine frühzeitig bekannt. Naxos hat weniger Sitter als Athen, deshalb ist frühzeitige Kontaktaufnahme im Sommer entscheidend"
+          "serviceTypeNl": "Lidmaatschapsplatform. Huisdier- en huisoppassen bij jou thuis",
+          "tipDe": "Geben Sie Ihre Termine frühzeitig bekannt. Naxos hat weniger Sitter als Athen, deshalb ist frühzeitige Kontaktaufnahme im Sommer entscheidend",
+          "tipNl": "Geef je data vroeg door. Naxos heeft minder oppassers dan Athene, dus vroeg contact leggen is in de zomer cruciaal"
         },
         {
           "name": "PetBacker (Greece)",
@@ -1125,8 +1274,11 @@
           "tipEs": "Escribe a un cuidador antes de reservar para confirmar que cubre tu zona de Naxos y acepta el tamaño de tu perro",
           "tipPt": "Envie mensagem a um cuidador antes de reservar para confirmar que cobre a sua zona de Naxos e aceita o tamanho do seu cão",
           "descriptionDe": "PetBacker ist eine internationale Buchungsplattform mit Sittern in ganz Griechenland, die Boarding, Tagesbetreuung und Gassi-Service anbietet, mit eingebautem Zahlungsschutz und Versicherung. Für Besucher von Naxos ist es eine nützliche Möglichkeit, einen örtlichen Sitter für ein paar Stunden zu finden, während Sie ein Museum besuchen oder eine Pause von der Hitze im Innenraum machen. Lesen Sie Bewertungen und bestätigen Sie den genauen Standort des Sitters auf der Insel, da sich das Angebot auf Chora und Umgebung konzentriert.",
+          "descriptionNl": "PetBacker is een internationaal boekingsplatform met oppassers in heel Griekenland, dat boarding, dagopvang en uitlaatservice aanbiedt, met ingebouwde betalingsbescherming en verzekering. Voor bezoekers van Naxos is het een handige manier om een lokale oppasser te vinden voor een paar uur, terwijl je een museum bezoekt of even binnen aan de hitte ontsnapt. Lees beoordelingen en bevestig de exacte locatie van de oppasser op het eiland, want het aanbod concentreert zich rond Chora en omgeving.",
           "serviceTypeDe": "App-basierte Buchung. Boarding, Tagesbetreuung, Gassi-Service",
-          "tipDe": "Schreiben Sie einem Sitter vor der Buchung, um zu bestätigen, dass er Ihren Teil von Naxos abdeckt und die Größe Ihres Hundes akzeptiert"
+          "serviceTypeNl": "App-gebaseerd boeken. Boarding, dagopvang, uitlaatservice",
+          "tipDe": "Schreiben Sie einem Sitter vor der Buchung, um zu bestätigen, dass er Ihren Teil von Naxos abdeckt und die Größe Ihres Hundes akzeptiert",
+          "tipNl": "Stuur een oppasser een bericht voordat je boekt, om te bevestigen dat hij jouw deel van Naxos bedient en de grootte van je hond accepteert"
         },
         {
           "name": "Naxos vets & pet shops (boarding)",
@@ -1149,8 +1301,11 @@
           "tipEs": "Llama a la clínica Vasalakis (+30 2285024567) con antelación para preguntar por alojamiento corto y cuidadores locales recomendados",
           "tipPt": "Ligue à clínica Vasalakis (+30 2285024567) com antecedência para perguntar sobre alojamento de curta duração e cuidadores locais recomendados",
           "descriptionDe": "Die Tierärzte und Zoofachgeschäfte der Insel in Chora, einschließlich der Praxis und des Zoofachgeschäfts Vasalakis, sind eine praktische örtliche Rückfalloption für kurzfristiges Boarding, Zubehör und Beratung zu vertrauenswürdigen Sittern. Als kleine Unternehmen sind sie im Sommer ausgebucht, rufen Sie also lieber vorher an, statt einfach vorbeizukommen. Sie kennen auch das informelle Netzwerk zur Hundebetreuung der Insel am besten.",
+          "descriptionNl": "De dierenartsen en dierenwinkels van het eiland in Chora, waaronder de praktijk en dierenwinkel Vasalakis, zijn een handige lokale back-upoptie voor kortdurende opvang, benodigdheden en advies over betrouwbare oppassers. Als kleine bedrijven zitten ze in de zomer vol, bel dus liever van tevoren dan gewoon langs te komen. Zij kennen ook het informele netwerk voor hondenopvang van het eiland het beste.",
           "serviceTypeDe": "Örtliches Boarding, Zubehör & Sitter-Empfehlungen",
-          "tipDe": "Rufen Sie die Praxis Vasalakis (+30 2285024567) im Voraus an, um sich nach kurzfristigem Boarding und empfohlenen örtlichen Sittern zu erkundigen"
+          "serviceTypeNl": "Lokale opvang, benodigdheden & aanbevelingen voor oppassers",
+          "tipDe": "Rufen Sie die Praxis Vasalakis (+30 2285024567) im Voraus an, um sich nach kurzfristigem Boarding und empfohlenen örtlichen Sittern zu erkundigen",
+          "tipNl": "Bel de praktijk Vasalakis (+30 2285024567) van tevoren om te vragen naar kortdurende opvang en aanbevolen lokale oppassers"
         }
       ],
       "tipsEn": [
@@ -1198,11 +1353,19 @@
         }
       ],
       "titleDe": "Hundesitter & Haustierpflege in Naxos",
+      "titleNl": "Hondenoppas & huisdierenzorg in Naxos",
       "introDe": "Auf einer kleinen Insel gibt es weniger Möglichkeiten zur Hundebetreuung als in einer Großstadt, buchen Sie also vorab. Reisende verlassen sich meist auf Online-Plattformen, die sie mit örtlichen Sittern und Haussittern auf Naxos verbinden, sowie auf das Boarding-Angebot der Tierärzte und Zoofachgeschäfte der Insel. Bestätigen Sie alles im Voraus, da die Sommernachfrage hoch und die Verfügbarkeit begrenzt ist.",
+      "introNl": "Op een klein eiland zijn er minder mogelijkheden voor hondenopvang dan in een grote stad, boek dus vooraf. Reizigers vertrouwen meestal op online platforms die hen koppelen aan lokale oppassers en huisoppassers op Naxos, plus het opvangaanbod van de dierenartsen en dierenwinkels van het eiland. Bevestig alles van tevoren, want de zomervraag is hoog en de beschikbaarheid beperkt.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Hundesitter in Naxos?",
           "a": "Nutzen Sie Online-Plattformen wie TrustedHousesitters, die Sitter für Naxos listet, oder PetBacker, das ganz Griechenland abdeckt. Die Tierärzte und Zoofachgeschäfte der Insel in Chora können ebenfalls bei kurzfristiger Betreuung helfen und vertrauenswürdige örtliche Sitter empfehlen. Buchen Sie im Sommer weit im Voraus."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe vind ik een hondenoppas in Naxos?",
+          "a": "Gebruik online platforms zoals TrustedHousesitters, dat oppassers voor Naxos vermeldt, of PetBacker, dat heel Griekenland bedient. De dierenartsen en dierenwinkels van het eiland in Chora kunnen ook helpen bij kortdurende opvang en betrouwbare lokale oppassers aanbevelen. Boek in de zomer ruim van tevoren."
         }
       ]
     }

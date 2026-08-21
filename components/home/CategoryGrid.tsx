@@ -11,19 +11,21 @@ interface CategoryGridProps {
   }
 }
 
-function getCategoryName(cat: typeof categories[number] & { namePt?: string; nameDe?: string }, locale: Locale): string {
+function getCategoryName(cat: typeof categories[number] & { namePt?: string; nameDe?: string; nameNl?: string }, locale: Locale): string {
   if (locale === 'fr' && cat.nameFr) return cat.nameFr
   if (locale === 'es' && cat.nameEs) return cat.nameEs
   if (locale === 'pt' && cat.namePt) return cat.namePt
   if (locale === 'de' && cat.nameDe) return cat.nameDe
+  if (locale === 'nl' && cat.nameNl) return cat.nameNl
   return cat.name
 }
 
-function getCategoryDesc(cat: typeof categories[number] & { descriptionPt?: string; descriptionDe?: string }, locale: Locale): string {
+function getCategoryDesc(cat: typeof categories[number] & { descriptionPt?: string; descriptionDe?: string; descriptionNl?: string }, locale: Locale): string {
   if (locale === 'fr' && cat.descriptionFr) return cat.descriptionFr
   if (locale === 'es' && cat.descriptionEs) return cat.descriptionEs
   if (locale === 'pt' && cat.descriptionPt) return cat.descriptionPt
   if (locale === 'de' && cat.descriptionDe) return cat.descriptionDe
+  if (locale === 'nl' && cat.descriptionNl) return cat.descriptionNl
   return cat.description
 }
 
@@ -44,6 +46,7 @@ const INTRO: Record<string, string> = {
   es: 'Todos nuestros hoteles tienen una política de mascotas verificada, pero no todos encajan con cada viaje. Filtra por categoría para dar con el hotel ideal.',
   pt: 'Todos os nossos hotéis têm uma política de animais verificada, mas nem todos servem para cada viagem. Filtre por categoria para encontrar exatamente o hotel ideal.',
   de: 'Alle Hotels von HotelsWithPets haben eine geprüfte Tierrichtlinie, aber nicht jedes Hotel passt zu jeder Reise. Filtern Sie nach Kategorie, um genau das zu finden, was Sie brauchen.',
+  nl: 'Alle hotels op HotelsWithPets hebben een geverifieerd huisdierenbeleid, maar niet elk hotel past bij elke reis. Filter op categorie om precies te vinden wat je zoekt.',
 }
 
 const PROMISE: Record<string, { title: string; items: string[] }> = {
@@ -67,6 +70,10 @@ const PROMISE: Record<string, { title: string; items: string[] }> = {
     title: 'Unser Versprechen',
     items: ['Tierrichtlinie an der Quelle geprüft', 'Preise direkt von Booking.com', 'Keine versteckten Gebühren', 'Regelmäßig aktualisiert'],
   },
+  nl: {
+    title: 'Onze belofte',
+    items: ['Huisdierenbeleid geverifieerd aan de bron', 'Prijzen rechtstreeks van Booking.com', 'Geen verborgen kosten', 'Regelmatig bijgewerkt'],
+  },
 }
 
 export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
@@ -74,17 +81,18 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
   const featured = activeCats.slice(0, 3)
   const rest = activeCats.slice(3)
 
-  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
   const intro = INTRO[lang]
   const promise = PROMISE[lang]
-  const citiesLabel = locale === 'fr' ? 'villes' : locale === 'es' ? 'ciudades' : locale === 'pt' ? 'cidades' : locale === 'de' ? 'Städte' : 'cities'
-  const hotelsLabel = locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : locale === 'de' ? 'Hotels' : 'hotels'
+  const citiesLabel = locale === 'fr' ? 'villes' : locale === 'es' ? 'ciudades' : locale === 'pt' ? 'cidades' : locale === 'de' ? 'Städte' : locale === 'nl' ? 'steden' : 'cities'
+  const hotelsLabel = locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : locale === 'de' ? 'Hotels' : locale === 'nl' ? 'hotels' : 'hotels'
 
   const seeAllLabel =
     locale === 'fr' ? `Voir toutes les catégories →` :
     locale === 'es' ? `Ver todas las categorías →` :
     locale === 'pt' ? `Ver todas as categorias →` :
     locale === 'de' ? `Alle Kategorien ansehen →` :
+    locale === 'nl' ? `Alle categorieën bekijken →` :
     `View all categories →`
 
   return (

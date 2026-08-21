@@ -41,9 +41,13 @@
           "tipPt": "Depois do jantar, dê a volta à esplanada da península do hotel: é o passeio noturno curto mais bonito da vila com cão.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand+Hotel+Zell+am+See",
           "descriptionDe": "Die urige Stube des altehrwürdigen Grand Hotels von 1896 auf seiner eigenen Seehalbinsel ist der Ort, an dem Hundebesitzer speisen: Das Hotel bewirtet Gäste mit Hund offiziell hier, während das Hauptrestaurant hundefrei bleibt. Österreichische Klassiker mit dem Zeller See nur wenige Schritte entfernt.",
+          "descriptionNl": "De sfeervolle stube van het eerbiedwaardige Grand Hotel uit 1896 op zijn eigen schiereiland aan het meer is de plek waar hondenbezitters eten: het hotel ontvangt gasten met hond hier officieel, terwijl het hoofdrestaurant hondenvrij blijft. Oostenrijkse klassiekers met de Zeller See op een paar stappen afstand.",
           "petPolicyDe": "Hunde dürfen ihre Besitzer im Jägerstüberl begleiten; Leinenpflicht",
+          "petPolicyNl": "Honden mogen hun baasjes vergezellen in de Jägerstüberl; aanlijnplicht",
           "mustTryDe": "Tafelspitz mit Seeblick",
-          "tipDe": "Drehen Sie nach dem Abendessen eine Runde auf der Uferpromenade um die Hotelhalbinsel: Es ist der schönste kurze Abendspaziergang mit Hund in der Stadt."
+          "mustTryNl": "Tafelspitz met uitzicht op het meer",
+          "tipDe": "Drehen Sie nach dem Abendessen eine Runde auf der Uferpromenade um die Hotelhalbinsel: Es ist der schönste kurze Abendspaziergang mit Hund in der Stadt.",
+          "tipNl": "Maak na het diner een ronde over de oeverpromenade rond het hotelschiereiland: het is de mooiste korte avondwandeling met hond in het dorp."
         },
         {
           "name": "Steinerwirt 1493",
@@ -71,9 +75,13 @@
           "tipPt": "O Gastgarten na viela é a opção mais fácil com cão no verão; dentro, peça uma mesa de canto na stube antiga.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Steinerwirt+1493+Zell+am+See",
           "descriptionDe": "Ein 500 Jahre alter Gasthof, der in der Fußgängerzone der Altstadt zum Boutiquehotel wurde und gehobene regionale Küche serviert; das Haus ist haustierfreundlich (6 Euro pro Nacht auf der Hotelseite), und wohlerzogene Hunde begleiten ihre Besitzer nach Absprache an den Tisch. Reservieren Sie vorab und erwähnen Sie den Hund.",
+          "descriptionNl": "Een 500 jaar oude herberg in de voetgangerszone van de oude stad, omgetoverd tot boetiekhotel met verfijnde regionale keuken; het huis is huisdiervriendelijk (6 euro per nacht via de hotelpagina), en goed opgevoede honden mogen na overleg mee aan tafel. Reserveer vooraf en vermeld de hond.",
           "petPolicyDe": "Hundefreundliches Haus; Hund am Tisch auf Anfrage, bitte bei der Buchung erwähnen",
+          "petPolicyNl": "Hondvriendelijk huis; hond aan tafel op aanvraag, graag vermelden bij het boeken",
           "mustTryDe": "Pinzgauer Kasnocken",
-          "tipDe": "Der Gastgarten in der Gasse ist im Sommer der einfachste Platz mit Hund; drinnen bitten Sie um einen Ecktisch in der alten Stube."
+          "mustTryNl": "Pinzgauer Kasnocken",
+          "tipDe": "Der Gastgarten in der Gasse ist im Sommer der einfachste Platz mit Hund; drinnen bitten Sie um einen Ecktisch in der alten Stube.",
+          "tipNl": "Het terras in het steegje is 's zomers de makkelijkste plek met hond; binnen vraag je om een hoektafel in de oude stube."
         },
         {
           "name": "Berghotel Jaga-Alm",
@@ -101,14 +109,21 @@
           "tipPt": "Leve água para o cão na esplanada soalheira: os bebedouros são para o gado e o sol de verão a 1.700 m é forte.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Berghotel+Jaga-Alm+Zell+am+See",
           "descriptionDe": "Ein klassisches Almhüttenhotel auf rund 1.700 m auf der Schmittenhöhe, das zu den hundefreundlichen Häusern der Region zählt, mit einer großen Sonnenterrasse mit Blick auf die Hohen Tauern. Erreichbar mit der Sonnenalmbahn (Hunde fahren mit Maulkorb und Leine mit) oder zu Fuß über den Almweg.",
+          "descriptionNl": "Een klassiek alpenhutte-hotel op zo'n 1.700 m op de Schmittenhöhe, een van de hondvriendelijke adressen van de regio, met een groot zonneterras met uitzicht op de Hohe Tauern. Bereikbaar met de Sonnenalmbahn (honden mogen mee met muilkorf en lijn) of te voet via het almpad.",
           "petPolicyDe": "Hundefreundliches Berghaus; Leinenpflicht auf Terrasse und Wegen",
+          "petPolicyNl": "Hondvriendelijk berghuis; aanlijnplicht op terras en paden",
           "mustTryDe": "Kaiserschmarrn nach der Gipfelrunde",
-          "tipDe": "Nehmen Sie Wasser für den Hund auf der sonnigen Terrasse mit: Die Almtröge sind für das Vieh, und die Sommersonne ist auf 1.700 m sehr stark."
+          "mustTryNl": "Kaiserschmarrn na de tocht naar de top",
+          "tipDe": "Nehmen Sie Wasser für den Hund auf der sonnigen Terrasse mit: Die Almtröge sind für das Vieh, und die Sommersonne ist auf 1.700 m sehr stark.",
+          "tipNl": "Neem water voor je hond mee op het zonnige terras: de drinkbakken zijn voor het vee, en de zomerzon is fel op 1.700 m."
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Zell am See",
+      "titleNl": "Hondvriendelijke restaurants in Zell am See",
       "introDe": "Der Tourismusverband Zell am See-Kaprun führt ein offizielles Verzeichnis von Restaurants, Cafés und Gasthöfen, in denen Hunde willkommene Gäste sind, und die meisten Berghütten auf der Schmittenhöhe und am Kitzsteinhorn lassen angeleinte Hunde neben dem Tisch Platz nehmen. In der Stadt gilt die örtliche Regel: Leine oder Maulkorb in allen öffentlichen Bereichen.",
-      "faqsDe": []
+      "introNl": "De toeristenbond van Zell am See-Kaprun houdt een officiële lijst bij van restaurants, cafés en herbergen waar honden welkome gasten zijn, en de meeste berghutten op de Schmittenhöhe en de Kitzsteinhorn laten aangelijnde honden naast de tafel liggen. In het dorp geldt de lokale regel: lijn of muilkorf verplicht in alle openbare ruimtes.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Parks & Walks for Dogs in Zell am See",
@@ -160,8 +175,11 @@
           "bestTimeToVisitPt": "De manhã cedo ou à hora dourada",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Elisabethpark+Zell+am+See",
           "descriptionDe": "Der gepflegte Uferpark am Beginn der Esplanade mit Blumenbeeten, alten Bäumen und Blick in erster Reihe über den Zeller See zum Kitzsteinhorngletscher. Perfekt für den morgendlichen Leinenspaziergang, bevor die Boote den Betrieb aufnehmen.",
+          "descriptionNl": "Het verzorgde oeverpark aan het begin van de Esplanade met bloemperken, oude bomen en een adembenemend uitzicht in de eerste rij over de Zeller See naar de Kitzsteinhorngletsjer. Perfect voor de ochtendwandeling aan de lijn, voordat de boten beginnen te varen.",
           "leashRulesDe": "Leinen- oder Maulkorbpflicht (kommunale Regel)",
-          "bestTimeToVisitDe": "Früher Morgen oder goldene Stunde"
+          "leashRulesNl": "Lijn- of muilkorfplicht (gemeentelijke regel)",
+          "bestTimeToVisitDe": "Früher Morgen oder goldene Stunde",
+          "bestTimeToVisitNl": "Vroege ochtend of het gouden uur"
         },
         {
           "name": "Hundezone Erlberg",
@@ -203,8 +221,11 @@
           "bestTimeToVisitPt": "A qualquer hora; mais movimentada ao fim da tarde",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hundezone+Erlberg+Zell+am+See",
           "descriptionDe": "Die offizielle Hundezone ohne Leine der Stadt, direkt neben dem Naturschutzgebiet Zeller See, wo Hunde endlich frei von der Leinen- oder Maulkorbpflicht laufen können. Ein schöner Wanderweg verläuft daneben am Rand des Schutzgebiets.",
+          "descriptionNl": "De officiële loslopen-zone van het dorp, direct naast het natuurreservaat Zeller See, waar honden eindelijk vrij van de lijn- of muilkorfplicht kunnen rennen. Er loopt een mooi wandelpad langs de rand van het reservaat.",
           "leashRulesDe": "Freilauf innerhalb der Zone erlaubt; beim Verlassen wieder anleinen",
-          "bestTimeToVisitDe": "Jederzeit; am belebtesten am späten Nachmittag"
+          "leashRulesNl": "Loslopen toegestaan binnen de zone; bij het verlaten weer aanlijnen",
+          "bestTimeToVisitDe": "Jederzeit; am belebtesten am späten Nachmittag",
+          "bestTimeToVisitNl": "Op elk moment; het drukst in de late namiddag"
         },
         {
           "name": "Zeller See lake loop",
@@ -246,13 +267,19 @@
           "bestTimeToVisitPt": "Maio, junho e setembro para caminhos tranquilos",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Esplanade+Zell+am+See",
           "descriptionDe": "Die klassische flache Runde um den Zeller See durch Thumersbach und die Schilfgürtel des Naturschutzgebiets, in etwa drei Stunden begehbar mit viel Schnuppermöglichkeit am Ufer. Verkürzen Sie sie, indem Sie in ein Seeboot oder den Bus zurück von jedem Ort steigen.",
+          "descriptionNl": "De klassieke vlakke rondje om de Zeller See door Thumersbach en de rietkraag van het natuurreservaat, in ongeveer drie uur te lopen met volop snuffelmogelijkheden aan de oever. Verkort de tocht door ergens onderweg op een meerboot of de bus terug te stappen.",
           "leashRulesDe": "Leinen- oder Maulkorbpflicht; Hunde vom Schilf-Naturschutzgebiet fernhalten",
-          "bestTimeToVisitDe": "Mai, Juni und September für ruhige Wege"
+          "leashRulesNl": "Lijn- of muilkorfplicht; houd honden weg bij het rietmoeras-natuurreservaat",
+          "bestTimeToVisitDe": "Mai, Juni und September für ruhige Wege",
+          "bestTimeToVisitNl": "Mei, juni en september voor rustige paden"
         }
       ],
       "titleDe": "Parks und Spaziergänge für Hunde in Zell am See",
+      "titleNl": "Parken en wandelingen voor honden in Zell am See",
       "introDe": "Zell am See vereint einen Uferpark, eine komplette Seerunde und eine ausgewiesene Hundezone ohne Leine auf wenigen Quadratkilometern zwischen dem Wasser und der Schmittenhöhe. Die Stadtregel, die überall zu beachten ist: In öffentlichen Bereichen von Zell am See und Kaprun müssen Hunde angeleint sein oder einen Maulkorb tragen.",
-      "faqsDe": []
+      "introNl": "Zell am See combineert een oeverpark, een complete rondje om het meer en een aangewezen loslopen-zone voor honden op een paar vierkante kilometer tussen het water en de Schmittenhöhe. De stadsregel die overal geldt: in openbare ruimtes van Zell am See en Kaprun moeten honden aangelijnd zijn of een muilkorf dragen.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting Around Zell am See with a Dog",
@@ -309,8 +336,11 @@
       ],
       "places": [],
       "titleDe": "Unterwegs in Zell am See mit Hund",
+      "titleNl": "Onderweg met hond in Zell am See",
       "introDe": "Hier ist alles mit Hund erreichbar, sofern Sie ein Utensil einpacken: einen Maulkorb. Salzburgs Busse und Züge, die Seilbahnen der Schmittenhöhe und sogar die Seeboote nehmen alle Hunde mit, und bei allen ist ein bissfester Maulkorb und eine kurze Leine an Bord vorgeschrieben.",
-      "faqsDe": []
+      "introNl": "Hier is alles met hond bereikbaar, mits je één ding meeneemt: een muilkorf. De bussen en treinen van Salzburg, de kabelbanen van de Schmittenhöhe en zelfs de meerboten nemen allemaal honden mee, en overal is een bijtvaste muilkorf en een korte lijn aan boord verplicht.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Lake Swimming for Dogs around Zell am See",
@@ -363,8 +393,11 @@
       ],
       "places": [],
       "titleDe": "Seebaden für Hunde rund um Zell am See",
+      "titleNl": "Zwemmen in het meer voor honden rond Zell am See",
       "introDe": "Hunde dürfen im Zeller See und im Klammsee bei Kaprun schwimmen, mit einer klaren Grenze: Die offiziellen Strandbäder und ausgewiesenen Badebereiche sind nur für Menschen, also steuern Sie stattdessen die freien Uferabschnitte an. Die Hundezone Erlberg am Nordufer ist der beliebteste Sprungpunkt der örtlichen Hunde.",
-      "faqsDe": []
+      "introNl": "Honden mogen zwemmen in de Zeller See en de Klammsee bij Kaprun, met één duidelijke grens: de officiële stranden en aangewezen zwemzones zijn alleen voor mensen, dus richt je in plaats daarvan op de vrije oeverstukken. De loslopen-zone Erlberg aan de noordoever is de populairste duikplek van de lokale honden.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Veterinarians in Zell am See",
@@ -405,8 +438,11 @@
       ],
       "places": [],
       "titleDe": "Tierärzte in Zell am See",
+      "titleNl": "Dierenartsen in Zell am See",
       "introDe": "Die Tourismusregion führt offiziell die Tierärztin Veronika Brugger in Zell am See, die eine eigene Notfallleitung betreibt, und das Kleintierzentrum im benachbarten Bruck deckt die Kaprun-Seite des Tals ab. Beachten Sie, dass Salzburgs nächtliche Kleintier-Hotline nur die Stadtregion abdeckt, sodass Sie im Pinzgau die örtlichen Praxen direkt anrufen.",
-      "faqsDe": []
+      "introNl": "De toeristenregio vermeldt officieel dierenarts Veronika Brugger in Zell am See, die een eigen spoedlijn heeft, en het kleindierencentrum in het naburige Bruck bedient de Kaprun-kant van het dal. Let op: de nachtelijke kleindieren-hotline van Salzburg dekt alleen de stadsregio, dus in de Pinzgau bel je de lokale praktijken direct.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Zell am See with a Dog",
@@ -495,7 +531,9 @@
         }
       ],
       "titleDe": "Wichtige Tipps für einen Besuch in Zell am See mit Hund",
+      "titleNl": "Belangrijke tips voor een bezoek met hond aan Zell am See",
       "introDe": "See, Gletscher und Gipfel sind hier alle mit Hund zugänglich, was Zell am See-Kaprun zu einer der besten Alpenbasen Österreichs mit Haustier macht. Die Kehrseite ist ein strengeres Regelwerk als üblich: Leinen- oder Maulkorbpflicht überall im öffentlichen Raum, und ein Maulkorb muss dem Hund für jede Liftfahrt, jeden Bus und jedes Boot tatsächlich angelegt sein.",
+      "introNl": "Meer, gletsjer en top zijn hier allemaal met hond te bereiken, wat van Zell am See-Kaprun een van de beste Alpenbestemmingen van Oostenrijk met huisdier maakt. De keerzijde is een strenger regelstelsel dan gebruikelijk: lijn- of muilkorfplicht overal in de openbare ruimte, en voor elke rit met lift, bus of boot moet de hond daadwerkelijk een muilkorf om hebben.",
       "faqsDe": [
         {
           "q": "Darf mein Hund mit der Schmittenhöhebahn fahren?",
@@ -508,6 +546,20 @@
         {
           "q": "Darf mein Hund im Zeller See schwimmen?",
           "a": "Ja, außerhalb der offiziellen Strandbäder und ausgewiesenen Badebereiche, die nur für Menschen sind. Einheimische nutzen den Uferabschnitt der Hundezone Erlberg am Nordufer, und der Klammsee-Stausee oberhalb von Kaprun ist eine ruhigere Alternative."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond mee met de Schmittenhöhebahn?",
+          "a": "Ja. Honden reizen mee met alle Schmitten-liften met een apart hondenticket, te koop bij het dalstation, en dragen in de cabine muilkorf en lijn. Op de berg blijven honden op elk pad en elke route aangelijnd."
+        },
+        {
+          "q": "Zijn honden toegestaan op de boten van de Zeller See?",
+          "a": "Ja. Aangelijnde honden met muilkorf zijn welkom op de hele vloot; een hondenticket kost 5 euro voor panoramatochten en 3 euro voor overtochten (tarieven 2026)."
+        },
+        {
+          "q": "Mag mijn hond zwemmen in de Zeller See?",
+          "a": "Ja, buiten de officiële stranden en aangewezen zwemzones, die alleen voor mensen zijn. Locals gebruiken het oeverstuk bij de loslopen-zone Erlberg aan de noordoever, en het Klammsee-stuwmeer boven Kaprun is een rustiger alternatief."
         }
       ]
     },
@@ -532,7 +584,8 @@
           "dogFriendly": true,
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Schmittenhohe+Zell+am+See",
-          "descriptionDe": "Zell am Sees 2.000 m hoher Hausberg, berühmt für ein Gipfelpanorama mit mehr als dreißig 3.000er-Gipfeln über dem türkisfarbenen See. Hunde fahren mit eigenem Ticket mit hoch (Maulkorb und Leine in der Kabine) und gehen an der Leine auf den Gipfelwegen."
+          "descriptionDe": "Zell am Sees 2.000 m hoher Hausberg, berühmt für ein Gipfelpanorama mit mehr als dreißig 3.000er-Gipfeln über dem türkisfarbenen See. Hunde fahren mit eigenem Ticket mit hoch (Maulkorb und Leine in der Kabine) und gehen an der Leine auf den Gipfelwegen.",
+          "descriptionNl": "De 2.000 m hoge huisberg van Zell am See, beroemd om een toppanorama met meer dan dertig drieduizenders boven het turkooizen meer. Honden gaan mee omhoog met een eigen ticket (muilkorf en lijn in de cabine) en lopen aangelijnd op de looppaden bij de top."
         },
         {
           "name": "Sigmund Thun Klamm",
@@ -545,7 +598,8 @@
           "dogFriendly": true,
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sigmund+Thun+Klamm+Kaprun",
-          "descriptionDe": "Eine 32 m tiefe Gletscherschlucht mit hölzernen Stegen über der tosenden Kapruner Ache, etwa von Mai bis Oktober geöffnet, und angeleinte Hunde gehen den gesamten Steg entlang. Oben mündet sie in die Klammsee-Runde und einen geräumigen Hundepark."
+          "descriptionDe": "Eine 32 m tiefe Gletscherschlucht mit hölzernen Stegen über der tosenden Kapruner Ache, etwa von Mai bis Oktober geöffnet, und angeleinte Hunde gehen den gesamten Steg entlang. Oben mündet sie in die Klammsee-Runde und einen geräumigen Hundepark.",
+          "descriptionNl": "Een 32 m diepe gletsjerkloof met houten vlonderpaden boven de kolkende Kapruner Ache, ongeveer open van mei tot oktober, waar aangelijnde honden het hele pad mogen volgen. Bovenaan sluit het aan op de Klammsee-rondwandeling en een ruime hondenspeelweide."
         },
         {
           "name": "Kitzsteinhorn - TOP OF SALZBURG",
@@ -558,12 +612,16 @@
           "dogFriendly": true,
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kitzsteinhorn+Kaprun",
-          "descriptionDe": "Salzburgs Gletscherberg bringt Hunde mit eigenen Tages- oder Wochenkarten, mit Maulkorb und Leine in den Gondeln, zur 3.029 m hoch gelegenen Plattform TOP OF SALZBURG. Hunde sind in den Bergrestaurants willkommen, auf den Skipisten jedoch nicht erlaubt."
+          "descriptionDe": "Salzburgs Gletscherberg bringt Hunde mit eigenen Tages- oder Wochenkarten, mit Maulkorb und Leine in den Gondeln, zur 3.029 m hoch gelegenen Plattform TOP OF SALZBURG. Hunde sind in den Bergrestaurants willkommen, auf den Skipisten jedoch nicht erlaubt.",
+          "descriptionNl": "De gletsjerberg van Salzburg brengt honden met een eigen dag- of weekkaart, met muilkorf en lijn in de gondels, naar het 3.029 m hoge platform TOP OF SALZBURG. Honden zijn welkom in de bergrestaurants, maar niet toegestaan op de skipistes."
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Zell am See",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Zell am See",
       "introDe": "Dies ist eine der seltenen Alpenregionen, in denen die drei Wahrzeichen-Ausflüge, der Panoramaberg, der Gletscher und die Schlucht, alle Hunde zulassen. Bringen Sie den Maulkorb für die Lifte mit und beachten Sie die Leinenpflicht der Stadt für alles andere, und die ganze Postkarte gehört Ihnen.",
-      "faqsDe": []
+      "introNl": "Dit is een van de zeldzame Alpenregio's waar de drie iconische uitstapjes, de panoramaberg, de gletsjer en de kloof, allemaal honden toelaten. Neem de muilkorf mee voor de liften en houd rekening met de aanlijnplicht van het dorp voor de rest, en de hele ansichtkaart is van jou.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Care in Zell am See",
@@ -617,8 +675,11 @@
         }
       ],
       "titleDe": "Haustierbetreuung und Hundesitting in Zell am See",
+      "titleNl": "Huisdierenoppas en hondensitten in Zell am See",
       "introDe": "Nützlich für Skitage und Nachmittage an der Piste, wo Hunde nicht mitkönnen: Der Tourismusverband führt in seinem A-Z-Verzeichnis eine Liste zuverlässiger örtlicher Hundesitter, und die österreichischen Ableger der großen Sitting-Plattformen decken den Pinzgau mit Betreuung zu Hause und Spaziergängen ab.",
-      "faqsDe": []
+      "introNl": "Handig voor skidagen en middagen op de piste waar honden niet mee kunnen: de toeristenbond houdt in zijn A-Z-gids een lijst bij van betrouwbare lokale hondenoppassers, en de Oostenrijkse tak van de grote oppasplatforms dekt de Pinzgau met oppas aan huis en wandelingen.",
+      "faqsDe": [],
+      "faqsNl": []
     }
   }
 }

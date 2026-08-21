@@ -24,6 +24,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   es: { label: 'Destinos pet-friendly frescos en verano', cta: 'Ver hoteles' },
   pt: { label: 'Destinos pet-friendly frescos no verão', cta: 'Ver hotéis' },
   de: { label: 'Kühle Sommerziele für Haustiere', cta: 'Hotels ansehen' },
+  nl: { label: 'Koele zomerbestemmingen voor huisdieren', cta: 'Bekijk hotels' },
 }
 
 export async function generateStaticParams() {
@@ -44,6 +45,7 @@ export async function generateMetadata({
     es: `Viajar con tu perro a menos de 25°C en julio: 8 destinos europeos frescos (2026)`,
     pt: `Viajar com o seu cão a menos de 25°C em julho: 8 destinos europeus frescos (2026)`,
     de: `Mit Hund reisen bei unter 25°C im Juli: 8 kühle europäische Reiseziele (2026)`,
+    nl: `Reizen met je hond bij minder dan 25°C in juli: 8 koele Europese bestemmingen (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Eight European destinations where July temperatures stay under 25°C - the safe zone for brachycephalic breeds (bulldogs, pugs, boxers) and senior dogs. Reykjavík, Bergen, Stockholm and others, with verified pet-friendly hotels.`,
@@ -51,6 +53,7 @@ export async function generateMetadata({
     es: `Ocho destinos europeos donde la temperatura de julio se mantiene bajo 25°C - la zona segura para razas braquicéfalas (bulldogs, carlinos, bóxer) y perros mayores. Reikiavik, Bergen, Estocolmo y otros, con hoteles pet-friendly verificados.`,
     pt: `Oito destinos europeus onde a temperatura de julho se mantém abaixo de 25°C - a zona segura para raças braquicefálicas (bulldogs, carlins, boxers) e cães idosos. Reiquiavique, Bergen, Estocolmo e outros, com hotéis pet-friendly verificados.`,
     de: `Acht europäische Reiseziele, an denen die Julitemperaturen unter 25°C bleiben - die sichere Zone für brachyzephale Rassen (Bulldoggen, Möpse, Boxer) und ältere Hunde. Reykjavík, Bergen, Stockholm und weitere, mit geprüften haustierfreundlichen Hotels.`,
+    nl: `Acht Europese bestemmingen waar de julitemperatuur onder 25°C blijft, de veilige zone voor kortsnuitige rassen (bulldogs, mopshonden, boxers) en oudere honden. Reykjavík, Bergen, Stockholm en meer, met geverifieerde huisdiervriendelijke hotels.`,
   }
   return {
     title: titles[locale] ?? titles.en,
@@ -63,6 +66,7 @@ export async function generateMetadata({
         es: `${SITE_URL}/es/guides/${SLUG}`,
         pt: `${SITE_URL}/pt/guides/${SLUG}`,
         de: `${SITE_URL}/de/guides/${SLUG}`,
+        nl: `${SITE_URL}/nl/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },
@@ -87,12 +91,14 @@ type Pick = {
   whyEs: string
   whyPt: string
   whyDe: string
+  whyNl: string
   hotelName: string
   hotelEn: string
   hotelFr: string
   hotelEs: string
   hotelPt: string
   hotelDe: string
+  hotelNl: string
 }
 
 const PICKS: Pick[] = [
@@ -107,12 +113,14 @@ const PICKS: Pick[] = [
     whyEs: `La capital más fresca de Europa en julio. 21 h de luz para paseos muy matinales o muy tardíos, los senderos de Tjörnin y de la reserva Heiðmörk admiten perros con correa todo el año, y cero riesgo de estrés térmico para cualquier raza. Único contra: papeleo de importación. Los perros de la UE necesitan un Animal Health Certificate vía la autoridad veterinaria islandesa MAST, prever 3-4 semanas antes.`,
     whyPt: `A capital mais fresca da Europa em julho. 21 h de luz para passeios muito matinais ou muito tardios, os trilhos do Tjörnin e da reserva Heiðmörk aceitam cães à trela todo o ano, e zero risco de stress térmico para qualquer raça. Único senão: a papelada de importação. Cães vindos da UE precisam de um Animal Health Certificate via a autoridade veterinária islandesa MAST, planear 3-4 semanas antes.`,
     whyDe: `Die kühlste Hauptstadt Europas im Juli. Endlose 21 Stunden Tageslicht für sehr frühe oder sehr späte Spaziergänge, die Wege am Tjörnin-See und im Naturschutzgebiet Heiðmörk sind das ganze Jahr über für angeleinte Hunde geöffnet, und es besteht praktisch kein Hitzestress-Risiko für jede Rasse. Der einzige Nachteil ist der Papierkram bei der Einfuhr: Hunde aus der EU brauchen ein Animal Health Certificate über die isländische Veterinärbehörde MAST, planen Sie 3-4 Wochen im Voraus.`,
+    whyNl: `De koelste hoofdstad van Europa in juli. Eindeloos 21 uur daglicht voor heel vroege of heel late wandelingen, de paden bij het Tjörnin-meer en het natuurreservaat Heiðmörk zijn het hele jaar open voor honden aan de lijn, en er is praktisch geen risico op hittestress voor welk ras dan ook. Het enige nadeel is de invoerpapierwerk: honden uit de EU hebben een Animal Health Certificate nodig via de IJslandse veterinaire autoriteit MAST, reken op 3-4 weken van tevoren.`,
     hotelName: 'Hotel Reykjavik Centrum',
     hotelEn: `Hotel Reykjavik Centrum - boutique 4-star in the oldest restored building of central Reykjavík. Pets welcomed on request, 2-min walk to the Tjörnin lake walk, the lobby tolerates a quiet leashed dog while you have a coffee.`,
     hotelFr: `Hotel Reykjavik Centrum - boutique 4 étoiles dans le plus vieux bâtiment restauré du centre. Chiens acceptés sur demande, 2 min à pied du Tjörnin, le lobby accueille un chien en laisse calme pendant un café.`,
     hotelEs: `Hotel Reykjavik Centrum - boutique 4 estrellas en el edificio restaurado más antiguo del centro. Perros admitidos a petición, 2 min andando al Tjörnin, el lobby tolera un perro con correa tranquilo durante un café.`,
     hotelPt: `Hotel Reykjavik Centrum - boutique 4 estrelas no edifício restaurado mais antigo do centro. Cães aceites a pedido, 2 min a pé do Tjörnin, o lobby tolera um cão à trela calmo durante um café.`,
     hotelDe: `Hotel Reykjavik Centrum - Boutique-4-Sterne-Hotel im ältesten restaurierten Gebäude der Innenstadt von Reykjavík. Haustiere auf Anfrage willkommen, 2 Minuten zu Fuß zum Spazierweg am Tjörnin-See, die Lobby toleriert einen ruhigen angeleinten Hund bei Ihrem Kaffee.`,
+    hotelNl: `Hotel Reykjavik Centrum - boutique 4-sterren hotel in het oudste gerestaureerde gebouw van het centrum van Reykjavík. Huisdieren op aanvraag welkom, 2 minuten lopen naar het wandelpad bij het Tjörnin-meer, de lobby duldt een rustige hond aan de lijn terwijl je koffie drinkt.`,
   },
   {
     slug: 'bergen',
@@ -125,12 +133,14 @@ const PICKS: Pick[] = [
     whyEs: `La Noruega de los fiordos en su mejor versión fresca. El funicular Fløyen admite perros con correa (45 NOK), las siete montañas alrededor ofrecen cientos de km de senderos forestales frescos, y el muelle Bryggen UNESCO es llano por el puerto. Lleva impermeable: Bergen tiene 12 días de lluvia incluso en julio, pero se mantiene bajo 20°C y tu perro de hocico corto te lo agradecerá.`,
     whyPt: `A Noruega dos fiordes no seu auge fresco. O funicular Fløyen aceita cães à trela (45 NOK), as sete montanhas à volta oferecem centenas de km de trilhos florestais frescos, e o cais Bryggen UNESCO é plano ao longo do porto. Leve impermeável: Bergen tem 12 dias de chuva mesmo em julho, mas mantém-se abaixo dos 20°C e o seu cão de focinho curto vai agradecer.`,
     whyDe: `Fjord-Norwegen von seiner kühlsten Seite. Die Fløyen-Standseilbahn nimmt angeleinte Hunde mit (45 NOK), die sieben Berge rund um die Stadt bieten hunderte Kilometer kühle Waldwege, und der UNESCO-Kai Bryggen ist eine flache Spazierroute entlang des Hafens. Packen Sie Regenfestes ein: Bergen hat auch im Juli durchschnittlich 12 Regentage, bleibt aber unter 20°C, und Ihr kurznasiger Hund wird es Ihnen danken.`,
+    whyNl: `Noorwegens fjorden op hun koelst. De Fløyen-kabeltrein neemt honden aan de lijn mee (45 NOK), de zeven bergen rond de stad bieden honderden km koele boswandelpaden, en de UNESCO-kade Bryggen is een vlakke wandelroute langs de haven. Neem regenkleding mee: Bergen heeft ook in juli gemiddeld 12 regendagen, maar blijft onder 20°C, en je kortsnuitige hond zal je dankbaar zijn.`,
     hotelName: 'Det Hanseatiske Hotel',
     hotelEn: `Det Hanseatiske Hotel - boutique 4-star inside an actual 18th-century Hanseatic merchant house on the Bryggen wharf. Pets welcomed at modest fee, original wood-beam rooms, your dog literally sleeps inside UNESCO heritage.`,
     hotelFr: `Det Hanseatiske Hotel - boutique 4 étoiles dans une vraie maison de marchand hanséatique du XVIIIᵉ sur le quai Bryggen. Chiens acceptés (supplément modéré), chambres à poutres d'origine, votre chien dort littéralement dans le patrimoine UNESCO.`,
     hotelEs: `Det Hanseatiske Hotel - boutique 4 estrellas en una auténtica casa de mercader hanseático del siglo XVIII en el muelle Bryggen. Perros admitidos (suplemento moderado), habitaciones con vigas originales, tu perro duerme literalmente dentro del patrimonio UNESCO.`,
     hotelPt: `Det Hanseatiske Hotel - boutique 4 estrelas numa autêntica casa de mercador hanseático do século XVIII no cais Bryggen. Cães aceites (taxa moderada), quartos com vigas originais, o seu cão dorme literalmente dentro do património UNESCO.`,
     hotelDe: `Det Hanseatiske Hotel - Boutique-4-Sterne-Hotel in einem echten hanseatischen Kaufmannshaus aus dem 18. Jahrhundert am Bryggen-Kai. Haustiere gegen moderate Gebühr willkommen, Zimmer mit Original-Holzbalken, Ihr Hund schläft buchstäblich mitten im UNESCO-Welterbe.`,
+    hotelNl: `Det Hanseatiske Hotel - boutique 4-sterren hotel in een echt 18e-eeuws Hanzeatisch koopmanshuis aan de Bryggen-kade. Huisdieren welkom tegen een gematigde vergoeding, kamers met originele houten balken, je hond slaapt letterlijk midden in UNESCO-erfgoed.`,
   },
   {
     slug: 'stockholm',
@@ -143,12 +153,14 @@ const PICKS: Pick[] = [
     whyEs: `Justo bajo el umbral seguro y una de las ciudades más tolerantes con perros de Europa. La isla de Djurgården es un paraíso canino (12 km de senderos), los ferris del archipiélago (Waxholmsbolaget) admiten perros con correa gratis, y los hoteles suecos suelen aceptar al perro sin coste extra. La media del suplemento canino en Suecia es la más baja de la UE (9 €, a menudo gratis).`,
     whyPt: `Mesmo abaixo do limite seguro e uma das cidades mais tolerantes com cães da Europa. A ilha de Djurgården é um paraíso canino (12 km de trilhos), os ferries do arquipélago (Waxholmsbolaget) aceitam cães à trela gratuitamente, e os hotéis suecos costumam aceitar o cão sem custo extra. A média da taxa canina na Suécia é a mais baixa da UE (9 €, frequentemente gratuita).`,
     whyDe: `Knapp unter der sicheren Schwelle und eine der hundefreundlichsten Städte Europas. Die Insel Djurgården ist ein Hundespaziergang-Paradies (12 km Wege), die Schärenfähren (Waxholmsbolaget) nehmen angeleinte Hunde kostenlos mit, und schwedische Hotels nehmen den Hund routinemäßig ohne Aufpreis auf. Schweden hat den niedrigsten Tiergebühren-Durchschnitt der EU (9 €, oft kostenlos).`,
+    whyNl: `Net onder de veilige drempel en een van de meest hondvriendelijke steden van Europa. Het eiland Djurgården is een paradijs om honden uit te laten (12 km paden), de archipelveerboten (Waxholmsbolaget) nemen honden aan de lijn gratis mee, en Zweedse hotels nemen de hond routinematig zonder toeslag op. Zweden heeft het laagste gemiddelde huisdiertoeslag van de EU (9 €, vaak gratis).`,
     hotelName: 'Hotel Skeppsholmen',
     hotelEn: `Hotel Skeppsholmen - boutique 4-star in the former Royal Navy barracks on Skeppsholmen island, 8-min walk to Gamla Stan. Pets welcomed free of charge, garden patio for the dog while you have breakfast.`,
     hotelFr: `Hotel Skeppsholmen - boutique 4 étoiles dans les anciens quartiers de la Marine royale sur l'île de Skeppsholmen, 8 min à pied de Gamla Stan. Chiens acceptés gratuitement, patio jardin pour le chien pendant le petit-déjeuner.`,
     hotelEs: `Hotel Skeppsholmen - boutique 4 estrellas en los antiguos cuarteles de la Marina Real en la isla de Skeppsholmen, 8 min andando a Gamla Stan. Perros admitidos gratuitamente, patio jardín para el perro durante el desayuno.`,
     hotelPt: `Hotel Skeppsholmen - boutique 4 estrelas nos antigos quartéis da Marinha Real na ilha de Skeppsholmen, 8 min a pé de Gamla Stan. Cães aceites gratuitamente, pátio jardim para o cão durante o pequeno-almoço.`,
     hotelDe: `Hotel Skeppsholmen - Boutique-4-Sterne-Hotel in der ehemaligen Kaserne der Königlichen Marine auf der Insel Skeppsholmen, 8 Minuten zu Fuß zur Gamla Stan. Haustiere kostenlos willkommen, Gartenterrasse für den Hund während Ihres Frühstücks.`,
+    hotelNl: `Hotel Skeppsholmen - boutique 4-sterren hotel in de voormalige kazerne van de Koninklijke Marine op het eiland Skeppsholmen, 8 minuten lopen naar Gamla Stan. Huisdieren gratis welkom, tuinpatio voor de hond tijdens je ontbijt.`,
   },
   {
     slug: 'helsinki',
@@ -161,12 +173,14 @@ const PICKS: Pick[] = [
     whyEs: `Finlandia tiene 80+ koira-aitaus municipales (zonas sin correa valladas) y Helsinki tiene decenas. Las tardes de noche blanca en julio hacen los paseos cómodos después de las 23h, el ferri a Suomenlinna admite perros con correa gratis, y la cultura finlandesa trata a los perros tranquilos como pasajeros normales (gratis en transporte público con correa).`,
     whyPt: `A Finlândia tem 80+ koira-aitaus municipais (zonas sem trela vedadas) e Helsínquia tem dezenas. As tardes de noite branca em julho tornam confortáveis passeios após as 23h, o ferry para Suomenlinna aceita cães à trela gratuitamente, e a cultura finlandesa trata cães calmos como passageiros plenos (gratuitos em transporte público com trela).`,
     whyDe: `Finnland hat über 80 kommunale Koira-aitaus (eingezäunte Freilaufzonen), allein Helsinki hat Dutzende davon. Weiße Nächte im Juli machen Spaziergänge nach 23 Uhr angenehm, die Fähre nach Suomenlinna nimmt angeleinte Hunde kostenlos mit, und die Kultur der Stadt behandelt wohlerzogene Hunde als vollwertige Fahrgäste (kostenlos in öffentlichen Verkehrsmitteln mit Leine).`,
+    whyNl: `Finland heeft meer dan 80 gemeentelijke koira-aitaus (omheinde losloopgebieden), alleen al Helsinki heeft er tientallen. De witte nachten in juli maken wandelingen na 23:00 aangenaam, de veerboot naar Suomenlinna neemt honden aan de lijn gratis mee, en de cultuur van de stad behandelt goed opgevoede honden als volwaardige passagiers (gratis in het openbaar vervoer met lijn).`,
     hotelName: 'Hotel Klaus K',
     hotelEn: `Hotel Klaus K - design 4-star in the city centre 4-min walk to Esplanadi park. Pets welcomed at modest fee, Kalevala-themed rooms, the bar terrace overlooks the Old Church Park dog-walking zone.`,
     hotelFr: `Hotel Klaus K - 4 étoiles design en centre-ville, 4 min à pied du parc Esplanadi. Chiens acceptés (supplément modéré), chambres thème Kalevala, la terrasse du bar domine la zone canine du parc de la Vieille Église.`,
     hotelEs: `Hotel Klaus K - 4 estrellas de diseño en el centro, 4 min andando al parque Esplanadi. Perros admitidos (suplemento moderado), habitaciones tema Kalevala, la terraza del bar domina la zona canina del parque de la Iglesia Vieja.`,
     hotelPt: `Hotel Klaus K - 4 estrelas de design no centro, 4 min a pé do parque Esplanadi. Cães aceites (taxa moderada), quartos com tema Kalevala, a esplanada do bar domina a zona canina do parque da Velha Igreja.`,
     hotelDe: `Hotel Klaus K - Design-4-Sterne-Hotel im Stadtzentrum, 4 Minuten zu Fuß zum Esplanadi-Park. Haustiere gegen moderate Gebühr willkommen, Zimmer im Kalevala-Design, die Bar-Terrasse blickt auf die Hundeauslaufzone im Park der Alten Kirche.`,
+    hotelNl: `Hotel Klaus K - designhotel 4-sterren in het centrum, 4 minuten lopen naar het Esplanadi-park. Huisdieren welkom tegen een gematigde vergoeding, kamers in Kalevala-thema, het barterras kijkt uit op de hondenuitlaatzone van het park van de Oude Kerk.`,
   },
   {
     slug: 'tallinn',
@@ -179,12 +193,14 @@ const PICKS: Pick[] = [
     whyEs: `El casco medieval en 30 minutos a pie, la playa de Pirita con su zona canina dedicada, el Parque Kadriorg como un parque de juegos de 70 hectáreas para perro con correa, y tranvías que admiten perros con correa gratis. La brisa del Báltico mantiene las temperaturas bajo 22°C incluso en las semanas más calurosas. Económico: mitad de precios que Estocolmo o Helsinki por el mismo confort.`,
     whyPt: `A cidade velha medieval em 30 minutos a pé, a praia de Pirita com a sua zona canina dedicada, o Parque Kadriorg como um parque de 70 hectares para cão à trela, e elétricos que aceitam cães à trela gratuitamente. A brisa do Báltico mantém as temperaturas abaixo dos 22°C mesmo nas semanas mais quentes. Económico: metade dos preços de Estocolmo ou Helsínquia pelo mesmo conforto.`,
     whyDe: `Die mittelalterliche Altstadt ist in 30 Minuten zu Fuß erkundet, der Strand Pirita hat eine eigene Hundezone, der Kadriorg-Park ist ein 70 Hektar großer Spielplatz für angeleinte Hunde, und Straßenbahnen nehmen angeleinte Hunde kostenlos mit. Die Ostseebrise hält die Temperaturen auch in der heißesten Woche konstant unter 22°C. Budgetfreundlich: halb so teuer wie Stockholm oder Helsinki bei gleichem Komfort.`,
+    whyNl: `De middeleeuwse oude stad is in 30 minuten te voet verkend, het strand Pirita heeft een eigen hondenzone, het Kadriorg-park is een 70 hectare grote speelplaats voor honden aan de lijn, en trams nemen honden aan de lijn gratis mee. De Oostzeebries houdt de temperaturen zelfs in de warmste week constant onder 22°C. Budgetvriendelijk: halve prijs van Stockholm of Helsinki voor hetzelfde comfort.`,
     hotelName: 'Hotel Telegraaf, Autograph Collection',
     hotelEn: `Hotel Telegraaf - 5-star Autograph Collection in the historic former telegraph building of the Old Town. Pets up to 10 kg welcomed, spa garden, the courtyard is a calm place to decompress with a tired dog.`,
     hotelFr: `Hotel Telegraaf - 5 étoiles Autograph Collection dans l'ancien bâtiment du télégraphe de la vieille ville. Chiens jusqu'à 10 kg acceptés, jardin spa, la cour intérieure est parfaite pour décompresser avec un chien fatigué.`,
     hotelEs: `Hotel Telegraaf - 5 estrellas Autograph Collection en el antiguo edificio del telégrafo del casco antiguo. Perros hasta 10 kg admitidos, jardín spa, el patio interior es perfecto para descomprimir con un perro cansado.`,
     hotelPt: `Hotel Telegraaf - 5 estrelas Autograph Collection no antigo edifício do telégrafo da cidade velha. Cães até 10 kg aceites, jardim spa, o pátio interior é perfeito para descomprimir com um cão cansado.`,
     hotelDe: `Hotel Telegraaf - 5-Sterne-Autograph-Collection-Hotel im historischen ehemaligen Telegrafengebäude der Altstadt. Haustiere bis 10 kg willkommen, Spa-Garten, der Innenhof ist ein ruhiger Ort zum Entspannen mit einem müden Hund.`,
+    hotelNl: `Hotel Telegraaf - 5-sterren Autograph Collection in het historische voormalige telegraafgebouw van de oude stad. Huisdieren tot 10 kg welkom, spatuin, de binnenplaats is een rustige plek om tot rust te komen met een vermoeide hond.`,
   },
   {
     slug: 'edinburgh',
@@ -197,12 +213,14 @@ const PICKS: Pick[] = [
     whyEs: `La capital escocesa con Arthur's Seat (un volcán de 251 m en la ciudad que escalas con tu perro con correa en 45 min), Holyrood Park, Princes Street Gardens, y una de las culturas de pub más tolerantes con perros de Europa. Papeleo post-Brexit: perros UE necesitan un Animal Health Certificate veterinario en los 10 días, pero el AHC sigue siendo más simple que el antiguo pasaporte para muchas clínicas pequeñas.`,
     whyPt: `A capital escocesa com Arthur's Seat (um vulcão de 251 m na cidade que se sobe com cão à trela em 45 min), Holyrood Park, Princes Street Gardens, e uma das culturas de pub mais tolerantes com cães da Europa. Papelada pós-Brexit: cães UE precisam de um Animal Health Certificate veterinário nos 10 dias, mas o AHC continua mais simples que o antigo passaporte para muitas clínicas pequenas.`,
     whyDe: `Schottlands Hauptstadt mit Arthur's Seat (ein 251 Meter hoher Vulkan mitten in der Stadt, den Sie in 45 Minuten mit angeleintem Hund erklimmen können), Holyrood Park, Princes Street Gardens und einer der hundefreundlichsten Pub-Kulturen Europas. Papierkram nach dem Brexit: EU-Hunde brauchen ein Animal Health Certificate vom Tierarzt innerhalb von 10 Tagen, aber das AHC ist für viele kleine Kliniken immer noch einfacher als der alte Heimtierausweis.`,
+    whyNl: `De Schotse hoofdstad met Arthur's Seat (een 251 meter hoge vulkaan midden in de stad, die je in 45 minuten met je hond aan de lijn kunt beklimmen), Holyrood Park, Princes Street Gardens en een van de meest hondvriendelijke pubculturen van Europa. Papierwerk na de Brexit: EU-honden hebben binnen 10 dagen een Animal Health Certificate van een dierenarts nodig, maar het AHC is voor veel kleine klinieken nog steeds eenvoudiger dan het oude huisdierenpaspoort.`,
     hotelName: 'The Balmoral',
     hotelEn: `The Balmoral - 5-star landmark on Princes Street with its iconic clock tower. Pets up to 12 kg welcomed (mid fee), dog bed and bowl provided, the entrance opens directly onto Princes Street Gardens for an easy morning walk.`,
     hotelFr: `The Balmoral - 5 étoiles emblématique sur Princes Street avec sa tour de l'horloge. Chiens jusqu'à 12 kg acceptés (supplément modéré), couchage et gamelle fournis, l'entrée donne directement sur Princes Street Gardens pour une promenade matinale facile.`,
     hotelEs: `The Balmoral - 5 estrellas icónico en Princes Street con su torre del reloj. Perros hasta 12 kg admitidos (suplemento moderado), cama y comedero, la entrada da directamente a Princes Street Gardens para un paseo matinal fácil.`,
     hotelPt: `The Balmoral - 5 estrelas icónico na Princes Street com a sua torre do relógio. Cães até 12 kg aceites (taxa moderada), cama e tigela, a entrada dá diretamente para os Princes Street Gardens para um passeio matinal fácil.`,
     hotelDe: `The Balmoral - 5-Sterne-Wahrzeichen an der Princes Street mit seinem markanten Uhrturm. Haustiere bis 12 kg willkommen (mittlere Gebühr), Hundebett und Napf werden gestellt, der Eingang führt direkt in die Princes Street Gardens für einen einfachen Morgenspaziergang.`,
+    hotelNl: `The Balmoral - iconisch 5-sterren hotel aan Princes Street met zijn beroemde klokkentoren. Honden tot 12 kg welkom (gemiddelde vergoeding), hondenmand en bak worden verstrekt, de ingang komt direct uit op Princes Street Gardens voor een makkelijke ochtendwandeling.`,
   },
   {
     slug: 'galway',
@@ -215,12 +233,14 @@ const PICKS: Pick[] = [
     whyEs: `La Irlanda atlántica sin papeleo desde la UE, ferri desde Cherburgo o Roscoff directo. El paseo Salthill es un frente marítimo llano de 2 km, los Acantilados de Moher a 1 h al sur para la excursión espectacular (perros con correa en el sendero oficial), y las colinas de Connemara enfrían el aire atlántico bajo 18°C incluso la semana más calurosa de julio.`,
     whyPt: `A Irlanda atlântica sem papelada vinda da UE, ferry de Cherbourg ou Roscoff direto. O passeio Salthill é uma frente-mar plana de 2 km, as Falésias de Moher a 1 h a sul para a excursão espectacular (cães à trela no trilho oficial), e as colinas de Connemara arrefecem o ar atlântico abaixo de 18°C mesmo na semana mais quente de julho.`,
     whyDe: `Atlantisches Irland ohne Grenzpapierkram aus der EU, direkte Fähre ab Cherbourg oder Roscoff. Die Salthill Promenade ist ein 2 km langer flacher Spaziergang am Meer, die Cliffs of Moher liegen 1 Stunde südlich für den spektakulären Tagesausflug (angeleinte Hunde auf dem offiziellen Weg willkommen), und die Hügel von Connemara kühlen die Atlantikluft selbst in der wärmsten Juliwoche auf unter 18°C.`,
+    whyNl: `Atlantisch Ierland zonder grenspapierwerk vanuit de EU, directe veerboot vanaf Cherbourg of Roscoff. De Salthill-promenade is een 2 km lange vlakke wandeling aan zee, de Cliffs of Moher liggen 1 uur zuidelijker voor de spectaculaire dagtrip (honden aan de lijn welkom op het officiële pad), en de heuvels van Connemara koelen de Atlantische lucht zelfs in de warmste juliweek af tot onder 18°C.`,
     hotelName: 'The g Hotel & Spa',
     hotelEn: `The g Hotel & Spa - boutique 5-star designed by Philip Treacy on the edge of Galway, by Lough Atalia. Pets welcomed at modest fee, dog beds on request, the lakeside lawn is a perfect quiet walking spot.`,
     hotelFr: `The g Hotel & Spa - boutique 5 étoiles dessiné par Philip Treacy en lisière de Galway, près du Lough Atalia. Chiens acceptés (supplément modéré), couchage sur demande, la pelouse au bord du lac est parfaite pour une balade calme.`,
     hotelEs: `The g Hotel & Spa - boutique 5 estrellas diseñado por Philip Treacy en el borde de Galway, junto al Lough Atalia. Perros admitidos (suplemento moderado), cama a petición, el césped junto al lago es perfecto para un paseo tranquilo.`,
     hotelPt: `The g Hotel & Spa - boutique 5 estrelas desenhado por Philip Treacy à beira de Galway, junto ao Lough Atalia. Cães aceites (taxa moderada), cama a pedido, o relvado à beira do lago é perfeito para um passeio calmo.`,
     hotelDe: `The g Hotel & Spa - Boutique-5-Sterne-Hotel, entworfen von Philip Treacy, am Rand von Galway am Lough Atalia. Haustiere gegen moderate Gebühr willkommen, Hundebetten auf Anfrage, der Rasen am See ist ein perfekt ruhiger Ort für einen Spaziergang.`,
+    hotelNl: `The g Hotel & Spa - boutique 5-sterren hotel, ontworpen door Philip Treacy, aan de rand van Galway bij Lough Atalia. Huisdieren welkom tegen een gematigde vergoeding, hondenmanden op aanvraag, het gazon aan het meer is de perfecte rustige plek voor een wandeling.`,
   },
   {
     slug: 'bern',
@@ -233,12 +253,14 @@ const PICKS: Pick[] = [
     whyEs: `La elección de compromiso para europeos centrales que no quieren volar a Escandinavia. Casco antiguo UNESCO, paseo junto al Aar (uno de los baños de río más bonitos para perro en Europa en la zona Marzili), y las estribaciones del Berner Oberland a 1 h al sur a la altitud que quieras. El transporte suizo admite perros con correa a media tarifa; el Junior Day Pass funciona también para perros a 16 CHF.`,
     whyPt: `A escolha de compromisso para europeus centrais que não querem voar para a Escandinávia. Cidade velha UNESCO, passeio junto ao Aare (um dos banhos de rio mais bonitos para cão na Europa na zona Marzili), e as encostas do Berner Oberland a 1 h a sul à altitude que quiser. Os transportes suíços aceitam cães à trela a meio preço; o Junior Day Pass funciona também para cães a 16 CHF.`,
     whyDe: `Der Kompromiss für Mitteleuropäer, die nicht nach Skandinavien fliegen wollen. UNESCO-Altstadt, der Spaziergang am Aare-Ufer (eines der schönsten Flussbäder Europas für Hunde im Marzili-Gebiet), und die Ausläufer des Berner Oberlands liegen 1 Stunde südlich in jeder gewünschten Höhenlage. Der Schweizer öffentliche Verkehr nimmt angeleinte Hunde zum halben Preis mit; der Junior Day Pass für Kinder funktioniert für 16 CHF auch für Hunde.`,
+    whyNl: `De compromiskeuze voor Midden-Europeanen die niet naar Scandinavië willen vliegen. UNESCO oude stad, de wandeling langs de oever van de Aare (een van de mooiste rivierzwemplekken van Europa voor honden in het Marzili-gebied), en de uitlopers van het Berner Oberland liggen 1 uur zuidelijker op elke gewenste hoogte. Het Zwitserse openbaar vervoer accepteert honden aan de lijn tegen halve prijs; het Junior Day Pass voor kinderen werkt voor 16 CHF ook voor honden.`,
     hotelName: 'Hotel Schweizerhof Bern',
     hotelEn: `Hotel Schweizerhof Bern - 5-star opposite the central station, 5-min walk into the UNESCO old town. Pets welcomed at modest fee, dog bed and bowl, the rooftop bar tolerates a quiet leashed dog at sunset.`,
     hotelFr: `Hotel Schweizerhof Bern - 5 étoiles face à la gare centrale, 5 min à pied dans la vieille ville UNESCO. Chiens acceptés (supplément modéré), couchage et gamelle, le bar rooftop tolère un chien en laisse calme au coucher.`,
     hotelEs: `Hotel Schweizerhof Bern - 5 estrellas frente a la estación central, 5 min andando al casco antiguo UNESCO. Perros admitidos (suplemento moderado), cama y comedero, el bar de la azotea tolera un perro con correa tranquilo al atardecer.`,
     hotelPt: `Hotel Schweizerhof Bern - 5 estrelas em frente à estação central, 5 min a pé da cidade velha UNESCO. Cães aceites (taxa moderada), cama e tigela, o bar do terraço tolera um cão à trela calmo ao pôr-do-sol.`,
     hotelDe: `Hotel Schweizerhof Bern - 5-Sterne-Hotel gegenüber dem Hauptbahnhof, 5 Minuten zu Fuß in die UNESCO-Altstadt. Haustiere gegen moderate Gebühr willkommen, Hundebett und Napf, die Dachterrassenbar toleriert bei Sonnenuntergang einen ruhigen angeleinten Hund.`,
+    hotelNl: `Hotel Schweizerhof Bern - 5-sterren hotel tegenover het centraal station, 5 minuten lopen naar de UNESCO oude stad. Huisdieren welkom tegen een gematigde vergoeding, hondenmand en bak, de dakterrasbar duldt bij zonsondergang een rustige hond aan de lijn.`,
   },
 ]
 
@@ -377,6 +399,32 @@ const COPY = {
     ],
     relatedHeading: 'Siehe auch',
   },
+  nl: {
+    eyebrow: `HUISDIERVRIENDELIJKE ZOMER · ANTI-HITTE EUROPA`,
+    title: `Reizen met je hond bij minder dan 25°C in juli: 8 koele Europese bestemmingen`,
+    intro: `Als je hond kortsnuitig is (bulldog, mopshond, boxer, Franse bulldog), oud, of om welke reden dan ook hittegevoelig, dan zijn de julitemperaturen in het Middellandse Zeegebied en Midden-Europa niet alleen oncomfortabel, ze vormen een reëel risico op hitteberoerte. Boven 28°C bereikt asfalt 50°C en elk plat-neus-ras kan binnen enkele minuten ernstig in de problemen komen. We hebben acht Europese bestemmingen geselecteerd waar de julidagtemperatuur betrouwbaar onder 25°C blijft en waar de lokale cultuur is ingesteld op een hond in de koelte.`,
+    pickHeading: 'De acht koele keuzes (gerangschikt van koelst)',
+    whyHere: 'Waarom hier',
+    hotelLabel: 'Waar je kunt overnachten',
+    seeDestCta: 'Volledige stadsgids →',
+    hotelCta: 'Beschikbaarheid bekijken →',
+    julyLabel: 'Gem. max juli',
+    practicalHeading: 'Praktische info over hittestress',
+    practical: [
+      { h: 'Voor wie deze lijst is', p: `Kortsnuitige honden (bulldogs, mopshonden, boxers, Franse bulldogs, Boston terriërs) hebben onevenredig veel last van hitte. Hetzelfde geldt voor oudere honden (8+ jaar), honden met overgewicht, dubbelvachtige rassen (huskies, Berner Sennenhonden, malamutes), en elke hond met een hart- of ademhalingsprobleem. Boven 25°C omgevingstemperatuur hebben ze allemaal actief koelingsbeheer nodig; boven 30°C moeten wandelingen buiten de vroege ochtend en na 21:00 worden geschrapt.` },
+      { h: 'De 7-secondentest', p: `Druk de rug van je hand 7 seconden op steen, asfalt of zand. Als jij het daar niet comfortabel kunt houden, kan je hond er ook niet op lopen. Boven 26°C omgevingstemperatuur mislukt deze test tussen 11:00 en 18:00 op de meeste ondergronden. Neem hondenschoentjes mee of wacht tot de avond.` },
+      { h: 'Praktische paklijst', p: `Een koelvest (de Ruffwear Swamp Cooler is de geverifieerde standaard), een opvouwbare waterbak, een SPF 50-neusbalsem voor lichtgepigmenteerde rassen, en een draagbare batterijventilator voor de hotelkamer als die geen airco heeft. Veel Scandinavische hotels hebben geen airco omdat ze die niet nodig hebben, maar kamers warmen in de julizon toch op, dus een ventilator helpt.` },
+      { h: 'Noodsignalen bij hitteberoerte', p: `Overmatig hijgen, dik speeksel, felrood of blauwachtig tandvlees, braken, onvaste gang. Maak de hond nat met lauw (niet koud) water op buik, poten en oksels, en ga meteen naar de dierenarts. Te snel afkoelen kan een shock veroorzaken, lauw is juist. Gemiddelde Europese spoedconsultkosten bij de dierenarts: 120-220 € plus behandeling.` },
+    ],
+    faqHeading: 'Veelgestelde vragen',
+    faqs: [
+      { q: 'Zijn Scandinavische vluchten echt hondvriendelijk in de cabine?', a: `SAS, Finnair en Norwegian accepteren allemaal honden tot ~8 kg in de cabine voor 70-150 € per traject. Grotere honden reizen in het klimaatgeregelde ruim, wat redelijk is voor deze korte EU-vluchten (2-3 uur). Voor kortsnuitige rassen beperken luchtvaartmaatschappijen vaak het ruimtransport, Lufthansa, KLM en Air France hebben gepubliceerde lijsten. Mail de luchtvaartmaatschappij bij het boeken altijd met ras en gewicht.` },
+      { q: 'En de Eurotunnel plus doorrijden naar Noorwegen?', a: `Naar Bergen rijden vanuit Midden-Europa is realistisch in 3-4 dagen via de Eurotunnel (hond 25 €), Hamburg, de veerboot Kopenhagen-Helsingør, Göteborg, en dan de veerboot Göteborg-Larvik (8 uur). Veel Europese automobilisten geven hier de voorkeur aan boven vliegen met een grote hond. IJsland is alleen per veerboot te bereiken (Smyril Line vanaf Hirtshals, Denemarken, 50 uur).` },
+      { q: 'Is IJsland het invoerpapierwerk waard?', a: `Voor een hittegevoelige hond, ja. Reykjavík heeft in juli gemiddeld 13°C, het laagste van Europa. Het MAST-proces duurt 3-4 weken maar is overzichtelijk: rabiësvaccinatie 3 weken van tevoren, ISO-microchip, EU-huisdierenpaspoort, bloedtest voor rabiëstiter bij een erkend laboratorium. Er is geen quarantaine. Plan het papierwerk vóór het boeken, op het laatste moment naar IJsland is onmogelijk.` },
+      { q: 'Zijn er koelere opties binnen continentaal Europa?', a: `Bern (Zwitserland) en Edinburgh (VK) zijn de grenskeuzes in de lijst. Binnen de continentale EU liggen de koelste juligemiddelden buiten Scandinavië in de Alpen (Innsbruck 23 °C, Salzburg 24 °C) en aan de Atlantische kust (Brest 21 °C, Bilbao 23 °C). Bergzomers blijven boven 1000 m hoogte koel in elk gebergte.` },
+    ],
+    relatedHeading: 'Zie ook',
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -426,6 +474,7 @@ export default async function Page({
     if (locale === 'es') return p.whyEs
     if (locale === 'pt') return p.whyPt
     if (locale === 'de') return p.whyDe
+    if (locale === 'nl') return p.whyNl
     return p.whyEn
   }
   const pickHotel = (p: Pick) => {
@@ -433,6 +482,7 @@ export default async function Page({
     if (locale === 'es') return p.hotelEs
     if (locale === 'pt') return p.hotelPt
     if (locale === 'de') return p.hotelDe
+    if (locale === 'nl') return p.hotelNl
     return p.hotelEn
   }
 

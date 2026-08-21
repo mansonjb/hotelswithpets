@@ -39,9 +39,13 @@
           "mustTryPt": "Labskaus, Matjes do mar do Norte, solha à moda de Finkenwerder",
           "tipPt": "Reserve uma mesa à janela para o almoço, para aproveitar a luz do porto; a vista sobre o Elba é melhor das mesas do primeiro andar.",
           "descriptionDe": "Eine 1981 gegründete Institution am Elbufer, berühmt für ihre frischen Nordseefrüchte und den Panoramablick auf einlaufende Containerschiffe. Angeleinte Hunde sind auf der Außenterrasse und auf Anfrage auch drinnen willkommen; der Inhaber ist ein bekannter Hundefreund.",
+          "descriptionNl": "Een in 1981 opgerichte instituut aan de Elbe-oever, beroemd om zijn verse Noordzeevis en het panoramische uitzicht op binnenkomende containerschepen. Aangelijnde honden zijn welkom op het buitenterras en op verzoek ook binnen; de eigenaar staat bekend als een echte hondenliefhebber.",
           "petPolicyDe": "Hunde auf der Terrasse und drinnen willkommen",
+          "petPolicyNl": "Honden welkom op het terras en binnen",
           "mustTryDe": "Labskaus, Nordsee Matjes, Scholle Finkenwerder Art",
-          "tipDe": "Reservieren Sie zum Mittagessen einen Fensterplatz, um das Hafenlicht einzufangen, der Blick auf die Elbe ist von den Tischen im ersten Stock am besten."
+          "mustTryNl": "Labskaus, Noordzee matjes, schol Finkenwerder-stijl",
+          "tipDe": "Reservieren Sie zum Mittagessen einen Fensterplatz, um das Hafenlicht einzufangen, der Blick auf die Elbe ist von den Tischen im ersten Stock am besten.",
+          "tipNl": "Reserveer voor de lunch een plek bij het raam om het havenlicht te vangen, het uitzicht op de Elbe is het beste vanaf de tafels op de eerste verdieping."
         },
         {
           "name": "Bullerei",
@@ -69,9 +73,13 @@
           "mustTryPt": "Brunch de fim de semana, hambúrguer Bullerei, bife maturado de Mälzer",
           "tipPt": "O brunch não aceita reservas, chegue às 10:00 em ponto para uma mesa de esplanada ou vá às 13:30 para o segundo turno, mais calmo.",
           "descriptionDe": "Sternekoch Tim Mälzers Loft-Restaurant in einem ehemaligen Rinderschlachthaus im hippen Schanzenviertel. Hunde sind im Bar-Bistro-Bereich und auf der sonnigen Vorderterrasse willkommen, die sich beim Wochenendbrunch mit Stammgästen und ihren Haustieren füllt.",
+          "descriptionNl": "Sterrenchef Tim Mälzers loftrestaurant in een voormalig runderslachthuis in het hippe Schanzenviertel. Honden zijn welkom in het bar-bistrogedeelte en op het zonnige voorterras, dat bij de weekendbrunch vol loopt met vaste gasten en hun huisdieren.",
           "petPolicyDe": "Hunde im Bar-Bistro und auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom in de bar-bistro en op het terras",
           "mustTryDe": "Wochenendbrunch, Bullerei-Burger, Mälzers Dry-Aged-Steak",
-          "tipDe": "Für den Brunch gibt es keine Reservierung, kommen Sie pünktlich um 10:00 Uhr für einen Terrassenplatz oder gegen 13:30 Uhr für die ruhigere zweite Runde."
+          "mustTryNl": "Weekendbrunch, Bullerei-burger, Mälzers dry-aged steak",
+          "tipDe": "Für den Brunch gibt es keine Reservierung, kommen Sie pünktlich um 10:00 Uhr für einen Terrassenplatz oder gegen 13:30 Uhr für die ruhigere zweite Runde.",
+          "tipNl": "Voor de brunch kun je niet reserveren, kom stipt om 10:00 uur voor een terrasplek of rond 13:30 uur voor de rustigere tweede ronde."
         },
         {
           "name": "Bodo's Bootssteg",
@@ -99,9 +107,13 @@
           "mustTryPt": "Fischbrötchen, Franzbrötchen, cerveja local Ratsherrn",
           "tipPt": "Desça a partir do Kennedybrücke para a abordagem clássica ao Alster; o relvado enche a partir das 14:00 nos fins de semana de sol.",
           "descriptionDe": "Ein schwimmendes Café-Restaurant an einem historischen Bootssteg am Rande der Außenalster, eine der beliebtesten Sommerterrassen der Stadt. Angeleinte Hunde sind auf dem Holzdeck und der umliegenden Wiese willkommen; das ganze Jahr über stehen Wassernäpfe am Eingang bereit.",
+          "descriptionNl": "Een drijvend café-restaurant aan een historische bootsteiger aan de rand van de Außenalster, een van de populairste zomerterrassen van de stad. Aangelijnde honden zijn welkom op het houten dek en de omliggende weide; het hele jaar staan waterbakken klaar bij de ingang.",
           "petPolicyDe": "Hunde auf dem Deck und der Wiese willkommen",
+          "petPolicyNl": "Honden welkom op het dek en de weide",
           "mustTryDe": "Fischbrötchen, Franzbrötchen, lokales Ratsherrn-Bier",
-          "tipDe": "Gehen Sie von der Kennedybrücke hinunter für die klassische Annäherung an die Alster, die Wiese füllt sich an sonnigen Wochenenden ab 14:00 Uhr."
+          "mustTryNl": "Vissandwich, Franzbrötchen, lokaal Ratsherrn-bier",
+          "tipDe": "Gehen Sie von der Kennedybrücke hinunter für die klassische Annäherung an die Alster, die Wiese füllt sich an sonnigen Wochenenden ab 14:00 Uhr.",
+          "tipNl": "Loop vanaf de Kennedybrücke naar beneden voor de klassieke benadering van de Alster, de weide loopt op zonnige weekenden vanaf 14:00 uur vol."
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Hamburg",
+      "titleNl": "Hondvriendelijke restaurants in Hamburg",
       "introDe": "Hamburg zählt zu den hundefreundlichsten Großstädten Deutschlands, eine Hafenkultur kombiniert mit einer starken Tradition ungezwungener Außengastronomie (besonders rund um die Alster und im Schanzenviertel) sorgt dafür, dass Wassernäpfe an Restauranttüren fast überall zu finden sind. Das deutsche Recht erlaubt Hunde in Gastronomiebetrieben standardmäßig, sofern kein Schild mit \"kein Hund\" aufgestellt ist, und Hamburger Restaurants leben das weitgehend vor.",
+      "introNl": "Hamburg behoort tot de meest hondvriendelijke grote steden van Duitsland, een havencultuur gecombineerd met een sterke traditie van ongedwongen buitengastronomie (vooral rond de Alster en in het Schanzenviertel) zorgt ervoor dat waterbakken bij restaurantdeuren vrijwel overal te vinden zijn. Het Duitse recht staat honden standaard toe in horecagelegenheden, tenzij er een bordje 'kein Hund' hangt, en Hamburgse restaurants leven dat grotendeels voor.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Hamburger Restaurants im Innenbereich erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Wo befinden sich die hundefreundlichsten Restaurantgegenden in Hamburg?",
           "a": "Das Ufer der Außenalster (Bodo's, Canapé), das Schanzenviertel (Bullerei, Jim Block) und die Elbuferpromenade Övelgönne konzentrieren die höchste Dichte an haustierfreundlichen Lokalen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden binnen toegestaan in Hamburgse restaurants?",
+          "a": "Ja, het Duitse recht staat honden standaard toe in horecagelegenheden, tenzij de eigenaar een bordje 'kein Hund' plaatst. De meeste Hamburgse restaurants heten ze actief welkom, vooral in het Schanzenviertel en rond de Alster."
+        },
+        {
+          "q": "Zetten Hamburgse cafés waterbakken klaar?",
+          "a": "De meeste traditionele cafés en restaurants in de havenbuurt doen dat. Als dat niet zo is, vraag dan om 'een waterbak', het personeel brengt binnen enkele minuten een verse bak."
+        },
+        {
+          "q": "Waar liggen de meest hondvriendelijke restaurantbuurten in Hamburg?",
+          "a": "De oever van de Außenalster (Bodo's, Canapé), het Schanzenviertel (Bullerei, Jim Block) en de Elbe-oeverpromenade Övelgönne bundelen de hoogste dichtheid aan huisdiervriendelijke horeca."
         }
       ]
     },
@@ -233,9 +261,13 @@
           "facilitiesPt": "Duas Hundeauslaufzonen, dispensadores de sacos, cafés, casas de banho públicas",
           "tipPt": "A Hundeauslaufzone norte, junto ao Planetário, tem mais sombra e é mais tranquila do que a do sul, preferida pelos locais com cães ansiosos.",
           "descriptionDe": "Hamburgs zentraler, 148 Hektar großer Volkspark wurde in den 1910er-Jahren angelegt. Er verfügt über zwei Hundeauslaufzonen, eine große in der Nähe des Planetariums und eine kleinere eingezäunte im Süden, sowie weite Wiesen, auf denen angeleinte Hunde willkommen sind. Im Sommer finden an der Freilichtbühne Open-Air-Konzerte statt; außerhalb der Konzertzeiten sind Hunde an der Leine zugelassen.",
+          "descriptionNl": "Hamburgs centrale, 148 hectare grote Volkspark werd in de jaren 1910 aangelegd. Het heeft twee hondenlosloopzones, een grote bij het planetarium en een kleinere omheinde zone in het zuiden, en brede grasvelden waar aangelijnde honden welkom zijn. 's Zomers zijn er open-luchtconcerten bij het openluchttheater; buiten de concerttijden zijn honden aan de lijn toegestaan.",
           "petPolicyDe": "Leinenpflicht; zwei eingezäunte Freilaufzonen",
+          "petPolicyNl": "Lijnplicht; twee omheinde losloopzones",
           "facilitiesDe": "Zwei Hundeauslaufzonen, Kotbeutelspender, Cafés, öffentliche Toiletten",
-          "tipDe": "Die nördliche Hundeauslaufzone in der Nähe des Planetariums liegt im Schatten und ist ruhiger als die südliche, bevorzugt von Einheimischen mit ängstlichen Hunden."
+          "facilitiesNl": "Twee hondenlosloopzones, poepzakjesautomaten, cafés, openbare toiletten",
+          "tipDe": "Die nördliche Hundeauslaufzone in der Nähe des Planetariums liegt im Schatten und ist ruhiger als die südliche, bevorzugt von Einheimischen mit ängstlichen Hunden.",
+          "tipNl": "De noordelijke losloopzone bij het planetarium ligt in de schaduw en is rustiger dan de zuidelijke, favoriet bij locals met angstige honden."
         },
         {
           "name": "Außenalster",
@@ -263,9 +295,13 @@
           "facilitiesPt": "Bancos, cafés, clubes de remo, pontos de água no verão",
           "tipPt": "Comece no Kennedybrücke e caminhe no sentido dos ponteiros do relógio; os primeiros 3 km, por Schwanenwik, têm as melhores opções de paragem em relvado e vários cafés pet-friendly.",
           "descriptionDe": "Hamburgs berühmter innerstädtischer See ist eine 164 Hektar große Wasserfläche, umgeben von einem 7 km langen Weg mit Leinenpflicht, der als unbestrittene Wochenendpromenade der Stadt gilt. Mehrere ausgewiesene Wiesenabschnitte, in denen Hunde erlaubt sind (Schwanenwik, Fährdamm), sowie eine kleine Hundeauslaufzone am nordöstlichen Ufer bei Winterhude.",
+          "descriptionNl": "Hamburgs beroemde binnenstadsmeer is een 164 hectare groot wateroppervlak, omgeven door een pad van 7 km met lijnplicht, dat geldt als de onbetwiste weekendpromenade van de stad. Meerdere aangewezen weidestukken waar honden zijn toegestaan (Schwanenwik, Fährdamm), en een kleine hondenlosloopzone aan de noordoostelijke oever bij Winterhude.",
           "petPolicyDe": "Leinenpflicht auf den vollen 7 km; bestimmte Wiesenabschnitte und eine eingezäunte Zone",
+          "petPolicyNl": "Lijnplicht over de volle 7 km; bepaalde weidestukken en een omheinde zone",
           "facilitiesDe": "Bänke, Cafés, Ruderclubs, Wasserzapfstellen im Sommer",
-          "tipDe": "Starten Sie an der Kennedybrücke und gehen Sie im Uhrzeigersinn: Die ersten 3 km über Schwanenwik bieten die besten Wiesenstopps und mehrere hundefreundliche Cafés."
+          "facilitiesNl": "Bankjes, cafés, roeiverenigingen, drinkwaterpunten in de zomer",
+          "tipDe": "Starten Sie an der Kennedybrücke und gehen Sie im Uhrzeigersinn: Die ersten 3 km über Schwanenwik bieten die besten Wiesenstopps und mehrere hundefreundliche Cafés.",
+          "tipNl": "Start bij de Kennedybrücke en loop met de klok mee: de eerste 3 km via Schwanenwik bieden de beste weidestops en meerdere hondvriendelijke cafés."
         },
         {
           "name": "Altonaer Volkspark",
@@ -293,9 +329,13 @@
           "facilitiesPt": "Três Hundeauslaufzonen, roseira, café, prados para piquenique",
           "tipPt": "Estacione perto da entrada do Waldfriedhof para o acesso mais rápido à maior Hundeauslaufzone; aos sábados de manhã há encontros organizados de socialização canina.",
           "descriptionDe": "Mit 205 Hektar ist er Hamburgs größter öffentlicher Park: Wälder, Wiesen, ein Rosengarten und drei große eingezäunte Hundeauslaufzonen machen ihn zum besten Ziel der Stadt für freien Auslauf. Ausgedehnte Waldwege; oft ruhiger als der zentrale Stadtpark.",
+          "descriptionNl": "Met 205 hectare is dit Hamburgs grootste openbare park: bossen, weiden, een rozentuin en drie grote omheinde hondenlosloopzones maken het tot de beste bestemming van de stad voor loslopen. Uitgestrekte boswandelpaden; vaak rustiger dan het centrale Stadtpark.",
           "petPolicyDe": "Leinenpflicht; drei eingezäunte Freilaufzonen",
+          "petPolicyNl": "Lijnplicht; drie omheinde losloopzones",
           "facilitiesDe": "Drei Hundeauslaufzonen, Rosengarten, Café, Picknickwiesen",
-          "tipDe": "Parken Sie in der Nähe des Eingangs Waldfriedhof für den schnellsten Zugang zur größten Hundeauslaufzone; samstagvormittags finden organisierte Treffen zur Hundesozialisierung statt."
+          "facilitiesNl": "Drie hondenlosloopzones, rozentuin, café, picknickweiden",
+          "tipDe": "Parken Sie in der Nähe des Eingangs Waldfriedhof für den schnellsten Zugang zur größten Hundeauslaufzone; samstagvormittags finden organisierte Treffen zur Hundesozialisierung statt.",
+          "tipNl": "Parkeer bij de ingang Waldfriedhof voor de snelste toegang tot de grootste losloopzone; op zaterdagochtend vinden er georganiseerde hondensocialisatie-bijeenkomsten plaats."
         }
       ],
       "tipsEn": [
@@ -377,7 +417,9 @@
         }
       ],
       "titleDe": "Hundeparks & Grünflächen in Hamburg",
+      "titleNl": "Hondenparken & groenzones in Hamburg",
       "introDe": "Hamburg ist Deutschlands grünste Großstadt: Über 14 % der Fläche bestehen aus Parks und öffentlichen Gärten, mit der Außenalster als Herzstück und 56 ausgewiesenen Hundeauslaufzonen (eingezäunte Freilaufflächen), verteilt über die 104 Stadtteile. Der Stadtpark und der Altonaer Volkspark sind die beiden größten Ziele, und die meisten Wege entlang der Alster haben Abschnitte, in denen Hunde erlaubt sind.",
+      "introNl": "Hamburg is de groenste grote stad van Duitsland: meer dan 14% van de oppervlakte bestaat uit parken en openbare tuinen, met de Außenalster als middelpunt en 56 aangewezen hondenlosloopzones (omheinde losloopgebieden), verspreid over de 104 stadsdelen. Het Stadtpark en het Altonaer Volkspark zijn de twee grootste bestemmingen, en de meeste paden langs de Alster hebben stukken waar honden zijn toegestaan.",
       "faqsDe": [
         {
           "q": "Wo dürfen Hunde in Hamburg ohne Leine laufen?",
@@ -390,6 +432,20 @@
         {
           "q": "Darf mein Hund in der Alster schwimmen?",
           "a": "Baden ist sowohl für Menschen als auch für Hunde in der Binnenalster und der Außenalster verboten. Der Öjendorfer See in Billstedt verfügt über einen ausgewiesenen Hundestrand innerhalb der Stadt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar mogen honden in Hamburg loslopen?",
+          "a": "In de 56 officiële hondenlosloopzones, vermeld op hamburg.de. De grootste liggen in het Altonaer Volkspark, het Stadtpark, het Niendorfer Gehege en het Öjendorfer Park."
+        },
+        {
+          "q": "Zijn honden toegestaan in Planten un Blomen?",
+          "a": "Ja, aangelijnde honden zijn welkom in het park, maar niet in de Japanse tuin, de tropische kas of de speeltuingebieden."
+        },
+        {
+          "q": "Mag mijn hond zwemmen in de Alster?",
+          "a": "Zwemmen is zowel voor mensen als honden verboden in de Binnenalster en de Außenalster. Het Öjendorfer See in Billstedt heeft een aangewezen hondenstrand binnen de stad."
         }
       ]
     },
@@ -417,7 +473,9 @@
           "descriptionPt": "O Hamburger Verkehrsverbund cobre todas as linhas de comboio, autocarro e ferry de Hamburgo e da região metropolitana. Os cães pequenos em caixa de transporte fechada viajam grátis; os maiores precisam de um bilhete de tarifa infantil (Kinderkarte) e têm de andar com trela curta. O pessoal pode pedir açaime em caso de lotação e recusar o embarque se este não for usado.",
           "petPolicyPt": "Cães pequenos grátis (em caixa); cães grandes, bilhete infantil + trela + possível açaime",
           "descriptionDe": "Der Hamburger Verkehrsverbund deckt jede Bahn-, Bus- und Fährlinie in Hamburg und der Metropolregion ab. Kleine Hunde in geschlossenen Transportboxen fahren kostenlos; größere Hunde benötigen eine Kinderkarte und müssen an einer kurzen Leine geführt werden. Bei Andrang kann das Personal einen Maulkorb verlangen; ohne Maulkorb kann die Mitnahme verweigert werden.",
-          "petPolicyDe": "Kleine Hunde kostenlos (Transportbox); große Hunde Kinderkarte + Leine + möglicherweise Maulkorb"
+          "descriptionNl": "Het Hamburger Verkehrsverbund dekt elke trein-, bus- en veerlijn in Hamburg en de metropoolregio. Kleine honden in gesloten draagtassen reizen gratis mee; grotere honden hebben een kinderkaartje nodig en moeten aan een korte lijn worden geleid. Bij drukte kan het personeel een muilkorf eisen; zonder muilkorf kan meereizen worden geweigerd.",
+          "petPolicyDe": "Kleine Hunde kostenlos (Transportbox); große Hunde Kinderkarte + Leine + möglicherweise Maulkorb",
+          "petPolicyNl": "Kleine honden gratis (draagtas); grote honden kinderkaartje + lijn + mogelijk muilkorf"
         }
       ],
       "tipsEn": [
@@ -499,7 +557,9 @@
         }
       ],
       "titleDe": "Mit Hunden unterwegs in Hamburg",
+      "titleNl": "Met honden onderweg in Hamburg",
       "introDe": "Hamburgs HVV-Netz (S-Bahn, U-Bahn, Bus, Fähre) hat eine der hundefreundlichsten Regelungen Deutschlands: Kleine Hunde in einer Transportbox fahren kostenlos, größere Hunde benötigen eine Kinderkarte, eine kurze Leine und, falls nicht offensichtlich ruhig, einen Maulkorb. Auch die HVV-Fähren über Elbe und Alster akzeptieren Hunde unter denselben Regeln, was das Hafenhüpfen mit Haustier erleichtert.",
+      "introNl": "Hamburgs HVV-netwerk (S-Bahn, U-Bahn, bus, veerboot) heeft een van de meest hondvriendelijke regelingen van Duitsland: kleine honden in een draagtas reizen gratis mee, grotere honden hebben een kinderkaartje nodig, een korte lijn en, als ze niet duidelijk rustig zijn, een muilkorf. Ook de HVV-veerboten over Elbe en Alster accepteren honden onder dezelfde regels, wat het hoppen langs de haven met huisdier makkelijker maakt.",
       "faqsDe": [
         {
           "q": "Muss ich für meinen Hund in Hamburgs öffentlichen Verkehrsmitteln bezahlen?",
@@ -512,6 +572,20 @@
         {
           "q": "Ist ein Maulkorb in Hamburgs öffentlichen Verkehrsmitteln vorgeschrieben?",
           "a": "Nicht automatisch, aber Fahrer und Kontrolleure können Sie bitten, Ihren Hund anzuleinen, wenn das Fahrzeug voll ist oder der Hund gestresst wirkt. Führen Sie einen weichen Maulkorb mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Moet ik betalen voor mijn hond in het openbaar vervoer van Hamburg?",
+          "a": "Alleen voor honden die te groot zijn voor een gesloten draagtas. Grotere honden hebben een kinderkaartje tegen kindertarief nodig. Kleine honden in draagtassen reizen gratis mee."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen op de Alster-veerboten?",
+          "a": "Ja, kleine honden reizen gratis mee op je schoot; grotere honden hebben een kinderkaartje nodig en moeten op het buitendek aangelijnd zijn."
+        },
+        {
+          "q": "Is een muilkorf verplicht in het openbaar vervoer van Hamburg?",
+          "a": "Niet automatisch, maar chauffeurs en controleurs kunnen je vragen je hond aan te lijnen als het voertuig vol is of de hond gestrest lijkt. Neem een zachte muilkorf mee."
         }
       ]
     },
@@ -544,8 +618,11 @@
           "petPolicyPt": "Sem trela na secção oeste de out a abr; com trela o ano inteiro",
           "tipPt": "A partir do café Strandperle, caminhe cerca de 800 m para oeste para chegar à zona sem trela designada; a secção leste junto a Teufelsbrück é só com trela e mais concorrida.",
           "descriptionDe": "Hamburgs berühmter Sandstrand mitten in der Stadt erstreckt sich 3 km entlang der Elbe mit freiem Blick auf den Containerhafen. Vom 1. Oktober bis 30. April sind Hunde im westlichen Abschnitt (hinter dem Café Strandperle) ohne Leine erlaubt, ganzjährig an der Leine, einer der meistfotografierten Hundestrände Deutschlands.",
+          "descriptionNl": "Hamburgs beroemde zandstrand midden in de stad strekt zich 3 km uit langs de Elbe met vrij zicht op de containerhaven. Van 1 oktober tot 30 april mogen honden in het westelijke deel (achter café Strandperle) zonder lijn, het hele jaar aangelijnd, een van de meest gefotografeerde hondenstranden van Duitsland.",
           "petPolicyDe": "Ohne Leine im Westabschnitt Okt.–Apr.; ganzjährig Leinenpflicht",
-          "tipDe": "Gehen Sie vom Café Strandperle etwa 800 m Richtung Westen, um die ausgewiesene Freilauffläche zu erreichen; der östliche Abschnitt bei Teufelsbrück gilt nur mit Leine und ist belebter."
+          "petPolicyNl": "Zonder lijn in het westelijke deel okt.-apr.; het hele jaar lijnplicht",
+          "tipDe": "Gehen Sie vom Café Strandperle etwa 800 m Richtung Westen, um die ausgewiesene Freilauffläche zu erreichen; der östliche Abschnitt bei Teufelsbrück gilt nur mit Leine und ist belebter.",
+          "tipNl": "Loop vanaf café Strandperle ongeveer 800 m richting het westen om de aangewezen losloopplek te bereiken; het oostelijke deel bij Teufelsbrück geldt alleen aan de lijn en is drukker."
         },
         {
           "name": "Hundestrand Öjendorfer See",
@@ -568,8 +645,11 @@
           "petPolicyPt": "Zona de banho sem trela o ano inteiro",
           "tipPt": "Nos fins de semana de verão podem juntar-se mais de 50 cães na pequena praia; chegue antes das 10:00 ou depois das 18:00 para um banho mais tranquilo.",
           "descriptionDe": "Hamburgs einziger innerstädtischer Hundestrand am östlich gelegenen Öjendorfer See. Hunde können in der ausgewiesenen Zone ganzjährig ohne Leine schwimmen; das umliegende, 160 Hektar große Seeufer bietet zusätzliche Wege, auf denen Hunde erlaubt sind.",
+          "descriptionNl": "Hamburgs enige binnenstadsstrand voor honden ligt aan het oostelijk gelegen Öjendorfer See. Honden kunnen in de aangewezen zone het hele jaar zonder lijn zwemmen; de omliggende, 160 hectare grote meeroever biedt extra paden waar honden zijn toegestaan.",
           "petPolicyDe": "Ganzjährig Freilauf-Schwimmzone",
-          "tipDe": "An Sommerwochenenden tummeln sich schon mal über 50 Hunde am kleinen Strand; kommen Sie vor 10:00 oder nach 18:00 Uhr für ruhigeres Schwimmen."
+          "petPolicyNl": "Het hele jaar losloop-zwemzone",
+          "tipDe": "An Sommerwochenenden tummeln sich schon mal über 50 Hunde am kleinen Strand; kommen Sie vor 10:00 oder nach 18:00 Uhr für ruhigeres Schwimmen.",
+          "tipNl": "Op zomerse weekenden verzamelen zich soms meer dan 50 honden op het kleine strand; kom voor 10:00 uur of na 18:00 uur voor rustiger zwemmen."
         },
         {
           "name": "Falkensteiner Ufer",
@@ -592,8 +672,11 @@
           "petPolicyPt": "Com trela o ano inteiro; zona sem trela de out a abr",
           "tipPt": "Estacione no parque de estacionamento do Falkensteiner Ufer e desça 5 min a pé; o caminho é arenoso, mas transitável. Combine com um circuito pela floresta do Falkensteiner Wald para uma excursão de 2 horas.",
           "descriptionDe": "Ein wilderer Elbstrand am westlichsten Rand Hamburgs, unterhalb der bewaldeten Hänge des Falkensteiner Waldes. Ruhiger als Övelgönne, ganzjährig mit Leinenpflicht und einer ausgewiesenen Freilaufzone vom 1. Oktober bis 30. April; große Schiffe passieren hier nah am Ufer.",
+          "descriptionNl": "Een wilder Elbe-strand aan de meest westelijke rand van Hamburg, onder de beboste hellingen van het Falkensteiner Wald. Rustiger dan Övelgönne, het hele jaar lijnplicht en een aangewezen losloopzone van 1 oktober tot 30 april; grote schepen passeren hier dicht bij de oever.",
           "petPolicyDe": "Ganzjährig Leinenpflicht; Freilaufzone Okt.–Apr.",
-          "tipDe": "Parken Sie am Parkplatz Falkensteiner Ufer und gehen Sie 5 Minuten hinunter; der Weg ist sandig, aber gut begehbar. Kombinieren Sie den Besuch mit einer Runde durch den Falkensteiner Wald für einen zweistündigen Ausflug."
+          "petPolicyNl": "Het hele jaar lijnplicht; losloopzone okt.-apr.",
+          "tipDe": "Parken Sie am Parkplatz Falkensteiner Ufer und gehen Sie 5 Minuten hinunter; der Weg ist sandig, aber gut begehbar. Kombinieren Sie den Besuch mit einer Runde durch den Falkensteiner Wald für einen zweistündigen Ausflug.",
+          "tipNl": "Parkeer bij parkeerplaats Falkensteiner Ufer en loop 5 minuten naar beneden; het pad is zanderig maar goed begaanbaar. Combineer het bezoek met een rondje door het Falkensteiner Wald voor een uitje van twee uur."
         }
       ],
       "tipsEn": [
@@ -675,7 +758,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände bei Hamburg",
+      "titleNl": "Hondvriendelijke stranden bij Hamburg",
       "introDe": "Hamburg liegt 100 km von der Nordsee entfernt, verfügt aber über mehrere ausgezeichnete hundefreundliche Sandstrände entlang der Elbe sowie über ausgewiesene Hundestrand-Zonen an Seen innerhalb der Stadt. Der Elbstrand bei Övelgönne und Blankenese ist der bekannteste Stadtstrand Deutschlands; Hunde sind außerhalb der markierten Badesaison ohne Leine willkommen.",
+      "introNl": "Hamburg ligt 100 km van de Noordzee, maar beschikt over meerdere uitstekende hondvriendelijke zandstranden langs de Elbe en over aangewezen hondenstrandzones bij meren binnen de stad. Het Elbe-strand bij Övelgönne en Blankenese is het bekendste stadsstrand van Duitsland; honden zijn welkom zonder lijn buiten het gemarkeerde badseizoen.",
       "faqsDe": [
         {
           "q": "Darf mein Hund an den Hamburger Stadtstränden in der Elbe schwimmen?",
@@ -688,6 +773,20 @@
         {
           "q": "Wie weit ist der nächste echte Meeresstrand entfernt?",
           "a": "St. Peter-Ording an der Nordsee liegt 170 km entfernt (1 Std. 45 Min. mit dem Auto); der dortige Hundestrand am Böhl ist der größte Deutschlands. Der Timmendorfer Strand an der Ostsee liegt 80 km entfernt (1 Std. Fahrt)."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond zwemmen in de Elbe bij de Hamburgse stadsstranden?",
+          "a": "De stroming in de Elbe is sterk, en zwemmen wordt officieel afgeraden. De meeste honden plonzen alleen aan de rand; het rustigere Öjendorfer See is binnen de stad de veiligere optie."
+        },
+        {
+          "q": "Is het Elbe-strand het hele jaar zonder lijn te gebruiken?",
+          "a": "Nee, op het hele Elbe-strandgebied geldt van 1 mei tot 30 september lijnplicht. Van 1 oktober tot 30 april mogen honden in het aangewezen westelijke deel zonder lijn lopen."
+        },
+        {
+          "q": "Hoe ver ligt het dichtstbijzijnde echte zeestrand?",
+          "a": "St. Peter-Ording aan de Noordzee ligt 170 km verderop (1 uur 45 min met de auto); het hondenstrand daar bij Böhl is het grootste van Duitsland. Timmendorfer Strand aan de Oostzee ligt 80 km verderop (1 uur rijden)."
         }
       ]
     },
@@ -725,9 +824,13 @@
           "servicesPt": "Urgência, cirurgia, imagiologia, oncologia, cuidados intensivos",
           "tipPt": "O estacionamento é amplo, um detalhe importante às 3 da manhã. Leve o passaporte europeu e o boletim de vacinação do seu cão para acelerar a triagem na primeira visita.",
           "descriptionDe": "Große Vollklinik im Westen Hamburgs mit 24-Stunden-Notaufnahme, Chirurgie, Bildgebung (CT, Ultraschall, Röntgen), Onkologie und Intensivpflege. Bekannt für englischsprachiges Personal und ein großes Nachtteam.",
+          "descriptionNl": "Grote volwaardige kliniek in het westen van Hamburg met 24-uurs spoedeisende hulp, chirurgie, beeldvorming (CT, echografie, röntgen), oncologie en intensieve zorg. Bekend om Engelssprekend personeel en een groot nachtteam.",
           "petPolicyDe": "Rund um die Uhr Notfälle ohne Termin",
+          "petPolicyNl": "Dag en nacht spoedgevallen zonder afspraak",
           "servicesDe": "Notfall, Chirurgie, Bildgebung, Onkologie, Intensivstation",
-          "tipDe": "Es gibt reichlich Parkplätze, ein wichtiges Detail um 3 Uhr nachts. Bringen Sie beim ersten Besuch den EU-Heimtierausweis und den Impfausweis Ihres Hundes mit, um die Ersteinschätzung zu beschleunigen."
+          "servicesNl": "Spoedeisende hulp, chirurgie, beeldvorming, oncologie, intensive care",
+          "tipDe": "Es gibt reichlich Parkplätze, ein wichtiges Detail um 3 Uhr nachts. Bringen Sie beim ersten Besuch den EU-Heimtierausweis und den Impfausweis Ihres Hundes mit, um die Ersteinschätzung zu beschleunigen.",
+          "tipNl": "Er is volop parkeergelegenheid, een belangrijk detail om 3 uur 's nachts. Breng bij het eerste bezoek het EU-dierenpaspoort en het vaccinatieboekje van je hond mee om de eerste beoordeling te versnellen."
         },
         {
           "name": "Tierärztliche Klinik Dr. Staudacher",
@@ -755,9 +858,13 @@
           "servicesPt": "Urgência, ortopedia, medicina interna, imagiologia, cuidados intensivos",
           "tipPt": "Telefone antes nos casos graves; o enfermeiro de triagem indica-lhe se deve ir diretamente ou seguir para Bahrenfeld (cuidados intensivos maiores). Estacionamento de urgência em frente à entrada principal.",
           "descriptionDe": "Eine zweite große rund um die Uhr geöffnete Notfallklinik im Osten Hamburgs, die Hamm, Wandsbek und die Gegend um Bergedorf versorgt. Orthopädische Chirurgie, Innere Medizin, Notfallbildgebung und Intensivpflege. Von Tierärzten im Osten Hamburgs für komplexe Fälle bevorzugt.",
+          "descriptionNl": "Een tweede grote dag-en-nacht spoedkliniek in het oosten van Hamburg, die Hamm, Wandsbek en de omgeving van Bergedorf bedient. Orthopedische chirurgie, interne geneeskunde, spoedbeeldvorming en intensieve zorg. Voorkeurskliniek van dierenartsen in het oosten van Hamburg voor complexe gevallen.",
           "petPolicyDe": "Rund um die Uhr Notfälle ohne Termin",
+          "petPolicyNl": "Dag en nacht spoedgevallen zonder afspraak",
           "servicesDe": "Notfall, Orthopädie, Innere Medizin, Bildgebung, Intensivstation",
-          "tipDe": "Rufen Sie bei ernsten Fällen vorher an, die Triage-Pflegekraft sagt Ihnen, ob Sie direkt kommen oder nach Bahrenfeld (größere Intensivstation) weitergeleitet werden sollten. Notfallparkplätze vor dem Haupteingang."
+          "servicesNl": "Spoedeisende hulp, orthopedie, interne geneeskunde, beeldvorming, intensive care",
+          "tipDe": "Rufen Sie bei ernsten Fällen vorher an, die Triage-Pflegekraft sagt Ihnen, ob Sie direkt kommen oder nach Bahrenfeld (größere Intensivstation) weitergeleitet werden sollten. Notfallparkplätze vor dem Haupteingang.",
+          "tipNl": "Bel bij ernstige gevallen van tevoren, de triageverpleegkundige vertelt je of je rechtstreeks kunt komen of doorverwezen wordt naar Bahrenfeld (grotere intensive care). Spoedparkeerplaatsen voor de hoofdingang."
         }
       ],
       "tipsEn": [
@@ -839,7 +946,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte in Hamburg, Tierkliniken & Tierpflege",
+      "titleNl": "Spoeddierenartsen in Hamburg, dierenklinieken & huisdierenzorg",
       "introDe": "Hamburg verfügt über zwei rund um die Uhr geöffnete Tierkliniken des Netzwerks Tierärztliche Klinik sowie die Wochenendrotation des Tierärztlichen Notdienstes Hamburg. Die Tierklinik Lüneburger Heide und das Tierärztliche Zentrum Bahrenfeld sind die beiden bevorzugten privaten Kliniken für Notfälle außerhalb der Öffnungszeiten.",
+      "introNl": "Hamburg beschikt over twee dag-en-nacht dierenklinieken van het netwerk Tierärztliche Klinik, plus de weekendrotatie van de Tierärztlicher Notdienst Hamburg. De Tierklinik Lüneburger Heide en het Tierärztliches Zentrum Bahrenfeld zijn de twee voorkeursklinieken voor spoedgevallen buiten openingstijden.",
       "faqsDe": [
         {
           "q": "Welche Tierklinik in Hamburg hat rund um die Uhr geöffnet?",
@@ -852,6 +961,20 @@
         {
           "q": "Nimmt ein Tierarzt in Hamburg auch ohne Termin an?",
           "a": "Ja, beide 24-Stunden-Kliniken nehmen Notfälle ohne Termin an. Während der regulären Öffnungszeiten benötigen die meisten regulären Praxen einen Termin."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welke dierenkliniek in Hamburg is dag en nacht open?",
+          "a": "Twee klinieken bieden binnen de stad een volledige 24-uurs spoeddienst: Tierärztliches Zentrum Bahrenfeld (Bahrenfelder Chaussee 43, 040 8907670) in het westen en Tierärztliche Klinik Dr. Staudacher (Sievekingsallee 22, 040 6514140) in het oosten."
+        },
+        {
+          "q": "Wat kost een spoedbezoek aan de dierenarts in Hamburg?",
+          "a": "Het basisconsult buiten openingstijden ligt doorgaans rond 80-140 €, plus diagnostiek. De Duitse GOT-tariefregeling geldt; klinieken moeten deze op verzoek tonen."
+        },
+        {
+          "q": "Neemt een dierenarts in Hamburg ook zonder afspraak aan?",
+          "a": "Ja, beide 24-uurs klinieken accepteren spoedgevallen zonder afspraak. Tijdens reguliere openingstijden hebben de meeste gewone praktijken een afspraak nodig."
         }
       ]
     },
@@ -950,7 +1073,9 @@
         }
       ],
       "titleDe": "Wichtige Reisetipps mit Haustier für Hamburg",
+      "titleNl": "Belangrijke reistips met huisdier voor Hamburg",
       "introDe": "Hamburg ist eine der hundefreundlichsten Städte Deutschlands, aber ein paar örtliche Regeln bringen Besucher ins Straucheln: die Pflicht zur Hundesteuermarke am Halsband für Einwohner, das Hamburger Hundegesetz mit Leinenpflicht und strenge Strandregeln von Mai bis September. Diese Tipps decken alles ab, was Sie vor und während Ihres Aufenthalts wissen müssen.",
+      "introNl": "Hamburg is een van de meest hondvriendelijke steden van Duitsland, maar een paar lokale regels struikelen bezoekers vaak: de verplichte hondenbelastingpenning aan de halsband voor inwoners, de Hamburgse hondenwet met lijnplicht en strenge strandregels van mei tot september. Deze tips behandelen alles wat je voor en tijdens je verblijf moet weten.",
       "faqsDe": [
         {
           "q": "Ist Hamburg eine gute Stadt für einen Besuch mit Hund?",
@@ -963,6 +1088,20 @@
         {
           "q": "Gibt es in Hamburg Rasseverbote?",
           "a": "Ja. Hamburg stuft Pit Bull Terrier, American Staffordshire Terrier, Bullterrier und Rottweiler als Listenhunde ein, Besitzer benötigen eine besondere Erlaubnis, in der Öffentlichkeit gilt Maulkorbpflicht und strenge Leinenregeln."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Hamburg een goede stad om met hond te bezoeken?",
+          "a": "Ja, het behoort tot de meest hondvriendelijke Duitse grote steden, met 56 officiële losloopzones, een hondvriendelijke Alsterpromenade, drie grote stadsstranden en twee dag-en-nacht spoeddierenklinieken."
+        },
+        {
+          "q": "Heb ik speciale documenten nodig om mijn hond mee te nemen naar Hamburg?",
+          "a": "Voor EU-burgers: het EU-dierenpaspoort met geldige rabiësvaccinatie. Voor bezoekers van buiten de EU: een EU-diergezondheidscertificaat, afgegeven binnen 10 dagen voor aankomst, en voor bepaalde landen een rabiës-titertest."
+        },
+        {
+          "q": "Zijn er rasverboden in Hamburg?",
+          "a": "Ja. Hamburg classificeert Pitbull Terriër, American Staffordshire Terriër, Bullterriër en Rottweiler als lijsthonden, eigenaars hebben een speciale vergunning nodig, en in het openbaar geldt muilkorfplicht en strenge lijnregels."
         }
       ]
     },
@@ -995,8 +1134,11 @@
           "petPolicyPt": "Cães com trela bem-vindos ao ar livre; sem museus interiores",
           "tipPt": "Comece na plaza da Elbphilharmonie (acesso gratuito com cão, vista panorâmica) e caminhe para leste pelo Speicherstadt em direção aos Deichtorhallen, 2 km de oportunidades fotográficas constantes.",
           "descriptionDe": "Die UNESCO-gelistete Speicherstadt ist das größte zusammenhängende Lagerhausviertel der Welt, erbaut auf Eichenpfählen in der Elbe. Angeleinte Hunde sind entlang der Kanäle, der Brooksfleet-Brücken und der angrenzenden modernen HafenCity willkommen, einem der schönsten Uferspaziergänge Europas in der Stadt.",
+          "descriptionNl": "De UNESCO-gelijste Speicherstadt is de grootste aaneengesloten pakhuiswijk ter wereld, gebouwd op eikenhouten palen in de Elbe. Aangelijnde honden zijn welkom langs de kanalen, de Brooksfleet-bruggen en de aangrenzende moderne HafenCity, een van de mooiste oeverwandelingen van Europa in de stad.",
           "petPolicyDe": "Angeleinte Hunde im Freien willkommen; keine Innenmuseen",
-          "tipDe": "Starten Sie am Elbphilharmonie-Platz (freier Zugang mit Hund, Panoramablick) und gehen Sie ostwärts durch die Speicherstadt zu den Deichtorhallen, 2 km voller Fotogelegenheiten."
+          "petPolicyNl": "Aangelijnde honden welkom buiten; geen binnenmusea",
+          "tipDe": "Starten Sie am Elbphilharmonie-Platz (freier Zugang mit Hund, Panoramablick) und gehen Sie ostwärts durch die Speicherstadt zu den Deichtorhallen, 2 km voller Fotogelegenheiten.",
+          "tipNl": "Start bij het Elbphilharmonie-plein (vrije toegang met hond, panoramisch uitzicht) en loop oostwaarts door de Speicherstadt naar de Deichtorhallen, 2 km vol fotomogelijkheden."
         },
         {
           "name": "Landungsbrücken",
@@ -1019,8 +1161,11 @@
           "petPolicyPt": "Cães com trela bem-vindos no cais e na maioria dos cruzeiros",
           "tipPt": "Apanhe daqui o ferry HVV 62 para Finkenwerder, os cães viajam com o seu bilhete HVV, e a viagem de 25 minutos é o passeio de porto mais barato da cidade.",
           "descriptionDe": "Der ikonische 688 Meter lange schwimmende Ponton im Herzen des Hamburger Hafens, mit Blick auf die Containerterminals, den Eingang zum Elbtunnel und Hafenrundfahrtboote. Angeleinte Hunde sind auf dem Ponton und den meisten Hamburg-Hafenrundfahrten (Rainer Abicht, Barkassen-Centrale) willkommen.",
+          "descriptionNl": "De iconische 688 meter lange drijvende ponton in het hart van de Hamburgse haven, met uitzicht op de containerterminals, de ingang van de Elbtunnel en havenrondvaartboten. Aangelijnde honden zijn welkom op de ponton en de meeste Hamburg-havenrondvaarten (Rainer Abicht, Barkassen-Centrale).",
           "petPolicyDe": "Angeleinte Hunde auf dem Ponton und den meisten Hafenrundfahrten willkommen",
-          "tipDe": "Nehmen Sie von hier die HVV-Fähre 62 nach Finkenwerder, Hunde reisen mit Ihrem HVV-Ticket, und die 25-minütige Fahrt ist die günstigste Hafentour der Stadt."
+          "petPolicyNl": "Aangelijnde honden welkom op de ponton en de meeste havenrondvaarten",
+          "tipDe": "Nehmen Sie von hier die HVV-Fähre 62 nach Finkenwerder, Hunde reisen mit Ihrem HVV-Ticket, und die 25-minütige Fahrt ist die günstigste Hafentour der Stadt.",
+          "tipNl": "Neem vanaf hier de HVV-veerboot 62 naar Finkenwerder, honden reizen mee met je HVV-ticket, en de rit van 25 minuten is de goedkoopste haventour van de stad."
         },
         {
           "name": "Planten un Blomen",
@@ -1043,8 +1188,11 @@
           "petPolicyPt": "Com trela; NÃO no Jardim Japonês, estufas, parques infantis",
           "tipPt": "O Wasserlichtkonzert (concerto de água e luz) às 22:00 nas noites de verão é ruidoso e concorrido, evite-o com cães ansiosos; vá antes às 19:00 para o pôr do sol mais tranquilo.",
           "descriptionDe": "Hamburgs zentraler Stadtpark (47 Hektar) mit botanischen Gärten, Wasserlichtkonzerten im Sommer, Spielplätzen und tropischen Gewächshäusern. Angeleinte Hunde sind in den Hauptbereichen des Parks willkommen, aber NICHT im Japanischen Garten, den Tropenhäusern oder auf den Spielplätzen.",
+          "descriptionNl": "Hamburgs centrale Stadtpark (47 hectare) met botanische tuinen, watermuziekconcerten in de zomer, speeltuinen en tropische kassen. Aangelijnde honden zijn welkom in de hoofdgedeeltes van het park, maar NIET in de Japanse tuin, de tropenhuizen of op de speeltuinen.",
           "petPolicyDe": "Leinenpflicht; NICHT im Japanischen Garten, den Gewächshäusern und auf Spielplätzen",
-          "tipDe": "Das Wasserlichtkonzert um 22:00 Uhr an Sommerabenden ist laut und überfüllt, meiden Sie es mit ängstlichen Hunden; kommen Sie stattdessen um 19:00 Uhr für den ruhigeren Sonnenuntergang."
+          "petPolicyNl": "Lijnplicht; NIET in de Japanse tuin, de kassen en op speeltuinen",
+          "tipDe": "Das Wasserlichtkonzert um 22:00 Uhr an Sommerabenden ist laut und überfüllt, meiden Sie es mit ängstlichen Hunden; kommen Sie stattdessen um 19:00 Uhr für den ruhigeren Sonnenuntergang.",
+          "tipNl": "Het watermuziekconcert om 22:00 uur op zomeravonden is luid en druk, vermijd het met angstige honden; kom in plaats daarvan om 19:00 uur voor de rustigere zonsondergang."
         }
       ],
       "tipsEn": [
@@ -1126,7 +1274,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Hamburg",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Hamburg",
       "introDe": "Hamburgs Wahrzeichen, die HafenCity-Uferpromenade, die Außenplaza der Elbphilharmonie, das Lagerhausviertel Speicherstadt und die Hafenpromenade Landungsbrücken, sind alle an der Leine vollständig begehbar. Die meisten Innenmuseen verbieten Haustiere, aber geführte Hafentouren und Fährfahrten im Freien bieten reichhaltige Sightseeing-Möglichkeiten, ohne Ihren Hund zurücklassen zu müssen.",
+      "introNl": "Hamburgs iconen, de HafenCity-oeverpromenade, het buitenplein van de Elbphilharmonie, de pakhuiswijk Speicherstadt en de havenpromenade Landungsbrücken, zijn allemaal volledig te belopen aan de lijn. De meeste binnenmusea verbieden huisdieren, maar begeleide haventours en veerbootritten buiten bieden volop bezienswaardigheden zonder je hond achter te hoeven laten.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund mit auf eine Hafenrundfahrt in Hamburg nehmen?",
@@ -1139,6 +1289,20 @@
         {
           "q": "Kann ich meinen Hund mit ins Miniatur Wunderland oder ins Internationale Maritime Museum nehmen?",
           "a": "Nein, beide verbieten Haustiere vollständig. Für Hamburgs haustierfreie Indoor-Attraktionen wird üblicherweise ein lokaler Haustiersitter genutzt; buchen Sie 24 Stunden im Voraus über Pawshake."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen op een havenrondvaart in Hamburg?",
+          "a": "Ja, de grote aanbieders (Rainer Abicht, Barkassen-Centrale, HADAG) laten aangelijnde honden toe op de buitendekken. De HVV-veerboot 62 naar Finkenwerder is het goedkope alternatief."
+        },
+        {
+          "q": "Zijn honden toegestaan in de Elbphilharmonie?",
+          "a": "De concertzalen en binnenverdiepingen zijn verboden terrein, maar het buitenplein (37 m boven het water) is gratis toegankelijk en volledig hondvriendelijk."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen naar Miniatur Wunderland of het Internationale Maritieme Museum?",
+          "a": "Nee, beide verbieden huisdieren volledig. Voor Hamburgs huisdiervrije binnenattracties wordt meestal een lokale huisdieroppasser gebruikt; boek 24 uur van tevoren via Pawshake."
         }
       ]
     },
@@ -1173,9 +1337,13 @@
           "servicesPt": "Passeio de cães, creche, alojamento ao domicílio",
           "tipPt": "Filtre os cuidadores de Hamburgo por experiência com raças Listenhunde se viajar com um Staffordshire, Bull Terrier ou Rottweiler; a cidade aplica regras rigorosas e os cuidadores experientes valem o custo acrescido.",
           "descriptionDe": "Europäischer Marktplatz für Haustierbetreuung mit verifizierten Sittern in Hamburg für Gassi-Service, Tagesbetreuung und Unterbringung zu Hause. Alle Buchungen sind versichert und beinhalten tägliche Fotoupdates. Typische Preise: 22–35 €/Tag für Unterbringung zu Hause und 12–18 € für einen einstündigen Spaziergang.",
+          "descriptionNl": "Europese marktplaats voor huisdierenzorg met geverifieerde oppassers in Hamburg voor uitlaatservice, dagopvang en onderdak thuis. Alle boekingen zijn verzekerd en omvatten dagelijkse foto-updates. Typische prijzen: 22-35 €/dag voor onderdak thuis en 12-18 € voor een wandeling van een uur.",
           "petPolicyDe": "Verifizierte Sitter, Versicherung inbegriffen",
+          "petPolicyNl": "Geverifieerde oppassers, verzekering inbegrepen",
           "servicesDe": "Gassi-Service, Tagesbetreuung, Unterbringung zu Hause",
-          "tipDe": "Filtern Sie Hamburger Sitter nach Erfahrung mit Listenhunde-Rassen, wenn Sie mit einem Staffordshire, Bullterrier oder Rottweiler reisen, die Stadt hat strenge Regeln, und erfahrene Sitter sind den Aufpreis wert."
+          "servicesNl": "Uitlaatservice, dagopvang, onderdak thuis",
+          "tipDe": "Filtern Sie Hamburger Sitter nach Erfahrung mit Listenhunde-Rassen, wenn Sie mit einem Staffordshire, Bullterrier oder Rottweiler reisen, die Stadt hat strenge Regeln, und erfahrene Sitter sind den Aufpreis wert.",
+          "tipNl": "Filter Hamburgse oppassers op ervaring met lijsthondenrassen als je reist met een Staffordshire, Bullterriër of Rottweiler, de stad heeft strenge regels, en ervaren oppassers zijn de meerprijs waard."
         }
       ],
       "tipsEn": [
@@ -1257,7 +1425,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Hamburg",
+      "titleNl": "Huisdierenzorg & uitlaatservice in Hamburg",
       "introDe": "Hamburg hat einen ausgeprägten professionellen Markt für Tierbetreuung, angeführt von Pawshake, Rover und Holidog sowie einem soliden Netz von Hundetagesstätten in Eimsbüttel, Altona und Winterhude. Die Preise liegen leicht unter München, aber auf Höhe von Berlin. Buchen Sie frühzeitig während Kreuzfahrtschiff-Ankünften und dem Hafengeburtstag (Anfang Mai), wenn die Stadt von Besuchern überflutet wird.",
+      "introNl": "Hamburg heeft een uitgesproken professionele markt voor huisdierenzorg, aangevoerd door Pawshake, Rover en Holidog, plus een solide netwerk van hondendagverblijven in Eimsbüttel, Altona en Winterhude. De prijzen liggen iets onder München, maar op het niveau van Berlijn. Boek vroeg tijdens cruiseschip-aankomsten en de Hafengeburtstag (begin mei), wanneer de stad overspoeld wordt door bezoekers.",
       "faqsDe": [
         {
           "q": "Wie viel kostet Haustierbetreuung in Hamburg?",
@@ -1270,6 +1440,20 @@
         {
           "q": "Ist es sicher, einen Hund in einem Hamburger Hotelzimmer allein zu lassen?",
           "a": "Viele Hamburger Hotels akzeptieren Hunde, aber nur wenige erlauben es, sie unbeaufsichtigt zu lassen, sofern sie nicht in einer Box sind. Nutzen Sie für Museumstage einen lokalen Pawshake-Sitter für Tagesbesuche."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat kost huisdierenzorg in Hamburg?",
+          "a": "Typische prijzen bij Pawshake/Holidog: 22-35 €/nacht voor onderdak thuis, 25-45 €/dag dagopvang, 12-18 € voor een wandeling van een uur. Iets hoger tijdens het zomerse cruisehoogseizoen."
+        },
+        {
+          "q": "Zijn huisdieroppassers in Hamburg verzekerd?",
+          "a": "Pawshake en Holidog omvatten bij elke boeking een aansprakelijkheids- en dierenartsspoedverzekering. Bevestig dit bij onafhankelijke oppassers altijd voor een rechtstreekse boeking."
+        },
+        {
+          "q": "Is het veilig om een hond alleen achter te laten in een Hamburgse hotelkamer?",
+          "a": "Veel Hamburgse hotels accepteren honden, maar slechts weinige staan toe ze onbeheerd achter te laten, tenzij ze in een bench zitten. Gebruik voor museumdagen een lokale Pawshake-oppasser voor dagbezoekjes."
         }
       ]
     }

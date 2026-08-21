@@ -16,7 +16,7 @@ export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
 }
 
-type LocaleKey = 'en' | 'fr' | 'es' | 'pt' | 'de'
+type LocaleKey = 'en' | 'fr' | 'es' | 'pt' | 'de' | 'nl'
 
 // Each locale is its OWN country's 2027 school-holiday calendar, written in
 // that language, with destination picks reachable from that country and a
@@ -296,6 +296,53 @@ const CALENDARS: Record<LocaleKey, Calendar> = {
       { slug: 'copenhagen', why: `Die dänische Hauptstadt ist fahrradfreundlich und entsprechend auch für Hunde gut zu Fuß erschließbar, mit vielen Parks wie dem Kongens Have direkt in der Innenstadt.`, travel: `ca. 5 Std. Autobahn ab Hamburg, direkte DB-Verbindung (Hund mit Fahrschein/Maulkorb)` },
     ] },
   ] },
+  nl: { periods: [
+    { emoji: '🎆', dates: `Kerstvakantie & Nieuwjaar · za 19 dec 2026 t/m zo 3 jan 2027`, label: `Kerstvakantie & Nieuwjaar`, trip: `Korte winterbreak`, blurb: `Twee weken schoolvakantie rond de jaarwisseling, precies goed voor een korte trip net over de grens. De kou zit een hond met een dikke vacht wel, en de kerstmarkten staan tot begin januari nog overeind.`, picks: [
+      { slug: 'maastricht', why: `De dichtstbijzijnde stap over de grens vanuit het zuiden: kerstmarkt op het Vrijthof, wandelpaden langs de Maas, en horeca die een hond op de stoep gewoon vindt.`, travel: `ca. 2 uur rijden via de A2, of NS-trein naar Maastricht met dagkaart hond` },
+      { slug: 'cologne', why: `Zeven kerstmarkten in één stad, en Duitsland rekent doorgaans geen of weinig toeslag voor huisdieren in hotels. Vlakke oevers van de Rijn voor een lange wandeling na de drukte.`, travel: `ca. 2,5 uur rijden via de A61/A4, of ICE vanaf Amsterdam/Utrecht (hond met treinkaartje, muilkorf verplicht in Duitsland)` },
+      { slug: 'ghent', why: `Rustiger dan Brugge, met verlichte grachten en een studentenstad-mentaliteit die zich ook uitstrekt naar honden op elk terras.`, travel: `ca. 3 uur rijden via de A16/E17, of trein via Antwerpen/Brussel (ca. 3 uur, hond in mand of aangelijnd met ticket)` },
+    ] },
+    { emoji: '⛄', dates: `Voorjaarsvakantie · Zuid 13-21 feb, Noord/Midden 20-28 feb 2027`, label: `Voorjaarsvakantie`, trip: `Wintersport of winterzon: een week`, blurb: `De voorjaarsvakantie loopt uiteen per regio, dus check zelf wanneer jouw school vrij is. Een week is genoeg om echt de bergen in te trekken voor sneeuwwandelingen met de hond, of juist zuidwaarts te vluchten voor wat winterzon.`, picks: [
+      { slug: 'zell-am-see', why: `Geruimde winterwandelpaden direct langs het meer, weg van de skipistes waar honden niet mogen komen. Veel hotels in de Pinzgau zijn ingesteld op hondengasten met handdoeken en bakjes.`, travel: `ca. 8,5 uur rijden via Duitsland en Salzburg (A67/A3), of Nightjet naar Salzburg plus regionale trein` },
+      { slug: 'innsbruck', why: `De stad ligt direct aan de voet van de Nordkette, dus met de kabelbaan en de hond aangelijnd sta je binnen tien minuten in de sneeuw. De stad zelf is compact en hondvriendelijk langs de Inn.`, travel: `ca. 8,5 uur rijden via Duitsland, of trein met overstap in Frankfurt/München (hond met treinkaartje)` },
+      { slug: 'malaga', why: `In februari draait de Costa del Sol nog rond de 17-18°C, ideaal voor lange strandwandelingen zonder de zomerse hitte. Buiten het hoogseizoen tolereren meer stranden een hond, ook al geldt het officiële verbod formeel het hele jaar.`, travel: `directe vlucht vanaf Schiphol, ca. 2,5 uur (kleine hond in de cabine bij sommige maatschappijen, grotere in het verwarmde ruim), of ca. 20 uur rijden` },
+    ] },
+    { emoji: '🐣', dates: `Paasweekend · Goede Vrijdag 26 mrt t/m 2e Paasdag 29 mrt 2027`, label: `Paasweekend`, trip: `Verlengd weekend: vier dagen`, blurb: `Goede Vrijdag is in Nederland geen officiële vrije dag voor iedereen, maar veel scholen en bedrijven sluiten toch, wat er een verlengd weekend van maakt. Genoeg voor een korte stap over de grens naar een stad op loopafstand-schaal.`, picks: [
+      { slug: 'bruges', why: `Vlak en zonder verkeer, dus heel comfortabel voor een hond die loopt: grachten, kasseien en parken zonder hoogteverschil. De Belgen zijn over het algemeen soepel met honden op het terras.`, travel: `ca. 3 uur rijden via de A16/E17, of trein via Antwerpen/Gent (ca. 3,5 uur)` },
+      { slug: 'cologne', why: `Het voorjaar verzacht de stad: minder toeristen dan met kerst, terrasjes langs de Rijn gaan weer open, en de Hohenzollernbrücke is een makkelijke wandelroute met de hond.`, travel: `ca. 2,5 uur rijden via de A61/A4, of ICE vanaf Amsterdam/Utrecht (muilkorf verplicht in Duitsland)` },
+      { slug: 'maastricht', why: `Een paasweekend zonder lange reistijd: de Cannerberg en het Maasdal geven volop ruimte om de hond los te laten op de hondenlosloopgebieden buiten het centrum.`, travel: `ca. 2 uur rijden via de A2, of NS-trein met dagkaart hond` },
+    ] },
+    { emoji: '🌷', dates: `Meivakantie · za 24 apr t/m zo 2 mei 2027 (incl. Koningsdag di 27 apr)`, label: `Meivakantie`, trip: `Negen dagen: verder de kaart op`, blurb: `Negen dagen is genoeg om verder te rijden dan de buurlanden. Koningsdag valt er middenin, dus vertrek liever een dag eerder of later om de drukte op de weg te vermijden. Het voorjaar is nog fris genoeg voor een hond die niet tegen hitte kan.`, picks: [
+      { slug: 'san-sebastian', why: `De beschutte Concha-baai en pintxos-terrasjes in de lente, met Ondarreta buiten het hoogseizoen toegankelijk voor honden. Een lange rit, maar het weer is het waard.`, travel: `ca. 20 uur rijden via Frankrijk (beter over twee dagen verdelen), of vlucht via Madrid/Bilbao vanaf Schiphol (ca. 3,5 uur met overstap)` },
+      { slug: 'annecy', why: `Het turquoise Alpenmeer met een hondenstrand (Plage des Marquisats) en schaduwrijke oeverpaden, nog rustig voor het hoogseizoen begint.`, travel: `ca. 8,5 uur rijden via Duitsland/Zwitserland, of trein met overstap in Parijs/Genève` },
+      { slug: 'luxembourg', why: `Compact, groen en makkelijk te voet met een hond: de Chemin de la Corniche geeft uitzicht over de oude stad zonder dat je ver hoeft te lopen.`, travel: `ca. 4 uur rijden via de A67/A2, of trein met overstap in Brussel` },
+    ] },
+    { emoji: '🕊️', dates: `Bevrijdingsdag & Hemelvaart · wo 5 mei + do 6 mei 2027`, label: `Bevrijdingsdag/Hemelvaart-brug`, trip: `Lang weekend: vier tot vijf dagen`, blurb: `Bevrijdingsdag valt op woensdag, Hemelvaart op donderdag: samen met een vrije vrijdag krijg je een weekend van vijf dagen. Kort genoeg om dichtbij te blijven, maar lang genoeg voor iets verder dan de buurstad.`, picks: [
+      { slug: 'texel', why: `Het eiland heeft kilometers hondenstrand waar een hond het hele jaar los mag lopen, en de duinpaden van Nationaal Park Duinen van Texel zijn gemaakt voor lange wandelingen.`, travel: `ca. 1,5 uur rijden naar Den Helder plus de TESO-veerboot (hond mag mee op het autodek of buitendek, geen reservering nodig voor de hond)` },
+      { slug: 'antwerp', why: `Een compacte stad met de Cogels-Osylei en het Nachtegalenpark voor lange uitlaatrondes, en een haven waar de wandelpaden zich eindeloos voortzetten.`, travel: `ca. 2 uur rijden via de A16/A1, of NS-trein rechtstreeks naar Antwerpen-Centraal` },
+      { slug: 'dusseldorf', why: `De Rijnoever bij de Altstadt is een lang, vlak wandelpad, en de stad staat bekend als een van de meest hondvriendelijke van Duitsland, met veel cafés die een bakje water klaarzetten.`, travel: `ca. 2 uur rijden via de A12/A3, of directe ICE vanaf Arnhem/Utrecht (muilkorf verplicht)` },
+    ] },
+    { emoji: '🌸', dates: `Pinksterweekend · zo 16 mei + ma 17 mei 2027 (weekend 15-17 mei)`, label: `Pinksterweekend`, trip: `Kort weekend: dichtbij`, blurb: `Een kort weekend van drie dagen, perfect voor een stad die je zonder haast te voet kunt zien. Half mei is Nederland en de buurlanden op hun groenst, en de terrassen gaan weer vol open.`, picks: [
+      { slug: 'scheveningen', why: `Een lang, vlak strand vlak bij huis met vaste hondenstrandzones, plus de Pier voor een wandeling met zeezicht zonder ver te hoeven reizen.`, travel: `binnen Nederland, ca. 1 uur rijden of trein/tram vanaf de meeste steden` },
+      { slug: 'rotterdam', why: `Het Park en de Kop van Zuid geven ruime, autoluwe wandelroutes langs het water, en de stad is over het algemeen soepel met honden in cafés met terras.`, travel: `binnen Nederland, NS-trein rechtstreeks (dagkaart hond nodig als de hond niet in een mand past)` },
+      { slug: 'colmar', why: `Het kleine vakwerkstadje is in een lang weekend goed te overzien, met rustige wandelingen langs de Lauch weg van de drukte.`, travel: `ca. 6 uur rijden via Duitsland/Frankrijk, of trein met overstap in Straatsburg` },
+    ] },
+    { emoji: '☀️', dates: `Zomervakantie · Noord 10 jul-22 aug, Midden 17 jul-29 aug, Zuid 24 jul-5 sep 2027`, label: `Zomervakantie`, trip: `Zes weken: ver weg maar koel`, blurb: `Zes weken schoolvakantie, gespreid over drie regio's zodat je zelf kunt kiezen wanneer je gaat. De ene regel met een hond: mijd de Middellandse Zee in het hoogseizoen, waar het asfalt tot 50°C oploopt en de middagwandeling gevaarlijk wordt. Kies voor hoogte, meren of de koelere Atlantische kust.`, picks: [
+      { slug: 'salzburg', why: `Een basiskamp voor de meren van het Salzkammergut: laat de hond zwemmen in de Wolfgangsee, wandel door koele bossen, en ontsnap aan de hitte in het dal door de hoogte in te trekken.`, travel: `ca. 9 uur rijden via Duitsland, of Nightjet met overstap` },
+      { slug: 'bolzano', why: `Zuid-Tirol is bij hondenbezitters populair om de vele bewegwijzerde wandelpaden direct vanuit de stad, en de Italiaans-Oostenrijkse gastvrijheid tegenover honden in restaurants.`, travel: `ca. 11 uur rijden via Duitsland/Oostenrijk, beter te verdelen over twee dagen` },
+      { slug: 'san-sebastian', why: `De Atlantische kust houdt de Baskische kust in augustus 8-10°C koeler dan de Middellandse Zee. Zeewind, groene heuvels en vroege ochtenduren op het strand voor de hond.`, travel: `ca. 20 uur rijden (verdeel over twee dagen), of vlucht via Madrid/Bilbao vanaf Schiphol` },
+    ] },
+    { emoji: '🍂', dates: `Herfstvakantie · Noord/Midden 16-24 okt, Zuid 23-31 okt 2027`, label: `Herfstvakantie`, trip: `Laatste warmte: een week`, blurb: `Eind oktober is het in Nederland al kil, maar het Iberisch schiereiland blijft nog mild. Een week is genoeg voor het uiterste zuidwesten, waar de zeetemperatuur nog aangenaam is en de hondenstranden weer open zijn na de zomerverboden.`, picks: [
+      { slug: 'porto', why: `Oktobertemperaturen rond 21°C, wandelingen langs de Douro, en de Atlantische stranden bij Foz die weer honden verwelkomen zodra de zomer voorbij is.`, travel: `vlucht vanaf Schiphol, ca. 2,5 uur (kleine hond in de cabine bij sommige maatschappijen, grotere in verwarmd ruim), of ca. 20 uur rijden` },
+      { slug: 'biarritz', why: `De herfst maakt de Baskische kust rustig, en het zomerse hondenverbod op het strand is dan opgeheven, dus de grote stranden gaan weer open voor een lange sprint.`, travel: `ca. 15 uur rijden via Frankrijk, beter over twee dagen, of vlucht via Bordeaux/Bilbao` },
+      { slug: 'freiburg', why: `Een goed te belopen universiteitsstad met het Zwarte Woud op tien minuten voor lange, herfstkleurige boswandelingen ver van de drukte.`, travel: `ca. 5,5 uur rijden via Duitsland, of ICE met overstap in Mannheim` },
+    ] },
+    { emoji: '🎄', dates: `Kerstvakantie · za 25 dec 2027 t/m zo 9 jan 2028`, label: `Kerstvakantie`, trip: `Kerstmarkten: kort tot middellang`, blurb: `De kerstmarkten zijn de reden om in december te reizen, en de kou doet een hond over het algemeen goed. Alles hieronder ligt binnen een dagrit, dus je hoeft niet ver om toch echt van sfeer te wisselen.`, picks: [
+      { slug: 'cologne', why: `Zeven markten in één goed te belopen stad en Duitslands laagste huisdiertoeslagen. Een makkelijke rit over de snelweg zodra je de grens over bent.`, travel: `ca. 2,5 uur rijden via de A61/A4, of ICE vanaf Amsterdam/Utrecht (muilkorf verplicht in Duitsland)` },
+      { slug: 'strasbourg', why: `De grachten van Petite France onder kerstverlichting, en veel terrassen in de Elzas die een hond gewoon binnenlaten bij de open haard.`, travel: `ca. 6,5 uur rijden via Duitsland, of trein met overstap in Straatsburg` },
+      { slug: 'dusseldorf', why: `De Altstadt-kerstmarkt is compact genoeg om met een hond aan de lijn goed te doen, en de Rijnoever geeft ruimte om tussen de kraampjes door even stevig door te lopen.`, travel: `ca. 2 uur rijden via de A12/A3, of directe ICE vanaf Arnhem/Utrecht` },
+    ] },
+  ] },
 }
 
 // One far, flight-reachable idea appended to each period (index-aligned to that
@@ -353,6 +400,17 @@ const FAR: Record<LocaleKey, Pick[]> = {
     { slug: 'funchal', why: `Madeira hat ein mildes Klima fast das ganze Jahr über und im Herbst angenehme 22 Grad. Die grünen Levada-Wege rund um Funchal eignen sich hervorragend für lange Hundewanderungen.`, travel: `Ca. 4 Stunden Flug ab Frankfurt/München. Kleine Hunde in der Kabine, größere im Frachtraum. EU-Heimtierausweis erforderlich.` },
     { slug: 'marrakech', why: `Marrakesch überrascht im Oktober mit warmen, trockenen Tagen und einer ganz anderen Kulisse als die üblichen Nahziele. Für ein kurzes Wochenende lohnt sich der Kontrast besonders.`, travel: `Ca. 3,5 Stunden Flug ab Frankfurt/München. Marokko ist nicht EU, zusätzlich zum Heimtierausweis braucht es eine Einfuhrgenehmigung und tierärztliche Bescheinigung, rechtzeitig planen.` },
     { slug: 'maspalomas', why: `Gran Canaria bietet über Weihnachten verlässlich Sonne und milde Temperaturen statt grauem Winterwetter. Die Dünen von Maspalomas laden zu langen Spaziergängen mit dem Hund ein.`, travel: `Ca. 4,5 Stunden Flug ab Frankfurt/München. Kleine Hunde bis 8 kg in der Kabine, größere im klimatisierten Frachtraum. EU-Heimtierausweis nötig.` },
+  ],
+  nl: [
+    { slug: 'tenerife', why: `Tenerife biedt ook in januari nog 18-20°C en veel hondenstranden buiten het hoogseizoen, zoals Playa de la Tejita. Een echte reset na de grijze decembermaand thuis.`, travel: `directe vlucht vanaf Schiphol, ca. 4,5 uur. KLM neemt kleine honden tot 8 kg mee in de cabine, grotere honden reizen in het verwarmde ruim. EU-dierenpaspoort verplicht.` },
+    { slug: 'lanzarote', why: `Het vulkanische landschap betekent droge, goed beloopbare paden, ook in februari, met temperaturen die prettig in de hoge tienen blijven. Rustiger dan de grotere Canarische eilanden.`, travel: `ca. 4,5 uur vlucht vanaf Schiphol. Kleine hond in de cabine bij sommige maatschappijen, grotere honden in het verwarmde ruim. EU-dierenpaspoort nodig.` },
+    { slug: 'corfu', why: `Korfoe is in april groen en bloeiend zonder de zomerhitte, met schaduwrijke wandelingen tussen de olijfgaarden en rustige baaien die veel beter bij een hond passen dan een strand in het hoogseizoen.`, travel: `ca. 3,5 uur vlucht vanaf Schiphol. Kleine hond in de cabine, grotere in het ruim. EU-dierenpaspoort volstaat, geen extra formaliteiten binnen de EU.` },
+    { slug: 'paphos', why: `Cyprus biedt betrouwbare lentezon en kustpaden rond het archeologisch park die prettig zijn voor de hond voordat het eiland te heet wordt. Een verdere bestemming voor wie de meivakantie echt wil benutten.`, travel: `ca. 4,5 uur vlucht vanaf Schiphol. Kleine hond in de cabine bij sommige maatschappijen, grotere in het verwarmde ruim. EU-dierenpaspoort verplicht.` },
+    { slug: 'valletta', why: `Malta is in mei al zomers zonder de felste hitte, en de korte afstanden tussen de bezienswaardigheden maken het compact reizen met een hond aan de lijn.`, travel: `ca. 3,5 uur vlucht vanaf Schiphol. Kleine hond soms in de cabine, check per maatschappij; grotere honden in het verwarmde ruim. EU-dierenpaspoort nodig.` },
+    { slug: 'rhodes', why: `Rhodos is eind mei warm maar nog niet verzengend, met geplaveide straatjes in de oude stad en pijnbossen die schaduw en afwisseling geven naast het strand.`, travel: `ca. 4 uur vlucht vanaf Schiphol. Kleine hond in de cabine bij sommige maatschappijen, grotere in het verwarmde ruim. EU-dierenpaspoort verplicht.` },
+    { slug: 'heraklion', why: `Kreta compenseert de zomerhitte met kristalhelder water om de hond af te koelen. Plan lange wandelingen alleen vroeg in de ochtend of bij zonsondergang, nooit rond het middaguur.`, travel: `ca. 4 uur vlucht vanaf Schiphol. Check in de zomer of de maatschappij een verwarmd/gekoeld ruim garandeert, het asfalt op het platform kan de pootjes verbranden.` },
+    { slug: 'funchal', why: `Madeira blijft door de Atlantische ligging milder dan de Middellandse Zee, dus het is een zon-optie zonder het ergste hitterisico voor de hond. De levada-paden liggen in de schaduw en er is altijd een koele zeebries.`, travel: `ca. 4,5 uur vlucht vanaf Schiphol, meestal met overstap. Kleine hond in de cabine, grotere in het ruim, en plan de reis in de vroege ochtend of avond om de hitte te vermijden.` },
+    { slug: 'maspalomas', why: `Gran Canaria biedt rond de kerst betrouwbaar zon en milde temperaturen in plaats van grijs winterweer thuis. De duinen van Maspalomas zijn vlak en goed te belopen met de hond.`, travel: `ca. 4,5 uur vlucht vanaf Schiphol. Kleine hond tot 8 kg in de cabine, grotere honden in het verwarmde ruim. EU-dierenpaspoort verplicht.` },
   ],
 }
 
@@ -491,6 +549,31 @@ const COPY: Record<LocaleKey, {
     ],
     sticky: { label: 'Haustierfreundliche Hotels für die Ferien 2027', cta: 'Hotels ansehen' },
   },
+  nl: {
+    eyebrow: 'SCHOOLVAKANTIES NEDERLAND 2027 · REIZEN MET HOND',
+    title: 'Waar naartoe met je hond in de schoolvakanties en op feestdagen 2027',
+    intro: 'Een periode-voor-periode plan door de echte Nederlandse schoolkalender van 2027: voor elke vakantie en elk lang weekend twee of drie reisideeën met je hond, de eerlijke reistijd vanuit Nederland, en drie echte hotels over verschillende budgetten. Een lang weekend blijft dichtbij; een of twee weken maken de langere rit de moeite waard. We houden rekening met de hondenrealiteit: zomerhitte, seizoensgebonden strandverboden en de regels voor de trein.',
+    note: 'De data volgen de officiële Nederlandse schoolvakanties 2027 (Rijksoverheid, gestaffeld per regio Noord/Midden/Zuid) en de nationale feestdagen. Check altijd de vakantiedata van jouw eigen school of regio.',
+    calTitle: 'De kalender van 2027 in één oogopslag', schoolLabel: 'Schoolvakanties', holsLabel: 'Feestdagen',
+    travelLabel: 'Reizen vanuit Nederland', whyLabel: 'Waarom hier', staysLabel: 'Waar overnachten, per budget', farLabel: 'Met het vliegtuig',
+    tierBudget: 'Budget', tierMid: 'Middenklasse', tierPremium: 'Premium',
+    from: 'vanaf', night: 'nacht', petFeeNil: 'Geen huisdiertoeslag', petFee: 'huisdiertoeslag', bookCta: 'Data bekijken →', destCta: 'Volledige stadsgids →',
+    practicalHeading: 'Plannen rond de kalender van 2027',
+    practical: [
+      { h: 'De hond in de trein', p: 'NS: een hond mag gratis mee in een gesloten mand die in de bagageruimte past, anders is een dagkaart hond nodig (aangelijnd, muilkorf aanbevolen). In Duitsland en België gelden vaak vergelijkbare regels, maar check altijd de muilkorfplicht van het land waar je naartoe reist.' },
+      { h: 'Match de afstand met je vrije dagen', p: 'Een lang weekend van drie tot vijf dagen = binnen 2-3 uur rijden (België, West-Duitsland). Een vakantieweek = een buurland verder, zoals Oostenrijk of het Iberisch schiereiland. De zes weken zomervakantie = de lange rit naar de Alpen of het zuiden waard.' },
+      { h: 'Zomerhitte is het echte risico', p: 'Vermijd in juli en augustus de Middellandse Zee rond het middaguur: het wegdek loopt op tot 50°C en verbrandt de pootjes, en een auto wordt binnen minuten dodelijk. Kies voor meren, hoogte of de koelere Atlantische kust, en wandel alleen bij zonsopgang en zonsondergang.' },
+      { h: 'Seizoensgebonden strandverboden', p: 'De meeste Franse, Spaanse en Portugese stranden verbieden honden tijdens het badseizoen (ongeveer juni-september) en heropenen de rest van het jaar. De voorjaarsvakantie, de meivakantie en de herfstvakantie vallen in de open periodes, een stil voordeel van reizen rond de schoolvakanties.' },
+    ],
+    faqHeading: 'Veelgestelde vragen',
+    faqs: [
+      { q: 'Mag mijn hond mee in de trein voor deze vakanties?', a: 'Ja. Bij de NS reist een hond in een gesloten mand gratis mee; past de hond er niet in, dan is een dagkaart hond nodig en moet hij aangelijnd blijven. In Duitsland en België gelden losse regels, dus check dit vooraf per traject.' },
+      { q: 'Zijn de schoolvakanties overal in Nederland gelijk?', a: 'Nee. De voorjaars-, mei- en zomervakantie zijn gestaffeld over regio Noord, Midden en Zuid, terwijl de herfst- en kerstvakantie grotendeels landelijk vastliggen. Check altijd de vakantiedata van jouw eigen regio voor je boekt.' },
+      { q: 'Welke vakantie van 2027 is het beste voor een eerste reis met hond?', a: 'Het paasweekend of de meivakantie. Het weer is mild, de afstanden blijven overzichtelijk, en twee of drie nachten laten een onervaren hond wennen aan reizen zonder een lange rit.' },
+      { q: 'Wanneer kun je beter de Middellandse Zee met hond mijden?', a: 'In het hoogseizoen (juli-augustus). De hitte is echt gevaarlijk en de meeste zuidelijke stranden verbieden honden in die maanden sowieso. Bewaar het zuiden voor de voorjaars- of herfstvakantie, mild en met open hondenstranden.' },
+    ],
+    sticky: { label: 'Huisdiervriendelijke hotels voor de vakanties van 2027', cta: 'Bekijk hotels' },
+  },
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
@@ -508,6 +591,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         es: `${SITE_URL}/es/guides/${SLUG}`,
         pt: `${SITE_URL}/pt/guides/${SLUG}`,
         de: `${SITE_URL}/de/guides/${SLUG}`,
+        nl: `${SITE_URL}/nl/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },
@@ -644,6 +728,29 @@ const CAL_SUMMARY: Record<LocaleKey, { school: CalRow[]; public: CalHol[] }> = {
       { name: 'Deutsche Einheit', date: 'So. 3. Okt' },
       { name: '1. Weihnachtstag', date: 'Sa. 25. Dez' },
       { name: '2. Weihnachtstag', date: 'So. 26. Dez' },
+    ],
+  },
+  nl: {
+    school: [
+      { name: 'Kerstvakantie (start jaar)', dates: 'za 19 dec 2026 t/m zo 3 jan 2027 (heel Nederland)' },
+      { name: 'Voorjaarsvakantie', dates: 'Zuid 13-21 feb, Noord/Midden 20-28 feb 2027' },
+      { name: 'Meivakantie', dates: 'za 24 apr t/m zo 2 mei 2027 (heel Nederland)' },
+      { name: 'Zomervakantie', dates: 'Noord 10 jul-22 aug, Midden 17 jul-29 aug, Zuid 24 jul-5 sep 2027' },
+      { name: 'Herfstvakantie', dates: 'Noord/Midden 16-24 okt, Zuid 23-31 okt 2027' },
+      { name: 'Kerstvakantie (eind jaar)', dates: 'za 25 dec 2027 t/m zo 9 jan 2028 (heel Nederland)' },
+    ],
+    public: [
+      { name: 'Nieuwjaarsdag', date: 'vr 1 jan' },
+      { name: 'Goede Vrijdag', date: 'vr 26 mrt' },
+      { name: '1e Paasdag', date: 'zo 28 mrt' },
+      { name: '2e Paasdag', date: 'ma 29 mrt' },
+      { name: 'Koningsdag', date: 'di 27 apr' },
+      { name: 'Bevrijdingsdag', date: 'wo 5 mei' },
+      { name: 'Hemelvaartsdag', date: 'do 6 mei' },
+      { name: '1e Pinksterdag', date: 'zo 16 mei' },
+      { name: '2e Pinksterdag', date: 'ma 17 mei' },
+      { name: '1e Kerstdag', date: 'za 25 dec' },
+      { name: '2e Kerstdag', date: 'zo 26 dec' },
     ],
   },
 }

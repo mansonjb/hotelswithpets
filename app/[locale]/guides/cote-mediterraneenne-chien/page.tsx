@@ -21,6 +21,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     es: 'Costa mediterránea con tu perro: Niza → Génova → Florencia → Roma (itinerario 10 días)',
     pt: 'Costa mediterrânea com tu cão: Niza → Génova → Florencia → Roma (itinerario 10 dias)',
     de: 'Mittelmeerküste mit Ihrem Hund: Nizza → Genua → Florenz → Rom (10-Tage-Reiseroute)',
+    nl: 'Middellandse Zeekust met je hond: Nice → Genua → Florence → Rome (10-daagse reisroute)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 10-day Mediterranean train itinerary with your dog along the French and Italian coast. Pet-friendly hotels, live Booking.com maps, summer beach rules and emergency vets in each city.',
@@ -28,6 +29,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     es: 'Itinerario mediterráneo de 10 días en tren con tu perro por la costa francesa e italiana. Hoteles que admiten mascotas, mapas Booking.com en vivo, normas de playa estivales y veterinarios de urgencias.',
     pt: 'Itinerario mediterrâneo de 10 dias de comboio com tu cão pela costa francesa e italiana. Hotéis que admiten animais, mapas Booking.com en vivo, normas de praia estivales e veterinários de urgências.',
     de: 'Eine 10-tägige Bahnreise entlang der Mittelmeerküste mit Ihrem Hund an der französischen und italienischen Küste. Haustierfreundliche Hotels, Live-Karten von Booking.com, Sommer-Strandregeln und Notfall-Tierärzte in jeder Stadt.',
+    nl: 'Een treinreis van 10 dagen langs de Middellandse Zeekust met je hond, van de Franse tot de Italiaanse kust. Hondvriendelijke hotels, live kaarten van Booking.com, zomerse strandregels en spoedeisende dierenartsen in elke stad.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -41,6 +43,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         es: `${SITE_URL}/es/guides/${SLUG}`,
         pt: `${SITE_URL}/pt/guides/${SLUG}`,
         de: `${SITE_URL}/de/guides/${SLUG}`,
+        nl: `${SITE_URL}/nl/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },
@@ -275,6 +278,50 @@ const COPY: Record<string, RouteCopy> = {
       { q: 'Kann ich Neapel oder die Amalfiküste hinzufügen?', a: 'Ja, der Frecciarossa Rom → Neapel braucht 1 Std. 10 Min. und ist haustierfreundlich. Die SITA-Busse der Amalfiküste akzeptieren Hunde an der Leine. Die meisten Küstenorte haben Sommerbeschränkungen am Strand.' },
     ],
   },
+  nl: {
+    hero: { tagline: 'MIDDELLANDSE ZEEROUTE · 10 DAGEN · MET JE HOND', title: 'Een treinreis langs de Middellandse Zeekust met je hond', subtitle: 'Nice, Genua, Florence, Rome, vier iconische steden aan de Franse en Italiaanse Rivièra, verbonden door directe treinen. Hondvriendelijke hotels, hondenstranden en de live Booking.com-kaart voor elke stop.' },
+    why: { title: 'Waarom deze mediterrane route werkt voor hondenbezitters', bullets: [
+      'Rechtstreekse Thello-/Trenitalia-treinen de hele weg, je hond zit naast je, niet in het ruim.',
+      'Alle vier de steden hebben officiële hondvriendelijke stranden of zwemplekken binnen 30 minuten.',
+      'De Italiaanse wet staat honden standaard toe in restaurants, terrasjes zijn overal de norm.',
+      'Geen grensrompslomp binnen Schengen, alleen een EU-dierenpaspoort met een geldige rabiësvaccinatie nodig.',
+      'Vermijd juli-augustus: het asfalt loopt op tot 55 °C en de meeste stranden verbieden honden van 15 mei tot 30 september. Mei, juni, september, oktober zijn ideaal.',
+    ] },
+    stats: { duration: 'Duur', cities: 'Steden', transport: 'Vervoer', budget: 'Budget', durationVal: '10 dagen', citiesVal: '4 steden', transportVal: 'Trein (Thello / Trenitalia / Frecciarossa)', budgetVal: '€1.000-€2.200' },
+    citiesIntro: { kicker: 'STAD VOOR STAD', title: 'Jouw stops, jouw hotels, jouw kaart' },
+    cities: {
+      nice: { days: 'Dag 1-3', intro: "Begin op de Franse Rivièra. Nice is een van de meest hondvriendelijke grote steden van Frankrijk: tramlijn T1 neemt honden gratis mee, de 7 km lange Promenade des Anglais is helemaal aan de lijn te belopen, en drie officiële hondenstranden (Carras, Magnan, Lenval) zijn het hele jaar open. De smalle geplaveide straatjes van de oude stad en de markt van Cours Saleya verwelkomen honden aan de lijn. Let op: de kiezelstranden van Nice zijn hard voor pootjes, hondenschoentjes helpen.", highlight: 'Een must met je hond: zonsopgang op de Promenade des Anglais', highlightDesc: 'Loop de volle 7 km van het vliegveld tot aan de Quai des États-Unis tijdens het gouden uur, en herstel daarna op een terras in Vieux-Nice. De meeste terrasjes accepteren honden aan de lijn en brengen ongevraagd een waterbakje.' },
+      genoa: { days: 'Dag 4-5', intro: "Drie uur met de Thello-trein langs de Italiaanse Rivièra. Genua is de meest onderschatte hondvriendelijke stad van Italië: een doolhofachtige middeleeuwse oude stad (de grootste van Europa), de Spianata Castelletto met panoramisch uitzicht, en directe treinen naar hondenstrandplaatsjes zoals Bogliasco en Camogli. De smalle steegjes (carruggi) van het historische centrum maken autovrij wandelen de standaard, perfect met een hond.", highlight: 'Een must met je hond: een dagtrip naar de Cinque Terre', highlightDesc: 'Trenitalia vanaf Genova-Brignole bereikt Monterosso in 1u20, honden aan de lijn reizen voor de halve prijs. De vijf dorpjes hebben wandelpaden langs zee waar honden welkom zijn (buiten het seizoen, het zomerse strandverbod geldt van 15 mei tot 30 september).' },
+      florence: { days: 'Dag 6-8', intro: "Directe Frecciarossa vanaf Genova-Piazza-Principe (3u, hondenticket ~€20). Florence is klein genoeg om helemaal met je hond te belopen, en de Italiaanse cafécultuur laat je overal eten, zelfs Michelin-restaurants accepteren honden aan de lijn op het terras. Het Cascine-park (160 ha langs de Arno) heeft loslopen-zones; de Boboli-tuinen accepteren honden aan de lijn met het gewone ticket. Vermijd de Uffizi en de Accademia (geen huisdieren).", highlight: 'Een must met je hond: Piazzale Michelangelo bij zonsondergang', highlightDesc: 'Klim vanaf de Ponte alle Grazie (de hondvriendelijke route via Costa San Giorgio duurt 25 min) voor het ansichtkaartuitzicht op de Duomo. Het terras blijft tot laat koel en honden rennen op de gazons net onder de balustrade.' },
+      rome: { days: 'Dag 9-10', intro: "Frecciarossa vanaf Florence in 1u30 (het snelste stuk). Rome is enorm en zwaar in het hoogseizoen, maar lente en herfst zijn spectaculair: de Villa Borghese (80 ha) en de Via Appia Antica (3.500 ha aan Romeinse wegen) zijn hondvriendelijk aan de lijn. De meeste trattoria's en cafés accepteren honden aan buitentafels. De metro vereist lijn en muilkorf; de tram is makkelijker voor angstige honden.", highlight: 'Een must met je hond: de Via Appia Antica op zondag', highlightDesc: 'Op zondag zijn de eerste 5 km van de antieke Romeinse weg autovrij. Huur een hondvriendelijke e-bike bij Bar Caffè dell\'Appia en leg 10 km af tussen parasoldennen, ruïnes en grazende schapen. Honden zijn er dol op.' },
+    },
+    hotelsLabel: 'Aanbevolen hondvriendelijke hotels',
+    bookLabel: 'Boeken op Booking.com',
+    detailsLabel: 'Details',
+    mapLabel: 'Live kaart, alle hondvriendelijke hotels',
+    legsTitle: 'Vervoer tussen de steden',
+    legs: [
+      { from: 'Nice', to: 'Genua', duration: '~3u', service: 'Thello / Trenitalia regionaal (rechtstreeks, schilderachtig langs de kust)', petRule: 'Kleine honden gratis in draagtas, grotere honden hebben een ticket tegen halve prijs nodig. Lijn + muilkorf verplicht.' },
+      { from: 'Genua', to: 'Florence', duration: '~3u', service: 'Frecciarossa / Frecciargento (rechtstreeks)', petRule: 'Kleine honden gratis. Grotere honden hebben een Frecciarossa-hondenticket nodig (~€20-25). Online te boeken.' },
+      { from: 'Florence', to: 'Rome', duration: '~1u30', service: 'Frecciarossa (rechtstreeks, elke 30 min)', petRule: 'Dezelfde Trenitalia-regels. De Frecciarossa is de snelste en rustigste optie.' },
+    ],
+    practicalTitle: 'Voor je vertrekt: papierwerk, vaccinaties, dierenartscontacten',
+    practicalBullets: [
+      'EU-dierenpaspoort met geldige rabiësvaccinatie (21+ dagen oud, minder dan 12 maanden voor de standaard jaarlijkse prik).',
+      'Microchip ISO 11784/11785, verplicht en moet overeenkomen met het nummer op het paspoort.',
+      'GEEN lintwormbehandeling nodig (alleen voor UK / Ierland / Finland / Noorwegen / Malta).',
+      'De Italiaanse wet (Legge 281/1991) staat honden standaard toe in restaurants en winkels. Een bordje "vietato l\'ingresso ai cani" betekent nee, op de meeste andere plekken mag het gewoon.',
+      'Bewaar deze 24/7-spoedartsen: Nice (CHV des Cordeliers Nice, +33 4 93 80 26 90), Genua (Clinica Veterinaria San Giorgio, +39 010 8602004), Florence (Clinica Veterinaria Valdinievole, +39 0573 794500), Rome (Clinica Veterinaria Roma Sud, +39 06 7842277).',
+    ],
+    faqTitle: 'Veelgestelde vragen',
+    faqs: [
+      { q: 'Kan mijn hond zwemmen aan het strand?', a: 'In Italië verbieden de meeste stranden honden van 15 mei tot 30 september, tenzij het een officieel "Spiagge Cani" is. Nice heeft 3 hondenstranden die het hele jaar open zijn. De Liguriaanse kust rond Genua heeft er meerdere. Florence en Rome liggen landinwaarts, zie de praktische info voor de dichtstbijzijnde opties.' },
+      { q: 'Hoeveel kost de reis?', a: 'Reken op €1.000-€2.200 afhankelijk van de hotelcategorie. Treintickets samen ~€350-€550 voor 2 volwassenen + 1 hond bij boeking 4-6 weken van tevoren. De hondentoeslag ligt tussen €0 en €50 per stop.' },
+      { q: 'Wanneer is de beste tijd om te gaan?', a: 'Mei, juni, september en begin oktober zijn ideaal: 18-26 °C, geen strandverbod-gedoe buiten het hoogseizoen, en volledige hotelbeschikbaarheid. Juli-augustus zijn zwaar met een hond (hitte + strandbeperkingen).' },
+      { q: 'Is de metro hondvriendelijk?', a: "Florence heeft geen metro. Tramlijn T1 in Nice is het meest hondvriendelijk. De metro's van Genua en Rome vereisen lijn + muilkorf voor middelgrote/grote honden. Neem een zachte muilkorf mee." },
+      { q: 'Kan ik Napels of de Amalfikust toevoegen?', a: 'Ja, Frecciarossa Rome → Napels duurt 1u10 en is hondvriendelijk. De SITA-bussen van de Amalfikust accepteren honden aan de lijn. De meeste kustplaatsjes hebben zomerse strandbeperkingen.' },
+    ],
+  },
 }
 
 function buildSticky(locale: string): StickyConfig {
@@ -286,8 +333,9 @@ function buildSticky(locale: string): StickyConfig {
     es: 'Hoteles pet-friendly costa mediterránea',
     pt: `Hotéis pet-friendly costa mediterrânica`,
     de: 'Haustierfreundliche Hotels Mittelmeerküste',
+    nl: 'Hondvriendelijke hotels Middellandse Zeekust',
   }
-  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen' }
+  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen', nl: 'Bekijken' }
   return { href, label: labels[locale] ?? labels.en, cta: ctas[locale] ?? ctas.en }
 }
 

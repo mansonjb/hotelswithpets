@@ -41,9 +41,13 @@
           "tipPt": "Fica exatamente onde o passeio ribeirinho encontra a estação de Flinders Street, pelo que funciona como paragem entre os jardins botânicos e o centro.",
           "googleMapsUrl": "https://maps.google.com/?q=Arbory+Bar+and+Eatery+Flinders+Walk+Melbourne",
           "descriptionDe": "Eine lange, komplett unter freiem Himmel liegende Bar mit Restaurant entlang der alten Sandridge-Bahnsteige zwischen Flinders Street Station und dem Yarra. Hunde sind an den Außentischen mit Flussblick willkommen, was den Großteil des Lokals ausmacht.",
+          "descriptionNl": "Een lange, volledig openluchtbar met restaurant langs de oude Sandridge-perrons tussen Flinders Street Station en de Yarra. Honden zijn welkom aan de buitentafels met uitzicht op de rivier, die het grootste deel van de zaak uitmaken.",
           "petPolicyDe": "Hunde an der Leine an den Außentischen und Barhockern am Fluss willkommen.",
+          "petPolicyNl": "Aangelijnde honden welkom aan de buitentafels en barkrukken bij de rivier.",
           "mustTryDe": "Ein Spritz am Nachmittag mit Gerichten vom Holzofen, während Sie den Ruderern auf dem Birrarung zusehen",
-          "tipDe": "Es liegt genau dort, wo der Uferweg auf die Flinders Street Station trifft, also eignet es sich als Rastplatz zwischen den Botanischen Gärten und dem CBD."
+          "mustTryNl": "Een middagspritz met gerechten uit de houtoven, terwijl je de roeiers op de Birrarung bekijkt",
+          "tipDe": "Es liegt genau dort, wo der Uferweg auf die Flinders Street Station trifft, also eignet es sich als Rastplatz zwischen den Botanischen Gärten und dem CBD.",
+          "tipNl": "Het ligt precies waar het rivierpad de Flinders Street Station raakt, ideaal dus als rustpunt tussen de botanische tuinen en het CBD."
         },
         {
           "name": "Bodriggy Brewing Company",
@@ -71,9 +75,13 @@
           "tipPt": "Combine com um passeio no trilho do Yarra em Dights Falls, a poucos minutos para leste, antes de se instalar.",
           "googleMapsUrl": "https://maps.google.com/?q=Bodriggy+Brewing+245+Johnston+Street+Abbotsford",
           "descriptionDe": "Ein umgebautes Lagerhaus-Brauhaus in Abbotsford mit eigenen Tanks hinter Glas und einer Speisekarte, die weit über übliches Pub-Essen hinausgeht. Angeleinte, gut erzogene Hunde sind im straßenseitigen Außenbereich willkommen.",
+          "descriptionNl": "Een verbouwd pakhuisbrouwerij in Abbotsford met eigen tanks achter glas en een menu dat ver uitstijgt boven gewoon pub-eten. Aangelijnde, goed opgevoede honden zijn welkom in het buitengedeelte aan de straat.",
           "petPolicyDe": "Angeleinte, gut erzogene Hunde im straßenseitigen Außenbereich willkommen.",
+          "petPolicyNl": "Aangelijnde, goed opgevoede honden welkom in het buitengedeelte aan de straat.",
           "mustTryDe": "Eine Verkostungsauswahl der hauseigenen Biere mit etwas vom Holzgrill",
-          "tipDe": "Kombinieren Sie es mit einem Spaziergang auf dem Yarra Trail bei den Dights Falls, ein kurzes Stück östlich, bevor Sie sich niederlassen."
+          "mustTryNl": "Een proeverij van de eigen bieren met iets van de houtgrill",
+          "tipDe": "Kombinieren Sie es mit einem Spaziergang auf dem Yarra Trail bei den Dights Falls, ein kurzes Stück östlich, bevor Sie sich niederlassen.",
+          "tipNl": "Combineer het met een wandeling op het Yarra Trail bij de Dights Falls, een klein stukje oostwaarts, voordat je gaat zitten."
         },
         {
           "name": "Lord Newry Hotel",
@@ -101,9 +109,13 @@
           "tipPt": "Os Edinburgh Gardens têm a sua própria zona sem trela, por isso uma corrida primeiro e depois almoço aqui é a sequência clássica de Fitzroy North.",
           "googleMapsUrl": "https://maps.google.com/?q=Lord+Newry+Hotel+543+Brunswick+Street+Fitzroy+North",
           "descriptionDe": "Ein grün gefliester Eckpub in Fitzroy North mit großem Außenbereich, wenige Minuten von den Edinburgh Gardens entfernt. Es ist einer der verlässlichen Stopps im Inner North, wo Hunde selbstverständlich dazugehören und nicht als Gefallen geduldet werden.",
+          "descriptionNl": "Een groen betegelde hoekkroeg in Fitzroy North met groot buitengedeelte, enkele minuten van de Edinburgh Gardens. Het is een van de betrouwbare stops in Inner North, waar honden vanzelfsprekend bij horen en niet als gunst worden geduld.",
           "petPolicyDe": "Hunde an der Leine im Außenbereich willkommen.",
+          "petPolicyNl": "Aangelijnde honden welkom in het buitengedeelte.",
           "mustTryDe": "Ein Sunday Roast draußen nach einer Runde durch die Edinburgh Gardens",
-          "tipDe": "Die Edinburgh Gardens haben einen eigenen Freilaufbereich, ein Auslauf davor und danach Mittagessen hier ist die klassische Abfolge in Fitzroy North."
+          "mustTryNl": "Een Sunday Roast buiten na een rondje door de Edinburgh Gardens",
+          "tipDe": "Die Edinburgh Gardens haben einen eigenen Freilaufbereich, ein Auslauf davor und danach Mittagessen hier ist die klassische Abfolge in Fitzroy North.",
+          "tipNl": "De Edinburgh Gardens hebben een eigen losloopgebied, uitlaten ervoor en daarna hier lunchen is de klassieke volgorde in Fitzroy North."
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants und Bars in Melbourne",
+      "titleNl": "Hondvriendelijke restaurants en bars in Melbourne",
       "introDe": "Melbourne hat sich seinen Ruf mit Kaffee in den Laneways und Biergärten aufgebaut, und genau diese Outdoor-Kultur macht es mit Hund so einfach. Die viktorianischen Lebensmittelhygienevorschriften halten Tiere aus den Innenräumen der Gastronomie fern, sodass sich das ganze Geschehen auf Gehwegtischen, Innenhöfen und Terrassen am Fluss abspielt, wovon die Stadt reichlich hat. Bringen Sie eine Matte mit, fragen Sie vor dem Hinsetzen nach, und im Inner North sowie entlang des Yarra dürfen Sie damit rechnen, dass ungefragt ein Wassernapf auftaucht.",
+      "introNl": "Melbourne heeft zijn reputatie opgebouwd met koffie in de laneways en biertuinen, en juist die buitencultuur maakt het zo makkelijk met hond. De Victoriaanse voedselhygiënevoorschriften houden dieren weg uit de binnenruimtes van de horeca, dus alles speelt zich af op stoeptafels, binnenplaatsen en terrassen bij de rivier, waarvan de stad er volop heeft. Neem een matje mee, vraag voor je gaat zitten, en in Inner North en langs de Yarra kun je erop rekenen dat er ongevraagd een waterbakje verschijnt.",
       "faqsDe": [
         {
           "q": "Darf mein Hund in ein Café oder Restaurant in Melbourne mit hinein?",
@@ -196,6 +210,20 @@
         {
           "q": "Stellen die Lokale Wassernäpfe zur Verfügung?",
           "a": "Viele tun das, besonders im Inner North, aber verlassen Sie sich nicht darauf. An Sommertagen in Melbourne kann die Temperatur ohne große Vorwarnung über 35 Grad steigen, tragen Sie also immer einen faltbaren Napf und eigenes Wasser bei sich, wenn Sie nachmittags unterwegs sind."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond mee naar binnen in een café of restaurant in Melbourne?",
+          "a": "Meestal niet. De Victoriaanse voedselhygiëneverordening houdt dieren weg uit binnenruimtes van de horeca en voedselbereidingszones, met uitzondering van assistentiehonden. Wat Melbourne in de plaats biedt, is een van de grootste aanbodden buitenzitplaatsen van heel Australië: stoeptafels, binnenplaatsen in de laneways, biertuinen en terrassen bij de rivier, waar honden op veel plekken welkom zijn."
+        },
+        {
+          "q": "In welke wijken van Melbourne is uit eten gaan met hond het makkelijkst?",
+          "a": "Inner North rond Fitzroy, Fitzroy North, Collingwood, Abbotsford en Brunswick biedt de dichtste concentratie kroegen en brouwerijen met buitengedeeltes, en de Yarra-oeverpromenade in het CBD vult dit aan met beschutte opties zoals Arbory. Ook de buitenwijken aan de baai bij de hondenstranden zijn prima voor een lunch na het zwemmen."
+        },
+        {
+          "q": "Bieden de zaken waterbakjes aan?",
+          "a": "Veel doen dat, vooral in Inner North, maar reken er niet op. Op zomerse dagen in Melbourne kan de temperatuur zonder veel waarschuwing boven de 35 graden uitkomen, draag dus altijd een opvouwbaar bakje en eigen water bij je als je 's middags onderweg bent."
         }
       ]
     },
@@ -228,7 +256,9 @@
           "tipEs": "El zoo de Melbourne está dentro del perímetro del parque y no admite perros, así que limita el paseo a las praderas oeste y norte.",
           "tipPt": "O jardim zoológico de Melbourne fica dentro do perímetro do parque e não admite cães, por isso limite o passeio às pradarias oeste e norte.",
           "descriptionDe": "Mit rund 170 Hektar ist der Royal Park der größte Park der City of Melbourne und verfügt über drei separate Freilaufzonen: die Rasenfläche südlich der Macarthur Road sowie Poplar Oval und McPherson Field im nördlichen Teil. Die offenen Wiesenflächen und einheimischen Pflanzungen lassen ihn viel größer wirken, als es die Entfernung zum CBD vermuten lässt.",
-          "tipDe": "Der Melbourne Zoo liegt innerhalb der Parkgrenzen und lässt keine Hunde zu, beschränken Sie den Spaziergang also auf die westlichen und nördlichen Wiesenflächen."
+          "descriptionNl": "Met ongeveer 170 hectare is het Royal Park het grootste park van de City of Melbourne en heeft het drie aparte losloopzones: het grasveld ten zuiden van Macarthur Road, en Poplar Oval en McPherson Field in het noordelijke deel. De open weilanden en inheemse beplanting doen het veel groter aanvoelen dan de afstand tot het CBD zou doen vermoeden.",
+          "tipDe": "Der Melbourne Zoo liegt innerhalb der Parkgrenzen und lässt keine Hunde zu, beschränken Sie den Spaziergang also auf die westlichen und nördlichen Wiesenflächen.",
+          "tipNl": "De Melbourne Zoo ligt binnen de grenzen van het park en laat geen honden toe, beperk de wandeling dus tot de westelijke en noordelijke weilanden."
         },
         {
           "name": "Princes Park",
@@ -249,7 +279,9 @@
           "tipEs": "Las zonas sin correa no están valladas y el camino perimetral está lleno de corredores y ciclistas, así que la llamada debe ser sólida antes de soltar.",
           "tipPt": "As zonas sem trela não são vedadas e o caminho perimetral tem muitos corredores e ciclistas, por isso o chamamento tem de ser sólido antes de soltar.",
           "descriptionDe": "Ein Rechteck aus flachem, offenem Rasen, umgeben von einer beliebten 3,2 km langen Kies-Laufstrecke, mit zwei unumzäunten Freilaufzonen: Crawford Oval im Süden und dem nördlichen Streifen entlang des Bowen Crescent. Es ist der lokale Standardort zum Ballwerfen und mit der Tramlinie 1 gut zu erreichen.",
-          "tipDe": "Die Freilaufzonen sind unumzäunt und der Rundweg ist stark von Läufern und Radfahrern frequentiert, der Rückruf sollte also zuverlässig sitzen, bevor Sie die Leine abnehmen."
+          "descriptionNl": "Een rechthoek van vlak, open gras, omringd door een populair kiezelpad van 3,2 km, met twee onomheinde losloopzones: Crawford Oval in het zuiden en de noordelijke strook langs Bowen Crescent. Het is de lokale standaardplek om te gooien met de bal en goed bereikbaar met tramlijn 1.",
+          "tipDe": "Die Freilaufzonen sind unumzäunt und der Rundweg ist stark von Läufern und Radfahrern frequentiert, der Rückruf sollte also zuverlässig sitzen, bevor Sie die Leine abnehmen.",
+          "tipNl": "De losloopzones zijn onomheind en het rondje wordt druk gebruikt door lopers en fietsers, de terugroep moet dus betrouwbaar zijn voordat je de lijn loslaat."
         },
         {
           "name": "Yarra Bend Park",
@@ -270,7 +302,9 @@
           "tipEs": "Esto es bosque autóctono de verdad dentro de la ciudad, así que no te salgas de los senderos en los meses cálidos: hay serpientes tigre en el corredor fluvial de primavera a otoño.",
           "tipPt": "Isto é mata nativa a sério dentro da cidade, por isso mantenha-se nos trilhos nos meses quentes: há cobras-tigre ao longo do corredor fluvial da primavera ao outono.",
           "descriptionDe": "Mit etwa 260 Hektar ist dies das größte erhaltene Buschlandgebiet im inneren Melbourne, gelegen um eine Flussschleife des Yarra, nur 4 km vom CBD entfernt. Es ist ein Park mit mehreren Zonen: manche Abschnitte sind Freilaufzonen, der größte Teil des Flussweges ist Leinenpflicht, und der Unterschied ist ausgeschildert.",
-          "tipDe": "Dies ist echtes Buschland mitten in der Stadt, bleiben Sie in den warmen Monaten also auf den Wegen: Tigerottern sind entlang des Flusskorridors von Frühling bis Herbst präsent."
+          "descriptionNl": "Met ongeveer 260 hectare is dit het grootste bewaarde struikgewasgebied in het binnenste van Melbourne, gelegen rond een rivierbocht van de Yarra, slechts 4 km van het CBD. Het is een park met meerdere zones: sommige delen zijn losloopzones, het grootste deel van het rivierpad heeft aanlijnplicht, en het verschil staat aangegeven.",
+          "tipDe": "Dies ist echtes Buschland mitten in der Stadt, bleiben Sie in den warmen Monaten also auf den Wegen: Tigerottern sind entlang des Flusskorridors von Frühling bis Herbst präsent.",
+          "tipNl": "Dit is echt struikgewas midden in de stad, blijf in de warme maanden dus op de paden: tijgerslangen zijn van lente tot herfst aanwezig langs de riviercorridor."
         }
       ],
       "tipsEn": [
@@ -350,7 +384,9 @@
         }
       ],
       "titleDe": "Die besten Freilaufparks in Melbourne",
+      "titleNl": "De beste losloopparken in Melbourne",
       "introDe": "Melbournes innerer Ring aus Parkanlagen viktorianischer Zeit ist für eine Hauptstadt ungewöhnlich großzügig, und ein Großteil davon verfügt über ausgewiesene Freilaufzonen. Die Regel, die man sich merken muss: Victoria behandelt einen Hund standardmäßig als angeleint. Sie müssen ihn an jedem öffentlichen Ort an der Leine führen, es sei denn, Sie befinden sich innerhalb einer markierten Freilaufzone, und selbst dann müssen Sie eine Leine mitführen, auch wenn der Hund frei läuft. Maßgeblich ist die Beschilderung am jeweiligen Parkeingang, und mehrere Parks kombinieren Freilaufflächen mit Zonen, in denen Hunde komplett verboten sind.",
+      "introNl": "Melbournes binnenste ring van Victoriaanse parken is ongewoon royaal voor een hoofdstad, en een groot deel ervan heeft aangewezen losloopzones. De regel om te onthouden: Victoria behandelt een hond standaard als aangelijnd. Je moet hem op elke openbare plek aan de lijn houden, tenzij je je in een gemarkeerde losloopzone bevindt, en zelfs dan moet je een lijn bij je hebben, ook als de hond vrij loopt. Bepalend is de bebording bij de betreffende parkingang, en meerdere parken combineren losloopgebieden met zones waar honden volledig verboden zijn.",
       "faqsDe": [
         {
           "q": "Gibt es vollständig eingezäunte Hundeparks im Zentrum von Melbourne?",
@@ -363,6 +399,20 @@
         {
           "q": "Ist der Yarra Bend Park sicher für einen Hund?",
           "a": "Es ist ein hervorragendes Wandergebiet, aber es ist echtes Buschland. Tigerottern sind entlang des Yarra-Korridors etwa von September bis April aktiv, bleiben Sie bei warmem Wetter also auf den befestigten Wegen, halten Sie den Hund nah bei sich, und wissen Sie, wo sich der nächste 24-Stunden-Notfalltierarzt befindet, bevor Sie losgehen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er volledig omheinde hondenparken in het centrum van Melbourne?",
+          "a": "Een paar, maar ze zijn de uitzondering. De meeste losloopgebieden in het centrum zijn onomheinde grasvelden en weilanden binnen grotere parken zoals het Royal Park, het Princes Park en het Fawkner Park. Als je omheining nodig hebt, zoek dan het omheinde hondenstrand aan Sandown Street in Brighton, of de omheinde gebieden die sommige gemeenten in de buitenwijken hebben aangelegd."
+        },
+        {
+          "q": "Wat gebeurt er als mijn hond buiten een aangewezen zone zonder lijn loopt?",
+          "a": "De gemeenten in Victoria handhaven de aanlijnplicht met boetes ter plekke, en het bedrag varieert per gemeente en jaar. Naast de boete bevatten meerdere parken zones waar honden volledig verboden zijn, om wilde dieren of sportgebruik te beschermen. Lees dus de bebording bij de ingang in plaats van aan te nemen dat een groot park automatisch vrij loslopen betekent."
+        },
+        {
+          "q": "Is het Yarra Bend Park veilig voor een hond?",
+          "a": "Het is een uitstekend wandelgebied, maar het is echt struikgewas. Tijgerslangen zijn ongeveer van september tot april actief langs de Yarra-corridor, blijf bij warm weer dus op de verharde paden, houd de hond dicht bij je, en weet waar de dichtstbijzijnde 24-uursdierenartsspoed is voordat je vertrekt."
         }
       ]
     },
@@ -502,7 +552,9 @@
         }
       ],
       "titleDe": "Mit Hund unterwegs in Melbourne",
+      "titleNl": "Onderweg met je hond in Melbourne",
       "introDe": "Melbourne ist die seltene australische Hauptstadt, in der ein großer Hund legal mit der Bahn fahren darf. Die öffentlichen Verkehrsmittel Victorias befördern Haustiere kostenlos, aber die Regeln unterscheiden sich stark je nach Verkehrsmittel: In den S-Bahnen sind Hunde jeder Größe erlaubt, sofern ein großer Hund sowohl einen Maulkorb als auch eine Leine trägt, während Trams und Busse nur kleine Tiere in einem geeigneten Behälter zulassen. Dieser eine Unterschied prägt jede Reiseplanung und ist der Grund, warum die Bahnlinie nach Brighton oder Sandringham das Rückgrat eines Hundeausflugs bildet.",
+      "introNl": "Melbourne is de zeldzame Australische hoofdstad waar een grote hond legaal mee mag met de trein. Het openbaar vervoer van Victoria vervoert huisdieren gratis, maar de regels verschillen sterk per vervoermiddel: in de voorstadstreinen zijn honden van elke grootte toegestaan, mits een grote hond zowel een muilkorf als een lijn draagt, terwijl trams en bussen alleen kleine dieren toestaan in een geschikte drager. Dit ene verschil bepaalt elke reisplanning en is de reden waarom de treinlijn naar Brighton of Sandringham de ruggengraat vormt van een uitje met hond.",
       "faqsDe": [
         {
           "q": "Darf ich einen großen Hund in einer S-Bahn in Melbourne mitnehmen?",
@@ -515,6 +567,20 @@
         {
           "q": "Braucht mein Hund ein Ticket?",
           "a": "Nein. Haustiere fahren in den öffentlichen Verkehrsmitteln Victorias kostenlos, es gibt also keine Haustierfahrkarte zu kaufen und nichts, was Sie Ihrer Myki hinzufügen müssten. Blindenführhunde und anerkannte Assistenzhunde fahren auf jedem Verkehrsmittel kostenlos, ohne die Bedingungen bezüglich Behälter oder Maulkorb."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik een grote hond meenemen in een voorstadstrein in Melbourne?",
+          "a": "Ja. Het openbaar vervoer van Victoria staat huisdieren van alle groottes toe in de voorstadstreinen, gratis, mits een grote hond naast de lijn ook een muilkorf draagt. Dat is ongewoon in Australië en de belangrijkste reden waarom Melbourne met een grote hond makkelijker is dan Sydney, waar huisdieren volledig zijn uitgesloten van treinen."
+        },
+        {
+          "q": "Zijn honden toegestaan in de trams van Melbourne?",
+          "a": "Alleen kleine huisdieren in een geschikte drager. Een aangelijnde en gemuilkorfde grote hond die welkom is in de voorstadstrein mag niet mee in een tram of bus. Als je hond dus te groot is voor een transportbox, plan je route dan rond treinritten en wandelen."
+        },
+        {
+          "q": "Heeft mijn hond een ticket nodig?",
+          "a": "Nee. Huisdieren reizen gratis mee in het openbaar vervoer van Victoria, er is dus geen huisdierenkaartje te kopen en niets om aan je Myki toe te voegen. Geleidehonden en erkende assistentiehonden reizen gratis mee in elk vervoermiddel, zonder de voorwaarden rond drager of muilkorf."
         }
       ]
     },
@@ -540,7 +606,8 @@
           "facilities": "Fenced and gated sand, calm bay water, ticketed parking nearby at Middle Brighton Baths",
           "googleMapsUrl": "https://maps.google.com/?q=Sandown+Street+dog+beach+Brighton+Victoria",
           "photo": "/images/city-places/melbourne-beaches-brighton-dog-beach.jpg",
-          "descriptionDe": "Ein eingezäunter und mit Toren versehener Abschnitt Bayside-Sand, an dem Hunde das ganze Jahr über frei laufen dürfen, ohne saisonale Schließung und ohne Zeitfenster, das man beachten müsste. Das selbstschließende Tor macht ihn zu dem einen Strand in Melbourne, der für einen Hund mit unzuverlässigem Rückruf wirklich sicher ist, und das flache Buchtwasser eignet sich für ängstliche Schwimmer."
+          "descriptionDe": "Ein eingezäunter und mit Toren versehener Abschnitt Bayside-Sand, an dem Hunde das ganze Jahr über frei laufen dürfen, ohne saisonale Schließung und ohne Zeitfenster, das man beachten müsste. Das selbstschließende Tor macht ihn zu dem einen Strand in Melbourne, der für einen Hund mit unzuverlässigem Rückruf wirklich sicher ist, und das flache Buchtwasser eignet sich für ängstliche Schwimmer.",
+          "descriptionNl": "Een omheind en met poorten voorzien stuk Bayside-strand, waar honden het hele jaar door vrij mogen lopen, zonder seizoensgebonden sluiting en zonder tijdvak om rekening mee te houden. De zelfsluitende poort maakt het het enige strand in Melbourne dat echt veilig is voor een hond met een onbetrouwbare terugroep, en het ondiepe baaiwater is geschikt voor angstige zwemmers."
         },
         {
           "name": "Port Melbourne Beach (Yacht Club to Lagoon Pier)",
@@ -554,7 +621,8 @@
           "facilities": "Wide flat sand, promenade, cafes along Beach Street, tram access for small dogs in a carrier",
           "googleMapsUrl": "https://maps.google.com/?q=Port+Melbourne+Beach+dog+off+leash+Lagoon+Pier",
           "photo": "/images/city-places/melbourne-beaches-port-melbourne-beach.jpg",
-          "descriptionDe": "Der nächstgelegene echte Hundestrand zum Zentrum Melbournes, eine breite, flache Bucht mit den Containerschiffen am Station Pier im Hintergrund. Vom 1. April bis 31. Oktober sind Hunde auf dem Sand erlaubt, und über die Sommermonate bleibt der Abschnitt zwischen dem Port Melbourne Yacht Club und dem Lagoon Pier geöffnet, während der Rest eingeschränkt ist."
+          "descriptionDe": "Der nächstgelegene echte Hundestrand zum Zentrum Melbournes, eine breite, flache Bucht mit den Containerschiffen am Station Pier im Hintergrund. Vom 1. April bis 31. Oktober sind Hunde auf dem Sand erlaubt, und über die Sommermonate bleibt der Abschnitt zwischen dem Port Melbourne Yacht Club und dem Lagoon Pier geöffnet, während der Rest eingeschränkt ist.",
+          "descriptionNl": "Het dichtstbijzijnde echte hondenstrand bij het centrum van Melbourne, een brede, ondiepe baai met de containerschepen bij Station Pier op de achtergrond. Van 1 april tot 31 oktober zijn honden toegestaan op het zand, en tijdens de zomermaanden blijft het stuk tussen de Port Melbourne Yacht Club en de Lagoon Pier open, terwijl de rest beperkt is."
         },
         {
           "name": "St Kilda West Beach",
@@ -568,7 +636,8 @@
           "facilities": "Sheltered bay swimming, pier walk, Esplanade market on Sundays, kiosks and beer gardens nearby",
           "googleMapsUrl": "https://maps.google.com/?q=St+Kilda+West+Beach+dog+beach+Melbourne",
           "photo": "/images/city-places/melbourne-beaches-st-kilda-west-beach.jpg",
-          "descriptionDe": "Der geschützte Sand auf der Westseite des St-Kilda-Piers, wo die City of Port Phillip Hunde zu jeder Jahreszeit am Strand zulässt, anders als am wenige Hundert Meter südlich gelegenen Hauptstrand von St Kilda. Er verbindet ein Bad mit dem Spaziergang zum Pier und dem Sonntagsmarkt an der Esplanade, was ihn zur besten Kombination aus Hundezeit und Sightseeing in Melbourne macht."
+          "descriptionDe": "Der geschützte Sand auf der Westseite des St-Kilda-Piers, wo die City of Port Phillip Hunde zu jeder Jahreszeit am Strand zulässt, anders als am wenige Hundert Meter südlich gelegenen Hauptstrand von St Kilda. Er verbindet ein Bad mit dem Spaziergang zum Pier und dem Sonntagsmarkt an der Esplanade, was ihn zur besten Kombination aus Hundezeit und Sightseeing in Melbourne macht.",
+          "descriptionNl": "Het beschutte zand aan de westkant van de St Kilda-pier, waar de City of Port Phillip honden het hele jaar door op het strand toelaat, in tegenstelling tot het enkele honderden meters zuidelijker gelegen hoofdstrand van St Kilda. Het combineert een zwempartij met de wandeling naar de pier en de zondagsmarkt aan de Esplanade, wat het de beste combinatie van hondtijd en sightseeing in Melbourne maakt."
         }
       ],
       "tipsEn": [
@@ -648,7 +717,9 @@
         }
       ],
       "titleDe": "Hundestrände in Melbourne",
+      "titleNl": "Hondenstranden in Melbourne",
       "introDe": "Die Port Phillip Bay bietet Melbourne ruhiges, flaches, wellenfreies Wasser und eine Reihe von Gemeindestränden, die Hunde zulassen, was im Vergleich zu den Städten an der Surfküste ein echter Luxus ist. Der Haken ist saisonal: Vom 1. November bis 31. März beschränkt die City of Port Phillip den Großteil ihres Sandes auf schmale Abschnitte oder auf die Stunden zwischen 19.30 Uhr und 10 Uhr, während vom 1. April bis 31. Oktober dieselben Strände vollständig geöffnet sind. Bayside hat einen eigenen Kalender, und der eingezäunte Hundestrand an der Sandown Street in Brighton umgeht die ganze Frage, indem er das ganze Jahr über Freilaufzone bleibt.",
+      "introNl": "De Port Phillip Bay biedt Melbourne rustig, ondiep, golfvrij water en een reeks gemeentestranden die honden toelaten, wat een echte luxe is vergeleken met de steden aan de surfkust. Het addertje is seizoensgebonden: van 1 november tot 31 maart beperkt de City of Port Phillip het grootste deel van haar zand tot smalle stukken of tot de uren tussen 19:30 en 10 uur, terwijl dezelfde stranden van 1 april tot 31 oktober volledig open zijn. Bayside heeft een eigen kalender, en het omheinde hondenstrand aan Sandown Street in Brighton omzeilt de hele kwestie door het hele jaar door losloopgebied te blijven.",
       "faqsDe": [
         {
           "q": "Welcher Hundestrand in Melbourne ist das ganze Jahr über geöffnet?",
@@ -661,6 +732,20 @@
         {
           "q": "Brauche ich an einem Freilaufstrand trotzdem eine Leine?",
           "a": "Ja. Die City of Port Phillip verlangt, dass Halter jederzeit eine Leine mitführen, auch innerhalb von Freilaufzonen, und auf Wegen und Promenaden müssen Hunde angeleint sein. Legen Sie die Leine wieder an, bevor Sie den Sand verlassen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welk hondenstrand in Melbourne is het hele jaar open?",
+          "a": "Twee springen eruit. Het omheinde hondenstrand aan Sandown Street in Brighton is dag en nacht, het hele jaar door, losloopgebied, en het St Kilda West Beach laat honden volgens de regels van de City of Port Phillip het hele jaar op het zand toe. Al het andere in de Port Phillip Bay wordt tussen 1 november en 31 maart flink beperkt."
+        },
+        {
+          "q": "Mag mijn hond zwemmen in de Port Phillip Bay?",
+          "a": "Ja, en het water is veel zachter dan bij de oceaanstranden van de Australische surfkusten: ondiep, beschut en meestal golfvrij. Spoel het zout er daarna af, en gun je hond een dagje rust na zware regen, want afvloeiend regenwater kan het bacteriegehalte aan de baaistranden verhogen."
+        },
+        {
+          "q": "Heb ik op een losloopstrand toch een lijn nodig?",
+          "a": "Ja. De City of Port Phillip vereist dat baasjes te allen tijde een lijn bij zich hebben, ook binnen losloopzones, en op paden en promenades moeten honden aangelijnd zijn. Doe de lijn weer om voordat je het zand verlaat."
         }
       ]
     },
@@ -696,8 +781,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Advanced+Vetcare+26+Robertson+Street+Kensington+Victoria",
           "photo": "/images/city-places/melbourne-vets-advanced-vetcare-kensington.jpg",
           "hoursDe": "24 Stunden am Tag, 7 Tage die Woche",
+          "hoursNl": "24 uur per dag, 7 dagen per week",
           "descriptionDe": "Das Flaggschiff von Advanced Vetcare und die praktischste rund um die Uhr geöffnete Notfallklinik für das zentrale und nördliche Melbourne, etwa 5 km vom CBD entfernt. Sie verbindet einen Notfall- und Intensivpflegedienst mit spezialisierten Abteilungen, sodass ein über Nacht eingelieferter Fall am Morgen ohne Verlegung direkt an einen Spezialisten übergeben werden kann.",
-          "tipDe": "Speichern Sie +61 3 9092 0400 vor der Reise und rufen Sie aus dem Auto an, damit man Sie an der Tür empfangen kann."
+          "descriptionNl": "Het vlaggenschip van Advanced Vetcare en de meest praktische dag-en-nacht spoedkliniek voor centraal en noordelijk Melbourne, ongeveer 5 km van het CBD. Het combineert een spoed- en intensive-caredienst met gespecialiseerde afdelingen, zodat een 's nachts binnengebrachte patiënt 's morgens zonder overplaatsing rechtstreeks aan een specialist kan worden overgedragen.",
+          "tipDe": "Speichern Sie +61 3 9092 0400 vor der Reise und rufen Sie aus dem Auto an, damit man Sie an der Tür empfangen kann.",
+          "tipNl": "Sla +61 3 9092 0400 op voor je vertrek en bel vanuit de auto, zodat men je bij de deur kan opvangen."
         },
         {
           "name": "Advanced Vetcare Kew",
@@ -721,8 +809,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Advanced+Vetcare+Kew+Chandler+Highway+Victoria",
           "photo": "/images/city-places/melbourne-vets-advanced-vetcare-kew.jpg",
           "hoursDe": "Notfallkonsultationen werktags 16 bis 24 Uhr, an Wochenenden und Feiertagen 7 bis 24 Uhr",
+          "hoursNl": "Spoedconsulten doordeweeks 16 tot 24 uur, in weekenden en op feestdagen 7 tot 24 uur",
           "descriptionDe": "Der Standort von Advanced Vetcare in den östlichen Vororten, nützlich, wenn Sie rund um Kew, Hawthorn, Richmond oder die Yarra-Bend-Seite der Stadt wohnen. Die Notfallsprechstunde läuft abends und an erweiterten Wochenendstunden statt rund um die Uhr, bestätigen Sie also telefonisch, bevor Sie außerhalb dieser Zeitfenster losfahren.",
-          "tipDe": "Außerhalb der Notfallsprechzeiten gehen Sie stattdessen zur Klinik in Kensington, die rund um die Uhr geöffnet ist."
+          "descriptionNl": "De vestiging van Advanced Vetcare in de oostelijke buitenwijken, handig als je rond Kew, Hawthorn, Richmond of de Yarra Bend-kant van de stad woont. Het spoedspreekuur loopt 's avonds en tijdens verlengde weekenduren in plaats van dag en nacht, bevestig dus telefonisch voordat je buiten die tijdvakken op weg gaat.",
+          "tipDe": "Außerhalb der Notfallsprechzeiten gehen Sie stattdessen zur Klinik in Kensington, die rund um die Uhr geöffnet ist.",
+          "tipNl": "Buiten de spoeduren ga je in plaats daarvan naar de kliniek in Kensington, die dag en nacht open is."
         },
         {
           "name": "Greencross Vet Hospital at the University of Melbourne",
@@ -746,8 +837,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Greencross+Vet+Hospital+250+Princes+Highway+Werribee",
           "photo": "/images/city-places/melbourne-vets-greencross-werribee.jpg",
           "hoursDe": "24 Stunden am Tag, 7 Tage die Woche",
+          "hoursNl": "24 uur per dag, 7 dagen per week",
           "descriptionDe": "Eine eigens errichtete Überweisungs- und Notfallklinik auf dem Werribee-Veterinärcampus der University of Melbourne, eröffnet 2023 auf dem Gelände der ehemaligen U-Vet-Klinik. Sie betreibt eine eigene Notfall- und Intensivstation neben Chirurgie, innerer Medizin, Neurologie und Bildgebung und deckt den gesamten westlichen Korridor Melbournes ab.",
-          "tipDe": "Dies ist die nächstgelegene 24-Stunden-Klinik zur westlichen Anfahrt des Flughafens Melbourne und zum Quarantänekorridor Mickleham, erwähnenswert, wenn Sie einen Hund nach der Einfuhr abholen."
+          "descriptionNl": "Een speciaal gebouwde verwijs- en spoedkliniek op de veterinaire campus van de University of Melbourne in Werribee, geopend in 2023 op de plek van de voormalige U-Vet-kliniek. Het beheert een eigen spoed- en intensive-care-afdeling naast chirurgie, interne geneeskunde, neurologie en beeldvorming, en bedient de hele westelijke corridor van Melbourne.",
+          "tipDe": "Dies ist die nächstgelegene 24-Stunden-Klinik zur westlichen Anfahrt des Flughafens Melbourne und zum Quarantänekorridor Mickleham, erwähnenswert, wenn Sie einen Hund nach der Einfuhr abholen.",
+          "tipNl": "Dit is de dichtstbijzijnde 24-uurskliniek bij de westelijke toegangsweg van luchthaven Melbourne en de quarantainecorridor Mickleham, vermeldenswaard als je een hond na invoer komt ophalen."
         }
       ],
       "faqsEn": [
@@ -807,7 +901,9 @@
         }
       ],
       "titleDe": "Notfalltierärzte in Melbourne",
+      "titleNl": "Spoeddierenartsen in Melbourne",
       "introDe": "Melbourne ist bei der tierärztlichen Versorgung außerhalb der regulären Öffnungszeiten gut aufgestellt, mit rund um die Uhr geöffneten Notfall- und Spezialkliniken im Westen, Osten und äußeren Westen der Stadt. Australien hat keine einheitliche landesweite Tiernotrufnummer, speichern Sie also die Nummer einer konkreten Klinik in Ihrem Telefon, bevor Sie sie brauchen, und rufen Sie unterwegs an, damit das Team sich vorbereiten kann. Beachten Sie, dass 000 die Notrufnummer für Menschen ist und keine Hilfe für ein Tier entsendet.",
+      "introNl": "Melbourne is goed voorzien van dierenartszorg buiten de reguliere openingstijden, met dag-en-nacht spoed- en specialistische klinieken in het westen, oosten en verre westen van de stad. Australië heeft geen uniform landelijk noodnummer voor dieren, sla dus het nummer van een specifieke kliniek op in je telefoon voordat je het nodig hebt, en bel onderweg zodat het team zich kan voorbereiden. Let op dat 000 het noodnummer voor mensen is en geen hulp voor een dier stuurt.",
       "faqsDe": [
         {
           "q": "Gibt es in Australien eine Notrufnummer für Tiere?",
@@ -820,6 +916,20 @@
         {
           "q": "Wohin gehe ich in den östlichen Vororten bei einem Notfall außerhalb der Öffnungszeiten?",
           "a": "Advanced Vetcare Kew am Chandler Highway nimmt Notfallkonsultationen werktags von 16 bis 24 Uhr sowie an Wochenenden und Feiertagen von 7 bis 24 Uhr an. Außerhalb dieser Zeiten ist die Klinik in Kensington die rund um die Uhr geöffnete Option."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er in Australië een noodnummer voor dieren?",
+          "a": "Nee. 000 is het noodnummer voor mensen en stuurt geen hulp voor dieren. Je belt rechtstreeks een dierenartsspoedkliniek, dus het loont om er voor je reis een op te slaan. In Melbourne zijn zowel Advanced Vetcare Kensington op +61 3 9092 0400 als Greencross Vet Hospital Werribee op +61 3 8721 1414 dag en nacht open."
+        },
+        {
+          "q": "Wat zijn de meest voorkomende noodgevallen voor honden op bezoek in Melbourne?",
+          "a": "Hittestress op hete zomerdagen, opengesneden voetzolen door heet asfalt of schelpengrind, en slangenbeten in de struikgewasparken ongeveer tussen september en april. Een slangenbeet is een echt noodgeval: als je er een vermoedt, houd de hond dan rustig, draag hem in plaats van hem te laten lopen, en rijd rechtstreeks naar een 24-uurskliniek terwijl je van tevoren belt."
+        },
+        {
+          "q": "Waar ga ik heen in de oostelijke buitenwijken bij een noodgeval buiten de openingstijden?",
+          "a": "Advanced Vetcare Kew aan de Chandler Highway neemt spoedconsulten aan doordeweeks van 16 tot 24 uur en in weekenden en op feestdagen van 7 tot 24 uur. Buiten die tijden is de kliniek in Kensington de dag-en-nacht optie."
         }
       ]
     },
@@ -910,7 +1020,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für Hundehalter in Melbourne",
+      "titleNl": "Praktische tips voor hondenbaasjes in Melbourne",
       "introDe": "Melbourne belohnt einen Hund, der die Natur mag: Buchtstrände, riesige Innenstadtparks, ein Bahnnetz, das große Hunde mitnimmt, und eine Restaurantkultur, die auf Terrassen aufgebaut ist. Drei Dinge prägen die Planung. Einen Hund nach Australien zu bringen ist ein monatelanger Prozess, der in der Quarantäneeinrichtung Mickleham direkt nördlich der Stadt endet; das Wetter in Melbourne kann tatsächlich an einem Nachmittag um 15 Grad schwanken; und Freilauf ist ein kartiertes, von Gemeinde zu Gemeinde unterschiedliches Privileg statt ein Standard.",
+      "introNl": "Melbourne beloont een hond die van buiten houdt: baaistranden, enorme binnenstadsparken, een treinnetwerk dat grote honden meeneemt, en een restaurantcultuur gebouwd op terrassen. Drie dingen bepalen de planning. Een hond naar Australië brengen is een proces van maanden dat eindigt in de quarantainefaciliteit Mickleham direct ten noorden van de stad; het weer in Melbourne kan daadwerkelijk 15 graden schommelen op één middag; en los lopen is een gekarteerd privilege dat per gemeente verschilt in plaats van standaard te zijn.",
       "faqsDe": [
         {
           "q": "Wie lange dauert es, einen Hund über Melbourne nach Australien zu bringen?",
@@ -923,6 +1035,20 @@
         {
           "q": "Worauf sollte ich im Sommer achten?",
           "a": "Hitze ist das Hauptrisiko. Melbourne kann im Januar und Februar 35 Grad überschreiten, Asphalt und Sand verbrennen die Pfotenballen, und Autos heizen sich lebensgefährlich schnell auf. Auch die Schlangensaison läuft etwa von September bis April in Buschland wie dem Yarra Bend, bleiben Sie also auf befestigten Wegen. Gehen Sie früh oder nach 18 Uhr spazieren und haben Sie Wasser dabei."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe lang duurt het om een hond via Melbourne naar Australië te brengen?",
+          "a": "Reken op bijna een jaar. De volgorde is microchip, rabiësvaccinatie, een rabiës-antilichaam-titertest met strikte identiteitscontrole, een wachttijd, een invoervergunning, en dan minstens tien dagen in de Mickleham-quarantainefaciliteit aan 135 Donnybrook Road, ongeveer 30 km ten noorden van luchthaven Melbourne. Mickleham is de enige nationale faciliteit voor katten en honden die Australië binnenkomen, elk dier komt dus in Melbourne terecht. Bevestig de actuele stappen bij het Department of Agriculture, Fisheries and Forestry."
+        },
+        {
+          "q": "Is Melbourne een goede stad voor een bezoek met hond?",
+          "a": "Ja, en waarschijnlijk de makkelijkste onder Australiës grote steden. Grote honden mogen met muilkorf en lijn mee in de voorstadstrein, de baaistranden laten honden acht maanden per jaar toe, met twee die het hele jaar open zijn, de binnenstadsparken hebben aangewezen losloopzones, en de buitenhorecacultuur is enorm. De grenzen liggen bij binnenruimtes, bij tram- en busritten voor grote honden en bij de zomerhitte."
+        },
+        {
+          "q": "Waar moet ik in de zomer op letten?",
+          "a": "Hitte is het grootste risico. Melbourne kan in januari en februari boven de 35 graden uitkomen, asfalt en zand verbranden de voetzolen, en auto's warmen levensgevaarlijk snel op. Ook het slangenseizoen loopt ongeveer van september tot april in struikgewasgebieden zoals Yarra Bend, blijf dus op verharde paden. Wandel vroeg of na 18 uur en neem water mee."
         }
       ]
     },
@@ -959,9 +1085,13 @@
           "tipPt": "O Punting on the Lake navega no lago ornamental e aceita cães bem comportados a bordo, por isso o seu cão pode ir consigo.",
           "googleMapsUrl": "https://maps.google.com/?q=Royal+Botanic+Gardens+Melbourne+South+Yarra",
           "descriptionDe": "Achtunddreißig Hektar gestalteter Garten am Südufer des Yarra, angelegt um einen Ziersee mit Rasenflächen, Regenwaldschluchten und historischen Bäumen. Angeleinte Hunde sind während der regulären Öffnungszeiten willkommen, was für einen Botanischen Garten dieses Ranges ungewöhnlich ist.",
+          "descriptionNl": "Achtendertig hectare aangelegde tuin op de zuidoever van de Yarra, aangelegd rond een siermeer met grasvelden, regenwoudkloven en historische bomen. Aangelijnde honden zijn welkom tijdens de reguliere openingstijden, wat ongewoon is voor een botanische tuin van dit niveau.",
           "dogPolicyDe": "Hunde während der regulären Öffnungszeiten an kurzer Leine und unter ständiger Aufsicht erlaubt; Halter müssen Kot aufsammeln und entsorgen.",
+          "dogPolicyNl": "Honden toegestaan aan korte lijn en onder voortdurend toezicht tijdens de reguliere openingstijden; baasjes moeten uitwerpselen opruimen en weggooien.",
           "admissionFeeDe": "Freier Eintritt",
-          "tipDe": "Punting on the Lake verkehrt auf dem Ziersee und nimmt gut erzogene Hunde an Bord, ein Hund kann also mit Ihnen im Boot mitfahren."
+          "admissionFeeNl": "Gratis toegang",
+          "tipDe": "Punting on the Lake verkehrt auf dem Ziersee und nimmt gut erzogene Hunde an Bord, ein Hund kann also mit Ihnen im Boot mitfahren.",
+          "tipNl": "Punting on the Lake vaart over het siermeer en neemt goed opgevoede honden aan boord, een hond kan dus met je mee in de boot."
         },
         {
           "name": "St Kilda Pier and Esplanade",
@@ -986,9 +1116,13 @@
           "tipPt": "A colónia de pinguins-azuis vive nas rochas do quebra-mar do molhe e está protegida, por isso mantenha o cão no tabuleiro do molhe e longe das rochas ao anoitecer.",
           "googleMapsUrl": "https://maps.google.com/?q=St+Kilda+Pier+Melbourne",
           "descriptionDe": "Der klassische Melbourne-Ausflug ans Meer: ein langer Pier hinaus in die Port Phillip Bay, eine palmengesäumte Uferpromenade und sonntags der Kunst- und Kunsthandwerksmarkt an der Esplanade auf der Klippe. Hunde sind an der Leine auf dem Pier und im Markt erlaubt, mit dem hundefreundlichen Sand direkt daneben.",
+          "descriptionNl": "Het klassieke uitje aan zee van Melbourne: een lange pier de Port Phillip Bay in, een met palmen omzoomde kustpromenade en op zondag de kunst- en ambachtsmarkt aan de Esplanade op de klif. Honden zijn aangelijnd toegestaan op de pier en de markt, met het hondvriendelijke zand er direct naast.",
           "dogPolicyDe": "Hunde an der Leine auf dem Pier und entlang der Esplanade-Promenade sowie beim Sonntagsmarkt erlaubt. Der Luna Park lässt keine Hunde zu.",
+          "dogPolicyNl": "Aangelijnde honden toegestaan op de pier en langs de Esplanade-promenade en op de zondagsmarkt. Luna Park laat geen honden toe.",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Die kleine Zwergpinguin-Kolonie lebt in den Wellenbrecherfelsen des Piers und steht unter Schutz, halten Sie den Hund also auf dem Pier-Deck und in der Dämmerung von den Felsen fern."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Die kleine Zwergpinguin-Kolonie lebt in den Wellenbrecherfelsen des Piers und steht unter Schutz, halten Sie den Hund also auf dem Pier-Deck und in der Dämmerung von den Felsen fern.",
+          "tipNl": "De kleine kolonie kleine pinguïns leeft in de golfbrekerrotsen van de pier en staat onder bescherming, houd de hond dus op het pier-dek en weg van de rotsen tijdens de schemering."
         },
         {
           "name": "Dights Falls and the Yarra River trail",
@@ -1013,9 +1147,13 @@
           "tipPt": "O Yarra corre castanho por causa do limo e não da poluição, mas evite o banho um ou dois dias depois de chuvas fortes e mantenha-se nos trilhos na época das cobras.",
           "googleMapsUrl": "https://maps.google.com/?q=Dights+Falls+Abbotsford+Melbourne",
           "descriptionDe": "Ein Wehr und Felsplateau, wo der Merri Creek auf den Yarra trifft, erreichbar über eine leichte Uferrunde von etwa zwei Kilometern durch den Yarra Bend Park. Das Felsenufer bietet Hunden einfachen Zugang zum Fluss, und das etwas flussabwärts gelegene Studley Park Boathouse vermietet Ruderboote und Kanus, die Hunde mitnehmen dürfen.",
+          "descriptionNl": "Een stuwdam en rotsplateau waar de Merri Creek de Yarra ontmoet, bereikbaar via een makkelijke oeverronde van ongeveer twee kilometer door het Yarra Bend Park. De rotsoever biedt honden makkelijke toegang tot de rivier, en het iets verderop stroomafwaarts gelegen Studley Park Boathouse verhuurt roeiboten en kano's die honden mee mogen.",
           "dogPolicyDe": "Auf dem Großteil des Flusswegs Leinenpflicht; ausgewiesene Freilaufzonen gibt es an anderer Stelle im Yarra Bend Park und sind ausgeschildert.",
+          "dogPolicyNl": "Aanlijnplicht op het grootste deel van het rivierpad; aangewezen losloopzones zijn er elders in het Yarra Bend Park en staan aangegeven.",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Der Yarra ist eher durch Schwebstoffe als durch Verschmutzung braun gefärbt, verzichten Sie aber ein bis zwei Tage nach starkem Regen aufs Schwimmen und bleiben Sie in der Schlangensaison auf den Wegen."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Der Yarra ist eher durch Schwebstoffe als durch Verschmutzung braun gefärbt, verzichten Sie aber ein bis zwei Tage nach starkem Regen aufs Schwimmen und bleiben Sie in der Schlangensaison auf den Wegen.",
+          "tipNl": "De Yarra kleurt bruin door zwevende deeltjes eerder dan door vervuiling, maar sla het zwemmen een dag of twee over na zware regen en blijf tijdens het slangenseizoen op de paden."
         }
       ],
       "tipsEn": [
@@ -1095,7 +1233,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Melbourne",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Melbourne",
       "introDe": "Melbournes Hauptattraktionen teilen sich klar auf. Museen, Galerien, das Aquarium und Luna Park sind für Hunde geschlossen, aber die besten kostenlosen Erlebnisse der Stadt liegen im Freien und stehen ihnen offen: ein Botanischer Garten, der angeleinte Hunde kostenlos hereinlässt, ein Pier und Markt an der Bucht sowie ein Fluss aus Buschlandwegen vier Kilometer vom CBD entfernt. Bauen Sie den Tag um Grünflächen und Wasser herum, und Sie verpassen kaum etwas.",
+      "introNl": "Melbournes belangrijkste attracties zijn duidelijk verdeeld. Musea, galerieën, het aquarium en Luna Park zijn gesloten voor honden, maar de beste gratis ervaringen van de stad liggen buiten en staan open voor hen: een botanische tuin die aangelijnde honden gratis binnenlaat, een pier en markt aan de baai, en een rivier met struikgewaspaden vier kilometer van het CBD. Bouw de dag rond groen en water, en je mist bijna niets.",
       "faqsDe": [
         {
           "q": "Sind Hunde in den Royal Botanic Gardens Melbourne erlaubt?",
@@ -1108,6 +1248,20 @@
         {
           "q": "Was ist der beste kostenlose Tagesausflug mit Hund in Melbourne?",
           "a": "Ein starker Vorschlag: morgens die Botanischen Gärten, dann der Uferweg zurück zum CBD zum Mittagessen auf einer Terrasse wie Arbory, danach mit der Sandringham-Linie hinunter nach Brighton zum eingezäunten Hundestrand. Nichts davon kostet mehr als eine Bahnfahrt, und der Hund fährt kostenlos mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in de Royal Botanic Gardens Melbourne?",
+          "a": "Ja. Honden zijn welkom tijdens de reguliere openingstijden, mits ze aan een korte lijn worden gehouden en te allen tijde onder toezicht staan, zonder maatbeperking en gratis, en baasjes moeten eventuele uitwerpselen opruimen en weggooien. Het is een van de weinige botanische tuinen van dit niveau ter wereld die dit toestaat."
+        },
+        {
+          "q": "Mag mijn hond Luna Park of het aquarium bezoeken?",
+          "a": "Nee. Luna Park, SEA LIFE Melbourne Aquarium, de NGV en het Melbourne Museum sluiten allemaal huisdieren uit, met uitzondering van erkende assistentiehonden. In St Kilda is de omweg simpel: loop over de pier en de strandpromenade, die open zijn voor aangelijnde honden, terwijl het park bewaard blijft voor een andere dag."
+        },
+        {
+          "q": "Wat is het beste gratis dagje uit met hond in Melbourne?",
+          "a": "Een sterk voorstel: 's ochtends de botanische tuinen, dan het rivierpad terug naar het CBD voor lunch op een terras zoals Arbory, daarna met de Sandringham-lijn naar Brighton voor het omheinde hondenstrand. Niets daarvan kost meer dan een treinrit, en de hond reist gratis mee."
         }
       ]
     },
@@ -1143,8 +1297,11 @@
           "tipEs": "La entrega de la mañana tiene una franja restringida y el acceso es por el aparcamiento de Henry Street, así que reserva tiempo extra en la primera visita.",
           "tipPt": "A entrega da manhã tem uma janela restrita e a entrada é pelo parque de estacionamento da Henry Street, por isso reserve tempo extra na primeira visita.",
           "descriptionDe": "Eine eigens errichtete Hundetagesstätte in Abbotsford, wenige Minuten vom CBD am Rand des Inner North, mit Innenspielbereich, Agility-Ausrüstung, Ruhezonen und einem hauseigenen Hundespa zum Waschen und Trocknen. Die Lage eignet sich für alle, die rund um Richmond, Collingwood oder Fitzroy wohnen.",
+          "descriptionNl": "Een speciaal gebouwde hondendagopvang in Abbotsford, enkele minuten van het CBD aan de rand van Inner North, met binnenspeelruimte, agilitymateriaal, rustzones en een eigen hondenspa voor wassen en drogen. De locatie is handig voor iedereen die rond Richmond, Collingwood of Fitzroy woont.",
           "serviceTypeDe": "Hundetagesbetreuung mit Pflege und Hundespa",
-          "tipDe": "Die morgendliche Abgabe hat ein begrenztes Zeitfenster, und der Zugang erfolgt über den Parkplatz an der Henry Street, planen Sie beim ersten Besuch also zusätzliche Zeit ein."
+          "serviceTypeNl": "Hondendagopvang met verzorging en hondenspa",
+          "tipDe": "Die morgendliche Abgabe hat ein begrenztes Zeitfenster, und der Zugang erfolgt über den Parkplatz an der Henry Street, planen Sie beim ersten Besuch also zusätzliche Zeit ein.",
+          "tipNl": "Het ochtendbrengmoment heeft een beperkt tijdvak, en de toegang loopt via de parkeerplaats aan Henry Street, plan bij je eerste bezoek dus extra tijd in."
         },
         {
           "name": "Diggiddy Doggy Daycare",
@@ -1168,8 +1325,11 @@
           "tipEs": "Está a pocos minutos a pie del South Melbourne Market, así que dejar al perro encaja bien con una mañana de mercado y museos.",
           "tipPt": "Fica a poucos minutos a pé do South Melbourne Market, por isso a entrega encaixa bem com uma manhã de mercado e museus.",
           "descriptionDe": "Eine langjährige Hundetagesstätte in South Melbourne mit Innenspielplatz, Pflege- und Waschservice sowie einem Hundetaxi, das Ihren Hund abholen und zurückbringen kann. Praktisch für alle, die in Southbank, South Melbourne oder Albert Park wohnen und ein paar Stunden in den Galerien verbringen möchten.",
+          "descriptionNl": "Een langdurige hondendagopvang in South Melbourne met binnenspeelplaats, verzorgings- en wasservice, en een hondentaxi die je hond kan ophalen en terugbrengen. Handig voor iedereen die in Southbank, South Melbourne of Albert Park woont en een paar uur in de galerieën wil doorbrengen.",
           "serviceTypeDe": "Hundetagesbetreuung, Pflege und Hundetaxi",
-          "tipDe": "Es liegt einen kurzen Spaziergang vom South Melbourne Market entfernt, die Abgabe lässt sich also gut mit einem Vormittag auf dem Markt und in den Galerien verbinden."
+          "serviceTypeNl": "Hondendagopvang, verzorging en hondentaxi",
+          "tipDe": "Es liegt einen kurzen Spaziergang vom South Melbourne Market entfernt, die Abgabe lässt sich also gut mit einem Vormittag auf dem Markt und in den Galerien verbinden.",
+          "tipNl": "Het ligt een korte wandeling van de South Melbourne Market vandaan, het brengen laat zich dus goed combineren met een ochtend op de markt en in de galerieën."
         },
         {
           "name": "Mad Paws",
@@ -1191,8 +1351,11 @@
           "tipEs": "Concierta un encuentro previo antes de la primera estancia: los cuidadores son independientes y la plataforma espera que acordéis de antemano la alimentación, la medicación y qué hacer ante una urgencia veterinaria.",
           "tipPt": "Marque um encontro prévio antes da primeira estadia: os cuidadores são independentes e a plataforma espera que combinem antecipadamente a alimentação, a medicação e o que fazer numa urgência veterinária.",
           "descriptionDe": "Australiens größter Marktplatz für Haustiersitter, der Halter mit geprüften lokalen Sittern für Tagesbetreuung, Übernachtungsbetreuung, Gassigehen und Hausbesuche verbindet. Die Abdeckung im Großraum Melbourne ist dicht, von den Innenstadtvororten bis hinaus nach Werribee und zur Mornington Peninsula, mit über die Plattform versicherten Buchungen.",
+          "descriptionNl": "Australiës grootste marktplaats voor huisdieroppassers, die baasjes verbindt met gecontroleerde lokale oppassers voor dagopvang, overnachtingsopvang, uitlaten en huisbezoeken. De dekking in Groot-Melbourne is dicht, van de binnenstadswijken tot aan Werribee en het Mornington Peninsula, met via het platform verzekerde boekingen.",
           "serviceTypeDe": "Marktplatz für Betreuung zu Hause, Übernachtungsbetreuung, Tagesbetreuung und Gassigehen",
-          "tipDe": "Buchen Sie vor dem ersten Aufenthalt ein Kennenlerntreffen: Die Sitter sind unabhängig, und die Plattform erwartet, dass Sie Fütterung, Medikamente und Notfalltierarzt-Regelungen vorab absprechen."
+          "serviceTypeNl": "Marktplaats voor opvang aan huis, overnachtingsopvang, dagopvang en uitlaten",
+          "tipDe": "Buchen Sie vor dem ersten Aufenthalt ein Kennenlerntreffen: Die Sitter sind unabhängig, und die Plattform erwartet, dass Sie Fütterung, Medikamente und Notfalltierarzt-Regelungen vorab absprechen.",
+          "tipNl": "Boek voor het eerste verblijf een kennismaking: de oppassers zijn zelfstandig, en het platform verwacht dat je voeding, medicatie en spoeddierenartsafspraken vooraf bespreekt."
         }
       ],
       "tipsEn": [
@@ -1272,7 +1435,9 @@
         }
       ],
       "titleDe": "Hundebetreuung und Tagesbetreuung in Melbourne",
+      "titleNl": "Hondenoppas en dagopvang in Melbourne",
       "introDe": "Da Melbournes Innenraum-Attraktionen Hunde ausschließen, ist ein halber Tag Tagesbetreuung oft das, was den Besuch des Museums oder der Galerie überhaupt erst ermöglicht, die Sie eigentlich sehen wollten. Die Stadt hat ein dichtes Angebot: eigens errichtete Betreuungszentren in den Innenstadtvororten und landesweite Sitter-Marktplätze, die den gesamten Großraum für die Betreuung zu Hause abdecken. Rechnen Sie damit, dass jedes seriöse Zentrum einen Impfnachweis verlangt, einschließlich Zwingerhusten, und oft einen Probe- oder Beurteilungstag vor der ersten Buchung.",
+      "introNl": "Omdat Melbournes binnenattracties honden uitsluiten, is een halve dag dagopvang vaak precies wat het bezoek aan het museum of de galerie mogelijk maakt dat je eigenlijk wilde zien. De stad heeft een dicht aanbod: speciaal gebouwde opvangcentra in de binnenstadswijken en landelijke oppasmarktplaatsen die het hele stedelijke gebied dekken voor opvang aan huis. Reken erop dat elk serieus centrum een vaccinatiebewijs vraagt, inclusief kennelhoest, en vaak een proef- of beoordelingsdag voor de eerste boeking.",
       "faqsDe": [
         {
           "q": "Brauche ich eine Hundetagesstätte in Melbourne?",
@@ -1285,6 +1450,20 @@
         {
           "q": "Ist Betreuung zu Hause oder ein Tagesbetreuungszentrum besser für einen reisenden Hund?",
           "a": "Für einen Hund, der gerade gereist ist oder aus der Quarantäne kommt, ist die Betreuung zu Hause über einen Marktplatz wie Mad Paws meist die ruhigere Wahl, da eine große, unbekannte Gruppe vermieden wird. Ein eigens errichtetes Zentrum eignet sich für einen geselligen Hund, der bereits eingelebt ist und Energie abbauen muss."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Heb ik een hondendagopvang nodig in Melbourne?",
+          "a": "Alleen voor de binnenhelft van de stad. Musea, galerieën, het aquarium en Luna Park sluiten allemaal honden uit, als die dus op je lijst staan, is een halve dag dagopvang of een oppasser aan huis het praktische antwoord. Alles buiten, van de botanische tuinen tot de baaistranden, kun je samen ondernemen."
+        },
+        {
+          "q": "Wat vragen dagopvangcentra in Melbourne?",
+          "a": "Een bewijs van actuele vaccinaties inclusief kennelhoest is standaard, evenals vlooien- en wormenbehandeling, en de meeste centra houden een proef- of beoordelingsdag om te kijken hoe een hond zich in de groep gedraagt. Sterilisatie wordt boven een bepaalde leeftijd vaak vereist. Boek van tevoren in plaats van gewoon binnen te lopen."
+        },
+        {
+          "q": "Is opvang aan huis of een dagopvangcentrum beter voor een reizende hond?",
+          "a": "Voor een hond die net gereisd heeft of net uit quarantaine komt, is opvang aan huis via een marktplaats zoals Mad Paws meestal de rustigere keuze, omdat een grote, onbekende groep wordt vermeden. Een speciaal gebouwd centrum is geschikt voor een sociale hond die al ingeburgerd is en energie kwijt moet."
         }
       ]
     }

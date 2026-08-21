@@ -41,9 +41,13 @@
           "tipPt": "Peça o prato do dia - é sempre o melhor custo-benefício.",
           "googleMapsUrl": "https://www.google.com/maps/search/Restaurante+O+Corvo+Fundao",
           "descriptionDe": "Ein zuverlässiges regionales Lokal mit überdachter Terrasse, das Käseplatten von der Serra da Estrela, gegrilltes Zicklein und Bacalhau com natas serviert. Hunde sind das ganze Jahr über auf der Terrasse willkommen.",
+          "descriptionNl": "Een betrouwbare regionale eetgelegenheid met overdekt terras, die kaasplanken van de Serra da Estrela, gegrild geitenvlees en Bacalhau com natas serveert. Honden zijn het hele jaar door welkom op het terras.",
           "petPolicyDe": "Hunde auf der überdachten Terrasse willkommen.",
+          "petPolicyNl": "Honden welkom op het overdekte terras.",
           "mustTryDe": "Käse von der Serra da Estrela mit Honig und lokaler Kirschmarmelade.",
-          "tipDe": "Fragen Sie nach dem Prato do dia, das ist immer das beste Preis-Leistungs-Verhältnis."
+          "mustTryNl": "Kaas van de Serra da Estrela met honing en lokale kersenjam.",
+          "tipDe": "Fragen Sie nach dem Prato do dia, das ist immer das beste Preis-Leistungs-Verhältnis.",
+          "tipNl": "Vraag naar de prato do dia, dat is altijd de beste prijs-kwaliteitverhouding."
         },
         {
           "name": "Café Central do Fundão",
@@ -71,9 +75,13 @@
           "tipPt": "Os pastéis de cereja aparecem no balcão a partir de maio.",
           "googleMapsUrl": "https://www.google.com/maps/search/Cafe+Central+Fundao",
           "descriptionDe": "Der gesellschaftliche Mittelpunkt der Stadt für Kaffee und Petiscos, mit breiter, von Platanen beschatteter Terrasse zum Gehsteig. Ein morgendlicher Espresso hier mit dem Hund zu Füßen ist der typische Start in Fundão.",
+          "descriptionNl": "Het sociale middelpunt van de stad voor koffie en petiscos, met een breed, door platanen beschaduwd terras aan de stoep. Een ochtendespresso hier met de hond aan de voeten is de typische start in Fundão.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse zum Gehsteig willkommen.",
+          "petPolicyNl": "Aangelijnde honden welkom op het terras aan de stoep.",
           "mustTryDe": "Queijada de Fundão, ein kleines lokales Käsekuchentörtchen, das es nur in dieser Region gibt.",
-          "tipDe": "Ab Mai erscheinen Gebäckstücke der Kirschsaison auf der Theke."
+          "mustTryNl": "Queijada de Fundão, een klein lokaal kaastaartje dat alleen in deze regio te vinden is.",
+          "tipDe": "Ab Mai erscheinen Gebäckstücke der Kirschsaison auf der Theke.",
+          "tipNl": "Vanaf mei verschijnen gebakjes van het kersenseizoen op de toonbank."
         },
         {
           "name": "Tasca da Serra",
@@ -101,14 +109,21 @@
           "tipPt": "Em junho a vista sobre as cerejeiras em flor a partir do jardim é espetacular.",
           "googleMapsUrl": "https://www.google.com/maps/search/Tasca+da+Serra+Fundao",
           "descriptionDe": "Eine ländliche Tasca 3 km außerhalb von Fundão an der Straße nach Alcongosta, mit Gartenterrasse und Blick über die Kirschplantagen. Spezialisiert auf holzgegrilltes Fleisch und Migas à alentejana.",
+          "descriptionNl": "Een landelijke tasca 3 km buiten Fundão aan de weg naar Alcongosta, met tuinterras en uitzicht over de kersenplantages. Gespecialiseerd in houtgegrild vlees en Migas à alentejana.",
           "petPolicyDe": "Hunde auf der Gartenterrasse willkommen.",
+          "petPolicyNl": "Honden welkom op het tuinterras.",
           "mustTryDe": "Cabrito assado no forno, langsam geschmortes Zicklein mit Ofenkartoffeln.",
-          "tipDe": "Im Juni ist der Blick auf die blühenden Kirschbäume vom Garten aus spektakulär."
+          "mustTryNl": "Cabrito assado no forno, langzaam gestoofd geitenvlees met ovenaardappelen.",
+          "tipDe": "Im Juni ist der Blick auf die blühenden Kirschbäume vom Garten aus spektakulär.",
+          "tipNl": "In juni is het uitzicht op de bloeiende kersenbomen vanuit de tuin spectaculair."
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Fundão",
+      "titleNl": "Hondvriendelijke restaurants in Fundão",
       "introDe": "Fundãos kleines Stadtzentrum belohnt gemütliche Esser. Die Terrassen an der Avenida da Liberdade und in den Seitenstraßen nahe dem Markt füllen sich mittags mit Einheimischen, denen es nichts ausmacht, einen Hund unter dem Tisch anzubinden. Die Kirschsaison im Juni bringt besondere Menüs und festliche Stimmung mit sich, reservieren Sie im Voraus.",
-      "faqsDe": []
+      "introNl": "Het kleine stadscentrum van Fundão beloont gezellige eters. De terrassen aan de Avenida da Liberdade en in de zijstraten bij de markt vullen zich 's middags met locals die het niet erg vinden een hond onder de tafel vast te binden. Het kersenseizoen in juni brengt speciale menu's en een feestelijke sfeer met zich mee, reserveer van tevoren.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Parks and Walks in Fundão with a Dog",
@@ -146,9 +161,13 @@
           "tipPt": "A fonte junto à entrada principal enche facilmente um recipiente de viagem para cão.",
           "googleMapsUrl": "https://www.google.com/maps/search/Parque+da+Devesa+Fundao",
           "descriptionDe": "Fundãos wichtigster Stadtpark, mit schattigen, von Platanen gesäumten Wegen, einem kleinen See und offenen Rasenflächen. Die morgendliche Gassi-Runde ist eine lokale Institution. Leinenpflicht im gesamten Park.",
+          "descriptionNl": "Het belangrijkste stadspark van Fundão, met schaduwrijke, door platanen omzoomde paden, een klein meer en open grasvelden. Het ochtendrondje uitlaten is een lokale instelling. Aanlijnplicht in het hele park.",
           "petPolicyDe": "Hunde im gesamten Park an der Leine.",
+          "petPolicyNl": "Honden in het hele park aan de lijn.",
           "mustTryDe": "Die frühmorgendliche Runde um den See, bevor die Stadt erwacht.",
-          "tipDe": "Der Trinkbrunnen nahe dem Haupteingang füllt einen Hundereisenapf problemlos auf."
+          "mustTryNl": "Het vroege ochtendrondje om het meer, voordat de stad ontwaakt.",
+          "tipDe": "Der Trinkbrunnen nahe dem Haupteingang füllt einen Hundereisenapf problemlos auf.",
+          "tipNl": "De drinkfontein bij de hoofdingang vult een hondendrinkbakje probleemloos."
         },
         {
           "name": "Trilho do Rio Zêzere",
@@ -176,9 +195,13 @@
           "tipPt": "Estacione na aldeia de Valhelhas e desça ao rio a pé em 5 minutos.",
           "googleMapsUrl": "https://www.google.com/maps/search/Trilho+Zezere+Valhelhas",
           "descriptionDe": "Ein flacher Uferpfad entlang des Zêzere-Flusses nahe dem Dorf Valhelhas, mit natürlichen Felsbecken. Hunde können frei im Fluss schwimmen; der gesamte Weg liegt im Schatten. Der historische Turm von Valhelhas befindet sich am Ausgangspunkt.",
+          "descriptionNl": "Een vlak oeverpad langs de rivier de Zêzere nabij het dorp Valhelhas, met natuurlijke rotsbekkens. Honden mogen vrij zwemmen in de rivier; het hele pad ligt in de schaduw. De historische toren van Valhelhas bevindt zich bij het vertrekpunt.",
           "petPolicyDe": "Hunde willkommen; Schwimmen im Fluss erlaubt.",
+          "petPolicyNl": "Honden welkom; zwemmen in de rivier toegestaan.",
           "mustTryDe": "Die Granit-Felsbecken 1 km vom Ausgangspunkt entfernt, mit perfekter Wassertiefe zum Hundepaddeln.",
-          "tipDe": "Parken Sie im Dorf Valhelhas und gehen Sie zum Fluss hinunter; es sind nur 5 Minuten."
+          "mustTryNl": "De granieten rotsbekkens 1 km van het vertrekpunt, met perfecte waterdiepte om te pootjebaden met de hond.",
+          "tipDe": "Parken Sie im Dorf Valhelhas und gehen Sie zum Fluss hinunter; es sind nur 5 Minuten.",
+          "tipNl": "Parkeer in het dorp Valhelhas en loop naar de rivier, het is maar 5 minuten."
         },
         {
           "name": "Serra da Estrela - Rota das Aldeias de Xisto",
@@ -206,14 +229,21 @@
           "tipPt": "Descarregue a app Aldeias de Xisto para mapas offline antes de perder sinal.",
           "googleMapsUrl": "https://www.google.com/maps/search/Barroca+Aldeia+Xisto+Fundao",
           "descriptionDe": "Ein Netz markierter Wanderwege durch Schieferdörfer am Fuß der Serra da Estrela. Barroca ist von Fundão aus der nächstgelegene Zugangspunkt (20 km). Die markierten Pfade führen durch Steineichen- und Kastanienwald. Hunde sind auf allen markierten Wegen an der Leine erlaubt.",
+          "descriptionNl": "Een netwerk van gemarkeerde wandelpaden door leisteendorpen aan de voet van de Serra da Estrela. Barroca is vanuit Fundão het dichtstbijzijnde toegangspunt (20 km). De gemarkeerde paden lopen door steeneiken- en kastanjebos. Honden zijn op alle gemarkeerde paden aan de lijn toegestaan.",
           "petPolicyDe": "Hunde an der Leine auf allen markierten Wegen; in bestimmten Schutzzonen nahe dem Gipfelplateau keine Hunde erlaubt.",
+          "petPolicyNl": "Honden aan de lijn op alle gemarkeerde paden; in bepaalde beschermde zones bij het topplateau geen honden toegestaan.",
           "mustTryDe": "Das Schieferdorf Barroca, dessen Granitbrunnen eine gute Wasserstelle für Hunde ist.",
-          "tipDe": "Laden Sie die App Aldeias de Xisto für Offline-Wanderkarten herunter, bevor Sie den Empfangsbereich verlassen."
+          "mustTryNl": "Het leisteendorp Barroca, waarvan de granieten waterput een goede drinkplek is voor honden.",
+          "tipDe": "Laden Sie die App Aldeias de Xisto für Offline-Wanderkarten herunter, bevor Sie den Empfangsbereich verlassen.",
+          "tipNl": "Download de app Aldeias de Xisto voor offline wandelkaarten voordat je het ontvangstgebied verlaat."
         }
       ],
       "titleDe": "Parks und Spaziergänge in Fundão mit Hund",
+      "titleNl": "Parken en wandelingen in Fundão met hond",
       "introDe": "Fundão liegt am Fuß der Serra da Estrela, und schon eine kurze Fahrt nach Norden eröffnet alpine Wanderwege. In der Stadt ist der Parque da Devesa die lokale morgendliche Routine; weiter draußen bietet das Tal des Zêzere flache Uferwege, die für Hunde jeden Alters geeignet sind.",
-      "faqsDe": []
+      "introNl": "Fundão ligt aan de voet van de Serra da Estrela, en al een korte rit naar het noorden opent alpiene wandelpaden. In de stad is het Parque da Devesa de lokale ochtendroutine; verder weg biedt de vallei van de Zêzere vlakke oeverpaden die geschikt zijn voor honden van elke leeftijd.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting to Fundão with a Pet",
@@ -251,9 +281,13 @@
           "tipPt": "A A23 desde Lisboa é gratuita no trecho de Fundão.",
           "googleMapsUrl": "https://www.google.com/maps/search/Estacao+Fundao+comboio",
           "descriptionDe": "CP Comboios de Portugal betreibt Regionalzüge über Covilhã nach Guarda und Castelo Branco. Kleine Hunde in einer Transportbox reisen kostenlos; angeleinte Hunde zahlen ein halbes Ticket. Prüfen Sie den aktuellen Fahrplan auf cp.pt, da die Taktung gering ist (2–3 Züge pro Tag).",
+          "descriptionNl": "CP Comboios de Portugal exploiteert regionale treinen via Covilhã naar Guarda en Castelo Branco. Kleine honden in een draagtas reizen gratis; aangelijnde honden betalen een half ticket. Controleer de actuele dienstregeling op cp.pt, want de frequentie is laag (2-3 treinen per dag).",
           "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde an der Leine mit Maulkorb zahlen den halben Fahrpreis.",
+          "petPolicyNl": "Kleine honden in draagtas gratis; grotere honden aan de lijn met muilkorf betalen de helft van het tarief.",
           "mustTryDe": "Buchen Sie einen Mietwagen ab dem Flughafen Lissabon oder Porto, das verändert die Reise grundlegend.",
-          "tipDe": "Die A23 ab Lissabon ist im Abschnitt Fundão mautfrei, für diese Strecke wird keine Via Verde benötigt."
+          "mustTryNl": "Boek een huurauto vanaf de luchthaven van Lissabon of Porto, dat verandert de reis fundamenteel.",
+          "tipDe": "Die A23 ab Lissabon ist im Abschnitt Fundão mautfrei, für diese Strecke wird keine Via Verde benötigt.",
+          "tipNl": "De A23 vanaf Lissabon is in het gedeelte Fundão tolvrij, voor dit traject is geen Via Verde nodig."
         },
         {
           "name": "Lisbon Humberto Delgado Airport (LIS)",
@@ -281,9 +315,13 @@
           "tipPt": "Pré-reserve com Hertz Gold ou Europcar para evitar fila com o cão.",
           "googleMapsUrl": "https://www.google.com/maps/search/Lisbon+Airport+LIS",
           "descriptionDe": "Wichtigstes Einreisetor für Fundão. Fliegen Sie nach Lissabon, holen Sie einen Mietwagen ab und fahren Sie 2:30 Std. nordwärts über die A1, dann die A23. Haustierfreundliche Autovermietungen sind am Flughafen verfügbar, fragen Sie bei der Buchung nach einer Kofferraumabdeckung oder einem waschbaren Sitzschutz.",
+          "descriptionNl": "Belangrijkste toegangspoort voor Fundão. Vlieg naar Lissabon, haal een huurauto op en rijd 2:30 uur noordwaarts via de A1, daarna de A23. Huisdiervriendelijke autoverhuurders zijn beschikbaar op de luchthaven, vraag bij het boeken naar een kofferbakhoes of een wasbare stoelbeschermer.",
           "petPolicyDe": "Haustiere reisen je nach Airline-Richtlinie in der Kabine oder im Frachtraum; prüfen Sie Ihre Transportbox vor der Buchung.",
+          "petPolicyNl": "Huisdieren reizen afhankelijk van het beleid van de luchtvaartmaatschappij in de cabine of het ruim; controleer je draagtas voor het boeken.",
           "mustTryDe": "Buchen Sie einen kompakten SUV oder Kombi für Gepäck plus komfortable Hundebox.",
-          "tipDe": "Buchen Sie Ihren Mietwagen im Voraus bei Hertz Gold oder Europcar, um mit Hund die Warteschlange zu überspringen."
+          "mustTryNl": "Boek een compacte SUV of stationwagen voor bagage plus een comfortabele hondenbench.",
+          "tipDe": "Buchen Sie Ihren Mietwagen im Voraus bei Hertz Gold oder Europcar, um mit Hund die Warteschlange zu überspringen.",
+          "tipNl": "Boek je huurauto van tevoren bij Hertz Gold of Europcar om met hond de wachtrij over te slaan."
         },
         {
           "name": "Covilhã Bus Terminal",
@@ -311,14 +349,21 @@
           "tipPt": "Reservar online em redeexpressos.com poupa cerca de 10%.",
           "googleMapsUrl": "https://www.google.com/maps/search/Terminal+Covilha+autocarros",
           "descriptionDe": "Rede Expressos betreibt Fernbusse von Lissabon (Sete Rios) und Porto nach Covilhã (25 km von Fundão). Kleine Hunde in Transportboxen werden im Allgemeinen akzeptiert; bestätigen Sie dies vor der Reise beim Betreiber. Taxis von Covilhã nach Fundão kosten rund 20 €.",
+          "descriptionNl": "Rede Expressos exploiteert langeafstandsbussen van Lissabon (Sete Rios) en Porto naar Covilhã (25 km van Fundão). Kleine honden in draagtassen worden over het algemeen geaccepteerd; bevestig dit voor de reis bij de vervoerder. Taxi's van Covilhã naar Fundão kosten ongeveer 20 €.",
           "petPolicyDe": "Kleine Hunde in Transportboxen im Allgemeinen akzeptiert; vor der Buchung bestätigen.",
+          "petPolicyNl": "Kleine honden in draagtassen over het algemeen geaccepteerd; bevestig voor het boeken.",
           "mustTryDe": "Das Auto bleibt die einzig wirklich flexible Option, um die Region mit Hund zu erkunden.",
-          "tipDe": "Die Online-Buchung auf redeexpressos.com spart rund 10 % gegenüber dem Kauf am Terminal."
+          "mustTryNl": "De auto blijft de enige echt flexibele optie om de regio met hond te verkennen.",
+          "tipDe": "Die Online-Buchung auf redeexpressos.com spart rund 10 % gegenüber dem Kauf am Terminal.",
+          "tipNl": "Online boeken op redeexpressos.com bespaart ongeveer 10% ten opzichte van kopen aan het terminal."
         }
       ],
       "titleDe": "Mit Haustier nach Fundão anreisen",
+      "titleNl": "Met huisdier naar Fundão reizen",
       "introDe": "Für Fundão ist ein Auto unerlässlich. Die nächstgelegenen Flughäfen sind Lissabon (260 km, 2:30 Std. südlich) und Porto (265 km, 2:30 Std. nördlich). Die Autobahn A23 verbindet beide direkt mit Fundão. Es gibt einen Regionalbahnhof, doch die Verbindungen sind selten und erfordern einen Umstieg in Covilhã.",
-      "faqsDe": []
+      "introNl": "Voor Fundão is een auto onmisbaar. De dichtstbijzijnde luchthavens zijn Lissabon (260 km, 2:30 uur zuidelijk) en Porto (265 km, 2:30 uur noordelijk). De snelweg A23 verbindt beide rechtstreeks met Fundão. Er is een regionaal station, maar de verbindingen zijn schaars en vereisen overstappen in Covilhã.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Swimming Spots near Fundão with a Dog",
@@ -356,9 +401,13 @@
           "tipPt": "Chegue antes das 10:00 em julho-agosto para ter sombra; a tarde é movimentada.",
           "googleMapsUrl": "https://www.google.com/maps/search/Praia+Fluvial+Valhelhas",
           "descriptionDe": "Ein gepflegter Flussstrand am Zêzere, mit klarem, kühlem Wasser, einer kleinen Sandbank und natürlichem Schatten. Hunde sind im Fluss und auf den angrenzenden Grünflächen erlaubt. Nicht die offizielle Badezone, die den Menschen vorbehalten ist.",
+          "descriptionNl": "Een goed onderhouden rivierstrand aan de Zêzere, met helder, koel water, een kleine zandbank en natuurlijke schaduw. Honden zijn toegestaan in de rivier en op de aangrenzende grasvelden. Niet de officiële zwemzone, die voorbehouden is aan mensen.",
           "petPolicyDe": "Hunde außerhalb der offiziellen Badezone im Fluss erlaubt; Leine, wenn nicht im Wasser.",
+          "petPolicyNl": "Honden toegestaan buiten de officiële zwemzone in de rivier; aan de lijn wanneer niet in het water.",
           "mustTryDe": "Die Becken flussaufwärts, 500 m jenseits des Hauptstrands, ruhiger und tiefer.",
-          "tipDe": "Kommen Sie im Juli und August vor 10:00 Uhr, um Schatten zu bekommen; nachmittags ist es voll und heiß."
+          "mustTryNl": "De bekkens stroomopwaarts, 500 m voorbij het hoofdstrand, rustiger en dieper.",
+          "tipDe": "Kommen Sie im Juli und August vor 10:00 Uhr, um Schatten zu bekommen; nachmittags ist es voll und heiß.",
+          "tipNl": "Kom in juli en augustus voor 10:00 uur voor schaduw; 's middags is het druk en heet."
         },
         {
           "name": "Praia Fluvial de Idanha-a-Velha",
@@ -386,9 +435,13 @@
           "tipPt": "Combine com uma paragem em Monsanto (15km) - uma deslumbrante aldeia medieval no cimo do monte que os cães podem explorar.",
           "googleMapsUrl": "https://www.google.com/maps/search/Praia+Fluvial+Idanha+a+Velha",
           "descriptionDe": "Ein abgelegener Flussstrand am Fluss Ponsul nahe den römischen Ruinen von Idanha-a-Velha. Sehr wenige Besucher außerhalb des August. Hunde schwimmen frei entlang der meisten Uferabschnitte. Die UNESCO-gelisteten römischen Ruinen sind mit angeleintem Hund begehbar.",
+          "descriptionNl": "Een afgelegen rivierstrand aan de rivier de Ponsul nabij de Romeinse ruïnes van Idanha-a-Velha. Zeer weinig bezoekers buiten augustus. Honden zwemmen vrij langs de meeste oevergedeeltes. De op de UNESCO-lijst staande Romeinse ruïnes zijn met aangelijnde hond te belopen.",
           "petPolicyDe": "Hunde an den Ufern und im Wasser willkommen; Leine in der Nähe der römischen Ruinen.",
+          "petPolicyNl": "Honden welkom aan de oevers en in het water; aan de lijn in de buurt van de Romeinse ruïnes.",
           "mustTryDe": "Die römische Brücke bei Idanha, ein einprägsames Fotomotiv mit Hund.",
-          "tipDe": "Kombinieren Sie den Besuch mit einem Stopp im Dorf Monsanto (15 km), einem beeindruckenden mittelalterlichen Hügeldorf, das Hunde erkunden können."
+          "mustTryNl": "De Romeinse brug bij Idanha, een gedenkwaardig fotomotief met hond.",
+          "tipDe": "Kombinieren Sie den Besuch mit einem Stopp im Dorf Monsanto (15 km), einem beeindruckenden mittelalterlichen Hügeldorf, das Hunde erkunden können.",
+          "tipNl": "Combineer het bezoek met een stop in het dorp Monsanto (15 km), een indrukwekkend middeleeuws heuveldorp dat honden kunnen verkennen."
         },
         {
           "name": "Termas de Unhais da Serra",
@@ -416,14 +469,21 @@
           "tipPt": "Reserve o hotel diretamente para maior flexibilidade; ligue para confirmar a política de animais.",
           "googleMapsUrl": "https://www.google.com/maps/search/Termas+Unhais+da+Serra",
           "descriptionDe": "Ein traditionelles Thermalbad-Dorf am Fuß der Serra da Estrela. Das Hotel Termal da Unhais da Serra verfügt über Außenpools und ein Spa; Hunde sind im Hotel und bei Spaziergängen im umliegenden Dorf erlaubt. Kein Badestrand, aber ideal für einen haustierfreundlichen Übernachtungsaufenthalt, der Bergwanderungen mit Erholung verbindet.",
+          "descriptionNl": "Een traditioneel thermaalbaddorp aan de voet van de Serra da Estrela. Het Hotel Termal da Unhais da Serra beschikt over buitenzwembaden en een spa; honden zijn toegestaan in het hotel en bij wandelingen in het omliggende dorp. Geen zwemstrand, maar ideaal voor een huisdiervriendelijk overnachtingsverblijf dat bergwandelingen combineert met ontspanning.",
           "petPolicyDe": "Hunde im Hotel akzeptiert; in den Innenbereichen des Spas nicht erlaubt.",
+          "petPolicyNl": "Honden geaccepteerd in het hotel; niet toegestaan in de binnenruimtes van de spa.",
           "mustTryDe": "Der Waldweg oberhalb des Dorfes, eine 6 km lange Rundtour mit Flussblick und völliger Ruhe.",
-          "tipDe": "Buchen Sie das Hotel direkt für die flexibelste Haustierregelung; rufen Sie an, um die aktuellen Regeln zu bestätigen."
+          "mustTryNl": "Het bospad boven het dorp, een 6 km lange rondwandeling met rivierzicht en volledige rust.",
+          "tipDe": "Buchen Sie das Hotel direkt für die flexibelste Haustierregelung; rufen Sie an, um die aktuellen Regeln zu bestätigen.",
+          "tipNl": "Boek het hotel rechtstreeks voor de flexibelste huisdierregeling; bel om de actuele regels te bevestigen."
         }
       ],
       "titleDe": "Badestellen bei Fundão mit Hund",
+      "titleNl": "Zwemplekken bij Fundão met hond",
       "introDe": "Fundão liegt im Landesinneren, doch das Innere Portugals ist voller klarer Flussstrände (praias fluviais), an denen Hunde frei schwimmen können. Der Zêzere und seine Nebenflüsse bilden das Rückgrat des lokalen Netzes, und das Thermalbad-Dorf Unhais da Serra fügt 25 km entfernt eine erholsame Option hinzu.",
-      "faqsDe": []
+      "introNl": "Fundão ligt landinwaarts, maar het binnenland van Portugal zit vol heldere rivierstranden (praias fluviais), waar honden vrij kunnen zwemmen. De Zêzere en zijn zijrivieren vormen de ruggengraat van het lokale netwerk, en het thermaalbaddorp Unhais da Serra voegt op 25 km afstand een rustgevende optie toe.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Vets near Fundão",
@@ -461,9 +521,13 @@
           "tipPt": "Guarde o número do veterinário de urgência de Covilhã antes de sair de casa.",
           "googleMapsUrl": "https://www.google.com/maps/search/Veterinario+Fundao+Portugal",
           "descriptionDe": "Die örtliche Tierklinik im Zentrum von Fundão. Behandelt Routineuntersuchungen und leichtere Notfälle während der Geschäftszeiten. Für 24-Stunden-Notfälle nach Covilhã oder Castelo Branco fahren.",
+          "descriptionNl": "De lokale dierenkliniek in het centrum van Fundão. Behandelt routineonderzoeken en lichtere spoedgevallen tijdens openingstijden. Voor 24-uurs spoedgevallen naar Covilhã of Castelo Branco rijden.",
           "petPolicyDe": "Termine bevorzugt; bei dringenden Fällen werden auch Patienten ohne Termin angenommen.",
+          "petPolicyNl": "Afspraken hebben de voorkeur; bij dringende gevallen worden ook patiënten zonder afspraak aangenomen.",
           "mustTryDe": "Rufen Sie vorab an, um die Öffnungszeiten zu bestätigen, ländliche Kliniken schließen manchmal am frühen Nachmittag.",
-          "tipDe": "Speichern Sie die Notfallnummer des Tierarztes in Covilhã in Ihrem Telefon, bevor Sie losfahren."
+          "mustTryNl": "Bel vooraf om de openingstijden te bevestigen, landelijke klinieken sluiten soms al vroeg in de middag.",
+          "tipDe": "Speichern Sie die Notfallnummer des Tierarztes in Covilhã in Ihrem Telefon, bevor Sie losfahren.",
+          "tipNl": "Sla het spoednummer van de dierenarts in Covilhã op in je telefoon voordat je vertrekt."
         },
         {
           "name": "Clínica Veterinária de Covilhã",
@@ -491,9 +555,13 @@
           "tipPt": "A Universidade da Beira Interior em Covilhã tem uma clínica veterinária de ensino.",
           "googleMapsUrl": "https://www.google.com/maps/search/veterinario+Covilha+urgencia",
           "descriptionDe": "Covilhã, die Fundão am nächsten gelegene Stadt (25 km, 20 Minuten Fahrt), verfügt über mehrere Tierkliniken mit erweiterten Öffnungszeiten. Suchen Sie 'veterinário Covilhã' bei Google Maps für aktuelle Optionen und Kontakte.",
+          "descriptionNl": "Covilhã, de dichtstbijzijnde stad bij Fundão (25 km, 20 minuten rijden), beschikt over meerdere dierenklinieken met verlengde openingstijden. Zoek op 'veterinário Covilhã' in Google Maps voor actuele opties en contactgegevens.",
           "petPolicyDe": "Vorab anrufen, um aktuelle Öffnungszeiten und Notfallverfügbarkeit zu erfragen.",
+          "petPolicyNl": "Bel vooraf om actuele openingstijden en spoedbeschikbaarheid te vragen.",
           "mustTryDe": "Die Fahrt nach Covilhã über die IP2 dauert 20 Minuten, eine schnelle Notfallroute.",
-          "tipDe": "Die Universität Beira Interior in Covilhã hat eine Tiermedizinfakultät mit Lehrklinik."
+          "mustTryNl": "De rit naar Covilhã via de IP2 duurt 20 minuten, een snelle spoedroute.",
+          "tipDe": "Die Universität Beira Interior in Covilhã hat eine Tiermedizinfakultät mit Lehrklinik.",
+          "tipNl": "De Universiteit Beira Interior in Covilhã heeft een diergeneeskundefaculteit met leerkliniek."
         },
         {
           "name": "Hospital Veterinário de Castelo Branco",
@@ -521,14 +589,21 @@
           "tipPt": "A A23 sul faz os 30km em menos de 25 minutos - genuinamente rápido para uma urgência.",
           "googleMapsUrl": "https://www.google.com/maps/search/hospital+veterinario+Castelo+Branco",
           "descriptionDe": "Castelo Branco (30 km südlich, 25 Minuten Fahrt) ist die Bezirkshauptstadt und verfügt über die am besten ausgestatteten Tierarzteinrichtungen der Region, einschließlich 24-Stunden-Notfallversorgung. Suchen Sie 'hospital veterinário Castelo Branco' für aktuelle Kontakte.",
+          "descriptionNl": "Castelo Branco (30 km zuidelijk, 25 minuten rijden) is de districtshoofdstad en beschikt over de best uitgeruste dierenartsvoorzieningen van de regio, inclusief 24-uurs spoedzorg. Zoek op 'hospital veterinário Castelo Branco' voor actuele contactgegevens.",
           "petPolicyDe": "24-Stunden-Notfallversorgung verfügbar; vorab telefonisch bestätigen.",
+          "petPolicyNl": "24-uurs spoedzorg beschikbaar; vooraf telefonisch bevestigen.",
           "mustTryDe": "Speichern Sie Adresse und Telefonnummer vor Ihrer Reise in Ihren Kontakten.",
-          "tipDe": "Auf der A23 südwärts dauert die 30-km-Fahrt unter 25 Minuten, wirklich schnell für einen Notfall."
+          "mustTryNl": "Sla adres en telefoonnummer voor je reis op in je contacten.",
+          "tipDe": "Auf der A23 südwärts dauert die 30-km-Fahrt unter 25 Minuten, wirklich schnell für einen Notfall.",
+          "tipNl": "Op de A23 zuidwaarts duurt de rit van 30 km minder dan 25 minuten, echt snel voor een spoedgeval."
         }
       ],
       "titleDe": "Tierärzte bei Fundão",
+      "titleNl": "Dierenartsen bij Fundão",
       "introDe": "Fundão hat einen örtlichen Tierarzt, doch für Notfälle ist die beste Option Covilhã (25 km nördlich) oder Castelo Branco (30 km südlich), beide mit Kliniken mit erweiterten Öffnungszeiten. Führen Sie stets Ihren EU-Heimtierausweis und den Impfnachweis mit.",
-      "faqsDe": []
+      "introNl": "Fundão heeft een lokale dierenarts, maar voor spoedgevallen is de beste optie Covilhã (25 km noordelijk) of Castelo Branco (30 km zuidelijk), beide met klinieken met verlengde openingstijden. Neem altijd je EU-dierenpaspoort en vaccinatiebewijs mee.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Pet Travel Tips for Fundão",
@@ -566,9 +641,13 @@
           "tipPt": "De manhã cedo no mercado da festa é o momento mais calmo para passear com cão.",
           "googleMapsUrl": "https://www.google.com/maps/search/Feira+da+Cereja+Fundao",
           "descriptionDe": "Fundãos größte jährliche Veranstaltung im Juni feiert die Kirschernte mit Märkten, Konzerten und Verkostungen. Es ist lebhaft und voll. Hunde sind willkommen, doch in den belebten zentralen Straßen ist gutes Leinenmanagement wichtig. Buchen Sie Unterkünfte 2 Monate im Voraus.",
+          "descriptionNl": "Het grootste jaarlijkse evenement van Fundão in juni viert de kersenoogst met markten, concerten en proeverijen. Het is levendig en druk. Honden zijn welkom, maar in de drukke centrale straten is goed lijnbeheer belangrijk. Boek accommodatie 2 maanden van tevoren.",
           "petPolicyDe": "Hunde beim Freiluftfest willkommen; in belebten Bereichen angeleint halten.",
+          "petPolicyNl": "Honden welkom bij het openluchtfeest; houd ze in drukke gebieden aangelijnd.",
           "mustTryDe": "Frischer Ginja (Sauerkirschlikör), glasweise bei Ständen im gesamten Fest erhältlich.",
-          "tipDe": "Der frühe Morgen auf dem Festmarkt ist die ruhigste Zeit zum Bummeln mit Hund."
+          "mustTryNl": "Verse ginja (zure kersenlikeur), per glas verkrijgbaar bij kraampjes door heel het feest.",
+          "tipDe": "Der frühe Morgen auf dem Festmarkt ist die ruhigste Zeit zum Bummeln mit Hund.",
+          "tipNl": "De vroege ochtend op de festivalmarkt is het rustigste moment om met hond rond te lopen."
         },
         {
           "name": "Serra da Estrela Dog Rules",
@@ -596,9 +675,13 @@
           "tipPt": "Traga água para o seu cão - as nascentes de montanha são abundantes mas os riachos podem ter giárdia.",
           "googleMapsUrl": "https://www.google.com/maps/search/Serra+da+Estrela+Natural+Park",
           "descriptionDe": "Hunde sind auf markierten Wegen in der gesamten Serra da Estrela an der Leine erlaubt. In bestimmten streng geschützten Zonen nahe dem Gipfelplateau (Planalto da Torre) sind sie verboten. Prüfen Sie vor dem Aufstieg die Website des Naturparks oder das Parkbüro in Seia oder Gouveia.",
+          "descriptionNl": "Honden zijn op gemarkeerde paden in de hele Serra da Estrela aan de lijn toegestaan. In bepaalde strikt beschermde zones bij het topplateau (Planalto da Torre) zijn ze verboden. Controleer voor de beklimming de website van het natuurpark of het parkkantoor in Seia of Gouveia.",
           "petPolicyDe": "Hunde an der Leine auf markierten Wegen; in den Kernschutzzonen nahe dem Gipfel verboten.",
+          "petPolicyNl": "Honden aan de lijn op gemarkeerde paden; verboden in de kernbeschermingszones bij de top.",
           "mustTryDe": "Der Weg ab dem Dorf Sabugueiro (höchstgelegenes Dorf Portugals) ist eine einprägsame Wanderung mit Hund.",
-          "tipDe": "Bringen Sie Wasser für Ihren Hund mit, Bergquellen sind zahlreich, doch Bäche können in großer Höhe Giardien führen."
+          "mustTryNl": "Het pad vanaf het dorp Sabugueiro (hoogstgelegen dorp van Portugal) is een gedenkwaardige wandeling met hond.",
+          "tipDe": "Bringen Sie Wasser für Ihren Hund mit, Bergquellen sind zahlreich, doch Bäche können in großer Höhe Giardien führen.",
+          "tipNl": "Neem water mee voor je hond, bergbronnen zijn talrijk, maar beken kunnen op grote hoogte giardia bevatten."
         },
         {
           "name": "EU Pet Passport Reminder",
@@ -626,14 +709,21 @@
           "tipPt": "Fotografe as páginas do passaporte do seu animal e envie por email - útil se o original se perder.",
           "googleMapsUrl": "https://www.google.com/maps/search/DGAV+Portugal+animal+passport",
           "descriptionDe": "Portugal ist EU-Mitglied, daher genügt ein EU-Heimtierausweis mit gültigem Mikrochip und aktueller Tollwutimpfung, wenn Sie aus einem anderen EU-Land anreisen. Bei Anreise aus dem Vereinigten Königreich ist für jede Reise eine neue AHC (Animal Health Certificate) erforderlich. Eine Bandwurmbehandlung ist für die Einreise nach Portugal nicht mehr erforderlich.",
+          "descriptionNl": "Portugal is EU-lid, dus volstaat een EU-dierenpaspoort met geldige microchip en actuele rabiësvaccinatie als je vanuit een ander EU-land komt. Bij aankomst vanuit het Verenigd Koninkrijk is voor elke reis een nieuw AHC (Animal Health Certificate) vereist. Een lintwormbehandeling is voor binnenkomst in Portugal niet meer verplicht.",
           "petPolicyDe": "EU-Heimtierausweis für alle nach Portugal einreisenden Haustiere erforderlich.",
+          "petPolicyNl": "EU-dierenpaspoort vereist voor alle huisdieren die Portugal binnenkomen.",
           "mustTryDe": "Prüfen Sie gov.uk/defra oder die Website Ihrer nationalen Veterinärbehörde 4 Wochen vor der Reise auf die aktuellsten Regeln.",
-          "tipDe": "Fotografieren Sie die Seiten des Heimtierausweises Ihres Tieres und schicken Sie sie sich selbst per E-Mail, nützlich, falls das Original verloren geht."
+          "mustTryNl": "Controleer gov.uk/defra of de website van je nationale veterinaire autoriteit 4 weken voor de reis voor de meest actuele regels.",
+          "tipDe": "Fotografieren Sie die Seiten des Heimtierausweises Ihres Tieres und schicken Sie sie sich selbst per E-Mail, nützlich, falls das Original verloren geht.",
+          "tipNl": "Fotografeer de pagina's van het dierenpaspoort van je dier en mail ze naar jezelf, handig als het origineel kwijtraakt."
         }
       ],
       "titleDe": "Tipps für Reisen mit Haustier in Fundão",
+      "titleNl": "Tips voor reizen met huisdier in Fundão",
       "introDe": "Portugal ist eines der haustierfreundlichsten Länder Europas. Der EU-Heimtierausweis (Mikrochip + gültige Tollwutimpfung) ist alles, was Sie brauchen. Fundão und die umliegenden Berge sind für Hunde wirklich einfaches Terrain: breite Gehsteige, geduldige Einheimische und ein ländliches Tempo, das Tieren entgegenkommt.",
-      "faqsDe": []
+      "introNl": "Portugal is een van de huisdiervriendelijkste landen van Europa. Het EU-dierenpaspoort (microchip + geldige rabiësvaccinatie) is alles wat je nodig hebt. Fundão en de omliggende bergen zijn voor honden echt gemakkelijk terrein: brede stoepen, geduldige locals en een landelijk tempo dat dieren goed uitkomt.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions near Fundão",
@@ -671,9 +761,13 @@
           "tipPt": "A temperatura na Torre é tipicamente 10°C mais fria do que no vale - leve uma jaqueta para o cão na primavera.",
           "googleMapsUrl": "https://www.google.com/maps/search/Torre+Serra+da+Estrela+summit",
           "descriptionDe": "Der höchste Punkt des portugiesischen Festlands auf 1993 m, erreichbar über die Straße von Covilhã. Hunde sind im Parkplatzbereich und auf den umliegenden Wegen erlaubt. Im Winter ist es das einzige Skigebiet Portugals, im Sommer eine kühle Flucht vor der Hitze im Tal. Der berühmte 2000-m-Steinmarker ist ein guter Fotoplatz.",
+          "descriptionNl": "Het hoogste punt van het Portugese vasteland op 1993 m, bereikbaar via de weg vanaf Covilhã. Honden zijn toegestaan bij het parkeergebied en op de omliggende paden. In de winter is het het enige skigebied van Portugal, in de zomer een koele ontsnapping aan de hitte in de vallei. De beroemde 2000-m-stenen markering is een goede fotoplek.",
           "petPolicyDe": "Hunde im Freien erlaubt; in den kleinen Innenbereichen nicht gestattet.",
+          "petPolicyNl": "Honden buiten toegestaan; niet toegestaan in de kleine binnenruimtes.",
           "mustTryDe": "Der Blick vom Parkplatz nach Süden reicht an einem klaren Tag bis zum Atlantik.",
-          "tipDe": "Die Temperatur an der Torre ist typischerweise 10 °C kälter als im Tal von Fundão, bringen Sie im Frühjahr eine Jacke für den Hund mit."
+          "mustTryNl": "Het uitzicht vanaf de parkeerplaats naar het zuiden reikt op een heldere dag tot aan de Atlantische Oceaan.",
+          "tipDe": "Die Temperatur an der Torre ist typischerweise 10 °C kälter als im Tal von Fundão, bringen Sie im Frühjahr eine Jacke für den Hund mit.",
+          "tipNl": "De temperatuur bij de Torre is doorgaans 10 °C kouder dan in de vallei van Fundão, neem in de lente een jasje voor de hond mee."
         },
         {
           "name": "Monsanto",
@@ -701,9 +795,13 @@
           "tipPt": "Visite em dia de semana de manhã no verão para evitar grupos de autocarro; a aldeia é minúscula.",
           "googleMapsUrl": "https://www.google.com/maps/search/Monsanto+Portugal+village",
           "descriptionDe": "Eines der bekanntesten Dörfer Portugals, erbaut zwischen riesigen Granitfelsen, 1938 zum „portugiesischsten Dorf Portugals“ gewählt. Hunde können alle gepflasterten Gassen an der Leine frei erkunden. Die Burgruine oben bietet Panoramablicke über die Ebene von Idanha. Nirgendwo Eintritt.",
+          "descriptionNl": "Een van de bekendste dorpen van Portugal, gebouwd tussen enorme granietrotsen, in 1938 verkozen tot 'meest Portugese dorp van Portugal'. Honden kunnen alle geplaveide steegjes aangelijnd vrij verkennen. De kasteelruïne bovenop biedt panoramisch uitzicht over de vlakte van Idanha. Nergens toegangsprijs.",
           "petPolicyDe": "Hunde im gesamten Dorf an der Leine willkommen.",
+          "petPolicyNl": "Honden in het hele dorp welkom aan de lijn.",
           "mustTryDe": "Der Weg vom Parkplatz durch die Felsen hinauf zur Burg, Ihr Hund wird die Dimensionen lieben.",
-          "tipDe": "Besuchen Sie an einem Wochentagvormittag im Sommer, um Reisegruppen zu vermeiden, das Dorf ist winzig."
+          "mustTryNl": "Het pad vanaf de parkeerplaats door de rotsen omhoog naar het kasteel, je hond zal de afmetingen geweldig vinden.",
+          "tipDe": "Besuchen Sie an einem Wochentagvormittag im Sommer, um Reisegruppen zu vermeiden, das Dorf ist winzig.",
+          "tipNl": "Bezoek op een doordeweekse ochtend in de zomer om reisgroepen te vermijden, het dorp is piepklein."
         },
         {
           "name": "Penha Garcia - Dinosaur Footprints",
@@ -731,14 +829,21 @@
           "tipPt": "Descarregue a app do geoparque Naturtejo para o mapa do trilho autoguiado.",
           "googleMapsUrl": "https://www.google.com/maps/search/Penha+Garcia+pegadas+dinosauros",
           "descriptionDe": "Die Schieferschlucht bei Penha Garcia enthält Dinosaurier-Fußspuren auf den Felsplatten am Flussufer sowie einen markierten Geopark-Wanderweg von 5 km. Hunde können den gesamten Weg an der Leine frei begehen. Eine mittelalterliche Burgruine liegt oberhalb des Dorfes. Lässt sich hervorragend mit einem Besuch in Monsanto kombinieren.",
+          "descriptionNl": "De leisteenkloof bij Penha Garcia bevat dinosaurusvoetafdrukken op de rotsplaten bij de rivieroever, plus een gemarkeerd geopark-wandelpad van 5 km. Honden kunnen het hele pad aangelijnd vrij belopen. Een middeleeuwse kasteelruïne ligt boven het dorp. Uitstekend te combineren met een bezoek aan Monsanto.",
           "petPolicyDe": "Hunde an der Leine auf allen Geopark-Wegen.",
+          "petPolicyNl": "Honden aan de lijn op alle geopark-paden.",
           "mustTryDe": "Der Flussabschnitt bei Kilometer 2, wo die Dinosaurierspuren am besten sichtbar sind.",
-          "tipDe": "Laden Sie die App des Naturtejo-Geoparks für die selbstgeführte Wanderkarte herunter."
+          "mustTryNl": "Het riviergedeelte bij kilometer 2, waar de dinosaurussporen het best zichtbaar zijn.",
+          "tipDe": "Laden Sie die App des Naturtejo-Geoparks für die selbstgeführte Wanderkarte herunter.",
+          "tipNl": "Download de app van het Naturtejo-geopark voor de zelfstandige wandelkaart."
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten bei Fundão",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden bij Fundão",
       "introDe": "Fundão ist ein Ausgangspunkt für einige der eindrucksvollsten Landschaften Portugals. Der Gipfel Torre, der Weg der Schieferdörfer und das mittelalterliche Dorf Monsanto sind alle innerhalb einer Autostunde erreichbar. Keiner erhebt Eintritt für Hunde, und alle belohnen die Mühe.",
-      "faqsDe": []
+      "introNl": "Fundão is een vertrekpunt voor enkele van de indrukwekkendste landschappen van Portugal. De top Torre, het pad van de leisteendorpen en het middeleeuwse dorp Monsanto zijn allemaal binnen een uur rijden bereikbaar. Geen van alle vraagt toegangsprijs voor honden, en allemaal belonen ze de moeite.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting and Dog Services in Fundão",
@@ -776,9 +881,13 @@
           "tipPt": "Leve a cama ou manta do seu cão para uma primeira noite mais tranquila.",
           "googleMapsUrl": "https://www.google.com/maps/search/canil+hotel+canino+Covilha",
           "descriptionDe": "Covilhã verfügt über mehrere Hundepensionen. Suchen Sie 'canil Covilhã' oder 'hotel canino Covilhã' bei Google Maps für aktuelle Optionen mit Bewertungen. Buchen Sie im Sommer mindestens eine Woche im Voraus.",
+          "descriptionNl": "Covilhã beschikt over meerdere hondenpensions. Zoek op 'canil Covilhã' of 'hotel canino Covilhã' in Google Maps voor actuele opties met beoordelingen. Boek in de zomer minstens een week van tevoren.",
           "petPolicyDe": "Impfnachweise für die Unterbringung erforderlich (Tollwut, Staupe, Parvovirose).",
+          "petPolicyNl": "Vaccinatiebewijzen vereist voor onderbrenging (rabiës, hondenziekte, parvovirose).",
           "mustTryDe": "Rufen Sie vorab an und bitten Sie um einen Probetag, bevor Sie Ihren Hund über Nacht dort lassen.",
-          "tipDe": "Bringen Sie das eigene Bett oder die Decke Ihres Hundes mit für eine leichtere erste Nacht ohne Sie."
+          "mustTryNl": "Bel vooraf en vraag om een proefdag voordat je je hond er een nacht laat.",
+          "tipDe": "Bringen Sie das eigene Bett oder die Decke Ihres Hundes mit für eine leichtere erste Nacht ohne Sie.",
+          "tipNl": "Neem het eigen bed of de deken van je hond mee voor een makkelijkere eerste nacht zonder jou."
         },
         {
           "name": "Rover.com Portugal",
@@ -806,9 +915,13 @@
           "tipPt": "Envie mensagens em português para respostas mais rápidas - a maioria dos tratadores rurais não fala inglês.",
           "googleMapsUrl": "https://www.google.com/maps/search/pet+sitter+Covilha+Fundao",
           "descriptionDe": "Rover verbindet Haustierhalter mit örtlichen Betreuungspersonen, Hundeausführern und Tagespensionen. Die Abdeckung in ländlichen Gebieten wie Fundão ist dünn, doch Covilhã und Castelo Branco haben registrierte Betreuungspersonen. In der Sommersaison rechtzeitig im Voraus buchen.",
+          "descriptionNl": "Rover koppelt huisdiereigenaars aan lokale oppassers, hondenuitlaters en dagpensions. De dekking in landelijke gebieden zoals Fundão is dun, maar Covilhã en Castelo Branco hebben geregistreerde oppassers. Boek in het hoogseizoen in de zomer ruim van tevoren.",
           "petPolicyDe": "Je nach Betreuungsperson unterschiedlich; einzelne Profile prüfen.",
+          "petPolicyNl": "Verschilt per oppasser; individuele profielen controleren.",
           "mustTryDe": "Filtern Sie nach 'dog boarding' und stellen Sie den Standort auf Covilhã für die besten Optionen nahe Fundão.",
-          "tipDe": "Schreiben Sie Betreuungspersonen auf Portugiesisch für schnellere Antworten, die meisten ländlichen Betreuungspersonen sprechen kein Englisch."
+          "mustTryNl": "Filter op 'dog boarding' en zet de locatie op Covilhã voor de beste opties dicht bij Fundão.",
+          "tipDe": "Schreiben Sie Betreuungspersonen auf Portugiesisch für schnellere Antworten, die meisten ländlichen Betreuungspersonen sprechen kein Englisch.",
+          "tipNl": "Schrijf oppassers in het Portugees voor snellere reacties, de meeste landelijke oppassers spreken geen Engels."
         },
         {
           "name": "Ask your hotel",
@@ -836,14 +949,21 @@
           "tipPt": "Traga uma nota escrita com a rotina alimentar do seu cão e necessidades médicas em português.",
           "googleMapsUrl": "https://www.google.com/maps/search/Alambique+Hotel+Fundao",
           "descriptionDe": "In kleinen portugiesischen Städten ist die zuverlässigste Verbindung zur Haustierbetreuung Ihr Hotel oder Landhaus (Quinta). Die Besitzer kennen oft jemanden vor Ort, der informell Hunde betreut oder ausführt. Es lohnt sich, beim Check-in zu fragen, besonders wenn Sie einen Tagesausflug in ein Berggebiet ohne den Hund planen.",
+          "descriptionNl": "In kleine Portugese steden is de meest betrouwbare verbinding voor huisdierenoppas je hotel of landhuis (quinta). De eigenaars kennen vaak iemand ter plaatse die informeel honden oppast of uitlaat. Het is de moeite waard om bij de check-in te vragen, vooral als je een dagtrip naar een berggebied plant zonder de hond.",
           "petPolicyDe": "Informelle Vereinbarungen, Bedingungen klar absprechen.",
+          "petPolicyNl": "Informele afspraken, voorwaarden duidelijk bespreken.",
           "mustTryDe": "Ein kleines Trinkgeld (5-10 EUR) für informelle Betreuungspersonen wird immer geschätzt.",
-          "tipDe": "Bringen Sie eine schriftliche Notiz mit dem Fütterungsplan und eventuellen medizinischen Bedürfnissen Ihres Hundes auf Portugiesisch mit."
+          "mustTryNl": "Een kleine fooi (5-10 EUR) voor informele oppassers wordt altijd gewaardeerd.",
+          "tipDe": "Bringen Sie eine schriftliche Notiz mit dem Fütterungsplan und eventuellen medizinischen Bedürfnissen Ihres Hundes auf Portugiesisch mit.",
+          "tipNl": "Neem een geschreven notitie mee met het voedingsschema en eventuele medische behoeften van je hond in het Portugees."
         }
       ],
       "titleDe": "Haustierbetreuung und Hundedienste in Fundão",
+      "titleNl": "Huisdierenoppas en hondendiensten in Fundão",
       "introDe": "Fundão ist eine kleine Stadt, und spezialisierte Angebote zur Haustierbetreuung sind begrenzt. Ihre beste Option für eine Unterbringung ist Covilhã (25 km), das über mehrere Hundepensionen und Tierhotels verfügt. Für einen kurzen Tagesausflug ohne Ihren Hund fragen Sie Ihr Hotel nach einer Empfehlung für einen örtlichen Ausführer.",
-      "faqsDe": []
+      "introNl": "Fundão is een kleine stad, en gespecialiseerd aanbod voor huisdierenoppas is beperkt. Je beste optie voor onderbrenging is Covilhã (25 km), dat over meerdere hondenpensions en dierenhotels beschikt. Voor een korte dagtrip zonder je hond, vraag je hotel om een aanbeveling voor een lokale uitlater.",
+      "faqsDe": [],
+      "faqsNl": []
     }
   }
 }

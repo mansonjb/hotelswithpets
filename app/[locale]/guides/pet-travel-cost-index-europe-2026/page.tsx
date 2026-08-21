@@ -17,6 +17,7 @@ const COST_INDEX_PICK_LABELS: Record<string, { cheap: string; exp: string }> = {
   es: { cheap: 'Reserva una opción económica en las ciudades más baratas', exp: 'Reserva un buen alojamiento incluso en las ciudades más caras' },
   pt: { cheap: 'Reserve uma opção em conta nas cidades mais baratas', exp: 'Reserve uma boa estadia mesmo nas cidades mais caras' },
   de: { cheap: 'Buchen Sie ein günstiges Angebot in den preiswertesten Städten', exp: 'Buchen Sie einen tollen Aufenthalt selbst in den teuersten Städten' },
+  nl: { cheap: 'Boek een voordelige optie in de goedkoopste steden', exp: 'Boek een top verblijf, zelfs in de duurste steden' },
 }
 
 const STICKY_LABELS_COST: Record<string, { label: string; cta: string }> = {
@@ -25,6 +26,7 @@ const STICKY_LABELS_COST: Record<string, { label: string; cta: string }> = {
   es: { label: 'Compara precios de hoteles pet-friendly en Europa', cta: 'Ver hoteles' },
   pt: { label: 'Compare preços de hotéis pet-friendly em Europa', cta: 'Ver hotéis' },
   de: { label: 'Vergleichen Sie haustierfreundliche Hotelpreise in ganz Europa', cta: 'Hotels ansehen' },
+  nl: { label: 'Vergelijk huisdiervriendelijke hotelprijzen in heel Europa', cta: 'Bekijk hotels' },
 }
 
 const SLUG = 'pet-travel-cost-index-europe-2026'
@@ -120,6 +122,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     es: `Pet Travel Cost Index Europa 2026: auditamos ${GLOBAL.hotels} hoteles en ${GLOBAL.countries} países`,
     pt: `Pet Travel Cost Index Europa 2026: auditamos ${GLOBAL.hotels} hotéis en ${GLOBAL.countries} países`,
     de: `Pet Travel Cost Index Europa 2026: Wir haben ${GLOBAL.hotels} Hotels in ${GLOBAL.countries} Ländern geprüft`,
+    nl: `Pet Travel Cost Index Europa 2026: we hebben ${GLOBAL.hotels} hotels in ${GLOBAL.countries} landen doorgelicht`,
   }
   const descs: Record<string, string> = {
     en: `The 2026 cost benchmark for travelling Europe with a dog or cat. Average pet fees by country and city, % of pet-free hotels, and the cheapest vs most expensive cities for pet-friendly stays. Methodology + open dataset.`,
@@ -127,6 +130,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     es: `El benchmark de costes 2026 para viajar por Europa con perro o gato. Tarifas medias por país y ciudad, % de hoteles sin cargo, y las ciudades más baratas vs más caras para estancias pet-friendly. Metodología + datos abiertos.`,
     pt: `O benchmark de costes 2026 para viajar por Europa com cão o gato. Tarifas medias por país e cidade, % de hotéis sem cargo, e as cidades mais baratas vs mais caras para estadias pet-friendly. Metodología + datos abiertos.`,
     de: `Der Kosten-Benchmark 2026 für Reisen mit Hund oder Katze durch Europa. Durchschnittliche Haustiergebühren nach Land und Stadt, Prozentsatz gebührenfreier Hotels sowie die günstigsten und teuersten Städte für haustierfreundliche Aufenthalte. Methodik plus offener Datensatz.`,
+    nl: `De kostenbenchmark 2026 voor reizen door Europa met een hond of kat. Gemiddelde huisdiertoeslagen per land en stad, percentage huisdiervriendelijke hotels zonder toeslag, en de goedkoopste versus duurste steden voor een huisdiervriendelijk verblijf. Methodologie plus open dataset.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -140,6 +144,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         es: `${SITE_URL}/es/guides/${SLUG}`,
         pt: `${SITE_URL}/pt/guides/${SLUG}`,
         de: `${SITE_URL}/de/guides/${SLUG}`,
+        nl: `${SITE_URL}/nl/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },
@@ -479,6 +484,67 @@ const COPY: Record<string, {
     ctaButton: 'Alle 96 Reiseziele ansehen →',
     feeUnit: '€',
     freeLabel: 'kostenlos',
+  },
+  nl: {
+    hero: {
+      kicker: 'PET TRAVEL COST INDEX · EDITIE 2026',
+      h1: `We hebben ${GLOBAL.hotels} huisdiervriendelijke hotels in ${GLOBAL.countries} Europese landen doorgelicht`,
+      lede: `De kostenbenchmark 2026 voor reizen door Europa met een hond of kat, gemiddelde huisdiertoeslagen per land en stad, hoeveel procent van de hotels niets in rekening brengt, en het verrassende verschil van 37 €/nacht tussen de goedkoopste en de duurste Europese stad.`,
+    },
+    intro: {
+      title: 'Waarom dit belangrijk is',
+      paras: [
+        `Huisdiertoeslagen zijn de meest ondoorzichtige post in de Europese hotelprijzen. Booking.com toont ze inconsistent, de OTA-filters missen de meeste ervan, en de verschillen zijn enorm: een enkel weekend in Manchester of Bath kan meer kosten aan huisdiertoeslagen dan 5 nachten in Straatsburg of Brugge.`,
+        `Voor deze editie van 2026 hebben we elk huisdierbeleid op ons platform doorgelicht, ${GLOBAL.hotels} geverifieerde huisdiervriendelijke hotels in ${GLOBAL.cities} Europese steden en ${GLOBAL.countries} landen. De toeslag per nacht van elk hotel is rechtstreeks gehaald uit de Booking.com-vermelding of de hotelwebsite, en vervolgens omgerekend naar euro voor vergelijking.`,
+        `De resultaten hieronder vormen de meest uitgebreide open benchmark van Europese huisdiervriendelijke hotelkosten die dit jaar is gepubliceerd. De volledige onderliggende dataset staat op onze bestemmings- en hotelpagina's, elke statistiek per stad kan tot op het individuele hotel worden uitgesplitst.`,
+      ],
+    },
+    keyFindings: {
+      title: 'De belangrijkste cijfers',
+      items: [
+        { stat: `${GLOBAL.avgFee} €`, label: 'gemiddelde huisdiertoeslag per nacht in Europa' },
+        { stat: `${GLOBAL.pctFree}%`, label: 'van de doorgelichte hotels brengt helemaal geen huisdiertoeslag in rekening' },
+        { stat: `${GLOBAL.avgRoom} €`, label: 'gemiddelde kamerprijs per nacht in huisdiervriendelijke hotels' },
+        { stat: `37 €`, label: 'verschil per nacht tussen de goedkoopste en de duurste Europese stad' },
+      ],
+    },
+    methodology: {
+      title: 'Hoe we dit hebben berekend',
+      paras: [
+        `We hebben de gepubliceerde toeslag per nacht voor elk hotel gehaald uit het actuele Booking.com-huisdierbeleid of de directe hotelwebsite (gegevens verzameld april-mei 2026). Hotels die alleen "Huisdieren op aanvraag toegestaan" vermelden zonder prijs, zijn uitgesloten van het gemiddelde om vertekening te voorkomen.`,
+        `Toeslagen in andere valuta dan EUR (GBP, CHF, SEK, NOK, DKK, CZK, HUF, PLN, BGN, RON, ISK) zijn omgerekend naar EUR met de gemiddelde maandkoers van mei 2026. Wanneer een hotel per verblijf in plaats van per nacht rekent, hebben we omgerekend op basis van 3 nachten, de gemiddelde duur van een binnenlandse reis in het VK.`,
+        `Gemiddelden per land vereisen minstens 5 hotels met prijs om te worden opgenomen (we publiceren de hotelaantallen in de tabel). De ${countryRows.length} landen hieronder halen die grens allemaal; nog eens 7 landen met minimale dekking zijn te dun in de steekproef om verantwoord te publiceren en worden samengevoegd met het regionale gemiddelde.`,
+        `Rankings per stad vereisen minstens 3 hotels met prijs. We sluiten prijzen op basis van één hotel uit als onbetrouwbaar. Wanneer meerdere bronnen voor hetzelfde hotel van elkaar afweken, hebben we het laagste cijfer gebruikt, de kerncijfers hieronder zijn bewust conservatief.`,
+        `Onze ruwe dataset wordt gepubliceerd als de actuele bestanden destinations.json en hotels.json in de repository achter deze site, openlijk in te zien op elke bestemmingspagina. We verbinden ons tot een jaarlijkse her-audit in Q2.`,
+      ],
+    },
+    countryTitle: 'Huisdiertoeslag per land (gesorteerd van goedkoopste naar duurste)',
+    countryIntro: `Zweden, Tsjechië en België gaan aan kop in de ranglijst van goedkoopste huisdierverblijven, meer dan 47% van de doorgelichte hotels brengt helemaal niets in rekening. Het VK en de Balkan (Servië, Bulgarije) staan bovenaan de kostenranglijst, aangedreven door een ketencultuur die huisdieren als een aparte inkomstenpost behandelt.`,
+    cityCheapTitle: 'De 10 goedkoopste Europese steden voor een huisdiervriendelijk verblijf',
+    cityCheapIntro: `Dit zijn de steden waar het toevoegen van een hond of kat aan je hotelboeking het minst kost. Twee steden, Göteborg en Lausanne, komen momenteel uit op een gemiddelde van 0 €: elk hotel met prijs in onze steekproef brengt niets in rekening.`,
+    cityExpTitle: 'De 10 duurste Europese steden voor een huisdiervriendelijk verblijf',
+    cityExpIntro: `Manchester, Bath en Belgrado zijn de opvallendste uitschieters: gemiddelde huisdiertoeslagen boven 33 €/nacht, nauwelijks hotels met een gratis huisdierverblijf, en totale toeslagen per nacht (kamer plus huisdier) die overeenkomen met een retourticket bij een budgetmaatschappij.`,
+    cols: { rank: '#', country: 'Land', city: 'Stad', cities: 'Steden', hotels: 'Hotels', avgFee: 'Gem. toeslag', pctFree: '% gratis', avgRoom: 'Gem. kamer' },
+    takeawayTitle: 'Praktische inzichten voor 2026',
+    takeawayParas: [
+      `Als je flexibel bent met je bestemming, kies dan voor Noord-Europa (Zweden, België, Nederland, Tsjechië) voordat je het VK of de Balkan boekt. Zelfde reisduur, vaak 100 €+ bespaard alleen al op de huisdiertoeslag over een verblijf van 5 nachten.`,
+      `Boek je specifiek in het VK, geef dan voorrang aan Premier Inn, Travelodge en Holiday Inn Express, ketens die de huisdiertoeslag beperken tot £10 per verblijf. Onafhankelijke boetiekhotels in het VK rekenen doorgaans £25-35/nacht, wat flink oploopt tijdens een lang weekend.`,
+      `In mediterrane steden (Barcelona, Athene, Lissabon, Valencia, Split) rekent meer dan 50% van de huisdiervriendelijke hotels niets, het Europese Middellandse Zeegebied is structureel de goedkoopste zone voor reizen met huisdier in de EU. Combineer dit met hondenstranden die het hele jaar open zijn voor de beste prijs-kwaliteitverhouding.`,
+      `Bevestig de huisdiertoeslag altijd opnieuw bij het boeken, Booking.com toont het beleid op het moment van zoeken, maar meerdere ketens rekenen een toeslag voor een "tweede huisdier" die pas in de boekingsbevestiging per e-mail verschijnt. Boek een tarief met gratis annulering, zodat je onderhandelingsruimte hebt als de toeslag na boeking afwijkt.`,
+    ],
+    faqTitle: 'Veelgestelde vragen',
+    faqs: [
+      { q: 'Hoe is de dataset verzameld?', a: `We hebben huisdiertoeslagen en -beleid geregistreerd van ${GLOBAL.hotels} hotels die vermeld staan op hotelswithpets.com, met bronnen uit Booking.com-huisdierbeleid en hotelwebsites tussen april en mei 2026. Elke vermelding is, waar mogelijk, gecontroleerd aan de hand van het directe huisdierbeleid van het hotel.` },
+      { q: 'Waarom is het VK zo duur?', a: `De Britse horeca behandelt huisdiertoeslagen als een aparte inkomstenpost, niet als een gastvrije service. De gemiddelde Britse huisdiertoeslag (26 €) is meer dan het dubbele van het mediterrane gemiddelde (~10 €). Premier Inn en Travelodge zijn met £10 per verblijf de budgetuitzonderingen; de meeste onafhankelijke hotels en 4-5★-ketens rekenen £25-35/nacht.` },
+      { q: `Wat is een "gratis" huisdierhotel?`, a: `Een hotel waarvan het gepubliceerde huisdierbeleid geen toeslag per nacht of per verblijf vermeldt. Sommige hotels vragen nog wel een terugbetaalbare borg voor schade of beperken het huisdier tot bepaalde kamertypes, we tellen deze als "gratis" als er bij check-in of check-out geen toeslag wordt gerekend.` },
+      { q: 'Zijn deze prijzen definitief?', a: `Dit zijn richtcijfers en een indicatie van typische kosten. Bevestig altijd bij het boeken, want hotels kunnen hun huisdierbeleid seizoensgebonden wijzigen en veel ketens hanteren maximumbedragen per verblijf die niet zichtbaar zijn in de zoekresultaten.` },
+      { q: 'Hoe vaak wordt deze index bijgewerkt?', a: `Jaarlijks, in Q2 (april-mei). De editie van 2027 staat gepland voor mei 2027 en volgt de meerjarige ontwikkeling van de belangrijkste landengemiddelden, we verwachten dat Zweden en België onderaan blijven en het VK bovenaan, tenzij er een structurele beleidswijziging komt.` },
+    ],
+    ctaTitle: 'Bekijk de volledige dataset',
+    ctaDesc: 'Elke huisdiertoeslag en hotelbeoordeling in deze index staat gepubliceerd op de bijbehorende bestemmingspagina. Kies een stad om het volledige hotelaanbod, dierenartscontacten, parken en een live Booking.com-kaart te zien.',
+    ctaButton: 'Bekijk alle 96 bestemmingen →',
+    feeUnit: '€',
+    freeLabel: 'gratis',
   },
 }
 

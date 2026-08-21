@@ -39,9 +39,13 @@
           "mustTryPt": "Waffle norueguês com queijo castanho, fårikål, cerveja artesanal EC Dahls",
           "tipPt": "O sítio de waffle com cão mais fotogénico de Trondheim: as fachadas de madeira de Bakklandet captam a luz do solstício de verão norueguês às 22:00.",
           "descriptionDe": "Ein aus dem 18. Jahrhundert stammendes hölzernes Poststationsgebäude, heute Café-Restaurant, mit traditionellen norwegischen Gerichten (Rakfisk, Fårikål), hausgemachten Waffeln und regionalem Craft-Bier. Hunde sind ganzjährig im gemütlichen Holzinneren und auf der Vorderterrasse willkommen.",
+          "descriptionNl": "Een 18e-eeuws houten poststationsgebouw, nu een café-restaurant, met traditionele Noorse gerechten (rakfisk, fårikål), zelfgemaakte wafels en regionaal craft-bier. Honden zijn het hele jaar welkom in het gezellige houten interieur en op het terras aan de voorkant.",
           "petPolicyDe": "Hunde drinnen und auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom binnen en op het terras",
           "mustTryDe": "Norwegische Waffel mit braunem Käse, Fårikål, EC-Dahls-Craft-Bier",
-          "tipDe": "Der fotogenste Waffel-und-Hund-Ort in Trondheim, die Holzfassaden von Bakklandet fangen um 22:00 Uhr das norwegische Mittsommerlicht ein."
+          "mustTryNl": "Noorse wafel met bruine kaas, fårikål, EC-Dahls craft-bier",
+          "tipDe": "Der fotogenste Waffel-und-Hund-Ort in Trondheim, die Holzfassaden von Bakklandet fangen um 22:00 Uhr das norwegische Mittsommerlicht ein.",
+          "tipNl": "De meest fotogenieke wafel-en-hond-plek van Trondheim, de houten gevels van Bakklandet vangen rond 22:00 uur het Noorse midzomerlicht."
         },
         {
           "name": "Sushi & Wok Solsiden",
@@ -69,9 +73,13 @@
           "mustTryPt": "Sashimi de salmão norueguês, poke bowl de salmão, IPA artesanal Borg",
           "tipPt": "A esplanada virada a oeste apanha o pôr do sol de Solsiden sobre o rio Nidelva, o melhor momento para estar com o cão e sushi às 21:00 no verão.",
           "descriptionDe": "Ein modernes Sushi-Wok-Restaurant an der Hafenpromenade von Solsiden mit norwegisch bezogenem Lachs und Flussterrasse mit Blick auf die Marina. Hunde sind ganzjährig auf der Außenterrasse willkommen (im Winter mit Heizstrahlern).",
+          "descriptionNl": "Een modern sushi-wok-restaurant aan de havenboulevard van Solsiden met Noors gekweekte zalm en een terras aan het water met uitzicht op de jachthaven. Honden zijn het hele jaar welkom op het terras buiten (met terrasverwarming in de winter).",
           "petPolicyDe": "Hunde ganzjährig auf der Außenterrasse",
+          "petPolicyNl": "Honden het hele jaar welkom op het terras buiten",
           "mustTryDe": "Norwegisches Lachs-Sashimi, Lachs-Poke-Bowl, Borg-Craft-IPA",
-          "tipDe": "Die nach Westen ausgerichtete Terrasse fängt den Sonnenuntergang von Solsiden über dem Fluss Nidelva ein, im Sommer um 21:00 Uhr das beste Hunde-Beobachten mit Sushi."
+          "mustTryNl": "Noorse zalm sashimi, zalm poke bowl, Borg craft-IPA",
+          "tipDe": "Die nach Westen ausgerichtete Terrasse fängt den Sonnenuntergang von Solsiden über dem Fluss Nidelva ein, im Sommer um 21:00 Uhr das beste Hunde-Beobachten mit Sushi.",
+          "tipNl": "Het naar het westen gerichte terras vangt de zonsondergang van Solsiden boven de rivier de Nidelva, 's zomers om 21:00 uur het beste moment om honden te spotten bij je sushi."
         },
         {
           "name": "Folk og Røvere",
@@ -99,9 +107,13 @@
           "mustTryPt": "Hambúrguer vegetariano, Pilsner EC Dahls, ouvir vinis com um café",
           "tipPt": "As tardes (14:00 às 17:00) são as mais calmas para um café com o cão aos seus pés; à sexta-feira à noite o ambiente torna-se ruidoso depois das 22:00.",
           "descriptionDe": "Eine bohemienhafte Bar-Restaurant-Kombination im Zentrum von Trondheim mit Vinylmusik, vegetarierfreundlicher Speisekarte und wechselndem regionalem Craft-Bier. Hunde sind ganzjährig im gesamten kleinen Innenraum willkommen, Wassernäpfe stehen an der Tür bereit.",
+          "descriptionNl": "Een bohemien bar-restaurant-combinatie in het centrum van Trondheim met vinylmuziek, een vegetarisch-vriendelijke kaart en wisselend regionaal craft-bier. Honden zijn het hele jaar welkom in de hele kleine ruimte binnen, waterbakjes staan klaar bij de deur.",
           "petPolicyDe": "Hunde überall willkommen",
+          "petPolicyNl": "Honden overal welkom",
           "mustTryDe": "Vegetarischer Burger, EC-Dahls-Pilsner, Vinylhören bei Kaffee",
-          "tipDe": "Nachmittage (14:00-17:00 Uhr) sind am ruhigsten für einen Kaffee mit dem Hund zu Füßen, freitagabends wird es nach 22:00 Uhr laut."
+          "mustTryNl": "Vegetarische burger, EC-Dahls pilsner, vinyl luisteren bij de koffie",
+          "tipDe": "Nachmittage (14:00-17:00 Uhr) sind am ruhigsten für einen Kaffee mit dem Hund zu Füßen, freitagabends wird es nach 22:00 Uhr laut.",
+          "tipNl": "Middagen (14:00-17:00 uur) zijn het rustigst voor een koffie met de hond aan je voeten, op vrijdagavond wordt het na 22:00 uur druk."
         }
       ],
       "tipsEn": [
@@ -167,7 +179,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Trondheim",
+      "titleNl": "Hondvriendelijke restaurants in Trondheim",
       "introDe": "Die norwegische Café-Kultur in Trondheim ist durchweg hundefreundlich, angeleinte Hunde sind standardmäßig auf Terrassen willkommen, und viele Cafés akzeptieren sie außerhalb der Stoßzeiten auch drinnen. Das hölzerne Viertel Bakklandet und der Hafen von Solsiden konzentrieren die besten unabhängigen Lokale.",
+      "introNl": "De Noorse cafécultuur in Trondheim is doorgaans hondvriendelijk, aangelijnde honden zijn standaard welkom op terrassen, en veel cafés accepteren ze buiten de spits ook binnen. De houten wijk Bakklandet en de haven van Solsiden concentreren de beste onafhankelijke zaken.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Trondheim erlaubt?",
@@ -176,6 +190,16 @@
         {
           "q": "Was ist die regionale norwegische Spezialität in Trondheim?",
           "a": "Trøndelag-Spezialitäten: Rakfisk (fermentierter Fisch, umstritten), Fårikål (Norwegens Nationalgericht, Eintopf aus Lamm und Kohl) und der ikonische braune Käse (Brunost). Am besten kombiniert mit den lokalen EC-Dahls-Craft-Bieren."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden welkom in restaurants in Trondheim?",
+          "a": "Ja, in de meeste. Ongeveer 80% van de cafés en informele restaurants in Trondheim accepteert aangelijnde honden het hele jaar door in de hoofdruimte. Chique fine-dining zaken laten honden alleen op terrassen toe."
+        },
+        {
+          "q": "Wat is de regionale Noorse specialiteit in Trondheim?",
+          "a": "Trøndelag-specialiteiten: rakfisk (gefermenteerde vis, omstreden), fårikål (Noorwegens nationale gerecht, stoofpot van lam en kool) en de iconische bruine kaas (brunost). Het lekkerst gecombineerd met de lokale EC-Dahls craft-bieren."
         }
       ]
     },
@@ -231,8 +255,11 @@
           ],
           "tipPt": "Autocarro 10 a partir do centro de Trondheim até Skistua (25 min), cães com açaime viajam grátis. O circuito Skistua-Lianvatnet de 5 km é o passeio canino icónico de Trondheim.",
           "leashRuleDe": "Leinenpflicht 1. April-19. August; ansonsten ohne Leine",
+          "leashRuleNl": "Aanlijnplicht 1 april-19 augustus; anders los",
           "descriptionDe": "Trondheims größter städtischer Wald, 80 km² Kiefern, Fichten und Seen westlich der Stadt, 200 km markierte Sommerwanderwege und Wintter-Langlaufloipen. Freier öffentlicher Zugang, die Skihütten Skistua und Lianvatnet sind ganzjährig geöffnet.",
-          "tipDe": "Bus 10 vom Zentrum Trondheims zur Skistua (25 Min.), Hunde mit Maulkorb fahren kostenlos. Die 5-km-Runde Skistua-Lianvatnet ist der ikonische Hundespaziergang in Trondheim."
+          "descriptionNl": "Trondheims grootste stadsbos, 80 km² dennen, sparren en meren ten westen van de stad, 200 km gemarkeerde zomerwandelpaden en langlaufloipen in de winter. Vrije openbare toegang, de skihutten Skistua en Lianvatnet zijn het hele jaar open.",
+          "tipDe": "Bus 10 vom Zentrum Trondheims zur Skistua (25 Min.), Hunde mit Maulkorb fahren kostenlos. Die 5-km-Runde Skistua-Lianvatnet ist der ikonische Hundespaziergang in Trondheim.",
+          "tipNl": "Bus 10 vanaf het centrum van Trondheim naar Skistua (25 min.), honden met muilkorf reizen gratis. De 5 km-rondwandeling Skistua-Lianvatnet is dé iconische hondenwandeling van Trondheim."
         },
         {
           "name": "Nidelva Riverside Path",
@@ -278,8 +305,11 @@
           ],
           "tipPt": "Melhor no solstício de verão norueguês (21 de junho), quando o sol mal se põe: percorrer todo o caminho às 23:00 com luz vespertina é um ritual de Trondheim.",
           "leashRuleDe": "Ganzjährig Leinenpflicht",
+          "leashRuleNl": "Het hele jaar aanlijnplicht",
           "descriptionDe": "Der flache, 5 km lange Weg entlang der Nidelva, asphaltiert/geschottert, führt von der Altstadtbrücke vorbei an Bakklandet, dem Hafen Solsiden und bis zum Eingang des Waldes Estenstadmarka. Der beliebteste zentrale Hundespaziergang in Trondheim.",
-          "tipDe": "Am schönsten zur norwegischen Mittsommerzeit (21. Juni), wenn die Sonne kaum untergeht; der gesamte Weg im Abendlicht um 23:00 Uhr ist ein Ritual in Trondheim."
+          "descriptionNl": "Het vlakke, 5 km lange pad langs de Nidelva, geasfalteerd/verhard, loopt van de oude-stadsbrug langs Bakklandet, de haven Solsiden en tot aan de ingang van het bos Estenstadmarka. De populairste centrale hondenwandeling in Trondheim.",
+          "tipDe": "Am schönsten zur norwegischen Mittsommerzeit (21. Juni), wenn die Sonne kaum untergeht; der gesamte Weg im Abendlicht um 23:00 Uhr ist ein Ritual in Trondheim.",
+          "tipNl": "Het mooist rond de Noorse midzomer (21 juni), wanneer de zon nauwelijks ondergaat; het hele pad in avondlicht om 23:00 uur is een ritueel in Trondheim."
         },
         {
           "name": "Estenstadmarka",
@@ -325,8 +355,11 @@
           ],
           "tipPt": "O lago Jonsvatnet é a fonte de água potável da cidade, pelo que os cães devem manter-se a 50 m da água (sinalizado). Para banho canino, vá antes ao Lianvatnet, em Bymarka.",
           "leashRuleDe": "Leinenpflicht 1. April-19. August; ansonsten ohne Leine",
+          "leashRuleNl": "Aanlijnplicht 1 april-19 augustus; anders los",
           "descriptionDe": "Das östliche Gegenstück zu Bymarka, 32 km² Kiefernwald mit mehreren kleinen Seen, 80 km markierte Wander- und Loipenwege und dem Trinkwassersee Jonsvatnet. Direkter Zugang vom Zentrum Trondheims über den Nidelva-Weg.",
-          "tipDe": "Jonsvatnet ist die Trinkwasserquelle der Stadt, Hunde müssen 50 m Abstand zum Wasser halten (ausgeschildert). Zum Schwimmen mit Hund gehen Sie stattdessen zum Lianvatnet in Bymarka."
+          "descriptionNl": "De oostelijke tegenhanger van Bymarka, 32 km² dennenbos met verschillende kleine meren, 80 km gemarkeerde wandel- en langlaufpaden en het drinkwatermeer Jonsvatnet. Directe toegang vanaf het centrum van Trondheim via het Nidelva-pad.",
+          "tipDe": "Jonsvatnet ist die Trinkwasserquelle der Stadt, Hunde müssen 50 m Abstand zum Wasser halten (ausgeschildert). Zum Schwimmen mit Hund gehen Sie stattdessen zum Lianvatnet in Bymarka.",
+          "tipNl": "Jonsvatnet is de drinkwaterbron van de stad, honden moeten 50 m afstand houden van het water (bebord). Ga voor zwemmen met je hond in plaats daarvan naar het Lianvatnet in Bymarka."
         }
       ],
       "tipsEn": [
@@ -392,7 +425,9 @@
         }
       ],
       "titleDe": "Hundeparks & Grünflächen in Trondheim",
+      "titleNl": "Hondenparken & groengebieden in Trondheim",
       "introDe": "Trondheim ist von Wald und Fjord umgeben, der städtische Wald Bymarka bedeckt 80 km² westlich der Stadt, der Wald Estenstadmarka erstreckt sich im Osten, und der Uferweg entlang der Nidelva schlängelt sich durch das Zentrum. Norwegens strenge Leinenpflicht (1. April-19. August) gilt in allen ländlichen Gebieten.",
+      "introNl": "Trondheim is omringd door bos en fjord, het stadsbos Bymarka beslaat 80 km² ten westen van de stad, het bos Estenstadmarka strekt zich uit in het oosten, en het oeverpad langs de Nidelva slingert door het centrum. Noorwegens strikte aanlijnplicht (1 april-19 augustus) geldt in alle landelijke gebieden.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde in Trondheim ohne Leine laufen?",
@@ -401,6 +436,16 @@
         {
           "q": "Können Hunde in den Seen von Trondheim schwimmen?",
           "a": "Ja, im See Lianvatnet in Bymarka und den meisten kleinen Waldseen (Freilaufsaison September-März). Jonsvatnet ist die Trinkwasserquelle der Stadt, dort müssen Hunde 50 m Abstand zum Wasser halten."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden los lopen in Trondheim?",
+          "a": "Het hele jaar los mag alleen in de 6 omheinde stedelijke hondenparken (Hundepark). Buiten die gebieden geldt volgens de Noorse wet van 1 april tot 19 augustus aanlijnplicht; van september tot maart mogen honden op de meeste landelijke wandelpaden in Bymarka en Estenstadmarka los lopen."
+        },
+        {
+          "q": "Kunnen honden zwemmen in de meren van Trondheim?",
+          "a": "Ja, in het meer Lianvatnet in Bymarka en de meeste kleine bosmeren (losloopseizoen september-maart). Jonsvatnet is de drinkwaterbron van de stad, daar moeten honden 50 m afstand houden van het water."
         }
       ]
     },
@@ -431,8 +476,11 @@
           "petPolicyPt": "Grátis com trela + açaime",
           "tipPt": "Os autocarros noruegueses exigem açaime para cães médios e grandes (os cães pequenos em transportadora estão isentos), leve um açaime macio, vendido em qualquer loja de animais norueguesa por 200 a 300 NOK.",
           "descriptionDe": "AtB betreibt Trondheims Busnetz, einschließlich Bus 10 nach Bymarka (Skistua) und Bus 3 zur Munkholmen-Fähre. Angeleinte Hunde mit Maulkorb fahren kostenlos; für den Hund ist kein Ticket nötig. Zu den großzügigsten Regeln Europas gehörend.",
+          "descriptionNl": "AtB beheert het busnetwerk van Trondheim, waaronder bus 10 naar Bymarka (Skistua) en bus 3 naar de Munkholmen-veerboot. Aangelijnde honden met muilkorf reizen gratis; voor de hond is geen ticket nodig. Een van de meest genereuze regelingen van Europa.",
           "petPolicyDe": "Kostenlos mit Leine + Maulkorb",
-          "tipDe": "Norwegische Busse verlangen für mittelgroße und große Hunde einen Maulkorb (kleine Hunde in Transportbox ausgenommen); ein weicher Maulkorb ist in jedem norwegischen Zoofachgeschäft für 200-300 NOK erhältlich."
+          "petPolicyNl": "Gratis met lijn + muilkorf",
+          "tipDe": "Norwegische Busse verlangen für mittelgroße und große Hunde einen Maulkorb (kleine Hunde in Transportbox ausgenommen); ein weicher Maulkorb ist in jedem norwegischen Zoofachgeschäft für 200-300 NOK erhältlich.",
+          "tipNl": "Noorse bussen vereisen voor middelgrote en grote honden een muilkorf (kleine honden in transportbox uitgezonderd); een zachte muilkorf is bij elke Noorse dierenwinkel te koop voor 200-300 NOK."
         },
         {
           "name": "Gråkallbanen Tram",
@@ -453,8 +501,11 @@
           "petPolicyPt": "Grátis com açaime para cães médios/grandes",
           "tipPt": "O Gråkallbanen é uma das experiências de cão e elétrico mais fotogénicas da Europa: as carruagens de madeira de 1955 e as vistas de Bymarka tornam-no icónico.",
           "descriptionDe": "Die nördlichste Straßenbahn der Welt und Norwegens einzige erhaltene Straßenbahnlinie, die Gråkallbanen fährt vom Zentrum nach Lian in Bymarka (8,8 km, 22 Min.). Angeleinte Hunde werden kostenlos in den historischen Holzwaggons von 1955 akzeptiert, für mittelgroße/große Hunde ist ein Maulkorb erforderlich.",
+          "descriptionNl": "De meest noordelijke tram ter wereld en Noorwegens enige overgebleven tramlijn, de Gråkallbanen rijdt van het centrum naar Lian in Bymarka (8,8 km, 22 min.). Aangelijnde honden worden gratis toegelaten in de historische houten wagons uit 1955, voor middelgrote/grote honden is een muilkorf verplicht.",
           "petPolicyDe": "Kostenlos mit Maulkorb für mittelgroße/große Hunde",
-          "tipDe": "Die Gråkallbanen ist eines der fotogensten Hund-und-Straßenbahn-Erlebnisse Europas, die Holzwaggons von 1955 und die Aussicht auf Bymarka machen sie ikonisch."
+          "petPolicyNl": "Gratis met muilkorf voor middelgrote/grote honden",
+          "tipDe": "Die Gråkallbanen ist eines der fotogensten Hund-und-Straßenbahn-Erlebnisse Europas, die Holzwaggons von 1955 und die Aussicht auf Bymarka machen sie ikonisch.",
+          "tipNl": "De Gråkallbanen is een van de meest fotogenieke hond-en-tram-ervaringen van Europa, de houten wagons uit 1955 en het uitzicht op Bymarka maken hem iconisch."
         },
         {
           "name": "Vy Regional Trains",
@@ -475,8 +526,11 @@
           "petPolicyPt": "Grátis na carruagem para cães; sem açaime",
           "tipPt": "O Trondheim-Oslo Dovrebanen, em 6 h 30, conta-se entre as viagens ferroviárias mais panorâmicas do mundo, reserve um lugar à janela numa carruagem que aceite animais para a travessia das montanhas de Dovre.",
           "descriptionDe": "Vy betreibt Direktzüge von Trondheim nach Oslo (6,5 Stunden auf der ikonischen Dovrebanen durch die Berge), Bodø (10 Stunden Nordlandsbanen) und Stockholm (12 Stunden mit einmal Umsteigen). Angeleinte Hunde fahren kostenlos in speziellen hundefreundlichen Waggons; kein Maulkorb erforderlich.",
+          "descriptionNl": "Vy rijdt directe treinen van Trondheim naar Oslo (6,5 uur op de iconische Dovrebanen door de bergen), Bodø (10 uur Nordlandsbanen) en Stockholm (12 uur met één overstap). Aangelijnde honden reizen gratis in speciale hondvriendelijke wagons; geen muilkorf verplicht.",
           "petPolicyDe": "Kostenlos im Hundewaggon; kein Maulkorb",
-          "tipDe": "Die Dovrebanen Trondheim-Oslo mit 6,5 Stunden zählt zu den landschaftlich schönsten Bahnreisen der Welt, buchen Sie einen Fensterplatz in einem hundefreundlichen Waggon für die Überquerung der Dovre-Berge."
+          "petPolicyNl": "Gratis in de hondenwagon; geen muilkorf",
+          "tipDe": "Die Dovrebanen Trondheim-Oslo mit 6,5 Stunden zählt zu den landschaftlich schönsten Bahnreisen der Welt, buchen Sie einen Fensterplatz in einem hundefreundlichen Waggon für die Überquerung der Dovre-Berge.",
+          "tipNl": "De Dovrebanen Trondheim-Oslo van 6,5 uur behoort tot de mooiste treinreizen ter wereld, boek een vensterplek in een hondvriendelijke wagon voor de oversteek van de Dovre-bergen."
         }
       ],
       "tipsEn": [
@@ -542,7 +596,9 @@
         }
       ],
       "titleDe": "Haustierfreundlicher Transport in Trondheim",
+      "titleNl": "Huisdiervriendelijk vervoer in Trondheim",
       "introDe": "Das kompakte Midtbyen (Stadtzentrum) von Trondheim lässt sich in 20 Minuten zu Fuß durchqueren. Für Tagesausflüge akzeptieren die AtB-Stadtbusse, die Vy-Regionalzüge und die ikonische Straßenbahn Gråkallbanen nach Bymarka allesamt angeleinte Hunde.",
+      "introNl": "Het compacte Midtbyen (stadscentrum) van Trondheim doorkruis je in 20 minuten te voet. Voor dagtrips accepteren de AtB-stadsbussen, de Vy-regionale treinen en de iconische tram Gråkallbanen naar Bymarka allemaal aangelijnde honden.",
       "faqsDe": [
         {
           "q": "Brauche ich für meinen Hund ein Ticket in den Bussen von Trondheim?",
@@ -551,6 +607,16 @@
         {
           "q": "Ist der Zug Trondheim-Oslo hundefreundlich?",
           "a": "Ja, Vy betreibt die ikonische, 6,5-stündige Dovrebanen mit speziellen Waggons, in denen angeleinte Hunde ohne Maulkorb kostenlos mitfahren. Eine der landschaftlich schönsten hundefreundlichen Bahnreisen Europas, durch die Dovre-Berge."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Heb ik voor mijn hond een ticket nodig in de bussen van Trondheim?",
+          "a": "Nee. Aangelijnde honden reizen gratis in de AtB-bussen en de Gråkallbanen-tram, geen ticket vereist. Middelgrote en grote honden hebben aan boord een muilkorf nodig (kleine honden in transportbox uitgezonderd)."
+        },
+        {
+          "q": "Is de trein Trondheim-Oslo hondvriendelijk?",
+          "a": "Ja, Vy rijdt de iconische, 6,5 uur durende Dovrebanen met speciale wagons waarin aangelijnde honden zonder muilkorf gratis meereizen. Een van de mooiste hondvriendelijke treinreizen van Europa, door de Dovre-bergen."
         }
       ]
     },
@@ -604,8 +670,11 @@
           ],
           "tipPt": "O último ferry de regresso é às 18:00 no verão, leve água e um piquenique. A água do fiorde é fria (10 a 14 °C mesmo em agosto), pelo que a maioria dos cães prefere o prado relvado ao banho.",
           "leashRuleDe": "Leinenpflicht 1. April-19. August; ansonsten ohne Leine",
+          "leashRuleNl": "Aanlijnplicht 1 april-19 augustus; anders los",
           "descriptionDe": "Eine kleine Fjordinsel 1,5 km von den Kais von Trondheim entfernt, ehemaliges Benediktinerkloster aus dem 11. Jahrhundert und Gefängnisfestung aus dem 17. Jahrhundert. Erreichbar mit der Munken-Fähre (10 Min., Mai-September) vom Kai Ravnkloa. Im Freien mit angeleinten Hunden hundefreundlich.",
-          "tipDe": "Letzte Rückfähre im Sommer um 18:00 Uhr, bringen Sie Wasser und ein Picknick mit. Das Fjordwasser ist auch im August kalt (10-14 °C), die meisten Hunde bevorzugen die Grünfläche dem Schwimmen."
+          "descriptionNl": "Een klein fjordeiland 1,5 km van de kades van Trondheim, voormalig 11e-eeuws benedictijnenklooster en 17e-eeuwse gevangenisfestung. Bereikbaar met de Munken-veerboot (10 min., mei-september) vanaf de kade Ravnkloa. Buiten hondvriendelijk met aangelijnde honden.",
+          "tipDe": "Letzte Rückfähre im Sommer um 18:00 Uhr, bringen Sie Wasser und ein Picknick mit. Das Fjordwasser ist auch im August kalt (10-14 °C), die meisten Hunde bevorzugen die Grünfläche dem Schwimmen.",
+          "tipNl": "Laatste terugveerboot in de zomer om 18:00 uur, neem water en een picknick mee. Het fjordwater is ook in augustus koud (10-14 °C), de meeste honden geven de voorkeur aan het groengebied boven zwemmen."
         },
         {
           "name": "Korsvika Beach",
@@ -649,8 +718,11 @@
           ],
           "tipPt": "Caminhe para sul a partir de Korsvika 1 km até Ladestien, o caminho costeiro de falésia de 14 km com as icónicas vistas do Trondheimsfjord. Sem trela de setembro a março.",
           "leashRuleDe": "Leinenpflicht 1. April-19. August; ansonsten ohne Leine",
+          "leashRuleNl": "Aanlijnplicht 1 april-19 augustus; anders los",
           "descriptionDe": "Der nächstgelegene Sandstrand zum Zentrum von Trondheim, eine 300 m lange kiesig-sandige Bucht nordöstlich der Stadt, in 15 Minuten mit Bus 5 erreichbar. Ruhige Fjordflachwasser, an Sommerabenden bei Einheimischen beliebt.",
-          "tipDe": "Gehen Sie von Korsvika 1 km südlich zum Ladestien, dem 14 km langen Küstenklippenweg mit der ikonischen Aussicht auf den Trondheimsfjord. Von September bis März ohne Leine."
+          "descriptionNl": "Het dichtstbijzijnde zandstrand bij het centrum van Trondheim, een 300 m lange kiezel-zandige baai ten noordoosten van de stad, bereikbaar in 15 minuten met bus 5. Rustig ondiep fjordwater, populair bij locals op zomeravonden.",
+          "tipDe": "Gehen Sie von Korsvika 1 km südlich zum Ladestien, dem 14 km langen Küstenklippenweg mit der ikonischen Aussicht auf den Trondheimsfjord. Von September bis März ohne Leine.",
+          "tipNl": "Loop vanaf Korsvika 1 km zuidwaarts naar het Ladestien, het 14 km lange klifpad langs de kust met het iconische uitzicht op de Trondheimsfjord. Van september tot maart los."
         },
         {
           "name": "Lade Coastal Path (Ladestien)",
@@ -694,8 +766,11 @@
           ],
           "tipPt": "Os 14 km completos demoram 4 a 5 h com um cão a passo tranquilo, divida em dois segmentos usando o autocarro 5 nas várias paragens ao longo do caminho.",
           "leashRuleDe": "Leinenpflicht 1. April-19. August; ansonsten ohne Leine",
+          "leashRuleNl": "Aanlijnplicht 1 april-19 augustus; anders los",
           "descriptionDe": "Der 14 km lange Küstenklippenweg um die Halbinsel Lade nördlich von Trondheim, ein Kies- und Graspfad entlang des Trondheimsfjords, mit mehreren kleinen kiesigen Stränden mit ländlichem Zugang, der ikonische Hundespaziergang rund um die Stadt. Bus 5 nach Korsvika oder Ringve an beiden Enden.",
-          "tipDe": "Die vollen 14 km dauern mit Hund in gemütlichem Tempo 4-5 Stunden, unterteilen Sie die Strecke mit Bus 5 an mehreren Haltestellen entlang des Weges."
+          "descriptionNl": "Het 14 km lange klifpad langs de kust rond het schiereiland Lade ten noorden van Trondheim, een kiezel- en graspad langs de Trondheimsfjord, met verschillende kleine kiezelstranden met landelijke toegang, de iconische hondenwandeling rond de stad. Bus 5 naar Korsvika of Ringve aan beide uiteinden.",
+          "tipDe": "Die vollen 14 km dauern mit Hund in gemütlichem Tempo 4-5 Stunden, unterteilen Sie die Strecke mit Bus 5 an mehreren Haltestellen entlang des Weges.",
+          "tipNl": "De volledige 14 km duurt met hond in een rustig tempo 4-5 uur, verdeel de route met bus 5 op verschillende haltes onderweg."
         }
       ],
       "tipsEn": [
@@ -761,7 +836,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände & Fjordorte bei Trondheim",
+      "titleNl": "Hondvriendelijke stranden & fjordplekken bij Trondheim",
       "introDe": "Trondheim liegt am Trondheimsfjord, dem drittlängsten Fjord Norwegens. Mehrere ländliche Stellen bieten ganzjährig hundefreundlichen Zugang; die Munkholmen-Inselfähre vom Stadtzentrum ist ein einzigartiger Sommer-Tagesausflug.",
+      "introNl": "Trondheim ligt aan de Trondheimsfjord, de op twee na langste fjord van Noorwegen. Verschillende landelijke plekken bieden het hele jaar door hondvriendelijke toegang; de eilandveerboot naar Munkholmen vanaf het centrum is een unieke zomerse dagtrip.",
       "faqsDe": [
         {
           "q": "Wie weit ist der nächste Hundestrand von Trondheim entfernt?",
@@ -770,6 +847,16 @@
         {
           "q": "Können Hunde im Trondheimsfjord schwimmen?",
           "a": "Ja, das Schwimmen im Fjord bei Korsvika, den Stränden von Ladestien und Munkholmen ist mit angeleinten Hunden hundefreundlich (Leinenpflicht April-August). Das Wasser erreicht im Hochsommer 10-14 °C; die meisten Hunde bevorzugen das Laufen auf dem Kies dem Schwimmen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe ver is het dichtstbijzijnde hondenstrand vanaf Trondheim?",
+          "a": "15 minuten met bus 5 naar Korsvika, de dichtstbijzijnde zand-kiezelbaai. Het 14 km lange kustpad Ladestien begint hier en slingert langs de klif van de Trondheimsfjord. Voor een fjordeiland-ervaring vaart de Munkholmen-veerboot (10 min. vanaf het centrum, mei-september)."
+        },
+        {
+          "q": "Kunnen honden zwemmen in de Trondheimsfjord?",
+          "a": "Ja, zwemmen in de fjord bij Korsvika, de stranden van Ladestien en Munkholmen is hondvriendelijk met aangelijnde honden (aanlijnplicht april-augustus). Het water bereikt in de hoogzomer 10-14 °C; de meeste honden geven de voorkeur aan lopen op het kiezel boven zwemmen."
         }
       ]
     },
@@ -803,7 +890,9 @@
           "descriptionPt": "Clínica veterinária de urgência 24h em Heimdal (sul de Trondheim), a 8 km do centro, com cirurgia completa, UCI, ecografia e raios X. O veterinário 24/7 mais próximo para a região do centro da Noruega.",
           "tipPt": "Telefone antes de se deslocar, fazem triagem por telefone e podem reencaminhar casos noturnos não urgentes.",
           "descriptionDe": "24-Stunden-Notfalltierklinik in Heimdal (südliches Trondheim), 8 km vom Zentrum entfernt, vollständige Chirurgie, Intensivstation, Ultraschall, Röntgen. Der nächstgelegene 24/7-Tierarzt für die Region Mittelnorwegen.",
-          "tipDe": "Rufen Sie vor der Anfahrt an, es findet eine telefonische Triage statt und Sie werden bei nicht dringenden nächtlichen Fällen möglicherweise weitergeleitet."
+          "descriptionNl": "24-uurs spoeddierenkliniek in Heimdal (zuidelijk Trondheim), 8 km van het centrum, volledige chirurgie, intensive care, echografie, röntgen. De dichtstbijzijnde 24/7-dierenarts voor de regio Midden-Noorwegen.",
+          "tipDe": "Rufen Sie vor der Anfahrt an, es findet eine telefonische Triage statt und Sie werden bei nicht dringenden nächtlichen Fällen möglicherweise weitergeleitet.",
+          "tipNl": "Bel voordat je erheen rijdt, er vindt telefonische triage plaats en je wordt bij niet-dringende nachtelijke gevallen mogelijk doorverwezen."
         },
         {
           "name": "AniCura Trondheim Smådyrklinikk",
@@ -826,7 +915,9 @@
           "descriptionPt": "Clínica moderna de pequenos animais, diurna, em Heimdal, com medicina geral, vacinas, cirurgia e dentária. As chamadas fora de horas são desviadas para a Empet 24h.",
           "tipPt": "Falam inglês fluente e aceitam visitas sem marcação para vacinas e verificações de microchip antes das 11:00.",
           "descriptionDe": "Moderne Tages-Kleintierpraxis in Heimdal mit Allgemeinmedizin, Impfungen, Chirurgie und Zahnbehandlung. Anrufe außerhalb der Öffnungszeiten werden an Empet 24 Std. weitergeleitet.",
-          "tipDe": "Man spricht fließend Englisch und nimmt vor 11:00 Uhr Laufkundschaft für Impfungen und Mikrochip-Kontrollen an."
+          "descriptionNl": "Moderne dagpraktijk voor kleine huisdieren in Heimdal met algemene geneeskunde, vaccinaties, chirurgie en gebitsbehandeling. Oproepen buiten openingstijden worden 24 uur doorgeschakeld naar Empet.",
+          "tipDe": "Man spricht fließend Englisch und nimmt vor 11:00 Uhr Laufkundschaft für Impfungen und Mikrochip-Kontrollen an.",
+          "tipNl": "Men spreekt vloeiend Engels en neemt voor 11:00 uur inloopklanten aan voor vaccinaties en microchipcontroles."
         },
         {
           "name": "Trondheim Dyrehospital",
@@ -849,7 +940,9 @@
           "descriptionPt": "Clínica veterinária diurna em Tungasletta, perto da península de Lade, com medicina geral, emissão de passaporte europeu de animal, colocação de microchip e consultas comportamentais.",
           "tipPt": "Útil para emitir/atualizar um passaporte europeu de animal a meio da viagem, o Dyrehospital cobra cerca de 600 NOK (55 €) por um passaporte e 700 NOK (65 €) por um microchip.",
           "descriptionDe": "Tages-Tierarztpraxis auf Tungasletta nahe der Halbinsel Lade, Allgemeinmedizin, Ausstellung des EU-Heimtierausweises, Mikrochippen, Verhaltensberatungen.",
-          "tipDe": "Nützlich, um während der Reise einen EU-Heimtierausweis auszustellen oder zu aktualisieren, das Dyrehospital berechnet etwa 600 NOK (55 €) für einen Ausweis, 700 NOK (65 €) für einen Mikrochip."
+          "descriptionNl": "Dagpraktijk voor dierenartsen op Tungasletta bij het schiereiland Lade, algemene geneeskunde, afgifte van EU-huisdierenpaspoort, microchippen, gedragsadvies.",
+          "tipDe": "Nützlich, um während der Reise einen EU-Heimtierausweis auszustellen oder zu aktualisieren, das Dyrehospital berechnet etwa 600 NOK (55 €) für einen Ausweis, 700 NOK (65 €) für einen Mikrochip.",
+          "tipNl": "Handig om tijdens de reis een EU-huisdierenpaspoort af te geven of bij te werken, het Dyrehospital rekent ongeveer 600 NOK (55 €) voor een paspoort, 700 NOK (65 €) voor een microchip."
         }
       ],
       "tipsEn": [
@@ -915,7 +1008,9 @@
         }
       ],
       "titleDe": "24-Stunden-Notfalltierärzte in Trondheim, Tierarztpraxen & Haustierpflege",
+      "titleNl": "24-uurs spoeddierenartsen in Trondheim, dierenartspraktijken & huisdierenzorg",
       "introDe": "Trondheim verfügt über eine solide Tagestierarztversorgung und eine regionale 24-Stunden-Notfallklinik am südlichen Stadtrand. Die tierärztliche Fakultät der Norwegischen Universität für Biowissenschaften in Oslo ist die wichtigste Überweisungsstelle, 6,5 Stunden südlich.",
+      "introNl": "Trondheim heeft een solide dagzorg voor dierenartsen en een regionale 24-uurs spoedkliniek aan de zuidrand van de stad. De diergeneeskundige faculteit van de Noorse Universiteit voor Biowetenschappen in Oslo is het belangrijkste doorverwijspunt, 6,5 uur zuidwaarts.",
       "faqsDe": [
         {
           "q": "Wo ist der 24-Stunden-Notfalltierarzt in der Nähe von Trondheim?",
@@ -924,6 +1019,16 @@
         {
           "q": "Brauche ich zusätzliche Unterlagen, um mit einem Hund nach Norwegen einzureisen?",
           "a": "Ja, zusätzlich zum EU-Heimtierausweis (Tollwutimpfung + ISO-Mikrochip) verlangt Norwegen eine 24-120 Stunden vor der Ankunft von einem Tierarzt verabreichte Bandwurm-Behandlung (Echinokokkose). Wie auch bei Finnland, Irland und Malta."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar is de 24-uurs spoeddierenarts bij Trondheim?",
+          "a": "Empet Trondheim Smådyrklinikk, Heimdalsvegen 56 in Heimdal, +47 73 84 02 00, 8 km zuidwaarts, 15 minuten met de auto. Bel van tevoren voor triage."
+        },
+        {
+          "q": "Heb ik extra documenten nodig om met een hond naar Noorwegen te reizen?",
+          "a": "Ja, naast het EU-huisdierenpaspoort (rabiësvaccinatie + ISO-microchip) vereist Noorwegen een 24-120 uur voor aankomst door een dierenarts toegediende lintwormbehandeling (echinokokkose). Net als bij Finland, Ierland en Malta."
         }
       ]
     },
@@ -942,7 +1047,8 @@
           "descriptionFr": "Mai-septembre sont idéaux pour l'activité extérieure, maxima moyens 13-18 °C, les sentiers de Bymarka sont secs, le ferry pour Munkholmen circule, et la lumière estivale norvégienne prolonge le jour utile jusqu'à 23h. Octobre-avril sont plus froids (-5 à +8 °C) mais Trondheim offre des conditions de neige remarquables pour le skijoring avec un chien (décembre-mars).",
           "descriptionEs": "Mayo-septiembre son ideales para la actividad al aire libre, máximas medias 13-18 °C, los senderos de Bymarka están secos, el ferry a Munkholmen opera, y la luz estival noruega extiende el día útil hasta las 23:00. Octubre-abril son más fríos (-5 a +8 °C) pero Trondheim ofrece condiciones de nieve notables para el skijoring con perro (diciembre-marzo).",
           "descriptionPt": "De maio a setembro é o período ideal para atividade ao ar livre, com máximas médias de 13 a 18 °C, os trilhos de Bymarka secos, o ferry de Munkholmen a operar e a luz de verão norueguesa a prolongar o dia útil até às 23:00. De outubro a abril é mais frio (-5 a +8 °C), mas Trondheim tem notáveis condições de neve a meio do inverno para skijoring com um cão (de dezembro a março).",
-          "descriptionDe": "Mai-September eignen sich ideal für Aktivitäten im Freien, durchschnittliche Höchstwerte 13-18 °C, die Wege in Bymarka sind trocken, die Munkholmen-Fähre verkehrt, und das norwegische Mittsommerlicht verlängert die nutzbare Tageszeit bis 23:00 Uhr. Oktober-April sind kälter (-5 bis +8 °C), aber Trondheim bietet hervorragende Mittwinter-Schneebedingungen für Skijöring mit Hund (Dezember-März)."
+          "descriptionDe": "Mai-September eignen sich ideal für Aktivitäten im Freien, durchschnittliche Höchstwerte 13-18 °C, die Wege in Bymarka sind trocken, die Munkholmen-Fähre verkehrt, und das norwegische Mittsommerlicht verlängert die nutzbare Tageszeit bis 23:00 Uhr. Oktober-April sind kälter (-5 bis +8 °C), aber Trondheim bietet hervorragende Mittwinter-Schneebedingungen für Skijöring mit Hund (Dezember-März).",
+          "descriptionNl": "Mei-september zijn ideaal voor activiteiten buiten, gemiddelde hoogste temperaturen 13-18 °C, de paden in Bymarka zijn droog, de Munkholmen-veerboot vaart, en het Noorse midzomerlicht verlengt de bruikbare daglichtuur tot 23:00 uur. Oktober-april zijn kouder (-5 tot +8 °C), maar Trondheim biedt uitstekende midwinter-sneeuwcondities voor skijoring met hond (december-maart)."
         },
         {
           "name": "Norwegian entry & tapeworm rules",
@@ -950,7 +1056,8 @@
           "descriptionFr": "La Norvège est dans Schengen mais PAS dans l'UE. Au-delà du passeport européen, la Norvège exige un traitement contre le ténia (echinococcose) administré par un vétérinaire 24-120h avant l'arrivée, comme la Finlande, l'Irlande et Malte. Documenté dans le passeport. Si vous l'oubliez, l'entrée sera refusée à l'aéroport de Trondheim Værnes (TRD) ou par ferry/route.",
           "descriptionEs": "Noruega está en Schengen pero NO en la UE. Además del pasaporte europeo, Noruega exige tratamiento contra la tenia (equinococosis) administrado por un veterinario 24-120h antes de la llegada, igual que Finlandia, Irlanda y Malta. Documentado en el pasaporte. Si lo omites, la entrada será rechazada en el aeropuerto de Trondheim Værnes (TRD) o por ferry/carretera.",
           "descriptionPt": "A Noruega pertence ao Espaço Schengen, mas NÃO na UE. Para além do passaporte europeu de animal, a Noruega exige um tratamento contra a ténia (equinococose) administrado por um veterinário 24 a 120 h antes da chegada, igual à Finlândia, Irlanda e Malta. Fica documentado no passaporte de animal. Se o ignorar, a entrada será recusada no aeroporto de Trondheim Værnes (TRD) ou por ferry/estrada.",
-          "descriptionDe": "Norwegen gehört zum Schengen-Raum, aber NICHT zur EU. Zusätzlich zum EU-Heimtierausweis verlangt Norwegen eine 24-120 Stunden vor der Ankunft von einem Tierarzt verabreichte Bandwurm-Behandlung (Echinokokkose), wie auch bei Finnland, Irland und Malta. Im Heimtierausweis dokumentiert. Wird dies versäumt, wird die Einreise am Flughafen Trondheim Værnes (TRD) oder per Fähre/Straße verweigert."
+          "descriptionDe": "Norwegen gehört zum Schengen-Raum, aber NICHT zur EU. Zusätzlich zum EU-Heimtierausweis verlangt Norwegen eine 24-120 Stunden vor der Ankunft von einem Tierarzt verabreichte Bandwurm-Behandlung (Echinokokkose), wie auch bei Finnland, Irland und Malta. Im Heimtierausweis dokumentiert. Wird dies versäumt, wird die Einreise am Flughafen Trondheim Værnes (TRD) oder per Fähre/Straße verweigert.",
+          "descriptionNl": "Noorwegen behoort tot het Schengengebied, maar NIET tot de EU. Naast het EU-huisdierenpaspoort vereist Noorwegen een 24-120 uur voor aankomst door een dierenarts toegediende lintwormbehandeling (echinokokkose), net als bij Finland, Ierland en Malta. Vastgelegd in het huisdierenpaspoort. Wordt dit verzuimd, dan wordt toegang op luchthaven Trondheim Værnes (TRD) of via veerboot/weg geweigerd."
         },
         {
           "name": "Currency & cost",
@@ -959,7 +1066,8 @@
           "descriptionFr": "La Norvège utilise la couronne norvégienne (NOK), pas l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel, les espèces sont rares. Les suppléments animaux dans les hôtels de Trondheim tournent autour de 200-400 NOK/nuit (18-36 €), parmi les plus hauts d'Europe mais compensés par le transport canin sans frais supplémentaires sur bus, trams et trains.",
           "descriptionEs": "Noruega usa la corona noruega (NOK), no el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal, el efectivo es raro. Los suplementos para mascotas en hoteles de Trondheim rondan 200-400 NOK/noche (18-36 €), de los más altos de Europa pero compensados por el transporte canino sin coste extra en buses, tranvías y trenes.",
           "descriptionPt": "A Noruega usa a coroa norueguesa (NOK), não o euro. A maioria dos hotéis e restaurantes aceita Visa/Mastercard, o contactless é universal e o dinheiro vivo é raro. Os suplementos para animais nos hotéis de Trondheim rondam as 200 a 400 NOK/noite (18 a 36 €), dos mais altos da Europa, mas compensados pelo transporte canino sem custo extra em autocarros, elétricos e comboios.",
-          "descriptionDe": "Norwegen verwendet die norwegische Krone (NOK), nicht den Euro. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, kontaktloses Zahlen ist überall verbreitet, Bargeld ist selten. Tierzuschläge in Hotels in Trondheim liegen im Schnitt bei 200-400 NOK/Nacht (18-36 €), zu den höchsten Europas zählend, aber ausgeglichen durch den kostenlosen Hundetransport in Bussen, Straßenbahnen und Zügen."
+          "descriptionDe": "Norwegen verwendet die norwegische Krone (NOK), nicht den Euro. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, kontaktloses Zahlen ist überall verbreitet, Bargeld ist selten. Tierzuschläge in Hotels in Trondheim liegen im Schnitt bei 200-400 NOK/Nacht (18-36 €), zu den höchsten Europas zählend, aber ausgeglichen durch den kostenlosen Hundetransport in Bussen, Straßenbahnen und Zügen.",
+          "descriptionNl": "Noorwegen gebruikt de Noorse kroon (NOK), niet de euro. De meeste hotels en restaurants accepteren Visa/Mastercard, contactloos betalen is overal gangbaar, contant geld is zeldzaam. Huisdiertoeslagen in hotels in Trondheim liggen gemiddeld op 200-400 NOK/nacht (18-36 €), een van de hoogste van Europa, maar gecompenseerd door het gratis hondenvervoer in bussen, trams en treinen."
         }
       ],
       "tipsEn": [
@@ -1025,7 +1133,9 @@
         }
       ],
       "titleDe": "Mit Hund nach Trondheim reisen: Praktische Tipps",
+      "titleNl": "Met hond naar Trondheim reizen: praktische tips",
       "introDe": "Trondheim, Norwegens drittgrößte Stadt und die mittelalterliche Hauptstadt, vereint die UNESCO-geschützte Nidaros-Kathedrale (die nördlichste gotische Kathedrale der Welt), das bunte Holzviertel Bakklandet, hundefreundlichen Transport (kostenlose Busse, kostenlose Züge, die nördlichste Straßenbahn der Welt) und 80 km² städtischen Wald in Bymarka.",
+      "introNl": "Trondheim, Noorwegens derde stad en de middeleeuwse hoofdstad, combineert de door UNESCO beschermde Nidaros-kathedraal (de meest noordelijke gotische kathedraal ter wereld), de kleurrijke houten wijk Bakklandet, hondvriendelijk vervoer (gratis bussen, gratis treinen, de meest noordelijke tram ter wereld) en 80 km² stadsbos in Bymarka.",
       "faqsDe": [
         {
           "q": "Ist Trondheim für ein hundefreundliches Wochenende geeignet?",
@@ -1034,6 +1144,16 @@
         {
           "q": "Wie schneidet Trondheim im Vergleich zu Bergen für Reisen mit Hund ab?",
           "a": "Trondheim ist kleiner, ruhiger und bietet deutlich zugänglicheren Freilaufwald (Bymarka 80 km² + Estenstadmarka 32 km² direkt am Stadtrand). Bergen hat das UNESCO-Viertel Bryggen und direkte Fähren zu den westlichen Fjorden. Trondheim gewinnt bei Wald und mittelalterlicher Geschichte, Bergen bei Vielfalt und Zugang zum Atlantik-Fjord."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Trondheim geschikt voor een hondvriendelijk weekendje?",
+          "a": "Ja, Trondheim combineert de door UNESCO beschermde Nidaros-kathedraal (meest noordelijke gotische kathedraal ter wereld), de houten wijk Bakklandet, gratis hondenvervoer in bussen/trams/treinen, de iconische Gråkallbanen-tram naar Bymarka met 80 km² losloopbos, en de Trondheimsfjord. Een van de meest hondvriendelijke steden van Europa."
+        },
+        {
+          "q": "Hoe verhoudt Trondheim zich tot Bergen voor reizen met hond?",
+          "a": "Trondheim is kleiner, rustiger en biedt duidelijk toegankelijker losloopbos (Bymarka 80 km² + Estenstadmarka 32 km² direct aan de stadsrand). Bergen heeft de UNESCO-wijk Bryggen en directe veerboten naar de westelijke fjorden. Trondheim wint op bos en middeleeuwse geschiedenis, Bergen op variatie en toegang tot de Atlantische fjord."
         }
       ]
     },
@@ -1065,8 +1185,11 @@
           "petPolicyPt": "Jardins exteriores gratuitos; interior apenas cães de assistência",
           "tipPt": "As vistas ao pôr do sol da fachada oeste da catedral a partir da outra margem do Nidelva (Gamle Bybro) são o icónico ângulo de fotografia com cão de Trondheim, melhor entre as 21:00 e as 22:00 no verão.",
           "descriptionDe": "Die nördlichste gotische Kathedrale der Welt und Norwegens nationales Heiligtum, ab 1070 über dem Grab des Heiligen Olav erbaut, UNESCO-geschützt. Die Außenfassade, der umliegende Friedhofsgarten und der Platz Erkebispegården sind mit angeleinten Hunden kostenlos hundefreundlich. Im Inneren nur Assistenzhunde zugelassen.",
+          "descriptionNl": "De meest noordelijke gotische kathedraal ter wereld en Noorwegens nationale heiligdom, vanaf 1070 gebouwd boven het graf van de Heilige Olav, beschermd door UNESCO. De buitengevel, de omliggende begraafplaatstuin en het plein Erkebispegården zijn gratis hondvriendelijk met aangelijnde honden. Binnen alleen assistentiehonden toegestaan.",
           "petPolicyDe": "Außengärten kostenlos; Inneres nur mit Assistenzhund",
-          "tipDe": "Der Sonnenuntergangsblick auf die Westfassade der Kathedrale von der Gamle Bybro über die Nidelva ist der ikonische Hunde-Fotowinkel in Trondheim, am besten zwischen 21:00 und 22:00 Uhr im Sommer."
+          "petPolicyNl": "Buitentuinen gratis; binnen alleen met assistentiehond",
+          "tipDe": "Der Sonnenuntergangsblick auf die Westfassade der Kathedrale von der Gamle Bybro über die Nidelva ist der ikonische Hunde-Fotowinkel in Trondheim, am besten zwischen 21:00 und 22:00 Uhr im Sommer.",
+          "tipNl": "Het zonsondergangsuitzicht op de westgevel van de kathedraal vanaf de Gamle Bybro over de Nidelva is dé iconische hondenfotohoek van Trondheim, het best tussen 21:00 en 22:00 uur in de zomer."
         },
         {
           "name": "Gamle Bybro (Old Town Bridge)",
@@ -1088,8 +1211,11 @@
           "petPolicyPt": "Ponte pública, cães com trela grátis",
           "tipPt": "Coloque-se junto à Lykkens Portal, na ponta este, para a vista de postal dos armazéns de madeira que ladeiam o Nidelva, o icónico ângulo de Instagram de Trondheim.",
           "descriptionDe": "Die hölzerne Altstadtbrücke von 1681, die Midtbyen mit Bakklandet verbindet, mit dem ikonischen 'Tor des Glücks' (Lykkens Portal) am östlichen Ende. Rund um die Uhr geöffnet, durchgehend mit angeleinten Hunden hundefreundlich. Der meistfotografierte Ausblick in Trondheim.",
+          "descriptionNl": "De houten oude-stadsbrug uit 1681, die Midtbyen met Bakklandet verbindt, met de iconische 'Poort van het Geluk' (Lykkens Portal) aan het oostelijke uiteinde. Dag en nacht open, doorlopend hondvriendelijk met aangelijnde honden. Het meest gefotografeerde uitzicht van Trondheim.",
           "petPolicyDe": "Öffentliche Brücke, angeleinte Hunde kostenlos",
-          "tipDe": "Stellen Sie sich am östlichen Lykkens Portal für den Postkartenblick auf die Holzlagerhäuser entlang der Nidelva auf, der ikonische Instagram-Winkel Trondheims."
+          "petPolicyNl": "Openbare brug, aangelijnde honden gratis",
+          "tipDe": "Stellen Sie sich am östlichen Lykkens Portal für den Postkartenblick auf die Holzlagerhäuser entlang der Nidelva auf, der ikonische Instagram-Winkel Trondheims.",
+          "tipNl": "Ga bij de oostelijke Lykkens Portal staan voor het ansichtkaartuitzicht op de houten pakhuizen langs de Nidelva, dé iconische Instagram-hoek van Trondheim."
         },
         {
           "name": "Kristiansten Fortress",
@@ -1111,8 +1237,11 @@
           "petPolicyPt": "Muralhas exteriores grátis; interior apenas cães de assistência",
           "tipPt": "A subida de 10 min a partir de Bakklandet recompensa com a melhor vista panorâmica gratuita de Trondheim, leve água no verão, pois a subida é exposta.",
           "descriptionDe": "Die sternförmige Festung von 1681 auf dem Hügel über Bakklandet, mit äußeren Wällen und Panoramaterrassen über der Nidelva, der Kathedrale und dem Trondheimsfjord. Rund um die Uhr geöffnet, mit angeleinten Hunden kostenlos hundefreundlich. Die Innenführung lässt nur Assistenzhunde zu.",
+          "descriptionNl": "Het stervormige fort uit 1681 op de heuvel boven Bakklandet, met buitenwallen en panoramaterrassen boven de Nidelva, de kathedraal en de Trondheimsfjord. Dag en nacht open, gratis hondvriendelijk met aangelijnde honden. De binnenrondleiding laat alleen assistentiehonden toe.",
           "petPolicyDe": "Äußere Wälle kostenlos; Inneres nur mit Assistenzhund",
-          "tipDe": "Der 10-minütige Aufstieg von Bakklandet belohnt mit dem besten kostenlosen Panoramablick auf Trondheim, bringen Sie im Sommer Wasser mit, der Aufstieg ist ungeschützt."
+          "petPolicyNl": "Buitenwallen gratis; binnen alleen met assistentiehond",
+          "tipDe": "Der 10-minütige Aufstieg von Bakklandet belohnt mit dem besten kostenlosen Panoramablick auf Trondheim, bringen Sie im Sommer Wasser mit, der Aufstieg ist ungeschützt.",
+          "tipNl": "De klim van 10 minuten vanaf Bakklandet beloont met het beste gratis panoramische uitzicht op Trondheim, neem 's zomers water mee, de klim is onbeschut."
         }
       ],
       "tipsEn": [
@@ -1178,7 +1307,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Trondheim",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Trondheim",
       "introDe": "Die meisten bekannten Außenattraktionen Trondheims sind hundefreundlich, die Außenfassade und die Gärten der Nidaros-Kathedrale, die Altstadtbrücke (Gamle Bybro), das Holzviertel Bakklandet, die Festung Kristiansten und die Insel Munkholmen heißen allesamt angeleinte Hunde kostenlos willkommen.",
+      "introNl": "De meeste bekende buitenattracties van Trondheim zijn hondvriendelijk, de buitengevel en tuinen van de Nidaros-kathedraal, de oude-stadsbrug (Gamle Bybro), de houten wijk Bakklandet, het Kristiansten-fort en het eiland Munkholmen heten allemaal aangelijnde honden gratis welkom.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund zur Nidaros-Kathedrale mitnehmen?",
@@ -1187,6 +1318,16 @@
         {
           "q": "Sind Hunde auf der Insel Munkholmen erlaubt?",
           "a": "Ja, die Munken-Fähre (10 Min. vom Kai Ravnkloa, Mai-September) akzeptiert angeleinte Hunde, für mittelgroße/große Hunde mit Maulkorb. Das Außengelände der Insel und die Ruinen des ehemaligen Klosters sind kostenlos hundefreundlich."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar de Nidaros-kathedraal?",
+          "a": "Naar de omliggende tuinen, de begraafplaats en het plein van het aartsbisschopspaleis Erkebispegården wel, aangelijnd en gratis. Het binnenste van de kathedraal laat alleen assistentiehonden toe."
+        },
+        {
+          "q": "Zijn honden welkom op het eiland Munkholmen?",
+          "a": "Ja, de Munken-veerboot (10 min. vanaf de kade Ravnkloa, mei-september) accepteert aangelijnde honden, voor middelgrote/grote honden met muilkorf. Het buitenterrein van het eiland en de ruïnes van het voormalige klooster zijn gratis hondvriendelijk."
         }
       ]
     },
@@ -1214,7 +1355,9 @@
           "descriptionPt": "Plataforma internacional de pet sitting com cerca de 18 cuidadores verificados sediados em Trondheim, num raio de 5 km do centro, com visitas ao domicílio, creche diurna e alojamento noturno. Todos os cuidadores são verificados e o seguro vem incluído.",
           "tipPt": "Quase todos os cuidadores noruegueses falam inglês fluente, a Noruega tem o nível de inglês mais alto da UE/EEE fora da Irlanda e de Malta. Filtre por tipo de experiência em vez de por língua.",
           "descriptionDe": "Internationale Plattform für Haustierbetreuung mit etwa 18 verifizierten Sittern in Trondheim innerhalb von 5 km vom Zentrum, mit Kurzbesuchen, Hundetagesbetreuung und Übernachtungsbetreuung. Alle Sitter sind geprüft, Versicherung ist inbegriffen.",
-          "tipDe": "Fast alle norwegischen Sitter sprechen fließend Englisch, Norwegen hat außerhalb von Irland und Malta die höchste Englischkompetenz in der EU/EWR. Filtern Sie eher nach Erfahrungstyp als nach Sprache."
+          "descriptionNl": "Internationaal platform voor huisdierenzorg met ongeveer 18 geverifieerde oppassers in Trondheim binnen 5 km van het centrum, met korte bezoekjes, dagopvang voor honden en overnachtingsopvang. Alle oppassers zijn gescreend, verzekering is inbegrepen.",
+          "tipDe": "Fast alle norwegischen Sitter sprechen fließend Englisch, Norwegen hat außerhalb von Irland und Malta die höchste Englischkompetenz in der EU/EWR. Filtern Sie eher nach Erfahrungstyp als nach Sprache.",
+          "tipNl": "Bijna alle Noorse oppassers spreken vloeiend Engels, Noorwegen heeft buiten Ierland en Malta de hoogste Engelse taalvaardigheid in de EU/EER. Filter eerder op type ervaring dan op taal."
         },
         {
           "name": "Hundepensjonat Trøndelag",
@@ -1232,7 +1375,9 @@
           "descriptionPt": "Cadeia regional de hotéis caninos de Trondheim, com creche supervisionada, alojamento noturno e passeios. Seguro e linha telefónica veterinária 24/7 incluídos; tarifa de 400 a 600 NOK/dia (35 a 55 €), das mais altas da Europa, mas a refletir os padrões salariais noruegueses.",
           "tipPt": "Reserve com pelo menos 1 semana de antecedência no verão, popular entre as famílias norueguesas de férias de junho a meados de agosto.",
           "descriptionDe": "Regionale Hundepensionskette in Trondheim mit betreuter Tagesbetreuung, Übernachtungsbetreuung und Gassigehen. Versicherung und 24/7-Tierarzt-Telefonlinie inbegriffen; Preis 400-600 NOK/Tag (35-55 €), zu den höchsten Europas zählend, aber die norwegischen Lohnstandards widerspiegelnd.",
-          "tipDe": "Buchen Sie im Sommer mindestens 1 Woche im Voraus, beliebt bei norwegischen Familien im Urlaub von Juni bis Mitte August."
+          "descriptionNl": "Regionale hondenpensionketen in Trondheim met begeleide dagopvang, overnachtingsopvang en uitlaatservice. Verzekering en 24/7 dierenarts-telefoonlijn inbegrepen; prijs 400-600 NOK/dag (35-55 €), een van de hoogste van Europa, maar weerspiegelt de Noorse loonstandaard.",
+          "tipDe": "Buchen Sie im Sommer mindestens 1 Woche im Voraus, beliebt bei norwegischen Familien im Urlaub von Juni bis Mitte August.",
+          "tipNl": "Boek 's zomers minstens 1 week van tevoren, populair bij Noorse gezinnen op vakantie van juni tot half augustus."
         }
       ],
       "tipsEn": [
@@ -1298,7 +1443,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassigehen in Trondheim",
+      "titleNl": "Huisdierenzorg & uitlaatservice in Trondheim",
       "introDe": "Für Tagesausflüge, bei denen der Hund nicht mitkommen kann (Inneres der Nidaros-Kathedrale, Museum des Erzbischofspalasts, Rockheim) bietet Trondheim verlässliche, verifizierte Haustierbetreuung über internationale und norwegische Plattformen.",
+      "introNl": "Voor dagtrips waar de hond niet mee kan (binnenkant van de Nidaros-kathedraal, museum van het aartsbisschopspaleis, Rockheim) biedt Trondheim betrouwbare, geverifieerde huisdierenzorg via internationale en Noorse platforms.",
       "faqsDe": [
         {
           "q": "Was kostet Hundetagesbetreuung in Trondheim?",
@@ -1307,6 +1454,16 @@
         {
           "q": "Finde ich in Trondheim einen englischsprachigen Sitter?",
           "a": "Ja, fast alle norwegischen Sitter sprechen fließend Englisch. Norwegen hat außerhalb von Irland und Malta die höchste Englischkompetenz in der EU/EWR, sodass die Sprache selten ein Hindernis darstellt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat kost dagopvang voor honden in Trondheim?",
+          "a": "350-600 NOK per dag (30-55 €), afhankelijk van platform en hondengrootte, via Pawshake of Hundepensjonat Trøndelag. Korte bezoekjes kosten 200-300 NOK (18-28 €) voor 30 minuten."
+        },
+        {
+          "q": "Vind ik in Trondheim een Engelssprekende oppasser?",
+          "a": "Ja, bijna alle Noorse oppassers spreken vloeiend Engels. Noorwegen heeft buiten Ierland en Malta de hoogste Engelse taalvaardigheid in de EU/EER, dus taal vormt zelden een obstakel."
         }
       ]
     }

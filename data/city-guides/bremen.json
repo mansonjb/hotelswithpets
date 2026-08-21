@@ -39,9 +39,13 @@
           "mustTryPt": "Labskaus, Bremer Knipp, arenque Bückling fumado com batatas",
           "tipPt": "Peça uma mesa nas abóbadas traseiras mais fundas, mais tranquilas, com alcovas de pedra perfeitas para cães de médio a grande porte se acomodarem.",
           "descriptionDe": "Gewölbter, 600 Jahre alter Weinkeller unter dem UNESCO-Rathaus, gesäumt von 600 deutschen Weinen und mit traditionellen hanseatischen Gerichten, Labskaus, Bremer Knipp, geräucherter Nordseefisch. Eines der ältesten durchgehend betriebenen Restaurants Deutschlands.",
+          "descriptionNl": "Gewelfde, 600 jaar oude wijnkelder onder het UNESCO-stadhuis, met 600 Duitse wijnen en traditionele Hanzegerechten, labskaus, Bremer knipp, gerookte Noordzeevis. Een van de oudste ononderbroken geëxploiteerde restaurants van Duitsland.",
           "petPolicyDe": "Angeleinte Hunde ganzjährig in den hinteren Gewölben drinnen willkommen; Wassernapf auf Anfrage",
+          "petPolicyNl": "Aangelijnde honden het hele jaar door welkom binnen in de achterste gewelven; waterbakje op aanvraag",
           "mustTryDe": "Labskaus, Bremer Knipp, geräucherter Bückling mit Kartoffeln",
-          "tipDe": "Nach einem Tisch in den tieferen hinteren Gewölben fragen, ruhiger, mit Steinnischen, perfekt für mittelgroße bis große Hunde zum Niederlassen."
+          "mustTryNl": "Labskaus, Bremer knipp, gerookte bokking met aardappelen",
+          "tipDe": "Nach einem Tisch in den tieferen hinteren Gewölben fragen, ruhiger, mit Steinnischen, perfekt für mittelgroße bis große Hunde zum Niederlassen.",
+          "tipNl": "Vraag om een tafel in de diepere achterste gewelven, rustiger, met stenen nissen, perfect voor middelgrote tot grote honden om te gaan liggen."
         },
         {
           "name": "Beck's am Markt",
@@ -69,9 +73,13 @@
           "mustTryPt": "Bratwurst, Bremer Pannfisch, pilsner Beck's",
           "tipPt": "As mesas da primeira fila do terraço estão viradas para a estátua dos Músicos da Cidade, para sessões fotográficas com o seu cão e o marco dos quatro animais, este é o local de eleição.",
           "descriptionDe": "Das Flaggschiff-Restaurant von Bremens ikonischer Beck's-Brauerei, direkt am Marktplatz mit einer großzügigen Außenterrasse zum Rathaus hin. Herzhafte norddeutsche Klassiker gepaart mit der gesamten Beck's-Palette, Pils, Gold, alkoholfrei.",
+          "descriptionNl": "Het vlaggenschiprestaurant van Bremens iconische Beck's-brouwerij, direct aan het marktplein met een royaal buitenterras richting het stadhuis. Stevige Noord-Duitse klassiekers gecombineerd met het volledige Beck's-assortiment, pils, gold, alcoholvrij.",
           "petPolicyDe": "Hunde auf der Terrasse und außerhalb der Stoßzeiten drinnen willkommen; Wassernapf vorhanden",
+          "petPolicyNl": "Honden welkom op het terras en buiten de spits ook binnen; waterbakje aanwezig",
           "mustTryDe": "Bratwurst, Bremer Pannfisch, Beck's Pils",
-          "tipDe": "Die Tische in der ersten Reihe der Terrasse blicken auf die Stadtmusikanten-Statue, für Fotoshootings mit Hund und dem vierbeinigen Wahrzeichen die beste Stelle."
+          "mustTryNl": "Bratwurst, Bremer pannfisch, Beck's pils",
+          "tipDe": "Die Tische in der ersten Reihe der Terrasse blicken auf die Stadtmusikanten-Statue, für Fotoshootings mit Hund und dem vierbeinigen Wahrzeichen die beste Stelle.",
+          "tipNl": "De tafels in de eerste rij van het terras kijken uit op het standbeeld van de Bremer stadsmuzikanten, de beste plek voor een fotoshoot met hond en het viervoetige oriëntatiepunt."
         },
         {
           "name": "Engel Weincafé",
@@ -99,9 +107,13 @@
           "mustTryPt": "Flammkuchen, tábua de queijos do norte da Alemanha, Riesling a copo",
           "tipPt": "Os lugares à janela enchem por volta das 18:30, chegue cedo ou contente-se com o banco corrido do fundo, onde dois cães grandes se podem espalhar debaixo da mesa.",
           "descriptionDe": "Winzige historische Weinbar und Bistro mitten im Viertel, mit unpassenden antiken Stühlen, Kerzen im Fenster und einer Tafel mit der Weinkarte. Das bohemienhafte Herz des hundefreundlichen Bremen, Einheimische bringen jeden Abend ihre Hunde her.",
+          "descriptionNl": "Piepklein historisch wijnbarretje en bistro midden in het Viertel, met een bonte verzameling antieke stoelen, kaarsen in het raam en een schoolbord met de wijnkaart. Het bohemien hart van het hondvriendelijke Bremen, locals nemen hier elke avond hun hond mee naartoe.",
           "petPolicyDe": "Hunde ganzjährig drinnen und draußen ausdrücklich willkommen; Leckerli-Glas an der Theke",
+          "petPolicyNl": "Honden het hele jaar door nadrukkelijk welkom binnen en buiten; snoepjespot bij de bar",
           "mustTryDe": "Flammkuchen, norddeutsche Käseplatte, Riesling im Glas",
-          "tipDe": "Die Fensterplätze sind ab 18:30 Uhr besetzt, früh kommen oder mit der hinteren Sitzbank zufriedengeben, wo sich zwei große Hunde unter dem Tisch ausbreiten können."
+          "mustTryNl": "Flammkuchen, Noord-Duitse kaasplank, riesling per glas",
+          "tipDe": "Die Fensterplätze sind ab 18:30 Uhr besetzt, früh kommen oder mit der hinteren Sitzbank zufriedengeben, wo sich zwei große Hunde unter dem Tisch ausbreiten können.",
+          "tipNl": "De raamtafels zijn vanaf 18.30 uur bezet, kom vroeg of neem genoegen met de achterste zitbank, waar twee grote honden onder de tafel kunnen liggen."
         }
       ],
       "tipsEn": [
@@ -167,7 +179,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Bremen, Schnoor, Viertel & Schlachte",
+      "titleNl": "Hondvriendelijke restaurants in Bremen, Schnoor, Viertel & Schlachte",
       "introDe": "Bremen hat 49 verifizierte hundefreundliche Restaurants, mit der höchsten Konzentration im Viertel (dem bohemienhaften Viertel östlich des Zentrums) und in Findorff. Die meisten hanseatischen Stuben und die Terrassen an der Schlachte servieren Wassernäpfe, ohne gefragt zu werden, und angeleinte Hunde sind bei der Mehrheit der traditionellen Lokale drinnen willkommen.",
+      "introNl": "Bremen heeft 49 geverifieerde hondvriendelijke restaurants, met de hoogste concentratie in het Viertel (de bohemien wijk ten oosten van het centrum) en in Findorff. De meeste Hanzestuben en de terrassen aan de Schlachte zetten waterbakjes neer zonder dat je erom hoeft te vragen, en aangelijnde honden zijn bij de meerderheid van de traditionele zaken binnen welkom.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Bremen erlaubt?",
@@ -176,6 +190,16 @@
         {
           "q": "Muss ich für meinen Hund in einem Bremer Restaurant extra bezahlen?",
           "a": "Nein. Deutsche Restaurants berechnen nichts für Haustiere, und ein kostenloser Wassernapf ist Standard. Ein Trinkgeld von 5-10% wird geschätzt; das Personal legt oft Leckerlis hinter der Theke bereit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Bremen?",
+          "a": "Ja, in de overgrote meerderheid. Bremen behoort tot de meest huisdiertolerante Duitse steden wat restaurants betreft, Pawly Place vermeldt 49 geverifieerde hondvriendelijke zaken. Een binnenplekje het hele jaar door is standaard bij traditionele stuben in het Viertel, op het marktplein en langs de Schlachte. Vraag bij de deur altijd na bij chiquere zaken."
+        },
+        {
+          "q": "Moet ik voor mijn hond extra betalen in een restaurant in Bremen?",
+          "a": "Nee. Duitse restaurants rekenen niets voor huisdieren, en een gratis waterbakje is standaard. Een fooi van 5-10% wordt gewaardeerd; het personeel houdt vaak snoepjes achter de bar klaar."
         }
       ]
     },
@@ -207,8 +231,11 @@
           "petPolicyPt": "Com trela por toda a parte exceto na Hundeauslauffläche sinalizada do extremo oeste, vedada e aberta durante todo o ano",
           "tipPt": "Combine com o Stadtwald adjacente (sem cerca entre eles), juntos oferecem 5 km de trilhos florestais que aceitam cães a apenas 10 minutos de elétrico da Marktplatz.",
           "descriptionDe": "Bremens großer 200 Hektar großer zentraler Park, 1866 eröffnet und vollständig durch Bürgerspenden finanziert. Seen im englischen Landschaftsstil, Wiesen, Wald und ein kleines Wildgehege machen ihn zum guten Wohnzimmer der Stadt. Eine eingezäunte Hundeauslauffläche am Westrand lässt Hunde ganzjährig ohne Leine laufen.",
+          "descriptionNl": "Bremens grote centrale park van 200 hectare, geopend in 1866 en volledig gefinancierd door burgerdonaties. Meren in Engelse landschapsstijl, weilanden, bos en een klein wildverblijf maken het de goede woonkamer van de stad. Een omheind hondenuitlaatveld aan de westrand laat honden het hele jaar zonder lijn lopen.",
           "petPolicyDe": "Überall angeleint außer in der ausgeschilderten Hundeauslauffläche am Westrand, eingezäunt und ganzjährig geöffnet",
-          "tipDe": "Mit dem angrenzenden Stadtwald kombinieren (kein Zaun dazwischen), zusammen bieten sie 5 km hundefreundliche Waldwege nur 10 Minuten mit der Straßenbahn vom Marktplatz entfernt."
+          "petPolicyNl": "Overal aangelijnd, behalve op het aangewezen hondenuitlaatveld aan de westrand, omheind en het hele jaar geopend",
+          "tipDe": "Mit dem angrenzenden Stadtwald kombinieren (kein Zaun dazwischen), zusammen bieten sie 5 km hundefreundliche Waldwege nur 10 Minuten mit der Straßenbahn vom Marktplatz entfernt.",
+          "tipNl": "Combineer met het aangrenzende Stadtwald (geen hek ertussen), samen bieden ze 5 km hondvriendelijke bospaden, maar 10 minuten met de tram vanaf het marktplein."
         },
         {
           "name": "Stadtwald",
@@ -230,8 +257,11 @@
           "petPolicyPt": "Sem trela permitido nas Hundeauslaufflächen marcadas e tolerado nos trilhos do bosque; dever de trela de 1 de março a 15 de julho",
           "tipPt": "Estacione a bicicleta à entrada de Knoops Park e percorra a orla oeste, a secção mais tranquila, o melhor local para observar cães em Brema num domingo de manhã.",
           "descriptionDe": "Der 200 Hektar große „Stadtwald\", der sich nördlich des Bürgerparks erstreckt, mit altem Buchen- und Eichenbestand, Forstwegen aus Kies und dem Emmasee. Hunde können auf den markierten Hundeauslaufflächen und außerhalb der Frühjahrs-Brutzeit an den Waldrändern ohne Leine laufen.",
+          "descriptionNl": "Het 200 hectare grote Stadtwald, dat zich ten noorden van het Bürgerpark uitstrekt, met oude beuken en eiken, grindboswegen en het Emmasee. Honden mogen op de gemarkeerde hondenuitlaatvelden en buiten het voorjaars-broedseizoen aan de bosranden zonder lijn lopen.",
           "petPolicyDe": "Freilauf erlaubt in markierten Hundeauslaufflächen und auf Waldwegen toleriert; Leinenpflicht 1. März bis 15. Juli",
-          "tipDe": "Das Rad am Eingang zum Knoops Park abstellen und den Westrand entlanglaufen, ruhigster Abschnitt, bester Ort für Hundebeobachtung in Bremen an einem Sonntagmorgen."
+          "petPolicyNl": "Loslopen toegestaan op gemarkeerde hondenuitlaatvelden en getolereerd op bospaden; aanlijnplicht 1 maart tot 15 juli",
+          "tipDe": "Das Rad am Eingang zum Knoops Park abstellen und den Westrand entlanglaufen, ruhigster Abschnitt, bester Ort für Hundebeobachtung in Bremen an einem Sonntagmorgen.",
+          "tipNl": "Zet de fiets bij de ingang van Knoops Park en loop langs de westrand, het rustigste stuk, de beste plek in Bremen om op een zondagochtend honden te spotten."
         },
         {
           "name": "Wallanlagen",
@@ -253,8 +283,11 @@
           "petPolicyPt": "Trela obrigatória (Anleinpflicht) durante todo o ano em todos os espaços verdes do centro da cidade",
           "tipPt": "Percorra o circuito no sentido contrário aos ponteiros do relógio do Herdentor até à Bischofsnadel, 30 minutos, perfeito para uma manhã antes das visitas turísticas, com dois cafés ao longo do percurso que servem cães.",
           "descriptionDe": "Der historische Wall- und Grabengürtel, umgewandelt in einen 2 km langen grünen Parkgürtel, der die mittelalterliche Innenstadt umschließt. Alter Baumbestand, die alte Windmühle Herdentorswallmühle, ein Schwanenteich und geschwungene Wege machen ihn zum zentralsten Hundespaziergang in Bremen.",
+          "descriptionNl": "De historische wal- en grachtengordel, omgevormd tot een 2 km lange groene parkgordel die de middeleeuwse binnenstad omsluit. Oude bomen, de oude windmolen Herdentorswallmühle, een zwanenvijver en slingerende paden maken het de meest centrale hondenwandeling van Bremen.",
           "petPolicyDe": "Ganzjährig Leinenpflicht (Anleinpflicht) in allen innerstädtischen Grünflächen",
-          "tipDe": "Die Runde gegen den Uhrzeigersinn vom Herdentor zur Bischofsnadel gehen, 30 Minuten, perfekt für einen Morgen vor der Besichtigung, mit zwei Cafés an der Strecke, die Hunde bewirten."
+          "petPolicyNl": "Het hele jaar aanlijnplicht in alle groengebieden binnen de stad",
+          "tipDe": "Die Runde gegen den Uhrzeigersinn vom Herdentor zur Bischofsnadel gehen, 30 Minuten, perfekt für einen Morgen vor der Besichtigung, mit zwei Cafés an der Strecke, die Hunde bewirten.",
+          "tipNl": "Loop de ronde tegen de klok in van Herdentor naar Bischofsnadel, 30 minuten, perfect voor een ochtend voor je gaat sightseeën, met twee cafés onderweg die honden bedienen."
         }
       ],
       "tipsEn": [
@@ -320,7 +353,9 @@
         }
       ],
       "titleDe": "Die besten Parks & Freilaufflächen in Bremen",
+      "titleNl": "De beste parken & losloopgebieden in Bremen",
       "introDe": "Bremen ist eine der grünsten Städte Deutschlands, der 200 Hektar große Bürgerpark und der angrenzende Stadtwald bilden direkt neben dem Zentrum einen zusammenhängenden Waldparkgürtel, und seit 2022 hat der Umweltbetrieb Bremen 13 eingezäunte Hundeauslaufflächen in der ganzen Stadt eröffnet.",
+      "introNl": "Bremen is een van de groenste steden van Duitsland, het 200 hectare grote Bürgerpark en het aangrenzende Stadtwald vormen direct naast het centrum een aaneengesloten boswandelgordel, en sinds 2022 heeft het gemeentelijke groenbedrijf Umweltbetrieb Bremen 13 omheinde hondenuitlaatvelden geopend door de hele stad.",
       "faqsDe": [
         {
           "q": "Wo können Hunde in Bremen ohne Leine laufen?",
@@ -329,6 +364,16 @@
         {
           "q": "Sind die Innenstadtwege und Wallanlagen von Bremen hundefreundlich?",
           "a": "Ja, die Wallanlagen, der Marktplatz, der Schnoor und die Schlachte heißen alle angeleinte Hunde willkommen. In Bremen gilt in allen öffentlichen Räumen Anleinpflicht; die gepflasterte Innenstadt ist vollständig zugänglich, aber an heißen Sommernachmittagen auf heiße Steine achten."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar kunnen honden in Bremen zonder lijn lopen?",
+          "a": "In elk van de 13 door de gemeente beheerde, omheinde hondenuitlaatvelden, de grootste liggen in het Bürgerpark (westrand), in het Stadtwald (oostrand bij Horn-Lehe), Hinter der Rennbahn en de Hundewiese in de Vahr. Buiten deze zones geldt het hele jaar aanlijnplicht."
+        },
+        {
+          "q": "Zijn de binnenstadspaden en de Wallanlagen van Bremen hondvriendelijk?",
+          "a": "Ja, de Wallanlagen, het marktplein, de Schnoor en de Schlachte heten allemaal aangelijnde honden welkom. In Bremen geldt in alle openbare ruimtes een aanlijnplicht; de geplaveide binnenstad is volledig toegankelijk, maar let op hete stenen op warme zomermiddagen."
         }
       ]
     },
@@ -360,8 +405,11 @@
           "petPolicyPt": "Cães pequenos em transportador: grátis. Cães maiores: bilhete de tarifa infantil obrigatório, trela obrigatória, açaime para Listenhunde",
           "tipPt": "Compre um Tageskarte (10,10 € individual) em qualquer máquina de venda, cobre o seu cão automaticamente como tarifa infantil durante todo o dia.",
           "descriptionDe": "Die Bremer Straßenbahn AG betreibt 8 Straßenbahnlinien und über 40 Buslinien. Die Linien 1-10 decken das Zentrum ab und verbinden jeden größeren Stadtteil; Busse füllen die Lücken und fahren am Wochenende einen 24-Stunden-Dienst. Die Vorzeigelinie 6 verbindet den Hauptbahnhof über den Bürgerpark mit der Universität.",
+          "descriptionNl": "De Bremer Straßenbahn AG exploiteert 8 tramlijnen en meer dan 40 buslijnen. De lijnen 1-10 dekken het centrum en verbinden elke grote wijk; bussen vullen de gaten op en rijden in het weekend een 24-uursdienst. Vlaggenschiplijn 6 verbindt het hoofdstation via het Bürgerpark met de universiteit.",
           "petPolicyDe": "Kleine Hunde in Transportbox: kostenlos. Größere Hunde: Kinderfahrschein erforderlich, Leinenpflicht, Maulkorb für Listenhunde",
-          "tipDe": "Eine Tageskarte (10,10 € Einzelperson) an einem Automaten kaufen, deckt den Hund automatisch als Kinderfahrschein für den ganzen Tag ab."
+          "petPolicyNl": "Kleine honden in reismand: gratis. Grotere honden: kinderkaartje verplicht, aanlijnplicht, muilkorf voor lijsthonden",
+          "tipDe": "Eine Tageskarte (10,10 € Einzelperson) an einem Automaten kaufen, deckt den Hund automatisch als Kinderfahrschein für den ganzen Tag ab.",
+          "tipNl": "Koop een dagkaart (10,10 EUR voor een enkele persoon) bij een automaat, dat dekt de hond automatisch als kinderkaartje voor de hele dag."
         },
         {
           "name": "Hauptbahnhof Bremen (Deutsche Bahn)",
@@ -383,8 +431,11 @@
           "petPolicyPt": "DB longo curso: cães pequenos grátis em transportador, cães maiores a meio preço. As zonas de silêncio ICE/IC não autorizam cães",
           "tipPt": "Use a aplicação DB Navigator para reservar o bilhete do cão juntamente com o seu, introduzido como \"Hund\" através do seletor de passageiros, enviado para o mesmo código QR.",
           "descriptionDe": "Der 1889 eröffnete Hauptbahnhof bedient InterCity, ICE und Regionalverkehr. Direkte stündliche Züge nach Hamburg (60 Min.), Hannover (75 Min.) und Berlin (3 Std.). Hunde in Transportboxen fahren kostenlos; größere Hunde benötigen im Fernverkehr ein Halbpreis-Ticket und im Regionalverkehr einen Zuschlag.",
+          "descriptionNl": "Het in 1889 geopende hoofdstation bedient InterCity, ICE en regionaal vervoer. Directe treinen elk uur naar Hamburg (60 min), Hannover (75 min) en Berlijn (3 uur). Honden in reismand reizen gratis; grotere honden hebben in het langeafstandsverkeer een halveprijskaartje nodig en in het regionale verkeer een toeslag.",
           "petPolicyDe": "DB Fernverkehr: kleine Hunde kostenlos in Transportbox, größere Hunde Halbpreis. In den Ruhezonen von ICE/IC sind Hunde nicht erlaubt",
-          "tipDe": "Die DB-Navigator-App nutzen, um das Hundeticket zusammen mit dem eigenen zu buchen, über die Personenauswahl als „Hund\" eingetragen, auf denselben QR-Code gesendet."
+          "petPolicyNl": "DB Fernverkehr: kleine honden gratis in reismand, grotere honden halve prijs. In de stiltezones van ICE/IC zijn honden niet toegestaan",
+          "tipDe": "Die DB-Navigator-App nutzen, um das Hundeticket zusammen mit dem eigenen zu buchen, über die Personenauswahl als „Hund\" eingetragen, auf denselben QR-Code gesendet.",
+          "tipNl": "Gebruik de DB Navigator-app om het hondenkaartje samen met je eigen kaartje te boeken, via de personenkeuze als 'hond' toegevoegd, verzonden op dezelfde QR-code."
         },
         {
           "name": "Bremen Airport (BRE)",
@@ -406,8 +457,11 @@
           "petPolicyPt": "Animais na cabina (abaixo de 8 kg) aceites pela maioria das companhias aéreas; elétrico 6 de/para a estação grátis para cães em transportador",
           "tipPt": "Telefone à companhia aérea com 48 horas de antecedência face à partida para confirmar a vaga de cabina do seu cão, os terminais mais pequenos de Brema preenchem depressa a quota limitada de animais por voo no verão.",
           "descriptionDe": "Internationaler Flughafen 5 km südlich des Zentrums mit Direktflügen quer durch Europa. Die Straßenbahn 6 verbindet ihn in 11 Minuten mit dem Hauptbahnhof. Haustierfreundlicher Auslaufbereich beim Eingang von Terminal 1 und eine Tierbetreuungslounge für Frachtankünfte.",
+          "descriptionNl": "Internationale luchthaven 5 km ten zuiden van het centrum met directe vluchten door heel Europa. Tram 6 verbindt de luchthaven in 11 minuten met het hoofdstation. Huisdiervriendelijk uitlaatgebied bij de ingang van terminal 1 en een dierenverzorgingslounge voor vrachtaankomsten.",
           "petPolicyDe": "Haustiere in der Kabine (unter 8 kg) von den meisten Airlines akzeptiert; Straßenbahn 6 von/zum Bahnhof kostenlos für Hunde in Transportbox",
-          "tipDe": "Die Airline 48 Stunden vor Abflug vorab anrufen, um den Kabinenplatz für den Hund zu bestätigen, Bremens kleinere Terminals füllen das begrenzte Haustierkontingent pro Flug im Sommer schnell."
+          "petPolicyNl": "Huisdieren in de cabine (onder 8 kg) geaccepteerd door de meeste luchtvaartmaatschappijen; tram 6 van/naar het station gratis voor honden in reismand",
+          "tipDe": "Die Airline 48 Stunden vor Abflug vorab anrufen, um den Kabinenplatz für den Hund zu bestätigen, Bremens kleinere Terminals füllen das begrenzte Haustierkontingent pro Flug im Sommer schnell.",
+          "tipNl": "Bel de luchtvaartmaatschappij 48 uur voor vertrek om de cabineplek voor de hond te bevestigen, Bremens kleinere terminals hebben in de zomer het beperkte huisdierquotum per vlucht snel vol."
         }
       ],
       "tipsEn": [
@@ -473,7 +527,9 @@
         }
       ],
       "titleDe": "Mit Hund unterwegs in Bremen, Verkehr & Mobilität",
+      "titleNl": "Onderweg met hond in Bremen, verkeer & mobiliteit",
       "introDe": "Bremens BSAG betreibt Straßenbahnen, Busse und Nachtdienste in der gesamten Stadt, die alle angeleinte Hunde willkommen heißen. Kleine Hunde in Transportboxen fahren kostenlos; größere Hunde brauchen ein Kinderfahrschein-Ticket. Die Stadt ist zudem außergewöhnlich fahrradfreundlich mit 800 km getrennten Radwegen, viele Einheimische ziehen ihre Hunde in Fahrradanhängern.",
+      "introNl": "Bremens BSAG exploiteert trams, bussen en nachtdiensten door de hele stad, die allemaal aangelijnde honden welkom heten. Kleine honden in reismand reizen gratis; grotere honden hebben een kinderkaartje nodig. De stad is bovendien uitzonderlijk fietsvriendelijk met 800 km gescheiden fietspaden, veel locals trekken hun hond mee in een fietskar.",
       "faqsDe": [
         {
           "q": "Brauchen Hunde ein Ticket in Bremens öffentlichen Verkehrsmitteln der BSAG?",
@@ -482,6 +538,16 @@
         {
           "q": "Kann ich meinen Hund im ICE nach Berlin oder Hamburg mitnehmen?",
           "a": "Ja. Kleine Hunde in Transportboxen fahren kostenlos; größere Hunde benötigen ein Kinder-Ticket 2. Klasse (je nach Entfernung etwa 15-25 €). Die Ruhezone meiden und einen normalen Sitzplatz buchen. Direkte Züge Bremen-Hamburg fahren stündlich und brauchen 60 Minuten."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hebben honden een kaartje nodig in het openbaar vervoer van BSAG in Bremen?",
+          "a": "Kleine honden in een gesloten reismand reizen gratis. Grotere honden hebben een kinderkaartje nodig (1,85 EUR enkele reis, 10,10 EUR dagkaart) en moeten aan de lijn zijn. Lijsthonden (rassenlijst: pitbullterriër, American Staffordshire, bullterriër en bepaalde kruisingen) hebben een muilkorf en dubbele lijn nodig."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen in de ICE naar Berlijn of Hamburg?",
+          "a": "Ja. Kleine honden in reismand reizen gratis; grotere honden hebben een kinderkaartje 2e klas nodig (afhankelijk van de afstand ongeveer 15-25 EUR). Vermijd de stiltezone en boek een gewone zitplaats. Directe treinen Bremen-Hamburg rijden ieder uur en doen er 60 minuten over."
         }
       ]
     },
@@ -513,8 +579,11 @@
           "petPolicyPt": "Natação sem trela permitida na zona canina leste durante todo o ano; a praia balnear principal é apenas com trela",
           "tipPt": "Vá até lá pelo elétrico 1 até ao Theater am Leibnizplatz, depois 10 minutos a pé para sul através da península de Stadtwerder, a zona canina leste surge sinalizada a partir da entrada do Werderpark.",
           "descriptionDe": "Sandiger Badestrand am Werdersee, einem künstlichen See, der durch einen Weser-Staudamm entstand, mit flachem Einstieg, ausgewiesener Hundezone am Ostrand und einem Kiosk im Sommer. Der familienfreundlichste Wasserort in Bremen und einer der wenigen, die Hunde ausdrücklich erlauben.",
+          "descriptionNl": "Zanderig zwemstrand aan het Werdersee, een kunstmatig meer ontstaan door een stuwdam in de Weser, met een vlakke ingang, een aangewezen hondenzone aan de oostrand en een kiosk in de zomer. De meest gezinsvriendelijke waterplek van Bremen en een van de weinige die honden nadrukkelijk toestaan.",
           "petPolicyDe": "Freilaufschwimmen in der östlichen Hundezone ganzjährig erlaubt; der Hauptbadestrand nur an der Leine",
-          "tipDe": "Mit der Straßenbahn 1 bis Theater am Leibnizplatz fahren, dann 10 Minuten südwärts über die Halbinsel Stadtwerder laufen, die östliche Hundezone ist vom Eingang des Werderparks aus ausgeschildert."
+          "petPolicyNl": "Vrij zwemmen zonder lijn toegestaan in de oostelijke hondenzone het hele jaar; het hoofdzwemstrand alleen aan de lijn",
+          "tipDe": "Mit der Straßenbahn 1 bis Theater am Leibnizplatz fahren, dann 10 Minuten südwärts über die Halbinsel Stadtwerder laufen, die östliche Hundezone ist vom Eingang des Werderparks aus ausgeschildert.",
+          "tipNl": "Neem tram 1 tot Theater am Leibnizplatz, loop dan 10 minuten zuidwaarts over het schiereiland Stadtwerder, de oostelijke hondenzone is vanaf de ingang van het Werderpark aangegeven."
         },
         {
           "name": "Weser Riverbank Pauliner Marsch",
@@ -536,8 +605,11 @@
           "petPolicyPt": "Cães com trela bem-vindos durante todo o ano; entradas informais no rio sem proibição de banho",
           "tipPt": "Evite os dias de jogo no Weserstadion (FCH Werder Bremen), a zona transforma-se num mar de adeptos de futebol; consulte o calendário da Bundesliga antes de planear um passeio tranquilo aqui.",
           "descriptionDe": "Weite grüne Flussaue am östlichen Weserufer direkt hinter dem Wohninvest Weserstadion, mit informellen Sandbänken, wo Hunde im Fluss planschen können. Von Einheimischen zum Drachensteigen und Frisbee genutzt. Der ruhigste Teil des zentralen Bremen an einem Wochenendmorgen.",
+          "descriptionNl": "Wijde groene rivierweide aan de oostoever van de Weser direct achter het Wohninvest Weserstadion, met informele zandbanken waar honden in de rivier kunnen plonzen. Wordt door locals gebruikt om te vliegeren en te frisbeeën. Het rustigste deel van centraal Bremen op een zaterdag- of zondagochtend.",
           "petPolicyDe": "Angeleinte Hunde ganzjährig willkommen; informelle Flusszugänge ohne Schwimmverbot",
-          "tipDe": "Spieltage im Weserstadion (Werder Bremen) meiden, das Gebiet wird zu einem Meer aus Fußballfans; den Bundesliga-Kalender vor der Planung eines ruhigen Spaziergangs prüfen."
+          "petPolicyNl": "Aangelijnde honden het hele jaar welkom; informele rivieringangen zonder zwemverbod",
+          "tipDe": "Spieltage im Weserstadion (Werder Bremen) meiden, das Gebiet wird zu einem Meer aus Fußballfans; den Bundesliga-Kalender vor der Planung eines ruhigen Spaziergangs prüfen.",
+          "tipNl": "Vermijd wedstrijddagen bij het Weserstadion (Werder Bremen), het gebied verandert dan in een zee van voetbalfans; controleer de Bundesliga-kalender voor je een rustige wandeling plant."
         },
         {
           "name": "Schlachte Promenade",
@@ -559,8 +631,11 @@
           "petPolicyPt": "Cães com trela bem-vindos em todo o passeio de 1 km; o acesso aos degraus da margem do rio é permitido",
           "tipPt": "O beer garden Schlachte Schauer tem a mais longa fila de lugares ao ar livre que aceitam cães do Weser, além de um frasco de petiscos no balcão.",
           "descriptionDe": "Die historische hanseatische Uferpromenade entlang der mittelalterlichen Innenstadt, mit restaurierten Segelschiffen vor Anker, Biergarten-Terrassen und der hundefreundlichen Bürgermeister-Smidt-Brücke zum Überqueren. Kein Strand im Schwimm-Sinn, aber die beste Hund-und-Kaffee-Meile der Stadt.",
+          "descriptionNl": "De historische Hanzeoeverpromenade langs de middeleeuwse binnenstad, met gerestaureerde zeilschepen voor anker, biergarten-terrassen en de hondvriendelijke Bürgermeister-Smidt-brug om over te steken. Geen strand om in te zwemmen, maar wel de beste hond-en-koffie-mijl van de stad.",
           "petPolicyDe": "Angeleinte Hunde auf der gesamten 1 km langen Promenade willkommen; Zugang zu den Ufertreppen erlaubt",
-          "tipDe": "Der Biergarten Schlachte Schauer hat die längste hundefreundliche Reihe an Außensitzplätzen an der Weser, dazu ein Leckerli-Glas an der Theke."
+          "petPolicyNl": "Aangelijnde honden welkom over de hele 1 km lange promenade; toegang tot de oevertrappen toegestaan",
+          "tipDe": "Der Biergarten Schlachte Schauer hat die längste hundefreundliche Reihe an Außensitzplätzen an der Weser, dazu ein Leckerli-Glas an der Theke.",
+          "tipNl": "De biergarten Schlachte Schauer heeft de langste hondvriendelijke rij buitenzitplaatsen aan de Weser, plus een snoepjespot bij de bar."
         }
       ],
       "tipsEn": [
@@ -626,7 +701,9 @@
         }
       ],
       "titleDe": "Weser-Ufer & Seestrände rund um Bremen",
+      "titleNl": "Weseroevers & meerstranden rond Bremen",
       "introDe": "Bremen hat keinen Meeresstrand, aber die Weser und der künstliche Werdersee bilden direkt neben dem Zentrum eine 6 km lange Runde aus Stränden, Sandbänken und Gezeitengras. Zwei Badestrände heißen Hunde offiziell willkommen (Werderseestrand und kleine Abschnitte nahe dem Weserstadion); der beliebte Strand Café Sand auf der Halbinsel Stadtwerder ist im Sommer hundefrei.",
+      "introNl": "Bremen heeft geen zeestrand, maar de Weser en het kunstmatige Werdersee vormen direct naast het centrum een 6 km lange ronde van stranden, zandbanken en oevergras. Twee zwemstranden heten honden officieel welkom (Werderseestrand en kleine stukken bij het Weserstadion); het populaire strand Café Sand op het schiereiland Stadtwerder is in de zomer hondenvrij.",
       "faqsDe": [
         {
           "q": "Können Hunde in der Weser schwimmen?",
@@ -635,6 +712,16 @@
         {
           "q": "Ist das Wasser für Hunde zum Schwimmen sicher?",
           "a": "Im Allgemeinen ja, Weser und Werdersee werden während der Badesaison wöchentlich auf E. coli, intestinale Enterokokken und Blaualgen überwacht. Nach starkem Regen (Abfluss) 24 Stunden auf das Schwimmen verzichten und Algenblüten im Spätsommer meiden."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kunnen honden zwemmen in de Weser?",
+          "a": "Ja, informeel aan de oostoever van de Pauliner Marsch en in de oostelijke hondenzone van het Werderseestrand. Vermijd de vaargeul en veerroutes; zwem alleen bij zachte oevers met weinig stroming. Het strand Café Sand op het Stadtwerder verbiedt honden van 1 mei tot 30 september."
+        },
+        {
+          "q": "Is het water veilig om in te zwemmen voor honden?",
+          "a": "Over het algemeen wel, de Weser en het Werdersee worden tijdens het zwemseizoen wekelijks gecontroleerd op E. coli, intestinale enterokokken en blauwalg. Zwem 24 uur niet na zware regen (afstroming) en vermijd algenbloei aan het einde van de zomer."
         }
       ]
     },
@@ -666,8 +753,11 @@
           "petPolicyPt": "Atendimentos sem marcação aceites durante o horário de funcionamento; emergências fora de horas encaminhadas para o Bremer Notdienst",
           "tipPt": "Telefone à clínica antes de chegar mesmo durante o horário de funcionamento para casos não rotineiros, fazem triagem por telefone e podem atender casos urgentes à frente da fila.",
           "descriptionDe": "Bremens größte Kleintierklinik mit vollständiger Chirurgie-, Zahn- und Bildgebungsausstattung. 1972 gegründet und von 12 Tierärzten geführt. Innere Medizin, Weichteil- und orthopädische Chirurgie, Ultraschall und digitales Röntgen vor Ort.",
+          "descriptionNl": "Bremens grootste kleindierenkliniek met volledige chirurgie-, gebits- en beeldvormingsapparatuur. Opgericht in 1972 en gerund door 12 dierenartsen. Interne geneeskunde, weke delen- en orthopedische chirurgie, echografie en digitale röntgen ter plekke.",
           "petPolicyDe": "Laufkundschaft während der Öffnungszeiten akzeptiert; Notfälle außerhalb der Öffnungszeiten an den Bremer Notdienst weitergeleitet",
-          "tipDe": "Die Klinik auch während der Öffnungszeiten bei nicht routinemäßigen Fällen vorab anrufen, sie triagieren telefonisch und können dringende Fälle vor der Warteschlange sehen."
+          "petPolicyNl": "Inloop tijdens openingstijden geaccepteerd; spoedgevallen buiten openingstijden doorverwezen naar de Bremer spoeddienst",
+          "tipDe": "Die Klinik auch während der Öffnungszeiten bei nicht routinemäßigen Fällen vorab anrufen, sie triagieren telefonisch und können dringende Fälle vor der Warteschlange sehen.",
+          "tipNl": "Bel de kliniek ook tijdens openingstijden van tevoren bij niet-routinegevallen, ze doen telefonische triage en kunnen dringende gevallen voor de wachtrij langs laten komen."
         },
         {
           "name": "Tiernotruf Bremen (Notdienst)",
@@ -688,8 +778,11 @@
           "petPolicyPt": "Triagem apenas por telefone; visita presencial na clínica de plantão do dia com uma taxa de registo",
           "tipPt": "Guarde +49 421 1 22 11 no seu telemóvel no dia da chegada, o número do veterinário de plantão é o mesmo durante todo o ano; o operador muda a localização consoante a escala.",
           "descriptionDe": "Koordinierter regionaler Tiernotdienst, betrieben von der Tierärztekammer Bremen. Eine einzige Hotline (+49 421 1 22 11) leitet Anrufe an den diensthabenden Tierarzt des Tages weiter; der Dienst arbeitet Mo-Fr 18:00-22:00 und Sa/So/Feiertage 08:00-22:00.",
+          "descriptionNl": "Gecoördineerde regionale diergeneeskundige spoeddienst, gerund door de Tierärztekammer Bremen. Eén enkele hotline (+49 421 1 22 11) leidt oproepen door naar de dienstdoende dierenarts van de dag; de dienst werkt ma-vr 18.00-22.00 en za/zo/feestdagen 08.00-22.00 uur.",
           "petPolicyDe": "Nur telefonische Triage; persönlicher Besuch in der jeweiligen diensthabenden Klinik mit einer Anmeldegebühr",
-          "tipDe": "Am Ankunftstag +49 421 1 22 11 im Telefon speichern, die diensthabende Tierarztnummer ist das ganze Jahr über gleich; der Betreiber wechselt den Standort je nach Dienstplan."
+          "petPolicyNl": "Alleen telefonische triage; persoonlijk bezoek bij de betreffende dienstdoende kliniek met een aanmeldkosten",
+          "tipDe": "Am Ankunftstag +49 421 1 22 11 im Telefon speichern, die diensthabende Tierarztnummer ist das ganze Jahr über gleich; der Betreiber wechselt den Standort je nach Dienstplan.",
+          "tipNl": "Sla +49 421 1 22 11 op de dag van aankomst op in je telefoon, het nummer van de dienstdoende dierenarts blijft het hele jaar hetzelfde; alleen de locatie wisselt per dienstrooster."
         },
         {
           "name": "Tierärztliche Hochschule Hannover (TiHo, 24/7, 130 km)",
@@ -711,8 +804,11 @@
           "petPolicyPt": "Atendimento sem marcação 24/7 para emergências com risco de vida; telefone primeiro para +49 511 953 6200 para alertar a equipa de plantão",
           "tipPt": "Se o seu caso for crítico e for necessário cuidado noturno, a TiHo é a melhor opção do norte da Alemanha, mas telefone com antecedência para confirmar a capacidade e leve consigo todo o historial médico.",
           "descriptionDe": "Deutschlands führende tiermedizinische Hochschulklinik mit 24/7-Notdienst für Kleintiere, Exoten und Pferde. Eine Stunde südlich von Bremen mit dem Auto (A7) oder 90 Minuten mit dem direkten ICE. Intensivstation, MRT, CT und Notfallchirurgie rund um die Uhr verfügbar.",
+          "descriptionNl": "Duitslands toonaangevende diergeneeskundige universiteitskliniek met 24/7-spoeddienst voor kleine huisdieren, exoten en paarden. Een uur ten zuiden van Bremen met de auto (A7) of 90 minuten met de directe ICE. Intensive care, MRI, CT en spoedchirurgie dag en nacht beschikbaar.",
           "petPolicyDe": "24/7 Laufkundschaft für lebensbedrohliche Notfälle; vorab +49 511 953 6200 anrufen, um das diensthabende Team zu alarmieren",
-          "tipDe": "Wenn der Fall kritisch ist und Übernachtungspflege nötig ist, ist die TiHo die beste Option in Norddeutschland, aber vorher anrufen, um Kapazität zu bestätigen, und die gesamte Krankengeschichte mitbringen."
+          "petPolicyNl": "24/7 inloop voor levensbedreigende noodgevallen; bel van tevoren +49 511 953 6200 om het dienstdoende team te alarmeren",
+          "tipDe": "Wenn der Fall kritisch ist und Übernachtungspflege nötig ist, ist die TiHo die beste Option in Norddeutschland, aber vorher anrufen, um Kapazität zu bestätigen, und die gesamte Krankengeschichte mitbringen.",
+          "tipNl": "Als het geval kritiek is en overnachtingszorg nodig heeft, is de TiHo de beste optie in Noord-Duitsland, maar bel van tevoren om de capaciteit te bevestigen, en neem de volledige medische geschiedenis mee."
         }
       ],
       "tipsEn": [
@@ -778,7 +874,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte & Tierbetreuung in Bremen",
+      "titleNl": "Spoeddierenartsen & dierenzorg in Bremen",
       "introDe": "Bremen hat einen koordinierten regionalen Tierärztlichen Notdienst (Notdienst der Bremer Tierärzte), der Mo-Fr 18:00-22:00 und an Wochenenden/Feiertagen 8:00-22:00 arbeitet, dazu die 24/7 Tierärztliche Hochschule Hannover eine Stunde südlich. Die Vorzeigeklinik Kleintierklinik Bremen übernimmt Chirurgie und Innere Medizin während erweiterter Öffnungszeiten.",
+      "introNl": "Bremen heeft een gecoördineerde regionale diergeneeskundige spoeddienst (Notdienst der Bremer Tierärzte), die ma-vr 18.00-22.00 en in het weekend/op feestdagen 8.00-22.00 werkt, plus de 24/7 Tierärztliche Hochschule Hannover een uur zuidelijker. De vlaggenschipkliniek Kleintierklinik Bremen neemt chirurgie en interne geneeskunde over tijdens verlengde openingstijden.",
       "faqsDe": [
         {
           "q": "Gibt es einen 24-Stunden-Tierarzt in Bremen?",
@@ -787,6 +885,16 @@
         {
           "q": "Gilt mein EU-Heimtierausweis in Deutschland?",
           "a": "Ja. Deutschland wendet den standardmäßigen EU-Rahmen für die Einreise von Heimtieren an: ISO-Mikrochip, gültige Tollwutimpfung, die mindestens 21 Tage alt ist, EU-Heimtierausweis. Für die Ein- oder Ausreise nach/aus Deutschland ist keine Bandwurmbehandlung erforderlich. Listenhunde (Rasseliste) benötigen zusätzliche Unterlagen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs dierenarts in Bremen?",
+          "a": "Binnen Bremen zelf is er geen eigen 24-uurs kliniek. De regionale spoeddienst (+49 421 1 22 11) dekt ma-vr 18.00-22.00 en weekend-/feestdagen; buiten deze tijden is de dichtstbijzijnde 24/7-voorziening de Tierärztliche Hochschule Hannover (130 km, 1 uur met de auto of 90 minuten met de directe ICE)."
+        },
+        {
+          "q": "Is mijn EU-dierenpaspoort geldig in Duitsland?",
+          "a": "Ja. Duitsland hanteert het standaard EU-kader voor het binnenbrengen van huisdieren: ISO-microchip, geldige rabiësvaccinatie die minstens 21 dagen oud is, EU-dierenpaspoort. Voor het in- of uitreizen van/naar Duitsland is geen lintwormbehandeling vereist. Lijsthonden (rassenlijst) hebben aanvullende documenten nodig."
         }
       ]
     },
@@ -865,7 +973,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für einen Besuch in Bremen mit Hund",
+      "titleNl": "Praktische tips voor een bezoek aan Bremen met hond",
       "introDe": "Bremen gehört im Alltag zu den hundefreundlichsten Städten Deutschlands, hanseatische Restaurantkultur, großzügige Freilaufzonen und ausgezeichneter öffentlicher Nahverkehr. Die vier praktischen Dinge, die man einplanen sollte: die stadtweite Leinenpflicht (Anleinpflicht) außerhalb der 13 eingezäunten Zonen, Listenhunde-Beschränkungen für Rasselisten-Hunde, der unberechenbare norddeutsche Regen und die gezeitenabhängigen Wasserstände der Weser bei Uferspaziergängen.",
+      "introNl": "Bremen behoort in het dagelijks leven tot de meest hondvriendelijke steden van Duitsland, met Hanzerestaurantcultuur, royale losloopzones en uitstekend openbaar vervoer. De vier praktische dingen om rekening mee te houden: de stadsbrede aanlijnplicht buiten de 13 omheinde zones, beperkingen voor lijsthonden op de rassenlijst, de onvoorspelbare Noord-Duitse regen en de van het getij afhankelijke waterstanden van de Weser bij oeverwandelingen.",
       "faqsDe": [
         {
           "q": "Welche Dokumente braucht mein Hund für die Einreise nach Bremen?",
@@ -874,6 +984,16 @@
         {
           "q": "Was ist die beste Jahreszeit für einen Besuch in Bremen mit Hund?",
           "a": "Mai bis September hat das mildeste Wetter (15-22 °C) und die längste Tageshelligkeit, aber Regen ist ganzjährig möglich. Den Bremer Freimarkt (Mitte Oktober-November) meiden, Feuerwerk und Menschenmassen sind stressig. Weihnachtsmärkte (Ende November-23. Dezember) sind hundefreundlich, aber das Pflaster wird glatt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welke documenten heeft mijn hond nodig om Bremen binnen te komen?",
+          "a": "Een EU-dierenpaspoort (of het equivalent voor derde landen), een ISO-microchip en een geldige rabiësvaccinatie die minstens 21 dagen oud is. Geen lintwormbehandeling vereist. Lijsthonden (rassenlijst) hebben aanvullende vergunningen en een bewijs van vakbekwaamheid nodig; controleer voor je reis Bremens hondenwet."
+        },
+        {
+          "q": "Wat is het beste seizoen om Bremen met hond te bezoeken?",
+          "a": "Mei tot september heeft het mildste weer (15-22°C) en de langste daglichturen, maar regen is het hele jaar mogelijk. Vermijd de Bremer Freimarkt (half oktober-november), vuurwerk en mensenmassa's zijn stressvol. Kerstmarkten (eind november-23 december) zijn hondvriendelijk, maar de kasseien worden glad."
         }
       ]
     },
@@ -905,8 +1025,11 @@
           "petPolicyPt": "Ao ar livre, gratuita, aceita cães durante todo o ano; ponha o seu cão a posar ao lado do bronze para uma foto",
           "tipPt": "Visite às 07:30 para a melhor luz fotográfica, por volta das 09:00 a fila de quem tira selfies torna impossível conseguir uma foto desimpedida com o seu cão.",
           "descriptionDe": "Gerhard Marcks' Bronze von 1953 mit vier Tieren, Esel, Hund, Katze und Hahn, aufeinander gestapelt an der Westseite des Rathauses. Inspiriert vom Märchen der Brüder Grimm; der Überlieferung nach bringt das Reiben der Vorderbeine des Esels Glück. Die meistfotografierte Hundestatue Deutschlands.",
+          "descriptionNl": "Gerhard Marcks' bronzen beeld uit 1953 met vier dieren, ezel, hond, kat en haan, op elkaar gestapeld aan de westkant van het stadhuis. Geïnspireerd op het sprookje van de gebroeders Grimm; volgens de overlevering brengt het wrijven over de voorpoten van de ezel geluk. Het meest gefotografeerde hondenstandbeeld van Duitsland.",
           "petPolicyDe": "Im Freien, kostenlos, ganzjährig hundefreundlich; den Hund für ein Foto neben die Bronzefigur setzen",
-          "tipDe": "Um 07:30 Uhr besuchen für das beste Fotolicht, bis 09:00 Uhr macht die Schlange der Selfie-Nehmer ein klares Foto mit Hund unmöglich."
+          "petPolicyNl": "In de open lucht, gratis, het hele jaar hondvriendelijk; zet je hond voor een foto naast het bronzen beeld",
+          "tipDe": "Um 07:30 Uhr besuchen für das beste Fotolicht, bis 09:00 Uhr macht die Schlange der Selfie-Nehmer ein klares Foto mit Hund unmöglich.",
+          "tipNl": "Bezoek om 07.30 uur voor het beste fotolicht, tegen 09.00 uur maakt de rij selfienemers een duidelijke foto met hond onmogelijk."
         },
         {
           "name": "Bremen Town Hall & Roland Statue",
@@ -928,8 +1051,11 @@
           "petPolicyPt": "Exterior da Marktplatz aberto durante todo o ano a cães com trela; as visitas guiadas interiores à Câmara Municipal não admitem cães",
           "tipPt": "Coloque-se no canto sudeste perto de Roland para enquadrar ambos os monumentos numa única foto com o seu cão, a melhor luz suave às 17:00.",
           "descriptionDe": "Das Rathaus der Weserrenaissance (erbaut 1409, Fassade 1612) und die 5,5 Meter hohe Roland-Statue (1404) sind seit 2004 gemeinsam von der UNESCO als Symbole hanseatischer bürgerlicher Freiheit gelistet. Roland ist die größte freistehende mittelalterliche Statue Deutschlands. Der Außenplatz ist für Hunde offen; im Ratskeller-Restaurant sind sie drinnen willkommen.",
+          "descriptionNl": "Het stadhuis in Weser-renaissancestijl (gebouwd in 1409, gevel 1612) en het 5,5 meter hoge Roland-standbeeld (1404) staan sinds 2004 samen op de UNESCO-lijst als symbolen van Hanzeatische burgerlijke vrijheid. Roland is het grootste vrijstaande middeleeuwse standbeeld van Duitsland. Het buitenplein is open voor honden; in het Ratskeller-restaurant zijn ze binnen welkom.",
           "petPolicyDe": "Der Außenbereich des Marktplatzes ist ganzjährig für angeleinte Hunde offen; geführte Innenbesichtigungen des Rathauses lassen keine Hunde zu",
-          "tipDe": "An der südöstlichen Ecke nahe Roland stehen, um beide Denkmäler mit Hund in einem Foto einzufangen, bestes weiches Licht um 17:00 Uhr."
+          "petPolicyNl": "Het buitengedeelte van het marktplein is het hele jaar open voor aangelijnde honden; geleide rondleidingen binnen in het stadhuis laten geen honden toe",
+          "tipDe": "An der südöstlichen Ecke nahe Roland stehen, um beide Denkmäler mit Hund in einem Foto einzufangen, bestes weiches Licht um 17:00 Uhr.",
+          "tipNl": "Ga in de zuidoostelijke hoek bij Roland staan om beide monumenten met hond in één foto vast te leggen, het beste zachte licht is rond 17.00 uur."
         },
         {
           "name": "Schnoor Quarter",
@@ -951,8 +1077,11 @@
           "petPolicyPt": "Cães com trela bem-vindos durante todo o ano; muitas lojas têm tigelas de água à porta",
           "tipPt": "Passeie ao início da noite (18:00-20:00) quando as lojas estão a fechar e os grupos turísticos já saíram, ruelas tranquilas, luz dourada, e terraços de café tolerantes a cães ainda abertos.",
           "descriptionDe": "Bremens ältestes Viertel, ein Labyrinth enger Kopfsteinpflastergassen, gesäumt von Fachwerkhäusern aus dem 15.-17. Jahrhundert, heute Sitz von Kunsthandwerk, Galerien, Cafés und kleinen Museen. Komplett Fußgängerzone; der charmanteste Hundespaziergang in der Innenstadt von Bremen.",
+          "descriptionNl": "Bremens oudste wijk, een doolhof van smalle geplaveide steegjes, omzoomd door vakwerkhuizen uit de 15e-17e eeuw, nu de thuisbasis van kunstnijverheid, galerieën, cafés en kleine musea. Volledig voetgangersgebied; de charmantste hondenwandeling in het centrum van Bremen.",
           "petPolicyDe": "Angeleinte Hunde ganzjährig willkommen; viele Läden haben Wassernäpfe vor der Tür",
-          "tipDe": "Am frühen Abend (18:00-20:00 Uhr) gehen, wenn die Läden schließen und die Reisegruppen weg sind, ruhige Gassen, goldenes Licht und noch geöffnete hundetolerante Café-Terrassen."
+          "petPolicyNl": "Aangelijnde honden het hele jaar welkom; veel winkels hebben waterbakjes voor de deur",
+          "tipDe": "Am frühen Abend (18:00-20:00 Uhr) gehen, wenn die Läden schließen und die Reisegruppen weg sind, ruhige Gassen, goldenes Licht und noch geöffnete hundetolerante Café-Terrassen.",
+          "tipNl": "Ga in de vroege avond (18.00-20.00 uur), wanneer de winkels sluiten en de reisgroepen weg zijn, rustige steegjes, gouden licht en nog geopende hondentolerante caféterrassen."
         }
       ],
       "tipsEn": [
@@ -1018,7 +1147,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Bremen",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Bremen",
       "introDe": "Bremens Hauptsehenswürdigkeiten, der UNESCO-Marktplatz mit Rathaus und Roland-Statue, die Stadtmusikanten, das Schnoor-Viertel und die Wallanlagen, sind fast alle im Freien und an der Leine hundefreundlich. Das Märchen von den Stadtmusikanten stellt sogar einen Hund ins Zentrum von Bremens Identität.",
+      "introNl": "Bremens hoofdattracties, het UNESCO-marktplein met stadhuis en Roland-standbeeld, de stadsmuzikanten, de Schnoor-wijk en de Wallanlagen, zijn bijna allemaal buiten en aan de lijn hondvriendelijk. Het sprookje van de stadsmuzikanten zet zelfs een hond centraal in de identiteit van Bremen.",
       "faqsDe": [
         {
           "q": "Sind Hunde im Schnoor und am Marktplatz erlaubt?",
@@ -1027,6 +1158,16 @@
         {
           "q": "Kann mein Hund mit der Stadtmusikanten-Statue posieren?",
           "a": "Auf jeden Fall. Die Bronzefigur der Bremer Stadtmusikanten an der Westseite des Rathauses ist einer der beliebtesten Hunde-Fotospots Deutschlands. Vor 09:00 Uhr besuchen, um Warteschlangen zu vermeiden, und der Überlieferung nach bringt das Reiben der Vorderbeine des Esels Glück, der Hund kann es genauso tun."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in de Schnoor en op het marktplein?",
+          "a": "Ja, beide zijn voetgangersgebieden die volledig open zijn voor aangelijnde honden. De kasseien kunnen bij nat weer glad worden en op augustusmiddagen erg heet; draag kleine honden zo nodig over het gepolijste graniet."
+        },
+        {
+          "q": "Kan mijn hond poseren bij het standbeeld van de stadsmuzikanten?",
+          "a": "Absoluut. Het bronzen beeld van de Bremer stadsmuzikanten aan de westkant van het stadhuis is een van de populairste hondenfotospots van Duitsland. Bezoek het voor 09.00 uur om wachtrijen te vermijden, en volgens de overlevering brengt het wrijven over de voorpoten van de ezel geluk, dat kan de hond net zo goed doen."
         }
       ]
     },
@@ -1057,7 +1198,9 @@
           "descriptionPt": "A maior plataforma de pet sitting de base comunitária da Alemanha. Brema lista mais de 50 cuidadores ativos que oferecem creche, hospedagem, passeios e visitas ao domicílio. Verificações de antecedentes e seguro completo incluídos em todas as reservas; mensagens na aplicação e reserva de encontro de apresentação.",
           "tipPt": "Filtre por \"Probetag kostenlos\" para cuidadores que oferecem um dia de experiência gratuito, essencial se o seu cão for reativo em casas novas.",
           "descriptionDe": "Größte community-basierte Haustierbetreuungsplattform Deutschlands. Bremen listet über 50 aktive Betreuer, die Tagesbetreuung, Unterbringung, Spaziergänge und Hausbesuche anbieten. Hintergrundprüfungen und volle Versicherung bei jeder Buchung inklusive; In-App-Nachrichten und Kennenlerntermin-Buchung.",
-          "tipDe": "Nach „Probetag kostenlos\" filtern für Betreuer, die einen kostenlosen Probetag anbieten, wichtig, wenn der Hund in neuen Umgebungen ängstlich reagiert."
+          "descriptionNl": "Grootste community-gebaseerde huisdierenoppasplatform van Duitsland. Bremen vermeldt meer dan 50 actieve oppassers, die dagopvang, onderdak, wandelingen en huisbezoeken aanbieden. Achtergrondcontroles en volledige verzekering bij elke boeking inbegrepen; in-app berichten en het boeken van een kennismakingsafspraak.",
+          "tipDe": "Nach „Probetag kostenlos\" filtern für Betreuer, die einen kostenlosen Probetag anbieten, wichtig, wenn der Hund in neuen Umgebungen ängstlich reagiert.",
+          "tipNl": "Filter op 'gratis proefdag' voor oppassers die een gratis proefdag aanbieden, belangrijk als je hond angstig reageert in nieuwe omgevingen."
         },
         {
           "name": "DogHero / Rover Germany",
@@ -1077,7 +1220,9 @@
           "descriptionPt": "Mercado internacional de cuidados para animais com forte operação na Alemanha. Brema tem mais de 30 cuidadores verificados que oferecem hospedagem, creche e passeios de cães; seguro incluído em todas as reservas, interface em inglês disponível, mensagens integradas.",
           "tipPt": "Útil quando precisa de um passeio numa janela horária específica durante uma viagem de meio dia a Hamburgo, os cuidadores de Brema listam as janelas de visita em intervalos de 30 minutos.",
           "descriptionDe": "Internationaler Marktplatz für Tierbetreuung mit starkem deutschen Geschäft. Bremen hat über 30 verifizierte Betreuer, die Unterbringung, Tagesbetreuung und Spaziergänge anbieten; Versicherung bei jeder Buchung inklusive, englische Oberfläche verfügbar, integrierte Nachrichtenfunktion.",
-          "tipDe": "Nützlich, wenn ein bestimmtes Zeitfenster für einen Spaziergang während eines Hamburg-Halbtagesausflugs gebraucht wird, Betreuer in Bremen listen Besuchsfenster in 30-Minuten-Slots."
+          "descriptionNl": "Internationale marktplaats voor dierenzorg met een sterke Duitse activiteit. Bremen heeft meer dan 30 geverifieerde oppassers, die onderdak, dagopvang en wandelingen aanbieden; verzekering bij elke boeking inbegrepen, Engelse interface beschikbaar, geïntegreerde berichtenfunctie.",
+          "tipDe": "Nützlich, wenn ein bestimmtes Zeitfenster für einen Spaziergang während eines Hamburg-Halbtagesausflugs gebraucht wird, Betreuer in Bremen listen Besuchsfenster in 30-Minuten-Slots.",
+          "tipNl": "Handig als je een specifiek tijdvenster nodig hebt voor een wandeling tijdens een halve-dagtripje naar Hamburg, oppassers in Bremen vermelden bezoekvensters in blokken van 30 minuten."
         },
         {
           "name": "TrustedHousesitters Bremen",
@@ -1097,7 +1242,9 @@
           "descriptionPt": "Plataforma de adesão anual que junta viajantes a cuidadores verificados em troca de alojamento gratuito. O mercado alemão é maduro e Brema tem consistentemente 5 a 15 cuidadores disponíveis no verão; funciona melhor para estadias de 5 ou mais noites.",
           "tipPt": "Se ficar num alojamento de férias por 5 ou mais noites, publicar a sua necessidade de cuidado canino com 4 a 6 semanas de antecedência costuma gerar vários candidatos da zona de Brema.",
           "descriptionDe": "Jahresmitgliedschaftsplattform, die Reisende mit verifizierten Sittern gegen kostenlose Unterkunft zusammenbringt. Der deutsche Markt ist ausgereift, und in Bremen sind im Sommer durchweg 5-15 Sitter verfügbar; funktioniert am besten für Aufenthalte ab 5 Nächten.",
-          "tipDe": "Bei einem Aufenthalt von 5+ Nächten in einer Ferienwohnung ergibt das Einstellen des Betreuungsbedarfs 4-6 Wochen im Voraus in der Regel mehrere Bewerber aus der Region Bremen."
+          "descriptionNl": "Jaarlidmaatschapsplatform dat reizigers koppelt aan geverifieerde oppassers in ruil voor gratis onderdak. De Duitse markt is volwassen, en in Bremen zijn er in de zomer doorlopend 5-15 oppassers beschikbaar; werkt het best voor verblijven vanaf 5 nachten.",
+          "tipDe": "Bei einem Aufenthalt von 5+ Nächten in einer Ferienwohnung ergibt das Einstellen des Betreuungsbedarfs 4-6 Wochen im Voraus in der Regel mehrere Bewerber aus der Region Bremen.",
+          "tipNl": "Bij een verblijf van 5+ nachten in een vakantieappartement levert het plaatsen van je oppasbehoefte 4-6 weken van tevoren doorgaans meerdere kandidaten op uit de regio Bremen."
         }
       ],
       "tipsEn": [
@@ -1163,7 +1310,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Geher in Bremen",
+      "titleNl": "Huisdierenoppas & uitlaters in Bremen",
       "introDe": "Bremen hat einen aktiven Markt für Tierbetreuung mit drei wichtigen Online-Plattformen für die Stadt, dazu mehrere lokale Hundeschulen, die Tagesbetreuung anbieten. Die Stundensätze sind nach deutschem Standard angemessen (10-20 €/Stunde für Spaziergänge, 25-45 €/Tag für Betreuung), und englischsprachige Betreuer sind angesichts der Expat- und Universitätsbevölkerung der Stadt üblich.",
+      "introNl": "Bremen heeft een actieve markt voor dierenzorg met drie belangrijke online platformen voor de stad, plus meerdere lokale hondenscholen die dagopvang aanbieden. De uurtarieven zijn redelijk naar Duitse maatstaven (10-20 EUR/uur voor wandelingen, 25-45 EUR/dag voor opvang), en Engelssprekende oppassers zijn gebruikelijk gezien de expat- en studentenbevolking van de stad.",
       "faqsDe": [
         {
           "q": "Wie viel kostet ein Haustiersitter in Bremen?",
@@ -1172,6 +1321,16 @@
         {
           "q": "Sind Haustiersitter in Bremen versichert?",
           "a": "Ja über Pawshake, Rover und TrustedHousesitters, jede Buchung umfasst Haftpflicht- und Tier-Krankenversicherung bis zu einer plattformseitig festgelegten Grenze. Die Buchungsbestätigung für die genauen Deckungsgrenzen lesen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost een huisdierenoppas in Bremen?",
+          "a": "De uurtarieven liggen tussen 10-20 EUR voor wandelingen bij je thuis, 25-45 EUR per dag voor opvang en 30-50 EUR per overnachting bij je thuis. Boekingen via platformen bevatten meestal verzekering en een kleine servicekosten."
+        },
+        {
+          "q": "Zijn huisdierenoppassers in Bremen verzekerd?",
+          "a": "Ja, via Pawshake, Rover en TrustedHousesitters, elke boeking omvat aansprakelijkheids- en dierenziektekostenverzekering tot een door het platform vastgestelde limiet. Lees de boekingsbevestiging voor de exacte dekkingslimieten."
         }
       ]
     }

@@ -25,12 +25,14 @@ export async function generateMetadata({
     fr: `Paris pet-friendly par arrondissement : les 20 quartiers cartographiés (2026)`,
     es: `París pet-friendly por distrito: los 20 arrondissements cartografiados (2026)`,
     pt: `Paris pet-friendly por arrondissement: os 20 distritos cartografados (2026)`,
+    nl: `Hondvriendelijk Parijs per arrondissement: alle 20 wijken in kaart (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `A neighbourhood-by-neighbourhood guide to dog-friendly Paris. The vibe, the parks where dogs are welcome, the verified vets and the best pet-friendly hotels in each of the 20 arrondissements.`,
     fr: `Le guide quartier par quartier du Paris pet-friendly. L'ambiance, les parcs ouverts aux chiens, les vétérinaires vérifiés et les meilleurs hôtels pet-friendly dans chacun des 20 arrondissements.`,
     es: `La guía barrio por barrio del París dog-friendly. El ambiente, los parques abiertos a perros, los veterinarios verificados y los mejores hoteles pet-friendly en cada uno de los 20 distritos.`,
     pt: `O guia bairro a bairro da Paris pet-friendly. O ambiente, os parques abertos a cães, os veterinários verificados e os melhores hotéis pet-friendly em cada um dos 20 arrondissements.`,
+    nl: `De wijk-voor-wijk gids voor hondvriendelijk Parijs. De sfeer, de parken waar honden welkom zijn, de geverifieerde dierenartsen en de beste hondvriendelijke hotels in elk van de 20 arrondissementen.`,
   }
 
   return {
@@ -44,6 +46,7 @@ export async function generateMetadata({
         es: `${SITE_URL}/es/${SLUG_PATH}`,
         pt: `${SITE_URL}/pt/${SLUG_PATH}`,
         de: `${SITE_URL}/de/${SLUG_PATH}`,
+        nl: `${SITE_URL}/nl/${SLUG_PATH}`,
         'x-default': `${SITE_URL}/en/${SLUG_PATH}`,
       },
     },
@@ -90,6 +93,16 @@ const COPY = {
     metrosLabel: 'Metro',
     detailCta: 'Ver o guia →',
     parisCta: 'Voltar ao guia Paris',
+  },
+  nl: {
+    eyebrow: 'HONDVRIENDELIJK PARIJS PER ARRONDISSEMENT',
+    h1: 'Hondvriendelijk Parijs, wijk voor wijk',
+    intro: `Parijs is klein genoeg om van de ene kant naar de andere te lopen met je hond, maar de 20 arrondissementen voelen als 20 verschillende steden. We hebben ze allemaal in kaart gebracht: de parken die honden aan de lijn echt welkom heten (de meeste openbare tuinen blijven gesloten), de geverifieerde dierenartsen met 24-uursdienst, de metrolijnen die huisdieren toelaten, en de wijk waar je het beste kunt logeren, afhankelijk van wat je van je reis verwacht.`,
+    listTitle: 'De 20 arrondissementen',
+    listSubtitle: 'Klik op een wijk voor parken, dierenartsen, hondenbeleid en hondvriendelijke hotels.',
+    metrosLabel: 'Metro',
+    detailCta: 'Bekijk gids →',
+    parisCta: 'Terug naar de gids van Parijs',
   },
 } as const
 

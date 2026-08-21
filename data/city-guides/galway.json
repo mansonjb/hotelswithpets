@@ -39,9 +39,13 @@
           "mustTryPt": "Assado de domingo, ostras da Baía de Galway, Guinness",
           "tipPt": "A mesa de canto junto à montra da frente tem o melhor lugar para observar cães. A música começa às 21:30, para um cão ansioso, chegue às 17:00 para a hora dourada e tranquila.",
           "descriptionDe": "Ein irischer Pub aus dem 19. Jahrhundert an der Ecke Cross Street und Quay Street, das bekannteste hundefreundliche Lokal in Galway. Holzvertäfelte Séparées, jeden Abend traditionelle irische Live-Musik, Hunde sind angeleint im Inneren willkommen. Der Sonntagsbraten ist eine lokale Institution.",
+          "descriptionNl": "Een Ierse pub uit de 19e eeuw op de hoek van Cross Street en Quay Street, de bekendste hondvriendelijke zaak in Galway. Houten lambrisering, elke avond traditionele Ierse livemuziek, honden zijn aangelijnd welkom binnen. De zondagse roast is een lokale instelling.",
           "petPolicyDe": "Hunde angeleint im Innenbereich willkommen",
+          "petPolicyNl": "Aangelijnde honden welkom binnen",
           "mustTryDe": "Sonntagsbraten, Austern aus der Galway Bay, Guinness",
-          "tipDe": "Der Ecktisch am vorderen Fenster ist der beste Platz zum Hundebeobachten. Die Musik beginnt um 21:30 Uhr, für einen ängstlichen Hund lohnt sich die ruhige goldene Stunde ab 17:00 Uhr."
+          "mustTryNl": "Zondagse roast, oesters uit Galway Bay, Guinness",
+          "tipDe": "Der Ecktisch am vorderen Fenster ist der beste Platz zum Hundebeobachten. Die Musik beginnt um 21:30 Uhr, für einen ängstlichen Hund lohnt sich die ruhige goldene Stunde ab 17:00 Uhr.",
+          "tipNl": "De hoektafel bij het voorraam is de beste plek om honden te bekijken. De muziek begint om 21:30 uur, voor een angstige hond loont het rustige gouden uur vanaf 17:00 uur."
         },
         {
           "name": "Cupán Tae",
@@ -69,9 +73,13 @@
           "mustTryPt": "Chá da tarde irlandês completo, scones com compota e clotted cream",
           "tipPt": "Reserve o chá da tarde com pelo menos 1 dia de antecedência no verão (junho a agosto), as mesas do jardim de inverno enchem depressa, e os cães não são permitidos na sala principal interior.",
           "descriptionDe": "Ein Vintage-Teesalon im Latin Quarter mit traditionellem irischem Afternoon Tea, Scones mit Marmelade und Clotted Cream. Hunde sind auf der Terrasse unter dem Vordach das ganze Jahr über willkommen, im Winter auch im Wintergarten.",
+          "descriptionNl": "Een vintage theesalon in het Latin Quarter met traditionele Ierse afternoon tea, scones met jam en clotted cream. Honden zijn het hele jaar door welkom op het terras onder de luifel, in de winter ook in de serre.",
           "petPolicyDe": "Hunde auf Terrasse + Wintergarten willkommen",
+          "petPolicyNl": "Honden welkom op terras + serre",
           "mustTryDe": "Vollständiger irischer Afternoon Tea, Scones mit Marmelade und Clotted Cream",
-          "tipDe": "Im Sommer (Juni bis August) den Afternoon Tea mindestens 1 Tag im Voraus reservieren, die Tische im Wintergarten sind schnell voll, und in den Innenraum dürfen Hunde nicht."
+          "mustTryNl": "Volledige Ierse afternoon tea, scones met jam en clotted cream",
+          "tipDe": "Im Sommer (Juni bis August) den Afternoon Tea mindestens 1 Tag im Voraus reservieren, die Tische im Wintergarten sind schnell voll, und in den Innenraum dürfen Hunde nicht.",
+          "tipNl": "Reserveer in de zomer (juni tot augustus) de afternoon tea minstens 1 dag van tevoren, de tafels in de serre raken snel vol, en in het binnengedeelte mogen honden niet."
         },
         {
           "name": "The Salthouse",
@@ -99,9 +107,13 @@
           "mustTryPt": "Cervejas da Galway Bay Brewery, tábua de queijos do Burren",
           "tipPt": "Caminhe do Spanish Arch ao longo do Long Walk até ao The Salthouse, um passeio de 15 minutos pela marginal: o cão apanha o ar do mar e você bebe uma cerveja artesanal no fim.",
           "descriptionDe": "Eine Craft-Beer-Bar nahe der Salthill-Strandpromenade mit ausdrücklich hundefreundlicher Philosophie. Ganzjährig Außenbänke unter Heizstrahlern, an jedem Tisch ein Wassernapf und eine Tafel mit den Namen der Stammgäste unter den Hunden. Berühmt für die Auswahl von über 70 irischen Craft-Bieren.",
+          "descriptionNl": "Een craft-bierbar bij de Salthill-strandpromenade met een uitgesproken hondvriendelijke filosofie. Het hele jaar door buitenbanken onder terrasverwarming, waterbakje bij elke tafel en een bord met de namen van de stamgasten onder de honden. Bekend om de selectie van meer dan 70 Ierse craft-bieren.",
           "petPolicyDe": "Ausdrücklich hundefreundlich, überall Wassernäpfe",
+          "petPolicyNl": "Uitgesproken hondvriendelijk, overal waterbakjes",
           "mustTryDe": "Biere der Galway Bay Brewery, Käseplatte aus dem Burren",
-          "tipDe": "Vom Spanish Arch entlang des Long Walk zum Salthouse laufen, ein 15-minütiger Spaziergang an der Küste, der Hund bekommt Seeluft, und am Ende wartet Craft Beer."
+          "mustTryNl": "Bieren van de Galway Bay Brewery, kaasplank uit de Burren",
+          "tipDe": "Vom Spanish Arch entlang des Long Walk zum Salthouse laufen, ein 15-minütiger Spaziergang an der Küste, der Hund bekommt Seeluft, und am Ende wartet Craft Beer.",
+          "tipNl": "Loop vanaf de Spanish Arch langs de Long Walk naar het Salthouse, een wandeling van 15 minuten langs de kust, de hond krijgt zeelucht, en aan het eind wacht craft bier."
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Galway",
+      "titleNl": "Hondvriendelijke restaurants in Galway",
       "introDe": "Galway ist eine der zuverlässigsten hundefreundlichen Städte in Großbritannien und Irland. Die irische Pubkultur heißt Hunde ganz selbstverständlich willkommen, und im gepflasterten Latin Quarter, in der Quay Street und in den Cafés an der Salthill-Strandpromenade stehen überall Wassernäpfe an der Tür bereit. Viele unabhängige Lokale lassen Hunde auch an Regentagen hinein.",
+      "introNl": "Galway is een van de betrouwbaarste hondvriendelijke steden in het Verenigd Koninkrijk en Ierland. De Ierse pubcultuur heet honden vanzelfsprekend welkom, en in het geplaveide Latin Quarter, aan de Quay Street en in de cafés aan de Salthill-strandpromenade staan overal waterbakjes bij de deur klaar. Veel onafhankelijke zaken laten honden ook op regenachtige dagen binnen.",
       "faqsDe": [
         {
           "q": "Sind Hunde in den Pubs von Galway erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Darf mein Hund im Winter mit hinein?",
           "a": "Ja, Galway ist bekanntermaßen regnerisch, Pubs und Cafés lassen Hunde das ganze Jahr über selbstverständlich hinein. Ein Mikrofaserhandtuch mitbringen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in de pubs van Galway?",
+          "a": "Ja, overwegend wel, de Ierse pubtraditie heet honden uitdrukkelijk welkom. De meeste onafhankelijke pubs in Galway laten aangelijnde honden binnen, vooral overdag. Bij live-dj-sets laat op de avond worden honden na 22:00 uur soms niet meer toegelaten."
+        },
+        {
+          "q": "Zijn er waterbakjes in de cafés van Galway?",
+          "a": "De meeste onafhankelijke cafés in het Latin Quarter en in Salthill hebben ze, vooral in de zomer. Als niet, gewoon beleefd navragen, je wordt nooit geweigerd."
+        },
+        {
+          "q": "Mag mijn hond in de winter mee naar binnen?",
+          "a": "Ja, Galway staat bekend als regenachtig, pubs en cafés laten honden vanzelfsprekend het hele jaar door binnen. Neem een microvezelhanddoek mee."
         }
       ]
     },
@@ -233,9 +261,13 @@
           "facilitiesPt": "Estacionamento gratuito, casas de banho públicas, bancos, torneiras de água, cafés ao longo do percurso",
           "tipPt": "Tradição: dê um pontapé no muro no extremo ocidental da marginal para dar sorte, os locais fazem-no em cada passeio. O cão normalmente segue o exemplo.",
           "descriptionDe": "Die 2 km lange Strandpromenade westlich der Innenstadt, der prägende Freiluft-Spazierweg Galways. Ganzjährig mit Leinenpflicht begehbar, mit dem ikonischen Salthill Diving Tower am westlichen Ende. Vom Spanish Arch bis ganz nach draußen ergibt sich eine 4-km-Rundtour.",
+          "descriptionNl": "De 2 km lange strandpromenade ten westen van het centrum, de kenmerkende buitenwandeling van Galway. Het hele jaar door te belopen met aanlijnplicht, met de iconische Salthill Diving Tower aan het westelijke eind. Van de Spanish Arch tot helemaal buiten ontstaat een rondwandeling van 4 km.",
           "petPolicyDe": "Ganzjährig hundefreundlich mit Leinenpflicht",
+          "petPolicyNl": "Het hele jaar door hondvriendelijk met aanlijnplicht",
           "facilitiesDe": "Kostenlose Parkplätze, öffentliche Toiletten, Bänke, Wasserstellen, Cafés entlang der Strecke",
-          "tipDe": "Tradition: Am westlichen Ende der Promenade gegen die Mauer treten bringt Glück, die Einheimischen machen das bei jedem Spaziergang. Der Hund macht meist mit."
+          "facilitiesNl": "Gratis parkeren, openbare toiletten, banken, drinkplekken, cafés langs de route",
+          "tipDe": "Tradition: Am westlichen Ende der Promenade gegen die Mauer treten bringt Glück, die Einheimischen machen das bei jedem Spaziergang. Der Hund macht meist mit.",
+          "tipNl": "Traditie: aan het westelijke eind van de promenade tegen de muur schoppen brengt geluk, de locals doen dit bij elke wandeling. De hond doet meestal mee."
         },
         {
           "name": "South Park",
@@ -263,9 +295,13 @@
           "facilitiesPt": "Casas de banho públicas, bancos, caminhos com vista de mar, estacionamento gratuito por perto",
           "tipPt": "Ao domingo de manhã há um encontro informal de cães por volta das 09:00, o lado de Salthill do parque tem os locais mais ativos. Leve uma bola de ténis.",
           "descriptionDe": "Ein kleiner, aber zentraler Park im Stadtteil Claddagh, direkt südlich des Spanish Arch. Standardmäßig ohne Leinenpflicht (irische Common-Park-Tradition), mit Blick auf die Bucht und die markante Galway Cathedral auf der anderen Flussseite. Wichtigster morgendlicher Treffpunkt der Einheimischen mit Hund.",
+          "descriptionNl": "Een klein maar centraal park in de wijk Claddagh, direct ten zuiden van de Spanish Arch. Standaard zonder aanlijnplicht (Ierse common-park-traditie), met uitzicht op de baai en de markante Galway Cathedral aan de overkant van de rivier. Belangrijkste ochtendontmoetingsplek van locals met hond.",
           "petPolicyDe": "Standardmäßig ohne Leine",
+          "petPolicyNl": "Standaard zonder lijn",
           "facilitiesDe": "Öffentliche Toiletten, Bänke, Wege mit Meerblick, kostenlose Parkplätze in der Nähe",
-          "tipDe": "Sonntagvormittags gegen 09:00 Uhr trifft sich informell die Hundegemeinde, auf der Salthill-Seite des Parks sind die meisten aktiven Einheimischen. Einen Tennisball mitbringen."
+          "facilitiesNl": "Openbare toiletten, banken, paden met zeezicht, gratis parkeren in de buurt",
+          "tipDe": "Sonntagvormittags gegen 09:00 Uhr trifft sich informell die Hundegemeinde, auf der Salthill-Seite des Parks sind die meisten aktiven Einheimischen. Einen Tennisball mitbringen.",
+          "tipNl": "Op zondagochtend rond 09:00 uur komt informeel de hondengemeenschap samen, aan de Salthill-kant van het park zijn de meeste actieve locals te vinden. Neem een tennisbal mee."
         },
         {
           "name": "Connemara National Park",
@@ -293,9 +329,13 @@
           "facilitiesPt": "Centro de visitantes, café, estacionamento gratuito, trilhos sinalizados, casas de banho públicas",
           "tipPt": "O autocarro 419 da Galway Bus Station demora 1h25 até Letterfrack, cães com trela viajam gratuitamente na Bus Éireann. Excursão de um dia ideal sem carro.",
           "descriptionDe": "Irlands wichtigster hundefreundlicher Nationalpark, 2.957 Hektar Bergmoor, Heide und Wald, 60 km westlich von Galway mit Auto oder Bus 419. Der Diamond Hill Trail (3,7 km Rundweg) ist die klassische Hundewanderung, Leinenpflicht, aber der Weg ist breit und die Aussicht spektakulär.",
+          "descriptionNl": "Ierlands belangrijkste hondvriendelijke nationale park, 2.957 hectare bergmoeras, heide en bos, 60 km ten westen van Galway met auto of bus 419. Het Diamond Hill Trail (3,7 km rondwandeling) is de klassieke hondenwandeling, aanlijnplicht, maar het pad is breed en het uitzicht spectaculair.",
           "petPolicyDe": "Leinenpflicht auf allen Wegen (wegen Schafen und Bodenbrütern)",
+          "petPolicyNl": "Aanlijnplicht op alle paden (vanwege schapen en op de grond broedende vogels)",
           "facilitiesDe": "Besucherzentrum, Café, kostenlose Parkplätze, markierte Wege, öffentliche Toiletten",
-          "tipDe": "Bus 419 vom Busbahnhof Galway braucht 1 Std. 25 Min. bis Letterfrack, angeleinte Hunde fahren bei Bus Éireann kostenlos mit. Ideal für einen Tagesausflug ohne Auto."
+          "facilitiesNl": "Bezoekerscentrum, café, gratis parkeren, gemarkeerde paden, openbare toiletten",
+          "tipDe": "Bus 419 vom Busbahnhof Galway braucht 1 Std. 25 Min. bis Letterfrack, angeleinte Hunde fahren bei Bus Éireann kostenlos mit. Ideal für einen Tagesausflug ohne Auto.",
+          "tipNl": "Bus 419 vanaf het busstation van Galway doet er 1 uur 25 min over naar Letterfrack, aangelijnde honden reizen gratis mee bij Bus Éireann. Ideaal voor een dagtrip zonder auto."
         }
       ],
       "tipsEn": [
@@ -377,7 +417,9 @@
         }
       ],
       "titleDe": "Hundeparks & Küstenwanderungen in Galway",
+      "titleNl": "Hondenparken & kustwandelingen in Galway",
       "introDe": "Galway liegt zwischen dem Atlantik und den Bergen von Connemara, fast der gesamte Freiraum ist von Natur aus hundefreundlich. Die Salthill Promenade bietet 2 km Spazierweg direkt am Meer, die Küstenwege an der Galway Bay sind ganzjährig für Hunde zugänglich, und der Connemara National Park (45 Minuten mit dem Auto) ist eines der besten Freilauf-Wanderziele Irlands.",
+      "introNl": "Galway ligt tussen de Atlantische Oceaan en de bergen van Connemara, vrijwel alle open ruimte is van nature hondvriendelijk. De Salthill Promenade biedt 2 km wandelpad direct aan zee, de kustpaden aan Galway Bay zijn het hele jaar door toegankelijk voor honden, en het Connemara National Park (45 minuten met de auto) is een van de beste losloopbestemmingen van Ierland.",
       "faqsDe": [
         {
           "q": "Wo dürfen Hunde in Galway ohne Leine laufen?",
@@ -390,6 +432,20 @@
         {
           "q": "Sind Hunde an den Stränden von Galway City willkommen?",
           "a": "Ja, Salthill, Silver Strand und Grattan Beach akzeptieren ganzjährig angeleinte Hunde. Freilaufzonen gelten vom 1. Oktober bis 31. Mai (das irische Äquivalent zu den britischen Regeln)."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar mogen honden zonder lijn lopen in Galway?",
+          "a": "South Park (Claddagh) is de belangrijkste centrale losloopzone, de Ierse traditie van het 'common park' staat honden zonder lijn toe in stadsparken, tenzij anders aangegeven. Buiten Galway geldt in het Connemara National Park aanlijnplicht (vanwege vee), aan de kustpaden van de Burren in het zuiden is loslopen toegestaan."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen naar een Cliffs of Moher-tour?",
+          "a": "Ja, aangelijnde honden zijn toegestaan op de paden van de Cliffs of Moher. Lally Tours en Galway Tour Company bieden beide hondvriendelijke dagtrips vanaf Galway aan (van tevoren boeken, hond opgeven)."
+        },
+        {
+          "q": "Zijn honden welkom op de stranden van Galway City?",
+          "a": "Ja, Salthill, Silver Strand en Grattan Beach accepteren het hele jaar door aangelijnde honden. Losloopzones gelden van 1 oktober tot 31 mei (het Ierse equivalent van de Britse regels)."
         }
       ]
     },
@@ -417,7 +473,9 @@
           "descriptionPt": "A Bus Éireann opera os autocarros urbanos de Galway e as ligações interurbanas, incluindo o autocarro 419 para Connemara e o X51 para Cork. Os cães com trela viajam gratuitamente em toda a rede, sem limite de tamanho. Os motoristas podem recusar por razões de segurança (muito raro).",
           "petPolicyPt": "Cães com trela gratuitos, todos os tamanhos",
           "descriptionDe": "Bus Éireann betreibt die Stadtbusse in Galway sowie die Überlandlinien einschließlich Bus 419 nach Connemara und der X51 nach Cork. Angeleinte Hunde fahren im gesamten Netz kostenlos mit, ohne Größenbeschränkung. Fahrer können aus Sicherheitsgründen ablehnen (sehr selten).",
-          "petPolicyDe": "Angeleinte Hunde kostenlos, alle Größen"
+          "descriptionNl": "Bus Éireann exploiteert de stadsbussen in Galway en de streeklijnen, waaronder bus 419 naar Connemara en de X51 naar Cork. Aangelijnde honden reizen in het hele netwerk gratis mee, zonder formaatbeperking. Chauffeurs kunnen om veiligheidsredenen weigeren (zeer zeldzaam).",
+          "petPolicyDe": "Angeleinte Hunde kostenlos, alle Größen",
+          "petPolicyNl": "Aangelijnde honden gratis, alle formaten"
         },
         {
           "name": "Iarnród Éireann (Galway-Ceannt Station)",
@@ -435,7 +493,9 @@
           "descriptionPt": "O serviço interurbano da Irish Rail de Galway-Ceannt a Dublin Heuston (2h30) e a outras cidades irlandesas. Os cães pequenos em transportadora viajam gratuitamente; os cães maiores precisam de um « bilhete para animais » a meio-preço (cerca de 8 € até Dublin) e têm de ir com trela curta. Os comboios têm uma área dog-friendly designada na carruagem A.",
           "petPolicyPt": "Cães pequenos gratuitos em transportadora; cães grandes com bilhete a meio-preço",
           "descriptionDe": "Der Überlandzug von Irish Rail von Galway-Ceannt nach Dublin Heuston (2 Std. 30 Min.) und in andere irische Städte. Kleine Hunde in der Transportbox fahren kostenlos, größere Hunde benötigen ein 'Pet Ticket' zum halben Preis (ca. 8 € nach Dublin) und müssen kurz angeleint sein. In Wagen A gibt es einen ausgewiesenen hundefreundlichen Bereich.",
-          "petPolicyDe": "Kleine Hunde in der Box kostenlos, größere Hunde zum halben Preis"
+          "descriptionNl": "De streektrein van Irish Rail van Galway-Ceannt naar Dublin Heuston (2u30) en naar andere Ierse steden. Kleine honden in de draagtas reizen gratis, grotere honden hebben een 'Pet Ticket' nodig tegen halve prijs (ca. 8 € naar Dublin) en moeten kort aangelijnd zijn. In wagon A is een aangewezen hondvriendelijke zone.",
+          "petPolicyDe": "Kleine Hunde in der Box kostenlos, größere Hunde zum halben Preis",
+          "petPolicyNl": "Kleine honden in de tas gratis, grotere honden tegen halve prijs"
         }
       ],
       "tipsEn": [
@@ -517,7 +577,9 @@
         }
       ],
       "titleDe": "Mit Hund unterwegs in Galway",
+      "titleNl": "Met hond onderweg in Galway",
       "introDe": "Galway lässt sich meist gut zu Fuß erkunden, aber Bus Éireann (Stadt- und Überlandbusse), lokale Taxis und der Citylink zwischen Galway und Dublin nehmen angeleinte Hunde kostenlos mit. Iarnród Éireann (die nationale Bahngesellschaft) befördert Hunde zum halben Preis nach Dublin (2 Std. 30 Min. mit dem Zug).",
+      "introNl": "Galway laat zich meestal goed te voet verkennen, maar Bus Éireann (stads- en streekbussen), lokale taxi's en de Citylink tussen Galway en Dublin nemen aangelijnde honden gratis mee. Iarnród Éireann (de nationale spoorwegmaatschappij) vervoert honden tegen halve prijs naar Dublin (2u30 met de trein).",
       "faqsDe": [
         {
           "q": "Fahren Hunde in Galway kostenlos im Bus mit?",
@@ -530,6 +592,20 @@
         {
           "q": "Darf ich meinen Hund von Großbritannien nach Galway mitbringen?",
           "a": "Ja, dieselben Regeln wie in der Republik Irland: EU-Heimtierausweis (oder AHC für Einwohner Großbritanniens), Bandwurmbehandlung 24 bis 120 Stunden vor Ankunft. Stena-Line-Fähre Holyhead–Dublin (3 Std. 15 Min., Hunde im Fahrzeug), danach 2,5 Stunden Zugfahrt nach Galway."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Reizen honden gratis mee in de bus in Galway?",
+          "a": "Ja, aangelijnde honden reizen gratis mee op alle Bus Éireann-lijnen (stads- en streekbussen). Geen formaatbeperking. De chauffeur kan om veiligheidsredenen weigeren (zeer zeldzaam)."
+        },
+        {
+          "q": "Mag mijn hond mee met de trein naar Dublin?",
+          "a": "Ja, kleine honden in de draagtas reizen gratis, grotere honden met een 'Pet Ticket' tegen halve prijs (ca. 8 €). Op de rit van 2,5 uur is er in wagon A een eigen zone voor honden."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen van het Verenigd Koninkrijk naar Galway?",
+          "a": "Ja, dezelfde regels als in de Republiek Ierland: EU-dierenpaspoort (of AHC voor inwoners van het Verenigd Koninkrijk), lintwormbehandeling 24 tot 120 uur voor aankomst. Stena Line-veerboot Holyhead-Dublin (3u15, honden in het voertuig), daarna 2,5 uur treinrit naar Galway."
         }
       ]
     },
@@ -562,8 +638,11 @@
           "petPolicyPt": "Sem trela de 1 out a 31 mai; com trela de 15 mai a 30 set",
           "tipPt": "Visite ao pôr do sol, a praia virada para o Atlântico apanha a melhor luz da hora dourada, e o passeio canino dos locais atinge o pico entre as 18:00 e as 19:30 no verão.",
           "descriptionDe": "Galways beliebtester hundefreundlicher Strand, 6 km westlich der Innenstadt mit Bus 405 erreichbar. Sandig, familienfreundlich, geschützt. Freilaufzone vom 1. Oktober bis 31. Mai, im Sommer (15. Mai bis 30. September) gilt am markierten Hauptstrand Leinenpflicht.",
+          "descriptionNl": "Het populairste hondvriendelijke strand van Galway, 6 km ten westen van het centrum, bereikbaar met bus 405. Zanderig, gezinsvriendelijk, beschut. Losloopzone van 1 oktober tot 31 mei, in de zomer (15 mei tot 30 september) geldt op het gemarkeerde hoofdstrand aanlijnplicht.",
           "petPolicyDe": "Freilauf 1. Okt.–31. Mai; Leinenpflicht 15. Mai–30. Sep.",
-          "tipDe": "Bei Sonnenuntergang besuchen, der nach Westen ausgerichtete Strand hat das beste Licht zur goldenen Stunde, und die Hundespaziergänge der Einheimischen erreichen im Sommer zwischen 18:00 und 19:30 Uhr ihren Höhepunkt."
+          "petPolicyNl": "Loslopen 1 okt.-31 mei; aanlijnplicht 15 mei-30 sep.",
+          "tipDe": "Bei Sonnenuntergang besuchen, der nach Westen ausgerichtete Strand hat das beste Licht zur goldenen Stunde, und die Hundespaziergänge der Einheimischen erreichen im Sommer zwischen 18:00 und 19:30 Uhr ihren Höhepunkt.",
+          "tipNl": "Bezoek bij zonsondergang, het naar het westen gerichte strand heeft het beste licht tijdens het gouden uur, en het uitlaten door locals bereikt in de zomer tussen 18:00 en 19:30 uur zijn hoogtepunt."
         },
         {
           "name": "Grattan Beach",
@@ -586,8 +665,11 @@
           "petPolicyPt": "Com trela todo o ano; sem trela fora da zona de verão",
           "tipPt": "Ideal para cães mais velhos ou passeios curtos, plana, abrigada, com a Diving Tower como referência. Combine com o passeio da Salthill Promenade.",
           "descriptionDe": "Ein kleiner Sandstrand an der Salthill Promenade, der am besten erreichbare Strand von Galway (15 Minuten zu Fuß von der Innenstadt). Ganzjährig an der Leine hundefreundlich, mit Freilaufzone außerhalb des markierten Sommerbadebereichs. Durch die Salthill-Seemauer geschützt.",
+          "descriptionNl": "Een klein zandstrand aan de Salthill Promenade, het best bereikbare strand van Galway (15 minuten lopen vanaf het centrum). Het hele jaar door hondvriendelijk aan de lijn, met losloopzone buiten het gemarkeerde zomerse zwemgedeelte. Beschut door de Salthill-zeewering.",
           "petPolicyDe": "Ganzjährig Leinenpflicht; Freilauf außerhalb der Sommerzone",
-          "tipDe": "Ideal für ältere Hunde oder kurze Spaziergänge, flach, geschützt, mit dem Diving Tower als Wahrzeichen. Gut mit dem Spaziergang auf der Salthill Promenade zu kombinieren."
+          "petPolicyNl": "Het hele jaar door aanlijnplicht; loslopen buiten de zomerzone",
+          "tipDe": "Ideal für ältere Hunde oder kurze Spaziergänge, flach, geschützt, mit dem Diving Tower als Wahrzeichen. Gut mit dem Spaziergang auf der Salthill Promenade zu kombinieren.",
+          "tipNl": "Ideaal voor oudere honden of korte wandelingen, vlak, beschut, met de Diving Tower als herkenningspunt. Goed te combineren met de wandeling op de Salthill Promenade."
         },
         {
           "name": "Aughrus Beach (Connemara)",
@@ -609,8 +691,11 @@
           "petPolicyPt": "Sem trela todo o ano (gado na estrada de acesso)",
           "tipPt": "O passeio costeiro de 5 km para sul até à Sky Road é uma das melhores caminhadas caninas da Irlanda, combine para uma excursão de 4h a partir de Galway com um almoço num pub de Connemara.",
           "descriptionDe": "Ein wilder Atlantikstrand mitten in Connemara, 90 Minuten westlich von Galway mit dem Auto. Ganzjährig ohne Leinenpflicht (keine ausgeschilderten Einschränkungen), weißer Sand, außerhalb von Juli und August oft menschenleer. Auf den umliegenden Feldern weiden Schafe, auf der Zufahrtsstraße den Hund anleinen.",
+          "descriptionNl": "Een wild Atlantisch strand middenin Connemara, 90 minuten ten westen van Galway met de auto. Het hele jaar door zonder aanlijnplicht (geen aangegeven beperkingen), wit zand, buiten juli en augustus vaak verlaten. Op de omliggende velden grazen schapen, lijn de hond aan op de toegangsweg.",
           "petPolicyDe": "Ganzjährig Freilauf (Nutztiere auf der Zufahrtsstraße)",
-          "tipDe": "Die 5 km lange Küstenwanderung südlich zur Sky Road gehört zu Irlands besten Hundewanderungen, gut mit einem 4-stündigen Tagesausflug ab Galway und einem Pub-Mittagessen in Connemara zu kombinieren."
+          "petPolicyNl": "Het hele jaar door loslopen (vee op de toegangsweg)",
+          "tipDe": "Die 5 km lange Küstenwanderung südlich zur Sky Road gehört zu Irlands besten Hundewanderungen, gut mit einem 4-stündigen Tagesausflug ab Galway und einem Pub-Mittagessen in Connemara zu kombinieren.",
+          "tipNl": "De 5 km lange kustwandeling zuidwaarts naar de Sky Road behoort tot Ierlands beste hondenwandelingen, goed te combineren met een dagtrip van 4 uur vanaf Galway en een pub-lunch in Connemara."
         }
       ],
       "tipsEn": [
@@ -692,7 +777,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in Galway",
+      "titleNl": "Hondvriendelijke stranden in Galway",
       "introDe": "Galway liegt direkt am Atlantik, Salthill, Silver Strand und Grattan Beach sind alle zu Fuß oder mit kurzer Busfahrt vom Zentrum aus erreichbar. Irische Strandregeln: Hunde sind ganzjährig an der Leine willkommen, Freilaufzonen gelten vom 1. Oktober bis 31. Mai. Die Küste von Connemara (1 Stunde mit dem Auto) bietet wildere, weniger regulierte Strände.",
+      "introNl": "Galway ligt direct aan de Atlantische Oceaan, Salthill, Silver Strand en Grattan Beach zijn allemaal te voet of met een korte busrit vanuit het centrum bereikbaar. Ierse strandregels: honden zijn het hele jaar door aangelijnd welkom, losloopzones gelden van 1 oktober tot 31 mei. De kust van Connemara (1 uur met de auto) biedt wildere, minder gereguleerde stranden.",
       "faqsDe": [
         {
           "q": "Darf mein Hund an den Stränden von Galway schwimmen?",
@@ -705,6 +792,20 @@
         {
           "q": "Wie kalt ist das Atlantikwasser?",
           "a": "Ganzjährig kalt, 9 °C im Februar, 16 °C im August. Die meisten Hunde planschen eher, als dass sie schwimmen. Robuste Rassen (Labradore, Golden Retriever) schwimmen oft 5 bis 10 Minuten, kleinere Rassen bleiben meist knietief im Wasser."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond zwemmen op de stranden van Galway?",
+          "a": "Ja, Salthill, Silver Strand en Grattan accepteren het hele jaar door aangelijnde honden. Losloopzones gelden van 1 oktober tot 31 mei, in de zomer geldt in de gemarkeerde zwemzones aanlijnplicht (15 mei tot 30 september)."
+        },
+        {
+          "q": "Zijn er zandstranden in de buurt van Galway?",
+          "a": "Ja, Silver Strand (10 minuten westelijk) en Salthill (15 minuten lopen vanaf het centrum) zijn de dichtstbijzijnde zandstranden. De Wild Atlantic Way in het zuiden biedt meer dan 100 km zandstrand met het hele jaar door toegang voor honden."
+        },
+        {
+          "q": "Hoe koud is het Atlantische water?",
+          "a": "Het hele jaar door koud, 9 °C in februari, 16 °C in augustus. De meeste honden pootjebaden eerder dan dat ze zwemmen. Robuuste rassen (labradors, golden retrievers) zwemmen vaak 5 tot 10 minuten, kleinere rassen blijven meestal kniediep in het water."
         }
       ]
     },
@@ -742,9 +843,13 @@
           "servicesPt": "Urgência, cirurgia, ressonância/TAC, oncologia, cardiologia, dermatologia",
           "tipPt": "Ligue sempre primeiro (+353 91 765 555), a triagem poupa-lhe uma viagem de 15 minutos às 3 da manhã. Estacionamento gratuito no local.",
           "descriptionDe": "Das führende 24-Stunden-Notfall-Überweisungskrankenhaus Westirlands. Vollständige Diagnostik (CT, MRT, Ultraschall, Röntgen), Operationssaal, Intensivstation sowie Spezialisten für Onkologie, Kardiologie und Dermatologie. Überweisungen aus ganz Connacht und Munster.",
+          "descriptionNl": "Het toonaangevende 24-uurs spoedverwijzingsziekenhuis van West-Ierland. Volledige diagnostiek (CT, MRI, echografie, röntgen), operatiekamer, intensive care en specialisten in oncologie, cardiologie en dermatologie. Verwijzingen uit heel Connacht en Munster.",
           "petPolicyDe": "24/7-Notfälle ohne Termin willkommen",
+          "petPolicyNl": "24/7 spoedgevallen zonder afspraak welkom",
           "servicesDe": "Notfall, Chirurgie, MRT/CT, Onkologie, Kardiologie, Dermatologie",
-          "tipDe": "Immer zuerst anrufen (+353 91 765 555), die Triage erspart um 3 Uhr nachts eine 15-minütige Fahrt umsonst. Kostenlose Parkplätze vor Ort."
+          "servicesNl": "Spoedeisende hulp, chirurgie, MRI/CT, oncologie, cardiologie, dermatologie",
+          "tipDe": "Immer zuerst anrufen (+353 91 765 555), die Triage erspart um 3 Uhr nachts eine 15-minütige Fahrt umsonst. Kostenlose Parkplätze vor Ort.",
+          "tipNl": "Bel altijd eerst (+353 91 765 555), de triage bespaart om 3 uur 's nachts een rit van 15 minuten voor niets. Gratis parkeren ter plaatse."
         },
         {
           "name": "Anicare Galway Veterinary Hospital",
@@ -772,9 +877,13 @@
           "servicesPt": "Urgência, cirurgia, imagiologia, dentária, medicina interna",
           "tipPt": "Mais perto do centro da cidade do que a Galway Veterinary Specialists, preferida para hóspedes alojados em Salthill ou no Latin Quarter. Estacionamento gratuito.",
           "descriptionDe": "Die Galway-Filiale von Anicare mit 24-Stunden-Notaufnahme. Kleiner als Galway Veterinary Specialists, aber gut geeignet für Gäste in der Nähe von Salthill oder der Innenstadt Galways. Chirurgie, Bildgebung, Innere Medizin, Zahnmedizin.",
+          "descriptionNl": "De Galway-vestiging van Anicare met 24-uurs spoedopvang. Kleiner dan Galway Veterinary Specialists, maar goed geschikt voor gasten in de buurt van Salthill of het centrum van Galway. Chirurgie, beeldvorming, interne geneeskunde, tandheelkunde.",
           "petPolicyDe": "24/7-Notfälle ohne Termin willkommen",
+          "petPolicyNl": "24/7 spoedgevallen zonder afspraak welkom",
           "servicesDe": "Notfall, Chirurgie, Bildgebung, Zahnmedizin, Innere Medizin",
-          "tipDe": "Näher an der Innenstadt als Galway Veterinary Specialists, bevorzugt für Gäste, die in Salthill oder im Latin Quarter wohnen. Kostenlose Parkplätze."
+          "servicesNl": "Spoedeisende hulp, chirurgie, beeldvorming, tandheelkunde, interne geneeskunde",
+          "tipDe": "Näher an der Innenstadt als Galway Veterinary Specialists, bevorzugt für Gäste, die in Salthill oder im Latin Quarter wohnen. Kostenlose Parkplätze.",
+          "tipNl": "Dichter bij het centrum dan Galway Veterinary Specialists, geprefereerd voor gasten die in Salthill of het Latin Quarter verblijven. Gratis parkeren."
         }
       ],
       "tipsEn": [
@@ -856,7 +965,9 @@
         }
       ],
       "titleDe": "Notfalltierärzte in Galway, Tierkliniken & Tierbetreuung",
+      "titleNl": "Spoeddierenartsen in Galway, dierenklinieken & dierenverzorging",
       "introDe": "Galway verfügt über das 24-Stunden-Überweisungskrankenhaus Galway Veterinary Specialists sowie 4 bis 5 reguläre Tagespraxen. Der Bereitschaftsdienst außerhalb der Öffnungszeiten läuft zentral über Anicare Galway, erreichbar unter einer einzigen Telefonnummer, die vom diensthabenden Tierarzt betreut wird.",
+      "introNl": "Galway beschikt over het 24-uurs verwijzingsziekenhuis Galway Veterinary Specialists plus 4 tot 5 reguliere dagpraktijken. De wachtdienst buiten openingstijden loopt centraal via Anicare Galway, bereikbaar via één enkel telefoonnummer, bemand door de dienstdoende dierenarts.",
       "faqsDe": [
         {
           "q": "Welche Tierklinik in Galway hat rund um die Uhr geöffnet?",
@@ -869,6 +980,20 @@
         {
           "q": "Sprechen die Tierärzte in Galway Englisch?",
           "a": "Ja, alle Tierärzte in Galway sprechen fließend Englisch (viele auch Irisch). Angesichts des Tourismus in Galway haben die meisten Kliniken ausdrücklich internationale, gästefreundliche Richtlinien."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welke dierenkliniek in Galway is dag en nacht open?",
+          "a": "Twee klinieken: Galway Veterinary Specialists (Tuam Road, +353 91 765 555) en Anicare Galway (Doughiska, +353 91 752 022). Beide nemen spoedgevallen zonder afspraak aan, van tevoren bellen."
+        },
+        {
+          "q": "Hoeveel kost een spoedbezoek aan de dierenarts in Galway?",
+          "a": "Basisconsult buiten openingstijden 150-220 €, plus diagnostiek. Consult bij een reguliere dagpraktijk 50-80 €. EU-huisdierverzekeringen dekken de meeste kosten."
+        },
+        {
+          "q": "Spreken de dierenartsen in Galway Engels?",
+          "a": "Ja, alle dierenartsen in Galway spreken vloeiend Engels (velen ook Iers). Gezien het toerisme in Galway hebben de meeste klinieken uitdrukkelijk internationaal, gastvriendelijk beleid."
         }
       ]
     },
@@ -967,7 +1092,9 @@
         }
       ],
       "titleDe": "Wichtige Tipps für Reisen mit Haustier nach Galway",
+      "titleNl": "Belangrijke tips voor reizen met huisdier naar Galway",
       "introDe": "Galway ist eine der haustierfreundlichsten Städte Irlands, die Pubkultur heißt Hunde willkommen, es gibt kostenlose öffentliche Verkehrsmittel, ganzjährige Küstenwanderungen und ein 24-Stunden-Tierkrankenhaus. Die irischen Einreisebestimmungen für Haustiere sind strenger als der EU-Standard (Bandwurmbehandlung erforderlich), aber Irland akzeptiert den EU-Heimtierausweis.",
+      "introNl": "Galway is een van de huisdiervriendelijkste steden van Ierland, de pubcultuur heet honden welkom, er is gratis openbaar vervoer, het hele jaar door kustwandelingen en een 24-uurs dierenziekenhuis. De Ierse inreisvoorschriften voor huisdieren zijn strenger dan de EU-standaard (lintwormbehandeling vereist), maar Ierland accepteert het EU-dierenpaspoort.",
       "faqsDe": [
         {
           "q": "Ist Galway eine gute Stadt für einen Besuch mit Hund?",
@@ -980,6 +1107,20 @@
         {
           "q": "Gibt es in Irland Rasseeinschränkungen?",
           "a": "11 'gelistete' Rassen (Pit Bull, Tosa, Dogo Argentino, Fila Brasileiro, Rottweiler, Bullmastiff, Deutscher Schäferhund, Dobermann, English Bull Terrier, Staffordshire Bull Terrier, American Pit Bull Terrier) MÜSSEN in der Öffentlichkeit einen Maulkorb tragen und an einer starken Leine geführt werden. Sie DÜRFEN nach Irland einreisen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Galway een goede stad voor een bezoek met hond?",
+          "a": "Ja, na Dublin behoort het tot de hondvriendelijkste steden van Ierland. De pubcultuur heet honden welkom, openbaar vervoer is gratis, het hele jaar door zijn er kustwandelingen bij Salthill en Silver Strand, gemakkelijke dagtrips naar Connemara en de Cliffs of Moher, en 24-uurs spoeddierenartsen. Het bekend regenachtige weer is de grootste beperking."
+        },
+        {
+          "q": "Heb ik speciale documenten nodig voor Ierland?",
+          "a": "Ja. EU-dierenpaspoort met geldige rabiësvaccinatie, microchip en VERPLICHTE BEHANDELING tegen lintwormen (praziquantel), toegediend 24 tot 120 uur voor aankomst door een dierenarts en genoteerd in het paspoort. Dezelfde regel als in het Verenigd Koninkrijk, Finland, Noorwegen en Malta."
+        },
+        {
+          "q": "Zijn er rasbeperkingen in Ierland?",
+          "a": "11 'gelijste' rassen (Pit Bull, Tosa, Dogo Argentino, Fila Brasileiro, Rottweiler, Bullmastiff, Duitse herder, Dobermann, English Bull Terrier, Staffordshire Bull Terrier, American Pit Bull Terrier) MOETEN in het openbaar een muilkorf dragen en aan een stevige lijn worden geleid. Ze MOGEN Ierland binnenkomen."
         }
       ]
     },
@@ -1012,8 +1153,11 @@
           "petPolicyPt": "Exterior dog-friendly com trela",
           "tipPt": "O domingo de manhã é a melhor altura, os músicos de rua tocam música tradicional irlandesa a partir das 11:00, e o cão tem oportunidade de fotos com as casas coloridas do Long Walk ao fundo.",
           "descriptionDe": "Der Spanish Arch von 1584 und die Häuserzeile am Long Walk prägen das Wahrzeichen von Galway. Der Außenbereich ist rund um die Uhr für angeleinte Hunde zugänglich, mit Blick auf die Galway Bay, das Fischerdorf Claddagh auf der anderen Flussseite und dem Ausgangspunkt der Salthill Promenade in Richtung Westen.",
+          "descriptionNl": "De Spanish Arch uit 1584 en de huizenrij aan de Long Walk vormen het herkenningspunt van Galway. Het buitengedeelte is dag en nacht toegankelijk voor aangelijnde honden, met uitzicht op Galway Bay, het vissersdorp Claddagh aan de overkant van de rivier en het vertrekpunt van de Salthill Promenade richting het westen.",
           "petPolicyDe": "Im Freien ganzjährig hundefreundlich an der Leine",
-          "tipDe": "Sonntagvormittag ist die beste Zeit, Straßenmusiker spielen ab 11:00 Uhr traditionelle irische Musik, der Hund kommt zu Fotogelegenheiten vor den bunten Häusern am Long Walk."
+          "petPolicyNl": "Buiten het hele jaar door hondvriendelijk aan de lijn",
+          "tipDe": "Sonntagvormittag ist die beste Zeit, Straßenmusiker spielen ab 11:00 Uhr traditionelle irische Musik, der Hund kommt zu Fotogelegenheiten vor den bunten Häusern am Long Walk.",
+          "tipNl": "Zondagochtend is het beste moment, straatmuzikanten spelen vanaf 11:00 uur traditionele Ierse muziek, de hond komt goed uit op foto's bij de kleurrijke huizen aan de Long Walk."
         },
         {
           "name": "Salthill Promenade",
@@ -1036,8 +1180,11 @@
           "petPolicyPt": "Dog-friendly com trela todo o ano",
           "tipPt": "O pôr do sol é espetacular, a marginal virada para o Atlântico apanha a melhor luz da hora dourada. Combine com uma paragem para cerveja artesanal no Salthouse para um serão perfeito.",
           "descriptionDe": "Die 2 km lange Strandpromenade, Galways prägendste Freiluft-Erfahrung. Rund um die Uhr für angeleinte Hunde zugänglich, mit dem Salthill Diving Tower am westlichen Ende. Tradition: Am westlichen Ende gegen die Mauer treten bringt Glück.",
+          "descriptionNl": "De 2 km lange strandpromenade, de meest kenmerkende buitenervaring van Galway. Dag en nacht toegankelijk voor aangelijnde honden, met de Salthill Diving Tower aan het westelijke eind. Traditie: aan het westelijke eind tegen de muur schoppen brengt geluk.",
           "petPolicyDe": "Ganzjährig hundefreundlich an der Leine",
-          "tipDe": "Der Sonnenuntergang ist spektakulär, die nach Westen ausgerichtete Promenade hat das beste Licht zur goldenen Stunde. Gut mit einem Craft-Beer-Stopp im Salthouse für einen perfekten Abend zu kombinieren."
+          "petPolicyNl": "Het hele jaar door hondvriendelijk aan de lijn",
+          "tipDe": "Der Sonnenuntergang ist spektakulär, die nach Westen ausgerichtete Promenade hat das beste Licht zur goldenen Stunde. Gut mit einem Craft-Beer-Stopp im Salthouse für einen perfekten Abend zu kombinieren.",
+          "tipNl": "De zonsondergang is spectaculair, de naar het westen gerichte promenade heeft het beste licht tijdens het gouden uur. Goed te combineren met een craft-bierstop in het Salthouse voor een perfecte avond."
         },
         {
           "name": "Cliffs of Moher (day trip)",
@@ -1060,8 +1207,11 @@
           "petPolicyPt": "Cães com trela bem-vindos nos trilhos (falésias sem vedação)",
           "tipPt": "Visite de manhã cedo (abertura às 09:00) ou ao final da tarde para evitar as multidões dos autocarros de turismo (10:00-15:00). O cão tem mais espaço e a luz é melhor.",
           "descriptionDe": "Irlands meistbesuchte Naturattraktion, 214 m hohe Steilklippen über dem Atlantik, 1 Std. 30 Min. südlich von Galway mit dem Auto oder mit Bus 350 (1 Std. 45 Min.). Angeleinte Hunde sind auf den Wegen willkommen (Eintritt kostenpflichtig, 10 € pro Erwachsenem, Hunde kostenlos). Die Klippenränder sind nicht eingezäunt, den Hund kurz anleinen.",
+          "descriptionNl": "Ierlands meest bezochte natuurattractie, 214 m hoge steile kliffen boven de Atlantische Oceaan, 1u30 ten zuiden van Galway met de auto of met bus 350 (1u45). Aangelijnde honden zijn welkom op de paden (toegang betaald, 10 € per volwassene, honden gratis). De klifranden zijn niet omheind, houd de hond kort aangelijnd.",
           "petPolicyDe": "Angeleinte Hunde auf den Wegen willkommen (Klippen nicht eingezäunt)",
-          "tipDe": "Am frühen Morgen (Öffnung um 09:00 Uhr) oder am späten Nachmittag besuchen, um den Andrang der Reisebusse (10:00–15:00 Uhr) zu vermeiden. Der Hund hat mehr Platz, und das Licht ist besser."
+          "petPolicyNl": "Aangelijnde honden welkom op de paden (kliffen niet omheind)",
+          "tipDe": "Am frühen Morgen (Öffnung um 09:00 Uhr) oder am späten Nachmittag besuchen, um den Andrang der Reisebusse (10:00–15:00 Uhr) zu vermeiden. Der Hund hat mehr Platz, und das Licht ist besser.",
+          "tipNl": "Bezoek vroeg in de ochtend (opening om 09:00 uur) of laat in de middag om de drukte van touringcars (10:00-15:00 uur) te vermijden. De hond heeft meer ruimte, en het licht is beter."
         }
       ],
       "tipsEn": [
@@ -1143,7 +1293,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Galway",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Galway",
       "introDe": "Galways bekannteste Sehenswürdigkeiten, das gepflasterte Latin Quarter, der Spanish Arch, die Uferpromenade Long Walk, die Salthill Promenade und das Außengelände der Galway Cathedral, heißen angeleinte Hunde im Freien alle willkommen. Die meisten Museen (Galway City Museum, Nora Barnacle House) erlauben keine Haustiere im Innenbereich, doch die Stadt lebt vor allem von ihrer Kultur des Spazierengehens im Freien.",
+      "introNl": "De bekendste bezienswaardigheden van Galway, het geplaveide Latin Quarter, de Spanish Arch, de oeverpromenade Long Walk, de Salthill Promenade en het buitenterrein van de Galway Cathedral, heten allemaal aangelijnde honden buiten welkom. De meeste musea (Galway City Museum, Nora Barnacle House) staan geen huisdieren toe binnen, maar de stad leeft vooral van zijn cultuur van buiten wandelen.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund zu den Cliffs of Moher mitnehmen?",
@@ -1156,6 +1308,20 @@
         {
           "q": "Darf ich meinen Hund auf eine Fähre zu den Aran-Inseln mitnehmen?",
           "a": "Ja, Doolin Ferry und Rossaveel Ferry nehmen beide angeleinte Hunde kostenlos an Deck mit. Inis Mór ist die hundefreundlichste Insel, mit Freilaufstränden und Gästehäusern."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar de Cliffs of Moher?",
+          "a": "Ja, aangelijnde honden zijn welkom op de wandelpaden (toegang betaald, 10 € per volwassene, honden gratis). De klifranden zijn niet omheind, houd de hond kort aangelijnd. Bus 350 vanaf Galway is hondvriendelijk (1u45)."
+        },
+        {
+          "q": "Zijn honden toegestaan bij de Galway Cathedral?",
+          "a": "Het voorplein van de kathedraal is met lijn hondvriendelijk, maar in het gebouw zelf zijn huisdieren niet toegestaan. Locals wandelen met de hond voor of na een kathedraalbezoek in Eyre Square (aan de overkant van de rivier)."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen op een veerboot naar de Aran-eilanden?",
+          "a": "Ja, Doolin Ferry en Rossaveel Ferry nemen beide aangelijnde honden gratis mee aan dek. Inis Mór is het hondvriendelijkste eiland, met losloopstranden en gastenhuizen."
         }
       ]
     },
@@ -1187,8 +1353,11 @@
           "petPolicyPt": "Cuidadores verificados, seguro incluído",
           "servicesPt": "Passeio de cães, creche, alojamento em casa",
           "descriptionDe": "Europäischer Marktplatz für Haustierbetreuung mit verifizierten Betreuern in Galway für Spaziergänge, Tagesbetreuung und Unterbringung zu Hause. Alle Buchungen umfassen Versicherung und tägliche Fotoupdates. Durchschnittliche Preise: 25–35 €/Tag für Unterbringung, 12–18 € pro Spaziergang.",
+          "descriptionNl": "Europese marktplaats voor huisdierenoppas met geverifieerde oppassers in Galway voor wandelingen, dagoppas en oppas aan huis. Alle boekingen omvatten verzekering en dagelijkse foto-updates. Gemiddelde prijzen: 25-35 €/dag voor onderbrenging, 12-18 € per wandeling.",
           "petPolicyDe": "Verifizierte Betreuer, Versicherung inklusive",
-          "servicesDe": "Gassi-Service, Tagesbetreuung, Unterbringung zu Hause"
+          "petPolicyNl": "Geverifieerde oppassers, verzekering inbegrepen",
+          "servicesDe": "Gassi-Service, Tagesbetreuung, Unterbringung zu Hause",
+          "servicesNl": "Uitlaatservice, dagoppas, oppas aan huis"
         }
       ],
       "tipsEn": [
@@ -1270,7 +1439,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Galway",
+      "titleNl": "Huisdierenoppas & uitlaatservice in Galway",
       "introDe": "Der Markt für Haustierbetreuung in Galway ist klein, wächst aber, Pawshake ist stadtweit aktiv, und die irische Plattform Petsit.ie ist das lokale Gegenstück. Tagesstätten konzentrieren sich auf Salthill und Knocknacarra. Die Preise ähneln denen in Dublin, sind aber etwas günstiger.",
+      "introNl": "De markt voor huisdierenoppas in Galway is klein maar groeiend, Pawshake is stadsbreed actief, en het Ierse platform Petsit.ie is het lokale equivalent. Dagopvang concentreert zich rond Salthill en Knocknacarra. De prijzen lijken op die in Dublin, maar zijn iets voordeliger.",
       "faqsDe": [
         {
           "q": "Wie viel kostet Haustierbetreuung in Galway?",
@@ -1283,6 +1454,20 @@
         {
           "q": "Finde ich einen Betreuer für einen Tagesausflug zu den Cliffs of Moher?",
           "a": "Ja, einen Pawshake-Betreuer für 8 bis 10 Stunden am Tag des Ausflugs buchen. Durchschnittliche Kosten 60–80 € für einen ganzen Tag. Der Hund bekommt einen langen Spaziergang in den Parks von Galway, während man die Klippen besucht."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost huisdierenoppas in Galway?",
+          "a": "Typische Pawshake-prijzen: 25-35 €/dag voor onderbrenging, 12-18 € voor een wandeling van 1 uur. In het zomerse festivalseizoen iets hoger."
+        },
+        {
+          "q": "Zijn de oppassers in Galway verzekerd?",
+          "a": "Pawshake omvat aansprakelijkheids- en dierenarts-spoeddekking. Petsit.ie vereist voor het boeken een controle van de verzekering van de oppasser."
+        },
+        {
+          "q": "Kan ik een oppasser vinden voor een dagtrip naar de Cliffs of Moher?",
+          "a": "Ja, boek een Pawshake-oppasser voor 8 tot 10 uur op de dag van de trip. Gemiddelde kosten 60-80 € voor een hele dag. De hond krijgt een lange wandeling in de parken van Galway terwijl je de kliffen bezoekt."
         }
       ]
     }

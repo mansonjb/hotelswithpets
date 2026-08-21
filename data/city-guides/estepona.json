@@ -41,9 +41,13 @@
           "tipPt": "Apenas jantar e fechado às terças, por isso planeie uma visita à noite quando o piso da cidade velha tiver arrefecido",
           "googleMapsUrl": "https://maps.google.com/?q=La+Pampa+Estepona",
           "descriptionDe": "Ein argentinischer Grill mitten in den weißgetünchten Gassen der Altstadt, von Einheimischen und Reiseführern wiederholt als hunde- und familienfreundlich beschrieben. Die Parrilla mit gegrilltem Rindfleisch ist der Grund für den Besuch, serviert auf einer Terrasse zwischen den Blumentopfgassen, wo sich angeleinte Hunde leicht niederlassen.",
+          "descriptionNl": "Een Argentijnse grill middenin de witgekalkte steegjes van de oude stad, door locals en reisgidsen herhaaldelijk omschreven als hond- en gezinsvriendelijk. De parrilla met gegrild rundvlees is de reden om te komen, geserveerd op een terras tussen de steegjes vol bloempotten, waar aangelijnde honden zich makkelijk nestelen.",
           "petPolicyDe": "Hunde- und familienfreundlich, Terrassenbestuhlung",
+          "petPolicyNl": "Hond- en gezinsvriendelijk, terrasstoelen",
           "mustTryDe": "Argentinische Parrilla (gegrilltes Rindfleisch)",
-          "tipDe": "Nur abends geöffnet und dienstags geschlossen, planen Sie also einen Abendbesuch, sobald die Gehwege der Altstadt abgekühlt sind"
+          "mustTryNl": "Argentijnse parrilla (gegrild rundvlees)",
+          "tipDe": "Nur abends geöffnet und dienstags geschlossen, planen Sie also einen Abendbesuch, sobald die Gehwege der Altstadt abgekühlt sind",
+          "tipNl": "Alleen 's avonds geopend en op dinsdag gesloten, plan dus een avondbezoek zodra de trottoirs van de oude stad zijn afgekoeld"
         },
         {
           "name": "Restaurants of the Puerto Deportivo (Marina)",
@@ -71,9 +75,13 @@
           "tipPt": "Percorra primeiro a marina e escolha uma esplanada com sombra; o cais aberto tem pouco abrigo ao meio-dia",
           "googleMapsUrl": "https://maps.google.com/?q=Puerto+Deportivo+Estepona",
           "descriptionDe": "Die Marina ist die zuverlässigste hundefreundliche Restaurantmeile der Stadt, eine flache, sichere, hundefreundliche Uferpromenade gesäumt von Bars und Restaurants, deren Terrassen angeleinte Hunde willkommen heißen. Sie ist ein leichter Spaziergang von der Altstadt entfernt, und die Sitzplätze im Freien fangen an heißen Abenden die Meeresbrise ein.",
+          "descriptionNl": "De marina is de betrouwbaarste hondvriendelijke restaurantstrip van de stad, een vlakke, veilige, hondvriendelijke boulevard omzoomd door bars en restaurants waarvan de terrassen aangelijnde honden welkom heten. Het is een makkelijke wandeling vanaf de oude stad, en de buitenplekken vangen op warme avonden de zeebries.",
           "petPolicyDe": "Angeleinte Hunde auf den meisten Marina-Terrassen willkommen",
+          "petPolicyNl": "Aangelijnde honden welkom op de meeste terrassen van de marina",
           "mustTryDe": "Frisch gegrillter Fisch und Meeresfrüchte",
-          "tipDe": "Gehen Sie zunächst die Marina entlang und wählen Sie eine schattige Terrasse; der offene Kai bietet mittags kaum Schutz"
+          "mustTryNl": "Vers gegrilde vis en zeevruchten",
+          "tipDe": "Gehen Sie zunächst die Marina entlang und wählen Sie eine schattige Terrasse; der offene Kai bietet mittags kaum Schutz",
+          "tipNl": "Loop eerst langs de marina en kies een schaduwrijk terras; de open kade biedt 's middags weinig beschutting"
         },
         {
           "name": "Terraces of Plaza de las Flores",
@@ -101,9 +109,13 @@
           "tipPt": "As laranjeiras dão sombra a sério, o que faz dela um dos locais mais frescos ao meio-dia para um cão no verão",
           "googleMapsUrl": "https://maps.google.com/?q=Plaza+de+las+Flores+Estepona",
           "descriptionDe": "Der Hauptplatz der Altstadt, beschattet von Orangenbäumen und mit einem Brunnen von 1845 im Zentrum, ist umringt von Cafés und Tapas-Terrassen, auf denen angeleinte Hunde ein gewohnter Anblick sind. Es ist der natürliche Rastplatz auf einem Spaziergang durch die Blumentopfstraßen und die Ruta de Murales.",
+          "descriptionNl": "Het hoofdplein van de oude stad, beschaduwd door sinaasappelbomen met in het midden een fontein uit 1845, wordt omringd door cafés en tapasterrassen waar aangelijnde honden een vertrouwd gezicht zijn. Het is de natuurlijke rustplek tijdens een wandeling door de bloempotstraten en de Ruta de Murales.",
           "petPolicyDe": "Angeleinte Hunde auf den Terrassen des Platzes willkommen",
+          "petPolicyNl": "Aangelijnde honden welkom op de terrassen van het plein",
           "mustTryDe": "Andalusische Tapas und lokaler Kaffee",
-          "tipDe": "Die Orangenbäume spenden echten Schatten und machen dies im Sommer zu einem der kühleren Mittagsplätze für einen Hund"
+          "mustTryNl": "Andalusische tapas en lokale koffie",
+          "tipDe": "Die Orangenbäume spenden echten Schatten und machen dies im Sommer zu einem der kühleren Mittagsplätze für einen Hund",
+          "tipNl": "De sinaasappelbomen geven echte schaduw en maken dit 's zomers een van de koelere lunchplekken voor een hond"
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Estepona",
+      "titleNl": "Huisdiervriendelijke restaurants in Estepona",
       "introDe": "Estepona macht das Essengehen mit Hund dank einer ganzjährigen Außenkultur rund um die Blumentopfstraßen der Altstadt und die Marina wirklich einfach. Das spanische Recht hält Hunde in der Regel aus Innenräumen von Restaurants fern, doch die überdachten und offenen Terrassen im Casco Antiguo und entlang des Puerto Deportivo heißen angeleinte, wohlerzogene Hunde willkommen, und bei der andalusischen Sommerhitze möchten Sie ohnehin eine schattige Terrasse. Planen Sie den frühen Abend, sobald die Gehwege abgekühlt sind, und bitten Sie um eine Wasserschale; die meisten Terrassenmitarbeiter bringen gerne eine.",
+      "introNl": "Estepona maakt uit eten gaan met hond dankzij een ganzjaarlijkse buitencultuur rond de bloempotstraten van de oude stad en de marina echt eenvoudig. De Spaanse wet houdt honden doorgaans buiten de binnenruimtes van restaurants, maar de overdekte en open terrassen in het Casco Antiguo en langs het Puerto Deportivo heten aangelijnde, goed opgevoede honden welkom, en met de Andalusische zomerhitte wil je toch al een schaduwrijk terras. Plan de vroege avond, zodra de trottoirs zijn afgekoeld, en vraag om een waterbakje; het meeste terraspersoneel brengt er graag een.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund in Restaurants in Estepona mitnehmen?",
@@ -196,6 +210,20 @@
         {
           "q": "Bieten die Terrassen in Estepona Wasser für Hunde an?",
           "a": "Viele tun das, wenn man fragt. Eine faltbare Wasserschale mitzuführen ist bei der andalusischen Hitze trotzdem ratsam, und bieten Sie Ihrem Hund an Sommerabenden regelmäßig Wasser an."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar restaurants in Estepona?",
+          "a": "Op terrassen is dat doorgaans toegestaan, voor aangelijnde, goed opgevoede honden, vooral in de oude stad en bij de marina. Binnenruimtes zijn volgens de Spaanse hygiënevoorschriften meestal taboe, plan dus om buiten te zitten en vraag bij twijfel het personeel."
+        },
+        {
+          "q": "Waar zijn de hondvriendelijkste plekken om te eten in Estepona?",
+          "a": "Het Casco Antiguo (oude stad) met de bloempotstraten rond de Plaza de las Flores en de terrassen langs het Puerto Deportivo (marina) zijn de twee betrouwbaarste gebieden, allebei vlak en makkelijk te belopen met hond."
+        },
+        {
+          "q": "Bieden de terrassen in Estepona water aan voor honden?",
+          "a": "Veel doen dat als je erom vraagt. Een opvouwbaar waterbakje meenemen is met de Andalusische hitte toch verstandig, en bied je hond op zomeravonden regelmatig water aan."
         }
       ]
     },
@@ -229,8 +257,11 @@
           "tipPt": "Leve a sua própria água no verão; o recinto tem pouca sombra, por isso vá cedo ou ao final do dia",
           "googleMapsUrl": "https://maps.google.com/?q=Parque+Canino+Estepona+Las+Mesas",
           "offLeashAreaDe": "Gesamtes umzäuntes Gelände in Las Mesas, nahe dem Park Los Niños",
+          "offLeashAreaNl": "Hele omheinde terrein in Las Mesas, bij het park Los Niños",
           "descriptionDe": "Ein umzäunter Hundepark von rund 2.000 Quadratmetern im Gebiet Las Mesas, ausgestattet mit Agility-Geräten, Wasserbrunnen und Kotbeutelspendern. Da er vollständig eingezäunt ist, ist er der einzige Ort in der Stadt, an dem ein Hund völlig sicher ohne Leine laufen kann.",
-          "tipDe": "Bringen Sie im Sommer eigenes Wasser mit; das Gelände bietet wenig Schatten, gehen Sie also früh oder spät am Tag"
+          "descriptionNl": "Een omheind hondenpark van ongeveer 2.000 vierkante meter in het gebied Las Mesas, uitgerust met agility-toestellen, waterpunten en poepzakjesautomaten. Omdat het volledig omheind is, is het de enige plek in de stad waar een hond helemaal veilig zonder lijn kan lopen.",
+          "tipDe": "Bringen Sie im Sommer eigenes Wasser mit; das Gelände bietet wenig Schatten, gehen Sie also früh oder spät am Tag",
+          "tipNl": "Neem 's zomers zelf water mee; het terrein biedt weinig schaduw, ga dus vroeg of laat op de dag"
         },
         {
           "name": "Senda Litoral / Paseo Marítimo",
@@ -252,8 +283,11 @@
           "tipPt": "Há pouco abrigo; leve água e evite o passadiço nas horas mais quentes do meio-dia no verão",
           "googleMapsUrl": "https://maps.google.com/?q=Senda+Litoral+Estepona",
           "offLeashAreaDe": "Keine, auf der Promenade müssen Hunde angeleint sein",
+          "offLeashAreaNl": "Geen, op de boulevard moeten honden aangelijnd zijn",
           "descriptionDe": "Esteponas Uferpromenade bildet Teil des langen Küstenwegs Senda Litoral, eben, glatt und leicht zu begehen, was ihn ideal für ältere Hunde macht. Hunde müssen angeleint bleiben, und da die Strecke kaum Schatten bietet, genießt man sie im Sommer am besten früh oder spät.",
-          "tipDe": "Es gibt kaum Schutz; führen Sie Wasser mit und meiden Sie die Promenade während der heißesten Mittagsstunden im Sommer"
+          "descriptionNl": "Esteponas boulevard vormt deel van het lange kustpad Senda Litoral, vlak, glad en makkelijk te belopen, wat het ideaal maakt voor oudere honden. Honden moeten aangelijnd blijven, en aangezien het traject nauwelijks schaduw biedt, geniet je er 's zomers het best vroeg of laat van.",
+          "tipDe": "Es gibt kaum Schutz; führen Sie Wasser mit und meiden Sie die Promenade während der heißesten Mittagsstunden im Sommer",
+          "tipNl": "Er is nauwelijks beschutting; neem water mee en vermijd de boulevard tijdens de heetste middaguren in de zomer"
         },
         {
           "name": "Parque de los Pedregales",
@@ -275,8 +309,11 @@
           "tipPt": "Atenção às lagartas da processionária do pinheiro do fim do inverno à primavera, são tóxicas para os cães; precisará de carro para chegar",
           "googleMapsUrl": "https://maps.google.com/?q=Parque+de+los+Pedregales+Estepona",
           "offLeashAreaDe": "Waldwege, wo Hunde häufig ohne Leine laufen dürfen",
+          "offLeashAreaNl": "Bospaden waar honden vaak zonder lijn mogen lopen",
           "descriptionDe": "Ein Kiefernwald-Landschaftspark in den Ausläufern der Sierra Bermeja, wenige Minuten vom Zentrum entfernt, mit schattigen Wegen, Brunnen, Picknickplätzen und einer Bar-Restauration. Der Schatten macht ihn zum kühlsten Hundespaziergang der Gegend, und Besucher berichten, dass Hunde auf den Waldwegen ohne Leine laufen dürfen.",
-          "tipDe": "Achten Sie von Spätwinter bis Frühling auf Pinienprozessionsspinner, sie sind für Hunde giftig; Sie benötigen ein Auto, um hierher zu gelangen"
+          "descriptionNl": "Een dennenbospark aan de uitlopers van de Sierra Bermeja, een paar minuten van het centrum, met schaduwrijke paden, fonteinen, picknickplekken en een bar-restaurant. De schaduw maakt het de koelste hondenwandeling van de omgeving, en bezoekers melden dat honden op de bospaden zonder lijn mogen lopen.",
+          "tipDe": "Achten Sie von Spätwinter bis Frühling auf Pinienprozessionsspinner, sie sind für Hunde giftig; Sie benötigen ein Auto, um hierher zu gelangen",
+          "tipNl": "Let van laat in de winter tot in de lente op processierupsen, deze zijn giftig voor honden; je hebt een auto nodig om hier te komen"
         }
       ],
       "tipsEn": [
@@ -356,7 +393,9 @@
         }
       ],
       "titleDe": "Hundeparks & Spaziergänge in Estepona",
+      "titleNl": "Hondenparken & wandelingen in Estepona",
       "introDe": "Estepona kombiniert einen umzäunten Hundepark für Freilauf mit langen, flachen Promenaden und einem schattigen Kiefernwald im Hinterland, sodass es bei jedem Wetter einen Ort für den Hundespaziergang gibt. Der Küstenweg Senda Litoral ist eben und glatt, bietet aber kaum Schatten, während der Parque de los Pedregales kühle Kiefernpfade wenig entfernt landeinwärts bietet. Im andalusischen Sommer sollten Sie früh morgens oder nach Sonnenuntergang gehen und heißen Belag und Sand während der Mittagsstunden meiden.",
+      "introNl": "Estepona combineert een omheind hondenpark voor los lopen met lange, vlakke boulevards en een schaduwrijk dennenbos in het achterland, zodat er bij elk weer een plek is voor een hondenwandeling. Het kustpad Senda Litoral is vlak en glad, maar biedt nauwelijks schaduw, terwijl het Parque de los Pedregales koele dennenpaden op korte afstand landinwaarts biedt. In de Andalusische zomer kun je het beste vroeg in de ochtend of na zonsondergang gaan en heet asfalt en zand tijdens de middaguren vermijden.",
       "faqsDe": [
         {
           "q": "Gibt es in Estepona einen Hundepark für Freilauf ohne Leine?",
@@ -369,6 +408,20 @@
         {
           "q": "Dürfen Hunde auf der Promenade von Estepona ohne Leine laufen?",
           "a": "Nein. Auf dem Paseo Marítimo und der Senda Litoral müssen Hunde angeleint sein. Für Freilauf nutzen Sie den umzäunten Parque Canino in Las Mesas oder die Waldwege bei Los Pedregales."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er in Estepona een hondenpark voor los lopen zonder lijn?",
+          "a": "Ja. Het Parque Canino in het gebied Las Mesas is een omheind terrein van ongeveer 2.000 vierkante meter met agility-toestellen en waterpunten, waar honden veilig zonder lijn kunnen lopen. Elders in de stad moeten honden aangelijnd blijven."
+        },
+        {
+          "q": "Waar kan ik mijn hond 's zomers in de schaduw uitlaten in Estepona?",
+          "a": "Het Parque de los Pedregales, een dennenbos aan de uitlopers van de Sierra Bermeja op korte afstand landinwaarts, biedt koele, schaduwrijke paden. De strandboulevard Senda Litoral is vlak en aangenaam, maar bijna volledig zonder schaduw."
+        },
+        {
+          "q": "Mogen honden op de boulevard van Estepona zonder lijn lopen?",
+          "a": "Nee. Op de Paseo Marítimo en de Senda Litoral moeten honden aangelijnd zijn. Gebruik voor los lopen het omheinde Parque Canino in Las Mesas of de bospaden bij Los Pedregales."
         }
       ]
     },
@@ -494,7 +547,9 @@
         }
       ],
       "titleDe": "Mit Hund unterwegs in Estepona",
+      "titleNl": "Onderweg met hond in Estepona",
       "introDe": "Estepona hat keinen Bahnhof, weshalb die meisten Halter über den Flughafen Málaga (AGP) anreisen und die Küste per Bus, Taxi oder Auto hinunterfahren. Spaniens Fernbus- und Regionalbusvorschriften sind bei der Hundegröße streng, sodass ein großer Hund meist einen privaten Transfer oder ein Auto statt des Busses bedeutet. Die EU-Einreise für Haustiere nach Spanien ist mit Mikrochip, gültiger Tollwutimpfung und EU-Heimtierausweis unkompliziert.",
+      "introNl": "Estepona heeft geen treinstation, waardoor de meeste eigenaren via vliegveld Málaga (AGP) aankomen en de kust afreizen per bus, taxi of auto. De Spaanse regels voor langeafstands- en streekbussen zijn streng wat hondgrootte betreft, dus een grote hond betekent meestal een privétransfer of een auto in plaats van de bus. De EU-binnenkomst voor huisdieren in Spanje is eenvoudig met microchip, geldige rabiësvaccinatie en EU-dierenpaspoort.",
       "faqsDe": [
         {
           "q": "Hat Estepona einen Bahnhof?",
@@ -507,6 +562,20 @@
         {
           "q": "Was brauche ich, um meinen Hund von der EU nach Spanien mitzubringen?",
           "a": "Einen ISO-Standard-Mikrochip, eine gültige Tollwutimpfung, die nach dem Chip und mindestens 21 Tage vor der Reise verabreicht wurde, sowie einen EU-Heimtierausweis. Für Einreisende von außerhalb der EU ist stattdessen ein EU-Tiergesundheitszeugnis erforderlich."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Heeft Estepona een treinstation?",
+          "a": "Nee. Estepona heeft geen treinstation. De dichtstbijzijnde treinen vertrekken vanuit Málaga, en de Cercanías-lijn C-1 rijdt alleen tussen Málaga en Fuengirola, dus je bereikt Estepona vandaar of rechtstreeks vanaf vliegveld Málaga per bus, taxi of auto."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen in de bus naar Estepona?",
+          "a": "Alleen kleine honden. In ALSA-langeafstandsbussen reizen huisdieren tot 10 kg in een draagbox in het bagageruim, en in lokale Consorcio-bussen moeten huisdieren onder de 10 kg in een gesloten box zitten. Geleidehonden reizen gratis in de cabine. Grotere honden hebben een huisdiervriendelijke transfer of een auto nodig."
+        },
+        {
+          "q": "Wat heb ik nodig om mijn hond van de EU naar Spanje mee te nemen?",
+          "a": "Een ISO-standaard microchip, een geldige rabiësvaccinatie toegediend na de chip en minstens 21 dagen voor de reis, en een EU-dierenpaspoort. Voor reizigers van buiten de EU is in plaats daarvan een EU-diergezondheidscertificaat vereist."
         }
       ]
     },
@@ -528,16 +597,19 @@
           "descriptionEs": "La playa canina oficial más cercana, abierta para la temporada 2025, situada justo en el extremo occidental del término municipal de Estepona. Un tramo de unos 500 m de guijarros mezclados con arena donde se permiten los perros incluso en verano.",
           "descriptionPt": "A praia canina oficial mais próxima, aberta para a época de 2025, situada mesmo no extremo ocidental do limite municipal de Estepona. Um troço de cerca de 500 m de seixos misturados com areia onde os cães são permitidos mesmo no verão.",
           "descriptionDe": "Der nächstgelegene offizielle Hundestrand (playa canina), eröffnet zur Saison 2025, direkt am westlichen Rand des Gemeindegebiets von Estepona. Ein rund 500 m langer Abschnitt aus Kiesel und Sand, wo Hunde sogar im Sommer erlaubt sind.",
+          "descriptionNl": "Het dichtstbijzijnde officiële hondenstrand (playa canina), geopend in het seizoen 2025, direct aan de westelijke rand van de gemeente Estepona. Een ongeveer 500 m lang gedeelte van kiezels en zand, waar honden ook 's zomers toegestaan zijn.",
           "season": "Open to dogs year-round, including the summer bathing season",
           "seasonFr": "Ouvert aux chiens toute l'année, y compris pendant la saison balnéaire estivale",
           "seasonEs": "Abierto a los perros todo el año, incluida la temporada de baño de verano",
           "seasonPt": "Aberto aos cães durante todo o ano, incluindo a época balnear de verão",
           "seasonDe": "Ganzjährig für Hunde geöffnet, einschließlich der sommerlichen Badesaison",
+          "seasonNl": "Het hele jaar door open voor honden, inclusief het zomerse badseizoen",
           "rules": "Keep dogs under control, pick up waste, carry vaccination records; dangerous breeds must be leashed and muzzled.",
           "rulesFr": "Gardez vos chiens sous contrôle, ramassez les déjections, ayez le carnet de vaccination sur vous ; les races dangereuses doivent être en laisse et muselées.",
           "rulesEs": "Mantén a los perros bajo control, recoge los excrementos, lleva la cartilla de vacunación; las razas peligrosas deben ir con correa y bozal.",
           "rulesPt": "Mantenha os cães sob controlo, recolha os dejetos, leve consigo o boletim de vacinas; as raças perigosas devem estar com trela e açaime.",
           "rulesDe": "Hunde unter Kontrolle halten, Hinterlassenschaften aufsammeln, Impfnachweis mitführen; gefährliche Rassen müssen angeleint und mit Maulkorb geführt werden.",
+          "rulesNl": "Houd honden onder controle, ruim uitwerpselen op, draag bewijs van vaccinatie bij je; gevaarlijke rassen moeten aangelijnd zijn en een muilkorf dragen.",
           "facilities": "Dog shower, beach bar (chiringuito) nearby",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+Piedra+Paloma+Casares",
           "photo": ""
@@ -550,16 +622,19 @@
           "descriptionEs": "Una playa canina oficial de Marbella de aproximadamente 1,5 km de longitud, con una zona canina vallada dedicada de unos 250 metros cuadrados y equipamiento para propietarios y mascotas. Una opción de verano fiable cuando las propias playas de Estepona están cerradas a los perros.",
           "descriptionPt": "Uma praia canina oficial de Marbella com cerca de 1,5 km de comprimento, com uma zona canina vedada dedicada de cerca de 250 metros quadrados e equipamentos para donos e animais. Uma opção de verão fiável quando as próprias praias de Estepona estão fechadas aos cães.",
           "descriptionDe": "Ein offizieller Hundestrand von Marbella, rund 1,5 km lang, mit einem eigens eingezäunten Hundebereich von rund 250 Quadratmetern und Einrichtungen für Halter und Haustiere. Eine verlässliche Sommeroption, wenn Esteponas eigene Strände für Hunde gesperrt sind.",
+          "descriptionNl": "Een officieel hondenstrand van Marbella, ongeveer 1,5 km lang, met een speciaal omheind hondengedeelte van ongeveer 250 vierkante meter en voorzieningen voor eigenaren en huisdieren. Een betrouwbare zomeroptie wanneer Esteponas eigen stranden gesloten zijn voor honden.",
           "season": "Open to dogs year-round, including summer",
           "seasonFr": "Ouvert aux chiens toute l'année, y compris en été",
           "seasonEs": "Abierto a los perros todo el año, incluido el verano",
           "seasonPt": "Aberto aos cães durante todo o ano, incluindo o verão",
           "seasonDe": "Ganzjährig für Hunde geöffnet, auch im Sommer",
+          "seasonNl": "Het hele jaar door open voor honden, ook 's zomers",
           "rules": "Dogs welcome in the designated area; keep them under control and clean up after them.",
           "rulesFr": "Chiens bienvenus dans la zone désignée ; gardez-les sous contrôle et ramassez leurs déjections.",
           "rulesEs": "Perros bienvenidos en la zona designada; mantenlos bajo control y recoge sus excrementos.",
           "rulesPt": "Cães bem-vindos na zona designada; mantenha-os sob controlo e recolha os seus dejetos.",
           "rulesDe": "Hunde sind im ausgewiesenen Bereich willkommen; unter Kontrolle halten und Hinterlassenschaften aufsammeln.",
+          "rulesNl": "Honden zijn welkom in het aangewezen gedeelte; houd ze onder controle en ruim uitwerpselen op.",
           "facilities": "Fenced dog zone, owner and pet facilities",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+El+Pinillo+Marbella",
           "photo": ""
@@ -572,16 +647,19 @@
           "descriptionEs": "La primera playa canina oficial de Manilva, abierta en 2025, al oeste de Estepona camino de la provincia de Cádiz. Una bienvenida nueva opción que permite a los perros disfrutar del mar durante los meses en que están prohibidos en las playas de Estepona.",
           "descriptionPt": "A primeira praia canina oficial de Manilva, aberta em 2025, a oeste de Estepona a caminho da província de Cádis. Uma bem-vinda nova opção que permite aos cães desfrutar do mar durante os meses em que estão proibidos nas praias de Estepona.",
           "descriptionDe": "Manilvas erster offizieller Hundestrand, eröffnet 2025, westlich von Estepona auf dem Weg zur Provinz Cádiz. Eine willkommene neue Option, die es Hunden ermöglicht, das Meer in den Monaten zu genießen, in denen sie an Esteponas Stränden verboten sind.",
+          "descriptionNl": "Manilvas eerste officiële hondenstrand, geopend in 2025, ten westen van Estepona op weg naar de provincie Cádiz. Een welkome nieuwe optie waarmee honden van de zee kunnen genieten in de maanden dat ze verboden zijn op de stranden van Estepona.",
           "season": "Open to dogs year-round, including summer",
           "seasonFr": "Ouvert aux chiens toute l'année, y compris en été",
           "seasonEs": "Abierto a los perros todo el año, incluido el verano",
           "seasonPt": "Aberto aos cães durante todo o ano, incluindo o verão",
           "seasonDe": "Ganzjährig für Hunde geöffnet, auch im Sommer",
+          "seasonNl": "Het hele jaar door open voor honden, ook 's zomers",
           "rules": "Keep dogs under control and pick up after them; standard playa canina rules apply.",
           "rulesFr": "Gardez vos chiens sous contrôle et ramassez leurs déjections ; les règles standard des playas caninas s'appliquent.",
           "rulesEs": "Mantén a los perros bajo control y recoge sus excrementos; se aplican las normas estándar de playa canina.",
           "rulesPt": "Mantenha os cães sob controlo e recolha os seus dejetos; aplicam-se as regras padrão de praia canina.",
           "rulesDe": "Hunde unter Kontrolle halten und Hinterlassenschaften aufsammeln; es gelten die üblichen Regeln für playas caninas.",
+          "rulesNl": "Houd honden onder controle en ruim uitwerpselen op; de gebruikelijke regels voor playas caninas gelden.",
           "facilities": "Designated dog beach area",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+Las+Arenas+Manilva",
           "photo": ""
@@ -628,7 +706,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände bei Estepona",
+      "titleNl": "Hondvriendelijke stranden bij Estepona",
       "introDe": "Estepona selbst hat keinen offiziellen Hundestrand, und Hunde sind an allen städtischen Stränden während der Badesaison vom 1. Juni bis 30. September mit empfindlichen Geldstrafen verboten. Die gute Nachricht: Nachbargemeinden haben in kurzer Fahrentfernung eigene Hundestrände (playas caninas) eröffnet, sodass Sommerbesucher mit Hund nach Piedra Paloma in Casares, El Pinillo in Marbella oder Las Arenas in Manilva fahren sollten. Außerhalb des Sommerverbots werden Hunde an den ruhigeren Stränden Esteponas eher geduldet, doch es lohnt sich, vorher beim Rathaus nachzufragen.",
+      "introNl": "Estepona zelf heeft geen officieel hondenstrand, en honden zijn op alle stedelijke stranden tijdens het badseizoen van 1 juni tot 30 september verboden, met stevige boetes. Het goede nieuws: naburige gemeenten hebben op korte rijafstand eigen hondenstranden (playas caninas) geopend, dus zomerbezoekers met hond kunnen naar Piedra Paloma in Casares, El Pinillo in Marbella of Las Arenas in Manilva rijden. Buiten het zomerverbod worden honden op de rustigere stranden van Estepona eerder gedoogd, maar het loont om vooraf bij het gemeentehuis na te vragen.",
       "faqsDe": [
         {
           "q": "Gibt es einen Hundestrand in Estepona?",
@@ -637,6 +717,16 @@
         {
           "q": "Wann sind Hunde an den Stränden Esteponas verboten?",
           "a": "Vom 1. Juni bis 30. September, der Badesaison, sind Hunde an den städtischen Stränden Esteponas nicht erlaubt, und die Geldstrafen können erheblich sein. Außerhalb dieser Monate werden sie an ruhigeren Stränden eher geduldet, doch prüfen Sie das sicherheitshalber beim Rathaus."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een hondenstrand in Estepona?",
+          "a": "Niet binnen Estepona zelf. Van 1 juni tot 30 september zijn honden verboden op alle stedelijke stranden van Estepona. De dichtstbijzijnde officiële hondenstranden zijn Piedra Paloma in Casares (aan de westgrens), El Pinillo in Marbella en Las Arenas in Manilva, die allemaal 's zomers open zijn voor honden."
+        },
+        {
+          "q": "Wanneer zijn honden verboden op de stranden van Estepona?",
+          "a": "Van 1 juni tot 30 september, het badseizoen, zijn honden niet toegestaan op de stedelijke stranden van Estepona, en de boetes kunnen aanzienlijk zijn. Buiten deze maanden worden ze op rustigere stranden eerder gedoogd, maar controleer dit voor de zekerheid bij het gemeentehuis."
         }
       ]
     },
@@ -686,8 +776,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Pointer+Veterinary+Clinic+Estepona",
           "photo": "",
           "hoursDe": "Mo-Fr 09:00-18:00 Uhr, Sa 11:00-14:00 Uhr, So geschlossen",
+          "hoursNl": "ma-vr 09:00-18:00 uur, za 11:00-14:00 uur, zo gesloten",
           "descriptionDe": "Eine seit langem etablierte Praxis an der Küstenstraße mit englischsprachiger Website und einer weitgehend internationalen Klientel, was sie zu einer einfachen ersten Anlaufstelle für Besucher mit Haustier macht. Sie übernimmt Routineuntersuchungen, Reisepapiere und Impfungen; bei Notfällen außerhalb der Öffnungszeiten rufen Sie vorher an, um die Verfügbarkeit zu klären.",
-          "tipDe": "Speichern Sie die Nummer vor Ihrer Reise und rufen Sie vorher an, die Praxis ist kein bestätigter 24-Stunden-Dienst mit Laufkundschaft"
+          "descriptionNl": "Een al lang gevestigde praktijk aan de kustweg met een Engelstalige website en een grotendeels internationale clientèle, wat het een eenvoudige eerste aanspreekmogelijkheid maakt voor bezoekers met huisdier. Ze verzorgt routineonderzoeken, reisdocumenten en vaccinaties; bel bij spoedgevallen buiten openingstijden van tevoren om de beschikbaarheid te checken.",
+          "tipDe": "Speichern Sie die Nummer vor Ihrer Reise und rufen Sie vorher an, die Praxis ist kein bestätigter 24-Stunden-Dienst mit Laufkundschaft",
+          "tipNl": "Sla het nummer op voor je reis en bel van tevoren, de praktijk is geen bevestigde 24-uursdienst voor inloopklanten"
         },
         {
           "name": "Clínica Veterinaria Puerto Alto",
@@ -711,8 +804,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Puerto+Alto+Estepona",
           "photo": "",
           "hoursDe": "Mo-Fr 09:30-14:00 & 17:00-19:30 Uhr, Sa 10:00-13:00 Uhr",
+          "hoursNl": "ma-vr 09:30-14:00 & 17:00-19:30 uur, za 10:00-13:00 uur",
           "descriptionDe": "Eine hoch bewertete Nachbarschaftspraxis in der Urbanisation Puerto Alto, von lokalen Haltern gut rezensiert. Sie bietet tagsüber Sprechstunden und eine telefonische Notrufleitung, die bis spät in den Abend erreichbar ist, weshalb sie ein sinnvoller erster Anruf bei einem Problem außerhalb der Öffnungszeiten ist.",
-          "tipDe": "Rufen Sie zuerst die Notrufleitung an, statt vorbeizukommen, die Praxis bestätigt die Verfügbarkeit telefonisch"
+          "descriptionNl": "Een hoog gewaardeerde buurtpraktijk in de urbanisatie Puerto Alto, goed beoordeeld door lokale eigenaren. Ze biedt overdag spreekuren en een telefonische noodlijn die tot laat in de avond bereikbaar is, waardoor het een zinvolle eerste telefoontje is bij een probleem buiten openingstijden.",
+          "tipDe": "Rufen Sie zuerst die Notrufleitung an, statt vorbeizukommen, die Praxis bestätigt die Verfügbarkeit telefonisch",
+          "tipNl": "Bel eerst de noodlijn in plaats van langs te komen, de praktijk bevestigt de beschikbaarheid telefonisch"
         },
         {
           "name": "Clínica Veterinaria Estenova",
@@ -736,8 +832,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Estenova+Estepona",
           "photo": "",
           "hoursDe": "",
+          "hoursNl": "",
           "descriptionDe": "Eine allgemeine Tierarztpraxis im Zentrum von Estepona, praktisch für Routineversorgung, Impfungen und Kontrolluntersuchungen während eines längeren Aufenthalts. Als gewöhnliche Tagespraxis statt Notfallklinik sollten Sie vorher anrufen, um die Öffnungszeiten zu bestätigen und einen Termin zu vereinbaren.",
-          "tipDe": "Rufen Sie vorher an, um die Öffnungszeiten zu prüfen, da diese nicht online veröffentlicht sind"
+          "descriptionNl": "Een algemene dierenartspraktijk in het centrum van Estepona, handig voor routinezorg, vaccinaties en controleonderzoeken tijdens een langer verblijf. Als gewone dagpraktijk in plaats van spoedkliniek bel je van tevoren om de openingstijden te bevestigen en een afspraak te maken.",
+          "tipDe": "Rufen Sie vorher an, um die Öffnungszeiten zu prüfen, da diese nicht online veröffentlicht sind",
+          "tipNl": "Bel van tevoren om de openingstijden te checken, want deze staan niet online vermeld"
         }
       ],
       "faqsEn": [
@@ -781,7 +880,9 @@
         }
       ],
       "titleDe": "Notfalltierärzte in Estepona, Tierarztpraxen & Tierbetreuung",
+      "titleNl": "Spoeddierenartsen in Estepona, dierenartspraktijken & dierenoppas",
       "introDe": "Estepona verfügt über mehrere gut bewertete Tierarztpraxen, einige mit englischsprachigem Personal, das an die große internationale Gemeinschaft der Region gewöhnt ist. Keine ist als vollständiges 24-Stunden-Krankenhaus mit Laufkundschaft bestätigt, rufen Sie also bei nächtlichen Notfällen vorher an, und behalten Sie die größeren Tierkliniken in Marbella als Rückfallebene im Hinterkopf. EU-registrierte Haustiere reisen mit Mikrochip, gültiger Tollwutimpfung und EU-Heimtierausweis nach Spanien ein.",
+      "introNl": "Estepona beschikt over meerdere goed beoordeelde dierenartspraktijken, sommige met Engelstalig personeel dat gewend is aan de grote internationale gemeenschap in de regio. Geen enkele is bevestigd als volledig 24-uursziekenhuis voor inloopklanten, bel dus bij nachtelijke spoedgevallen van tevoren, en houd de grotere dierenklinieken in Marbella als terugvaloptie achter de hand. EU-geregistreerde huisdieren reizen met microchip, geldige rabiësvaccinatie en EU-dierenpaspoort naar Spanje.",
       "faqsDe": [
         {
           "q": "Gibt es einen 24-Stunden-Tierarzt in Estepona?",
@@ -790,6 +891,16 @@
         {
           "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Estepona zu bringen?",
           "a": "EU-registrierte Haustiere benötigen einen gültigen EU-Heimtierausweis mit ISO-Mikrochip und aktueller Tollwutimpfung. Nicht-EU-Haustiere benötigen ein EU-Tiergesundheitszeugnis. Prüfen Sie vor der Reise beim spanischen Landwirtschaftsministerium (mapa.gob.es) die aktuellen Anforderungen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs dierenarts in Estepona?",
+          "a": "Geen enkele praktijk in Estepona is bevestigd als volledig 24-uursziekenhuis voor inloopklanten. Pointer Veterinary Clinic (+34 952 804 165) en Clínica Veterinaria Puerto Alto (+34 951 977 118), die een late noodlijn 's avonds beheert, zijn goede eerste aanspreekpunten; voor rond-de-klok-zorg word je mogelijk doorverwezen naar een grotere dierenkliniek in Marbella. Bel bij een noodgeval altijd van tevoren."
+        },
+        {
+          "q": "Heb ik een dierenpaspoort nodig om mijn hond naar Estepona te brengen?",
+          "a": "EU-geregistreerde huisdieren hebben een geldig EU-dierenpaspoort nodig met ISO-microchip en actuele rabiësvaccinatie. Niet-EU-huisdieren hebben een EU-diergezondheidscertificaat nodig. Controleer voor de reis bij het Spaanse ministerie van Landbouw (mapa.gob.es) de actuele vereisten."
         }
       ]
     },
@@ -906,7 +1017,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Tipps für Estepona",
+      "titleNl": "Hondvriendelijke tips voor Estepona",
       "introDe": "Estepona ist eine entspannte, gut zu Fuß erkundbare Stadt an der Costa del Sol, die Hundehalter belohnt, die die Hitze und die sommerlichen Strandregeln in ihre Planung einbeziehen. Die Blumentopfstraßen der Altstadt, die Marina und die Uferpromenade lassen sich alle problemlos mit angeleintem Hund genießen, und ein paar saisonale Regeln sollten Sie vor der Anreise kennen.",
+      "introNl": "Estepona is een ontspannen, goed te voet te verkennen stad aan de Costa del Sol, die hondenbezitters beloont die de hitte en de zomerse strandregels in hun planning meenemen. De bloempotstraten van de oude stad, de marina en de boulevard zijn allemaal probleemloos te genieten met een aangelijnde hond, en een paar seizoensregels moet je vóór vertrek kennen.",
       "faqsDe": [
         {
           "q": "Ist Estepona gut für Hunde geeignet?",
@@ -919,6 +1032,20 @@
         {
           "q": "Sind Hunde bei den wichtigsten Sehenswürdigkeiten Esteponas erlaubt?",
           "a": "Die Sehenswürdigkeiten im Freien, die Altstadt, die Wandbilder-Route, die Plaza de las Flores und die Marina heißen alle angeleinte Hunde willkommen. Der Safaripark Selwo Aventura und der botanische Park Orquidario erlauben keine Haustiere (Blindenführhunde ausgenommen), planen Sie diese also separat."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Estepona geschikt voor honden?",
+          "a": "Ja, met seizoensbeperkingen. Oude stad, marina en boulevard zijn heel goed te voet te verkennen met een aangelijnde hond, en er is een omheind hondenpark, maar 's zomers zijn honden verboden op de stadsstranden, en de hitte vraagt om vroege of late wandelingen. Plan met deze twee punten rekening, en het is een uitstekende hondvriendelijke basis."
+        },
+        {
+          "q": "Wat moet ik inpakken voor Estepona met mijn hond?",
+          "a": "Neem een EU-dierenpaspoort, een opvouwbaar waterbakje, poepzakjes, een lijn en pootbescherming mee, of wen je eraan om hete grond met je hand te testen. Een koelmat en een zonnescherm helpen 's zomers, en sla het nummer van je eigen dierenarts en van een praktijk in Estepona op in je telefoon."
+        },
+        {
+          "q": "Zijn honden toegestaan bij de belangrijkste bezienswaardigheden van Estepona?",
+          "a": "De buitenbezienswaardigheden, de oude stad, de muurschilderingenroute, de Plaza de las Flores en de marina heten allemaal aangelijnde honden welkom. Het safaripark Selwo Aventura en het botanische park Orquidario staan geen huisdieren toe (geleidehonden uitgezonderd), plan die dus apart."
         }
       ]
     },
@@ -955,9 +1082,13 @@
           "tipPt": "Levante o mapa gratuito dos murais no Posto de Turismo na Plaza de las Flores; o percurso tem cerca de 2 km",
           "googleMapsUrl": "https://maps.google.com/?q=Casco+Antiguo+Estepona",
           "dogPolicyDe": "Angeleinte Hunde in allen Fußgängerstraßen willkommen",
+          "dogPolicyNl": "Aangelijnde honden welkom op alle voetgangersstraten",
           "admissionFeeDe": "Kostenlos",
+          "admissionFeeNl": "Gratis",
           "descriptionDe": "Esteponas Altstadt ist ein Labyrinth weißgetünchter Gassen, berühmt für die Blumentöpfe, die ihre Wände bedecken, durchzogen von der Ruta de Murales, einer selbstgeführten Route mit Dutzenden großformatiger Wandbilder im Freien. Der gesamte Rundgang ist eben, autofrei und kostenlos, und die bemalten Straßen spenden mehr Schatten als die Uferpromenade, was ihn zu einem idealen langen Vormittagsspaziergang mit angeleintem Hund macht.",
-          "tipDe": "Holen Sie sich die kostenlose Wandbilder-Karte beim Tourismusbüro an der Plaza de las Flores; die Route ist etwa 2 km lang"
+          "descriptionNl": "Esteponas oude stad is een doolhof van witgekalkte steegjes, beroemd om de bloempotten die de muren bedekken, doorkruist door de Ruta de Murales, een zelfstandig te lopen route met tientallen grootschalige muurschilderingen buiten. De hele wandeling is vlak, autovrij en gratis, en de beschilderde straten geven meer schaduw dan de boulevard, wat het een ideale lange ochtendwandeling maakt met een aangelijnde hond.",
+          "tipDe": "Holen Sie sich die kostenlose Wandbilder-Karte beim Tourismusbüro an der Plaza de las Flores; die Route ist etwa 2 km lang",
+          "tipNl": "Haal de gratis muurschilderingenkaart bij het toeristenbureau aan de Plaza de las Flores; de route is ongeveer 2 km lang"
         },
         {
           "name": "Puerto Deportivo (Marina de Estepona)",
@@ -982,9 +1113,13 @@
           "tipPt": "Venha ao domingo para o mercado e depois instale-se numa esplanada com sombra; o cais aberto tem pouco abrigo ao meio-dia",
           "googleMapsUrl": "https://maps.google.com/?q=Puerto+Deportivo+Estepona",
           "dogPolicyDe": "Angeleinte Hunde zum Spazieren und auf den meisten Terrassen willkommen",
+          "dogPolicyNl": "Aangelijnde honden welkom om te wandelen en op de meeste terrassen",
           "admissionFeeDe": "Kostenlos",
+          "admissionFeeNl": "Gratis",
           "descriptionDe": "Esteponas Marina ist eine flache, sichere, hundefreundliche Uferpromenade mit 447 Liegeplätzen, Bars, Restaurants und einem Sonntagsmarkt, alles in leichter Gehentfernung von der Altstadt. Die hundefreundlichen Terrassen und die ebene Promenade machen sie zu einem der entspanntesten Orte der Stadt zum Spazieren und Essen mit Hund.",
-          "tipDe": "Kommen Sie sonntags zum Markt und lassen Sie sich dann auf einer schattigen Terrasse nieder; der offene Kai bietet mittags kaum Schutz"
+          "descriptionNl": "Esteponas marina is een vlakke, veilige, hondvriendelijke boulevard met 447 ligplaatsen, bars, restaurants en een zondagsmarkt, allemaal op makkelijke loopafstand van de oude stad. De hondvriendelijke terrassen en de vlakke promenade maken het een van de meest ontspannen plekken van de stad om te wandelen en te eten met hond.",
+          "tipDe": "Kommen Sie sonntags zum Markt und lassen Sie sich dann auf einer schattigen Terrasse nieder; der offene Kai bietet mittags kaum Schutz",
+          "tipNl": "Kom op zondag naar de markt en nestel je daarna op een schaduwrijk terras; de open kade biedt 's middags weinig beschutting"
         },
         {
           "name": "Plaza de las Flores",
@@ -1009,9 +1144,13 @@
           "tipPt": "A copa das laranjeiras faz dela uma das paragens de meio-dia mais frescas para um cão no verão",
           "googleMapsUrl": "https://maps.google.com/?q=Plaza+de+las+Flores+Estepona",
           "dogPolicyDe": "Angeleinte Hunde auf dem Platz und seinen Terrassen willkommen",
+          "dogPolicyNl": "Aangelijnde honden welkom op het plein en de terrassen",
           "admissionFeeDe": "Kostenlos",
+          "admissionFeeNl": "Gratis",
           "descriptionDe": "Das grüne Herz der Altstadt, die Plaza de las Flores, wird von Orangenbäumen rund um einen Brunnen von 1845 beschattet und ist von Caféterrassen gesäumt, auf denen angeleinte Hunde ein vertrauter Anblick sind. Es ist der natürliche Start- und Ruhepunkt zur Erkundung der Blumentopfstraßen und der Wandbilder-Route.",
-          "tipDe": "Das Blätterdach der Orangenbäume macht dies im Sommer zu einem der kühlsten Mittagsrastplätze für einen Hund"
+          "descriptionNl": "Het groene hart van de oude stad, de Plaza de las Flores, wordt beschaduwd door sinaasappelbomen rond een fontein uit 1845 en is omzoomd door caféterrassen waar aangelijnde honden een vertrouwd gezicht zijn. Het is het natuurlijke start- en rustpunt om de bloempotstraten en de muurschilderingenroute te verkennen.",
+          "tipDe": "Das Blätterdach der Orangenbäume macht dies im Sommer zu einem der kühlsten Mittagsrastplätze für einen Hund",
+          "tipNl": "Het bladerdak van de sinaasappelbomen maakt dit 's zomers een van de koelste lunchplekken voor een hond"
         }
       ],
       "tipsEn": [
@@ -1091,7 +1230,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Estepona",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Estepona",
       "introDe": "Esteponas beste Sehenswürdigkeiten liegen meist im Freien und sind kostenlos, was einem Hund perfekt entgegenkommt. Die weißgetünchte Altstadt mit ihren berühmten Blumentopfstraßen und der Freiluft-Wandbilder-Route, die lebendige Marina und die Orangenbaumplätze lassen sich alle zu Fuß mit angeleintem Hund erkunden. Ein paar kostenpflichtige Sehenswürdigkeiten, der Safaripark Selwo und der Orquidario, erlauben keine Haustiere, heben Sie sich diese also für einen separaten Tag auf.",
+      "introNl": "Esteponas beste bezienswaardigheden liggen meestal buiten en zijn gratis, wat perfect uitkomt voor een hond. De witgekalkte oude stad met zijn beroemde bloempotstraten en de openluchtroute met muurschilderingen, de levendige marina en de pleinen met sinaasappelbomen zijn allemaal te voet te verkennen met een aangelijnde hond. Een paar bezienswaardigheden met toegangsprijs, het safaripark Selwo en de Orquidario, staan geen huisdieren toe, bewaar die dus voor een aparte dag.",
       "faqsDe": [
         {
           "q": "Kann ich die Wandbilder und die Altstadt von Estepona mit meinem Hund besuchen?",
@@ -1104,6 +1245,20 @@
         {
           "q": "Was ist die beste haustierfreundliche Aktivität in Estepona?",
           "a": "Gehen Sie morgens die Altstadt und die Wandbilder-Route ab, und fahren Sie dann zum Puerto Deportivo zum Mittagessen auf einer hundefreundlichen Terrasse. Es ist eben, teils schattig und lässt sich vollständig an der Leine erledigen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik de muurschilderingen en de oude stad van Estepona met mijn hond bezoeken?",
+          "a": "Ja. De bloempotstraten van het Casco Antiguo en de Ruta de Murales zijn open voetgangersgebieden waar aangelijnde honden welkom zijn. De route is gratis, vlak en ongeveer 2 km lang, een gratis kaart is verkrijgbaar bij het toeristenbureau aan de Plaza de las Flores."
+        },
+        {
+          "q": "Zijn honden toegestaan in Selwo Aventura of de Orquidario?",
+          "a": "Nee. Het safaripark Selwo Aventura en het botanische park Orquidario staan beide geen huisdieren toe, alleen geleidehonden zijn toegelaten. Plan deze bezoeken voor een dag dat je hond in je huisdiervriendelijke accommodatie kan blijven."
+        },
+        {
+          "q": "Wat is de beste huisdiervriendelijke activiteit in Estepona?",
+          "a": "Loop 's ochtends door de oude stad en de muurschilderingenroute, en rijd dan naar het Puerto Deportivo om te lunchen op een hondvriendelijk terras. Het is vlak, deels schaduwrijk en volledig aan de lijn te doen."
         }
       ]
     },
@@ -1138,8 +1293,11 @@
           "tipEs": "Filtra por insignias Star Sitter y escribe antes de reservar para confirmar que el cuidador habla tu idioma y puede recoger cerca de tu hotel",
           "tipPt": "Filtre pelos selos Star Sitter e escreva antes de reservar para confirmar que o sitter fala a sua língua e pode recolher perto do seu hotel",
           "serviceTypeDe": "Gassigehen, Kurzbesuche, Tagesbetreuung, Übernachtungsunterbringung",
+          "serviceTypeNl": "Hond uitlaten, korte bezoekjes, dagopvang, logeeroppas",
           "descriptionDe": "Rover ist ein großer Peer-to-Peer-Marktplatz für Tierbetreuung, der in Spanien tätig ist und eine eigene Estepona-Seite mit verifizierten lokalen Sittern bietet, darunter einige mit umzäunten ländlichen Grundstücken nahe der Stadt. Sie können Gassigehen, Kurzbesuche, Tagesbetreuung oder Übernachtungsunterbringung buchen, alles mit Bewertungen, und die Sitter legen ihre eigenen Preise fest. Viele Sitter an der Costa del Sol sind zweisprachig.",
-          "tipDe": "Filtern Sie nach dem Abzeichen Star Sitter und schreiben Sie vor der Buchung, um zu bestätigen, dass der Sitter Ihre Sprache spricht und in der Nähe Ihres Hotels abholen kann"
+          "descriptionNl": "Rover is een grote peer-to-peer marktplaats voor dierenoppas die actief is in Spanje en een eigen Estepona-pagina heeft met geverifieerde lokale oppassers, waaronder enkele met omheinde landelijke percelen bij de stad. Je kunt hond uitlaten, korte bezoekjes, dagopvang of logeeroppas boeken, allemaal met beoordelingen, en de oppassers bepalen hun eigen prijzen. Veel oppassers aan de Costa del Sol zijn tweetalig.",
+          "tipDe": "Filtern Sie nach dem Abzeichen Star Sitter und schreiben Sie vor der Buchung, um zu bestätigen, dass der Sitter Ihre Sprache spricht und in der Nähe Ihres Hotels abholen kann",
+          "tipNl": "Filter op het Star Sitter-label en schrijf voor het boeken om te bevestigen dat de oppasser jouw taal spreekt en bij je hotel kan ophalen"
         },
         {
           "name": "Gudog",
@@ -1162,8 +1320,11 @@
           "tipEs": "Gudog incluye cobertura veterinaria en cada reserva; reserva pronto en verano porque los anfitriones de costa se llenan",
           "tipPt": "A Gudog inclui cobertura veterinária em cada reserva; reserve cedo no verão pois os anfitriões da costa esgotam",
           "serviceTypeDe": "Hausunterbringung, Gassigehen, Tagesbetreuung",
+          "serviceTypeNl": "Oppas thuis, hond uitlaten, dagopvang",
           "descriptionDe": "Gudog ist eine in Spanien gegründete Plattform für Tierbetreuung, die landesweit tätig ist, einschließlich der Costa del Sol, und Halter mit Hundebetreuern zu Hause, Gassigehern und Tagesbetreuung verbindet. Jede Buchung schließt eine tierärztliche Absicherung und kostenlose Stornierung ein, ein nützliches Sicherheitsnetz im Vergleich zu informell organisierter Betreuung. Suchen Sie nach Estepona, um verfügbare lokale Gastgeber zu sehen.",
-          "tipDe": "Gudog schließt bei jeder Buchung eine tierärztliche Absicherung ein; reservieren Sie im Sommer frühzeitig, da Gastgeber an der Küste schnell ausgebucht sind"
+          "descriptionNl": "Gudog is een in Spanje opgericht platform voor dierenoppas dat landelijk actief is, inclusief de Costa del Sol, en eigenaren koppelt aan hondenoppassers bij hen thuis, uitlaters en dagopvang. Elke boeking omvat dierenartsdekking en gratis annulering, een nuttig vangnet vergeleken met informeel geregelde oppas. Zoek op Estepona om beschikbare lokale gastheren te zien.",
+          "tipDe": "Gudog schließt bei jeder Buchung eine tierärztliche Absicherung ein; reservieren Sie im Sommer frühzeitig, da Gastgeber an der Küste schnell ausgebucht sind",
+          "tipNl": "Gudog omvat bij elke boeking dierenartsdekking; reserveer 's zomers vroeg, want gastheren aan de kust zitten snel vol"
         },
         {
           "name": "Home4uDog Estepona",
@@ -1186,8 +1347,11 @@
           "tipEs": "La capacidad es deliberadamente reducida, así que reserva con antelación y pregunta por su radio de recogida y entrega",
           "tipPt": "A capacidade é deliberadamente reduzida, por isso reserve com antecedência e pergunte pelo raio de recolha e entrega",
           "serviceTypeDe": "Hundeunterbringung und Tagesbetreuung zu Hause",
+          "serviceTypeNl": "Hondenlogeeropvang en dagopvang thuis",
           "descriptionDe": "Ein lokaler, käfigfreier Betrieb für Hundeunterbringung und Tagesbetreuung direkt außerhalb von Estepona, bei dem Hunde in einem Landhaus mit umzäuntem Hundepark statt in Käfigen untergebracht werden. Er wird von lokalen Haltern hoch bewertet, bietet Abholung im Bereich Estepona bis Marbella und hält die Zahl der Hunde bewusst klein für ein persönliches Erlebnis. Gut geeignet für einen ängstlichen Hund.",
-          "tipDe": "Die Kapazität ist bewusst klein, reservieren Sie also frühzeitig und fragen Sie nach dem Radius für Abholung und Rückgabe"
+          "descriptionNl": "Een lokaal, kooivrij bedrijf voor hondenlogeeropvang en dagopvang net buiten Estepona, waar honden worden ondergebracht in een landhuis met een omheind hondenpark in plaats van in kooien. Het wordt hoog gewaardeerd door lokale eigenaren, biedt ophalen in het gebied Estepona tot Marbella en houdt het aantal honden bewust klein voor een persoonlijke ervaring. Goed geschikt voor een angstige hond.",
+          "tipDe": "Die Kapazität ist bewusst klein, reservieren Sie also frühzeitig und fragen Sie nach dem Radius für Abholung und Rückgabe",
+          "tipNl": "De capaciteit is bewust klein, reserveer dus vroeg en vraag naar de straal voor ophalen en terugbrengen"
         }
       ],
       "tipsEn": [
@@ -1267,7 +1431,9 @@
         }
       ],
       "titleDe": "Hundesitter & Tierbetreuung in Estepona",
+      "titleNl": "Hondenoppas & dierenoppas in Estepona",
       "introDe": "Wenn Sie eine hundefreie Sehenswürdigkeit wie Selwo oder den Orquidario besuchen möchten, bietet Esteponas große internationale Gemeinschaft zuverlässige Betreuungs- und Unterbringungsmöglichkeiten in der Nähe. Online-Plattformen decken die Region mit geprüften lokalen Sittern ab, und ein persönlicher Betreuungsbetrieb mit Hausunterbringung ist direkt außerhalb der Stadt tätig. Buchen Sie im Sommer frühzeitig, wenn die besten Sitter der Costa del Sol schnell ausgebucht sind.",
+      "introNl": "Als je een bezienswaardigheid zonder honden wilt bezoeken, zoals Selwo of de Orquidario, biedt Esteponas grote internationale gemeenschap betrouwbare oppas- en opvangmogelijkheden dichtbij. Online platforms dekken de regio met gescreende lokale oppassers, en een persoonlijk oppasbedrijf met opvang thuis is actief net buiten de stad. Boek 's zomers vroeg, wanneer de beste oppassers aan de Costa del Sol snel volgeboekt zijn.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Hundesitter in Estepona?",
@@ -1280,6 +1446,20 @@
         {
           "q": "Kann ich meinen Hund während eines Besuchs bei Selwo oder dem Orquidario abgeben?",
           "a": "Ja, und Sie werden es müssen, da beide keine Haustiere zulassen. Vereinbaren Sie einen Sitter über Rover oder Gudog oder einen Tag bei Home4uDog Estepona, damit sich jemand um Ihren Hund kümmert, während Sie die hundefreien Sehenswürdigkeiten besuchen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe vind ik een hondenoppas in Estepona?",
+          "a": "De online platforms Rover en Gudog dekken beide de regio Estepona met gescreende lokale oppassers, die je vooraf kunt beoordelen en boeken; Gudog omvat bij elke boeking dierenartsdekking. Voor persoonlijke opvang thuis net buiten de stad is Home4uDog Estepona een goed beoordeelde, kooivrije optie."
+        },
+        {
+          "q": "Hoeveel kost hondenopvang in Estepona?",
+          "a": "Opvang thuis aan de Costa del Sol kost afhankelijk van de oppasser doorgaans ongeveer 20 tot 35 € per nacht, wandelingen en korte bezoekjes kosten minder. De prijzen worden individueel bepaald, vergelijk dus meerdere oppassers en boek vroeg in het drukke zomerseizoen."
+        },
+        {
+          "q": "Kan ik mijn hond achterlaten tijdens een bezoek aan Selwo of de Orquidario?",
+          "a": "Ja, en dat zul je ook moeten, want beide staan geen huisdieren toe. Regel een oppasser via Rover of Gudog, of een dag bij Home4uDog Estepona, zodat er iemand voor je hond zorgt terwijl je de bezienswaardigheden zonder honden bezoekt."
         }
       ]
     }

@@ -39,9 +39,13 @@
           "mustTryPt": "Pilsner de tanque, svíčková, smažený sýr",
           "tipPt": "A sala lateral de madera (vlevo) é a zona mais tranquila para um cão ansioso.",
           "descriptionDe": "Ein traditionelles tschechisches Pivnice mit gewölbten Kellerräumen, serviert Pilsner Urquell vom Tank sowie klassische Svíčková, Guláš und Schweinebraten. Hunde ganzjährig drinnen an der Leine willkommen; Wassernäpfe hinter der Theke.",
+          "descriptionNl": "Een traditionele Tsjechische pivnice met gewelfde kelderruimtes, waar Pilsner Urquell van de tank wordt geschonken samen met klassiekers als svíčková, guláš en gebraden varkensvlees. Honden zijn het hele jaar door welkom aan de lijn binnen; waterbakjes achter de bar.",
           "petPolicyDe": "Hunde an der Leine drinnen willkommen",
+          "petPolicyNl": "Honden aan de lijn binnen welkom",
           "mustTryDe": "Tank-frisches Pilsner, Svíčková, Smažený sýr",
-          "tipDe": "Der holzvertäfelte Seitenraum (vlevo) ist der ruhigste Tischbereich für einen ängstlichen Hund."
+          "mustTryNl": "Pilsner vers van de tank, svíčková, smažený sýr",
+          "tipDe": "Der holzvertäfelte Seitenraum (vlevo) ist der ruhigste Tischbereich für einen ängstlichen Hund.",
+          "tipNl": "De houten zijkamer (vlevo) is de rustigste plek voor een angstige hond."
         },
         {
           "name": "Lokál U Caipla",
@@ -69,9 +73,13 @@
           "mustTryPt": "Pilsner šnyt, rillette de pato, utopenec fresco",
           "tipPt": "Reserva por web, as mesas de Lokál se llenan rápido o fin de semana; o rincón trasero é o melhor sitio canino.",
           "descriptionDe": "Teil der Lokál-Kette der Ambiente-Gruppe, eine moderne Interpretation eines tschechischen Wirtshauses mit strikt tankfrischem Pilsner und einfallsreichen tschechischen Klassikern. Hunde sind ausdrücklich willkommen, mit Wassernäpfen und hausgemachten Hundeleckerlis an der Theke.",
+          "descriptionNl": "Onderdeel van de Lokál-keten van de Ambiente-groep, een moderne interpretatie van een Tsjechisch café met streng tankvers Pilsner en vindingrijke Tsjechische klassiekers. Honden zijn nadrukkelijk welkom, met waterbakjes en huisgemaakte hondensnacks aan de bar.",
           "petPolicyDe": "Hunde ausdrücklich drinnen willkommen",
+          "petPolicyNl": "Honden nadrukkelijk binnen welkom",
           "mustTryDe": "Pilsner šnyt, Entenrillette, frischer Utopenec",
-          "tipDe": "Über die Website reservieren, die Tische im Lokál sind am Wochenende schnell voll; die hintere Ecke bietet den besten Platz für Hunde."
+          "mustTryNl": "Pilsner šnyt, eendenrillette, verse utopenec",
+          "tipDe": "Über die Website reservieren, die Tische im Lokál sind am Wochenende schnell voll; die hintere Ecke bietet den besten Platz für Hunde.",
+          "tipNl": "Reserveer via de website, de tafels bij Lokál zitten in het weekend snel vol; de hoek achterin is de beste plek voor honden."
         },
         {
           "name": "SKØG Urban Hub",
@@ -99,9 +107,13 @@
           "mustTryPt": "Café de filtro, tostada de aguacate de masa madre",
           "tipPt": "O jardim trasero com cubierta acristalada se calienta en inverno, opción perfeita para dia de lluvia com cão mojado.",
           "descriptionDe": "Ein Specialty-Coffee- und Brunch-Lokal in der Dominikánská mit veganen und vegetarischen Optionen. Hunde sind überall willkommen, sowohl im vorderen Raum als auch im hinteren, verglasten Garten, mit Wassernäpfen an jedem Eingang.",
+          "descriptionNl": "Een specialty-coffee- en brunchzaak aan de Dominikánská met veganistische en vegetarische opties. Honden zijn overal welkom, zowel in de voorste ruimte als in de achterste, glazen tuin, met waterbakjes bij elke ingang.",
           "petPolicyDe": "Hunde überall willkommen",
+          "petPolicyNl": "Honden overal welkom",
           "mustTryDe": "Filterkaffee, Sauerteig-Avocado-Toast",
-          "tipDe": "Der verglaste Hintergarten ist im Winter beheizt, eine perfekte Option für Regentage mit nassem Hund."
+          "mustTryNl": "Filterkoffie, zuurdesem-avocadotoast",
+          "tipDe": "Der verglaste Hintergarten ist im Winter beheizt, eine perfekte Option für Regentage mit nassem Hund.",
+          "tipNl": "De glazen achtertuin wordt 's winters verwarmd, een perfecte optie voor regenachtige dagen met een natte hond."
         }
       ],
       "tipsEn": [
@@ -167,7 +179,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Brünn",
+      "titleNl": "Hondvriendelijke restaurants in Brno",
       "introDe": "Die tschechische Bierhauskultur ist verlässlich hundefreundlich, angeleinte Hunde werden in Pivnice und Restaurace standardmäßig akzeptiert, Wassernäpfe erscheinen ungefragt, und Brünns kompaktes mittelalterliches Zentrum vereint die besten Lokale innerhalb von 600 m rund um den náměstí Svobody.",
+      "introNl": "De Tsjechische bierhalcultuur is betrouwbaar hondvriendelijk, honden aan de lijn worden standaard geaccepteerd in pivnice en restaurace, waterbakjes verschijnen zonder te vragen, en het compacte middeleeuwse centrum van Brno concentreert de beste adressen binnen 600 m van náměstí Svobody.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Brünns Restaurants erlaubt?",
@@ -176,6 +190,16 @@
         {
           "q": "Darf ich meinen Hund in ein tschechisches Bierhaus mitnehmen?",
           "a": "Ja. Tschechische Bierhäuser (Pivnice) sind standardmäßig hundetolerant, angeleinte Hunde sind auf dem Boden neben Ihrem Tisch willkommen. Die meisten Stammgäste bringen Hunde ohne Nachfrage mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Brno?",
+          "a": "In de meeste wel. Ongeveer 70% van de pivnice en restaurace in Brno accepteert honden aan de lijn in de hoofdruimte. Chiquere zaken en fine-dining adressen in de Špilberk-wijk hanteren wisselend beleid, bel van tevoren."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen naar een Tsjechisch bierhuis?",
+          "a": "Ja. Tsjechische bierhuizen (pivnice) zijn standaard hondtolerant, honden aan de lijn zijn welkom op de vloer naast je tafel. De meeste vaste gasten nemen zonder problemen hun hond mee."
         }
       ]
     },
@@ -227,8 +251,11 @@
           ],
           "tipPt": "Sube por Pellicova Street para a pendiente mais suave, os escalones de pedra directos a partir do centro são duros para cães de patas cortas.",
           "leashRuleDe": "Leinenpflicht auf Schlosswegen, ohne Leine an den Waldhängen",
+          "leashRuleNl": "Aanlijnplicht op de kasteelpaden, los aan de bosrijke hellingen",
           "descriptionDe": "Brünns markanter Hügelpark rund um die mittelalterlich-barocke Burg Špilberk. Bewaldete Hänge umgeben den Hügel auf drei Seiten mit schattigen Wegen und Bänken, Einheimische führen ihre Hunde an den bewaldeten Süd- und Westseiten ohne Leine aus.",
-          "tipDe": "Über die Straße Pellicova hochlaufen für die sanfteste Steigung, die direkten Steinstufen vom Zentrum aus sind für kurzbeinige Hunde anstrengend."
+          "descriptionNl": "Brno's markante heuvelpark rond de middeleeuws-barokke burcht Špilberk. Beboste hellingen omringen de heuvel aan drie kanten met schaduwrijke paden en bankjes, locals laten hun honden aan de beboste zuid- en westzijde los lopen.",
+          "tipDe": "Über die Straße Pellicova hochlaufen für die sanfteste Steigung, die direkten Steinstufen vom Zentrum aus sind für kurzbeinige Hunde anstrengend.",
+          "tipNl": "Loop omhoog via de Pellicova-straat voor de zachtste helling, de directe stenen trappen vanaf het centrum zijn zwaar voor honden met korte pootjes."
         },
         {
           "name": "Lužánky Park",
@@ -274,8 +301,11 @@
           ],
           "tipPt": "A zona vallada do lado este tem equipo de agility mantenido pela asociación de duenhos de cães de Brno.",
           "leashRuleDe": "Leinenpflicht, mit zwei eingezäunten Freilaufzonen",
+          "leashRuleNl": "Aanlijnplicht, met twee omheinde loslopzones",
           "descriptionDe": "Brünns ältester öffentlicher Park (eröffnet 1786), formale Alleen, alte Bäume, ein Teich, Zierbrunnen. Zwei eingezäunte psí-louka-Zonen in der Süd- und Ostecke. Kostenloses öffentliches WLAN, Café, Sommerkonzerte.",
-          "tipDe": "Die eingezäunte Zone auf der Ostseite hat Agility-Geräte, die vom Brünner Hundehalterverein gepflegt werden."
+          "descriptionNl": "Brno's oudste openbare park (geopend in 1786), formele lanen, oude bomen, een vijver, sierfonteinen. Twee omheinde psí-louka-zones in de zuid- en oosthoek. Gratis openbaar wifi, café, zomerconcerten.",
+          "tipDe": "Die eingezäunte Zone auf der Ostseite hat Agility-Geräte, die vom Brünner Hundehalterverein gepflegt werden.",
+          "tipNl": "De omheinde zone aan de oostkant heeft agility-toestellen die worden onderhouden door de hondenbezittersvereniging van Brno."
         },
         {
           "name": "Brno Dam (Brněnská přehrada)",
@@ -321,8 +351,11 @@
           ],
           "tipPt": "A margem oeste (lado Sokolské koupaliště) tem o água mais limpia para o banho canino, a margem este pode tener algas en julho-agosto.",
           "leashRuleDe": "Ohne Leine an den meisten Uferabschnitten",
+          "leashRuleNl": "Los aan de meeste oeverdelen",
           "descriptionDe": "Ein 2,6 km² großer Stausee 12 km nordwestlich des Zentrums, bewaldete Ufer, Schwimmstellen für Hunde, eine Raddampferlinie, die Hunde kostenlos mitnimmt, und die Ruinen der Burg Bítov, erreichbar über das Wasser. Straßenbahn 1 vom Zentrum nach Bystrc.",
-          "tipDe": "Das Westufer (Seite Sokolské koupaliště) hat das sauberste Wasser zum Hundeschwimmen, das Ostufer kann im Juli-August Algen haben."
+          "descriptionNl": "Een 2,6 km² groot stuwmeer 12 km ten noordwesten van het centrum, beboste oevers, zwemplekken voor honden, een raderbootlijn die honden gratis meeneemt, en de ruïnes van kasteel Bítov, bereikbaar over water. Tram 1 vanaf het centrum naar Bystrc.",
+          "tipDe": "Das Westufer (Seite Sokolské koupaliště) hat das sauberste Wasser zum Hundeschwimmen, das Ostufer kann im Juli-August Algen haben.",
+          "tipNl": "De westoever (kant Sokolské koupaliště) heeft het schoonste water om honden te laten zwemmen, de oostoever kan in juli-augustus algen hebben."
         }
       ],
       "tipsEn": [
@@ -388,7 +421,9 @@
         }
       ],
       "titleDe": "Hundeparks & Grünflächen in Brünn",
+      "titleNl": "Hondenparken & groene ruimtes in Brno",
       "introDe": "Brünn ist von Waldhügeln umgeben, das Stadtzentrum liegt 800 m von den bewaldeten Hängen des Špilberk und 2 km vom Wilson-Wald entfernt. Die Stadtverwaltung unterhält 14 eingezäunte Zonen ohne Leine (psí louka) und drei Stauseen mit Schwimmerlaubnis.",
+      "introNl": "Brno is omgeven door beboste heuvels, het stadscentrum ligt 800 m van de beboste hellingen van de Špilberk en 2 km van het Wilsonbos. De gemeente onderhoudt 14 omheinde loslopgebieden (psí louka) en drie stuwmeren waar zwemmen is toegestaan.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde in Brünns Parks ohne Leine laufen?",
@@ -397,6 +432,16 @@
         {
           "q": "Dürfen Hunde im Brünner Stausee schwimmen?",
           "a": "Ja. Der Brünner Stausee ist an den meisten seiner 8 km Uferlänge zum Hundeschwimmen geeignet, besonders am Westufer. Im Juli-August am Ostufer vom Schwimmen absehen, wo Blaualgen auftreten können."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden loslopen in de parken van Brno?",
+          "a": "Loslopen is toegestaan in 14 omheinde gemeentelijke psí-louka-zones en op de meeste beboste hellingen (Špilberk, Wilsonbos). Formele parken (Lužánky, Denisovy sady) vereisen een lijn buiten de gemarkeerde loslopzones."
+        },
+        {
+          "q": "Mogen honden zwemmen in het stuwmeer van Brno?",
+          "a": "Ja. Het stuwmeer van Brno is over het grootste deel van zijn 8 km oeverlengte geschikt om honden te laten zwemmen, vooral aan de westoever. Vermijd in juli-augustus zwemmen aan de oostoever, waar blauwalg kan voorkomen."
         }
       ]
     },
@@ -427,8 +472,11 @@
           "petPolicyPt": "Bilhete a meio preço + bozal para cães medianos/grandes",
           "tipPt": "Compra a « jízdenka pro psa » en taquilla SMS o al conductor, os conductores no venden bilhetes en hora punta.",
           "descriptionDe": "Brünns öffentlicher Nahverkehr (Dopravní podnik města Brna) nimmt Hunde auf allen 11 Straßenbahnlinien, 12 Oberleitungsbuslinien und Nachtbussen mit. Kleine Hunde in Tragetaschen fahren kostenlos; größere Hunde benötigen eine ermäßigte 'pes'-Fahrkarte (15 CZK) und einen Maulkorb.",
+          "descriptionNl": "Het openbaar vervoer van Brno (Dopravní podnik města Brna) neemt honden mee op alle 11 tramlijnen, 12 trolleybuslijnen en nachtbussen. Kleine honden in een draagtas reizen gratis; grotere honden hebben een gereduceerd 'pes'-kaartje nodig (15 CZK) en een muilkorf.",
           "petPolicyDe": "Ermäßigte Fahrkarte + Maulkorb für mittelgroße/große Hunde",
-          "tipDe": "Die 'jízdenka pro psa' am SMS-Automaten oder beim Fahrer kaufen, Fahrer verkaufen zu Stoßzeiten keine Fahrkarten."
+          "petPolicyNl": "Gereduceerd kaartje + muilkorf voor middelgrote/grote honden",
+          "tipDe": "Die 'jízdenka pro psa' am SMS-Automaten oder beim Fahrer kaufen, Fahrer verkaufen zu Stoßzeiten keine Fahrkarten.",
+          "tipNl": "Koop de 'jízdenka pro psa' bij de SMS-automaat of bij de chauffeur, chauffeurs verkopen tijdens de spits geen kaartjes."
         },
         {
           "name": "České dráhy (Czech Railways)",
@@ -449,8 +497,11 @@
           "petPolicyPt": "Bilhete infantil a meio preço + bozal a bordo",
           "tipPt": "Reserva asiento, os comboios Brno-Praga podem ir só de pie en hora punta, mais difícil com cão mediano.",
           "descriptionDe": "Die Tschechische Eisenbahn (ČD) betreibt direkte Züge von Brünn nach Prag (2 Std. 30), Wien (1 Std. 35), Bratislava (1 Std. 25), Budapest (4 Std.) und Berlin (5 Std.). Hunde fahren zum halben Preis der zweiten Klasse; Assistenzhunde kostenlos.",
+          "descriptionNl": "De Tsjechische Spoorwegen (ČD) rijden directe treinen van Brno naar Praag (2u30), Wenen (1u35), Bratislava (1u25), Boedapest (4u) en Berlijn (5u). Honden reizen voor de halve prijs van tweede klas; assistentiehonden gratis.",
           "petPolicyDe": "Halbe Kinderfahrkarte + Maulkorb an Bord",
-          "tipDe": "Sitzplatz vorab reservieren, Züge Brünn-Prag können zu Stoßzeiten nur Stehplätze bieten, mit mittelgroßem Hund schwieriger."
+          "petPolicyNl": "Halve kinderkaartje + muilkorf aan boord",
+          "tipDe": "Sitzplatz vorab reservieren, Züge Brünn-Prag können zu Stoßzeiten nur Stehplätze bieten, mit mittelgroßem Hund schwieriger.",
+          "tipNl": "Reserveer vooraf een zitplaats, treinen Brno-Praag kunnen tijdens de spits alleen staanplaatsen hebben, lastiger met een middelgrote hond."
         },
         {
           "name": "RegioJet Coach",
@@ -471,8 +522,11 @@
           "petPolicyPt": "Pet seat a meio preço; bozal a bordo",
           "tipPt": "Reserva a opción « pet seat » al reservar, no o dia, é um asiento reservable dedicado (patas no suelo).",
           "descriptionDe": "RegioJet betreibt gelbe Busse nach Prag (2 Std. 30), Wien (1 Std. 45) und Bratislava (1 Std. 45) zu konkurrenzfähigen Preisen. Hunde werden auf einem 'Haustierplatz' akzeptiert (halber Preis); Maulkorb für mittelgroße/große Hunde erforderlich.",
+          "descriptionNl": "RegioJet rijdt met gele bussen naar Praag (2u30), Wenen (1u45) en Bratislava (1u45) tegen concurrerende tarieven. Honden worden geaccepteerd op een 'huisdierstoel' (halve prijs); muilkorf verplicht voor middelgrote/grote honden.",
           "petPolicyDe": "Haustierplatz zum halben Preis; Maulkorb an Bord",
-          "tipDe": "Den 'Haustierplatz' bei der Buchung wählen, nicht am Fahrtag, es ist ein separat buchbarer Sitzplatz (Pfoten auf dem Boden)."
+          "petPolicyNl": "Huisdierstoel voor de halve prijs; muilkorf aan boord",
+          "tipDe": "Den 'Haustierplatz' bei der Buchung wählen, nicht am Fahrtag, es ist ein separat buchbarer Sitzplatz (Pfoten auf dem Boden).",
+          "tipNl": "Kies de 'huisdierstoel' bij het boeken, niet op de reisdag zelf, het is een apart boekbare zitplaats (poten op de vloer)."
         }
       ],
       "tipsEn": [
@@ -538,7 +592,9 @@
         }
       ],
       "titleDe": "Haustierfreundlicher Nahverkehr in Brünn",
+      "titleNl": "Huisdiervriendelijk openbaar vervoer in Brno",
       "introDe": "Brünns Straßenbahn- und Busnetz (DPMB) nimmt Hunde auf jeder Linie und jeden Tag mit. Fernzüge der České dráhy erreichen Prag (2 Std. 30), Wien (1 Std. 35) und Bratislava (1 Std. 25), alle hundefreundlich.",
+      "introNl": "Het tram- en busnetwerk van Brno (DPMB) accepteert honden op elke lijn, elke dag. Langeafstandstreinen van České dráhy bereiken Praag (2u30), Wenen (1u35) en Bratislava (1u25), allemaal hondvriendelijk.",
       "faqsDe": [
         {
           "q": "Muss ich meinem Hund in Brünns Straßenbahnen einen Maulkorb anlegen?",
@@ -547,6 +603,16 @@
         {
           "q": "Darf ich meinen Hund in einem tschechischen Fernzug mitnehmen?",
           "a": "Ja. Die České dráhy akzeptieren Hunde zum halben Preis der zweiten Klasse mit Maulkorb für mittelgroße/große Hunde. Sitzplatz reservieren, Züge nach Prag können zur Stoßzeit sehr voll sein."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Moet ik mijn hond een muilkorf omdoen in de trams van Brno?",
+          "a": "Ja, voor middelgrote en grote honden, de Tsjechische vervoersvoorschriften vereisen een muilkorf en een gereduceerd kaartje. Kleine honden in een draagtas reizen gratis zonder muilkorf."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen in een Tsjechische intercitytrein?",
+          "a": "Ja. De České dráhy accepteert honden tegen de halve prijs van tweede klas met muilkorf voor middelgrote/grote honden. Reserveer een zitplaats, treinen naar Praag kunnen tijdens de spits erg vol zijn."
         }
       ]
     },
@@ -600,8 +666,11 @@
           ],
           "tipPt": "Lado Sokolské koupaliště água mais limpia e entrada arenosa, ideal para cães mayores o pequenhos.",
           "leashRuleDe": "Ohne Leine an den meisten Uferabschnitten",
+          "leashRuleNl": "Los aan de meeste oeverdelen",
           "descriptionDe": "Die nächstgelegene Schwimmoption, ein 2,6 km² großer Stausee mit 8 km größtenteils bewaldeter Uferlinie, die Westseite am saubersten. Straßenbahn 1 vom Zentrum nach Bystrc braucht 25 Minuten.",
-          "tipDe": "Die Seite Sokolské koupaliště hat das sauberste Wasser und einen sandigen Einstieg, am besten für ältere oder kleine Hunde geeignet."
+          "descriptionNl": "De dichtstbijzijnde zwemoptie, een 2,6 km² groot stuwmeer met 8 km grotendeels beboste oeverlijn, de westzijde het schoonst. Tram 1 vanaf het centrum naar Bystrc duurt 25 minuten.",
+          "tipDe": "Die Seite Sokolské koupaliště hat das sauberste Wasser und einen sandigen Einstieg, am besten für ältere oder kleine Hunde geeignet.",
+          "tipNl": "De kant bij Sokolské koupaliště heeft het schoonste water en een zandige ingang, het beste geschikt voor oudere of kleine honden."
         },
         {
           "name": "Nové Mlýny Reservoirs",
@@ -645,8 +714,11 @@
           ],
           "tipPt": "Combina com um dia pela região vinícola de Mikulov, as bodegas Pálava en Pavlov estão a 5 km e varias têm puertas de bodega pet-friendly.",
           "leashRuleDe": "Ganzjährig ohne Leine außerhalb ausgewiesener Schwimmbereiche",
+          "leashRuleNl": "Het hele jaar door los buiten aangewezen zwemzones",
           "descriptionDe": "Eine Kette von drei großen Stauseen 35 km südlich von Brünn am Fluss Dyje, Weinberge im Hintergrund, die Kalksteinhügel der Pálava darüber. Ganzjährig hundefreundlich entlang der meisten Ufer; der südliche Stausee bei Pasohlávky hat die besten Buchten zum Hundeschwimmen.",
-          "tipDe": "Mit einem Tag in der Weinregion Mikulov kombinieren, die Pálava-Weinkeller in Pavlov sind 5 km entfernt und mehrere haben hundefreundliche Kellertüren."
+          "descriptionNl": "Een keten van drie grote stuwmeren 35 km ten zuiden van Brno aan de rivier de Dyje, wijngaarden op de achtergrond, de kalksteenheuvels van Pálava daarboven. Het hele jaar door hondvriendelijk langs de meeste oevers; het zuidelijke stuwmeer bij Pasohlávky heeft de beste baaien om honden te laten zwemmen.",
+          "tipDe": "Mit einem Tag in der Weinregion Mikulov kombinieren, die Pálava-Weinkeller in Pavlov sind 5 km entfernt und mehrere haben hundefreundliche Kellertüren.",
+          "tipNl": "Combineer met een dag in de wijnregio Mikulov, de Pálava-wijnkelders in Pavlov liggen 5 km verderop en meerdere hebben hondvriendelijke keldertoegangen."
         },
         {
           "name": "Křetínka Reservoir",
@@ -686,8 +758,11 @@
           ],
           "tipPt": "Visita entre semana, os fines de semana os pescadores locales podem ser territoriales na margem este rocosa.",
           "leashRuleDe": "Ganzjährig ohne Leine",
+          "leashRuleNl": "Het hele jaar door los",
           "descriptionDe": "Ein ruhiger 2,5 km² großer Waldstausee 50 km nördlich von Brünn nahe Letovice, weit weniger belebt als der Brünner Stausee, mit kristallklarem Wasser und einem 10 km langen bewaldeten Rundweg. Zug der ČD nach Letovice (45 Min) + 4 km Fußweg oder Lokalbus.",
-          "tipDe": "Unter der Woche besuchen, am Wochenende kommen lokale Angler, die am felsigen Ostufer territorial sein können."
+          "descriptionNl": "Een rustig 2,5 km² groot bosstuwmeer 50 km ten noorden van Brno bij Letovice, veel minder druk dan het stuwmeer van Brno, met kristalhelder water en een 10 km lang beboste rondwandeling. Trein van ČD naar Letovice (45 min) + 4 km lopen of lokale bus.",
+          "tipDe": "Unter der Woche besuchen, am Wochenende kommen lokale Angler, die am felsigen Ostufer territorial sein können.",
+          "tipNl": "Bezoek doordeweeks, in het weekend komen lokale vissers die territoriaal kunnen zijn aan de rotsachtige oostoever."
         }
       ],
       "tipsEn": [
@@ -753,7 +828,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände & Seen bei Brünn",
+      "titleNl": "Hondvriendelijke stranden & meren bij Brno",
       "introDe": "Brünn liegt im Landesinneren, aber die südmährische Region hat mehrere Stauseen und Naturteiche mit ganzjährigen Bereichen zum Hundeschwimmen, alle in unter einer Stunde mit Auto oder Zug erreichbar.",
+      "introNl": "Brno ligt landinwaarts, maar de regio Zuid-Moravië heeft meerdere stuwmeren en natuurlijke vijvers met het hele jaar door zwemgebieden voor honden, allemaal binnen een uur bereikbaar met de auto of trein.",
       "faqsDe": [
         {
           "q": "Wie weit ist der nächste Hundestrand von Brünn entfernt?",
@@ -762,6 +839,16 @@
         {
           "q": "Sind Hunde an städtischen Schwimmbädern in Tschechien erlaubt?",
           "a": "Die meisten städtischen koupaliště schließen Hunde vom 1. Mai bis 30. September aus. Außerhalb dieses Zeitraums gilt die Regel lokal; viele Stauseen erlauben Hunde weiterhin ganzjährig."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe ver is het dichtstbijzijnde hondenstrand van Brno?",
+          "a": "Ongeveer 25 minuten met de tram naar het stuwmeer van Brno (Brněnská přehrada), met 8 km grotendeels hondvriendelijke oeverlijn. Voor uitgestrekter, schoner zwemwater liggen de Nové Mlýny-stuwmeren 35 km zuidelijker bij Pavlov."
+        },
+        {
+          "q": "Zijn honden toegestaan bij gemeentelijke zwembaden in Tsjechië?",
+          "a": "De meeste gemeentelijke koupaliště sluiten honden uit van 1 mei tot 30 september. Buiten die periode geldt de regel lokaal; veel stuwmeren staan honden nog steeds het hele jaar door toe."
         }
       ]
     },
@@ -796,7 +883,9 @@
           "descriptionPt": "O hospital universitario da Universidade de Ciencias Veterinárias a norte de Brno, urgências 24h com plantilla completa e a cobertura especialista mais profunda do país (oncología, cardiología, neurología, ortopedia).",
           "tipPt": "Liga a urgências antes de ir, fazem triaje por teléfono e podem redirigir casos no urgentes.",
           "descriptionDe": "Das Lehrkrankenhaus der Universität für Veterinärmedizin im Norden Brünns, mit voll besetzter 24/7-Notaufnahme und der landesweit umfassendsten Facharztabdeckung (Onkologie, Kardiologie, Neurologie, Orthopädie).",
-          "tipDe": "Vor der Anfahrt die Notfall-Hotline anrufen, dort wird telefonisch triagiert und bei nicht dringenden Fällen umgeleitet."
+          "descriptionNl": "Het academisch ziekenhuis van de Universiteit voor Diergeneeskunde in het noorden van Brno, met een volledig bemande 24/7-spoedeisende hulp en de meest uitgebreide specialistische dekking van het land (oncologie, cardiologie, neurologie, orthopedie).",
+          "tipDe": "Vor der Anfahrt die Notfall-Hotline anrufen, dort wird telefonisch triagiert und bei nicht dringenden Fällen umgeleitet.",
+          "tipNl": "Bel voordat je erheen rijdt de spoedlijn, daar wordt telefonisch getrieerd en bij niet-dringende gevallen doorverwezen."
         },
         {
           "name": "Veterinární klinika Lentilka",
@@ -820,7 +909,9 @@
           "descriptionPt": "Clínica moderna para pequenhos animales no sur de Brno, medicina general, vacunas, cirugía, odontología, ecografía. Llamadas fora de horário derivadas a urgências VFU.",
           "tipPt": "Hablan inglês com fluidez e aceitam visitas sem cita para vacunas e microchips antes das 11:00.",
           "descriptionDe": "Moderne Tagesklinik für Kleintiere im Süden Brünns, Allgemeinmedizin, Impfungen, Chirurgie, Zahnheilkunde, Ultraschall. Anrufe außerhalb der Öffnungszeiten werden an die VFU-Notaufnahme weitergeleitet.",
-          "tipDe": "Man spricht dort fließend Englisch und nimmt vor 11:00 Uhr auch ohne Termin Patienten für Impfungen und Mikrochip-Kontrollen an."
+          "descriptionNl": "Moderne dagkliniek voor kleine huisdieren in het zuiden van Brno, algemene geneeskunde, vaccinaties, chirurgie, tandheelkunde, echografie. Oproepen buiten openingstijden worden doorgeschakeld naar de spoedeisende hulp van VFU.",
+          "tipDe": "Man spricht dort fließend Englisch und nimmt vor 11:00 Uhr auch ohne Termin Patienten für Impfungen und Mikrochip-Kontrollen an.",
+          "tipNl": "Daar spreekt men vloeiend Engels en voor 11:00 uur worden ook zonder afspraak patiënten aangenomen voor vaccinaties en microchipcontroles."
         },
         {
           "name": "Veterina Avetum",
@@ -844,7 +935,9 @@
           "descriptionPt": "Clínica para pequenhos animales a norte de Brno (bairro Lesná), medicina general, microchip, expedición de passaporte europeu, consultas conductuales.",
           "tipPt": "Útil para emitir/actualizar um passaporte europeu en viaje, Avetum cobra uns 800 CZK por passaporte, 600 CZK por microchip.",
           "descriptionDe": "Kleintierklinik im Norden Brünns (Stadtteil Lesná), Allgemeinpraxis, Mikrochipping, Ausstellung von EU-Heimtierausweisen, Verhaltensberatung.",
-          "tipDe": "Nützlich, um während der Reise einen EU-Heimtierausweis auszustellen oder zu aktualisieren, Avetum berechnet etwa 800 CZK für einen Ausweis, 600 CZK für einen Mikrochip."
+          "descriptionNl": "Kleindierenkliniek in het noorden van Brno (wijk Lesná), algemene praktijk, microchippen, uitgifte van EU-huisdierenpaspoorten, gedragsadvies.",
+          "tipDe": "Nützlich, um während der Reise einen EU-Heimtierausweis auszustellen oder zu aktualisieren, Avetum berechnet etwa 800 CZK für einen Ausweis, 600 CZK für einen Mikrochip.",
+          "tipNl": "Handig om tijdens de reis een EU-huisdierenpaspoort te laten uitgeven of bijwerken, Avetum rekent ongeveer 800 CZK voor een paspoort, 600 CZK voor een microchip."
         }
       ],
       "tipsEn": [
@@ -910,7 +1003,9 @@
         }
       ],
       "titleDe": "24-Stunden-Notfalltierärzte in Brünn, Tierkliniken & Haustierbetreuung",
+      "titleNl": "24-uurs spoedeisende dierenartsen in Brno, dierenklinieken & huisdierenzorg",
       "introDe": "Brünn beherbergt die Universität für Veterinärmedizin und Pharmazie, eine der führenden Tiermedizin-Hochschulen Mitteleuropas, mit einem Lehrkrankenhaus, das zugleich als 24-Stunden-Notfall-Überweisungszentrum dient.",
+      "introNl": "Brno huisvest de Universiteit voor Diergeneeskunde en Farmacie, een van de toonaangevende diergeneeskundige hogescholen van Midden-Europa, met een academisch ziekenhuis dat tevens dienstdoet als 24-uurs spoedverwijscentrum.",
       "faqsDe": [
         {
           "q": "Wo ist der 24-Stunden-Notfalltierarzt in Brünn?",
@@ -919,6 +1014,16 @@
         {
           "q": "Brauche ich einen Heimtierausweis für Brünn?",
           "a": "Ja, für die Einreise von außerhalb Tschechiens. EU-Heimtierausweis mit Tollwutimpfung (≥21 Tage, nicht abgelaufen) und ISO-Mikrochip, gemäß Standard-EU-Regeln. Keine zusätzlichen tschechischen Sonderdokumente nötig."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar is de 24-uurs spoeddierenarts in Brno?",
+          "a": "VFU-dierenkliniek aan de Palackého třída 1946/1, +420 541 562 111. Dag en nacht open voor spoedgevallen en met de meest uitgebreide specialistische dekking van het land."
+        },
+        {
+          "q": "Heb ik een huisdierenpaspoort nodig voor Brno?",
+          "a": "Ja, voor binnenkomst van buiten Tsjechië. EU-huisdierenpaspoort met rabiësvaccinatie (≥21 dagen, niet verlopen) en ISO-microchip, volgens de standaard EU-regels. Geen extra Tsjechische speciale documenten nodig."
         }
       ]
     },
@@ -937,7 +1042,8 @@
           "descriptionFr": "Mai-juin et septembre sont idéaux, maxima moyens 20-24 °C, vendanges de Moravie du Sud en septembre, et le centre est plus calme que pendant le pic du marché de Noël de novembre-décembre.",
           "descriptionEs": "Mayo-junio y septiembre son ideales, máximas medias 20-24 °C, vendimia de Moravia del Sur en septiembre, y el centro está más tranquilo que durante el pico del mercado navideño de noviembre-diciembre.",
           "descriptionPt": "Maio-junho e setembro são ideais, máximas médias de 20 a 24 °C, vindima da Morávia do Sul em setembro, e o centro fica mais tranquilo do que durante o pico do mercado de Natal de novembro-dezembro.",
-          "descriptionDe": "Mai-Juni und September sind ideal, mit durchschnittlichen Höchstwerten von 20-24 °C, der südmährischen Weinlese im September, und einem ruhigeren Stadtzentrum als während der Hochsaison der Weihnachtsmärkte im November-Dezember."
+          "descriptionDe": "Mai-Juni und September sind ideal, mit durchschnittlichen Höchstwerten von 20-24 °C, der südmährischen Weinlese im September, und einem ruhigeren Stadtzentrum als während der Hochsaison der Weihnachtsmärkte im November-Dezember.",
+          "descriptionNl": "Mei-juni en september zijn ideaal, met gemiddelde hoogtes van 20-24 °C, de Zuid-Moravische wijnoogst in september, en een rustiger stadscentrum dan tijdens het hoogseizoen van de kerstmarkten in november-december."
         },
         {
           "name": "Currency & cost",
@@ -946,7 +1052,8 @@
           "descriptionFr": "La République tchèque utilise la couronne tchèque (CZK), pas l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, mais les petites pivnice préfèrent souvent les espèces. Les suppléments animaux dans les hôtels de Brno tournent autour de 9-15 €/nuit, moitié moins que la moyenne UE et l'un des plus bas d'Europe.",
           "descriptionEs": "Chequia usa la corona checa (CZK), no el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, pero las pivnice pequeñas suelen preferir efectivo. Los suplementos para mascotas en hoteles de Brno rondan 9-15 €/noche, la mitad de la media UE y uno de los más bajos de Europa.",
           "descriptionPt": "Chequia usa a corona checa (CZK), no o euro. A maioria de hotéis e restaurantes admite Visa/Mastercard, mas as pivnice pequenhas costumam preferir efectivo. Os suplementos para animais en hotéis de Brno rondan 9-15 €/noite, a mitad da media UE e uno dois mais bajos de Europa.",
-          "descriptionDe": "Tschechien nutzt die tschechische Krone (CZK), nicht den Euro. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, aber kleine Pivnice wollen oft Bargeld. Haustierzuschläge in Brünner Hotels liegen im Schnitt bei 9-15 €/Nacht, halb so viel wie der EU-Durchschnitt und eine der niedrigsten Raten in Europa."
+          "descriptionDe": "Tschechien nutzt die tschechische Krone (CZK), nicht den Euro. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, aber kleine Pivnice wollen oft Bargeld. Haustierzuschläge in Brünner Hotels liegen im Schnitt bei 9-15 €/Nacht, halb so viel wie der EU-Durchschnitt und eine der niedrigsten Raten in Europa.",
+          "descriptionNl": "Tsjechië gebruikt de Tsjechische kroon (CZK), niet de euro. De meeste hotels en restaurants accepteren Visa/Mastercard, maar kleine pivnice willen vaak contant geld. Huisdiertoeslagen in hotels in Brno liggen gemiddeld op 9-15 €/nacht, half zo veel als het EU-gemiddelde en een van de laagste tarieven van Europa."
         },
         {
           "name": "Languages",
@@ -955,7 +1062,8 @@
           "descriptionFr": "Le tchèque est la langue officielle. L'anglais est largement parlé dans le tourisme (hôtels, restaurants centraux, vétérinaires) et l'allemand courant chez les Tchèques plus âgés et dans la région viticole frontalière de Vienne. Phrase tchèque utile : « Mám psa » = « J'ai un chien ».",
           "descriptionEs": "El checo es la lengua oficial. El inglés se habla ampliamente en el turismo (hoteles, restaurantes céntricos, veterinarios) y el alemán es común entre checos mayores y en la región vinícola fronteriza con Viena. Frase checa útil: « Mám psa » = « Tengo un perro ».",
           "descriptionPt": "O checo é a lengua oficial. O inglês se habla ampliamente no turismo (hotéis, restaurantes céntricos, veterinários) e o alemão é común entre checos mayores e na região vinícola fronteriza com Viena. Frase checa útil: « Mám psa » = « Tengo um cão ».",
-          "descriptionDe": "Tschechisch ist die Amtssprache. Englisch wird im Tourismus (Hotels, zentrale Restaurants, Tierärzte) weit verbreitet gesprochen, und Deutsch ist bei älteren Tschechen sowie in der an Wien grenzenden Weinregion verbreitet. Nützlicher tschechischer Satz: 'Mám psa' = 'Ich habe einen Hund'."
+          "descriptionDe": "Tschechisch ist die Amtssprache. Englisch wird im Tourismus (Hotels, zentrale Restaurants, Tierärzte) weit verbreitet gesprochen, und Deutsch ist bei älteren Tschechen sowie in der an Wien grenzenden Weinregion verbreitet. Nützlicher tschechischer Satz: 'Mám psa' = 'Ich habe einen Hund'.",
+          "descriptionNl": "Tsjechisch is de officiële taal. Engels wordt breed gesproken in het toerisme (hotels, centrale restaurants, dierenartsen), en Duits is gangbaar bij oudere Tsjechen en in de wijnregio grenzend aan Wenen. Handige Tsjechische zin: 'Mám psa' = 'Ik heb een hond'."
         }
       ],
       "tipsEn": [
@@ -1021,7 +1129,9 @@
         }
       ],
       "titleDe": "Mit Hund nach Brünn reisen: Praktische Tipps",
+      "titleNl": "Met hond naar Brno reizen: praktische tips",
       "introDe": "Brünn ist eines der am meisten unterschätzten Hundereiseziele Mitteleuropas: kompaktes mittelalterliches Zentrum, dichte Pub-Kultur, 14 eingezäunte Freilaufzonen, schnelle Züge nach Wien und Prag, und Preise, die halb so hoch sind wie in Westeuropa.",
+      "introNl": "Brno is een van de meest onderschatte hondreisbestemmingen van Midden-Europa: compact middeleeuws centrum, dichte pubcultuur, 14 omheinde loslopzones, snelle treinen naar Wenen en Praag, en prijzen die half zo hoog zijn als in West-Europa.",
       "faqsDe": [
         {
           "q": "Eignet sich Brünn für ein hundefreundliches Wochenende?",
@@ -1030,6 +1140,16 @@
         {
           "q": "Wie schneidet Brünn im Vergleich zu Prag für Hundereisen ab?",
           "a": "Brünn ist günstiger, kleiner, weniger touristisch, mit womöglich besserer Freilauf-Infrastruktur (14 eingezäunte Zonen gegenüber Prags schmalerer Auswahl). Prag hat mehr hundefreundliche Hoteloptionen und Direktflüge ins Ausland. Brünn gewinnt für eine ruhige Reise mit Hund; Prag für einen längeren Aufenthalt mit mehr Abwechslung."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Brno geschikt voor een hondvriendelijk weekend?",
+          "a": "Ja, Brno is een van de hondvriendelijkste kleine steden van Midden-Europa. Compact, goed te voet te verkennen centrum, dichte pubcultuur die honden standaard verwelkomt, 14 omheinde loslopzones, een stuwmeer om het hele jaar in te zwemmen op 25 minuten met de tram, en half zo duur als Wenen of Praag."
+        },
+        {
+          "q": "Hoe verhoudt Brno zich tot Praag voor reizen met hond?",
+          "a": "Brno is goedkoper, kleiner, minder toeristisch, met mogelijk betere loslopinfrastructuur (14 omheinde zones tegenover het smallere aanbod van Praag). Praag heeft meer hondvriendelijke hotelopties en directe internationale vluchten. Brno wint voor een rustige reis met hond; Praag voor een langer verblijf met meer variatie."
         }
       ]
     },
@@ -1061,8 +1181,11 @@
           "petPolicyPt": "Cães grátis en jardins; só de asistencia dentro",
           "tipPt": "A esplanada por baixo da muralha sul oferece o melhor panorama do centro histórico de Brno ao pôr do sol.",
           "descriptionDe": "Die Hügelburg, die Brünn überragt, mit äußeren Wällen, Terrassen und dem bewaldeten Park rund um die Burg, alle mit angeleintem Hund kostenlos zugänglich. Das Innenmuseum lässt nur Assistenzhunde zu.",
+          "descriptionNl": "De heuvelburcht die boven Brno uittorent, met buitenwallen, terrassen en het beboste park rond de burcht, allemaal gratis toegankelijk met een aangelijnde hond. Het binnenmuseum laat alleen assistentiehonden toe.",
           "petPolicyDe": "Hunde auf dem Gelände kostenlos; drinnen nur Assistenzhunde",
-          "tipDe": "Die Terrasse unterhalb der Südmauer bietet bei Sonnenuntergang das beste Panorama über Brünns Altstadt."
+          "petPolicyNl": "Honden op het terrein gratis; binnen alleen assistentiehonden",
+          "tipDe": "Die Terrasse unterhalb der Südmauer bietet bei Sonnenuntergang das beste Panorama über Brünns Altstadt.",
+          "tipNl": "Het terras onder de zuidmuur biedt bij zonsondergang het beste panorama over de oude binnenstad van Brno."
         },
         {
           "name": "Villa Tugendhat (exterior)",
@@ -1084,8 +1207,11 @@
           "petPolicyPt": "Cães en jardim; só de asistencia dentro",
           "tipPt": "Passeio grátis de 5 min a partir da parada de elétrico Černopolní (línea 5), a vista a partir da verja é a foto arquitetónica clave.",
           "descriptionDe": "Mies van der Rohes modernistisches Meisterwerk von 1930, seit 2001 UNESCO-Welterbe. Der Hanggarten und die Straßenansicht sind hundefreundlich; die Innenführung lässt nur Assistenzhunde zu. Am besten von der unteren Terrasse und der Straßenansicht der Černopolní zu bewundern.",
+          "descriptionNl": "Het modernistische meesterwerk van Mies van der Rohe uit 1930, sinds 2001 UNESCO-werelderfgoed. De hellingtuin en het straataanzicht zijn hondvriendelijk; de binnenrondleiding laat alleen assistentiehonden toe. Het beste te bewonderen vanaf het lagere terras en het straataanzicht aan de Černopolní.",
           "petPolicyDe": "Hunde im Garten; drinnen nur Assistenzhunde",
-          "tipDe": "Kostenloser 5-minütiger Spaziergang von der Straßenbahnhaltestelle Černopolní (Linie 5), der Blick vom Tor ist die architektonische Postkartenansicht."
+          "petPolicyNl": "Honden in de tuin; binnen alleen assistentiehonden",
+          "tipDe": "Kostenloser 5-minütiger Spaziergang von der Straßenbahnhaltestelle Černopolní (Linie 5), der Blick vom Tor ist die architektonische Postkartenansicht.",
+          "tipNl": "Gratis wandeling van 5 minuten vanaf tramhalte Černopolní (lijn 5), het uitzicht vanaf de poort is het architectonische plaatje."
         },
         {
           "name": "Mendel Monastery Garden",
@@ -1107,8 +1233,11 @@
           "petPolicyPt": "Cães en jardim; só de asistencia dentro",
           "tipPt": "Combine com o pub de cerveja artesanal Stará pekárna na mesma praça, acolhedor de cães no interior.",
           "descriptionDe": "Das Augustinerkloster, in dem Gregor Mendel mit seinen Erbsenpflanzen die Vererbungsgesetze entdeckte, der Garten, in dem seine ursprünglichen Experimente stattfanden, ist für Hunde an der Leine zugänglich. Das Mendel-Museum lässt nur Assistenzhunde zu.",
+          "descriptionNl": "Het augustijnenklooster waar Gregor Mendel met zijn erwtenplanten de overervingswetten ontdekte, de tuin waarin zijn oorspronkelijke experimenten plaatsvonden, is toegankelijk voor honden aan de lijn. Het Mendelmuseum laat alleen assistentiehonden toe.",
           "petPolicyDe": "Hunde im Garten; drinnen nur Assistenzhunde",
-          "tipDe": "Mit dem Craft-Beer-Pub Stará pekárna auf demselben Platz kombinieren, drinnen hundefreundlich."
+          "petPolicyNl": "Honden in de tuin; binnen alleen assistentiehonden",
+          "tipDe": "Mit dem Craft-Beer-Pub Stará pekárna auf demselben Platz kombinieren, drinnen hundefreundlich.",
+          "tipNl": "Combineer met craft-beer pub Stará pekárna aan hetzelfde plein, binnen hondvriendelijk."
         }
       ],
       "tipsEn": [
@@ -1174,7 +1303,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Brünn",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Brno",
       "introDe": "Die meisten der bekannten Aussichten Brünns liegen im Freien und sind hundefreundlich, das Gelände der Burg Špilberk, der Innenhof der Petrov-Kathedrale, der Garten des Mendel-Klosters und das Äußere der funktionalistischen Villa Tugendhat heißen angeleinte Hunde alle willkommen.",
+      "introNl": "De meeste bekende uitzichten van Brno bevinden zich buiten en zijn hondvriendelijk, het terrein van kasteel Špilberk, de binnenplaats van de Petrov-kathedraal, de tuin van het Mendelklooster en de buitenkant van de functionalistische Villa Tugendhat heten allemaal honden aan de lijn welkom.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund zur Burg Špilberk mitnehmen?",
@@ -1183,6 +1314,16 @@
         {
           "q": "Sind Hunde bei der Villa Tugendhat erlaubt?",
           "a": "Im umliegenden Garten und entlang der Straßenansicht ja, an der Leine. Die architektonische Innenführung lässt nur Assistenzhunde zu."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar kasteel Špilberk?",
+          "a": "Op het terrein en in het omliggende park wel, aan de lijn, gratis. Het binnenste van het kasteelmuseum laat alleen assistentiehonden toe."
+        },
+        {
+          "q": "Zijn honden toegestaan bij Villa Tugendhat?",
+          "a": "In de omliggende tuin en langs het straataanzicht wel, aan de lijn. De architectonische binnenrondleiding laat alleen assistentiehonden toe."
         }
       ]
     },
@@ -1211,7 +1352,9 @@
           "descriptionPt": "Plataforma internacional com uns 25 cuidadores verificados com base en Chequia num radio de 5 km do centro, visitas a domicilio, guardería diurna, alojamento nocturno. Todos os cuidadores estão verificados, seguro incluido.",
           "tipPt": "Filtra por cuidadores que hablen inglês nos ajustes, alrededor do 60 % dois cuidadores de Brno habla inglês com fluidez.",
           "descriptionDe": "Internationale Plattform für Haustierbetreuung mit etwa 25 verifizierten tschechischen Sittern innerhalb von 5 km um das Zentrum Brünns, Kurzbesuche, Hunde-Tagesbetreuung, Übernachtung. Alle Sitter sind geprüft, Versicherung inbegriffen.",
-          "tipDe": "In den Plattformeinstellungen nach englischsprachigen Sittern filtern, etwa 60% der Brünner Sitter sprechen fließend Englisch."
+          "descriptionNl": "Internationaal platform voor huisdierenzorg met ongeveer 25 geverifieerde Tsjechische oppassers binnen 5 km van het centrum van Brno, korte bezoekjes, hondendagopvang, overnachting. Alle oppassers zijn gescreend, verzekering inbegrepen.",
+          "tipDe": "In den Plattformeinstellungen nach englischsprachigen Sittern filtern, etwa 60% der Brünner Sitter sprechen fließend Englisch.",
+          "tipNl": "Filter in de platforminstellingen op Engelssprekende oppassers, ongeveer 60% van de oppassers in Brno spreekt vloeiend Engels."
         },
         {
           "name": "Hlídání-psů.cz",
@@ -1229,7 +1372,9 @@
           "descriptionPt": "Plataforma exclusivamente checa com 15-20 cuidadores verificados de Brno e línea veterinária 24/7 incluida en cada reserva. Tarifa media 250-400 CZK/dia para alojamento (10-16 €), 150 CZK por visita de 30 min.",
           "tipPt": "Reserva al menos 48h antes en verão, os cuidadores mais populares têm 3-4 semanas de lista de espera en agosto.",
           "descriptionDe": "Rein tschechische Plattform mit 15-20 verifizierten Sittern in Brünn und einer 24/7-Tierarzt-Telefonhotline bei jeder Buchung inbegriffen. Durchschnittspreis 250-400 CZK/Tag für Übernachtung (10-16 €), 150 CZK für einen 30-minütigen Kurzbesuch.",
-          "tipDe": "Im Sommer mindestens 48 Stunden im Voraus buchen, die beliebtesten Sitter haben im August eine Warteliste von 3-4 Wochen."
+          "descriptionNl": "Puur Tsjechisch platform met 15-20 geverifieerde oppassers in Brno en een 24/7-dierenarts-telefoonlijn inbegrepen bij elke boeking. Gemiddelde prijs 250-400 CZK/dag voor overnachting (10-16 €), 150 CZK voor een kort bezoek van 30 minuten.",
+          "tipDe": "Im Sommer mindestens 48 Stunden im Voraus buchen, die beliebtesten Sitter haben im August eine Warteliste von 3-4 Wochen.",
+          "tipNl": "Boek 's zomers minstens 48 uur van tevoren, de populairste oppassers hebben in augustus een wachtlijst van 3-4 weken."
         }
       ],
       "tipsEn": [
@@ -1295,7 +1440,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Brünn",
+      "titleNl": "Huisdierenzorg & uitlaatservice in Brno",
       "introDe": "Für Tagesausflüge, bei denen der Hund nicht mitkommen kann (Innere der Villa Tugendhat, Mendel-Museum, Kasematten des Špilberk), bietet Brünn zuverlässige, verifizierte Haustierbetreuung über internationale und lokale tschechische Plattformen.",
+      "introNl": "Voor dagtochten waarbij de hond niet mee kan (binnenkant van Villa Tugendhat, Mendelmuseum, kazematten van Špilberk) biedt Brno betrouwbare, geverifieerde huisdierenzorg via internationale en lokale Tsjechische platforms.",
       "faqsDe": [
         {
           "q": "Wie viel kostet Hunde-Tagesbetreuung in Brünn?",
@@ -1304,6 +1451,16 @@
         {
           "q": "Finde ich in Brünn einen englischsprachigen Sitter?",
           "a": "Ja, etwa 60% der Brünner Sitter auf Pawshake sprechen fließend Englisch. Die Plattform nach Sprache filtern und aktuelle Bewertungen lesen, um die Sprachkenntnisse zu bestätigen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost hondendagopvang in Brno?",
+          "a": "250-400 CZK (10-16 €) per dag, afhankelijk van oppasser en hondgrootte, via Pawshake of Hlídání-psů.cz. Korte bezoekjes kosten 150-200 CZK voor 30 minuten."
+        },
+        {
+          "q": "Vind ik in Brno een Engelssprekende oppasser?",
+          "a": "Ja, ongeveer 60% van de oppassers in Brno op Pawshake spreekt vloeiend Engels. Filter het platform op taal en lees recente beoordelingen om de taalvaardigheid te bevestigen."
         }
       ]
     }

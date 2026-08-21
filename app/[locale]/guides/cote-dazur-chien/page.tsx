@@ -19,6 +19,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   es: { label: `Hoteles del road trip por la Costa Azul con perro`, cta: 'Ver hoteles' },
   pt: { label: `Hotéis do road trip pela Riviera Francesa com cão`, cta: 'Ver hotéis' },
   de: { label: `Hotels für den Roadtrip an der Côte d'Azur mit Hund`, cta: 'Hotels ansehen' },
+  nl: { label: `Hotels voor de road trip aan de Côte d'Azur met je hond`, cta: 'Bekijk hotels' },
 }
 
 export async function generateStaticParams() {
@@ -39,6 +40,7 @@ export async function generateMetadata({
     es: `Road trip pet-friendly por la Costa Azul en 5 días: Niza, Antibes, Cannes y Menton (2026)`,
     pt: `Road trip pet-friendly pela Riviera Francesa em 5 dias: Nice, Antibes, Cannes e Menton (2026)`,
     de: `5-tägiger hundefreundlicher Roadtrip an der Côte d'Azur: Nice, Antibes, Cannes und Menton (2026)`,
+    nl: `5-daagse hondvriendelijke road trip aan de Côte d'Azur: Nice, Antibes, Cannes en Menton (2026)`,
   }
 
   const descriptions: Record<string, string> = {
@@ -47,6 +49,7 @@ export async function generateMetadata({
     es: `Un road trip de 5 días por la Costa Azul con perro: Niza, Antibes Cap d'Antibes, Cannes y Menton. Mapa, itinerario día a día, hoteles pet-friendly verificados, normativa de playas y tiempos de conducción.`,
     pt: `Um road trip de 5 dias pela Riviera Francesa com cão: Nice, Antibes Cap d'Antibes, Cannes e Menton. Mapa, itinerário dia a dia, hotéis pet-friendly verificados, regras nas praias e tempos de condução.`,
     de: `Ein 5-tägiger hundefreundlicher Roadtrip an der Côte d'Azur: Nice, Antibes Cap d'Antibes, Cannes und Menton. Karte, Tag-für-Tag-Reiseplan, geprüfte hundefreundliche Hotels, Regeln für Strände, Fahrzeiten.`,
+    nl: `Een 5-daagse hondvriendelijke road trip langs de Côte d'Azur: Nice, Antibes Cap d'Antibes, Cannes en Menton. Kaart, dagindeling, geverifieerde hondvriendelijke hotels, regels voor de stranden, rijtijden.`,
   }
 
   const today = new Date().toISOString().split('T')[0]
@@ -62,6 +65,7 @@ export async function generateMetadata({
         es: `${SITE_URL}/es/guides/${SLUG}`,
         pt: `${SITE_URL}/pt/guides/${SLUG}`,
         de: `${SITE_URL}/de/guides/${SLUG}`,
+        nl: `${SITE_URL}/nl/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },
@@ -83,18 +87,20 @@ type Stop = {
   slug: string
   name: string
   nights: number
-  drive: { fr: string; en: string; es: string; pt: string; de: string }
+  drive: { fr: string; en: string; es: string; pt: string; de: string; nl: string }
   whyEn: string
   whyFr: string
   whyEs: string
   whyPt: string
   whyDe: string
+  whyNl: string
   highlightsEn: string[]
   highlightsFr: string[]
   highlightsEs: string[]
   highlightsPt: string[]
   highlightsDe: string[]
-  hotels: { name: string; pitchEn: string; pitchFr: string; pitchEs: string; pitchPt: string; pitchDe: string }[]
+  highlightsNl: string[]
+  hotels: { name: string; pitchEn: string; pitchFr: string; pitchEs: string; pitchPt: string; pitchDe: string; pitchNl: string }[]
   hasDestPage?: boolean
 }
 
@@ -109,12 +115,14 @@ const STOPS: Stop[] = [
       es: `Llegada - vuelo directo al aeropuerto Niza Costa Azul (NCE) y luego 20 min en taxi o tranvía línea 2 hasta el centro. Parking Sulzer (admite perros) y luego todo a pie.`,
       pt: `Chegada - voo directo para o aeroporto Nice Côte d'Azur (NCE), depois 20 min de táxi ou eléctrico linha 2 até ao centro. Parking Sulzer (cães admitidos) e depois tudo a pé.`,
       de: `Ankunft - Direktflug zum Flughafen Nice Côte d'Azur (NCE), dann 20 Min. Taxi oder Straßenbahnlinie 2 ins Zentrum. Parking Sulzer (Hunde erlaubt) und danach alles zu Fuß.`,
+      nl: `Aankomst - directe vlucht naar luchthaven Nice Côte d'Azur (NCE), daarna 20 min taxi of tramlijn 2 naar het centrum. Parking Sulzer (honden toegestaan) en daarna alles te voet.`,
     },
     whyEn: `Nice sets the tone: a city built for walking with a dog, anchored by the 7 km Promenade des Anglais, the year-round leashed-dog policy on the pebble beach below (after 21:00 in summer, anytime off-season), and the cool greenery of the Colline du Château that lifts you 92 m above the old town for a Mediterranean panorama.`,
     whyFr: `Nice donne le ton : ville faite pour marcher avec son chien, articulée autour des 7 km de la Promenade des Anglais, la politique chien en laisse acceptée sur la plage de galets en contrebas (après 21h en été, tout le temps hors saison), et la fraîcheur boisée de la Colline du Château qui vous élève à 92 m au-dessus du Vieux-Nice pour un panorama méditerranéen.`,
     whyEs: `Niza marca el tono: ciudad hecha para pasear con perro, articulada en torno a los 7 km del Paseo de los Ingleses, la política de perro con correa admitido en la playa de cantos rodados de abajo (después de las 21h en verano, todo el día fuera de temporada) y el frescor arbolado de la Colline du Château que sube a 92 m sobre el casco antiguo con panorámica mediterránea.`,
     whyPt: `Nice dá o tom: uma cidade feita para passear com cão, ancorada nos 7 km do Passeio dos Ingleses, na política de cão à trela aceite na praia de seixos abaixo (após as 21h no verão, sempre fora de época) e na frescura arborizada da Colline du Château que sobe a 92 m sobre a cidade velha para um panorama mediterrânico.`,
     whyDe: `Nice gibt den Ton an: eine Stadt, die zum Spazierengehen mit Hund gemacht ist, verankert an der 7 km langen Promenade des Anglais, der ganzjährigen Regelung für angeleinte Hunde am Kiesstrand darunter (im Sommer ab 21 Uhr, außerhalb der Saison jederzeit) und dem kühlen Grün der Colline du Château, die Sie 92 m über die Altstadt hinauf zu einem mediterranen Panorama führt.`,
+    whyNl: `Nice zet direct de toon: een stad gemaakt om met je hond te wandelen, gebouwd rond de 7 km lange Promenade des Anglais, het hele jaar geldende beleid voor aangelijnde honden op het kiezelstrand eronder (na 21.00 uur in de zomer, buiten het seizoen de hele dag), en het koele groen van de Colline du Château dat je 92 m boven de oude stad tilt voor een mediterraan panorama.`,
     highlightsEn: [
       `Promenade des Anglais (7 km seafront, dogs welcome on leash year-round)`,
       `Vieille Ville: narrow shaded lanes, Cours Saleya market terrace dog-tolerant`,
@@ -145,6 +153,12 @@ const STOPS: Stop[] = [
       `Colline du Château: kostenloser Park mit Stadtpanorama, Hunde an der Leine`,
       `Straßenbahnlinien 1 und 2: angeleinte Hunde kostenlos, bei großen Hunden Maulkorbpflicht`,
     ],
+    highlightsNl: [
+      `Promenade des Anglais (7 km aan zee, honden het hele jaar aangelijnd welkom)`,
+      `Vieille Ville: smalle beschaduwde steegjes, terrassen van de Cours Saleya hondvriendelijk`,
+      `Colline du Château: gratis park met uitzicht over de stad, honden aan de lijn`,
+      `Tramlijnen 1 en 2: aangelijnde honden gratis, muilkorf verplicht bij grote honden`,
+    ],
     hotels: [
       {
         name: 'Hyatt Regency Nice Palais de la Méditerranée',
@@ -153,6 +167,7 @@ const STOPS: Stop[] = [
         pitchEs: `En pleno Paseo de los Ingleses. Perros hasta 14 kg admitidos, cama y comedero a petición, andando a la playa y al casco antiguo.`,
         pitchPt: `Mesmo na Promenade des Anglais. Cães até 14 kg aceites, cama e tigela fornecidas a pedido, a pé da praia e da cidade velha.`,
         pitchDe: `Direkt an der Promenade des Anglais. Haustiere bis 14 kg willkommen, Hundebett und Napf auf Anfrage, fußläufig zum Strand und zur Altstadt.`,
+        pitchNl: `Direct aan de Promenade des Anglais. Huisdieren tot 14 kg welkom, hondenmand en bak op aanvraag, loopafstand van het strand en de oude stad.`,
       },
       {
         name: 'Hôtel La Pérouse Nice Baie des Anges',
@@ -161,6 +176,7 @@ const STOPS: Stop[] = [
         pitchEs: `Excavado en la Colina del Castillo sobre el puerto viejo. Habitaciones tranquilas con vistas al mar, perros con correa bienvenidos, 4 min andando al parque de la colina.`,
         pitchPt: `Encravado na Colina do Castelo acima do porto velho. Quartos calmos com vista mar, cães à trela bem-vindos, 4 min a pé do parque da colina.`,
         pitchDe: `In den Felsen der Colline du Château über dem alten Hafen eingebettet. Ruhige Zimmer mit Meerblick, angeleinte Hunde in Lobby und Zimmer willkommen, nur 4 Gehminuten zur Grünfläche der Colline du Château.`,
+        pitchNl: `Uitgehouwen in de Colline du Château boven de oude haven. Rustige kamers met zeezicht, aangelijnde honden welkom in lobby en kamer, op 4 minuten lopen van het groene park van de Colline du Château.`,
       },
     ],
     hasDestPage: true,
@@ -175,12 +191,14 @@ const STOPS: Stop[] = [
       es: `Niza a Antibes: 25 km, ~35 min por la A8 o la Basse Corniche escénica más lenta. Dos noches es la duración justa: el Cap d'Antibes solo es media jornada completa con perro.`,
       pt: `Nice a Antibes: 25 km, ~35 min pela A8 ou pela Basse Corniche cénica mais lenta. Duas noites é a duração certa: o Cap d'Antibes sozinho é meia tarde com cão.`,
       de: `Nice nach Antibes: 25 km, ~35 Min. über die A8 oder die langsamere, malerische Basse Corniche. Zwei Nächte sind die richtige Dauer: allein der Cap d'Antibes füllt mit Hund einen halben Tag.`,
+      nl: `Nice naar Antibes: 25 km, ~35 min via de A8 of de tragere, schilderachtige Basse Corniche. Twee nachten is de juiste lengte: alleen al Cap d'Antibes vult met een hond een halve dag.`,
     },
     whyEn: `Antibes is the heart of this loop and where the conversion data points: Cap d'Antibes packs a 5 km coastal trail (Sentier du Littoral) where leashed dogs are welcome year-round, the Vieille Ville inside Vauban's ramparts is compact and shaded, and Juan-les-Pins next door swaps the maritime quiet for pine forests and beach clubs that quietly accept polite dogs on terrace.`,
     whyFr: `Antibes est le cœur de la boucle et là où la conversion nous pousse : le Cap d'Antibes offre 5 km de Sentier du Littoral où les chiens en laisse sont bienvenus toute l'année, la Vieille Ville dans les remparts Vauban est compacte et ombragée, et Juan-les-Pins à côté troque le calme marin contre des pinèdes et des plages clubs qui acceptent discrètement les chiens sages en terrasse.`,
     whyEs: `Antibes es el corazón del circuito y donde apunta la conversión: el Cap d'Antibes ofrece 5 km de Sentier du Littoral con perros con correa admitidos todo el año, el casco antiguo dentro de las murallas Vauban es compacto y sombreado, y Juan-les-Pins al lado cambia la calma marítima por pinares y clubes de playa que aceptan perros tranquilos en terraza.`,
     whyPt: `Antibes é o coração do circuito e para onde a conversão aponta: o Cap d'Antibes oferece 5 km de Sentier du Littoral com cães à trela bem-vindos todo o ano, a cidade velha dentro das muralhas Vauban é compacta e sombreada, e Juan-les-Pins ao lado troca a calma marítima por pinhais e clubes de praia que aceitam discretamente cães educados em esplanada.`,
     whyDe: `Antibes ist das Herz dieser Route und dort, wo die Zahlen es zeigen: Der Cap d'Antibes bietet 5 km Sentier du Littoral, auf dem angeleinte Hunde ganzjährig willkommen sind, die Altstadt innerhalb der Vauban-Festungsmauern ist kompakt und schattig, und das benachbarte Juan-les-Pins tauscht die maritime Ruhe gegen Pinienwälder und Strandclubs, die brave Hunde auf der Terrasse diskret akzeptieren.`,
+    whyNl: `Antibes is het hart van deze lus en waar de cijfers naar wijzen: Cap d'Antibes biedt 5 km Sentier du Littoral waar aangelijnde honden het hele jaar welkom zijn, de oude stad binnen de vestingmuren van Vauban is compact en beschaduwd, en het naburige Juan-les-Pins ruilt de maritieme rust in voor pijnbossen en strandclubs die brave honden discreet toelaten op het terras.`,
     highlightsEn: [
       `Sentier du Littoral Cap d'Antibes (5 km coastal path, leashed dogs year-round)`,
       `Marché Provençal Cours Masséna under the covered hall, dog-tolerant`,
@@ -211,6 +229,12 @@ const STOPS: Stop[] = [
       `Spaziergang am Hafen Port Vauban, Festungsmauern Bastion Saint-André`,
       `Pinienwald von Juan-les-Pins und Strand nahe dem Casino (Hunde außerhalb der Saison erlaubt)`,
     ],
+    highlightsNl: [
+      `Sentier du Littoral Cap d'Antibes (5 km kustpad, aangelijnde honden het hele jaar)`,
+      `Marché Provençal Cours Masséna onder de overdekte markthal, hondvriendelijk`,
+      `Wandeling langs de haven Port Vauban, vestingmuren van het Bastion Saint-André`,
+      `Dennenbos van Juan-les-Pins en strand aan de casinokant (honden toegestaan buiten het seizoen)`,
+    ],
     hotels: [
       {
         name: `Hôtel Beau Site Cap d'Antibes`,
@@ -219,6 +243,7 @@ const STOPS: Stop[] = [
         pitchEs: `A 200 m del inicio del Sentier du Littoral. Perros hasta 10 kg admitidos sin coste, jardín y piscina para descanso, calma del Cap d'Antibes lejos del bullicio.`,
         pitchPt: `A 200 m do início do Sentier du Littoral. Cães até 10 kg aceites sem custo, jardim e piscina para pausa, calma do Cap d'Antibes longe da multidão.`,
         pitchDe: `200 m vom Ausgangspunkt des Sentier du Littoral entfernt. Haustiere bis 10 kg ohne Aufpreis willkommen, Garten und Pool zum Entspannen, die ruhige Lage des Cap d'Antibes fernab des Sommertrubels.`,
+        pitchNl: `Op 200 m van het startpunt van de Sentier du Littoral. Huisdieren tot 10 kg gratis welkom, tuin en zwembad om tot rust te komen, de rust van Cap d'Antibes ver van de zomerdrukte.`,
       },
       {
         name: 'Royal Antibes Hotel',
@@ -227,6 +252,7 @@ const STOPS: Stop[] = [
         pitchEs: `Primera línea en la Plage de la Salis. Perros admitidos en habitaciones estándar (pequeño suplemento), acceso a playa privada (perros fuera de temporada), 10 min andando al casco antiguo y a las murallas.`,
         pitchPt: `Frente-mar na Plage de la Salis. Cães aceites em quartos standard (pequena taxa), acesso a praia privada (cães fora de época), 10 min a pé da cidade velha e muralhas.`,
         pitchDe: `Direkt an der Plage de la Salis. Haustiere in Standardzimmern erlaubt (kleine Gebühr), Zugang zum Privatstrand (Hunde außerhalb der Saison erlaubt), 10 Gehminuten zur Altstadt und den Festungsmauern.`,
+        pitchNl: `Direct aan de Plage de la Salis. Huisdieren toegestaan in standaardkamers (kleine toeslag), toegang tot privéstrand (honden buiten het seizoen), 10 minuten lopen naar de oude stad en de vestingmuren.`,
       },
     ],
     hasDestPage: true,
@@ -241,12 +267,14 @@ const STOPS: Stop[] = [
       es: `Antibes a Cannes: 12 km, ~25 min por la carretera costera. Aparca en el Parking Suquet para evitar los atascos de la Croisette y baja a pie.`,
       pt: `Antibes a Cannes: 12 km, ~25 min pela estrada costeira. Estacione no Parking Suquet para evitar engarrafamentos da Croisette e desça a pé.`,
       de: `Antibes nach Cannes: 12 km, ~25 Min. entlang der Küstenstraße. Parken Sie am Parking Suquet, um den Stau auf der Croisette zu vermeiden, und gehen Sie zu Fuß hinunter.`,
+      nl: `Antibes naar Cannes: 12 km, ~25 min langs de kustweg. Parkeer bij Parking Suquet om de files op de Croisette te vermijden en loop naar beneden.`,
     },
     whyEn: `Cannes layers the postcard sea-front (La Croisette, 2 km of palm-lined promenade where leashed dogs walk year-round) with the steep old town Le Suquet for a sunset climb, then ships you out for the day to the Île Sainte-Marguerite where the Trans Côte d'Azur ferry (dogs free in carrier or on leash) drops you in eucalyptus forest 15 min from the marina.`,
     whyFr: `Cannes superpose le bord de mer carte postale (la Croisette, 2 km bordés de palmiers où les chiens en laisse circulent toute l'année) avec le vieux Le Suquet pour grimper au coucher du soleil, puis vous éloigne à la journée sur l'Île Sainte-Marguerite où le ferry Trans Côte d'Azur (chiens gratuits en sac ou en laisse) vous dépose en forêt d'eucalyptus à 15 min du Vieux Port.`,
     whyEs: `Cannes superpone el frente marítimo postal (La Croisette, 2 km bordeados de palmeras con perros con correa todo el año) con el casco antiguo Le Suquet para subir al atardecer, y luego te aleja un día a la Île Sainte-Marguerite donde el ferri Trans Côte d'Azur (perros gratis en bolsa o con correa) te deja en bosque de eucaliptos a 15 min del Vieux Port.`,
     whyPt: `Cannes sobrepõe a frente-mar postal (La Croisette, 2 km bordejados de palmeiras com cães à trela todo o ano) com a cidade velha Le Suquet para subir ao pôr-do-sol, e leva-o por um dia à Île Sainte-Marguerite onde o ferry Trans Côte d'Azur (cães grátis em saco ou à trela) o deixa em floresta de eucaliptos a 15 min do Vieux Port.`,
     whyDe: `Cannes verbindet die postkartenreife Uferpromenade (La Croisette, 2 km palmengesäumte Promenade, auf der angeleinte Hunde ganzjährig unterwegs sind) mit der steilen Altstadt Le Suquet für einen Aufstieg zum Sonnenuntergang und schickt Sie dann für den Tag zur Île Sainte-Marguerite, wo die Fähre Trans Côte d'Azur (Hunde kostenlos in der Transporttasche oder an der Leine) Sie in einen Eukalyptuswald 15 Minuten vom Hafen entfernt bringt.`,
+    whyNl: `Cannes combineert de ansichtkaart-boulevard (La Croisette, 2 km palmbomenpromenade waar aangelijnde honden het hele jaar wandelen) met het steile oude centrum Le Suquet voor een klim bij zonsondergang, en stuurt je vervolgens voor een dagje naar het Île Sainte-Marguerite waar de veerboot Trans Côte d'Azur (honden gratis in draagtas of aan de lijn) je afzet in een eucalyptusbos, 15 min van de jachthaven.`,
     highlightsEn: [
       `La Croisette: 2 km seafront promenade, leashed dogs year-round`,
       `Le Suquet old town climb to Notre-Dame d'Espérance, sunset views`,
@@ -277,6 +305,12 @@ const STOPS: Stop[] = [
       `Fähre zur Île Sainte-Marguerite: Hunde kostenlos, Wanderwege im Eukalyptuswald`,
       `Marché Forville: überdachter provenzalischer Markt, hundefreundliche Gänge`,
     ],
+    highlightsNl: [
+      `La Croisette: 2 km boulevard aan zee, aangelijnde honden het hele jaar`,
+      `Klim door het oude Le Suquet naar Notre-Dame d'Espérance, uitzicht bij zonsondergang`,
+      `Veerboot naar Île Sainte-Marguerite: honden gratis, wandelpaden door eucalyptusbos`,
+      `Marché Forville: overdekte Provençaalse markt, hondvriendelijke gangpaden`,
+    ],
     hotels: [
       {
         name: 'Hotel Martinez',
@@ -285,6 +319,7 @@ const STOPS: Stop[] = [
         pitchEs: `Palacio icónico de La Croisette, perros hasta 10 kg admitidos en habitaciones deluxe, cama y obsequio de bienvenida, playa privada con acceso canino fuera de temporada.`,
         pitchPt: `Palácio icónico da Croisette, cães até 10 kg aceites em quartos deluxe, cama e amenity de boas-vindas, praia privada com acesso canino fora de época.`,
         pitchDe: `Ikonischer Palast an der Croisette, Haustiere bis 10 kg in Deluxe-Zimmern willkommen, Hundebett und Willkommensgeschenk inklusive, Privatstrand mit Hundezugang außerhalb der Saison.`,
+        pitchNl: `Iconisch paleishotel aan de Croisette, huisdieren tot 10 kg welkom in deluxe kamers, hondenmand en welkomstcadeautje inbegrepen, privéstrand met toegang voor honden buiten het seizoen.`,
       },
       {
         name: 'Hotel Le Canberra',
@@ -293,6 +328,7 @@ const STOPS: Stop[] = [
         pitchEs: `Boutique 4 estrellas a 5 min de la Croisette. Perros hasta 12 kg admitidos (pequeño suplemento), piscina en patio tranquilo, céntrico para cenar a pie junto al Vieux Port.`,
         pitchPt: `Boutique 4 estrelas a 5 min da Croisette. Cães até 12 kg aceites (pequena taxa), piscina em pátio calmo, central para jantar a pé junto ao Vieux Port.`,
         pitchDe: `4-Sterne-Boutiquehotel wenige Gehminuten von der Croisette. Haustiere bis 12 kg willkommen (kleine Gebühr), ruhiger Innenhof-Pool, zentral genug, um mit dem Hund zum Abendessen am alten Hafen zu spazieren.`,
+        pitchNl: `4-sterren boutiquehotel op korte loopafstand van de Croisette. Huisdieren tot 12 kg welkom (kleine toeslag), rustig zwembad in de patio, centraal genoeg om met je hond te gaan eten bij de oude haven.`,
       },
     ],
     hasDestPage: true,
@@ -307,12 +343,14 @@ const STOPS: Stop[] = [
       es: `Cannes a Menton: 65 km, ~1h10 por la A8 (peaje, lo más rápido) o 1h45 por la Moyenne y Grande Corniche pasando por Èze y Roquebrune con vistas de acantilado.`,
       pt: `Cannes a Menton: 65 km, ~1h10 pela A8 (portagem, mais rápida) ou 1h45 pela Moyenne e Grande Corniche por Èze e Roquebrune com vistas de falésia.`,
       de: `Cannes nach Menton: 65 km, ~1h10 über die A8 (mautpflichtig, am schnellsten) oder 1h45 über die Moyenne und Grande Corniche durch Èze und Roquebrune für die Aussicht auf die Klippen.`,
+      nl: `Cannes naar Menton: 65 km, ~1u10 via de A8 (tol, snelst) of 1u45 via de Moyenne en Grande Corniche door Èze en Roquebrune voor het uitzicht op de kliffen.`,
     },
     whyEn: `Menton ends the loop with the rarest thing on the Riviera: a dog-accessible beach all year. The Plage des Sablettes specifies a leashed-dog zone open year-round (a municipal exception almost no neighbour replicates), the Jardin Serre de la Madone welcomes dogs in its terraced citrus garden, and the Italian border is a 2 km coastal walk for an evening cross-border aperitivo.`,
     whyFr: `Menton clôt la boucle avec la rareté absolue de la Riviera : une plage accessible aux chiens toute l'année. La Plage des Sablettes a une zone chien en laisse ouverte 12 mois sur 12 (exception municipale quasi unique sur la côte), le Jardin Serre de la Madone accueille les chiens dans son jardin d'agrumes en terrasses, et la frontière italienne est à 2 km à pied pour un apero transfrontalier le soir.`,
     whyEs: `Menton cierra el circuito con la rareza absoluta de la Riviera: una playa accesible para perros todo el año. La Playa de Sablettes tiene una zona de perros con correa abierta 12 meses (excepción municipal casi única en la costa), el Jardin Serre de la Madone admite perros en su jardín de cítricos en terraza, y la frontera italiana está a 2 km a pie para un aperitivo transfronterizo por la tarde.`,
     whyPt: `Menton fecha o circuito com a raridade absoluta da Riviera: uma praia acessível a cães todo o ano. A Plage des Sablettes tem uma zona de cães à trela aberta 12 meses (excepção municipal quase única na costa), o Jardin Serre de la Madone aceita cães no seu jardim de citrinos em socalcos, e a fronteira italiana está a 2 km a pé para um aperitivo transfronteiriço ao fim de tarde.`,
     whyDe: `Menton schließt die Route mit der größten Rarität der Riviera ab: einem ganzjährig für Hunde zugänglichen Strand. Die Plage des Sablettes hat eine ganzjährig geöffnete Zone für angeleinte Hunde (eine kommunale Ausnahme, die fast keine Nachbargemeinde kennt), der Jardin Serre de la Madone heißt Hunde in seinem terrassierten Zitrusgarten willkommen, und die italienische Grenze ist ein 2 km langer Küstenspaziergang für einen grenzüberschreitenden Abendaperitif.`,
+    whyNl: `Menton sluit de lus af met het zeldzaamste wat de Riviera te bieden heeft: een strand dat het hele jaar toegankelijk is voor honden. De Plage des Sablettes heeft een aangelijnde-hondenzone die het hele jaar open is (een gemeentelijke uitzondering die bijna geen buurgemeente kent), de Jardin Serre de la Madone verwelkomt honden in zijn terrasvormige citrustuin, en de Italiaanse grens ligt op 2 km wandelafstand langs de kust voor een grensoverschrijdende avondborrel.`,
     highlightsEn: [
       `Plage des Sablettes year-round leashed-dog zone (Riviera rarity)`,
       `Vieille Ville cobbled climb to the Cimetière du Vieux-Château`,
@@ -343,6 +381,12 @@ const STOPS: Stop[] = [
       `Jardin Serre de la Madone: terrassierter Zitrusgarten, Hunde an der Leine`,
       `Promenade du Soleil bis zur italienischen Grenze (2 km, mit Hund begehbar)`,
     ],
+    highlightsNl: [
+      `Plage des Sablettes: hondenzone (aangelijnd) het hele jaar open (zeldzaam aan de Riviera)`,
+      `Klim door de geplaveide oude stad naar de Cimetière du Vieux-Château`,
+      `Jardin Serre de la Madone: terrasvormige citrustuin, honden aan de lijn`,
+      `Promenade du Soleil naar de Italiaanse grens (2 km, met hond te doen)`,
+    ],
     hotels: [
       {
         name: 'Hotel Royal Westminster',
@@ -351,6 +395,7 @@ const STOPS: Stop[] = [
         pitchEs: `Frente al mar Belle Époque, a 50 m de la zona canina anual de la Plage des Sablettes. Perros admitidos (suplemento modesto), andando al casco antiguo y a la frontera.`,
         pitchPt: `Frente-mar Belle Époque, a 50 m da zona canina anual da Plage des Sablettes. Cães aceites (taxa modesta), a pé da cidade velha e da fronteira.`,
         pitchDe: `Belle-Époque-Haus direkt am Meer, 50 m von der ganzjährigen Hundezone der Plage des Sablettes entfernt. Haustiere gegen moderate Gebühr willkommen, fußläufig zur Altstadttreppe und zur italienischen Grenze.`,
+        pitchNl: `Belle-Époquehotel aan zee, op 50 m van de hondenzone van de Plage des Sablettes die het hele jaar open is. Huisdieren welkom tegen een bescheiden toeslag, loopafstand van de trappen naar de oude stad en de Italiaanse grens.`,
       },
       {
         name: 'Hotel Napoléon',
@@ -359,6 +404,7 @@ const STOPS: Stop[] = [
         pitchEs: `4 estrellas tranquilo en la Promenade du Soleil. Piscina exterior climatizada, perros admitidos (pequeño suplemento), el jardín de limoneros para descomprimir con un perro cansado.`,
         pitchPt: `4 estrelas calmo na Promenade du Soleil. Piscina exterior aquecida, cães aceites (pequena taxa), o jardim de limoeiros para descomprimir com um cão cansado.`,
         pitchDe: `Ruhiges 4-Sterne-Haus an der Promenade du Soleil. Beheizter Außenpool, Haustiere gegen kleine Gebühr willkommen, der Zitronenbaumgarten ist ein ruhiger Ort, um sich mit einem müden Hund zu entspannen.`,
+        pitchNl: `Rustig 4-sterrenhotel aan de Promenade du Soleil. Verwarmd buitenzwembad, huisdieren welkom tegen een kleine toeslag, de citroenboomgaard is een rustige plek om tot rust te komen met een vermoeide hond.`,
       },
     ],
   },
@@ -525,6 +571,38 @@ const COPY = {
       { q: `Welcher Strand an der Côte d'Azur ist im Sommer für Hunde geöffnet?`, a: `Die Plage des Sablettes in Menton hat eine ganzjährig geöffnete Leinenzone, auch im Juli und August - der einzige Gemeindestrand an der Riviera mit dieser Regel. Außerhalb von Menton läuft der Hundezugang im Sommer meist über private Strandclubs (Cap d'Antibes, Seite Juan-les-Pins). Prüfen Sie das jedes Jahr neu, da sich die kommunalen Erlasse ändern können.` },
     ],
   },
+  nl: {
+    dayLabels: ['Dag 1', 'Dagen 2 & 3', 'Dag 4', 'Dag 5'],
+    dayLabelsShort: ['Dag 1', 'Dagen 2–3', 'Dag 4', 'Dag 5'],
+    checkAvailability: 'Bekijk beschikbaarheid →',
+    browseAll: (city: string) => `Bekijk alle hondvriendelijke hotels in ${city} →`,
+    eyebrow: `5-daagse hondvriendelijke road trip aan de Côte d'Azur`,
+    title: `Road trip aan de Côte d'Azur met je hond: Nice, Antibes, Cannes en Menton`,
+    intro: `De Côte d'Azur brengt vier heel verschillende hondvriendelijke stops samen in een kustlus van 100 km die je in vijf dagen rijdt. Nice voor de lange Promenade des Anglais, Antibes voor het hele jaar geopende Sentier du Littoral, Cannes voor de veerboot naar het Île Sainte-Marguerite, en Menton voor het zeldzame hondenstrand van de Riviera dat het hele jaar open is. Geverifieerde hotels bij elke stop, strandregels duidelijk vermeld.`,
+    stats: ['5 dagen', '~100 km totaal', '4 stops · 5 nachten', 'Honden welkom in elk hotel'],
+    routeHeading: 'De route in één oogopslag',
+    mapHeading: 'Interactieve kaart',
+    mapNote: 'Verschuif en zoom - elke blauwe marker is een geverifieerd hondvriendelijk hotel.',
+    itineraryHeading: 'Dagindeling',
+    nightsLabel: (n: number) => `${n} ${n > 1 ? 'nachten' : 'nacht'}`,
+    driveLabel: 'Hoe kom je er',
+    highlightsLabel: `Niet te missen`,
+    hotelsLabel: 'Waar je slaapt',
+    practicalHeading: 'Praktische info voor je vertrekt',
+    practical: [
+      { h: 'Strandregels', p: `De meeste gemeentelijke stranden aan de Côte d'Azur verbieden honden tussen 1 mei (of 15 juni, afhankelijk van de gemeente) en 30 september. De grote uitzonderingen: de aangelijnde-hondenzone van Mentons Plage des Sablettes is het hele jaar open, verschillende baaien op Cap d'Antibes blijven toegankelijk, en het kustpad Sentier du Littoral is het hele jaar open. Controleer altijd het gemeentelijke besluit voordat je naar beneden gaat.` },
+      { h: 'Hitte en pootveiligheid', p: `Het asfalt aan de Riviera bereikt 50-60 °C tussen 11.00 en 19.00 uur van juni tot half september. Wandel vroeg of na 19.00 uur, doe de 7-secondentest met je hand op stenen (oude stad, Le Suquet) en neem water mee. De meeste hotels laten honden toe bij het zwembad, maar niet in het water zelf.` },
+      { h: 'Autorijden met een hond', p: `De Franse wet schrijft voor dat honden vastgezet moeten zijn (tuigje, bench of scheidingsrek). Tolwegen (A8) accepteren honden zonder beperking; tolpleinen hebben beschaduwde grasstroken om te pauzeren. Laat een hond nooit alleen achter in een geparkeerde auto, zelfs niet met een raampje op een kier - dit is een strafbaar feit (art. R655-1).` },
+      { h: 'Spoeddierenarts', p: `Nice: Clinique Vétérinaire de la Madeleine, +33 4 93 71 70 00 (24u). Cannes: Clinique Vétérinaire de Mougins, +33 4 92 92 28 50. Antibes: Clinique Vétérinaire du Port, +33 4 93 34 02 60. Menton: Clinique Vétérinaire Lou Pin, +33 4 93 35 95 16.` },
+    ],
+    faqHeading: 'Veelgestelde vragen',
+    faq: [
+      { q: 'Kan ik deze trip zonder auto doen?', a: `De vier steden zijn verbonden via de TER-lijn Marseille-Ventimiglia (Nice-Antibes 15 min, Antibes-Cannes 12 min, Cannes-Menton 50 min via Nice). Een aangelijnde hond in de TER kost € 7,10 (kleine honden in een draagtas reizen gratis). Het is de tragere optie, maar het werkt: sla de autoverhuur over en gebruik lokale taxi's (geen huisdiertoeslag volgens de regels in de Alpes-Maritimes).` },
+      { q: 'Beste seizoen voor deze trip met een hond?', a: `Half maart tot half mei en half september tot begin november. Stranden zijn toegankelijk, temperaturen liggen tussen 16-22 °C, hotels rekenen tussenseizoenprijzen, en de Sentier du Littoral is goed te doen. Juli-augustus is te warm voor honden (pieken boven 30 °C, gloeiend asfalt) en de meeste gemeentelijke stranden zijn gesloten.` },
+      { q: 'Is mijn hond welkom bij restaurants?', a: `De terrassen aan de Côte d'Azur zijn erg hondvriendelijk - neem water en een klein matje mee en vraag om een schaduwplek. Cours Saleya in Nice, Cours Masséna in Antibes, de oude stad Le Suquet in Cannes en de kade van Menton zeggen op het terras vrijwel altijd ja. Binnen eten hangt af van de zaak, dus vraag ernaar.` },
+      { q: `Welk strand aan de Côte d'Azur is 's zomers open voor honden?`, a: `De Plage des Sablettes in Menton heeft een aangelijnde-hondenzone die het hele jaar open is, inclusief juli en augustus - het enige gemeentelijke strand aan de Riviera met die regel. Buiten Menton loopt hondentoegang in de zomer meestal via privéstrandclubs (Cap d'Antibes, kant Juan-les-Pins). Controleer dit elk jaar opnieuw, want gemeentelijke besluiten kunnen veranderen.` },
+    ],
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -582,6 +660,7 @@ export default async function Page({
     if (locale === 'es') return { why: s.whyEs, hl: s.highlightsEs, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchEs })) }
     if (locale === 'pt') return { why: s.whyPt, hl: s.highlightsPt, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchPt })) }
     if (locale === 'de') return { why: s.whyDe, hl: s.highlightsDe, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchDe })) }
+    if (locale === 'nl') return { why: s.whyNl, hl: s.highlightsNl, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchNl })) }
     return { why: s.whyEn, hl: s.highlightsEn, hotels: s.hotels.map(h => ({ name: h.name, pitch: h.pitchEn })) }
   }
 

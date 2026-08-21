@@ -39,9 +39,13 @@
           "mustTryPt": "Himmel un Ääd com um copo de Kölsch",
           "tipPt": "Os empregados Köbes trazem automaticamente uma nova Kölsch quando a sua acaba: coloque uma base de copo por cima para indicar que terminou.",
           "descriptionDe": "Eines der ältesten Brauhäuser Kölns, dessen Wurzeln bis 1318 in derselben Straße zurückreichen. Das Brauhaus Sion serviert traditionelles Kölsch in den klassischen Stangen, gebracht von umherziehenden Köbes-Kellnern. Hunde sind an den Außentischen auf der Kopfsteinpflasterterrasse willkommen. Auf der Speisekarte stehen rheinische Klassiker: Himmel un Ääd (Blutwurst mit Kartoffelpüree und Apfelmus), Reibekuchen und halver Hahn (Roggenbrot mit Käse). Zentral gelegen, 5 Minuten zu Fuß vom Kölner Dom.",
+          "descriptionNl": "Een van de oudste brouwhuizen van Keulen, met wortels die teruggaan tot 1318 in dezelfde straat. Brauhaus Sion serveert traditioneel Kölsch in de klassieke smalle glazen, gebracht door rondlopende Köbes-obers. Honden zijn welkom aan de buitentafels op het kasseienterras. Op de kaart staan Rijnlandse klassiekers: Himmel un Ääd (bloedworst met aardappelpuree en appelmoes), reibekuchen en halver Hahn (roggebrood met kaas). Centraal gelegen, 5 minuten lopen van de Dom van Keulen.",
           "petPolicyDe": "Hunde an den Außentischen der Terrasse willkommen",
+          "petPolicyNl": "Hond welkom aan de buitentafels van het terras",
           "mustTryDe": "Himmel un Ääd mit einem Glas Kölsch",
-          "tipDe": "Köbes-Kellner bringen automatisch ein neues Kölsch, sobald das eigene leer ist, einen Bierdeckel auf das Glas legen, um zu signalisieren, dass man fertig ist."
+          "mustTryNl": "Himmel un Ääd met een glas Kölsch",
+          "tipDe": "Köbes-Kellner bringen automatisch ein neues Kölsch, sobald das eigene leer ist, einen Bierdeckel auf das Glas legen, um zu signalisieren, dass man fertig ist.",
+          "tipNl": "Köbes-obers brengen automatisch een nieuw Kölsch zodra je glas leeg is, leg een onderzetter op je glas om aan te geven dat je klaar bent."
         }
       ],
       "tipsEn": [
@@ -91,11 +95,19 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Köln",
+      "titleNl": "Huisdiervriendelijke restaurants in Keulen",
       "introDe": "Köln ist eine der hundefreundlichsten Städte Deutschlands, und die deutsche Restaurantkultur ist gegenüber wohlerzogenen Hunden generell aufgeschlossen. Die Brauhäuser, Kölns traditionelle Brauereigaststätten, die Kölsch und deftige Hausmannskost servieren, haben fast alle Außenterrassen, auf denen Hunde willkommen sind. Viele erweitern dies auch auf den Innenbereich, besonders in den kühleren Monaten. Die Altstadt und die Terrassen am Rheinufer sind die besten Bereiche für hundefreundliches Essen. Ein praktischer Hinweis: Deutsche Restaurants machen selten formelle „hundefreundlich\"-Angaben, wie es britische tun, einfach „Ist mein Hund willkommen?\" fragen, und die meisten werden zustimmen.",
+      "introNl": "Keulen is een van de hondvriendelijkste steden van Duitsland, en de Duitse restaurantcultuur staat over het algemeen open voor brave honden. De Brauhäuser, Keulens traditionele brouwerijcafés die Kölsch en stevige huiskost serveren, hebben bijna allemaal buitenterrassen waar honden welkom zijn. Veel breiden dit ook uit naar binnen, vooral in de koelere maanden. De oude stad en de terrassen aan de Rijnoever zijn de beste plekken voor hondvriendelijk eten. Praktische tip: Duitse restaurants geven zelden formele \"hondvriendelijk\"-labels, zoals Britse dat wel doen, gewoon vragen \"Mag mijn hond mee?\", en de meeste zeggen ja.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Kölner Restaurants im Innenbereich erlaubt?",
           "a": "In traditionellen Brauhäusern und legeren Restaurants im Allgemeinen ja. Das deutsche Recht gibt Restaurantbesitzern Ermessensspielraum, und Kölns hundefreundliche Kultur bedeutet, dass die meisten Innenräume wohlerzogene angeleinte Hunde willkommen heißen. Gehobene Restaurants bitten Hunde möglicherweise, draußen zu bleiben."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan binnen in restaurants in Keulen?",
+          "a": "In traditionele brouwhuizen en informele restaurants over het algemeen wel. De Duitse wet geeft restauranteigenaren speelruimte, en Keulens hondvriendelijke cultuur betekent dat de meeste binnenruimtes brave aangelijnde honden welkom heten. Chique restaurants vragen honden soms buiten te blijven."
         }
       ]
     },
@@ -127,8 +139,11 @@
           "offLeashAreaPt": "Zona sem trela designada no lado norte da floresta",
           "tipPt": "Leve proteção contra carraças na primavera e no verão: a densa vegetação rasteira do Stadtwald é território de alto risco de carraças em Colónia.",
           "descriptionDe": "Kölns größter Stadtwald erstreckt sich über mehrere hundert Hektar im Stadtteil Lindenthal. Auf der Nordseite des Stadtwalds befindet sich eine große ausgewiesene Freilauffläche (Hundeauslauf), auf der Hunde frei laufen können. Waldwege und offene Wiesen machen ihn zum besten Ziel für Hundespaziergänge bei jedem Wetter in der Stadt. Der Wald ist dicht genug, um im Sommer angenehm kühl zu sein. Erreichbar mit der Straßenbahn (Linie 1 bis Dürener Straße/Gürtel).",
+          "descriptionNl": "Keulens grootste stadsbos strekt zich uit over honderden hectare in de wijk Lindenthal. Aan de noordkant van het Stadtwald ligt een groot aangewezen losloopgebied (Hundeauslauf) waar honden vrij mogen lopen. Bospaden en open weides maken het het beste doel voor hondenwandelingen bij elk weer in de stad. Het bos is dicht genoeg om in de zomer aangenaam koel te zijn. Bereikbaar met tram (lijn 1 tot Dürener Straße/Gürtel).",
           "offLeashAreaDe": "Ausgewiesene Freilaufzone auf der Nordseite des Waldes",
-          "tipDe": "Bringen Sie im Frühjahr und Sommer Zeckenschutz mit, das dichte Unterholz des Stadtwalds ist ein Gebiet mit hohem Zeckenrisiko in Köln."
+          "offLeashAreaNl": "Aangewezen losloopgebied aan de noordkant van het bos",
+          "tipDe": "Bringen Sie im Frühjahr und Sommer Zeckenschutz mit, das dichte Unterholz des Stadtwalds ist ein Gebiet mit hohem Zeckenrisiko in Köln.",
+          "tipNl": "Neem in het voor- en najaar tekenbescherming mee, het dichte struikgewas van het Stadtwald is een gebied met hoog tekenrisico in Keulen."
         },
         {
           "name": "Rheinpark",
@@ -150,8 +165,11 @@
           "offLeashAreaPt": "Prados abertos junto à margem do rio; a circulação sem trela é habitual nas zonas abertas",
           "tipPt": "O Rheinpark é o melhor sítio em Colónia para combinar um passeio com o cão com a fotografia clássica da catedral e do Reno: atravesse a Hohenzollernbrücke (coberta de cadeados de amor) para a aproximação.",
           "descriptionDe": "Ein malerischer Park am Rheinufer auf der Deutzer Seite mit Panoramablick auf die Silhouette des Kölner Doms. Offene Wiesen entlang des Flussufers lassen Hunde frei laufen, und der Park schließt an einen längeren Rad- und Fußweg entlang des Rheins an. Der Park verfügt über Picknickflächen und ein kleines Café mit Außenbereich. Erreichbar über die Hohenzollernbrücke von der Altstadt aus oder mit der Straßenbahn bis Köln Messe/Deutz.",
+          "descriptionNl": "Een pittoresk park aan de Rijnoever aan de Deutz-kant met panoramisch uitzicht op de silhouet van de Dom van Keulen. Open weides langs de rivieroever laten honden vrij lopen, en het park sluit aan op een langer fiets- en wandelpad langs de Rijn. Het park heeft picknickplekken en een klein café met buitenruimte. Bereikbaar via de Hohenzollernbrücke vanaf de oude stad of met de tram tot Köln Messe/Deutz.",
           "offLeashAreaDe": "Offene Wiesen entlang des Flussufers; Freilauf ist in offenen Bereichen üblich",
-          "tipDe": "Der Rheinpark ist der beste Ort in Köln, um einen Hundespaziergang mit dem klassischen Foto von Dom und Rheinsilhouette zu verbinden; überqueren Sie für die Anfahrt die Hohenzollernbrücke (bedeckt mit Liebesschlössern)."
+          "offLeashAreaNl": "Open weides langs de rivieroever; loslopen is gebruikelijk in open gebieden",
+          "tipDe": "Der Rheinpark ist der beste Ort in Köln, um einen Hundespaziergang mit dem klassischen Foto von Dom und Rheinsilhouette zu verbinden; überqueren Sie für die Anfahrt die Hohenzollernbrücke (bedeckt mit Liebesschlössern).",
+          "tipNl": "Het Rheinpark is de beste plek in Keulen om een hondenwandeling te combineren met de klassieke foto van de Dom en de Rijnsilhouet; steek voor de aanloop de Hohenzollernbrücke over (bedekt met liefdesslotjes)."
         },
         {
           "name": "Nippeser Tälchen",
@@ -173,8 +191,11 @@
           "offLeashAreaPt": "Zona sem trela designada na secção do vale",
           "tipPt": "As manhãs de fim de semana, das 8 às 10h, atraem um grupo habitual de donos de cães locais: uma excelente forma de conhecer a comunidade canina de Colónia.",
           "descriptionDe": "Ein beliebter Stadtteilpark in Nippes mit dem Ruf, einer der besten Treffpunkte Kölns für Hundesozialisierung zu sein. Der Park hat ein talähnliches Gelände mit naturnahen Wegen, einem kleinen Bach und regelmäßigen Treffen lokaler Hundehalter, besonders an Wochenendvormittagen. Freilauf in der ausgewiesenen Zone. Erreichbar mit U-Bahn oder Straßenbahn bis Neusser Straße.",
+          "descriptionNl": "Een populair buurtpark in Nippes met de reputatie een van Keulens beste ontmoetingsplekken voor hondensocialisatie te zijn. Het park heeft een dalachtig terrein met natuurlijke paden, een beekje en regelmatige bijeenkomsten van lokale hondenbezitters, vooral op weekendochtenden. Loslopen in het aangewezen gebied. Bereikbaar met metro of tram tot Neusser Straße.",
           "offLeashAreaDe": "Ausgewiesene Freilaufzone im Talabschnitt",
-          "tipDe": "Wochenendvormittage von 8 bis 10 Uhr locken zuverlässig eine Gruppe lokaler Hundehalter an, eine gute Gelegenheit, Kölns Hundegemeinschaft kennenzulernen."
+          "offLeashAreaNl": "Aangewezen losloopgebied in het dalgedeelte",
+          "tipDe": "Wochenendvormittage von 8 bis 10 Uhr locken zuverlässig eine Gruppe lokaler Hundehalter an, eine gute Gelegenheit, Kölns Hundegemeinschaft kennenzulernen.",
+          "tipNl": "Weekendochtenden van 8 tot 10 uur trekken betrouwbaar een groep lokale hondenbezitters aan, een goede kans om Keulens hondengemeenschap te leren kennen."
         }
       ],
       "tipsEn": [
@@ -224,11 +245,19 @@
         }
       ],
       "titleDe": "Hundefreundliche Parks in Köln",
+      "titleNl": "Hondvriendelijke parken in Keulen",
       "introDe": "Köln verfügt über mehr als 111 Parks, in denen Hunde Grünflächen genießen können, und die Stadt unterhält ein Netz ausgewiesener Freilaufzonen (Hundeauslaufgebiete) in allen Stadtteilen. Die besten Bereiche sind der Stadtwald (ein großer Waldpark mit Freilaufflächen), der Rheinpark (am Flussufer, malerisch) sowie das Nippeser Tälchen im Stadtteil Nippes. Kölns Hundehalterkultur ist stark ausgeprägt, Freilaufflächen sind in der Regel gut gepflegt, und Halter sind sehr gewissenhaft beim Entsorgen von Hundekot. Nach den Kölner Stadtregeln gilt außerhalb ausgewiesener Freilaufzonen überall Leinenpflicht.",
+      "introNl": "Keulen telt meer dan 111 parken waar honden van groen kunnen genieten, en de stad onderhoudt een netwerk van aangewezen losloopgebieden (Hundeauslaufgebiete) in alle wijken. De beste plekken zijn het Stadtwald (een groot bospark met losloopgebieden), het Rheinpark (aan de rivieroever, pittoresk) en het Nippeser Tälchen in de wijk Nippes. Keulens hondenbezitterscultuur is sterk, losloopgebieden zijn doorgaans goed onderhouden, en eigenaren zijn erg gewetensvol in het opruimen van hondenpoep. Volgens de stadsregels van Keulen geldt overal buiten aangewezen losloopgebieden aanlijnplicht.",
       "faqsDe": [
         {
           "q": "Muss ich meinen Hund in Kölner Parks an der Leine führen?",
           "a": "In ausgewiesenen Freilaufzonen (Hundeauslaufgebiete) dürfen Hunde ohne Leine laufen. Außerhalb dieser Zonen gilt nach den Kölner Stadtregeln Leinenpflicht. Bei Verstößen drohen Bußgelder. Schilder an den Parkeingängen weisen auf die Leinenpflicht für den jeweiligen Bereich hin."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Moet ik mijn hond aanlijnen in parken in Keulen?",
+          "a": "In aangewezen losloopgebieden (Hundeauslaufgebiete) mogen honden zonder lijn lopen. Buiten deze zones geldt volgens de stadsregels van Keulen aanlijnplicht. Bij overtredingen dreigen boetes. Borden bij de parkingangen geven de aanlijnplicht voor het betreffende gebied aan."
         }
       ]
     },
@@ -300,11 +329,19 @@
         }
       ],
       "titleDe": "Mit Hund in Köln unterwegs",
+      "titleNl": "Met hond op pad in Keulen",
       "introDe": "Die Kölner Verkehrs-Betriebe (KVB) betreiben Kölns Straßenbahnen, U-Bahn (Stadtbahn) und das städtische Busnetz. Hunde sind bei allen KVB-Verkehrsmitteln gemäß der offiziellen Hausordnung erlaubt, müssen aber jederzeit angeleint sein und dürfen nicht auf Sitzen Platz nehmen. Kleine Hunde in Transportboxen fahren kostenlos. Größere Hunde benötigen ein Einzelticket für Kinder. Die Deutsche Bahn verbindet Köln über Fernzüge mit anderen deutschen und europäischen Städten und hat eine einheitliche Hunderichtlinie.",
+      "introNl": "De Kölner Verkehrs-Betriebe (KVB) runnen Keulens trams, metro (Stadtbahn) en het stedelijke busnet. Honden zijn toegestaan in alle KVB-vervoer volgens het officiële reglement, maar moeten altijd aangelijnd zijn en mogen niet op stoelen zitten. Kleine honden in transportboxen reizen gratis. Grotere honden hebben een kinderticket nodig. De Deutsche Bahn verbindt Keulen met langeafstandstreinen naar andere Duitse en Europese steden en hanteert een uniform hondenbeleid.",
       "faqsDe": [
         {
           "q": "Darf mein Hund in Kölner Straßenbahnen und Bahnen der KVB mitfahren?",
           "a": "Ja. Kleine Hunde in geschlossenen Transportboxen fahren kostenlos. Größere Hunde benötigen ein Kinderticket. Hunde müssen angeleint sein und dürfen keine Sitzplätze belegen. Dies gilt für alle KVB-Straßenbahnen, U-Bahn-Linien und städtischen Busse."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond mee in trams en treinen van de KVB in Keulen?",
+          "a": "Ja. Kleine honden in gesloten transportboxen reizen gratis. Grotere honden hebben een kinderticket nodig. Honden moeten aangelijnd zijn en mogen geen zitplaatsen bezetten. Dit geldt voor alle KVB-trams, metrolijnen en stadsbussen."
         }
       ]
     },
@@ -323,8 +360,11 @@
       "introPt": "Conteúdo brevemente, estamos a pesquisar as melhores opções para si.",
       "faqsPt": [],
       "titleDe": "Strände in der Nähe von Köln",
+      "titleNl": "Stranden bij Keulen",
       "introDe": "Inhalt folgt in Kürze, wir recherchieren derzeit die besten Optionen für Sie.",
-      "faqsDe": []
+      "introNl": "Inhoud volgt binnenkort, we onderzoeken momenteel de beste opties voor jou.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Cologne, Veterinary Clinics & Pet Care",
@@ -371,8 +411,11 @@
           "descriptionPt": "Clínica veterinária moderna em Colónia-Sul, com serviço de urgências 24/7. Unidade completa de medicina de urgência com ressonância magnética, TAC e departamentos especializados. A clínica do Dr. Kellerwessel opera em Colónia há décadas e é bem considerada pela comunidade veterinária local. Situada em Rodenkirchen, no sul da cidade, acessível de carro a partir do nó da autoestrada A4/A555.",
           "tipPt": "Para a linha de urgências, marque +49 221 47 45 43 911 (o número principal da clínica é 0221 474543-0 para marcações normais).",
           "hoursDe": "24 Stunden, 7 Tage die Woche",
+          "hoursNl": "24 uur per dag, 7 dagen per week",
           "descriptionDe": "Moderne Tierklinik in Köln-Süd mit 24-Stunden-Notdienst. Vollständige Notfallmedizin-Einheit mit MRT, CT und Fachabteilungen. Die Klinik von Dr. Kellerwessel ist seit Jahrzehnten in Köln tätig und bei der lokalen Tierärzteschaft angesehen. Gelegen in Rodenkirchen im Süden der Stadt, mit dem Auto erreichbar über die Anschlussstelle A4/A555.",
-          "tipDe": "Für die Notfalllinie +49 221 47 45 43 911 wählen (die Hauptnummer der Klinik für reguläre Termine lautet 0221 474543-0)."
+          "descriptionNl": "Moderne dierenkliniek in Keulen-Zuid met 24-uurs spoedeisende hulp. Volledige spoedeenheid met MRI, CT en gespecialiseerde afdelingen. De kliniek van Dr. Kellerwessel is al decennialang actief in Keulen en aanzien bij de lokale dierenartsen. Gelegen in Rodenkirchen ten zuiden van de stad, per auto bereikbaar via afslag A4/A555.",
+          "tipDe": "Für die Notfalllinie +49 221 47 45 43 911 wählen (die Hauptnummer der Klinik für reguläre Termine lautet 0221 474543-0).",
+          "tipNl": "Bel voor spoed het spoednummer +49 221 47 45 43 911 (het hoofdnummer van de kliniek voor reguliere afspraken is 0221 474543-0)."
         },
         {
           "name": "Vet Zentrum Köln",
@@ -396,8 +439,11 @@
           "descriptionPt": "Clínica veterinária de animais de companhia em Braunsfeld (oeste de Colónia), com serviço de urgências 24/7 durante todo o ano. Oito veterinários no turno de urgências. Oferece consultas específicas para gatos, além de cuidados para cães e pequenos animais. Situada perto da circular interior da cidade, acessível de U-Bahn até Braunsfeld.",
           "tipPt": "Situada mais perto do centro da cidade do que a Tierklinik Köln-Süd: mais rápida de alcançar a partir do Altstadt ou dos hotéis do centro.",
           "hoursDe": "24 Stunden, 365 Tage im Jahr",
+          "hoursNl": "24 uur per dag, 365 dagen per jaar",
           "descriptionDe": "Kleintierklinik in Braunsfeld (im Westen Kölns) mit ganzjährigem 24-Stunden-Notdienst. Acht Tierärzte im Notdienstrotationssystem. Bietet neben Hunde- und Kleintierpflege auch spezielle Katzensprechstunden an. Nahe dem inneren Stadtring gelegen, mit der U-Bahn bis Braunsfeld erreichbar.",
-          "tipDe": "Liegt näher an der Innenstadt als die Tierklinik Köln-Süd, von der Altstadt oder zentralen Hotels aus schneller erreichbar."
+          "descriptionNl": "Kleindierenkliniek in Braunsfeld (in het westen van Keulen) met het hele jaar 24-uurs spoeddienst. Acht dierenartsen in een spoeddienstrooster. Biedt naast hond- en kleindierenzorg ook speciale katten-spreekuren. Gelegen bij de binnenring, bereikbaar met de metro tot Braunsfeld.",
+          "tipDe": "Liegt näher an der Innenstadt als die Tierklinik Köln-Süd, von der Altstadt oder zentralen Hotels aus schneller erreichbar.",
+          "tipNl": "Ligt dichter bij het centrum dan de Tierklinik Köln-Süd, sneller bereikbaar vanaf de oude stad of centrale hotels."
         }
       ],
       "faqsEn": [
@@ -427,11 +473,19 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte in Köln, Tierkliniken & Haustierpflege",
+      "titleNl": "Spoeddierenartsen in Keulen, dierenklinieken & huisdierenzorg",
       "introDe": "Köln verfügt über eine zuverlässige tierärztliche Notfallversorgung rund um die Uhr. Die beiden Hauptanlaufstellen sind die Tierklinik Köln-Süd (Dr. Kellerwessel) und das Vet Zentrum Köln, die beide das ganze Jahr über durchgehend Notdienste anbieten. Das deutsche Tiermedizinsystem ist von hoher Qualität, und die Kosten sind vergleichbar mit oder etwas niedriger als in anderen großen westeuropäischen Städten. Alle Tierärzte in Köln sind gesetzlich verpflichtet, eine Notdienstregelung zu haben. Vor der Ankunft immer anrufen, beide Kliniken nutzen eine telefonische Ersteinschätzung, um sich auf die Ankunft vorzubereiten.",
+      "introNl": "Keulen beschikt over betrouwbare tandenklok-rond dierenartsspoedzorg. De twee belangrijkste adressen zijn Tierklinik Köln-Süd (Dr. Kellerwessel) en Vet Zentrum Köln, die beide het hele jaar door doorlopend spoeddiensten bieden. Het Duitse diergeneeskundige systeem is van hoge kwaliteit, en de kosten zijn vergelijkbaar met of iets lager dan in andere grote West-Europese steden. Alle dierenartsen in Keulen zijn wettelijk verplicht een spoedregeling te hebben. Bel altijd van tevoren, beide klinieken gebruiken een telefonische eerste inschatting om zich op je aankomst voor te bereiden.",
       "faqsDe": [
         {
           "q": "Wie lautet die Notfall-Tierarztnummer in Köln?",
           "a": "Für Notfälle rund um die Uhr: Tierklinik Köln-Süd unter +49 221 47 45 43 911 oder Vet Zentrum Köln unter +49 221 545764. Beide sind ganzjährig rund um die Uhr geöffnet."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat is het spoednummer voor dierenartsen in Keulen?",
+          "a": "Voor spoedgevallen rond de klok: Tierklinik Köln-Süd op +49 221 47 45 43 911 of Vet Zentrum Köln op +49 221 545764. Beide zijn het hele jaar door 24 uur per dag open."
         }
       ]
     },
@@ -486,11 +540,19 @@
         }
       ],
       "titleDe": "Kölner Reisetipps mit Hund",
+      "titleNl": "Reistips voor Keulen met hond",
       "introDe": "Köln ist ein hervorragendes Reiseziel für Hundebesitzer, die Kultur der Stadt geht entspannt mit Hunden in der Öffentlichkeit um, die Parks sind gepflegt, und die Altstadt lässt sich auf gepflasterten Fußgängerstraßen bestens erkunden. Die wichtigsten praktischen Herausforderungen sind die warmen Sommer (der Rhein bietet Abkühlungsmöglichkeiten) und die Karnevalssaison (Ende Februar/Anfang März), wenn die Altstadt extrem überfüllt und für lärmempfindliche Hunde belastend wird.",
+      "introNl": "Keulen is een uitstekende bestemming voor hondenbezitters, de cultuur van de stad gaat relaxed om met honden in het openbaar, de parken zijn goed onderhouden, en de oude stad is prima te verkennen op geplaveide voetgangersstraten. De belangrijkste praktische uitdagingen zijn de warme zomers (de Rijn biedt afkoeling) en het carnavalsseizoen (eind februari/begin maart), wanneer de oude stad extreem druk wordt en belastend voor geluidsgevoelige honden.",
       "faqsDe": [
         {
           "q": "Ist Kölns Altstadt mit Hund gut zu Fuß erkundbar?",
           "a": "Ja, die verkehrsberuhigten Kopfsteinpflasterstraßen der Altstadt eignen sich hervorragend für einen Spaziergang mit Hund. Die Hauptshoppingstraße Hohe Straße ist reine Fußgängerzone. Die Rheinpromenade entlang der Altstadt ist einer der hundefreundlichsten Spazierwege der Stadt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Keulens oude stad goed te belopen met hond?",
+          "a": "Ja, de verkeersluwe kasseienstraten van de oude stad lenen zich uitstekend voor een wandeling met hond. De belangrijkste winkelstraat Hohe Straße is volledig voetgangersgebied. De Rijnpromenade langs de oude stad is een van de hondvriendelijkste wandelroutes van de stad."
         }
       ]
     },
@@ -525,9 +587,13 @@
           "admissionFeePt": "Exterior da catedral: grátis. Subida à torre: 6 € adultos; cães não admitidos na torre.",
           "tipPt": "Atravessar a Hohenzollernbrücke é gratuito e oferece a melhor oportunidade para a fotografia do cão com a catedral. Atravesse para o lado de Deutz para a fotografia simétrica perfeita.",
           "descriptionDe": "Der zum UNESCO-Weltkulturerbe gehörende Dom prägt die Skyline der Stadt. Hunde sind im Innenbereich nicht zugelassen, aber die große Domplatte und die umliegende Fußgängerzone sind hundefreundlich. Der Blick auf den Dom von der Hohenzollernbrücke (der Liebesschloss-Brücke) aus ist einer der fotogensten Orte Deutschlands, und Hunde sind auf der Brücke willkommen. Die Rheinpromenade direkt unterhalb des Domareals ist hervorragend für einen Morgenspaziergang.",
+          "descriptionNl": "De tot UNESCO-werelderfgoed behorende Dom bepaalt de skyline van de stad. Honden zijn niet toegestaan binnen, maar het grote Domplein en de omliggende voetgangerszone zijn hondvriendelijk. Het uitzicht op de Dom vanaf de Hohenzollernbrücke (de liefdesslotjesbrug) is een van de meest fotogenieke plekken van Duitsland, en honden zijn welkom op de brug. De Rijnpromenade direct onder het Domterrein is uitstekend voor een ochtendwandeling.",
           "dogPolicyDe": "Im Innenbereich nicht zugelassen; Außenbereich, Domplatte und Umgebung sind vollständig hundefreundlich",
+          "dogPolicyNl": "Niet toegestaan binnen; buitenruimte, Domplein en omgeving zijn volledig hondvriendelijk",
           "admissionFeeDe": "Domaußenbereich: kostenlos. Turmbesteigung: 6 € für Erwachsene; Hunde im Turm nicht zugelassen.",
-          "tipDe": "Die Hohenzollernbrücke ist kostenlos begehbar und bietet die beste Foto-Gelegenheit mit Hund und Dom. Für die perfekte symmetrische Aufnahme auf die Deutzer Seite wechseln."
+          "admissionFeeNl": "Buitenkant Dom: gratis. Torenbeklimming: 6 € voor volwassenen; honden niet toegestaan in de toren.",
+          "tipDe": "Die Hohenzollernbrücke ist kostenlos begehbar und bietet die beste Foto-Gelegenheit mit Hund und Dom. Für die perfekte symmetrische Aufnahme auf die Deutzer Seite wechseln.",
+          "tipNl": "De Hohenzollernbrücke is gratis toegankelijk en biedt de beste fotokans met hond en Dom. Wissel naar de Deutz-kant voor de perfecte symmetrische opname."
         }
       ],
       "tipsEn": [
@@ -573,11 +639,19 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Köln",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Keulen",
       "introDe": "Kölns wichtigste Innensehenswürdigkeiten, der Kölner Dom, das Römisch-Germanische Museum, das Schokoladenmuseum, lassen keine Hunde zu. Das Äußere des Kölner Doms ist frei zugänglich und hundefreundlich, und die Rheinpromenade bietet Kölns bestes urbanes Erlebnis mit Hund. Bootstouren auf dem Rhein mit der KD Köln-Düsseldorfer starten in der Nähe des Doms, die aktuelle Haustierrichtlinie direkt bei der KD vor der Buchung prüfen.",
+      "introNl": "Keulens belangrijkste bezienswaardigheden binnen, de Dom van Keulen, het Romeins-Germaans Museum, het Chocolademuseum, laten geen honden toe. De buitenkant van de Dom van Keulen is vrij toegankelijk en hondvriendelijk, en de Rijnpromenade biedt Keulens beste stedelijke ervaring met hond. Boottochten op de Rijn met KD Köln-Düsseldorfer vertrekken vlakbij de Dom, controleer het actuele huisdierenbeleid rechtstreeks bij KD voor je boekt.",
       "faqsDe": [
         {
           "q": "Kann ich den Kölner Dom mit meinem Hund besuchen?",
           "a": "Nicht im Innenbereich. Innerhalb des Doms sind Hunde nicht erlaubt. Die große Domplatte, die Hohenzollernbrücke und die Rheinpromenade direkt unterhalb des Doms sind jedoch voll hundefreundlich und bilden einen natürlichen Rundweg."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik de Dom van Keulen bezoeken met mijn hond?",
+          "a": "Niet binnen. Binnen in de Dom zijn honden niet toegestaan. Het grote Domplein, de Hohenzollernbrücke en de Rijnpromenade direct onder de Dom zijn echter volledig hondvriendelijk en vormen een natuurlijke rondwandeling."
         }
       ]
     },
@@ -610,8 +684,11 @@
           "serviceTypePt": "Passeio de cães, alojamento, visitas pontuais, creche diurna",
           "tipPt": "Filtre por 'cuidadores que falam inglês' na pesquisa da Rover se o idioma for uma preocupação: Colónia tem uma grande comunidade de expatriados com cuidadores bilingues.",
           "descriptionDe": "Die deutsche Plattform von Rover mit 453 Gassi-Service-Anbietern in Köln (Stand März 2026). Alle Betreuer durchlaufen eine Hintergrundprüfung. Zu den Diensten zählen Gassigehen, Betreuung zu Hause, Kurzbesuche und Tagesbetreuung. Durchschnittliche Kosten: ca. 14 € pro 30-minütigem Spaziergang. Deutschsprachige Plattform; viele Betreuer sprechen in Köln aufgrund der internationalen Community Englisch.",
+          "descriptionNl": "Het Duitse platform van Rover met 453 uitlaatservice-aanbieders in Keulen (stand maart 2026). Alle oppassers doorlopen een achtergrondcheck. Diensten zijn onder meer uitlaten, oppas thuis, korte bezoekjes en dagopvang. Gemiddelde kosten: ca. 14 € per wandeling van 30 minuten. Duitstalig platform; veel oppassers spreken in Keulen Engels dankzij de internationale gemeenschap.",
           "serviceTypeDe": "Gassigehen, Betreuung, Kurzbesuche, Tagesbetreuung",
-          "tipDe": "In der Rover-Suche nach „englischsprachige Betreuer\" filtern, falls die Sprache ein Anliegen ist, Köln hat eine große Expat-Community mit zweisprachigen Betreuern."
+          "serviceTypeNl": "Uitlaten, oppas, korte bezoekjes, dagopvang",
+          "tipDe": "In der Rover-Suche nach „englischsprachige Betreuer\" filtern, falls die Sprache ein Anliegen ist, Köln hat eine große Expat-Community mit zweisprachigen Betreuern.",
+          "tipNl": "Filter in de Rover-zoekfunctie op \"Engelssprekende oppassers\" als taal een aandachtspunt is, Keulen heeft een grote expatgemeenschap met tweetalige oppassers."
         }
       ],
       "tipsEn": [
@@ -657,11 +734,19 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Köln",
+      "titleNl": "Huisdierenoppas & uitlaatservice in Keulen",
       "introDe": "Köln verfügt über einen gut etablierten Markt für Haustierbetreuung über Rover.de und Pawshake.de, mit 453 registrierten Gassi-Service-Anbietern auf Rover (Stand März 2026). Die durchschnittlichen Kosten für einen 30-minütigen Spaziergang liegen bei etwa 14 €. In Deutschland müssen Gassi-Service-Anbieter ausreichende Kenntnisse im Umgang mit Hunden nachweisen, und die meisten professionellen Anbieter auf diesen Plattformen arbeiten allein oder in kleinen Gruppen. Für den Sommer im Voraus buchen, da die Nachfrage hoch ist.",
+      "introNl": "Keulen heeft een goed ontwikkelde markt voor huisdierenoppas via Rover.de en Pawshake.de, met 453 geregistreerde uitlaatservice-aanbieders op Rover (stand maart 2026). De gemiddelde kosten voor een wandeling van 30 minuten liggen rond 14 €. In Duitsland moeten uitlaatservice-aanbieders voldoende kennis van de omgang met honden aantonen, en de meeste professionele aanbieders op deze platforms werken alleen of in kleine groepjes. Boek in de zomer vooraf, want de vraag is hoog.",
       "faqsDe": [
         {
           "q": "Gibt es englischsprachige Gassi-Service-Anbieter in Köln?",
           "a": "Ja, Köln hat eine große internationale und Expat-Community, und viele Haustierbetreuer auf Rover.de und Pawshake.de geben Englisch als Sprache an. Bei der Suche nach Sprachpräferenz filtern."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er Engelssprekende uitlaatservice-aanbieders in Keulen?",
+          "a": "Ja, Keulen heeft een grote internationale en expatgemeenschap, en veel huisdierenoppassers op Rover.de en Pawshake.de geven Engels op als taal. Filter bij de zoekopdracht op taalvoorkeur."
         }
       ]
     }

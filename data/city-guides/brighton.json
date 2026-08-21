@@ -39,9 +39,13 @@
           "mustTryPt": "Brunch de fim de semana, tábua de aperitivo com vista para o mar",
           "tipPt": "Passeia o cão durante uma hora por Hove Lawns e depois instala-te na esplanada: as taças de água chegam sem precisares de pedir.",
           "descriptionDe": "Ein stilvolles, mehrstöckiges Lokal direkt an der Uferpromenade auf Hove Lawns, mit einem hundefreundlichen Café im Erdgeschoss und einer weitläufigen umlaufenden Terrasse mit Blick auf den Kanal. Hunde sind in den lässigen Bereichen überall willkommen, und das Café-Team hält an der Tür eine Leckerli-Dose bereit. Der Brunch ist die Stärke, aber die Küche läuft den ganzen Tag, und der Standort grenzt direkt an einen der besten ganzjährigen Hundestrände Brightons.",
+          "descriptionNl": "Een stijlvolle, meerlaagse zaak direct aan de boulevard op Hove Lawns, met een hondvriendelijk café op de begane grond en een uitgestrekt terras rondom met uitzicht op het Kanaal. Honden zijn overal welkom in de informele delen, en het cafeteam houdt een snoepjespot bij de deur. Brunch is de sterkste kaart, maar de keuken draait de hele dag door, en de locatie grenst direct aan een van de beste hondenstranden van Brighton die het hele jaar open zijn.",
           "petPolicyDe": "Hunde willkommen im Erdgeschoss und auf der Terrasse; Leckerli-Dose am Eingang",
+          "petPolicyNl": "Honden welkom op de begane grond en op het terras; snoepjespot bij de ingang",
           "mustTryDe": "Wochenend-Brunch, Aperitivo-Board mit Meerblick",
-          "tipDe": "Gehen Sie eine Stunde mit dem Hund über Hove Lawns spazieren und lassen Sie sich dann auf der Terrasse nieder, Wassernäpfe erscheinen ganz ohne Nachfrage."
+          "mustTryNl": "Weekendbrunch, aperitivo-plank met zeezicht",
+          "tipDe": "Gehen Sie eine Stunde mit dem Hund über Hove Lawns spazieren und lassen Sie sich dann auf der Terrasse nieder, Wassernäpfe erscheinen ganz ohne Nachfrage.",
+          "tipNl": "Wandel eerst een uur met je hond over Hove Lawns en ga daarna op het terras zitten, waterbakjes verschijnen zonder dat je erom hoeft te vragen."
         },
         {
           "name": "The New Club",
@@ -69,9 +73,13 @@
           "mustTryPt": "Brunch de fim de semana, hambúrguer da casa, margarita gelada",
           "tipPt": "Reserva os lugares à janela no andar de cima para o pôr do sol sobre o Canal: os cães também podem subir.",
           "descriptionDe": "Ein Diner im amerikanischen Stil an der zentralen Uferpromenade Brightons mit einer ausdrücklichen Hunde-willkommen-Richtlinie, einschließlich eines Leckerli-Wagens, der an den Tischen vorbeikommt. Das Interieur ist geräumig genug, damit sich auch mittelgroße Hunde niederlassen können, und die Bar im Obergeschoss blickt auf die Ruinen des West Pier. Brunch und Burger sind die starken Punkte der Karte.",
+          "descriptionNl": "Een diner in Amerikaanse stijl aan de centrale boulevard van Brighton met een uitdrukkelijk honden-welkom-beleid, inclusief een snoepjeskarretje dat langs de tafels komt. Het interieur is ruim genoeg voor ook middelgrote honden, en de bar boven kijkt uit op de ruïnes van de West Pier. Brunch en burgers zijn de sterke punten van de kaart.",
           "petPolicyDe": "Hunde willkommen drinnen und auf der Terrasse; Leckerli und Wasser werden bereitgestellt",
+          "petPolicyNl": "Honden welkom binnen en op het terras; snoepjes en water worden voorzien",
           "mustTryDe": "Wochenend-Brunch, Signature-Burger, gefrorene Margarita",
-          "tipDe": "Buchen Sie die Fensterplätze im Obergeschoss für den Sonnenuntergang über dem Kanal, Hunde sind auch dort willkommen."
+          "mustTryNl": "Weekendbrunch, signature burger, frozen margarita",
+          "tipDe": "Buchen Sie die Fensterplätze im Obergeschoss für den Sonnenuntergang über dem Kanal, Hunde sind auch dort willkommen.",
+          "tipNl": "Reserveer de raamplekken boven voor de zonsondergang boven het Kanaal, honden zijn ook daar welkom."
         },
         {
           "name": "Fatto a Mano Hove",
@@ -99,9 +107,13 @@
           "mustTryPt": "Pizza Margherita, Marinara, vinhos italianos naturais",
           "tipPt": "Vai ao início da noite: o andar de cima é só para adultos e mais tranquilo, ideal para cães sensíveis ao ruído.",
           "descriptionDe": "Eine Kette für neapolitanische Pizza, die zu einer Institution in Brighton geworden ist, mit einem hundefreundlichen Erdgeschoss und einer Außenterrasse in der Filiale in Hove. Aus dem Holzofen kommende Margheritas und Marinaras sind die Spezialität, dazu eine kurze Liste natürlicher italienischer Weine. Der Standort, zwei Minuten von Hove Lawns entfernt, macht ihn zum natürlichen Stopp nach dem Spaziergang.",
+          "descriptionNl": "Een keten voor Napolitaanse pizza die een instituut is geworden in Brighton, met een hondvriendelijke begane grond en buitenterras in de vestiging in Hove. Margherita's en marinara's uit de houtoven zijn de specialiteit, met een korte lijst natuurlijke Italiaanse wijnen. De ligging, twee minuten van Hove Lawns, maakt het de natuurlijke stop na de wandeling.",
           "petPolicyDe": "Hunde willkommen im Erdgeschoss und auf der Terrasse",
+          "petPolicyNl": "Honden welkom op de begane grond en op het terras",
           "mustTryDe": "Pizza Margherita, Marinara, natürliche italienische Weine",
-          "tipDe": "Kommen Sie am frühen Abend vorbei, der Bereich im Obergeschoss ist nur für Erwachsene und ruhiger, ideal für geräuschempfindliche Hunde."
+          "mustTryNl": "Pizza margherita, marinara, natuurlijke Italiaanse wijnen",
+          "tipDe": "Kommen Sie am frühen Abend vorbei, der Bereich im Obergeschoss ist nur für Erwachsene und ruhiger, ideal für geräuschempfindliche Hunde.",
+          "tipNl": "Kom vroeg in de avond langs, het gedeelte boven is alleen voor volwassenen en rustiger, ideaal voor geluidsgevoelige honden."
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Brighton",
+      "titleNl": "Hondvriendelijke restaurants in Brighton",
       "introDe": "Brighton gehört zu den zuverlässig hundefreundlichsten Städten Großbritanniens, Wassernäpfe und Leckerli-Dosen gehören in den meisten Cafés zur Standardausstattung, und ein flüchtiger Blick auf eine beliebige Speisekarte an der Uferpromenade zeigt die Worte „Hunde willkommen“ noch vor jedem Gericht. North Laine, Kemptown und die Uferpromenade von Hove konzentrieren den Großteil der wirklich hundefreundlichen Adressen. Die drei folgenden Lokale werden in zahlreichen lokalen Guides genannt und haben gut dokumentierte Haustierrichtlinien.",
+      "introNl": "Brighton behoort tot de betrouwbaar hondvriendelijkste steden van Groot-Brittannië, waterbakjes en snoepjespotten horen bij de standaarduitrusting in de meeste cafés, en een vluchtige blik op een willekeurige menukaart aan de boulevard laat de woorden 'honden welkom' nog voor elk gerecht zien. North Laine, Kemptown en de boulevard van Hove concentreren het grootste deel van de echt hondvriendelijke adressen. De drie onderstaande zaken worden in talloze lokale gidsen genoemd en hebben goed gedocumenteerd huisdierenbeleid.",
       "faqsDe": [
         {
           "q": "Berechnen Restaurants in Brighton Gebühren für Wassernäpfe?",
@@ -196,6 +210,20 @@
         {
           "q": "Wo befinden sich die dichtesten hundefreundlichen Gastro-Strecken?",
           "a": "Hove Church Road und Western Road für Cafés, die Uferpromenade von Hove von Rockwater bis zum The Lawns Café, und die Gegend New Road / Pavilion Gardens für Terrassen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Rekenen restaurants in Brighton kosten voor waterbakjes?",
+          "a": "Nee, waterbakjes zijn in Brighton altijd gratis. Veel cafés bieden ook gratis snoepjes aan, sommige zaken zoals Rockwater en The New Club hebben eigen snoepjespotten."
+        },
+        {
+          "q": "Zijn honden toegestaan in pubs in Brighton?",
+          "a": "In de allermeeste wel. Pubs in Brighton volgen de gebruikelijke Britse conventie: honden zijn welkom in het barcafé, in het eetgedeelte soms beperkt. Let bij de ingang op een bordje of sticker op het raam."
+        },
+        {
+          "q": "Waar liggen de meest hondvriendelijke horecastraten?",
+          "a": "Hove Church Road en Western Road voor cafés, de boulevard van Hove van Rockwater tot The Lawns Café, en de omgeving New Road / Pavilion Gardens voor terrassen."
         }
       ]
     },
@@ -250,7 +278,9 @@
           ],
           "tipPt": "A relva em frente ao Hove Lawns Café é o ponto de encontro social: os habitantes locais juntam-se aí com os seus cães todas as tardes, entre as 17h00 e as 19h00.",
           "descriptionDe": "Ein 1,2 km langer Streifen Rasen am Meer, der von der Statue Angel of Peace bis zur Fourth Avenue verläuft, der beliebteste Freilaufbereich der Stadt. Hunde laufen auf den Rasenflächen selbst frei, eine Leine ist nur auf der angrenzenden gepflasterten Promenade erforderlich. Der Strand direkt südlich des Cafés ist ebenfalls ganzjährig hundefreundlich, was dies zum verlässlichsten kombinierten Spaziergang in Brighton macht.",
-          "tipDe": "Der Rasen gegenüber dem Hove Lawns Café ist der soziale Treffpunkt, Einheimische treffen sich dort jeden Abend zwischen 17:00 und 19:00 Uhr mit ihren Hunden."
+          "descriptionNl": "Een 1,2 km lange strook gras aan zee, lopend van het standbeeld Angel of Peace tot de Fourth Avenue, het populairste losloopgebied van de stad. Honden lopen op de graszones zelf los, een lijn is alleen verplicht op de aangrenzende bestrate promenade. Het strand direct ten zuiden van het café is ook het hele jaar hondvriendelijk, wat dit de meest betrouwbare gecombineerde wandeling van Brighton maakt.",
+          "tipDe": "Der Rasen gegenüber dem Hove Lawns Café ist der soziale Treffpunkt, Einheimische treffen sich dort jeden Abend zwischen 17:00 und 19:00 Uhr mit ihren Hunden.",
+          "tipNl": "Het gras tegenover het Hove Lawns Café is de sociale ontmoetingsplek, buurtbewoners komen daar elke avond tussen 17:00 en 19:00 uur samen met hun honden."
         },
         {
           "name": "Preston Park",
@@ -295,7 +325,9 @@
           ],
           "tipPt": "Apanha o comboio até à estação de Preston Park: fica na entrada leste, por isso poupas a subida desde o centro da cidade.",
           "descriptionDe": "Mit 26 Hektar der größte Stadtpark Brightons, mit weiten Rasenflächen, alten Bäumen und dem historischen Rockery-Garten auf der anderen Seite der London Road. Hunde dürfen auf den meisten offenen Rasenflächen ohne Leine laufen, mit einigen Einschränkungen rund um die Bowlingrasen, Tennisplätze und den Spielbereich. Das Rotunda Café bietet Wassernäpfe und Außentische für Hunde.",
-          "tipDe": "Nehmen Sie den Zug zum Bahnhof Preston Park, er liegt am östlichen Eingang, sodass Sie sich den Anstieg vom Stadtzentrum sparen."
+          "descriptionNl": "Met 26 hectare het grootste stadspark van Brighton, met weidse grasvelden, oude bomen en de historische Rockery-tuin aan de overkant van de London Road. Honden mogen op de meeste open grasvelden loslopen, met enkele beperkingen rond de jeu-de-boules-velden, tennisbanen en de speeltuin. Het Rotunda Café biedt waterbakjes en buitentafels voor honden.",
+          "tipDe": "Nehmen Sie den Zug zum Bahnhof Preston Park, er liegt am östlichen Eingang, sodass Sie sich den Anstieg vom Stadtzentrum sparen.",
+          "tipNl": "Neem de trein naar station Preston Park, dat ligt bij de oostelijke ingang, zodat je de klim vanuit het stadscentrum bespaart."
         },
         {
           "name": "Stanmer Park",
@@ -340,7 +372,9 @@
           ],
           "tipPt": "O autocarro 25 a partir de Old Steine vai diretamente à entrada do parque a cada 10 minutos: mais fácil do que ir de carro ao fim de semana, quando o estacionamento enche.",
           "descriptionDe": "Ein 200 Hektar großes Landgut am Rand des South Downs National Park, mit Wald, offenen Feldern und dem Dorf Stanmer. Hunde sind überall willkommen, auf den meisten Flächen des Parks ohne Leine, aber rund um den aktiven Bauernhof und die Weidezonen ist eine Leine erforderlich, die deutlich ausgeschildert sind. Der ambitionierteste Spaziergang in Brightons Hundepark-Netzwerk.",
-          "tipDe": "Der Bus 25 ab Old Steine fährt alle 10 Minuten direkt zum Parkeingang, einfacher als an Wochenenden mit dem Auto zu fahren, wenn die Parkplätze voll sind."
+          "descriptionNl": "Een 200 hectare groot landgoed aan de rand van het South Downs National Park, met bos, open velden en het dorpje Stanmer. Honden zijn overal welkom, op het grootste deel van het park loslopend, maar rond de actieve boerderij en de weidezones geldt een aanlijnplicht, duidelijk aangegeven met bordjes. De meest avontuurlijke wandeling in het hondenparkennetwerk van Brighton.",
+          "tipDe": "Der Bus 25 ab Old Steine fährt alle 10 Minuten direkt zum Parkeingang, einfacher als an Wochenenden mit dem Auto zu fahren, wenn die Parkplätze voll sind.",
+          "tipNl": "Bus 25 vanaf Old Steine rijdt elke 10 minuten rechtstreeks naar de parkingang, makkelijker dan in het weekend met de auto rijden wanneer de parkeerplaatsen vol zijn."
         }
       ],
       "tipsEn": [
@@ -422,7 +456,9 @@
         }
       ],
       "titleDe": "Die besten Hundeparks in Brighton",
+      "titleNl": "De beste hondenparken in Brighton",
       "introDe": "Brighton & Hove verfügt über neun große Parks, die Hunde zulassen, sowie mehrere große offene Grünflächen, vom gepflegten Preston Park bis zu den bewaldeten Hängen von Stanmer. Die Freilaufregelung ist in den Grünflächen im Allgemeinen großzügig (sofern die Hunde unter Kontrolle bleiben), mit Einschränkungen nur rund um Kinderspielplätze, Sportplätze und Weidezonen für Weidetiere. Führen Sie immer Kotbeutel mit sich: Die Stadtverwaltung verhängt Bußgelder für Verunreinigungen.",
+      "introNl": "Brighton & Hove telt negen grote parken die honden toelaten, plus meerdere grote open groene ruimtes, van het verzorgde Preston Park tot de beboste hellingen van Stanmer. Het losloopbeleid is over het algemeen ruimhartig in de groene ruimtes (zolang honden onder controle blijven), met beperkingen alleen rond speeltuinen, sportvelden en weidezones voor grazend vee. Neem altijd poepzakjes mee: de gemeente legt boetes op voor vervuiling.",
       "faqsDe": [
         {
           "q": "Wo kann ich meinen Hund im Zentrum von Brighton ohne Leine laufen lassen?",
@@ -435,6 +471,20 @@
         {
           "q": "Kann mein Hund von Brighton aus auf den South-Downs-Wegen laufen?",
           "a": "Ja, der Stanmer Park schließt direkt an den Fernwanderweg South Downs Way an. Halten Sie Ihren Hund in der Nähe von Weidetieren an der Leine; auf den offenen Downs ist Freilauf in Ordnung."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar kan ik mijn hond in het centrum van Brighton loslaten?",
+          "a": "Hove Lawns is de belangrijkste centrale optie (het hele jaar loslopend), Queen's Park heeft eigen losloopgebieden, en op de hoofdgrasvelden van Preston Park mogen honden los."
+        },
+        {
+          "q": "Zijn er omheinde hondenparken in Brighton?",
+          "a": "Brighton heeft geen volledig omheinde gemeentelijke hondenparken. Loslopen is standaard toegestaan in open groene ruimtes, mits de eigenaar de controle behoudt."
+        },
+        {
+          "q": "Kan mijn hond vanuit Brighton op de South Downs-paden lopen?",
+          "a": "Ja, Stanmer Park sluit direct aan op de lange-afstandswandelroute South Downs Way. Houd je hond aangelijnd in de buurt van vee; op de open Downs mag hij los."
         }
       ]
     },
@@ -467,8 +517,11 @@
           "petPolicyPt": "Até 2 cães grátis; só no chão ou ao colo; ao critério do motorista quando vai cheio",
           "tipPt": "Evita as horas de ponta, das 08h00 às 09h30 e das 16h30 às 18h30, com um cão grande: os autocarros enchem e o motorista pode recusar a entrada.",
           "descriptionDe": "Das preisgekrönte örtliche Busnetz deckt das Zentrum von Brighton, Hove und die umliegenden Ortschaften ab. Hunde fahren kostenlos, ohne Ticketpflicht. Bis zu zwei Hunde pro Fahrgast sind das übliche Limit, mehr erfordert die Erlaubnis des Fahrers. Hunde müssen auf dem Boden oder auf dem Schoß des Besitzers sitzen, niemals auf den Sitzen.",
+          "descriptionNl": "Het bekroonde lokale busnet dekt het centrum van Brighton, Hove en de omliggende plaatsen. Honden reizen gratis mee, zonder ticketplicht. Maximaal twee honden per passagier is de gangbare limiet, meer vereist toestemming van de chauffeur. Honden moeten op de vloer of op de schoot van de eigenaar zitten, nooit op de stoelen.",
           "petPolicyDe": "Bis zu 2 Hunde kostenlos; nur Boden oder Schoß; Ermessen des Fahrers bei vollem Bus",
-          "tipDe": "Meiden Sie mit einem großen Hund die Stoßzeiten 08:00-09:30 und 16:30-18:30 Uhr, die Busse füllen sich, und der Fahrer kann das Einsteigen verweigern."
+          "petPolicyNl": "Tot 2 honden gratis; alleen vloer of schoot; chauffeur beslist bij volle bus",
+          "tipDe": "Meiden Sie mit einem großen Hund die Stoßzeiten 08:00-09:30 und 16:30-18:30 Uhr, die Busse füllen sich, und der Fahrer kann das Einsteigen verweigern.",
+          "tipNl": "Vermijd met een grote hond de spitsuren van 08:00-09:30 en 16:30-18:30 uur, de bussen raken vol en de chauffeur kan het instappen weigeren."
         },
         {
           "name": "Southern Railway / Thameslink (Brighton Station)",
@@ -489,8 +542,11 @@
           "tipPt": "Os comboios fora das horas de ponta (antes das 06:30 e depois das 09:30 de Londres) sao muito mais tranquilos e baratos. Os comboios de Brighton enchem-se as sextas e sabados de verao, reserve com antecedencia.",
           "googleMapsUrl": "https://maps.google.com/?q=Brighton+Railway+Station",
           "descriptionDe": "Southern Railway und Thameslink betreiben die Hauptstrecke London-Brighton (London Victoria 1 Std. 00 Min., London Bridge 1 Std. 05 Min., London St Pancras 1 Std. 27 Min. über Thameslink). Bis zu zwei wohlerzogene Hunde reisen kostenlos pro zahlendem Fahrgast. Hunde müssen angeleint und unter Kontrolle sein. Der Bahnhof Brighton liegt 15 Gehminuten von der Uferpromenade entfernt, alternativ jeder Bus nach Süden.",
+          "descriptionNl": "Southern Railway en Thameslink rijden de hoofdlijn Londen-Brighton (London Victoria 1u00, London Bridge 1u05, London St Pancras 1u27 via Thameslink). Tot twee goed opgevoede honden reizen gratis mee per betalende passagier. Honden moeten aangelijnd en onder controle zijn. Station Brighton ligt 15 minuten lopen van de boulevard, of neem elke bus zuidwaarts.",
           "petPolicyDe": "Bis zu 2 Hunde kostenlos pro Fahrgast, angeleint",
-          "tipDe": "Züge außerhalb der Stoßzeiten (vor 06:30 und nach 09:30 ab London) sind deutlich ruhiger und günstiger. Brighton-Züge sind an Sommer-Freitagen und -Samstagen voll, im Voraus buchen."
+          "petPolicyNl": "Tot 2 honden gratis per passagier, aangelijnd",
+          "tipDe": "Züge außerhalb der Stoßzeiten (vor 06:30 und nach 09:30 ab London) sind deutlich ruhiger und günstiger. Brighton-Züge sind an Sommer-Freitagen und -Samstagen voll, im Voraus buchen.",
+          "tipNl": "Treinen buiten de spits (voor 06:30 en na 09:30 vanuit Londen) zijn aanzienlijk rustiger en goedkoper. Treinen naar Brighton zitten vol op zomerse vrijdagen en zaterdagen, boek van tevoren."
         },
         {
           "name": "Lime / Beryl Brighton Bikes",
@@ -511,8 +567,11 @@
           "tipPt": "A ciclovia do passeio maritimo e bidirecional e muito frequentada aos fins de semana de verao. Use o inicio da manha (antes das 09:00) para o passeio dog-friendly mais agradavel.",
           "googleMapsUrl": "https://maps.google.com/?q=Brighton+seafront+cycle+path",
           "descriptionDe": "Beryl (vormals Lime) betreibt Brightons stationsloses E-Bike-Verleihnetz mit Abdeckung der Uferpromenade, North Laine und Hove. Kleine Hunde können in einem Lenkerkorb oder einer speziellen Hunde-Transportvorrichtung (eigene mitzubringen) mitfahren. Der Radweg an der Uferpromenade von Hove bis Brighton Marina (5 km, flach, autofrei) ist die einfachste hundefreundliche Radroute der Stadt.",
+          "descriptionNl": "Beryl (voorheen Lime) beheert Brightons stationloze e-fietsverhuurnetwerk met dekking van de boulevard, North Laine en Hove. Kleine honden kunnen mee in een stuurmand of een speciale hondenvervoervoorziening (zelf meebrengen). Het fietspad langs de boulevard van Hove tot Brighton Marina (5 km, vlak, autovrij) is de makkelijkste hondvriendelijke fietsroute van de stad.",
           "petPolicyDe": "Kleine Hunde im Korb oder in der eigenen Transporttasche; keine formelle Hunderichtlinie, liegt im Ermessen des Fahrers",
-          "tipDe": "Der Radweg an der Uferpromenade ist zweispurig und an Sommerwochenenden stark frequentiert. Nutzen Sie den frühen Morgen (vor 09:00 Uhr) für die angenehmste hundefreundliche Fahrt."
+          "petPolicyNl": "Kleine honden in mand of eigen draagtas; geen officieel hondenbeleid, ter beoordeling van de gebruiker",
+          "tipDe": "Der Radweg an der Uferpromenade ist zweispurig und an Sommerwochenenden stark frequentiert. Nutzen Sie den frühen Morgen (vor 09:00 Uhr) für die angenehmste hundefreundliche Fahrt.",
+          "tipNl": "Het fietspad langs de boulevard heeft twee rijstroken en is druk in zomerse weekenden. Gebruik de vroege ochtend (voor 09:00 uur) voor de fijnste hondvriendelijke rit."
         }
       ],
       "tipsEn": [
@@ -594,7 +653,9 @@
         }
       ],
       "titleDe": "Haustierfreundlicher Nahverkehr in Brighton",
+      "titleNl": "Huisdiervriendelijk openbaar vervoer in Brighton",
       "introDe": "Die Verkehrsinfrastruktur Brightons gehört zu den haustierfreundlichsten in Großbritannien. Brighton & Hove Buses nehmen Hunde auf jeder Linie kostenlos mit, die Züge von Southern Railway und Thameslink akzeptieren bis zu zwei Haustiere pro Fahrgast kostenlos, und die Volk's Electric Railway, die Miniaturbahn an der Uferpromenade, lässt angeleinte Hunde ausdrücklich zu. Die einzige Ausnahme ist der Brighton Palace Pier, wo nur Assistenzhunde auf die Bohlen dürfen.",
+      "introNl": "De vervoersinfrastructuur van Brighton behoort tot de meest huisdiervriendelijke van Groot-Brittannië. Brighton & Hove Buses nemen honden op elke lijn gratis mee, de treinen van Southern Railway en Thameslink accepteren tot twee huisdieren per passagier gratis, en de Volk's Electric Railway, het miniatuurspoor aan de boulevard, laat aangelijnde honden uitdrukkelijk toe. De enige uitzondering is de Brighton Palace Pier, waar alleen hulphonden op de planken mogen.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Brightons Bussen kostenlos?",
@@ -607,6 +668,20 @@
         {
           "q": "Sind Hunde auf dem Brighton Palace Pier erlaubt?",
           "a": "Nein, nur Assistenzhunde dürfen den Pier selbst betreten. Die Cafés am Ufer, der Strand und die daneben liegende Volk's Electric Railway bleiben hundefreundlich."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden gratis in de bussen van Brighton?",
+          "a": "Ja, Brighton & Hove Buses rekenen niets voor honden. Tot twee per passagier, meer vereist toestemming van de chauffeur."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen in de trein van London Victoria naar Brighton?",
+          "a": "Ja, de verbindingen van Southern en Thameslink accepteren tot twee honden gratis per volwassen ticket. De rit duurt ongeveer een uur."
+        },
+        {
+          "q": "Zijn honden toegestaan op de Brighton Palace Pier?",
+          "a": "Nee, alleen hulphonden mogen de pier zelf betreden. De cafés aan de oever, het strand en de ernaast liggende Volk's Electric Railway blijven hondvriendelijk."
         }
       ]
     },
@@ -639,8 +714,11 @@
           "petPolicyPt": "Sem trela todo o ano, incluindo de 1 de maio a 30 de setembro",
           "tipPt": "Caminha para oeste em direção à lagoa: menos gente e o calhau fica mais pequeno, mais suave para as patas.",
           "descriptionDe": "Der verlässlichste Hundestrand der Stadt, vor und direkt östlich des Hove Lawns Café. Hunde sind ganzjährig erlaubt, auch während des Sommerverbots, das für den größten Teil der zentralen Strandpromenade gilt. Kiesel statt Sand unter den Pfoten, mit einem sanften Gefälle ins Meer, Wassernäpfe sind am Café draußen verfügbar.",
+          "descriptionNl": "Het meest betrouwbare hondenstrand van de stad, voor en direct ten oosten van het Hove Lawns Café. Honden zijn het hele jaar toegestaan, ook tijdens het zomerverbod dat geldt voor het grootste deel van de centrale strandboulevard. Kiezels in plaats van zand onder de poten, met een geleidelijke afdaling naar zee, waterbakjes zijn buiten bij het café beschikbaar.",
           "petPolicyDe": "Ganzjährig ohne Leine, auch vom 1. Mai bis 30. September",
-          "tipDe": "Gehen Sie Richtung Westen zur Lagune, dort sind weniger Leute unterwegs und die Kiesel werden kleiner und schonender für die Pfoten."
+          "petPolicyNl": "Het hele jaar loslopend, ook van 1 mei tot 30 september",
+          "tipDe": "Gehen Sie Richtung Westen zur Lagune, dort sind weniger Leute unterwegs und die Kiesel werden kleiner und schonender für die Pfoten.",
+          "tipNl": "Loop richting het westen naar de lagune, daar zijn minder mensen en worden de kiezels kleiner en zachter voor de poten."
         },
         {
           "name": "Saltdean Beach",
@@ -663,8 +741,11 @@
           "petPolicyPt": "Cães bem-vindos todo o ano; sem trela tolerado quando há pouca gente",
           "tipPt": "Consulta a tabela das marés: na maré baixa podes regressar a pé até à Marina pelo Undercliff Walk em hora e meia.",
           "descriptionDe": "Eine breite Kieselbucht am östlichen Rand von Brighton & Hove, umrahmt von Kreidefelsen. Hunde sind ganzjährig willkommen, wobei Freilauf geduldet wird, wenn der Strand ruhig ist. Gezeitenabhängig: bei Ebbe entsteht ein langer, flacher Sandstreifen. Der Undercliff Walk führt zurück in Richtung Brighton Marina, durchgehend an der Leine hundefreundlich.",
+          "descriptionNl": "Een brede kiezelbaai aan de oostelijke rand van Brighton & Hove, omlijst door krijtrotsen. Honden zijn het hele jaar welkom, waarbij loslopen wordt gedoogd als het strand rustig is. Getijafhankelijk: bij eb ontstaat een lange, vlakke zandstrook. De Undercliff Walk leidt terug richting Brighton Marina, aangelijnd hondvriendelijk over de hele lengte.",
           "petPolicyDe": "Hunde ganzjährig willkommen; Freilauf geduldet, wenn ruhig",
-          "tipDe": "Prüfen Sie die Gezeitentabelle, bei Ebbe können Sie in 90 Minuten den ganzen Weg zurück zur Marina entlang des Undercliff Walk gehen."
+          "petPolicyNl": "Honden het hele jaar welkom; loslopen gedoogd als het rustig is",
+          "tipDe": "Prüfen Sie die Gezeitentabelle, bei Ebbe können Sie in 90 Minuten den ganzen Weg zurück zur Marina entlang des Undercliff Walk gehen.",
+          "tipNl": "Controleer de getijtabel, bij eb kun je in 90 minuten helemaal terug naar de marina lopen langs de Undercliff Walk."
         },
         {
           "name": "Brighton Central Beach (winter only)",
@@ -687,8 +768,11 @@
           "petPolicyPt": "Sem trela de 1 out a 30 abr; proibido de 1 mai a 30 set",
           "tipPt": "Outubro e abril são os melhores meses: acesso à praia sem a multidão do verão e sem proibição.",
           "descriptionDe": "Vom 1. Oktober bis 30. April öffnet sich der gesamte zentrale Strand Brightons, Kiesel, Strandhütten und Bögen, für Hunde ohne Leine. Vom 1. Mai bis 30. September sind Hunde auf diesem Abschnitt zu keiner Zeit erlaubt. Der Winterspaziergang zwischen den beiden Piers ist eines der großen britischen Strandvergnügen für Hunde, mit rollenden Wellen und kaum Andrang.",
+          "descriptionNl": "Van 1 oktober tot 30 april gaat het hele centrale strand van Brighton, kiezels, strandhuisjes en bogen, open voor loslopende honden. Van 1 mei tot 30 september zijn honden op dit gedeelte op geen enkel moment toegestaan. De winterwandeling tussen de twee piers is een van de grote Britse strandgenoegens voor honden, met rollende golven en nauwelijks drukte.",
           "petPolicyDe": "Ohne Leine vom 1. Okt.–30. Apr.; verboten vom 1. Mai–30. Sep.",
-          "tipDe": "Oktober und April sind die idealen Monate, Strandzugang ohne Sommerandrang, kein Verbot."
+          "petPolicyNl": "Loslopend van 1 okt.-30 apr.; verboden van 1 mei-30 sep.",
+          "tipDe": "Oktober und April sind die idealen Monate, Strandzugang ohne Sommerandrang, kein Verbot.",
+          "tipNl": "Oktober en april zijn de ideale maanden, strandtoegang zonder zomerdrukte, geen verbod."
         }
       ],
       "tipsEn": [
@@ -770,7 +854,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in Brighton",
+      "titleNl": "Hondvriendelijke stranden in Brighton",
       "introDe": "Brighton & Hove hat einen strengen Strandkalender: Hunde sind an jedem Strand vom 1. Oktober bis 30. April willkommen, und den Rest des Jahres an einer Liste ausgewiesener Strände. Führen Sie immer Kotbeutel mit sich und behalten Sie Ihren Hund unter enger Kontrolle, es gibt zu keiner Zeit ein Freilaufverbot, aber im Sommer patrouillieren Ordnungskräfte. Auf der gepflasterten Promenade selbst sind Hunde an der Leine zu führen.",
+      "introNl": "Brighton & Hove heeft een strikte strandkalender: honden zijn op elk strand welkom van 1 oktober tot 30 april, en de rest van het jaar op een lijst aangewezen stranden. Neem altijd poepzakjes mee en houd je hond onder strikte controle, er geldt op geen enkel moment een verbod op loslopen, maar in de zomer patrouilleert de gemeentelijke handhaving. Op de bestrate promenade zelf moeten honden aangelijnd zijn.",
       "faqsDe": [
         {
           "q": "Wo kann ich meinen Hund im Sommer an den Strand von Brighton mitnehmen?",
@@ -783,6 +869,20 @@
         {
           "q": "Ist der Strand von Brighton im Winter hundefreundlich?",
           "a": "Ja, jeder Strand von Brighton & Hove heißt Hunde vom 1. Oktober bis 30. April willkommen, einschließlich der zentralen Strandpromenade. Der Winter ist die beste Jahreszeit für einen Strandurlaub mit Hund in Brighton."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar kan ik mijn hond 's zomers meenemen naar het strand van Brighton?",
+          "a": "Hove Lawns Beach (voor en ten oosten van het café), Saltdean Beach, Rottingdean Beach en het eigen hondvriendelijke gedeelte bij Carats Café. Het centrale strand tussen de twee piers is van 1 mei tot 30 september gesloten voor honden."
+        },
+        {
+          "q": "Mogen honden loslopen op de stranden van Brighton?",
+          "a": "Er geldt geen algemeen losloopverbod, honden kunnen op hondvriendelijke stranden het hele jaar los lopen. De aanlijnplicht geldt alleen op de bestrate promenade zelf."
+        },
+        {
+          "q": "Is het strand van Brighton in de winter hondvriendelijk?",
+          "a": "Ja, elk strand van Brighton & Hove heet honden welkom van 1 oktober tot 30 april, inclusief de centrale strandboulevard. De winter is het beste seizoen voor een strandvakantie met hond in Brighton."
         }
       ]
     },
@@ -812,7 +912,9 @@
           "descriptionPt": "O maior grupo veterinário independente da cidade, com o hospital de urgência original Vetcall 24 horas na Freshfield Way. Equipado para cirurgia, diagnóstico por imagem e cuidados intensivos, funciona como parceiro regional fora de horas de várias clínicas mais pequenas. De língua inglesa, naturalmente, e habituado a visitantes internacionais.",
           "tipPt": "Guarda o número antes de chegares: a mesma linha cobre a maioria das clínicas mais pequenas de Brighton fora de horas.",
           "descriptionDe": "Die größte unabhängige Tierarztgruppe der Stadt, mit dem ursprünglichen 24-Stunden-Notfallkrankenhaus Vetcall auf Freshfield Way. Ausgestattet für Chirurgie, Diagnostik-Bildgebung und Intensivpflege, dient sie als regionaler Partner für den Notdienst mehrerer kleinerer Kliniken. Selbstverständlich englischsprachig und an internationale Besucher gewöhnt.",
-          "tipDe": "Speichern Sie die Nummer schon vor Ihrer Ankunft, dieselbe Leitung deckt außerhalb der Öffnungszeiten die meisten kleineren Kliniken Brightons ab."
+          "descriptionNl": "De grootste onafhankelijke dierenartsengroep van de stad, met het oorspronkelijke 24-uurs spoedziekenhuis Vetcall aan Freshfield Way. Uitgerust voor chirurgie, diagnostische beeldvorming en intensieve zorg, en fungeert als regionale partner voor de spoeddienst van meerdere kleinere klinieken. Vanzelfsprekend Engelstalig en gewend aan internationale bezoekers.",
+          "tipDe": "Speichern Sie die Nummer schon vor Ihrer Ankunft, dieselbe Leitung deckt außerhalb der Öffnungszeiten die meisten kleineren Kliniken Brightons ab.",
+          "tipNl": "Sla het nummer al op voor je aankomst, dezelfde lijn dekt buiten openingstijden de meeste kleinere klinieken van Brighton."
         },
         {
           "name": "Vets4Pets Brighton",
@@ -832,7 +934,9 @@
           "descriptionPt": "Filial da cadeia nacional dentro da megaloja Pets at Home na Brighton Marina, útil para consultas de rotina, vacinas e verificação de documentos de viagem. Marcável online, muitas vezes com horários no próprio dia, e acesso direto a todos os produtos normais da Pets at Home após a consulta.",
           "tipPt": "Estaciona no parque subterrâneo da Marina (gratuito nos primeiros 90 minutos) e atravessa a megaloja até à consulta.",
           "descriptionDe": "Filiale der landesweiten Kette innerhalb des Pets-at-Home-Superstores in Brighton Marina, nützlich für Routinetermine, Impfungen und die Prüfung von Reisedokumenten. Online buchbar, oft mit Terminen am selben Tag, und direkter Zugang zum kompletten Sortiment von Pets at Home nach der Konsultation.",
-          "tipDe": "Parken Sie in der Tiefgarage der Marina (die ersten 90 Minuten kostenlos) und gehen Sie durch den Superstore zur Praxis."
+          "descriptionNl": "Vestiging van de landelijke keten binnen de Pets-at-Home-superstore bij Brighton Marina, handig voor routineafspraken, vaccinaties en controle van reisdocumenten. Online te boeken, vaak met afspraken dezelfde dag, en directe toegang tot het volledige assortiment van Pets at Home na het consult.",
+          "tipDe": "Parken Sie in der Tiefgarage der Marina (die ersten 90 Minuten kostenlos) und gehen Sie durch den Superstore zur Praxis.",
+          "tipNl": "Parkeer in de parkeergarage van de marina (de eerste 90 minuten gratis) en loop door de superstore naar de praktijk."
         }
       ],
       "tipsEn": [
@@ -914,7 +1018,9 @@
         }
       ],
       "titleDe": "Notfall-Tierärzte in Brighton, Tierkliniken & Haustierpflege",
+      "titleNl": "Spoedartsen voor huisdieren in Brighton, dierenklinieken & huisdierenzorg",
       "introDe": "Brighton verfügt über ein dichtes Tierarztnetz, angeführt von der Coastway Veterinary Group, die das städtische 24-Stunden-Notfallkrankenhaus betreibt. Der Notdienst außerhalb der Öffnungszeiten wird für die meisten örtlichen Praxen über dasselbe Krankenhaus abgewickelt, sodass eine einzige Nummer den Zugang zur nächtlichen Notfallversorgung sichert. Auch überregionale Ketten wie Vets4Pets und Medivet sind vertreten, mit unkompliziert online buchbaren Tagesterminen.",
+      "introNl": "Brighton heeft een dicht dierenartsennetwerk, aangevoerd door de Coastway Veterinary Group, die het stedelijke 24-uurs spoedziekenhuis beheert. De spoeddienst buiten openingstijden wordt voor de meeste lokale praktijken via datzelfde ziekenhuis afgehandeld, zodat één telefoonnummer toegang geeft tot nachtelijke spoedzorg. Ook landelijke ketens zoals Vets4Pets en Medivet zijn vertegenwoordigd, met eenvoudig online te boeken dagafspraken.",
       "faqsDe": [
         {
           "q": "Wo ist der nächste 24-Stunden-Tierarzt zum Stadtzentrum von Brighton?",
@@ -927,6 +1033,20 @@
         {
           "q": "Nehmen Notfall-Tierärzte nur Bargeld an?",
           "a": "Nein, Coastway und die meisten Notfallkliniken in Brighton akzeptieren alle gängigen Karten und kontaktloses Bezahlen. Die Kosten liegen über den Tagessätzen; eine Notfallberatung beginnt typischerweise bei 150 GBP."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar is de dichtstbijzijnde 24-uurs dierenarts vanaf het centrum van Brighton?",
+          "a": "Het ziekenhuis van de Coastway Veterinary Group aan Freshfield Way (BN2 0DF), ongeveer 10 autominuten van de boulevard. Telefoon +44 1273 692 257."
+        },
+        {
+          "q": "Kan ik mijn hond uit de EU naar een dierenarts in Brighton brengen?",
+          "a": "Ja, Britse klinieken behandelen routinematig EU-geregistreerde huisdieren. Neem het huisdierenpaspoort / de gezondheidsverklaring mee; de meeste klinieken stellen voor een verzekeringsclaim een factuur in het Engels op."
+        },
+        {
+          "q": "Nemen spoeddierenartsen alleen contant geld aan?",
+          "a": "Nee, Coastway en de meeste spoedklinieken in Brighton accepteren alle gangbare kaarten en contactloos betalen. De kosten liggen boven de dagtarieven; een spoedconsult begint doorgaans bij 150 GBP."
         }
       ]
     },
@@ -947,7 +1067,8 @@
           "descriptionFr": "La plage de Brighton est geree pour les chiens toute l'annee mais certaines sections ont des restrictions saisonnieres de mai a septembre. Les chiens sont toujours bienvenus sur la plage de galets a l'est de Brighton Marina et a l'ouest des ruines du West Pier. La section centrale (entre Palace Pier et West Pier) a des restrictions en haute saison certains jours ; verifiez la signalisation du conseil a l'arrivee. Les South Downs fin septembre et octobre sont exceptionnels : sentiers plus calmes, temperatures plus basses, collines encore vertes.",
           "descriptionEs": "La playa de Brighton esta gestionada para perros todo el ano pero algunas secciones tienen restricciones estacionales de mayo a septiembre. Los perros siempre son bienvenidos en la playa de guijarros al este de Brighton Marina y al oeste de las ruinas del West Pier. La seccion central (entre Palace Pier y West Pier) tiene restricciones en alta temporada algunos dias; verifica la senalizacion del ayuntamiento al llegar. Los South Downs a finales de septiembre y octubre son excepcionales: senderos mas tranquilos, temperaturas mas bajas, colinas aun verdes.",
           "descriptionPt": "A praia de Brighton e gerida para caes durante todo o ano mas algumas seccoes tem restricoes sazonais de maio a setembro. Os caes sao sempre bem-vindos na praia de calhaus a leste de Brighton Marina e a oeste das ruinas do West Pier. A seccao central (entre Palace Pier e West Pier) tem restricoes em alta temporada em alguns dias; verifique a sinalizacao do conselho a chegada. Os South Downs no final de setembro e outubro sao excecionais: trilhos mais tranquilos, temperaturas mais baixas, colinas ainda verdes.",
-          "descriptionDe": "Der Strand von Brighton ist ganzjährig für Hunde zugänglich, aber einige Abschnitte unterliegen von Mai bis September saisonalen Einschränkungen. Hunde sind östlich der Brighton Marina und westlich der Ruinen des West Pier immer am Kiesstrand willkommen. Der mittlere Abschnitt (zwischen Palace Pier und West Pier) unterliegt an manchen Tagen in der Hauptsaison Einschränkungen, prüfen Sie die Beschilderung der Gemeinde vor Ort. Die South Downs sind Ende September und im Oktober außergewöhnlich: ruhigere Wege, niedrigere Temperaturen, noch grüne Hügel."
+          "descriptionDe": "Der Strand von Brighton ist ganzjährig für Hunde zugänglich, aber einige Abschnitte unterliegen von Mai bis September saisonalen Einschränkungen. Hunde sind östlich der Brighton Marina und westlich der Ruinen des West Pier immer am Kiesstrand willkommen. Der mittlere Abschnitt (zwischen Palace Pier und West Pier) unterliegt an manchen Tagen in der Hauptsaison Einschränkungen, prüfen Sie die Beschilderung der Gemeinde vor Ort. Die South Downs sind Ende September und im Oktober außergewöhnlich: ruhigere Wege, niedrigere Temperaturen, noch grüne Hügel.",
+          "descriptionNl": "Het strand van Brighton is het hele jaar toegankelijk voor honden, maar sommige gedeeltes kennen van mei tot september seizoensbeperkingen. Honden zijn altijd welkom op het kiezelstrand ten oosten van Brighton Marina en ten westen van de ruïnes van de West Pier. Het middelste gedeelte (tussen Palace Pier en West Pier) kent op sommige dagen in het hoogseizoen beperkingen, controleer ter plekke de bebording van de gemeente. Eind september en oktober zijn de South Downs bijzonder: rustigere paden, lagere temperaturen, nog groene heuvels."
         },
         {
           "name": "UK pet-import paperwork (2026)",
@@ -955,7 +1076,8 @@
           "descriptionFr": "De l'UE: puce ISO, vaccin antirabique (21 jours min) et AHC par OV de l'UE dans les 10 jours. 4 mois pour le retour. Antitenias seulement pour Irlande, Finlande, Malte ou Norvege.",
           "descriptionEs": "De la UE: microchip ISO, vacuna antirrábica (21 dias min) y AHC por OV de la UE en 10 dias. 4 meses para retorno. Antitenia solo para Irlanda, Finlandia, Malta o Noruega.",
           "descriptionPt": "Da UE: microchip ISO, vacinacao antirabica (21 dias min) e AHC por OV da UE nos 10 dias. 4 meses para regresso. Anti-tenia so para Irlanda, Finlandia, Malta ou Noruega.",
-          "descriptionDe": "Aus der EU: ISO-Mikrochip, gültige Tollwutimpfung (mind. 21 Tage) und eine britische GB Animal Health Certificate (AHC), ausgestellt von einem EU-amtlichen Tierarzt innerhalb von 10 Tagen vor Ankunft. Für die Rückreise 4 Monate gültig. Bandwurmbehandlung nur für Irland, Finnland, Malta oder Norwegen erforderlich."
+          "descriptionDe": "Aus der EU: ISO-Mikrochip, gültige Tollwutimpfung (mind. 21 Tage) und eine britische GB Animal Health Certificate (AHC), ausgestellt von einem EU-amtlichen Tierarzt innerhalb von 10 Tagen vor Ankunft. Für die Rückreise 4 Monate gültig. Bandwurmbehandlung nur für Irland, Finnland, Malta oder Norwegen erforderlich.",
+          "descriptionNl": "Vanuit de EU: ISO-microchip, geldige rabiësvaccinatie (minstens 21 dagen oud) en een Brits GB Animal Health Certificate (AHC), afgegeven door een EU-erkende dierenarts binnen 10 dagen voor aankomst. Voor de terugreis 4 maanden geldig. Lintwormbehandeling alleen vereist voor Ierland, Finland, Malta of Noorwegen."
         },
         {
           "name": "Walking Brighton with a dog",
@@ -964,7 +1086,8 @@
           "descriptionFr": "Le meilleur itineraire relie la promenade du bord de mer (10 km de Rottingdean au Hove Lagoon, plat, entierement dog-friendly) aux South Downs via l'Undercliff Path a l'est de Brighton Marina. Devil's Dyke (6 km au nord de Brighton, National Trust, 280 ha de prairie calcaire, chiens sans laisse sur les pres ouverts) est la plus grande promenade sans laisse la plus accessible. Prenez le bus 77 depuis Old Steine (chiens acceptes a la discretion du chauffeur).",
           "descriptionEs": "La mejor ruta une el paseo maritimo (10 km de Rottingdean al Hove Lagoon, llano, completamente dog-friendly) con los South Downs via el Undercliff Path al este de Brighton Marina. Devil's Dyke (6 km al norte de Brighton, National Trust, 280 ha de pradera caliza, perros sin correa en pradera abierta) es el mejor gran paseo sin correa accesible. Toma el autobus 77 desde el Old Steine (perros admitidos a discrecion del conductor).",
           "descriptionPt": "A melhor rota liga o passeio maritimo (10 km de Rottingdean ao Hove Lagoon, plano, completamente dog-friendly) aos South Downs pelo Undercliff Path a leste de Brighton Marina. Devil's Dyke (6 km a norte de Brighton, National Trust, 280 ha de pradaria calcaria, caes sem trela em pradaria aberta) e o melhor grande passeio sem trela acessivel. Apanhe o autocarro 77 a partir do Old Steine (caes aceites ao criterio do motorista).",
-          "descriptionDe": "Die beste Route verbindet die Strandpromenade (10 km von Rottingdean nach Hove Lagoon, flach, durchgehend hundefreundlich) mit den South Downs über den Undercliff Path östlich der Brighton Marina. Devil's Dyke (6 km nördlich von Brighton, National Trust, 280 Hektar Kalksteinhochland, Hunde ohne Leine auf offenen Wiesen) ist der einfachste große Spaziergang ohne Leine. Nehmen Sie den Bus Nummer 77 ab Old Steine (Hunde nach Ermessen des Fahrers zugelassen)."
+          "descriptionDe": "Die beste Route verbindet die Strandpromenade (10 km von Rottingdean nach Hove Lagoon, flach, durchgehend hundefreundlich) mit den South Downs über den Undercliff Path östlich der Brighton Marina. Devil's Dyke (6 km nördlich von Brighton, National Trust, 280 Hektar Kalksteinhochland, Hunde ohne Leine auf offenen Wiesen) ist der einfachste große Spaziergang ohne Leine. Nehmen Sie den Bus Nummer 77 ab Old Steine (Hunde nach Ermessen des Fahrers zugelassen).",
+          "descriptionNl": "De beste route combineert de strandboulevard (10 km van Rottingdean naar Hove Lagoon, vlak, over de hele lengte hondvriendelijk) met de South Downs via het Undercliff Path ten oosten van Brighton Marina. Devil's Dyke (6 km ten noorden van Brighton, National Trust, 280 hectare kalksteenheuvels, honden los op open weiden) is de eenvoudigste grote loslopwandeling. Neem buslijn 77 vanaf Old Steine (honden toegestaan naar goeddunken van de chauffeur)."
         }
       ],
       "tipsEn": [
@@ -1028,7 +1151,9 @@
         }
       ],
       "titleDe": "Mit dem Hund nach Brighton reisen: Praktische Tipps",
+      "titleNl": "Met de hond naar Brighton reizen: praktische tips",
       "introDe": "Brighton ist eine der hundefreundlichsten Küstenstädte Großbritanniens. Eine lange Uferpromenade, Zugang zu den South Downs 3 km vom Zentrum entfernt und eine Indie-Café-Kultur, die standardmäßig hundefreundlich ist, machen es zu einem unkomplizierten Wochenendausflug mit Hund.",
+      "introNl": "Brighton is een van de hondvriendelijkste kuststeden van Groot-Brittannië. Een lange boulevard, toegang tot de South Downs op 3 km van het centrum en een indie-cafécultuur die standaard hondvriendelijk is, maken het een probleemloos weekendje weg met hond.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde an den Strand von Brighton?",
@@ -1037,6 +1162,16 @@
         {
           "q": "Wie weit ist Devil's Dyke von Brighton entfernt?",
           "a": "Etwa 6 km nördlich vom Stadtzentrum Brighton. Die schnellste Option ist der Bus Nr. 77 ab Old Steine (etwa 20 Minuten, Hunde nach Ermessen des Fahrers erlaubt). Mit dem Auto gibt es einen großen kostenlosen Parkplatz beim NT-Gelände."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden op het strand van Brighton?",
+          "a": "Ja, honden zijn het hele jaar welkom op de meeste delen van het strand van Brighton. Het middelste gedeelte tussen Palace Pier en West Pier kent in het hoogseizoen overdag bepaalde beperkingen; controleer bij aankomst de bebording van de gemeente. Ten oosten van de marina en ten westen van de ruïnes van de West Pier zijn honden altijd welkom."
+        },
+        {
+          "q": "Hoe ver ligt Devil's Dyke van Brighton?",
+          "a": "Ongeveer 6 km ten noorden van het centrum van Brighton. De snelste optie is buslijn 77 vanaf Old Steine (ongeveer 20 minuten, honden toegestaan naar goeddunken van de chauffeur). Met de auto is er een grote gratis parkeerplaats bij het NT-terrein."
         }
       ]
     },
@@ -1069,8 +1204,11 @@
           "petPolicyPt": "Cães bem-vindos com trela; não admitidos no interior do Pavilion",
           "tipPt": "Visita ao fim da tarde: a luz dourada sobre as cúpulas brancas é a fotografia clássica de Brighton.",
           "descriptionDe": "Der kostenlose, öffentliche Garten rund um den indo-sarazenischen Palast von George IV. Angeleinte Hunde sind auf der gesamten Rasenfläche und in den historischen Regency-Beeten willkommen, mit dem ikonischen Pavilion als Fotokulisse. Der Garten verbindet Uferpromenade, North Laine und Old Steine zu einem halbtägigen Spazierrundgang.",
+          "descriptionNl": "De gratis, openbare tuin rond het indo-Saraceense paleis van George IV. Aangelijnde honden zijn welkom op het hele grasveld en in de historische Regency-perken, met het iconische Pavilion als fotodecor. De tuin verbindt boulevard, North Laine en Old Steine tot een halve-dag wandelroute.",
           "petPolicyDe": "Hunde an der Leine willkommen; kein Zutritt zum Inneren des Pavilion",
-          "tipDe": "Besuchen Sie den Garten am späten Nachmittag, das goldene Licht auf den weißen Kuppeln ist das klassische Brighton-Foto."
+          "petPolicyNl": "Aangelijnde honden welkom; geen toegang tot het interieur van het Pavilion",
+          "tipDe": "Besuchen Sie den Garten am späten Nachmittag, das goldene Licht auf den weißen Kuppeln ist das klassische Brighton-Foto.",
+          "tipNl": "Bezoek de tuin laat in de middag, het gouden licht op de witte koepels is de klassieke foto van Brighton."
         },
         {
           "name": "Volk's Electric Railway",
@@ -1093,8 +1231,11 @@
           "petPolicyPt": "Cães com trela bem-vindos em todas as carruagens, sem custo adicional",
           "tipPt": "Apanha o comboio para leste até Black Rock, percorre o Undercliff até Saltdean Beach e regressa no autocarro 12: um dia pet-friendly perfeito.",
           "descriptionDe": "Die älteste noch betriebene Elektrobahn der Welt, erbaut 1883, fährt entlang der Uferpromenade von der Aquarium-Station neben dem Brighton Palace Pier bis Black Rock nahe der Marina, mit einer Zwischenhaltestelle. Angeleinte Hunde sind ausdrücklich in jedem Wagen willkommen, ohne Aufpreis. Geöffnet von März bis Oktober.",
+          "descriptionNl": "De oudste nog in bedrijf zijnde elektrische spoorweg ter wereld, gebouwd in 1883, rijdt langs de boulevard van het Aquarium-station naast de Brighton Palace Pier tot Black Rock bij de marina, met een tussenstop. Aangelijnde honden zijn uitdrukkelijk welkom in elk wagon, zonder meerprijs. Open van maart tot oktober.",
           "petPolicyDe": "Angeleinte Hunde in jedem Wagen willkommen, kein Aufpreis",
-          "tipDe": "Nehmen Sie den Zug ostwärts nach Black Rock, laufen Sie den Undercliff Path bis Saltdean Beach, dann Bus 12 zurück, ein perfekter hundefreundlicher Tag."
+          "petPolicyNl": "Aangelijnde honden welkom in elk wagon, geen meerprijs",
+          "tipDe": "Nehmen Sie den Zug ostwärts nach Black Rock, laufen Sie den Undercliff Path bis Saltdean Beach, dann Bus 12 zurück, ein perfekter hundefreundlicher Tag.",
+          "tipNl": "Neem de trein oostwaarts naar Black Rock, loop het Undercliff Path tot Saltdean Beach, en dan bus 12 terug, een perfecte hondvriendelijke dag."
         },
         {
           "name": "The Lanes & North Laine",
@@ -1117,8 +1258,11 @@
           "petPolicyPt": "Cães bem-vindos com trela na maioria das lojas independentes",
           "tipPt": "As tardes de sábado enchem-se: a manhã de domingo é mais tranquila para um circuito de compras sossegado com cão.",
           "descriptionDe": "Brightons zwei Einkaufsviertel, die historischen Lanes (schmale Gassen, Schmuck und Antiquitäten) und das bohemienhafte North Laine (unabhängige Läden, Cafés, Vintage). Die meisten unabhängigen Geschäfte heißen angeleinte Hunde ohne Zögern willkommen; viele halten Wassernäpfe an der Tür bereit. Die gepflasterte Hauptachse ist ein ikonischer Hundespaziergang zwischen den Cafés.",
+          "descriptionNl": "Brightons twee winkelbuurten, de historische Lanes (smalle steegjes, sieraden en antiek) en het bohemien North Laine (onafhankelijke winkels, cafés, vintage). De meeste onafhankelijke winkels heten aangelijnde honden zonder aarzelen welkom; velen hebben waterbakjes klaarstaan bij de deur. De bestrate hoofdas is een iconische hondenwandeling tussen de cafés.",
           "petPolicyDe": "Hunde an der Leine in den meisten unabhängigen Geschäften willkommen",
-          "tipDe": "Samstagnachmittage sind überlaufen, der Sonntagvormittag ist für einen ruhigen Einkaufsbummel mit Hund entspannter."
+          "petPolicyNl": "Honden aan de lijn welkom in de meeste onafhankelijke winkels",
+          "tipDe": "Samstagnachmittage sind überlaufen, der Sonntagvormittag ist für einen ruhigen Einkaufsbummel mit Hund entspannter.",
+          "tipNl": "Zaterdagmiddagen zijn druk, zondagochtend is rustiger voor een ontspannen winkeltochtje met hond."
         }
       ],
       "tipsEn": [
@@ -1200,7 +1344,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Brighton",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Brighton",
       "introDe": "Brightons bekannteste Sehenswürdigkeiten teilen sich klar in „Hunde erlaubt“ und „nur Assistenzhunde“. Das Innere des Royal Pavilion und der Brighton Palace Pier sind tabu, aber die unmittelbare Umgebung, der Royal Pavilion Garden, die Lanes, die Volk's Electric Railway und die gesamte Uferpromenade, sind hundefreundlich. Im Folgenden drei Freiluft-Highlights, bei denen Haustiere zum Besuch dazugehören.",
+      "introNl": "De bekendste bezienswaardigheden van Brighton vallen duidelijk uiteen in 'honden toegestaan' en 'alleen hulphonden'. Het interieur van het Royal Pavilion en de Brighton Palace Pier zijn verboden terrein, maar de directe omgeving, de Royal Pavilion Garden, de Lanes, de Volk's Electric Railway en de hele boulevard zijn hondvriendelijk. Hieronder drie buitenhighlights waar huisdieren gewoon meekunnen.",
       "faqsDe": [
         {
           "q": "Darf mein Hund den Brighton Pier besuchen?",
@@ -1213,6 +1359,20 @@
         {
           "q": "Ist Brighton Marina hundefreundlich?",
           "a": "Im Freien ja, die Promenaden, die Vets4Pets-Klinik und die meisten Café-Terrassen heißen Hunde willkommen. Innenbereiche sind unterschiedlich; Kinos und Ketten-Restaurants lassen Haustiere in der Regel nicht zu."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond de Brighton Pier bezoeken?",
+          "a": "Nee, op de Brighton Palace Pier zelf zijn alleen hulphonden toegestaan. De cafés aan de oever en de boulevard zijn volledig hondvriendelijk."
+        },
+        {
+          "q": "Wat is de beste hondvriendelijke dag in Brighton?",
+          "a": "Wandel door de Royal Pavilion Garden, slenter door de Lanes, lunch op een terras aan de boulevard (Rockwater of The New Club), neem daarna de Volk's Electric Railway naar Black Rock en loop terug via Hove Lawns Beach."
+        },
+        {
+          "q": "Is Brighton Marina hondvriendelijk?",
+          "a": "Buiten wel, de wandelpromenades, de Vets4Pets-kliniek en de meeste caféterrassen heten honden welkom. Binnenruimtes verschillen; bioscopen en ketenrestaurants laten huisdieren doorgaans niet toe."
         }
       ]
     },
@@ -1238,7 +1398,9 @@
           "descriptionPt": "A plataforma de cuidadores pagos mais usada do Reino Unido, com centenas de cuidadores verificados em Brighton que oferecem passeios, visitas e alojamento nocturno. Todas as reservas estão seguradas através da plataforma e os passeios incluem rastreio por GPS. Útil para visitas curtas a museus ou excursões de dia inteiro aos South Downs sem o cão.",
           "tipPt": "Reserva pelo menos 24 horas antes no verão: os cuidadores perto do passeio marítimo enchem-se mais depressa em julho e agosto.",
           "descriptionDe": "Die meistgenutzte britische Plattform für bezahlte Betreuer, mit Hunderten geprüften Betreuern in Brighton, die Spaziergänge, Kurzbesuche und Übernachtungsbetreuung anbieten. Alle Buchungen sind über die Plattform versichert, Spaziergänge beinhalten GPS-Tracking. Nützlich für kurze Museumsbesuche oder Ganztagesausflüge in die South Downs ohne den Hund.",
-          "tipDe": "Buchen Sie im Sommer mindestens 24 Stunden im Voraus, Betreuer nahe der Uferpromenade sind im Juli und August am schnellsten ausgebucht."
+          "descriptionNl": "Het meest gebruikte Britse platform voor betaalde oppassers, met honderden gescreende oppassers in Brighton die wandelingen, korte bezoekjes en overnachtingsoppas aanbieden. Alle boekingen zijn via het platform verzekerd, wandelingen omvatten gps-tracking. Handig voor korte museumbezoekjes of dagtrips naar de South Downs zonder de hond.",
+          "tipDe": "Buchen Sie im Sommer mindestens 24 Stunden im Voraus, Betreuer nahe der Uferpromenade sind im Juli und August am schnellsten ausgebucht.",
+          "tipNl": "Boek in de zomer minstens 24 uur van tevoren, oppassers dicht bij de boulevard zijn in juli en augustus het snelst volgeboekt."
         },
         {
           "name": "Rover.com Brighton",
@@ -1255,7 +1417,9 @@
           "tipEs": "Reserva 48h antes los fines de semana de verano. La demanda en Brighton pico junio-agosto.",
           "tipPt": "Reserve 48h antes aos fins de semana de verao. A procura em Brighton aumenta em junho-agosto.",
           "descriptionDe": "Größte britische Plattform für Haustierbetreuung mit verifizierten Betreuern in ganz Brighton, die Hundetagesstätten, Kurzbesuche und Übernachtungsbetreuung anbieten. Alle Betreuer sind hintergrundgeprüft, Versicherung inbegriffen, im Schnitt 18-27 GBP pro Tag. Starke Abdeckung in Hove, Hanover und Kemp Town.",
-          "tipDe": "Buchen Sie an Sommerwochenenden 48 Stunden im Voraus. Die Nachfrage in Brighton erreicht von Juni bis August ihren Höhepunkt."
+          "descriptionNl": "Grootste Britse platform voor huisdierenoppas met geverifieerde oppassers door heel Brighton, die hondendagopvang, korte bezoekjes en overnachtingsoppas aanbieden. Alle oppassers zijn gescreend, verzekering inbegrepen, gemiddeld 18-27 GBP per dag. Sterke dekking in Hove, Hanover en Kemp Town.",
+          "tipDe": "Buchen Sie an Sommerwochenenden 48 Stunden im Voraus. Die Nachfrage in Brighton erreicht von Juni bis August ihren Höhepunkt.",
+          "tipNl": "Boek in zomerse weekenden 48 uur van tevoren. De vraag in Brighton piekt van juni tot augustus."
         }
       ],
       "tipsEn": [
@@ -1337,7 +1501,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Brighton",
+      "titleNl": "Huisdierenoppas & uitlaatservice in Brighton",
       "introDe": "Brighton verfügt über eine starke unabhängige Haustierbetreuungsszene sowie die beiden großen britischen Plattformen Tailster und BorrowMyDoggy, beide mit dichter Abdeckung in der Stadt. Tailster vermittelt bezahlte Betreuer und Gassi-Geher mit eingebautem Versicherungsschutz; BorrowMyDoggy ist eine kostenlose Community-Vermittlung, bei der lokale Freiwillige gegen Gesellschaft einen Hund ausführen. Unabhängige Gassi-Geher lassen sich auch leicht über das Gewerberegister für Haustierdienstleistungen des Brighton & Hove Council finden.",
+      "introNl": "Brighton heeft een sterke onafhankelijke huisdierenoppasscene, plus de twee grote Britse platforms Tailster en BorrowMyDoggy, beide met dichte dekking in de stad. Tailster bemiddelt betaalde oppassers en uitlaters met ingebouwde verzekering; BorrowMyDoggy is een gratis community-bemiddeling waarbij lokale vrijwilligers in ruil voor gezelschap een hond uitlaten. Onafhankelijke uitlaters zijn ook makkelijk te vinden via het bedrijvenregister voor huisdierdiensten van de Brighton & Hove Council.",
       "faqsDe": [
         {
           "q": "Wo finde ich kurzfristig einen Hundesitter in Brighton?",
@@ -1350,6 +1516,20 @@
         {
           "q": "Bieten Hotels in Brighton Haustierbetreuung an?",
           "a": "Einige Luxushotels (Drakes, The Grand Brighton) können über den Concierge gegen Aufpreis einen Betreuer vermitteln. Immer bei der Buchung bestätigen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar vind ik op korte termijn een hondenoppas in Brighton?",
+          "a": "Tailster is het snelst, de meeste betaalde oppassers kunnen binnen enkele uren bevestigen. Filter op minstens 20 beoordelingen en controleer de optie met gps-gevolgde wandeling."
+        },
+        {
+          "q": "Zijn uitlaters in Brighton gereguleerd?",
+          "a": "De Brighton & Hove Council vereist een vergunning voor iedereen die meer dan vier honden tegelijk uitlaat op terrein dat door de gemeente wordt beheerd. Oppassers van Tailster en BorrowMyDoggy zijn via de platforms verzekerd."
+        },
+        {
+          "q": "Bieden hotels in Brighton huisdierenoppas aan?",
+          "a": "Sommige luxehotels (Drakes, The Grand Brighton) kunnen via de conciërge tegen meerprijs een oppasser regelen. Bevestig dit altijd bij het boeken."
         }
       ]
     }

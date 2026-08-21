@@ -153,6 +153,34 @@ const COPY: Record<string, Copy> = {
     ],
     citiesLabel: 'Beliebte hundefreundliche Reiseziele:',
   },
+  nl: {
+    heading: 'Hondvriendelijke hotels in Europa: wat je moet weten voor je boekt',
+    intro:
+      'Een hondvriendelijk hotel heet je hond echt welkom, en tolereert hem niet gewoon. We hebben meer dan 2.400 hond- en huisdiervriendelijke hotels in meer dan 400 Europese bestemmingen, elk met een geverifieerd huisdierenbeleid: het echte gewichtslimiet, de exacte kosten, of je hond alleen in de kamer mag blijven en waar het dichtstbijzijnde park of hondenstrand is. Elke vermelding linkt rechtstreeks naar Booking.com, zodat je dezelfde prijs boekt, met je hond op de reservering.',
+    faqs: [
+      {
+        q: 'Wat maakt een hotel hondvriendelijk?',
+        a: 'Een echt hondvriendelijk hotel geeft zijn huisdierenbeleid vooraf duidelijk aan: hoeveel honden zijn toegestaan, eventuele gewichts- of rasbeperkingen, de kosten per nacht of per verblijf, en tot welke delen van het hotel honden toegang hebben. We verifiëren elk van deze punten zelf, in plaats van te vertrouwen op een vaag label als "huisdieren toegestaan", zodat je het weet voordat je boekt.',
+      },
+      {
+        q: 'Rekenen hondvriendelijke hotels een huisdiertoeslag?',
+        a: 'Veel wel, van een kleine schoonmaakkosten per nacht tot een bedrag per verblijf, maar steeds meer hotels laten honden gratis logeren. Elke hotelpagina toont de exacte kosten die we hebben geverifieerd, en je kunt filteren op hotels waar honden gratis mogen blijven.',
+      },
+      {
+        q: 'Hoe verifiëren jullie het huisdierenbeleid?',
+        a: 'We controleren het beleid dat het hotel zelf aangeeft met de actuele Booking.com-vermelding en recente gastbeoordelingen, en we checken opnieuw zodra het beleid verandert. Als een detail niet bevestigd kan worden, zeggen we dat gewoon in plaats van te gokken.',
+      },
+      {
+        q: 'Kan ik een grote hond of meer dan één hond meenemen?',
+        a: 'Dat hangt af van het hotel: sommige houden een limiet van 10 kg aan, andere verwelkomen grote rassen en meerdere honden. Elke vermelding toont het gewichtslimiet en hoeveel honden er worden geaccepteerd, zodat je kunt filteren op wat bij jouw hond past.',
+      },
+      {
+        q: 'Welke Europese steden hebben de meeste hondvriendelijke hotels?',
+        a: 'Grote diervriendelijke steden lopen voorop, met veel keuze in Parijs, Barcelona, Amsterdam, Rome en Berlijn, plus plekken aan meren en kust waar honden kunnen zwemmen. Blader door alle bestemmingen om hoteldichtheid, parken en hondenstranden te vergelijken.',
+      },
+    ],
+    citiesLabel: 'Populaire hondvriendelijke bestemmingen:',
+  },
 }
 
 const CITY_LINKS = [
@@ -210,7 +238,7 @@ export default function HomeFaq({ locale }: { locale: Locale }) {
             href={`/${locale}/destinations`}
             className="inline-block rounded-full bg-gray-100 px-3 py-1 font-medium text-gray-700 hover:bg-gray-200 transition-colors"
           >
-            {locale === 'fr' ? 'Toutes les destinations' : locale === 'es' ? 'Todos los destinos' : locale === 'pt' ? 'Todos os destinos' : locale === 'de' ? 'Alle Reiseziele' : 'All destinations'}
+            {locale === 'fr' ? 'Toutes les destinations' : locale === 'es' ? 'Todos los destinos' : locale === 'pt' ? 'Todos os destinos' : locale === 'de' ? 'Alle Reiseziele' : locale === 'nl' ? 'Alle bestemmingen' : 'All destinations'}
           </Link>
         </div>
       </div>

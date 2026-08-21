@@ -41,9 +41,13 @@
           "tipPt": "O parque de Cihangir no centro do bairro é sem trela de manhã cedo; combine uma corrida no parque com o pequeno-almoço num dos cafés circundantes",
           "googleMapsUrl": "https://maps.google.com/?q=Cihangir+Beyoglu+Istanbul+Turkey",
           "descriptionDe": "Cihangir ist Istanbuls hundefreundlichstes Viertel: ein hügeliges Bohème-Viertel von Beyoglu, in dem fast jedes Café und Restaurant über Terrassensitzplätze im Freien verfügt und Hunde selbstverständlich mit am Tisch sitzen. Das Viertel hat eine sehr hohe Hundedichte pro Einwohner (eine der höchsten in der Türkei). Jedes Café an der Cihangir Caddesi oder der Akarsu Yokuşu heißt Hunde willkommen.",
+          "descriptionNl": "Cihangir is de meest hondvriendelijke wijk van Istanbul: een heuvelachtige bohemienwijk van Beyoglu waar bijna elk café en restaurant een terras buiten heeft en honden vanzelfsprekend mee aan tafel zitten. De wijk heeft een zeer hoge hondendichtheid per inwoner (een van de hoogste van Turkije). Elk café aan de Cihangir Caddesi of de Akarsu Yokuşu heet honden welkom.",
           "petPolicyDe": "Hunde auf praktisch allen Außenterrassen willkommen",
+          "petPolicyNl": "Honden welkom op vrijwel alle buitenterrassen",
           "mustTryDe": "Türkisches Frühstück in jedem Cihangir-Café, Menemen (Rührei mit Tomaten und Paprika), frisch gemahlener türkischer Kaffee",
-          "tipDe": "Der Cihangir-Park im Zentrum des Viertels ist am frühen Morgen ein Ort für Freilauf; kombinieren Sie eine Runde im Park mit dem Frühstück in einem der umliegenden Cafés"
+          "mustTryNl": "Turks ontbijt in elk café in Cihangir, menemen (roerei met tomaat en paprika), vers gemalen Turkse koffie",
+          "tipDe": "Der Cihangir-Park im Zentrum des Viertels ist am frühen Morgen ein Ort für Freilauf; kombinieren Sie eine Runde im Park mit dem Frühstück in einem der umliegenden Cafés",
+          "tipNl": "Het Cihangir-park in het hart van de wijk is 's ochtends vroeg een plek voor vrij loopgedrag; combineer een rondje in het park met ontbijt in een van de omliggende cafés"
         },
         {
           "name": "Bebek waterfront",
@@ -71,9 +75,13 @@
           "tipPt": "Apanhe o ferry do Bósforo para Bebek a partir de Eminonu; os cães viajam no deck superior aberto do ferry de Istambul gratuitamente e é uma das melhores experiências para cães na cidade",
           "googleMapsUrl": "https://maps.google.com/?q=Bebek+Istanbul+Turkey",
           "descriptionDe": "Bebek ist Istanbuls wohlhabendstes Bosporus-Dorf mit einer langen Uferpromenade und einer Reihe von Außencafés mit Blick auf das asiatische Ufer und die Fatih-Sultan-Mehmet-Brücke. Hunde gehören fest zur Promenade; alle Caféterrassen am Ufer akzeptieren Hunde. Der Bebek Park am nördlichen Ende der Promenade verfügt über Bänke und ist stets belebt mit Anwohnern, die ihre Hunde ausführen.",
+          "descriptionNl": "Bebek is het welvarendste Bosporusdorp van Istanbul, met een lange boulevard en een reeks cafés buiten met uitzicht op de Aziatische oever en de Fatih Sultan Mehmet-brug. Honden horen er onlosmakelijk bij de boulevard; alle caféterrassen aan het water accepteren honden. Het Bebek-park aan het noordelijke uiteinde van de boulevard heeft bankjes en is altijd druk met bewoners die hun hond uitlaten.",
           "petPolicyDe": "Hunde auf den Terrassen der Promenade willkommen; Bebek Park kostenlos für Hunde",
+          "petPolicyNl": "Honden welkom op de terrassen aan de boulevard; Bebek-park gratis toegankelijk voor honden",
           "mustTryDe": "Frisch gepresster Granatapfelsaft, Simit (Sesamring-Gebäck) vom Straßenstand, Bosporus-Ausblick bei einem Kaffee",
-          "tipDe": "Nehmen Sie die Bosporus-Fähre nach Bebek ab Eminonu; Hunde fahren kostenlos auf dem offenen Oberdeck der Istanbuler Fähre mit, eines der schönsten Hundeerlebnisse der Stadt"
+          "mustTryNl": "Vers geperst granaatappelsap, simit (sesamring) van de straatkraam, uitzicht op de Bosporus bij een kopje koffie",
+          "tipDe": "Nehmen Sie die Bosporus-Fähre nach Bebek ab Eminonu; Hunde fahren kostenlos auf dem offenen Oberdeck der Istanbuler Fähre mit, eines der schönsten Hundeerlebnisse der Stadt",
+          "tipNl": "Neem de Bosporusveerboot naar Bebek vanaf Eminonu; honden reizen gratis mee op het open bovendek van de Istanbulse veerboot, een van de mooiste hondenervaringen van de stad"
         }
       ],
       "tipsEn": [
@@ -137,7 +145,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Istanbul",
+      "titleNl": "Huisdiervriendelijke restaurants in Istanbul",
       "introDe": "Istanbuls hundefreundliche Restaurantszene konzentriert sich auf die kosmopolitischen europäischen Viertel: Kadikoy auf der asiatischen Seite, Beyoglu und Cihangir auf der europäischen Seite sowie die Bosporus-Dörfer Bebek und Arnavutkoy. Alle haben eine ausgeprägte Café-Kultur mit Terrassensitzplätzen im Freien, auf denen Hunde von einer an Hunde gewöhnten urbanen Bevölkerung selbstverständlich willkommen geheißen werden.",
+      "introNl": "De hondvriendelijke restaurantscene van Istanbul concentreert zich in de kosmopolitische Europese wijken: Kadikoy aan de Aziatische kant, Beyoglu en Cihangir aan de Europese kant, en de Bosporusdorpen Bebek en Arnavutkoy. Overal heerst een uitgesproken cafécultuur met terrassen buiten, waar honden vanzelfsprekend welkom zijn bij een stedelijke bevolking die aan honden gewend is.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Istanbuler Restaurants willkommen?",
@@ -146,6 +156,16 @@
         {
           "q": "Kann mein Hund die öffentlichen Verkehrsmittel in Istanbul nutzen?",
           "a": "Kleine Hunde in Transportboxen sind in Metro und Straßenbahn erlaubt. Hunde ohne Box sind in öffentlichen Verkehrsmitteln nicht zugelassen. Die Istanbuler Fähren (Vapur) erlauben Hunde kostenlos auf dem offenen Oberdeck; dies ist die hundefreundlichste Option für öffentliche Verkehrsmittel in der Stadt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden welkom in restaurants in Istanbul?",
+          "a": "Op de buitenterrassen van de kosmopolitische wijken (Cihangir, Bebek, Kadikoy, Moda, Arnavutkoy) zeker wel. Restaurants met alleen binnenzitplaatsen en de historische Sultanahmet-buurt zijn minder gastvrij. Istanbul heeft een grote en actieve hondenliefhebbende gemeenschap, en de hondvriendelijke cultuur is sterk aanwezig in de meer Europees georiënteerde wijken."
+        },
+        {
+          "q": "Kan mijn hond het openbaar vervoer in Istanbul gebruiken?",
+          "a": "Kleine honden in een reismand zijn toegestaan in de metro en de tram. Honden zonder mand zijn niet toegestaan in het openbaar vervoer. De Istanbulse veerboten (vapur) laten honden gratis toe op het open bovendek; dit is de meest hondvriendelijke optie voor openbaar vervoer in de stad."
         }
       ]
     },
@@ -180,8 +200,11 @@
           "tipPt": "Entre pela porta de Besiktas para o melhor passeio com cão; a secção florestal superior perto dos antigos edifícios do palácio está sombreada e é muito mais fresca do que as ruas da cidade em baixo no verão",
           "googleMapsUrl": "https://maps.google.com/?q=Yildiz+Park+Besiktas+Istanbul+Turkey",
           "descriptionDe": "Die ehemaligen kaiserlichen Gärten des Yildiz-Palastes, 50 Hektar bewaldeter Hügel oberhalb des Bosporus mit Ziergewässern, alten Platanen und verschlungenen Wegen. Öffentlich zugänglich und frei mit Hund begehbar. Einer der größten Hundespazierparks in Istanbul, besonders beliebt am Wochenende. In den oberen bewaldeten Bereichen ist Freilauf möglich.",
+          "descriptionNl": "De voormalige keizerlijke tuinen van het Yildiz-paleis, 50 hectare beboste heuvels boven de Bosporus met sierwater, oude platanen en kronkelende paden. Openbaar toegankelijk en vrij te bewandelen met hond. Een van de grootste hondenwandelparken van Istanbul, vooral populair in het weekend. In de hoger gelegen beboste delen kan je hond los lopen.",
           "petPolicyDe": "Hunde überall kostenlos; Freilauf in den oberen bewaldeten Bereichen",
-          "tipDe": "Betreten Sie den Park über das Besiktas-Tor für den besten Hundespaziergang; der obere Waldbereich bei den alten Palastgebäuden ist schattig und im Sommer deutlich kühler als die Straßen der Stadt darunter"
+          "petPolicyNl": "Honden overal gratis welkom; los lopen in de hoger gelegen beboste delen",
+          "tipDe": "Betreten Sie den Park über das Besiktas-Tor für den besten Hundespaziergang; der obere Waldbereich bei den alten Palastgebäuden ist schattig und im Sommer deutlich kühler als die Straßen der Stadt darunter",
+          "tipNl": "Ga het park binnen via de Besiktas-poort voor de beste hondenwandeling; het hoger gelegen bosdeel bij de oude paleisgebouwen is schaduwrijk en in de zomer merkbaar koeler dan de straten van de stad eronder"
         }
       ],
       "tipsEn": [
@@ -245,7 +268,9 @@
         }
       ],
       "titleDe": "Parks & Hundespaziergänge in Istanbul",
+      "titleNl": "Parken & hondenwandelingen in Istanbul",
       "introDe": "Istanbul verfügt über umfangreiche Grünflächen entlang beider Bosporus-Ufer sowie im Belgrader Wald im Norden. Die beliebtesten Hundespazierbereiche sind der Yildiz-Park (ehemalige kaiserliche Gärten oberhalb von Besiktas), der Macka-Park und der Küstenweg am Bosporus zwischen Bebek und Arnavutkoy.",
+      "introNl": "Istanbul heeft uitgestrekte groenzones langs beide Bosporusoevers en in het Belgradowoud in het noorden. De populairste hondenwandelgebieden zijn het Yildiz-park (voormalige keizerlijke tuinen boven Besiktas), het Macka-park en het kustpad langs de Bosporus tussen Bebek en Arnavutkoy.",
       "faqsDe": [
         {
           "q": "Gibt es Freilaufbereiche für Hunde in Istanbul?",
@@ -254,6 +279,16 @@
         {
           "q": "Ist der Gulhane-Park beim Topkapi-Palast hundefreundlich?",
           "a": "Der Gulhane-Park selbst ist mit Hund an der Leine zugänglich. Der Eingangsbereich und die Hauptallee sind problemlos; der Park ist groß genug für einen ausgiebigen Hundespaziergang. Im Inneren des Topkapi-Palastes sind Hunde nicht erlaubt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er losloopgebieden voor honden in Istanbul?",
+          "a": "Meerdere parken hebben vroeg in de ochtend informele losloopgebieden (bovenste Yildiz-bos, Macka-park, Cihangir-park). Istanbul heeft in sommige stadsdelen speciale hondenparken (köpek parkı) aangelegd; de gemeenten Besiktas en Kadikoy waren daarin het actiefst. Actuele locaties vind je in lokale Facebook-groepen."
+        },
+        {
+          "q": "Is het Gulhane-park bij het Topkapi-paleis hondvriendelijk?",
+          "a": "Het Gulhane-park zelf is toegankelijk met een aangelijnde hond. De ingang en de hoofdlaan zijn geen probleem; het park is groot genoeg voor een uitgebreide hondenwandeling. Binnen het Topkapi-paleis zijn honden niet toegestaan."
         }
       ]
     },
@@ -332,7 +367,9 @@
         }
       ],
       "titleDe": "Anreise nach Istanbul mit Hund",
+      "titleNl": "Naar Istanbul reizen met een hond",
       "introDe": "Istanbul wird vom Flughafen Istanbul (IST, 45 km nordwestlich) und vom Flughafen Sabiha Gokcen (SAW, 50 km südöstlich, asiatische Seite) angeflogen. IST bietet die meisten Direktverbindungen nach Europa. Hunde reisen im Frachtraum; an beiden Flughäfen sind Mietwagen erhältlich. Innerhalb der Stadt bewegt man sich mit Hund am besten mit Taxi oder Auto.",
+      "introNl": "Istanbul wordt bediend door luchthaven Istanbul (IST, 45 km ten noordwesten) en luchthaven Sabiha Gokcen (SAW, 50 km ten zuidoosten, Aziatische kant). IST biedt de meeste directe verbindingen met Europa. Honden reizen in het vrachtruim; op beide luchthavens zijn huurauto's beschikbaar. Binnen de stad reis je met hond het best per taxi of auto.",
       "faqsDe": [
         {
           "q": "Welcher Istanbuler Flughafen ist besser für Hunde?",
@@ -341,6 +378,16 @@
         {
           "q": "Darf mein Hund mit der Istanbuler Fähre (Vapur) fahren?",
           "a": "Ja. Die IDO-Bosporusfähren (Vapur) erlauben Hunden die kostenlose Mitfahrt auf dem offenen Oberdeck. Dies ist offizielle IDO-Regelung. In der geschlossenen unteren Kabine sind Hunde nicht erlaubt. Die Bosporus-Überfahrt von Eminonu nach Kadikoy (asiatische Seite) dauert 25 Minuten und ist eine der schönsten Hundeaktivitäten in Istanbul."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welke luchthaven van Istanbul is beter voor honden?",
+          "a": "Luchthaven Istanbul (IST) is over het algemeen de betere keuze: meer directe EU-verbindingen, nieuwere faciliteiten en goed georganiseerde huurautobalies. Sabiha Gokcen (SAW) ligt aan de Aziatische kant en is handig als je direct doorreist naar Kadikoy of Anatolische bestemmingen."
+        },
+        {
+          "q": "Mag mijn hond mee met de Istanbulse veerboot (vapur)?",
+          "a": "Ja. De IDO-Bosporusveerboten (vapur) laten honden gratis mee op het open bovendek. Dit is officieel IDO-beleid. In de gesloten benedencabine zijn honden niet toegestaan. De Bosporusoversteek van Eminonu naar Kadikoy (Aziatische kant) duurt 25 minuten en is een van de mooiste hondenactiviteiten in Istanbul."
         }
       ]
     },
@@ -415,7 +462,9 @@
         }
       ],
       "titleDe": "Strände & Gewässer bei Istanbul",
+      "titleNl": "Stranden & water bij Istanbul",
       "introDe": "Istanbul ist eine Küstenstadt am Bosporus, doch die Stadtstrände am Marmarameer lassen Hunde in der Saison nicht zu. Die besten hundefreundlichen Wassermöglichkeiten sind: die Prinzeninseln (Büyükada, 50 Minuten mit der Fähre), wo Hunde die autofreie Insel erkunden können, sowie die Schwarzmeerstrände nördlich der Stadt (Kilyos, 45 Minuten mit dem Auto), die entspannter gehandhabt werden.",
+      "introNl": "Istanbul is een kuststad aan de Bosporus, maar de stadsstranden aan de Zee van Marmara laten in het seizoen geen honden toe. De beste hondvriendelijke wateropties zijn: de Prinseneilanden (Büyükada, 50 minuten per veerboot), waar honden het autovrije eiland kunnen verkennen, en de stranden aan de Zwarte Zee ten noorden van de stad (Kilyos, 45 minuten met de auto), waar de regels soepeler worden gehandhaafd.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde nach Büyükada (Prinzeninsel)?",
@@ -424,6 +473,16 @@
         {
           "q": "Sind Istanbuls Stadtstrände für Hunde zugänglich?",
           "a": "Die offiziellen Stadtstrände am Marmara-Ufer (Florya, Atakoy) lassen von Juni bis September keine Hunde zu. Außerhalb der Saison (Oktober bis Mai) werden Hunde am frühen Morgen im Allgemeinen toleriert. Die Schwarzmeerstrände (Kilyos, Sile) sind ganzjährig toleranter."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden mee naar Büyükada (Prinseneiland)?",
+          "a": "Ja. Honden reizen gratis mee op het open bovendek van de IDO-veerboot naar Büyükada (50 minuten vanaf Kabatas). Het eiland is autovrij, en honden kunnen vrij lopen op alle bospaden en de meeste dorpsstraten. Op het hoofdstrand zijn honden in de zomer niet toegestaan, maar wel in de rustige baaitjes bij de landtongen van het eiland."
+        },
+        {
+          "q": "Zijn de stadsstranden van Istanbul toegankelijk voor honden?",
+          "a": "De officiële stadsstranden aan de Marmara-oever (Florya, Atakoy) laten van juni tot september geen honden toe. Buiten het seizoen (oktober tot mei) worden honden vroeg in de ochtend over het algemeen getolereerd. De stranden aan de Zwarte Zee (Kilyos, Sile) zijn het hele jaar door soepeler."
         }
       ]
     },
@@ -498,7 +557,9 @@
         }
       ],
       "titleDe": "Tierärzte & Notfallversorgung in Istanbul",
+      "titleNl": "Dierenartsen & spoedzorg in Istanbul",
       "introDe": "Istanbul ist die größte Stadt der Türkei mit einer ausgezeichneten tierärztlichen Infrastruktur, einschließlich mehrerer 24-Stunden-Notfallkliniken. In den Bezirken Besiktas, Sisli, Kadikoy und Atasehir gibt es gut ausgestattete Praxen. Aufgrund der großen Expat-Bevölkerung sind in den meisten Kliniken englischsprachige Tierärzte verfügbar.",
+      "introNl": "Istanbul is de grootste stad van Turkije met een uitstekende dierenartsinfrastructuur, inclusief meerdere 24-uurs spoedklinieken. In de stadsdelen Besiktas, Sisli, Kadikoy en Atasehir zijn goed uitgeruste praktijken te vinden. Door de grote expatgemeenschap spreken de meeste klinieken Engels.",
       "faqsDe": [
         {
           "q": "Gibt es 24-Stunden-Tierärzte in Istanbul?",
@@ -507,6 +568,16 @@
         {
           "q": "Kann ich in Istanbul eine Gesundheitsbescheinigung für die EU-Wiedereinreise erhalten?",
           "a": "Ja. Mehrere autorisierte Praxen in Istanbul stellen internationale Gesundheitsbescheinigungen für Reisen in die EU aus. Die türkische Bescheinigung muss innerhalb von 10 Tagen vor Ihrer Rückreise ausgestellt werden und ersetzt den EU-Heimtierausweis für die Einreisedokumentation. Fragen Sie nach einem 'resmi veteriner' (offiziell zugelassener Tierarzt) für die Bescheinigung."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er 24-uurs dierenartsen in Istanbul?",
+          "a": "Ja. Istanbul heeft meerdere 24-uurs dierenartsspoedklinieken. De hoogste dichtheid vind je in de stadsdelen Besiktas en Sisli (Europese kant) en in Kadikoy (Aziatische kant). Zoek op 'acil veteriner Istanbul' voor actuele lijsten; je hotel kan ook alvast bellen."
+        },
+        {
+          "q": "Kan ik in Istanbul een gezondheidsverklaring krijgen voor terugkeer naar de EU?",
+          "a": "Ja. Meerdere erkende praktijken in Istanbul geven internationale gezondheidsverklaringen af voor reizen naar de EU. De Turkse verklaring moet binnen 10 dagen voor je terugreis worden afgegeven en vervangt het Europese dierenpaspoort voor de inreisdocumentatie. Vraag naar een 'resmi veteriner' (officieel erkende dierenarts) voor de verklaring."
         }
       ]
     },
@@ -582,7 +653,9 @@
         }
       ],
       "titleDe": "Wichtige Hundereise-Tipps für Istanbul",
+      "titleNl": "Belangrijke reistips voor Istanbul met hond",
       "introDe": "Istanbul ist eine 15-Millionen-Metropole, die zwei Kontinente überspannt, und hat eine überraschend ausgeprägte Hundekultur. Die Stadt beherbergt Tausende städtischer Straßenhunde (sokak köpeği), die geimpft, gekennzeichnet und meist ruhig sind; Ihr Hund sollte im Vorbeigehen an der Leine geführt werden. Die kosmopolitischen europäisch geprägten Viertel sind ebenso hundefreundlich wie jede europäische Großstadt.",
+      "introNl": "Istanbul is een metropool van 15 miljoen inwoners die twee continenten overspant, en heeft een verrassend uitgesproken hondencultuur. De stad herbergt duizenden gemeentelijke straathonden (sokak köpeği) die gevaccineerd, gemerkt en meestal rustig zijn; houd je eigen hond in het voorbijgaan wel aangelijnd. De kosmopolitische, Europees georiënteerde wijken zijn net zo hondvriendelijk als elke Europese grote stad.",
       "faqsDe": [
         {
           "q": "Ist Istanbul sicher für Hunde?",
@@ -591,6 +664,16 @@
         {
           "q": "Wie viele Tage sollte ich mit Hund in Istanbul verbringen?",
           "a": "Drei bis vier Tage sind ideal. Tag 1: Spaziergang an der Leine durch Kaleiçi/Sultanahmet (nur außen), Fährfahrt über den Bosporus nach Kadikoy, Viertel Moda. Tag 2: Hundespaziergang durch Beyoglu/Cihangir, Bosporus-Fähre nach Bebek, Yildiz-Park. Tag 3: Tagesausflug zur Prinzeninsel Büyükada (Fähre, autofreie Insel). Tag 4: Fahrt in den Belgrader Wald für Freilauf-Spaziergänge."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Istanbul veilig voor honden?",
+          "a": "In de kosmopolitische wijken wel. De belangrijkste risico's zijn: ontmoetingen met straathonden (goed te managen aan de lijn), zomerhitte in juli en augustus (loop alleen vroeg in de ochtend en 's avonds) en verkeer (het verkeer in Istanbul is intens; gebruik consequent stoepen en zebrapaden). De stad is groot, maar reizen met hond binnen Beyoglu, Besiktas en Kadikoy is aangenaam."
+        },
+        {
+          "q": "Hoeveel dagen moet ik met hond in Istanbul doorbrengen?",
+          "a": "Drie tot vier dagen is ideaal. Dag 1: wandeling aan de lijn door Kaleiçi/Sultanahmet (alleen buiten), veerboottocht over de Bosporus naar Kadikoy, wijk Moda. Dag 2: hondenwandeling door Beyoglu/Cihangir, Bosporusveerboot naar Bebek, Yildiz-park. Dag 3: dagtrip naar het Prinseneiland Büyükada (veerboot, autovrij eiland). Dag 4: rit naar het Belgradowoud voor losloopwandelingen."
         }
       ]
     },
@@ -625,8 +708,11 @@
           "tipPt": "Apanhe o ferry das 08h00 de Eminonu para Kadikoy para a melhor luz sobre as mesquitas e a Torre de Gálata; regresse via Besiktas para um passeio à beira do Bósforo",
           "googleMapsUrl": "https://maps.google.com/?q=Eminonu+Ferry+Terminal+Istanbul+Turkey",
           "descriptionDe": "Die IDO-Passagierfähren, die den Bosporus überqueren, sind eines der großen Erlebnisse Istanbuls und auf dem offenen Oberdeck vollständig hundefreundlich. Die 25-minütige Überfahrt von Eminonu nach Kadikoy (oder Uskudar) bietet außergewöhnliche Ausblicke auf die Skyline der Stadt, die Bosporusbrücken und das asiatische Ufer. Hunde fahren kostenlos auf dem Oberdeck mit. Dies ist die beste hundefreundliche Aktivität in ganz Istanbul.",
+          "descriptionNl": "De IDO-passagiersveerboten die de Bosporus oversteken zijn een van de grote belevenissen van Istanbul en op het open bovendek volledig hondvriendelijk. De overtocht van 25 minuten van Eminonu naar Kadikoy (of Uskudar) biedt uitzonderlijk uitzicht op de skyline van de stad, de Bosporusbruggen en de Aziatische oever. Honden reizen gratis mee op het bovendek. Dit is de beste hondvriendelijke activiteit in heel Istanbul.",
           "petPolicyDe": "Hunde kostenlos auf dem offenen Oberdeck",
-          "tipDe": "Nehmen Sie die Morgenfähre um 08:00 Uhr von Eminonu nach Kadikoy für das beste Licht auf die Moscheen und den Galata-Turm; kehren Sie über Besiktas zurück für einen Spaziergang am Bosporus"
+          "petPolicyNl": "Honden gratis welkom op het open bovendek",
+          "tipDe": "Nehmen Sie die Morgenfähre um 08:00 Uhr von Eminonu nach Kadikoy für das beste Licht auf die Moscheen und den Galata-Turm; kehren Sie über Besiktas zurück für einen Spaziergang am Bosporus",
+          "tipNl": "Neem de ochtendveerboot om 08:00 uur van Eminonu naar Kadikoy voor het beste licht op de moskeeën en de Galatatoren; keer via Besiktas terug voor een wandeling langs de Bosporus"
         }
       ],
       "tipsEn": [
@@ -690,7 +776,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Istanbul",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Istanbul",
       "introDe": "Istanbuls weltberühmte Monumente (Hagia Sophia, Blaue Moschee, Topkapi-Palast, Großer Basar) sind entweder Innenräume oder stark überfüllte Orte, die Hunde ausschließen. Das hundefreundliche Istanbul findet sich draußen: auf den Bosporusfähren, der Insel Büyükada, den Bosporus-Dörfern und den Klippenparks von Beyoglu und Besiktas.",
+      "introNl": "De wereldberoemde monumenten van Istanbul (Hagia Sophia, Blauwe Moskee, Topkapi-paleis, Grote Bazaar) zijn ofwel binnenruimtes ofwel extreem drukke plekken die honden uitsluiten. Het hondvriendelijke Istanbul vind je buiten: op de Bosporusveerboten, het eiland Büyükada, de Bosporusdorpen en de klifparken van Beyoglu en Besiktas.",
       "faqsDe": [
         {
           "q": "Darf mein Hund die wichtigsten Sehenswürdigkeiten Istanbuls wie die Hagia Sophia besuchen?",
@@ -699,6 +787,16 @@
         {
           "q": "Ist Istanbul für einen ängstlichen Hund überfordernd?",
           "a": "Istanbul ist eine sehr laute, überfüllte Stadt. Die Gegenden Sultanahmet und Istiklal können für ängstliche Hunde überfordernd sein. Die Bosporus-Dörfer (Bebek, Arnavutkoy), die Seitenstraßen von Cihangir und die Gegend Kadikoy/Moda sind wesentlich ruhiger und besser zu bewältigen. Planen Sie die meisten Hundeaktivitäten in den ruhigeren Vierteln und besuchen Sie die touristischen Hauptbereiche, wenn überhaupt, am frühen Morgen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond de belangrijkste bezienswaardigheden van Istanbul zoals de Hagia Sophia bezoeken?",
+          "a": "Nee. De Hagia Sophia is een actieve moskee en laat geen honden toe binnen of op het directe voorplein. Blauwe Moskee: hetzelfde. Topkapi-paleis: geen honden binnen. De Grote Bazaar: te druk en te heet voor honden. De buitenstraten van Sultanahmet kun je met een aangelijnde hond belopen, maar houd de bezoeken in dit conservatieve gebied kort."
+        },
+        {
+          "q": "Is Istanbul overweldigend voor een angstige hond?",
+          "a": "Istanbul is een zeer luidruchtige, drukke stad. De buurten Sultanahmet en Istiklal kunnen overweldigend zijn voor een angstige hond. De Bosporusdorpen (Bebek, Arnavutkoy), de zijstraten van Cihangir en de buurt Kadikoy/Moda zijn veel rustiger en beter behapbaar. Plan de meeste hondenactiviteiten in de rustigere wijken en bezoek de belangrijkste toeristische gebieden, als het echt moet, vroeg in de ochtend."
         }
       ]
     },
@@ -773,7 +871,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung in Istanbul",
+      "titleNl": "Huisdierenoppas in Istanbul",
       "introDe": "Istanbul verfügt über ein gut entwickeltes Netzwerk für Haustierbetreuung über Expat-Gemeinschaften und lokale Dienstleister. Die Facebook-Gruppen 'Istanbul Expats' und 'Istanbul Dogs & Cats' sind die zuverlässigsten Quellen. Mehrere Gästehäuser in Cihangir bieten eine informelle Hundebetreuung an, während Gäste reine Monumententouren unternehmen.",
+      "introNl": "Istanbul heeft een goed ontwikkeld netwerk voor huisdierenoppas via expatgemeenschappen en lokale dienstverleners. De Facebook-groepen 'Istanbul Expats' en 'Istanbul Dogs & Cats' zijn de meest betrouwbare bronnen. Meerdere guesthouses in Cihangir bieden informele hondenoppas terwijl gasten monumententochten zonder hond maken.",
       "faqsDe": [
         {
           "q": "Gibt es Hundepensionen in Istanbul?",
@@ -782,6 +882,16 @@
         {
           "q": "Kann mein Hotel in Cihangir sich um meinen Hund kümmern, während ich die Moscheen besuche?",
           "a": "Die meisten Gästehäuser in Cihangir kümmern sich informell für 2-3 Stunden um einen wohlerzogenen Hund. Bestätigen Sie dies beim Check-in und hinterlassen Sie eine Mobilnummer. Dies ist die praktischste Lösung für den 2-3-stündigen Besuch der Monumente in Sultanahmet."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er hondenpensions in Istanbul?",
+          "a": "Ja, meerdere professionele hondenpensions in de buitenwijken (Bakirkoy, Atasehir). Je dierenarts in Istanbul kan er een aanbevelen. Turkse hondenpensions zijn over het algemeen goed geleid en hebben buitenruimtes."
+        },
+        {
+          "q": "Kan mijn hotel in Cihangir op mijn hond passen terwijl ik de moskeeën bezoek?",
+          "a": "De meeste guesthouses in Cihangir passen informeel 2 tot 3 uur op een goed opgevoede hond. Bevestig dit bij het inchecken en laat een mobiel nummer achter. Dit is de handigste oplossing voor het bezoek van 2 tot 3 uur aan de monumenten in Sultanahmet."
         }
       ]
     }

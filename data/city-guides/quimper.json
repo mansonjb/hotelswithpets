@@ -92,7 +92,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Quimper",
+      "titleNl": "Huisdiervriendelijke restaurants in Quimper",
       "introDe": "Inhalt folgt in Kürze.",
+      "introNl": "Inhoud volgt binnenkort.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Quimper erlaubt?",
@@ -105,6 +107,20 @@
         {
           "q": "Stellen Restaurants in Quimper Wasser für Hunde bereit?",
           "a": "Manche tun dies auf Nachfrage, aber es ist nicht der Standard. Bringen Sie sicherheitshalber Ihren eigenen faltbaren Napf mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Quimper?",
+          "a": "Er is geen stadsbreed verbod, en veel creperies en brasseries met terrassen verwelkomen een aangelijnde, goed opgevoede hond, vooral buiten. Toegang binnen ligt aan het oordeel van de uitbater, vraag dus altijd eerst na."
+        },
+        {
+          "q": "Waar kun je het beste eten met een hond in Quimper?",
+          "a": "De voetgangerszone van de oude stad rond de Saint-Corentin-kathedraal en de terrassen langs de kades van de Odet hebben de hoogste concentratie terraszitplaatsen, wat in de warme maanden de meest hondvriendelijke optie is."
+        },
+        {
+          "q": "Bieden restaurants in Quimper water voor honden aan?",
+          "a": "Sommige doen dit op verzoek, maar het is geen standaard. Neem voor de zekerheid je eigen opvouwbare bakje mee."
         }
       ]
     },
@@ -138,8 +154,11 @@
           "tipPt": "Vá de manhã cedo para ter sombra e os caminhos mais calmos. Os bancos do cume são um bom local para descansar um cão cansado antes da descida",
           "googleMapsUrl": "https://maps.google.com/?q=Mont+Frugy+Quimper",
           "descriptionDe": "Ein 70 Meter hoher, bewaldeter Hügel, der sich direkt vom Südufer des Odet erhebt, bietet der Mont Frugy schattige Pfade unter alten Buchen und Eichen nur zwei Minuten von der Kathedrale entfernt. Der Anstieg ist kurz, aber steil, und der Gipfel bietet einen weiten Blick über die Türme und Dächer der Altstadt. Halten Sie Ihren Hund an der Leine, da die Wege bei Spaziergängern beliebt sind und die oberen Straßen kreuzen.",
+          "descriptionNl": "Een 70 meter hoge, beboste heuvel die direct oprijst vanaf de zuidoever van de Odet, Mont Frugy biedt schaduwrijke paden onder oude beuken en eiken op slechts twee minuten van de kathedraal. De klim is kort maar steil, en de top biedt een wijds uitzicht over de torens en daken van de oude stad. Houd je hond aan de lijn, want de paden zijn populair bij wandelaars en kruisen de bovenste straten.",
           "offLeashAreaDe": "Keine. Durchgehende Leinenpflicht",
-          "tipDe": "Gehen Sie früh morgens für Schatten und die ruhigsten Wege. Die Bänke am Gipfel eignen sich gut, um einen müden Hund vor dem Abstieg auszuruhen"
+          "offLeashAreaNl": "Geen. Doorlopende aanlijnplicht",
+          "tipDe": "Gehen Sie früh morgens für Schatten und die ruhigsten Wege. Die Bänke am Gipfel eignen sich gut, um einen müden Hund vor dem Abstieg auszuruhen",
+          "tipNl": "Ga vroeg in de ochtend voor schaduw en de rustigste paden. De bankjes op de top zijn goed om een vermoeide hond te laten uitrusten voor de afdaling"
         },
         {
           "name": "Bords de l'Odet (Odet Riverside Quays)",
@@ -161,8 +180,11 @@
           "tipPt": "Caminhe rio abaixo em direção ao Corniguel e à Baie de Kerogan para um percurso mais longo e tranquilo depois de deixar a movimentada zona central",
           "googleMapsUrl": "https://maps.google.com/?q=Bords+de+l%27Odet+Quimper",
           "descriptionDe": "Die Kais und der Treidelpfad entlang des Odet durch das Herz von Quimper sind der einfachste und landschaftlich reizvollste Hundespaziergang der Stadt, gesäumt von Blumenkästen, Fußgängerbrücken und alten Steinfassaden. Der Weg ist eben und durchgängig, sodass Sie den Spaziergang nach Belieben verlängern oder verkürzen können, und er verbindet das Zentrum mit der weiter flussabwärts gelegenen Baie de Kerogan. Hunde bleiben entlang der Kais an der Leine, und es wird erwartet, dass Kotbeutel benutzt werden.",
+          "descriptionNl": "De kades en het jaagpad langs de Odet door het hart van Quimper zijn de gemakkelijkste en meest schilderachtige hondenwandeling van de stad, omzoomd door bloembakken, voetgangersbruggen en oude stenen gevels. Het pad is vlak en doorlopend, zodat je de wandeling naar wens kunt verlengen of verkorten, en het verbindt het centrum met de verder stroomafwaarts gelegen Baie de Kerogan. Honden blijven aangelijnd langs de kades, en het wordt verwacht dat poepzakjes worden gebruikt.",
           "offLeashAreaDe": "Keine. Leinenpflicht entlang der Kais",
-          "tipDe": "Gehen Sie flussabwärts in Richtung Corniguel und Baie de Kerogan für eine längere, ruhigere Route, sobald Sie den belebten zentralen Abschnitt verlassen"
+          "offLeashAreaNl": "Geen. Aanlijnplicht langs de kades",
+          "tipDe": "Gehen Sie flussabwärts in Richtung Corniguel und Baie de Kerogan für eine längere, ruhigere Route, sobald Sie den belebten zentralen Abschnitt verlassen",
+          "tipNl": "Loop stroomafwaarts richting Corniguel en Baie de Kerogan voor een langere, rustigere route zodra je het drukke centrale gedeelte verlaat"
         },
         {
           "name": "Parc de Creac'h Gwen",
@@ -184,8 +206,11 @@
           "tipPt": "Ideal para cães enérgicos que precisam de distância. Combine com o caminho ribeirinho para fazer um longo circuito de regresso ao centro",
           "googleMapsUrl": "https://maps.google.com/?q=Parc+de+Creac%27h+Gwen+Quimper",
           "descriptionDe": "Ein großer grüner Freizeitpark südlich des Zentrums am Ufer des Odet, Creac'h Gwen bietet weite offene Rasenflächen, breite Wege, einen See und viel Platz, um die Beine eines Hundes abseits des Verkehrs zu strecken. Es ist die geräumigste Option in Quimper selbst und verbindet eine lange flache Runde mit ruhigen Wasserblicken. Halten Sie Ihren Hund an der Leine, halten Sie ausreichend Abstand zu den Ruder- und Wassersportbereichen und sammeln Sie den Kot auf.",
+          "descriptionNl": "Een groot groen recreatiepark ten zuiden van het centrum aan de oever van de Odet, Creac'h Gwen biedt uitgestrekte open grasvelden, brede paden, een meer en veel ruimte om de benen van een hond te strekken weg van het verkeer. Het is de ruimste optie in Quimper zelf en combineert een lange vlakke wandeling met rustige wateruitzichten. Houd je hond aan de lijn, hou voldoende afstand tot de roei- en watersportgebieden en ruim de uitwerpselen op.",
           "offLeashAreaDe": "Keine. Leinenpflicht; Abstand zu den Wassersportbereichen halten",
-          "tipDe": "Am besten für energiegeladene Hunde, die Auslauf brauchen. Kombinieren Sie den Weg mit dem Flussuferpfad für eine lange Runde zurück ins Zentrum"
+          "offLeashAreaNl": "Geen. Aanlijnplicht; hou afstand tot de watersportgebieden",
+          "tipDe": "Am besten für energiegeladene Hunde, die Auslauf brauchen. Kombinieren Sie den Weg mit dem Flussuferpfad für eine lange Runde zurück ins Zentrum",
+          "tipNl": "Het beste voor energieke honden die beweging nodig hebben. Combineer het pad met het rivieroeverpad voor een lange terugweg naar het centrum"
         }
       ],
       "tipsEn": [
@@ -265,7 +290,9 @@
         }
       ],
       "titleDe": "Hundeparks & Spaziergänge in Quimper",
+      "titleNl": "Hondenparken & wandelingen in Quimper",
       "introDe": "Quimper liegt an der Stelle, an der zwei Flüsse den Odet treffen, und die besten Hundespaziergänge folgen dem Wasser. Die Uferkais, der bewaldete Mont Frugy mit Blick auf das Zentrum und die grüne Weite von Creac'h Gwen bieten flache Treidelpfade und Waldanstiege in kurzer Gehdistanz zur Kathedrale. Hunde müssen in allen öffentlichen Bereichen von Quimper, einschließlich Parks und Kais, an der Leine geführt werden.",
+      "introNl": "Quimper ligt op de plek waar twee rivieren de Odet ontmoeten, en de beste hondenwandelingen volgen het water. De oeverkades, de beboste Mont Frugy met uitzicht op het centrum en de groene weidsheid van Creac'h Gwen bieden vlakke jaagpaden en boswandelingen op korte loopafstand van de kathedraal. Honden moeten in alle openbare gebieden van Quimper, inclusief parken en kades, aangelijnd zijn.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde in Quimper ohne Leine laufen?",
@@ -278,6 +305,20 @@
         {
           "q": "Eignet sich der Mont Frugy für Hunde?",
           "a": "Ja, aber der Anstieg ist kurz und steil. Die schattigen Buchen- und Eichenpfade sind an warmen Tagen angenehm; halten Sie Ihren Hund an der Leine, da die Wege belebt sind und auf die oberen Straßen treffen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden in Quimper loslopen?",
+          "a": "Nee. Quimper vereist dat honden in alle openbare gebieden, inclusief parken, kades en Mont Frugy, aangelijnd zijn. Er zijn geen aangewezen losloopzones in het stadscentrum."
+        },
+        {
+          "q": "Wat is de beste hondenwandeling in Quimper?",
+          "a": "Het jaagpad aan de oever van de Odet is het makkelijkst en schilderachtigst en sluit aan op langere routes stroomafwaarts. Voor meer ruimte biedt Parc de Creac'h Gwen ten zuiden van het centrum brede paden en een meer."
+        },
+        {
+          "q": "Is Mont Frugy geschikt voor honden?",
+          "a": "Ja, maar de klim is kort en steil. De schaduwrijke beuken- en eikenpaden zijn aangenaam op warme dagen; houd je hond aan de lijn, want de paden zijn druk en komen uit op de bovenste straten."
         }
       ]
     },
@@ -403,7 +444,9 @@
         }
       ],
       "titleDe": "Mit Hund in Quimper unterwegs",
+      "titleNl": "Op reis met hond in Quimper",
       "introDe": "Quimper ist kompakt und sehr gut zu Fuß erreichbar, was auch gut so ist, denn das lokale QUB-Busnetz nimmt Hunde nur mit, wenn sie in eine geschlossene Transportbox passen. Die Anreise mit dem Zug ist unkompliziert: SNCF-TER-BreizhGo- und TGV-Züge nehmen Hunde in der gesamten Bretagne gegen ein günstiges Tierticket mit. Planen Sie, die Kathedrale, die Kais und den Mont Frugy zu Fuß zu erreichen, und nutzen Sie für Tagesausflüge mit einem größeren Hund den Zug anstelle des Busses.",
+      "introNl": "Quimper is compact en zeer goed te voet bereikbaar, wat maar goed is, want het lokale QUB-busnet neemt honden alleen mee als ze in een gesloten draagtas passen. Reizen met de trein is eenvoudig: SNCF-TER-BreizhGo- en TGV-treinen nemen honden mee in heel Bretagne tegen een gunstig huisdierticket. Plan om de kathedraal, de kades en Mont Frugy te voet te bereiken, en gebruik voor dagtochten met een grotere hond de trein in plaats van de bus.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund im QUB-Bus in Quimper mitnehmen?",
@@ -416,6 +459,20 @@
         {
           "q": "Lässt sich Quimper mit Hund gut zu Fuß erkunden?",
           "a": "Ja. Die Altstadt, die Kathedrale, die Kais am Odet und der Mont Frugy liegen alle in kurzer Gehdistanz zueinander, sodass ein Hund innerhalb der Stadt selbst kaum öffentliche Verkehrsmittel benötigt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen in de QUB-bus in Quimper?",
+          "a": "Alleen als hij in een goed gesloten draagtas, mand of tas past, of als het een erkende blindengeleide- of assistentiehond met tuig is. Vrij lopende honden van welke grootte dan ook worden niet geaccepteerd in QUB-bussen, plan dus met een grotere hond een wandeling of een taxi."
+        },
+        {
+          "q": "Hoeveel kost het om een hond mee te nemen in de trein vanuit Quimper?",
+          "a": "Op TER-BreizhGo-regiotreinen reist een hond onder de 6 kg in een draagtas voor een vast huisdierticket van 7 EUR. Een hond boven de 6 kg reist aan de lijn met muilkorf, ook met een huisdierticket. Erkende blindengeleidehonden reizen gratis."
+        },
+        {
+          "q": "Is Quimper goed te voet te verkennen met hond?",
+          "a": "Ja. De oude stad, de kathedraal, de kades van de Odet en Mont Frugy liggen allemaal op korte loopafstand van elkaar, zodat een hond binnen de stad zelf nauwelijks openbaar vervoer nodig heeft."
         }
       ]
     },
@@ -437,16 +494,19 @@
           "descriptionEs": "Bénodet es la estación balnearia más cercana a Quimper, en la desembocadura del Odet. Por ordenanza municipal, los perros están prohibidos en las playas de Bénodet todo el año, pero se toleran en la Plage du Coq y la Plage de Saint-Gildas fuera de la temporada de verano. Considérela solo como una opción de temporada baja y compruebe siempre la señalización en el lugar.",
           "descriptionPt": "Bénodet é a estância balnear mais próxima de Quimper, na foz do Odet. Por decreto municipal, os cães são proibidos nas praias de Bénodet durante todo o ano, mas são tolerados na Plage du Coq e na Plage de Saint-Gildas fora da época balnear de verão. Considere-a apenas como opção de época baixa e verifique sempre a sinalização no local.",
           "descriptionDe": "Bénodet ist der nächstgelegene Badeort zu Quimper, an der Mündung des Odet. Per Gemeindeverordnung sind Hunde an den Stränden von Bénodet das ganze Jahr über verboten, werden aber am Plage du Coq und am Plage de Saint-Gildas außerhalb der Sommersaison geduldet. Betrachten Sie dies nur als Option in der Nebensaison und prüfen Sie stets die Beschilderung vor Ort.",
+          "descriptionNl": "Benodet is de dichtstbijzijnde badplaats bij Quimper, aan de monding van de Odet. Volgens gemeenteverordening zijn honden het hele jaar door verboden op de stranden van Benodet, maar ze worden buiten het zomerseizoen getolereerd op Plage du Coq en Plage de Saint-Gildas. Beschouw dit alleen als een optie buiten het hoogseizoen en controleer altijd de bebording ter plekke.",
           "season": "Off-season tolerance only (roughly Oct to May); banned in summer",
           "seasonFr": "Tolérance hors saison uniquement (environ d'octobre à mai) ; interdits en été",
           "seasonEs": "Tolerancia solo fuera de temporada (aproximadamente de octubre a mayo); prohibidos en verano",
           "seasonPt": "Tolerância apenas fora de época (aproximadamente de outubro a maio); proibidos no verão",
           "seasonDe": "Nur außerhalb der Saison geduldet (etwa Oktober bis Mai); im Sommer verboten",
+          "seasonNl": "Alleen buiten het seizoen getolereerd (ongeveer oktober tot mei); in de zomer verboden",
           "rules": "Dogs banned year-round on the main beaches by municipal order; tolerated on Plage du Coq and Plage de Saint-Gildas out of season, on a leash. Pick up after your dog.",
           "rulesFr": "Chiens interdits toute l'année sur les plages principales par arrêté municipal ; tolérés en laisse sur la Plage du Coq et la Plage de Saint-Gildas hors saison. Ramassez les déjections de votre chien.",
           "rulesEs": "Perros prohibidos todo el año en las playas principales por ordenanza municipal; tolerados con correa en la Plage du Coq y la Plage de Saint-Gildas fuera de temporada. Recoja los excrementos de su perro.",
           "rulesPt": "Cães proibidos durante todo o ano nas praias principais por decreto municipal; tolerados com trela na Plage du Coq e na Plage de Saint-Gildas fora de época. Recolha os dejetos do seu cão.",
           "rulesDe": "Hunde sind das ganze Jahr über per Gemeindeverordnung an den Hauptstränden verboten; am Plage du Coq und am Plage de Saint-Gildas außerhalb der Saison an der Leine geduldet. Entfernen Sie die Hinterlassenschaften Ihres Hundes.",
+          "rulesNl": "Honden zijn het hele jaar door verboden op de hoofdstranden volgens gemeenteverordening; op Plage du Coq en Plage de Saint-Gildas buiten het seizoen aan de lijn getolereerd. Ruim de uitwerpselen van je hond op.",
           "facilities": "Resort town with parking, cafes and the Odet estuary promenade",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+du+Coq+B%C3%A9nodet",
           "photo": ""
@@ -459,16 +519,19 @@
           "descriptionEs": "En la costa abierta bigoudène, cerca del famoso spot de surf de La Torche, Pors Carn es una larga playa de arena donde, desde 2025, los perros están permitidos antes de las 10:00, incluso en verano. Fuera de esa franja matinal se aplica la habitual prohibición estival de Finisterre, pero es uno de los pocos lugares donde dejar correr a un perro por la playa en julio o agosto. Cuidado con las fuertes corrientes atlánticas y mantenga a su perro cerca de la orilla.",
           "descriptionPt": "Na costa aberta bigoudène, perto do famoso spot de surf de La Torche, Pors Carn é uma longa praia de areia onde, desde 2025, os cães são permitidos antes das 10h00, mesmo no verão. Fora dessa janela matinal aplica-se a habitual proibição de verão do Finisterre, mas é um dos poucos locais onde deixar o cão correr na praia em julho ou agosto. Tenha atenção às fortes correntes atlânticas e mantenha o seu cão perto da beira de água.",
           "descriptionDe": "An der offenen Bigouden-Küste, nahe dem berühmten Surfspot La Torche, ist Pors Carn ein langer Sandstrand, an dem Hunde seit 2025 auch im Sommer vor 10:00 Uhr erlaubt sind. Außerhalb dieses morgendlichen Zeitfensters gilt das übliche sommerliche Verbot in Finistère, dennoch ist es einer der wenigen Orte, an dem ein Hund im Juli oder August am Strand frei laufen kann. Achten Sie auf die starken Atlantikströmungen und halten Sie Ihren Hund nahe am Wasserrand.",
+          "descriptionNl": "Aan de open Bigouden-kust, nabij de beroemde surfspot La Torche, is Pors Carn een lang zandstrand waar honden sinds 2025 ook in de zomer voor 10:00 uur toegestaan zijn. Buiten dit ochtendvenster geldt het gebruikelijke zomerverbod in Finistere, toch is het een van de weinige plekken waar een hond in juli of augustus vrij op het strand kan lopen. Let op de sterke Atlantische stromingen en houd je hond dicht bij de waterrand.",
           "season": "Year-round before 10:00; standard summer ban applies after 10:00 in season",
           "seasonFr": "Toute l'année avant 10h00 ; l'interdiction estivale classique s'applique après 10h00 en saison",
           "seasonEs": "Todo el año antes de las 10:00; la prohibición estival habitual se aplica después de las 10:00 en temporada",
           "seasonPt": "Todo o ano antes das 10h00; a proibição de verão habitual aplica-se depois das 10h00 em época alta",
           "seasonDe": "Ganzjährig vor 10:00 Uhr; das übliche Sommerverbot gilt in der Saison nach 10:00 Uhr",
+          "seasonNl": "Het hele jaar voor 10:00 uur; het gebruikelijke zomerverbod geldt in het seizoen na 10:00 uur",
           "rules": "Dogs allowed before 10:00 even in summer; banned the rest of the day from 1 June to 30 September. Leash recommended near other beachgoers and away from the water given strong currents.",
           "rulesFr": "Chiens autorisés avant 10h00 même en été ; interdits le reste de la journée du 1er juin au 30 septembre. Laisse recommandée à proximité des autres baigneurs et loin de l'eau en raison des forts courants.",
           "rulesEs": "Perros permitidos antes de las 10:00 incluso en verano; prohibidos el resto del día del 1 de junio al 30 de septiembre. Se recomienda la correa cerca de otros bañistas y lejos del agua debido a las fuertes corrientes.",
           "rulesPt": "Cães permitidos antes das 10h00 mesmo no verão; proibidos no resto do dia de 1 de junho a 30 de setembro. Trela recomendada perto de outros banhistas e longe da água devido às fortes correntes.",
           "rulesDe": "Hunde auch im Sommer vor 10:00 Uhr erlaubt; den Rest des Tages vom 1. Juni bis 30. September verboten. Leine wird in der Nähe anderer Strandbesucher und wegen der starken Strömungen fernab vom Wasser empfohlen.",
+          "rulesNl": "Honden ook in de zomer voor 10:00 uur toegestaan; de rest van de dag van 1 juni tot 30 september verboden. Een lijn wordt aanbevolen in de buurt van andere strandbezoekers en vanwege de sterke stromingen weg van het water.",
           "facilities": "Large beach, parking, near La Torche surf area",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Pors+Carn+Penmarch",
           "photo": ""
@@ -481,16 +544,19 @@
           "descriptionEs": "Clohars-Carnoët, cerca de Le Pouldu, es el único lugar del sur de Finisterre conocido por tener una playa para perros abierta todo el año. Los perros son bienvenidos siempre que vayan atados, lo que la convierte en la opción más fiable para un día de playa veraniego desde Quimper, cuando todos los lugares más cercanos están cerrados a los perros. El trayecto es más largo, pero merece la pena en julio y agosto.",
           "descriptionPt": "Clohars-Carnoët, perto de Le Pouldu, é o único local do sul do Finisterre conhecido por ter uma praia para cães aberta durante todo o ano. Os cães são bem-vindos desde que fiquem presos à trela, o que a torna a opção mais fiável para um dia de praia de verão a partir de Quimper, quando todos os locais mais próximos estão fechados aos cães. A viagem é mais longa, mas vale a pena em julho e agosto.",
           "descriptionDe": "Clohars-Carnoët in der Nähe von Le Pouldu ist der einzige Ort im südlichen Finistère mit einem ganzjährig geöffneten Hundestrand. Hunde sind willkommen, sofern sie angeleint bleiben, was ihn zur zuverlässigsten Wahl für einen sommerlichen Strandtag von Quimper aus macht, wenn alle näher gelegenen Orte für Hunde gesperrt sind. Die Fahrt ist länger, lohnt sich aber im Juli und August.",
+          "descriptionNl": "Clohars-Carnoet bij Le Pouldu is de enige plek in het zuidelijke Finistere met een het hele jaar door geopend hondenstrand. Honden zijn welkom mits ze aangelijnd blijven, wat het de betrouwbaarste keuze maakt voor een zomerse strandddag vanuit Quimper, wanneer alle dichterbij gelegen plekken gesloten zijn voor honden. De rit is langer, maar het loont in juli en augustus.",
           "season": "Year-round (on a leash)",
           "seasonFr": "Toute l'année (en laisse)",
           "seasonEs": "Todo el año (con correa)",
           "seasonPt": "Todo o ano (com trela)",
           "seasonDe": "Ganzjährig (angeleint)",
+          "seasonNl": "Het hele jaar (aangelijnd)",
           "rules": "Dogs welcome year-round on a leash in the designated dog-friendly section. Pick up waste; respect any posted swimming-zone limits.",
           "rulesFr": "Chiens bienvenus toute l'année en laisse dans la section dédiée aux chiens. Ramassez les déjections et respectez les limites des zones de baignade signalées.",
           "rulesEs": "Perros bienvenidos todo el año con correa en la sección designada para perros. Recoja los excrementos y respete los límites de las zonas de baño señalizadas.",
           "rulesPt": "Cães bem-vindos durante todo o ano com trela na secção destinada aos cães. Recolha os dejetos e respeite os limites das zonas de banho sinalizadas.",
           "rulesDe": "Hunde ganzjährig an der Leine im dafür vorgesehenen Bereich willkommen. Entfernen Sie Hinterlassenschaften und beachten Sie die ausgeschilderten Grenzen der Badezonen.",
+          "rulesNl": "Honden het hele jaar aan de lijn welkom in het daarvoor bestemde gebied. Ruim uitwerpselen op en let op de bewegwijzerde grenzen van de zwemzones.",
           "facilities": "Beach parking, seaside village amenities",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+du+Pouldu+Clohars-Carno%C3%ABt",
           "photo": ""
@@ -537,7 +603,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in der Nähe von Quimper",
+      "titleNl": "Hondvriendelijke stranden bij Quimper",
       "introDe": "Quimper liegt im Landesinneren, doch die Küste der Cornouaille ist nur 15 bis 20 km entfernt, mit Bénodet sowie den weiter gefassten Stränden von Fouesnant und Bigouden in kurzer Fahrdistanz südlich. Die wichtigste Regel: Im gesamten Finistère sind Hunde vom 1. Juni bis 30. September von den Stränden verbannt und außerhalb der Saison vom 1. Oktober bis 31. Mai an der Leine erlaubt. Einige Ausnahmen bleiben auch im Sommer geöffnet, prüfen Sie also immer das Rathausschild vor Ort, bevor Sie Ihren Hund auf den Sand lassen.",
+      "introNl": "Quimper ligt landinwaarts, maar de kust van de Cornouaille is slechts 15 tot 20 km verderop, met Benodet en de bredere stranden van Fouesnant en Bigouden op korte rijafstand naar het zuiden. De belangrijkste regel: in heel Finistere zijn honden van 1 juni tot 30 september verbannen van de stranden en buiten het seizoen van 1 oktober tot 31 mei aan de lijn toegestaan. Enkele uitzonderingen blijven ook in de zomer open, controleer dus altijd het gemeentebord ter plekke voordat je je hond op het zand laat.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund im Sommer an den Strand in der Nähe von Quimper mitnehmen?",
@@ -546,6 +614,16 @@
         {
           "q": "Sind Hunde an den Stränden von Bénodet erlaubt?",
           "a": "Eine kommunale Verordnung verbietet Hunde das ganze Jahr über an den Stränden von Bénodet, doch sie werden außerhalb der Sommersaison an der Plage du Coq und der Plage de Saint-Gildas geduldet. Prüfen Sie immer die Beschilderung vor Ort, da sich örtliche Regeln ändern können."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond in de zomer meenemen naar het strand bij Quimper?",
+          "a": "Grotendeels niet. In heel Finistere zijn honden van 1 juni tot 30 september verbannen van de stranden. De betrouwbare zomeropties zijn Plage du Pouldu in Clohars-Carnoet (het hele jaar aan de lijn geopend) en Pors Carn bij Penmarc'h voor 10:00 uur."
+        },
+        {
+          "q": "Zijn honden toegestaan op de stranden van Benodet?",
+          "a": "Een gemeenteverordening verbiedt honden het hele jaar door op de stranden van Benodet, maar ze worden buiten het zomerseizoen getolereerd op Plage du Coq en Plage de Saint-Gildas. Controleer altijd de bebording ter plekke, want lokale regels kunnen veranderen."
         }
       ]
     },
@@ -595,8 +673,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+V%C3%A9t%C3%A9rinaire+de+Cornouaille+Quimper",
           "photo": "",
           "hoursDe": "Mo-Fr 09:00-12:30 & 13:30-18:30. Bereitschaftsdienst außerhalb der Öffnungszeiten über dieselbe Nummer",
+          "hoursNl": "Ma-vr 09:00-12:30 & 13:30-18:30. Wachtdienst buiten openingstijden via hetzelfde nummer",
           "descriptionDe": "Eine zentrale Praxis in Quimper mit allgemeiner Medizin, Chirurgie und Ophthalmologie sowie einem Bereitschaftsdienst außerhalb der Öffnungszeiten für echte Notfälle, erreichbar über die Hauptnummer. Die Lage an der Avenue Yves Thepot macht sie vom Stadtzentrum und den Hotels aus leicht erreichbar.",
-          "tipDe": "Rufen Sie außerhalb der Öffnungszeiten vorher an, damit der diensthabende Tierarzt bereit ist und bestätigen kann, ob Ihr Fall dort behandelt oder überwiesen wird"
+          "descriptionNl": "Een centrale praktijk in Quimper met algemene geneeskunde, chirurgie en oftalmologie, plus een wachtdienst buiten openingstijden voor echte spoedgevallen, bereikbaar via het hoofdnummer. De ligging aan de Avenue Yves Thepot maakt haar gemakkelijk bereikbaar vanuit het stadscentrum en de hotels.",
+          "tipDe": "Rufen Sie außerhalb der Öffnungszeiten vorher an, damit der diensthabende Tierarzt bereit ist und bestätigen kann, ob Ihr Fall dort behandelt oder überwiesen wird",
+          "tipNl": "Bel buiten openingstijden van tevoren, zodat de dienstdoende dierenarts klaar staat en kan bevestigen of je geval daar behandeld of doorverwezen wordt"
         },
         {
           "name": "Clinique Vétérinaire Ty Glas",
@@ -620,8 +701,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+V%C3%A9t%C3%A9rinaire+Ty+Glas+Quimper",
           "photo": "",
           "hoursDe": "Mo-Fr 08:00-12:00 & 14:00-19:00, Sa 08:00-12:00 & 14:00-16:00",
+          "hoursNl": "Ma-vr 08:00-12:00 & 14:00-19:00, za 08:00-12:00 & 14:00-16:00",
           "descriptionDe": "Eine gut bewertete Praxis in der Nähe des Freizeitparks Creac'h Gwen mit Medizin, Chirurgie, Endoskopie, Ultraschall, Röntgen und stationärer Aufnahme. Die Lage am Fluss ist praktisch, wenn Sie Ihren Hund bei Creac'h Gwen ausführen und Versorgung in derselben Gegend benötigen.",
-          "tipDe": "Praktisch, um mit einem Spaziergang bei Creac'h Gwen zu kombinieren. Rufen Sie bei jedem Notfall vorher an, da die Abdeckung außerhalb der Öffnungszeiten an den örtlichen Bereitschaftstierarzt weitergeleitet werden kann"
+          "descriptionNl": "Een goed beoordeelde praktijk bij het recreatiepark Creac'h Gwen met geneeskunde, chirurgie, endoscopie, echografie, roentgen en klinische opname. De ligging aan de rivier is handig als je je hond uitlaat bij Creac'h Gwen en zorg in dezelfde omgeving nodig hebt.",
+          "tipDe": "Praktisch, um mit einem Spaziergang bei Creac'h Gwen zu kombinieren. Rufen Sie bei jedem Notfall vorher an, da die Abdeckung außerhalb der Öffnungszeiten an den örtlichen Bereitschaftstierarzt weitergeleitet werden kann",
+          "tipNl": "Handig om te combineren met een wandeling bij Creac'h Gwen. Bel bij elk spoedgeval van tevoren, want de dekking buiten openingstijden kan doorverwezen worden naar de lokale wachtdierenarts"
         },
         {
           "name": "Cabinet Vétérinaire Michel Douguet",
@@ -645,8 +729,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=143+route+de+Pont-l%27Abb%C3%A9+Quimper",
           "photo": "",
           "hoursDe": "Nach Vereinbarung; für aktuelle Öffnungszeiten und Notfälle telefonisch anfragen",
+          "hoursNl": "Op afspraak; bel voor actuele openingstijden en spoedgevallen",
           "descriptionDe": "Eine Nachbarschaftspraxis im Stadtteil Penhars an der Route de Pont-l'Abbé, die Hunde, Katzen und Kleintiere für routinemäßige und leicht dringende Versorgung behandelt. Nützlich, wenn Sie im westlichen Teil von Quimper übernachten oder in Richtung der Bigouden-Küste unterwegs sind.",
-          "tipDe": "Am besten für routinemäßige Besuche während der Öffnungszeiten. Bei einem ernsthaften Notfall außerhalb der Öffnungszeiten ist die Bereitschaftsnummer der Cornouaille-Praxis oder die 3115 der sicherere erste Anruf"
+          "descriptionNl": "Een buurtpraktijk in de wijk Penhars aan de Route de Pont-l'Abbe, die honden, katten en kleine huisdieren behandelt voor routine- en licht dringende zorg. Nuttig als je in het westelijke deel van Quimper overnacht of onderweg bent naar de Bigouden-kust.",
+          "tipDe": "Am besten für routinemäßige Besuche während der Öffnungszeiten. Bei einem ernsthaften Notfall außerhalb der Öffnungszeiten ist die Bereitschaftsnummer der Cornouaille-Praxis oder die 3115 der sicherere erste Anruf",
+          "tipNl": "Het beste voor routinebezoeken tijdens openingstijden. Bij een ernstig spoedgeval buiten openingstijden is het wachtnummer van de Cornouaille-praktijk of 3115 het veiligere eerste telefoontje"
         }
       ],
       "faqsEn": [
@@ -690,7 +777,9 @@
         }
       ],
       "titleDe": "Tierärzte & Haustierbetreuung in Quimper",
+      "titleNl": "Dierenartsen & huisdierenzorg in Quimper",
       "introDe": "Quimper verfügt über mehrere etablierte Tierarztpraxen, die die routinemäßige Versorgung und Notfälle außerhalb der Öffnungszeiten für die weitere Region Cornouaille abdecken. Die meisten betreiben nach Feierabend einen Bereitschaftsdienst (de garde), erreichbar über ihre normale Nummer. Nachfolgend drei verlässliche, überprüfte Praxen; rufen Sie bei einem nächtlichen Notfall vorher an, damit sich der diensthabende Tierarzt vorbereiten kann.",
+      "introNl": "Quimper heeft meerdere gevestigde dierenartspraktijken die routinezorg en spoedgevallen buiten openingstijden dekken voor de bredere regio Cornouaille. De meeste hebben na sluitingstijd een wachtdienst (de garde), bereikbaar via hun normale nummer. Hieronder drie betrouwbare, gecontroleerde praktijken; bel bij een nachtelijk spoedgeval van tevoren, zodat de dienstdoende dierenarts zich kan voorbereiden.",
       "faqsDe": [
         {
           "q": "Gibt es einen Notfalltierarzt in Quimper?",
@@ -699,6 +788,16 @@
         {
           "q": "Was benötige ich, um einen Hund aus der EU nach Frankreich zu bringen?",
           "a": "Einen gültigen EU-Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung. Für Haustiere aus einem anderen EU-Land gibt es keine Quarantäne. Besucher aus Großbritannien oder Nicht-EU-Ländern benötigen anstelle des Ausweises eine EU-Tiergesundheitsbescheinigung."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een spoeddierenarts in Quimper?",
+          "a": "Ja. Praktijken in Quimper zoals de Clinique Veterinaire de Cornouaille hebben een wachtdienst (de garde) buiten openingstijden, bereikbaar via hun hoofdnummer +33 2 98 90 63 29. Je kunt ook 3115 bellen, het nationale Franse doorverwijsnummer voor de dienstdoende dierenarts, om de dichtstbijzijnde wachtdienst te vinden."
+        },
+        {
+          "q": "Wat heb ik nodig om een hond uit de EU naar Frankrijk te brengen?",
+          "a": "Een geldig EU-huisdierenpaspoort, een microchip en een actuele rabiesvaccinatie. Voor huisdieren uit een ander EU-land is er geen quarantaine. Bezoekers uit het Verenigd Koninkrijk of niet-EU-landen hebben in plaats van het paspoort een EU-diergezondheidscertificaat nodig."
         }
       ]
     },
@@ -835,7 +934,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für einen Besuch in Quimper mit Hund",
+      "titleNl": "Praktische tips voor een bezoek aan Quimper met hond",
       "introDe": "Quimper zählt zu den attraktivsten Reisezielen der Bretagne für Hunde mit kühlem Sommer: eine kompakte, zu Fuß erkundbare historische Hauptstadt, bei der die Einschränkungen an der Küste liegen, nicht in der Stadt. Wer die Leinenpflicht, den Strandkalender des Finistère und den eingeschränkten Buszugang kennt, erlebt hier einen entspannten, stressfreien Aufenthalt.",
+      "introNl": "Quimper behoort tot de aantrekkelijkste reisbestemmingen van Bretagne voor honden met een koele zomer: een compacte, te voet te verkennen historische hoofdstad, waar de beperkingen aan de kust liggen, niet in de stad. Wie de aanlijnplicht, de strandkalender van Finistere en de beperkte bustoegang kent, beleeft hier een ontspannen, stressvrij verblijf.",
       "faqsDe": [
         {
           "q": "Ist Quimper ein gutes Reiseziel für einen Hund?",
@@ -848,6 +949,20 @@
         {
           "q": "Gibt es Rassebeschränkungen für Hunde in Frankreich?",
           "a": "Ja. Frankreich reguliert Hunde der Kategorie 1 (Angriffshunde) und Kategorie 2 (Wach-/Verteidigungshunde) mit Maulkorb- und Zutrittsregeln, und sie sind von öffentlichen Verkehrsmitteln ausgeschlossen. Prüfen Sie vor der Reise, ob Ihre Rasse betroffen ist."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Quimper een goede reisbestemming voor een hond?",
+          "a": "Ja. Het is een compacte, te voet te verkennen historische stad met rivieroeverwandelingen, Mont Frugy en Creac'h Gwen, plus een milde Bretonse zomer die aangenaam is voor honden. De belangrijkste beperkingen zijn de overal geldende aanlijnplicht en het strenge zomerbadverbod aan de nabijgelegen kust."
+        },
+        {
+          "q": "Wat is de beste tijd om Quimper met hond te bezoeken?",
+          "a": "Mei, juni en september. Het weer is mild en geschikt voor terrassen, en deze maanden liggen aan weerszijden van het strandverbod in Finistere van 1 juni tot 30 september, wat je ook buiten het seizoen toegang tot de kust geeft."
+        },
+        {
+          "q": "Zijn er rasbeperkingen voor honden in Frankrijk?",
+          "a": "Ja. Frankrijk reguleert honden van categorie 1 (aanvalshonden) en categorie 2 (waak-/verdedigingshonden) met muilkorf- en toegangsregels, en ze zijn uitgesloten van het openbaar vervoer. Controleer voor je reis of jouw ras hieronder valt."
         }
       ]
     },
@@ -884,9 +999,13 @@
           "tipPt": "Vá cedo ou tarde para aproveitar as vielas de calçada antes das multidões. Uma pessoa pode segurar o cão lá fora enquanto outra entra na catedral",
           "googleMapsUrl": "https://maps.google.com/?q=Cath%C3%A9drale+Saint-Corentin+Quimper",
           "descriptionDe": "Das Herz von Quimper ist ein Labyrinth aus mittelalterlichen Fachwerkhäusern rund um die aufragende gotische Kathedrale Saint-Corentin, deren zwei 76 Meter hohe Türme die Skyline dominieren. Sie können mit Ihrem Hund an Ihrer Seite durch die kopfsteingepflasterten Fußgängerstraßen schlendern und das Äußere und die Wehrmauern der Kathedrale bewundern. Das Innere der Kathedrale ist für Hunde geschlossen, doch die umliegenden Plätze und Gassen sind der stimmungsvollste Hundespaziergang der Stadt.",
+          "descriptionNl": "Het hart van Quimper is een labyrint van middeleeuwse vakwerkhuizen rond de imposante gotische kathedraal Saint-Corentin, waarvan de twee 76 meter hoge torens de skyline domineren. Je kunt met je hond aan je zijde door de geplaveide voetgangersstraten slenteren en de buitenkant en verdedigingsmuren van de kathedraal bewonderen. Het interieur van de kathedraal is gesloten voor honden, maar de omliggende pleinen en steegjes zijn de sfeervolste hondenwandeling van de stad.",
           "dogPolicyDe": "Hunde an der Leine in den Straßen und auf den Plätzen willkommen; nicht im Inneren der Kathedrale",
+          "dogPolicyNl": "Aangelijnde honden welkom in de straten en op de pleinen; niet in het interieur van de kathedraal",
           "admissionFeeDe": "Kostenlos (Außenstraßen und Kathedralenäußeres)",
-          "tipDe": "Gehen Sie früh oder spät, um die Kopfsteinpflastergassen vor den Menschenmengen zu genießen. Eine Person kann draußen mit dem Hund warten, während eine andere in die Kathedrale geht"
+          "admissionFeeNl": "Gratis (buitenstraten en kathedraalexterieur)",
+          "tipDe": "Gehen Sie früh oder spät, um die Kopfsteinpflastergassen vor den Menschenmengen zu genießen. Eine Person kann draußen mit dem Hund warten, während eine andere in die Kathedrale geht",
+          "tipNl": "Ga vroeg of laat om de geplaveide steegjes zonder drukte te genieten. Een persoon kan buiten wachten met de hond terwijl de ander de kathedraal bezoekt"
         },
         {
           "name": "Quartier de Locmaria et jardin médiéval",
@@ -911,9 +1030,13 @@
           "tipPt": "Combine com o caminho de sirga do Odet para descer a partir do centro. O jardim medieval é uma paragem calma e sombreada num dia quente",
           "googleMapsUrl": "https://maps.google.com/?q=Locmaria+Quimper",
           "descriptionDe": "Locmaria ist Quimpers ältestes Viertel und die Wiege seiner berühmten Fayence-Töpferei, gelegen am Ufer des Odet rund um eine romanische Kirche und Priorei. Sie können die Fußgängerbrücken am Fluss entlanggehen und den bemerkenswerten, mittelalterlich anmutenden Kreuzgarten mit Ihrem Hund erkunden und anschließend die historischen Fayencerie-Gebäude von außen bewundern. Es ist ein ruhigerer, geschichtsträchtiger Spaziergang, kurz flussabwärts vom Zentrum entfernt.",
+          "descriptionNl": "Locmaria is Quimpers oudste wijk en de bakermat van zijn beroemde faience-aardewerk, gelegen aan de oever van de Odet rond een romaanse kerk en priorij. Je kunt de voetgangersbruggen langs de rivier belopen en de opmerkelijke, middeleeuws aandoende kloostertuin met je hond verkennen, en daarna de historische faience-gebouwen van buiten bewonderen. Het is een rustigere, geschiedenisrijke wandeling, kort stroomafwaarts van het centrum.",
           "dogPolicyDe": "Hunde an der Leine in den Straßen, am Flussufer und im Garten willkommen; nicht in Gebäuden",
+          "dogPolicyNl": "Aangelijnde honden welkom in de straten, aan de rivieroever en in de tuin; niet in gebouwen",
           "admissionFeeDe": "Kostenlos (Viertel, Flussufer und Garten)",
-          "tipDe": "Kombinieren Sie den Spaziergang mit dem Treidelpfad am Odet, um vom Zentrum aus hinunterzugehen. Der mittelalterliche Garten ist an einem warmen Tag ein ruhiger, schattiger Rastplatz"
+          "admissionFeeNl": "Gratis (wijk, rivieroever en tuin)",
+          "tipDe": "Kombinieren Sie den Spaziergang mit dem Treidelpfad am Odet, um vom Zentrum aus hinunterzugehen. Der mittelalterliche Garten ist an einem warmen Tag ein ruhiger, schattiger Rastplatz",
+          "tipNl": "Combineer de wandeling met het jaagpad langs de Odet om vanaf het centrum naar beneden te lopen. De middeleeuwse tuin is op een warme dag een rustige, schaduwrijke rustplek"
         },
         {
           "name": "Jardin de la Retraite",
@@ -938,9 +1061,13 @@
           "tipPt": "Prático para uma pausa fresca a meio da visita. O acesso faz-se pela rue Élie Fréron e pela rue des Douves",
           "googleMapsUrl": "https://maps.google.com/?q=Jardin+de+la+Retraite+Quimper",
           "descriptionDe": "Ein kleiner, ummauerter botanischer Garten im Herzen von Quimper, der Jardin de la Retraite vereint tropische, palmen-, trocken- und mediterrane Bepflanzung, die im milden bretonischen Klima gedeiht. Es ist eine ruhige, geschützte grüne Oase wenige Schritte von der Kathedrale entfernt, ideal für einen kurzen, friedlichen Spaziergang mit einem Hund an der Leine abseits der belebten Straßen. Der Eintritt ist kostenlos, und er lässt sich gut mit einer Tour durch die Altstadt kombinieren.",
+          "descriptionNl": "Een kleine, ommuurde botanische tuin in het hart van Quimper, de Jardin de la Retraite verenigt tropische, palm-, droogte- en mediterrane beplanting die gedijt in het milde Bretonse klimaat. Het is een rustige, beschutte groene oase op een paar stappen van de kathedraal, ideaal voor een korte, vredige wandeling met een aangelijnde hond weg van de drukke straten. De toegang is gratis, en het combineert goed met een rondleiding door de oude stad.",
           "dogPolicyDe": "Hunde an der Leine willkommen; Kot aufsammeln",
+          "dogPolicyNl": "Aangelijnde honden welkom; uitwerpselen opruimen",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Ein praktischer Ort zum Abkühlen oder Ausruhen mitten in der Besichtigung. Der Zugang erfolgt über die Rue Élie Fréron und die Rue des Douves"
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Ein praktischer Ort zum Abkühlen oder Ausruhen mitten in der Besichtigung. Der Zugang erfolgt über die Rue Élie Fréron und die Rue des Douves",
+          "tipNl": "Een handige plek om af te koelen of uit te rusten midden in de bezichtiging. De toegang loopt via de Rue Elie Freron en de Rue des Douves"
         }
       ],
       "tipsEn": [
@@ -1020,7 +1147,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Quimper",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Quimper",
       "introDe": "Quimper trägt seine Geschichte offen zur Schau: eine Fachwerk-Altstadt, die zweitürmige Kathedrale Saint-Corentin, die Kais am Odet und das Fayence-Viertel Locmaria. Fast all dies lässt sich am besten im Freien zu Fuß genießen, was sich perfekt für einen Hund an der Leine eignet. Innenräume wie die Kathedrale und Museen lassen keine Hunde zu, doch die Straßen, Gärten und Flussufer, die Quimper besonders machen, stehen ihnen offen.",
+      "introNl": "Quimper draagt zijn geschiedenis openlijk uit: een vakwerk-oude stad, de kathedraal Saint-Corentin met twee torens, de kades van de Odet en de faience-wijk Locmaria. Vrijwel dit alles geniet je het best buiten te voet, wat perfect geschikt is voor een aangelijnde hond. Binnenruimtes zoals de kathedraal en musea laten geen honden toe, maar de straten, tuinen en rivieroevers die Quimper bijzonder maken, staan voor hen open.",
       "faqsDe": [
         {
           "q": "Kann ich die Kathedrale von Quimper mit meinem Hund besuchen?",
@@ -1033,6 +1162,20 @@
         {
           "q": "Sind Hunde in den Gärten von Quimper erlaubt?",
           "a": "Ja, angeleinte Hunde sind in den öffentlichen Gärten wie dem Jardin de la Retraite und dem Locmaria-Garten willkommen, sofern Sie den Kot aufsammeln. Museen und Innensehenswürdigkeiten lassen keine Hunde zu."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik de kathedraal van Quimper bezoeken met mijn hond?",
+          "a": "Je kunt de buitenkant, de torens en de verdedigingsmuren van de kathedraal Saint-Corentin bewonderen met je hond, maar honden zijn niet toegestaan binnen. Als je het interieur wilt zien, wissel dan af bij de deur terwijl een persoon buiten wacht met de hond."
+        },
+        {
+          "q": "Wat kan ik in Quimper doen met een hond?",
+          "a": "Bijna alles wat Quimper bijzonder maakt is buiten en hondvriendelijk aan de lijn: de vakwerk-oude stad, de kades van de Odet, de historische faience-wijk Locmaria met zijn middeleeuwse tuin en de botanische tuin Jardin de la Retraite."
+        },
+        {
+          "q": "Zijn honden toegestaan in de tuinen van Quimper?",
+          "a": "Ja, aangelijnde honden zijn welkom in de openbare tuinen zoals de Jardin de la Retraite en de tuin van Locmaria, mits je de uitwerpselen opruimt. Musea en binnenbezienswaardigheden laten geen honden toe."
         }
       ]
     },
@@ -1067,8 +1210,11 @@
           "tipEs": "Lee las reseñas recientes y escribe al cuidador antes de reservar. En verano, pide con unos días de antelación porque la disponibilidad local se llena",
           "tipPt": "Leia as avaliações recentes e contacte o cuidador antes de reservar. No verão, peça com alguns dias de antecedência pois a disponibilidade local esgota",
           "descriptionDe": "Rover ist eine der größten Haustierbetreuungs-Plattformen, die in Frankreich tätig sind, und verbindet Besitzer mit geprüften lokalen Sittern und Hundeausführern. In einer Stadt wie Quimper können Sie nach Sittern in Ihrem Viertel suchen und alles von einem kurzen Kurzbesuch bis hin zu Hundespaziergängen oder Übernachtungsunterbringung buchen. Jeder Sitter verfügt über Bewertungen, Fotos und verifizierte Profile, und Buchung und Zahlung erfolgen sicher über die App.",
+          "descriptionNl": "Rover is een van de grootste huisdierenoppasplatforms die actief zijn in Frankrijk, en verbindt eigenaren met gecontroleerde lokale oppassers en hondenuitlaters. In een stad als Quimper kun je zoeken naar oppassers in je buurt en alles boeken van een kort bezoekje tot hondenwandelingen of overnachtingsopvang. Elke oppas heeft beoordelingen, foto's en geverifieerde profielen, en boeken en betalen verlopen veilig via de app.",
           "serviceTypeDe": "App-basierte Buchung. Hundesitting, Spaziergänge, Unterbringung",
-          "tipDe": "Lesen Sie aktuelle Bewertungen und kontaktieren Sie den Sitter vor der Buchung. Im Sommer sollten Sie einige Tage im Voraus anfragen, da die lokale Verfügbarkeit knapp wird"
+          "serviceTypeNl": "App-gebaseerd boeken. Hondenoppas, wandelingen, logeeropvang",
+          "tipDe": "Lesen Sie aktuelle Bewertungen und kontaktieren Sie den Sitter vor der Buchung. Im Sommer sollten Sie einige Tage im Voraus anfragen, da die lokale Verfügbarkeit knapp wird",
+          "tipNl": "Lees recente beoordelingen en neem contact op met de oppas voor het boeken. In de zomer vraag je het beste enkele dagen van tevoren, want de lokale beschikbaarheid wordt krap"
         },
         {
           "name": "Pawshake France",
@@ -1091,8 +1237,11 @@
           "tipEs": "Compara un par de perfiles y revisa el seguro y las condiciones de cancelación antes de confirmar un cuidador",
           "tipPt": "Compare alguns perfis e verifique o seguro e as condições de cancelamento antes de confirmar um cuidador",
           "descriptionDe": "Pawshake ist ein vertrauenswürdiger europäischer Marktplatz für Haustierbetreuung, der in ganz Frankreich aktiv ist, einschließlich der Region Finistère rund um Quimper. Er listet versicherte lokale Sitter auf, die Tagesbetreuung, Spaziergänge, Kurzbesuche und Unterbringung zu Hause anbieten, jeweils mit verifizierten Bewertungen. Es ist eine gute Alternative zu Rover, um nahegelegene Sitter zu vergleichen und jemanden zu finden, der an Ihren Reisedaten verfügbar ist.",
+          "descriptionNl": "Pawshake is een betrouwbare Europese marktplaats voor huisdierenoppas, actief in heel Frankrijk, inclusief de regio Finistere rond Quimper. Het biedt verzekerde lokale oppassers aan die dagopvang, wandelingen, korte bezoekjes en opvang bij hen thuis aanbieden, elk met geverifieerde beoordelingen. Het is een goed alternatief voor Rover om nabijgelegen oppassers te vergelijken en iemand te vinden die beschikbaar is op je reisdata.",
           "serviceTypeDe": "App-basierte Buchung. Tagesbetreuung, Spaziergänge, Unterbringung zu Hause",
-          "tipDe": "Vergleichen Sie ein paar Profile und prüfen Sie die Versicherungs- und Stornobedingungen, bevor Sie einen Sitter bestätigen"
+          "serviceTypeNl": "App-gebaseerd boeken. Dagopvang, wandelingen, opvang bij oppas thuis",
+          "tipDe": "Vergleichen Sie ein paar Profile und prüfen Sie die Versicherungs- und Stornobedingungen, bevor Sie einen Sitter bestätigen",
+          "tipNl": "Vergelijk een paar profielen en controleer de verzekerings- en annuleringsvoorwaarden voordat je een oppas bevestigt"
         },
         {
           "name": "Holidog",
@@ -1115,8 +1264,11 @@
           "tipEs": "Ideal para una estancia más larga en Quimper con paseos recurrentes. Confirma que el cuidador está cómodo con el tamaño y la energía de tu perro",
           "tipPt": "Ideal para uma estadia mais longa em Quimper com passeios regulares. Confirme que o cuidador está à vontade com o tamanho e a energia do seu cão",
           "descriptionDe": "Holidog ist ein in Frankreich gegründeter Haustierbetreuungsdienst, der Besitzer landesweit mit Sittern und Hundeausführern verbindet, mit Profilen, Bewertungen und einer Zufriedenheitsgarantie. Er eignet sich für die Organisation von Tagesbetreuung oder Unterbringung rund um Quimper, wenn Sie Indoor-Besichtigungen geplant haben, oder für einen längeren Aufenthalt, bei dem Sie wiederkehrende Spaziergänge benötigen. Buchungen und Zahlungen werden über die Plattform abgewickelt.",
+          "descriptionNl": "Holidog is een in Frankrijk opgerichte huisdierenoppasdienst die eigenaren landelijk verbindt met oppassers en hondenuitlaters, met profielen, beoordelingen en een tevredenheidsgarantie. Het is geschikt voor het regelen van dagopvang of logeeropvang rond Quimper als je binnenbezichtigingen gepland hebt, of voor een langer verblijf waarbij je terugkerende wandelingen nodig hebt. Boekingen en betalingen verlopen via het platform.",
           "serviceTypeDe": "Online-Buchung. Tagesbetreuung, Spaziergänge, Unterbringung",
-          "tipDe": "Gut für einen längeren Aufenthalt in Quimper mit wiederkehrenden Spaziergängen. Bestätigen Sie, dass der Sitter mit der Größe und dem Energielevel Ihres Hundes zurechtkommt"
+          "serviceTypeNl": "Online boeken. Dagopvang, wandelingen, logeeropvang",
+          "tipDe": "Gut für einen längeren Aufenthalt in Quimper mit wiederkehrenden Spaziergängen. Bestätigen Sie, dass der Sitter mit der Größe und dem Energielevel Ihres Hundes zurechtkommt",
+          "tipNl": "Goed voor een langer verblijf in Quimper met terugkerende wandelingen. Bevestig dat de oppas overweg kan met de grootte en het energieniveau van je hond"
         }
       ],
       "tipsEn": [
@@ -1196,7 +1348,9 @@
         }
       ],
       "titleDe": "Hundesitter & Haustierbetreuung in Quimper",
+      "titleNl": "Hondenoppas & huisdierenzorg in Quimper",
       "introDe": "Da die Kathedrale und Museen von Quimper für Hunde tabu sind, ermöglichen Ihnen ein paar Stunden bei einem vertrauenswürdigen lokalen Sitter, die Innenräume zu besichtigen, während Ihr Hund betreut wird. Der zuverlässigste Weg, einen zu finden, führt über Frankreichs etablierte Online-Plattformen für Haustierbetreuung, die geprüfte Sitter in und um Quimper auflisten. Buchen Sie im Sommer im Voraus, wenn die lokale Verfügbarkeit knapper ist.",
+      "introNl": "Omdat de kathedraal en musea van Quimper taboe zijn voor honden, geven een paar uur bij een vertrouwde lokale oppas je de mogelijkheid om de binnenruimtes te bezichtigen terwijl je hond wordt verzorgd. De betrouwbaarste manier om er een te vinden, loopt via Frankrijks gevestigde online platforms voor huisdierenoppas, die gecontroleerde oppassers in en rond Quimper aanbieden. Boek in de zomer van tevoren, wanneer de lokale beschikbaarheid krapper is.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Hundesitter in Quimper?",
@@ -1209,6 +1363,20 @@
         {
           "q": "Wie viel kostet Haustierbetreuung in Quimper?",
           "a": "Die Preise variieren je nach Leistung und Sitter, doch Tagesbetreuung und Spaziergänge über die wichtigsten Plattformen kosten typischerweise etwa 15 bis 30 Euro pro Tag. Übernachtungsunterbringung kostet mehr; prüfen Sie das Profil jedes Sitters für die genaue Preisgestaltung."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe vind ik een hondenoppas in Quimper?",
+          "a": "De betrouwbaarste optie is een gevestigd online platform zoals Rover, Pawshake of Holidog, dat gecontroleerde, verzekerde oppassers in en rond Quimper aanbiedt met beoordelingen en veilig boeken. Reserveer van tevoren, vooral in het zomerse hoogseizoen."
+        },
+        {
+          "q": "Waarom zou ik een oppas nodig hebben in Quimper?",
+          "a": "De kathedraal en de musea van Quimper laten geen honden toe. Een oppas voor een paar uur stelt je in staat deze binnenruimtes te bezichtigen terwijl je hond veilig wordt verzorgd, in plaats van hem alleen in de hotelkamer te laten."
+        },
+        {
+          "q": "Hoeveel kost huisdierenoppas in Quimper?",
+          "a": "De prijzen varieren per dienst en oppas, maar dagopvang en wandelingen via de belangrijkste platforms kosten doorgaans ongeveer 15 tot 30 euro per dag. Overnachtingsopvang kost meer; controleer het profiel van elke oppas voor de exacte prijsstelling."
         }
       ]
     }

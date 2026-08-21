@@ -41,9 +41,13 @@
           "tipPt": "Combine com o circuito do Pfänder: subida a pé pela floresta, jantar e último teleférico para descer.",
           "googleMapsUrl": "https://www.google.com/maps/search/Gasthaus+Seibl+Bregenz",
           "descriptionDe": "Ein traditioneller Gasthof am Pfänderhang über Bregenz, in der lokalen Hundebesitzer-Community als hundefreundlicher Stopp empfohlen. Er passt natürlich zu den Wanderwegen am Hang: sich die Käsknöpfle beim Aufstieg verdienen, mit der Seilbahn wieder hinunter.",
+          "descriptionNl": "Een traditionele herberg op de helling van de Pfänder boven Bregenz, aanbevolen door de lokale hondenbezittersgemeenschap als hondvriendelijke stop. Hij past van nature bij de wandelpaden op de helling: verdien de käsknöpfle tijdens de klim, en ga met de kabelbaan weer naar beneden.",
           "petPolicyDe": "Hunde laut Berichten lokaler Hundebesitzer willkommen; an vollen Abenden vorher anrufen",
+          "petPolicyNl": "Honden welkom volgens berichten van lokale hondenbezitters; bel van tevoren op drukke avonden",
           "mustTryDe": "Vorarlberger Käsknöpfle mit Röstzwiebeln",
-          "tipDe": "Mit der Pfänder-Runde kombinieren: zu Fuß hinauf durch den Wald, Abendessen, dann die letzte Seilbahn hinunter."
+          "mustTryNl": "Vorarlberger käsknöpfle met gebakken uien",
+          "tipDe": "Mit der Pfänder-Runde kombinieren: zu Fuß hinauf durch den Wald, Abendessen, dann die letzte Seilbahn hinunter.",
+          "tipNl": "Combineer met de Pfänder-rondwandeling: te voet omhoog door het bos, avondeten, en dan de laatste kabelbaan naar beneden."
         },
         {
           "name": "YachtHotel Helvetia",
@@ -71,14 +75,21 @@
           "tipPt": "O salto de comboio Bregenz-Lindau demora menos de 10 minutos; lembre-se de que do outro lado valem as regras alemãs (sem açaime obrigatório, mas com trela).",
           "googleMapsUrl": "https://www.google.com/maps/search/YachtHotel+Helvetia+Lindau",
           "descriptionDe": "Ein Hafen-Hotelrestaurant an der Inselpromenade von Lindau, direkt jenseits der Grenze und eine Zugstation von Bregenz entfernt, das Hunde im Restaurant ausdrücklich erlaubt. Die Terrasse blickt direkt auf den Bodensee-Yachthafen.",
+          "descriptionNl": "Een havenhotelrestaurant aan de eilandpromenade van Lindau, net over de grens en één treinstation van Bregenz vandaan, dat honden in het restaurant nadrukkelijk toestaat. Het terras kijkt direct uit op de jachthaven van de Bodensee.",
           "petPolicyDe": "Hunde im Restaurant erlaubt; von hundehotel.info als hundefreundlich gelistet",
+          "petPolicyNl": "Honden toegestaan in het restaurant; vermeld als hondvriendelijk door hundehotel.info",
           "mustTryDe": "Bodensee-Felchen mit Seeblick",
-          "tipDe": "Die Zugverbindung Bregenz-Lindau dauert unter 10 Minuten; daran denken, dass jenseits der Grenze deutsche Regeln gelten (keine Maulkorbpflicht, aber Leine anlegen)."
+          "mustTryNl": "Bodensee-felchen (witvis) met uitzicht op het meer",
+          "tipDe": "Die Zugverbindung Bregenz-Lindau dauert unter 10 Minuten; daran denken, dass jenseits der Grenze deutsche Regeln gelten (keine Maulkorbpflicht, aber Leine anlegen).",
+          "tipNl": "De treinverbinding Bregenz-Lindau duurt minder dan 10 minuten; denk eraan dat over de grens Duitse regels gelden (geen muilkorfplicht, maar wel aanlijnen)."
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Bregenz",
+      "titleNl": "Hondvriendelijke restaurants in Bregenz",
       "introDe": "Die österreichische Gasthauskultur ist grundsätzlich hundetolerant: wohlerzogene Hunde sind in den meisten traditionellen Gasthöfen in Vorarlberg normale Gäste, und Terrassen entlang der Uferpromenade haben selten etwas dagegen. In der Hochsaison vor dem Betreten der Gaststube nachfragen, und eher mit Wassernäpfen als hochgezogenen Augenbrauen rechnen.",
-      "faqsDe": []
+      "introNl": "De Oostenrijkse herbergcultuur is over het algemeen hondentolerant: brave honden zijn in de meeste traditionele herbergen in Vorarlberg gewone gasten, en terrassen langs de oeverpromenade hebben er zelden bezwaar tegen. Vraag in het hoogseizoen voor je de gaststube binnengaat, en reken eerder op waterbakjes dan op opgetrokken wenkbrauwen.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Parks & Walks for Dogs in Bregenz",
@@ -134,8 +145,11 @@
           "bestTimeToVisitPt": "De manhã cedo nas semanas do festival, antes da multidão",
           "googleMapsUrl": "https://www.google.com/maps/search/Seeanlagen+Bregenz",
           "descriptionDe": "Die gepflegten Ufergärten zwischen Hafen und Festspielhaus, mit altem Baumbestand, Rasenflächen und ständigem Blick auf den Bodensee Richtung Lindau und das deutsche Ufer. Die klassische abendliche Leinen-Runde, mit kostenlosen Kotbeutelspendern entlang des Wegs.",
+          "descriptionNl": "De verzorgde oevertuinen tussen de haven en het festspielhuis, met oude bomen, grasvelden en voortdurend uitzicht op de Bodensee richting Lindau en de Duitse oever. Het klassieke avondrondje aan de lijn, met gratis hondenpoepzakjesdispensers langs het pad.",
           "leashRulesDe": "Leinenpflicht auf der Promenade und in den Gärten",
-          "bestTimeToVisitDe": "Früher Morgen während der Festspielwochen, vor den Menschenmassen"
+          "leashRulesNl": "Aanlijnplicht op de promenade en in de tuinen",
+          "bestTimeToVisitDe": "Früher Morgen während der Festspielwochen, vor den Menschenmassen",
+          "bestTimeToVisitNl": "Vroeg in de ochtend tijdens de festivalweken, voor de mensenmassa's"
         },
         {
           "name": "Pfänder",
@@ -181,8 +195,11 @@
           "bestTimeToVisitPt": "Manhãs limpas para o panorama completo do lago",
           "googleMapsUrl": "https://www.google.com/maps/search/Pf%C3%A4nder+Bregenz",
           "descriptionDe": "Bregenz' Hausberg, mit Waldwegen von der Altstadt bis zum 1064 m hohen Gipfel und einem Panorama über den gesamten Bodensee und 240 Alpengipfel. Hunde fahren mit der Seilbahn mit und können an der Leine an der Rundwanderung an den Alpenwild-Gehegen vorbei teilnehmen.",
+          "descriptionNl": "Bregenz' huisberg, met bospaden van de oude binnenstad tot de 1064 meter hoge top en een panorama over de hele Bodensee en 240 Alpentoppen. Honden mogen mee in de kabelbaan en kunnen aan de lijn meelopen op de rondwandeling langs de alpenwildverblijven.",
           "leashRulesDe": "Leinenpflicht rund um den Wildpark und auf stark frequentierten Abschnitten; Hunde in der Nähe weidender Tiere nah bei sich halten",
-          "bestTimeToVisitDe": "Klare Morgen für das volle Bodensee-Panorama"
+          "leashRulesNl": "Aanlijnplicht rond het wildpark en op druk bezochte stukken; houd honden dicht bij je in de buurt van grazende dieren",
+          "bestTimeToVisitDe": "Klare Morgen für das volle Bodensee-Panorama",
+          "bestTimeToVisitNl": "Heldere ochtenden voor het volledige Bodensee-panorama"
         },
         {
           "name": "Mehrerauer Seeufer",
@@ -228,13 +245,19 @@
           "bestTimeToVisitPt": "Pôr do sol, quando a luz banha a margem suíça em frente",
           "googleMapsUrl": "https://www.google.com/maps/search/Mehrerauer+Seeufer+Bregenz",
           "descriptionDe": "Die unangelegte Seite des Bregenzer Ufers: Kiesbänke, Pappelwälder und die Mündung der Bregenzerach westlich der Abtei. Ruhiger als die Seeanlagen und bei Einheimischen beliebt; Teile sind geschütztes Biotop, daher Leine anlegen und Schilder zur Brutzeit respektieren.",
+          "descriptionNl": "De onbewerkte kant van de oever van Bregenz: grindbanken, populierenbossen en de monding van de Bregenzerach ten westen van de abdij. Rustiger dan de Seeanlagen en populair bij locals; delen zijn beschermd biotoop, dus aanlijnen en borden over het broedseizoen respecteren.",
           "leashRulesDe": "Leinenpflicht; strenge Regeln in den geschützten Biotop-Abschnitten",
-          "bestTimeToVisitDe": "Sonnenuntergang, wenn das Licht auf das Schweizer Ufer über den See fällt"
+          "leashRulesNl": "Aanlijnplicht; strenge regels in de beschermde biotoopgedeeltes",
+          "bestTimeToVisitDe": "Sonnenuntergang, wenn das Licht auf das Schweizer Ufer über den See fällt",
+          "bestTimeToVisitNl": "Zonsondergang, wanneer het licht over het meer op de Zwitserse oever valt"
         }
       ],
       "titleDe": "Parks & Spaziergänge für Hunde in Bregenz",
+      "titleNl": "Parken & wandelingen voor honden in Bregenz",
       "introDe": "Bregenz liegt eingezwängt zwischen dem Bodensee und dem Pfänder, daher gibt es Hundespaziergänge in zwei Varianten: flaches Ufergrün (die Seeanlagen und das wildere Mehrerau-Ufer) und Waldanstiege mit Seepanorama. Die Stadt stellt an Spendern entlang der Promenaden kostenlose Hundekotbeutel (Säckle) bereit; in den Parkzonen und Naturschutzgebieten gilt Leinenpflicht.",
-      "faqsDe": []
+      "introNl": "Bregenz ligt ingeklemd tussen de Bodensee en de Pfänder, dus honden wandelen er in twee varianten: vlak oevergroen (de Seeanlagen en de wildere Mehrerau-oever) en beklimmingen door het bos met uitzicht op het meer. De stad stelt bij dispensers langs de promenades gratis hondenpoepzakjes (Säckle) beschikbaar; in de parkzones en natuurgebieden geldt een aanlijnplicht.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting Around Bregenz with a Dog",
@@ -291,8 +314,11 @@
         }
       ],
       "titleDe": "Mit Hund unterwegs in Bregenz",
+      "titleNl": "Onderweg met hond in Bregenz",
       "introDe": "Bregenz ist klein genug, um am See entlang von einem Ende zum anderen zu Fuß zu gehen, und die österreichischen Verkehrsregeln sind hundefreundlich, aber formell: In Bussen und Zügen braucht ein Hund eine Leine UND einen Maulkorb (oder für kleine Hunde eine Transportbox), eine Regel, die Besucher aus Ländern ohne Maulkorbpflicht überrascht. Die Pfänderbahn nimmt Hunde mit auf den Berg.",
-      "faqsDe": []
+      "introNl": "Bregenz is klein genoeg om langs het meer van het ene naar het andere eind te lopen, en de Oostenrijkse verkeersregels zijn hondvriendelijk maar formeel: in bussen en treinen heeft een hond een lijn ÉN een muilkorf nodig (of voor kleine honden een reismand), een regel die bezoekers uit landen zonder muilkorfplicht verrast. De Pfänderbahn neemt honden mee de berg op.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Dog Swimming on the Bodensee at Bregenz",
@@ -345,8 +371,11 @@
         }
       ],
       "titleDe": "Hundeschwimmen im Bodensee bei Bregenz",
+      "titleNl": "Hondenzwemmen in de Bodensee bij Bregenz",
       "introDe": "Die kostenpflichtigen Freibäder und überwachten Badestrände rund um Bregenz lassen in der Saison keine Hunde zu, aber das freie Ufer schon: Der Pipeline-Weg vom Bregenzer Hafen Richtung Lochau ist der lokale Klassiker fürs Hundeschwimmen, und der Strand bei der alten Fährstelle in Lochau ist ein anerkannter Hundeort. Die Wasserqualität im Bodensee ist ausgezeichnet.",
-      "faqsDe": []
+      "introNl": "De betaalde openluchtzwembaden en bewaakte badstranden rond Bregenz laten in het seizoen geen honden toe, maar de vrije oever wel: het Pipeline-pad vanaf de haven van Bregenz richting Lochau is de lokale klassieker voor hondenzwemmen, en het strand bij de oude veerplek in Lochau is een erkende hondenplek. De waterkwaliteit van de Bodensee is uitstekend.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Veterinarians in Bregenz",
@@ -387,8 +416,11 @@
         }
       ],
       "titleDe": "Tierärzte in Bregenz",
+      "titleNl": "Dierenartsen in Bregenz",
       "introDe": "Bregenz hat eine vollwertige Kleintierklinik mit 24-Stunden-Notdienst sowie Praxen in den Stadtteilen, daher ist die Versorgung besser, als es die Stadtgröße vermuten lässt. Wie überall in Österreich vor der Fahrt anrufen: Der Notdienst läuft auf Abruf.",
-      "faqsDe": []
+      "introNl": "Bregenz heeft een volwaardige kleindierenkliniek met 24-uurs spoeddienst, plus praktijken in de wijken, waardoor de zorg beter is dan je op basis van de stadsgrootte zou verwachten. Zoals overal in Oostenrijk: bel voor je gaat, de spoeddienst werkt op oproepbasis.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Bregenz with a Dog",
@@ -477,7 +509,9 @@
         }
       ],
       "titleDe": "Wichtige Tipps für einen Besuch in Bregenz mit Hund",
+      "titleNl": "Belangrijke tips voor een bezoek aan Bregenz met hond",
       "introDe": "Bregenz ist ein See- und Bergstädtchen, das in eine Tasche passt, aber zwei österreichische Besonderheiten sind wichtig: die Maulkorb- und Leinenpflicht in öffentlichen Verkehrsmitteln und die Bregenzer Festspiele (ab 17. Juli), wenn 7.000 Zuschauer pro Abend am Seeufer rund um die schwimmende Bühne zusammenkommen. Die Spaziergänge um beides herum planen, dann ist die Stadt ein Vergnügen auf vier Pfoten.",
+      "introNl": "Bregenz is een meer- en bergstadje dat in een zak past, maar twee Oostenrijkse bijzonderheden zijn belangrijk: de muilkorf- en aanlijnplicht in het openbaar vervoer, en de Bregenzer Festspiele (vanaf 17 juli), wanneer 7.000 toeschouwers per avond samenkomen aan het meer rond het drijvende podium. Plan je wandelingen om beide heen, dan is de stad een genot op vier poten.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund zu den Bregenzer Festspielen mitnehmen?",
@@ -490,6 +524,20 @@
         {
           "q": "Gibt es einen Notfall-Tierarzt in Bregenz?",
           "a": "Ja. Die Tierklinik Fürst (Holzackergasse 13) betreibt einen 24-Stunden-Notdienst: außerhalb der Öffnungszeiten +43 664 9943 4064 anrufen, der diensthabende Tierarzt trifft sich mit Ihnen in der Klinik."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen naar de Bregenzer Festspiele?",
+          "a": "Niet op de tribunes: dieren hebben geen toegang bij voorstellingen op het drijvende podium. Zo doen vaste gasten het: geniet eerder op de dag van de festivalsfeer vanaf de promenade, en boek voor de eigenlijke voorstelling een oppas of laat de hond uitrusten in een huisdiervriendelijk hotel."
+        },
+        {
+          "q": "Heeft mijn hond in Bregenz echt een muilkorf nodig?",
+          "a": "In het openbaar vervoer wel: de Oostenrijkse regels vereisen in bussen en treinen een lijn en muilkorf, tenzij de hond in een gesloten reismand reist. Op straat volstaat een lijn, maar je moet de muilkorf wel kunnen laten zien."
+        },
+        {
+          "q": "Is er een spoeddierenarts in Bregenz?",
+          "a": "Ja. Tierklinik Fürst (Holzackergasse 13) heeft een 24-uurs spoeddienst: bel buiten openingstijden +43 664 9943 4064, de dienstdoende dierenarts spreekt met je af in de kliniek."
         }
       ]
     },
@@ -514,7 +562,8 @@
           "dogFriendly": true,
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/Seeb%C3%BChne+Bregenz",
-          "descriptionDe": "Die weltgrößte schwimmende Opernbühne, deren monumentale Bühnenbilder direkt aus dem Bodensee ragen. Hunde können keine Vorstellungen besuchen, aber das spektakuläre Bühnenbild lässt sich tagsüber von der kostenlosen Uferpromenade aus ohnehin am besten fotografieren, mit Hund an der Seite."
+          "descriptionDe": "Die weltgrößte schwimmende Opernbühne, deren monumentale Bühnenbilder direkt aus dem Bodensee ragen. Hunde können keine Vorstellungen besuchen, aber das spektakuläre Bühnenbild lässt sich tagsüber von der kostenlosen Uferpromenade aus ohnehin am besten fotografieren, mit Hund an der Seite.",
+          "descriptionNl": "Het grootste drijvende operapodium ter wereld, waarvan de monumentale decors direct uit de Bodensee oprijzen. Honden mogen geen voorstellingen bijwonen, maar het spectaculaire decor is overdag toch het best te fotograferen vanaf de gratis oeverpromenade, met de hond naast je."
         },
         {
           "name": "Oberstadt",
@@ -527,7 +576,8 @@
           "dogFriendly": true,
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/Oberstadt+Bregenz",
-          "descriptionDe": "Bregenz' ummauerte mittelalterliche Oberstadt, gekrönt vom Martinsturm mit seiner riesigen Zwiebelkuppel, einer der größten Mitteleuropas. Ruhige Kopfsteinpflastergassen, Ausblicke von der Stadtmauer über den See und kaum Verkehr machen sie zum ruhigsten Altstadt-Hundespaziergang am Bodensee."
+          "descriptionDe": "Bregenz' ummauerte mittelalterliche Oberstadt, gekrönt vom Martinsturm mit seiner riesigen Zwiebelkuppel, einer der größten Mitteleuropas. Ruhige Kopfsteinpflastergassen, Ausblicke von der Stadtmauer über den See und kaum Verkehr machen sie zum ruhigsten Altstadt-Hundespaziergang am Bodensee.",
+          "descriptionNl": "Bregenz' ommuurde middeleeuwse Oberstadt, bekroond door de Martinstoren met zijn reusachtige uienkoepel, een van de grootste van Centraal-Europa. Rustige geplaveide steegjes, uitzicht vanaf de stadsmuur over het meer en nauwelijks verkeer maken het de rustigste ouwe-binnenstadwandeling met hond aan de Bodensee."
         },
         {
           "name": "Pfänder Wildpark",
@@ -540,12 +590,16 @@
           "dogFriendly": true,
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/Pf%C3%A4nder+Wildpark+Bregenz",
-          "descriptionDe": "Ein kostenloser Alpenwildpark auf dem Rundweg des Pfänder-Gipfels, mit Steinböcken, Murmeltieren, Hirschen und Wildschweinen in großen Gehegen. Angeleinte Hunde dürfen die 30-minütige Runde mitgehen, ein ungewöhnliches Vergnügen, da die meisten Wildparks Hunde abweisen."
+          "descriptionDe": "Ein kostenloser Alpenwildpark auf dem Rundweg des Pfänder-Gipfels, mit Steinböcken, Murmeltieren, Hirschen und Wildschweinen in großen Gehegen. Angeleinte Hunde dürfen die 30-minütige Runde mitgehen, ein ungewöhnliches Vergnügen, da die meisten Wildparks Hunde abweisen.",
+          "descriptionNl": "Een gratis alpenwildpark op de rondwandeling van de Pfänder-top, met steenbokken, marmotten, herten en wilde zwijnen in grote verblijven. Aangelijnde honden mogen mee op het rondje van 30 minuten, een ongewoon genoegen, aangezien de meeste wildparken honden weren."
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Bregenz",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Bregenz",
       "introDe": "Bregenz' Hauptsehenswürdigkeiten liegen alle im Freien: die weltgrößte schwimmende Bühne, von der Promenade aus zu sehen, eine mittelalterliche Oberstadt und ein Berggipfel mit dem gesamten Bodensee zu Füßen. Ein angeleinter Hund schafft die ganze Runde an einem Tag.",
-      "faqsDe": []
+      "introNl": "Bregenz' hoofdattracties liggen allemaal buiten: het grootste drijvende podium ter wereld, te zien vanaf de promenade, een middeleeuwse Oberstadt en een bergtop met de hele Bodensee aan je voeten. Een aangelijnde hond kan de hele ronde op één dag doen.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Walking in Bregenz",
@@ -586,8 +640,11 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Bregenz",
+      "titleNl": "Huisdierenoppas & uitlaatservice in Bregenz",
       "introDe": "Festspielabende sind der Hauptgrund, warum Besucher in Bregenz einen Sitter brauchen, da Hunde bei den Seebühnen-Vorstellungen nicht dabei sein können. Die unten genannten europaweiten Plattformen listen geprüfte Betreuer in Vorarlberg und jenseits der Grenze in Lindau; für Ende Juli und August frühzeitig buchen.",
-      "faqsDe": []
+      "introNl": "Festivalavonden zijn de belangrijkste reden waarom bezoekers in Bregenz een oppas nodig hebben, omdat honden niet welkom zijn bij de voorstellingen op het meerpodium. De hieronder genoemde Europese platformen vermelden gecontroleerde oppassers in Vorarlberg en over de grens in Lindau; boek voor eind juli en augustus tijdig.",
+      "faqsDe": [],
+      "faqsNl": []
     }
   }
 }

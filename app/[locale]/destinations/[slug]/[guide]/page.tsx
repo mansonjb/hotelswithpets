@@ -115,6 +115,7 @@ interface GuideSection {
   titleEs?: string
   titlePt?: string
   titleDe?: string
+  titleNl?: string
   contentEn: string
   contentFr?: string
   contentEs?: string
@@ -128,11 +129,13 @@ interface GuideData {
   titleEs?: string
   titlePt?: string
   titleDe?: string
+  titleNl?: string
   introEn: string
   introFr?: string
   introEs?: string
   introPt?: string
   introDe?: string
+  introNl?: string
   places?: GuidePlace[]
   rules?: Array<{ mode: string; modeFr?: string; modeEs?: string; modePt?: string; modeDe?: string; policy: string; policyFr?: string; policyEs?: string; policyPt?: string; policyDe?: string; tip: string; tipFr?: string; tipEs?: string; tipPt?: string; tipDe?: string }>
   sections?: GuideSection[]
@@ -141,11 +144,13 @@ interface GuideData {
   tipsEs?: string[]
   tipsPt?: string[]
   tipsDe?: string[]
+  tipsNl?: string[]
   faqsEn?: GuideFaq[]
   faqsFr?: GuideFaq[]
   faqsEs?: GuideFaq[]
   faqsPt?: GuideFaq[]
   faqsDe?: GuideFaq[]
+  faqsNl?: GuideFaq[]
   entryRequirements?: {
     euPets: string
     euPetsFr?: string
@@ -221,13 +226,14 @@ export async function generateStaticParams() {
 // Traveller-intent meta templates per guide section.
 // Goal: distinguish from "near me" local-search intent, so Google SERPs
 // for visitors searching "{thing} in {city}" instead of locals searching "{thing} near me".
-const META_TPL: Record<string, Record<'en' | 'fr' | 'es' | 'pt' | 'de', { title: (c: string) => string; desc: (c: string) => string }>> = {
+const META_TPL: Record<string, Record<'en' | 'fr' | 'es' | 'pt' | 'de' | 'nl', { title: (c: string) => string; desc: (c: string) => string }>> = {
   parks: {
     en: { title: c => `Dog parks in ${c}: off-leash zones & fenced runs`, desc: c => `Off-leash zones, fenced dog runs and quiet walks in ${c}, mapped for travellers visiting with their dog. Verified locations and rules.` },
     fr: { title: c => `Parcs canins à ${c} : zones sans laisse & espaces clôturés`, desc: c => `Zones sans laisse, espaces clôturés et promenades à ${c}, repérés pour les voyageurs qui visitent avec leur chien. Adresses et règles vérifiées.` },
     es: { title: c => `Parques para perros en ${c}: zonas sin correa y vallados`, desc: c => `Zonas sin correa, recintos vallados y paseos en ${c}, seleccionados para viajeros que visitan con su perro. Direcciones y normas verificadas.` },
     pt: { title: c => `Parques para cães em ${c}: zonas sem trela e vedados`, desc: c => `Zonas sem trela, recintos vedados e passeios em ${c}, selecionados para viajantes que visitam com o seu cão. Moradas e regras verificadas.` },
     de: { title: c => `Hundeparks in ${c}: Freilaufzonen & eingezäunte Areale`, desc: c => `Freilaufzonen, eingezäunte Hundeauslaufflächen und ruhige Spazierwege in ${c}, zusammengestellt für Reisende mit Hund. Geprüfte Standorte und Regeln.` },
+    nl: { title: c => `Hondenparken in ${c}: losloopzones & omheinde uitrenplekken`, desc: c => `Losloopzones, omheinde uitrenplekken en rustige wandelroutes in ${c}, in kaart gebracht voor reizigers die met hun hond op stap gaan. Geverifieerde locaties en regels.` },
   },
   tips: {
     en: { title: c => `Travelling to ${c} with a dog: rules, vets & transport`, desc: c => `What to know before visiting ${c} with your dog or cat: local rules, summer-heat warnings, transport policies, emergency vet contacts. All verified at source.` },
@@ -235,6 +241,7 @@ const META_TPL: Record<string, Record<'en' | 'fr' | 'es' | 'pt' | 'de', { title:
     es: { title: c => `Viajar a ${c} con perro: normas, vetes y transporte`, desc: c => `Lo que conviene saber antes de visitar ${c} con tu perro o gato: normas locales, alertas de calor, transporte, veterinarios de urgencia. Verificado en origen.` },
     pt: { title: c => `Viajar para ${c} com cão: regras, vetes e transporte`, desc: c => `O que saber antes de visitar ${c} com o seu cão ou gato: regras locais, alertas de calor, transporte, veterinários de urgência. Verificado na fonte.` },
     de: { title: c => `Mit Hund nach ${c} reisen: Regeln, Tierärzte & Transport`, desc: c => `Was Sie vor dem Besuch von ${c} mit Hund oder Katze wissen sollten: örtliche Regeln, Hitzewarnungen, Transportvorschriften, Notfall-Tierärzte. Alles an der Quelle geprüft.` },
+    nl: { title: c => `Met je hond naar ${c} reizen: regels, dierenartsen & vervoer`, desc: c => `Wat je moet weten voor je met je hond of kat naar ${c} gaat: lokale regels, waarschuwingen bij hitte, vervoersregels, spoedeisende dierenartsen. Alles geverifieerd aan de bron.` },
   },
   restaurants: {
     en: { title: c => `Dog-friendly restaurants in ${c}: terraces verified`, desc: c => `Where to eat with a dog when visiting ${c}: dog-welcoming terraces, indoor-tolerant rooms, water bowls. Pet policy verified at source for each venue.` },
@@ -242,6 +249,7 @@ const META_TPL: Record<string, Record<'en' | 'fr' | 'es' | 'pt' | 'de', { title:
     es: { title: c => `Restaurantes que admiten perros en ${c}: terrazas verificadas`, desc: c => `Dónde comer con perro al visitar ${c}: terrazas pet-friendly, salas interiores tolerantes, cuencos. Política de mascotas verificada en origen.` },
     pt: { title: c => `Restaurantes que aceitam cães em ${c}: esplanadas verificadas`, desc: c => `Onde comer com cão ao visitar ${c}: esplanadas pet-friendly, salas interiores tolerantes, taças. Política de animais verificada na fonte.` },
     de: { title: c => `Hundefreundliche Restaurants in ${c}: geprüfte Terrassen`, desc: c => `Wo Sie mit Hund essen können, wenn Sie ${c} besuchen: hundefreundliche Terrassen, tolerante Innenräume, Wassernäpfe. Tierrichtlinie für jedes Lokal an der Quelle geprüft.` },
+    nl: { title: c => `Hondvriendelijke restaurants in ${c}: geverifieerde terrassen`, desc: c => `Waar je met je hond kunt eten in ${c}: hondvriendelijke terrassen, tolerante binnenruimtes, waterbakjes. Huisdierbeleid per zaak aan de bron geverifieerd.` },
   },
   beaches: {
     en: { title: c => `Dog-friendly beaches near ${c}: seasonal rules & access`, desc: c => `Beaches that accept dogs near ${c}: year-round zones, seasonal restrictions, transport from the city centre. Picked for travellers, verified locally.` },
@@ -249,6 +257,7 @@ const META_TPL: Record<string, Record<'en' | 'fr' | 'es' | 'pt' | 'de', { title:
     es: { title: c => `Playas para perros en ${c}: normas, zonas y acceso`, desc: c => `Playas que admiten perros en ${c}: zonas todo el año, restricciones estacionales, transporte desde el centro. Seleccionado para viajeros, verificado sobre el terreno.` },
     pt: { title: c => `Praias caninas perto de ${c}: regras sazonais e acesso`, desc: c => `Praias que aceitam cães perto de ${c}: zonas o ano inteiro, restrições sazonais, transporte a partir do centro. Selecionado para viajantes.` },
     de: { title: c => `Hundestrände bei ${c}: saisonale Regeln & Zugang`, desc: c => `Strände bei ${c}, die Hunde erlauben: ganzjährige Zonen, saisonale Einschränkungen, Transport ab der Innenstadt. Ausgewählt für Reisende, vor Ort geprüft.` },
+    nl: { title: c => `Hondenstranden bij ${c}: seizoensregels & bereikbaarheid`, desc: c => `Stranden bij ${c} waar honden welkom zijn: het hele jaar toegankelijke zones, seizoensbeperkingen, vervoer vanaf het centrum. Geselecteerd voor reizigers, ter plekke geverifieerd.` },
   },
   transport: {
     en: { title: c => `Pets on public transport in ${c}: official rules`, desc: c => `Dog and cat rules on metro, trams, buses and trains in ${c}: carrier requirements, muzzle policies, ticket prices, all verified with the operator.` },
@@ -256,6 +265,7 @@ const META_TPL: Record<string, Record<'en' | 'fr' | 'es' | 'pt' | 'de', { title:
     es: { title: c => `Mascotas en transporte público en ${c}: normas oficiales`, desc: c => `Normas para perros y gatos en metro, tranvía, autobús y tren en ${c}: transportín, bozal, precios, todo verificado con el operador.` },
     pt: { title: c => `Animais nos transportes públicos em ${c}: regras oficiais`, desc: c => `Regras para cães e gatos no metro, elétrico, autocarro e comboio em ${c}: transportadora, açaime, preços, tudo verificado com o operador.` },
     de: { title: c => `Haustiere im öffentlichen Nahverkehr in ${c}: offizielle Regeln`, desc: c => `Regeln für Hunde und Katzen in U-Bahn, Straßenbahn, Bus und Zug in ${c}: Transportboxpflicht, Maulkorbpflicht, Ticketpreise, alles beim Betreiber geprüft.` },
+    nl: { title: c => `Huisdieren in het openbaar vervoer in ${c}: officiële regels`, desc: c => `Regels voor honden en katten in metro, tram, bus en trein in ${c}: draagtasplicht, muilkorfplicht, ticketprijzen, alles geverifieerd bij de vervoerder.` },
   },
   vets: {
     en: { title: c => `24/7 emergency vets in ${c}: travellers' contact list`, desc: c => `Emergency and 24-hour vet clinics in ${c} with verified phone numbers and addresses. The list every pet traveller should save before arriving.` },
@@ -263,6 +273,7 @@ const META_TPL: Record<string, Record<'en' | 'fr' | 'es' | 'pt' | 'de', { title:
     es: { title: c => `Vetes de urgencia 24/7 en ${c}: lista para viajeros`, desc: c => `Clínicas veterinarias de urgencia y 24 h en ${c} con teléfonos y direcciones verificados. La lista para guardar antes de llegar con un animal.` },
     pt: { title: c => `Vetes de urgência 24/7 em ${c}: lista para viajantes`, desc: c => `Clínicas veterinárias de urgência e 24 h em ${c} com telefones e moradas verificados. A lista para guardar antes de chegar com um animal.` },
     de: { title: c => `Tierärzte 24/7 in ${c}: Kontaktliste für Reisende`, desc: c => `Notfall- und 24-Stunden-Tierarztpraxen in ${c} mit geprüften Telefonnummern und Adressen. Die Liste, die jeder Haustierreisende vor der Ankunft speichern sollte.` },
+    nl: { title: c => `24/7 spoedeisende dierenartsen in ${c}: contactlijst voor reizigers`, desc: c => `Spoedklinieken en 24-uursdierenartsen in ${c} met geverifieerde telefoonnummers en adressen. De lijst die elke reiziger met huisdier voor vertrek moet bewaren.` },
   },
   attractions: {
     en: { title: c => `Pet-friendly attractions in ${c} for visitors`, desc: c => `Sights, museums, gardens and tours that welcome dogs (and sometimes cats) in ${c}. Curated for travellers, with the pet policy of each venue.` },
@@ -270,6 +281,7 @@ const META_TPL: Record<string, Record<'en' | 'fr' | 'es' | 'pt' | 'de', { title:
     es: { title: c => `Atracciones pet-friendly en ${c} para visitantes`, desc: c => `Monumentos, museos, jardines y visitas que admiten perros (y a veces gatos) en ${c}. Seleccionado para viajeros, con la política de cada lugar.` },
     pt: { title: c => `Atrações pet-friendly em ${c} para visitantes`, desc: c => `Monumentos, museus, jardins e visitas que aceitam cães (e por vezes gatos) em ${c}. Selecionado para viajantes, com a política de cada lugar.` },
     de: { title: c => `Haustierfreundliche Sehenswürdigkeiten in ${c} für Besucher`, desc: c => `Sehenswürdigkeiten, Museen, Gärten und Touren in ${c}, die Hunde (und manchmal Katzen) willkommen heißen. Zusammengestellt für Reisende, mit der Tierrichtlinie jeder Einrichtung.` },
+    nl: { title: c => `Huisdiervriendelijke bezienswaardigheden in ${c} voor bezoekers`, desc: c => `Bezienswaardigheden, musea, tuinen en tours die honden (en soms katten) verwelkomen in ${c}. Samengesteld voor reizigers, met het huisdierbeleid van elke locatie.` },
   },
   petsitting: {
     en: { title: c => `Pet-sitters in ${c}: verified platforms & local services`, desc: c => `Hour and overnight pet-sitters in ${c}: verified platforms (Rover, Pawshake), local services, prices and contact details for travelling owners.` },
@@ -277,6 +289,7 @@ const META_TPL: Record<string, Record<'en' | 'fr' | 'es' | 'pt' | 'de', { title:
     es: { title: c => `Cuidadores de mascotas en ${c}: plataformas verificadas`, desc: c => `Cuidadores por horas o noche en ${c}: plataformas verificadas (Rover, Pawshake), servicios locales, precios y contactos para dueños en viaje.` },
     pt: { title: c => `Cuidadores de animais em ${c}: plataformas verificadas`, desc: c => `Cuidadores à hora ou noite em ${c}: plataformas verificadas (Rover, Pawshake), serviços locais, preços e contactos para donos em viagem.` },
     de: { title: c => `Haustierbetreuung in ${c}: geprüfte Plattformen & lokale Dienste`, desc: c => `Stunden- und Übernachtbetreuung in ${c}: geprüfte Plattformen (Rover, Pawshake), lokale Dienste, Preise und Kontaktdaten für reisende Besitzer.` },
+    nl: { title: c => `Oppasdiensten in ${c}: geverifieerde platforms & lokale diensten`, desc: c => `Uurtje- en nachtoppas in ${c}: geverifieerde platforms (Rover, Pawshake), lokale diensten, prijzen en contactgegevens voor reizende eigenaren.` },
   },
 }
 
@@ -293,13 +306,13 @@ export async function generateMetadata({
   if (!dest || !cityGuide || !cityGuide.guides[guide]) return {}
 
   const guideData = cityGuide.guides[guide]
-  const lang = (locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de') ? locale : 'en'
+  const lang = (locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl') ? locale : 'en'
   const localizedCity = getLocalizedCityName(dest.slug, dest.name, locale)
 
   // Prefer the traveller-intent template; fall back to JSON title for sections we haven't templated.
   const tpl = META_TPL[guide]?.[lang]
-  const fallbackTitle = locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : locale === 'pt' && guideData.titlePt ? guideData.titlePt : locale === 'de' && guideData.titleDe ? guideData.titleDe : guideData.titleEn
-  const fallbackIntro = locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : locale === 'pt' && guideData.introPt ? guideData.introPt : locale === 'de' && guideData.introDe ? guideData.introDe : guideData.introEn
+  const fallbackTitle = locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : locale === 'pt' && guideData.titlePt ? guideData.titlePt : locale === 'de' && guideData.titleDe ? guideData.titleDe : locale === 'nl' && guideData.titleNl ? guideData.titleNl : guideData.titleEn
+  const fallbackIntro = locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : locale === 'pt' && guideData.introPt ? guideData.introPt : locale === 'de' && guideData.introDe ? guideData.introDe : locale === 'nl' && guideData.introNl ? guideData.introNl : guideData.introEn
 
   const metaTitle = tpl ? tpl.title(localizedCity) : (fallbackTitle ?? guideData.titleEn)
   const metaDesc = tpl ? tpl.desc(localizedCity) : String(fallbackIntro ?? guideData.introEn ?? '').slice(0, 160)
@@ -325,11 +338,12 @@ export async function generateMetadata({
 // ─── Locale helpers ───────────────────────────────────────────────────────────
 
 /** Pick locale-aware value with English fallback */
-function loc<T extends string | undefined>(en: T, fr: T | undefined, es: T | undefined, locale: string, pt?: T | undefined, de?: T | undefined): T {
+function loc<T extends string | undefined>(en: T, fr: T | undefined, es: T | undefined, locale: string, pt?: T | undefined, de?: T | undefined, nl?: T | undefined): T {
   if (locale === 'fr' && fr) return fr
   if (locale === 'es' && es) return es
   if (locale === 'pt' && pt) return pt
   if (locale === 'de' && de) return de
+  if (locale === 'nl' && nl) return nl
   return en
 }
 
@@ -350,54 +364,62 @@ function getPlaceField(place: GuidePlace, field: string, locale: string): string
  * ones to FR/ES/PT. Falls back to the EN name for one-off, city-specific
  * tip titles (most of those are already proper nouns or local terms).
  */
-const TIP_NAME_I18N: Record<string, { fr: string; es: string; pt: string; de: string }> = {
+const TIP_NAME_I18N: Record<string, { fr: string; es: string; pt: string; de: string; nl: string }> = {
   'Currency & cost': {
     fr: 'Monnaie et budget',
     es: 'Moneda y presupuesto',
     pt: 'Moeda e custo',
     de: 'Währung und Kosten',
+    nl: 'Valuta en kosten',
   },
   'Best season': {
     fr: 'Meilleure saison',
     es: 'Mejor temporada',
     pt: 'Melhor época',
     de: 'Beste Reisezeit',
+    nl: 'Beste seizoen',
   },
   Languages: {
     fr: 'Langues',
     es: 'Idiomas',
     pt: 'Idiomas',
     de: 'Sprachen',
+    nl: 'Talen',
   },
   'Heat & paw safety': {
     fr: 'Chaleur et coussinets',
     es: 'Calor y almohadillas',
     pt: 'Calor e almofadas',
     de: 'Hitze und Pfotenschutz',
+    nl: 'Hitte en pootjes',
   },
   'Post-Brexit UK travel paperwork': {
     fr: 'Formalités post-Brexit pour le Royaume-Uni',
     es: 'Trámites post-Brexit para Reino Unido',
     pt: 'Formalidades pós-Brexit para o Reino Unido',
     de: 'Post-Brexit-Einreiseformalitäten für Großbritannien',
+    nl: 'Post-Brexit inreisformaliteiten voor het Verenigd Koninkrijk',
   },
   'UK pet-import paperwork (2026)': {
     fr: `Formalités d'entrée d'animaux au Royaume-Uni (2026)`,
     es: 'Trámites de entrada de mascotas al Reino Unido (2026)',
     pt: 'Formalidades de entrada de animais no Reino Unido (2026)',
     de: 'Einreiseformalitäten für Haustiere nach Großbritannien (2026)',
+    nl: 'Invoerformaliteiten voor huisdieren naar het Verenigd Koninkrijk (2026)',
   },
   'Norwegian entry & tapeworm rules': {
     fr: `Entrée en Norvège et règles de vermifuge contre l'echinococcose`,
     es: 'Entrada en Noruega y normas de desparasitación',
     pt: 'Entrada na Noruega e regras de desparasitação',
     de: 'Einreise nach Norwegen und Bandwurm-Entwurmungspflicht',
+    nl: 'Inreis in Noorwegen en ontwormingsregels tegen lintworm',
   },
   'Choose your neighbourhood carefully': {
     fr: 'Choisissez bien votre quartier',
     es: 'Elige bien tu barrio',
     pt: 'Escolha bem o seu bairro',
     de: 'Wählen Sie Ihr Viertel sorgfältig',
+    nl: 'Kies je buurt zorgvuldig',
   },
 }
 
@@ -409,7 +431,7 @@ function localizePlaceName(place: GuidePlace, locale: string): string {
   if (locale === 'pt' && p.namePt) return p.namePt
   // 2. Fallback to dictionary for recurring generic concept tips
   const dict = TIP_NAME_I18N[place.name]
-  if (dict && (locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de')) return dict[locale]
+  if (dict && (locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl')) return dict[locale]
   // 3. Last fallback = original EN name
   return place.name
 }
@@ -536,6 +558,36 @@ function uiLabels(locale: string) {
     hotelsSubtitle: 'Unsere bestbewerteten haustierfreundlichen Hotels, handverlesen und geprüft.',
     entryTitle: 'Einreisebestimmungen für Haustiere',
   }
+  if (locale === 'nl') return {
+    ...en,
+    updated: 'Bijgewerkt op',
+    cityOverview: '← Overzicht van de stad',
+    offLeash: 'Loslopen toegestaan ✓',
+    enSpoken: 'Engels gesproken',
+    offLeashZone: 'Losloopzone:',
+    rules: 'Regels:',
+    viewOnMaps: 'Bekijk op Google Maps →',
+    visitWebsite: 'Bezoek officiële website →',
+    nearbyHotels: 'Hondvriendelijke hotels in de buurt →',
+    modeHeader: 'Vervoermiddel',
+    policyHeader: 'Beleid',
+    tipHeader: 'Tip',
+    euPets: 'Huisdieren uit de EU:',
+    nonEuPets: 'Huisdieren buiten de EU:',
+    emergencyContacts: 'Noodcontacten:',
+    perNight: '/nacht',
+    admissionFee: 'Toegang:',
+    dogPolicy: 'Hondenbeleid:',
+    serviceType: 'Dienst:',
+    seeAllHotels: 'Bekijk alle hotels →',
+    compareBooking: 'Vergelijk op Booking.com →',
+    moreGuides: (city: string) => `Meer gidsen voor ${city}`,
+    quickTips: '💡 Praktische tips',
+    faqTitle: 'Veelgestelde vragen',
+    hotelsTitle: (city: string) => `Hondvriendelijke hotels in ${city}`,
+    hotelsSubtitle: 'Onze best beoordeelde hondvriendelijke hotels, handmatig geselecteerd en gecontroleerd.',
+    entryTitle: 'Inreisvoorwaarden voor huisdieren',
+  }
   return en
 }
 
@@ -560,10 +612,10 @@ export default async function GuideDetailPage({
   const dict = await getDictionary(locale as Locale)
   const ui = uiLabels(locale)
 
-  const title = (locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : locale === 'pt' ? guideData.titlePt : locale === 'de' ? guideData.titleDe : null) ?? guideData.titleEn
-  const intro = (locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : locale === 'pt' ? guideData.introPt : locale === 'de' ? guideData.introDe : null) ?? guideData.introEn
-  const tipsPick = (locale === 'fr' ? guideData.tipsFr : locale === 'es' ? guideData.tipsEs : locale === 'pt' ? guideData.tipsPt : locale === 'de' ? guideData.tipsDe : null) ?? guideData.tipsEn
-  const faqsPick = (locale === 'fr' ? guideData.faqsFr : locale === 'es' ? guideData.faqsEs : locale === 'pt' ? guideData.faqsPt : locale === 'de' ? guideData.faqsDe : null) ?? guideData.faqsEn
+  const title = (locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : locale === 'pt' ? guideData.titlePt : locale === 'de' ? guideData.titleDe : locale === 'nl' ? guideData.titleNl : null) ?? guideData.titleEn
+  const intro = (locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : locale === 'pt' ? guideData.introPt : locale === 'de' ? guideData.introDe : locale === 'nl' ? guideData.introNl : null) ?? guideData.introEn
+  const tipsPick = (locale === 'fr' ? guideData.tipsFr : locale === 'es' ? guideData.tipsEs : locale === 'pt' ? guideData.tipsPt : locale === 'de' ? guideData.tipsDe : locale === 'nl' ? guideData.tipsNl : null) ?? guideData.tipsEn
+  const faqsPick = (locale === 'fr' ? guideData.faqsFr : locale === 'es' ? guideData.faqsEs : locale === 'pt' ? guideData.faqsPt : locale === 'de' ? guideData.faqsDe : locale === 'nl' ? guideData.faqsNl : null) ?? guideData.faqsEn
   // Never trust the shape from a JSON authored by the daily pipeline: a section
   // whose tips/faqs came through as an object instead of an array would crash
   // the whole route on .map(). Coerce to an array defensively.
@@ -573,7 +625,7 @@ export default async function GuideDetailPage({
   // Sibling guides for this city
   const siblingGuides = GUIDE_SLUGS.filter(g => g !== guide && cityGuide.guides[g])
 
-  // Nearby hotels — value-aware order so an affordable option leads (avoids
+  // Nearby hotels: value-aware order so an affordable option leads (avoids
   // price-shock on premium destinations) rather than leading with luxury.
   const cityHotels = hotels.filter(h => h.destinationSlug === slug)
   const topicalCat: Partial<Record<GuideSlug, string>> = { parks: 'near-parks', beaches: 'beach-access' }
@@ -598,8 +650,8 @@ export default async function GuideDetailPage({
   const premiumHotel = cityHotels
     .filter(h => h.stars === 5 && !destHotels.some(d => d.id === h.id))
     .sort((a, b) => b.rating - a.rating || b.priceFrom - a.priceFrom)[0] ?? null
-  const bookLabelUi = locale === 'fr' ? 'Réserver' : (locale === 'es' || locale === 'pt') ? 'Reservar' : locale === 'de' ? 'Buchen' : 'Book'
-  const perNightUi = locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : locale === 'de' ? '/Nacht' : '/night'
+  const bookLabelUi = locale === 'fr' ? 'Réserver' : (locale === 'es' || locale === 'pt') ? 'Reservar' : locale === 'de' ? 'Buchen' : locale === 'nl' ? 'Boeken' : 'Book'
+  const perNightUi = locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : locale === 'de' ? '/Nacht' : locale === 'nl' ? '/nacht' : '/night'
 
   // Internal-link money bridge: this guide page ranks well (position 3-6), the
   // city's pet-friendly hotels money page ranks much deeper. A prominent link
@@ -612,7 +664,7 @@ export default async function GuideDetailPage({
     ? `/${locale}/${slug}/${catForGuide}`
     : `/${locale}/destinations/${slug}`
 
-  // Geographically nearest destinations — cross-sell to recover the traffic on
+  // Geographically nearest destinations: cross-sell to recover the traffic on
   // high-click / low-conversion premium pages (e.g. a user who can't find the
   // right place in Lugano sees nearby alternatives instead of leaving).
   const toRad = (n: number) => (n * Math.PI) / 180
@@ -681,7 +733,7 @@ export default async function GuideDetailPage({
 
   // Format date locale-aware
   const formattedDate = new Date(cityGuide.lastUpdated).toLocaleDateString(
-    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'pt' ? 'pt-PT' : locale === 'de' ? 'de-DE' : 'en-GB',
+    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'pt' ? 'pt-PT' : locale === 'de' ? 'de-DE' : locale === 'nl' ? 'nl-NL' : 'en-GB',
     { day: 'numeric', month: 'long', year: 'numeric' }
   )
 
@@ -761,6 +813,7 @@ export default async function GuideDetailPage({
                   : locale === 'es' ? `Reserva un hotel que admite perros en ${localizedCity}`
                   : locale === 'pt' ? `Reserve um hotel que aceita cães em ${localizedCity}`
                   : locale === 'de' ? `Ein hundefreundliches Hotel in ${localizedCity} buchen`
+                  : locale === 'nl' ? `Een hondvriendelijk hotel in ${localizedCity} boeken`
                   : `Book a dog-friendly hotel in ${localizedCity}`}
               </h2>
               <Link href={hotelsHref} className="text-sm font-semibold text-blue-600 hover:text-blue-700 whitespace-nowrap">
@@ -768,13 +821,14 @@ export default async function GuideDetailPage({
                   : locale === 'es' ? `Ver los ${cityHotels.length} hoteles →`
                   : locale === 'pt' ? `Ver os ${cityHotels.length} hotéis →`
                   : locale === 'de' ? `Die ${cityHotels.length} Hotels ansehen →`
+                  : locale === 'nl' ? `Bekijk alle ${cityHotels.length} hotels →`
                   : `See all ${cityHotels.length} hotels →`}
               </Link>
             </div>
             <div className="grid gap-4 sm:grid-cols-3">
               {destHotels.map(h => {
-                const perNight = locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : locale === 'de' ? '/Nacht' : '/night'
-                const bookLabel = locale === 'fr' ? 'Réserver' : (locale === 'es' || locale === 'pt') ? 'Reservar' : locale === 'de' ? 'Buchen' : 'Book'
+                const perNight = locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : locale === 'de' ? '/Nacht' : locale === 'nl' ? '/nacht' : '/night'
+                const bookLabel = locale === 'fr' ? 'Réserver' : (locale === 'es' || locale === 'pt') ? 'Reservar' : locale === 'de' ? 'Buchen' : locale === 'nl' ? 'Boeken' : 'Book'
                 return (
                   <a
                     key={h.id}
@@ -812,6 +866,7 @@ export default async function GuideDetailPage({
                       : locale === 'es' ? `¿Quieres consentir a tu perro? ${premiumHotel.name}`
                       : locale === 'pt' ? `Quer mimar o seu cão? ${premiumHotel.name}`
                       : locale === 'de' ? `Möchten Sie Ihren Hund verwöhnen? ${premiumHotel.name}`
+                      : locale === 'nl' ? `Zin om je hond te verwennen? ${premiumHotel.name}`
                       : `Fancy spoiling your dog? ${premiumHotel.name}`}
                   </span>
                   <span className="block text-[11px] text-gray-500">
@@ -819,6 +874,7 @@ export default async function GuideDetailPage({
                       : locale === 'es' ? `El mejor cinco estrellas de ${localizedCity}, desde ${premiumHotel.priceFrom} €${perNightUi}.`
                       : locale === 'pt' ? `O melhor cinco estrelas de ${localizedCity}, desde ${premiumHotel.priceFrom} €${perNightUi}.`
                       : locale === 'de' ? `Das beste Fünf-Sterne-Hotel in ${localizedCity}, ab ${premiumHotel.priceFrom} €${perNightUi}.`
+                      : locale === 'nl' ? `Het beste vijfsterrenhotel van ${localizedCity}, vanaf ${premiumHotel.priceFrom} €${perNightUi}.`
                       : `The finest five-star in ${localizedCity}, from €${premiumHotel.priceFrom}${perNightUi}.`}
                   </span>
                 </span>
@@ -830,6 +886,7 @@ export default async function GuideDetailPage({
                 : locale === 'es' ? `Políticas de mascotas verificadas, precios Booking.com en directo desde ${cityMinPrice} €/noche.`
                 : locale === 'pt' ? `Políticas de animais verificadas, preços Booking.com em direto desde ${cityMinPrice} €/noite.`
                 : locale === 'de' ? `Geprüfte Tierrichtlinien, Live-Preise von Booking.com ab ${cityMinPrice} €/Nacht.`
+                : locale === 'nl' ? `Geverifieerd huisdierbeleid, live Booking.com-prijzen vanaf ${cityMinPrice} €/nacht.`
                 : `Verified pet policies, live Booking.com prices from €${cityMinPrice}/night.`}
             </p>
           </section>
@@ -845,6 +902,7 @@ export default async function GuideDetailPage({
                 : locale === 'es' ? `Todos los hoteles que admiten perros en ${localizedCity}, en el mapa`
                 : locale === 'pt' ? `Todos os hotéis que aceitam cães em ${localizedCity}, no mapa`
                 : locale === 'de' ? `Alle hundefreundlichen Hotels in ${localizedCity}, auf der Karte`
+                : locale === 'nl' ? `Alle hondvriendelijke hotels in ${localizedCity}, op de kaart`
                 : `Every dog-friendly hotel in ${localizedCity}, on the map`}
             </h2>
             <p className="text-gray-500 text-sm mb-4">
@@ -852,13 +910,14 @@ export default async function GuideDetailPage({
                 : locale === 'es' ? 'Precios Booking.com en directo, haz clic en un punto para ver tarifas y reservar.'
                 : locale === 'pt' ? 'Preços Booking.com em direto, clique num ponto para ver tarifas e reservar.'
                 : locale === 'de' ? 'Live-Preise von Booking.com, klicken Sie auf einen Punkt, um Preise zu sehen und zu buchen.'
+                : locale === 'nl' ? 'Live Booking.com-prijzen, klik op een pin om tarieven te zien en te boeken.'
                 : 'Live Booking.com prices, click any pin to see rates and book.'}
             </p>
             <div className="overflow-hidden rounded-2xl border border-gray-100 shadow-sm">
               <iframe
                 src={buildStay22MapSrc(dest.lat, dest.lng, `hotelswithpets-${locale}-guidemap`)}
                 loading="lazy"
-                title={locale === 'fr' ? `Carte des hôtels acceptant les chiens à ${localizedCity}` : locale === 'de' ? `Karte hundefreundlicher Hotels in ${localizedCity}` : `Dog-friendly hotels map for ${localizedCity}`}
+                title={locale === 'fr' ? `Carte des hôtels acceptant les chiens à ${localizedCity}` : locale === 'de' ? `Karte hundefreundlicher Hotels in ${localizedCity}` : locale === 'nl' ? `Kaart met hondvriendelijke hotels in ${localizedCity}` : `Dog-friendly hotels map for ${localizedCity}`}
                 className="w-full"
                 style={{ height: '460px', border: 0 }}
               />
@@ -882,6 +941,7 @@ export default async function GuideDetailPage({
                     : locale === 'es' ? `Estado de la nieve y condiciones de la estación de ${dest.name}`
                     : locale === 'pt' ? `Estado da neve e condições da estação de ${dest.name}`
                     : locale === 'de' ? `Schneebericht & Pistenverhältnisse für ${dest.name}`
+                    : locale === 'nl' ? `Sneeuwbericht & pistecondities voor ${dest.name}`
                     : `Snow report & resort conditions for ${dest.name}`}
                 </span>
                 <span className="block text-xs text-gray-500 mt-0.5">
@@ -889,6 +949,7 @@ export default async function GuideDetailPage({
                     : locale === 'es' ? 'Pistas, remontes y tiempo en directo en bestsnowhotels.com'
                     : locale === 'pt' ? 'Pistas, teleféricos e meteo em direto em bestsnowhotels.com'
                     : locale === 'de' ? 'Live Pisten, Lifte und Wetter auf bestsnowhotels.com'
+                    : locale === 'nl' ? 'Actuele pistes, liften en weer op bestsnowhotels.com'
                     : 'Live pistes, lifts and weather on bestsnowhotels.com'}
                 </span>
               </span>
@@ -1225,7 +1286,7 @@ export default async function GuideDetailPage({
         {Array.isArray(guideData.sections) && guideData.sections.length > 0 && (
           <section className="mb-12 space-y-6">
             {guideData.sections.map((section, i) => {
-              const secTitle = (locale === 'fr' ? section.titleFr : locale === 'es' ? section.titleEs : locale === 'pt' ? section.titlePt : locale === 'de' ? section.titleDe : null) ?? section.titleEn
+              const secTitle = (locale === 'fr' ? section.titleFr : locale === 'es' ? section.titleEs : locale === 'pt' ? section.titlePt : locale === 'de' ? section.titleDe : locale === 'nl' ? section.titleNl : null) ?? section.titleEn
               const secContent = (locale === 'fr' ? section.contentFr : locale === 'es' ? section.contentEs : locale === 'pt' ? section.contentPt : null) ?? section.contentEn
               return (
                 <div key={i} className="bg-white rounded-2xl border border-gray-200 p-6 shadow-sm">
@@ -1358,6 +1419,7 @@ export default async function GuideDetailPage({
                 : locale === 'es' ? 'Destinos pet-friendly cerca'
                 : locale === 'pt' ? 'Destinos pet-friendly por perto'
                 : locale === 'de' ? 'Haustierfreundliche Reiseziele in der Nähe'
+                : locale === 'nl' ? 'Hondvriendelijke bestemmingen in de buurt'
                 : 'Pet-friendly destinations nearby'}
             </h2>
             <p className="text-sm text-gray-500 mb-5">
@@ -1365,6 +1427,7 @@ export default async function GuideDetailPage({
                 : locale === 'es' ? `¿Buscas alojamiento en otro lugar? Estos destinos cerca de ${dest.name} también admiten a tu perro.`
                 : locale === 'pt' ? `Procura alojamento noutro sítio? Estes destinos perto de ${dest.name} também aceitam o seu cão.`
                 : locale === 'de' ? `Suchen Sie eine Unterkunft anderswo? Diese Reiseziele in der Nähe von ${dest.name} heißen Ihren Hund ebenfalls willkommen.`
+                : locale === 'nl' ? `Zoek je ergens anders een verblijf? Deze bestemmingen bij ${dest.name} verwelkomen jouw hond ook.`
                 : `Looking for a place to stay elsewhere? These destinations near ${dest.name} also welcome your dog.`}
             </p>
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
@@ -1391,6 +1454,7 @@ export default async function GuideDetailPage({
           locale === 'es' ? `Hoteles pet-friendly en ${dest.name}` :
           locale === 'pt' ? `Hotéis pet-friendly em ${dest.name}` :
           locale === 'de' ? `Haustierfreundliche Hotels in ${dest.name}` :
+          locale === 'nl' ? `Hondvriendelijke hotels in ${dest.name}` :
           `Pet-friendly hotels in ${dest.name}`
         }
         cta={
@@ -1398,6 +1462,7 @@ export default async function GuideDetailPage({
           locale === 'es' ? 'Ver hoteles' :
           locale === 'pt' ? 'Ver hotéis' :
           locale === 'de' ? 'Hotels ansehen' :
+          locale === 'nl' ? 'Hotels bekijken' :
           'See hotels'
         }
       />

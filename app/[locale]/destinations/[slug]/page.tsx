@@ -56,6 +56,8 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
   const countryPt = getLocalizedCountryName(dest.country, 'pt')
   const cityDe = getLocalizedCityName(dest.slug, dest.name, 'de')
   const countryDe = getLocalizedCountryName(dest.country, 'de')
+  const cityNl = getLocalizedCityName(dest.slug, dest.name, 'nl')
+  const countryNl = getLocalizedCountryName(dest.country, 'nl')
   // SERP titles optimised for real query patterns (GSC May 2026 data):
   // ES: "hoteles madrid mascotas", "hoteles pet friendly madrid", "hotel con mascotas madrid", "hoteles que admiten mascotas"
   // FR: "hôtel accepte chiens X", "hôtels animaux acceptés à X", "hôtels pet-friendly X"
@@ -67,6 +69,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
     es: `${hotelCount} hoteles que admiten mascotas en ${cityEs} (${year}), Hoteles pet-friendly verificados`,
     pt: `${hotelCount} hotéis que aceitam animais em ${cityPt} (${year}), Cães e gatos bem-vindos`,
     de: `${hotelCount} haustierfreundliche Hotels in ${cityDe} (${year}), geprüfte Aufenthalte für Hund & Katze`,
+    nl: `${hotelCount} huisdiervriendelijke hotels in ${cityNl} (${year}), geverifieerde verblijven voor hond & kat`,
   }
   const descTemplates: Record<string, string> = {
     en: `${hotelCount} verified dog- and cat-friendly hotels in ${dest.name}, ${dest.country} from €${minPrice}/night. Pet fees, weight limits and policies clearly listed. Book on Booking.com.`,
@@ -74,6 +77,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
     es: `${hotelCount} hoteles que admiten perros y gatos en ${cityEs}, ${countryEs} desde ${minPrice} €/noche. Suplemento mascotas, peso máximo y condiciones detalladas. Reserva en Booking.com.`,
     pt: `${hotelCount} hotéis verificados que aceitam cães e gatos em ${cityPt}, ${countryPt} a partir de ${minPrice} €/noite. Suplemento para animais, peso máximo e condições claramente detalhados. Reserve na Booking.com.`,
     de: `${hotelCount} geprüfte hunde- und katzenfreundliche Hotels in ${cityDe}, ${countryDe} ab ${minPrice} €/Nacht. Haustiergebühren, Gewichtsgrenzen und Richtlinien klar aufgeführt. Buchen auf Booking.com.`,
+    nl: `${hotelCount} geverifieerde hond- en katvriendelijke hotels in ${cityNl}, ${countryNl} vanaf €${minPrice}/nacht. Huisdiertoeslag, gewichtslimieten en beleid duidelijk vermeld. Boek op Booking.com.`,
   }
   const title = titleTemplates[locale] ?? titleTemplates.en
   const description = descTemplates[locale] ?? descTemplates.en
@@ -94,6 +98,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
         es: `${SITE_URL}/es/destinations/${slug}`,
         pt: `${SITE_URL}/pt/destinations/${slug}`,
         de: `${SITE_URL}/de/destinations/${slug}`,
+        nl: `${SITE_URL}/nl/destinations/${slug}`,
         'x-default': `${SITE_URL}/en/destinations/${slug}`,
       },
     },
@@ -260,10 +265,10 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
               {destHotels.length > 0 && (
                 <div className="flex flex-wrap items-center gap-4 mt-4">
                   <span className="inline-flex items-center gap-1.5 bg-white/10 rounded-full px-4 py-1.5 text-sm text-white/90">
-                    🏨 {destHotels.length} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : locale === 'de' ? 'Hotels' : 'hotels'}
+                    🏨 {destHotels.length} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : locale === 'de' ? 'Hotels' : locale === 'nl' ? 'hotels' : 'hotels'}
                   </span>
                   <span className="inline-flex items-center gap-1.5 bg-white/10 rounded-full px-4 py-1.5 text-sm text-white/90">
-                    💶 {locale === 'fr' ? 'Dès' : locale === 'es' ? 'Desde' : locale === 'pt' ? 'Desde' : locale === 'de' ? 'Ab' : 'From'} €{Math.min(...destHotels.map(h => h.priceFrom).filter(Boolean))}{locale === 'de' ? '/Nacht' : locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : '/night'}
+                    💶 {locale === 'fr' ? 'Dès' : locale === 'es' ? 'Desde' : locale === 'pt' ? 'Desde' : locale === 'de' ? 'Ab' : locale === 'nl' ? 'Vanaf' : 'From'} €{Math.min(...destHotels.map(h => h.priceFrom).filter(Boolean))}{locale === 'de' ? '/Nacht' : locale === 'nl' ? '/nacht' : locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : '/night'}
                   </span>
                 </div>
               )}
@@ -280,43 +285,48 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
             en: { icon: '⚠️', text: `The UK no longer accepts the EU pet passport post-Brexit. An Animal Health Certificate (AHC) is required to enter with your pet.` },
             es: { icon: '⚠️', text: `El Reino Unido ya no acepta el pasaporte europeo post-Brexit. Se requiere un Certificado Sanitario Animal (AHC) para entrar con tu mascota.` },
             de: { icon: '⚠️', text: `Das Vereinigte Königreich akzeptiert seit dem Brexit den EU-Heimtierausweis nicht mehr. Für die Einreise mit Ihrem Tier ist ein Animal Health Certificate (AHC) erforderlich.` },
+            nl: { icon: '⚠️', text: `Het VK accepteert het Europese dierenpaspoort na de Brexit niet meer. Een Animal Health Certificate (AHC) is verplicht om met je huisdier binnen te komen.` },
           },
           dublin: {
             fr: { icon: '⚠️', text: `L'Irlande exige un traitement antiparasite tapeworm pour les chiens (24–120h avant l'arrivée) et l'entrée par un port approuvé.` },
             en: { icon: '⚠️', text: `Ireland requires a tapeworm treatment for dogs (24–120h before arrival) and entry via an approved port.` },
             es: { icon: '⚠️', text: `Irlanda exige un tratamiento antiparasitario contra tenias para perros (24-120h antes de la llegada) y la entrada por un puerto aprobado.` },
             de: { icon: '⚠️', text: `Irland verlangt eine Bandwurmbehandlung für Hunde (24–120 Stunden vor der Ankunft) und die Einreise über einen zugelassenen Hafen.` },
+            nl: { icon: '⚠️', text: `Ierland vereist een lintwormbehandeling voor honden (24-120 uur voor aankomst) en binnenkomst via een goedgekeurde haven.` },
           },
           helsinki: {
             fr: { icon: '⚠️', text: `La Finlande exige un traitement antiparasite échinocoque 1 à 5 jours avant l'entrée, en plus du passeport européen standard.` },
             en: { icon: '⚠️', text: `Finland requires an Echinococcus (tapeworm) treatment 1–5 days before entry, in addition to the standard EU passport.` },
             es: { icon: '⚠️', text: `Finlandia exige un tratamiento contra Echinococcus (tenia) 1-5 días antes de la entrada, además del pasaporte UE estándar.` },
             de: { icon: '⚠️', text: `Finnland verlangt zusätzlich zum Standard-EU-Ausweis eine Echinokokken-Behandlung (Bandwurm) 1 bis 5 Tage vor der Einreise.` },
+            nl: { icon: '⚠️', text: `Finland vereist, naast het standaard EU-paspoort, een behandeling tegen Echinococcus (lintworm) 1 tot 5 dagen voor binnenkomst.` },
           },
           reykjavik: {
             fr: { icon: '⚠️', text: `L'Islande a des règles très strictes : test de titration antirabique + permis d'importation + traitement antiparasitaire. Prévoyez 6 mois à l'avance.` },
             en: { icon: '⚠️', text: `Iceland has very strict rules: rabies titer test + import permit + anti-parasite treatment. Allow 6 months to prepare.` },
             es: { icon: '⚠️', text: `Islandia tiene normas muy estrictas: test de titulación antirrábica + permiso de importación + tratamiento antiparasitario. Prevé 6 meses de antelación.` },
             de: { icon: '⚠️', text: `Island hat sehr strenge Regeln: Tollwut-Titertest + Einfuhrgenehmigung + Parasitenbehandlung. Planen Sie 6 Monate im Voraus.` },
+            nl: { icon: '⚠️', text: `IJsland hanteert zeer strenge regels: rabiës-titertest + invoervergunning + wormbehandeling. Reken op 6 maanden voorbereiding.` },
           },
           oslo: {
             fr: { icon: '⚠️', text: `La Norvège exige un traitement tapeworm 1 à 5 jours avant l'entrée. Les documents UE sont acceptés mais des règles supplémentaires s'appliquent.` },
             en: { icon: '⚠️', text: `Norway requires a tapeworm treatment 1–5 days before entry. EU documents are accepted but extra rules apply.` },
             es: { icon: '⚠️', text: `Noruega exige un tratamiento contra tenias 1-5 días antes de la entrada. Los documentos UE son aceptados, pero se aplican normas adicionales.` },
             de: { icon: '⚠️', text: `Norwegen verlangt eine Bandwurmbehandlung 1 bis 5 Tage vor der Einreise. EU-Dokumente werden akzeptiert, aber es gelten zusätzliche Regeln.` },
+            nl: { icon: '⚠️', text: `Noorwegen vereist een lintwormbehandeling 1 tot 5 dagen voor binnenkomst. EU-documenten worden geaccepteerd, maar er gelden extra regels.` },
           },
         }
-        const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+        const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
         const alert = alerts[slug]?.[lang]
         if (!alert) return null
-        const guideLabel = locale === 'fr' ? 'Voir le guide complet' : locale === 'es' ? 'Ver guía completa' : locale === 'pt' ? 'Ver guia completo' : locale === 'de' ? 'Vollständigen Leitfaden ansehen' : 'See full guide'
+        const guideLabel = locale === 'fr' ? 'Voir le guide complet' : locale === 'es' ? 'Ver guía completa' : locale === 'pt' ? 'Ver guia completo' : locale === 'de' ? 'Vollständigen Leitfaden ansehen' : locale === 'nl' ? 'Bekijk de volledige gids' : 'See full guide'
         return (
           <div className="bg-amber-50 border-b border-amber-100">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
               <div className="flex items-start justify-between gap-4 flex-wrap">
                 <p className="text-sm text-amber-800 flex items-start gap-2 flex-1">
                   <span className="flex-shrink-0 text-base">{alert.icon}</span>
-                  <span><strong>{locale === 'fr' ? 'Attention passeport animal :' : locale === 'es' ? 'Atención pasaporte mascota:' : locale === 'pt' ? 'Atenção passaporte animal:' : locale === 'de' ? 'Achtung Heimtierausweis:' : 'Pet passport alert:'}</strong> {alert.text}</span>
+                  <span><strong>{locale === 'fr' ? 'Attention passeport animal :' : locale === 'es' ? 'Atención pasaporte mascota:' : locale === 'pt' ? 'Atenção passaporte animal:' : locale === 'de' ? 'Achtung Heimtierausweis:' : locale === 'nl' ? 'Let op dierenpaspoort:' : 'Pet passport alert:'}</strong> {alert.text}</span>
                 </p>
                 <Link href={`/${locale}/guides/passeport-animal`}
                   className="flex-shrink-0 text-xs font-semibold text-amber-700 hover:text-amber-900 bg-amber-100 hover:bg-amber-200 border border-amber-200 px-3 py-1.5 rounded-full transition-colors whitespace-nowrap">
@@ -451,7 +461,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         <section className="py-10 bg-gray-50 border-b border-gray-100">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-2xl font-extrabold text-gray-900 mb-2">
-              🗺️ {locale === 'fr' ? `Carte des hôtels pet-friendly à ${localizedName}` : locale === 'es' ? `Mapa de hoteles pet-friendly en ${localizedName}` : locale === 'pt' ? `Mapa de hotéis pet-friendly em ${localizedName}` : locale === 'de' ? `Karte haustierfreundlicher Hotels: ${localizedName}` : `Pet-friendly hotel map: ${localizedName}`}
+              🗺️ {locale === 'fr' ? `Carte des hôtels pet-friendly à ${localizedName}` : locale === 'es' ? `Mapa de hoteles pet-friendly en ${localizedName}` : locale === 'pt' ? `Mapa de hotéis pet-friendly em ${localizedName}` : locale === 'de' ? `Karte haustierfreundlicher Hotels: ${localizedName}` : locale === 'nl' ? `Kaart van huisdiervriendelijke hotels: ${localizedName}` : `Pet-friendly hotel map: ${localizedName}`}
             </h2>
             <p className="text-sm text-gray-500 mb-5">
               {locale === 'fr'
@@ -460,6 +470,8 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                 ? `Todos los hoteles que admiten mascotas en ${localizedName}, directamente desde Booking.com, haz clic en un marcador para ver el precio y reservar.`
                 : locale === 'de'
                 ? `Alle haustierfreundlichen Hotels in ${localizedName}, live von Booking.com, klicken Sie auf einen Marker, um Preise zu sehen und zu buchen.`
+                : locale === 'nl'
+                ? `Alle huisdiervriendelijke hotels in ${localizedName}, rechtstreeks van Booking.com, klik op een marker om de prijs te zien en te boeken.`
                 : `All pet-friendly hotels in ${localizedName}, live from Booking.com, click any marker to see prices and book.`}
             </p>
             <PetMap
@@ -477,7 +489,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
 
       {/* ── Editorial Snapshot ── */}
       {(() => {
-        const ctxLocale = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
+        const ctxLocale = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
         const ctx = (destContextByLocale[ctxLocale] ?? destContextByLocale['en'])?.[slug]
         const avgRating = destHotels.length > 0
           ? (destHotels.reduce((s, h) => s + h.rating, 0) / destHotels.length).toFixed(1)
@@ -486,14 +498,14 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         const minPrice = destHotels.length > 0 ? Math.min(...destHotels.map(h => h.priceFrom).filter(Boolean)) : null
 
         const statsLabel = {
-          hotels:  locale === 'fr' ? 'hôtels pet-friendly' : locale === 'es' ? 'hoteles pet-friendly' : locale === 'pt' ? 'hotéis pet-friendly' : locale === 'de' ? 'haustierfreundliche Hotels' : 'pet-friendly hotels',
-          rating:  locale === 'fr' ? 'note moyenne' : locale === 'es' ? 'nota media' : locale === 'pt' ? 'nota média' : locale === 'de' ? 'Ø Bewertung' : 'avg. rating',
-          free:    locale === 'fr' ? 'sans frais animaux' : locale === 'es' ? 'sin cargo mascotas' : locale === 'pt' ? 'sem taxa animal' : locale === 'de' ? 'ohne Haustiergebühr' : 'with no pet fee',
-          from:    locale === 'fr' ? 'dès' : locale === 'es' ? 'desde' : locale === 'pt' ? 'desde' : locale === 'de' ? 'ab' : 'from',
-          night:   locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : locale === 'de' ? '/Nacht' : '/night',
-          whyTitle: locale === 'fr' ? `Pourquoi ${localizedName} avec votre animal ?` : locale === 'es' ? `¿Por qué ${localizedName} con tu mascota?` : locale === 'pt' ? `Porquê ${localizedName} com o seu animal?` : locale === 'de' ? `Warum ${localizedName} mit Ihrem Tier?` : `Why ${localizedName} with your pet?`,
-          highlight: locale === 'fr' ? 'À ne pas manquer' : locale === 'es' ? 'No te pierdas' : locale === 'pt' ? 'A não perder' : locale === 'de' ? 'Nicht verpassen' : 'Top spot',
-          area: locale === 'fr' ? 'Quartiers idéaux' : locale === 'es' ? 'Barrios ideales' : locale === 'pt' ? 'Bairros ideais' : locale === 'de' ? 'Ideale Viertel' : 'Best area',
+          hotels:  locale === 'fr' ? 'hôtels pet-friendly' : locale === 'es' ? 'hoteles pet-friendly' : locale === 'pt' ? 'hotéis pet-friendly' : locale === 'de' ? 'haustierfreundliche Hotels' : locale === 'nl' ? 'huisdiervriendelijke hotels' : 'pet-friendly hotels',
+          rating:  locale === 'fr' ? 'note moyenne' : locale === 'es' ? 'nota media' : locale === 'pt' ? 'nota média' : locale === 'de' ? 'Ø Bewertung' : locale === 'nl' ? 'gem. beoordeling' : 'avg. rating',
+          free:    locale === 'fr' ? 'sans frais animaux' : locale === 'es' ? 'sin cargo mascotas' : locale === 'pt' ? 'sem taxa animal' : locale === 'de' ? 'ohne Haustiergebühr' : locale === 'nl' ? 'zonder huisdierkosten' : 'with no pet fee',
+          from:    locale === 'fr' ? 'dès' : locale === 'es' ? 'desde' : locale === 'pt' ? 'desde' : locale === 'de' ? 'ab' : locale === 'nl' ? 'vanaf' : 'from',
+          night:   locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : locale === 'de' ? '/Nacht' : locale === 'nl' ? '/nacht' : '/night',
+          whyTitle: locale === 'fr' ? `Pourquoi ${localizedName} avec votre animal ?` : locale === 'es' ? `¿Por qué ${localizedName} con tu mascota?` : locale === 'pt' ? `Porquê ${localizedName} com o seu animal?` : locale === 'de' ? `Warum ${localizedName} mit Ihrem Tier?` : locale === 'nl' ? `Waarom ${localizedName} met jouw huisdier?` : `Why ${localizedName} with your pet?`,
+          highlight: locale === 'fr' ? 'À ne pas manquer' : locale === 'es' ? 'No te pierdas' : locale === 'pt' ? 'A não perder' : locale === 'de' ? 'Nicht verpassen' : locale === 'nl' ? 'Niet te missen' : 'Top spot',
+          area: locale === 'fr' ? 'Quartiers idéaux' : locale === 'es' ? 'Barrios ideales' : locale === 'pt' ? 'Bairros ideais' : locale === 'de' ? 'Ideale Viertel' : locale === 'nl' ? 'Beste buurten' : 'Best area',
         }
 
         return (
@@ -533,7 +545,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                   {/* Why this city */}
                   <div className="md:col-span-1 bg-indigo-50 rounded-2xl p-6">
                     <p className="text-xs font-bold uppercase tracking-widest text-indigo-400 mb-2">{statsLabel.whyTitle}</p>
-                    <p className="text-gray-800 text-sm leading-relaxed">{localizedName} {locale === 'fr' ? 'est' : locale === 'es' ? 'es' : locale === 'pt' ? 'é' : locale === 'de' ? 'ist' : 'is'} {ctx.personality}.</p>
+                    <p className="text-gray-800 text-sm leading-relaxed">{localizedName} {locale === 'fr' ? 'est' : locale === 'es' ? 'es' : locale === 'pt' ? 'é' : locale === 'de' ? 'ist' : locale === 'nl' ? 'is' : 'is'} {ctx.personality}.</p>
                   </div>
                   {/* Top spot */}
                   <div className="bg-emerald-50 rounded-2xl p-6">
@@ -578,7 +590,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 my-6">
           <div className="bg-gradient-to-r from-blue-50 to-teal-50 border border-blue-100 rounded-2xl px-5 py-4">
             <p className="text-xs font-semibold text-blue-600 uppercase tracking-wide mb-3">
-              {locale === 'fr' ? `Aussi en ${getLocalizedCountryName(dest.country, 'fr')}` : locale === 'es' ? `También en ${getLocalizedCountryName(dest.country, 'es')}` : locale === 'pt' ? `Também em ${getLocalizedCountryName(dest.country, 'pt')}` : locale === 'de' ? `Auch in ${getLocalizedCountryName(dest.country, 'de')}` : `Also in ${dest.country}`}
+              {locale === 'fr' ? `Aussi en ${getLocalizedCountryName(dest.country, 'fr')}` : locale === 'es' ? `También en ${getLocalizedCountryName(dest.country, 'es')}` : locale === 'pt' ? `Também em ${getLocalizedCountryName(dest.country, 'pt')}` : locale === 'de' ? `Auch in ${getLocalizedCountryName(dest.country, 'de')}` : locale === 'nl' ? `Ook in ${getLocalizedCountryName(dest.country, 'nl')}` : `Also in ${dest.country}`}
             </p>
             <div className="flex flex-wrap gap-2">
               {quickLinks.map((d) => (
@@ -600,13 +612,13 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
       {cityContent[slug] && (() => {
         const cc = cityContent[slug]
         // PT uses pt content when available, otherwise falls back to en
-        const lang = locale === 'pt' && cc.history.pt ? 'pt' : locale === 'de' && cc.history.de ? 'de' : (locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en')
-        const historyTitle = locale === 'fr' ? `${localizedName} : histoire et caractère` : locale === 'es' ? `${localizedName}: historia y carácter` : locale === 'pt' ? `${localizedName}: história e carácter` : locale === 'de' ? `${localizedName}: Geschichte und Charakter` : `${localizedName}: history & character`
-        const sightsTitle = locale === 'fr' ? 'Points clés à visiter' : locale === 'es' ? 'Puntos clave que visitar' : locale === 'pt' ? 'Pontos-chave a visitar' : locale === 'de' ? 'Wichtige Sehenswürdigkeiten' : 'Key sights'
-        const petsTitle = locale === 'fr' ? `Voyager avec son animal à ${localizedName}` : locale === 'es' ? `Viajar con mascota en ${localizedName}` : locale === 'pt' ? `Viajar com animal em ${localizedName}` : locale === 'de' ? `Mit Tier in ${localizedName} unterwegs` : `Travelling with a pet in ${localizedName}`
-        const practicalTitle = locale === 'fr' ? 'Infos pratiques' : locale === 'es' ? 'Información práctica' : locale === 'pt' ? 'Informações práticas' : locale === 'de' ? 'Praktische Infos' : 'Practical info'
-        const petFriendlyLabel = locale === 'fr' ? 'Accès animaux' : locale === 'es' ? 'Acceso mascotas' : locale === 'pt' ? 'Aceita animais' : locale === 'de' ? 'Tiere erlaubt' : 'Pet-friendly'
-        const restrictedLabel = locale === 'fr' ? 'Animaux non admis' : locale === 'es' ? 'No mascotas' : locale === 'pt' ? 'Animais não admitidos' : locale === 'de' ? 'Tiere nicht erlaubt' : 'Pets restricted'
+        const lang = locale === 'pt' && cc.history.pt ? 'pt' : locale === 'de' && cc.history.de ? 'de' : locale === 'nl' && cc.history.nl ? 'nl' : (locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en')
+        const historyTitle = locale === 'fr' ? `${localizedName} : histoire et caractère` : locale === 'es' ? `${localizedName}: historia y carácter` : locale === 'pt' ? `${localizedName}: história e carácter` : locale === 'de' ? `${localizedName}: Geschichte und Charakter` : locale === 'nl' ? `${localizedName}: geschiedenis en karakter` : `${localizedName}: history & character`
+        const sightsTitle = locale === 'fr' ? 'Points clés à visiter' : locale === 'es' ? 'Puntos clave que visitar' : locale === 'pt' ? 'Pontos-chave a visitar' : locale === 'de' ? 'Wichtige Sehenswürdigkeiten' : locale === 'nl' ? 'Belangrijkste bezienswaardigheden' : 'Key sights'
+        const petsTitle = locale === 'fr' ? `Voyager avec son animal à ${localizedName}` : locale === 'es' ? `Viajar con mascota en ${localizedName}` : locale === 'pt' ? `Viajar com animal em ${localizedName}` : locale === 'de' ? `Mit Tier in ${localizedName} unterwegs` : locale === 'nl' ? `Op reis met je huisdier in ${localizedName}` : `Travelling with a pet in ${localizedName}`
+        const practicalTitle = locale === 'fr' ? 'Infos pratiques' : locale === 'es' ? 'Información práctica' : locale === 'pt' ? 'Informações práticas' : locale === 'de' ? 'Praktische Infos' : locale === 'nl' ? 'Praktische info' : 'Practical info'
+        const petFriendlyLabel = locale === 'fr' ? 'Accès animaux' : locale === 'es' ? 'Acceso mascotas' : locale === 'pt' ? 'Aceita animais' : locale === 'de' ? 'Tiere erlaubt' : locale === 'nl' ? 'Huisdieren toegestaan' : 'Pet-friendly'
+        const restrictedLabel = locale === 'fr' ? 'Animaux non admis' : locale === 'es' ? 'No mascotas' : locale === 'pt' ? 'Animais não admitidos' : locale === 'de' ? 'Tiere nicht erlaubt' : locale === 'nl' ? 'Geen huisdieren toegestaan' : 'Pets restricted'
         return (
           <section className="py-14 bg-white border-b border-gray-100">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -680,7 +692,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
             {/* Section header */}
             <div className="mb-10">
               <span className="inline-block bg-indigo-50 text-indigo-600 text-xs font-bold uppercase tracking-widest px-3 py-1.5 rounded-full mb-3">
-                🐾 {locale === 'fr' ? 'Guide voyage' : locale === 'es' ? 'Guía de viaje' : locale === 'pt' ? 'Guia de viagem' : locale === 'de' ? 'Reiseführer' : 'Travel guide'}
+                🐾 {locale === 'fr' ? 'Guide voyage' : locale === 'es' ? 'Guía de viaje' : locale === 'pt' ? 'Guia de viagem' : locale === 'de' ? 'Reiseführer' : locale === 'nl' ? 'Reisgids' : 'Travel guide'}
               </span>
               <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-3 leading-tight">
                 {locale === 'fr'
@@ -785,10 +797,10 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         <section className="py-12 bg-white border-t border-gray-100">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-xl font-extrabold text-gray-900 mb-2">
-              🌡️ {locale === 'fr' ? `Météo typique à ${localizedName}` : locale === 'es' ? `Clima típico en ${localizedName}` : locale === 'pt' ? `Clima típico em ${localizedName}` : locale === 'de' ? `Typisches Wetter in ${localizedName}` : `Typical weather in ${localizedName}`}
+              🌡️ {locale === 'fr' ? `Météo typique à ${localizedName}` : locale === 'es' ? `Clima típico en ${localizedName}` : locale === 'pt' ? `Clima típico em ${localizedName}` : locale === 'de' ? `Typisches Wetter in ${localizedName}` : locale === 'nl' ? `Typisch weer in ${localizedName}` : `Typical weather in ${localizedName}`}
             </h2>
             <p className="text-sm text-gray-500 mb-6">
-              {locale === 'fr' ? 'Températures moyennes. Idéal pour planifier votre séjour avec votre animal' : locale === 'es' ? 'Temperaturas medias. Ideal para planificar su estancia con su mascota' : locale === 'pt' ? 'Temperaturas médias. Ideal para planear a sua estadia com o seu animal' : locale === 'de' ? 'Durchschnittstemperaturen. Ideal für die Planung Ihrer Reise mit Tier' : 'Average temperatures. Ideal for planning your pet trip'}
+              {locale === 'fr' ? 'Températures moyennes. Idéal pour planifier votre séjour avec votre animal' : locale === 'es' ? 'Temperaturas medias. Ideal para planificar su estancia con su mascota' : locale === 'pt' ? 'Temperaturas médias. Ideal para planear a sua estadia com o seu animal' : locale === 'de' ? 'Durchschnittstemperaturen. Ideal für die Planung Ihrer Reise mit Tier' : locale === 'nl' ? 'Gemiddelde temperaturen. Ideaal om je reis met je huisdier te plannen' : 'Average temperatures. Ideal for planning your pet trip'}
             </p>
             {(() => {
               const months = ['jan','feb','mar','apr','may','jun','jul','aug','sep','oct','nov','dec']
@@ -839,7 +851,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                   </div>
                   {bestMonths.length > 0 && (
                     <p className="mt-4 text-sm text-gray-500">
-                      🐾 {locale === 'fr' ? `Meilleurs mois pour voyager avec un animal à ${localizedName} : ` : locale === 'es' ? `Mejores meses para viajar con mascota en ${localizedName}: ` : locale === 'pt' ? `Melhores meses para viajar com animal em ${localizedName}: ` : locale === 'de' ? `Beste Monate für eine Reise mit Tier nach ${localizedName}: ` : `Best months to travel with a pet in ${localizedName}: `}
+                      🐾 {locale === 'fr' ? `Meilleurs mois pour voyager avec un animal à ${localizedName} : ` : locale === 'es' ? `Mejores meses para viajar con mascota en ${localizedName}: ` : locale === 'pt' ? `Melhores meses para viajar com animal em ${localizedName}: ` : locale === 'de' ? `Beste Monate für eine Reise mit Tier nach ${localizedName}: ` : locale === 'nl' ? `Beste maanden om met je huisdier naar ${localizedName} te reizen: ` : `Best months to travel with a pet in ${localizedName}: `}
                       <span className="font-semibold text-gray-700">
                         {bestMonths.map(m => (monthLabels[locale] ?? monthLabels.en)[m]).join(', ')}
                       </span>
@@ -894,7 +906,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         <section className="py-12 bg-gray-50 border-t border-gray-100">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-xl font-extrabold text-gray-900 mb-6">
-              {locale === 'fr' ? `Explorer les hôtels à ${localizedName} par type` : locale === 'es' ? `Explorar hoteles en ${localizedName} por tipo` : locale === 'pt' ? `Explorar hotéis em ${localizedName} por tipo` : locale === 'de' ? `Hotels in ${localizedName} nach Typ entdecken` : `Explore ${localizedName} hotels by type`}
+              {locale === 'fr' ? `Explorer les hôtels à ${localizedName} par type` : locale === 'es' ? `Explorar hoteles en ${localizedName} por tipo` : locale === 'pt' ? `Explorar hotéis em ${localizedName} por tipo` : locale === 'de' ? `Hotels in ${localizedName} nach Typ entdecken` : locale === 'nl' ? `Hotels in ${localizedName} verkennen op type` : `Explore ${localizedName} hotels by type`}
             </h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
               {presentCategories.map((cat) => {
@@ -909,7 +921,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                     <span className="text-2xl">{cat.emoji}</span>
                     <div>
                       <p className="font-semibold text-gray-900 text-sm group-hover:text-blue-700 transition-colors">{catName}</p>
-                      <p className="text-xs text-gray-500">{count} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : locale === 'de' ? 'Hotels' : 'hotels'}</p>
+                      <p className="text-xs text-gray-500">{count} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : locale === 'de' ? 'Hotels' : locale === 'nl' ? 'hotels' : 'hotels'}</p>
                     </div>
                     <span className="ml-auto text-gray-300 group-hover:text-blue-400 transition-colors">→</span>
                   </Link>
@@ -924,7 +936,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
       <section className="py-16 bg-white border-t border-gray-100">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl font-extrabold text-gray-900 mb-8">
-            {locale === 'fr' ? 'Questions fréquentes' : locale === 'es' ? 'Preguntas frecuentes' : locale === 'pt' ? 'Perguntas frequentes' : locale === 'de' ? 'Häufig gestellte Fragen' : 'Frequently asked questions'}
+            {locale === 'fr' ? 'Questions fréquentes' : locale === 'es' ? 'Preguntas frecuentes' : locale === 'pt' ? 'Perguntas frequentes' : locale === 'de' ? 'Häufig gestellte Fragen' : locale === 'nl' ? 'Veelgestelde vragen' : 'Frequently asked questions'}
           </h2>
           <div className="space-y-6">
             {faqs.map((faq, i) => (

@@ -41,9 +41,13 @@
           "tipPt": "Chegue antes das 11:00 no verão; a esplanada enche depressa com os kitesurfistas.",
           "googleMapsUrl": "https://www.google.com/maps/search/Cafe+Azul+Tarifa",
           "descriptionDe": "Ein helles, italienisch geführtes Frühstückscafé am Rand der Altstadt, bekannt für frische Obstschalen, Eggs Benedict und starken Kaffee. Angeleinte Hunde sind an den Außentischen entlang der Fußgängerzone willkommen.",
+          "descriptionNl": "Een licht, Italiaans geleid ontbijtcafé aan de rand van de oude stad, bekend om verse fruitschalen, Eggs Benedict en sterke koffie. Honden aan de lijn zijn welkom aan de buitentafels langs de voetgangerszone.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen.",
+          "petPolicyNl": "Honden aan de lijn welkom op het terras.",
           "mustTryDe": "Tropische Obstschale und French Toast nach Tarifa-Art.",
-          "tipDe": "Kommen Sie im Sommer vor 11:00 Uhr, die Terrasse füllt sich schnell mit der Kite-Szene."
+          "mustTryNl": "Tropische fruitschaal en French toast op z'n Tarifa's.",
+          "tipDe": "Kommen Sie im Sommer vor 11:00 Uhr, die Terrasse füllt sich schnell mit der Kite-Szene.",
+          "tipNl": "Kom in de zomer voor 11:00 uur, het terras loopt snel vol met de kitescene."
         },
         {
           "name": "El Pasillo",
@@ -71,9 +75,13 @@
           "tipPt": "A rua é muito estreita; encurte a trela para deixar passar quem caminha.",
           "googleMapsUrl": "https://www.google.com/maps/search/El+Pasillo+Tarifa",
           "descriptionDe": "Eine winzige, sehr beliebte Tapas-Bar in der Altstadt mit klassischen gaditanischen Gerichten, deren Schwerpunkt auf lokalem Atún Rojo de Almadraba (rotem Thunfisch) und Retinto-Rindfleisch liegt. Wohlerzogene angeleinte Hunde sind an den Außentischen in der schmalen weißen Gasse willkommen.",
+          "descriptionNl": "Een piepklein, erg populair tapasbarretje in de oude stad met klassieke gaditaanse gerechten, met de nadruk op lokale atún rojo de Almadraba (rode tonijn) en Retinto-rundvlees. Goed opgevoede honden aan de lijn zijn welkom aan de buitentafels in het smalle witte steegje.",
           "petPolicyDe": "Angeleinte Hunde an den Außentischen willkommen.",
+          "petPolicyNl": "Honden aan de lijn welkom aan de buitentafels.",
           "mustTryDe": "Tataki vom roten Thunfisch und gegrilltes Retinto-Rindersteak.",
-          "tipDe": "Die Gasse ist sehr schmal; halten Sie die Leine Ihres Hundes kurz, damit Passanten vorbeikommen."
+          "mustTryNl": "Tataki van rode tonijn en gegrilde Retinto-runderbiefstuk.",
+          "tipDe": "Die Gasse ist sehr schmal; halten Sie die Leine Ihres Hundes kurz, damit Passanten vorbeikommen.",
+          "tipNl": "Het steegje is erg smal; houd de lijn van je hond kort zodat voorbijgangers erlangs kunnen."
         },
         {
           "name": "Surla Café",
@@ -101,9 +109,13 @@
           "tipPt": "Paragem perfeita depois da praia; peça uma tigela de água ao encomendar.",
           "googleMapsUrl": "https://www.google.com/maps/search/Surla+Tarifa",
           "descriptionDe": "Ein entspanntes Strandcafé-Restaurant direkt hinter Los Lances, beliebt bei Kitesurfern wegen der großzügigen Frühstücke, gesunden Bowls und Burger, mit einer breiten Außenterrasse Richtung Dünen. Hunde sind auf der Terrasse und auf dem Weg zum Sand willkommen.",
+          "descriptionNl": "Een ontspannen strandcafé-restaurant direct achter Los Lances, populair bij kitesurfers vanwege de royale ontbijten, gezonde bowls en burgers, met een breed buitenterras richting de duinen. Honden zijn welkom op het terras en op de weg naar het zand.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen.",
+          "petPolicyNl": "Honden aan de lijn welkom op het terras.",
           "mustTryDe": "Açaí-Bowl und Thunfisch-Burger mit Avocado.",
-          "tipDe": "Perfekter Stopp nach dem Strand; bitten Sie beim Bestellen um eine Wasserschale."
+          "mustTryNl": "Açaíbowl en tonijnburger met avocado.",
+          "tipDe": "Perfekter Stopp nach dem Strand; bitten Sie beim Bestellen um eine Wasserschale.",
+          "tipNl": "Perfecte stop na het strand; vraag bij het bestellen om een waterbakje."
         }
       ],
       "tipsEn": [
@@ -167,7 +179,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Tarifa",
+      "titleNl": "Hondvriendelijke restaurants in Tarifa",
       "introDe": "Tarifa gehört zu den unkompliziertesten Kleinstädten Spaniens, um mit Hund essen zu gehen. In den engen, weiß getünchten Gassen der Altstadt (Casco Antiguo) reihen sich Tapas-Terrassen, Cafés der Kitesurf-Szene und Strand-Chiringuitos entlang der Los Lances aneinander, die angeleinte Hunde auf der Terrasse willkommen heißen. Der Levante-Wind bestimmt das Tempo: Wenn er heult, weicht man in die Calle San Francisco oder zur Hafenseite aus.",
+      "introNl": "Tarifa is een van de makkelijkste Spaanse plaatsjes om met hond uit eten te gaan. In de smalle, witgekalkte steegjes van de oude stad (Casco Antiguo) staan tapasterrassen, cafés van de kitesurfscene en strand-chiringuito's langs de Los Lances op een rij, die honden aan de lijn welkom heten op het terras. De levantewind bepaalt het tempo: als die huilt, wijk je uit naar de Calle San Francisco of de havenkant.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Tarifa erlaubt?",
@@ -176,6 +190,16 @@
         {
           "q": "Muss mein Hund am Tisch einen Maulkorb tragen?",
           "a": "Nein, aber die andalusischen Vorschriften verlangen einen Maulkorb auf der Straße für Hunde über 20 kg oder solche, die als potenziell gefährlich eingestuft sind. Halten Sie den Maulkorb griffbereit in Ihrer Tasche."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Tarifa?",
+          "a": "Op terrassen wel, vrijwel overal in de oude stad en langs de Los Lances, voor honden aan de lijn. Binnen beslist elke eigenaar zelf; 's zomers eet toch bijna iedereen buiten."
+        },
+        {
+          "q": "Moet mijn hond aan tafel een muilkorf dragen?",
+          "a": "Nee, maar de Andalusische regelgeving vereist een muilkorf op straat voor honden boven 20 kg of rassen die als potentieel gevaarlijk zijn ingedeeld. Houd de muilkorf binnen handbereik in je tas."
         }
       ]
     },
@@ -209,8 +233,11 @@
           "tipPt": "Atenção às vacas retintas soltas; mantenha a trela curta e dê-lhes uma volta larga.",
           "googleMapsUrl": "https://www.google.com/maps/search/Parque+Natural+del+Estrecho+Tarifa",
           "descriptionDe": "Ein kurzer Klippenweg im Parque Natural del Estrecho mit weitem Blick über die Straße von Gibraltar bis zum marokkanischen Rif-Gebirge. Angeleinte Hunde sind auf den markierten Wegen willkommen; der Park schützt brütende Vögel und weidende Retinto-Rinder.",
+          "descriptionNl": "Een kort klifpad in het Parque Natural del Estrecho met een wijds uitzicht over de Straat van Gibraltar tot aan het Marokkaanse Rifgebergte. Honden aan de lijn zijn welkom op de gemarkeerde paden; het park beschermt broedvogels en grazende Retinto-runderen.",
           "offLeashAreaDe": "Im gesamten Naturpark besteht Leinenpflicht.",
-          "tipDe": "Achten Sie auf frei umherlaufende Retinto-Kühe; halten Sie die Leine kurz und gehen Sie ihnen weiträumig aus dem Weg."
+          "offLeashAreaNl": "In het hele natuurpark geldt aanlijnplicht.",
+          "tipDe": "Achten Sie auf frei umherlaufende Retinto-Kühe; halten Sie die Leine kurz und gehen Sie ihnen weiträumig aus dem Weg.",
+          "tipNl": "Let op vrij rondlopende Retinto-koeien; houd de lijn kort en houd ruime afstand van ze."
         },
         {
           "name": "Paseo de la Alameda",
@@ -232,8 +259,11 @@
           "tipPt": "Melhor ao pôr do sol, quando o calor desce e os tarifeños saem para o seu paseo.",
           "googleMapsUrl": "https://www.google.com/maps/search/Paseo+Alameda+Tarifa",
           "descriptionDe": "Die historische, palmengesäumte Promenade, die von den Mauern der Altstadt hinunter zum Hafen führt, mit schattigen Bänken, Kiosken und einem Kinderspielplatz. Der zentralste Ort für eine ruhige Runde an der Leine, besonders abends.",
+          "descriptionNl": "De historische, met palmen omzoomde promenade die van de muren van de oude stad naar beneden naar de haven loopt, met schaduwrijke bankjes, kiosken en een speeltuin. De meest centrale plek voor een rustig rondje aan de lijn, vooral 's avonds.",
           "offLeashAreaDe": "Auf der gesamten Promenade besteht Leinenpflicht.",
-          "tipDe": "Am schönsten bei Sonnenuntergang, wenn die Hitze nachlässt und die Tarifeños zu ihrem Paseo herauskommen."
+          "offLeashAreaNl": "Op de hele promenade geldt aanlijnplicht.",
+          "tipDe": "Am schönsten bei Sonnenuntergang, wenn die Hitze nachlässt und die Tarifeños zu ihrem Paseo herauskommen.",
+          "tipNl": "Het mooist bij zonsondergang, als de hitte afneemt en de Tarifeños naar buiten komen voor hun paseo."
         },
         {
           "name": "Pinar del Bujeo",
@@ -255,8 +285,11 @@
           "tipPt": "Leve água; há torneiras mas podem estar secas em pleno verão.",
           "googleMapsUrl": "https://www.google.com/maps/search/Pinar+del+Bujeo+Tarifa",
           "descriptionDe": "Ein Erholungsgebiet im Pinienwald an der N-340 zwischen Tarifa und Algeciras mit schattigen Picknicktischen, Feuerstellen und sanften Waldwegen. Ein beliebtes Ziel bei kühlerem Wetter, wenn der Levante am Strand heult; angeleinte Hunde sind willkommen.",
+          "descriptionNl": "Een recreatiegebied in het dennenbos aan de N-340 tussen Tarifa en Algeciras, met schaduwrijke picknicktafels, vuurplaatsen en zachte bospaden. Een populaire bestemming bij koeler weer, als de levante op het strand huilt; honden zijn welkom.",
           "offLeashAreaDe": "Leinenpflicht; in der Nähe weiden Vieh und Wild.",
-          "tipDe": "Bringen Sie Wasser mit; es gibt Wasserhähne, die aber im Hochsommer versiegen können."
+          "offLeashAreaNl": "Aanlijnplicht; in de buurt grazen vee en wild.",
+          "tipDe": "Bringen Sie Wasser mit; es gibt Wasserhähne, die aber im Hochsommer versiegen können.",
+          "tipNl": "Neem water mee; er zijn kranen, maar die kunnen in de hoogzomer droogvallen."
         }
       ],
       "tipsEn": [
@@ -320,7 +353,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Parks & Grünflächen in Tarifa",
+      "titleNl": "Hondvriendelijke parken & groengebieden in Tarifa",
       "introDe": "Tarifa selbst ist zu klein für große Stadtparks, liegt aber innerhalb des Parque Natural del Estrecho mit pinienbewachsenen Hügeln, Dünenlandschaften und Klippenwegen nur wenige Minuten von der Altstadt entfernt. Für den Alltag nutzen Einheimische die Strandpromenade und ein paar kleine Grünflächen nahe der Playa Chica und der Stierkampfarena.",
+      "introNl": "Tarifa zelf is te klein voor grote stadsparken, maar ligt binnen het Parque Natural del Estrecho, met heuvels vol dennen, duinlandschappen en klifpaden op enkele minuten van de oude stad. Voor dagelijks gebruik nemen locals de strandpromenade en een paar kleine groenstroken bij de Playa Chica en de arena.",
       "faqsDe": [
         {
           "q": "Gibt es einen Hundeauslauf in Tarifa?",
@@ -329,6 +364,16 @@
         {
           "q": "Darf mein Hund im Parque Natural del Estrecho laufen?",
           "a": "Ja, ganzjährig an der Leine. Der Park schützt weidende Retinto-Rinder, bodenbrütende Vögel und Zugraubvögel, die die Meerenge überqueren, deshalb sind Hunde ohne Leine nicht erlaubt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een hondenuitlaatgebied in Tarifa?",
+          "a": "Geen omheind stedelijk hondenveld in de stad. Locals gebruiken de paden in het dennenbos Pinar del Bujeo aan de N-340, of buiten het seizoen het brede gedeelte van de Playa de Los Lances om los te lopen, telkens naar eigen inzicht van de eigenaar."
+        },
+        {
+          "q": "Mag mijn hond los lopen in het Parque Natural del Estrecho?",
+          "a": "Ja, het hele jaar aan de lijn. Het park beschermt grazende Retinto-runderen, op de grond broedende vogels en trekroofvogels die de zeestraat oversteken, daarom zijn honden zonder lijn niet toegestaan."
         }
       ]
     },
@@ -438,7 +483,9 @@
         }
       ],
       "titleDe": "Mit Hund unterwegs in Tarifa",
+      "titleNl": "Onderweg met je hond in Tarifa",
       "introDe": "Tarifa ist winzig: Die Altstadt, der Hafen, die Alameda und der Anfang der Playa de Los Lances sind alle zu Fuß erreichbar. Die Stadt hat weder Flughafen noch Bahnhof, daher braucht man ein Auto, einen Comes/Avanza-Überlandbus aus Algeciras, Cádiz oder Sevilla, oder eine FRS/Inter-Shipping-Schnellfähre aus Tanger MED über die Meerenge. Jede Option hat eigene Regeln für Haustiere.",
+      "introNl": "Tarifa is piepklein: de oude stad, de haven, de Alameda en het begin van de Playa de Los Lances zijn allemaal te voet bereikbaar. De stad heeft geen luchthaven of station, dus je hebt een auto nodig, een Comes/Avanza-streekbus vanuit Algeciras, Cádiz of Sevilla, of een FRS/Inter Shipping-snelveerboot vanuit Tanger MED over de zeestraat. Elke optie heeft eigen regels voor huisdieren.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund mit auf die Fähre nach Tanger nehmen?",
@@ -447,6 +494,16 @@
         {
           "q": "Gibt es einen Zug nach Tarifa?",
           "a": "Nein. Der nächste Bahnhof ist Algeciras, 35 km entfernt; von dort nehmen Sie einen Comes-Bus nach Tarifa. Von Málaga oder Sevilla aus sind Überlandbusse die direkteste öffentliche Option."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen op de veerboot naar Tanger?",
+          "a": "Ja. FRS en Inter Shipping accepteren huisdieren in een transportbox of in je voertuig op het autodek. Bedenk: het is een uitreis uit het Schengengebied. Neem het EU-dierenpaspoort, de microchip en een actuele rabiësvaccinatie mee; voor binnenkomst op het Marokkaanse vasteland komt er een gezondheidsverklaring bij."
+        },
+        {
+          "q": "Is er een trein naar Tarifa?",
+          "a": "Nee. Het dichtstbijzijnde station is Algeciras, 35 km verderop; van daar neem je een Comes-bus naar Tarifa. Vanuit Málaga of Sevilla zijn streekbussen de meest directe openbare optie."
         }
       ]
     },
@@ -468,16 +525,19 @@
           "descriptionEs": "La inmensa playa de arena plana de Tarifa, de 10 km, respaldada por dunas con el promontorio de Punta Paloma a lo lejos. Fuera de la temporada de baño, la amplia arena es uno de los mejores lugares de España para pasear a un perro al amanecer; en verano, los perros quedan restringidos a los tramos norte no vigilados, bien alejados de las banderas de baño.",
           "descriptionPt": "A imensa praia de areia plana de Tarifa, com 10 km, ladeada por dunas com o promontório de Punta Paloma ao longe. Fora da época balnear, a ampla areia é um dos melhores lugares de Espanha para passear um cão ao nascer do sol; no verão, os cães ficam restritos aos trechos norte não vigiados, bem afastados das bandeiras de banho.",
           "descriptionDe": "Tarifas riesiger, 10 km langer Flachsandstrand, im Hintergrund von Dünen und dem Kap Punta Paloma gesäumt. Außerhalb der Badesaison ist der weite Sand einer der besten Orte Spaniens, um bei Sonnenaufgang mit einem Hund spazieren zu gehen; im Sommer sind Hunde auf die unbeaufsichtigten nördlichen Abschnitte weit weg von den Badeflaggen beschränkt.",
+          "descriptionNl": "Tarifa's enorme, 10 km lange platte zandstrand, met op de achtergrond duinen en de kaap Punta Paloma. Buiten het zwemseizoen is het brede zand een van de beste plekken van Spanje om bij zonsopgang met een hond te wandelen; 's zomers zijn honden beperkt tot de onbewaakte noordelijke gedeeltes ver weg van de zwemvlaggen.",
           "season": "Best for dogs October to May (out of bathing season); restricted to non-supervised stretches in summer.",
           "seasonFr": "Idéal pour les chiens d'octobre à mai (hors saison balnéaire) ; limité aux tronçons non surveillés en été.",
           "seasonEs": "Ideal para perros de octubre a mayo (fuera de temporada de baño); restringido a los tramos no vigilados en verano.",
           "seasonPt": "Ideal para cães de outubro a maio (fora da época balnear); restrito aos trechos não vigiados no verão.",
           "seasonDe": "Am besten für Hunde von Oktober bis Mai (außerhalb der Badesaison); im Sommer auf unbeaufsichtigte Abschnitte beschränkt.",
+          "seasonNl": "Het beste voor honden van oktober tot mei (buiten het zwemseizoen); 's zomers beperkt tot onbewaakte gedeeltes.",
           "rules": "Leash required; dogs over 20 kg need a muzzle in public. No dogs in the central supervised bathing zone during summer. Always pick up waste.",
           "rulesFr": "Laisse obligatoire ; les chiens de plus de 20 kg doivent porter une muselière en public. Pas de chiens dans la zone de baignade centrale surveillée en été. Ramassez toujours les déjections.",
           "rulesEs": "Correa obligatoria; los perros de más de 20 kg necesitan bozal en público. Sin perros en la zona de baño central vigilada en verano. Recoge siempre los excrementos.",
           "rulesPt": "Trela obrigatória; os cães com mais de 20 kg precisam de açaime em público. Sem cães na zona de banho central vigiada no verão. Recolha sempre os dejetos.",
           "rulesDe": "Leinenpflicht; Hunde über 20 kg benötigen in der Öffentlichkeit einen Maulkorb. Im Sommer keine Hunde in der zentralen überwachten Badezone. Hinterlassenschaften immer aufsammeln.",
+          "rulesNl": "Aanlijnplicht; honden boven 20 kg hebben in het openbaar een muilkorf nodig. 's Zomers geen honden in de centrale bewaakte zwemzone. Ontlasting altijd opruimen.",
           "facilities": "Vast open beach, shower stations, beach bars (chiringuitos) seasonal, kite & wind schools.",
           "googleMapsUrl": "https://www.google.com/maps/search/Playa+de+Los+Lances+Tarifa",
           "photo": "/images/city-places/tarifa-beaches-playa-de-los-lances.jpg"
@@ -490,16 +550,19 @@
           "descriptionEs": "La legendaria playa de kitesurf y windsurf bajo la duna de Punta Paloma, con agua turquesa poco profunda, el famoso chiringuito Tumbao y una amplia extensión de arena que absorbe incluso los días de más gente. Los perros son bienvenidos fuera de la temporada de baño, a criterio del propietario; en verano, manténlos bien alejados de las zonas de despegue de las cometas.",
           "descriptionPt": "A lendária praia de kitesurf e windsurf sob a duna de Punta Paloma, com água turquesa pouco profunda, o famoso chiringuito Tumbao e uma ampla extensão de areia que absorve mesmo os dias de maior afluência. Os cães são bem-vindos fora da época balnear, ao critério do dono; no verão, mantenha-os bem afastados das zonas de descolagem das pipas.",
           "descriptionDe": "Der legendäre Kite- und Windsurfstrand unterhalb der Düne von Punta Paloma, mit flachem türkisfarbenem Wasser, der berühmten Strandbar Tumbao und einer weiten Sandfläche, die selbst an vollen Tagen Platz bietet. Hunde sind außerhalb der Badesaison nach Ermessen des Besitzers willkommen; im Sommer sollten sie von den Kite-Startzonen ferngehalten werden.",
+          "descriptionNl": "Het legendarische kite- en windsurfstrand onder de duin van Punta Paloma, met ondiep turkoois water, de beroemde strandbar Tumbao en een brede zandvlakte die zelfs op drukke dagen ruimte biedt. Honden zijn buiten het zwemseizoen welkom naar goeddunken van de eigenaar; 's zomers moeten ze uit de buurt van de kite-startzones blijven.",
           "season": "Best for dogs October to May; allowed at the owner`s judgement away from kite zones in summer.",
           "seasonFr": "Idéal pour les chiens d'octobre à mai ; autorisé à l'appréciation du propriétaire, loin des zones de kite, en été.",
           "seasonEs": "Ideal para perros de octubre a mayo; permitido a criterio del propietario, lejos de las zonas de kite, en verano.",
           "seasonPt": "Ideal para cães de outubro a maio; permitido ao critério do dono, longe das zonas de kite, no verão.",
           "seasonDe": "Am besten für Hunde von Oktober bis Mai; im Sommer nach Ermessen des Besitzers abseits der Kite-Zonen erlaubt.",
+          "seasonNl": "Het beste voor honden van oktober tot mei; 's zomers toegestaan naar goeddunken van de eigenaar, uit de buurt van de kitezones.",
           "rules": "Leash required; muzzle for dogs over 20 kg. Keep clear of kite launch and landing corridors. Pick up waste.",
           "rulesFr": "Laisse obligatoire ; muselière pour les chiens de plus de 20 kg. Restez à l'écart des couloirs de décollage et d'atterrissage des kites. Ramassez les déjections.",
           "rulesEs": "Correa obligatoria; bozal para perros de más de 20 kg. Mantente alejado de los corredores de despegue y aterrizaje de las cometas. Recoge los excrementos.",
           "rulesPt": "Trela obrigatória; açaime para cães com mais de 20 kg. Mantenha-se afastado dos corredores de descolagem e aterragem das pipas. Recolha os dejetos.",
           "rulesDe": "Leinenpflicht; Maulkorb für Hunde über 20 kg. Die Start- und Landekorridore der Kites meiden. Hinterlassenschaften aufsammeln.",
+          "rulesNl": "Aanlijnplicht; muilkorf voor honden boven 20 kg. Vermijd de start- en landingscorridors van de kites. Ontlasting opruimen.",
           "facilities": "Wide sand and dune, kite schools, beach bars, parking off the N-340.",
           "googleMapsUrl": "https://www.google.com/maps/search/Playa+de+Valdevaqueros+Tarifa",
           "photo": "/images/city-places/tarifa-beaches-playa-de-valdevaqueros.jpg"
@@ -512,16 +575,19 @@
           "descriptionEs": "Una amplia bahía de arena blanca dominada por la gigantesca duna de Bolonia y las ruinas romanas de Baelo Claudia, en un entorno natural protegido. Los perros se aceptan con correa fuera de la temporada de baño en toda la playa y todo el año en los extremos más tranquilos, lejos de la zona central vigilada.",
           "descriptionPt": "Uma ampla baía de areia branca dominada pela gigantesca duna de Bolonia e pelas ruínas romanas de Baelo Claudia, num ambiente natural protegido. Os cães são aceites com trela fora da época balnear em toda a praia e durante todo o ano nas extremidades mais tranquilas, longe da zona central vigiada.",
           "descriptionDe": "Eine breite Bucht mit weißem Sand, überragt von der riesigen Düne von Bolonia und den römischen Ruinen von Baelo Claudia, in geschützter Naturlandschaft. Hunde sind außerhalb der Badesaison an der Leine am gesamten Strand erlaubt und ganzjährig an den ruhigeren Enden abseits der zentralen überwachten Zone.",
+          "descriptionNl": "Een brede baai met wit zand, overheerst door de enorme duin van Bolonia en de Romeinse ruïnes van Baelo Claudia, in beschermd natuurgebied. Honden zijn buiten het zwemseizoen aan de lijn toegestaan op het hele strand en het hele jaar aan de rustigere uiteinden, weg van de centrale bewaakte zone.",
           "season": "Dogs allowed year-round outside the central supervised section; whole beach off-season.",
           "seasonFr": "Chiens autorisés toute l'année en dehors de la section centrale surveillée ; toute la plage hors saison.",
           "seasonEs": "Perros permitidos todo el año fuera de la sección central vigilada; toda la playa fuera de temporada.",
           "seasonPt": "Cães permitidos durante todo o ano fora da secção central vigiada; toda a praia fora de época.",
           "seasonDe": "Hunde ganzjährig außerhalb des zentralen überwachten Abschnitts erlaubt; außerhalb der Saison am gesamten Strand.",
+          "seasonNl": "Honden het hele jaar toegestaan buiten het centrale bewaakte gedeelte; buiten het seizoen op het hele strand.",
           "rules": "Leash required; dogs not allowed inside the Baelo Claudia archaeological enclosure. Stay off the protected dune crest.",
           "rulesFr": "Laisse obligatoire ; les chiens ne sont pas autorisés dans l'enceinte archéologique de Baelo Claudia. Ne montez pas sur la crête de dune protégée.",
           "rulesEs": "Correa obligatoria; los perros no están permitidos dentro del recinto arqueológico de Baelo Claudia. No subas a la cresta de la duna protegida.",
           "rulesPt": "Trela obrigatória; os cães não são permitidos dentro do recinto arqueológico de Baelo Claudia. Não suba à crista da duna protegida.",
           "rulesDe": "Leinenpflicht; Hunde sind innerhalb des archäologischen Geländes von Baelo Claudia nicht erlaubt. Den geschützten Dünenkamm nicht betreten.",
+          "rulesNl": "Aanlijnplicht; honden zijn niet toegestaan binnen het archeologische terrein van Baelo Claudia. Betreed de beschermde duinrug niet.",
           "facilities": "Beach bars seasonal, parking, walking access to Baelo Claudia exterior.",
           "googleMapsUrl": "https://www.google.com/maps/search/Playa+de+Bolonia+Tarifa",
           "photo": "/images/city-places/tarifa-beaches-playa-de-bolonia.jpg"
@@ -568,7 +634,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in Tarifa",
+      "titleNl": "Hondvriendelijke stranden in Tarifa",
       "introDe": "Die Küste von Tarifa ist wie gemacht für Hunde in der Nebensaison. Die riesige Playa de Los Lances und der Kitesurf-Strand Valdevaqueros stehen angeleinten Hunden außerhalb der offiziellen Badesaison offen (etwa von Oktober bis Mai), und der Strand mit den römischen Ruinen bei Bolonia empfängt sie ganzjährig außerhalb des zentralen überwachten Abschnitts. Im Hochsommer (Juni bis September) sind Hunde in den überwachten Badezonen verboten, aber die frühen Morgen- und späten Abendstunden funktionieren weiterhin.",
+      "introNl": "De kust van Tarifa is gemaakt voor honden buiten het hoogseizoen. Het enorme Playa de Los Lances en het kitesurfstrand Valdevaqueros staan open voor honden aan de lijn buiten het officiële zwemseizoen (ongeveer van oktober tot mei), en het strand met de Romeinse ruïnes bij Bolonia verwelkomt ze het hele jaar buiten het centrale bewaakte gedeelte. In hoogzomer (juni tot september) zijn honden verboden in de bewaakte zwemzones, maar de vroege ochtend- en late avonduren werken nog steeds.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund an die Playa de Los Lances mitnehmen?",
@@ -577,6 +645,16 @@
         {
           "q": "Gibt es ganzjährige Hundestrände in der Nähe von Tarifa?",
           "a": "Bolonia (etwa 20 km nordwestlich) akzeptiert angeleinte Hunde ganzjährig an den ruhigeren Enden der Bucht. In der Stadt funktionieren Los Lances und Valdevaqueros nur außerhalb der Saison uneingeschränkt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar de Playa de Los Lances?",
+          "a": "Ja, aan de lijn buiten het zwemseizoen (ongeveer van oktober tot mei), langs het grootste deel van het 10 km lange strand. 's Zomers zijn honden niet toegestaan in de centrale bewaakte zwemzone; ga vroeg in de ochtend of laat in de avond naar de rustigere noordelijke gedeeltes."
+        },
+        {
+          "q": "Zijn er hondenstranden het hele jaar in de buurt van Tarifa?",
+          "a": "Bolonia (ongeveer 20 km ten noordwesten) accepteert honden aan de lijn het hele jaar aan de rustigere uiteinden van de baai. In de stad werken Los Lances en Valdevaqueros alleen buiten het seizoen zonder beperkingen."
         }
       ]
     },
@@ -627,8 +705,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Clinica+Veterinaria+Europa+Tarifa+La+Vega",
           "photo": "/images/city-places/tarifa-vets-clinica-veterinaria-europa-tarifa.jpg",
           "hoursDe": "Mo 09:00-18:00, Di-Do 10:00-17:30, Fr 09:00-18:00, Sa 11:00-14:00; 24h Notfallbereitschaft.",
+          "hoursNl": "Ma 09:00-18:00, di-do 10:00-17:30, vr 09:00-18:00, za 11:00-14:00; 24 uur spoeddienst.",
           "descriptionDe": "Die Referenzklinik von Tarifa seit 2002, mit einem Team aus vier Tierärzten, drei Assistenten und einer Hundefriseurin. Vollständiges klinisches Leistungsspektrum mit Labor, Chirurgie, Innerer Medizin, Hospitalisierung, Ultraschall, Röntgen und einer 24-Stunden-Notfallbereitschaft.",
-          "tipDe": "Speichern Sie die Nummer, bevor Sie ankommen; es ist die einzige Option in der Stadt für Notfälle außerhalb der Öffnungszeiten."
+          "descriptionNl": "De referentiekliniek van Tarifa sinds 2002, met een team van vier dierenartsen, drie assistenten en een hondentrimster. Volledig klinisch dienstenpakket met laboratorium, chirurgie, interne geneeskunde, opname, echografie, röntgen en een 24-uurs spoeddienst.",
+          "tipDe": "Speichern Sie die Nummer, bevor Sie ankommen; es ist die einzige Option in der Stadt für Notfälle außerhalb der Öffnungszeiten.",
+          "tipNl": "Bewaar het nummer voordat je aankomt; het is de enige optie in de stad voor noodgevallen buiten openingstijden."
         },
         {
           "name": "Hospital Veterinario Alba",
@@ -652,8 +733,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Hospital+Veterinario+Alba+Algeciras",
           "photo": "/images/city-places/tarifa-vets-hospital-veterinario-alba.jpg",
           "hoursDe": "24h-Notfallklinik, jeden Tag im Jahr.",
+          "hoursNl": "24-uurs spoedkliniek, elke dag van het jaar.",
           "descriptionDe": "Die nächstgelegene vollständige 24-Stunden-Tierklinik in Algeciras, 35 km von Tarifa entfernt, mit Intensivstation, Chirurgie und Bildgebung. Das Referenzzentrum, an das der Bereitschaftsdienst von Tarifa schwere Fälle außerhalb der Stadt überweist.",
-          "tipDe": "Notfallnummer +34 648 119 512, falls die Hauptnummer besetzt ist; rechnen Sie mit 45 Minuten Fahrzeit von Tarifa."
+          "descriptionNl": "De dichtstbijzijnde volledige 24-uurs dierenkliniek in Algeciras, 35 km van Tarifa, met intensive care, chirurgie en beeldvorming. Het referentiecentrum waarnaar de wachtdienst van Tarifa ernstige gevallen buiten de stad doorverwijst.",
+          "tipDe": "Notfallnummer +34 648 119 512, falls die Hauptnummer besetzt ist; rechnen Sie mit 45 Minuten Fahrzeit von Tarifa.",
+          "tipNl": "Noodnummer +34 648 119 512, mocht het hoofdnummer bezet zijn; reken op 45 minuten rijden vanaf Tarifa."
         },
         {
           "name": "Clínica Veterinaria La Huella (UNAVETS)",
@@ -677,8 +761,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Clinica+Veterinaria+La+Huella+Algeciras",
           "photo": "/images/city-places/tarifa-vets-clinica-veterinaria-la-huella-unavets.jpg",
           "hoursDe": "24h Intensivstation und Notfalltelefon.",
+          "hoursNl": "24-uurs intensive care en spoedlijn.",
           "descriptionDe": "Ein alternatives 24-Stunden-Tierzentrum in Algeciras, Teil des UNAVETS-Netzwerks, mit Intensivstation, Innerer Medizin und Chirurgie. Nützliche Ausweichmöglichkeit, wenn das Hospital Alba ausgelastet ist.",
-          "tipDe": "Rufen Sie vorab an, um den diensthabenden Tierarzt zu bestätigen, bevor Sie von Tarifa aus losfahren."
+          "descriptionNl": "Een alternatief 24-uurs dierencentrum in Algeciras, onderdeel van het UNAVETS-netwerk, met intensive care, interne geneeskunde en chirurgie. Handige uitwijkmogelijkheid als het Hospital Alba vol zit.",
+          "tipDe": "Rufen Sie vorab an, um den diensthabenden Tierarzt zu bestätigen, bevor Sie von Tarifa aus losfahren.",
+          "tipNl": "Bel van tevoren om de dienstdoende dierenarts te bevestigen, voordat je vanuit Tarifa vertrekt."
         }
       ],
       "faqsEn": [
@@ -722,7 +809,9 @@
         }
       ],
       "titleDe": "Tierärzte & Notfallversorgung in Tarifa",
+      "titleNl": "Dierenartsen & spoedzorg in Tarifa",
       "introDe": "Tarifa ist eine Stadt mit 18.000 Einwohnern und einer Haupttierklinik mit 24-Stunden-Bereitschaftsdienst sowie einer Weiterleitung an die größeren Tierkliniken in Algeciras (35 km) bei schweren Notfällen. Da Spanien EU-Mitglied ist, benötigen die meisten europäischen Reisenden lediglich einen EU-Heimtierausweis mit aktueller Tollwutimpfung und einen Mikrochip.",
+      "introNl": "Tarifa is een stad met 18.000 inwoners met één hoofddierenkliniek met een 24-uurs wachtdienst, plus doorverwijzing naar de grotere dierenklinieken in Algeciras (35 km) bij ernstige noodgevallen. Omdat Spanje EU-lid is, hebben de meeste Europese reizigers alleen een EU-dierenpaspoort met actuele rabiësvaccinatie en een microchip nodig.",
       "faqsDe": [
         {
           "q": "Gibt es in Tarifa einen 24-Stunden-Tierarzt?",
@@ -731,6 +820,16 @@
         {
           "q": "Was, wenn ich mit meinem Hund nach Tanger übersetze?",
           "a": "Die Überquerung der Meerenge ist eine Ausreise aus dem Schengen-Raum. Bringen Sie den EU-Heimtierausweis, den Mikrochip und eine gültige Tollwutimpfung mit; für die Einreise ins marokkanische Festland kommt ein tierärztliches Gesundheitszeugnis hinzu, das nicht älter als 10 Tage sein darf."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs dierenarts in Tarifa?",
+          "a": "Ja. De Clínica Veterinaria Europa Tarifa biedt een 24-uurs wachtdienst (+34 956 68 53 43). Voor uitgebreide intensieve noodzorg zijn het Hospital Veterinario Alba en de Clínica La Huella in Algeciras, 35 km verderop, de referentiecentra."
+        },
+        {
+          "q": "Wat als ik met mijn hond oversteek naar Tanger?",
+          "a": "De oversteek van de zeestraat is een uitreis uit het Schengengebied. Neem het EU-dierenpaspoort, de microchip en een geldige rabiësvaccinatie mee; voor binnenkomst op het Marokkaanse vasteland komt er een dierenartscertificaat bij dat niet ouder mag zijn dan 10 dagen."
         }
       ]
     },
@@ -837,7 +936,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für einen Besuch in Tarifa mit Hund",
+      "titleNl": "Praktische tips voor een bezoek aan Tarifa met hond",
       "introDe": "Tarifa, der südlichste Punkt des europäischen Festlands, wird von zwei Dingen geprägt, die Reisende mit Hund sofort spüren: dem Wind (Levante aus dem Osten, Poniente aus dem Westen) und der Nähe Marokkos jenseits der Straße von Gibraltar. Planen Sie rund um die Badesaison, den Wind und die Möglichkeit, Tarifa als Ausgangspunkt für einen Tagesausflug nach Tanger zu nutzen.",
+      "introNl": "Tarifa, het zuidelijkste punt van het Europese vasteland, wordt bepaald door twee dingen die reizigers met hond meteen voelen: de wind (levante uit het oosten, poniente uit het westen) en de nabijheid van Marokko voorbij de Straat van Gibraltar. Plan rond het zwemseizoen, de wind en de mogelijkheid om Tarifa te gebruiken als vertrekpunt voor een dagtocht naar Tanger.",
       "faqsDe": [
         {
           "q": "Wann ist die beste Zeit für einen Besuch in Tarifa mit Hund?",
@@ -846,6 +947,16 @@
         {
           "q": "Brauchen Hunde in Tarifa einen Maulkorb?",
           "a": "Hunde über 20 kg oder als potenziell gefährlich eingestufte Hunde müssen auf öffentlichen Straßen einen Maulkorb tragen, und alle Hunde müssen im öffentlichen Raum angeleint sein. Bewahren Sie den Maulkorb in Ihrer Tasche auf, auch wenn Ihr Hund ihn selten braucht."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat is de beste tijd om Tarifa met hond te bezoeken?",
+          "a": "April tot juni en september tot oktober. De temperaturen zijn mild, de levante waait minder vaak, de stranden zijn buiten het zwemseizoen open voor honden aan de lijn, en de stad is rustiger dan in juli-augustus."
+        },
+        {
+          "q": "Hebben honden in Tarifa een muilkorf nodig?",
+          "a": "Honden boven 20 kg of rassen die als potentieel gevaarlijk zijn ingedeeld, moeten op openbare straten een muilkorf dragen, en alle honden moeten in de openbare ruimte aan de lijn. Bewaar de muilkorf in je tas, ook als je hond hem zelden nodig heeft."
         }
       ]
     },
@@ -882,9 +993,13 @@
           "tipPt": "Ideal à hora dourada; as vistas para Marrocos são imbatíveis.",
           "googleMapsUrl": "https://www.google.com/maps/search/Castillo+de+Guzman+el+Bueno+Tarifa",
           "descriptionDe": "Die im 10. Jahrhundert von den Mauren erbaute Festung, die 1294 berühmt wurde, als Alonso Pérez de Guzmán sich weigerte zu kapitulieren, selbst als sein Sohn unterhalb der Mauern getötet wurde. Die Außenwehrgänge und Innenhöfe blicken auf die Straße von Gibraltar; angeleinte Hunde sind in den Freiluftbereichen willkommen, kleinere Innenräume können jedoch eingeschränkt sein.",
+          "descriptionNl": "Het in de 10e eeuw door de Moren gebouwde fort, dat in 1294 beroemd werd toen Alonso Pérez de Guzmán weigerde te capituleren, zelfs toen zijn zoon onder de muren werd gedood. De buitenwallen en binnenplaatsen kijken uit over de Straat van Gibraltar; honden aan de lijn zijn welkom in de buitenruimtes, maar kleinere binnenruimtes kunnen beperkt zijn.",
           "dogPolicyDe": "Angeleinte Hunde in den Freiluftwehrgängen willkommen; fragen Sie am Eingang nach den Innenräumen.",
+          "dogPolicyNl": "Honden aan de lijn welkom op de buitenwallen; vraag bij de ingang naar de binnenruimtes.",
           "admissionFeeDe": "Kostenpflichtiger Eintritt (aktuellen Preis prüfen).",
-          "tipDe": "Am schönsten zur goldenen Stunde; der Blick hinüber nach Marokko ist unschlagbar."
+          "admissionFeeNl": "Betaalde toegang (controleer de actuele prijs).",
+          "tipDe": "Am schönsten zur goldenen Stunde; der Blick hinüber nach Marokko ist unschlagbar.",
+          "tipNl": "Het mooist tijdens het gouden uur; het uitzicht op Marokko is onverslaanbaar."
         },
         {
           "name": "Casco antiguo & Puerta de Jerez",
@@ -909,9 +1024,13 @@
           "tipPt": "Combine com o Castillo de Guzmán e o Mirador del Estrecho para uma tarde perfeita à trela.",
           "googleMapsUrl": "https://www.google.com/maps/search/Casco+Antiguo+Tarifa",
           "descriptionDe": "Tarifas ummauerte mittelalterliche Altstadt, durch das Tor Puerta de Jerez aus dem 13. Jahrhundert betreten (das einzig erhaltene Stadttor seiner Art in Spanien). Ein kostenloses, komplett im Freien liegendes Labyrinth aus weißen Gassen, Plätzen und der Iglesia de San Mateo. Wie geschaffen für eine Tour mit angeleintem Hund.",
+          "descriptionNl": "Tarifa's ommuurde middeleeuwse oude stad, betreden via de 13e-eeuwse poort Puerta de Jerez (de enige bewaard gebleven stadspoort van dit type in Spanje). Een gratis, volledig buiten gelegen labyrint van witte steegjes, pleinen en de Iglesia de San Mateo. Gemaakt voor een tochtje met een hond aan de lijn.",
           "dogPolicyDe": "Angeleinte Hunde auf allen Straßen und Plätzen willkommen.",
+          "dogPolicyNl": "Honden aan de lijn welkom op alle straten en pleinen.",
           "admissionFeeDe": "Kostenlos.",
-          "tipDe": "Kombinieren Sie den Besuch mit dem Castillo de Guzmán und dem Mirador del Estrecho für einen perfekten Nachmittag an der Leine."
+          "admissionFeeNl": "Gratis.",
+          "tipDe": "Kombinieren Sie den Besuch mit dem Castillo de Guzmán und dem Mirador del Estrecho für einen perfekten Nachmittag an der Leine.",
+          "tipNl": "Combineer het bezoek met het Castillo de Guzmán en de Mirador del Estrecho voor een perfecte middag aan de lijn."
         },
         {
           "name": "Conjunto Arqueológico de Baelo Claudia",
@@ -936,9 +1055,13 @@
           "tipPt": "Visitem as ruínas à vez enquanto o parceiro passeia o cão na praia; a vista para o sítio a partir da areia vale metade da experiência.",
           "googleMapsUrl": "https://www.google.com/maps/search/Baelo+Claudia+Bolonia",
           "descriptionDe": "Die bemerkenswert vollständig erhaltene römische Stadt aus dem 2. Jahrhundert v. Chr. hinter dem Strand von Bolonia, mit intaktem Forum, Basilika, Theater und Fischsalzerei. Hunde sind im archäologischen Gelände nicht erlaubt, aber der davorliegende Strand und der Dünenweg oberhalb der Ruinen sind mit Leine zugänglich und bieten die beste kostenlose Perspektive.",
+          "descriptionNl": "De opmerkelijk goed bewaard gebleven Romeinse stad uit de 2e eeuw v.Chr. achter het strand van Bolonia, met een intact forum, basiliek, theater en vissouterij. Honden zijn niet toegestaan op het archeologische terrein, maar het strand ervoor en het duinpad boven de ruïnes zijn met lijn toegankelijk en bieden het beste gratis perspectief.",
           "dogPolicyDe": "Hunde im archäologischen Gelände nicht erlaubt; angeleinte Hunde am umliegenden Strand und in den Dünen willkommen.",
+          "dogPolicyNl": "Honden niet toegestaan op het archeologische terrein; honden aan de lijn welkom op het omliggende strand en in de duinen.",
           "admissionFeeDe": "Kostenlos für EU-Bürger, kostenpflichtig für Nicht-EU-Bürger (aktuellen Preis prüfen).",
-          "tipDe": "Besuchen Sie die Ruinen abwechselnd, während Ihr Partner den Hund am Strand ausführt; der Blick vom Sand auf die Anlage ist die halbe Erfahrung."
+          "admissionFeeNl": "Gratis voor EU-burgers, betaald voor niet-EU-burgers (controleer de actuele prijs).",
+          "tipDe": "Besuchen Sie die Ruinen abwechselnd, während Ihr Partner den Hund am Strand ausführt; der Blick vom Sand auf die Anlage ist die halbe Erfahrung.",
+          "tipNl": "Bezoek de ruïnes om de beurt, terwijl je partner de hond op het strand uitlaat; het uitzicht vanaf het zand op het complex is de halve ervaring."
         }
       ],
       "tipsEn": [
@@ -1002,7 +1125,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Tarifa",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Tarifa",
       "introDe": "Tarifas Reiz liegt größtenteils im Freien: eine maurische Burg, eine mittelalterliche Altstadt mit weißen Gassen und die römischen Ruinen von Baelo Claudia hinter dem Strand von Bolonia. Fast alles Wichtige lässt sich mit angeleintem Hund erkunden, und einige besondere Erlebnisse (Walbeobachtungsboote, Kite-Schulen) heißen Hunde ausdrücklich willkommen.",
+      "introNl": "De charme van Tarifa zit grotendeels buiten: een Moors kasteel, een middeleeuwse oude stad met witte steegjes en de Romeinse ruïnes van Baelo Claudia achter het strand van Bolonia. Bijna alles belangrijks is te verkennen met een hond aan de lijn, en sommige bijzondere ervaringen (walvisspotboten, kitescholen) heten honden nadrukkelijk welkom.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund mit in die römischen Ruinen von Baelo Claudia nehmen?",
@@ -1011,6 +1136,16 @@
         {
           "q": "Welche Sehenswürdigkeiten in Tarifa sind hundefreundlich?",
           "a": "Die gesamte ummauerte Altstadt und die Außenbereiche des Castillo de Guzmán el Bueno heißen angeleinte Hunde willkommen, und der Aussichtspunkt Mirador del Estrecho ist kostenlos und im Freien. FIRMM-Walbeobachtungsboote erlauben angeleinte Hunde an Deck bei Vorabbuchung."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar de Romeinse ruïnes van Baelo Claudia?",
+          "a": "Nee, het archeologische terrein staat geen huisdieren toe. Je kunt de site nog steeds genieten vanaf het omliggende strand van Bolonia en het duinpad erboven, beide toegankelijk met een hond aan de lijn."
+        },
+        {
+          "q": "Welke bezienswaardigheden in Tarifa zijn hondvriendelijk?",
+          "a": "De hele ommuurde oude stad en de buitenruimtes van het Castillo de Guzmán el Bueno heten honden aan de lijn welkom, en het uitzichtpunt Mirador del Estrecho is gratis en buiten. FIRMM-walvisspotboten laten honden aan de lijn toe aan dek, mits vooraf geboekt."
         }
       ]
     },
@@ -1045,8 +1180,11 @@
           "tipEs": "Lee las opiniones recientes y escribe primero al cuidador; el pequeño grupo de Tarifa se llena rápido en julio-agosto.",
           "tipPt": "Leia as avaliações recentes e contacte primeiro o cuidador; o pequeno grupo de Tarifa enche depressa em julho-agosto.",
           "descriptionDe": "Eine Online-Plattform, die Hundehalter mit geprüften lokalen Betreuern und Gassigehern in Tarifa verbindet, mit Unterbringung, Tagesbetreuung und Spaziergängen. Nur ein kleiner Anteil der Bewerber wird als Betreuer zugelassen, und jede Buchung ist durch eine Tierarztversicherung abgesichert.",
+          "descriptionNl": "Een online platform dat hondeneigenaren verbindt met gecontroleerde lokale oppassers en uitlaters in Tarifa, met logeeropvang, dagopvang en wandelingen. Slechts een klein deel van de aanvragers wordt toegelaten als oppasser, en elke boeking is gedekt door een dierenartsverzekering.",
           "serviceTypeDe": "Unterbringung, Tagesbetreuung und Gassi-Service",
-          "tipDe": "Lesen Sie aktuelle Bewertungen und schreiben Sie dem Betreuer zuerst; Tarifas kleiner Pool bedeutet, dass die Verfügbarkeit im Juli-August schnell knapp wird."
+          "serviceTypeNl": "Logeeropvang, dagopvang en uitlaatservice",
+          "tipDe": "Lesen Sie aktuelle Bewertungen und schreiben Sie dem Betreuer zuerst; Tarifas kleiner Pool bedeutet, dass die Verfügbarkeit im Juli-August schnell knapp wird.",
+          "tipNl": "Lees recente beoordelingen en schrijf de oppasser eerst aan; Tarifa's kleine aanbod betekent dat de beschikbaarheid in juli-augustus snel krap wordt."
         },
         {
           "name": "Rover",
@@ -1069,8 +1207,11 @@
           "tipEs": "Filtra por cuidadores que acepten el tamaño de tu perro y organiza un breve encuentro el día de tu llegada.",
           "tipPt": "Filtre por cuidadores que aceitem o tamanho do seu cão e marque um breve encontro no dia da chegada.",
           "descriptionDe": "Ein großes internationales Netzwerk aus Haustierbetreuern und Gassigehern mit Anbietern in Tarifa und rund um den Estrecho, das Unterbringung, Haussitting, Kurzbesuche und Spaziergänge anbietet. Profile, Bewertungen und sichere In-App-Zahlung erleichtern die Buchung für einen Tagesausflug nach Tanger oder länger.",
+          "descriptionNl": "Een groot internationaal netwerk van huisdieroppassers en uitlaters met aanbieders in Tarifa en rond de Estrecho, dat logeeropvang, huissitting, korte bezoekjes en wandelingen aanbiedt. Profielen, beoordelingen en veilige betaling in de app maken het boeken makkelijker voor een dagtocht naar Tanger of langer.",
           "serviceTypeDe": "Unterbringung, Haussitting, Besuche und Spaziergänge",
-          "tipDe": "Filtern Sie nach Betreuern, die die Größe Ihres Hundes akzeptieren, und vereinbaren Sie am Ankunftstag ein kurzes Kennenlerntreffen."
+          "serviceTypeNl": "Logeeropvang, huissitting, bezoekjes en wandelingen",
+          "tipDe": "Filtern Sie nach Betreuern, die die Größe Ihres Hundes akzeptieren, und vereinbaren Sie am Ankunftstag ein kurzes Kennenlerntreffen.",
+          "tipNl": "Filter op oppassers die de grootte van je hond accepteren, en plan op de dag van aankomst een korte kennismaking."
         }
       ],
       "tipsEn": [
@@ -1134,7 +1275,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Tarifa",
+      "titleNl": "Huisdieroppas & uitlaatservice in Tarifa",
       "introDe": "Tarifas Markt für Haustierbetreuung ist klein, aber real: eine Handvoll unabhängiger Betreuer und die großen Online-Plattformen (Gudog, Rover) decken die Stadt und die umliegenden Dörfer der Costa de la Luz ab. Frühzeitiges Buchen ist wichtig im Juli-August (Höhepunkt der Kite-Saison), zu Ostern und während der Windsurf-Weltcup-Veranstaltungen.",
+      "introNl": "Tarifa's markt voor huisdieroppas is klein maar reëel: een handjevol onafhankelijke oppassers en de grote online platforms (Gudog, Rover) dekken de stad en de omliggende dorpen van de Costa de la Luz. Vroeg boeken is belangrijk in juli-augustus (hoogtepunt van het kiteseizoen), met Pasen en tijdens de windsurf-wereldbekerevenementen.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Hundesitter in Tarifa?",
@@ -1143,6 +1286,16 @@
         {
           "q": "Sollte ich die Betreuung im Voraus buchen?",
           "a": "Ja, besonders im Juli-August, wenn Tarifas Bevölkerung durch die Kite- und Windsaison anschwillt, sowie an Weltcup-Wochenenden. Vereinbaren Sie vorher ein kurzes Kennenlerntreffen, damit sich Ihr Hund an den Betreuer gewöhnt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe vind ik een hondenoppas in Tarifa?",
+          "a": "Gebruik online platforms zoals Gudog of Rover, die gecontroleerde lokale oppassers en uitlaters in Tarifa vermelden met beoordelingen en veilige betaling. Het aanbod is klein (Tarifa heeft 18.000 inwoners), boek in de zomer dus minstens 2-3 weken van tevoren."
+        },
+        {
+          "q": "Moet ik de oppas van tevoren boeken?",
+          "a": "Ja, vooral in juli-augustus, wanneer Tarifa's bevolking aangroeit door het kite- en windseizoen, en tijdens wereldbekerweekenden. Plan van tevoren een korte kennismaking, zodat je hond went aan de oppasser."
         }
       ]
     }

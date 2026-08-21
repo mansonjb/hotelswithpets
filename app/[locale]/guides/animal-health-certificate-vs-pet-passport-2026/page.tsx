@@ -13,6 +13,7 @@ const STICKY_LABELS_AHC: Record<string, { label: string; cta: string }> = {
   es: { label: 'Hoteles pet-friendly en Reino Unido y UE', cta: 'Ver hoteles' },
   pt: { label: 'Hotéis pet-friendly no Reino Unido e UE', cta: 'Ver hotéis' },
   de: { label: 'Haustierfreundliche Hotels in Großbritannien und der EU', cta: 'Hotels ansehen' },
+  nl: { label: 'Huisdiervriendelijke hotels in het VK en de EU', cta: 'Bekijk hotels' },
 }
 
 const SLUG = 'animal-health-certificate-vs-pet-passport-2026'
@@ -48,6 +49,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         es: `${SITE_URL}/es/guides/${SLUG}`,
         pt: `${SITE_URL}/pt/guides/${SLUG}`,
         de: `${SITE_URL}/de/guides/${SLUG}`,
+        nl: `${SITE_URL}/nl/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },
@@ -597,6 +599,110 @@ const COPY: Record<string, Copy> = {
     ctaDesc: 'Entdecken Sie unsere über 90 haustierfreundlichen Reiseziele in ganz Europa, jeder Guide enthält länderspezifische Einreiseregeln, Tierarzt-Telefonnummern und eine Live-Karte von Booking.com mit haustierfreundlichen Hotels.',
     ctaButton: 'Haustierfreundliche Reiseziele ansehen →',
     ctaHref: '/de/destinations',
+  },
+  nl: {
+    hero: {
+      kicker: 'REISDOCUMENTEN VOOR HUISDIEREN · BIJGEWERKT 2026',
+      h1: 'EU-huisdierenpaspoort of Animal Health Certificate: wat heb je echt nodig?',
+      tldr: `Kort antwoord: het EU-huisdierenpaspoort geldt voor reizen binnen de EU plus Noorwegen, Zwitserland, IJsland en Liechtenstein. Een Animal Health Certificate (AHC) is verplicht om een huisdier dat in de EU woont mee te nemen naar het Verenigd Koninkrijk. Beide documenten zijn niet uitwisselbaar, de kosten verschillen sterk, en 78% van de door ons ondervraagde eerstereizigers deed het fout bij hun eerste reis, soms aan de grens, soms pas bij het inchecken in een hotel dat het juiste document verlangde.`,
+    },
+    scenarios: {
+      title: 'Snelle beslissing: welk document voor jouw route?',
+      intro: 'Zoek je reisrichting op in de tabel hieronder. De kolom "Vereist document" geeft de minimale wettelijke eis aan; de kolom "Opmerking" wijst op verrassingen.',
+      rows: [
+        { from: 'EU-land', to: 'EU-land', document: 'EU-huisdierenpaspoort', note: 'Eén document dekt alle 27 EU-landen plus Noorwegen, Zwitserland, IJsland en Liechtenstein.' },
+        { from: 'EU-land', to: 'Verenigd Koninkrijk', document: 'Animal Health Certificate (AHC)', note: 'EU-huisdierenpaspoort wordt NIET geaccepteerd. AHC geldig 10 dagen voor binnenkomst, 4 maanden voor reizen binnen het VK plus terugreis.' },
+        { from: 'EU-land', to: 'Ierland', document: 'EU-huisdierenpaspoort', note: 'Ierland blijft in het EU-huisdierenpaspoortsysteem. Lintwormbehandeling 24-120u voor aankomst verplicht.' },
+        { from: 'EU-land', to: 'Noorwegen', document: 'EU-huisdierenpaspoort', note: 'Noorwegen zit niet in de EU maar accepteert het paspoort. Lintwormbehandeling 24-120u voor aankomst verplicht.' },
+        { from: 'EU-land', to: 'Finland', document: 'EU-huisdierenpaspoort', note: 'Finland zit in de EU maar vereist lintwormbehandeling 24-120u voor aankomst.' },
+        { from: 'EU-land', to: 'IJsland', document: 'EU-huisdierenpaspoort + importvergunning', note: 'IJsland heeft de strengste regels: vergunning vooraf, 4 weken thuisquarantaine vaak vervangen door importinspectie.' },
+        { from: 'Verenigd Koninkrijk', to: 'EU-land', document: 'GB-gezondheidscertificaat of EU-AHC', note: 'VK-huisdierenpaspoort (rood) na de Brexit niet meer geldig. Nieuw GB-certificaat of EU-diergeneeskundig AHC nodig.' },
+        { from: 'VS', to: 'Elk EU-land', document: 'EU-AHC + USDA-bevestiging', note: 'AHC uitgegeven door een door de USDA erkende dierenarts, bevestigd door USDA APHIS binnen 10 dagen voor de reis. Geldig 4 maanden voor reizen binnen de EU.' },
+        { from: 'Zwitserland', to: 'EU-land', document: 'EU-huisdierenpaspoort', note: 'Zwitserland zit niet in de EU maar wel in het paspoortsysteem. Document uitwisselbaar met het EU-paspoort.' },
+      ],
+    },
+    passport: {
+      id: 'pet-passport',
+      h2: 'Het EU-huisdierenpaspoort (de langetermijnoptie)',
+      paras: [
+        `Het EU-huisdierenpaspoort is een klein blauw boekje, uitgegeven door een erkende dierenarts in elk EU-land (of in Noorwegen, Zwitserland, IJsland, Liechtenstein). Het bevat: de beschrijving van het huisdier (ras, geslacht, geboortedatum), een foto, het microchipnummer, de vaccinatiegeschiedenis tegen hondsdolheid en eventuele andere relevante behandelingen. Eenmaal uitgegeven is het levenslang geldig, je vernieuwt alleen bepaalde vermeldingen (voornamelijk de rabiësvaccinatie, die afhankelijk van het merk elke 1 tot 3 jaar verloopt).`,
+        'Het paspoort is het meest flexibele document omdat het alle EU-landen plus de vier EFTA-staten (Noorwegen, Zwitserland, IJsland, Liechtenstein) onder één kaft dekt. Het is op lange termijn ook het goedkoopst: één bezoek aan je dierenarts om het uit te laten geven (doorgaans 30-60 €), plus de gebruikelijke kosten voor de rabiësvaccinatie (30-50 € elke 1-3 jaar).',
+        'De voorwaarde is simpel: je huisdier moet op het moment van uitgifte van het paspoort inwoner zijn van de EU (of van een van de EFTA-landen). Als je in het Verenigd Koninkrijk, de VS of een ander niet-EU-land woont, kan je eigen dierenarts geen EU-paspoort uitgeven, ook al zou hij dat willen. Je kunt er alleen een krijgen als je EU-inwoner wordt, wat zelden voorkomt.',
+      ],
+      bullets: [
+        'Formaat: klein blauw boekje, ~10 × 15 cm',
+        'Uitgever: erkende dierenarts in elk EU-land, Noorwegen, Zwitserland, IJsland of Liechtenstein',
+        'Geldigheid: levenslang (met indien nodig vernieuwde vaccinatievermeldingen)',
+        'Kosten: 30-60 € bij uitgifte, plus vaccinatievernieuwingen',
+        'Dekking: 27 EU-landen + 4 EFTA-staten (uitwisselbaar)',
+        'Vereiste tests: microchip ISO 11784/11785 + minstens 21 dagen geldige rabiësvaccinatie',
+      ],
+    },
+    ahc: {
+      id: 'ahc',
+      h2: 'Het Animal Health Certificate (de reisspecifieke optie)',
+      paras: [
+        'Het Animal Health Certificate (AHC) is een certificaat van 10 pagina\'s, uitgegeven door een dierenarts binnen 10 dagen voor het begin van je reis, geldig voor binnenkomst in het op het document genoemde land en voor 4 maanden reizen binnen dat land en terugreis. Het bestaat omdat het Verenigd Koninkrijk na de Brexit een eigen systeem voor de invoer van huisdieren invoerde dat het EU-huisdierenpaspoort niet erkent, en de EU erkent omgekeerd het oude VK-huisdierenpaspoort (het rode) niet voor binnenkomst in de EU.',
+        `Het AHC is per reis veel duurder dan een paspoort: doorgaans £100-180 in het VK of 100-150 € bij een EU-dierenarts, plus in sommige gevallen kleine administratieve bevestigingskosten. Het is eenmalig te gebruiken in die zin dat je het niet kunt hergebruiken voor een tweede reis, je hebt elke keer een nieuw AHC nodig wanneer je opnieuw het bestemmingsland binnenkomt (zelfs met 4 maanden ertussen).`,
+        'Voor iemand die één keer per jaar naar het VK reist, is het AHC het juiste document. Voor iemand die drie of vier keer per jaar reist, lopen de kosten op tot 400-600 € per jaar, wat een klein maar groeiend aantal EU-inwoners ertoe heeft gebracht om een UK GB-huisdierenpaspoort te overwegen (uitgegeven door een VK-dierenarts tijdens een bezoek aan het VK), dat een jaar lang herbruikbaar is voordat de AHC-logica opnieuw nodig is.',
+      ],
+      bullets: [
+        'Formaat: certificaat van 10 pagina\'s, moet fysiek worden afgedrukt en ondertekend',
+        'Uitgever: erkende dierenarts binnen 10 dagen voor vertrek',
+        'Geldigheid: 10 dagen voor binnenkomst + 4 maanden voor reizen binnen het land en terugreis',
+        'Kosten: 100-180 € per reis (veel hoger dan het EU-paspoort)',
+        'Eenmalig: niet overdraagbaar naar volgende reizen',
+        'Vereiste tests: zelfde als het paspoort (microchip + rabiësvaccinatie + lintwormbehandeling voor het VK)',
+      ],
+    },
+    tapeworm: {
+      id: 'tapeworm',
+      h2: 'De verplichte lintwormbehandeling (de regel waar de meeste reizigers over struikelen)',
+      paras: [
+        'Vijf landen in Europa, het Verenigd Koninkrijk, Ierland, Finland, Noorwegen en Malta, verlangen dat honden tussen 24 uur en 120 uur (5 dagen) voor aankomst een lintwormbehandeling op basis van praziquantel krijgen van een dierenarts. De behandeling moet door de dierenarts worden vastgelegd in het huisdierenpaspoort (of AHC).',
+        'Dit is het meest voorkomende grensprobleem waar we over horen. De behandeling is eenvoudig, één tablet, kost 15-30 € bij de dierenarts, maar moet in het juiste tijdvenster worden toegediend, door een erkende dierenarts, en correct worden vastgelegd. Eigenaars vergeten vaak het minimum van 24 uur (de behandeling moet minstens 24 uur voor aankomst plaatsvinden) of het maximum van 120 uur (het mag niet ouder zijn dan 5 dagen). Beide fouten komen even vaak voor.',
+        'De reden voor de regel is bioveiligheid: deze vijf landen zijn vrij van de lintwormsoort Echinococcus multilocularis, die endemisch is op het Europese vasteland. Zonder deze regel zouden besmette honden de parasiet via hun uitwerpselen kunnen introduceren, wat grote gevolgen zou hebben voor de volksgezondheid (het veroorzaakt alveolaire echinokokkose, een ernstige leverziekte).',
+      ],
+    },
+    comparison: {
+      caption: 'EU-huisdierenpaspoort vs. Animal Health Certificate (2026)',
+      head: ['Kenmerk', 'EU-huisdierenpaspoort', 'Animal Health Certificate (AHC)'],
+      rows: [
+        ['Uitgever', 'Erkende dierenarts in EU/EFTA', 'Erkende dierenarts binnen 10 dagen voor de reis'],
+        ['Geldigheid', 'Levenslang', '10 dagen binnenkomst + 4 maanden reis/terugreis'],
+        ['Kosten', '30-60 € eenmalig + vaccinatievernieuwingen', '100-180 € per reis'],
+        ['Dekking', '27 EU-landen + 4 EFTA-staten', 'Eén op het document genoemd bestemmingsland'],
+        ['Herbruikbaar', 'Ja, onbeperkt', 'Nee, eenmalig'],
+        ['In aanmerking komende eigenaars', 'EU-/EFTA-inwoners', 'Iedereen met toegang tot een erkende dierenarts'],
+        ['Vereist voor binnenkomst VK', 'NEE', 'JA (sinds de Brexit)'],
+        ['Vereist voor binnenkomst EU vanuit VK', 'NEE (alleen GB-certificaat)', 'JA vanuit de VS, kan ook vanuit de EU worden gevraagd'],
+        ['Vastlegging lintwormbehandeling', 'In het paspoort, door dierenarts', 'Vastgelegd op AHC'],
+      ],
+    },
+    costs: {
+      id: 'costs',
+      h2: 'De echte kosten van een fout',
+      paras: [
+        'In onze enquête van 2026 onder 1.200 eerstereizigers met huisdier meldde 78% minstens één documentfout. De meest voorkomende: proberen het VK binnen te komen met een EU-huisdierenpaspoort (340 van de 1.200 gevallen), deze reizigers werden teruggestuurd bij de Eurotunnel-terminal of de veerhaven, en verloren daarbij soms ter plekke een boeking van £200-400. De op één na meest voorkomende: de lintwormbehandeling vergeten voor VK/Ierland/Finland/Noorwegen/Malta, meestal mogen zij de behandeling alsnog laten uitvoeren bij een dierenarts bij de haven (£70-150) voordat ze verder mogen reizen.',
+        'Minder catastrofaal maar nog steeds duur: aankomen bij een huisdiervriendelijk hotel dat het EU-paspoort verlangt (de meeste doen dat, na de Brexit) zonder de bijpassende documenten. Hotels kunnen de check-in weigeren. Sommige accepteren een uitgeprint AHC als bewijs, maar je moet het hotel altijd voor het boeken een e-mail sturen om de exacte vereisten te bevestigen.',
+        'Vermijdbare totale kosten in onze steekproef van 1.200 reizigers: ongeveer 380.000 €. Gemiddeld per reiziger: 316 €. De grootste kostenpost: teruggestuurd worden aan de grens en daarna opnieuw moeten boeken. Ergste geval dat we hebben opgetekend: £1.800 verlies (stel met twee honden, meerdaagse reis geannuleerd bij Eurotunnel).',
+      ],
+    },
+    faqTitle: 'Veelgestelde vragen',
+    faqs: [
+      { q: 'Ik ben Amerikaan, kan ik een EU-huisdierenpaspoort gebruiken?', a: 'Nee. Het EU-huisdierenpaspoort kan alleen worden uitgegeven door een dierenarts in een EU-land (of Noorwegen, Zwitserland, IJsland, Liechtenstein) voor een huisdier dat daar woont. Als Amerikaanse bezoeker heb je een door de USDA erkende dierenarts nodig om een EU-AHC uit te geven, dat vervolgens binnen 10 dagen voor de reis door USDA APHIS moet worden bevestigd. Je AHC is dan 4 maanden geldig voor reizen binnen de EU en de terugreis.' },
+      { q: 'Ik woon in het VK met een VK-huisdierenpaspoort, kan ik dat gebruiken voor de EU?', a: 'Nee. Het VK-huisdierenpaspoort (rood boekje) is sinds 1 januari 2021 niet meer geldig voor binnenkomst in de EU. Je hebt een nieuw GB-gezondheidscertificaat nodig, uitgegeven door je VK-dierenarts binnen 10 dagen voor de reis, OF een EU-AHC, uitgegeven door een erkende dierenarts tijdens je verblijf in de EU.' },
+      { q: 'Geldt de lintwormbehandeling ook voor katten?', a: 'Nee, alleen voor honden. De parasiet Echinococcus multilocularis gebruikt voornamelijk honden (en vossen) als eindgastheer. Katten vallen niet onder de lintwormbehandelingsplicht voor binnenkomst in het Verenigd Koninkrijk, Ierland, Finland, Noorwegen of Malta, zij hebben alleen de gebruikelijke EU-/EFTA-documenten nodig.' },
+      { q: 'Wat gebeurt er als ik mijn hond zonder het juiste document meeneem?', a: 'Bij landgrenzen (Eurotunnel, veerboten) controleert de vervoerder je documenten bij het inchecken. Zijn de documenten onvolledig, dan mag je niet aan boord, je verliest de boeking en moet terug naar een dierenarts (vaak de lange weg terug). Op luchthavens controleert de luchtvaartmaatschappij bij het instappen; bij afwijzing kan de hond niet vliegen en moet je hem mogelijk achterlaten bij een pension en zonder hem reizen. Hoe dan ook zijn de kosten aanzienlijk: 200-1.800 € aan verloren boekingen, afhankelijk van de omstandigheden.' },
+      { q: 'Kan ik binnen Europa alleen met het AHC reizen?', a: 'Ja. Een door een erkende dierenarts (in de VS, de EU of een ander land) uitgegeven AHC is 4 maanden geldig voor reizen binnen de EU en de terugreis naar je thuisland. Je hoeft het voor de reis niet om te zetten in een EU-paspoort.' },
+      { q: 'Hoe vroeg moet ik de documenten regelen?', a: 'Voor een EU-huisdierenpaspoort: 6-8 weken van tevoren is ruim voldoende (het grootste deel van de tijd gaat op aan de wachttijd van 21 dagen na de rabiësvaccinatie). Voor een AHC: 2-3 weken van tevoren is voldoende, maar het AHC zelf moet binnen 10 dagen voor vertrek worden uitgegeven. De lintwormbehandeling is de enige stap die binnen 5 dagen voor aankomst plaatsvindt.' },
+      { q: 'Wordt het AHC geaccepteerd in hotels?', a: 'Ja, de meeste huisdiervriendelijke hotels accepteren het AHC naast het EU-huisdierenpaspoort als geldig document. We zijn nog geen hotel tegengekomen dat specifiek het EU-paspoort verlangt. Stuur het hotel altijd voor het boeken een e-mail om dit te bevestigen.' },
+      { q: 'Bestaan er elektronische of digitale huisdierenpaspoorten?', a: 'Nog niet. Het EU-huisdierenpaspoort blijft een fysiek papieren document, er is geen digitale versie die aan de grenzen wordt erkend. De Europese Commissie heeft een toekomstige digitale huisdier-identiteit besproken, maar er is nog geen tijdpad bekend voor 2026.' },
+    ],
+    ctaTitle: 'Plan je een reis met je hond?',
+    ctaDesc: 'Bekijk onze meer dan 90 huisdiervriendelijke bestemmingen in heel Europa, elke gids bevat landspecifieke inreisregels, telefoonnummers van dierenartsen en een live Booking.com-kaart met huisdiervriendelijke hotels.',
+    ctaButton: 'Bekijk huisdiervriendelijke bestemmingen →',
+    ctaHref: '/nl/destinations',
   },
 }
 

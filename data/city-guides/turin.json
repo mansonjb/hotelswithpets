@@ -39,9 +39,13 @@
           "mustTryPt": "Bicerin, zabaglione, cuneesi al rum",
           "tipPt": "Chegue antes das 10:00 para um bicerin matinal tranquilo; o café enche-se de turistas a partir das 11:00 e as mesas sob os pórticos são por ordem de chegada.",
           "descriptionDe": "1763 gegründet, ist Al Bicerin der Geburtsort des Bicerin (Espresso, Schokolade und Sahne) und eines der geschichtsträchtigsten Cafés Turins. Der winzige Innenraum lässt keine Hunde zu, aber die Arkadentische draußen sind hundefreundlich und bieten freien Blick auf den Santuario della Consolata.",
+          "descriptionNl": "Opgericht in 1763, is Al Bicerin de geboorteplaats van de bicerin (espresso, chocolade en room) en een van de meest historische cafés van Turijn. Het piepkleine interieur laat geen honden toe, maar de tafels onder de arcade buiten zijn hondvriendelijk en bieden vrij zicht op het Santuario della Consolata.",
           "petPolicyDe": "Hunde an den Arkadentischen willkommen",
+          "petPolicyNl": "Honden welkom aan de tafels onder de arcade",
           "mustTryDe": "Bicerin, Zabaione, Cuneesi al rum",
-          "tipDe": "Kommen Sie vor 10:00 Uhr für einen ruhigen morgendlichen Bicerin, das Café füllt sich ab 11:00 Uhr mit Touristen und die Arkadentische sind nach Verfügbarkeit."
+          "mustTryNl": "Bicerin, zabaione, cuneesi al rum",
+          "tipDe": "Kommen Sie vor 10:00 Uhr für einen ruhigen morgendlichen Bicerin, das Café füllt sich ab 11:00 Uhr mit Touristen und die Arkadentische sind nach Verfügbarkeit.",
+          "tipNl": "Kom voor 10:00 uur voor een rustige ochtendbicerin, het café loopt vanaf 11:00 uur vol met toeristen en de tafels onder de arcade zijn dan afhankelijk van beschikbaarheid."
         },
         {
           "name": "Porto di Savona",
@@ -69,9 +73,13 @@
           "mustTryPt": "Vitello tonnato, agnolotti del plin, bonet",
           "tipPt": "Reserve a mesa de canto do lado da Piazza Vittorio para o melhor sítio para observar os cães; é uma instituição local, com habituais que trazem os seus retrievers todos os domingos.",
           "descriptionDe": "Eine traditionelle Trattoria am größten Platz Turins (Piazza Vittorio Veneto), seit 1863 geöffnet. Angeleinte Hunde sind an den Arkadensitzplätzen mit Blick auf die Kirche Gran Madre und den Fluss Po willkommen. Herzhafte piemontesische Klassiker zu fairen Preisen.",
+          "descriptionNl": "Een traditionele trattoria aan het grootste plein van Turijn (Piazza Vittorio Veneto), open sinds 1863. Aangelijnde honden zijn welkom aan de zitplaatsen onder de arcade met uitzicht op de kerk Gran Madre en de rivier de Po. Stevige Piemontese klassiekers voor een eerlijke prijs.",
           "petPolicyDe": "Hunde unter den Arkaden willkommen",
+          "petPolicyNl": "Honden welkom onder de arcade",
           "mustTryDe": "Vitello tonnato, Agnolotti del plin, Bonet",
-          "tipDe": "Buchen Sie den Ecktisch am Ende zur Piazza Vittorio für den besten Platz zum Hunde-Beobachten, eine örtliche Institution mit Stammgästen, die sonntags mit ihren Retrievern kommen."
+          "mustTryNl": "Vitello tonnato, agnolotti del plin, bonet",
+          "tipDe": "Buchen Sie den Ecktisch am Ende zur Piazza Vittorio für den besten Platz zum Hunde-Beobachten, eine örtliche Institution mit Stammgästen, die sonntags mit ihren Retrievern kommen.",
+          "tipNl": "Reserveer de hoektafel aan het einde richting de Piazza Vittorio voor de beste plek om honden te spotten, een lokale institutie met vaste klanten die 's zondags met hun retrievers komen."
         },
         {
           "name": "Affini Via Belfiore",
@@ -99,9 +107,13 @@
           "mustTryPt": "Vermouth di Torino, tajarin al tartufo, tábua de aperitivo",
           "tipPt": "O aperitivo a partir das 18:00 custa 10 € com petiscos ilimitados; chegue às 17:45 para garantir uma mesa na esplanada nas noites de verão.",
           "descriptionDe": "Eine moderne Wermut-Bar und Bistrot im angesagten Viertel San Salvario mit einer sonnigen Außenterrasse, die Hunde aktiv willkommen heißt, Wassernäpfe werden routinemäßig unaufgefordert gebracht. Die Aperitivo-Stunde ist legendär; die Küche bleibt für kleine Gerichte lange geöffnet.",
+          "descriptionNl": "Een moderne vermouth-bar en bistrot in de trendy wijk San Salvario met een zonnig terras dat honden actief welkom heet, waterbakjes worden standaard ongevraagd gebracht. Het aperitivo-uurtje is legendarisch; de keuken blijft lang open voor kleine gerechten.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "petPolicyNl": "Honden welkom op het terras",
           "mustTryDe": "Vermouth di Torino, Tajarin al tartufo, Aperitivo-Platte",
-          "tipDe": "Der Aperitivo ab 18:00 Uhr kostet 10 € mit unbegrenzten kleinen Gerichten, kommen Sie um 17:45 Uhr, um an Sommerabenden einen Terrassentisch zu sichern."
+          "mustTryNl": "Vermouth di Torino, tajarin al tartufo, aperitivo-plank",
+          "tipDe": "Der Aperitivo ab 18:00 Uhr kostet 10 € mit unbegrenzten kleinen Gerichten, kommen Sie um 17:45 Uhr, um an Sommerabenden einen Terrassentisch zu sichern.",
+          "tipNl": "De aperitivo vanaf 18:00 uur kost 10 € met onbeperkt kleine gerechten, kom om 17:45 uur om op zomeravonden een terrastafel te bemachtigen."
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Turin",
+      "titleNl": "Hondvriendelijke restaurants in Turijn",
       "introDe": "Die Café-Kultur Turins gehört zu den ältesten Italiens, die barocken Arkaden der Via Po und des Quadrilatero Romano schützen Sie vor Regen und Sommersonne, und die meisten historischen Cafés akzeptieren an ihren Außensitzplätzen angeleinte Hunde. Das italienische Recht erlaubt Hunde in Restaurants standardmäßig, sofern kein Schild etwas anderes anzeigt.",
+      "introNl": "De cafécultuur van Turijn behoort tot de oudste van Italië, de barokke arcades van de Via Po en het Quadrilatero Romano beschermen je tegen regen en zomerzon, en de meeste historische cafés accepteren aangelijnde honden aan hun zitplaatsen buiten. De Italiaanse wet staat honden in restaurants standaard toe, tenzij een bordje anders aangeeft.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Turin drinnen erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Welche Stadtviertel sind zum Essen am hundefreundlichsten?",
           "a": "San Salvario (angesagte Bars, unkomplizierte Terrassen), Quadrilatero Romano (historische Cafés unter Arkaden) und die Gegend um die Piazza Vittorio (breite Arkaden mit Flussblick)."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden binnen welkom in restaurants in Turijn?",
+          "a": "Ja. De Italiaanse wet staat honden in horecazaken standaard toe, tenzij de uitbater een bordje 'geen honden' plaatst. De meeste historische cafés en trattoria's heten aangelijnde honden welkom, zeker aan tafels onder de arcades."
+        },
+        {
+          "q": "Hebben cafés in Turijn waterbakjes?",
+          "a": "Traditionele cafés houden standaard een bakje bij de ingang klaar of brengen er een op verzoek. Vraag naar 'una ciotola d'acqua' of 'acqua per il cane'."
+        },
+        {
+          "q": "Welke wijken zijn het meest hondvriendelijk om te eten?",
+          "a": "San Salvario (trendy bars, ongedwongen terrassen), Quadrilatero Romano (historische cafés onder de arcades) en de buurt rond de Piazza Vittorio (brede arcades met rivierzicht)."
         }
       ]
     },
@@ -233,9 +261,13 @@
           "facilitiesPt": "Duas Aree Cani, bebedouros, bancos, café à beira-rio",
           "tipPt": "A Area Cani do sul é mais tranquila e tem mais sombra no verão; a do norte, junto ao Castello del Valentino, é mais movimentada, com habituais de San Salvario.",
           "descriptionDe": "Turins beliebtester öffentlicher Park, 84 Hektar entlang des Po von Corso Vittorio bis zum Borgo Medievale. Zwei eingezäunte Aree Cani (eine nahe dem Schloss, eine am südlichen Ende), schattige Uferwege und eine hundefreundliche Eisdiele an der Promenade.",
+          "descriptionNl": "Turijns populairste openbare park, 84 hectare langs de Po van Corso Vittorio tot het Borgo Medievale. Twee omheinde aree cani (een bij het kasteel, een aan het zuidelijke uiteinde), schaduwrijke oeverpaden en een hondvriendelijke ijssalon aan de promenade.",
           "petPolicyDe": "Leinenpflicht; zwei eingezäunte Aree Cani",
+          "petPolicyNl": "Aanlijnplicht; twee omheinde aree cani",
           "facilitiesDe": "Zwei Aree Cani, Wasserspender, Bänke, Uferlokal",
-          "tipDe": "Die südliche Area Cani ist im Sommer ruhiger und schattiger, die nördliche in der Nähe des Castello del Valentino ist belebter mit Stammgästen aus San Salvario."
+          "facilitiesNl": "Twee aree cani, waterpunten, bankjes, oevercafé",
+          "tipDe": "Die südliche Area Cani ist im Sommer ruhiger und schattiger, die nördliche in der Nähe des Castello del Valentino ist belebter mit Stammgästen aus San Salvario.",
+          "tipNl": "De zuidelijke area cani is 's zomers rustiger en schaduwrijker, de noordelijke bij het Castello del Valentino is drukker met vaste bezoekers uit San Salvario."
         },
         {
           "name": "Parco della Pellerina",
@@ -263,9 +295,13 @@
           "facilitiesPt": "Três Aree Cani, pistas de corrida, pequeno lago, zonas de piquenique",
           "tipPt": "A Area Cani mais a leste é a maior (3000 m²) e a única com torneira de água fresca, ideal no verão.",
           "descriptionDe": "Mit 169 Hektar Turins größter Stadtpark, mit drei Aree Cani, einem kleinen See, Laufstrecken und der ältesten Hundeschule der Stadt. Beliebt bei Joggern, Radfahrern und Besitzern großer Hunde; im Allgemeinen ruhiger als der Valentino.",
+          "descriptionNl": "Met 169 hectare Turijns grootste stadspark, met drie aree cani, een klein meer, hardlooproutes en de oudste hondenschool van de stad. Populair bij hardlopers, fietsers en eigenaren van grote honden; over het algemeen rustiger dan de Valentino.",
           "petPolicyDe": "Leinenpflicht; drei eingezäunte Aree Cani",
+          "petPolicyNl": "Aanlijnplicht; drie omheinde aree cani",
           "facilitiesDe": "Drei Aree Cani, Laufstrecken, kleiner See, Picknickbereiche",
-          "tipDe": "Die östlichste Area Cani ist die größte (3.000 m²) und die einzige mit einem Frischwasserhahn, ideal im Sommer."
+          "facilitiesNl": "Drie aree cani, hardlooproutes, klein meer, picknickplekken",
+          "tipDe": "Die östlichste Area Cani ist die größte (3.000 m²) und die einzige mit einem Frischwasserhahn, ideal im Sommer.",
+          "tipNl": "De meest oostelijke area cani is de grootste (3.000 m²) en de enige met een zoetwaterkraan, ideaal in de zomer."
         },
         {
           "name": "Collina di Superga",
@@ -293,9 +329,13 @@
           "facilitiesPt": "Comboio de cremalheira, basílica, café, prados para piquenique",
           "tipPt": "As manhãs limpas de inverno oferecem a melhor panorâmica dos Alpes a partir do terraço da basílica; o interior não admite cães, mas o terraço e os trilhos florestais sim.",
           "descriptionDe": "Ein bewaldeter Hügelpark östlich des Po mit der barocken Basilika Superga auf seinem Gipfel, erreichbar mit der historischen Zahnradbahn Sassi-Superga (Hunde akzeptiert). Waldwege für angeleinte Spaziergänge mit Panoramablick auf die Alpen.",
+          "descriptionNl": "Een bebost heuvelpark ten oosten van de Po met de barokke Basilica di Superga op de top, bereikbaar met de historische tandradbaan Sassi-Superga (honden toegestaan). Boswandelpaden voor aangelijnde wandelingen met panoramisch uitzicht op de Alpen.",
           "petPolicyDe": "Leinenpflicht auf den Wegen; Hunde auf der Zahnradbahn akzeptiert",
+          "petPolicyNl": "Aanlijnplicht op de paden; honden toegestaan op de tandradbaan",
           "facilitiesDe": "Zahnradbahn, Basilika, Café, Picknickwiesen",
-          "tipDe": "Klare Wintermorgen bieten das beste Alpenpanorama von der Basilika-Terrasse aus, das Innere der Basilika lässt keine Hunde zu, die Terrasse und die Waldwege hingegen schon."
+          "facilitiesNl": "Tandradbaan, basiliek, café, picknickweides",
+          "tipDe": "Klare Wintermorgen bieten das beste Alpenpanorama von der Basilika-Terrasse aus, das Innere der Basilika lässt keine Hunde zu, die Terrasse und die Waldwege hingegen schon.",
+          "tipNl": "Heldere wintermorgens bieden het beste Alpenpanorama vanaf het terras van de basiliek, het binnenste van de basiliek laat geen honden toe, het terras en de boswandelpaden wel."
         }
       ],
       "tipsEn": [
@@ -377,7 +417,9 @@
         }
       ],
       "titleDe": "Hundeparks & Grünflächen in Turin",
+      "titleNl": "Hondenparken & groengebieden in Turijn",
       "introDe": "Turin verfügt über eines der größten Grünflächen-Inventare pro Kopf in Italien: den 84 Hektar großen Parco del Valentino am Po, den 169 Hektar großen Parco della Pellerina im Westen und ein Netz von über 35 Aree Cani (eingezäunte Freilaufzonen) in der ganzen Stadt. Außerhalb dieser Zonen ist gemäß der städtischen Verordnung Turins Leinenpflicht vorgeschrieben.",
+      "introNl": "Turijn heeft een van de grootste hoeveelheden groengebied per hoofd van de bevolking in Italië: het 84 hectare grote Parco del Valentino aan de Po, het 169 hectare grote Parco della Pellerina in het westen en een netwerk van meer dan 35 aree cani (omheinde losloopzones) verspreid over de stad. Buiten die zones geldt volgens de gemeentelijke verordening van Turijn aanlijnplicht.",
       "faqsDe": [
         {
           "q": "Wo dürfen Hunde in Turin ohne Leine laufen?",
@@ -390,6 +432,20 @@
         {
           "q": "Sind Hunde im Königspalast oder im Ägyptischen Museum erlaubt?",
           "a": "Nein, beide verbieten Haustiere generell. Die umliegende Piazza Castello und die Giardini Reali im Freien heißen angeleinte Hunde willkommen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar mogen honden in Turijn los lopen?",
+          "a": "Alleen in de meer dan 35 aangewezen aree cani, de grootste bevinden zich in het Parco del Valentino, Parco della Pellerina, Parco Colletta en Parco Ruffini. Overal elders is een lijn verplicht."
+        },
+        {
+          "q": "Zijn honden welkom op de tandradbaan Sassi-Superga?",
+          "a": "Ja, aangelijnde honden met muilkorf worden geaccepteerd tegen een toeslag van 1 €. De historische trein rijdt op zaterdag en zondag; check de seizoensdienstregeling op gtt.to.it."
+        },
+        {
+          "q": "Zijn honden welkom in het Koninklijk Paleis of het Egyptisch Museum?",
+          "a": "Nee, beide verbieden huisdieren volledig. De omliggende Piazza Castello en de Giardini Reali buiten heten aangelijnde honden welkom."
         }
       ]
     },
@@ -417,7 +473,9 @@
           "descriptionPt": "O Gruppo Torinese Trasporti gere a Linha 1 do metro (totalmente automática), a histórica rede de elétricos, os autocarros urbanos e o comboio de cremalheira Sassi-Superga. Os cães em caixa de transporte viajam grátis; os maiores precisam de trela curta, açaime e bilhete ridotto (meio preço).",
           "petPolicyPt": "Cães pequenos grátis (em caixa); cães grandes a meio preço + trela + açaime",
           "descriptionDe": "Die Gruppo Torinese Trasporti betreibt die vollautomatische U-Bahn-Linie 1, das historische Straßenbahnnetz, Stadtbusse und die Zahnradbahn Sassi-Superga. Hunde in Transportboxen fahren kostenlos; größere Hunde brauchen eine kurze Leine, einen Maulkorb und ein ridotto (ermäßigtes) Ticket.",
-          "petPolicyDe": "Kleine Hunde kostenlos (Transportbox); große Hunde ermäßigt + Leine + Maulkorb"
+          "descriptionNl": "Gruppo Torinese Trasporti beheert de volautomatische metrolijn 1, het historische tramnetwerk, stadsbussen en de tandradbaan Sassi-Superga. Honden in een transportbox reizen gratis; grotere honden hebben een korte lijn, een muilkorf en een ridotto (gereduceerd) ticket nodig.",
+          "petPolicyDe": "Kleine Hunde kostenlos (Transportbox); große Hunde ermäßigt + Leine + Maulkorb",
+          "petPolicyNl": "Kleine honden gratis (transportbox); grote honden gereduceerd tarief + lijn + muilkorf"
         }
       ],
       "tipsEn": [
@@ -499,7 +557,9 @@
         }
       ],
       "titleDe": "Mit Hund unterwegs in Turin",
+      "titleNl": "Onderweg met je hond in Turijn",
       "introDe": "Turins öffentliches Verkehrsnetz GTT (U-Bahn, Straßenbahnen, Busse, Zahnradbahn) akzeptiert Hunde nach den üblichen italienischen Regeln: kleine Hunde in einer Transportbox fahren kostenlos, größere Hunde brauchen eine kurze Leine, einen Maulkorb und ein ermäßigtes Ticket. Die klimatisierte U-Bahn-Linie 1 ist im Sommer die einfachste Wahl.",
+      "introNl": "Turijns openbaarvervoersnetwerk GTT (metro, trams, bussen, tandradbaan) accepteert honden volgens de gebruikelijke Italiaanse regels: kleine honden in een transportbox reizen gratis, grotere honden hebben een korte lijn, een muilkorf en een gereduceerd ticket nodig. De airconditioned metrolijn 1 is 's zomers de makkelijkste keuze.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund in der U-Bahn Turins mitnehmen?",
@@ -512,6 +572,20 @@
         {
           "q": "Können Hunde mit Trenitalia ab Turin Porta Nuova reisen?",
           "a": "Ja, kleine Hunde in Transportboxen kostenlos, größere Hunde mit einem ermäßigten Hundeticket, Leine und Maulkorb. Buchen Sie bei längeren Fahrten einen Fensterplatz."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen in de metro van Turijn?",
+          "a": "Ja, kleine honden in een transportbox reizen gratis. Grotere honden hebben een ridotto (gereduceerd) ticket, een korte lijn en een muilkorf nodig."
+        },
+        {
+          "q": "Zijn honden welkom op de tandradbaan Sassi-Superga?",
+          "a": "Ja, aangelijnde honden met muilkorf worden geaccepteerd tegen een toeslag van 1 € op de weekendtreinen naar de basiliek."
+        },
+        {
+          "q": "Kunnen honden met Trenitalia reizen vanaf Turijn Porta Nuova?",
+          "a": "Ja, kleine honden in een transportbox gratis, grotere honden met een gereduceerd hondenticket, lijn en muilkorf. Boek bij langere ritten een vensterplek."
         }
       ]
     },
@@ -534,8 +608,11 @@
       "tipsPt": [],
       "faqsPt": [],
       "titleDe": "Hundefreundliche Strände bei Turin",
+      "titleNl": "Hondvriendelijke stranden bij Turijn",
       "introDe": "Inhalt folgt in Kürze. Turin liegt 160 km von der ligurischen Küste entfernt, die nächsten Meeresstrände befinden sich in Albisola und Varazze, in 1,5 Autostunden erreichbar. Für näher gelegene Wasseraktivitäten bieten der Lago di Viverone und der Lago Sirio (45 Minuten Fahrt) ausgewiesene Spiagge Cani. Wir prüfen derzeit die aktuellen Regeln, bevor wir sie auflisten.",
-      "faqsDe": []
+      "introNl": "Inhoud volgt binnenkort. Turijn ligt 160 km van de Ligurische kust, de dichtstbijzijnde zeestranden bevinden zich in Albisola en Varazze, op 1,5 uur rijden. Voor dichterbij gelegen wateractiviteiten bieden het Lago di Viverone en het Lago Sirio (45 minuten rijden) aangewezen spiagge cani. We controleren momenteel de actuele regels voordat we ze vermelden.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Turin, Veterinary Clinics & Pet Care",
@@ -571,9 +648,13 @@
           "servicesPt": "Urgência, cirurgia, RM/TAC, oncologia, cuidados intensivos",
           "tipPt": "Estacionamento gratuito no local e acesso fácil à autoestrada, a 15 minutos de carro do centro de Turim. Leve o passaporte europeu do seu cão para acelerar a admissão.",
           "descriptionDe": "Eine große Überweisungsklinik südlich von Turin mit 24/7-Notfallaufnahme, Chirurgie, Bildgebung (CT, MRT, Ultraschall), Onkologie und Intensivstation. Eines der führenden Kleintier-Überweisungszentren Norditaliens.",
+          "descriptionNl": "Een grote doorverwijzingskliniek ten zuiden van Turijn met 24/7-spoedopname, chirurgie, beeldvorming (CT, MRI, echografie), oncologie en intensive care. Een van de toonaangevende doorverwijzingscentra voor kleine huisdieren in Noord-Italië.",
           "petPolicyDe": "24/7-Notfälle ohne Termin angenommen",
+          "petPolicyNl": "24/7 spoedgevallen zonder afspraak welkom",
           "servicesDe": "Notfall, Chirurgie, MRT/CT, Onkologie, Intensivstation",
-          "tipDe": "Kostenloser Parkplatz vor Ort und einfacher Autobahnzugang, 15 Minuten Fahrt vom Zentrum Turins. Bringen Sie den EU-Heimtierausweis Ihres Hundes mit, um die Aufnahme zu beschleunigen."
+          "servicesNl": "Spoedeisende hulp, chirurgie, MRI/CT, oncologie, intensive care",
+          "tipDe": "Kostenloser Parkplatz vor Ort und einfacher Autobahnzugang, 15 Minuten Fahrt vom Zentrum Turins. Bringen Sie den EU-Heimtierausweis Ihres Hundes mit, um die Aufnahme zu beschleunigen.",
+          "tipNl": "Gratis parkeren ter plekke en makkelijke toegang via de snelweg, 15 minuten rijden vanaf het centrum van Turijn. Neem het EU-huisdierenpaspoort van je hond mee om de opname te versnellen."
         },
         {
           "name": "Clinica Veterinaria Torinese",
@@ -601,9 +682,13 @@
           "servicesPt": "Urgência, cirurgia, imagiologia, dentária, dermatologia",
           "tipPt": "A triagem telefónica indica-lhe se deve ir à Torinese (casos correntes) ou seguir para a Anubi, em Moncalieri (casos complexos). O estacionamento na rua é escasso, pondere ir de táxi.",
           "descriptionDe": "Eine zentrale Vollversorgungsklinik im Stadtviertel Cenisia mit 24-Stunden-Notfallaufnahme, Chirurgie, Bildgebung und stationärer Übernachtung. Kleiner als Anubi, aber praktischer für Gäste in der Nähe von Porta Nuova oder dem Valentino gelegen.",
+          "descriptionNl": "Een centraal gelegen volledige kliniek in de wijk Cenisia met 24-uurs spoedopname, chirurgie, beeldvorming en overnachting in het ziekenhuis. Kleiner dan Anubi, maar praktischer gelegen voor gasten in de buurt van Porta Nuova of de Valentino.",
           "petPolicyDe": "24/7-Notfälle ohne Termin angenommen",
+          "petPolicyNl": "24/7 spoedgevallen zonder afspraak welkom",
           "servicesDe": "Notfall, Chirurgie, Bildgebung, Zahnbehandlung, Dermatologie",
-          "tipDe": "Die telefonische Triage sagt Ihnen, ob Sie zur Torinese (Standardfälle) kommen sollen oder zur Anubi in Moncalieri (komplexe Überweisungen) weitergeleitet werden. Straßenparkplätze sind knapp, ziehen Sie ein Taxi in Betracht."
+          "servicesNl": "Spoedeisende hulp, chirurgie, beeldvorming, gebitsbehandeling, dermatologie",
+          "tipDe": "Die telefonische Triage sagt Ihnen, ob Sie zur Torinese (Standardfälle) kommen sollen oder zur Anubi in Moncalieri (komplexe Überweisungen) weitergeleitet werden. Straßenparkplätze sind knapp, ziehen Sie ein Taxi in Betracht.",
+          "tipNl": "De telefonische triage vertelt je of je naar Torinese moet komen (standaardgevallen) of wordt doorverwezen naar Anubi in Moncalieri (complexe doorverwijzingen). Straatparkeren is schaars, overweeg een taxi."
         }
       ],
       "tipsEn": [
@@ -685,7 +770,9 @@
         }
       ],
       "titleDe": "Notfalltierärzte in Turin, Tierarztpraxen & Haustierpflege",
+      "titleNl": "Spoeddierenartsen in Turijn, dierenartspraktijken & huisdierenzorg",
       "introDe": "Turin verfügt über zwei große 24/7-Notfalltierkliniken sowie das Universitätsklinikum in Grugliasco. Private Kliniken übernehmen die meisten Notfälle außerhalb der Öffnungszeiten; die Anubi Clinica Veterinaria und die Clinica Veterinaria Torinese sind die beiden Standardanlaufstellen.",
+      "introNl": "Turijn heeft twee grote 24/7-spoedklinieken voor dieren plus het universitair diergeneeskundig centrum in Grugliasco. Privéklinieken nemen de meeste noodgevallen buiten openingstijden op zich; de Anubi Clinica Veterinaria en de Clinica Veterinaria Torinese zijn de twee standaard aanspreekpunten.",
       "faqsDe": [
         {
           "q": "Welche Tierklinik in Turin ist rund um die Uhr geöffnet?",
@@ -698,6 +785,20 @@
         {
           "q": "Nimmt ein Tierarzt in Turin Laufkundschaft an?",
           "a": "Ja, sowohl Anubi als auch Torinese nehmen rund um die Uhr Notfälle ohne Termin an. Für Routinebesuche verlangen die meisten Kliniken einen Termin."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welke dierenkliniek in Turijn is dag en nacht open?",
+          "a": "Twee klinieken bieden een volledige 24-uurs spoeddienst: Clinica Veterinaria Anubi (Strada Provinciale 6, Moncalieri, 011 6469480) en Clinica Veterinaria Torinese (Via Pacchiotti 4, Cenisia, 011 3852070)."
+        },
+        {
+          "q": "Wat kost een spoedbezoek aan de dierenarts in Turijn?",
+          "a": "Het basisconsult buiten openingstijden ligt doorgaans rond de 60-110 €, plus diagnostiek. De Italiaanse wet (Tariffa ANMVI) publiceert minimumtarieven, maar de uiteindelijke kosten hangen af van testen en ziekenhuisopname."
+        },
+        {
+          "q": "Neemt een dierenarts in Turijn inloopklanten aan?",
+          "a": "Ja, zowel Anubi als Torinese nemen dag en nacht spoedgevallen zonder afspraak aan. Voor routinebezoeken vragen de meeste klinieken een afspraak."
         }
       ]
     },
@@ -796,7 +897,9 @@
         }
       ],
       "titleDe": "Wichtige Tipps für Reisen mit Haustier nach Turin",
+      "titleNl": "Belangrijke tips voor reizen met huisdier naar Turijn",
       "introDe": "Turin ist eine lohnende Stadt für Hundebesitzer, 18 km überdachte Arkaden schützen Sie vor Regen und Sommersonne, das Ufer des Po bietet 10 km durchgehend hundefreundliche Spaziergänge, und die Alpen sind eine Stunde entfernt für Wochenendausflüge. Einige lokale Regeln unterscheiden sich vom Rest Italiens: Die Stadt setzt die Maulkorbpflicht im öffentlichen Nahverkehr strenger durch als Rom, und die Sommerhitze ist intensiver als in Küstenstädten.",
+      "introNl": "Turijn is een de moeite waard stad voor hondenbezitters, 18 km overdekte arcades beschermen je tegen regen en zomerzon, de oever van de Po biedt 10 km ononderbroken hondvriendelijke wandelingen, en de Alpen liggen op een uur afstand voor weekendtripjes. Sommige lokale regels wijken af van de rest van Italië: de stad handhaaft de muilkorfplicht in het openbaar vervoer strenger dan Rome, en de zomerhitte is intenser dan in kuststeden.",
       "faqsDe": [
         {
           "q": "Ist Turin eine gute Stadt für einen Besuch mit Hund?",
@@ -809,6 +912,20 @@
         {
           "q": "Kann ich meinen Hund für einen Tagesausflug in die Alpen mitnehmen?",
           "a": "Ja, Bardonecchia, Susa und Sestriere sind alle 1-1,5 Autostunden entfernt und bieten im Sommer hundefreundliches Wandern, und manche Skigebiete öffnen im Winter markierte Schneewege für Hunde."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Turijn een goede stad om met je hond te bezoeken?",
+          "a": "Ja, Turijn is rustiger dan Milaan of Rome, met 18 km weerbestendige arcades, meer dan 35 aree cani, uitgestrekte wandelingen langs de Po en makkelijke dagtrips naar de Alpen. Een geweldige uitvalsbasis voor een rustige Italiaanse stedentrip."
+        },
+        {
+          "q": "Heb ik documenten nodig om mijn hond mee te nemen naar Turijn?",
+          "a": "EU-burgers hebben het EU-huisdierenpaspoort nodig met een geldige rabiësvaccinatie. Bezoekers van buiten de EU hebben een EU-diergezondheidscertificaat nodig, afgegeven binnen 10 dagen voor binnenkomst, en voor bepaalde landen een rabiës-titertest."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen voor een dagtrip naar de Alpen?",
+          "a": "Ja, Bardonecchia, Susa en Sestriere liggen allemaal op 1-1,5 uur rijden en bieden 's zomers hondvriendelijke wandelroutes, en sommige skigebieden openen 's winters gemarkeerde sneeuwpaden voor honden."
         }
       ]
     },
@@ -841,8 +958,11 @@
           "petPolicyPt": "Piazza e Giardini Reali: com trela; interior do Palazzo Reale: sem animais",
           "tipPt": "Entre nos Giardini Reali pelo lado da Porta Palatina, para a abordagem mais cativante, a curta distância a pé dos cafés do Quadrilatero.",
           "descriptionDe": "Turins zentraler, monumentaler Platz, flankiert vom Königspalast, dem Königlichen Theater und der von Arkaden gesäumten Via Po. Die frei zugänglichen Giardini Reali hinter dem Palast sind angeleint vollständig hundefreundlich und bieten eine ruhige Flucht vor dem Stadttrubel.",
+          "descriptionNl": "Turijns centrale, monumentale plein, geflankeerd door het Koninklijk Paleis, het Koninklijk Theater en de door arcades omzoomde Via Po. De vrij toegankelijke Giardini Reali achter het paleis zijn volledig hondvriendelijk aan de lijn en bieden een rustige ontsnapping aan de drukte van de stad.",
           "petPolicyDe": "Piazza und Giardini Reali: Leine; Innenraum des Palazzo Reale: keine Haustiere",
-          "tipDe": "Betreten Sie die Giardini Reali von der Seite der Porta Palatina für den stimmungsvollsten Zugang, ein kurzer Spaziergang von den Cafés des Quadrilatero entfernt."
+          "petPolicyNl": "Piazza en Giardini Reali: aan de lijn; binnenkant Palazzo Reale: geen huisdieren",
+          "tipDe": "Betreten Sie die Giardini Reali von der Seite der Porta Palatina für den stimmungsvollsten Zugang, ein kurzer Spaziergang von den Cafés des Quadrilatero entfernt.",
+          "tipNl": "Betreed de Giardini Reali via de kant van de Porta Palatina voor de meest sfeervolle toegang, een korte wandeling van de cafés van het Quadrilatero."
         },
         {
           "name": "Basilica di Superga",
@@ -865,8 +985,11 @@
           "petPolicyPt": "Esplanada e trilhos florestais: com trela; interior da basílica: sem animais",
           "tipPt": "Apanhe o histórico comboio de cremalheira Sassi-Superga aos sábados ou domingos (cães aceites com suplemento de 1 €); o próprio comboio de época é uma experiência turística.",
           "descriptionDe": "Die barocke Basilika aus dem 18. Jahrhundert auf dem Gipfel des Hügels Superga, mit Panoramablick über Turin und die Alpen. Angeleinte Hunde sind auf der Außenterrasse und den umliegenden Waldwegen willkommen; das Innere selbst lässt keine Haustiere zu.",
+          "descriptionNl": "De 18e-eeuwse barokke basiliek op de top van de heuvel Superga, met panoramisch uitzicht over Turijn en de Alpen. Aangelijnde honden zijn welkom op het terras buiten en de omliggende boswandelpaden; het binnenste zelf laat geen huisdieren toe.",
           "petPolicyDe": "Terrasse und Waldwege: Leine; Inneres der Basilika: keine Haustiere",
-          "tipDe": "Nehmen Sie samstags oder sonntags die historische Zahnradbahn Sassi-Superga (Hunde gegen 1 € Zuschlag akzeptiert), der historische Zug selbst ist bereits ein Sightseeing-Erlebnis."
+          "petPolicyNl": "Terras en boswandelpaden: aan de lijn; binnenkant basiliek: geen huisdieren",
+          "tipDe": "Nehmen Sie samstags oder sonntags die historische Zahnradbahn Sassi-Superga (Hunde gegen 1 € Zuschlag akzeptiert), der historische Zug selbst ist bereits ein Sightseeing-Erlebnis.",
+          "tipNl": "Neem op zaterdag of zondag de historische tandradbaan Sassi-Superga (honden geaccepteerd tegen een toeslag van 1 €), de historische trein zelf is al een bezienswaardigheid op zich."
         },
         {
           "name": "Po Riverside and Murazzi",
@@ -889,8 +1012,11 @@
           "petPolicyPt": "Trela obrigatória em todo o percurso",
           "tipPt": "Comece nos Murazzi ao pôr do sol; os arcos e o rio refletem a Mole numa luz dourada, um dos momentos mais fotografados de Turim.",
           "descriptionDe": "Die 10 km lange Fußgängerpromenade am Ufer von den Murazzi-Bögen bis zum Borgo Medievale im Parco del Valentino, einer der längsten durchgehenden städtischen Hundespaziergänge Italiens. Cafés, Ruderclubs und Sonnenuntergangsblicke auf die Mole Antonelliana über der Stadtsilhouette.",
+          "descriptionNl": "De 10 km lange voetgangerspromenade langs de oever, van de Murazzi-bogen tot het Borgo Medievale in het Parco del Valentino, een van de langste ononderbroken stedelijke hondenwandelingen van Italië. Cafés, roeiclubs en zonsondergangsuitzichten op de Mole Antonelliana boven de skyline van de stad.",
           "petPolicyDe": "Durchgehend Leinenpflicht",
-          "tipDe": "Beginnen Sie bei Sonnenuntergang an den Murazzi, die Bögen und der Fluss spiegeln die Mole in goldenem Licht, einer der meistfotografierten Momente Turins."
+          "petPolicyNl": "Doorlopende aanlijnplicht",
+          "tipDe": "Beginnen Sie bei Sonnenuntergang an den Murazzi, die Bögen und der Fluss spiegeln die Mole in goldenem Licht, einer der meistfotografierten Momente Turins.",
+          "tipNl": "Begin bij zonsondergang bij de Murazzi, de bogen en de rivier weerspiegelen de Mole in gouden licht, een van de meest gefotografeerde momenten van Turijn."
         }
       ],
       "tipsEn": [
@@ -972,7 +1098,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Turin",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Turijn",
       "introDe": "Turins Freiluft-Sehenswürdigkeiten, Piazza Castello, Piazza San Carlo, das Ufer des Po und die Basilika Superga, sind alle mit einem angeleinten Hund vollständig begehbar. Das berühmte Ägyptische Museum und das Filmmuseum in der Mole Antonelliana verbieten Haustiere, aber die 18 km Arkaden und mehrere Dachterrassen der Stadt bieten umfangreiche Sightseeing-Möglichkeiten, ohne drinnen zu sein.",
+      "introNl": "Turijns openluchtbezienswaardigheden, de Piazza Castello, de Piazza San Carlo, de oever van de Po en de Basilica di Superga, zijn allemaal volledig te bezoeken met een aangelijnde hond. Het beroemde Egyptisch Museum en het Filmmuseum in de Mole Antonelliana verbieden huisdieren, maar de 18 km arcades en verschillende dakterrassen van de stad bieden volop bezienswaardigheden zonder naar binnen te hoeven.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund ins Ägyptische Museum mitnehmen?",
@@ -985,6 +1113,20 @@
         {
           "q": "Darf ich meinen Hund auf eine Po-Flusskreuzfahrt mitnehmen?",
           "a": "Ja, die sommerlichen Flussshuttles von Valentino nach Borgo Medievale akzeptieren angeleinte Hunde auf den Außendecks. Die Fahrpläne sind saisonal; prüfen Sie gtt.to.it."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar het Egyptisch Museum?",
+          "a": "Nee, het Egyptisch Museum verbiedt huisdieren volledig. De binnenkant van het Koninklijk Paleis en het Filmmuseum in de Mole Antonelliana zijn ook taboe."
+        },
+        {
+          "q": "Is de Basilica di Superga hondvriendelijk?",
+          "a": "Het terras buiten en de boswandelpaden heten aangelijnde honden welkom; het binnenste van de basiliek laat geen huisdieren toe. De tandradbaan Sassi-Superga accepteert aangelijnde honden met muilkorf tegen een toeslag van 1 €."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen op een rondvaart over de Po?",
+          "a": "Ja, de zomerse rivierboten van Valentino naar Borgo Medievale accepteren aangelijnde honden op de dekken buiten. De dienstregeling is seizoensgebonden; check gtt.to.it."
         }
       ]
     },
@@ -1016,8 +1158,11 @@
           "petPolicyPt": "Cuidadores verificados, seguro incluído",
           "servicesPt": "Passeio de cães, creche, alojamento ao domicílio",
           "descriptionDe": "Europäischer Marktplatz für Haustierbetreuung mit verifizierten Sittern in Turin für Gassi-Runden, Tagesbetreuung und Übernachtungsbetreuung zu Hause. Alle Buchungen versichert mit täglichen Foto-Updates. Typische Preise: 15-28 €/Tag Übernachtungsbetreuung zu Hause, 10-15 € für eine einstündige Gassi-Runde.",
+          "descriptionNl": "Europese marktplaats voor huisdierenzorg met geverifieerde oppassers in Turijn voor uitlaatrondes, dagopvang en overnachtingsopvang thuis. Alle boekingen verzekerd met dagelijkse foto-updates. Typische prijzen: 15-28 €/dag overnachtingsopvang thuis, 10-15 € voor een uitlaatronde van een uur.",
           "petPolicyDe": "Verifizierte Sitter, Versicherung inbegriffen",
-          "servicesDe": "Gassi gehen, Tagesbetreuung, Übernachtungsbetreuung zu Hause"
+          "petPolicyNl": "Geverifieerde oppassers, verzekering inbegrepen",
+          "servicesDe": "Gassi gehen, Tagesbetreuung, Übernachtungsbetreuung zu Hause",
+          "servicesNl": "Uitlaatservice, dagopvang, overnachtingsopvang thuis"
         }
       ],
       "tipsEn": [
@@ -1099,7 +1244,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Gassigehen in Turin",
+      "titleNl": "Huisdierenzorg & uitlaatservice in Turijn",
       "introDe": "Turin verfügt über einen verlässlichen professionellen Markt für Haustierpflege, angeführt von Pawshake und Rover mit einem starken Netz lokaler Dog-Sitter-Vereinigungen in San Salvario, Cit Turin und Crocetta. Die Preise liegen etwa 15 % unter denen Mailands. Buchen Sie während des Salone del Libro (Mai) und des Turin Film Festival (November) frühzeitig.",
+      "introNl": "Turijn heeft een betrouwbare professionele markt voor huisdierenzorg, aangevoerd door Pawshake en Rover met een sterk netwerk van lokale hondenoppasverenigingen in San Salvario, Cit Turin en Crocetta. De prijzen liggen ongeveer 15% lager dan in Milaan. Boek tijdens de Salone del Libro (mei) en het Turin Film Festival (november) vroeg.",
       "faqsDe": [
         {
           "q": "Was kostet Haustierbetreuung in Turin?",
@@ -1112,6 +1259,20 @@
         {
           "q": "Finde ich in Turin einen englischsprachigen Sitter?",
           "a": "Ja, bei Pawshake und Rover können Sie nach Sprache filtern. San Salvario und Crocetta haben aufgrund der Expat- und Studierendenbevölkerung die höchste Dichte an englischsprachigen Sittern."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat kost huisdierenzorg in Turijn?",
+          "a": "Typische prijzen: 15-28 €/nacht overnachtingsopvang thuis, 22-40 €/dag dagopvang, 10-15 € voor een uitlaatronde van een uur. Iets hoger tijdens grote festivals."
+        },
+        {
+          "q": "Zijn huisdieroppassers in Turijn verzekerd?",
+          "a": "Pawshake en Holidog nemen in elke boeking een aansprakelijkheids- en dierenartsspoeddekking op."
+        },
+        {
+          "q": "Vind ik in Turijn een Engelssprekende oppasser?",
+          "a": "Ja, bij Pawshake en Rover kun je filteren op taal. San Salvario en Crocetta hebben door de expat- en studentenpopulatie de hoogste dichtheid aan Engelssprekende oppassers."
         }
       ]
     }

@@ -41,9 +41,13 @@
           "tipPt": "So aceita dinheiro. Sente-se na esplanada com o seu cao aos pes",
           "googleMapsUrl": "https://maps.google.com/?q=Bistro+More+Sibenik",
           "descriptionDe": "Ein entspanntes Bistro am Meer auf der Hafenpromenade, das frische Meeresfrüchte der Adria und Brunch serviert. Reisende berichten, dass es wirklich hundefreundlich ist und das Personal einen Wassernapf auf die Terrasse am Wasser bringt.",
+          "descriptionNl": "Een ontspannen bistro aan zee op de havenpromenade, die verse Adriatische zeevruchten en brunch serveert. Reizigers melden dat het echt hondvriendelijk is en dat het personeel een waterbakje naar het terras aan het water brengt.",
           "petPolicyDe": "Hunde willkommen auf der Terrasse am Wasser",
+          "petPolicyNl": "Honden welkom op het terras aan het water",
           "mustTryDe": "Gegrillter Oktopus, Goldbrasse, frische Miesmuscheln",
-          "tipDe": "Nur Barzahlung. Setzen Sie sich mit Ihrem Hund zu Ihren Füßen auf die Terrasse am Wasser"
+          "mustTryNl": "Gegrilde octopus, dorade, verse mosselen",
+          "tipDe": "Nur Barzahlung. Setzen Sie sich mit Ihrem Hund zu Ihren Füßen auf die Terrasse am Wasser",
+          "tipNl": "Alleen contant betalen. Ga met je hond aan je voeten zitten op het terras aan het water"
         },
         {
           "name": "Konoba Dalmatino",
@@ -71,9 +75,13 @@
           "tipPt": "Peca uma mesa na esplanada. E uma konoba local descontraida, nao um sitio requintado",
           "googleMapsUrl": "https://maps.google.com/?q=Konoba+Dalmatino+Sibenik",
           "descriptionDe": "Eine traditionelle dalmatinische Konoba in einer Seitengasse der Altstadt mit einer Kopfsteinpflasterterrasse und herzhaften gegrillten Fischportionen. Hunde sind auf den Außensitzplätzen im Einklang mit dem lokalen Terrassenbrauch im Allgemeinen willkommen. Bei Ankunft bestätigen lassen.",
+          "descriptionNl": "Een traditionele Dalmatische konoba in een zijstraatje van de oude stad, met een terras van kasseien en stevige porties gegrilde vis. Honden zijn over het algemeen welkom op de buitenzitplaatsen, in lijn met het lokale terrasgebruik. Bevestig het bij aankomst.",
           "petPolicyDe": "Hunde auf der Terrasse im Allgemeinen willkommen. Bei Ankunft bestätigen",
+          "petPolicyNl": "Honden over het algemeen welkom op het terras. Bevestig bij aankomst",
           "mustTryDe": "Gegrillter Tintenfisch (lignje na zaru), frische Sardinen",
-          "tipDe": "Bitten Sie um einen Terrassentisch. Dies ist eine legere lokale Konoba, kein herausgeputztes Lokal"
+          "mustTryNl": "Gegrilde inktvis (lignje na zaru), verse sardines",
+          "tipDe": "Bitten Sie um einen Terrassentisch. Dies ist eine legere lokale Konoba, kein herausgeputztes Lokal",
+          "tipNl": "Vraag om een terrastafel. Dit is een informele lokale konoba, geen opgepoetste tent"
         },
         {
           "name": "Pelegrini",
@@ -101,9 +109,13 @@
           "tipPt": "Reserve com muita antecedencia e ligue a confirmar antes de levar um cao. Na epoca quente janta-se na escadaria com vista para a catedral",
           "googleMapsUrl": "https://maps.google.com/?q=Pelegrini+Sibenik",
           "descriptionDe": "Sibeniks Restaurant mit Michelin-Stern, untergebracht in einem Renaissance-Palazzo direkt neben der Kathedrale des Heiligen Jakobus, das moderne dalmatinische Degustationsmenüs serviert. Dies ist formelles Fine Dining, kein Ort für Hunde, aber die Außentreppenterrasse kann bei vorheriger Anfrage einen kleinen, ruhigen Hund aufnehmen.",
+          "descriptionNl": "Sibeniks restaurant met Michelinster, gevestigd in een renaissancepaleis vlak naast de kathedraal van Sint-Jacobus, dat moderne Dalmatische degustatiemenu's serveert. Dit is formeel fine dining, geen plek voor honden, maar het buitenterras op de trap kan na een vooraf gevraagd verzoek een kleine, rustige hond opvangen.",
           "petPolicyDe": "Fine Dining. Ein kleiner, ruhiger Hund nur nach vorheriger Absprache",
+          "petPolicyNl": "Fine dining. Een kleine, rustige hond alleen na voorafgaand overleg",
           "mustTryDe": "4- oder 6-Gänge-dalmatinisches Degustationsmenü",
-          "tipDe": "Reservieren Sie weit im Voraus und rufen Sie zur Bestätigung an, bevor Sie einen Hund mitbringen. In der warmen Jahreszeit befinden sich die Plätze auf der Treppe mit Blick auf die Kathedrale"
+          "mustTryNl": "4- of 6-gangen Dalmatisch degustatiemenu",
+          "tipDe": "Reservieren Sie weit im Voraus und rufen Sie zur Bestätigung an, bevor Sie einen Hund mitbringen. In der warmen Jahreszeit befinden sich die Plätze auf der Treppe mit Blick auf die Kathedrale",
+          "tipNl": "Reserveer ruim van tevoren en bel ter bevestiging voordat je een hond meebrengt. In het warme seizoen bevinden de plekken zich op de trap met uitzicht op de kathedraal"
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Sibenik",
+      "titleNl": "Huisdiervriendelijke restaurants in Sibenik",
       "introDe": "Sibeniks Gastronomieszene erstreckt sich über steingepflasterte Gassen der Altstadt und entlang der Riva-Uferpromenade, wo die dalmatinische Terrassenkultur wohlerzogene, angeleinte Hunde zu einem vertrauten Anblick macht. Die meisten Konobas und Bistros am Meer heißen Hunde auf ihren Außenterrassen willkommen, und in der intensiven dalmatinischen Sommerhitze findet man leicht einen schattigen Tisch mit einem Wassernapf.",
+      "introNl": "Sibeniks horecascene strekt zich uit over stenen straatjes van de oude stad en langs de Riva-kadepromenade, waar de Dalmatische terrascultuur van goed opgevoede, aangelijnde honden een vertrouwd beeld maakt. De meeste konoba's en bistro's aan zee heten honden welkom op hun buitenterrassen, en in de intense Dalmatische zomerhitte vind je gemakkelijk een schaduwrijke tafel met een waterbakje.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Sibenik erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Ist es im Sommer zu heiß, um mit einem Hund draußen in Sibenik zu essen?",
           "a": "Mittags im Juli und August kann es auf den Steinterrassen sehr heiß werden. Essen Sie am frühen Abend, wählen Sie einen schattigen Tisch am Wasser und halten Sie stets Wasser für Ihren Hund bereit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Sibenik?",
+          "a": "Ja, op buitenterrassen. De Dalmatische terrascultuur heet aangelijnde honden welkom in de meeste konoba's aan zee en in de oude stad. Geklimatiseerde binnenruimtes en formele fine-diningzaken kunnen weigeren, vraag dus altijd van tevoren."
+        },
+        {
+          "q": "Waar kan ik met mijn hond eten in de buurt van de kadepromenade van Sibenik?",
+          "a": "Aan de Riva-promenade zijn meerdere bistro's aan zee met terrassen, zoals Bistro More, die honden welkom heten. Ga buiten zitten, kies in de zomer een schaduwrijke tafel en vraag het personeel om een waterbakje."
+        },
+        {
+          "q": "Is het in de zomer te heet om met een hond buiten te eten in Sibenik?",
+          "a": "Rond het middaguur in juli en augustus kan het op de stenen terrassen erg heet worden. Eet vroeg in de avond, kies een schaduwrijke tafel aan het water en houd altijd water voor je hond bij de hand."
         }
       ]
     },
@@ -229,8 +257,11 @@
           "tipPt": "Entre por Skradin e va a pe ou de barco. Leve agua e uma trela. Confirme as regras caninas da epoca com o parque antes de ir",
           "googleMapsUrl": "https://maps.google.com/?q=Krka+National+Park",
           "descriptionDe": "Etwa 15 km von Sibenik entfernt über die Eingänge Skradin oder Lozovac, ist Krka ein spektakulärer Flusspark mit Wasserfällen und Holzstegen. Hunde sind jederzeit an der Leine im gesamten Park erlaubt, sind jedoch auf der Insel Visovac und in ihrem Kloster verboten und dürfen nicht in den Flüssen oder Wasserfällen schwimmen.",
+          "descriptionNl": "Ongeveer 15 km van Sibenik, via de ingangen Skradin of Lozovac, is Krka een spectaculair rivierpark met watervallen en houten vlonderpaden. Honden zijn te allen tijde aan de lijn toegestaan in het hele park, maar zijn verboden op het eiland Visovac en in het klooster daar, en mogen niet zwemmen in de rivieren of watervallen.",
           "offLeashAreaDe": "Keine. Hunde müssen im gesamten Park jederzeit angeleint sein",
-          "tipDe": "Betreten Sie den Park über Skradin und gehen Sie zu Fuß oder nehmen Sie das Boot. Bringen Sie Wasser und eine Leine mit. Bestätigen Sie die aktuellen saisonalen Hunderegeln vor Ihrem Besuch beim Park"
+          "offLeashAreaNl": "Geen. Honden moeten te allen tijde in het hele park aangelijnd zijn",
+          "tipDe": "Betreten Sie den Park über Skradin und gehen Sie zu Fuß oder nehmen Sie das Boot. Bringen Sie Wasser und eine Leine mit. Bestätigen Sie die aktuellen saisonalen Hunderegeln vor Ihrem Besuch beim Park",
+          "tipNl": "Ga het park binnen via Skradin en loop of neem de boot. Neem water en een lijn mee. Bevestig de actuele seizoensgebonden hondenregels bij het park voor je bezoek"
         },
         {
           "name": "St Michael's Fortress (Tvrdava sv. Mihovila)",
@@ -252,8 +283,11 @@
           "tipPt": "Suba cedo ou ao por do sol para evitar o calor do meio-dia. Os degraus e muros de pedra ficam muito quentes no verao",
           "googleMapsUrl": "https://maps.google.com/?q=St+Michael+Fortress+Sibenik",
           "descriptionDe": "Sibeniks mittelalterliche Klippenfestung krönt die Altstadt mit weitem Blick über die Adria und die steinbedeckten Gassen darunter. Das Gelände ist offiziell haustierfreundlich, Hunde sind während des Besuchs an der Leine erlaubt, erreichbar über einen steilen Aufstieg auf historischen Treppen.",
+          "descriptionNl": "Sibeniks middeleeuwse klifvesting kroont de oude stad met een weids uitzicht over de Adriatische Zee en de stenen straatjes eronder. Het terrein is officieel huisdiervriendelijk, honden zijn tijdens het bezoek aan de lijn toegestaan, bereikbaar via een steile klim op historische trappen.",
           "offLeashAreaDe": "Keine. Hunde während des Besuchs an der Leine erlaubt",
-          "tipDe": "Steigen Sie früh oder bei Sonnenuntergang auf, um die Mittagshitze zu vermeiden. Steinstufen und Mauern werden im Sommer unter den Pfoten sehr heiß"
+          "offLeashAreaNl": "Geen. Honden zijn tijdens het bezoek aan de lijn toegestaan",
+          "tipDe": "Steigen Sie früh oder bei Sonnenuntergang auf, um die Mittagshitze zu vermeiden. Steinstufen und Mauern werden im Sommer unter den Pfoten sehr heiß",
+          "tipNl": "Klim vroeg of bij zonsondergang om de middaghitte te vermijden. Stenen treden en muren worden in de zomer erg heet onder de poten"
         },
         {
           "name": "Forest Park Subicevac",
@@ -275,8 +309,11 @@
           "tipPt": "Escolha Subicevac em vez das fortalezas nos dias quentes. A sombra e os trilhos fazem toda a diferenca",
           "googleMapsUrl": "https://maps.google.com/?q=Subicevac+Sibenik",
           "descriptionDe": "Ein kostenloser, schattiger städtischer Grünraum etwa 10 bis 15 Minuten vom Zentrum entfernt, mit bewaldeten Wegen, Picknickplätzen und abwechslungsreichem Gelände. Hunde sind an der Leine willkommen, und der Baumbestand macht ihn zur besten Option für heiße Tage im Vergleich zu den ungeschützten Festungen.",
+          "descriptionNl": "Een gratis, schaduwrijke stedelijke groene ruimte op ongeveer 10 tot 15 minuten van het centrum, met beboste paden, picknickplekken en gevarieerd terrein. Honden zijn welkom aan de lijn, en de bomen maken het de beste optie voor hete dagen in vergelijking met de onbeschutte vestingen.",
           "offLeashAreaDe": "Keine ausgewiesene. Halten Sie Ihren Hund an der Leine",
-          "tipDe": "Wählen Sie an heißen Sommertagen Subicevac statt der Festungen. Der Schatten und die Wege machen einen echten Unterschied"
+          "offLeashAreaNl": "Geen aangewezen. Houd je hond aan de lijn",
+          "tipDe": "Wählen Sie an heißen Sommertagen Subicevac statt der Festungen. Der Schatten und die Wege machen einen echten Unterschied",
+          "tipNl": "Kies op hete zomerdagen voor Subicevac in plaats van de vestingen. De schaduw en de paden maken een echt verschil"
         }
       ],
       "tipsEn": [
@@ -356,7 +393,9 @@
         }
       ],
       "titleDe": "Hundeparks & Spaziergänge in Sibenik",
+      "titleNl": "Hondenparken en wandelingen in Sibenik",
       "introDe": "Sibeniks schönste Spaziergänge führen durch seine historischen Festungen und in Richtung des nahegelegenen grünen Krka-Flusstals. Hunde sind an der Leine in allen drei Stadtfestungen und im berühmten Nationalpark Krka willkommen, es gibt jedoch keinen Freilauf-Hundepark, halten Sie Ihren Hund daher durchgehend an der Leine.",
+      "introNl": "Sibeniks mooiste wandelingen voeren door de historische vestingen en richting het nabijgelegen groene Krka-riviervallei. Honden zijn aan de lijn welkom in alle drie de stadsvestingen en in het beroemde Nationaal Park Krka, maar er is geen losloophondenpark, houd je hond dus overal aan de lijn.",
       "faqsDe": [
         {
           "q": "Sind Hunde im Nationalpark Krka erlaubt?",
@@ -369,6 +408,20 @@
         {
           "q": "Gibt es einen Freilauf-Hundepark in Sibenik?",
           "a": "Nein. Es gibt keinen ausgewiesenen Freilauf-Hundepark in der Stadt. Das kroatische Gesetz verlangt, dass Hunde in öffentlichen Räumen an der Leine gehalten werden, planen Sie daher Spaziergänge an der Leine bei den Festungen, im Waldpark Subicevac oder in Krka."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in Nationaal Park Krka?",
+          "a": "Ja. Honden zijn te allen tijde aan de lijn toegestaan in het hele Nationaal Park Krka. Ze zijn niet toegestaan op het eiland Visovac en in het klooster van Krka, en mogen niet zwemmen in de rivieren of watervallen. Bevestig de actuele seizoensregels bij het park voor je bezoek."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen naar de vestingen van Sibenik?",
+          "a": "Ja. De vestingen St. Michael, Barone en St. Johannes zijn allemaal officieel huisdiervriendelijk, honden zijn tijdens het bezoek aan de lijn toegestaan. De enige uitzondering is het cafégedeelte Bistro Barone binnen de vesting Barone."
+        },
+        {
+          "q": "Is er een losloophondenpark in Sibenik?",
+          "a": "Nee. Er is geen aangewezen losloophondenpark in de stad. De Kroatische wet vereist dat honden in openbare ruimtes aan de lijn worden gehouden, plan dus wandelingen aan de lijn bij de vestingen, in het bospark Subicevac of in Krka."
         }
       ]
     },
@@ -494,7 +547,9 @@
         }
       ],
       "titleDe": "Mit Haustieren unterwegs in Sibenik",
+      "titleNl": "Onderweg met huisdieren in Sibenik",
       "introDe": "Sibenik ist kompakt und lässt sich mit einem Hund am besten zu Fuß erkunden, aber die umliegenden Inseln und Tagesausflüge nach Krka bedeuten oft eine Fähre oder einen Katamaran. In ganz Kroatien gilt allgemein die Regel, dass Hunde in öffentlichen Verkehrsmitteln angeleint und mit Maulkorb versehen sein müssen, wobei kleine Hunde in einer Transportbox reisen, packen Sie daher beides ein, bevor Sie aufbrechen.",
+      "introNl": "Sibenik is compact en het best te voet te verkennen met een hond, maar de omliggende eilanden en dagtochten naar Krka betekenen vaak een veerboot of catamaran. In heel Kroatië geldt over het algemeen de regel dat honden in het openbaar vervoer aangelijnd en gemuilkorfd moeten zijn, waarbij kleine honden in een draagtas reizen, pak dus beide in voordat je vertrekt.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund auf eine Fähre von Sibenik mitnehmen?",
@@ -507,6 +562,20 @@
         {
           "q": "Sind Hunde in den Stadtbussen von Sibenik erlaubt?",
           "a": "Im Allgemeinen nicht, außer Assistenzhunde. Die Zulassung liegt im Ermessen des Fahrers, und lokale Stadtbusse akzeptieren selten Haustiere. Um sich mit einem Hund fortzubewegen, sind Gehen, Taxis oder Uber Pet zuverlässigere Optionen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen op een veerboot vanuit Sibenik?",
+          "a": "Ja. Jadrolinija staat honden toe met muilkorf en lijn. Kleine honden tot 8 kg reizen gratis in een draagtas in de salon, grotere honden reizen gratis op het open dek van autoveerboten. Op snelle catamarans moeten grotere honden tegen betaling en met voorafgaande reservering gebruikmaken van een aangewezen dekbox."
+        },
+        {
+          "q": "Heb ik een dierenpaspoort nodig om mijn hond mee te nemen naar Kroatië?",
+          "a": "EU-huisdieren hebben een geldig EU-dierenpaspoort met microchip nodig en een rabiësvaccinatie die na het chippen is toegediend. Niet-EU-huisdieren hebben een EU-diergezondheidscertificaat nodig. Een lintwormbehandeling is niet vereist voor Kroatië. Controleer de actuele regels voor je reis."
+        },
+        {
+          "q": "Zijn honden toegestaan in de stadsbussen van Sibenik?",
+          "a": "Over het algemeen niet, behalve assistentiehonden. De toelating ligt ter beoordeling van de chauffeur, en lokale stadsbussen accepteren zelden huisdieren. Om je met een hond te verplaatsen zijn lopen, taxi's of Uber Pet betrouwbaardere opties."
         }
       ]
     },
@@ -592,7 +661,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände bei Sibenik",
+      "titleNl": "Hondvriendelijke stranden bij Sibenik",
       "introDe": "Die Küste von Sibenik verfügt über eine wachsende Zahl eigener Hundestrände (pasja plaza), an denen Hunde schwimmen können, die meisten eine kurze Fahrt vom Zentrum entfernt. Der Hauptstadtstrand Banj ist nicht hundefreundlich, fahren Sie stattdessen nach Jadrija, zum Hundestrand des Resorts Solaris oder zum offiziellen Hundestrand im nahegelegenen Vodice. Hundestrände sind während der Sommersaison geöffnet.",
+      "introNl": "De kust van Sibenik telt een groeiend aantal eigen hondenstranden (pasja plaza), waar honden kunnen zwemmen, de meeste op korte rijafstand van het centrum. Het belangrijkste stadsstrand Banj is niet hondvriendelijk, ga in plaats daarvan naar Jadrija, naar het hondenstrand van resort Solaris of naar het officiële hondenstrand in het nabijgelegen Vodice. Hondenstranden zijn geopend tijdens het zomerseizoen.",
       "faqsDe": [
         {
           "q": "Gibt es einen Hundestrand in der Nähe von Sibenik?",
@@ -601,6 +672,16 @@
         {
           "q": "Können Hunde am Strand Banj in Sibenik schwimmen?",
           "a": "Nein. Banj, der Hauptstrand neben der Altstadt, ist kein Hundestrand, und Hunde sind nicht erlaubt. Bringen Sie Ihren Hund stattdessen nach Jadrija, zum Pet Beach in Solaris oder zum offiziellen Hundestrand in Vodice, alle eine kurze Fahrt entfernt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een hondenstrand in de buurt van Sibenik?",
+          "a": "Ja, meerdere. Het Pet Beach bij resort Solaris / Amadria Park (6 km) en het hondenstrand Jadrija (12 km) laten beide honden zwemmen, en er is een officieel hondenstrand in het nabijgelegen Vodice. Het belangrijkste stadsstrand Banj is niet hondvriendelijk."
+        },
+        {
+          "q": "Kunnen honden zwemmen op het strand Banj in Sibenik?",
+          "a": "Nee. Banj, het hoofdstrand naast de oude stad, is geen hondenstrand, en honden zijn niet toegestaan. Breng je hond in plaats daarvan naar Jadrija, naar het Pet Beach in Solaris of naar het officiële hondenstrand in Vodice, allemaal op korte rijafstand."
         }
       ]
     },
@@ -650,8 +731,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Veterinarska+ambulanta+MORE+Sibenik",
           "photo": "",
           "hoursDe": "Mo-Fr 08:00-20:00",
+          "hoursNl": "Ma-vr 08:00-20:00",
           "descriptionDe": "Eine der größten Kleintierkliniken Kroatiens, die Chirurgie, Innere Medizin, Zahnheilkunde, Augenheilkunde, Exotenmedizin und tierärztliche Notfallversorgung anbietet, mit fortschrittlicher Bildgebung einschließlich CT und MRT. Sie ist die zuverlässigste geprüfte Notfalloption in Sibenik. Eine hauseigene Apotheke ist unter einer separaten Nummer erreichbar.",
-          "tipDe": "Speichern Sie die Nummer vor Ihrer Reise in Ihrem Telefon. +385 22 33 33 22. Rufen Sie immer vorher an, damit man sich auf Ihre Ankunft vorbereiten kann"
+          "descriptionNl": "Een van de grootste kleindierklinieken van Kroatië, die chirurgie, interne geneeskunde, tandheelkunde, oogheelkunde, exotenzorg en dierenartsspoedzorg aanbiedt, met geavanceerde beeldvorming waaronder CT en MRI. Het is de meest betrouwbare geverifieerde spoedoptie in Sibenik. Een eigen apotheek is bereikbaar via een apart nummer.",
+          "tipDe": "Speichern Sie die Nummer vor Ihrer Reise in Ihrem Telefon. +385 22 33 33 22. Rufen Sie immer vorher an, damit man sich auf Ihre Ankunft vorbereiten kann",
+          "tipNl": "Sla het nummer op in je telefoon voor je reis. +385 22 33 33 22. Bel altijd van tevoren zodat ze zich kunnen voorbereiden op je komst"
         },
         {
           "name": "Veterinarska stanica Sibenik",
@@ -675,8 +759,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Veterinarska+stanica+Sibenik",
           "photo": "",
           "hoursDe": "Vor Ort bestätigen",
+          "hoursNl": "Ter plaatse bevestigen",
           "descriptionDe": "Die etablierte städtische Tierarztstation, die die Region Sibenik betreut. In verschiedenen Verzeichnissen werden widersprüchliche Adressen angegeben, daher sollten der genaue Standort und die Telefonnummer vor Ort bestätigt werden.",
-          "tipDe": "Prüfen Sie die aktuelle Adresse und Telefonnummer vor Ort oder über die Touristeninformation, bevor Sie sich auf diesen Eintrag verlassen"
+          "descriptionNl": "Het gevestigde stedelijke dierenartsstation dat de regio Sibenik bedient. Verschillende gidsen geven tegenstrijdige adressen op, dus de exacte locatie en het telefoonnummer moeten ter plaatse worden bevestigd.",
+          "tipDe": "Prüfen Sie die aktuelle Adresse und Telefonnummer vor Ort oder über die Touristeninformation, bevor Sie sich auf diesen Eintrag verlassen",
+          "tipNl": "Controleer het actuele adres en telefoonnummer ter plaatse of via de toeristeninformatie, voordat je op deze vermelding vertrouwt"
         },
         {
           "name": "Sibenske sape (animal welfare)",
@@ -700,8 +787,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Sibenske+sape+Sibenik",
           "photo": "",
           "hoursDe": "Siehe Website",
+          "hoursNl": "Zie website",
           "descriptionDe": "Ein lokaler Tierschutzverein, der mit streunenden Tieren und Rettungen in der Region Sibenik arbeitet. Es handelt sich nicht um eine klinische Tierarztpraxis, kann aber eine nützliche lokale Anlaufstelle für tierbezogene Hilfe sein.",
-          "tipDe": "Gehen Sie bei einem medizinischen Notfall zu Veterinarska ambulanta MORE. Nutzen Sie diesen Verein für Fragen zu Tierschutz oder Streunern"
+          "descriptionNl": "Een lokale dierenbeschermingsvereniging die werkt met zwerfdieren en reddingen in de regio Sibenik. Het is geen klinische dierenartspraktijk, maar kan een nuttig lokaal aanspreekpunt zijn voor dierengerelateerde hulp.",
+          "tipDe": "Gehen Sie bei einem medizinischen Notfall zu Veterinarska ambulanta MORE. Nutzen Sie diesen Verein für Fragen zu Tierschutz oder Streunern",
+          "tipNl": "Ga bij een medisch noodgeval naar Veterinarska ambulanta MORE. Gebruik deze vereniging voor vragen over dierenwelzijn of zwerfdieren"
         }
       ],
       "faqsEn": [
@@ -745,7 +835,9 @@
         }
       ],
       "titleDe": "Notfalltierärzte in Sibenik, Tierarztpraxen & Haustierpflege",
+      "titleNl": "Spoeddierenartsen in Sibenik, dierenartspraktijken en huisdierenzorg",
       "introDe": "Sibenik verfügt über eine solide tierärztliche Versorgung, darunter eine der größten Kleintierkliniken Kroatiens. Es gibt keine landesweite Notfall-Tierarzt-Hotline in Kroatien, daher wird die Versorgung außerhalb der Öffnungszeiten von einzelnen Kliniken übernommen. EU-registrierte Haustiere benötigen einen gültigen Heimtierausweis und eine aktuelle Tollwutimpfung, um nach Kroatien einzureisen.",
+      "introNl": "Sibenik heeft een solide dierenartsvoorziening, waaronder een van de grootste kleindierklinieken van Kroatië. Er is geen landelijke spoeddierenarts-hotline in Kroatië, dus zorg buiten openingstijden wordt door individuele klinieken opgevangen. EU-geregistreerde huisdieren hebben een geldig dierenpaspoort en een actuele rabiësvaccinatie nodig om Kroatië binnen te reizen.",
       "faqsDe": [
         {
           "q": "Gibt es einen Notfalltierarzt in Sibenik?",
@@ -754,6 +846,16 @@
         {
           "q": "Benötige ich einen Heimtierausweis, um meinen Hund nach Kroatien zu bringen?",
           "a": "EU-registrierte Haustiere benötigen einen gültigen EU-Heimtierausweis mit Mikrochip und aktueller Tollwutimpfung, die nach dem Chippen verabreicht wurde. Nicht-EU-Haustiere benötigen eine EU-Tiergesundheitsbescheinigung. Eine Bandwurmbehandlung ist für Kroatien nicht erforderlich. Prüfen Sie vor der Reise die aktuellen Regeln."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een spoeddierenarts in Sibenik?",
+          "a": "Ja. Veterinarska ambulanta MORE (Ul. Velimira Skorpika 19, +385 22 33 33 22) is een van de grootste kleindierklinieken van Kroatië en adverteert met dierenartsspoedzorg. Kroatië heeft geen landelijke spoeddierenarts-hotline, bel dus altijd rechtstreeks de kliniek voordat je aankomt."
+        },
+        {
+          "q": "Heb ik een dierenpaspoort nodig om mijn hond mee te nemen naar Kroatië?",
+          "a": "EU-geregistreerde huisdieren hebben een geldig EU-dierenpaspoort met microchip nodig en een actuele rabiësvaccinatie die na het chippen is toegediend. Niet-EU-huisdieren hebben een EU-diergezondheidscertificaat nodig. Een lintwormbehandeling is niet vereist voor Kroatië. Controleer de actuele regels voor je reis."
         }
       ]
     },
@@ -865,7 +967,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Tipps für Sibenik",
+      "titleNl": "Hondvriendelijke tips voor Sibenik",
       "introDe": "Sibenik belohnt Hundehalter, die sich auf die dalmatinische Sommerhitze und die steile Steinaltstadt der Stadt einstellen. Hunde sind an der Leine in den Festungen, an der Riva und auf den meisten Terrassen willkommen, aber die heißesten Stunden und der sonnenaufgeheizte Stein erfordern Spaziergänge am frühen Morgen und Abend.",
+      "introNl": "Sibenik beloont hondenbezitters die zich aanpassen aan de Dalmatische zomerhitte en de steile stenen oude stad. Honden zijn aan de lijn welkom in de vestingen, aan de Riva en op de meeste terrassen, maar de heetste uren en de door de zon opgewarmde steen vragen om wandelingen vroeg in de ochtend en 's avonds.",
       "faqsDe": [
         {
           "q": "Ist Sibenik gut für Hunde geeignet?",
@@ -878,6 +982,20 @@
         {
           "q": "Kann mein Hund in die Kathedrale von Sibenik mitkommen?",
           "a": "Mit ziemlicher Sicherheit nicht. Die Kathedrale des Heiligen Jakobus ist eine aktive Kirche, und Hunde sind im Inneren nicht erlaubt, obwohl der Kathedralenplatz und die umliegende Altstadt im Freien hundefreundlich sind. Planen Sie Innenbesuche für Zeiten ein, in denen Ihr Hund sicher ruhen kann."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Sibenik goed geschikt voor honden?",
+          "a": "Ja. Honden zijn aan de lijn welkom in de vestingen, de oude stad, aan de Riva en op de meeste terrassen, met meerdere hondenstranden en Nationaal Park Krka binnen comfortabel bereik. De belangrijkste aandachtspunten zijn de zomerhitte en de lijn- en muilkorfplicht in het openbaar vervoer."
+        },
+        {
+          "q": "Wat moet ik inpakken voor een reis naar Sibenik met mijn hond?",
+          "a": "Neem een EU-dierenpaspoort mee, een lijn, een muilkorf voor vervoer, poepzakjes en genoeg water. Een inklapbare drinkbak en pootbescherming of zorgvuldige planning bij hete steen zijn in de zomer onmisbaar."
+        },
+        {
+          "q": "Mag mijn hond mee naar de kathedraal van Sibenik?",
+          "a": "Vrijwel zeker niet. De kathedraal van Sint-Jacobus is een actieve kerk, en honden zijn binnen niet toegestaan, hoewel het kathedraalplein en de omliggende oude stad buiten hondvriendelijk zijn. Plan binnenbezoeken voor momenten waarop je hond veilig kan rusten."
         }
       ]
     },
@@ -918,10 +1036,15 @@
           "tipPt": "Compre o bilhete combinado se visitar duas ou mais fortalezas. Suba cedo ou ao por do sol para evitar a pedra quente",
           "googleMapsUrl": "https://maps.google.com/?q=St+Michael+Fortress+Sibenik",
           "descriptionDe": "Sibeniks zwei meistbesuchte Festungen krönen die Altstadt mit Panoramablick auf die Adria, einer Klippenbühne für Sommerkonzerte bei St. Michael und einer Augmented-Reality-Multimedia-Erfahrung in der sternförmigen Festung Barone. Beide sind offiziell haustierfreundlich, Hunde sind an der Leine erlaubt, die einzige Ausnahme ist der Cafébereich Bistro Barone.",
+          "descriptionNl": "Sibeniks twee meest bezochte vestingen kronen de oude stad met panoramisch uitzicht op de Adriatische Zee, een klifpodium voor zomerconcerten bij St. Michael, en een augmented-reality-multimedia-ervaring in de stervormige vesting Barone. Beide zijn officieel huisdiervriendelijk, honden zijn aan de lijn toegestaan, de enige uitzondering is het cafégedeelte Bistro Barone.",
           "dogPolicyDe": "Hunde an der Leine erlaubt. Nicht im Bereich Bistro Barone",
+          "dogPolicyNl": "Honden aan de lijn toegestaan. Niet in het gedeelte Bistro Barone",
           "admissionFeeDe": "Einzelne Festung ~11,50 EUR Erwachsene. Kombiticket drei Festungen ~15 EUR. Unter 7 Jahren kostenlos",
+          "admissionFeeNl": "Losse vesting ~11,50 EUR volwassenen. Combiticket drie vestingen ~15 EUR. Onder 7 jaar gratis",
           "openingHoursDe": "Barone ~09:00-20:00 im Sommer. Kürzer außerhalb der Saison. Offizielle Website prüfen",
-          "tipDe": "Kaufen Sie das Kombiticket, wenn Sie zwei oder mehr Festungen besuchen. Steigen Sie früh oder bei Sonnenuntergang auf, um die Hitze auf dem Stein zu vermeiden"
+          "openingHoursNl": "Barone ~09:00-20:00 in de zomer. Korter buiten het seizoen. Officiële website controleren",
+          "tipDe": "Kaufen Sie das Kombiticket, wenn Sie zwei oder mehr Festungen besuchen. Steigen Sie früh oder bei Sonnenuntergang auf, um die Hitze auf dem Stein zu vermeiden",
+          "tipNl": "Koop het combiticket als je twee of meer vestingen bezoekt. Klim vroeg of bij zonsondergang om de hitte op de steen te vermijden"
         },
         {
           "name": "Old Town Lanes & Riva Waterfront",
@@ -950,10 +1073,15 @@
           "tipPt": "Passeie cedo ou a hora dourada. As ingremes escadarias de pedra ficam muito quentes no verao",
           "googleMapsUrl": "https://maps.google.com/?q=Sibenik+Old+Town+Riva",
           "descriptionDe": "Sibeniks mittelalterlicher Kern ist ein Labyrinth aus steilen Steintreppen, verborgenen Plätzen und dem Kathedralenplatz, das sich zur lebendigen Riva-Promenade am Hafen öffnet. Hunde sind an der Leine in diesen öffentlichen Außenräumen durchgehend willkommen, und das goldene Abendlicht auf dem Stein ist die beste Zeit für einen Spaziergang.",
+          "descriptionNl": "Sibeniks middeleeuwse kern is een labyrint van steile stenen trappen, verborgen pleinen en het kathedraalplein, dat uitkomt op de levendige Riva-havenpromenade. Honden zijn aan de lijn overal welkom in deze openbare buitenruimtes, en het gouden avondlicht op de steen is de beste tijd voor een wandeling.",
           "dogPolicyDe": "Hunde im Freien an der Leine durchgehend willkommen",
+          "dogPolicyNl": "Honden buiten aan de lijn overal welkom",
           "admissionFeeDe": "Kostenlos",
+          "admissionFeeNl": "Gratis",
           "openingHoursDe": "Öffentlicher Raum, durchgehend geöffnet",
-          "tipDe": "Gehen Sie früh oder zur goldenen Stunde spazieren. Die steilen Steintreppen werden im Sommer unter den Pfoten sehr heiß"
+          "openingHoursNl": "Openbare ruimte, altijd open",
+          "tipDe": "Gehen Sie früh oder zur goldenen Stunde spazieren. Die steilen Steintreppen werden im Sommer unter den Pfoten sehr heiß",
+          "tipNl": "Wandel vroeg of tijdens het gouden uur. De steile stenen trappen worden in de zomer erg heet onder de poten"
         },
         {
           "name": "Krka National Park (day trip)",
@@ -982,10 +1110,15 @@
           "tipPt": "Entre por Skradin e va de barco ou a pe. Leve agua, trela e acaimo para o transporte do parque",
           "googleMapsUrl": "https://maps.google.com/?q=Krka+National+Park",
           "descriptionDe": "Die wichtigste Naturattraktion der Region, Krka ist ein Flusspark mit dramatischen Wasserfällen und hölzernen Stegen etwa 15 km von Sibenik entfernt. Hunde sind an der Leine auf den Wegen durchgehend erlaubt, jedoch nicht auf der Insel Visovac, nicht im Kloster und nicht beim Schwimmen in den Flüssen oder Wasserfällen.",
+          "descriptionNl": "De belangrijkste natuurattractie van de regio, Krka is een rivierpark met dramatische watervallen en houten vlonderpaden op ongeveer 15 km van Sibenik. Honden zijn overal aan de lijn toegestaan op de paden, maar niet op het eiland Visovac, niet in het klooster en niet om te zwemmen in de rivieren of watervallen.",
           "dogPolicyDe": "Hunde an der Leine auf den Wegen erlaubt. Nicht auf der Insel Visovac oder im Kloster",
+          "dogPolicyNl": "Honden aan de lijn toegestaan op de paden. Niet op het eiland Visovac of in het klooster",
           "admissionFeeDe": "Saisonal gestaffeltes Ticket. Aktuellen Preis auf npkrka.hr prüfen",
+          "admissionFeeNl": "Seizoensgebonden gestaffeld ticket. Actuele prijs controleren op npkrka.hr",
           "openingHoursDe": "Täglich, saisonale Öffnungszeiten. Offizielle Website prüfen",
-          "tipDe": "Betreten Sie den Park über Skradin und nehmen Sie das Boot oder gehen Sie zu Fuß. Bringen Sie Wasser, eine Leine und einen Maulkorb für den Transport im Park mit"
+          "openingHoursNl": "Dagelijks, seizoensgebonden openingstijden. Officiële website controleren",
+          "tipDe": "Betreten Sie den Park über Skradin und nehmen Sie das Boot oder gehen Sie zu Fuß. Bringen Sie Wasser, eine Leine und einen Maulkorb für den Transport im Park mit",
+          "tipNl": "Ga het park binnen via Skradin en neem de boot of loop. Neem water, een lijn en een muilkorf mee voor vervoer in het park"
         }
       ],
       "tipsEn": [
@@ -1065,7 +1198,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Sibenik",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Sibenik",
       "introDe": "Sibeniks Sehenswürdigkeiten liegen größtenteils im Freien, was die Stadt mit einem angeleinten Hund wirklich leicht erkundbar macht. Die historischen Festungen sind offiziell haustierfreundlich, und der UNESCO-gelistete Kathedralenplatz, die mittelalterlichen Steingassen und die Riva-Uferpromenade können alle mit Ihrem Hund erkundet werden. Innenräume wie das Kathedraleninnere lassen keine Hunde zu.",
+      "introNl": "Sibeniks bezienswaardigheden liggen grotendeels buiten, wat de stad echt gemakkelijk te verkennen maakt met een aangelijnde hond. De historische vestingen zijn officieel huisdiervriendelijk, en het door UNESCO erkende kathedraalplein, de middeleeuwse stenen straatjes en de Riva-kadepromenade kunnen allemaal met je hond worden verkend. Binnenruimtes zoals het kathedraalinterieur laten geen honden toe.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund zu den Festungen von Sibenik mitnehmen?",
@@ -1078,6 +1213,20 @@
         {
           "q": "Kann ich die Festung St. Nikolaus mit meinem Hund besuchen?",
           "a": "Nein. Haustiere sind bei der Festung St. Nikolaus, dem per Boot erreichbaren UNESCO-Seefort, nicht erlaubt. Sie können sie mit Ihrem Hund weiterhin vom Ufer aus betrachten, zum Beispiel von der Bucht Skar, können aber keinen Hund zur Führung mitbringen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen naar de vestingen van Sibenik?",
+          "a": "Ja. De vestingen St. Michael, Barone en St. Johannes zijn allemaal officieel huisdiervriendelijk, honden zijn tijdens het bezoek aan de lijn toegestaan. De enige uitzondering is het cafégedeelte Bistro Barone. Koop een combiticket als je er meer dan een bezoekt."
+        },
+        {
+          "q": "Zijn honden toegestaan in de kathedraal van Sibenik?",
+          "a": "Honden zijn niet toegestaan binnen in de kathedraal van Sint-Jacobus, een actieve kerk. Het door UNESCO erkende kathedraalplein en de omliggende oude stad zijn echter hondvriendelijke buitenruimtes die je met je hond kunt genieten."
+        },
+        {
+          "q": "Kan ik de vesting St. Nikolaus bezoeken met mijn hond?",
+          "a": "Nee. Huisdieren zijn niet toegestaan bij de vesting St. Nikolaus, het per boot bereikbare UNESCO-zeefort. Je kunt het nog steeds vanaf de kust bekijken met je hond, bijvoorbeeld vanaf de baai Skar, maar je kunt geen hond meenemen op de rondleiding."
         }
       ]
     },
@@ -1112,8 +1261,11 @@
           "tipEs": "La cobertura es a nivel de condado, asi que publica tu solicitud pronto en verano para dar tiempo a los cuidadores locales a responder",
           "tipPt": "A cobertura e ao nivel do condado, por isso publique o seu pedido cedo no verao para dar tempo aos cuidadores locais para responderem",
           "descriptionDe": "PetBacker ist eine internationale Plattform für Haustierbetreuung, die die Gespanschaft Sibenik-Knin abdeckt und Reisende mit lokalen Sittern für Unterbringung, Haussitting, Gassigehen, Tagesbetreuung und Haustiertaxi verbindet. Sie stellen Ihre Anfrage ein, und Sitter bieten darauf, wobei die Preise pro Buchung festgelegt werden statt fixiert zu sein, sodass die Kosten je nach Leistung und Sitter variieren.",
+          "descriptionNl": "PetBacker is een internationaal platform voor huisdierenoppas dat de gespanschap Sibenik-Knin dekt en reizigers verbindt met lokale oppassers voor verblijf, huisoppas, uitlaten, dagopvang en huisdiertaxi. Je plaatst je aanvraag, en oppassers bieden erop, waarbij de prijzen per boeking worden vastgesteld in plaats van vast te staan, dus de kosten variëren per dienst en oppasser.",
           "serviceTypeDe": "App-basierte Buchung. Unterbringung, Betreuung, Gassigehen, Tagesbetreuung, Haustiertaxi",
-          "tipDe": "Die Abdeckung erfolgt auf Gespanschaftsebene, stellen Sie Ihre Anfrage daher im Sommer frühzeitig ein, damit lokale Sitter Zeit zum Antworten haben"
+          "serviceTypeNl": "App-gebaseerd boeken. Verblijf, oppas, uitlaten, dagopvang, huisdiertaxi",
+          "tipDe": "Die Abdeckung erfolgt auf Gespanschaftsebene, stellen Sie Ihre Anfrage daher im Sommer frühzeitig ein, damit lokale Sitter Zeit zum Antworten haben",
+          "tipNl": "De dekking is op gespanschapsniveau, plaats je aanvraag daarom in de zomer vroeg zodat lokale oppassers tijd hebben om te reageren"
         },
         {
           "name": "TrustedHousesitters (Croatia)",
@@ -1135,8 +1287,11 @@
           "tipEs": "Ideal para estancias mas largas. Organiza un cuidador con mucha antelacion, ya que la disponibilidad en Sibenik puede ser escasa",
           "tipPt": "Ideal para estadias mais longas. Organize um cuidador com muita antecedencia, pois a disponibilidade em Sibenik pode ser escassa",
           "descriptionDe": "TrustedHousesitters ist eine mitgliedschaftsbasierte Gemeinschaft, in der geprüfte Sitter in Ihrem Zuhause wohnen und sich um Ihr Haustier kümmern, statt eines bezahlten Dienstes pro Besuch. Es listet Sitter in ganz Kroatien auf, wobei die Verfügbarkeit speziell für Sibenik nicht garantiert ist und am besten weit im Voraus organisiert wird.",
+          "descriptionNl": "TrustedHousesitters is een op lidmaatschap gebaseerde gemeenschap waarbij geverifieerde oppassers bij jou thuis wonen en voor je huisdier zorgen, in plaats van een betaalde dienst per bezoek. Het vermeldt oppassers in heel Kroatië, waarbij de beschikbaarheid specifiek voor Sibenik niet gegarandeerd is en het best ruim van tevoren wordt georganiseerd.",
           "serviceTypeDe": "Mitgliedschaftsbasierte Betreuung im eigenen Zuhause und Haussitting",
-          "tipDe": "Am besten für längere Aufenthalte. Organisieren Sie einen Sitter weit im Voraus, da die Verfügbarkeit speziell für Sibenik gering sein kann"
+          "serviceTypeNl": "Op lidmaatschap gebaseerde oppas bij jou thuis en huisoppas",
+          "tipDe": "Am besten für längere Aufenthalte. Organisieren Sie einen Sitter weit im Voraus, da die Verfügbarkeit speziell für Sibenik gering sein kann",
+          "tipNl": "Het best voor langere verblijven. Organiseer een oppasser ruim van tevoren, omdat de beschikbaarheid specifiek voor Sibenik beperkt kan zijn"
         }
       ],
       "tipsEn": [
@@ -1184,11 +1339,19 @@
         }
       ],
       "titleDe": "Hundesitter & Haustierpflege in Sibenik",
+      "titleNl": "Hondensitters en huisdierenzorg in Sibenik",
       "introDe": "Eigenständige Anlauf-Hundetagesstätten in der Stadt Sibenik sind begrenzt, aber internationale Buchungsplattformen decken das Gebiet ab, und ein historisches Hotel bietet hauseigene Haustierpflege an. Weder Rover noch Pawshake ist in Kroatien tätig, nutzen Sie daher PetBacker oder TrustedHousesitters, um einen Sitter zu organisieren, idealerweise mit Vorlauf in der geschäftigen Sommersaison.",
+      "introNl": "Losstaande inloop-hondendagverblijven in de stad Sibenik zijn beperkt, maar internationale boekingsplatforms dekken het gebied, en een historisch hotel biedt eigen huisdierenzorg aan. Noch Rover, noch Pawshake is actief in Kroatië, gebruik dus PetBacker of TrustedHousesitters om een oppasser te regelen, bij voorkeur ruim op tijd tijdens het drukke zomerseizoen.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Hundesitter in Sibenik?",
           "a": "Nutzen Sie PetBacker, das den Gespanschaft Sibenik-Knin abdeckt, oder TrustedHousesitters für Betreuung im eigenen Zuhause. Rover und Pawshake sind in Kroatien nicht tätig. Einige historische Hotels, wie Armerun, bieten ebenfalls hauseigene Haustierbetreuung an. Buchen Sie im Sommer im Voraus."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe vind ik een hondensitter in Sibenik?",
+          "a": "Gebruik PetBacker, dat de gespanschap Sibenik-Knin dekt, of TrustedHousesitters voor oppas bij jou thuis. Rover en Pawshake zijn niet actief in Kroatië. Sommige historische hotels, zoals Armerun, bieden ook eigen huisdierenoppas aan. Boek in de zomer van tevoren."
         }
       ]
     }

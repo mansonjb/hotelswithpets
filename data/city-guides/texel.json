@@ -41,9 +41,13 @@
           "tipPt": "Faz a visita à cervejaria às 14:00 e almoça na esplanada depois; o pátio apanha o sol da tarde e o passeio pelo dique até ao porto de Oudeschild começa a 100 m a leste.",
           "googleMapsUrl": "https://maps.google.com/?q=Bierbrouwerij+Texel+Oudeschild",
           "descriptionDe": "Die eigene Brauerei und Verkostungsstube der Insel hinter dem Hafen von Oudeschild, seit 1999 in Betrieb und inzwischen Texels bekannteste Adresse für Essen und Trinken. Hunde sind auf der großen Außenterrasse mit Blick auf die Brautanks sowie auf dem Kiesplatz zwischen Brauerei und Deich willkommen; im Proeflokaal sind angeleinte Hunde an den Bartischen erlaubt. Die Küche bietet eine kurze Karte mit Texelaar-Lamm-Burgern, Nordseefisch und Käseplatten, dazu die acht Sorten Texelse Bier vom Fass, darunter das ungefilterte Skuumkoppe.",
+          "descriptionNl": "De eigen brouwerij en proeflokaal van het eiland achter de haven van Oudeschild, actief sinds 1999 en inmiddels de meest herkenbare eet- en drinkbestemming van Texel. Honden zijn welkom op het grote buitenterras met uitzicht op de brouwketels en op het grindplein tussen brouwerij en dijk; in het proeflokaal zijn honden aan de lijn welkom aan de bartafels. De keuken serveert een korte kaart met Texelaar-lamsburgers, Noordzeevis en kaasplanken, allemaal te combineren met de acht soorten Texelse Bier van de tap, waaronder de ongefilterde Skuumkoppe.",
           "petPolicyDe": "Hunde willkommen auf Terrasse, Kiesplatz und an den Bartischen drinnen, angeleint",
+          "petPolicyNl": "Honden welkom op terras, grindplein en aan de bartafels binnen, aan de lijn",
           "mustTryDe": "Skuumkoppe (ungefiltertes Bier), Texelaar-Lamm-Burger, Nordseefisch-Platte",
-          "tipDe": "Nehmen Sie um 14:00 Uhr an der Brauereiführung teil und essen Sie danach auf der Terrasse; der Kiesplatz liegt nachmittags in der Sonne, und der Deichweg zum Hafen von Oudeschild beginnt 100 m östlich."
+          "mustTryNl": "Skuumkoppe (ongefilterd bier), Texelaar-lamsburger, Noordzeevisplank",
+          "tipDe": "Nehmen Sie um 14:00 Uhr an der Brauereiführung teil und essen Sie danach auf der Terrasse; der Kiesplatz liegt nachmittags in der Sonne, und der Deichweg zum Hafen von Oudeschild beginnt 100 m östlich.",
+          "tipNl": "Doe om 14:00 uur de brouwerijtour en lunch daarna op het terras; het grindplein vangt de middagzon en de dijkwandeling naar de haven van Oudeschild begint 100 m oostelijk."
         },
         {
           "name": "Paal 17 Strandpaviljoen",
@@ -71,9 +75,13 @@
           "tipPt": "Estacionamento grátis no parque Badweg, caminha 200 m pelo passadiço entre dunas; chega antes das 18:00 no verão para as mesas do pôr-do-sol.",
           "googleMapsUrl": "https://maps.google.com/?q=Paal+17+Strandpaviljoen+De+Koog+Texel",
           "descriptionDe": "Ein seit Langem bestehender Strandpavillon bei Markierung Paal 17 am Hundestrand von De Koog, mit breiter Holzterrasse zur Nordsee und ruhigem Innenraum mit Reetdach. Hunde sind überall willkommen, Wassernäpfe stehen schon beim Eintreffen bereit, und der Strand davor ist einer der fünf ganzjährigen Freilaufbereiche der Insel. Die Küche setzt auf gegrillten Fisch, Texelaar-Lamm-Spezialitäten und eine lange Liste Apfelkuchen; der Sonnenuntergang hinter dem Pavillon ist die klassische Texel-Postkarte.",
+          "descriptionNl": "Een al lang bestaand strandpaviljoen bij paal 17 op het hondenstrand van De Koog, met een breed houten terras richting de Noordzee en een rustig interieur met rieten dak. Honden zijn overal welkom, waterbakken staan al klaar bij aankomst, en het strand ervoor is een van de vijf loslopgebieden die het hele jaar open zijn op het eiland. De keuken zet in op gegrilde vis, Texelaar-lamsspecials en een lange lijst appeltaarten; de zonsondergang achter het paviljoen is de klassieke Texelse ansichtkaart.",
           "petPolicyDe": "Hunde überall willkommen, Terrasse, Innenraum und Strand davor (ganzjährig ohne Leine)",
+          "petPolicyNl": "Honden overal welkom, terras, interieur en strand ervoor (het hele jaar los)",
           "mustTryDe": "Gegrillter Nordseefisch, Texelaar-Lamm-Eintopf, Apfelkuchen mit Sahne",
-          "tipDe": "Parken Sie kostenlos am Parkplatz Badweg und gehen Sie 200 m über den Bohlenweg durch die Dünen; kommen Sie im Sommer bis 18:00 Uhr für die Sonnenuntergangstische auf der Terrasse."
+          "mustTryNl": "Gegrilde Noordzeevis, Texelaar-lamsstoof, appeltaart met slagroom",
+          "tipDe": "Parken Sie kostenlos am Parkplatz Badweg und gehen Sie 200 m über den Bohlenweg durch die Dünen; kommen Sie im Sommer bis 18:00 Uhr für die Sonnenuntergangstische auf der Terrasse.",
+          "tipNl": "Parkeer gratis bij de parkeerplaats Badweg en loop 200 m over het vlonderpad door de duinen; kom in de zomer voor 18:00 uur voor de tafels op het terras bij zonsondergang."
         },
         {
           "name": "Restaurant Bij Jef",
@@ -101,14 +109,21 @@
           "tipPt": "O campanário de Den Hoorn lança sombra na esplanada a partir das 14:00; reserva a mesa de canto para melhor vista da praça da aldeia.",
           "googleMapsUrl": "https://maps.google.com/?q=Bij+Jef+Den+Hoorn+Texel",
           "descriptionDe": "Ein Gourmetrestaurant mit einem Michelin-Stern im kleinsten der sieben Texeler Dörfer, das ungewöhnlich für seine Kategorie wohlerzogene Hunde mittags auf der Vorderterrasse mit Blick auf den Kirchturm von Den Hoorn zulässt. Küchenchef Jef Schuur bietet ein straffes Degustationsmenü aus Nordsee und Insel mit Texelaar-Lamm, tagesfrischem Fisch der Flotte aus Oudeschild und Erzeugnissen aus dem Küchengarten hinter dem Gasthaus. Reservieren Sie die Terrasse ausdrücklich und erwähnen Sie den Hund bei der Buchung; der Innenraum ist Gästen ohne Haustier vorbehalten.",
+          "descriptionNl": "Een gastronomisch restaurant met 1 Michelinster in het kleinste van Texels zeven dorpen, dat ongebruikelijk voor zijn categorie welopgevoede honden bij de lunch toelaat op het voorterras met uitzicht op de kerktoren van Den Hoorn. Chef Jef Schuur serveert een strak Noordzee-en-eilandmenu met Texelaar-lam, dagverse vis van de vloot uit Oudeschild en producten uit de moestuin achter de herberg. Reserveer expliciet het terras en vermeld de hond bij het boeken; de eetzaal binnen is voorbehouden aan gasten zonder huisdier.",
           "petPolicyDe": "Hunde willkommen auf der Vorderterrasse mittags; Innenbereich nur für Erwachsene ohne Tier",
+          "petPolicyNl": "Honden welkom op het voorterras bij de lunch; binnen eten alleen zonder huisdier",
           "mustTryDe": "Dreigängiges Mittagsmenü, Texelaar-Lamm-Degustation, Tagesfisch-Trio",
-          "tipDe": "Der Kirchturm von Den Hoorn spendet ab 14:00 Uhr Schatten auf der Terrasse; reservieren Sie den Ecktisch für den besten Blick auf den Dorfplatz."
+          "mustTryNl": "Driegangenlunchmenu, Texelaar-lamdegustatie, trio dagverse vis",
+          "tipDe": "Der Kirchturm von Den Hoorn spendet ab 14:00 Uhr Schatten auf der Terrasse; reservieren Sie den Ecktisch für den besten Blick auf den Dorfplatz.",
+          "tipNl": "De kerktoren van Den Hoorn werpt vanaf 14:00 uur schaduw op het terras; reserveer de hoektafel voor het beste uitzicht op het dorpsplein."
         }
       ],
       "titleDe": "Hundefreundliche Restaurants auf Texel, Den Burg & Strandpavillons",
+      "titleNl": "Hondvriendelijke restaurants op Texel, Den Burg & strandpaviljoens",
       "introDe": "Alle sieben Dörfer Texels teilen dieselbe entspannte Wattinsel-Kultur: Hunde schlafen unter den Café-Tischen, Strandpavillons stellen draußen Wassernäpfe bereit, und die Küche setzt auf Texelaar-Lamm (die geschützte Ursprungsrasse der Insel), Nordseefisch und das lokale Skuumkoppe-Bier der Bierbrouwerij Texel. Das gepflasterte Zentrum von Den Burg füllt sich ab dem späten Vormittag mit Terrassen, die Strandpavillons Paal 17 und Paal 9 liegen direkt an den ganzjährigen Hundestränden von De Koog und Den Hoorn, und der Hafen von Oudeschild hält seine Fischereiflotte direkt hinter den Mittagstischen. Die drei folgenden Adressen sind ganzjährig zuverlässig und genießen bei Texeler Hundehaltern einen ausgezeichneten Ruf.",
-      "faqsDe": []
+      "introNl": "Alle zeven dorpen van Texel delen dezelfde ontspannen Waddencultuur: honden slapen onder cafétafels, strandpaviljoens zetten waterbakken buiten neer, en de keukens leunen op Texelaar-lam (het beschermde ras van het eiland), Noordzeevis en het lokale Skuumkoppe-bier van Bierbrouwerij Texel. Het geplaveide centrum van Den Burg vult zich vanaf de late ochtend met terrassen, de strandpaviljoens Paal 17 en Paal 9 liggen direct aan de hondenstranden van De Koog en Den Hoorn die het hele jaar open zijn, en de haven van Oudeschild houdt zijn werkende vissersvloot vlak achter de lunchtafels. De drie adressen hieronder zijn het hele jaar betrouwbaar en hebben een sterke reputatie onder Texelse hondenbaasjes.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Best Parks & Nature Reserves on Texel, Duinen van Texel National Park Off-Leash",
@@ -148,9 +163,13 @@
           "tipPt": "Do estacionamento do EcoMare segue o circuito verde do bosque De Dennen; é a única secção sem trela o ano inteiro e fica abrigada quando o vento bate nas dunas abertas.",
           "googleMapsUrl": "https://maps.google.com/?q=Nationaal+Park+Duinen+van+Texel+EcoMare",
           "descriptionDe": "Ein 4.300 Hektar großer Nationalpark, der den westlichen Dünengürtel von De Slufter bis zur Mokbaai umfasst, mit markierten Wander- und Radrouten durch wilde Dünengräser, Süßwassertäler, ausgewachsene Kiefernbestände und Küstenheide. Auf den meisten Routen gilt vom 1. April bis 1. September Leinenpflicht (Vogelbrutzeit), vom 16. September bis 14. April dürfen Hunde abseits der markierten Wege frei laufen. Der Kiefernwald De Dennen in der Mitte bietet ganzjährig eine Freilauf-Rundstrecke, die bei jedem Wetter funktioniert.",
+          "descriptionNl": "Een 4.300 hectare groot nationaal park dat de westelijke duinengordel van De Slufter tot de Mokbaai bestrijkt, met gemarkeerde wandel- en fietsroutes door wilde duingrassen, zoetwatervalleien, volwassen dennenaanplant en kustheide. Op de meeste routes geldt van 1 april tot 1 september (vogelbroedtijd) aanlijnplicht, en van 16 september tot 14 april mogen honden los buiten de gemarkeerde paden. Het dennenbos De Dennen in het centrum houdt het hele jaar een loslooproute in stand die bij elk weer werkt.",
           "sizeDe": "≈ 4.300 Hektar",
+          "sizeNl": "≈ 4.300 hectare",
           "amenitiesDe": "Markierte Dünenwege, ganzjährige Freilaufschleife De Dennen, Besucherzentrum EcoMare, Parkplatz",
-          "tipDe": "Folgen Sie vom Parkplatz EcoMare der grün markierten Waldschleife De Dennen; es ist der einzige ganzjährige Freilaufbereich und bietet Schutz, wenn der Wind über die offenen Dünen fegt."
+          "amenitiesNl": "Gemarkeerde duinpaden, hele jaar losloop-lus De Dennen, bezoekerscentrum EcoMare, parkeerplaats",
+          "tipDe": "Folgen Sie vom Parkplatz EcoMare der grün markierten Waldschleife De Dennen; es ist der einzige ganzjährige Freilaufbereich und bietet Schutz, wenn der Wind über die offenen Dünen fegt.",
+          "tipNl": "Volg vanaf de parkeerplaats bij EcoMare de groen gemarkeerde boslus De Dennen; het is het enige loslopgebied dat het hele jaar open is en blijft beschut wanneer de wind over de open duinen waait."
         },
         {
           "name": "De Slufter salt marsh",
@@ -180,9 +199,13 @@
           "tipPt": "Visita na maré baixa para o circuito de passadiço mais longo acessível; o miradouro apanha o nascer-do-sol sobre o sapal e o pôr-do-sol sobre o Mar do Norte, dois postais distintos num só passeio.",
           "googleMapsUrl": "https://maps.google.com/?q=De+Slufter+Texel",
           "descriptionDe": "Eine 600 Hektar große NATURA-2000-Salzwiese an der Nordwestküste, wo die Nordsee bei Flut durch die Dünen bricht und eine Gezeitenlandschaft aus Prielen, Queller-Flächen und Brachvogel-Brutschilf entstehen lässt. Ein Bohlenweg führt vom Parkplatz Slufterweg zum Aussichtspunkt auf dem Dünenkamm, Hunde ganzjährig an der Leine willkommen. Der Marschboden selbst ist vom 1. April bis 31. August wegen der Vogelbrut gesperrt; der Dünenkamm und der Aussichtspunkt bleiben offen.",
+          "descriptionNl": "Een 600 hectare grote NATURA 2000-kwelder aan de noordwestkust waar de Noordzee bij vloed door de duinen breekt, met een getijdenlandschap van kreken, zeekraalvlaktes en riet waar wulpen broeden. Een vlonderpad loopt van de parkeerplaats aan de Slufterweg naar het uitzichtpunt op de duintop, honden het hele jaar aan de lijn welkom. De kweldervloer zelf is van 1 april tot 31 augustus gesloten voor de vogelbroed; de duinrug en het uitzichtpunt blijven open.",
           "sizeDe": "≈ 600 Hektar",
+          "sizeNl": "≈ 600 hectare",
           "amenitiesDe": "Bohlenweg zum Aussichtspunkt, Parkplatz, Infotafel, keine Einrichtungen auf dem Marschboden",
-          "tipDe": "Besuchen Sie den Ort bei Ebbe für die längste begehbare Bohlenwegschleife; der Aussichtspunkt bietet Sonnenaufgang über der Marsch und Sonnenuntergang über der Nordsee, zwei unterschiedliche Postkartenmotive bei einem Spaziergang."
+          "amenitiesNl": "Vlonderpad naar uitzichtpunt, parkeerplaats, infobord, geen voorzieningen op de kweldervloer",
+          "tipDe": "Besuchen Sie den Ort bei Ebbe für die längste begehbare Bohlenwegschleife; der Aussichtspunkt bietet Sonnenaufgang über der Marsch und Sonnenuntergang über der Nordsee, zwei unterschiedliche Postkartenmotive bei einem Spaziergang.",
+          "tipNl": "Bezoek het gebied bij laagwater voor de langst toegankelijke vlonderpadlus; het uitzichtpunt vangt de zonsopgang boven de kwelder en de zonsondergang boven de Noordzee, twee verschillende ansichtkaarten in één wandeling."
         },
         {
           "name": "De Dennen pine forest",
@@ -212,14 +235,21 @@
           "tipPt": "Estaciona em Westerslag e faz o circuito vermelho de 4 km pela secção de pinheiros mais densa; o lago de água doce ao km 2 é o único banho canino seguro dentro do Parque Nacional.",
           "googleMapsUrl": "https://maps.google.com/?q=De+Dennen+Texel+Westerslag",
           "descriptionDe": "Ein 850 Hektar großer angepflanzter Kiefern- und Eichenwald im Zentrum Texels, das größte Waldgebiet aller niederländischen Wattinseln und der einzige ganzjährige Freilaufbereich der Insel auf markierten Wegen. Sandige Pfade, Mountainbike-Schleifen, die sich mit angeleinten Hunden teilen lassen, und Süßwasserteiche an den Eingängen Westerslag und Mokweg machen ihn zur Schlechtwetter-Alternative, wenn die Dünen dem Wind ausgesetzt sind. Verwaltet von Staatsbosbeheer mit klar ausgeschilderten losloopgebied-Zonen.",
+          "descriptionNl": "Een 850 hectare groot aangeplant dennen- en eikenbos in het centrum van Texel, het grootste bos van alle Nederlandse Waddeneilanden en het enige loslopgebied van het eiland dat het hele jaar op gemarkeerde paden open is. Zandpaden, mountainbikelussen die worden gedeeld met aangelijnde honden, en zoetwaterpoelen bij de ingangen Westerslag en Mokweg maken het de slechtweeroptie wanneer de duinen blootgesteld zijn. Beheerd door Staatsbosbeheer met duidelijk aangegeven losloopgebied-zones.",
           "sizeDe": "≈ 850 Hektar",
+          "sizeNl": "≈ 850 hectare",
           "amenitiesDe": "Ganzjährige Freilaufwege, Sandpfade, Süßwasserteiche, Parkplätze bei Westerslag und Mokweg",
-          "tipDe": "Parken Sie bei Westerslag und gehen Sie die 4 km lange, rot markierte Schleife durch den dichtesten Kiefernabschnitt; der Süßwasserteich bei km 2 ist die einzige sichere Bademöglichkeit für Hunde im Nationalpark."
+          "amenitiesNl": "Het hele jaar loslooppaden, zandpaden, zoetwaterpoelen, parkeerplaatsen bij Westerslag en Mokweg",
+          "tipDe": "Parken Sie bei Westerslag und gehen Sie die 4 km lange, rot markierte Schleife durch den dichtesten Kiefernabschnitt; der Süßwasserteich bei km 2 ist die einzige sichere Bademöglichkeit für Hunde im Nationalpark.",
+          "tipNl": "Parkeer bij Westerslag en loop de rood gemarkeerde lus van 4 km door het dichtste dennengedeelte; de zoetwaterpoel bij km 2 is de enige veilige zwemplek voor honden binnen het Nationaal Park."
         }
       ],
       "titleDe": "Beste Parks & Naturschutzgebiete auf Texel, Nationalpark Duinen van Texel ohne Leine",
+      "titleNl": "Beste parken & natuurgebieden op Texel, Nationaal Park Duinen van Texel loslopen",
       "introDe": "Texel besteht zu einem Drittel aus Naturschutzgebiet: Der 4.300 Hektar große Nationaal Park Duinen van Texel erstreckt sich fast über die gesamte Länge des westlichen Dünengürtels von De Slufter im Norden bis zur Mokbaai im Süden, und an der östlichen Wattenmeerküste kommen das Salzwiesengebiet De Schorren und die Wattflächen von Wagejot hinzu. Auf den meisten markierten Routen gilt vom 1. April bis 1. September (Vogelbrutzeit) Leinenpflicht, und in den meisten übrigen Dünenabschnitten dürfen Hunde vom 16. September bis 14. April abseits der markierten Wege frei laufen. Achten Sie auf das niederländische Schild „losloopgebied\" (offizieller Freilaufbereich) und „aanlijngebied\" (Leinenpflicht); außerhalb der markierten Zonen drohen Bußgelder, besonders in den Vogelbrutkernen De Slufter und De Muy.",
-      "faqsDe": []
+      "introNl": "Texel bestaat voor een derde uit natuurgebied: het 4.300 hectare grote Nationaal Park Duinen van Texel loopt bijna over de hele lengte van de westelijke duinengordel, van De Slufter in het noorden tot de Mokbaai in het zuiden, en de oostelijke Waddenkust voegt het kweldergebied De Schorren en de wadplaten van Wagejot toe. Op de meeste gemarkeerde routes geldt van 1 april tot 1 september (broedseizoen) een aanlijnplicht, en op de meeste overige duinsecties mogen honden van 16 september tot 14 april los buiten de paden lopen. Let op het Nederlandse bord 'losloopgebied' (officieel loslopgebied) en 'aanlijngebied' (aanlijnplicht); buiten de gemarkeerde zones gelden boetes, vooral in de vogelbroedkernen De Slufter en De Muy.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting to Texel with a Dog, TESO Ferry & Texelhopper Buses",
@@ -247,8 +277,11 @@
           "tipPt": "Os peões embarcam diretamente no cais de Den Helder; o autocarro Texelhopper 28 espera cada chegada em 't Horntje e chega a Den Burg em 15 minutos por 4,50 € simples (cão grátis).",
           "photo": "/images/city-places/texel-transport-teso-ferry-den-helder-t-horntje.jpg",
           "typeDe": "Auto- und Personenfähre",
+          "typeNl": "Auto- en passagiersveerboot",
           "petPolicyDe": "Hunde reisen kostenlos, kein Ticket nötig; erlaubt auf dem offenen Oberdeck sowie angeleint in den Innenlounges und auf den Autodecks. 20-minütige Überfahrt alle 30 Minuten, 06:30–21:30 Uhr ganzjährig.",
-          "tipDe": "Fußgänger können am Anleger Den Helder direkt zusteigen; der Bus Texelhopper 28 trifft jede Ankunft in 't Horntje und fährt in 15 Minuten für 4,50 € pro Fahrt nach Den Burg (Hund kostenlos)."
+          "petPolicyNl": "Honden reizen gratis mee, geen ticket nodig; toegestaan op het open bovendek en aan de lijn in de binnenlounges en op de autodekken. Overtocht van 20 minuten elke 30 minuten, 06:30-21:30 uur het hele jaar.",
+          "tipDe": "Fußgänger können am Anleger Den Helder direkt zusteigen; der Bus Texelhopper 28 trifft jede Ankunft in 't Horntje und fährt in 15 Minuten für 4,50 € pro Fahrt nach Den Burg (Hund kostenlos).",
+          "tipNl": "Voetgangers kunnen direct instappen bij de aanlegsteiger in Den Helder; bus Texelhopper 28 wacht bij elke aankomst in 't Horntje en rijdt in 15 minuten voor €4,50 enkele reis naar Den Burg (hond gratis)."
         },
         {
           "name": "Texelhopper Buses",
@@ -266,8 +299,11 @@
           "tipPt": "Fora das linhas principais, reserva um deeltaxi Texelhopper (4,50 € por paragem, cão incluído) até 1 hora antes via app Texelhopper; alcança cada entrada dunar e cada paaltje de praia da ilha.",
           "photo": "/images/city-places/texel-transport-texelhopper-buses.jpg",
           "typeDe": "Inselbusnetz",
+          "typeNl": "Eilandbusnetwerk",
           "petPolicyDe": "Hunde auf allen Texelhopper-Linien kostenlos; kleine Hunde in der Transporttasche kostenlos, größere Hunde an der Leine. Linie 28 fährt die Strecke Fähre 't Horntje–Den Burg–De Cocksdorp; Linie 29 verbindet Den Burg mit De Koog und den westlichen Stränden.",
-          "tipDe": "Außerhalb der Hauptlinien können Sie über die Texelhopper-App bis zu 1 Stunde im Voraus ein Texelhopper-Deeltaxi buchen (4,50 € pro Haltestelle, Hund inbegriffen); es erreicht jeden Dünenzugang und jedes Strand-paaltje der Insel."
+          "petPolicyNl": "Honden gratis op alle Texelhopper-lijnen; kleine honden in draagtas gratis, grotere honden aan de lijn. Lijn 28 rijdt de route veerboot 't Horntje-Den Burg-De Cocksdorp; lijn 29 verbindt Den Burg met De Koog en de westelijke stranden.",
+          "tipDe": "Außerhalb der Hauptlinien können Sie über die Texelhopper-App bis zu 1 Stunde im Voraus ein Texelhopper-Deeltaxi buchen (4,50 € pro Haltestelle, Hund inbegriffen); es erreicht jeden Dünenzugang und jedes Strand-paaltje der Insel.",
+          "tipNl": "Buiten de hoofdlijnen kun je tot 1 uur van tevoren via de Texelhopper-app een Texelhopper-deeltaxi boeken (€4,50 per halte, hond inbegrepen); hij bereikt elke duiningang en elk strand-paaltje op het eiland."
         },
         {
           "name": "NS Trains to Den Helder & Schiphol Connection",
@@ -285,13 +321,19 @@
           "tipPt": "De Schiphol apanha o Sprinter direto via Hoofddorp e Heerhugowaard até Den Helder (1h35); compra o Dagkaart Hond na máquina amarela em Schiphol para evitar a fila em Den Helder.",
           "photo": "/images/city-places/texel-transport-ns-trains-to-den-helder-schiphol-connection.jpg",
           "typeDe": "Nationale Bahn zur Fähre",
+          "typeNl": "Nationale trein naar veerboot",
           "petPolicyDe": "Der NS-Intercity von Amsterdam Centraal nach Den Helder verkehrt alle 30 Minuten, Fahrzeit 1:05 Std. Hunde in einer Handtransporttasche reisen kostenlos; größere Hunde benötigen eine Dagkaart Hond (Tageskarte für Hunde, 3,30 €, unbegrenzte NS-Fahrten an diesem Tag) und müssen angeleint sein. Der Fußweg vom Bahnhof Den Helder zum TESO-Fähranleger beträgt 200 m.",
-          "tipDe": "Nehmen Sie ab Schiphol den direkten Sprinter über Hoofddorp und Heerhugowaard nach Den Helder (1:35 Std.); kaufen Sie die Dagkaart Hond am gelben Automaten in Schiphol, um die Warteschlange in Den Helder zu vermeiden."
+          "petPolicyNl": "De NS-intercity van Amsterdam Centraal naar Den Helder rijdt elke 30 minuten, reistijd 1u05. Honden in een handdraagtas reizen gratis mee; grotere honden hebben een Dagkaart Hond nodig (dagkaart voor honden, €3,30, onbeperkt NS-reizen die dag) en moeten aan de lijn. De loopafstand van station Den Helder naar de TESO-veerpont is 200 m.",
+          "tipDe": "Nehmen Sie ab Schiphol den direkten Sprinter über Hoofddorp und Heerhugowaard nach Den Helder (1:35 Std.); kaufen Sie die Dagkaart Hond am gelben Automaten in Schiphol, um die Warteschlange in Den Helder zu vermeiden.",
+          "tipNl": "Neem vanaf Schiphol de directe Sprinter via Hoofddorp en Heerhugowaard naar Den Helder (1u35); koop de Dagkaart Hond bij de gele automaat op Schiphol om de rij in Den Helder te vermijden."
         }
       ],
       "titleDe": "Mit Hund nach Texel, TESO-Fähre & Texelhopper-Busse",
+      "titleNl": "Met je hond naar Texel, TESO-veerboot & Texelhopper-bussen",
       "introDe": "Texel liegt 4 km vor der nordholländischen Küste und wird mit der TESO-Auto- und Personenfähre von Den Helder nach 't Horntje erreicht, eine 20-minütige Überfahrt, die ganzjährig alle 30 Minuten verkehrt. Hunde reisen auf TESO-Fähren kostenlos (als Fußgänger oder im Auto), sind auf dem offenen Oberdeck willkommen, und in den Innenlounges sind angeleinte Hunde erlaubt. NS-Intercity-Züge fahren direkt von Amsterdam Centraal nach Den Helder in etwa 1 Stunde, der Fähranleger liegt 200 m vom Bahnhof entfernt. Vom Flughafen Schiphol sind es 1:45 Std. mit Auto und Fähre. Auf der Insel deckt das Texelhopper-Busnetz alle sieben Dörfer und die Dünen ab; Hunde fahren angeleint kostenlos mit.",
-      "faqsDe": []
+      "introNl": "Texel ligt 4 km voor de kust van Noord-Holland en is bereikbaar met de TESO-auto- en passagiersveerboot van Den Helder naar 't Horntje, een overtocht van 20 minuten die het hele jaar elke 30 minuten vaart. Honden reizen gratis mee op de TESO-veerboten (als voetganger of in de auto), zijn welkom op het open bovendek, en aangelijnde honden mogen mee in de binnenlounges. NS-intercity's rijden rechtstreeks van Amsterdam Centraal naar Den Helder in ongeveer 1 uur, de veerpont ligt 200 m van het station. Schiphol ligt op 1u45 met auto en veerboot. Op het eiland dekt het Texelhopper-busnetwerk alle zeven dorpen en de duinen; honden reizen gratis mee aan de lijn.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Dog Beaches on Texel, Paal 8 to Paal 31 Year-Round Off-Leash",
@@ -324,8 +366,11 @@
           "tipPt": "Estacionamento grátis no Mokweg, caminha pelo passadiço para oeste; o extremo sul do Paal 9 liga a pé ao Paal 8 Mokbaai na maré baixa para um circuito alargado de 4 km.",
           "googleMapsUrl": "https://maps.google.com/?q=Paal+9+Texel+Den+Hoorn",
           "descriptionDe": "Der nächstgelegene ganzjährige Freilauf-Hundestrand zu den südlichen Dörfern und zur TESO-Fähre, erreichbar über einen 1 km langen Bohlenweg vom Parkplatz Mokweg durch die Dünen. Breiter Sand bei Ebbe, sanft abfallendes Wasser und an den meisten Tagen fast keine Brandung, da die Mokbaai die Dünung nach Süden abschirmt. Ruhiger als der Strand Paal 17 bei De Koog selbst im Juli, und 5 Fahrminuten vom Dorf Den Hoorn zum Mittagessen bei Bij Jef entfernt.",
+          "descriptionNl": "Het dichtstbijzijnde loslopgebied dat het hele jaar open is voor de zuidelijke dorpen en de TESO-veerboot, bereikbaar via een vlonderpad van 1 km vanaf de parkeerplaats Mokweg door de duinen. Breed zand bij laagwater, geleidelijk aflopend water en op de meeste dagen bijna geen branding, omdat de Mokbaai de deining naar het zuiden breekt. Rustiger dan het strand Paal 17 bij De Koog, zelfs in juli, en 5 minuten rijden van het dorp Den Hoorn voor de lunch bij Bij Jef.",
           "petPolicyDe": "Ganzjährig ohne Leine; einer von fünf ganzjährigen Hundestränden auf Texel",
-          "tipDe": "Parken Sie kostenlos am Parkplatz Mokweg und gehen Sie den Bohlenweg nach Westen; das Südende von Paal 9 ist bei Ebbe zu Fuß mit Paal 8 Mokbaai für eine erweiterte 4-km-Schleife verbunden."
+          "petPolicyNl": "Het hele jaar los; een van de vijf loslopgebieden op Texel die het hele jaar open zijn",
+          "tipDe": "Parken Sie kostenlos am Parkplatz Mokweg und gehen Sie den Bohlenweg nach Westen; das Südende von Paal 9 ist bei Ebbe zu Fuß mit Paal 8 Mokbaai für eine erweiterte 4-km-Schleife verbunden.",
+          "tipNl": "Parkeer gratis bij de parkeerplaats Mokweg en loop het vlonderpad naar het westen; het zuidelijke uiteinde van Paal 9 sluit bij laagwater te voet aan op Paal 8 Mokbaai voor een uitgebreide lus van 4 km."
         },
         {
           "name": "Paal 17 Dog Beach (De Koog)",
@@ -348,8 +393,11 @@
           "tipPt": "Vem fora dos fins-de-semana de julho-agosto para a praia vazia; na época alta, chega antes das 10:00 ou depois das 17:00 para marés calmas e a esplanada do pôr-do-sol do quiosque.",
           "googleMapsUrl": "https://maps.google.com/?q=Paal+17+Texel+De+Koog",
           "descriptionDe": "Der beliebteste ganzjährige Freilauf-Hundestrand auf Texel, vor dem der Strandpavillon Paal 17 Strandpaviljoen am Südende von De Koog liegt. Breiter Sand, sanfte Brandung, das Dorf De Koog zwei Minuten landeinwärts für Eispausen, und 17 km durchgehend leinenfreier Strand nach Süden (15. September bis 30. April), sobald die Saisonregeln entfallen. Der Pavillon stellt ganzjährig Wassernäpfe nach draußen.",
+          "descriptionNl": "Het populairste loslopgebied dat het hele jaar open is op Texel, met ervoor het strandpaviljoen Paal 17 Strandpaviljoen aan het zuidelijke uiteinde van De Koog. Breed zand, zachte branding, het dorp De Koog twee minuten landinwaarts voor een ijsje, en 17 km ononderbroken loslopstrand naar het zuiden (15 september tot 30 april) zodra de seizoensregels vervallen. Het paviljoen zet het hele jaar waterbakken buiten.",
           "petPolicyDe": "Ganzjährig ohne Leine bei Paal 17; gesamte Küste ohne Leine 15. Sep.–30. Apr.",
-          "tipDe": "Kommen Sie außerhalb der Juli-August-Wochenenden für einen leeren Sandstreifen; in der Hochsaison lohnt sich die Ankunft vor 10:00 Uhr oder nach 17:00 Uhr für ruhige Gezeiten und die Sonnenuntergangsterrasse am Pavillon."
+          "petPolicyNl": "Het hele jaar los bij Paal 17; hele kust los 15 sep-30 apr",
+          "tipDe": "Kommen Sie außerhalb der Juli-August-Wochenenden für einen leeren Sandstreifen; in der Hochsaison lohnt sich die Ankunft vor 10:00 Uhr oder nach 17:00 Uhr für ruhige Gezeiten und die Sonnenuntergangsterrasse am Pavillon.",
+          "tipNl": "Kom buiten de weekenden van juli-augustus voor een leeg zandstrand; kom in het hoogseizoen voor 10:00 uur of na 17:00 uur voor de rustige getijden en het terras bij zonsondergang van het paviljoen."
         },
         {
           "name": "Paal 28 & 31 Dog Beaches (De Cocksdorp)",
@@ -372,13 +420,19 @@
           "tipPt": "Sobe primeiro ao farol Eierland para a vista aérea sobre a praia para cães, depois desce ao Paal 28; a escada do farol aceita cães com trela até à plataforma baixa.",
           "googleMapsUrl": "https://maps.google.com/?q=Paal+28+Texel+Vuurtoren+Eierland",
           "descriptionDe": "Die beiden nördlichen ganzjährigen Freilauf-Hundestrände am Fuß des Eierland-Leuchtturms, von De Cocksdorp über die Vuurtorenweg in 5 Minuten erreichbar. Paal 28 liegt südlich des Leuchtturms mit einem kleinen Dünenparkplatz; Paal 31 liegt nördlich und ist bei Ebbe mit der wilden Mündung von De Slufter verbunden. Die am wenigsten überlaufenen ganzjährigen Strände Texels, selbst an August-Wochenenden, und der einzige Ort, um einen Freilauf mit dem roten Eierland-Leuchtturm-Foto zu verbinden.",
+          "descriptionNl": "De twee noordelijke loslopgebieden die het hele jaar open zijn, aan de voet van de vuurtoren Eierland, bereikbaar vanuit De Cocksdorp via de Vuurtorenweg in 5 minuten. Paal 28 ligt ten zuiden van de vuurtoren met een kleine duinparkeerplaats; Paal 31 ligt ten noorden en sluit bij laagwater aan op de wilde monding van De Slufter. De minst drukke loslopstranden van Texel, zelfs op augustusweekenden, en de enige plek om los rennen te combineren met de foto van de rode vuurtoren Eierland.",
           "petPolicyDe": "Ganzjährig ohne Leine bei Paal 28 und Paal 31; Vogelbrutsperren an der Mündung von De Slufter beachten",
-          "tipDe": "Steigen Sie zuerst auf den Eierland-Leuchtturm für den Blick von oben auf den Hundestrand, gehen Sie dann hinunter zu Paal 28; die Leuchtturmtreppe lässt angeleinte Hunde bis zur unteren Aussichtsplattform zu."
+          "petPolicyNl": "Het hele jaar los bij Paal 28 en Paal 31; respecteer de broedsluitingen bij de monding van De Slufter",
+          "tipDe": "Steigen Sie zuerst auf den Eierland-Leuchtturm für den Blick von oben auf den Hundestrand, gehen Sie dann hinunter zu Paal 28; die Leuchtturmtreppe lässt angeleinte Hunde bis zur unteren Aussichtsplattform zu.",
+          "tipNl": "Beklim eerst de vuurtoren Eierland voor het vogelperspectief op het hondenstrand, loop dan naar beneden naar Paal 28; de trap van de vuurtoren laat aangelijnde honden toe tot het lagere uitzichtplatform."
         }
       ],
       "titleDe": "Hundestrände auf Texel, Paal 8 bis Paal 31 ganzjährig ohne Leine",
+      "titleNl": "Hondenstranden op Texel, Paal 8 tot Paal 31 het hele jaar los",
       "introDe": "Die 30 km lange Nordseeküste Texels ist durch 33 hölzerne „paaltjes\" (Markierungspfähle) von Paal 6 im Süden bis Paal 33 im Norden in nummerierte Abschnitte unterteilt. Fünf Abschnitte sind ganzjährige Hundestrände ohne Leine: Paal 8 (Mokbaai), Paal 9 (Den Hoorn), Paal 17 (De Koog Süd), Paal 28 (De Cocksdorp Süd) und Paal 31 (De Cocksdorp Nord). In allen übrigen Abschnitten gilt vom 1. Mai bis 14. September Leinenpflicht, vom 15. September bis 30. April dürfen Hunde frei laufen. Die östliche Wattenmeerküste bei Wagejot, De Schorren und Dijkmanshuizen ist ganzjährig zum Schutz der Vögel für Hunde gesperrt. Prüfen Sie das Schild am paaltje, bevor Sie den Hund frei laufen lassen.",
-      "faqsDe": []
+      "introNl": "De 30 km lange Noordzeekust van Texel is verdeeld in genummerde secties door 33 houten 'paaltjes' (markeringen) van Paal 6 in het zuiden tot Paal 33 in het noorden. Vijf secties zijn het hele jaar loslopgebieden voor honden: Paal 8 (Mokbaai), Paal 9 (Den Hoorn), Paal 17 (De Koog zuid), Paal 28 (De Cocksdorp zuid) en Paal 31 (De Cocksdorp noord). Op alle andere secties geldt van 1 mei tot 14 september aanlijnplicht en van 15 september tot 30 april loslopen. De oostelijke Waddenkust bij Wagejot, De Schorren en Dijkmanshuizen is het hele jaar gesloten voor honden ter bescherming van vogels. Controleer het bord bij de paal voordat je de hond laat loslopen.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Emergency Vets on Texel, Veterinary Clinic Den Burg & Den Helder Mainland Escalation",
@@ -420,9 +474,13 @@
           "tipPt": "Para um carimbo de passaporte antes de voar de Schiphol, reserva com 48 h; é a única clínica da ilha e as vagas de fim-de-semana esgotam nas férias escolares.",
           "googleMapsUrl": "https://maps.google.com/?q=Dierenartsenpraktijk+Texel+Keesomlaan+Den+Burg",
           "descriptionDe": "Die einzige Tierarztpraxis auf Texel selbst, seit Mitte des 20. Jahrhunderts in Betrieb und heute in einer modernen Klinik an der Keesomlaan in Den Burg für alle Dörfer zuständig. Führt Impfungen, EU-Heimtierausweis-Stempel, Zahnmedizin, Innere Medizin, kleinere Operationen sowie die Nutztiere der Insel (Texelaar-Schafe, Sportpferde) durch. Englischsprachige Tierärzte und ein ruhiger Wartebereich. Anrufe außerhalb der Öffnungszeiten werden an den festländischen Bereitschaftsdienst Kring Den Helder weitergeleitet.",
+          "descriptionNl": "De enige dierenartspraktijk op Texel zelf, actief sinds het midden van de 20e eeuw en nu gevestigd in een moderne kliniek aan de Keesomlaan in Den Burg voor alle dorpen. Behandelt vaccinaties, EU-huisdierenpaspoortstempels, tandheelkunde, interne geneeskunde, kleine chirurgie en het werkvee van het eiland (Texelaar-schapen, sportpaarden). Engelssprekende dierenartsen en een rustige wachtkamer. Oproepen buiten kantooruren gaan naar de roulerende spoeddienst Kring Den Helder op het vasteland.",
           "hoursDe": "Mo–Fr 08:30–17:30 Uhr; Sa 09:00–12:00 Uhr; sonntags geschlossen",
+          "hoursNl": "Ma-vr 08:30-17:30 uur; za 09:00-12:00 uur; zondag gesloten",
           "specialtyDe": "Allgemeine Praxis, Chirurgie, Zahnmedizin, EU-Heimtierausweis, Nutz- und Reittiere",
-          "tipDe": "Wenn Sie vor einem Abflug ab Schiphol einen Heimtierausweis-Stempel benötigen, buchen Sie 48 Stunden im Voraus; dies ist die einzige Klinik auf der Insel, und Wochenendtermine sind in den Schulferien schnell ausgebucht."
+          "specialtyNl": "Algemene praktijk, chirurgie, tandheelkunde, EU-huisdierenpaspoort, vee en paarden",
+          "tipDe": "Wenn Sie vor einem Abflug ab Schiphol einen Heimtierausweis-Stempel benötigen, buchen Sie 48 Stunden im Voraus; dies ist die einzige Klinik auf der Insel, und Wochenendtermine sind in den Schulferien schnell ausgebucht.",
+          "tipNl": "Als je vóór een vlucht vanaf Schiphol een stempel voor het huisdierenpaspoort nodig hebt, boek dan 48 uur van tevoren; dit is de enige kliniek op het eiland en weekendplekken raken vol in de schoolvakanties."
         },
         {
           "name": "Dierenkliniek Duinpark (Den Helder mainland)",
@@ -454,9 +512,13 @@
           "tipPt": "Liga primeiro para este número para qualquer urgência fora de horário a partir de Texel; o atendedor encaminha para a clínica Kring Den Helder de serviço nessa noite.",
           "googleMapsUrl": "https://maps.google.com/?q=Dierenkliniek+Duinpark+Den+Helder",
           "descriptionDe": "Die führende Tierklinik in Den Helder auf dem Festland, 5 Autominuten vom TESO-Fähranleger, und der zentrale Bezugspunkt für den Bereitschaftsdienst Kring Den Helder außerhalb der Öffnungszeiten, der Texel abdeckt. Vollständiger Tagesservice, hauseigene Bildgebung und kleinere Operationen. Anrufe außerhalb der Öffnungszeiten werden von einer rotierenden Bereitschaftsnummer entgegengenommen, die je nach Nacht an Duinpark selbst, AniCura Den Helder oder eine Partnerklinik weiterleiten kann.",
+          "descriptionNl": "De toonaangevende dierenkliniek in Den Helder op het vasteland, 5 minuten rijden van de TESO-veerpont, en het centrale aanspreekpunt voor de spoeddienst Kring Den Helder buiten kantooruren die Texel dekt. Volledige dagzorg, beeldvorming in huis en kleine chirurgie. Oproepen buiten kantooruren worden beantwoord door een roulerend dienstnummer dat, afhankelijk van de nacht, kan doorverwijzen naar Duinpark zelf, AniCura Den Helder of een zusterkliniek.",
           "hoursDe": "Mo–Fr 08:00–18:00 Uhr; Sa 09:00–12:00 Uhr; außerhalb der Öffnungszeiten über rotierende Bereitschaft von Kring Den Helder",
+          "hoursNl": "Ma-vr 08:00-18:00 uur; za 09:00-12:00 uur; buiten kantooruren via de roulerende dienst van Kring Den Helder",
           "specialtyDe": "Allgemeine Praxis, Bildgebung, kleinere Operationen, regionaler Bereitschafts-Anlaufpunkt",
-          "tipDe": "Rufen Sie diese Nummer zuerst bei jedem Notfall außerhalb der Öffnungszeiten von Texel an; der Anrufdienst leitet Sie an die jeweils diensthabende Klinik von Kring Den Helder weiter."
+          "specialtyNl": "Algemene praktijk, beeldvorming, kleine chirurgie, regionaal aanspreekpunt buiten kantooruren",
+          "tipDe": "Rufen Sie diese Nummer zuerst bei jedem Notfall außerhalb der Öffnungszeiten von Texel an; der Anrufdienst leitet Sie an die jeweils diensthabende Klinik von Kring Den Helder weiter.",
+          "tipNl": "Bel dit nummer eerst bij elk spoedgeval buiten kantooruren vanuit Texel; de antwoorddienst verwijst je door naar de kliniek van Kring Den Helder die die nacht dienst heeft."
         },
         {
           "name": "Medisch Centrum voor Dieren Amsterdam (24/7 specialist)",
@@ -488,14 +550,21 @@
           "tipPt": "Liga sempre primeiro para +31 20 7400600; o pessoal pode fazer triagem por telefone, avisar a equipa se atravessar no próximo ferry TESO e confirmar a rota A7-A9 mais rápida para Isolatorweg.",
           "googleMapsUrl": "https://maps.google.com/?q=Medisch+Centrum+voor+Dieren+Isolatorweg+Amsterdam",
           "descriptionDe": "Das 24-Stunden-Fach- und Notfallkrankenhaus, an das die Tierärzte von Texel und Den Helder bei ernsten nächtlichen Operationen, Intensivmedizin, fortgeschrittener Bildgebung (CT/MRT) und Notfall-Intensivstation überweisen. Rund um die Uhr, 365 Tage im Jahr, ist mindestens ein Tierarzt mit Assistenz im Dienst. Etwa 1 Stunde Autofahrt vom TESO-Anleger Den Helder über die A7 und A9 entfernt; der regionale Anlaufpunkt letzter Instanz für die gesamte Wattenmeerküste.",
+          "descriptionNl": "Het 24/7-specialisten- en spoedziekenhuis waar de dierenartsen van Texel en Den Helder naar doorverwijzen voor zware nachtelijke chirurgie, intensive care, geavanceerde beeldvorming (CT/MRI) en spoed-IC. Minstens één dierenarts en assistent zijn dag en nacht in dienst, 365 dagen per jaar. Ongeveer 1 uur rijden vanaf de TESO-pont in Den Helder via de A7 en A9; het regionale eindpunt voor doorverwijzing voor de hele Waddenkust.",
           "hoursDe": "24/7, 365 Tage im Jahr; Facharztsprechstunden Mo–Fr 09:00–18:00 Uhr, Notaufnahme immer geöffnet",
+          "hoursNl": "24/7, 365 dagen per jaar; specialistenspreekuur ma-vr 09:00-18:00 uur, spoedeisende hulp altijd open",
           "specialtyDe": "Notfall außerhalb der Öffnungszeiten, Chirurgie, Intensivmedizin, fortgeschrittene Bildgebung, Facharztüberweisung",
-          "tipDe": "Rufen Sie immer zuerst +31 20 7400600 an; das Personal kann telefonisch triagieren, das Team vorwarnen, wenn Sie die nächste TESO-Fähre nehmen, und die schnellste Route über A7-A9 zur Isolatorweg bestätigen."
+          "specialtyNl": "Spoedzorg buiten kantooruren, chirurgie, intensive care, geavanceerde beeldvorming, verwijzing naar specialisten",
+          "tipDe": "Rufen Sie immer zuerst +31 20 7400600 an; das Personal kann telefonisch triagieren, das Team vorwarnen, wenn Sie die nächste TESO-Fähre nehmen, und die schnellste Route über A7-A9 zur Isolatorweg bestätigen.",
+          "tipNl": "Bel altijd eerst +31 20 7400600; het personeel kan telefonisch triëren, het team vooraf waarschuwen als je met de volgende TESO-veerboot oversteekt, en de snelste route via de A7-A9 naar de Isolatorweg bevestigen."
         }
       ],
       "titleDe": "Notfall-Tierärzte auf Texel, Tierarztpraxis Den Burg & Eskalation aufs Festland Den Helder",
+      "titleNl": "Spoeddierenartsen op Texel, dierenartspraktijk Den Burg & doorverwijzing naar het vasteland Den Helder",
       "introDe": "Texel hat eine einzige Tierarztpraxis auf der Insel selbst, die Dierenartsenpraktijk Texel in Den Burg, die alle Tagesbedürfnisse von Haustieren, Sportpferden und Texelaar-Schafen abdeckt. Außerhalb der Öffnungszeiten und bei ernsten Notfällen wird auf das Festland verwiesen: die Dierenkliniek Duinpark in Den Helder für den rotierenden Bereitschaftsdienst Kring Den Helder, und das 24-Stunden-Fachkrankenhaus Medisch Centrum voor Dieren in Amsterdam (1 Stunde vom Anleger Den Helder über die A7/A9) für Operationen, Intensivmedizin und Bildgebung. Speichern Sie beide Telefonnummern vor der Fährüberfahrt; sobald Sie auf Texel sind, fährt die letzte TESO-Fähre nach Den Helder um 21:30 Uhr.",
-      "faqsDe": []
+      "introNl": "Texel heeft één dierenartspraktijk op het eiland zelf, Dierenartsenpraktijk Texel in Den Burg, die alle overdag zorg dekt voor huisdieren, sportpaarden en Texelaar-schapen. Buiten kantooruren en bij ernstige spoedgevallen wordt doorverwezen naar het vasteland: Dierenkliniek Duinpark in Den Helder voor de roulerende spoeddienst Kring Den Helder, en het 24/7-specialistenziekenhuis Medisch Centrum voor Dieren in Amsterdam (1 uur vanaf de aanlegsteiger Den Helder via de A7/A9) voor chirurgie, intensive care en beeldvorming. Bewaar beide telefoonnummers voor de overtocht; eenmaal op Texel vertrekt de laatste TESO-veerboot naar Den Helder om 21:30 uur.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Practical Tips for Visiting Texel with a Dog",
@@ -584,7 +653,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für einen Texel-Besuch mit Hund",
+      "titleNl": "Praktische tips voor een bezoek aan Texel met een hond",
       "introDe": "Texel ist wohl das unkompliziertest hundefreundliche Reiseziel der Niederlande: 33 nummerierte Strand-paaltjes, fünf ganzjährige Freilauf-Hundestrände, 4.300 Hektar Nationalpark, 850 Hektar Kiefernwald und eine TESO-Fähre, auf der Hunde in 20 Minuten kostenlos übersetzen. Ein paar lokale Regeln und Gewohnheiten machen die Reise reibungsloser. Die Freilauffreiheit am Strand ist abschnittsweise geregelt, die östliche Wattenmeerküste ist ganzjährig zum Vogelschutz für Hunde gesperrt, und die Vogelbrutkerne des Nationalparks bei De Slufter und De Muy verlangen vom 1. April bis 1. September strikte Leinendisziplin.",
+      "introNl": "Texel is misschien wel de moeiteloos hondvriendelijkste bestemming van Nederland: 33 genummerde strandpalen, vijf loslopgebieden die het hele jaar open zijn, 4.300 hectare nationaal park, 850 hectare dennenbos en een TESO-veerboot waar honden in 20 minuten gratis oversteken. Een handvol lokale regels en gewoontes maken de reis soepeler. De loslopvrijheid op het strand verschilt per sectie, de oostelijke Waddenkust is het hele jaar gesloten voor honden ter bescherming van vogels, en de vogelbroedkernen van het Nationaal Park bij De Slufter en De Muy vragen van 1 april tot 1 september om strikte aanlijndiscipline.",
       "faqsDe": [
         {
           "q": "Sind Hunde das ganze Jahr über an Texels Stränden erlaubt?",
@@ -597,6 +668,20 @@
         {
           "q": "Gibt es einen Notfall-Tierarzt direkt auf Texel?",
           "a": "Tagsüber ja, die Dierenartsenpraktijk Texel in Den Burg (+31 222 312527). Notfälle außerhalb der Öffnungszeiten werden über die rotierende Bereitschaft von Kring Den Helder auf dem Festland vermittelt (rufen Sie zuerst die Dierenkliniek Duinpark +31 223 680222 an). Ernste nächtliche Fälle werden an das 24/7-Zentrum Medisch Centrum voor Dieren in Amsterdam überwiesen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden het hele jaar toegestaan op de stranden van Texel?",
+          "a": "Ja, elke strandsectie op Texel laat honden het hele jaar toe, maar de loslopregels verschillen. Vijf secties zijn het hele jaar los: Paal 8, Paal 9, Paal 17, Paal 28 en Paal 31. Op alle andere secties moeten honden van 1 mei tot 14 september aangelijnd zijn en mogen ze van 15 september tot 30 april los lopen."
+        },
+        {
+          "q": "Hoe kom ik met een hond naar Texel?",
+          "a": "Neem de NS-trein van Amsterdam Centraal naar Den Helder (1u05, Dagkaart Hond €3,30 voor honden groter dan een draagtas) en loop 200 m naar de TESO-veerpont. De veerboot naar 't Horntje vaart het hele jaar elke 30 minuten en honden reizen gratis mee. Vanaf Schiphol reken je op ongeveer 1u45 met auto en veerboot."
+        },
+        {
+          "q": "Is er een spoeddierenarts op Texel zelf?",
+          "a": "Overdag wel, Dierenartsenpraktijk Texel in Den Burg (+31 222 312527). Spoedgevallen buiten kantooruren gaan via de roulerende dienst van Kring Den Helder op het vasteland (bel eerst Dierenkliniek Duinpark +31 223 680222). Ernstige nachtelijke gevallen worden doorverwezen naar het 24/7 Medisch Centrum voor Dieren in Amsterdam."
         }
       ]
     },
@@ -631,8 +716,11 @@
           "tipPt": "Combina a subida com um passeio em Paal 28 (praia para cães), 5 min de carro a sul; a foto do farol da duna de Paal 31 é das melhores da ilha.",
           "googleMapsUrl": "https://maps.google.com/?q=Vuurtoren+Eierland+Texel",
           "descriptionDe": "Der 35 m hohe leuchtend rote Eierland-Leuchtturm an der Nordspitze Texels, erbaut 1864, das meistfotografierte Wahrzeichen der Insel. Angeleinte Hunde dürfen die Wendeltreppe bis zur unteren Aussichtsplattform hinauf; der ganz obere offene Balkon ist aus Sicherheitsgründen nur für Menschen. Von der Plattform reicht der Blick über die Salzwiese De Slufter, den Hundestrand Paal 31 und bei klarem Wetter bis zur benachbarten Wattinsel Vlieland.",
+          "descriptionNl": "De 35 m hoge, felrode vuurtoren Eierland aan de noordpunt van Texel, gebouwd in 1864, het meest gefotografeerde herkenningspunt van het eiland. Aangelijnde honden mogen mee de wenteltrap op tot het lagere uitzichtplatform; het heel bovenste open balkon is om veiligheidsredenen alleen voor mensen. Vanaf het platform reikt het uitzicht over de kwelder De Slufter, het hondenstrand Paal 31 en op een heldere dag tot het naburige Waddeneiland Vlieland.",
           "petPolicyDe": "Angeleinte Hunde willkommen auf der Treppe und der unteren Aussichtsplattform; nicht auf dem oberen Balkon",
-          "tipDe": "Verbinden Sie den Aufstieg mit einem Spaziergang am Hundestrand Paal 28, 5 Autominuten südlich; das Leuchtturmfoto von der Düne bei Paal 31 gehört zu den besten der Insel."
+          "petPolicyNl": "Aangelijnde honden welkom op de trap en het lagere uitzichtplatform; niet op het bovenste balkon",
+          "tipDe": "Verbinden Sie den Aufstieg mit einem Spaziergang am Hundestrand Paal 28, 5 Autominuten südlich; das Leuchtturmfoto von der Düne bei Paal 31 gehört zu den besten der Insel.",
+          "tipNl": "Combineer de beklimming met een wandeling op het hondenstrand Paal 28, 5 minuten rijden naar het zuiden; de vuurtorenfoto vanaf de duin bij Paal 31 is een van de mooiste van het eiland."
         },
         {
           "name": "EcoMare seal and seabird sanctuary",
@@ -655,8 +743,11 @@
           "tipPt": "Chega 30 min antes da refeição das focas das 11:00, faz primeiro o circuito dunar atrás do centro, depois instala-te junto à borda do tanque exterior; um humano pode entrar a ver o hall das medusas enquanto o outro fica com o cão na esplanada do café.",
           "googleMapsUrl": "https://maps.google.com/?q=EcoMare+Texel",
           "descriptionDe": "Das Naturzentrum der Insel, Robbenschutzstation und Tor zum Nationalpark Texel. Innenaquarien und Ausstellungen lassen keine Hunde zu (Assistenzhunde ausgenommen), aber die großen Außenbecken zur Robbenrehabilitation, die Seevogel-Rettungsvolieren und die Dünenwege hinter dem Zentrum heißen angeleinte Hunde willkommen. Fütterungszeiten der genesenden Seehunde sind 11:00 und 15:00 Uhr, ein ruhiger und entspannter Naturkontakt, der auch älteren Hunden entgegenkommt.",
+          "descriptionNl": "Het natuurcentrum van het eiland, zeehondenopvang en toegangspoort tot het Nationaal Park van Texel. De binnenaquaria en tentoonstellingen laten geen honden toe (assistentiehonden uitgezonderd), maar de grote buitenbassins voor zeehondenrevalidatie, de opvangvolières voor zeevogels en de duinwandelingen achter het centrum verwelkomen allemaal aangelijnde honden. Voertijden voor de herstellende gewone zeehonden zijn om 11:00 en 15:00 uur, een rustige en ontspannen kennismaking met wilde dieren die goed past bij oudere honden.",
           "petPolicyDe": "Angeleinte Hunde willkommen an den Außen-Robbenbecken, Seevogel-Volieren und Dünenwegen; nicht in den Innenaquarien",
-          "tipDe": "Kommen Sie 30 Minuten vor der Robbenfütterung um 11:00 Uhr an, gehen Sie zuerst die Dünenschleife hinter dem Zentrum, und stellen Sie sich dann an den Zaun des Außenbeckens; ein Mensch kann kurz die Quallenhalle drinnen ansehen, während der andere mit dem Hund an der Café-Terrasse wartet."
+          "petPolicyNl": "Aangelijnde honden welkom bij de buitenbassins met zeehonden, de zeevogelvolières en de duinpaden; niet in de binnenaquaria",
+          "tipDe": "Kommen Sie 30 Minuten vor der Robbenfütterung um 11:00 Uhr an, gehen Sie zuerst die Dünenschleife hinter dem Zentrum, und stellen Sie sich dann an den Zaun des Außenbeckens; ein Mensch kann kurz die Quallenhalle drinnen ansehen, während der andere mit dem Hund an der Café-Terrasse wartet.",
+          "tipNl": "Kom 30 minuten voor de zeehondenvoeding om 11:00 uur aan, loop eerst de duinlus achter het centrum, en ga daarna bij het hek van het buitenbassin staan; één persoon kan even naar binnen om de kwallenhal te bekijken terwijl de ander met de hond op het cafeterras blijft."
         },
         {
           "name": "Den Burg market square & 1517 Hervormde Kerk",
@@ -679,8 +770,11 @@
           "tipPt": "Vem ao sábado de manhã para o mercado e a fila no Slagerij Hin para a salsicha de borrego Texelaar; o parque Beatrixlaan 100 m a leste é a pausa com trela mais calma do centro de Den Burg.",
           "googleMapsUrl": "https://maps.google.com/?q=Groeneplaats+Den+Burg+Texel",
           "descriptionDe": "Der gepflasterte Marktplatz Groeneplaats im Herzen von Den Burg, umgeben von Kaufmannshäusern aus dem 18. Jahrhundert und beherrscht von der weißen Hervormde Kerk (Reformierte Kirche) von 1517. Samstagvormittagsmarkt, Cafés unter der Woche und der Texelaar-Lamm-Metzger Slagerij Hin heißen angeleinte Hunde alle auf dem Platz willkommen. Das Kircheninnere lässt nur Assistenzhunde zu, aber das umliegende Pflaster und der angrenzende Park Beatrixlaan nehmen Hunde ganzjährig angeleint auf.",
+          "descriptionNl": "Het geplaveide marktplein Groeneplaats in het hart van Den Burg, omringd door 18e-eeuwse koopmanshuizen en gedomineerd door de witte Hervormde Kerk uit 1517. De zaterdagochtendmarkt, cafés doordeweeks en de Texelaar-lamsslager Slagerij Hin verwelkomen allemaal aangelijnde honden op het plein. Het kerkinterieur laat alleen assistentiehonden toe, maar de omliggende kasseien en het aangrenzende park Beatrixlaan accepteren het hele jaar aangelijnde honden.",
           "petPolicyDe": "Angeleinte Hunde willkommen auf dem Platz rund um die Uhr; Kircheninneres nur Assistenzhunde",
-          "tipDe": "Besuchen Sie samstagvormittags den Markt und die Schlange bei Slagerij Hin für Texelaar-Lammwurst; der Park Beatrixlaan 100 m östlich ist die ruhigste Leinenpause im Zentrum von Den Burg."
+          "petPolicyNl": "Aangelijnde honden welkom op het plein, dag en nacht; kerkinterieur alleen assistentiehonden",
+          "tipDe": "Besuchen Sie samstagvormittags den Markt und die Schlange bei Slagerij Hin für Texelaar-Lammwurst; der Park Beatrixlaan 100 m östlich ist die ruhigste Leinenpause im Zentrum von Den Burg.",
+          "tipNl": "Kom op zaterdagochtend voor de markt en de rij bij Slagerij Hin voor Texelaar-lamworst; het park Beatrixlaan, 100 m oostelijk, is de rustigste lijnpauze in het centrum van Den Burg."
         }
       ],
       "tipsEn": [
@@ -760,7 +854,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Aktivitäten auf Texel, EcoMare & Eierland-Leuchtturm",
+      "titleNl": "Hondvriendelijke dingen om te doen op Texel, EcoMare & vuurtoren Eierland",
       "introDe": "Texels Hauptattraktionen sind fast durchweg im Freien und fast alle mit Hund zugänglich: das Robben- und Seevogelzentrum EcoMare am Rand des Nationalparks, der 35 m hohe rote Eierland-Leuchtturm an der Nordspitze der Insel, der Aussichtspunkt Kaap Texel und der Arbeitsfischereihafen von Oudeschild. Drei Highlights heben sich für Besucher mit Hund hervor: der Leuchtturmaufstieg, die Außen-Robbenbecken bei EcoMare und der Dorfspaziergang über den gepflasterten Markt von Den Burg.",
+      "introNl": "Texels kenmerkende ervaringen zijn bijna allemaal buiten en bijna allemaal toegankelijk met hond: het zeehonden- en zeevogelcentrum EcoMare aan de rand van het Nationaal Park, de 35 m hoge rode vuurtoren Eierland aan de noordpunt van het eiland, het uitzichtpunt Kaap Texel en de werkende vissershaven van Oudeschild. Drie hoogtepunten springen eruit voor bezoekers die met een hond reizen: de beklimming van de vuurtoren, de buitenbassins met zeehonden bij EcoMare en de dorpswandeling over de geplaveide markt van Den Burg.",
       "faqsDe": [
         {
           "q": "Darf mein Hund EcoMare oder die maritimen Museen Texels besuchen?",
@@ -773,6 +869,20 @@
         {
           "q": "Sind Texels sieben Dörfer mit Hund begehbar?",
           "a": "Ja, jedes Dorf (Den Burg, De Koog, De Cocksdorp, Den Hoorn, Oudeschild, Oosterend, De Waal) ist ganzjährig angeleint vollständig begehbar. Den Burg ist das größte und hat die meisten Cafés; Den Hoorn ist am ruhigsten; Oudeschild liegt am Arbeitsfischereihafen und der Brauerei."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan mijn hond EcoMare of de maritieme musea van Texel bezoeken?",
+          "a": "Alleen assistentiehonden worden toegelaten in de aquaria van EcoMare en het maritiem museum Kaap Skil. De buitenbassins met zeehonden en zeevogelvolières bij EcoMare verwelkomen aangelijnde honden, en de haven van Oudeschild buiten Kaap Skil is volledig toegankelijk."
+        },
+        {
+          "q": "Is de beklimming van de vuurtoren Eierland hondvriendelijk?",
+          "a": "Ja, aangelijnde honden mogen de wenteltrap op tot het lagere uitzichtplatform; het bovenste open balkon is alleen voor mensen. De vuurtoren is dagelijks open van april tot oktober en alleen in het weekend van november tot maart."
+        },
+        {
+          "q": "Zijn Texels zeven dorpen te voet te doen met een hond?",
+          "a": "Ja, elk dorp (Den Burg, De Koog, De Cocksdorp, Den Hoorn, Oudeschild, Oosterend, De Waal) is het hele jaar volledig te belopen aan de lijn. Den Burg is het grootst en heeft de meeste cafés; Den Hoorn is het rustigst; Oudeschild ligt aan de werkende vissershaven en de brouwerij."
         }
       ]
     },
@@ -804,7 +914,9 @@
           "tipEs": "Filtra por 'identidad verificada' y 'experiencia con la raza' antes de reservar: la red de cuidadores en Texel es pequeña, planifica con dos semanas en julio-agosto.",
           "tipPt": "Filtra por 'identidade verificada' e 'experiência com a raça' antes de reservar: a rede de cuidadores em Texel é pequena, planeia com duas semanas em julho-agosto.",
           "descriptionDe": "Der größte verifizierte Marktplatz für Haustierbetreuung in den Niederlanden, mit einem kleinen, aber aktiven Netz an Sittern auf Texel und einer durchschnittlichen Bewertung über 4,9 von 5. Bietet Kurzbesuche, ganztägige Betreuung, Hundeausführung und Übernachtungsbetreuung, alles auf Englisch buchbar. Nützlich für Tage, an denen Sie ohne Hund mit der Fähre nach Amsterdam fahren, oder für ein langes Mittagessen im Strandpavillon, ohne den Hund im heißen Auto zu lassen.",
-          "tipDe": "Filtern Sie nach „verifizierte ID\" und „erfahren mit der Rasse\", bevor Sie buchen; der Sitter-Pool auf Texel ist klein, planen Sie im Juli und August zwei Wochen im Voraus."
+          "descriptionNl": "De grootste geverifieerde marktplaats voor huisdierenoppas in Nederland, met een klein maar actief netwerk van oppassers op Texel en een gemiddelde beoordeling boven de 4,9 van de 5. Biedt korte bezoekjes, hele dagen oppas, hondenuitlaatservice en overnachtingsopvang, allemaal te boeken in het Engels. Handig voor de dagen dat je zonder hond met de veerboot naar Amsterdam gaat of voor een lange lunch in het strandpaviljoen zonder de hond in een warme auto achter te laten.",
+          "tipDe": "Filtern Sie nach „verifizierte ID\" und „erfahren mit der Rasse\", bevor Sie buchen; der Sitter-Pool auf Texel ist klein, planen Sie im Juli und August zwei Wochen im Voraus.",
+          "tipNl": "Filter op 'geverifieerde ID' en 'ervaring met het ras' voordat je boekt; de pool oppassers op Texel is klein, plan dus in juli en augustus twee weken vooruit."
         },
         {
           "name": "Petbnb Texel",
@@ -824,7 +936,9 @@
           "tipEs": "Todas las reservas incluyen seguro de responsabilidad civil: tranquilidad útil si tu perro reacciona en un alojamiento de vacaciones desconocido.",
           "tipPt": "Todas as reservas incluem seguro de responsabilidade civil: tranquilidade útil se o teu cão for reativo num alojamento de férias desconhecido.",
           "descriptionDe": "Eine niederländische Sitter-Plattform, die bei jeder Buchung eine Premium-Haustierversicherung und 24/7-Kundensupport einschließt. Die Abdeckung auf Texel konzentriert sich auf Den Burg mit weiteren Sittern in De Koog und Den Hoorn. Die englische Oberfläche macht sie zur unkompliziertesten Option für Kurzurlauber, die kein Niederländisch lesen.",
-          "tipDe": "Alle Buchungen enthalten eine Haftpflichtversicherung, ein nützliches Sicherheitsnetz, falls Ihr Hund in einer fremden Ferienunterkunft reaktiv reagiert."
+          "descriptionNl": "Een Nederlands oppasplatform dat bij elke boeking een premium huisdierenverzekering en 24/7 klantenservice omvat. De dekking op Texel is geconcentreerd rond Den Burg met aanvullende oppassers in De Koog en Den Hoorn. De Engelse interface maakt het de meest moeiteloze optie voor kortverblijvende bezoekers die geen Nederlands lezen.",
+          "tipDe": "Alle Buchungen enthalten eine Haftpflichtversicherung, ein nützliches Sicherheitsnetz, falls Ihr Hund in einer fremden Ferienunterkunft reaktiv reagiert.",
+          "tipNl": "Alle boekingen omvatten een aansprakelijkheidsverzekering, nuttige geruststelling als jouw hond reageert in een onbekende vakantieverhuur."
         },
         {
           "name": "Rover Texel",
@@ -844,7 +958,9 @@
           "tipEs": "Los cuidadores de Rover en Texel suelen tener rutas fijas alrededor de Den Burg y De Koog: planifica un encuentro previo si tu perro desconfía de los extraños.",
           "tipPt": "Os cuidadores Rover em Texel têm tipicamente rotas fixas em redor de Den Burg e De Koog: agenda um encontro prévio se o teu cão for desconfiado com estranhos.",
           "descriptionDe": "Globale Plattform für Sitter und Hundeausführer mit dünner, aber wachsender Abdeckung auf Texel und derselben In-App-Nachrichten-UX wie im übrigen Europa. Die meisten Sitter bieten tägliche Spaziergänge (60 Min. nach festem Zeitplan) sowie Kurzbesuche auf Anfrage. Eine Versicherung ist bei jeder Rover-Buchung standardmäßig enthalten.",
-          "tipDe": "Rover-Sitter auf Texel arbeiten meist feste Routen rund um Den Burg und De Koog; vereinbaren Sie zuerst ein Kennenlerntreffen, wenn Ihr Hund fremden Menschen gegenüber zurückhaltend ist."
+          "descriptionNl": "Wereldwijd platform voor oppassers en hondenuitlaters met een nog dunne maar groeiende dekking op Texel en dezelfde in-app-berichten-ervaring als in de rest van Europa. De meeste oppassers bieden dagelijkse wandelingen (60 min volgens vast schema) plus bezoekjes op aanvraag. Verzekering is standaard inbegrepen bij elke Rover-boeking.",
+          "tipDe": "Rover-Sitter auf Texel arbeiten meist feste Routen rund um Den Burg und De Koog; vereinbaren Sie zuerst ein Kennenlerntreffen, wenn Ihr Hund fremden Menschen gegenüber zurückhaltend ist.",
+          "tipNl": "Rover-oppassers op Texel werken meestal vaste routes rond Den Burg en De Koog; plan eerst een kennismaking als jouw hond wantrouwig is tegenover nieuwe mensen."
         }
       ],
       "tipsEn": [
@@ -924,7 +1040,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung & Hundeausführung auf Texel",
+      "titleNl": "Huisdierenoppas & hondenuitlaatservice op Texel",
       "introDe": "Texel verfügt über ein kleines, aber eng vernetztes Netz an Haustiersittern für die sieben Dörfer, hauptsächlich über die niederländischen landesweiten Plattformen, die auch Amsterdam und das Festland abdecken. Drei Online-Plattformen listen verifizierte Sitter auf Texel; buchen Sie mindestens 72 Stunden im Voraus während der Schulferien (die niederländischen Sommerferien sind die stärkste Zeit) und bringen Sie einen Impfnachweis mit. Die meisten Texeler Sitter wohnen in oder um Den Burg und übernehmen gerne Kurzbesuche in De Koog, Den Hoorn oder De Cocksdorp.",
+      "introNl": "Texel heeft een klein maar hecht netwerk van huisdierenoppassers voor de zeven dorpen, vooral via de landelijke Nederlandse platforms die ook Amsterdam en het vasteland dekken. Drie online platforms vermelden geverifieerde oppassers op Texel; boek minstens 72 uur van tevoren in de schoolvakanties (de Nederlandse zomervakantie is het drukst) en neem een vaccinatiebewijs mee. De meeste Texelse oppassers wonen in of rond Den Burg en doen graag korte bezoekjes in De Koog, Den Hoorn of De Cocksdorp.",
       "faqsDe": [
         {
           "q": "Was kostet Haustierbetreuung auf Texel?",
@@ -937,6 +1055,20 @@
         {
           "q": "Kann ich meinen Hund stattdessen in der Ferienunterkunft lassen?",
           "a": "Die meisten Ferienunterkünfte auf Texel erlauben Hunde, gestatten aber nicht, sie über längere Zeit unbeaufsichtigt zu lassen (Bedingungen variieren je nach Gastgeber). Für Tagesausflüge nach Amsterdam oder längere Unternehmungen buchen Sie einen Sitter über eine der oben genannten Plattformen für die benötigten Stunden."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost huisdierenoppas op Texel?",
+          "a": "Korte bezoekjes beginnen rond €15, hondenwandelingen rond €18 voor 60 minuten, hele dagen oppas rond €30-40, en overnachtingsopvang €35-60, afhankelijk van de ervaring van de oppas, het dorp en de grootte van de hond. Prijzen stijgen licht tijdens de piek van juli-augustus."
+        },
+        {
+          "q": "Zijn oppassers verzekerd?",
+          "a": "Pawshake, Petbnb en Rover omvatten allemaal standaard een aansprakelijkheidsverzekering en dekking bij ongevallen op boekingen die via hun platforms worden gemaakt."
+        },
+        {
+          "q": "Kan ik mijn hond in plaats daarvan achterlaten in de vakantieverhuur?",
+          "a": "De meeste vakantieverhuren op Texel staan honden toe, maar laten niet toe dat ze lange tijd zonder toezicht worden achtergelaten (voorwaarden verschillen per gastheer). Boek voor dagtochten naar Amsterdam of langere uitstapjes een oppas via een van de bovenstaande platforms voor de uren dat je weg moet."
         }
       ]
     }

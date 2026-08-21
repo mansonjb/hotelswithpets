@@ -41,9 +41,13 @@
           "tipPt": "Os khinkali comem-se à mão segurando o nó de massa; o seu cão vai estar muito interessado no processo. Mantenha-o sentado até terminar o seu prato",
           "googleMapsUrl": "https://maps.google.com/?q=Shavi+Lomi+Tbilisi+Georgia",
           "descriptionDe": "Eines von Tiflis' gefeiertsten neu-georgischen Restaurants: ein umgebautes Gebäude aus der Sowjetzeit mit einem großen, begrünten Innenhof, der als hundefreundlichste Terrasse der Stadt gilt. Serviert moderne georgische Küche: Khinkali (Suppenknödel), Lobiani (mit Bohnen gefülltes Brot), kreative Weinbegleitung mit natürlichem Rkatsiteli. Hunde bewegen sich frei im Innenhof unter den alten Maulbeerbäumen.",
+          "descriptionNl": "Een van Tbilisi's meest gevierde neo-Georgische restaurants: een verbouwd gebouw uit de Sovjettijd met een grote, groene binnenplaats die het beroemdste hondvriendelijke terras van de stad is. Serveert moderne Georgische keuken: khinkali (soepdumplings), lobiani (met bonen gevuld brood), creatieve wijncombinaties met natuurlijke Rkatsiteli. Honden zitten vrij op de binnenplaats onder de oude moerbeibomen.",
           "petPolicyDe": "Hunde im gesamten Innenhof willkommen",
+          "petPolicyNl": "Honden welkom op de hele binnenplaats",
           "mustTryDe": "Khinkali (mindestens 5 pro Person bestellen), Lobiani-Fladenbrot, bernsteinfarbener Rkatsiteli-Wein",
-          "tipDe": "Khinkali werden von Hand am Teigknopf gegessen; Ihr Hund wird sich sehr für den Vorgang interessieren. Lassen Sie ihn sitzen, bis Sie Ihren Teller geleert haben"
+          "mustTryNl": "Khinkali (bestel er minstens 5 per persoon), lobiani platbrood, amberkleurige Rkatsiteli-wijn",
+          "tipDe": "Khinkali werden von Hand am Teigknopf gegessen; Ihr Hund wird sich sehr für den Vorgang interessieren. Lassen Sie ihn sitzen, bis Sie Ihren Teller geleert haben",
+          "tipNl": "Khinkali eet je met de hand door de deegknoop vast te houden; jouw hond zal erg geïnteresseerd zijn in het proces. Houd hem zittend tot je je bord leeg hebt"
         },
         {
           "name": "Barbarestan",
@@ -71,9 +75,13 @@
           "tipPt": "Reserve especificamente a mesa do jardim ao reservar; as salas interiores são bonitas mas os cães devem ficar no pátio",
           "googleMapsUrl": "https://maps.google.com/?q=Barbarestan+Tbilisi+Georgia",
           "descriptionDe": "Eines der originellsten Restaurants der Welt: Gerichte, die anhand eines georgischen Kochbuchs aus dem 19. Jahrhundert von Prinzessin Barbare Jorjadze rekonstruiert wurden. Der Innenhofgarten ist der stimmungsvollste Essbereich der Stadt, und Hunde begleiten ihre Halter an die Holztische unter den Feigenbäumen. Ein einzigartiges Abendessen, das man einmal pro Reise erlebt.",
+          "descriptionNl": "Een van de meest originele restaurants ter wereld: gerechten gereconstrueerd uit een 19e-eeuws Georgisch kookboek van prinses Barbare Jorjadze. De binnenplaatstuin is de meest sfeervolle eetruimte van de stad en honden vergezellen hun baasjes aan de houten tafels onder de vijgenbomen. Een unieke diner-ervaring die je maar één keer per reis meemaakt.",
           "petPolicyDe": "Hunde im Innenhofgarten willkommen",
+          "petPolicyNl": "Honden welkom in de binnenplaatstuin",
           "mustTryDe": "Satsivi nach Rezept des 19. Jahrhunderts (kaltes Walnusshähnchen), Kharcho-Rindfleischsuppe, Gerichte mit grüner Tkemali-Pflaumensauce",
-          "tipDe": "Reservieren Sie bei der Buchung ausdrücklich den Gartentisch; die Innenräume sind wunderschön, aber Hunde müssen im Innenhof bleiben"
+          "mustTryNl": "19e-eeuwse satsivi (koude walnootkip), kharcho-rundvleessoep, gerechten met groene tkemali-pruimensaus",
+          "tipDe": "Reservieren Sie bei der Buchung ausdrücklich den Gartentisch; die Innenräume sind wunderschön, aber Hunde müssen im Innenhof bleiben",
+          "tipNl": "Reserveer bij het boeken specifiek de tuintafel; de binnenruimtes zijn prachtig maar honden moeten op de binnenplaats blijven"
         }
       ],
       "tipsEn": [
@@ -137,7 +145,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Tiflis",
+      "titleNl": "Huisdiervriendelijke restaurants in Tbilisi",
       "introDe": "Tiflis hat eine der entspanntesten hundefreundlichen Restaurantkulturen im Kaukasus. Fast jedes Restaurant mit Außenbereich heißt Hunde ohne Zögern willkommen; die Terrassen von Vera, Vake und der Altstadt (Abanotubani) sind voller Hunde am Tisch. Die georgische Gastfreundschaft erstreckt sich ganz natürlich auf Tiere.",
+      "introNl": "Tbilisi heeft een van de meest ontspannen hondvriendelijke eetculturen van de Kaukasus. Bijna elk restaurant met terras verwelkomt honden zonder aarzelen; de terrassen van Vera, Vake en de oude stad (Abanotubani) zitten vol honden aan tafel. Georgische gastvrijheid strekt zich vanzelfsprekend uit tot dieren.",
       "faqsDe": [
         {
           "q": "Sind Hunde in georgischen Restaurants willkommen?",
@@ -146,6 +156,16 @@
         {
           "q": "Ist georgisches Essen für Hunde unbedenklich?",
           "a": "Einfaches gegrilltes Fleisch (Mzwadi-Schweinespieße, Hähnchen), Brot und einfacher Reis sind in kleinen Mengen unbedenklich. Vermeiden Sie walnusslastige Saucen (Satsivi, Bazhe), zwiebelhaltige Gerichte und alle Süßspeisen. Churchkhela (Walnuss-Trauben-Süßigkeit) sieht aus wie eine Wurst, darf aber nicht mit Hunden geteilt werden."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden welkom in Georgische restaurants?",
+          "a": "Op buitenterrassen, universeel gezien wel. De Georgische cultuur is warm en gastvrij tegenover dieren; personeel vraagt baasjes zelden om weg te gaan of honden buiten vast te binden. Binnen eten is minder consistent, maar veel restaurants in Tbilisi laten goed opgevoede kleine honden ook binnen toe."
+        },
+        {
+          "q": "Is Georgisch eten veilig voor honden?",
+          "a": "Puur gegrild vlees (mtsvadi varkensspiesjes, kip), brood en pure rijst zijn prima in kleine hoeveelheden. Vermijd sauzen met veel walnoten (satsivi, bazhe), gerechten met ui en alle zoetigheden. Churchkhela (walnoot- en druivensnoep) ziet eruit als een worst, maar mag nooit met honden gedeeld worden."
         }
       ]
     },
@@ -180,8 +200,11 @@
           "tipPt": "O parque está mais cheio de donos de cães entre as 07h00-09h00 e as 18h00-20h00; a sessão matinal na floresta superior é a melhor experiência canina urbana do Cáucaso",
           "googleMapsUrl": "https://maps.google.com/?q=Vake+Park+Tbilisi+Georgia",
           "descriptionDe": "Tiflis' größte städtische Grünfläche: 148 Hektar bewaldeter Hügel mit breiten Wegen, einem See und offenen Wiesen im Herzen des wohlhabendsten Wohnviertels der Stadt. Hunde laufen im gesamten Park vollständig frei; der Park ist so hundefreundlich, dass Hundehalter als seine Hauptnutzer gelten. Schattige Waldwege führen den Hügel hinauf zu Panoramablicken über die Stadt.",
+          "descriptionNl": "Tbilisi's grootste stedelijke groengebied: 148 hectare beboste heuvel met brede paden, een meer en open grasvelden in het hart van de rijkste woonwijk van de stad. Honden lopen er helemaal los; het park is zo hondvriendelijk dat hondenbaasjes worden gezien als de belangrijkste gebruikers. Schaduwrijke bospaden slingeren de heuvel op naar panoramische uitzichten over de stad.",
           "petPolicyDe": "Hunde im gesamten Park frei ohne Leine",
-          "tipDe": "Der Park ist zwischen 07:00-09:00 und 18:00-20:00 Uhr am vollsten mit Hundehaltern; die morgendliche Runde im oberen Wald ist das beste Stadthundeerlebnis im Kaukasus"
+          "petPolicyNl": "Honden overal los in het hele park",
+          "tipDe": "Der Park ist zwischen 07:00-09:00 und 18:00-20:00 Uhr am vollsten mit Hundehaltern; die morgendliche Runde im oberen Wald ist das beste Stadthundeerlebnis im Kaukasus",
+          "tipNl": "Het park is het drukst met hondenbaasjes tussen 07:00-09:00 en 18:00-20:00; de ochtendronde in het bovenste bos is de beste stadshondenervaring van de Kaukasus"
         }
       ],
       "tipsEn": [
@@ -245,7 +268,9 @@
         }
       ],
       "titleDe": "Parks & Freilaufspaziergänge in Tiflis",
+      "titleNl": "Parken & loslopen bij Tbilisi",
       "introDe": "Tiflis verfügt für eine kaukasische Hauptstadt über reichlich Grünfläche: der Vake-Park (der wichtigste städtische Waldpark), der Mtatsminda-Park auf dem Berggipfel und die Gegend um den Schildkrötensee oberhalb der Stadt. Hunde laufen praktisch in allen Parks frei ohne Leine; Leinenpflichten werden nicht durchgesetzt, und die Freilaufkultur ist überall verbreitet.",
+      "introNl": "Tbilisi heeft voor een Kaukasische hoofdstad opvallend veel groen: Vake Park (het belangrijkste stadsbos), Mtatsminda Park op de heuveltop en het gebied rond Turtle Lake boven de stad. Honden lopen vrijwel overal los; aanlijnregels worden niet gehandhaafd en loslopen is overal gewoon.",
       "faqsDe": [
         {
           "q": "Gibt es Hundeparks in Tiflis?",
@@ -254,6 +279,16 @@
         {
           "q": "Sind die Straßenhunde in Tiflis für meinen Hund sicher?",
           "a": "Georgien betreibt ein umfassendes städtisches Programm zur Impfung und Kastration von Straßenhunden (CNVR). Straßenhunde tragen Ohrmarken und sind gegenüber anderen Hunden meist ruhig. Halten Sie Ihren Hund an der Leine, wenn Sie an schlafenden oder fressenden Hunden vorbeigehen; ziehen Sie Ihren Hund nicht in Richtung Straßenhunde."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er hondenparken in Tbilisi?",
+          "a": "Formele omheinde hondenparken zijn niet gebruikelijk in Tbilisi; de cultuur is dat honden gewoon los rennen in alle openbare parken en de zwerfhonden vreedzaam meeleven. Vake Park is in feite een enorm loslooppark."
+        },
+        {
+          "q": "Zijn de zwerfhonden in Tbilisi veilig voor mijn hond?",
+          "a": "Georgië voert een uitgebreid gemeentelijk vaccinatie- en sterilisatieprogramma voor zwerfhonden (CNVR). Zwerfhonden hebben oormerken en zijn over het algemeen rustig tegenover andere honden. Houd je hond aangelijnd als je langs slapende of etende honden loopt; trek je hond niet richting zwerfhonden."
         }
       ]
     },
@@ -332,7 +367,9 @@
         }
       ],
       "titleDe": "Mit Hund nach Tiflis reisen",
+      "titleNl": "Met je hond naar Tbilisi reizen",
       "introDe": "Der Internationale Flughafen Tiflis (TBS) hat Direktflüge aus den meisten europäischen Hauptstädten (3-5 Stunden). Hunde reisen im Frachtraum. Georgien gehört nicht zum EU-Heimtierausweis-System; Sie benötigen ein georgisches Gesundheitszeugnis, ausgestellt von einem amtlichen Tierarzt innerhalb von 10 Tagen vor der Einreise, eine gültige Tollwutimpfung (mindestens 21 Tage alt) und einen ISO-Mikrochip.",
+      "introNl": "Luchthaven Tbilisi International (TBS) heeft directe vluchten vanuit de meeste Europese hoofdsteden (3-5 uur). Honden reizen in het ruim. Georgië valt niet onder het EU-huisdierenpaspoort; je hebt een Georgisch gezondheidscertificaat nodig, afgegeven door een officiële dierenarts binnen 10 dagen voor aankomst, een geldige rabiësvaccinatie (21+ dagen oud) en een ISO-microchip.",
       "faqsDe": [
         {
           "q": "Brauchen Hunde ein spezielles georgisches Gesundheitszeugnis, oder reicht der EU-Heimtierausweis?",
@@ -341,6 +378,16 @@
         {
           "q": "Ist Tiflis mit einem großen Hund leicht zu erkunden?",
           "a": "Sehr gut. Die flachen Viertel Vera und Vake sind ideal. Die Altstadt (Kala) hat enge, ansteigende Gassen, die aber Fußgängerzonen und für Hunde gut begehbar sind. Die Hauptstraße von Tiflis (Rustaveli) hat breite Gehwege. Die Stadt ist generell sehr entspannt, was Hunde im öffentlichen Raum angeht."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hebben honden een specifiek Georgisch gezondheidscertificaat nodig, of volstaat het EU-huisdierenpaspoort?",
+          "a": "Georgië accepteert het EU-huisdierenpaspoort niet als op zichzelf staand document. Je hebt een gezondheidscertificaat nodig in het formaat dat is goedgekeurd door het Georgische voedselveiligheidsagentschap (LEPL), afgegeven door een officiële (door de overheid erkende) dierenarts binnen 10 dagen voor je reis. Vraag je dierenarts om vóór je reis het actuele Georgische certificaatmodel te controleren."
+        },
+        {
+          "q": "Is Tbilisi makkelijk te doen met een grote hond?",
+          "a": "Zeker wel. De vlakke wijken Vera en Vake zijn ideaal. De oude stad (Kala) heeft smalle, hellende straten, maar die zijn voetgangersgebied en prima voor honden. De hoofdboulevard van Tbilisi (Rustaveli) heeft brede trottoirs. De stad is over het algemeen erg relaxed over honden in alle openbare ruimtes."
         }
       ]
     },
@@ -415,7 +462,9 @@
         }
       ],
       "titleDe": "Schwimmen & Flüsse in der Nähe von Tiflis",
+      "titleNl": "Zwemmen & rivieren bij Tbilisi",
       "introDe": "Tiflis liegt 350 km von der Schwarzmeerküste entfernt. Die nächsten Schwimmmöglichkeiten für Hunde sind die Ufer des Mtkvari (Kura) in der Stadt, der Lisi-See (8 km nordwestlich) und das Tal des Iori-Flusses (60 km östlich). Der Schildkrötensee oberhalb des Vake-Parks ist der am besten erreichbare Ort der Stadt zum Schwimmen mit Hund.",
+      "introNl": "Tbilisi ligt 350 km van de Zwarte Zeekust. De dichtstbijzijnde zwemplekken voor honden zijn de oevers van de Mtkvari (Kura) in de stad, Lisi Lake (8 km ten noordwesten) en de vallei van de Iori-rivier (60 km ten oosten). Turtle Lake boven Vake Park is de best bereikbare zwemplek voor honden in de stad.",
       "faqsDe": [
         {
           "q": "Kann mein Hund im Kura-Fluss in Tiflis schwimmen?",
@@ -424,6 +473,16 @@
         {
           "q": "Wie weit ist Tiflis von der Schwarzmeerküste für einen Tagesausflug zum Strand entfernt?",
           "a": "Batumi (der wichtigste georgische Schwarzmeerkurort) liegt 350 km westlich, etwa 4-5 Stunden mit dem Auto auf einer guten Autobahn. Besser als eigenständiges Reiseziel denn als Tagesausflug von Tiflis behandeln; eine Kombination aus Tiflis und Batumi eignet sich hervorragend für einen 7-10-tägigen Georgien-Urlaub mit Hund."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan mijn hond zwemmen in de Kura-rivier in Tbilisi?",
+          "a": "De Kura (Mtkvari) stroomt door het centrum van Tbilisi, maar de stroming is sterk in het hoofdkanaal. De rustigere delen bij de Vredesbrug en Rike Park hebben toegankelijke oevers; honden kunnen er pootjebaden, maar zwemmen in de hoofdstroom is niet veilig. Ga voor echt zwemplezier liever naar Turtle Lake of Lisi Lake."
+        },
+        {
+          "q": "Hoe ver is Tbilisi van de Zwarte Zeekust voor een dagje strand?",
+          "a": "Batumi (de belangrijkste Georgische Zwarte Zee-badplaats) ligt 350 km naar het westen, ongeveer 4-5 uur rijden over een goede snelweg. Beter om het als een aparte bestemming te zien dan als dagtrip vanuit Tbilisi; een combinatie van Tbilisi en Batumi is uitstekend voor een vakantie van 7-10 dagen in Georgië met hond."
         }
       ]
     },
@@ -498,7 +557,9 @@
         }
       ],
       "titleDe": "Tierärzte & Notfallversorgung in Tiflis",
+      "titleNl": "Dierenartsen & spoedzorg in Tbilisi",
       "introDe": "Tiflis verfügt für eine kaukasische Hauptstadt über eine gute tierärztliche Infrastruktur mit mehreren gut ausgestatteten Praxen in den Vierteln Vake und Vera. Englischsprachige Tierärzte sind in den größeren Kliniken verfügbar. Notfalldienste stehen rund um die Uhr in den größeren Tierkliniken von Tiflis zur Verfügung.",
+      "introNl": "Tbilisi heeft voor een Kaukasische hoofdstad een goede veterinaire infrastructuur; meerdere goed uitgeruste praktijken in de wijken Vake en Vera. Bij de grotere klinieken zijn Engelssprekende dierenartsen beschikbaar. Spoeddiensten zijn 24 uur per dag beschikbaar bij de grotere dierenklinieken van Tbilisi.",
       "faqsDe": [
         {
           "q": "Ist die tierärztliche Versorgung in Tiflis erschwinglich?",
@@ -507,6 +568,16 @@
         {
           "q": "Kann ich die Tollwutimpfung meines Hundes bei Bedarf in Tiflis auffrischen lassen?",
           "a": "Ja, in jeder Tierarztpraxis. Georgische Tierärzte führen europäische Standardimpfstoffe einschließlich Tollwut. Wenn die Impfung Ihres Hundes für die Wiedereinreise in die EU knapp bemessen ist, ist eine Auffrischung in Tiflis einfach und günstig."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is diergeneeskundige zorg betaalbaar in Tbilisi?",
+          "a": "Ja, aanzienlijk goedkoper dan in West-Europa. Een gewoon consult kost 20-40 GEL (7-15 EUR). Spoedbehandeling kost 100-300 GEL (35-110 EUR). Daarmee is Tbilisi een van de betaalbaarste steden in de regio voor diergeneeskundige zorg."
+        },
+        {
+          "q": "Kan ik de rabiësvaccinatie van mijn hond zo nodig in Tbilisi laten bijwerken?",
+          "a": "Ja, bij elke dierenartspraktijk. Georgische dierenartsen hebben standaard Europese vaccins op voorraad, inclusief rabiës. Als de vaccinatie van je hond aan de grens zit voor de EU-terugkeervoorwaarden, is een boostervaccinatie in Tbilisi eenvoudig en goedkoop."
         }
       ]
     },
@@ -582,7 +653,9 @@
         }
       ],
       "titleDe": "Wichtige Reisetipps mit Hund für Tiflis & Georgien",
+      "titleNl": "Essentiële reistips met hond voor Tbilisi & Georgië",
       "introDe": "Georgien gehört weltweit zu den gastfreundlichsten Ländern für Hunde. Die Kultur der herzlichen Gastfreundschaft (georgisch: 'stumarmaspindzloba') schließt auch die Tiere der Gäste ein; Sie werden mit Ihrem Hund in Restaurants, Gästehäusern und Privathaushalten auf eine Weise willkommen geheißen, die für westeuropäische Hundehalter, die Einschränkungen gewohnt sind, außergewöhnlich wirkt.",
+      "introNl": "Georgië is een van de meest gastvrije landen ter wereld voor honden. De cultuur van warme gastvrijheid (Georgisch: 'stumarmaspindzloba') strekt zich uit tot de dieren van gasten; je wordt met je hond verwelkomd in restaurants, guesthouses en huizen op een manier die voor West-Europese hondenbaasjes, gewend aan beperkingen, buitengewoon aanvoelt.",
       "faqsDe": [
         {
           "q": "Ist Georgien sicher für Hunde?",
@@ -591,6 +664,16 @@
         {
           "q": "Wie schneidet Georgien im Vergleich zu anderen Kaukasus-Reisezielen für Hundereisen ab?",
           "a": "Georgien ist mit deutlichem Abstand das hundefreundlichste Reiseziel im Kaukasus. Armenien (Eriwan) ist ebenfalls einladend, hat aber eine kleinere touristische Infrastruktur. Aserbaidschan (Baku) ist weniger hundetolerant. Georgien bietet zudem die besten Wander- und Naturlandschaften der Region für aktive Reisen mit Hund."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Georgië veilig voor honden?",
+          "a": "Heel veilig. Het grootste risico is ontmoetingen met zwerfhonden in minder centrale gebieden; houd je hond 's avonds aangelijnd in rustigere woonstraten. Door het vaccinatieprogramma voor zwerfhonden is het bijtrisico lager dan je zou verwachten. Teken komen voor in de Kaukasus in het voor- en najaar; gebruik tekenpreventie voor je gaat wandelen."
+        },
+        {
+          "q": "Hoe verhoudt Georgië zich tot andere Kaukasus-bestemmingen voor reizen met hond?",
+          "a": "Georgië is duidelijk de meest hondvriendelijke bestemming in de Kaukasus. Armenië (Jerevan) is ook gastvrij, maar heeft een kleinere toeristische infrastructuur. Azerbeidzjan (Bakoe) is minder hondvriendelijk. Georgië heeft ook de beste wandelmogelijkheden en natuurlijke landschappen van de regio voor actieve reizen met hond."
         }
       ]
     },
@@ -625,8 +708,11 @@
           "tipPt": "Suba a partir de Abanotubani (bairro dos banhos de enxofre) passando pelo Jardim Botânico até à fortaleza; uma subida de 45 minutos com vistas dramáticas em cada curva, terminando na plataforma de observação da fortaleza com panorama de 180 graus",
           "googleMapsUrl": "https://maps.google.com/?q=Narikala+Fortress+Tbilisi+Georgia",
           "descriptionDe": "Die Ruinen der Festung aus dem 4. Jahrhundert, die auf der Klippe über der Altstadt von Tiflis thront, sind mit angeleintem Hund vollständig zugänglich; die Ausblicke über die Kura-Schlucht, die Metekhi-Kirche und die Kuppeln der Schwefelbäder sind außergewöhnlich. Die Festung ist über eine Seilbahn (kleine Hunde in Transportboxen) oder einen steilen Weg über Kopfsteinpflaster mit der Altstadt verbunden.",
+          "descriptionNl": "De 4e-eeuwse fortruïnes op de rots boven de oude stad van Tbilisi zijn volledig toegankelijk met aangelijnde honden; het uitzicht over de Kura-kloof, de Metekhi-kerk en de koepels van de zwavelbaden is buitengewoon. Het fort is verbonden met de oude stad via een kabelbaan (kleine honden in draagtas) of een steile wandeling over een geplaveid pad.",
           "petPolicyDe": "Hunde an der Leine in der gesamten Festungsruine und den Gassen der Altstadt willkommen",
-          "tipDe": "Gehen Sie von Abanotubani (Schwefelbadviertel) durch den Botanischen Garten zur Festung hinauf; ein 45-minütiger Aufstieg mit dramatischen Ausblicken bei jeder Wendung, der an der Aussichtsplattform der Festung mit 180-Grad-Panorama endet"
+          "petPolicyNl": "Honden welkom aan de lijn in de hele fortruïne en de straten van de oude stad",
+          "tipDe": "Gehen Sie von Abanotubani (Schwefelbadviertel) durch den Botanischen Garten zur Festung hinauf; ein 45-minütiger Aufstieg mit dramatischen Ausblicken bei jeder Wendung, der an der Aussichtsplattform der Festung mit 180-Grad-Panorama endet",
+          "tipNl": "Loop vanaf Abanotubani (zwavelbadenwijk) via de Botanische Tuin omhoog naar het fort; een klim van 45 minuten met bij elke bocht spectaculair uitzicht, eindigend op het uitkijkplatform van het fort met een panorama van 180 graden"
         }
       ],
       "tipsEn": [
@@ -690,7 +776,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Tiflis",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Tbilisi",
       "introDe": "Tiflis ist auf dramatischen Klippen und Flussschluchten erbaut; ein Großteil der beeindruckendsten Architektur und Landschaft liegt im Freien und ist mit Hund vollständig zugänglich. Die Altstadt (Kala), die Ruinen der Festung Narikala, das Schwefelbadviertel (Abanotubani) und die Klippenkirche Metekhi sind alle mit Hund zugänglich.",
+      "introNl": "Tbilisi is gebouwd op dramatische kliffen en rivierkloven; veel van de indrukwekkendste architectuur en landschappen bevinden zich buiten en zijn volledig toegankelijk met hond. De oude stad (Kala), de ruïnes van fort Narikala, de zwavelbadenwijk (Abanotubani) en de Metekhi-kerk op de rots zijn allemaal toegankelijk met honden.",
       "faqsDe": [
         {
           "q": "Darf mein Hund die Schwefelbäder von Tiflis (Abanotubani) besuchen?",
@@ -699,6 +787,16 @@
         {
           "q": "Ist die Seilbahn von Tiflis hundefreundlich?",
           "a": "Die Narikala-Seilbahn (vom Rike-Park zur Festung) akzeptiert kleine Hunde in Transportboxen. Größere Hunde müssen den Aufstiegsweg von Abanotubani durch den Botanischen Garten nehmen. Die Vake-Seilbahn zum Schildkrötensee akzeptiert Hunde in Transportboxen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan mijn hond de zwavelbaden van Tbilisi (Abanotubani) bezoeken?",
+          "a": "De zwavelbaden zelf zijn overdekte badfaciliteiten en laten geen honden toe. De straten van de wijk Abanotubani, de brug en het kleine parkje voor de badgebouwen zijn wel toegankelijk met hond en vormen een uitstekend wandelgebied."
+        },
+        {
+          "q": "Is de kabelbaan van Tbilisi hondvriendelijk?",
+          "a": "De kabelbaan van Narikala (van Rike Park naar het fort) laat kleine honden in draagtas toe. Grotere honden moeten het klimpad vanaf Abanotubani door de Botanische Tuin nemen. De kabelbaan van Vake naar Turtle Lake laat honden in draagtas toe."
         }
       ]
     },
@@ -773,7 +871,9 @@
         }
       ],
       "titleDe": "Haustierbetreuung in Tiflis",
+      "titleNl": "Hondenoppas in Tbilisi",
       "introDe": "Haustierbetreuung in Tiflis wird vorrangig über die Expat- und Nomaden-Community organisiert. Die Stadt hat eine große Community digitaler Nomaden (viele langfristig remote arbeitende Menschen, die für Kurzzeitbesucher auf Hunde aufpassen) und mehrere lokale Betreuungsdienste. Die Facebook-Gruppe 'Tbilisi Expats' ist die zuverlässigste Quelle.",
+      "introNl": "Hondenoppas in Tbilisi wordt vooral geregeld via de expat- en nomadengemeenschap. De stad heeft een grote groep digitale nomaden (veel langdurige remote workers die voor kortverblijvende bezoekers op honden passen) en verschillende lokale oppasdiensten. De Facebook-groep 'Tbilisi Expats' is de betrouwbaarste bron.",
       "faqsDe": [
         {
           "q": "Gibt es Hundepensionen in Tiflis?",
@@ -782,6 +882,16 @@
         {
           "q": "Ist Rover in Tiflis verfügbar?",
           "a": "Rover ist in Georgien nicht aktiv. Lokale Alternativen und die Facebook-Gruppe Tbilisi Expats sind die zuverlässigsten Quellen für englischsprachige Haustierbetreuer."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er hondenpensions in Tbilisi?",
+          "a": "Ja, meerdere professionele pensions in de buitenwijken. Je dierenarts of guesthouse-gastheer kan er een aanbevelen. Georgische pensions zijn meestal huiselijk in plaats van institutioneel, dus je hond verblijft eerder in iemands tuin dan in een kennelblok."
+        },
+        {
+          "q": "Is Rover beschikbaar in Tbilisi?",
+          "a": "Rover is niet actief in Georgië. Lokale alternatieven en de Facebook-groep Tbilisi Expats zijn de betrouwbaarste bronnen voor Engelssprekende hondenoppassers."
         }
       ]
     }

@@ -33217,6 +33217,184 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  orvieto: {
+    "history": {
+      "en": "Orvieto rises on a sheer tufa cliff above the Umbrian valley, founded by the Etruscans who carved wells, cisterns, and tunnels into the soft volcanic rock long before Rome's rise. The city's crowning landmark is the Duomo, a striped Gothic cathedral with a shimmering golden mosaic facade, its Cappella di San Brizio holding Luca Signorelli's dramatic Last Judgment frescoes. Nearby, the Pozzo di San Patrizio, a 16th-century well with two spiralling ramps, was built as an emergency water supply. Beneath the streets, the Orvieto Underground reveals a labyrinth of Etruscan and medieval caves carved into the tufa. The surrounding hills produce Orvieto Classico, one of Italy's best-known white wines. A funicular has linked the valley train station to the hilltop old town since the 19th century. For visitors travelling with a dog, that funicular carries small pets free, the Anello della Rupe path circling the cliff is fully leash-friendly, and the underground cave tour is one of the few monuments here that welcomes a leashed dog inside.",
+      "fr": "Orvieto se dresse sur une falaise de tuf abrupte au-dessus de la vallée ombrienne, fondée par les Étrusques qui creusaient puits, citernes et tunnels dans la roche volcanique tendre bien avant l'essor de Rome. Le monument phare de la ville est le Duomo, une cathédrale gothique rayée à la façade en mosaïque dorée éclatante, dont la Cappella di San Brizio abrite les fresques spectaculaires du Jugement dernier de Luca Signorelli. Tout près, le Pozzo di San Patrizio, un puits du XVIe siècle à deux rampes en spirale, fut construit comme réserve d'eau de secours. Sous les rues, l'Orvieto Underground dévoile un labyrinthe de grottes étrusques et médiévales taillées dans le tuf. Les collines alentour produisent l'Orvieto Classico, l'un des vins blancs italiens les plus réputés. Un funiculaire relie depuis le XIXe siècle la gare de la vallée à la vieille ville perchée. Pour les visiteurs voyageant avec un chien, ce funiculaire transporte gratuitement les petits animaux, le chemin de l'Anello della Rupe qui fait le tour de la falaise est entièrement praticable en laisse, et la visite souterraine des grottes est l'un des rares monuments admettant un chien tenu en laisse.",
+      "es": "Orvieto se alza sobre un escarpado acantilado de toba sobre el valle umbro, fundada por los etruscos, que excavaron pozos, cisternas y túneles en la blanda roca volcánica mucho antes del auge de Roma. El monumento emblemático de la ciudad es el Duomo, una catedral gótica a rayas con una reluciente fachada de mosaico dorado, cuya Cappella di San Brizio alberga los espectaculares frescos del Juicio Final de Luca Signorelli. Cerca, el Pozzo di San Patrizio, un pozo del siglo XVI con dos rampas en espiral, se construyó como reserva de agua de emergencia. Bajo las calles, el Orvieto Underground revela un laberinto de cuevas etruscas y medievales excavadas en la toba. Las colinas circundantes producen el Orvieto Classico, uno de los vinos blancos más conocidos de Italia. Desde el siglo XIX, un funicular conecta la estación del valle con el casco antiguo en lo alto. Para quienes viajan con un perro, ese funicular lleva gratis a las mascotas pequeñas, el camino del Anello della Rupe que rodea el acantilado es totalmente apto para perros con correa, y la visita subterránea a las cuevas es uno de los pocos monumentos que admite un perro con correa en su interior.",
+      "pt": "Orvieto ergue-se sobre um íngreme penhasco de tufo acima do vale umbro, fundada pelos etruscos, que escavaram poços, cisternas e túneis na rocha vulcânica macia muito antes da ascensão de Roma. O marco maior da cidade é o Duomo, uma catedral gótica listada com uma reluzente fachada em mosaico dourado, cuja Cappella di San Brizio alberga os dramáticos afrescos do Juízo Final de Luca Signorelli. Perto dali, o Pozzo di San Patrizio, um poço do século XVI com duas rampas em espiral, foi construído como reserva de água de emergência. Sob as ruas, o Orvieto Underground revela um labirinto de grutas etruscas e medievais escavadas no tufo. As colinas em redor produzem o Orvieto Classico, um dos vinhos brancos mais conhecidos de Itália. Desde o século XIX, um funicular liga a estação do vale à cidade antiga no alto. Para quem viaja com um cão, esse funicular transporta gratuitamente os animais pequenos, o caminho do Anello della Rupe que contorna o penhasco é totalmente adequado para cães com trela, e a visita subterrânea às grutas é um dos poucos monumentos que admite um cão com trela no interior.",
+      "de": "Orvieto thront auf einem steilen Tuffsteinfelsen über dem umbrischen Tal, gegründet von den Etruskern, die lange vor Roms Aufstieg Brunnen, Zisternen und Tunnel in den weichen Vulkanstein gruben. Das Wahrzeichen der Stadt ist der Duomo, eine gestreifte gotische Kathedrale mit einer schimmernden goldenen Mosaikfassade, deren Cappella di San Brizio Luca Signorellis dramatische Fresken des Jüngsten Gerichts beherbergt. Ganz in der Nähe wurde der Pozzo di San Patrizio, ein Brunnen aus dem 16. Jahrhundert mit zwei spiralförmigen Rampen, als Notwasserversorgung errichtet. Unter den Straßen offenbart Orvieto Underground ein Labyrinth aus etruskischen und mittelalterlichen Höhlen, die in den Tuffstein gehauen wurden. Die umliegenden Hügel bringen den Orvieto Classico hervor, einen der bekanntesten Weißweine Italiens. Seit dem 19. Jahrhundert verbindet eine Standseilbahn den Bahnhof im Tal mit der Altstadt auf dem Hügel. Für Besucher mit Hund gilt: Diese Standseilbahn befördert kleine Haustiere kostenlos, der Weg des Anello della Rupe rund um den Felsen ist durchgehend leinenfreundlich, und die unterirdische Höhlenführung ist eines der wenigen Denkmäler, das einen angeleinten Hund im Inneren willkommen heißt.",
+      "nl": "Orvieto rijst op boven de Umbrische vallei op een steile tufsteenrots, gesticht door de Etrusken, die lang voor de opkomst van Rome putten, cisternen en tunnels in het zachte vulkanische gesteente uithieuwen. Het pronkstuk van de stad is de Duomo, een gestreepte gotische kathedraal met een schitterende gouden mozaïekgevel, waarvan de Cappella di San Brizio de dramatische fresco's van het Laatste Oordeel van Luca Signorelli herbergt. Vlakbij werd de Pozzo di San Patrizio, een put uit de 16e eeuw met twee spiraalvormige hellingen, gebouwd als noodwatervoorziening. Onder de straten onthult Orvieto Underground een labyrint van Etruskische en middeleeuwse grotten, uitgehouwen in het tufsteen. De omliggende heuvels brengen de Orvieto Classico voort, een van de bekendste witte wijnen van Italië. Sinds de 19e eeuw verbindt een kabelbaan het station in de vallei met de oude stad op de heuvel. Voor bezoekers die met een hond reizen geldt: die kabelbaan vervoert kleine huisdieren gratis, het pad van de Anello della Rupe rond de rots is helemaal geschikt voor honden aan de lijn, en de ondergrondse grottentour is een van de weinige monumenten die een hond aan de lijn binnen toelaat."
+    },
+    "sights": [
+      {
+        "name": "Duomo di Orvieto",
+        "emoji": "⛪",
+        "petFriendly": true,
+        "desc": {
+          "en": "Orvieto's striped Gothic cathedral, famous for its golden mosaic facade and Luca Signorelli's Last Judgment frescoes inside the Cappella di San Brizio. The piazza in front is freely accessible with a leashed dog, though the cathedral interior itself does not admit pets, as with most Italian churches.",
+          "fr": "La cathédrale gothique rayée d'Orvieto, célèbre pour sa façade en mosaïque dorée et les fresques du Jugement dernier de Luca Signorelli dans la Cappella di San Brizio. La place devant est librement accessible avec un chien en laisse, mais l'intérieur de la cathédrale n'admet pas les animaux, comme la plupart des églises italiennes.",
+          "es": "La catedral gótica a rayas de Orvieto, famosa por su fachada de mosaico dorado y los frescos del Juicio Final de Luca Signorelli en la Cappella di San Brizio. La plaza frente a ella es de libre acceso con un perro con correa, aunque el interior de la catedral no admite mascotas, como la mayoría de las iglesias italianas.",
+          "pt": "A catedral gótica listada de Orvieto, famosa pela sua fachada em mosaico dourado e pelos afrescos do Juízo Final de Luca Signorelli na Cappella di San Brizio. A praça em frente é de livre acesso com um cão com trela, embora o interior da catedral não admita animais, como a maioria das igrejas italianas.",
+          "de": "Orvietos gestreifte gotische Kathedrale, berühmt für ihre goldene Mosaikfassade und Luca Signorellis Fresken des Jüngsten Gerichts in der Cappella di San Brizio. Der Platz davor ist mit einem angeleinten Hund frei zugänglich, das Innere der Kathedrale selbst lässt jedoch, wie die meisten italienischen Kirchen, keine Haustiere zu.",
+          "nl": "Orvieto's gestreepte gotische kathedraal, beroemd om zijn gouden mozaïekgevel en de fresco's van het Laatste Oordeel van Luca Signorelli in de Cappella di San Brizio. Het plein ervoor is vrij toegankelijk met een hond aan de lijn, al laat het interieur van de kathedraal zelf, zoals de meeste Italiaanse kerken, geen huisdieren toe."
+        }
+      },
+      {
+        "name": "Pozzo di San Patrizio",
+        "emoji": "🕳️",
+        "petFriendly": true,
+        "desc": {
+          "en": "A remarkable 16th-century well nearly 54 metres deep, with two spiral ramps built so mules could descend and fetch water without crossing paths. Only small dogs up to 12 kg are admitted, and they must be carried in a suitable bag rather than walked down.",
+          "fr": "Un puits remarquable du XVIe siècle, profond de près de 54 mètres, avec deux rampes en spirale conçues pour que les mules descendent chercher de l'eau sans se croiser. Seuls les petits chiens jusqu'à 12 kg sont admis, et ils doivent être portés dans un sac adapté plutôt que descendre à pied.",
+          "es": "Un pozo notable del siglo XVI de casi 54 metros de profundidad, con dos rampas en espiral construidas para que las mulas bajaran a por agua sin cruzarse. Solo se admiten perros pequeños de hasta 12 kg, y deben ir en una bolsa adecuada en lugar de bajar caminando.",
+          "pt": "Um poço notável do século XVI com quase 54 metros de profundidade, com duas rampas em espiral construídas para que as mulas descessem para ir buscar água sem se cruzarem. Só são admitidos cães pequenos até 12 kg, que devem ser transportados numa mala adequada em vez de descerem a pé.",
+          "de": "Ein bemerkenswerter Brunnen aus dem 16. Jahrhundert, fast 54 Meter tief, mit zwei spiralförmigen Rampen, die es Maultieren ermöglichten, ohne Begegnung hinunter zum Wasser zu gelangen. Nur kleine Hunde bis 12 kg sind zugelassen, und sie müssen in einer geeigneten Tasche getragen werden, statt hinunterzulaufen.",
+          "nl": "Een opmerkelijke put uit de 16e eeuw van bijna 54 meter diep, met twee spiraalvormige hellingen zodat muildieren zonder elkaar te kruisen naar beneden konden om water te halen. Alleen kleine honden tot 12 kg zijn toegestaan, en ze moeten worden gedragen in een geschikte tas in plaats van naar beneden te lopen."
+        }
+      },
+      {
+        "name": "Orvieto Underground",
+        "emoji": "🦇",
+        "petFriendly": true,
+        "desc": {
+          "en": "A guided tour of roughly 45 minutes through a labyrinth of Etruscan and medieval caves carved into the tufa beneath the old town, including ancient wells, olive presses, and dovecotes. It's one of the rare monuments in Orvieto that welcomes leashed dogs on the tour itself.",
+          "fr": "Une visite guidée d'environ 45 minutes à travers un labyrinthe de grottes étrusques et médiévales taillées dans le tuf sous la vieille ville, comprenant d'anciens puits, pressoirs à olives et colombiers. C'est l'un des rares monuments d'Orvieto à accueillir les chiens en laisse pendant la visite elle-même.",
+          "es": "Una visita guiada de unos 45 minutos por un laberinto de cuevas etruscas y medievales excavadas en la toba bajo el casco antiguo, con antiguos pozos, prensas de aceituna y palomares. Es uno de los pocos monumentos de Orvieto que admite perros con correa durante la propia visita.",
+          "pt": "Uma visita guiada de cerca de 45 minutos por um labirinto de grutas etruscas e medievais escavadas no tufo sob a cidade antiga, incluindo poços antigos, lagares de azeitona e pombais. É um dos raros monumentos de Orvieto que admite cães com trela na própria visita.",
+          "de": "Eine etwa 45-minütige geführte Tour durch ein Labyrinth aus etruskischen und mittelalterlichen Höhlen, die in den Tuffstein unter der Altstadt gegraben wurden, darunter alte Brunnen, Olivenpressen und Taubenschläge. Es ist eines der wenigen Denkmäler Orvietos, das angeleinte Hunde bei der Tour selbst willkommen heißt.",
+          "nl": "Een rondleiding van ongeveer 45 minuten door een labyrint van Etruskische en middeleeuwse grotten, uitgehouwen in het tufsteen onder de oude stad, met onder meer oude putten, olijfpersen en duiventillen. Het is een van de weinige monumenten in Orvieto die honden aan de lijn toelaat tijdens de rondleiding zelf."
+        }
+      },
+      {
+        "name": "Torre del Moro",
+        "emoji": "🗼",
+        "petFriendly": false,
+        "desc": {
+          "en": "A 13th-century civic tower rising over the crossing of Corso Cavour and Via del Duomo, climbable via stairs or a partial lift for sweeping views over the tufa rooftops and the Umbrian countryside. As an interior monument climb, it does not admit pets, though the streets around its base are freely walkable on leash.",
+          "fr": "Une tour civique du XIIIe siècle qui domine le croisement du Corso Cavour et de la Via del Duomo, accessible par un escalier ou un ascenseur partiel, offrant une vue panoramique sur les toits de tuf et la campagne ombrienne. En tant qu'ascension à l'intérieur d'un monument, elle n'admet pas les animaux, bien que les rues autour de sa base soient librement praticables en laisse.",
+          "es": "Una torre cívica del siglo XIII que se alza sobre el cruce del Corso Cavour y la Via del Duomo, a la que se sube por escaleras o un ascensor parcial, con vistas panorámicas sobre los tejados de toba y el campo umbro. Al tratarse de un ascenso en el interior de un monumento, no admite mascotas, aunque las calles alrededor de su base son de libre paseo con correa.",
+          "pt": "Uma torre cívica do século XIII que se ergue sobre o cruzamento do Corso Cavour com a Via del Duomo, acessível por escadas ou um elevador parcial, com vistas panorâmicas sobre os telhados de tufo e o campo umbro. Por se tratar de uma subida no interior de um monumento, não admite animais, embora as ruas em torno da sua base sejam livremente percorríveis com trela.",
+          "de": "Ein Stadtturm aus dem 13. Jahrhundert, der sich über der Kreuzung von Corso Cavour und Via del Duomo erhebt und über Treppen oder einen teilweisen Aufzug erklommen werden kann, mit weiten Ausblicken über die Tuffsteindächer und die umbrische Landschaft. Als Innenbereichs-Besteigung lässt er keine Haustiere zu, obwohl die Straßen um seinen Fuß herum frei an der Leine begehbar sind.",
+          "nl": "Een civiele toren uit de 13e eeuw boven de kruising van Corso Cavour en Via del Duomo, te beklimmen via trappen of een gedeeltelijke lift, met weids uitzicht over de tufstenen daken en het Umbrische platteland. Als binnenbeklimming laat de toren geen huisdieren toe, al zijn de straten rond de voet ervan vrij te belopen aan de lijn."
+        }
+      },
+      {
+        "name": "Anello della Rupe",
+        "emoji": "🥾",
+        "petFriendly": true,
+        "desc": {
+          "en": "A pedestrian ring path, roughly 3 km, that circles the entire tufa cliff beneath Orvieto's walls, part of the PAAO archaeological-environmental park. It's mostly flat, offers valley views the whole way around, and is fully leash-friendly, the best option in town for a proper dog walk.",
+          "fr": "Un chemin piéton en boucle, d'environ 3 km, qui fait le tour de tout le massif de tuf sous les remparts d'Orvieto, intégré au parc archéologique et environnemental PAAO. Il est en grande partie plat, offre des vues sur la vallée tout du long et se parcourt entièrement en laisse, la meilleure option en ville pour une vraie promenade avec un chien.",
+          "es": "Un camino peatonal circular, de unos 3 km, que rodea todo el macizo de toba bajo las murallas de Orvieto, integrado en el parque arqueológico-medioambiental PAAO. Es en su mayoría llano, ofrece vistas al valle durante todo el recorrido y es totalmente apto para perros con correa, la mejor opción en la ciudad para un paseo canino en condiciones.",
+          "pt": "Um caminho pedonal em anel, com cerca de 3 km, que rodeia todo o maciço de tufo sob as muralhas de Orvieto, integrado no parque arqueológico-ambiental PAAO. É na maior parte plano, oferece vistas sobre o vale ao longo de todo o percurso e é totalmente adequado para cães com trela, a melhor opção na cidade para um passeio canino a sério.",
+          "de": "Ein rund 3 km langer Rundweg, der den gesamten Tuffsteinfelsen unter Orvietos Stadtmauern umrundet, Teil des archäologisch-umweltbezogenen Parks PAAO. Er ist größtenteils flach, bietet die ganze Strecke über Talblick und ist durchgehend leinenfreundlich, die beste Option der Stadt für einen richtigen Hundespaziergang.",
+          "nl": "Een wandelroute van ongeveer 3 km die de hele tufsteenrots onder Orvieto's stadsmuren omcirkelt, onderdeel van het archeologisch-ecologische park PAAO. Het pad is grotendeels vlak, biedt de hele weg uitzicht op de vallei en is helemaal geschikt voor honden aan de lijn, de beste optie in de stad voor een echte hondenwandeling."
+        }
+      },
+      {
+        "name": "Corso Cavour e il centro storico",
+        "emoji": "🛍️",
+        "petFriendly": true,
+        "desc": {
+          "en": "Orvieto's main street runs the length of the old town, lined with shops, wine bars, and terrace restaurants, many of which welcome a well-behaved dog outdoors. It's the natural spine for exploring on foot, connecting the Duomo, Torre del Moro, and the smaller squares of the historic center.",
+          "fr": "L'artère principale d'Orvieto traverse toute la vieille ville, bordée de boutiques, de bars à vins et de restaurants en terrasse, dont beaucoup accueillent volontiers un chien bien tenu en extérieur. C'est l'axe naturel pour explorer la ville à pied, reliant le Duomo, la Torre del Moro et les places plus petites du centre historique.",
+          "es": "La calle principal de Orvieto recorre toda la vieja ciudad, flanqueada por tiendas, bares de vinos y restaurantes con terraza, muchos de los cuales reciben de buen grado a un perro bien educado en el exterior. Es el eje natural para explorar a pie, conectando el Duomo, la Torre del Moro y las plazas más pequeñas del centro histórico.",
+          "pt": "A rua principal de Orvieto atravessa toda a cidade antiga, ladeada por lojas, bares de vinho e restaurantes com esplanada, muitos dos quais recebem de bom grado um cão bem-comportado no exterior. É o eixo natural para explorar a pé, ligando o Duomo, a Torre del Moro e as praças mais pequenas do centro histórico.",
+          "de": "Orvietos Hauptstraße durchzieht die gesamte Altstadt, gesäumt von Geschäften, Weinbars und Terrassenrestaurants, von denen viele einen wohlerzogenen Hund draußen gerne willkommen heißen. Sie ist die natürliche Achse zum Erkunden zu Fuß und verbindet den Duomo, die Torre del Moro und die kleineren Plätze der Altstadt.",
+          "nl": "Orvieto's hoofdstraat loopt door de hele oude stad, met winkels, wijnbars en terrasrestaurants, waarvan veel een goed opgevoede hond graag buiten verwelkomen. Het is de natuurlijke ruggengraat om te voet te verkennen, en verbindt de Duomo, de Torre del Moro en de kleinere pleinen van het historische centrum."
+        }
+      }
+    ],
+    "petTips": {
+      "en": [
+        "Keep dogs on a leash no longer than 1.5 m at all times in public, as required by Italian national law, and carry a muzzle even if it isn't worn, it can be required on request or on public transport.",
+        "Small dogs ride Orvieto's funicular free if carried and muzzled, larger dogs need a regular ticket, leash, and muzzle.",
+        "The historic center's cobblestones and stepped alleys get hot in summer, protect paws with balm or booties and avoid midday walks in July and August.",
+        "Most monuments and museums in Orvieto do not admit pets, the Orvieto Underground cave tour is the notable exception for leashed dogs.",
+        "Italian law requires owners to clean up after their dogs everywhere in public, bring bags for the cobbled streets and the Anello della Rupe path alike."
+      ],
+      "fr": [
+        "Gardez toujours votre chien en laisse d'au maximum 1,5 m dans l'espace public, comme l'exige la loi italienne, et ayez une muselière sur vous même si elle n'est pas portée, elle peut être exigée sur demande ou dans les transports publics.",
+        "Les petits chiens voyagent gratuitement sur le funiculaire d'Orvieto s'ils sont portés et muselés, les chiens plus grands ont besoin d'un billet normal, d'une laisse et d'une muselière.",
+        "Les pavés et les ruelles à escaliers du centre historique deviennent chauds en été, protégez les coussinets avec un baume ou des chaussons et évitez les promenades de milieu de journée en juillet et août.",
+        "La plupart des monuments et musées d'Orvieto n'admettent pas les animaux, la visite souterraine Orvieto Underground fait notablement exception pour les chiens en laisse.",
+        "La loi italienne impose aux propriétaires de ramasser les déjections de leur chien partout dans l'espace public, prévoyez des sacs aussi bien pour les rues pavées que pour le chemin de l'Anello della Rupe."
+      ],
+      "es": [
+        "Lleva siempre al perro con correa de máximo 1,5 m en el espacio público, tal como exige la ley italiana, y ten un bozal encima aunque no lo lleve puesto, puede exigirse a petición o en el transporte público.",
+        "Los perros pequeños viajan gratis en el funicular de Orvieto si van en brazos y con bozal, los perros más grandes necesitan billete normal, correa y bozal.",
+        "Los adoquines y las callejuelas con escalones del centro histórico se calientan en verano, protege las almohadillas con bálsamo o botitas y evita los paseos al mediodía en julio y agosto.",
+        "La mayoría de los monumentos y museos de Orvieto no admiten mascotas, la visita subterránea Orvieto Underground es la notable excepción para perros con correa.",
+        "La ley italiana exige que los dueños recojan los excrementos de su perro en todo el espacio público, lleva bolsas tanto para las calles adoquinadas como para el camino del Anello della Rupe."
+      ],
+      "pt": [
+        "Mantenha sempre o cão com trela de no máximo 1,5 m em espaços públicos, conforme exige a lei italiana, e traga um açaime consigo mesmo que não seja usado, pode ser exigido a pedido ou nos transportes públicos.",
+        "Os cães pequenos viajam de graça no funicular de Orvieto se forem transportados ao colo e com açaime, os cães maiores precisam de bilhete normal, trela e açaime.",
+        "A calçada e as ruelas com degraus do centro histórico aquecem no verão, proteja as patas com bálsamo ou botinhas e evite passeios ao meio-dia em julho e agosto.",
+        "A maioria dos monumentos e museus de Orvieto não admite animais, a visita subterrânea Orvieto Underground é a exceção notável para cães com trela.",
+        "A lei italiana exige que os donos recolham os dejetos do cão em toda a via pública, leve sacos tanto para as ruas de calçada como para o caminho do Anello della Rupe."
+      ],
+      "de": [
+        "Halten Sie Ihren Hund jederzeit an einer maximal 1,5 m langen Leine, wie es das italienische Gesetz vorschreibt, und führen Sie einen Maulkorb mit, auch wenn er nicht getragen wird, er kann auf Verlangen oder in öffentlichen Verkehrsmitteln erforderlich sein.",
+        "Kleine Hunde fahren kostenlos mit Orvietos Standseilbahn, wenn sie getragen und mit Maulkorb versehen sind, größere Hunde benötigen ein normales Ticket, Leine und Maulkorb.",
+        "Das Kopfsteinpflaster und die gestuften Gassen der Altstadt werden im Sommer heiß, schützen Sie die Pfoten mit Balsam oder Schuhen und vermeiden Sie Mittagsspaziergänge im Juli und August.",
+        "Die meisten Denkmäler und Museen in Orvieto lassen keine Haustiere zu, die unterirdische Führung Orvieto Underground ist die bemerkenswerte Ausnahme für angeleinte Hunde.",
+        "Das italienische Gesetz verlangt, dass Halter überall im öffentlichen Raum die Hinterlassenschaften ihres Hundes beseitigen, nehmen Sie Tüten sowohl für die gepflasterten Straßen als auch für den Weg des Anello della Rupe mit."
+      ],
+      "nl": [
+        "Houd je hond altijd aan een lijn van maximaal 1,5 m in openbare ruimtes, zoals de Italiaanse wet vereist, en heb een muilkorf bij je, ook als die niet gedragen wordt, hij kan verplicht zijn op verzoek of in het openbaar vervoer.",
+        "Kleine honden reizen gratis met Orvieto's kabelbaan als ze gedragen worden en een muilkorf dragen, grotere honden hebben een gewoon ticket, lijn en muilkorf nodig.",
+        "De kasseien en trapsgewijze steegjes van het historische centrum worden 's zomers heet, bescherm de pootzooltjes met balsem of schoentjes en vermijd wandelingen rond het middaguur in juli en augustus.",
+        "De meeste monumenten en musea in Orvieto laten geen huisdieren toe, de ondergrondse tour Orvieto Underground is de opvallende uitzondering voor honden aan de lijn.",
+        "De Italiaanse wet verplicht eigenaren om overal in de openbare ruimte de uitwerpselen van hun hond op te ruimen, neem zakjes mee, zowel voor de geplaveide straten als voor het pad van de Anello della Rupe."
+      ]
+    },
+    "practicalInfo": {
+      "en": [
+        "Nearest airports: Perugia San Francesco d'Assisi (PEG), about 1h15 by car, and Rome Fiumicino (FCO), about 1h30, with direct Trenitalia regional trains also connecting Orvieto to Rome in roughly 1h20.",
+        "On regional trains, small pets in a carrier travel free, while larger dogs travel with leash and muzzle at half the standard second-class fare.",
+        "EU pet entry requires an ISO microchip, a valid rabies vaccination, and an EU pet passport (or animal health certificate for non-EU arrivals).",
+        "A 24-hour emergency vet clinic, Clinica Veterinaria Orvieto (Emergenze H24), operates on Strada del Piano just outside the old town, call ahead before arriving.",
+        "Spring (April-June) and autumn (September-October) are the best seasons to visit with a dog, avoiding the intense summer heat that makes cobblestones and midday walks uncomfortable."
+      ],
+      "fr": [
+        "Aéroports les plus proches : Perugia San Francesco d'Assisi (PEG), à environ 1h15 en voiture, et Rome Fiumicino (FCO), à environ 1h30, avec aussi des trains régionaux Trenitalia directs reliant Orvieto à Rome en environ 1h20.",
+        "Sur les trains régionaux, les petits animaux dans un transportin voyagent gratuitement, tandis que les chiens plus grands voyagent avec laisse et muselière à demi-tarif seconde classe.",
+        "L'entrée d'un animal dans l'UE nécessite une puce électronique conforme ISO, une vaccination antirabique valide et un passeport européen pour animaux (ou un certificat sanitaire pour les arrivées hors UE).",
+        "Une clinique vétérinaire d'urgence ouverte 24h/24, la Clinica Veterinaria Orvieto (Emergenze H24), se trouve Strada del Piano juste à la périphérie de la vieille ville, appelez avant de vous déplacer.",
+        "Le printemps (avril-juin) et l'automne (septembre-octobre) sont les meilleures saisons pour visiter avec un chien, en évitant la chaleur intense de l'été qui rend les pavés et les promenades de milieu de journée inconfortables."
+      ],
+      "es": [
+        "Aeropuertos más cercanos: Perugia San Francesco d'Assisi (PEG), a unas 1h15 en coche, y Roma Fiumicino (FCO), a unas 1h30, con trenes regionales directos de Trenitalia que también conectan Orvieto con Roma en aproximadamente 1h20.",
+        "En los trenes regionales, las mascotas pequeñas en transportín viajan gratis, mientras que los perros más grandes viajan con correa y bozal a mitad del precio estándar de segunda clase.",
+        "La entrada de una mascota en la UE requiere un microchip ISO, una vacuna antirrábica vigente y un pasaporte europeo para mascotas (o un certificado sanitario para animales para llegadas de fuera de la UE).",
+        "Una clínica veterinaria de urgencias abierta las 24 horas, la Clinica Veterinaria Orvieto (Emergenze H24), opera en Strada del Piano, justo a las afueras del casco antiguo, llama antes de ir.",
+        "La primavera (abril-junio) y el otoño (septiembre-octubre) son las mejores estaciones para visitar con un perro, evitando el intenso calor del verano que hace incómodos los adoquines y los paseos al mediodía."
+      ],
+      "pt": [
+        "Aeroportos mais próximos: Perugia San Francesco d'Assisi (PEG), a cerca de 1h15 de carro, e Roma Fiumicino (FCO), a cerca de 1h30, havendo também comboios regionais diretos da Trenitalia que ligam Orvieto a Roma em cerca de 1h20.",
+        "Nos comboios regionais, os animais pequenos em transportadora viajam de graça, enquanto os cães maiores viajam com trela e açaime a metade da tarifa normal de segunda classe.",
+        "A entrada de um animal na UE exige um microchip ISO, uma vacinação antirrábica válida e um passaporte europeu para animais (ou um certificado sanitário para chegadas de fora da UE).",
+        "Uma clínica veterinária de urgência aberta 24 horas, a Clinica Veterinaria Orvieto (Emergenze H24), funciona na Strada del Piano, mesmo à saída da cidade antiga, ligue antes de ir.",
+        "A primavera (abril-junho) e o outono (setembro-outubro) são as melhores estações para visitar com um cão, evitando o calor intenso do verão que torna a calçada e os passeios ao meio-dia desconfortáveis."
+      ],
+      "de": [
+        "Nächstgelegene Flughäfen: Perugia San Francesco d'Assisi (PEG), etwa 1 Std. 15 Min. mit dem Auto, und Rom Fiumicino (FCO), etwa 1 Std. 30 Min., mit auch direkten Trenitalia-Regionalzügen, die Orvieto in rund 1 Std. 20 Min. mit Rom verbinden.",
+        "In Regionalzügen reisen kleine Haustiere in einer Transportbox kostenlos, während größere Hunde mit Leine und Maulkorb zum halben Preis der regulären Zweite-Klasse-Fahrkarte reisen.",
+        "Für die Einreise eines Haustiers in die EU sind ein ISO-Mikrochip, eine gültige Tollwutimpfung und ein EU-Heimtierausweis (oder eine Tiergesundheitsbescheinigung bei Einreise von außerhalb der EU) erforderlich.",
+        "Eine rund um die Uhr geöffnete Notfalltierklinik, die Clinica Veterinaria Orvieto (Emergenze H24), befindet sich an der Strada del Piano direkt außerhalb der Altstadt, rufen Sie vorher an.",
+        "Frühling (April bis Juni) und Herbst (September bis Oktober) sind die besten Jahreszeiten für einen Besuch mit Hund, um die intensive Sommerhitze zu vermeiden, die Kopfsteinpflaster und Mittagsspaziergänge unangenehm macht."
+      ],
+      "nl": [
+        "Dichtstbijzijnde luchthavens: Perugia San Francesco d'Assisi (PEG), ongeveer 1 uur 15 met de auto, en Rome Fiumicino (FCO), ongeveer 1 uur 30, met ook directe Trenitalia-regionale treinen die Orvieto in ongeveer 1 uur 20 met Rome verbinden.",
+        "In regionale treinen reizen kleine huisdieren in een reismand gratis, terwijl grotere honden met lijn en muilkorf reizen tegen de helft van het normale tweedeklastarief.",
+        "Voor binnenkomst van een huisdier in de EU is een ISO-microchip, een geldige rabiësvaccinatie en een EU-dierenpaspoort (of een gezondheidscertificaat voor dieren bij aankomst van buiten de EU) vereist.",
+        "Een 24 uur per dag geopende spoedkliniek, de Clinica Veterinaria Orvieto (Emergenze H24), bevindt zich aan de Strada del Piano net buiten de oude stad, bel van tevoren.",
+        "Lente (april tot juni) en herfst (september tot oktober) zijn de beste seizoenen om met een hond te bezoeken, om de intense zomerhitte te vermijden die kasseien en wandelingen rond het middaguur onaangenaam maakt."
+      ]
+    }
+  },
   osaka: {
     history: {
       fr: `Osaka a grandi de la ville-temple et du port médiévaux de Naniwa jusqu'à devenir la capitale marchande du Japon, la "cuisine de la nation" dont les négociants finançaient le pays pendant que le pouvoir Tokugawa siégeait à Edo. Le grand château de Toyotomi Hideyoshi, reconstruit après les guerres et les incendies, ancre toujours la ville, et les canaux qui transportaient le riz et les marchandises ont donné naissance à la culture gastronomique de Dotonbori et Kuromon. Aujourd'hui, Osaka est le cœur animé de la région du Kansai, plus directe et joueuse que Tokyo. Pour un maître de chien, elle est praticable mais encadrée : les chiens ne prennent le métro et les trains JR qu'enfermés dans un sac, et la plupart des temples, centres commerciaux et halles gourmandes les excluent. Le plaisir se vit en plein air, dans les parcs au bord de l'eau de Nakanoshima, dans les dog runs préfectoraux comme Hamadera et le long des canaux, le Shinkansen reliant Kyoto en environ 15 minutes et Tokyo en environ 2 h 30.`,
@@ -43111,6 +43289,184 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  sibiu: {
+    "history": {
+      "en": "Sibiu, once known by its German name Hermannstadt, is one of the seven fortified citadels founded by Transylvanian Saxon settlers in the 12th century, and its medieval defensive walls and towers still ring parts of the old town. At its heart, Piața Mare (Large Square) and Piața Mică (Small Square) are linked by the wrought-iron Bridge of Lies, while pastel Saxon townhouses with distinctive eyelid roof windows watch over the cobbled lanes. The Brukenthal Palace, built in the 1770s for Habsburg governor Samuel von Brukenthal, houses one of Romania's oldest art museums, and the sprawling ASTRA open-air museum just outside the city preserves traditional Transylvanian village life across a wooded park. Sibiu was named European Capital of Culture in 2007, and the Făgăraș mountains rise just to the south. For visitors traveling with a dog, the compact, walkable center, cafe terraces that welcome pets, and three fenced off-leash dog parks opened in 2023 make Sibiu one of Romania's more comfortable cities to explore on four paws.",
+      "fr": "Sibiu, autrefois connue sous son nom allemand Hermannstadt, est l'une des sept citadelles fortifiées fondées par les colons saxons de Transylvanie au XIIe siècle, et ses remparts et tours médiévaux ceignent encore une partie de la vieille ville. En son cœur, la Piața Mare (Grande Place) et la Piața Mică (Petite Place) sont reliées par le Pont des Mensonges en fer forgé, tandis que des maisons saxonnes pastel aux lucarnes en forme de paupières surplombent les ruelles pavées. Le palais Brukenthal, construit dans les années 1770 pour le gouverneur habsbourgeois Samuel von Brukenthal, abrite l'un des plus anciens musées d'art de Roumanie, et le vaste musée en plein air ASTRA, juste à l'extérieur de la ville, préserve la vie traditionnelle des villages transylvains dans un parc boisé. Sibiu a été désignée Capitale européenne de la culture en 2007, et les montagnes de Făgăraș s'élèvent juste au sud. Pour les visiteurs voyageant avec un chien, le centre compact et piéton, les terrasses de café accueillant les animaux, et les trois parcs à chiens clôturés sans laisse ouverts en 2023 font de Sibiu l'une des villes roumaines les plus agréables à explorer à quatre pattes.",
+      "es": "Sibiu, antes conocida por su nombre alemán Hermannstadt, es una de las siete ciudadelas fortificadas fundadas por los colonos sajones de Transilvania en el siglo XII, y sus murallas y torres medievales aún rodean parte del casco antiguo. En su centro, la Piața Mare (Plaza Grande) y la Piața Mică (Plaza Pequeña) están unidas por el Puente de las Mentiras de hierro forjado, mientras que las casas sajonas de colores pastel, con sus características buhardillas en forma de párpado, vigilan las calles empedradas. El palacio Brukenthal, construido en la década de 1770 para el gobernador habsburgo Samuel von Brukenthal, alberga uno de los museos de arte más antiguos de Rumanía, y el extenso museo al aire libre ASTRA, justo a las afueras de la ciudad, conserva la vida tradicional de las aldeas transilvanas en un parque boscoso. Sibiu fue nombrada Capital Europea de la Cultura en 2007, y las montañas de Făgăraș se alzan justo al sur. Para los visitantes que viajan con un perro, el centro compacto y peatonal, las terrazas de cafeterías que admiten mascotas, y los tres parques caninos vallados sin correa abiertos en 2023 convierten a Sibiu en una de las ciudades rumanas más cómodas para explorar con cuatro patas.",
+      "pt": "Sibiu, outrora conhecida pelo seu nome alemão Hermannstadt, é uma das sete cidadelas fortificadas fundadas pelos colonos saxões da Transilvânia no século XII, e as suas muralhas e torres medievais ainda rodeiam parte da cidade velha. No seu coração, a Piața Mare (Praça Grande) e a Piața Mică (Praça Pequena) estão ligadas pela Ponte das Mentiras, em ferro forjado, enquanto casas saxãs em tons pastel, com as suas características janelas em forma de pálpebra, vigiam as ruas de calçada. O Palácio Brukenthal, construído na década de 1770 para o governador habsburgo Samuel von Brukenthal, alberga um dos museus de arte mais antigos da Roménia, e o vasto museu ao ar livre ASTRA, mesmo fora da cidade, preserva a vida tradicional das aldeias transilvanas num parque arborizado. Sibiu foi nomeada Capital Europeia da Cultura em 2007, e as montanhas de Făgăraș erguem-se logo a sul. Para os visitantes que viajam com um cão, o centro compacto e fácil de percorrer a pé, as esplanadas de café que acolhem animais, e os três parques caninos vedados sem trela abertos em 2023 fazem de Sibiu uma das cidades romenas mais confortáveis para explorar a quatro patas.",
+      "de": "Sibiu, frueher unter seinem deutschen Namen Hermannstadt bekannt, ist eine der sieben befestigten Zitadellen, die im 12. Jahrhundert von siebenbuergisch-saechsischen Siedlern gegruendet wurden, und seine mittelalterlichen Wehrmauern und Tuerme umgeben noch immer Teile der Altstadt. In ihrem Zentrum sind die Piața Mare (Grosser Platz) und die Piața Mică (Kleiner Platz) durch die schmiedeeiserne Luegenbruecke verbunden, waehrend pastellfarbene saechsische Buergerhaeuser mit ihren charakteristischen lidfoermigen Dachfenstern ueber die gepflasterten Gassen wachen. Das Brukenthal-Palais, in den 1770er Jahren fuer den habsburgischen Gouverneur Samuel von Brukenthal erbaut, beherbergt eines der aeltesten Kunstmuseen Rumaeniens, und das weitlaeufige Freilichtmuseum ASTRA direkt ausserhalb der Stadt bewahrt das traditionelle siebenbuergische Dorfleben in einem bewaldeten Park. Sibiu wurde 2007 zur Kulturhauptstadt Europas ernannt, und die Fogarascher Berge erheben sich gleich suedlich davon. Fuer Besucher mit Hund machen das kompakte, fussgaengerfreundliche Zentrum, hundefreundliche Cafeterrassen und die drei 2023 eroeffneten eingezaeunten Hundeauslaufparks Sibiu zu einer der angenehmeren rumaenischen Staedte zum Erkunden auf vier Pfoten.",
+      "nl": "Sibiu, vroeger bekend onder de Duitse naam Hermannstadt, is een van de zeven versterkte burchten die in de 12e eeuw werden gesticht door Transsylvaanse Saksische kolonisten, en de middeleeuwse verdedigingsmuren en torens omringen nog altijd delen van de oude binnenstad. In het hart daarvan zijn de Piața Mare (Groot Plein) en de Piața Mică (Klein Plein) verbonden door de smeedijzeren Brug der Leugens, terwijl pastelkleurige Saksische herenhuizen met hun kenmerkende ooglid-vormige dakramen uitkijken over de kasseistraatjes. Het Brukenthal-paleis, gebouwd in de jaren 1770 voor de Habsburgse gouverneur Samuel von Brukenthal, herbergt een van de oudste kunstmusea van Roemenië, en het uitgestrekte openluchtmuseum ASTRA, net buiten de stad, bewaart het traditionele Transsylvaanse dorpsleven in een bebost park. Sibiu werd in 2007 uitgeroepen tot Culturele Hoofdstad van Europa, en de Făgăraș-bergen rijzen net ten zuiden ervan op. Als je met een hond op reis bent, maken het compacte, goed te voet bereikbare centrum, hondvriendelijke caféterrassen en de drie in 2023 geopende omheinde hondenlosloopparken van Sibiu een van de aangenaamste Roemeense steden om op vier poten te verkennen."
+    },
+    "sights": [
+      {
+        "name": "Piața Mare",
+        "emoji": "🏛️",
+        "petFriendly": true,
+        "desc": {
+          "en": "The largest and grandest square in Sibiu's Old Town, ringed by baroque and Renaissance townhouses and home to the Council Tower and the Roman Catholic Church. It is an open pedestrian space where leashed dogs are welcome, and several surrounding cafe terraces allow pets.",
+          "fr": "La plus grande et la plus majestueuse place de la vieille ville de Sibiu, entourée de maisons baroques et Renaissance, avec la Tour du Conseil et l'église catholique romaine. C'est un espace piéton ouvert où les chiens en laisse sont bienvenus, et plusieurs terrasses de cafés environnantes acceptent les animaux.",
+          "es": "La plaza más grande y majestuosa del casco antiguo de Sibiu, rodeada de casas barrocas y renacentistas, con la Torre del Consejo y la iglesia católica romana. Es un espacio peatonal abierto donde los perros con correa son bienvenidos, y varias terrazas de cafeterías cercanas admiten mascotas.",
+          "pt": "A maior e mais imponente praça da cidade velha de Sibiu, rodeada de casas barrocas e renascentistas, com a Torre do Conselho e a igreja católica romana. É um espaço pedonal aberto onde os cães com trela são bem-vindos, e várias esplanadas de cafés em redor aceitam animais.",
+          "de": "Der groesste und praechtigste Platz in Sibius Altstadt, umgeben von barocken und Renaissance-Buergerhaeusern, mit dem Ratsturm und der roemisch-katholischen Kirche. Es ist ein offener Fussgaengerbereich, in dem angeleinte Hunde willkommen sind, und mehrere umliegende Cafeterrassen lassen Haustiere zu.",
+          "nl": "Het grootste en meest imposante plein van Sibius oude binnenstad, omringd door barokke en renaissance herenhuizen, met de Raadstoren en de rooms-katholieke kerk. Het is een open voetgangersgebied waar aangelijnde honden welkom zijn, en verschillende omliggende caféterrassen laten huisdieren toe."
+        }
+      },
+      {
+        "name": "Piața Mică & the Bridge of Lies",
+        "emoji": "🌉",
+        "petFriendly": true,
+        "desc": {
+          "en": "A smaller, intimate square connected to Piața Mare by the wrought-iron Bridge of Lies, Romania's first cast-iron bridge, built in 1859. Both the square and the bridge are open pedestrian areas where leashed dogs are welcome.",
+          "fr": "Une place plus petite et intime, reliée à la Piața Mare par le Pont des Mensonges en fer forgé, le premier pont en fonte de Roumanie, construit en 1859. La place comme le pont sont des espaces piétons ouverts où les chiens en laisse sont bienvenus.",
+          "es": "Una plaza más pequeña e íntima, conectada con la Piața Mare por el Puente de las Mentiras de hierro forjado, el primer puente de hierro fundido de Rumanía, construido en 1859. Tanto la plaza como el puente son espacios peatonales abiertos donde los perros con correa son bienvenidos.",
+          "pt": "Uma praça mais pequena e íntima, ligada à Piața Mare pela Ponte das Mentiras, em ferro forjado, a primeira ponte de ferro fundido da Roménia, construída em 1859. Tanto a praça como a ponte são espaços pedonais abertos onde os cães com trela são bem-vindos.",
+          "de": "Ein kleinerer, intimerer Platz, der ueber die schmiedeeiserne Luegenbruecke mit der Piața Mare verbunden ist, Rumaeniens erste gusseiserne Bruecke, erbaut 1859. Sowohl der Platz als auch die Bruecke sind offene Fussgaengerbereiche, in denen angeleinte Hunde willkommen sind.",
+          "nl": "Een kleiner, intiemer plein, verbonden met de Piața Mare via de smeedijzeren Brug der Leugens, Roemenië's eerste gietijzeren brug, gebouwd in 1859. Zowel het plein als de brug zijn open voetgangersgebieden waar aangelijnde honden welkom zijn."
+        }
+      },
+      {
+        "name": "Council Tower (Turnul Sfatului)",
+        "emoji": "🗼",
+        "petFriendly": true,
+        "desc": {
+          "en": "A 13th-century watchtower connecting Piața Mare and Piața Mică, with a viewing platform reached by narrow interior stairs and a lift. Dogs are welcome on the square around its base, but the climb to the top is better done without a dog.",
+          "fr": "Une tour de guet du XIIIe siècle reliant la Piața Mare et la Piața Mică, avec une plateforme d'observation accessible par un escalier intérieur étroit et un ascenseur. Les chiens sont bienvenus sur la place à son pied, mais l'ascension au sommet est préférable sans chien.",
+          "es": "Una torre de vigilancia del siglo XIII que conecta la Piața Mare con la Piața Mică, con una plataforma de observación a la que se accede por una escalera interior estrecha y un ascensor. Los perros son bienvenidos en la plaza a sus pies, pero es mejor subir a la cima sin perro.",
+          "pt": "Uma torre de vigia do século XIII que liga a Piața Mare à Piața Mică, com uma plataforma de observação a que se acede por uma escadaria interior estreita e um elevador. Os cães são bem-vindos na praça junto à sua base, mas a subida ao topo é melhor fazer sem cão.",
+          "de": "Ein Wachturm aus dem 13. Jahrhundert, der die Piața Mare und die Piața Mică verbindet, mit einer Aussichtsplattform, die ueber eine enge Innentreppe und einen Aufzug erreichbar ist. Hunde sind auf dem Platz an seinem Fuss willkommen, der Aufstieg zur Spitze gelingt aber besser ohne Hund.",
+          "nl": "Een 13e-eeuwse wachttoren die de Piața Mare en de Piața Mică verbindt, met een uitkijkplatform bereikbaar via een smalle binnentrap en een lift. Honden zijn welkom op het plein aan de voet ervan, maar de klim naar de top kun je beter zonder hond doen."
+        }
+      },
+      {
+        "name": "Brukenthal Palace",
+        "emoji": "🖼️",
+        "petFriendly": true,
+        "desc": {
+          "en": "An 18th-century Baroque palace on Piața Mare that now houses one of Romania's oldest art museums, built for Habsburg governor Samuel von Brukenthal. Dogs are welcome on the square outside, but are not permitted inside the museum galleries.",
+          "fr": "Un palais baroque du XVIIIe siècle sur la Piața Mare, abritant aujourd'hui l'un des plus anciens musées d'art de Roumanie, construit pour le gouverneur habsbourgeois Samuel von Brukenthal. Les chiens sont bienvenus sur la place extérieure, mais ne sont pas admis à l'intérieur des salles du musée.",
+          "es": "Un palacio barroco del siglo XVIII en la Piața Mare, que alberga hoy uno de los museos de arte más antiguos de Rumanía, construido para el gobernador habsburgo Samuel von Brukenthal. Los perros son bienvenidos en la plaza exterior, pero no se permiten dentro de las salas del museo.",
+          "pt": "Um palácio barroco do século XVIII na Piața Mare, que hoje alberga um dos museus de arte mais antigos da Roménia, construído para o governador habsburgo Samuel von Brukenthal. Os cães são bem-vindos na praça exterior, mas não são permitidos dentro das galerias do museu.",
+          "de": "Ein barockes Palais aus dem 18. Jahrhundert an der Piața Mare, das heute eines der aeltesten Kunstmuseen Rumaeniens beherbergt, erbaut fuer den habsburgischen Gouverneur Samuel von Brukenthal. Hunde sind auf dem Platz davor willkommen, aber innerhalb der Museumsraeume nicht erlaubt.",
+          "nl": "Een barok paleis uit de 18e eeuw aan de Piața Mare, dat tegenwoordig een van de oudste kunstmusea van Roemenië huisvest, gebouwd voor de Habsburgse gouverneur Samuel von Brukenthal. Honden zijn welkom op het plein ervoor, maar niet toegestaan binnen de museumzalen."
+        }
+      },
+      {
+        "name": "ASTRA National Museum Complex",
+        "emoji": "🌳",
+        "petFriendly": true,
+        "desc": {
+          "en": "Europe's largest open-air museum, set in a wooded lakeside park just outside the city with reconstructed traditional buildings from across Romania. Per the museum's own visiting rules, dogs are allowed on the outdoor grounds on a short leash (muzzled if their breed is classified as dangerous), but not inside the indoor pavilion exhibits.",
+          "fr": "Le plus grand musée en plein air d'Europe, installé dans un parc boisé au bord d'un lac juste à l'extérieur de la ville, avec des bâtiments traditionnels reconstruits de toute la Roumanie. Selon le règlement de visite du musée, les chiens sont autorisés sur le terrain extérieur en laisse courte (muselés si leur race est classée dangereuse), mais pas à l'intérieur des expositions des pavillons.",
+          "es": "El museo al aire libre más grande de Europa, ubicado en un parque boscoso junto a un lago justo a las afueras de la ciudad, con edificios tradicionales reconstruidos de toda Rumanía. Según el reglamento de visitas del museo, los perros están permitidos en el recinto exterior con correa corta (con bozal si su raza está clasificada como peligrosa), pero no dentro de las exposiciones de los pabellones.",
+          "pt": "O maior museu ao ar livre da Europa, situado num parque arborizado à beira de um lago mesmo fora da cidade, com edifícios tradicionais reconstruídos de toda a Roménia. Segundo o regulamento de visitas do museu, os cães são permitidos no terreno exterior com trela curta (com açaime se a sua raça for classificada como perigosa), mas não dentro das exposições dos pavilhões.",
+          "de": "Europas groesstes Freilichtmuseum, gelegen in einem bewaldeten Seepark direkt ausserhalb der Stadt, mit rekonstruierten traditionellen Gebaeuden aus ganz Rumaenien. Laut der Besucherordnung des Museums sind Hunde auf dem Aussengelaende an kurzer Leine erlaubt (mit Maulkorb, wenn ihre Rasse als gefaehrlich eingestuft ist), aber nicht innerhalb der Pavillonausstellungen.",
+          "nl": "Europa's grootste openluchtmuseum, gelegen in een bebost parkgebied aan een meer net buiten de stad, met gereconstrueerde traditionele gebouwen uit heel Roemenië. Volgens het bezoekersreglement van het museum zijn honden toegestaan op het buitenterrein aan een korte lijn (met muilkorf als hun ras als gevaarlijk is geclassificeerd), maar niet binnen de paviljoententoonstellingen."
+        }
+      },
+      {
+        "name": "Parcul Sub Arini",
+        "emoji": "🌲",
+        "petFriendly": true,
+        "desc": {
+          "en": "One of Sibiu's oldest and largest green spaces, popular with local dog owners for longer walks outside the historic core. It is not a fenced off-leash facility, so the citywide leash law applies.",
+          "fr": "L'un des espaces verts les plus anciens et les plus vastes de Sibiu, prisé des propriétaires de chiens locaux pour de plus longues promenades hors du centre historique. Ce n'est pas une installation clôturée sans laisse, la règle de laisse valable dans toute la ville s'applique donc.",
+          "es": "Uno de los espacios verdes más antiguos y grandes de Sibiu, popular entre los dueños de perros locales para paseos más largos fuera del centro histórico. No es una instalación vallada sin correa, por lo que se aplica la norma de correa vigente en toda la ciudad.",
+          "pt": "Um dos espaços verdes mais antigos e maiores de Sibiu, popular entre os donos de cães locais para passeios mais longos fora do centro histórico. Não é uma instalação vedada sem trela, por isso aplica-se a lei da trela válida em toda a cidade.",
+          "de": "Eine von Sibius aeltesten und groessten Gruenflaechen, bei lokalen Hundebesitzern beliebt fuer laengere Spaziergaenge ausserhalb des historischen Kerns. Es ist keine eingezaeunte Freilauflaeche, daher gilt die stadtweite Leinenpflicht.",
+          "nl": "Een van Sibius oudste en grootste groene ruimtes, populair bij lokale hondenbezitters voor langere wandelingen buiten de historische kern. Het is geen omheinde losloopvoorziening, dus geldt de stadsbrede aanlijnplicht."
+        }
+      }
+    ],
+    "petTips": {
+      "en": [
+        "Dangerous or aggressive dog breeds must wear a muzzle and leash in all public spaces in Sibiu; fines for non-compliance can reach 5,000 lei.",
+        "The Old Town's squares and lanes are entirely cobblestone, check your dog's paws regularly and consider paw balm or boots for long walking days.",
+        "Sibiu's three official fenced dog parks (Maramureșului, Aleea Șelimbăr, Oașa) bar puppies under 4 months old, even with an owner present.",
+        "Tursib city buses require proof of your dog's vaccination plus a leash and muzzle at all times to board.",
+        "Summer afternoons heat up quickly on Piața Mare and Piața Mică, carry water for your dog and check pavement temperature with your palm before a midday walk."
+      ],
+      "fr": [
+        "Les races de chiens dangereuses ou agressives doivent porter muselière et laisse dans tous les espaces publics de Sibiu ; les amendes en cas de non-respect peuvent atteindre 5 000 lei.",
+        "Les places et ruelles de la vieille ville sont entièrement pavées, vérifiez régulièrement les coussinets de votre chien et envisagez un baume ou des bottines pour les longues journées de marche.",
+        "Les trois parcs à chiens officiels et clôturés de Sibiu (Maramureșului, Aleea Șelimbăr, Oașa) interdisent les chiots de moins de 4 mois, même accompagnés.",
+        "Les bus urbains Tursib exigent une preuve de vaccination de votre chien ainsi qu'une laisse et une muselière en permanence pour monter à bord.",
+        "Les après-midis d'été chauffent vite sur la Piața Mare et la Piața Mică, emportez de l'eau pour votre chien et vérifiez la température du sol avec la paume de la main avant une promenade à midi."
+      ],
+      "es": [
+        "Las razas de perros peligrosas o agresivas deben llevar bozal y correa en todos los espacios públicos de Sibiu; las multas por incumplimiento pueden alcanzar los 5.000 lei.",
+        "Las plazas y callejuelas del casco antiguo son totalmente empedradas, revise las almohadillas de su perro con regularidad y considere un bálsamo o botitas para días de paseo largos.",
+        "Los tres parques caninos oficiales y vallados de Sibiu (Maramureșului, Aleea Șelimbăr, Oașa) prohíben cachorros menores de 4 meses, aunque estén acompañados.",
+        "Los autobuses urbanos Tursib exigen prueba de vacunación de su perro además de correa y bozal en todo momento para subir a bordo.",
+        "Las tardes de verano se calientan rápido en la Piața Mare y la Piața Mică, lleve agua para su perro y compruebe la temperatura del suelo con la palma de la mano antes de un paseo al mediodía."
+      ],
+      "pt": [
+        "As raças de cães perigosas ou agressivas devem usar açaime e trela em todos os espaços públicos de Sibiu; as coimas por incumprimento podem chegar aos 5.000 lei.",
+        "As praças e vielas da cidade velha são todas em calçada, verifique as patas do seu cão regularmente e considere um bálsamo ou botinhas para dias de passeio longos.",
+        "Os três parques caninos oficiais e vedados de Sibiu (Maramureșului, Aleea Șelimbăr, Oașa) proíbem cachorros com menos de 4 meses, mesmo acompanhados.",
+        "Os autocarros urbanos da Tursib exigem prova de vacinação do seu cão, além de trela e açaime em permanência, para embarcar.",
+        "As tardes de verão aquecem depressa na Piața Mare e na Piața Mică, leve água para o seu cão e verifique a temperatura do pavimento com a palma da mão antes de um passeio ao meio-dia."
+      ],
+      "de": [
+        "Gefaehrliche oder aggressive Hunderassen muessen in allen oeffentlichen Raeumen von Sibiu einen Maulkorb tragen und angeleint sein; Bussgelder bei Nichteinhaltung koennen bis zu 5.000 Lei betragen.",
+        "Die Plaetze und Gassen der Altstadt sind vollstaendig gepflastert, kontrollieren Sie regelmaessig die Pfoten Ihres Hundes und ziehen Sie Pfotenbalsam oder Schuhe fuer lange Spaziertage in Betracht.",
+        "Sibius drei offizielle, eingezaeunte Hundeparks (Maramureșului, Aleea Șelimbăr, Oașa) lassen keine Welpen unter 4 Monaten zu, auch nicht in Begleitung.",
+        "Tursib-Stadtbusse verlangen einen Impfnachweis Ihres Hundes sowie jederzeit Leine und Maulkorb zum Einsteigen.",
+        "Sommernachmittage heizen sich auf der Piața Mare und der Piața Mică schnell auf, nehmen Sie Wasser fuer Ihren Hund mit und pruefen Sie die Bodentemperatur mit der Handflaeche vor einem Mittagsspaziergang."
+      ],
+      "nl": [
+        "Gevaarlijke of agressieve hondenrassen moeten in alle openbare ruimtes van Sibiu een muilkorf dragen en aangelijnd zijn; boetes bij overtreding kunnen oplopen tot 5.000 lei.",
+        "De pleinen en straatjes van de oude binnenstad zijn helemaal geplaveid met kasseien, controleer de pootjes van je hond regelmatig en overweeg pootbalsem of schoentjes voor lange wandeldagen.",
+        "Sibius drie officiele, omheinde hondenparken (Maramureșului, Aleea Șelimbăr, Oașa) laten geen pups jonger dan 4 maanden toe, ook niet onder begeleiding.",
+        "Tursib-stadsbussen vereisen een vaccinatiebewijs van je hond plus te allen tijde een lijn en muilkorf om in te stappen.",
+        "Zomermiddagen warmen snel op op de Piața Mare en de Piața Mică, neem water mee voor je hond en controleer de temperatuur van de bestrating met je handpalm voor een wandeling rond het middaguur."
+      ]
+    },
+    "practicalInfo": {
+      "en": [
+        "Sibiu International Airport (SBZ) has its own fenced outdoor pet relief area and an indoor play area for dogs, cats and other small animals, a rare amenity for a regional airport.",
+        "Romania is in the EU, so entry requires a microchip, current rabies vaccination and an EU pet passport (or Animal Health Certificate for non-EU travelers); Pit Bull, Boerboel and Bandog breeds are barred from entering the country.",
+        "Several Sibiu vets, including VetHouse, run non-stop emergency phone lines for after-hours cases rather than a single dedicated 24-hour hospital, call ahead for triage.",
+        "Dogs can travel on CFR national trains in 2nd class with a muzzle and leash, for half the price of an adult 2nd-class ticket.",
+        "May-June and September are the most comfortable months to visit with a dog, mild temperatures and fewer crowds than peak summer; winters are cold with snow, and midsummer afternoons can heat the cobblestones."
+      ],
+      "fr": [
+        "L'aéroport international de Sibiu (SBZ) dispose de sa propre aire de détente extérieure clôturée et d'une aire de jeux intérieure pour chiens, chats et autres petits animaux, un équipement rare pour un aéroport régional.",
+        "La Roumanie est dans l'UE, l'entrée nécessite donc une puce électronique, un vaccin antirabique à jour et un passeport européen pour animaux (ou un Animal Health Certificate pour les voyageurs non européens) ; les races Pit Bull, Boerboel et Bandog sont interdites d'entrée dans le pays.",
+        "Plusieurs vétérinaires de Sibiu, dont VetHouse, disposent de lignes d'urgence non-stop pour les cas hors horaires plutôt que d'un unique hôpital dédié 24h/24, appelez d'abord pour un tri.",
+        "Les chiens peuvent voyager dans les trains nationaux CFR en 2e classe avec muselière et laisse, pour la moitié du prix d'un billet adulte en 2e classe.",
+        "Mai-juin et septembre sont les mois les plus agréables pour visiter avec un chien, températures douces et moins de foule qu'en plein été ; les hivers sont froids et neigeux, et les après-midis de plein été peuvent chauffer les pavés."
+      ],
+      "es": [
+        "El Aeropuerto Internacional de Sibiu (SBZ) cuenta con su propia zona de descanso exterior vallada y una zona de juegos interior para perros, gatos y otros animales pequeños, una comodidad poco habitual en un aeropuerto regional.",
+        "Rumanía está en la UE, así que la entrada requiere microchip, vacuna antirrábica al día y pasaporte europeo para mascotas (o un Animal Health Certificate para viajeros no europeos); las razas Pit Bull, Boerboel y Bandog tienen prohibida la entrada al país.",
+        "Varios veterinarios de Sibiu, incluido VetHouse, mantienen líneas de urgencia non-stop para casos fuera de horario en lugar de un único hospital dedicado 24 horas, llame antes para el triaje.",
+        "Los perros pueden viajar en los trenes nacionales CFR en 2ª clase con bozal y correa, por la mitad del precio de un billete de adulto en 2ª clase.",
+        "Mayo-junio y septiembre son los meses más agradables para visitar con un perro, temperaturas suaves y menos multitudes que en pleno verano; los inviernos son fríos y nevados, y las tardes de pleno verano pueden calentar los adoquines."
+      ],
+      "pt": [
+        "O Aeroporto Internacional de Sibiu (SBZ) tem a sua própria zona de repouso exterior vedada e uma zona de jogos interior para cães, gatos e outros pequenos animais, uma comodidade rara num aeroporto regional.",
+        "A Roménia pertence à UE, por isso a entrada exige microchip, vacina antirrábica em dia e passaporte europeu para animais (ou um Animal Health Certificate para viajantes não europeus); as raças Pit Bull, Boerboel e Bandog estão proibidas de entrar no país.",
+        "Vários veterinários de Sibiu, incluindo o VetHouse, mantêm linhas de urgência non-stop para casos fora de horário, em vez de um único hospital dedicado 24 horas, ligue antes para triagem.",
+        "Os cães podem viajar nos comboios nacionais da CFR em 2ª classe com açaime e trela, por metade do preço de um bilhete de adulto em 2ª classe.",
+        "Maio-junho e setembro são os meses mais agradáveis para visitar com um cão, temperaturas amenas e menos multidões do que em pleno verão; os invernos são frios e com neve, e as tardes de pleno verão podem aquecer a calçada."
+      ],
+      "de": [
+        "Der internationale Flughafen Sibiu (SBZ) verfuegt ueber einen eigenen eingezaeunten Auslaufbereich im Freien und einen Indoor-Spielbereich fuer Hunde, Katzen und andere Kleintiere, eine seltene Annehmlichkeit fuer einen Regionalflughafen.",
+        "Rumaenien gehoert zur EU, daher sind bei der Einreise ein Mikrochip, eine aktuelle Tollwutimpfung und ein EU-Heimtierausweis erforderlich (oder ein Animal Health Certificate fuer Reisende ausserhalb der EU); die Rassen Pit Bull, Boerboel und Bandog duerfen nicht ins Land einreisen.",
+        "Mehrere Tierkliniken in Sibiu, darunter VetHouse, betreiben non-stop Notfalltelefonleitungen fuer Faelle ausserhalb der Oeffnungszeiten statt eines einzelnen dedizierten 24-Stunden-Krankenhauses, rufen Sie vorher zur Ersteinschaetzung an.",
+        "Hunde koennen in rumaenischen CFR-Zuegen der 2. Klasse mit Maulkorb und Leine reisen, zum halben Preis eines Erwachsenentickets der 2. Klasse.",
+        "Mai-Juni und September sind die angenehmsten Monate fuer einen Besuch mit Hund, milde Temperaturen und weniger Andrang als im Hochsommer; die Winter sind kalt und schneereich, und Hochsommernachmittage koennen das Kopfsteinpflaster aufheizen."
+      ],
+      "nl": [
+        "De internationale luchthaven van Sibiu (SBZ) heeft een eigen omheind uitlaatgebied buiten en een binnenspeelruimte voor honden, katten en andere kleine dieren, een zeldzame voorziening voor een regionale luchthaven.",
+        "Roemenië maakt deel uit van de EU, dus voor binnenkomst heb je een microchip, een actuele rabiësvaccinatie en een EU-dierenpaspoort nodig (of een Animal Health Certificate voor reizigers van buiten de EU); de rassen Pit Bull, Boerboel en Bandog mogen het land niet in.",
+        "Verschillende dierenartsen in Sibiu, waaronder VetHouse, hebben non-stop spoedlijnen voor gevallen buiten openingstijden in plaats van één specifiek 24-uursziekenhuis, bel van tevoren voor triage.",
+        "Honden mogen meereizen in Roemeense CFR-treinen in de tweede klas met muilkorf en lijn, voor de helft van de prijs van een volwassen 2e-klasticket.",
+        "Mei-juni en september zijn de aangenaamste maanden om met een hond te bezoeken, milde temperaturen en minder drukte dan in het hoogseizoen; de winters zijn koud met sneeuw, en hoogzomerse middagen kunnen de kasseien flink opwarmen."
+      ]
+    }
+  },
   siena: {
     history: {
       fr: `Sienne, environ 53 000 habitants perchés sur trois collines de tuf au cœur de la Toscane méridionale, est l'une des villes médiévales les mieux conservées d'Europe et un site du patrimoine mondial de l'UNESCO. Rivale de Florence au Moyen Âge, elle a figé son apogée gothique du XIVᵉ siècle autour de la Piazza del Campo en forme de coquille, et se divise toujours en 17 contrade (quartiers) qui s'affrontent deux fois l'an lors du Palio, la célèbre course de chevaux des 2 juillet et 16 août. Côté chiens, la réglementation italienne s'applique : laisse obligatoire dans l'espace public, muselière à porter sur soi, ramassage obligatoire ; le centre intra-muros, presque entièrement piéton, est très agréable à parcourir avec un chien hors des heures de pointe. Les chiens en laisse sont admis sur la Piazza del Campo, le long des remparts de la Fortezza Medicea et dans le jardin médiéval de l'Orto de' Pecci, mais pas à l'intérieur du Duomo ni des musées. Évitez absolument la ville les jours de Palio : la foule compacte et le bruit en font un cauchemar pour un animal.`,

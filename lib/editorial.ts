@@ -21,6 +21,16 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    sibiu: {
+      personality: `a compact medieval Saxon town in the heart of Transylvania, where the cobbled Piața Mare and Piața Mică squares, pastel guild houses and the vast ASTRA open-air museum frame an unusually walkable old town, backed by three dedicated off-leash dog parks opened in 2023 and easy access to the Făgăraș mountains`,
+      highlight: `the three fenced dog parks on Strada Maramureșului, Aleea Șelimbăr and Oașa, the leafy Parcul Sub Arini, and the outdoor grounds of the ASTRA open-air museum`,
+      area: `the Old Town around Piața Mare and Piața Mică, the Sub Arini park district, and the streets below the Council Tower`,
+    },
+    orvieto: {
+      personality: `a golden hilltop town rising on a tufa cliff in southern Umbria, where a pet-friendly funicular climbs to a Gothic Duomo, a cave-riddled underground and stone-paved lanes, wrapped by the leash-friendly Anello della Rupe walk around the walls`,
+      highlight: `the Anello della Rupe ring walk around the cliff, the leashed-dog Orvieto Underground cave tour, and the green Parco delle Grotte beside it`,
+      area: `the clifftop centro storico around Piazza Duomo and Corso Cavour, the quiet San Giovenale quarter, and the walls loop below town`,
+    },
     sydney: {
       personality: `one of the world's most dog-friendly big cities, where a superb outdoor lifestyle of harbour dog beaches, huge off-leash parks and year-round terrace dining offsets strict zone-based beach rules and a public transport network that largely excludes pets`,
       highlight: `the off-leash lawns of Sydney Park and Centennial Parklands, the harbour dog beach at Rose Bay, and the clifftop Federation Cliff Walk`,
@@ -2114,6 +2124,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    sibiu: {
+      personality: `une petite ville saxonne médiévale au cœur de la Transylvanie, où les places pavées Piața Mare et Piața Mică, les maisons de guilde aux tons pastel et le vaste musée de plein air ASTRA encadrent une vieille ville étonnamment agréable à parcourir à pied, complétée par trois parcs canins clôturés ouverts en 2023 et un accès facile aux montagnes de Făgăraș`,
+      highlight: `les trois parcs canins clôturés de Strada Maramureșului, Aleea Șelimbăr et Oașa, le verdoyant Parcul Sub Arini et les allées extérieures du musée de plein air ASTRA`,
+      area: `la vieille ville autour de Piața Mare et Piața Mică, le quartier du parc Sub Arini et les ruelles sous la tour du Conseil`,
+    },
+    orvieto: {
+      personality: `une ville dorée perchée sur une falaise de tuf au sud de l'Ombrie, où un funiculaire accepté aux chiens grimpe vers un Duomo gothique, un sous-sol creusé de grottes et des ruelles pavées, ceinturée par le sentier de l'Anello della Rupe qui longe les remparts en laisse`,
+      highlight: `le sentier de l'Anello della Rupe autour de la falaise, la visite des grottes d'Orvieto Underground accessible en laisse, et le verdoyant Parco delle Grotte attenant`,
+      area: `le centre historique perché autour de la Piazza Duomo et du Corso Cavour, le calme quartier San Giovenale et la boucle des remparts en contrebas`,
+    },
     sydney: {
       personality: `l'une des grandes villes les plus accueillantes pour les chiens au monde, où un superbe art de vivre en plein air (plages canines du port, immenses parcs sans laisse et terrasses ouvertes toute l'année) compense des règles de plage strictes par zones et un réseau de transports publics qui exclut largement les animaux`,
       highlight: `les pelouses sans laisse de Sydney Park et de Centennial Parklands, la plage canine du port à Rose Bay et la Federation Cliff Walk en bord de falaise`,
@@ -4206,6 +4226,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    sibiu: {
+      personality: `una compacta ciudad sajona medieval en el corazón de Transilvania, donde las plazas empedradas Piața Mare y Piața Mică, las casas gremiales en tonos pastel y el enorme museo al aire libre ASTRA enmarcan un casco antiguo sorprendentemente caminable, con tres parques caninos vallados inaugurados en 2023 y fácil acceso a las montañas de Făgăraș`,
+      highlight: `los tres parques caninos vallados de Strada Maramureșului, Aleea Șelimbăr y Oașa, el frondoso Parcul Sub Arini y los recintos exteriores del museo al aire libre ASTRA`,
+      area: `el casco antiguo en torno a Piața Mare y Piața Mică, el distrito del parque Sub Arini y las calles bajo la Torre del Consejo`,
+    },
+    orvieto: {
+      personality: `una ciudad dorada encaramada en un acantilado de toba al sur de Umbría, donde un funicular que admite perros sube hasta un Duomo gótico, un subsuelo horadado de cuevas y callejones empedrados, rodeada por el sendero del Anello della Rupe que bordea las murallas con correa`,
+      highlight: `el sendero del Anello della Rupe alrededor del acantilado, la visita a las cuevas de Orvieto Underground permitida con correa, y el verde Parco delle Grotte contiguo`,
+      area: `el casco histórico en lo alto en torno a la Piazza Duomo y el Corso Cavour, el tranquilo barrio de San Giovenale y el circuito de murallas a los pies del pueblo`,
+    },
     sydney: {
       personality: `una de las grandes ciudades más dog-friendly del mundo, donde un estupendo estilo de vida al aire libre (playas caninas en el puerto, enormes parques sin correa y terrazas abiertas todo el año) compensa unas normas de playa estrictas por zonas y una red de transporte público que excluye en gran parte a las mascotas`,
       highlight: `los céspedes sin correa de Sydney Park y Centennial Parklands, la playa canina del puerto en Rose Bay y la Federation Cliff Walk sobre los acantilados`,
@@ -6298,6 +6328,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    sibiu: {
+      personality: `uma compacta cidade saxã medieval no coração da Transilvânia, onde as praças de calçada Piața Mare e Piața Mică, as casas de guilda em tons pastel e o vasto museu ao ar livre ASTRA emolduram um centro histórico invulgarmente pedonal, com três parques caninos vedados inaugurados em 2023 e acesso fácil às montanhas de Făgăraș`,
+      highlight: `os três parques caninos vedados na Strada Maramureșului, Aleea Șelimbăr e Oașa, o verdejante Parcul Sub Arini e os recintos exteriores do museu ao ar livre ASTRA`,
+      area: `o centro histórico em torno da Piața Mare e Piața Mică, a zona do parque Sub Arini e as ruas abaixo da Torre do Conselho`,
+    },
+    orvieto: {
+      personality: `uma cidade dourada empoleirada num penhasco de tufo no sul da Úmbria, onde um funicular que aceita cães sobe até um Duomo gótico, um subsolo cravado de grutas e ruelas em pedra, cingida pelo trilho do Anello della Rupe que contorna as muralhas com trela`,
+      highlight: `o trilho do Anello della Rupe à volta do penhasco, a visita às grutas do Orvieto Underground permitida com trela, e o verdejante Parco delle Grotte ao lado`,
+      area: `o centro histórico no alto em torno da Piazza Duomo e do Corso Cavour, o tranquilo bairro de San Giovenale e o circuito das muralhas abaixo da vila`,
+    },
     sydney: {
       personality: `uma das grandes cidades mais dog-friendly do mundo, onde um excelente estilo de vida ao ar livre (praias caninas no porto, enormes parques sem trela e esplanadas abertas todo o ano) compensa regras de praia rígidas por zonas e uma rede de transportes públicos que exclui em grande parte os animais`,
       highlight: `os relvados sem trela do Sydney Park e dos Centennial Parklands, a praia canina do porto em Rose Bay e a Federation Cliff Walk no topo da falésia`,
@@ -8390,6 +8430,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   de: {
+    sibiu: {
+      personality: `eine kompakte mittelalterliche sächsische Stadt im Herzen Siebenbürgens, wo die gepflasterten Plätze Piața Mare und Piața Mică, die pastellfarbenen Zunfthäuser und das weitläufige Freilichtmuseum ASTRA eine ungewöhnlich gut begehbare Altstadt umrahmen, ergänzt durch drei 2023 eröffnete eingezäunte Hundeparks und einen einfachen Zugang zum Făgăraș-Gebirge`,
+      highlight: `die drei eingezäunten Hundeparks in der Strada Maramureșului, Aleea Șelimbăr und Oașa, der grüne Parcul Sub Arini und das Freigelände des Freilichtmuseums ASTRA`,
+      area: `die Altstadt rund um Piața Mare und Piața Mică, das Viertel um den Sub-Arini-Park und die Gassen unterhalb des Ratsturms`,
+    },
+    orvieto: {
+      personality: `eine goldene Stadt hoch auf einem Tuffsteinfelsen im Süden Umbriens, wo eine hundefreundliche Standseilbahn zu einem gotischen Dom, einer von Grotten durchzogenen Unterwelt und gepflasterten Gassen hinaufführt, umschlossen vom Anello-della-Rupe-Weg, der an der Leine um die Stadtmauern verläuft`,
+      highlight: `der Anello-della-Rupe-Rundweg um den Felsen, die an der Leine erlaubte Höhlenführung Orvieto Underground und der angrenzende grüne Parco delle Grotte`,
+      area: `die Altstadt auf dem Felsen rund um die Piazza Duomo und den Corso Cavour, das ruhige Viertel San Giovenale und der Mauerrundweg unterhalb der Stadt`,
+    },
     sydney: {
       personality: `eine der hundefreundlichsten Großstädte der Welt, wo ein hervorragender Outdoor-Lebensstil mit Hundestränden am Hafen, riesigen Freilaufparks und ganzjährigem Terrassenleben strenge zonenbasierte Strandregeln und ein öffentliches Nahverkehrsnetz ausgleicht, das Haustiere weitgehend ausschließt`,
       highlight: `die Freilaufwiesen des Sydney Park und der Centennial Parklands, der Hundestrand am Hafen in Rose Bay und der klippennahe Federation Cliff Walk`,
@@ -10482,6 +10532,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   nl: {
+    sibiu: {
+      personality: `een compacte middeleeuwse Saksische stad in het hart van Transsylvanië, waar de geplaveide pleinen Piața Mare en Piața Mică, de pastelkleurige gildehuizen en het uitgestrekte openluchtmuseum ASTRA een ongewoon goed beloopbare oude stad omkaderen, aangevuld met drie in 2023 geopende omheinde hondenparken en makkelijke toegang tot het Făgăraș-gebergte`,
+      highlight: `de drie omheinde hondenparken aan de Strada Maramureșului, Aleea Șelimbăr en Oașa, het groene Parcul Sub Arini en het buitenterrein van het openluchtmuseum ASTRA`,
+      area: `de oude stad rond Piața Mare en Piața Mică, de buurt rond het Sub Arini-park en de straatjes onder de Raadstoren`,
+    },
+    orvieto: {
+      personality: `een gouden stadje hoog op een tufsteenrots in het zuiden van Umbrië, waar een hondvriendelijke kabelspoorbaan omhoogklimt naar een gotische Duomo, een met grotten doorregen ondergrond en geplaveide steegjes, omgeven door de Anello della Rupe die aangelijnd om de stadsmuren loopt`,
+      highlight: `de Anello della Rupe rond de rots, de aangelijnde grottentour Orvieto Underground, en het groene Parco delle Grotte ernaast`,
+      area: `de oude binnenstad boven op de rots rond de Piazza Duomo en de Corso Cavour, de rustige wijk San Giovenale en de muurwandeling onder het stadje`,
+    },
     sydney: {
       personality: `een van de hondvriendelijkste grote steden ter wereld, waar een uitstekende outdoor levensstijl met hondenstranden aan de haven, enorme uitlaatparken en het hele jaar door terrasleven strenge zonegebonden strandregels en een openbaar vervoernetwerk dat huisdieren grotendeels uitsluit, in evenwicht houdt`,
       highlight: `de uitlaatweiden van Sydney Park en de Centennial Parklands, het hondenstrand aan de haven bij Rose Bay en de langs de klif lopende Federation Cliff Walk`,

@@ -31430,5 +31430,153 @@
       }
     },
     "iata": "NAP"
+  },
+  {
+    "slug": "sibiu",
+    "name": "Sibiu",
+    "country": "Romania",
+    "countryCode": "RO",
+    "flag": "🇷🇴",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/sibiu.jpg",
+    "intro": "A compact medieval Saxon town in the heart of Transylvania, Sibiu frames cobbled squares, pastel guild houses and the vast ASTRA open-air museum with three dedicated off-leash dog parks and a growing pet-friendly cafe scene, an easy base for dog owners exploring central Romania.",
+    "lat": 45.7928,
+    "lng": 24.1521,
+    "weather": {
+      "jan": {
+        "temp": -3,
+        "desc": "Cold & snowy",
+        "icon": "🌨️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold with snow",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Cool with thaw",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & green",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool & crisp",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "🌨️"
+      }
+    }
+  },
+  {
+    "slug": "orvieto",
+    "name": "Orvieto",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/orvieto.jpg",
+    "intro": "A hilltop Umbrian town rising on a tufa cliff reached by a pet-friendly funicular, Orvieto pairs its golden Gothic Duomo and cave-riddled underground with a leash-friendly ring walk around the walls, a compact, walkable base for dog owners exploring Umbria.",
+    "lat": 42.7185,
+    "lng": 12.1107,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      }
+    }
   }
 ]

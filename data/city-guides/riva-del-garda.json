@@ -41,9 +41,13 @@
           "tipPt": "Peça uma mesa do lado do lago na esplanada e leve água para o cão no calor do verão",
           "googleMapsUrl": "https://maps.google.com/?q=Ristorante+L%27Ora+Riva+del+Garda",
           "descriptionDe": "Eine Uferinstitution am Viale Rovereto mit Blick auf das Wasser, L'Ora ist ein kombiniertes Restaurant, Pizzeria, Bar und Eisdiele, wo die Leitung Hunde ausdrücklich sowohl an den Tischen als auch in der Eisdiele willkommen heißt. Die renovierte Lounge-Terrasse fängt den berühmten nachmittäglichen Ora-Wind ein und ist einer der einfachsten, zuverlässigsten hundefreundlichen Stopps der Stadt.",
+          "descriptionNl": "Een oeverinstitutie aan de Viale Rovereto met uitzicht op het water, L'Ora is een combinatie van restaurant, pizzeria, bar en ijssalon, waar de eigenaars honden uitdrukkelijk welkom heten, zowel aan tafel als in de ijssalon. Het gerenoveerde lounge-terras vangt de beroemde middagwind ora op en is een van de makkelijkste, betrouwbaarste hondvriendelijke stops van de stad.",
           "petPolicyDe": "Hunde auf der Terrasse und in der Eisdiele willkommen",
+          "petPolicyNl": "Honden welkom op het terras en in de ijssalon",
           "mustTryDe": "Pizza aus dem Holzofen, Seeforelle, hausgemachtes Gelato",
-          "tipDe": "Bitten Sie um einen Tisch auf der Seeseite der Terrasse und bringen Sie in der Sommerhitze Wasser für den Hund mit"
+          "mustTryNl": "Pizza uit de houtoven, meerforel, huisgemaakt gelato",
+          "tipDe": "Bitten Sie um einen Tisch auf der Seeseite der Terrasse und bringen Sie in der Sommerhitze Wasser für den Hund mit",
+          "tipNl": "Vraag om een tafel aan de meerzijde van het terras en neem in de zomerhitte water mee voor je hond"
         },
         {
           "name": "Ristorante Pizzeria San Nicolò",
@@ -71,9 +75,13 @@
           "tipPt": "Combine com um banho e uma corrida na vizinha zona para cães do Monte Brione, acessível a partir do porto de San Nicolò",
           "googleMapsUrl": "https://maps.google.com/?q=Ristorante+San+Nicol%C3%B2+Riva+del+Garda",
           "descriptionDe": "Direkt neben dem kleinen Hafen Porto San Nicolò am östlichen Rand der Stadt heißt dieses Restaurant und Pizzeria Hunde aller Größen sowohl drinnen als auch draußen willkommen, wobei Besitzer Paolo dafür bekannt ist, Gäste und ihre Hunde herzlich zu begrüßen. Die Lage neben dem Hafen und der Hundefreilauffläche am Monte Brione macht es zu einem idealen Mittagsstopp nach einem Spaziergang am See.",
+          "descriptionNl": "Direct naast de kleine haven Porto San Nicolò aan de oostrand van de stad heet dit restaurant en pizzeria honden van alle formaten welkom, zowel binnen als buiten, waarbij eigenaar Paolo bekendstaat om zijn warme ontvangst van gasten en hun honden. De ligging naast de haven en het hondenlosloopgebied bij Monte Brione maakt het een ideale lunchstop na een wandeling langs het meer.",
           "petPolicyDe": "Hunde aller Größen drinnen und auf der Terrasse willkommen",
+          "petPolicyNl": "Honden van alle formaten welkom binnen en op het terras",
           "mustTryDe": "Pizza, frische Pasta, Seefisch",
-          "tipDe": "Kombinieren Sie es mit einem Schwimmen und einem Auslauf an der nahen Hundefreilauffläche am Monte Brione, erreichbar vom Hafen San Nicolò"
+          "mustTryNl": "Pizza, verse pasta, meervis",
+          "tipDe": "Kombinieren Sie es mit einem Schwimmen und einem Auslauf an der nahen Hundefreilauffläche am Monte Brione, erreichbar vom Hafen San Nicolò",
+          "tipNl": "Combineer met een zwempartij en losloopmoment bij het nabijgelegen hondenlosloopgebied van Monte Brione, bereikbaar vanaf de haven San Nicolò"
         },
         {
           "name": "Ristorante Hotel Portici (Piazza III Novembre)",
@@ -101,9 +109,13 @@
           "tipPt": "Chegue ao início da noite para uma mesa junto à praça antes de a cidade velha encher em pleno verão",
           "googleMapsUrl": "https://maps.google.com/?q=Hotel+Portici+Piazza+III+Novembre+Riva+del+Garda",
           "descriptionDe": "Direkt unter den Arkaden der historischen Piazza III Novembre gelegen, öffnet sich das Restaurant des Vier-Sterne-Hotels Portici zum Hauptplatz, nur wenige Schritte vom See und dem Torre Apponale entfernt. Das Hotel ist ausdrücklich haustierfreundlich und bietet sogar ein Willkommenspaket für Hunde, und die Terrasse zum Platz hin ist einer der stimmungsvollsten hundefreundlichen Orte in der Altstadt.",
+          "descriptionNl": "Direct onder de arcaden van de historische Piazza III Novembre gelegen, opent het restaurant van het viersterrenhotel Portici zich naar het hoofdplein, slechts een paar stappen van het meer en de Torre Apponale. Het hotel is uitdrukkelijk huisdiervriendelijk en biedt zelfs een welkomstpakket voor honden, en het terras aan het plein is een van de sfeervolste hondvriendelijke plekken in de oude stad.",
           "petPolicyDe": "Haustiere mit einem Hunde-Willkommenspaket willkommen; fragen Sie nach Innenbereichen zum Essen",
+          "petPolicyNl": "Huisdieren welkom met een hondenwelkomstpakket; vraag naar binnenruimtes om te eten",
           "mustTryDe": "Trentiner Berggerichte, Spezialitäten aus Gardaöl",
-          "tipDe": "Kommen Sie früh am Abend für einen Tisch zum Platz hin, bevor sich die Altstadt im Hochsommer füllt"
+          "mustTryNl": "Trentijnse berggerechten, specialiteiten met olie uit de Gardaregio",
+          "tipDe": "Kommen Sie früh am Abend für einen Tisch zum Platz hin, bevor sich die Altstadt im Hochsommer füllt",
+          "tipNl": "Kom vroeg in de avond voor een tafel met uitzicht op het plein, voordat de oude stad in het hoogseizoen volloopt"
         }
       ],
       "tipsEn": [
@@ -183,7 +195,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Riva del Garda",
+      "titleNl": "Huisdiervriendelijke restaurants in Riva del Garda",
       "introDe": "Riva del Garda liegt an der windumtosten nördlichen Spitze des Gardasees, wo sich alpine und mediterrane Esskulturen treffen, und seine Uferpromenade entlang des Viale Rovereto ist gesäumt von Terrassen, die Hunde wirklich willkommen heißen. Im Sommer machen die warmen Abende das Essen im Freien zur naheliegenden Wahl, und die meisten familiengeführten Trattorien bringen einen Wassernapf, ohne dass man fragen muss. Fragen Sie immer nach, bevor Sie einen Hund mit nach drinnen bringen, aber auf den Terrassen gehört ein wohlerzogener Hund an kurzer Leine einfach dazu.",
+      "introNl": "Riva del Garda ligt aan de door wind geteisterde noordpunt van het Gardameer, waar alpiene en mediterrane eetculturen samenkomen, en de kadepromenade langs de Viale Rovereto is omzoomd met terrassen die honden écht welkom heten. In de zomer maken de warme avonden buiten eten de voor de hand liggende keuze, en de meeste familietrattoria's brengen een waterbakje zonder dat je erom hoeft te vragen. Vraag altijd of je een hond mee naar binnen mag nemen, maar op de terrassen hoort een goed opgevoede hond aan een korte lijn er gewoon bij.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Riva del Garda erlaubt?",
@@ -196,6 +210,20 @@
         {
           "q": "Wo sind die haustierfreundlichsten Orte zum Essen in Riva del Garda?",
           "a": "Die Uferpromenade Viale Rovereto und die von Arkaden gesäumte Piazza III Novembre in der Altstadt haben die meisten hundefreundlichen Terrassen, viele mit Blick auf den See oder den Platz."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in restaurants in Riva del Garda?",
+          "a": "Ja. De meeste terrassen aan het meer en in de oude stad heten aangelijnde, goed opgevoede honden welkom, en meerdere tenten zoals L'Ora en San Nicolò laten ze ook binnen toe. Vraag altijd voordat je naar binnen gaat, zeker in geairconditioneerde eetzalen."
+        },
+        {
+          "q": "Bieden restaurants in Riva del Garda water aan voor honden?",
+          "a": "Veel familieterrassen aan de Viale Rovereto brengen op verzoek een waterbakje, sommige doen dit ook automatisch. Toch is het verstandig om in de zomerhitte een eigen waterfles mee te nemen."
+        },
+        {
+          "q": "Waar zijn de meest huisdiervriendelijke eetplekken in Riva del Garda?",
+          "a": "De kadepromenade Viale Rovereto en het door arcaden omzoomde Piazza III Novembre in de oude stad hebben de meeste hondvriendelijke terrassen, veel met uitzicht op het meer of het plein."
         }
       ]
     },
@@ -229,8 +257,11 @@
           "tipPt": "Vá de manhã cedo no verão; as encostas cobertas de oliveiras dão a sombra que falta na marginal",
           "googleMapsUrl": "https://maps.google.com/?q=Monte+Brione+Riva+del+Garda",
           "descriptionDe": "Eine ausgewiesene Hundeauslauffläche an den unteren Hängen des Monte Brione, erreichbar vom Hafen Porto San Nicolò am östlichen Stadtrand. Der Brione-Hügel selbst, ein von Olivenbäumen bewachsener Höhenzug mit alten Befestigungen, bietet schattige Pfade und Seeblicke, ideal für einen längeren Spaziergang an der Leine, bevor oder nachdem der Hund frei laufen darf.",
+          "descriptionNl": "Een aangewezen hondenlosloopgebied op de lagere hellingen van Monte Brione, bereikbaar vanaf de haven Porto San Nicolò aan de oostrand van de stad. De Brione-heuvel zelf, een met olijfbomen begroeide bergrug met oude vestingwerken, biedt schaduwrijke paden en meeruitzicht, ideaal voor een langere wandeling aan de lijn, voor of nadat de hond los mag lopen.",
           "offLeashAreaDe": "Ausgewiesene Hundefreilauffläche; Zugang vom Hafen Porto San Nicolò",
-          "tipDe": "Im Sommer früh morgens gehen; die olivenbewachsenen Hänge bieten Schatten, den die offene Uferpromenade nicht hat"
+          "offLeashAreaNl": "Aangewezen hondenlosloopgebied; toegang vanaf de haven Porto San Nicolò",
+          "tipDe": "Im Sommer früh morgens gehen; die olivenbewachsenen Hänge bieten Schatten, den die offene Uferpromenade nicht hat",
+          "tipNl": "Ga 's zomers vroeg in de ochtend; de met olijfbomen begroeide hellingen bieden schaduw die de open kadepromenade niet heeft"
         },
         {
           "name": "Area Cani Parco della Pace",
@@ -252,8 +283,11 @@
           "tipPt": "Útil no dia de chegada ou partida se chegar a Riva no autocarro da Trentino Trasporti vindo de Rovereto",
           "googleMapsUrl": "https://maps.google.com/?q=Parco+della+Pace+Riva+del+Garda",
           "descriptionDe": "Eine ausgewiesene Hundeauslauffläche innerhalb des Parco della Pace, direkt gegenüber dem Busbahnhof der Stadt gelegen, was sie zu einer der am leichtesten ohne Auto erreichbaren Freilaufflächen macht. Ein praktischer Ort, um einem Hund die Beine zu vertreten, während man im Stadtzentrum wohnt oder dort ankommt.",
+          "descriptionNl": "Een aangewezen hondenlosloopgebied binnen het Parco della Pace, direct tegenover het busstation van de stad, wat het een van de makkelijkst bereikbare losloopgebieden zonder auto maakt. Een handige plek om een hond de benen te laten strekken tijdens een verblijf in of aankomst bij het stadscentrum.",
           "offLeashAreaDe": "Eingezäunte Hundefläche im Park, gegenüber dem Busbahnhof",
-          "tipDe": "Praktisch bei An- oder Abreise, wenn Sie Riva mit dem Trentino-Trasporti-Bus von Rovereto erreichen"
+          "offLeashAreaNl": "Omheind hondengebied in het park, tegenover het busstation",
+          "tipDe": "Praktisch bei An- oder Abreise, wenn Sie Riva mit dem Trentino-Trasporti-Bus von Rovereto erreichen",
+          "tipNl": "Handig bij aankomst of vertrek als je Riva bereikt met de Trentino Trasporti-bus vanuit Rovereto"
         },
         {
           "name": "Area Cani via Sudermann",
@@ -275,8 +309,11 @@
           "tipPt": "Confirme a sinalização à chegada; as zonas municipais para cães mudam ou fecham por vezes para manutenção",
           "googleMapsUrl": "https://maps.google.com/?q=Via+Sudermann+Riva+del+Garda",
           "descriptionDe": "Eine ausgewiesene Hundefläche in der Via Sudermann, zugänglich vom Viale Carducci nahe der westlichen Uferpromenade, vom Tourismusverband Trentino unter Rivas eigenen Hundeflächen aufgeführt. Eine praktische Option für Gäste, die auf der westlichen, Lido-Seite der Stadt untergebracht sind.",
+          "descriptionNl": "Een aangewezen hondengebied in de Via Sudermann, bereikbaar vanaf de Viale Carducci nabij de westelijke kadepromenade, door de toeristenorganisatie van Trentino vermeld onder Riva's eigen hondengebieden. Een handige optie voor gasten die aan de westelijke, Lido-kant van de stad verblijven.",
           "offLeashAreaDe": "Ausgewiesene Hundefläche; Zugang vom Viale Carducci",
-          "tipDe": "Aktuelle Beschilderung bei Ankunft prüfen; städtische Hundeflächen verlegen oder schließen gelegentlich für Wartungsarbeiten"
+          "offLeashAreaNl": "Aangewezen hondengebied; toegang vanaf de Viale Carducci",
+          "tipDe": "Aktuelle Beschilderung bei Ankunft prüfen; städtische Hundeflächen verlegen oder schließen gelegentlich für Wartungsarbeiten",
+          "tipNl": "Check bij aankomst de actuele bebording; gemeentelijke hondengebieden verhuizen of sluiten soms voor onderhoud"
         }
       ],
       "tipsEn": [
@@ -356,7 +393,9 @@
         }
       ],
       "titleDe": "Hundefreilaufflächen & Spaziergänge in Riva del Garda",
+      "titleNl": "Hondenlosloopgebieden & wandelingen in Riva del Garda",
       "introDe": "Riva del Garda hat drei eingezäunte oder ausgewiesene Hundefreilaufflächen (aree cani), wo Hunde ohne Leine laufen können, plus den spektakulären Ponale-Weg und den Hügel Monte Brione für längere Spaziergänge. Beachten Sie, dass Hunde vom 20. Juni bis 10. September nicht an den Stadtstränden selbst erlaubt sind, sondern nur auf der gepflasterten Uferpromenade, weshalb die Hundefreilaufflächen im Sommer besonders wertvoll werden. Überall sonst in der Stadt müssen Hunde angeleint sein, und Kot muss beseitigt werden.",
+      "introNl": "Riva del Garda heeft drie omheinde of aangewezen hondenlosloopgebieden (aree cani), waar honden zonder lijn kunnen lopen, plus het spectaculaire Ponale-pad en de heuvel Monte Brione voor langere wandelingen. Let op: van 20 juni tot 10 september zijn honden niet toegestaan op de stadsstranden zelf, alleen op de geplaveide kadepromenade, waardoor de hondenlosloopgebieden 's zomers extra waardevol worden. Overal elders in de stad moeten honden aangelijnd zijn, en uitwerpselen moeten worden opgeruimd.",
       "faqsDe": [
         {
           "q": "Wo kann mein Hund in Riva del Garda ohne Leine laufen?",
@@ -369,6 +408,20 @@
         {
           "q": "Ist der Ponale-Weg für Hunde geeignet?",
           "a": "Ja, Hunde sind auf dem Ponale-Weg an kurzer Leine erlaubt. Der Weg wird mit Radfahrern geteilt und hat ungesicherte Abgründe und Tunnel, daher den Hund jederzeit nahe halten."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar kan mijn hond zonder lijn lopen in Riva del Garda?",
+          "a": "Er zijn drie aangewezen hondenlosloopgebieden: Monte Brione (vanaf de haven Porto San Nicolò), Parco della Pace (tegenover het busstation) en Via Sudermann (vanaf de Viale Carducci). Elders in de stad moeten honden aangelijnd zijn."
+        },
+        {
+          "q": "Mag ik mijn hond uitlaten bij het meer in Riva del Garda?",
+          "a": "Ja, de geplaveide kadepromenade is het hele jaar door open voor aangelijnde honden. De stranden zelf zijn echter gesloten voor honden van 20 juni tot 10 september."
+        },
+        {
+          "q": "Is het Ponale-pad geschikt voor honden?",
+          "a": "Ja, honden zijn toegestaan op het Ponale-pad aan een korte lijn. Het pad wordt gedeeld met fietsers en heeft onbeveiligde afgronden en tunnels, houd de hond dus altijd dichtbij."
         }
       ]
     },
@@ -522,7 +575,9 @@
         }
       ],
       "titleDe": "Mit Haustier unterwegs in Riva del Garda",
+      "titleNl": "Onderweg met huisdier in Riva del Garda",
       "introDe": "Riva del Garda hat keinen eigenen Bahnhof; die nächste Eisenbahn liegt in Rovereto, etwa 20 km entfernt, verbunden durch die ganzjährig verkehrende Buslinie 332 von Trentino Trasporti. Innerhalb des Seebeckens verbinden die Fähren von Navigazione Laghi Riva mit Orten weiter am See, und die Stadt selbst ist kompakt und sehr gut zu Fuß erkundbar. Öffentliche Verkehrsmittel sind haustierfreundlich, aber eine Leine von maximal 1,5 m und ein Maulkorb (mitgeführt, auf Verlangen anzulegen) sind für Hunde in Bussen, Booten und Zügen vorgeschrieben.",
+      "introNl": "Riva del Garda heeft geen eigen station; het dichtstbijzijnde spoor ligt in Rovereto, zo'n 20 km verderop, verbonden door de het hele jaar rijdende buslijn 332 van Trentino Trasporti. Binnen het meerbekken verbinden de veerboten van Navigazione Laghi Riva met plaatsen verder langs het meer, en de stad zelf is compact en heel goed te voet te verkennen. Het openbaar vervoer is huisdiervriendelijk, maar een lijn van maximaal 1,5 m en een muilkorf (bij je te hebben, op verzoek om te doen) zijn verplicht voor honden in bussen, boten en treinen.",
       "faqsDe": [
         {
           "q": "Wie komme ich mit Hund per Zug nach Riva del Garda?",
@@ -535,6 +590,20 @@
         {
           "q": "Brauche ich hier für meinen Hund einen Maulkorb in öffentlichen Verkehrsmitteln?",
           "a": "Ja. Sowohl Trentino Trasporti als auch Navigazione Laghi verlangen für alle Hunde eine Leine von maximal 1,5 m und einen verfügbaren Maulkorb, der auf Verlangen anzulegen ist. Führen Sie ihn auch für einen kleinen, ruhigen Hund mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe kom ik met hond per trein naar Riva del Garda?",
+          "a": "Neem de trein naar Rovereto op de lijn Verona-Brenner, daarna de het hele jaar rijdende Trentino Trasporti-bus 332 naar Riva (ongeveer 40 minuten). Kleine honden in een transportbox reizen gratis mee; grotere honden hebben een gereduceerd ticket nodig plus muilkorf en lijn."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen op de Gardameer-veerboten vanuit Riva?",
+          "a": "Ja. Navigazione Laghi staat honden toe op de motorboten en catamarans, zowel binnen als buiten. Kleine honden onder 50 cm reizen gratis mee, grotere honden betalen een gereduceerd tarief, en lijn en muilkorf zijn verplicht. De snelle draagvleugelboten laten alleen minihondjes in een tas toe."
+        },
+        {
+          "q": "Heb ik hier een muilkorf nodig voor mijn hond in het openbaar vervoer?",
+          "a": "Ja. Zowel Trentino Trasporti als Navigazione Laghi vereisen voor alle honden een lijn van maximaal 1,5 m en een beschikbare muilkorf, die op verzoek moet worden omgedaan. Neem hem ook mee voor een kleine, rustige hond."
         }
       ]
     },
@@ -620,7 +689,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Seestrände in Riva del Garda",
+      "titleNl": "Hondvriendelijke meerstranden in Riva del Garda",
       "introDe": "Riva liegt an Süßwasser, nicht am Meer, und seine Strände sind eine Mischung aus Gras, Kies und Sand entlang des nördlichen Ufers. Die wichtigste saisonale Regel: Vom 20. Juni bis 10. September sind Hunde an den Stadtstränden nicht erlaubt und dürfen nur die gepflasterte Uferpromenade nutzen, daher sollten Sommerbesucher zu den ausgewiesenen Hundeflächen oder aus der Stadt hinaus zum Schwimmen fahren. An Gardasee-Hundestränden sind Leine, Kotbeutel und ein verfügbarer Maulkorb vorgeschrieben, und Sie sollten ein Gesundheitsdokument für den Hund mitführen.",
+      "introNl": "Riva ligt aan zoet water, niet aan zee, en de stranden zijn een mix van gras, grind en zand langs de noordelijke oever. De belangrijkste seizoensregel: van 20 juni tot 10 september zijn honden niet toegestaan op de stadsstranden en mogen ze alleen de geplaveide kadepromenade gebruiken, dus zomerbezoekers kunnen beter naar de aangewezen hondengebieden gaan of de stad uit rijden om te zwemmen. Bij Gardameer-hondenstranden zijn lijn, poepzakjes en een beschikbare muilkorf verplicht, en je moet een gezondheidsdocument voor de hond bij je hebben.",
       "faqsDe": [
         {
           "q": "Darf mein Hund im Sommer in Riva del Garda an den Strand?",
@@ -629,6 +700,16 @@
         {
           "q": "Welche Regeln gelten für Hunde an Gardasee-Hundestränden?",
           "a": "An für Hunde zugänglichen Stränden sind Leine und Kotbeutel Pflicht, Sie müssen einen Maulkorb mitführen, um ihn bei Bedarf anzulegen, und Sie sollten das Gesundheitsdokument des Hundes dabeihaben. Prüfen Sie immer die örtliche Beschilderung, da Regeln und Saisonzeiten von Ort zu Ort variieren."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond 's zomers naar het strand in Riva del Garda?",
+          "a": "Nee. Van 20 juni tot 10 september zijn honden niet toegestaan op Riva's stadsstranden en mogen ze alleen de geplaveide kadepromenade gebruiken. Gebruik in plaats daarvan de aangewezen hondengebieden (Monte Brione, Parco della Pace, Via Sudermann), of rijd naar een speciaal aangewezen Gardameer-hondenstrand zoals Salò of Toscolano Maderno."
+        },
+        {
+          "q": "Welke regels gelden voor honden op Gardameer-hondenstranden?",
+          "a": "Op stranden die toegankelijk zijn voor honden zijn lijn en poepzakjes verplicht, moet je een muilkorf bij je hebben om indien nodig om te doen, en moet je het gezondheidsdocument van de hond bij je hebben. Check altijd de plaatselijke bebording, want regels en seizoenstijden variëren per locatie."
         }
       ]
     },
@@ -678,8 +759,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Centro+Veterinario+Riva+del+Garda",
           "photo": "",
           "hoursDe": "Nach Vereinbarung; Notrufnummer außerhalb der Öffnungszeiten",
+          "hoursNl": "Op afspraak; noodnummer buiten openingstijden",
           "descriptionDe": "Eine Tierarztpraxis direkt in Riva del Garda mit Ultraschall, digitaler Röntgenaufnahme, Weich- und Hartgewebechirurgie, Blut- und Hormontests sowie Schnelltests auf Krankheiten. Sie ist außerhalb der regulären Öffnungszeiten für Notfälle über die Mobilnummer erreichbar, auch an Wochenenden und Feiertagen, was sie zum bequemsten ersten Ansprechpartner macht, falls Ihr Hund in der Stadt dringend Hilfe braucht.",
-          "tipDe": "Speichern Sie die Mobilnummer +39 334 2068176 für Zeiten außerhalb der Öffnungszeiten und rufen Sie vor der Ankunft an"
+          "descriptionNl": "Een dierenartspraktijk direct in Riva del Garda met echografie, digitale röntgen, weke- en harde-weefselchirurgie, bloed- en hormoontests en sneltests op ziektes. Ze is buiten de reguliere openingstijden bereikbaar voor noodgevallen via het mobiele nummer, ook in het weekend en op feestdagen, wat haar het handigste eerste aanspreekpunt maakt als je hond in de stad dringend hulp nodig heeft.",
+          "tipDe": "Speichern Sie die Mobilnummer +39 334 2068176 für Zeiten außerhalb der Öffnungszeiten und rufen Sie vor der Ankunft an",
+          "tipNl": "Sla het mobiele nummer +39 334 2068176 op voor buiten openingstijden en bel voor aankomst"
         },
         {
           "name": "Ambulatorio Veterinario Bellaria",
@@ -703,8 +787,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Ambulatorio+Veterinario+Bellaria+Arco",
           "photo": "",
           "hoursDe": "Nach Vereinbarung; Notfallversorgung verfügbar",
+          "hoursNl": "Op afspraak; spoedzorg beschikbaar",
           "descriptionDe": "Eine etablierte Praxis in Arco, nur wenige Kilometer von Riva del Garda entfernt, geführt von erfahrenen Tierärzten und mit Notfallversorgung, veterinärmedizinischer Radiologie und Dermatologie. Eine gute zweite Option, wenn die Praxis in Riva nicht verfügbar ist, mit einer weiteren Filiale im Val di Ledro.",
-          "tipDe": "Nützlich, wenn Sie in Arco oder im Sarca-Tal untergebracht sind; auch erreichbar unter +39 333 9945636"
+          "descriptionNl": "Een gevestigde praktijk in Arco, slechts enkele kilometers van Riva del Garda, geleid door ervaren dierenartsen en met spoedzorg, veterinaire radiologie en dermatologie. Een goede tweede optie als de praktijk in Riva niet beschikbaar is, met een extra filiaal in het Val di Ledro.",
+          "tipDe": "Nützlich, wenn Sie in Arco oder im Sarca-Tal untergebracht sind; auch erreichbar unter +39 333 9945636",
+          "tipNl": "Handig als je in Arco of het Sarca-dal verblijft; ook bereikbaar via +39 333 9945636"
         },
         {
           "name": "Pharmacies & out-of-hours guidance",
@@ -728,8 +815,11 @@
           "googleMapsUrl": "https://maps.google.com/?q=Farmacia+Riva+del+Garda",
           "photo": "",
           "hoursDe": "Apothekendienstplan an den Türen und im Touristenbüro ausgehängt",
+          "hoursNl": "Apotheekdienstrooster hangt bij de deuren en in het toeristenbureau",
           "descriptionDe": "Für kleinere Bedarfe wie Zeckenzangen, Pfotenbalsam oder einfache Medikamente helfen die Apotheken (farmacie) der Stadt, die den Nacht- und Feiertagsdienstplan aushängen. Bei allem Dringenden rufen Sie zuerst eine der oben genannten Praxen an, statt sich auf eine Apotheke zu verlassen, und bitten Sie das Touristenbüro oder Ihr Hotel um Hilfe beim Telefonat, falls eine Sprachbarriere besteht.",
-          "tipDe": "Notieren Sie sich bei Ankunft den Dienstapotheken-Plan, damit Sie ihn im Notfall nicht erst suchen müssen"
+          "descriptionNl": "Voor kleinere zaken zoals tekentangen, pootbalsem of eenvoudige medicatie helpen de apotheken (farmacie) van de stad, die het nacht- en feestdagenrooster ophangen. Bij alles dringends bel je eerst een van de bovengenoemde praktijken, in plaats van op een apotheek te vertrouwen, en vraag je het toeristenbureau of je hotel om hulp bij het telefoongesprek als er een taalbarrière is.",
+          "tipDe": "Notieren Sie sich bei Ankunft den Dienstapotheken-Plan, damit Sie ihn im Notfall nicht erst suchen müssen",
+          "tipNl": "Noteer bij aankomst het dienstapotheekrooster, zodat je het niet in een noodgeval hoeft op te zoeken"
         }
       ],
       "faqsEn": [
@@ -773,7 +863,9 @@
         }
       ],
       "titleDe": "Notfalltierärzte in Riva del Garda, Tierarztpraxen & Haustierpflege",
+      "titleNl": "Spoeddierenartsen in Riva del Garda, dierenartspraktijken & huisdierverzorging",
       "introDe": "Riva del Garda und das benachbarte Arco verfügen über mehrere Tierarztpraxen, einige bieten einen Notdienst außerhalb der regulären Öffnungszeiten. Italien ist Mitglied der EU, daher benötigen EU-registrierte Haustiere lediglich einen gültigen EU-Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung zur Einreise. Speichern Sie vor der Reise eine örtliche Tierarztnummer und rufen Sie vorab an, damit sich die Praxis vorbereiten kann.",
+      "introNl": "Riva del Garda en het naburige Arco beschikken over meerdere dierenartspraktijken, sommige bieden spoeddienst buiten de reguliere openingstijden. Italië is EU-lid, dus EU-geregistreerde huisdieren hebben voor binnenkomst alleen een geldig EU-dierenpaspoort, een microchip en een actuele rabiësvaccinatie nodig. Sla voor de reis een lokaal dierenartsnummer op en bel vooraf, zodat de praktijk zich kan voorbereiden.",
       "faqsDe": [
         {
           "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Riva del Garda mitzubringen?",
@@ -782,6 +874,16 @@
         {
           "q": "Gibt es in Riva del Garda einen Notfalltierarzt?",
           "a": "Ja. Das Centro Veterinario Riva del Garda ist außerhalb der Öffnungszeiten für Notfälle unter +39 334 2068176 erreichbar, und das Ambulatorio Veterinario Bellaria im nahen Arco bietet ebenfalls Notfallversorgung. Speichern Sie beide Nummern und rufen Sie vorab an, damit man sich auf Ihre Ankunft vorbereiten kann."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Heb ik een dierenpaspoort nodig om mijn hond mee te nemen naar Riva del Garda?",
+          "a": "Italië is EU-lid, dus EU-geregistreerde huisdieren hebben een geldig EU-dierenpaspoort nodig met microchip en actuele rabiësvaccinatie. Huisdieren van buiten de EU hebben een diergezondheidscertificaat nodig en, afhankelijk van het land van herkomst, een rabiës-antilichaamtitertest. Check de regels van het Italiaanse ministerie van Volksgezondheid voor de reis."
+        },
+        {
+          "q": "Is er een spoeddierenarts in Riva del Garda?",
+          "a": "Ja. Het Centro Veterinario Riva del Garda is buiten openingstijden bereikbaar voor noodgevallen via +39 334 2068176, en het Ambulatorio Veterinario Bellaria in het nabije Arco biedt ook spoedzorg. Sla beide nummers op en bel vooraf, zodat men zich kan voorbereiden op je komst."
         }
       ]
     },
@@ -898,7 +1000,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Tipps für Riva del Garda",
+      "titleNl": "Hondvriendelijke tips voor Riva del Garda",
       "introDe": "Riva del Garda ist eine aktive Freiluftstadt, in der sich See und Berge treffen, und Hunde fügen sich natürlich in den Windsurf-, Wander- und Radlebensstil ein. Der einzige Punkt, den es zu planen gilt, ist das Sommer-Strandverbot; alles andere, von der Promenade bis zum Ponale-Weg, ist sehr gut mit Hund machbar. Hier sind die örtlichen Regeln und Gepflogenheiten, die Sie vor der Reise kennen sollten.",
+      "introNl": "Riva del Garda is een actieve buitenstad waar meer en bergen samenkomen, en honden passen van nature in de windsurf-, wandel- en fietslevensstijl. Het enige punt om rekening mee te houden is het zomerse strandverbod; al het andere, van de promenade tot het Ponale-pad, is heel goed doenbaar met hond. Hier zijn de plaatselijke regels en gewoontes die je voor de reis moet kennen.",
       "faqsDe": [
         {
           "q": "Ist Riva del Garda gut für Hunde geeignet?",
@@ -911,6 +1015,20 @@
         {
           "q": "Dürfen Hunde auf den Bastione und zum Varone-Wasserfall?",
           "a": "Ja, zu beidem. Hunde dürfen den Panoramalift zum Bastione kostenlos benutzen, einer pro Kabine, mit Maulkorb und Leine, und angeleinte Hunde sind an der Cascata del Varone willkommen, wobei die feuchte, laute Schlucht empfindliche Hunde stressen kann."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Riva del Garda geschikt voor honden?",
+          "a": "Ja, voor actieve reizigers is het uitstekend. Er zijn drie lijnvrije hondengebieden, het Ponale-pad en Monte Brione voor wandelingen, hondvriendelijke terrassen aan de oever, en honden mogen mee op de veerboten en de Bastione-lift. Het belangrijkste punt is het zomerse strandverbod van 20 juni tot 10 september."
+        },
+        {
+          "q": "Wat moet ik inpakken voor Riva del Garda met mijn hond?",
+          "a": "Neem het EU-dierenpaspoort mee, een lijn van maximaal 1,5 m, een muilkorf (verplicht bij je te hebben op hondenstranden en in het openbaar vervoer), poepzakjes, een waterfles en een reisbakje. Pak in de zomer extra pootbescherming in en plan wandelingen voor de koelere uren."
+        },
+        {
+          "q": "Mogen honden naar de Bastione en de Varone-waterval?",
+          "a": "Ja, naar beide. Honden mogen gratis mee met de panoramalift naar de Bastione, één per cabine, met muilkorf en lijn, en aangelijnde honden zijn welkom bij de Cascata del Varone, al kan de vochtige, luidruchtige kloof gevoelige honden stressen."
         }
       ]
     },
@@ -947,9 +1065,13 @@
           "tipPt": "Melhor de manha cedo ou ao fim do dia; ao meio-dia em julho e agosto a praca enche e o empedrado queima as almofadas",
           "googleMapsUrl": "https://maps.google.com/?q=Piazza+III+Novembre+Riva+del+Garda",
           "descriptionDe": "Das Herz Rivas ist dieser von Arkaden gesäumte mittelalterliche Platz, der sich direkt zum See hin öffnet, überragt vom Apponale-Turm aus dem 13. Jahrhundert und mitteleuropäischen Fassaden. Es ist ein entspannter, vollständig begehbarer Ort für einen Spaziergang mit Hund, mit Cafeterrassen unter den Arkaden und der Uferpromenade sowie dem Hafen nur wenige Schritte entfernt.",
+          "descriptionNl": "Het hart van Riva is dit door arcaden omzoomde middeleeuwse plein dat zich direct naar het meer opent, overheerst door de Apponale-toren uit de 13e eeuw en Midden-Europese gevels. Het is een ontspannen, volledig te belopen plek voor een wandeling met hond, met caféterrassen onder de arcaden en de kadepromenade en de haven op een paar stappen afstand.",
           "dogPolicyDe": "Hunde an der Leine überall auf dem Platz und der Uferpromenade willkommen",
+          "dogPolicyNl": "Aangelijnde honden welkom op het hele plein en de kadepromenade",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Am besten früh morgens oder abends; mittags im Juli und August ist der Platz überfüllt und das Pflaster heiß unter den Pfoten"
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Am besten früh morgens oder abends; mittags im Juli und August ist der Platz überfüllt und das Pflaster heiß unter den Pfoten",
+          "tipNl": "Het beste vroeg in de ochtend of 's avonds; rond het middaguur in juli en augustus is het plein overvol en de bestrating heet onder de pootjes"
         },
         {
           "name": "Bastione di Riva",
@@ -978,10 +1100,15 @@
           "tipPt": "Se o seu cão estiver em forma e o dia estiver fresco, suba pelo trilho de 30 minutos em vez de usar o elevador",
           "googleMapsUrl": "https://maps.google.com/?q=Bastione+Riva+del+Garda",
           "descriptionDe": "Ein runder Turm aus grauem Stein aus dem frühen 16. Jahrhundert, hoch an den Hängen des Monte Rocchetta gelegen, ist der Bastione das Wahrzeichen Rivas und ein herrlicher Aussichtspunkt über die Stadt und den See. Sie erreichen ihn zu Fuß in etwa 30 Minuten oder mit dem Panoramalift, und Hunde sind mit einem pro Kabine, mit Maulkorb und Leine, erlaubt.",
+          "descriptionNl": "Een ronde toren van grijze steen uit het vroege 16e-eeuw, hoog op de hellingen van de Monte Rocchetta gelegen, de Bastione is het herkenningspunt van Riva en een prachtig uitzichtpunt over de stad en het meer. Je bereikt hem te voet in zo'n 30 minuten of met de panoramalift, en honden zijn toegestaan, één per cabine, met muilkorf en lijn.",
           "dogPolicyDe": "Hunde im Panoramalift erlaubt, einer pro Kabine, mit Maulkorb und Leine (kostenlos)",
+          "dogPolicyNl": "Honden toegestaan in de panoramalift, één per cabine, met muilkorf en lijn (gratis)",
           "openingHoursDe": "Lift saisonal; Wanderweg immer geöffnet",
+          "openingHoursNl": "Lift seizoensgebonden; wandelpad altijd open",
           "admissionFeeDe": "Lift etwa 4 EUR einfach / 7 EUR hin und zurück; zu Fuß hinauf kostenlos",
-          "tipDe": "Ist Ihr Hund fit und der Tag kühl, gehen Sie den 30-minütigen Weg statt den Lift zu nehmen"
+          "admissionFeeNl": "Lift ongeveer 4 EUR enkele reis / 7 EUR retour; te voet omhoog gratis",
+          "tipDe": "Ist Ihr Hund fit und der Tag kühl, gehen Sie den 30-minütigen Weg statt den Lift zu nehmen",
+          "tipNl": "Is je hond fit en de dag koel, loop dan het pad van 30 minuten in plaats van de lift te nemen"
         },
         {
           "name": "Cascata del Varone",
@@ -1010,10 +1137,15 @@
           "tipPt": "Chega-se de carro ou bicicleta; a garganta é fresca, uma visita rápida adequa-se melhor à maioria dos cães",
           "googleMapsUrl": "https://maps.google.com/?q=Cascata+del+Varone",
           "descriptionDe": "Ein dramatischer 90 Meter hoher Wasserfall, der durch eine enge Höhlenschlucht etwa 3 km vom Zentrum entfernt donnert, mit in den Fels gebauten Stegen, um ihn von innerhalb der Schlucht zu betrachten. Angeleinte Hunde sind erlaubt, aber die feuchte, laute, sprühgefüllte Umgebung kann für geräusch- oder kälteempfindliche Hunde stressig sein, beurteilen Sie also Ihren eigenen Hund, bevor Sie hineingehen.",
+          "descriptionNl": "Een dramatische waterval van 90 meter die door een nauwe grottenkloof dondert, zo'n 3 km van het centrum, met in de rots gebouwde loopbruggen om hem van binnenuit de kloof te bekijken. Aangelijnde honden zijn toegestaan, maar de vochtige, luidruchtige, met spray gevulde omgeving kan stressvol zijn voor geluid- of koudegevoelige honden, beoordeel dus je eigen hond voordat je naar binnen gaat.",
           "dogPolicyDe": "Angeleinte Hunde erlaubt; Lärm und Feuchtigkeit für empfindliche Hunde bedenken",
+          "dogPolicyNl": "Aangelijnde honden toegestaan; houd rekening met lawaai en vocht bij gevoelige honden",
           "openingHoursDe": "Saisonale Öffnungszeiten; offizielle Website prüfen",
+          "openingHoursNl": "Seizoensgebonden openingstijden; check de officiële website",
           "admissionFeeDe": "Kostenpflichtiger Eintritt; aktuelle Preise auf der offiziellen Website prüfen",
-          "tipDe": "Mit Auto oder Rad erreichbar; die Schlucht ist kühl, daher passt ein kurzer Besuch für die meisten Hunde besser als ein langer"
+          "admissionFeeNl": "Betaalde toegang; check actuele prijzen op de officiële website",
+          "tipDe": "Mit Auto oder Rad erreichbar; die Schlucht ist kühl, daher passt ein kurzer Besuch für die meisten Hunde besser als ein langer",
+          "tipNl": "Bereikbaar met auto of fiets; de kloof is koel, dus een kort bezoek past beter bij de meeste honden dan een lang bezoek"
         }
       ],
       "tipsEn": [
@@ -1093,7 +1225,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Riva del Garda",
+      "titleNl": "Huisdiervriendelijke bezienswaardigheden in Riva del Garda",
       "introDe": "Rivas beste Sehenswürdigkeiten liegen im Freien und lassen sich gut mit Hund erleben: der historische Platz am See, die Panoramafestung Bastione und der dramatische Varone-Wasserfall. Museumsinnenräume und das Innere der Rocca-Burg lassen im Allgemeinen keine Hunde zu, aber das Freiluftherz der Stadt ist vollständig an der Leine begehbar. Halten Sie den Hund in der Hochsaison in den belebten Altstadtgassen immer nah bei sich.",
+      "introNl": "Riva's beste bezienswaardigheden liggen buiten en zijn goed te ervaren met hond: het historische plein aan het meer, de panoramische vesting Bastione en de dramatische Varone-waterval. Binnenruimtes van musea en het interieur van het Rocca-kasteel laten over het algemeen geen honden toe, maar het openluchthart van de stad is volledig te belopen aan de lijn. Houd de hond in het hoogseizoen altijd dichtbij in de drukke steegjes van de oude stad.",
       "faqsDe": [
         {
           "q": "Was kann ich in Riva del Garda mit Hund unternehmen?",
@@ -1106,6 +1240,20 @@
         {
           "q": "Sind Hunde am Wasserfall Cascata del Varone erlaubt?",
           "a": "Ja, an der Leine. Beachten Sie, dass die Schlucht feucht, kühl und durch das fallende Wasser sehr laut ist, was geräusch- oder kälteempfindliche Hunde beunruhigen kann, halten Sie den Besuch für sie also kurz."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat kan ik doen in Riva del Garda met hond?",
+          "a": "Slenter over de Piazza III Novembre en de kadepromenade, wandel het Ponale-pad en Monte Brione, ga met de panoramalift naar de Bastione en bezoek de Cascata del Varone, allemaal heten aangelijnde honden welkom. Binnenruimtes van musea en het interieur van het Rocca-kasteel laten geen honden toe."
+        },
+        {
+          "q": "Mogen honden naar binnen in het Rocca-kasteel in Riva del Garda?",
+          "a": "Nee. De Rocca herbergt het Museo Alto Garda en laat, zoals de meeste binnenruimtes van musea, geen honden toe. De omliggende gracht en de kadepromenade lenen zich goed voor een wandeling aan de lijn, plan museumbezoeken dus zo dat je hond ondertussen ergens anders kan uitrusten."
+        },
+        {
+          "q": "Zijn honden toegestaan bij de waterval Cascata del Varone?",
+          "a": "Ja, aangelijnd. Let op: de kloof is vochtig, koel en door het vallende water erg luidruchtig, wat geluid- of koudegevoelige honden onrustig kan maken, houd het bezoek voor hen dus kort."
         }
       ]
     },
@@ -1140,8 +1288,11 @@
           "tipEs": "Contacta a un cuidador con al menos unos días de antelación en julio y agosto y confirma que acepta el tamaño de tu perro",
           "tipPt": "Contacte um cuidador com pelo menos alguns dias de antecedência em julho e agosto e confirme que aceita o tamanho do seu cão",
           "descriptionDe": "Pawshake ist eine italienweite Plattform für Haustierbetreuung mit Betreuern in Riva del Garda und dem umliegenden Garda-Trentino- und Rovereto-Gebiet, mit Gassi-Service, Tagesbetreuung und Unterbringung zu Hause. Betreuer sind hintergrundgeprüft und durch die Pawshake-Versicherung abgedeckt, und Sie kontaktieren sie direkt, um die Bedürfnisse Ihres Hundes vor der Buchung zu klären. Eine gute Option für ein paar Stunden Betreuung während einer Wanderung oder eines Tages am See.",
+          "descriptionNl": "Pawshake is een landelijk Italiaans platform voor huisdierenoppas met oppassers in Riva del Garda en het omliggende Garda-Trentino- en Rovereto-gebied, met uitlaatservice, dagopvang en huisonderdak. Oppassers zijn gescreend en gedekt door de Pawshake-verzekering, en je neemt rechtstreeks contact met ze op om de behoeften van je hond te bespreken voor het boeken. Een goede optie voor een paar uur oppas tijdens een wandeling of een dag aan het meer.",
           "serviceTypeDe": "Online-Buchung. Gassi-Service, Tagesbetreuung, Unterbringung",
-          "tipDe": "Kontaktieren Sie im Juli und August einen Betreuer mindestens ein paar Tage im Voraus und bestätigen Sie, dass er die Größe Ihres Hundes akzeptiert"
+          "serviceTypeNl": "Online boeken. Uitlaatservice, dagopvang, onderdak",
+          "tipDe": "Kontaktieren Sie im Juli und August einen Betreuer mindestens ein paar Tage im Voraus und bestätigen Sie, dass er die Größe Ihres Hundes akzeptiert",
+          "tipNl": "Neem in juli en augustus minstens een paar dagen van tevoren contact op met een oppas en bevestig dat die het formaat van je hond accepteert"
         },
         {
           "name": "Rover (Riva del Garda area)",
@@ -1164,8 +1315,11 @@
           "tipEs": "Usa el filtro para perros grandes si tienes una raza grande; la disponibilidad fuera de las localidades principales puede ser escasa",
           "tipPt": "Use o filtro para cães grandes se tiver uma raça grande; a disponibilidade fora das povoações principais pode ser escassa",
           "descriptionDe": "Rover listet geprüfte Gassigeher und Betreuer in ganz Italien, einschließlich Anbietern im Gebiet Riva del Garda und Garda-Trentino, mit Leistungen von kurzen Spaziergängen bis zur Übernachtungsbetreuung. Die App lässt Sie nach Standort, Hundegröße und Verfügbarkeit filtern und frühere Bewertungen lesen, und viele Betreuer in Touristengebieten sprechen etwas Englisch. Nützlich, wenn Sie während eines längeren Aufenthalts flexible, kurzfristige Betreuung benötigen.",
+          "descriptionNl": "Rover vermeldt gescreende uitlaters en oppassers in heel Italië, inclusief aanbieders in het gebied Riva del Garda en Garda-Trentino, met diensten van korte wandelingen tot overnachtingszorg. Met de app kun je filteren op locatie, hondformaat en beschikbaarheid en eerdere beoordelingen lezen, en veel oppassers in toeristische gebieden spreken een beetje Engels. Nuttig als je tijdens een langer verblijf flexibele, kortetermijnzorg nodig hebt.",
           "serviceTypeDe": "App-basierte Buchung. Gassi-Service, Betreuung, Unterbringung",
-          "tipDe": "Nutzen Sie den Filter für große Hunde, wenn Sie eine große Rasse haben; die Verfügbarkeit außerhalb der Hauptorte kann gering sein"
+          "serviceTypeNl": "Boeken via de app. Uitlaatservice, oppas, onderdak",
+          "tipDe": "Nutzen Sie den Filter für große Hunde, wenn Sie eine große Rasse haben; die Verfügbarkeit außerhalb der Hauptorte kann gering sein",
+          "tipNl": "Gebruik de filter voor grote honden als je een groot ras hebt; de beschikbaarheid buiten de hoofdplaatsen kan beperkt zijn"
         }
       ],
       "tipsEn": [
@@ -1229,7 +1383,9 @@
         }
       ],
       "titleDe": "Hundesitter & Haustierpflege in Riva del Garda",
+      "titleNl": "Hondenoppas & huisdierverzorging in Riva del Garda",
       "introDe": "Wenn Sie klettern, segeln oder ein Museum im Innenraum besuchen möchten, ohne den Hund dabei zu haben, verfügt Riva del Garda und das weitere Garda-Trentino-Gebiet über örtliche Hundesitter und Gassigeher, meist über internationale Plattformen buchbar. Buchen Sie im Voraus während der geschäftigen Sommersaison, da die örtliche Verfügbarkeit begrenzt ist. Treffen oder kontaktieren Sie den Betreuer immer zuerst, um zu bestätigen, dass er mit der Größe und dem Energielevel Ihres Hundes zurechtkommt.",
+      "introNl": "Wil je klimmen, zeilen of een binnenmuseum bezoeken zonder de hond erbij, dan beschikken Riva del Garda en het bredere Garda-Trentino-gebied over lokale hondenoppassers en uitlaters, meestal te boeken via internationale platforms. Boek van tevoren tijdens het drukke zomerseizoen, want de lokale beschikbaarheid is beperkt. Ontmoet of contacteer de oppas altijd eerst om te bevestigen dat die overweg kan met het formaat en energieniveau van je hond.",
       "faqsDe": [
         {
           "q": "Wie viel kostet Hundebetreuung in Riva del Garda?",
@@ -1238,6 +1394,16 @@
         {
           "q": "Finde ich in Riva del Garda einen englischsprachigen Hundesitter?",
           "a": "Oft ja. Riva ist eine bedeutende internationale Touristenstadt, daher sprechen viele auf Pawshake und Rover gelistete Betreuer etwas Englisch. Bestätigen Sie die Sprache und die Bedürfnisse Ihres Hundes per Nachricht, bevor Sie buchen, besonders für eine Übernachtung."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoeveel kost hondenoppas in Riva del Garda?",
+          "a": "Reken op ongeveer 12-15 EUR voor een wandeling of kort bezoek en meer voor dagopvang of overnachtingszorg, afhankelijk van de oppas en het seizoen. Prijzen op platforms zoals Pawshake en Rover worden door individuele oppassers vastgesteld, vergelijk er dus meerdere voor je boekt."
+        },
+        {
+          "q": "Vind ik in Riva del Garda een Engelssprekende hondenoppas?",
+          "a": "Vaak wel. Riva is een belangrijke internationale toeristenstad, dus veel oppassers op Pawshake en Rover spreken een beetje Engels. Bevestig taal en de behoeften van je hond via een bericht voordat je boekt, zeker voor een overnachting."
         }
       ]
     }

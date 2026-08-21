@@ -39,9 +39,13 @@
           "mustTryPt": "Txangurro al horno (santola no forno) e kokotxas al pil-pil",
           "tipPt": "Reserve uma mesa na esplanada do lado do porto para vistas sobre os barcos de pesca em atividade. Os cães têm de permanecer com trela dentro da sala de jantar.",
           "descriptionDe": "Ein Fischrestaurant am alten Fischerhafen, nur wenige Schritte vom Aquarium und der Bucht La Concha entfernt. Hunde sind im gesamten Restaurant willkommen, auf der Terrasse und im Innenbereich, und das Personal stellt auf Wunsch Wassernäpfe bereit. Die Speisekarte konzentriert sich auf den baskischen Tagesfang: txangurro (Taschenkrebs) und kokotxas (Kabeljaubäckchen) sind die Aushängeschilder.",
+          "descriptionNl": "Een visrestaurant aan de oude vissershaven, een paar stappen van het aquarium en de baai van La Concha. Honden zijn welkom in het hele restaurant, op het terras en binnen, en het personeel zet op verzoek een waterbakje neer. De kaart draait om de Baskische dagvangst: txangurro (spinkrab) en kokotxas (kabeljauwkaken) zijn de blikvangers.",
           "petPolicyDe": "Hunde überall willkommen, Terrasse und Innenbereich. Wassernäpfe auf Anfrage.",
+          "petPolicyNl": "Honden overal welkom, terras en binnen. Waterbakjes op aanvraag.",
           "mustTryDe": "Txangurro al horno (gebackener Taschenkrebs) und kokotxas al pil-pil",
-          "tipDe": "Reservieren Sie einen Terrassentisch am Hafen für den Blick auf die Fischerboote bei der Arbeit. Hunde müssen im Speisesaal angeleint bleiben."
+          "mustTryNl": "Txangurro al horno (gebakken spinkrab) en kokotxas al pil-pil",
+          "tipDe": "Reservieren Sie einen Terrassentisch am Hafen für den Blick auf die Fischerboote bei der Arbeit. Hunde müssen im Speisesaal angeleint bleiben.",
+          "tipNl": "Reserveer een tafel op het terras aan de haven voor uitzicht op de vissersboten aan het werk. Je hond moet in de eetzaal aangelijnd blijven."
         },
         {
           "name": "Villano Bistro",
@@ -69,9 +73,13 @@
           "mustTryPt": "Menu de degustação de pintxos criativos e o ceviche da pesca do dia",
           "tipPt": "Chegue cedo para os pintxos, pois as melhores seleções esgotam até às 13:30. O bairro de Gros é plano e fácil de percorrer com um cão.",
           "descriptionDe": "Ein modernes Bistro im Boutique-Hotel Intelier Villa Katalina im Viertel Gros, wenige Gehminuten vom Surfstrand Zurriola entfernt. Kreative Pintxos und saisonale baskische Gerichte stehen im Mittelpunkt. Hunde sind auf der Terrasse und im gesamten Erdgeschoss willkommen, ein natürlicher Halt nach einem Spaziergang auf der Zurriola-Promenade.",
+          "descriptionNl": "Een modern bistro in het boetiekhotel Intelier Villa Katalina in de wijk Gros, een paar minuten lopen van het surfstrand Zurriola. Creatieve pintxos en seizoensgebonden Baskische gerechten staan centraal. Honden zijn welkom op het terras en op de hele begane grond, een natuurlijke stop na een wandeling over de Zurriola-boulevard.",
           "petPolicyDe": "Hunde auf der Terrasse und im Speisebereich im Erdgeschoss willkommen.",
+          "petPolicyNl": "Honden welkom op het terras en in het eetgedeelte op de begane grond.",
           "mustTryDe": "Kreatives Pintxos-Degustationsmenü und Ceviche vom Tagesfang",
-          "tipDe": "Kommen Sie früh für Pintxos, die besten Auswahlen sind bis 13:30 Uhr vergriffen. Das Viertel Gros ist flach und mit Hund leicht zu erkunden."
+          "mustTryNl": "Creatief pintxos-degustatiemenu en ceviche van de dagvangst",
+          "tipDe": "Kommen Sie früh für Pintxos, die besten Auswahlen sind bis 13:30 Uhr vergriffen. Das Viertel Gros ist flach und mit Hund leicht zu erkunden.",
+          "tipNl": "Kom vroeg voor de pintxos, de beste keuzes zijn rond 13.30 uur al op. De wijk Gros is vlak en makkelijk te verkennen met je hond."
         }
       ],
       "tipsEn": [
@@ -101,8 +109,11 @@
       ],
       "faqsPt": [],
       "titleDe": "Haustierfreundliche Restaurants in San Sebastián",
+      "titleNl": "Huisdiervriendelijke restaurants in San Sebastián",
       "introDe": "San Sebastián (baskisch Donostia) ist eine der großen Küchenmetropolen Europas und mit über 15.000 registrierten Hunden bei weniger als 200.000 Einwohnern zugleich eine der hundefreundlichsten. Terrassen, Pintxos-Bars und Restaurants am Wasser heißen Hunde regelmäßig ohne Zögern willkommen, ein Spiegelbild der entspannten Haltung des Baskenlandes gegenüber Haustieren im öffentlichen Leben.",
-      "faqsDe": []
+      "introNl": "San Sebastián (Baskisch: Donostia) is een van de grote culinaire hoofdsteden van Europa en met meer dan 15.000 geregistreerde honden op minder dan 200.000 inwoners ook een van de meest hondvriendelijke. Terrassen, pintxobars en restaurants aan het water verwelkomen honden zonder aarzelen, een weerspiegeling van de ontspannen houding van Baskenland tegenover huisdieren in het openbare leven.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks in San Sebastián",
@@ -132,8 +143,11 @@
           "offLeashAreaPt": "Toda a colina durante as horas sem trela: 18:00 às 12:00 (inverno) / 19:00 às 10:00 (verão). Raças PPP sempre com trela e açaime.",
           "tipPt": "Entre pelo lado do Paseo Nuevo para as vistas de mar mais dramáticas no topo da falésia. Leve água, pois não há fontes nos trilhos superiores.",
           "descriptionDe": "Der bewaldete Hügel über der Altstadt, gekrönt von der Festung Castillo de la Mota und einer großen Christusstatue. Das Netz schattiger Wege am Monte Urgull bietet Panoramablicke über die Bucht La Concha und das Kantabrische Meer. Hunde dürfen während der festgelegten Zeiten frei laufen, 18:00 bis 12:00 Uhr im Winter, 19:00 bis 10:00 Uhr im Sommer, auf dem gesamten Hügel, mit der Ausnahme, dass als potenziell gefährlich eingestufte Rassen (PPP) stets an der Leine und mit Maulkorb geführt werden müssen.",
+          "descriptionNl": "De beboste heuvel boven de oude stad, met op de top het fort Castillo de la Mota en een groot Christusbeeld. Het netwerk van schaduwrijke paden op de Monte Urgull biedt panoramisch uitzicht over de baai van La Concha en de Cantabrische Zee. Honden mogen tijdens vaste tijden los lopen, van 18.00 tot 12.00 uur in de winter en van 19.00 tot 10.00 uur in de zomer, over de hele heuvel, met uitzondering van als potentieel gevaarlijk aangemerkte rassen (PPP), die altijd aangelijnd en met muilkorf moeten blijven.",
           "offLeashAreaDe": "Gesamter Hügel während der Freilaufzeiten: 18:00–12:00 Uhr (Winter) / 19:00–10:00 Uhr (Sommer). PPP-Rassen stets mit Leine & Maulkorb.",
-          "tipDe": "Betreten Sie den Hügel von der Seite des Paseo Nuevo für die dramatischsten Meerblicke von der Klippe. Nehmen Sie Wasser mit, auf den oberen Wegen gibt es keine Brunnen."
+          "offLeashAreaNl": "Hele heuvel tijdens de loslooptijden: 18.00-12.00 uur (winter) / 19.00-10.00 uur (zomer). PPP-rassen altijd aan de lijn en met muilkorf.",
+          "tipDe": "Betreten Sie den Hügel von der Seite des Paseo Nuevo für die dramatischsten Meerblicke von der Klippe. Nehmen Sie Wasser mit, auf den oberen Wegen gibt es keine Brunnen.",
+          "tipNl": "Ga de heuvel op vanaf de kant van de Paseo Nuevo voor het meest indrukwekkende zeezicht vanaf de kliffen. Neem water mee, op de hogere paden zijn geen fonteinen."
         },
         {
           "name": "Monte Ulía",
@@ -155,8 +169,11 @@
           "offLeashAreaPt": "Toda a área natural, todo o ano, durante as horas sem trela: 18:00 às 12:00 diariamente. Raças PPP sempre com trela e açaime.",
           "tipPt": "Aceda pela estrada do Paseo de Ulía, acima do bairro de Gros. Os trilhos no topo da falésia podem ficar escorregadios depois da chuva; verifique as almofadas das patas do seu cão após caminhar na rocha costeira.",
           "descriptionDe": "Das wilde östliche Kap hinter dem Strand Zurriola, der Monte Ulía ist ein geschütztes Naturgebiet mit dramatischen Klippenpfaden und Blick auf den Atlantik. Die Freilaufzeiten sind das ganze Jahr über konstant, täglich 18:00 bis 12:00 Uhr, und die Wege sind deutlich weniger überlaufen als am Monte Urgull. Der Küstenweg GR121 verläuft entlang der Klippen mit Blick bis zum offenen Atlantik.",
+          "descriptionNl": "De ruige oostelijke kaap achter het strand Zurriola, de Monte Ulía, is een beschermd natuurgebied met indrukwekkende klifpaden en uitzicht op de Atlantische Oceaan. De loslooptijden zijn het hele jaar hetzelfde, dagelijks van 18.00 tot 12.00 uur, en de paden zijn duidelijk minder druk dan op de Monte Urgull. Het kustpad GR121 loopt langs de kliffen met zicht tot ver op de open Atlantische Oceaan.",
           "offLeashAreaDe": "Gesamtes Naturgebiet ganzjährig während der Freilaufzeiten: täglich 18:00–12:00 Uhr. PPP-Rassen stets mit Leine & Maulkorb.",
-          "tipDe": "Zugang über die Straße Paseo de Ulía oberhalb des Viertels Gros. Die Klippenpfade können nach Regen rutschig sein, kontrollieren Sie die Pfoten Ihres Hundes nach Spaziergängen auf Küstenfelsen."
+          "offLeashAreaNl": "Hele natuurgebied het hele jaar door tijdens de loslooptijden: dagelijks 18.00-12.00 uur. PPP-rassen altijd aan de lijn en met muilkorf.",
+          "tipDe": "Zugang über die Straße Paseo de Ulía oberhalb des Viertels Gros. Die Klippenpfade können nach Regen rutschig sein, kontrollieren Sie die Pfoten Ihres Hundes nach Spaziergängen auf Küstenfelsen.",
+          "tipNl": "Toegang via de straat Paseo de Ulía boven de wijk Gros. De klifpaden kunnen glad zijn na regen, controleer de pootjes van je hond na wandelingen over de kustrotsen."
         },
         {
           "name": "Parque Cristina Enea",
@@ -178,8 +195,11 @@
           "offLeashAreaPt": "Apenas com trela em todo o parque. Sem zona designada sem trela.",
           "tipPt": "A entrada pelo lado do Paseo de Francia dá o acesso mais direto aos relvados do rio. Alguns bebedouros mais antigos têm taças baixas acessíveis a cães.",
           "descriptionDe": "San Sebastiáns eleganteste Parkanlage, ein 17 Hektar großes Waldgebiet, das der Stadt 1898 vom Herzog von Mandas zum Gedenken an seine Frau geschenkt wurde. Schattige Wege führen durch exotische Bäume, Teiche und Pfaugehege entlang des Flusses Urumea. Hunde sind überall an der Leine willkommen, und die Uferrasenflächen sind an heißen Tagen eine ideale schattige Rastmöglichkeit.",
+          "descriptionNl": "Het meest elegante park van San Sebastián, een 17 hectare groot bosgebied dat in 1898 door de hertog van Mandas aan de stad werd geschonken ter nagedachtenis aan zijn vrouw. Schaduwrijke paden voeren langs exotische bomen, vijvers en pauwenverblijven langs de rivier de Urumea. Honden zijn overal welkom aan de lijn, en de grasvelden aan de oever zijn op warme dagen een ideale schaduwrijke rustplek.",
           "offLeashAreaDe": "Im gesamten Park nur an der Leine. Keine ausgewiesene Freilaufzone.",
-          "tipDe": "Der Eingang von der Seite des Paseo de Francia bietet den direktesten Zugang zu den Uferrasenflächen. Einige ältere Trinkbrunnen verfügen über hundefreundliche, niedrige Näpfe."
+          "offLeashAreaNl": "In het hele park alleen aan de lijn. Geen aangewezen loslooparea.",
+          "tipDe": "Der Eingang von der Seite des Paseo de Francia bietet den direktesten Zugang zu den Uferrasenflächen. Einige ältere Trinkbrunnen verfügen über hundefreundliche, niedrige Näpfe.",
+          "tipNl": "De ingang aan de kant van de Paseo de Francia geeft de snelste toegang tot de grasvelden aan de oever. Sommige oudere drinkfonteinen hebben hondvriendelijke, lage bakjes."
         }
       ],
       "faqsEn": [],
@@ -189,8 +209,11 @@
       "introPt": "San Sebastián é rodeada por colinas arborizadas e trilhos costeiros que fazem dela uma das melhores cidades de Espanha para passear cães. Os dois picos principais, o Monte Urgull e o Monte Ulía, oferecem muito tempo sem trela fora das horas da manhã, enquanto os parques e promenades da cidade aceitam todos cães com trela. Com o maior rácio de cães por humano de qualquer grande cidade espanhola, a infraestrutura para donos de cães é excelente.",
       "faqsPt": [],
       "titleDe": "Hundefreundliche Parks in San Sebastián",
+      "titleNl": "Hondvriendelijke parken in San Sebastián",
       "introDe": "San Sebastián ist von bewaldeten Hügeln und Küstenwegen umgeben, die die Stadt zu einer der besten in Spanien für Hundespaziergänge machen. Die beiden Hauptgipfel, Monte Urgull und Monte Ulía, bieten außerhalb der Morgenstunden ausgedehnten Freilauf, während die Parks und Promenaden der Stadt durchgehend leinenfreundlich sind. Mit dem höchsten Verhältnis von Hunden zu Menschen aller großen spanischen Städte ist die Infrastruktur für Hundebesitzer hervorragend.",
-      "faqsDe": []
+      "introNl": "San Sebastián wordt omringd door beboste heuvels en kustpaden, waardoor de stad een van de beste plekken in Spanje is om met je hond te wandelen. De twee belangrijkste heuvels, Monte Urgull en Monte Ulía, bieden ruime loslooptijden buiten de ochtenduren, terwijl de parken en boulevards van de stad overal aan de lijn toegankelijk zijn. Met de hoogste verhouding honden per inwoner van alle grote Spaanse steden is de infrastructuur voor hondenbezitters uitstekend.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "transport": {
       "titleEn": "Getting Around San Sebastián with Your Dog",
@@ -260,8 +283,11 @@
       "introPt": "San Sebastián é uma cidade compacta e fácil de percorrer a pé; a maioria das atrações, parques e praias é alcançável a pé a partir do centro. Para trajetos mais longos, a rede de autocarros urbanos (Dbus) aceita cães pequenos em transportadoras ou ao colo. A viagem de comboio dentro do País Basco e mais além segue as regras nacionais espanholas.",
       "faqsPt": [],
       "titleDe": "Mit Ihrem Hund unterwegs in San Sebastián",
+      "titleNl": "Onderweg met je hond in San Sebastián",
       "introDe": "San Sebastián ist eine kompakte, gut zu Fuß erreichbare Stadt, die meisten Sehenswürdigkeiten, Parks und Strände sind vom Zentrum aus zu Fuß erreichbar. Für längere Strecken erlaubt das städtische Busnetz (Dbus) kleine Hunde in Transportboxen oder auf dem Arm. Bahnreisen innerhalb des Baskenlandes und darüber hinaus folgen den nationalen spanischen Regeln.",
-      "faqsDe": []
+      "introNl": "San Sebastián is een compacte stad die goed te voet is te verkennen, de meeste bezienswaardigheden, parken en stranden zijn vanuit het centrum lopend te bereiken. Voor langere afstanden staat het stadsbusnet (Dbus) kleine honden in een transportbox of op schoot toe. Treinreizen binnen Baskenland en daarbuiten volgen de nationale Spaanse regels.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches near San Sebastián",
@@ -279,16 +305,19 @@
           "descriptionEs": "La icónica playa en bahía curva de San Sebastián, clasificada entre las playas urbanas más bellas de Europa. Los perros están permitidos en La Concha y Ondarreta del 1 de octubre al 31 de mayo, fuera de la temporada oficial de baño. Durante este periodo la playa suele estar casi vacía y los perros pueden correr libremente, aunque deben permanecer bajo control. Del 1 de junio al 30 de septiembre los perros no están permitidos durante el horario de baño.",
           "descriptionPt": "A icónica praia de baía curva de San Sebastián, classificada entre as praias urbanas mais bonitas da Europa. Os cães são permitidos em La Concha e Ondarreta de 1 de outubro a 31 de maio, fora da época balnear oficial. Durante este período a praia costuma estar quase vazia e os cães podem correr livremente, embora devam permanecer sob controlo. De 1 de junho a 30 de setembro os cães não são permitidos durante o horário balnear.",
           "descriptionDe": "San Sebastiáns ikonischer geschwungener Buchtstrand, unter den schönsten Stadtstränden Europas eingestuft. Hunde sind an La Concha und Ondarreta vom 1. Oktober bis 31. Mai erlaubt, außerhalb der offiziellen Badesaison. In dieser Zeit ist der Strand meist fast leer, und Hunde können frei laufen, müssen aber unter Kontrolle bleiben. Vom 1. Juni bis 30. September sind Hunde während der Badezeiten nicht erlaubt.",
+          "descriptionNl": "Het iconische gebogen baaistrand van San Sebastián, gerekend tot de mooiste stadsstranden van Europa. Honden zijn toegestaan op La Concha en Ondarreta van 1 oktober tot en met 31 mei, buiten het officiële badseizoen. In die periode is het strand meestal bijna leeg en mogen honden los lopen, maar moeten ze wel onder controle blijven. Van 1 juni tot en met 30 september zijn honden tijdens de zwemtijden niet toegestaan.",
           "season": "Dogs permitted 1 Oct–31 May. Banned during bathing season 1 Jun–30 Sep.",
           "seasonFr": "Chiens admis du 1er oct. au 31 mai. Interdits pendant la saison de baignade du 1er juin au 30 sept.",
           "seasonEs": "Perros admitidos del 1 de oct. al 31 de mayo. Prohibidos durante la temporada de baño del 1 de jun. al 30 de sept.",
           "seasonPt": "Cães admitidos de 1 de out. a 31 de maio. Proibidos durante a época balnear de 1 de jun. a 30 de set.",
           "seasonDe": "Hunde erlaubt vom 1. Okt. bis 31. Mai. Während der Badesaison vom 1. Juni bis 30. Sept. verboten.",
+          "seasonNl": "Honden toegestaan van 1 okt. tot 31 mei. Tijdens het badseizoen van 1 juni tot 30 sept. verboden.",
           "rules": "Dogs permitted outside summer bathing season (Oct–May). No dogs 1 Jun–30 Sep during bathing hours. Always pick up after your dog.",
           "rulesFr": "Chiens admis hors saison de baignade estivale (oct.-mai). Pas de chiens du 1er juin au 30 sept. pendant les horaires de baignade. Ramassez toujours les déjections de votre chien.",
           "rulesEs": "Perros admitidos fuera de la temporada de baño estival (oct.-mayo). Sin perros del 1 de jun. al 30 de sept. durante el horario de baño. Recoge siempre los excrementos de tu perro.",
           "rulesPt": "Cães admitidos fora da época balnear de verão (out.-maio). Sem cães de 1 de jun. a 30 de set. durante o horário balnear. Recolha sempre os dejetos do seu cão.",
           "rulesDe": "Hunde außerhalb der sommerlichen Badesaison (Okt.-Mai) erlaubt. Vom 1. Juni bis 30. Sept. während der Badezeiten keine Hunde. Immer die Hinterlassenschaften Ihres Hundes entfernen.",
+          "rulesNl": "Honden toegestaan buiten het zomerse badseizoen (okt.-mei). Van 1 juni tot 30 sept. tijdens de zwemtijden geen honden. Ruim altijd de poep van je hond op.",
           "facilities": "Promenade, cafés, public toilets nearby. No dog-specific facilities.",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+de+La+Concha+San+Sebastian",
           "photo": "/images/city-places/san-sebastian-beaches-playa-de-la-concha-ondarreta.jpg"
@@ -301,16 +330,19 @@
           "descriptionEs": "La playa de surf de San Sebastián, en el lado oriental de la desembocadura del Urumea. Más expuesta y salvaje que La Concha, Zurriola es popular entre los surfistas todo el año. Se aplican las mismas normas estacionales para perros: admitidos del 1 de octubre al 31 de mayo, prohibidos durante el horario de baño estival. Fuera del verano la playa tiene un ambiente completamente distinto, sobre todo surfistas y paseadores de perros.",
           "descriptionPt": "A praia de surf de San Sebastián, no lado oriental da foz do rio Urumea. Mais exposta e selvagem do que La Concha, Zurriola é popular entre surfistas o ano todo. Aplicam-se as mesmas regras sazonais para cães: admitidos de 1 de outubro a 31 de maio, proibidos durante o horário balnear de verão. Fora do verão a praia tem uma atmosfera completamente diferente, sobretudo surfistas e passeadores de cães.",
           "descriptionDe": "San Sebastiáns Surfstrand auf der östlichen Seite der Urumea-Mündung. Exponierter und wilder als La Concha, ist Zurriola das ganze Jahr über bei Surfern beliebt. Es gelten dieselben saisonalen Hunderegeln: erlaubt vom 1. Oktober bis 31. Mai, während der sommerlichen Badezeiten verboten. Außerhalb des Sommers hat der Strand eine völlig andere Atmosphäre, hauptsächlich Surfer und Hundespaziergänger.",
+          "descriptionNl": "Het surfstrand van San Sebastián aan de oostelijke kant van de monding van de Urumea. Blootgesteld en ruiger dan La Concha, is Zurriola het hele jaar door populair bij surfers. Dezelfde seizoensregels voor honden gelden hier: toegestaan van 1 oktober tot 31 mei, verboden tijdens de zomerse zwemtijden. Buiten de zomer heeft het strand een heel andere sfeer, vooral surfers en hondenuitlaters.",
           "season": "Dogs permitted 1 Oct–31 May. Banned during bathing season 1 Jun–30 Sep.",
           "seasonFr": "Chiens admis du 1er oct. au 31 mai. Interdits pendant la saison de baignade du 1er juin au 30 sept.",
           "seasonEs": "Perros admitidos del 1 de oct. al 31 de mayo. Prohibidos durante la temporada de baño del 1 de jun. al 30 de sept.",
           "seasonPt": "Cães admitidos de 1 de out. a 31 de maio. Proibidos durante a época balnear de 1 de jun. a 30 de set.",
           "seasonDe": "Hunde erlaubt vom 1. Okt. bis 31. Mai. Während der Badesaison vom 1. Juni bis 30. Sept. verboten.",
+          "seasonNl": "Honden toegestaan van 1 okt. tot 31 mei. Tijdens het badseizoen van 1 juni tot 30 sept. verboden.",
           "rules": "Same seasonal policy as La Concha. Dogs permitted Oct–May. No dogs during bathing season (Jun–Sep). Keep dog on lead near surf school areas.",
           "rulesFr": "Même politique saisonnière que La Concha. Chiens admis d'oct. à mai. Pas de chiens pendant la saison de baignade (juin-sept.). Gardez le chien en laisse près des zones d'écoles de surf.",
           "rulesEs": "Misma política estacional que La Concha. Perros admitidos de oct. a mayo. Sin perros durante la temporada de baño (jun.-sept.). Mantén al perro con correa cerca de las zonas de escuelas de surf.",
           "rulesPt": "Mesma política sazonal que La Concha. Cães admitidos de out. a maio. Sem cães durante a época balnear (jun.-set.). Mantenha o cão com trela perto das zonas de escolas de surf.",
           "rulesDe": "Gleiche saisonale Regelung wie bei La Concha. Hunde erlaubt von Okt. bis Mai. Während der Badesaison (Juni bis Sept.) keine Hunde. In der Nähe von Surfschulbereichen den Hund an der Leine führen.",
+          "rulesNl": "Dezelfde seizoensregeling als bij La Concha. Honden toegestaan van okt. tot mei. Tijdens het badseizoen (juni tot sept.) geen honden. Houd je hond aangelijnd in de buurt van surfschoolgebieden.",
           "facilities": "Surf schools, beach bars, promenade. No dog-specific facilities.",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+de+Zurriola+San+Sebastian",
           "photo": "/images/city-places/san-sebastian-beaches-playa-de-zurriola.jpg"
@@ -323,16 +355,19 @@
           "descriptionEs": "Justo al cruzar la frontera francesa, en la localidad de Hendaya, esta amplia playa de arena atlántica es una de las más largas de la costa vasca y tiene normas para perros más relajadas que las playas urbanas españolas. Ofrece una alternativa práctica todo el año, especialmente durante los meses de verano cuando las playas de San Sebastián están cerradas a los perros. Consulta las normas locales actuales con la oficina de turismo de Hendaya, ya que pueden aplicarse restricciones estacionales a secciones concretas.",
           "descriptionPt": "Mesmo depois da fronteira francesa, na localidade de Hendaye, esta ampla praia de areia atlântica é uma das mais longas da costa basca e tem regras para cães mais flexíveis do que as praias urbanas espanholas. Oferece uma alternativa prática durante todo o ano, especialmente nos meses de verão quando as praias de San Sebastián estão fechadas aos cães. Verifique as regras locais atuais junto do posto de turismo de Hendaye, pois podem aplicar-se restrições sazonais a secções específicas.",
           "descriptionDe": "Direkt hinter der französischen Grenze in der Stadt Hendaye liegt dieser breite Atlantik-Sandstrand, einer der längsten der baskischen Küste, mit entspannteren Hunderegeln als an den spanischen Stadtstränden. Er bietet eine praktische ganzjährige Alternative, besonders in den Sommermonaten, wenn San Sebastiáns Strände für Hunde gesperrt sind. Aktuelle örtliche Regeln beim Fremdenverkehrsamt Hendaye erfragen, da für bestimmte Abschnitte saisonale Einschränkungen gelten können.",
+          "descriptionNl": "Net over de Franse grens, in de stad Hendaye, ligt dit brede Atlantische zandstrand, een van de langste van de Baskische kust, met soepelere regels voor honden dan op de Spaanse stadsstranden. Het is een handig alternatief het hele jaar door, vooral in de zomermaanden, wanneer de stranden van San Sebastián gesloten zijn voor honden. Vraag bij het toeristenbureau van Hendaye naar de actuele lokale regels, want voor bepaalde stukken kunnen seizoensbeperkingen gelden.",
           "season": "Generally year-round, though some sections may have summer restrictions, verify locally.",
           "seasonFr": "Généralement toute l'année, bien que certaines sections puissent avoir des restrictions estivales, à vérifier sur place.",
           "seasonEs": "Generalmente todo el año, aunque algunas secciones pueden tener restricciones en verano, verifícalo localmente.",
           "seasonPt": "Geralmente durante todo o ano, embora algumas secções possam ter restrições no verão, verifique localmente.",
           "seasonDe": "Grundsätzlich ganzjährig, wobei für einzelne Abschnitte im Sommer Einschränkungen gelten können, vor Ort prüfen.",
+          "seasonNl": "In principe het hele jaar door, al kunnen voor sommige stukken in de zomer beperkingen gelden, controleer dit ter plaatse.",
           "rules": "Dogs typically permitted year-round on non-restricted sections. Keep on lead when near designated bathing areas. Bag required.",
           "rulesFr": "Chiens généralement admis toute l'année sur les sections non restreintes. Restez en laisse à proximité des zones de baignade désignées. Sac obligatoire.",
           "rulesEs": "Perros generalmente admitidos todo el año en las secciones sin restricción. Mantén la correa cerca de las zonas de baño designadas. Bolsa obligatoria.",
           "rulesPt": "Cães geralmente admitidos durante todo o ano nas secções sem restrição. Mantenha a trela perto das zonas balneares designadas. Saco obrigatório.",
           "rulesDe": "Hunde sind in den nicht eingeschränkten Abschnitten in der Regel ganzjährig erlaubt. In der Nähe ausgewiesener Badebereiche an der Leine führen. Beutel erforderlich.",
+          "rulesNl": "Honden zijn op de niet-beperkte stukken doorgaans het hele jaar toegestaan. Houd je hond aangelijnd bij aangewezen zwemzones. Poepzakjes verplicht.",
           "facilities": "Beach bars, surf shops, parking, public toilets.",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Hendaye+France",
           "photo": "/images/city-places/san-sebastian-beaches-hendaia-beach-hendaye-france.jpg"
@@ -345,8 +380,11 @@
       "introPt": "As praias da própria San Sebastián (La Concha, Ondarreta e Zurriola) aceitam cães fora da época balnear de verão (1 de outubro a 31 de maio). De 1 de junho a 30 de setembro, os cães são proibidos nas praias da cidade durante o horário de banhos. Para acesso garantido a praias para cães durante todo o ano, a praia próxima de Hendaia (França), do outro lado da fronteira, e outras praias da costa basca são boas alternativas.",
       "faqsPt": [],
       "titleDe": "Hundefreundliche Strände bei San Sebastián",
+      "titleNl": "Hondvriendelijke stranden bij San Sebastián",
       "introDe": "San Sebastiáns eigene Strände, La Concha, Ondarreta und Zurriola, sind außerhalb der sommerlichen Badesaison (1. Oktober bis 31. Mai) hundefreundlich. Vom 1. Juni bis 30. September sind Hunde während der Badezeiten von den Stadtstränden verbannt. Für einen ganzjährig garantierten Hundestrand ist der nahe gelegene Strand von Hendaia (Frankreich) jenseits der Grenze sowie weitere Strände an der baskischen Küste eine gute Alternative.",
-      "faqsDe": []
+      "introNl": "De eigen stranden van San Sebastián, La Concha, Ondarreta en Zurriola, zijn hondvriendelijk buiten het zomerse badseizoen (1 oktober tot en met 31 mei). Van 1 juni tot en met 30 september zijn honden tijdens de zwemtijden geweerd van de stadsstranden. Voor een strand waar honden het hele jaar door welkom zijn, is het nabijgelegen strand van Hendaia (Frankrijk), net over de grens, samen met andere stranden aan de Baskische kust een goed alternatief.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "vets": {
       "titleEn": "Emergency Vets in San Sebastián, Veterinary Clinics & Pet Care",
@@ -392,8 +430,11 @@
           "descriptionPt": "Uma clínica veterinária de serviço completo aberta 24/7 para urgências e cuidados de rotina no bairro de Ategorrieta, em Donostia-San Sebastián. A El Jardín oferece consultas de urgência, cirurgia, diagnósticos e internamento. É o principal recurso veterinário de urgência 24 horas da cidade. Número de telefone verificado a partir do site da própria clínica (veterinariaeljardin.com).",
           "tipPt": "A clínica fica no bairro residencial de Ategorrieta, a cerca de 10 minutos de táxi da Cidade Velha. Guarde o número antes de viajar.",
           "hoursDe": "24 Stunden geöffnet, 7 Tage die Woche",
+          "hoursNl": "24 uur per dag geopend, 7 dagen per week",
           "descriptionDe": "Eine Tierklinik mit vollem Leistungsangebot, 24/7 geöffnet für Notfälle und Routinebehandlungen im Stadtteil Ategorrieta von Donostia-San Sebastián. El Jardín bietet Notfallberatungen, Operationen, Diagnostik und stationäre Behandlung. Dies ist die wichtigste 24-Stunden-Tierarzt-Notfallressource der Stadt. Telefonnummer bestätigt über die eigene Website der Klinik (veterinariaeljardin.com).",
-          "tipDe": "Die Klinik liegt im Wohnviertel Ategorrieta, etwa 10 Minuten mit dem Taxi von der Altstadt entfernt. Speichern Sie die Nummer vor Ihrer Reise."
+          "descriptionNl": "Een volwaardige dierenkliniek, 24/7 geopend voor spoedgevallen en routinebehandelingen in de wijk Ategorrieta van Donostia-San Sebastián. El Jardín biedt spoedconsulten, operaties, diagnostiek en klinische opname. Dit is de belangrijkste 24-uurs spoedvoorziening voor dieren in de stad. Telefoonnummer bevestigd via de eigen website van de kliniek (veterinariaeljardin.com).",
+          "tipDe": "Die Klinik liegt im Wohnviertel Ategorrieta, etwa 10 Minuten mit dem Taxi von der Altstadt entfernt. Speichern Sie die Nummer vor Ihrer Reise.",
+          "tipNl": "De kliniek ligt in de woonwijk Ategorrieta, ongeveer 10 minuten met de taxi vanaf de oude stad. Sla het nummer op voordat je vertrekt."
         }
       ],
       "faqsEn": [],
@@ -403,8 +444,11 @@
       "introPt": "San Sebastián tem uma clínica veterinária de urgência 24/7 dedicada que serve a área de Donostia-San Sebastián. Para cuidados não urgentes, inúmeras clínicas locais servem a invulgarmente grande população canina da cidade. Todos os cuidados veterinários em Espanha seguem protocolos de norma europeia, e a maioria das clínicas numa cidade turística desta dimensão terá pessoal que fala inglês ou acesso a tradução.",
       "faqsPt": [],
       "titleDe": "Notfall-Tierärzte in San Sebastián, Tierkliniken & Haustierpflege",
+      "titleNl": "Spoeddierenartsen in San Sebastián, dierenklinieken en huisdierenzorg",
       "introDe": "San Sebastián verfügt über eine eigene 24/7-Tierarzt-Notfallklinik für das Gebiet Donostia-San Sebastián. Für nicht dringende Behandlungen stehen zahlreiche örtliche Kliniken für die ungewöhnlich große Hundepopulation der Stadt zur Verfügung. Die gesamte tierärztliche Versorgung in Spanien folgt EU-Standardprotokollen, und die meisten Kliniken in einer Touristenstadt dieser Größe verfügen über englischsprachiges Personal oder Zugang zu Übersetzungshilfen.",
-      "faqsDe": []
+      "introNl": "San Sebastián heeft een eigen 24/7 spoeddierenkliniek voor het gebied Donostia-San Sebastián. Voor niet-dringende behandelingen zijn er talrijke lokale klinieken beschikbaar voor de opvallend grote hondenpopulatie van de stad. Alle diergeneeskundige zorg in Spanje volgt de standaard EU-protocollen, en de meeste klinieken in een toeristenstad van dit formaat hebben Engelssprekend personeel of toegang tot vertaalhulp.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting San Sebastián with Your Dog",
@@ -481,8 +525,11 @@
       ],
       "faqsPt": [],
       "titleDe": "Wichtige Tipps für den Besuch von San Sebastián mit Hund",
+      "titleNl": "Belangrijke tips voor je bezoek aan San Sebastián met hond",
       "introDe": "San Sebastián gilt durchweg als eine der hundefreundlichsten Städte Spaniens, mit dem höchsten Verhältnis von registrierten Hunden zu Einwohnern aller großen spanischen Städte. Die Kombination der Stadt aus zu Fuß erreichbaren Stadtstränden, bewaldeten Hügeln und einer entspannten kulturellen Haltung macht sie zu einem natürlichen Ziel für eine Reise mit Hund.",
-      "faqsDe": []
+      "introNl": "San Sebastián geldt algemeen als een van de meest hondvriendelijke steden van Spanje, met de hoogste verhouding geregistreerde honden per inwoner van alle grote Spaanse steden. De combinatie van lopend bereikbare stadsstranden, beboste heuvels en een ontspannen culturele houding maakt de stad een voor de hand liggende bestemming voor een reis met je hond.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in San Sebastián",
@@ -515,9 +562,13 @@
           "admissionFeePt": "Gratuito",
           "tipPt": "Comece no Porto Velho (Puerto Viejo) e percorra todo o Paseo Nuevo até ao extremo de Zurriola. O troço sob a parede da falésia (onde o mar salpica) é dramático com qualquer tempo.",
           "descriptionDe": "Der Paseo Nuevo ist eine Klippenpromenade, die sich um den Fuß des Monte Urgull zwischen dem alten Hafen und der Zurriola-Seite windet und uneingeschränkte Ausblicke auf das Kantabrische Meer und die Bucht bietet. Hunde an der Leine sind auf der gesamten Länge willkommen. Vom Paseo führen Treppen und Wege hinauf ins bewaldete Innere des Monte Urgull und zur Festung Castillo de la Mota auf dem Gipfel.",
+          "descriptionNl": "De Paseo Nuevo is een klifboulevard die om de voet van de Monte Urgull kronkelt tussen de oude haven en de kant van Zurriola, met ongehinderd uitzicht op de Cantabrische Zee en de baai. Aangelijnde honden zijn welkom over de hele lengte. Vanaf de Paseo leiden trappen en paden omhoog naar het beboste binnenland van de Monte Urgull en naar het fort Castillo de la Mota op de top.",
           "dogPolicyDe": "Hunde an der Leine auf der gesamten Promenade und hinauf zum Monte Urgull willkommen (auf dem Hügel gelten Freilaufzeiten).",
+          "dogPolicyNl": "Aangelijnde honden welkom over de hele boulevard en de weg omhoog naar de Monte Urgull (op de heuvel gelden loslooptijden).",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Beginnen Sie am alten Hafen (Puerto Viejo) und gehen Sie den gesamten Paseo Nuevo bis zum Zurriola-Ende. Der Abschnitt unterhalb der Klippenwand (wo die Gischt hochspritzt) ist bei jedem Wetter beeindruckend."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Beginnen Sie am alten Hafen (Puerto Viejo) und gehen Sie den gesamten Paseo Nuevo bis zum Zurriola-Ende. Der Abschnitt unterhalb der Klippenwand (wo die Gischt hochspritzt) ist bei jedem Wetter beeindruckend.",
+          "tipNl": "Begin bij de oude haven (Puerto Viejo) en loop de hele Paseo Nuevo tot aan de kant van Zurriola. Het stuk onder de klifwand (waar het schuim opspat) is bij elk weer indrukwekkend."
         },
         {
           "name": "Paseo de La Concha Promenade",
@@ -542,9 +593,13 @@
           "admissionFeePt": "Gratuito",
           "tipPt": "A promenade tem mais movimento das 11:00 às 13:00 e das 18:00 às 21:00 no verão. Os passeios ao início da manhã dão-lhe a baía quase inteiramente para si e para o seu cão.",
           "descriptionDe": "Die elegante Belle-Époque-Promenade erstreckt sich über die gesamte Länge des Strandes La Concha von der Altstadt bis zum Viertel Ondarreta. Breit, flach und von kunstvollen eisernen Geländern und Kugellampen gesäumt, zählt der Paseo de La Concha zu den schönsten Uferpromenaden Europas. Hunde an der Leine sind jederzeit auf der Promenade willkommen; der Strandzugang für Hunde unterliegt den saisonalen Regeln.",
+          "descriptionNl": "De elegante belle-époque-boulevard loopt over de volledige lengte van het strand La Concha, van de oude stad tot aan de wijk Ondarreta. Breed, vlak en omzoomd door sierlijke ijzeren balustrades en bollampen, behoort de Paseo de La Concha tot de mooiste kustboulevards van Europa. Aangelijnde honden zijn te allen tijde welkom op de boulevard; toegang tot het strand voor honden valt onder de seizoensregels.",
           "dogPolicyDe": "Hunde an der Leine jederzeit auf der Promenade willkommen. Der Strandzugang folgt den saisonalen Regeln (Hunde erlaubt Okt.–Mai, verboten Jun.–Sep. während der Badezeiten).",
+          "dogPolicyNl": "Aangelijnde honden te allen tijde welkom op de boulevard. Toegang tot het strand volgt de seizoensregels (honden toegestaan okt.-mei, verboden jun.-sept. tijdens de zwemtijden).",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Die Promenade ist im Sommer zwischen 11:00 und 13:00 Uhr sowie 18:00 und 21:00 Uhr am belebtesten. Frühmorgendliche Spaziergänge bieten Ihnen und Ihrem Hund die Bucht fast ganz für sich allein."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Die Promenade ist im Sommer zwischen 11:00 und 13:00 Uhr sowie 18:00 und 21:00 Uhr am belebtesten. Frühmorgendliche Spaziergänge bieten Ihnen und Ihrem Hund die Bucht fast ganz für sich allein.",
+          "tipNl": "De boulevard is in de zomer het drukst tussen 11.00 en 13.00 uur en tussen 18.00 en 21.00 uur. Bij een wandeling vroeg in de ochtend heb je met je hond de baai bijna helemaal voor jezelf."
         }
       ],
       "faqsEn": [],
@@ -554,8 +609,11 @@
       "introPt": "As melhores atrações de San Sebastián para donos de cães são ao ar livre: os passeios no topo das falésias, as vistas da baía e a histórica frente-mar urbana. A maioria dos museus da cidade não aceita cães no interior, mas os pontos de interesse ao ar livre e as promenades compensam mais do que o suficiente. O passeio costeiro do Paseo Nuevo e o Monte Urgull são destaques que não precisam de bilhete de entrada.",
       "faqsPt": [],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in San Sebastián",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in San Sebastián",
       "introDe": "San Sebastiáns beste Sehenswürdigkeiten für Hundebesitzer liegen im Freien, die Klippenwege, die Bucht-Ausblicke und die historische Uferpromenade der Stadt. Die meisten Museen der Stadt erlauben keine Hunde im Innenbereich, doch die Sehenswürdigkeiten und Promenaden im Freien machen dies mehr als wett. Der Küstenweg Paseo Nuevo und der Monte Urgull sind Höhepunkte, für die keine Eintrittskarte nötig ist.",
-      "faqsDe": []
+      "introNl": "De beste bezienswaardigheden van San Sebastián voor hondenbezitters liggen buiten: de klifpaden, de uitzichten over de baai en de historische kustboulevard van de stad. De meeste musea in de stad staan geen honden binnen toe, maar de bezienswaardigheden en boulevards buiten maken dat ruimschoots goed. Het kustpad Paseo Nuevo en de Monte Urgull zijn hoogtepunten waarvoor je geen toegangskaartje nodig hebt.",
+      "faqsDe": [],
+      "faqsNl": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Walking in San Sebastián",
@@ -587,8 +645,11 @@
           "serviceTypePt": "Passeio de cães, pet sitting, creche canina, alojamento com pernoita",
           "tipPt": "Reserve com, pelo menos, uma semana de antecedência em julho e agosto; a época de festas de verão (Semana Grande em agosto) enche os pet sitters depressa. Confirme que o pet sitter escolhido lida bem com as regras sazonais da praia da cidade se planear dias de praia.",
           "descriptionDe": "Die spanische Plattform von Rover listet Hundeausführer und Haustiersitter im Gebiet Donostia-San Sebastián. Sitter werden bewertet und rezensiert, viele bieten zweisprachige Kommunikation (Spanisch/Baskisch oder Spanisch/Englisch). Zu den Leistungen zählen Gassi-Service, Hausbesuche, Hundetagesstätte und Übernachtungsbetreuung.",
+          "descriptionNl": "Het Spaanse platform van Rover biedt een overzicht van hondenuitlaters en huisdierenoppassers in het gebied Donostia-San Sebastián. Oppassers worden beoordeeld en gerecenseerd, en veel bieden tweetalige communicatie (Spaans/Baskisch of Spaans/Engels). De diensten omvatten uitlaatservice, huisbezoeken, hondendagopvang en logeeropvang.",
           "serviceTypeDe": "Gassi-Service, Haustierbetreuung, Hundetagesstätte, Übernachtungsbetreuung",
-          "tipDe": "Buchen Sie im Juli und August mindestens eine Woche im Voraus, die Sommerfestivalsaison (Semana Grande im August) füllt die Terminkalender der Sitter schnell. Prüfen Sie, ob Ihr gewählter Sitter mit den saisonalen Strandregeln der Stadt vertraut ist, falls Sie Strandtage planen."
+          "serviceTypeNl": "Uitlaatservice, huisdierenoppas, hondendagopvang, logeeropvang",
+          "tipDe": "Buchen Sie im Juli und August mindestens eine Woche im Voraus, die Sommerfestivalsaison (Semana Grande im August) füllt die Terminkalender der Sitter schnell. Prüfen Sie, ob Ihr gewählter Sitter mit den saisonalen Strandregeln der Stadt vertraut ist, falls Sie Strandtage planen.",
+          "tipNl": "Boek in juli en augustus minstens een week van tevoren, het zomerfestivalseizoen (Semana Grande in augustus) vult de agenda's van de oppassers snel. Check of de oppas die je kiest bekend is met de seizoensregels voor het strand als je stranddagen plant."
         },
         {
           "name": "Gudog, San Sebastián",
@@ -612,8 +673,11 @@
           "serviceTypePt": "Alojamento de cães em casa e creche",
           "tipPt": "Os anfitriões da Gudog nas zonas residenciais fora do centro (Gros, Amara, Intxaurrondo) têm muitas vezes acesso a parques e jardins mais sossegados, útil se o seu cão se sentir mais à vontade num ambiente mais calmo.",
           "descriptionDe": "Eine spanische Plattform für Haustierbetreuung und Hundepension, die in San Sebastián tätig ist. Gudog ist auf hausbasierte Betreuung spezialisiert, Ihr Hund wohnt bei einer örtlichen Gastfamilie statt in einer Zwingeranlage. Alle Gastgeber sind überprüft und versichert. Nützlich für mehrtägige Reisen oder wenn Ihr Hund eine häusliche Umgebung braucht.",
+          "descriptionNl": "Een Spaans platform voor huisdierenoppas en hondenpension dat actief is in San Sebastián. Gudog is gespecialiseerd in huisgebonden opvang, je hond logeert bij een lokaal gastgezin in plaats van in een kennel. Alle gastgezinnen zijn gescreend en verzekerd. Handig voor meerdaagse reizen of als je hond een huiselijke omgeving nodig heeft.",
           "serviceTypeDe": "Hausbasierte Hundepension & Tagesbetreuung",
-          "tipDe": "Gudog-Gastgeber in den Wohnvierteln außerhalb des Zentrums (Gros, Amara, Intxaurrondo) haben oft Zugang zu ruhigeren Parks und Gärten, nützlich, wenn sich Ihr Hund in ruhigerer Umgebung wohler fühlt."
+          "serviceTypeNl": "Huisgebonden hondenpension en dagopvang",
+          "tipDe": "Gudog-Gastgeber in den Wohnvierteln außerhalb des Zentrums (Gros, Amara, Intxaurrondo) haben oft Zugang zu ruhigeren Parks und Gärten, nützlich, wenn sich Ihr Hund in ruhigerer Umgebung wohler fühlt.",
+          "tipNl": "Gudog-gastgezinnen in de woonwijken buiten het centrum (Gros, Amara, Intxaurrondo) hebben vaak toegang tot rustigere parken en tuinen, handig als je hond zich prettiger voelt in een rustigere omgeving."
         }
       ],
       "tipsEn": [
@@ -643,8 +707,11 @@
       ],
       "faqsPt": [],
       "titleDe": "Haustierbetreuung & Gassi-Service in San Sebastián",
+      "titleNl": "Huisdierenoppas en uitlaatservice in San Sebastián",
       "introDe": "Aufgrund der Größe San Sebastiáns gibt es weniger Anbieter für Haustierbetreuung als in einer großen Hauptstadt, doch Plattformen wie Rover.es verbinden Reisende mit örtlichen Hundeausführern und Sittern im gesamten Gebiet Donostia. Angesichts der großen hundehaltenden Bevölkerung der Stadt sind örtliche Sitter meist erfahren und mit einer breiten Palette an Rassen vertraut.",
-      "faqsDe": []
+      "introNl": "Door de omvang van San Sebastián zijn er minder aanbieders van huisdierenoppas dan in een grote hoofdstad, maar platforms zoals Rover.es verbinden reizigers met lokale hondenuitlaters en oppassers in het hele gebied Donostia. Gezien de grote populatie hondenbezitters in de stad zijn lokale oppassers meestal ervaren en bekend met een brede range aan rassen.",
+      "faqsDe": [],
+      "faqsNl": []
     }
   }
 }

@@ -41,9 +41,13 @@
           "tipPt": "As esplanadas dão para a baía e enchem nos fins de semana solarengos; venha a meio da manhã para uma mesa tranquila.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=ZEBRA+Coffee+Croissant+Marine+and+Walk+Yokohama",
           "descriptionDe": "Ein entspanntes Kaffee-und-Croissant-Café im Uferkomplex Marine & Walk, mit Terrassenplätzen, auf denen angeleinte Hunde neben ihren Besitzern willkommen sind. Es ist einer der einfachsten ersten Anlaufpunkte für eine Kaffeepause an der Uferpromenade mit Hund.",
+          "descriptionNl": "Een ontspannen koffie-en-croissant-café in het waterfrontcomplex Marine & Walk, met terrasplekken waar aangelijnde honden welkom zijn naast hun baasje. Het is een van de makkelijkste eerste stops voor een koffiepauze aan de boulevard met hond.",
           "petPolicyDe": "Hunde an der Leine auf der Terrasse willkommen; bei Ankunft das Personal fragen und den Hund von Bänken und Tischen fernhalten.",
+          "petPolicyNl": "Honden aan de lijn welkom op het terras; vraag bij aankomst het personeel en houd je hond weg van banken en tafels.",
           "mustTryDe": "Frische Croissants mit einem Espresso am Meer",
-          "tipDe": "Die Terrassen liegen zur Bucht hin und füllen sich an sonnigen Wochenenden; für einen ruhigen Tisch am späten Vormittag kommen."
+          "mustTryNl": "Verse croissants met een espresso aan zee",
+          "tipDe": "Die Terrassen liegen zur Bucht hin und füllen sich an sonnigen Wochenenden; für einen ruhigen Tisch am späten Vormittag kommen.",
+          "tipNl": "De terrassen kijken uit op de baai en lopen vol op zonnige weekenden; kom laat in de ochtend voor een rustige tafel."
         },
         {
           "name": "Pie Holic (Marine & Walk)",
@@ -71,9 +75,13 @@
           "tipPt": "A esplanada tem sombra parcial; nas tardes quentes peça uma mesa fora do sol direto para o seu cão.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pie+Holic+Marine+and+Walk+Yokohama",
           "descriptionDe": "Ein Restaurant und Café im kalifornischen Pie-Stil bei Marine & Walk mit einer zum Meer ausgerichteten Terrasse, die angeleinte Hunde akzeptiert. Süße und herzhafte Pies plus eine Salatbar machen es zu einem richtigen Essensstopp statt nur einer Kaffeepause.",
+          "descriptionNl": "Een restaurant en café in Californische pie-stijl bij Marine & Walk met een op zee gericht terras dat aangelijnde honden accepteert. Zoete en hartige pies plus een saladebar maken het een echte eetstop in plaats van alleen een koffiepauze.",
           "petPolicyDe": "Angeleinte Hunde nur auf der Terrasse erlaubt; zu Füßen halten und von den Sitzflächen fernhalten.",
+          "petPolicyNl": "Aangelijnde honden alleen toegestaan op het terras; houd ze aan je voeten en weg van de zitplaatsen.",
           "mustTryDe": "Eine herzhafte Pot Pie, gefolgt von einem Stück Obstkuchen",
-          "tipDe": "Die Terrasse bietet teilweise Schatten; an heißen Nachmittagen um einen Tisch außerhalb der direkten Sonne für den Hund bitten."
+          "mustTryNl": "Een hartige pot pie, gevolgd door een stuk fruittaart",
+          "tipDe": "Die Terrasse bietet teilweise Schatten; an heißen Nachmittagen um einen Tisch außerhalb der direkten Sonne für den Hund bitten.",
+          "tipNl": "Het terras biedt gedeeltelijk schaduw; vraag op hete middagen om een tafel buiten de volle zon voor je hond."
         },
         {
           "name": "Yakiniku Ushisuke (Marine & Walk)",
@@ -101,9 +109,13 @@
           "tipPt": "Reserve uma mesa de esplanada com antecedência para o jantar; os lugares exteriores de frente para o mar são os únicos que aceitam cães.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ushisuke+Marine+and+Walk+Yokohama",
           "descriptionDe": "Ein japanisches Yakiniku-Restaurant (selbst gegrilltes Rindfleisch) bei Marine & Walk, dessen Terrassentische angeleinte Hunde willkommen heißen. Eine seltene Gelegenheit, ein vollständiges Grillabendessen im Freien mit dem Hund an der Seite an der Uferpromenade zu genießen.",
+          "descriptionNl": "Een Japans yakiniku-restaurant (zelf gegrild rundvlees) bij Marine & Walk, waarvan de terrastafels aangelijnde honden verwelkomen. Een zeldzame kans om een volledig grilldiner buiten te genieten met je hond naast je aan de boulevard.",
           "petPolicyDe": "Hunde an der Leine an Terrassentischen willkommen; an der Tür bestätigen lassen, da Terrassenplätze begrenzt sind.",
+          "petPolicyNl": "Honden aan de lijn welkom aan terrastafels; bevestig dit bij de deur, want terrasplekken zijn beperkt.",
           "mustTryDe": "Eine gemischte Wagyu-Grillplatte",
-          "tipDe": "Einen Terrassentisch für das Abendessen im Voraus reservieren; die zum Meer ausgerichteten Außenplätze sind die einzigen hundefreundlichen."
+          "mustTryNl": "Een gemengde wagyu-grillschotel",
+          "tipDe": "Einen Terrassentisch für das Abendessen im Voraus reservieren; die zum Meer ausgerichteten Außenplätze sind die einzigen hundefreundlichen.",
+          "tipNl": "Reserveer van tevoren een terrastafel voor het diner; de op zee gerichte buitenplekken zijn de enige hondvriendelijke."
         }
       ],
       "tipsEn": [
@@ -167,7 +179,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Yokohama",
+      "titleNl": "Hondvriendelijke restaurants in Yokohama",
       "introDe": "Yokohamas Gastronomieszene ist für Hundebesitzer am einfachsten an der offenen Uferpromenade, wo Terrassentische es angeleinten Hunden erlauben, neben einem zu sitzen. Die Uferpromenaden Marine & Walk und Minato Mirai konzentrieren die zuverlässigsten haustierfreundlichen Cafés und Grillrestaurants, während Innenräume in ganz Japan meist hundefrei bleiben, sofern es sich nicht ausdrücklich um ein Hundecafé handelt.",
+      "introNl": "Yokohama's horecascene is voor hondenbaasjes het makkelijkst aan de open boulevard, waar terrastafels aangelijnde honden toestaan naast je te zitten. De boulevards Marine & Walk en Minato Mirai concentreren de betrouwbaarste huisdiervriendelijke cafés en grillrestaurants, terwijl binnenruimtes in heel Japan meestal hondvrij blijven, tenzij het uitdrukkelijk om een hondencafé gaat.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund in Restaurants in Yokohama mit hineinnehmen?",
@@ -176,6 +190,16 @@
         {
           "q": "Muss ich meinen Hund auf Restaurantterrassen angeleint halten?",
           "a": "Ja. Leinenpflicht gilt in Japan überall im öffentlichen Raum, und Terrassenlokale bitten darum, den Hund zu Füßen zu halten, von Bänken und Tischen fernzuhalten und seine Hinterlassenschaften zu entfernen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar binnen in restaurants in Yokohama?",
+          "a": "Zelden. De meeste Japanse restaurants houden hun binnenruimtes huisdiervrij; de praktische optie is een buitenterras, en de boulevards Marine & Walk en Minato Mirai bieden de grootste concentratie hondvriendelijke zaken. Speciale hondencafés zijn de uitzondering waar honden wel naar binnen mogen."
+        },
+        {
+          "q": "Moet ik mijn hond aangelijnd houden op restaurantterrassen?",
+          "a": "Ja. Aanlijnplicht geldt in Japan overal in de openbare ruimte, en terraszaken vragen om de hond aan je voeten te houden, weg van banken en tafels, en uitwerpselen op te ruimen."
         }
       ]
     },
@@ -209,8 +233,11 @@
           "tipPt": "Funciona como um evento programado e não como um acesso permanente, por isso confirme as datas de abertura na página do recinto e leve os comprovativos de vacinação antirrábica e polivalente, que os parques caninos japoneses costumam pedir.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rinko+Park+dog+run+Minato+Mirai+Yokohama",
           "descriptionDe": "Ein rund 4.000 Quadratmeter großer Hundeauslauf mit vollständigem Naturrasen an der Bucht im Rinko Park in Minato Mirai, der als einer der größten im Großraum Tokio gilt. Hunde laufen frei auf weichem Gras mit dem Hafen und der Bay Bridge als Kulisse, einen einfachen fünfminütigen Fußweg von der Station Minatomirai entfernt.",
+          "descriptionNl": "Een hondenlosloopgebied van ongeveer 4.000 vierkante meter met volledig natuurlijk gras aan de baai in Rinko Park in Minato Mirai, beschouwd als een van de grootste in de regio Tokio. Honden lopen vrij op zacht gras met de haven en de Bay Bridge als decor, een makkelijke wandeling van vijf minuten vanaf station Minatomirai.",
           "offLeashAreaDe": "Der gesamte eingezäunte Auslauf ist auf Naturrasen freilauffähig; er ist nur an festgelegten Terminen und zu festgelegten Zeiten geöffnet, daher vor dem Besuch den Zeitplan prüfen.",
-          "tipDe": "Er läuft eher als terminierte Veranstaltung denn als dauerhaft geöffnetes Areal, daher die aktuellen Öffnungstermine auf der Veranstaltungsseite bestätigen und Nachweise für Tollwut- und Kombinationsimpfungen mitbringen, die japanische Hundeausläufe üblicherweise verlangen."
+          "offLeashAreaNl": "Het hele omheinde gebied is los toegankelijk op natuurlijk gras; het is alleen open op vaste data en tijden, check dus het schema voor je gaat.",
+          "tipDe": "Er läuft eher als terminierte Veranstaltung denn als dauerhaft geöffnetes Areal, daher die aktuellen Öffnungstermine auf der Veranstaltungsseite bestätigen und Nachweise für Tollwut- und Kombinationsimpfungen mitbringen, die japanische Hundeausläufe üblicherweise verlangen.",
+          "tipNl": "Het werkt eerder als een geplande activiteit dan als een permanent open gebied, dus bevestig de actuele openingsdata op de evenementenpagina en breng bewijs mee van rabiës- en combinatievaccinaties, die Japanse hondenlosloopgebieden meestal vereisen."
         },
         {
           "name": "Yamashita Park (Yamashita Koen)",
@@ -232,8 +259,11 @@
           "tipPt": "Mantenha o cão à trela e recolha os dejetos, as duas regras sinalizadas aqui; o caminho junto ao mar é exposto, por isso leve água no verão.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yamashita+Park+Yokohama",
           "descriptionDe": "Yokohamas ikonischer Uferpark aus dem Jahr 1930, ein langes grünes Band aus Rasenflächen, Rosenbeeten und Denkmälern mit Blick über den Hafen und das Ozeandampferschiff Hikawa Maru. Angeleinte Hunde sind willkommen, um die breite Promenade zu erkunden, einer der angenehmsten flachen Spaziergänge der Stadt.",
+          "descriptionNl": "Yokohama's iconische waterfrontpark uit 1930, een lang groen lint van grasvelden, rozenperken en monumenten met uitzicht over de haven en het oceaanstoomschip Hikawa Maru. Aangelijnde honden zijn welkom om de brede promenade te verkennen, een van de aangenaamste vlakke wandelingen van de stad.",
           "offLeashAreaDe": "Keine; Hunde müssen im gesamten Park angeleint bleiben.",
-          "tipDe": "Den Hund angeleint halten und seine Hinterlassenschaften entfernen, die beiden hier ausgeschilderten Regeln; der Uferweg liegt offen, daher im Sommer Wasser mitbringen."
+          "offLeashAreaNl": "Geen; honden moeten in het hele park aangelijnd blijven.",
+          "tipDe": "Den Hund angeleint halten und seine Hinterlassenschaften entfernen, die beiden hier ausgeschilderten Regeln; der Uferweg liegt offen, daher im Sommer Wasser mitbringen.",
+          "tipNl": "Houd je hond aangelijnd en ruim uitwerpselen op, de twee hier aangegeven regels; het oeverpad ligt open, breng dus 's zomers water mee."
         },
         {
           "name": "Kishamichi Promenade",
@@ -255,8 +285,11 @@
           "tipPt": "Use-o para ligar a pé Sakuragicho, o Armazém de Tijolo Vermelho e o Marine & Walk sem pisar uma estrada; o estrado de madeira pode aquecer em pleno verão, por isso verifique o conforto das almofadinhas.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kishamichi+Promenade+Yokohama",
           "descriptionDe": "Eine Fußgängerpromenade entlang einer alten Hafeneisenbahnlinie, die drei erhaltene eiserne Brücken zwischen Sakuragicho und der Uferpromenade von Minato Mirai überquert. Es ist ein flacher, malerischer Spaziergang an der Leine, der die wichtigsten hundefreundlichen Sehenswürdigkeiten am Ufer zu einer durchgehenden Route verbindet.",
+          "descriptionNl": "Een voetgangerspromenade langs een oude havenspoorlijn, die drie bewaarde ijzeren bruggen tussen Sakuragicho en de boulevard van Minato Mirai oversteekt. Het is een vlakke, schilderachtige wandeling aan de lijn die de belangrijkste hondvriendelijke bezienswaardigheden aan het water verbindt tot één doorlopende route.",
           "offLeashAreaDe": "Keine; dies ist eine Route mit Leinenpflicht.",
-          "tipDe": "Zum Verbinden von Sakuragicho, dem Red Brick Warehouse und Marine & Walk zu Fuß nutzen, ohne eine Straße zu überqueren; die Holzdielen können im Hochsommer heiß werden, daher den Pfotenkomfort prüfen."
+          "offLeashAreaNl": "Geen; dit is een route met aanlijnplicht.",
+          "tipDe": "Zum Verbinden von Sakuragicho, dem Red Brick Warehouse und Marine & Walk zu Fuß nutzen, ohne eine Straße zu überqueren; die Holzdielen können im Hochsommer heiß werden, daher den Pfotenkomfort prüfen.",
+          "tipNl": "Gebruik het om Sakuragicho, het Red Brick Warehouse en Marine & Walk te voet te verbinden zonder een straat over te steken; de houten planken kunnen in de hoogzomer heet worden, check dus het comfort voor de pootjes."
         }
       ],
       "tipsEn": [
@@ -320,7 +353,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Parks in Yokohama",
+      "titleNl": "Hondvriendelijke parken in Yokohama",
       "introDe": "Yokohamas Uferpromenade reiht einige der begehbarsten Grünflächen der Tokio-Region aneinander, und angeleinte Hunde sind entlang der Promenaden von Minato Mirai und in den Uferparks willkommen. Für echtes Freilaufen gibt es einen Höhepunkt: einen großen Hundeauslauf mit Naturrasen direkt an der Bucht im Rinko Park, wenige Minuten von der Station Minatomirai entfernt.",
+      "introNl": "Yokohama's boulevard rijgt enkele van de best beloopbare groengebieden van de regio Tokio aan elkaar, en aangelijnde honden zijn welkom langs de promenades van Minato Mirai en in de waterfrontparken. Voor echt loslopen is er één hoogtepunt: een groot hondenlosloopgebied met natuurlijk gras direct aan de baai in Rinko Park, enkele minuten van station Minatomirai.",
       "faqsDe": [
         {
           "q": "Gibt es einen Freilauf-Hundepark in Yokohama?",
@@ -329,6 +364,16 @@
         {
           "q": "Dürfen Hunde im Yamashita Park und entlang der Uferpromenade von Minato Mirai spazieren gehen?",
           "a": "Ja, an der Leine. Der Yamashita Park, die Kishamichi-Promenade und die Uferpromenaden heißen alle angeleinte Hunde willkommen; sie an der Leine halten und ihre Hinterlassenschaften entfernen, das sind hier die üblichen Parkregeln."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een losloop-hondenpark in Yokohama?",
+          "a": "Ja. Het SHIBA to KAZE-hondenpark in Rinko Park in Minato Mirai is een groot losloopgebied met natuurlijk gras direct aan de baai, ongeveer vijf minuten van station Minatomirai. Het is alleen open op vaste data, check dus de kalender en breng vaccinatiebewijs mee."
+        },
+        {
+          "q": "Mogen honden wandelen in Yamashita Park en langs de boulevard van Minato Mirai?",
+          "a": "Ja, aan de lijn. Yamashita Park, de Kishamichi-promenade en de boulevards verwelkomen allemaal aangelijnde honden; houd ze aangelijnd en ruim uitwerpselen op, dat zijn hier de gebruikelijke parkregels."
         }
       ]
     },
@@ -436,7 +481,9 @@
         }
       ],
       "titleDe": "Mit Hund in Yokohama unterwegs",
+      "titleNl": "Onderweg met hond in Yokohama",
       "introDe": "Die eine Regel, die das Reisen mit Hund in Japan bestimmt, ist einfach: In Zügen, U-Bahnen und Bussen muss ein Haustier vollständig in einer geschlossenen Transportbox mitfahren, die die Größenvorgaben des Betreibers erfüllt. Kein Hund, wie klein oder brav er auch sei, darf lose oder an der Leine im Wagen mitfahren. Innerhalb dieser Regel ist Yokohama sehr gut zu bewältigen, weil die besten Hundeareale eine kompakte, gut begehbare Uferpromenade bilden und die Parks nah beieinander liegen.",
+      "introNl": "De ene regel die reizen met hond in Japan bepaalt is simpel: in treinen, metro's en bussen moet een huisdier volledig in een gesloten reismand meereizen die aan de maatvoorschriften van de vervoerder voldoet. Geen enkele hond, hoe klein of braaf ook, mag los of aan de lijn in het voertuig meereizen. Binnen deze regel is Yokohama heel goed te doen, want de beste hondengebieden vormen een compacte, goed beloopbare boulevard en de parken liggen dicht bij elkaar.",
       "faqsDe": [
         {
           "q": "Kann mein Hund ohne Transportbox mit dem Zug in Yokohama fahren?",
@@ -445,6 +492,16 @@
         {
           "q": "Muss ich für meinen Hund im Zug bezahlen?",
           "a": "Bei JR kauft man ein kleines Handgepäckticket für etwa 290 Yen für die Transportbox. Auf privaten Bahnlinien wie der Minatomirai- und der Tokyu-Linie fährt eine Transportbox innerhalb der Handgepäckgrenze in der Regel kostenlos als Handgepäck mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan mijn hond zonder reismand met de trein reizen in Yokohama?",
+          "a": "Nee. In alle Japanse treinen, metro's en bussen moet een huisdier volledig in een gesloten reismand meereizen binnen de maat- en gewichtsvoorschriften van de vervoerder; een hond aan de lijn of op de arm is niet toegestaan aan boord. Alleen gecertificeerde assistentiehonden zijn uitgezonderd."
+        },
+        {
+          "q": "Moet ik betalen voor mijn hond in de trein?",
+          "a": "Bij JR koop je een klein handbagageticket van ongeveer 290 yen voor de reismand. Op particuliere spoorlijnen zoals de Minatomirai- en de Tokyu-lijn reist een reismand binnen de handbagagelimiet meestal gratis mee als handbagage."
         }
       ]
     },
@@ -483,11 +540,19 @@
         }
       ],
       "titleDe": "Hundestrände in der Nähe von Yokohama",
+      "titleNl": "Hondenstranden bij Yokohama",
       "introDe": "Inhalt folgt in Kürze. Yokohama ist ein bedeutender Arbeitshafen an der Bucht von Tokio und kein Badeort, daher hat die Stadt selbst keinen Badestrand; ihre Uferzone besteht aus Hafenpiers, Promenaden und Parks. Für einen richtigen Strandtag mit Hund fahren Besitzer etwa eine Stunde nach Süden an die Shonan-Küste rund um Zushi und Kamakura, wo einige Strände außerhalb der sommerlichen Hauptbadesaison angeleinte Hunde nach lokalen, jährlich wechselnden Regeln erlauben, daher stets die aktuellen Beschilderungen prüfen, bevor man einen Hund auf den Sand lässt.",
+      "introNl": "Inhoud volgt binnenkort. Yokohama is een grote werkhaven aan de baai van Tokio en geen badplaats, dus de stad zelf heeft geen zwemstrand; haar waterfrontzone bestaat uit havenpieren, promenades en parken. Voor een echte stranddag met hond rijden baasjes ongeveer een uur naar het zuiden naar de Shonan-kust rond Zushi en Kamakura, waar sommige stranden buiten het hoofdzwemseizoen in de zomer aangelijnde honden toestaan volgens lokale, jaarlijks wisselende regels, check dus altijd de actuele bebording voordat je een hond op het zand laat.",
       "faqsDe": [
         {
           "q": "Gibt es Hundestrände direkt in Yokohama?",
           "a": "Nein. Yokohama ist ein Arbeitshafen mit einer Hafenuferzone statt Badestränden. Der nächstgelegene hundefreundliche Sand liegt an der Shonan-Küste rund um Zushi und Kamakura, etwa eine Stunde südlich, wo angeleinte Hunde auf einigen Stränden außerhalb der sommerlichen Hauptbadesaison nach jährlich wechselnden Regeln erlaubt sind."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er hondenstranden direct in Yokohama?",
+          "a": "Nee. Yokohama is een werkhaven met een havenwaterfrontzone in plaats van zwemstranden. Het dichtstbijzijnde hondvriendelijke zand ligt aan de Shonan-kust rond Zushi en Kamakura, ongeveer een uur zuidelijker, waar aangelijnde honden op sommige stranden buiten het hoofdzwemseizoen in de zomer zijn toegestaan volgens jaarlijks wisselende regels."
         }
       ]
     },
@@ -524,8 +589,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=DVMs+Animal+Medical+Center+Yokohama+Sawatari+Kanagawa-ku",
           "photo": "/images/city-places/yokohama-vets-dvms-yokohama.jpg",
           "hoursDe": "Nachtnotaufnahme 20:00–03:00 Uhr, ganzjährig geöffnet; tagsüber Überweisungsbehandlung nach Vereinbarung",
+          "hoursNl": "Nachtspoed 20:00-03:00 uur, het hele jaar open; overdag doorverwijsbehandeling op afspraak",
           "descriptionDe": "Das eigens für Notfälle und Überweisungen außerhalb der Öffnungszeiten zuständige Krankenhaus der Region, etwa acht Minuten vom Westausgang des Bahnhofs Yokohama entfernt, das Fälle übernimmt, wenn Tageskliniken geschlossen sind. Es betreibt jeden Abend eine Nachtnotaufnahme sowie tagsüber einen Sekundärversorgungsdienst für Überweisungen von örtlichen Tierärzten.",
-          "tipDe": "Vor der Fahrt anrufen und, wenn möglich, einen Japanisch sprechenden Begleiter oder eine Übersetzungs-App bereithalten; das ist die Anlaufstelle für einen nächtlichen Notfall in Yokohama."
+          "descriptionNl": "Het speciaal voor spoedgevallen en doorverwijzingen buiten openingstijden bestemde ziekenhuis van de regio, ongeveer acht minuten van de westuitgang van station Yokohama, dat gevallen overneemt wanneer dagklinieken gesloten zijn. Het runt elke avond een nachtspoedpost, plus overdag een tweedelijnsdienst voor doorverwijzingen van lokale dierenartsen.",
+          "tipDe": "Vor der Fahrt anrufen und, wenn möglich, einen Japanisch sprechenden Begleiter oder eine Übersetzungs-App bereithalten; das ist die Anlaufstelle für einen nächtlichen Notfall in Yokohama.",
+          "tipNl": "Bel voor je gaat, en houd indien mogelijk een Japanssprekende metgezel of een vertaal-app bij de hand; dit is het aanspreekpunt voor een nachtelijk noodgeval in Yokohama."
         },
         {
           "name": "Akatsuka Dog & Cat Hospital (Shimosueyoshi)",
@@ -549,8 +617,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Akatsuka+Dog+Cat+Hospital+Shimosueyoshi+Tsurumi+Yokohama",
           "photo": "/images/city-places/yokohama-vets-akatsuka.jpg",
           "hoursDe": "09:00–12:00 und 14:00–19:00 Uhr, ganzjährig geöffnet",
+          "hoursNl": "09:00-12:00 en 14:00-19:00 uur, het hele jaar open",
           "descriptionDe": "Eine etablierte Hunde- und Katzenklinik im Stadtbezirk Tsurumi, die seit 1988 besteht und an jedem Tag des Jahres für Beratungen, Chirurgie, Krankenhausaufenthalt und Unterbringung geöffnet ist. Sie bietet eine englische Webseite, und an festgelegten Tagen ist englischsprachiges Personal verfügbar, was sie zu einer der zugänglicheren Kliniken für Besucher macht.",
-          "tipDe": "Englischsprachige Hilfe wird an bestimmten Tagen angeboten, daher vorher anrufen, um einen Tag mit englischsprachigem Tierarzt oder Personal zu vereinbaren."
+          "descriptionNl": "Een gevestigde hond- en kattenkliniek in het stadsdeel Tsurumi, die al sinds 1988 bestaat en elke dag van het jaar open is voor consulten, chirurgie, ziekenhuisopname en opvang. Ze heeft een Engelstalige website, en op vaste dagen is Engelssprekend personeel beschikbaar, wat het een van de toegankelijkere klinieken voor bezoekers maakt.",
+          "tipDe": "Englischsprachige Hilfe wird an bestimmten Tagen angeboten, daher vorher anrufen, um einen Tag mit englischsprachigem Tierarzt oder Personal zu vereinbaren.",
+          "tipNl": "Engelssprekende hulp wordt op bepaalde dagen aangeboden, bel dus van tevoren om een dag met Engelssprekende dierenarts of personeel af te spreken."
         },
         {
           "name": "Minato Yokohama Animal Hospital",
@@ -574,8 +645,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Minato+Yokohama+Animal+Hospital+Mori+Isogo-ku",
           "photo": "",
           "hoursDe": "09:00–12:00 und 13:00–17:00 Uhr; dienstags und mittwochs geschlossen (kein nächtlicher Notdienst)",
+          "hoursNl": "09:00-12:00 en 13:00-17:00 uur; dinsdag en woensdag gesloten (geen nachtelijke spoeddienst)",
           "descriptionDe": "Ein allgemeines Kleintierkrankenhaus im Stadtbezirk Isogo, ein kurzer Fußweg von der Station Byobugaura auf der Keikyu-Linie entfernt, das Routineberatungen und Chirurgie für Hunde und Katzen anbietet. Das Krankenhaus gibt an, sich nachts und an geschlossenen Tagen auf stationäre Pflege statt auf Notfälle zu konzentrieren, es ist also eher eine Tagesoption als eine Anlaufstelle außerhalb der Öffnungszeiten.",
-          "tipDe": "Gut für eine Tagesberatung, aber bei etwas Dringendem außerhalb der Öffnungszeiten stattdessen zum DVMs-Notfallzentrum in der Nähe des Bahnhofs Yokohama gehen."
+          "descriptionNl": "Een algemeen kleindierenziekenhuis in het stadsdeel Isogo, een korte wandeling van station Byobugaura op de Keikyu-lijn, dat routineconsulten en chirurgie biedt voor honden en katten. Het ziekenhuis geeft aan zich 's nachts en op gesloten dagen te richten op klinische zorg voor opgenomen dieren in plaats van spoedgevallen, het is dus meer een dagoptie dan een aanspreekpunt buiten openingstijden.",
+          "tipDe": "Gut für eine Tagesberatung, aber bei etwas Dringendem außerhalb der Öffnungszeiten stattdessen zum DVMs-Notfallzentrum in der Nähe des Bahnhofs Yokohama gehen.",
+          "tipNl": "Goed voor een dagconsult, maar ga bij iets dringends buiten openingstijden in plaats daarvan naar het DVMs-spoedcentrum bij station Yokohama."
         }
       ],
       "faqsEn": [
@@ -619,7 +693,9 @@
         }
       ],
       "titleDe": "Tierärzte in Yokohama",
+      "titleNl": "Dierenartsen in Yokohama",
       "introDe": "Yokohama verfügt über ein dichtes Netz von Kleintierkliniken sowie ein eigenes Notfall- und Überweisungszentrum in der Nähe des Bahnhofs Yokohama, das außerhalb der Öffnungszeiten arbeitet. Englisch ist in japanischen Kliniken nicht garantiert, daher eine Adresse auf Japanisch bereithalten, eine Übersetzungs-App griffbereit haben und vorher anrufen. Japan ist ein tollwutfreies Land mit strengen Einfuhrkontrollen für Tiere, daher stets Mikrochip- und Impfunterlagen des Hundes mitführen.",
+      "introNl": "Yokohama beschikt over een dicht netwerk van kleindierenklinieken plus een eigen spoed- en doorverwijscentrum bij station Yokohama dat buiten openingstijden werkt. Engels is niet gegarandeerd in Japanse klinieken, houd dus een adres in het Japans bij de hand, houd een vertaal-app paraat en bel van tevoren. Japan is een rabiësvrij land met strenge invoercontroles voor dieren, draag dus altijd de microchip- en vaccinatiedocumenten van je hond bij je.",
       "faqsDe": [
         {
           "q": "Wohin bringe ich meinen Hund bei einem nächtlichen Notfall in Yokohama?",
@@ -628,6 +704,16 @@
         {
           "q": "Spricht der Tierarzt Englisch?",
           "a": "Nicht unbedingt. Englisch ist in japanischen Kliniken nicht selbstverständlich; das Akatsuka Dog & Cat Hospital in Tsurumi hat an festgelegten Tagen englischsprachiges Personal, daher vorher anrufen. Bei jeder Klinik die Adresse auf Japanisch speichern und eine Übersetzungs-App griffbereit halten."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar breng ik mijn hond heen bij een nachtelijk noodgeval in Yokohama?",
+          "a": "Het DVMs Animal Medical Center Yokohama bij station Yokohama runt het hele jaar een nachtspoedpost van 20:00 tot 03:00 uur en is het speciaal aangewezen ziekenhuis voor spoedgevallen en doorverwijzingen buiten openingstijden in de regio. Bel voor je gaat en houd een Japanssprekende metgezel of een vertaal-app bij de hand."
+        },
+        {
+          "q": "Spreekt de dierenarts Engels?",
+          "a": "Niet per se. Engels is geen vanzelfsprekendheid in Japanse klinieken; het Akatsuka Dog & Cat Hospital in Tsurumi heeft op vaste dagen Engelssprekend personeel, bel dus van tevoren. Sla bij elke kliniek het adres in het Japans op en houd een vertaal-app paraat."
         }
       ]
     },
@@ -734,7 +820,9 @@
         }
       ],
       "titleDe": "Praktische Tipps für Hundebesitzer in Yokohama",
+      "titleNl": "Praktische tips voor hondenbaasjes in Yokohama",
       "introDe": "Yokohama belohnt Hunde, die mit leichtem Gepäck reisen und sich an der Uferpromenade aufhalten, aber die größte Planungshürde liegt lange vor der Ankunft: Japan hat eines der strengsten Einfuhrsysteme für Haustiere weltweit. Die Papiere Monate im Voraus in Ordnung bringen, die Sommerhitze einplanen und akzeptieren, dass die meisten Innenräume hundefrei bleiben, dann wird die Stadt mit Hund wirklich angenehm.",
+      "introNl": "Yokohama beloont honden die licht reizen en zich aan de boulevard ophouden, maar de grootste planningshindernis ligt lang voor aankomst: Japan heeft een van de strengste invoersystemen voor huisdieren ter wereld. Regel de papieren maanden van tevoren, houd rekening met de zomerhitte en accepteer dat de meeste binnenruimtes hondvrij blijven, dan wordt de stad met hond echt aangenaam.",
       "faqsDe": [
         {
           "q": "Wie weit im Voraus muss ich mich vorbereiten, um meinen Hund nach Japan zu bringen?",
@@ -743,6 +831,16 @@
         {
           "q": "Ist Yokohama eine gute Stadt für einen Besuch mit Hund?",
           "a": "Ja, sobald man das auf das Freie ausgerichtete Muster akzeptiert. Die Hundehighlights sind eine kompakte, gut begehbare Uferpromenade mit Parks, ein großer Hundeauslauf und haustierfreundliches Essen im Freien, alles nah beieinander, was gut zu einem Hund passt; die Grenzen sind Innenräume, Tempel und Gärten sowie der Transit nur mit Transportbox."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe ver van tevoren moet ik me voorbereiden om mijn hond mee te nemen naar Japan?",
+          "a": "Reken op bijna een jaar. Na de rabiës-antilichaamtitertest volgt een wachttijd van 180 dagen voor binnenkomst zonder quarantaine, naast microchip en twee rabiësvaccinaties, en je moet de Animal Quarantine Service van tevoren op de hoogte stellen. Bevestig de actuele stappen altijd bij de officiële dienst."
+        },
+        {
+          "q": "Is Yokohama een goede stad om met hond te bezoeken?",
+          "a": "Ja, zodra je het op buiten gerichte patroon accepteert. De hondenhoogtepunten zijn een compacte, goed beloopbare boulevard met parken, een groot hondenlosloopgebied en huisdiervriendelijk eten buiten, allemaal dicht bij elkaar, wat goed past bij een hond; de beperkingen zijn binnenruimtes, tempels en tuinen, en vervoer alleen met reismand."
         }
       ]
     },
@@ -779,9 +877,13 @@
           "tipPt": "Use as escadas ao lado do elevador ao chegar com um cão, pois o recinto pede aos donos de animais para não usarem os elevadores.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Marine+and+Walk+Yokohama",
           "descriptionDe": "Ein offener Einkaufs- und Gastronomiekomplex am Ufer im Viertel Shinko, bewusst als haustierfreundlich konzipiert, mit angeleinten Hunden, die willkommen sind, durch die Gassen und Terrassen zu schlendern. Mehrere Cafés und Restaurants lassen Hunde auf ihren Terrassen sitzen, und er ist der zuverlässigste einzelne Anlaufpunkt für einen entspannten Ausflug.",
+          "descriptionNl": "Een open winkel- en horecacomplex aan het water in de wijk Shinko, bewust ontworpen als huisdiervriendelijk, met aangelijnde honden die welkom zijn om door de steegjes en terrassen te slenteren. Meerdere cafés en restaurants laten honden op hun terras zitten, en het is de betrouwbaarste enkele bestemming voor een ontspannen uitje.",
           "dogPolicyDe": "Angeleinte Hunde in den gesamten Außenbereichen willkommen; in Aufzügen, Toiletten oder Stillräumen nicht erlaubt, und jedes Geschäft legt seine eigene Innenregel fest, daher vor dem Betreten eines Geschäfts fragen.",
+          "dogPolicyNl": "Aangelijnde honden welkom in alle buitengedeeltes; niet toegestaan in liften, toiletten of stilteruimtes, en elke winkel bepaalt zijn eigen binnenregel, dus vraag voordat je een winkel binnengaat.",
           "admissionFeeDe": "Eintritt frei",
-          "tipDe": "Bei Ankunft mit Hund die Treppe neben dem Aufzug benutzen, da die Anlage Hundebesitzer bittet, die Aufzüge nicht zu nutzen."
+          "admissionFeeNl": "Gratis toegang",
+          "tipDe": "Bei Ankunft mit Hund die Treppe neben dem Aufzug benutzen, da die Anlage Hundebesitzer bittet, die Aufzüge nicht zu nutzen.",
+          "tipNl": "Gebruik bij aankomst met hond de trap naast de lift, want het complex vraagt hondenbaasjes de liften niet te gebruiken."
         },
         {
           "name": "Yokohama Red Brick Warehouse (outdoor plaza)",
@@ -806,9 +908,13 @@
           "tipPt": "Combine-o com o Marine & Walk e o passeio Kishamichi ao lado para um circuito à trela contínuo da frente marítima de Shinko.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Yokohama+Red+Brick+Warehouse",
           "descriptionDe": "Zwei restaurierte Zollhäuser aus den frühen 1900er-Jahren, die das Ufergebiet Shinko prägen und heute ein bekannter Veranstaltungs- und Einkaufsort sind. Die breiten Backsteinplätze und Rasenflächen rund um die Gebäude eignen sich für einen angenehmen Spaziergang mit angeleintem Hund und Hafenblick, auch wenn die Innengeschäfte und -hallen Innenräume sind, in denen Haustiere im Allgemeinen nicht erlaubt sind.",
+          "descriptionNl": "Twee gerestaureerde douanegebouwen uit het begin van de jaren 1900, die het waterfrontgebied Shinko domineren en nu een bekende evenementen- en winkellocatie zijn. De brede bakstenen pleinen en grasvelden rond de gebouwen lenen zich voor een aangename wandeling met aangelijnde hond en havenuitzicht, ook al zijn de binnenwinkels en -hallen binnenruimtes waar huisdieren over het algemeen niet zijn toegestaan.",
           "dogPolicyDe": "Angeleinte Hunde auf den Außenplätzen und Rasenflächen willkommen; Innenhallen und Geschäfte sind für Haustiere im Allgemeinen tabu.",
+          "dogPolicyNl": "Aangelijnde honden welkom op de buitenpleinen en grasvelden; binnenhallen en winkels zijn over het algemeen taboe voor huisdieren.",
           "admissionFeeDe": "Freier Zutritt zum Gelände",
-          "tipDe": "Mit Marine & Walk und der nebenan gelegenen Kishamichi-Promenade kombinieren für eine einzige durchgehende Runde mit Hund an der Leine durch Shinko."
+          "admissionFeeNl": "Gratis toegang tot het terrein",
+          "tipDe": "Mit Marine & Walk und der nebenan gelegenen Kishamichi-Promenade kombinieren für eine einzige durchgehende Runde mit Hund an der Leine durch Shinko.",
+          "tipNl": "Combineer met Marine & Walk en de naastgelegen Kishamichi-promenade voor één doorlopende rondwandeling met aangelijnde hond door Shinko."
         },
         {
           "name": "Osanbashi Pier rooftop deck",
@@ -833,9 +939,13 @@
           "tipPt": "O terraço é muito aberto e com pouca sombra; nos dias quentes ou luminosos venha cedo ou tarde e leve água para o cão.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Osanbashi+Pier+Yokohama",
           "descriptionDe": "Yokohamas internationaler Passagierpier, dessen wellenförmiges Holzdach, im Spitznamen Walrücken genannt, ein kostenloses offenes Freiluftdeck mit weitem Blick zurück auf die Skyline von Minato Mirai ist. Das sanft geneigte Dach aus Holz und Rasen ist ein beliebter Spaziergang mit angeleintem Hund, besonders bei Sonnenuntergang, wenn die Lichter der Bucht angehen.",
+          "descriptionNl": "Yokohama's internationale passagierspier, waarvan het golvende houten dak, bijgenaamd de walvisrug, een gratis open buitendek is met weids uitzicht terug op de skyline van Minato Mirai. Het zacht hellende dak van hout en gras is een populaire wandeling met aangelijnde hond, vooral bij zonsondergang, wanneer de lichten van de baai aangaan.",
           "dogPolicyDe": "Angeleinte Hunde auf dem offenen Dachdeck willkommen; von den darunterliegenden Innenbereichen des Terminals fernbleiben.",
+          "dogPolicyNl": "Aangelijnde honden welkom op het open dakdek; blijf weg van de onderliggende binnenruimtes van de terminal.",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Das Deck liegt weit offen mit wenig Schatten; an heißen oder hellen Tagen früh oder spät kommen und Wasser für den Hund mitbringen."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Das Deck liegt weit offen mit wenig Schatten; an heißen oder hellen Tagen früh oder spät kommen und Wasser für den Hund mitbringen.",
+          "tipNl": "Het dek ligt wijd open met weinig schaduw; kom op hete of heldere dagen vroeg of laat en breng water mee voor je hond."
         }
       ],
       "tipsEn": [
@@ -899,7 +1009,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Yokohama",
+      "titleNl": "Hondvriendelijke bezienswaardigheden in Yokohama",
       "introDe": "Yokohamas Sightseeing spielt Hundebesitzern in die Hände, weil so vieles davon im Freien und am Wasser stattfindet. Angeleinte Hunde können die Hafenplätze, die offenen Einkaufspromenaden und das berühmte Dachdeck des Piers gemeinsam mit einem erleben und so einen ganzen Tag voller Sehenswürdigkeiten erleben, ohne irgendwo hineingehen zu müssen.",
+      "introNl": "Yokohama's sightseeing speelt hondenbaasjes in de kaart, omdat zoveel ervan buiten en aan het water plaatsvindt. Aangelijnde honden kunnen de havenpleinen, de open winkelpromenades en het beroemde dakdek van de pier samen met je beleven, zodat je een hele dag vol bezienswaardigheden meemaakt zonder ergens naar binnen te hoeven.",
       "faqsDe": [
         {
           "q": "Welche Sehenswürdigkeiten in Yokohama kann ich mit meinem Hund besuchen?",
@@ -908,6 +1020,16 @@
         {
           "q": "Ist der Sankeien-Garten hundefreundlich?",
           "a": "Nein. Wie die meisten traditionellen japanischen Gärten lässt Sankeien keine Hunde hinein. Bei den Hafenparks und offenen Anlagen bleiben, den zuverlässig haustierfreundlichen Sehenswürdigkeiten in Yokohama."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Welke bezienswaardigheden in Yokohama kan ik met mijn hond bezoeken?",
+          "a": "De buitenbezienswaardigheden. Aangelijnde honden zijn welkom bij Marine & Walk, op de pleinen rond het Red Brick Warehouse, op het dakdek van de Osanbashi-pier en in de waterfrontparken en promenades. Binnenbezienswaardigheden, tempels en traditionele tuinen zoals Sankeien laten over het algemeen geen huisdieren toe."
+        },
+        {
+          "q": "Is de Sankeien-tuin hondvriendelijk?",
+          "a": "Nee. Zoals de meeste traditionele Japanse tuinen laat Sankeien geen honden toe. Blijf bij de havenparken en open terreinen, de betrouwbaar huisdiervriendelijke bezienswaardigheden van Yokohama."
         }
       ]
     },
@@ -941,8 +1063,11 @@
           "tipEs": "El sitio y los cuidadores funcionan sobre todo en japonés, así que reserva tiempo para gestionar una reserva con una app de traducción y enviar las cartillas de vacunación que pidan.",
           "tipPt": "O site e os cuidadores funcionam sobretudo em japonês, por isso reserve tempo para tratar de uma reserva com uma app de tradução e enviar os boletins de vacinação pedidos.",
           "descriptionDe": "Ein japanischer Online-Marktplatz, der Hundebesitzer mit geprüften lokalen Gastgeber-Betreuern für Tagesbetreuung oder Übernachtungsunterbringung im Zuhause des Betreuers vermittelt. Er deckt den Großraum Tokio und Yokohama ab, mit Profilen, Bewertungen und Nachrichtenfunktion über die Plattform.",
+          "descriptionNl": "Een Japanse online marktplaats die hondenbaasjes koppelt aan geverifieerde lokale gastheer-verzorgers voor dagopvang of overnachtingsopvang bij de verzorger thuis. Het dekt de regio Tokio en Yokohama, met profielen, beoordelingen en berichtenfunctie via het platform.",
           "serviceTypeDe": "Betreuung zu Hause und Übernachtungsunterbringung über lokale Gastgeber",
-          "tipDe": "Die Seite und die Gastgeber arbeiten hauptsächlich auf Japanisch, daher Zeit einplanen, um eine Buchung mit einer Übersetzungs-App zu organisieren und die vom Gastgeber verlangten Impfunterlagen zu senden."
+          "serviceTypeNl": "Opvang thuis en overnachtingsopvang via lokale gastheren",
+          "tipDe": "Die Seite und die Gastgeber arbeiten hauptsächlich auf Japanisch, daher Zeit einplanen, um eine Buchung mit einer Übersetzungs-App zu organisieren und die vom Gastgeber verlangten Impfunterlagen zu senden.",
+          "tipNl": "De site en de gastheren werken voornamelijk in het Japans, plan dus tijd in om een boeking te regelen met een vertaal-app en de door de gastheer gevraagde vaccinatiedocumenten te versturen."
         },
         {
           "name": "Boarding at Akatsuka Dog & Cat Hospital",
@@ -965,8 +1090,11 @@
           "tipEs": "Llama con antelación para reservar la residencia y coincidir con un día en que haya personal angloparlante, y ten listos los certificados de vacunación.",
           "tipPt": "Ligue com antecedência para reservar o alojamento e apanhar um dia com pessoal que fale inglês, e tenha os comprovativos de vacinação prontos.",
           "descriptionDe": "Diese etablierte Klinik im Stadtbezirk Tsurumi bietet Unterbringung zusätzlich zu ihren tierärztlichen Leistungen an, eine beruhigende Option, wenn der Hund Aufsicht durch an Tiere gewöhntes Personal benötigt. Da sie eine englische Webseite und an festgelegten Tagen englischsprachiges Personal hat, ist sie einer der einfacher zugänglichen Unterbringungskontakte für Besucher.",
+          "descriptionNl": "Deze gevestigde kliniek in het stadsdeel Tsurumi biedt opvang naast haar dierenartsdiensten, een geruststellende optie als je hond toezicht nodig heeft van personeel dat gewend is aan dieren. Omdat ze een Engelstalige website heeft en op vaste dagen Engelssprekend personeel, is het een van de makkelijker toegankelijke opvangcontacten voor bezoekers.",
           "serviceTypeDe": "Unterbringung in der Klinik mit tierärztlichem Personal",
-          "tipDe": "Im Voraus anrufen, um die Unterbringung zu reservieren und einen Tag mit englischsprachigem Personal zu erwischen, und Impfnachweise bereithalten."
+          "serviceTypeNl": "Opvang in de kliniek met dierenartspersoneel",
+          "tipDe": "Im Voraus anrufen, um die Unterbringung zu reservieren und einen Tag mit englischsprachigem Personal zu erwischen, und Impfnachweise bereithalten.",
+          "tipNl": "Bel van tevoren om de opvang te reserveren en een dag met Engelssprekend personeel te treffen, en houd vaccinatiebewijzen bij de hand."
         }
       ],
       "tipsEn": [
@@ -1030,7 +1158,9 @@
         }
       ],
       "titleDe": "Hundebetreuung & Unterbringung in Yokohama",
+      "titleNl": "Hondenoppas & opvang in Yokohama",
       "introDe": "Für die Stunden, in denen Hunde nicht mitkommen können, etwa bei einem Museumsbesuch, einem Tempelbesuch oder einem Spa-Termin, verlassen sich Yokohama-Besitzer auf japanische Vermittlungsplattformen für Betreuer und auf Unterbringung in Tierkliniken. Die meisten Dienste laufen auf Japanisch, daher im Voraus buchen und eine Übersetzungs-App nutzen; die Impfanforderungen bestätigen, die japanische Betreuer und Unterbringungsanbieter fast immer verlangen.",
+      "introNl": "Voor de uren dat honden niet mee kunnen, zoals bij een museumbezoek, een tempelbezoek of een spa-afspraak, vertrouwen Yokohama-baasjes op Japanse bemiddelingsplatforms voor verzorgers en op opvang bij dierenklinieken. De meeste diensten werken in het Japans, dus boek van tevoren en gebruik een vertaal-app; bevestig de vaccinatievereisten die Japanse verzorgers en opvangaanbieders bijna altijd stellen.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Hundebetreuer in Yokohama?",
@@ -1039,6 +1169,16 @@
         {
           "q": "Kann ich meinen Hund in einer Tierklinik in Yokohama unterbringen?",
           "a": "Ja. Mehrere Kliniken bieten Unterbringung an; das Akatsuka Dog & Cat Hospital in Tsurumi bietet diese zusätzlich zur tierärztlichen Versorgung an und hat an festgelegten Tagen englischsprachiges Personal, was es zu einer praktischen Option für Besucher macht. Im Voraus reservieren und Impfnachweise mitbringen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe vind ik een hondenoppas in Yokohama?",
+          "a": "Japanse platforms zoals DogHuggy koppelen baasjes aan lokale gastheer-verzorgers voor dagopvang of overnachtingsverblijven in de hele regio Tokio en Yokohama. Ze werken voornamelijk in het Japans, dus boek van tevoren met een vertaal-app en houd vaccinatiedocumenten bij de hand."
+        },
+        {
+          "q": "Kan ik mijn hond onderbrengen bij een dierenkliniek in Yokohama?",
+          "a": "Ja. Meerdere klinieken bieden opvang aan; het Akatsuka Dog & Cat Hospital in Tsurumi biedt dit naast dierenartszorg en heeft op vaste dagen Engelssprekend personeel, wat het een praktische optie maakt voor bezoekers. Reserveer van tevoren en breng vaccinatiebewijzen mee."
         }
       ]
     }

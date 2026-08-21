@@ -41,9 +41,13 @@
           "tipPt": "É genuinamente pequeno, por isso num fim de semana movimentado chegue cedo para conseguir uma das mesas junto à lareira com o seu cão.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Black+Horse+Inn+Church+Street+Whitby",
           "descriptionDe": "Ein winziges, historisches Bierhaus in der Church Street im Schatten des Klosterhügels, das Jahrhunderte zurückreicht und bis 1828 als The White Horse bekannt war. Wohlerzogene Hunde sind in beiden kleinen Barräumen wirklich willkommen und bekommen meist einen Wassernapf angeboten. Berühmt ist es für seine Yorkshire-Tapas, echte Ales und ein gemütlich-verwinkeltes Interieur, das wie eine Zeitreise wirkt.",
+          "descriptionNl": "Een piepklein, historisch bierhuis aan Church Street, in de schaduw van de kloosterheuvel, dat eeuwen teruggaat en tot 1828 bekendstond als The White Horse. Goed opgevoede honden zijn echt welkom in beide kleine baruimtes en krijgen meestal een waterbakje aangeboden. Het staat bekend om zijn Yorkshire-tapas, echte ales en een knus, rommelig interieur dat aanvoelt als een reis terug in de tijd.",
           "petPolicyDe": "Hunde in beiden Barräumen willkommen",
+          "petPolicyNl": "Honden welkom in beide baruimtes",
           "mustTryDe": "Yorkshire-Tapas, lokale Fassbier-Ales",
-          "tipDe": "Es ist wirklich klein, also an einem belebten Wochenende früh kommen, um mit Ihrem Hund einen der Tische am Kamin zu ergattern."
+          "mustTryNl": "Yorkshire-tapas, lokale tapbieren",
+          "tipDe": "Es ist wirklich klein, also an einem belebten Wochenende früh kommen, um mit Ihrem Hund einen der Tische am Kamin zu ergattern.",
+          "tipNl": "Het is echt klein, dus kom in een druk weekend vroeg om met je hond een van de tafels bij de open haard te bemachtigen."
         },
         {
           "name": "The Dolphin Hotel",
@@ -71,9 +75,13 @@
           "tipPt": "Escolha um lugar à janela do bar para ver a ponte giratória abrir para os barcos, um pequeno ritual que diverte cães e donos.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dolphin+Hotel+Bridge+Street+Whitby",
           "descriptionDe": "Ein traditioneller Pub und Hotel direkt am Hafen bei der Drehbrücke, mit gemütlicher Bar und malerischem Blick über den Fluss Esk und die Fischerboote. Hunde sind im Thekenbereich willkommen, was ihn zu einem einfachen Ort macht, um sich nach einem Spaziergang am Kai aufzuwärmen. Erwarten Sie ordentliches Pub-Essen, lokale Meeresfrüchte und einen freundlichen, unkomplizierten Whitby-Empfang.",
+          "descriptionNl": "Een traditionele pub en hotel direct aan de haven bij de draaibrug, met een gezellige bar en pittoresk uitzicht over de rivier de Esk en de vissersboten. Honden zijn welkom aan de bar, waardoor het een makkelijke plek is om op te warmen na een wandeling langs de kade. Verwacht stevig pubeten, lokale zeevruchten en een vriendelijk, ongedwongen Whitby-onthaal.",
           "petPolicyDe": "Hunde im Thekenbereich willkommen",
+          "petPolicyNl": "Honden welkom aan de bar",
           "mustTryDe": "Whitby-Scampi, Fish and Chips, lokales Ale",
-          "tipDe": "Sichern Sie sich einen Fensterplatz an der Theke, um zu beobachten, wie sich die Drehbrücke für Boote öffnet, ein kleines Ritual, das Hunde wie Halter gleichermaßen unterhält."
+          "mustTryNl": "Whitby-scampi's, fish and chips, lokaal bier",
+          "tipDe": "Sichern Sie sich einen Fensterplatz an der Theke, um zu beobachten, wie sich die Drehbrücke für Boote öffnet, ein kleines Ritual, das Hunde wie Halter gleichermaßen unterhält.",
+          "tipNl": "Bemachtig een plekje bij het raam aan de bar om te zien hoe de draaibrug opengaat voor boten, een klein ritueel dat honden en baasjes evenveel plezier geeft."
         },
         {
           "name": "Humble Pie 'n' Mash",
@@ -101,9 +109,13 @@
           "tipPt": "As mesas são poucas e a casinha é popular, por isso reserve ou venha um pouco fora das horas de ponta com o seu cão.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Humble+Pie+n+Mash+Church+Street+Whitby",
           "descriptionDe": "Ein charaktervoller kleiner Pastetenladen und Restaurant in einem niedrig gebalkten Cottage aus dem 16. Jahrhundert in der Church Street, das großzügige, handgemachte Pasteten mit Kartoffelpüree und Erbsenpüree serviert. Hunde werden herzlich willkommen geheißen, sodass Sie sich mit Ihrem Hund zu Füßen aus dem Wind zurückziehen können. Die engen, holzverbalkten Räume sind gemütlich und typisch für Whitby.",
+          "descriptionNl": "Een sfeervol klein pasteitjeswinkeltje en restaurant in een 16e-eeuws cottage met lage balken aan Church Street, dat royale, handgemaakte pasteien serveert met aardappelpuree en doperwtenpuree. Honden zijn hartelijk welkom, zodat je met je hond aan je voeten lekker uit de wind kunt zitten. De kleine, houten balken hebben de ruimtes iets knus en typisch Whitby.",
           "petPolicyDe": "Hunde im Innenbereich willkommen",
+          "petPolicyNl": "Honden welkom binnen",
           "mustTryDe": "Steak-and-Ale-Pastete, Kartoffelpüree und Erbsenpüree",
-          "tipDe": "Es gibt nur wenige Tische, und das Cottage ist beliebt, also im Voraus reservieren oder etwas außerhalb der Stoßzeiten mit Ihrem Hund vorbeikommen."
+          "mustTryNl": "Steak-and-ale-pastei, aardappelpuree en doperwtenpuree",
+          "tipDe": "Es gibt nur wenige Tische, und das Cottage ist beliebt, also im Voraus reservieren oder etwas außerhalb der Stoßzeiten mit Ihrem Hund vorbeikommen.",
+          "tipNl": "Er zijn maar weinig tafels en het cottage is populair, dus reserveer van tevoren of kom met je hond net buiten de spits langs."
         }
       ],
       "tipsEn": [
@@ -167,7 +179,9 @@
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants und Pubs in Whitby",
+      "titleNl": "Huisdiervriendelijke restaurants en pubs in Whitby",
       "introDe": "Whitby ist einer der einfachsten Orte in England, um mit einem Hund essen zu gehen. Die engen Altstadtgassen rund um die Church Street und den Hafen sind gesäumt von traditionellen Pubs, in denen ein wohlerzogener Hund einfach zum Inventar gehört, und viele Lokale halten einen Wassernapf und ein Glas Leckerlis an der Theke bereit. Nach einem Spaziergang die 199 Stufen hinauf oder einem windigen Morgen am Strand werden Sie selten Mühe haben, eine warme Ecke zu finden, die Ihren Hund willkommen heißt. Die drei folgenden Lokale sind allesamt zuverlässig hundefreundlich, aber wie immer in Großbritannien lohnt sich ein kurzes Wort mit dem Personal bei der Ankunft, besonders wenn Sie lieber im Speisebereich als an der Theke sitzen möchten.",
+      "introNl": "Whitby is een van de makkelijkste plekken in Engeland om met een hond uit eten te gaan. De smalle straatjes van de oude binnenstad rond Church Street en de haven staan vol traditionele pubs waar een goed opgevoede hond simpelweg bij het meubilair hoort, en veel zaken houden een waterbakje en een pot lekkers bij de bar klaar. Na een wandeling de 199 treden op of een winderige ochtend op het strand vind je bijna altijd wel een warm hoekje dat je hond verwelkomt. De drie plekken hieronder zijn allemaal betrouwbaar hondvriendelijk, maar zoals altijd in Groot-Brittannië loont het de moeite om even iets te vragen aan het personeel bij aankomst, vooral als je liever in het restaurantgedeelte zit dan aan de bar.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde in Whitbys Pubs hinein oder nur in die Biergärten?",
@@ -176,6 +190,16 @@
         {
           "q": "Ist es einfach, in Whitby mit Hund essen zu gehen?",
           "a": "Ja. Whitby ist eine sehr hundefreundliche Küstenstadt, und Sie finden reichlich Pubs, Cafés und Pastetenläden, die Hunde willkommen heißen, besonders im Hafen- und Altstadtgebiet. Eine kurze Nachfrage beim Personal bei der Ankunft genügt vollkommen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden Whitby's pubs in, of alleen de biertuinen?",
+          "a": "Veel pubs in Whitby verwelkomen honden ook binnen, vooral de traditionele pubs in de oude binnenstad langs Church Street, zoals de Black Horse Inn. De bar is meestal de hondvriendelijke zone; wil je een tafel in een apart eetgedeelte, vraag dan eerst even aan het personeel."
+        },
+        {
+          "q": "Is het makkelijk om in Whitby met een hond uit eten te gaan?",
+          "a": "Ja. Whitby is een zeer hondvriendelijk kustplaatsje, en je vindt er volop pubs, cafés en pasteitjeswinkels die honden verwelkomen, vooral rond de haven en de oude binnenstad. Even iets vragen aan het personeel bij aankomst is meer dan genoeg."
         }
       ]
     },
@@ -209,8 +233,11 @@
           "tipPt": "Combine-o com a subida ao Whitby Museum, que fica dentro do recinto do parque, e depois desça para a cidade velha.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pannett+Park+Whitby",
           "descriptionDe": "Whitbys Hauptstadtpark, eine wunderschön gestaltete Grünanlage aus der viktorianischen Zeit im Herzen der Stadt mit gewundenen Wegen, einem Seerosenteich, einem Steingarten und Rasenflächen, alles nur einen kurzen Spaziergang vom Bahnhof entfernt. Es ist ein ruhiger, hübscher Ort für eine sanfte Beinstreckung mit Hund zwischen Regenschauern oder nach einem geschäftigen Tag am Strand.",
+          "descriptionNl": "Whitby's belangrijkste stadspark, een prachtig aangelegd Victoriaans groengebied in het hart van de stad met kronkelende paden, een waterlelievijver, een rotstuin en grasvelden, allemaal op een korte wandelafstand van het station. Het is een rustige, mooie plek voor een ontspannen beentjes-strekken met je hond tussen de regenbuien door of na een drukke dag op het strand.",
           "offLeashAreaDe": "Hunde müssen im gesamten Park an der Leine bleiben",
-          "tipDe": "Kombinieren Sie es mit dem Spaziergang zum Whitby Museum, das im Parkgelände liegt, und gehen Sie anschließend hinunter in die Altstadt."
+          "offLeashAreaNl": "Honden moeten in het hele park aangelijnd blijven",
+          "tipDe": "Kombinieren Sie es mit dem Spaziergang zum Whitby Museum, das im Parkgelände liegt, und gehen Sie anschließend hinunter in die Altstadt.",
+          "tipNl": "Combineer het met een bezoek aan het Whitby Museum, dat op het parkterrein ligt, en loop daarna naar beneden richting de oude binnenstad."
         },
         {
           "name": "The Cinder Track (Whitby to Robin Hood's Bay)",
@@ -232,8 +259,11 @@
           "tipPt": "Comece na extremidade sul de Whitby e caminhe rumo a Hawsker para as melhores vistas de mar sem se comprometer com o percurso completo.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinder+Track+Whitby",
           "descriptionDe": "Ein autofreier Wander- und Radweg entlang der alten Bahnlinie Whitby–Scarborough, der südlich von Whitby durch offenes Land in Richtung Robin Hood's Bay und darüber hinaus führt. Es ist ein hervorragender, sicherer Hundespaziergang mit großartigem Meerblick und ohne Autos, ideal wenn die Strände im Sommer eingeschränkt sind. Sie können so viel oder so wenig davon gehen, wie Sie möchten, und jederzeit umkehren.",
+          "descriptionNl": "Een autovrij wandel- en fietspad langs de oude spoorlijn Whitby-Scarborough, dat ten zuiden van Whitby door open landschap richting Robin Hood's Bay en verder loopt. Het is een uitstekende, veilige hondenwandeling met prachtig zeezicht en zonder auto's, ideaal wanneer de stranden 's zomers beperkt toegankelijk zijn. Je kunt er zoveel of zo weinig van lopen als je wilt en op elk moment omkeren.",
           "offLeashAreaDe": "Auf dem Weg unter Kontrolle; an Straßenübergängen und wo er Ackerland durchquert an die Leine",
-          "tipDe": "Starten Sie am südlichen Rand von Whitby und gehen Sie in Richtung Hawsker für die besten Meerblicke, ohne die gesamte Strecke bewältigen zu müssen."
+          "offLeashAreaNl": "Op het pad onder controle; aangelijnd bij wegoversteken en waar het pad door landbouwgrond loopt",
+          "tipDe": "Starten Sie am südlichen Rand von Whitby und gehen Sie in Richtung Hawsker für die besten Meerblicke, ohne die gesamte Strecke bewältigen zu müssen.",
+          "tipNl": "Start aan de zuidrand van Whitby en loop richting Hawsker voor de mooiste zeezichten, zonder de hele route te hoeven lopen."
         },
         {
           "name": "Mulgrave Woods",
@@ -255,8 +285,11 @@
           "tipPt": "Verifique os dias de abertura da Mulgrave Estate antes de sair; o bosque fecha todo o mês de maio e em muitos dias de semana.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mulgrave+Woods+Sandsend",
           "descriptionDe": "Ein wunderschönes Stück Gutswald in der Nähe von Sandsend, ein paar Meilen nordwestlich von Whitby, mit Wegen, die zu den Ruinen des alten Mulgrave Castle führen. Der Wald befindet sich in Privatbesitz des Mulgrave Estate und ist nur an festgelegten Tagen für die Öffentlichkeit zugänglich, üblicherweise mittwochs, an Wochenenden und in den Schulferien, im Mai jedoch geschlossen, also vorher immer prüfen. Hunde sind an der Leine willkommen.",
+          "descriptionNl": "Een prachtig stuk landgoedbos bij Sandsend, een paar kilometer ten noordwesten van Whitby, met paden die naar de ruïnes van het oude Mulgrave Castle leiden. Het bos is privébezit van het Mulgrave Estate en is alleen op vaste dagen open voor het publiek, meestal op woensdag, in het weekend en tijdens de schoolvakanties, maar gesloten in mei, dus check dit altijd van tevoren. Honden zijn welkom aan de lijn.",
           "offLeashAreaDe": "Nur an der Leine, aus Rücksicht auf das bewirtschaftete Gut und seine Wildtiere",
-          "tipDe": "Prüfen Sie die Öffnungstage des Mulgrave Estate, bevor Sie losfahren; der Wald ist den gesamten Mai über sowie an vielen Wochentagen geschlossen."
+          "offLeashAreaNl": "Alleen aan de lijn, uit respect voor het beheerde landgoed en de wilde dieren",
+          "tipDe": "Prüfen Sie die Öffnungstage des Mulgrave Estate, bevor Sie losfahren; der Wald ist den gesamten Mai über sowie an vielen Wochentagen geschlossen.",
+          "tipNl": "Check de openingsdagen van het Mulgrave Estate voordat je vertrekt; het bos is de hele maand mei en op veel doordeweekse dagen gesloten."
         }
       ],
       "tipsEn": [
@@ -320,7 +353,9 @@
         }
       ],
       "titleDe": "Parks und grüne Spaziergänge in Whitby mit Hund",
+      "titleNl": "Parken en groene wandelingen met hond in Whitby",
       "introDe": "Whitby ist eine kleine Stadt, eingebettet in weite Landschaft, sodass die meisten Hundespaziergänge hier schnell auf Klippenkämme, Wälder oder alte Bahntrassen führen statt in gepflegte Parks. In der Stadt selbst bietet der Pannett Park einen ruhigen, gestalteten Spaziergang, während direkt außerhalb der Cinder Track und die Mulgrave Woods längere, grünere Abenteuer bieten. Im Pannett Park und in der Nähe von Weidevieh müssen Hunde an der Leine bleiben, und auf Klippenpfaden wird aus Sicherheitsgründen dringend eine Leine empfohlen. Die drei folgenden Grünflächen decken alles ab, vom kurzen Stadtbummel bis zum ausgewachsenen Halbtagesspaziergang.",
+      "introNl": "Whitby is een klein stadje, ingebed in een uitgestrekt landschap, waardoor de meeste hondenwandelingen hier al snel over klifranden, door bossen of over oude spoortracés lopen in plaats van door aangelegde parken. In de stad zelf biedt Pannett Park een rustige, verzorgde wandeling, terwijl vlak buiten de stad de Cinder Track en de Mulgrave Woods langere, groenere avonturen bieden. In Pannett Park en in de buurt van vee moeten honden aangelijnd blijven, en op klifpaden wordt om veiligheidsredenen dringend een lijn aangeraden. De drie groengebieden hieronder dekken alles, van een kort stadswandelingetje tot een volwaardige halve-dagwandeling.",
       "faqsDe": [
         {
           "q": "Wo kann ich mit meinem Hund in Whitby spazieren gehen, wenn die Strände eingeschränkt sind?",
@@ -329,6 +364,16 @@
         {
           "q": "Ist der Pannett Park gut für Hunde?",
           "a": "Ja, für einen ruhigen Spaziergang an der Leine. Der Pannett Park ist ein gestalteter Stadtpark mit Wegen, Gärten und einem Seerosenteich. Hunde müssen dort durchgehend an der Leine bleiben, sodass er sich eher für einen ruhigen Spaziergang als für Auslauf eignet."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Waar kan ik met mijn hond wandelen in Whitby als de stranden beperkt toegankelijk zijn?",
+          "a": "De Cinder Track, de klifpaden van de Cleveland Way en Pannett Park zijn allemaal goede opties het hele jaar door. In de buurt blijven ook Tate Hill Sands, de buitenste delen van Sandsend en Runswick Bay tijdens het zomerseizoen open voor honden."
+        },
+        {
+          "q": "Is Pannett Park goed voor honden?",
+          "a": "Ja, voor een rustige wandeling aan de lijn. Pannett Park is een aangelegd stadspark met paden, tuinen en een waterlelievijver. Honden moeten er altijd aangelijnd blijven, dus het is meer geschikt voor een rustige wandeling dan om los te rennen."
         }
       ]
     },
@@ -436,7 +481,9 @@
         }
       ],
       "titleDe": "Fortbewegung in Whitby mit Hund",
+      "titleNl": "Je verplaatsen in Whitby met hond",
       "introDe": "Whitby ist kompakt und steil um seinen Hafen herum gebaut, sodass fast alles zu Fuß erledigt wird, und die Stadt lässt sich mit Hund leicht und lohnend erkunden. In der Nähe gibt es keinen Flughafen, aber die malerische Esk Valley Line verbindet Whitby mit Middlesbrough, und Hunde reisen bei National Rail kostenlos mit. Sobald Sie angekommen sind, sind die Drehbrücke, die beiden Klippen und die 199 Stufen alle zu Fuß erreichbar, wobei die Hügel real sind, sodass ein fitter Hund und bequeme Schuhe hilfreich sind.",
+      "introNl": "Whitby is compact en steil gebouwd rond zijn haven, waardoor je bijna alles te voet doet, en de stad is met hond gemakkelijk en de moeite waard om te verkennen. Er is geen vliegveld in de buurt, maar de pittoreske Esk Valley Line verbindt Whitby met Middlesbrough, en honden reizen bij National Rail gratis mee. Eenmaal aangekomen zijn de draaibrug, beide klifranden en de 199 treden allemaal te voet bereikbaar, al zijn de heuvels serieus, dus een fitte hond en comfortabele schoenen helpen.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund mit dem Zug nach Whitby mitnehmen?",
@@ -445,6 +492,16 @@
         {
           "q": "Gibt es einen Flughafen in der Nähe von Whitby?",
           "a": "Nicht in der Stadt selbst. Der nächste ist Teesside International (MME), etwa eine Stunde mit dem Auto entfernt, und viele Besucher kommen stattdessen einfach mit dem Auto oder Zug. Prüfen Sie bei einem Flug immer im Voraus die Tierrichtlinien Ihrer Fluggesellschaft."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik mijn hond meenemen met de trein naar Whitby?",
+          "a": "Ja. Bij National Rail reizen tot twee honden per reiziger gratis mee, aangelijnd of in een reismand. Whitby is het eindpunt van de pittoreske Esk Valley Line vanuit Middlesbrough, een prachtige, hondvriendelijke manier om aan te komen dwars door de North York Moors."
+        },
+        {
+          "q": "Is er een vliegveld in de buurt van Whitby?",
+          "a": "Niet in de stad zelf. Het dichtstbijzijnde is Teesside International (MME), ongeveer een uur rijden, en veel bezoekers komen liever gewoon met de auto of de trein. Check bij een vlucht altijd van tevoren het huisdierenbeleid van je luchtvaartmaatschappij."
         }
       ]
     },
@@ -470,7 +527,8 @@
           "facilities": "Old-town pubs, cafes and shops a few steps away; no dedicated beach facilities",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tate+Hill+Sands+Whitby",
           "photo": "/images/city-places/whitby-beaches-tate-hill-sands.jpg",
-          "descriptionDe": "Eine kleine, geschützte Sandbucht unterhalb des East Cliff und des Klosterhügels, direkt bei der Altstadt und der Hafeneinfahrt. Es ist der Stadtstrand, der das ganze Jahr über für Hunde geöffnet bleibt, mit ruhigem, flachem Wasser, das sich gut zum Planschen eignet, und Booten zum Zuschauen, wobei in der geschäftigen Sommersaison gemäß der Ratsverordnung Leinenpflicht besteht."
+          "descriptionDe": "Eine kleine, geschützte Sandbucht unterhalb des East Cliff und des Klosterhügels, direkt bei der Altstadt und der Hafeneinfahrt. Es ist der Stadtstrand, der das ganze Jahr über für Hunde geöffnet bleibt, mit ruhigem, flachem Wasser, das sich gut zum Planschen eignet, und Booten zum Zuschauen, wobei in der geschäftigen Sommersaison gemäß der Ratsverordnung Leinenpflicht besteht.",
+          "descriptionNl": "Een kleine, beschutte zandbaai onder de East Cliff en de kloosterheuvel, vlak bij de oude binnenstad en de haveningang. Het is het stadsstrand dat het hele jaar door open blijft voor honden, met rustig, ondiep water dat lekker plonzen mogelijk maakt, en boten om naar te kijken, al geldt er in het drukke zomerseizoen een aanlijnplicht volgens de gemeenteverordening."
         },
         {
           "name": "Sandsend Beach",
@@ -484,7 +542,8 @@
           "facilities": "Village cafes, car park and toilets at the Sandsend end; seasonal beach amenities",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sandsend+Beach+Whitby",
           "photo": "",
-          "descriptionDe": "Ein langer, breiter Sandstrand vor dramatischen Jurakliffs, drei Meilen nordwestlich von Whitby und über den Küstenweg mit ihm verbunden. Die äußeren Abschnitte sind ganzjährig hundefreundlich und bieten bei Ebbe kilometerweise Auslauf, aber der Hauptabschnitt nahe den Dorfannehmlichkeiten ist vom 1. Mai bis 30. September für Hunde gesperrt, also im Sommer vom Zentrum wegbewegen."
+          "descriptionDe": "Ein langer, breiter Sandstrand vor dramatischen Jurakliffs, drei Meilen nordwestlich von Whitby und über den Küstenweg mit ihm verbunden. Die äußeren Abschnitte sind ganzjährig hundefreundlich und bieten bei Ebbe kilometerweise Auslauf, aber der Hauptabschnitt nahe den Dorfannehmlichkeiten ist vom 1. Mai bis 30. September für Hunde gesperrt, also im Sommer vom Zentrum wegbewegen.",
+          "descriptionNl": "Een lang, breed zandstrand voor dramatische jurakliffen, vijf kilometer ten noordwesten van Whitby en met de stad verbonden via het kustpad. De buitenste delen zijn het hele jaar door hondvriendelijk en bieden bij eb kilometers ruimte om los te lopen, maar het hoofdgedeelte bij de dorpsvoorzieningen is van 1 mei tot 30 september verboden voor honden, dus beweeg 's zomers weg van het centrum."
         },
         {
           "name": "Runswick Bay",
@@ -498,7 +557,8 @@
           "facilities": "Clifftop and lower car parks, a beach cafe and a dog-friendly pub in the village, seasonal toilets",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Runswick+Bay+beach",
           "photo": "/images/city-places/whitby-beaches-runswick-bay.jpg",
-          "descriptionDe": "Eine postkartenreife Bucht mit geschütztem goldenem Sand unterhalb einer Ansammlung rot bedachter Cottages, eine der schönsten Buchten an der Küste von Yorkshire. Sie ist das ganze Jahr über ohne saisonales Verbot hundefreundlich und damit der Sommerstrand der Wahl, wenn die Hauptsande von Whitby und Sandsend für Hunde gesperrt sind. Die Bucht eignet sich hervorragend zum Erkunden von Gezeitentümpeln und für ruhiges Planschen."
+          "descriptionDe": "Eine postkartenreife Bucht mit geschütztem goldenem Sand unterhalb einer Ansammlung rot bedachter Cottages, eine der schönsten Buchten an der Küste von Yorkshire. Sie ist das ganze Jahr über ohne saisonales Verbot hundefreundlich und damit der Sommerstrand der Wahl, wenn die Hauptsande von Whitby und Sandsend für Hunde gesperrt sind. Die Bucht eignet sich hervorragend zum Erkunden von Gezeitentümpeln und für ruhiges Planschen.",
+          "descriptionNl": "Een baai als op een ansichtkaart, met beschut goudgeel zand onder een cluster rood-gedekte cottages, een van de mooiste baaien aan de kust van Yorkshire. Ze is het hele jaar door hondvriendelijk zonder seizoensverbod en is daarmee het zomerstrand bij uitstek wanneer de hoofdstranden van Whitby en Sandsend verboden zijn voor honden. De baai is uitstekend geschikt om getijdenpoelen te verkennen en rustig te plonzen."
         }
       ],
       "faqsEn": [
@@ -542,7 +602,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Strände in und um Whitby",
+      "titleNl": "Hondvriendelijke stranden in en rond Whitby",
       "introDe": "Whitby liegt an einem spektakulären Abschnitt der Küste von North Yorkshire, aber seine Strände unterliegen einem echten saisonalen Hundeverbot, das Sie einplanen müssen. Gemäß der Dog Control Public Spaces Protection Order des North Yorkshire Council sind Hunde vom 1. Mai bis 30. September vom ausgeschilderten Hauptabschnitt des West-Cliff-Strandes von Whitby (Whitby Sands) ausgeschlossen, und dasselbe gilt für den Hauptabschnitt des Sandsend-Strandes nahe dem Dorf. Ein Verstoß gegen die Verordnung kann eine Geldbuße von 100 Pfund nach sich ziehen. Die gute Nachricht: Die geschützte Tate Hill Sands unterhalb des Klosterhügels bleibt das ganze Jahr über für Hunde geöffnet (in der Sommersaison an der Leine), die äußeren Abschnitte von Sandsend sind ganzjährig hundefreundlich, und die nahegelegene Runswick Bay heißt Hunde das ganze Jahr über ohne saisonale Einschränkung willkommen. Lesen Sie bei Ankunft immer die Schilder, da die genauen Grenzen am Strand markiert sind.",
+      "introNl": "Whitby ligt aan een spectaculair deel van de kust van North Yorkshire, maar de stranden kennen een echt seizoensgebonden hondenverbod waar je rekening mee moet houden. Volgens de Dog Control Public Spaces Protection Order van North Yorkshire Council zijn honden van 1 mei tot 30 september verboden op het aangegeven hoofdgedeelte van het West Cliff-strand van Whitby (Whitby Sands), en hetzelfde geldt voor het hoofdgedeelte van Sandsend-strand bij het dorp. Overtreding van de verordening kan een boete van 100 pond opleveren. Het goede nieuws: het beschutte Tate Hill Sands onder de kloosterheuvel blijft het hele jaar open voor honden (in het zomerseizoen aangelijnd), de buitenste delen van Sandsend zijn het hele jaar hondvriendelijk, en de nabijgelegen Runswick Bay verwelkomt honden het hele jaar zonder seizoensbeperking. Lees bij aankomst altijd de borden, want de exacte grenzen staan op het strand aangegeven.",
       "faqsDe": [
         {
           "q": "Sind Hunde im Sommer am Strand von Whitby verboten?",
@@ -551,6 +613,16 @@
         {
           "q": "Welche Strände in der Nähe von Whitby erlauben Hunde das ganze Jahr über?",
           "a": "Tate Hill Sands in Whitby, die äußeren Abschnitte von Sandsend und, am besten, die Runswick Bay sind allesamt ganzjährig für Hunde geöffnet. Die Runswick Bay hat überhaupt kein saisonales Verbot, weshalb sie die einfachste Wahl für einen Strandtag mit Hund im Sommer ist."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden 's zomers verboden op het strand van Whitby?",
+          "a": "Ja, gedeeltelijk. Volgens de PSPO van North Yorkshire Council zijn honden van 1 mei tot 30 september verboden op het hoofdstrand West Cliff (Whitby Sands), met een boete van 100 pond bij overtreding. Tate Hill Sands onder het klooster blijft echter het hele jaar open voor honden, aangelijnd tijdens het zomerseizoen."
+        },
+        {
+          "q": "Welke stranden bij Whitby staan honden het hele jaar toe?",
+          "a": "Tate Hill Sands in Whitby, de buitenste delen van Sandsend en, het beste van allemaal, Runswick Bay zijn allemaal het hele jaar open voor honden. Runswick Bay heeft helemaal geen seizoensverbod, waardoor het de makkelijkste keuze is voor een stranddag met hond in de zomer."
         }
       ]
     },
@@ -587,8 +659,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Beck+Veterinary+Practice+High+Stakesby+Whitby",
           "photo": "",
           "hoursDe": "Mo–Do 08:30–18:00, Fr 08:30–17:00, Sa 09:00–12:00; 24-Stunden-Notfallnummer",
+          "hoursNl": "Ma–do 08:30–18:00, vr 08:30–17:00, za 09:00–12:00; 24-uurs noodnummer",
           "descriptionDe": "Eine seit Langem etablierte Kleintierpraxis in Whitby, die die Stadt seit 1948 versorgt, mit Sitz im Animal Health Centre in High Stakesby. Sie bietet eine 24-Stunden-Notfallversorgung für Haustiere, sodass Notfälle über Nacht und am Wochenende vor Ort behandelt werden, statt eine lange Fahrt zu erfordern.",
-          "tipDe": "Speichern Sie diese Nummer bei Ankunft; an diesem Küstenabschnitt kann der nächste alternative Notfalltierarzt eine lange Fahrt landeinwärts bedeuten."
+          "descriptionNl": "Een al lang gevestigde kleindierenpraktijk in Whitby die de stad al sinds 1948 bedient, gehuisvest in het Animal Health Centre in High Stakesby. Ze bieden 24-uurs spoedzorg voor huisdieren, zodat noodgevallen 's nachts en in het weekend ter plaatse behandeld worden in plaats van een lange rit te vereisen.",
+          "tipDe": "Speichern Sie diese Nummer bei Ankunft; an diesem Küstenabschnitt kann der nächste alternative Notfalltierarzt eine lange Fahrt landeinwärts bedeuten.",
+          "tipNl": "Sla dit nummer op bij aankomst; langs dit stuk kust kan de dichtstbijzijnde alternatieve spoeddierenarts een lange rit landinwaarts betekenen."
         },
         {
           "name": "Clevedale Veterinary Practice (Whitby Veterinary Surgery)",
@@ -612,8 +687,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Clevedale+Veterinary+Practice+The+Parade+Whitby",
           "photo": "",
           "hoursDe": "Mo–Fr 08:30–18:00, Sa 09:00–12:00; 24-Stunden-Notdienst",
+          "hoursNl": "Ma–vr 08:30–18:00, za 09:00–12:00; 24-uurs spoeddienst",
           "descriptionDe": "Die Whitby-Zweigpraxis der Clevedale Veterinary Practice, auf The Parade nahe dem West Cliff, Teil einer Gruppe, die die weitere Küste von North Yorkshire abdeckt. Sie behandelt Hunde, Katzen und Kleintiere und bietet einen 24-Stunden-Notdienst, eine nützliche zweite Option, falls Ihr eigener Tierarzt vollständig ausgebucht ist.",
-          "tipDe": "Praktisch für die West-Cliff-Seite der Stadt; rufen Sie vorher an, da ein spontaner Besuch, besonders außerhalb der Öffnungszeiten, nicht immer möglich ist."
+          "descriptionNl": "De Whitby-vestiging van Clevedale Veterinary Practice, aan The Parade nabij West Cliff, onderdeel van een groep die de bredere kust van North Yorkshire bedient. Ze behandelen honden, katten en kleine huisdieren en bieden een 24-uurs spoeddienst, een handige tweede optie als je eigen dierenarts volgeboekt is.",
+          "tipDe": "Praktisch für die West-Cliff-Seite der Stadt; rufen Sie vorher an, da ein spontaner Besuch, besonders außerhalb der Öffnungszeiten, nicht immer möglich ist.",
+          "tipNl": "Handig voor de West Cliff-kant van de stad; bel van tevoren, want een spontaan bezoek, vooral buiten openingstijden, is niet altijd mogelijk."
         }
       ],
       "faqsEn": [
@@ -657,7 +735,9 @@
         }
       ],
       "titleDe": "Tierärzte und Notfallversorgung in Whitby",
+      "titleNl": "Dierenartsen en spoedzorg in Whitby",
       "introDe": "Whitby ist eine kleine Stadt, aber tierärztlich gut versorgt, mit zwei etablierten Praxen, die das Gebiet abdecken, sowie lokaler Notfallversorgung außerhalb der Öffnungszeiten, was an einem abgelegenen Küstenabschnitt wichtig ist. Speichern Sie eine Nummer in Ihrem Handy, bevor Sie ankommen, besonders wenn Sie aus dem Ausland anreisen, und beachten Sie, dass nach britischen Regeln keine Einreise mit dem EU-Heimtierausweis nach Großbritannien möglich ist. Die beiden unten genannten Praxen bieten beide 24-Stunden-Notfallregelungen für Haustiere.",
+      "introNl": "Whitby is een klein stadje, maar dierenarts-technisch goed voorzien, met twee gevestigde praktijken die het gebied bedienen, plus lokale spoedzorg buiten openingstijden, wat belangrijk is aan zo'n afgelegen stuk kust. Sla een nummer op in je telefoon voordat je aankomt, zeker als je uit het buitenland komt, en let erop dat je volgens de Britse regels niet met een EU-huisdierenpaspoort het Verenigd Koninkrijk in mag. Beide onderstaande praktijken bieden 24-uurs spoedregelingen voor huisdieren.",
       "faqsDe": [
         {
           "q": "Gibt es einen Notfalltierarzt in Whitby?",
@@ -666,6 +746,16 @@
         {
           "q": "Brauche ich Dokumente, um meinen Hund aus dem Ausland nach Whitby zu bringen?",
           "a": "Ja. Großbritannien akzeptiert den EU-Heimtierausweis nicht. Hunde, die aus der EU einreisen, benötigen eine britische Tiergesundheitsbescheinigung (GB Animal Health Certificate), einen Mikrochip, eine gültige Tollwutimpfung und eine Bandwurmbehandlung, die 24 bis 120 Stunden vor der Ankunft verabreicht wurde. Klären Sie dies vor der Reise mit Ihrem Tierarzt."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een spoeddierenarts in Whitby?",
+          "a": "Ja. De Beck Veterinary Practice in High Stakesby biedt 24-uurs spoedzorg voor huisdieren, en de Clevedale Veterinary Practice aan The Parade biedt ook een 24-uurs spoeddienst. Sla beide nummers op, want deze afgelegen kust ligt ver van grotere steden."
+        },
+        {
+          "q": "Heb ik documenten nodig om mijn hond vanuit het buitenland naar Whitby te brengen?",
+          "a": "Ja. Het Verenigd Koninkrijk accepteert het EU-huisdierenpaspoort niet. Honden die vanuit de EU binnenkomen hebben een Brits diergezondheidscertificaat (GB Animal Health Certificate) nodig, een microchip, een geldige rabiësvaccinatie en een lintwormbehandeling die 24 tot 120 uur voor aankomst is toegediend. Overleg dit voor vertrek met je dierenarts."
         }
       ]
     },
@@ -780,7 +870,9 @@
         }
       ],
       "titleDe": "Wichtige Tipps für einen Besuch in Whitby mit Hund",
+      "titleNl": "Belangrijke tips voor een bezoek aan Whitby met hond",
       "introDe": "Whitby ist eine wirklich hundeliebende Stadt, aber ein paar örtliche Gegebenheiten sollten Sie einplanen: das saisonale Strandverbot, die steilen Kopfsteinpflaster-Hügel, die geschäftigen Goth Weekends und die Regeln nach dem Brexit für die Einreise mit Hund nach Großbritannien. Beachten Sie diese, und Whitby ist einer der lohnendsten Hundeausflüge an der englischen Küste.",
+      "introNl": "Whitby is echt een hondenliefhebbend stadje, maar houd rekening met een paar lokale zaken: het seizoensgebonden strandverbod, de steile kasseienheuvels, de drukke Goth Weekends en de post-Brexit-regels voor het meenemen van je hond naar het Verenigd Koninkrijk. Houd hier rekening mee, en Whitby is een van de leukste hondenuitjes aan de Engelse kust.",
       "faqsDe": [
         {
           "q": "Ist Whitby ein guter Ort für einen Hundeurlaub?",
@@ -789,6 +881,16 @@
         {
           "q": "Wann ist die beste Zeit für einen Besuch in Whitby mit Hund?",
           "a": "Frühling und Herbst sind ideal: mild, ruhiger und mit den Hauptstränden für Hunde geöffnet außerhalb des Sommerverbots. Auch der Sommer funktioniert gut, wenn Sie Runswick Bay und Tate Hill nutzen, aber erwarten Sie Menschenmengen, besonders an den Goth Weekends."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is Whitby een goede plek voor een vakantie met je hond?",
+          "a": "Absoluut. Whitby is een compact, hondenliefhebbend kustplaatsje met hondvriendelijke pubs, klifwandelingen, boottochten en meerdere hondvriendelijke stranden. Het belangrijkste om rekening mee te houden is het strandverbod van 1 mei tot 30 september op het centrale zand, wat makkelijk te omzeilen is."
+        },
+        {
+          "q": "Wat is de beste tijd om Whitby met hond te bezoeken?",
+          "a": "Voorjaar en herfst zijn ideaal: mild, rustiger en met de hoofdstranden open voor honden buiten het zomerverbod. De zomer werkt ook goed als je Runswick Bay en Tate Hill gebruikt, maar reken op drukte, vooral tijdens de Goth Weekends."
         }
       ]
     },
@@ -825,9 +927,13 @@
           "tipPt": "Os cães são bem-vindos no recinto mas normalmente não dentro do centro de visitantes ou do museu, por isso prevejam que uma pessoa entre à vez se quiserem visitá-los.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Whitby+Abbey",
           "descriptionDe": "Die dramatischen Ruinen von Whitby Abbey krönen den East-Cliff-Klippenkamm über der Stadt, eine eindringliche gotische Silhouette, die Bram Stokers Dracula mit inspirierte. Wohlerzogene Hunde an kurzer Leine sind auf dem gesamten Klostergelände willkommen, ebenso Assistenzhunde, sodass Sie und Ihr Hund gemeinsam durch die Ruinen wandern und die weiten Ausblicke über den Hafen genießen können.",
+          "descriptionNl": "De dramatische ruïnes van Whitby Abbey bekronen de East Cliff boven de stad, een indrukwekkend gotisch silhouet dat mede Bram Stokers Dracula inspireerde. Goed opgevoede honden aan een korte lijn zijn welkom op het volledige kloosterterrein, net als assistentiehonden, zodat jij en je hond samen door de ruïnes kunnen wandelen en genieten van de weidse uitzichten over de haven.",
           "dogPolicyDe": "Hunde an kurzer Leine auf dem Gelände willkommen",
+          "dogPolicyNl": "Honden aan een korte lijn welkom op het terrein",
           "admissionFeeDe": "Eintritt von English Heritage fällig; kostenlos für Mitglieder",
-          "tipDe": "Hunde sind auf dem Gelände willkommen, aber in der Regel nicht im Besucherzentrum oder Museum, planen Sie also, dass eine Person hineingeht, falls Sie diese besuchen möchten."
+          "admissionFeeNl": "Entree van English Heritage verschuldigd; gratis voor leden",
+          "tipDe": "Hunde sind auf dem Gelände willkommen, aber in der Regel nicht im Besucherzentrum oder Museum, planen Sie also, dass eine Person hineingeht, falls Sie diese besuchen möchten.",
+          "tipNl": "Honden zijn welkom op het terrein, maar meestal niet in het bezoekerscentrum of museum, dus plan dat er iemand naar binnen gaat als je die wilt bezoeken."
         },
         {
           "name": "The 199 Steps and St Mary's Church",
@@ -852,9 +958,13 @@
           "tipPt": "Há bancos (os antigos descansos de caixões) ao longo da subida, úteis para uma pausa com um cão idoso.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=199+Steps+Whitby",
           "descriptionDe": "Die berühmten 199 Stufen führen von der Altstadt hinauf zur St.-Mary's-Kirche und dem Klosterkamm, ein Whitby-Ritual, das die meisten Hunde glücklich erklimmen. Die Stufen und der stimmungsvolle Friedhof mit seinen verwitterten Grabsteinen und weiten Ausblicken sind allesamt im Freien und hundefreundlich, und der Aufstieg wird mit einem der besten Panoramen an der Küste von Yorkshire belohnt.",
+          "descriptionNl": "De beroemde 199 treden leiden vanuit de oude binnenstad omhoog naar de St. Mary's Church en de kloosterheuvel, een Whitby-ritueel dat de meeste honden vrolijk beklimmen. De treden en de sfeervolle begraafplaats met verweerde grafstenen en weidse uitzichten zijn allemaal buiten en hondvriendelijk, en de klim wordt beloond met een van de beste panorama's aan de kust van Yorkshire.",
           "dogPolicyDe": "Freiluft-Stufen und Friedhof, Hunde an der Leine willkommen",
+          "dogPolicyNl": "Buiten trappen en begraafplaats, honden aan de lijn welkom",
           "admissionFeeDe": "Kostenlos",
-          "tipDe": "Es gibt Bänke (die alten Sargablagen) entlang des Weges, praktisch für eine Verschnaufpause mit einem älteren Hund beim Aufstieg."
+          "admissionFeeNl": "Gratis",
+          "tipDe": "Es gibt Bänke (die alten Sargablagen) entlang des Weges, praktisch für eine Verschnaufpause mit einem älteren Hund beim Aufstieg.",
+          "tipNl": "Er staan bankjes (de oude 'coffin rests') langs de route, handig voor een adempauze met een oudere hond tijdens de klim."
         },
         {
           "name": "Whitby Harbour and boat trips",
@@ -879,9 +989,13 @@
           "tipPt": "Confirme a política de cães com o operador do barco antes de embarcar, e escolha um dia calmo se o seu cão desconfiar da água.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Whitby+Harbour",
           "descriptionDe": "Der arbeitende Hafen ist das Herz von Whitby, mit Fischerbooten, der Drehbrücke, dem Walknochenbogen und der Captain-Cook-Statue oben auf dem West Cliff. Mehrere Anbieter führen kurze Vergnügungsfahrten und Küsten-Sightseeing-Touren vom Kai aus durch, die wohlerzogene Hunde an Deck willkommen heißen, ein unvergesslicher Ausflug, den keine Strandbeschränkung berührt.",
+          "descriptionNl": "De werkende haven is het hart van Whitby, met vissersboten, de draaibrug, de walvisbotenboog en het Captain Cook-standbeeld boven op West Cliff. Meerdere aanbieders organiseren korte pleziertochtjes en kustexcursies vanaf de kade die goed opgevoede honden aan dek verwelkomen, een onvergetelijk uitstapje dat door geen enkel strandverbod wordt geraakt.",
           "dogPolicyDe": "Hafen ist im Freien; viele Bootstouren heißen Hunde an der Leine an Deck willkommen",
+          "dogPolicyNl": "Haven is buiten; veel boottochten verwelkomen honden aan de lijn aan dek",
           "admissionFeeDe": "Hafen kostenlos; Bootstouren pro Fahrt kostenpflichtig",
-          "tipDe": "Bestätigen Sie die Hunderichtlinie beim jeweiligen Bootsbetreiber vor dem Einsteigen, und wählen Sie einen ruhigen Tag, falls Ihr Hund dem Wasser gegenüber unsicher ist."
+          "admissionFeeNl": "Haven gratis; boottochten kosten per rit",
+          "tipDe": "Bestätigen Sie die Hunderichtlinie beim jeweiligen Bootsbetreiber vor dem Einsteigen, und wählen Sie einen ruhigen Tag, falls Ihr Hund dem Wasser gegenüber unsicher ist.",
+          "tipNl": "Bevestig het hondenbeleid bij de betreffende bootexploitant voordat je aan boord gaat, en kies een rustige dag als je hond onzeker is op het water."
         }
       ],
       "tipsEn": [
@@ -945,7 +1059,9 @@
         }
       ],
       "titleDe": "Hundefreundliche Attraktionen in Whitby",
+      "titleNl": "Hondvriendelijke attracties in Whitby",
       "introDe": "Whitby trägt seine Geschichte nach außen, sodass sich vieles, was die Stadt besonders macht, mit einem Hund an Ihrer Seite erleben lässt: die Klosterruinen auf dem Klippenkamm, der Aufstieg über die 199 Stufen, der Hafen mit seinen Booten und die gotische Atmosphäre, die Bram Stokers Dracula inspirierte. Die meisten Höhepunkte der Stadt sind im Freien und hundefreundlich, und selbst Whitby Abbey heißt Hunde an kurzer Leine auf ihrem Gelände willkommen. Die drei folgenden sind das Wesentliche für einen ersten Besuch mit Hund.",
+      "introNl": "Whitby draagt zijn geschiedenis met trots, waardoor je veel van wat de stad bijzonder maakt met je hond aan je zijde kunt beleven: de kloosterruïnes op de klifrand, de klim via de 199 treden, de haven met zijn boten en de gotische sfeer die Bram Stokers Dracula inspireerde. De meeste hoogtepunten van de stad zijn buiten en hondvriendelijk, en zelfs Whitby Abbey verwelkomt honden aan een korte lijn op het terrein. De drie hieronder zijn de essentie voor een eerste bezoek met hond.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Whitby Abbey erlaubt?",
@@ -954,6 +1070,16 @@
         {
           "q": "Kann ich meinen Hund die 199 Stufen hinauf und um den Hafen mitnehmen?",
           "a": "Auf jeden Fall. Die 199 Stufen, der Friedhof von St. Mary's und das gesamte Hafengebiet sind im Freien und an der Leine hundefreundlich. Viele Hafen-Bootstouren heißen Hunde ebenfalls an Deck willkommen, wobei es sich lohnt, dies vorher beim Anbieter zu bestätigen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn honden toegestaan in Whitby Abbey?",
+          "a": "Ja. Goed opgevoede honden aan een korte lijn zijn welkom op het kloosterterrein, net als assistentiehonden. Honden mogen meestal niet in het overdekte bezoekerscentrum of museum, dus plan om elkaar af te wisselen als je daar naar binnen wilt."
+        },
+        {
+          "q": "Kan ik mijn hond meenemen de 199 treden op en rond de haven?",
+          "a": "Absoluut. De 199 treden, de begraafplaats van St. Mary's en het hele havengebied zijn buiten en hondvriendelijk aan de lijn. Veel boottochten in de haven verwelkomen honden ook aan dek, al is het de moeite waard dit vooraf bij de aanbieder te bevestigen."
         }
       ]
     },
@@ -985,8 +1111,11 @@
           "tipEs": "Bueno para paseos diurnos o un taxi de mascotas; contacta con antelación, sobre todo en los meses de verano concurridos.",
           "tipPt": "Bom para passeios diurnos ou um táxi de animais; contacte com antecedência, sobretudo nos movimentados meses de verão.",
           "descriptionDe": "Ein familiengeführtes, vollständig versichertes Haustierdienstleistungsunternehmen mit Sitz in Whitby, das Gassigehen, Haustierbetreuung, Tiertaxi und verwandte Dienstleistungen anbietet, mit aktueller DBS-Registrierung. Eine praktische Option für die Betreuung tagsüber, während Sie eine Attraktion im Innenbereich besuchen oder einen Ausflug ohne Hund unternehmen.",
+          "descriptionNl": "Een familiebedrijf, volledig verzekerd, gevestigd in Whitby, dat hondenuitlaatservice, huisdierverzorging, huisdiertaxi en gerelateerde diensten aanbiedt, met een actuele DBS-registratie. Een handige optie voor overdag oppas terwijl je een attractie binnen bezoekt of een uitstapje zonder hond maakt.",
           "serviceTypeDe": "Gassigehen, Haustierbetreuung und Tiertaxi",
-          "tipDe": "Gut für tagsüber Gassirunden oder ein Tiertaxi; im Voraus kontaktieren, besonders in den geschäftigen Sommermonaten."
+          "serviceTypeNl": "Hondenuitlaatservice, huisdierverzorging en huisdiertaxi",
+          "tipDe": "Gut für tagsüber Gassirunden oder ein Tiertaxi; im Voraus kontaktieren, besonders in den geschäftigen Sommermonaten.",
+          "tipNl": "Goed voor uitlaatrondjes overdag of een huisdiertaxi; neem van tevoren contact op, vooral in de drukke zomermaanden."
         },
         {
           "name": "Wagging Tails of Ellerby",
@@ -1006,8 +1135,11 @@
           "tipEs": "El alojamiento en casa se llena rápido en verano; consulta con bastante antelación si necesitas cobertura nocturna durante tu estancia.",
           "tipPt": "O alojamento familiar enche depressa no verão; informe-se com bastante antecedência se precisar de cobertura noturna durante a estadia.",
           "descriptionDe": "Ein lizenzierter Heimunterbringungsdienst in der Nähe von Whitby, im Dorf Ellerby, der Urlaubsunterbringung und Tagesbetreuung in einer häuslichen Umgebung statt in Zwingern anbietet. Lizenziert vom North Yorkshire Council, vollständig versichert und tierärztlich registriert, ist es eine beruhigende Option, falls Sie während einer längeren Reise eine Übernachtungsbetreuung benötigen.",
+          "descriptionNl": "Een gelicentieerde thuisopvangdienst bij Whitby, in het dorp Ellerby, die vakantieopvang en dagopvang biedt in een huiselijke omgeving in plaats van in kennels. Gelicentieerd door North Yorkshire Council, volledig verzekerd en geregistreerd bij een dierenarts, is het een geruststellende optie als je tijdens een langere reis overnachtingsopvang nodig hebt.",
           "serviceTypeDe": "Lizenzierte Heimunterbringung und Tagesbetreuung",
-          "tipDe": "Heimunterbringungen sind im Sommer schnell ausgebucht; fragen Sie frühzeitig an, falls Sie während Ihres Aufenthalts eine Übernachtungsbetreuung benötigen."
+          "serviceTypeNl": "Gelicentieerde thuisopvang en dagopvang",
+          "tipDe": "Heimunterbringungen sind im Sommer schnell ausgebucht; fragen Sie frühzeitig an, falls Sie während Ihres Aufenthalts eine Übernachtungsbetreuung benötigen.",
+          "tipNl": "Thuisopvang is in de zomer snel volgeboekt; vraag vroeg aan als je tijdens je verblijf overnachtingsopvang nodig hebt."
         }
       ],
       "tipsEn": [
@@ -1071,7 +1203,9 @@
         }
       ],
       "titleDe": "Hundebetreuung und Unterbringung in Whitby",
+      "titleNl": "Hondenoppas en opvang in Whitby",
       "introDe": "Whitby ist eine so hundefreundliche Stadt, dass Sie Ihren Hund kaum je zurücklassen müssen, aber für die gelegentliche Attraktion im Innenbereich, eine lange Bootstour oder ein Essen an einem Ort, an dem Hunde nicht erlaubt sind, gibt es lokale Betreuer, Gassigeher und lizenzierte Heimunterbringungen in der Stadt und den umliegenden Dörfern. Buchen Sie in der geschäftigen Sommersaison und rund um die Goth Weekends im Voraus, und bestätigen Sie immer Lizenzierung und Versicherung. Die unten genannten Optionen sind etablierte lokale Dienstleister.",
+      "introNl": "Whitby is zo'n hondvriendelijke stad dat je je hond bijna nooit hoeft achter te laten, maar voor die ene attractie binnen, een lange boottocht of een etentje op een plek waar honden niet welkom zijn, zijn er lokale oppassers, uitlaters en gelicentieerde thuisopvang in de stad en de omliggende dorpen. Boek van tevoren tijdens het drukke zomerseizoen en rond de Goth Weekends, en controleer altijd licentie en verzekering. De onderstaande opties zijn gevestigde lokale dienstverleners.",
       "faqsDe": [
         {
           "q": "Brauche ich einen Hundesitter in Whitby?",
@@ -1080,6 +1214,16 @@
         {
           "q": "Gibt es lizenzierte Hundeunterbringungen in der Nähe von Whitby?",
           "a": "Ja. Es gibt vom North Yorkshire Council lizenzierte Heimunterbringungen in Whitby und den umliegenden Dörfern, wie Wagging Tails of Ellerby, die Betreuung zu Hause statt in einer Zwingeranlage anbieten. Buchen Sie im Sommer im Voraus und bestätigen Sie Lizenzierung und Versicherung."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Heb ik een hondenoppas nodig in Whitby?",
+          "a": "Meestal niet. Whitby is uitzonderlijk hondvriendelijk, met honden welkom bij de meeste wandelingen, op het kloosterterrein en in veel pubs. Een oppas of thuisopvang is vooral handig voor die ene attractie binnen of een langer uitstapje zonder hond."
+        },
+        {
+          "q": "Zijn er gelicentieerde hondenopvangplekken bij Whitby?",
+          "a": "Ja. Er zijn door North Yorkshire Council gelicentieerde thuisopvangplekken in Whitby en de omliggende dorpen, zoals Wagging Tails of Ellerby, die opvang thuis bieden in plaats van in een kennel. Boek in de zomer van tevoren en controleer licentie en verzekering."
         }
       ]
     }

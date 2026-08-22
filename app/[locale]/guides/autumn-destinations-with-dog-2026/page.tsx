@@ -12,7 +12,7 @@ import { getLocalizedCityName } from '@/lib/cityNames'
 const SLUG = 'autumn-destinations-with-dog-2026'
 const CAMPAIGN = 'autumn-dog'
 
-type L4 = { en: string; fr: string; es: string; pt: string; de: string; nl: string }
+type L4 = { en: string; fr: string; es: string; pt: string; de: string; nl: string; it: string }
 type Dest = {
   slug: string
   name: string
@@ -40,6 +40,7 @@ const THEMES: Theme[] = [
       pt: 'Onde as praias reabrem aos cães depois de 30 de setembro',
       de: 'Wo Hundestrände nach dem 30. September wieder öffnen',
       nl: 'Waar hondenstranden na 30 september weer opengaan',
+      it: 'Dove le spiagge per cani riaprono dopo il 30 settembre',
     },
     blurb: {
       en: 'Across most of the Spanish and Portuguese coast, municipalities ban dogs from the main beaches during the official bathing season and lift the ban around 1 October. From then until spring your dog is back on the sand, the water is still swimmable, and the crowds are gone. Always check the local ordinance, dates vary by town.',
@@ -48,6 +49,7 @@ const THEMES: Theme[] = [
       pt: 'Em grande parte do litoral espanhol e português, os municípios proíbem os cães nas praias principais durante a época balnear oficial e levantam a proibição por volta de 1 de outubro. A partir daí e até à primavera o seu cão volta à areia, a água continua a dar banhos e as multidões desapareceram. Consulte sempre o regulamento local, as datas variam de terra para terra.',
       de: `An weiten Teilen der spanischen und portugiesischen Küste verbieten die Gemeinden Hunde während der offiziellen Badesaison auf den Hauptstränden und heben das Verbot um den 1. Oktober herum auf. Von da an bis zum Frühling darf Ihr Hund wieder auf den Sand, das Wasser ist noch angenehm, und die Menschenmassen sind verschwunden. Prüfen Sie immer die örtliche Verordnung, die Termine variieren von Stadt zu Stadt.`,
       nl: `Langs een groot deel van de Spaanse en Portugese kust verbieden gemeenten honden op de hoofdstranden tijdens het officiële badseizoen en heffen ze dat verbod rond 1 oktober weer op. Vanaf dan tot het voorjaar mag jouw hond weer het zand op, het water is nog zwembaar en de drukte is verdwenen. Check altijd de plaatselijke verordening, de data verschillen per gemeente.`,
+      it: `In gran parte della costa spagnola e portoghese, i comuni vietano i cani sulle spiagge principali durante la stagione balneare ufficiale e revocano il divieto intorno al 1° ottobre. Da quel momento fino alla primavera il tuo cane torna sulla sabbia, l'acqua è ancora balneabile e la folla è sparita. Controlla sempre l'ordinanza locale, le date variano da comune a comune.`,
     },
     destinations: [
       {
@@ -55,7 +57,7 @@ const THEMES: Theme[] = [
         name: 'Fuengirola',
         country: 'Spain',
         octTemp: 24,
-        tag: { en: 'Costa del Sol · year-round dog beach', fr: 'Costa del Sol · plage canine toute l\'année', es: 'Costa del Sol · playa canina todo el año', pt: 'Costa del Sol · praia canina todo o ano', de: 'Costa del Sol · ganzjähriger Hundestrand', nl: 'Costa del Sol · hondenstrand het hele jaar door' },
+        tag: { en: 'Costa del Sol · year-round dog beach', fr: 'Costa del Sol · plage canine toute l\'année', es: 'Costa del Sol · playa canina todo el año', pt: 'Costa del Sol · praia canina todo o ano', de: 'Costa del Sol · ganzjähriger Hundestrand', nl: 'Costa del Sol · hondenstrand het hele jaar door', it: `Costa del Sol · spiaggia per cani tutto l'anno` },
         why: {
           en: 'Fuengirola keeps one of Andalusia\'s few official year-round dog beaches at Castillo Sohail, and in October the sea is still 22°C. The 7 km promenade, seven fenced dog parks and a free Cercanías train from Málaga Airport make it the easiest autumn base on the coast.',
           fr: `Fuengirola conserve l'une des rares plages canines officielles ouvertes toute l'année en Andalousie, au Castillo Sohail, et en octobre la mer est encore à 22°C. La promenade de 7 km, sept parcs canins clôturés et un train Cercanías gratuit depuis l'aéroport de Malaga en font la base d'automne la plus simple de la côte.`,
@@ -63,6 +65,7 @@ const THEMES: Theme[] = [
           pt: 'Fuengirola mantém uma das poucas praias caninas oficiais da Andaluzia aberta todo o ano, no Castillo Sohail, e em outubro o mar continua a 22°C. O passeio de 7 km, sete parques caninos vedados e um comboio Cercanías gratuito a partir do aeroporto de Málaga fazem dela a base de outono mais fácil da costa.',
           de: `Fuengirola hat mit dem Castillo Sohail einen der wenigen offiziellen ganzjährigen Hundestrände Andalusiens, und im Oktober liegt das Meer noch bei 22°C. Die 7 km lange Strandpromenade, sieben eingezäunte Hundeparks und ein kostenloser Cercanías-Zug vom Flughafen Málaga machen die Stadt zur einfachsten Herbstbasis an der Küste.`,
           nl: `Fuengirola heeft met Castillo Sohail een van de weinige officiële hondenstranden van Andalusië die het hele jaar open zijn, en in oktober ligt de zee nog op 22°C. De 7 km lange boulevard, zeven omheinde hondenparkjes en een gratis Cercanías-trein vanaf de luchthaven van Málaga maken het de makkelijkste herfstbasis aan de kust.`,
+          it: `Fuengirola conserva con Castillo Sohail una delle poche spiagge per cani ufficiali dell'Andalusia aperte tutto l'anno, e in ottobre il mare è ancora a 22°C. Il lungomare di 7 km, sette parchi per cani recintati e un treno Cercanías gratuito dall'aeroporto di Málaga la rendono la base autunnale più semplice della costa.`,
         },
       },
       {
@@ -70,7 +73,7 @@ const THEMES: Theme[] = [
         name: 'Nerja',
         country: 'Spain',
         octTemp: 24,
-        tag: { en: 'Balcón de Europa · quiet coves', fr: 'Balcón de Europa · criques calmes', es: 'Balcón de Europa · calas tranquilas', pt: 'Balcón de Europa · enseadas calmas', de: 'Balcón de Europa · ruhige Buchten', nl: 'Balcón de Europa · rustige baaien' },
+        tag: { en: 'Balcón de Europa · quiet coves', fr: 'Balcón de Europa · criques calmes', es: 'Balcón de Europa · calas tranquilas', pt: 'Balcón de Europa · enseadas calmas', de: 'Balcón de Europa · ruhige Buchten', nl: 'Balcón de Europa · rustige baaien', it: 'Balcón de Europa · baie tranquille' },
         why: {
           en: 'Once the summer ban lifts, Nerja\'s small coves below the Balcón de Europa become dog-friendly again, and the cliff paths east towards Maro stay warm at 24°C well into November. Fewer day-trippers than Málaga, more space for a dog to swim.',
           fr: `Une fois l'interdiction estivale levée, les petites criques de Nerja sous le Balcón de Europa redeviennent accessibles aux chiens, et les sentiers de falaise vers Maro restent doux à 24°C jusqu'en novembre. Moins de visiteurs qu'à Malaga, plus de place pour la baignade du chien.`,
@@ -78,6 +81,7 @@ const THEMES: Theme[] = [
           pt: 'Levantada a proibição de verão, as pequenas enseadas de Nerja por baixo do Balcón de Europa voltam a aceitar cães, e os trilhos de falésia para Maro mantêm-se amenos a 24°C até novembro. Menos visitantes de um dia do que Málaga, mais espaço para o cão nadar.',
           de: `Sobald das Sommerverbot aufgehoben wird, sind die kleinen Buchten von Nerja unterhalb des Balcón de Europa wieder hundefreundlich, und die Klippenpfade Richtung Maro bleiben mit 24°C bis weit in den November warm. Weniger Tagesausflügler als in Málaga, mehr Platz zum Schwimmen für den Hund.`,
           nl: `Zodra het zomerverbod wordt opgeheven, zijn de kleine baaien van Nerja onder de Balcón de Europa weer hondvriendelijk, en de klifpaden richting Maro blijven tot ver in november warm bij 24°C. Minder dagjesmensen dan in Málaga, meer ruimte voor je hond om te zwemmen.`,
+          it: `Una volta revocato il divieto estivo, le piccole cale di Nerja sotto il Balcón de Europa tornano ad accettare i cani, e i sentieri sulla scogliera verso Maro restano caldi a 24°C fino a novembre inoltrato. Meno turisti giornalieri rispetto a Málaga, più spazio per far nuotare il tuo cane.`,
         },
       },
       {
@@ -85,7 +89,7 @@ const THEMES: Theme[] = [
         name: 'Tarifa',
         country: 'Spain',
         octTemp: 19,
-        tag: { en: 'Endless Atlantic sand · Punta Paloma', fr: 'Sable atlantique infini · Punta Paloma', es: 'Arena atlántica infinita · Punta Paloma', pt: 'Areal atlântico infinito · Punta Paloma', de: 'Endloser Atlantiksand · Punta Paloma', nl: 'Eindeloos Atlantisch zand · Punta Paloma' },
+        tag: { en: 'Endless Atlantic sand · Punta Paloma', fr: 'Sable atlantique infini · Punta Paloma', es: 'Arena atlántica infinita · Punta Paloma', pt: 'Areal atlântico infinito · Punta Paloma', de: 'Endloser Atlantiksand · Punta Paloma', nl: 'Eindeloos Atlantisch zand · Punta Paloma', it: 'Sabbia atlantica infinita · Punta Paloma' },
         why: {
           en: 'Tarifa\'s huge open Atlantic beaches at Los Lances and Punta Paloma are wide enough that dogs run off-lead out of season without bothering anyone. The Levante wind eases in autumn, and Africa sits on the horizon across the strait. Cooler at 19°C, ideal for active dogs.',
           fr: `Les immenses plages atlantiques de Tarifa, à Los Lances et Punta Paloma, sont assez vastes pour que les chiens courent sans laisse hors saison sans gêner personne. Le vent de Levante faiblit en automne et l'Afrique se dessine à l'horizon, de l'autre côté du détroit. Plus frais, à 19°C, idéal pour les chiens actifs.`,
@@ -93,6 +97,7 @@ const THEMES: Theme[] = [
           pt: 'Os enormes areais atlânticos de Tarifa, em Los Lances e Punta Paloma, são tão amplos que os cães correm sem trela fora de época sem incomodar ninguém. O vento de Levante abranda no outono e a África desenha-se no horizonte, do outro lado do estreito. Mais fresco, a 19°C, ideal para cães ativos.',
           de: `Tarifas riesige, offene Atlantikstrände Los Lances und Punta Paloma sind außerhalb der Saison so weitläufig, dass Hunde ohne Leine laufen können, ohne jemanden zu stören. Der Levante-Wind lässt im Herbst nach, und am Horizont jenseits der Meerenge liegt Afrika. Mit 19°C kühler, ideal für aktive Hunde.`,
           nl: `Tarifa's enorme, open Atlantische stranden Los Lances en Punta Paloma zijn buiten het seizoen zo uitgestrekt dat honden los kunnen rennen zonder iemand te storen. De Levante-wind luwt in de herfst, en aan de horizon achter de zeestraat ligt Afrika. Koeler bij 19°C, ideaal voor actieve honden.`,
+          it: `Le enormi spiagge atlantiche aperte di Tarifa, Los Lances e Punta Paloma, sono così vaste che fuori stagione i cani possono correre senza guinzaglio senza disturbare nessuno. Il vento di Levante si attenua in autunno, e all'orizzonte oltre lo stretto si intravede l'Africa. Più fresco, a 19°C, ideale per cani attivi.`,
         },
       },
       {
@@ -100,7 +105,7 @@ const THEMES: Theme[] = [
         name: 'Cascais',
         country: 'Portugal',
         octTemp: 21,
-        tag: { en: 'Lisbon coast · Guincho dunes', fr: 'Côte de Lisbonne · dunes de Guincho', es: 'Costa de Lisboa · dunas de Guincho', pt: 'Costa de Lisboa · dunas do Guincho', de: 'Küste bei Lissabon · Dünen von Guincho', nl: 'Kust bij Lissabon · duinen van Guincho' },
+        tag: { en: 'Lisbon coast · Guincho dunes', fr: 'Côte de Lisbonne · dunes de Guincho', es: 'Costa de Lisboa · dunas de Guincho', pt: 'Costa de Lisboa · dunas do Guincho', de: 'Küste bei Lissabon · Dünen von Guincho', nl: 'Kust bij Lissabon · duinen van Guincho', it: 'Costa di Lisbona · dune di Guincho' },
         why: {
           en: 'Half an hour by dog-friendly train from Lisbon, Cascais pairs a sheltered bay with the wild Guincho dunes inside Sintra-Cascais Natural Park. Out of season the boardwalks and the Boca do Inferno cliff walk are quiet, and October holds a steady 21°C.',
           fr: `À une demi-heure de Lisbonne en train ouvert aux chiens, Cascais associe une baie abritée aux dunes sauvages de Guincho, dans le parc naturel de Sintra-Cascais. Hors saison, les passerelles et le sentier de la falaise Boca do Inferno sont calmes, et octobre tient un stable 21°C.`,
@@ -108,6 +113,7 @@ const THEMES: Theme[] = [
           pt: 'A meia hora de Lisboa num comboio que aceita cães, Cascais junta uma baía abrigada às dunas selvagens do Guincho, dentro do Parque Natural de Sintra-Cascais. Fora de época, os passadiços e o trilho da falésia da Boca do Inferno estão calmos, e outubro segura uns estáveis 21°C.',
           de: `Eine halbe Stunde mit dem hundefreundlichen Zug von Lissabon entfernt, verbindet Cascais eine geschützte Bucht mit den wilden Dünen von Guincho im Naturpark Sintra-Cascais. Außerhalb der Saison sind die Holzstege und der Klippenweg Boca do Inferno ruhig, und der Oktober hält konstant 21°C.`,
           nl: `Een half uur met de hondvriendelijke trein vanuit Lissabon combineert Cascais een beschutte baai met de wilde duinen van Guincho in het Natuurpark Sintra-Cascais. Buiten het seizoen zijn de houten wandelpaden en de klifwandeling langs Boca do Inferno rustig, en oktober houdt een stabiele 21°C aan.`,
+          it: `A mezz'ora di treno pet-friendly da Lisbona, Cascais unisce una baia riparata alle dune selvagge di Guincho, dentro il Parco Naturale di Sintra-Cascais. Fuori stagione le passerelle di legno e il sentiero sulla scogliera di Boca do Inferno sono tranquilli, e ottobre mantiene un stabile 21°C.`,
         },
       },
       {
@@ -115,7 +121,7 @@ const THEMES: Theme[] = [
         name: 'Albufeira',
         country: 'Portugal',
         octTemp: 21,
-        tag: { en: 'Algarve · Praia da Marinha cliffs', fr: 'Algarve · falaises de Praia da Marinha', es: 'Algarve · acantilados de Praia da Marinha', pt: 'Algarve · falésias da Praia da Marinha', de: 'Algarve · Klippen von Praia da Marinha', nl: 'Algarve · kliffen van Praia da Marinha' },
+        tag: { en: 'Algarve · Praia da Marinha cliffs', fr: 'Algarve · falaises de Praia da Marinha', es: 'Algarve · acantilados de Praia da Marinha', pt: 'Algarve · falésias da Praia da Marinha', de: 'Algarve · Klippen von Praia da Marinha', nl: 'Algarve · kliffen van Praia da Marinha', it: 'Algarve · scogliere di Praia da Marinha' },
         why: {
           en: 'The Algarve empties out in October, and the cliff-top Seven Hanging Valleys trail above Albufeira is at its best without summer heat. Several beaches allow dogs once the season ends, and the sea holds 21°C into November. Direct flights keep it cheap off-peak.',
           fr: `L'Algarve se vide en octobre, et le sentier des Sete Vales Suspensos au-dessus d'Albufeira donne le meilleur de lui-même sans la chaleur estivale. Plusieurs plages acceptent les chiens dès la fin de saison, et la mer garde 21°C jusqu'en novembre. Les vols directs restent bon marché hors pointe.`,
@@ -123,6 +129,7 @@ const THEMES: Theme[] = [
           pt: 'O Algarve esvazia-se em outubro, e o trilho dos Sete Vales Suspensos por cima de Albufeira dá o seu melhor sem o calor do verão. Várias praias aceitam cães assim que a época termina, e o mar segura 21°C até novembro. Os voos diretos mantêm-se baratos fora de pico.',
           de: `Die Algarve leert sich im Oktober, und der Klippenweg der Sete Vales Suspensos oberhalb von Albufeira zeigt sich ohne Sommerhitze von seiner besten Seite. Mehrere Strände erlauben Hunde, sobald die Saison endet, und das Meer hält bis November 21°C. Direktflüge bleiben außerhalb der Hochsaison günstig.`,
           nl: `De Algarve loopt in oktober leeg, en het klifpad van de Sete Vales Suspensos boven Albufeira is op zijn best zonder de zomerhitte. Verschillende stranden staan honden toe zodra het seizoen afloopt, en de zee blijft tot november 21°C. Directe vluchten blijven goedkoop buiten het hoogseizoen.`,
+          it: `L'Algarve si svuota in ottobre, e il sentiero panoramico dei Sete Vales Suspensos sopra Albufeira dà il meglio di sé senza il caldo estivo. Diverse spiagge ammettono i cani non appena finisce la stagione, e il mare resta a 21°C fino a novembre. I voli diretti restano economici fuori dall'alta stagione.`,
         },
       },
       {
@@ -130,7 +137,7 @@ const THEMES: Theme[] = [
         name: 'Olhão',
         country: 'Portugal',
         octTemp: 21,
-        tag: { en: 'Ria Formosa · island ferries', fr: 'Ria Formosa · ferries vers les îles', es: 'Ria Formosa · ferris a las islas', pt: 'Ria Formosa · ferries para as ilhas', de: 'Ria Formosa · Fähren zu den Inseln', nl: 'Ria Formosa · veerboten naar de eilanden' },
+        tag: { en: 'Ria Formosa · island ferries', fr: 'Ria Formosa · ferries vers les îles', es: 'Ria Formosa · ferris a las islas', pt: 'Ria Formosa · ferries para as ilhas', de: 'Ria Formosa · Fähren zu den Inseln', nl: 'Ria Formosa · veerboten naar de eilanden', it: 'Ria Formosa · traghetti per le isole' },
         why: {
           en: 'Olhão sits on the Ria Formosa lagoon, a maze of salt marsh and barrier islands where autumn brings flamingos and mild 21°C days. Dogs travel on the island ferries, and the sandy Ilha da Armona has huge empty stretches once the summer ban ends.',
           fr: `Olhão borde la lagune de la Ria Formosa, un dédale de marais salants et d'îles-barrières où l'automne amène les flamants roses et des journées douces à 21°C. Les chiens montent sur les ferries des îles, et l'Ilha da Armona offre d'immenses étendues de sable désertes une fois l'interdiction estivale terminée.`,
@@ -138,6 +145,7 @@ const THEMES: Theme[] = [
           pt: 'Olhão debruça-se sobre a Ria Formosa, um labirinto de sapal e ilhas-barreira onde o outono traz flamingos e dias amenos de 21°C. Os cães viajam nos ferries para as ilhas, e a arenosa Ilha da Armona oferece enormes areais vazios assim que a proibição de verão termina.',
           de: `Olhão liegt an der Lagune Ria Formosa, einem Labyrinth aus Salzmarschen und vorgelagerten Inseln, wo der Herbst Flamingos und milde 21°C-Tage bringt. Hunde reisen auf den Inselfähren mit, und die sandige Ilha da Armona bietet riesige leere Abschnitte, sobald das Sommerverbot endet.`,
           nl: `Olhão ligt aan de lagune Ria Formosa, een labyrint van zoutmoerassen en voorgelegen eilanden waar de herfst flamingo's en milde dagen van 21°C brengt. Honden reizen mee op de eilandveerboten, en het zandige Ilha da Armona biedt enorme lege stukken zodra het zomerverbod eindigt.`,
+          it: `Olhão si affaccia sulla laguna della Ria Formosa, un labirinto di saline e isole barriera dove l'autunno porta fenicotteri e giornate miti di 21°C. I cani viaggiano sui traghetti per le isole, e la sabbiosa Ilha da Armona offre enormi tratti deserti non appena finisce il divieto estivo.`,
         },
       },
     ],
@@ -152,6 +160,7 @@ const THEMES: Theme[] = [
       pt: 'Costa atlântica do norte, dourada e vazia',
       de: 'Atlantische Nordküste, golden und leer',
       nl: 'Atlantische noordkust, goudkleurig en leeg',
+      it: 'Costa atlantica del nord, dorata e deserta',
     },
     blurb: {
       en: 'Green Spain keeps its warmest, most stable weather for the shoulder season. September and October bring soft light, calm seas and beaches that never had a strict summer dog ban to begin with. Bring a towel, the Atlantic is bracing.',
@@ -160,6 +169,7 @@ const THEMES: Theme[] = [
       pt: 'A Espanha verde guarda o seu tempo mais ameno e estável para a época intermédia. Setembro e outubro trazem luz suave, mar calmo e praias que nunca tiveram uma proibição de verão rígida. Leve uma toalha, o Atlântico é revigorante.',
       de: `Das grüne Spanien hebt sich sein mildestes, stabilstes Wetter für die Nebensaison auf. September und Oktober bringen sanftes Licht, ruhige See und Strände, die nie ein strenges Sommerverbot für Hunde kannten. Bringen Sie ein Handtuch mit, der Atlantik ist erfrischend kühl.`,
       nl: `Groen Spanje bewaart zijn zachtste, stabielste weer voor het tussenseizoen. September en oktober brengen zacht licht, kalme zee en stranden die nooit een streng zomerverbod voor honden hebben gekend. Neem een handdoek mee, de Atlantische Oceaan is verfrissend koel.`,
+      it: `La Spagna verde riserva il suo clima più mite e stabile per la mezza stagione. Settembre e ottobre portano luce soffusa, mare calmo e spiagge che non hanno mai conosciuto un rigido divieto estivo per i cani. Porta un asciugamano, l'Atlantico è rinfrescante.`,
     },
     destinations: [
       {
@@ -167,7 +177,7 @@ const THEMES: Theme[] = [
         name: 'San Sebastián',
         country: 'Spain',
         octTemp: 15,
-        tag: { en: 'La Concha bay · Basque pintxos', fr: 'Baie de la Concha · pintxos basques', es: 'Bahía de la Concha · pintxos vascos', pt: 'Baía da Concha · pintxos bascos', de: 'Bucht von La Concha · baskische Pintxos', nl: 'Baai van La Concha · Baskische pintxos' },
+        tag: { en: 'La Concha bay · Basque pintxos', fr: 'Baie de la Concha · pintxos basques', es: 'Bahía de la Concha · pintxos vascos', pt: 'Baía da Concha · pintxos bascos', de: 'Bucht von La Concha · baskische Pintxos', nl: 'Baai van La Concha · Baskische pintxos', it: 'Baia della Concha · pintxos baschi' },
         why: {
           en: 'The Concha bay is at its calmest in autumn, and the Zurriola surf beach allows dogs outside the summer season. Basque pintxos bars are famously relaxed about a well-behaved dog at your feet, and Monte Igueldo walks stay comfortable at 15°C.',
           fr: `La baie de la Concha est au plus calme en automne, et la plage de surf de la Zurriola accepte les chiens hors saison estivale. Les bars à pintxos basques sont réputés détendus avec un chien sage à vos pieds, et les balades du Monte Igueldo restent agréables à 15°C.`,
@@ -175,6 +185,7 @@ const THEMES: Theme[] = [
           pt: 'A baía da Concha está no seu ponto mais calmo no outono, e a praia de surf da Zurriola aceita cães fora da época de verão. Os bares de pintxos bascos são conhecidos pela descontração com um cão calmo aos seus pés, e os passeios do Monte Igueldo mantêm-se agradáveis a 15°C.',
           de: `Die Bucht von La Concha ist im Herbst am ruhigsten, und der Surfstrand Zurriola erlaubt Hunde außerhalb der Sommersaison. Baskische Pintxos-Bars sind bekannt dafür, entspannt mit einem wohlerzogenen Hund zu Füßen umzugehen, und Spaziergänge am Monte Igueldo bleiben bei 15°C angenehm.`,
           nl: `De baai van La Concha is in de herfst op zijn rustigst, en het surfstrand Zurriola staat honden toe buiten het zomerseizoen. Baskische pintxos-bars staan erom bekend ontspannen te zijn over een brave hond aan je voeten, en wandelingen op de Monte Igueldo blijven aangenaam bij 15°C.`,
+          it: `La baia della Concha è al suo massimo di tranquillità in autunno, e la spiaggia da surf di Zurriola ammette i cani fuori dalla stagione estiva. I bar di pintxos baschi sono famosi per la loro disinvoltura verso un cane educato ai tuoi piedi, e le passeggiate sul Monte Igueldo restano piacevoli a 15°C.`,
         },
       },
       {
@@ -182,7 +193,7 @@ const THEMES: Theme[] = [
         name: 'Sanxenxo',
         country: 'Spain',
         octTemp: 19,
-        tag: { en: 'Rías Baixas · Galician seafood', fr: 'Rías Baixas · fruits de mer galiciens', es: 'Rías Baixas · marisco gallego', pt: 'Rías Baixas · marisco galego', de: 'Rías Baixas · galicische Meeresfrüchte', nl: 'Rías Baixas · Galicische zeevruchten' },
+        tag: { en: 'Rías Baixas · Galician seafood', fr: 'Rías Baixas · fruits de mer galiciens', es: 'Rías Baixas · marisco gallego', pt: 'Rías Baixas · marisco galego', de: 'Rías Baixas · galicische Meeresfrüchte', nl: 'Rías Baixas · Galicische zeevruchten', it: 'Rías Baixas · frutti di mare galiziani' },
         why: {
           en: 'Sanxenxo sits on the sheltered Rías Baixas, where sea temperatures peak in early autumn and 19°C days feel warmer out of the wind. Once the season closes, the long Silgar and Montalvo beaches open up to dogs, with Galician seafood taverns steps away.',
           fr: `Sanxenxo se niche dans les Rías Baixas abritées, où la mer atteint son pic en début d'automne et où 19°C paraissent plus chauds à l'abri du vent. La saison close, les longues plages de Silgar et Montalvo s'ouvrent aux chiens, à deux pas des tavernes de fruits de mer galiciennes.`,
@@ -190,6 +201,7 @@ const THEMES: Theme[] = [
           pt: 'Sanxenxo assenta nas abrigadas Rías Baixas, onde o mar atinge o pico no início do outono e os 19°C parecem mais quentes ao abrigo do vento. Fechada a época, os longos areais de Silgar e Montalvo abrem-se aos cães, com tascas de marisco galego a dois passos.',
           de: `Sanxenxo liegt an den geschützten Rías Baixas, wo die Meerestemperaturen im frühen Herbst ihren Höhepunkt erreichen und sich 19°C windgeschützt wärmer anfühlen. Nach Saisonende öffnen sich die langen Strände Silgar und Montalvo für Hunde, mit galicischen Meeresfrüchte-Tavernen nur wenige Schritte entfernt.`,
           nl: `Sanxenxo ligt aan de beschutte Rías Baixas, waar de zeetemperatuur begin herfst piekt en 19°C windvrij warmer aanvoelt. Na het einde van het seizoen gaan de lange stranden Silgar en Montalvo open voor honden, met Galicische zeevruchtentaveernes op een steenworp afstand.`,
+          it: `Sanxenxo si trova nelle riparate Rías Baixas, dove la temperatura del mare raggiunge il picco a inizio autunno e i 19°C sembrano più caldi al riparo dal vento. Finita la stagione, le lunghe spiagge di Silgar e Montalvo si aprono ai cani, con taverne di frutti di mare galiziani a due passi.`,
         },
       },
     ],
@@ -204,6 +216,7 @@ const THEMES: Theme[] = [
       pt: 'Lagos e cidades amenas, quando a multidão vai embora',
       de: 'Seen und milde Städte, sobald die Menschenmassen abziehen',
       nl: 'Meren en milde steden, zodra de drukte vertrekt',
+      it: 'Laghi e città miti, non appena la folla se ne va',
     },
     blurb: {
       en: 'Autumn is the connoisseur\'s season for lakes and southern cities: vineyards turning colour, terraces still open, hotel prices down and pavements you can actually walk with a dog. Warm enough for shirtsleeves, cool enough for real hiking.',
@@ -212,6 +225,7 @@ const THEMES: Theme[] = [
       pt: 'O outono é a época dos apreciadores para lagos e cidades do sul: vinhas a mudar de cor, esplanadas ainda abertas, preços de hotel em baixa e passeios finalmente percorríveis com um cão. Ameno que chegue para andar em mangas de camisa, fresco que chegue para caminhadas a sério.',
       de: `Der Herbst ist die Saison der Kenner für Seen und südliche Städte: Weinberge, die sich verfärben, noch geöffnete Terrassen, gesunkene Hotelpreise und Gehwege, die man tatsächlich mit einem Hund entlanggehen kann. Warm genug für Hemdsärmel, kühl genug für echtes Wandern.`,
       nl: `De herfst is het seizoen voor kenners van meren en zuidelijke steden: wijngaarden die verkleuren, terrassen die nog open zijn, gedaalde hotelprijzen en trottoirs waar je écht met een hond overheen kunt lopen. Warm genoeg voor korte mouwen, koel genoeg voor echte wandeltochten.`,
+      it: `L'autunno è la stagione degli intenditori per laghi e città del sud: vigneti che cambiano colore, terrazze ancora aperte, prezzi degli hotel in calo e marciapiedi dove puoi davvero camminare con un cane. Abbastanza caldo per le maniche corte, abbastanza fresco per vere escursioni.`,
     },
     destinations: [
       {
@@ -219,7 +233,7 @@ const THEMES: Theme[] = [
         name: 'Lake Como',
         country: 'Italy',
         octTemp: 13,
-        tag: { en: 'Alpine lake · autumn colour', fr: 'Lac alpin · couleurs d\'automne', es: 'Lago alpino · color de otoño', pt: 'Lago alpino · cor de outono', de: 'Alpensee · Herbstfarben', nl: 'Alpenmeer · herfstkleuren' },
+        tag: { en: 'Alpine lake · autumn colour', fr: 'Lac alpin · couleurs d\'automne', es: 'Lago alpino · color de otoño', pt: 'Lago alpino · cor de outono', de: 'Alpensee · Herbstfarben', nl: 'Alpenmeer · herfstkleuren', it: 'Lago alpino · colori autunnali' },
         why: {
           en: 'The Como ferries still run in October (dogs travel for about €1) but the summer crush is over. Lakeside promenades at Bellagio and Varenna turn gold, the mountain paths above are perfect at 13°C, and half the hotels drop their rates after the high season.',
           fr: `Les ferries du lac de Côme circulent encore en octobre (les chiens voyagent pour environ 1€) mais la cohue estivale est finie. Les promenades de Bellagio et Varenna se dorent, les sentiers de montagne au-dessus sont parfaits à 13°C, et la moitié des hôtels baissent leurs tarifs après la haute saison.`,
@@ -227,6 +241,7 @@ const THEMES: Theme[] = [
           pt: 'Os ferries do Lago de Como continuam a circular em outubro (os cães viajam por cerca de 1€) mas o aperto de verão acabou. Os passeios de Bellagio e Varenna douram-se, os trilhos de montanha lá em cima são perfeitos a 13°C, e metade dos hotéis baixam as tarifas depois da época alta.',
           de: `Die Fähren auf dem Comer See verkehren im Oktober noch (Hunde fahren für etwa 1€ mit), doch das Sommergedränge ist vorbei. Die Uferpromenaden von Bellagio und Varenna färben sich golden, die Bergpfade darüber sind bei 13°C perfekt, und die Hälfte der Hotels senkt nach der Hochsaison ihre Preise.`,
           nl: `De veerboten op het Comomeer varen in oktober nog (honden reizen mee voor ongeveer 1€), maar de zomerdrukte is voorbij. De oeverpromenades van Bellagio en Varenna kleuren goud, de bergpaden erboven zijn perfect bij 13°C, en de helft van de hotels verlaagt na het hoogseizoen de prijzen.`,
+          it: `I traghetti sul Lago di Como circolano ancora in ottobre (i cani viaggiano per circa 1€), ma la calca estiva è finita. Le passeggiate lungolago di Bellagio e Varenna si tingono d'oro, i sentieri di montagna sopra sono perfetti a 13°C, e metà degli hotel abbassa i prezzi dopo l'alta stagione.`,
         },
       },
       {
@@ -234,7 +249,7 @@ const THEMES: Theme[] = [
         name: 'Granada',
         country: 'Spain',
         octTemp: 17,
-        tag: { en: 'Alhambra city · Sierra Nevada air', fr: 'Ville de l\'Alhambra · air de la Sierra Nevada', es: 'Ciudad de la Alhambra · aire de Sierra Nevada', pt: 'Cidade da Alhambra · ar da Serra Nevada', de: 'Alhambra-Stadt · Luft der Sierra Nevada', nl: 'Alhambra-stad · lucht van de Sierra Nevada' },
+        tag: { en: 'Alhambra city · Sierra Nevada air', fr: 'Ville de l\'Alhambra · air de la Sierra Nevada', es: 'Ciudad de la Alhambra · aire de Sierra Nevada', pt: 'Cidade da Alhambra · ar da Serra Nevada', de: 'Alhambra-Stadt · Luft der Sierra Nevada', nl: 'Alhambra-stad · lucht van de Sierra Nevada', it: `Città dell'Alhambra · aria della Sierra Nevada` },
         why: {
           en: 'Granada is punishing in August but a joy at 17°C in October. The Albaicín lanes and the Río Darro path are made for slow dog walks, the Sierra Nevada foothills start at the edge of town, and free tapas with every drink keep the terraces lively.',
           fr: `Grenade est éprouvante en août mais un bonheur à 17°C en octobre. Les ruelles de l'Albaicín et le chemin du Río Darro sont faits pour les promenades tranquilles avec un chien, les contreforts de la Sierra Nevada commencent à la sortie de la ville, et les tapas offertes à chaque verre animent les terrasses.`,
@@ -242,6 +257,7 @@ const THEMES: Theme[] = [
           pt: 'Granada é dura em agosto mas uma alegria a 17°C em outubro. As vielas do Albaicín e o caminho do Río Darro são feitos para passeios tranquilos com cão, os sopés da Serra Nevada começam à saída da cidade, e as tapas gratuitas com cada bebida animam as esplanadas.',
           de: `Granada ist im August anstrengend, aber bei 17°C im Oktober eine Freude. Die Gassen des Albaicín und der Weg am Río Darro sind wie gemacht für gemütliche Hundespaziergänge, die Ausläufer der Sierra Nevada beginnen am Stadtrand, und kostenlose Tapas zu jedem Getränk halten die Terrassen lebendig.`,
           nl: `Granada is zwaar in augustus, maar een genot bij 17°C in oktober. De steegjes van de Albaicín en het pad langs de Río Darro zijn gemaakt voor rustige hondenwandelingen, de uitlopers van de Sierra Nevada beginnen aan de rand van de stad, en gratis tapas bij elk drankje houden de terrassen levendig.`,
+          it: `Granada è dura ad agosto, ma un piacere a 17°C in ottobre. I vicoli dell'Albaicín e il sentiero lungo il Río Darro sono fatti per tranquille passeggiate con il cane, le propaggini della Sierra Nevada iniziano ai margini della città, e le tapas gratis a ogni bevanda tengono vive le terrazze.`,
         },
       },
       {
@@ -249,7 +265,7 @@ const THEMES: Theme[] = [
         name: 'Valencia',
         country: 'Spain',
         octTemp: 21,
-        tag: { en: 'Turia park · city + beach', fr: 'Parc du Turia · ville + plage', es: 'Parque del Turia · ciudad + playa', pt: 'Parque do Turia · cidade + praia', de: 'Turia-Park · Stadt + Strand', nl: 'Turia-park · stad + strand' },
+        tag: { en: 'Turia park · city + beach', fr: 'Parc du Turia · ville + plage', es: 'Parque del Turia · ciudad + playa', pt: 'Parque do Turia · cidade + praia', de: 'Turia-Park · Stadt + Strand', nl: 'Turia-park · stad + strand', it: 'Parco del Turia · città + spiaggia' },
         why: {
           en: 'Valencia gives you a warm 21°C city with a nine-kilometre linear park in a drained riverbed, the Turia gardens, running right through it. Dogs are welcome the length of it, the Malvarrosa beach reopens to them off-season, and paella terraces stay open all autumn.',
           fr: `Valence, c'est une ville chaude à 21°C traversée par un parc linéaire de neuf kilomètres aménagé dans l'ancien lit du fleuve, les jardins du Turia. Les chiens y sont admis sur toute sa longueur, la plage de la Malvarrosa leur rouvre hors saison, et les terrasses à paella restent ouvertes tout l'automne.`,
@@ -257,6 +273,7 @@ const THEMES: Theme[] = [
           pt: 'Valência dá-lhe uma cidade quente a 21°C atravessada por um parque linear de nove quilómetros no antigo leito do rio, os jardins do Turia. Os cães são bem-vindos ao longo de todo ele, a praia da Malvarrosa volta a aceitá-los fora de época, e as esplanadas de paelha ficam abertas todo o outono.',
           de: `Valencia bietet eine warme 21°C-Stadt, durch die sich ein neun Kilometer langer Grünzug im trockengelegten Flussbett zieht, die Turia-Gärten. Hunde sind auf der gesamten Länge willkommen, der Strand Malvarrosa öffnet sich ihnen außerhalb der Saison wieder, und die Paella-Terrassen bleiben den ganzen Herbst geöffnet.`,
           nl: `Valencia biedt een warme stad van 21°C, doorkruist door een negen kilometer lang lint van groen in de drooggelegde rivierbedding, de Turia-tuinen. Honden zijn welkom over de hele lengte, het strand Malvarrosa staat ze buiten het seizoen weer toe, en de paella-terrassen blijven de hele herfst open.`,
+          it: `Valencia offre una città calda a 21°C, attraversata da una fascia verde lunga nove chilometri nell'antico letto del fiume, i giardini del Turia. I cani sono benvenuti per tutta la sua lunghezza, la spiaggia della Malvarrosa torna ad ammetterli fuori stagione, e le terrazze di paella restano aperte per tutto l'autunno.`,
         },
       },
     ],
@@ -264,9 +281,9 @@ const THEMES: Theme[] = [
 ]
 
 const SIBLING_GUIDES = [
-  { slug: 'winter-destinations-with-dog-2026', emoji: '❄️', label: { en: 'Winter destinations with your dog', fr: 'Destinations d\'hiver avec son chien', es: 'Destinos de invierno con tu perro', pt: 'Destinos de inverno com o seu cão', de: 'Winterreiseziele mit Ihrem Hund', nl: 'Winterbestemmingen met jouw hond' } },
-  { slug: 'escape-heat-dog-europe-2026', emoji: '🌡️', label: { en: 'Escape the summer heat with your dog', fr: 'Fuir la chaleur estivale avec son chien', es: 'Escapar del calor veraniego con tu perro', pt: 'Fugir do calor de verão com o seu cão', de: 'Der Sommerhitze entkommen mit Ihrem Hund', nl: 'Ontsnap aan de zomerhitte met jouw hond' } },
-  { slug: 'best-dog-beaches-europe-2026', emoji: '🏖️', label: { en: 'The best dog beaches in Europe', fr: 'Les meilleures plages canines d\'Europe', es: 'Las mejores playas caninas de Europa', pt: 'As melhores praias caninas da Europa', de: 'Die besten Hundestrände Europas', nl: 'De beste hondenstranden van Europa' } },
+  { slug: 'winter-destinations-with-dog-2026', emoji: '❄️', label: { en: 'Winter destinations with your dog', fr: 'Destinations d\'hiver avec son chien', es: 'Destinos de invierno con tu perro', pt: 'Destinos de inverno com o seu cão', de: 'Winterreiseziele mit Ihrem Hund', nl: 'Winterbestemmingen met jouw hond', it: 'Destinazioni invernali con il tuo cane' } },
+  { slug: 'escape-heat-dog-europe-2026', emoji: '🌡️', label: { en: 'Escape the summer heat with your dog', fr: 'Fuir la chaleur estivale avec son chien', es: 'Escapar del calor veraniego con tu perro', pt: 'Fugir do calor de verão com o seu cão', de: 'Der Sommerhitze entkommen mit Ihrem Hund', nl: 'Ontsnap aan de zomerhitte met jouw hond', it: 'Sfuggi al caldo estivo con il tuo cane' } },
+  { slug: 'best-dog-beaches-europe-2026', emoji: '🏖️', label: { en: 'The best dog beaches in Europe', fr: 'Les meilleures plages canines d\'Europe', es: 'Las mejores playas caninas de Europa', pt: 'As melhores praias caninas da Europa', de: 'Die besten Hundestrände Europas', nl: 'De beste hondenstranden van Europa', it: `Le migliori spiagge per cani d'Europa` } },
 ]
 
 // Top 3 value-sorted, real pet-friendly hotels per featured destination, shown
@@ -285,6 +302,7 @@ const T = {
     pt: 'Melhores destinos de outono 2026 para viajar com o seu cão',
     de: 'Die besten Herbstreiseziele 2026 für Reisen mit Ihrem Hund',
     nl: 'De beste herfstbestemmingen 2026 om met jouw hond op reis te gaan',
+    it: 'Le migliori destinazioni autunnali 2026 per viaggiare con il tuo cane',
   },
   metaTitle: {
     en: '11 Best Autumn Destinations to Travel With Your Dog (2026)',
@@ -293,6 +311,7 @@ const T = {
     pt: '11 melhores destinos de outono para viajar com o seu cão (2026)',
     de: '11 beste Herbstreiseziele für Reisen mit Ihrem Hund (2026)',
     nl: '11 beste herfstbestemmingen om met jouw hond op reis te gaan (2026)',
+    it: '11 migliori destinazioni autunnali per viaggiare con il tuo cane (2026)',
   },
   metaDesc: {
     en: 'Shoulder-season travel with your dog: 11 warm, quiet destinations across Spain, Portugal and Italy where dog beaches reopen after 30 September. Pet-friendly hotels included.',
@@ -301,6 +320,7 @@ const T = {
     pt: 'Viajar com o seu cão na época intermédia: 11 destinos amenos e calmos por Espanha, Portugal e Itália onde as praias reabrem aos cães depois de 30 de setembro. Hotéis pet-friendly incluídos.',
     de: 'Reisen mit Ihrem Hund in der Nebensaison: 11 warme, ruhige Reiseziele in Spanien, Portugal und Italien, wo Hundestrände nach dem 30. September wieder öffnen. Haustierfreundliche Hotels inklusive.',
     nl: 'Reizen met jouw hond in het tussenseizoen: 11 warme, rustige bestemmingen in Spanje, Portugal en Italië waar hondenstranden na 30 september weer opengaan. Huisdiervriendelijke hotels inbegrepen.',
+    it: 'Viaggiare con il tuo cane in mezza stagione: 11 destinazioni calde e tranquille tra Spagna, Portogallo e Italia dove le spiagge per cani riaprono dopo il 30 settembre. Hotel pet-friendly inclusi.',
   },
   intro: {
     en: 'Autumn is the smartest season to travel with a dog. The summer heat that endangers flat-faced and senior dogs is gone, the beach bans that keep dogs off the sand from June to September lift around 1 October, and the crowds and prices both drop. These 11 destinations across Spain, Portugal and Italy stay warm and welcoming well into November, and every one links to its own pet-friendly hotels.',
@@ -309,17 +329,18 @@ const T = {
     pt: 'O outono é a época mais inteligente para viajar com um cão. O calor de verão que põe em perigo os cães de cara achatada e idosos desapareceu, as proibições que mantêm os cães longe da areia de junho a setembro levantam-se por volta de 1 de outubro, e tanto as multidões como os preços descem. Estes 11 destinos por Espanha, Portugal e Itália mantêm-se amenos e acolhedores até novembro, e cada um liga aos seus próprios hotéis pet-friendly.',
     de: `Der Herbst ist die klügste Jahreszeit für Reisen mit einem Hund. Die Sommerhitze, die kurzköpfige und ältere Hunde gefährdet, ist vorbei, die Strandverbote, die Hunde von Juni bis September vom Sand fernhalten, werden um den 1. Oktober herum aufgehoben, und sowohl die Menschenmassen als auch die Preise sinken. Diese 11 Reiseziele in Spanien, Portugal und Italien bleiben bis weit in den November hinein warm und einladend, und jedes verlinkt zu seinen eigenen haustierfreundlichen Hotels.`,
     nl: `De herfst is het slimste seizoen om met een hond op reis te gaan. De zomerhitte die platsnuitige en oudere honden in gevaar brengt is voorbij, de strandverboden die honden van juni tot september van het zand weghouden worden rond 1 oktober opgeheven, en zowel de drukte als de prijzen dalen. Deze 11 bestemmingen in Spanje, Portugal en Italië blijven tot ver in november warm en gastvrij, en elke bestemming linkt naar zijn eigen huisdiervriendelijke hotels.`,
+    it: `L'autunno è la stagione più intelligente per viaggiare con un cane. Il caldo estivo che mette a rischio i cani brachicefali e anziani è finito, i divieti di spiaggia che tengono i cani lontani dalla sabbia da giugno a settembre vengono revocati intorno al 1° ottobre, e sia la folla che i prezzi calano. Queste 11 destinazioni tra Spagna, Portogallo e Italia restano calde e accoglienti fino a novembre inoltrato, e ognuna rimanda ai propri hotel pet-friendly.`,
   },
-  octTemp: { en: 'Oct avg high', fr: 'Max moy. oct.', es: 'Máx. prom. oct.', pt: 'Máx. méd. out.', de: 'Ø Höchstwert Okt.', nl: 'Gem. max. okt.' },
-  seeHotels: { en: 'See pet-friendly hotels', fr: 'Voir les hôtels pet-friendly', es: 'Ver hoteles pet-friendly', pt: 'Ver hotéis pet-friendly', de: 'Haustierfreundliche Hotels ansehen', nl: 'Bekijk huisdiervriendelijke hotels' },
-  seeGuide: { en: 'Destination guide', fr: 'Guide destination', es: 'Guía del destino', pt: 'Guia do destino', de: 'Reiseführer', nl: 'Bestemmingsgids' },
-  fromWord: { en: 'from', fr: 'dès', es: 'desde', pt: 'desde', de: 'ab', nl: 'vanaf' },
-  noFee: { en: 'no pet fee', fr: 'sans supplément', es: 'sin cargo mascota', pt: 'sem suplemento', de: 'keine Tiergebühr', nl: 'geen huisdiertoeslag' },
-  ourPicks: { en: '3 pet-friendly picks', fr: '3 adresses pet-friendly', es: '3 opciones pet-friendly', pt: '3 opções pet-friendly', de: '3 haustierfreundliche Adressen', nl: '3 huisdiervriendelijke tips' },
-  breadHome: { en: 'Home', fr: 'Accueil', es: 'Inicio', pt: 'Início', de: 'Startseite', nl: 'Home' },
-  breadGuides: { en: 'Guides', fr: 'Guides', es: 'Guías', pt: 'Guias', de: 'Reiseführer', nl: 'Gidsen' },
-  kicker: { en: 'Autumn & dogs', fr: 'Automne & chien', es: 'Otoño & perro', pt: 'Outono & cão', de: 'Herbst & Hund', nl: 'Herfst & hond' },
-  siblingTitle: { en: 'Plan the rest of the year', fr: 'Planifier le reste de l\'année', es: 'Planifica el resto del año', pt: 'Planeie o resto do ano', de: 'Den Rest des Jahres planen', nl: 'Plan de rest van het jaar' },
+  octTemp: { en: 'Oct avg high', fr: 'Max moy. oct.', es: 'Máx. prom. oct.', pt: 'Máx. méd. out.', de: 'Ø Höchstwert Okt.', nl: 'Gem. max. okt.', it: 'Media max. ott.' },
+  seeHotels: { en: 'See pet-friendly hotels', fr: 'Voir les hôtels pet-friendly', es: 'Ver hoteles pet-friendly', pt: 'Ver hotéis pet-friendly', de: 'Haustierfreundliche Hotels ansehen', nl: 'Bekijk huisdiervriendelijke hotels', it: 'Vedi hotel pet-friendly' },
+  seeGuide: { en: 'Destination guide', fr: 'Guide destination', es: 'Guía del destino', pt: 'Guia do destino', de: 'Reiseführer', nl: 'Bestemmingsgids', it: 'Guida della destinazione' },
+  fromWord: { en: 'from', fr: 'dès', es: 'desde', pt: 'desde', de: 'ab', nl: 'vanaf', it: 'da' },
+  noFee: { en: 'no pet fee', fr: 'sans supplément', es: 'sin cargo mascota', pt: 'sem suplemento', de: 'keine Tiergebühr', nl: 'geen huisdiertoeslag', it: 'nessun supplemento animali' },
+  ourPicks: { en: '3 pet-friendly picks', fr: '3 adresses pet-friendly', es: '3 opciones pet-friendly', pt: '3 opções pet-friendly', de: '3 haustierfreundliche Adressen', nl: '3 huisdiervriendelijke tips', it: '3 consigli pet-friendly' },
+  breadHome: { en: 'Home', fr: 'Accueil', es: 'Inicio', pt: 'Início', de: 'Startseite', nl: 'Home', it: 'Home' },
+  breadGuides: { en: 'Guides', fr: 'Guides', es: 'Guías', pt: 'Guias', de: 'Reiseführer', nl: 'Gidsen', it: 'Guide' },
+  kicker: { en: 'Autumn & dogs', fr: 'Automne & chien', es: 'Otoño & perro', pt: 'Outono & cão', de: 'Herbst & Hund', nl: 'Herfst & hond', it: 'Autunno & cane' },
+  siblingTitle: { en: 'Plan the rest of the year', fr: 'Planifier le reste de l\'année', es: 'Planifica el resto del año', pt: 'Planeie o resto do ano', de: 'Den Rest des Jahres planen', nl: 'Plan de rest van het jaar', it: `Pianifica il resto dell'anno` },
   faq: {
     q1: {
       en: 'When do dog beaches reopen in Spain and Portugal?',
@@ -328,6 +349,7 @@ const T = {
       pt: 'Quando reabrem as praias aos cães em Espanha e Portugal?',
       de: 'Wann öffnen Hundestrände in Spanien und Portugal wieder?',
       nl: 'Wanneer gaan hondenstranden in Spanje en Portugal weer open?',
+      it: 'Quando riaprono le spiagge per cani in Spagna e Portogallo?',
     },
     a1: {
       en: 'Most coastal municipalities in Spain and Portugal ban dogs from their main beaches during the official bathing season, then lift the ban around 1 October, with dogs allowed back on the sand through winter until spring. Exact dates are set by each town hall, so check the local ordinance before you travel. Some beaches, such as Fuengirola\'s Castillo Sohail, stay open to dogs all year.',
@@ -336,6 +358,7 @@ const T = {
       pt: 'A maioria dos municípios costeiros de Espanha e Portugal proíbem os cães nas suas praias principais durante a época balnear oficial, e depois levantam a proibição por volta de 1 de outubro, com os cães novamente aceites na areia todo o inverno até à primavera. As datas exatas são fixadas por cada câmara municipal, por isso consulte o regulamento local antes de viajar. Algumas praias, como o Castillo Sohail em Fuengirola, permanecem abertas aos cães todo o ano.',
       de: `Die meisten Küstengemeinden in Spanien und Portugal verbieten Hunde während der offiziellen Badesaison auf ihren Hauptstränden und heben das Verbot dann um den 1. Oktober herum auf. Hunde dürfen dann bis zum Frühling wieder auf den Sand. Die genauen Termine legt jedes Rathaus selbst fest, prüfen Sie also vor der Reise die örtliche Verordnung. Manche Strände, wie der Castillo Sohail in Fuengirola, sind das ganze Jahr über für Hunde geöffnet.`,
       nl: `De meeste kustgemeenten in Spanje en Portugal verbieden honden op hun hoofdstranden tijdens het officiële badseizoen, en heffen dat verbod dan rond 1 oktober weer op, waarna honden tot het voorjaar weer op het zand mogen. De exacte data worden per gemeente vastgesteld, dus check altijd de lokale verordening voor je vertrekt. Sommige stranden, zoals Castillo Sohail in Fuengirola, blijven het hele jaar open voor honden.`,
+      it: `La maggior parte dei comuni costieri di Spagna e Portogallo vieta i cani sulle spiagge principali durante la stagione balneare ufficiale, per poi revocare il divieto intorno al 1° ottobre, dopodiché i cani tornano ammessi sulla sabbia fino alla primavera. Le date esatte sono stabilite da ogni comune, quindi controlla sempre l'ordinanza locale prima di partire. Alcune spiagge, come Castillo Sohail a Fuengirola, restano aperte ai cani tutto l'anno.`,
     },
     q2: {
       en: 'Is autumn a good time to travel with a dog?',
@@ -344,6 +367,7 @@ const T = {
       pt: 'O outono é uma boa época para viajar com um cão?',
       de: 'Ist der Herbst eine gute Zeit, um mit einem Hund zu reisen?',
       nl: 'Is de herfst een goede tijd om met een hond op reis te gaan?',
+      it: `L'autunno è un buon momento per viaggiare con un cane?`,
     },
     a2: {
       en: 'Yes, arguably the best. Temperatures stay warm enough for the beach on the southern coast but drop out of the danger zone for heatstroke, which matters most for brachycephalic breeds, senior dogs and overweight dogs. Beach bans lift, hotels lower their rates, and popular spots like Lake Como or Granada are far quieter than in summer. Ticks are still active in autumn, so keep up preventive treatment.',
@@ -352,6 +376,7 @@ const T = {
       pt: 'Sim, provavelmente a melhor. As temperaturas mantêm-se amenas que chegue para a praia na costa sul mas saem da zona de perigo de insolação, o que importa sobretudo para as raças braquicefálicas, os cães idosos e com excesso de peso. Levantam-se as proibições de praia, os hotéis baixam as tarifas, e lugares populares como o Lago de Como ou Granada estão muito mais calmos do que no verão. As carraças continuam ativas no outono, por isso mantenha o tratamento preventivo.',
       de: `Ja, wohl sogar die beste. Die Temperaturen bleiben an der Südküste warm genug für den Strand, sinken aber aus der Gefahrenzone für einen Hitzschlag heraus, was vor allem für kurzköpfige Rassen, ältere Hunde und übergewichtige Hunde wichtig ist. Strandverbote werden aufgehoben, Hotels senken ihre Preise, und beliebte Orte wie der Comer See oder Granada sind deutlich ruhiger als im Sommer. Zecken sind im Herbst noch aktiv, setzen Sie die vorbeugende Behandlung also fort.`,
       nl: `Ja, waarschijnlijk zelfs de beste. De temperaturen blijven aan de zuidkust warm genoeg voor het strand, maar zakken uit de gevarenzone voor hitteberoerte, wat vooral belangrijk is voor kortsnuitige rassen, oudere honden en honden met overgewicht. Strandverboden worden opgeheven, hotels verlagen hun prijzen, en populaire plekken zoals het Comomeer of Granada zijn veel rustiger dan in de zomer. Teken zijn in de herfst nog actief, dus zet de preventieve behandeling voort.`,
+      it: `Sì, probabilmente la migliore. Le temperature restano abbastanza calde per la spiaggia sulla costa meridionale, ma escono dalla zona di pericolo per il colpo di calore, il che conta soprattutto per le razze brachicefale, i cani anziani e quelli in sovrappeso. I divieti di spiaggia vengono revocati, gli hotel abbassano i prezzi, e luoghi popolari come il Lago di Como o Granada sono molto più tranquilli che in estate. Le zecche restano attive in autunno, quindi mantieni il trattamento preventivo.`,
     },
     q3: {
       en: 'Which autumn destination is warmest for a dog beach trip?',
@@ -360,6 +385,7 @@ const T = {
       pt: 'Qual destino de outono é o mais quente para uma escapadela de praia com cão?',
       de: 'Welches Herbstreiseziel ist für einen Hundestrand-Ausflug am wärmsten?',
       nl: 'Welke herfstbestemming is het warmst voor een hondenstranduitje?',
+      it: 'Quale destinazione autunnale è la più calda per una gita in spiaggia con il cane?',
     },
     a3: {
       en: 'On this list, Fuengirola and Nerja on the Costa del Sol hold the highest October averages at 24°C, with sea temperatures still around 22°C. Both have official year-round or off-season dog beaches. If you want warmth even later in the year, our winter guide points you towards the Canary Islands, where the coast stays near 21°C in January.',
@@ -368,12 +394,13 @@ const T = {
       pt: 'Nesta lista, Fuengirola e Nerja na Costa del Sol apresentam as médias de outubro mais altas, a 24°C, com o mar ainda perto dos 22°C. Ambas têm praias caninas oficiais abertas todo o ano ou fora de época. Se quiser calor ainda mais tarde no ano, o nosso guia de inverno aponta-lhe as ilhas Canárias, onde a costa se mantém perto dos 21°C em janeiro.',
       de: `In dieser Liste haben Fuengirola und Nerja an der Costa del Sol mit 24°C die höchsten Oktoberdurchschnittswerte, bei Meerestemperaturen von noch rund 22°C. Beide verfügen über offizielle ganzjährige oder saisonale Hundestrände. Wenn Sie noch später im Jahr Wärme suchen, verweist unser Winterreiseführer auf die Kanarischen Inseln, wo die Küste im Januar nahe 21°C bleibt.`,
       nl: `Op deze lijst hebben Fuengirola en Nerja aan de Costa del Sol met 24°C de hoogste oktobergemiddelden, bij zeetemperaturen van nog rond 22°C. Beide hebben officiële hondenstranden die het hele jaar of buiten het seizoen open zijn. Wil je nog later in het jaar warmte, dan wijst onze wintergids je naar de Canarische Eilanden, waar de kust in januari dicht bij 21°C blijft.`,
+      it: `In questa lista, Fuengirola e Nerja sulla Costa del Sol hanno le medie di ottobre più alte, a 24°C, con temperature del mare ancora intorno ai 22°C. Entrambe hanno spiagge per cani ufficiali aperte tutto l'anno o fuori stagione. Se vuoi ancora più calore più avanti nell'anno, la nostra guida invernale ti indirizza verso le Isole Canarie, dove la costa resta vicina ai 21°C a gennaio.`,
     },
   },
 }
 
 const p = (o: L4, locale: string) =>
-  locale === 'fr' ? o.fr : locale === 'es' ? o.es : locale === 'pt' ? o.pt : locale === 'de' ? o.de : locale === 'nl' ? o.nl : o.en
+  locale === 'fr' ? o.fr : locale === 'es' ? o.es : locale === 'pt' ? o.pt : locale === 'de' ? o.de : locale === 'nl' ? o.nl : locale === 'it' ? o.it : o.en
 
 export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -392,7 +419,7 @@ export async function generateMetadata({
     alternates: {
       canonical: `${SITE_URL}/${locale}/guides/${SLUG}`,
       languages: {
-        ...Object.fromEntries(locales.map((l) => [l, `${SITE_URL}/${l}/guides/${SLUG}`])),
+        ...Object.fromEntries(locales.filter((hl) => hl !== 'it').map((l) => [l, `${SITE_URL}/${l}/guides/${SLUG}`])),
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },

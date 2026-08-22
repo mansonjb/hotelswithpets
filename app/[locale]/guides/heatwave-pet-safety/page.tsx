@@ -58,7 +58,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     alternates: {
       canonical: `${SITE_URL}/${locale}/guides/${SLUG}`,
       languages: {
-        ...Object.fromEntries(locales.map(l => [l, `${SITE_URL}/${l}/guides/${SLUG}`])),
+        ...Object.fromEntries(locales.filter((hl) => hl !== 'it').map(l => [l, `${SITE_URL}/${l}/guides/${SLUG}`])),
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },

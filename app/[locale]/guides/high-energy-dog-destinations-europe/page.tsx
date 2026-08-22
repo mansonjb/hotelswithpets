@@ -12,7 +12,7 @@ import { getLocalizedCityName } from '@/lib/cityNames'
 const SLUG = 'high-energy-dog-destinations-europe'
 const CAMPAIGN = 'highenergy-dog'
 
-type L4 = { en: string; fr: string; es: string; pt: string; de: string; nl: string }
+type L4 = { en: string; fr: string; es: string; pt: string; de: string; nl: string; it: string }
 type Dest = {
   slug: string
   name: string
@@ -33,6 +33,7 @@ const DESTINATIONS: Dest[] = [
       pt: 'Trilhos do vale do Mont Blanc',
       de: 'Wanderwege im Mont-Blanc-Tal',
       nl: 'Wandelpaden in de Mont Blanc-vallei',
+      it: 'Sentieri della valle del Monte Bianco',
     },
     why: {
       en: `Chamonix sits in the Mont Blanc valley with graded trails starting right from town, including the Petits Balcons Nord and Sud that climb the valley flanks for hours of real elevation with a dog on lead. Save the Aiguille du Midi cable car for a solo trip: dogs (other than assistance dogs) aren't allowed on it, and the Lac Blanc hike via the Grand Balcon Sud crosses the Aiguilles Rouges nature reserve, where dogs are banned outright.`,
@@ -41,6 +42,7 @@ const DESTINATIONS: Dest[] = [
       pt: `Chamonix fica no vale do Mont Blanc com trilhos sinalizados que arrancam da própria vila, incluindo os Petits Balcons Nord e Sud, que sobem as encostas do vale para horas de desnível a sério com o cão em trela. Guarde o teleférico da Aiguille du Midi para uma saída sem ele: os cães (exceto cães de assistência) não são admitidos, e o trilho do Lac Blanc pelo Grand Balcon Sud atravessa a reserva natural das Aiguilles Rouges, onde os cães são proibidos sem exceção.`,
       de: `Chamonix liegt im Mont-Blanc-Tal mit ausgeschilderten Wanderwegen direkt ab dem Ortskern, darunter die Petits Balcons Nord und Sud, die an den Talflanken emporsteigen und stundenlangen echten Höhenmeteranstieg mit Hund an der Leine bieten. Heben Sie sich die Seilbahn zur Aiguille du Midi für einen Ausflug ohne ihn auf: Hunde (außer Assistenzhunden) sind dort nicht zugelassen, und die Wanderung zum Lac Blanc über den Grand Balcon Sud durchquert das Naturschutzgebiet Aiguilles Rouges, wo Hunde ganz verboten sind.`,
       nl: `Chamonix ligt in de Mont Blanc-vallei met bewegwijzerde paden die vlak vanuit het centrum vertrekken, waaronder de Petits Balcons Nord en Sud, die tegen de valleiwanden opklimmen voor uren aan echte hoogtemeters met je hond aan de lijn. Bewaar de kabelbaan naar de Aiguille du Midi voor een tochtje zonder hem: honden (behalve assistentiehonden) mogen er niet mee, en de wandeling naar het Lac Blanc via de Grand Balcon Sud doorkruist het natuurreservaat Aiguilles Rouges, waar honden helemaal verboden zijn.`,
+      it: `Chamonix si trova nella valle del Monte Bianco con sentieri segnalati che partono proprio dal centro, tra cui i Petits Balcons Nord e Sud, che salgono lungo i fianchi della valle per ore di vero dislivello con il cane al guinzaglio. Tieni da parte la funivia dell'Aiguille du Midi per un giro senza di lui: i cani (tranne quelli di assistenza) non sono ammessi, e l'escursione al Lac Blanc via il Grand Balcon Sud attraversa la riserva naturale delle Aiguilles Rouges, dove i cani sono vietati del tutto.`,
     },
   },
   {
@@ -54,6 +56,7 @@ const DESTINATIONS: Dest[] = [
       pt: 'Fells do Lake District, terreno sem trela',
       de: 'Fells des Lake District, leinenfreies Gelände',
       nl: 'Fells van het Lake District, terrein zonder lijn',
+      it: 'Fells del Lake District, terreno senza guinzaglio',
     },
     why: {
       en: `The fells above Windermere give a working dog genuine off-lead hiking on open access land, away from grazing sheep. Orrest Head is the classic starter climb, a short circuit with a big payoff view over the whole lake. English law requires a lead on open access land between 1 March and 31 July and near livestock at any time, so check the route and the season before letting a dog off.`,
@@ -62,6 +65,7 @@ const DESTINATIONS: Dest[] = [
       pt: `Os fells acima de Windermere dão a um cão ativo caminhadas verdadeiras sem trela em terreno de acesso livre, longe das ovelhas em pastoreio. Orrest Head é a subida clássica para começar, um circuito curto com uma vista de recompensa sobre todo o lago. A lei inglesa exige a trela em terreno de acesso livre entre 1 de março e 31 de julho e perto de gado em qualquer época, por isso verifique o percurso e a estação antes de o soltar.`,
       de: `Die Fells oberhalb von Windermere bieten einem aktiven Hund echtes leinenfreies Wandern auf offenem Zugangsland, fernab von weidenden Schafen. Orrest Head ist der klassische Einstiegsaufstieg, ein kurzer Rundweg mit einem großartigen Ausblick über den gesamten See als Belohnung. Englisches Recht schreibt auf offenem Zugangsland zwischen dem 1. März und dem 31. Juli sowie jederzeit in der Nähe von Nutztieren eine Leine vor, prüfen Sie also Route und Jahreszeit, bevor Sie den Hund von der Leine lassen.`,
       nl: `De fells boven Windermere bieden een actieve hond echt lijnloos wandelen op open toegangsgebied, ver van grazende schapen. Orrest Head is de klassieke instapklim, een kort rondje met een groots uitzicht over het hele meer als beloning. Engelse wetgeving schrijft een lijn voor op open toegangsgebied tussen 1 maart en 31 juli en te allen tijde in de buurt van vee, dus check route en seizoen voordat je hem loslaat.`,
+      it: `I fells sopra Windermere offrono a un cane attivo vere camminate senza guinzaglio su terreno ad accesso libero, lontano dalle pecore al pascolo. Orrest Head è la salita classica per iniziare, un breve giro con una vista d'insieme sull'intero lago come ricompensa. La legge inglese impone il guinzaglio sul terreno ad accesso libero tra il 1 marzo e il 31 luglio e vicino al bestiame in ogni periodo, quindi controlla il percorso e la stagione prima di liberarlo.`,
     },
   },
   {
@@ -75,6 +79,7 @@ const DESTINATIONS: Dest[] = [
       pt: 'Dois lagos, funicular do Harder Kulm',
       de: 'Zwei Seen, Standseilbahn Harder Kulm',
       nl: 'Twee meren, kabelbaan Harder Kulm',
+      it: 'Due laghi, funicolare Harder Kulm',
     },
     why: {
       en: `Interlaken sits between Lake Thun and Lake Brienz, and the Harder Kulm funicular carries leashed dogs to the summit free of charge, dropping you onto alpine trails with a view over both lakes at once. Lakeshore paths on either side connect into longer day hikes for a dog that has already done the funicular loop and wants more.`,
@@ -83,6 +88,7 @@ const DESTINATIONS: Dest[] = [
       pt: `Interlaken fica entre o lago de Thun e o lago de Brienz, e o funicular do Harder Kulm sobe gratuitamente cães com trela até ao cume, com trilhos alpinos e vista sobre os dois lagos ao mesmo tempo. Os caminhos ribeirinhos de ambos os lados ligam a caminhadas mais longas para um cão que já fez o circuito do funicular e quer mais.`,
       de: `Interlaken liegt zwischen Thunersee und Brienzersee, und die Standseilbahn Harder Kulm bringt Hunde an der Leine kostenlos zum Gipfel und setzt Sie direkt auf alpinen Wanderwegen mit Blick über beide Seen zugleich ab. Uferwege auf beiden Seiten schließen an längere Tageswanderungen an, für einen Hund, der die Bahnrunde bereits gemacht hat und mehr will.`,
       nl: `Interlaken ligt tussen het Thunermeer en het Brienzermeer, en de kabelbaan Harder Kulm brengt honden aan de lijn gratis naar de top en zet je direct op alpiene wandelpaden met zicht op beide meren tegelijk. Oeverpaden aan weerszijden sluiten aan op langere dagtochten, voor een hond die de kabelbaanronde al heeft gedaan en meer wil.`,
+      it: `Interlaken si trova tra il lago di Thun e il lago di Brienz, e la funicolare Harder Kulm porta gratis i cani al guinzaglio fino in vetta, lasciandoti su sentieri alpini con vista su entrambi i laghi insieme. I sentieri lungolago su entrambi i lati si collegano a escursioni più lunghe per un cane che ha già fatto il giro in funicolare e ne vuole ancora.`,
     },
   },
   {
@@ -96,6 +102,7 @@ const DESTINATIONS: Dest[] = [
       pt: 'Circuito de lago de 11 km, subidas alpinas',
       de: '11 km Seerunde, alpine Anstiege',
       nl: '11 km meerroute, alpiene klimmen',
+      it: 'Anello del lago di 11 km, salite alpine',
     },
     why: {
       en: `The Zeller See loop is an almost-flat 11 km circuit right from town, an easy warm-up lap with a small fenced dog area near the car park at one end. From there the Schmittenhöhe slopes and the wider Hohe Tauern foothills toward Kaprun climb into steeper, longer routes for a dog that needs more than a lakeside stroll.`,
@@ -104,6 +111,7 @@ const DESTINATIONS: Dest[] = [
       pt: `O circuito do Zeller See é um percurso quase plano de 11 km a partir da própria vila, uma volta de aquecimento fácil com um pequeno parque canino vedado perto do parque de estacionamento numa extremidade. A partir daí, as encostas do Schmittenhöhe e os contrafortes mais amplos do Hohe Tauern em direção a Kaprun sobem para rotas mais íngremes e longas para um cão que precisa de mais do que um passeio à beira do lago.`,
       de: `Die Zeller-See-Runde ist ein fast ebener 11-km-Rundweg direkt ab dem Ort, eine leichte Aufwärmrunde mit einem kleinen eingezäunten Hundeauslauf nahe dem Parkplatz an einem Ende. Von dort steigen die Hänge der Schmittenhöhe und die weiteren Ausläufer der Hohen Tauern in Richtung Kaprun zu steileren, längeren Routen an, für einen Hund, der mehr braucht als einen Spaziergang am Seeufer.`,
       nl: `De Zeller See-route is een bijna vlakke lus van 11 km vlak vanuit het dorp, een makkelijk opwarmrondje met een klein omheind hondenveldje bij de parkeerplaats aan een kant. Vandaar klimmen de hellingen van de Schmittenhöhe en de bredere uitlopers van de Hohe Tauern richting Kaprun naar steilere, langere routes, voor een hond die meer nodig heeft dan een wandeling langs het meer.`,
+      it: `L'anello dello Zeller See è un percorso quasi piatto di 11 km proprio dal paese, un giro di riscaldamento facile con una piccola area cani recintata vicino al parcheggio a un'estremità. Da lì i pendii dello Schmittenhöhe e le più ampie propaggini degli Alti Tauri verso Kaprun salgono verso percorsi più ripidi e lunghi per un cane che ha bisogno di più di una passeggiata lungo il lago.`,
     },
   },
   {
@@ -117,6 +125,7 @@ const DESTINATIONS: Dest[] = [
       pt: 'Voie verte do lago, planalto do Semnoz',
       de: 'Voie verte am See, Semnoz-Plateau',
       nl: 'Voie verte langs het meer, Semnoz-plateau',
+      it: 'Voie verte sul lago, altopiano del Semnoz',
     },
     why: {
       en: `The voie verte around Lake Annecy is a paved greenway open to leashed dogs, running along the water through several villages for nearly 33 km one-way, more than enough distance for a big dog's daily legs. For real elevation, the Semnoz plateau above town climbs past 1,600 metres on trails that allow dogs on lead, with views back down over the whole lake.`,
@@ -125,6 +134,7 @@ const DESTINATIONS: Dest[] = [
       pt: `A voie verte do lago de Annecy é uma via pavimentada aberta a cães com trela, que acompanha a água por várias aldeias ao longo de quase 33 km num só sentido, mais do que suficiente para cansar as patas de um cão grande num dia. Para desnível a sério, o planalto do Semnoz acima da vila sobe além dos 1.600 metros em trilhos que admitem cães presos à trela, com vista sobre todo o lago.`,
       de: `Die Voie verte rund um den Lac d'Annecy ist ein asphaltierter Grünweg, der Hunde an der Leine zulässt und auf fast 33 km einfacher Strecke entlang des Wassers durch mehrere Dörfer führt, mehr als genug Distanz für die täglichen Beine eines großen Hundes. Für echten Höhenmeteranstieg steigt das Semnoz-Plateau oberhalb der Stadt auf über 1.600 Meter auf Wegen, die Hunde an der Leine erlauben, mit Ausblicken zurück über den gesamten See.`,
       nl: `De voie verte rond het Lac d'Annecy is een geasfalteerd groenpad dat honden aan de lijn toelaat en over bijna 33 km enkele reis langs het water door meerdere dorpjes loopt, ruim genoeg afstand om de dagelijkse poten van een grote hond moe te lopen. Voor echte hoogtemeters klimt het Semnoz-plateau boven de stad tot voorbij 1.600 meter op paden die honden aan de lijn toestaan, met uitzicht terug over het hele meer.`,
+      it: `La voie verte intorno al Lac d'Annecy è una pista asfaltata aperta ai cani al guinzaglio, che corre lungo l'acqua attraverso diversi paesi per quasi 33 km in un senso, più che sufficiente per stancare le zampe di un cane grande in un giorno. Per un vero dislivello, l'altopiano del Semnoz sopra il paese sale oltre i 1.600 metri su sentieri che ammettono cani al guinzaglio, con vista all'indietro su tutto il lago.`,
     },
   },
   {
@@ -138,6 +148,7 @@ const DESTINATIONS: Dest[] = [
       pt: 'Teleférico do Nordkette, trilhos alpinos',
       de: 'Nordkettenbahn, alpine Wanderwege',
       nl: 'Nordkettenbahn, alpiene wandelpaden',
+      it: 'Funivia Nordkette, sentieri alpini',
     },
     why: {
       en: `The Nordkette cable car lifts leashed or muzzled dogs from the city centre to alpine terrain above 2,200 metres in about 20 minutes, dropping you straight onto high-altitude hiking trails. Back in the valley, the paths along the Inn river give flat, easy miles for a cool-down lap, and the Patscherkofel side of town, reached from Igls, adds a separate, quieter hiking network for another day.`,
@@ -146,14 +157,15 @@ const DESTINATIONS: Dest[] = [
       pt: `O teleférico do Nordkette leva cães com trela ou açaime do centro da cidade até terreno alpino acima dos 2.200 metros em cerca de 20 minutos, deixando-o diretamente em trilhos de alta altitude. De volta ao vale, os caminhos junto ao rio Inn oferecem quilómetros planos e fáceis para uma volta de recuperação, e o lado do Patscherkofel, alcançável a partir de Igls, acrescenta uma rede de caminhadas separada e mais tranquila para outro dia.`,
       de: `Die Nordkettenbahn bringt Hunde an der Leine oder mit Maulkorb vom Stadtzentrum in rund 20 Minuten auf alpines Gelände über 2.200 Metern und setzt Sie direkt auf Höhenwanderwegen ab. Zurück im Tal bieten die Wege am Inn flache, leichte Kilometer für eine Abkühlrunde, und die Patscherkofel-Seite der Stadt, erreichbar von Igls aus, ergänzt ein separates, ruhigeres Wandernetz für einen weiteren Tag.`,
       nl: `De Nordkettenbahn brengt honden aan de lijn of met muilkorf in ongeveer 20 minuten vanuit het stadscentrum naar alpien terrein boven 2.200 meter en zet je direct op hooggelegen wandelpaden af. Terug in de vallei bieden de paden langs de Inn vlakke, makkelijke kilometers voor een afkoelrondje, en de Patscherkofel-kant van de stad, bereikbaar vanuit Igls, voegt een apart, rustiger wandelnetwerk toe voor nog een dag.`,
+      it: `La funivia Nordkette porta i cani al guinzaglio o con museruola dal centro città a un terreno alpino oltre i 2.200 metri in circa 20 minuti, lasciandoti direttamente su sentieri d'alta quota. Tornati a valle, i sentieri lungo l'Inn offrono chilometri piatti e facili per un giro di defaticamento, e il versante del Patscherkofel della città, raggiungibile da Igls, aggiunge una rete escursionistica separata e più tranquilla per un'altra giornata.`,
     },
   },
 ]
 
 const SIBLING_GUIDES = [
-  { slug: 'alpes-chien', emoji: '🏔️', label: { en: 'Alpine cities: Geneva → Zurich → Munich → Salzburg', fr: 'Villes alpines : Genève → Zurich → Munich → Salzbourg', es: 'Ciudades alpinas: Ginebra → Zúrich → Múnich → Salzburgo', pt: 'Cidades alpinas: Genebra → Zurique → Munique → Salzburgo', de: 'Alpenstädte: Genf → Zürich → München → Salzburg', nl: 'Alpensteden: Genève → Zürich → München → Salzburg' } },
-  { slug: 'fenced-dog-parks-europe', emoji: '🌳', label: { en: 'Fenced dog parks in Europe', fr: 'Parcs canins clôturés en Europe', es: 'Parques caninos vallados en Europa', pt: 'Parques caninos vedados na Europa', de: 'Eingezäunte Hundeparks in Europa', nl: 'Omheinde hondenparken in Europa' } },
-  { slug: 'dog-friendly-europe-by-month', emoji: '📅', label: { en: 'Dog-friendly Europe by month', fr: 'Europe dog-friendly mois par mois', es: 'Europa dog-friendly mes a mes', pt: 'Europa dog-friendly mês a mês', de: 'Hundefreundliches Europa Monat für Monat', nl: 'Hondvriendelijk Europa maand voor maand' } },
+  { slug: 'alpes-chien', emoji: '🏔️', label: { en: 'Alpine cities: Geneva → Zurich → Munich → Salzburg', fr: 'Villes alpines : Genève → Zurich → Munich → Salzbourg', es: 'Ciudades alpinas: Ginebra → Zúrich → Múnich → Salzburgo', pt: 'Cidades alpinas: Genebra → Zurique → Munique → Salzburgo', de: 'Alpenstädte: Genf → Zürich → München → Salzburg', nl: 'Alpensteden: Genève → Zürich → München → Salzburg', it: 'Città alpine: Ginevra → Zurigo → Monaco → Salisburgo' } },
+  { slug: 'fenced-dog-parks-europe', emoji: '🌳', label: { en: 'Fenced dog parks in Europe', fr: 'Parcs canins clôturés en Europe', es: 'Parques caninos vallados en Europa', pt: 'Parques caninos vedados na Europa', de: 'Eingezäunte Hundeparks in Europa', nl: 'Omheinde hondenparken in Europa', it: 'Aree cani recintate in Europa' } },
+  { slug: 'dog-friendly-europe-by-month', emoji: '📅', label: { en: 'Dog-friendly Europe by month', fr: 'Europe dog-friendly mois par mois', es: 'Europa dog-friendly mes a mes', pt: 'Europa dog-friendly mês a mês', de: 'Hundefreundliches Europa Monat für Monat', nl: 'Hondvriendelijk Europa maand voor maand', it: 'Europa dog-friendly mese per mese' } },
 ]
 
 // Top 3 value-sorted, real pet-friendly hotels per featured destination, shown
@@ -172,6 +184,7 @@ const T = {
     pt: 'Melhores destinos para um cão muito ativo que precisa de grandes caminhadas',
     de: 'Die besten Reiseziele für einen sehr aktiven Hund, der ausgedehnte Spaziergänge braucht',
     nl: 'De beste bestemmingen voor een zeer actieve hond die grote wandelingen nodig heeft',
+    it: 'Le migliori destinazioni per un cane molto attivo che ha bisogno di grandi camminate',
   },
   metaTitle: {
     en: '6 Best Destinations for a High-Energy Dog in Europe (2026)',
@@ -180,6 +193,7 @@ const T = {
     pt: '6 melhores destinos para um cão muito ativo na Europa (2026)',
     de: 'Die 6 besten Reiseziele für einen sehr aktiven Hund in Europa (2026)',
     nl: 'De 6 beste bestemmingen voor een zeer actieve hond in Europa (2026)',
+    it: 'Le 6 migliori destinazioni per un cane molto attivo in Europa (2026)',
   },
   metaDesc: {
     en: 'Alpine and lake destinations built for a working dog, not a stroll: real trails, distances and lift policies, verified. Pet-friendly hotels included.',
@@ -188,6 +202,7 @@ const T = {
     pt: 'Destinos alpinos e de lago pensados para um cão de trabalho, não para um passeio: trilhos reais, distâncias e regras de teleféricos, verificados. Hotéis pet-friendly incluídos.',
     de: 'Alpen- und Seedestinationen für einen Arbeitshund, nicht für einen Spaziergang: echte Wanderwege, Distanzen und Seilbahnregeln, geprüft. Haustierfreundliche Hotels inklusive.',
     nl: 'Alpen- en meerbestemmingen gemaakt voor een werkhond, niet voor een wandelingetje: echte paden, afstanden en kabelbaanregels, geverifieerd. Huisdiervriendelijke hotels inbegrepen.',
+    it: 'Destinazioni alpine e lacustri pensate per un cane da lavoro, non per una passeggiata: sentieri, distanze e regole delle funivie reali, verificati. Hotel pet-friendly inclusi.',
   },
   intro: {
     en: `A Border Collie, Vizsla or working Labrador doesn't want a 20-minute stroll around the block, it wants hours of real terrain: hills, distance and somewhere to actually stretch out. These six alpine and lake destinations across France, England, Switzerland and Austria give a high-energy dog what a beach town can't: graded trails, lakeshore loops long enough to matter, and lifts that mostly, though not always, welcome a leashed dog to the high ground.`,
@@ -196,15 +211,16 @@ const T = {
     pt: `Um Border Collie, um Vizsla ou um Labrador de trabalho não quer um passeio de 20 minutos ao quarteirão, quer horas de terreno a sério: desnível, distância e espaço para esticar as pernas de verdade. Estes seis destinos alpinos e de lago em França, Inglaterra, Suíça e Áustria dão a um cão muito ativo o que uma vila de praia não consegue: trilhos sinalizados, circuitos à beira do lago suficientemente longos para contar, e teleféricos que, na maioria das vezes mas nem sempre, aceitam um cão com trela em altitude.`,
     de: `Ein Border Collie, ein Vizsla oder ein Arbeits-Labrador will keinen 20-minütigen Spaziergang um den Block, er will stundenlanges echtes Gelände: Höhenmeter, Distanz und Platz, um sich wirklich auszutoben. Diese sechs Alpen- und Seedestinationen in Frankreich, England, der Schweiz und Österreich bieten einem sehr aktiven Hund, was eine Strandstadt nicht kann: ausgeschilderte Wanderwege, Seeuferrunden, die lang genug sind, um zu zählen, und Bergbahnen, die meistens, wenn auch nicht immer, einen Hund an der Leine ins Hochgebirge mitnehmen.`,
     nl: `Een Border Collie, Vizsla of werkende Labrador wil geen wandelingetje van 20 minuten om het blok, hij wil urenlang echt terrein: heuvels, afstand en ruimte om zich echt uit te leven. Deze zes Alpen- en meerbestemmingen in Frankrijk, Engeland, Zwitserland en Oostenrijk bieden een zeer actieve hond wat een strandstad niet kan: bewegwijzerde paden, oeverroutes die lang genoeg zijn om ertoe te doen, en kabelbanen die meestal, hoewel niet altijd, een hond aan de lijn welkom heten naar boven.`,
+    it: `Un Border Collie, un Vizsla o un Labrador da lavoro non vuole una passeggiata di 20 minuti intorno all'isolato, vuole ore di vero terreno: dislivello, distanza e spazio per sfogarsi davvero. Queste sei destinazioni alpine e lacustri in Francia, Inghilterra, Svizzera e Austria offrono a un cane molto attivo quello che una città di mare non può: sentieri segnalati, anelli lungolago abbastanza lunghi da contare, e funivie che quasi sempre, anche se non sempre, accolgono un cane al guinzaglio verso l'alto.`,
   },
-  seeHotels: { en: 'See pet-friendly hotels', fr: 'Voir les hôtels pet-friendly', es: 'Ver hoteles pet-friendly', pt: 'Ver hotéis pet-friendly', de: 'Haustierfreundliche Hotels ansehen', nl: 'Bekijk huisdiervriendelijke hotels' },
-  seeGuide: { en: 'Destination guide', fr: 'Guide destination', es: 'Guía del destino', pt: 'Guia do destino', de: 'Reiseführer', nl: 'Bestemmingsgids' },
-  fromWord: { en: 'from', fr: 'dès', es: 'desde', pt: 'desde', de: 'ab', nl: 'vanaf' },
-  noFee: { en: 'no pet fee', fr: 'sans supplément', es: 'sin cargo mascota', pt: 'sem suplemento', de: 'keine Haustiergebühr', nl: 'geen huisdiertoeslag' },
-  ourPicks: { en: '3 pet-friendly picks', fr: '3 adresses pet-friendly', es: '3 opciones pet-friendly', pt: '3 opções pet-friendly', de: '3 haustierfreundliche Adressen', nl: '3 huisdiervriendelijke tips' },
-  breadHome: { en: 'Home', fr: 'Accueil', es: 'Inicio', pt: 'Início', de: 'Startseite', nl: 'Home' },
-  breadGuides: { en: 'Guides', fr: 'Guides', es: 'Guías', pt: 'Guias', de: 'Reiseführer', nl: 'Gidsen' },
-  kicker: { en: 'By dog profile', fr: 'Par profil de chien', es: 'Por perfil de perro', pt: 'Por perfil de cão', de: 'Nach Hundeprofil', nl: 'Op hondenprofiel' },
+  seeHotels: { en: 'See pet-friendly hotels', fr: 'Voir les hôtels pet-friendly', es: 'Ver hoteles pet-friendly', pt: 'Ver hotéis pet-friendly', de: 'Haustierfreundliche Hotels ansehen', nl: 'Bekijk huisdiervriendelijke hotels', it: 'Vedi hotel pet-friendly' },
+  seeGuide: { en: 'Destination guide', fr: 'Guide destination', es: 'Guía del destino', pt: 'Guia do destino', de: 'Reiseführer', nl: 'Bestemmingsgids', it: 'Guida della destinazione' },
+  fromWord: { en: 'from', fr: 'dès', es: 'desde', pt: 'desde', de: 'ab', nl: 'vanaf', it: 'da' },
+  noFee: { en: 'no pet fee', fr: 'sans supplément', es: 'sin cargo mascota', pt: 'sem suplemento', de: 'keine Haustiergebühr', nl: 'geen huisdiertoeslag', it: 'nessun supplemento animali' },
+  ourPicks: { en: '3 pet-friendly picks', fr: '3 adresses pet-friendly', es: '3 opciones pet-friendly', pt: '3 opções pet-friendly', de: '3 haustierfreundliche Adressen', nl: '3 huisdiervriendelijke tips', it: '3 indirizzi pet-friendly' },
+  breadHome: { en: 'Home', fr: 'Accueil', es: 'Inicio', pt: 'Início', de: 'Startseite', nl: 'Home', it: 'Home' },
+  breadGuides: { en: 'Guides', fr: 'Guides', es: 'Guías', pt: 'Guias', de: 'Reiseführer', nl: 'Gidsen', it: 'Guide' },
+  kicker: { en: 'By dog profile', fr: 'Par profil de chien', es: 'Por perfil de perro', pt: 'Por perfil de cão', de: 'Nach Hundeprofil', nl: 'Op hondenprofiel', it: 'Per profilo di cane' },
   closingTitle: {
     en: 'A note on heat and altitude',
     fr: `Une note sur la chaleur et l'altitude`,
@@ -212,6 +228,7 @@ const T = {
     pt: 'Uma nota sobre o calor e a altitude',
     de: 'Ein Hinweis zu Hitze und Höhe',
     nl: 'Een woordje over hitte en hoogte',
+    it: 'Una nota su caldo e altitudine',
   },
   closingText: {
     en: `Altitude and heat both change the rules for a working dog. Above roughly 2,000 metres, pad protection and rest breaks matter more, a dog isn't acclimatised to altitude any faster than a person is. On hot valley-floor days, walk the big miles at dawn or dusk and save the cable-car summits for the heat of the afternoon, tarmac and rock get dangerously hot for paws well before the air does.`,
@@ -220,8 +237,9 @@ const T = {
     pt: `A altitude e o calor mudam ambos as regras para um cão de trabalho. Acima de cerca de 2.000 metros, a proteção das almofadinhas e as pausas contam mais, um cão não se aclimata à altitude mais depressa do que uma pessoa. Nos dias quentes no fundo do vale, faça as grandes distâncias ao amanhecer ou ao entardecer e guarde os cumes de teleférico para a hora mais quente, o alcatrão e a rocha ficam perigosos para as almofadinhas bem antes do ar.`,
     de: `Höhe und Hitze verändern beide die Regeln für einen Arbeitshund. Oberhalb von etwa 2.000 Metern zählen Pfotenschutz und Ruhepausen mehr, ein Hund gewöhnt sich nicht schneller an die Höhe als ein Mensch. An heißen Tagen im Talboden legen Sie die großen Distanzen bei Sonnenaufgang oder Sonnenuntergang zurück und heben sich die Seilbahngipfel für die Hitze des Nachmittags auf, Asphalt und Fels werden für Pfoten gefährlich heiß, lange bevor es die Luft wird.`,
     nl: `Hoogte en hitte veranderen allebei de regels voor een werkhond. Boven ongeveer 2.000 meter tellen pootbescherming en rustpauzes zwaarder, een hond went niet sneller aan hoogte dan een mens. Op hete dagen in de vallei loop je de grote afstanden bij zonsopgang of zonsondergang en bewaar je de kabelbaantoppen voor de hitte van de middag, asfalt en rots worden voor poten gevaarlijk heet lang voordat de lucht dat wordt.`,
+    it: `Altitudine e caldo cambiano entrambi le regole per un cane da lavoro. Sopra circa 2.000 metri, la protezione dei cuscinetti e le pause di riposo contano di più, un cane non si acclimata all'altitudine più in fretta di una persona. Nei giorni caldi a fondovalle, percorri i grandi chilometri all'alba o al tramonto e riserva le cime raggiunte in funivia per il caldo del pomeriggio, asfalto e roccia diventano pericolosamente caldi per le zampe ben prima che lo diventi l'aria.`,
   },
-  siblingTitle: { en: 'Plan the rest of the trip', fr: `Planifier le reste du voyage`, es: 'Planifica el resto del viaje', pt: 'Planeie o resto da viagem', de: 'Den Rest der Reise planen', nl: 'Plan de rest van de reis' },
+  siblingTitle: { en: 'Plan the rest of the trip', fr: `Planifier le reste du voyage`, es: 'Planifica el resto del viaje', pt: 'Planeie o resto da viagem', de: 'Den Rest der Reise planen', nl: 'Plan de rest van de reis', it: 'Pianifica il resto del viaggio' },
   faq: {
     q1: {
       en: 'Which of these destinations gives a dog the most exercise?',
@@ -230,6 +248,7 @@ const T = {
       pt: 'Qual destes destinos faz um cão gastar mais energia?',
       de: 'Welches dieser Reiseziele bringt einen Hund am meisten in Bewegung?',
       nl: 'Welke van deze bestemmingen laat een hond het meest bewegen?',
+      it: 'Quale di queste destinazioni fa fare più movimento a un cane?',
     },
     a1: {
       en: `Annecy and Chamonix offer the most combined distance and elevation: nearly 33 km of flat lakeshore greenway in Annecy plus a climb past 1,600 metres on the Semnoz, or the graded Petits Balcons trails climbing the Mont Blanc valley flanks from Chamonix. Windermere is the best pick for genuine off-lead running, since large stretches of open access land in the Lake District allow it away from livestock.`,
@@ -238,6 +257,7 @@ const T = {
       pt: `Annecy e Chamonix oferecem a maior distância e desnível combinados: quase 33 km de voie verte plana à beira do lago em Annecy, mais uma subida além dos 1.600 metros no Semnoz, ou os trilhos sinalizados dos Petits Balcons que sobem as encostas do vale do Mont Blanc a partir de Chamonix. Windermere é a melhor escolha para correr de verdade sem trela, já que grandes extensões de terreno de acesso livre no Lake District o permitem, longe do gado.`,
       de: `Annecy und Chamonix bieten die größte kombinierte Distanz und Höhenmeterzahl: fast 33 km flacher Grünweg am Seeufer in Annecy plus einen Anstieg über 1.600 Meter auf den Semnoz, oder die ausgeschilderten Petits-Balcons-Wege, die von Chamonix aus die Talflanken des Mont Blanc hinaufsteigen. Windermere ist die beste Wahl für echtes Laufen ohne Leine, da große Flächen offenen Zugangslands im Lake District dies fernab von Nutztieren erlauben.`,
       nl: `Annecy en Chamonix bieden de grootste gecombineerde afstand en hoogtemeters: bijna 33 km vlak groenpad langs het meer in Annecy plus een klim voorbij 1.600 meter op de Semnoz, of de bewegwijzerde Petits Balcons-paden die vanuit Chamonix tegen de valleiwanden van de Mont Blanc opklimmen. Windermere is de beste keuze voor echt lijnloos rennen, omdat grote stukken open toegangsgebied in het Lake District dit toelaten ver van vee.`,
+      it: `Annecy e Chamonix offrono la maggiore distanza e dislivello combinati: quasi 33 km di voie verte piatta lungolago ad Annecy più una salita oltre i 1.600 metri sul Semnoz, oppure i sentieri segnalati dei Petits Balcons che salgono i fianchi della valle del Monte Bianco da Chamonix. Windermere resta la scelta migliore per correre davvero senza guinzaglio, perché ampi tratti di terreno ad accesso libero nel Lake District lo permettono lontano dal bestiame.`,
     },
     q2: {
       en: 'Can I take my dog on cable cars and mountain lifts in these destinations?',
@@ -246,6 +266,7 @@ const T = {
       pt: 'Posso levar o meu cão nos teleféricos destes destinos?',
       de: 'Kann ich meinen Hund in den Seilbahnen und Bergbahnen dieser Reiseziele mitnehmen?',
       nl: 'Mag ik mijn hond meenemen in de kabelbanen en bergbanen van deze bestemmingen?',
+      it: 'Posso portare il mio cane sulle funivie e funicolari di queste destinazioni?',
     },
     a2: {
       en: `It depends on the lift. Interlaken's Harder Kulm funicular and Innsbruck's Nordkette cable car both carry leashed or muzzled dogs. Chamonix's Aiguille du Midi cable car does not accept dogs (other than assistance dogs), and the Lac Blanc trail beyond it crosses a nature reserve where dogs are banned entirely, so check each lift's own policy before you plan a route around it.`,
@@ -254,6 +275,7 @@ const T = {
       pt: `Depende do teleférico. O funicular do Harder Kulm em Interlaken e o teleférico do Nordkette em Innsbruck transportam ambos cães com trela ou açaime. O teleférico da Aiguille du Midi em Chamonix não aceita cães (exceto cães de assistência), e o trilho do Lac Blanc além dele atravessa uma reserva natural onde os cães são totalmente proibidos, por isso verifique a política de cada teleférico antes de planear uma rota à sua volta.`,
       de: `Das hängt von der Bahn ab. Sowohl die Standseilbahn Harder Kulm in Interlaken als auch die Nordkettenbahn in Innsbruck befördern Hunde an der Leine oder mit Maulkorb. Die Seilbahn zur Aiguille du Midi in Chamonix nimmt keine Hunde mit (außer Assistenzhunden), und der dahinterliegende Lac-Blanc-Wanderweg durchquert ein Naturschutzgebiet, in dem Hunde ganz verboten sind, prüfen Sie also die Richtlinie jeder Bahn, bevor Sie eine Route darum herum planen.`,
       nl: `Dat hangt af van de kabelbaan. Zowel de kabelbaan Harder Kulm in Interlaken als de Nordkettenbahn in Innsbruck vervoeren honden aan de lijn of met muilkorf. De kabelbaan naar de Aiguille du Midi in Chamonix accepteert geen honden (behalve assistentiehonden), en het Lac Blanc-pad erachter doorkruist een natuurreservaat waar honden helemaal verboden zijn, controleer dus het beleid van elke kabelbaan voordat je er een route omheen plant.`,
+      it: `Dipende dall'impianto. Sia la funicolare Harder Kulm a Interlaken sia la funivia Nordkette a Innsbruck trasportano cani al guinzaglio o con museruola. La funivia dell'Aiguille du Midi a Chamonix non accetta cani (tranne quelli di assistenza), e il sentiero del Lac Blanc oltre essa attraversa una riserva naturale dove i cani sono vietati del tutto, quindi controlla la politica di ogni impianto prima di pianificare un percorso intorno ad esso.`,
     },
     q3: {
       en: 'Is high-altitude hiking safe for a dog?',
@@ -262,6 +284,7 @@ const T = {
       pt: 'A caminhada em alta altitude é segura para um cão?',
       de: 'Ist Wandern in großer Höhe sicher für einen Hund?',
       nl: 'Is wandelen op grote hoogte veilig voor een hond?',
+      it: `È sicuro fare escursioni ad alta quota con un cane?`,
     },
     a3: {
       en: `Most healthy adult dogs handle the altitudes reached by lifts in this guide, roughly 2,000 to 2,300 metres, without issue, but build up gradually rather than sprinting straight up a summit trail on day one. Watch paw pads on rocky or scree terrain, carry water since alpine streams aren't always safe to drink from, and turn back at the first sign of excessive panting, stumbling or reluctance to continue.`,
@@ -270,12 +293,13 @@ const T = {
       pt: `A maioria dos cães adultos saudáveis aguenta sem problemas as altitudes atingidas pelos teleféricos deste guia, cerca de 2.000 a 2.300 metros, mas suba gradualmente em vez de avançar diretamente para um trilho de cume no primeiro dia. Vigie as almofadinhas em terreno rochoso ou de pedras soltas, leve água porque os ribeiros alpinos nem sempre são seguros para beber, e volte para trás ao primeiro sinal de ofegar excessivo, tropeços ou relutância em continuar.`,
       de: `Die meisten gesunden erwachsenen Hunde kommen mit den in diesem Ratgeber erreichten Höhen von Bergbahnen, etwa 2.000 bis 2.300 Meter, problemlos zurecht, steigern Sie die Belastung jedoch schrittweise, statt am ersten Tag direkt einen Gipfelweg zu erklimmen. Achten Sie auf die Pfoten auf felsigem oder geröllreichem Gelände, führen Sie Wasser mit, da Alpenbäche nicht immer zum Trinken geeignet sind, und kehren Sie beim ersten Anzeichen von übermäßigem Hecheln, Stolpern oder Widerwillen weiterzugehen um.`,
       nl: `De meeste gezonde volwassen honden kunnen prima om met de hoogtes die kabelbanen in deze gids bereiken, ongeveer 2.000 tot 2.300 meter, maar bouw het rustig op in plaats van op dag één meteen een toppad te bestormen. Let op de pootjes op rotsachtig of steenslagterrein, neem water mee want alpenbeekjes zijn niet altijd veilig om uit te drinken, en keer om bij het eerste teken van overmatig hijgen, struikelen of onwil om door te gaan.`,
+      it: `La maggior parte dei cani adulti sani gestisce senza problemi le altitudini raggiunte dagli impianti di questa guida, circa 2.000-2.300 metri, ma aumenta gradualmente invece di lanciarti subito su un sentiero di vetta il primo giorno. Controlla i cuscinetti su terreno roccioso o di ghiaione, porta acqua perché i torrenti alpini non sono sempre sicuri da bere, e torna indietro al primo segno di ansimare eccessivo, inciampare o riluttanza a proseguire.`,
     },
   },
 }
 
 const p = (o: L4, locale: string) =>
-  locale === 'fr' ? o.fr : locale === 'es' ? o.es : locale === 'pt' ? o.pt : locale === 'de' ? o.de : locale === 'nl' ? o.nl : o.en
+  locale === 'fr' ? o.fr : locale === 'es' ? o.es : locale === 'pt' ? o.pt : locale === 'de' ? o.de : locale === 'nl' ? o.nl : locale === 'it' ? o.it : o.en
 
 export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -294,7 +318,7 @@ export async function generateMetadata({
     alternates: {
       canonical: `${SITE_URL}/${locale}/guides/${SLUG}`,
       languages: {
-        ...Object.fromEntries(locales.map((l) => [l, `${SITE_URL}/${l}/guides/${SLUG}`])),
+        ...Object.fromEntries(locales.filter((hl) => hl !== 'it').map((l) => [l, `${SITE_URL}/${l}/guides/${SLUG}`])),
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },

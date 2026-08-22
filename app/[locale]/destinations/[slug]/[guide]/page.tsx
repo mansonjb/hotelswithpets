@@ -323,7 +323,7 @@ export async function generateMetadata({
     alternates: {
       canonical: `${SITE_URL}/${locale}/destinations/${slug}/${guide}`,
       languages: {
-        ...Object.fromEntries(locales.map(l => [l, `${SITE_URL}/${l}/destinations/${slug}/${guide}`])),
+        ...Object.fromEntries(locales.filter((hl) => hl !== 'it').map(l => [l, `${SITE_URL}/${l}/destinations/${slug}/${guide}`])),
         'x-default': `${SITE_URL}/en/destinations/${slug}/${guide}`,
       },
     },

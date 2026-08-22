@@ -17,6 +17,7 @@ const STICKY_LABELS_ROAD: Record<string, { label: string; cta: string }> = {
   pt: { label: 'Hotéis pet-friendly para road trips em Europa', cta: 'Ver hotéis' },
   de: { label: 'Tierfreundliche Unterkünfte für Roadtrips in Europa', cta: 'Hotels ansehen' },
   nl: { label: 'Huisdiervriendelijke hotels voor je roadtrip door Europa', cta: 'Bekijk hotels' },
+  it: { label: 'Hotel pet-friendly per il tuo road trip in Europa', cta: 'Vedi gli hotel' },
 }
 
 export async function generateStaticParams() {
@@ -38,6 +39,7 @@ export async function generateMetadata({
     pt: 'Road trip com tu cão en Europa: seguridad, leis e cruce de fronteras (2025)',
     de: 'Roadtrip mit Hund durch Europa: Sicherheit, Gesetze und Grenzübertritt (2025)',
     nl: 'Roadtrip met je hond door Europa: veiligheid, wetten en grensovergangen (2025)',
+    it: 'Road trip con il tuo cane in Europa: sicurezza, leggi e attraversamento delle frontiere (2025)',
   }
   const descriptions: Record<string, string> = {
     en: 'Complete guide to road-tripping across Europe with your dog: car safety laws by country, harness vs crate, border crossings, Eurotunnel & ferry policies, heat safety, stops, and first aid essentials.',
@@ -46,6 +48,7 @@ export async function generateMetadata({
     pt: 'Guía completa para um road trip por Europa com tu cão: leis por país, arnés vs transportadora, cruce de fronteras, Eurotunnel, gestión do calor e botiquín esencial.',
     de: 'Der komplette Guide für einen Roadtrip mit Hund durch Europa: Sicherheitsgesetze im Auto nach Land, Auto-Sicherheitsgeschirr vs. Transportbox, Grenzübertritte, Eurotunnel- und Fährbestimmungen, Hitzeschutz, Pausen und die wichtigste Erste-Hilfe-Ausrüstung.',
     nl: 'Complete gids voor een roadtrip met je hond door Europa: veiligheidswetten in de auto per land, tuigje versus reisbench, grensovergangen, Eurotunnel- en veerbootbeleid, hittepreventie, stops en de belangrijkste EHBO-uitrusting.',
+    it: 'Guida completa per un road trip in auto in Europa con il tuo cane: leggi di sicurezza per paese, imbracatura vs trasportino, attraversamento delle frontiere, politiche Eurotunnel e traghetti, gestione del caldo, soste e kit di pronto soccorso essenziale.',
   }
 
   const today = new Date().toISOString().split('T')[0]
@@ -88,9 +91,9 @@ interface RestraintRule {
 const RESTRAINT_RULES: RestraintRule[] = [
   {
     flag: '🇫🇷',
-    country: { en: 'France', fr: 'France', es: 'Francia', pt: 'Francia', de: 'Frankreich', nl: 'Frankrijk' },
-    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí', de: 'Ja', nl: 'Ja' },
-    fine: { en: 'Up to €750 (general distraction fine)', fr: "Jusqu'à 750 € (infraction distraction)", es: 'Hasta 750 € (infracción distracción)', pt: 'Até 750 € (infração distracción)', de: 'Bis zu 750 € (allgemeines Bußgeld für Ablenkung)', nl: 'Tot €750 (algemene boete voor afleiding)' },
+    country: { en: 'France', fr: 'France', es: 'Francia', pt: 'Francia', de: 'Frankreich', nl: 'Frankrijk', it: 'Francia' },
+    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí', de: 'Ja', nl: 'Ja', it: 'Sì' },
+    fine: { en: 'Up to €750 (general distraction fine)', fr: "Jusqu'à 750 € (infraction distraction)", es: 'Hasta 750 € (infracción distracción)', pt: 'Até 750 € (infração distracción)', de: 'Bis zu 750 € (allgemeines Bußgeld für Ablenkung)', nl: 'Tot €750 (algemene boete voor afleiding)', it: 'Fino a 750 € (multa per distrazione generica)' },
     notes: {
       en: 'Dog must be restrained by harness, crate or cargo net and cannot interfere with the driver. Must travel in the back seat or boot.',
       fr: "Le chien doit être attaché (harnais, caisse ou filet) et ne doit pas gêner le conducteur. Doit voyager à l'arrière ou dans le coffre.",
@@ -98,13 +101,14 @@ const RESTRAINT_RULES: RestraintRule[] = [
       pt: 'O cão debe estar sujeto (arnés, transportadora o red) e no pode interferir com o conductor. Debe viajar na parte trasera o maletero.',
       de: 'Der Hund muss mit Auto-Sicherheitsgeschirr, Transportbox oder Trenngitter gesichert sein und darf den Fahrer nicht ablenken. Er muss auf der Rückbank oder im Kofferraum mitfahren.',
       nl: 'Je hond moet vastzitten met een tuigje, reisbench of scheidingsnet en mag de bestuurder niet afleiden. Hij moet op de achterbank of in de kofferbak reizen.',
+      it: `Il cane deve essere trattenuto con imbracatura, trasportino o rete divisoria e non deve disturbare il conducente. Deve viaggiare sul sedile posteriore o nel bagagliaio.`,
     },
   },
   {
     flag: '🇩🇪',
-    country: { en: 'Germany', fr: 'Allemagne', es: 'Alemania', pt: 'Alemania', de: 'Deutschland', nl: 'Duitsland' },
-    mandatory: { en: 'Yes (under cargo rules)', fr: 'Oui (règles de chargement)', es: 'Sí (normas de carga)', pt: 'Sí (normas de carga)', de: 'Ja (nach Ladungsvorschriften)', nl: 'Ja (onder ladingregels)' },
-    fine: { en: 'Up to €35–€75', fr: "Jusqu'à 35–75 €", es: 'Hasta 35–75 €', pt: 'Até 35–75 €', de: 'Bis zu 35–75 €', nl: 'Tot €35–€75' },
+    country: { en: 'Germany', fr: 'Allemagne', es: 'Alemania', pt: 'Alemania', de: 'Deutschland', nl: 'Duitsland', it: 'Germania' },
+    mandatory: { en: 'Yes (under cargo rules)', fr: 'Oui (règles de chargement)', es: 'Sí (normas de carga)', pt: 'Sí (normas de carga)', de: 'Ja (nach Ladungsvorschriften)', nl: 'Ja (onder ladingregels)', it: 'Sì (secondo le norme sul carico)' },
+    fine: { en: 'Up to €35–€75', fr: "Jusqu'à 35–75 €", es: 'Hasta 35–75 €', pt: 'Até 35–75 €', de: 'Bis zu 35–75 €', nl: 'Tot €35–€75', it: 'Fino a 35–75 €' },
     notes: {
       en: 'Dogs classified as "cargo" must be secured so they cannot be thrown around or endanger passengers. Unsecured dogs causing an accident increase liability significantly.',
       fr: "Les chiens sont classés « marchandise » et doivent être fixés pour ne pas être projetés. Un chien non attaché causant un accident engage fortement la responsabilité du conducteur.",
@@ -112,13 +116,14 @@ const RESTRAINT_RULES: RestraintRule[] = [
       pt: 'Os cães se clasifican como "carga" e deben estar fijados para no salir despedidos. Um cão sem sujetar que cause um accidente implica uma responsabilidad considerable.',
       de: 'Hunde gelten als „Ladung" und müssen so gesichert sein, dass sie nicht umherfliegen oder Insassen gefährden können. Ein ungesicherter Hund, der einen Unfall verursacht, erhöht die Haftung erheblich.',
       nl: 'Honden gelden als "lading" en moeten zo vastzitten dat ze niet kunnen rondvliegen of passagiers in gevaar brengen. Een loslopende hond die een ongeluk veroorzaakt, verhoogt de aansprakelijkheid aanzienlijk.',
+      it: `I cani sono classificati come "carico" e devono essere fissati in modo da non essere sbalzati o mettere in pericolo i passeggeri. Un cane non trattenuto che causa un incidente aumenta notevolmente la responsabilità.`,
     },
   },
   {
     flag: '🇪🇸',
-    country: { en: 'Spain', fr: 'Espagne', es: 'España', pt: 'Espanha', de: 'Spanien', nl: 'Spanje' },
-    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí', de: 'Ja', nl: 'Ja' },
-    fine: { en: '€200 (up to €200,000 in serious cases)', fr: '200 € (jusqu\'à 200 000 € cas graves)', es: '200 € (hasta 200 000 € en casos graves)', pt: '200 € (até 200 000 € en casos graves)', de: '200 € (bei schweren Fällen bis zu 200.000 €)', nl: '€200 (tot €200.000 in ernstige gevallen)' },
+    country: { en: 'Spain', fr: 'Espagne', es: 'España', pt: 'Espanha', de: 'Spanien', nl: 'Spanje', it: 'Spagna' },
+    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí', de: 'Ja', nl: 'Ja', it: 'Sì' },
+    fine: { en: '€200 (up to €200,000 in serious cases)', fr: '200 € (jusqu\'à 200 000 € cas graves)', es: '200 € (hasta 200 000 € en casos graves)', pt: '200 € (até 200 000 € en casos graves)', de: '200 € (bei schweren Fällen bis zu 200.000 €)', nl: '€200 (tot €200.000 in ernstige gevallen)', it: '200 € (fino a 200.000 € nei casi gravi)' },
     notes: {
       en: "Spain's Animal Welfare Law (Ley 7/2023) requires pets to be properly restrained in vehicles. The DGT (traffic authority) can fine drivers €200 for an unrestrained dog, with much higher fines if the animal is injured.",
       fr: "La loi espagnole de bien-être animal (Ley 7/2023) impose une retenue correcte des animaux dans les véhicules. La DGT inflige une amende de 200 € pour un chien non attaché, bien plus si l'animal est blessé.",
@@ -126,13 +131,14 @@ const RESTRAINT_RULES: RestraintRule[] = [
       pt: 'A Lei de bienestar animal espanhola (Lei 7/2023) exige que os animales estén debidamente sujetos nos vehículos. A DGT pode multar com 200 € por um cão sem sujetar, e muito mais si o animal resulta herido.',
       de: 'Das spanische Tierschutzgesetz (Ley 7/2023) schreibt vor, dass Haustiere im Fahrzeug ordnungsgemäß gesichert sein müssen. Die DGT (Verkehrsbehörde) kann bei einem ungesicherten Hund ein Bußgeld von 200 € verhängen, deutlich mehr bei Verletzung des Tieres.',
       nl: 'De Spaanse dierenwelzijnswet (Ley 7/2023) schrijft voor dat huisdieren goed vastzitten in voertuigen. De DGT (verkeersautoriteit) kan bestuurders €200 boete geven voor een loslopende hond, veel meer als het dier gewond raakt.',
+      it: `La legge spagnola sul benessere animale (Ley 7/2023) impone che gli animali domestici siano correttamente trattenuti nei veicoli. La DGT (autorità del traffico) può multare con 200 € per un cane non trattenuto, molto di più se l'animale resta ferito.`,
     },
   },
   {
     flag: '🇮🇹',
-    country: { en: 'Italy', fr: 'Italie', es: 'Italia', pt: 'Italia', de: 'Italien', nl: 'Italië' },
-    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí', de: 'Ja', nl: 'Ja' },
-    fine: { en: '€78–€311 + possible licence suspension', fr: '78–311 € + possible suspension de permis', es: '78–311 € + posible suspensión del carnet', pt: '78–311 € + posible suspensión do carnet', de: '78–311 € + möglicher Führerscheinentzug', nl: '€78–€311 + mogelijke schorsing van je rijbewijs' },
+    country: { en: 'Italy', fr: 'Italie', es: 'Italia', pt: 'Italia', de: 'Italien', nl: 'Italië', it: 'Italia' },
+    mandatory: { en: 'Yes', fr: 'Oui', es: 'Sí', pt: 'Sí', de: 'Ja', nl: 'Ja', it: 'Sì' },
+    fine: { en: '€78–€311 + possible licence suspension', fr: '78–311 € + possible suspension de permis', es: '78–311 € + posible suspensión del carnet', pt: '78–311 € + posible suspensión do carnet', de: '78–311 € + möglicher Führerscheinentzug', nl: '€78–€311 + mogelijke schorsing van je rijbewijs', it: '78–311 € + possibile sospensione della patente' },
     notes: {
       en: "Italian Highway Code (Art. 169) requires dogs to be restrained if travelling alone, or secured in a carrier or by a divider. A maximum of one dog per front seat occupant is allowed (pets in laps while driving is banned).",
       fr: "Le Code de la route italien (art. 169) impose la retenue des chiens voyageant seuls ou la caisse/filet de séparation. Maximum un animal par occupant (sur les genoux du conducteur : interdit).",
@@ -140,13 +146,14 @@ const RESTRAINT_RULES: RestraintRule[] = [
       pt: 'O Código de circulación italiano (Art. 169) exige que os cães que viajen solos estén sujetos o en transportadora/malla separadora. Máximo um animal por ocupante (no regazo do conductor: prohibido).',
       de: 'Die italienische Straßenverkehrsordnung (Art. 169) verlangt, dass allein reisende Hunde gesichert oder durch eine Transportbox bzw. ein Trenngitter getrennt werden. Maximal ein Tier pro Sitzplatz vorn ist erlaubt (Hunde auf dem Schoß des Fahrers sind verboten).',
       nl: 'De Italiaanse verkeerswet (art. 169) verplicht dat alleen reizende honden vastzitten of in een reismand/met een scheidingsnet worden vervoerd. Maximaal één dier per voorstoelpassagier is toegestaan (een hond op schoot tijdens het rijden is verboden).',
+      it: `Il Codice della Strada italiano (art. 169) impone che i cani che viaggiano da soli siano trattenuti oppure assicurati in un trasportino o con una rete divisoria. È ammesso un massimo di un animale per occupante del sedile anteriore (il cane in braccio durante la guida è vietato).`,
     },
   },
   {
     flag: '🇧🇪',
-    country: { en: 'Belgium', fr: 'Belgique', es: 'Bélgica', pt: 'Bélgica', de: 'Belgien', nl: 'België' },
-    mandatory: { en: 'Recommended, not explicit law', fr: 'Recommandé, pas de loi explicite', es: 'Recomendado, sin ley explícita', pt: 'Recomendado, sem lei explícita', de: 'Empfohlen, kein ausdrückliches Gesetz', nl: 'Aanbevolen, geen expliciete wet' },
-    fine: { en: 'Could be fined for causing distraction', fr: 'Amende possible pour distraction', es: 'Posible multa por distracción', pt: 'Posible multa por distracción', de: 'Bußgeld wegen Ablenkung möglich', nl: 'Boete mogelijk wegens afleiding' },
+    country: { en: 'Belgium', fr: 'Belgique', es: 'Bélgica', pt: 'Bélgica', de: 'Belgien', nl: 'België', it: 'Belgio' },
+    mandatory: { en: 'Recommended, not explicit law', fr: 'Recommandé, pas de loi explicite', es: 'Recomendado, sin ley explícita', pt: 'Recomendado, sem lei explícita', de: 'Empfohlen, kein ausdrückliches Gesetz', nl: 'Aanbevolen, geen expliciete wet', it: 'Consigliato, nessuna legge esplicita' },
+    fine: { en: 'Could be fined for causing distraction', fr: 'Amende possible pour distraction', es: 'Posible multa por distracción', pt: 'Posible multa por distracción', de: 'Bußgeld wegen Ablenkung möglich', nl: 'Boete mogelijk wegens afleiding', it: 'Multa possibile per distrazione alla guida' },
     notes: {
       en: 'No specific dog-in-car law, but the general duty to avoid distracting the driver applies. Unrestrained dogs that cause an accident will affect insurance claims.',
       fr: "Pas de loi spécifique, mais l'obligation générale de ne pas distraire le conducteur s'applique. Un chien non attaché causant un accident impacte l'assurance.",
@@ -154,13 +161,14 @@ const RESTRAINT_RULES: RestraintRule[] = [
       pt: 'Sem lei específica, mas se aplica a obrigação general de no distraer al conductor. Um cão sem sujetar que cause um accidente afecta al seguro.',
       de: 'Es gibt kein spezifisches Gesetz für Hunde im Auto, aber die allgemeine Pflicht, den Fahrer nicht abzulenken, gilt trotzdem. Ein ungesicherter Hund, der einen Unfall verursacht, wirkt sich auf die Versicherung aus.',
       nl: 'Er is geen specifieke wet voor honden in de auto, maar de algemene plicht om de bestuurder niet af te leiden geldt wel. Een loslopende hond die een ongeluk veroorzaakt, heeft gevolgen voor je verzekering.',
+      it: `Non esiste una legge specifica sui cani in auto, ma si applica l'obbligo generale di non distrarre il conducente. Un cane non trattenuto che causa un incidente ha ripercussioni sull'assicurazione.`,
     },
   },
   {
     flag: '🇳🇱',
-    country: { en: 'Netherlands', fr: 'Pays-Bas', es: 'Países Bajos', pt: 'Países Bajos', de: 'Niederlande', nl: 'Nederland' },
-    mandatory: { en: 'Recommended, not explicit law', fr: 'Recommandé, pas de loi explicite', es: 'Recomendado, sin ley explícita', pt: 'Recomendado, sem lei explícita', de: 'Empfohlen, kein ausdrückliches Gesetz', nl: 'Aanbevolen, geen expliciete wet' },
-    fine: { en: 'General distraction fine applies', fr: 'Amende distraction applicable', es: 'Multa por distracción aplicable', pt: 'Multa por distracción aplicable', de: 'Allgemeines Bußgeld wegen Ablenkung möglich', nl: 'Algemene boete voor afleiding is van toepassing' },
+    country: { en: 'Netherlands', fr: 'Pays-Bas', es: 'Países Bajos', pt: 'Países Bajos', de: 'Niederlande', nl: 'Nederland', it: 'Paesi Bassi' },
+    mandatory: { en: 'Recommended, not explicit law', fr: 'Recommandé, pas de loi explicite', es: 'Recomendado, sin ley explícita', pt: 'Recomendado, sem lei explícita', de: 'Empfohlen, kein ausdrückliches Gesetz', nl: 'Aanbevolen, geen expliciete wet', it: 'Consigliato, nessuna legge esplicita' },
+    fine: { en: 'General distraction fine applies', fr: 'Amende distraction applicable', es: 'Multa por distracción aplicable', pt: 'Multa por distracción aplicable', de: 'Allgemeines Bußgeld wegen Ablenkung möglich', nl: 'Algemene boete voor afleiding is van toepassing', it: 'Si applica la multa generica per distrazione' },
     notes: {
       en: 'No specific mandatory restraint law. However, under general traffic rules, any distraction, including an unrestrained dog, can lead to fines.',
       fr: "Pas de loi explicite sur la retenue. Mais toute distraction, y compris un chien non attaché, peut entraîner une amende selon le code de la route général.",
@@ -168,13 +176,14 @@ const RESTRAINT_RULES: RestraintRule[] = [
       pt: 'Sem lei explícita de sujeción. No entanto, cualquier distracción, incluido um cão sem sujetar, pode derivar en multa segundo as normas generales de tráfico.',
       de: 'Es gibt kein spezifisches Gesetz zur Sicherung. Nach den allgemeinen Verkehrsregeln kann jede Ablenkung, einschließlich eines ungesicherten Hundes, jedoch zu einem Bußgeld führen.',
       nl: 'Er is geen specifieke wet die vastzetten verplicht. Volgens de algemene verkeersregels kan elke afleiding, inclusief een loslopende hond, echter wel tot een boete leiden.',
+      it: `Non esiste una legge specifica che obblighi a trattenere il cane. Tuttavia, secondo le norme generali sul traffico, qualsiasi distrazione, compreso un cane non trattenuto, può portare a una multa.`,
     },
   },
   {
     flag: '🇨🇭',
-    country: { en: 'Switzerland', fr: 'Suisse', es: 'Suiza', pt: 'Suiza', de: 'Schweiz', nl: 'Zwitserland' },
-    mandatory: { en: 'Yes (under cargo law)', fr: 'Oui (loi sur le chargement)', es: 'Sí (ley de carga)', pt: 'Sí (lei de carga)', de: 'Ja (nach Frachtrecht)', nl: 'Ja (onder ladingrecht)' },
-    fine: { en: 'CHF 100+', fr: 'CHF 100+', es: 'CHF 100+', pt: 'CHF 100+', de: 'CHF 100+', nl: 'CHF 100+' },
+    country: { en: 'Switzerland', fr: 'Suisse', es: 'Suiza', pt: 'Suiza', de: 'Schweiz', nl: 'Zwitserland', it: 'Svizzera' },
+    mandatory: { en: 'Yes (under cargo law)', fr: 'Oui (loi sur le chargement)', es: 'Sí (ley de carga)', pt: 'Sí (lei de carga)', de: 'Ja (nach Frachtrecht)', nl: 'Ja (onder ladingrecht)', it: 'Sì (secondo la legge sul carico)' },
+    fine: { en: 'CHF 100+', fr: 'CHF 100+', es: 'CHF 100+', pt: 'CHF 100+', de: 'CHF 100+', nl: 'CHF 100+', it: 'CHF 100+' },
     notes: {
       en: "Swiss Road Traffic Act classifies dogs as freight: they must be placed so they cannot fall, endanger anyone or block the driver's view. Stop every 1–1.5 hours is specifically recommended by Swiss authorities.",
       fr: "La loi suisse classe les chiens comme fret : ils doivent être placés pour ne pas tomber, mettre en danger quiconque ni bloquer la vue du conducteur. Les autorités suisses recommandent une pause toutes les 1–1,5 heure.",
@@ -182,6 +191,7 @@ const RESTRAINT_RULES: RestraintRule[] = [
       pt: 'A lei suiza clasifica aos cães como mercancía: deben estar colocados de modo que no puedan caer, poner en peligro a nadie ni bloquear a visión do conductor. As autoridades suizas recomiendan parar cada 1–1,5 horas.',
       de: 'Das Schweizer Straßenverkehrsgesetz stuft Hunde als Fracht ein: Sie müssen so platziert werden, dass sie nicht herunterfallen, niemanden gefährden oder die Sicht des Fahrers versperren können. Die Schweizer Behörden empfehlen ausdrücklich eine Pause alle 1–1,5 Stunden.',
       nl: 'De Zwitserse verkeerswet classificeert honden als vracht: ze moeten zo geplaatst worden dat ze niet kunnen vallen, niemand in gevaar brengen of het zicht van de bestuurder blokkeren. De Zwitserse autoriteiten bevelen expliciet elke 1 à 1,5 uur een pauze aan.',
+      it: `La legge svizzera sulla circolazione stradale classifica i cani come merce: devono essere posizionati in modo da non cadere, mettere in pericolo nessuno né bloccare la vista del conducente. Le autorità svizzere raccomandano espressamente una sosta ogni 1–1,5 ore.`,
     },
   },
 ]
@@ -1215,6 +1225,176 @@ const COPY = {
     tableHeaderNotes: 'Specifieke regels',
     countryLawTitle: 'Wetten voor het vastzetten van je hond in de auto per land',
   },
+
+  it: {
+    hero: 'Road trip con il tuo cane in Europa: la guida completa',
+    subtitle: `Leggi di sicurezza in auto per paese, imbracatura vs trasportino, attraversamento delle frontiere, politiche Eurotunnel e traghetti, gestione del caldo, frequenza delle soste e kit di pronto soccorso essenziale, tutto quello che serve prima di partire.`,
+    lastUpdate: 'Aggiornato a',
+    breadcrumbGuides: 'Guide',
+    breadcrumbCurrent: 'Road trip con il tuo cane',
+    badge: 'Guida pratica',
+    sources: 'Fonti verificate',
+    sourcesText: `Questa guida si basa sui codici della strada e sulle normative ufficiali delle autorità di trasporto di ogni paese (Code de la Route francese, StVO tedesco, DGT spagnola / Ley 7/2023, Codice della Strada italiano, legge svizzera sulla circolazione stradale), sulle politiche ufficiali di Eurotunnel Le Shuttle, DFDS, Brittany Ferries e P&O Ferries, e su raccomandazioni veterinarie pubblicate. Verifica sempre con le autorità del paese di destinazione prima di partire.`,
+
+    checklistTitle: 'Checklist prima della partenza',
+    checklist: [
+      { icon: '📔', label: 'Passaporto europeo per animali aggiornato', note: 'Microchip + vaccinazione antirabbica valida' },
+      { icon: '🔒', label: 'Sistema di trattenuta omologato e testato', note: `Imbracatura testata, trasportino fissato o rete divisoria` },
+      { icon: '💧', label: 'Acqua fresca e ciotola da viaggio', note: 'Offri acqua ogni 2 ore' },
+      { icon: '🩺', label: 'Kit di pronto soccorso per cani', note: 'Pinzetta per zecche, antisettico, bende, museruola, contatto del veterinario' },
+      { icon: '🌡️', label: `Non lasciare mai il cane da solo in auto`, note: `Anche all'ombra, la temperatura può diventare letale in 10 minuti` },
+      { icon: '🗂️', label: 'Copie dei documenti (sicurezza)', note: 'Tieni gli originali sempre a portata di mano, mai nel bagagliaio' },
+    ],
+
+    safetyTitle: 'Sicurezza in auto: imbracatura, trasportino o barriera?',
+    safetyIntro: `In un urto a 50 km/h, un cane di 20 kg non trattenuto diventa un proiettile da 300 kg. I dati dei crash test mostrano livelli di protezione molto diversi a seconda del sistema di trattenuta scelto.`,
+    safetyOptions: [
+      {
+        icon: '🔒',
+        title: 'Trasportino correttamente fissato',
+        rating: 'Protezione migliore',
+        ratingColor: 'text-emerald-700 bg-emerald-50 border-emerald-200',
+        text: `Un trasportino rigido avvitato ai punti di ancoraggio del bagagliaio o ben assicurato con cinghie è l'opzione più sicura. Le pareti rigide distribuiscono le forze dell'urto attorno al cane invece di concentrarle in un unico punto. Attenzione: un trasportino semplicemente appoggiato nel bagagliaio senza fissaggio offre poca più protezione di un cane libero.`,
+      },
+      {
+        icon: '🪢',
+        title: 'Imbracatura testata negli urti',
+        rating: 'Adeguata se certificata',
+        ratingColor: 'text-amber-700 bg-amber-50 border-amber-200',
+        text: `Delle 11 imbracature testate dal Center for Pet Safety (CPS), solo una ha superato il test. La maggior parte delle imbracature standard cede oltre i 40 km/h. Scegli sempre un modello con certificazione crash-test verificata, mai un'imbracatura da passeggio riadattata.`,
+      },
+      {
+        icon: '🚧',
+        title: 'Barriera o rete divisoria per bagagliaio',
+        rating: 'Protezione parziale',
+        ratingColor: 'text-blue-700 bg-blue-50 border-blue-200',
+        text: `Una barriera per bagagliaio impedisce al cane di accedere all'abitacolo, ma offre poca protezione in un urto frontale violento: il cane può essere sbalzato contro la barriera stessa. Utile se combinata con un trasportino; insufficiente da sola per i viaggi lunghi.`,
+      },
+    ],
+    safetyCrashNote: `Consiglio: qualunque sia il sistema scelto, abitua il tuo cane gradualmente prima del grande viaggio.`,
+
+    planningTitle: 'Pianificare il viaggio',
+    planningIntro: `La maggior parte dei veterinari raccomanda una sosta ogni 2-3 ore al massimo. Alcuni cani (cuccioli, cani anziani, razze brachicefale) possono avere bisogno di soste più frequenti.`,
+    planningItems: [
+      { icon: '⏱️', title: 'Sosta ogni 2 ore', text: `15-30 minuti di passeggiata, acqua fresca, controllo della temperatura corporea. Non superare le 7 ore di guida al giorno.` },
+      { icon: '💧', title: 'Idratazione regolare', text: `Offri acqua a ogni sosta. Evita pasti abbondanti prima della partenza per limitare la nausea. È consigliato lo stomaco vuoto 2-3 ore prima di partire.` },
+      { icon: '🌿', title: 'Aree pet-friendly in autostrada', text: `In Francia, le reti APRR/AREA e Vinci offrono aree canine appositamente attrezzate (spazio gioco, ostacoli, zone ombreggiate). La mappa delle aree pet-friendly APRR è disponibile tramite l'app Fulli.` },
+      { icon: '🌡️', title: 'Gestione del caldo', text: `Con 25°C esterni, l'abitacolo raggiunge i 50°C in meno di 30 minuti. Non lasciare MAI il tuo cane da solo in auto. I finestrini socchiusi non bastano: l'aumento di temperatura è praticamente identico.` },
+    ],
+
+    borderTitle: 'Attraversamento delle frontiere in auto',
+    borderIntro: `Nell'area Schengen (la maggior parte dei paesi UE), i controlli alle frontiere sono rari ma i documenti devono essere presentati su richiesta. Per i paesi fuori Schengen, aspettati un controllo sistematico.`,
+    borderItems: [
+      {
+        flag: '🇪🇺',
+        zone: 'Paesi UE (Schengen)',
+        docs: 'Passaporto europeo per animali + microchip + vaccino antirabbico aggiornato',
+        notes: 'Controlli rari ma possibili. Presenta i documenti su richiesta. Verifica obbligatoria: Finlandia, Irlanda (trattamento antiparassitario per la tenia richiesto).',
+      },
+      {
+        flag: '🇨🇭',
+        zone: 'Svizzera (fuori UE, fuori Schengen)',
+        docs: 'Passaporto UE o documento equivalente accettato + microchip + vaccino antirabbico',
+        notes: `Controllo alla frontiera. Usa il canale rosso per la dichiarazione dell'animale. Nessun trattamento aggiuntivo richiesto per i viaggiatori UE.`,
+      },
+      {
+        flag: '🇳🇴',
+        zone: 'Norvegia (SEE, fuori UE)',
+        docs: `Passaporto UE accettato + trattamento antiparassitario per la tenia obbligatorio 1-5 giorni prima dell'ingresso`,
+        notes: `Dichiarazione obbligatoria alla dogana norvegese (canale rosso). Il trattamento contro l'Echinococcus deve essere registrato nel passaporto da un veterinario.`,
+      },
+      {
+        flag: '🇬🇧',
+        zone: 'Regno Unito (post-Brexit)',
+        docs: `Certificato Sanitario per Animali (AHC) rilasciato entro 10 giorni + trattamento antiparassitario per la tenia 1-5 giorni prima`,
+        notes: `Il passaporto UE non è più accettato. Solo tramite punti di ingresso approvati (Dover, St Pancras...). Vettore approvato obbligatorio.`,
+      },
+    ],
+
+    crossingTitle: 'Eurotunnel e traghetti: cosa sapere',
+    eurotunnelTitle: 'Eurotunnel Le Shuttle (Folkestone ↔ Calais)',
+    eurotunnelItems: [
+      `I tuoi animali restano nel veicolo per tutta la traversata (35 minuti), nessuna separazione richiesta.`,
+      `Check-in allo sportello animali almeno 1 ora prima della partenza (non più di 2 ore).`,
+      `Entrambi i terminal (Folkestone e Coquelles) hanno uno sportello animali attivo 24 ore su 24.`,
+      `Documenti richiesti: passaporto UE (o AHC dal Regno Unito) + trattamento antiparassitario per la tenia per entrare in Gran Bretagna.`,
+      `Tariffa: circa 22 £ per animale a tratta (in aggiunta al biglietto del veicolo).`,
+    ],
+    ferriesTitle: 'Traghetti (Manica e Mare del Nord)',
+    ferries: [
+      {
+        name: 'Brittany Ferries',
+        notes: `Cabine pet-friendly disponibili (cane con te in cabina) sulla maggior parte delle tratte. Disponibili anche canili a bordo. Museruola obbligatoria negli spazi comuni. Tariffa a partire da 35 £ a tratta.`,
+      },
+      {
+        name: 'DFDS',
+        notes: `Cabine pet-friendly (4 posti letto, vista mare, max 2 animali). Canili a bordo disponibili a 40 € per cane a tratta. Il cane deve essere tenuto al guinzaglio negli spazi comuni.`,
+      },
+      {
+        name: 'P&O Ferries',
+        notes: `6 cabine pet-friendly per traghetto sulla tratta Hull-Rotterdam (traversata notturna di circa 12h). Max 2 cani piccoli o 1 cane medio/grande per cabina.`,
+      },
+    ],
+
+    firstAidTitle: `Kit di pronto soccorso per il viaggio in auto`,
+    firstAidItems: [
+      { icon: '🪲', item: 'Pinzetta per zecche (x2)', note: 'Essenziale in estate e nelle zone boschive' },
+      { icon: '🩹', item: 'Bende e garze sterili', note: `Per stabilizzare una ferita fino ad arrivare dal veterinario` },
+      { icon: '🧴', item: 'Antisettico (clorexidina o Betadine)', note: 'Pulire ferite e tagli' },
+      { icon: '😷', item: 'Museruola adatta alla taglia del cane', note: `Un cane ferito può mordere per il dolore, proteggiti prima di intervenire` },
+      { icon: '🌡️', item: 'Termometro rettale', note: 'Normale: 38-39°C. Sopra i 40°C = emergenza' },
+      { icon: '🧊', item: 'Panetto refrigerante riutilizzabile', note: `In caso di colpo di calore: raffreddare gradualmente (mai acqua ghiacciata)` },
+      { icon: '💊', item: 'Farmaco contro il mal d\'auto prescritto dal veterinario', note: `Chiedi al tuo veterinario prima della partenza` },
+      { icon: '📋', item: 'Contatto del veterinario locale + veterinario di emergenza in Europa', note: 'Numero ECVIM o FindAVet a seconda del paese di destinazione' },
+      { icon: '🚿', item: 'Salviette disinfettanti e guanti in lattice', note: 'Per medicazioni di base pulite' },
+      { icon: '📌', item: 'Due foto del tuo cane + numero di microchip', note: 'In caso di fuga in un paese straniero' },
+    ],
+
+    faqTitle: 'Domande frequenti',
+    faqs: [
+      {
+        q: 'Il mio cane deve essere trattenuto in auto in Europa?',
+        a: `Nella maggior parte dei paesi europei (Francia, Germania, Spagna, Italia, Svizzera) sì, anche se la base legale varia. Alcuni paesi prevedono una multa diretta per il cane non trattenuto; altri si basano sull'obbligo generale di non distrarre il conducente. In pratica, usa sempre un sistema di trattenuta testato negli urti per la sicurezza del tuo cane e la tua stessa protezione legale.`,
+      },
+      {
+        q: 'Quante soste fare durante un viaggio lungo?',
+        a: `Prevedi una sosta di 15-30 minuti ogni 2-3 ore. I cuccioli, i cani anziani e le razze brachicefale (bulldog, carlini...) possono avere bisogno di soste più frequenti. Punta a un massimo di 7 ore di guida al giorno. Offri acqua a ogni sosta.`,
+      },
+      {
+        q: 'Posso lasciare il mio cane da solo in auto durante un road trip?',
+        a: `No, con caldo o sole. Con 25°C esterni, l'interno di un'auto può raggiungere i 50-60°C in meno di 30 minuti. Anche con i finestrini socchiusi, l'aumento di temperatura è quasi identico. Organizza le soste in squadra, usa parcheggi ombreggiati o un parasole riflettente. Anche in inverno, con freddo intenso, esiste il rischio di ipotermia.`,
+      },
+      {
+        q: 'Mi serve un passaporto per il mio cane per attraversare una frontiera in auto?',
+        a: `Sì. Per viaggiare in Europa con il tuo cane, il passaporto europeo per animali (o documento equivalente) è indispensabile. Deve contenere il microchip ISO e la vaccinazione antirabbica aggiornata. Per il Regno Unito, un Certificato Sanitario per Animali (AHC) sostituisce il passaporto UE dopo la Brexit. Per Norvegia e Finlandia è obbligatorio un trattamento antiparassitario aggiuntivo.`,
+      },
+      {
+        q: 'Posso attraversare la Manica con il mio cane in auto tramite il tunnel?',
+        a: `Sì, tramite Eurotunnel Le Shuttle. I tuoi animali restano nel veicolo per i 35 minuti della traversata. Check-in allo sportello animali almeno 1 ora prima della partenza. Documenti: passaporto UE (dalla Francia) o AHC + trattamento antiparassitario per la tenia (dalla Gran Bretagna). Tariffa: circa 22 £ per animale in aggiunta al biglietto del veicolo.`,
+      },
+      {
+        q: 'Quali sono i segnali del colpo di calore in un cane e cosa devo fare?',
+        a: `Segnali d'allarme: ansimo eccessivo, gengive rosso vivo, salivazione abbondante, andatura barcollante, vomito. In caso di sospetto colpo di calore: porta il cane all'ombra, bagnalo con acqua fresca (non ghiacciata), offrigli piccole quantità d'acqua da bere e vai subito da un veterinario. La temperatura normale è 38-39°C, oltre i 40°C è un'emergenza vitale.`,
+      },
+      {
+        q: 'Il mio cane è assicurato in caso di incidente d\'auto all\'estero?',
+        a: `Controlla sia la tua assicurazione auto sia quella per animali: alcune coprono le spese veterinarie d'urgenza all'estero, altre no. Alcune assicurazioni auto premium includono assistenza per animali. Stipula un'assicurazione per animali con copertura internazionale prima della partenza: le spese veterinarie d'urgenza in Europa possono essere molto elevate.`,
+      },
+    ],
+
+    relatedTitle: 'Guide correlate',
+    relatedItems: [
+      { href: 'passeport-animal', label: 'Passaporto per animali: guida completa per paese' },
+      { href: 'train-avec-chien', label: 'Viaggiare in treno con il tuo cane' },
+    ],
+    tipTitle: 'Il consiglio pratico',
+    tipText: `Prima di un lungo road trip, fai un controllo veterinario, aggiorna i vaccini e chiedi se il tuo cane ha bisogno di un farmaco contro il mal d'auto. Il tuo veterinario può anche darti il contatto di colleghi nel tuo paese di destinazione.`,
+    tableHeaderCountry: 'Paese',
+    tableHeaderMandatory: 'Trattenuta obbligatoria',
+    tableHeaderFine: 'Multa',
+    tableHeaderNotes: 'Regole specifiche',
+    countryLawTitle: `Leggi per paese: trattenuta del cane in auto`,
+  },
 }
 
 export default async function RoadTripChienPage({
@@ -1225,11 +1405,11 @@ export default async function RoadTripChienPage({
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
 
-  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
+  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' || locale === 'it' ? locale : 'en'
   const copy = COPY[lang] ?? COPY.en
   const today = new Date()
   const monthYear = today.toLocaleDateString(
-    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'de' ? 'de-DE' : locale === 'nl' ? 'nl-NL' : 'en-GB',
+    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'de' ? 'de-DE' : locale === 'nl' ? 'nl-NL' : locale === 'it' ? 'it-IT' : 'en-GB',
     { month: 'long', year: 'numeric' }
   )
 
@@ -1492,7 +1672,7 @@ export default async function RoadTripChienPage({
                 href={`/${locale}/guides/passeport-animal`}
                 className="inline-flex items-center gap-2 text-sm font-semibold text-blue-600 hover:text-blue-700 bg-blue-50 hover:bg-blue-100 px-4 py-2 rounded-full transition-colors"
               >
-                📔 {lang === 'fr' ? 'Guide complet passeport animal →' : lang === 'es' ? 'Guía completa del pasaporte →' : lang === 'de' ? 'Kompletter Guide zum Heimtierausweis →' : lang === 'nl' ? 'Complete gids over het dierenpaspoort →' : 'Complete pet passport guide →'}
+                📔 {lang === 'fr' ? 'Guide complet passeport animal →' : lang === 'es' ? 'Guía completa del pasaporte →' : lang === 'de' ? 'Kompletter Guide zum Heimtierausweis →' : lang === 'nl' ? 'Complete gids over het dierenpaspoort →' : lang === 'it' ? 'Guida completa al passaporto per animali →' : 'Complete pet passport guide →'}
               </Link>
             </div>
           </section>

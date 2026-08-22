@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Domus+Leuven+Tiensestraat",
           "descriptionDe": "Familiengeführtes Braun-Café mit hauseigener Brauerei, eine Minute vom Stadhuis am Grote Markt entfernt, das seit 1985 Domus Con Domus, Nostra Domus und ein Löwener Witbier braut. Holzvertäfeltes Gewölbe-Interieur, große Hofterrasse mit Blick auf die Brautanks. Angeleinte Hunde drinnen und auf der Terrasse willkommen; Wassernäpfe an der Theke.",
           "descriptionNl": "Familiebedrijf, bruin café met eigen brouwerij, een minuut van het Stadhuis aan de Grote Markt, dat sinds 1985 Domus Con Domus, Nostra Domus en een Leuvens witbier brouwt. Houten interieur met gewelfd plafond, groot binnenplein met uitzicht op de brouwtanks. Aangelijnde honden welkom binnen en op het terras; waterbakjes bij de toog.",
+          "descriptionIt": "Attività di famiglia, bruin café con birreria propria, a un minuto dal Municipio sulla Grote Markt, che dal 1985 produce Domus Con Domus, Nostra Domus e una birra bianca di Lovanio. Interno in legno con soffitto a volta, grande cortile interno con vista sulle tank di produzione. Cani al guinzaglio benvenuti dentro e in terrazza; ciotole d'acqua al bancone.",
           "petPolicyDe": "Hunde drinnen und auf der Hofterrasse willkommen",
           "petPolicyNl": "Honden welkom binnen en op het terras",
+          "petPolicyIt": "Cani benvenuti dentro e in terrazza",
           "mustTryDe": "Domus Con Domus Blond, Stoofvlees mit Domus-Bier, Löwener Witloof-Gratin",
           "mustTryNl": "Domus Con Domus Blond, stoofvlees met Domus-bier, Leuvens witloofgratin",
+          "mustTryIt": "Domus Con Domus Blond, stufato con birra Domus, gratin di cicoria di Lovanio",
           "tipDe": "Der überdachte Innenhof wird im Winter beheizt und bleibt ruhig, auch wenn sich die vordere Terrasse am Grote Markt mit Studenten füllt; für den ruhigsten Tisch mit Hund nach dem Hinterzimmer bei den Brautanks fragen.",
-          "tipNl": "De overdekte binnenplaats wordt 's winters verwarmd en blijft rustig, ook als het voorterras aan de Grote Markt volloopt met studenten; voor de rustigste tafel met hond vraag je naar de achterkamer bij de brouwtanks."
+          "tipNl": "De overdekte binnenplaats wordt 's winters verwarmd en blijft rustig, ook als het voorterras aan de Grote Markt volloopt met studenten; voor de rustigste tafel met hond vraag je naar de achterkamer bij de brouwtanks.",
+          "tipIt": "Il cortile coperto d'inverno è riscaldato e resta tranquillo, anche quando la terrazza davanti sulla Grote Markt si riempie di studenti; per il tavolo più tranquillo con il cane chiedi la saletta sul retro vicino alle tank di produzione."
         },
         {
           "name": "Notre Dame",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Notre+Dame+Mechelsestraat+Leuven",
           "descriptionDe": "Klassisches flämisches Braun-Café, zwei Minuten vom Stadhuis entfernt, seit Jahrzehnten fester Bestandteil des Löwener Studenten- und Arbeiterlebens. Bierwand mit über 100 belgischen Sorten, darunter das lokale Stella Artois und mehrere Trappistenbiere, schlichte Holztische, ein schlafender Haushund. Angeleinte Hunde drinnen ohne Nachfrage willkommen.",
           "descriptionNl": "Klassiek Vlaams bruin café, twee minuten van het Stadhuis, al decennialang een vast onderdeel van het studenten- en werkersleven van Leuven. Bierwand met meer dan 100 Belgische soorten, waaronder het lokale Stella Artois en meerdere trappistenbieren, sobere houten tafels, een slapende huishond. Aangelijnde honden welkom binnen zonder te vragen.",
+          "descriptionIt": "Classico bruin café fiammingo, a due minuti dal Municipio, da decenni un punto fermo della vita studentesca e lavorativa di Lovanio. Parete di birre con oltre 100 varietà belghe, tra cui la Stella Artois locale e diverse birre trappiste, tavoli sobri in legno, un cane di casa che dorme. Cani al guinzaglio benvenuti dentro senza bisogno di chiedere.",
           "petPolicyDe": "Hunde drinnen ohne Nachfrage willkommen, Haushund vor Ort",
           "petPolicyNl": "Honden welkom binnen zonder te vragen, huishond aanwezig",
+          "petPolicyIt": "Cani benvenuti dentro senza chiedere, presente un cane di casa",
           "mustTryDe": "Stella Artois vom Fass, Westmalle Tripel, Stoofvlees, Kriek-Lambic",
           "mustTryNl": "Stella Artois van de tap, Westmalle Tripel, stoofvlees, kriek-lambiek",
+          "mustTryIt": "Stella Artois alla spina, Westmalle Tripel, stufato, kriek lambic",
           "tipDe": "Für das repräsentativste Erlebnis der Löwener Bierregion das Westmalle Tripel statt des Stella bestellen; das Barpersonal erklärt Erstbesuchern gerne die vier belgischen Trappisten-Stile.",
-          "tipNl": "Voor de meest representatieve ervaring van de Leuvense bierstreek bestel je de Westmalle Tripel in plaats van de Stella; het barpersoneel legt nieuwe bezoekers graag de vier Belgische trappistenstijlen uit."
+          "tipNl": "Voor de meest representatieve ervaring van de Leuvense bierstreek bestel je de Westmalle Tripel in plaats van de Stella; het barpersoneel legt nieuwe bezoekers graag de vier Belgische trappistenstijlen uit.",
+          "tipIt": "Per l'esperienza più rappresentativa della regione birraria di Lovanio ordina la Westmalle Tripel invece della Stella; il personale del bar spiega volentieri ai nuovi visitatori i quattro stili trappisti belgi."
         },
         {
           "name": "De Hoorn",
@@ -110,12 +118,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=De+Hoorn+Sluisstraat+Leuven",
           "descriptionDe": "Kulturzentrum und Brauerei-Restaurant im denkmalgeschützten Gebäude De Hoorn von 1922, der ursprünglichen Stella-Artois-Brauerei am Kanalbecken Vaartkom, zehn Minuten nördlich des Grote Markt. Das Gebäude beherbergt auch Löwens Start-up-Szene, und eine monatliche Stella-Artois-Brauereiführung startet von hier. Angeleinte Hunde auf der Terrasse am Kanal und in der Brasserie-Halle willkommen.",
           "descriptionNl": "Cultureel centrum en brouwerijrestaurant in het beschermde gebouw De Hoorn uit 1922, de oorspronkelijke Stella Artois-brouwerij aan het kanaalbekken Vaartkom, tien minuten ten noorden van de Grote Markt. Het gebouw huisvest ook Leuvens startupscene, en een maandelijkse Stella Artois-brouwerijtour vertrekt hiervandaan. Aangelijnde honden welkom op het terras aan het kanaal en in de brasseriezaal.",
+          "descriptionIt": "Centro culturale e ristorante-birreria nell'edificio protetto De Hoorn del 1922, l'originale birreria Stella Artois sul bacino del canale Vaartkom, dieci minuti a nord della Grote Markt. L'edificio ospita anche la scena startup di Lovanio, e da qui parte un tour mensile della birreria Stella Artois. Cani al guinzaglio benvenuti sulla terrazza sul canale e nella sala della brasserie.",
           "petPolicyDe": "Hunde drinnen und auf der Kanalterrasse willkommen",
           "petPolicyNl": "Honden welkom binnen en op het kanaalterras",
+          "petPolicyIt": "Cani benvenuti dentro e sulla terrazza sul canale",
           "mustTryDe": "Stella Artois kellerkalt, Hoegaarden Witbier, Kombi aus Brauereiführung",
           "mustTryNl": "Stella Artois kelderkoud, Hoegaarden witbier, combinatie met brouwerijtour",
+          "mustTryIt": "Stella Artois freddissima, Hoegaarden bianca, abbinata al tour della birreria",
           "tipDe": "Die Stella-Artois-Brauereiführung ab De Hoorn an einem Wochentag-Vormittagstermin buchen; Produktionsbereiche sind hundefrei, aber der Verkostungsraum und der Innenhof von De Hoorn akzeptieren angeleinte Hunde.",
-          "tipNl": "Boek de Stella Artois-brouwerijtour vanaf De Hoorn op een doordeweekse ochtend; productieruimtes zijn hondvrij, maar de proeverijruimte en de binnenplaats van De Hoorn accepteren aangelijnde honden."
+          "tipNl": "Boek de Stella Artois-brouwerijtour vanaf De Hoorn op een doordeweekse ochtend; productieruimtes zijn hondvrij, maar de proeverijruimte en de binnenplaats van De Hoorn accepteren aangelijnde honden.",
+          "tipIt": "Prenota il tour della birreria Stella Artois da De Hoorn in una mattina feriale; le aree di produzione sono vietate ai cani, ma la sala degustazione e il cortile di De Hoorn accettano cani al guinzaglio."
         },
         {
           "name": "Metafoor",
@@ -144,12 +156,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Metafoor+Parijsstraat+Leuven",
           "descriptionDe": "Helle unabhängige Kaffeebar und Mittagsstätte, ein kurzer Spaziergang westlich des Grote Markt, beliebt bei KU-Leuven-Akademikern. Spezialitätenkaffee, Sauerteigsandwiches, ganztägiges Frühstück, vegetarierfreundliche Speisekarte. Angeleinte Hunde drinnen auf dem Holzboden und auf der kleinen Vorderterrasse willkommen; Wassernäpfe an der Theke.",
           "descriptionNl": "Licht, onafhankelijk koffiebarretje en lunchplek, een korte wandeling ten westen van de Grote Markt, populair bij KU Leuven-academici. Specialty coffee, zuurdesemboterhammen, de hele dag ontbijt, vegetarisch-vriendelijke kaart. Aangelijnde honden welkom binnen op de houten vloer en op het kleine terras aan de voorkant; waterbakjes bij de toog.",
+          "descriptionIt": "Piccolo bar del caffè luminoso e indipendente e locale per pranzo, a breve passeggiata a ovest della Grote Markt, amato dagli accademici della KU Leuven. Caffè specialty, panini con pane a lievitazione naturale, colazione tutto il giorno, menu vegetariano-friendly. Cani al guinzaglio benvenuti dentro sul pavimento in legno e sulla piccola terrazza fronte strada; ciotole d'acqua al bancone.",
           "petPolicyDe": "Hunde drinnen und auf der Terrasse willkommen",
           "petPolicyNl": "Honden welkom binnen en op het terras",
+          "petPolicyIt": "Cani benvenuti dentro e in terrazza",
           "mustTryDe": "Flat White, Sauerteig-Croque, belgische Waffeln",
           "mustTryNl": "Flat white, zuurdesem-croque, Belgische wafels",
+          "mustTryIt": "Flat white, croque a lievitazione naturale, waffle belghi",
           "tipDe": "Am besten früh morgens an einem Wochentag mit Hund besuchen, ab 11:00 Uhr während der Vorlesungszeit füllt sich der Ort mit KU-Leuven-Studenten und -Personal.",
-          "tipNl": "Ga het best vroeg op een doordeweekse ochtend met je hond, vanaf 11.00 uur tijdens het collegejaar vult de plek zich met KU Leuven-studenten en -personeel."
+          "tipNl": "Ga het best vroeg op een doordeweekse ochtend met je hond, vanaf 11.00 uur tijdens het collegejaar vult de plek zich met KU Leuven-studenten en -personeel.",
+          "tipIt": "Meglio venire presto in una mattina feriale con il tuo cane, dalle 11.00 durante l'anno accademico il locale si riempie di studenti e personale della KU Leuven."
         },
         {
           "name": "Oude Markt Cafés (Capital, Ambiorix, Den Anker)",
@@ -178,12 +194,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Oude+Markt+Leuven",
           "descriptionDe": "Der Oude Markt ist Löwens Wahrzeichenplatz, die sogenannte \"längste Bar Europas\" mit über 40 Café-Terrassen in einem einzigen Fußgängerrechteck. Café Capital, Ambiorix und Den Anker (das Stammcafé von Stella Artois) sind verlässliche hundefreundliche Anlaufstellen an der Südseite, alle mit Außenterrassen, und die meisten heißen auch drinnen angeleinte Hunde willkommen.",
           "descriptionNl": "De Oude Markt is Leuvens iconische plein, de zogenaamde 'langste bar van Europa' met meer dan 40 caféterrassen in één voetgangersrechthoek. Café Capital, Ambiorix en Den Anker (het stamcafé van Stella Artois) zijn betrouwbaar hondvriendelijke adresjes aan de zuidkant, allemaal met buitenterrassen, en de meeste verwelkomen ook binnen aangelijnde honden.",
+          "descriptionIt": "L'Oude Markt è la piazza iconica di Lovanio, il cosiddetto 'bar più lungo d'Europa' con oltre 40 terrazze di caffè in un unico rettangolo pedonale. Café Capital, Ambiorix e Den Anker (il caffè storico di Stella Artois) sono indirizzi affidabilmente pet-friendly sul lato sud, tutti con terrazze esterne, e la maggior parte accoglie anche dentro cani al guinzaglio.",
           "petPolicyDe": "Hunde auf allen über 40 Terrassen willkommen; Innenrichtlinie von Bar zu Bar prüfen",
           "petPolicyNl": "Honden welkom op alle 40-plus terrassen; binnenbeleid verschilt per café, even navragen",
+          "petPolicyIt": "Cani benvenuti su tutte le oltre 40 terrazze; le regole per l'interno variano da caffè a caffè, meglio chiedere",
           "mustTryDe": "Stella Artois Pils, Leffe Vieux Temps Abteibier, Kriek-Lambic",
           "mustTryNl": "Stella Artois pils, Leffe Vieux Temps abdijbier, kriek-lambiek",
+          "mustTryIt": "Stella Artois pils, Leffe Vieux Temps birra d'abbazia, kriek lambic",
           "tipDe": "Donnerstag bis Samstag nach 22:00 Uhr meiden, wenn der Hund Menschenmengen nicht mag, denn der Oude Markt wird zur Haupt-Nachtlebenmeile der Stadt; für tagsüber Ruhe die westliche Platzhälfte ansteuern.",
-          "tipNl": "Vermijd donderdag tot zaterdag na 22.00 uur als je hond niet van drukte houdt, want de Oude Markt wordt dan de belangrijkste uitgaansstrook van de stad; ga voor rust overdag naar de westelijke helft van het plein."
+          "tipNl": "Vermijd donderdag tot zaterdag na 22.00 uur als je hond niet van drukte houdt, want de Oude Markt wordt dan de belangrijkste uitgaansstrook van de stad; ga voor rust overdag naar de westelijke helft van het plein.",
+          "tipIt": "Evita da giovedì a sabato dopo le 22.00 se il tuo cane non ama la confusione, perché l'Oude Markt diventa la zona di locali notturni più importante della città; per tranquillità di giorno vai nella metà occidentale della piazza."
         }
       ],
       "tipsEn": [
@@ -248,8 +268,10 @@
       ],
       "titleDe": "Hundefreundliche Restaurants in Löwen",
       "titleNl": "Hondvriendelijke restaurants in Leuven",
+      "titleIt": "Ristoranti pet-friendly a Lovanio",
       "introDe": "Löwen ist bei Tisch wirklich hundefreundlich, dank seiner flämischen Braun-Café-Tradition und der dichten Studentenlebensenergie des Oude Markt, jenem Streifen mit über 40 Cafés, den Einheimische die \"längste Bar Europas\" nennen. Angeleinte Hunde sind auf den meisten Terrassen rund um den Grote Markt, den Oude Markt und die Naamsestraat-Studentenmeile standardmäßig willkommen, Wassernäpfe werden ohne Nachfrage gebracht.",
       "introNl": "Leuven is bij het eten echt hondvriendelijk, dankzij zijn Vlaamse bruine-cafétraditie en de bruisende studentenenergie van de Oude Markt, die strook met meer dan 40 cafés die locals de 'langste bar van Europa' noemen. Aangelijnde honden zijn standaard welkom op de meeste terrassen rond de Grote Markt, de Oude Markt en de studentenstraat Naamsestraat, waterbakjes worden gebracht zonder te vragen.",
+      "introIt": "Lovanio è davvero pet-friendly quando si tratta di mangiare, grazie alla sua tradizione di bruin café fiamminghi e all'energia studentesca vivace dell'Oude Markt, la fila di oltre 40 caffè che gli abitanti chiamano 'il bar più lungo d'Europa'. I cani al guinzaglio sono benvenuti per default sulla maggior parte delle terrazze intorno alla Grote Markt, all'Oude Markt e alla via degli studenti Naamsestraat, le ciotole d'acqua arrivano senza che tu le chieda.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Löwener Restaurants erlaubt?",
@@ -268,6 +290,16 @@
         {
           "q": "Mag ik mijn hond meenemen naar een Belgisch bruin café in Leuven?",
           "a": "Ja. De bruine cafés van Leuven (Domus, Notre Dame, De Hoorn, cafés aan de Oude Markt) verwelkomen allemaal standaard aangelijnde honden, waterbakjes bij de toog zijn de norm."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani sono ammessi nei ristoranti a Lovanio?",
+          "a": "Si, nella maggior parte. Circa l'80% dei bruin café, bistrot e bar della birra di Lovanio accetta cani al guinzaglio nella sala principale. Le oltre 40 terrazze dei caffè all'Oude Markt sono senza eccezioni pet-friendly all'esterno; nei locali più eleganti varia, meglio chiamare prima."
+        },
+        {
+          "q": "Posso portare il mio cane in un bruin café belga a Lovanio?",
+          "a": "Si. I bruin café di Lovanio (Domus, Notre Dame, De Hoorn, i caffè dell'Oude Markt) accolgono tutti per default cani al guinzaglio, le ciotole d'acqua al bancone sono la norma."
         }
       ]
     },
@@ -330,10 +362,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Heverleebos+Leuven",
           "leashRuleDe": "Angeleint auf markierten Natuurpunt-Wegen; freilaufend in ausgewiesenen Zonen",
           "leashRuleNl": "Aangelijnd op gemarkeerde Natuurpunt-paden; loslopen in aangewezen zones",
+          "leashRuleIt": "Al guinzaglio sui sentieri segnalati Natuurpunt; libero nelle zone designate",
           "descriptionDe": "Der weitläufige Heverleebos und der angrenzende Meerdaalwoud bilden eines der größten zusammenhängenden Mischwaldgebiete Flanderns, 4800 Hektar Buchen und Eichen, beginnend 3 km südlich des Löwener Zentrums. Natuurpunt verwaltet mehrere markierte Wander- und Radrouten mit hundefreundlichen Rundwegen; das Arenberg-Tor nahe dem KU-Leuven-Campus ist der einfachste innerstädtische Zugang. Mehrtägiges haustierfreundliches Wandern ist auf dem Fernwanderweg GR-512, der beide Wälder durchquert, möglich.",
           "descriptionNl": "Het uitgestrekte Heverleebos en het aangrenzende Meerdaalwoud vormen een van de grootste aaneengesloten gemengde bosgebieden van Vlaanderen, 4800 hectare beuken en eiken, beginnend 3 km ten zuiden van het centrum van Leuven. Natuurpunt beheert meerdere gemarkeerde wandel- en fietsroutes met hondvriendelijke rondwandelingen; de Arenbergpoort bij de KU Leuven-campus is de makkelijkste toegang vanuit de stad. Meerdaags huisdiervriendelijk wandelen is mogelijk op de lange-afstandswandelroute GR-512, die beide bossen doorkruist.",
+          "descriptionIt": "L'esteso Heverleebos e l'adiacente Meerdaalwoud formano una delle più grandi aree boschive miste contigue delle Fiandre, 4800 ettari di faggi e querce, che iniziano a 3 km a sud del centro di Lovanio. Natuurpunt gestisce diversi percorsi segnalati per escursioni e bici con giri pet-friendly; la porta di Arenberg vicino al campus della KU Leuven è l'accesso più semplice dalla città. È possibile camminare più giorni con il cane sul sentiero a lunga distanza GR-512, che attraversa entrambi i boschi.",
           "tipDe": "Am Arenberg-Tor neben der Park-Abtei starten für den direktesten Zugang von der Stadt aus; die farblich markierten Rundwege (rot 4 km, gelb 8 km, blau 12 km) sind gut ausgeschildert und ganzjährig schattig.",
-          "tipNl": "Start bij de Arenbergpoort naast de Park-abdij voor de meest directe toegang vanuit de stad; de kleurgemarkeerde rondwandelingen (rood 4 km, geel 8 km, blauw 12 km) zijn goed bewegwijzerd en het hele jaar schaduwrijk."
+          "tipNl": "Start bij de Arenbergpoort naast de Park-abdij voor de meest directe toegang vanuit de stad; de kleurgemarkeerde rondwandelingen (rood 4 km, geel 8 km, blauw 12 km) zijn goed bewegwijzerd en het hele jaar schaduwrijk.",
+          "tipIt": "Parti dalla porta di Arenberg accanto all'abbazia del Parco per l'accesso più diretto dalla città; i giri segnalati per colore (rosso 4 km, giallo 8 km, blu 12 km) sono ben segnalati e ombreggiati tutto l'anno."
         },
         {
           "name": "Provinciedomein Kessel-Lo",
@@ -384,10 +419,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Provinciedomein+Kessel-Lo",
           "leashRuleDe": "Angeleint auf Wegen; freilaufend auf der eigenen Hundewiese",
           "leashRuleNl": "Aangelijnd op paden; loslopen op de eigen hondenweide",
+          "leashRuleIt": "Al guinzaglio sui sentieri; libero nella propria area cani",
           "descriptionDe": "Provinziale Freizeitanlage von Vlaams-Brabant am östlichen Rand Löwens in Kessel-Lo, 15 Minuten vom Zentrum entfernt. Zwei künstliche Seen, Rasenflächen, Waldrand, eine eigene eingezäunte Hundewiese (hondenweide), ein Familiencampingplatz und ein Süßwasser-Badesee (keine Hunde in der Menschenbadezone). Hunde schwimmen nur im Seitenkanal.",
           "descriptionNl": "Provinciaal recreatiedomein van Vlaams-Brabant aan de oostrand van Leuven in Kessel-Lo, 15 minuten van het centrum. Twee kunstmatige meren, grasvelden, bosrand, een eigen omheinde hondenweide, een familiecamping en een zoetwaterzwemmeer (geen honden in de zwemzone voor mensen). Honden zwemmen alleen in het zijkanaal.",
+          "descriptionIt": "Area ricreativa provinciale del Brabante Fiammingo sul bordo est di Lovanio a Kessel-Lo, 15 minuti dal centro. Due laghi artificiali, prati, bordo boschivo, una propria area cani recintata, un campeggio per famiglie e un lago balneabile di acqua dolce (niente cani nella zona bagno per le persone). I cani nuotano solo nel canale laterale.",
           "tipDe": "Die hondenweide in der Nordostecke ist die einzige Freilaufzone innerhalb der Anlage; der Menschenbadesee verbietet Hunde von Mai bis September vollständig, direkt zur Hundewiese gehen.",
-          "tipNl": "De hondenweide in de noordoosthoek is de enige losloopzone binnen het domein; het zwemmeer voor mensen verbiedt honden volledig van mei tot september, ga direct naar de hondenweide."
+          "tipNl": "De hondenweide in de noordoosthoek is de enige losloopzone binnen het domein; het zwemmeer voor mensen verbiedt honden volledig van mei tot september, ga direct naar de hondenweide.",
+          "tipIt": "L'area cani nell'angolo nord-est è l'unica zona libera dentro il parco; il lago balneabile per le persone vieta i cani completamente da maggio a settembre, vai direttamente all'area cani."
         },
         {
           "name": "Stadspark Leuven",
@@ -434,10 +472,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Stadspark+Leuven",
           "leashRuleDe": "Ganzjährig angeleint",
           "leashRuleNl": "Het hele jaar aangelijnd",
+          "leashRuleIt": "Al guinzaglio tutto l'anno",
           "descriptionDe": "Löwens zentraler Stadtpark zwischen dem Ring Tiensevest und dem Provinciehuis, die einfachste grüne Auszeit innerhalb des historischen Kerns, zehn Minuten östlich des Grote Markt. Alte Bäume, Rasenflächen, der Musikpavillon, die Fassade des Provinciehuis. Angeleinte Hunde auf allen Wegen willkommen; der Eingang Tiensevest ist der direkteste Weg vom Zentrum aus.",
           "descriptionNl": "Het centrale stadspark van Leuven tussen de ring Tiensevest en het Provinciehuis, de makkelijkste groene adempauze binnen de historische kern, tien minuten ten oosten van de Grote Markt. Oude bomen, grasvelden, de muziekkiosk, de gevel van het Provinciehuis. Aangelijnde honden welkom op alle paden; de ingang aan de Tiensevest is de meest directe route vanuit het centrum.",
+          "descriptionIt": "Il parco cittadino centrale di Lovanio tra la circonvallazione Tiensevest e il Provinciehuis, la pausa verde più comoda dentro il nucleo storico, dieci minuti a est della Grote Markt. Alberi secolari, prati, il chiosco della musica, la facciata del Provinciehuis. Cani al guinzaglio benvenuti su tutti i sentieri; l'ingresso sulla Tiensevest è la via più diretta dal centro.",
           "tipDe": "Hier gibt es keine eingezäunte Freilaufzone; für Freilaufzeit 15 Minuten nach Osten zur hondenweide des Provinciedomein Kessel-Lo oder 10 Minuten nach Süden zu den Zonen des Heverleebos gehen.",
-          "tipNl": "Hier is geen omheinde losloopzone; ga voor losloop-tijd 15 minuten oostwaarts naar de hondenweide van het Provinciedomein Kessel-Lo of 10 minuten zuidwaarts naar de zones van het Heverleebos."
+          "tipNl": "Hier is geen omheinde losloopzone; ga voor losloop-tijd 15 minuten oostwaarts naar de hondenweide van het Provinciedomein Kessel-Lo of 10 minuten zuidwaarts naar de zones van het Heverleebos.",
+          "tipIt": "Qui non c'è un'area cani recintata; per il momento libero vai 15 minuti a est all'area cani del Provinciedomein Kessel-Lo o 10 minuti a sud alle zone dell'Heverleebos."
         },
         {
           "name": "Park Abbey (Abdij van Park) Grounds",
@@ -488,10 +529,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Abdij+van+Park+Heverlee",
           "leashRuleDe": "Angeleint auf dem Gelände; Hunde nicht zugelassen in Abteikirche und Museum",
           "leashRuleNl": "Aangelijnd op het terrein; honden niet toegestaan in de abdijkerk en het museum",
+          "leashRuleIt": "Al guinzaglio nell'area; cani non ammessi nella chiesa dell'abbazia e nel museo",
           "descriptionDe": "1129 gegründete Norbertiner-Abtei in Heverlee, 3 km südlich des Löwener Zentrums, einer der am besten erhaltenen Klosterkomplexe Belgiens mit Barockkirche, zwei Fischteichen, einem Obstgarten, einer Mühle, formalen Gärten und 40 Hektar begehbarem Gelände. Angeleinte Hunde auf Gelände und in den Gärten willkommen; das Innere von Abteikirche und PARCUM-Museum lässt nur Assistenzhunde zu.",
           "descriptionNl": "In 1129 gestichte norbertijner abdij in Heverlee, 3 km ten zuiden van het centrum van Leuven, een van de best bewaarde kloostercomplexen van België met barokke kerk, twee visvijvers, een boomgaard, een molen, formele tuinen en 40 hectare toegankelijk terrein. Aangelijnde honden welkom op het terrein en in de tuinen; het interieur van de abdijkerk en het PARCUM-museum laten alleen assistentiehonden toe.",
+          "descriptionIt": "Abbazia norbertina fondata nel 1129 a Heverlee, 3 km a sud del centro di Lovanio, uno dei complessi monastici meglio conservati del Belgio con chiesa barocca, due vivai per pesci, un frutteto, un mulino, giardini formali e 40 ettari di area accessibile. Cani al guinzaglio benvenuti nell'area e nei giardini; l'interno della chiesa dell'abbazia e il museo PARCUM ammettono solo cani guida.",
           "tipDe": "Das Abteigelände mit einem Zugang zum Wald Heverleebos vom selben Parkplatz aus kombinieren, für eine halbtägige haustierfreundliche 10-km-Wanderung mit Kaffeepause im Abtei-Café.",
-          "tipNl": "Combineer het abdijterrein met een toegang tot het bos Heverleebos vanaf dezelfde parkeerplaats, voor een halve dag huisdiervriendelijk wandelen van 10 km met koffiepauze in het abdijcafé."
+          "tipNl": "Combineer het abdijterrein met een toegang tot het bos Heverleebos vanaf dezelfde parkeerplaats, voor een halve dag huisdiervriendelijk wandelen van 10 km met koffiepauze in het abdijcafé.",
+          "tipIt": "Combina l'area dell'abbazia con un accesso al bosco dell'Heverleebos dallo stesso parcheggio, per una mezza giornata di camminata pet-friendly di 10 km con pausa caffè al bar dell'abbazia."
         }
       ],
       "tipsEn": [
@@ -556,8 +600,10 @@
       ],
       "titleDe": "Hundeparks & Grünflächen in Löwen",
       "titleNl": "Hondenparken en groene ruimtes in Leuven",
+      "titleIt": "Parchi per cani e spazi verdi a Lovanio",
       "introDe": "Löwen übertrifft für Hundespaziergänge deutlich seine Größe von 105.000 Einwohnern: Die 3500 Hektar großen Wälder Heverleebos und der angrenzende 1300 Hektar große Meerdaalwoud beginnen 3 km südlich des Zentrums mit markierten Freilauf-Trails, verwaltet von Natuurpunt, der See- und Parkkomplex Provinciedomein Kessel-Lo liegt innerhalb der Stadt mit einer eigenen Hundewiese, der Stadspark verankert das historische Zentrum, und der Universiteitspark auf dem Arenberg-Campus gibt dem Süden eine zusätzliche grüne Runde.",
       "introNl": "Leuven overtreft ruimschoots zijn omvang van 105.000 inwoners als het gaat om hondenwandelingen: de 3500 hectare grote bossen Heverleebos en het aangrenzende 1300 hectare grote Meerdaalwoud beginnen 3 km ten zuiden van het centrum met gemarkeerde losloopsporen, beheerd door Natuurpunt, het meer- en parkcomplex Provinciedomein Kessel-Lo ligt binnen de stad met een eigen hondenweide, het Stadspark verankert het historische centrum, en het Universiteitspark op de Arenberg-campus geeft het zuiden een extra groen rondje.",
+      "introIt": "Lovanio supera di gran lunga i suoi 105.000 abitanti quando si tratta di passeggiate con il cane: i boschi di 3500 ettari Heverleebos e l'adiacente Meerdaalwoud di 1300 ettari iniziano a 3 km a sud del centro con sentieri liberi segnalati, gestiti da Natuurpunt, il complesso di laghi e parco Provinciedomein Kessel-Lo è dentro la città con una propria area cani, il Stadspark ancora il centro storico, e l'Universiteitspark sul campus di Arenberg dà al sud un giro verde extra.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde in Löwener Parks ohne Leine laufen?",
@@ -576,6 +622,16 @@
         {
           "q": "Waar kunnen honden zwemmen in Leuven?",
           "a": "Honden kunnen zwemmen in het zijkanaal van het Provinciedomein Kessel-Lo (het zwemmeer voor mensen verbiedt honden van mei tot september) en in de Dijle ten zuiden van Heverlee. Het kanaalbekken Vaartkom is niet toegestaan voor honden om te zwemmen."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani possono stare liberi nei parchi a Lovanio?",
+          "a": "Stare liberi è permesso nell'area cani dedicata del Provinciedomein Kessel-Lo e nelle zone designate dell'Heverleebos. Il Stadspark, il Sint-Donatuspark e l'area dell'abbazia del Parco richiedono cani al guinzaglio."
+        },
+        {
+          "q": "Dove possono nuotare i cani a Lovanio?",
+          "a": "I cani possono nuotare nel canale laterale del Provinciedomein Kessel-Lo (il lago balneabile per le persone vieta i cani da maggio a settembre) e nella Dyle a sud di Heverlee. Il bacino del canale Vaartkom non è permesso per far nuotare i cani."
         }
       ]
     },
@@ -609,10 +665,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Leuven+station",
           "descriptionDe": "Der Bahnhof Löwen ist einer der verkehrsreichsten IC-Knotenpunkte Belgiens, an der Hauptachse Brüssel-Lüttich-Köln. Direktzüge nach Brussels-Central in 25 Min., Antwerpen in 50 Min., Lüttich in 50 Min., Gent in 1 Std. 05 Min. und zum Zweig Brussels-Airport-Zaventem (BRU) in 18 Minuten. Hunde reisen auf allen NMBS/SNCB-Zügen kostenlos: kleine Hunde in einer Transportbox überall, mittelgroße und große Hunde brauchen Leine und Maulkorb.",
           "descriptionNl": "Station Leuven is een van de drukste IC-knooppunten van België, aan de hoofdas Brussel-Luik-Keulen. Rechtstreekse treinen naar Brussel-Centraal in 25 min, Antwerpen in 50 min, Luik in 50 min, Gent in 1 uur 05 min en naar de tak Brussels-Airport-Zaventem (BRU) in 18 minuten. Honden reizen gratis mee op alle NMBS/SNCB-treinen: kleine honden in een transportmand overal, middelgrote en grote honden hebben een lijn en muilkorf nodig.",
+          "descriptionIt": "La stazione di Lovanio è uno degli snodi IC più trafficati del Belgio, sull'asse principale Bruxelles-Liegi-Colonia. Treni diretti per Bruxelles-Centrale in 25 min, Anversa in 50 min, Liegi in 50 min, Gand in 1h05 e per il ramo Bruxelles-Aeroporto-Zaventem (BRU) in 18 minuti. I cani viaggiano gratis su tutti i treni NMBS/SNCB: cani piccoli in trasportino ovunque, cani medi e grandi hanno bisogno di guinzaglio e museruola.",
           "petPolicyDe": "Alle Hunde kostenlos; Maulkorb und Leine für mittelgroße/große Hunde erforderlich",
           "petPolicyNl": "Alle honden gratis; muilkorf en lijn verplicht voor middelgrote/grote honden",
+          "petPolicyIt": "Tutti i cani gratis; museruola e guinzaglio obbligatori per cani medi/grandi",
           "tipDe": "Belgien ist eines der wenigen EU-Länder, in denen Hunde jeder Größe auf Fernzügen kostenlos reisen, ein großer Preisvorteil im Vergleich zur französischen SNCF oder der deutschen DB; Löwen ist die einfachste belgische Basis für ein Hund-und-Zug-Wochenende.",
-          "tipNl": "België is een van de weinige EU-landen waar honden van elke grootte gratis meereizen op langeafstandstreinen, een groot prijsvoordeel ten opzichte van de Franse SNCF of de Duitse DB; Leuven is de makkelijkste Belgische uitvalsbasis voor een hond-en-trein-weekend."
+          "tipNl": "België is een van de weinige EU-landen waar honden van elke grootte gratis meereizen op langeafstandstreinen, een groot prijsvoordeel ten opzichte van de Franse SNCF of de Duitse DB; Leuven is de makkelijkste Belgische uitvalsbasis voor een hond-en-trein-weekend.",
+          "tipIt": "Il Belgio è uno dei pochi paesi UE dove i cani di qualsiasi taglia viaggiano gratis sui treni a lunga percorrenza, un grande vantaggio di prezzo rispetto alla francese SNCF o alla tedesca DB; Lovanio è la base belga più comoda per un weekend cane-e-treno."
         },
         {
           "name": "NMBS Direct to Brussels Airport (BRU, 18 min)",
@@ -634,10 +693,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Brussels+Airport+Zaventem",
           "descriptionDe": "Löwen ist die nächstgelegene größere belgische Stadt zum Flughafen Brüssel: direkte NMBS-IC-Züge ab Bahnhof Löwen zu Brussels-Airport-Zaventem (BRU) in nur 18 Minuten, alle 30 Minuten, auf der Hauptstrecke Brüssel-Lüttich. Es gilt die übliche NMBS-Haustierrichtlinie: alle Hunde kostenlos, Maulkorb und Leine für mittelgroße/große Hunde. Einfacher als BRU vom Brüsseler Stadtzentrum aus zu erreichen.",
           "descriptionNl": "Leuven is de dichtstbijzijnde grotere Belgische stad bij de luchthaven Brussel: rechtstreekse NMBS-IC-treinen vanaf station Leuven naar Brussels-Airport-Zaventem (BRU) in slechts 18 minuten, elke 30 minuten, op de hoofdlijn Brussel-Luik. Het gebruikelijke NMBS-huisdierenbeleid geldt: alle honden gratis, muilkorf en lijn voor middelgrote/grote honden. Makkelijker te bereiken dan BRU vanuit het centrum van Brussel.",
+          "descriptionIt": "Lovanio è la maggiore città belga più vicina all'aeroporto di Bruxelles: treni IC NMBS diretti dalla stazione di Lovanio per Bruxelles-Aeroporto-Zaventem (BRU) in soli 18 minuti, ogni 30 minuti, sulla linea principale Bruxelles-Liegi. Vale la solita politica NMBS per gli animali: tutti i cani gratis, museruola e guinzaglio per cani medi/grandi. Più facile da raggiungere di BRU dal centro di Bruxelles.",
           "petPolicyDe": "Alle Hunde kostenlos; Maulkorb und Leine für mittelgroße/große Hunde erforderlich",
           "petPolicyNl": "Alle honden gratis; muilkorf en lijn verplicht voor middelgrote/grote honden",
+          "petPolicyIt": "Tutti i cani gratis; museruola e guinzaglio obbligatori per cani medi/grandi",
           "tipDe": "Der De-Lijn-Bus 358 erreicht den Flughafen BRU von Löwen ebenfalls in etwa 35 Minuten mit dem normalen Haustierticket; der Zug ist für Reisende mit Gepäck und Hund schneller und einfacher.",
-          "tipNl": "De De Lijn-bus 358 bereikt luchthaven BRU vanuit Leuven eveneens in ongeveer 35 minuten met het gewone huisdierenticket; de trein is sneller en makkelijker voor reizigers met bagage en hond."
+          "tipNl": "De De Lijn-bus 358 bereikt luchthaven BRU vanuit Leuven eveneens in ongeveer 35 minuten met het gewone huisdierenticket; de trein is sneller en makkelijker voor reizigers met bagage en hond.",
+          "tipIt": "Il bus De Lijn 358 raggiunge l'aeroporto BRU da Lovanio anche in circa 35 minuti con il normale biglietto per animali; il treno è più veloce e comodo per chi viaggia con bagagli e cane."
         },
         {
           "name": "De Lijn City and Regional Buses",
@@ -659,10 +721,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=De+Lijn+bus+Leuven",
           "descriptionDe": "De Lijn betreibt Löwens Stadtbusse und Regionallinien in ganz Vlaams-Brabant, einschließlich der Linie 358 zum Flughafen Brüssel. Kleine Hunde in einer Transportbox reisen kostenlos; mittelgroße und große Hunde brauchen ein Pauschalticket für 2,50 EUR, einen Maulkorb und eine Leine. Löwen hat kein Straßenbahnnetz; der Bus ist das wichtigste öffentliche Verkehrsmittel innerhalb des Rings.",
           "descriptionNl": "De Lijn beheert Leuvens stadsbussen en streeklijnen in heel Vlaams-Brabant, inclusief lijn 358 naar de luchthaven Brussel. Kleine honden in een transportmand reizen gratis; middelgrote en grote honden hebben een vast tarief van 2,50 euro nodig, een muilkorf en een lijn. Leuven heeft geen tramnetwerk; de bus is het belangrijkste openbaar vervoer binnen de ring.",
+          "descriptionIt": "De Lijn gestisce i bus cittadini di Lovanio e le linee regionali in tutto il Brabante Fiammingo, inclusa la linea 358 per l'aeroporto di Bruxelles. I cani piccoli in trasportino viaggiano gratis; i cani medi e grandi hanno bisogno di una tariffa fissa di 2,50 euro, museruola e guinzaglio. Lovanio non ha una rete di tram; il bus è il principale trasporto pubblico dentro la circonvallazione.",
           "petPolicyDe": "Kleine Hunde kostenlos; große Hunde 2,50 EUR + Maulkorb + Leine",
           "petPolicyNl": "Kleine honden gratis; grote honden 2,50 euro + muilkorf + lijn",
+          "petPolicyIt": "Cani piccoli gratis; cani grandi 2,50 euro + museruola + guinzaglio",
           "tipDe": "Belgische Busfahrer setzen die Maulkorbpflicht streng durch, ein weiches Netzmaulkorb sollte man selbst bei freundlichen großen Hunden in der Tasche mitführen; die Stoßzeiten 07:30-09:00 und 16:30-18:30 Uhr sind nicht die ruhigsten Momente zum Einsteigen.",
-          "tipNl": "Belgische buschauffeurs handhaven de muilkorfplicht streng, een zachte netmuilkorf houd je zelfs bij vriendelijke grote honden beter in je tas; de spitsuren 07.30-09.00 en 16.30-18.30 uur zijn niet de rustigste momenten om in te stappen."
+          "tipNl": "Belgische buschauffeurs handhaven de muilkorfplicht streng, een zachte netmuilkorf houd je zelfs bij vriendelijke grote honden beter in je tas; de spitsuren 07.30-09.00 en 16.30-18.30 uur zijn niet de rustigste momenten om in te stappen.",
+          "tipIt": "Gli autisti dei bus belgi fanno rispettare rigorosamente l'obbligo di museruola, una museruola morbida a rete è utile da tenere in borsa anche per cani grandi e gentili; le ore di punta 07.30-09.00 e 16.30-18.30 non sono i momenti più tranquilli per salire."
         },
         {
           "name": "Leuven Bike-Friendly Centre and Bike Routes",
@@ -684,10 +749,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Grote+Markt+Leuven",
           "descriptionDe": "Löwen ist eine der fahrradfreundlichsten Städte Belgiens, mit einem teilweise autofreien historischen Zentrum rund um Grote Markt, Oude Markt und Naamsestraat sowie einem dichten Netz getrennter Radwege, die zu Vaartkom, Heverlee und Kessel-Lo führen. Durch die kompakte, flache Geografie der Stadt ist der Hund im Fahrradkorb sehr verbreitet; Lastenräder mit Hundeboxen werden über Velo Leuven vielfach vermietet.",
           "descriptionNl": "Leuven is een van de fietsvriendelijkste steden van België, met een deels autovrij historisch centrum rond de Grote Markt, de Oude Markt en de Naamsestraat en een dicht netwerk van gescheiden fietspaden naar Vaartkom, Heverlee en Kessel-Lo. Door de compacte, vlakke geografie van de stad is de hond in de fietsmand heel gewoon; bakfietsen met hondenboxen zijn veel te huur via Velo Leuven.",
+          "descriptionIt": "Lovanio è una delle città più ciclabili del Belgio, con un centro storico in parte senza auto intorno alla Grote Markt, l'Oude Markt e la Naamsestraat e una fitta rete di piste ciclabili separate verso Vaartkom, Heverlee e Kessel-Lo. Per la geografia compatta e pianeggiante della città, il cane nel cestino della bici è molto comune; le bici da carico con box per cani sono numerose da noleggiare tramite Velo Leuven.",
           "petPolicyDe": "Fußgängerzone; Fahrräder teilen sich eigene Fahrspuren",
           "petPolicyNl": "Voetgangerszone; fietsen delen eigen rijstroken",
+          "petPolicyIt": "Zona pedonale; le bici hanno corsie proprie",
           "tipDe": "Die Radroute \"Löwen-Mechelen\" entlang des Kanaltreidelpfads (24 km flach, autofrei) eignet sich ideal für einen halbtägigen Lastenrad-Ausflug mit einem mittelgroßen Hund; Verleih bei Velo Leuven nahe dem Bahnhof.",
-          "tipNl": "De fietsroute 'Leuven-Mechelen' langs het jaagpad van het kanaal (24 km vlak, autovrij) leent zich uitstekend voor een halve dag bakfiets-uitstapje met een middelgrote hond; verhuur bij Velo Leuven vlak bij het station."
+          "tipNl": "De fietsroute 'Leuven-Mechelen' langs het jaagpad van het kanaal (24 km vlak, autovrij) leent zich uitstekend voor een halve dag bakfiets-uitstapje met een middelgrote hond; verhuur bij Velo Leuven vlak bij het station.",
+          "tipIt": "Il percorso ciclabile 'Lovanio-Malines' lungo l'alzaia del canale (24 km pianeggianti, senza auto) si presta benissimo a una gita in bici da carico di mezza giornata con un cane di taglia media; noleggio da Velo Leuven vicino alla stazione."
         }
       ],
       "tipsEn": [
@@ -752,8 +820,10 @@
       ],
       "titleDe": "Haustierfreundlicher Transport in Löwen",
       "titleNl": "Huisdiervriendelijk vervoer in Leuven",
+      "titleIt": "Trasporto pet-friendly a Lovanio",
       "introDe": "Löwens historisches Zentrum ist in 20 Minuten von einem Ende zum anderen zu Fuß erreichbar, und die Stadt ist bekanntlich fahrradfreundlich. Für längere Strecken befördern die belgischen NMBS/SNCB-Züge Hunde kostenlos ab dem Bahnhof Löwen, einem wichtigen IC-Knotenpunkt (Brüssel 25 Min., Antwerpen 50 Min., Lüttich 50 Min., Gent 1 Std. 05 Min.); De-Lijn-Busse akzeptieren Hunde mit Pauschalticket; und der Flughafen Brüssel BRU ist nur 18 Minuten mit dem Direktzug entfernt, wodurch Löwen die nächstgelegene größere belgische Stadt zum wichtigsten internationalen Drehkreuz des Landes ist.",
       "introNl": "Het historische centrum van Leuven is in 20 minuten van het ene naar het andere eind te belopen, en de stad staat bekend als fietsvriendelijk. Voor langere afstanden vervoeren de Belgische NMBS/SNCB-treinen honden gratis vanaf station Leuven, een belangrijk IC-knooppunt (Brussel 25 min, Antwerpen 50 min, Luik 50 min, Gent 1 uur 05 min); De Lijn-bussen accepteren honden met een vast tarief; en luchthaven Brussel BRU ligt op slechts 18 minuten met de rechtstreekse trein, waardoor Leuven de dichtstbijzijnde grotere Belgische stad is bij de belangrijkste internationale luchthaven van het land.",
+      "introIt": "Il centro storico di Lovanio si attraversa a piedi in 20 minuti da un capo all'altro, e la città è nota per essere ciclabile. Per le distanze maggiori, i treni belgi NMBS/SNCB trasportano i cani gratis dalla stazione di Lovanio, un importante snodo IC (Bruxelles 25 min, Anversa 50 min, Liegi 50 min, Gand 1h05); i bus De Lijn accettano cani con tariffa fissa; e l'aeroporto di Bruxelles BRU è a soli 18 minuti con il treno diretto, il che rende Lovanio la maggiore città belga più vicina al principale aeroporto internazionale del paese.",
       "faqsDe": [
         {
           "q": "Brauche ich für meinen Hund ein Ticket in belgischen Zügen?",
@@ -772,6 +842,16 @@
         {
           "q": "Kan ik mijn hond meenemen van Leuven naar de luchthaven Brussel?",
           "a": "Ja. Rechtstreekse NMBS-IC-treinen vanaf station Leuven bereiken Brussels-Airport-Zaventem (BRU) in slechts 18 minuten, elke 30 minuten. Alle honden reizen gratis mee, met muilkorf en lijn voor middelgrote en grote honden. Leuven is de dichtstbijzijnde grotere Belgische stad bij BRU."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Serve un biglietto per il mio cane sui treni belgi?",
+          "a": "No. NMBS/SNCB trasporta tutti i cani gratis. I cani piccoli in trasportino non hanno bisogno di equipaggiamento extra; i cani medi e grandi devono indossare la museruola ed essere tenuti con un guinzaglio corto."
+        },
+        {
+          "q": "Posso portare il mio cane da Lovanio all'aeroporto di Bruxelles?",
+          "a": "Si. I treni IC NMBS diretti dalla stazione di Lovanio raggiungono Bruxelles-Aeroporto-Zaventem (BRU) in soli 18 minuti, ogni 30 minuti. Tutti i cani viaggiano gratis, con museruola e guinzaglio per cani medi e grandi. Lovanio è la maggiore città belga più vicina a BRU."
         }
       ]
     },
@@ -828,10 +908,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Halve+Maan+hondenstrand+Oostende",
           "leashRuleDe": "Ganzjährig ohne Leine auf dem ausgewiesenen Hundestrandstreifen",
           "leashRuleNl": "Het hele jaar loslopen op de aangewezen hondenstrandstrook",
+          "leashRuleIt": "Libero tutto l'anno sulla striscia designata spiaggia per cani",
           "descriptionDe": "Der nächstgelegene Nordsee-Hundestrand für einen Tagesausflug von Löwen, 130 km westlich, 1 Std. 40 Min. mit NMBS über Brüssel oder Gent. Ausgewiesener Hundestrandstreifen am östlichen Abschnitt von Halve Maan, ganzjährig ohne Leine, keine saisonalen Einschränkungen. Der Bahnhof Ostende liegt 10 Gehminuten von den Dünen entfernt; hundefreundliche Strandpromenaden-Cafés entlang der Albert-I-Promenade.",
           "descriptionNl": "Het dichtstbijzijnde Noordzee-hondenstrand voor een dagtrip vanuit Leuven, 130 km westelijk, 1 uur 40 min met NMBS via Brussel of Gent. Aangewezen hondenstrandstrook aan het oostelijke deel van Halve Maan, het hele jaar loslopen, geen seizoensbeperkingen. Station Oostende ligt 10 minuten lopen van de duinen; hondvriendelijke strandpromenade-cafés langs de Albert I-Promenade.",
+          "descriptionIt": "La spiaggia per cani sul Mare del Nord più vicina per una gita di un giorno da Lovanio, 130 km a ovest, 1h40 con NMBS via Bruxelles o Gand. Striscia designata per cani nella parte est di Halve Maan, libero tutto l'anno, nessuna restrizione stagionale. La stazione di Ostenda è a 10 minuti a piedi dalle dune; caffè pet-friendly sulla passeggiata lungo l'Albert I-Promenade.",
           "tipDe": "Auf Ebbe achten für den breitesten Abschnitt festen Sandes; die App Belgian Coast Tides prüfen, der Tidenhub in Ostende beträgt 4-5 m. Löwen um 09:00 Uhr verlassen, für einen vollen Strandtag vor dem späten Nachmittagszug zurück.",
-          "tipNl": "Let op eb voor het breedste stuk vast zand; controleer de app Belgian Coast Tides, het getijverschil in Oostende bedraagt 4-5 m. Vertrek om 09.00 uur uit Leuven voor een volle stranddag voor de trein terug in de late namiddag."
+          "tipNl": "Let op eb voor het breedste stuk vast zand; controleer de app Belgian Coast Tides, het getijverschil in Oostende bedraagt 4-5 m. Vertrek om 09.00 uur uit Leuven voor een volle stranddag voor de trein terug in de late namiddag.",
+          "tipIt": "Controlla la bassa marea per il tratto di sabbia asciutta più ampio; verifica l'app Belgian Coast Tides, l'escursione di marea a Ostenda è di 4-5 m. Parti da Lovanio alle 09.00 per una giornata intera in spiaggia prima del treno di ritorno nel tardo pomeriggio."
         },
         {
           "name": "Blankenberge Dog Beach",
@@ -880,10 +963,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Blankenberge+hondenstrand",
           "leashRuleDe": "Ganzjährig ohne Leine auf dem Hundestrandstreifen",
           "leashRuleNl": "Het hele jaar loslopen op de hondenstrandstrook",
+          "leashRuleIt": "Libero tutto l'anno sulla striscia spiaggia per cani",
           "descriptionDe": "Der Hundestrand von Blankenberge, 135 km nordwestlich von Löwen, 2 Std. mit NMBS über Brussels-Nord mit einmaligem Umsteigen, mit einem klaren Hundestrandstreifen am westlichen Ende des Zeedijk. Familienstrandpromenade mit historischer Seebrücke, im Juli-August voller als Ostende, aber mit mehr Einrichtungen und 5 Gehminuten vom Bahnhof.",
           "descriptionNl": "Het hondenstrand van Blankenberge, 135 km noordwestelijk van Leuven, 2 uur met NMBS via Brussel-Noord met één overstap, met een duidelijke hondenstrandstrook aan het westelijke uiteinde van de Zeedijk. Familiestrandpromenade met historische pier, in juli-augustus drukker dan Oostende, maar met meer voorzieningen en 5 minuten lopen van het station.",
+          "descriptionIt": "La spiaggia per cani di Blankenberge, 135 km a nord-ovest di Lovanio, 2 ore con NMBS via Bruxelles-Nord con un cambio, con una chiara striscia per cani all'estremità ovest dello Zeedijk. Passeggiata di spiaggia per famiglie con molo storico, più affollata di Ostenda a luglio-agosto, ma con più servizi e a 5 minuti a piedi dalla stazione.",
           "tipDe": "Im Juli-August zwischen 11:00 und 17:00 Uhr den zentralen Zeedijk meiden, direkt zum westlichen Hundestreifen gehen; der Familienstrand-Mittelabschnitt verbietet Hunde von Mai bis September.",
-          "tipNl": "Vermijd in juli-augustus tussen 11.00 en 17.00 uur de centrale Zeedijk, ga direct naar de westelijke hondenstrook; het familiestrand in het midden verbiedt honden van mei tot september."
+          "tipNl": "Vermijd in juli-augustus tussen 11.00 en 17.00 uur de centrale Zeedijk, ga direct naar de westelijke hondenstrook; het familiestrand in het midden verbiedt honden van mei tot september.",
+          "tipIt": "Evita a luglio-agosto tra le 11.00 e le 17.00 lo Zeedijk centrale, vai direttamente alla striscia per cani a ovest; la spiaggia per famiglie al centro vieta i cani da maggio a settembre."
         },
         {
           "name": "Provinciedomein Kessel-Lo Dog Swim Channel",
@@ -928,10 +1014,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Provinciedomein+Kessel-Lo",
           "leashRuleDe": "Ohne Leine auf der Hundewiesenseite; Schwimmen nur im Seitenkanal",
           "leashRuleNl": "Loslopen aan de zijde van de hondenweide; zwemmen alleen in het zijkanaal",
+          "leashRuleIt": "Libero sul lato dell'area cani; nuoto solo nel canale laterale",
           "descriptionDe": "Die innerstädtische Alternative zur Nordseeküste für ein Hundeschwimmen, 15 Minuten vom Löwener Zentrum entfernt im Provinciedomein Kessel-Lo. Der Menschenbadesee verbietet Hunde von Mai bis September vollständig, aber der Seitenkanal neben der hondenweide ist ganzjährig für Hundeschwimmen geöffnet. Süßwasser, ruhig, einfacher Einstieg für ältere Hunde.",
           "descriptionNl": "Het alternatief binnen de stad voor de Noordzeekust om je hond te laten zwemmen, 15 minuten van het centrum van Leuven in het Provinciedomein Kessel-Lo. Het zwemmeer voor mensen verbiedt honden volledig van mei tot september, maar het zijkanaal naast de hondenweide is het hele jaar open om honden te laten zwemmen. Zoetwater, rustig, makkelijke instap voor oudere honden.",
+          "descriptionIt": "L'alternativa dentro la città alla costa del Mare del Nord per far nuotare il tuo cane, 15 minuti dal centro di Lovanio nel Provinciedomein Kessel-Lo. Il lago balneabile per le persone vieta i cani completamente da maggio a settembre, ma il canale laterale accanto all'area cani è aperto tutto l'anno per far nuotare i cani. Acqua dolce, tranquillo, facile accesso per cani anziani.",
           "tipDe": "Den Seitenkanal zum Hundeschwimmen nutzen und die hondenweide zum Freilaufen; der Menschenbadesee ist von Mai bis September mit Hunde-verboten-Symbolen ausgeschildert, und die Regel wird durchgesetzt.",
-          "tipNl": "Gebruik het zijkanaal om je hond te laten zwemmen en de hondenweide om te laten loslopen; het zwemmeer voor mensen is van mei tot september duidelijk gemarkeerd met honden-verboden-symbolen, en de regel wordt gehandhaafd."
+          "tipNl": "Gebruik het zijkanaal om je hond te laten zwemmen en de hondenweide om te laten loslopen; het zwemmeer voor mensen is van mei tot september duidelijk gemarkeerd met honden-verboden-symbolen, en de regel wordt gehandhaafd.",
+          "tipIt": "Usa il canale laterale per far nuotare il tuo cane e l'area cani per farlo stare libero; il lago balneabile per le persone è chiaramente segnalato con simboli di divieto per i cani da maggio a settembre, e la regola viene fatta rispettare."
         }
       ],
       "tipsEn": [
@@ -996,8 +1085,10 @@
       ],
       "titleDe": "Hundefreundliche Strände nahe Löwen",
       "titleNl": "Hondvriendelijke stranden bij Leuven",
+      "titleIt": "Spiagge pet-friendly vicino a Lovanio",
       "introDe": "Löwen liegt etwa 130 km landeinwärts von der belgischen Nordseeküste, wo ganzjährige Hundestrände in Ostende, Blankenberge und De Haan mit dem NMBS-Zug über Brüssel oder Gent in rund 2 Stunden erreichbar sind. Für innerstädtisches Wasser ist der Seitenkanal des Provinciedomein Kessel-Lo die nächstgelegene Hundeschwimmoption, und das Kanalbecken Vaartkom bietet ruhige Hundespaziergänge auf flachen Treidelpfaden.",
       "introNl": "Leuven ligt ongeveer 130 km landinwaarts van de Belgische Noordzeekust, waar het-hele-jaar-hondenstranden in Oostende, Blankenberge en De Haan bereikbaar zijn met de NMBS-trein via Brussel of Gent in ongeveer 2 uur. Voor water binnen de stad is het zijkanaal van het Provinciedomein Kessel-Lo de dichtstbijzijnde zwemoptie voor honden, en het kanaalbekken Vaartkom biedt rustige hondenwandelingen op vlakke jaagpaden.",
+      "introIt": "Lovanio è a circa 130 km nell'entroterra dalla costa belga del Mare del Nord, dove spiagge per cani aperte tutto l'anno a Ostenda, Blankenberge e De Haan sono raggiungibili con il treno NMBS via Bruxelles o Gand in circa 2 ore. Per l'acqua dentro la città, il canale laterale del Provinciedomein Kessel-Lo è l'opzione di nuoto per cani più vicina, e il bacino del canale Vaartkom offre tranquille passeggiate con il cane su alzaie pianeggianti.",
       "faqsDe": [
         {
           "q": "Wie weit ist der nächste Hundestrand von Löwen entfernt?",
@@ -1016,6 +1107,16 @@
         {
           "q": "Kan mijn hond zwemmen in Leuven?",
           "a": "Ja, in het zijkanaal van het Provinciedomein Kessel-Lo het hele jaar en in de Dijle ten zuiden van Heverlee. Het zwemmeer voor mensen in Kessel-Lo verbiedt honden van mei tot september; het kanaalbekken Vaartkom is niet toegestaan voor honden om te zwemmen."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Quanto dista la spiaggia per cani più vicina da Lovanio?",
+          "a": "La spiaggia per cani di Ostenda (Halve Maan Est), 130 km a ovest, 1h40 con NMBS via Bruxelles o Gand. Libero tutto l'anno, nessuna restrizione stagionale. Per una nuotata dentro la città vai 15 minuti a est al canale laterale del Provinciedomein Kessel-Lo."
+        },
+        {
+          "q": "Il mio cane può nuotare a Lovanio?",
+          "a": "Si, nel canale laterale del Provinciedomein Kessel-Lo tutto l'anno e nella Dyle a sud di Heverlee. Il lago balneabile per le persone a Kessel-Lo vieta i cani da maggio a settembre; il bacino del canale Vaartkom non è permesso per far nuotare i cani."
         }
       ]
     },
@@ -1053,8 +1154,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=VET%26GO+Leuven+Monseigneur+Van+Waeyenberghlaan",
           "descriptionDe": "VET&GO ist Löwens eigenes 24/7-Notfallzentrum für Kleintiere, direkt neben dem Universitätsklinikum UZ Leuven gelegen und wenige Gehminuten vom Bahnhof Löwen entfernt. Ausschließlich nachts, an Wochenenden und Feiertagen für Notfälle geöffnet; das Team ist rund um die Uhr auf Abruf und behandelt Hunde, Katzen und Kleinsäuger.",
           "descriptionNl": "VET&GO is Leuvens eigen 24/7-spoedcentrum voor kleine huisdieren, direct naast het universitair ziekenhuis UZ Leuven en op enkele minuten lopen van station Leuven. Uitsluitend 's nachts, in het weekend en op feestdagen open voor spoedgevallen; het team staat dag en nacht paraat en behandelt honden, katten en kleine zoogdieren.",
+          "descriptionIt": "VET&GO è il centro d'emergenza 24/7 per piccoli animali di Lovanio, proprio accanto all'ospedale universitario UZ Leuven e a pochi minuti a piedi dalla stazione di Lovanio. Aperto esclusivamente di notte, nei weekend e nei giorni festivi per le emergenze; il team è disponibile giorno e notte e tratta cani, gatti e piccoli mammiferi.",
           "tipDe": "Vor dem Erscheinen vorher anrufen, die Triage-Leitung bestätigt die Verfügbarkeit und bereitet das Team auf den Fall vor; Notfallberatungsgebühren 80 EUR (07:30-19:00), 100 EUR (19:00-00:00), 120 EUR (00:00-07:30).",
-          "tipNl": "Bel van tevoren voordat je gaat, de triagelijn bevestigt de beschikbaarheid en bereidt het team voor op de casus; spoedconsultkosten 80 euro (07.30-19.00), 100 euro (19.00-00.00), 120 euro (00.00-07.30)."
+          "tipNl": "Bel van tevoren voordat je gaat, de triagelijn bevestigt de beschikbaarheid en bereidt het team voor op de casus; spoedconsultkosten 80 euro (07.30-19.00), 100 euro (19.00-00.00), 120 euro (00.00-07.30).",
+          "tipIt": "Chiama prima di andare, la linea di triage conferma la disponibilità e prepara il team per il caso; costi di consulto d'emergenza 80 euro (07.30-19.00), 100 euro (19.00-00.00), 120 euro (00.00-07.30)."
         },
         {
           "name": "Dierenartsenpraktijk Akuut Leuven",
@@ -1080,8 +1183,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Akuut+IJzerenmolenstraat+Leuven",
           "descriptionDe": "Etablierte Tagespraxis an der IJzerenmolenstraat im Zentrum Löwens, Teil des Akuut-Netzwerks mit Schwesterpraxen in Kortenberg und Zaventem. Allgemeinmedizin, Chirurgie, Zahnmedizin, Ausstellung von EU-Heimtierausweisen und Mikrochippen. Notfälle außerhalb der Öffnungszeiten werden an die Akuut-Bereitschaftsleitung +32 2 899 60 66 und anschließend an VET&GO weitergeleitet.",
           "descriptionNl": "Gevestigde dagpraktijk aan de IJzerenmolenstraat in het centrum van Leuven, onderdeel van het Akuut-netwerk met zusterpraktijken in Kortenberg en Zaventem. Algemene geneeskunde, chirurgie, tandheelkunde, afgifte van EU-dierenpaspoorten en microchippen. Spoedgevallen buiten openingstijden worden doorverwezen naar de Akuut-bereikbaarheidslijn +32 2 899 60 66 en vervolgens naar VET&GO.",
+          "descriptionIt": "Ambulatorio diurno affermato sulla IJzerenmolenstraat nel centro di Lovanio, parte della rete Akuut con cliniche gemelle a Kortenberg e Zaventem. Medicina generale, chirurgia, odontoiatria, rilascio del passaporto UE per animali e microchip. Le emergenze fuori orario vengono indirizzate alla linea di reperibilità Akuut +32 2 899 60 66 e poi a VET&GO.",
           "tipDe": "Praktisch, um mitten auf der Reise dank der zentralen Lage einen EU-Heimtierausweis auszustellen oder zu aktualisieren; die Praxis veranschlagt rund 30 EUR für einen Ausweis und 40 EUR für einen ISO-Mikrochip.",
-          "tipNl": "Handig om onderweg dankzij de centrale ligging een EU-dierenpaspoort aan te vragen of bij te werken; de praktijk rekent ongeveer 30 euro voor een paspoort en 40 euro voor een ISO-microchip."
+          "tipNl": "Handig om onderweg dankzij de centrale ligging een EU-dierenpaspoort aan te vragen of bij te werken; de praktijk rekent ongeveer 30 euro voor een paspoort en 40 euro voor een ISO-microchip.",
+          "tipIt": "Comodo, grazie alla posizione centrale, per richiedere o aggiornare un passaporto UE per animali durante il viaggio; l'ambulatorio addebita circa 30 euro per un passaporto e 40 euro per un microchip ISO."
         },
         {
           "name": "DAC Kerberos Heverlee",
@@ -1107,8 +1212,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Kerberos+Tiensesteenweg+Heverlee",
           "descriptionDe": "Langjährige tierärztliche Tagespraxis an der Tiensesteenweg direkt außerhalb des Löwener Rings in Heverlee, mit einer zweiten Filiale in Lubbeek an der Staatsbaan 187. Allgemeinmedizin, Chirurgie, Zahnmedizin, Impfungen, Ausstellung von EU-Heimtierausweisen. Nur nach Terminvereinbarung. Notfälle außerhalb der Öffnungszeiten werden an die regionale Bereitschaft und anschließend an VET&GO weitergeleitet.",
           "descriptionNl": "Al lang bestaande dierenartsen-dagpraktijk aan de Tiensesteenweg net buiten de Leuvense ring in Heverlee, met een tweede vestiging in Lubbeek aan de Staatsbaan 187. Algemene geneeskunde, chirurgie, tandheelkunde, vaccinaties, afgifte van EU-dierenpaspoorten. Alleen op afspraak. Spoedgevallen buiten openingstijden worden doorverwezen naar de regionale bereikbaarheidsdienst en vervolgens naar VET&GO.",
+          "descriptionIt": "Ambulatorio veterinario diurno storico sulla Tiensesteenweg appena fuori la circonvallazione di Lovanio a Heverlee, con una seconda sede a Lubbeek sulla Staatsbaan 187. Medicina generale, chirurgia, odontoiatria, vaccinazioni, rilascio del passaporto UE per animali. Solo su appuntamento. Le emergenze fuori orario vengono indirizzate al servizio regionale di reperibilità e poi a VET&GO.",
           "tipDe": "Praktisch für Hundehalter, die in der Nähe der Park-Abtei oder des Heverleebos südlich der Stadt übernachten; Walk-in-Termine für Impfungen werden samstagvormittags angenommen.",
-          "tipNl": "Handig voor hondenbezitters die in de buurt van de Park-abdij of het Heverleebos ten zuiden van de stad overnachten; walk-in-afspraken voor vaccinaties worden op zaterdagochtend aangenomen."
+          "tipNl": "Handig voor hondenbezitters die in de buurt van de Park-abdij of het Heverleebos ten zuiden van de stad overnachten; walk-in-afspraken voor vaccinaties worden op zaterdagochtend aangenomen.",
+          "tipIt": "Comodo per i proprietari di cani che dormono vicino all'abbazia del Parco o all'Heverleebos a sud della città; gli appuntamenti senza prenotazione per le vaccinazioni vengono accettati il sabato mattina."
         },
         {
           "name": "Ghent University Faculty of Veterinary Medicine (Merelbeke, referral)",
@@ -1134,8 +1241,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Faculteit+Diergeneeskunde+UGent+Merelbeke",
           "descriptionDe": "Belgiens akademisches Referenz-Tierklinikum, 60 km westlich von Löwen in Merelbeke bei Gent. Klein- und Großtier-Lehrkliniken mit 24-Stunden-Notdienst, voller Intensivstation, Chirurgie, MRT, CT sowie Überweisungsabteilungen für Onkologie, Kardiologie und Augenheilkunde. Löwener Erstversorgungstierärzte überweisen hierher bei komplexen Fällen, die den Rahmen von VET&GO übersteigen.",
           "descriptionNl": "Belgiës academisch referentie-dierenziekenhuis, 60 km ten westen van Leuven in Merelbeke bij Gent. Leerklinieken voor kleine en grote dieren met 24-uurs spoeddienst, volledige intensive care, chirurgie, MRI, CT en doorverwijzingsafdelingen voor oncologie, cardiologie en oogheelkunde. Leuvense eerstelijnsdierenartsen verwijzen hierheen bij complexe gevallen die de mogelijkheden van VET&GO overstijgen.",
+          "descriptionIt": "L'ospedale veterinario accademico di riferimento del Belgio, 60 km a ovest di Lovanio a Merelbeke vicino a Gand. Cliniche universitarie per piccoli e grandi animali con servizio d'emergenza 24 ore, terapia intensiva completa, chirurgia, risonanza magnetica, TAC e reparti di riferimento per oncologia, cardiologia e oftalmologia. I veterinari di base di Lovanio indirizzano qui per casi complessi che superano le possibilità di VET&GO.",
           "tipDe": "Immer zuerst VET&GO als innerstädtischen Notfalldienst aufsuchen; UGent Merelbeke ist reine Überweisungsklinik, die 60-km-Fahrt lohnt sich nur für erweiterte Bildgebung oder Facharztchirurgie.",
-          "tipNl": "Ga altijd eerst naar VET&GO als spoeddienst binnen de stad; UGent Merelbeke is puur een doorverwijzingskliniek, de rit van 60 km loont alleen voor uitgebreide beeldvorming of gespecialiseerde chirurgie."
+          "tipNl": "Ga altijd eerst naar VET&GO als spoeddienst binnen de stad; UGent Merelbeke is puur een doorverwijzingskliniek, de rit van 60 km loont alleen voor uitgebreide beeldvorming of gespecialiseerde chirurgie.",
+          "tipIt": "Vai sempre prima a VET&GO come servizio d'emergenza dentro la città; UGent Merelbeke è puramente una clinica di riferimento, il tragitto di 60 km vale la pena solo per diagnostica per immagini estesa o chirurgia specializzata."
         }
       ],
       "tipsEn": [
@@ -1200,8 +1309,10 @@
       ],
       "titleDe": "24-Stunden-Notfalltierärzte in Löwen, Tierkliniken & Tierbetreuung",
       "titleNl": "24-uurs spoeddierenartsen in Leuven, dierenklinieken en huisdierenzorg",
+      "titleIt": "Veterinari d'urgenza 24 ore, cliniche e cura degli animali a Lovanio",
       "introDe": "Löwen verfügt über eine solide innerstädtische tierärztliche Versorgung, verankert im VET&GO Dierenspoedcentrum an der Monseigneur Van Waeyenberghlaan, einem eigenen 24/7-Notfallzentrum direkt neben dem Krankenhaus UZ Leuven, sowie mehreren etablierten Tagespraxen und dem akademischen Überweisungsklinikum der Tiermedizinischen Fakultät der Universität Gent in Merelbeke, 60 km westlich, für komplexe Fälle.",
       "introNl": "Leuven beschikt over solide dierenartsenzorg binnen de stad, verankerd in het VET&GO Dierenspoedcentrum aan de Monseigneur Van Waeyenberghlaan, een eigen 24/7-spoedcentrum direct naast ziekenhuis UZ Leuven, plus meerdere gevestigde dagpraktijken en het academisch doorverwijzingsziekenhuis van de faculteit diergeneeskunde van de Universiteit Gent in Merelbeke, 60 km westelijk, voor complexe gevallen.",
+      "introIt": "Lovanio ha una solida assistenza veterinaria dentro la città, ancorata al VET&GO Dierenspoedcentrum sulla Monseigneur Van Waeyenberghlaan, un proprio centro d'emergenza 24/7 proprio accanto all'ospedale UZ Leuven, più diversi ambulatori diurni affermati e l'ospedale accademico di riferimento della facoltà di veterinaria dell'Università di Gand a Merelbeke, 60 km a ovest, per i casi complessi.",
       "faqsDe": [
         {
           "q": "Wo ist der 24-Stunden-Notfalltierarzt in Löwen?",
@@ -1220,6 +1331,16 @@
         {
           "q": "Heb ik een dierenpaspoort nodig voor Leuven?",
           "a": "Ja, bij binnenkomst vanuit een niet-EU-land. EU-dierenpaspoort met rabiësvaccinatie, minstens 21 dagen geldig en niet verlopen, plus ISO-microchip, volgens de gebruikelijke EU-regels. Geen extra Belgiëspecifieke formaliteiten."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Dov'è il veterinario d'urgenza 24 ore a Lovanio?",
+          "a": "VET&GO Dierenspoedcentrum Leuven, Monseigneur Van Waeyenberghlaan 56, +32 78 79 00 58, accanto all'ospedale UZ Leuven, aperto nei giorni feriali dalle 19.00 alle 08.00 e nei weekend e giorni festivi tutto il giorno. Chiama prima di andare."
+        },
+        {
+          "q": "Serve il passaporto per animali a Lovanio?",
+          "a": "Si, se arrivi da un paese extra-UE. Passaporto UE per animali con vaccinazione antirabbica, valida da almeno 21 giorni e non scaduta, più microchip ISO, secondo le regole UE standard. Nessuna formalità aggiuntiva specifica del Belgio."
         }
       ]
     },
@@ -1241,7 +1362,8 @@
           "descriptionEs": "Abril-junio y septiembre-octubre son ideales, máximas medias 14-22 °C, bosque de Heverleebos en pleno follaje y terrazas de la Oude Markt animadas sin la saturación de los festivales estudiantiles de verano. Evita las noches 'Beiaardcantus' de fin de año académico de la KU Leuven en mayo y los primeros fines de semana de septiembre (afluencia estudiantil masiva); el invierno es tranquilo, húmedo pero mágico con el mercado navideño Winter in Leuven que admite perros con correa.",
           "descriptionPt": "Abril-junho e setembro-outubro são ideais, máximas médias 14-22 °C, floresta de Heverleebos em plena folhagem e esplanadas da Oude Markt animadas sem a saturação dos festivais estudantis de verão. Evita as noites 'Beiaardcantus' de fim de ano académico da KU Leuven em maio e os primeiros fins de semana de setembro (afluxo estudantil massivo); o inverno é tranquilo, húmido mas mágico com o mercado de Natal Winter in Leuven que aceita cães com trela.",
           "descriptionDe": "April bis Juni und September bis Oktober sind ideal, Durchschnittshöchstwerte von 14-22 °C, der Wald Heverleebos in vollem Laubkleid und die Terrassen am Oude Markt lebendig, ohne die hochsommerliche Studentenfest-Sättigung. Die \"Beiaardcantus\"-Nächte der KU Leuven zum Ende des akademischen Jahres im Mai sowie die ersten September-Wochenenden meiden (massiver Studentenansturm); der Winter ist ruhig, nass, aber zauberhaft mit dem Weihnachtsmarkt Winter in Leuven, der angeleinte Hunde zulässt.",
-          "descriptionNl": "April tot juni en september tot oktober zijn ideaal, gemiddelde maxima van 14-22°C, het Heverleebos in volle bladertooi en de terrassen aan de Oude Markt levendig, zonder de hoogzomerse studentenfeestdrukte. Vermijd de 'Beiaardcantus'-nachten van de KU Leuven aan het einde van het academiejaar in mei en de eerste weekenden van september (massale studenteninstroom); de winter is rustig, nat, maar sfeervol met de kerstmarkt Winter in Leuven, die aangelijnde honden toelaat."
+          "descriptionNl": "April tot juni en september tot oktober zijn ideaal, gemiddelde maxima van 14-22°C, het Heverleebos in volle bladertooi en de terrassen aan de Oude Markt levendig, zonder de hoogzomerse studentenfeestdrukte. Vermijd de 'Beiaardcantus'-nachten van de KU Leuven aan het einde van het academiejaar in mei en de eerste weekenden van september (massale studenteninstroom); de winter is rustig, nat, maar sfeervol met de kerstmarkt Winter in Leuven, die aangelijnde honden toelaat.",
+          "descriptionIt": "Da aprile a giugno e da settembre a ottobre sono ideali, massime medie di 14-22°C, l'Heverleebos in piena vegetazione e le terrazze dell'Oude Markt vivaci, senza la calca studentesca di piena estate. Evita le notti del 'Beiaardcantus' della KU Leuven alla fine dell'anno accademico a maggio e i primi weekend di settembre (arrivo massiccio di studenti); l'inverno è tranquillo, umido, ma suggestivo con il mercatino di Natale Winter in Leuven, che ammette cani al guinzaglio."
         },
         {
           "name": "Day trips by free dog train and the Trappist beer tour",
@@ -1251,7 +1373,8 @@
           "descriptionEs": "Lovaina es la ciudad belga de tamaño más cercana al circuito de cervezas trapenses: Westvleteren, Westmalle, Achel, Rochefort, Chimay y Orval son accesibles en un día en tren NMBS con perro gratis y un corto taxi. La cervecería de cerveza blanca Hoegaarden está a 7 km al oeste en el bus 358. Excursiones: Bruselas en 25 min, Amberes en 50 min, Gante en 1h05, Lieja en 50 min, Brujas en 1h15 vía Bruselas. Aeropuerto BRU en 18 min para llegadas y salidas.",
           "descriptionPt": "Lovaina é a cidade belga de dimensão mais próxima do circuito das cervejas trapistas: Westvleteren, Westmalle, Achel, Rochefort, Chimay e Orval são alcançáveis em um dia por comboio NMBS com cão grátis e um curto táxi. A cervejaria de cerveja branca Hoegaarden fica a 7 km a oeste pelo autocarro 358. Excursões: Bruxelas em 25 min, Antuérpia em 50 min, Gante em 1h05, Liège em 50 min, Bruges em 1h15 via Bruxelas. Aeroporto BRU em 18 min para chegadas e partidas.",
           "descriptionDe": "Löwen ist die nächstgelegene größere belgische Stadt zur Trappisten-Bierroute: Westvleteren, Westmalle, Achel, Rochefort, Chimay und Orval sind alle an einem Tag mit dem kostenlosen NMBS-Hundezug und einem kurzen Taxi erreichbar. Die Weißbierbrauerei Hoegaarden liegt 7 km westlich, mit dem Bus 358. Tagesausflüge: Brüssel in 25 Min., Antwerpen in 50 Min., Gent in 1 Std. 05 Min., Lüttich in 50 Min., Brügge in 1 Std. 15 Min. über Brüssel. Flughafen Brüssel BRU in 18 Min. für An- und Abreise.",
-          "descriptionNl": "Leuven is de dichtstbijzijnde grotere Belgische stad bij de trappistenbierroute: Westvleteren, Westmalle, Achel, Rochefort, Chimay en Orval zijn allemaal op één dag bereikbaar met de gratis NMBS-hondentrein en een korte taxirit. De witbierbrouwerij van Hoegaarden ligt 7 km westelijk, met bus 358. Dagtochten: Brussel in 25 min, Antwerpen in 50 min, Gent in 1 uur 05 min, Luik in 50 min, Brugge in 1 uur 15 min via Brussel. Luchthaven Brussel BRU in 18 min voor aankomst en vertrek."
+          "descriptionNl": "Leuven is de dichtstbijzijnde grotere Belgische stad bij de trappistenbierroute: Westvleteren, Westmalle, Achel, Rochefort, Chimay en Orval zijn allemaal op één dag bereikbaar met de gratis NMBS-hondentrein en een korte taxirit. De witbierbrouwerij van Hoegaarden ligt 7 km westelijk, met bus 358. Dagtochten: Brussel in 25 min, Antwerpen in 50 min, Gent in 1 uur 05 min, Luik in 50 min, Brugge in 1 uur 15 min via Brussel. Luchthaven Brussel BRU in 18 min voor aankomst en vertrek.",
+          "descriptionIt": "Lovanio è la maggiore città belga più vicina alla rotta delle birre trappiste: Westvleteren, Westmalle, Achel, Rochefort, Chimay e Orval sono tutte raggiungibili in giornata con il treno gratuito per cani NMBS e un breve tragitto in taxi. La birreria di birra bianca di Hoegaarden è a 7 km a ovest, con il bus 358. Gite di un giorno: Bruxelles in 25 min, Anversa in 50 min, Gand in 1h05, Liegi in 50 min, Bruges in 1h15 via Bruxelles. Aeroporto di Bruxelles BRU in 18 min per arrivi e partenze."
         },
         {
           "name": "Currency, cost and tipping",
@@ -1261,7 +1384,8 @@
           "descriptionEs": "Bélgica usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal. Los suplementos para mascotas en hoteles de Lovaina rondan 10-20 EUR la noche, en línea con la mediana UE y ligeramente por debajo de Bruselas; la propina no es obligatoria pero redondear 5-10 % en efectivo es estándar por un buen servicio.",
           "descriptionPt": "A Bélgica usa o euro. A maioria de hotéis e restaurantes aceita Visa/Mastercard, o contactless é universal. Os suplementos para animais nos hotéis de Lovaina rondam 10-20 EUR a noite, em linha com a mediana UE e ligeiramente abaixo de Bruxelas; a gorjeta não é obrigatória mas arredondar 5-10 % em dinheiro é padrão por bom serviço.",
           "descriptionDe": "Belgien nutzt den Euro. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, kontaktloses Bezahlen ist überall üblich. Haustierzuschläge in Löwener Hotels liegen durchschnittlich bei 10-20 EUR pro Nacht, im Einklang mit dem EU-Median und etwas unter Brüssel; Trinkgeld ist nicht verpflichtend, aber ein Aufrunden um 5-10% in bar ist bei gutem Service üblich.",
-          "descriptionNl": "België gebruikt de euro. De meeste hotels en restaurants accepteren Visa/Mastercard, contactloos betalen is overal gebruikelijk. Huisdiertoeslagen bij hotels in Leuven liggen gemiddeld op 10-20 euro per nacht, in lijn met het EU-mediaan en iets onder Brussel; fooi is niet verplicht, maar een afronding van 5-10% in contanten is gebruikelijk bij goede service."
+          "descriptionNl": "België gebruikt de euro. De meeste hotels en restaurants accepteren Visa/Mastercard, contactloos betalen is overal gebruikelijk. Huisdiertoeslagen bij hotels in Leuven liggen gemiddeld op 10-20 euro per nacht, in lijn met het EU-mediaan en iets onder Brussel; fooi is niet verplicht, maar een afronding van 5-10% in contanten is gebruikelijk bij goede service.",
+          "descriptionIt": "Il Belgio usa l'euro. La maggior parte di hotel e ristoranti accetta Visa/Mastercard, il pagamento contactless è diffuso ovunque. I supplementi per animali negli hotel a Lovanio sono in media 10-20 euro a notte, in linea con la mediana UE e leggermente sotto Bruxelles; la mancia non è obbligatoria, ma un arrotondamento del 5-10% in contanti è comune per un buon servizio."
         }
       ],
       "tipsEn": [
@@ -1326,8 +1450,10 @@
       ],
       "titleDe": "Mit Hund nach Löwen reisen: Praktische Tipps",
       "titleNl": "Met je hond naar Leuven reizen: praktische tips",
+      "titleIt": "Viaggiare con il cane a Lovanio: consigli pratici",
       "introDe": "Löwen ist eine einfache belgische Stadt für den Besuch mit Hund: ein kompaktes, begehbares historisches Zentrum, die dichte flämische Braun-Café-Kultur des Oude Markt, der Flughafen Brüssel BRU nur 18 Minuten entfernt mit dem direkten, hundefreien NMBS-Zug, die Wälder Heverleebos und Meerdaalwoud direkt vor der Tür, und eine strategische Lage als nächstgelegene größere belgische Stadt zur Trappisten-Bierroute.",
       "introNl": "Leuven is een makkelijke Belgische stad om met hond te bezoeken: een compact, goed te belopen historisch centrum, de dichte Vlaamse bruine-cafécultuur van de Oude Markt, luchthaven Brussel BRU op slechts 18 minuten met de rechtstreekse, hondvrije NMBS-trein, de bossen Heverleebos en Meerdaalwoud voor de deur, en een strategische ligging als dichtstbijzijnde grotere Belgische stad bij de trappistenbierroute.",
+      "introIt": "Lovanio è una città belga facile da visitare con il cane: un centro storico compatto e comodo da girare a piedi, la fitta cultura di bruin café fiamminghi dell'Oude Markt, l'aeroporto di Bruxelles BRU a soli 18 minuti con il treno diretto NMBS senza costi per il cane, i boschi Heverleebos e Meerdaalwoud a due passi, e una posizione strategica come maggiore città belga più vicina alla rotta delle birre trappiste.",
       "faqsDe": [
         {
           "q": "Eignet sich Löwen für ein hundefreundliches Wochenende?",
@@ -1346,6 +1472,16 @@
         {
           "q": "Hoe verhoudt Leuven zich tot Brugge of Gent voor reizen met hond?",
           "a": "Leuven is kleiner, jonger en compacter, met de dichtste door studenten gedreven cafécultuur van België en een dichterbij gelegen luchthaven Brussel (18 min tegenover 50 min vanuit Gent). Brugge is toeristischer en beter te voet te verkennen, Gent heeft meer parken en het hondenstrand Blaarmeersen binnen de stad. Combineer Leuven met Brugge en Gent via de gratis NMBS-trein voor een drievoudig Vlaams hondenweekend."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Lovanio va bene per un weekend pet-friendly?",
+          "a": "Si, Lovanio è una delle città più facili del Belgio per viaggiare con il cane. Centro storico compatto e a basso traffico, oltre 40 terrazze pet-friendly all'Oude Markt, biglietti gratuiti NMBS per cani verso Bruxelles (25 min) e l'aeroporto di Bruxelles BRU (18 min), e i boschi di 4800 ettari Heverleebos e Meerdaalwoud a due passi."
+        },
+        {
+          "q": "Come si confronta Lovanio con Bruges o Gand per viaggiare col cane?",
+          "a": "Lovanio è più piccola, più giovane e compatta, con la più densa cultura di caffè studentesca del Belgio e un aeroporto di Bruxelles più vicino (18 min contro 50 min da Gand). Bruges è più turistica e più comoda da visitare a piedi, Gand ha più parchi e la spiaggia per cani Blaarmeersen dentro la città. Combina Lovanio con Bruges e Gand tramite il treno gratuito NMBS per un triplo weekend fiammingo con il cane."
         }
       ]
     },
@@ -1380,10 +1516,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Stadhuis+Leuven+Grote+Markt",
           "descriptionDe": "Löwens prachtvolles spätgotisches Stadhuis aus dem 15. Jahrhundert im brabantischen Stil, mit 236 Nischenstatuen an der Fassade, liegt gegenüber der Sint-Pieterskerk am Grote Markt. Der Platz und das Äußere des Stadhuis sind rund um die Uhr geöffnet, angeleinte Hunde überall und auf den Café-Terrassen des Platzes willkommen. Die Innenführung durch das Stadhuis lässt nur Assistenzhunde zu.",
           "descriptionNl": "Leuvens prachtige laatgotische Stadhuis uit de 15e eeuw in Brabantse stijl, met 236 nisbeelden aan de gevel, ligt tegenover de Sint-Pieterskerk aan de Grote Markt. Het plein en het exterieur van het Stadhuis zijn dag en nacht toegankelijk, aangelijnde honden overal en op de caféterrassen van het plein welkom. De binnenrondleiding door het Stadhuis laat alleen assistentiehonden toe.",
+          "descriptionIt": "Lo splendido Municipio tardogotico di Lovanio del XV secolo in stile brabantino, con 236 statue in nicchia sulla facciata, si trova di fronte alla Sint-Pieterskerk sulla Grote Markt. La piazza e l'esterno del Municipio sono accessibili giorno e notte, cani al guinzaglio benvenuti ovunque e sulle terrazze dei caffè della piazza. Il tour interno del Municipio ammette solo cani guida.",
           "petPolicyDe": "Öffentlicher Platz, angeleinte Hunde kostenlos; im Inneren nur Assistenzhunde",
           "petPolicyNl": "Openbaar plein, aangelijnde honden gratis; binnen alleen assistentiehonden",
+          "petPolicyIt": "Piazza pubblica, cani al guinzaglio gratis; dentro solo cani guida",
           "tipDe": "Bei Sonnenuntergang besuchen, um das wärmste Licht auf der 236-Statuen-Fassade einzufangen; die Café-Terrassen an der Südseite des Grote Markt bieten den besten Fotowinkel mit Hund zu Füßen.",
-          "tipNl": "Bezoek het bij zonsondergang om het warmste licht op de gevel met 236 beelden vast te leggen; de caféterrassen aan de zuidkant van de Grote Markt bieden de beste fotohoek met hond aan je voeten."
+          "tipNl": "Bezoek het bij zonsondergang om het warmste licht op de gevel met 236 beelden vast te leggen; de caféterrassen aan de zuidkant van de Grote Markt bieden de beste fotohoek met hond aan je voeten.",
+          "tipIt": "Vieni al tramonto per catturare la luce più calda sulla facciata con 236 statue; le terrazze dei caffè sul lato sud della Grote Markt offrono il miglior angolo fotografico con il cane ai tuoi piedi."
         },
         {
           "name": "Groot Begijnhof Leuven (UNESCO)",
@@ -1406,10 +1545,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Groot+Begijnhof+Leuven",
           "descriptionDe": "1232 gegründet, ist das Groot Begijnhof Löwen das größte erhaltene Beginenhof Belgiens, ein 3 Hektar großes gepflastertes Viertel mit Backsteinhäusern, Innenhöfen und der Sint-Jan-de-Doperkerk, 1998 zum UNESCO-Welterbe erklärt. Heute Teil des KU-Leuven-Campus mit Wohnungen für Akademiker, sind die Straßen ein ruhiger öffentlicher Raum. Angeleinte Hunde in den gepflasterten Gassen willkommen; das Innere der Kirche lässt nur Assistenzhunde zu.",
           "descriptionNl": "In 1232 gesticht, is het Groot Begijnhof van Leuven het grootst bewaarde begijnhof van België, een 3 hectare grote geplaveide wijk met bakstenen huizen, binnenplaatsen en de Sint-Jan-de-Doperkerk, in 1998 uitgeroepen tot UNESCO-werelderfgoed. Vandaag deel van de KU Leuven-campus met woningen voor academici, zijn de straten een rustige openbare ruimte. Aangelijnde honden welkom in de geplaveide steegjes; het interieur van de kerk laat alleen assistentiehonden toe.",
+          "descriptionIt": "Fondato nel 1232, il Groot Begijnhof di Lovanio è il beghinaggio meglio conservato del Belgio, un quartiere lastricato di 3 ettari con case in mattoni, cortili e la chiesa di Sint-Jan-de-Doper, dichiarato patrimonio mondiale UNESCO nel 1998. Oggi parte del campus della KU Leuven con abitazioni per accademici, le strade sono uno spazio pubblico tranquillo. Cani al guinzaglio benvenuti nei vicoli lastricati; l'interno della chiesa ammette solo cani guida.",
           "petPolicyDe": "Öffentliche Straßen, angeleinte Hunde kostenlos; im Kircheninneren nur Assistenzhunde",
           "petPolicyNl": "Openbare straten, aangelijnde honden gratis; binnen in de kerk alleen assistentiehonden",
+          "petPolicyIt": "Strade pubbliche, cani al guinzaglio gratis; dentro la chiesa solo cani guida",
           "tipDe": "Am besten früh morgens (vor 09:00 Uhr) oder spät abends (nach 21:00 Uhr) für leere, studentenfreie Gassen besuchen; der zentrale Innenhof rund um die Sint-Jan-de-Doperkerk fängt das beste Abendlicht ein.",
-          "tipNl": "Ga het best vroeg in de ochtend (voor 09.00 uur) of laat op de avond (na 21.00 uur) voor lege, studentenvrije steegjes; de centrale binnenplaats rond de Sint-Jan-de-Doperkerk vangt het mooiste avondlicht."
+          "tipNl": "Ga het best vroeg in de ochtend (voor 09.00 uur) of laat op de avond (na 21.00 uur) voor lege, studentenvrije steegjes; de centrale binnenplaats rond de Sint-Jan-de-Doperkerk vangt het mooiste avondlicht.",
+          "tipIt": "Meglio venire presto la mattina (prima delle 09.00) o tardi la sera (dopo le 21.00) per vicoli vuoti e senza studenti; il cortile centrale intorno alla chiesa di Sint-Jan-de-Doper cattura la luce serale più bella."
         },
         {
           "name": "Sint-Pieterskerk Exterior (Dirk Bouts Last Supper)",
@@ -1432,10 +1574,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Sint-Pieterskerk+Leuven",
           "descriptionDe": "Spätgotische Kirche am Grote Markt gegenüber dem Stadhuis, Heimat des 1464 entstandenen Altarbilds \"Das Abendmahl\" von Dirk Bouts, eines der großen Meisterwerke der frühen flämischen Malerei. Das Äußere, der Kirchplatz und die dahinterliegende Studentenmeile Naamsestraat heißen angeleinte Hunde kostenlos willkommen; das Innere der Kirche zur Betrachtung des Bouts-Altarbilds lässt nur Assistenzhunde zu.",
           "descriptionNl": "Laatgotische kerk aan de Grote Markt tegenover het Stadhuis, thuisbasis van het in 1464 ontstane altaarstuk 'Het Laatste Avondmaal' van Dirk Bouts, een van de grote meesterwerken van de vroege Vlaamse schilderkunst. Het exterieur, het kerkplein en de erachter gelegen studentenstraat Naamsestraat verwelkomen gratis aangelijnde honden; het interieur van de kerk voor het bekijken van het altaarstuk van Bouts laat alleen assistentiehonden toe.",
+          "descriptionIt": "Chiesa tardogotica sulla Grote Markt di fronte al Municipio, sede della pala d'altare 'L'Ultima Cena' di Dirk Bouts del 1464, uno dei grandi capolavori della prima pittura fiamminga. L'esterno, la piazza della chiesa e la retrostante via degli studenti Naamsestraat accolgono gratis cani al guinzaglio; l'interno della chiesa per vedere la pala di Bouts ammette solo cani guida.",
           "petPolicyDe": "Außenbereich öffentlich; im Inneren nur Assistenzhunde",
           "petPolicyNl": "Buitenruimte openbaar; binnen alleen assistentiehonden",
+          "petPolicyIt": "Spazio esterno pubblico; dentro solo cani guida",
           "tipDe": "Einen Sitter einplanen oder sich mit einem hundelosen Begleiter abwechseln, um das Abendmahl von Bouts im Inneren zu sehen; die umliegende Studentenmeile Naamsestraat hat hundefreundliche Café-Terrassen für den Hund und einen Kaffee in der Wartezeit.",
-          "tipNl": "Plan een oppas of wissel af met een metgezel zonder hond om het Laatste Avondmaal van Bouts binnen te zien; de omliggende studentenstraat Naamsestraat heeft hondvriendelijke caféterrassen voor de hond en een kop koffie tijdens het wachten."
+          "tipNl": "Plan een oppas of wissel af met een metgezel zonder hond om het Laatste Avondmaal van Bouts binnen te zien; de omliggende studentenstraat Naamsestraat heeft hondvriendelijke caféterrassen voor de hond en een kop koffie tijdens het wachten.",
+          "tipIt": "Organizza un sitter o alternati con un compagno senza cane per vedere l'Ultima Cena di Bouts dentro; la circostante Naamsestraat ha terrazze di caffè pet-friendly per il cane e un caffè durante l'attesa."
         },
         {
           "name": "KU Leuven Universiteitsbibliotheek and Sint-Donatuspark",
@@ -1458,10 +1603,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Universiteitsbibliotheek+KU+Leuven",
           "descriptionDe": "Die Universiteitsbibliotheek der KU Leuven, 1928 nach der Zerstörung im Ersten Weltkrieg und erneut nach 1944 wiederaufgebaut, mit ihrem markanten Bibliotheektoren (Bibliotheksturm), der von der Glockenspielbalkon einen Panoramablick über die Stadt bietet. Der Platz Ladeuzeplein und der angrenzende Sint-Donatuspark auf den mittelalterlichen Wallanlagen sind öffentlich und hundefreundlich; das Innere der Bibliothek und der Turmaufstieg lassen nur Assistenzhunde zu.",
           "descriptionNl": "De Universiteitsbibliotheek van de KU Leuven, herbouwd in 1928 na de verwoesting in de Eerste Wereldoorlog en opnieuw na 1944, met haar markante Bibliotheektoren, die vanaf het beiaardbalkon een panoramisch uitzicht over de stad biedt. Het Ladeuzeplein en het aangrenzende Sint-Donatuspark op de middeleeuwse stadswallen zijn openbaar en hondvriendelijk; het interieur van de bibliotheek en de beklimming van de toren laten alleen assistentiehonden toe.",
+          "descriptionIt": "La Biblioteca Universitaria della KU Leuven, ricostruita nel 1928 dopo la distruzione della Prima Guerra Mondiale e di nuovo dopo il 1944, con la sua caratteristica torre della Biblioteca, che offre dal balcone del carillon una vista panoramica sulla città. Il Ladeuzeplein e l'adiacente Sint-Donatuspark sulle mura medievali della città sono pubblici e pet-friendly; l'interno della biblioteca e la salita alla torre ammettono solo cani guida.",
           "petPolicyDe": "Öffentlicher Platz und Park; Bibliothek und Turm nur mit Assistenzhunden",
           "petPolicyNl": "Openbaar plein en park; bibliotheek en toren alleen met assistentiehonden",
+          "petPolicyIt": "Piazza e parco pubblici; biblioteca e torre solo con cani guida",
           "tipDe": "Der Sint-Donatuspark umschließt die Reste der mittelalterlichen Wallanlage direkt hinter der Bibliothek; eine kurze 10-minütige Hunderunde mit schattigen Bänken und dem Bibliotheksturm im Hintergrund.",
-          "tipNl": "Het Sint-Donatuspark omsluit de resten van de middeleeuwse stadswal direct achter de bibliotheek; een kort rondje van 10 minuten met je hond met schaduwrijke bankjes en de Bibliotheektoren op de achtergrond."
+          "tipNl": "Het Sint-Donatuspark omsluit de resten van de middeleeuwse stadswal direct achter de bibliotheek; een kort rondje van 10 minuten met je hond met schaduwrijke bankjes en de Bibliotheektoren op de achtergrond.",
+          "tipIt": "Il Sint-Donatuspark racchiude i resti delle mura medievali della città proprio dietro la biblioteca; un breve giro di 10 minuti con il tuo cane con panchine ombreggiate e la torre della Biblioteca sullo sfondo."
         }
       ],
       "tipsEn": [
@@ -1526,8 +1674,10 @@
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Löwen",
       "titleNl": "Huisdiervriendelijke bezienswaardigheden in Leuven",
+      "titleIt": "Attrazioni pet-friendly a Lovanio",
       "introDe": "Die meisten der bekannten Freiluftsehenswürdigkeiten Löwens sind hundefreundlich: die brabantisch-gotische Stadhuis-Fassade am Grote Markt, das Äußere der Sint-Pieterskerk, die legendäre \"längste Bar Europas\" am Oude Markt, das UNESCO-Viertel Groot Begijnhof, der Platz an der Universiteitsbibliotheek der KU Leuven und das Panorama des Bibliotheektoren heißen alle angeleinte Hunde kostenlos willkommen. Die Innenräume von Stadhuis, Sint-Pieterskerk (Abendmahl von Dirk Bouts), M Leuven Museum und die Produktionsbereiche von Stella Artois lassen nur Assistenzhunde zu.",
       "introNl": "De meeste bekende buitenbezienswaardigheden van Leuven zijn hondvriendelijk: de Brabants-gotische gevel van het Stadhuis aan de Grote Markt, het exterieur van de Sint-Pieterskerk, de legendarische 'langste bar van Europa' aan de Oude Markt, de UNESCO-wijk Groot Begijnhof, het plein bij de Universiteitsbibliotheek van de KU Leuven en het panorama vanaf de Bibliotheektoren verwelkomen allemaal gratis aangelijnde honden. De binnenruimtes van het Stadhuis, de Sint-Pieterskerk (Het Laatste Avondmaal van Dirk Bouts), museum M Leuven en de productieruimtes van Stella Artois laten alleen assistentiehonden toe.",
+      "introIt": "Le attrazioni all'aperto più famose di Lovanio sono pet-friendly: la facciata gotico-brabantina del Municipio sulla Grote Markt, l'esterno della Sint-Pieterskerk, il leggendario 'bar più lungo d'Europa' all'Oude Markt, il quartiere UNESCO del Groot Begijnhof, la piazza della Biblioteca Universitaria della KU Leuven e il panorama dalla torre della Biblioteca accolgono tutti gratis cani al guinzaglio. Gli spazi interni del Municipio, della Sint-Pieterskerk (l'Ultima Cena di Dirk Bouts), del museo M Leuven e delle aree di produzione di Stella Artois ammettono solo cani guida.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund in die Sint-Pieterskerk mitnehmen, um das Abendmahl von Dirk Bouts zu sehen?",
@@ -1546,6 +1696,16 @@
         {
           "q": "Mag mijn hond mee naar de Stella Artois-brouwerij?",
           "a": "Deels. De productieruimtes van de AB-InBev-Stella Artois-brouwerij zijn hondvrij om veiligheids- en hygiëneredenen. Het gebouw De Hoorn (de oorspronkelijke brouwerij uit 1922, nu een cultureel centrum) en de proeverijruimte van de brouwerij accepteren aangelijnde honden; kies bij het boeken van de rondleiding voor de pure proeverij- of hondvriendelijke optie."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane nella Sint-Pieterskerk per vedere l'Ultima Cena di Dirk Bouts?",
+          "a": "No, l'interno della Sint-Pieterskerk con la pala d'altare 'L'Ultima Cena' di Dirk Bouts ammette solo cani guida. La Grote Markt fuori è completamente pet-friendly; organizza un sitter o alternati con un compagno senza cane per vedere il capolavoro."
+        },
+        {
+          "q": "Il mio cane può venire alla birreria Stella Artois?",
+          "a": "In parte. Le aree di produzione della birreria AB-InBev-Stella Artois sono vietate ai cani per motivi di sicurezza e igiene. L'edificio De Hoorn (la birreria originale del 1922, oggi un centro culturale) e la sala degustazione della birreria accettano cani al guinzaglio; scegli al momento della prenotazione del tour l'opzione pura degustazione o pet-friendly."
         }
       ]
     },
@@ -1578,8 +1738,10 @@
           "tipPt": "Filtra por falantes de inglês, cerca de 80 % dos cuidadores de Lovaina fala inglês com fluência graças à população estudantil e académica muito internacional da KU Leuven; muitos falam também francês.",
           "descriptionDe": "Internationale Haustierbetreuungsplattform mit rund 30 verifizierten Betreuern in Löwen innerhalb von 5 km des Zentrums, die Kurzbesuche, Hundetagesstätten und Übernachtungsbetreuung anbieten. Alle Betreuer sind geprüft, eine Versicherung ist inbegriffen.",
           "descriptionNl": "Internationaal platform voor huisdierenoppas met ongeveer 30 geverifieerde oppassers in Leuven binnen 5 km van het centrum, die korte bezoekjes, hondendagopvang en overnachtingsoppas aanbieden. Alle oppassers zijn gescreend, verzekering is inbegrepen.",
+          "descriptionIt": "Piattaforma internazionale per pet-sitting con circa 30 sitter verificati a Lovanio entro 5 km dal centro, che offrono visite brevi, asilo diurno per cani e pernottamento con sitter. Tutti i sitter sono selezionati, l'assicurazione è inclusa.",
           "tipDe": "Nach englischsprachigen Betreuern filtern, rund 80% der Löwener Betreuer sprechen dank der sehr internationalen KU-Leuven-Studenten- und Akademikerbevölkerung fließend Englisch; viele sprechen auch Französisch.",
-          "tipNl": "Filter op Engelssprekende oppassers, ongeveer 80% van de Leuvense oppassers spreekt vloeiend Engels dankzij de zeer internationale KU Leuven-studenten- en academische populatie; velen spreken ook Frans."
+          "tipNl": "Filter op Engelssprekende oppassers, ongeveer 80% van de Leuvense oppassers spreekt vloeiend Engels dankzij de zeer internationale KU Leuven-studenten- en academische populatie; velen spreken ook Frans.",
+          "tipIt": "Filtra per sitter di lingua inglese, circa l'80% dei sitter di Lovanio parla inglese fluente grazie alla popolazione studentesca e accademica molto internazionale della KU Leuven; molti parlano anche francese."
         },
         {
           "name": "Rover Leuven",
@@ -1599,8 +1761,10 @@
           "tipPt": "Reserva pelo menos 48h antes durante os períodos de exames da KU Leuven (janeiro, maio-junho) e o mercado de Natal de dezembro, quando a oferta local aperta muito.",
           "descriptionDe": "Internationale Rover-Plattform mit rund 20 verifizierten Betreuern in Löwen, die überwiegend 30- und 60-minütige Kurzspaziergänge und ganztägige Betreuung anbieten. Durchschnittlicher Preis 25-35 EUR pro Tag für Betreuung, 14-18 EUR für einen 30-minütigen Kurzbesuch.",
           "descriptionNl": "Internationaal Rover-platform met ongeveer 20 geverifieerde oppassers in Leuven, die vooral wandelingen van 30 en 60 minuten en hele dagen opvang aanbieden. Gemiddelde prijs 25-35 euro per dag voor opvang, 14-18 euro voor een kort bezoekje van 30 minuten.",
+          "descriptionIt": "Piattaforma internazionale Rover con circa 20 sitter verificati a Lovanio, che offrono soprattutto passeggiate di 30 e 60 minuti e giornate intere di custodia. Prezzo medio 25-35 euro al giorno per la custodia, 14-18 euro per una visita breve di 30 minuti.",
           "tipDe": "Während der Prüfungszeiten der KU Leuven (Januar, Mai-Juni) und des Weihnachtsmarkts im Dezember mindestens 48 Stunden im Voraus buchen, wenn das lokale Angebot deutlich knapper wird.",
-          "tipNl": "Boek tijdens de examenperiodes van de KU Leuven (januari, mei-juni) en de kerstmarkt in december minstens 48 uur van tevoren, want het lokale aanbod wordt dan aanzienlijk krapper."
+          "tipNl": "Boek tijdens de examenperiodes van de KU Leuven (januari, mei-juni) en de kerstmarkt in december minstens 48 uur van tevoren, want het lokale aanbod wordt dan aanzienlijk krapper.",
+          "tipIt": "Prenota durante i periodi di esame della KU Leuven (gennaio, maggio-giugno) e il mercatino di Natale a dicembre con almeno 48 ore di anticipo, perché l'offerta locale si riduce notevolmente."
         },
         {
           "name": "Gudog Leuven",
@@ -1621,8 +1785,10 @@
           "tipPt": "Compara o triplo Pawshake-Rover-Gudog nas mesmas datas, os preços variam até 30 % para um perfil do mesmo bairro.",
           "descriptionDe": "Europäische Haustierbetreuungsplattform mit verifizierten Betreuern in Löwen, die Vollpension, Tagesstätten und Spaziergänge anbieten. Profile sind mit Wohnungschecks geprüft, eine Versicherung ist inbegriffen; nützlich als Ausweichoption, wenn die Verfügbarkeit bei Pawshake und Rover rund um die Abschlusswoche der KU Leuven und Weihnachten knapp wird.",
           "descriptionNl": "Europees platform voor huisdierenoppas met geverifieerde oppassers in Leuven, die volledig verblijf, dagopvang en wandelingen aanbieden. Profielen zijn gescreend met huischecks, verzekering is inbegrepen; handig als uitwijkoptie als de beschikbaarheid bij Pawshake en Rover krap wordt rond de examenweek van de KU Leuven en Kerstmis.",
+          "descriptionIt": "Piattaforma europea per pet-sitting con sitter verificati a Lovanio, che offrono soggiorno completo, custodia diurna e passeggiate. I profili sono selezionati con controlli a domicilio, l'assicurazione è inclusa; utile come alternativa quando la disponibilità su Pawshake e Rover si riduce intorno alla settimana degli esami della KU Leuven e a Natale.",
           "tipDe": "Ein Pawshake-Rover-Gudog-Trio für dieselben Termine vergleichen, die Preise variieren für dasselbe Stadtviertelprofil um bis zu 30%.",
-          "tipNl": "Vergelijk een trio Pawshake-Rover-Gudog voor dezelfde data, de prijzen variëren voor hetzelfde wijkprofiel tot 30%."
+          "tipNl": "Vergelijk een trio Pawshake-Rover-Gudog voor dezelfde data, de prijzen variëren voor hetzelfde wijkprofiel tot 30%.",
+          "tipIt": "Confronta un trio Pawshake-Rover-Gudog per le stesse date, i prezzi variano fino al 30% per lo stesso profilo di quartiere."
         }
       ],
       "tipsEn": [
@@ -1687,8 +1853,10 @@
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Löwen",
       "titleNl": "Huisdierenoppas en uitlaatservice in Leuven",
+      "titleIt": "Pet-sitting e dog walking a Lovanio",
       "introDe": "Für Besuche, bei denen der Hund nicht mitkommen kann (Innenführung im Stadhuis, Sint-Pieterskerk mit dem Abendmahl von Dirk Bouts, M Leuven Museum, Turmaufstieg der KU-Leuven-Bibliothek, Produktionsbereiche der Stella-Artois-Brauerei) bietet Löwen zuverlässige, geprüfte Haustierbetreuung über internationale und belgische Plattformen, mit einem starken Angebot dank der KU-Leuven-Studenten- und Akademikerbevölkerung.",
       "introNl": "Voor bezoeken waarbij je hond niet mee kan (binnenrondleiding in het Stadhuis, de Sint-Pieterskerk met het Laatste Avondmaal van Dirk Bouts, museum M Leuven, de beklimming van de KU Leuven-bibliotheektoren, productieruimtes van de Stella Artois-brouwerij) biedt Leuven betrouwbare, gescreende huisdierenoppas via internationale en Belgische platforms, met een groot aanbod dankzij de KU Leuven-studenten- en academische populatie.",
+      "introIt": "Per le visite dove il tuo cane non può venire (tour interno del Municipio, la Sint-Pieterskerk con l'Ultima Cena di Dirk Bouts, il museo M Leuven, la salita alla torre della biblioteca della KU Leuven, le aree di produzione della birreria Stella Artois), Lovanio offre pet-sitting affidabile e selezionato tramite piattaforme internazionali e belghe, con un'ampia offerta grazie alla popolazione studentesca e accademica della KU Leuven.",
       "faqsDe": [
         {
           "q": "Was kostet eine Hundetagesstätte in Löwen?",
@@ -1707,6 +1875,16 @@
         {
           "q": "Vind ik in Leuven een Engelssprekende oppasser?",
           "a": "Ja, ongeveer 80% van de Leuvense oppassers spreekt vloeiend Engels dankzij de zeer internationale KU Leuven-studenten- en academische populatie; velen zijn ook tweetalig met Frans. Filter het platform op taal."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Quanto costa l'asilo diurno per cani a Lovanio?",
+          "a": "25-35 euro al giorno, a seconda del sitter e della taglia del cane, su Pawshake, Rover o Gudog. Le visite brevi costano 14-18 euro per 30 minuti."
+        },
+        {
+          "q": "Trovo un sitter di lingua inglese a Lovanio?",
+          "a": "Si, circa l'80% dei sitter di Lovanio parla inglese fluente grazie alla popolazione studentesca e accademica molto internazionale della KU Leuven; molti sono anche bilingue con il francese. Filtra la piattaforma per lingua."
         }
       ]
     }

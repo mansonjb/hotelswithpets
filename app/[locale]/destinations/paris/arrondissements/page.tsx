@@ -26,6 +26,7 @@ export async function generateMetadata({
     es: `París pet-friendly por distrito: los 20 arrondissements cartografiados (2026)`,
     pt: `Paris pet-friendly por arrondissement: os 20 distritos cartografados (2026)`,
     nl: `Hondvriendelijk Parijs per arrondissement: alle 20 wijken in kaart (2026)`,
+    it: `Parigi pet-friendly per arrondissement: tutti i 20 quartieri mappati (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `A neighbourhood-by-neighbourhood guide to dog-friendly Paris. The vibe, the parks where dogs are welcome, the verified vets and the best pet-friendly hotels in each of the 20 arrondissements.`,
@@ -33,6 +34,7 @@ export async function generateMetadata({
     es: `La guía barrio por barrio del París dog-friendly. El ambiente, los parques abiertos a perros, los veterinarios verificados y los mejores hoteles pet-friendly en cada uno de los 20 distritos.`,
     pt: `O guia bairro a bairro da Paris pet-friendly. O ambiente, os parques abertos a cães, os veterinários verificados e os melhores hotéis pet-friendly em cada um dos 20 arrondissements.`,
     nl: `De wijk-voor-wijk gids voor hondvriendelijk Parijs. De sfeer, de parken waar honden welkom zijn, de geverifieerde dierenartsen en de beste hondvriendelijke hotels in elk van de 20 arrondissementen.`,
+    it: `La guida quartiere per quartiere della Parigi dog-friendly. L'atmosfera, i parchi dove i cani sono benvenuti, i veterinari verificati e i migliori hotel pet-friendly in ognuno dei 20 arrondissement.`,
   }
 
   return {
@@ -103,6 +105,16 @@ const COPY = {
     metrosLabel: 'Metro',
     detailCta: 'Bekijk gids →',
     parisCta: 'Terug naar de gids van Parijs',
+  },
+  it: {
+    eyebrow: 'PARIGI PET-FRIENDLY PER ARRONDISSEMENT',
+    h1: 'Parigi dog-friendly, quartiere per quartiere',
+    intro: `Parigi è piccola abbastanza da attraversarla a piedi con un cane, ma i 20 arrondissement sembrano 20 città diverse. Li abbiamo mappati tutti: i parchi che accettano davvero i cani al guinzaglio (la maggior parte dei giardini pubblici resta chiusa), i veterinari 24h verificati, le linee della metro che accettano animali, e la zona dove conviene alloggiare a seconda di cosa cerchi dal viaggio.`,
+    listTitle: 'I 20 arrondissement',
+    listSubtitle: 'Clicca su un quartiere per parchi, veterinari, regole sui cani e hotel pet-friendly.',
+    metrosLabel: 'Metro',
+    detailCta: 'Apri la guida →',
+    parisCta: 'Torna alla guida di Parigi',
   },
 } as const
 

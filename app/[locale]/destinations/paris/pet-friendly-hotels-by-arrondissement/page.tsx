@@ -26,6 +26,7 @@ export async function generateMetadata({
     es: `Mejores Hoteles Pet-Friendly en Paris por Arrondissement (2026) | HotelsWithPets`,
     pt: `Melhores Hoteis Pet-Friendly em Paris por Arrondissement (2026) | HotelsWithPets`,
     nl: `Beste Hondvriendelijke Hotels in Parijs per Arrondissement (2026) | HotelsWithPets`,
+    it: `Migliori Hotel Pet-Friendly a Parigi per Arrondissement (2026) | HotelsWithPets`,
   }
   const description =
     locale === 'fr'
@@ -36,6 +37,8 @@ export async function generateMetadata({
       ? `60 hoteis verificados nos 20 arrondissements de Paris - parques, veterinarios e politica canina por bairro.`
       : locale === 'nl'
       ? `60 geverifieerde hotels in de 20 arrondissementen van Parijs, parken, dierenartsen en hondenbeleid per wijk.`
+      : locale === 'it'
+      ? `60 hotel verificati nei 20 arrondissement di Parigi - parchi, veterinari e regole sui cani per quartiere.`
       : `60 hotels verified across 20 Paris arrondissements - parks, vets and dog policy per neighbourhood.`
 
   return {
@@ -287,6 +290,52 @@ const COPY = {
       },
     ],
   },
+  it: {
+    breadcrumbHome: 'Home',
+    breadcrumbParis: 'Parigi',
+    breadcrumbCurrent: 'Hotel per arrondissement',
+    badge: '🐾 60 hotel verificati',
+    h1: 'Migliori hotel pet-friendly a Parigi per arrondissement',
+    intro: `Scegliere l'arrondissement giusto cambia tutto in un viaggio a Parigi con il cane. Ogni quartiere ha la sua atmosfera, i suoi spazi verdi (o la loro mancanza), il suo accesso alla metro e le sue regole per gli animali. Abbiamo verificato 60 hotel nei 20 distretti cosi puoi scegliere la tua base prima di prenotare.`,
+    stat1: '20 arrondissement',
+    stat2: '60 hotel',
+    navTitle: 'Vai a un arrondissement',
+    metrosLabel: 'Metro',
+    priceFrom: 'Da',
+    petFee: 'Supplemento animale',
+    petFeePerNight: '/notte',
+    petFeeIncluded: 'incluso',
+    bookCta: 'Prenota su Booking.com',
+    guideCta: 'Guida completa per',
+    faqTitle: 'Domande frequenti su Parigi con il cane',
+    backParis: 'Torna alla guida di Parigi',
+    faqs: [
+      {
+        q: 'Qual e il miglior arrondissement per i cani a Parigi?',
+        a: `L'11e (Bastille/Oberkampf) e il 12e (Bercy) offrono la miglior combinazione di parchi liberi dal guinzaglio, hotel economici e facile accesso alla metro. Il Bois de Vincennes nel 12e ha la piu grande area libera dal guinzaglio della citta. Per una base centrale e percorribile a piedi, il 4e (Marais) ha numerose terrazze di caffe che tollerano i cani e i portici di Place des Vosges.`,
+      },
+      {
+        q: 'I cani sono ammessi nei parchi di Parigi?',
+        a: `La maggior parte dei grandi parchi parigini vieta i cani su prati e aiuole. I cani al guinzaglio sono ammessi sui viali ghiaiati della maggior parte dei parchi. Il Bois de Boulogne e il Bois de Vincennes hanno zone dedicate libere dal guinzaglio (aree canine). Il Jardin des Plantes e l'interno del Jardin du Palais-Royal vietano i cani del tutto.`,
+      },
+      {
+        q: 'I cani possono usare la metro di Parigi?',
+        a: `I cani piccoli (sotto i 6 kg trasportati in una borsa o trasportino non piu grande di 45x30 cm) viaggiano gratis sulla metro RATP, sul RER e sugli autobus. I cani piu grandi pagano un biglietto ridotto da bambino e devono avere museruola e guinzaglio corto. I cani non sono ammessi nella prima carrozza di nessuna linea della metro.`,
+      },
+      {
+        q: 'Qual e il supplemento animale negli hotel di Parigi?',
+        a: `Il supplemento animale negli hotel di Parigi va da gratuito (molti hotel boutique e di design non lo applicano) a 50-100 EUR a notte nei palazzi di lusso. Gli hotel economici spesso chiedono 10-20 EUR a soggiorno. Conferma sempre al momento della prenotazione, perche il supplemento puo variare in base alla taglia del cane ed e a volte per animale.`,
+      },
+      {
+        q: 'Quale quartiere di Parigi ha piu spazio verde per i cani?',
+        a: `Il 12e arrondissement (Bercy/Bois de Vincennes) ha di gran lunga piu spazio verde: il Bois de Vincennes copre 995 ettari con diverse aree libere dal guinzaglio. Il 16e (Passy/Auteuil) confina con il Bois de Boulogne, 846 ettari, e le sue proprie aree libere dal guinzaglio. Entrambi sono basi ideali per proprietari di cani grandi o molto attivi.`,
+      },
+      {
+        q: 'Ci sono veterinari 24h a Parigi?',
+        a: `Si. I principali centri veterinari d'urgenza 24h a Parigi sono la Clinique Veterinaire des Champs-Elysees (9 rue Balzac, 75008, tel: +33 1 45 63 04 03) e l'ADVET (Centre Hospitalier Veterinaire, Maisons-Alfort, 30 min in auto/RER). Il numero nazionale d'emergenza 3115 puo reindirizzarti al veterinario disponibile piu vicino ogni notte.`,
+      },
+    ],
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -298,6 +347,7 @@ function getIntro(a: ArrondissementData, locale: Locale): string {
   if (locale === 'es') return a.introEs
   if (locale === 'pt') return a.introPt
   if (locale === 'nl') return a.introEn
+  if (locale === 'it') return a.introEn
   return a.introEn
 }
 
@@ -309,6 +359,7 @@ function getPitch(
   if (locale === 'es') return hotel.pitchEs
   if (locale === 'pt') return hotel.pitchPt
   if (locale === 'nl') return hotel.pitchEn
+  if (locale === 'it') return hotel.pitchEn
   return hotel.pitchEn
 }
 

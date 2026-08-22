@@ -70,19 +70,22 @@ export async function generateMetadata({
   const catNamePt = (cat as typeof cat & { namePt?: string }).namePt ?? cat.name
   const catNameDe = (cat as typeof cat & { nameDe?: string }).nameDe ?? cat.name
   const catNameNl = (cat as typeof cat & { nameNl?: string }).nameNl ?? cat.name
+  const catNameIt = (cat as typeof cat & { nameIt?: string }).nameIt ?? cat.name
   const cityEn = dest.name
   const cityFr = getLocalizedCityName(dest.slug, dest.name, 'fr')
   const cityEs = getLocalizedCityName(dest.slug, dest.name, 'es')
   const cityPt = getLocalizedCityName(dest.slug, dest.name, 'pt')
   const cityDe = getLocalizedCityName(dest.slug, dest.name, 'de')
   const cityNl = getLocalizedCityName(dest.slug, dest.name, 'nl')
-  const freePart = (locale: 'en' | 'fr' | 'es' | 'pt' | 'de' | 'nl') => {
+  const cityIt = getLocalizedCityName(dest.slug, dest.name, 'it')
+  const freePart = (locale: 'en' | 'fr' | 'es' | 'pt' | 'de' | 'nl' | 'it') => {
     if (freeCount === 0) return ''
     if (locale === 'fr') return `, dont ${freeCount} sans supplément animaux`
     if (locale === 'es') return `, ${freeCount} sin cargo por mascota`
     if (locale === 'pt') return `, ${freeCount} sem suplemento de animais`
     if (locale === 'de') return `, davon ${freeCount} ohne Haustiergebühr`
     if (locale === 'nl') return `, waarvan ${freeCount} zonder huisdiertoeslag`
+    if (locale === 'it') return `, di cui ${freeCount} senza supplemento animali`
     return `, ${freeCount} with no pet fee`
   }
 
@@ -95,6 +98,7 @@ export async function generateMetadata({
     pt: `Hotéis ${catNamePt.toLowerCase()} em ${cityPt}: ${comboHotels.length} verificados desde ${minPrice} €/noite`,
     de: `${catNameDe}-Hotels in ${cityDe}: ${comboHotels.length} geprüfte Empfehlungen ab ${minPrice} €/Nacht`,
     nl: `${catNameNl}-hotels in ${cityNl}: ${comboHotels.length} geverifieerde aanraders vanaf €${minPrice}/nacht`,
+    it: `Hotel ${catNameIt.toLowerCase()} a ${cityIt}: ${comboHotels.length} strutture verificate da €${minPrice}/notte`,
   }
   const descriptions: Record<string, string> = {
     en: `${comboHotels.length} ${cat.name.toLowerCase()} hotels in ${cityEn}, verified pet policies and live Booking.com prices from €${minPrice}/night${freePart('en')}. Updated ${year}.`,
@@ -103,6 +107,7 @@ export async function generateMetadata({
     pt: `${comboHotels.length} hotéis ${catNamePt.toLowerCase()} em ${cityPt}, políticas de animais verificadas e preços Booking.com em direto desde ${minPrice} €/noite${freePart('pt')}. Atualizado ${year}.`,
     de: `${comboHotels.length} ${catNameDe}-Hotels in ${cityDe}, geprüfte Haustierrichtlinien und aktuelle Booking.com-Preise ab ${minPrice} €/Nacht${freePart('de')}. Aktualisiert ${year}.`,
     nl: `${comboHotels.length} ${catNameNl}-hotels in ${cityNl}, geverifieerd huisdierbeleid en actuele Booking.com-prijzen vanaf €${minPrice}/nacht${freePart('nl')}. Bijgewerkt in ${year}.`,
+    it: `${comboHotels.length} hotel ${catNameIt.toLowerCase()} a ${cityIt}, politiche animali verificate e prezzi Booking.com in tempo reale da €${minPrice}/notte${freePart('it')}. Aggiornato nel ${year}.`,
   }
 
   const title = titles[locale] ?? titles.en
@@ -139,6 +144,7 @@ function getCategoryName(cat: (typeof categories)[number], locale: Locale): stri
   if (locale === 'pt' && (cat as { namePt?: string }).namePt) return (cat as { namePt?: string }).namePt as string
   if (locale === 'de' && (cat as { nameDe?: string }).nameDe) return (cat as { nameDe?: string }).nameDe as string
   if (locale === 'nl' && (cat as { nameNl?: string }).nameNl) return (cat as { nameNl?: string }).nameNl as string
+  if (locale === 'it' && (cat as { nameIt?: string }).nameIt) return (cat as { nameIt?: string }).nameIt as string
   return cat.name
 }
 
@@ -353,7 +359,7 @@ export default async function ComboPage({
                   <span className="text-white/50 text-2xl lg:text-3xl font-semibold"> ({year})</span>
                 </h1>
                 <p className="text-white/75 text-base lg:text-lg max-w-xl leading-relaxed">
-                  {comboHotels.length} {p.handpicked} · {localizedCountry} · {p.updatedLabel} {new Date().toLocaleDateString(locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'pt' ? 'pt-PT' : locale === 'de' ? 'de-DE' : locale === 'nl' ? 'nl-NL' : 'en-GB', { month: 'long', year: 'numeric' })}
+                  {comboHotels.length} {p.handpicked} · {localizedCountry} · {p.updatedLabel} {new Date().toLocaleDateString(locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'pt' ? 'pt-PT' : locale === 'de' ? 'de-DE' : locale === 'nl' ? 'nl-NL' : locale === 'it' ? 'it-IT' : 'en-GB', { month: 'long', year: 'numeric' })}
                 </p>
               </div>
 
@@ -613,7 +619,7 @@ export default async function ComboPage({
                   const currentMonth = months[new Date().getMonth()]
                   const w = weather[currentMonth]
                   const monthName = new Date().toLocaleDateString(
-                    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'pt' ? 'pt-PT' : locale === 'de' ? 'de-DE' : locale === 'nl' ? 'nl-NL' : 'en-GB',
+                    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'pt' ? 'pt-PT' : locale === 'de' ? 'de-DE' : locale === 'nl' ? 'nl-NL' : locale === 'it' ? 'it-IT' : 'en-GB',
                     { month: 'long' }
                   )
                   return (

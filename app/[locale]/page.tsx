@@ -30,6 +30,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]'>): Prom
     pt: 'Hotéis que aceitam animais na Europa: 2.500+ verificados, políticas reais | HotelsWithPets',
     de: 'Haustierfreundliche Hotels in Europa: 2.500+ geprüft, echte Richtlinien | HotelsWithPets',
     nl: 'Huisdiervriendelijke hotels in Europa: 2.500+ gecontroleerd, echt beleid | HotelsWithPets',
+    it: 'Hotel pet-friendly e dog-friendly in Europa: 2.500+ verificati | HotelsWithPets',
   }
   const descriptions: Record<string, string> = {
     en: 'Find the best pet-friendly and dog-friendly hotels across 400+ European destinations: 2,500+ hotels with verified pet policies (not just "pets allowed"), real guest ratings, city guides, emergency vets and transport rules. Free trip planning for travelling with your dog or cat.',
@@ -38,6 +39,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]'>): Prom
     pt: 'Encontre hotéis que aceitam cães em mais de 400 destinos europeus: 2.500+ hotéis com políticas verificadas (não só "animais aceites"), avaliações reais, guias de cidade, veterinários de urgência e regras de transporte. Planeie a sua viagem gratuitamente, com o seu cão ou gato.',
     de: 'Finden Sie hundefreundliche Hotels in über 400 europäischen Reisezielen: 2.500+ Hotels mit geprüften Haustierrichtlinien (nicht nur „Haustiere erlaubt"), echte Gästebewertungen, Stadtführer, Notfall-Tierärzte und Transportregeln. Kostenlose Reiseplanung für Reisen mit Hund oder Katze.',
     nl: 'Vind hondvriendelijke hotels in meer dan 400 Europese bestemmingen: 2.500+ hotels met gecontroleerd huisdierbeleid (niet alleen "huisdieren toegestaan"), echte gastbeoordelingen, stadsgidsen, spoeddierenartsen en vervoersregels. Gratis reisplanning voor jouw reis met hond of kat.',
+    it: `Trova hotel dog-friendly in oltre 400 destinazioni europee: 2.500+ hotel con politiche verificate (non solo "animali ammessi"), recensioni reali degli ospiti, guide città, veterinari d'urgenza e regole di trasporto. Pianifica il tuo viaggio gratis, con il tuo cane o il tuo gatto.`,
   }
 
   const title = titles[locale] ?? titles.en

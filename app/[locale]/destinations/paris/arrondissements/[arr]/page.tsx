@@ -83,6 +83,7 @@ export async function generateMetadata({
     es: `París ${a.slug} (${a.popularName}) con perro: parques, veterinarios y hoteles`,
     pt: `Paris ${a.slug} (${a.popularName}) com cão: parques, veterinários e hotéis`,
     nl: `Parijs ${a.slug} (${a.popularName}) met je hond: parken, dierenartsen en hotels`,
+    it: `Parigi ${a.slug} (${a.popularName}) con il cane: parchi, veterinari e hotel`,
   }
   const descriptions: Record<string, string> = {
     en: `What to know about ${a.popularName} (${a.slug}) with a dog: the parks that actually accept leashed dogs, the verified vets, the metro lines and the pet-friendly hotel inventory in the area.`,
@@ -90,6 +91,7 @@ export async function generateMetadata({
     es: `Todo sobre ${a.popularName} (${a.slug}) con perro: los parques que realmente aceptan perros con correa, los veterinarios verificados, las líneas de metro y los hoteles pet-friendly del barrio.`,
     pt: `Tudo sobre ${a.popularName} (${a.slug}) com cão: os parques que realmente aceitam cães à trela, os veterinários verificados, as linhas de metro e os hotéis pet-friendly do bairro.`,
     nl: `Alles over ${a.popularName} (${a.slug}) met je hond: de parken die honden aan de lijn echt toelaten, de geverifieerde dierenartsen, de metrolijnen en het aanbod hondvriendelijke hotels in de wijk.`,
+    it: `Tutto su ${a.popularName} (${a.slug}) con il cane: i parchi che accettano davvero i cani al guinzaglio, i veterinari verificati, le linee della metro e gli hotel pet-friendly della zona.`,
   }
 
   return {
@@ -226,6 +228,29 @@ const COPY = {
     stickyLabel: 'Hondvriendelijke hotels in Parijs',
     stickyCta: 'Bekijk hotels',
   },
+  it: {
+    metroLabel: 'Metro',
+    centerLabel: 'Centrato su',
+    introHeading: 'Sul quartiere',
+    highlightsHeading: 'Spot pet-friendly',
+    parksHeading: 'Parchi e spazi verdi',
+    vetsHeading: 'Veterinari nelle vicinanze',
+    hotelsHeading: 'La nostra selezione pet-friendly',
+    hotelsNote: `Una breve selezione editoriale. La mappa qui sotto mostra tutto l'inventario Booking.com.`,
+    starsLabel: '★',
+    fromLabel: 'da',
+    perNightLabel: '/notte',
+    petFeeLabel: 'supplemento animale',
+    petFeeFreeLabel: 'animali gratis',
+    checkAvailability: 'Verifica disponibilità →',
+    mapHeading: 'Tutti gli hotel pet-friendly della zona',
+    mapNote: `Disponibilità e prezzi in tempo reale, cani e gatti accettati. Prenotabile via Booking.com e partner.`,
+    seeHotels: `Vedi gli hotel pet-friendly a Parigi ${''}`,
+    backToHub: 'Torna a tutti gli arrondissement',
+    comingSoon: 'Guida dettagliata in arrivo a breve. Nel frattempo, sfoglia gli hotel pet-friendly di questa zona qui sotto.',
+    stickyLabel: 'Hotel pet-friendly a Parigi',
+    stickyCta: 'Vedi gli hotel',
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -237,6 +262,7 @@ function pickLocaleString(a: Arr, locale: Locale, key: 'intro') {
     es: 'introEs' as keyof Arr,
     pt: 'introPt' as keyof Arr,
     nl: 'introEn' as keyof Arr,
+    it: 'introEn' as keyof Arr,
   }
   return (a[map[locale]] as string) || ''
 }
@@ -248,6 +274,7 @@ function pickLocaleArray(a: Arr, locale: Locale): string[] {
     es: 'highlightsEs' as keyof Arr,
     pt: 'highlightsPt' as keyof Arr,
     nl: 'highlightsEn' as keyof Arr,
+    it: 'highlightsEn' as keyof Arr,
   }
   return ((a[map[locale]] as string[]) || []).filter(Boolean)
 }
@@ -259,6 +286,7 @@ function parkPolicy(park: Arr['parks'][number], locale: Locale): string {
     es: 'policyEs' as keyof typeof park,
     pt: 'policyPt' as keyof typeof park,
     nl: 'policyEn' as keyof typeof park,
+    it: 'policyEn' as keyof typeof park,
   }
   return (park[map[locale]] as string) || (park.policyEn as string) || ''
 }
@@ -386,7 +414,7 @@ export default async function Page({
         {/* Hotel selection */}
         {a.hotels && a.hotels.length > 0 && (() => {
           const pitchKey: Record<Locale, keyof ArrHotel> = {
-            en: 'pitchEn', fr: 'pitchFr', es: 'pitchEs', pt: 'pitchPt', nl: 'pitchEn',
+            en: 'pitchEn', fr: 'pitchFr', es: 'pitchEs', pt: 'pitchPt', nl: 'pitchEn', it: 'pitchEn',
           }
           return (
             <section>

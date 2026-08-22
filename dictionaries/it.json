@@ -1,0 +1,160 @@
+{
+  "nav": {
+    "home": "Home",
+    "destinations": "Destinazioni",
+    "categories": "Categorie",
+    "about": "Chi siamo",
+    "countries": "Paesi"
+  },
+  "hero": {
+    "badge": "Hotel pet-friendly verificati in tutta Europa",
+    "title": "Hotel pet-friendly che accolgono davvero il tuo animale",
+    "subtitle": "Trova il soggiorno perfetto per te e il tuo cane. Sfoglia per destinazione, filtra per politica sugli animali e prenota direttamente su Booking.com.",
+    "searchDestination": "Dove vuoi andare?",
+    "searchCategory": "Tipo di animale o servizio",
+    "cta": "Trova hotel",
+    "stat1Value": "400+",
+    "stat1Label": "Destinazioni",
+    "stat2Value": "2.400+",
+    "stat2Label": "Hotel pet-friendly",
+    "stat3Value": "100%",
+    "stat3Label": "Gratuito"
+  },
+  "categories": {
+    "browseBy": "Sfoglia per",
+    "browseTitle": "categoria",
+    "subtitle": "Trova hotel filtrati in base a ciò che conta di più per te e il tuo animale.",
+    "explore": "Scopri di più →"
+  },
+  "howItWorks": {
+    "title": "Prenota in 3 semplici passi",
+    "step1Title": "Scegli la tua destinazione",
+    "step1Desc": "Sfoglia la nostra selezione di città pet-friendly in tutta Europa e scegli il tuo prossimo viaggio.",
+    "step2Title": "Trova il tuo hotel",
+    "step2Desc": "Filtra per politica sugli animali, limiti di taglia, costi extra per gli animali o accesso alla spiaggia.",
+    "step3Title": "Prenota il tuo soggiorno",
+    "step3Desc": "Vai su Booking.com e completa la tua prenotazione direttamente."
+  },
+  "destinations": {
+    "title": "Destinazioni popolari",
+    "cta": "Scopri gli hotel",
+    "viewAll": "Vedi tutte le destinazioni →"
+  },
+  "combos": {
+    "title": "Oltre 100 guide pet-friendly selezionate",
+    "featuredLabel": "Guida in evidenza",
+    "viewGuide": "Vedi la guida →",
+    "items": [
+      {
+        "emoji": "🐕",
+        "label": "Amsterdam con il tuo cane, la guida completa",
+        "href": "amsterdam/dog-friendly"
+      },
+      {
+        "emoji": "🏖️",
+        "label": "Biarritz: le spiagge migliori per il tuo cane",
+        "href": "biarritz/beach-access"
+      },
+      {
+        "emoji": "✨",
+        "label": "Parigi di lusso con il tuo animale: selezione esclusiva",
+        "href": "paris/luxury"
+      },
+      {
+        "emoji": "🎉",
+        "label": "Barcellona: nessun costo extra per gli animali, i nostri hotel selezionati",
+        "href": "barcelona/dogs-stay-free"
+      },
+      {
+        "emoji": "🐕",
+        "label": "Roma con il tuo cane: dove dormire e girare in libertà",
+        "href": "rome/dog-friendly"
+      },
+      {
+        "emoji": "🌳",
+        "label": "Berlino pet-friendly: parchi e hotel selezionati",
+        "href": "berlin/near-parks"
+      },
+      {
+        "emoji": "🐕",
+        "label": "Lisbona con il tuo cane: la guida pratica",
+        "href": "lisbon/dog-friendly"
+      }
+    ]
+  },
+  "footer": {
+    "explore": "Scopri",
+    "destinations": "Destinazioni",
+    "categories": "Categorie",
+    "company": "Azienda",
+    "about": "Chi siamo",
+    "disclosure": "Informativa affiliazione",
+    "disclosureText": "Questo sito contiene link di affiliazione. Potremmo ricevere una commissione quando prenoti tramite i nostri link, senza costi aggiuntivi per te.",
+    "copyright": "© 2026 HotelsWithPets.com. Tutti i diritti riservati.",
+    "privacy": "Informativa sulla privacy"
+  },
+  "pages": {
+    "destinations": {
+      "title": "Tutte le destinazioni pet-friendly",
+      "subtitle": "Da Amsterdam a Lisbona, scopri dove soggiornare con il tuo animale nelle migliori città d'Europa.",
+      "explore": "Scopri di più"
+    },
+    "destination": {
+      "back": "← Destinazioni",
+      "categoriesTitle": "Sfoglia per tipo di hotel",
+      "hotelsTitle": "I migliori hotel pet-friendly",
+      "book": "Prenota su Booking.com",
+      "from": "Da",
+      "perNight": "/ notte",
+      "free": "Nessun costo extra per gli animali",
+      "petFee": "Costo extra per gli animali",
+      "petPolicy": "Politica sugli animali",
+      "stars": "stelle",
+      "reviews": "recensioni",
+      "viewCombo": "Vedi gli hotel →"
+    },
+    "categories": {
+      "title": "Tutte le categorie per animali",
+      "subtitle": "Pet-friendly, lusso, accesso alla spiaggia, nessun costo extra per gli animali: trova esattamente ciò che serve al tuo viaggio.",
+      "destinations": "destinazioni"
+    },
+    "category": {
+      "back": "← Categorie",
+      "destinationsTitle": "Le migliori destinazioni per questa categoria",
+      "explore": "Vedi gli hotel →"
+    },
+    "combo": {
+      "rankLabel": "Ideale per",
+      "heroTitle": "Hotel a {dest}, {cat}",
+      "hotelsTitle": "Le nostre scelte migliori a {dest}, {cat} ({n} hotel)",
+      "inCity": "a {dest}",
+      "tipsTitle": "Come scegliere l'hotel giusto a {dest}, {cat}",
+      "tipsSubtitle": "Cinque cose che i viaggiatori esperti con animali controllano prima di ogni prenotazione.",
+      "faqTitle": "Domande frequenti",
+      "moreInDest": "Altre guide a {dest}",
+      "catElsewhere": "{cat}, altre città",
+      "relatedTitle": "Guide correlate",
+      "updatedLabel": "Aggiornato",
+      "handpicked": "strutture selezionate con cura",
+      "fromPerNight": "da / notte",
+      "avgRating": "valutazione media",
+      "noPetFee": "nessun costo extra per gli animali",
+      "book": "Prenota su Booking.com",
+      "from": "Da",
+      "perNight": "/ notte",
+      "free": "Nessun costo extra per gli animali",
+      "petFee": "Costo extra per gli animali",
+      "petPolicy": "Politica sugli animali",
+      "stars": "stelle",
+      "reviews": "recensioni",
+      "ctaTitle": "Pronto a prenotare?",
+      "ctaDesc": "Confronta ancora più opzioni su Booking.com, filtra per politica sugli animali, prezzo e servizi.",
+      "ctaButton": "Vedi tutti gli hotel pet-friendly",
+      "noHotels": "Non ci sono ancora hotel elencati per questa combinazione. Torna presto a controllare oppure sfoglia direttamente Booking.com.",
+      "whyTitle": "Perché scegliere {dest} con il tuo animale?",
+      "testimonialLabel": "🐾 Il verdetto di un padrone di animali",
+      "mapSectionTitle": "Trova questi hotel sulla mappa",
+      "seasonBadge": "Stagione migliore: {season}"
+    }
+  }
+}

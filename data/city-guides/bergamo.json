@@ -40,12 +40,16 @@
           "tipPt": "Peça o pátio interior na reserva, a esplanada da frente, na Via Colleoni, fica barulhenta com grupos de turistas no verão e pode causar stress a cães sensíveis.",
           "descriptionDe": "Eine historische Trattoria-Pizzeria in der Città Alta an der zentralen Via Colleoni, seit 1956 in Betrieb und eine Institution Bergamos. Der schattige Innenhof im hinteren Bereich ist der Ort, nach dem Sie mit Hund fragen sollten. Die Karte mischt Pizza aus dem Holzofen, Bergamasker Klassiker wie Casoncelli und eine starke lokale Weinliste. Das Personal ist an Hunde gewöhnt und bringt auf Wunsch einen Wassernapf.",
           "descriptionNl": "Een historische trattoria-pizzeria in de Città Alta aan de centrale Via Colleoni, al sinds 1956 open en een instituut in Bergamo. De schaduwrijke binnenplaats achterin is de plek waar je met je hond naar moet vragen. De kaart combineert pizza uit de houtoven, Bergamaanse klassiekers zoals casoncelli en een stevige lokale wijnkaart. Het personeel is gewend aan honden en brengt op verzoek een waterbakje.",
+          "descriptionIt": "Una storica trattoria-pizzeria nella Città Alta sulla centrale Via Colleoni, aperta dal 1956 e un'istituzione a Bergamo. Il cortile ombreggiato sul retro è il posto per cui devi chiedere se hai un cane. Il menu unisce pizza al forno a legna, classici bergamaschi come i casoncelli e una solida carta dei vini locali. Il personale è abituato ai cani e porta una ciotola d'acqua su richiesta.",
           "petPolicyDe": "Hunde willkommen auf Terrasse und im Innenhof",
           "petPolicyNl": "Honden welkom op het terras en de binnenplaats",
+          "petPolicyIt": "Cani benvenuti in terrazza e nel cortile",
           "mustTryDe": "Casoncelli alla bergamasca, Pizza Margherita, Valcalepio Rosso",
           "mustTryNl": "Casoncelli alla bergamasca, pizza margherita, valcalepio rosso",
+          "mustTryIt": "Casoncelli alla bergamasca, pizza margherita, valcalepio rosso",
           "tipDe": "Bitten Sie bei der Reservierung um den Innenhof, die vordere Terrasse an der Via Colleoni wird im Sommer laut durch Reisegruppen und kann empfindliche Hunde stressen.",
-          "tipNl": "Vraag bij het reserveren om de binnenplaats; het voorterras aan de Via Colleoni wordt in de zomer luidruchtig door reisgroepen en kan gevoelige honden stress bezorgen."
+          "tipNl": "Vraag bij het reserveren om de binnenplaats; het voorterras aan de Via Colleoni wordt in de zomer luidruchtig door reisgroepen en kan gevoelige honden stress bezorgen.",
+          "tipIt": "Chiedi il cortile al momento della prenotazione; il terrazzo davanti su Via Colleoni diventa rumoroso d'estate per i gruppi turistici e può stressare i cani sensibili."
         },
         {
           "name": "Ol Giopì e la Margì",
@@ -74,12 +78,16 @@
           "tipPt": "A reserva é essencial aos fins de semana, é aqui que as famílias bergamascas vêm para o tradicional almoço de domingo e as mesas esgotam depressa.",
           "descriptionDe": "Ein Restaurant der Bergamasker Tradition in der Città Bassa, das die authentischste lokale Küche der Stadt serviert, mit kostümiertem Personal, handgerollten Casoncelli und Polenta, die sichtbar in Kupferkesseln (paioli) zubereitet wird. Die Außenterrasse heißt angeleinte Hunde willkommen, und das Personal freut sich wirklich über sie. Ein seit Langem bestehender Familienbetrieb, der Bergamos kulinarische Identität ernst nimmt.",
           "descriptionNl": "Een restaurant in Bergamaanse traditie in de Città Bassa, dat de meest authentieke lokale keuken van de stad serveert, met personeel in klederdracht, met de hand gerolde casoncelli en polenta die zichtbaar wordt bereid in koperen ketels (paioli). Het buitenterras is welkom voor aangelijnde honden, en het personeel is er echt blij mee. Een al lang bestaand familiebedrijf dat de culinaire identiteit van Bergamo serieus neemt.",
+          "descriptionIt": "Un ristorante di tradizione bergamasca nella Città Bassa, che serve la cucina locale più autentica della città, con personale in costume tradizionale, casoncelli fatti a mano e polenta preparata a vista in paioli di rame. La terrazza esterna accoglie cani al guinzaglio, e il personale ne è davvero felice. Un'attività familiare di lunga data che prende sul serio l'identità culinaria di Bergamo.",
           "petPolicyDe": "Hunde willkommen auf der Außenterrasse",
           "petPolicyNl": "Honden welkom op het buitenterras",
+          "petPolicyIt": "Cani benvenuti sulla terrazza esterna",
           "mustTryDe": "Polenta taragna, Casoncelli, Salumi bergamaschi",
           "mustTryNl": "Polenta taragna, casoncelli, salumi bergamaschi",
+          "mustTryIt": "Polenta taragna, casoncelli, salumi bergamaschi",
           "tipDe": "Reservierung an Wochenenden unerlässlich, hier kommen Bergamasker Familien zum traditionellen Sonntagsessen zusammen, und die Tische sind schnell vergeben.",
-          "tipNl": "In het weekend is reserveren essentieel, hier komen Bergamaanse families samen voor de traditionele zondaglunch, en de tafels zijn snel vol."
+          "tipNl": "In het weekend is reserveren essentieel, hier komen Bergamaanse families samen voor de traditionele zondaglunch, en de tafels zijn snel vol.",
+          "tipIt": "Nel weekend la prenotazione è essenziale, qui si riuniscono le famiglie bergamasche per il tradizionale pranzo della domenica, e i tavoli si esauriscono in fretta."
         },
         {
           "name": "La Tana",
@@ -108,22 +116,29 @@
           "tipPt": "O pátio só tem lugar para cerca de oito pessoas, reserve no próprio dia da chegada ou na véspera, quem aparece sem reserva quase nunca consegue mesa.",
           "descriptionDe": "Eine kleine Osteria in einer ruhigen Gasse hinter der Piazza Vecchia, mit einer winzigen Außenterrasse, die zu den charmantesten hundefreundlichen Orten der Città Alta zählt. Kurze, marktfrische Karte mit Bergamasker und lombardischen Gerichten sowie eine gezielte Auswahl an Weinen kleiner Erzeuger. Die Intimität der Terrasse macht sie ideal für Paare, die mit einem ruhigen Hund reisen.",
           "descriptionNl": "Een kleine osteria in een rustig steegje achter de Piazza Vecchia, met een piepklein buitenterras dat tot de charmantste hondvriendelijke plekjes van de Città Alta behoort. Korte, marktverse kaart met Bergamaanse en Lombardische gerechten en een zorgvuldig samengestelde selectie wijnen van kleine producenten. De intimiteit van het terras maakt het ideaal voor stellen die met een rustige hond reizen.",
+          "descriptionIt": "Una piccola osteria in un vicolo tranquillo dietro Piazza Vecchia, con una minuscola terrazza esterna che è uno degli angoli pet-friendly più incantevoli della Città Alta. Menu breve e di stagione con piatti bergamaschi e lombardi e una selezione curata di vini di piccoli produttori. L'intimità della terrazza la rende ideale per coppie che viaggiano con un cane tranquillo.",
           "petPolicyDe": "Hunde willkommen auf der Außenterrasse",
           "petPolicyNl": "Honden welkom op het buitenterras",
+          "petPolicyIt": "Cani benvenuti sulla terrazza esterna",
           "mustTryDe": "Tagliere mit Bergamasker Käse, Casoncelli, Valcalepio",
           "mustTryNl": "Kaasplank met Bergamaanse kazen, casoncelli, valcalepio",
+          "mustTryIt": "Tagliere di formaggi bergamaschi, casoncelli, valcalepio",
           "tipDe": "Die Terrasse bietet nur etwa acht Plätze, reservieren Sie am selben oder am Vortag Ihrer Ankunft, spontane Besuche bekommen fast nie einen Tisch.",
-          "tipNl": "Het terras heeft maar plek voor zo'n acht personen; reserveer dezelfde dag of de dag voor je komst, spontaan langsgaan levert bijna nooit een tafel op."
+          "tipNl": "Het terras heeft maar plek voor zo'n acht personen; reserveer dezelfde dag of de dag voor je komst, spontaan langsgaan levert bijna nooit een tafel op.",
+          "tipIt": "La terrazza ha posto solo per circa otto persone; prenota lo stesso giorno o il giorno prima, presentarsi senza prenotazione quasi mai garantisce un tavolo."
         }
       ],
       "titlePt": "Restaurantes que aceitam cães em Bérgamo",
       "introPt": "Bérgamo segue a abordagem italiana habitual para com os cães à mesa: o lugar na esplanada é a regra, e a maioria dos restaurantes ao ar livre acolhe cães bem comportados sem complicações. A divisão entre a Città Alta (a cidade muralhada no topo da colina) e a Città Bassa (a cidade baixa moderna) significa duas cenas gastronómicas distintas, ambas tolerantes para com os animais. Procure a placa 'animali ammessi' à entrada, ou pergunte ao pessoal, que quase sempre concorda. A cozinha local centra-se na polenta taragna, nos casoncelli alla bergamasca e nos vinhos de Valcalepio.",
       "titleDe": "Hundefreundliche Restaurants in Bergamo",
       "titleNl": "Hondvriendelijke restaurants in Bergamo",
+      "titleIt": "Ristoranti pet-friendly a Bergamo",
       "introDe": "Bergamo folgt dem typisch italienischen Umgang mit Hunden beim Essen: Terrassenplätze sind der Normalfall, und die meisten Restaurants im Freien heißen wohlerzogene Hunde ohne Umstände willkommen. Die Trennung zwischen Città Alta (der ummauerten Altstadt auf dem Hügel) und Città Bassa (der modernen Unterstadt) ergibt zwei unterschiedliche Gastro-Szenen, beide haustierfreundlich. Achten Sie auf das Schild „animali ammessi\" am Eingang oder fragen Sie das Personal, das fast immer zustimmt. Die lokale Küche dreht sich um Polenta taragna, Casoncelli alla bergamasca und die Weine des Valcalepio.",
       "introNl": "Bergamo volgt de typisch Italiaanse omgang met honden bij het eten uit: terrastafels zijn de norm, en de meeste restaurants met buitenruimte verwelkomen goed opgevoede honden zonder poespas. De scheiding tussen Città Alta (de ommuurde oude stad op de heuvel) en Città Bassa (de moderne benedenstad) levert twee verschillende gastronomische scenes op, allebei huisdiervriendelijk. Let op het bordje \"animali ammessi\" bij de ingang of vraag het personeel, dat vrijwel altijd toestemt. De lokale keuken draait om polenta taragna, casoncelli alla bergamasca en de wijnen van de Valcalepio.",
+      "introIt": "Bergamo segue il tipico approccio italiano verso i cani a tavola: i tavoli in terrazza sono la norma, e la maggior parte dei ristoranti con spazio esterno accoglie cani ben educati senza problemi. La divisione tra Città Alta (il centro storico murato sulla collina) e Città Bassa (la città moderna a valle) crea due scene gastronomiche diverse, entrambe pet-friendly. Fai attenzione al cartello \"animali ammessi\" all'ingresso o chiedi al personale, che quasi sempre acconsente. La cucina locale ruota intorno alla polenta taragna, ai casoncelli alla bergamasca e ai vini della Valcalepio.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks & Green Spaces in Bergamo",
@@ -155,10 +170,13 @@
           "tipPt": "A volta San Vigilio-Castello (4 km) é a caminhada curta mais gratificante: comece no topo do funicular e termine nas ruínas do castelo com uma vista de 360°, tudo acessível para cães.",
           "descriptionDe": "Ein 4.700 Hektar großer regionaler Schutzpark, der die bewaldeten Hügel unmittelbar nördlich der Città Alta umfasst, mit Dutzenden markierten Wegen von sanften einstündigen Spaziergängen bis zu ganztägigen Kammwanderungen. Hunde sind überall willkommen, an der Leine auf den markierten Wegen und frei in den unumzäunten Waldabschnitten fernab von Weidevieh. Das Besucherzentrum in Valmarina hat Wanderkarten und Wasserstellen.",
           "descriptionNl": "Een 4.700 hectare groot regionaal beschermd park met de beboste heuvels direct ten noorden van de Città Alta, met tientallen gemarkeerde paden, van rustige wandelingen van een uur tot dagvullende kamtochten. Honden zijn overal welkom: aangelijnd op de gemarkeerde paden en los in de onomheinde bosgedeelten ver van vee. Het bezoekerscentrum in Valmarina heeft wandelkaarten en watertappunten.",
+          "descriptionIt": "Un parco regionale protetto di 4.700 ettari con le colline boscose subito a nord della Città Alta, con decine di sentieri segnalati, da passeggiate rilassate di un'ora a escursioni di crinale per un'intera giornata. I cani sono benvenuti ovunque: al guinzaglio sui sentieri segnalati e liberi nelle zone boschive non recintate lontano dal bestiame. Il centro visitatori di Valmarina ha mappe escursionistiche e punti d'acqua.",
           "petPolicyDe": "Angeleint auf markierten Wegen; ohne Leine möglich in unumzäunten Waldabschnitten fernab von Weidevieh",
           "petPolicyNl": "Aangelijnd op gemarkeerde paden; los mogelijk in onomheinde bosgedeelten ver van vee",
+          "petPolicyIt": "Al guinzaglio sui sentieri segnalati; libero possibile nelle zone boschive non recintate lontano dal bestiame",
           "tipDe": "Die San-Vigilio-Castello-Runde (4 km) ist die lohnendste Kurzwanderung: Start oben an der Standseilbahn, Ziel bei den Burgruinen mit 360°-Blick, durchgehend hundefreundlich.",
-          "tipNl": "De rondwandeling San Vigilio-Castello (4 km) is de meest lonende korte tocht: start boven bij de kabelbaan, eindig bij de kasteelruïne met 360°-uitzicht, de hele route hondvriendelijk."
+          "tipNl": "De rondwandeling San Vigilio-Castello (4 km) is de meest lonende korte tocht: start boven bij de kabelbaan, eindig bij de kasteelruïne met 360°-uitzicht, de hele route hondvriendelijk.",
+          "tipIt": "L'anello San Vigilio-Castello (4 km) è la gita breve più gratificante: parti dall'alto vicino alla funicolare, finisci alle rovine del castello con vista a 360°, l'intero percorso è pet-friendly."
         },
         {
           "name": "Mura Venete (Venetian Walls Walkway)",
@@ -182,10 +200,13 @@
           "tipPt": "Faça a volta ao pôr do sol, a secção oeste acima da Porta San Giacomo ganha uma luz dourada sobre o Vale do Pó que é inesquecível, e a temperatura desce para um nível confortável para os cães.",
           "descriptionDe": "Die venezianische Stadtmauer aus dem 16. Jahrhundert, die die Città Alta umschließt, wurde 2017 in die UNESCO-Welterbeliste aufgenommen und bildet einen der besten Stadtrundwege Norditaliens. Die vollständige Panoramaschleife ist etwa 6 km lang auf Gras, Kies und ruhigen Straßen, mit durchgehenden Ausblicken über die Poebene und die Alpenausläufer. Angeleinte Hunde sind auf der gesamten Strecke willkommen, und Trinkwasserbrunnen säumen den Weg.",
           "descriptionNl": "De Venetiaanse stadsmuur uit de 16e eeuw rond de Città Alta werd in 2017 op de UNESCO-werelderfgoedlijst geplaatst en vormt een van de mooiste stadsrondwandelingen van Noord-Italië. De volledige panoramische lus is ongeveer 6 km lang over gras, grind en rustige straten, met doorlopend uitzicht over de Povlakte en de Alpenuitlopers. Aangelijnde honden zijn welkom op de hele route, en drinkwaterfonteintjes staan langs het pad.",
+          "descriptionIt": "Le mura veneziane del XVI secolo intorno alla Città Alta sono state iscritte nella lista del patrimonio mondiale UNESCO nel 2017 e formano uno dei più bei percorsi urbani ad anello del nord Italia. L'intero anello panoramico è lungo circa 6 km su erba, ghiaia e strade tranquille, con vista continua sulla pianura padana e le prime alture alpine. I cani al guinzaglio sono benvenuti lungo tutto il percorso, e ci sono fontanelle d'acqua potabile lungo il sentiero.",
           "petPolicyDe": "Angeleinte Hunde auf der gesamten Runde willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op de hele rondwandeling",
+          "petPolicyIt": "Cani al guinzaglio benvenuti lungo tutto l'anello",
           "tipDe": "Gehen Sie die Runde bei Sonnenuntergang, der westliche Abschnitt oberhalb der Porta San Giacomo bekommt ein unvergessliches goldenes Licht über der Poebene, und die Temperatur sinkt auf ein für Hunde angenehmes Maß.",
-          "tipNl": "Loop de rondwandeling bij zonsondergang, het westelijke stuk boven de Porta San Giacomo krijgt een onvergetelijk gouden licht over de Povlakte, en de temperatuur daalt naar een aangenaam niveau voor honden."
+          "tipNl": "Loop de rondwandeling bij zonsondergang, het westelijke stuk boven de Porta San Giacomo krijgt een onvergetelijk gouden licht over de Povlakte, en de temperatuur daalt naar een aangenaam niveau voor honden.",
+          "tipIt": "Percorri l'anello al tramonto, il tratto occidentale sopra Porta San Giacomo prende una luce dorata indimenticabile sulla pianura padana, e la temperatura scende a un livello piacevole per i cani."
         },
         {
           "name": "Parco Suardi",
@@ -209,20 +230,26 @@
           "tipPt": "A janela do início da manhã (07:00 às 09:00) é quando a comunidade canina local se reúne, o melhor momento para socializar um cão curioso com os habituais bergamascos.",
           "descriptionDe": "Der wichtigste Stadtpark der Città Bassa, ein 4 Hektar großes Grünareal zwischen Via Camozzi und Via Verdi mit altem Baumbestand, einem kleinen Teich und einer eigenen eingezäunten area cani in der südöstlichen Ecke. Das Freilaufgehege ist doppelt eingezäunt und mit Wasser und Bänken ausgestattet. Der übrige Park heißt angeleinte Hunde willkommen und ist der wichtigste morgendliche Treffpunkt der Stadt für Hundehalter.",
           "descriptionNl": "Het belangrijkste stadspark van de Città Bassa, een 4 hectare groot groengebied tussen de Via Camozzi en de Via Verdi met oude bomen, een klein vijvertje en een eigen omheinde area cani in de zuidoostelijke hoek. Het losloopgebied is dubbel omheind en voorzien van water en bankjes. De rest van het park is welkom voor aangelijnde honden en is het belangrijkste ochtendontmoetingspunt van de stad voor hondenbezitters.",
+          "descriptionIt": "Il principale parco cittadino della Città Bassa, un'area verde di 4 ettari tra Via Camozzi e Via Verdi con alberi secolari, un piccolo laghetto e una propria area cani recintata nell'angolo sud-est. L'area sgambamento è doppiamente recintata e dotata di acqua e panchine. Il resto del parco accoglie cani al guinzaglio ed è il principale punto di ritrovo mattutino della città per i proprietari di cani.",
           "petPolicyDe": "Freilaufgehege (area cani) + angeleinte Hunde überall willkommen",
           "petPolicyNl": "Losloopgebied (area cani) + aangelijnde honden overal welkom",
+          "petPolicyIt": "Area sgambamento (area cani) + cani al guinzaglio benvenuti ovunque",
           "tipDe": "Der frühe Morgen (07:00-09:00 Uhr) ist die Zeit, zu der sich die örtliche Hundegemeinschaft trifft, der beste Moment, um einen neugierigen Bergamasker Hund mit den Stammgästen bekannt zu machen.",
-          "tipNl": "Vroeg in de ochtend (07:00-09:00 uur) komt de lokale hondengemeenschap samen, hét moment om een nieuwsgierige Bergamaanse hond kennis te laten maken met de vaste bezoekers."
+          "tipNl": "Vroeg in de ochtend (07:00-09:00 uur) komt de lokale hondengemeenschap samen, hét moment om een nieuwsgierige Bergamaanse hond kennis te laten maken met de vaste bezoekers.",
+          "tipIt": "La mattina presto (7:00-9:00) si riunisce la comunità locale dei proprietari di cani, il momento perfetto per far conoscere al tuo cane curioso bergamasco i frequentatori abituali."
         }
       ],
       "titlePt": "Parques e espaços verdes que aceitam cães em Bérgamo",
       "introPt": "Bérgamo é invulgarmente verde para uma cidade italiana. O parque regional Parco dei Colli, de 4700 hectares, envolve todo o flanco norte da cidade com trilhos de caminhada e bosques de carvalhos, enquanto o central Parco Suardi oferece um tranquilo pulmão verde urbano na Città Bassa. O município opera também várias aree cani vedadas (recintos sem trela para cães) pelos vários bairros. Os cães com trela são universalmente bem-vindos no passadiço das muralhas Mura Venete, classificadas pela UNESCO, uma volta de 6 km com panoramas amplos sobre o Vale do Pó.",
       "titleDe": "Hundefreundliche Parks & Grünflächen in Bergamo",
       "titleNl": "Hondvriendelijke parken & groen in Bergamo",
+      "titleIt": "Parchi e verde pet-friendly a Bergamo",
       "introDe": "Bergamo ist für eine italienische Stadt ungewöhnlich grün. Der 4.700 Hektar große Regionalpark Parco dei Colli umschließt die gesamte Nordflanke der Stadt mit Wanderwegen und Eichenwäldern, während der zentrale Parco Suardi in der Città Bassa eine ruhige städtische grüne Lunge bietet. Die Stadtverwaltung betreibt zudem mehrere eingezäunte aree cani (Freilaufgehege für Hunde) in verschiedenen Vierteln. Angeleinte Hunde sind auf dem Rundweg der UNESCO-Stadtmauer Mura Venete durchweg willkommen, einer 6 km langen Runde mit weiten Ausblicken über die Poebene.",
       "introNl": "Bergamo is voor een Italiaanse stad ongewoon groen. Het 4.700 hectare grote regionale park Parco dei Colli omsluit de hele noordflank van de stad met wandelpaden en eikenbossen, terwijl het centrale Parco Suardi in de Città Bassa een rustige stedelijke groene long biedt. De gemeente beheert bovendien meerdere omheinde aree cani (losloopgebieden voor honden) in verschillende wijken. Aangelijnde honden zijn overal welkom op de rondwandeling langs de UNESCO-stadsmuur Mura Venete, een lus van 6 km met weids uitzicht over de Povlakte.",
+      "introIt": "Bergamo è insolitamente verde per una città italiana. Il parco regionale di 4.700 ettari Parco dei Colli circonda tutto il versante nord della città con sentieri escursionistici e boschi di querce, mentre il centrale Parco Suardi nella Città Bassa offre un tranquillo polmone verde urbano. Il comune gestisce inoltre diverse aree cani recintate in vari quartieri. I cani al guinzaglio sono benvenuti ovunque sull'anello lungo le mura UNESCO Mura Venete, un percorso di 6 km con ampie vedute sulla pianura padana.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Getting Around Bergamo with a Dog",
@@ -254,10 +281,13 @@
           "tipPt": "Evite o intervalo das 11:00 às 13:00 no verão, o funicular enche-se de visitantes de um dia e a pequena cabina pode causar stress a cães sensíveis, a janela das 09:00 às 10:30 é mais calma.",
           "descriptionDe": "Die historische Standseilbahn, die die Città Bassa mit der Piazza Mercato delle Scarpe in der Città Alta verbindet, im 7-8-Minuten-Takt von früh morgens bis spät abends. Betrieben von ATB. Kleine Hunde in einer Transporttasche fahren kostenlos; größere Hunde fahren mit Leine und Maulkorb an Bord zum einfachen Fahrgastpreis. Die zweiminütige Fahrt bergauf ist für jeden Hund sanft genug und eine ausgezeichnete Möglichkeit, die Pfoten auf den heißen Sommerkopfsteinpflastern zu schonen.",
           "descriptionNl": "De historische kabelbaan die de Città Bassa verbindt met de Piazza Mercato delle Scarpe in de Città Alta, elke 7-8 minuten van vroeg in de ochtend tot laat op de avond. Beheerd door ATB. Kleine honden in een reistas reizen gratis; grotere honden reizen aangelijnd en met muilkorf mee voor de gewone reizigersprijs. De twee minuten durende rit naar boven is zacht genoeg voor elke hond en een uitstekende manier om de pootjes te sparen op de hete zomerse kasseien.",
+          "descriptionIt": "La storica funicolare che collega la Città Bassa con Piazza Mercato delle Scarpe nella Città Alta, ogni 7-8 minuti dalla mattina presto a tarda sera. Gestita da ATB. I cani piccoli in borsa da trasporto viaggiano gratis; i cani più grandi viaggiano al guinzaglio e con museruola al prezzo normale del biglietto. I due minuti di salita sono delicati abbastanza per qualsiasi cane ed è un ottimo modo per risparmiare le zampe sui ciottoli caldi d'estate.",
           "petPolicyDe": "Kleine Hunde in Transporttasche kostenlos; größere Hunde mit Leine und Maulkorb zahlen Fahrgastpreis",
           "petPolicyNl": "Kleine honden in reistas gratis; grotere honden met lijn en muilkorf betalen reizigersprijs",
+          "petPolicyIt": "Cani piccoli in borsa da trasporto gratis; cani più grandi con guinzaglio e museruola pagano il prezzo del biglietto",
           "tipDe": "Vermeiden Sie im Sommer das Zeitfenster 11:00-13:00 Uhr, die Standseilbahn füllt sich mit Tagesausflüglern, und die kleine Kabine kann empfindliche Hunde stressen, das Fenster 09:00-10:30 Uhr ist ruhiger.",
-          "tipNl": "Vermijd in de zomer het tijdvak 11:00-13:00 uur, de kabelbaan stroomt vol met dagjesmensen, en de kleine cabine kan gevoelige honden stress bezorgen; het tijdvak 09:00-10:30 uur is rustiger."
+          "tipNl": "Vermijd in de zomer het tijdvak 11:00-13:00 uur, de kabelbaan stroomt vol met dagjesmensen, en de kleine cabine kan gevoelige honden stress bezorgen; het tijdvak 09:00-10:30 uur is rustiger.",
+          "tipIt": "Evita d'estate la fascia 11:00-13:00, la funicolare si riempie di visitatori giornalieri, e la piccola cabina può stressare i cani sensibili; la fascia 9:00-10:30 è più tranquilla."
         },
         {
           "name": "Bergamo Orio al Serio Airport (BGY)",
@@ -281,10 +311,13 @@
           "tipPt": "A Ryanair cobra 20€ a 30€ por um animal em cabina nas rotas da UE, mas só admite animais até 8 kg em transportadora, os cães maiores viajam apenas numas poucas rotas dedicadas, confirme antes de reservar o voo.",
           "descriptionDe": "Mailand Bergamo (IATA: BGY) ist nach Passagieraufkommen Italiens drittgrößter Flughafen und der größte Ryanair-Stützpunkt im kontinentalen Europa, bedient von über 140 Strecken, meist mit Billigfluggesellschaften. Die Einreiseverfahren für Haustiere folgen den EU-Regeln (Mikrochip + EU-Heimtierausweis + Tollwutimpfung). Der Flughafen verfügt über einen eigenen Auslaufbereich für Haustiere im Freien vor Terminal 1 sowie einen kostenlosen Shuttle zum Bahnhof Bergamo (15 Min.). Es gelten fluggesellschaftsspezifische Kabinenregeln, vor Buchung prüfen.",
           "descriptionNl": "Milaan Bergamo (IATA: BGY) is qua passagiersaantallen de op twee na grootste luchthaven van Italië en de grootste Ryanair-basis van continentaal Europa, met meer dan 140 verbindingen, meestal met budgetmaatschappijen. De inreisprocedures voor huisdieren volgen de EU-regels (microchip + EU-dierenpaspoort + rabiësvaccinatie). De luchthaven heeft een eigen buitenuitlaatplek voor huisdieren voor Terminal 1, en een gratis shuttle naar station Bergamo (15 min.). Er gelden per maatschappij verschillende cabineregels, controleer dit voor het boeken.",
+          "descriptionIt": "Milano Bergamo (IATA: BGY) è il terzo aeroporto d'Italia per numero di passeggeri e la più grande base Ryanair dell'Europa continentale, con oltre 140 collegamenti, per lo più con compagnie low-cost. Le procedure di ingresso per gli animali seguono le regole UE (microchip + passaporto UE per animali + vaccinazione antirabbica). L'aeroporto ha un'area sgambamento dedicata per animali fuori dal Terminal 1, e una navetta gratuita per la stazione di Bergamo (15 min). Le regole di cabina variano da compagnia a compagnia, controlla prima di prenotare.",
           "petPolicyDe": "EU-Heimtierausweis + Mikrochip erforderlich; eigener Auslaufbereich im Freien an T1",
           "petPolicyNl": "EU-dierenpaspoort + microchip vereist; eigen buitenuitlaatplek bij T1",
+          "petPolicyIt": "Passaporto UE per animali + microchip richiesti; area sgambamento dedicata al T1",
           "tipDe": "Ryanair berechnet 20-30 € für ein Haustier in der Kabine auf EU-Strecken, erlaubt aber nur Tiere bis 8 kg in der Transporttasche, größere Hunde reisen nur auf wenigen ausgewiesenen Strecken, vor Flugbuchung bestätigen.",
-          "tipNl": "Ryanair rekent 20-30 € voor een huisdier in de cabine op EU-routes, maar staat alleen dieren tot 8 kg in een reistas toe; grotere honden reizen alleen op een beperkt aantal aangewezen routes, controleer dit voordat je een vlucht boekt."
+          "tipNl": "Ryanair rekent 20-30 € voor een huisdier in de cabine op EU-routes, maar staat alleen dieren tot 8 kg in een reistas toe; grotere honden reizen alleen op een beperkt aantal aangewezen routes, controleer dit voordat je een vlucht boekt.",
+          "tipIt": "Ryanair fa pagare 20-30 € per un animale in cabina sulle rotte UE, ma ammette solo animali fino a 8 kg in una borsa da trasporto; i cani più grandi viaggiano solo su un numero limitato di rotte designate, controlla prima di prenotare un volo."
         },
         {
           "name": "Trenord Regional & Frecciarossa from Bergamo Station",
@@ -308,20 +341,26 @@
           "tipPt": "Para a excursão de um dia a Milano Centrale, o bilhete regional Trenord com cão fica abaixo dos 15€ ida e volta, muito mais barato do que o Frecciarossa, e chega sensivelmente no mesmo tempo nos serviços diretos.",
           "descriptionDe": "Der Bahnhof Bergamo verbindet direkt nach Mailand (Trenord, 50 Min.), Brescia (Trenord, 50 Min.) und über Umstiege mit Frecciarossa auch weitere Strecken. Kleine Haustiere in einer Transporttasche (max. 70 cm Länge) reisen kostenlos. Mittelgroße und große Hunde reisen mit Maulkorb und Leine für 5 € in Trenord-Regionalzügen; im Frecciarossa zahlen sie ein halbes Erwachsenenticket und müssen einen eigenen Sitzplatz belegen. Der EU-Heimtierausweis wird an Bord empfohlen. Blindenführhunde reisen immer kostenlos.",
           "descriptionNl": "Station Bergamo heeft directe verbindingen met Milaan (Trenord, 50 min.), Brescia (Trenord, 50 min.) en via overstappen op de Frecciarossa ook verdere bestemmingen. Kleine huisdieren in een reistas (max. 70 cm lang) reizen gratis. Middelgrote en grote honden reizen met muilkorf en lijn voor 5 € in Trenord-regiotreinen; in de Frecciarossa betalen ze een half volwassenenticket en moeten ze een eigen zitplaats innemen. Het EU-dierenpaspoort wordt aan boord aangeraden. Geleidehonden reizen altijd gratis.",
+          "descriptionIt": "La stazione di Bergamo ha collegamenti diretti con Milano (Trenord, 50 min), Brescia (Trenord, 50 min) e, con cambio sul Frecciarossa, anche destinazioni più lontane. Gli animali piccoli in una borsa da trasporto (max. 70 cm di lunghezza) viaggiano gratis. I cani di taglia media e grande viaggiano con museruola e guinzaglio per 5 € sui treni regionali Trenord; sul Frecciarossa pagano metà del biglietto adulto e devono occupare un posto proprio. Il passaporto UE per animali è consigliato a bordo. I cani guida viaggiano sempre gratis.",
           "petPolicyDe": "Kleine Haustiere kostenlos in Transporttasche; größere Hunde mit Maulkorb+Leine 5 € im Trenord-Regionalzug, halber Fahrpreis im Frecciarossa",
           "petPolicyNl": "Kleine huisdieren gratis in reistas; grotere honden met muilkorf en lijn 5 € in de Trenord-regiotrein, halve prijs in de Frecciarossa",
+          "petPolicyIt": "Animali piccoli gratis in borsa da trasporto; cani più grandi con museruola e guinzaglio 5 € sul treno regionale Trenord, metà prezzo sul Frecciarossa",
           "tipDe": "Für den Tagesausflug nach Milano Centrale liegt das Trenord-Regionalticket mit Hund unter 15 € für Hin- und Rückfahrt, deutlich günstiger als der Frecciarossa, und kommt bei Direktverbindungen etwa gleich schnell an.",
-          "tipNl": "Voor een dagtripje naar Milano Centrale kost het Trenord-regioticket met hond minder dan 15 € heen en terug, aanzienlijk goedkoper dan de Frecciarossa, en bij directe verbindingen ben je ongeveer even snel."
+          "tipNl": "Voor een dagtripje naar Milano Centrale kost het Trenord-regioticket met hond minder dan 15 € heen en terug, aanzienlijk goedkoper dan de Frecciarossa, en bij directe verbindingen ben je ongeveer even snel.",
+          "tipIt": "Per una gita di un giorno a Milano Centrale, il biglietto regionale Trenord con il cane costa meno di 15 € andata e ritorno, notevolmente più economico del Frecciarossa, e sui collegamenti diretti il tempo di percorrenza è simile."
         }
       ],
       "titlePt": "Deslocar-se em Bérgamo com um cão",
       "introPt": "Bérgamo ergue-se em dois níveis ligados por dois funiculares (Città Alta e San Vigilio), que aceitam ambos cães. A rede de autocarros urbanos ATB e o elétrico T1 (Bergamo-Albino) aceitam cães com trela segundo a regra para animais do operador. O aeroporto de Bergamo Orio al Serio (BGY) é uma das maiores bases europeias da Ryanair e o ponto de chegada mais barato que acolhe animais na Lombardia. Tanto os comboios regionais Trenord como os comboios de longo curso Frecciarossa servem Bérgamo com tarifas claras para animais.",
       "titleDe": "Mit Hund in Bergamo unterwegs",
       "titleNl": "Onderweg met je hond in Bergamo",
+      "titleIt": "In giro con il cane a Bergamo",
       "introDe": "Bergamo ist auf zwei Ebenen gebaut, verbunden durch zwei Standseilbahnen (Città Alta und San Vigilio), beide nehmen Hunde mit. Das städtische Busnetz ATB und die Straßenbahn T1 (Bergamo-Albino) befördern angeleinte Hunde nach der Haustierregel des Betreibers. Bergamo Orio al Serio (BGY) ist einer der größten europäischen Ryanair-Stützpunkte und der günstigste haustierfreundliche Ankunftsort in der Lombardei. Sowohl die Trenord-Regionalzüge als auch die Frecciarossa-Fernzüge bedienen Bergamo mit klaren Haustiertarifen.",
       "introNl": "Bergamo is op twee niveaus gebouwd, verbonden door twee kabelbanen (Città Alta en San Vigilio), allebei toegankelijk met hond. Het stedelijke busnet ATB en tramlijn T1 (Bergamo-Albino) vervoeren aangelijnde honden volgens het huisdierbeleid van de vervoerder. Bergamo Orio al Serio (BGY) is een van de grootste Ryanair-bases van Europa en de goedkoopste hondvriendelijke aankomstplek in Lombardije. Zowel de Trenord-regiotreinen als de Frecciarossa-sneltreinen bedienen Bergamo met duidelijke huisdiertarieven.",
+      "introIt": "Bergamo è costruita su due livelli, collegati da due funicolari (Città Alta e San Vigilio), entrambe accessibili con il cane. La rete di autobus urbani ATB e la linea tranviaria T1 (Bergamo-Albino) trasportano cani al guinzaglio secondo la politica sugli animali del vettore. Bergamo Orio al Serio (BGY) è una delle basi Ryanair più grandi d'Europa e il punto d'arrivo pet-friendly più economico in Lombardia. Sia i treni regionali Trenord sia i treni veloci Frecciarossa servono Bergamo con tariffe chiare per gli animali.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Lake Day Trips from Bergamo",
@@ -353,10 +392,13 @@
           "tipPt": "Apanhe o primeiro ferry da manhã, o Monte Isola fica muito movimentado a partir das 11:00 nos fins de semana de verão e os pequenos ferries tornam-se desconfortavelmente cheios para qualquer cão.",
           "descriptionDe": "Das Westufer des Iseosees ist von Bergamo aus direkt per Trenord-Regionalzug (35 Min. bis Sarnico) oder mit dem Auto erreichbar. Die Personenfähren der Navigazione Lago d'Iseo verkehren ganzjährig und nehmen angeleinte, mit Maulkorb versehene Hunde ohne Aufpreis zwischen Sulzano und Monte Isola mit (der autofreien Insel in der Mitte des Sees). Hunde können die Uferrunde der Insel frei an der Leine gehen, mit mehreren Kiesbadebuchten am Südufer.",
           "descriptionNl": "De westoever van het Iseomeer is vanuit Bergamo rechtstreeks bereikbaar met de Trenord-regiotrein (35 min. tot Sarnico) of met de auto. De passagiersveerboten van Navigazione Lago d'Iseo varen het hele jaar en nemen aangelijnde honden met muilkorf zonder toeslag mee tussen Sulzano en Monte Isola (het autovrije eiland midden in het meer). Honden kunnen de oeverwandeling rond het eiland vrij aan de lijn maken, met meerdere kiezelstrandjes aan de zuidoever.",
+          "descriptionIt": "La sponda occidentale del Lago d'Iseo è raggiungibile direttamente da Bergamo con il treno regionale Trenord (35 min fino a Sarnico) o in auto. I traghetti passeggeri di Navigazione Lago d'Iseo operano tutto l'anno e trasportano cani al guinzaglio con museruola senza sovrapprezzo tra Sulzano e Monte Isola (l'isola priva di auto al centro del lago). I cani possono percorrere liberamente al guinzaglio la passeggiata costiera intorno all'isola, con diverse piccole spiagge di ciottoli sulla riva sud.",
           "petPolicyDe": "Angeleinte und mit Maulkorb versehene Hunde kostenlos auf Fähren willkommen",
           "petPolicyNl": "Aangelijnde honden met muilkorf gratis welkom op de veerboten",
+          "petPolicyIt": "Cani al guinzaglio con museruola benvenuti gratis sui traghetti",
           "tipDe": "Nehmen Sie die erste Fähre am Morgen, Monte Isola wird an Sommerwochenenden ab 11:00 Uhr sehr voll, und die kleinen Fähren werden für jeden Hund unangenehm eng.",
-          "tipNl": "Neem de eerste veerboot van de ochtend, Monte Isola wordt op zomerse weekenden vanaf 11:00 uur erg druk, en de kleine veerboten worden voor elke hond onaangenaam krap."
+          "tipNl": "Neem de eerste veerboot van de ochtend, Monte Isola wordt op zomerse weekenden vanaf 11:00 uur erg druk, en de kleine veerboten worden voor elke hond onaangenaam krap.",
+          "tipIt": "Prendi il primo traghetto del mattino, Monte Isola diventa molto affollata nei weekend estivi a partire dalle 11:00, e i piccoli traghetti diventano scomodi per qualsiasi cane."
         },
         {
           "name": "Lake Como (Lecco branch)",
@@ -380,10 +422,13 @@
           "tipPt": "A maioria dos hotéis do ramo de Lecco aceita de bom grado um cão pequeno sem taxa, sobretudo na época baixa (mar-maio, set-out), confirme por email antes de reservar.",
           "descriptionDe": "Der Lecco-Zweig des Comer Sees ist das Comer-See-Ufer, das Bergamo am nächsten liegt, erreichbar per Trenord-Regionalzug (40 Min. bis Lecco) oder mit dem Auto (45 Min.). Die Fähren der Navigazione Laghi am Comer See nehmen angeleinte und mit Maulkorb versehene Hunde ohne Aufpreis mit. Die Uferpromenade in Lecco erstreckt sich über 3 km mit durchgehend hundefreundlichen Wegen und mehreren Rasenflächen. Die Dörfer am Ostufer (Mandello del Lario, Varenna) sind ruhiger als die westliche Runde Como-Bellagio und mit Hund entspannter.",
           "descriptionNl": "De Lecco-tak van het Comomeer is de oever van het Comomeer die het dichtst bij Bergamo ligt, bereikbaar met de Trenord-regiotrein (40 min. tot Lecco) of met de auto (45 min.). De veerboten van Navigazione Laghi op het Comomeer nemen aangelijnde honden met muilkorf zonder toeslag mee. De oeverpromenade in Lecco strekt zich uit over 3 km met doorlopend hondvriendelijke paden en meerdere grasvelden. De dorpjes aan de oostoever (Mandello del Lario, Varenna) zijn rustiger dan de westelijke route Como-Bellagio en ontspannener met hond.",
+          "descriptionIt": "Il ramo di Lecco del Lago di Como è la sponda del Lago di Como più vicina a Bergamo, raggiungibile con il treno regionale Trenord (40 min fino a Lecco) o in auto (45 min). I traghetti di Navigazione Laghi sul Lago di Como trasportano cani al guinzaglio con museruola senza sovrapprezzo. La passeggiata sul lungolago di Lecco si estende per 3 km con sentieri continuamente pet-friendly e diversi prati. I paesi sulla sponda orientale (Mandello del Lario, Varenna) sono più tranquilli della rotta occidentale Como-Bellagio e più rilassati con il cane.",
           "petPolicyDe": "Angeleinte und mit Maulkorb versehene Hunde kostenlos auf Fähren willkommen",
           "petPolicyNl": "Aangelijnde honden met muilkorf gratis welkom op de veerboten",
+          "petPolicyIt": "Cani al guinzaglio con museruola benvenuti gratis sui traghetti",
           "tipDe": "Die meisten Hotels am Lecco-Zweig nehmen kleine Hunde gern ohne Gebühr auf, besonders in der Nebensaison (März-Mai, September-Oktober), vor der Buchung per E-Mail bestätigen.",
-          "tipNl": "De meeste hotels aan de Lecco-tak nemen kleine honden graag zonder toeslag aan, vooral in het laagseizoen (maart-mei, september-oktober); bevestig dit voor het boeken per e-mail."
+          "tipNl": "De meeste hotels aan de Lecco-tak nemen kleine honden graag zonder toeslag aan, vooral in het laagseizoen (maart-mei, september-oktober); bevestig dit voor het boeken per e-mail.",
+          "tipIt": "La maggior parte degli hotel sul ramo di Lecco accettano volentieri cani piccoli senza sovrapprezzo, specialmente in bassa stagione (marzo-maggio, settembre-ottobre); conferma via email prima di prenotare."
         },
         {
           "name": "Sirmione & Southern Lake Garda",
@@ -407,20 +452,26 @@
           "tipPt": "O centro pedonal de Sirmione é movimentado no verão, percorra-o antes das 10:00 ou depois das 19:00, e depois conduza 5 minutos até Lugana para uma enseada mais sossegada que acolhe animais.",
           "descriptionDe": "Das Südufer des Gardasees hat die höchste Dichte an offiziell ausgewiesenen Hundestränden in Norditalien, darunter der Giulietta Beach bei Lazise (50 km von Bergamo) sowie mehrere kostenlose spiagge per cani auf der Halbinsel Sirmione. Die flachen, warmen Gewässer des südlichen Gardasees eignen sich besonders für Hunde, die vor offenem Wasser zurückschrecken. Sirmione selbst ist innerhalb der mittelalterlichen Scaliger-Mauern autofrei, und die meisten Plätze heißen angeleinte Hunde willkommen.",
           "descriptionNl": "De zuidoever van het Gardameer heeft de hoogste dichtheid aan officieel aangewezen hondenstranden van Noord-Italië, waaronder Giulietta Beach bij Lazise (50 km van Bergamo) en meerdere gratis spiagge per cani op het schiereiland Sirmione. Het ondiepe, warme water van het zuidelijke Gardameer is bijzonder geschikt voor honden die terugschrikken voor open water. Sirmione zelf is binnen de middeleeuwse Scaliger-muren autovrij, en de meeste pleinen zijn welkom voor aangelijnde honden.",
+          "descriptionIt": "La sponda meridionale del Lago di Garda ha la più alta concentrazione di spiagge per cani ufficialmente designate del nord Italia, tra cui Giulietta Beach vicino a Lazise (50 km da Bergamo) e diverse spiagge per cani gratuite sulla penisola di Sirmione. Le acque poco profonde e calde del Garda meridionale sono particolarmente adatte ai cani che temono le acque aperte. Sirmione stessa è priva di auto all'interno delle mura scaligere medievali, e la maggior parte delle piazze accoglie cani al guinzaglio.",
           "petPolicyDe": "Ausgewiesene Hundebadebereiche; angeleinte Hunde im Fußgängerzentrum willkommen",
           "petPolicyNl": "Aangewezen hondenzwemplekken; aangelijnde honden welkom in het voetgangerscentrum",
+          "petPolicyIt": "Zone balneabili per cani designate; cani al guinzaglio benvenuti nel centro pedonale",
           "tipDe": "Das Fußgängerzentrum von Sirmione ist im Sommer voll, gehen Sie vor 10:00 oder nach 19:00 Uhr, dann 5 Minuten nach Lugana fahren für eine ruhigere haustierfreundliche Bucht.",
-          "tipNl": "Het voetgangerscentrum van Sirmione is in de zomer druk, ga er voor 10:00 of na 19:00 uur heen, en rijd daarna 5 minuten naar Lugana voor een rustigere huisdiervriendelijke baai."
+          "tipNl": "Het voetgangerscentrum van Sirmione is in de zomer druk, ga er voor 10:00 of na 19:00 uur heen, en rijd daarna 5 minuten naar Lugana voor een rustigere huisdiervriendelijke baai.",
+          "tipIt": "Il centro pedonale di Sirmione è affollato d'estate, vai prima delle 10:00 o dopo le 19:00, e poi guida 5 minuti fino a Lugana per una baia pet-friendly più tranquilla."
         }
       ],
       "titlePt": "Excursões de um dia a lagos que aceitam cães a partir de Bérgamo",
       "introPt": "Bérgamo fica no interior, mas situa-se no coração do triângulo dos lagos italianos. O Lago de Iseo fica a 30 minutos a leste, de carro ou de comboio, e é a escapadela lacustre que acolhe animais mais próxima, com o Monte Isola (a maior ilha lacustre da Europa) alcançável por ferries de passageiros que aceitam cães com trela. O Lago de Como (ramo de Lecco) fica a 45 minutos a noroeste e a margem sul do Lago de Garda (Sirmione, Desenzano) fica a cerca de 1 hora a leste. Os lagos são muito mais frescos do que a cidade em julho e agosto e ideais para cães que sofrem com a humidade do Vale do Pó.",
       "titleDe": "Hundefreundliche Tagesausflüge an Seen ab Bergamo",
       "titleNl": "Hondvriendelijke dagtripjes naar meren vanuit Bergamo",
+      "titleIt": "Gite di un giorno pet-friendly ai laghi da Bergamo",
       "introDe": "Bergamo liegt im Landesinneren, aber im Herzen des italienischen Seendreiecks. Der Iseosee ist 30 Minuten östlich mit Auto oder Zug entfernt und der nächstgelegene haustierfreundliche See, mit Monte Isola (der größten Seeinsel Europas), erreichbar per Personenfähre, die angeleinte Hunde mitnimmt. Der Comer See (Zweig Lecco) liegt 45 Minuten nordwestlich, und das Südufer des Gardasees (Sirmione, Desenzano) ist etwa 1 Stunde östlich entfernt. Die Seen sind im Juli/August deutlich kühler als die Stadt und ideal für Hunde, die mit der Feuchtigkeit der Poebene Probleme haben.",
       "introNl": "Bergamo ligt landinwaarts, maar in het hart van de Italiaanse merendriehoek. Het Iseomeer ligt 30 minuten oostelijk met auto of trein en is het dichtstbijzijnde huisdiervriendelijke meer, met Monte Isola (het grootste meereiland van Europa), bereikbaar per passagiersveerboot die aangelijnde honden meeneemt. Het Comomeer (tak Lecco) ligt 45 minuten noordwestelijk, en de zuidoever van het Gardameer (Sirmione, Desenzano) ligt ongeveer 1 uur oostelijk. De meren zijn in juli/augustus aanzienlijk koeler dan de stad en ideaal voor honden die moeite hebben met de vochtigheid van de Povlakte.",
+      "introIt": "Bergamo si trova nell'entroterra, ma nel cuore del triangolo dei laghi italiani. Il Lago d'Iseo si trova a 30 minuti a est in auto o treno ed è il lago pet-friendly più vicino, con Monte Isola (la più grande isola lacustre d'Europa), raggiungibile con un traghetto passeggeri che trasporta cani al guinzaglio. Il Lago di Como (ramo di Lecco) si trova a 45 minuti a nord-ovest, e la sponda meridionale del Lago di Garda (Sirmione, Desenzano) si trova a circa 1 ora a est. I laghi sono notevolmente più freschi della città a luglio/agosto e ideali per i cani che faticano con l'umidità della pianura padana.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Emergency Vet in Bergamo, Hospitals & Veterinary Clinics",
@@ -456,10 +507,13 @@
           "tipPt": "Leve o passaporte de animal da UE e qualquer medicação atual, a clínica cobra cerca de 80€ a 120€ só pela consulta de urgência, pagamento por cartão aceite.",
           "descriptionDe": "Die wichtigste 24/7-Tierklinik der Stadt Bergamo, mit Notfallversorgung vor Ort, Operationssaal, bildgebender Diagnostik und eigener Apotheke. Die Klinik ist die von Bergamasker Tierärzten am häufigsten genannte Anlaufstelle für die Nacht, wenn die eigene Praxis geschlossen ist. Multidisziplinäres Team aus Notfallmedizin, Innerer Medizin und Chirurgie. Mehrsprachiger Empfang (Italienisch, Englisch).",
           "descriptionNl": "De belangrijkste 24/7-dierenkliniek van de stad Bergamo, met spoedzorg ter plekke, operatiekamer, beeldvormende diagnostiek en een eigen apotheek. Deze kliniek wordt door Bergamaanse dierenartsen het vaakst genoemd als nachtelijk aanspreekpunt wanneer de eigen praktijk gesloten is. Multidisciplinair team van spoedeisende geneeskunde, interne geneeskunde en chirurgie. Meertalige receptie (Italiaans, Engels).",
+          "descriptionIt": "La principale clinica veterinaria 24/7 della città di Bergamo, con pronto soccorso in loco, sala operatoria, diagnostica per immagini e una propria farmacia. Questa clinica è quella più citata dai veterinari bergamaschi come riferimento notturno quando il proprio studio è chiuso. Team multidisciplinare di medicina d'urgenza, medicina interna e chirurgia. Reception multilingue (italiano, inglese).",
           "petPolicyDe": "24/7-Notfallklinik, vor Ankunft anrufen",
           "petPolicyNl": "24/7-spoedkliniek, bel voor aankomst",
+          "petPolicyIt": "Clinica d'urgenza 24/7, chiama prima di arrivare",
           "tipDe": "Bringen Sie den EU-Heimtierausweis und aktuelle Medikamente mit, die Klinik berechnet für die reine Notfallberatung etwa 80-120 €, Kartenzahlung wird akzeptiert.",
-          "tipNl": "Neem het EU-dierenpaspoort en actuele medicatie mee; de kliniek rekent voor een puur spoedconsult ongeveer 80-120 €, betaling per kaart wordt geaccepteerd."
+          "tipNl": "Neem het EU-dierenpaspoort en actuele medicatie mee; de kliniek rekent voor een puur spoedconsult ongeveer 80-120 €, betaling per kaart wordt geaccepteerd.",
+          "tipIt": "Porta il passaporto UE per animali e i farmaci attuali; la clinica applica circa 80-120 € per una visita puramente d'urgenza, il pagamento con carta è accettato."
         },
         {
           "name": "Ambulatorio Veterinario Bergamo Centro",
@@ -487,10 +541,13 @@
           "tipPt": "Os veterinários italianos exigem normalmente um libretto sanitario ou passaporte de animal da UE para atualizar vacinações ou dados de microchip, leve o documento com que o seu cão viaja.",
           "descriptionDe": "Eine zentral gelegene Tagespraxis in Bergamo, praktisch für Besucher, die in der Nähe des Bahnhofs oder in der Città Bassa wohnen, für Routinekonsultationen, Impfungen, Mikrochip-Kontrollen und kleinere Probleme während des Aufenthalts. Für Notfälle außerhalb der Öffnungszeiten ist die Clinica Veterinaria Città di Bergamo die Anlaufstelle. Öffnungszeiten immer telefonisch bestätigen, zentrale Praxen in Italien schließen oft von 13:00-16:00 Uhr.",
           "descriptionNl": "Een centraal gelegen dagpraktijk in Bergamo, handig voor bezoekers die in de buurt van het station of in de Città Bassa verblijven, voor routineconsulten, vaccinaties, microchipcontroles en kleine problemen tijdens het verblijf. Voor noodgevallen buiten openingstijden is de Clinica Veterinaria Città di Bergamo het aanspreekpunt. Bevestig openingstijden altijd telefonisch, centrale praktijken in Italië sluiten vaak van 13:00 tot 16:00 uur.",
+          "descriptionIt": "Un ambulatorio diurno centrale a Bergamo, comodo per chi soggiorna vicino alla stazione o nella Città Bassa, per visite di routine, vaccinazioni, controlli del microchip e piccoli problemi durante il soggiorno. Per le emergenze fuori orario, il punto di riferimento è la Clinica Veterinaria Città di Bergamo. Conferma sempre gli orari per telefono, gli ambulatori centrali in Italia chiudono spesso dalle 13:00 alle 16:00.",
           "petPolicyDe": "Tagespraxis, für Termine vorab anrufen",
           "petPolicyNl": "Dagpraktijk, bel vooraf voor een afspraak",
+          "petPolicyIt": "Ambulatorio diurno, chiama in anticipo per un appuntamento",
           "tipDe": "Italienische Tierärzte verlangen zur Aktualisierung von Impfungen oder Mikrochip-Daten in der Regel einen libretto sanitario oder EU-Heimtierausweis, bringen Sie das Dokument mit, mit dem Ihr Hund reist.",
-          "tipNl": "Italiaanse dierenartsen vragen voor het bijwerken van vaccinaties of microchipgegevens meestal om een libretto sanitario of EU-dierenpaspoort, neem het document mee waarmee je hond reist."
+          "tipNl": "Italiaanse dierenartsen vragen voor het bijwerken van vaccinaties of microchipgegevens meestal om een libretto sanitario of EU-dierenpaspoort, neem het document mee waarmee je hond reist.",
+          "tipIt": "I veterinari italiani di solito chiedono un libretto sanitario o il passaporto UE per animali per aggiornare vaccinazioni o dati del microchip, porta con te il documento con cui viaggia il tuo cane."
         },
         {
           "name": "ATS Bergamo Servizio Veterinario",
@@ -517,20 +574,26 @@
           "tipPt": "Se o seu cão tiver microchip noutro país da UE, o chip é legível por qualquer veterinário italiano e fica registado no TRACES, não é necessário um registo italiano separado para uma estadia curta.",
           "descriptionDe": "Die ATS Bergamo ist die öffentliche Gesundheitsbehörde der Provinz Bergamo und betreibt den regionalen Veterinärdienst (Hunderegister anagrafe canina, Mikrochip-Register und den offiziellen Bereitschaftsdienst außerhalb der Öffnungszeiten). Wenn Sie keine private Klinik erreichen, kann die ATS Bergamo Sie an den diensthabenden Tierarzt Ihrer Zone verweisen. Italien schreibt vor, dass alle im Land lebenden Hunde gechipt und registriert sein müssen, EU-Besucher benötigen einen gültigen Heimtierausweis.",
           "descriptionNl": "De ATS Bergamo is de openbare gezondheidsdienst van de provincie Bergamo en beheert de regionale veterinaire dienst (hondenregister anagrafe canina, microchipregister en de officiële wachtdienst buiten openingstijden). Als je geen privékliniek kunt bereiken, kan de ATS Bergamo je doorverwijzen naar de dienstdoende dierenarts in jouw zone. Italië schrijft voor dat alle honden die in het land leven, gechipt en geregistreerd moeten zijn; EU-bezoekers hebben een geldig dierenpaspoort nodig.",
+          "descriptionIt": "L'ATS Bergamo è il servizio sanitario pubblico della provincia di Bergamo e gestisce il servizio veterinario regionale (anagrafe canina, registro dei microchip e il servizio di reperibilità ufficiale fuori orario). Se non riesci a contattare una clinica privata, l'ATS Bergamo può indirizzarti al veterinario di turno nella tua zona. L'Italia richiede che tutti i cani residenti nel paese siano microchippati e registrati; i visitatori UE hanno bisogno di un passaporto per animali valido.",
           "petPolicyDe": "Offizieller Gesundheitsdienst, zur Vermittlung des Bereitschaftstierarztes in Ihrer Zone nutzen",
           "petPolicyNl": "Officiële gezondheidsdienst, gebruik hem om de wachtdienstdierenarts in jouw zone te vinden",
+          "petPolicyIt": "Servizio sanitario ufficiale, usalo per trovare il veterinario di turno nella tua zona",
           "tipDe": "Ist Ihr Hund in einem anderen EU-Land gechipt, ist der Chip von jedem italienischen Tierarzt lesbar und in TRACES registriert, für einen kurzen Aufenthalt ist keine separate italienische Registrierung nötig.",
-          "tipNl": "Is je hond in een ander EU-land gechipt, dan is de chip door elke Italiaanse dierenarts af te lezen en staat hij geregistreerd in TRACES; voor een kort verblijf is geen aparte Italiaanse registratie nodig."
+          "tipNl": "Is je hond in een ander EU-land gechipt, dan is de chip door elke Italiaanse dierenarts af te lezen en staat hij geregistreerd in TRACES; voor een kort verblijf is geen aparte Italiaanse registratie nodig.",
+          "tipIt": "Se il tuo cane è stato microchippato in un altro paese UE, il chip può essere letto da qualsiasi veterinario italiano ed è registrato in TRACES; per un soggiorno breve non serve una registrazione italiana separata."
         }
       ],
       "titlePt": "Veterinário de urgência em Bérgamo, hospitais e clínicas veterinárias",
       "introPt": "A província de Bérgamo é bem servida de cuidados veterinários, com várias clínicas a oferecer cobertura 24 horas, no local ou através da escala veterinária regional de serviço (turno di reperibilità) coordenada pela ATS Bergamo. A principal referência 24 horas é a Clinica Veterinaria Città di Bergamo, em Boccaleone. A linha de emergência nacional italiana para animais em perigo é o 1515 (Carabinieri Forestali). Telefone sempre antes de chegar a qualquer clínica, sobretudo à noite.",
       "titleDe": "Notfall-Tierarzt in Bergamo, Kliniken & Tierarztpraxen",
       "titleNl": "Spoeddierenarts in Bergamo, klinieken & dierenartspraktijken",
+      "titleIt": "Veterinario d'emergenza a Bergamo, cliniche e ambulatori",
       "introDe": "Die Provinz Bergamo ist tierärztlich gut versorgt, mit mehreren Kliniken, die entweder vor Ort oder über den regionalen tierärztlichen Bereitschaftsdienst (turno di reperibilità), koordiniert durch die ATS Bergamo, rund um die Uhr Versorgung bieten. Die wichtigste 24-Stunden-Anlaufstelle ist die Clinica Veterinaria Città di Bergamo in Boccaleone. Die italienische Notrufnummer für Tiere in Not lautet 1515 (Carabinieri Forestali). Rufen Sie vor Ankunft in jeder Klinik immer vorab an, besonders nachts.",
       "introNl": "De provincie Bergamo is goed voorzien van diergeneeskundige zorg, met meerdere klinieken die ofwel ter plekke ofwel via de regionale veterinaire wachtdienst (turno di reperibilità), gecoördineerd door de ATS Bergamo, 24 uur per dag zorg bieden. Het belangrijkste 24-uursaanspreekpunt is de Clinica Veterinaria Città di Bergamo in Boccaleone. Het Italiaanse noodnummer voor dieren in nood is 1515 (Carabinieri Forestali). Bel altijd vooraf naar elke kliniek voordat je gaat, zeker 's nachts.",
+      "introIt": "La provincia di Bergamo è ben servita per l'assistenza veterinaria, con diverse cliniche che offrono assistenza 24 ore su 24, sia in loco sia tramite il servizio veterinario regionale di reperibilità (turno di reperibilità), coordinato dall'ATS Bergamo. Il principale riferimento 24 ore è la Clinica Veterinaria Città di Bergamo a Boccaleone. Il numero di emergenza italiano per gli animali in difficoltà è il 1515 (Carabinieri Forestali). Chiama sempre in anticipo qualsiasi clinica prima di andare, soprattutto di notte.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Essential Pet Travel Tips for Bergamo",
@@ -562,10 +625,13 @@
           "tipPt": "A Piazza Vecchia e a Via Gombito são livremente caminháveis com cães com trela a qualquer hora e oferecem as fotografias clássicas de postal da Città Alta, mesmo quando os museus estão encerrados.",
           "descriptionDe": "Der Fremdenverkehrsverband Bergamos erkennt die Stadt als haustiertolerant an, mit Hunden willkommen auf der UNESCO-Stadtmauer Mura Venete, den Standseilbahnen, den öffentlichen Bussen und den meisten Außenterrassen der Cafés. Das italienische Recht schreibt vor, dass jeder Halter eines großen Hundes in der Öffentlichkeit einen Maulkorb (auch wenn nicht getragen) und eine Leine mitführen muss. Die Sommerfeuchtigkeit in der Poebene (28-32 °C bei 70 % Luftfeuchtigkeit) ist die Hauptgefahr, früh oder spät gehen und das Kopfsteinpflaster der Città Alta von 12:00-17:00 Uhr meiden.",
           "descriptionNl": "Het toeristenbureau van Bergamo erkent de stad als huisdiertolerant, met honden welkom op de UNESCO-stadsmuur Mura Venete, de kabelbanen, de openbare bussen en de meeste buitenterrassen van cafés. De Italiaanse wet schrijft voor dat elke eigenaar van een grote hond in het openbaar een muilkorf (ook als die niet wordt gedragen) en een lijn bij zich moet hebben. De zomervochtigheid in de Povlakte (28-32 °C bij 70% luchtvochtigheid) is het grootste gevaar; ga er vroeg of laat op uit en vermijd de kasseien van de Città Alta tussen 12:00 en 17:00 uur.",
+          "descriptionIt": "L'ufficio turistico di Bergamo riconosce la città come tollerante verso gli animali, con cani benvenuti sulle mura UNESCO Mura Venete, sulle funicolari, sugli autobus pubblici e sulla maggior parte delle terrazze dei bar all'aperto. La legge italiana richiede che ogni proprietario di un cane di grande taglia abbia con sé in pubblico una museruola (anche se non indossata) e un guinzaglio. L'umidità estiva della pianura padana (28-32°C con il 70% di umidità) è il pericolo maggiore; esci presto o tardi ed evita i ciottoli della Città Alta tra le 12:00 e le 17:00.",
           "petPolicyDe": "Haustiertolerante Stadt; große Hunde benötigen laut nationalem Recht einen Maulkorb in Bereitschaft",
           "petPolicyNl": "Huisdiertolerante stad; grote honden hebben volgens de nationale wet een muilkorf bij de hand nodig",
+          "petPolicyIt": "Città tollerante verso gli animali; secondo la legge nazionale i cani di grande taglia devono avere una museruola a portata di mano",
           "tipDe": "Die Piazza Vecchia und die Via Gombito sind zu jeder Stunde frei mit angeleintem Hund begehbar und bieten die klassischen Postkartenmotive der Città Alta, auch wenn Museen geschlossen sind.",
-          "tipNl": "De Piazza Vecchia en de Via Gombito zijn op elk moment vrij te belopen met een aangelijnde hond en bieden de klassieke ansichtkaartplaatjes van de Città Alta, ook als musea gesloten zijn."
+          "tipNl": "De Piazza Vecchia en de Via Gombito zijn op elk moment vrij te belopen met een aangelijnde hond en bieden de klassieke ansichtkaartplaatjes van de Città Alta, ook als musea gesloten zijn.",
+          "tipIt": "Piazza Vecchia e Via Gombito sono percorribili in ogni momento con un cane al guinzaglio e offrono le classiche cartoline della Città Alta, anche quando i musei sono chiusi."
         },
         {
           "name": "Accademia Carrara",
@@ -589,10 +655,13 @@
           "tipPt": "Se viajar sozinho com um cão maior, a galeria de arte contemporânea GAMeC, ao lado, tem um pátio exterior onde os cães com trela podem descansar enquanto visita uma ala de cada vez.",
           "descriptionDe": "Bergamos bedeutendstes Kunstmuseum mit Meisterwerken von Mantegna, Botticelli, Raffael, Bellini und Lotto folgt der üblichen italienischen Regelung für städtische Museen: Kleine Hunde in einer Transporttasche sind zugelassen; größere Hunde dürfen nicht hinein. Das umliegende Viertel Borgo Pignolo ist eine der charmantesten hundefreundlichen Spazierstraßen der Città Bassa, mit mehreren haustiertoleranten Cafés, in denen Sie den Hund während des Museumsbesuchs bei einem Partner lassen können.",
           "descriptionNl": "Het belangrijkste kunstmuseum van Bergamo, met meesterwerken van Mantegna, Botticelli, Raffaël, Bellini en Lotto, volgt de gebruikelijke Italiaanse regeling voor stedelijke musea: kleine honden in een reistas zijn toegestaan; grotere honden mogen niet naar binnen. De omliggende wijk Borgo Pignolo is een van de charmantste hondvriendelijke wandelstraten van de Città Bassa, met meerdere huisdiertolerante cafés waar je de hond tijdens het museumbezoek bij een partner kunt achterlaten.",
+          "descriptionIt": "Il principale museo d'arte di Bergamo, con capolavori di Mantegna, Botticelli, Raffaello, Bellini e Lotto, segue la consueta regola italiana per i musei cittadini: i cani piccoli in borsa da trasporto sono ammessi; i cani più grandi non possono entrare. Il quartiere circostante, Borgo Pignolo, è una delle vie pet-friendly più incantevoli della Città Bassa, con diversi bar tolleranti verso gli animali dove puoi lasciare il cane con un accompagnatore durante la visita al museo.",
           "petPolicyDe": "Kleine Hunde in Transporttasche zugelassen; größere Hunde dürfen nicht hinein",
           "petPolicyNl": "Kleine honden in reistas toegestaan; grotere honden mogen niet naar binnen",
+          "petPolicyIt": "Cani piccoli in borsa da trasporto ammessi; cani più grandi non possono entrare",
           "tipDe": "Reisen Sie allein mit einem größeren Hund, hat die benachbarte zeitgenössische Kunstgalerie GAMeC einen Außenhof, in dem angeleinte Hunde ausruhen können, während Sie die Ausstellung flügelweise besuchen.",
-          "tipNl": "Reis je alleen met een grotere hond, dan heeft de naburige galerie voor hedendaagse kunst GAMeC een buitenhof waar aangelijnde honden kunnen uitrusten terwijl je de tentoonstelling vleugel voor vleugel bezoekt."
+          "tipNl": "Reis je alleen met een grotere hond, dan heeft de naburige galerie voor hedendaagse kunst GAMeC een buitenhof waar aangelijnde honden kunnen uitrusten terwijl je de tentoonstelling vleugel voor vleugel bezoekt.",
+          "tipIt": "Se viaggi da solo con un cane più grande, la vicina galleria d'arte contemporanea GAMeC ha un cortile esterno dove i cani al guinzaglio possono riposare mentre visiti la mostra ala per ala."
         },
         {
           "name": "Funicolare San Vigilio",
@@ -616,20 +685,26 @@
           "tipPt": "Suba ao pôr do sol para a melhor luz sobre o Vale do Pó, o pequeno bar no topo acolhe cães e serve um Valcalepio Rosso a copo.",
           "descriptionDe": "Die zweite von Bergamos zwei Standseilbahnen führt in zwei Minuten von der Città Alta zum aussichtsreichen Hügel San Vigilio (496 m) hinauf und erweitert die Möglichkeiten für Freilauf-Spaziergänge dramatisch, ohne ein Auto zu benötigen. Betrieben von ATB. Kleine Hunde in Transporttaschen fahren kostenlos; größere Hunde mit Leine und Maulkorb an Bord zahlen den einfachen Fahrgastpreis. Oben verzweigen sich Wege in den Parco dei Colli mit vollem Freilaufpotenzial fernab von Weidevieh.",
           "descriptionNl": "De tweede van Bergamo's twee kabelbanen brengt je in twee minuten vanaf de Città Alta omhoog naar de uitzichtrijke heuvel San Vigilio (496 m) en breidt de mogelijkheden voor losloopwandelingen enorm uit, zonder dat je een auto nodig hebt. Beheerd door ATB. Kleine honden in reistassen reizen gratis; grotere honden met lijn en muilkorf aan boord betalen de gewone reizigersprijs. Bovenaan vertakken paden zich het Parco dei Colli in, met volop losloopmogelijkheden ver van vee.",
+          "descriptionIt": "La seconda delle due funicolari di Bergamo ti porta in due minuti dalla Città Alta fino alla panoramica collina di San Vigilio (496 m) ed espande enormemente le possibilità di passeggiate libere, senza bisogno di un'auto. Gestita da ATB. I cani piccoli in borsa da trasporto viaggiano gratis; i cani più grandi con guinzaglio e museruola a bordo pagano il prezzo normale del biglietto. In cima, i sentieri si diramano nel Parco dei Colli, con ampie possibilità di libertà lontano dal bestiame.",
           "petPolicyDe": "Kleine Hunde in Transporttasche kostenlos; größere Hunde mit Leine und Maulkorb zahlen Fahrgastpreis",
           "petPolicyNl": "Kleine honden in reistas gratis; grotere honden met lijn en muilkorf betalen reizigersprijs",
+          "petPolicyIt": "Cani piccoli in borsa da trasporto gratis; cani più grandi con guinzaglio e museruola pagano il prezzo del biglietto",
           "tipDe": "Fahren Sie bei Sonnenuntergang hinauf für das beste Licht über der Poebene, die kleine Bar oben heißt Hunde willkommen und schenkt einen Valcalepio Rosso im Glas aus.",
-          "tipNl": "Ga bij zonsondergang naar boven voor het beste licht over de Povlakte, het kleine barretje boven heet honden welkom en schenkt een glas valcalepio rosso."
+          "tipNl": "Ga bij zonsondergang naar boven voor het beste licht over de Povlakte, het kleine barretje boven heet honden welkom en schenkt een glas valcalepio rosso.",
+          "tipIt": "Sali al tramonto per la luce migliore sulla pianura padana, il piccolo bar in cima accoglie i cani e serve un bicchiere di valcalepio rosso."
         }
       ],
       "titlePt": "Conselhos essenciais para viajar com animais para Bérgamo",
       "introPt": "Bérgamo é uma cidade genuinamente tolerante para com os cães, mas algumas realidades locais tornarão a sua visita mais fácil. As ruas de calçada da Città Alta absorvem o calor de forma agressiva em julho e agosto e podem queimar as patas a meio do dia, os passeios são melhores antes das 10:00 ou depois das 19:00 no verão. A lei nacional italiana exige que os donos transportem um açaime para qualquer cão grande em espaço público, mesmo que não o use. A maioria dos museus cívicos admite apenas cães pequenos em transportadora, planeie em conformidade. A humidade do Vale do Pó faz com que o calor do verão pareça pior do que o que o termómetro indica.",
       "titleDe": "Wichtige Reisetipps mit Haustier für Bergamo",
       "titleNl": "Belangrijke reistips met huisdier voor Bergamo",
+      "titleIt": "Consigli di viaggio essenziali con l'animale per Bergamo",
       "introDe": "Bergamo ist eine wirklich hundefreundliche Stadt, aber ein paar lokale Gegebenheiten erleichtern den Besuch. Das Kopfsteinpflaster der Città Alta heizt sich im Juli/August stark auf und kann mittags die Pfoten verbrennen, Spaziergänge im Sommer am besten vor 10:00 oder nach 19:00 Uhr. Das italienische Recht verlangt, dass Halter für jeden großen Hund in der Öffentlichkeit einen Maulkorb mitführen, auch wenn er nicht getragen wird. Die meisten städtischen Museen lassen nur kleine Hunde in der Transporttasche zu, entsprechend planen. Die Feuchtigkeit der Poebene lässt die Sommerhitze schlimmer wirken als die Thermometeranzeige.",
       "introNl": "Bergamo is echt een hondvriendelijke stad, maar een paar lokale zaken maken je bezoek makkelijker. De kasseien van de Città Alta warmen in juli/augustus flink op en kunnen 's middags de pootjes verbranden; wandel in de zomer het best voor 10:00 of na 19:00 uur. De Italiaanse wet vereist dat eigenaars voor elke grote hond in het openbaar een muilkorf bij zich hebben, ook als die niet wordt gedragen. De meeste stedelijke musea laten alleen kleine honden in een reistas toe, plan hier rekening mee. De vochtigheid van de Povlakte maakt de zomerhitte erger dan de thermometer aangeeft.",
+      "introIt": "Bergamo è davvero una città pet-friendly, ma alcune particolarità locali rendono la visita più facile. I ciottoli della Città Alta si scaldano parecchio a luglio/agosto e possono scottare le zampe nel pomeriggio; d'estate è meglio camminare prima delle 10:00 o dopo le 19:00. La legge italiana richiede che i proprietari abbiano con sé una museruola per ogni cane di grande taglia in pubblico, anche se non indossata. La maggior parte dei musei cittadini ammette solo cani piccoli in borsa da trasporto, tienine conto. L'umidità della pianura padana rende il caldo estivo peggiore di quanto indichi il termometro.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Bergamo",
@@ -661,10 +736,13 @@
           "tipPt": "A torre sineira Campanone (aberta ao público por elevador) não admite cães de qualquer tamanho, deixe o cão com um acompanhante na praça para a subida panorâmica de 5 minutos.",
           "descriptionDe": "Der monumentale mittelalterliche Platz im Herzen der Città Alta, umrahmt vom Palazzo della Ragione, der Biblioteca Mai, dem Contarini-Brunnen und dem Glockenturm Campanone. Le Corbusier soll ihn „den schönsten Platz Europas\" genannt haben. Angeleinte Hunde sind auf dem gesamten Platz und der anschließenden Piazza del Duomo willkommen, wo das Äußere der Cappella Colleoni und die Fassade der Kathedrale bewundert werden können, ohne hineinzugehen. Die Cafés rund um den Platz nehmen fast alle Hunde an.",
           "descriptionNl": "Het monumentale middeleeuwse plein in het hart van de Città Alta, omgeven door het Palazzo della Ragione, de Biblioteca Mai, de Contarini-fontein en de klokkentoren Campanone. Le Corbusier zou het \"het mooiste plein van Europa\" hebben genoemd. Aangelijnde honden zijn welkom op het hele plein en op het aansluitende Piazza del Duomo, waar je de buitenkant van de Cappella Colleoni en de gevel van de kathedraal kunt bewonderen zonder naar binnen te gaan. De cafés rond het plein accepteren vrijwel allemaal honden.",
+          "descriptionIt": "La monumentale piazza medievale nel cuore della Città Alta, circondata dal Palazzo della Ragione, dalla Biblioteca Mai, dalla fontana Contarini e dalla torre campanaria Campanone. Le Corbusier l'avrebbe definita \"la piazza più bella d'Europa\". I cani al guinzaglio sono benvenuti in tutta la piazza e nell'attigua Piazza del Duomo, dove puoi ammirare l'esterno della Cappella Colleoni e la facciata della cattedrale senza entrare. I bar intorno alla piazza accettano praticamente tutti i cani.",
           "petPolicyDe": "Angeleinte Hunde willkommen auf dem gesamten Platz und den umliegenden Gassen",
           "petPolicyNl": "Aangelijnde honden welkom op het hele plein en in de omliggende steegjes",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in tutta la piazza e nei vicoli circostanti",
           "tipDe": "Der Glockenturm Campanone (öffentlich zugänglich per Aufzug) lässt Hunde jeder Größe nicht zu, lassen Sie den Hund für den 5-minütigen Panoramaaufstieg bei einem Partner auf dem Platz.",
-          "tipNl": "De klokkentoren Campanone (toegankelijk per lift) laat honden van elke omvang niet toe, laat je hond voor de 5 minuten durende panoramaklim bij een partner op het plein achter."
+          "tipNl": "De klokkentoren Campanone (toegankelijk per lift) laat honden van elke omvang niet toe, laat je hond voor de 5 minuten durende panoramaklim bij een partner op het plein achter.",
+          "tipIt": "La torre campanaria Campanone (accessibile con ascensore) non ammette cani di nessuna taglia, lascia il tuo cane con un accompagnatore in piazza per i 5 minuti di salita panoramica."
         },
         {
           "name": "Cittadella & Rocca di Bergamo",
@@ -688,10 +766,13 @@
           "tipPt": "O passeio da Piazza Vecchia até à Rocca (10 minutos a subir na calçada) é o troço mais difícil para cães idosos, apanhe o autocarro 1A a partir do funicular se tiver um cão idoso.",
           "descriptionDe": "Die Festung Rocca aus dem 14. Jahrhundert krönt den höchsten Punkt der Città Alta, mit einem grasbewachsenen Park um die Mauern, einer der besten hundefreundlichen Aussichtspunkte der Stadt. Im Inneren der Festung befindet sich das Risorgimento-Museum (keine Hunde), aber der umliegende Park, die Panoramaterrasse und der anschließende Platz Cittadella sind alle frei mit angeleintem Hund zugänglich. Picknickbänke unter altem Baumbestand machen dies zu einem Top-Platz für einen heißen Nachmittag.",
           "descriptionNl": "De 14e-eeuwse vesting Rocca bekroont het hoogste punt van de Città Alta, met een grasrijk park rond de muren, een van de beste hondvriendelijke uitzichtpunten van de stad. Binnen in de vesting bevindt zich het Risorgimento-museum (geen honden toegestaan), maar het omliggende park, het panoramaterras en het aangrenzende plein Cittadella zijn allemaal vrij toegankelijk met een aangelijnde hond. Picknickbankjes onder oude bomen maken dit een topplek voor een hete middag.",
+          "descriptionIt": "La fortezza Rocca del XIV secolo domina il punto più alto della Città Alta, con un parco erboso intorno alle mura, uno dei migliori punti panoramici pet-friendly della città. All'interno della fortezza si trova il museo del Risorgimento (cani non ammessi), ma il parco circostante, la terrazza panoramica e l'adiacente piazza Cittadella sono tutti liberamente accessibili con un cane al guinzaglio. Le panchine per il picnic sotto alberi secolari ne fanno un posto ideale per un pomeriggio caldo.",
           "petPolicyDe": "Angeleinte Hunde willkommen im Park und auf der Panoramaterrasse; nicht im Museum",
           "petPolicyNl": "Aangelijnde honden welkom in het park en op het panoramaterras; niet in het museum",
+          "petPolicyIt": "Cani al guinzaglio benvenuti nel parco e sulla terrazza panoramica; non nel museo",
           "tipDe": "Der Weg von der Piazza Vecchia zur Rocca (10 Minuten bergauf über Kopfsteinpflaster) ist für ältere Hunde die anstrengendste Strecke, nehmen Sie mit einem Senior-Hund den Bus 1A ab der Standseilbahn.",
-          "tipNl": "De weg van de Piazza Vecchia naar de Rocca (10 minuten klimmen over kasseien) is voor oudere honden het zwaarste stuk, neem met een senior-hond bus 1A vanaf de kabelbaan."
+          "tipNl": "De weg van de Piazza Vecchia naar de Rocca (10 minuten klimmen over kasseien) is voor oudere honden het zwaarste stuk, neem met een senior-hond bus 1A vanaf de kabelbaan.",
+          "tipIt": "Il percorso da Piazza Vecchia alla Rocca (10 minuti di salita sui ciottoli) è il tratto più impegnativo per i cani anziani, con un cane senior prendi l'autobus 1A dalla funicolare."
         },
         {
           "name": "Castello di San Vigilio",
@@ -715,20 +796,26 @@
           "tipPt": "Combine o castelo com a descida a pé pelo Sentiero dei Borghi de volta à Città Alta, cerca de 30 minutos a descer à sombra, muito mais agradável do que a subida pela calçada.",
           "descriptionDe": "Die Burgruine oben an der Standseilbahn San Vigilio krönt den Hügel auf 496 m und bietet ein 360°-Panorama von den Bergamasker Alpen bis zur Poebene. Die Ruinen, der umliegende bewaldete Park und die Panoramaterrasse sind vollständig kostenlos zugänglich und durchgehend hundefreundlich, angeleinte Hunde sind überall willkommen. Von der Burg führen markierte Wege in den Parco dei Colli für einen längeren Hundespaziergang zurück in die Stadt.",
           "descriptionNl": "De kasteelruïne boven aan de kabelbaan San Vigilio bekroont de heuvel op 496 m en biedt een 360°-panorama van de Bergamaanse Alpen tot aan de Povlakte. De ruïnes, het omliggende beboste park en het panoramaterras zijn volledig gratis toegankelijk en helemaal hondvriendelijk, aangelijnde honden zijn overal welkom. Vanaf het kasteel leiden gemarkeerde paden het Parco dei Colli in voor een langere hondenwandeling terug naar de stad.",
+          "descriptionIt": "Le rovine del castello in cima alla funicolare di San Vigilio dominano la collina a 496 m e offrono un panorama a 360° dalle Alpi Bergamasche fino alla pianura padana. Le rovine, il parco boschivo circostante e la terrazza panoramica sono completamente gratuiti e del tutto pet-friendly, i cani al guinzaglio sono benvenuti ovunque. Dal castello, sentieri segnalati conducono nel Parco dei Colli per una passeggiata più lunga di ritorno in città.",
           "petPolicyDe": "Angeleinte Hunde willkommen in den gesamten Ruinen und dem umliegenden Park",
           "petPolicyNl": "Aangelijnde honden welkom in de hele ruïne en het omliggende park",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in tutte le rovine e nel parco circostante",
           "tipDe": "Kombinieren Sie die Burg mit dem Abstieg zu Fuß über den Sentiero dei Borghi zurück in die Città Alta, etwa 30 Minuten bergab im Schatten, deutlich angenehmer als der Aufstieg über Kopfsteinpflaster.",
-          "tipNl": "Combineer het kasteel met de afdaling te voet via de Sentiero dei Borghi terug naar de Città Alta, zo'n 30 minuten bergafwaarts in de schaduw, aanzienlijk aangenamer dan de klim over kasseien."
+          "tipNl": "Combineer het kasteel met de afdaling te voet via de Sentiero dei Borghi terug naar de Città Alta, zo'n 30 minuten bergafwaarts in de schaduw, aanzienlijk aangenamer dan de klim over kasseien.",
+          "tipIt": "Abbina il castello alla discesa a piedi lungo il Sentiero dei Borghi di ritorno verso la Città Alta, circa 30 minuti in discesa all'ombra, notevolmente più piacevole della salita sui ciottoli."
         }
       ],
       "titlePt": "Atrações que aceitam cães em Bérgamo",
       "introPt": "As muralhas venezianas de Bérgamo, classificadas pela UNESCO, e a medieval Città Alta formam, em conjunto, uma das mais belas cidades muralhadas no topo de uma colina do norte de Itália, e quase todo o conjunto é livremente explorável com um cão com trela. A Piazza Vecchia, o exterior da Cappella Colleoni, a Torre del Gombito e o terraço panorâmico do Castello alcançam-se todos a pé a partir dos funiculares. As visitas interiores (catedral, museus) seguem a regra do cão pequeno em transportadora, mas só o circuito ao ar livre já justifica uma estadia longa.",
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Bergamo",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Bergamo",
+      "titleIt": "Attrazioni pet-friendly a Bergamo",
       "introDe": "Bergamos UNESCO-gelistete venezianische Stadtmauer und die mittelalterliche Città Alta bilden zusammen eine der schönsten ummauerten Hügelstädte Norditaliens, und fast das gesamte Ensemble lässt sich frei mit angeleintem Hund erkunden. Die Piazza Vecchia, das Äußere der Cappella Colleoni, der Torre del Gombito und die Panoramaterrasse des Castello sind alle zu Fuß von den Standseilbahnen aus erreichbar. Für Innenbesuche (Kathedrale, Museen) gilt die Regel „kleiner Hund in Transporttasche\", aber allein der Außenrundgang rechtfertigt einen langen Aufenthalt.",
       "introNl": "Bergamo's UNESCO-erkende Venetiaanse stadsmuur en de middeleeuwse Città Alta vormen samen een van de mooiste ommuurde heuvelsteden van Noord-Italië, en vrijwel het hele ensemble is vrij te verkennen met een aangelijnde hond. De Piazza Vecchia, de buitenkant van de Cappella Colleoni, de Torre del Gombito en het panoramaterras van het Castello zijn allemaal lopend bereikbaar vanaf de kabelbanen. Voor bezoeken binnen (kathedraal, musea) geldt de regel \"kleine hond in reistas\", maar de buitenrondgang alleen al rechtvaardigt een lang verblijf.",
+      "introIt": "Le mura veneziane di Bergamo, riconosciute dall'UNESCO, e la medievale Città Alta formano insieme una delle più belle città murate collinari del nord Italia, e quasi tutto l'insieme è liberamente esplorabile con un cane al guinzaglio. Piazza Vecchia, l'esterno della Cappella Colleoni, la Torre del Gombito e la terrazza panoramica del Castello sono tutti raggiungibili a piedi dalle funicolari. Per le visite al chiuso (cattedrale, musei) vale la regola \"cane piccolo in borsa da trasporto\", ma il solo giro esterno giustifica già un lungo soggiorno.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Care Services in Bergamo",
@@ -759,10 +846,13 @@
           "tipPt": "Filtre por pet-sitters que indiquem explicitamente experiência com o tamanho do seu cão, o leque de Bérgamo é menor do que o de Milão, os melhores pet-sitters esgotam com 1 a 2 semanas de antecedência em julho e agosto.",
           "descriptionDe": "Pawshake ist eine vertrauenswürdige Plattform für Haustierbetreuung mit verifizierten Betreuern in Bergamo, die Gassi-Service, Hausbesuche, Tagesbetreuung und Übernachtungen anbieten. Alle Betreuer sind geprüft, über die Plattform versichert und öffentlich bewertet. Über die App können Sie Betreuer direkt kontaktieren und vollständig online buchen. Buchen Sie 24-48 Stunden im Voraus für Tagesbetreuung während Ihres Aufenthalts in Bergamo, besonders im Hochsommer, wenn auch Bergamasker Familien verreisen.",
           "descriptionNl": "Pawshake is een betrouwbaar platform voor huisdieroppas met geverifieerde oppassers in Bergamo, die uitlaatservice, huisbezoeken, dagopvang en logeerpartijen aanbieden. Alle oppassers zijn gescreend, verzekerd via het platform en publiekelijk beoordeeld. Via de app kun je oppassers rechtstreeks contacteren en volledig online boeken. Boek 24-48 uur van tevoren voor dagopvang tijdens je verblijf in Bergamo, zeker in de hoogzomer, wanneer ook Bergamaanse gezinnen op reis gaan.",
+          "descriptionIt": "Pawshake è una piattaforma affidabile per il pet sitting con sitter verificati a Bergamo, che offrono servizio passeggiate, visite a domicilio, asilo diurno e pernottamenti. Tutti i sitter sono controllati, assicurati tramite la piattaforma e recensiti pubblicamente. Tramite l'app puoi contattare direttamente i sitter e prenotare interamente online. Prenota con 24-48 ore di anticipo per l'asilo diurno durante il tuo soggiorno a Bergamo, soprattutto in piena estate, quando anche le famiglie bergamasche vanno in vacanza.",
           "petPolicyDe": "Verifizierte Betreuer, Versicherung über die Plattform inklusive",
           "petPolicyNl": "Geverifieerde oppassers, verzekering via het platform inbegrepen",
+          "petPolicyIt": "Sitter verificati, assicurazione tramite la piattaforma inclusa",
           "tipDe": "Filtern Sie nach Betreuern, die ausdrücklich Erfahrung mit der Größe Ihres Hundes angeben, das Angebot in Bergamo ist kleiner als in Mailand, die besten Betreuer sind im Juli und August 1-2 Wochen im Voraus ausgebucht.",
-          "tipNl": "Filter op oppassers die expliciet ervaring aangeven met het formaat van jouw hond, het aanbod in Bergamo is kleiner dan in Milaan, de beste oppassers zitten in juli en augustus 1-2 weken van tevoren vol."
+          "tipNl": "Filter op oppassers die expliciet ervaring aangeven met het formaat van jouw hond, het aanbod in Bergamo is kleiner dan in Milaan, de beste oppassers zitten in juli en augustus 1-2 weken van tevoren vol.",
+          "tipIt": "Filtra per sitter che dichiarano esplicitamente esperienza con la taglia del tuo cane, l'offerta a Bergamo è più ridotta rispetto a Milano, i migliori sitter si esauriscono con 1-2 settimane di anticipo a luglio e agosto."
         },
         {
           "name": "Rover.com Bergamo",
@@ -785,10 +875,13 @@
           "tipPt": "Reserve o seu pet-sitter antes de chegar a Bérgamo, os pet-sitters mais bem avaliados da Lombardia esgotam depressa no verão, quando o turismo interno para os lagos atinge o pico.",
           "descriptionDe": "Rover.com ist der international bekannte Marktplatz für Haustierbetreuung mit solider Präsenz in Bergamo. Die Plattform verbindet Hundehalter mit verifizierten lokalen Betreuern für Gassi-Service, Tagesbetreuung, Haussitting und Übernachtungspension. Suchfilter erfassen Erfahrung des Betreuers, Hundegröße und Verfügbarkeit. Bewertungen sind größtenteils auf Italienisch, aber eine wachsende Zahl von Profilen weist Englischkenntnisse aus, nützlich für Besucher.",
           "descriptionNl": "Rover.com is de internationaal bekende marktplaats voor huisdieroppas met een stevige aanwezigheid in Bergamo. Het platform verbindt hondenbezitters met geverifieerde lokale oppassers voor uitlaatservice, dagopvang, huisoppas en logeerpension. Zoekfilters omvatten ervaring van de oppasser, hondformaat en beschikbaarheid. Beoordelingen zijn grotendeels in het Italiaans, maar een groeiend aantal profielen vermeldt Engelse taalvaardigheid, handig voor bezoekers.",
+          "descriptionIt": "Rover.com è il marketplace di pet sitting conosciuto a livello internazionale con una solida presenza a Bergamo. La piattaforma collega i proprietari di cani con sitter locali verificati per servizio passeggiate, asilo diurno, visite a domicilio e pensione notturna. I filtri di ricerca includono l'esperienza del sitter, la taglia del cane e la disponibilità. Le recensioni sono per lo più in italiano, ma un numero crescente di profili indica competenza in inglese, utile per i visitatori.",
           "petPolicyDe": "Verifizierte Betreuer, Rover-Garantie inklusive",
           "petPolicyNl": "Geverifieerde oppassers, Rover-garantie inbegrepen",
+          "petPolicyIt": "Sitter verificati, garanzia Rover inclusa",
           "tipDe": "Buchen Sie Ihren Betreuer, bevor Sie in Bergamo ankommen, die bestbewerteten Betreuer in der Lombardei sind im Sommer schnell ausgebucht, wenn der Inlandstourismus an die Seen seinen Höhepunkt erreicht.",
-          "tipNl": "Boek je oppasser voordat je in Bergamo aankomt, de best beoordeelde oppassers in Lombardije zitten in de zomer snel vol, wanneer het binnenlands toerisme naar de meren zijn hoogtepunt bereikt."
+          "tipNl": "Boek je oppasser voordat je in Bergamo aankomt, de best beoordeelde oppassers in Lombardije zitten in de zomer snel vol, wanneer het binnenlands toerisme naar de meren zijn hoogtepunt bereikt.",
+          "tipIt": "Prenota il tuo sitter prima di arrivare a Bergamo, i sitter meglio recensiti in Lombardia si esauriscono in fretta d'estate, quando il turismo interno verso i laghi raggiunge il suo picco."
         },
         {
           "name": "Holidog Bergamo",
@@ -811,20 +904,26 @@
           "tipPt": "Marque previamente um encontro de apresentação de 30 minutos com qualquer pet-sitter novo antes da estadia em si, a maioria dos pet-sitters bergamascos oferece-o gratuitamente e deixa o seu cão habituar-se ao local.",
           "descriptionDe": "Holidog ist eine europäische Plattform für Haustierbetreuung mit französischen Wurzeln und starker Präsenz in ganz Italien, einschließlich Bergamo, mit Angeboten für Gassi-Service, Tagesbetreuung und Haussitting. Betreuer sind geprüft, Bewertungen werden automatisch übersetzt. Besonders nützlich für französischsprachige Besucher, die einen Betreuer suchen, der in ihrer Sprache kommunizieren kann. Versicherung ist bei jeder Buchung inklusive.",
           "descriptionNl": "Holidog is een Europees platform voor huisdieroppas met Franse wortels en een sterke aanwezigheid in heel Italië, inclusief Bergamo, met aanbod voor uitlaatservice, dagopvang en huisoppas. Oppassers zijn gescreend, beoordelingen worden automatisch vertaald. Vooral handig voor Franstalige bezoekers die een oppasser zoeken die in hun taal kan communiceren. Verzekering is bij elke boeking inbegrepen.",
+          "descriptionIt": "Holidog è una piattaforma europea di pet sitting di origine francese con una forte presenza in tutta Italia, inclusa Bergamo, con offerta di servizio passeggiate, asilo diurno e visite a domicilio. I sitter sono controllati, le recensioni vengono tradotte automaticamente. Particolarmente utile per i visitatori francofoni che cercano un sitter in grado di comunicare nella loro lingua. L'assicurazione è inclusa in ogni prenotazione.",
           "petPolicyDe": "Verifizierte Betreuer, Versicherung bei jeder Buchung inklusive",
           "petPolicyNl": "Geverifieerde oppassers, verzekering bij elke boeking inbegrepen",
+          "petPolicyIt": "Sitter verificati, assicurazione inclusa in ogni prenotazione",
           "tipDe": "Vereinbaren Sie vor dem eigentlichen Aufenthalt ein 30-minütiges Kennenlerntreffen mit jedem neuen Betreuer, die meisten Bergamasker Betreuer bieten das kostenlos an, und Ihr Hund gewöhnt sich so an den Ort.",
-          "tipNl": "Plan voor het eigenlijke verblijf een kennismakingsgesprek van 30 minuten met elke nieuwe oppasser, de meeste Bergamaanse oppassers bieden dit gratis aan, en zo went je hond alvast aan de plek."
+          "tipNl": "Plan voor het eigenlijke verblijf een kennismakingsgesprek van 30 minuten met elke nieuwe oppasser, de meeste Bergamaanse oppassers bieden dit gratis aan, en zo went je hond alvast aan de plek.",
+          "tipIt": "Pianifica un incontro conoscitivo di 30 minuti con ogni nuovo sitter prima del soggiorno vero e proprio, la maggior parte dei sitter bergamaschi lo offre gratuitamente, e così il tuo cane si abitua già al posto."
         }
       ],
       "titlePt": "Serviços de pet-sitting e de cuidados para cães em Bérgamo",
       "introPt": "Bérgamo tem um ecossistema de pet-sitting pequeno mas bem avaliado, útil quando quiser visitar um museu, subir de funicular até um local que não aceita cães, ou apanhar um Frecciarossa para Milão por um dia. As duas principais plataformas internacionais (Pawshake e Rover) têm ambas pet-sitters verificados na cidade, e uns quantos canis locais nos contrafortes do Parco dei Colli oferecem creche diurna num ambiente mais natural. A maioria dos pet-sitters bergamascos fala italiano; alguns também falam inglês.",
       "titleDe": "Haustierbetreuung & Hundeservices in Bergamo",
       "titleNl": "Huisdieroppas & hondenservices in Bergamo",
+      "titleIt": "Pet sitting e servizi per cani a Bergamo",
       "introDe": "Bergamo hat ein kleines, aber gut bewertetes Angebot an Haustierbetreuung, nützlich, wenn Sie ein Museum besuchen, mit der Standseilbahn zu einem hundefreien Ort hinauffahren oder mit dem Frecciarossa für einen Tagesausflug nach Mailand fahren möchten. Die beiden großen internationalen Plattformen (Pawshake und Rover) haben beide verifizierte Betreuer in der Stadt, und eine Handvoll lokaler Hundepensionen am Fuß des Parco dei Colli bieten Tagesbetreuung in einer naturnäheren Umgebung. Die meisten Bergamasker Betreuer sprechen Italienisch, manche auch Englisch.",
       "introNl": "Bergamo heeft een klein maar goed beoordeeld aanbod aan huisdieroppas, handig als je een museum bezoekt, met de kabelbaan naar een hondvrije plek gaat, of met de Frecciarossa een dagtrip naar Milaan maakt. De twee grote internationale platforms (Pawshake en Rover) hebben allebei geverifieerde oppassers in de stad, en een handvol lokale hondenpensions aan de voet van het Parco dei Colli bieden dagopvang in een natuurlijkere omgeving. De meeste Bergamaanse oppassers spreken Italiaans, sommigen ook Engels.",
+      "introIt": "Bergamo ha un'offerta piccola ma ben recensita di pet sitting, utile se visiti un museo, prendi la funicolare verso un posto vietato ai cani, o fai una gita di un giorno a Milano con il Frecciarossa. Le due grandi piattaforme internazionali (Pawshake e Rover) hanno entrambe sitter verificati in città, e alcune pensioni locali per cani ai piedi del Parco dei Colli offrono asilo diurno in un ambiente più naturale. La maggior parte dei sitter bergamaschi parla italiano, alcuni anche inglese.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

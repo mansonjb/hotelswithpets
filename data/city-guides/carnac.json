@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Ty+Seveno+Carnac",
           "descriptionDe": "Eine traditionelle bretonische Crêperie nahe Carnac-Plage, die Galettes, Crêpes und hausgemachte Pommes auf einer überdachten und offenen Terrasse serviert. Hunde sind willkommen, Sie mitzubringen, und die altmodische Einrichtung sowie die großzügigen Portionen machen es zu einem verlässlichen Familienziel. ",
           "descriptionNl": "Een traditionele Bretonse crêperie vlak bij Carnac-Plage, die galettes, crêpes en zelfgemaakte frites serveert op een overdekt en open terras. Honden zijn welkom om mee te nemen, en de ouderwetse inrichting en de royale porties maken het een betrouwbaar gezinsadres.",
+          "descriptionIt": "Una creperie bretone tradizionale vicino a Carnac-Plage, che serve galette, crepe e patatine fatte in casa su una terrazza coperta e all'aperto. I cani sono benvenuti con te, e l'arredamento vecchio stile e le porzioni abbondanti ne fanno un indirizzo di famiglia affidabile.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
           "petPolicyNl": "Honden welkom op het terras",
+          "petPolicyIt": "Cani benvenuti in terrazza",
           "mustTryDe": "Galette complète, Crêpe mit gesalzenem Karamell, Cidre",
           "mustTryNl": "Galette complète, crêpe met gezouten karamel, cidre",
+          "mustTryIt": "Galette complete, crepe al caramello salato, sidro",
           "tipDe": "Bitten Sie bei Ankunft mit Hund um die Terrasse und einen Wassernapf. Die Innenplätze sind enger.",
-          "tipNl": "Vraag bij aankomst met hond om het terras en een waterbakje. De binnenplekken zijn krapper."
+          "tipNl": "Vraag bij aankomst met hond om het terras en een waterbakje. De binnenplekken zijn krapper.",
+          "tipIt": "All'arrivo con il cane chiedi la terrazza e una ciotola d'acqua. I posti interni sono piu stretti."
         },
         {
           "name": "L'Annexe",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=L%27Annexe+Carnac",
           "descriptionDe": "Ein kleines Bistro mit einfallsreichen Gerichten aus frischen, lokalen und saisonalen Zutaten, mit Bio-, veganen und traditionellen Optionen. Tiere sind auf der leicht zugänglichen Terrasse willkommen, und Parkplätze in der Nähe sind unkompliziert. ",
           "descriptionNl": "Een klein bistro met inventieve gerechten van verse, lokale en seizoensgebonden ingrediënten, met bio-, veganistische en traditionele opties. Dieren zijn welkom op het makkelijk bereikbare terras, en parkeren in de buurt is eenvoudig.",
+          "descriptionIt": "Un piccolo bistro con piatti creativi a base di ingredienti freschi, locali e di stagione, con opzioni bio, vegane e tradizionali. Gli animali sono benvenuti sulla terrazza facilmente accessibile, e parcheggiare nei dintorni e semplice.",
           "petPolicyDe": "Tiere auf der Terrasse willkommen",
           "petPolicyNl": "Dieren welkom op het terras",
+          "petPolicyIt": "Animali benvenuti in terrazza",
           "mustTryDe": "Tagesgericht vom Markt, frische lokale Erzeugnisse",
           "mustTryNl": "Dagmenu van de markt, verse lokale producten",
+          "mustTryIt": "Menu del giorno del mercato, prodotti locali freschi",
           "tipDe": "Kleineres Lokal, daher ist die Terrasse die bequemere Wahl für Hunde. Im Sommer reservieren.",
-          "tipNl": "Kleiner adres, dus het terras is de handigere keuze voor honden. In de zomer reserveren."
+          "tipNl": "Kleiner adres, dus het terras is de handigere keuze voor honden. In de zomer reserveren.",
+          "tipIt": "Locale piccolo, quindi la terrazza e la scelta piu comoda per i cani. Prenota in estate."
         },
         {
           "name": "Crêperie de la Pompe",
@@ -110,12 +118,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cr%C3%AAperie+de+la+Pompe+Carnac",
           "descriptionDe": "Eine bekannte Crêperie im Herzen von Carnac-Ville mit einer angenehmen Terrasse, beliebt bei Familien und Spaziergängern auf dem Rückweg von den Steinreihen. Angeleinte, ruhige Hunde sind in den wärmeren Monaten auf der Außenbestuhlung meist willkommen. ",
           "descriptionNl": "Een bekende crêperie in het hart van Carnac-Ville met een gezellig terras, populair bij gezinnen en wandelaars op de terugweg van de steenrijen. Aangelijnde, rustige honden zijn in de warmere maanden meestal welkom op de buitenstoelen.",
+          "descriptionIt": "Una creperie conosciuta nel cuore di Carnac-Ville con una terrazza accogliente, amata da famiglie ed escursionisti di ritorno dagli allineamenti. Nei mesi piu caldi i cani calmi al guinzaglio sono di solito benvenuti ai tavoli esterni.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op het terras",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza",
           "mustTryDe": "Buchweizen-Galette, bretonischer Cidre, Far Breton",
           "mustTryNl": "Boekweitgalette, Bretonse cidre, far breton",
+          "mustTryIt": "Galette di grano saraceno, sidro bretone, far breton",
           "tipDe": "Kommen Sie außerhalb der Stoßzeiten (vor 12:30 oder nach 14:00 Uhr), damit auf der Terrasse Platz für einen Hund zu Ihren Füßen ist.",
-          "tipNl": "Kom buiten de spitsuren (voor 12:30 of na 14:00 uur), zodat er op het terras plek is voor een hond aan je voeten."
+          "tipNl": "Kom buiten de spitsuren (voor 12:30 of na 14:00 uur), zodat er op het terras plek is voor een hond aan je voeten.",
+          "tipIt": "Vieni fuori dagli orari di punta (prima delle 12:30 o dopo le 14:00), cosi in terrazza c'e spazio per un cane ai tuoi piedi."
         }
       ],
       "tipsEn": [
@@ -196,8 +208,10 @@
       ],
       "titleDe": "Haustierfreundliche Restaurants in Carnac",
       "titleNl": "Huisdiervriendelijke restaurants in Carnac",
+      "titleIt": "Ristoranti pet-friendly a Carnac",
       "introDe": "Carnac ist ein entspannter bretonischer Küstenort, und seine Crêperien und Bistros sind meist unkompliziert, wenn ein wohlerzogener Hund unter dem Tisch ruht, besonders auf den offenen Terrassen, die von Mai bis September gut besucht sind. Da Hunde an den Stadtstränden verboten sind, ist eine schattige Restaurantterrasse oft der einfachste Weg, Ihren Hund während eines Strandtags bei sich zu haben. Bitten Sie also immer um einen Wassernapf und halten Sie Ihren Hund angeleint neben sich statt im Gang.",
       "introNl": "Carnac is een ontspannen Bretons kustplaatsje, en de crêperies en bistro's zijn meestal soepel als een goedopgevoede hond onder de tafel ligt, vooral op de open terrassen die van mei tot en met september goed bezocht zijn. Omdat honden op de stadsstranden verboden zijn, is een schaduwrijk restaurantterras vaak de makkelijkste manier om jouw hond bij je te hebben tijdens een strandddag. Vraag dus altijd om een waterbakje en houd jouw hond aangelijnd naast je in plaats van in het gangpad.",
+      "introIt": "Carnac e una tranquilla localita costiera bretone, e le creperie e i bistro sono generalmente flessibili se un cane ben educato sta sotto il tavolo, soprattutto nelle terrazze all'aperto molto frequentate da maggio a settembre compresi. Poiche i cani sono vietati sulle spiagge cittadine, una terrazza ombreggiata di ristorante e spesso il modo piu semplice per avere il tuo cane con te durante una giornata di mare. Quindi chiedi sempre una ciotola d'acqua e tieni il tuo cane al guinzaglio accanto a te invece che nel corridoio.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund in Restaurants in Carnac mitbringen?",
@@ -224,6 +238,20 @@
         {
           "q": "Waar kan ik met hond eten na het strand in Carnac?",
           "a": "Ga naar een terras in Carnac-Plage of Carnac-Ville. Omdat honden op de stadsstranden verboden zijn, is een schaduwrijk restaurantterras de makkelijkste manier om met de hond in de buurt te ontspannen."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane nei ristoranti di Carnac?",
+          "a": "Si, la maggior parte delle creperie e dei bistro di Carnac accetta un cane tranquillo al guinzaglio in terrazza esterna, che e piu affollata da maggio a settembre compresi. Chiedi sempre prima, perche gli spazi interni sono spesso piccoli e potrebbero non avere posto."
+        },
+        {
+          "q": "Ci sono ciotole d'acqua per cani nei ristoranti di Carnac?",
+          "a": "Alcuni locali ne mettono una se la chiedi, ma non e garantito. Porta una ciotola pieghevole da viaggio, soprattutto nelle giornate calde di mare quando il tuo cane non puo andare sulle spiagge cittadine."
+        },
+        {
+          "q": "Dove posso mangiare con il cane dopo la spiaggia a Carnac?",
+          "a": "Vai in una terrazza a Carnac-Plage o Carnac-Ville. Poiche i cani sono vietati sulle spiagge cittadine, una terrazza ombreggiata di ristorante e il modo piu semplice per rilassarti con il cane nei dintorni."
         }
       ]
     },
@@ -258,10 +286,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=GR34+Carnac+Plage",
           "descriptionDe": "Der GR34-Zollweg verläuft etwa 8 km entlang der Küste von Carnac-Plage Richtung La Trinité-sur-Mer, vorbei an Dünen, Kiefernwäldern und Blicken auf die Austernbucht. Er ist einer der wenigen Orte nahe den Stränden, an denen Hunde ganzjährig willkommen sind, an der Leine. ",
           "descriptionNl": "Het GR34 douanepad loopt ongeveer 8 km langs de kust vanaf Carnac-Plage richting La Trinité-sur-Mer, langs duinen, dennenbossen en uitzichten op de oesterbaai. Het is een van de weinige plekken bij de stranden waar honden het hele jaar welkom zijn, aan de lijn.",
+          "descriptionIt": "Il sentiero doganale GR34 corre per circa 8 km lungo la costa da Carnac-Plage verso La Trinite-sur-Mer, tra dune, pinete e viste sulla baia delle ostriche. E uno dei pochi posti vicino alle spiagge dove i cani sono benvenuti tutto l'anno, al guinzaglio.",
           "offLeashAreaDe": "Keine. Hunde müssen auf dem GR34 angeleint bleiben",
           "offLeashAreaNl": "Geen. Honden moeten aangelijnd blijven op het GR34",
+          "offLeashAreaIt": "Nessuna. I cani devono restare al guinzaglio sul GR34",
           "tipDe": "Starten Sie an Sommermorgen früh für Schatten und kühlen Sand. Der Weg bietet mittags kaum Schutz.",
-          "tipNl": "Start op zomerochtenden vroeg voor schaduw en koel zand. Het pad biedt rond het middaguur nauwelijks beschutting."
+          "tipNl": "Start op zomerochtenden vroeg voor schaduw en koel zand. Het pad biedt rond het middaguur nauwelijks beschutting.",
+          "tipIt": "D'estate parti presto la mattina per l'ombra e la sabbia fresca. A mezzogiorno il sentiero offre poco riparo."
         },
         {
           "name": "Alignements du Ménec & de Kermario (perimeter paths)",
@@ -284,10 +315,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Alignements+du+M%C3%A9nec+Carnac",
           "descriptionDe": "Die Wege außen um die eingezäunten Steinfelder von Ménec und Kermario sind offen und mit angeleintem Hund begehbar. Von April bis September sind die Felder selbst eingezäunt und nur mit kostenpflichtiger Führung zugänglich (keine Hunde im Inneren), doch im Winter sind die Steinreihen frei zugänglich und die Heide wirkt wild und menschenleer. ",
           "descriptionNl": "De paden buitenom de omheinde steenvelden van Ménec en Kermario zijn open en te belopen met aangelijnde hond. Van april tot en met september zijn de velden zelf omheind en alleen toegankelijk met een betaalde rondleiding (geen honden binnen), maar in de winter zijn de steenrijen vrij toegankelijk en oogt de heide wild en verlaten.",
+          "descriptionIt": "I sentieri che circondano i campi recintati di menhir di Menec e Kermario sono aperti e percorribili con il cane al guinzaglio. Da aprile a settembre compresi i campi stessi sono recintati e accessibili solo con visita guidata a pagamento (niente cani dentro), ma in inverno gli allineamenti sono liberamente accessibili e la brughiera appare selvaggia e deserta.",
           "offLeashAreaDe": "Keine. Leinenpflicht auf den Umgehungswegen ganzjährig",
           "offLeashAreaNl": "Geen. Aanlijnplicht op de omleidingspaden het hele jaar",
+          "offLeashAreaIt": "Nessuna. Guinzaglio obbligatorio sui sentieri perimetrali tutto l'anno",
           "tipDe": "Besuchen Sie Oktober bis März für kostenlosen, unbewachten Zugang und ruhige Wege, ideal für einen langen angeleinten Spaziergang.",
-          "tipNl": "Bezoek oktober tot en met maart voor gratis, onbewaakte toegang en rustige paden, ideaal voor een lange aangelijnde wandeling."
+          "tipNl": "Bezoek oktober tot en met maart voor gratis, onbewaakte toegang en rustige paden, ideaal voor een lange aangelijnde wandeling.",
+          "tipIt": "Visita da ottobre a marzo compresi per un accesso gratuito e non sorvegliato e sentieri tranquilli, ideale per una lunga passeggiata al guinzaglio."
         },
         {
           "name": "Tumulus Saint-Michel & surrounding paths",
@@ -310,10 +344,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Tumulus+Saint-Michel+Carnac",
           "descriptionDe": "Der größte Grabhügel des europäischen Festlands liegt am Rand von Carnac-Ville; sein Gipfel und die Orientierungstafel bieten ein Panorama über die Stadt und die Bucht von Quiberon. Die inneren Grabkammern sind geschlossen, aber das Äußere, der Gipfel und die bewaldeten Wege ringsum sind für angeleinte Hunde geöffnet. ",
           "descriptionNl": "De grootste grafheuvel van het Europese vasteland ligt aan de rand van Carnac-Ville; de top en het oriëntatiebord bieden een panorama over de stad en de baai van Quiberon. De binnenste grafkamers zijn gesloten, maar het buitenste deel, de top en de beboste paden eromheen zijn open voor aangelijnde honden.",
+          "descriptionIt": "Il tumulo funerario piu grande dell'Europa continentale si trova ai margini di Carnac-Ville; la cima e il pannello panoramico offrono un panorama sulla citta e sulla baia di Quiberon. Le camere funerarie interne sono chiuse, ma la parte esterna, la cima e i sentieri boscosi attorno sono aperti ai cani al guinzaglio.",
           "offLeashAreaDe": "Keine. Hunde auf dem Hügel und den Wegen angeleint halten",
           "offLeashAreaNl": "Geen. Houd honden aangelijnd op de heuvel en de paden",
+          "offLeashAreaIt": "Nessuna. Tieni i cani al guinzaglio sulla collina e sui sentieri",
           "tipDe": "Kombinieren Sie dies mit einem Spaziergang zu den nahen Steinreihenfeldern für eine einfache autofreie Morgenrunde.",
-          "tipNl": "Combineer dit met een wandeling naar de nabijgelegen steenrijenvelden voor een eenvoudige autoloze ochtendronde."
+          "tipNl": "Combineer dit met een wandeling naar de nabijgelegen steenrijenvelden voor een eenvoudige autoloze ochtendronde.",
+          "tipIt": "Abbina questa tappa a una passeggiata verso i vicini campi di allineamenti per un giro mattutino semplice e senza auto."
         }
       ],
       "tipsEn": [
@@ -378,8 +415,10 @@
       ],
       "titleDe": "Hundespaziergänge und Grünflächen in Carnac",
       "titleNl": "Hondenwandelingen en groene ruimtes in Carnac",
+      "titleIt": "Passeggiate per cani e spazi verdi a Carnac",
       "introDe": "Die besten Hundespaziergänge in Carnac finden sich nicht in formellen Parks, sondern entlang des Küstenwegs (GR34) und der Kiefern- und Heidepfade neben den berühmten Steinreihen. Hunde sind auf diesen Routen ganzjährig willkommen, solange sie angeleint bleiben, was die Regel auf dem GR34 und den Umgehungswegen um die Megalithfelder ist. Die Nebensaison (Oktober bis März) ist die entspannteste Zeit, mit deutlich weniger Menschen und freiem Zugang zu den Wegen an den Steinreihen.",
       "introNl": "De beste hondenwandelingen in Carnac vind je niet in formele parken, maar langs het kustpad (GR34) en de dennen- en heidepaden naast de beroemde steenrijen. Honden zijn het hele jaar welkom op deze routes, zolang ze aangelijnd blijven, wat de regel is op het GR34 en de omleidingspaden rond de megalietvelden. Het laagseizoen (oktober tot en met maart) is de meest ontspannen periode, met veel minder mensen en vrije toegang tot de paden bij de steenrijen.",
+      "introIt": "Le migliori passeggiate per cani a Carnac non si trovano nei parchi formali, ma lungo il sentiero costiero (GR34) e i sentieri tra pini e brughiera accanto ai famosi allineamenti di menhir. I cani sono benvenuti tutto l'anno su questi percorsi, purche restino al guinzaglio, regola valida sul GR34 e sui sentieri perimetrali attorno ai siti megalitici. La bassa stagione (ottobre-marzo compresi) e il periodo piu tranquillo, con molte meno persone e accesso libero ai sentieri vicino agli allineamenti.",
       "faqsDe": [
         {
           "q": "Wo kann ich meinen Hund in Carnac ausführen?",
@@ -398,6 +437,16 @@
         {
           "q": "Kunnen honden ergens in Carnac loslopen?",
           "a": "Nee. Honden moeten aangelijnd blijven op het GR34, op de omleidingspaden van de steenrijen en rond de Tumulus Saint-Michel. Voor loslopen op het strand moet je naar hondvriendelijke stranden op het schiereiland Quiberon."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Dove posso portare il cane a passeggio a Carnac?",
+          "a": "Il sentiero costiero GR34 da Carnac-Plage verso La Trinite-sur-Mer e i sentieri attorno agli allineamenti di menhir sono le migliori passeggiate al guinzaglio, aperte tutto l'anno. I cani non sono ammessi sulle spiagge cittadine."
+        },
+        {
+          "q": "I cani possono girare liberi da qualche parte a Carnac?",
+          "a": "No. I cani devono restare al guinzaglio sul GR34, sui sentieri perimetrali degli allineamenti e attorno al Tumulus Saint-Michel. Per girare liberi in spiaggia devi andare sulle spiagge dog-friendly della penisola di Quiberon."
         }
       ]
     },
@@ -524,8 +573,10 @@
       ],
       "titleDe": "Mit Hund in Carnac unterwegs",
       "titleNl": "Met hond onderweg in Carnac",
+      "titleIt": "Viaggiare con il cane a Carnac",
       "introDe": "Carnac ist kompakt und lässt sich mit Hund am besten zu Fuß oder mit dem Rad erkunden, doch die weitere Bucht von Quiberon ist gut mit Zug und Bus erreichbar. Der nächste Bahnknotenpunkt ist Auray, von wo aus im Sommer der saisonale Tire-Bouchon-Zug nach Quiberon fährt; regionale TER-Züge und Busse befördern Hunde nach klaren SNCF-Regeln. Für Hunde über 6 kg ist in TER-Zügen ein Maulkorb Pflicht, packen Sie also selbst für eine kurze Fahrt einen ein.",
       "introNl": "Carnac is compact en verken je met hond het best te voet of per fiets, maar de bredere baai van Quiberon is goed bereikbaar met trein en bus. Het dichtstbijzijnde treinknooppunt is Auray, van waaruit in de zomer de seizoensgebonden Tire-Bouchon-trein naar Quiberon rijdt; regionale TER-treinen en bussen vervoeren honden volgens duidelijke SNCF-regels. Voor honden boven de 6 kg is een muilkorf verplicht in TER-treinen, pak er dus zelf een in, ook voor een korte rit.",
+      "introIt": "Carnac e compatta e si esplora meglio con il cane a piedi o in bici, ma l'ampia baia di Quiberon e ben servita da treno e autobus. Lo snodo ferroviario piu vicino e Auray, da dove d'estate parte il treno stagionale Tire-Bouchon per Quiberon; i treni regionali TER e gli autobus trasportano i cani secondo regole SNCF chiare. Per i cani sopra i 6 kg la museruola e obbligatoria sui treni TER, portane sempre una, anche per un tragitto breve.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund im Tire-Bouchon-Zug nach Quiberon mitnehmen?",
@@ -553,6 +604,20 @@
           "q": "Hoe kom ik met het openbaar vervoer en hond in Carnac?",
           "a": "Neem met jouw hond een TER-trein naar Auray (ongeveer 13 km van Carnac) en reis daarna verder met de BreizhGo-bus of taxi. In de zomer kun je ook de Tire-Bouchon-lijn richting Quiberon nemen om de baai te verkennen."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane sul treno Tire-Bouchon per Quiberon?",
+          "a": "Si. Il Tire-Bouchon e una linea TER-BreizhGo, quindi valgono le regole SNCF: i cani piccoli in trasportino viaggiano gratis con un biglietto da 0 EUR, i cani piu grandi hanno bisogno di museruola e di un biglietto animale ridotto che costa al massimo 7 EUR. Circola da giugno a settembre compresi."
+        },
+        {
+          "q": "Serve la museruola per il mio cane sui treni bretoni?",
+          "a": "Si, per i cani sopra i 6 kg la museruola e obbligatoria sui treni TER, tranne per i cani guida e da assistenza. I cani sotto i 6 kg viaggiano in trasportino e non ne hanno bisogno."
+        },
+        {
+          "q": "Come mi sposto con i mezzi pubblici e il cane a Carnac?",
+          "a": "Prendi un treno TER con il tuo cane fino ad Auray (circa 13 km da Carnac) e poi prosegui con l'autobus BreizhGo o il taxi. In estate puoi anche prendere la linea Tire-Bouchon verso Quiberon per esplorare la baia."
+        }
       ]
     },
     "beaches": {
@@ -574,18 +639,21 @@
           "descriptionPt": "Uma praia que admite cães na península de Quiberon, onde os cães são bem-vindos durante todo o ano, uma opção rara numa zona em que a maioria das praias os proíbe. Mantenha o seu cão preso à trela perto de outros banhistas e consulte a sinalização no local para conhecer as condições locais.",
           "descriptionDe": "Ein für Hunde zugelassener Strand auf der Halbinsel Quiberon, an dem Hunde ganzjährig willkommen sind, eine seltene Option in einer Gegend, in der die meisten Strände sie verbieten. Halten Sie Ihren Hund in der Nähe anderer Strandbesucher angeleint und beachten Sie die Beschilderung vor Ort für lokale Bedingungen.",
           "descriptionNl": "Een voor honden toegelaten strand op het schiereiland Quiberon, waar honden het hele jaar welkom zijn, een zeldzame optie in een gebied waar de meeste stranden ze verbieden. Houd jouw hond aangelijnd in de buurt van andere strandbezoekers en let op de lokale bebording voor de plaatselijke voorwaarden.",
+          "descriptionIt": "Una spiaggia che ammette cani sulla penisola di Quiberon, dove i cani sono benvenuti tutto l'anno, un'opzione rara in una zona dove la maggior parte delle spiagge li vieta. Tieni il tuo cane al guinzaglio vicino agli altri bagnanti e controlla la segnaletica locale per le condizioni specifiche.",
           "season": "Year-round",
           "seasonFr": "Toute l'année",
           "seasonEs": "Todo el año",
           "seasonPt": "Todo o ano",
           "seasonDe": "Ganzjährig",
           "seasonNl": "Het hele jaar",
+          "seasonIt": "Tutto l'anno",
           "rules": "Dogs allowed year-round. Keep leashed near crowds and clean up after your dog; protected dune areas are off-limits.",
           "rulesFr": "Chiens autorisés toute l'année. Gardez-les en laisse près des foules et ramassez leurs déjections ; les zones dunaires protégées sont interdites d'accès.",
           "rulesEs": "Perros permitidos todo el año. Manténgalos atados cerca de las multitudes y recoja sus excrementos; las zonas dunares protegidas están vedadas.",
           "rulesPt": "Cães permitidos durante todo o ano. Mantenha-os presos à trela perto de multidões e recolha os dejetos; as zonas dunares protegidas são interditas.",
           "rulesDe": "Hunde ganzjährig erlaubt. Halten Sie sie in der Nähe von Menschenmengen angeleint und entfernen Sie die Hinterlassenschaften; geschützte Dünenbereiche sind gesperrt.",
           "rulesNl": "Honden het hele jaar toegestaan. Houd ze aangelijnd in de buurt van drukte en ruim de uitwerpselen op; beschermde duingebieden zijn afgesloten.",
+          "rulesIt": "Cani ammessi tutto l'anno. Tienili al guinzaglio vicino alla folla e raccogli gli escrementi; le zone dunali protette sono chiuse.",
           "facilities": "Limited. Bring water for your dog and your own bags",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Lizeau+Quiberon",
           "photo": ""
@@ -599,18 +667,21 @@
           "descriptionPt": "Dois trechos vizinhos que admitem cães na costa de Quiberon, onde os cães podem ir durante todo o ano, oferecendo o tempo de areia e banho que a própria Carnac não oferece. A mais selvagem Côte Sauvage nas proximidades tem correntes fortes, por isso mantenha os cães na areia mais calma do lado da baía.",
           "descriptionDe": "Zwei benachbarte, für Hunde zugelassene Abschnitte an der Küste von Quiberon, an denen Hunde ganzjährig erlaubt sind und die die Sand- und Badezeit bieten, die Carnac selbst nicht hat. Die wildere Côte Sauvage in der Nähe hat starke Strömungen, halten Sie Hunde daher auf dem ruhigeren Sand an der Buchtseite.",
           "descriptionNl": "Twee aangrenzende, voor honden toegelaten stukken aan de kust van Quiberon, waar honden het hele jaar zijn toegestaan en die de zand- en zwemtijd bieden die Carnac zelf niet heeft. De wildere Côte Sauvage vlakbij heeft sterke stromingen, houd honden dus aan het rustigere zand aan de baaikant.",
+          "descriptionIt": "Due tratti adiacenti che ammettono cani sulla costa di Quiberon, dove i cani sono ammessi tutto l'anno e che offrono il tempo di sabbia e nuotata che Carnac stessa non ha. La piu selvaggia Cote Sauvage vicina ha correnti forti, quindi tieni i cani sulla sabbia piu calma sul lato baia.",
           "season": "Year-round",
           "seasonFr": "Toute l'année",
           "seasonEs": "Todo el año",
           "seasonPt": "Todo o ano",
           "seasonDe": "Ganzjährig",
           "seasonNl": "Het hele jaar",
+          "seasonIt": "Tutto l'anno",
           "rules": "Dogs allowed year-round. Leash near other people; avoid the Côte Sauvage surf zones where currents are dangerous.",
           "rulesFr": "Chiens autorisés toute l'année. En laisse à proximité d'autres personnes ; évitez les zones de surf de la Côte Sauvage où les courants sont dangereux.",
           "rulesEs": "Perros permitidos todo el año. Con correa cerca de otras personas; evite las zonas de surf de la Côte Sauvage, donde las corrientes son peligrosas.",
           "rulesPt": "Cães permitidos durante todo o ano. Com trela perto de outras pessoas; evite as zonas de surf da Côte Sauvage, onde as correntes são perigosas.",
           "rulesDe": "Hunde ganzjährig erlaubt. In der Nähe anderer Personen angeleint; meiden Sie die Surfzonen der Côte Sauvage, wo die Strömungen gefährlich sind.",
           "rulesNl": "Honden het hele jaar toegestaan. Aangelijnd in de buurt van andere mensen; vermijd de surfzones van de Côte Sauvage, waar de stromingen gevaarlijk zijn.",
+          "rulesIt": "Cani ammessi tutto l'anno. Al guinzaglio vicino ad altre persone; evita le zone di surf della Cote Sauvage, dove le correnti sono pericolose.",
           "facilities": "Limited. No dedicated dog facilities; carry water and bags",
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Drehen+Quiberon",
           "photo": ""
@@ -624,18 +695,21 @@
           "descriptionPt": "Uma pequena praia abrigada que admite cães perto de Port Maria, onde os cães são bem-vindos durante todo o ano, prática para um mergulho rápido depois de explorar o porto. É mais calma do que as praias expostas ao oceano, o que convém a cães pouco habituados ao mar.",
           "descriptionDe": "Ein kleiner, geschützter, für Hunde zugelassener Strand nahe Port Maria, an dem Hunde ganzjährig willkommen sind, praktisch für einen kurzen Sprung ins Wasser nach der Erkundung des Hafens. Er ist ruhiger als die offenen Ozeanstrände, was für Hunde geeignet ist, die das Meer noch nicht kennen.",
           "descriptionNl": "Een klein, beschut, voor honden toegelaten strand vlak bij Port Maria, waar honden het hele jaar welkom zijn, handig voor een korte duik na het verkennen van de haven. Het is rustiger dan de open oceaanstranden, wat geschikt is voor honden die de zee nog niet kennen.",
+          "descriptionIt": "Una piccola spiaggia riparata che ammette cani vicino a Port Maria, dove i cani sono benvenuti tutto l'anno, comoda per un tuffo veloce dopo aver esplorato il porto. E piu tranquilla delle spiagge oceaniche aperte, adatta ai cani che non conoscono ancora il mare.",
           "season": "Year-round",
           "seasonFr": "Toute l'année",
           "seasonEs": "Todo el año",
           "seasonPt": "Todo o ano",
           "seasonDe": "Ganzjährig",
           "seasonNl": "Het hele jaar",
+          "seasonIt": "Tutto l'anno",
           "rules": "Dogs allowed year-round. Keep leashed in the busy harbour area and pick up after your dog.",
           "rulesFr": "Chiens autorisés toute l'année. Gardez-les en laisse dans la zone animée du port et ramassez leurs déjections.",
           "rulesEs": "Perros permitidos todo el año. Manténgalos atados en la concurrida zona del puerto y recoja los excrementos.",
           "rulesPt": "Cães permitidos durante todo o ano. Mantenha-os presos à trela na movimentada zona do porto e recolha os dejetos.",
           "rulesDe": "Hunde ganzjährig erlaubt. Halten Sie sie im belebten Hafenbereich angeleint und entfernen Sie die Hinterlassenschaften.",
           "rulesNl": "Honden het hele jaar toegestaan. Houd ze aangelijnd in het drukke havengebied en ruim de uitwerpselen op.",
+          "rulesIt": "Cani ammessi tutto l'anno. Tienili al guinzaglio nella zona affollata del porto e raccogli gli escrementi.",
           "facilities": "Harbour amenities nearby in Port Maria",
           "googleMapsUrl": "https://maps.google.com/?q=Port+Puns+Quiberon",
           "photo": ""
@@ -683,8 +757,10 @@
       ],
       "titleDe": "Hundefreundliche Strände bei Carnac",
       "titleNl": "Hondvriendelijke stranden bij Carnac",
+      "titleIt": "Spiagge dog-friendly vicino a Carnac",
       "introDe": "Dies ist die wichtigste Regel vor Ihrer Reise: Carnac verbietet Hunde an seinen eigenen Stränden ganzjährig, einschließlich der Grande Plage, der Plage de Saint-Colomban, der Plage de Légenèse, Goviro und Porigo, ohne saisonale Ausnahme außer für registrierte Blindenführ- und Assistenzhunde. Damit Ihr Hund an den Sand darf, müssen Sie eine kurze Strecke zur Halbinsel Quiberon fahren, wo mehrere Strände wie Lizeau, Drehen und La Jument Hunde ganzjährig erlauben. Die Nebensaison bleibt für leere Küstenweg-Spaziergänge ein Vorteil, doch das eigentliche Baden mit Hund muss außerhalb von Carnac selbst stattfinden.",
       "introNl": "Dit is de belangrijkste regel voor je vertrek: Carnac verbiedt honden op de eigen stranden het hele jaar, inclusief de Grande Plage, de Plage de Saint-Colomban, de Plage de Légenèse, Goviro en Porigo, zonder seizoensuitzondering behalve voor geregistreerde geleide- en assistentiehonden. Om jouw hond op het zand te krijgen, moet je een kort stuk rijden naar het schiereiland Quiberon, waar meerdere stranden zoals Lizeau, Drehen en La Jument honden het hele jaar toestaan. Het laagseizoen blijft een voordeel voor lege kustpadwandelingen, maar het echte zwemmen met hond moet buiten Carnac zelf plaatsvinden.",
+      "introIt": "Questa e la regola piu importante prima di partire: Carnac vieta i cani sulle proprie spiagge tutto l'anno, incluse Grande Plage, Plage de Saint-Colomban, Plage de Legenese, Goviro e Porigo, senza eccezioni stagionali tranne per cani guida e da assistenza registrati. Per portare il tuo cane sulla sabbia, devi fare un breve tragitto in auto verso la penisola di Quiberon, dove diverse spiagge come Lizeau, Drehen e La Jument ammettono cani tutto l'anno. La bassa stagione resta un vantaggio per le passeggiate sul sentiero costiero deserte, ma il vero momento di nuoto con il cane deve avvenire fuori da Carnac stessa.",
       "faqsDe": [
         {
           "q": "Sind Hunde an den Stränden von Carnac erlaubt?",
@@ -703,6 +779,16 @@
         {
           "q": "Waar mag mijn hond bij Carnac het zand op?",
           "a": "Rij naar het schiereiland Quiberon (ongeveer 25 tot 30 minuten), waar stranden zoals Lizeau, Drehen, La Jument en Port Puns honden het hele jaar toestaan. Dat zijn de dichtstbijzijnde plekken waar jouw hond echt het strand op mag."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani sono ammessi sulle spiagge di Carnac?",
+          "a": "No. Carnac vieta i cani su tutte le sue spiagge, comprese Grande Plage, Saint-Colomban e Legenese, tutto l'anno, senza eccezione stagionale d'estate. Sono ammessi solo cani guida e da assistenza registrati."
+        },
+        {
+          "q": "Dove puo andare il mio cane in spiaggia vicino a Carnac?",
+          "a": "Guida verso la penisola di Quiberon (circa 25-30 minuti), dove spiagge come Lizeau, Drehen, La Jument e Port Puns ammettono cani tutto l'anno. Sono i posti piu vicini dove il tuo cane puo davvero andare in spiaggia."
         }
       ]
     },
@@ -753,10 +839,13 @@
           "photo": "",
           "hoursDe": "Mo-Sa nach Terminvereinbarung; nachts geschlossen (Öffnungszeiten telefonisch erfragen)",
           "hoursNl": "Ma-za op afspraak; 's nachts gesloten (openingstijden telefonisch navragen)",
+          "hoursIt": "Lun-sab su appuntamento; chiuso di notte (verificare gli orari per telefono)",
           "descriptionDe": "Die einzige Tierarztpraxis in Carnac, geführt von einem kleinen Team, das Allgemeinmedizin, Chirurgie, digitale Radiologie, Ultraschall und Labordiagnostik anbietet. Dies ist Ihre erste Anlaufstelle für Routine- und Tagesversorgung während Ihres Aufenthalts im Ort. ",
           "descriptionNl": "De enige dierenartspraktijk in Carnac, geleid door een klein team dat algemene geneeskunde, chirurgie, digitale radiologie, echografie en labdiagnostiek aanbiedt. Dit is jouw eerste aanspreekpunt voor routine- en dagelijkse zorg tijdens jouw verblijf ter plekke.",
+          "descriptionIt": "L'unico studio veterinario a Carnac, gestito da un piccolo team che offre medicina generale, chirurgia, radiologia digitale, ecografia e diagnostica di laboratorio. E il tuo primo punto di riferimento per le cure di routine e quotidiane durante il soggiorno in loco.",
           "tipDe": "Rufen Sie im Voraus für einen Termin an, besonders in der Hochsaison im Sommer, wenn die Praxis viel zu tun hat.",
-          "tipNl": "Bel van tevoren voor een afspraak, zeker in het drukke hoogseizoen in de zomer."
+          "tipNl": "Bel van tevoren voor een afspraak, zeker in het drukke hoogseizoen in de zomer.",
+          "tipIt": "Chiama in anticipo per un appuntamento, soprattutto nell'alta stagione estiva molto frequentata."
         },
         {
           "name": "Maison des Urgences Vétérinaires d'Auray",
@@ -781,10 +870,13 @@
           "photo": "",
           "hoursDe": "Wochentags abends 20:00-08:00 Uhr; Sa ab 13:00 Uhr; So & Feiertage 24 Stunden",
           "hoursNl": "Doordeweeks 's avonds 20:00-08:00 uur; za vanaf 13:00 uur; zo & feestdagen 24 uur",
+          "hoursIt": "Nei giorni feriali sera 20:00-08:00; sab dalle 13:00; dom e festivi 24 ore",
           "descriptionDe": "Eine spezialisierte Notfallklinik etwa 13 km von Carnac entfernt, die Nächte, Wochenenden und Feiertage abdeckt, wenn örtliche Praxen geschlossen sind. Rufen Sie vor der Fahrt an, damit man sich auf Ihre Ankunft vorbereiten kann. ",
           "descriptionNl": "Een gespecialiseerde spoedkliniek op ongeveer 13 km van Carnac, die nachten, weekenden en feestdagen dekt wanneer lokale praktijken gesloten zijn. Bel voor vertrek zodat men zich kan voorbereiden op jouw komst.",
+          "descriptionIt": "Una clinica d'emergenza specializzata a circa 13 km da Carnac, che copre notti, weekend e festivi quando gli studi locali sono chiusi. Chiama prima di partire cosi possono prepararsi al tuo arrivo.",
           "tipDe": "Speichern Sie diese Nummer bei Ankunft in Ihrem Handy; sie ist Ihre Rettungsleine außerhalb der Öffnungszeiten in der Region Carnac.",
-          "tipNl": "Sla dit nummer bij aankomst op in je telefoon; het is jouw reddingslijn buiten openingstijden in de regio Carnac."
+          "tipNl": "Sla dit nummer bij aankomst op in je telefoon; het is jouw reddingslijn buiten openingstijden in de regio Carnac.",
+          "tipIt": "Salva questo numero sul telefono all'arrivo; e la tua ancora di salvezza fuori orario nella zona di Carnac."
         },
         {
           "name": "Clinique Vétérinaire du Loch (Sevetys)",
@@ -809,10 +901,13 @@
           "photo": "",
           "hoursDe": "Mo-Sa nach Terminvereinbarung (telefonisch bestätigen)",
           "hoursNl": "Ma-za op afspraak (telefonisch bevestigen)",
+          "hoursIt": "Lun-sab su appuntamento (confermare per telefono)",
           "descriptionDe": "Eine größere Tierarztpraxis in Auray, nützlich als tägliche Ausweichmöglichkeit, wenn die Praxis in Carnac ausgebucht ist. Auray verfügt über mehrere Praxen und bietet somit mehr Tagesoptionen etwa 13 km vom Ferienort entfernt. ",
           "descriptionNl": "Een grotere dierenartspraktijk in Auray, handig als dagelijks alternatief wanneer de praktijk in Carnac volgeboekt is. Auray heeft meerdere praktijken en biedt dus meer opties overdag, op ongeveer 13 km van het vakantieoord.",
+          "descriptionIt": "Uno studio veterinario piu grande ad Auray, comodo come alternativa quotidiana quando lo studio di Carnac e al completo. Auray ha diversi studi e offre quindi piu opzioni durante il giorno, a circa 13 km dalla localita.",
           "tipDe": "Rufen Sie vorher an, um die Öffnungszeiten zu bestätigen und sicherzustellen, dass ein Besuchertier an diesem Tag untersucht werden kann.",
-          "tipNl": "Bel van tevoren om de openingstijden te bevestigen en te zorgen dat een bezoekend dier die dag onderzocht kan worden."
+          "tipNl": "Bel van tevoren om de openingstijden te bevestigen en te zorgen dat een bezoekend dier die dag onderzocht kan worden.",
+          "tipIt": "Chiama in anticipo per confermare gli orari e assicurarti che un animale in visita possa essere visitato quel giorno."
         }
       ],
       "faqsEn": [
@@ -857,8 +952,10 @@
       ],
       "titleDe": "Tierärzte und Notfälle in Carnac",
       "titleNl": "Dierenartsen en spoedgevallen in Carnac",
+      "titleIt": "Veterinari ed emergenze a Carnac",
       "introDe": "Carnac hat eine Tierarztpraxis im Ort, und für Nächte, Sonntage und Feiertage befindet sich der regionale Notdienst eine kurze Fahrt entfernt in Auray. Speichern Sie beide Nummern vor Ihrer Reise, und beachten Sie, dass die Versorgung außerhalb der Öffnungszeiten eine Fahrt nach Auray bedeutet, etwa 13 km entfernt. Frankreich ist Teil des EU-Haustierreiseprogramms, ein EU-Heimtierausweis, Mikrochip und gültige Tollwutimpfung decken die Einreise ab.",
       "introNl": "Carnac heeft ter plekke een dierenartspraktijk, en voor nachten, zondagen en feestdagen ligt de regionale spoeddienst een korte rit verderop in Auray. Sla beide nummers op voor je vertrek, en houd er rekening mee dat zorg buiten openingstijden een rit naar Auray betekent, ongeveer 13 km verderop. Frankrijk maakt deel uit van het EU-huisdierreisprogramma, een EU-dierenpaspoort, microchip en geldige rabiesvaccinatie dekken de binnenkomst.",
+      "introIt": "Carnac ha uno studio veterinario in loco, e per notti, domeniche e festivi il servizio di emergenza regionale si trova a breve distanza ad Auray. Salva entrambi i numeri prima di partire, e tieni presente che le cure fuori orario significano un tragitto verso Auray, a circa 13 km. La Francia fa parte del programma UE di viaggio per animali, un passaporto UE per animali, un microchip e una vaccinazione antirabbica valida coprono l'ingresso.",
       "faqsDe": [
         {
           "q": "Gibt es einen Tierarzt in Carnac?",
@@ -877,6 +974,16 @@
         {
           "q": "Wat heb ik nodig om mijn hond mee te nemen naar Frankrijk?",
           "a": "Vanuit de EU heb je een EU-dierenpaspoort, een microchip en een actuele rabiesvaccinatie nodig. Bezoekers van buiten de EU en uit het Verenigd Koninkrijk hebben een EU-diergezondheidscertificaat nodig, plus microchip en rabiesvaccinatie."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'e un veterinario a Carnac?",
+          "a": "Si, la Clinique Veterinaire St Michel al 9 Avenue du Rahic e l'unico studio in loco, raggiungibile al +33 2 97 52 19 33. Per notti e weekend, la Maison des Urgences Veterinaires d'Auray (+33 2 30 17 03 53) prende in carico le emergenze, a circa 13 km di distanza."
+        },
+        {
+          "q": "Cosa mi serve per portare il mio cane in Francia?",
+          "a": "Dall'UE ti serve un passaporto UE per animali, un microchip e una vaccinazione antirabbica aggiornata. I visitatori da fuori UE e dal Regno Unito hanno bisogno di un certificato sanitario UE per animali, oltre a microchip e vaccinazione antirabbica."
         }
       ]
     },
@@ -1014,8 +1121,10 @@
       ],
       "titleDe": "Praktische Tipps für einen Besuch in Carnac mit Hund",
       "titleNl": "Praktische tips voor een bezoek aan Carnac met hond",
+      "titleIt": "Consigli pratici per visitare Carnac con il cane",
       "introDe": "Carnac ist ein wunderbares Reiseziel am Atlantik mit kühlen Sommern für Hunde, hat aber einen großen Haken: Die Stadtstrände sind ganzjährig für Hunde tabu, eine erfolgreiche Reise bedeutet also, die Strandzeit rund um die Halbinsel Quiberon zu planen und die Besichtigungen um angeleinte Küstenweg- und Megalith-Spaziergänge herum. Das milde, windige bretonische Klima ist selbst im Juli und August sanft zu Hunden.",
       "introNl": "Carnac is een prachtige bestemming aan de Atlantische kust met koele zomers voor honden, maar heeft een grote valkuil: de stadsstranden zijn het hele jaar verboden terrein voor honden, een geslaagde reis betekent dus het plannen van strandtijd rond het schiereiland Quiberon en het inrichten van de bezichtigingen rond aangelijnde kustpad- en megalietwandelingen. Het milde, winderige Bretonse klimaat is zelfs in juli en augustus zacht voor honden.",
+      "introIt": "Carnac e una splendida meta sulla costa atlantica con estati fresche per i cani, ma ha un grande punto debole: le spiagge cittadine sono vietate ai cani tutto l'anno, quindi un viaggio riuscito significa pianificare il tempo di spiaggia attorno alla penisola di Quiberon e organizzare le visite attorno a passeggiate al guinzaglio sul sentiero costiero e tra i megaliti. Il clima bretone mite e ventoso e piacevole per i cani anche a luglio e agosto.",
       "faqsDe": [
         {
           "q": "Ist Carnac ein gutes Reiseziel für Hunde?",
@@ -1042,6 +1151,20 @@
         {
           "q": "Wat is de belangrijkste regel voor hondenbezitters in Carnac?",
           "a": "Honden zijn op alle stranden van Carnac het hele jaar verboden. Plan jouw zand- en zwemtijd in plaats daarvan op het schiereiland Quiberon, waar meerdere stranden honden het hele jaar toestaan."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Carnac e una buona meta per i cani?",
+          "a": "Si, per passeggiate fresche sul sentiero costiero e visite ai megaliti d'estate, ma con una riserva importante: le spiagge cittadine vietano i cani tutto l'anno, quindi le giornate di spiaggia richiedono un breve tragitto verso la penisola di Quiberon."
+        },
+        {
+          "q": "Qual e il periodo migliore per visitare Carnac con il cane?",
+          "a": "Da ottobre a marzo compresi, quando gli allineamenti sono accessibili gratis e senza sorveglianza, il GR34 e tranquillo e non c'e folla. L'estate e piu calda, ma gli allineamenti sono recintati (solo con visita guidata) e resta il divieto in spiaggia."
+        },
+        {
+          "q": "Qual e la regola piu importante per i proprietari di cani a Carnac?",
+          "a": "I cani sono vietati su tutte le spiagge di Carnac tutto l'anno. Pianifica invece il tempo di sabbia e nuoto sulla penisola di Quiberon, dove diverse spiagge ammettono cani tutto l'anno."
         }
       ]
     },
@@ -1079,12 +1202,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Alignements+de+Carnac",
           "descriptionDe": "Die weltweit größte Ansammlung von Menhiren, mit mehr als 3.000 Steinen in langen parallelen Reihen über die Felder von Ménec, Kermario und Kerlescan verteilt. Angeleinte Hunde können die Außenwege und Aussichtspunkte begehen; von April bis September sind die eingezäunten Innenbereiche nur mit kostenpflichtiger Führung einsehbar, ohne Hunde im Inneren. ",
           "descriptionNl": "De grootste verzameling menhirs ter wereld, met meer dan 3.000 stenen in lange parallelle rijen verspreid over de velden van Ménec, Kermario en Kerlescan. Aangelijnde honden kunnen de buitenpaden en uitzichtpunten belopen; van april tot en met september zijn de omheinde binnengebieden alleen te bezichtigen met een betaalde rondleiding, zonder honden binnen.",
+          "descriptionIt": "La piu grande collezione di menhir al mondo, con oltre 3.000 pietre disposte in lunghe file parallele sui campi di Menec, Kermario e Kerlescan. I cani al guinzaglio possono percorrere i sentieri esterni e i punti panoramici; da aprile a settembre compresi le aree interne recintate si visitano solo con tour guidato a pagamento, senza cani dentro.",
           "dogPolicyDe": "Angeleinte Hunde nur auf den Umgehungswegen; nicht innerhalb der eingezäunten Felder Apr-Sep",
           "dogPolicyNl": "Aangelijnde honden alleen op de omleidingspaden; niet binnen de omheinde velden apr-sep",
+          "dogPolicyIt": "Cani al guinzaglio solo sui sentieri perimetrali; non dentro i campi recintati apr-set",
           "admissionFeeDe": "Kostenlos auf den Außenwegen; Führungen durch die Felder sind kostenpflichtig",
           "admissionFeeNl": "Gratis op de buitenpaden; rondleidingen door de velden zijn betaald",
+          "admissionFeeIt": "Gratis sui sentieri esterni; i tour guidati nei campi sono a pagamento",
           "tipDe": "Kommen Sie im Winter für kostenlosen, unbewachten Zugang; im Sommer buchen Sie die Führung und lassen den Hund bei einem Betreuer oder im Schatten.",
-          "tipNl": "Kom in de winter voor gratis, onbewaakte toegang; boek in de zomer de rondleiding en laat de hond bij een oppasser of in de schaduw."
+          "tipNl": "Kom in de winter voor gratis, onbewaakte toegang; boek in de zomer de rondleiding en laat de hond bij een oppasser of in de schaduw.",
+          "tipIt": "Vieni d'inverno per l'accesso gratuito e senza sorveglianza; d'estate prenota il tour e lascia il cane con un sitter o all'ombra."
         },
         {
           "name": "Tumulus Saint-Michel",
@@ -1110,12 +1237,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Tumulus+Saint-Michel+Carnac",
           "descriptionDe": "Der größte Grabhügel des europäischen Festlands, ein grasbewachsener Hügel mit einer kleinen Kapelle, einer Orientierungstafel und einem weiten Blick über Carnac und die Bucht von Quiberon. Die inneren Grabkammern sind geschlossen, aber das Äußere und der Gipfel sind für angeleinte Hunde geöffnet. ",
           "descriptionNl": "De grootste grafheuvel van het Europese vasteland, een begroeide heuvel met een klein kapelletje, een oriëntatiebord en een wijds uitzicht over Carnac en de baai van Quiberon. De binnenste grafkamers zijn gesloten, maar het buitenste deel en de top zijn open voor aangelijnde honden.",
+          "descriptionIt": "Il tumulo funerario piu grande dell'Europa continentale, una collina coperta di vegetazione con una piccola cappella, un pannello panoramico e un'ampia vista su Carnac e sulla baia di Quiberon. Le camere funerarie interne sono chiuse, ma la parte esterna e la cima sono aperte ai cani al guinzaglio.",
           "dogPolicyDe": "Angeleinte Hunde auf dem Äußeren und dem Gipfel willkommen",
           "dogPolicyNl": "Aangelijnde honden welkom op het buitenste deel en de top",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti sulla parte esterna e in cima",
           "admissionFeeDe": "Kostenlos, das Äußere zu besteigen",
           "admissionFeeNl": "Gratis om het buitenste deel te beklimmen",
+          "admissionFeeIt": "Gratis per salire sulla parte esterna",
           "tipDe": "Es ist ein kurzer, steiler Aufstieg; gehen Sie zur goldenen Stunde für das beste Licht über der Bucht.",
-          "tipNl": "Het is een korte, steile beklimming; ga tijdens het gouden uur voor het beste licht boven de baai."
+          "tipNl": "Het is een korte, steile beklimming; ga tijdens het gouden uur voor het beste licht boven de baai.",
+          "tipIt": "E una salita breve e ripida; vai durante l'ora dorata per la luce migliore sulla baia."
         },
         {
           "name": "Église Saint-Cornély & old town",
@@ -1141,12 +1272,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=%C3%89glise+Saint-Corn%C3%A9ly+Carnac",
           "descriptionDe": "Die Granitkirche Saint-Cornély aus dem 17. Jahrhundert, Schutzpatron der gehörnten Tiere, prägt Carnacs Altstadt mit ihrer geschnitzten Fassade und dem kleinen umliegenden Platz mit Geschäften und Crêperien. Sie können mit Ihrem angeleinten Hund durch die Gassen schlendern und die Kirchenfassade bewundern, wobei Hunde die Kirche selbst nicht betreten dürfen. ",
           "descriptionNl": "De granieten kerk Saint-Cornély uit de 17e eeuw, patroonheilige van gehoornde dieren, bepaalt het beeld van Carnacs oude centrum met zijn gebeeldhouwde gevel en het kleine plein eromheen met winkels en crêperies. Je kunt met jouw aangelijnde hond door de straatjes slenteren en de kerkgevel bewonderen, waarbij honden de kerk zelf niet in mogen.",
+          "descriptionIt": "La chiesa granitica di Saint-Cornely del XVII secolo, patrono degli animali con corna, definisce l'immagine del centro storico di Carnac con la sua facciata scolpita e la piccola piazza circostante con negozi e creperie. Puoi passeggiare con il tuo cane al guinzaglio per le viuzze e ammirare la facciata della chiesa, mentre i cani non possono entrare nella chiesa stessa.",
           "dogPolicyDe": "Angeleinte Hunde in Gassen und auf dem Platz; nicht in der Kirche",
           "dogPolicyNl": "Aangelijnde honden in de straatjes en op het plein; niet in de kerk",
+          "dogPolicyIt": "Cani al guinzaglio nelle viuzze e in piazza; non in chiesa",
           "admissionFeeDe": "Kostenlos, die Fassade zu betrachten",
           "admissionFeeNl": "Gratis om de gevel te bekijken",
+          "admissionFeeIt": "Gratis per vedere la facciata",
           "tipDe": "Kombinieren Sie dies mit dem Samstagsmarkt für einen lebendigen hundefreundlichen Spaziergang durch die Altstadt.",
-          "tipNl": "Combineer dit met de zaterdagmarkt voor een levendige hondvriendelijke wandeling door het oude centrum."
+          "tipNl": "Combineer dit met de zaterdagmarkt voor een levendige hondvriendelijke wandeling door het oude centrum.",
+          "tipIt": "Abbina questa tappa al mercato del sabato per una passeggiata vivace e dog-friendly nel centro storico."
         }
       ],
       "tipsEn": [
@@ -1227,8 +1362,10 @@
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Carnac",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Carnac",
+      "titleIt": "Attrazioni dog-friendly a Carnac",
       "introDe": "Carnacs wichtigste Sehenswürdigkeiten sind die neolithischen Steinreihen, der große Tumulus Saint-Michel und die Granitkirche Saint-Cornély, und die meisten lassen sich mit angeleintem Hund im Freien genießen. Die entscheidende Regel betrifft die Steinreihen selbst: Von April bis September sind die Steinfelder eingezäunt und nur mit Führung zugänglich, ohne Hunde im Inneren, doch die umliegenden Wege und Aussichtspunkte bleiben ganzjährig für angeleinte Hunde geöffnet, und im Winter ist die gesamte Anlage frei begehbar.",
       "introNl": "De belangrijkste bezienswaardigheden van Carnac zijn de neolithische steenrijen, de grote Tumulus Saint-Michel en de granieten kerk Saint-Cornély, en de meeste zijn buiten te genieten met een aangelijnde hond. De cruciale regel betreft de steenrijen zelf: van april tot en met september zijn de steenvelden omheind en alleen toegankelijk met rondleiding, zonder honden binnen, maar de omliggende paden en uitzichtpunten blijven het hele jaar open voor aangelijnde honden, en in de winter is het hele terrein vrij te belopen.",
+      "introIt": "Le principali attrazioni di Carnac sono gli allineamenti neolitici, il grande Tumulus Saint-Michel e la chiesa granitica di Saint-Cornely, e la maggior parte si puo godere all'aperto con il cane al guinzaglio. La regola fondamentale riguarda gli allineamenti stessi: da aprile a settembre compresi i campi sono recintati e accessibili solo con visita guidata, senza cani dentro, ma i sentieri e i punti panoramici circostanti restano aperti tutto l'anno ai cani al guinzaglio, e d'inverno l'intero sito e liberamente percorribile.",
       "faqsDe": [
         {
           "q": "Kann ich die Steinreihen von Carnac mit meinem Hund besuchen?",
@@ -1255,6 +1392,20 @@
         {
           "q": "Zijn er binnenbezienswaardigheden in Carnac die honden toelaten?",
           "a": "De meeste bezienswaardigheden in Carnac zijn buiten en toegankelijk met aangelijnde hond. Binnenruimtes zoals de kerk Saint-Cornély en het prehistoriemuseum laten meestal geen honden toe, plan dus rond de buitenbezienswaardigheden."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso visitare gli allineamenti di Carnac con il mio cane?",
+          "a": "Puoi percorrere tutto l'anno i sentieri esterni gratuiti e i punti panoramici con il cane al guinzaglio. Da aprile a settembre compresi i campi recintati sono accessibili solo con visita guidata a pagamento, e i cani non sono ammessi dentro; d'inverno l'intero sito e liberamente accessibile."
+        },
+        {
+          "q": "I cani possono salire sul Tumulus Saint-Michel?",
+          "a": "Si, i cani al guinzaglio sono benvenuti sulla parte esterna e sulla cima della collina, che offre una bella vista su Carnac e sulla baia. Le camere funerarie interne sono chiuse a tutti."
+        },
+        {
+          "q": "Ci sono attrazioni al chiuso a Carnac che ammettono cani?",
+          "a": "La maggior parte delle attrazioni di Carnac sono all'aperto e accessibili con il cane al guinzaglio. Gli spazi interni come la chiesa di Saint-Cornely e il museo di preistoria generalmente non ammettono cani, quindi pianifica attorno alle attrazioni esterne."
         }
       ]
     },
@@ -1290,10 +1441,13 @@
           "tipPt": "Reserve com vários dias de antecedência em julho e agosto; o Morbihan rural tem menos cuidadores do que as grandes cidades.",
           "descriptionDe": "Holidog ist eine französische Plattform für Haustierpflege, die Besitzer mit Betreuern und Hundeausführern in ganz Frankreich verbindet, einschließlich des Morbihan und der Region Carnac-Auray. Sie können Tagesbetreuung, Spaziergänge oder Tierpension organisieren, nützlich für die sommerlichen Führungen an den Steinreihen, zu denen Hunde keinen Zutritt haben. Profile zeigen Bewertungen und Verifizierungen, damit Sie einen vertrauenswürdigen Betreuer wählen können. ",
           "descriptionNl": "Holidog is een Frans platform voor huisdierenoppas dat eigenaren verbindt met oppassers en hondenuitlaters door heel Frankrijk, inclusief de Morbihan en de regio Carnac-Auray. Je kunt dagopvang, wandelingen of oppas regelen, handig voor de zomerse rondleidingen bij de steenrijen waar honden geen toegang toe hebben. Profielen tonen beoordelingen en verificaties, zodat je een betrouwbare oppasser kunt kiezen.",
+          "descriptionIt": "Holidog e una piattaforma francese per la cura degli animali che collega i proprietari con sitter e dog walker in tutta la Francia, inclusa la Morbihan e la zona di Carnac-Auray. Puoi organizzare asilo diurno, passeggiate o soggiorno, comodo per i tour estivi degli allineamenti a cui i cani non hanno accesso. I profili mostrano recensioni e verifiche, cosi puoi scegliere un sitter affidabile.",
           "serviceTypeDe": "App-basierte Buchung. Hundebetreuung, Ausführen, Tierpension",
           "serviceTypeNl": "App-gebaseerd boeken. Hondenoppas, uitlaten, oppas",
+          "serviceTypeIt": "Prenotazione tramite app. Pet sitting, passeggiate, soggiorno",
           "tipDe": "Buchen Sie im Juli und August mehrere Tage im Voraus; im ländlichen Morbihan gibt es weniger Betreuer als in Großstädten.",
-          "tipNl": "Boek in juli en augustus meerdere dagen van tevoren; op het landelijke Morbihan zijn er minder oppassers dan in grote steden."
+          "tipNl": "Boek in juli en augustus meerdere dagen van tevoren; op het landelijke Morbihan zijn er minder oppassers dan in grote steden.",
+          "tipIt": "Prenota con diversi giorni di anticipo a luglio e agosto; nella Morbihan rurale ci sono meno sitter rispetto alle grandi citta."
         },
         {
           "name": "Animaute (France)",
@@ -1317,10 +1471,13 @@
           "tipPt": "Contacte dois ou três cuidadores ao mesmo tempo no verão para aumentar as hipóteses de resposta rápida.",
           "descriptionDe": "Animaute ist ein französischer Marktplatz für Hundebetreuung mit Betreuern in ganz Bretagne, auch rund um Auray und die Bucht von Quiberon. Praktisch, um eine halbtägige Betreuung zu organisieren, damit Sie an einer geführten Steinreihen-Tour teilnehmen oder ein Innenmuseum ohne Ihren Hund besuchen können. Betreuer legen ihre eigenen Preise fest, und Sie schreiben ihnen vor der Buchung direkt. ",
           "descriptionNl": "Animaute is een Franse marktplaats voor hondenoppas met oppassers door heel Bretagne, ook rond Auray en de baai van Quiberon. Handig om een halve dag oppas te regelen, zodat je een begeleide steenrijen-tour kunt volgen of een binnenmuseum kunt bezoeken zonder jouw hond. Oppassers bepalen hun eigen tarieven, en je schrijft ze rechtstreeks aan voor je boekt.",
+          "descriptionIt": "Animaute e un marketplace francese per il pet sitting con sitter in tutta la Bretagna, anche attorno ad Auray e alla baia di Quiberon. Comodo per organizzare mezza giornata di sitting, cosi puoi seguire un tour guidato degli allineamenti o visitare un museo al chiuso senza il tuo cane. I sitter fissano le proprie tariffe, e li contatti direttamente prima di prenotare.",
           "serviceTypeDe": "Online-Marktplatz. Tagesbetreuung, Spaziergänge, Tierpension",
           "serviceTypeNl": "Online marktplaats. Dagopvang, wandelingen, oppas",
+          "serviceTypeIt": "Marketplace online. Asilo diurno, passeggiate, soggiorno",
           "tipDe": "Schreiben Sie im Sommer gleichzeitig zwei oder drei Betreuer an, um Ihre Chancen auf eine schnelle Antwort zu verbessern.",
-          "tipNl": "Schrijf in de zomer twee of drie oppassers tegelijk aan om je kans op een snel antwoord te vergroten."
+          "tipNl": "Schrijf in de zomer twee of drie oppassers tegelijk aan om je kans op een snel antwoord te vergroten.",
+          "tipIt": "D'estate contatta due o tre sitter contemporaneamente per aumentare le probabilita di una risposta rapida."
         },
         {
           "name": "Rover (France)",
@@ -1344,10 +1501,13 @@
           "tipPt": "Filtre por cuidadores com experiência no tamanho do seu cão e veja as avaliações recentes antes de reservar.",
           "descriptionDe": "Rover ist eine große internationale Plattform für Haustierpflege, die auch in Frankreich tätig ist, mit Betreuern und Hundeausführern, die nach Standort im Morbihan durchsucht werden können. Überprüfte Betreuer und frühere Bewertungen machen es zu einer zuverlässigen Option für kurzfristige Betreuung während eines Strandtags auf der Halbinsel Quiberon. Die Leistungen reichen von Kurzbesuchen bis zu Übernachtpension. ",
           "descriptionNl": "Rover is een groot internationaal platform voor huisdierenoppas dat ook in Frankrijk actief is, met oppassers en hondenuitlaters die je op locatie in de Morbihan kunt doorzoeken. Gecontroleerde oppassers en eerdere beoordelingen maken het een betrouwbare optie voor kortdurende oppas tijdens een strandddag op het schiereiland Quiberon. De diensten lopen van korte bezoekjes tot logeeropvang.",
+          "descriptionIt": "Rover e una grande piattaforma internazionale per la cura degli animali attiva anche in Francia, con sitter e dog walker che puoi cercare per zona nella Morbihan. Sitter verificati e recensioni precedenti la rendono un'opzione affidabile per il sitting a breve termine durante una giornata di spiaggia sulla penisola di Quiberon. I servizi vanno dalle brevi visite al soggiorno.",
           "serviceTypeDe": "App-basierte Buchung. Kurzbesuche, Ausführen, Tierpension",
           "serviceTypeNl": "App-gebaseerd boeken. Korte bezoekjes, uitlaten, oppas",
+          "serviceTypeIt": "Prenotazione tramite app. Brevi visite, passeggiate, soggiorno",
           "tipDe": "Filtern Sie nach Betreuern mit Erfahrung mit der Größe Ihres Hundes und prüfen Sie aktuelle Bewertungen vor der Buchung.",
-          "tipNl": "Filter op oppassers met ervaring met het formaat van jouw hond en bekijk recente beoordelingen voor je boekt."
+          "tipNl": "Filter op oppassers met ervaring met het formaat van jouw hond en bekijk recente beoordelingen voor je boekt.",
+          "tipIt": "Filtra per sitter con esperienza con la taglia del tuo cane e controlla le recensioni recenti prima di prenotare."
         }
       ],
       "tipsEn": [
@@ -1428,8 +1588,10 @@
       ],
       "titleDe": "Hundebetreuung und Haustierpflege in Carnac",
       "titleNl": "Hondenoppas en huisdierenzorg in Carnac",
+      "titleIt": "Pet sitting e cura degli animali a Carnac",
       "introDe": "Da die Strände von Carnac Hunde verbieten und die sommerlichen Führungen an den Steinreihen in eingezäunte Bereiche führen, denen Hunde nicht folgen können, kann ein paar Stunden Hundebetreuung hier wirklich nützlich sein. Der zuverlässigste Weg, einen geprüften örtlichen Betreuer zu finden, führt über landesweite Plattformen, die das Morbihan und die Region Auray abdecken, wo Sie einen Kurzbesuch, einen Spaziergang oder Übernachtbetreuung buchen können. Treffen Sie den Betreuer immer vorab, teilen Sie den Tagesablauf Ihres Hundes mit und bestätigen Sie, dass er mit einem Hund umgehen kann, der die örtlichen Strände nicht nutzen darf.",
       "introNl": "Omdat de stranden van Carnac honden verbieden en de zomerse rondleidingen bij de steenrijen naar omheinde gebieden gaan waar honden niet mee kunnen, kan een paar uur hondenoppas hier echt handig zijn. De betrouwbaarste manier om een gecontroleerde lokale oppasser te vinden loopt via landelijke platforms die de Morbihan en de regio Auray dekken, waar je een kort bezoek, een wandeling of logeeropvang kunt boeken. Ontmoet de oppasser altijd van tevoren, deel het dagritme van jouw hond, en bevestig dat hij overweg kan met een hond die de lokale stranden niet mag gebruiken.",
+      "introIt": "Poiche le spiagge di Carnac vietano i cani e i tour estivi degli allineamenti portano in aree recintate dove i cani non possono entrare, qualche ora di pet sitting puo essere davvero utile qui. Il modo piu affidabile per trovare un sitter locale verificato passa per piattaforme nazionali che coprono la Morbihan e la zona di Auray, dove puoi prenotare una breve visita, una passeggiata o un soggiorno. Incontra sempre il sitter in anticipo, condividi la routine quotidiana del tuo cane, e conferma che sappia gestire un cane che non puo usare le spiagge locali.",
       "faqsDe": [
         {
           "q": "Warum könnte ich in Carnac einen Hundesitter brauchen?",
@@ -1456,6 +1618,20 @@
         {
           "q": "Hoeveel kost hondenoppas in de regio Carnac?",
           "a": "Reken afhankelijk van de dienst en de oppasser op ongeveer 15 tot 35 EUR per dag, waarbij korte bezoekjes goedkoper zijn dan logeeropvang. Bevestig de prijzen rechtstreeks met elke oppasser voor je boekt."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Perche mi servirebbe un pet sitter a Carnac?",
+          "a": "Le spiagge di Carnac vietano i cani tutto l'anno, e i tour estivi degli allineamenti portano in aree recintate dove i cani non sono ammessi, quindi qualche ora di sitting rende possibili queste esperienze mentre il tuo cane e ben accudito."
+        },
+        {
+          "q": "Come trovo un pet sitter affidabile vicino a Carnac?",
+          "a": "Usa piattaforme nazionali come Holidog, Animaute o Rover, che coprono la Morbihan e la zona di Auray. Controlla le recensioni, incontra il sitter in anticipo, e prenota con diversi giorni di anticipo a luglio e agosto."
+        },
+        {
+          "q": "Quanto costa un pet sitter nella zona di Carnac?",
+          "a": "A seconda del servizio e del sitter, considera circa 15-35 EUR al giorno, con le brevi visite piu economiche rispetto al soggiorno. Conferma i prezzi direttamente con ogni sitter prima di prenotare."
         }
       ]
     }

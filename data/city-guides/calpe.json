@@ -41,12 +41,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Abiss+Restaurante+Calpe",
           "descriptionDe": "Ein Referenzrestaurant an der Küste, am Paseo Marítimo Princesa de Asturias, mit überdachter Terrasse mit Blick auf den Peñón de Ifach. Abiss ist die verlässlichste Adresse in Calpe für das gesamte Reisrepertoire der Marina Alta: arròs del senyoret, llauna de Calp, arroz a banda. Die Küche bezieht die gamba blanca und den pescado del Peñón direkt von der Fischauktion neben dem Hafen. Angeleinte Hunde jederzeit auf der Terrasse willkommen.",
           "descriptionNl": "Een referentierestaurant aan de kust, aan de Paseo Marítimo Princesa de Asturias, met overdekt terras met uitzicht op de Peñón de Ifach. Abiss is het meest betrouwbare adres in Calpe voor het volledige rijstrepertoire van de Marina Alta: arròs del senyoret, llauna de Calp, arroz a banda. De keuken haalt de gamba blanca en de pescado del Peñón rechtstreeks van de visveiling naast de haven. Honden aan de lijn altijd welkom op het terras.",
+          "descriptionIt": "Un ristorante di riferimento sul lungomare, in Paseo Marítimo Princesa de Asturias, con terrazza coperta affacciata sul Peñón de Ifach. Abiss è l'indirizzo più affidabile di Calpe per l'intero repertorio di riso della Marina Alta: arròs del senyoret, llauna de Calp, arroz a banda. La cucina prende i gamberi bianchi e il pesce del Peñón direttamente dall'asta del pesce vicino al porto. Cani al guinzaglio sempre benvenuti in terrazza.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
           "petPolicyNl": "Honden welkom op het terras",
+          "petPolicyIt": "Cani benvenuti in terrazza",
           "mustTryDe": "Arròs del senyoret, llauna de Calp, gamba blanca von der Fischauktion",
           "mustTryNl": "Arròs del senyoret, llauna de Calp, gamba blanca van de visveiling",
+          "mustTryIt": "Arròs del senyoret, llauna de Calp, gamba blanca dell'asta del pesce",
           "tipDe": "Buchen Sie die Terrasse im Sommer 48 Stunden im Voraus für einen Tisch mit Blick auf den Peñón. Reisgerichte brauchen mindestens 25 Minuten, die Küche lässt sich dabei nicht hetzen, planen Sie ein langes Mittagessen ein",
-          "tipNl": "Boek het terras in de zomer 48 uur van tevoren voor een tafel met uitzicht op de Peñón. Rijstgerechten duren minstens 25 minuten, de keuken laat zich niet opjagen, plan een lange lunch in"
+          "tipNl": "Boek het terras in de zomer 48 uur van tevoren voor een tafel met uitzicht op de Peñón. Rijstgerechten duren minstens 25 minuten, de keuken laat zich niet opjagen, plan een lange lunch in",
+          "tipIt": "Prenota la terrazza con 48 ore di anticipo in estate per un tavolo con vista sul Peñón. I piatti di riso richiedono almeno 25 minuti, la cucina non si fa mettere fretta, pianifica un pranzo lungo"
         },
         {
           "name": "Komfort Calpe",
@@ -75,12 +79,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Komfort+Calpe",
           "descriptionDe": "Eine moderne mediterrane Küche zwischen der Altstadt und der Küste von Arenal-Bol. Komfort betreibt eine große schattige Außenterrasse, auf der angeleinte Hunde während des gesamten Service willkommen sind. Die Karte dreht sich um Produkte der Marina Alta mit zeitgemäßem Ansatz: Tatar von der gamba blanca, arroz meloso mit Hummer, ganz gegrillter pescado del Peñón. Ausgezeichnete Moscatel- und valencianische Naturweinkarte.",
           "descriptionNl": "Een moderne mediterrane keuken tussen de oude binnenstad en de kust van Arenal-Bol. Comfort exploiteert een groot schaduwrijk buitenterras, waar honden aan de lijn gedurende de hele service welkom zijn. De kaart draait om producten van de Marina Alta met een eigentijdse aanpak: tartaar van gamba blanca, arroz meloso met kreeft, hele gegrilde pescado del Peñón. Uitstekende Moscatel- en Valenciaanse natuurwijnenkaart.",
+          "descriptionIt": "Cucina mediterranea moderna tra il centro storico e la costa di Arenal-Bol. Comfort gestisce un'ampia terrazza esterna ombreggiata, dove i cani al guinzaglio sono benvenuti per tutto il servizio. Il menu ruota intorno ai prodotti della Marina Alta con un approccio contemporaneo: tartare di gamba blanca, arroz meloso con aragosta, pesce del Peñón intero alla griglia. Ottima carta di Moscatel e vini naturali valenciani.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
           "petPolicyNl": "Honden welkom op het terras",
+          "petPolicyIt": "Cani benvenuti in terrazza",
           "mustTryDe": "Tartar de gamba blanca, arroz meloso de bogavante, pescado del Peñón",
           "mustTryNl": "Tartar de gamba blanca, arroz meloso de bogavante, pescado del Peñón",
+          "mustTryIt": "Tartar de gamba blanca, arroz meloso de bogavante, pescado del Peñón",
           "tipDe": "Fragen Sie nach der Gartenecke unter dem Olivenbaum, dem ruhigsten Platz für einen ängstlichen Hund. Degustationsmenü nur mit 24 Stunden Vorlauf verfügbar",
-          "tipNl": "Vraag naar het tuinhoekje onder de olijfboom, de rustigste plek voor een angstige hond. Degustatiemenu alleen beschikbaar met 24 uur van tevoren aanvragen"
+          "tipNl": "Vraag naar het tuinhoekje onder de olijfboom, de rustigste plek voor een angstige hond. Degustatiemenu alleen beschikbaar met 24 uur van tevoren aanvragen",
+          "tipIt": "Chiedi l'angolo del giardino sotto l'ulivo, il posto più tranquillo per un cane timido. Menu degustazione disponibile solo su richiesta con 24 ore di anticipo"
         },
         {
           "name": "Bodega Casa del Maco",
@@ -109,20 +117,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Casa+del+Maco+Benissa",
           "descriptionDe": "Eine historische Finca, umgebaut zu Restaurant und kleinem Hotel, 10 km im Landesinneren von Calpe in den Hügeln von Benissa, umgeben von Weinbergen und Olivenhainen. Die Küche setzt auf saisonale Gerichte der Marina Alta (arròs al forn, Lammschulter, lokale Käse), serviert auf einer Steinterrasse mit Blick ins Tal. Angeleinte Hunde auf der Terrasse und in den Gärten willkommen, die entspannteste haustierfreundliche Abendessen-Option im Umkreis von Calpe, wenn die Küste zu voll wird.",
           "descriptionNl": "Een historische finca, omgebouwd tot restaurant en klein hotel, 10 km landinwaarts van Calpe in de heuvels van Benissa, omgeven door wijngaarden en olijfgaarden. De keuken zet in op seizoensgerechten van de Marina Alta (arròs al forn, lamsschouder, lokale kazen), geserveerd op een stenen terras met uitzicht op de vallei. Honden aan de lijn welkom op het terras en in de tuinen, de meest ontspannen huisdiervriendelijke avondeetoptie in de omgeving van Calpe wanneer de kust te druk wordt.",
+          "descriptionIt": "Un'antica finca trasformata in ristorante e piccolo hotel, 10 km nell'entroterra di Calpe sulle colline di Benissa, circondata da vigneti e uliveti. La cucina punta su piatti stagionali della Marina Alta (arròs al forn, spalla d'agnello, formaggi locali), serviti su una terrazza in pietra con vista sulla valle. Cani al guinzaglio benvenuti in terrazza e nei giardini, l'opzione per cena pet-friendly più rilassata nei dintorni di Calpe quando la costa diventa troppo affollata.",
           "petPolicyDe": "Hunde auf Terrasse und in den Gärten willkommen",
           "petPolicyNl": "Honden welkom op het terras en in de tuinen",
+          "petPolicyIt": "Cani benvenuti in terrazza e nei giardini",
           "mustTryDe": "Arròs al forn, Lammschulter, Käseplatte der Marina Alta",
           "mustTryNl": "Arròs al forn, lamsschouder, kaasplank van de Marina Alta",
+          "mustTryIt": "Arròs al forn, spalla d'agnello, tagliere di formaggi della Marina Alta",
           "tipDe": "Nehmen Sie ein Taxi statt selbst zu fahren, die Weinkarte ist außergewöhnlich, und die Landstraße zurück nach Calpe ist nachts unbeleuchtet und kurvenreich",
-          "tipNl": "Neem een taxi in plaats van zelf te rijden, de wijnkaart is uitzonderlijk, en de landweg terug naar Calpe is 's nachts onverlicht en bochtig"
+          "tipNl": "Neem een taxi in plaats van zelf te rijden, de wijnkaart is uitzonderlijk, en de landweg terug naar Calpe is 's nachts onverlicht en bochtig",
+          "tipIt": "Prendi un taxi invece di guidare, la carta dei vini è eccezionale, e la strada di campagna verso Calpe è buia e tortuosa di notte"
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Calpe",
       "titleNl": "Huisdiervriendelijke restaurants in Calpe",
+      "titleIt": "Ristoranti pet-friendly a Calpe",
       "introDe": "Die Küche von Calpe gehört klar zur Schule der Marina Alta: arròs del senyoret (trocken gegarter Reis mit geschälten Garnelen, die lokale Obsession), llauna de Calp (ein nur in dieser Stadt bekannter, in der Blechform gebackener Reis), arròs al forn, gamba blanca von der örtlichen Fischauktion und pescado del Peñón, gefangen am Fuß des Felsens. Die meisten Küchen liegen zum Hafen oder zur Altstadt hin, und bei 320 Sonnentagen im Jahr befindet sich fast jeder Tisch auf einer Terrasse. Angeleinte Hunde sind auf den Außenterrassen entlang des Paseo Marítimo Princesa de Asturias und auf der Plaza Mayor der Altstadt willkommen.",
       "introNl": "De keuken van Calpe hoort duidelijk bij de school van de Marina Alta: arròs del senyoret (droog gegaarde rijst met gepelde garnalen, de lokale obsessie), llauna de Calp (een alleen in deze stad bekende, in een blikken bakvorm gebakken rijst), arròs al forn, gamba blanca van de plaatselijke visveiling en pescado del Peñón, gevangen aan de voet van de rots. De meeste keukens kijken uit op de haven of de oude binnenstad, en met 320 zonnedagen per jaar bevindt zich bijna elke tafel op een terras. Honden aan de lijn zijn welkom op de buitenterrassen langs de Paseo Marítimo Princesa de Asturias en op de Plaza Mayor van de oude binnenstad.",
+      "introIt": "La cucina di Calpe appartiene chiaramente alla scuola della Marina Alta: arròs del senyoret (riso cotto a secco con gamberi già sgusciati, l'ossessione locale), llauna de Calp (un riso conosciuto solo in questa città, cotto in una teglia di latta), arròs al forn, gamba blanca dell'asta del pesce locale e pesce del Peñón, pescato ai piedi della roccia. La maggior parte delle cucine si affaccia sul porto o sul centro storico, e con 320 giorni di sole all'anno quasi ogni tavolo è in terrazza. I cani al guinzaglio sono benvenuti nelle terrazze esterne lungo il Paseo Marítimo Princesa de Asturias e nella Plaza Mayor del centro storico.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks in Calpe",
@@ -156,10 +171,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Penon+de+Ifach+Calpe",
           "descriptionDe": "Spaniens kleinster (und einer seiner bekanntesten) Naturparks. Der 332 m hohe Kalksteinmonolith Peñón de Ifach ist seit 1987 von der Generalitat Valenciana geschützt. Angeleinte Hunde sind auf dem Zugangsweg vom Besucherzentrum am Fuß des Felsens erlaubt, mit weitem Blick über die Bucht von Calpe und den Yachthafen. Nach den Regeln der Generalitat sind Hunde im oberen Tunnelabschnitt oder auf dem Gipfelweg NICHT erlaubt, der Weg bleibt in der Zone am Fuß des Felsens. Freier Eintritt, das Besucherzentrum unten veröffentlicht täglich die Zugangsbedingungen.",
           "descriptionNl": "Het kleinste (en een van de bekendste) natuurparken van Spanje. De 332 m hoge kalkstenen monoliet Peñón de Ifach is sinds 1987 beschermd door de Generalitat Valenciana. Honden aan de lijn zijn toegestaan op het toegangspad vanaf het bezoekerscentrum aan de voet van de rots, met wijds uitzicht over de baai van Calpe en de jachthaven. Volgens de regels van de Generalitat zijn honden NIET toegestaan in het bovenste tunnelgedeelte of op het toppad, het pad blijft in de zone aan de voet van de rots. Gratis toegang, het bezoekerscentrum beneden publiceert dagelijks de toegangsvoorwaarden.",
+          "descriptionIt": "Il più piccolo (e uno dei più famosi) parchi naturali della Spagna. Il monolite calcareo alto 332 m del Peñón de Ifach è protetto dalla Generalitat Valenciana dal 1987. I cani al guinzaglio sono ammessi sul sentiero d'accesso dal centro visitatori ai piedi della roccia, con ampia vista sulla baia di Calpe e il porto turistico. Secondo le regole della Generalitat, i cani NON sono ammessi nel tratto superiore del tunnel o sul sentiero della vetta, il percorso resta nella zona ai piedi della roccia. Ingresso gratuito, il centro visitatori in basso pubblica ogni giorno le condizioni di accesso.",
           "highlightsDe": "332 m hoher Kalksteinmonolith, von der Generalitat geschützter Naturpark seit 1987, Bucht-Ausblicke aus der Zone am Fuß des Felsens",
           "highlightsNl": "332 m hoge kalkstenen monoliet, door de Generalitat beschermd natuurpark sinds 1987, baaiuitzichten vanuit de zone aan de voet van de rots",
+          "highlightsIt": "Monolite calcareo alto 332 m, parco naturale protetto dalla Generalitat dal 1987, vista sulla baia dalla zona ai piedi della roccia",
           "tipDe": "Parken Sie auf dem kostenlosen Parkplatz an der Avenida del Puerto am Fuß des Felsens und gehen Sie dann zum Besucherzentrum, um den Zugangshinweis des Tages zu prüfen. Der vollständige Gipfelweg dauert 2 Std. 30 Min. hin und zurück, ist für Hunde aber oberhalb des Tunnels gesperrt, planen Sie den Hundespaziergang nur zu den Aussichtspunkten am Fuß des Felsens ein (45 Min.)",
-          "tipNl": "Parkeer op de gratis parkeerplaats aan de Avenida del Puerto aan de voet van de rots en loop dan naar het bezoekerscentrum om de toegangsmelding van de dag te controleren. Het volledige toppad duurt 2u30 heen en terug, maar is voor honden afgesloten boven de tunnel, plan de hondenwandeling alleen naar de uitkijkpunten aan de voet van de rots (45 min)"
+          "tipNl": "Parkeer op de gratis parkeerplaats aan de Avenida del Puerto aan de voet van de rots en loop dan naar het bezoekerscentrum om de toegangsmelding van de dag te controleren. Het volledige toppad duurt 2u30 heen en terug, maar is voor honden afgesloten boven de tunnel, plan de hondenwandeling alleen naar de uitkijkpunten aan de voet van de rots (45 min)",
+          "tipIt": "Parcheggia nel parcheggio gratuito di Avenida del Puerto ai piedi della roccia e poi cammina fino al centro visitatori per controllare l'avviso di accesso del giorno. Il sentiero completo fino alla vetta dura 2h30 andata e ritorno, ma è vietato ai cani oltre il tunnel, pianifica la passeggiata con il cane solo fino ai punti panoramici ai piedi della roccia (45 min)"
         },
         {
           "name": "Las Salinas wetland reserve",
@@ -183,10 +201,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Las+Salinas+Calpe",
           "descriptionDe": "Eine 4 Hektar große geschützte Saline mitten in der Stadt. Las Salinas ist ein als Ramsar-Feuchtgebiet gelistetes Reservat mit ganzjährig ansässigen Flamingos und Zugvögeln. Ein Bohlensteg-Rundweg umkreist die Saline mit Informationstafeln zur Vogelbeobachtung, und angeleinte Hunde sind auf dem Bohlensteg willkommen (nicht auf den inneren Salzbecken). Der Kontrast der rosa Flamingos mit dem Peñón de Ifach im Hintergrund ist einer der eindrucksvollsten städtischen Vogelbeobachtungsausblicke Spaniens.",
           "descriptionNl": "Een 4 hectare grote beschermde zoutpan midden in de stad. Las Salinas is een als Ramsar-wetland geregistreerd reservaat met het hele jaar door aanwezige flamingo's en trekvogels. Een houten vlonderpad omcirkelt de zoutpan met informatieborden over vogelspotten, en honden aan de lijn zijn welkom op het vlonderpad (niet op de binnenste zoutbekkens). Het contrast van de roze flamingo's met de Peñón de Ifach op de achtergrond is een van de indrukwekkendste stedelijke vogelspotuitzichten van Spanje.",
+          "descriptionIt": "Una salina protetta di 4 ettari nel cuore della città. Las Salinas è una riserva registrata come zona umida Ramsar con fenicotteri e uccelli migratori presenti tutto l'anno. Una passerella in legno circonda la salina con pannelli informativi sul birdwatching, e i cani al guinzaglio sono benvenuti sulla passerella (non nei bacini salini interni). Il contrasto tra i fenicotteri rosa e il Peñón de Ifach sullo sfondo è una delle viste urbane per il birdwatching più suggestive di Spagna.",
           "highlightsDe": "Ramsar-Feuchtgebiet, ansässige Flamingos, hundefreundlicher Bohlensteg-Rundweg mit Peñón im Hintergrund",
           "highlightsNl": "Ramsar-wetland, standvastige flamingo's, hondvriendelijk vlonderpad-rondje met de Peñón op de achtergrond",
+          "highlightsIt": "Zona umida Ramsar, fenicotteri stanziali, anello di passerella pet-friendly con il Peñón sullo sfondo",
           "tipDe": "Kommen Sie bei Sonnenaufgang für die beste Flamingo-Aktivität und das warme Licht auf dem Peñón. Der Bohlensteg ist 800 m lang, planen Sie 30 Minuten mit Fotopausen ein",
-          "tipNl": "Kom bij zonsopgang voor de beste flamingo-activiteit en het warme licht op de Peñón. Het vlonderpad is 800 m lang, plan 30 minuten in met fotopauzes"
+          "tipNl": "Kom bij zonsopgang voor de beste flamingo-activiteit en het warme licht op de Peñón. Het vlonderpad is 800 m lang, plan 30 minuten in met fotopauzes",
+          "tipIt": "Vieni all'alba per la migliore attività dei fenicotteri e la luce calda sul Peñón. La passerella è lunga 800 m, pianifica 30 minuti con pause fotografiche"
         },
         {
           "name": "Sierra de Bernia (Fonts d'Algar trailhead)",
@@ -210,18 +231,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Sierra+de+Bernia+Calpe",
           "descriptionDe": "Die Sierra de Bernia erhebt sich im Landesinneren von Calpe auf 1.128 m mit einer klassischen 8 km langen Rundwanderung durch Pinienwald, dem Tunnel-Höhlengang Forat de Bernia und Panoramablicken sowohl aufs Mittelmeer als auch ins Landesinnere. Angeleinte Hunde sind durchgehend Pflicht, der Weg bietet oberhalb von 600 m kaum Schatten, und der Forat de Bernia ist ein 20 m natürlicher Felsdurchgang, der eine Stirnlampe und etwas Geschicklichkeit erfordert. Am besten von Oktober bis Mai zu besuchen, im Sommer zu heiß.",
           "descriptionNl": "De Sierra de Bernia rijst landinwaarts van Calpe op tot 1.128 m met een klassieke 8 km lange rondwandeling door dennenbos, de tunnelgrot Forat de Bernia en panoramische uitzichten op zowel de Middellandse Zee als het binnenland. Honden aan de lijn zijn overal verplicht, het pad biedt boven de 600 m nauwelijks schaduw, en de Forat de Bernia is een natuurlijke rotsdoorgang van 20 m die een hoofdlamp en enige behendigheid vereist. Het beste te bezoeken van oktober tot mei, 's zomers te heet.",
+          "descriptionIt": "La Sierra de Bernia si eleva nell'entroterra di Calpe fino a 1.128 m con un classico anello escursionistico di 8 km attraverso pinete, la grotta-tunnel Forat de Bernia e viste panoramiche sia sul Mediterraneo sia sull'entroterra. I cani al guinzaglio sono obbligatori ovunque, il sentiero offre poca ombra sopra i 600 m, e il Forat de Bernia è un passaggio roccioso naturale di 20 m che richiede una torcia frontale e un po' di agilità. Meglio visitarlo da ottobre a maggio, troppo caldo d'estate.",
           "highlightsDe": "1.128 m hoher Gipfel, Tunnel-Höhlengang Forat de Bernia, Panoramablicke aufs Mittelmeer und ins Landesinnere",
           "highlightsNl": "1.128 m hoge top, tunnelgrot Forat de Bernia, panoramische uitzichten op de Middellandse Zee en het binnenland",
+          "highlightsIt": "Vetta a 1.128 m, grotta-tunnel Forat de Bernia, viste panoramiche sul Mediterraneo e sull'entroterra",
           "tipDe": "Fahren Sie zum Ausgangspunkt Casa de la Bernia und gehen Sie die Runde gegen den Uhrzeigersinn, so erreichen Sie den Forat de Bernia zuerst, solange Sie noch Kraft haben. Nehmen Sie 2 L Wasser pro Hund mit",
-          "tipNl": "Rij naar het startpunt Casa de la Bernia en loop het rondje tegen de klok in, zo bereik je de Forat de Bernia als eerste, terwijl je nog fris bent. Neem 2 L water per hond mee"
+          "tipNl": "Rij naar het startpunt Casa de la Bernia en loop het rondje tegen de klok in, zo bereik je de Forat de Bernia als eerste, terwijl je nog fris bent. Neem 2 L water per hond mee",
+          "tipIt": "Guida fino al punto di partenza Casa de la Bernia e percorri l'anello in senso antiorario, così raggiungi il Forat de Bernia per primo, mentre sei ancora fresco. Porta 2 L d'acqua per cane"
         }
       ],
       "titleDe": "Hundefreundliche Parks in Calpe",
       "titleNl": "Hondvriendelijke parken in Calpe",
+      "titleIt": "Parchi pet-friendly a Calpe",
       "introDe": "Die grüne Infrastruktur von Calpe wird vom unverkennbaren Naturpark Peñón de Ifach dominiert, dem 332 m hohen Kalksteinmonolithen, der mitten in der Bucht direkt aus dem Meer aufragt (Spaniens kleinster Naturpark, seit 1987 geschützt). Hinter der Stadt erhebt sich die Sierra de Bernia auf 1.128 m mit rauem Wandern im Landesinneren. Im städtischen Kern beherbergt das Salinenreservat Las Salinas einen hundefreundlichen Bohlensteg durch Flamingo-Lebensraum, und die lange Uferpromenade dient zugleich als wichtigster ganzjähriger Hundespazier-Korridor der Stadt. Die Sommerhitze prägt alles: Spaziergänge vor 9:00 Uhr oder nach 19:00 Uhr von Juni bis Mitte September.",
       "introNl": "De groene infrastructuur van Calpe wordt gedomineerd door het onmiskenbare natuurpark Peñón de Ifach, de 332 m hoge kalkstenen monoliet die midden in de baai recht uit zee oprijst (het kleinste natuurpark van Spanje, beschermd sinds 1987). Achter de stad rijst de Sierra de Bernia op tot 1.128 m met stevig wandelen landinwaarts. In de stedelijke kern herbergt het zoutpanreservaat Las Salinas een hondvriendelijk vlonderpad door flamingohabitat, en de lange kustpromenade dient tegelijk als de belangrijkste hondenwandelroute van de stad, het hele jaar door. De zomerhitte bepaalt alles: wandel vóór 9:00 uur of na 19:00 uur van juni tot half september.",
+      "introIt": "L'infrastruttura verde di Calpe è dominata dall'inconfondibile parco naturale del Peñón de Ifach, il monolite calcareo alto 332 m che si erge dritto dal mare al centro della baia (il più piccolo parco naturale di Spagna, protetto dal 1987). Dietro la città si eleva la Sierra de Bernia fino a 1.128 m con escursioni impegnative nell'entroterra. Nel nucleo urbano, la riserva della salina Las Salinas ospita una passerella pet-friendly attraverso l'habitat dei fenicotteri, e il lungo lungomare funge anche da principale percorso per passeggiate con il cane della città, tutto l'anno. Il caldo estivo condiziona tutto: passeggia prima delle 9:00 o dopo le 19:00 da giugno a metà settembre.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Getting Around Calpe with Your Dog",
@@ -281,10 +308,13 @@
       ],
       "titleDe": "Mit dem Hund in Calpe unterwegs",
       "titleNl": "Met de hond onderweg in Calpe",
+      "titleIt": "In viaggio con il cane a Calpe",
       "introDe": "Calpe hat weder einen Flughafen noch einen klassischen Fernbahnhof, liegt aber an der FGV-Schmalspurbahn TRAM Metropolitano d'Alacant Línea 9, die Dénia mit Benidorm und weiter mit Alicante verbindet, eine der landschaftlich schönsten Schmalspurstrecken Spaniens. Kleine Hunde in Transportboxen fahren kostenlos mit. Die Stadt selbst ist von der Altstadt bis zum Yachthafen in 25 Minuten zu Fuß erreichbar. Die wichtigsten regionalen Verkehrsoptionen für Besucher mit Hund sind diese landschaftlich reizvolle TRAM-Linie, das ALSA-Costa-Azul-Busnetz und die Autobahn A7 für die Selbstanreise. Nächstgelegene Flughäfen: ALC Alicante, 60 km südlich, oder VLC Valencia, 130 km nördlich.",
       "introNl": "Calpe heeft geen luchthaven en geen klassiek treinstation voor lange afstanden, maar ligt aan de smalspoorlijn FGV TRAM Metropolitano d'Alacant Línea 9, die Dénia met Benidorm en verder met Alicante verbindt, een van de landschappelijk mooiste smalspoorlijnen van Spanje. Kleine honden in draagtassen reizen gratis mee. De stad zelf is van de oude binnenstad tot de jachthaven in 25 minuten te voet bereikbaar. De belangrijkste regionale vervoersopties voor bezoekers met hond zijn deze landschappelijk aantrekkelijke TRAM-lijn, het ALSA-Costa-Azul-busnetwerk en de snelweg A7 voor eigen vervoer. Dichtstbijzijnde luchthavens: ALC Alicante, 60 km zuidelijker, of VLC Valencia, 130 km noordelijker.",
+      "introIt": "Calpe non ha aeroporto né una classica stazione ferroviaria a lunga percorrenza, ma si trova sulla linea a scartamento ridotto FGV TRAM Metropolitano d'Alacant Línea 9, che collega Dénia con Benidorm e oltre fino ad Alicante, una delle linee a scartamento ridotto più panoramiche di Spagna. I cani piccoli in borsa da trasporto viaggiano gratis. La città stessa, dal centro storico al porto turistico, è raggiungibile a piedi in 25 minuti. Le principali opzioni di trasporto regionale per i visitatori con cane sono questa panoramica linea TRAM, la rete di autobus ALSA-Costa Azul e l'autostrada A7 per il trasporto proprio. Aeroporti più vicini: ALC Alicante, 60 km a sud, o VLC Valencia, 130 km a nord.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches near Calpe",
@@ -317,12 +347,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Playa+La+Fossa+Calpe",
           "nameDe": "Playa La Fossa (Levante)",
           "nameNl": "Playa La Fossa (Levante)",
+          "nameIt": "Playa La Fossa (Levante)",
           "locationDe": "950 m langer Sandstrand direkt nördlich des Peñón de Ifach",
           "locationNl": "950 m lang zandstrand direct ten noorden van de Peñón de Ifach",
+          "locationIt": "Spiaggia di sabbia lunga 950 m subito a nord del Peñón de Ifach",
           "dogPolicyDe": "Strand mit Blauer Flagge, Hunde während der Badesaison vom Sand verbannt (in der Regel 1. Mai bis 15. Oktober, genaue Termine jährlich von der Ajuntament-Calp-Verordnung festgelegt). Außerhalb der Saison (Mitte Oktober bis Ende April) sind angeleinte Hunde auf den vollen 950 m goldenem Sand willkommen. Der parallel verlaufende Paseo Marítimo Princesa de Asturias ist das ganze Jahr über hundefreundlich und der wichtigste städtische Hundespazier-Korridor.",
           "dogPolicyNl": "Strand met Blauwe Vlag, honden worden tijdens het badseizoen van het zand geweerd (doorgaans 1 mei tot 15 oktober, exacte data jaarlijks vastgesteld door de verordening van het Ajuntament Calp). Buiten het seizoen (half oktober tot eind april) zijn honden aan de lijn welkom op de volledige 950 m gouden zand. De parallel lopende Paseo Marítimo Princesa de Asturias is het hele jaar door hondvriendelijk en de belangrijkste hondenwandelroute van de stad.",
+          "dogPolicyIt": "Spiaggia con Bandiera Blu, i cani sono esclusi dalla sabbia durante la stagione balneare (in genere dal 1 maggio al 15 ottobre, date esatte fissate ogni anno dall'ordinanza dell'Ajuntament Calp). Fuori stagione (da metà ottobre a fine aprile) i cani al guinzaglio sono benvenuti su tutti i 950 m di sabbia dorata. Il parallelo Paseo Marítimo Princesa de Asturias è pet-friendly tutto l'anno ed è il principale percorso per passeggiate con il cane della città.",
           "tipDe": "Von November bis April ist dies der einfache Standard-Badeplatz der Stadt, mit dem Peñón de Ifach als dramatischster Strandkulisse der Costa Blanca. Im Sommer nutzen Sie stattdessen den Paseo Marítimo oberhalb des Sandes",
-          "tipNl": "Van november tot april is dit de eenvoudige standaard zwemplek van de stad, met de Peñón de Ifach als meest dramatische strandkulisse van de Costa Blanca. In de zomer gebruik je in plaats daarvan de Paseo Marítimo boven het zand"
+          "tipNl": "Van november tot april is dit de eenvoudige standaard zwemplek van de stad, met de Peñón de Ifach als meest dramatische strandkulisse van de Costa Blanca. In de zomer gebruik je in plaats daarvan de Paseo Marítimo boven het zand",
+          "tipIt": "Da novembre ad aprile questo è il semplice punto di riferimento della città per nuotare, con il Peñón de Ifach come sfondo più spettacolare della Costa Blanca. In estate usa invece il Paseo Marítimo sopra la sabbia"
         },
         {
           "name": "Playa Arenal-Bol",
@@ -345,12 +379,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Playa+Arenal+Bol+Calpe",
           "nameDe": "Playa Arenal-Bol",
           "nameNl": "Playa Arenal-Bol",
+          "nameIt": "Playa Arenal-Bol",
           "locationDe": "Zentraler Strand südlich des Peñón de Ifach, 1,3 km Sand und Kies",
           "locationNl": "Centraal strand ten zuiden van de Peñón de Ifach, 1,3 km zand en kiezels",
+          "locationIt": "Spiaggia centrale a sud del Peñón de Ifach, 1,3 km di sabbia e ciottoli",
           "dogPolicyDe": "Der zentrale städtische Strand von Calpe mit flachem, geschütztem Wasser, Rettungsschwimmerdienst und restaurierten römischen archäologischen Überresten bei den Banys de la Reina am südlichen Ende. Hunde während der Badesaison vom Sand verbannt (in der Regel 1. Mai bis 15. Oktober, genaue Termine jährlich von der Ajuntament-Calp-Verordnung festgelegt). Außerhalb der Saison sind angeleinte Hunde überall willkommen. Der angrenzende Paseo ist das ganze Jahr über hundefreundlich.",
           "dogPolicyNl": "Het centrale stadsstrand van Calpe met ondiep, beschut water, reddingsdienst en gerestaureerde Romeinse archeologische resten bij de Banys de la Reina aan het zuidelijke uiteinde. Honden worden tijdens het badseizoen van het zand geweerd (doorgaans 1 mei tot 15 oktober, exacte data jaarlijks vastgesteld door de verordening van het Ajuntament Calp). Buiten het seizoen zijn honden aan de lijn overal welkom. De aangrenzende Paseo is het hele jaar door hondvriendelijk.",
+          "dogPolicyIt": "La spiaggia urbana centrale di Calpe con acque basse e riparate, servizio di soccorso e resti archeologici romani restaurati presso i Banys de la Reina all'estremità sud. I cani sono esclusi dalla sabbia durante la stagione balneare (in genere dal 1 maggio al 15 ottobre, date esatte fissate ogni anno dall'ordinanza dell'Ajuntament Calp). Fuori stagione i cani al guinzaglio sono benvenuti ovunque. Il Paseo adiacente è pet-friendly tutto l'anno.",
           "tipDe": "Besuchen Sie die römischen Fischzuchtbecken Banys de la Reina am südlichen Ende bei Sonnenuntergang, angeleinte Hunde sind das ganze Jahr über auf dem Bohlensteg oberhalb der Becken willkommen",
-          "tipNl": "Bezoek de Romeinse viskweekbekkens Banys de la Reina aan het zuidelijke uiteinde bij zonsondergang, honden aan de lijn zijn het hele jaar door welkom op het vlonderpad boven de bekkens"
+          "tipNl": "Bezoek de Romeinse viskweekbekkens Banys de la Reina aan het zuidelijke uiteinde bij zonsondergang, honden aan de lijn zijn het hele jaar door welkom op het vlonderpad boven de bekkens",
+          "tipIt": "Visita le vasche romane per l'allevamento del pesce dei Banys de la Reina all'estremità sud al tramonto, i cani al guinzaglio sono benvenuti tutto l'anno sulla passerella sopra le vasche"
         },
         {
           "name": "Cala El Racó and Cala Calalga (rocky coves)",
@@ -373,20 +411,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cala+El+Raco+Calpe",
           "nameDe": "Cala El Racó and Cala Calalga (rocky coves)",
           "nameNl": "Cala El Racó en Cala Calalga (rotsachtige inhammen)",
+          "nameIt": "Cala El Racó e Cala Calalga (calette rocciose)",
           "locationDe": "Felsige Buchten nördlich und südlich der städtischen Strände",
           "locationNl": "Rotsachtige inhammen ten noorden en zuiden van de stadsstranden",
+          "locationIt": "Calette rocciose a nord e sud delle spiagge cittadine",
           "dogPolicyDe": "Eine Kette kleiner Kiesel- und Felsbuchten (Cala El Racó neben dem Hafen am Fuß des Peñón, Cala Manzanera, Cala Calalga, Cala Morelló weiter nördlich), die außerhalb der offiziellen Badezonen der städtischen Strände liegen. Das allgemeine sommerliche Verbot der Ajuntament Calp gilt für die ausgeschilderten Badezonen, aber die unmarkierten felsigen Uferabschnitte zwischen den Buchten sind eine Grauzone, in der Einheimische auch im Sommer früh am Morgen angeleinte Hunde ausführen. Außerhalb der Saison sind angeleinte Hunde überall willkommen. Kristallklares, flaches Wasser, ausgezeichnet zum Schnorcheln. Prüfen Sie immer die aktuelle Ajuntament-Calp-Verordnung, bevor Sie Ihren Hund auf Sand oder Kies lassen.",
           "dogPolicyNl": "Een keten kleine kiezel- en rotsinhammen (Cala El Racó naast de haven aan de voet van de Peñón, Cala Manzanera, Cala Calalga, Cala Morelló verder noordelijk), die buiten de officiële zwemzones van de stadsstranden liggen. Het algemene zomerverbod van het Ajuntament Calp geldt voor de gemarkeerde zwemzones, maar de ongemarkeerde rotsachtige oeverdelen tussen de inhammen zijn een grijs gebied waar locals ook 's zomers vroeg in de ochtend honden aan de lijn uitlaten. Buiten het seizoen zijn honden aan de lijn overal welkom. Kristalhelder, ondiep water, uitstekend om te snorkelen. Controleer altijd de actuele verordening van het Ajuntament Calp voordat je je hond op zand of kiezels laat.",
+          "dogPolicyIt": "Una serie di piccole calette di ciottoli e roccia (Cala El Racó accanto al porto ai piedi del Peñón, Cala Manzanera, Cala Calalga, Cala Morelló più a nord), che si trovano fuori dalle zone balneari ufficiali delle spiagge cittadine. Il divieto estivo generale dell'Ajuntament Calp riguarda le zone balneari segnalate, ma i tratti rocciosi non segnalati tra le calette sono una zona grigia dove i locali portano comunque i cani al guinzaglio la mattina presto anche d'estate. Fuori stagione i cani al guinzaglio sono benvenuti ovunque. Acqua cristallina e bassa, ottima per lo snorkeling. Controlla sempre l'ordinanza vigente dell'Ajuntament Calp prima di portare il tuo cane su sabbia o ciottoli.",
           "tipDe": "Bringen Sie Schutzschuhe für den felsigen Zugang mit, falls Ihr Hund empfindliche Pfotenballen hat. Cala El Racó neben dem Hafen bietet den einfachsten Zugang mit flachem, geschütztem Wasser, ideal für ältere Hunde, die keine starken Schwimmer sind",
-          "tipNl": "Neem beschermschoentjes mee voor de rotsachtige toegang als je hond gevoelige voetzooltjes heeft. Cala El Racó naast de haven biedt de makkelijkste toegang met ondiep, beschut water, ideaal voor oudere honden die geen sterke zwemmers zijn"
+          "tipNl": "Neem beschermschoentjes mee voor de rotsachtige toegang als je hond gevoelige voetzooltjes heeft. Cala El Racó naast de haven biedt de makkelijkste toegang met ondiep, beschut water, ideaal voor oudere honden die geen sterke zwemmers zijn",
+          "tipIt": "Porta scarpette protettive per l'accesso roccioso se il tuo cane ha i cuscinetti sensibili. Cala El Racó accanto al porto offre l'accesso più facile con acqua bassa e riparata, ideale per cani anziani che non sono nuotatori forti"
         }
       ],
       "titleDe": "Hundefreundliche Strände bei Calpe",
       "titleNl": "Hondvriendelijke stranden bij Calpe",
+      "titleIt": "Spiagge pet-friendly vicino a Calpe",
       "introDe": "Calpe liegt im Zentrum einer der markantesten Strandbuchten der Costa Blanca: Die 950 m lange Playa La Fossa (Levante) zieht sich nördlich des Peñón de Ifach entlang, die zentrale Playa Arenal-Bol verläuft südlich des Felsens, und eine Reihe felsiger Buchten (Cala El Racó, Cala Manzanera, Cala Calalga, Cala Morelló) erstreckt sich nach Norden und Süden. An den städtischen Hauptstränden gilt das übliche sommerliche Hundeverbot der Ajuntament-Calp-Verordnung von Mai bis Mitte Oktober. Prüfen Sie die aktuelle Verordnung immer auf der Website der Ajuntament, bevor Sie Ihren Hund auf einen Strand lassen, die genauen Zonen und Termine werden jährlich neu festgelegt.",
       "introNl": "Calpe ligt in het centrum van een van de meest markante strandbaaien van de Costa Blanca: de 950 m lange Playa La Fossa (Levante) loopt ten noorden van de Peñón de Ifach, het centrale Playa Arenal-Bol ligt ten zuiden van de rots, en een reeks rotsachtige inhammen (Cala El Racó, Cala Manzanera, Cala Calalga, Cala Morelló) strekt zich noord- en zuidwaarts uit. Op de belangrijkste stadsstranden geldt het gebruikelijke zomerverbod voor honden van de verordening van het Ajuntament Calp van mei tot half oktober. Controleer altijd de actuele verordening op de website van het Ajuntament voordat je je hond op een strand laat, de exacte zones en data worden jaarlijks opnieuw vastgesteld.",
+      "introIt": "Calpe si trova al centro di una delle baie più suggestive della Costa Blanca: la Playa La Fossa (Levante), lunga 950 m, corre a nord del Peñón de Ifach, la centrale Playa Arenal-Bol si trova a sud della roccia, e una serie di calette rocciose (Cala El Racó, Cala Manzanera, Cala Calalga, Cala Morelló) si estende a nord e a sud. Sulle principali spiagge cittadine vige il consueto divieto estivo per i cani dell'ordinanza dell'Ajuntament Calp da maggio a metà ottobre. Controlla sempre l'ordinanza vigente sul sito dell'Ajuntament prima di portare il tuo cane in spiaggia, le zone e le date esatte vengono fissate ogni anno.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Calpe, Veterinary Clinics & Pet Care",
@@ -420,8 +465,10 @@
           "photo": "/images/city-places/calpe-vets-anicura-marina-alta-centro-veterinario-denia-22-km-north.jpg",
           "hoursDe": "24 Stunden, 7 Tage die Woche (Notdienst außerhalb der Öffnungszeiten auf Abruf)",
           "hoursNl": "24 uur per dag, 7 dagen per week (spoeddienst buiten openingstijden op afroep)",
+          "hoursIt": "24 ore su 24, 7 giorni su 7 (guardia d'urgenza fuori orario su chiamata)",
           "descriptionDe": "Die wichtigste tierärztliche Referenz für die Region Marina Alta (zu der auch Calpe gehört), Teil des europäischen AniCura-Netzwerks. Vollständige Klinikaufnahme, hauseigenes Labor, Röntgen, Ultraschall, Zahnbehandlung und 24/7-Notdienst auf Abruf. 22 km nördlich von Calpe an der Autobahn AP-7, 25 Minuten mit Auto oder Taxi. Mehrsprachige Rezeption und das Team, an das die meisten Praxen der Marina Alta außerhalb der Öffnungszeiten überweisen, einschließlich der tagsüber geöffneten Praxen in Calpe.",
-          "descriptionNl": "De belangrijkste dierenartsreferentie voor de regio Marina Alta (waartoe ook Calpe behoort), onderdeel van het Europese AniCura-netwerk. Volledige klinische opname, eigen laboratorium, röntgen, echografie, tandheelkundige behandeling en 24/7-spoeddienst op afroep. 22 km ten noorden van Calpe aan de snelweg AP-7, 25 minuten met auto of taxi. Meertalige receptie en het team waarnaar de meeste praktijken in de Marina Alta buiten openingstijden doorverwijzen, inclusief de overdag geopende praktijken in Calpe."
+          "descriptionNl": "De belangrijkste dierenartsreferentie voor de regio Marina Alta (waartoe ook Calpe behoort), onderdeel van het Europese AniCura-netwerk. Volledige klinische opname, eigen laboratorium, röntgen, echografie, tandheelkundige behandeling en 24/7-spoeddienst op afroep. 22 km ten noorden van Calpe aan de snelweg AP-7, 25 minuten met auto of taxi. Meertalige receptie en het team waarnaar de meeste praktijken in de Marina Alta buiten openingstijden doorverwijzen, inclusief de overdag geopende praktijken in Calpe.",
+          "descriptionIt": "Il principale punto di riferimento veterinario per la regione della Marina Alta (di cui fa parte anche Calpe), parte della rete europea AniCura. Ricovero clinico completo, laboratorio proprio, radiografia, ecografia, cure odontoiatriche e guardia d'urgenza 24/7 su chiamata. 22 km a nord di Calpe sull'autostrada AP-7, 25 minuti in auto o taxi. Reception multilingue ed è il team a cui la maggior parte degli studi della Marina Alta indirizza fuori orario, inclusi gli studi diurni di Calpe."
         },
         {
           "name": "Clínica Veterinaria Calp",
@@ -444,8 +491,10 @@
           "photo": "/images/city-places/calpe-vets-clinica-veterinaria-calp.jpg",
           "hoursDe": "Mo-Fr 10:00-13:30, 17:00-20:00; Sa 10:00-13:00",
           "hoursNl": "Ma-vr 10:00-13:30, 17:00-20:00; za 10:00-13:00",
+          "hoursIt": "Lun-ven 10:00-13:30, 17:00-20:00; sab 10:00-13:00",
           "descriptionDe": "Eine seit langem bestehende Vollservice-Tierarztpraxis im Wohnviertel El Tossal von Calpe (neben der Farmacia R. Zafra), seit mehr als 30 Jahren in Betrieb, die praktischste tagsüber verfügbare Option für Routinetermine, Impfungen, Mikrochip-Kennzeichnung und EU-Reisebescheinigungen. Bei größeren Klinikaufnahmen und Notfällen außerhalb der Öffnungszeiten überweist das Team nach Norden an AniCura Marina Alta in Dénia oder nach Süden an AniCura Marina Baixa in L'Alfàs del Pi. Rufen Sie vorher an, um die aktuellen Öffnungszeiten zu bestätigen, die Zeiten ändern sich im Sommer.",
-          "descriptionNl": "Een al lang bestaande dierenartspraktijk met volledig dienstenpakket in de woonwijk El Tossal van Calpe (naast de Farmacia R. Zafra), al meer dan 30 jaar actief, de meest praktische overdag beschikbare optie voor routineafspraken, vaccinaties, microchip-registratie en EU-reiscertificaten. Bij grotere klinische opnames en spoedgevallen buiten openingstijden verwijst het team door naar het noorden naar AniCura Marina Alta in Dénia of naar het zuiden naar AniCura Marina Baixa in L'Alfàs del Pi. Bel vooraf om de actuele openingstijden te bevestigen, de tijden veranderen 's zomers."
+          "descriptionNl": "Een al lang bestaande dierenartspraktijk met volledig dienstenpakket in de woonwijk El Tossal van Calpe (naast de Farmacia R. Zafra), al meer dan 30 jaar actief, de meest praktische overdag beschikbare optie voor routineafspraken, vaccinaties, microchip-registratie en EU-reiscertificaten. Bij grotere klinische opnames en spoedgevallen buiten openingstijden verwijst het team door naar het noorden naar AniCura Marina Alta in Dénia of naar het zuiden naar AniCura Marina Baixa in L'Alfàs del Pi. Bel vooraf om de actuele openingstijden te bevestigen, de tijden veranderen 's zomers.",
+          "descriptionIt": "Uno studio veterinario storico e a servizio completo nel quartiere residenziale di El Tossal a Calpe (accanto alla Farmacia R. Zafra), attivo da oltre 30 anni, l'opzione diurna più pratica per visite di routine, vaccinazioni, registrazione del microchip e certificati di viaggio UE. Per ricoveri più importanti ed emergenze fuori orario, il team indirizza a nord verso AniCura Marina Alta a Dénia o a sud verso AniCura Marina Baixa a L'Alfàs del Pi. Chiama in anticipo per confermare gli orari attuali, che cambiano d'estate."
         },
         {
           "name": "AniCura Marina Baixa Hospital Veterinario (L'Alfàs del Pi, 30 km south)",
@@ -468,16 +517,21 @@
           "photo": "/images/city-places/calpe-vets-anicura-marina-baixa-hospital-veterinario-l-alfas-del-pi-30-.jpg",
           "hoursDe": "24 Stunden, 7 Tage die Woche (24-Stunden-Notdienst auf Abruf)",
           "hoursNl": "24 uur per dag, 7 dagen per week (24-uurs spoeddienst op afroep)",
+          "hoursIt": "24 ore su 24, 7 giorni su 7 (guardia 24 ore su chiamata)",
           "descriptionDe": "Das wichtigste tierärztliche Überweisungskrankenhaus für die Region Marina Baixa (Benidorm, Altea, La Vila Joiosa), Teil des europäischen AniCura-Netzwerks, 30 km südlich von Calpe an der Autobahn AP-7, etwa 30 Minuten mit Auto oder Taxi. Vollständige Klinikaufnahme, Chirurgie, CT-Scan, MRT, Endoskopie, Ultraschall, Kardiologie und 24/7-Notfall-Intensivstation. Die nächstgelegene 24-Stunden-Notfalloption südlich von Calpe, genutzt als Ausweichmöglichkeit, wenn AniCura Marina Alta in Dénia ausgelastet ist. Rufen Sie vor der Anfahrt an, um das diensthabende Team zu informieren.",
-          "descriptionNl": "Het belangrijkste verwijsziekenhuis voor dieren van de regio Marina Baixa (Benidorm, Altea, La Vila Joiosa), onderdeel van het Europese AniCura-netwerk, 30 km ten zuiden van Calpe aan de snelweg AP-7, ongeveer 30 minuten met auto of taxi. Volledige klinische opname, chirurgie, CT-scan, MRI, endoscopie, echografie, cardiologie en 24/7-spoed-intensive care. De dichtstbijzijnde 24-uurs spoedoptie ten zuiden van Calpe, gebruikt als uitwijkalternatief wanneer AniCura Marina Alta in Dénia vol zit. Bel voor vertrek om het dienstdoende team te informeren."
+          "descriptionNl": "Het belangrijkste verwijsziekenhuis voor dieren van de regio Marina Baixa (Benidorm, Altea, La Vila Joiosa), onderdeel van het Europese AniCura-netwerk, 30 km ten zuiden van Calpe aan de snelweg AP-7, ongeveer 30 minuten met auto of taxi. Volledige klinische opname, chirurgie, CT-scan, MRI, endoscopie, echografie, cardiologie en 24/7-spoed-intensive care. De dichtstbijzijnde 24-uurs spoedoptie ten zuiden van Calpe, gebruikt als uitwijkalternatief wanneer AniCura Marina Alta in Dénia vol zit. Bel voor vertrek om het dienstdoende team te informeren.",
+          "descriptionIt": "Il principale ospedale veterinario di riferimento della regione della Marina Baixa (Benidorm, Altea, La Vila Joiosa), parte della rete europea AniCura, 30 km a sud di Calpe sull'autostrada AP-7, circa 30 minuti in auto o taxi. Ricovero clinico completo, chirurgia, TAC, risonanza magnetica, endoscopia, ecografia, cardiologia e terapia intensiva d'urgenza 24/7. L'opzione d'urgenza 24 ore più vicina a sud di Calpe, usata come alternativa quando AniCura Marina Alta a Dénia è al completo. Chiama prima di partire per avvisare il team di turno."
         }
       ],
       "titleDe": "Notfall-Tierärzte in Calpe, Tierarztpraxen & Haustierpflege",
       "titleNl": "Spoeddierenartsen in Calpe, dierenklinieken & huisdierenzorg",
+      "titleIt": "Veterinari d'urgenza a Calpe, cliniche veterinarie e cura degli animali",
       "introDe": "Calpe liegt zwischen zwei der wichtigsten Überweisungs-Tierkrankenhäuser der Costa Blanca: AniCura Marina Alta in Dénia (24/7, +34 965 784 038) im Norden und AniCura Marina Baixa in L'Alfàs del Pi im Süden. In der Stadt selbst übernehmen mehrere tagsüber geöffnete Praxen die Routineversorgung und Triage. Aufgrund der mediterranen Sommerhitze und der Nähe des Peñón de Ifach und der Sierra de Bernia sehen die örtlichen Praxen häufig Fälle von Hitzschlag, Kontakt mit Prozessionsspinner-Raupen (Frühling) und Schlangenbissen (Sommer). Speichern Sie die Notrufnummern in Ihrem Telefon, bevor Sie sie brauchen, führen Sie Ihren EU-Heimtierausweis oder britisches AHC mit, und lassen Sie einen Hund zwischen Juni und September nie im geparkten Auto zurück.",
       "introNl": "Calpe ligt tussen twee van de belangrijkste verwijsdierenziekenhuizen van de Costa Blanca: AniCura Marina Alta in Dénia (24/7, +34 965 784 038) in het noorden en AniCura Marina Baixa in L'Alfàs del Pi in het zuiden. In de stad zelf verzorgen meerdere overdag geopende praktijken de routinezorg en triage. Vanwege de mediterrane zomerhitte en de nabijheid van de Peñón de Ifach en de Sierra de Bernia zien de plaatselijke praktijken regelmatig gevallen van hitteberoerte, contact met processierupsen (voorjaar) en slangenbeten (zomer). Sla de noodnummers op in je telefoon voordat je ze nodig hebt, neem je EU-huisdierenpaspoort of Britse AHC mee, en laat een hond nooit achter in een geparkeerde auto tussen juni en september.",
+      "introIt": "Calpe si trova tra due dei principali ospedali veterinari di riferimento della Costa Blanca: AniCura Marina Alta a Dénia (24/7, +34 965 784 038) a nord e AniCura Marina Baixa a L'Alfàs del Pi a sud. In città diversi studi diurni si occupano delle cure di routine e del triage. A causa del caldo estivo mediterraneo e della vicinanza al Peñón de Ifach e alla Sierra de Bernia, gli studi locali vedono regolarmente casi di colpo di calore, contatto con processionarie (primavera) e morsi di serpente (estate). Salva i numeri d'emergenza sul telefono prima di averne bisogno, porta con te il passaporto UE per animali o l'AHC britannico, e non lasciare mai un cane in un'auto parcheggiata tra giugno e settembre.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Calpe with Your Dog",
@@ -575,8 +629,10 @@
       ],
       "titleDe": "Wichtige Tipps für einen Besuch in Calpe mit Hund",
       "titleNl": "Belangrijke tips voor een bezoek aan Calpe met hond",
+      "titleIt": "Consigli essenziali per visitare Calpe con il cane",
       "introDe": "Die brutale sommerliche Bodenhitze in Calpe, der strenge städtische Strandkalender und die Regeln des Naturparks Peñón de Ifach machen Timing und Routenplanung zu den wichtigsten Faktoren. Die folgenden Regeln ersparen Ihnen eine Tierarztrechnung, ein Bußgeld der Ajuntament, oder beides.",
       "introNl": "De brute zomerse bodemhitte in Calpe, de strenge stedelijke strandkalender en de regels van het natuurpark Peñón de Ifach maken timing en routeplanning tot de belangrijkste factoren. De volgende regels besparen je een dierenartsrekening, een boete van het Ajuntament, of allebei.",
+      "introIt": "Il caldo bruto del terreno estivo a Calpe, il rigido calendario delle spiagge cittadine e le regole del parco naturale del Peñón de Ifach rendono i tempi e la pianificazione del percorso i fattori più importanti. Le regole seguenti ti risparmiano una fattura veterinaria, una multa dell'Ajuntament, o entrambe.",
       "faqsDe": [
         {
           "q": "Sind Hunde auf dem Gipfelweg des Peñón de Ifach erlaubt?",
@@ -603,6 +659,20 @@
         {
           "q": "Hoe kom ik met hond van Calpe naar de luchthaven Alicante?",
           "a": "De makkelijkste optie is een privétaxi van Calpe naar ALC (60 km, 50 minuten, ongeveer 90 tot 110 euro), geboekt via Radio Taxi Calpe met huisdiervriendelijke bevestiging. De ALSA-Costa-Azul-bus (1u15) neemt kleine honden in gesloten draagtassen gratis mee, grote honden naar goeddunken van de chauffeur in het bagageruim. De TRAM Línea 9 naar Benidorm plus Línea 1 naar Alicante is landschappelijk mooi, maar duurt met overstap 2u30, alleen aan te raden voor kleine honden in een draagtas."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani sono ammessi sul sentiero della vetta del Peñón de Ifach?",
+          "a": "No. Secondo le regole del parco naturale della Generalitat Valenciana, i cani al guinzaglio sono ammessi solo sul sentiero d'accesso ai piedi della roccia fino alla zona del centro visitatori, con ampia vista sulla baia di Calpe. I cani NON sono ammessi nel tratto superiore del tunnel o sul sentiero della vetta sopra. La passeggiata con il cane ai piedi della roccia dura 45 minuti andata e ritorno ed è gratuita. Controlla sempre l'avviso di accesso del giorno al centro visitatori, il parco può essere chiuso in caso di vento forte o rischio di incendio."
+        },
+        {
+          "q": "Dove può nuotare il mio cane a Calpe in estate?",
+          "a": "Sulle principali spiagge cittadine (Playa La Fossa, Playa Arenal-Bol) i cani sono in genere esclusi dalla sabbia dal 1 maggio al 15 ottobre secondo l'ordinanza dell'Ajuntament Calp. I tratti rocciosi non segnalati tra le calette ufficiali (intorno a Cala El Racó e Cala Calalga) sono una zona grigia dove i locali portano comunque i cani al guinzaglio all'alba anche d'estate, ma controlla sempre prima l'ordinanza vigente sul sito dell'Ajuntament Calp. La spiaggia per cani ufficiale più vicina aperta tutto l'anno è la Platja Canina de Les Deveses a Dénia, 25 km a nord."
+        },
+        {
+          "q": "Come arrivo con il cane da Calpe all'aeroporto di Alicante?",
+          "a": "L'opzione più semplice è un taxi privato da Calpe ad ALC (60 km, 50 minuti, circa 90-110 euro), prenotato tramite Radio Taxi Calpe con conferma pet-friendly. L'autobus ALSA-Costa Azul (1h15) trasporta gratis i cani piccoli in borse da trasporto chiuse, i cani grandi a discrezione dell'autista nel vano bagagli. Il TRAM Línea 9 per Benidorm più la Línea 1 per Alicante è panoramico, ma con il cambio richiede 2h30, consigliabile solo per cani piccoli in borsa da trasporto."
         }
       ]
     },
@@ -638,12 +708,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Casco+Antiguo+Calpe",
           "nameDe": "Casco antiguo (Calp old town) and Plaza Mayor",
           "nameNl": "Casco antiguo (oude binnenstad van Calp) en Plaza Mayor",
+          "nameIt": "Casco antiguo (centro storico di Calp) e Plaza Mayor",
           "descriptionDe": "Die mittelalterliche Altstadt von Calp erklimmt den Hügel hinter dem Yachthafen, ein Labyrinth aus engen, weiß getünchten Gassen, wandbemalten Fassaden und kleinen Plätzen, die zur Plaza Mayor mit der Mudéjar-gotischen Iglesia Antigua aus dem 15. Jahrhundert hinaufführen. Angeleinte Hunde das ganze Jahr über in allen Straßen und auf den Außenplätzen willkommen, mit zahlreichen Terrassencafés. Der Aussichtspunkt Forat de Calp am oberen Ende der Altstadt bietet einen Panoramablick über die Bucht und den Peñón de Ifach.",
           "descriptionNl": "De middeleeuwse oude binnenstad van Calp klimt de heuvel op achter de jachthaven, een labyrint van smalle, witgekalkte steegjes, met muurschilderingen versierde gevels en kleine pleintjes die omhoog leiden naar de Plaza Mayor met de mudéjar-gotische Iglesia Antigua uit de 15e eeuw. Honden aan de lijn het hele jaar door welkom in alle straten en op de buitenterrassen, met talloze terrascafés. Het uitkijkpunt Forat de Calp aan het bovenste uiteinde van de oude binnenstad biedt een panoramisch uitzicht over de baai en de Peñón de Ifach.",
+          "descriptionIt": "Il centro storico medievale di Calp si arrampica sulla collina dietro il porto turistico, un labirinto di vicoli stretti e imbiancati a calce, facciate decorate con murales e piccole piazze che salgono fino alla Plaza Mayor con la mudéjar-gotica Iglesia Antigua del XV secolo. Cani al guinzaglio benvenuti tutto l'anno in tutte le strade e nelle terrazze esterne, con numerosi caffè con dehors. Il belvedere Forat de Calp all'estremità superiore del centro storico offre una vista panoramica sulla baia e sul Peñón de Ifach.",
           "petPolicyDe": "Angeleinte Hunde das ganze Jahr über in allen Straßen und auf den Außenterrassen willkommen",
           "petPolicyNl": "Honden aan de lijn het hele jaar door welkom in alle straten en op de buitenterrassen",
+          "petPolicyIt": "Cani al guinzaglio benvenuti tutto l'anno in tutte le strade e nelle terrazze esterne",
           "tipDe": "Steigen Sie bei Sonnenuntergang zum Aussichtspunkt Forat de Calp hinauf, wenn das warme Licht auf den Kalkstein des Peñón de Ifach trifft. Planen Sie 60 Minuten für die Runde durch die Altstadt einschließlich des Aufstiegs ein",
-          "tipNl": "Klim bij zonsondergang naar het uitkijkpunt Forat de Calp, wanneer het warme licht op de kalksteen van de Peñón de Ifach valt. Plan 60 minuten voor de rondwandeling door de oude binnenstad inclusief de klim"
+          "tipNl": "Klim bij zonsondergang naar het uitkijkpunt Forat de Calp, wanneer het warme licht op de kalksteen van de Peñón de Ifach valt. Plan 60 minuten voor de rondwandeling door de oude binnenstad inclusief de klim",
+          "tipIt": "Sali al belvedere Forat de Calp al tramonto, quando la luce calda illumina il calcare del Peñón de Ifach. Pianifica 60 minuti per il giro del centro storico inclusa la salita"
         },
         {
           "name": "Banys de la Reina Roman archaeological site",
@@ -667,12 +741,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Banys+de+la+Reina+Calpe",
           "nameDe": "Banys de la Reina Roman archaeological site",
           "nameNl": "Romeinse archeologische vindplaats Banys de la Reina",
+          "nameIt": "Sito archeologico romano Banys de la Reina",
           "descriptionDe": "Fischzuchtbecken aus römischer Zeit und eine kleine archäologische Stätte am südlichen Ende der Playa Arenal-Bol, mit rechteckigen Becken, die direkt in das Kalksteinplateau am Meeresrand gehauen wurden. Ein kostenloser Bohlensteg im Freien verläuft oberhalb der Becken mit Informationstafeln, angeleinte Hunde das ganze Jahr über willkommen. Die Stätte gehört zu den eindrucksvollsten römischen Meeresarchäologiestätten der Costa Blanca, mit dem Peñón de Ifach als dramatischer Kulisse.",
           "descriptionNl": "Viskweekbekkens uit de Romeinse tijd en een kleine archeologische vindplaats aan het zuidelijke uiteinde van de Playa Arenal-Bol, met rechthoekige bekkens die direct uit het kalksteenplateau aan de waterkant zijn uitgehouwen. Een gratis openluchtvlonderpad loopt boven de bekkens met informatieborden, honden aan de lijn het hele jaar door welkom. De vindplaats behoort tot de indrukwekkendste Romeinse zeearcheologische vindplaatsen van de Costa Blanca, met de Peñón de Ifach als dramatische kulisse.",
+          "descriptionIt": "Vasche di epoca romana per l'allevamento del pesce e un piccolo sito archeologico all'estremità sud della Playa Arenal-Bol, con vasche rettangolari scavate direttamente nella piattaforma calcarea sul mare. Una passerella gratuita all'aperto corre sopra le vasche con pannelli informativi, cani al guinzaglio benvenuti tutto l'anno. Il sito è tra i più suggestivi siti archeologici marittimi romani della Costa Blanca, con il Peñón de Ifach come sfondo spettacolare.",
           "petPolicyDe": "Angeleinte Hunde das ganze Jahr über auf dem Bohlensteg im Freien willkommen. Der archäologische Innenraum ist für Hunde nicht zugänglich.",
           "petPolicyNl": "Honden aan de lijn het hele jaar door welkom op het openluchtvlonderpad. De archeologische binnenruimte is niet toegankelijk voor honden.",
+          "petPolicyIt": "Cani al guinzaglio benvenuti tutto l'anno sulla passerella all'aperto. Lo spazio archeologico interno non è accessibile ai cani.",
           "tipDe": "Besuchen Sie den Ort bei Sonnenuntergang, wenn sich das warme Licht im ruhigen Wasser der ausgehauenen Becken spiegelt. Kombinieren Sie den Besuch mit einem Spaziergang auf dem Paseo Marítimo zum Yachthafen (1 km) für eine entspannte 90-minütige Abendrunde",
-          "tipNl": "Bezoek de plek bij zonsondergang, wanneer het warme licht weerspiegelt in het rustige water van de uitgehouwen bekkens. Combineer het bezoek met een wandeling op de Paseo Marítimo naar de jachthaven (1 km) voor een ontspannen avondrondje van 90 minuten"
+          "tipNl": "Bezoek de plek bij zonsondergang, wanneer het warme licht weerspiegelt in het rustige water van de uitgehouwen bekkens. Combineer het bezoek met een wandeling op de Paseo Marítimo naar de jachthaven (1 km) voor een ontspannen avondrondje van 90 minuten",
+          "tipIt": "Visita il luogo al tramonto, quando la luce calda si riflette nell'acqua calma delle vasche scavate. Abbina la visita a una passeggiata sul Paseo Marítimo fino al porto turistico (1 km) per un giro serale rilassato di 90 minuti"
         },
         {
           "name": "Puerto Pesquero (Calpe fishing harbour and lonja)",
@@ -696,20 +774,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Puerto+Pesquero+Calpe",
           "nameDe": "Puerto Pesquero (Calpe fishing harbour and lonja)",
           "nameNl": "Puerto Pesquero (vissershaven en lonja van Calpe)",
+          "nameIt": "Puerto Pesquero (porto peschereccio e lonja di Calpe)",
           "descriptionDe": "Der aktive Fischereihafen am Fuß des Peñón de Ifach, wo die örtliche Flotte täglich zwischen 16:00 und 18:00 Uhr die gamba blanca, den pescado del Peñón und saisonale Sardinen anlandet. Die Außenkais und der parallel verlaufende Paseo oberhalb der Fischauktion sind das ganze Jahr über für angeleinte Hunde zugänglich, mit einer Reihe haustierfreundlicher Tapas-Terrassen mit Blick auf die vor Anker liegende Flotte. Saisonale Tagesausflugsboote fahren vom Yachthafen zur nahen Küste (keine Haustierfähren zu den Balearen ab Calpe, diese fahren von Dénia, 25 km nördlich, ab).",
           "descriptionNl": "De actieve vissershaven aan de voet van de Peñón de Ifach, waar de plaatselijke vloot dagelijks tussen 16:00 en 18:00 uur de gamba blanca, de pescado del Peñón en seizoenssardines aanlandt. De buitenkades en de parallel lopende Paseo boven de visveiling zijn het hele jaar door toegankelijk voor honden aan de lijn, met een reeks huisdiervriendelijke tapasterrassen met uitzicht op de voor anker liggende vloot. Seizoensgebonden dagtochtboten varen vanaf de jachthaven naar de nabije kust (geen huisdierveerboten naar de Balearen vanuit Calpe, die vertrekken vanuit Dénia, 25 km noordelijker).",
+          "descriptionIt": "Il porto peschereccio attivo ai piedi del Peñón de Ifach, dove la flotta locale sbarca ogni giorno tra le 16:00 e le 18:00 la gamba blanca, il pesce del Peñón e le sardine di stagione. Le banchine esterne e il parallelo Paseo sopra l'asta del pesce sono accessibili tutto l'anno ai cani al guinzaglio, con una serie di terrazze di tapas pet-friendly affacciate sulla flotta all'ancora. Battute stagionali per gite di un giorno partono dal porto turistico verso la costa vicina (nessun traghetto pet-friendly per le Baleari da Calpe, che partono da Dénia, 25 km a nord).",
           "petPolicyDe": "Angeleinte Hunde das ganze Jahr über auf den Außenkais und dem Paseo willkommen. Die Auktionshalle der Fischauktion ist nicht zugänglich.",
           "petPolicyNl": "Honden aan de lijn het hele jaar door welkom op de buitenkades en de Paseo. De veilinghal van de visveiling is niet toegankelijk.",
+          "petPolicyIt": "Cani al guinzaglio benvenuti tutto l'anno sulle banchine esterne e sul Paseo. La sala d'asta del pesce non è accessibile.",
           "tipDe": "Kommen Sie zwischen 16:00 und 17:00 Uhr, um zu beobachten, wie die Flotte direkt am Kai der Fischauktion entlädt, eine typische Szene der Marina Alta. Wählen Sie eine Tapas-Terrasse mit Blick auf den Hafen und den Peñón für den Sonnenuntergang",
-          "tipNl": "Kom tussen 16:00 en 17:00 uur om te zien hoe de vloot rechtstreeks aan de kade van de visveiling lost, een typisch tafereel van de Marina Alta. Kies een tapasterras met uitzicht op de haven en de Peñón voor de zonsondergang"
+          "tipNl": "Kom tussen 16:00 en 17:00 uur om te zien hoe de vloot rechtstreeks aan de kade van de visveiling lost, een typisch tafereel van de Marina Alta. Kies een tapasterras met uitzicht op de haven en de Peñón voor de zonsondergang",
+          "tipIt": "Vieni tra le 16:00 e le 17:00 per vedere la flotta scaricare direttamente sulla banchina dell'asta del pesce, una scena tipica della Marina Alta. Scegli una terrazza di tapas con vista sul porto e sul Peñón per il tramonto"
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Calpe",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Calpe",
+      "titleIt": "Attrazioni pet-friendly a Calpe",
       "introDe": "Die Hauptattraktionen von Calpe sind fast durchweg im Freien: der über allem aufragende Monolith des Naturparks Peñón de Ifach, die mittelalterliche Altstadt mit ihren engen Gassen und der Mudéjar-gotischen Iglesia Antigua, die Plaza Mayor und die römischen archäologischen Becken der Banys de la Reina. Alle sind an einem einzigen, vom Hund geführten Vormittag zu Fuß erreichbar, mit angeleinten Hunden überall willkommen. Nur die Innenausstellungen des archäologischen Museums in der Iglesia Antigua und im Altstadtmuseum erfordern ein Warten draußen.",
       "introNl": "De belangrijkste attracties van Calpe liggen bijna allemaal in de buitenlucht: de bovenal uittorenende monoliet van het natuurpark Peñón de Ifach, de middeleeuwse oude binnenstad met zijn smalle steegjes en de mudéjar-gotische Iglesia Antigua, de Plaza Mayor en de Romeinse archeologische bekkens van de Banys de la Reina. Allemaal te voet bereikbaar op één met hond doorgebrachte ochtend, met honden aan de lijn overal welkom. Alleen de binnententoonstellingen van het archeologisch museum in de Iglesia Antigua en het museum van de oude binnenstad vereisen wachten buiten.",
+      "introIt": "Le principali attrazioni di Calpe sono quasi tutte all'aperto: il monolite dominante del parco naturale del Peñón de Ifach, il centro storico medievale con i suoi vicoli stretti e la mudéjar-gotica Iglesia Antigua, la Plaza Mayor e le vasche archeologiche romane dei Banys de la Reina. Tutti raggiungibili a piedi in una mattinata con il cane, con i cani al guinzaglio benvenuti ovunque. Solo le esposizioni interne del museo archeologico nella Iglesia Antigua e il museo del centro storico richiedono di aspettare fuori.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting and Dog Care in Calpe",
@@ -737,10 +822,13 @@
       ],
       "titleDe": "Haustierbetreuung und Hundepflege in Calpe",
       "titleNl": "Huisdierenzorg en hondenverzorging in Calpe",
+      "titleIt": "Cura degli animali e servizi per cani a Calpe",
       "introDe": "Für die Tage, an denen Sie den Gipfelweg des Peñón de Ifach nehmen möchten, den Hunde nicht erklimmen dürfen, das archäologische Museum im Inneren besuchen oder einfach ein paar ruhige Stunden haben möchten, verfügt Calpe über ein funktionierendes Netz an Haustierbetreuung. Rover.es ist die zuverlässigste On-Demand-Plattform mit geprüften örtlichen Betreuern in der gesamten Marina Alta, und mehrere Tagesbetreuungs- und Pflegebetriebe in der Stadt und im nahen Benissa nehmen bei rechtzeitiger Ankündigung kurzfristige Ferienbetreuung an.",
       "introNl": "Voor de dagen waarop je het toppad van de Peñón de Ifach wilt nemen, dat honden niet mogen beklimmen, het archeologisch museum binnen wilt bezoeken, of gewoon een paar rustige uren wilt hebben, beschikt Calpe over een goed functionerend netwerk van huisdierenzorg. Rover.es is het meest betrouwbare on-demand-platform met gescreende lokale oppassers in de hele Marina Alta, en meerdere dagopvang- en verzorgingsbedrijven in de stad en het nabijgelegen Benissa nemen bij tijdige aankondiging kortstondige vakantieopvang aan.",
+      "introIt": "Per i giorni in cui vuoi percorrere il sentiero della vetta del Peñón de Ifach, dove i cani non possono salire, visitare l'interno del museo archeologico, o semplicemente avere qualche ora di tranquillità, Calpe dispone di una rete di cura degli animali ben funzionante. Rover.es è la piattaforma on-demand più affidabile con pet sitter locali verificati in tutta la Marina Alta, e diverse aziende di pensione diurna e cura degli animali in città e nella vicina Benissa accettano pensioni brevi con preavviso.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

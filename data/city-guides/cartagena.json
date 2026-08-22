@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Restaurante+La+Marquesita+Cartagena",
           "descriptionDe": "Ein angesehenes mediterranes Restaurant in der Altstadt mit einer bequemen Außenterrasse, die sich ausdrücklich als hundefreundlich vermarktet. Das Personal ist an vierbeinige Gäste gewöhnt, und die schattige Terrasse ist ein ruhiger Ort zum Essen abseits der Mittagshitze.",
           "descriptionNl": "Een gerenommeerd mediterraan restaurant in het oude centrum met een comfortabel buitenterras dat zich uitdrukkelijk als hondvriendelijk profileert. Het personeel is gewend aan viervoetige gasten, en het schaduwrijke terras is een rustige plek om te eten, weg van de middaghitte.",
+          "descriptionIt": "Un rinomato ristorante mediterraneo nel centro storico con una comoda terrazza esterna che si presenta esplicitamente come pet friendly. Il personale è abituato agli ospiti a quattro zampe, e la terrazza ombreggiata è un posto tranquillo per mangiare, lontano dal caldo di mezzogiorno.",
           "petPolicyDe": "Hunde willkommen auf der Außenterrasse",
           "petPolicyNl": "Honden welkom op het buitenterras",
+          "petPolicyIt": "Cani benvenuti sulla terrazza esterna",
           "mustTryDe": "Mediterrane Reisgerichte, frischer lokaler Fisch",
           "mustTryNl": "Mediterrane rijstgerechten, verse lokale vis",
+          "mustTryIt": "Piatti di riso mediterranei, pesce locale fresco",
           "tipDe": "Bitten Sie im Sommer um einen schattigen Terrassentisch und bringen Sie einen faltbaren Wassernapf mit. Der Boden wird zur Mittagszeit schnell heiß",
-          "tipNl": "Vraag in de zomer om een schaduwrijke terrastafel en neem een opvouwbaar waterbakje mee. De vloer wordt rond het middaguur snel heet"
+          "tipNl": "Vraag in de zomer om een schaduwrijke terrastafel en neem een opvouwbaar waterbakje mee. De vloer wordt rond het middaguur snel heet",
+          "tipIt": "In estate chiedi un tavolo in terrazza all'ombra e porta una ciotola pieghevole per l'acqua. Il pavimento si scalda in fretta verso mezzogiorno"
         },
         {
           "name": "Bar Restaurante Píkara",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bar+Restaurante+Pikara+Cartagena",
           "descriptionDe": "Eine lebendige Tapas- und Racionesbar, nur einen kurzen Spaziergang vom Puerto entfernt, mit einer Straßenterrasse, auf der Hunde willkommen sind. Ein unkomplizierter Stopp für Wermut und spanische kleine Gerichte nach einem Spaziergang entlang der Uferpromenade Paseo Alfonso XII.",
           "descriptionNl": "Een levendige tapas- en racionesbar, op een klein wandelingetje van de Puerto, met een straatterras waar honden welkom zijn. Een fijne stop voor vermout en Spaanse kleine gerechten na een wandeling langs de kade Paseo Alfonso XII.",
+          "descriptionIt": "Un vivace bar di tapas e raciones, a due passi dal Puerto, con una terrazza sulla strada dove i cani sono benvenuti. Una tappa perfetta per un vermut e piccoli piatti spagnoli dopo una passeggiata lungo il molo Paseo Alfonso XII.",
           "petPolicyDe": "Hunde willkommen auf der Straßenterrasse",
           "petPolicyNl": "Honden welkom op het straatterras",
+          "petPolicyIt": "Cani benvenuti sulla terrazza sulla strada",
           "mustTryDe": "Tapas, Raciones, Wermut",
           "mustTryNl": "Tapas, raciones, vermout",
+          "mustTryIt": "Tapas, raciones, vermut",
           "tipDe": "Gehen Sie am frühen Abend auf einen Wermut, sobald die Hafenbrise aufkommt. Die Terrasse ist dann kühler",
-          "tipNl": "Ga vroeg in de avond voor een vermout, zodra de havenbries opsteekt. Het terras is dan koeler"
+          "tipNl": "Ga vroeg in de avond voor een vermout, zodra de havenbries opsteekt. Het terras is dan koeler",
+          "tipIt": "Vai a inizio serata per un vermut, appena si alza la brezza del porto. La terrazza è più fresca a quell'ora"
         },
         {
           "name": "Café Arena (El Secreto del Agua)",
@@ -110,12 +118,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cafe+Arena+Cartagena",
           "descriptionDe": "Ein entspanntes Café-Restaurant, dessen Terrasse Hunde willkommen heißt, während Sie sich durch eine vielseitige Ganztageskarte arbeiten. Ein praktischer Tagesstützpunkt zwischen den Sehenswürdigkeiten, mit Schatten und einer entspannten Haltung gegenüber vierbeiniger Gesellschaft.",
           "descriptionNl": "Een ontspannen café-restaurant waarvan het terras honden verwelkomt, terwijl je je door een veelzijdige dagkaart werkt. Een handige pleisterplaats overdag tussen de bezienswaardigheden, met schaduw en een relaxte houding tegenover viervoetig gezelschap.",
+          "descriptionIt": "Un bar-ristorante rilassato la cui terrazza accoglie i cani, mentre ti destreggi tra un menu del giorno vario. Una sosta comoda durante il giorno tra un'attrazione e l'altra, con ombra e un atteggiamento tranquillo verso la compagnia a quattro zampe.",
           "petPolicyDe": "Hunde willkommen auf der Terrasse",
           "petPolicyNl": "Honden welkom op het terras",
+          "petPolicyIt": "Cani benvenuti in terrazza",
           "mustTryDe": "Ganztageskarte, Kaffee, kleine Snacks",
           "mustTryNl": "Dagkaart, koffie, kleine snacks",
+          "mustTryIt": "Menu del giorno, caffè, snack veloci",
           "tipDe": "Ein guter schattiger Erfrischungsstopp zwischen dem Römischen Theater und dem Hafen. Bringen Sie Wasser für Ihren Hund mit",
-          "tipNl": "Een goede schaduwrijke verfrissingsstop tussen het Romeinse theater en de haven. Neem water mee voor jouw hond"
+          "tipNl": "Een goede schaduwrijke verfrissingsstop tussen het Romeinse theater en de haven. Neem water mee voor jouw hond",
+          "tipIt": "Una buona sosta ombreggiata per rinfrescarsi tra il teatro romano e il porto. Porta acqua per il tuo cane"
         }
       ],
       "tipsEn": [
@@ -196,8 +208,10 @@
       ],
       "titleDe": "Haustierfreundliche Restaurants in Cartagena",
       "titleNl": "Huisdiervriendelijke restaurants in Cartagena",
+      "titleIt": "Ristoranti pet friendly a Cartagena",
       "introDe": "Das milde Mittelmeerklima Cartagenas macht die Terrassen zum Herzstück des Restaurantlebens, und viele davon heißen einen wohlerzogenen Hund zu Ihren Füßen willkommen. Im Sommer ist es am klügsten, abends im Freien zu essen, sobald die Hafenbrise die Altstadt abkühlt, denn die meisten Küchen lassen Hunde nur auf der Terrasse und nicht im klimatisierten Speisesaal zu. Die drei folgenden Adressen sind auf ihren Außenterrassen bestätigt hundefreundlich.",
       "introNl": "Het milde mediterrane klimaat van Cartagena maakt de terrassen tot het hart van het restaurantleven, en veel daarvan verwelkomen een goedopgevoede hond aan je voeten. In de zomer is het slimst om 's avonds buiten te eten, zodra de havenbries het oude centrum afkoelt, want de meeste keukens laten honden alleen op het terras toe en niet in de geklimatiseerde eetzaal. De drie adressen hieronder zijn bevestigd hondvriendelijk op hun buitenterrassen.",
+      "introIt": "Il clima mediterraneo mite di Cartagena rende le terrazze il cuore della vita dei ristoranti, e molte accolgono un cane ben educato ai tuoi piedi. In estate la scelta più furba è cenare fuori la sera, appena la brezza del porto rinfresca il centro storico, perché la maggior parte delle cucine ammette i cani solo in terrazza e non nella sala climatizzata. I tre indirizzi qui sotto sono confermati pet friendly nelle loro terrazze esterne.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Cartagena erlaubt?",
@@ -224,6 +238,20 @@
         {
           "q": "Zetten terrassen in Cartagena waterbakjes neer voor honden?",
           "a": "Sommige wel, maar niet allemaal. Neem een opvouwbaar bakje mee en vraag het personeel om het gewoon te vullen. De meesten helpen graag."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani sono ammessi nei ristoranti a Cartagena?",
+          "a": "Sì, sulla maggior parte delle terrazze esterne. La legge regionale della Murcia lascia la decisione a ogni locale, che la segnala con un cartello all'ingresso. Gli spazi interni, specialmente quelli climatizzati, spesso non ammettono cani, quindi conta sulla terrazza."
+        },
+        {
+          "q": "Qual è il momento migliore per mangiare fuori con il cane in estate a Cartagena?",
+          "a": "La sera. Mangia fuori dopo le 21:00, appena la brezza del porto rinfresca il centro storico e i marciapiedi non scottano più. Le terrazze verso mezzogiorno possono essere scomode per i cani a luglio e agosto."
+        },
+        {
+          "q": "Le terrazze a Cartagena mettono ciotole d'acqua per i cani?",
+          "a": "Alcune sì, ma non tutte. Porta una ciotola pieghevole e chiedi semplicemente al personale di riempirla. La maggior parte è felice di aiutare."
         }
       ]
     },
@@ -258,10 +286,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parque+de+la+Rosa+Cartagena",
           "descriptionDe": "Cartagenas erster richtiger Hundepark, ein eingezäuntes Freilaufareal von rund 1.500 Quadratmetern neben dem renovierten Parque de la Rosa. Er verfügt über doppelte Sicherheitstore, Trinkbrunnen für Hunde, Bänke für Halter und einen Agility-Parcours, was ihn zum besten Ort der Stadt macht, damit größere Hunde sicher toben können.",
           "descriptionNl": "Het eerste echte hondenpark van Cartagena, een omheind losloopterrein van ongeveer 1.500 vierkante meter naast het gerenoveerde Parque de la Rosa. Het heeft dubbele veiligheidspoorten, drinkfonteinen voor honden, bankjes voor baasjes en een behendigheidsparcours, wat het de beste plek in de stad maakt voor grotere honden om veilig te ravotten.",
+          "descriptionIt": "Il primo vero parco per cani di Cartagena, un'area recintata per la libertà di circa 1.500 metri quadrati accanto al rinnovato Parque de la Rosa. Ha doppi cancelli di sicurezza, fontanelle per cani, panchine per i padroni e un percorso di agility, il che lo rende il posto migliore in città perché i cani più grandi possano correre in sicurezza.",
           "offLeashAreaDe": "Gesamtes eingezäuntes Areal neben dem Parque de la Rosa",
           "offLeashAreaNl": "Het volledige omheinde terrein naast het Parque de la Rosa",
+          "offLeashAreaIt": "L'intera area recintata accanto al Parque de la Rosa",
           "tipDe": "Kommen Sie im Sommer zur Öffnungszeit oder nach Sonnenuntergang. Der Schatten ist begrenzt und der Boden heizt sich mittags auf",
-          "tipNl": "Kom in de zomer bij openingstijd of na zonsondergang. De schaduw is beperkt en de grond wordt rond het middaguur heet"
+          "tipNl": "Kom in de zomer bij openingstijd of na zonsondergang. De schaduw is beperkt en de grond wordt rond het middaguur heet",
+          "tipIt": "In estate vieni all'apertura o dopo il tramonto. L'ombra è scarsa e il terreno si scalda verso mezzogiorno"
         },
         {
           "name": "Parque Torres & Castillo de la Concepción",
@@ -284,10 +315,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parque+Torres+Cartagena",
           "descriptionDe": "Ein grüner Hangpark, der zum Castillo de la Concepción hinaufführt, mit Pinienschatten, Terrassen und weiten Blicken über das Römische Theater und den Hafen. Hunde sind an der Leine auf den Wegen willkommen, und der Baumbestand macht diesen Spaziergang zu einem der wenigen tagsüber erträglichen bei Hitze.",
           "descriptionNl": "Een groen hellingpark dat omhoog leidt naar het Castillo de la Concepción, met schaduw van pijnbomen, terrassen en wijde uitzichten over het Romeinse theater en de haven. Honden zijn aangelijnd welkom op de paden, en het geboomte maakt deze wandeling tot een van de weinige die overdag bij hitte draaglijk is.",
+          "descriptionIt": "Un parco verde in salita che porta al Castillo de la Concepción, con ombra di pini, terrazze e ampie vedute sul teatro romano e sul porto. I cani al guinzaglio sono benvenuti sui sentieri, e gli alberi rendono questa passeggiata una delle poche sopportabili di giorno quando fa caldo.",
           "offLeashAreaDe": "Keine. Durchgehend an der Leine",
           "offLeashAreaNl": "Geen. Aanlijnplicht overal",
+          "offLeashAreaIt": "Nessuna. Guinzaglio obbligatorio ovunque",
           "tipDe": "Nehmen Sie bei kleinem Hund oder Hitze den Panoramalift hinauf und gehen Sie dann die schattigen Wege hinunter",
-          "tipNl": "Neem bij een kleine hond of hitte de panoramalift naar boven en loop daarna de schaduwrijke paden af"
+          "tipNl": "Neem bij een kleine hond of hitte de panoramalift naar boven en loop daarna de schaduwrijke paden af",
+          "tipIt": "Con un cane piccolo o in caso di caldo prendi l'ascensore panoramico verso l'alto e poi scendi lungo i sentieri ombreggiati"
         },
         {
           "name": "Paseo Alfonso XII (harbour promenade)",
@@ -310,10 +344,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Paseo+Alfonso+XII+Cartagena",
           "descriptionDe": "Die breite Uferpromenade entlang des Puerto, vorbei an der Marina und den historischen Ausblicken auf den Leuchtturm Navidad. Flach, offen und von Palmen gesäumt, ist sie ein einfacher Spaziergang an der Leine mit Meeresbrise, am besten in der Kühle des frühen Morgens oder Abends genossen.",
           "descriptionNl": "De brede boulevard langs de Puerto, langs de jachthaven en de historische uitzichten op de vuurtoren Navidad. Vlak, open en omzoomd door palmen, is het een eenvoudige aangelijnde wandeling met zeebries, het best te genieten in de koelte van de vroege ochtend of avond.",
+          "descriptionIt": "Il largo lungomare lungo il Puerto, che costeggia il porto turistico e le viste storiche sul faro Navidad. Piatto, aperto e fiancheggiato da palme, è una semplice passeggiata al guinzaglio con brezza marina, da godere meglio nella frescura della mattina presto o della sera.",
           "offLeashAreaDe": "Keine. An der Leine entlang der Promenade",
           "offLeashAreaNl": "Geen. Aangelijnd langs de boulevard",
+          "offLeashAreaIt": "Nessuna. Al guinzaglio lungo il lungomare",
           "tipDe": "Gehen Sie bei Sonnenaufgang oder nach dem Abendessen. Die offene Promenade bietet wenig Schatten, aber die Brise macht sie zum kühlsten Ort der Stadt",
-          "tipNl": "Loop bij zonsopgang of na het avondeten. De open boulevard biedt weinig schaduw, maar de bries maakt het de koelste plek in de stad"
+          "tipNl": "Loop bij zonsopgang of na het avondeten. De open boulevard biedt weinig schaduw, maar de bries maakt het de koelste plek in de stad",
+          "tipIt": "Cammina all'alba o dopo cena. Il lungomare aperto offre poca ombra, ma la brezza lo rende il posto più fresco della città"
         }
       ],
       "tipsEn": [
@@ -394,8 +431,10 @@
       ],
       "titleDe": "Hundeparks & Spaziergänge in Cartagena",
       "titleNl": "Hondenparken en wandelingen in Cartagena",
+      "titleIt": "Parchi per cani e passeggiate a Cartagena",
       "introDe": "Cartagena verfügt über ein wachsendes Netz eingezäunter Hundeareale (parques caninos und pipicanes) sowie über reizvolle Hügelwege hinauf zu den alten Festungsanlagen. Im murcianischen Sommer sind nur der frühe Morgen und die Zeit nach Sonnenuntergang für Spaziergänge angenehm, wenn Asphalt und Kies genug abgekühlt sind, um die Pfoten Ihres Hundes zu schonen.",
       "introNl": "Cartagena heeft een groeiend netwerk van omheinde hondenterreinen (parques caninos en pipicanes) en aantrekkelijke heuvelpaden omhoog naar de oude vestingwerken. In de Murciaanse zomer zijn alleen de vroege ochtend en de tijd na zonsondergang aangenaam om te wandelen, wanneer asfalt en grind voldoende zijn afgekoeld om de pootjes van jouw hond te sparen.",
+      "introIt": "Cartagena ha una rete crescente di aree recintate per cani (parques caninos e pipicanes) e sentieri collinari suggestivi che salgono verso le antiche fortificazioni. Nell'estate murciana solo la mattina presto e le ore dopo il tramonto sono piacevoli per camminare, quando l'asfalto e la ghiaia si sono raffreddati abbastanza da risparmiare le zampe del tuo cane.",
       "faqsDe": [
         {
           "q": "Gibt es einen Hundepark in Cartagena?",
@@ -422,6 +461,20 @@
         {
           "q": "Wanneer moet ik mijn hond in de zomer uitlaten in Cartagena?",
           "a": "Vroeg in de ochtend voor 09:00 uur en na zonsondergang. Het Murciaanse asfalt wordt rond het middaguur heet genoeg om pootjes te verbranden. Test de grond met je hand en blijf op koelere momenten op schaduwrijke, luchtige routes zoals de havenboulevard."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è un parco per cani a Cartagena?",
+          "a": "Sì. La principale area recintata per la libertà di Cartagena si trova accanto al Parque de la Rosa. Misura circa 1.500 metri quadrati, con doppi cancelli di sicurezza, fontanelle per cani e un percorso di agility."
+        },
+        {
+          "q": "I cani possono stare senza guinzaglio a Cartagena?",
+          "a": "Solo dentro il parque canino recintato. In tutte le strade pubbliche, i lungomare e nel Parque Torres i cani devono restare al guinzaglio."
+        },
+        {
+          "q": "Quando devo portare fuori il cane in estate a Cartagena?",
+          "a": "Presto al mattino prima delle 09:00 e dopo il tramonto. L'asfalto murciano diventa abbastanza caldo verso mezzogiorno da ustionare le zampe. Prova il terreno con la mano e nelle ore più calde resta su percorsi ombreggiati e ventilati come il lungomare del porto."
         }
       ]
     },
@@ -548,8 +601,10 @@
       ],
       "titleDe": "Mit Haustieren unterwegs in Cartagena",
       "titleNl": "Met huisdieren onderweg in Cartagena",
+      "titleIt": "In giro con gli animali a Cartagena",
       "introDe": "Cartagena ist kompakt und zu Fuß gut erreichbar, was gut ist, denn die Regeln für Hunde unterscheiden sich stark zwischen den Verkehrsmitteln. Die Cercanías-Züge sind großzügig und lassen angeleinte Hunde kostenlos mitfahren, aber die städtischen Busse sind sehr restriktiv und lassen nur kleine Hunde in einer Transportbox zu. Planen Sie diesen Unterschied ein, besonders im Sommer, wenn lange Fußwege zur Mittagszeit für einen Hund anstrengend sind.",
       "introNl": "Cartagena is compact en goed te voet bereikbaar, wat goed uitkomt, want de regels voor honden verschillen sterk per vervoermiddel. De Cercanías-treinen zijn ruimhartig en laten aangelijnde honden gratis mee, maar de stadsbussen zijn erg streng en laten alleen kleine honden in een reismand toe. Houd rekening met dit verschil, zeker in de zomer, wanneer lange wandelingen rond het middaguur zwaar zijn voor een hond.",
+      "introIt": "Cartagena è compatta e facile da girare a piedi, il che è comodo, perché le regole sui cani cambiano molto a seconda del mezzo. I treni Cercanías sono generosi e fanno salire gratis i cani al guinzaglio, ma gli autobus urbani sono molto rigidi e ammettono solo cani piccoli in un trasportino. Tieni conto di questa differenza, soprattutto in estate, quando le lunghe camminate verso mezzogiorno sono pesanti per un cane.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund im Bus in Cartagena mitnehmen?",
@@ -577,6 +632,20 @@
           "q": "Hoe kom ik met hond van het vliegveld naar Cartagena?",
           "a": "Vliegveld Región de Murcia (RMU) ligt op ongeveer 30 minuten. Boek van tevoren een taxi en vermeld jouw hond, want meenemen is ter beoordeling van de chauffeur. Neem een reismand of handdoek mee voor de stoel."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il cane in autobus a Cartagena?",
+          "a": "Solo se è un cane piccolo in un trasportino delle dimensioni del bagaglio a mano (circa 45x35x25 cm, sotto i 7 kg), oppure un cane guida o di assistenza. I cani di taglia media e grande non sono ammessi sugli autobus urbani di Cartagena, quindi vai a piedi o prendi un taxi."
+        },
+        {
+          "q": "Posso portare il cane in treno da Cartagena?",
+          "a": "Sì. La linea Renfe Cercanías C-2 fa viaggiare gli animali gratis, senza limite di peso. I cani fuori dal trasportino hanno bisogno di museruola e guinzaglio non estensibile fino a 1,5 m, un animale per viaggiatore."
+        },
+        {
+          "q": "Come arrivo a Cartagena dall'aeroporto con il cane?",
+          "a": "L'aeroporto Región de Murcia (RMU) si trova a circa 30 minuti. Prenota un taxi in anticipo e segnala il tuo cane, perché l'accettazione è a discrezione dell'autista. Porta un trasportino o un asciugamano per il sedile."
+        }
       ]
     },
     "beaches": {
@@ -598,18 +667,21 @@
           "descriptionPt": "Uma praia canina oficial em La Azohía, com cerca de 1.600 m de comprimento, num cenário semiurbano com margem de gravilha. Os cães são bem-vindos durante todo o ano, tornando-a uma das opções de verão mais fiáveis perto de Cartagena.",
           "descriptionDe": "Ein offizieller Hundestrand in La Azohía, etwa 1.600 m lang, in halbstädtischer Umgebung mit Kiesufer. Hunde sind ganzjährig willkommen, was ihn zu einer der zuverlässigsten Sommeroptionen in der Nähe von Cartagena macht.",
           "descriptionNl": "Een officieel hondenstrand in La Azohía, ongeveer 1.600 m lang, in een halfstedelijke omgeving met kiezeloever. Honden zijn het hele jaar welkom, wat het een van de betrouwbaarste zomeropties in de buurt van Cartagena maakt.",
+          "descriptionIt": "Una spiaggia per cani ufficiale a La Azohía, lunga circa 1.600 m, in un contesto semiurbano con litorale di ciottoli. I cani sono benvenuti tutto l'anno, il che la rende una delle opzioni estive più affidabili vicino a Cartagena.",
           "season": "Year-round dog beach",
           "seasonFr": "Plage canine ouverte toute l'année",
           "seasonEs": "Playa canina todo el año",
           "seasonPt": "Praia canina durante todo o ano",
           "seasonDe": "Ganzjähriger Hundestrand",
           "seasonNl": "Hondenstrand het hele jaar",
+          "seasonIt": "Spiaggia per cani tutto l'anno",
           "rules": "Dogs allowed all year. Microchip and up-to-date vet record required, owners must pick up waste, and listed potentially dangerous breeds need a muzzle and short leash.",
           "rulesFr": "Chiens admis toute l'année. Puce électronique et carnet vétérinaire à jour requis, les propriétaires doivent ramasser les déjections, et les races répertoriées comme potentiellement dangereuses ont besoin d'une muselière et d'une laisse courte.",
           "rulesEs": "Perros admitidos todo el año. Se requiere microchip y cartilla veterinaria al día, los dueños deben recoger los excrementos, y las razas catalogadas como potencialmente peligrosas necesitan bozal y correa corta.",
           "rulesPt": "Cães admitidos durante todo o ano. É exigido microchip e boletim veterinário atualizado, os donos devem recolher os dejetos, e as raças catalogadas como potencialmente perigosas precisam de açaime e trela curta.",
           "rulesDe": "Hunde sind ganzjährig zugelassen. Mikrochip und aktueller Impfausweis erforderlich, Halter müssen die Hinterlassenschaften entfernen, und als potenziell gefährlich gelistete Rassen benötigen einen Maulkorb und eine kurze Leine.",
           "rulesNl": "Honden zijn het hele jaar toegestaan. Microchip en actueel vaccinatiebewijs verplicht, baasjes moeten de uitwerpselen opruimen, en als potentieel gevaarlijk aangemerkte rassen hebben een muilkorf en korte lijn nodig.",
+          "rulesIt": "I cani sono ammessi tutto l'anno. Microchip e certificato vaccinale aggiornato obbligatori, i padroni devono raccogliere gli escrementi, e le razze considerate potenzialmente pericolose hanno bisogno di museruola e guinzaglio corto.",
           "facilities": "Parking nearby, gravel shore",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+de+La+Calera+La+Azohia",
           "photo": ""
@@ -623,18 +695,21 @@
           "descriptionPt": "Uma praia canina designada perto de Playa Paraíso, em La Manga del Mar Menor, com areia grossa e gravilha e água calma e pouco profunda. A baixa ocupação e as condições suaves fazem dela uma boa opção para cães nervosos com as ondas.",
           "descriptionDe": "Ein ausgewiesener Hundestrand in der Nähe von Playa Paraíso auf La Manga del Mar Menor, mit grobem Sand und Kies sowie ruhigem, flachem Wasser. Die geringe Auslastung und die sanften Bedingungen machen ihn zu einer guten Wahl für Hunde, die bei Wellen nervös werden.",
           "descriptionNl": "Een aangewezen hondenstrand bij Playa Paraíso op La Manga del Mar Menor, met grof zand en kiezels en rustig, ondiep water. De lage drukte en de zachte omstandigheden maken het een goede keuze voor honden die nerveus worden van golven.",
+          "descriptionIt": "Una spiaggia per cani designata vicino a Playa Paraíso su La Manga del Mar Menor, con sabbia grossa e ciottoli e acqua calma e bassa. La bassa affluenza e le condizioni tranquille la rendono una buona scelta per i cani che si innervosiscono con le onde.",
           "season": "Year-round dog beach",
           "seasonFr": "Plage canine ouverte toute l'année",
           "seasonEs": "Playa canina todo el año",
           "seasonPt": "Praia canina durante todo o ano",
           "seasonDe": "Ganzjähriger Hundestrand",
           "seasonNl": "Hondenstrand het hele jaar",
+          "seasonIt": "Spiaggia per cani tutto l'anno",
           "rules": "Dogs allowed all year in the marked dog zone. Microchip and vet record required, waste must be collected, potentially dangerous breeds muzzled and leashed.",
           "rulesFr": "Chiens admis toute l'année dans la zone canine balisée. Puce électronique et carnet vétérinaire requis, les déjections doivent être ramassées, et les races potentiellement dangereuses doivent porter muselière et laisse.",
           "rulesEs": "Perros admitidos todo el año en la zona canina señalizada. Se requiere microchip y cartilla veterinaria, los excrementos deben recogerse, y las razas potencialmente peligrosas deben llevar bozal y correa.",
           "rulesPt": "Cães admitidos durante todo o ano na zona canina sinalizada. É exigido microchip e boletim veterinário, os dejetos devem ser recolhidos, e as raças potencialmente perigosas devem usar açaime e trela.",
           "rulesDe": "Hunde sind ganzjährig in der ausgewiesenen Hundezone zugelassen. Mikrochip und Impfausweis erforderlich, Hinterlassenschaften müssen entfernt werden, potenziell gefährliche Rassen benötigen Maulkorb und Leine.",
           "rulesNl": "Honden zijn het hele jaar toegestaan in de aangewezen hondenzone. Microchip en vaccinatiebewijs verplicht, uitwerpselen moeten worden opgeruimd, potentieel gevaarlijke rassen hebben een muilkorf en lijn nodig.",
+          "rulesIt": "I cani sono ammessi tutto l'anno nella zona per cani designata. Microchip e certificato vaccinale obbligatori, gli escrementi vanno raccolti, le razze potenzialmente pericolose hanno bisogno di museruola e guinzaglio.",
           "facilities": "Calm shallow water, limited shade",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+Canina+Las+Salinas+La+Manga",
           "photo": ""
@@ -648,18 +723,21 @@
           "descriptionPt": "A praia mais próxima da cidade, uma pequena enseada abrigada mesmo fora do porto. É prática, mas os cães não são permitidos aqui durante a época estival, por isso use-a apenas fora de época e vá a uma praia canina em julho e agosto.",
           "descriptionDe": "Der nächstgelegene Strand zur Stadt, eine kleine geschützte Bucht direkt außerhalb des Hafens. Er ist praktisch, aber Hunde sind hier während der Sommersaison nicht erlaubt, nutzen Sie ihn also nur außerhalb der Saison und weichen Sie im Juli und August auf einen Hundestrand aus.",
           "descriptionNl": "Het dichtstbijzijnde strand bij de stad, een kleine beschutte baai vlak buiten de haven. Het is handig, maar honden zijn hier tijdens het zomerseizoen niet toegestaan, gebruik het dus alleen buiten het seizoen en wijk in juli en augustus uit naar een hondenstrand.",
+          "descriptionIt": "La spiaggia più vicina alla città, una piccola baia riparata appena fuori dal porto. È comoda, ma i cani non sono ammessi qui durante la stagione balneare estiva, quindi usala solo fuori stagione e a luglio e agosto vai su una spiaggia per cani.",
           "season": "Off-season only for dogs (dogs banned in summer)",
           "seasonFr": "Uniquement hors saison pour les chiens (chiens interdits en été)",
           "seasonEs": "Solo fuera de temporada para perros (prohibidos en verano)",
           "seasonPt": "Apenas fora de época para cães (proibidos no verão)",
           "seasonDe": "Nur außerhalb der Saison für Hunde (im Sommer verboten)",
           "seasonNl": "Alleen buiten het seizoen voor honden (in de zomer verboden)",
+          "seasonIt": "Solo fuori stagione per i cani (vietata in estate)",
           "rules": "Dogs not allowed during the summer bathing season. Permitted outside summer on a leash, with waste collected.",
           "rulesFr": "Chiens non admis pendant la saison de baignade estivale. Autorisés hors été en laisse, avec ramassage des déjections.",
           "rulesEs": "Perros no admitidos durante la temporada de baño estival. Permitidos fuera del verano con correa, recogiendo los excrementos.",
           "rulesPt": "Cães não admitidos durante a época balnear de verão. Permitidos fora do verão com trela, com recolha dos dejetos.",
           "rulesDe": "Hunde sind während der sommerlichen Badesaison nicht erlaubt. Außerhalb des Sommers angeleint erlaubt, Hinterlassenschaften sind zu entfernen.",
           "rulesNl": "Honden zijn niet toegestaan tijdens het zomerse badseizoen. Buiten de zomer aangelijnd toegestaan, uitwerpselen moeten worden opgeruimd.",
+          "rulesIt": "I cani non sono ammessi durante la stagione balneare estiva. Fuori dall'estate ammessi al guinzaglio, gli escrementi vanno raccolti.",
           "facilities": "Lifeguard in season, small cove, easy access",
           "googleMapsUrl": "https://maps.google.com/?q=Cala+Cortina+Cartagena",
           "photo": ""
@@ -707,8 +785,10 @@
       ],
       "titleDe": "Hundefreundliche Strände nahe Cartagena",
       "titleNl": "Hondvriendelijke stranden bij Cartagena",
+      "titleIt": "Spiagge pet friendly vicino a Cartagena",
       "introDe": "Cartagena verfügt über eigene Hundestrände (playas caninas), an denen Hunde das ganze Jahr über willkommen sind, aber die meisten gewöhnlichen Touristenstrände verbieten Hunde während der Sommersaison. Die wichtigste Regel: Die geschützten Strände des Naturparks Calblanque verbieten Hunde vollständig vom 1. Juni bis 30. September, um nistende Unechte Karettschildkröten zu schützen. Bleiben Sie im Sommer bei den offiziellen Hundestränden.",
       "introNl": "Cartagena heeft eigen hondenstranden (playas caninas) waar honden het hele jaar welkom zijn, maar de meeste gewone toeristenstranden verbieden honden tijdens het zomerseizoen. De belangrijkste regel: de beschermde stranden van het Natuurpark Calblanque verbieden honden volledig van 1 juni tot en met 30 september, om nestelende onechte karetschildpadden te beschermen. Houd het in de zomer bij de officiële hondenstranden.",
+      "introIt": "Cartagena ha spiagge per cani dedicate (playas caninas) dove i cani sono benvenuti tutto l'anno, ma la maggior parte delle spiagge turistiche normali vieta i cani durante la stagione estiva. La regola principale: le spiagge protette del Parco Naturale di Calblanque vietano completamente i cani dal 1 giugno al 30 settembre, per proteggere le tartarughe caretta caretta che nidificano. In estate resta sulle spiagge per cani ufficiali.",
       "faqsDe": [
         {
           "q": "Gibt es einen Hundestrand nahe Cartagena?",
@@ -727,6 +807,16 @@
         {
           "q": "Kan ik mijn hond in de zomer meenemen naar de stranden van Calblanque?",
           "a": "Nee. De stranden van het Natuurpark Calblanque verbieden honden volledig van 1 juni tot en met 30 september, om nestelende onechte karetschildpadden te beschermen. Ook buiten die periode moeten honden in het hele park aangelijnd blijven."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è una spiaggia per cani vicino a Cartagena?",
+          "a": "Sì. Playa de La Calera a La Azohía e Playa Canina Las Salinas su La Manga sono spiagge per cani ufficiali aperte tutto l'anno. Sono la scelta più sicura in estate, dato che la maggior parte delle spiagge normali vieta i cani da giugno a settembre."
+        },
+        {
+          "q": "Posso portare il cane in estate sulle spiagge di Calblanque?",
+          "a": "No. Le spiagge del Parco Naturale di Calblanque vietano completamente i cani dal 1 giugno al 30 settembre, per proteggere le tartarughe caretta caretta che nidificano. Anche fuori da quel periodo i cani devono restare al guinzaglio in tutto il parco."
         }
       ]
     },
@@ -777,10 +867,13 @@
           "photo": "",
           "hoursDe": "24/7, 365 Tage im Jahr",
           "hoursNl": "24/7, 365 dagen per jaar",
+          "hoursIt": "24/7, 365 giorni all'anno",
           "descriptionDe": "Cartagenas rund um die Uhr geöffnetes Tierkrankenhaus und die erste Anlaufstelle bei einem ernsten Notfall. Es bietet an jedem Tag des Jahres einen vollen 24-Stunden-Dienst, genau das Richtige, wenn Ihr Hund bei einem Sommerbesuch überhitzt oder sich verletzt. Speichern Sie die Nummer vor Ihrer Ankunft und rufen Sie vorab an, damit man sich auf Sie vorbereiten kann.",
           "descriptionNl": "Het dierenziekenhuis van Cartagena dat dag en nacht open is en het eerste aanspreekpunt bij een ernstig noodgeval. Het biedt elke dag van het jaar volledige 24-uursdienst, precies wat nodig is als jouw hond tijdens een zomerbezoek oververhit raakt of gewond raakt. Sla het nummer op voor je aankomst en bel van tevoren, zodat men zich op je kan voorbereiden.",
+          "descriptionIt": "L'ospedale veterinario di Cartagena aperto giorno e notte e primo punto di riferimento in caso di emergenza grave. Offre servizio completo 24 ore su 24 ogni giorno dell'anno, esattamente ciò che serve se il tuo cane si surriscalda o si ferisce durante una visita estiva. Salva il numero prima di partire e chiama in anticipo, così possono prepararsi ad accoglierti.",
           "tipDe": "Speichern Sie +34 968 087 929 vor Ihrer Reise. Im Sommer ist ein vermuteter Hitzschlag ein Notfall. Erst anrufen, dann hinfahren",
-          "tipNl": "Sla +34 968 087 929 op voor je reis. In de zomer is een vermoedelijke hitteslag een noodgeval. Eerst bellen, dan gaan"
+          "tipNl": "Sla +34 968 087 929 op voor je reis. In de zomer is een vermoedelijke hitteslag een noodgeval. Eerst bellen, dan gaan",
+          "tipIt": "Salva +34 968 087 929 prima del viaggio. In estate un sospetto colpo di calore è un'emergenza. Prima chiama, poi vai"
         },
         {
           "name": "Clínica Veterinaria Sauces (Evidensia)",
@@ -805,10 +898,13 @@
           "photo": "",
           "hoursDe": "Mo–Fr 09:30–20:00 Uhr, Sa 10:00–14:00 Uhr",
           "hoursNl": "Ma-vr 09:30-20:00 uur, za 10:00-14:00 uur",
+          "hoursIt": "Lun-ven 09:30-20:00, sab 10:00-14:00",
           "descriptionDe": "Eine seit den 1990er-Jahren etablierte Klinik in Cartagena, heute Teil des tierärztlichen Netzwerks Evidensia. Sie übernimmt Routinekonsultationen, Impfungen und Reisepapiere sowie Chirurgie, Kardiologie, Neurologie und Diagnosebildgebung. Eine gute Wahl für einen Check-up ohne Notfall während eines längeren Aufenthalts.",
           "descriptionNl": "Een sinds de jaren negentig gevestigde kliniek in Cartagena, nu onderdeel van het dierenartsennetwerk Evidensia. Ze verzorgt routineconsulten, vaccinaties en reispapieren, plus chirurgie, cardiologie, neurologie en beeldvormende diagnostiek. Een goede keuze voor een check-up zonder spoed tijdens een langer verblijf.",
+          "descriptionIt": "Una clinica di Cartagena attiva dagli anni novanta, ora parte della rete veterinaria Evidensia. Si occupa di visite di routine, vaccinazioni e documenti di viaggio, oltre a chirurgia, cardiologia, neurologia e diagnostica per immagini. Una buona scelta per un controllo non urgente durante un soggiorno più lungo.",
           "tipDe": "Rufen Sie vorab an, um einen Termin zu buchen. Dies ist eine Tagespraxis, keine 24h-Klinik, nutzen Sie für nächtliche Notfälle Faucán",
-          "tipNl": "Bel van tevoren om een afspraak te boeken. Dit is een dagpraktijk, geen 24-uursklinik, gebruik voor nachtelijke noodgevallen Faucán"
+          "tipNl": "Bel van tevoren om een afspraak te boeken. Dit is een dagpraktijk, geen 24-uursklinik, gebruik voor nachtelijke noodgevallen Faucán",
+          "tipIt": "Chiama in anticipo per fissare un appuntamento. È uno studio diurno, non una clinica 24 ore, per le emergenze notturne usa Faucán"
         },
         {
           "name": "Centro Veterinario Cartagena",
@@ -833,10 +929,13 @@
           "photo": "",
           "hoursDe": "Tagsüber Konsultationen; für Notfallverfügbarkeit anrufen",
           "hoursNl": "Overdag consulten; bel voor beschikbaarheid bij noodgevallen",
+          "hoursIt": "Visite diurne; chiama per la disponibilità in caso di emergenza",
           "descriptionDe": "Ein gut bewertetes allgemeines Tierzentrum in Cartagena mit Konsultationen, Impfungen und einer Notfallleitung. Eine verlässliche zweite Option für tagsüber stattfindende Versorgung oder einen Reisegesundheitscheck, mit starkem lokalen Ansehen bei den Einwohnern.",
           "descriptionNl": "Een goedbeoordeeld algemeen dierencentrum in Cartagena met consulten, vaccinaties en een noodlijn. Een betrouwbare tweede optie voor zorg overdag of een reisgezondheidscheck, met een sterke lokale reputatie onder de bewoners.",
+          "descriptionIt": "Un centro veterinario generico ben recensito a Cartagena con visite, vaccinazioni e una linea per le emergenze. Una seconda opzione affidabile per cure diurne o un controllo sanitario di viaggio, con una solida reputazione locale tra i residenti.",
           "tipDe": "Rufen Sie vorab an, um Öffnungszeiten zu bestätigen und zu klären, ob Sie noch am selben Tag ohne Termin vorbeikommen können",
-          "tipNl": "Bel van tevoren om openingstijden te bevestigen en te checken of je nog dezelfde dag zonder afspraak langs kunt komen"
+          "tipNl": "Bel van tevoren om openingstijden te bevestigen en te checken of je nog dezelfde dag zonder afspraak langs kunt komen",
+          "tipIt": "Chiama in anticipo per confermare gli orari e verificare se puoi passare in giornata senza appuntamento"
         }
       ],
       "faqsEn": [
@@ -881,8 +980,10 @@
       ],
       "titleDe": "Notfall-Tierärzte in Cartagena, Tierkliniken & Tierpflege",
       "titleNl": "Spoeddierenartsen in Cartagena, dierenklinieken en dierenzorg",
+      "titleIt": "Veterinari d'urgenza a Cartagena, cliniche veterinarie e cura degli animali",
       "introDe": "Cartagena verfügt über eine solide tierärztliche Versorgung, darunter mindestens ein 24-Stunden-Notfallkrankenhaus. EU-registrierte Haustiere benötigen einen gültigen EU-Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung zur Einreise nach Spanien. In der Sommerhitze achten Sie genau auf Anzeichen eines Hitzschlags und speichern Sie vor der Reise eine Notfallnummer.",
       "introNl": "Cartagena heeft solide dierenartsenzorg, waaronder minstens een 24-uurs spoedziekenhuis. EU-geregistreerde huisdieren hebben een geldig EU-dierenpaspoort, een microchip en een actuele rabiesvaccinatie nodig voor binnenkomst in Spanje. Let bij de zomerhitte goed op tekenen van hitteslag en sla voor je reis een noodnummer op.",
+      "introIt": "Cartagena ha una buona assistenza veterinaria, tra cui almeno un ospedale d'urgenza 24 ore su 24. Gli animali registrati nell'UE hanno bisogno di un passaporto UE per animali valido, un microchip e una vaccinazione antirabbica aggiornata per entrare in Spagna. Con il caldo estivo presta attenzione ai segnali di colpo di calore e salva un numero di emergenza prima di partire.",
       "faqsDe": [
         {
           "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Cartagena zu bringen?",
@@ -901,6 +1002,16 @@
         {
           "q": "Is er een 24-uurs dierenarts in Cartagena?",
           "a": "Ja. Het Hospital Veterinario Faucán (Avenida Juan Carlos I 5, +34 968 087 929) biedt elke dag van het jaar een 24/7 spoeddienst. Bel bij een noodgeval altijd eerst, en behandel een vermoedelijke zomerse hitteslag als urgent."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Ho bisogno di un passaporto per animali per portare il cane a Cartagena?",
+          "a": "Gli animali registrati nell'UE hanno bisogno di un passaporto UE per animali valido con microchip e vaccinazione antirabbica aggiornata. Gli animali da fuori l'UE hanno bisogno di un certificato sanitario UE e, da alcuni paesi, di un test titolazione anticorpi antirabbici. Controlla presso il Ministerio de Agricultura spagnolo i requisiti per il tuo paese di provenienza."
+        },
+        {
+          "q": "C'è un veterinario aperto 24 ore a Cartagena?",
+          "a": "Sì. L'Hospital Veterinario Faucán (Avenida Juan Carlos I 5, +34 968 087 929) offre un servizio d'urgenza 24/7 ogni giorno dell'anno. In caso di emergenza chiama sempre prima, e tratta un sospetto colpo di calore estivo come urgente."
         }
       ]
     },
@@ -1018,8 +1129,10 @@
       "tipsPt": [],
       "titleDe": "Hundefreundliche Tipps für Cartagena",
       "titleNl": "Hondvriendelijke tips voor Cartagena",
+      "titleIt": "Consigli pet friendly per Cartagena",
       "introDe": "Cartagena ist eine leicht begehbare Altstadt, die Reisende mit einem ruhigen, angeleinten Hund belohnt, aber die murcianische Sommerhitze und einige strenge saisonale Regeln bestimmen fast jeden Plan. Am wichtigsten ist es, Spaziergänge und Strandtage nach der Sonne zu richten. Ein paar lokale Gepflogenheiten und Gesetze, die Sie vor der Abreise kennen sollten.",
       "introNl": "Cartagena is een makkelijk te belopen oud centrum dat reizigers beloont die er een rustige, aangelijnde hond bij hebben, maar de Murciaanse zomerhitte en een paar strenge seizoensgebonden regels bepalen bijna elk plan. Het belangrijkste is om wandelingen en strandddagen af te stemmen op de zon. Een paar lokale gewoontes en wetten die je voor vertrek moet kennen.",
+      "introIt": "Cartagena è un centro storico facile da girare a piedi che premia i viaggiatori con un cane tranquillo al guinzaglio, ma il caldo estivo murciano e alcune regole stagionali rigide condizionano quasi ogni piano. La cosa più importante è adattare passeggiate e giornate in spiaggia al sole. Ecco qualche abitudine e legge locale da conoscere prima di partire.",
       "faqsDe": [
         {
           "q": "Ist Cartagena gut für Hunde?",
@@ -1046,6 +1159,20 @@
         {
           "q": "Zijn honden toegestaan in de musea en Romeinse vindplaatsen van Cartagena?",
           "a": "Binnenmusea zoals het museum van het Romeinse theater en het bezoekerscentrum van de Punische muur laten alleen erkende geleide- en assistentiehonden toe. Buitenlocaties zoals het archeologische park Cerro del Molinete verwelkomen aangelijnde honden, plan binnenbezoeken dus voor momenten waarop jouw hond veilig in het hotel kan rusten."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Cartagena è adatta ai cani?",
+          "a": "Sì, per un cane tranquillo al guinzaglio. Il centro storico è compatto e facile da girare a piedi, le terrazze accolgono i cani, e c'è un parco per cani recintato più spiagge per cani disponibili tutto l'anno nei dintorni. Le sfide maggiori sono il caldo estivo intenso e il divieto stagionale in spiaggia a Calblanque, entrambi gestibili bene con routine al mattino presto e alla sera."
+        },
+        {
+          "q": "Cosa devo mettere in valigia per un viaggio con il cane a Cartagena?",
+          "a": "Porta un passaporto UE per animali (microchip e vaccinazione antirabbica aggiornati), una ciotola pieghevole per l'acqua, un guinzaglio corto non estensibile e una museruola nel caso il tuo cane sia in una razza spagnola considerata potenzialmente pericolosa (obbligatoria sui treni Cercanías e sugli autobus urbani). Pensa a una protezione per le zampe e a un tappetino rinfrescante per il caldo estivo."
+        },
+        {
+          "q": "I cani sono ammessi nei musei e nei siti romani di Cartagena?",
+          "a": "I musei al chiuso come il museo del teatro romano e il centro visitatori delle mura puniche ammettono solo cani guida e di assistenza riconosciuti. I siti all'aperto come il parco archeologico Cerro del Molinete accolgono cani al guinzaglio, quindi programma le visite al chiuso per momenti in cui il tuo cane può riposare tranquillamente in hotel."
         }
       ]
     },
@@ -1083,12 +1210,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Calle+Mayor+Cartagena",
           "descriptionDe": "Cartagenas autofreie Hauptstraße und das gesellschaftliche Rückgrat der Altstadt, eine glatte, marmorgepflasterte Promenade gesäumt von Fassaden im Belle-Époque- und Jugendstil wie dem Casino, dem Gran Hotel und dem Casa Cervantes. Angeleinte Hunde fühlen sich hier vollkommen zu Hause und schlängeln sich zwischen Terrassencafés und Schaufenstern hindurch. Der natürliche Ausgangspunkt für einen Altstadtspaziergang, und die meisten Terrassen heißen einen Hund zu Ihren Füßen willkommen.",
           "descriptionNl": "De autovrije hoofdstraat van Cartagena en de sociale ruggengraat van het oude centrum, een gladde, met marmer geplaveide promenade omzoomd door belle époque- en art-nouveaugevels zoals het Casino, het Gran Hotel en de Casa Cervantes. Aangelijnde honden voelen zich hier volkomen thuis en slenteren tussen terrasjes en etalages door. Het natuurlijke startpunt voor een wandeling door het oude centrum, en de meeste terrassen verwelkomen een hond aan je voeten.",
+          "descriptionIt": "La via principale pedonale di Cartagena e spina dorsale sociale del centro storico, una passeggiata liscia lastricata di marmo fiancheggiata da facciate belle époque e liberty come il Casino, il Gran Hotel e la Casa Cervantes. I cani al guinzaglio si sentono perfettamente a casa passeggiando tra le terrazze e le vetrine. Il punto di partenza naturale per una passeggiata nel centro storico, e la maggior parte delle terrazze accoglie un cane ai tuoi piedi.",
           "dogPolicyDe": "Hunde durchgehend an der Leine willkommen. Offene Fußgängerstraße",
           "dogPolicyNl": "Honden overal aangelijnd welkom. Open voetgangersstraat",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti ovunque. Via pedonale aperta",
           "admissionFeeDe": "Kostenlos",
           "admissionFeeNl": "Gratis",
+          "admissionFeeIt": "Gratis",
           "tipDe": "Gehen Sie am frühen Abend, wenn sich die Terrassen füllen und der Marmor abgekühlt ist. Die Mittagssonne auf dem hellen Stein ist im Sommer intensiv",
-          "tipNl": "Ga vroeg in de avond, als de terrassen vollopen en het marmer is afgekoeld. De middagzon op de lichte steen is in de zomer intens"
+          "tipNl": "Ga vroeg in de avond, als de terrassen vollopen en het marmer is afgekoeld. De middagzon op de lichte steen is in de zomer intens",
+          "tipIt": "Vai a inizio serata, quando le terrazze si riempiono e il marmo si è raffreddato. Il sole di mezzogiorno sulla pietra chiara è intenso in estate"
         },
         {
           "name": "Parque Arqueológico Cerro del Molinete",
@@ -1114,12 +1245,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cerro+del+Molinete+Cartagena",
           "descriptionDe": "Einer der größten städtischen Ausgrabungsparks Europas, ein kostenloser, immer geöffneter Hügel von rund 26.000 Quadratmetern im Herzen der Altstadt, der punische, römische, byzantinische und arabische Überreste mit gestalteten Wegen und Panoramablicken schichtet. Angeleinte Hunde sind auf den Freiluft-Spazierwegen willkommen, was ihn zu einer seltenen Möglichkeit macht, Cartagenas römisches Erbe zu sehen, ohne Ihren Hund zurückzulassen. Die Hänge fangen die Brise ein, und bei Sonnenaufgang und -untergang ist es herrlich still.",
           "descriptionNl": "Een van de grootste stedelijke opgravingsparken van Europa, een gratis, altijd open heuvel van ongeveer 26.000 vierkante meter in het hart van het oude centrum, die Punische, Romeinse, Byzantijnse en Arabische resten stapelt met aangelegde paden en panoramische uitzichten. Aangelijnde honden zijn welkom op de buitenwandelpaden, wat het een zeldzame kans maakt om het Romeinse erfgoed van Cartagena te zien zonder jouw hond achter te laten. De hellingen vangen de bries, en bij zonsopgang en -ondergang is het heerlijk stil.",
+          "descriptionIt": "Uno dei più grandi parchi archeologici urbani d'Europa, una collina gratuita e sempre aperta di circa 26.000 metri quadrati nel cuore del centro storico, che sovrappone resti punici, romani, bizantini e arabi con sentieri sistemati e viste panoramiche. I cani al guinzaglio sono benvenuti sui sentieri esterni, il che lo rende un'occasione rara per vedere il patrimonio romano di Cartagena senza lasciare il tuo cane a casa. Le pendici catturano la brezza, e all'alba e al tramonto è piacevolmente tranquillo.",
           "dogPolicyDe": "Hunde an der Leine auf den Freiluftwegen willkommen",
           "dogPolicyNl": "Honden aangelijnd welkom op de buitenpaden",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti sui sentieri esterni",
           "admissionFeeDe": "Kostenlos",
           "admissionFeeNl": "Gratis",
+          "admissionFeeIt": "Gratis",
           "tipDe": "Gehen Sie bei Sonnenaufgang oder -untergang für das Licht und die Kühle. Auf dem Hügel gibt es wenig Schatten, bringen Sie also Wasser für Ihren Hund mit",
-          "tipNl": "Ga bij zonsopgang of -ondergang voor het licht en de koelte. Op de heuvel is weinig schaduw, neem dus water mee voor jouw hond"
+          "tipNl": "Ga bij zonsopgang of -ondergang voor het licht en de koelte. Op de heuvel is weinig schaduw, neem dus water mee voor jouw hond",
+          "tipIt": "Vai all'alba o al tramonto per la luce e la frescura. Sulla collina c'è poca ombra, quindi porta acqua per il tuo cane"
         },
         {
           "name": "Muralla Púnica",
@@ -1145,12 +1280,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Muralla+Punica+Cartagena",
           "descriptionDe": "Das Interpretationszentrum rund um ein erhaltenes Stück der karthagischen Stadtmauer aus dem 3. Jahrhundert v. Chr., der Ausgangspunkt zum Verständnis von Cartagenas punischer und römischer Vergangenheit und Sitz des wichtigsten Touristeninformationsbüros. Die Innenausstellung lässt nur zugelassene Blinden- und Assistenzhunde zu, aber das umliegende Gebiet der Calle San Diego und die alten Mauerreste lassen sich mit einem angeleinten Hund im Freien genießen. Ein nützlicher erster Halt, um sich für Ihren Altstadtspaziergang zu orientieren.",
           "descriptionNl": "Het bezoekerscentrum rond een bewaard stuk Carthaagse stadsmuur uit de 3e eeuw voor Christus, het startpunt om het Punische en Romeinse verleden van Cartagena te begrijpen en de zetel van het belangrijkste toeristeninformatiekantoor. De binnententoonstelling laat alleen erkende geleide- en assistentiehonden toe, maar het omliggende gebied van de Calle San Diego en de oude muurresten zijn buiten te genieten met een aangelijnde hond. Een handige eerste stop om je te oriënteren voor je wandeling door het oude centrum.",
+          "descriptionIt": "Il centro visitatori attorno a un tratto conservato delle mura cartaginesi del III secolo a.C., il punto di partenza per capire il passato punico e romano di Cartagena e sede del principale ufficio turistico. La mostra interna ammette solo cani guida e di assistenza riconosciuti, ma la zona circostante di Calle San Diego e i resti delle antiche mura si possono godere all'aperto con un cane al guinzaglio. Una comoda prima tappa per orientarti prima della passeggiata nel centro storico.",
           "dogPolicyDe": "Nur Blinden- und Assistenzhunde im Inneren. Angeleinte Hunde in der Außenumgebung willkommen",
           "dogPolicyNl": "Alleen geleide- en assistentiehonden binnen. Aangelijnde honden welkom in de buitenomgeving",
+          "dogPolicyIt": "Solo cani guida e di assistenza all'interno. Cani al guinzaglio benvenuti all'esterno",
           "admissionFeeDe": "4 € Erwachsene / 3 € ermäßigt",
           "admissionFeeNl": "4 EUR volwassenen / 3 EUR gereduceerd",
+          "admissionFeeIt": "4 EUR adulti / 3 EUR ridotto",
           "tipDe": "Wenn Sie hineinmöchten: Die letzten zwei Öffnungsstunden jeden Dienstag sind kostenlos. Planen Sie das für eine Zeit, in der Ihr Hund im Hotel ruhen kann",
-          "tipNl": "Wil je naar binnen: de laatste twee openingsuren elke dinsdag zijn gratis. Plan dit voor een moment waarop jouw hond in het hotel kan rusten"
+          "tipNl": "Wil je naar binnen: de laatste twee openingsuren elke dinsdag zijn gratis. Plan dit voor een moment waarop jouw hond in het hotel kan rusten",
+          "tipIt": "Se vuoi entrare: le ultime due ore di apertura ogni martedì sono gratis. Programmalo per un momento in cui il tuo cane può riposare in hotel"
         }
       ],
       "tipsEn": [
@@ -1207,8 +1346,10 @@
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Cartagena",
       "titleNl": "Huisdiervriendelijke bezienswaardigheden in Cartagena",
+      "titleIt": "Attrazioni pet friendly a Cartagena",
       "introDe": "Cartagena vereint fast dreitausend Jahre Geschichte in einer begehbaren Altstadt, und vieles davon lässt sich am besten im Freien erleben, wo ein angeleinter Hund willkommen ist. Innenmuseen wie das Römische Theater lassen nur Blindenhunde zu, aber die Freiluft-Ausgrabungsparks, die modernistische Hauptstraße und der Hafen eignen sich alle gut für eine Besichtigung mit Ihrem Begleiter.",
       "introNl": "Cartagena verenigt bijna drieduizend jaar geschiedenis in een goed te belopen oud centrum, en veel daarvan beleef je het best buiten, waar een aangelijnde hond welkom is. Binnenmusea zoals het Romeinse theater laten alleen geleidehonden toe, maar de buitenopgravingsparken, de modernistische hoofdstraat en de haven lenen zich allemaal goed voor een bezichtiging met jouw metgezel.",
+      "introIt": "Cartagena racchiude quasi tremila anni di storia in un centro storico facile da girare a piedi, e gran parte si vive meglio all'aperto, dove un cane al guinzaglio è benvenuto. I musei al chiuso come il teatro romano ammettono solo cani guida, ma i parchi archeologici all'aperto, la via principale modernista e il porto si prestano tutti bene a una visita con il tuo compagno.",
       "faqsDe": [
         {
           "q": "Kann ich das Römische Theater und die Museen von Cartagena mit meinem Hund besuchen?",
@@ -1219,6 +1360,12 @@
         {
           "q": "Kan ik het Romeinse theater en de musea van Cartagena bezoeken met mijn hond?",
           "a": "Meestal niet. Het museum van het Romeinse theater, het bezoekerscentrum van de Punische muur en het nationale onderwatermuseum ARQVA laten alleen erkende geleide- en assistentiehonden toe. Het buitenopgravingspark Cerro del Molinete en de Calle Mayor verwelkomen aangelijnde honden, bouw je bezichtiging dus rond buitenlocaties."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso visitare il teatro romano e i musei di Cartagena con il mio cane?",
+          "a": "Nella maggior parte dei casi no. Il museo del teatro romano, il centro visitatori delle mura puniche e il museo nazionale di archeologia subacquea ARQVA ammettono solo cani guida e di assistenza riconosciuti. Il parco archeologico all'aperto Cerro del Molinete e Calle Mayor accolgono cani al guinzaglio, quindi costruisci la visita attorno alle zone all'aperto."
         }
       ]
     },
@@ -1254,10 +1401,13 @@
           "tipPt": "Contacte um cuidador antes de reservar e pergunte se pode manter o seu cão dentro de casa, com ar condicionado, durante o calor do meio-dia no verão",
           "descriptionDe": "Gudog ist eine in Spanien ansässige Plattform für Tierpflege, die Hundehalter mit geprüften lokalen Sittern für Tierpension, Tagesbetreuung und Spaziergänge in der gesamten Region Murcia, einschließlich Cartagena, verbindet. Eine starke Wahl für Reisende, denn die Sitter sind überprüft, jeder Aufenthalt ist tierärztlich versichert, und Sie können Bewertungen lesen und mit einem Sitter Kontakt aufnehmen, bevor Sie sich festlegen. Gudog ist eine Partnerschaft mit Rover eingegangen, dem größten Tierpflegenetzwerk der Welt, was den Pool verfügbarer Sitter vergrößert. Filtern Sie nach der Größe Ihres Hundes und Ihren Reisedaten, um jemanden in der Nähe zu finden.",
           "descriptionNl": "Gudog is een in Spanje gevestigd platform voor dierenzorg dat hondenbaasjes verbindt met gecontroleerde lokale oppassers voor pension, dagopvang en wandelingen in de hele regio Murcia, inclusief Cartagena. Een sterke keuze voor reizigers, want de oppassers zijn gescreend, elk verblijf is dierenartsverzekerd, en je kunt beoordelingen lezen en contact opnemen met een oppasser voordat je je vastlegt. Gudog is een samenwerking aangegaan met Rover, het grootste dierenzorgnetwerk ter wereld, wat de pool van beschikbare oppassers vergroot. Filter op het formaat van jouw hond en je reisdata om iemand in de buurt te vinden.",
+          "descriptionIt": "Gudog è una piattaforma spagnola per la cura degli animali che mette in contatto i padroni di cani con dog sitter locali controllati per pensione, asilo diurno e passeggiate in tutta la regione di Murcia, Cartagena inclusa. Una scelta solida per i viaggiatori, perché i sitter sono verificati, ogni soggiorno è assicurato dal veterinario, e puoi leggere le recensioni e contattare un sitter prima di prenotare. Gudog ha stretto una collaborazione con Rover, la più grande rete di cura degli animali al mondo, il che amplia il numero di sitter disponibili. Filtra per la taglia del tuo cane e le date del viaggio per trovare qualcuno nelle vicinanze.",
           "serviceTypeDe": "Online-Buchung. Tierpension, Tagesbetreuung, Gassi-Service",
           "serviceTypeNl": "Online boeken. Pension, dagopvang, uitlaatservice",
+          "serviceTypeIt": "Prenotazione online. Pensione, asilo diurno, servizio passeggiate",
           "tipDe": "Schreiben Sie einem Sitter vor der Buchung und fragen Sie, ob er Ihren Hund während der sommerlichen Mittagshitze drinnen mit Klimaanlage halten kann",
-          "tipNl": "Schrijf een oppasser aan voor je boekt en vraag of hij jouw hond tijdens de zomerse middaghitte binnen met airco kan houden"
+          "tipNl": "Schrijf een oppasser aan voor je boekt en vraag of hij jouw hond tijdens de zomerse middaghitte binnen met airco kan houden",
+          "tipIt": "Scrivi a un sitter prima di prenotare e chiedi se può tenere il tuo cane al chiuso con l'aria condizionata durante il caldo pomeriggio estivo"
         },
         {
           "name": "PetBacker Cartagena",
@@ -1281,10 +1431,13 @@
           "tipPt": "Confirme que o cuidador está na própria Cartagena, e não numa localidade vizinha de Múrcia, para que a recolha e a entrega sejam rápidas e simples",
           "descriptionDe": "PetBacker ist ein internationaler Marktplatz für Tierdienstleistungen mit einer soliden Basis an Sittern und Gassi-Gehern speziell in Cartagena, nützlich für kurzfristige Deckung. Jeder Sitter hat ein öffentliches Profil mit Bewertungen, Fotos und verifizierten Nachweisen, und Buchungen sind durch die Versicherung der Plattform und eine Geld-zurück-Garantie abgesichert. Die Leistungen reichen von Kurzbesuchen über Tagesbetreuung bis zur Übernacht-Tierpension, sodass Sie die Betreuung an einen einzelnen freien Nachmittag oder einen längeren Ausflug anpassen können. Vergleichen Sie ein paar Profile und lesen Sie aktuelle Bewertungen, bevor Sie sich entscheiden.",
           "descriptionNl": "PetBacker is een internationale marktplaats voor dierendiensten met een solide basis aan oppassers en uitlaters specifiek in Cartagena, handig voor kortdurende dekking. Elke oppasser heeft een openbaar profiel met beoordelingen, foto's en geverifieerde referenties, en boekingen zijn gedekt door de verzekering van het platform en een geld-terug-garantie. De diensten lopen van korte bezoekjes tot dagopvang tot logeerpension, zodat je de zorg kunt afstemmen op een enkele vrije middag of een langere trip. Vergelijk een paar profielen en lees recente beoordelingen voor je een keuze maakt.",
+          "descriptionIt": "PetBacker è un marketplace internazionale di servizi per animali con una solida base di sitter e dog walker specificamente a Cartagena, comodo per una copertura di breve durata. Ogni sitter ha un profilo pubblico con recensioni, foto e referenze verificate, e le prenotazioni sono coperte dall'assicurazione della piattaforma e da una garanzia di rimborso. I servizi vanno da brevi visite all'asilo diurno alla pensione, così puoi adattare la cura a un singolo pomeriggio libero o a un viaggio più lungo. Confronta un paio di profili e leggi le recensioni recenti prima di scegliere.",
           "serviceTypeDe": "Online-Buchung. Kurzbesuche, Tagesbetreuung, Tierpension, Gassi-Service",
           "serviceTypeNl": "Online boeken. Korte bezoekjes, dagopvang, pension, uitlaatservice",
+          "serviceTypeIt": "Prenotazione online. Brevi visite, asilo diurno, pensione, servizio passeggiate",
           "tipDe": "Bestätigen Sie, dass sich der Sitter in Cartagena selbst befindet und nicht in einer benachbarten Ortschaft Murcias, damit Abholung und Übergabe schnell und einfach bleiben",
-          "tipNl": "Bevestig dat de oppasser zich in Cartagena zelf bevindt en niet in een naburige plaats in Murcia, zodat ophalen en overdragen snel en eenvoudig blijven"
+          "tipNl": "Bevestig dat de oppasser zich in Cartagena zelf bevindt en niet in een naburige plaats in Murcia, zodat ophalen en overdragen snel en eenvoudig blijven",
+          "tipIt": "Conferma che il sitter si trovi a Cartagena stessa e non in una località vicina della Murcia, così il ritiro e la consegna restano rapidi e semplici"
         }
       ],
       "tipsEn": [
@@ -1337,8 +1490,10 @@
       ],
       "titleDe": "Hundesitter & Tierpflege in Cartagena",
       "titleNl": "Hondenoppas en dierenzorg in Cartagena",
+      "titleIt": "Dog sitting e cura degli animali a Cartagena",
       "introDe": "Manchmal brauchen Sie ein paar Stunden ohne Ihren Hund, für ein Innenmuseum, einen Termin oder einfach um der Mittagshitze zu entkommen. Cartagena und die weitere Region Murcia verfügen über ein verlässliches Netz geprüfter Online-Hundesitter und -ausführer, die praktischste Option für Reisende, da die Gästehäuser der Stadt selten eigene Tierbetreuung anbieten.",
       "introNl": "Soms heb je een paar uur zonder jouw hond nodig, voor een binnenmuseum, een afspraak, of gewoon om aan de middaghitte te ontsnappen. Cartagena en de bredere regio Murcia hebben een betrouwbaar netwerk van gecontroleerde online hondenoppassers en uitlaters, de handigste optie voor reizigers, aangezien de logies van de stad zelden eigen dierenzorg bieden.",
+      "introIt": "A volte ti servono un paio d'ore senza il tuo cane, per un museo al chiuso, un appuntamento, o semplicemente per sfuggire al caldo del pomeriggio. Cartagena e la regione più ampia della Murcia hanno una rete affidabile di dog sitter e dog walker online verificati, l'opzione più comoda per i viaggiatori, dato che gli alloggi della città raramente offrono un servizio di cura degli animali proprio.",
       "faqsDe": [
         {
           "q": "Wie viel kostet Hundebetreuung in Cartagena?",
@@ -1349,6 +1504,12 @@
         {
           "q": "Hoeveel kost hondenoppas in Cartagena?",
           "a": "Reken op ongeveer 12 tot 30 EUR per dag, afhankelijk van de dienst. Korte bezoekjes en korte wandelingen zitten aan de onderkant, terwijl volledige dagopvang of logeerpension meer kost. Boeken via een gecontroleerd platform zoals Gudog of PetBacker brengt verzekering en beoordelingen met zich mee, dat is de moeite waard voor een paar uur gemoedsrust op een hete middag."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Quanto costa il dog sitting a Cartagena?",
+          "a": "Calcola circa 12-30 EUR al giorno, a seconda del servizio. Brevi visite e passeggiate corte sono sulla fascia bassa, mentre l'asilo diurno completo o la pensione costano di più. Prenotare tramite una piattaforma verificata come Gudog o PetBacker offre assicurazione e recensioni, il che vale la pena per qualche ora di tranquillità in un pomeriggio caldo."
         }
       ]
     }

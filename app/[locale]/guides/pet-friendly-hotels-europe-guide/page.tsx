@@ -20,6 +20,7 @@ const STICKY_LABELS_HOTELS_EU: Record<string, { label: string; cta: string }> = 
   pt: { label: `Hotéis pet-friendly na Europa, preços em directo`, cta: 'Ver hotéis' },
   de: { label: `Haustierfreundliche Hotels in ganz Europa, Preise in Echtzeit`, cta: 'Hotels ansehen' },
   nl: { label: `Huisdiervriendelijke hotels in heel Europa, actuele prijzen`, cta: 'Bekijk hotels' },
+  it: { label: `Hotel pet-friendly in tutta Europa, prezzi in tempo reale`, cta: 'Guarda gli hotel' },
 }
 
 const SPONSORED_LABEL: Record<string, string> = {
@@ -29,6 +30,7 @@ const SPONSORED_LABEL: Record<string, string> = {
   pt: `PATROCINADO · SELECÇÃO DE PARCEIRO`,
   de: `SPONSORED · UNSERE PARTNERAUSWAHL`,
   nl: `GESPONSORD · ONZE PARTNERSELECTIE`,
+  it: `SPONSORIZZATO · LA NOSTRA SELEZIONE PARTNER`,
 }
 
 export async function generateStaticParams() {
@@ -45,6 +47,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: 'Hotéis pet-friendly na Europa: o guia completo 2026',
     de: 'Haustierfreundliche Hotels in Europa: der komplette Guide 2026',
     nl: 'Huisdiervriendelijke hotels in Europa: de complete gids 2026',
+    it: 'Hotel pet-friendly in Europa: la guida completa 2026',
   }
   const totalHotels = hotels.length
   const totalDests = destinations.length
@@ -55,6 +58,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: `O guia completo 2026 de ${totalHotels}+ hotéis que aceitam animais em ${totalDests} destinos europeus: cadeias que aceitam cães, regras país a país, o que perguntar antes de reservar, e as melhores categorias para gatos, praia e orçamento.`,
     de: `Der komplette Guide 2026 zu ${totalHotels}+ haustierfreundlichen Hotels in ${totalDests} europäischen Reisezielen: Ketten, die Hunde akzeptieren, Haustierregelungen Land für Land, was Sie vor der Buchung fragen sollten, und die besten Kategorien für Katzen, Strandzugang und Budgetreisen.`,
     nl: `De complete gids 2026 voor ${totalHotels}+ huisdiervriendelijke hotels in ${totalDests} Europese bestemmingen: ketens die honden accepteren, huisdierregels per land, wat je moet vragen voor je boekt, en de beste categorieën voor katten, strandtoegang en budgetreizen.`,
+    it: `La guida completa 2026 con ${totalHotels}+ hotel pet-friendly in ${totalDests} destinazioni europee: catene che accettano cani, regole paese per paese, cosa chiedere prima di prenotare, e le migliori categorie per gatti, accesso alla spiaggia e viaggi economici.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -980,6 +984,152 @@ const COPY: Record<string, Copy> = {
     viewCategoryLabel: `Bekijk categorie →`,
     countryDestinationsCta: `Bekijk bestemmingen →`,
   },
+  it: {
+    hero: {
+      kicker: 'GUIDA PRINCIPALE · AGGIORNATA 2026',
+      h1: `Hotel pet-friendly in Europa: la guida completa 2026`,
+      lede: `Come trovare, valutare e prenotare un hotel che accoglie davvero il tuo cane o gatto in Europa. Catene che accettano animali, regole paese per paese, domande da fare e la nostra selezione curata in 85+ destinazioni.`,
+    },
+    toc: { title: 'In questa guida', items: [
+      { id: 'what-to-look', label: `Cosa significa davvero "pet-friendly"` },
+      { id: 'chains', label: `Le 12 catene più affidabili` },
+      { id: 'by-category', label: `Per categoria di viaggio` },
+      { id: 'by-country', label: `Per paese: regole e tariffe` },
+      { id: 'booking-tips', label: `Consigli di prenotazione che fanno risparmiare` },
+      { id: 'what-to-ask', label: `10 domande da fare prima di prenotare` },
+      { id: 'faq', label: 'FAQ' },
+    ] },
+    whatToLook: {
+      id: 'what-to-look',
+      h2: `Cosa significa davvero "pet-friendly"`,
+      paras: [
+        `L'espressione non è regolamentata. Booking.com, Hotels.com e Airbnb lasciano che le strutture si auto-etichettino come pet-friendly senza alcuna verifica, quindi un singolo annuncio può significare di tutto, da un cinque stelle con concierge dedicato agli animali a un ostello che accetta un cane a malincuore dopo una cauzione di 40 £. Il nostro compito è filtrare il rumore.`,
+        `Secondo il nostro standard, un hotel davvero pet-friendly soddisfa almeno quattro dei sei criteri qui sotto. Questi criteri eliminano circa due terzi degli annunci "pet-friendly" su Booking.com. Ogni hotel nelle nostre 85+ guide di destinazione è stato controllato con la stessa checklist prima di essere incluso.`,
+      ],
+      checks: {
+        title: `La nostra checklist pet-friendly in 6 punti`,
+        items: [
+          `Animali accettati nelle camere standard, non relegati a una camera specifica`,
+          `Nessun divieto per razza oltre alle norme locali PPP / cani pericolosi`,
+          `Supplemento animale sotto i 30 € a soggiorno, o sotto i 15 € a notte`,
+          `Ciotole per l'acqua o cuccia disponibili su richiesta`,
+          `Il cane può restare in camera mentre esci, niente regola "canile durante il giorno"`,
+          `Area verde senza guinzaglio entro 500 m a piedi`,
+        ],
+      },
+    },
+    chains: {
+      id: 'chains',
+      h2: `Le 12 catene alberghiere pet-friendly più affidabili d'Europa`,
+      intro: `Le catene alberghiere sono la scelta più sicura per itinerari multi-città perché applicano la stessa politica animali in ogni struttura. Escludiamo le catene dove l'accettazione è lasciata ai singoli direttori (che, purtroppo, è la maggior parte, incluso Marriott in molte regioni).`,
+      rows: [
+        { chain: 'Adina Apartment Hotels', policy: `Appartamenti selezionati`, fee: '15 €/notte', note: `Angoli cottura, utili per i pasti del cane` },
+        { chain: 'Apex Hotels (UK)', policy: `Tutta la catena`, fee: '20 £/soggiorno', note: `Piscine coperte, posizioni centrali nel Regno Unito` },
+        { chain: 'Hilton (Pet Welcome)', policy: `La maggior parte; verificare per singolo hotel`, fee: '30–75 €/soggiorno', note: `Supplemento più alto, livello lusso` },
+        { chain: 'Holiday Inn / Express (IHG)', policy: `La maggior parte`, fee: '15–20 €/notte', note: `Fascia media affidabile, presente ovunque` },
+        { chain: 'Hospes Hotels', policy: `Tutta la catena`, fee: '25 €/soggiorno', note: `Catena boutique spagnola 5 stelle` },
+        { chain: 'Hotel Indigo (IHG)', policy: `Tutta la catena`, fee: '25 €/soggiorno', note: `Boutique 4 stelle, urbano` },
+        { chain: 'Mercure (Accor)', policy: `La maggior parte`, fee: '10–20 €/notte', note: `Rete forte in Francia / Italia` },
+        { chain: 'Motel One', policy: `Tutta la catena dal 2024`, fee: '10 €/notte', note: `Hotel design economici, in forte crescita` },
+        { chain: '25hours Hotels', policy: `Tutta la catena, kit pet incluso`, fee: '20 €/soggiorno', note: `Design 4 stelle, ciotole fornite` },
+        { chain: 'Scandic Hotels', policy: `Tutta la catena`, fee: '20 €/soggiorno', note: `Rete forte nordica + tedesca` },
+        { chain: 'Travelodge', policy: `La maggior parte degli hotel UK`, fee: '25 £/soggiorno', note: `Catena economica UK, max 2 animali a camera` },
+        { chain: 'NH Hotels / NH Collection', policy: `Tutta la catena`, fee: '20–25 €/notte', note: `Forte presenza in Spagna, Italia, Germania` },
+      ],
+      columns: { chain: 'Catena', policy: 'Politica', fee: 'Supplemento', note: 'Nota' },
+    },
+    byCategory: {
+      id: 'by-category',
+      h2: `Per categoria: che tipo di soggiorno fa per te`,
+      intro: `L'accettazione degli animali è solo il biglietto d'ingresso. Una vacanza al mare con un cane richiede criteri diversi da una gita in città con un gatto. Sfoglia qui sotto le nostre sei categorie, ognuna filtrata su 85+ destinazioni.`,
+    },
+    byCountry: {
+      id: 'by-country',
+      h2: `Per paese: regole e cultura del supplemento animale`,
+      intro: `Le politiche animali degli hotel variano in Europa, sia per la tariffa tipica sia per lo stile di applicazione locale. Qui sotto la realtà pratica paese per paese, tratta dal nostro audit su 460+ hotel.`,
+    },
+    countryNotes: {
+      France: `Oltre il 50% degli hotel accetta animali, supplemento medio 15–25 €/soggiorno. Gli hotel indipendenti sono in genere più economici delle catene. Si applicano le norme standard del passaporto UE per animali.`,
+      Germany: `Guida l'Europa per accoglienza ai cani. Gli hotel raramente rifiutano, media 10–20 €/notte. Berlino, Amburgo e Monaco hanno la maggiore densità di catene pet-welcome. I cani al ristorante sono normali.`,
+      Spain: `L'accettazione è cresciuta rapidamente, supplemento medio 15–20 €/notte. Madrid e Barcellona guidano tra le catene. L'Andalusia è ottima in primavera e autunno ma il caldo estivo è il limite principale.`,
+      Italy: `La legge italiana (Legge 281/1991) dà ai cani forti diritti di accesso ma gli hotel applicano supplementi più alti che in Francia o Germania, spesso 25–40 €/soggiorno. Trenitalia accetta i cani con la documentazione necessaria.`,
+      'United Kingdom': `Post-Brexit: i cani provenienti dall'UE hanno bisogno di un Animal Health Certificate (validità 10 giorni) più trattamento antiparassitario obbligatorio. Supplemento medio 25–50 £/soggiorno. I pub che accolgono i cani sono la base culturale britannica.`,
+      Netherlands: `Accoglienza pet eccezionale ad Amsterdam, Rotterdam e L'Aia. Gli hotel applicano 15–25 €/soggiorno. I cani viaggiano su tram e treni con un pass giornaliero da 3,40 €.`,
+      Belgium: `Forte accettazione, soprattutto ad Anversa e Gand. Supplementi 15–25 €. Le brasserie belghe sono universalmente tolleranti verso i cani.`,
+      Portugal: `Lisbona e Porto sono eccezionalmente accoglienti coi cani. Supplementi 10–20 €/soggiorno, più economici della Spagna. Tram e treni accettano i cani.`,
+      Switzerland: `Il paese più caro d'Europa ma con l'accettazione più costante. Media 30–50 CHF/notte. Treni e funivie accettano i cani gratis o a metà prezzo.`,
+      Austria: `Molto accogliente coi cani. Vienna e Salisburgo guidano la classifica. Media 10–20 €/notte. I treni ÖBB accettano i cani.`,
+      Denmark: `Copenaghen guida l'Europa sul benessere animale. Hotel tipicamente 150–300 DKK/soggiorno. I cani viaggiano gratis su metro e S-tog con museruola.`,
+      Sweden: `Stoccolma e Göteborg sono entrambe accoglienti coi pet. Supplemento 200–400 SEK/notte. Cani ammessi in treno.`,
+      Norway: `La cultura canina di Oslo è intensa. Supplemento 200–500 NOK. Cani gratis sulla maggior parte dei trasporti pubblici.`,
+      Finland: `Helsinki ha la maggiore densità canina d'Europa. Hotel spesso gratis per cani piccoli, 10–20 € per quelli grandi. Cani gratis su tutti i trasporti pubblici.`,
+      Iceland: `Regole d'importazione severe (documentazione estesa e costi elevati). Una volta lì, Reykjavík è accogliente. Hotel 5.000–8.000 ISK/soggiorno.`,
+      Ireland: `L'accoglienza pet a Dublino è migliorata. Hotel 15–25 €. Per l'Irlanda del Nord valgono le stesse regole documentali del Regno Unito.`,
+      Greece: `Atene e Salonicco in miglioramento. Hotel 10–15 €/soggiorno. Restrizioni sulle spiagge severe in estate.`,
+      'Czech Republic': `Praga è molto accogliente coi cani. Hotel 200–500 CZK/soggiorno. Cani ammessi su metro e tram.`,
+      Hungary: `Budapest è accogliente. Hotel 3.000–6.000 HUF/soggiorno. Cani gratis in metro con museruola.`,
+      Slovenia: `Lubiana e Bled sono entrambe pet-friendly. Hotel 10–15 €.`,
+      Croatia: `Dubrovnik e Spalato in miglioramento ma i divieti in spiaggia (15 maggio–30 set) sono severi. Hotel 10–20 €.`,
+      Poland: `Varsavia e Cracovia hanno una scena pet-welcome in crescita. Hotel 50–100 PLN/soggiorno.`,
+      Latvia: `Riga in miglioramento. Hotel 10–15 €.`,
+      Estonia: `Tallinn è pet-friendly. Hotel intorno ai 10 €.`,
+      Slovakia: `Bratislava è accogliente. Hotel 10–15 €.`,
+      Romania: `Bucarest migliora rapidamente. Hotel 30–60 RON/soggiorno.`,
+      Bulgaria: `Sofia è accogliente. Hotel 20–40 BGN.`,
+      Serbia: `Belgrado è accogliente, trasporti pubblici gratis per i cani dal 2025. Hotel 1.500–3.000 RSD.`,
+      Lithuania: `Vilnius è accogliente. Hotel intorno ai 10 €.`,
+      Luxembourg: `Pet-friendly. Hotel 15–25 €.`,
+    },
+    bookingTips: {
+      id: 'booking-tips',
+      h2: `Consigli di prenotazione che fanno risparmiare`,
+      paras: [
+        `I supplementi animale sono negoziabili più spesso di quanto si pensi. Prenota prima una tariffa con cancellazione gratuita su Booking.com per bloccare la camera, poi scrivi una email all'hotel prima dell'arrivo per confermare le condizioni esatte. Se l'hotel indica un supplemento diverso da quello dell'annuncio, mantieni l'opzione di cancellazione come rete di sicurezza.`,
+      ],
+      bullets: [
+        `Filtra su Booking.com per "cancellazione gratuita" + "animali ammessi", poi riconferma il supplemento per iscritto prima dell'arrivo. Il supplemento varia in base alla categoria di camera, la media indicata a volte è ottimistica.`,
+        `Per soggiorni di più notti, chiedi una tariffa forfettaria invece del supplemento a notte. 15 €/notte per 7 notti fa 105 €; molti hotel passano a 60 € forfettari se lo chiedi.`,
+        `I programmi fedeltà ripagano: i membri Hilton Honors, IHG One Rewards e Accor Live Limitless ai livelli più alti ottengono l'esenzione dal supplemento animale.`,
+        `Evita le camere "pet-allowed" segnate come unica opzione, spesso hanno un costo di pulizia extra. Le camere standard con animale-su-richiesta di solito costano meno.`,
+        `Resort per spiagge cani: prenota in bassa stagione (aprile-maggio, ottobre-novembre), stesso hotel, 30-40% più economico rispetto all'alta stagione estiva.`,
+        `Per soggiorni oltre 7 notti, un Airbnb spesso batte gli hotel sul costo totale animale (un costo di pulizia contro un supplemento giornaliero). Filtra per "animali ammessi" + recensioni verificate che citano gli animali.`,
+      ],
+    },
+    whatToAsk: {
+      id: 'what-to-ask',
+      h2: `10 domande da fare prima di prenotare`,
+      intro: `Prima di confermare una prenotazione, invia una breve email all'hotel con queste domande. Il tono della risposta ti dice tutto su se l'hotel è davvero accogliente o solo "pet-allowed" sulla carta.`,
+      questions: [
+        `Gli animali sono ammessi in qualsiasi camera standard, o solo in alcune specifiche?`,
+        `Il supplemento animale è a soggiorno o a notte? Include la pulizia?`,
+        `Ci sono restrizioni di razza o peso oltre alle norme legali PPP?`,
+        `Il mio cane può restare in camera mentre sono a cena o alla spa?`,
+        `Fornite ciotole, cucce o snack? O devo portarli io?`,
+        `C'è una zona per portare il cane fuori o uno spazio senza guinzaglio a portata di mano?`,
+        `Accettate più animali? Se sì, il supplemento è per animale o ha un tetto?`,
+        `Dove deve stare il cane con guinzaglio o museruola all'interno della struttura?`,
+        `Avete un veterinario locale consigliato in caso di emergenza?`,
+        `Qual è la politica di cancellazione se il mio animale sta male il giorno dell'arrivo?`,
+      ],
+    },
+    faqTitle: `Domande frequenti`,
+    faqs: [
+      { q: `Qual è il supplemento medio per animali negli hotel europei?`, a: `La media europea è 15–25 €/soggiorno per un hotel indipendente e 20–30 €/notte per le catene. Svizzera e UK sono in fascia alta (30–50 CHF / 40–60 £). L'Europa dell'Est è in fascia bassa (5–10 €).` },
+      { q: `Tutti gli hotel accettano anche i gatti?`, a: `La maggior parte degli hotel "dog-friendly" accetta anche i gatti, ma non sempre è pubblicizzato. Chiedi sempre esplicitamente: circa l'80% degli hotel che accettano cani accetta anche gatti con preavviso.` },
+      { q: `E se il mio cane abbaia di notte?`, a: `Gli hotel si riservano il diritto di addebitare una tariffa per disturbo o di farti lasciare la struttura. Soluzioni pratiche: camera d'angolo, in fondo al corridoio o al piano terra. Porta una coperta o un giocattolo familiare. ThunderShirts e spray Adaptil aiutano i cani ansiosi.` },
+      { q: `Ci sono piani riservati agli animali in qualche catena?`, a: `Sì, Kimpton, Hilton (alcune strutture) e 25hours hanno piani dedicati agli animali in alcune sedi. Chiedi esplicitamente al momento della prenotazione.` },
+      { q: `Come faccio a sapere se un hotel è davvero pet-friendly o solo pet-tollerato?`, a: `Tre indicatori: (1) l'hotel menziona dotazioni pet specifiche (ciotole, cucce, snack) sul suo sito, (2) il supplemento animale è ragionevole (10–25 €, non 75 £+), (3) la risposta dello staff alla tua email pre-prenotazione è entusiasta, non esitante. Pre-selezioniamo tutti gli hotel nelle nostre guide di destinazione.` },
+      { q: `E i cani da assistenza o guida?`, a: `I cani da assistenza sono ammessi gratuitamente in tutti gli hotel UE per legge (Regolamento 2016/679 + recepimenti nazionali) e in tutti gli hotel UK (Equality Act 2010). Il supplemento animale non si applica. Porta la documentazione.` },
+      { q: `Posso lasciare il mio cane da solo in camera d'hotel?`, a: `La maggior parte degli hotel pet-friendly europei vieta gli animali incustoditi. Soluzioni: prenota un sitter Pawshake o Tailster per le poche ore che ti servono, oppure usa il servizio di asilo diurno in camera offerto da Kimpton, 25hours e alcuni Hilton.` },
+    ],
+    ctaTitle: `Pronto a trovare il tuo hotel?`,
+    ctaDesc: `Sfoglia i nostri hotel pet-friendly selezionati con cura in 85+ destinazioni europee, tutti verificati per politiche pet-welcome autentiche, con valutazioni ospiti confermate da 8,0 in su.`,
+    ctaButton: `Vedi tutte le destinazioni →`,
+    hotelLabel: `hotel`,
+    destLabel: `destinazioni`,
+    viewCategoryLabel: `Vedi la categoria →`,
+    countryDestinationsCta: `Vedi le destinazioni →`,
+  },
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
@@ -1121,6 +1271,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                 : locale === 'pt' && (cat as { namePt?: string }).namePt ? (cat as { namePt?: string }).namePt
                 : locale === 'de' && (cat as { nameDe?: string }).nameDe ? (cat as { nameDe?: string }).nameDe
                 : locale === 'nl' && (cat as { nameNl?: string }).nameNl ? (cat as { nameNl?: string }).nameNl
+                : locale === 'it' && (cat as { nameIt?: string }).nameIt ? (cat as { nameIt?: string }).nameIt
                 : cat.name
               return (
                 <Link

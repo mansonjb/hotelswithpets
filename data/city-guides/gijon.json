@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sidreria+La+Galana+Plaza+Mayor+Gijon",
           "descriptionDe": "Eine bekannte Sidrería direkt an der Plaza Mayor am Rand von Cimavilla, die klassische asturische Gerichte und Natur-Cider auf traditionelle Weise eingeschenkt serviert. Die große Terrasse am Platz ist ein bequemer Ort, um mit Hund zu sitzen, während Sie sich durch Cachopo, Fabada oder eine Platte lokaler Käsesorten arbeiten.",
           "descriptionNl": "Een bekende sidrería direct aan de Plaza Mayor aan de rand van Cimavilla, die klassieke Asturische gerechten en op traditionele wijze geschonken natuurlijke cider serveert. Het grote terras aan het plein is een fijne plek om met hond te zitten terwijl je je een weg werkt door cachopo, fabada of een plank lokale kazen.",
+          "descriptionIt": "Una sidreria famosa proprio sulla Plaza Mayor ai margini di Cimavilla, che serve piatti asturiani classici e sidro naturale versato nel modo tradizionale. La grande terrazza sulla piazza e un bel posto dove sedersi con il cane mentre ti fai strada tra cachopo, fabada o un tagliere di formaggi locali.",
           "petPolicyDe": "Hunde sind auf der geräumigen Terrasse mit Blick auf die Plaza Mayor willkommen. Halten Sie Ihren Hund angeleint und dicht an Ihrem Tisch, fern vom Personal, das den Cider einschenkt.",
           "petPolicyNl": "Honden zijn welkom op het ruime terras met uitzicht op de Plaza Mayor. Houd jouw hond aangelijnd en dicht bij je tafel, uit de buurt van het personeel dat de cider inschenkt.",
+          "petPolicyIt": "I cani sono benvenuti sull'ampia terrazza con vista sulla Plaza Mayor. Tieni il tuo cane al guinzaglio e vicino al tavolo, lontano dal personale che versa il sidro.",
           "mustTryDe": "Cachopo asturiano und eine am Tisch eingeschenkte Flasche Natur-Sidra.",
           "mustTryNl": "Cachopo asturiano en een aan tafel geschonken fles natuurlijke sidra.",
+          "mustTryIt": "Cachopo asturiano con una bottiglia di sidra naturale versata al tavolo.",
           "tipDe": "Kommen Sie vor 14:00 Uhr zum Mittagessen, um im Sommer einen Terrassentisch zu ergattern, wenn sich die Plaza Mayor schnell füllt.",
-          "tipNl": "Kom voor 14:00 uur lunchen om in de zomer een terrastafel te bemachtigen, wanneer de Plaza Mayor snel vol raakt."
+          "tipNl": "Kom voor 14:00 uur lunchen om in de zomer een terrastafel te bemachtigen, wanneer de Plaza Mayor snel vol raakt.",
+          "tipIt": "Vieni a pranzo prima delle 14:00 per accaparrarti un tavolo in terrazza d'estate, quando la Plaza Mayor si riempie in fretta."
         },
         {
           "name": "Restaurante Auga",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurante+Auga+Puerto+Deportivo+Gijon",
           "descriptionDe": "Ein elegantes Fischrestaurant direkt über dem Wasser im Yachthafen, bekannt für ultrafrischen kantabrischen Fisch und eine raffinierte Interpretation der asturischen Küche. Die Terrasse am Wasser lässt Sie mit Ihrem Hund an Ihrer Seite essen, mit Blick über den Hafen bis nach Cimavilla.",
           "descriptionNl": "Een elegant visrestaurant direct boven het water in de jachthaven, bekend om ultraverse Cantabrische vis en een verfijnde interpretatie van de Asturische keuken. Op het terras aan het water eet je met jouw hond naast je, met uitzicht over de haven tot aan Cimavilla.",
+          "descriptionIt": "Un elegante ristorante di pesce proprio sull'acqua nel porto turistico, noto per il pesce cantabrico freschissimo e un'interpretazione raffinata della cucina asturiana. Sulla terrazza sull'acqua mangi con il tuo cane accanto, con vista sul porto fino a Cimavilla.",
           "petPolicyDe": "Wohlerzogene Hunde sind auf der Außenterrasse über dem Yachthafen zugelassen. Reservieren Sie im Voraus und erwähnen Sie Ihren Hund, damit man Ihnen Platz neben dem Tisch einräumen kann.",
           "petPolicyNl": "Welopgevoede honden zijn toegestaan op het buitenterras boven de jachthaven. Reserveer vooraf en vermeld jouw hond, zodat er ruimte naast de tafel voor je wordt vrijgehouden.",
+          "petPolicyIt": "I cani ben educati sono ammessi sulla terrazza esterna sopra il porto turistico. Prenota prima e menziona il tuo cane, cosi ti tengono libero lo spazio accanto al tavolo.",
           "mustTryDe": "Gegrillter kantabrischer Tagesfisch und Reis mit lokalen Meeresfrüchten.",
           "mustTryNl": "Gegrilde Cantabrische dagverse vis en rijst met lokale zeevruchten.",
+          "mustTryIt": "Pesce cantabrico fresco alla griglia e riso con frutti di mare locali.",
           "tipDe": "Buchen Sie die Terrasse zum Sonnenuntergang für das beste Hafenlicht, und bringen Sie Wasser für Ihren Hund mit, da die Meeresbrise austrocknend wirken kann.",
-          "tipNl": "Boek het terras bij zonsondergang voor het beste havenlicht, en neem water mee voor jouw hond, want de zeebries kan uitdrogend werken."
+          "tipNl": "Boek het terras bij zonsondergang voor het beste havenlicht, en neem water mee voor jouw hond, want de zeebries kan uitdrogend werken.",
+          "tipIt": "Prenota la terrazza al tramonto per la luce migliore sul porto, e porta acqua per il tuo cane, perche la brezza marina puo disidratare."
         },
         {
           "name": "Sidrería Canteli",
@@ -110,20 +118,27 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sidreria+Canteli+Avenida+de+la+Costa+Gijon",
           "descriptionDe": "Eine unprätentiöse Nachbarschafts-Sidrería, von Einheimischen für ehrliche asturische Hausmannskost zu fairen Preisen und einen bekanntermaßen hundeliebenden Besitzer geschätzt. Hunde sind sowohl drinnen als auch draußen willkommen, was sie zu einer verlässlichen Regentag-Option macht, wenn das Wetter an der Nordküste umschlägt.",
           "descriptionNl": "Een ongedwongen buurt-sidrería, gewaardeerd door locals om eerlijke Asturische huiskost tegen eerlijke prijzen en een bekend hondenlievende eigenaar. Honden zijn zowel binnen als buiten welkom, waardoor het een betrouwbare optie is voor een regenachtige dag, wanneer het weer aan de noordkust omslaat.",
+          "descriptionIt": "Una sidreria di quartiere informale, apprezzata dalla gente del posto per un'onesta cucina casalinga asturiana a prezzi onesti e un proprietario noto amante dei cani. I cani sono benvenuti sia dentro che fuori, il che la rende un'opzione affidabile per un giorno di pioggia, quando il tempo sulla costa nord cambia.",
           "petPolicyDe": "Hunde sind sowohl drinnen als auch auf der Terrasse erlaubt, auch bei schlechtem Wetter. Halten Sie Ihren Hund im Speiseraum angeleint und bei sich.",
           "petPolicyNl": "Honden zijn zowel binnen als op het terras toegestaan, ook bij slecht weer. Houd jouw hond in de eetzaal aangelijnd en bij je.",
+          "petPolicyIt": "I cani sono ammessi sia dentro che in terrazza, anche con brutto tempo. Tieni il tuo cane al guinzaglio e vicino a te nella sala.",
           "mustTryDe": "Fabada asturiana und ein Stück Cabrales-Käse mit Cider.",
           "mustTryNl": "Fabada asturiana en een stuk Cabrales-kaas met cider.",
+          "mustTryIt": "Fabada asturiana con un pezzo di formaggio Cabrales e sidro.",
           "tipDe": "Die Portionen sind großzügig, bestellen Sie also eine Fabada zum Teilen, wenn Sie auch noch einen Hauptgang möchten.",
-          "tipNl": "De porties zijn royaal, dus bestel een fabada om te delen als je ook nog een hoofdgerecht wilt."
+          "tipNl": "De porties zijn royaal, dus bestel een fabada om te delen als je ook nog een hoofdgerecht wilt.",
+          "tipIt": "Le porzioni sono generose, quindi ordina una fabada da condividere se vuoi anche un secondo."
         }
       ],
       "titleDe": "Hundefreundliche Restaurants & Sidrerías in Gijón",
       "titleNl": "Hondvriendelijke restaurants & sidrerías in Gijón",
+      "titleIt": "Ristoranti e sidrerie pet friendly a Gijon",
       "introDe": "Gijón zählt zu den wirklich hundefreundlichsten Städten an Spaniens Nordküste, und seine Cider-Kultur baut auf entspannten Außenterrassen auf, wo ein wohlerzogener Hund zu Ihren Füßen normal ist. Viele Sidrerías in und um das alte Fischerviertel Cimavilla heißen Hunde auf der Terrasse willkommen, und manche lassen ruhige Hunde auch hinein. Fragen Sie immer vorher nach und halten Sie Ihren Hund in Tischnähe angeleint, denn das traditionelle Ritual des Sidra-Einschenkens bringt viel Bewegung um Sie herum mit sich.",
       "introNl": "Gijón behoort tot de echt hondvriendelijkste steden aan de noordkust van Spanje, en de cidercultuur bouwt voort op ontspannen buitenterrassen, waar een welopgevoede hond aan jouw voeten heel normaal is. Veel sidrerías in en rond de oude vissersbuurt Cimavilla heten honden welkom op het terras, en sommige laten rustige honden ook binnen. Vraag altijd vooraf en houd jouw hond aangelijnd dicht bij de tafel, want het traditionele ritueel van het cider inschenken brengt veel beweging om je heen met zich mee.",
+      "introIt": "Gijon e tra le citta piu davvero pet friendly della costa nord della Spagna, e la cultura del sidro si basa su terrazze rilassate, dove un cane ben educato ai tuoi piedi e la normalita. Molte sidrerie dentro e intorno al vecchio quartiere dei pescatori di Cimavilla accolgono i cani in terrazza, e alcune fanno entrare anche i cani tranquilli. Chiedi sempre prima e tieni il tuo cane al guinzaglio vicino al tavolo, perche il rituale tradizionale di versare il sidro comporta molto movimento intorno a te.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Best Parks & Green Spaces for Dogs in Gijón",
@@ -160,12 +175,16 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cerro+de+Santa+Catalina+Gijon",
           "descriptionDe": "Ein windumtostes Klippenplateau über der Altstadt, gekrönt von Chillidas monumentaler Betonskulptur Elogio del Horizonte und umgeben von weiten Rasenflächen mit weitem Blick über das Kantabrische Meer. Es ist einer der beliebtesten Orte der Stadt für Hundespaziergänge und Picknicks, mit Wegen, die um die ehemalige Küstenbatterie führen.",
           "descriptionNl": "Een winderig klifplateau boven de oude stad, bekroond door Chillida's monumentale betonnen sculptuur Elogio del Horizonte en omringd door uitgestrekte grasvelden met wijds uitzicht over de Kantabrische Zee. Het is een van de populairste plekken van de stad voor hondenwandelingen en picknicks, met paden rond de voormalige kustbatterij.",
+          "descriptionIt": "Un pianoro ventoso sulle scogliere sopra la citta vecchia, coronato dalla monumentale scultura in cemento di Chillida Elogio del Horizonte e circondato da ampi prati con vista panoramica sul Mar Cantabrico. E uno dei posti piu amati della citta per passeggiate col cane e picnic, con sentieri intorno all'ex batteria costiera.",
           "leashRulesDe": "Hunde müssen angeleint sein, außer innerhalb der orange markierten Freilaufzonen im Park. Potenziell gefährliche Rassen müssen durchgehend angeleint sein und Maulkorb tragen.",
           "leashRulesNl": "Honden moeten aangelijnd zijn, behalve binnen de oranje gemarkeerde loslaatzones in het park. Potentieel gevaarlijke rassen moeten voortdurend aangelijnd zijn en een muilkorf dragen.",
+          "leashRulesIt": "I cani devono stare al guinzaglio, tranne nelle zone di sgambamento segnalate in arancione all'interno del parco. Le razze potenzialmente pericolose devono restare sempre al guinzaglio e con la museruola.",
           "featuresDe": "Küstenblick, Rasenflächen, Rundwege, monumentale Skulptur, Bänke",
           "featuresNl": "Kustuitzicht, grasvelden, rondwandelpaden, monumentale sculptuur, bankjes",
+          "featuresIt": "Vista sulla costa, prati, sentieri ad anello, scultura monumentale, panchine",
           "bestTimeToVisitDe": "Später Nachmittag für Sonnenuntergang über dem Meer, an einem Tag mit weniger Wind",
-          "bestTimeToVisitNl": "Late namiddag voor zonsondergang boven zee, op een dag met minder wind"
+          "bestTimeToVisitNl": "Late namiddag voor zonsondergang boven zee, op een dag met minder wind",
+          "bestTimeToVisitIt": "Tardo pomeriggio prima del tramonto sul mare, in una giornata con meno vento"
         },
         {
           "name": "Parque de Isabel la Católica",
@@ -192,12 +211,16 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parque+de+Isabel+la+Catolica+Gijon",
           "descriptionDe": "Gijóns großer zentraler Park, eine grüne Weite aus Teichen, Kanälen und ausgewachsenen Bäumen zwischen der Stadt und dem Playa de San Lorenzo, Heimat von Enten, Schwänen und Pfauen. Ein ruhiger, schattiger Ort für einen entspannten Spaziergang an der Leine, mit einer ausgewiesenen Freilaufzone für Hunde in der Nähe zum Auslaufen.",
           "descriptionNl": "Het grote centrale park van Gijón, een groene uitgestrektheid van vijvers, kanalen en volgroeide bomen tussen de stad en het Playa de San Lorenzo, thuis aan eenden, zwanen en pauwen. Een rustige, schaduwrijke plek voor een ontspannen wandeling aan de lijn, met een aangewezen loslaatzone voor honden vlakbij om vrij te lopen.",
+          "descriptionIt": "Il grande parco centrale di Gijon, una distesa verde di stagni, canali e alberi maturi tra la citta e la Playa de San Lorenzo, casa di anatre, cigni e pavoni. Un posto tranquillo e ombreggiato per una passeggiata rilassata al guinzaglio, con una zona di sgambamento designata li vicino per correre liberi.",
           "leashRulesDe": "Halten Sie Hunde im gesamten Zierpark angeleint, um die dort lebenden Wasservögel zu schützen. Nutzen Sie die nahegelegene orange markierte Freilaufzone, wenn Ihr Hund frei laufen soll.",
           "leashRulesNl": "Houd honden in het hele siertuinpark aangelijnd, om de daar levende watervogels te beschermen. Gebruik de nabijgelegen oranje gemarkeerde loslaatzone als jouw hond vrij mag lopen.",
+          "leashRulesIt": "Tieni i cani al guinzaglio in tutto il giardino ornamentale, per proteggere gli uccelli acquatici che ci vivono. Usa la vicina zona di sgambamento segnalata in arancione se il tuo cane puo correre libero.",
           "featuresDe": "Teiche und Kanäle, ausgewachsene Bäume, schattige Wege, Wasservögel, nahegelegene Hundezone",
           "featuresNl": "Vijvers en kanalen, volgroeide bomen, schaduwrijke paden, watervogels, nabijgelegen hondenzone",
+          "featuresIt": "Stagni e canali, alberi maturi, sentieri ombreggiati, uccelli acquatici, zona cani vicina",
           "bestTimeToVisitDe": "Morgens für Schatten und Ruhe vor dem Mittagsandrang",
-          "bestTimeToVisitNl": "Ochtend voor schaduw en rust vóór de middagdrukte"
+          "bestTimeToVisitNl": "Ochtend voor schaduw en rust vóór de middagdrukte",
+          "bestTimeToVisitIt": "Mattina per ombra e tranquillita prima dell'affollamento pomeridiano"
         },
         {
           "name": "Senda Costera del Rinconín",
@@ -224,20 +247,27 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Senda+Costera+El+Rinconin+Gijon",
           "descriptionDe": "Ein malerischer Küstengrünweg, der vom Ende des Playa de San Lorenzo aus nach Osten entlang niedriger Klippen in Richtung La Providencia führt, vorbei am hundefreundlichen Strand El Rinconín und einem angrenzenden Hundepark. Der flache, asphaltierte Weg eignet sich ideal für lange Spaziergänge an der Leine mit ständigem Meerblick und häufigen Bänken.",
           "descriptionNl": "Een pittoreske kustgroenstrook die vanaf het einde van het Playa de San Lorenzo naar het oosten loopt, langs lage kliffen richting La Providencia, langs het hondvriendelijke strand El Rinconín en een aangrenzend hondenpark. Het vlakke, geasfalteerde pad leent zich uitstekend voor lange wandelingen aan de lijn met voortdurend zeezicht en regelmatig bankjes.",
+          "descriptionIt": "Una pittoresca fascia verde costiera che dalla fine della Playa de San Lorenzo corre verso est, lungo basse scogliere in direzione La Providencia, passando per la spiaggia pet friendly di El Rinconin e un'area cani adiacente. Il percorso pianeggiante e asfaltato e ottimo per lunghe passeggiate al guinzaglio con vista sul mare costante e panchine regolari.",
           "leashRulesDe": "Halten Sie Hunde entlang des Grünwegs angeleint und lösen Sie die Leine nur innerhalb des eingezäunten Hundeparks neben El Rinconín. Entfernen Sie den Kot und nutzen Sie die entlang der Strecke bereitgestellten Mülleimer.",
           "leashRulesNl": "Houd honden langs de groenstrook aangelijnd en maak de lijn alleen los binnen het omheinde hondenpark naast El Rinconín. Ruim de uitwerpselen op en gebruik de langs de route geplaatste vuilnisbakken.",
+          "leashRulesIt": "Tieni i cani al guinzaglio lungo la fascia verde e sgancia il guinzaglio solo dentro l'area cani recintata accanto a El Rinconin. Raccogli gli escrementi e usa i cestini lungo il percorso.",
           "featuresDe": "Meerblick, asphaltierter flacher Weg, Hundepark, Strandzugang, Bänke",
           "featuresNl": "Zeezicht, geasfalteerd vlak pad, hondenpark, strandtoegang, bankjes",
+          "featuresIt": "Vista sul mare, percorso asfaltato pianeggiante, area cani, accesso alla spiaggia, panchine",
           "bestTimeToVisitDe": "Früher Morgen oder Sonnenuntergang für kühle Luft und ruhige Wege",
-          "bestTimeToVisitNl": "Vroege ochtend of zonsondergang voor koele lucht en rustige paden"
+          "bestTimeToVisitNl": "Vroege ochtend of zonsondergang voor koele lucht en rustige paden",
+          "bestTimeToVisitIt": "Mattina presto o tramonto per aria fresca e sentieri tranquilli"
         }
       ],
       "titleDe": "Die besten Parks & Grünflächen für Hunde in Gijón",
       "titleNl": "De beste parken & groengebieden voor honden in Gijón",
+      "titleIt": "I migliori parchi e aree verdi per cani a Gijon",
       "introDe": "Gijón unterhält ein Netz von über 40 öffentlichen Grünflächen, in denen Hunde frei laufen dürfen, jedoch nur innerhalb der mit orangefarbenen städtischen Schildern markierten Zonen, da im übrigen Park Leinenpflicht gilt. Der Klippenpark Cerro de Santa Catalina und mehrere sendas verdes (Grünwege) bieten Hunden und Haltern reichlich Küstenspaziergänge. Führen Sie immer Beutel mit, entfernen Sie den Kot Ihres Hundes und achten Sie auf die orangefarbenen Freilaufmarkierungen, bevor Sie die Leine abnehmen.",
       "introNl": "Gijón onderhoudt een netwerk van meer dan 40 openbare groengebieden waar honden vrij mogen lopen, maar alleen binnen de zones die met oranje gemeentelijke borden zijn gemarkeerd, want in de rest van het park geldt lijnplicht. Het klifpark Cerro de Santa Catalina en meerdere sendas verdes (groenwegen) bieden honden en baasjes volop kustwandelingen. Neem altijd zakjes mee, ruim de uitwerpselen van jouw hond op en let op de oranje loslaatmarkeringen voordat je de lijn losmaakt.",
+      "introIt": "Gijon mantiene una rete di oltre 40 aree verdi pubbliche dove i cani possono correre liberi, ma solo dentro le zone segnalate con cartelli comunali arancioni, perche nel resto del parco vale l'obbligo di guinzaglio. Il parco sulla scogliera Cerro de Santa Catalina e diverse sendas verdes (percorsi verdi) offrono a cani e padroni ampie passeggiate costiere. Porta sempre i sacchetti, raccogli gli escrementi del tuo cane e controlla i segnali arancioni prima di sganciare il guinzaglio.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Getting Around Gijón with a Dog",
@@ -308,10 +338,13 @@
       ],
       "titleDe": "Mit Hund unterwegs in Gijón",
       "titleNl": "Onderweg met hond in Gijón",
+      "titleIt": "In giro con il cane a Gijon",
       "introDe": "Gijón ist kompakt und entlang der Uferpromenade flach, sodass die meisten Haustierhalter einfach zwischen Altstadt, Yachthafen und Playa de San Lorenzo zu Fuß gehen. Im öffentlichen Nahverkehr begünstigen die Regeln kleine Haustiere in Transportboxen, während größere Hunde am einfachsten per Taxi oder zu Fuß unterwegs sind. Führen Sie stets die Papiere Ihres Hundes mit sich, und halten Sie potenziell gefährliche Rassen in allen gemeinsam genutzten Bereichen angeleint und mit Maulkorb.",
       "introNl": "Gijón is compact en vlak langs de kustpromenade, waardoor de meeste huisdierbaasjes gewoon te voet tussen de oude stad, de jachthaven en het Playa de San Lorenzo lopen. In het openbaar vervoer bevoordelen de regels kleine huisdieren in transportboxen, terwijl grotere honden het makkelijkst per taxi of te voet onderweg zijn. Neem altijd de papieren van jouw hond mee, en houd potentieel gevaarlijke rassen in alle gedeelde ruimtes aangelijnd en met muilkorf.",
+      "introIt": "Gijon e compatta e pianeggiante lungo il lungomare, quindi la maggior parte dei padroni si sposta semplicemente a piedi tra la citta vecchia, il porto turistico e la Playa de San Lorenzo. Nei trasporti pubblici le regole favoriscono gli animali piccoli in trasportino, mentre i cani piu grandi si muovono piu facilmente in taxi o a piedi. Porta sempre i documenti del tuo cane, e tieni le razze potenzialmente pericolose al guinzaglio e con museruola in tutti gli spazi condivisi.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches in & near Gijón",
@@ -383,10 +416,13 @@
       ],
       "titleDe": "Hundefreundliche Strände in & bei Gijón",
       "titleNl": "Hondvriendelijke stranden in & bij Gijón",
+      "titleIt": "Spiagge pet friendly a Gijon e dintorni",
       "introDe": "Gijóns Strandregeln für Hunde sind streng, aber klar. Der zentrale Playa de San Lorenzo erlaubt Hunde nur außerhalb der Badesaison, zwischen dem 1. Oktober und dem 30. April, und nur auf dem Abschnitt zwischen den Treppen 2 und 8, während der kleine Strand El Rinconín der ganzjährige Hundestrand der Stadt ohne saisonale Einschränkungen ist. Halten Sie Ihren Hund abseits der ausgewiesenen Hundezonen stets angeleint, führen Sie Kotbeutel mit und spülen Sie die Pfoten nach Salz und Sand ab.",
       "introNl": "Gijóns strandregels voor honden zijn strikt maar duidelijk. Het centrale Playa de San Lorenzo laat honden alleen toe buiten het badseizoen, tussen 1 oktober en 30 april, en alleen op het stuk tussen trap 2 en 8, terwijl het kleine strand El Rinconín het hele jaar door het hondenstrand van de stad is, zonder seizoensgebonden beperkingen. Houd jouw hond buiten de aangewezen hondenzones altijd aangelijnd, neem drollenzakjes mee en spoel de pootjes af na zout en zand.",
+      "introIt": "Le regole di Gijon per i cani in spiaggia sono rigide ma chiare. La centrale Playa de San Lorenzo ammette i cani solo fuori dalla stagione balneare, tra il 1 ottobre e il 30 aprile, e solo nel tratto tra la scala 2 e la 8, mentre la piccola spiaggia di El Rinconin e la spiaggia per cani della citta tutto l'anno, senza limitazioni stagionali. Tieni il tuo cane sempre al guinzaglio fuori dalle zone cani designate, porta i sacchetti per gli escrementi e sciacqua le zampe dopo sale e sabbia.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Emergency Vets & Veterinary Clinics in Gijón",
@@ -440,10 +476,13 @@
       ],
       "titleDe": "Tierärztliche Notdienste & Tierkliniken in Gijón",
       "titleNl": "Dierenartsspoeddiensten & dierenklinieken in Gijón",
+      "titleIt": "Pronto soccorso veterinario e cliniche a Gijon",
       "introDe": "Gijón verfügt über eine starke tierärztliche Versorgung, darunter zwei Referenzkrankenhäuser mit rund um die Uhr verfügbarer Notfallversorgung und ein seit Langem etabliertes Krankenhaus im Stadtzentrum. Die Infrastruktur für den EU-Heimtierausweis ist in ganz Asturien Standard, und das Personal spricht meist zumindest einfaches Englisch. Speichern Sie vor der Reise eine 24-Stunden-Nummer, und fragen Sie in den wärmeren Sandmückenmonaten nach Leishmaniose-Prophylaxe.",
       "introNl": "Gijón beschikt over een sterke dierenartsvoorziening, waaronder twee referentieziekenhuizen met 24 uur per dag beschikbare spoedzorg en een langgevestigd ziekenhuis in het stadscentrum. De infrastructuur voor het EU-huisdierenpaspoort is standaard in heel Asturië, en het personeel spreekt meestal op zijn minst eenvoudig Engels. Sla vóór de reis een 24-uursnummer op, en vraag in de warmere zandvliegmaanden naar leishmaniose-profylaxe.",
+      "introIt": "Gijon ha un'ottima offerta veterinaria, tra cui due ospedali di riferimento con pronto soccorso disponibile 24 ore su 24 e un ospedale storico nel centro citta. L'infrastruttura per il passaporto animale UE e standard in tutte le Asturie, e il personale parla di solito almeno un inglese di base. Salva un numero per le emergenze 24 ore prima del viaggio, e chiedi informazioni sulla profilassi per la leishmaniosi nei mesi piu caldi dei pappataci.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Practical Tips for Visiting Gijón with a Dog",
@@ -532,8 +571,10 @@
       ],
       "titleDe": "Praktische Tipps für den Besuch von Gijón mit Hund",
       "titleNl": "Praktische tips voor een bezoek aan Gijón met hond",
+      "titleIt": "Consigli pratici per visitare Gijon con il cane",
       "introDe": "Gijón zählt zu den einfachsten Städten Spaniens für Haustierhalter, mit einer flachen Uferpromenade, großzügigen Grünflächen und einer entspannten Cider-Kultur. Ein paar lokale Regeln und das nordspanische Klima sollte man bei der Planung berücksichtigen, um die Reise reibungslos zu gestalten.",
       "introNl": "Gijón behoort tot de makkelijkste steden van Spanje voor huisdierbaasjes, met een vlakke kustpromenade, ruime groengebieden en een ontspannen cidercultuur. Een paar lokale regels en het Noord-Spaanse klimaat moet je bij het plannen wel meenemen, om de reis soepel te laten verlopen.",
+      "introIt": "Gijon e tra le citta piu semplici della Spagna per chi viaggia con animali, con un lungomare pianeggiante, ampi spazi verdi e una cultura del sidro rilassata. Vale la pena tenere presenti alcune regole locali e il clima del nord della Spagna in fase di pianificazione, per far filare tutto liscio.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund an den Playa de San Lorenzo mitnehmen?",
@@ -561,6 +602,20 @@
           "q": "Zijn honden toegestaan in de sidrerías en restaurants van Gijón?",
           "a": "Veel sidrerías en restaurants heten honden welkom op hun terrassen, en sommige laten rustige honden ook binnen, vooral in de buurt Cimavilla. Vraag altijd eerst en houd jouw hond aangelijnd naast je tafel."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane alla Playa de San Lorenzo?",
+          "a": "Solo fuori dalla stagione balneare, dal 1 ottobre al 30 aprile, e solo nel tratto tra la scala 2 e la 8. D'estate usa invece la spiaggia per cani El Rinconin, aperta tutto l'anno."
+        },
+        {
+          "q": "Dove puo il mio cane correre libero a Gijon?",
+          "a": "Nelle zone segnalate con cartelli comunali arancioni tra le oltre 40 aree verdi, incluse parti del Cerro de Santa Catalina, e nell'area cani recintata accanto alla spiaggia El Rinconin. Ovunque altrove vale l'obbligo di guinzaglio."
+        },
+        {
+          "q": "I cani sono ammessi nelle sidrerie e nei ristoranti di Gijon?",
+          "a": "Molte sidrerie e ristoranti accolgono i cani sulle loro terrazze, e alcuni fanno entrare anche i cani tranquilli, soprattutto nel quartiere di Cimavilla. Chiedi sempre prima e tieni il tuo cane al guinzaglio accanto al tavolo."
+        }
       ]
     },
     "attractions": {
@@ -585,7 +640,8 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cimavilla+Gijon",
           "photo": "",
           "descriptionDe": "Gijóns stimmungsvolle Altstadt erklimmt die Landzunge in einem Labyrinth aus bunt bemalten Fischerhäusern, lebendigen Plätzen und Cider-Bars, gekrönt vom Cerro de Santa Catalina. Es ist ein wunderbares Viertel, um mit angeleintem Hund zu schlendern, mit der Klippenskulptur und Meerblick als Abschluss.",
-          "descriptionNl": "De sfeervolle oude stad van Gijón beklimt de landtong in een labyrint van kleurrijk beschilderde vissershuizen, levendige pleinen en ciderbars, bekroond door de Cerro de Santa Catalina. Het is een heerlijke buurt om met aangelijnde hond te slenteren, met de klifsculptuur en het zeezicht als afsluiter."
+          "descriptionNl": "De sfeervolle oude stad van Gijón beklimt de landtong in een labyrint van kleurrijk beschilderde vissershuizen, levendige pleinen en ciderbars, bekroond door de Cerro de Santa Catalina. Het is een heerlijke buurt om met aangelijnde hond te slenteren, met de klifsculptuur en het zeezicht als afsluiter.",
+          "descriptionIt": "La suggestiva citta vecchia di Gijon sale sulla penisola in un labirinto di case di pescatori dai colori vivaci, piazze animate e bar da sidro, coronata dal Cerro de Santa Catalina. E un quartiere delizioso da girare con il cane al guinzaglio, con la scultura sulla scogliera e la vista sul mare come chiusura."
         },
         {
           "name": "Universidad Laboral de Gijón (gardens & courtyard)",
@@ -599,7 +655,8 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Universidad+Laboral+Gijon",
           "photo": "",
           "descriptionDe": "Spaniens größtes Gebäude, ein gewaltiger monumentaler Gebäudekomplex aus dem 20. Jahrhundert, heute ein Kulturzentrum mit einem hoch aufragenden Turm und einem großen Platz. Hunde dürfen die Säle nicht betreten und nicht auf den Turm steigen, sind aber in den Gärten und im zentralen Innenhof willkommen, und das Café sowie das Restaurant vor Ort lassen Hunde auf der Innenterrasse zu.",
-          "descriptionNl": "Het grootste gebouw van Spanje, een gigantisch monumentaal gebouwencomplex uit de 20e eeuw, tegenwoordig een cultureel centrum met een hoge toren en een groot plein. Honden mogen de zalen niet in en niet de toren op, maar zijn welkom in de tuinen en op de centrale binnenplaats, en het café en restaurant ter plaatse laten honden toe op het binnenterras."
+          "descriptionNl": "Het grootste gebouw van Spanje, een gigantisch monumentaal gebouwencomplex uit de 20e eeuw, tegenwoordig een cultureel centrum met een hoge toren en een groot plein. Honden mogen de zalen niet in en niet de toren op, maar zijn welkom in de tuinen en op de centrale binnenplaats, en het café en restaurant ter plaatse laten honden toe op het binnenterras.",
+          "descriptionIt": "L'edificio piu grande della Spagna, un gigantesco complesso monumentale del Novecento, oggi centro culturale con una torre alta e una grande piazza. I cani non possono entrare nelle sale ne salire sulla torre, ma sono benvenuti nei giardini e nel cortile centrale, e il caffe e il ristorante sul posto fanno entrare i cani nella terrazza interna."
         },
         {
           "name": "Termas Romanas de Campo Valdés",
@@ -613,15 +670,19 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Termas+Romanas+Campo+Valdes+Gijon",
           "photo": "",
           "descriptionDe": "Römische Badruinen, erhalten unter einem Platz am Fuß von Cimavilla, neben der Uferkirche San Pedro. Das Innenmuseum lässt keine Hunde zu, aber der umliegende Platz, die angrenzende römische Mauer und die nahegelegene Promenade ergeben einen angenehmen Spaziergang an der Leine mit historischem Interesse.",
-          "descriptionNl": "Romeinse badruïnes, bewaard onder een plein aan de voet van Cimavilla, naast de kerk San Pedro aan de kade. Het binnenmuseum laat geen honden toe, maar het omliggende plein, de aangrenzende Romeinse muur en de nabijgelegen promenade vormen samen een aangename wandeling aan de lijn met historische interesse."
+          "descriptionNl": "Romeinse badruïnes, bewaard onder een plein aan de voet van Cimavilla, naast de kerk San Pedro aan de kade. Het binnenmuseum laat geen honden toe, maar het omliggende plein, de aangrenzende Romeinse muur en de nabijgelegen promenade vormen samen een aangename wandeling aan de lijn met historische interesse.",
+          "descriptionIt": "Rovine di terme romane, conservate sotto una piazza ai piedi di Cimavilla, accanto alla chiesa di San Pedro sul lungomare. Il museo al chiuso non ammette cani, ma la piazza intorno, l'adiacente muro romano e la vicina passeggiata insieme formano una piacevole camminata al guinzaglio con interesse storico."
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Gijón",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Gijón",
+      "titleIt": "Attrazioni pet friendly a Gijon",
       "introDe": "Gijóns beste Ziele für Haustierhalter liegen im Freien: das alte Fischerviertel, der Skulpturenpark auf den Klippen und das monumentale Gelände der Universidad Laboral. Innenräume wie das Aquarium und der Botanische Garten lassen keine Haustiere zu, planen Sie also eine Mischung aus Spaziergängen im Freien und kurzen Solo-Stopps. Halten Sie Ihren Hund an Denkmälern und belebten Plätzen angeleint.",
       "introNl": "De beste bestemmingen van Gijón voor huisdierbaasjes liggen in de open lucht: de oude vissersbuurt, het sculptuurpark op de kliffen en het monumentale terrein van de Universidad Laboral. Binnenruimtes zoals het aquarium en de botanische tuin laten geen huisdieren toe, plan dus een mix van buitenwandelingen en korte solobezoekjes. Houd jouw hond bij monumenten en drukke pleinen aangelijnd.",
+      "introIt": "Le migliori mete di Gijon per chi viaggia con animali sono all'aperto: il vecchio quartiere dei pescatori, il parco delle sculture sulle scogliere e l'area monumentale dell'Universidad Laboral. Spazi interni come l'acquario e il giardino botanico non ammettono animali, quindi pianifica un mix di passeggiate all'aperto e brevi visite in solitaria. Tieni il tuo cane al guinzaglio nei pressi di monumenti e piazze affollate.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Walking in Gijón",
@@ -675,10 +736,13 @@
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Gijón",
       "titleNl": "Huisdierenoppas & uitlaatservice in Gijón",
+      "titleIt": "Pet sitting e servizio passeggiate a Gijon",
       "introDe": "Wenn Sie eine Innenattraktion wie das Aquarium besuchen oder ein langes Abendessen genießen möchten, verbinden mehrere vertrauenswürdige Online-Plattformen Sie mit geprüften lokalen Betreuern und Gassi-Gehern in Gijón. Buchen Sie im Sommer frühzeitig, wenn die Nachfrage entlang der asturischen Küste ihren Höhepunkt erreicht, und teilen Sie dem Betreuer die Routine, die Tierarztdaten und die Mikrochipnummer Ihres Hundes mit.",
       "introNl": "Wil je een binnenattractie zoals het aquarium bezoeken of van een lang diner genieten, dan brengen meerdere betrouwbare online platformen je in contact met gecontroleerde lokale oppassers en uitlaters in Gijón. Boek in de zomer vroeg, wanneer de vraag langs de Asturische kust op zijn hoogtepunt is, en deel de routine, dierenartsgegevens en het chipnummer van jouw hond met de oppasser.",
+      "introIt": "Se vuoi visitare un'attrazione al chiuso come l'acquario o goderti una cena lunga, diverse piattaforme online affidabili ti mettono in contatto con pet sitter e dog walker locali verificati a Gijon. Prenota presto d'estate, quando la domanda lungo la costa asturiana e al massimo, e condividi con il pet sitter la routine, i dati del veterinario e il numero del microchip del tuo cane.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

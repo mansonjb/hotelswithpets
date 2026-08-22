@@ -12,12 +12,14 @@
       "titlePt": "Restaurantes pet-friendly em Honfleur",
       "titleDe": "Hundefreundliche Restaurants in Honfleur",
       "titleNl": "Hondvriendelijke restaurants in Honfleur",
+      "titleIt": "Ristoranti pet-friendly a Honfleur",
       "introEn": "Honfleur's Vieux Bassin is ringed with bistros, crêperies and cafés, and a leashed dog at your feet is a normal sight on the terraces here. From a classic bistro serving Norman cuisine to a crêperie a few steps from the harbour, these are places that routinely welcome dogs without fuss.",
       "introFr": "Le Vieux Bassin de Honfleur est bordé de bistrots, crêperies et cafés, et un chien en laisse à vos pieds fait partie du décor sur ces terrasses. D'un bistrot classique à cuisine normande à une crêperie à deux pas du port, ce sont des adresses qui accueillent régulièrement les chiens sans façon.",
       "introEs": "El Vieux Bassin de Honfleur está rodeado de bistrós, creperías y cafés, y un perro con correa a tus pies es algo habitual en estas terrazas. Desde un bistró clásico de cocina normanda hasta una crepería a pocos pasos del puerto, son lugares que acogen a los perros con normalidad.",
       "introPt": "O Vieux Bassin de Honfleur está rodeado de bistrôs, creperias e cafés, e um cão com trela aos seus pés é algo normal nestas esplanadas. De um bistrô clássico de cozinha normanda a uma creperia a poucos passos do porto, são locais que recebem cães com naturalidade.",
       "introDe": "Das Vieux Bassin von Honfleur ist von Bistros, Crêperien und Cafés gesäumt, und ein Hund an der Leine zu Ihren Füßen gehört auf diesen Terrassen zum Alltag. Von einem klassischen Bistro mit normannischer Küche bis zu einer Crêperie wenige Schritte vom Hafen entfernt, heißen diese Adressen Hunde ganz selbstverständlich willkommen.",
       "introNl": "Het Vieux Bassin van Honfleur staat vol bistro's, crêperies en cafés, en een hond aan de lijn aan je voeten is heel normaal op deze terrassen. Van een klassieke bistro met Normandische keuken tot een crêperie op een steenworp van de haven: dit zijn plekken waar honden gewoon welkom zijn.",
+      "introIt": "Il Vieux Bassin di Honfleur è pieno di bistrot, crêperie e caffè, e un cane al guinzaglio ai tuoi piedi è del tutto normale su queste terrazze. Da un bistrot classico con cucina normanna a una crêperie a un passo dal porto: questi sono posti dove i cani sono semplicemente benvenuti.",
       "tipsEn": [
         "Ask if a water bowl is available, most terraces provide one on request.",
         "Book ahead in July–August, dog-friendly terraces fill first."
@@ -42,6 +44,10 @@
         "Vraag of er een waterbakje beschikbaar is, de meeste terrassen bieden er een op verzoek.",
         "Reserveer vooraf in juli-augustus, hondvriendelijke terrassen zitten het eerst vol."
       ],
+      "tipsIt": [
+        "Chiedi se è disponibile una ciotola d'acqua, la maggior parte delle terrazze ne offre una su richiesta.",
+        "Prenota in anticipo a luglio-agosto, le terrazze pet-friendly si riempiono per prime."
+      ],
       "places": [
         {
           "name": "Bistrot la Grenouille",
@@ -56,24 +62,28 @@
           "mustTryPt": "Clássicos de bistrô normando, mexilhões, sidra local",
           "mustTryDe": "Normannische Bistro-Klassiker, Moules, lokaler Cidre",
           "mustTryNl": "Normandische bistroklassiekers, mosselen, lokale cider",
+          "mustTryIt": "Classici bistrot normanni, cozze, sidro locale",
           "descriptionEn": "A well-known bistro in Honfleur serving traditional Norman dishes, popular with dog owners for its relaxed, no-fuss welcome. Staff bring out water bowls without being asked, and a corner table keeps things comfortable if the dining room fills up.",
           "descriptionFr": "Un bistrot bien connu à Honfleur servant des plats normands traditionnels, apprécié des propriétaires de chiens pour son accueil détendu et sans chichi. Le personnel apporte des gamelles d'eau sans qu'on les demande, et une table d'angle garde les choses confortables quand la salle se remplit.",
           "descriptionEs": "Un bistró conocido en Honfleur que sirve platos normandos tradicionales, popular entre los dueños de perros por su acogida relajada y sin complicaciones. El personal saca cuencos de agua sin que se lo pidan, y una mesa de esquina mantiene la comodidad cuando la sala se llena.",
           "descriptionPt": "Um bistrô conhecido em Honfleur que serve pratos normandos tradicionais, popular entre donos de cães pela sua receção descontraída e sem complicações. A equipa traz tigelas de água sem que se peça, e uma mesa de canto mantém tudo confortável quando a sala enche.",
           "descriptionDe": "Ein bekanntes Bistro in Honfleur mit traditionellen normannischen Gerichten, bei Hundehaltern beliebt für seinen entspannten, unkomplizierten Empfang. Das Personal bringt ungefragt Wassernäpfe, und ein Ecktisch sorgt für Ruhe, wenn der Raum voll wird.",
           "descriptionNl": "Een bekende bistro in Honfleur met traditionele Normandische gerechten, populair bij hondenbezitters vanwege het ontspannen, nuchtere onthaal. Het personeel zet ongevraagd waterbakjes neer, en een hoektafel houdt het comfortabel als het druk wordt.",
+          "descriptionIt": "Un bistrot conosciuto a Honfleur con piatti tradizionali normanni, amato dai padroni di cani per l'accoglienza rilassata e senza fronzoli. Lo staff porta le ciotole d'acqua senza chiederlo, e un tavolo d'angolo mantiene tutto comodo quando c'è affollamento.",
           "petPolicyEn": "Dogs welcome (up to one dog per table, all sizes except banned/categorized breeds); no pet supplement charged.",
           "petPolicyFr": "Chiens acceptés (un chien par table maximum, toutes tailles sauf races catégorisées/interdites) ; aucun supplément facturé.",
           "petPolicyEs": "Perros admitidos (máximo un perro por mesa, todos los tamaños salvo razas catalogadas/prohibidas); sin suplemento por mascota.",
           "petPolicyPt": "Cães bem-vindos (máximo um cão por mesa, todos os tamanhos exceto raças categorizadas/proibidas); sem suplemento para animais.",
           "petPolicyDe": "Hunde willkommen (maximal ein Hund pro Tisch, alle Größen außer gelisteten/verbotenen Rassen); kein Aufpreis für Hunde.",
           "petPolicyNl": "Honden welkom (maximaal één hond per tafel, alle formaten behalve gelijste/verboden rassen); geen toeslag voor honden.",
+          "petPolicyIt": "Cani benvenuti (massimo un cane per tavolo, tutte le taglie tranne razze elencate/vietate); nessun supplemento per i cani.",
           "tip": "Ask for a corner table to keep your dog out of the servers' path during busy service.",
           "tipFr": "Demandez une table d'angle pour garder votre chien à l'écart du passage des serveurs aux heures d'affluence.",
           "tipEs": "Pide una mesa de esquina para mantener a tu perro fuera del paso de los camareros en las horas de más ajetreo.",
           "tipPt": "Peça uma mesa de canto para manter o seu cão fora do caminho dos empregados nas horas de maior movimento.",
           "tipDe": "Bitten Sie zu Stoßzeiten um einen Ecktisch, damit Ihr Hund nicht im Weg des Servicepersonals liegt.",
-          "tipNl": "Vraag om een hoektafel zodat je hond niet in de weg ligt van het bedienend personeel tijdens drukke uren."
+          "tipNl": "Vraag om een hoektafel zodat je hond niet in de weg ligt van het bedienend personeel tijdens drukke uren.",
+          "tipIt": "Chiedi un tavolo d'angolo così il tuo cane non intralcia il personale di servizio nelle ore di punta."
         },
         {
           "name": "Tourbillon",
@@ -88,24 +98,28 @@
           "mustTryPt": "Cozinha normanda, jantar junto à lareira nos meses mais frescos",
           "mustTryDe": "Normannische Küche, Essen am Kamin in der kühleren Jahreszeit",
           "mustTryNl": "Normandische keuken, dineren bij de open haard in het koelere seizoen",
+          "mustTryIt": "Cucina normanna, cena vicino al camino nella stagione più fresca",
           "descriptionEn": "An elegant restaurant near the harbour with a cosy fireplace dining room, welcoming to dogs under 30 kg. A reviewer's husky was seated comfortably without disturbing other diners, a sign of how relaxed the welcome is here.",
           "descriptionFr": "Un restaurant élégant près du port avec une salle chaleureuse dotée d'une cheminée, accueillant les chiens de moins de 30 kg. Le husky d'un client y a été installé confortablement sans déranger les autres convives, signe du calme de l'accueil.",
           "descriptionEs": "Un restaurante elegante cerca del puerto con una acogedora sala con chimenea, que admite perros de menos de 30 kg. El husky de un cliente fue acomodado sin molestar a otros comensales, señal de lo relajado que es el trato aquí.",
           "descriptionPt": "Um restaurante elegante perto do porto com uma sala acolhedora com lareira, que aceita cães com menos de 30 kg. O husky de um cliente foi instalado confortavelmente sem incomodar outros clientes, sinal de como é tranquilo o acolhimento aqui.",
           "descriptionDe": "Ein elegantes Restaurant nahe dem Hafen mit gemütlichem Kaminzimmer, das Hunde bis 30 kg willkommen heißt. Der Husky eines Gastes wurde bequem platziert, ohne andere Gäste zu stören, ein Zeichen für den entspannten Empfang hier.",
           "descriptionNl": "Een elegant restaurant bij de haven met een gezellige kamer met open haard, waar honden tot 30 kg welkom zijn. De husky van een gast zat er comfortabel zonder andere gasten te storen, een teken van hoe ontspannen het onthaal hier is.",
+          "descriptionIt": "Un ristorante elegante vicino al porto con una sala accogliente e un camino, dove i cani fino a 30 kg sono benvenuti. L'husky di un ospite se ne stava comodo senza disturbare gli altri clienti, segno di quanto sia rilassata l'accoglienza qui.",
           "petPolicyEn": "Dogs under 30 kg welcome (maximum one per table), no banned breeds, no pet supplement.",
           "petPolicyFr": "Chiens de moins de 30 kg acceptés (un par table maximum), pas de races interdites, aucun supplément.",
           "petPolicyEs": "Perros de menos de 30 kg admitidos (máximo uno por mesa), sin razas prohibidas, sin suplemento.",
           "petPolicyPt": "Cães com menos de 30 kg bem-vindos (máximo um por mesa), sem raças proibidas, sem suplemento.",
           "petPolicyDe": "Hunde bis 30 kg willkommen (maximal einer pro Tisch), keine gelisteten Rassen, kein Aufpreis.",
           "petPolicyNl": "Honden tot 30 kg welkom (maximaal één per tafel), geen gelijste rassen, geen toeslag.",
+          "petPolicyIt": "Cani fino a 30 kg benvenuti (massimo uno per tavolo), nessuna razza elencata, nessun supplemento.",
           "tip": "Good choice for cooler months thanks to the fireplace; call ahead in high season to check terrace availability.",
           "tipFr": "Bon choix en saison fraîche grâce à la cheminée ; appelez à l'avance en haute saison pour vérifier la disponibilité en terrasse.",
           "tipEs": "Buena opción en temporada fría gracias a la chimenea; llama con antelación en temporada alta para confirmar disponibilidad de terraza.",
           "tipPt": "Boa opção nos meses mais frescos graças à lareira; ligue com antecedência na época alta para confirmar a esplanada.",
           "tipDe": "Gute Wahl in der kühleren Jahreszeit dank Kamin; in der Hochsaison vorher anrufen, um die Terrassenverfügbarkeit zu prüfen.",
-          "tipNl": "Goede keuze in het koelere seizoen dankzij de open haard; bel in het hoogseizoen vooraf om de terrasbeschikbaarheid te checken."
+          "tipNl": "Goede keuze in het koelere seizoen dankzij de open haard; bel in het hoogseizoen vooraf om de terrasbeschikbaarheid te checken.",
+          "tipIt": "Ottima scelta nella stagione fresca grazie al camino; chiama in anticipo in alta stagione per verificare la disponibilità della terrazza."
         },
         {
           "name": "Le Bistro à Crêpes",
@@ -121,24 +135,28 @@
           "mustTryPt": "Galettes, crepes, sidra da Normandia",
           "mustTryDe": "Galettes, Crêpes, normannischer Cidre",
           "mustTryNl": "Galettes, crêpes, Normandische cider",
+          "mustTryIt": "Galette, crêpe, sidro normanno",
           "descriptionEn": "A relaxed crêperie near the old harbour with a terrace that accepts animals, subject to available space. A simple, budget-friendly stop for galettes and cider between walks around the Vieux Bassin.",
           "descriptionFr": "Une crêperie décontractée près du vieux port avec une terrasse qui accueille les animaux, selon la place disponible. Une halte simple et abordable pour des galettes et du cidre entre deux balades autour du Vieux Bassin.",
           "descriptionEs": "Una crepería relajada cerca del viejo puerto con una terraza que acepta animales, según el espacio disponible. Una parada sencilla y económica para galettes y sidra entre paseos alrededor del Vieux Bassin.",
           "descriptionPt": "Uma creperia descontraída perto do porto antigo com uma esplanada que aceita animais, consoante o espaço disponível. Uma paragem simples e económica para galettes e sidra entre passeios pelo Vieux Bassin.",
           "descriptionDe": "Eine entspannte Crêperie nahe dem alten Hafen mit einer Terrasse, die Tiere je nach verfügbarem Platz akzeptiert. Ein einfacher, preiswerter Halt für Galettes und Cidre zwischen Spaziergängen um das Vieux Bassin.",
           "descriptionNl": "Een ontspannen crêperie bij de oude haven met een terras dat dieren toelaat, afhankelijk van de beschikbare ruimte. Een eenvoudige, betaalbare stop voor galettes en cider tussen wandelingen rond het Vieux Bassin door.",
+          "descriptionIt": "Una crêperie rilassata vicino al vecchio porto con una terrazza che ammette animali, a seconda dello spazio disponibile. Una sosta semplice ed economica per galette e sidro tra una passeggiata e l'altra intorno al Vieux Bassin.",
           "petPolicyEn": "Animals accepted, especially on the terrace, depending on available space.",
           "petPolicyFr": "Animaux acceptés, surtout en terrasse, selon la place disponible.",
           "petPolicyEs": "Animales admitidos, especialmente en la terraza, según el espacio disponible.",
           "petPolicyPt": "Animais aceites, especialmente na esplanada, consoante o espaço disponível.",
           "petPolicyDe": "Tiere willkommen, besonders auf der Terrasse, je nach verfügbarem Platz.",
           "petPolicyNl": "Dieren welkom, vooral op het terras, afhankelijk van de beschikbare ruimte.",
+          "petPolicyIt": "Animali benvenuti, soprattutto in terrazza, a seconda dello spazio disponibile.",
           "tip": "Terrace seating fills fast in summer, arrive early or ask about a quieter table for your dog.",
           "tipFr": "Les places en terrasse partent vite l'été, arrivez tôt ou demandez une table plus tranquille pour votre chien.",
           "tipEs": "Las mesas de la terraza se llenan rápido en verano, llega temprano o pide una mesa más tranquila para tu perro.",
           "tipPt": "As mesas de esplanada enchem depressa no verão, chegue cedo ou peça uma mesa mais tranquila para o seu cão.",
           "tipDe": "Terrassenplätze sind im Sommer schnell voll, kommen Sie früh oder fragen Sie nach einem ruhigeren Tisch für Ihren Hund.",
-          "tipNl": "Terrasplekken zijn 's zomers snel vol, kom vroeg of vraag om een rustiger tafel voor je hond."
+          "tipNl": "Terrasplekken zijn 's zomers snel vol, kom vroeg of vraag om een rustiger tafel voor je hond.",
+          "tipIt": "I posti in terrazza si riempiono in fretta d'estate, vieni presto o chiedi un tavolo più tranquillo per il tuo cane."
         }
       ],
       "faqsEn": [
@@ -224,6 +242,20 @@
           "q": "Mogen grote honden mee naar restaurants in Honfleur?",
           "a": "Dat hangt van de plek af. Tourbillon accepteert honden tot 30 kg, terwijl andere zoals Bistrot la Grenouille alle formaten accepteren behalve gelijste of verboden rassen."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani sono ammessi nelle terrazze dei ristoranti intorno al Vieux Bassin?",
+          "a": "Sì, la maggior parte delle terrazze intorno al vecchio porto di Honfleur accoglie un cane tranquillo al guinzaglio. Chiedi comunque conferma al personale all'arrivo."
+        },
+        {
+          "q": "I ristoranti di Honfleur applicano un supplemento per i cani?",
+          "a": "No, i ristoranti pet-friendly che abbiamo verificato a Honfleur non applicano supplementi per i cani."
+        },
+        {
+          "q": "I cani grandi possono entrare nei ristoranti di Honfleur?",
+          "a": "Dipende dal posto. Tourbillon accetta cani fino a 30 kg, mentre altri come Bistrot la Grenouille accettano tutte le taglie tranne le razze elencate o vietate."
+        }
       ]
     },
     "parks": {
@@ -233,12 +265,14 @@
       "titlePt": "Parques e passeios para cães em Honfleur",
       "titleDe": "Hundefreundliche Parks & Spaziergänge in Honfleur",
       "titleNl": "Hondvriendelijke parken en wandelingen in Honfleur",
+      "titleIt": "Parchi e passeggiate pet-friendly a Honfleur",
       "introEn": "Honfleur is a small, walkable town, and its best dog walks combine a shaded public garden with the hillside views above the harbour. The Jardin des Personnalités gives a calm, leashed stroll among themed gardens, while the climb to the Côte de Grâce chapel rewards you with one of Normandy's best views over the Seine estuary.",
       "introFr": "Honfleur est une petite ville facile à parcourir à pied, et ses meilleures promenades canines combinent un jardin public ombragé avec les vues depuis la colline au-dessus du port. Le Jardin des Personnalités offre une balade calme en laisse parmi des jardins à thème, tandis que la montée vers la chapelle de la Côte de Grâce récompense d'une des plus belles vues de Normandie sur l'estuaire de la Seine.",
       "introEs": "Honfleur es una ciudad pequeña y fácil de recorrer a pie, y sus mejores paseos caninos combinan un jardín público con sombra y las vistas desde la colina sobre el puerto. El Jardin des Personnalités ofrece un paseo tranquilo con correa entre jardines temáticos, mientras que la subida a la capilla de la Côte de Grâce recompensa con una de las mejores vistas de Normandía sobre el estuario del Sena.",
       "introPt": "Honfleur é uma vila pequena e fácil de percorrer a pé, e os seus melhores passeios de cão combinam um jardim público sombreado com as vistas da colina acima do porto. O Jardin des Personnalités oferece um passeio calmo com trela entre jardins temáticos, enquanto a subida à capela da Côte de Grâce recompensa com uma das melhores vistas da Normandia sobre o estuário do Sena.",
       "introDe": "Honfleur ist eine kleine, gut zu Fuß erreichbare Stadt, und die besten Hundespaziergänge verbinden einen schattigen öffentlichen Garten mit den Ausblicken vom Hügel über dem Hafen. Der Jardin des Personnalités bietet einen ruhigen Spaziergang an der Leine durch thematische Gärten, während der Aufstieg zur Kapelle Côte de Grâce mit einem der schönsten Ausblicke der Normandie über die Seine-Mündung belohnt wird.",
       "introNl": "Honfleur is een kleine, goed te voet te verkennen stad, en de mooiste hondenwandelingen combineren een schaduwrijke openbare tuin met het uitzicht vanaf de heuvel boven de haven. De Jardin des Personnalités biedt een rustige wandeling aan de lijn tussen thematuinen, terwijl de klim naar de kapel van de Côte de Grâce wordt beloond met een van de mooiste uitzichten van Normandië over de Seine-monding.",
+      "introIt": "Honfleur è una città piccola, facile da visitare a piedi, e le passeggiate per cani più belle combinano un giardino pubblico ombreggiato con la vista dalla collina sopra il porto. Il Jardin des Personnalités offre una passeggiata tranquilla al guinzaglio tra giardini a tema, mentre la salita alla cappella della Côte de Grâce viene ricompensata con una delle viste più belle della Normandia sull'estuario della Senna.",
       "tipsEn": [
         "The Jardin des Personnalités is flat and easy going, a good choice for older dogs or hot afternoons in the shade.",
         "Combine both walks: start in the shaded garden, then climb to Côte de Grâce for the view before the midday heat."
@@ -263,6 +297,10 @@
         "De Jardin des Personnalités is vlak en makkelijk begaanbaar, een goede keuze voor oudere honden of hete middagen in de schaduw.",
         "Combineer beide wandelingen: begin in de schaduwrijke tuin en klim daarna naar de Côte de Grâce voor het uitzicht voordat de middaghitte toeslaat."
       ],
+      "tipsIt": [
+        "Il Jardin des Personnalités è pianeggiante e facile da percorrere, una buona scelta per cani anziani o pomeriggi caldi all'ombra.",
+        "Combina entrambe le passeggiate: inizia nel giardino ombreggiato e poi sali alla Côte de Grâce per la vista prima che arrivi il caldo di mezzogiorno."
+      ],
       "places": [
         {
           "name": "Jardin des Personnalités",
@@ -276,12 +314,14 @@
           "bestTimeToVisitPt": "De manhã, antes de a multidão chegar ao centro",
           "bestTimeToVisitDe": "Morgens, bevor die Besuchermassen das Stadtzentrum erreichen",
           "bestTimeToVisitNl": "'s Ochtends, voordat de drukte het centrum bereikt",
+          "bestTimeToVisitIt": "Al mattino, prima che la folla raggiunga il centro",
           "leashRules": "Dogs on leash required; owners must clean up after their dog (waste bags provided at the entrance).",
           "leashRulesFr": "Chiens tenus en laisse obligatoire ; les propriétaires doivent ramasser les déjections (sacs disponibles à l'entrée).",
           "leashRulesEs": "Perros con correa obligatoria; los propietarios deben recoger los excrementos (bolsas disponibles en la entrada).",
           "leashRulesPt": "Cães com trela obrigatória; os donos devem recolher os dejetos (sacos disponíveis à entrada).",
           "leashRulesDe": "Leinenpflicht für Hunde; Besitzer müssen den Kot entfernen (Beutel am Eingang erhältlich).",
           "leashRulesNl": "Aanlijnplicht voor honden; eigenaars moeten uitwerpselen opruimen (zakjes verkrijgbaar bij de ingang).",
+          "leashRulesIt": "Obbligo di guinzaglio per i cani; i proprietari devono raccogliere i bisogni (sacchetti disponibili all'ingresso).",
           "features": [
             "Free public garden",
             "Boat-shaped themed mini-gardens honouring Monet, Baudelaire and other local figures",
@@ -318,12 +358,19 @@
             "Schaduwrijke paden",
             "Poepzakjesautomaten bij de ingang"
           ],
+          "featuresIt": [
+            "Giardino pubblico gratuito",
+            "Piccoli giardini a tema a forma di barca dedicati a Monet, Baudelaire e altre figure locali",
+            "Sentieri ombreggiati",
+            "Distributori di sacchetti per cani all'ingresso"
+          ],
           "descriptionEn": "A free 10-hectare public garden on the edge of Honfleur, laid out as a series of boat-shaped mini-gardens honouring artists and figures linked to the town, including Claude Monet and Charles Baudelaire. Dogs are welcome on a leash, and waste bags are provided at the entrance.",
           "descriptionFr": "Un jardin public gratuit de 10 hectares en bordure de Honfleur, aménagé en une série de mini-jardins en forme de bateaux rendant hommage aux artistes et personnalités liés à la ville, dont Claude Monet et Charles Baudelaire. Les chiens sont acceptés en laisse, et des sacs à déjections sont disponibles à l'entrée.",
           "descriptionEs": "Un jardín público gratuito de 10 hectáreas a las afueras de Honfleur, trazado como una serie de minijardines en forma de barco que rinden homenaje a artistas y personalidades ligadas a la ciudad, incluidos Claude Monet y Charles Baudelaire. Los perros son bienvenidos con correa, y hay bolsas para excrementos en la entrada.",
           "descriptionPt": "Um jardim público gratuito de 10 hectares na periferia de Honfleur, organizado como uma série de minijardins em forma de barco que homenageiam artistas e figuras ligadas à vila, incluindo Claude Monet e Charles Baudelaire. Os cães são bem-vindos com trela, e há sacos para dejetos à entrada.",
           "descriptionDe": "Ein kostenloser 10 Hektar großer öffentlicher Garten am Rande von Honfleur, angelegt als eine Reihe bootsförmiger Themengärten zu Ehren von Künstlern und Persönlichkeiten der Stadt, darunter Claude Monet und Charles Baudelaire. Hunde sind an der Leine willkommen, am Eingang stehen Kotbeutel bereit.",
-          "descriptionNl": "Een gratis openbare tuin van 10 hectare aan de rand van Honfleur, aangelegd als een reeks bootvormige themetuintjes ter ere van kunstenaars en figuren die met de stad verbonden zijn, waaronder Claude Monet en Charles Baudelaire. Honden zijn welkom aan de lijn, en bij de ingang liggen poepzakjes klaar."
+          "descriptionNl": "Een gratis openbare tuin van 10 hectare aan de rand van Honfleur, aangelegd als een reeks bootvormige themetuintjes ter ere van kunstenaars en figuren die met de stad verbonden zijn, waaronder Claude Monet en Charles Baudelaire. Honden zijn welkom aan de lijn, en bij de ingang liggen poepzakjes klaar.",
+          "descriptionIt": "Un giardino pubblico gratuito di 10 ettari ai margini di Honfleur, disegnato come una serie di piccoli giardini a tema a forma di barca in onore di artisti e figure legate alla città, tra cui Claude Monet e Charles Baudelaire. I cani sono benvenuti al guinzaglio, e all'ingresso ci sono sacchetti pronti."
         },
         {
           "name": "Côte de Grâce / Mont-Joli walk",
@@ -337,12 +384,14 @@
           "bestTimeToVisitPt": "De manhã cedo para evitar as multidões dos autocarros turísticos",
           "bestTimeToVisitDe": "Früher Morgen, um den Reisebus-Andrang zu vermeiden",
           "bestTimeToVisitNl": "Vroege ochtend om de drukte van touringcars te vermijden",
+          "bestTimeToVisitIt": "Primo mattino per evitare la folla dei pullman turistici",
           "leashRules": "No formal off-leash ban documented, but a leash is strongly recommended on the cliff-edge paths and around other visitors.",
           "leashRulesFr": "Aucune interdiction de laisse documentée, mais la laisse est fortement recommandée sur les sentiers en bord de falaise et parmi les autres visiteurs.",
           "leashRulesEs": "No hay ninguna prohibición de ir sin correa documentada, pero se recomienda encarecidamente llevarla en los senderos al borde del acantilado y entre otros visitantes.",
           "leashRulesPt": "Não há proibição documentada de andar sem trela, mas é fortemente recomendada nos trilhos à beira do penhasco e junto de outros visitantes.",
           "leashRulesDe": "Kein dokumentiertes Leinenverbot, eine Leine wird aber auf den Klippenpfaden und unter anderen Besuchern dringend empfohlen.",
           "leashRulesNl": "Geen gedocumenteerd aanlijnverbod, maar een lijn wordt sterk aangeraden op de paden langs de klifrand en tussen andere bezoekers.",
+          "leashRulesIt": "Nessun obbligo di guinzaglio documentato, ma è fortemente consigliato sui sentieri lungo il bordo della scogliera e tra gli altri visitatori.",
           "features": [
             "Panoramic viewpoint over the Seine estuary and Pont de Normandie",
             "17th-century Notre-Dame-de-Grâce chapel",
@@ -379,12 +428,19 @@
             "Boomrijke promenade",
             "Verbinding met uitzichtpunt Mont-Joli"
           ],
+          "featuresIt": [
+            "Vista panoramica sull'estuario della Senna e sul Pont de Normandie",
+            "Cappella Notre-Dame-de-Grâce del XVII secolo",
+            "Passeggiata alberata",
+            "Collegamento con il belvedere di Mont-Joli"
+          ],
           "descriptionEn": "A wooded promenade on the hill above Honfleur, leading to the 17th-century Notre-Dame-de-Grâce chapel and on to the Mont-Joli viewpoint. There's no big-town off-leash ban documented here, but the cliff-edge paths and heavy visitor traffic make a leash a sensible choice.",
           "descriptionFr": "Une promenade boisée sur la colline au-dessus de Honfleur, menant à la chapelle Notre-Dame-de-Grâce du XVIIe siècle puis au point de vue de Mont-Joli. Aucune interdiction de laisse n'est documentée ici, mais les sentiers en bord de falaise et l'affluence de visiteurs rendent la laisse plus prudente.",
           "descriptionEs": "Un paseo arbolado en la colina sobre Honfleur, que lleva a la capilla de Notre-Dame-de-Grâce del siglo XVII y luego al mirador de Mont-Joli. No hay ninguna norma documentada sobre ir sin correa aquí, pero los senderos al borde del acantilado y la afluencia de visitantes hacen que la correa sea lo más prudente.",
           "descriptionPt": "Um passeio arborizado na colina acima de Honfleur, que leva à capela de Notre-Dame-de-Grâce do século XVII e depois ao miradouro de Mont-Joli. Não há nenhuma proibição documentada de andar sem trela aqui, mas os trilhos à beira do penhasco e a afluência de visitantes tornam a trela a opção mais sensata.",
           "descriptionDe": "Ein bewaldeter Spazierweg auf dem Hügel über Honfleur, der zur Kapelle Notre-Dame-de-Grâce aus dem 17. Jahrhundert und weiter zum Aussichtspunkt Mont-Joli führt. Ein generelles Leinenverbot ist hier nicht dokumentiert, doch die Wege am Klippenrand und der starke Besucherverkehr machen eine Leine ratsam.",
-          "descriptionNl": "Een beboste wandeling op de heuvel boven Honfleur, die leidt naar de 17e-eeuwse kapel Notre-Dame-de-Grâce en verder naar het uitzichtpunt Mont-Joli. Er is hier geen aanlijnverbod gedocumenteerd, maar de paden langs de klifrand en de drukte van bezoekers maken een lijn verstandig."
+          "descriptionNl": "Een beboste wandeling op de heuvel boven Honfleur, die leidt naar de 17e-eeuwse kapel Notre-Dame-de-Grâce en verder naar het uitzichtpunt Mont-Joli. Er is hier geen aanlijnverbod gedocumenteerd, maar de paden langs de klifrand en de drukte van bezoekers maken een lijn verstandig.",
+          "descriptionIt": "Una passeggiata boschiva sulla collina sopra Honfleur, che porta alla cappella Notre-Dame-de-Grâce del XVII secolo e prosegue fino al belvedere di Mont-Joli. Non c'è un obbligo di guinzaglio documentato qui, ma i sentieri lungo il bordo della scogliera e l'affluenza di visitatori rendono il guinzaglio una scelta prudente."
         }
       ],
       "faqsEn": [
@@ -446,6 +502,16 @@
           "q": "Is een bezoek aan de Jardin des Personnalités gratis?",
           "a": "Ja, het is een gratis openbare tuin die voor iedereen open is, ook honden aan de lijn."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani devono stare al guinzaglio nei parchi di Honfleur?",
+          "a": "Sì. Nel Jardin des Personnalités il guinzaglio è obbligatorio, e anche sui sentieri della Côte de Grâce è consigliato."
+        },
+        {
+          "q": "La visita al Jardin des Personnalités è gratuita?",
+          "a": "Sì, è un giardino pubblico gratuito aperto a tutti, compresi i cani al guinzaglio."
+        }
       ]
     },
     "transport": {
@@ -455,12 +521,14 @@
       "titlePt": "Deslocar-se em Honfleur com um cão",
       "titleDe": "Mit Hund unterwegs in Honfleur",
       "titleNl": "Met een hond door Honfleur reizen",
+      "titleIt": "Viaggiare con il cane a Honfleur",
       "introEn": "Honfleur has no train station of its own; the nearest is Deauville-Trouville, connected onward by regional bus. Getting here and around with a dog means combining SNCF trains, the Nomad Car regional bus network, and, for international arrivals, Deauville-Normandie airport.",
       "introFr": "Honfleur n'a pas de gare propre ; la plus proche est Deauville-Trouville, reliée ensuite par bus régional. Se déplacer ici et autour avec un chien implique de combiner les trains SNCF, le réseau de bus régional Nomad Car, et, pour les arrivées internationales, l'aéroport Deauville-Normandie.",
       "introEs": "Honfleur no tiene estación de tren propia; la más cercana es Deauville-Trouville, conectada después por autobús regional. Llegar y moverse aquí con un perro implica combinar trenes SNCF, la red de autobuses regionales Nomad Car y, para llegadas internacionales, el aeropuerto de Deauville-Normandie.",
       "introPt": "Honfleur não tem estação de comboio própria; a mais próxima é Deauville-Trouville, ligada depois por autocarro regional. Chegar e deslocar-se aqui com um cão implica combinar comboios da SNCF, a rede de autocarros regionais Nomad Car e, para chegadas internacionais, o aeroporto de Deauville-Normandie.",
       "introDe": "Honfleur hat keinen eigenen Bahnhof; der nächste ist Deauville-Trouville, von dort geht es per Regionalbus weiter. Die An- und Weiterreise mit Hund bedeutet, SNCF-Züge, das regionale Busnetz Nomad Car und für internationale Ankünfte den Flughafen Deauville-Normandie zu kombinieren.",
       "introNl": "Honfleur heeft geen eigen treinstation; het dichtstbijzijnde is Deauville-Trouville, van waaruit je verder gaat met de streekbus. Hier en in de omgeving reizen met een hond betekent het combineren van SNCF-treinen, het regionale busnetwerk Nomad Car en, voor internationale aankomsten, luchthaven Deauville-Normandie.",
+      "introIt": "Honfleur non ha una propria stazione ferroviaria; la più vicina è Deauville-Trouville, da cui si prosegue con l'autobus regionale. Qui e nei dintorni, viaggiare con un cane significa combinare i treni SNCF, la rete di autobus regionale Nomad Car e, per gli arrivi internazionali, l'aeroporto Deauville-Normandie.",
       "tipsEn": [
         "Book your dog's train ticket at the same time as your own on SNCF Connect, it can't be added later at the counter for TGV.",
         "Since Honfleur has no station, budget an extra 20-30 minutes to connect by bus or taxi from Deauville-Trouville."
@@ -485,6 +553,10 @@
         "Boek het treinticket van je hond tegelijk met dat van jezelf via SNCF Connect, het kan voor de TGV niet later aan het loket worden toegevoegd.",
         "Omdat Honfleur geen station heeft, reken 20-30 minuten extra voor de aansluiting per bus of taxi vanaf Deauville-Trouville."
       ],
+      "tipsIt": [
+        "Prenota il biglietto del tuo cane insieme al tuo tramite SNCF Connect, per il TGV non può essere aggiunto in un secondo momento alla biglietteria.",
+        "Dato che Honfleur non ha una stazione, calcola 20-30 minuti in più per la coincidenza in autobus o taxi da Deauville-Trouville."
+      ],
       "modes": [
         {
           "mode": "SNCF Train (to Deauville-Trouville station)",
@@ -493,18 +565,21 @@
           "modePt": "Comboio SNCF (até à estação de Deauville-Trouville)",
           "modeDe": "SNCF-Zug (bis Bahnhof Deauville-Trouville)",
           "modeNl": "SNCF-trein (tot station Deauville-Trouville)",
+          "modeIt": "Treno SNCF (fino alla stazione di Deauville-Trouville)",
           "policyEn": "Dogs under 6 kg travel in a closed carrier (max 45x30x25 cm) for a flat fee of about €7. Dogs over 6 kg travel on a short leash and must wear a muzzle, with a flat fee of around €50 on TGV Inoui; book the dog's ticket alongside your own on SNCF Connect. Honfleur has no station of its own, continue from Deauville-Trouville by bus or taxi.",
           "policyFr": "Les chiens de moins de 6 kg voyagent dans une caisse fermée (max. 45x30x25 cm) pour un forfait d'environ 7 €. Les chiens de plus de 6 kg voyagent en laisse courte et doivent porter une muselière, avec un forfait d'environ 50 € en TGV Inoui ; réservez le billet du chien en même temps que le vôtre sur SNCF Connect. Honfleur n'a pas de gare propre, poursuivez depuis Deauville-Trouville en bus ou en taxi.",
           "policyEs": "Los perros de menos de 6 kg viajan en un transportín cerrado (máx. 45x30x25 cm) por una tarifa fija de unos 7 €. Los perros de más de 6 kg viajan con correa corta y deben llevar bozal, con una tarifa fija de unos 50 € en TGV Inoui; reserva el billete del perro junto con el tuyo en SNCF Connect. Honfleur no tiene estación propia, continúa desde Deauville-Trouville en autobús o taxi.",
           "policyPt": "Os cães com menos de 6 kg viajam numa transportadora fechada (máx. 45x30x25 cm) por uma tarifa fixa de cerca de 7 €. Os cães com mais de 6 kg viajam com trela curta e devem usar açaime, com uma tarifa fixa de cerca de 50 € no TGV Inoui; reserve o bilhete do cão junto com o seu na SNCF Connect. Honfleur não tem estação própria, continue a partir de Deauville-Trouville de autocarro ou táxi.",
           "policyDe": "Hunde unter 6 kg reisen in einer geschlossenen Transportbox (max. 45x30x25 cm) für eine Pauschale von etwa 7 €. Hunde über 6 kg reisen an kurzer Leine und müssen einen Maulkorb tragen, mit einer Pauschale von etwa 50 € im TGV Inoui; buchen Sie das Hundeticket zusammen mit Ihrem eigenen bei SNCF Connect. Honfleur hat keinen eigenen Bahnhof, von Deauville-Trouville geht es per Bus oder Taxi weiter.",
           "policyNl": "Honden onder 6 kg reizen in een gesloten mand (max. 45x30x25 cm) voor een vaste prijs van ongeveer €7. Honden boven 6 kg reizen aan een korte lijn en moeten een muilkorf dragen, met een vaste prijs van ongeveer €50 op de TGV Inoui; boek het hondenticket samen met het jouwe via SNCF Connect. Honfleur heeft geen eigen station, ga vanaf Deauville-Trouville verder met de bus of taxi.",
+          "policyIt": "I cani sotto i 6 kg viaggiano in un trasportino chiuso (max 45x30x25 cm) a un prezzo fisso di circa 7 €. I cani sopra i 6 kg viaggiano al guinzaglio corto e devono indossare la museruola, con un prezzo fisso di circa 50 € sul TGV Inoui; prenota il biglietto del cane insieme al tuo tramite SNCF Connect. Honfleur non ha una propria stazione, prosegui da Deauville-Trouville con autobus o taxi.",
           "cost": "About €7 (small dog in carrier) or around €50 (larger dog, TGV Inoui)",
           "costFr": "Environ 7 € (petit chien en caisse) ou environ 50 € (chien plus grand, TGV Inoui)",
           "costEs": "Unos 7 € (perro pequeño en transportín) o unos 50 € (perro grande, TGV Inoui)",
           "costPt": "Cerca de 7 € (cão pequeno em transportadora) ou cerca de 50 € (cão maior, TGV Inoui)",
           "costDe": "Etwa 7 € (kleiner Hund in Box) oder etwa 50 € (größerer Hund, TGV Inoui)",
-          "costNl": "Ongeveer €7 (kleine hond in mand) of ongeveer €50 (grotere hond, TGV Inoui)"
+          "costNl": "Ongeveer €7 (kleine hond in mand) of ongeveer €50 (grotere hond, TGV Inoui)",
+          "costIt": "Circa 7 € (cane piccolo in trasportino) o circa 50 € (cane più grande, TGV Inoui)"
         },
         {
           "mode": "Nomad Car / Bus Verts Line 111 (Le Havre-Honfleur-Deauville-Caen)",
@@ -513,18 +588,21 @@
           "modePt": "Linha Nomad Car / Bus Verts 111 (Le Havre-Honfleur-Deauville-Caen)",
           "modeDe": "Nomad Car / Bus Verts Linie 111 (Le Havre-Honfleur-Deauville-Caen)",
           "modeNl": "Nomad Car / Bus Verts lijn 111 (Le Havre-Honfleur-Deauville-Caen)",
+          "modeIt": "Nomad Car / Bus Verts linea 111 (Le Havre-Honfleur-Deauville-Caen)",
           "policyEn": "This regional Nomad bus line stops in Honfleur (gare routière, Place Albert Sorel) and connects to Deauville-Trouville station. Small pets are generally tolerated in a carrier or leashed; confirm with the driver. Runs daily year-round.",
           "policyFr": "Cette ligne de bus régionale Nomad dessert Honfleur (gare routière, Place Albert Sorel) et rejoint la gare de Deauville-Trouville. Les petits animaux sont généralement tolérés en caisse ou en laisse ; confirmez auprès du chauffeur. Circule tous les jours toute l'année.",
           "policyEs": "Esta línea de autobús regional Nomad para en Honfleur (estación de autobuses, Place Albert Sorel) y conecta con la estación de Deauville-Trouville. Las mascotas pequeñas suelen tolerarse en transportín o con correa; confírmalo con el conductor. Circula todos los días del año.",
           "policyPt": "Esta linha de autocarro regional Nomad para em Honfleur (estação rodoviária, Place Albert Sorel) e liga à estação de Deauville-Trouville. Animais pequenos costumam ser tolerados em transportadora ou com trela; confirme com o motorista. Circula todos os dias do ano.",
           "policyDe": "Diese regionale Nomad-Buslinie hält in Honfleur (Busbahnhof, Place Albert Sorel) und verbindet mit dem Bahnhof Deauville-Trouville. Kleine Haustiere werden in der Regel in einer Box oder an der Leine toleriert; bestätigen Sie dies beim Fahrer. Verkehrt ganzjährig täglich.",
           "policyNl": "Deze regionale Nomad-buslijn stopt in Honfleur (busstation, Place Albert Sorel) en sluit aan op station Deauville-Trouville. Kleine huisdieren worden meestal getolereerd in een mand of aan de lijn; bevestig dit bij de chauffeur. Rijdt het hele jaar dagelijks.",
+          "policyIt": "Questa linea di autobus regionale Nomad ferma a Honfleur (stazione degli autobus, Place Albert Sorel) e si collega alla stazione di Deauville-Trouville. Gli animali di piccola taglia sono generalmente tollerati in trasportino o al guinzaglio; conferma con l'autista. Circola tutti i giorni tutto l'anno.",
           "cost": "Standard regional bus fare",
           "costFr": "Tarif de bus régional normal",
           "costEs": "Tarifa de autobús regional normal",
           "costPt": "Tarifa de autocarro regional normal",
           "costDe": "Normaler regionaler Bustarif",
-          "costNl": "Normaal regionaal bustarief"
+          "costNl": "Normaal regionaal bustarief",
+          "costIt": "Tariffa normale dell'autobus regionale"
         },
         {
           "mode": "Deauville-Normandie Airport (DOL)",
@@ -533,18 +611,21 @@
           "modePt": "Aeroporto de Deauville-Normandie (DOL)",
           "modeDe": "Flughafen Deauville-Normandie (DOL)",
           "modeNl": "Luchthaven Deauville-Normandie (DOL)",
+          "modeIt": "Aeroporto Deauville-Normandie (DOL)",
           "policyEn": "In-cabin pet transport is generally limited to a combined pet-plus-carrier weight of around 8 kg, depending on the airline; confirm conditions directly with the operating carrier before booking. The airport is about a 20-minute drive from Honfleur.",
           "policyFr": "Le transport en cabine est généralement limité à un poids combiné animal + caisse d'environ 8 kg, selon la compagnie ; confirmez les conditions directement auprès du transporteur avant de réserver. L'aéroport est à environ 20 minutes en voiture de Honfleur.",
           "policyEs": "El transporte en cabina suele limitarse a un peso combinado de mascota más transportín de unos 8 kg, según la aerolínea; confirma las condiciones directamente con la compañía antes de reservar. El aeropuerto está a unos 20 minutos en coche de Honfleur.",
           "policyPt": "O transporte em cabine costuma limitar-se a um peso combinado de animal mais transportadora de cerca de 8 kg, consoante a companhia; confirme as condições diretamente com a transportadora antes de reservar. O aeroporto fica a cerca de 20 minutos de carro de Honfleur.",
           "policyDe": "Die Mitnahme im Kabinenbereich ist meist auf ein kombiniertes Gewicht von Tier und Box von etwa 8 kg begrenzt, je nach Fluggesellschaft; bestätigen Sie die Bedingungen vor der Buchung direkt bei der Airline. Der Flughafen liegt etwa 20 Autominuten von Honfleur entfernt.",
           "policyNl": "Vervoer in de cabine is meestal beperkt tot een gecombineerd gewicht van huisdier plus mand van ongeveer 8 kg, afhankelijk van de luchtvaartmaatschappij; bevestig de voorwaarden rechtstreeks bij de maatschappij voordat je boekt. De luchthaven ligt ongeveer 20 minuten rijden van Honfleur.",
+          "policyIt": "Il trasporto in cabina è di solito limitato a un peso combinato di animale più trasportino di circa 8 kg, a seconda della compagnia aerea; conferma le condizioni direttamente con la compagnia prima di prenotare. L'aeroporto si trova a circa 20 minuti di auto da Honfleur.",
           "cost": "Airline-dependent",
           "costFr": "Selon la compagnie aérienne",
           "costEs": "Depende de la aerolínea",
           "costPt": "Depende da companhia aérea",
           "costDe": "Abhängig von der Fluggesellschaft",
-          "costNl": "Afhankelijk van de luchtvaartmaatschappij"
+          "costNl": "Afhankelijk van de luchtvaartmaatschappij",
+          "costIt": "Dipende dalla compagnia aerea"
         },
         {
           "mode": "Taxi / VTC",
@@ -553,18 +634,21 @@
           "modePt": "Táxi / VTC",
           "modeDe": "Taxi / VTC",
           "modeNl": "Taxi / VTC",
+          "modeIt": "Taxi / VTC",
           "policyEn": "Most taxis accept dogs; confirm for larger breeds when booking. A blanket or carrier is appreciated by drivers.",
           "policyFr": "La plupart des taxis acceptent les chiens ; confirmez pour les grandes races lors de la réservation. Une couverture ou une caisse est appréciée par les chauffeurs.",
           "policyEs": "La mayoría de los taxis aceptan perros; confírmalo para razas grandes al reservar. Los conductores agradecen una manta o un transportín.",
           "policyPt": "A maioria dos táxis aceita cães; confirme para raças maiores ao reservar. Uma manta ou transportadora é bem-vinda pelos motoristas.",
           "policyDe": "Die meisten Taxis akzeptieren Hunde; bei größeren Rassen bei der Buchung bestätigen. Eine Decke oder Transportbox wird von den Fahrern geschätzt.",
           "policyNl": "De meeste taxi's accepteren honden; bevestig dit voor grotere rassen bij het boeken. Chauffeurs stellen een deken of mand op prijs.",
+          "policyIt": "La maggior parte dei taxi accetta i cani; per le razze più grandi conferma al momento della prenotazione. Gli autisti apprezzano una coperta o un trasportino.",
           "cost": "Standard taxi rates apply",
           "costFr": "Tarifs taxis normaux applicables",
           "costEs": "Se aplican tarifas normales de taxi",
           "costPt": "Aplicam-se as tarifas normais de táxi",
           "costDe": "Normale Taxitarife gelten",
-          "costNl": "Normale taxitarieven van toepassing"
+          "costNl": "Normale taxitarieven van toepassing",
+          "costIt": "Si applicano le tariffe taxi normali"
         }
       ],
       "faqsEn": [
@@ -626,6 +710,16 @@
           "q": "Kan mijn hond met mij meevliegen naar luchthaven Deauville-Normandie?",
           "a": "Kleine huisdieren mogen meestal in de cabine reizen als het gecombineerde gewicht van huisdier en mand rond de 8 kg blijft, maar de regels verschillen per maatschappij, dus bevestig dit voor het boeken."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è una stazione ferroviaria a Honfleur?",
+          "a": "No. La stazione più vicina è Deauville-Trouville, da cui si prosegue per Honfleur con l'autobus Nomad (linea 111) o un taxi."
+        },
+        {
+          "q": "Il mio cane può volare con me all'aeroporto Deauville-Normandie?",
+          "a": "Gli animali di piccola taglia possono di solito viaggiare in cabina se il peso combinato di animale e trasportino resta intorno agli 8 kg, ma le regole variano da compagnia a compagnia, quindi conferma prima di prenotare."
+        }
       ]
     },
     "beaches": {
@@ -635,12 +729,14 @@
       "titlePt": "Praias pet-friendly perto de Honfleur",
       "titleDe": "Hundefreundliche Strände bei Honfleur",
       "titleNl": "Hondvriendelijke stranden bij Honfleur",
+      "titleIt": "Spiagge pet-friendly vicino a Honfleur",
       "introEn": "Honfleur itself has only a small beach, Plage du Butin, at the edge of town. For a proper dog swim, most owners head along the Côte Fleurie to Trouville, Deauville, or Villerville, or across the Seine to Le Havre. Each has its own seasonal rules on dog access, so check the current dates before you go.",
       "introFr": "Honfleur elle-même n'a qu'une petite plage, la Plage du Butin, en périphérie de la ville. Pour une vraie baignade canine, la plupart des propriétaires se rendent le long de la Côte Fleurie à Trouville, Deauville, ou Villerville, ou traversent la Seine jusqu'au Havre. Chacune a ses propres règles saisonnières sur l'accès des chiens, vérifiez donc les dates en vigueur avant de partir.",
       "introEs": "La propia Honfleur solo tiene una pequeña playa, la Plage du Butin, en las afueras de la ciudad. Para un baño canino de verdad, la mayoría de los dueños van por la Côte Fleurie hasta Trouville, Deauville o Villerville, o cruzan el Sena hasta Le Havre. Cada una tiene sus propias normas estacionales sobre el acceso de los perros, así que comprueba las fechas vigentes antes de ir.",
       "introPt": "A própria Honfleur só tem uma pequena praia, a Plage du Butin, na periferia da vila. Para um mergulho canino a sério, a maioria dos donos segue pela Côte Fleurie até Trouville, Deauville ou Villerville, ou atravessa o Sena até ao Havre. Cada uma tem as suas próprias regras sazonais sobre o acesso de cães, por isso verifique as datas em vigor antes de ir.",
       "introDe": "Honfleur selbst hat nur einen kleinen Strand, die Plage du Butin, am Stadtrand. Für ein richtiges Bad mit Hund fahren die meisten Besitzer entlang der Côte Fleurie nach Trouville, Deauville oder Villerville, oder über die Seine nach Le Havre. Jeder Ort hat eigene saisonale Regeln für den Hundezugang, prüfen Sie also vorher die aktuellen Daten.",
       "introNl": "Honfleur zelf heeft maar één klein strand, de Plage du Butin, aan de rand van de stad. Voor een echte hondenzwempartij trekken de meeste eigenaars langs de Côte Fleurie naar Trouville, Deauville of Villerville, of steken ze de Seine over naar Le Havre. Elk heeft zijn eigen seizoensregels voor honden, dus controleer vooraf de actuele data.",
+      "introIt": "Honfleur stessa ha solo una piccola spiaggia, la Plage du Butin, ai margini della città. Per una vera nuotata con il cane, la maggior parte dei proprietari si sposta lungo la Côte Fleurie verso Trouville, Deauville o Villerville, oppure attraversa la Senna verso Le Havre. Ognuna ha le proprie regole stagionali per i cani, quindi controlla le date attuali in anticipo.",
       "tipsEn": [
         "Check tide tables before visiting Plage du Butin or Villerville, both are affected by the tide and Villerville is only accessible when the tide is out.",
         "If you want swimming access any time of year without a summer curfew, the western stretch of Plage du Butin toward Vasouy is the most reliable option near Honfleur."
@@ -665,6 +761,10 @@
         "Controleer de getijdentabellen voordat je Plage du Butin of Villerville bezoekt, beide zijn afhankelijk van het getij en Villerville is alleen toegankelijk bij eb.",
         "Wil je het hele jaar door kunnen zwemmen zonder zomerse tijdsbeperking, dan is het westelijke deel van Plage du Butin richting Vasouy de meest betrouwbare optie bij Honfleur."
       ],
+      "tipsIt": [
+        "Controlla le tabelle delle maree prima di visitare Plage du Butin o Villerville, entrambe dipendono dalla marea e Villerville è accessibile solo con la bassa marea.",
+        "Se vuoi poter nuotare tutto l'anno senza limiti orari estivi, la parte occidentale di Plage du Butin verso Vasouy è l'opzione più affidabile vicino a Honfleur."
+      ],
       "beaches": [
         {
           "name": "Plage du Butin",
@@ -677,18 +777,21 @@
           "dogPolicyPt": "Os cães com trela têm acesso o ano inteiro. No verão, a zona central em frente a Butin proíbe cães das 9h às 19h, mas toda a faixa oeste em direção a Vasouy permanece livremente acessível em qualquer altura. Os cães de categoria 1 devem usar açaime.",
           "dogPolicyDe": "Hunde an der Leine haben ganzjährig Zugang. Im Sommer sind Hunde in der zentralen Zone vor Butin von 9 bis 19 Uhr verboten, doch der gesamte westliche Abschnitt Richtung Vasouy bleibt jederzeit frei zugänglich. Hunde der Kategorie 1 müssen einen Maulkorb tragen.",
           "dogPolicyNl": "Honden aan de lijn hebben het hele jaar toegang. 's Zomers is de centrale zone tegenover Butin van 9 tot 19 uur verboden voor honden, maar het hele westelijke stuk richting Vasouy blijft altijd vrij toegankelijk. Categorie 1-honden moeten een muilkorf dragen.",
+          "dogPolicyIt": "I cani al guinzaglio hanno accesso tutto l'anno. D'estate la zona centrale di fronte a Butin è vietata ai cani dalle 9 alle 19, ma tutta la parte occidentale verso Vasouy resta sempre liberamente accessibile. I cani di categoria 1 devono indossare la museruola.",
           "seasonalRestrictions": "Central zone restricted 9am-7pm in summer; western section (toward Vasouy) unrestricted year-round",
           "seasonalRestrictionsFr": "Zone centrale restreinte de 9h à 19h en été ; partie ouest (vers Vasouy) sans restriction toute l'année",
           "seasonalRestrictionsEs": "Zona central restringida de 9 a 19 h en verano; tramo oeste (hacia Vasouy) sin restricciones todo el año",
           "seasonalRestrictionsPt": "Zona central restrita das 9h às 19h no verão; faixa oeste (em direção a Vasouy) sem restrições o ano inteiro",
           "seasonalRestrictionsDe": "Zentrale Zone im Sommer von 9 bis 19 Uhr eingeschränkt; westlicher Abschnitt (Richtung Vasouy) ganzjährig ohne Einschränkung",
           "seasonalRestrictionsNl": "Centrale zone 's zomers beperkt van 9 tot 19 uur; westelijk deel (richting Vasouy) het hele jaar zonder beperking",
+          "seasonalRestrictionsIt": "Zona centrale limitata d'estate dalle 9 alle 19; parte occidentale (verso Vasouy) senza limiti tutto l'anno",
           "descriptionEn": "Honfleur's own small beach, on the eastern seafront toward Vasouy. Dogs are allowed on a leash year-round; only the central zone facing Butin has a daytime summer restriction, while the western stretch stays open at all times. The eastern section near the pier has strong tidal currents, the calmer water is to the west.",
           "descriptionFr": "La petite plage de Honfleur elle-même, sur le front de mer est en direction de Vasouy. Les chiens sont admis en laisse toute l'année ; seule la zone centrale face au Butin a une restriction diurne en été, tandis que la partie ouest reste ouverte en permanence. La section est près de la jetée a de forts courants de marée, l'eau est plus calme à l'ouest.",
           "descriptionEs": "La pequeña playa propia de Honfleur, en el paseo marítimo este hacia Vasouy. Los perros están permitidos con correa todo el año; solo la zona central frente a Butin tiene una restricción diurna en verano, mientras que el tramo oeste permanece abierto en todo momento. La sección este cerca del muelle tiene fuertes corrientes de marea, el agua más tranquila está al oeste.",
           "descriptionPt": "A pequena praia da própria Honfleur, na beira-mar este em direção a Vasouy. Os cães são permitidos com trela o ano inteiro; só a zona central em frente a Butin tem uma restrição diurna no verão, enquanto a faixa oeste permanece aberta em qualquer altura. A secção este perto do cais tem correntes de maré fortes, a água mais calma fica a oeste.",
           "descriptionDe": "Honfleurs eigener kleiner Strand, an der östlichen Uferpromenade Richtung Vasouy. Hunde sind ganzjährig an der Leine erlaubt; nur die zentrale Zone vor Butin hat im Sommer eine tagsüber geltende Einschränkung, während der westliche Abschnitt jederzeit offen bleibt. Der östliche Bereich nahe dem Pier hat starke Gezeitenströmungen, ruhigeres Wasser findet sich im Westen.",
-          "descriptionNl": "Honfleurs eigen kleine strand, aan de oostelijke kust richting Vasouy. Honden zijn het hele jaar aan de lijn toegestaan; alleen de centrale zone tegenover Butin heeft 's zomers overdag een beperking, terwijl het westelijke stuk altijd open blijft. Het oostelijke deel bij de pier heeft sterke getijdenstromingen, rustiger water vind je in het westen."
+          "descriptionNl": "Honfleurs eigen kleine strand, aan de oostelijke kust richting Vasouy. Honden zijn het hele jaar aan de lijn toegestaan; alleen de centrale zone tegenover Butin heeft 's zomers overdag een beperking, terwijl het westelijke stuk altijd open blijft. Het oostelijke deel bij de pier heeft sterke getijdenstromingen, rustiger water vind je in het westen.",
+          "descriptionIt": "La piccola spiaggia di Honfleur, sulla costa orientale verso Vasouy. I cani al guinzaglio sono ammessi tutto l'anno; solo la zona centrale di fronte a Butin ha una limitazione diurna estiva, mentre la parte occidentale resta sempre aperta. Il tratto orientale vicino al molo ha correnti di marea forti, acque più calme si trovano a ovest."
         },
         {
           "name": "Plage de Trouville-sur-Mer",
@@ -701,18 +804,21 @@
           "dogPolicyPt": "Os cães com trela são permitidos o ano inteiro antes das 10h e depois das 19h; o acesso com trela na promenade Savignac é livre a qualquer hora.",
           "dogPolicyDe": "Hunde an der Leine sind ganzjährig vor 10 Uhr und nach 19 Uhr erlaubt; der Zugang an der Leine auf der Promenade Savignac ist zu jeder Zeit uneingeschränkt.",
           "dogPolicyNl": "Honden aan de lijn zijn het hele jaar toegestaan voor 10.00 uur en na 19.00 uur; toegang aan de lijn op de boulevard Savignac is op elk moment onbeperkt.",
+          "dogPolicyIt": "I cani al guinzaglio sono ammessi tutto l'anno prima delle 10:00 e dopo le 19:00; l'accesso al guinzaglio sul boulevard Savignac è illimitato in qualsiasi momento.",
           "seasonalRestrictions": "Beach access restricted to before 10am/after 7pm year-round; boardwalk unrestricted",
           "seasonalRestrictionsFr": "Accès plage restreint avant 10h/après 19h toute l'année ; promenade sans restriction",
           "seasonalRestrictionsEs": "Acceso a la playa restringido antes de las 10:00/después de las 19:00 todo el año; paseo sin restricciones",
           "seasonalRestrictionsPt": "Acesso à praia restrito antes das 10h/depois das 19h o ano inteiro; promenade sem restrições",
           "seasonalRestrictionsDe": "Strandzugang ganzjährig vor 10 Uhr/nach 19 Uhr beschränkt; Promenade uneingeschränkt",
           "seasonalRestrictionsNl": "Strandtoegang het hele jaar beperkt tot voor 10.00/na 19.00 uur; boulevard onbeperkt",
+          "seasonalRestrictionsIt": "Accesso alla spiaggia limitato tutto l'anno prima delle 10:00/dopo le 19:00; boulevard illimitato",
           "descriptionEn": "About a 20-minute drive from Honfleur, Trouville has one of the more generous dog policies on the Côte Fleurie: leashed dogs can use the beach before 10am and after 7pm all year, with unrestricted access on the seafront boardwalk at any hour.",
           "descriptionFr": "À environ 20 minutes en voiture de Honfleur, Trouville a l'une des politiques les plus généreuses envers les chiens sur la Côte Fleurie : les chiens en laisse peuvent utiliser la plage avant 10h et après 19h toute l'année, avec un accès libre sur la promenade du front de mer à toute heure.",
           "descriptionEs": "A unos 20 minutos en coche de Honfleur, Trouville tiene una de las políticas caninas más generosas de la Côte Fleurie: los perros con correa pueden usar la playa antes de las 10:00 y después de las 19:00 todo el año, con acceso libre en el paseo marítimo a cualquier hora.",
           "descriptionPt": "A cerca de 20 minutos de carro de Honfleur, Trouville tem uma das políticas mais generosas para cães da Côte Fleurie: os cães com trela podem usar a praia antes das 10h e depois das 19h o ano inteiro, com acesso livre na promenade à beira-mar a qualquer hora.",
           "descriptionDe": "Etwa 20 Autominuten von Honfleur entfernt hat Trouville eine der großzügigeren Hunderegelungen an der Côte Fleurie: Hunde an der Leine dürfen den Strand ganzjährig vor 10 Uhr und nach 19 Uhr nutzen, mit uneingeschränktem Zugang auf der Uferpromenade zu jeder Stunde.",
-          "descriptionNl": "Op zo'n 20 minuten rijden van Honfleur heeft Trouville een van de royalere hondenregelingen aan de Côte Fleurie: honden aan de lijn mogen het strand het hele jaar voor 10.00 uur en na 19.00 uur gebruiken, met onbeperkte toegang op de boulevard op elk uur."
+          "descriptionNl": "Op zo'n 20 minuten rijden van Honfleur heeft Trouville een van de royalere hondenregelingen aan de Côte Fleurie: honden aan de lijn mogen het strand het hele jaar voor 10.00 uur en na 19.00 uur gebruiken, met onbeperkte toegang op de boulevard op elk uur.",
+          "descriptionIt": "A circa 20 minuti di auto da Honfleur, Trouville ha una delle regole più generose per i cani sulla Côte Fleurie: i cani al guinzaglio possono usare la spiaggia tutto l'anno prima delle 10:00 e dopo le 19:00, con accesso illimitato sul boulevard a qualsiasi ora."
         },
         {
           "name": "Plage de Deauville",
@@ -725,18 +831,21 @@
           "dogPolicyPt": "De 1 de maio a 30 de setembro, os cães com trela só são permitidos na maré-baixa, antes das 10h e depois das 19h. De 1 de outubro a 30 de abril, os cães com trela podem usar a praia a qualquer hora. A famosa promenade de madeira Planches aceita cães com trela o ano inteiro.",
           "dogPolicyDe": "Vom 1. Mai bis 30. September sind Hunde an der Leine nur bei Ebbe erlaubt, vor 10 Uhr und nach 19 Uhr. Vom 1. Oktober bis 30. April dürfen Hunde an der Leine den Strand zu jeder Stunde nutzen. Die berühmte Holzpromenade Planches erlaubt Hunde an der Leine ganzjährig.",
           "dogPolicyNl": "Van 1 mei tot 30 september zijn honden aan de lijn alleen toegestaan bij eb, voor 10.00 uur en na 19.00 uur. Van 1 oktober tot 30 april mogen honden aan de lijn het strand op elk moment gebruiken. De beroemde houten boulevard Les Planches staat honden aan de lijn het hele jaar toe.",
+          "dogPolicyIt": "Dal 1° maggio al 30 settembre i cani al guinzaglio sono ammessi solo con la bassa marea, prima delle 10:00 e dopo le 19:00. Dal 1° ottobre al 30 aprile i cani al guinzaglio possono usare la spiaggia in qualsiasi momento. Il famoso boulevard di legno Les Planches ammette i cani al guinzaglio tutto l'anno.",
           "seasonalRestrictions": "Restricted to low tide before 10am/after 7pm from May 1-Sep 30; unrestricted Oct 1-Apr 30",
           "seasonalRestrictionsFr": "Restreint à marée basse avant 10h/après 19h du 1er mai au 30 sept. ; sans restriction du 1er oct. au 30 avril",
           "seasonalRestrictionsEs": "Restringido a marea baja antes de las 10:00/después de las 19:00 del 1 de mayo al 30 de sept.; sin restricciones del 1 de oct. al 30 de abril",
           "seasonalRestrictionsPt": "Restrito à maré-baixa antes das 10h/depois das 19h de 1 de maio a 30 de set.; sem restrições de 1 de out. a 30 de abril",
           "seasonalRestrictionsDe": "Vom 1. Mai bis 30. Sept. auf Ebbe vor 10 Uhr/nach 19 Uhr beschränkt; vom 1. Okt. bis 30. April uneingeschränkt",
           "seasonalRestrictionsNl": "Beperkt tot eb voor 10.00/na 19.00 uur van 1 mei-30 sept.; onbeperkt van 1 okt.-30 april",
+          "seasonalRestrictionsIt": "Limitato alla bassa marea prima delle 10:00/dopo le 19:00 dal 1° maggio al 30 sett.; illimitato dal 1° ott. al 30 aprile",
           "descriptionEn": "Deauville, about 25 minutes from Honfleur, layers its dog rules by season and tide: summer access is limited to low tide before 10am and after 7pm, while the rest of the year leashed dogs can use the sand any time. The famous wooden Planches boardwalk welcomes leashed dogs year-round regardless of the beach rules.",
           "descriptionFr": "Deauville, à environ 25 minutes de Honfleur, module ses règles canines selon la saison et la marée : l'accès estival est limité à marée basse avant 10h et après 19h, tandis que le reste de l'année les chiens en laisse peuvent profiter du sable à toute heure. Les célèbres Planches en bois accueillent les chiens en laisse toute l'année, quelles que soient les règles de la plage.",
           "descriptionEs": "Deauville, a unos 25 minutos de Honfleur, escalona sus normas caninas según la temporada y la marea: el acceso en verano se limita a la marea baja antes de las 10:00 y después de las 19:00, mientras que el resto del año los perros con correa pueden usar la arena a cualquier hora. El famoso paseo de madera Planches acoge a perros con correa todo el año, al margen de las normas de la playa.",
           "descriptionPt": "Deauville, a cerca de 25 minutos de Honfleur, escalona as suas regras para cães consoante a época e a maré: o acesso no verão limita-se à maré-baixa antes das 10h e depois das 19h, enquanto no resto do ano os cães com trela podem usar o areal a qualquer hora. A famosa promenade de madeira Planches acolhe cães com trela o ano inteiro, independentemente das regras da praia.",
           "descriptionDe": "Deauville, etwa 25 Minuten von Honfleur entfernt, staffelt seine Hunderegeln nach Saison und Gezeiten: Der Sommerzugang ist auf Ebbe vor 10 Uhr und nach 19 Uhr beschränkt, während Hunde an der Leine den Rest des Jahres den Sand jederzeit nutzen können. Die berühmte Holzpromenade Planches heißt Hunde an der Leine unabhängig von den Strandregeln ganzjährig willkommen.",
-          "descriptionNl": "Deauville, ongeveer 25 minuten van Honfleur, hanteert hondenregels die per seizoen en getij verschillen: 's zomers is toegang beperkt tot eb, voor 10.00 uur en na 19.00 uur, terwijl honden aan de lijn de rest van het jaar op elk moment op het zand mogen. De beroemde houten boulevard Les Planches verwelkomt honden aan de lijn het hele jaar door, ongeacht de strandregels."
+          "descriptionNl": "Deauville, ongeveer 25 minuten van Honfleur, hanteert hondenregels die per seizoen en getij verschillen: 's zomers is toegang beperkt tot eb, voor 10.00 uur en na 19.00 uur, terwijl honden aan de lijn de rest van het jaar op elk moment op het zand mogen. De beroemde houten boulevard Les Planches verwelkomt honden aan de lijn het hele jaar door, ongeacht de strandregels.",
+          "descriptionIt": "Deauville, a circa 25 minuti da Honfleur, applica regole per i cani che variano per stagione e marea: d'estate l'accesso è limitato alla bassa marea, prima delle 10:00 e dopo le 19:00, mentre il resto dell'anno i cani al guinzaglio possono stare sulla sabbia in qualsiasi momento. Il famoso boulevard di legno Les Planches accoglie i cani al guinzaglio tutto l'anno, indipendentemente dalle regole della spiaggia."
         },
         {
           "name": "Plage de Villerville",
@@ -749,18 +858,21 @@
           "dogPolicyPt": "De 15 de maio a 15 de setembro, os cães com trela são permitidos na praia apenas antes de cerca das 9-10h e depois das 19h; fora destas datas, os cães com trela podem usar a praia o dia todo. O dique e a promenade aceitam cães com trela a qualquer hora o ano inteiro. A praia só é acessível na maré-baixa.",
           "dogPolicyDe": "Vom 15. Mai bis 15. September sind Hunde an der Leine am Strand nur vor etwa 9-10 Uhr und nach 19 Uhr erlaubt; außerhalb dieser Daten dürfen Hunde an der Leine den Strand den ganzen Tag nutzen. Der Deich und die Promenade erlauben Hunde an der Leine ganzjährig zu jeder Zeit. Der Strand ist nur bei Ebbe zugänglich.",
           "dogPolicyNl": "Van 15 mei tot 15 september zijn honden aan de lijn op het strand alleen toegestaan voor ongeveer 9.00-10.00 uur en na 19.00 uur; buiten deze data mogen honden aan de lijn het strand de hele dag gebruiken. De dijk en de boulevard staan honden aan de lijn het hele jaar op elk moment toe. Het strand is alleen toegankelijk bij eb.",
+          "dogPolicyIt": "Dal 15 maggio al 15 settembre i cani al guinzaglio sono ammessi sulla spiaggia solo circa dalle 9:00-10:00 e dopo le 19:00; al di fuori di queste date i cani al guinzaglio possono usare la spiaggia tutto il giorno. L'argine e il boulevard ammettono i cani al guinzaglio tutto l'anno in qualsiasi momento. La spiaggia è accessibile solo con la bassa marea.",
           "seasonalRestrictions": "Restricted before ~9-10am/after 7pm from May 15-Sep 15; unrestricted rest of the year",
           "seasonalRestrictionsFr": "Restreint avant ~9-10h/après 19h du 15 mai au 15 sept. ; sans restriction le reste de l'année",
           "seasonalRestrictionsEs": "Restringido antes de ~9-10:00/después de las 19:00 del 15 de mayo al 15 de sept.; sin restricciones el resto del año",
           "seasonalRestrictionsPt": "Restrito antes de ~9-10h/depois das 19h de 15 de maio a 15 de set.; sem restrições no resto do ano",
           "seasonalRestrictionsDe": "Vor ~9-10 Uhr/nach 19 Uhr vom 15. Mai bis 15. Sept. beschränkt; den Rest des Jahres uneingeschränkt",
           "seasonalRestrictionsNl": "Beperkt voor ~9.00-10.00/na 19.00 uur van 15 mei-15 sept.; onbeperkt de rest van het jaar",
+          "seasonalRestrictionsIt": "Limitato circa dalle 9:00-10:00/dopo le 19:00 dal 15 maggio al 15 sett.; illimitato il resto dell'anno",
           "descriptionEn": "A small beach between Honfleur and Deauville, about 15 minutes away, only accessible at low tide. In the mid-May to mid-September window, leashed dogs get early-morning and evening access to the sand, while the dike and promenade stay open to leashed dogs all year.",
           "descriptionFr": "Une petite plage entre Honfleur et Deauville, à environ 15 minutes, accessible uniquement à marée basse. Entre mi-mai et mi-septembre, les chiens en laisse ont accès au sable tôt le matin et le soir, tandis que la digue et la promenade restent ouvertes aux chiens en laisse toute l'année.",
           "descriptionEs": "Una pequeña playa entre Honfleur y Deauville, a unos 15 minutos, solo accesible con marea baja. Entre mediados de mayo y mediados de septiembre, los perros con correa tienen acceso a la arena a primera hora de la mañana y por la noche, mientras que el dique y el paseo permanecen abiertos a los perros con correa todo el año.",
           "descriptionPt": "Uma pequena praia entre Honfleur e Deauville, a cerca de 15 minutos, só acessível na maré-baixa. Entre meados de maio e meados de setembro, os cães com trela têm acesso ao areal de manhã cedo e à noite, enquanto o dique e a promenade permanecem abertos a cães com trela o ano inteiro.",
           "descriptionDe": "Ein kleiner Strand zwischen Honfleur und Deauville, etwa 15 Minuten entfernt, nur bei Ebbe zugänglich. Zwischen Mitte Mai und Mitte September haben Hunde an der Leine frühmorgens und abends Zugang zum Sand, während der Deich und die Promenade das ganze Jahr über für Hunde an der Leine offen bleiben.",
-          "descriptionNl": "Een klein strand tussen Honfleur en Deauville, ongeveer 15 minuten rijden, alleen toegankelijk bij eb. Tussen half mei en half september hebben honden aan de lijn 's ochtends vroeg en 's avonds toegang tot het zand, terwijl de dijk en de boulevard het hele jaar open blijven voor honden aan de lijn."
+          "descriptionNl": "Een klein strand tussen Honfleur en Deauville, ongeveer 15 minuten rijden, alleen toegankelijk bij eb. Tussen half mei en half september hebben honden aan de lijn 's ochtends vroeg en 's avonds toegang tot het zand, terwijl de dijk en de boulevard het hele jaar open blijven voor honden aan de lijn.",
+          "descriptionIt": "Una piccola spiaggia tra Honfleur e Deauville, a circa 15 minuti di auto, accessibile solo con la bassa marea. Tra metà maggio e metà settembre i cani al guinzaglio hanno accesso alla sabbia presto al mattino e la sera, mentre l'argine e il boulevard restano aperti tutto l'anno ai cani al guinzaglio."
         },
         {
           "name": "Plage du Havre",
@@ -773,18 +885,21 @@
           "dogPolicyPt": "Os cães são proibidos na praia, nos seixos e na faixa de areia, incluindo para nadar, de 1 de abril a 30 de setembro. Os cães com trela são permitidos na promenade do dique o ano inteiro.",
           "dogPolicyDe": "Hunde sind vom 1. April bis 30. September auf dem Strand, den Kieselsteinen und im Watt, einschließlich Baden, verboten. Hunde an der Leine sind auf der Deichpromenade ganzjährig erlaubt.",
           "dogPolicyNl": "Honden zijn van 1 april tot 30 september verboden op het strand, de kiezels en de vloedlijn, inclusief zwemmen. Honden aan de lijn zijn het hele jaar toegestaan op de dijkpromenade.",
+          "dogPolicyIt": "I cani sono vietati sulla spiaggia, sui ciottoli e sulla battigia dal 1° aprile al 30 settembre, incluso il bagno. I cani al guinzaglio sono ammessi tutto l'anno sulla passeggiata dell'argine.",
           "seasonalRestrictions": "Beach and swimming banned April 1-September 30; promenade unrestricted",
           "seasonalRestrictionsFr": "Plage et baignade interdites du 1er avril au 30 septembre ; promenade sans restriction",
           "seasonalRestrictionsEs": "Playa y baño prohibidos del 1 de abril al 30 de septiembre; paseo sin restricciones",
           "seasonalRestrictionsPt": "Praia e banho proibidos de 1 de abril a 30 de setembro; promenade sem restrições",
           "seasonalRestrictionsDe": "Strand und Baden vom 1. April bis 30. September verboten; Promenade uneingeschränkt",
           "seasonalRestrictionsNl": "Strand en zwemmen verboden van 1 april tot 30 september; boulevard onbeperkt",
+          "seasonalRestrictionsIt": "Spiaggia e bagno vietati dal 1° aprile al 30 settembre; boulevard illimitato",
           "descriptionEn": "Across the Pont de Normandie from Honfleur, about 30 minutes away, Le Havre applies one of the stricter seasonal bans on the Normandy coast: no dogs on the beach or in the water from April through September. The dike promenade is a reliable leashed walk in any season.",
           "descriptionFr": "De l'autre côté du Pont de Normandie depuis Honfleur, à environ 30 minutes, Le Havre applique l'une des interdictions saisonnières les plus strictes de la côte normande : pas de chiens sur la plage ni dans l'eau d'avril à septembre. La digue-promenade reste une balade en laisse fiable en toute saison.",
           "descriptionEs": "Al otro lado del puente de Normandía desde Honfleur, a unos 30 minutos, Le Havre aplica una de las prohibiciones estacionales más estrictas de la costa normanda: nada de perros en la playa ni en el agua de abril a septiembre. El paseo del dique sigue siendo un paseo con correa fiable en cualquier temporada.",
           "descriptionPt": "Do outro lado da ponte da Normandia a partir de Honfleur, a cerca de 30 minutos, o Havre aplica uma das proibições sazonais mais rígidas da costa normanda: nada de cães na praia nem na água de abril a setembro. A promenade do dique continua a ser um passeio com trela fiável em qualquer época.",
           "descriptionDe": "Auf der anderen Seite der Pont de Normandie von Honfleur aus, etwa 30 Minuten entfernt, gilt in Le Havre eines der strengeren saisonalen Verbote an der normannischen Küste: Von April bis September keine Hunde am Strand oder im Wasser. Die Deichpromenade bleibt in jeder Saison ein verlässlicher Spaziergang an der Leine.",
-          "descriptionNl": "Aan de overkant van de Pont de Normandie vanaf Honfleur, ongeveer 30 minuten rijden, hanteert Le Havre een van de strengere seizoensverboden aan de Normandische kust: geen honden op het strand of in het water van april tot en met september. De dijkpromenade blijft in elk seizoen een betrouwbare wandeling aan de lijn."
+          "descriptionNl": "Aan de overkant van de Pont de Normandie vanaf Honfleur, ongeveer 30 minuten rijden, hanteert Le Havre een van de strengere seizoensverboden aan de Normandische kust: geen honden op het strand of in het water van april tot en met september. De dijkpromenade blijft in elk seizoen een betrouwbare wandeling aan de lijn.",
+          "descriptionIt": "Dall'altra parte del Pont de Normandie rispetto a Honfleur, a circa 30 minuti di auto, Le Havre applica uno dei divieti stagionali più severi della costa normanna: niente cani in spiaggia o in acqua da aprile a settembre compresi. La passeggiata dell'argine resta comunque una passeggiata affidabile al guinzaglio in ogni stagione."
         }
       ],
       "faqsEn": [
@@ -870,6 +985,20 @@
           "q": "Zijn honden 's zomers verboden op het strand van Le Havre?",
           "a": "Ja, honden (inclusief zwemmen) zijn van 1 april tot 30 september verboden op het strand, de kiezels en de vloedlijn; de dijkpromenade blijft het hele jaar open voor honden aan de lijn."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane in spiaggia a Honfleur stessa?",
+          "a": "Sì, Plage du Butin ammette i cani al guinzaglio tutto l'anno, con una limitazione diurna estiva solo nella zona centrale; la parte occidentale verso Vasouy è sempre aperta."
+        },
+        {
+          "q": "Quale spiaggia vicina ha le regole più flessibili per i cani?",
+          "a": "Trouville-sur-Mer è una delle opzioni più generose, con cani al guinzaglio ammessi prima delle 10:00 e dopo le 19:00 tutto l'anno, oltre ad accesso illimitato sul boulevard."
+        },
+        {
+          "q": "I cani sono vietati d'estate sulla spiaggia di Le Havre?",
+          "a": "Sì, i cani (incluso il bagno) sono vietati sulla spiaggia, sui ciottoli e sulla battigia dal 1° aprile al 30 settembre; la passeggiata dell'argine resta aperta tutto l'anno ai cani al guinzaglio."
+        }
       ]
     },
     "vets": {
@@ -879,12 +1008,14 @@
       "titlePt": "Veterinários de urgência em Honfleur, clínicas veterinárias",
       "titleDe": "Notfall-Tierärzte in Honfleur, Tierkliniken & Tierbetreuung",
       "titleNl": "Spoeddierenartsen in Honfleur, dierenklinieken en dierenzorg",
+      "titleIt": "Veterinari d'emergenza a Honfleur, cliniche veterinarie e cura degli animali",
       "introEn": "Honfleur has veterinary practices for routine care, and the national emergency line covers after-hours situations. Keep both numbers saved before you travel, since local clinics generally keep standard daytime hours rather than round-the-clock service.",
       "introFr": "Honfleur dispose de cabinets vétérinaires pour les soins courants, et la ligne d'urgence nationale couvre les situations en dehors des heures d'ouverture. Gardez les deux numéros enregistrés avant de voyager, les cliniques locales conservant généralement des horaires de jour standards plutôt qu'un service continu.",
       "introEs": "Honfleur cuenta con clínicas veterinarias para la atención rutinaria, y la línea nacional de urgencias cubre las situaciones fuera de horario. Guarda ambos números antes de viajar, ya que las clínicas locales suelen mantener un horario diurno estándar en lugar de un servicio las 24 horas.",
       "introPt": "Honfleur tem clínicas veterinárias para cuidados de rotina, e a linha nacional de urgência cobre as situações fora de horas. Guarde os dois números antes de viajar, já que as clínicas locais geralmente mantêm um horário diurno padrão em vez de um serviço contínuo.",
       "introDe": "Honfleur verfügt über Tierarztpraxen für die Routineversorgung, und die nationale Notfallnummer deckt Situationen außerhalb der Öffnungszeiten ab. Speichern Sie beide Nummern vor der Reise, da lokale Kliniken in der Regel normale Tagesöffnungszeiten statt eines Rund-um-die-Uhr-Dienstes haben.",
       "introNl": "Honfleur heeft dierenartspraktijken voor reguliere zorg, en de landelijke spoedlijn dekt situaties buiten kantooruren. Bewaar beide nummers voordat je op reis gaat, want lokale klinieken houden meestal gewone dagopeningstijden aan in plaats van een 24-uursdienst.",
+      "introIt": "Honfleur ha ambulatori veterinari per le cure ordinarie, e la linea nazionale di emergenza copre le situazioni fuori orario. Salva entrambi i numeri prima di partire, perché le cliniche locali di solito rispettano orari diurni normali invece di un servizio 24 ore su 24.",
       "tipsEn": [
         "Save the 3115 national emergency line in your phone before you travel, it's free and works anywhere in France.",
         "Carry your dog's EU pet passport and microchip details; French vets may ask for them, especially for cross-border pets."
@@ -909,6 +1040,10 @@
         "Sla het landelijke spoednummer 3115 op in je telefoon voordat je op reis gaat, het is gratis en werkt overal in Frankrijk.",
         "Neem het EU-huisdierenpaspoort en de chipgegevens van je hond mee; Franse dierenartsen kunnen daarnaar vragen, vooral bij grensoverschrijdende huisdieren."
       ],
+      "tipsIt": [
+        "Salva il numero nazionale di emergenza 3115 nel telefono prima di partire, è gratuito e funziona ovunque in Francia.",
+        "Porta il passaporto europeo per animali e i dati del microchip del tuo cane; i veterinari francesi possono chiederli, soprattutto per animali che hanno attraversato confini."
+      ],
       "clinics": [
         {
           "name": "Clinique Vétérinaire du Dr Patricia Lardinois",
@@ -923,7 +1058,8 @@
           "descriptionEs": "Una clínica veterinaria en Honfleur dirigida por la Dra. Patricia Lardinois, que atiende consultas rutinarias y vacunaciones para perros, gatos y otras mascotas. Como en la mayoría de las clínicas veterinarias francesas, las urgencias fuera de horario suelen derivarse al servicio nacional de guardia.",
           "descriptionPt": "Uma clínica veterinária em Honfleur dirigida pela Dra. Patricia Lardinois, que assegura consultas de rotina e vacinação para cães, gatos e outros animais. Como na maioria das clínicas veterinárias francesas, as urgências fora de horas são geralmente encaminhadas para o serviço nacional de plantão.",
           "descriptionDe": "Eine Tierarztpraxis in Honfleur unter der Leitung von Dr. Patricia Lardinois, die Routinekonsultationen und Impfungen für Hunde, Katzen und andere Haustiere durchführt. Wie bei den meisten französischen Tierarztpraxen werden Notfälle außerhalb der Öffnungszeiten in der Regel an den nationalen Bereitschaftsdienst verwiesen.",
-          "descriptionNl": "Een dierenartspraktijk in Honfleur onder leiding van Dr. Patricia Lardinois, voor reguliere consulten en vaccinaties voor honden, katten en andere huisdieren. Zoals bij de meeste Franse dierenartspraktijken worden spoedgevallen buiten kantooruren meestal doorverwezen naar de landelijke wachtdienst."
+          "descriptionNl": "Een dierenartspraktijk in Honfleur onder leiding van Dr. Patricia Lardinois, voor reguliere consulten en vaccinaties voor honden, katten en andere huisdieren. Zoals bij de meeste Franse dierenartspraktijken worden spoedgevallen buiten kantooruren meestal doorverwezen naar de landelijke wachtdienst.",
+          "descriptionIt": "Un ambulatorio veterinario a Honfleur diretto dalla dott.ssa Patricia Lardinois, per consulti di routine e vaccinazioni per cani, gatti e altri animali domestici. Come nella maggior parte degli ambulatori francesi, le emergenze fuori orario vengono di solito indirizzate al servizio di guardia nazionale."
         },
         {
           "name": "Service vétérinaire de garde 24/7 (3115)",
@@ -938,7 +1074,8 @@
           "descriptionEs": "El número nacional de urgencias veterinarias 3115 es gratuito y funciona las 24 horas, los 7 días de la semana. Llamarlo te conecta con el veterinario de guardia más cercano para la zona de Honfleur, sea cual sea la clínica de servicio. Menciona tu código postal (14600) para agilizar la derivación.",
           "descriptionPt": "O número nacional de urgência veterinária 3115 é gratuito e funciona 24 horas por dia, 7 dias por semana. Ligar para ele liga-o ao veterinário de serviço mais próximo para a zona de Honfleur, seja qual for a clínica de plantão. Mencione o seu código postal (14600) para acelerar o encaminhamento.",
           "descriptionDe": "Die nationale Tiernotfallnummer 3115 ist kostenlos und rund um die Uhr, sieben Tage die Woche, erreichbar. Ein Anruf verbindet Sie mit dem nächstgelegenen diensthabenden Tierarzt für die Region Honfleur, je nachdem welche Klinik gerade Bereitschaft hat. Nennen Sie Ihre Postleitzahl (14600), um die Vermittlung zu beschleunigen.",
-          "descriptionNl": "Het landelijke spoednummer voor dierenartsen 3115 is gratis en 24 uur per dag, 7 dagen per week bereikbaar. Bellen verbindt je met de dichtstbijzijnde dienstdoende dierenarts voor de regio Honfleur, welke kliniek ook dienst heeft. Vermeld je postcode (14600) om de doorverwijzing te versnellen."
+          "descriptionNl": "Het landelijke spoednummer voor dierenartsen 3115 is gratis en 24 uur per dag, 7 dagen per week bereikbaar. Bellen verbindt je met de dichtstbijzijnde dienstdoende dierenarts voor de regio Honfleur, welke kliniek ook dienst heeft. Vermeld je postcode (14600) om de doorverwijzing te versnellen.",
+          "descriptionIt": "Il numero nazionale di emergenza veterinaria 3115 è gratuito e raggiungibile 24 ore su 24, 7 giorni su 7. Chiamando vieni messo in contatto con il veterinario di turno più vicino per la zona di Honfleur, qualunque clinica sia di guardia. Indica il codice postale (14600) per velocizzare lo smistamento."
         }
       ],
       "faqsEn": [
@@ -1000,6 +1137,16 @@
           "q": "Wat moet ik meenemen voor een dierenartsbezoek in Frankrijk?",
           "a": "Het EU-huisdierenpaspoort van je hond, het ISO-chipnummer en het vaccinatieboekje, Franse dierenartsen en grenscontroles kunnen daarnaar vragen."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è un veterinario aperto 24 ore su 24 a Honfleur?",
+          "a": "L'ambulatorio locale di Honfleur rispetta orari diurni normali. Di notte e nel weekend chiama il numero nazionale gratuito di emergenza 3115, che ti mette in contatto con il veterinario di turno più vicino."
+        },
+        {
+          "q": "Cosa devo portare per una visita veterinaria in Francia?",
+          "a": "Il passaporto europeo per animali del tuo cane, il numero di microchip ISO e il libretto delle vaccinazioni, i veterinari francesi e i controlli di frontiera possono chiederli."
+        }
       ]
     },
     "tips": {
@@ -1009,12 +1156,14 @@
       "titlePt": "Dicas essenciais para visitar Honfleur com um cão",
       "titleDe": "Wichtige Tipps für einen Besuch in Honfleur mit Hund",
       "titleNl": "Essentiële tips voor een bezoek aan Honfleur met een hond",
+      "titleIt": "Consigli essenziali per visitare Honfleur con un cane",
       "introEn": "Practical tips for visiting Honfleur with your dog.",
       "introFr": "Conseils pratiques pour visiter Honfleur avec votre chien.",
       "introEs": "Consejos prácticos para visitar Honfleur con tu perro.",
       "introPt": "Dicas práticas para visitar Honfleur com o seu cão.",
       "introDe": "Praktische Tipps für einen Besuch in Honfleur mit Ihrem Hund.",
       "introNl": "Praktische tips voor een bezoek aan Honfleur met jouw hond.",
+      "introIt": "Consigli pratici per visitare Honfleur con il tuo cane.",
       "tipsEn": [
         "Honfleur's Vieux Bassin and old town are almost entirely cobblestone streets, trim your dog's nails and consider paw protection for long days of walking on the uneven, slippery-when-wet stones.",
         "French leash norms apply in town: dogs must be kept on a leash in public gardens like the Jardin des Personnalités, with waste bag stations provided at some parks.",
@@ -1056,6 +1205,13 @@
         "De zomer (juli-augustus) brengt drukke toeristenmassa's rond de haven en in de smalle straatjes, wandel met je hond vroeg in de ochtend of 's avonds om het drukste voetgangersverkeer en hete kasseien te vermijden.",
         "De Seine-monding heeft een groot getijverschil; als je naar nabijgelegen stranden zoals Plage du Butin of Villerville gaat, check dan de getijtijden, want sommige stukken zijn voor honden alleen toegankelijk of veilig bij eb.",
         "Nabijgelegen stranden (Deauville, Villerville, Le Havre) leggen seizoensgebonden overdagbeperkingen op voor honden, ongeveer van mei tot september, plan het zwemmen vroeg in de ochtend, 's avonds of buiten het seizoen, en controleer altijd de actuele data ter plaatse, want ze kunnen licht variëren."
+      ],
+      "tipsIt": [
+        "Il Vieux Bassin e il centro storico di Honfleur sono quasi interamente lastricati di ciottoli, taglia le unghie del tuo cane e considera protezioni per le zampe per lunghe giornate di cammino su queste pietre irregolari e scivolose quando piove.",
+        "Le regole francesi sul guinzaglio valgono in città: i cani devono stare al guinzaglio nei giardini pubblici come il Jardin des Personnalités, con distributori di sacchetti in alcuni parchi.",
+        "L'estate (luglio-agosto) porta folle turistiche intorno al porto e nelle stradine strette, passeggia con il tuo cane presto al mattino o la sera per evitare il traffico pedonale più intenso e i ciottoli roventi.",
+        "L'estuario della Senna ha una forte escursione di marea; se vai in spiagge vicine come Plage du Butin o Villerville, controlla gli orari delle maree, perché alcuni tratti sono accessibili o sicuri per i cani solo con la bassa marea.",
+        "Le spiagge vicine (Deauville, Villerville, Le Havre) impongono limitazioni diurne stagionali per i cani, circa da maggio a settembre, pianifica il bagno presto al mattino, la sera o fuori stagione, e controlla sempre le date attuali sul posto, perché possono variare leggermente."
       ],
       "places": [],
       "faqsEn": [
@@ -1117,6 +1273,16 @@
           "q": "Wat is de beste tijd van het jaar om Honfleur met een hond te bezoeken?",
           "a": "Lente en herfst zijn ideaal: mild weer, minder drukte, en geen zomerse strandbeperkingen in de nabijgelegen kustplaatsen."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio cane deve stare al guinzaglio ovunque a Honfleur?",
+          "a": "In pratica sì. Le regole comunali francesi richiedono generalmente il guinzaglio nei giardini pubblici e negli spazi pubblici affollati, ed è anche la scelta più sicura sulle strade acciottolate e affollate di Honfleur."
+        },
+        {
+          "q": "Qual è il periodo migliore dell'anno per visitare Honfleur con un cane?",
+          "a": "Primavera e autunno sono ideali: clima mite, meno folla, e nessuna limitazione estiva sulle spiagge nelle vicine località costiere."
+        }
       ]
     },
     "attractions": {
@@ -1126,12 +1292,14 @@
       "titlePt": "Atrações pet-friendly em Honfleur",
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Honfleur",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Honfleur",
+      "titleIt": "Attrazioni pet-friendly a Honfleur",
       "introEn": "Honfleur's best-known sights are all outdoors and easy to enjoy with a leashed dog: the postcard harbour of the Vieux Bassin, the wooden bell tower of Église Sainte-Catherine, and the hillside chapel and viewpoint at Côte de Grâce.",
       "introFr": "Les sites les plus connus de Honfleur sont tous en plein air et faciles à découvrir avec un chien en laisse : le port emblématique du Vieux Bassin, le clocher en bois de l'Église Sainte-Catherine, et la chapelle et le point de vue de la Côte de Grâce sur la colline.",
       "introEs": "Los lugares más conocidos de Honfleur son todos al aire libre y fáciles de disfrutar con un perro con correa: el emblemático puerto del Vieux Bassin, el campanario de madera de la Église Sainte-Catherine, y la capilla y el mirador de la Côte de Grâce en la colina.",
       "introPt": "Os locais mais conhecidos de Honfleur são todos ao ar livre e fáceis de desfrutar com um cão com trela: o icónico porto do Vieux Bassin, o campanário de madeira da Église Sainte-Catherine, e a capela e o miradouro da Côte de Grâce na colina.",
       "introDe": "Die bekanntesten Sehenswürdigkeiten von Honfleur liegen alle im Freien und lassen sich mit einem Hund an der Leine gut erkunden: der malerische Hafen des Vieux Bassin, der hölzerne Glockenturm der Église Sainte-Catherine sowie die Kapelle und der Aussichtspunkt auf der Côte de Grâce.",
       "introNl": "De bekendste bezienswaardigheden van Honfleur zijn allemaal buiten en makkelijk te bezoeken met een hond aan de lijn: de pittoreske haven van het Vieux Bassin, de houten klokkentoren van de Église Sainte-Catherine, en de kapel en het uitzichtpunt van de Côte de Grâce op de heuvel.",
+      "introIt": "Le attrazioni più conosciute di Honfleur sono tutte all'aperto e facili da visitare con un cane al guinzaglio: il pittoresco porto del Vieux Bassin, il campanile di legno della Église Sainte-Catherine, e la cappella e il belvedere della Côte de Grâce sulla collina.",
       "tipsEn": [
         "Visit the Vieux Bassin at sunrise for photos without crowds and cooler cobblestones for your dog's paws.",
         "The walk from the harbour up to Côte de Grâce is a good half-day loop, easy leash walking with one of the best views in Normandy at the top."
@@ -1156,6 +1324,10 @@
         "Bezoek het Vieux Bassin bij zonsopgang voor foto's zonder drukte en koelere kasseien voor de poten van je hond.",
         "De wandeling van de haven naar de Côte de Grâce is een goede halvedagtocht, een makkelijke wandeling aan de lijn met een van de mooiste uitzichten van Normandië bovenaan."
       ],
+      "tipsIt": [
+        "Visita il Vieux Bassin all'alba per foto senza folla e ciottoli più freschi per le zampe del tuo cane.",
+        "La passeggiata dal porto alla Côte de Grâce è una buona gita di mezza giornata, una camminata facile al guinzaglio con una delle viste più belle della Normandia in cima."
+      ],
       "places": [
         {
           "name": "Vieux Bassin (Old Harbor)",
@@ -1169,7 +1341,8 @@
           "descriptionEs": "El emblemático puerto antiguo de Honfleur, bordeado de altas casas con fachadas de pizarra, es el corazón de la ciudad y un paseo llano y fácil con correa a lo largo de los muelles. Se llena mucho en temporada alta, así que un paseo temprano por la mañana es la forma más tranquila de verlo con un perro.",
           "descriptionPt": "O icónico porto antigo de Honfleur, ladeado por altas casas de fachada de ardósia, é o coração da vila e um passeio plano e fácil com trela ao longo dos cais. Fica muito cheio na época alta, por isso um passeio de manhã cedo é a forma mais tranquila de o ver com um cão.",
           "descriptionDe": "Honfleurs berühmter alter Hafen, gesäumt von hohen Häusern mit Schieferfassaden, ist das Herz der Stadt und ein flacher, einfacher Spaziergang an der Leine entlang der Kais. In der Hochsaison wird es sehr voll, ein früher Morgenspaziergang ist daher die ruhigste Art, ihn mit Hund zu erleben.",
-          "descriptionNl": "Honfleurs iconische oude haven, omzoomd door hoge huizen met leien gevels, is het hart van de stad en een vlakke, makkelijke wandeling aan de lijn langs de kades. Het wordt in het hoogseizoen erg druk, dus een vroege ochtendwandeling is de rustigste manier om het met een hond te bezoeken."
+          "descriptionNl": "Honfleurs iconische oude haven, omzoomd door hoge huizen met leien gevels, is het hart van de stad en een vlakke, makkelijke wandeling aan de lijn langs de kades. Het wordt in het hoogseizoen erg druk, dus een vroege ochtendwandeling is de rustigste manier om het met een hond te bezoeken.",
+          "descriptionIt": "Il porto vecchio iconico di Honfleur, circondato da alte case dalle facciate d'ardesia, è il cuore della città e una passeggiata pianeggiante e facile al guinzaglio lungo le banchine. Diventa molto affollato in alta stagione, quindi una passeggiata di primo mattino è il modo più tranquillo di visitarlo con un cane."
         },
         {
           "name": "Église Sainte-Catherine (exterior / wooden church)",
@@ -1183,7 +1356,8 @@
           "descriptionEs": "La iglesia de madera más grande de Francia, construida por carpinteros de ribera, domina su propia plaza con un campanario de madera separado al otro lado. El exterior y la plaza circundante son un espacio abierto donde un perro con correa no supone ningún problema; no está confirmado que el interior admita perros, así que planea admirarla desde fuera.",
           "descriptionPt": "A maior igreja de madeira de França, construída por carpinteiros navais, domina a sua própria praça com um campanário de madeira separado do outro lado. O exterior e a praça em redor são um espaço aberto onde um cão com trela não é problema; não está confirmado que o interior seja pet-friendly, por isso planeie admirá-la de fora.",
           "descriptionDe": "Frankreichs größte Holzkirche, von Schiffszimmerleuten erbaut, dominiert ihren eigenen Platz mit einem separaten hölzernen Glockenturm gegenüber. Das Äußere und der umliegende Platz sind ein offener Außenbereich, in dem ein Hund an der Leine kein Problem darstellt; ob der Innenraum hundefreundlich ist, ist nicht bestätigt, bewundern Sie ihn also von außen.",
-          "descriptionNl": "De grootste houten kerk van Frankrijk, gebouwd door scheepstimmerlieden, domineert haar eigen plein met een aparte houten klokkentoren aan de overkant. De buitenkant en het omliggende plein zijn een open buitenruimte waar een hond aan de lijn geen probleem is; of het interieur hondvriendelijk is, is niet bevestigd, bewonder de kerk dus vanaf buiten."
+          "descriptionNl": "De grootste houten kerk van Frankrijk, gebouwd door scheepstimmerlieden, domineert haar eigen plein met een aparte houten klokkentoren aan de overkant. De buitenkant en het omliggende plein zijn een open buitenruimte waar een hond aan de lijn geen probleem is; of het interieur hondvriendelijk is, is niet bevestigd, bewonder de kerk dus vanaf buiten.",
+          "descriptionIt": "La più grande chiesa di legno della Francia, costruita da carpentieri navali, domina la sua piazza con un campanile di legno separato dall'altro lato. L'esterno e la piazza circostante sono uno spazio aperto dove un cane al guinzaglio non è un problema; non è confermato se l'interno sia pet-friendly, quindi ammira la chiesa dall'esterno."
         },
         {
           "name": "Côte de Grâce chapel & viewpoint",
@@ -1196,7 +1370,8 @@
           "descriptionEs": "Una capilla de peregrinación del siglo XVII en la colina boscosa sobre la ciudad, con una terraza que da al estuario del Sena y al puente de Normandía. Los alrededores exteriores y el mirador son un paseo fácil con correa, ideal para combinar con el sendero hacia el mirador de Mont-Joli.",
           "descriptionPt": "Uma capela de peregrinação do século XVII na colina arborizada acima da vila, com um terraço com vista para o estuário do Sena e a ponte da Normandia. Os terrenos exteriores e o miradouro são um passeio fácil com trela, o ideal é combinar com o caminho até ao miradouro de Mont-Joli.",
           "descriptionDe": "Eine Wallfahrtskapelle aus dem 17. Jahrhundert auf dem bewaldeten Hügel über der Stadt, mit einer Terrasse mit Blick auf die Seine-Mündung und die Pont de Normandie. Das Außengelände und der Aussichtspunkt sind ein leichter Spaziergang an der Leine, am besten kombiniert mit dem Weg weiter zum Aussichtspunkt Mont-Joli.",
-          "descriptionNl": "Een 17e-eeuwse bedevaartskapel op de beboste heuvel boven de stad, met een terras met uitzicht op de Seine-monding en de Pont de Normandie. Het buitenterrein en het uitzichtpunt zijn een makkelijke wandeling aan de lijn, het beste te combineren met het pad verder naar het uitkijkpunt Mont-Joli."
+          "descriptionNl": "Een 17e-eeuwse bedevaartskapel op de beboste heuvel boven de stad, met een terras met uitzicht op de Seine-monding en de Pont de Normandie. Het buitenterrein en het uitzichtpunt zijn een makkelijke wandeling aan de lijn, het beste te combineren met het pad verder naar het uitkijkpunt Mont-Joli.",
+          "descriptionIt": "Una cappella di pellegrinaggio del XVII secolo sulla collina boscosa sopra la città, con una terrazza vista sull'estuario della Senna e sul Pont de Normandie. L'area esterna e il belvedere sono una facile passeggiata al guinzaglio, da combinare al meglio con il sentiero che prosegue verso il belvedere di Mont-Joli."
         }
       ],
       "faqsEn": [
@@ -1258,6 +1433,16 @@
           "q": "Wat is het mooiste hondvriendelijke uitzicht in Honfleur?",
           "a": "Het terras van de kapel Notre-Dame-de-Grâce op de heuvel Côte de Grâce, met uitzicht op de Seine-monding en de Pont de Normandie."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso entrare nella Église Sainte-Catherine con il mio cane?",
+          "a": "L'esterno e la piazza non sono un problema con un cane al guinzaglio, ma la politica per l'interno non è confermata, quindi è meglio ammirare la chiesa di legno dall'esterno."
+        },
+        {
+          "q": "Qual è la vista pet-friendly più bella di Honfleur?",
+          "a": "La terrazza della cappella Notre-Dame-de-Grâce sulla collina della Côte de Grâce, con vista sull'estuario della Senna e sul Pont de Normandie."
+        }
       ]
     },
     "petsitting": {
@@ -1267,12 +1452,14 @@
       "titlePt": "Pet-sitting e alojamento de cães em Honfleur",
       "titleDe": "Haustierbetreuung & Hundepension in Honfleur",
       "titleNl": "Huisdieroppas en hondenpension in Honfleur",
+      "titleIt": "Pet sitting e pensione per cani a Honfleur",
       "introEn": "Honfleur and the nearby Deauville area have a solid network of independent pet sitters, useful for a day trip that doesn't allow dogs or a long dinner out. The platforms below cover boarding, walking, and drop-in visits across the area.",
       "introFr": "Honfleur et la région voisine de Deauville disposent d'un solide réseau de gardiens d'animaux indépendants, utile pour une excursion à la journée n'acceptant pas les chiens ou un dîner prolongé. Les plateformes ci-dessous couvrent la pension, la promenade et les visites à domicile dans la région.",
       "introEs": "Honfleur y la cercana zona de Deauville cuentan con una sólida red de cuidadores de mascotas independientes, útil para una excursión de un día que no admite perros o una cena larga fuera. Las plataformas siguientes cubren alojamiento, paseos y visitas a domicilio en la zona.",
       "introPt": "Honfleur e a vizinha zona de Deauville têm uma sólida rede de cuidadores de animais independentes, útil para uma excursão de um dia que não admite cães ou um jantar demorado fora. As plataformas abaixo cobrem alojamento, passeios e visitas ao domicílio na região.",
       "introDe": "Honfleur und die nahegelegene Region Deauville verfügen über ein solides Netz unabhängiger Haustierbetreuer, nützlich für einen Tagesausflug ohne Hunde oder ein langes Abendessen. Die folgenden Plattformen decken Pension, Gassi-Gehen und Besuche vor Ort in der Region ab.",
       "introNl": "Honfleur en de nabijgelegen regio Deauville hebben een solide netwerk van zelfstandige huisdieroppassers, handig voor een dagtocht waar honden niet welkom zijn of een lang etentje. Onderstaande platforms bieden pension, uitlaatdiensten en huisbezoeken in de regio.",
+      "introIt": "Honfleur e la vicina regione di Deauville hanno una solida rete di pet sitter indipendenti, comoda per una gita dove i cani non sono ammessi o per una cena lunga. Le piattaforme qui sotto offrono pensione, servizi di dog walking e visite a domicilio nella zona.",
       "tipsEn": [
         "Book well ahead for July-August, sitters near Deauville and Honfleur fill up fast in high season.",
         "If you just need a couple of hours during a boat tour or museum visit, an hourly walker like Yoopies is more affordable than full-day boarding."
@@ -1297,6 +1484,10 @@
         "Boek voor juli-augustus ruim op tijd, oppassers bij Deauville en Honfleur zitten in het hoogseizoen snel vol.",
         "Heb je maar een paar uur nodig tijdens een boottochtje of museumbezoek, dan is een uitlaatdienst per uur zoals Yoopies voordeliger dan een hele dag pension."
       ],
+      "tipsIt": [
+        "Prenota con largo anticipo per luglio-agosto, i sitter vicino a Deauville e Honfleur si riempiono in fretta in alta stagione.",
+        "Se ti servono solo poche ore durante una gita in barca o una visita al museo, un servizio di dog walking orario come Yoopies conviene di più rispetto a una pensione per l'intera giornata."
+      ],
       "services": [
         {
           "name": "Rover (Honfleur-Deauville network)",
@@ -1308,12 +1499,14 @@
           "priceRangePt": "Cerca de 9-25 €/noite, mediana à volta de 20 €/noite",
           "priceRangeDe": "Etwa 9-25 €/Nacht, Median rund 20 €/Nacht",
           "priceRangeNl": "Ongeveer €9-25/nacht, mediaan rond €20/nacht",
+          "priceRangeIt": "Circa 9-25 €/notte, mediana intorno a 20 €/notte",
           "descriptionEn": "Rover's peer-to-peer network includes verified sitters covering Honfleur and Deauville, offering boarding, house-sitting, dog walking, and drop-in visits. Median boarding price is around €20 per night, with typical rates ranging roughly €9-25 per night.",
           "descriptionFr": "Le réseau entre particuliers de Rover comprend des gardiens vérifiés couvrant Honfleur et Deauville, proposant pension, garde à domicile, promenade et visites à domicile. Le prix médian de la pension est d'environ 20 € par nuit, avec des tarifs habituels allant d'environ 9 à 25 € par nuit.",
           "descriptionEs": "La red entre particulares de Rover incluye cuidadores verificados que cubren Honfleur y Deauville, con alojamiento, cuidado en casa, paseos y visitas a domicilio. El precio medio de alojamiento es de unos 20 € por noche, con tarifas habituales de entre 9 y 25 € por noche.",
           "descriptionPt": "A rede entre particulares da Rover inclui cuidadores verificados que cobrem Honfleur e Deauville, com alojamento, cuidado em casa, passeios e visitas ao domicílio. O preço mediano de alojamento ronda os 20 € por noite, com tarifas habituais entre 9 e 25 € por noite.",
           "descriptionDe": "Das Peer-to-Peer-Netzwerk von Rover umfasst geprüfte Betreuer in Honfleur und Deauville und bietet Pension, Haussitting, Gassi-Gehen und Besuche vor Ort. Der mittlere Pensionspreis liegt bei etwa 20 € pro Nacht, mit üblichen Tarifen zwischen etwa 9 und 25 € pro Nacht.",
-          "descriptionNl": "Het peer-to-peernetwerk van Rover omvat geverifieerde oppassers in Honfleur en Deauville, met pension, huisoppas, uitlaatdiensten en huisbezoeken. De mediane pensionprijs is ongeveer €20 per nacht, met gebruikelijke tarieven van ongeveer €9-25 per nacht."
+          "descriptionNl": "Het peer-to-peernetwerk van Rover omvat geverifieerde oppassers in Honfleur en Deauville, met pension, huisoppas, uitlaatdiensten en huisbezoeken. De mediane pensionprijs is ongeveer €20 per nacht, met gebruikelijke tarieven van ongeveer €9-25 per nacht.",
+          "descriptionIt": "La rete peer-to-peer di Rover include sitter verificati a Honfleur e Deauville, con pensione, dog sitting a domicilio, dog walking e visite a casa. Il prezzo mediano della pensione è di circa 20 € a notte, con tariffe comuni tra 9 e 25 € a notte."
         },
         {
           "name": "Holidog (Deauville area sitters)",
@@ -1325,12 +1518,14 @@
           "priceRangePt": "Varia consoante o cuidador",
           "priceRangeDe": "Variiert je nach Betreuer",
           "priceRangeNl": "Varieert per oppasser",
+          "priceRangeIt": "Varia per sitter",
           "descriptionEn": "A marketplace of independent pet sitters offering boarding and dog walking around Deauville, a short drive from Honfleur. Browse sitter profiles and reviews before booking.",
           "descriptionFr": "Une place de marché de gardiens d'animaux indépendants proposant pension et promenade autour de Deauville, à courte distance en voiture de Honfleur. Consultez les profils et avis des gardiens avant de réserver.",
           "descriptionEs": "Un mercado de cuidadores de mascotas independientes que ofrece alojamiento y paseos alrededor de Deauville, a poca distancia en coche de Honfleur. Consulta los perfiles y reseñas de los cuidadores antes de reservar.",
           "descriptionPt": "Um mercado de cuidadores de animais independentes que oferece alojamento e passeios em redor de Deauville, a curta distância de carro de Honfleur. Consulte os perfis e avaliações dos cuidadores antes de reservar.",
           "descriptionDe": "Ein Marktplatz unabhängiger Haustierbetreuer, der Pension und Gassi-Gehen rund um Deauville anbietet, kurze Autofahrt von Honfleur entfernt. Prüfen Sie die Profile und Bewertungen der Betreuer vor der Buchung.",
-          "descriptionNl": "Een marktplaats van zelfstandige huisdieroppassers met pension en uitlaatdiensten rond Deauville, een korte rit van Honfleur. Bekijk profielen en beoordelingen van oppassers voordat je boekt."
+          "descriptionNl": "Een marktplaats van zelfstandige huisdieroppassers met pension en uitlaatdiensten rond Deauville, een korte rit van Honfleur. Bekijk profielen en beoordelingen van oppassers voordat je boekt.",
+          "descriptionIt": "Un marketplace di pet sitter indipendenti con pensione e dog walking intorno a Deauville, a breve distanza da Honfleur. Guarda i profili e le recensioni dei sitter prima di prenotare."
         },
         {
           "name": "Yoopies (Deauville dog sitting)",
@@ -1342,12 +1537,14 @@
           "priceRangePt": "A partir de cerca de 7 €/hora",
           "priceRangeDe": "Ab etwa 7 €/Stunde",
           "priceRangeNl": "Vanaf ongeveer €7/uur",
+          "priceRangeIt": "A partire da circa 7 €/ora",
           "descriptionEn": "An hourly dog-sitting and walking marketplace covering the Deauville area, with rates starting around €7 per hour. Useful for short-notice walks or visits while you explore Honfleur.",
           "descriptionFr": "Une place de marché de garde et promenade de chiens à l'heure couvrant la région de Deauville, avec des tarifs à partir d'environ 7 € de l'heure. Utile pour des promenades ou visites de dernière minute pendant que vous explorez Honfleur.",
           "descriptionEs": "Un mercado de cuidado y paseo de perros por horas que cubre la zona de Deauville, con tarifas desde unos 7 € por hora. Útil para paseos o visitas de última hora mientras exploras Honfleur.",
           "descriptionPt": "Um mercado de cuidado e passeio de cães por hora que cobre a zona de Deauville, com tarifas a partir de cerca de 7 € por hora. Útil para passeios ou visitas de última hora enquanto explora Honfleur.",
           "descriptionDe": "Ein stundenweiser Marktplatz für Hundebetreuung und Gassi-Gehen rund um Deauville, mit Tarifen ab etwa 7 € pro Stunde. Nützlich für kurzfristige Spaziergänge oder Besuche, während Sie Honfleur erkunden.",
-          "descriptionNl": "Een marktplaats voor hondenoppas en uitlaten per uur in de regio Deauville, met tarieven vanaf ongeveer €7 per uur. Handig voor wandelingen of bezoeken op korte termijn terwijl je Honfleur verkent."
+          "descriptionNl": "Een marktplaats voor hondenoppas en uitlaten per uur in de regio Deauville, met tarieven vanaf ongeveer €7 per uur. Handig voor wandelingen of bezoeken op korte termijn terwijl je Honfleur verkent.",
+          "descriptionIt": "Un marketplace per pet sitting e dog walking orario nella regione di Deauville, con tariffe a partire da circa 7 € all'ora. Comodo per passeggiate o visite brevi mentre esplori Honfleur."
         }
       ],
       "faqsEn": [
@@ -1408,6 +1605,16 @@
         {
           "q": "Kan ik een hondenuitlater boeken voor maar een paar uur?",
           "a": "Ja, Yoopies biedt hondenoppas en uitlaten per uur in de regio Deauville, vanaf ongeveer €7 per uur, handig terwijl je plekken bezoekt waar honden niet welkom zijn."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è una pensione per cani vicino a Honfleur?",
+          "a": "Sì, piattaforme come Rover e Holidog elencano sitter indipendenti che coprono Honfleur e la vicina regione di Deauville, con prezzi di pensione generalmente tra 9 e 25 € a notte."
+        },
+        {
+          "q": "Posso prenotare un dog walker per solo poche ore?",
+          "a": "Sì, Yoopies offre pet sitting e dog walking orario nella regione di Deauville, a partire da circa 7 € all'ora, comodo mentre visiti posti dove i cani non sono ammessi."
         }
       ]
     }

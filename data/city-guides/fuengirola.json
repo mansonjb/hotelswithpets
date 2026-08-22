@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Chiringuito+La+Mar+Sala+Fuengirola",
           "descriptionDe": "Ein Strand-Chiringuito am Paseo Marítimo, das gegrillte Sardinenspieße (Espetos) und frischen Fisch serviert, fast mit den Füßen im Sand. Angeleinte Hunde sind auf der Freiluftterrasse willkommen, und das Personal bringt meist eine Wasserschale.",
           "descriptionNl": "Een strand-chiringuito aan de Paseo Marítimo, waar gegrilde sardinespiesjes (espetos) en verse vis geserveerd worden, bijna met de voeten in het zand. Aangelijnde honden zijn welkom op het buitenterras, en het personeel brengt meestal een waterbakje.",
+          "descriptionIt": "Un chiringuito sulla spiaggia lungo il Paseo Marítimo, dove si servono spiedini di sardine alla griglia (espetos) e pesce fresco, quasi con i piedi nella sabbia. I cani al guinzaglio sono benvenuti in terrazza, e lo staff di solito porta una ciotola d'acqua.",
           "petPolicyDe": "Angeleinte Hunde auf der Außenterrasse willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op het buitenterras",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza",
           "mustTryDe": "Espeto de sardinas, über der Strandfeuerstelle gegrillt",
           "mustTryNl": "Espeto de sardinas, gegrild boven het strandvuur",
+          "mustTryIt": "Espeto de sardinas, grigliato sul fuoco di spiaggia",
           "tipDe": "An heißen Nachmittagen nach einem schattigen Tisch hinten fragen, damit der Hund nicht auf den heißen Terrassenplanken sitzen muss",
-          "tipNl": "Vraag op hete middagen om een schaduwrijk tafeltje achteraan, zodat de hond niet op de hete terrasplanken hoeft te zitten"
+          "tipNl": "Vraag op hete middagen om een schaduwrijk tafeltje achteraan, zodat de hond niet op de hete terrasplanken hoeft te zitten",
+          "tipIt": "Nei pomeriggi caldi chiedi un tavolo ombreggiato in fondo, così il cane non deve stare sulle assi calde della terrazza"
         },
         {
           "name": "Chiringuito Botavara Playa",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Chiringuito+Botavara+Playa+Fuengirola",
           "descriptionDe": "Eine entspannte Strandbar am Paseo Marítimo Rey de España, bekannt dafür, vierbeinige Gäste mit einer Wasserschale und oft einem kleinen Leckerli zu verwöhnen. Die Terrassentische stehen direkt an der Promenade mit Meerblick.",
           "descriptionNl": "Een ontspannen strandbar aan de Paseo Marítimo Rey de España, bekend om viervoetige gasten te verwennen met een waterbakje en vaak een klein hapje. De terrastafels staan direct aan de boulevard met zeezicht.",
+          "descriptionIt": "Un bar da spiaggia rilassato sul Paseo Marítimo Rey de España, noto per coccolare gli ospiti a quattro zampe con una ciotola d'acqua e spesso un piccolo snack. I tavoli in terrazza sono proprio sul lungomare con vista sul mare.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen, Wasserschale wird gestellt",
           "petPolicyNl": "Honden welkom op het terras, waterbakje wordt neergezet",
+          "petPolicyIt": "Cani benvenuti in terrazza, viene messa fuori una ciotola d'acqua",
           "mustTryDe": "Fritura malagueña (frittierte Fischplatte)",
           "mustTryNl": "Fritura malagueña (gefrituurde visschotel)",
+          "mustTryIt": "Fritura malagueña (fritto misto di pesce)",
           "tipDe": "Kurzer Fußweg von den zentralen Stränden, lässt sich gut mit einem Spaziergang auf der Promenade verbinden",
-          "tipNl": "Korte wandeling van de centrale stranden, goed te combineren met een wandeling op de boulevard"
+          "tipNl": "Korte wandeling van de centrale stranden, goed te combineren met een wandeling op de boulevard",
+          "tipIt": "Breve passeggiata dalle spiagge centrali, si combina bene con una camminata sul lungomare"
         },
         {
           "name": "Chiringuito Santa Gema",
@@ -110,12 +118,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Chiringuito+Santa+Gema+Fuengirola",
           "descriptionDe": "Ein Chiringuito direkt neben dem Hundestrand Castillo Sohail, dessen Terrasse sich nach dem Schwimmen naturgemäß mit Hunden und ihren Haltern füllt. Der bequemste Mittagsstopp, wenn man den Tag an der playa canina verbringt.",
           "descriptionNl": "Een chiringuito direct naast het hondenstrand Castillo Sohail, waarvan het terras zich na het zwemmen vanzelf vult met honden en hun eigenaars. De handigste lunchstop als je de dag doorbrengt op de playa canina.",
+          "descriptionIt": "Un chiringuito proprio accanto alla spiaggia per cani Castillo Sohail, la cui terrazza dopo il bagno si riempie naturalmente di cani e i loro proprietari. La sosta pranzo più comoda se passi la giornata sulla playa canina.",
           "petPolicyDe": "Hunde willkommen, beliebt bei Besuchern des Hundestrands",
           "petPolicyNl": "Honden welkom, populair bij bezoekers van het hondenstrand",
+          "petPolicyIt": "Cani benvenuti, popolare tra i frequentatori della spiaggia per cani",
           "mustTryDe": "Paella und ein kaltes Bier nach einem Vormittag am Strand",
           "mustTryNl": "Paella en een koud biertje na een ochtend op het strand",
+          "mustTryIt": "Paella e una birra fresca dopo una mattinata in spiaggia",
           "tipDe": "Den Hund vor dem Hinsetzen an den Strandduschen abspülen, damit sandige Pfoten andere Gäste nicht stören",
-          "tipNl": "Spoel de hond af bij de stranddouches voordat je gaat zitten, zodat zanderige poten andere gasten niet storen"
+          "tipNl": "Spoel de hond af bij de stranddouches voordat je gaat zitten, zodat zanderige poten andere gasten niet storen",
+          "tipIt": "Risciacqua il cane alle docce della spiaggia prima di sederti, così le zampe sabbiose non disturbano gli altri ospiti"
         }
       ],
       "tipsEn": [
@@ -180,8 +192,10 @@
       ],
       "titleDe": "Hundefreundliche Restaurants in Fuengirola",
       "titleNl": "Hondvriendelijke restaurants in Fuengirola",
+      "titleIt": "Ristoranti pet-friendly a Fuengirola",
       "introDe": "Der 7 km lange Paseo Marítimo von Fuengirola, die längste Strandpromenade der Costa del Sol, ist gesäumt von Strand-Chiringuitos, die angeleinte Hunde auf ihren Terrassen willkommen heißen. Abseits vom Sand gibt es in der Altstadt und in Los Boliches ungezwungene Cafés, die gern eine Wasserschale bereitstellen.",
       "introNl": "De 7 km lange Paseo Marítimo van Fuengirola, de langste strandboulevard van de Costa del Sol, is omzoomd met strand-chiringuitos die aangelijnde honden welkom heten op hun terrassen. Verder van het strand af zijn er in de oude stad en Los Boliches informele cafés die graag een waterbakje neerzetten.",
+      "introIt": "Il Paseo Marítimo di Fuengirola, lungo 7 km e il lungomare più lungo della Costa del Sol, è costeggiato da chiringuitos che accolgono cani al guinzaglio sulle loro terrazze. Più lontano dalla spiaggia, nel centro storico e a Los Boliches ci sono caffè informali che volentieri mettono fuori una ciotola d'acqua.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund mit in ein Chiringuito in Fuengirola nehmen?",
@@ -200,6 +214,16 @@
         {
           "q": "Zijn er hondvriendelijke cafés verder van het strand af?",
           "a": "Ja. Het toeristenbureau van Fuengirola promoot de stad als huisdiervriendelijk en vermeldt cafés en tapasbars in de oude stad en Los Boliches die honden welkom heten op hun terrassen. Het is altijd beleefd om dit aan de deur te bevestigen."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane in un chiringuito a Fuengirola?",
+          "a": "Sì. I chiringuitos aperti lungo i 7 km del Paseo Marítimo di solito accolgono cani al guinzaglio nelle loro terrazze, e molti tengono ciotole d'acqua pronte per gli ospiti a quattro zampe. Gli spazi interni sono a discrezione del singolo proprietario, quindi in caso di dubbio chiedi alla porta."
+        },
+        {
+          "q": "Ci sono caffè pet-friendly più lontano dalla spiaggia?",
+          "a": "Sì. L'ufficio del turismo di Fuengirola promuove la città come pet-friendly e segnala caffè e bar di tapas nel centro storico e a Los Boliches che accolgono cani nelle loro terrazze. È sempre educato confermarlo alla porta."
         }
       ]
     },
@@ -234,10 +258,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parque+Rio+Fuengirola",
           "descriptionDe": "Ein großer grüner Uferpark an der Mündung des Río Fuengirola unterhalb der Burg Sohail, mit Basketballplätzen, Tischtennisplatten, Spielplätzen und einer eingezäunten Zone für Hunde. Er ist direkt mit dem Hundestrand Castillo Sohail verbunden, sodass sich Auslauf und Bad verbinden lassen.",
           "descriptionNl": "Een groot groen oeverpark bij de monding van de Río Fuengirola onder het kasteel Sohail, met basketbalvelden, tafeltennistafels, speeltuinen en een omheinde zone voor honden. Het is direct verbonden met het hondenstrand Castillo Sohail, zodat uitlaten en zwemmen te combineren zijn.",
+          "descriptionIt": "Un grande parco verde lungo il fiume alla foce del Río Fuengirola sotto il castello di Sohail, con campi da basket, tavoli da ping pong, parchi giochi e un'area recintata per cani. È collegato direttamente alla spiaggia per cani Castillo Sohail, così passeggiata e bagno si combinano facilmente.",
           "offLeashAreaDe": "Eingezäunte Hundezone innerhalb des Parks",
           "offLeashAreaNl": "Omheinde hondenzone binnen het park",
+          "offLeashAreaIt": "Area cani recintata dentro il parco",
           "tipDe": "Wasser mitbringen, das Ufergebiet bietet im Hochsommer wenig natürlichen Schatten",
-          "tipNl": "Neem water mee, het oevergebied biedt in de hoogzomer weinig natuurlijke schaduw"
+          "tipNl": "Neem water mee, het oevergebied biedt in de hoogzomer weinig natuurlijke schaduw",
+          "tipIt": "Porta acqua con te, la zona lungo il fiume offre poca ombra naturale in piena estate"
         },
         {
           "name": "Parque Canino de Los Boliches",
@@ -260,10 +287,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parque+Canino+Los+Boliches+Fuengirola",
           "descriptionDe": "Einer der eingezäunten Nachbarschafts-Hundeparks von Fuengirola im Stadtteil Los Boliches, der Hunden im Landesinneren einen sicheren, verkehrsfreien Freilaufbereich bietet. Diese parques caninos sind die einzigen Orte in der Stadt, an denen Hunde legal frei laufen dürfen.",
           "descriptionNl": "Een van de omheinde buurthondenparken van Fuengirola in de wijk Los Boliches, die honden landinwaarts een veilige, verkeersvrije losloopzone biedt. Deze parques caninos zijn de enige plekken in de stad waar honden legaal los mogen lopen.",
+          "descriptionIt": "Uno dei parchi per cani recintati di quartiere di Fuengirola, nel quartiere di Los Boliches, che offre ai cani nell'entroterra un'area sgambamento sicura e senza traffico. Questi parques caninos sono gli unici posti in città dove i cani possono legalmente stare liberi.",
           "offLeashAreaDe": "Gesamtes eingezäuntes Gelände",
           "offLeashAreaNl": "Volledig omheind terrein",
+          "offLeashAreaIt": "Area completamente recintata",
           "tipDe": "Im Sommer früh morgens oder abends kommen, um die Mittagshitze auf dem Sandboden zu vermeiden",
-          "tipNl": "Kom in de zomer 's ochtends vroeg of 's avonds om de middaghitte op de zandbodem te vermijden"
+          "tipNl": "Kom in de zomer 's ochtends vroeg of 's avonds om de middaghitte op de zandbodem te vermijden",
+          "tipIt": "In estate vieni presto al mattino o la sera per evitare il caldo di mezzogiorno sul terreno sabbioso"
         },
         {
           "name": "Senda Litoral de Fuengirola",
@@ -286,10 +316,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Senda+Litoral+Fuengirola",
           "descriptionDe": "Die Holzpromenade Senda Litoral verlängert den Paseo Marítimo über die gesamte 7 km lange Küste und bietet eine flache Route mit Leinenpflicht, Meeresbrise und zahlreichen Chiringuito-Stopps. Die einfachste ganzjährige Auslaufstrecke für Hunde, die im Zentrum von Fuengirola wohnen.",
           "descriptionNl": "De houten promenade Senda Litoral verlengt de Paseo Marítimo over de gehele 7 km lange kustlijn en biedt een vlakke route met aanlijnplicht, zeebries en tal van chiringuito-stops. De eenvoudigste uitlaatroute het hele jaar door voor honden die in het centrum van Fuengirola wonen.",
+          "descriptionIt": "La passerella in legno Senda Litoral prolunga il Paseo Marítimo lungo tutti i 7 km di costa e offre un percorso pianeggiante con obbligo di guinzaglio, brezza marina e tante soste ai chiringuitos. Il percorso più semplice tutto l'anno per i cani che vivono nel centro di Fuengirola.",
           "offLeashAreaDe": "Nur an der Leine",
           "offLeashAreaNl": "Alleen aan de lijn",
+          "offLeashAreaIt": "Solo al guinzaglio",
           "tipDe": "Die Promenade verbindet die zentralen Strände mit dem Hundestrand Castillo Sohail am südlichen Ende",
-          "tipNl": "De promenade verbindt de centrale stranden met het hondenstrand Castillo Sohail aan het zuidelijke eind"
+          "tipNl": "De promenade verbindt de centrale stranden met het hondenstrand Castillo Sohail aan het zuidelijke eind",
+          "tipIt": "La passerella collega le spiagge centrali alla spiaggia per cani Castillo Sohail all'estremità sud"
         }
       ],
       "tipsEn": [
@@ -354,8 +387,10 @@
       ],
       "titleDe": "Hundeparks & Grünflächen in Fuengirola",
       "titleNl": "Hondenparken & groene ruimtes in Fuengirola",
+      "titleIt": "Parchi per cani e spazi verdi a Fuengirola",
       "introDe": "Fuengirola bezeichnet sich selbst als haustierfreundliche Stadt und verfügt über rund sieben eingezäunte städtische Hundeparks (parques caninos), in denen Hunde frei laufen dürfen, sowie den großen Uferpark an der Mündung des Río Fuengirola. Überall sonst gilt nach andalusischen Regeln Leinenpflicht für Hunde.",
       "introNl": "Fuengirola noemt zichzelf een huisdiervriendelijke stad en beschikt over ongeveer zeven omheinde gemeentelijke hondenparken (parques caninos), waar honden los mogen lopen, plus het grote oeverpark bij de monding van de Río Fuengirola. Overal elders geldt volgens Andalusische regels aanlijnplicht voor honden.",
+      "introIt": "Fuengirola si definisce una città pet-friendly e dispone di circa sette parchi comunali recintati per cani (parques caninos), dove i cani possono stare liberi, oltre al grande parco lungo il fiume alla foce del Río Fuengirola. Ovunque altrove vale l'obbligo del guinzaglio secondo le norme andaluse.",
       "faqsDe": [
         {
           "q": "Wo darf mein Hund in Fuengirola ohne Leine laufen?",
@@ -374,6 +409,16 @@
         {
           "q": "Is er een groot park in de buurt van het hondenstrand?",
           "a": "Ja. Het oeverpark Parque del Río Fuengirola ligt onder het kasteel Sohail direct bij het hondenstrand, met een omheinde hondenzone, sportvelden en speeltuinen, zodat uitlaten in het park te combineren is met een duik in zee."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Dove può il mio cane stare libero senza guinzaglio a Fuengirola?",
+          "a": "Solo dentro i parchi comunali recintati per cani della città (ce ne sono circa sette) e sulla spiaggia per cani Castillo Sohail. In tutte le altre strade, lungomari e parchi i cani devono stare al guinzaglio secondo le norme andaluse."
+        },
+        {
+          "q": "C'è un grande parco vicino alla spiaggia per cani?",
+          "a": "Sì. Il parco lungo il fiume Parque del Río Fuengirola si trova sotto il castello di Sohail proprio accanto alla spiaggia per cani, con un'area cani recintata, campi sportivi e parchi giochi, così la passeggiata nel parco si combina con un tuffo in mare."
         }
       ]
     },
@@ -484,8 +529,10 @@
       ],
       "titleDe": "Mit Hund unterwegs in Fuengirola",
       "titleNl": "Met hond onderweg in Fuengirola",
+      "titleIt": "Con il cane in giro a Fuengirola",
       "introDe": "Fuengirola ist die südliche Endstation der Renfe-Cercanías-Linie C-1, die direkt vom Flughafen Málaga (AGP) und der Stadt Málaga entlang der Küste verläuft, und auf den Cercanías-Zügen reisen Hunde jeder Größe kostenlos mit, sofern sie an der Leine geführt werden und einen Maulkorb tragen. Damit ist Fuengirola einer der einfachsten Stützpunkte an der Costa del Sol, um mit Hund und ohne Auto anzureisen.",
       "introNl": "Fuengirola is het zuidelijke eindpunt van de Renfe Cercanías-lijn C-1, die rechtstreeks vanaf luchthaven Málaga (AGP) en de stad Málaga langs de kust loopt, en op de Cercanías-treinen reizen honden van elk formaat gratis mee, mits aangelijnd en met muilkorf. Daarmee is Fuengirola een van de eenvoudigste uitvalsbases aan de Costa del Sol om met hond en zonder auto te bereizen.",
+      "introIt": "Fuengirola è il capolinea meridionale della linea Renfe Cercanías C-1, che collega direttamente l'aeroporto di Malaga (AGP) e la città di Malaga lungo la costa, e sui treni Cercanías i cani di qualsiasi taglia viaggiano gratis, purché al guinzaglio e con museruola. Questo rende Fuengirola una delle basi più semplici della Costa del Sol da esplorare con il cane e senza auto.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund im Zug vom Flughafen Málaga nach Fuengirola mitnehmen?",
@@ -504,6 +551,16 @@
         {
           "q": "Hebben honden een muilkorf nodig in het openbaar vervoer van Fuengirola?",
           "a": "In de Cercanías-trein zijn lijn en muilkorf verplicht voor alle honden, ook als geen draagtas nodig is. In bussen en taxi's variëren de regels, en grotere honden zijn vaak beperkt tot de trein, dus plan voor elke grote hond de trein in."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane in treno dall'aeroporto di Malaga a Fuengirola?",
+          "a": "Sì. La linea Renfe Cercanías C-1 va direttamente dall'aeroporto di Malaga a Fuengirola, e sui treni Cercanías i cani di qualsiasi taglia viaggiano gratis, purché al guinzaglio e con museruola. Arrivare con il cane e senza auto è quindi semplice."
+        },
+        {
+          "q": "I cani hanno bisogno della museruola sui mezzi pubblici a Fuengirola?",
+          "a": "Sul treno Cercanías guinzaglio e museruola sono obbligatori per tutti i cani, anche quando non serve il trasportino. Su autobus e taxi le regole variano, e i cani più grandi sono spesso limitati al treno, quindi per un cane grande punta sempre sul treno."
         }
       ]
     },
@@ -526,18 +583,21 @@
           "descriptionPt": "A praia canina oficial de Fuengirola, aberta desde 2014 e uma das primeiras da província de Málaga, é um trecho vedado de mais de 3.000 m² (cerca de 83 m de costa) junto ao Castillo Sohail, onde os cães podem nadar e correr livres todo o ano, verão incluído. Fica mesmo ao lado do parque fluvial, pelo que um dia de praia e um passeio pelo parque se combinam facilmente.",
           "descriptionDe": "Fuengirolas offizieller Hundestrand, seit 2014 geöffnet und einer der ersten in der Provinz Málaga, ist ein eingezäunter Abschnitt von über 3.000 m² (etwa 83 m Küstenlinie) neben der Burg Sohail, an dem Hunde das ganze Jahr über, auch im Sommer, frei schwimmen und laufen können. Er liegt direkt neben dem Uferpark, sodass sich ein Strandtag und ein Parkspaziergang leicht verbinden lassen.",
           "descriptionNl": "Het officiële hondenstrand van Fuengirola, geopend sinds 2014 en een van de eerste in de provincie Málaga, is een omheind gedeelte van meer dan 3.000 m² (ongeveer 83 m kustlijn) naast het kasteel Sohail, waar honden het hele jaar door, ook in de zomer, vrij mogen zwemmen en lopen. Het ligt direct naast het oeverpark, zodat een strandddag en een wandeling in het park makkelijk te combineren zijn.",
+          "descriptionIt": "La spiaggia per cani ufficiale di Fuengirola, aperta dal 2014 e tra le prime nella provincia di Malaga, è un tratto recintato di oltre 3.000 m² (circa 83 m di costa) accanto al castello di Sohail, dove i cani possono nuotare e camminare liberamente tutto l'anno, anche d'estate. Si trova proprio accanto al parco lungo il fiume, così una giornata in spiaggia e una passeggiata nel parco si combinano facilmente.",
           "season": "Year-round, including the summer bathing season",
           "seasonFr": "Toute l'année, y compris la saison de baignade estivale",
           "seasonEs": "Todo el año, incluida la temporada de baño estival",
           "seasonPt": "Todo o ano, incluindo a época balnear de verão",
           "seasonDe": "Ganzjährig, einschließlich der sommerlichen Badesaison",
           "seasonNl": "Het hele jaar door, inclusief het zomerse zwemseizoen",
+          "seasonIt": "Tutto l'anno, inclusa la stagione balneare estiva",
           "rules": "Dogs must carry vaccination documentation; dogs over 20 kg must wear a muzzle, and breeds classified as potentially dangerous (PPP) are not admitted. Access hours are 10:00 to 23:00 in summer and 10:00 to 21:00 in winter, and owners must pick up waste.",
           "rulesFr": "Les chiens doivent avoir leurs documents de vaccination ; les chiens de plus de 20 kg doivent porter une muselière, et les races classées comme potentiellement dangereuses (PPP) ne sont pas admises. Les horaires d'accès sont de 10h00 à 23h00 en été et de 10h00 à 21h00 en hiver, et les propriétaires doivent ramasser les déjections.",
           "rulesEs": "Los perros deben llevar la documentación de vacunación; los perros de más de 20 kg deben llevar bozal, y las razas clasificadas como potencialmente peligrosas (PPP) no están admitidas. El horario de acceso es de 10:00 a 23:00 en verano y de 10:00 a 21:00 en invierno, y los dueños deben recoger los excrementos.",
           "rulesPt": "Os cães devem trazer a documentação de vacinação; os cães com mais de 20 kg devem usar açaime, e as raças classificadas como potencialmente perigosas (PPP) não são admitidas. O horário de acesso é das 10:00 às 23:00 no verão e das 10:00 às 21:00 no inverno, e os donos devem recolher os dejetos.",
           "rulesDe": "Hunde müssen einen Impfnachweis mitführen; Hunde über 20 kg müssen einen Maulkorb tragen, und als potenziell gefährlich eingestufte Rassen (PPP) sind nicht zugelassen. Die Zugangszeiten sind im Sommer 10:00 bis 23:00 Uhr und im Winter 10:00 bis 21:00 Uhr, und die Halter müssen die Hinterlassenschaften entfernen.",
           "rulesNl": "Honden moeten een vaccinatiebewijs bij zich hebben; honden boven 20 kg moeten een muilkorf dragen, en als potentieel gevaarlijk aangemerkte rassen (PPP) zijn niet toegestaan. De toegangstijden zijn in de zomer 10:00 tot 23:00 uur en in de winter 10:00 tot 21:00 uur, en eigenaars moeten uitwerpselen opruimen.",
+          "rulesIt": "I cani devono avere con sé il certificato di vaccinazione; i cani sopra i 20 kg devono indossare la museruola, e le razze classificate come potenzialmente pericolose (PPP) non sono ammesse. Gli orari di accesso sono dalle 10:00 alle 23:00 d'estate e dalle 10:00 alle 21:00 d'inverno, e i proprietari devono raccogliere gli escrementi.",
           "facilities": "Fenced enclosure, two dog showers, paw-wash points, a freshwater drinking fountain for pets, and the riverside park and Chiringuito Santa Gema nearby",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+Canina+Castillo+Sohail+Fuengirola",
           "photo": ""
@@ -551,18 +611,21 @@
           "descriptionPt": "As longas praias centrais de Fuengirola, ladeadas pelo Paseo Marítimo, são areais familiares animados com chiringuitos e espreguiçadeiras, mas sem cães durante a época balnear. Fora de época (aproximadamente de outubro à Páscoa) a ordenança municipal permite passear com o cão preso, embora a opção de banho durante todo o ano continue a ser a praia canina do Castillo Sohail.",
           "descriptionDe": "Fuengirolas lange zentrale Strände, gesäumt vom Paseo Marítimo, sind lebendige Familienstrände mit Chiringuitos und Liegen, aber ohne Hunde während der Badesaison. Außerhalb der Saison (etwa Oktober bis Ostern) erlaubt die Gemeindeverordnung angeleinten Hunden hier spazieren zu gehen, wobei die ganzjährige Schwimmoption weiterhin der Hundestrand Castillo Sohail bleibt.",
           "descriptionNl": "De lange centrale stranden van Fuengirola, omzoomd door de Paseo Marítimo, zijn levendige gezinsstranden met chiringuitos en ligstoelen, maar zonder honden tijdens het zwemseizoen. Buiten het seizoen (ongeveer oktober tot Pasen) staat de gemeentelijke verordening aangelijnde honden hier toe, waarbij de hele-jaar-door zwemoptie het hondenstrand Castillo Sohail blijft.",
+          "descriptionIt": "Le lunghe spiagge centrali di Fuengirola, costeggiate dal Paseo Marítimo, sono vivaci spiagge di famiglia con chiringuitos e lettini, ma senza cani durante la stagione balneare. Fuori stagione (circa da ottobre a Pasqua) l'ordinanza comunale ammette qui i cani al guinzaglio, mentre l'opzione balneare tutto l'anno resta la spiaggia per cani Castillo Sohail.",
           "season": "Dogs banned 1 June to 30 September; leashed dogs allowed off-season",
           "seasonFr": "Chiens interdits du 1er juin au 30 septembre ; chiens en laisse autorisés hors saison",
           "seasonEs": "Perros prohibidos del 1 de junio al 30 de septiembre; perros con correa permitidos fuera de temporada",
           "seasonPt": "Cães proibidos de 1 de junho a 30 de setembro; cães com trela permitidos fora de época",
           "seasonDe": "Hunde vom 1. Juni bis 30. September verboten; angeleinte Hunde außerhalb der Saison erlaubt",
           "seasonNl": "Honden verboden van 1 juni tot 30 september; aangelijnde honden buiten het seizoen toegestaan",
+          "seasonIt": "Cani vietati dal 1 giugno al 30 settembre; cani al guinzaglio ammessi fuori stagione",
           "rules": "During the bathing season dogs are not permitted on the sand or in the water, with fines from 100 euros. Off-season dogs must be leashed and owners must pick up waste.",
           "rulesFr": "Pendant la saison de baignade, les chiens ne sont pas autorisés sur le sable ni dans l'eau, sous peine d'amendes à partir de 100 euros. Hors saison, les chiens doivent être tenus en laisse et les propriétaires doivent ramasser les déjections.",
           "rulesEs": "Durante la temporada de baño no se permiten perros en la arena ni en el agua, con multas desde 100 euros. Fuera de temporada los perros deben ir con correa y los dueños deben recoger los excrementos.",
           "rulesPt": "Durante a época balnear não são permitidos cães na areia nem na água, com multas a partir de 100 euros. Fora de época os cães devem andar com trela e os donos devem recolher os dejetos.",
           "rulesDe": "Während der Badesaison sind Hunde weder am Sand noch im Wasser erlaubt, mit Bußgeldern ab 100 Euro. Außerhalb der Saison müssen Hunde angeleint sein, und die Halter müssen die Hinterlassenschaften entfernen.",
           "rulesNl": "Tijdens het zwemseizoen zijn honden noch op het zand noch in het water toegestaan, met boetes vanaf 100 euro. Buiten het seizoen moeten honden aangelijnd zijn, en eigenaars moeten uitwerpselen opruimen.",
+          "rulesIt": "Durante la stagione balneare i cani non sono ammessi né sulla sabbia né in acqua, con multe a partire da 100 euro. Fuori stagione i cani devono stare al guinzaglio, e i proprietari devono raccogliere gli escrementi.",
           "facilities": "Chiringuitos, sunbeds, showers, promenade access; no dog-specific facilities",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+Los+Boliches+Fuengirola",
           "photo": "/images/city-places/fuengirola-beaches-playa-de-los-boliches-las-gaviotas.jpg"
@@ -576,18 +639,21 @@
           "descriptionPt": "As praias mais tranquilas a leste, em torno de Carvajal e Torreblanca, são calas bonitas e areais abertos, facilmente alcançáveis pelo comboio C-1, mas seguem a mesma regra das praias principais da cidade. Os cães estão vedados na época balnear e só são admitidos fora de época com trela, por isso planeie os banhos na praia canina no verão.",
           "descriptionDe": "Die ruhigeren östlichen Strände rund um Carvajal und Torreblanca sind hübsche Buchten und offener Sand, leicht erreichbar mit dem C-1-Zug, folgen aber derselben Regel wie die Hauptstrände der Stadt. Hunde sind während der Badesaison nicht zugelassen und nur außerhalb der Saison angeleint erlaubt, planen Sie das Schwimmen im Sommer also am Hundestrand.",
           "descriptionNl": "De rustigere oostelijke stranden rond Carvajal en Torreblanca zijn mooie baaien en open zand, gemakkelijk bereikbaar met de C-1-trein, maar volgen dezelfde regel als de hoofdstranden van de stad. Honden zijn tijdens het zwemseizoen niet toegestaan en alleen buiten het seizoen aan de lijn toegestaan, plan het zomerse zwemmen dus op het hondenstrand.",
+          "descriptionIt": "Le spiagge orientali più tranquille intorno a Carvajal e Torreblanca sono belle baie di sabbia aperta, facilmente raggiungibili con il treno C-1, ma seguono la stessa regola delle spiagge principali della città. I cani non sono ammessi durante la stagione balneare e sono ammessi al guinzaglio solo fuori stagione, quindi pianifica il bagno estivo sulla spiaggia per cani.",
           "season": "Dogs banned 1 June to 30 September; leashed dogs allowed off-season",
           "seasonFr": "Chiens interdits du 1er juin au 30 septembre ; chiens en laisse autorisés hors saison",
           "seasonEs": "Perros prohibidos del 1 de junio al 30 de septiembre; perros con correa permitidos fuera de temporada",
           "seasonPt": "Cães proibidos de 1 de junho a 30 de setembro; cães com trela permitidos fora de época",
           "seasonDe": "Hunde vom 1. Juni bis 30. September verboten; angeleinte Hunde außerhalb der Saison erlaubt",
           "seasonNl": "Honden verboden van 1 juni tot 30 september; aangelijnde honden buiten het seizoen toegestaan",
+          "seasonIt": "Cani vietati dal 1 giugno al 30 settembre; cani al guinzaglio ammessi fuori stagione",
           "rules": "No dogs on the sand or in the water from 1 June to 30 September. Off-season dogs must be leashed with waste picked up.",
           "rulesFr": "Aucun chien sur le sable ni dans l'eau du 1er juin au 30 septembre. Hors saison, les chiens doivent être tenus en laisse et les déjections ramassées.",
           "rulesEs": "Sin perros en la arena ni en el agua del 1 de junio al 30 de septiembre. Fuera de temporada los perros deben ir con correa y recoger los excrementos.",
           "rulesPt": "Sem cães na areia nem na água de 1 de junho a 30 de setembro. Fora de época os cães devem andar com trela e os dejetos devem ser recolhidos.",
           "rulesDe": "Vom 1. Juni bis 30. September keine Hunde am Sand oder im Wasser. Außerhalb der Saison müssen Hunde angeleint sein, Hinterlassenschaften sind zu entfernen.",
           "rulesNl": "Van 1 juni tot 30 september geen honden op het zand of in het water. Buiten het seizoen moeten honden aangelijnd zijn, uitwerpselen moeten opgeruimd worden.",
+          "rulesIt": "Dal 1 giugno al 30 settembre niente cani sulla sabbia o in acqua. Fuori stagione i cani devono stare al guinzaglio, gli escrementi vanno raccolti.",
           "facilities": "Chiringuitos, train access at Carvajal, showers; no dog-specific facilities",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+Carvajal+Fuengirola",
           "photo": "/images/city-places/fuengirola-beaches-playa-de-torreblanca-carvajal.jpg"
@@ -651,8 +717,10 @@
       ],
       "titleDe": "Hundestrände in Fuengirola",
       "titleNl": "Hondenstranden in Fuengirola",
+      "titleIt": "Spiagge per cani a Fuengirola",
       "introDe": "Fuengirola ist eine seltene Stadt an der Costa del Sol mit eigenem offiziellem Hundestrand: der Playa Canina del Castillo de Sohail, ein eingezäuntes Areal von über 3.000 m² am südlichen Ende bei der Mündung des Río Fuengirola, ganzjährig geöffnet, auch im Sommer. An allen übrigen Stränden von Fuengirola sind Hunde während der Badesaison (1. Juni bis 30. September, Bußgelder von 100 bis 750 Euro) verboten, doch von Oktober bis Ostern erlaubt die städtische Verordnung nun angeleinten Hunden den Zutritt zu allen Stränden.",
       "introNl": "Fuengirola is een zeldzame stad aan de Costa del Sol met een eigen officieel hondenstrand: de Playa Canina del Castillo de Sohail, een omheind gebied van meer dan 3.000 m² aan het zuidelijke eind bij de monding van de Río Fuengirola, het hele jaar door open, ook in de zomer. Op alle overige stranden van Fuengirola zijn honden tijdens het zwemseizoen (1 juni tot 30 september, boetes van 100 tot 750 euro) verboden, maar van oktober tot Pasen staat de gemeentelijke verordening nu aangelijnde honden toe op alle stranden.",
+      "introIt": "Fuengirola è una rara città della Costa del Sol con una propria spiaggia per cani ufficiale: la Playa Canina del Castillo de Sohail, un'area recintata di oltre 3.000 m² all'estremità sud vicino alla foce del Río Fuengirola, aperta tutto l'anno, anche d'estate. Su tutte le altre spiagge di Fuengirola i cani sono vietati durante la stagione balneare (1 giugno-30 settembre, multe da 100 a 750 euro), ma da ottobre a Pasqua l'ordinanza comunale ora ammette i cani al guinzaglio su tutte le spiagge.",
       "faqsDe": [
         {
           "q": "Hat Fuengirola einen offiziellen Hundestrand?",
@@ -679,6 +747,20 @@
         {
           "q": "Welke regels gelden op het hondenstrand Castillo Sohail?",
           "a": "Honden boven 20 kg moeten een muilkorf dragen, potentieel gevaarlijke rassen (PPP) zijn niet toegestaan, en vaccinatiepapieren moeten meegenomen en uitwerpselen opgeruimd worden. Toegang is in de zomer mogelijk van 10:00 tot 23:00 uur en in de winter van 10:00 tot 21:00 uur."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Fuengirola ha una spiaggia per cani ufficiale?",
+          "a": "Sì. La Playa Canina del Castillo de Sohail, all'estremità sud vicino alla foce del Río Fuengirola sotto il castello di Sohail, è una spiaggia per cani ufficiale recintata di oltre 3.000 m2, aperta tutto l'anno, anche d'estate. Dispone di docce per cani, stazioni per lavare le zampe e una fontanella per animali."
+        },
+        {
+          "q": "I cani possono andare sulle spiagge principali di Fuengirola d'estate?",
+          "a": "No. Su tutte le spiagge tranne la spiaggia per cani Castillo Sohail i cani sono vietati durante la stagione balneare dal 1 giugno al 30 settembre, con multe a partire da 100 euro. Da ottobre a Pasqua l'ordinanza comunale ammette i cani al guinzaglio su queste spiagge."
+        },
+        {
+          "q": "Quali regole valgono sulla spiaggia per cani Castillo Sohail?",
+          "a": "I cani sopra i 20 kg devono indossare la museruola, le razze potenzialmente pericolose (PPP) non sono ammesse, e vanno portati i documenti di vaccinazione e raccolti gli escrementi. L'accesso è possibile dalle 10:00 alle 23:00 d'estate e dalle 10:00 alle 21:00 d'inverno."
         }
       ]
     },
@@ -729,10 +811,13 @@
           "photo": "",
           "hoursDe": "24 Stunden geöffnet, Montag bis Sonntag",
           "hoursNl": "24 uur per dag open, maandag tot zondag",
+          "hoursIt": "Aperto 24 ore su 24, dal lunedì alla domenica",
           "descriptionDe": "Ein spezialisierter, rund um die Uhr besetzter tierärztlicher Notdienst im Zentrum von Fuengirola, Teil des URVET-Netzwerks, das auch 24-Stunden-Zentren in Marbella und Palmones betreibt. Die erste Anlaufstelle für Notfälle nachts und am Wochenende, wenn andere Kliniken geschlossen sind.",
           "descriptionNl": "Een gespecialiseerde, dag en nacht bemande dierenartsspoeddienst in het centrum van Fuengirola, onderdeel van het URVET-netwerk, dat ook 24-uurscentra in Marbella en Palmones runt. Het eerste aanspreekpunt voor spoedgevallen 's nachts en in het weekend, wanneer andere klinieken gesloten zijn.",
+          "descriptionIt": "Un servizio veterinario di emergenza specializzato, aperto giorno e notte, nel centro di Fuengirola, parte della rete URVET, che gestisce anche centri 24 ore a Marbella e Palmones. Il primo punto di riferimento per le emergenze notturne e nel weekend, quando le altre cliniche sono chiuse.",
           "tipDe": "Die Nummer vor der Reise speichern und vorab anrufen, damit man sich auf die Ankunft vorbereiten kann",
-          "tipNl": "Sla het nummer op voor de reis en bel vooraf, zodat men zich kan voorbereiden op de aankomst"
+          "tipNl": "Sla het nummer op voor de reis en bel vooraf, zodat men zich kan voorbereiden op de aankomst",
+          "tipIt": "Salva il numero prima del viaggio e chiama in anticipo, così possono prepararsi all'arrivo"
         },
         {
           "name": "Clínica Veterinaria VetSur Fuengirola",
@@ -757,10 +842,13 @@
           "photo": "/images/city-places/fuengirola-vets-clinica-veterinaria-vetsur-fuengirola.jpg",
           "hoursDe": "Sprechstunden tagsüber; Notfalllinie 20:00 bis 09:00 Uhr (Mobil +34 650 176 854)",
           "hoursNl": "Spreekuren overdag; spoedlijn 20:00 tot 09:00 uur (mobiel +34 650 176 854)",
+          "hoursIt": "Visite diurne su appuntamento; linea di emergenza dalle 20:00 alle 09:00 (cellulare +34 650 176 854)",
           "descriptionDe": "Eine allgemeine Tierarztpraxis im Gebiet Los Pacos für Routinesprechstunden, Impfungen und Vorsorgeuntersuchungen, mit nächtlicher Notfalllinie außerhalb der Öffnungszeiten. Eine praktische Tagesoption für einen Gesundheitscheck oder ein Reisezeugnis.",
           "descriptionNl": "Een algemene dierenartspraktijk in het gebied Los Pacos voor routinespreekuren, vaccinaties en preventieve controles, met een nachtelijke spoedlijn buiten de openingstijden. Een praktische dagoptie voor een gezondheidscheck of een reisverklaring.",
+          "descriptionIt": "Uno studio veterinario generico nella zona di Los Pacos per visite di routine, vaccinazioni e controlli preventivi, con una linea di emergenza notturna fuori orario. Un'opzione pratica di giorno per un controllo di salute o un certificato di viaggio.",
           "tipDe": "Gute Wahl für eine Vorsorgeuntersuchung vor der Reise oder zur Aktualisierung des Heimtierausweises während der Öffnungszeiten",
-          "tipNl": "Goede keuze voor een preventieve controle vóór de reis of om het dierenpaspoort bij te werken tijdens de openingstijden"
+          "tipNl": "Goede keuze voor een preventieve controle vóór de reis of om het dierenpaspoort bij te werken tijdens de openingstijden",
+          "tipIt": "Buona scelta per un controllo preventivo prima del viaggio o per aggiornare il passaporto dell'animale durante l'orario di apertura"
         }
       ],
       "faqsEn": [
@@ -805,8 +893,10 @@
       ],
       "titleDe": "Tierärzte & Notfälle in Fuengirola",
       "titleNl": "Dierenartsen & spoedgevallen in Fuengirola",
+      "titleIt": "Veterinari ed emergenze a Fuengirola",
       "introDe": "Fuengirola ist tierärztlich gut versorgt, mit einer rund um die Uhr geöffneten Notfallklinik im Stadtzentrum und mehreren Allgemeinpraxen. Die spanienweite Notrufnummer 112 ist auf Menschen ausgerichtet, bei Tiernotfällen deshalb direkt einen Tierarzt anrufen.",
       "introNl": "Fuengirola is goed voorzien op dierenartsgebied, met een dag en nacht geopende spoedkliniek in het centrum en meerdere algemene praktijken. Het Spanje-brede noodnummer 112 is gericht op mensen, bel bij een dierennoodgeval dus rechtstreeks een dierenarts.",
+      "introIt": "Fuengirola è ben servita a livello veterinario, con una clinica di emergenza aperta giorno e notte nel centro e diversi studi generici. Il numero di emergenza nazionale spagnolo 112 è rivolto alle persone, quindi in caso di emergenza per l'animale chiama direttamente un veterinario.",
       "faqsDe": [
         {
           "q": "Gibt es einen 24-Stunden-Tierarzt in Fuengirola?",
@@ -825,6 +915,16 @@
         {
           "q": "Wat doe ik bij een dierennoodgeval in Fuengirola?",
           "a": "Bel rechtstreeks een dierenarts in plaats van 112, dat gericht is op mensen. URVET Fuengirola dekt nachten en weekenden 24 uur per dag, en VetSur runt een nachtelijke spoedlijn, sla dus beide nummers op vóór de reis."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è un veterinario aperto 24 ore a Fuengirola?",
+          "a": "Sì. URVET Fuengirola, in Calle Molino de Viento 35, gestisce un servizio veterinario di emergenza aperto giorno e notte, parte della rete URVET con centri gemelli a Marbella e Palmones. Chiama il +34 629 97 86 79 prima di arrivare."
+        },
+        {
+          "q": "Cosa faccio in caso di emergenza per il mio animale a Fuengirola?",
+          "a": "Chiama direttamente un veterinario invece del 112, che è rivolto alle persone. URVET Fuengirola copre notti e weekend 24 ore su 24, e VetSur gestisce una linea di emergenza notturna, quindi salva entrambi i numeri prima del viaggio."
         }
       ]
     },
@@ -931,8 +1031,10 @@
       ],
       "titleDe": "Praktische Tipps für einen Besuch mit Hund in Fuengirola",
       "titleNl": "Praktische tips voor een bezoek met hond aan Fuengirola",
+      "titleIt": "Consigli pratici per una visita con il cane a Fuengirola",
       "introDe": "Fuengirola vermarktet sich als haustierfreundliche Stadt, mit offiziellem Hundestrand, rund sieben Hundeparks und unkomplizierten hundefreundlichen Zügen, doch die andalusische Sommerhitze und das Strandverbot von Juni bis September prägen weiterhin die Planung eines Besuchs.",
       "introNl": "Fuengirola profileert zich als huisdiervriendelijke stad, met een officieel hondenstrand, ongeveer zeven hondenparken en probleemloze hondvriendelijke treinen, maar de Andalusische zomerhitte en het strandverbod van juni tot september blijven de planning van een bezoek bepalen.",
+      "introIt": "Fuengirola si presenta come città pet-friendly, con una spiaggia per cani ufficiale, circa sette parchi per cani e treni pet-friendly senza problemi, ma il caldo estivo andaluso e il divieto in spiaggia da giugno a settembre restano da tenere in conto nella pianificazione della visita.",
       "faqsDe": [
         {
           "q": "Ist Fuengirola ein guter Stützpunkt für einen hundefreundlichen Trip an die Costa del Sol?",
@@ -951,6 +1053,16 @@
         {
           "q": "Welke documenten heeft mijn hond nodig voor Fuengirola?",
           "a": "EU-bezoekers hebben een EU-dierenpaspoort, een microchip en een geldige rabiësvaccinatie nodig. Bezoekers van buiten de EU hebben een diergezondheidscertificaat nodig en, afhankelijk van het land van herkomst, een rabiës-antilichaamtest, controleer dus de Spaanse MAPA-vereisten ruim voor vertrek."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Fuengirola è una buona base per un viaggio pet-friendly sulla Costa del Sol?",
+          "a": "Sì. La città combina una spiaggia per cani ufficiale aperta tutto l'anno, circa sette parchi per cani, un lungomare di 7 km e un treno Cercanías che trasporta i cani gratis dall'aeroporto di Malaga, il che ne fa una delle basi costiere più semplici senza auto. Il punto principale da pianificare è il caldo estivo e il divieto in spiaggia da giugno a settembre altrove."
+        },
+        {
+          "q": "Quali documenti serve il mio cane per Fuengirola?",
+          "a": "I visitatori dall'UE hanno bisogno di un passaporto UE per animali, un microchip e una vaccinazione antirabbica valida. I visitatori da fuori l'UE hanno bisogno di un certificato sanitario animale e, a seconda del paese di origine, di un test anticorpale antirabbico, quindi controlla i requisiti spagnoli MAPA con largo anticipo."
         }
       ]
     },
@@ -988,12 +1100,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Castillo+Sohail+Fuengirola",
           "descriptionDe": "Eine restaurierte Festung aus dem 10. Jahrhundert auf einem Hügel mit Blick auf die Flussmündung, den Strand und das Meer, umgeben von offenem Parkgelände und Wanderwegen. Angeleinte Hunde sind willkommen, um das Außengelände und den Hügel rund um die Mauern zu erkunden, mit Hundestrand und Uferpark direkt darunter.",
           "descriptionNl": "Een gerestaureerd fort uit de 10e eeuw op een heuvel met uitzicht op de riviermonding, het strand en de zee, omgeven door open parkterrein en wandelpaden. Aangelijnde honden zijn welkom om het buitenterrein en de heuvel rond de muren te verkennen, met hondenstrand en oeverpark direct eronder.",
+          "descriptionIt": "Un forte restaurato del X secolo su una collina con vista sulla foce del fiume, la spiaggia e il mare, circondato da terreno verde aperto e sentieri. I cani al guinzaglio sono benvenuti per esplorare l'area esterna e la collina intorno alle mura, con la spiaggia per cani e il parco lungo il fiume proprio sotto.",
           "dogPolicyDe": "Angeleinte Hunde auf dem Außengelände willkommen; Veranstaltungen im Innenbereich und geschlossene Bereiche können variieren",
           "dogPolicyNl": "Aangelijnde honden welkom op het buitenterrein; evenementen binnen en gesloten gedeeltes kunnen variëren",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti nell'area esterna; eventi interni e aree chiuse possono variare",
           "admissionFeeDe": "Außengelände kostenlos; kostenpflichtige Veranstaltungen variieren",
           "admissionFeeNl": "Buitenterrein gratis; betaalde evenementen variëren",
+          "admissionFeeIt": "Area esterna gratuita; eventi a pagamento variabili",
           "tipDe": "Den Burghügel mit dem Hundestrand und dem Uferpark für einen kompletten Tag im Freien verbinden",
-          "tipNl": "Combineer de kasteelheuvel met het hondenstrand en het oeverpark voor een complete dag buiten"
+          "tipNl": "Combineer de kasteelheuvel met het hondenstrand en het oeverpark voor een complete dag buiten",
+          "tipIt": "Abbina la collina del castello alla spiaggia per cani e al parco lungo il fiume per una giornata completa all'aperto"
         },
         {
           "name": "Paseo Marítimo Rey de España",
@@ -1019,12 +1135,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Paseo+Maritimo+Fuengirola",
           "descriptionDe": "Mit rund 7 km die längste Strandpromenade der Costa del Sol, die auf ganzer Länge durch Fuengirola führt, vorbei an Palmengärten, Spielplätzen und Dutzenden von Chiringuitos. Ein flacher, luftiger Spaziergang mit Leinenpflicht, der die Strände der Stadt vom zentralen Sand bis zum Hundestrand Castillo Sohail verbindet.",
           "descriptionNl": "Met ongeveer 7 km de langste strandboulevard van de Costa del Sol, die over de hele lengte door Fuengirola loopt, langs palmentuinen, speeltuinen en tientallen chiringuitos. Een vlakke, luchtige wandeling met aanlijnplicht, die de stranden van de stad verbindt van het centrale zand tot het hondenstrand Castillo Sohail.",
+          "descriptionIt": "Con circa 7 km, il lungomare più lungo della Costa del Sol, che attraversa Fuengirola per tutta la sua lunghezza, tra giardini di palme, parchi giochi e decine di chiringuitos. Una passeggiata piana e ariosa con obbligo di guinzaglio, che collega le spiagge della città dalla sabbia centrale fino alla spiaggia per cani Castillo Sohail.",
           "dogPolicyDe": "Angeleinte Hunde ganzjährig willkommen",
           "dogPolicyNl": "Aangelijnde honden het hele jaar welkom",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti tutto l'anno",
           "admissionFeeDe": "Kostenlos",
           "admissionFeeNl": "Gratis",
+          "admissionFeeIt": "Gratis",
           "tipDe": "Im Sommer früh oder spät laufen; der Belag heizt sich in der Mitte des Tages schnell auf",
-          "tipNl": "Loop in de zomer vroeg of laat; het wegdek warmt midden op de dag snel op"
+          "tipNl": "Loop in de zomer vroeg of laat; het wegdek warmt midden op de dag snel op",
+          "tipIt": "In estate cammina presto o tardi; l'asfalto si scalda in fretta nel cuore della giornata"
         },
         {
           "name": "Bioparc Fuengirola",
@@ -1050,12 +1170,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bioparc+Fuengirola",
           "descriptionDe": "Der gefeierte, immersive Zoo von Fuengirola bildet tropische Lebensräume mitten in der Stadt nach und ist eine bedeutende lokale Attraktion. Wie fast alle Zoos lässt er keine Haustiere zu, daher eignet er sich für einen Besuch eines Begleiters, während jemand beim Hund bleibt, oder als Auslassung an einem Tag mit Hund.",
           "descriptionNl": "De gevierde, immersieve dierentuin van Fuengirola bootst tropische habitats na midden in de stad en is een belangrijke lokale attractie. Zoals bijna alle dierentuinen laat hij geen huisdieren toe, dus is hij geschikt voor een bezoek met een reisgenoot terwijl iemand anders bij de hond blijft, of als iets om over te slaan op een dag met hond.",
+          "descriptionIt": "Il celebre e immersivo zoo di Fuengirola ricrea habitat tropicali nel cuore della città ed è un'importante attrazione locale. Come quasi tutti gli zoo, non ammette animali domestici, quindi è adatto a una visita con un compagno di viaggio mentre qualcun altro resta con il cane, oppure da saltare in una giornata con il cane.",
           "dogPolicyDe": "Haustiere nicht zugelassen (Assistenzhunde ausgenommen)",
           "dogPolicyNl": "Huisdieren niet toegestaan (assistentiehonden uitgezonderd)",
+          "dogPolicyIt": "Animali domestici non ammessi (cani guida esclusi)",
           "admissionFeeDe": "Kostenpflichtiger Eintritt; siehe offizielle Website",
           "admissionFeeNl": "Betaalde toegang; zie officiële website",
+          "admissionFeeIt": "Ingresso a pagamento; vedi sito ufficiale",
           "tipDe": "Diesen Programmpunkt nur einplanen, wenn ein Reisebegleiter in der Nähe beim Hund bleiben kann",
-          "tipNl": "Plan dit programmaonderdeel alleen in als een reisgenoot in de buurt bij de hond kan blijven"
+          "tipNl": "Plan dit programmaonderdeel alleen in als een reisgenoot in de buurt bij de hond kan blijven",
+          "tipIt": "Pianifica questa tappa solo se un compagno di viaggio nelle vicinanze può restare con il cane"
         }
       ],
       "tipsEn": [
@@ -1120,8 +1244,10 @@
       ],
       "titleDe": "Hundefreundliche Aktivitäten in Fuengirola",
       "titleNl": "Hondvriendelijke activiteiten in Fuengirola",
+      "titleIt": "Attività pet-friendly a Fuengirola",
       "introDe": "Der Großteil dessen, was Fuengirola ausmacht, spielt sich draußen ab und ist hundefreundlich: der Burghügel, die 7 km lange Promenade und der Uferpark heißen angeleinte Hunde alle willkommen. Die Hauptausnahme ist der Bioparc Fuengirola, der Zoo der Stadt, wo Haustiere aus Tierschutzgründen nicht zugelassen sind.",
       "introNl": "Het grootste deel van wat Fuengirola te bieden heeft, speelt zich buiten af en is hondvriendelijk: de kasteelheuvel, de 7 km lange boulevard en het oeverpark heten allemaal aangelijnde honden welkom. De belangrijkste uitzondering is Bioparc Fuengirola, de dierentuin van de stad, waar huisdieren om dierenwelzijnsredenen niet zijn toegestaan.",
+      "introIt": "Gran parte di ciò che Fuengirola offre si svolge all'aperto ed è pet-friendly: la collina del castello, il lungomare di 7 km e il parco lungo il fiume accolgono tutti cani al guinzaglio. L'eccezione principale è il Bioparc Fuengirola, lo zoo della città, dove gli animali domestici non sono ammessi per motivi di benessere animale.",
       "faqsDe": [
         {
           "q": "Kann ich das Castillo Sohail mit meinem Hund besuchen?",
@@ -1140,6 +1266,16 @@
         {
           "q": "Zijn er indoor-attracties die ik met mijn hond kan bezoeken?",
           "a": "Niet echt. Bioparc Fuengirola en de meeste indoor-voorzieningen sluiten huisdieren uit, dus speelt het hondvriendelijke programma zich buiten af: de boulevard, de kasteelheuvel, het oeverpark en het hondenstrand. Bewaar indoor-bezienswaardigheden voor een moment waarop een reisgenoot op de hond kan passen."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso visitare il Castillo Sohail con il mio cane?",
+          "a": "I cani al guinzaglio sono benvenuti nell'area esterna aperta del castello e sulla collina intorno alle mura, che si trovano proprio sopra la spiaggia per cani e il parco lungo il fiume. L'accesso a eventi a pagamento interni e ad aree chiuse può variare, quindi controlla eventuali eventi il giorno stesso."
+        },
+        {
+          "q": "Ci sono attrazioni al chiuso che posso visitare con il mio cane?",
+          "a": "Non proprio. Il Bioparc Fuengirola e la maggior parte delle strutture al chiuso escludono gli animali domestici, quindi il programma pet-friendly si svolge all'aperto: il lungomare, la collina del castello, il parco lungo il fiume e la spiaggia per cani. Riserva le visite al chiuso a un momento in cui un compagno di viaggio può badare al cane."
         }
       ]
     },
@@ -1175,10 +1311,13 @@
           "tipPt": "Reserve um primeiro encontro antes da viagem para que o seu cão conheça o cuidador",
           "descriptionDe": "Eine bekannte spanische Plattform für Hundebetreuung, die Halter mit geprüften lokalen Betreuern für Tagesbetreuung oder Übernachtungsaufenthalte verbindet, mit Bewertungen, Versicherung und Foto-Updates. Nach der Region Fuengirola und Mijas filtern, um Betreuer in der Nähe zu finden.",
           "descriptionNl": "Een bekend Spaans platform voor hondenoppas, dat eigenaars koppelt aan gecontroleerde lokale oppassers voor dagoppas of overnachtingsverblijven, met beoordelingen, verzekering en foto-updates. Filter op de regio Fuengirola en Mijas om oppassers in de buurt te vinden.",
+          "descriptionIt": "Una nota piattaforma spagnola di pet sitting, che mette in contatto i proprietari con sitter locali verificati per pensione diurna o pernottamenti, con recensioni, assicurazione e aggiornamenti fotografici. Filtra per la zona di Fuengirola e Mijas per trovare sitter nelle vicinanze.",
           "serviceTypeDe": "Betreuung, Tagesbetreuung und Gassi-Service",
           "serviceTypeNl": "Oppas, dagoppas en uitlaatservice",
+          "serviceTypeIt": "Pensione, asilo diurno e servizio passeggiate",
           "tipDe": "Vor der Reise ein Kennenlerntreffen buchen, damit der Hund den Betreuer schon kennt",
-          "tipNl": "Boek voor de reis een kennismakingsmoment, zodat de hond de oppasser al kent"
+          "tipNl": "Boek voor de reis een kennismakingsmoment, zodat de hond de oppasser al kent",
+          "tipIt": "Prenota un incontro conoscitivo prima del viaggio, così il cane conosce già il sitter"
         },
         {
           "name": "Rover",
@@ -1202,10 +1341,13 @@
           "tipPt": "Leia avaliações recentes e confirme que o cuidador está à vontade com o tamanho e a raça do seu cão",
           "descriptionDe": "Ein internationaler Marktplatz für Tierbetreuung an der Costa del Sol, mit Betreuung, Tagesbetreuung, Kurzbesuchen und Spaziergängen durch lokale Betreuer mit verifizierten Profilen und Bewertungen. Nützlich, um einen englischsprachigen Betreuer in der Nähe des Aufenthaltsorts in Fuengirola zu finden.",
           "descriptionNl": "Een internationale marktplaats voor dierenoppas aan de Costa del Sol, met oppas, dagoppas, korte bezoekjes en wandelingen door lokale oppassers met geverifieerde profielen en beoordelingen. Handig om een Engelssprekende oppasser te vinden in de buurt van je verblijfplaats in Fuengirola.",
+          "descriptionIt": "Un marketplace internazionale di pet sitting sulla Costa del Sol, con pensione, asilo diurno, brevi visite e passeggiate offerte da sitter locali con profili verificati e recensioni. Utile per trovare un sitter di lingua inglese vicino al tuo alloggio a Fuengirola.",
           "serviceTypeDe": "Betreuung, Tagesbetreuung, Kurzbesuche und Spaziergänge",
           "serviceTypeNl": "Oppas, dagoppas, korte bezoekjes en wandelingen",
+          "serviceTypeIt": "Pensione, asilo diurno, brevi visite e passeggiate",
           "tipDe": "Aktuelle Bewertungen lesen und bestätigen, dass der Betreuer mit Größe und Rasse des Hundes vertraut ist",
-          "tipNl": "Lees recente beoordelingen en bevestig dat de oppasser vertrouwd is met formaat en ras van de hond"
+          "tipNl": "Lees recente beoordelingen en bevestig dat de oppasser vertrouwd is met formaat en ras van de hond",
+          "tipIt": "Leggi le recensioni recenti e conferma che il sitter conosca bene taglia e razza del cane"
         }
       ],
       "tipsEn": [
@@ -1270,8 +1412,10 @@
       ],
       "titleDe": "Hundebetreuung & Tagesbetreuung in Fuengirola",
       "titleNl": "Hondenoppas & dagopvang in Fuengirola",
+      "titleIt": "Pet sitting e asilo diurno a Fuengirola",
       "introDe": "Für die Zeiten, in denen man den Bioparc oder eine Indoor-Sehenswürdigkeit besuchen möchte, sind Fuengirola und die weitere Costa del Sol gut mit Online-Plattformen für Betreuer versorgt, über die sich geprüfte lokale Betreuer für Spaziergänge, Tagesbetreuung oder Übernachtungsbetreuung buchen lassen. Viele Gastgeber an der Costa del Sol sprechen neben Spanisch auch Englisch.",
       "introNl": "Voor momenten waarop je Bioparc of een indoor-bezienswaardigheid wilt bezoeken, zijn Fuengirola en de bredere Costa del Sol goed voorzien van online platforms voor oppassers, waarmee gecontroleerde lokale oppassers te boeken zijn voor wandelingen, dagoppas of overnachtingsoppas. Veel gastheren aan de Costa del Sol spreken naast Spaans ook Engels.",
+      "introIt": "Per i momenti in cui vuoi visitare il Bioparc o un'attrazione al chiuso, Fuengirola e tutta la Costa del Sol sono ben coperte da piattaforme online per sitter, che permettono di prenotare sitter locali verificati per passeggiate, asilo diurno o pensione notturna. Molti host della Costa del Sol parlano inglese oltre allo spagnolo.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Hundebetreuer in Fuengirola?",
@@ -1290,6 +1434,16 @@
         {
           "q": "Spreekt een oppasser Engels?",
           "a": "Vaak wel. De Costa del Sol heeft een grote internationale gemeenschap, dus spreken veel oppassers op Gudog en Rover naast Spaans ook Engels. Controleer het profiel van elke oppasser, daar staan talen en ervaring vermeld."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Come trovo un pet sitter a Fuengirola?",
+          "a": "Piattaforme online come Gudog e Rover elencano sitter locali verificati a Fuengirola e su tutta la Costa del Sol per pensione, asilo diurno e passeggiate, con recensioni e assicurazione. Filtra per la zona di Fuengirola o Mijas e prenota un incontro conoscitivo prima del viaggio."
+        },
+        {
+          "q": "Un sitter parla inglese?",
+          "a": "Spesso sì. La Costa del Sol ha una grande comunità internazionale, quindi molti sitter su Gudog e Rover parlano inglese oltre allo spagnolo. Controlla il profilo di ogni sitter, dove sono indicate le lingue e l'esperienza."
         }
       ]
     }

@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Gasthof+Simony+Hallstatt",
           "descriptionDe": "Ein historischer Gasthof aus dem 16. Jahrhundert direkt am See mit einer über das Wasser gebauten Holzterrasse, wenige Schritte vom Marktplatz entfernt. Die Küche serviert klassische Salzkammergut-Kost, Renke aus dem See, Wiener Schnitzel, Kaiserschmarrn, und die Terrasse ist einer der fotogensten Plätze für Hunde in den Alpen. Angeleinte Hunde sind herzlich willkommen, und das Personal bringt bei Ankunft einen Wassernapf.",
           "descriptionNl": "Een historische herberg uit de 16e eeuw direct aan het meer met een houten terras dat over het water is gebouwd, een paar stappen van het marktplein. De keuken serveert klassieke Salzkammergut-kost, meervis uit het meer, Wiener schnitzel, Kaiserschmarrn, en het terras is een van de meest fotogenieke plekken voor honden in de Alpen. Aangelijnde honden zijn hartelijk welkom, en het personeel brengt bij aankomst een waterbak.",
+          "descriptionIt": "Una locanda storica del XVI secolo direttamente sul lago, con una terrazza di legno costruita sull'acqua, a pochi passi dalla piazza del mercato. La cucina serve i classici piatti del Salzkammergut, pesce di lago, Wiener schnitzel, Kaiserschmarrn, e la terrazza è uno dei posti più fotogenici per cani delle Alpi. I cani al guinzaglio sono benvenuti con calore, e il personale porta una ciotola d'acqua all'arrivo.",
           "petPolicyDe": "Angeleinte Hunde auf der Seeterrasse willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op het meerterras",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sulla terrazza sul lago",
           "mustTryDe": "Renke Müllerin, Tafelspitz, Hallstätter Kaiserschmarrn",
           "mustTryNl": "Meervis müllerin, tafelspitz, Hallstätter Kaiserschmarrn",
+          "mustTryIt": "Pesce di lago alla mugnaia, tafelspitz, Kaiserschmarrn di Hallstatt",
           "tipDe": "Reservieren Sie im Juli/August mindestens drei Tage im Voraus einen Ecktisch auf der Seeterrasse, es sind die einzigen Plätze mit Schatten und direktem Wasserzugang für einen durstigen Hund.",
-          "tipNl": "Reserveer in juli/augustus minstens drie dagen van tevoren een hoektafel op het meerterras, het zijn de enige plekken met schaduw en directe watertoegang voor een dorstige hond."
+          "tipNl": "Reserveer in juli/augustus minstens drie dagen van tevoren een hoektafel op het meerterras, het zijn de enige plekken met schaduw en directe watertoegang voor een dorstige hond.",
+          "tipIt": "In luglio/agosto prenota almeno tre giorni prima un tavolo d'angolo sulla terrazza sul lago, sono gli unici posti con ombra e accesso diretto all'acqua per un cane assetato."
         },
         {
           "name": "Bräugasthof Hallstatt",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Brauhaus+Lobisser+Hallstatt",
           "descriptionDe": "Ein traditionelles Wirtshaus aus dem 16. Jahrhundert an der Seepromenade mit einer markanten Holzgalerie über dem Wasser und den Bootshäusern des Dorfes. Die Küche braut ihr eigenes Bier und serviert deftige Salzkammergut-Klassiker: Schweinsbraten mit Knödeln, Bauernschmaus, Fisch aus dem See und Apfelstrudel. Die Seeterrasse ist hundefreundlich, und das Personal ist an internationale Reisende mit Haustieren gewöhnt.",
           "descriptionNl": "Een traditioneel eethuis uit de 16e eeuw aan de meerpromenade met een opvallende houten galerij boven het water en de botenhuizen van het dorp. De keuken brouwt eigen bier en serveert stevige Salzkammergut-klassiekers: varkensbraadstuk met knoedels, bauernschmaus, vis uit het meer en appelstrudel. Het meerterras is hondvriendelijk, en het personeel is gewend aan internationale reizigers met huisdieren.",
+          "descriptionIt": "Una trattoria tradizionale del XVI secolo sul lungolago con una caratteristica galleria di legno sospesa sull'acqua e sulle rimesse per barche del paese. La cucina produce birra propria e serve robusti classici del Salzkammergut: arrosto di maiale con canederli, bauernschmaus, pesce di lago e strudel di mele. La terrazza sul lago è pet-friendly, e il personale è abituato a viaggiatori internazionali con animali.",
           "petPolicyDe": "Angeleinte Hunde auf der Seeterrasse willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op het meerterras",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sulla terrazza sul lago",
           "mustTryDe": "Bauernschmaus, Hallstätter Saibling, hausgebrautes Bräu",
           "mustTryNl": "Bauernschmaus, Hallstätter beekforel, eigen gebrouwen bier",
+          "mustTryIt": "Bauernschmaus, trota di torrente di Hallstatt, birra prodotta in casa",
           "tipDe": "Kommen Sie im Sommer vor 12:00 Uhr oder nach 14:30 Uhr, die Terrasse füllt sich zwischen 12:00 und 14:00 Uhr mit Tagesausflüglern, und ein ruhiger Platz mit Hund ist zur Mittagszeit schwer zu finden.",
-          "tipNl": "Kom 's zomers voor 12:00 uur of na 14:30 uur, het terras loopt tussen 12:00 en 14:00 uur vol met dagjesmensen, en een rustig plekje met hond is rond lunchtijd lastig te vinden."
+          "tipNl": "Kom 's zomers voor 12:00 uur of na 14:30 uur, het terras loopt tussen 12:00 en 14:00 uur vol met dagjesmensen, en een rustig plekje met hond is rond lunchtijd lastig te vinden.",
+          "tipIt": "D'estate vieni prima delle 12:00 o dopo le 14:30, la terrazza si riempie di gitanti tra le 12:00 e le 14:00, e trovare un posto tranquillo con il cane a pranzo è difficile."
         },
         {
           "name": "Restaurant Rudolfsturm",
@@ -110,20 +118,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rudolfsturm+Hallstatt",
           "descriptionDe": "Auf 855 m Höhe über dem See, an der Bergstation der Salzberg-Standseilbahn, ist das Restaurant Rudolfsturm um einen Wehrturm aus dem 13. Jahrhundert gebaut und bietet den spektakulärsten Blick auf Hallstatt von jeder Terrasse aus. Die Küche serviert regionale Alpengerichte, und die Panoramaterrasse heißt angeleinte Hunde willkommen, die Standseilbahn selbst ist mit kostenlosem Hundeticket hundefreundlich. Der Skywalk Welterbeblick liegt zwei Minuten entfernt.",
           "descriptionNl": "Op 855 m hoogte boven het meer, bij het bergstation van de Salzberg-kabelspoorbaan, is restaurant Rudolfsturm gebouwd rond een verdedigingstoren uit de 13e eeuw en biedt het spectaculairste uitzicht op Hallstatt vanaf elk terras. De keuken serveert regionale alpengerechten, en het panoramaterras verwelkomt aangelijnde honden, de kabelspoorbaan zelf is hondvriendelijk met een gratis hondenticket. De Skywalk Welterbeblick ligt twee minuten verderop.",
+          "descriptionIt": "A 855 m di altitudine sopra il lago, alla stazione a monte della funicolare del Salzberg, il ristorante Rudolfsturm è costruito intorno a una torre difensiva del XIII secolo e offre la vista più spettacolare su Hallstatt da qualsiasi terrazza. La cucina serve piatti alpini regionali, e la terrazza panoramica accoglie cani al guinzaglio, la funicolare stessa è pet-friendly con un biglietto gratuito per il cane. Lo Skywalk Welterbeblick si trova a due minuti da lì.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen; kostenlose Hundetickets auf der Salzberg-Standseilbahn",
           "petPolicyNl": "Aangelijnde honden welkom op het terras; gratis hondentickets op de Salzberg-kabelspoorbaan",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza; biglietti gratuiti per cani sulla funicolare del Salzberg",
           "mustTryDe": "Saiblingsfilet, Salzbergerin-Schnitzel, Apfelstrudel mit Aussicht",
           "mustTryNl": "Filet van beekforel, Salzbergerin-schnitzel, appelstrudel met uitzicht",
+          "mustTryIt": "Filetto di trota di torrente, schnitzel alla Salzbergerin, strudel di mele con vista",
           "tipDe": "Wichtig: Die Salzwelten selbst verbieten Hunde vollständig, doch die Fahrt mit der Standseilbahn und das Restaurant/der Skywalk am Rudolfsturm erlauben sie. Planen Sie, hier zu essen, während ein Partner die Höhlentour allein macht.",
-          "tipNl": "Belangrijk: de Salzwelten zelf verbieden honden volledig, maar de rit met de kabelspoorbaan en het restaurant/de skywalk bij de Rudolfsturm staan ze wel toe. Plan hier te eten terwijl een partner de grottentour alleen doet."
+          "tipNl": "Belangrijk: de Salzwelten zelf verbieden honden volledig, maar de rit met de kabelspoorbaan en het restaurant/de skywalk bij de Rudolfsturm staan ze wel toe. Plan hier te eten terwijl een partner de grottentour alleen doet.",
+          "tipIt": "Importante: le Salzwelten vietano completamente i cani, ma il tragitto in funicolare e il ristorante/skywalk al Rudolfsturm li ammettono. Pianifica di mangiare qui mentre un compagno di viaggio fa da solo il tour della miniera."
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Hallstatt",
       "titleNl": "Hondvriendelijke restaurants in Hallstatt",
+      "titleIt": "Ristoranti pet-friendly a Hallstatt",
       "introDe": "Hallstatt ist ein UNESCO-Weltkulturerbe-Dorf mit knapp 750 Einwohnern, eingezwängt zwischen dem Hallstätter See und dem Dachsteinmassiv, und empfängt dennoch bis zu 10.000 Besucher pro Tag in der Hochsaison. Die Restaurants sind meist kleine Gasthöfe und familiengeführte Seeterrassen, die österreichische Alpenklassiker servieren, Wiener Schnitzel, Reinanke (Renke) aus dem See, Tafelspitz, Kaiserschmarrn, und fast jede Terrasse heißt angeleinte Hunde ohne Umstände willkommen. Die österreichische Frage lautet „Hund erlaubt?“, und die Antwort in Hallstatt ist fast immer Ja.",
       "introNl": "Hallstatt is een UNESCO-werelderfgoeddorp met nog geen 750 inwoners, ingeklemd tussen het Hallstättersee en het Dachsteinmassief, en ontvangt toch tot 10.000 bezoekers per dag in het hoogseizoen. De restaurants zijn meestal kleine herbergen en familierestaurants aan het meer die Oostenrijkse alpenklassiekers serveren, Wiener schnitzel, meervis (Reinanke) uit het meer, tafelspitz, Kaiserschmarrn, en vrijwel elk terras verwelkomt aangelijnde honden zonder gedoe. De Oostenrijkse vraag luidt 'Hund erlaubt?' (hond toegestaan?), en het antwoord in Hallstatt is bijna altijd ja.",
+      "introIt": "Hallstatt è un villaggio patrimonio UNESCO con meno di 750 abitanti, stretto tra l'Hallstättersee e il massiccio del Dachstein, e riceve comunque fino a 10.000 visitatori al giorno in alta stagione. I ristoranti sono per lo più piccole locande e trattorie di famiglia sul lago che servono i classici alpini austriaci, Wiener schnitzel, pesce di lago (Reinanke), tafelspitz, Kaiserschmarrn, e quasi ogni terrazza accoglie cani al guinzaglio senza problemi. La domanda tipica austriaca è 'Hund erlaubt?' (cane ammesso?), e a Hallstatt la risposta è quasi sempre sì.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Trails & Nature Walks around Hallstatt",
@@ -157,10 +172,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hallstatt+Seepromenade",
           "descriptionDe": "Die 1 km lange Promenade aus Holz und Pflaster verläuft am Westufer des Hallstätter Sees vom Südende des Dorfes bis zur Bootsanlegestelle und zum Marktplatz, mit durchgehendem Seeblick und Bänken. Angeleinte Hunde sind entlang der gesamten Strecke willkommen, und mehrere Kiesbuchten zwischen den Bootshäusern lassen Hunde am Wasserrand plantschen. Dies ist der tägliche Abendspaziergang der dorfansässigen Hunde ebenso wie der Touristen.",
           "descriptionNl": "De 1 km lange promenade van hout en plaveisel loopt langs de westoever van het Hallstättersee van het zuidelijke dorpseinde tot de bootaanlegplaats en het marktplein, met doorlopend uitzicht op het meer en bankjes. Aangelijnde honden zijn over de hele lengte welkom, en meerdere grindinhammen tussen de botenhuizen laten honden plonzen aan de waterrand. Dit is de dagelijkse avondwandeling van zowel de dorpshonden als de toeristen.",
+          "descriptionIt": "La passeggiata di legno e pavimentazione lunga 1 km corre lungo la sponda occidentale dell'Hallstättersee dall'estremità sud del paese fino all'attracco delle barche e alla piazza del mercato, con vista continua sul lago e panchine. I cani al guinzaglio sono benvenuti per tutta la lunghezza, e diverse insenature ghiaiose tra le rimesse per barche permettono ai cani di sguazzare sulla riva. Questa è la passeggiata serale quotidiana sia dei cani del paese sia dei turisti.",
           "petPolicyDe": "Angeleinte Hunde entlang der gesamten Promenade willkommen",
           "petPolicyNl": "Aangelijnde honden welkom over de hele promenade",
+          "petPolicyIt": "Cani al guinzaglio benvenuti su tutta la passeggiata",
           "tipDe": "Gehen Sie die Promenade vor 09:00 Uhr oder nach 19:00 Uhr, um dem Andrang der Tagesausflügler zu entgehen, Ihr Hund wird die Ruhe zu schätzen wissen, und Sie erhalten die berühmte Postkartenansicht der Dorfspiegelung ohne 200 Selfie-Sticks.",
-          "tipNl": "Loop de promenade voor 09:00 uur of na 19:00 uur om de drukte van de dagjesmensen te ontlopen, je hond zal de rust waarderen, en je krijgt het beroemde ansichtkaartuitzicht van de dorpsspiegeling zonder 200 selfiesticks."
+          "tipNl": "Loop de promenade voor 09:00 uur of na 19:00 uur om de drukte van de dagjesmensen te ontlopen, je hond zal de rust waarderen, en je krijgt het beroemde ansichtkaartuitzicht van de dorpsspiegeling zonder 200 selfiesticks.",
+          "tipIt": "Cammina sulla passeggiata prima delle 09:00 o dopo le 19:00 per evitare la folla dei gitanti, il tuo cane apprezzerà la tranquillità, e otterrai la famosa vista da cartolina del riflesso del paese senza 200 selfie stick."
         },
         {
           "name": "Gosausee Circuit (Vorderer Gosausee)",
@@ -184,10 +202,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Vorderer+Gosausee",
           "descriptionDe": "Eine nahezu ebene 3,5-km-Rundwanderung um den Vorderen Gosausee mit dem ikonischsten Spiegelbild des Dachsteingletschers im Salzkammergut. Breiter Schotterweg für ältere Hunde geeignet, zahlreiche Wasserzugänge am Ufer und mehrere schattige Waldabschnitte. Der See selbst erlaubt Hundeschwimmen außerhalb des offiziellen Badebereichs am Südende, einer der wenigen Seen im Salzkammergut, bei denen das der Fall ist.",
           "descriptionNl": "Een vrijwel vlakke rondwandeling van 3,5 km rond het Vorderer Gosausee met de meest iconische spiegeling van de Dachsteingletsjer in het Salzkammergut. Breed grindpad geschikt voor oudere honden, talloze waterplekken langs de oever en meerdere schaduwrijke bosstukken. Het meer zelf staat hondenzwemmen toe buiten het officiële zwemgebied aan het zuidelijke uiteinde, een van de weinige meren in het Salzkammergut waar dat het geval is.",
+          "descriptionIt": "Un giro quasi pianeggiante di 3,5 km intorno al Vorderer Gosausee con il riflesso più iconico del ghiacciaio del Dachstein nel Salzkammergut. Ampio sentiero ghiaioso adatto ai cani anziani, numerosi punti d'acqua lungo la riva e diversi tratti ombreggiati nel bosco. Il lago stesso permette ai cani di nuotare fuori dalla zona balneare ufficiale, all'estremità sud, uno dei pochi laghi del Salzkammergut dove è così.",
           "petPolicyDe": "Angeleinte Hunde auf der Runde willkommen; Hundeschwimmen am Südende außerhalb des offiziellen Badebereichs erlaubt",
           "petPolicyNl": "Aangelijnde honden welkom op het rondje; hondenzwemmen aan het zuidelijke uiteinde buiten het officiële zwemgebied toegestaan",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sul giro; nuoto per cani consentito all'estremità sud fuori dalla zona balneare ufficiale",
           "tipDe": "Fahren Sie oder nehmen Sie den Postbus 543 von Hallstatt Lahn zum Gosausee (~40 Min., Hund 1,50 €). Parken Sie auf dem offiziellen Gosausee-Parkplatz für 5 €/Tag; die Runde beginnt direkt am Seeuferrestaurant.",
-          "tipNl": "Rijd of neem postbus 543 vanaf Hallstatt Lahn naar het Gosausee (~40 min, hond 1,50 €). Parkeer op de officiële Gosausee-parkeerplaats voor 5 €/dag; het rondje begint direct bij het restaurant aan de oever."
+          "tipNl": "Rijd of neem postbus 543 vanaf Hallstatt Lahn naar het Gosausee (~40 min, hond 1,50 €). Parkeer op de officiële Gosausee-parkeerplaats voor 5 €/dag; het rondje begint direct bij het restaurant aan de oever.",
+          "tipIt": "Guida o prendi il postbus 543 da Hallstatt Lahn fino al Gosausee (~40 min, cane 1,50 €). Parcheggia nel parcheggio ufficiale del Gosausee per 5 €/giorno; il giro inizia subito vicino al ristorante sulla riva."
         },
         {
           "name": "Echerntal Valley & Waldbachstrub Waterfall",
@@ -211,18 +232,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Echerntal+Hallstatt",
           "descriptionDe": "Eine sanfte 6-km-Talwanderung ab dem Südende des Dorfes Hallstatt, die dem Waldbach durch Wiesen, Buchenwald und Wasserfälle bis zum dramatischen Wasserfall Waldbachstrub am Fuß der Dachsteinwand folgt. Nahezu ebenes Gefälle, viel Schatten, mehrere Bachüberquerungen mit kühlen Pfotenkühlstellen und wenig Tagesausflüglerverkehr im Vergleich zum Dorf. Ideal bei einer Hitzewelle in Hallstatt.",
           "descriptionNl": "Een zachte dalwandeling van 6 km vanaf het zuidelijke dorpseinde van Hallstatt, die de Waldbach volgt door weiden, beukenbos en watervallen tot aan de dramatische waterval Waldbachstrub aan de voet van de Dachsteinwand. Vrijwel vlakke helling, veel schaduw, meerdere beekoversteken met koele plekjes voor pootjes en weinig verkeer van dagjesmensen vergeleken met het dorp. Ideaal bij een hittegolf in Hallstatt.",
+          "descriptionIt": "Una dolce camminata nella valle di 6 km dall'estremità sud del paese di Hallstatt, che segue il torrente Waldbach attraverso prati, faggeta e cascate fino alla spettacolare cascata Waldbachstrub ai piedi della parete del Dachstein. Pendenza quasi piatta, molta ombra, diversi guadi con punti freschi per le zampe e traffico di gitanti nettamente inferiore rispetto al paese. Ideale in caso di ondata di caldo a Hallstatt.",
           "petPolicyDe": "Angeleinte Hunde im gesamten Tal willkommen",
           "petPolicyNl": "Aangelijnde honden welkom in de hele vallei",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in tutta la valle",
           "tipDe": "Starten Sie vor 10:00 Uhr, nehmen Sie den markierten Echerntalweg ab dem Parkplatz Lahn. Rechnen Sie mit 2,5 Stunden Hin- und Rückweg im Hundetempo. Nach starkem Regen meiden, die Bäche können anschwellen und einige Überquerungen rutschig werden.",
-          "tipNl": "Start voor 10:00 uur, neem het gemarkeerde Echerntalweg vanaf de parkeerplaats Lahn. Reken op 2,5 uur heen en terug in hondentempo. Vermijd na zware regen, de beken kunnen wassen en sommige oversteken glad worden."
+          "tipNl": "Start voor 10:00 uur, neem het gemarkeerde Echerntalweg vanaf de parkeerplaats Lahn. Reken op 2,5 uur heen en terug in hondentempo. Vermijd na zware regen, de beken kunnen wassen en sommige oversteken glad worden.",
+          "tipIt": "Parti prima delle 10:00, prendi il sentiero segnalato Echerntalweg dal parcheggio Lahn. Calcola 2,5 ore andata e ritorno al passo del cane. Evita dopo forti piogge, i torrenti possono ingrossarsi e alcuni guadi diventare scivolosi."
         }
       ],
       "titleDe": "Hundefreundliche Wanderwege & Naturausflüge rund um Hallstatt",
       "titleNl": "Hondvriendelijke wandelpaden & natuuruitjes rond Hallstatt",
+      "titleIt": "Sentieri pet-friendly e gite in natura intorno a Hallstatt",
       "introDe": "Hallstatt hat keinen Stadtpark, das Dorf selbst wird von See und Berg eingerahmt, doch es liegt inmitten der UNESCO-Landschaft Dachstein-Salzkammergut mit Hunderten Kilometern markierter Wanderwege. Die Seepromenade von Hallstatt, die Runde um den Gosausee (10 km westlich), der Ostufer-Weg nach Steeg und das hochgelegene Echerntal hinter dem Dorf sind alle mit angeleintem Hund zugänglich. Das österreichische Leinengebot gilt auf allen markierten Wegen; auf Almen ist von Juni bis September strenge Leinenpflicht vorgeschrieben, da weidendes Vieh Hunde angreifen kann.",
       "introNl": "Hallstatt heeft geen stadspark, het dorp zelf wordt omlijst door meer en berg, maar het ligt midden in het UNESCO-landschap Dachstein-Salzkammergut met honderden kilometers gemarkeerde wandelpaden. De meerpromenade van Hallstatt, het rondje om het Gosausee (10 km naar het westen), het oostoeverpad naar Steeg en de hooggelegen Echerntal achter het dorp zijn allemaal toegankelijk met aangelijnde hond. De Oostenrijkse lijnplicht geldt op alle gemarkeerde paden; op alpenweiden geldt van juni tot september strenge lijnplicht, omdat grazend vee honden kan aanvallen.",
+      "introIt": "Hallstatt non ha un parco cittadino, il paese stesso è incorniciato dal lago e dalla montagna, ma si trova nel cuore del paesaggio UNESCO Dachstein-Salzkammergut con centinaia di chilometri di sentieri segnalati. La passeggiata sul lago di Hallstatt, il giro intorno al Gosausee (10 km a ovest), il sentiero della sponda est verso Steeg e l'alta valle dell'Echerntal dietro il paese sono tutti accessibili al guinzaglio con il cane. L'obbligo di guinzaglio austriaco vale su tutti i sentieri segnalati; sui pascoli alpini vige un rigido obbligo di guinzaglio da giugno a settembre, perché il bestiame al pascolo può attaccare i cani.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Getting Around Hallstatt with a Dog",
@@ -256,10 +283,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hallstatt+boat+dock",
           "descriptionDe": "Das historische Hallstatt-Boot „Stefanie“ verbindet den Bahnhof Hallstatt (wo der ÖBB-Zug hält) mit dem Marktplatz Hallstatt auf der anderen Seeseite, eine 12-minütige Überfahrt, die den klassischen ersten Eindruck des Dorfes vermittelt. Die Boote fahren abgestimmt auf ankommende und abfahrende Züge, in der Hochsaison alle 30 Minuten. Angeleinte Hunde fahren kostenlos mit; das offene Deck ist die beste Wahl für nervöse Hunde zur Gewöhnung.",
           "descriptionNl": "De historische Hallstatt-boot 'Stefanie' verbindt station Hallstatt (waar de ÖBB-trein stopt) met het marktplein van Hallstatt aan de overkant van het meer, een overtocht van 12 minuten die de klassieke eerste indruk van het dorp geeft. De boten varen afgestemd op aankomende en vertrekkende treinen, in het hoogseizoen elke 30 minuten. Aangelijnde honden reizen gratis mee; het open dek is de beste keuze om nerveuze honden te laten wennen.",
+          "descriptionIt": "La storica barca di Hallstatt 'Stefanie' collega la stazione di Hallstatt (dove ferma il treno ÖBB) con la piazza del mercato di Hallstatt sull'altra sponda del lago, una traversata di 12 minuti che offre la classica prima impressione del paese. Le barche sono sincronizzate con gli arrivi e le partenze dei treni, ogni 30 minuti in alta stagione. I cani al guinzaglio viaggiano gratis; il ponte scoperto è la scelta migliore per abituare i cani nervosi.",
           "petPolicyDe": "Angeleinte Hunde fahren kostenlos auf dem offenen Deck mit",
           "petPolicyNl": "Aangelijnde honden reizen gratis mee op het open dek",
+          "petPolicyIt": "Cani al guinzaglio viaggiano gratis sul ponte scoperto",
           "tipDe": "Wenn Sie im Sommer nach 10:00 Uhr mit dem Auto anreisen, parken Sie am Lahn P1 (20 €/Tag) und gehen Sie zu Fuß ins Dorf, statt sich durch den Stau auf der Seestraße zu kämpfen. Das Boot ist nur für Zugankünfte relevant.",
-          "tipNl": "Als je 's zomers na 10:00 uur met de auto aankomt, parkeer dan bij Lahn P1 (20 €/dag) en loop naar het dorp, in plaats van je door de file op de meerweg te worstelen. De boot is alleen relevant voor treinaankomsten."
+          "tipNl": "Als je 's zomers na 10:00 uur met de auto aankomt, parkeer dan bij Lahn P1 (20 €/dag) en loop naar het dorp, in plaats van je door de file op de meerweg te worstelen. De boot is alleen relevant voor treinaankomsten.",
+          "tipIt": "Se arrivi in auto d'estate dopo le 10:00, parcheggia a Lahn P1 (20 €/giorno) e cammina fino al paese, invece di lottare con il traffico sulla strada del lago. La barca è rilevante solo per gli arrivi in treno."
         },
         {
           "name": "Hallstatt Bahnhof & ÖBB Trains",
@@ -283,10 +313,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hallstatt+Bahnhof",
           "descriptionDe": "Der Bahnhof Hallstatt liegt am Ostufer des Sees an der Strecke Attnang-Puchheim–Stainach-Irdning, mit stündlichem REX/Regionalverkehr nach Salzburg (3 Std. über Attnang) und Direktzügen nach Bad Ischl, Linz und Graz. Kleine Hunde in einer Transportbox reisen bei der ÖBB kostenlos; größere Hunde reisen angeleint und mit Maulkorb zum halben Erwachsenenfahrpreis. Der Bahnhof ist unbesetzt, Tickets gibt es über die ÖBB-App oder den Fahrkartenautomaten.",
           "descriptionNl": "Station Hallstatt ligt aan de oostoever van het meer op de lijn Attnang-Puchheim-Stainach-Irdning, met elk uur REX/streekverkeer naar Salzburg (3 uur via Attnang) en directe treinen naar Bad Ischl, Linz en Graz. Kleine honden in een draagtas reizen bij ÖBB gratis mee; grotere honden reizen aangelijnd en gemuilkorfd voor het halve volwassenentarief.  Het station is onbemand, tickets zijn verkrijgbaar via de ÖBB-app of de kaartautomaat.",
+          "descriptionIt": "La stazione di Hallstatt si trova sulla sponda est del lago, sulla linea Attnang-Puchheim-Stainach-Irdning, con treni regionali REX ogni ora per Salisburgo (3 ore via Attnang) e treni diretti per Bad Ischl, Linz e Graz. I cani piccoli in borsa da trasporto viaggiano gratis con ÖBB; i cani più grandi viaggiano al guinzaglio e con museruola a metà tariffa adulti. La stazione non è presidiata, i biglietti si acquistano tramite l'app ÖBB o la biglietteria automatica.",
           "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde angeleint und mit Maulkorb zum halben Fahrpreis",
           "petPolicyNl": "Kleine honden in draagtas gratis; grotere honden aangelijnd en gemuilkorfd voor half tarief",
+          "petPolicyIt": "Cani piccoli in borsa da trasporto gratis; cani più grandi al guinzaglio e con museruola a metà tariffa",
           "tipDe": "Hinweis: Der Bahnhof Hallstatt liegt auf der GEGENÜBERLIEGENDEN Seeseite vom Dorf. Steigen Sie aus, gehen Sie 200 m zum Anlegesteg, das Anschlussboot (4 € einfach, Hund kostenlos) wartet bereits, es ist auf jeden Zug abgestimmt.",
-          "tipNl": "Let op: station Hallstatt ligt aan de TEGENOVERLIGGENDE oever van het dorp. Stap uit, loop 200 m naar de aanlegsteiger, de aansluitende boot (4 € enkele reis, hond gratis) wacht al, hij is op elke trein afgestemd."
+          "tipNl": "Let op: station Hallstatt ligt aan de TEGENOVERLIGGENDE oever van het dorp. Stap uit, loop 200 m naar de aanlegsteiger, de aansluitende boot (4 € enkele reis, hond gratis) wacht al, hij is op elke trein afgestemd.",
+          "tipIt": "Attenzione: la stazione di Hallstatt si trova sulla sponda OPPOSTA al paese. Scendi, cammina 200 m fino all'attracco, la barca di collegamento (4 € a tratta, cane gratis) aspetta già, è sincronizzata con ogni treno."
         },
         {
           "name": "Salzburg Airport (SZG) & Postbus Connections",
@@ -310,18 +343,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Salzburg+Airport",
           "descriptionDe": "Der Flughafen Salzburg (SZG, W.A. Mozart) ist der nächstgelegene internationale Flughafen, 80 km nordwestlich von Hallstatt (~90 Min. mit dem Auto, ~3 Std. kombiniert mit Postbus 150 + ÖBB-Zug + Hallstatt-Boot). Am Flughafen gelten die EU-Haustierregeln: Mikrochip, EU-Heimtierausweis, Tollwutimpfung. Der Postbus 150 vom Flughafen nach Bad Ischl nimmt angeleinte Hunde nach Ermessen des Fahrers kostenlos im offenen Gepäckbereich mit.",
           "descriptionNl": "Luchthaven Salzburg (SZG, W.A. Mozart) is de dichtstbijzijnde internationale luchthaven, 80 km ten noordwesten van Hallstatt (~90 min met de auto, ~3 uur gecombineerd met postbus 150 + ÖBB-trein + Hallstatt-boot). Op de luchthaven gelden de EU-huisdierregels: microchip, EU-dierenpaspoort, rabiësvaccinatie. Postbus 150 van de luchthaven naar Bad Ischl neemt aangelijnde honden naar goeddunken van de chauffeur gratis mee in het open bagagegedeelte.",
+          "descriptionIt": "L'aeroporto di Salisburgo (SZG, W.A. Mozart) è l'aeroporto internazionale più vicino, a 80 km a nord-ovest di Hallstatt (~90 min in auto, ~3 ore combinando postbus 150 + treno ÖBB + barca di Hallstatt). In aeroporto valgono le regole UE per gli animali: microchip, passaporto UE per animali, vaccinazione antirabbica. Il postbus 150 dall'aeroporto a Bad Ischl porta gratis i cani al guinzaglio a discrezione dell'autista nel vano bagagli aperto.",
           "petPolicyDe": "EU-Heimtierausweis, Mikrochip und Tollwutimpfung erforderlich; Postbus nimmt angeleinte Hunde kostenlos mit",
           "petPolicyNl": "EU-dierenpaspoort, microchip en rabiësvaccinatie vereist; postbus neemt aangelijnde honden gratis mee",
+          "petPolicyIt": "Passaporto UE per animali, microchip e vaccinazione antirabbica richiesti; il postbus porta gratis i cani al guinzaglio",
           "tipDe": "Vom SZG: Nehmen Sie den ÖBB-S2-Zug nach Salzburg Hbf, dann den ÖBB-Zug nach Bad Ischl, dann die S-Bahn zum Bahnhof Hallstatt, dann das Boot ins Dorf. Die Salzburg-Hallstatt-Card kombiniert alle vier Etappen für rund 25 € mit Hund.",
-          "tipNl": "Vanaf SZG: neem de ÖBB S2-trein naar Salzburg Hbf, dan de ÖBB-trein naar Bad Ischl, dan de sneltram naar station Hallstatt, dan de boot naar het dorp. De Salzburg-Hallstatt-kaart combineert alle vier de etappes voor ongeveer 25 € met hond."
+          "tipNl": "Vanaf SZG: neem de ÖBB S2-trein naar Salzburg Hbf, dan de ÖBB-trein naar Bad Ischl, dan de sneltram naar station Hallstatt, dan de boot naar het dorp. De Salzburg-Hallstatt-kaart combineert alle vier de etappes voor ongeveer 25 € met hond.",
+          "tipIt": "Da SZG: prendi il treno ÖBB S2 per Salzburg Hbf, poi il treno ÖBB per Bad Ischl, poi il tram veloce per la stazione di Hallstatt, poi la barca per il paese. La Salzburg-Hallstatt-Karte combina tutte e quattro le tratte per circa 25 € con il cane."
         }
       ],
       "titleDe": "Mit Hund in Hallstatt unterwegs",
       "titleNl": "Met hond onderweg in Hallstatt",
+      "titleIt": "In viaggio con il cane a Hallstatt",
       "introDe": "Hallstatt ist ein Fußgängerdorf; von Mai bis Oktober sind ortsfremde Autos von 10:00 bis 17:00 Uhr im Zentrum verboten. Die meisten Besucher reisen über den Bahnhof Hallstatt am Ostufer des Sees an, eine 12-minütige Bootsfahrt vom Dorf entfernt, oder mit dem Postbus 542/543 ab Bad Ischl. Der nächste internationale Flughafen ist Salzburg (SZG, 80 km, 90 Minuten mit dem Auto oder kombiniert mit ÖBB-Zug und Boot). Innerhalb des Dorfes ist alles fußläufig erreichbar.",
       "introNl": "Hallstatt is een voetgangersdorp; van mei tot oktober zijn auto's van buiten van 10:00 tot 17:00 uur verboden in het centrum. De meeste bezoekers komen aan via station Hallstatt aan de oostoever van het meer, een boottocht van 12 minuten van het dorp, of met postbus 542/543 vanaf Bad Ischl. De dichtstbijzijnde internationale luchthaven is Salzburg (SZG, 80 km, 90 minuten met de auto of gecombineerd met ÖBB-trein en boot). Binnen het dorp is alles te voet bereikbaar.",
+      "introIt": "Hallstatt è un paese pedonale; da maggio a ottobre le auto esterne sono vietate nel centro dalle 10:00 alle 17:00. La maggior parte dei visitatori arriva tramite la stazione di Hallstatt sulla sponda est del lago, una traversata in barca di 12 minuti dal paese, oppure con il postbus 542/543 da Bad Ischl. L'aeroporto internazionale più vicino è Salisburgo (SZG, 80 km, 90 minuti in auto o combinando treno ÖBB e barca). All'interno del paese tutto è raggiungibile a piedi.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Swimming Spots on Lake Hallstatt",
@@ -355,10 +394,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Strandbad+Hallstatt",
           "descriptionDe": "Das offizielle städtische Strandbad am Südende des Dorfes bietet Rasenflächen, Umkleiden und einen abgesperrten flachen Badebereich. Von Juni bis Anfang September sind Hunde aus Hygienegründen in der offiziellen Badezone NICHT erlaubt, doch das unumzäunte Kiesufer unmittelbar südlich des Strandbads (entlang des Wegs nach Obertraun) ist die beliebteste inoffizielle Badestelle für Hunde, mit flachem Einstieg und klarem Wasser.",
           "descriptionNl": "Het officiële gemeentelijke Strandbad aan het zuidelijke dorpseinde biedt grasvelden, kleedhokjes en een afgezet ondiep zwemgebied. Van juni tot begin september zijn honden om hygiënische redenen NIET toegestaan in de officiële zwemzone, maar de onomheinde grindoever direct ten zuiden van het Strandbad (langs het pad naar Obertraun) is de populairste officieuze zwemplek voor honden, met een ondiepe ingang en helder water.",
+          "descriptionIt": "Lo Strandbad comunale ufficiale all'estremità sud del paese offre prati, cabine spogliatoio e una zona balneare poco profonda delimitata. Da giugno a inizio settembre i cani NON sono ammessi nella zona balneare ufficiale per motivi igienici, ma la riva ghiaiosa non recintata subito a sud dello Strandbad (lungo il sentiero per Obertraun) è il posto non ufficiale più popolare per far nuotare i cani, con un ingresso poco profondo e acqua limpida.",
           "petPolicyDe": "Hunde in der offiziellen Badezone von Juni bis Anfang September verboten; am Kiesufer südlich des Strandbads erlaubt",
           "petPolicyNl": "Honden verboden in de officiële zwemzone van juni tot begin september; toegestaan op de grindoever ten zuiden van het Strandbad",
+          "petPolicyIt": "Cani vietati nella zona balneare ufficiale da giugno a inizio settembre; ammessi sulla riva ghiaiosa a sud dello Strandbad",
           "tipDe": "Die 200 m Kiesstrand zwischen dem Zaun des Strandbads und dem Weg nach Obertraun sind der inoffizielle Hundestrand, ruhig an Wochentagvormittagen, belebt an Juli-/August-Sonntagen. Keine Einrichtungen, bringen Sie Handtuch und Wasser selbst mit.",
-          "tipNl": "De 200 m grindstrand tussen het hek van het Strandbad en het pad naar Obertraun is het officieuze hondenstrand, rustig op doordeweekse ochtenden, druk op zondagen in juli/augustus. Geen voorzieningen, breng zelf handdoek en water mee."
+          "tipNl": "De 200 m grindstrand tussen het hek van het Strandbad en het pad naar Obertraun is het officieuze hondenstrand, rustig op doordeweekse ochtenden, druk op zondagen in juli/augustus. Geen voorzieningen, breng zelf handdoek en water mee.",
+          "tipIt": "I 200 m di spiaggia ghiaiosa tra il recinto dello Strandbad e il sentiero per Obertraun sono la spiaggia per cani non ufficiale, tranquilla nelle mattine feriali, affollata la domenica di luglio/agosto. Nessun servizio, porta il tuo asciugamano e l'acqua."
         },
         {
           "name": "East Shore Trail Coves (Hallstätter See Ostufer)",
@@ -382,10 +424,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Obertraun+Untersee",
           "descriptionDe": "Der 5,5 km lange Ostufer-Wanderweg vom Bahnhof Hallstatt nach Obertraun führt an mehreren kleinen Kiesbuchten und winzigen Naturstränden vorbei, die vollständig hundezugänglich sind, hier gelten keine Badebeschränkungen, da es sich nicht um offizielle Strandbäder handelt. Kühler, schattiger Waldweg, häufige Wasserzugänge und deutlich weniger überlaufen als das Dorfufer. Die Untersee-Bucht bei Obertraun ist die beliebteste Badestelle für Hunde.",
           "descriptionNl": "Het 5,5 km lange oostoeverpad van station Hallstatt naar Obertraun voert langs meerdere kleine grindinhammen en piepkleine natuurstrandjes die volledig toegankelijk zijn voor honden, hier gelden geen zwembeperkingen omdat het geen officiële Strandbäder zijn. Koel, schaduwrijk bospad, frequente watertoegang en aanzienlijk minder druk dan de dorpsoever. De Untersee-baai bij Obertraun is de populairste zwemplek voor honden.",
+          "descriptionIt": "Il sentiero della sponda est, lungo 5,5 km, dalla stazione di Hallstatt a Obertraun passa lungo diverse piccole insenature ghiaiose e minuscole spiagge naturali completamente accessibili ai cani, qui non ci sono restrizioni di balneazione perché non sono Strandbäder ufficiali. Sentiero boschivo fresco e ombreggiato, accesso frequente all'acqua e traffico decisamente inferiore rispetto alla riva del paese. La baia dell'Untersee vicino a Obertraun è il posto più popolare per far nuotare i cani.",
           "petPolicyDe": "Angeleinte Hunde auf Weg und in den Buchten willkommen; Schwimmen ohne Leine nach Ermessen des Besitzers toleriert",
           "petPolicyNl": "Aangelijnde honden welkom op het pad en in de inhammen; zwemmen zonder lijn getolereerd naar goeddunken van de eigenaar",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sul sentiero e nelle insenature; nuoto senza guinzaglio tollerato a discrezione del proprietario",
           "tipDe": "Nehmen Sie das Boot vom Dorf zum Bahnhof Hallstatt, gehen Sie den Ostufer-Weg nach Obertraun (1,5 Std.), schwimmen Sie in der Untersee-Bucht, fahren Sie dann eine Station mit dem Zug zurück. Ein perfekter Sommertag mit Hund.",
-          "tipNl": "Neem de boot van het dorp naar station Hallstatt, loop het oostoeverpad naar Obertraun (1,5 uur), zwem in de Untersee-baai, neem dan de trein een station terug. Een perfecte zomerdag met hond."
+          "tipNl": "Neem de boot van het dorp naar station Hallstatt, loop het oostoeverpad naar Obertraun (1,5 uur), zwem in de Untersee-baai, neem dan de trein een station terug. Een perfecte zomerdag met hond.",
+          "tipIt": "Prendi la barca dal paese fino alla stazione di Hallstatt, cammina il sentiero della sponda est fino a Obertraun (1,5 ore), nuota nella baia dell'Untersee, poi prendi il treno indietro di una stazione. Una giornata estiva perfetta con il cane."
         },
         {
           "name": "Vorderer Gosausee Dog Beach",
@@ -409,18 +454,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Vorderer+Gosausee+Gosau",
           "descriptionDe": "Das Südende des Vorderen Gosausees, jenseits der offiziellen Badebojen, ist einer der wenigen Seen im Salzkammergut, der Hundeschwimmen ausdrücklich erlaubt. Glasklares Gletscherwasser (typischerweise 16–19 °C selbst im August), flacher, steiniger Einstieg und die ikonische Dachstein-Kulisse. Eine ruhigere Alternative zum Hallstätter Seeufer, wenn das Dorf seinen Höchstandrang an Tagesausflüglern erreicht.",
           "descriptionNl": "Het zuidelijke uiteinde van het Vorderer Gosausee, voorbij de officiële zwemboeien, is een van de weinige meren in het Salzkammergut dat hondenzwemmen uitdrukkelijk toestaat. Kristalhelder gletsjerwater (doorgaans 16-19 °C zelfs in augustus), een ondiepe, stenige ingang en het iconische Dachstein-decor. Een rustiger alternatief voor de oever van het Hallstättersee wanneer het dorp zijn drukste dagjesmensenpunt bereikt.",
+          "descriptionIt": "L'estremità sud del Vorderer Gosausee, oltre le boe di balneazione ufficiali, è uno dei pochi laghi del Salzkammergut che permette esplicitamente il nuoto ai cani. Acqua glaciale cristallina (di solito 16-19 °C anche ad agosto), un ingresso poco profondo e sassoso e lo scenario iconico del Dachstein. Un'alternativa più tranquilla alla riva dell'Hallstättersee quando il paese raggiunge il picco di gitanti.",
           "petPolicyDe": "Hundeschwimmen am Südende außerhalb der offiziellen Badezone ausdrücklich erlaubt",
           "petPolicyNl": "Hondenzwemmen aan het zuidelijke uiteinde buiten de officiële zwemzone uitdrukkelijk toegestaan",
+          "petPolicyIt": "Nuoto per cani esplicitamente ammesso all'estremità sud, fuori dalla zona balneare ufficiale",
           "tipDe": "Das Wasser bleibt selbst im August gletscherkalt, lassen Sie kleine Hunde höchstens 5 Minuten plantschen, große Rassen 10–15 Minuten. Trocknen Sie sie vor dem Rückweg gründlich ab, um Erkältungen zu vermeiden.",
-          "tipNl": "Het water blijft zelfs in augustus gletsjerkoud, laat kleine honden hooguit 5 minuten plonzen, grote rassen 10-15 minuten. Droog ze grondig af voor de terugweg om verkoudheid te voorkomen."
+          "tipNl": "Het water blijft zelfs in augustus gletsjerkoud, laat kleine honden hooguit 5 minuten plonzen, grote rassen 10-15 minuten. Droog ze grondig af voor de terugweg om verkoudheid te voorkomen.",
+          "tipIt": "L'acqua resta gelida come il ghiaccio anche ad agosto, lascia sguazzare i cani piccoli al massimo 5 minuti, le razze grandi 10-15 minuti. Asciugali bene prima del ritorno per evitare raffreddori."
         }
       ],
       "titleDe": "Hundefreundliche Badestellen am Hallstätter See",
       "titleNl": "Hondvriendelijke zwemplekken aan het Hallstättersee",
+      "titleIt": "Posti pet-friendly per nuotare sull'Hallstättersee",
       "introDe": "Der Hallstätter See gehört zu den saubersten Alpenseen Österreichs (Trinkwasserqualität) und bleibt im Sommer kühl (18–22 °C im August). Öffentliche Badeanstalten wie das Strandbad Hallstatt schränken Hunde in den offiziellen Badezonen während der Hochsaison aus Hygienegründen ein oder verbieten sie ganz, doch die umliegenden Ufer, Kiesbuchten, der Ostufer-Weg am Untersee und die Obertraun-Seite, bieten reichlich inoffizielle Badestellen, an denen angeleinte Hunde mit ihren Besitzern ins Wasser gehen können.",
       "introNl": "Het Hallstättersee behoort tot de schoonste alpenmeren van Oostenrijk (drinkwaterkwaliteit) en blijft 's zomers koel (18-22 °C in augustus). Openbare badplaatsen zoals het Strandbad Hallstatt beperken honden in de officiële zwemzones tijdens het hoogseizoen om hygiënische redenen of verbieden ze helemaal, maar de omliggende oevers, grindinhammen, het oostoeverpad langs het Untersee en de Obertraun-kant bieden volop officieuze zwemplekken waar aangelijnde honden met hun baasjes het water in kunnen.",
+      "introIt": "L'Hallstättersee è tra i laghi alpini più puliti dell'Austria (qualità da acqua potabile) e resta fresco d'estate (18-22 °C ad agosto). Gli stabilimenti balneari pubblici come lo Strandbad Hallstatt limitano i cani nelle zone balneari ufficiali durante l'alta stagione per motivi igienici, o li vietano del tutto, ma le rive circostanti, le insenature ghiaiose, il sentiero della sponda est lungo l'Untersee e il lato di Obertraun offrono molti posti non ufficiali dove i cani al guinzaglio possono entrare in acqua con i loro padroni.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Veterinary Services for Hallstatt",
@@ -459,10 +510,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Tierarzt+Bad+Ischl",
           "descriptionDe": "Die nächstgelegene Vollversorgungs-Tierklinik zu Hallstatt, im Zentrum von Bad Ischl, 20 km nördlich. Die Praxis behandelt Kleintiere (Hunde, Katzen, Exoten) für Routineuntersuchungen, Impfungen, EU-Heimtierausweis-Vermerke und kleinere Operationen. Bequemes Parken in der Wirerstraße und fußläufig vom Bahnhof Bad Ischl für Reisende ohne Auto.",
           "descriptionNl": "De dichtstbijzijnde volwaardige dierenkliniek bij Hallstatt, in het centrum van Bad Ischl, 20 km naar het noorden. De praktijk behandelt kleine huisdieren (honden, katten, exoten) voor routineonderzoeken, vaccinaties, EU-dierenpaspoortvermeldingen en kleinere operaties. Makkelijk parkeren aan de Wirerstraße en te voet bereikbaar vanaf station Bad Ischl voor reizigers zonder auto.",
+          "descriptionIt": "La clinica veterinaria completa più vicina a Hallstatt, nel centro di Bad Ischl, 20 km a nord. Lo studio cura piccoli animali domestici (cani, gatti, esotici) per controlli di routine, vaccinazioni, registrazioni sul passaporto UE per animali e piccoli interventi. Parcheggio facile in Wirerstraße e raggiungibile a piedi dalla stazione di Bad Ischl per chi viaggia senza auto.",
           "servicesDe": "Routinetierpflege, Impfungen, EU-Heimtierausweis, kleinere Operationen, Mikrochip",
           "servicesNl": "Routinezorg voor huisdieren, vaccinaties, EU-dierenpaspoort, kleinere operaties, microchip",
+          "servicesIt": "Cure di routine per animali, vaccinazioni, passaporto UE per animali, piccoli interventi, microchip",
           "tipDe": "Rufen Sie im Sommer vorher an, die Praxis versorgt sowohl Einheimische als auch Touristen aus dem gesamten Salzkammergut, und Termine am selben Tag sind nicht immer möglich. Halten Sie den EU-Heimtierausweis für jedes grenzüberschreitende Anliegen bereit.",
-          "tipNl": "Bel 's zomers van tevoren, de praktijk behandelt zowel locals als toeristen uit het hele Salzkammergut, en afspraken dezelfde dag zijn niet altijd mogelijk. Houd het EU-dierenpaspoort bij de hand voor elke grensoverschrijdende kwestie."
+          "tipNl": "Bel 's zomers van tevoren, de praktijk behandelt zowel locals als toeristen uit het hele Salzkammergut, en afspraken dezelfde dag zijn niet altijd mogelijk. Houd het EU-dierenpaspoort bij de hand voor elke grensoverschrijdende kwestie.",
+          "tipIt": "D'estate chiama prima, lo studio cura sia i locali sia i turisti di tutto il Salzkammergut, e gli appuntamenti lo stesso giorno non sono sempre disponibili. Tieni a portata di mano il passaporto UE per animali per qualsiasi questione transfrontaliera."
         },
         {
           "name": "Tierarzt Dr. Stadlbauer (Bad Goisern)",
@@ -491,10 +545,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Tierarzt+Bad+Goisern",
           "descriptionDe": "Die geografisch nächstgelegene Tierarztpraxis zu Hallstatt, in Bad Goisern am Nordufer des Sees, nur 10 km bzw. 15 Minuten mit dem Auto oder Zug. Kleintier-Allgemeinpraxis (Hunde, Katzen, Kaninchen) für Routineuntersuchungen, Impfungen und kleinere Eingriffe. Kleiner als die Klinik in Bad Ischl, aber praktischer, wenn Sie in Hallstatt oder Obertraun wohnen.",
           "descriptionNl": "De geografisch dichtstbijzijnde dierenartspraktijk bij Hallstatt, in Bad Goisern aan de noordoever van het meer, maar 10 km ofwel 15 minuten met de auto of trein. Algemene kleindierenpraktijk (honden, katten, konijnen) voor routineonderzoeken, vaccinaties en kleinere ingrepen. Kleiner dan de kliniek in Bad Ischl, maar praktischer als je in Hallstatt of Obertraun verblijft.",
+          "descriptionIt": "Lo studio veterinario geograficamente più vicino a Hallstatt, a Bad Goisern sulla sponda nord del lago, ma solo 10 km, ovvero 15 minuti in auto o in treno. Studio generale per piccoli animali (cani, gatti, conigli) per controlli di routine, vaccinazioni e piccoli interventi. Più piccolo della clinica di Bad Ischl, ma più pratico se alloggi a Hallstatt o Obertraun.",
           "servicesDe": "Allgemeinuntersuchungen, Impfungen, Mikrochip, EU-Heimtierausweis",
           "servicesNl": "Algemene onderzoeken, vaccinaties, microchip, EU-dierenpaspoort",
+          "servicesIt": "Controlli generali, vaccinazioni, microchip, passaporto UE per animali",
           "tipDe": "Der ÖBB-Zug vom Bahnhof Hallstatt nach Bad Goisern braucht direkt nur 8 Minuten, einfacher zu erreichen als mit dem Auto angesichts der eingeschränkten Zufahrt nach Hallstatt. Bringen Sie einen weichen Maulkorb für den Zug mit.",
-          "tipNl": "De ÖBB-trein van station Hallstatt naar Bad Goisern duurt rechtstreeks maar 8 minuten, makkelijker te bereiken dan met de auto gezien de beperkte toegang tot Hallstatt. Breng een zachte muilkorf mee voor de trein."
+          "tipNl": "De ÖBB-trein van station Hallstatt naar Bad Goisern duurt rechtstreeks maar 8 minuten, makkelijker te bereiken dan met de auto gezien de beperkte toegang tot Hallstatt. Breng een zachte muilkorf mee voor de trein.",
+          "tipIt": "Il treno ÖBB dalla stazione di Hallstatt a Bad Goisern impiega solo 8 minuti diretti, più facile da raggiungere che in auto vista l'accesso limitato a Hallstatt. Porta una museruola morbida per il treno."
         },
         {
           "name": "Salzkammergut Veterinary Emergency Hotline",
@@ -523,18 +580,24 @@
           "photo": "/images/city-places/hallstatt-vets-salzkammergut-veterinary-emergency-hotline.jpg",
           "descriptionDe": "Der regionale tierärztliche Notdienst außerhalb der Öffnungszeiten für das Salzkammergut, mit Einsatzzentrale in Bad Ischl. Die Hotline ist abends, nachts, an Wochenenden und Feiertagen erreichbar und deckt Hallstatt, Obertraun, Gosau und die weitere Seenregion ab. Ein diensthabender Tierarzt bewertet den Anruf und berät entweder, fährt hinaus oder verweist Sie an die nächste geöffnete Klinik. Keine physische Adresse, rein ein telefonischer Vermittlungsdienst.",
           "descriptionNl": "De regionale dierenartsspoeddienst buiten openingstijden voor het Salzkammergut, met een meldkamer in Bad Ischl. De hotline is bereikbaar 's avonds, 's nachts, in het weekend en op feestdagen en dekt Hallstatt, Obertraun, Gosau en de wijdere merenregio. Een dienstdoende dierenarts beoordeelt het gesprek en adviseert, komt langs of verwijst je door naar de dichtstbijzijnde open kliniek. Geen fysiek adres, puur een telefonische doorverwijsdienst.",
+          "descriptionIt": "Il servizio veterinario regionale d'urgenza fuori orario per il Salzkammergut, con una centrale operativa a Bad Ischl. La hotline è raggiungibile la sera, la notte, nei weekend e nei giorni festivi e copre Hallstatt, Obertraun, Gosau e l'intera regione dei laghi. Un veterinario di turno valuta la chiamata e consiglia, viene sul posto o ti indirizza alla clinica aperta più vicina. Nessun indirizzo fisico, è puramente un servizio telefonico di smistamento.",
           "servicesDe": "Tierärztliche Notfalltriage und -vermittlung außerhalb der Öffnungszeiten",
           "servicesNl": "Dierenartsspoedtriage en -doorverwijzing buiten openingstijden",
+          "servicesIt": "Triage e smistamento veterinario d'urgenza fuori orario",
           "tipDe": "Speichern Sie +43 6132 24222 vor der Anreise in Ihrem Telefon, das letzte Abendboot von der Bahnhofsseite in Hallstatt fährt gegen 19:00 Uhr ab, sodass ein nächtlicher Notfall eine 30-minütige Fahrt um den See bedeutet. Die Hotline kann beraten, ob eine Fahrt wirklich nötig ist.",
-          "tipNl": "Sla +43 6132 24222 op in je telefoon voor vertrek, de laatste avondboot vanaf de stationskant in Hallstatt vertrekt rond 19:00 uur, waardoor een nachtelijk noodgeval een rit van 30 minuten om het meer betekent. De hotline kan adviseren of een rit echt nodig is."
+          "tipNl": "Sla +43 6132 24222 op in je telefoon voor vertrek, de laatste avondboot vanaf de stationskant in Hallstatt vertrekt rond 19:00 uur, waardoor een nachtelijk noodgeval een rit van 30 minuten om het meer betekent. De hotline kan adviseren of een rit echt nodig is.",
+          "tipIt": "Salva il numero +43 6132 24222 nel telefono prima di partire, l'ultima barca serale dal lato della stazione a Hallstatt parte intorno alle 19:00, per cui un'emergenza notturna significa un tragitto di 30 minuti intorno al lago. La hotline può consigliarti se un tragitto sia davvero necessario."
         }
       ],
       "titleDe": "Tierärztliche Versorgung für Hallstatt",
       "titleNl": "Dierenartsenzorg voor Hallstatt",
+      "titleIt": "Assistenza veterinaria per Hallstatt",
       "introDe": "Hallstatt selbst hat keine eigene Tierarztpraxis, die 750 Einwohner des Dorfes werden von Kliniken im weiteren Salzkammergut versorgt. Die nächstgelegenen Optionen sind Bad Ischl (20 km, 30 Minuten mit dem Auto oder Postbus 542) und Bad Goisern (10 km, 15 Minuten). Für Notfälle rund um die Uhr ist der regionale tierärztliche Notdienst (Tierärztlicher Notdienst) in Bad Ischl zuständig. Reisende mit chronischen Erkrankungen sollten sich VOR der Anreise über Tierärzte informieren, denn die nur per Boot erreichbare Lage des Dorfes macht dringende Transporte langsamer, als es auf der Karte aussieht.",
       "introNl": "Hallstatt zelf heeft geen eigen dierenartspraktijk, de 750 inwoners van het dorp worden bediend door klinieken in het wijdere Salzkammergut. De dichtstbijzijnde opties zijn Bad Ischl (20 km, 30 minuten met de auto of postbus 542) en Bad Goisern (10 km, 15 minuten). Voor spoedgevallen rond de klok is de regionale dierenartsspoeddienst (Tierärztlicher Notdienst) in Bad Ischl verantwoordelijk. Reizigers met chronische aandoeningen doen er goed aan zich VOOR vertrek te informeren over dierenartsen, want de alleen per boot bereikbare ligging van het dorp maakt spoedvervoer trager dan het op de kaart lijkt.",
+      "introIt": "Hallstatt stessa non ha uno studio veterinario proprio, i 750 abitanti del paese sono serviti da cliniche nel più ampio Salzkammergut. Le opzioni più vicine sono Bad Ischl (20 km, 30 minuti in auto o postbus 542) e Bad Goisern (10 km, 15 minuti). Per le emergenze 24 ore su 24 è responsabile il servizio veterinario d'urgenza regionale (Tierärztlicher Notdienst) di Bad Ischl. I viaggiatori con patologie croniche farebbero bene a informarsi sui veterinari PRIMA della partenza, perché la posizione del paese, raggiungibile solo in barca, rende il trasporto d'urgenza più lento di quanto sembri sulla mappa.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Hallstatt with a Dog",
@@ -567,10 +630,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Salzwelten+Hallstatt",
           "descriptionDe": "Die 7.000 Jahre alten Salzwelten Hallstatt sind das älteste Salzbergwerk der Welt und die meistbesuchte kostenpflichtige Attraktion Hallstatts. Wichtig: Hunde sind aus Sicherheits-, Hygiene- und Erhaltungsgründen im Bergwerk VERBOTEN (Rutschen, enge Gänge, Salzempfindlichkeit). Die Standseilbahn zum Salzberg-Plateau, das Restaurant Rudolfsturm und der Aussichtspunkt Skywalk Welterbeblick akzeptieren alle angeleinte Hunde, planen Sie, diese zu genießen, während ein Partner die Bergwerkstour allein macht.",
           "descriptionNl": "De 7.000 jaar oude Salzwelten Hallstatt is de oudste zoutmijn ter wereld en de meest bezochte betaalde attractie van Hallstatt. Belangrijk: honden zijn om veiligheids-, hygiëne- en behoudsredenen VERBODEN in de mijn (glijbanen, smalle gangen, zoutgevoeligheid). De kabelspoorbaan naar het Salzberg-plateau, restaurant Rudolfsturm en het uitzichtpunt Skywalk Welterbeblick accepteren allemaal aangelijnde honden, plan om daarvan te genieten terwijl een partner de mijntour alleen doet.",
+          "descriptionIt": "Le Salzwelten Hallstatt, vecchie di 7.000 anni, sono la miniera di sale più antica del mondo e l'attrazione a pagamento più visitata di Hallstatt. Importante: i cani sono VIETATI in miniera per motivi di sicurezza, igiene e conservazione (scivoli, cunicoli stretti, sensibilità al sale). La funicolare per l'altopiano del Salzberg, il ristorante Rudolfsturm e il punto panoramico Skywalk Welterbeblick accettano tutti cani al guinzaglio, pianifica di goderteli mentre un compagno di viaggio fa da solo il tour della miniera.",
           "petPolicyDe": "Hunde im Bergwerk verboten; auf Standseilbahn, im Restaurant und auf dem Skywalk erlaubt",
           "petPolicyNl": "Honden verboden in de mijn; toegestaan op de kabelspoorbaan, in het restaurant en op de skywalk",
+          "petPolicyIt": "Cani vietati in miniera; ammessi sulla funicolare, nel ristorante e sullo skywalk",
           "tipDe": "Kaufen Sie das reine Standseilbahn-Ticket (20 € retour, Hund kostenlos) ohne Bergwerksbesuch, Sie erhalten trotzdem den ikonischen Ausblick und die Terrasse am Rudolfsturm. Lohnt sich auch allein.",
-          "tipNl": "Koop het losse kabelspoorbaanticket (20 € retour, hond gratis) zonder mijnbezoek, je krijgt alsnog het iconische uitzicht en het terras bij de Rudolfsturm. Ook de moeite waard alleen."
+          "tipNl": "Koop het losse kabelspoorbaanticket (20 € retour, hond gratis) zonder mijnbezoek, je krijgt alsnog het iconische uitzicht en het terras bij de Rudolfsturm. Ook de moeite waard alleen.",
+          "tipIt": "Compra il solo biglietto della funicolare (20 € andata e ritorno, cane gratis) senza la visita alla miniera, otterrai comunque la vista iconica e la terrazza al Rudolfsturm. Vale la pena anche da solo."
         },
         {
           "name": "Overtourism & Day-Tripper Crush",
@@ -593,10 +659,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hallstatt+Marktplatz",
           "descriptionDe": "Hallstatt empfängt im Juli/August bis zu 10.000 Besucher pro Tag (gegenüber 750 Einwohnern). Reisebusse treffen von 10:00 bis 16:00 Uhr in ununterbrochenem Strom ein, und die Aussichtspunkte am Seeufer werden unpassierbar. Ängstliche Hunde empfinden das als überwältigend. Die realistischen Strategien: außerhalb von Juli/August besuchen, über Nacht bleiben, um 06:00–10:00 Uhr und 18:00–22:00 Uhr in nahezu völliger Stille zu genießen, oder von Oktober bis April kommen, wenn die Besucherzahlen um 80 % sinken.",
           "descriptionNl": "Hallstatt ontvangt in juli/augustus tot 10.000 bezoekers per dag (tegenover 750 inwoners). Touringcars komen van 10:00 tot 16:00 uur in een ononderbroken stroom aan, en de uitzichtpunten aan de meeroever worden onbegaanbaar. Angstige honden vinden dat overweldigend. De realistische strategieën: buiten juli/augustus komen, overnachten om van 06:00-10:00 uur en 18:00-22:00 uur van bijna volledige stilte te genieten, of van oktober tot april komen, wanneer de bezoekersaantallen 80% dalen.",
+          "descriptionIt": "Hallstatt riceve fino a 10.000 visitatori al giorno in luglio/agosto (contro 750 abitanti). I pullman turistici arrivano in un flusso ininterrotto dalle 10:00 alle 16:00, e i punti panoramici sul lungolago diventano impraticabili. I cani ansiosi lo trovano opprimente. Le strategie realistiche: venire fuori da luglio/agosto, pernottare per godersi la quasi totale tranquillità dalle 06:00 alle 10:00 e dalle 18:00 alle 22:00, oppure venire da ottobre ad aprile, quando il numero di visitatori cala dell'80%.",
           "petPolicyDe": "Im Sommer 10:00–16:00 Uhr meiden; Besuch bei Morgen-/Abenddämmerung oder in der Nebensaison",
           "petPolicyNl": "'s Zomers 10:00-16:00 uur vermijden; bezoek tijdens ochtend-/avondschemering of in het laagseizoen",
+          "petPolicyIt": "Evita le 10:00-16:00 d'estate; visita all'alba/al tramonto o in bassa stagione",
           "tipDe": "Wenn Sie nur im Juli/August kommen können, buchen Sie ein Hotel INNERHALB von Hallstatt (nicht in Obertraun oder Bad Ischl). Vor 10:00 Uhr und nach 18:00 Uhr haben Sie das Dorf für sich, genau dann entstehen ohnehin die Postkartenfotos.",
-          "tipNl": "Als je alleen in juli/augustus kunt komen, boek dan een hotel BINNEN Hallstatt (niet in Obertraun of Bad Ischl). Voor 10:00 uur en na 18:00 uur heb je het dorp voor jezelf, en juist dan ontstaan sowieso de ansichtkaartfoto's."
+          "tipNl": "Als je alleen in juli/augustus kunt komen, boek dan een hotel BINNEN Hallstatt (niet in Obertraun of Bad Ischl). Voor 10:00 uur en na 18:00 uur heb je het dorp voor jezelf, en juist dan ontstaan sowieso de ansichtkaartfoto's.",
+          "tipIt": "Se puoi venire solo in luglio/agosto, prenota un hotel DENTRO Hallstatt (non a Obertraun o Bad Ischl). Prima delle 10:00 e dopo le 18:00 avrai il paese tutto per te, ed è proprio in quei momenti che nascono comunque le foto da cartolina."
         },
         {
           "name": "Austrian Maulkorbpflicht on Public Transport",
@@ -619,18 +688,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hallstatt",
           "descriptionDe": "Österreich schreibt eine strikte Maulkorbpflicht für alle Hunde im öffentlichen Verkehr vor: Große Hunde müssen in ÖBB-Zügen, Postbussen und auf dem Hallstatt-Boot gleichzeitig einen Maulkorb UND eine Leine tragen. Kleine Hunde in einer geschlossenen Transportbox sind davon ausgenommen. Reisende, die an französische TGV- oder italienische Trenitalia-Regeln gewöhnt sind, sind davon oft überrascht. Bußgelder bei Nichteinhaltung beginnen bei 50 €, und der Schaffner kann die Mitnahme verweigern.",
           "descriptionNl": "Oostenrijk schrijft een strikte muilkorfplicht voor voor alle honden in het openbaar vervoer: grote honden moeten in ÖBB-treinen, postbussen en op de Hallstatt-boot tegelijkertijd een muilkorf DRAGEN EN een lijn. Kleine honden in een gesloten draagtas zijn hiervan uitgezonderd. Reizigers die gewend zijn aan Franse TGV- of Italiaanse Trenitalia-regels zijn hier vaak door verrast. Boetes bij niet-naleving beginnen bij 50 €, en de conducteur kan meereizen weigeren.",
+          "descriptionIt": "L'Austria impone un rigido obbligo di museruola per tutti i cani sui mezzi pubblici: i cani grandi devono INDOSSARE la museruola E stare al guinzaglio contemporaneamente sui treni ÖBB, sui postbus e sulla barca di Hallstatt. I cani piccoli in una borsa da trasporto chiusa ne sono esentati. I viaggiatori abituati alle regole del TGV francese o di Trenitalia italiana ne restano spesso sorpresi. Le multe per inadempienza partono da 50 €, e il controllore può rifiutare il trasporto.",
           "petPolicyDe": "Maulkorb und Leine für große Hunde im gesamten österreichischen öffentlichen Verkehr vorgeschrieben",
           "petPolicyNl": "Muilkorf en lijn verplicht voor grote honden in het hele Oostenrijkse openbaar vervoer",
+          "petPolicyIt": "Museruola e guinzaglio obbligatori per i cani grandi su tutti i mezzi pubblici austriaci",
           "tipDe": "Kaufen Sie vor der Reise einen weichen Netz-Maulkorb (im Baskerville-Stil), sie kosten 10–15 € in jedem österreichischen Tierbedarfsgeschäft. Hunde gewöhnen sich innerhalb von 24 Stunden daran; ein geliehener Nylon-Riemenmaulkorb ist für eine dreistündige Zugfahrt unangenehm.",
-          "tipNl": "Koop voor vertrek een zachte netmuilkorf (in Baskerville-stijl), ze kosten 10-15 € bij elke Oostenrijkse dierenwinkel. Honden wennen er binnen 24 uur aan; een geleende nylon riemmuilkorf is onaangenaam voor een treinreis van drie uur."
+          "tipNl": "Koop voor vertrek een zachte netmuilkorf (in Baskerville-stijl), ze kosten 10-15 € bij elke Oostenrijkse dierenwinkel. Honden wennen er binnen 24 uur aan; een geleende nylon riemmuilkorf is onaangenaam voor een treinreis van drie uur.",
+          "tipIt": "Compra prima della partenza una museruola morbida a rete (stile Baskerville), costano 10-15 € in qualsiasi negozio per animali austriaco. I cani si abituano entro 24 ore; una museruola a fascia di nylon presa in prestito è scomoda per un viaggio in treno di tre ore."
         }
       ],
       "titleDe": "Wichtige Tipps für einen Besuch in Hallstatt mit Hund",
       "titleNl": "Belangrijke tips voor een bezoek aan Hallstatt met je hond",
+      "titleIt": "Consigli importanti per visitare Hallstatt con il tuo cane",
       "introDe": "Die besonderen Herausforderungen in Hallstatt sind nicht das Wetter, sondern Overtourism, Hundeverbote bei einzelnen Attraktionen und begrenzte Notfallinfrastruktur. Die Salzwelten Hallstatt, die berühmteste Attraktion des Dorfes, verbieten Hunde vollständig, während die Standseilbahn, der Skywalk und die meisten anderen Sehenswürdigkeiten sie akzeptieren. Der sommerliche Andrang von 10.000 Tagesausflüglern pro Tag in einem Dorf mit 750 Einwohnern ist für ängstliche Hunde wirklich überwältigend; Besuche außerhalb der Saison (Ende Oktober bis April) sind für beide Enden der Leine deutlich angenehmer.",
       "introNl": "De bijzondere uitdagingen in Hallstatt zijn niet het weer, maar overtoerisme, hondenverboden bij bepaalde attracties en beperkte spoedinfrastructuur. De Salzwelten Hallstatt, de bekendste attractie van het dorp, verbiedt honden volledig, terwijl de kabelspoorbaan, de skywalk en de meeste andere bezienswaardigheden ze wel accepteren. De zomerse drukte van 10.000 dagjesmensen per dag in een dorp met 750 inwoners is voor angstige honden echt overweldigend; bezoeken buiten het seizoen (eind oktober tot april) zijn voor beide uiteinden van de lijn aanzienlijk aangenamer.",
+      "introIt": "Le sfide particolari a Hallstatt non sono il meteo, ma l'overtourism, i divieti per cani in alcune attrazioni e un'infrastruttura d'urgenza limitata. Le Salzwelten Hallstatt, l'attrazione più famosa del paese, vietano completamente i cani, mentre la funicolare, lo skywalk e la maggior parte delle altre attrazioni li accettano. L'affollamento estivo di 10.000 gitanti al giorno in un paese di 750 abitanti è davvero opprimente per i cani ansiosi; le visite fuori stagione (da fine ottobre ad aprile) sono nettamente più piacevoli per entrambi i capi del guinzaglio.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Hallstatt",
@@ -664,10 +739,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Skywalk+Welterbeblick+Hallstatt",
           "descriptionDe": "Der Skywalk Welterbeblick ist die dramatische, auskragende Aussichtsplattform über dem Eingang des Salzbergwerks, mit einem 360°-Panorama über Hallstatt, den See und den Dachstein. Erreichbar mit der hundefreundlichen Salzberg-Standseilbahn (20 € retour, Hund kostenlos), ist er der beste Aussichtspunkt im Dorf. Unten am Marktplatz sind angeleinte Hunde im gesamten UNESCO-Kern, im Innenhof der evangelischen Kirche und auf den Caféterrassen willkommen.",
           "descriptionNl": "De Skywalk Welterbeblick is het dramatische, overhangende uitzichtplatform boven de ingang van de zoutmijn, met een panorama van 360° over Hallstatt, het meer en de Dachstein. Bereikbaar met de hondvriendelijke Salzberg-kabelspoorbaan (20 € retour, hond gratis), is het het beste uitzichtpunt van het dorp. Beneden op het marktplein zijn aangelijnde honden welkom in de hele UNESCO-kern, op de binnenplaats van de evangelische kerk en op de caféterrassen.",
+          "descriptionIt": "Lo Skywalk Welterbeblick è la spettacolare piattaforma panoramica a sbalzo sopra l'ingresso della miniera di sale, con un panorama a 360° su Hallstatt, il lago e il Dachstein. Raggiungibile con la funicolare pet-friendly del Salzberg (20 € andata e ritorno, cane gratis), è il miglior punto panoramico del paese. Sotto, nella piazza del mercato, i cani al guinzaglio sono benvenuti in tutto il nucleo UNESCO, nel cortile della chiesa evangelica e sulle terrazze dei caffè.",
           "petPolicyDe": "Angeleinte Hunde auf dem Skywalk, in der Standseilbahn und im gesamten Dorf willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op de skywalk, in de kabelspoorbaan en in het hele dorp",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sullo skywalk, sulla funicolare e in tutto il paese",
           "tipDe": "Nehmen Sie um 09:00 Uhr die erste Standseilbahn, um den Skywalk für sich allein zu haben, zwischen 11:00 und 15:00 Uhr müssen Sie an der Brüstung mit 15 Minuten Wartezeit für ein ungestörtes Foto rechnen. Morgenlicht ist am besten für das Dorf-Foto.",
-          "tipNl": "Neem om 09:00 uur de eerste kabelspoorbaan om de skywalk voor jezelf te hebben, tussen 11:00 en 15:00 uur moet je bij de balustrade rekenen op 15 minuten wachten voor een ongestoorde foto. Ochtendlicht is het beste voor de dorpsfoto."
+          "tipNl": "Neem om 09:00 uur de eerste kabelspoorbaan om de skywalk voor jezelf te hebben, tussen 11:00 en 15:00 uur moet je bij de balustrade rekenen op 15 minuten wachten voor een ongestoorde foto. Ochtendlicht is het beste voor de dorpsfoto.",
+          "tipIt": "Prendi la prima funicolare alle 09:00 per avere lo skywalk tutto per te, tra le 11:00 e le 15:00 devi mettere in conto 15 minuti di attesa alla balaustra per una foto senza disturbi. La luce del mattino è la migliore per la foto del paese."
         },
         {
           "name": "Dachstein Krippenstein & Five Fingers",
@@ -691,10 +769,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Dachstein+Krippenstein+Obertraun",
           "descriptionDe": "Die Dachstein-Krippenstein-Seilbahn führt in drei Etappen von Obertraun (608 m) auf das 2.109 m hohe Krippenstein-Plateau, mit angeleinten Hunden auf allen Abschnitten (5 € Hundeticket retour). Oben: die ikonische Aussichtsplattform Five Fingers (kostenlos, hundefreundlich), die Welterbespirale und der Zugang zum langen Heilbronner Weg. Die Gipfelluft ist 15–20 °C kühler als im Tal, ein Rettungsanker bei einer Sommerhitzewelle.",
           "descriptionNl": "De Dachstein-Krippenstein-kabelbaan gaat in drie etappes van Obertraun (608 m) naar het 2.109 m hoge Krippenstein-plateau, met aangelijnde honden op alle trajecten (5 € hondenticket retour). Boven: het iconische uitzichtplatform Five Fingers (gratis, hondvriendelijk), de Welterbespirale en toegang tot het lange Heilbronner Weg. De lucht op de top is 15-20 °C koeler dan in het dal, een redmiddel bij een zomerse hittegolf.",
+          "descriptionIt": "La funivia Dachstein-Krippenstein sale in tre tratte da Obertraun (608 m) fino all'altopiano del Krippenstein a 2.109 m, con cani al guinzaglio ammessi su tutte le tratte (biglietto per cani 5 € andata e ritorno). In cima: l'iconica piattaforma panoramica Five Fingers (gratis, pet-friendly), la Welterbespirale e l'accesso al lungo Heilbronner Weg. L'aria in cima è 15-20 °C più fresca che a valle, un rimedio in caso di ondata di caldo estiva.",
           "petPolicyDe": "Angeleinte Hunde auf allen 3 Seilbahnetappen zugelassen (5 € retour); am Five Fingers kostenlos",
           "petPolicyNl": "Aangelijnde honden toegelaten op alle 3 kabelbaanetappes (5 € retour); gratis bij Five Fingers",
+          "petPolicyIt": "Cani al guinzaglio ammessi su tutte e 3 le tratte della funivia (5 € andata e ritorno); gratis al Five Fingers",
           "tipDe": "Die Eishöhle Mammuthöhle an der Mittelstation VERBIETET Hunde (Höhlenschutz). Halten Sie an der Mittelstation Krippenbrunn, machen Sie die hundefreundliche Runde auf dem Heilbronner Weg und fahren Sie allein weiter zum Five Fingers hinauf, wenn Sie die Höhle besuchen möchten.",
-          "tipNl": "De ijsgrot Mammuthöhle bij het tussenstation VERBIEDT honden (grotbescherming). Stop bij tussenstation Krippenbrunn, maak het hondvriendelijke rondje op het Heilbronner Weg en ga alleen verder omhoog naar Five Fingers als je de grot wilt bezoeken."
+          "tipNl": "De ijsgrot Mammuthöhle bij het tussenstation VERBIEDT honden (grotbescherming). Stop bij tussenstation Krippenbrunn, maak het hondvriendelijke rondje op het Heilbronner Weg en ga alleen verder omhoog naar Five Fingers als je de grot wilt bezoeken.",
+          "tipIt": "La grotta di ghiaccio Mammuthöhle alla stazione intermedia VIETA i cani (protezione della grotta). Fermati alla stazione intermedia di Krippenbrunn, fai il giro pet-friendly sull'Heilbronner Weg e sali fino al Five Fingers solo se vuoi visitare la grotta."
         },
         {
           "name": "Hallstatt Charnel House (Beinhaus)",
@@ -718,18 +799,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Beinhaus+Hallstatt",
           "descriptionDe": "Die katholische Pfarrkirche St. Michael aus dem 12. Jahrhundert, hoch über dem Dorf auf der Klippe, beherbergt das berühmte Beinhaus, in dem 1.200 bemalte Schädel von Dorfbewohnern aufgereiht sind, eine einzigartige Tradition, die entstand, weil der Friedhof von Hallstatt auf der Klippe keinen Platz zum Erweitern hat. Das Kirchengelände und der Aufstieg über die Klippe sind vollständig mit angeleintem Hund zugänglich; im Inneren der Beinhaus-Kapelle wird gebeten, Hunde draußen zu lassen.",
           "descriptionNl": "De katholieke parochiekerk St. Michael uit de 12e eeuw, hoog boven het dorp op de klif, herbergt het beroemde beenhuis, waar 1.200 beschilderde schedels van dorpsbewoners zijn opgesteld, een unieke traditie die ontstond omdat het kerkhof van Hallstatt op de klif geen ruimte heeft om uit te breiden. Het kerkterrein en de klim over de klif zijn volledig toegankelijk met aangelijnde hond; in het beenhuis-kapel zelf wordt gevraagd honden buiten te laten.",
+          "descriptionIt": "La chiesa parrocchiale cattolica di San Michele, del XII secolo, in alto sul paese sulla scogliera, custodisce il famoso ossario, dove sono esposti 1.200 crani dipinti di abitanti del paese, una tradizione unica nata perché il cimitero di Hallstatt, sulla scogliera, non ha spazio per espandersi. Il terreno della chiesa e la salita sulla scogliera sono completamente accessibili al guinzaglio con il cane; nella cappella dell'ossario stessa si chiede di lasciare i cani fuori.",
           "petPolicyDe": "Angeleinte Hunde auf dem Gelände und Fußweg willkommen; nicht im Inneren des Beinhauses",
           "petPolicyNl": "Aangelijnde honden welkom op het terrein en het voetpad; niet in het beenhuis zelf",
+          "petPolicyIt": "Cani al guinzaglio benvenuti nel terreno della chiesa e sul sentiero; non nell'ossario stesso",
           "tipDe": "Der Klippenweg zur Kirche ist steil, aber kurz (5 Minuten vom Marktplatz). Der Kirchhof bietet selbst zu Stoßzeiten einen der ruhigsten Fotoplätze mit Hund im Dorf, mit dem See darunter ausgebreitet.",
-          "tipNl": "Het klifpad naar de kerk is steil maar kort (5 minuten van het marktplein). De kerktuin biedt zelfs op drukke momenten een van de rustigste fotoplekken met hond in het dorp, met het meer eronder uitgespreid."
+          "tipNl": "Het klifpad naar de kerk is steil maar kort (5 minuten van het marktplein). De kerktuin biedt zelfs op drukke momenten een van de rustigste fotoplekken met hond in het dorp, met het meer eronder uitgespreid.",
+          "tipIt": "Il sentiero sulla scogliera verso la chiesa è ripido ma breve (5 minuti dalla piazza del mercato). Il giardino della chiesa offre, anche nei momenti di maggiore affluenza, uno dei punti più tranquilli del paese per una foto con il cane, con il lago disteso sotto."
         }
       ],
       "titleDe": "Hundefreundliche Attraktionen in Hallstatt",
       "titleNl": "Hondvriendelijke attracties in Hallstatt",
+      "titleIt": "Attrazioni pet-friendly a Hallstatt",
       "introDe": "Auch ohne die Salzwelten bietet Hallstatt Sehenswürdigkeiten von Weltklasse für Hunde: den UNESCO-Dorfkern und den Marktplatz, den dramatischen Aussichtspunkt Skywalk Welterbeblick, die Aussichtsplattform Five Fingers auf dem Krippenstein-Plateau (mit der Seilbahn erreichbar) und das Hallstätter Beinhaus an der Pfarrkirche. Die Kombination aus See, Berg und Dorf ergibt einen Outdoor-Rundgang, der sich locker über zwei oder drei Tage im Hundetempo füllen lässt.",
       "introNl": "Ook zonder de Salzwelten biedt Hallstatt bezienswaardigheden van wereldklasse voor honden: de UNESCO-dorpskern en het marktplein, het dramatische uitzichtpunt Skywalk Welterbeblick, het uitzichtplatform Five Fingers op het Krippenstein-plateau (bereikbaar met de kabelbaan) en het Hallstätter beenhuis bij de parochiekerk. De combinatie van meer, berg en dorp levert een buitenrondgang op die zich moeiteloos vult over twee of drie dagen in hondentempo.",
+      "introIt": "Anche senza le Salzwelten, Hallstatt offre attrazioni di livello mondiale per i cani: il nucleo del paese patrimonio UNESCO e la piazza del mercato, lo spettacolare punto panoramico Skywalk Welterbeblick, la piattaforma panoramica Five Fingers sull'altopiano del Krippenstein (raggiungibile con la funivia) e l'ossario di Hallstatt vicino alla chiesa parrocchiale. La combinazione di lago, montagna e paese offre un giro all'aperto che si riempie senza sforzo in due o tre giorni al passo del cane.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Care Services for Hallstatt",
@@ -762,10 +849,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bad+Ischl",
           "descriptionDe": "Pawshake betreibt ein verifiziertes Netzwerk von Haustierbetreuern im gesamten Salzkammergut. Die nächstgelegenen Betreuer zu Hallstatt konzentrieren sich in Bad Ischl (20 km) und Bad Goisern (10 km) und bieten Gassi-Service, Tagesbetreuung und Übernachtungsaufenthalte. Jede Buchung umfasst die Pawshake-Garantie mit tierärztlicher Absicherung und 24/7-Kundendienst. Filtern Sie nach Sprache, um englischsprachige Betreuer zu finden.",
           "descriptionNl": "Pawshake exploiteert een geverifieerd netwerk van huisdierenoppassers in het hele Salzkammergut. De dichtstbijzijnde oppassers bij Hallstatt concentreren zich in Bad Ischl (20 km) en Bad Goisern (10 km) en bieden uitlaatservice, dagopvang en overnachtingsverblijven. Elke boeking omvat de Pawshake-garantie met dierenartsdekking en 24/7-klantenservice. Filter op taal om Engelssprekende oppassers te vinden.",
+          "descriptionIt": "Pawshake gestisce una rete verificata di pet sitter in tutto il Salzkammergut. I sitter più vicini a Hallstatt si concentrano a Bad Ischl (20 km) e Bad Goisern (10 km) e offrono servizio di passeggiate, assistenza diurna e pernottamento. Ogni prenotazione include la garanzia Pawshake con copertura veterinaria e assistenza clienti 24/7. Filtra per lingua per trovare sitter di lingua inglese.",
           "petPolicyDe": "Verifizierte Betreuer, Versicherung über die Plattform inbegriffen",
           "petPolicyNl": "Geverifieerde oppassers, verzekering via het platform inbegrepen",
+          "petPolicyIt": "Pet sitter verificati, assicurazione della piattaforma inclusa",
           "tipDe": "Buchen Sie einen 3-stündigen Tagesbetreuungs-Slot in Bad Goisern für 15–20 €, perfekt für die Salzwelten-Bergwerkstour (~2,5 Std. insgesamt inklusive Standseilbahn).",
-          "tipNl": "Boek een dagopvangslot van 3 uur in Bad Goisern voor 15-20 €, perfect voor de mijntour van de Salzwelten (~2,5 uur in totaal inclusief kabelspoorbaan)."
+          "tipNl": "Boek een dagopvangslot van 3 uur in Bad Goisern voor 15-20 €, perfect voor de mijntour van de Salzwelten (~2,5 uur in totaal inclusief kabelspoorbaan).",
+          "tipIt": "Prenota uno slot di assistenza diurna di 3 ore a Bad Goisern per 15-20 €, perfetto per il tour della miniera delle Salzwelten (~2,5 ore in totale inclusa la funicolare)."
         },
         {
           "name": "Rover.com Austria - Salzkammergut",
@@ -788,10 +878,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bad+Goisern",
           "descriptionDe": "Rover.com listet aktive private Haustierbetreuer im gesamten Salzkammergut. Der Medianpreis liegt bei ~25 € für Tagesbetreuung und ~35 € für Übernachtung. Die Plattform unterstützt Gassi-Service, Tagesbetreuung, Haussitting und Übernachtungsbetreuung. Bewertungen sind meist auf Deutsch, englischsprachige Profile sind verfügbar. Die Rover-Garantie umfasst eine Erstattung tierärztlicher Kosten bis zu 25.000 € pro Buchung.",
           "descriptionNl": "Rover.com lijst actieve particuliere huisdierenoppassers in het hele Salzkammergut. De mediane prijs ligt rond 25 € voor dagopvang en rond 35 € voor overnachting. Het platform ondersteunt uitlaatservice, dagopvang, huisoppas en overnachtingszorg. Beoordelingen zijn meestal in het Duits, Engelssprekende profielen zijn beschikbaar. De Rover-garantie omvat een vergoeding van dierenartskosten tot 25.000 € per boeking.",
+          "descriptionIt": "Rover.com elenca pet sitter privati attivi in tutto il Salzkammergut. Il prezzo mediano è di circa 25 € per l'assistenza diurna e circa 35 € per il pernottamento. La piattaforma supporta servizio di passeggiate, assistenza diurna, custodia in casa e pernottamento. Le recensioni sono per lo più in tedesco, sono disponibili profili di lingua inglese. La garanzia Rover copre le spese veterinarie fino a 25.000 € per prenotazione.",
           "petPolicyDe": "Verifizierte Betreuer, Rover-Garantie inbegriffen",
           "petPolicyNl": "Geverifieerde oppassers, Rover-garantie inbegrepen",
+          "petPolicyIt": "Pet sitter verificati, garanzia Rover inclusa",
           "tipDe": "Der Betreuerpool im Salzkammergut ist klein, buchen Sie im Juli und August mindestens 7 Tage im Voraus und 2 Wochen für die Weihnachtsmarktzeit Ende Dezember, wenn Bad Ischl seinen Höhepunkt erreicht.",
-          "tipNl": "De pool van oppassers in het Salzkammergut is klein, boek in juli en augustus minstens 7 dagen van tevoren en 2 weken voor de kerstmarkttijd eind december, wanneer Bad Ischl zijn piek bereikt."
+          "tipNl": "De pool van oppassers in het Salzkammergut is klein, boek in juli en augustus minstens 7 dagen van tevoren en 2 weken voor de kerstmarkttijd eind december, wanneer Bad Ischl zijn piek bereikt.",
+          "tipIt": "Il bacino di pet sitter nel Salzkammergut è piccolo, prenota almeno 7 giorni prima in luglio e agosto e 2 settimane prima per il periodo dei mercatini di Natale a fine dicembre, quando Bad Ischl raggiunge il suo picco."
         },
         {
           "name": "TrustedHousesitters Salzkammergut",
@@ -814,18 +907,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hallstatt",
           "descriptionDe": "TrustedHousesitters listet verifizierte Live-in-Betreuer in Oberösterreich (einschließlich des Salzkammerguts), die in Ihrer Ferienunterkunft wohnen und im Gegenzug Ihren Hund betreuen, nützlich für Reisende in einer Ferienwohnung in Hallstatt oder Obertraun. Die Mitgliedschaft ist jährlich (~169 $/Jahr), eignet sich aber für Reisende, die mehrere Aufenthalte in Österreich planen. Identitäts- und Referenzprüfung auf beiden Seiten.",
           "descriptionNl": "TrustedHousesitters lijst geverifieerde inwonende oppassers in Opper-Oostenrijk (inclusief het Salzkammergut), die in je vakantieverblijf wonen en in ruil daarvoor je hond verzorgen, handig voor reizigers in een vakantiewoning in Hallstatt of Obertraun. Het lidmaatschap is jaarlijks (~169 $/jaar), maar geschikt voor reizigers die meerdere verblijven in Oostenrijk plannen. Identiteits- en referentiecontrole aan beide kanten.",
+          "descriptionIt": "TrustedHousesitters elenca house sitter verificati che vivono in loco nell'Alta Austria (Salzkammergut incluso), che alloggiano nella tua casa vacanze e in cambio si prendono cura del tuo cane, utile per chi viaggia in una casa vacanze a Hallstatt o Obertraun. L'iscrizione è annuale (~169 $/anno), ma adatta a chi pianifica più soggiorni in Austria. Controllo di identità e referenze su entrambi i lati.",
           "petPolicyDe": "Verifizierte Live-in-Betreuer, mitgliedschaftsbasiert (keine Gebühr pro Nacht)",
           "petPolicyNl": "Geverifieerde inwonende oppassers, lidmaatschapsgebaseerd (geen kosten per nacht)",
+          "petPolicyIt": "House sitter verificati che alloggiano in loco, basato su abbonamento (nessun costo per notte)",
           "tipDe": "Veröffentlichen Sie Ihre Anfrage 4–6 Wochen vor der Reise, um erfahrene Bewerber anzuziehen, kurzfristige Anfragen im Salzkammergut ziehen meist nur unerfahrene Betreuer an.",
-          "tipNl": "Plaats je aanvraag 4-6 weken voor de reis om ervaren kandidaten aan te trekken, last-minute aanvragen in het Salzkammergut trekken meestal alleen onervaren oppassers aan."
+          "tipNl": "Plaats je aanvraag 4-6 weken voor de reis om ervaren kandidaten aan te trekken, last-minute aanvragen in het Salzkammergut trekken meestal alleen onervaren oppassers aan.",
+          "tipIt": "Pubblica la tua richiesta 4-6 settimane prima del viaggio per attirare candidati esperti, le richieste dell'ultimo minuto nel Salzkammergut attirano di solito solo sitter senza esperienza."
         }
       ],
       "titleDe": "Haustierbetreuung & Hundepflege-Services für Hallstatt",
       "titleNl": "Huisdierenzorg & hondenverzorgingsdiensten voor Hallstatt",
+      "titleIt": "Cura degli animali e servizi di dog sitting per Hallstatt",
       "introDe": "Hallstatt selbst hat kein ortsansässiges Unternehmen für Haustierbetreuung, das Dorf ist dafür zu klein. Internationale Plattformen (Pawshake, Rover) listen eine Handvoll Betreuer im weiteren Salzkammergut (Bad Ischl, Bad Goisern, Gosau), die Ihren Hund für ein paar Stunden betreuen können, während Sie die Salzwelten Hallstatt oder die Eishöhle Mammuthöhle besuchen (beide verbieten Hunde). Buchungen sollten im Juli/August 1–2 Wochen im Voraus erfolgen. Die meisten Betreuer sprechen Deutsch mit Grundkenntnissen in Englisch.",
       "introNl": "Hallstatt zelf heeft geen lokaal bedrijf voor huisdierenzorg, het dorp is daar te klein voor. Internationale platforms (Pawshake, Rover) lijsten een handvol oppassers in het wijdere Salzkammergut (Bad Ischl, Bad Goisern, Gosau), die je hond een paar uur kunnen verzorgen terwijl je de Salzwelten Hallstatt of de ijsgrot Mammuthöhle bezoekt (beide verbieden honden). Boekingen moeten in juli/augustus 1-2 weken van tevoren gebeuren. De meeste oppassers spreken Duits met basiskennis Engels.",
+      "introIt": "Hallstatt stessa non ha un'azienda locale di cura degli animali, il paese è troppo piccolo per questo. Piattaforme internazionali (Pawshake, Rover) elencano una manciata di sitter nel più ampio Salzkammergut (Bad Ischl, Bad Goisern, Gosau), che possono occuparsi del tuo cane per qualche ora mentre visiti le Salzwelten Hallstatt o la grotta di ghiaccio Mammuthöhle (entrambe vietano i cani). Le prenotazioni vanno fatte 1-2 settimane prima in luglio/agosto. La maggior parte dei sitter parla tedesco con un inglese di base.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

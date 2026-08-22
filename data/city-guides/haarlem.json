@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Jopenkerk+Haarlem",
           "descriptionDe": "Eine funktionierende Craft-Brauerei mit Bistro in der ehemaligen Jacobskerk, einer Kirche aus dem 15. Jahrhundert, die 2010 zum bekanntesten Speisesaal Haarlems umgebaut wurde, mit Kupferbrautanks unter dem gotischen Gewölbe. Hunde sind auf der breiten Kopfsteinpflaster-Terrasse zum Raaks-Platz und im Brauerei-Café im Erdgeschoss willkommen; im Restaurant im Obergeschoss werden angeleinte Hunde unter dem Tisch bevorzugt. Die Küche kombiniert Jopen-Biere mit Sharing-Plates, saisonalen Muscheln und einer langen niederländischen Käseplatte.",
           "descriptionNl": "Een werkende ambachtelijke brouwerij met bistro in de voormalige Jacobskerk, een kerk uit de 15e eeuw, in 2010 verbouwd tot de bekendste eetzaal van Haarlem, met koperen brouwketels onder het gotische gewelf. Honden zijn welkom op het brede terras met kasseien richting het Raaksplein en in het brouwerijcafé op de begane grond; in het restaurant boven worden aangelijnde honden onder de tafel het liefst gezien. De keuken combineert Jopen-bieren met deelgerechten, seizoensmosselen en een lange Nederlandse kaasplank.",
+          "descriptionIt": "Un birrificio artigianale funzionante con bistrot nell'ex Jacobskerk, una chiesa del XV secolo, trasformata nel 2010 nella sala da pranzo più famosa di Haarlem, con tini di rame sotto la volta gotica. I cani sono benvenuti sull'ampia terrazza in ciottoli verso il Raaksplein e nel caffè del birrificio al piano terra; al ristorante di sopra i cani al guinzaglio sotto il tavolo sono più che graditi. La cucina unisce le birre Jopen a piatti da condividere, cozze di stagione e un lungo tagliere di formaggi olandesi.",
           "petPolicyDe": "Hunde auf der Terrasse und im Brauerei-Café im Erdgeschoss willkommen; angeleint unter dem Tisch im Obergeschoss",
           "petPolicyNl": "Honden welkom op het terras en in het brouwerijcafé op de begane grond; aangelijnd onder de tafel boven",
+          "petPolicyIt": "Cani benvenuti in terrazza e nel caffè del birrificio al piano terra; al guinzaglio sotto il tavolo di sopra",
           "mustTryDe": "Jopen Hoppenbier vom Fass, Bitterballen, niederländische Käseplatte",
           "mustTryNl": "Jopen Hoppenbier van de tap, bitterballen, Nederlandse kaasplank",
+          "mustTryIt": "Jopen Hoppenbier alla spina, bitterballen, tagliere di formaggi olandesi",
           "tipDe": "Fragen Sie nach einem Außentisch am Raaks; der Kopfsteinpflaster-Platz ist ruhiger als der Grote Markt und nur 3 Gehminuten von der Kathedrale entfernt.",
-          "tipNl": "Vraag om een buitentafel aan het Raaks; het kasseienplein is rustiger dan de Grote Markt en maar 3 minuten lopen van de kathedraal."
+          "tipNl": "Vraag om een buitentafel aan het Raaks; het kasseienplein is rustiger dan de Grote Markt en maar 3 minuten lopen van de kathedraal.",
+          "tipIt": "Chiedi un tavolo all'aperto sul Raaks; la piazza in ciottoli è più tranquilla della Grote Markt ed è a soli 3 minuti a piedi dalla cattedrale."
         },
         {
           "name": "Native Haarlem",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Native+Haarlem+Lange+Veerstraat",
           "descriptionDe": "Eine ganztägig geöffnete, pflanzenbetonte Küche mit Naturweinbar in der Lange Veerstraat zwischen Grote Markt und Spaarne. Hunde sind an den Tischen auf dem Bürgersteig und im entspannten Hinterzimmer willkommen, die Küche bringt bei Ankunft einen Wassernapf, und die Karte setzt auf saisonales niederländisches Gemüse, Sauerteigbrot und eine kurze, gut kalkulierte Liste biodynamischer Weine. Ein verlässlicher Anlaufpunkt zum Mittag- oder Abendessen mitten in der Altstadt.",
           "descriptionNl": "Een de hele dag geopende, plantaardig gerichte keuken met natuurwijnbar aan de Lange Veerstraat tussen Grote Markt en Spaarne. Honden zijn welkom aan de stoeptafels en in het rustige achterkamertje, de keuken brengt bij aankomst een waterbak, en de kaart zet in op seizoensgroenten, zuurdesembrood en een korte, goed samengestelde lijst biodynamische wijnen. Een betrouwbare optie voor lunch of diner middenin de oude stad.",
+          "descriptionIt": "Una cucina aperta tutto il giorno, orientata al vegetale, con wine bar naturale in Lange Veerstraat tra Grote Markt e Spaarne. I cani sono benvenuti ai tavoli sul marciapiede e nella tranquilla saletta sul retro, la cucina porta una ciotola d'acqua all'arrivo, e il menu punta su verdure di stagione, pane a lievitazione naturale e una breve ma ben scelta lista di vini biodinamici. Un'opzione affidabile per pranzo o cena nel cuore della città vecchia.",
           "petPolicyDe": "Hunde an den Bürgersteig-Tischen und im Hinterzimmer willkommen",
           "petPolicyNl": "Honden welkom aan de stoeptafels en in het achterkamertje",
+          "petPolicyIt": "Cani benvenuti ai tavoli sul marciapiede e nella saletta sul retro",
           "mustTryDe": "Saisonaler Gemüseteller, Sauerteig-Toast, Naturwein-Flight",
           "mustTryNl": "Seizoensgroenteschotel, zuurdesemtoast, natuurwijn-proeverij",
+          "mustTryIt": "Piatto di verdure di stagione, toast con pane a lievitazione naturale, degustazione di vini naturali",
           "tipDe": "Reservieren Sie im Winter das Hinterzimmer; die Ecknische bietet auch einem großen Hund bequem Platz unter der Sitzbank.",
-          "tipNl": "Reserveer 's winters het achterkamertje; de hoeknis biedt ook een grote hond ruim plek onder de bank."
+          "tipNl": "Reserveer 's winters het achterkamertje; de hoeknis biedt ook een grote hond ruim plek onder de bank.",
+          "tipIt": "In inverno prenota la saletta sul retro; l'angolo offre spazio abbondante anche a un cane grande sotto la panca."
         },
         {
           "name": "Restaurant ML by Mark Gratama",
@@ -110,20 +118,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Restaurant+ML+Klokhuisplein+Haarlem",
           "descriptionDe": "Ein mit einem Michelin-Stern ausgezeichnetes Fine-Dining-Restaurant neben der Grote Sint-Bavokerk, das für seine Kategorie ungewöhnlicherweise wohlerzogene Hunde mittags auf der Kopfsteinpflaster-Terrasse am Klokhuisplein mit Blick auf die Kathedralenapsis empfängt. Küchenchef Mark Gratama serviert ein präzises französisch-niederländisches Degustationsmenü mit Erzeugnissen aus dem eigenen Küchengarten. Reservieren Sie die Terrasse ausdrücklich und erwähnen Sie den Hund bei der Buchung; der Innenraum ist Gästen ohne Haustiere vorbehalten.",
           "descriptionNl": "Een met een Michelinster onderscheiden fine-dining restaurant naast de Grote Sint-Bavokerk, dat ongebruikelijk voor zijn categorie welopgevoede honden 's middags verwelkomt op het kasseienterras aan het Klokhuisplein met uitzicht op de apsis van de kathedraal. Chef-kok Mark Gratama serveert een precies Frans-Nederlands degustatiemenu met producten uit de eigen moestuin. Reserveer het terras uitdrukkelijk en vermeld de hond bij het boeken; het interieur is voorbehouden aan gasten zonder huisdier.",
+          "descriptionIt": "Un ristorante gourmet con stella Michelin accanto alla Grote Sint-Bavokerk, che in modo insolito per la sua categoria accoglie cani ben educati nel pomeriggio sulla terrazza in ciottoli di Klokhuisplein con vista sull'abside della cattedrale. Lo chef Mark Gratama serve un menu degustazione franco-olandese preciso con prodotti dell'orto di proprietà. Prenota espressamente la terrazza e segnala il cane al momento della prenotazione; l'interno è riservato agli ospiti senza animali.",
           "petPolicyDe": "Hunde mittags auf der Klokhuisplein-Terrasse willkommen; im Innenraum nur Erwachsene",
           "petPolicyNl": "Honden 's middags welkom op het Klokhuisplein-terras; binnen alleen volwassenen",
+          "petPolicyIt": "Cani benvenuti nel pomeriggio sulla terrazza di Klokhuisplein; all'interno solo adulti",
           "mustTryDe": "Dreigängiges Mittagsmenü, Degustation aus dem Küchengarten, niederländischer Käsewagen",
           "mustTryNl": "Driegangen lunchmenu, degustatie uit de moestuin, Nederlandse kaaswagen",
+          "mustTryIt": "Menu pranzo di tre portate, degustazione dall'orto, carrello dei formaggi olandesi",
           "tipDe": "Die Klokhuisplein-Terrasse liegt nachmittags im Schatten der Kathedrale; reservieren Sie den Ecktisch für den besten Blick auf den Bavokerk-Turm.",
-          "tipNl": "Het Klokhuisplein-terras ligt 's middags in de schaduw van de kathedraal; reserveer de hoektafel voor het beste zicht op de Bavokerk-toren."
+          "tipNl": "Het Klokhuisplein-terras ligt 's middags in de schaduw van de kathedraal; reserveer de hoektafel voor het beste zicht op de Bavokerk-toren.",
+          "tipIt": "La terrazza di Klokhuisplein è in ombra nel pomeriggio grazie alla cattedrale; prenota il tavolo d'angolo per la vista migliore sulla torre della Bavokerk."
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Haarlem, Grote Markt & Spaarne-Terrassen",
       "titleNl": "Hondvriendelijke restaurants in Haarlem, terrassen aan Grote Markt & Spaarne",
+      "titleIt": "Ristoranti pet-friendly ad Haarlem, terrazze su Grote Markt e Spaarne",
       "introDe": "Haarlem liegt nur 20 km westlich von Amsterdam, doch seine Café-Kultur wirkt gelassener, ruhiger und fast durchweg hundefreundlich. Die Terrassen rund um den Grote Markt unter der Grote Sint-Bavokerk füllen sich ab dem späten Vormittag mit Einheimischen und ihren Hunden, Wassernäpfe erscheinen ungefragt am Klein Heiligland und am Botermarkt, und die Tische am Spaarne-Ufer reihen sich von der Windmühle De Adriaan bis zur Gravestenenbrug. Die drei folgenden Adressen sind ganzjährig zuverlässig und genießen bei Haarlemer Hundebesitzern einen ausgezeichneten Ruf.",
       "introNl": "Haarlem ligt maar 20 km ten westen van Amsterdam, maar de cafécultuur voelt rustiger, kalmer en bijna doorgaans hondvriendelijk. De terrassen rond de Grote Markt onder de Grote Sint-Bavokerk lopen vanaf de late ochtend vol met locals en hun honden, waterbakken verschijnen ongevraagd aan het Klein Heiligland en de Botermarkt, en de tafels langs het Spaarne-oever reeksen zich van de molen De Adriaan tot de Gravestenenbrug. De drie onderstaande adressen zijn het hele jaar betrouwbaar en genieten bij Haarlemse hondenbezitters een uitstekende reputatie.",
+      "introIt": "Haarlem si trova a soli 20 km a ovest di Amsterdam, ma la cultura dei caffè qui è più tranquilla, rilassata e quasi sempre pet-friendly. Le terrazze intorno alla Grote Markt, sotto la Grote Sint-Bavokerk, si riempiono dalla tarda mattinata di gente del posto e dei loro cani, le ciotole d'acqua compaiono senza che tu le chieda a Klein Heiligland e Botermarkt, e i tavoli lungo le rive dello Spaarne si susseguono dal mulino De Adriaan fino al Gravestenenbrug. I tre indirizzi qui sotto sono affidabili tutto l'anno e godono di un'ottima reputazione tra i proprietari di cani di Haarlem.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Best Parks for Dogs in Haarlem, Haarlemmerhout & Schoterbos Off-Leash",
@@ -164,12 +179,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Haarlemmerhout+Haarlem",
           "descriptionDe": "Der älteste öffentliche Park der Niederlande, 1583 direkt südlich der historischen Altstadt angelegt, mit ausgewachsenen Buchen- und Eichenalleen, dem Teich am Heerenduinweg und breiten Rasenflächen, die bei morgendlichen Hundebesitzern aus den Vierteln Welgelegen und Bos en Vaart beliebt sind. In den meisten Teilen des Parks besteht Leinenpflicht, doch auf der östlichen Mauritslaan-Seite liegt eine klar markierte Freilaufwiese von rund 5 Hektar.",
           "descriptionNl": "Het oudste openbare park van Nederland, aangelegd in 1583 direct ten zuiden van de historische oude stad, met volgroeide beuken- en eikenlanen, de vijver bij de Heerenduinweg en brede grasvelden die geliefd zijn bij hondenbezitters uit de wijken Welgelegen en Bos en Vaart die 's ochtends komen. In de meeste delen van het park geldt lijnplicht, maar aan de oostelijke Mauritslaan-kant ligt een duidelijk gemarkeerde losloopweide van ongeveer 5 hectare.",
+          "descriptionIt": "Il parco pubblico più antico dei Paesi Bassi, creato nel 1583 appena a sud del centro storico, con viali secolari di faggi e querce, il laghetto vicino a Heerenduinweg e ampi prati amati dai proprietari di cani dei quartieri Welgelegen e Bos en Vaart che arrivano al mattino. Nella maggior parte del parco vige l'obbligo di guinzaglio, ma sul lato orientale di Mauritslaan si trova un'area sgambamento ben segnalata di circa 5 ettari.",
           "sizeDe": "≈ 100 Hektar",
           "sizeNl": "≈ 100 hectare",
+          "sizeIt": "≈ 100 ettari",
           "amenitiesDe": "Freilaufwiese an der Mauritslaan-Seite, Pavillon-Café, Teiche, Spielplatz",
           "amenitiesNl": "Losloopweide aan de Mauritslaan-kant, paviljoencafé, vijvers, speeltuin",
+          "amenitiesIt": "Area sgambamento sul lato Mauritslaan, caffè nel padiglione, laghetti, parco giochi",
           "tipDe": "Betreten Sie den Park am Florapark-Tor, gehen Sie fünf Minuten nach Süden, dann liegt die Freilaufwiese als zweite Lichtung links; die Schilder tragen die Aufschrift „losloopgebied“.",
-          "tipNl": "Ga het park binnen bij de Florapark-poort, loop vijf minuten naar het zuiden, dan ligt de losloopweide als tweede open plek links; de bordjes dragen het opschrift 'losloopgebied'."
+          "tipNl": "Ga het park binnen bij de Florapark-poort, loop vijf minuten naar het zuiden, dan ligt de losloopweide als tweede open plek links; de bordjes dragen het opschrift 'losloopgebied'.",
+          "tipIt": "Entra nel parco dal cancello di Florapark, cammina cinque minuti verso sud: l'area sgambamento è il secondo spiazzo aperto a sinistra; i cartelli riportano la scritta 'losloopgebied'."
         },
         {
           "name": "Schoterbos",
@@ -200,12 +219,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Schoterbos+Haarlem",
           "descriptionDe": "Ein 40 Hektar großer, bewaldeter Stadtpark nördlich des Spaarne mit zwei gut ausgeschilderten Freilaufwiesen („hondenweides“), einer kleinen Teichrunde und einem flachen 3-km-Rundweg, der bei Radfahrern und Läufern beliebt ist. Die nördliche Freilaufwiese ist der Favorit für Gruppen großer Rassen; die südliche (nahe dem Eingang Vondelweg) ist kleiner und ruhiger. Im Sommer gibt es Trinkwasserzapfstellen sowie ein Kiosk-Café am Spielplatz.",
           "descriptionNl": "Een 40 hectare groot, bebost stadspark ten noorden van het Spaarne met twee goed gemarkeerde hondenlosloopweides, een klein vijverrondje en een vlak rondje van 3 km dat geliefd is bij fietsers en hardlopers. De noordelijke losloopweide is favoriet bij groepen grote rassen; de zuidelijke (bij de ingang Vondelweg) is kleiner en rustiger. 's Zomers zijn er drinkwaterpunten en een kiosk-café bij de speeltuin.",
+          "descriptionIt": "Un parco cittadino boschivo di 40 ettari a nord dello Spaarne, con due aree sgambamento per cani ben segnalate, un piccolo giro intorno a un laghetto e un percorso pianeggiante di 3 km amato da ciclisti e runner. L'area sgambamento a nord è preferita dai gruppi di cani di taglia grande; quella a sud (vicino all'ingresso Vondelweg) è più piccola e tranquilla. D'estate ci sono punti acqua potabile e un chiosco-caffè vicino al parco giochi.",
           "sizeDe": "≈ 40 Hektar",
           "sizeNl": "≈ 40 hectare",
+          "sizeIt": "≈ 40 ettari",
           "amenitiesDe": "Zwei Freilaufwiesen, 3-km-Rundweg, Teich, Kiosk-Café, Trinkwasserzapfstellen, Spielplatz",
           "amenitiesNl": "Twee losloopweides, rondje van 3 km, vijver, kiosk-café, drinkwaterpunten, speeltuin",
+          "amenitiesIt": "Due aree sgambamento, percorso di 3 km, laghetto, chiosco-caffè, punti acqua potabile, parco giochi",
           "tipDe": "Parken Sie kostenlos am Eingang Vondelweg; die kleinere südliche Freilaufwiese liegt 100 m geradeaus und ist an Wochentagvormittagen selten überlaufen.",
-          "tipNl": "Parkeer gratis bij de ingang Vondelweg; de kleinere zuidelijke losloopweide ligt 100 m rechtdoor en is doordeweekse ochtenden zelden druk."
+          "tipNl": "Parkeer gratis bij de ingang Vondelweg; de kleinere zuidelijke losloopweide ligt 100 m rechtdoor en is doordeweekse ochtenden zelden druk.",
+          "tipIt": "Parcheggia gratis all'ingresso Vondelweg; l'area sgambamento più piccola a sud è a 100 m dritto avanti ed è raramente affollata nelle mattine feriali."
         },
         {
           "name": "Nationaal Park Zuid-Kennemerland",
@@ -236,20 +259,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Nationaal+Park+Zuid-Kennemerland+Koevlak",
           "descriptionDe": "Ein 38 km² großer Dünen- und Kiefernwald-Nationalpark zwischen Haarlem und der Nordsee mit kilometerlangen markierten Wanderwegen durch wilde Küstenheide, Süßwasserteiche und Dünenkämme. Auf den meisten Routen gilt Leinenpflicht, doch im Abschnitt Koevlak nahe dem Eingang Overveen gibt es eine ausgewiesene Freilaufzone. In eingezäunten Bereichen weiden europäische Bisons und Hochlandrinder; prüfen Sie die Wegekarte am Eingang, bevor Sie losgehen.",
           "descriptionNl": "Een 38 km² groot nationaal park met duinen en dennenbos tussen Haarlem en de Noordzee, met kilometers gemarkeerde wandelpaden door wilde kustheide, zoetwaterplassen en duinruggen. Op de meeste routes geldt lijnplicht, maar in het gebied Koevlak bij de ingang Overveen is er een aangewezen losloopzone. In omheinde gebieden grazen Europese bizons en Schotse hooglanders; controleer de padkaart bij de ingang voordat je vertrekt.",
+          "descriptionIt": "Un parco nazionale di 38 km² con dune e pineta tra Haarlem e il Mare del Nord, con chilometri di sentieri segnalati tra brughiera costiera selvaggia, stagni d'acqua dolce e cordoni dunari. Sulla maggior parte dei percorsi vige l'obbligo di guinzaglio, ma nell'area Koevlak vicino all'ingresso Overveen c'è una zona sgambamento designata. In aree recintate pascolano bisonti europei e highlander scozzesi; controlla la mappa dei sentieri all'ingresso prima di partire.",
           "sizeDe": "≈ 3.800 Hektar",
           "sizeNl": "≈ 3.800 hectare",
+          "sizeIt": "≈ 3.800 ettari",
           "amenitiesDe": "Markierte Dünenwege, Koevlak-Freilaufzone, Besucherzentrum bei Koevlak, Parkplatz",
           "amenitiesNl": "Gemarkeerde duinpaden, Koevlak-losloopzone, bezoekerscentrum bij Koevlak, parkeerplaats",
+          "amenitiesIt": "Sentieri dunari segnalati, zona sgambamento Koevlak, centro visitatori a Koevlak, parcheggio",
           "tipDe": "Von Haarlem nehmen Sie den Bus 81 nach Koevlak; im Sommer können die Dünenwege 30 °C ohne Schatten erreichen, planen Sie einen Start bei Sonnenaufgang oder nach 17:00 Uhr.",
-          "tipNl": "Vanuit Haarlem neem je bus 81 naar Koevlak; 's zomers kunnen de duinpaden zonder schaduw 30 °C bereiken, plan een start bij zonsopgang of na 17:00 uur."
+          "tipNl": "Vanuit Haarlem neem je bus 81 naar Koevlak; 's zomers kunnen de duinpaden zonder schaduw 30 °C bereiken, plan een start bij zonsopgang of na 17:00 uur.",
+          "tipIt": "Da Haarlem prendi l'autobus 81 fino a Koevlak; d'estate i sentieri dunari senza ombra possono raggiungere i 30 °C, meglio partire all'alba o dopo le 17:00."
         }
       ],
       "titleDe": "Die besten Parks für Hunde in Haarlem, Haarlemmerhout & Schoterbos ohne Leine",
       "titleNl": "De beste parken voor honden in Haarlem, Haarlemmerhout & Schoterbos loslopen",
+      "titleIt": "I parchi migliori per cani ad Haarlem, sgambamento libero a Haarlemmerhout e Schoterbos",
       "introDe": "Haarlem besitzt einen der ältesten öffentlichen Parks der Niederlande (den 1583 angelegten Haarlemmerhout) und säumt dessen Nordrand mit dem Schoterbos, einem großzügigen Waldpark mit zwei ausgewiesenen Freilaufwiesen für Hunde. Dazu kommen der Nationalpark Kennemer Dunes 6 km westlich und die Spaarne-Ufer mitten durch die Stadt, sodass die Stadt alles von kurzen angeleinten Runden bis zu ganztägigen Waldwanderungen abdeckt. Achten Sie auf das niederländische Schild „losloopgebied“ (legaler Freilaufbereich) und „aanlijngebied“ (Leinenpflicht); außerhalb der markierten Zonen drohen Bußgelder.",
       "introNl": "Haarlem heeft een van de oudste openbare parken van Nederland (de in 1583 aangelegde Haarlemmerhout) en zoomt de noordrand daarvan af met het Schoterbos, een ruim bospark met twee aangewezen hondenlosloopweides. Daarnaast zijn er Nationaal Park Kennemerduinen 6 km naar het westen en de Spaarne-oevers dwars door de stad, waardoor de stad alles biedt van korte aangelijnde rondjes tot hele dagen boswandelen. Let op de Nederlandse bordjes 'losloopgebied' (legale losloopzone) en 'aanlijngebied' (lijnplicht); buiten de gemarkeerde zones kun je een boete krijgen.",
+      "introIt": "Haarlem ha uno dei parchi pubblici più antichi dei Paesi Bassi (l'Haarlemmerhout, creato nel 1583) e ne delimita il bordo nord con lo Schoterbos, un ampio parco boschivo con due aree sgambamento designate per cani. Ci sono inoltre il Parco Nazionale delle Dune di Kennemerland a 6 km a ovest e le rive dello Spaarne che attraversano la città, così la città offre di tutto, dai brevi giri al guinzaglio a intere giornate di passeggiate nel bosco. Fai attenzione ai cartelli olandesi 'losloopgebied' (zona sgambamento libero legale) e 'aanlijngebied' (obbligo di guinzaglio); fuori dalle zone segnalate rischi una multa.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Public Transport with Pets in Haarlem & NS Trains to Amsterdam",
@@ -278,10 +308,13 @@
           "photo": "/images/city-places/haarlem-transport-ns-trains-haarlem-station.jpg",
           "typeDe": "Nationale Bahn",
           "typeNl": "Nationale trein",
+          "typeIt": "Treno nazionale",
           "petPolicyDe": "Hunde in einer Handtragetasche reisen kostenlos. Größere Hunde benötigen eine Dagkaart Hond (Tageskarte für Hunde, 3,30 €, unbegrenzte NS-Fahrten an diesem Tag) und müssen angeleint sein sowie im Beschwerdefall einen Maulkorb tragen. Direkter IC nach Amsterdam Centraal alle 10 Minuten, 15 Minuten Fahrzeit.",
           "petPolicyNl": "Honden in een draagtas reizen gratis mee. Grotere honden hebben een Dagkaart Hond nodig (dagkaart voor honden, 3,30 €, onbeperkt NS-reizen die dag) en moeten aangelijnd zijn en in geval van klachten een muilkorf dragen. Directe IC naar Amsterdam Centraal om de 10 minuten, 15 minuten reistijd.",
+          "petPolicyIt": "I cani in borsa da trasporto viaggiano gratis. I cani più grandi hanno bisogno di un Dagkaart Hond (biglietto giornaliero per cani, 3,30 €, viaggi NS illimitati per quel giorno) e devono stare al guinzaglio e, in caso di reclami, indossare la museruola. IC diretto per Amsterdam Centraal ogni 10 minuti, 15 minuti di viaggio.",
           "tipDe": "Kaufen Sie die Dagkaart Hond an jedem gelben NS-Automaten am Bahnhof Haarlem vor dem Einsteigen; ein Ticket gilt für alle NS-Fahrten an diesem Tag, einschließlich des Abstechers nach Zandvoort aan Zee.",
-          "tipNl": "Koop de Dagkaart Hond bij elke gele NS-automaat op station Haarlem voor het instappen; één ticket geldt voor alle NS-ritten die dag, inclusief het uitstapje naar Zandvoort aan Zee."
+          "tipNl": "Koop de Dagkaart Hond bij elke gele NS-automaat op station Haarlem voor het instappen; één ticket geldt voor alle NS-ritten die dag, inclusief het uitstapje naar Zandvoort aan Zee.",
+          "tipIt": "Compra il Dagkaart Hond a qualsiasi distributore automatico giallo NS alla stazione di Haarlem prima di salire; un solo biglietto vale per tutti i viaggi NS di quel giorno, inclusa la gita a Zandvoort aan Zee."
         },
         {
           "name": "Connexxion Buses (Haarlem & Zuid-Kennemerland)",
@@ -300,10 +333,13 @@
           "photo": "/images/city-places/haarlem-transport-connexxion-buses-haarlem-zuid-kennemerland.jpg",
           "typeDe": "Regionales Busnetz",
           "typeNl": "Regionaal busnetwerk",
+          "typeIt": "Rete di autobus regionale",
           "petPolicyDe": "Hunde reisen kostenlos in allen Connexxion-Bussen; Hunde in Transportgröße kostenlos, größere Hunde angeleint nach Ermessen des Fahrers. Die häufig verkehrenden R-Net-Busse 80 und 81 verbinden Haarlem mit den Dünen, dem Strand und Zandvoort.",
           "petPolicyNl": "Honden reizen gratis mee in alle Connexxion-bussen; honden van draagformaat gratis, grotere honden aangelijnd naar goeddunken van de chauffeur. De frequente R-Net-bussen 80 en 81 verbinden Haarlem met de duinen, het strand en Zandvoort.",
+          "petPolicyIt": "I cani viaggiano gratis su tutti gli autobus Connexxion; i cani di taglia da trasportino gratis, i cani più grandi al guinzaglio a discrezione dell'autista. Gli autobus frequenti R-Net 80 e 81 collegano Haarlem alle dune, alla spiaggia e a Zandvoort.",
           "tipDe": "Der Bus 81 vom Bahnhof Haarlem nach Zandvoort aan Zee fährt alle 20 Minuten und hält am Eingang des Nationalparks Koevlak, die einfachste kombinierte Dünen-und-Strand-Runde.",
-          "tipNl": "Bus 81 vanaf station Haarlem naar Zandvoort aan Zee rijdt elke 20 minuten en stopt bij de ingang van Nationaal Park Koevlak, het eenvoudigste gecombineerde duinen-en-strand-rondje."
+          "tipNl": "Bus 81 vanaf station Haarlem naar Zandvoort aan Zee rijdt elke 20 minuten en stopt bij de ingang van Nationaal Park Koevlak, het eenvoudigste gecombineerde duinen-en-strand-rondje.",
+          "tipIt": "L'autobus 81 dalla stazione di Haarlem a Zandvoort aan Zee passa ogni 20 minuti e ferma all'ingresso del Parco Nazionale Koevlak, il giro combinato dune-spiaggia più semplice."
         },
         {
           "name": "Schiphol Airport Direct Train",
@@ -322,18 +358,24 @@
           "photo": "/images/city-places/haarlem-transport-schiphol-airport-direct-train.jpg",
           "typeDe": "Flughafenbahn",
           "typeNl": "Luchthaventrein",
+          "typeIt": "Treno per l'aeroporto",
           "petPolicyDe": "Der NS-Sprinter von Haarlem zum Flughafen Schiphol fährt alle 15 Minuten, 20 Minuten Fahrzeit über Hoofddorp. Es gelten dieselben Hunderegeln wie bei allen NS-Zügen: Transportbox kostenlos, größerer Hund benötigt Dagkaart Hond (3,30 €) und Leine. Schiphol verfügt in jedem Terminal über mehrere überdachte Hundeauslaufbereiche.",
           "petPolicyNl": "De NS-sprinter van Haarlem naar luchthaven Schiphol rijdt elke 15 minuten, 20 minuten reistijd via Hoofddorp. Dezelfde hondenregels gelden als bij alle NS-treinen: draagtas gratis, grotere hond heeft Dagkaart Hond (3,30 €) en lijn nodig. Schiphol heeft in elke terminal meerdere overdekte hondenuitlaatplekken.",
+          "petPolicyIt": "Lo sprinter NS da Haarlem all'aeroporto di Schiphol parte ogni 15 minuti, 20 minuti di viaggio via Hoofddorp. Valgono le stesse regole per i cani di tutti i treni NS: borsa da trasporto gratis, cane più grande ha bisogno del Dagkaart Hond (3,30 €) e del guinzaglio. Schiphol ha più aree coperte per sgambare i cani in ogni terminal.",
           "tipDe": "Wenn Sie mit KLM ab Schiphol fliegen, ist der Hundeauslaufraum in Terminal 3 landseitig der größte und ruhigste; fragen Sie beim Check-in das Personal nach dem Türcode.",
-          "tipNl": "Als je met KLM vanaf Schiphol vliegt, is de hondenuitlaatruimte in Terminal 3 landzijde de grootste en rustigste; vraag bij het inchecken het personeel om de deurcode."
+          "tipNl": "Als je met KLM vanaf Schiphol vliegt, is de hondenuitlaatruimte in Terminal 3 landzijde de grootste en rustigste; vraag bij het inchecken het personeel om de deurcode.",
+          "tipIt": "Se voli con KLM da Schiphol, l'area per sgambare i cani al Terminal 3 lato terra è la più grande e tranquilla; al check-in chiedi al personale il codice della porta."
         }
       ],
       "titleDe": "Öffentliche Verkehrsmittel mit Haustieren in Haarlem & NS-Züge nach Amsterdam",
       "titleNl": "Openbaar vervoer met huisdieren in Haarlem & NS-treinen naar Amsterdam",
+      "titleIt": "Trasporti pubblici con animali ad Haarlem e treni NS per Amsterdam",
       "introDe": "Haarlem lässt sich mit Hund besonders leicht erkunden: Die Connexxion-Busse, die die Stadt und die weitere Region Zuid-Kennemerland bedienen, nehmen kleine Hunde in der Transportbox kostenlos mit und größere Hunde angeleint ohne Aufpreis. NS-Züge vom Bahnhof Haarlem nach Amsterdam Centraal fahren alle 10 Minuten und brauchen nur 15 Minuten; Hunde in Transportgröße reisen kostenlos, größere Hunde benötigen eine NS Dagkaart Hond (Tageskarte für Hunde, 3,30 €) und müssen angeleint sein. Der Flughafen Schiphol ist mit dem Zug in 20 Minuten direkt erreichbar.",
       "introNl": "Haarlem is bijzonder makkelijk te verkennen met hond: de Connexxion-bussen die de stad en de wijdere regio Zuid-Kennemerland bedienen, nemen kleine honden in de draagtas gratis mee en grotere honden aangelijnd zonder toeslag. NS-treinen van station Haarlem naar Amsterdam Centraal rijden elke 10 minuten en duren maar 15 minuten; honden van draagformaat reizen gratis mee, grotere honden hebben een NS Dagkaart Hond (dagkaart voor honden, 3,30 €) nodig en moeten aangelijnd zijn. Luchthaven Schiphol is met de trein in 20 minuten rechtstreeks bereikbaar.",
+      "introIt": "Haarlem è particolarmente facile da esplorare con il cane: gli autobus Connexxion che servono la città e l'intera regione di Zuid-Kennemerland portano gratis i cani piccoli nel trasportino e i cani più grandi al guinzaglio senza sovrapprezzo. I treni NS dalla stazione di Haarlem ad Amsterdam Centraal partono ogni 10 minuti e durano solo 15 minuti; i cani di taglia da trasportino viaggiano gratis, i cani più grandi hanno bisogno di un NS Dagkaart Hond (biglietto giornaliero per cani, 3,30 €) e devono stare al guinzaglio. L'aeroporto di Schiphol è raggiungibile in treno direttamente in 20 minuti.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog Beaches near Haarlem, Zandvoort Hondenstrand & Bloemendaal aan Zee",
@@ -367,10 +409,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Zandvoort+Zuid+hondenstrand",
           "descriptionDe": "Der ganzjährige, leinenfreie Hundestrand am südlichen Ende von Zandvoort, ausgeschildert vom Boulevard Barnaart südwärts bis zur Grenze zu Bloemendaal aan Zee. Der Sand ist breit, das Wasser fällt sanft ab, und der Abschnitt ist selbst im Juli deutlich ruhiger als der zentrale Boulevard. Zwei hundefreundliche Strandpavillons (Tien und Beachclub Tien) liegen direkt hinter der Düne, beide stellen Wassernäpfe nach draußen.",
           "descriptionNl": "Het hele jaar losloopstrand aan het zuidelijke eind van Zandvoort, aangegeven vanaf de Boulevard Barnaart zuidwaarts tot de grens met Bloemendaal aan Zee. Het zand is breed, het water loopt zacht af, en het stuk is zelfs in juli duidelijk rustiger dan de centrale boulevard. Twee hondvriendelijke strandpaviljoens (Tien en Beachclub Tien) liggen direct achter de duin, beide zetten waterbakken buiten.",
+          "descriptionIt": "Spiaggia per cani senza guinzaglio tutto l'anno all'estremità sud di Zandvoort, segnalata dal Boulevard Barnaart verso sud fino al confine con Bloemendaal aan Zee. La sabbia è ampia, l'acqua degrada dolcemente, e questo tratto è nettamente più tranquillo del lungomare centrale anche a luglio. Due stabilimenti balneari pet-friendly (Tien e Beachclub Tien) si trovano subito dietro la duna, entrambi mettono fuori ciotole d'acqua.",
           "petPolicyDe": "Ganzjährig ohne Leine; gesamter 9 km langer Strand von Zandvoort vom 1. Oktober bis 1. Mai ohne Leine",
           "petPolicyNl": "Het hele jaar zonder lijn; het volledige 9 km lange strand van Zandvoort van 1 oktober tot 1 mei zonder lijn",
+          "petPolicyIt": "Senza guinzaglio tutto l'anno; l'intera spiaggia di Zandvoort, lunga 9 km, è senza guinzaglio dal 1° ottobre al 1° maggio",
           "tipDe": "Nehmen Sie den NS-Zug von Haarlem nach Zandvoort aan Zee (10 Min.), gehen Sie dann 1 km den Boulevard südwärts bis zum Beginn des Hondenstrands; der Zug erspart die Parkplatzsorgen der Hochsaison.",
-          "tipNl": "Neem de NS-trein van Haarlem naar Zandvoort aan Zee (10 min), loop dan 1 km de boulevard zuidwaarts tot het begin van het hondenstrand; de trein bespaart de parkeerzorgen van het hoogseizoen."
+          "tipNl": "Neem de NS-trein van Haarlem naar Zandvoort aan Zee (10 min), loop dan 1 km de boulevard zuidwaarts tot het begin van het hondenstrand; de trein bespaart de parkeerzorgen van het hoogseizoen.",
+          "tipIt": "Prendi il treno NS da Haarlem a Zandvoort aan Zee (10 min), poi cammina 1 km sul lungomare verso sud fino all'inizio della spiaggia per cani; il treno evita i grattacapi del parcheggio in alta stagione."
         },
         {
           "name": "Bloemendaal aan Zee Dog Beach",
@@ -394,10 +439,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bloemendaal+aan+Zee+honden",
           "descriptionDe": "Ein 2 km langer, dünengesäumter Sandabschnitt nördlich von Zandvoort mit einer ganzjährigen Freilaufzone für Hunde, klar ausgeschildert am Eingang Zeeweg. Ruhiger als Zandvoort selbst im Sommer, mit dem berühmten Bloemendaal-Beach-Club-Streifen gleich nördlich (die meisten sind abseits der Tanzfläche hundefreundlich). Der Nationalpark Kennemer Dunes liegt direkt dahinter, sodass sich ein Bad im Meer mit einer 5-km-Dünenrunde kombinieren lässt.",
           "descriptionNl": "Een 2 km lang, met duinen omzoomd zandstrand ten noorden van Zandvoort met een hele jaar losloopzone voor honden, duidelijk aangegeven bij de ingang Zeeweg. Rustiger dan Zandvoort zelf in de zomer, met de beroemde strook Bloemendaal-strandclubs net ten noorden (de meeste zijn hondvriendelijk weg van de dansvloer). Nationaal Park Kennemerduinen ligt er direct achter, dus een duik in zee valt te combineren met een duinronde van 5 km.",
+          "descriptionIt": "Una spiaggia di sabbia lunga 2 km, orlata di dune a nord di Zandvoort, con una zona sgambamento libero per cani attiva tutto l'anno, ben segnalata all'ingresso Zeeweg. Più tranquilla di Zandvoort stessa in estate, con la famosa fila di beach club di Bloemendaal poco più a nord (la maggior parte è pet-friendly lontano dalla pista da ballo). Il Parco Nazionale delle Dune di Kennemerland si trova subito dietro, quindi un tuffo in mare si può combinare con un giro di 5 km tra le dune.",
           "petPolicyDe": "Ganzjährig ohne Leine in der markierten Zone; Beschilderung am Eingang Zeeweg beachten",
           "petPolicyNl": "Het hele jaar zonder lijn in de gemarkeerde zone; let op de bebording bij de ingang Zeeweg",
+          "petPolicyIt": "Senza guinzaglio tutto l'anno nella zona segnalata; fai attenzione ai cartelli all'ingresso Zeeweg",
           "tipDe": "Der Bus 81 vom Bahnhof Haarlem hält am Aussichtspunkt Zeeweg auf der Düne, gehen Sie 1 km die Dünenrampe hinunter zum Strand; der Sonnenuntergang von der Düne zählt zu den schönsten der Niederlande.",
-          "tipNl": "Bus 81 vanaf station Haarlem stopt bij het uitzichtpunt Zeeweg op de duin, loop 1 km de duinhelling af naar het strand; de zonsondergang vanaf de duin behoort tot de mooiste van Nederland."
+          "tipNl": "Bus 81 vanaf station Haarlem stopt bij het uitzichtpunt Zeeweg op de duin, loop 1 km de duinhelling af naar het strand; de zonsondergang vanaf de duin behoort tot de mooiste van Nederland.",
+          "tipIt": "L'autobus 81 dalla stazione di Haarlem ferma al belvedere Zeeweg sulla duna, cammina 1 km in discesa fino alla spiaggia; il tramonto visto dalla duna è tra i più belli dei Paesi Bassi."
         },
         {
           "name": "Spaarne riverbanks (Haarlem city)",
@@ -421,18 +469,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Spaarne+De+Adriaan+Haarlem",
           "descriptionDe": "Der Spaarne fließt mitten durch das Zentrum von Haarlem, und an der Wendestelle der Windmühle De Adriaan fallen die Ufer sanft zu flachen Kieseinstiegen ab, die für sichere Schwimmer unter den Hunden geeignet sind. Auf dem größten Teil der städtischen Uferpromenade gilt Leinenpflicht, doch in den Abschnitten Scheepmakersdijk und Schoterbrug wird sie locker gehandhabt, und Einheimische lassen ihre Hunde dort regelmäßig frei. Meiden Sie den Trainingsabschnitt der Rudervereine zwischen Catharijnebrug und Buitenrustbrug (07:00–10:00 Uhr).",
           "descriptionNl": "Het Spaarne stroomt dwars door het centrum van Haarlem, en bij het keerpunt van molen De Adriaan lopen de oevers zacht af naar ondiepe grindafgangen, geschikt voor voorzichtige zwemmers onder de honden. Op het grootste deel van de stedelijke oeverpromenade geldt lijnplicht, maar in de stukken Scheepmakersdijk en Schoterbrug wordt dit los gehandhaafd, en locals laten hun honden daar regelmatig vrij. Vermijd het trainingsstuk van de roeiverenigingen tussen Catharijnebrug en Buitenrustbrug (07:00-10:00 uur).",
+          "descriptionIt": "Lo Spaarne attraversa il centro di Haarlem, e vicino all'ansa del mulino De Adriaan le rive digradano dolcemente in discese ghiaiose poco profonde, adatte ai cani che nuotano con cautela. Sulla maggior parte della passeggiata urbana lungo il fiume vige l'obbligo di guinzaglio, ma nei tratti Scheepmakersdijk e Schoterbrug la regola è applicata in modo più informale, e gli abitanti del posto lasciano spesso i cani liberi lì. Evita il tratto di allenamento dei club di canottaggio tra Catharijnebrug e Buitenrustbrug (07:00-10:00).",
           "petPolicyDe": "Leinenpflicht auf der städtischen Uferpromenade; inoffizielle Badestellen bei De Adriaan und Scheepmakersdijk",
           "petPolicyNl": "Lijnplicht op de stedelijke oeverpromenade; officieuze zwemplekken bij De Adriaan en Scheepmakersdijk",
+          "petPolicyIt": "Obbligo di guinzaglio sulla passeggiata urbana; punti balneabili non ufficiali vicino a De Adriaan e Scheepmakersdijk",
           "tipDe": "Die beste Zeit ist nach 18:00 Uhr an einem Sommerabend, wenn die Rudervereine fertig sind und das Wasser spiegelglatt liegt; bringen Sie ein Handtuch mit, denn der Spaarne ist brackig.",
-          "tipNl": "Het beste moment is na 18:00 uur op een zomeravond, als de roeiverenigingen klaar zijn en het water spiegelglad ligt; neem een handdoek mee, want het Spaarne is brak."
+          "tipNl": "Het beste moment is na 18:00 uur op een zomeravond, als de roeiverenigingen klaar zijn en het water spiegelglad ligt; neem een handdoek mee, want het Spaarne is brak.",
+          "tipIt": "Il momento migliore è dopo le 18:00 in una sera d'estate, quando i club di canottaggio hanno finito e l'acqua è piatta come uno specchio; porta un asciugamano, perché lo Spaarne è salmastro."
         }
       ],
       "titleDe": "Hundestrände bei Haarlem, Zandvoort Hondenstrand & Bloemendaal aan Zee",
       "titleNl": "Hondenstranden bij Haarlem, hondenstrand Zandvoort & Bloemendaal aan Zee",
+      "titleIt": "Spiagge per cani vicino ad Haarlem, spiaggia per cani a Zandvoort e Bloemendaal aan Zee",
       "introDe": "Die Küste von Haarlem liegt nur 8 km westlich: Der lange Sandstreifen von Zandvoort aan Zee über Bloemendaal aan Zee bis nach IJmuiden bietet einige der besten, städtisch gut erreichbaren Hundestrände der Niederlande. Vom 1. Oktober bis zum 1. Mai ist der gesamte 9 km lange Strand von Zandvoort für Hunde ohne Leine freigegeben; in der Hochsaison (1. Mai bis 1. Oktober) sind Hunde auf den markierten Zandvoort Zuid Hondenstrand am südlichen Ortsende beschränkt, dazu kommt der ganzjährig geöffnete Hundeabschnitt in Bloemendaal aan Zee. Beide sind von Haarlem aus in 10–20 Minuten mit dem NS-Zug oder dem Connexxion-Bus 81 erreichbar.",
       "introNl": "De kust van Haarlem ligt maar 8 km naar het westen: de lange zandstrook van Zandvoort aan Zee via Bloemendaal aan Zee tot aan IJmuiden biedt enkele van de beste, stedelijk goed bereikbare hondenstranden van Nederland. Van 1 oktober tot 1 mei is het volledige 9 km lange strand van Zandvoort vrijgegeven voor honden zonder lijn; in het hoogseizoen (1 mei tot 1 oktober) zijn honden beperkt tot het gemarkeerde Zandvoort Zuid hondenstrand aan het zuidelijke uiteinde van het dorp, plus het hele jaar geopende hondenstuk in Bloemendaal aan Zee. Beide zijn vanuit Haarlem in 10-20 minuten bereikbaar met de NS-trein of Connexxion-bus 81.",
+      "introIt": "La costa di Haarlem è a soli 8 km a ovest: la lunga striscia di sabbia da Zandvoort aan Zee via Bloemendaal aan Zee fino a IJmuiden offre alcune delle migliori spiagge per cani dei Paesi Bassi, ben collegate alla città. Dal 1° ottobre al 1° maggio l'intera spiaggia di Zandvoort, lunga 9 km, è aperta ai cani senza guinzaglio; in alta stagione (1° maggio - 1° ottobre) i cani sono limitati alla spiaggia segnalata di Zandvoort Sud all'estremità sud del paese, più il tratto per cani aperto tutto l'anno a Bloemendaal aan Zee. Entrambe sono raggiungibili da Haarlem in 10-20 minuti con il treno NS o l'autobus Connexxion 81.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Haarlem, Veterinary Clinics & Pet Care",
@@ -475,12 +529,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Caressa+Dierenziekenhuis+Haarlem",
           "descriptionDe": "Das größte Tierkrankenhaus in Haarlem selbst, Teil der landesweiten Caressa-Kette, mit OP-Saal, hauseigenem Labor, Röntgen und Ultraschall. Versorgt Impfungen, EU-Heimtierausweis-Stempel, Zahnmedizin, Innere Medizin und kleinere Operationen. Anrufe außerhalb der Öffnungszeiten werden an die Spoedkliniek voor Dieren in Amsterdam weitergeleitet.",
           "descriptionNl": "Het grootste dierenziekenhuis in Haarlem zelf, onderdeel van de landelijke Caressa-keten, met operatiekamer, eigen laboratorium, röntgen en echografie. Verzorgt vaccinaties, EU-dierenpaspoortstempels, tandheelkunde, interne geneeskunde en kleinere operaties. Oproepen buiten openingstijden worden doorverbonden naar de Spoedkliniek voor Dieren in Amsterdam.",
+          "descriptionIt": "Il più grande ospedale veterinario di Haarlem stessa, parte della catena nazionale Caressa, con sala operatoria, laboratorio proprio, raggi X ed ecografia. Si occupa di vaccinazioni, timbri sul passaporto UE per animali, odontoiatria, medicina interna e piccoli interventi chirurgici. Le chiamate fuori orario vengono trasferite alla Spoedkliniek voor Dieren (clinica d'urgenza per animali) di Amsterdam.",
           "hoursDe": "Mo–Fr 08:45–19:30 Uhr; Sa 08:30–18:00 Uhr; sonntags geschlossen",
           "hoursNl": "Ma-vr 08:45-19:30 uur; za 08:30-18:00 uur; zondag gesloten",
+          "hoursIt": "Lun-ven 08:45-19:30; sab 08:30-18:00; domenica chiuso",
           "specialtyDe": "Allgemeinmedizin, Chirurgie, Zahnmedizin, Innere Medizin, EU-Heimtierausweis",
           "specialtyNl": "Algemene geneeskunde, chirurgie, tandheelkunde, interne geneeskunde, EU-dierenpaspoort",
+          "specialtyIt": "Medicina generale, chirurgia, odontoiatria, medicina interna, passaporto UE per animali",
           "tipDe": "Wenn Sie vor dem Abflug ab Schiphol einen Heimtierausweis-Stempel benötigen, buchen Sie 48 Stunden im Voraus; Caressa ist die erfahrenste Haarlemer Klinik für Reisepapiere.",
-          "tipNl": "Als je voor het vertrek vanaf Schiphol een paspoortstempel nodig hebt, boek dan 48 uur van tevoren; Caressa is de meest ervaren Haarlemse kliniek voor reisdocumenten."
+          "tipNl": "Als je voor het vertrek vanaf Schiphol een paspoortstempel nodig hebt, boek dan 48 uur van tevoren; Caressa is de meest ervaren Haarlemse kliniek voor reisdocumenten.",
+          "tipIt": "Se ti serve un timbro sul passaporto prima di partire da Schiphol, prenota con 48 ore di anticipo; Caressa è la clinica di Haarlem più esperta per i documenti di viaggio."
         },
         {
           "name": "Dierenkliniek Kenaupark",
@@ -513,12 +571,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Dierenkliniek+Kenaupark+Haarlem",
           "descriptionDe": "Eine kleine, zentrale Praxis fünf Gehminuten vom Bahnhof Haarlem mit Blick auf die Gärten des Kenauparks. Praktisch, wenn Sie in der Altstadt wohnen und noch am selben Tag eine Impfung, eine schnelle Ausweiskontrolle oder eine kleinere Wundversorgung benötigen. Englischsprachige Tierärzte und ein ruhiges Wartezimmer. Notfälle außerhalb der Öffnungszeiten werden an die Spoedkliniek voor Dieren in Amsterdam weitergeleitet.",
           "descriptionNl": "Een kleine, centrale praktijk vijf minuten lopen van station Haarlem met uitzicht op de tuinen van het Kenaupark. Handig als je in de oude stad verblijft en dezelfde dag nog een vaccinatie, een snelle paspoortcontrole of een kleine wondverzorging nodig hebt. Engelssprekende dierenartsen en een rustige wachtkamer. Spoedgevallen buiten openingstijden worden doorverbonden naar de Spoedkliniek voor Dieren in Amsterdam.",
+          "descriptionIt": "Uno studio piccolo e centrale a cinque minuti a piedi dalla stazione di Haarlem, con vista sui giardini di Kenaupark. Comodo se alloggi nella città vecchia e ti serve lo stesso giorno una vaccinazione, un rapido controllo del passaporto o la medicazione di una piccola ferita. Veterinari che parlano inglese e sala d'attesa tranquilla. Le emergenze fuori orario vengono trasferite alla Spoedkliniek voor Dieren di Amsterdam.",
           "hoursDe": "Mo–Fr 08:30–18:00 Uhr; Sa 09:00–12:00 Uhr nach Vereinbarung",
           "hoursNl": "Ma-vr 08:30-18:00 uur; za 09:00-12:00 uur op afspraak",
+          "hoursIt": "Lun-ven 08:30-18:00; sab 09:00-12:00 su appuntamento",
           "specialtyDe": "Allgemeinmedizin, Impfungen, EU-Heimtierausweis, Dermatologie",
           "specialtyNl": "Algemene geneeskunde, vaccinaties, EU-dierenpaspoort, dermatologie",
+          "specialtyIt": "Medicina generale, vaccinazioni, passaporto UE per animali, dermatologia",
           "tipDe": "Der am einfachsten zu Fuß erreichbare Tierarzt von jedem Altstadt-Hotel aus; klingeln Sie, reine Impftermine ohne Voranmeldung werden meist innerhalb von 30 Minuten eingeschoben.",
-          "tipNl": "De makkelijkst te voet bereikbare dierenarts vanaf elk hotel in de oude stad; bel aan, pure vaccinatieafspraken zonder aanmelding worden meestal binnen 30 minuten ingepland."
+          "tipNl": "De makkelijkst te voet bereikbare dierenarts vanaf elk hotel in de oude stad; bel aan, pure vaccinatieafspraken zonder aanmelding worden meestal binnen 30 minuten ingepland.",
+          "tipIt": "Il veterinario più facilmente raggiungibile a piedi da qualsiasi hotel della città vecchia; basta suonare, gli appuntamenti solo per vaccinazioni senza prenotazione vengono di solito inseriti entro 30 minuti."
         },
         {
           "name": "Dierenkliniek Haarlem-Oost",
@@ -551,12 +613,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Dierenkliniek+Haarlem-Oost+Slachthuisstraat",
           "descriptionDe": "Alteingesessene Nachbarschaftspraxis an der Slachthuisstraat mit gutem Ruf im östlichen Haarlem und entlang des Spaarne. Routineversorgung, Impfungen, Zahnmedizin und kleinere Operationen. Praktisch, wenn Sie in der Nähe der Hotels am Spaarne oder in Haarlem-Oost wohnen. Anrufe außerhalb der Öffnungszeiten werden an die Spoedkliniek voor Dieren in Amsterdam weitergeleitet.",
           "descriptionNl": "Gevestigde buurtpraktijk aan de Slachthuisstraat met een goede reputatie in oostelijk Haarlem en langs het Spaarne. Routinezorg, vaccinaties, tandheelkunde en kleinere operaties. Handig als je verblijft bij de hotels aan het Spaarne of in Haarlem-Oost. Oproepen buiten openingstijden worden doorverbonden naar de Spoedkliniek voor Dieren in Amsterdam.",
+          "descriptionIt": "Studio di quartiere consolidato in Slachthuisstraat, con una buona reputazione nella zona est di Haarlem e lungo lo Spaarne. Cure di routine, vaccinazioni, odontoiatria e piccoli interventi chirurgici. Comodo se alloggi negli hotel vicino allo Spaarne o a Haarlem-Oost. Le chiamate fuori orario vengono trasferite alla Spoedkliniek voor Dieren di Amsterdam.",
           "hoursDe": "Mo–Fr 08:30–18:00 Uhr; Sa 09:00–12:00 Uhr nach Vereinbarung",
           "hoursNl": "Ma-vr 08:30-18:00 uur; za 09:00-12:00 uur op afspraak",
+          "hoursIt": "Lun-ven 08:30-18:00; sab 09:00-12:00 su appuntamento",
           "specialtyDe": "Allgemeinmedizin, Zahnmedizin, Altersmedizin",
           "specialtyNl": "Algemene geneeskunde, tandheelkunde, ouderdomsgeneeskunde",
+          "specialtyIt": "Medicina generale, odontoiatria, geriatria",
           "tipDe": "Die nächstgelegene Praxis, wenn Sie östlich des Spaarne oder in der Nähe von Schalkwijk wohnen; 5 Minuten mit dem Fahrrad vom Grote Markt.",
-          "tipNl": "De dichtstbijzijnde praktijk als je ten oosten van het Spaarne of bij Schalkwijk verblijft; 5 minuten fietsen vanaf de Grote Markt."
+          "tipNl": "De dichtstbijzijnde praktijk als je ten oosten van het Spaarne of bij Schalkwijk verblijft; 5 minuten fietsen vanaf de Grote Markt.",
+          "tipIt": "Lo studio più vicino se alloggi a est dello Spaarne o vicino a Schalkwijk; 5 minuti in bici dalla Grote Markt."
         },
         {
           "name": "Spoedkliniek voor Dieren Amsterdam (after-hours emergency)",
@@ -589,20 +655,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Spoedkliniek+voor+Dieren+Isolatorweg+Amsterdam",
           "descriptionDe": "Die regionale Notfallklinik außerhalb der Öffnungszeiten für die gesamte Region Amsterdam-Haarlem, betrieben vom Medisch Centrum voor Dieren. Geöffnet abends, nachts, an Wochenenden und Feiertagen mit mindestens einem Tierarzt und einer Assistenzkraft im Dienst. Vollständige Diagnosebildgebung, Blut- und Urinanalyse, Röntgen, EKG und Notoperationen vor Ort. 20 Minuten von Haarlem mit dem Auto über die A9.",
           "descriptionNl": "De regionale spoedkliniek buiten openingstijden voor de hele regio Amsterdam-Haarlem, geëxploiteerd door het Medisch Centrum voor Dieren. Geopend 's avonds, 's nachts, in het weekend en op feestdagen met minstens één dierenarts en een assistent in dienst. Volledige diagnostische beeldvorming, bloed- en urineonderzoek, röntgen, ECG en spoedoperaties ter plaatse. 20 minuten van Haarlem met de auto via de A9.",
+          "descriptionIt": "La clinica d'urgenza regionale fuori orario per l'intera area Amsterdam-Haarlem, gestita dal Medisch Centrum voor Dieren. Aperta la sera, la notte, nei weekend e nei giorni festivi con almeno un veterinario e un assistente in servizio. Diagnostica per immagini completa, esami del sangue e delle urine, raggi X, ECG e interventi chirurgici d'urgenza in loco. A 20 minuti da Haarlem in auto via l'A9.",
           "hoursDe": "Mo–Fr 19:00–08:00 Uhr; Wochenenden und Feiertage rund um die Uhr",
           "hoursNl": "Ma-vr 19:00-08:00 uur; weekenden en feestdagen dag en nacht",
+          "hoursIt": "Lun-ven 19:00-08:00; weekend e festivi giorno e notte",
           "specialtyDe": "Notfallversorgung außerhalb der Öffnungszeiten, Chirurgie, Intensivpflege, Diagnosebildgebung",
           "specialtyNl": "Spoedzorg buiten openingstijden, chirurgie, intensieve zorg, diagnostische beeldvorming",
+          "specialtyIt": "Cure d'urgenza fuori orario, chirurgia, terapia intensiva, diagnostica per immagini",
           "tipDe": "Rufen Sie immer zuerst 020-7400600 an; das Personal kann telefonisch triagieren, häusliche Pflege empfehlen oder das Team vorwarnen, während Sie aus Haarlem anfahren.",
-          "tipNl": "Bel altijd eerst 020-7400600; het personeel kan telefonisch triage doen, thuiszorg aanraden of het team alvast waarschuwen terwijl je vanuit Haarlem aanrijdt."
+          "tipNl": "Bel altijd eerst 020-7400600; het personeel kan telefonisch triage doen, thuiszorg aanraden of het team alvast waarschuwen terwijl je vanuit Haarlem aanrijdt.",
+          "tipIt": "Chiama sempre prima il numero 020-7400600; il personale può fare un triage telefonico, consigliare cure a domicilio o avvisare in anticipo il team mentre sei in viaggio da Haarlem."
         }
       ],
       "titleDe": "Notfall-Tierärzte in Haarlem, Tierkliniken & Haustierpflege",
       "titleNl": "Spoeddierenartsen in Haarlem, dierenklinieken & huisdierenzorg",
+      "titleIt": "Veterinari d'urgenza ad Haarlem, cliniche veterinarie e cura degli animali",
       "introDe": "Haarlem verfügt über eine solide tagsüber verfügbare tierärztliche Versorgung durch mehrere alteingesessene Praxen; Notfälle außerhalb der Öffnungszeiten werden an die Spoedkliniek voor Dieren im Westen Amsterdams weitergeleitet (20 Minuten mit dem Auto), das zentrale Nacht-Notfallkrankenhaus für die Region Amsterdam-Haarlem. Speichern Sie die Nummer der Spoedkliniek, bevor Sie ankommen. Die meisten Tierärzte in Haarlem nehmen Laufkundschaft für Impfungen und Heimtierausweis-Stempel an, für alles andere sollten Sie vorher anrufen.",
       "introNl": "Haarlem beschikt over solide dierenzorg overdag via meerdere gevestigde praktijken; spoedgevallen buiten openingstijden worden doorverbonden naar de Spoedkliniek voor Dieren in het westen van Amsterdam (20 minuten met de auto), het centrale nachtspoedziekenhuis voor de regio Amsterdam-Haarlem. Sla het nummer van de Spoedkliniek op voordat je aankomt. De meeste dierenartsen in Haarlem accepteren inloop voor vaccinaties en paspoortstempels, voor al het andere bel je van tevoren.",
+      "introIt": "Haarlem offre una solida assistenza veterinaria diurna grazie a diversi studi consolidati; le emergenze fuori orario vengono trasferite alla Spoedkliniek voor Dieren nella zona ovest di Amsterdam (20 minuti in auto), l'ospedale notturno d'urgenza centrale per l'area Amsterdam-Haarlem. Salva il numero della Spoedkliniek prima di arrivare. La maggior parte dei veterinari di Haarlem accetta pazienti senza appuntamento per vaccinazioni e timbri sul passaporto, per tutto il resto è meglio chiamare prima.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Practical Tips for Visiting Haarlem with a Dog",
@@ -692,8 +765,10 @@
       ],
       "titleDe": "Praktische Tipps für einen Besuch in Haarlem mit Hund",
       "titleNl": "Praktische tips voor een bezoek aan Haarlem met je hond",
+      "titleIt": "Consigli pratici per visitare Haarlem con il tuo cane",
       "introDe": "Haarlem ist eine der unkompliziertesten hundefreundlichen Städte, die sich als Basis für die Region Amsterdam eignen: kleiner, ruhiger, und die Hundestrände von Zandvoort und Bloemendaal sind nur 15 Zugminuten entfernt. Ein paar örtliche Regeln und Gewohnheiten machen die Reise noch angenehmer. Der Grote Markt und die Spaarne-Kais sind reine Leinenzonen; Freilauf beginnt in den markierten losloopgebieden des Schoterbos, der östlichen Wiese des Haarlemmerhout und im Koevlak-Sektor der Kennemer-Dünen.",
       "introNl": "Haarlem is een van de meest ongecompliceerde hondvriendelijke steden om als basis voor de regio Amsterdam te gebruiken: kleiner, rustiger, en de hondenstranden van Zandvoort en Bloemendaal liggen maar 15 treinminuten weg. Een paar lokale regels en gewoonten maken de reis nog aangenamer. De Grote Markt en de Spaarne-kades zijn pure lijnzones; loslopen begint in de gemarkeerde losloopgebieden van het Schoterbos, de oostelijke weide van de Haarlemmerhout en de Koevlak-sector van de Kennemerduinen.",
+      "introIt": "Haarlem è una delle città pet-friendly più semplici da usare come base per la regione di Amsterdam: più piccola, più tranquilla, e le spiagge per cani di Zandvoort e Bloemendaal sono a soli 15 minuti di treno. Alcune regole e abitudini locali rendono il viaggio ancora più piacevole. La Grote Markt e le banchine dello Spaarne sono zone di guinzaglio obbligatorio; lo sgambamento libero inizia nelle zone segnalate dello Schoterbos, nel prato orientale dell'Haarlemmerhout e nel settore Koevlak delle dune di Kennemerland.",
       "faqsDe": [
         {
           "q": "Ist Haarlem eine gute Basis für einen Amsterdam-Besuch mit Hund?",
@@ -720,6 +795,20 @@
         {
           "q": "Mag mijn hond het Frans Hals Museum of de Grote Sint-Bavokerk bezoeken?",
           "a": "In Haarlemse musea en in de Grote Sint-Bavokerk (graf van Hals, Mozart-orgel) worden alleen assistentiehonden toegelaten. De Grote Markt, het Klokhuisplein en het buitenterrein van de kathedraal zijn aangelijnd toegankelijk."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Haarlem è una buona base per visitare Amsterdam con il cane?",
+          "a": "Sì, forse la migliore. I treni IC NS raggiungono Amsterdam Centraal ogni 10 minuti in 15 minuti, Haarlem stessa è più tranquilla con il cane, e in treno sei a 10 minuti dalla spiaggia per cani aperta tutto l'anno a Zandvoort, oltre al Parco Nazionale delle Dune di Kennemerland a 6 km a ovest."
+        },
+        {
+          "q": "I cani sono ammessi d'estate sulla spiaggia di Zandvoort?",
+          "a": "Sì, ma solo sulla spiaggia per cani segnalata di Zandvoort Sud, all'estremità sud del paese. Dal 1° ottobre al 1° maggio l'intera spiaggia di Zandvoort, lunga 9 km, è aperta ai cani senza guinzaglio."
+        },
+        {
+          "q": "Il mio cane può visitare il Frans Hals Museum o la Grote Sint-Bavokerk?",
+          "a": "Nei musei di Haarlem e nella Grote Sint-Bavokerk (tomba di Hals, organo di Mozart) sono ammessi solo cani da assistenza. La Grote Markt, il Klokhuisplein e l'area esterna della cattedrale sono accessibili al guinzaglio."
         }
       ]
     },
@@ -755,10 +844,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Grote+Markt+Haarlem",
           "descriptionDe": "Der Kopfsteinpflaster-Platz Grote Markt ist das historische Herz von Haarlem, überragt von der spätgotischen Grote Sint-Bavokerk (der Kathedrale, in der Frans Hals begraben liegt und in der Mozart 1766 als Zehnjähriger die Müller-Orgel spielte). Das Innere der Kathedrale lässt nur Assistenzhunde zu, doch angeleinte Hunde können den gesamten Marktplatz erkunden, an jedem der acht Terrassencafés sitzen und die äußeren Strebepfeiler der Kathedrale am Klokhuisplein umrunden.",
           "descriptionNl": "Het kasseienplein Grote Markt is het historische hart van Haarlem, overheerst door de laatgotische Grote Sint-Bavokerk (de kathedraal waar Frans Hals begraven ligt en waar Mozart in 1766 als tienjarige op het Müller-orgel speelde). Het interieur van de kathedraal laat alleen assistentiehonden toe, maar aangelijnde honden kunnen het hele marktplein verkennen, aan elk van de acht terrascafés zitten en rond de buitensteunberen van de kathedraal aan het Klokhuisplein lopen.",
+          "descriptionIt": "La piazza in ciottoli Grote Markt è il cuore storico di Haarlem, dominato dalla tardogotica Grote Sint-Bavokerk (la cattedrale dove è sepolto Frans Hals e dove Mozart, a dieci anni, suonò nel 1766 l'organo Müller). L'interno della cattedrale ammette solo cani da assistenza, ma i cani al guinzaglio possono esplorare l'intera piazza del mercato, sedersi a ognuno degli otto caffè con terrazza e girare intorno ai contrafforti esterni della cattedrale su Klokhuisplein.",
           "petPolicyDe": "Platz rund um die Uhr für angeleinte Hunde zugänglich; im Kircheninneren nur Assistenzhunde",
           "petPolicyNl": "Plein dag en nacht toegankelijk voor aangelijnde honden; kerkinterieur alleen assistentiehonden",
+          "petPolicyIt": "Piazza accessibile giorno e notte ai cani al guinzaglio; interno della chiesa solo cani da assistenza",
           "tipDe": "Gehen Sie bei Sonnenuntergang die Klokhuisplein-Seite entlang, der Winkel erfasst die Kathedralenapsis im goldenen Licht, kein Gerüst im Bild, und der Hund bekommt auch das Foto vor der Frans-Hals-Statue.",
-          "tipNl": "Loop bij zonsondergang langs de Klokhuisplein-kant, de hoek vangt de apsis van de kathedraal in gouden licht, geen steiger in beeld, en de hond krijgt ook de foto bij het Frans Hals-standbeeld."
+          "tipNl": "Loop bij zonsondergang langs de Klokhuisplein-kant, de hoek vangt de apsis van de kathedraal in gouden licht, geen steiger in beeld, en de hond krijgt ook de foto bij het Frans Hals-standbeeld.",
+          "tipIt": "Cammina lungo il lato di Klokhuisplein al tramonto: l'angolo cattura l'abside della cattedrale in una luce dorata, senza impalcature in vista, e il cane finisce anche nella foto vicino alla statua di Frans Hals."
         },
         {
           "name": "Smidtje Canal Cruise Haarlem",
@@ -782,10 +874,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Smidtje+Canal+Cruise+Haarlem",
           "descriptionDe": "Die 50-minütige klassische Grachtenfahrt entlang des Spaarne und der innerstädtischen Singels ist die einfachste Art, Haarlem auf Wasserhöhe zu erleben, mit Blick auf die Windmühle De Adriaan, die Zugbrücke Gravestenenbrug und die Kathedraltürme von unten. Hunde fahren nach Ermessen des Anbieters kostenlos mit, das offene Achterdeck ist der natürliche Platz, und die Route ist sanft genug für ältere oder ängstliche Hunde.",
           "descriptionNl": "De klassieke grachtenvaart van 50 minuten langs het Spaarne en de stedelijke singels is de eenvoudigste manier om Haarlem op waterniveau te ervaren, met zicht op molen De Adriaan, de ophaalbrug Gravestenenbrug en de kathedraaltorens van onderaf. Honden varen naar goeddunken van de aanbieder gratis mee, het open achterdek is de natuurlijke plek, en de route is zacht genoeg voor oudere of angstige honden.",
+          "descriptionIt": "La classica gita in barca di 50 minuti lungo lo Spaarne e i canali cittadini è il modo più semplice per vivere Haarlem a livello dell'acqua, con vista sul mulino De Adriaan, il ponte levatoio Gravestenenbrug e le torri della cattedrale viste dal basso. I cani viaggiano a discrezione dell'operatore gratuitamente, il ponte di poppa aperto è il posto naturale, e il percorso è abbastanza dolce anche per cani anziani o timorosi.",
           "petPolicyDe": "Hunde auf Fahrten mit offenem Deck nach Ermessen des Anbieters kostenlos; Hund bei Buchung erwähnen",
           "petPolicyNl": "Honden op vaarten met open dek naar goeddunken van de aanbieder gratis; hond bij het boeken vermelden",
+          "petPolicyIt": "Cani sulle gite con ponte aperto gratis a discrezione dell'operatore; segnala il cane al momento della prenotazione",
           "tipDe": "Buchen Sie die späte Nachmittagsabfahrt für das beste Licht auf dem Spaarne und die geringste Passagierzahl; sprechen Sie den Anbieter bei der Buchung direkt an, um das offene Deck zu bestätigen.",
-          "tipNl": "Boek de late namiddagvaart voor het beste licht op het Spaarne en het minste aantal passagiers; spreek de aanbieder bij het boeken direct aan om het open dek te bevestigen."
+          "tipNl": "Boek de late namiddagvaart voor het beste licht op het Spaarne en het minste aantal passagiers; spreek de aanbieder bij het boeken direct aan om het open dek te bevestigen.",
+          "tipIt": "Prenota la gita del tardo pomeriggio per la luce migliore sullo Spaarne e il minor numero di passeggeri; conferma direttamente con l'operatore al momento della prenotazione il ponte aperto."
         },
         {
           "name": "Hofjes walking route (sixteen historic courtyards)",
@@ -809,10 +904,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hofje+van+Bakenes+Haarlem",
           "descriptionDe": "Haarlem besitzt sechzehn historische Armenhaus-Innenhöfe (hofjes) im Zentrum, der älteste ist das 1395 gegründete Hofje van Bakenes, und die meisten sind auf einer selbstgeführten Wanderroute zugänglich. Angeleinte Hunde sind in jedem Hofje der offiziellen Stadtroute willkommen (etwa die Hälfte der sechzehn ist täglich geöffnet, die übrigen nur werktags). Die Hofjes sind klein, ruhig und still: perfekte Zwischenstopps abseits der Kathedralen-Menschenmassen.",
           "descriptionNl": "Haarlem telt zestien historische hofjes in het centrum, het oudste is het in 1395 gestichte Hofje van Bakenes, en de meeste zijn te bezoeken via een zelf te lopen wandelroute. Aangelijnde honden zijn welkom in elk hofje op de officiële stadsroute (ongeveer de helft van de zestien is dagelijks open, de rest alleen op werkdagen). De hofjes zijn klein, rustig en stil: perfecte tussenstops weg van de drukte bij de kathedraal.",
+          "descriptionIt": "Haarlem conta sedici hofjes storici nel centro, il più antico è l'Hofje van Bakenes, fondato nel 1395, e la maggior parte si può visitare seguendo un percorso a piedi autogestito. I cani al guinzaglio sono benvenuti in ogni hofje del percorso ufficiale cittadino (circa la metà dei sedici è aperta ogni giorno, il resto solo nei giorni feriali). Gli hofjes sono piccoli, tranquilli e silenziosi: soste perfette lontano dal trambusto vicino alla cattedrale.",
           "petPolicyDe": "Angeleinte Hunde in den Innenhöfen der offiziellen Route willkommen; Stille und Bewohner respektieren",
           "petPolicyNl": "Aangelijnde honden welkom in de hofjes op de officiële route; stilte en bewoners respecteren",
+          "petPolicyIt": "Cani al guinzaglio benvenuti negli hofjes sul percorso ufficiale; rispetta il silenzio e i residenti",
           "tipDe": "Beginnen Sie beim Hofje van Bakenes (dem ältesten) und folgen Sie den Messingplaketten im Pflaster; die Runde führt zu 8 Hofjes in etwa 90 Minuten und endet beim Hofje van Loo nahe dem Spaarne.",
-          "tipNl": "Begin bij het Hofje van Bakenes (het oudste) en volg de koperen plaquettes in het plaveisel; de ronde leidt naar 8 hofjes in ongeveer 90 minuten en eindigt bij het Hofje van Loo bij het Spaarne."
+          "tipNl": "Begin bij het Hofje van Bakenes (het oudste) en volg de koperen plaquettes in het plaveisel; de ronde leidt naar 8 hofjes in ongeveer 90 minuten en eindigt bij het Hofje van Loo bij het Spaarne.",
+          "tipIt": "Inizia dall'Hofje van Bakenes (il più antico) e segui le placche di rame nella pavimentazione; il giro porta a 8 hofjes in circa 90 minuti e finisce all'Hofje van Loo vicino allo Spaarne."
         }
       ],
       "tipsEn": [
@@ -893,8 +991,10 @@
       ],
       "titleDe": "Hundefreundliche Aktivitäten in Haarlem, Grote Markt & Sechzehn Hofjes",
       "titleNl": "Hondvriendelijke activiteiten in Haarlem, Grote Markt & Zestien Hofjes",
+      "titleIt": "Attività pet-friendly ad Haarlem, Grote Markt e i Sedici Hofjes",
       "introDe": "Das kompakte mittelalterliche Zentrum von Haarlem, der Kopfsteinpflaster-Platz Grote Markt unter der Grote Sint-Bavokerk, die Windmühle De Adriaan am Fluss und das Netz von sechzehn historischen Armenhaus-Innenhöfen (hofjes) sorgen dafür, dass nahezu jedes Highlight an der Leine mit Hund zugänglich ist. Drei Höhepunkte stechen hervor: der Kathedralenplatz, eine kleine Grachtenfahrt und der älteste Park der Niederlande.",
       "introNl": "Het compacte middeleeuwse centrum van Haarlem, het kasseienplein Grote Markt onder de Grote Sint-Bavokerk, molen De Adriaan aan de rivier en het netwerk van zestien historische hofjes zorgen ervoor dat vrijwel elk hoogtepunt aangelijnd met hond toegankelijk is. Drie hoogtepunten springen eruit: het kathedraalplein, een korte grachtenvaart en het oudste park van Nederland.",
+      "introIt": "Il compatto centro medievale di Haarlem, la piazza in ciottoli Grote Markt sotto la Grote Sint-Bavokerk, il mulino De Adriaan sul fiume e la rete dei sedici hofjes storici fanno sì che quasi ogni punto di interesse sia accessibile al guinzaglio con il cane. Tre punti salienti spiccano su tutti: la piazza della cattedrale, una breve gita in barca sui canali e il parco più antico dei Paesi Bassi.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund auf eine Grachtenfahrt in Haarlem mitnehmen?",
@@ -921,6 +1021,20 @@
         {
           "q": "Zijn honden toegestaan in Haarlemse musea?",
           "a": "De meeste Haarlemse musea (Frans Hals Museum, Teylers Museum, Corrie ten Boom Huis) laten alleen assistentiehonden toe. De binnentuin van het Teylers Museum en het Hal-terras van het Frans Hals Museum accepteren aangelijnde honden."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane su una gita in barca sui canali ad Haarlem?",
+          "a": "Sì, Smidtje Canal Cruise Haarlem accoglie i cani gratuitamente, a discrezione dell'operatore, sulle gite classiche con ponte aperto. Segnala il cane al momento della prenotazione e conferma il ponte aperto."
+        },
+        {
+          "q": "Il centro storico di Haarlem è percorribile con il cane?",
+          "a": "Sì, tutto il nucleo storico all'interno dei canali è percorribile al guinzaglio, inclusi Grote Markt, Klokhuisplein, le banchine dello Spaarne e gli hofjes. Fai attenzione alle biciclette nella stretta via dello shopping Grote Houtstraat."
+        },
+        {
+          "q": "I cani sono ammessi nei musei di Haarlem?",
+          "a": "La maggior parte dei musei di Haarlem (Frans Hals Museum, Teylers Museum, Corrie ten Boom Huis) ammette solo cani da assistenza. Il giardino interno del Teylers Museum e la terrazza Hal del Frans Hals Museum accettano cani al guinzaglio."
         }
       ]
     },
@@ -953,8 +1067,10 @@
           "tipPt": "Filtra por 'identidade verificada' e 'experiência com a raça' antes de reservar: em Haarlem há muitos cuidadores mas a qualidade varia.",
           "descriptionDe": "Der größte verifizierte Marktplatz für Haustierbetreuung in den Niederlanden, mit Hunderten Buchungen in Haarlem und einer durchschnittlichen Bewertung von über 4,9 von 5. Bietet Kurzbesuche, ganztägige Betreuung, Gassi-Service und Übernachtungsbetreuung, alles auf Englisch buchbar. Nützlich für die Tage, an denen Sie mit dem Zug nach Amsterdam fahren, um ein Museum zu besuchen, das der Hund nicht betreten darf.",
           "descriptionNl": "De grootste geverifieerde marktplaats voor huisdierenzorg in Nederland, met honderden boekingen in Haarlem en een gemiddelde beoordeling boven 4,9 van 5. Biedt korte bezoekjes, hele dagen opvang, uitlaatservice en overnachtingszorg, alles boekbaar in het Engels. Handig voor de dagen dat je met de trein naar Amsterdam gaat om een museum te bezoeken dat de hond niet in mag.",
+          "descriptionIt": "Il più grande marketplace verificato per la cura degli animali nei Paesi Bassi, con centinaia di prenotazioni ad Haarlem e una valutazione media superiore a 4,9 su 5. Offre visite brevi, assistenza per l'intera giornata, servizio di passeggiate e pernottamento, tutto prenotabile in inglese. Utile per i giorni in cui prendi il treno per Amsterdam per visitare un museo che non ammette cani.",
           "tipDe": "Filtern Sie vor der Buchung nach „verifizierte ID“ und „Erfahrung mit der Rasse“; Haarlem hat viele Betreuer, aber die Qualität variiert.",
-          "tipNl": "Filter voor het boeken op 'geverifieerde ID' en 'ervaring met dit ras'; Haarlem heeft veel oppassers, maar de kwaliteit wisselt."
+          "tipNl": "Filter voor het boeken op 'geverifieerde ID' en 'ervaring met dit ras'; Haarlem heeft veel oppassers, maar de kwaliteit wisselt.",
+          "tipIt": "Al momento della prenotazione filtra per 'ID verificato' ed 'esperienza con questa razza'; Haarlem ha molti pet sitter, ma la qualità varia."
         },
         {
           "name": "Petbnb Haarlem",
@@ -975,8 +1091,10 @@
           "tipPt": "Todas as reservas incluem seguro de responsabilidade civil: tranquilidade útil se o teu cão for reativo em ambientes desconhecidos.",
           "descriptionDe": "Eine niederländische Betreuerplattform, die bei jeder Buchung eine Premium-Haustierversicherung und einen 24/7-Kundendienst umfasst. Die Abdeckung ist im Zentrum von Haarlem, in Haarlem-Noord und in Heemstede dicht. Die englische Benutzeroberfläche macht sie zur unkompliziertesten Option für Kurzbesucher, die kein Niederländisch lesen.",
           "descriptionNl": "Een Nederlands oppasplatform dat bij elke boeking een premium huisdierverzekering en 24/7-klantenservice omvat. De dekking is dicht in het centrum van Haarlem, in Haarlem-Noord en in Heemstede. De Engelse interface maakt het de meest eenvoudige optie voor korte bezoekers die geen Nederlands lezen.",
+          "descriptionIt": "Una piattaforma olandese di pet sitting che include un'assicurazione premium per animali e assistenza clienti 24/7 con ogni prenotazione. La copertura è fitta nel centro di Haarlem, a Haarlem-Noord e a Heemstede. L'interfaccia in inglese la rende l'opzione più semplice per visitatori brevi che non leggono l'olandese.",
           "tipDe": "Alle Buchungen umfassen eine Haftpflichtversicherung, ein nützliches Sicherheitsnetz, wenn Ihr Hund in fremden Wohnungen reaktiv ist.",
-          "tipNl": "Alle boekingen omvatten een aansprakelijkheidsverzekering, een handig vangnet als je hond reactief is in vreemde woningen."
+          "tipNl": "Alle boekingen omvatten een aansprakelijkheidsverzekering, een handig vangnet als je hond reactief is in vreemde woningen.",
+          "tipIt": "Tutte le prenotazioni includono un'assicurazione di responsabilità civile, una rete di sicurezza utile se il tuo cane è reattivo in case sconosciute."
         },
         {
           "name": "Rover Haarlem",
@@ -997,8 +1115,10 @@
           "tipPt": "Os passeadores Rover têm tipicamente rotas fixas: agenda um encontro prévio se o teu cão for desconfiado com estranhos.",
           "descriptionDe": "Globale Plattform für Betreuer und Gassi-Geher mit starker Präsenz in Haarlem und derselben In-App-Nachrichtenfunktion wie im übrigen Europa. Die meisten Betreuer bieten feste tägliche Spaziergänge (60 Minuten nach festem Zeitplan) sowie Betreuung auf Anfrage. Eine Versicherung ist bei jeder Rover-Buchung standardmäßig enthalten.",
           "descriptionNl": "Wereldwijd platform voor oppassers en uitlaters met sterke aanwezigheid in Haarlem en dezelfde in-app-berichtenfunctie als in de rest van Europa. De meeste oppassers bieden vaste dagelijkse wandelingen (60 minuten volgens vast schema) en opvang op aanvraag. Een verzekering is standaard inbegrepen bij elke Rover-boeking.",
+          "descriptionIt": "Piattaforma globale per pet sitter e dog walker con una forte presenza ad Haarlem e la stessa funzione di messaggistica in-app del resto d'Europa. La maggior parte dei sitter offre passeggiate giornaliere fisse (60 minuti secondo un orario prestabilito) e assistenza su richiesta. Un'assicurazione è inclusa di serie in ogni prenotazione Rover.",
           "tipDe": "Rover-Gassi-Geher arbeiten meist feste Routen; vereinbaren Sie zuerst ein Kennenlerntreffen, wenn Ihr Hund misstrauisch gegenüber neuen Menschen ist.",
-          "tipNl": "Rover-uitlaters lopen meestal vaste routes; plan eerst een kennismakingsafspraak als je hond wantrouwig is tegenover nieuwe mensen."
+          "tipNl": "Rover-uitlaters lopen meestal vaste routes; plan eerst een kennismakingsafspraak als je hond wantrouwig is tegenover nieuwe mensen.",
+          "tipIt": "I dog walker di Rover seguono di solito percorsi fissi; pianifica prima un incontro conoscitivo se il tuo cane è diffidente verso le persone nuove."
         }
       ],
       "tipsEn": [
@@ -1079,8 +1199,10 @@
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Haarlem",
       "titleNl": "Huisdierenzorg & uitlaatservice in Haarlem",
+      "titleIt": "Cura degli animali e servizio di passeggiate ad Haarlem",
       "introDe": "Haarlem profitiert von derselben dichten niederländischen Infrastruktur für Haustierpflege wie Amsterdam, mit zusätzlicher Abdeckung durch die hundeliebenden Wohnviertel Haarlem-Noord und Heemstede. Drei Online-Plattformen decken die Stadt gut ab; buchen Sie in den Schulferien mindestens 48 Stunden im Voraus und bringen Sie einen Impfnachweis mit. Die meisten Betreuer akzeptieren Buchungen auf Englisch.",
       "introNl": "Haarlem profiteert van dezelfde dichte Nederlandse infrastructuur voor huisdierenzorg als Amsterdam, met extra dekking dankzij de hondenliefhebbende woonwijken Haarlem-Noord en Heemstede. Drie onlineplatforms dekken de stad goed; boek in de schoolvakanties minstens 48 uur van tevoren en breng een vaccinatiebewijs mee. De meeste oppassers accepteren boekingen in het Engels.",
+      "introIt": "Haarlem beneficia della stessa fitta infrastruttura olandese per la cura degli animali di Amsterdam, con una copertura extra grazie ai quartieri residenziali amanti dei cani di Haarlem-Noord e Heemstede. Tre piattaforme online coprono bene la città; prenota con almeno 48 ore di anticipo durante le vacanze scolastiche e porta con te il libretto delle vaccinazioni. La maggior parte dei pet sitter accetta prenotazioni in inglese.",
       "faqsDe": [
         {
           "q": "Was kostet Haustierbetreuung in Haarlem?",
@@ -1107,6 +1229,20 @@
         {
           "q": "Kan ik mijn hond in plaats daarvan in het hotel achterlaten?",
           "a": "De meeste hotels in Haarlem staan het niet toe om honden onbeheerd op de kamer achter te laten. Hotel Lion d'Or en enkele boutique-hotels aan het Spaarne regelen informeel oppassers; anders boek je voor de benodigde uren een oppasser."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Quanto costa la cura degli animali ad Haarlem?",
+          "a": "Le visite brevi partono da circa 15 €, le passeggiate da circa 18 € per 60 minuti, l'assistenza per l'intera giornata da 25-35 € e il pernottamento da 30-55 €, a seconda dell'esperienza del sitter e della taglia del cane."
+        },
+        {
+          "q": "I pet sitter sono assicurati?",
+          "a": "Pawshake, Petbnb e Rover includono di serie un'assicurazione di responsabilità civile e una copertura infortuni per le prenotazioni effettuate tramite le loro piattaforme."
+        },
+        {
+          "q": "Posso invece lasciare il mio cane in hotel?",
+          "a": "La maggior parte degli hotel di Haarlem non permette di lasciare i cani incustoditi in camera. L'Hotel Lion d'Or e alcuni boutique hotel sullo Spaarne organizzano pet sitter in modo informale; altrimenti prenota un sitter per le ore necessarie."
         }
       ]
     }

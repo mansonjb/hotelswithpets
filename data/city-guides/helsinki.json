@@ -40,12 +40,16 @@
           "tipPt": "Vá a uma manhã de dia útil no verão. Os fins de semana atraem grandes multidões e a esplanada enche por volta das 10h",
           "descriptionDe": "Eine von Helsinkis beliebtesten Institutionen: eine winzige rote Holzhütte am Ufer der Töölö-Bucht, nur wenige Gehminuten von der Finlandia-Halle entfernt. Im Sommer ist die Außenterrasse voll mit Einheimischen und ihren Hunden, angezogen von den frisch gebackenen Zimtschnecken, dem über offenem Feuer nach traditioneller finnischer Art zubereiteten Kaffee und der außergewöhnlichen Lage am Wasser. Hunde sind draußen uneingeschränkt willkommen, und das Personal freut sich sichtlich über sie. Im Winter hält die Feuerstelle im Freien es wärmer als erwartet, und der ganze Ort bekommt eine märchenhafte Atmosphäre.",
           "descriptionNl": "Een van de populairste instituten van Helsinki: een piepklein rood houten hutje aan de oever van de Töölö-baai, een paar minuten lopen van de Finlandia-hal. In de zomer staat het buitenterras vol met locals en hun honden, aangetrokken door de vers gebakken kaneelbroodjes, de op traditionele Finse wijze boven open vuur gezette koffie en de bijzondere ligging aan het water. Honden zijn buiten onbeperkt welkom, en het personeel is er zichtbaar blij mee. In de winter houdt het buitenvuur het warmer dan verwacht, en de hele plek krijgt een sprookjesachtige sfeer.",
+          "descriptionIt": "Uno dei locali più amati di Helsinki: una minuscola baita di legno rosso sulla riva della baia di Töölö, a pochi minuti a piedi dalla Finlandia Hall. D'estate la terrazza esterna si riempie di gente del posto e dei loro cani, attirati dai cinnamon roll appena sfornati, dal caffè cotto sul fuoco alla maniera finlandese tradizionale e dalla posizione unica sull'acqua. I cani sono benvenuti senza limiti all'aperto, e lo staff ne è visibilmente contento. D'inverno il fuoco esterno scalda più del previsto, e tutto il posto prende un'atmosfera fiabesca.",
           "petPolicyDe": "Hunde auf der Außenterrasse willkommen",
           "petPolicyNl": "Honden welkom op het buitenterras",
+          "petPolicyIt": "Cani benvenuti sulla terrazza esterna",
           "mustTryDe": "Zimtschnecken (korvapuusti), Kaffee vom offenen Feuer",
           "mustTryNl": "Kaneelbroodjes (korvapuusti), koffie van open vuur",
+          "mustTryIt": "Cinnamon roll (korvapuusti), caffè cotto sul fuoco",
           "tipDe": "Kommen Sie im Sommer an einem Wochentagmorgen. Am Wochenende sind große Menschenmengen unterwegs, und die Terrasse ist bereits um 10 Uhr voll",
-          "tipNl": "Kom in de zomer op een doordeweekse ochtend. In het weekend is het er druk, en het terras zit tegen 10 uur al vol"
+          "tipNl": "Kom in de zomer op een doordeweekse ochtend. In het weekend is het er druk, en het terras zit tegen 10 uur al vol",
+          "tipIt": "Vieni d'estate in una mattina infrasettimanale. Nel weekend c'è molta gente, e la terrazza è già piena verso le 10"
         },
         {
           "name": "Kuuma",
@@ -74,12 +78,16 @@
           "tipPt": "Peça uma mesa no extremo exterior da esplanada, mais espaço para o seu cão e as melhores vistas para o porto",
           "descriptionDe": "Direkt am Marktplatz am Wasser gelegen, verfügt Kuuma über eine der schönsten Außenterrassen Helsinkis mit direktem Blick auf den Hafen und das Fährterminal nach Suomenlinna. Die Terrasse ist großzügig, unaufgeregt und wirklich hundefreundlich, das Personal soll schon von sich aus Wasserschalen gebracht haben. Die Karte setzt auf finnische Klassiker: Lachssuppe, Rentiergerichte und großzügige belegte Brote. Im Sommer ist die Lage unschlagbar, um Boote und Fähren zu beobachten, während der Hund sich in der Sonne ausstreckt.",
           "descriptionNl": "Direct aan de markt aan het water gelegen, heeft Kuuma een van de mooiste buitenterrassen van Helsinki met rechtstreeks uitzicht op de haven en de veerbootterminal naar Suomenlinna. Het terras is ruim, ontspannen en echt hondvriendelijk, het personeel zou zelfs uit zichzelf waterbakjes brengen. De kaart zet in op Finse klassiekers: zalmsoep, rendiergerechten en gulle belegde broodjes. In de zomer is de ligging onovertroffen om boten en veerboten te bekijken terwijl je hond zich in de zon uitstrekt.",
+          "descriptionIt": "Proprio accanto al mercato sull'acqua, Kuuma ha una delle terrazze più belle di Helsinki con vista diretta sul porto e sul terminal dei traghetti per Suomenlinna. La terrazza è ampia, rilassata e davvero a misura di cane, lo staff ti porta le ciotole d'acqua anche senza chiederlo. Il menu punta sui classici finlandesi: zuppa di salmone, piatti di renna e panini generosi. D'estate la posizione è impareggiabile per guardare barche e traghetti mentre il tuo cane si stiracchia al sole.",
           "petPolicyDe": "Hunde auf der Terrasse am Wasser willkommen",
           "petPolicyNl": "Honden welkom op het terras aan het water",
+          "petPolicyIt": "Cani benvenuti sulla terrazza sull'acqua",
           "mustTryDe": "Lachssuppe (lohikeitto), Rentiergericht des Tages",
           "mustTryNl": "Zalmsoep (lohikeitto), rendiergerecht van de dag",
+          "mustTryIt": "Zuppa di salmone (lohikeitto), piatto di renna del giorno",
           "tipDe": "Fragen Sie nach einem Tisch am äußeren Rand der Terrasse, mehr Platz für den Hund und der beste Blick auf den Hafen",
-          "tipNl": "Vraag om een tafel aan de buitenrand van het terras, meer ruimte voor je hond en het beste uitzicht op de haven"
+          "tipNl": "Vraag om een tafel aan de buitenrand van het terras, meer ruimte voor je hond en het beste uitzicht op de haven",
+          "tipIt": "Chiedi un tavolo sul bordo esterno della terrazza, più spazio per il tuo cane e la vista migliore sul porto"
         },
         {
           "name": "Bar Loose",
@@ -108,12 +116,16 @@
           "tipPt": "As noites de música ao vivo são muito concorridas mas o ambiente é ótimo. Telefone com antecedência se quiser garantir uma mesa com espaço para o seu cão",
           "descriptionDe": "Helsinkis berühmteste Rockbar und einer der hundefreundlichsten Orte im Stadtzentrum. Die Atmosphäre ist warm und unprätentiös, Sichtmauerwerk, Konzertplakate und ein Publikum, das Hunde wirklich willkommen heißt. Das Personal ist für seine lockere Art bekannt, und mehr als ein Stammgast-Hund hat hier seinen eigenen Barhocker. Die Küche bietet solide Bar-Küche: Burger, Wings und beladene Pommes. Die Außenterrasse im Sommer ist besonders entspannt, und Hunde sind nie ein Problem.",
           "descriptionNl": "De beroemdste rockbar van Helsinki en een van de meest hondvriendelijke plekken in het centrum. De sfeer is warm en ongedwongen, zichtbaar metselwerk, concertposters en een publiek dat honden echt verwelkomt. Het personeel staat bekend om zijn ontspannen aanpak, en meer dan één vaste hondenklant heeft hier zijn eigen barkruk. De keuken biedt stevige barkeuken: burgers, wings en overladen frietjes. Het buitenterras in de zomer is bijzonder ontspannen, en honden zijn nooit een probleem.",
+          "descriptionIt": "Il rock bar più famoso di Helsinki e uno dei posti più cane-friendly del centro. L'atmosfera è calda e informale, con mattoni a vista, locandine di concerti e un pubblico che i cani li accoglie davvero. Lo staff è noto per il suo approccio rilassato, e più di un cane abituale ha qui il suo sgabello personale. La cucina offre piatti robusti da bar: burger, wings e patatine abbondanti. La terrazza estiva è particolarmente rilassata, e i cani non sono mai un problema.",
           "petPolicyDe": "Hunde drinnen und auf der Terrasse willkommen",
           "petPolicyNl": "Honden welkom binnen en op het terras",
+          "petPolicyIt": "Cani benvenuti dentro e in terrazza",
           "mustTryDe": "Burger des Tages, Auswahl an Craft-Bier",
           "mustTryNl": "Burger van de dag, selectie ambachtelijk bier",
+          "mustTryIt": "Burger del giorno, selezione di birre artigianali",
           "tipDe": "An Live-Musik-Abenden ist viel los, aber die Stimmung ist großartig. Rufen Sie vorab an, wenn Sie einen garantierten Tisch mit Platz für Ihren Hund möchten",
-          "tipNl": "Op avonden met livemuziek is het er druk, maar de sfeer is geweldig. Bel van tevoren als je een gegarandeerde tafel met ruimte voor je hond wilt"
+          "tipNl": "Op avonden met livemuziek is het er druk, maar de sfeer is geweldig. Bel van tevoren als je een gegarandeerde tafel met ruimte voor je hond wilt",
+          "tipIt": "Nelle serate con musica dal vivo c'è molta gente, ma l'atmosfera è fantastica. Chiama in anticipo se vuoi la certezza di un tavolo con spazio per il tuo cane"
         },
         {
           "name": "Kaffa Roastery",
@@ -142,12 +154,16 @@
           "tipPt": "As manhãs de sábado são uma instituição local aqui. Venha cedo para apanhar os melhores lugares na esplanada",
           "descriptionDe": "Helsinkis Spezialitätenkaffee-Szene ist ernst zu nehmen, und Kaffa Roastery steht in ihrem Zentrum. Im Designviertel Punavuori gelegen, kommen hier Helsinkis Kaffeekenner für Single-Origin-Pourover und meisterhaft gerösteten Espresso her. Der Raum im Industrial-Chic-Stil ist entspannt im Umgang mit Hunden, und die kleine Außenterrasse ist an Wochenendmorgen ein Treffpunkt für lokale Hundehalter. Das Team hinter der Theke ist kundig, freundlich und völlig unbeeindruckt von wohlerzogenen Hunden.",
           "descriptionNl": "De specialty-koffiescene van Helsinki wordt serieus genomen, en Kaffa Roastery staat er middenin. Gelegen in de designwijk Punavuori, komen hier de koffiekenners van Helsinki voor single-origin pourover en meesterlijk gebrande espresso. De ruimte in industrial-chic stijl is ontspannen met honden, en het kleine buitenterras is op weekendochtenden een verzamelplek voor lokale hondenbezitters. Het team achter de toonbank is kundig, vriendelijk en volstrekt onaangedaan door welopgevoede honden.",
+          "descriptionIt": "La scena del caffè specialty di Helsinki è presa sul serio, e Kaffa Roastery ne è il centro. Nel quartiere del design di Punavuori, qui arrivano gli intenditori di caffè di Helsinki per il pourover single-origin e per l'espresso tostato ad arte. Lo spazio in stile industrial-chic è rilassato con i cani, e la piccola terrazza esterna diventa nei weekend un punto di ritrovo per i padroni di cani del quartiere. Il team dietro al bancone è competente, gentile e del tutto impassibile davanti a cani ben educati.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen, drinnen geduldet bei Ruhe",
           "petPolicyNl": "Honden welkom op het terras, binnen getolereerd bij rust",
+          "petPolicyIt": "Cani benvenuti in terrazza, tollerati dentro se tranquilli",
           "mustTryDe": "Single-Origin-Filterkaffee, Haus-Espresso",
           "mustTryNl": "Single-origin filterkoffie, huisespresso",
+          "mustTryIt": "Caffè filtro single-origin, espresso della casa",
           "tipDe": "Samstagmorgen sind hier eine lokale Institution. Kommen Sie früh für die besten Plätze auf der Terrasse",
-          "tipNl": "Zaterdagochtend is hier een lokale traditie. Kom vroeg voor de beste plekken op het terras"
+          "tipNl": "Zaterdagochtend is hier een lokale traditie. Kom vroeg voor de beste plekken op het terras",
+          "tipIt": "Il sabato mattina qui è una tradizione locale. Vieni presto per i posti migliori in terrazza"
         },
         {
           "name": "Ravintola Juuri",
@@ -176,22 +192,29 @@
           "tipPt": "Reserve a esplanada com antecedência para as noites de verão, enche depressa e os lugares que aceitam cães são limitados",
           "descriptionDe": "Ein gefeiertes finnisches Restaurant, spezialisiert auf „sapas“, die finnische Antwort auf Tapas, mit saisonalen nordischen Zutaten. Juuri ist bekannt für durchdachte, zutatengeführte Küche und eine entspannte, einladende Atmosphäre. Das Restaurant hat eine kleine Terrasse, die im Sommer zuverlässig hundefreundlich ist, und das Team hat einen Ruf für Herzlichkeit gegenüber Gästen mit Tieren. Wer echte zeitgenössische finnische Küche in einer Umgebung erleben möchte, in der der Hund willkommen ist, ist hier richtig.",
           "descriptionNl": "Een gevierd Fins restaurant, gespecialiseerd in 'sapas', het Finse antwoord op tapas, met seizoensgebonden Noordse ingrediënten. Juuri staat bekend om doordachte, ingrediëntgedreven keuken en een ontspannen, uitnodigende sfeer. Het restaurant heeft een klein terras dat in de zomer betrouwbaar hondvriendelijk is, en het team staat bekend om zijn hartelijkheid tegenover gasten met dieren. Wie echte hedendaagse Finse keuken wil ervaren in een omgeving waar je hond welkom is, zit hier goed.",
+          "descriptionIt": "Un ristorante finlandese celebrato, specializzato in 'sapas', la risposta finlandese alle tapas, con ingredienti nordici di stagione. Juuri è noto per una cucina curata, incentrata sugli ingredienti, e per un'atmosfera rilassata e accogliente. Il ristorante ha una piccola terrazza affidabilmente cane-friendly d'estate, e il team è conosciuto per la sua cordialità verso gli ospiti con animali. Chi vuole provare la vera cucina finlandese contemporanea in un ambiente dove il tuo cane è benvenuto trova qui il posto giusto.",
           "petPolicyDe": "Hunde im Sommer auf der Terrasse willkommen",
           "petPolicyNl": "Honden welkom op het terras in de zomer",
+          "petPolicyIt": "Cani benvenuti in terrazza d'estate",
           "mustTryDe": "Sapas-Auswahl, finnisches saisonales Degustationsmenü",
           "mustTryNl": "Sapas-selectie, Fins seizoensproeverijmenu",
+          "mustTryIt": "Selezione di sapas, menu degustazione finlandese di stagione",
           "tipDe": "Buchen Sie die Terrasse für Sommerabende im Voraus, sie ist schnell voll, und hundefreundliche Plätze sind begrenzt",
-          "tipNl": "Boek het terras voor zomeravonden van tevoren, het zit snel vol, en hondvriendelijke plekken zijn beperkt"
+          "tipNl": "Boek het terras voor zomeravonden van tevoren, het zit snel vol, en hondvriendelijke plekken zijn beperkt",
+          "tipIt": "Prenota la terrazza per le sere d'estate in anticipo, si riempie in fretta, e i posti cane-friendly sono limitati"
         }
       ],
       "titlePt": "Restaurantes Pet-Friendly em Helsínquia",
       "introPt": "Helsínquia tem uma cultura gastronómica acolhedora para cães, discreta mas confiante, que surpreende a maioria dos visitantes. Os finlandeses têm uma relação profunda e sem sentimentalismos com os animais e a natureza, e o conceito do 'direito de todos' (jokamiehen oikeus) prolonga-se culturalmente numa tolerância natural pelos cães na vida pública. A cena de cafés da cidade agrupa-se em bairros distintos: Kallio, o bairro descontraído a leste, adorado por artistas e estudantes, tem mais esplanadas que aceitam cães por quarteirão do que quase qualquer outro local na Escandinávia. Töölö, o bairro residencial mais tranquilo junto ao Estádio Olímpico, tem passeios largos e uma cultura de esplanada generosa no verão. A zona do mercado de Hakaniemi, com o seu mercado coberto de tijolo vermelho e as bancas ao ar livre, é um ponto de encontro clássico de Helsínquia, onde os cães fazem parte da paisagem. Os verões finlandeses são curtos mas espetaculares, de junho a agosto as esplanadas enchem-se depressa e a luz dura até à meia-noite. É nessa altura que a cultura de refeições ao ar livre de Helsínquia é genuinamente de craveira mundial. No inverno, procure locais com esplanadas aquecidas ou interiores que aceitem cães. Os cinco locais seguintes reúnem o melhor da cena gastronómica de Helsínquia que recebe cães, durante todo o ano.",
       "titleDe": "Haustierfreundliche Restaurants in Helsinki",
       "titleNl": "Huisdiervriendelijke restaurants in Helsinki",
+      "titleIt": "Ristoranti pet-friendly a Helsinki",
       "introDe": "Helsinki hat eine still selbstbewusste hundefreundliche Restaurantkultur, die die meisten Besucher überrascht. Finnen haben eine tiefe, unsentimentale Beziehung zu Tieren und Natur, das Konzept des „Jedermannsrechts“ (jokamiehen oikeus) wirkt kulturell in eine entspannte Toleranz gegenüber Hunden im öffentlichen Leben hinein. Die Cafészene der Stadt gliedert sich in eigenständige Viertel: Kallio, das angesagte östliche Viertel, beliebt bei Künstlern und Studenten, hat pro Häuserblock mehr hundefreundliche Terrassen als fast überall sonst in Skandinavien. Töölö, das ruhigere Wohnviertel nahe dem Olympiastadion, hat breite Gehwege und im Sommer eine großzügige Terrassenkultur. Das Marktgebiet Hakaniemi mit seiner Markthalle aus rotem Backstein und den Ständen im Freien ist ein klassischer Helsinki-Treffpunkt, an dem Hunde zum Straßenbild gehören. Die finnischen Sommer sind kurz, aber spektakulär, von Juni bis August füllen sich die Terrassen schnell, und das Licht hält bis Mitternacht an. Dann zeigt sich Helsinkis Kultur des Essens im Freien wirklich von ihrer weltklasse Seite. Im Winter lohnt sich die Suche nach Orten mit beheizten Terrassen oder hundetoleranten Innenräumen. Die folgenden fünf Orte decken das Beste von Helsinkis hundefreundlicher Gastronomieszene ganzjährig ab.",
       "introNl": "Helsinki heeft een stil zelfverzekerde hondvriendelijke restaurantcultuur die de meeste bezoekers verrast. Finnen hebben een diepe, onsentimentele band met dieren en natuur, en het concept van 'ieders recht' (jokamiehen oikeus) werkt cultureel door in een ontspannen tolerantie tegenover honden in het openbare leven. De cafécultuur van de stad is opgedeeld in eigen wijken: Kallio, de hippe oostelijke wijk, populair bij kunstenaars en studenten, heeft per straatblok meer hondvriendelijke terrassen dan bijna nergens anders in Scandinavië. Töölö, de rustigere woonwijk bij het Olympisch Stadion, heeft brede stoepen en in de zomer een gulle terrascultuur. De marktbuurt Hakaniemi, met haar rode bakstenen markthal en kraampjes buiten, is een klassieke ontmoetingsplek in Helsinki waar honden bij het straatbeeld horen. De Finse zomers zijn kort maar spectaculair, van juni tot augustus lopen de terrassen snel vol, en het licht houdt aan tot middernacht. Dan toont de buitenetencultuur van Helsinki zich echt van haar wereldklasse kant. In de winter loont het te zoeken naar plekken met verwarmde terrassen of hondentolerante interieurs. De volgende vijf plekken bestrijken het beste van de hondvriendelijke gastronomische scene van Helsinki, het hele jaar door.",
+      "introIt": "Helsinki ha una cultura ristorativa cane-friendly tranquillamente sicura di sé che sorprende la maggior parte dei visitatori. I finlandesi hanno un legame profondo e per nulla sentimentale con animali e natura, e il concetto di 'diritto di tutti' (jokamiehen oikeus) si traduce culturalmente in una tolleranza rilassata verso i cani nella vita pubblica. La cultura dei caffè della città si divide per quartieri: Kallio, il quartiere hipster a est, amato da artisti e studenti, ha per isolato più terrazze cane-friendly di quasi ogni altro posto in Scandinavia. Töölö, il quartiere residenziale più tranquillo vicino allo Stadio Olimpico, ha marciapiedi larghi e d'estate una generosa cultura delle terrazze. Il quartiere del mercato di Hakaniemi, con il suo mercato coperto in mattoni rossi e le bancarelle all'aperto, è un classico punto d'incontro di Helsinki dove i cani fanno parte del paesaggio urbano. Le estati finlandesi sono brevi ma spettacolari, da giugno ad agosto le terrazze si riempiono in fretta, e la luce dura fino a mezzanotte. È allora che la cultura del mangiare all'aperto di Helsinki mostra davvero il suo lato da classe mondiale. D'inverno conviene cercare posti con terrazze riscaldate o interni tolleranti verso i cani. I prossimi cinque posti coprono il meglio della scena gastronomica cane-friendly di Helsinki, tutto l'anno.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks in Helsinki",
@@ -227,14 +250,19 @@
           "tipPt": "Entre pelo extremo sul de Töölönlahti (baía de Töölö) para os percursos mais cénicos. As secções a norte são mais selvagens e desertas",
           "areaDe": "10 km² zusammenhängender Stadtwald",
           "areaNl": "10 km² aaneengesloten stadsbos",
+          "areaIt": "10 km² di bosco urbano continuo",
           "descriptionDe": "Helsinkis Zentralpark ist kein gepflegter Stadtgarten, sondern ein echter Wald, 10 Kilometer ununterbrochener Birken-, Kiefern- und Fichtenwald, der von der Töölö-Bucht nach Norden bis zur Stadtgrenze verläuft. Hunde können in den Waldbereichen abseits der ausgewiesenen Wege freilaufen, was diesen Ort zu einem der besten städtischen Hundeausflugsziele Nordeuropas macht. Im Winter wird der Park zum Langlaufziel, doch auch dann sind wohlerzogene Hunde willkommen. Die Vielfalt des Geländes, Feuchtgebiete, felsige Erhebungen, offene Wiesen und tiefer Wald, sorgt dafür, dass jeder Spaziergang hier wirklich anders ist.",
           "descriptionNl": "Het centrale park van Helsinki is geen verzorgde stadstuin, maar een echt bos, 10 kilometer ononderbroken berken-, dennen- en sparrenbos dat van de Töölö-baai noordwaarts tot aan de stadsgrens loopt. Honden mogen loslopen in de bosdelen buiten de aangewezen paden, wat deze plek tot een van de beste stedelijke hondenbestemmingen van Noord-Europa maakt. In de winter wordt het park een langlaufbestemming, maar ook dan zijn welopgevoede honden welkom. De diversiteit van het terrein, moerasgebied, rotsachtige verhogingen, open weilanden en diep bos, zorgt ervoor dat elke wandeling hier echt anders is.",
+          "descriptionIt": "Il parco centrale di Helsinki non è un giardino urbano curato, ma un vero bosco, 10 chilometri ininterrotti di betulle, pini e abeti che va dalla baia di Töölö verso nord fino al confine della città. I cani possono girare senza guinzaglio nelle zone boschive fuori dai sentieri segnalati, il che rende questo posto una delle migliori destinazioni urbane per cani del Nord Europa. D'inverno il parco diventa una meta per lo sci di fondo, ma anche allora i cani ben educati sono benvenuti. La varietà del terreno, zone paludose, rilievi rocciosi, prati aperti e bosco fitto, fa sì che ogni passeggiata qui sia davvero diversa dall'altra.",
           "leashRulesDe": "Freilauf in Waldbereichen abseits markierter Wege erlaubt",
           "leashRulesNl": "Loslopen toegestaan in bosdelen buiten gemarkeerde paden",
+          "leashRulesIt": "Senza guinzaglio consentito nelle zone boschive fuori dai sentieri segnalati",
           "facilitiesDe": "Waldwege, Bohlenwege durch Feuchtgebiete, Hundekotbeutel-Stationen an den Parkeingängen",
           "facilitiesNl": "Bospaden, vlonderpaden door moerasgebied, hondenpoepzakjesstations bij de parkingangen",
+          "facilitiesIt": "Sentieri nel bosco, passerelle di legno sulle zone paludose, dispenser di sacchetti per cani agli ingressi del parco",
           "tipDe": "Betreten Sie den Park am Südende bei Töölönlahti (Töölö-Bucht) für die landschaftlich schönsten Routen. Die nördlichen Abschnitte sind wilder und leerer",
-          "tipNl": "Betreed het park aan de zuidkant bij Töölönlahti (Töölö-baai) voor de mooiste routes. De noordelijke delen zijn wilder en leger"
+          "tipNl": "Betreed het park aan de zuidkant bij Töölönlahti (Töölö-baai) voor de mooiste routes. De noordelijke delen zijn wilder en leger",
+          "tipIt": "Entra nel parco dal lato sud vicino a Töölönlahti (baia di Töölö) per i percorsi più belli. Le zone a nord sono più selvagge e meno frequentate"
         },
         {
           "name": "Kaivopuisto",
@@ -262,14 +290,19 @@
           "tipPt": "A área sem trela fica mais movimentada nas manhãs de fim de semana, ideal para cães sociáveis, mas as visitas mais tranquilas são a meio da semana, à tarde",
           "areaDe": "12 Hektar Küstenpark",
           "areaNl": "12 hectare kustpark",
+          "areaIt": "12 ettari di parco costiero",
           "descriptionDe": "Helsinkis ältester und eleganteste Park erstreckt sich entlang der felsigen Südküste der Halbinsel Kaivopuisto. Der Park verfügt über einen eigenen Freilaufbereich für Hunde, der gut gepflegt und bei örtlichen Hundebesitzern beliebt ist. Außerhalb des Freilaufbereichs sind Hunde überall an der Leine willkommen. Der Blick über die Küste zu den Schären ist spektakulär, und im Sommer füllt sich der Park mit einer entspannten Helsinkier Mischung aus Familien, Picknickern und Hundespaziergängern. Das Botschaftsviertel umgibt den Park und verleiht der ganzen Gegend ein ruhiges, wohnliches Flair.",
           "descriptionNl": "Het oudste en meest elegante park van Helsinki strekt zich uit langs de rotsachtige zuidkust van het schiereiland Kaivopuisto. Het park heeft een eigen loslooparea voor honden, die goed onderhouden en populair is bij lokale hondenbezitters. Buiten de loslooparea zijn honden overal aangelijnd welkom. Het uitzicht over de kust naar de scherenkust is spectaculair, en in de zomer loopt het park vol met een ontspannen mengeling van Helsinki-gezinnen, picknickers en hondenuitlaters. De ambassadewijk omringt het park en geeft de hele omgeving een rustige, woonachtige sfeer.",
+          "descriptionIt": "Il parco più antico ed elegante di Helsinki si estende lungo la costa rocciosa a sud della penisola di Kaivopuisto. Il parco ha un'area sgambamento propria per cani, ben curata e amata dai padroni di cani del posto. Fuori dall'area sgambamento i cani sono benvenuti ovunque al guinzaglio. La vista sulla costa verso l'arcipelago è spettacolare, e d'estate il parco si riempie di un mix rilassato di famiglie di Helsinki, picnic e persone a spasso con il cane. Il quartiere delle ambasciate circonda il parco e dà a tutta l'area un'atmosfera tranquilla e residenziale.",
           "leashRulesDe": "Freilaufbereich im ausgewiesenen Abschnitt; ansonsten Leinenpflicht",
           "leashRulesNl": "Losloopgebied in het aangewezen deel; verder aanlijnplicht",
+          "leashRulesIt": "Area sgambamento nella zona designata; altrove obbligo di guinzaglio",
           "facilitiesDe": "Eigener Hunde-Freilaufbereich, Küstenwege, Bänke, Kotbeutel-Stationen",
           "facilitiesNl": "Eigen hondenlosloopgebied, kustpaden, bankjes, poepzakjesstations",
+          "facilitiesIt": "Area sgambamento dedicata per cani, sentieri costieri, panchine, dispenser di sacchetti",
           "tipDe": "Der Freilaufbereich ist an Wochenendvormittagen am belebtesten, perfekt für gesellige Hunde, ruhigere Besuche gibt es an Wochentagnachmittagen",
-          "tipNl": "Het losloopgebied is op weekendochtenden het drukst, perfect voor sociale honden, rustigere bezoeken zijn er op doordeweekse middagen"
+          "tipNl": "Het losloopgebied is op weekendochtenden het drukst, perfect voor sociale honden, rustigere bezoeken zijn er op doordeweekse middagen",
+          "tipIt": "L'area sgambamento è più affollata nelle mattine del weekend, perfetta per cani socievoli, per visite più tranquille vieni nei pomeriggi infrasettimanali"
         },
         {
           "name": "Seurasaari Open-Air Museum Island",
@@ -297,14 +330,19 @@
           "tipPt": "A entrada no museu ao ar livre é paga, mas os caminhos florestais e as praias são totalmente gratuitos. Uma visita de meio-dia faz-se facilmente com um cão",
           "areaDe": "40 Hektar große Insel",
           "areaNl": "40 hectare groot eiland",
+          "areaIt": "Isola di 40 ettari",
           "descriptionDe": "Seurasaari ist eine bewaldete Insel, über eine hölzerne Fußgängerbrücke mit dem Festland verbunden, Heimat des finnischen Freilichtmuseums mit historischen Holzgebäuden, die aus dem ganzen Land hierher versetzt wurden. Die Außenbereiche der Insel sind frei zugänglich, und Hunde sind überall an der Leine willkommen. Ein Spaziergang auf den Waldwegen der Insel zwischen jahrhundertealten Bauernhöfen und Herrenhäusern mit Hund ist eines der unverwechselbarsten Erlebnisse Helsinkis. Die Insel verfügt zudem entlang ihres Ufers über hundefreundliche Strandabschnitte.",
           "descriptionNl": "Seurasaari is een bebost eiland, verbonden met het vasteland via een houten voetgangersbrug, thuisbasis van het Finse Openluchtmuseum met historische houten gebouwen die uit het hele land hierheen zijn verplaatst. De buitenterreinen van het eiland zijn vrij toegankelijk, en honden zijn overal aangelijnd welkom. Een wandeling over de bospaden van het eiland tussen eeuwenoude boerderijen en landhuizen met je hond is een van de meest onvergetelijke ervaringen van Helsinki. Het eiland heeft ook langs zijn oever hondvriendelijke strandgedeeltes.",
+          "descriptionIt": "Seurasaari è un'isola boscosa, collegata alla terraferma da un ponte pedonale di legno, sede del Museo all'Aperto Finlandese con edifici storici in legno trasportati qui da tutto il paese. Le aree esterne dell'isola sono libere e accessibili, e i cani sono benvenuti ovunque al guinzaglio. Una passeggiata sui sentieri boschivi dell'isola tra fattorie e ville secolari con il tuo cane è una delle esperienze più indimenticabili di Helsinki. L'isola ha anche tratti di spiaggia cane-friendly lungo la sua riva.",
           "leashRulesDe": "Leinenpflicht auf der gesamten Insel",
           "leashRulesNl": "Aanlijnplicht op het hele eiland",
+          "leashRulesIt": "Obbligo di guinzaglio su tutta l'isola",
           "facilitiesDe": "Waldwege, historische Gebäude (Außenbereich kostenlos zugänglich), Strandabschnitte, Picknickplätze",
           "facilitiesNl": "Bospaden, historische gebouwen (buitenterrein gratis toegankelijk), strandgedeeltes, picknickplekken",
+          "facilitiesIt": "Sentieri nel bosco, edifici storici (area esterna gratuita), tratti di spiaggia, zone picnic",
           "tipDe": "Der Eintritt ins Freilichtmuseum ist kostenpflichtig, die Waldwege und Strände sind jedoch vollkommen kostenlos. Ein halbtägiger Besuch mit Hund ist problemlos möglich",
-          "tipNl": "De toegang tot het Openluchtmuseum is betaald, maar de bospaden en stranden zijn volledig gratis. Een halve dag bezoek met hond is prima haalbaar"
+          "tipNl": "De toegang tot het Openluchtmuseum is betaald, maar de bospaden en stranden zijn volledig gratis. Een halve dag bezoek met hond is prima haalbaar",
+          "tipIt": "L'ingresso al Museo all'Aperto è a pagamento, ma i sentieri boschivi e le spiagge sono completamente gratuiti. Una mezza giornata di visita con il cane è assolutamente fattibile"
         },
         {
           "name": "Esplanadi Park",
@@ -332,24 +370,32 @@
           "tipPt": "Percorra toda a extensão de Kauppatori até ao Teatro Sueco e de volta, cerca de 2 km de ida e volta, fácil de combinar com a Praça do Mercado",
           "areaDe": "Zentraler Boulevardpark",
           "areaNl": "Centraal boulevardpark",
+          "areaIt": "Parco boulevard centrale",
           "descriptionDe": "Esplanadi ist Helsinkis großer städtischer Boulevardpark, zwei parallele, baumgesäumte Promenaden im Herzen der Stadt, die zwischen dem Marktplatz und dem Schwedischen Theater verlaufen. Er ist Helsinkis Wohnzimmer: Büroangestellte beim Mittagessen, umherschlendernde Touristen und Hundebesitzer auf ihrem täglichen Spaziergang. Hunde sind überall an der Leine willkommen. Der zentrale Musikpavillon ist im Sommer Schauplatz kostenloser Konzerte, und die Café-Kioske entlang der Promenade sind im Allgemeinen entspannt, wenn Hunde draußen warten. Dies ist der klassische Helsinki-Spaziergang zum Leute-Beobachten.",
           "descriptionNl": "Esplanadi is het grote stedelijke boulevardpark van Helsinki, twee parallelle, met bomen omzoomde promenades in het hart van de stad, die tussen de markt en het Zweeds Theater lopen. Het is de huiskamer van Helsinki: kantoorpersoneel dat lunch, rondslenterende toeristen en hondenbezitters op hun dagelijkse wandeling. Honden zijn overal aangelijnd welkom. De centrale muziekkoepel is in de zomer het toneel van gratis concerten, en de koffiekiosken langs de promenade zijn over het algemeen ontspannen als honden buiten wachten. Dit is de klassieke wandeling van Helsinki om mensen te kijken.",
+          "descriptionIt": "Esplanadi è il grande parco boulevard urbano di Helsinki, due passeggiate parallele alberate nel cuore della città, che collegano il mercato al Teatro Svedese. È il salotto di Helsinki: impiegati in pausa pranzo, turisti a spasso e padroni di cani nella loro passeggiata quotidiana. I cani sono benvenuti ovunque al guinzaglio. Il chiosco della musica centrale ospita concerti gratuiti d'estate, e i chioschi del caffè lungo la passeggiata sono generalmente tranquilli se i cani aspettano fuori. Questa è la classica passeggiata di Helsinki per guardare la gente.",
           "leashRulesDe": "Überall Leinenpflicht",
           "leashRulesNl": "Overal aanlijnplicht",
+          "leashRulesIt": "Obbligo di guinzaglio ovunque",
           "facilitiesDe": "Gepflasterte Promenaden, Café-Kioske, Musikpavillon, zentrale Rasenflächen, Kotbeutel-Stationen",
           "facilitiesNl": "Geplaveide promenades, koffiekiosken, muziekkoepel, centrale grasvelden, poepzakjesstations",
+          "facilitiesIt": "Passeggiate lastricate, chioschi del caffè, chiosco della musica, prati centrali, dispenser di sacchetti",
           "tipDe": "Gehen Sie die gesamte Strecke vom Kauppatori bis zum Schwedischen Theater und zurück, etwa 2 km Rundweg, gut mit dem Marktplatz zu kombinieren",
-          "tipNl": "Loop de hele route van de Kauppatori tot het Zweeds Theater en terug, ongeveer 2 km rondje, goed te combineren met de markt"
+          "tipNl": "Loop de hele route van de Kauppatori tot het Zweeds Theater en terug, ongeveer 2 km rondje, goed te combineren met de markt",
+          "tipIt": "Percorri l'intero tragitto dal Kauppatori al Teatro Svedese e ritorno, circa 2 km, si combina bene con la visita al mercato"
         }
       ],
       "titlePt": "Parques Pet-Friendly em Helsínquia",
       "introPt": "Helsínquia tem uma relação extraordinária com os espaços verdes. A cidade é genuinamente arborizada, e o Keskuspuisto, o Parque Central, estende-se para norte a partir da orla do centro da cidade ao longo de 10 quilómetros sem interrupção, sendo uma das maiores florestas urbanas da Europa. A par dele, os parques costeiros de Helsínquia, os refúgios nas ilhas e os jardins de bairro oferecem aos donos de cães uma variedade de escolhas quase embaraçosa. Os cães são geralmente bem-vindos nos parques de Helsínquia com trela. Existem áreas sem trela em secções designadas e nas zonas de floresta mais profunda do Keskuspuisto. Os donos de cães finlandeses são pragmáticos e responsáveis, e a cultura de levar sacos para os dejetos e de respeitar os outros utilizadores do parque encontra-se bem enraizada. Os quatro parques seguintes representam toda a amplitude dos espaços verdes de Helsínquia que acolhem cães, do grandioso e selvagem ao pequeno e elegante.",
       "titleDe": "Hundefreundliche Parks in Helsinki",
       "titleNl": "Hondvriendelijke parken in Helsinki",
+      "titleIt": "Parchi pet-friendly a Helsinki",
       "introDe": "Helsinki hat eine außergewöhnliche Beziehung zu Grünflächen. Die Stadt ist tatsächlich bewaldet, Keskuspuisto, der Zentralpark, erstreckt sich vom Rand des Stadtzentrums 10 Kilometer ununterbrochen nach Norden und ist damit einer der größten Stadtwälder Europas. Daneben bieten Helsinkis Küstenparks, Inselausflüge und Stadtteilgrünflächen Hundebesitzern eine geradezu üppige Auswahl. Hunde sind in Helsinkis Parks im Allgemeinen an der Leine willkommen. Freilaufbereiche gibt es in ausgewiesenen Abschnitten und in den tieferen Waldzonen von Keskuspuisto. Finnische Hundebesitzer sind pragmatisch und verantwortungsbewusst, die Kultur des Mitführens von Kotbeuteln und der Rücksichtnahme auf andere Parkbesucher ist fest etabliert. Die vier folgenden Parks zeigen das gesamte Spektrum von Helsinkis hundefreundlichen Grünflächen, vom weiten und wilden bis zum kleinen und eleganten.",
       "introNl": "Helsinki heeft een uitzonderlijke band met groen. De stad is letterlijk bebost, Keskuspuisto, het centrale park, strekt zich vanaf de rand van het centrum 10 kilometer ononderbroken noordwaarts uit en is daarmee een van de grootste stadsbossen van Europa. Daarnaast bieden de kustparken, eilanduitstapjes en buurtgroen van Helsinki hondenbezitters een werkelijk royale keuze. Honden zijn in de parken van Helsinki over het algemeen aangelijnd welkom. Losloopgebieden zijn er in aangewezen delen en in de diepere bosgebieden van Keskuspuisto. Finse hondenbezitters zijn pragmatisch en verantwoordelijk, de cultuur van poepzakjes meenemen en rekening houden met andere parkbezoekers is stevig verankerd. De volgende vier parken tonen het volledige spectrum van de hondvriendelijke groengebieden van Helsinki, van uitgestrekt en wild tot klein en elegant.",
+      "introIt": "Helsinki ha un legame eccezionale con il verde. La città è letteralmente immersa nel bosco, Keskuspuisto, il parco centrale, si estende dal bordo del centro per 10 chilometri ininterrotti verso nord, diventando uno dei più grandi boschi urbani d'Europa. Oltre a questo, i parchi costieri, le gite alle isole e il verde di quartiere di Helsinki offrono ai padroni di cani una scelta davvero generosa. Nei parchi di Helsinki i cani sono generalmente benvenuti al guinzaglio. Ci sono aree sgambamento nelle zone designate e nelle parti più profonde del bosco di Keskuspuisto. I padroni di cani finlandesi sono pragmatici e responsabili, la cultura di raccogliere i bisogni e considerare gli altri visitatori del parco è ben radicata. I prossimi quattro parchi mostrano l'intero spettro delle aree verdi cane-friendly di Helsinki, da vaste e selvagge a piccole ed eleganti.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Getting Around Helsinki with Your Dog",
@@ -393,10 +439,13 @@
       "introPt": "Os transportes públicos de Helsínquia são geridos pela HSL (Helsingin seudun liikenne / Autoridade de Transportes da Região de Helsínquia) e abrangem o metro, os elétricos, os autocarros e a rede de comboios suburbanos. A rede é fiável, bem integrada e, para os donos de cães, razoavelmente acolhedora, com regras claras que tornam a viagem simples assim que se percebe o sistema. A aplicação da HSL é a forma mais fácil de comprar bilhetes e planear percursos.",
       "titleDe": "Mit Hund in Helsinki unterwegs",
       "titleNl": "Onderweg met de hond in Helsinki",
+      "titleIt": "Muoversi con il cane a Helsinki",
       "introDe": "Helsinkis öffentlicher Nahverkehr wird von HSL (Helsingin seudun liikenne / Verkehrsverbund der Region Helsinki) betrieben und umfasst U-Bahn, Straßenbahnen, Busse und das Pendlerzugnetz. Das Netz ist zuverlässig, gut integriert und für Hundehalter angemessen aufgeschlossen, mit klaren Regeln, die das Reisen unkompliziert machen, sobald man das System verstanden hat. Die HSL-App ist der einfachste Weg, Fahrkarten zu kaufen und Strecken zu planen.",
       "introNl": "Het openbaar vervoer van Helsinki wordt gerund door HSL (Helsingin seudun liikenne / Vervoerregio Helsinki) en omvat metro, trams, bussen en het voorstadstreinnetwerk. Het netwerk is betrouwbaar, goed geïntegreerd en redelijk toegankelijk voor hondenbezitters, met duidelijke regels die reizen simpel maken zodra je het systeem doorhebt. De HSL-app is de makkelijkste manier om kaartjes te kopen en routes te plannen.",
+      "introIt": "Il trasporto pubblico di Helsinki è gestito da HSL (Helsingin seudun liikenne / Regione dei Trasporti di Helsinki) e comprende metro, tram, autobus e la rete ferroviaria suburbana. La rete è affidabile, ben integrata e ragionevolmente accessibile ai padroni di cani, con regole chiare che rendono i viaggi semplici una volta capito il sistema. L'app HSL è il modo più facile per comprare biglietti e pianificare i percorsi.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches near Helsinki",
@@ -428,12 +477,16 @@
           "tipPt": "Vá num dia útil para evitar as multidões. As tardes de fim de semana em julho são muito populares e o ferry pode ter filas",
           "descriptionDe": "Eine kleine Insel, 10 Minuten mit der Fähre von der Stadt entfernt, Pihlajasaari ist Helsinkis beliebtester Sommer-Inselausflug. Die Insel verfügt über ausgewiesene hundefreundliche Strandabschnitte und gehört zu den besten Orten der Stadt, um den Hund frei schwimmen zu lassen. Die Fähre ab Merisatama verkehrt von Juni bis August regelmäßig. Die Insel bietet Kiefernwaldwege, felsige Ufer sowie sandige und felsige Strandabschnitte. In Bereichen ohne Badeerlaubnis gilt Leinenpflicht; die hundefreundlichen Strandabschnitte sind klar markiert.",
           "descriptionNl": "Een klein eiland, 10 minuten met de veerboot vanaf de stad, Pihlajasaari is de populairste zomereiland-uitstap van Helsinki. Het eiland heeft aangewezen hondvriendelijke strandgedeeltes en is een van de beste plekken in de stad om je hond vrij te laten zwemmen. De veerboot vanaf Merisatama vaart regelmatig van juni tot augustus. Het eiland biedt dennenbospaden, rotsachtige oevers en zowel zanderige als rotsachtige strandgedeeltes. In gebieden zonder zwemtoestemming geldt aanlijnplicht; de hondvriendelijke strandgedeeltes zijn duidelijk gemarkeerd.",
+          "descriptionIt": "Una piccola isola, 10 minuti di traghetto dalla città, Pihlajasaari è la gita all'isola estiva più amata di Helsinki. L'isola ha tratti di spiaggia designati cane-friendly ed è uno dei posti migliori in città per far nuotare liberamente il tuo cane. Il traghetto da Merisatama parte regolarmente da giugno ad agosto. L'isola offre sentieri nel bosco di pini, coste rocciose e tratti di spiaggia sia sabbiosi che rocciosi. Nelle zone senza permesso di balneazione vale l'obbligo di guinzaglio; i tratti di spiaggia cane-friendly sono chiaramente segnalati.",
           "petPolicyDe": "Hunde in ausgewiesenen Strandabschnitten zugelassen; im Wald und in Nicht-Strandbereichen an der Leine",
           "petPolicyNl": "Honden toegestaan op aangewezen strandgedeeltes; in het bos en op niet-strandgebieden aan de lijn",
+          "petPolicyIt": "Cani ammessi nei tratti di spiaggia designati; al guinzaglio nel bosco e nelle zone non balneabili",
           "howToGetDe": "Fähre ab Merisatama (nahe dem Kaivopuisto-Park), 10 Minuten, saisonal Juni bis August",
           "howToGetNl": "Veerboot vanaf Merisatama (nabij Kaivopuisto-park), 10 minuten, seizoensgebonden juni tot augustus",
+          "howToGetIt": "Traghetto da Merisatama (vicino al parco Kaivopuisto), 10 minuti, stagionale da giugno ad agosto",
           "tipDe": "Fahren Sie an einem Wochentag, um Menschenmengen zu vermeiden. Wochenendnachmittage im Juli sind extrem beliebt, und an der Fähre kann es zu Warteschlangen kommen",
-          "tipNl": "Ga op een doordeweekse dag om drukte te vermijden. Weekendmiddagen in juli zijn extreem populair, en bij de veerboot kan het druk zijn"
+          "tipNl": "Ga op een doordeweekse dag om drukte te vermijden. Weekendmiddagen in juli zijn extreem populair, en bij de veerboot kan het druk zijn",
+          "tipIt": "Vieni in un giorno infrasettimanale per evitare la folla. I pomeriggi del weekend a luglio sono estremamente affollati, e al traghetto ci può essere coda"
         },
         {
           "name": "Hietaniemi Beach (Hietsu)",
@@ -457,12 +510,16 @@
           "tipPt": "A secção para cães fica mesmo no extremo norte, passe os principais quiosques da praia e continue até ver o limite assinalado",
           "descriptionDe": "Helsinkis berühmtester Stadtstrand, ein breiter Sandstreifen an der Westseite der Halbinsel Töölö. Der Hauptbadebereich ist im Sommer für Hunde gesperrt, doch ein klar ausgewiesener Abschnitt am fernen (nördlichen) Ende des Strands ist für Hunde geöffnet. Es handelt sich um einen langen Sandstrand, den Hunde selbst an belebten Sommertagen genießen können. Der Strand ist zu Fuß oder mit der Straßenbahn vom Stadtzentrum aus leicht erreichbar und gehört zum typischen Helsinki-Sommererlebnis.",
           "descriptionNl": "De beroemdste stadsstrand van Helsinki, een brede zandstrook aan de westkant van het schiereiland Töölö. Het hoofdzwemgebied is in de zomer gesloten voor honden, maar een duidelijk aangewezen gedeelte aan het verre (noordelijke) uiteinde van het strand is open voor honden. Het is een lange zandstrand, waar honden zelfs op drukke zomerdagen van kunnen genieten. Het strand is makkelijk bereikbaar te voet of met de tram vanaf het centrum en hoort bij de typische zomerervaring van Helsinki.",
+          "descriptionIt": "La spiaggia urbana più famosa di Helsinki, una larga striscia di sabbia sul lato ovest della penisola di Töölö. La zona di balneazione principale è chiusa ai cani d'estate, ma un tratto chiaramente designato all'estremità più lontana (nord) della spiaggia è aperto ai cani. È una spiaggia lunga e sabbiosa, di cui i cani possono godere anche nei giorni estivi più affollati. La spiaggia si raggiunge facilmente a piedi o in tram dal centro e fa parte della tipica esperienza estiva di Helsinki.",
           "petPolicyDe": "Hunde im ausgewiesenen nördlichsten Abschnitt zugelassen; im Hauptbadebereich von Juni bis August eingeschränkt",
           "petPolicyNl": "Honden toegestaan op het aangewezen noordelijkste gedeelte; op het hoofdzwemgebied beperkt van juni tot augustus",
+          "petPolicyIt": "Cani ammessi nel tratto più a nord designato; sulla zona di balneazione principale limitato da giugno ad agosto",
           "howToGetDe": "Straßenbahn 4 oder 10 bis Hietaniemenranta, oder 20 Minuten Fußweg vom Stadtzentrum",
           "howToGetNl": "Tram 4 of 10 naar Hietaniemenranta, of 20 minuten lopen vanaf het centrum",
+          "howToGetIt": "Tram 4 o 10 fino a Hietaniemenranta, oppure 20 minuti a piedi dal centro",
           "tipDe": "Der Hundebereich liegt ganz am nördlichen Ende, gehen Sie an den Kiosken des Hauptstrands vorbei, bis Sie die markierte Grenze sehen",
-          "tipNl": "Het hondengedeelte ligt helemaal aan het noordelijke uiteinde, loop voorbij de kiosken van het hoofdstrand tot je de gemarkeerde grens ziet"
+          "tipNl": "Het hondengedeelte ligt helemaal aan het noordelijke uiteinde, loop voorbij de kiosken van het hoofdstrand tot je de gemarkeerde grens ziet",
+          "tipIt": "Il tratto per cani è proprio all'estremità nord, cammina oltre i chioschi della spiaggia principale finché non vedi il confine segnalato"
         },
         {
           "name": "Seurasaari Island Beach",
@@ -486,22 +543,29 @@
           "tipPt": "A praia fica no seu melhor com a luz da tarde, as visitas ao fim da tarde no verão oferecem vistas espetaculares de sol baixo sobre a água",
           "descriptionDe": "Die bewaldete Insel Seurasaari verfügt entlang ihrer Südküste über felsige und sandige Strandabschnitte, die für Hunde an der Leine geöffnet sind. Die Umgebung unterscheidet sich völlig von den Stadtstränden, umgeben von Wald und dem Rauschen des Meeres, mit Blick über die Schären. Nach einem Spaziergang durch das Freilichtmuseum ist eine Schwimmpause für den Hund am Inselstrand ein natürlicher Abschluss des Besuchs. Das Wasser ist sauber, und die Strände sind selten überfüllt.",
           "descriptionNl": "Het bosrijke eiland Seurasaari heeft langs zijn zuidkust rotsachtige en zandige strandgedeeltes die open zijn voor aangelijnde honden. De omgeving verschilt volledig van de stadsstranden, omringd door bos en het geruis van de zee, met uitzicht over de scherenkust. Na een wandeling door het Openluchtmuseum is een zwempauze voor je hond op het eilandstrand een natuurlijke afsluiting van het bezoek. Het water is schoon, en de stranden zijn zelden druk.",
+          "descriptionIt": "L'isola boscosa di Seurasaari ha lungo la sua costa sud tratti di spiaggia rocciosi e sabbiosi aperti ai cani al guinzaglio. L'ambiente è completamente diverso dalle spiagge di città, circondato dal bosco e dal fruscio del mare, con vista sull'arcipelago. Dopo una passeggiata al Museo all'Aperto, una pausa nuoto per il tuo cane sulla spiaggia dell'isola è la conclusione naturale della visita. L'acqua è pulita, e le spiagge sono raramente affollate.",
           "petPolicyDe": "Hunde an der Leine auf der gesamten Insel und in den Strandabschnitten zugelassen",
           "petPolicyNl": "Honden aan de lijn toegestaan op het hele eiland en in de strandgedeeltes",
+          "petPolicyIt": "Cani al guinzaglio ammessi su tutta l'isola e nei tratti di spiaggia",
           "howToGetDe": "Bus 24 ab Erottaja (Stadtzentrum) bis Seurasaari, Endhaltestelle, 15 Minuten",
           "howToGetNl": "Bus 24 vanaf Erottaja (centrum) naar Seurasaari, eindhalte, 15 minuten",
+          "howToGetIt": "Autobus 24 da Erottaja (centro) fino a Seurasaari, capolinea, 15 minuti",
           "tipDe": "Der Strand ist im Abendlicht am schönsten, Besuche am späten Nachmittag bieten im Sommer spektakuläre Ausblicke bei tiefstehender Sonne über dem Wasser",
-          "tipNl": "Het strand is het mooist in avondlicht, bezoeken aan het einde van de middag bieden in de zomer spectaculaire uitzichten bij laagstaande zon boven het water"
+          "tipNl": "Het strand is het mooist in avondlicht, bezoeken aan het einde van de middag bieden in de zomer spectaculaire uitzichten bij laagstaande zon boven het water",
+          "tipIt": "La spiaggia è più bella con la luce della sera, le visite a tarda pomeriggio offrono d'estate viste spettacolari con il sole basso sull'acqua"
         }
       ],
       "titlePt": "Praias Pet-Friendly perto de Helsínquia",
       "introPt": "Helsínquia situa-se num arquipélago rochoso do Báltico e as praias da cidade são uma mistura de extensões de areia, refúgios nas ilhas e costas rochosas. A maioria das principais praias de banhos tem restrições a cães durante a época balnear oficial (junho a agosto), mas Helsínquia tem várias opções genuinamente acolhedoras para cães, incluindo as espetaculares praias das ilhas acessíveis por curtas viagens de ferry. A temperatura da água no Golfo da Finlândia atinge o máximo em agosto, por volta dos 18 a 20 °C, fresca para os humanos mas perfeitamente confortável para cães entusiastas de natação. Fora da época alta de verão, praticamente todas as praias estão abertas a cães.",
       "titleDe": "Hundefreundliche Strände bei Helsinki",
       "titleNl": "Hondvriendelijke stranden bij Helsinki",
+      "titleIt": "Spiagge pet-friendly vicino a Helsinki",
       "introDe": "Helsinki liegt an einem felsigen Ostsee-Schärenarchipel, und die Strände der Stadt sind eine Mischung aus sandigen Abschnitten, Inselausflügen und felsigen Küstenufern. An den meisten Hauptbadestränden sind Hunde während der offiziellen Badesaison (Juni bis August) nicht zugelassen, doch Helsinki verfügt über mehrere wirklich hundefreundliche Optionen, darunter die spektakulären Inselstrände, die mit kurzen Fährfahrten erreichbar sind. Die Wassertemperatur im Finnischen Meerbusen erreicht im August ihren Höhepunkt bei etwa 18–20 °C, was für Menschen kühl, für begeisterte Schwimmhunde jedoch vollkommen angenehm ist. Außerhalb der Hauptsommersaison sind praktisch alle Strände für Hunde geöffnet.",
       "introNl": "Helsinki ligt aan een rotsachtige Oostzee-scherenkust, en de stranden van de stad zijn een mix van zandige gedeeltes, eilanduitstapjes en rotsachtige kustoevers. Op de meeste hoofdzwemstranden zijn honden tijdens het officiële zwemseizoen (juni tot augustus) niet toegestaan, maar Helsinki heeft meerdere echt hondvriendelijke opties, waaronder de spectaculaire eilandstranden die bereikbaar zijn met korte veerbootritten. De watertemperatuur in de Finse Golf bereikt in augustus zijn hoogtepunt van ongeveer 18-20 °C, wat voor mensen fris is maar voor enthousiaste zwemhonden volkomen aangenaam. Buiten het hoogseizoen zijn vrijwel alle stranden open voor honden.",
+      "introIt": "Helsinki si affaccia su una costa rocciosa dell'arcipelago del Mar Baltico, e le spiagge della città sono un mix di tratti sabbiosi, gite alle isole e coste rocciose. Sulla maggior parte delle spiagge di balneazione principali i cani non sono ammessi durante la stagione balneare ufficiale (giugno-agosto), ma Helsinki offre diverse opzioni davvero cane-friendly, incluse le spettacolari spiagge sulle isole raggiungibili con brevi tragitti in traghetto. La temperatura dell'acqua nel Golfo di Finlandia raggiunge il picco ad agosto intorno ai 18-20°C, fresca per le persone ma perfettamente piacevole per un cane entusiasta del nuoto. Fuori dall'alta stagione, quasi tutte le spiagge sono aperte ai cani.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Helsinki, Veterinary Clinics & Pet Care",
@@ -525,7 +589,8 @@
           "photo": "/images/city-places/helsinki-vets-yliopistollinen-elainsairaala-university-veterinary-teaching.jpg",
           "descriptionPt": "O Hospital Veterinário Universitário de Ensino (Yliopistollinen eläinsairaala) é o principal centro veterinário de referência da Finlândia e o hospital de animais mais bem equipado do norte da Europa. Funciona 24 horas por dia, sete dias por semana, com serviços de urgência completos, departamentos de especialidade e cuidados intensivos. Faz parte da Faculdade de Medicina Veterinária da Universidade de Helsínquia e detém o mais elevado nível de capacidade de diagnóstico e cirurgia do país. Para qualquer condição grave ou especializada, é para aqui que os veterinários finlandeses encaminham os seus doentes.",
           "descriptionDe": "Das Universitäre Tierlehrkrankenhaus (Yliopistollinen eläinsairaala) ist Finnlands wichtigstes tierärztliches Überweisungszentrum und das bestausgestattete Tierkrankenhaus Nordeuropas. Es ist rund um die Uhr, sieben Tage die Woche geöffnet, mit vollständigem Notdienst, Fachabteilungen und Intensivpflege. Es gehört zur Veterinärmedizinischen Fakultät der Universität Helsinki und verfügt über die höchste diagnostische und chirurgische Kompetenz im Land. Bei jeder ernsten oder speziellen Erkrankung überweisen finnische Tierärzte hierher.",
-          "descriptionNl": "Het Universitair Dierenleerziekenhuis (Yliopistollinen eläinsairaala) is het belangrijkste diergeneeskundige verwijscentrum van Finland en het best uitgeruste dierenziekenhuis van Noord-Europa. Het is 24 uur per dag, zeven dagen per week geopend, met volledige spoeddienst, gespecialiseerde afdelingen en intensive care. Het maakt deel uit van de Faculteit Diergeneeskunde van de Universiteit van Helsinki en beschikt over de hoogste diagnostische en chirurgische expertise van het land. Bij elke ernstige of gespecialiseerde aandoening verwijzen Finse dierenartsen hierheen."
+          "descriptionNl": "Het Universitair Dierenleerziekenhuis (Yliopistollinen eläinsairaala) is het belangrijkste diergeneeskundige verwijscentrum van Finland en het best uitgeruste dierenziekenhuis van Noord-Europa. Het is 24 uur per dag, zeven dagen per week geopend, met volledige spoeddienst, gespecialiseerde afdelingen en intensive care. Het maakt deel uit van de Faculteit Diergeneeskunde van de Universiteit van Helsinki en beschikt over de hoogste diagnostische en chirurgische expertise van het land. Bij elke ernstige of gespecialiseerde aandoening verwijzen Finse dierenartsen hierheen.",
+          "descriptionIt": "L'Ospedale Veterinario Universitario (Yliopistollinen eläinsairaala) è il principale centro di riferimento veterinario della Finlandia e l'ospedale veterinario meglio attrezzato del Nord Europa. È aperto 24 ore su 24, sette giorni su sette, con pronto soccorso completo, reparti specializzati e terapia intensiva. Fa parte della Facoltà di Medicina Veterinaria dell'Università di Helsinki e dispone della più alta competenza diagnostica e chirurgica del paese. Per qualsiasi condizione grave o specialistica, i veterinari finlandesi mandano i pazienti qui."
         },
         {
           "name": "Evidensia Eläinklinikka Helsinki",
@@ -541,17 +606,21 @@
           "photo": "/images/city-places/helsinki-vets-evidensia-elainklinikka-helsinki.jpg",
           "descriptionPt": "A Evidensia é uma das maiores redes de clínicas veterinárias da Finlândia e a sua clínica no centro de Helsínquia encontra-se convenientemente localizada no bairro de Punavuori, bem servida por elétrico. A clínica trata de medicina geral, vacinações, colocação de microchip, documentação de viagem e pequenos procedimentos. Pessoal que fala inglês. Para consultas não urgentes e documentação de rotina para viagem de animais, incluindo certificados de saúde e atualizações do Passaporte de Animal de Companhia da UE, esta é a opção mais acessível para visitantes alojados no centro de Helsínquia.",
           "descriptionDe": "Evidensia ist eines der größten tierärztlichen Kliniknetzwerke Finnlands, und die zentrale Klinik in Helsinki liegt praktisch im Stadtteil Punavuori, gut mit der Straßenbahn erreichbar. Die Klinik bietet Allgemeinmedizin, Impfungen, Mikrochipping, Reisedokumente und kleinere Eingriffe an. Englischsprachiges Personal vorhanden. Für nicht dringende Konsultationen und routinemäßige Reisedokumente für Haustiere, einschließlich Gesundheitszeugnissen und Aktualisierung des EU-Heimtierausweises, ist dies die zugänglichste Option für Besucher im Zentrum Helsinkis.",
-          "descriptionNl": "Evidensia is een van de grootste diergeneeskundige klinieknetwerken van Finland, en de centrale kliniek in Helsinki ligt vlak bij de wijk Punavuori, goed bereikbaar met de tram. De kliniek biedt algemene geneeskunde, vaccinaties, chippen, reisdocumenten en kleinere ingrepen. Engelssprekend personeel aanwezig. Voor niet-dringende consulten en routinematige reisdocumenten voor huisdieren, waaronder gezondheidscertificaten en het bijwerken van het EU-huisdierenpaspoort, is dit de meest toegankelijke optie voor bezoekers in het centrum van Helsinki."
+          "descriptionNl": "Evidensia is een van de grootste diergeneeskundige klinieknetwerken van Finland, en de centrale kliniek in Helsinki ligt vlak bij de wijk Punavuori, goed bereikbaar met de tram. De kliniek biedt algemene geneeskunde, vaccinaties, chippen, reisdocumenten en kleinere ingrepen. Engelssprekend personeel aanwezig. Voor niet-dringende consulten en routinematige reisdocumenten voor huisdieren, waaronder gezondheidscertificaten en het bijwerken van het EU-huisdierenpaspoort, is dit de meest toegankelijke optie voor bezoekers in het centrum van Helsinki.",
+          "descriptionIt": "Evidensia è una delle più grandi reti di cliniche veterinarie della Finlandia, e la clinica centrale di Helsinki si trova vicino al quartiere di Punavuori, ben raggiungibile in tram. La clinica offre medicina generale, vaccinazioni, microchip, documenti di viaggio e piccoli interventi. Personale che parla inglese presente. Per consulti non urgenti e documenti di viaggio di routine per animali, compresi certificati sanitari e aggiornamento del passaporto europeo per animali, è l'opzione più accessibile per i visitatori nel centro di Helsinki."
         }
       ],
       "titlePt": "Veterinários de Urgência em Helsínquia, Clínicas Veterinárias e Cuidados para Animais",
       "introPt": "Helsínquia tem uma infraestrutura veterinária bem desenvolvida. Para cuidados de rotina e especializados, a cidade tem um hospital universitário de ensino aberto 24 horas por dia, que é um dos hospitais de animais mais bem equipados do norte da Europa. As clínicas privadas concentram-se no centro da cidade e nos bairros interiores. Os cuidados veterinários finlandeses são de elevado padrão e fala-se inglês universalmente em contextos veterinários em Helsínquia. Mantenha sempre acessíveis os registos de vacinação do seu animal e um Passaporte de Animal de Companhia da UE quando viajar na Finlândia.",
       "titleDe": "Notfall-Tierärzte in Helsinki, Tierkliniken & Tierbetreuung",
       "titleNl": "Dierenspoeddiensten in Helsinki, dierenklinieken & dierenzorg",
+      "titleIt": "Servizi veterinari d'emergenza a Helsinki, cliniche veterinarie e cura degli animali",
       "introDe": "Helsinki verfügt über eine gut ausgebaute tierärztliche Infrastruktur. Für Routine- und Facharztversorgung betreibt die Stadt ein rund um die Uhr geöffnetes universitäres Lehrkrankenhaus, eines der bestausgestatteten Tierkrankenhäuser Nordeuropas. Private Kliniken konzentrieren sich im Stadtzentrum und den inneren Bezirken. Die finnische Tiermedizin hat einen hohen Standard, und Englisch wird in tierärztlichen Praxen in Helsinki durchgängig gesprochen. Führen Sie die Impfnachweise Ihres Haustiers und einen EU-Heimtierausweis bei Reisen in Finnland stets griffbereit mit.",
       "introNl": "Helsinki beschikt over een goed uitgebouwde diergeneeskundige infrastructuur. Voor routine- en specialistische zorg runt de stad een 24 uur per dag geopend universitair opleidingsziekenhuis, een van de best uitgeruste dierenziekenhuizen van Noord-Europa. Particuliere klinieken concentreren zich in het centrum en de binnenwijken. De Finse diergeneeskunde kent een hoge standaard, en Engels wordt in dierenartspraktijken in Helsinki doorgaans gesproken. Heb de vaccinatiebewijzen van je huisdier en een EU-huisdierenpaspoort altijd bij de hand tijdens reizen in Finland.",
+      "introIt": "Helsinki dispone di un'infrastruttura veterinaria ben sviluppata. Per le cure di routine e specialistiche, la città gestisce un ospedale universitario didattico aperto 24 ore su 24, uno degli ospedali veterinari meglio attrezzati del Nord Europa. Le cliniche private si concentrano nel centro e nei quartieri interni. La medicina veterinaria finlandese ha uno standard elevato, e nelle cliniche veterinarie di Helsinki di solito si parla inglese. Tieni sempre a portata di mano i certificati di vaccinazione del tuo animale e un passaporto europeo per animali quando viaggi in Finlandia.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Helsinki with a Dog",
@@ -573,10 +642,13 @@
       "faqsPt": [],
       "titleDe": "Wichtige Tipps für einen Besuch in Helsinki mit Hund",
       "titleNl": "Belangrijke tips voor een bezoek aan Helsinki met hond",
+      "titleIt": "Consigli essenziali per visitare Helsinki con il cane",
       "introDe": "Helsinki ist eine der handhabbarsten und wirklich hundefreundlichsten Hauptstädte Nordeuropas. Die Stadt ist kompakt, sauber und gut organisiert. Die finnische Kultur respektiert sowohl Tiere als auch den öffentlichen Raum. Diese fünf Tipps helfen Ihnen, sich vom ersten Tag an sicher mit Ihrem Hund in der Stadt zurechtzufinden.",
       "introNl": "Helsinki is een van de best behapbare en echt hondvriendelijkste hoofdsteden van Noord-Europa. De stad is compact, schoon en goed georganiseerd. De Finse cultuur respecteert zowel dieren als de openbare ruimte. Deze vijf tips helpen je om je vanaf dag één met je hond zelfverzekerd door de stad te bewegen.",
+      "introIt": "Helsinki è una delle capitali del Nord Europa più facili da vivere e davvero più cane-friendly. La città è compatta, pulita e ben organizzata. La cultura finlandese rispetta sia gli animali che lo spazio pubblico. Questi cinque consigli ti aiutano a muoverti in città con sicurezza fin dal primo giorno con il tuo cane.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Helsinki",
@@ -608,12 +680,16 @@
           "tipPt": "Apanhe o primeiro ou o segundo ferry da manhã para explorar a fortaleza antes da chegada das multidões da tarde",
           "descriptionDe": "Ein UNESCO-Weltkulturerbe und eines der außergewöhnlichsten urbanen Erlebnisse Nordeuropas. Suomenlinna ist eine Seefestung aus dem 18. Jahrhundert, verteilt auf sechs miteinander verbundene Inseln, 15 Minuten mit der Fähre vom Marktplatz entfernt. Der gesamte Außenbereich des Inselkomplexes ist für angeleinte Hunde geöffnet, die Wälle, die Tunnel, die Uferwege, die historischen Garnisonsgebäude und die Küstenwiesen. Es ist einer dieser seltenen Orte, an dem man einen ganzen Tag mit Hund erkunden kann und trotzdem das Gefühl hat, erst die Hälfte gesehen zu haben. Die Fähre ist ein öffentlicher Verkehrsdienst von HSL.",
           "descriptionNl": "Een UNESCO-werelderfgoed en een van de bijzonderste stedelijke ervaringen van Noord-Europa. Suomenlinna is een 18e-eeuwse zeevesting, verspreid over zes onderling verbonden eilanden, 15 minuten met de veerboot vanaf de markt. Het hele buitenterrein van het eilandcomplex is open voor aangelijnde honden, de wallen, de tunnels, de oeverpaden, de historische garnizoensgebouwen en de kustweiden. Het is een van die zeldzame plekken waar je een hele dag met je hond kunt verkennen en toch het gevoel hebt pas de helft te hebben gezien. De veerboot is een openbaar vervoersdienst van HSL.",
+          "descriptionIt": "Patrimonio mondiale UNESCO e una delle esperienze urbane più straordinarie del Nord Europa. Suomenlinna è una fortezza marittima del XVIII secolo, distribuita su sei isole collegate tra loro, a 15 minuti di traghetto dal mercato. Tutta l'area esterna del complesso insulare è aperta ai cani al guinzaglio, i bastioni, i tunnel, i sentieri costieri, gli edifici storici della guarnigione e i prati costieri. È uno di quei rari posti dove puoi esplorare un'intera giornata con il tuo cane e avere comunque la sensazione di aver visto solo la metà. Il traghetto è un servizio di trasporto pubblico HSL.",
           "petPolicyDe": "Hunde an der Leine überall in den Außenbereichen willkommen",
           "petPolicyNl": "Honden aan de lijn overal welkom in de buitenterreinen",
+          "petPolicyIt": "Cani al guinzaglio benvenuti ovunque nelle aree esterne",
           "entryFeeDe": "Freier Zugang im Freien; Fährfahrpreis erforderlich (Standard-HSL-Ticket)",
           "entryFeeNl": "Vrije toegang buiten; veerbootkaartje vereist (standaard HSL-ticket)",
+          "entryFeeIt": "Ingresso libero all'esterno; biglietto del traghetto richiesto (biglietto HSL standard)",
           "tipDe": "Nehmen Sie die erste oder zweite Morgenfähre, um die Festung vor den Nachmittagsmengen zu erkunden",
-          "tipNl": "Neem de eerste of tweede ochtendveerboot om de vesting te verkennen voordat de middagdrukte begint"
+          "tipNl": "Neem de eerste of tweede ochtendveerboot om de vesting te verkennen voordat de middagdrukte begint",
+          "tipIt": "Prendi il primo o il secondo traghetto del mattino per esplorare la fortezza prima che arrivi la folla del pomeriggio"
         },
         {
           "name": "Senate Square (Senaatintori)",
@@ -637,12 +713,16 @@
           "tipPt": "Venha de manhã cedo para as melhores fotografias, a praça costuma estar sossegada antes das 9h e a luz sobre a catedral é linda",
           "descriptionDe": "Helsinkis großes klassizistisches Zentrum, der breite Kopfsteinpflasterplatz, beherrscht vom weißen Dom von Helsinki, flankiert vom Regierungspalast und dem Hauptgebäude der Universität Helsinki. Er zählt zu den schönsten Beispielen klassizistischer Stadtplanung in Europa. Angeleinte Hunde sind auf dem Platz und in den umliegenden Straßen uneingeschränkt willkommen. Der Weihnachtsmarkt füllt den Platz im Dezember und ist hundefreundlich. Der Senatsplatz ist der natürliche Ausgangspunkt für jede Helsinki-Besichtigungstour.",
           "descriptionNl": "Het grote klassicistische centrum van Helsinki, het brede kasseienplein, gedomineerd door de witte Dom van Helsinki, geflankeerd door het Regeringspaleis en het hoofdgebouw van de Universiteit van Helsinki. Het behoort tot de mooiste voorbeelden van classicistische stadsplanning in Europa. Aangelijnde honden zijn onbeperkt welkom op het plein en in de omliggende straten. De kerstmarkt vult het plein in december en is hondvriendelijk. Het Senaatsplein is het natuurlijke startpunt voor elke sightseeingtour door Helsinki.",
+          "descriptionIt": "Il grande centro classicista di Helsinki, l'ampia piazza acciottolata, dominata dalla bianca Cattedrale di Helsinki, affiancata dal Palazzo del Governo e dall'edificio principale dell'Università di Helsinki. È tra i più bei esempi di pianificazione urbana classicista d'Europa. I cani al guinzaglio sono benvenuti senza limiti sulla piazza e nelle strade circostanti. Il mercatino di Natale riempie la piazza a dicembre ed è cane-friendly. Piazza del Senato è il punto di partenza naturale per qualsiasi giro turistico di Helsinki.",
           "petPolicyDe": "Hunde an der Leine überall auf dem Platz willkommen",
           "petPolicyNl": "Honden aan de lijn overal welkom op het plein",
+          "petPolicyIt": "Cani al guinzaglio benvenuti ovunque sulla piazza",
           "entryFeeDe": "Kostenlos",
           "entryFeeNl": "Gratis",
+          "entryFeeIt": "Gratis",
           "tipDe": "Kommen Sie früh morgens für die besten Fotos, der Platz ist vor 9 Uhr oft ruhig, und das Licht auf dem Dom ist wunderschön",
-          "tipNl": "Kom vroeg in de ochtend voor de beste foto's, het plein is vóór 9 uur vaak rustig, en het licht op de Dom is prachtig"
+          "tipNl": "Kom vroeg in de ochtend voor de beste foto's, het plein is vóór 9 uur vaak rustig, en het licht op de Dom is prachtig",
+          "tipIt": "Vieni presto al mattino per le foto migliori, la piazza è spesso tranquilla prima delle 9, e la luce sulla Cattedrale è splendida"
         },
         {
           "name": "Market Square (Kauppatori)",
@@ -666,22 +746,29 @@
           "tipPt": "Chegue antes das 9h para a melhor escolha nas bancas de peixe. Por volta das 10h nos dias úteis, e muito mais cedo aos fins de semana, o peixe de qualidade esgota",
           "descriptionDe": "Helsinkis historischer Marktplatz am Wasser, am Rand des Südhafens. Jeden Morgen von Frühling bis Herbst füllt sich der Platz mit Marktständen, die frischen Fisch, lokale Erzeugnisse und finnische Spezialitäten verkaufen. Hunde sind im Freien auf dem Markt uneingeschränkt willkommen. Die Kombination aus Hafenblick, den bunten Marktständen, dem Präsidentenpalast auf der einen Seite und dem Fährterminal nach Suomenlinna auf der anderen macht dies zum stimmungsvollsten Freiraum Helsinkis. Eine Tüte frischer Lachs zum späteren Grillen für den Hund ist praktisch Pflicht.",
           "descriptionNl": "De historische markt van Helsinki aan het water, aan de rand van de Zuidhaven. Elke ochtend van lente tot herfst vult het plein zich met marktkraampjes die verse vis, lokale producten en Finse specialiteiten verkopen. Honden zijn buiten op de markt onbeperkt welkom. De combinatie van havenzicht, de kleurrijke marktkraampjes, het Presidentieel Paleis aan de ene kant en de veerbootterminal naar Suomenlinna aan de andere maakt dit de sfeervolste openbare ruimte van Helsinki. Een zak verse zalm om later voor je hond te grillen is bijna verplicht.",
+          "descriptionIt": "Lo storico mercato di Helsinki sull'acqua, sul bordo del Porto Sud. Ogni mattina dalla primavera all'autunno la piazza si riempie di bancarelle che vendono pesce fresco, prodotti locali e specialità finlandesi. I cani sono benvenuti senza limiti nel mercato all'aperto. La combinazione tra vista sul porto, le colorate bancarelle del mercato, il Palazzo Presidenziale da un lato e il terminal dei traghetti per Suomenlinna dall'altro rende questo il posto pubblico più suggestivo di Helsinki. Un sacchetto di salmone fresco da grigliare per il tuo cane è quasi d'obbligo.",
           "petPolicyDe": "Hunde in allen Marktbereichen im Freien willkommen",
           "petPolicyNl": "Honden welkom in alle buitengedeeltes van de markt",
+          "petPolicyIt": "Cani benvenuti in tutte le zone esterne del mercato",
           "entryFeeDe": "Kostenlos",
           "entryFeeNl": "Gratis",
+          "entryFeeIt": "Gratis",
           "tipDe": "Kommen Sie vor 9 Uhr für die beste Auswahl an den Fischständen. Bis 10 Uhr an Wochentagen und noch früher am Wochenende ist der Premiumfisch ausverkauft",
-          "tipNl": "Kom vóór 9 uur voor de beste keuze bij de visstalletjes. Tegen 10 uur doordeweeks, en nog eerder in het weekend, is de premiumvis uitverkocht"
+          "tipNl": "Kom vóór 9 uur voor de beste keuze bij de visstalletjes. Tegen 10 uur doordeweeks, en nog eerder in het weekend, is de premiumvis uitverkocht",
+          "tipIt": "Vieni prima delle 9 per la scelta migliore alle bancarelle del pesce. Verso le 10 nei giorni feriali, e ancora prima nel weekend, il pesce migliore è già esaurito"
         }
       ],
       "titlePt": "Atrações Pet-Friendly em Helsínquia",
       "introPt": "Os pontos de interesse mais icónicos de Helsínquia são, em grande parte, ao ar livre e acessíveis a cães. A grande ilha-fortaleza da cidade, a sua Praça do Senado neoclássica e a frente ribeirinha da Praça do Mercado estão todas abertas a cães com trela. O que Helsínquia oferece e que poucas capitais europeias conseguem igualar é a combinação de arquitetura e história genuinamente de craveira mundial com cenários naturais extraordinários, mar, floresta e arquipélago, tudo ao alcance fácil do centro. Estas três atrações são as experiências essenciais de Helsínquia para quem viaja com cão.",
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Helsinki",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Helsinki",
+      "titleIt": "Attrazioni pet-friendly a Helsinki",
       "introDe": "Helsinkis bekannteste Sehenswürdigkeiten liegen größtenteils im Freien und sind mit Hund zugänglich. Die große Festungsinsel der Stadt, ihr klassizistischer Senatsplatz und der Marktplatz am Wasser sind alle für angeleinte Hunde geöffnet. Was Helsinki bietet und kaum eine europäische Hauptstadt erreicht, ist die Kombination aus wirklicher Weltklasse-Architektur und Geschichte neben außergewöhnlichen Naturkulissen, Meer, Wald und Schärengarten, alles bequem vom Zentrum aus erreichbar. Diese drei Attraktionen sind die wesentlichen hundefreundlichen Helsinki-Erlebnisse.",
       "introNl": "De bekendste bezienswaardigheden van Helsinki liggen grotendeels buiten en zijn toegankelijk met hond. Het grote vestingeiland van de stad, haar classicistische Senaatsplein en de markt aan het water zijn allemaal open voor aangelijnde honden. Wat Helsinki biedt en nauwelijks een andere Europese hoofdstad evenaart, is de combinatie van echte wereldklasse-architectuur en geschiedenis naast buitengewone natuurlijke decors, zee, bos en scherentuin, allemaal comfortabel bereikbaar vanuit het centrum. Deze drie attracties zijn de essentiële hondvriendelijke Helsinki-ervaringen.",
+      "introIt": "Le attrazioni più conosciute di Helsinki sono in gran parte all'aperto e accessibili con il cane. La grande isola fortezza della città, la sua classicista Piazza del Senato e il mercato sull'acqua sono tutti aperti ai cani al guinzaglio. Ciò che Helsinki offre e che quasi nessun'altra capitale europea eguaglia è la combinazione di architettura e storia di livello mondiale accanto a scenari naturali straordinari, mare, bosco e arcipelago, tutto comodamente raggiungibile dal centro. Queste tre attrazioni sono le esperienze essenziali cane-friendly di Helsinki.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting and Dog Walking in Helsinki",
@@ -712,10 +799,13 @@
       "introPt": "Se precisar de uma pessoa de confiança para tomar conta do seu animal durante uma visita a um museu à tarde ou uma saída mais longa à noite, Helsínquia tem um bom mercado de pet sitters e passeadores de cães profissionais. A plataforma mais fiável a operar na Finlândia é a Rover.fi, a versão finlandesa da rede Rover. Os cuidadores são avaliados e classificados, e a plataforma trata da reserva e do pagamento de forma segura. Reserve com antecedência, sobretudo durante a época alta de verão.",
       "titleDe": "Haustierbetreuung und Gassi-Service in Helsinki",
       "titleNl": "Huisdierenopvang en uitlaatservice in Helsinki",
+      "titleIt": "Pet sitting e servizi di dog walking a Helsinki",
       "introDe": "Wenn Sie eine vertrauenswürdige Betreuung für einen Nachmittagsbesuch im Museum oder einen längeren Abend brauchen, hat Helsinki einen guten Markt für professionelle Haustierbetreuer und Gassigeher. Die zuverlässigste in Finnland tätige Plattform ist Rover.fi, die finnische Lokalisierung des Rover-Netzwerks. Betreuer werden bewertet und rezensiert, und die Plattform wickelt Buchung und Zahlung sicher ab. Buchen Sie im Voraus, besonders während der Sommerhochsaison.",
       "introNl": "Als je een betrouwbare oppas nodig hebt voor een middagbezoek aan het museum of een langere avond, heeft Helsinki een goede markt voor professionele huisdierenoppassers en hondenuitlaters. Het meest betrouwbare platform dat actief is in Finland is Rover.fi, de Finse lokalisatie van het Rover-netwerk. Oppassers worden beoordeeld en gerecenseerd, en het platform regelt boeking en betaling veilig. Boek van tevoren, vooral tijdens het zomerse hoogseizoen.",
+      "introIt": "Se hai bisogno di qualcuno di affidabile per una visita al museo nel pomeriggio o per una serata più lunga, Helsinki ha un buon mercato di pet sitter e dog walker professionisti. La piattaforma più affidabile attiva in Finlandia è Rover.fi, la versione finlandese della rete Rover. I sitter vengono valutati e recensiti, e la piattaforma gestisce prenotazione e pagamento in sicurezza. Prenota in anticipo, soprattutto durante l'alta stagione estiva.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

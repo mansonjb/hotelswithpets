@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Pumpkin+Goreme+Restaurant+Turkey",
           "descriptionDe": "Ein angesehenes Höhlenrestaurant im Dorfzentrum, bekannt für kappadokische Küche: Testi-Kebab (Lamm im Tontopf), Mantı (türkische Teigtaschen) und lokale kappadokische Weine. Der Innenhof mit Blick auf die Feenkamine ist die ideale Terrasse zum Hüten des Hundes. Das Personal ist an europäische Gäste mit Hund gewöhnt.",
           "descriptionNl": "Een gerenommeerd grotrestaurant in het dorpscentrum, bekend om de Cappadocische keuken: testi kebab (lam in kleipot), mantı (Turkse gevulde deegzakjes) en lokale Cappadocische wijnen. De binnenplaats met uitzicht op de feeënschoorstenen is het ideale terras om met hond te vertoeven. Het personeel is gewend aan Europese gasten met hond.",
+          "descriptionIt": "Un rinomato ristorante in grotta nel centro del villaggio, famoso per la cucina della Cappadocia: testi kebab (agnello nella pentola di argilla), mantı (ravioli turchi ripieni) e vini locali della Cappadocia. Il cortile con vista sui camini delle fate è la terrazza ideale per stare con il cane. Il personale è abituato agli ospiti europei con cane.",
           "petPolicyDe": "Hunde im Innenhof willkommen",
           "petPolicyNl": "Honden welkom op de binnenplaats",
+          "petPolicyIt": "Cani benvenuti nel cortile",
           "mustTryDe": "Testi-Kebab (am Tisch aufgebrochen), Mantı mit Joghurt und Butter, lokaler kappadokischer Rotwein",
           "mustTryNl": "Testi kebab (aan tafel opengebroken), mantı met yoghurt en boter, lokale Cappadocische rode wijn",
+          "mustTryIt": "Testi kebab (aperto al tavolo), mantı con yogurt e burro, vino rosso locale della Cappadocia",
           "tipDe": "Der Testi-Kebab braucht mindestens 2-3 Stunden Garzeit; bei der Ankunft bestellen und in der Zwischenzeit mit dem Hund das Dorf erkunden",
-          "tipNl": "De testi kebab heeft minstens 2-3 uur gaartijd nodig; bestel bij aankomst en verken ondertussen met je hond het dorp"
+          "tipNl": "De testi kebab heeft minstens 2-3 uur gaartijd nodig; bestel bij aankomst en verken ondertussen met je hond het dorp",
+          "tipIt": "Il testi kebab richiede almeno 2-3 ore di cottura; ordina all'arrivo ed esplora nel frattempo il villaggio con il tuo cane"
         },
         {
           "name": "Dibek Restaurant",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Dibek+Restaurant+Goreme+Turkey",
           "descriptionDe": "Eines der ältesten Restaurants in Göreme, untergebracht in einem 475 Jahre alten Steinhaus mit mehreren Terrassen und einem Höhlenraum. Serviert traditionelle kappadokische Tarhana-Suppe, Kebab aus dem Tontopf und lokale Weine. Hunde sitzen auf der schattigen äußeren Terrasse mit Blick auf die Feenkamine. Eines der stimmungsvollsten hundefreundlichen Essen der Türkei.",
           "descriptionNl": "Een van de oudste restaurants van Göreme, gevestigd in een 475 jaar oud stenen huis met meerdere terrassen en een grotruimte. Serveert traditionele Cappadocische tarhana-soep, kebab uit de kleipot en lokale wijnen. Honden zitten op het schaduwrijke buitenterras met uitzicht op de feeënschoorstenen. Een van de sfeervolste hondvriendelijke eetplekken van Turkije.",
+          "descriptionIt": "Uno dei ristoranti più antichi di Göreme, in una casa di pietra di 475 anni con più terrazze e uno spazio in grotta. Serve la tradizionale zuppa turca tarhana, kebab dalla pentola di argilla e vini locali. I cani stanno nella terrazza esterna ombreggiata con vista sui camini delle fate. Uno dei posti pet-friendly più suggestivi della Turchia.",
           "petPolicyDe": "Hunde auf der schattigen äußeren Terrasse willkommen",
           "petPolicyNl": "Honden welkom op het schaduwrijke buitenterras",
+          "petPolicyIt": "Cani benvenuti nella terrazza esterna ombreggiata",
           "mustTryDe": "Tarhana-Suppe, Kebab aus dem Tontopf, kappadokischer Weißwein",
           "mustTryNl": "Tarhana-soep, kebab uit de kleipot, Cappadocische witte wijn",
+          "mustTryIt": "Zuppa tarhana, kebab dalla pentola di argilla, vino bianco della Cappadocia",
           "tipDe": "Zum Abendessen bei Sonnenuntergang reservieren; die Feenkamine leuchten in der Dämmerung rosa und orange, und die Terrasse wird für Hunde und Halter gleichermaßen magisch",
-          "tipNl": "Reserveer voor het avondeten bij zonsondergang; de feeënschoorstenen lichten in de schemering roze en oranje op, en het terras wordt magisch voor honden en baasjes"
+          "tipNl": "Reserveer voor het avondeten bij zonsondergang; de feeënschoorstenen lichten in de schemering roze en oranje op, en het terras wordt magisch voor honden en baasjes",
+          "tipIt": "Prenota per cena al tramonto; i camini delle fate si illuminano di rosa e arancione nel crepuscolo, e la terrazza diventa magica per cani e padroni"
         }
       ],
       "tipsEn": [
@@ -146,8 +154,10 @@
       ],
       "titleDe": "Haustierfreundliche Restaurants in Göreme",
       "titleNl": "Huisdiervriendelijke restaurants in Göreme",
+      "titleIt": "Ristoranti pet-friendly a Göreme",
       "introDe": "Göreme ist ein kleines kappadokisches Dorf, in dem die meisten Restaurants bauartbedingt stark auf Terrassen setzen, angelegt rund um die außergewöhnliche Feenkaminlandschaft. Hunde werden an Außentischen im ganzen Dorf toleriert. Die touristisch geprägte Gastroszene ist gegenüber europäischen Besuchern mit Hund im Allgemeinen aufgeschlossen; lokale Höhlenrestaurants mit Innenhof-Sitzplätzen sind am haustierfreundlichsten.",
       "introNl": "Göreme is een klein Cappadocisch dorp waar de meeste restaurants door de bouwwijze sterk op terrassen leunen, aangelegd rond het bijzondere feeënschoorsteenlandschap. Honden worden aan buitentafels door het hele dorp getolereerd. De toeristische horecascene staat over het algemeen open voor Europese bezoekers met hond; lokale grotrestaurants met zitplaatsen op de binnenplaats zijn het meest huisdiervriendelijk.",
+      "introIt": "Göreme è un piccolo villaggio della Cappadocia dove la maggior parte dei ristoranti, per come sono costruiti, punta molto sulle terrazze, disposte intorno allo straordinario paesaggio dei camini delle fate. I cani sono tollerati ai tavoli esterni in tutto il villaggio. La scena gastronomica turistica è in genere aperta ai visitatori europei con cane; i ristoranti in grotta locali con posti nel cortile sono i più pet-friendly.",
       "faqsDe": [
         {
           "q": "Sind die Innenräume der Höhlenrestaurants in Göreme mit Hund zugänglich?",
@@ -166,6 +176,16 @@
         {
           "q": "Is Turks eten veilig om met de hond te delen?",
           "a": "Eenvoudig gegrild lam, kip en rijst zijn in kleine hoeveelheden veilig. Vermijd knoflook, ui en sterk gekruide gerechten. Deel nooit baklava of ander gebaksdessert (veel vet en suiker)."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Gli interni dei ristoranti in grotta a Göreme sono accessibili con il cane?",
+          "a": "Gli interni delle grotte sono di solito off-limits per i cani; sono angusti, poco ventilati, e i gestori vogliono tenerli puliti per gli altri ospiti. Le terrazze esterne dei cortili sono in tutti i ristoranti in grotta la parte pet-friendly."
+        },
+        {
+          "q": "Il cibo turco è sicuro da condividere con il cane?",
+          "a": "Agnello, pollo e riso semplici alla griglia sono sicuri in piccole quantità. Evita aglio, cipolla e piatti molto speziati. Non condividere mai baklava o altri dolci (troppo grasso e zucchero)."
         }
       ]
     },
@@ -201,10 +221,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rose+Valley+Goreme+Cappadocia+Turkey",
           "descriptionDe": "Das schönste der kappadokischen Täler: 8 km rosa und rote Tuffformationen, die bei Sonnenauf- und -untergang in außergewöhnlichen Farben leuchten. Ein gut markierter Weg verbindet Göreme mit Çavuşin durch in den Fels gehauene Kirchen, Weinpressen und in die Felswände gemeißelte Taubenhäuser. Hunde wandern völlig frei ohne Einschränkungen.",
           "descriptionNl": "Het mooiste van de Cappadocische dalen: 8 km roze en rode tufsteenformaties die bij zonsopgang en zonsondergang bijzonder oplichten. Een goed gemarkeerd pad verbindt Göreme met Çavuşin, langs in de rots uitgehouwen kerken, wijnpersen en in de rotswanden gebeitelde duiventillen. Honden lopen volledig vrij, zonder beperkingen.",
+          "descriptionIt": "Il gioiello delle valli della Cappadocia: 8 km di formazioni di tufo rosa e rosso che si illuminano in modo particolare all'alba e al tramonto. Un sentiero ben segnalato collega Göreme a Çavuşin, passando per chiese scavate nella roccia, torchi da vino e colombaie scolpite nelle pareti rocciose. I cani camminano completamente liberi, senza restrizioni.",
           "petPolicyDe": "Hunde überall frei, keine Leinenpflicht",
           "petPolicyNl": "Honden overal vrij, geen lijnplicht",
+          "petPolicyIt": "Cani liberi ovunque, nessun obbligo di guinzaglio",
           "tipDe": "Bei Sonnenaufgang am Ende von Göreme starten und nach Çavuşin laufen (3 Stunden); mit dem Taxi zurück nach Göreme. Das rosa Gestein leuchtet im ersten Licht außergewöhnlich, und das Tal ist frei von anderen Wanderern",
-          "tipNl": "Start bij zonsopgang aan het einde van Göreme en loop naar Çavuşin (3 uur); neem een taxi terug naar Göreme. Het roze gesteente licht in het eerste ochtendlicht bijzonder op, en het dal is vrij van andere wandelaars"
+          "tipNl": "Start bij zonsopgang aan het einde van Göreme en loop naar Çavuşin (3 uur); neem een taxi terug naar Göreme. Het roze gesteente licht in het eerste ochtendlicht bijzonder op, en het dal is vrij van andere wandelaars",
+          "tipIt": "Parti all'alba dalla fine di Göreme e cammina verso Çavuşin (3 ore); prendi un taxi per tornare a Göreme. La roccia rosa si illumina in modo particolare nella prima luce del mattino, e la valle è libera da altri escursionisti"
         },
         {
           "name": "Pigeon Valley (Güvercinlik Vadisi)",
@@ -228,10 +251,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Pigeon+Valley+Goreme+Cappadocia+Turkey",
           "descriptionDe": "Ein 5 km langer Talwanderweg, der Göreme mit der Bergfestung von Uçhisar durch Tausende in den Tuff gehauene Taubenhaus-Nischen verbindet. Moderate Wanderung, spektakuläre Ausblicke, Hunde überall frei. Endet an der Burg von Uçhisar mit einem Panorama über ganz Kappadokien.",
           "descriptionNl": "Een 5 km lang dalwandelpad dat Göreme verbindt met het bergfort van Uçhisar, langs duizenden in het tufsteen uitgehouwen duiventilnissen. Gematigde wandeling, spectaculair uitzicht, honden overal vrij. Eindigt bij het kasteel van Uçhisar met een panorama over heel Cappadocië.",
+          "descriptionIt": "Un sentiero di valle di 5 km che collega Göreme alla fortezza rocciosa di Uçhisar, tra migliaia di nicchie per colombaie scavate nel tufo. Camminata moderata, vista spettacolare, cani liberi ovunque. Termina al castello di Uçhisar con un panorama su tutta la Cappadocia.",
           "petPolicyDe": "Hunde überall frei",
           "petPolicyNl": "Honden overal vrij",
+          "petPolicyIt": "Cani liberi ovunque",
           "tipDe": "Der Weg ist stellenweise schmal; an Stellen mit steilem Abgrund eine kurze Leine verwenden. Am Ende bei Uçhisar gibt es ein kleines Café mit Außentischen, an dem der Hund sitzen kann, während man die Aussicht genießt",
-          "tipNl": "Het pad is op plekken smal; gebruik een korte lijn bij stukken met een steile afgrond. Bij het eindpunt Uçhisar is een klein café met buitentafels waar de hond kan zitten terwijl je van het uitzicht geniet"
+          "tipNl": "Het pad is op plekken smal; gebruik een korte lijn bij stukken met een steile afgrond. Bij het eindpunt Uçhisar is een klein café met buitentafels waar de hond kan zitten terwijl je van het uitzicht geniet",
+          "tipIt": "Il sentiero è stretto in alcuni punti; usa un guinzaglio corto nei tratti con dislivelli ripidi. Al punto d'arrivo, Uçhisar, c'è un piccolo caffè con tavoli esterni dove il cane può stare seduto mentre ti godi il panorama"
         }
       ],
       "tipsEn": [
@@ -296,8 +322,10 @@
       ],
       "titleDe": "Mit dem Hund durch die Feenkamin-Täler wandern",
       "titleNl": "Met hond wandelen door de feeënschoorsteendalen",
+      "titleIt": "Passeggiate con il cane nelle valli dei camini delle fate",
       "introDe": "Göreme ist von außergewöhnlichen vulkanischen Tuff-Tälern umgeben, die durch Erosion Feenkamine, unterirdische Städte und in den Fels gehauene Kirchen geformt haben. Hunde wandern frei durch alle Täler rund um Göreme; es gibt keine Leinenpflicht und keine Eintrittsgebühren auf den offenen Talwanderwegen. Das Rosental, das Liebestal und das Taubental sind die drei besten Wanderrouten mit Hund.",
       "introNl": "Göreme wordt omringd door bijzondere vulkanische tufsteendalen, waar erosie feeënschoorstenen, ondergrondse steden en in de rots uitgehouwen kerken heeft gevormd. Honden lopen vrij door alle dalen rond Göreme; er is geen lijnplicht en geen entreekosten op de open dalwandelpaden. Het Rozendal, het Liefdesdal en het Duivendal zijn de drie beste wandelroutes met hond.",
+      "introIt": "Göreme è circondata da straordinarie valli di tufo vulcanico, dove l'erosione ha creato camini delle fate, città sotterranee e chiese scavate nella roccia. I cani camminano liberi in tutte le valli intorno a Göreme; non c'è obbligo di guinzaglio né costo d'ingresso sui sentieri aperti delle valli. La Valle Rosa, la Valle dell'Amore e la Valle dei Piccioni sono i tre migliori percorsi da fare con il cane.",
       "faqsDe": [
         {
           "q": "Kann mein Hund bei einer Heißluftballonfahrt über Kappadokien mitfliegen?",
@@ -316,6 +344,16 @@
         {
           "q": "Zijn er dalwandelpaden in Cappadocië waarvoor een ticket nodig is?",
           "a": "Het openluchtmuseum van Göreme (UNESCO-kerkencomplex) vraagt een ticket en laat geen honden binnen toe. Alle wandeldalen (Rozendal, Duivendal, Liefdesdal, Rode Dal, Zwaarddal, Witte Dal) zijn gratis en toegankelijk voor honden."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio cane può venire con me in mongolfiera sulla Cappadocia?",
+          "a": "Nessun operatore di mongolfiere in Cappadocia porta cani a bordo. Il cesto è angusto, il bruciatore molto rumoroso e stressante per i cani, e l'assicurazione non copre gli animali. Questa è un'attività in cui il cane deve restare in hotel."
+        },
+        {
+          "q": "Ci sono sentieri di valle in Cappadocia per cui serve un biglietto?",
+          "a": "Il museo all'aperto di Göreme (complesso di chiese UNESCO) richiede un biglietto e non ammette cani. Tutte le valli escursionistiche (Valle Rosa, Valle dei Piccioni, Valle dell'Amore, Valle Rossa, Valle della Spada, Valle Bianca) sono gratuite e accessibili ai cani."
         }
       ]
     },
@@ -395,8 +433,10 @@
       ],
       "titleDe": "Mit dem Hund nach Göreme anreisen",
       "titleNl": "Met hond naar Göreme reizen",
+      "titleIt": "Viaggiare con il cane verso Göreme",
       "introDe": "Göreme wird von zwei Flughäfen bedient: Kayseri (ASR, 75 km) und Nevşehir (NAV, 40 km). Ein Mietwagen an einem der beiden Flughäfen ist für Hundehalter die beste Option. Der Nachtbus von Istanbul nach Göreme erlaubt Hunde in Transportboxen unter dem Sitz. Örtliche Dolmuş verbinden Göreme mit Avanos, Uçhisar und Ürgüp.",
       "introNl": "Göreme wordt bediend door twee luchthavens: Kayseri (ASR, 75 km) en Nevşehir (NAV, 40 km). Een huurauto op een van beide luchthavens is de beste optie voor hondenbaasjes. De nachtbus van Istanbul naar Göreme staat honden in transportboxen onder de stoel toe. Lokale dolmuş verbinden Göreme met Avanos, Uçhisar en Ürgüp.",
+      "introIt": "Göreme è servita da due aeroporti: Kayseri (ASR, 75 km) e Nevşehir (NAV, 40 km). Un'auto a noleggio da uno dei due aeroporti è la scelta migliore per chi viaggia con il cane. Il bus notturno da Istanbul a Göreme ammette cani in trasportino sotto il sedile. I dolmuş locali collegano Göreme ad Avanos, Uçhisar e Ürgüp.",
       "faqsDe": [
         {
           "q": "Kann mein Hund zum Flughafen Kayseri fliegen?",
@@ -415,6 +455,16 @@
         {
           "q": "Is een huurauto onmisbaar voor het verkennen van Cappadocië met hond?",
           "a": "Sterk aanbevolen. De beste Cappadocische ervaringen (ondergrondse steden, afgelegen dalen, Ihlara-kloof, Soğanlı, Mustafapaşa) liggen 10-50 km van Göreme. Het dolmuş-netwerk dekt de belangrijkste plaatsen, maar is niet geschikt voor grotere honden."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio cane può volare fino all'aeroporto di Kayseri?",
+          "a": "I cani volano con Turkish Airlines e altre compagnie che servono la rotta per Kayseri in stiva; su questa rotta non è possibile viaggiare in cabina. Controlla attentamente la politica sugli animali della compagnia scelta. In alternativa puoi arrivare in auto da Istanbul (8 ore) via la D750, un tragitto ben gestibile con il cane facendo delle pause."
+        },
+        {
+          "q": "Un'auto a noleggio è indispensabile per esplorare la Cappadocia con il cane?",
+          "a": "Fortemente consigliata. Le migliori esperienze della Cappadocia (città sotterranee, valli isolate, gola di Ihlara, Soğanlı, Mustafapaşa) si trovano a 10-50 km da Göreme. La rete dei dolmuş copre le località principali, ma non è adatta ai cani più grandi."
         }
       ]
     },
@@ -490,8 +540,10 @@
       ],
       "titleDe": "Seen & Gewässer bei Göreme",
       "titleNl": "Meren & water bij Göreme",
+      "titleIt": "Laghi e acqua vicino a Göreme",
       "introDe": "Göreme liegt 500 km von der Küste entfernt; es gibt keine Meeresstrände. Die nächsten Bademöglichkeiten sind der Tuzsee (Salzsee, 100 km westlich, für Hunde ungeeignet) sowie die Süßwasserflüsse und Seen im Gebiet der Ihlara-Schlucht (90 km südwestlich). Der Fluss Kızılırmak bei Avanos (10 km) ist die nächstgelegene zugängliche Schwimmstelle für Hunde.",
       "introNl": "Göreme ligt 500 km van de kust; er zijn geen zeestranden. De dichtstbijzijnde zwemmogelijkheden zijn het Tuzmeer (zoutmeer, 100 km westelijk, ongeschikt voor honden) en de zoetwaterrivieren en meren in het gebied van de Ihlara-kloof (90 km zuidwestelijk). De rivier de Kızılırmak bij Avanos (10 km) is de dichtstbijzijnde toegankelijke zwemplek voor honden.",
+      "introIt": "Göreme si trova a 500 km dalla costa; non ci sono spiagge di mare. Le possibilità di bagno più vicine sono il Lago Salato di Tuz (100 km a ovest, non adatto ai cani) e i fiumi e laghi d'acqua dolce nell'area della gola di Ihlara (90 km a sud-ovest). Il fiume Kızılırmak vicino ad Avanos (10 km) è il punto per fare il bagno più vicino e accessibile ai cani.",
       "faqsDe": [
         {
           "q": "Kann mein Hund die gesamte Ihlara-Schlucht mit mir wandern?",
@@ -510,6 +562,16 @@
         {
           "q": "Is er in de buurt van Göreme een plek waar mijn hond kan zwemmen?",
           "a": "De rivier de Kızılırmak bij Avanos (10 km) is de eenvoudigste optie; 20 minuten rijden en een aangenaam halvedaguitje dat hondenzwemmen combineert met de pottenbakkerswerkplaatsen."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio cane può percorrere con me l'intera gola di Ihlara?",
+          "a": "Sì. La gola di Ihlara è un sentiero fluviale di 14 km attraverso un canyon con chiese bizantine affrescate e piscine naturali fresche. I cani percorrono liberamente tutto il tragitto. Parti dal villaggio di Ihlara e finisci alla fortezza di Selime (o viceversa). Un taxi per tornare da Selime è facile da trovare."
+        },
+        {
+          "q": "C'è un posto vicino a Göreme dove il mio cane può nuotare?",
+          "a": "Il fiume Kızılırmak vicino ad Avanos (10 km) è l'opzione più semplice; 20 minuti in auto e una piacevole mezza giornata che combina il bagno del cane con le botteghe di ceramica."
         }
       ]
     },
@@ -546,10 +608,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=veteriner+Nevsehir+Turkey",
           "descriptionDe": "Das regionale Zentrum Nevşehir (40 km von Göreme, 30 Min. mit dem Auto) verfügt über mehrere Tierarztpraxen. Das Höhlenhotel oder die Pension kann vorab anrufen, um die passendste zu finden. Deckt Routineversorgung und kleinere Notfälle ab.",
           "descriptionNl": "Het regionale centrum Nevşehir (40 km van Göreme, 30 min. met de auto) heeft meerdere dierenartspraktijken. Het grothotel of de pension kan vooraf bellen om de meest geschikte te vinden. Behandelt routinezorg en kleinere spoedgevallen.",
+          "descriptionIt": "Il centro regionale di Nevşehir (40 km da Göreme, 30 minuti in auto) ha diversi studi veterinari. L'hotel in grotta o la pensione possono chiamare in anticipo per trovare quello più adatto. Tratta cure di routine e piccole emergenze.",
           "petPolicyDe": "Alle Haustiere willkommen",
           "petPolicyNl": "Alle huisdieren welkom",
+          "petPolicyIt": "Tutti gli animali domestici benvenuti",
           "tipDe": "Das Höhlenhotel bitten, in Ihrem Namen einen örtlichen Tierarzt zu kontaktieren; das Personal kappadokischer Hotels hat lokale Kontakte und weiß, welche Tierärzte geöffnet haben und ausländische Heimtierausweise akzeptieren",
-          "tipNl": "Vraag het grothotel om namens jou een lokale dierenarts te contacteren; het personeel van Cappadocische hotels heeft lokale contacten en weet welke dierenartsen geopend zijn en buitenlandse huisdierenpaspoorten accepteren"
+          "tipNl": "Vraag het grothotel om namens jou een lokale dierenarts te contacteren; het personeel van Cappadocische hotels heeft lokale contacten en weet welke dierenartsen geopend zijn en buitenlandse huisdierenpaspoorten accepteren",
+          "tipIt": "Chiedi al tuo hotel in grotta di contattare per te un veterinario locale; il personale degli hotel della Cappadocia ha contatti locali e sa quali veterinari sono aperti e accettano passaporti per animali esteri"
         }
       ],
       "tipsEn": [
@@ -614,8 +679,10 @@
       ],
       "titleDe": "Tierärzte & Notfallversorgung im Raum Göreme",
       "titleNl": "Dierenartsen & spoedzorg in de regio Göreme",
+      "titleIt": "Veterinari e cure d'emergenza nella regione di Göreme",
       "introDe": "Das Dorf Göreme selbst ist klein und hat keinen Tierarzt. Die nächsten Tierarztpraxen liegen in Nevşehir (40 km, 30 Min. mit dem Auto) und Kayseri (75 km, 1 Stunde). Kappadokien ist ein bedeutendes Touristenziel, daher ist die regionale tierärztliche Infrastruktur ordentlich. Immer ein einfaches Erste-Hilfe-Set für Haustiere mitführen.",
       "introNl": "Het dorp Göreme zelf is klein en heeft geen dierenarts. De dichtstbijzijnde dierenartspraktijken liggen in Nevşehir (40 km, 30 min. met de auto) en Kayseri (75 km, 1 uur). Cappadocië is een belangrijke toeristische bestemming, waardoor de regionale dierenartsinfrastructuur behoorlijk is. Neem altijd een eenvoudige eerstehulpset voor huisdieren mee.",
+      "introIt": "Il villaggio di Göreme in sé è piccolo e non ha un veterinario. Gli studi veterinari più vicini si trovano a Nevşehir (40 km, 30 minuti in auto) e a Kayseri (75 km, 1 ora). La Cappadocia è una meta turistica importante, il che rende l'infrastruttura veterinaria regionale abbastanza buona. Porta sempre con te un semplice kit di primo soccorso per animali.",
       "faqsDe": [
         {
           "q": "Gibt es am Flughafen Kayseri tierärztliche Versorgung, falls mein Hund bei der Abreise einen Notfall hat?",
@@ -634,6 +701,16 @@
         {
           "q": "Kan mijn hond bij een dierenarts in Cappadocië een gezondheidsverklaring krijgen voor terugkeer naar de EU?",
           "a": "Ja, bij een erkende dierenarts in Nevşehir of Kayseri; de verklaring moet binnen 10 dagen vóór de terugreisdatum naar de EU worden afgegeven. Vraag het hotel te helpen bij het vinden van een erkende (resmi) dierenarts voor internationale gezondheidsverklaringen."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è assistenza veterinaria all'aeroporto di Kayseri se il mio cane ha un'emergenza alla partenza?",
+          "a": "All'aeroporto stesso non c'è un veterinario. La città di Kayseri (15 minuti dall'aeroporto) ha diversi studi veterinari. La compagnia di noleggio può chiamarne uno per te in anticipo."
+        },
+        {
+          "q": "Il mio cane può ottenere da un veterinario in Cappadocia un certificato sanitario per il rientro nell'UE?",
+          "a": "Sì, presso un veterinario ufficiale a Nevşehir o Kayseri; il certificato deve essere rilasciato entro 10 giorni prima della data di rientro nell'UE. Chiedi all'hotel di aiutarti a trovare un veterinario ufficiale (resmi) per i certificati sanitari internazionali."
         }
       ]
     },
@@ -710,8 +787,10 @@
       ],
       "titleDe": "Wichtige Reisetipps mit Hund für Göreme & Kappadokien",
       "titleNl": "Belangrijke reistips met hond voor Göreme & Cappadocië",
+      "titleIt": "Consigli di viaggio essenziali con il cane per Göreme e la Cappadocia",
       "introDe": "Göreme ist eines der einzigartigsten Reiseziele der Welt für Hundehalter: eine vulkanische UNESCO-Landschaft, in der Hunde frei durch Feenkamin-Täler wandern, Höhlenhotels Haustiere willkommen heißen und die Höhenlage selbst im Hochsommer für angenehme Temperaturen sorgt. Die wichtigste Vorbereitung besteht darin, die Einreisebestimmungen der Türkei zu verstehen und die eine Aktivität zu planen, bei der der Hund nicht mitkann (die Ballonfahrt).",
       "introNl": "Göreme is een van de meest unieke bestemmingen ter wereld voor hondenbaasjes: een vulkanisch UNESCO-landschap waar honden vrij door feeënschoorsteendalen lopen, grothotels huisdieren welkom heten en de hoogteligging zelfs in het hoogzomerseizoen voor aangename temperaturen zorgt. De belangrijkste voorbereiding is het begrijpen van de inreisregels van Turkije en het plannen van de ene activiteit waar de hond niet bij kan (de ballonvaart).",
+      "introIt": "Göreme è una delle destinazioni più uniche al mondo per chi viaggia con il cane: un paesaggio vulcanico UNESCO dove i cani camminano liberi tra le valli dei camini delle fate, gli hotel in grotta accolgono gli animali e l'altitudine garantisce temperature piacevoli anche in piena estate. La preparazione più importante è capire le regole d'ingresso della Turchia e pianificare l'unica attività a cui il cane non può partecipare (il volo in mongolfiera).",
       "faqsDe": [
         {
           "q": "Kann mein Hund bei der berühmten Heißluftballonfahrt mitfliegen?",
@@ -730,6 +809,16 @@
         {
           "q": "Is Göreme geschikt voor oudere of minder actieve honden?",
           "a": "Zeer geschikt. De dorpsstraten zijn vlak, en de paden op de dalbodem hebben zachte stijgingen. Oudere honden doorstaan de dalbodemgedeeltes van Duivendal en Rozendal (4-6 km vlak) probleemloos. De topgedeeltes zijn optioneel."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio cane può venire con me sulla famosa gita in mongolfiera?",
+          "a": "Nessun operatore di mongolfiere porta cani a bordo. Lascia il cane nell'hotel in grotta durante il volo (1,5 ore inclusi i trasferimenti). L'hotel si occupa del cane in quel periodo; conferma questo al check-in."
+        },
+        {
+          "q": "Göreme è adatta a cani anziani o meno attivi?",
+          "a": "Molto adatta. Le strade del villaggio sono piatte, e i sentieri sul fondo delle valli hanno pendenze dolci. I cani anziani affrontano senza problemi i tratti di fondovalle della Valle dei Piccioni e della Valle Rosa (4-6 km pianeggianti). I tratti in altura sono facoltativi."
         }
       ]
     },
@@ -765,10 +854,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Uchisar+Castle+Cappadocia+Turkey",
           "descriptionDe": "Der höchste Punkt Kappadokiens: eine natürliche Felsfestung voller Höhlenräume und Tunnel, mit einem 360-Grad-Panorama über die Feenkaminlandschaft. Hunde erklimmen den äußeren Weg bis zum Fuß der Burg völlig frei; die Innentunnel erfordern ein Ticket und erlauben keine Hunde. Das Dorf rund um die Burg eignet sich hervorragend zum Gassigehen.",
           "descriptionNl": "Het hoogste punt van Cappadocië: een natuurlijk rotsfort vol grotruimtes en tunnels, met een 360-gradenpanorama over het feeënschoorsteenlandschap. Honden beklimmen het buitenpad tot aan de voet van het fort volledig vrij; de binnentunnels vereisen een ticket en laten geen honden toe. Het dorp rond het fort leent zich uitstekend voor het uitlaten van de hond.",
+          "descriptionIt": "Il punto più alto della Cappadocia: una fortezza rocciosa naturale piena di spazi in grotta e tunnel, con un panorama a 360 gradi sul paesaggio dei camini delle fate. I cani salgono il sentiero esterno fino ai piedi della fortezza completamente liberi; i tunnel interni richiedono un biglietto e non ammettono cani. Il villaggio intorno alla fortezza si presta benissimo a portare fuori il cane.",
           "petPolicyDe": "Hunde auf dem Außenweg und im Dorf frei; in den Innentunneln nicht erlaubt",
           "petPolicyNl": "Honden vrij op het buitenpad en in het dorp; niet toegestaan in de binnentunnels",
+          "petPolicyIt": "Cani liberi sul sentiero esterno e nel villaggio; non ammessi nei tunnel interni",
           "tipDe": "Von Göreme über das Taubental nach Uçhisar laufen (5 km, 1,5 Stunden) mit Hund; deutlich lohnender als die Anfahrt mit dem Auto, und der Weg mündet direkt am Fuß der Burg",
-          "tipNl": "Loop van Göreme via het Duivendal naar Uçhisar (5 km, 1,5 uur) met hond; veel lonender dan de rit met de auto, en het pad komt uit direct aan de voet van het fort"
+          "tipNl": "Loop van Göreme via het Duivendal naar Uçhisar (5 km, 1,5 uur) met hond; veel lonender dan de rit met de auto, en het pad komt uit direct aan de voet van het fort",
+          "tipIt": "Cammina da Göreme attraverso la Valle dei Piccioni fino a Uçhisar (5 km, 1,5 ore) con il cane; molto più gratificante del viaggio in auto, e il sentiero arriva direttamente ai piedi della fortezza"
         }
       ],
       "tipsEn": [
@@ -833,8 +925,10 @@
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Göreme & Kappadokien",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Göreme & Cappadocië",
+      "titleIt": "Attrazioni pet-friendly a Göreme e in Cappadocia",
       "introDe": "Kappadokiens Freiluftattraktionen sind durchweg hundefreundlich; die Ausnahmen im Inneren (Freilichtmuseum Göreme, unterirdische Städte Derinkuyu und Kaymaklı) erfordern, den Hund draußen zu lassen. Alles andere (die Täler, die Bergfestungen, die Weingüter, die Aussichtspunkte an der Straße) ist mit Hund zugänglich.",
       "introNl": "De openluchtattracties van Cappadocië zijn doorgaans hondvriendelijk; de uitzonderingen binnenshuis (openluchtmuseum Göreme, ondergrondse steden Derinkuyu en Kaymaklı) vereisen dat je de hond buiten laat. Al het andere (de dalen, de bergforten, de wijngoederen, de uitzichtpunten langs de weg) is toegankelijk met hond.",
+      "introIt": "Le attrazioni all'aperto della Cappadocia sono generalmente pet-friendly; le eccezioni al chiuso (museo all'aperto di Göreme, città sotterranee di Derinkuyu e Kaymaklı) richiedono di lasciare il cane fuori. Tutto il resto (le valli, le fortezze rocciose, le cantine, i punti panoramici lungo la strada) è accessibile con il cane.",
       "faqsDe": [
         {
           "q": "Kann mein Hund den Ballonstart bei Sonnenaufgang in Göreme beobachten?",
@@ -853,6 +947,16 @@
         {
           "q": "Is een bezoek aan het openluchtmuseum van Göreme met hond de moeite waard?",
           "a": "Het museum zelf laat geen honden toe binnen in het kerkencomplex. De toegangsweg en de uitzichtpunten buiten het museum zijn echter wel toegankelijk met hond; je kunt de hond bij de ingang vastmaken terwijl een lid van je groep binnen rondkijkt."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio cane può vedere il decollo delle mongolfiere all'alba a Göreme?",
+          "a": "Sì. La principale area di decollo delle mongolfiere è visibile dai bordi del villaggio e dai punti panoramici nelle valli; una passeggiata con il cane fino al punto panoramico della Valle Rosa o della Valle dell'Amore all'alba permette a te e al cane di vedere decine di mongolfiere salire insieme sopra i camini delle fate."
+        },
+        {
+          "q": "Vale la pena visitare il museo all'aperto di Göreme con il cane?",
+          "a": "Il museo stesso non ammette cani dentro il complesso delle chiese. La strada d'accesso e i punti panoramici fuori dal museo sono però accessibili con il cane; puoi legare il cane all'ingresso mentre un membro del tuo gruppo visita l'interno."
         }
       ]
     },
@@ -928,8 +1032,10 @@
       ],
       "titleDe": "Hundebetreuung in Göreme",
       "titleNl": "Hondenoppas in Göreme",
+      "titleIt": "Pet sitting a Göreme",
       "introDe": "Haustierbetreuung in Göreme läuft vor allem informell über das Personal der Höhlenhotels. Da fast jede kappadokische Attraktion im Freien und mit Hund zugänglich ist, braucht man eine Betreuung wirklich nur während der Heißluftballonfahrt (1,5 Stunden) und bei Besuchen der unterirdischen Städte.",
       "introNl": "Huisdierenoppas in Göreme verloopt vooral informeel via het personeel van de grothotels. Omdat vrijwel elke Cappadocische attractie buiten en toegankelijk met hond is, heb je oppas eigenlijk alleen echt nodig tijdens de luchtballonvaart (1,5 uur) en bij bezoeken aan de ondergrondse steden.",
+      "introIt": "Il pet sitting a Göreme avviene soprattutto in modo informale tramite il personale degli hotel in grotta. Dato che quasi tutte le attrazioni della Cappadocia sono all'aperto e accessibili con il cane, hai davvero bisogno di un sitter solo durante il volo in mongolfiera (1,5 ore) e per le visite alle città sotterranee.",
       "faqsDe": [
         {
           "q": "Kann mein Höhlenhotel während der Ballonfahrt auf meinen Hund aufpassen?",
@@ -948,6 +1054,16 @@
         {
           "q": "Is er een hondenpension in de buurt van Göreme?",
           "a": "In Göreme of Ürgüp is geen professioneel hondenpension. Nevşehir (40 km) heeft mogelijk opties; vraag het hotel om indien nodig contact op te nemen voor meerdaags onderdak."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio hotel in grotta può occuparsi del mio cane durante il volo in mongolfiera?",
+          "a": "Quasi sempre sì. Conferma questo al check-in; la maggior parte degli hotel in grotta ha un cortile sicuro e personale abituato ai cani. Lascia istruzioni chiare su cibo e cura."
+        },
+        {
+          "q": "C'è una pensione per cani vicino a Göreme?",
+          "a": "A Göreme o a Ürgüp non c'è una pensione professionale per cani. Nevşehir (40 km) potrebbe avere delle opzioni; chiedi all'hotel di contattarne una se serve un alloggio per più giorni."
         }
       ]
     }

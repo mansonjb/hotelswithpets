@@ -139,6 +139,28 @@ const tips: Record<string, Tip[]> = {
       text: 'Elk hotel op HotelsWithPets.com heeft minimaal een Booking.com-gastbeoordeling van 8,0. Huisdiervriendelijk hoeft niet ten koste te gaan van kwaliteit.',
     },
   ],
+  it: [
+    {
+      icon: '📋',
+      title: 'Verifica prima di prenotare',
+      text: `Conferma sempre la policy sugli animali direttamente con l'hotel. Tariffe e restrizioni possono cambiare. I nostri dati sono aggiornati regolarmente, ma una telefonata veloce evita brutte sorprese.`,
+    },
+    {
+      icon: '🛂',
+      title: 'Passaporto europeo per animali',
+      text: `Viaggi tra paesi UE? Il tuo animale ha bisogno di un passaporto europeo valido con vaccinazione antirabbica aggiornata. Richiedilo dal tuo veterinario almeno 21 giorni prima della partenza.`,
+    },
+    {
+      icon: '🐕',
+      title: 'Prenota la camera giusta',
+      text: `Non tutte le camere di un hotel pet-friendly accettano animali. Richiedi una camera dedicata agli animali al momento della prenotazione e conferma di essere al piano giusto. Meglio se con accesso facile all'esterno.`,
+    },
+    {
+      icon: '⭐',
+      title: 'Tutti gli hotel valutati 8,0+',
+      text: `Ogni hotel su HotelsWithPets.com ha una valutazione minima degli ospiti su Booking.com di 8,0. Pet-friendly non deve voler dire scendere a compromessi sulla qualità.`,
+    },
+  ],
 }
 
 const headings: Record<string, string> = {
@@ -148,6 +170,7 @@ const headings: Record<string, string> = {
   pt: 'Dicas para viajar com animais',
   de: 'Tipps für das Reisen mit Haustieren',
   nl: 'Tips voor reizen met huisdieren',
+  it: 'Consigli per viaggiare con gli animali',
 }
 
 export default function PetTravelTips({ locale }: PetTravelTipsProps) {

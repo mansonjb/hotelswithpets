@@ -11,21 +11,23 @@ interface CategoryGridProps {
   }
 }
 
-function getCategoryName(cat: typeof categories[number] & { namePt?: string; nameDe?: string; nameNl?: string }, locale: Locale): string {
+function getCategoryName(cat: typeof categories[number] & { namePt?: string; nameDe?: string; nameNl?: string; nameIt?: string }, locale: Locale): string {
   if (locale === 'fr' && cat.nameFr) return cat.nameFr
   if (locale === 'es' && cat.nameEs) return cat.nameEs
   if (locale === 'pt' && cat.namePt) return cat.namePt
   if (locale === 'de' && cat.nameDe) return cat.nameDe
   if (locale === 'nl' && cat.nameNl) return cat.nameNl
+  if (locale === 'it' && cat.nameIt) return cat.nameIt
   return cat.name
 }
 
-function getCategoryDesc(cat: typeof categories[number] & { descriptionPt?: string; descriptionDe?: string; descriptionNl?: string }, locale: Locale): string {
+function getCategoryDesc(cat: typeof categories[number] & { descriptionPt?: string; descriptionDe?: string; descriptionNl?: string; descriptionIt?: string }, locale: Locale): string {
   if (locale === 'fr' && cat.descriptionFr) return cat.descriptionFr
   if (locale === 'es' && cat.descriptionEs) return cat.descriptionEs
   if (locale === 'pt' && cat.descriptionPt) return cat.descriptionPt
   if (locale === 'de' && cat.descriptionDe) return cat.descriptionDe
   if (locale === 'nl' && cat.descriptionNl) return cat.descriptionNl
+  if (locale === 'it' && cat.descriptionIt) return cat.descriptionIt
   return cat.description
 }
 
@@ -47,6 +49,7 @@ const INTRO: Record<string, string> = {
   pt: 'Todos os nossos hotéis têm uma política de animais verificada, mas nem todos servem para cada viagem. Filtre por categoria para encontrar exatamente o hotel ideal.',
   de: 'Alle Hotels von HotelsWithPets haben eine geprüfte Tierrichtlinie, aber nicht jedes Hotel passt zu jeder Reise. Filtern Sie nach Kategorie, um genau das zu finden, was Sie brauchen.',
   nl: 'Alle hotels op HotelsWithPets hebben een geverifieerd huisdierenbeleid, maar niet elk hotel past bij elke reis. Filter op categorie om precies te vinden wat je zoekt.',
+  it: 'Tutti gli hotel su HotelsWithPets hanno una politica animali verificata, ma non ogni hotel è adatto a ogni viaggio. Filtra per categoria per trovare esattamente quello che ti serve.',
 }
 
 const PROMISE: Record<string, { title: string; items: string[] }> = {
@@ -74,6 +77,10 @@ const PROMISE: Record<string, { title: string; items: string[] }> = {
     title: 'Onze belofte',
     items: ['Huisdierenbeleid geverifieerd aan de bron', 'Prijzen rechtstreeks van Booking.com', 'Geen verborgen kosten', 'Regelmatig bijgewerkt'],
   },
+  it: {
+    title: 'Il nostro impegno',
+    items: ['Politica animali verificata alla fonte', 'Prezzi diretti da Booking.com', 'Nessun costo nascosto', 'Aggiornato regolarmente'],
+  },
 }
 
 export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
@@ -81,11 +88,11 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
   const featured = activeCats.slice(0, 3)
   const rest = activeCats.slice(3)
 
-  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
+  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' || locale === 'it' ? locale : 'en'
   const intro = INTRO[lang]
   const promise = PROMISE[lang]
-  const citiesLabel = locale === 'fr' ? 'villes' : locale === 'es' ? 'ciudades' : locale === 'pt' ? 'cidades' : locale === 'de' ? 'Städte' : locale === 'nl' ? 'steden' : 'cities'
-  const hotelsLabel = locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : locale === 'de' ? 'Hotels' : locale === 'nl' ? 'hotels' : 'hotels'
+  const citiesLabel = locale === 'fr' ? 'villes' : locale === 'es' ? 'ciudades' : locale === 'pt' ? 'cidades' : locale === 'de' ? 'Städte' : locale === 'nl' ? 'steden' : locale === 'it' ? 'città' : 'cities'
+  const hotelsLabel = locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : locale === 'de' ? 'Hotels' : locale === 'nl' ? 'hotels' : locale === 'it' ? 'hotel' : 'hotels'
 
   const seeAllLabel =
     locale === 'fr' ? `Voir toutes les catégories →` :
@@ -93,6 +100,7 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
     locale === 'pt' ? `Ver todas as categorias →` :
     locale === 'de' ? `Alle Kategorien ansehen →` :
     locale === 'nl' ? `Alle categorieën bekijken →` :
+    locale === 'it' ? `Vedi tutte le categorie →` :
     `View all categories →`
 
   return (

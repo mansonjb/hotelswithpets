@@ -21,6 +21,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: 'Península ibérica com tu cão: Lisboa → Porto → Madrid → Barcelona (itinerario 12 dias)',
     de: 'Iberische Halbinsel mit Ihrem Hund: Lissabon → Porto → Madrid → Barcelona (12-tägige Route)',
     nl: 'Het Iberisch Schiereiland met jouw hond: Lissabon → Porto → Madrid → Barcelona (route van 12 dagen)',
+    it: 'Penisola iberica con il tuo cane: Lisbona → Porto → Madrid → Barcellona (itinerario di 12 giorni)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 12-day Iberian rail itinerary with your dog: Portugal\'s coast then Spain\'s capitals. Pet-friendly hotels, AVE/Alfa Pendular train rules, summer heat tips, live Booking.com maps.',
@@ -29,6 +30,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: 'Itinerario ibérico de 12 dias de comboio com tu cão: a costa portuguesa e luego as capitales espanholas. Hotéis que admiten animais, normas AVE/Alfa Pendular, consejos para o calor, mapas Booking.com en vivo.',
     de: 'Eine 12-tägige iberische Bahnreise mit Ihrem Hund: erst Portugals Küste, dann Spaniens Hauptstädte. Haustierfreundliche Hotels, AVE/Alfa-Pendular-Zugregeln, Tipps gegen Sommerhitze, Live-Karten von Booking.com.',
     nl: 'Een 12-daagse Iberische treinroute met jouw hond: eerst de Portugese kust, dan de Spaanse hoofdsteden. Huisdiervriendelijke hotels, AVE/Alfa Pendular-treinregels, tips tegen de zomerhitte, live Booking.com-kaarten.',
+    it: 'Un itinerario iberico di 12 giorni in treno con il tuo cane: prima la costa portoghese, poi le capitali spagnole. Hotel pet-friendly, regole dei treni AVE/Alfa Pendular, consigli contro il caldo estivo, mappe live di Booking.com.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -183,6 +185,50 @@ const COPY: Record<string, RouteCopy> = {
       { q: 'Is de metro van Madrid hondvriendelijk?', a: 'Ja, alle formaten toegestaan aan de lijn en met muilkorf, gratis, maar alleen buiten de spits (voor 7 uur, 10-12 uur, 16-19 uur, na 21 uur doordeweeks; hele dag in het weekend). Neem de muilkorf mee in je tas.' },
     ],
   },
+  it: {
+    hero: { tagline: 'ROTTA IBERICA · 12 GIORNI · CON IL TUO CANE', title: 'Un viaggio iberico in treno con il tuo cane', subtitle: `Lisbona, Porto, Madrid, Barcellona, la costa atlantica del Portogallo e le grandi capitali spagnole, tutte collegate da treni diretti. Hotel pet-friendly, spiagge per cani e mappe live di Booking.com per ogni tappa.` },
+    why: { title: 'Perché questo itinerario iberico funziona con il cane', bullets: [
+      `Portogallo e Spagna sono tra i paesi più tolleranti con gli animali d'Europa, la maggior parte di caffè, ristoranti e negozi accetta cani al guinzaglio senza problemi.`,
+      `I treni diretti Alfa Pendular (Lisbona ↔ Porto) e AVE (Madrid ↔ Barcellona) accettano cani, con un'opzione notturna per la tratta Porto–Madrid.`,
+      `Tutte e quattro le città hanno spiagge per cani ufficiali tutto l'anno o zone recintate senza guinzaglio a meno di 30 minuti dal centro.`,
+      `Nessuna burocrazia alle frontiere Schengen, basta un passaporto europeo per animali con vaccinazione antirabbica valida.`,
+      'Il caldo è il vincolo principale: evita luglio-agosto, soprattutto Madrid (40 °C+ frequenti). Maggio, inizio giugno, fine settembre, ottobre sono ideali.',
+    ] },
+    stats: { duration: 'Durata', cities: 'Città', transport: 'Trasporto', budget: 'Budget', durationVal: '12 giorni', citiesVal: '4 città', transportVal: 'Treno (Alfa Pendular / Trenhotel / AVE)', budgetVal: '1.000 €–2.000 €' },
+    citiesIntro: { kicker: 'CITTÀ PER CITTÀ', title: 'Le tue tappe, i tuoi hotel, la tua mappa' },
+    cities: {
+      lisbon: { days: 'Giorni 1–3', intro: `Inizia a Lisbona, una delle città più rilassate d'Europa con i cani. I tram (incluso il 28 storico) accettano cani al guinzaglio gratis, il lungofiume del Tago offre 8 km di passeggiata senza auto, e la spiaggia per cani di Alcântara (Praia do Porto Brandão) è a 15 min di traghetto dal centro. I vicoli acciottolati di Bairro Alto e Alfama sono pet-friendly di giorno; la sera si affollano.`, highlight: 'Da non perdere con il tuo cane: tramonto al Miradouro da Senhora do Monte', highlightDesc: `Il punto panoramico più alto della città, meno affollato di Santa Catarina. Il tram 28 ti porta a 5 minuti a piedi; cani benvenuti al bar in terrazza dopo.` },
+      porto: { days: 'Giorni 4–5', intro: `Tre ore di Alfa Pendular. Porto è ancora più pet-friendly di Lisbona: la riva del Douro alla Ribeira accetta cani in ogni terrazza di caffè, la costa di Foz do Douro ha spiagge pet-friendly (Praia do Carneiro, Praia de Lavadores) raggiungibili in tram, e i giardini del Palazzo di Cristallo accolgono i cani senza guinzaglio la mattina presto.`, highlight: 'Da non perdere con il tuo cane: gita in treno del vino nella Valle del Douro', highlightDesc: `La Linha do Douro di Comboios de Portugal da Porto-São Bento a Régua dura 2h lungo il fiume. Cani al guinzaglio gratis nel trasportino, metà prezzo altrimenti. Molte quintas (cantine del porto) accolgono i cani nei loro giardini.` },
+      madrid: { days: 'Giorni 6–9', intro: `Trenhotel notturno (8h) o volo con cane (Iberia lo accetta in cabina) per collegare Porto-Madrid. Madrid ha una delle popolazioni canine più grandi d'Europa: 350.000 cani registrati, il gigantesco Casa de Campo (1.700 ha) e il Parque del Retiro (125 ha) entrambi pet-friendly, e la metro di Madrid accetta tutti i cani al guinzaglio + museruola nelle ore non di punta.`, highlight: 'Da non perdere con il tuo cane: un giro mattutino alla Casa de Campo', highlightDesc: `1.700 ettari di pineta a 15 min di metro da Sol. Diverse zone senza guinzaglio e un piccolo lago. I locali partono dall'ingresso Lago e camminano 6–8 km, il tuo cane dormirà tutto il pomeriggio.` },
+      barcelona: { days: 'Giorni 10–12', intro: `AVE ad alta velocità da Madrid in 2h30 (la tratta più veloce, biglietto cane 15 €). Barcellona è pet-friendly lungo il lungomare: la spiaggia di Llevant è la spiaggia per cani ufficiale aperta tutto l'anno (nuoto senza guinzaglio), Montjuïc ha zone senza guinzaglio, i quartieri Born e Gràcia sono pieni di terrazze accoglienti. La metro richiede guinzaglio + museruola per cani medi/grandi.`, highlight: 'Da non perdere con il tuo cane: spiaggia per cani di Llevant + lungomare Bogatell', highlightDesc: `L'unica spiaggia per cani di Barcellona aperta tutto l'anno (senza guinzaglio, doccia d'acqua dolce, cestini). Combinala con i 4 km del lungomare Bogatell per una mattinata completa. Sosta da La Bombeta per le tapas, cani al guinzaglio benvenuti in terrazza.` },
+    },
+    hotelsLabel: 'Hotel pet-friendly consigliati',
+    bookLabel: 'Prenota su Booking.com',
+    detailsLabel: 'Dettagli',
+    mapLabel: 'Mappa live, tutti gli hotel pet-friendly',
+    legsTitle: 'Trasporti tra le città',
+    legs: [
+      { from: 'Lisbona', to: 'Porto', duration: '~3h', service: 'Alfa Pendular (diretto, ogni 1–2h)', petRule: `Cani piccoli nel trasportino (max 10 kg) gratis. Cani più grandi non ufficialmente ammessi sull'Alfa Pendular, noleggia un'auto o usa Renfe / Renfe-CP via Vigo.` },
+      { from: 'Porto', to: 'Madrid', duration: '~10h notturno o volo 1h30', service: 'Trenhotel Lusitania (notturno) o volo Iberia', petRule: 'Il Trenhotel accetta cani in cabina privata. Volo Iberia: cani <8 kg in cabina (60 €), più grandi in stiva (150 €).' },
+      { from: 'Madrid', to: 'Barcellona', duration: '~2h30', service: 'AVE Renfe (diretto, ogni 30 min)', petRule: 'Cani piccoli (max 10 kg) gratis. Il progetto pilota Renfe Mascotas Grandes permette cani fino a 40 kg con prenotazione (15 € / cane). Porta una museruola morbida.' },
+    ],
+    practicalTitle: 'Prima di partire: documenti, vaccini, contatti veterinari',
+    practicalBullets: [
+      'Passaporto europeo per animali con vaccinazione antirabbica valida (21+ giorni).',
+      'Microchip ISO 11784/11785, obbligatorio.',
+      'La Spagna ha leggi specifiche per razza (Ley 50/1999): Pit Bull, Rottweiler, Am. Staff, Bullterrier, Tosa, Dogo Argentino, Fila Brasileiro, Akita Inu, Dobermann sono considerati PPP. I proprietari servono un permesso, guinzaglio + museruola in pubblico, assicurazione civile.',
+      `Il caldo è il rischio numero 1: marciapiede a 50 °C a Madrid a luglio, passeggia tra le 7 e le 9 o dopo le 21, porta una ciotola d'acqua pieghevole, non lasciare mai il cane in auto.`,
+      'Salva i veterinari 24/7: Lisbona (Hospital Veterinário Restelo, +351 21 303 80 00), Porto (Hospital Veterinário Montenegro, +351 22 900 26 30), Madrid (Hospital Veterinario VETSIA, +34 91 632 95 76), Barcellona (Hospital Ars Veterinaria, +34 93 200 10 00).',
+    ],
+    faqTitle: 'Domande frequenti',
+    faqs: [
+      { q: `Perché non c'è un treno diretto Porto → Madrid?`, a: `La penisola iberica storicamente non ha avuto un collegamento ad alta velocità. Il Trenhotel notturno è l'unica opzione ferroviaria diretta (10h). La maggior parte dei viaggiatori vola (Iberia 1h30, cane accettato) o prende un bus lungo. Un AVE Porto–Madrid è previsto ma non ancora costruito.` },
+      { q: 'Il caldo spagnolo è troppo per un cane?', a: 'A luglio-agosto sì, Madrid arriva a 40 °C, Barcellona 32 °C con umidità. Pianifica le passeggiate tra le 7 e le 9 e dopo il tramonto. Gli hotel con aria condizionata sono essenziali. Evita quei mesi per le razze dal muso corto.' },
+      { q: 'I ristoranti in Spagna sono davvero pet-friendly?', a: `La legge spagnola lascia decidere a ogni locale, ma Madrid e Barcellona hanno una forte tendenza "perro permitido". Cerca l'adesivo con la zampa verde. La maggior parte delle terrazze accetta cani senza problemi; chiedi prima di sederti dentro.` },
+      { q: 'Posso fare questo viaggio con un cane di 25 kg o più?', a: `Sì, ma con logistica più stretta: l'Alfa Pendular non ammette ufficialmente cani grandi (noleggia un'auto per Lisbona–Porto), e il progetto pilota Renfe AVE Mascotas Grandes è l'opzione più facile per Madrid–Barcellona (~15 €/cane). Tutti gli hotel di questa guida accettano cani grandi.` },
+      { q: 'La metro di Madrid è pet-friendly?', a: 'Sì, tutte le taglie ammesse con guinzaglio + museruola, gratis, ma solo nelle ore non di punta (prima delle 7, 10–12, 16–19, dopo le 21 nei giorni feriali; tutto il giorno nei weekend). Porta la museruola in borsa.' },
+    ],
+  },
   fr: {
     hero: { tagline: 'PÉNINSULE IBÉRIQUE · 12 JOURS · AVEC SON CHIEN', title: 'Un voyage ibérique en train avec son chien', subtitle: 'Lisbonne, Porto, Madrid, Barcelone, la côte atlantique portugaise et les grandes capitales espagnoles, reliées par trains directs. Hôtels acceptant les animaux, plages canines et cartes Booking.com en direct pour chaque étape.' },
     why: { title: 'Pourquoi cet itinéraire ibérique fonctionne avec un chien', bullets: [
@@ -327,8 +373,9 @@ function buildSticky(locale: string): StickyConfig {
     pt: `Hotéis pet-friendly rota ibérica`,
     de: `Haustierfreundliche Hotels iberische Route`,
     nl: 'Huisdiervriendelijke hotels Iberische route',
+    it: 'Hotel pet-friendly rotta iberica',
   }
-  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen', nl: 'Bekijk' }
+  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen', nl: 'Bekijk', it: 'Vedi' }
   return { href, label: labels[locale] ?? labels.en, cta: ctas[locale] ?? ctas.en }
 }
 

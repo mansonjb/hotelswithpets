@@ -18,6 +18,7 @@ const COST_INDEX_PICK_LABELS: Record<string, { cheap: string; exp: string }> = {
   pt: { cheap: 'Reserve uma opção em conta nas cidades mais baratas', exp: 'Reserve uma boa estadia mesmo nas cidades mais caras' },
   de: { cheap: 'Buchen Sie ein günstiges Angebot in den preiswertesten Städten', exp: 'Buchen Sie einen tollen Aufenthalt selbst in den teuersten Städten' },
   nl: { cheap: 'Boek een voordelige optie in de goedkoopste steden', exp: 'Boek een top verblijf, zelfs in de duurste steden' },
+  it: { cheap: 'Prenota una scelta conveniente nelle città più economiche', exp: 'Prenota un soggiorno di qualità anche nelle città più costose' },
 }
 
 const STICKY_LABELS_COST: Record<string, { label: string; cta: string }> = {
@@ -27,6 +28,7 @@ const STICKY_LABELS_COST: Record<string, { label: string; cta: string }> = {
   pt: { label: 'Compare preços de hotéis pet-friendly em Europa', cta: 'Ver hotéis' },
   de: { label: 'Vergleichen Sie haustierfreundliche Hotelpreise in ganz Europa', cta: 'Hotels ansehen' },
   nl: { label: 'Vergelijk huisdiervriendelijke hotelprijzen in heel Europa', cta: 'Bekijk hotels' },
+  it: { label: 'Confronta i prezzi degli hotel pet-friendly in Europa', cta: 'Vedi gli hotel' },
 }
 
 const SLUG = 'pet-travel-cost-index-europe-2026'
@@ -123,6 +125,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: `Pet Travel Cost Index Europa 2026: auditamos ${GLOBAL.hotels} hotéis en ${GLOBAL.countries} países`,
     de: `Pet Travel Cost Index Europa 2026: Wir haben ${GLOBAL.hotels} Hotels in ${GLOBAL.countries} Ländern geprüft`,
     nl: `Pet Travel Cost Index Europa 2026: we hebben ${GLOBAL.hotels} hotels in ${GLOBAL.countries} landen doorgelicht`,
+    it: `Pet Travel Cost Index Europa 2026: abbiamo verificato ${GLOBAL.hotels} hotel in ${GLOBAL.countries} paesi`,
   }
   const descs: Record<string, string> = {
     en: `The 2026 cost benchmark for travelling Europe with a dog or cat. Average pet fees by country and city, % of pet-free hotels, and the cheapest vs most expensive cities for pet-friendly stays. Methodology + open dataset.`,
@@ -131,6 +134,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: `O benchmark de costes 2026 para viajar por Europa com cão o gato. Tarifas medias por país e cidade, % de hotéis sem cargo, e as cidades mais baratas vs mais caras para estadias pet-friendly. Metodología + datos abiertos.`,
     de: `Der Kosten-Benchmark 2026 für Reisen mit Hund oder Katze durch Europa. Durchschnittliche Haustiergebühren nach Land und Stadt, Prozentsatz gebührenfreier Hotels sowie die günstigsten und teuersten Städte für haustierfreundliche Aufenthalte. Methodik plus offener Datensatz.`,
     nl: `De kostenbenchmark 2026 voor reizen door Europa met een hond of kat. Gemiddelde huisdiertoeslagen per land en stad, percentage huisdiervriendelijke hotels zonder toeslag, en de goedkoopste versus duurste steden voor een huisdiervriendelijk verblijf. Methodologie plus open dataset.`,
+    it: `Il benchmark dei costi 2026 per viaggiare in Europa con un cane o un gatto. Tariffe medie per animali per paese e città, % di hotel senza costi aggiuntivi, e le città più economiche vs più costose per soggiorni pet-friendly. Metodologia e dataset aperto.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -543,6 +547,67 @@ const COPY: Record<string, {
     ctaTitle: 'Bekijk de volledige dataset',
     ctaDesc: 'Elke huisdiertoeslag en hotelbeoordeling in deze index staat gepubliceerd op de bijbehorende bestemmingspagina. Kies een stad om het volledige hotelaanbod, dierenartscontacten, parken en een live Booking.com-kaart te zien.',
     ctaButton: 'Bekijk alle 96 bestemmingen →',
+    feeUnit: '€',
+    freeLabel: 'gratis',
+  },
+  it: {
+    hero: {
+      kicker: 'PET TRAVEL COST INDEX · EDIZIONE 2026',
+      h1: `Abbiamo verificato ${GLOBAL.hotels} hotel pet-friendly in ${GLOBAL.countries} paesi europei`,
+      lede: `Il benchmark dei costi 2026 per viaggiare in Europa con un cane o un gatto, tariffe medie per animali per paese e città, quale percentuale di hotel non fa pagare nulla, e il sorprendente divario di 37 €/notte tra la città europea più economica e quella più cara.`,
+    },
+    intro: {
+      title: 'Perché conta',
+      paras: [
+        `Le tariffe per animali sono la voce più opaca del pricing alberghiero europeo. Booking.com le mostra in modo incoerente, i filtri delle OTA ne perdono la maggior parte, e la variabilità è enorme: un solo weekend a Manchester o Bath può costare più in supplementi animali di 5 notti a Strasburgo o Bruges.`,
+        `Per questa edizione 2026 abbiamo verificato ogni politica sugli animali sulla nostra piattaforma, ${GLOBAL.hotels} hotel pet-friendly verificati in ${GLOBAL.cities} città europee e ${GLOBAL.countries} paesi. La tariffa notturna per animali di ogni hotel è stata estratta direttamente dalla sua scheda Booking.com o dal sito dell'hotel, poi normalizzata in EUR per il confronto.`,
+        `I risultati qui sotto costituiscono il benchmark aperto più completo sui costi dell'ospitalità pet-friendly europea pubblicato quest'anno. Il dataset completo è disponibile nelle nostre pagine di destinazioni e hotel, ogni statistica per città può essere approfondita fino al singolo hotel.`,
+      ],
+    },
+    keyFindings: {
+      title: 'I numeri principali',
+      items: [
+        { stat: `${GLOBAL.avgFee} €`, label: 'tariffa media per animali a notte in Europa' },
+        { stat: `${GLOBAL.pctFree}%`, label: 'degli hotel verificati non applica alcuna tariffa per animali' },
+        { stat: `${GLOBAL.avgRoom} €`, label: 'tariffa media della camera pet-friendly a notte' },
+        { stat: `37 €`, label: 'divario a notte tra la città europea più economica e quella più cara' },
+      ],
+    },
+    methodology: {
+      title: 'Come abbiamo calcolato',
+      paras: [
+        `Abbiamo estratto la tariffa notturna per animali pubblicata per ogni hotel dalla sua politica animali su Booking.com o dal sito ufficiale (dati raccolti tra aprile e maggio 2026). Gli hotel che pubblicano solo "Animali ammessi su richiesta" senza prezzo indicato sono stati esclusi dalla media per non distorcerla.`,
+        `Le tariffe in valute diverse dall'EUR (GBP, CHF, SEK, NOK, DKK, CZK, HUF, PLN, BGN, RON, ISK) sono state convertite in EUR usando il tasso di cambio medio mensile di maggio 2026. Quando un hotel addebita per soggiorno anziché per notte, abbiamo calcolato su una base di 3 notti, la durata media di un viaggio interno nel Regno Unito.`,
+        `Le medie per paese richiedono almeno 5 hotel con prezzo per essere incluse (pubblichiamo il conteggio degli hotel nella tabella). I ${countryRows.length} paesi elencati qui sotto superano tutti questa soglia; altri 7 paesi con copertura minima sono troppo scarsi per essere pubblicati in modo responsabile e sono aggregati con la media regionale.`,
+        `Le classifiche per città richiedono almeno 3 hotel con prezzo. Escludiamo il pricing di un singolo hotel come inaffidabile. Quando più fonti divergevano per lo stesso hotel, abbiamo usato il numero più basso, le cifre qui sotto sono volutamente prudenti.`,
+        `Il nostro dataset grezzo è pubblicato nei file destinations.json e hotels.json del repository che alimenta questo sito, apertamente consultabile su ogni pagina di destinazione. Ci impegniamo a una nuova verifica ogni anno nel secondo trimestre.`,
+      ],
+    },
+    countryTitle: 'Tariffa per animali per paese (dal più economico)',
+    countryIntro: `Svezia, Repubblica Ceca e Belgio guidano la classifica dei soggiorni più economici per animali, oltre il 47% degli hotel verificati non fa pagare nulla. Regno Unito e Balcani (Serbia, Bulgaria) sono in cima alla classifica dei costi, spinti da una cultura delle catene che tratta gli animali come una voce di ricavo esplicita.`,
+    cityCheapTitle: 'Le 10 città europee più economiche per un soggiorno pet-friendly',
+    cityCheapIntro: `Queste sono le città dove aggiungere un cane o un gatto alla prenotazione dell'hotel costa meno. Due città, Göteborg e Losanna, attualmente registrano una media di 0 €: ogni hotel con prezzo nel nostro campione non fa pagare nulla.`,
+    cityExpTitle: 'Le 10 città europee più care per un soggiorno pet-friendly',
+    cityExpIntro: `Manchester, Bath e Belgrado sono i casi più eclatanti: tariffe medie per animali oltre i 33 €/notte, quasi nessun hotel offre soggiorni gratuiti per animali, e i supplementi totali a notte (camera + animale) equivalgono a un biglietto aereo low-cost andata e ritorno.`,
+    cols: { rank: '#', country: 'Paese', city: 'Città', cities: 'Città', hotels: 'Hotel', avgFee: 'Tariffa media', pctFree: '% senza costi', avgRoom: 'Camera media' },
+    takeawayTitle: 'Consigli pratici per il 2026',
+    takeawayParas: [
+      `Se sei flessibile sulla destinazione, prima di prenotare Regno Unito o Balcani valuta il Nord Europa (Svezia, Belgio, Paesi Bassi, Repubblica Ceca). Stessa durata del viaggio, spesso oltre 100 € risparmiati solo sul supplemento animali in un soggiorno di 5 notti.`,
+      `Quando prenoti specificamente nel Regno Unito, dai priorità a Premier Inn, Travelodge e Holiday Inn Express, catene che limitano le tariffe per animali a £10 a soggiorno. I boutique hotel indipendenti britannici applicano di norma £25-35 a notte, cifra che si accumula rapidamente in un weekend lungo.`,
+      `Nelle città mediterranee (Barcellona, Atene, Lisbona, Valencia, Split), oltre il 50% degli hotel pet-friendly non fa pagare nulla, il Mediterraneo europeo è strutturalmente la zona più economica per viaggiare con animali nell'UE. Abbinalo alle spiagge per cani aperte tutto l'anno per il miglior rapporto qualità-prezzo.`,
+      `Riconferma sempre la tariffa animali al momento della prenotazione, Booking.com mostra la politica al momento della ricerca, ma diverse catene applicano un supplemento "secondo animale" che appare solo nell'email di conferma. Prenota una tariffa con cancellazione gratuita così hai margine di manovra se la tariffa post-prenotazione è diversa.`,
+    ],
+    faqTitle: 'Domande frequenti',
+    faqs: [
+      { q: 'Come è stato raccolto il dataset?', a: `Abbiamo registrato tariffe e politiche per animali di ${GLOBAL.hotels} hotel elencati su hotelswithpets.com, attingendo dalle politiche animali di Booking.com e dai siti degli hotel tra aprile e maggio 2026. Ogni voce è stata verificata, dove disponibile, con la politica diretta dell'hotel.` },
+      { q: 'Perché il Regno Unito è così caro?', a: `L'ospitalità britannica tratta le tariffe per animali come una voce di ricavo distinta, non come un servizio di accoglienza. La tariffa media UK (26 €) è più del doppio della media mediterranea (~10 €). Premier Inn e Travelodge sono le eccezioni economiche a £10 a soggiorno; la maggior parte degli indipendenti e delle catene 4-5★ applica £25-35 a notte.` },
+      { q: `Cos'è un hotel "gratuito" per animali?`, a: `Un hotel la cui politica animali pubblicata non indica alcuna tariffa a notte o a soggiorno. Alcuni chiedono ancora una cauzione rimborsabile per i danni o limitano l'animale a certe categorie di camera, li contiamo come "gratuiti" se non viene addebitato nulla al check-in o al check-out.` },
+      { q: 'Questi prezzi sono definitivi?', a: `Sono medie indicative e un riferimento per i costi tipici. Conferma sempre al momento della prenotazione, poiché gli hotel possono cambiare la politica animali stagionalmente e molte catene applicano tetti a soggiorno non visibili nell'interfaccia dei risultati di ricerca.` },
+      { q: 'Con quale frequenza sarà aggiornato questo indice?', a: `Annualmente, nel secondo trimestre (aprile-maggio). L'edizione 2027 è prevista per maggio 2027 e seguirà l'andamento pluriennale delle principali medie nazionali, ci aspettiamo che Svezia e Belgio restino al livello più basso e il Regno Unito al più alto, salvo un cambiamento strutturale di politica.` },
+    ],
+    ctaTitle: 'Sfoglia il dataset completo',
+    ctaDesc: `Ogni tariffa per animali e valutazione dell'hotel in questo indice è pubblicata sulla relativa pagina di destinazione. Scegli una città per vedere l'inventario completo degli hotel, i contatti dei veterinari, i parchi e una mappa Booking.com in diretta.`,
+    ctaButton: 'Vedi tutte le 96 destinazioni →',
     feeUnit: '€',
     freeLabel: 'gratis',
   },

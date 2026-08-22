@@ -24,6 +24,7 @@ const CITY_LABELS: Record<string, Record<string, string>> = {
   pt: { paris: 'Paris', barcelona: 'Barcelona', amsterdam: 'Amesterdão', rome: 'Roma', berlin: 'Berlim', vienna: 'Viena', lisbon: 'Lisboa' },
   de: { paris: 'Paris', barcelona: 'Barcelona', amsterdam: 'Amsterdam', rome: 'Rom', berlin: 'Berlin', vienna: 'Wien', lisbon: 'Lissabon' },
   nl: { paris: 'Parijs', barcelona: 'Barcelona', amsterdam: 'Amsterdam', rome: 'Rome', berlin: 'Berlijn', vienna: 'Wenen', lisbon: 'Lissabon' },
+  it: { paris: 'Parigi', barcelona: 'Barcellona', amsterdam: 'Amsterdam', rome: 'Roma', berlin: 'Berlino', vienna: 'Vienna', lisbon: 'Lisbona' },
 }
 
 const CITY_SLUGS = ['paris', 'barcelona', 'amsterdam', 'rome', 'berlin', 'vienna', 'lisbon'] as const
@@ -181,6 +182,44 @@ const COPY: Record<string, Copy> = {
       },
     ],
   },
+  it: {
+    heading: 'Hotel che accettano i cani: come funziona',
+    intro:
+      'Oltre alle singole schede, ecco il quadro generale per viaggiare con un cane in Europa: come verifichiamo che un hotel accetti davvero i cani, quali costi aspettarti, dove il tuo cane è davvero benvenuto e come arrivarci.',
+    sections: [
+      {
+        heading: 'Come verifichiamo gli hotel che accettano i cani',
+        paragraphs: [
+          `Un'etichetta "animali ammessi" su un sito di prenotazione raramente racconta tutta la storia. Prima che un hotel compaia nelle nostre liste, confrontiamo la sua policy dichiarata con la scheda Booking.com in tempo reale e con le recensioni recenti degli ospiti che menzionano il cane, così il limite di peso, il supplemento e le regole in camera che vedi reggono davvero al check-in.`,
+        ],
+      },
+      {
+        heading: 'Supplementi per animali: cosa aspettarti',
+        paragraphs: [
+          `L'importo varia molto da un hotel all'altro: alcuni applicano una tariffa fissa di pulizia a soggiorno, altri un piccolo importo a notte, e sempre più hotel lasciano soggiornare il tuo cane completamente gratis. Non esiste uno standard, ed è proprio per questo che indichiamo la cifra esatta su ogni scheda hotel invece di una fascia vaga.`,
+          `Se il budget conta, conviene filtrare gli hotel per categoria oltre che per città, e vedere quali destinazioni offrono più opzioni dove il cane soggiorna gratis: Amsterdam è un ottimo esempio.`,
+        ],
+      },
+      {
+        heading: 'Le migliori città europee per viaggiare con un cane',
+        paragraphs: [
+          `Alcune città rendono la vita con il cane più facile: parchi ampi, caffè e terrazze che li accettano, e hotel abituati agli ospiti a quattro zampe. Parigi, Barcellona e Amsterdam offrono costantemente la scelta più ampia, mentre Roma, Berlino, Vienna e Lisbona portano ciascuna il proprio mix di spazi verdi e trasporti pet-friendly.`,
+        ],
+      },
+      {
+        heading: 'Spiagge per cani, parchi e aree senza guinzaglio',
+        paragraphs: [
+          `Una camera d'albergo è solo metà del viaggio. La maggior parte delle nostre guide di destinazione rimanda a parchi recintati nelle vicinanze, e l'Europa ha un numero crescente di vere spiagge per cani dove il tuo cane può nuotare senza guinzaglio.`,
+        ],
+      },
+      {
+        heading: 'Viaggiare con il tuo cane: trasporti e documenti',
+        paragraphs: [
+          `Arrivare al tuo hotel è un capitolo a parte: i treni europei generalmente accettano i cani ma le regole su taglia, museruola e biglietti cambiano da paese a paese e da operatore a operatore, e attraversare un confine richiede i documenti giusti, non solo il microchip.`,
+        ],
+      },
+    ],
+  },
   de: {
     heading: 'Hundefreundliche Hotels: so funktioniert es',
     intro:
@@ -270,6 +309,7 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
     pt: 'página Sobre nós',
     de: 'Über-uns-Seite',
     nl: 'over-onspagina',
+    it: 'pagina Chi siamo',
   }
   const guideLabel: Record<string, string> = {
     en: 'European pet-friendly hotel guide',
@@ -278,6 +318,7 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
     pt: 'guia de hotéis pet-friendly na Europa',
     de: 'Reiseführer für haustierfreundliche Hotels in Europa',
     nl: 'Europese reisgids voor huisdiervriendelijke hotels',
+    it: 'guida agli hotel pet-friendly in Europa',
   }
   const categoriesLabel: Record<string, string> = {
     en: 'browsing by category',
@@ -286,6 +327,7 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
     pt: 'explorar por categoria',
     de: 'nach Kategorie',
     nl: 'filteren op categorie',
+    it: 'filtrare per categoria',
   }
   const dogsStayFreeLabel: Record<string, string> = {
     en: 'dogs-stay-free hotels in Amsterdam',
@@ -294,6 +336,7 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
     pt: 'hotéis onde o cão não paga em Amesterdão',
     de: 'Hotels in Amsterdam, in denen Hunde gratis übernachten',
     nl: 'hotels in Amsterdam waar je hond gratis logeert',
+    it: 'hotel ad Amsterdam dove il cane soggiorna gratis',
   }
   const destinationsLabel: Record<string, string> = {
     en: 'all destinations',
@@ -302,6 +345,7 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
     pt: 'todos os destinos',
     de: 'alle Reiseziele',
     nl: 'alle bestemmingen',
+    it: 'tutte le destinazioni',
   }
   const dogParksLabel: Record<string, string> = {
     en: 'our dog parks directory',
@@ -310,6 +354,7 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
     pt: 'o nosso diretório de parques para cães',
     de: 'unserem Verzeichnis der Hundeparks',
     nl: 'onze lijst met hondenparken',
+    it: 'la nostra guida ai parchi per cani',
   }
   const dogBeachesLabel: Record<string, string> = {
     en: 'best dog beaches in Europe',
@@ -318,6 +363,7 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
     pt: 'melhores praias para cães na Europa',
     de: 'echten Hundestränden in Europa',
     nl: 'echte hondenstranden in Europa',
+    it: 'le migliori spiagge per cani in Europa',
   }
   const fencedParksLabel: Record<string, string> = {
     en: 'fenced dog parks across Europe',
@@ -326,6 +372,7 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
     pt: 'parques vedados para cães na Europa',
     de: 'eingezäunte Hundeausläufe in Europa',
     nl: 'omheinde hondenlosloopgebieden in Europa',
+    it: 'parchi recintati per cani in Europa',
   }
   const trainLabel: Record<string, string> = {
     en: 'travelling by train with a dog',
@@ -334,6 +381,7 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
     pt: 'viajar de comboio com o seu cão',
     de: 'das Reisen mit Hund im Zug',
     nl: 'treinreizen met je hond',
+    it: 'viaggiare in treno con il cane',
   }
   const passportLabel: Record<string, string> = {
     en: 'the EU pet passport',
@@ -342,6 +390,7 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
     pt: 'o passaporte para animais',
     de: 'den EU-Heimtierausweis',
     nl: 'het EU-dierenpaspoort',
+    it: 'il passaporto europeo per animali',
   }
 
   return (
@@ -398,6 +447,13 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
                   <Link href={`/${locale}/guides/pet-friendly-hotels-europe-guide`} className={linkCls}>{guideLabel.nl}</Link>.
                 </>
               )}
+              {locale === 'it' && (
+                <>
+                  Il nostro processo completo di verifica, incluso cosa facciamo quando la policy di un hotel non è chiara, è sulla nostra{' '}
+                  <Link href={`/${locale}/about`} className={linkCls}>{aboutLabel.it}</Link>, insieme alla nostra{' '}
+                  <Link href={`/${locale}/guides/pet-friendly-hotels-europe-guide`} className={linkCls}>{guideLabel.it}</Link>.
+                </>
+              )}
             </p>
           </div>
 
@@ -448,6 +504,13 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
                   <Link href={`/${locale}/amsterdam/dogs-stay-free`} className={linkCls}>{dogsStayFreeLabel.nl}</Link>, een van de sterkste voorbeelden die we bijhouden.
                 </>
               )}
+              {locale === 'it' && (
+                <>
+                  Se il budget conta, conviene{' '}
+                  <Link href={`/${locale}/categories`} className={linkCls}>{categoriesLabel.it}</Link> oltre che per città, e dare un'occhiata agli{' '}
+                  <Link href={`/${locale}/amsterdam/dogs-stay-free`} className={linkCls}>{dogsStayFreeLabel.it}</Link>, uno degli esempi più forti che monitoriamo.
+                </>
+              )}
             </p>
           </div>
 
@@ -462,6 +525,7 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
               {locale === 'pt' && 'Explore cada cidade, ou consulte '}
               {locale === 'de' && 'Entdecken Sie jede Stadt, oder durchstöbern Sie '}
               {locale === 'nl' && 'Ontdek elke stad, of blader door '}
+              {locale === 'it' && 'Scopri ogni città, oppure sfoglia '}
               <Link href={`/${locale}/destinations`} className={linkCls}>{destinationsLabel[locale]}</Link>.
             </p>
             <div className="flex flex-wrap gap-2">
@@ -529,6 +593,14 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
                   <Link href={`/${locale}/guides/fenced-dog-parks-europe`} className={linkCls}>{fencedParksLabel.nl}</Link> voor veilig loslopen.
                 </>
               )}
+              {locale === 'it' && (
+                <>
+                  Una camera d'albergo è solo metà del viaggio. La maggior parte delle nostre guide di destinazione rimanda alla{' '}
+                  <Link href={`/${locale}/dog-parks`} className={linkCls}>{dogParksLabel.it}</Link>, e l'Europa conta sempre più{' '}
+                  <Link href={`/${locale}/guides/best-dog-beaches-europe-2026`} className={linkCls}>{dogBeachesLabel.it}</Link> dove il tuo cane può nuotare senza guinzaglio, oltre a{' '}
+                  <Link href={`/${locale}/guides/fenced-dog-parks-europe`} className={linkCls}>{fencedParksLabel.it}</Link> per uscite in libertà in sicurezza.
+                </>
+              )}
             </p>
           </div>
 
@@ -576,6 +648,13 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
                   Bij je hotel komen is al een project op zich. Lees meer over{' '}
                   <Link href={`/${locale}/guides/train-avec-chien`} className={linkCls}>{trainLabel.nl}</Link> in Europa, waar de regels rond formaat, muilkorven en tickets per land verschillen, en over{' '}
                   <Link href={`/${locale}/guides/passeport-animal`} className={linkCls}>{passportLabel.nl}</Link> voordat je een grens oversteekt.
+                </>
+              )}
+              {locale === 'it' && (
+                <>
+                  Arrivare al tuo hotel è un capitolo a parte. Leggi di più su come{' '}
+                  <Link href={`/${locale}/guides/train-avec-chien`} className={linkCls}>{trainLabel.it}</Link> in Europa, dove le regole su taglia, museruola e biglietto cambiano da paese a paese, e su{' '}
+                  <Link href={`/${locale}/guides/passeport-animal`} className={linkCls}>{passportLabel.it}</Link> prima di attraversare un confine.
                 </>
               )}
             </p>

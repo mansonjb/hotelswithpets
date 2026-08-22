@@ -22,6 +22,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: 'Costa mediterrânea com tu cão: Niza → Génova → Florencia → Roma (itinerario 10 dias)',
     de: 'Mittelmeerküste mit Ihrem Hund: Nizza → Genua → Florenz → Rom (10-Tage-Reiseroute)',
     nl: 'Middellandse Zeekust met je hond: Nice → Genua → Florence → Rome (10-daagse reisroute)',
+    it: 'Costa mediterranea con il tuo cane: Nizza → Genova → Firenze → Roma (itinerario di 10 giorni)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 10-day Mediterranean train itinerary with your dog along the French and Italian coast. Pet-friendly hotels, live Booking.com maps, summer beach rules and emergency vets in each city.',
@@ -30,6 +31,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: 'Itinerario mediterrâneo de 10 dias de comboio com tu cão pela costa francesa e italiana. Hotéis que admiten animais, mapas Booking.com en vivo, normas de praia estivales e veterinários de urgências.',
     de: 'Eine 10-tägige Bahnreise entlang der Mittelmeerküste mit Ihrem Hund an der französischen und italienischen Küste. Haustierfreundliche Hotels, Live-Karten von Booking.com, Sommer-Strandregeln und Notfall-Tierärzte in jeder Stadt.',
     nl: 'Een treinreis van 10 dagen langs de Middellandse Zeekust met je hond, van de Franse tot de Italiaanse kust. Hondvriendelijke hotels, live kaarten van Booking.com, zomerse strandregels en spoedeisende dierenartsen in elke stad.',
+    it: 'Un itinerario mediterraneo di 10 giorni in treno con il tuo cane lungo la costa francese e italiana. Hotel pet-friendly, mappe live di Booking.com, regole estive per le spiagge e veterinari di emergenza in ogni città.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -322,6 +324,50 @@ const COPY: Record<string, RouteCopy> = {
       { q: 'Kan ik Napels of de Amalfikust toevoegen?', a: 'Ja, Frecciarossa Rome → Napels duurt 1u10 en is hondvriendelijk. De SITA-bussen van de Amalfikust accepteren honden aan de lijn. De meeste kustplaatsjes hebben zomerse strandbeperkingen.' },
     ],
   },
+  it: {
+    hero: { tagline: 'ROTTA MEDITERRANEA · 10 GIORNI · CON IL TUO CANE', title: 'Un viaggio in treno lungo la costa mediterranea con il tuo cane', subtitle: 'Nizza, Genova, Firenze, Roma, quattro città iconiche sulla Riviera francese e italiana, collegate da treni diretti. Hotel pet-friendly, spiagge per cani e la mappa live di Booking.com per ogni tappa.' },
+    why: { title: 'Perché questa rotta mediterranea funziona con il cane', bullets: [
+      'Treni diretti Thello / Trenitalia per tutto il tragitto, il tuo cane viaggia accanto a te, non in stiva.',
+      'Tutte e quattro le città hanno spiagge pet-friendly ufficiali o punti balneabili per cani entro 30 minuti.',
+      'La legge italiana ammette i cani nei ristoranti di default, mangiare in terrazza è la norma ovunque.',
+      'Nessuna burocrazia alle frontiere Schengen, basta un passaporto europeo per animali con vaccinazione antirabbica valida.',
+      `Evita luglio-agosto: il marciapiede arriva a 55 °C e la maggior parte delle spiagge vieta i cani dal 15 maggio al 30 settembre. Maggio, giugno, settembre, ottobre sono ideali.`,
+    ] },
+    stats: { duration: 'Durata', cities: 'Città', transport: 'Trasporto', budget: 'Budget', durationVal: '10 giorni', citiesVal: '4 città', transportVal: 'Treno (Thello / Trenitalia / Frecciarossa)', budgetVal: '1.000 €–2.200 €' },
+    citiesIntro: { kicker: 'CITTÀ PER CITTÀ', title: 'Le tue tappe, i tuoi hotel, la tua mappa' },
+    cities: {
+      nice: { days: 'Giorni 1–3', intro: `Inizia sulla Costa Azzurra. Nizza è una delle grandi città francesi più pet-friendly: il tram T1 accetta cani gratis, i 7 km della Promenade des Anglais si percorrono interamente al guinzaglio, e tre spiagge per cani ufficiali (Carras, Magnan, Lenval) sono aperte tutto l'anno. I vicoli acciottolati della Città Vecchia e il mercato di Cours Saleya accolgono cani al guinzaglio. Attenzione: le spiagge di ciottoli di Nizza sono dure per le zampe, gli stivaletti aiutano.`, highlight: 'Da non perdere con il tuo cane: alba sulla Promenade des Anglais', highlightDesc: `Percorri i 7 km interi dal lato aeroporto fino al Quai des États-Unis all'ora dorata, poi fai una sosta in qualsiasi terrazza caffè di Vieux-Nice. La maggior parte accetta cani al guinzaglio e porta la ciotola d'acqua senza chiedere.` },
+      genoa: { days: 'Giorni 4–5', intro: `Tre ore di treno Thello lungo la costa della Riviera italiana. Genova è la città italiana pet-friendly più sottovalutata: un labirintico centro storico medievale (il più grande d'Europa), la Spianata Castelletto con vista panoramica, e treni diretti verso località con spiaggia per cani come Bogliasco e Camogli. I vicoli stretti del centro storico (i caruggi) rendono il camminare senza auto la norma, perfetto con un cane.`, highlight: 'Da non perdere con il tuo cane: una gita di un giorno alle Cinque Terre', highlightDesc: `Trenitalia da Genova-Brignole arriva a Monterosso in 1h20, i cani al guinzaglio viaggiano a metà prezzo. I cinque borghi hanno passeggiate sul lungomare aperte ai cani (fuori stagione; i divieti estivi si applicano dal 15 maggio al 30 settembre).` },
+      florence: { days: 'Giorni 6–8', intro: `Frecciarossa diretto da Genova-Piazza-Principe (3h, biglietto cane ~20 €). Firenze è abbastanza piccola da girarla interamente a piedi con un cane, e la cultura del caffè italiana ti permette di mangiare ovunque, persino i ristoranti stellati accettano cani al guinzaglio in terrazza. Il parco delle Cascine (160 ha lungo l'Arno) ha zone senza guinzaglio; i Giardini di Boboli accettano cani al guinzaglio con il biglietto normale. Evita gli Uffizi e l'Accademia (niente animali).`, highlight: 'Da non perdere con il tuo cane: Piazzale Michelangelo al tramonto', highlightDesc: `Sali da Ponte alle Grazie (il percorso pet-friendly via Costa San Giorgio richiede 25 min) per la vista da cartolina del Duomo. La terrazza resta fresca fino a tardi e i cani corrono sui prati appena sotto il parapetto.` },
+      rome: { days: 'Giorni 9–10', intro: `Frecciarossa da Firenze in 1h30 (la tratta più veloce). Roma è enorme e faticosa in piena estate, ma primavera e autunno sono spettacolari: la Villa Borghese (80 ha) e l'Appia Antica (3.500 ha di strade romane) sono adatte ai cani al guinzaglio. La maggior parte delle trattorie e dei caffè accetta cani ai tavoli all'aperto. La metro richiede guinzaglio e museruola; i tram sono più semplici per i cani ansiosi.`, highlight: `Da non perdere con il tuo cane: l'Appia Antica di domenica`, highlightDesc: `La domenica, i primi 5 km dell'antica via romana sono chiusi al traffico. Noleggia una e-bike pet-friendly al Bar Caffè dell'Appia e percorri 10 km tra pini marittimi, rovine e pecore al pascolo. Ai cani piace moltissimo.` },
+    },
+    hotelsLabel: 'Hotel pet-friendly consigliati',
+    bookLabel: 'Prenota su Booking.com',
+    detailsLabel: 'Dettagli',
+    mapLabel: 'Mappa live, tutti gli hotel pet-friendly',
+    legsTitle: 'Trasporti tra le città',
+    legs: [
+      { from: 'Nizza', to: 'Genova', duration: '~3h', service: 'Thello / Trenitalia regionale (diretto, panoramico costiero)', petRule: 'Cani piccoli nel trasportino gratis, cani più grandi necessitano di un biglietto a metà prezzo. Guinzaglio + museruola obbligatori.' },
+      { from: 'Genova', to: 'Firenze', duration: '~3h', service: 'Frecciarossa / Frecciargento (diretto)', petRule: 'Cani piccoli gratis. I cani più grandi necessitano di un biglietto animale Frecciarossa (~20–25 €). Prenotabile online.' },
+      { from: 'Firenze', to: 'Roma', duration: '~1h30', service: 'Frecciarossa (diretto, ogni 30 min)', petRule: `Stesse regole Trenitalia. Il Frecciarossa è l'opzione più veloce e silenziosa.` },
+    ],
+    practicalTitle: 'Prima di partire: documenti, vaccini, contatti veterinari',
+    practicalBullets: [
+      'Passaporto europeo per animali con vaccinazione antirabbica valida (21+ giorni, meno di 12 mesi per il richiamo annuale standard).',
+      'Microchip ISO 11784/11785, obbligatorio e deve corrispondere al numero del passaporto.',
+      'NESSUN trattamento antiparassitario per la tenia richiesto (solo per UK / Irlanda / Finlandia / Norvegia / Malta).',
+      `La legge italiana (Legge 281/1991) ammette i cani in ristoranti e negozi per default. Un cartello "vietato l'ingresso ai cani" significa no, ovunque altro va bene.`,
+      'Salva i veterinari 24/7: Nizza (CHV des Cordeliers Nice, +33 4 93 80 26 90), Genova (Clinica Veterinaria San Giorgio, +39 010 8602004), Firenze (Clinica Veterinaria Valdinievole, +39 0573 794500), Roma (Clinica Veterinaria Roma Sud, +39 06 7842277).',
+    ],
+    faqTitle: 'Domande frequenti',
+    faqs: [
+      { q: 'Il mio cane può fare il bagno in spiaggia?', a: `In Italia, la maggior parte delle spiagge vieta i cani dal 15 maggio al 30 settembre salvo le "Spiagge Cani" ufficiali. Nizza ha 3 spiagge per cani aperte tutto l'anno. La costa ligure intorno a Genova ne ha diverse. Firenze e Roma sono nell'entroterra, vedi le info pratiche per le opzioni più vicine.` },
+      { q: 'Quanto costa il viaggio?', a: `Metti in conto 1.000–2.200 € a seconda della categoria d'hotel. I biglietti del treno totalizzano ~350–550 € per 2 adulti + 1 cane se prenotati 4–6 settimane prima. Il supplemento cane va da 0 a 50 € per tappa.` },
+      { q: 'Qual è il periodo migliore per partire?', a: `Maggio, giugno, settembre e inizio ottobre sono ideali: 18–26 °C, nessun problema di divieto spiaggia fuori dall'alta stagione, e piena disponibilità negli hotel. Luglio-agosto sono difficili con un cane (caldo + restrizioni sulle spiagge).` },
+      { q: 'La metro è pet-friendly?', a: 'Firenze non ha la metro. Il tram T1 di Nizza è il più pet-friendly. Le metro di Genova e Roma richiedono guinzaglio + museruola per cani medi/grandi. Porta una museruola morbida.' },
+      { q: 'Posso aggiungere Napoli o la Costiera Amalfitana?', a: 'Sì, il Frecciarossa Roma → Napoli impiega 1h10 ed è pet-friendly. I bus SITA della Costiera Amalfitana accettano cani al guinzaglio. La maggior parte delle località costiere ha restrizioni estive.' },
+    ],
+  },
 }
 
 function buildSticky(locale: string): StickyConfig {
@@ -334,8 +380,9 @@ function buildSticky(locale: string): StickyConfig {
     pt: `Hotéis pet-friendly costa mediterrânica`,
     de: 'Haustierfreundliche Hotels Mittelmeerküste',
     nl: 'Hondvriendelijke hotels Middellandse Zeekust',
+    it: 'Hotel pet-friendly costa mediterranea',
   }
-  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen', nl: 'Bekijken' }
+  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen', nl: 'Bekijken', it: 'Vedi' }
   return { href, label: labels[locale] ?? labels.en, cta: ctas[locale] ?? ctas.en }
 }
 

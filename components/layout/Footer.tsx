@@ -43,15 +43,15 @@ export default function Footer({ locale, dict }: FooterProps) {
             <ul className="space-y-2 text-sm">
               <li><Link href={`/${locale}/destinations`} className="hover:text-white transition-colors">{footer.destinations}</Link></li>
               <li><Link href={`/${locale}/categories`} className="hover:text-white transition-colors">{footer.categories}</Link></li>
-              <li><Link href={`/${locale}/dog-parks`} className="hover:text-white transition-colors">{locale === 'fr' ? 'Parcs canins' : locale === 'es' ? 'Parques para perros' : locale === 'pt' ? 'Parques para cães' : locale === 'nl' ? 'Hondenparken' : locale === 'de' ? 'Hundeparks' : 'Dog parks'}</Link></li>
-              <li><Link href={`/${locale}/countries`} className="hover:text-white transition-colors">{locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : locale === 'pt' ? 'Por país' : locale === 'nl' ? 'Per land' : locale === 'de' ? 'Nach Land' : 'By country'}</Link></li>
+              <li><Link href={`/${locale}/dog-parks`} className="hover:text-white transition-colors">{locale === 'fr' ? 'Parcs canins' : locale === 'es' ? 'Parques para perros' : locale === 'pt' ? 'Parques para cães' : locale === 'nl' ? 'Hondenparken' : locale === 'de' ? 'Hundeparks' : locale === 'it' ? 'Parchi per cani' : 'Dog parks'}</Link></li>
+              <li><Link href={`/${locale}/countries`} className="hover:text-white transition-colors">{locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : locale === 'pt' ? 'Por país' : locale === 'nl' ? 'Per land' : locale === 'de' ? 'Nach Land' : locale === 'it' ? 'Per paese' : 'By country'}</Link></li>
             </ul>
           </div>
 
           {/* Popular Destinations */}
           <div>
             <h3 className="text-white font-semibold mb-4">
-              {locale === 'fr' ? 'Populaires' : locale === 'es' ? 'Populares' : locale === 'pt' ? 'Populares' : locale === 'nl' ? 'Populair' : locale === 'de' ? 'Beliebt' : 'Popular'}
+              {locale === 'fr' ? 'Populaires' : locale === 'es' ? 'Populares' : locale === 'pt' ? 'Populares' : locale === 'nl' ? 'Populair' : locale === 'de' ? 'Beliebt' : locale === 'it' ? 'Popolari' : 'Popular'}
             </h3>
             <ul className="space-y-2 text-sm">
               {[
@@ -85,7 +85,7 @@ export default function Footer({ locale, dict }: FooterProps) {
         {/* Country links */}
         <div className="border-t border-gray-800 mt-10 pt-8">
           <p className="text-xs text-gray-500 uppercase tracking-wide mb-3">
-            {locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : locale === 'pt' ? 'Por país' : locale === 'nl' ? 'Per land' : locale === 'de' ? 'Nach Land' : 'By country'}
+            {locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : locale === 'pt' ? 'Por país' : locale === 'nl' ? 'Per land' : locale === 'de' ? 'Nach Land' : locale === 'it' ? 'Per paese' : 'By country'}
           </p>
           <div className="flex flex-wrap gap-x-4 gap-y-1">
             {[
@@ -121,7 +121,7 @@ export default function Footer({ locale, dict }: FooterProps) {
         {/* Popular guides */}
         <div className="border-t border-gray-800 mt-6 pt-6">
           <p className="text-xs text-gray-500 uppercase tracking-wide mb-3">
-            {locale === 'fr' ? 'Guides populaires' : locale === 'es' ? 'Guías populares' : locale === 'pt' ? 'Guias populares' : locale === 'nl' ? 'Populaire gidsen' : locale === 'de' ? 'Beliebte Reiseführer' : 'Popular guides'}
+            {locale === 'fr' ? 'Guides populaires' : locale === 'es' ? 'Guías populares' : locale === 'pt' ? 'Guias populares' : locale === 'nl' ? 'Populaire gidsen' : locale === 'de' ? 'Beliebte Reiseführer' : locale === 'it' ? 'Guide popolari' : 'Popular guides'}
           </p>
           <div className="flex flex-wrap gap-x-5 gap-y-1">
             {[

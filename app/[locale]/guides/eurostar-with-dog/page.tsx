@@ -14,6 +14,7 @@ const STAY_TITLES_EUROSTAR: Record<string, string> = {
   pt: `Onde dormir: hotéis pet-friendly em cada rota Eurostar`,
   de: 'Übernachten: haustierfreundliche Hotels an jeder Eurostar-Strecke',
   nl: 'Waar te overnachten: huisdiervriendelijke hotels op elke Eurostar-route',
+  it: 'Dove dormire: hotel pet-friendly su ogni rotta Eurostar',
 }
 
 const STICKY_LABELS_EUROSTAR: Record<string, { label: string; cta: string }> = {
@@ -23,6 +24,7 @@ const STICKY_LABELS_EUROSTAR: Record<string, { label: string; cta: string }> = {
   pt: { label: 'Hotéis pet-friendly em Londres e Paris', cta: 'Ver hotéis' },
   de: { label: 'Haustierfreundliche Hotels in London und Paris', cta: 'Hotels ansehen' },
   nl: { label: 'Huisdiervriendelijke hotels in Londen en Parijs', cta: 'Bekijk hotels' },
+  it: { label: 'Hotel pet-friendly a Londra e Parigi', cta: 'Vedi gli hotel' },
 }
 
 const SLUG = 'eurostar-with-dog'
@@ -457,6 +459,68 @@ const COPY: Record<string, Copy> = {
     ctaButton: 'Bekijk huisdiervriendelijke hotels →',
     ctaHref: '/nl/destinations',
     relatedTitle: 'Gerelateerde praktische gidsen',
+  },
+  it: {
+    hero: {
+      kicker: 'DOMANDE E RISPOSTE VIAGGI CON ANIMALI · AGGIORNATO 2026',
+      h1: `Posso portare il mio cane sull'Eurostar?`,
+      tldr: `Risposta breve: no, l'Eurostar accetta solo cani di assistenza registrati. Cani e gatti da compagnia non sono ammessi in nessuna classe, nemmeno in Premier e Business Premier. La buona notizia: esistono tre alternative affidabili e a misura di cane tra Londra e l'Europa continentale, e te le spieghiamo una per una.`,
+    },
+    sections: [
+      { id: 'why', h2: `Perché l'Eurostar non ammette animali?`, paras: [
+        `La restrizione è una regola di sicurezza e igiene del tunnel della Manica, non una scelta commerciale. In base all'accordo bilaterale che regola il tunnel, gli unici animali autorizzati ad attraversarlo con il treno passeggeri sono i cani di assistenza registrati e gli animali trasportati tramite il servizio veicoli di Eurotunnel (Le Shuttle).`,
+        `Questa regola è in vigore dall'apertura del tunnel nel 1994 e non è cambiata con nessuno dei passaggi di proprietà dell'Eurostar. La Brexit non l'ha toccata; nemmeno la prossima concorrenza di nuovi operatori ferroviari transmanica la cambierà, perché il vincolo deriva dalla concessione del tunnel stesso.`,
+        `Il personale Eurostar non può concedere eccezioni nemmeno per gli animali di supporto emotivo, la legge ferroviaria UK e UE li considera animali da compagnia, non animali di assistenza. Possono viaggiare solo cani di assistenza certificati (cani guida, cani per non udenti, cani da allerta medica) registrati presso un'organizzazione membro di Assistance Dogs International.`,
+      ] },
+      { id: 'shuttle', h2: 'Alternativa #1, Le Shuttle (tunnel della Manica in auto)', paras: [
+        `Le Shuttle (gestito da Eurotunnel/Getlink) è l'opzione più popolare e affidabile per chi viaggia con animali. Sali con la tua auto direttamente su un vagone, e il tuo animale resta con te nel veicolo per i 35 minuti di attraversamento, niente stiva, niente separazione, niente stress.`,
+        `Il supplemento animale è di 22 £ / 27 € per animale, a tratta. Nessuna restrizione di taglia o razza (le razze pericolose vietate dalla legge UK non possono comunque entrare nel Regno Unito). Fino a 5 animali per veicolo. La prenotazione avviene nel normale passaggio di prenotazione Le Shuttle.`,
+        `Consiglio pratico: gli animali devono restare dentro il veicolo durante l'attraversamento. Tu resti con loro. C'è un'area dedicata alle passeggiate per cani sia al terminal di Folkestone sia a quello di Calais, usala prima e dopo l'attraversamento per i bisogni.`,
+      ] },
+      { id: 'ferries', h2: 'Alternativa #2, traghetti attraverso la Manica (Dover-Calais, Portsmouth-Caen, ecc.)', paras: [
+        `P&O Ferries, DFDS e Brittany Ferries gestiscono le principali rotte di traghetti tra il Regno Unito e Francia/Spagna/Paesi Bassi. Gli animali sono accettati su ogni rotta, generalmente per 20-40 £ a tratta (il prezzo varia in base all'operatore e alla rotta).`,
+        `La maggior parte dei traghetti richiede che gli animali restino nel veicolo sui ponti auto durante la traversata, i proprietari di solito li controllano a metà traversata (annunci indicano quando è consentito). Sulle rotte notturne più lunghe (Portsmouth-Bilbao, Hull-Rotterdam), alcune navi offrono "cabine pet-friendly" con accesso diretto, prenotale con largo anticipo.`,
+        `Se viaggi come passeggero a piedi (senza auto), solo alcune rotte accettano animali: Brittany Ferries Plymouth-Roscoff permette ai passeggeri a piedi con animali un'area canile dedicata. La maggior parte delle altre linee richiede un veicolo.`,
+      ] },
+      { id: 'flights', h2: 'Alternativa #3, voli brevi (Londra-Parigi, Londra-Bruxelles, Londra-Amsterdam)', paras: [
+        `British Airways, Air France e KLM accettano cani in cabina (sotto gli 8 kg in trasportino) sulle rotte da/per London City e Heathrow. I cani più grandi viaggiano come merce conforme IATA (stiva climatizzata).`,
+        `Tariffa cabina: tipicamente 100-150 £ per animale, a tratta. Stiva: 300-500 £ a tratta per cani di taglia media, di più per le razze grandi. Le razze brachicefale (Bulldog, Carlini, gatti Persiani) sono vietate dalla maggior parte delle compagnie sulle rotte estive e su quelle con scali brevi.`,
+        `In pratica, i voli sono più lenti di Le Shuttle una volta considerate le 2 ore di check-in, sicurezza, immigrazione e ritiro bagagli. Il tunnel è più veloce porta a porta sulla tratta Londra-Parigi/Bruxelles/Amsterdam, e molto meno stressante per il cane.`,
+      ] },
+      { id: 'recommendation', h2: 'La nostra raccomandazione pratica', paras: [
+        `Per il 95% dei viaggiatori tra il Regno Unito e l'Europa continentale, Le Shuttle è la scelta giusta: supplemento animale più economico, attraversamento più rapido, il cane resta con te per tutto il tempo, nessuna separazione. Prenota una traversata diurna e sii al terminal 30 minuti prima della partenza.`,
+        `I traghetti sono un'alternativa valida se non vuoi guidare fino a Folkestone (ad esempio venendo dallo Yorkshire, dalla Scozia o dal Galles) o se vuoi prolungare il viaggio con un traghetto verso Spagna/Paesi Bassi invece di attraversare la Francia in auto.`,
+        `I voli hanno senso solo per cani molto piccoli in cabina su rotte a lunga distanza (Londra-Madrid, Londra-Roma) dove Le Shuttle significherebbe due giorni di guida. Per tutto ciò che rientra nella portata di Le Shuttle, il tunnel vince su ogni fronte.`,
+      ] },
+    ],
+    table: {
+      caption: 'Opzioni transmanica per viaggiare con un cane (prezzi 2026)',
+      head: ['Opzione', 'Tariffa animale (a tratta)', 'Durata', 'Cane con te?', 'Limite di taglia', 'Anticipo di prenotazione'],
+      rows: [
+        ['Le Shuttle (tunnel della Manica)', '22 £ / 27 €', '35 min', 'Sì, in auto', 'Nessuno (salvo BSL UK)', '24h'],
+        ['P&O Dover-Calais', '24 £', '90 min', 'Nel veicolo (ponti auto chiusi)', 'Nessuno', '48h'],
+        ['DFDS Dover-Dunkerque', '20 £', '2h', 'Nel veicolo', 'Nessuno', '48h'],
+        ['Brittany Ferries Portsmouth-Caen', '35 £', '6h', 'Nel veicolo o cabina animali', 'Nessuno', '7 giorni'],
+        ['British Airways cabina (<8 kg)', '150 £', '1h volo + 4h transito', 'In trasportino sotto il sedile', '8 kg trasportino incluso', '7 giorni'],
+        ['British Airways stiva (>8 kg)', '350 £+', '1h volo + 5h transito', 'In stiva (climatizzata)', 'Nessun limite massimo', '14 giorni'],
+        ['Eurostar', ',', ',', 'NON AMMESSO', 'Solo cani di assistenza', ','],
+      ],
+    },
+    faqTitle: 'Domande frequenti',
+    faqs: [
+      { q: `Gli animali di supporto emotivo sono ammessi sull'Eurostar?`, a: `No. L'Eurostar segue la legge ferroviaria UK e UE, che classifica gli animali di supporto emotivo come animali da compagnia, non come animali di assistenza. Sono ammessi solo cani di assistenza certificati (guida, per non udenti, allerta medica), e la certificazione deve provenire da un'organizzazione membro di Assistance Dogs International.` },
+      { q: 'E i biglietti Eurostar Snap (last minute economici)?', a: 'Stesse regole valgono per tutte le classi, Standard, Standard Premier, Business Premier e Snap. Nessuna classe Eurostar accetta animali.' },
+      { q: 'Posso portare un cane piccolo in trasportino come bagaglio a mano?', a: `No. L'Eurostar non ammette cani o gatti da compagnia nemmeno in trasportino chiuso. Nemmeno criceti, conigli e altri piccoli mammiferi sono ammessi, a meno che non siano animali di assistenza registrati.` },
+      { q: 'La regola per gli animali tra Londra e Parigi cambierà in futuro?', a: `Improbabile nel breve termine. La regola è fissata dalla concessione del tunnel della Manica, non dall'Eurostar. I nuovi operatori ferroviari attesi dal 2026-2027 (Evolyn, FS) affronteranno la stessa restrizione. Il trasporto di animali sul treno passeggeri attraverso il tunnel richiederebbe una rinegoziazione della concessione.` },
+      { q: 'Quanto dura Le Shuttle, sono davvero 35 minuti?', a: `Sì, l'attraversamento ferroviario vero e proprio dura 35 minuti dalla partenza del treno. Aggiungi 30-45 minuti al terminal UK per imbarco e controllo di sicurezza, e un tempo simile sul lato francese. L'esperienza totale da terminal a terminal è di circa 90 minuti.` },
+      { q: 'Servono documenti per il mio cane su Le Shuttle?', a: `Sì. Per entrare nel Regno Unito dall'UE serve un Animal Health Certificate (AHC, valido 10 giorni) più un trattamento antiparassitario obbligatorio contro la tenia effettuato da un veterinario tra 24h e 5 giorni prima dell'arrivo nel Regno Unito. Per entrare nell'UE dal Regno Unito serve un passaporto europeo per animali o un AHC UE, più vaccino antirabbico valido da almeno 21 giorni.` },
+      { q: 'Posso viaggiare da Londra ad Amsterdam con il mio cane senza guidare?', a: `Sì, prendi il traghetto transmanica per Hoek van Holland (Stena Line, Harwich-Hoek van Holland, 7h notturno) e continua con le ferrovie olandesi (NS), che accettano cani al guinzaglio per 3,20 € al giorno. Oppure vola con KLM in cabina/stiva. Non esiste un'opzione ferroviaria diretta con animali.` },
+    ],
+    ctaTitle: `Stai pianificando un viaggio da Londra all'Europa con il tuo cane?`,
+    ctaDesc: `Sfoglia i nostri hotel pet-friendly a Parigi, Bruxelles, Amsterdam e Berlino, tutti raggiungibili da Londra con Le Shuttle in meno di 8 ore di guida.`,
+    ctaButton: 'Vedi gli hotel pet-friendly →',
+    ctaHref: '/it/destinations',
+    relatedTitle: 'Guide pratiche correlate',
   },
 }
 

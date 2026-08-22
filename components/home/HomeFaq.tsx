@@ -181,6 +181,34 @@ const COPY: Record<string, Copy> = {
     ],
     citiesLabel: 'Populaire hondvriendelijke bestemmingen:',
   },
+  it: {
+    heading: 'Hotel pet-friendly per cani in Europa: cosa sapere prima di prenotare',
+    intro:
+      'Un hotel davvero pet-friendly accoglie il tuo cane sul serio, non si limita a tollerarlo. Elenchiamo oltre 2.400 hotel per cani e animali domestici in più di 400 destinazioni europee, ognuno con una policy verificata: il vero limite di peso, la tariffa esatta, se il cane può restare da solo in camera e dove si trova il parco o la spiaggia per cani più vicini. Ogni scheda rimanda direttamente a Booking.com, con la stessa tariffa, e il tuo cane inserito nella prenotazione.',
+    faqs: [
+      {
+        q: 'Cosa rende un hotel davvero pet-friendly?',
+        a: 'Un hotel davvero pet-friendly dichiara subito la sua policy: quanti cani sono ammessi, eventuali limiti di peso o razza, la tariffa a notte o a soggiorno, e a quali aree dell\'hotel i cani possono accedere. Verifichiamo ognuno di questi punti invece di fidarci di un\'etichetta vaga tipo "animali ammessi", così lo sai prima di prenotare.',
+      },
+      {
+        q: 'Gli hotel pet-friendly fanno pagare un supplemento?',
+        a: 'Molti sì, da una piccola tassa di pulizia a notte fino a un importo a soggiorno, ma sempre più hotel lasciano soggiornare il cane gratis. Ogni scheda hotel mostra il supplemento esatto che abbiamo verificato, e puoi filtrare per gli hotel dove il cane soggiorna gratis.',
+      },
+      {
+        q: 'Come verificate le policy sugli animali?',
+        a: 'Confrontiamo la policy dichiarata da ogni hotel con la sua scheda Booking.com in tempo reale e con le recensioni recenti degli ospiti, e ricontrolliamo quando le regole cambiano. Se un dettaglio non può essere confermato, te lo diciamo invece di indovinare.',
+      },
+      {
+        q: 'Posso portare un cane grande o più di un cane?',
+        a: 'Dipende dall\'hotel: alcuni fissano il limite a 10 kg, altri accolgono razze grandi e più cani. Ogni scheda mostra il limite di peso e quanti cani sono accettati, così puoi filtrare quelli adatti al tuo cane.',
+      },
+      {
+        q: 'Quali città europee hanno più hotel pet-friendly per cani?',
+        a: 'Le grandi città amanti degli animali guidano la classifica, con un\'ottima scelta a Parigi, Barcellona, Amsterdam, Roma e Berlino, oltre a mete sui laghi e sulla costa dove il cane può nuotare. Sfoglia tutte le destinazioni per confrontare densità di hotel, parchi e spiagge per cani.',
+      },
+    ],
+    citiesLabel: 'Destinazioni popolari per cani:',
+  },
 }
 
 const CITY_LINKS = [
@@ -238,7 +266,7 @@ export default function HomeFaq({ locale }: { locale: Locale }) {
             href={`/${locale}/destinations`}
             className="inline-block rounded-full bg-gray-100 px-3 py-1 font-medium text-gray-700 hover:bg-gray-200 transition-colors"
           >
-            {locale === 'fr' ? 'Toutes les destinations' : locale === 'es' ? 'Todos los destinos' : locale === 'pt' ? 'Todos os destinos' : locale === 'de' ? 'Alle Reiseziele' : locale === 'nl' ? 'Alle bestemmingen' : 'All destinations'}
+            {locale === 'fr' ? 'Toutes les destinations' : locale === 'es' ? 'Todos los destinos' : locale === 'pt' ? 'Todos os destinos' : locale === 'de' ? 'Alle Reiseziele' : locale === 'nl' ? 'Alle bestemmingen' : locale === 'it' ? 'Tutte le destinazioni' : 'All destinations'}
           </Link>
         </div>
       </div>

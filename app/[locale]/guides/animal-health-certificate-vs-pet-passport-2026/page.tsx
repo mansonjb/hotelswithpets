@@ -14,6 +14,7 @@ const STICKY_LABELS_AHC: Record<string, { label: string; cta: string }> = {
   pt: { label: 'Hotéis pet-friendly no Reino Unido e UE', cta: 'Ver hotéis' },
   de: { label: 'Haustierfreundliche Hotels in Großbritannien und der EU', cta: 'Hotels ansehen' },
   nl: { label: 'Huisdiervriendelijke hotels in het VK en de EU', cta: 'Bekijk hotels' },
+  it: { label: `Hotel pet-friendly nel Regno Unito e nell'UE`, cta: 'Vedi gli hotel' },
 }
 
 const SLUG = 'animal-health-certificate-vs-pet-passport-2026'
@@ -703,6 +704,110 @@ const COPY: Record<string, Copy> = {
     ctaDesc: 'Bekijk onze meer dan 90 huisdiervriendelijke bestemmingen in heel Europa, elke gids bevat landspecifieke inreisregels, telefoonnummers van dierenartsen en een live Booking.com-kaart met huisdiervriendelijke hotels.',
     ctaButton: 'Bekijk huisdiervriendelijke bestemmingen →',
     ctaHref: '/nl/destinations',
+  },
+  it: {
+    hero: {
+      kicker: 'DOCUMENTI DI VIAGGIO PER ANIMALI · AGGIORNATO 2026',
+      h1: 'Passaporto europeo o Animal Health Certificate: di cosa hai davvero bisogno?',
+      tldr: `Risposta breve: il passaporto europeo per animali vale per i viaggi all'interno dell'UE più Norvegia, Svizzera, Islanda e Liechtenstein. Un Animal Health Certificate (AHC) è obbligatorio per portare nel Regno Unito un animale residente nell'UE. Non sono intercambiabili, i costi differiscono molto, e il 78% dei viaggiatori alle prime armi che abbiamo intervistato ha sbagliato al primo viaggio, a volte alla frontiera, a volte solo al check-in di un hotel che chiedeva il documento giusto.`,
+    },
+    scenarios: {
+      title: 'Decisione rapida: quale documento per il tuo percorso?',
+      intro: 'Trova la tua direzione di viaggio nella tabella qui sotto. La colonna "Documento richiesto" indica il requisito legale minimo; la colonna "Nota" segnala le sorprese.',
+      rows: [
+        { from: 'Paese UE', to: 'Paese UE', document: 'Passaporto europeo', note: 'Un unico documento copre tutti i 27 paesi UE più Norvegia, Svizzera, Islanda e Liechtenstein.' },
+        { from: 'Paese UE', to: 'Regno Unito', document: 'Animal Health Certificate (AHC)', note: `Il passaporto europeo NON è accettato. AHC valido 10 giorni per l'ingresso, 4 mesi per i viaggi interni nel Regno Unito più il rientro.` },
+        { from: 'Paese UE', to: 'Irlanda', document: 'Passaporto europeo', note: `L'Irlanda resta nel sistema del passaporto europeo. Trattamento antiparassitario obbligatorio 24-120h prima dell'arrivo.` },
+        { from: 'Paese UE', to: 'Norvegia', document: 'Passaporto europeo', note: `La Norvegia non è nell'UE ma accetta il passaporto. Trattamento antiparassitario obbligatorio 24-120h prima dell'arrivo.` },
+        { from: 'Paese UE', to: 'Finlandia', document: 'Passaporto europeo', note: `La Finlandia è nell'UE ma richiede il trattamento antiparassitario 24-120h prima dell'arrivo.` },
+        { from: 'Paese UE', to: 'Islanda', document: 'Passaporto europeo + permesso di importazione', note: `L'Islanda ha le regole più severe: permesso prima dell'arrivo, quarantena di 4 settimane spesso sostituita da un'ispezione all'importazione.` },
+        { from: 'Regno Unito', to: 'Paese UE', document: 'Certificato sanitario GB o AHC UE', note: `Il passaporto UK (rosso) non è più valido dopo la Brexit. Serve un nuovo certificato GB o un AHC veterinario UE.` },
+        { from: 'Stati Uniti', to: 'Qualsiasi paese UE', document: 'AHC UE + convalida USDA', note: 'AHC rilasciato da un veterinario accreditato USDA, convalidato da USDA APHIS entro 10 giorni dal viaggio. Valido 4 mesi per i viaggi interni UE.' },
+        { from: 'Svizzera', to: 'Paese UE', document: 'Passaporto europeo', note: `La Svizzera non è nell'UE ma è nel sistema del passaporto. Documento intercambiabile con il passaporto UE.` },
+      ],
+    },
+    passport: {
+      id: 'pet-passport',
+      h2: `Il passaporto europeo per animali (l'opzione a lungo termine)`,
+      paras: [
+        `Il passaporto europeo per animali è un piccolo libretto blu, rilasciato da un veterinario autorizzato in qualsiasi paese UE (o in Norvegia, Svizzera, Islanda, Liechtenstein). Contiene: la descrizione dell'animale (razza, sesso, data di nascita), una foto, il numero del microchip, la storia vaccinale antirabbica e qualsiasi altro trattamento rilevante. Una volta rilasciato, è valido per tutta la vita dell'animale, rinnovi solo alcune voci specifiche (soprattutto il vaccino antirabbico, che scade ogni 1-3 anni a seconda della marca).`,
+        `Il passaporto è il documento più flessibile perché copre tutti i paesi UE più i quattro stati EFTA (Norvegia, Svizzera, Islanda, Liechtenstein) sotto un'unica copertina. È anche il più economico a lungo termine: una sola visita dal veterinario per farlo rilasciare (tipicamente 30-60 €), più il costo abituale del vaccino antirabbico (30-50 € ogni 1-3 anni).`,
+        `L'idoneità è semplice: il tuo animale deve essere residente nell'UE (o in uno dei paesi EFTA) al momento del rilascio del passaporto. Se vivi nel Regno Unito, negli Stati Uniti o in qualsiasi paese extra-UE, il tuo veterinario non può rilasciare un passaporto europeo anche se lo volesse. Puoi ottenerlo solo diventando residente UE, il che è raro.`,
+      ],
+      bullets: [
+        'Formato: piccolo libretto blu, ~10 × 15 cm',
+        'Emittente: veterinario autorizzato in qualsiasi paese UE, Norvegia, Svizzera, Islanda o Liechtenstein',
+        `Validità: tutta la vita dell'animale (con le voci vaccinali rinnovate quando necessario)`,
+        'Costo: 30-60 € al rilascio, più i rinnovi del vaccino',
+        'Copertura: 27 paesi UE + 4 stati EFTA (intercambiabile)',
+        'Test richiesti: microchip ISO 11784/11785 + vaccino antirabbico valido da almeno 21 giorni',
+      ],
+    },
+    ahc: {
+      id: 'ahc',
+      h2: `L'Animal Health Certificate (l'opzione specifica per il viaggio)`,
+      paras: [
+        `L'Animal Health Certificate (AHC) è un certificato di 10 pagine rilasciato da un veterinario entro 10 giorni dall'inizio del viaggio, valido per l'ingresso nel paese indicato sul documento e per 4 mesi di viaggi interni e rientro. Esiste perché, dopo la Brexit, il Regno Unito ha introdotto un proprio sistema di importazione di animali che non riconosce il passaporto europeo, e l'UE a sua volta non riconosce il vecchio passaporto UK (quello rosso) per l'ingresso nell'UE.`,
+        `L'AHC è molto più costoso di un passaporto se calcolato per viaggio: tipicamente 100-180 £ nel Regno Unito o 100-150 € da un veterinario UE, più una piccola tassa amministrativa di convalida in alcuni casi. È monouso nel senso che non puoi riutilizzarlo per un secondo viaggio, serve un nuovo AHC ogni volta che rientri nel paese di destinazione (anche a distanza di 4 mesi).`,
+        `Per chi viaggia nel Regno Unito una volta all'anno, l'AHC è il documento giusto. Per chi viaggia tre o quattro volte all'anno, il costo sale a 400-600 € annui, il che ha spinto un numero piccolo ma crescente di residenti UE a valutare un passaporto UK GB (rilasciato da un veterinario UK durante una visita nel Regno Unito), riutilizzabile per un anno prima di dover di nuovo seguire la logica dell'AHC.`,
+      ],
+      bullets: [
+        'Formato: certificato di 10 pagine, deve essere stampato fisicamente e firmato',
+        'Emittente: veterinario autorizzato entro 10 giorni dalla partenza',
+        `Validità: 10 giorni per l'ingresso + 4 mesi per viaggi interni e rientro`,
+        'Costo: 100-180 € a viaggio (molto più del passaporto UE)',
+        'Monouso: non trasferibile ai viaggi successivi',
+        'Test richiesti: uguali al passaporto (microchip + vaccino antirabbico + trattamento antiparassitario per il Regno Unito)',
+      ],
+    },
+    tapeworm: {
+      id: 'tapeworm',
+      h2: 'Il trattamento antiparassitario obbligatorio (la regola che frega la maggior parte delle persone)',
+      paras: [
+        `Cinque paesi in Europa, il Regno Unito, l'Irlanda, la Finlandia, la Norvegia e Malta, richiedono che i cani ricevano un trattamento antiparassitario a base di praziquantel somministrato da un veterinario tra 24 e 120 ore (5 giorni) prima dell'arrivo. Il trattamento deve essere registrato dal veterinario nel passaporto (o nell'AHC).`,
+        `È il problema di frontiera più comune di cui sentiamo parlare. Il trattamento è semplice, una sola compressa, costa 15-30 € dal veterinario, ma deve essere somministrato nella finestra giusta, da un veterinario autorizzato, e registrato correttamente. I proprietari dimenticano spesso il minimo di 24 ore (il trattamento deve essere fatto almeno 24 ore prima dell'arrivo) o il massimo di 120 ore (non può risalire a più di 5 giorni prima). Entrambi i rifiuti sono ugualmente comuni.`,
+        `Il motivo della regola è la biosicurezza: questi cinque paesi sono liberi dalla specie di tenia Echinococcus multilocularis, endemica nell'Europa continentale. Senza la regola, i cani infetti potrebbero introdurre il parassita tramite le feci, il che causerebbe gravi problemi di salute pubblica negli esseri umani (provoca l'echinococcosi alveolare, una grave malattia epatica).`,
+      ],
+    },
+    comparison: {
+      caption: 'Passaporto europeo vs Animal Health Certificate (2026)',
+      head: ['Caratteristica', 'Passaporto europeo', 'Animal Health Certificate (AHC)'],
+      rows: [
+        ['Emittente', 'Veterinario autorizzato in UE/EFTA', 'Veterinario autorizzato entro 10 giorni dal viaggio'],
+        ['Validità', `Tutta la vita dell'animale`, '10 giorni ingresso + 4 mesi viaggio/rientro'],
+        ['Costo', '30-60 € una tantum + rinnovi vaccino', '100-180 € a viaggio'],
+        ['Copertura', '27 paesi UE + 4 EFTA', 'Un solo paese indicato sul documento'],
+        ['Riutilizzabile', 'Sì, indefinitamente', 'No, monouso'],
+        ['Proprietari idonei', 'Residenti UE/EFTA', 'Chiunque abbia accesso a un veterinario autorizzato'],
+        ['Richiesto per l\'ingresso nel Regno Unito', 'NO', 'SÌ (dalla Brexit)'],
+        ['Richiesto per l\'ingresso UE dal Regno Unito', 'NO (solo certificato GB)', 'SÌ dagli USA, può essere richiesto anche dall\'UE'],
+        ['Registrazione trattamento antiparassitario', 'Nel passaporto, dal veterinario', `Registrato sull'AHC`],
+      ],
+    },
+    costs: {
+      id: 'costs',
+      h2: 'Il vero costo di sbagliare',
+      paras: [
+        `Nel nostro sondaggio 2026 su 1.200 viaggiatori alle prime armi con animali, il 78% ha segnalato almeno un errore documentale. Il più comune: cercare di entrare nel Regno Unito con un passaporto europeo (340 casi su 1.200), questi viaggiatori sono stati respinti al terminal Eurotunnel o al porto dei traghetti, perdendo a volte sul momento una prenotazione da 200-400 £. Il secondo più comune: dimenticare il trattamento antiparassitario per Regno Unito/Irlanda/Finlandia/Norvegia/Malta, di solito viene loro permesso di farlo fare da un veterinario al porto (70-150 £) prima di essere lasciati proseguire.`,
+        `Meno catastrofico ma comunque costoso: arrivare in un hotel pet-friendly che richiede il passaporto europeo (la maggior parte lo fa, dopo la Brexit) senza la documentazione corrispondente. Gli hotel possono rifiutare il check-in. Alcuni accettano un AHC stampato come prova, ma dovresti sempre scrivere una email all'hotel prima di prenotare per confermare i requisiti esatti.`,
+        `Costo totale evitabile nel nostro campione di 1.200 viaggiatori: circa 380.000 €. Media per viaggiatore: 316 €. La voce più costosa: respinto alla frontiera e necessità di riprenotare. Il caso peggiore registrato: 1.800 £ persi (coppia con due cani, viaggio multi-tappa annullato all'Eurotunnel).`,
+      ],
+    },
+    faqTitle: 'Domande frequenti',
+    faqs: [
+      { q: 'Sono americano, posso usare un passaporto europeo?', a: `No. Il passaporto europeo può essere rilasciato solo da un veterinario in un paese UE (o Norvegia, Svizzera, Islanda, Liechtenstein) a un animale residente lì. Come visitatore statunitense, hai bisogno di un veterinario accreditato USDA che rilasci un AHC UE, che deve poi essere convalidato da USDA APHIS entro 10 giorni prima del viaggio. Il tuo AHC è quindi valido 4 mesi per i viaggi interni UE e il rientro.` },
+      { q: `Vivo nel Regno Unito con un passaporto UK, posso usarlo per l'UE?`, a: `No. Il passaporto UK per animali (libretto rosso) non è più valido per l'ingresso nell'UE dal 1° gennaio 2021. Serve un nuovo certificato sanitario GB rilasciato dal tuo veterinario UK entro 10 giorni prima del viaggio, OPPURE un AHC UE rilasciato da un veterinario autorizzato durante il tuo soggiorno nell'UE.` },
+      { q: 'Il trattamento antiparassitario vale anche per i gatti?', a: `No, solo per i cani. Il parassita Echinococcus multilocularis usa principalmente cani (e volpi) come ospiti definitivi. I gatti non sono soggetti all'obbligo del trattamento antiparassitario per l'ingresso nel Regno Unito, in Irlanda, Finlandia, Norvegia o Malta, hanno bisogno solo dei documenti UE/EFTA standard.` },
+      { q: 'Cosa succede se porto il mio cane senza il documento giusto?', a: `Alle frontiere terrestri (Eurotunnel, traghetti) il vettore controlla i documenti al check-in. Se la documentazione è incompleta, non potrai salire a bordo, perdi la prenotazione e devi tornare da un veterinario (spesso la strada lunga del ritorno). Negli aeroporti, la compagnia aerea controlla all'imbarco; in caso di rifiuto, il cane non può volare e potresti dover lasciarlo in un canile e viaggiare senza di lui. In ogni caso, il costo è significativo: 200-1.800 € di prenotazioni perse a seconda delle circostanze.` },
+      { q: `Posso viaggiare in Europa solo con l'AHC?`, a: `Sì. Un AHC rilasciato da un veterinario autorizzato (USA, UE o altro paese) è valido 4 mesi per i viaggi interni UE e il rientro nel tuo paese di origine. Non serve convertirlo in un passaporto europeo per il viaggio.` },
+      { q: 'Con quanto anticipo devo organizzare i documenti?', a: `Per un passaporto europeo: 6-8 settimane prima bastano ampiamente (la maggior parte del tempo è l'attesa di 21 giorni dopo il vaccino antirabbico). Per un AHC: 2-3 settimane prima sono sufficienti, ma l'AHC stesso deve essere rilasciato entro 10 giorni dalla partenza. Il trattamento antiparassitario è l'unico passaggio che avviene entro 5 giorni dall'arrivo.` },
+      { q: `L'AHC è accettato negli hotel?`, a: `Sì, la maggior parte degli hotel pet-friendly accetta l'AHC come documentazione valida insieme al passaporto europeo. Non abbiamo mai trovato un hotel che richieda specificamente il passaporto europeo. Scrivi sempre un'email all'hotel prima di prenotare per confermare.` },
+      { q: 'Esistono passaporti per animali elettronici o digitali?', a: `Non ancora. Il passaporto europeo resta un documento cartaceo fisico, non esiste una versione digitale riconosciuta alle frontiere. La Commissione Europea ha discusso una futura identità digitale per animali, ma senza tempistiche al 2026.` },
+    ],
+    ctaTitle: 'Stai pianificando un viaggio con il tuo cane?',
+    ctaDesc: `Sfoglia le nostre oltre 90 destinazioni pet-friendly in tutta Europa, ogni guida include le regole di ingresso specifiche per paese, i numeri dei veterinari e una mappa Booking.com in diretta degli hotel pet-friendly.`,
+    ctaButton: 'Vedi le destinazioni pet-friendly →',
+    ctaHref: '/it/destinations',
   },
 }
 

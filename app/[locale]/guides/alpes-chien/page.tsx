@@ -21,6 +21,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: 'Cidades alpinas com tu cão: Genebra → Zurique → Munique → Salzburgo (itinerario 10 dias)',
     de: 'Alpenstädte mit Ihrem Hund: Genf → Zürich → München → Salzburg (10-Tage-Reiseroute)',
     nl: 'Alpensteden met jouw hond: Genève → Zürich → München → Salzburg (route van 10 dagen)',
+    it: 'Città alpine con il tuo cane: Ginevra → Zurigo → Monaco → Salisburgo (itinerario di 10 giorni)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 10-day Alpine train itinerary with your dog through Switzerland, Germany and Austria. Lake walks, Alpine hikes, dog-friendly hotels, ICE/CFF rules and live Booking.com maps for every stop.',
@@ -29,6 +30,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: 'Itinerario alpino de 10 dias de comboio com tu cão por Suiza, Alemania e Austria. Passeios junto a lagos, rutas alpinas, hotéis que admiten animais, normas ICE/CFF e mapas Booking.com en vivo para cada parada.',
     de: 'Eine 10-tägige alpine Zugreise mit Ihrem Hund durch die Schweiz, Deutschland und Österreich. Spaziergänge am See, alpine Wanderungen, hundefreundliche Hotels, ICE-/CFF-Regeln und Live-Karten von Booking.com für jeden Halt.',
     nl: 'Een 10-daagse alpenroute per trein met jouw hond door Zwitserland, Duitsland en Oostenrijk. Wandelingen langs meren, alpenwandelingen, hondvriendelijke hotels, ICE/CFF-regels en live Booking.com-kaarten voor elke stop.',
+    it: 'Un itinerario alpino di 10 giorni in treno con il tuo cane attraverso Svizzera, Germania e Austria. Passeggiate lungo i laghi, escursioni alpine, hotel pet-friendly, regole ICE/CFF e mappe Booking.com in diretta per ogni tappa.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -315,6 +317,50 @@ const COPY: Record<string, RouteCopy> = {
       { q: 'Zijn biergartens in München echt hondvriendelijk?', a: 'Ja, de Beierse biergarten-traditie verwelkomt aangelijnde honden uitdrukkelijk. Hofbräukeller, Augustiner-Keller, Hirschau en Chinesischer Turm hebben allemaal waterbakjes bij de ingang. Sommige binnenzalen laten geen honden toe; buitentafels altijd.' },
     ],
   },
+  it: {
+    hero: { tagline: 'ITINERARIO ALPINO · 10 GIORNI · CON IL TUO CANE', title: 'Un viaggio in treno sulle Alpi con il tuo cane: Ginevra → Salisburgo', subtitle: 'Ginevra, Zurigo, Monaco, Salisburgo, quattro città ai piedi delle Alpi, collegate da treni diretti. Passeggiate lungo i laghi, escursioni in montagna, hotel che accolgono gli animali e mappe Booking.com in diretta per ogni tappa.' },
+    why: { title: 'Perché questo itinerario alpino funziona con un cane', bullets: [
+      'Svizzera, Germania e Austria sono i tre paesi più tolleranti verso i cani in Europa secondo le classifiche ufficiali (DogFriendly.eu 2025).',
+      'Treni diretti CFF/SBB e Deutsche Bahn ICE per tutto il percorso, il tuo cane viaggia accanto a te, viste alpine incluse.',
+      'Ogni tappa ha parchi urbani di livello mondiale E treni/bus diretti verso veri sentieri di montagna (Zugspitze, Säntis, Untersberg).',
+      'Estati più fresche (tipicamente 22-28 °C), il percorso europeo più semplice per le razze brachicefale a luglio-agosto.',
+      `La Svizzera NON fa parte dell'UE ma le regole per gli animali si allineano: passaporto europeo + vaccino antirabbico accettati alla frontiera. Nessuna quarantena.`,
+    ] },
+    stats: { duration: 'Durata', cities: 'Città', transport: 'Trasporto', budget: 'Budget', durationVal: '10 giorni', citiesVal: '4 città', transportVal: 'Treno (CFF / DB ICE / ÖBB Railjet)', budgetVal: '1.400 €-2.800 €' },
+    citiesIntro: { kicker: 'CITTÀ PER CITTÀ', title: 'Le tue tappe, i tuoi hotel, la tua mappa' },
+    cities: {
+      geneva: { days: 'Giorni 1-2', intro: `Inizia all'estremità sud-ovest del Lago di Ginevra. La Svizzera è famosa per la sua tolleranza verso i cani: tram, bus e treni accettano tutti i cani (piccoli gratis, grandi a metà prezzo), i ristoranti accettano cani al guinzaglio di default, e il Bois de la Bâtie è una delle poche foreste dove i cani possono stare liberi tutto l'anno nel centro di Ginevra. Il Quai du Mont-Blanc e il sentiero lungo il lago hanno panchine ogni 100 m e fontanelle ogni 500.`, highlight: 'Da non perdere con il tuo cane: gita in funivia al Mont-Salève', highlightDesc: `Passa in Francia (nessun controllo di frontiera per gli animali UE) e prendi il Téléphérique du Salève, a 1.100 m di altitudine in 5 minuti. Cani al guinzaglio gratis. In cima trovi 30 km di sentieri segnalati, anelli brevi percorribili in 2 ore.` },
+      zurich: { days: 'Giorni 3-4', intro: `Tre ore di treno CFF diretto da Ginevra, uno dei tragitti alpini più belli d'Europa. Zurigo è densa di verde: lo Uetliberg (collina boscosa, 870 m) è raggiungibile in 25 min con la S-Bahn, e la riva del lago offre 4 km di passeggiata senza auto. Le stradine del centro storico e la Bahnhofstrasse (via dello shopping più cara d'Europa) tollerano i cani; molte boutique di lusso li accolgono esplicitamente.`, highlight: `Da non perdere con il tuo cane: alba sull'Uetliberg`, highlightDesc: `S10 dalla Hauptbahnhof a Uetliberg in 25 min (biglietto cane 12 CHF). La torre panoramica in cima apre alle 6. I 5 km di discesa via Felsenegg regalano in un colpo solo la città, il lago e tutte le Alpi glaronesi.` },
+      munich: { days: 'Giorni 5-7', intro: `EC Deutsche Bahn diretto da Zurigo (4h, biglietto cane 25 €). Monaco è una delle città più pet-friendly della Germania: il Giardino Inglese (375 ettari) è più grande di Central Park, i cani viaggiano su U-Bahn e S-Bahn per 3 € (Hundekarte giornaliera), le birrerie all'aperto accolgono esplicitamente i cani (ciotole d'acqua ovunque), e il sentiero lungo l'Isar offre 14 km di percorsi senza guinzaglio attraverso la città.`, highlight: `Da non perdere con il tuo cane: passeggiata lungo l'Isar + pranzo in birreria all'aperto`, highlightDesc: `Cammina dal centro verso sud lungo l'Isar fino alla birreria Hirschau (4 km, senza guinzaglio oltre il Wittelsbacher Brücke). Il giardino ha oltre 1.000 posti all'ombra sotto i castagni; i cani sono benvenuti a ogni tavolo. Ordina un Brezel per entrambi.` },
+      salzburg: { days: 'Giorni 8-10', intro: `Railjet ÖBB diretto da Monaco Hauptbahnhof in 1h30 (biglietto cane 15 €). Salisburgo è piccola, percorribile a piedi ed è la porta d'accesso al Salzkammergut (Wolfgangsee, Mondsee, Fuschlsee, tutti pet-friendly con passeggiate senza auto). Lo Mönchsberg (542 m, raggiungibile con l'ascensore dal centro storico) ha sentieri pet-friendly. La casa natale di Mozart non ammette cani ma tutto il resto all'aperto sì.`, highlight: 'Da non perdere con il tuo cane: gita al Wolfgangsee', highlightDesc: `Postbus 150 da Salzburg-Mirabellplatz a St. Gilgen in 50 min (cani gratis). Il lago ha 27 km di sentieri pedonali, e la funivia dello Zwölferhorn (pet-friendly) ti porta a 1.500 m per la vista panoramica.` },
+    },
+    hotelsLabel: 'Hotel pet-friendly consigliati',
+    bookLabel: 'Prenota su Booking.com',
+    detailsLabel: 'Dettagli',
+    mapLabel: 'Mappa in diretta, tutti gli hotel pet-friendly',
+    legsTitle: 'Trasporto tra le città',
+    legs: [
+      { from: 'Ginevra', to: 'Zurigo', duration: '~2h45', service: 'CFF/SBB IC (diretto, ogni ora)', petRule: 'Cani piccoli in trasportino gratis. Cani grandi a metà prezzo (~25 CHF). Museruola non richiesta se al guinzaglio e tranquillo. Uno dei treni più pet-friendly d\'Europa.' },
+      { from: 'Zurigo', to: 'Monaco', duration: '~4h', service: 'Deutsche Bahn EC (diretto, 6 al giorno)', petRule: 'Cani piccoli in trasportino gratis. Cani grandi: Hundeticket (~25 €, metà tariffa adulto). Guinzaglio + museruola morbida obbligatori.' },
+      { from: 'Monaco', to: 'Salisburgo', duration: '~1h30', service: 'Railjet ÖBB (diretto, ogni 1-2h)', petRule: 'Cani piccoli in trasportino gratis. Cani grandi a metà prezzo (~15 €). Guinzaglio + museruola obbligatori. Paesaggio bavaro-austriaco splendido.' },
+    ],
+    practicalTitle: 'Prima di partire: documenti, vaccini, contatti veterinari',
+    practicalBullets: [
+      `Passaporto europeo per animali con vaccino antirabbico valido (21+ giorni). La Svizzera accetta il passaporto europeo (non è nell'UE ma è nel sistema del passaporto per animali).`,
+      'Microchip ISO 11784/11785, obbligatorio in tutti e quattro i paesi.',
+      'Svizzera e Austria hanno una Hundesteuer (tassa sui cani) per i residenti. I visitatori ne sono esenti; alcuni hotel richiedono una prova di assicurazione di responsabilità civile, chiama prima se la tua assicurazione domestica è insolita.',
+      'Baviera e Austria hanno liste di razze (Listenhunde): Am. Staff, Pit Bull, Bullterrier, Rottweiler, serve un permesso e i cani devono avere la museruola in pubblico.',
+      'Salva questi veterinari 24/7: Ginevra (Centre Vétérinaire Rive-Gauche, +41 22 743 33 33), Zurigo (Tierspital Zürich, +41 44 635 81 11), Monaco (Tierärztliche Klinik Haar, +49 89 460 74 24), Salisburgo (Tierklinik Land Salzburg, +43 662 870150).',
+    ],
+    faqTitle: 'Domande frequenti',
+    faqs: [
+      { q: 'Serve un permesso speciale per entrare in Svizzera con il mio cane?', a: 'No, il passaporto europeo per animali con vaccinazione antirabbica valida è accettato alla frontiera svizzera. Nessuna pratica doganale. Il cane deve avere il microchip e il vaccino antirabbico deve avere almeno 21 giorni.' },
+      { q: 'Quanto costa il viaggio?', a: `Budget 1.400-2.800 €. La Svizzera è la tappa più cara (hotel circa il 50% più costosi di Germania/Austria). I biglietti del treno costano in totale circa 350-550 € per 2 adulti + 1 cane se prenotati con 4-6 settimane di anticipo.` },
+      { q: 'Posso davvero portare il mio cane su una funivia alpina?', a: 'Sì, quasi tutte le funivie alpine in Svizzera, Baviera e Austria accettano cani al guinzaglio. Alcune richiedono la museruola in cabina. Salève, Uetliberg, Zugspitze, Untersberg, Zwölferhorn, tutte pet-friendly.' },
+      { q: `Qual è il periodo migliore dell'anno?`, a: `Da fine maggio a inizio ottobre. L'estate è il percorso europeo più semplice per i cani (più fresco del sud Europa). L'inverno ha il suo fascino (passeggiate nella neve, mercatini di Natale) ma i passi alpini sono più freddi per le razze a pelo corto.` },
+      { q: `Le birrerie all'aperto a Monaco sono davvero pet-friendly?`, a: `Sì, la tradizione bavarese delle birrerie all'aperto accoglie esplicitamente i cani al guinzaglio. Hofbräukeller, Augustiner-Keller, Hirschau, Chinesischer Turm hanno tutte ciotole d'acqua all'ingresso. Alcune sale interne non ammettono cani; i tavoli all'aperto sempre.` },
+    ],
+  },
 }
 
 function buildSticky(locale: string): StickyConfig {
@@ -327,8 +373,9 @@ function buildSticky(locale: string): StickyConfig {
     pt: `Hotéis pet-friendly rota alpina`,
     de: 'Haustierfreundliche Hotels Alpenroute',
     nl: 'Huisdiervriendelijke hotels alpenroute',
+    it: 'Hotel pet-friendly percorso alpino',
   }
-  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen', nl: 'Bekijk' }
+  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen', nl: 'Bekijk', it: 'Vedi' }
   return { href, label: labels[locale] ?? labels.en, cta: ctas[locale] ?? ctas.en }
 }
 

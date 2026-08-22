@@ -6,24 +6,24 @@ interface PopularSearchesProps {
 }
 
 const searches = [
-  { dest: 'amsterdam', destName: 'Amsterdam', cat: 'dog-friendly', catNameEn: 'dog-friendly', catNameFr: 'chiens acceptés', catNameEs: 'admite perros', catNamePt: 'aceitam cães', catNameDe: 'hundefreundlich', catNameNl: 'hondvriendelijk' },
-  { dest: 'paris', destName: 'Paris', cat: 'luxury', catNameEn: 'luxury', catNameFr: 'luxe', catNameEs: 'lujo', catNamePt: 'luxo', catNameDe: 'Luxus', catNameNl: 'luxe' },
-  { dest: 'barcelona', destName: 'Barcelona', cat: 'dogs-stay-free', catNameEn: 'dogs stay free', catNameFr: 'chiens gratuits', catNameEs: 'perros gratis', catNamePt: 'cães grátis', catNameDe: 'Hunde übernachten gratis', catNameNl: 'honden logeren gratis' },
-  { dest: 'berlin', destName: 'Berlin', cat: 'near-parks', catNameEn: 'near parks', catNameFr: 'proche parcs', catNameEs: 'cerca de parques', catNamePt: 'perto de parques', catNameDe: 'in Parknähe', catNameNl: 'dicht bij parken' },
-  { dest: 'rome', destName: 'Rome', cat: 'dog-friendly', catNameEn: 'dog-friendly', catNameFr: 'chiens acceptés', catNameEs: 'admite perros', catNamePt: 'aceitam cães', catNameDe: 'hundefreundlich', catNameNl: 'hondvriendelijk' },
-  { dest: 'lisbon', destName: 'Lisbon', cat: 'dog-friendly', catNameEn: 'dog-friendly', catNameFr: 'chiens acceptés', catNameEs: 'admite perros', catNamePt: 'aceitam cães', catNameDe: 'hundefreundlich', catNameNl: 'hondvriendelijk' },
-  { dest: 'madrid', destName: 'Madrid', cat: 'luxury', catNameEn: 'luxury', catNameFr: 'luxe', catNameEs: 'lujo', catNamePt: 'luxo', catNameDe: 'Luxus', catNameNl: 'luxe' },
-  { dest: 'zurich', destName: 'Zurich', cat: 'luxury', catNameEn: 'luxury', catNameFr: 'luxe', catNameEs: 'lujo', catNamePt: 'luxo', catNameDe: 'Luxus', catNameNl: 'luxe' },
-  { dest: 'prague', destName: 'Prague', cat: 'near-parks', catNameEn: 'near parks', catNameFr: 'proche parcs', catNameEs: 'cerca de parques', catNamePt: 'perto de parques', catNameDe: 'in Parknähe', catNameNl: 'dicht bij parken' },
-  { dest: 'vienna', destName: 'Vienna', cat: 'dog-friendly', catNameEn: 'dog-friendly', catNameFr: 'chiens acceptés', catNameEs: 'admite perros', catNamePt: 'aceitam cães', catNameDe: 'hundefreundlich', catNameNl: 'hondvriendelijk' },
-  { dest: 'florence', destName: 'Florence', cat: 'cat-friendly', catNameEn: 'cat-friendly', catNameFr: 'chats acceptés', catNameEs: 'admite gatos', catNamePt: 'aceitam gatos', catNameDe: 'katzenfreundlich', catNameNl: 'katvriendelijk' },
-  { dest: 'nice', destName: 'Nice', cat: 'beach-access', catNameEn: 'beach access', catNameFr: 'accès plage', catNameEs: 'acceso playa', catNamePt: 'acesso praia', catNameDe: 'Strandzugang', catNameNl: 'toegang tot het strand' },
-  { dest: 'biarritz', destName: 'Biarritz', cat: 'beach-access', catNameEn: 'beach access', catNameFr: 'accès plage', catNameEs: 'acceso playa', catNamePt: 'acesso praia', catNameDe: 'Strandzugang', catNameNl: 'toegang tot het strand' },
-  { dest: 'malaga', destName: 'Malaga', cat: 'beach-access', catNameEn: 'beach access', catNameFr: 'accès plage', catNameEs: 'acceso playa', catNamePt: 'acesso praia', catNameDe: 'Strandzugang', catNameNl: 'toegang tot het strand' },
-  { dest: 'valencia', destName: 'Valencia', cat: 'beach-access', catNameEn: 'beach access', catNameFr: 'accès plage', catNameEs: 'acceso playa', catNamePt: 'acesso praia', catNameDe: 'Strandzugang', catNameNl: 'toegang tot het strand' },
-  { dest: 'stockholm', destName: 'Stockholm', cat: 'dog-friendly', catNameEn: 'dog-friendly', catNameFr: 'chiens acceptés', catNameEs: 'admite perros', catNamePt: 'aceitam cães', catNameDe: 'hundefreundlich', catNameNl: 'hondvriendelijk' },
-  { dest: 'amsterdam', destName: 'Amsterdam', cat: 'dogs-stay-free', catNameEn: 'dogs stay free', catNameFr: 'chiens gratuits', catNameEs: 'perros gratis', catNamePt: 'cães grátis', catNameDe: 'Hunde übernachten gratis', catNameNl: 'honden logeren gratis' },
-  { dest: 'paris', destName: 'Paris', cat: 'dog-friendly', catNameEn: 'dog-friendly', catNameFr: 'chiens acceptés', catNameEs: 'admite perros', catNamePt: 'aceitam cães', catNameDe: 'hundefreundlich', catNameNl: 'hondvriendelijk' },
+  { dest: 'amsterdam', destName: 'Amsterdam', cat: 'dog-friendly', catNameEn: 'dog-friendly', catNameFr: 'chiens acceptés', catNameEs: 'admite perros', catNamePt: 'aceitam cães', catNameDe: 'hundefreundlich', catNameNl: 'hondvriendelijk', catNameIt: 'accetta cani' },
+  { dest: 'paris', destName: 'Paris', cat: 'luxury', catNameEn: 'luxury', catNameFr: 'luxe', catNameEs: 'lujo', catNamePt: 'luxo', catNameDe: 'Luxus', catNameNl: 'luxe', catNameIt: 'di lusso' },
+  { dest: 'barcelona', destName: 'Barcelona', cat: 'dogs-stay-free', catNameEn: 'dogs stay free', catNameFr: 'chiens gratuits', catNameEs: 'perros gratis', catNamePt: 'cães grátis', catNameDe: 'Hunde übernachten gratis', catNameNl: 'honden logeren gratis', catNameIt: 'cani gratis' },
+  { dest: 'berlin', destName: 'Berlin', cat: 'near-parks', catNameEn: 'near parks', catNameFr: 'proche parcs', catNameEs: 'cerca de parques', catNamePt: 'perto de parques', catNameDe: 'in Parknähe', catNameNl: 'dicht bij parken', catNameIt: 'vicino ai parchi' },
+  { dest: 'rome', destName: 'Rome', cat: 'dog-friendly', catNameEn: 'dog-friendly', catNameFr: 'chiens acceptés', catNameEs: 'admite perros', catNamePt: 'aceitam cães', catNameDe: 'hundefreundlich', catNameNl: 'hondvriendelijk', catNameIt: 'accetta cani' },
+  { dest: 'lisbon', destName: 'Lisbon', cat: 'dog-friendly', catNameEn: 'dog-friendly', catNameFr: 'chiens acceptés', catNameEs: 'admite perros', catNamePt: 'aceitam cães', catNameDe: 'hundefreundlich', catNameNl: 'hondvriendelijk', catNameIt: 'accetta cani' },
+  { dest: 'madrid', destName: 'Madrid', cat: 'luxury', catNameEn: 'luxury', catNameFr: 'luxe', catNameEs: 'lujo', catNamePt: 'luxo', catNameDe: 'Luxus', catNameNl: 'luxe', catNameIt: 'di lusso' },
+  { dest: 'zurich', destName: 'Zurich', cat: 'luxury', catNameEn: 'luxury', catNameFr: 'luxe', catNameEs: 'lujo', catNamePt: 'luxo', catNameDe: 'Luxus', catNameNl: 'luxe', catNameIt: 'di lusso' },
+  { dest: 'prague', destName: 'Prague', cat: 'near-parks', catNameEn: 'near parks', catNameFr: 'proche parcs', catNameEs: 'cerca de parques', catNamePt: 'perto de parques', catNameDe: 'in Parknähe', catNameNl: 'dicht bij parken', catNameIt: 'vicino ai parchi' },
+  { dest: 'vienna', destName: 'Vienna', cat: 'dog-friendly', catNameEn: 'dog-friendly', catNameFr: 'chiens acceptés', catNameEs: 'admite perros', catNamePt: 'aceitam cães', catNameDe: 'hundefreundlich', catNameNl: 'hondvriendelijk', catNameIt: 'accetta cani' },
+  { dest: 'florence', destName: 'Florence', cat: 'cat-friendly', catNameEn: 'cat-friendly', catNameFr: 'chats acceptés', catNameEs: 'admite gatos', catNamePt: 'aceitam gatos', catNameDe: 'katzenfreundlich', catNameNl: 'katvriendelijk', catNameIt: 'accetta gatti' },
+  { dest: 'nice', destName: 'Nice', cat: 'beach-access', catNameEn: 'beach access', catNameFr: 'accès plage', catNameEs: 'acceso playa', catNamePt: 'acesso praia', catNameDe: 'Strandzugang', catNameNl: 'toegang tot het strand', catNameIt: 'accesso alla spiaggia' },
+  { dest: 'biarritz', destName: 'Biarritz', cat: 'beach-access', catNameEn: 'beach access', catNameFr: 'accès plage', catNameEs: 'acceso playa', catNamePt: 'acesso praia', catNameDe: 'Strandzugang', catNameNl: 'toegang tot het strand', catNameIt: 'accesso alla spiaggia' },
+  { dest: 'malaga', destName: 'Malaga', cat: 'beach-access', catNameEn: 'beach access', catNameFr: 'accès plage', catNameEs: 'acceso playa', catNamePt: 'acesso praia', catNameDe: 'Strandzugang', catNameNl: 'toegang tot het strand', catNameIt: 'accesso alla spiaggia' },
+  { dest: 'valencia', destName: 'Valencia', cat: 'beach-access', catNameEn: 'beach access', catNameFr: 'accès plage', catNameEs: 'acceso playa', catNamePt: 'acesso praia', catNameDe: 'Strandzugang', catNameNl: 'toegang tot het strand', catNameIt: 'accesso alla spiaggia' },
+  { dest: 'stockholm', destName: 'Stockholm', cat: 'dog-friendly', catNameEn: 'dog-friendly', catNameFr: 'chiens acceptés', catNameEs: 'admite perros', catNamePt: 'aceitam cães', catNameDe: 'hundefreundlich', catNameNl: 'hondvriendelijk', catNameIt: 'accetta cani' },
+  { dest: 'amsterdam', destName: 'Amsterdam', cat: 'dogs-stay-free', catNameEn: 'dogs stay free', catNameFr: 'chiens gratuits', catNameEs: 'perros gratis', catNamePt: 'cães grátis', catNameDe: 'Hunde übernachten gratis', catNameNl: 'honden logeren gratis', catNameIt: 'cani gratis' },
+  { dest: 'paris', destName: 'Paris', cat: 'dog-friendly', catNameEn: 'dog-friendly', catNameFr: 'chiens acceptés', catNameEs: 'admite perros', catNamePt: 'aceitam cães', catNameDe: 'hundefreundlich', catNameNl: 'hondvriendelijk', catNameIt: 'accetta cani' },
 ]
 
 const headings: Record<string, string> = {
@@ -33,6 +33,7 @@ const headings: Record<string, string> = {
   pt: 'Pesquisas populares',
   de: 'Beliebte Suchen',
   nl: 'Populaire zoekopdrachten',
+  it: 'Ricerche popolari',
 }
 
 export default function PopularSearches({ locale }: PopularSearchesProps) {
@@ -55,6 +56,8 @@ export default function PopularSearches({ locale }: PopularSearchesProps) {
                 ? `Hotels in ${s.destName}, ${s.catNameDe}`
                 : locale === 'nl'
                 ? `Hotels in ${s.destName}, ${s.catNameNl}`
+                : locale === 'it'
+                ? `Hotel ${s.catNameIt} a ${s.destName}`
                 : `${s.destName} ${s.catNameEn} hotels`
             return (
               <Link

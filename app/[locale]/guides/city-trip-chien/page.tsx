@@ -23,6 +23,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: 'City trip por Europa com tu cão: París → Bruxelas → Amesterdão → Berlim (itinerario 10 dias)',
     de: 'Europäische Städtereise mit Ihrem Hund: Paris → Brüssel → Amsterdam → Berlin (10-Tage-Reiseplan)',
     nl: 'Europese city trip met je hond: Parijs → Brussel → Amsterdam → Berlijn (10-daagse route)',
+    it: 'City trip in Europa con il tuo cane: Parigi → Bruxelles → Amsterdam → Berlino (itinerario di 10 giorni)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 10-day train-friendly city-trip itinerary across four iconic European capitals with your dog. Recommended pet-friendly hotels, live Booking.com maps, transport rules and dog-walking spots in each city.',
@@ -31,6 +32,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: 'Itinerario de 10 dias de comboio por cuatro icónicas capitales europeias com tu cão. Hotéis pet-friendly recomendados, mapas Booking.com en vivo, normas de transporte e lugares para pasear al cão en cada cidade.',
     de: 'Ein 10-tägiger, zugfreundlicher Städtereise-Reiseplan durch vier ikonische europäische Hauptstädte mit Ihrem Hund. Empfohlene hundefreundliche Hotels, Live-Karten von Booking.com, Transportregeln und Gassi-Spots in jeder Stadt.',
     nl: 'Een 10-daagse, treinvriendelijke city-trip route door vier iconische Europese hoofdsteden met je hond. Aanbevolen hondvriendelijke hotels, live Booking.com-kaarten, vervoersregels en uitlaatplekken in elke stad.',
+    it: 'Un itinerario di 10 giorni in treno tra quattro capitali europee iconiche con il tuo cane. Hotel pet-friendly consigliati, mappe live di Booking.com, regole di trasporto e posti per portare fuori il cane in ogni città.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -344,6 +346,57 @@ const COPY: Record<string, RouteCopy> = {
       { q: 'Wat als mijn hond zwaarder is dan 25 kg?', a: 'Alle vier steden zijn geschikt voor grote honden. Het enige knelpunt is de metro, waar een lijn en soms een muilkorf verplicht zijn. Hotels: de meeste luxehotels accepteren honden tot 25 kg, bel vooraf even om te bevestigen als jouw hond zwaarder is.' },
     ],
   },
+  it: {
+    hero: {
+      tagline: 'CITY-TRIP · 10 GIORNI · CON IL TUO CANE',
+      title: 'Un city trip europeo in treno con il tuo cane',
+      subtitle: 'Quattro capitali iconiche, Parigi, Bruxelles, Amsterdam, Berlino, collegate da treni diretti che accettano cani. Hotel pet-friendly, parchi e la mappa live di Booking.com per ogni città.',
+    },
+    why: {
+      title: 'Perché questo itinerario funziona con il cane',
+      bullets: [
+        `Ogni tratta è un treno diretto e pet-friendly. Niente voli, niente stiva, solo passeggiate al guinzaglio dalla stazione all'hotel.`,
+        'Tutte e quattro le città hanno grandi aree recintate senza guinzaglio a meno di 20 minuti a piedi dalle stazioni centrali.',
+        'Nessuna burocrazia alle frontiere dentro lo spazio Schengen, ti serve solo un passaporto europeo per animali valido con vaccinazione antirabbica aggiornata.',
+        `Ogni città ha almeno una clinica veterinaria d'emergenza 24/7, i contatti sono nella sezione pratica più sotto.`,
+        `L'itinerario evita il rischio caldo del sud Europa, comodo per cani a pelo corto e brachicefali anche in estate.`,
+      ],
+    },
+    stats: { duration: 'Durata', cities: 'Città', transport: 'Trasporto', budget: 'Budget', durationVal: '10 giorni', citiesVal: '4 capitali', transportVal: 'Treno (Eurostar / Thalys / ICE)', budgetVal: '1.200 €–2.500 €' },
+    citiesIntro: { kicker: 'CITTÀ PER CITTÀ', title: 'Le tue tappe, i tuoi hotel, la tua mappa' },
+    cities: {
+      paris: { days: 'Giorni 1–3', intro: 'Inizia nella città dove oltre 500.000 cani condividono la vita con i loro proprietari. Parigi è sorprendentemente rilassata con gli ospiti a quattro zampe: il Marais, Saint-Germain e il Canal Saint-Martin accolgono cani al guinzaglio nei caffè e in terrazza. Il Bois de Boulogne (850 ha) e il Bois de Vincennes (995 ha), entrambi raggiungibili in metro, danno al tuo cane spazio per correre dopo lunghe mattinate nei musei. La metro accetta gratis i cani piccoli nel trasportino; i cani più grandi hanno bisogno di un biglietto ridotto e del guinzaglio.', highlight: 'Da non perdere con il tuo cane: una passeggiata al tramonto lungo il Canal Saint-Martin', highlightDesc: 'I 4,5 km di canale tra République e La Villette sono completamente pedonali, costeggiati da terrazze pet-friendly, e finiscono al Parc de la Villette (55 ha) dove i cani corrono liberi sui prati centrali.' },
+      brussels: { days: 'Giorni 4–5', intro: `Due ore di Thalys da Paris-Nord. Bruxelles è una delle capitali più tranquille per i cani in Europa occidentale: meno affollata di Parigi o Amsterdam, con una forte cultura del caffè e la gigantesca Forêt de Soignes (4.400 ettari di faggeta) sul bordo sud della città. Bus, tram e metro accettano i cani gratis. La maggior parte dei ristoranti e negozi belgi accoglie i cani senza problemi, una ciotola d'acqua all'ingresso è cosa comune.`, highlight: `Da non perdere con il tuo cane: l'anello Bois de la Cambre + Forêt de Soignes`, highlightDesc: `Prendi il tram 7 fino a Vivier d'Oie. Il Bois de la Cambre (122 ha) sfocia direttamente nella Forêt de Soignes, 4.500 ettari continui di faggeta, con zone senza guinzaglio intorno agli Étangs de Boitsfort.` },
+      amsterdam: { days: 'Giorni 6–8', intro: `Eurostar diretto da Bruxelles-Midi (1h45). Amsterdam è fatta per i cani: il Vondelpark (47 ha), il Westerpark e l'Amstelpark hanno tutti zone senza guinzaglio; i tram accettano i cani con un piccolo biglietto; i canali sono territorio di passeggiate per ore; e l'intero quartiere Jordaan è un paradiso a bassa circolazione per chi porta a spasso il cane. Attento alle bici, hanno sempre la precedenza e vanno veloci.`, highlight: 'Da non perdere con il tuo cane: il giro mattutino al Vondelpark', highlightDesc: `Entra dal cancello di Stadhouderskade alle 8:00. Il parco di 47 ettari ha diverse zone senza guinzaglio e incontrerai centinaia di locali che fanno lo stesso rituale mattutino. Caffè da 't Blauwe Theehuis dopo, cani benvenuti in terrazza.` },
+      berlin: { days: 'Giorni 9–10', intro: `Treno ICE diretto da Amsterdam Centraal (~6h, biglietto cane ~8 € su Deutsche Bahn). Berlino è largamente considerata la capitale più dog-friendly d'Europa: si stimano 100.000 cani registrati, cani su ogni linea U-Bahn e S-Bahn, cani nei negozi, cani in ufficio. Il Tiergarten (210 ha in pieno centro) e il Volkspark Friedrichshain hanno enormi zone senza guinzaglio. I quartieri Prenzlauer Berg e Kreuzberg sono pieni di caffè pet-friendly.`, highlight: 'Da non perdere con il tuo cane: una passeggiata al Tiergarten e lungo la Sprea', highlightDesc: `Parti dalla Porta di Brandeburgo, attraversa il Tiergarten fino allo Schloss Bellevue, poi segui la Sprea fino all'Isola dei Musei. Circa 6 km, per lo più senza guinzaglio dentro il parco. I locali si fermano per una currywurst da Curry 36, cani benvenuti ai tavoli alti.` },
+    },
+    hotelsLabel: 'Hotel pet-friendly consigliati',
+    bookLabel: 'Prenota su Booking.com',
+    detailsLabel: 'Dettagli',
+    mapLabel: 'Mappa live, tutti gli hotel pet-friendly',
+    legsTitle: 'Trasporti tra le città',
+    legs: [
+      { from: 'Parigi', to: 'Bruxelles', duration: '~1h25', service: 'Thalys / Eurostar (diretto)', petRule: 'Cani piccoli nel trasportino 7 €, cani grandi 30 € (un biglietto per cane).' },
+      { from: 'Bruxelles', to: 'Amsterdam', duration: '~1h50', service: 'Eurostar / Thalys (diretto)', petRule: 'Stesse tariffe di Parigi–Bruxelles. Il cane viaggia accanto a te, non in stiva.' },
+      { from: 'Amsterdam', to: 'Berlino', duration: '~6h20', service: 'Deutsche Bahn IC Berlin (diretto, 4 al giorno)', petRule: 'Cani piccoli gratis nel trasportino. I cani grandi hanno bisogno di un Hundeticket (metà tariffa adulto, ~20–40 €) e devono avere museruola e guinzaglio.' },
+    ],
+    practicalTitle: 'Prima di partire: documenti, vaccini, contatti veterinari',
+    practicalBullets: [
+      `Passaporto europeo per animali con vaccinazione antirabbica valida, richiesto a ogni check-in in hotel. Il vaccino deve avere almeno 21 giorni e meno di 12 mesi per il richiamo annuale standard.`,
+      'Microchip ISO 11784/11785, obbligatorio in tutti e quattro i paesi. Deve corrispondere al numero del passaporto.',
+      'Nessun trattamento antiparassitario per la tenia richiesto per questo itinerario (rilevante solo per Regno Unito / Irlanda / Finlandia / Norvegia / Malta).',
+      `Salva nel telefono i quattro veterinari d'emergenza 24/7 prima di partire: Parigi (CHV des Cordeliers, +33 1 47 47 47 47), Bruxelles (Vétérinaires d'Uccle, +32 2 374 80 99), Amsterdam (Medisch Centrum voor Dieren, +31 20 379 98 00), Berlino (Tierärztliche Klinik Falkenried, +49 30 8541 7099).`,
+      'Porta sempre una museruola morbida in borsa, richiesta sugli ICE/IC di Deutsche Bahn e nelle metro di Bruxelles e Berlino per i cani grandi.',
+    ],
+    faqTitle: 'Domande frequenti',
+    faqs: [
+      { q: 'Posso davvero fare tutto il viaggio senza voli?', a: 'Sì. Tutte e tre le tratte sono treni diretti, tutti pet-friendly. Il tempo totale in treno è di circa 9h45 spalmate su 10 giorni, gestibile per la maggior parte dei cani, soprattutto con soste più lunghe in città in mezzo.' },
+      { q: 'Quanto costa il viaggio per una coppia con un cane di taglia media?', a: `Metti in conto 1.200–2.500 € a seconda della categoria d'hotel. I biglietti del treno totalizzano ~450–700 € per 2 adulti + 1 cane se prenotati 4–6 settimane prima. Il supplemento cane va da 0 a 50 € per tappa a seconda dell'hotel.` },
+      { q: `Qual è il periodo migliore dell'anno per questo itinerario?`, a: 'Maggio-giugno e settembre sono ideali: temperature miti (15–22 °C), parchi poco affollati e piena disponibilità negli hotel. Luglio-agosto può arrivare a 32 °C a Parigi e Amsterdam, scomodo per i cani a pelo scuro.' },
+      { q: 'Posso accorciarlo a un lungo weekend?', a: `Sì, Parigi + Bruxelles (4 giorni) è la versione a due città più semplice. L'Eurostar tra le due dura solo 1h25 e le regole per gli animali sono identiche.` },
+      { q: 'E se il mio cane pesa più di 25 kg?', a: `Tutte e quattro le città sono adatte ai cani grandi. L'unico punto critico è la metro, dove servono guinzaglio e a volte museruola. Hotel: la maggior parte delle strutture di lusso accetta cani fino a 25 kg, ma chiama prima per conferma se il tuo cane è più pesante.` },
+    ],
+  },
 }
 
 function buildSticky(locale: string): StickyConfig {
@@ -356,8 +409,9 @@ function buildSticky(locale: string): StickyConfig {
     pt: `Hotéis pet-friendly Paris a Berlim`,
     de: 'Hundefreundliche Hotels von Paris bis Berlin',
     nl: 'Hondvriendelijke hotels van Parijs tot Berlijn',
+    it: 'Hotel pet-friendly da Parigi a Berlino',
   }
-  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen', nl: 'Bekijken' }
+  const ctas: Record<string, string> = { en: 'View', fr: 'Voir', es: 'Ver', pt: 'Ver', de: 'Ansehen', nl: 'Bekijken', it: 'Vedi' }
   return { href, label: labels[locale] ?? labels.en, cta: ctas[locale] ?? ctas.en }
 }
 

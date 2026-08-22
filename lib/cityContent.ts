@@ -21532,6 +21532,184 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  honfleur: {
+    "history": {
+      "en": "Honfleur has guarded the mouth of the Seine estuary since the Middle Ages, its slate-fronted houses rising around the Vieux Bassin, the harbour built under Colbert in the 17th century to supply Louis XIV's navy. From this port, Samuel de Champlain set sail in the early 1600s on voyages that led to the founding of Quebec, tying Honfleur to the story of New France. The town later became a cradle of Impressionism: painter Eugène Boudin was born here, and his mentorship drew a young Claude Monet to capture the shifting light of the estuary on canvas. France's largest wooden church, Église Sainte-Catherine, still stands as a monument to the shipwrights who built it plank by plank, while the Côte de Grâce chapel watches over the harbour from its wooded hill. Today the same cobbled quays welcome leashed dogs, the Jardin des Personnalités offers a shaded stroll, and nearby Norman beaches open to dogs outside their seasonal restrictions.",
+      "fr": "Honfleur veille sur l'embouchure de l'estuaire de la Seine depuis le Moyen Âge, ses maisons à façade d'ardoise s'élevant autour du Vieux Bassin, le port construit sous Colbert au XVIIe siècle pour approvisionner la marine de Louis XIV. C'est de ce port que Samuel de Champlain appareilla au début des années 1600 pour des voyages qui menèrent à la fondation de Québec, liant Honfleur à l'histoire de la Nouvelle-France. La ville devint plus tard un berceau de l'impressionnisme : le peintre Eugène Boudin y est né, et son mentorat attira un jeune Claude Monet venu capter sur la toile la lumière changeante de l'estuaire. La plus grande église en bois de France, l'Église Sainte-Catherine, se dresse toujours en monument aux charpentiers de marine qui l'ont construite planche par planche, tandis que la chapelle de la Côte de Grâce veille sur le port depuis sa colline boisée. Aujourd'hui, ces mêmes quais pavés accueillent les chiens en laisse, le Jardin des Personnalités offre une balade ombragée, et les plages normandes voisines s'ouvrent aux chiens en dehors de leurs restrictions saisonnières.",
+      "es": "Honfleur vigila la desembocadura del estuario del Sena desde la Edad Media, con sus casas de fachada de pizarra alzándose alrededor del Vieux Bassin, el puerto construido bajo Colbert en el siglo XVII para abastecer a la marina de Luis XIV. Desde este puerto zarpó Samuel de Champlain a principios del siglo XVII en viajes que llevaron a la fundación de Quebec, ligando Honfleur a la historia de Nueva Francia. La ciudad se convirtió más tarde en una cuna del impresionismo: el pintor Eugène Boudin nació aquí, y su tutela atrajo a un joven Claude Monet a capturar en el lienzo la luz cambiante del estuario. La iglesia de madera más grande de Francia, la Église Sainte-Catherine, sigue en pie como monumento a los carpinteros de ribera que la construyeron tabla a tabla, mientras que la capilla de la Côte de Grâce vigila el puerto desde su colina boscosa. Hoy los mismos muelles empedrados acogen a los perros con correa, el Jardin des Personnalités ofrece un paseo con sombra, y las playas normandas cercanas se abren a los perros fuera de sus restricciones estacionales.",
+      "pt": "Honfleur vigia a foz do estuário do Sena desde a Idade Média, com as suas casas de fachada de ardósia a erguerem-se em torno do Vieux Bassin, o porto construído sob Colbert no século XVII para abastecer a marinha de Luís XIV. Foi deste porto que Samuel de Champlain partiu no início dos anos 1600 em viagens que levaram à fundação de Quebec, ligando Honfleur à história da Nova França. A vila tornou-se depois um berço do impressionismo: o pintor Eugène Boudin nasceu aqui, e a sua orientação atraiu um jovem Claude Monet a captar na tela a luz cambiante do estuário. A maior igreja de madeira de França, a Église Sainte-Catherine, continua de pé como monumento aos carpinteiros navais que a construíram tábua a tábua, enquanto a capela da Côte de Grâce vigia o porto a partir da sua colina arborizada. Hoje os mesmos cais de calçada acolhem cães com trela, o Jardin des Personnalités oferece um passeio sombreado, e as praias normandas próximas abrem-se aos cães fora das suas restrições sazonais.",
+      "de": "Honfleur wacht seit dem Mittelalter über die Mündung der Seine, seine Häuser mit Schieferfassaden erheben sich rund um das Vieux Bassin, den Hafen, der im 17. Jahrhundert unter Colbert erbaut wurde, um die Flotte Ludwigs XIV. zu versorgen. Von diesem Hafen aus stach Samuel de Champlain Anfang des 17. Jahrhunderts zu Reisen in See, die zur Gründung von Québec führten und Honfleur mit der Geschichte Neufrankreichs verbanden. Die Stadt wurde später zu einer Wiege des Impressionismus: Der Maler Eugène Boudin wurde hier geboren, und sein Mentorat zog einen jungen Claude Monet an, der das wechselnde Licht der Mündung auf Leinwand festhielt. Frankreichs größte Holzkirche, die Église Sainte-Catherine, steht noch immer als Denkmal für die Schiffszimmerleute, die sie Planke für Planke bauten, während die Kapelle Côte de Grâce von ihrem bewaldeten Hügel über den Hafen wacht. Heute heißen dieselben gepflasterten Kais Hunde an der Leine willkommen, der Jardin des Personnalités bietet einen schattigen Spaziergang, und die nahegelegenen normannischen Strände öffnen sich Hunden außerhalb ihrer saisonalen Beschränkungen.",
+      "nl": "Honfleur waakt al sinds de middeleeuwen over de monding van de Seine, met zijn huizen met leien gevels rond het Vieux Bassin, de haven die in de 17e eeuw onder Colbert werd gebouwd om de vloot van Lodewijk XIV te bevoorraden. Vanuit deze haven vertrok Samuel de Champlain begin 17e eeuw op reizen die leidden tot de stichting van Quebec, waarmee Honfleur verbonden raakte met de geschiedenis van Nieuw-Frankrijk. De stad werd later een bakermat van het impressionisme: schilder Eugène Boudin werd hier geboren, en zijn mentorschap trok een jonge Claude Monet aan, die het veranderende licht van de monding op doek vastlegde. De grootste houten kerk van Frankrijk, de Église Sainte-Catherine, staat er nog steeds als monument voor de scheepstimmerlieden die haar plank voor plank bouwden, terwijl de kapel van de Côte de Grâce vanaf haar beboste heuvel over de haven waakt. Vandaag verwelkomen diezelfde geplaveide kades honden aan de lijn, biedt de Jardin des Personnalités een schaduwrijke wandeling, en gaan de nabijgelegen Normandische stranden open voor honden buiten hun seizoensgebonden beperkingen."
+    },
+    "sights": [
+      {
+        "name": "Vieux Bassin & Quai Sainte-Catherine",
+        "emoji": "⛵",
+        "petFriendly": true,
+        "desc": {
+          "en": "Honfleur's iconic old harbour, ringed by tall slate-fronted houses along the Quai Sainte-Catherine, is the town's postcard image and its liveliest walk. Leashed dogs are welcome on the flat cobbled quays, though it gets crowded at midday in high season.",
+          "fr": "Le port emblématique de Honfleur, entouré de hautes maisons à façade d'ardoise le long du Quai Sainte-Catherine, est l'image de carte postale de la ville et sa promenade la plus animée. Les chiens en laisse sont les bienvenus sur les quais pavés et plats, même si l'affluence est forte à midi en haute saison.",
+          "es": "El emblemático puerto antiguo de Honfleur, rodeado de altas casas con fachada de pizarra a lo largo del Quai Sainte-Catherine, es la imagen de postal de la ciudad y su paseo más animado. Los perros con correa son bienvenidos en los muelles empedrados y llanos, aunque se llena de gente al mediodía en temporada alta.",
+          "pt": "O icónico porto antigo de Honfleur, rodeado de altas casas de fachada de ardósia ao longo do Quai Sainte-Catherine, é a imagem de cartão-postal da vila e o seu passeio mais animado. Os cães com trela são bem-vindos nos cais planos e empedrados, embora fique cheio ao meio-dia na época alta.",
+          "de": "Honfleurs berühmter alter Hafen, umgeben von hohen Häusern mit Schieferfassaden entlang des Quai Sainte-Catherine, ist das Postkartenmotiv der Stadt und ihr belebtester Spaziergang. Hunde an der Leine sind auf den flachen, gepflasterten Kais willkommen, auch wenn es in der Hochsaison mittags voll wird.",
+          "nl": "Honfleurs iconische oude haven, omringd door hoge huizen met leien gevels langs de Quai Sainte-Catherine, is het ansichtkaartbeeld van de stad en de levendigste wandeling. Honden aan de lijn zijn welkom op de vlakke, geplaveide kades, al wordt het in het hoogseizoen rond het middaguur druk."
+        }
+      },
+      {
+        "name": "Église Sainte-Catherine",
+        "emoji": "⛪",
+        "petFriendly": false,
+        "desc": {
+          "en": "France's largest wooden church, built by local shipwrights using boat-building techniques, stands with a separate bell tower across its own square. Dogs cannot enter the church interior, but the surrounding square is an easy, leashed stop on a harbour walk.",
+          "fr": "La plus grande église en bois de France, construite par des charpentiers de marine locaux selon des techniques de construction navale, se dresse avec un clocher séparé sur sa propre place. Les chiens ne peuvent pas entrer dans l'église, mais la place environnante est une halte facile en laisse lors d'une balade au port.",
+          "es": "La iglesia de madera más grande de Francia, construida por carpinteros de ribera locales con técnicas de construcción naval, se alza con un campanario separado en su propia plaza. Los perros no pueden entrar en el interior de la iglesia, pero la plaza circundante es una parada fácil con correa durante un paseo por el puerto.",
+          "pt": "A maior igreja de madeira de França, construída por carpinteiros navais locais com técnicas de construção naval, ergue-se com um campanário separado na sua própria praça. Os cães não podem entrar no interior da igreja, mas a praça em redor é uma paragem fácil com trela durante um passeio pelo porto.",
+          "de": "Frankreichs größte Holzkirche, von örtlichen Schiffszimmerleuten mit Schiffbautechniken errichtet, steht mit einem separaten Glockenturm auf ihrem eigenen Platz. Hunde dürfen den Innenraum der Kirche nicht betreten, doch der umliegende Platz ist ein einfacher Halt an der Leine bei einem Hafenspaziergang.",
+          "nl": "De grootste houten kerk van Frankrijk, gebouwd door lokale scheepstimmerlieden met scheepsbouwtechnieken, staat er met een aparte klokkentoren op haar eigen plein. Honden mogen het interieur van de kerk niet in, maar het omliggende plein is een makkelijke stop aan de lijn tijdens een havenwandeling."
+        }
+      },
+      {
+        "name": "Côte de Grâce & Mont-Joli viewpoint",
+        "emoji": "⛰️",
+        "petFriendly": true,
+        "desc": {
+          "en": "A 17th-century pilgrimage chapel crowns the wooded hill above Honfleur, with a terrace looking out over the Seine estuary and the Pont de Normandie. Leashed dogs can join the climb up, best continued along the path to the Mont-Joli lookout for an even wider view.",
+          "fr": "Une chapelle de pèlerinage du XVIIe siècle couronne la colline boisée au-dessus de Honfleur, avec une terrasse donnant sur l'estuaire de la Seine et le Pont de Normandie. Les chiens en laisse peuvent accompagner la montée, à prolonger idéalement par le sentier vers le point de vue de Mont-Joli pour une vue encore plus large.",
+          "es": "Una capilla de peregrinación del siglo XVII corona la colina boscosa sobre Honfleur, con una terraza que da al estuario del Sena y al puente de Normandía. Los perros con correa pueden acompañar la subida, que conviene prolongar por el sendero hasta el mirador de Mont-Joli para una vista aún más amplia.",
+          "pt": "Uma capela de peregrinação do século XVII coroa a colina arborizada acima de Honfleur, com um terraço com vista para o estuário do Sena e a ponte da Normandia. Os cães com trela podem acompanhar a subida, o ideal é prolongá-la pelo caminho até ao miradouro de Mont-Joli para uma vista ainda mais ampla.",
+          "de": "Eine Wallfahrtskapelle aus dem 17. Jahrhundert krönt den bewaldeten Hügel über Honfleur, mit einer Terrasse mit Blick auf die Seine-Mündung und die Pont de Normandie. Hunde an der Leine können beim Aufstieg mit dabei sein, am besten weiter über den Weg zum Aussichtspunkt Mont-Joli für einen noch weiteren Blick.",
+          "nl": "Een 17e-eeuwse bedevaartskapel bekroont de beboste heuvel boven Honfleur, met een terras met uitzicht op de Seine-monding en de Pont de Normandie. Honden aan de lijn mogen mee de klim op, het beste voort te zetten via het pad naar het uitkijkpunt Mont-Joli voor een nog wijder uitzicht."
+        }
+      },
+      {
+        "name": "Jardin des Personnalités",
+        "emoji": "🌳",
+        "petFriendly": true,
+        "desc": {
+          "en": "A free 10-hectare public garden laid out as boat-shaped mini-gardens honouring artists and figures linked to Honfleur, including Claude Monet. Dogs are welcome on a leash, with waste bags provided at the entrance for a shaded, easy stroll.",
+          "fr": "Un jardin public gratuit de 10 hectares aménagé en mini-jardins en forme de bateaux rendant hommage aux artistes et personnalités liés à Honfleur, dont Claude Monet. Les chiens sont acceptés en laisse, avec des sacs à déjections disponibles à l'entrée pour une balade ombragée et facile.",
+          "es": "Un jardín público gratuito de 10 hectáreas trazado como minijardines en forma de barco que rinden homenaje a artistas y personalidades ligadas a Honfleur, entre ellos Claude Monet. Los perros son bienvenidos con correa, con bolsas para excrementos disponibles en la entrada para un paseo sombreado y fácil.",
+          "pt": "Um jardim público gratuito de 10 hectares organizado como minijardins em forma de barco que homenageiam artistas e figuras ligadas a Honfleur, incluindo Claude Monet. Os cães são bem-vindos com trela, com sacos para dejetos disponíveis à entrada para um passeio sombreado e fácil.",
+          "de": "Ein kostenloser 10 Hektar großer öffentlicher Garten, angelegt als bootsförmige Themengärten zu Ehren von Künstlern und Persönlichkeiten mit Bezug zu Honfleur, darunter Claude Monet. Hunde sind an der Leine willkommen, am Eingang stehen Kotbeutel für einen schattigen, einfachen Spaziergang bereit.",
+          "nl": "Een gratis openbare tuin van 10 hectare, aangelegd als bootvormige themetuintjes ter ere van kunstenaars en figuren die met Honfleur verbonden zijn, waaronder Claude Monet. Honden zijn welkom aan de lijn, met poepzakjes bij de ingang voor een schaduwrijke, makkelijke wandeling."
+        }
+      },
+      {
+        "name": "Les Greniers à Sel & the Enclos old town",
+        "emoji": "🏛️",
+        "petFriendly": true,
+        "desc": {
+          "en": "Two 17th-century salt storehouses with soaring oak-beamed roofs sit near the Enclos, the old fortified centre of Honfleur where the town's medieval street pattern survives. The narrow lanes and small squares are an easy leashed walk, especially peaceful outside midsummer.",
+          "fr": "Deux greniers à sel du XVIIe siècle aux vastes charpentes de chêne se dressent près de l'Enclos, l'ancien centre fortifié de Honfleur où subsiste le tracé médiéval des rues. Les ruelles étroites et petites places offrent une balade facile en laisse, particulièrement paisible hors plein été.",
+          "es": "Dos graneros de sal del siglo XVII con imponentes armaduras de roble se alzan cerca del Enclos, el antiguo centro fortificado de Honfleur donde aún se conserva el trazado medieval de las calles. Las calles estrechas y pequeñas plazas ofrecen un paseo fácil con correa, especialmente tranquilo fuera del pleno verano.",
+          "pt": "Dois celeiros de sal do século XVII com imponentes estruturas de carvalho erguem-se perto do Enclos, o antigo centro fortificado de Honfleur onde ainda sobrevive o traçado medieval das ruas. As ruas estreitas e pequenas praças oferecem um passeio fácil com trela, especialmente tranquilo fora do pico do verão.",
+          "de": "Zwei Salzspeicher aus dem 17. Jahrhundert mit imposanten Eichenholzdächern stehen nahe dem Enclos, dem alten befestigten Zentrum von Honfleur, in dem das mittelalterliche Straßenmuster erhalten ist. Die engen Gassen und kleinen Plätze bieten einen einfachen Spaziergang an der Leine, besonders ruhig außerhalb des Hochsommers.",
+          "nl": "Twee zoutschuren uit de 17e eeuw met imposante eikenhouten dakconstructies staan bij de Enclos, het oude versterkte centrum van Honfleur waar het middeleeuwse stratenpatroon bewaard is gebleven. De smalle steegjes en kleine pleintjes vormen een makkelijke wandeling aan de lijn, vooral rustig buiten het hoogseizoen."
+        }
+      },
+      {
+        "name": "Pont de Normandie (viewpoint)",
+        "emoji": "🌉",
+        "petFriendly": true,
+        "desc": {
+          "en": "This cable-stayed bridge spanning the Seine estuary toward Le Havre is best admired from a distance, from the Côte de Grâce viewpoint or the harbour quays. It's a striking backdrop for a leashed evening walk, especially at sunset when the estuary light turns gold.",
+          "fr": "Ce pont à haubans qui enjambe l'estuaire de la Seine vers Le Havre s'admire surtout à distance, depuis le point de vue de la Côte de Grâce ou les quais du port. C'est une toile de fond saisissante pour une balade du soir en laisse, surtout au coucher du soleil quand la lumière de l'estuaire devient dorée.",
+          "es": "Este puente atirantado que cruza el estuario del Sena hacia Le Havre se admira mejor a distancia, desde el mirador de la Côte de Grâce o los muelles del puerto. Es un telón de fondo impresionante para un paseo vespertino con correa, sobre todo al atardecer, cuando la luz del estuario se vuelve dorada.",
+          "pt": "Esta ponte estaiada que atravessa o estuário do Sena em direção ao Havre admira-se melhor à distância, a partir do miradouro da Côte de Grâce ou dos cais do porto. É um cenário impressionante para um passeio noturno com trela, sobretudo ao pôr do sol, quando a luz do estuário fica dourada.",
+          "de": "Diese Schrägseilbrücke, die die Seine-Mündung Richtung Le Havre überspannt, bewundert man am besten aus der Ferne, vom Aussichtspunkt Côte de Grâce oder den Hafenkais aus. Sie bildet eine eindrucksvolle Kulisse für einen abendlichen Spaziergang an der Leine, besonders bei Sonnenuntergang, wenn das Licht der Mündung golden wird.",
+          "nl": "Deze tuibrug die de Seine-monding richting Le Havre overspant, bewonder je het beste op afstand, vanaf het uitzichtpunt Côte de Grâce of de havenkades. Het vormt een indrukwekkend decor voor een avondwandeling aan de lijn, vooral bij zonsondergang, wanneer het licht boven de monding goud kleurt."
+        }
+      }
+    ],
+    "petTips": {
+      "en": [
+        "French leash norms apply throughout town: keep your dog on a lead in public gardens and busy areas, and always pick up after them, waste bags are provided at some parks.",
+        "The Vieux Bassin and old town are almost entirely cobblestone, trim your dog's nails and watch for slippery stones when wet.",
+        "Summer brings heavy tourist crowds around the harbour, walk your dog early morning or evening to avoid the densest foot traffic.",
+        "The Seine estuary has a large tidal range, check tide times before heading to nearby beaches since some stretches are only safe for dogs at low tide.",
+        "Nearby beaches at Deauville, Villerville, and Le Havre apply seasonal dog bans roughly May to September, always check the current dates before planning a swim."
+      ],
+      "fr": [
+        "Les règles françaises de laisse s'appliquent partout en ville : gardez votre chien en laisse dans les jardins publics et les zones fréquentées, et ramassez toujours ses déjections, des sacs sont fournis dans certains parcs.",
+        "Le Vieux Bassin et la vieille ville sont presque entièrement pavés, coupez les griffes de votre chien et attention aux pavés glissants une fois mouillés.",
+        "L'été apporte une forte affluence touristique autour du port, promenez votre chien tôt le matin ou le soir pour éviter la foule la plus dense.",
+        "L'estuaire de la Seine a un grand marnage, vérifiez les horaires de marée avant de vous rendre sur les plages voisines car certaines zones ne sont sûres pour les chiens qu'à marée basse.",
+        "Les plages voisines de Deauville, Villerville et Le Havre appliquent des interdictions saisonnières pour les chiens, environ de mai à septembre, vérifiez toujours les dates en vigueur avant de prévoir une baignade."
+      ],
+      "es": [
+        "Las normas francesas de correa se aplican en toda la ciudad: mantén a tu perro con correa en jardines públicos y zonas concurridas, y recoge siempre sus excrementos, hay bolsas disponibles en algunos parques.",
+        "El Vieux Bassin y el casco antiguo son casi enteramente empedrados, corta las uñas de tu perro y ten cuidado con las piedras resbaladizas cuando están mojadas.",
+        "El verano trae mucha afluencia turística alrededor del puerto, pasea a tu perro temprano por la mañana o por la noche para evitar el tráfico peatonal más denso.",
+        "El estuario del Sena tiene un rango de marea amplio, comprueba los horarios de marea antes de ir a playas cercanas ya que algunos tramos solo son seguros para perros con marea baja.",
+        "Las playas cercanas de Deauville, Villerville y Le Havre aplican prohibiciones estacionales para perros, aproximadamente de mayo a septiembre, comprueba siempre las fechas vigentes antes de planear un baño."
+      ],
+      "pt": [
+        "As normas francesas de trela aplicam-se em toda a vila: mantenha o seu cão com trela em jardins públicos e zonas movimentadas, e recolha sempre os dejetos, há sacos disponíveis em alguns parques.",
+        "O Vieux Bassin e o centro histórico são quase inteiramente de calçada, corte as unhas do seu cão e tenha cuidado com as pedras escorregadias quando molhadas.",
+        "O verão traz muita afluência turística em redor do porto, passeie o seu cão de manhã cedo ou à noite para evitar o tráfego pedonal mais denso.",
+        "O estuário do Sena tem uma amplitude de maré grande, verifique os horários de maré antes de ir a praias próximas, pois algumas zonas só são seguras para cães na maré-baixa.",
+        "As praias próximas de Deauville, Villerville e Le Havre aplicam proibições sazonais para cães, sensivelmente de maio a setembro, verifique sempre as datas em vigor antes de planear um banho."
+      ],
+      "de": [
+        "In der ganzen Stadt gelten die französischen Leinenregeln: Führen Sie Ihren Hund in öffentlichen Gärten und belebten Bereichen an der Leine, und entfernen Sie stets den Kot, in manchen Parks stehen Beutel bereit.",
+        "Das Vieux Bassin und die Altstadt bestehen fast durchgehend aus Kopfsteinpflaster, schneiden Sie die Krallen Ihres Hundes und achten Sie bei Nässe auf rutschige Steine.",
+        "Der Sommer bringt starken Touristenandrang rund um den Hafen, gehen Sie früh morgens oder abends mit Ihrem Hund spazieren, um das dichteste Fußgängeraufkommen zu vermeiden.",
+        "Die Seine-Mündung hat einen großen Tidenhub, prüfen Sie die Gezeitenzeiten, bevor Sie zu nahegelegenen Stränden fahren, da manche Abschnitte für Hunde nur bei Ebbe sicher sind.",
+        "Die nahegelegenen Strände von Deauville, Villerville und Le Havre verhängen saisonale Hundeverbote, etwa von Mai bis September, prüfen Sie stets die aktuellen Daten, bevor Sie ein Bad einplanen."
+      ],
+      "nl": [
+        "De Franse aanlijnregels gelden in de hele stad: houd je hond aan de lijn in openbare tuinen en drukke gebieden, en ruim altijd de uitwerpselen op, in sommige parken liggen zakjes klaar.",
+        "Het Vieux Bassin en de oude binnenstad bestaan bijna volledig uit kasseien, knip de nagels van je hond en let op gladde stenen als het nat is.",
+        "De zomer brengt drukke toeristenmassa's rond de haven, wandel met je hond vroeg in de ochtend of 's avonds om het drukste voetgangersverkeer te vermijden.",
+        "De Seine-monding heeft een groot getijverschil, check de getijtijden voordat je naar nabijgelegen stranden gaat, want sommige stukken zijn voor honden alleen veilig bij eb.",
+        "De nabijgelegen stranden van Deauville, Villerville en Le Havre hanteren seizoensgebonden hondenverboden, ongeveer van mei tot september, controleer altijd de actuele data voordat je een zwempartij plant."
+      ]
+    },
+    "practicalInfo": {
+      "en": [
+        "Nearest airport is Deauville-Normandie (DOL), about a 20-minute drive; Paris CDG is roughly a 2-hour drive if flying internationally with your dog.",
+        "Honfleur has no train station of its own, take the SNCF train to Deauville-Trouville then continue by Nomad bus line 111.",
+        "EU pet entry into France requires an ISO microchip implanted before the rabies vaccination, a rabies shot at least 21 days before travel, and a valid EU pet passport.",
+        "There's no 24-hour vet clinic in Honfleur itself, for after-hours emergencies call the free national on-call line 3115.",
+        "Late spring and early autumn are the best seasons to visit with a dog, mild weather, fewer crowds, and no seasonal beach bans in effect at nearby coastal towns."
+      ],
+      "fr": [
+        "L'aéroport le plus proche est Deauville-Normandie (DOL), à environ 20 minutes en voiture ; Paris CDG est à environ 2 heures de route pour un vol international avec votre chien.",
+        "Honfleur n'a pas de gare propre, prenez le train SNCF jusqu'à Deauville-Trouville puis poursuivez en bus Nomad ligne 111.",
+        "L'entrée d'un animal dans l'UE en France exige une puce ISO implantée avant la vaccination antirabique, un vaccin antirabique au moins 21 jours avant le voyage, et un passeport européen pour animaux valide.",
+        "Il n'y a pas de clinique vétérinaire ouverte 24h/24 à Honfleur même, pour les urgences en dehors des heures d'ouverture, appelez la ligne nationale gratuite de garde 3115.",
+        "La fin du printemps et le début de l'automne sont les meilleures saisons pour visiter avec un chien : météo douce, moins de monde, et aucune interdiction saisonnière de plage en vigueur dans les villes côtières voisines."
+      ],
+      "es": [
+        "El aeropuerto más cercano es Deauville-Normandie (DOL), a unos 20 minutos en coche; París CDG está a unas 2 horas en coche si vuelas internacionalmente con tu perro.",
+        "Honfleur no tiene estación de tren propia, toma el tren SNCF hasta Deauville-Trouville y continúa en autobús Nomad línea 111.",
+        "La entrada de una mascota en la UE por Francia exige un microchip ISO implantado antes de la vacuna antirrábica, una vacuna antirrábica al menos 21 días antes del viaje, y un pasaporte europeo para animales válido.",
+        "No hay clínica veterinaria abierta 24 horas en la propia Honfleur, para urgencias fuera de horario llama a la línea nacional gratuita de guardia 3115.",
+        "Finales de primavera y principios de otoño son las mejores temporadas para visitar con un perro: clima suave, menos gente, y sin prohibiciones estacionales de playa vigentes en las localidades costeras cercanas."
+      ],
+      "pt": [
+        "O aeroporto mais próximo é o de Deauville-Normandie (DOL), a cerca de 20 minutos de carro; Paris CDG fica a cerca de 2 horas de carro se voar internacionalmente com o seu cão.",
+        "Honfleur não tem estação de comboio própria, apanhe o comboio da SNCF até Deauville-Trouville e continue de autocarro Nomad linha 111.",
+        "A entrada de um animal na UE por França exige um microchip ISO implantado antes da vacina antirrábica, uma vacina antirrábica pelo menos 21 dias antes da viagem, e um passaporte europeu para animais válido.",
+        "Não há clínica veterinária aberta 24 horas na própria Honfleur, para urgências fora de horas ligue para a linha nacional gratuita de plantão 3115.",
+        "O final da primavera e o início do outono são as melhores épocas para visitar com um cão: clima ameno, menos multidões, e sem proibições sazonais de praia em vigor nas localidades costeiras próximas."
+      ],
+      "de": [
+        "Der nächste Flughafen ist Deauville-Normandie (DOL), etwa 20 Autominuten entfernt; Paris CDG liegt etwa 2 Autostunden entfernt, falls Sie international mit Ihrem Hund einreisen.",
+        "Honfleur hat keinen eigenen Bahnhof, nehmen Sie den SNCF-Zug bis Deauville-Trouville und fahren Sie dann mit dem Nomad-Bus Linie 111 weiter.",
+        "Für die EU-Einreise eines Haustiers nach Frankreich sind ein vor der Tollwutimpfung implantierter ISO-Mikrochip, eine Tollwutimpfung mindestens 21 Tage vor der Reise und ein gültiger EU-Heimtierausweis erforderlich.",
+        "In Honfleur selbst gibt es keine 24-Stunden-Tierklinik, rufen Sie bei Notfällen außerhalb der Öffnungszeiten die kostenlose nationale Bereitschaftsnummer 3115 an.",
+        "Spätfrühling und Frühherbst sind die besten Jahreszeiten für einen Besuch mit Hund: mildes Wetter, weniger Andrang und keine geltenden saisonalen Strandverbote in den nahegelegenen Küstenorten."
+      ],
+      "nl": [
+        "De dichtstbijzijnde luchthaven is Deauville-Normandie (DOL), ongeveer 20 minuten rijden; Parijs CDG ligt op ongeveer 2 uur rijden als je internationaal met je hond vliegt.",
+        "Honfleur heeft geen eigen treinstation, neem de SNCF-trein naar Deauville-Trouville en ga daarna verder met de Nomad-bus lijn 111.",
+        "Voor de EU-binnenkomst van een huisdier in Frankrijk is een ISO-chip nodig die vóór de rabiësvaccinatie is geplaatst, een rabiësvaccinatie minstens 21 dagen voor vertrek, en een geldig EU-huisdierenpaspoort.",
+        "Er is geen 24-uurs dierenkliniek in Honfleur zelf, bel voor spoedgevallen buiten kantooruren het gratis landelijke wachtdienstnummer 3115.",
+        "Late lente en vroege herfst zijn de beste seizoenen om met een hond te bezoeken: mild weer, minder drukte, en geen seizoensgebonden strandverboden van kracht in de nabijgelegen kustplaatsen."
+      ]
+    }
+  },
   hvar: {
     history: {
       fr: `Fondée par les Grecs de Paros en 384 avant J.-C. sous le nom de Pharos, l'île de Hvar est l'un des plus anciens foyers urbains de Croatie : la plaine agricole de Stari Grad, cadastrée par les colons grecs et toujours cultivée selon le même parcellaire, est inscrite à l'UNESCO. Venise fit ensuite de la ville de Hvar l'un de ses grands ports de l'Adriatique, lui laissant un arsenal, l'un des plus anciens théâtres publics d'Europe et une place monumentale dominée par la forteresse espagnole. L'île revendique aussi le plus fort ensoleillement de Croatie, des champs de lavande à flanc de colline et des villages de pierre comme Velo Grablje ou Vrboska. Entre la promenade de la riva, les sentiers de garrigue et les navettes vers les îles Pakleni, Hvar se découvre très bien avec un chien, surtout hors du cœur de l'été.`,
@@ -42674,6 +42852,184 @@ const cityContent: Record<string, CityContent> = {
         `Veterinários verificados: Veterinary Emergency Group, 1827 15th Avenue W em Interbay, +1 564 888-4898, aberto 24 horas; Emerald City Emergency Clinic, 4102 Stone Way N em Wallingford, +1 206 634-9000, 24 horas desde 1994; Urban Animal Capitol Hill, 909 E Thomas Street, +1 206 329-5337, sem marcação de segunda a sexta das 8:00 às 20:00. O 911 é apenas para pessoas.`,
       ],
     },
+  },
+  sesimbra: {
+    "history": {
+      "en": "Sesimbra grew up around a sheltered, south-facing bay on the Arrábida coast, its fortunes tied to the sea since medieval times. The hilltop Castelo de Sesimbra, rebuilt by the Moors and taken during the Christian Reconquista in the 12th century, still watches over the town and the Atlantic beyond. Below it, the working Porto de Abrigo keeps alive a centuries-old fishing tradition, its boats landing swordfish and fresh seafood that fill the seafront grelhador terraces every evening. West along the coast, the wild Serra da Arrábida natural park and the clifftop sanctuary of Cabo Espichel round out a landscape of pine forest, limestone cliffs and hidden coves, all within an easy drive of Lisbon. For dog owners today, that same coastline offers dog-friendly seafood terraces, forested Arrábida trails and year-round swimming at Lagoa de Albufeira, tempered only by summer bans on the town's own guarded beaches.",
+      "fr": "Sesimbra s'est développée autour d'une baie abritée orientée au sud, sur la côte de l'Arrábida, et son destin est lié à la mer depuis le Moyen Âge. Le Castelo de Sesimbra, perché sur la colline, reconstruit par les Maures puis repris lors de la Reconquista chrétienne au XIIe siècle, veille toujours sur la ville et sur l'Atlantique. En contrebas, le port de pêche actif, le Porto de Abrigo, perpétue une tradition séculaire, avec ses bateaux qui débarquent espadon et poissons frais servis chaque soir sur les terrasses grillées du front de mer. Plus à l'ouest, le sauvage parc naturel de la Serra da Arrábida et le sanctuaire du Cabo Espichel, au sommet des falaises, complètent un paysage de pinèdes, de falaises calcaires et de criques cachées, à courte distance de Lisbonne. Pour les propriétaires de chiens aujourd'hui, ce même littoral offre des terrasses de fruits de mer dog-friendly, les sentiers boisés de l'Arrábida et une baignade possible toute l'année à la Lagoa de Albufeira, tempérée seulement par l'interdiction estivale sur les plages surveillées de la ville.",
+      "es": "Sesimbra creció alrededor de una bahía resguardada y orientada al sur, en la costa de Arrábida, con un destino ligado al mar desde la Edad Media. El Castelo de Sesimbra, en lo alto de la colina, reconstruido por los moros y tomado durante la Reconquista cristiana en el siglo XII, sigue vigilando la ciudad y el Atlántico. A sus pies, el puerto pesquero en activo, el Porto de Abrigo, mantiene viva una tradición centenaria, con barcos que desembarcan pez espada y marisco fresco que llenan cada noche las terrazas de pescado a la brasa del paseo marítimo. Más al oeste, el salvaje parque natural de la Serra da Arrábida y el santuario de Cabo Espichel, en lo alto de los acantilados, completan un paisaje de pinares, acantilados calizos y calas escondidas, a poca distancia en coche de Lisboa. Para los dueños de perros de hoy, esa misma costa ofrece terrazas de marisco pet-friendly, senderos boscosos en Arrábida y baño todo el año en la Lagoa de Albufeira, atemperado solo por la prohibición veraniega en las playas vigiladas del propio pueblo.",
+      "pt": "Sesimbra cresceu à volta de uma baía abrigada e virada a sul, na costa da Arrábida, com um destino ligado ao mar desde a Idade Média. O Castelo de Sesimbra, no alto da colina, reconstruído pelos mouros e tomado durante a Reconquista cristã no século XII, continua a vigiar a vila e o Atlântico. Lá em baixo, o Porto de Abrigo, em atividade, mantém viva uma tradição secular de pesca, com barcos que desembarcam espadarte e marisco fresco que enchem todas as noites as esplanadas de grelhados da marginal. Mais a oeste, o selvagem Parque Natural da Serra da Arrábida e o santuário do Cabo Espichel, no topo das falésias, completam uma paisagem de pinhal, falésias calcárias e enseadas escondidas, a curta distância de carro de Lisboa. Para os donos de cães de hoje, essa mesma costa oferece esplanadas de marisco pet-friendly, trilhos florestais na Arrábida e banhos o ano inteiro na Lagoa de Albufeira, temperados apenas pela proibição de verão nas praias vigiadas da própria vila.",
+      "de": "Sesimbra entstand rund um eine geschützte, nach Süden ausgerichtete Bucht an der Küste der Arrábida, dessen Schicksal seit dem Mittelalter mit dem Meer verbunden ist. Das auf einem Hügel gelegene Castelo de Sesimbra, von den Mauren wiederaufgebaut und im 12. Jahrhundert während der christlichen Reconquista erobert, wacht bis heute über die Stadt und den Atlantik. Darunter hält der aktive Fischereihafen, der Porto de Abrigo, eine jahrhundertealte Tradition am Leben, dessen Boote Schwertfisch und frische Meeresfrüchte anlanden, die jeden Abend die Grillterrassen an der Uferpromenade füllen. Weiter westlich runden der wilde Naturpark Serra da Arrábida und das Wallfahrtsheiligtum Cabo Espichel auf den Klippen eine Landschaft aus Pinienwald, Kalksteinklippen und versteckten Buchten ab, alles in bequemer Fahrdistanz von Lissabon. Für Hundehalter bietet dieselbe Küste heute hundefreundliche Meeresfrüchte-Terrassen, bewaldete Arrábida-Wanderwege und ganzjähriges Schwimmen in der Lagoa de Albufeira, nur gedämpft durch sommerliche Verbote an den bewachten Stadtstränden.",
+      "nl": "Sesimbra groeide rond een beschutte, zuidgerichte baai aan de Arrábida-kust, met een lot dat sinds de middeleeuwen verbonden is met de zee. Het Castelo de Sesimbra, op de heuvel, herbouwd door de Moren en tijdens de christelijke Reconquista in de 12e eeuw heroverd, waakt nog steeds over de stad en de Atlantische Oceaan. Daaronder houdt de actieve vissershaven, de Porto de Abrigo, een eeuwenoude traditie levend, met boten die zwaardvis en verse zeevruchten aanvoeren die elke avond de grillterrassen aan de boulevard vullen. Verder westwaarts vervolledigen het wilde Natuurpark Serra da Arrábida en het bedevaartsheiligdom Cabo Espichel op de klippen een landschap van dennenbos, kalkstenen kliffen en verscholen baaien, op een korte rit van Lissabon. Voor hondeneigenaren biedt diezelfde kust vandaag hondvriendelijke zeevruchtenterrassen, beboste Arrábida-paden en het hele jaar zwemmen in de Lagoa de Albufeira, enkel getemperd door zomerse verboden op de bewaakte stadsstranden."
+    },
+    "sights": [
+      {
+        "name": "Castelo de Sesimbra",
+        "emoji": "🏰",
+        "petFriendly": true,
+        "desc": {
+          "en": "A hilltop medieval castle above the town, rebuilt by the Moors and taken during the Christian Reconquista in the 12th century. The exterior grounds and ramparts are open and free to visit; leashed dogs are commonly seen on the steep, cobbled climb, though building interiors are off-limits.",
+          "fr": "Château médiéval perché sur une colline au-dessus de la ville, reconstruit par les Maures et repris lors de la Reconquista chrétienne au XIIe siècle. Le site extérieur et les remparts sont ouverts et gratuits, des chiens en laisse sont couramment vus lors de la montée raide et pavée, mais les intérieurs des bâtiments restent interdits.",
+          "es": "Castillo medieval en lo alto de una colina sobre la ciudad, reconstruido por los moros y tomado durante la Reconquista cristiana en el siglo XII. El recinto exterior y las murallas son de acceso libre y gratuito, es habitual ver perros con correa en la empinada subida empedrada, aunque los interiores de los edificios quedan vetados.",
+          "pt": "Castelo medieval no alto de uma colina sobre a vila, reconstruído pelos mouros e tomado durante a Reconquista cristã no século XII. O recinto exterior e as muralhas são de acesso livre e gratuito, sendo comum ver cães com trela na subida íngreme e de calçada, embora os interiores dos edifícios estejam vedados.",
+          "de": "Mittelalterliche Burg auf einem Hügel über der Stadt, von den Mauren wiederaufgebaut und im 12. Jahrhundert während der christlichen Reconquista erobert. Das äußere Gelände und die Wallanlagen sind frei und kostenlos zugänglich, angeleinte Hunde sieht man häufig beim steilen, gepflasterten Aufstieg, die Gebäudeinnenräume bleiben jedoch tabu.",
+          "nl": "Middeleeuws kasteel op een heuvel boven de stad, herbouwd door de Moren en tijdens de christelijke Reconquista in de 12e eeuw heroverd. Het buitenterrein en de vestingwallen zijn vrij en gratis toegankelijk, aangelijnde honden worden vaak gezien op de steile, geplaveide klim, al blijven de interieurs van de gebouwen verboden terrein."
+        }
+      },
+      {
+        "name": "Porto de Abrigo",
+        "emoji": "🎣",
+        "petFriendly": true,
+        "desc": {
+          "en": "Sesimbra's working fishing harbour, where boats still land swordfish and fresh catch that supply the town's seafront restaurants. A public promenade runs along the water, and leashed dogs are generally welcome to walk it, especially in the late afternoon when the boats return.",
+          "fr": "Le port de pêche actif de Sesimbra, où les bateaux débarquent encore espadon et pêche fraîche qui approvisionnent les restaurants du front de mer. Une promenade publique longe l'eau, où les chiens en laisse sont généralement bienvenus, surtout en fin d'après-midi au retour des bateaux.",
+          "es": "El puerto pesquero en activo de Sesimbra, donde los barcos aún desembarcan pez espada y pesca fresca que abastecen los restaurantes del paseo marítimo. Un paseo público bordea el agua, donde los perros con correa suelen ser bienvenidos, especialmente a última hora de la tarde cuando regresan los barcos.",
+          "pt": "O porto de pesca em atividade de Sesimbra, onde os barcos ainda desembarcam espadarte e pesca fresca que abastecem os restaurantes da marginal. Um passeio público acompanha a água, onde os cães com trela são geralmente bem-vindos, sobretudo ao final da tarde quando os barcos regressam.",
+          "de": "Der aktive Fischereihafen von Sesimbra, wo Boote noch immer Schwertfisch und frischen Fang anlanden, die die Restaurants an der Uferpromenade versorgen. Eine öffentliche Promenade verläuft am Wasser entlang, wo angeleinte Hunde in der Regel willkommen sind, besonders am späten Nachmittag, wenn die Boote zurückkehren.",
+          "nl": "De actieve vissershaven van Sesimbra, waar boten nog steeds zwaardvis en verse vangst aanvoeren die de restaurants aan de boulevard bevoorraden. Een openbare promenade loopt langs het water, waar aangelijnde honden doorgaans welkom zijn, vooral aan het einde van de middag wanneer de boten terugkeren."
+        }
+      },
+      {
+        "name": "Baía e Avenida dos Náufragos",
+        "emoji": "🌊",
+        "petFriendly": true,
+        "desc": {
+          "en": "The town's sheltered, south-facing bay and its seafront avenue, lined with cafes and grelhador terraces looking out over the Atlantic. The paved promenade itself is walkable with a leashed dog year-round, though the town's own guarded beach nearby bans dogs under municipal rules.",
+          "fr": "La baie abritée et orientée au sud de la ville, avec son avenue en front de mer bordée de cafés et de terrasses de grillades face à l'Atlantique. La promenade pavée elle-même se parcourt toute l'année avec un chien en laisse, bien que la plage surveillée voisine de la ville interdise les chiens selon le règlement municipal.",
+          "es": "La bahía resguardada y orientada al sur de la ciudad, con su avenida frente al mar bordeada de cafés y terrazas de pescado a la brasa mirando al Atlántico. El propio paseo pavimentado se puede recorrer todo el año con un perro con correa, aunque la playa vigilada cercana de la ciudad prohíbe los perros según el reglamento municipal.",
+          "pt": "A baía abrigada e virada a sul da vila, com a sua avenida marginal ladeada de cafés e esplanadas de grelhados com vista para o Atlântico. O próprio passeio pavimentado pode ser percorrido o ano inteiro com um cão à trela, embora a praia vigiada próxima da vila proíba cães segundo o regulamento municipal.",
+          "de": "Die geschützte, nach Süden ausgerichtete Bucht der Stadt und ihre Uferpromenade, gesäumt von Cafés und Grillterrassen mit Blick auf den Atlantik. Die gepflasterte Promenade selbst ist ganzjährig mit einem angeleinten Hund begehbar, obwohl der nahe gelegene bewachte Stadtstrand laut Gemeindevorschrift Hunde verbietet.",
+          "nl": "De beschutte, zuidgerichte baai van de stad en haar boulevard, omzoomd door cafés en grillterrassen met uitzicht op de Atlantische Oceaan. De geplaveide promenade zelf is het hele jaar te belopen met een aangelijnde hond, al verbiedt het nabijgelegen bewaakte stadsstrand honden volgens de gemeentelijke regels."
+        }
+      },
+      {
+        "name": "Cabo Espichel",
+        "emoji": "⛪",
+        "petFriendly": true,
+        "desc": {
+          "en": "A dramatic clifftop headland about 12 km from town, with a lighthouse and the historic pilgrimage sanctuary of Nossa Senhora do Cabo Espichel. Hiking trails around the open cape are used by dog walkers on a leash, though the sanctuary and lighthouse interiors are off-limits.",
+          "fr": "Un promontoire spectaculaire à environ 12 km de la ville, avec un phare et le sanctuaire de pèlerinage historique de Nossa Senhora do Cabo Espichel. Les sentiers de randonnée autour du cap ouvert sont utilisés par des promeneurs de chiens en laisse, mais les intérieurs du sanctuaire et du phare sont interdits.",
+          "es": "Un espectacular promontorio a unos 12 km de la ciudad, con un faro y el histórico santuario de peregrinación de Nossa Senhora do Cabo Espichel. Los senderos alrededor del cabo abierto son usados por paseadores de perros con correa, aunque los interiores del santuario y del faro quedan vetados.",
+          "pt": "Um promontório dramático a cerca de 12 km da vila, com um farol e o histórico santuário de peregrinação de Nossa Senhora do Cabo Espichel. Os trilhos em torno do cabo aberto são usados por quem passeia cães à trela, embora os interiores do santuário e do farol estejam vedados.",
+          "de": "Ein dramatisches Klippenkap etwa 12 km von der Stadt entfernt, mit einem Leuchtturm und dem historischen Wallfahrtsheiligtum Nossa Senhora do Cabo Espichel. Wanderwege rund um das offene Kap werden von Hundebesitzern mit Leine genutzt, die Innenräume von Heiligtum und Leuchtturm bleiben jedoch tabu.",
+          "nl": "Een indrukwekkende klifkaap zo'n 12 km van de stad, met een vuurtoren en het historische bedevaartsheiligdom Nossa Senhora do Cabo Espichel. Wandelpaden rond de open kaap worden gebruikt door hondenuitlaters aan de lijn, al blijven de interieurs van heiligdom en vuurtoren verboden terrein."
+        }
+      },
+      {
+        "name": "Miradouros da Serra da Arrábida",
+        "emoji": "🌿",
+        "petFriendly": true,
+        "desc": {
+          "en": "Viewpoints along the Serra da Arrábida natural park, overlooking pine forest, limestone cliffs and the turquoise coves between Sesimbra and Setúbal. Around 95 percent of the park is private land crossed by marked trails, so dogs should stay leashed and on the paths rather than roam off-trail.",
+          "fr": "Points de vue le long du parc naturel de la Serra da Arrábida, surplombant pinèdes, falaises calcaires et criques turquoise entre Sesimbra et Setúbal. Environ 95 % du parc est une propriété privée traversée par des sentiers balisés, les chiens doivent donc rester en laisse et sur les chemins plutôt que d'errer hors piste.",
+          "es": "Miradores a lo largo del parque natural de la Serra da Arrábida, con vistas a pinares, acantilados calizos y calas turquesa entre Sesimbra y Setúbal. Alrededor del 95% del parque es propiedad privada atravesada por senderos señalizados, así que los perros deben permanecer con correa y en los caminos en lugar de vagar fuera del sendero.",
+          "pt": "Miradouros ao longo do Parque Natural da Serra da Arrábida, com vista sobre pinhal, falésias calcárias e enseadas turquesa entre Sesimbra e Setúbal. Cerca de 95% do parque é propriedade privada atravessada por trilhos marcados, pelo que os cães devem manter-se com trela e nos caminhos em vez de vaguear fora do trilho.",
+          "de": "Aussichtspunkte entlang des Naturparks Serra da Arrábida mit Blick auf Kiefernwald, Kalksteinklippen und türkisfarbene Buchten zwischen Sesimbra und Setúbal. Rund 95 Prozent des Parks sind Privatland, das von markierten Wegen durchzogen wird, Hunde sollten also angeleint und auf den Pfaden bleiben, statt abseits davon zu streifen.",
+          "nl": "Uitkijkpunten langs het Natuurpark Serra da Arrábida, met zicht op dennenbos, kalkstenen kliffen en turquoise baaien tussen Sesimbra en Setúbal. Ongeveer 95 procent van het park is privéterrein doorkruist door gemarkeerde paden, honden moeten dus aangelijnd en op de paden blijven in plaats van er los te dwalen."
+        }
+      },
+      {
+        "name": "Fortaleza de Santiago",
+        "emoji": "🛡️",
+        "petFriendly": true,
+        "desc": {
+          "en": "A seafront fort on the Sesimbra waterfront, built to defend the bay in past centuries and now standing beside the promenade. The exterior and surrounding seafront area can be walked with a leashed dog, though the fort's interior is not open to the general public as a visitor sight.",
+          "fr": "Un fort en bord de mer sur le front de mer de Sesimbra, construit pour défendre la baie par le passé et se dressant aujourd'hui à côté de la promenade. L'extérieur et les abords du front de mer se parcourent avec un chien en laisse, mais l'intérieur du fort n'est pas ouvert au public en tant que site de visite.",
+          "es": "Un fuerte frente al mar en el paseo marítimo de Sesimbra, construido para defender la bahía en siglos pasados y hoy situado junto al paseo. El exterior y la zona costera circundante se pueden recorrer con un perro con correa, aunque el interior del fuerte no está abierto al público como atracción visitable.",
+          "pt": "Um forte à beira-mar na marginal de Sesimbra, construído para defender a baía em séculos passados e hoje situado junto ao passeio. O exterior e a zona costeira envolvente podem ser percorridos com um cão à trela, embora o interior do forte não esteja aberto ao público como local de visita.",
+          "de": "Eine Festung am Meer an der Uferpromenade von Sesimbra, in vergangenen Jahrhunderten zur Verteidigung der Bucht erbaut und heute neben der Promenade gelegen. Das Äußere und die umliegende Uferzone können mit einem angeleinten Hund begangen werden, das Innere der Festung ist jedoch nicht als Besuchersehenswürdigkeit für die Öffentlichkeit zugänglich.",
+          "nl": "Een fort aan zee op de boulevard van Sesimbra, in vroegere eeuwen gebouwd om de baai te verdedigen en nu gelegen naast de promenade. De buitenkant en het omliggende kustgebied zijn te belopen met een aangelijnde hond, al is het interieur van het fort niet als bezienswaardigheid opengesteld voor het publiek."
+        }
+      }
+    ],
+    "petTips": {
+      "en": [
+        "Dogs must be leashed in public places in Portugal; breeds classed as dangerous or potentially dangerous (Pit Bull Terrier, Rottweiler, Staffordshire breeds and others) require a muzzle plus a short leash by law.",
+        "During the summer bathing season, Sesimbra's own guarded town beach, Praia do Ouro, bans dogs year-round; head instead to Lagoa de Albufeira or Praia de Meco, which stay dog-friendly.",
+        "Summer heat is intense with little shade on the cobbled streets and along the harbour front, so walk your dog early morning or evening and carry water.",
+        "Around 95 percent of the Serra da Arrábida Natural Park is private land, so keep dogs leashed and stick to marked trails rather than cutting across fenced ground.",
+        "The climb up to the Castelo de Sesimbra is steep and cobbled; comfortable for a leashed dog but plan for a slow, hilly walk rather than a quick stroll."
+      ],
+      "fr": [
+        "Les chiens doivent être tenus en laisse dans les lieux publics au Portugal ; les races classées dangereuses ou potentiellement dangereuses (Pit Bull Terrier, Rottweiler, races Staffordshire et autres) doivent légalement porter une muselière et une laisse courte.",
+        "Pendant la saison balnéaire d'été, la plage surveillée du centre-ville, la Praia do Ouro, interdit les chiens toute l'année ; privilégiez plutôt la Lagoa de Albufeira ou la Praia de Meco, qui restent dog-friendly.",
+        "La chaleur estivale est intense, avec peu d'ombre sur les rues pavées et le long du port, promenez donc votre chien tôt le matin ou le soir et emportez de l'eau.",
+        "Environ 95 % du Parque Natural da Arrábida est une propriété privée, gardez donc les chiens en laisse et restez sur les sentiers balisés plutôt que de couper à travers des terrains clôturés.",
+        "La montée vers le Castelo de Sesimbra est raide et pavée ; confortable pour un chien en laisse, mais prévoyez une marche lente et vallonnée plutôt qu'une simple balade."
+      ],
+      "es": [
+        "Los perros deben ir con correa en lugares públicos en Portugal; las razas clasificadas como peligrosas o potencialmente peligrosas (Pit Bull Terrier, Rottweiler, razas Staffordshire y otras) requieren por ley bozal y correa corta.",
+        "Durante la temporada de baño de verano, la propia playa vigilada del centro, Praia do Ouro, prohíbe los perros todo el año; ve en su lugar a Lagoa de Albufeira o Praia de Meco, que siguen siendo pet-friendly.",
+        "El calor de verano es intenso con poca sombra en las calles empedradas y a lo largo del puerto, así que pasea a tu perro temprano por la mañana o al atardecer y lleva agua.",
+        "Alrededor del 95% del Parque Natural da Arrábida es propiedad privada, así que mantén a los perros con correa y en los senderos señalizados en vez de cruzar terrenos vallados.",
+        "La subida hacia el Castelo de Sesimbra es empinada y empedrada; cómoda para un perro con correa, pero prevé un paseo lento y con cuestas en lugar de un recorrido rápido."
+      ],
+      "pt": [
+        "Os cães devem estar com trela em locais públicos em Portugal; as raças classificadas como perigosas ou potencialmente perigosas (Pit Bull Terrier, Rottweiler, raças Staffordshire e outras) exigem por lei açaime e trela curta.",
+        "Durante a época balnear de verão, a própria praia vigiada do centro, a Praia do Ouro, proíbe cães durante todo o ano; vá antes à Lagoa de Albufeira ou à Praia de Meco, que se mantêm pet-friendly.",
+        "O calor de verão é intenso, com pouca sombra nas ruas de calçada e ao longo da marginal do porto, por isso passeie o seu cão de manhã cedo ou ao fim do dia e leve água.",
+        "Cerca de 95% do Parque Natural da Arrábida é propriedade privada, por isso mantenha os cães com trela e nos trilhos marcados em vez de atravessar terrenos vedados.",
+        "A subida até ao Castelo de Sesimbra é íngreme e de calçada; confortável para um cão com trela, mas conte com um passeio lento e com subidas em vez de um passeio rápido."
+      ],
+      "de": [
+        "Hunde müssen in Portugal an öffentlichen Orten angeleint sein; als gefährlich oder potenziell gefährlich eingestufte Rassen (Pit Bull Terrier, Rottweiler, Staffordshire-Rassen und andere) benötigen gesetzlich einen Maulkorb und eine kurze Leine.",
+        "Während der sommerlichen Badesaison verbietet der eigene bewachte Stadtstrand von Sesimbra, die Praia do Ouro, Hunde ganzjährig; weichen Sie stattdessen auf die Lagoa de Albufeira oder die Praia de Meco aus, die hundefreundlich bleiben.",
+        "Die Sommerhitze ist intensiv, mit wenig Schatten auf den Kopfsteinpflasterstraßen und entlang der Hafenpromenade, gehen Sie also früh morgens oder abends mit dem Hund spazieren und nehmen Sie Wasser mit.",
+        "Rund 95 Prozent des Naturparks Serra da Arrábida sind Privatland, halten Sie Hunde also angeleint und bleiben Sie auf markierten Wegen, statt umzäuntes Land zu durchqueren.",
+        "Der Aufstieg zum Castelo de Sesimbra ist steil und gepflastert; für einen angeleinten Hund angenehm zu bewältigen, planen Sie aber einen langsamen, hügeligen Spaziergang statt eines kurzen Bummels ein."
+      ],
+      "nl": [
+        "Honden moeten in Portugal op openbare plekken aangelijnd zijn; als gevaarlijk of potentieel gevaarlijk geclassificeerde rassen (Pit Bull Terrier, Rottweiler, Staffordshire-rassen en andere) hebben wettelijk een muilkorf en een korte lijn nodig.",
+        "Tijdens het zomerse badseizoen verbiedt het eigen bewaakte stadsstrand van Sesimbra, Praia do Ouro, honden het hele jaar door; ga in plaats daarvan naar Lagoa de Albufeira of Praia de Meco, die hondvriendelijk blijven.",
+        "De zomerhitte is intens, met weinig schaduw op de geplaveide straten en langs de havenboulevard, laat je hond dus vroeg in de ochtend of 's avonds uit en neem water mee.",
+        "Ongeveer 95 procent van het Natuurpark Serra da Arrábida is privéterrein, houd honden dus aangelijnd en blijf op gemarkeerde paden in plaats van omheind terrein over te steken.",
+        "De klim naar het Castelo de Sesimbra is steil en geplaveid; comfortabel voor een aangelijnde hond, maar reken op een langzame, heuvelachtige wandeling in plaats van een snel ommetje."
+      ]
+    },
+    "practicalInfo": {
+      "en": [
+        "The nearest international airport is Lisbon Humberto Delgado (LIS), roughly 40 km away and normally 45 to 60 minutes by car, with no direct public transport link into Sesimbra.",
+        "Getting there without a car means a TST/Carris Metropolitana bus direct from Lisbon Sete Rios, or the Fertagus train to Setúbal followed by a local bus or taxi.",
+        "Portugal follows the EU Pet Travel Scheme: an EU pet passport, ISO microchip and current rabies vaccination are required for entry with a dog.",
+        "No confirmed 24-hour emergency vet operates inside Sesimbra itself; the nearest such facilities are in the greater Setúbal or Lisbon area.",
+        "Spring and autumn, or the shoulder months either side of the summer bathing season, are the best times to visit with a dog, since they avoid the beach bans and the harshest summer heat."
+      ],
+      "fr": [
+        "L'aéroport international le plus proche est celui de Lisbonne Humberto Delgado (LIS), à environ 40 km, normalement 45 à 60 minutes en voiture, sans liaison directe en transport public jusqu'à Sesimbra.",
+        "Sans voiture, on s'y rend en bus TST/Carris Metropolitana direct depuis Lisboa Sete Rios, ou en train Fertagus jusqu'à Setúbal suivi d'un bus local ou d'un taxi.",
+        "Le Portugal applique le régime UE de voyage des animaux : un passeport européen pour animaux, une puce ISO et une vaccination antirabique en cours sont exigés pour entrer avec un chien.",
+        "Aucun vétérinaire d'urgence 24h/24 confirmé n'opère à Sesimbra même ; les établissements les plus proches se trouvent dans le Grand Setúbal ou Lisbonne.",
+        "Le printemps et l'automne, ou les mois qui encadrent la saison balnéaire d'été, sont les meilleures périodes pour visiter avec un chien, car ils évitent les interdictions de plage et la chaleur estivale la plus forte."
+      ],
+      "es": [
+        "El aeropuerto internacional más cercano es el de Lisboa Humberto Delgado (LIS), a unos 40 km, normalmente entre 45 y 60 minutos en coche, sin enlace directo de transporte público hasta Sesimbra.",
+        "Sin coche, se llega en autobús de TST/Carris Metropolitana directo desde Lisboa Sete Rios, o en tren Fertagus hasta Setúbal seguido de un autobús local o taxi.",
+        "Portugal aplica el régimen UE de viaje con animales: se exige pasaporte europeo para mascotas, microchip ISO y vacuna antirrábica vigente para entrar con un perro.",
+        "Ningún veterinario de urgencias 24 horas confirmado opera dentro de la propia Sesimbra; las instalaciones más cercanas de este tipo están en el área de Setúbal o Lisboa.",
+        "La primavera y el otoño, o los meses que rodean la temporada de baño de verano, son las mejores épocas para visitar con un perro, ya que evitan las prohibiciones de playa y el calor más intenso del verano."
+      ],
+      "pt": [
+        "O aeroporto internacional mais próximo é o de Lisboa Humberto Delgado (LIS), a cerca de 40 km, normalmente entre 45 e 60 minutos de carro, sem ligação direta de transporte público até Sesimbra.",
+        "Sem carro, chega-se de autocarro TST/Carris Metropolitana direto a partir de Lisboa Sete Rios, ou de comboio Fertagus até Setúbal seguido de autocarro local ou táxi.",
+        "Portugal aplica o regime UE de viagem com animais: é exigido passaporte europeu para animais, microchip ISO e vacina antirrábica em vigor para entrar com um cão.",
+        "Não há nenhum veterinário de urgência 24 horas confirmado a operar dentro da própria Sesimbra; as unidades mais próximas deste tipo ficam na área de Setúbal ou de Lisboa.",
+        "A primavera e o outono, ou os meses que rodeiam a época balnear de verão, são as melhores alturas para visitar com um cão, já que evitam as proibições de praia e o calor mais intenso do verão."
+      ],
+      "de": [
+        "Der nächste internationale Flughafen ist Lissabon Humberto Delgado (LIS), etwa 40 km entfernt und normalerweise 45 bis 60 Minuten mit dem Auto, ohne direkte öffentliche Verkehrsanbindung nach Sesimbra.",
+        "Ohne Auto kommt man mit einem direkten TST/Carris-Metropolitana-Bus von Lissabon Sete Rios aus hin, oder mit dem Fertagus-Zug nach Setúbal, gefolgt von einem örtlichen Bus oder Taxi.",
+        "Portugal folgt dem EU-Heimtierausweis-System: Für die Einreise mit einem Hund sind ein EU-Heimtierausweis, ein ISO-Mikrochip und eine aktuelle Tollwutimpfung erforderlich.",
+        "Innerhalb von Sesimbra selbst ist kein bestätigter 24-Stunden-Notfalltierarzt tätig; die nächstgelegenen derartigen Einrichtungen befinden sich im Großraum Setúbal oder Lissabon.",
+        "Frühling und Herbst, oder die Monate direkt vor und nach der sommerlichen Badesaison, sind die beste Reisezeit mit Hund, da sie die Strandverbote und die stärkste Sommerhitze vermeiden."
+      ],
+      "nl": [
+        "De dichtstbijzijnde internationale luchthaven is Lissabon Humberto Delgado (LIS), ongeveer 40 km verderop en normaal 45 tot 60 minuten met de auto, zonder rechtstreekse openbaarvervoerverbinding naar Sesimbra.",
+        "Zonder auto kom je er met een rechtstreekse TST/Carris Metropolitana-bus vanuit Lissabon Sete Rios, of met de Fertagus-trein naar Setúbal gevolgd door een lokale bus of taxi.",
+        "Portugal volgt het EU-huisdierenpaspoortsysteem: voor binnenkomst met een hond zijn een EU-huisdierenpaspoort, ISO-microchip en actuele rabiësvaccinatie vereist.",
+        "Binnen Sesimbra zelf is geen bevestigde 24-uurs spoeddierenarts actief; de dichtstbijzijnde dergelijke voorzieningen bevinden zich in de regio Setúbal of Lissabon.",
+        "Lente en herfst, of de maanden net voor en na het zomerse badseizoen, zijn de beste tijden om met een hond op bezoek te gaan, omdat je dan de strandverboden en de felste zomerhitte vermijdt."
+      ]
+    }
   },
   sete: {
     history: {

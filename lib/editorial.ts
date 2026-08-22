@@ -21,6 +21,16 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    honfleur: {
+      personality: `a postcard Norman port at the mouth of the Seine, where tall slate-fronted houses ring the Vieux Bassin harbour, France's largest wooden church rises over the Place Sainte-Catherine, and the wooded Côte de Grâce looks out over the estuary and the Pont de Normandie`,
+      highlight: `the quays of the Vieux Bassin, the ten-hectare Jardin des Personnalités, and the Côte de Grâce and Mont-Joli viewpoint walk`,
+      area: `the Vieux Bassin and Quai Sainte-Catherine, the Enclos old town, and the hillside around the Côte de Grâce`,
+    },
+    sesimbra: {
+      personality: `a whitewashed fishing town on Portugal's Arrábida coast, where a Moorish castle crowns the hill above a working harbour, the sheltered bay curves along a sandy town beach, and forest trails climb into the Serra da Arrábida natural park just south of Lisbon`,
+      highlight: `the sheltered town bay and Porto de Abrigo harbour, the trails of the Serra da Arrábida and Sesimbra Natura Park, and the clifftop Cabo Espichel`,
+      area: `the seafront around the Avenida and the town beach, the castle hill above the old town, and the Meco and Lagoa de Albufeira coast to the west`,
+    },
     ronda: {
       personality: `a dramatic clifftop town in the mountains of Málaga province, split by the 100-metre El Tajo gorge and joined by the 18th-century Puente Nuevo, where a Moorish old town, one of Spain's oldest bullrings and the tree-lined Alameda del Tajo frame sweeping cliff-edge miradores`,
       highlight: `the Puente Nuevo and El Tajo gorge viewpoints, the shaded avenues and Balcón del Tajo of the Alameda del Tajo, and the cobbled lanes of La Ciudad old town`,
@@ -2129,6 +2139,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    honfleur: {
+      personality: `un port normand de carte postale à l'embouchure de la Seine, où de hautes maisons aux façades d'ardoise entourent le Vieux Bassin, la plus grande église en bois de France domine la place Sainte-Catherine, et la Côte de Grâce boisée surplombe l'estuaire et le pont de Normandie`,
+      highlight: `les quais du Vieux Bassin, le Jardin des Personnalités de dix hectares, et la promenade panoramique de la Côte de Grâce et du Mont-Joli`,
+      area: `le Vieux Bassin et le quai Sainte-Catherine, la vieille ville de l'Enclos, et les hauteurs autour de la Côte de Grâce`,
+    },
+    sesimbra: {
+      personality: `une ville de pêcheurs aux maisons blanches sur la côte de l'Arrábida au Portugal, où un château mauresque couronne la colline au-dessus d'un port de pêche, la baie abritée dessine une plage de sable, et des sentiers forestiers grimpent dans le parc naturel de la Serra da Arrábida juste au sud de Lisbonne`,
+      highlight: `la baie abritée et le port de pêche Porto de Abrigo, les sentiers de la Serra da Arrábida et du Sesimbra Natura Park, et le cap Cabo Espichel`,
+      area: `le front de mer autour de l'Avenida et la plage de la ville, la colline du château au-dessus de la vieille ville, et la côte de Meco et de la Lagoa de Albufeira à l'ouest`,
+    },
     ronda: {
       personality: `une spectaculaire ville perchée dans les montagnes de la province de Malaga, fendue par la gorge d'El Tajo de 100 mètres et reliée par le Puente Nuevo du XVIIIe siècle, où une vieille ville mauresque, l'une des plus anciennes arènes d'Espagne et l'Alameda del Tajo bordée d'arbres encadrent de vertigineux miradors au bord de la falaise`,
       highlight: `le Puente Nuevo et les points de vue sur la gorge d'El Tajo, les allées ombragées et le Balcón del Tajo de l'Alameda del Tajo, et les ruelles pavées de la vieille ville de La Ciudad`,
@@ -4236,6 +4256,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    honfleur: {
+      personality: `un puerto normando de postal en la desembocadura del Sena, donde altas casas de fachada de pizarra rodean el Vieux Bassin, la mayor iglesia de madera de Francia se alza sobre la plaza Sainte-Catherine, y la boscosa Côte de Grâce domina el estuario y el puente de Normandía`,
+      highlight: `los muelles del Vieux Bassin, el Jardin des Personnalités de diez hectáreas, y el paseo panorámico de la Côte de Grâce y el Mont-Joli`,
+      area: `el Vieux Bassin y el muelle Sainte-Catherine, el casco antiguo del Enclos, y las alturas en torno a la Côte de Grâce`,
+    },
+    sesimbra: {
+      personality: `un pueblo pesquero de casas blancas en la costa de la Arrábida, en Portugal, donde un castillo de origen musulmán corona la colina sobre un puerto pesquero, la bahía resguardada dibuja una playa de arena, y senderos forestales suben al parque natural de la Serra da Arrábida justo al sur de Lisboa`,
+      highlight: `la bahía resguardada y el puerto pesquero Porto de Abrigo, los senderos de la Serra da Arrábida y el Sesimbra Natura Park, y el cabo Cabo Espichel`,
+      area: `el frente marítimo en torno a la Avenida y la playa del pueblo, la colina del castillo sobre el casco antiguo, y la costa de Meco y la Lagoa de Albufeira al oeste`,
+    },
     ronda: {
       personality: `una espectacular ciudad encaramada en las montañas de la provincia de Málaga, partida por el tajo de 100 metros de El Tajo y unida por el Puente Nuevo del siglo XVIII, donde un casco antiguo de origen musulmán, una de las plazas de toros más antiguas de España y la arbolada Alameda del Tajo enmarcan vertiginosos miradores al borde del precipicio`,
       highlight: `el Puente Nuevo y los miradores sobre el tajo de El Tajo, las avenidas sombreadas y el Balcón del Tajo de la Alameda del Tajo, y las calles empedradas del casco antiguo de La Ciudad`,
@@ -6343,6 +6373,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    honfleur: {
+      personality: `um porto normando de postal na foz do Sena, onde altas casas de fachada de ardósia rodeiam o Vieux Bassin, a maior igreja de madeira de França ergue-se sobre a praça Sainte-Catherine, e a arborizada Côte de Grâce domina o estuário e a ponte da Normandia`,
+      highlight: `os cais do Vieux Bassin, o Jardin des Personnalités de dez hectares, e o passeio panorâmico da Côte de Grâce e do Mont-Joli`,
+      area: `o Vieux Bassin e o cais Sainte-Catherine, o centro histórico do Enclos, e as encostas em torno da Côte de Grâce`,
+    },
+    sesimbra: {
+      personality: `uma vila piscatória de casas brancas na costa da Arrábida, em Portugal, onde um castelo de origem mourisca coroa a colina sobre um porto de pesca, a baía abrigada desenha uma praia de areia, e trilhos florestais sobem ao parque natural da Serra da Arrábida, mesmo a sul de Lisboa`,
+      highlight: `a baía abrigada e o Porto de Abrigo, os trilhos da Serra da Arrábida e do Sesimbra Natura Park, e o Cabo Espichel`,
+      area: `a frente-mar em torno da Avenida e a praia da vila, a colina do castelo acima do centro histórico, e a costa do Meco e da Lagoa de Albufeira a oeste`,
+    },
     ronda: {
       personality: `uma espetacular cidade empoleirada nas montanhas da província de Málaga, rasgada pela garganta de 100 metros de El Tajo e unida pela Puente Nuevo do século XVIII, onde um centro histórico de origem mourisca, uma das mais antigas praças de touros de Espanha e a arborizada Alameda del Tajo emolduram vertiginosos miradouros à beira do precipício`,
       highlight: `a Puente Nuevo e os miradouros sobre a garganta de El Tajo, as avenidas sombreadas e o Balcón del Tajo da Alameda del Tajo, e as ruelas de calçada do centro histórico de La Ciudad`,
@@ -8450,6 +8490,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   de: {
+    honfleur: {
+      personality: `ein bilderbuchhafter normannischer Hafen an der Seinemündung, wo hohe schiefergedeckte Häuser das Vieux Bassin umrahmen, Frankreichs größte Holzkirche über dem Place Sainte-Catherine aufragt und die bewaldete Côte de Grâce über die Mündung und die Pont de Normandie blickt`,
+      highlight: `die Kais des Vieux Bassin, der zehn Hektar große Jardin des Personnalités und der Aussichtsweg der Côte de Grâce und des Mont-Joli`,
+      area: `das Vieux Bassin und der Quai Sainte-Catherine, die Altstadt Enclos und die Hänge rund um die Côte de Grâce`,
+    },
+    sesimbra: {
+      personality: `ein weiß getünchtes Fischerstädtchen an der Arrábida-Küste Portugals, wo eine maurische Burg den Hügel über einem Fischereihafen krönt, die geschützte Bucht einen Sandstrand säumt und Waldpfade in den Naturpark Serra da Arrábida südlich von Lissabon hinaufführen`,
+      highlight: `die geschützte Bucht und der Fischereihafen Porto de Abrigo, die Pfade der Serra da Arrábida und des Sesimbra Natura Park, und das Kap Cabo Espichel`,
+      area: `die Strandpromenade rund um die Avenida und der Stadtstrand, der Burghügel über der Altstadt, und die Küste von Meco und der Lagoa de Albufeira im Westen`,
+    },
     ronda: {
       personality: `eine spektakuläre Bergstadt in der Provinz Málaga, gespalten von der 100 Meter tiefen Schlucht El Tajo und verbunden durch die Puente Nuevo aus dem 18. Jahrhundert, wo eine maurische Altstadt, eine der ältesten Stierkampfarenen Spaniens und die baumbestandene Alameda del Tajo schwindelerregende Aussichtspunkte am Klippenrand einrahmen`,
       highlight: `die Puente Nuevo und die Aussichtspunkte über die Schlucht El Tajo, die schattigen Alleen und der Balcón del Tajo der Alameda del Tajo sowie die gepflasterten Gassen der Altstadt La Ciudad`,
@@ -10557,6 +10607,16 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   nl: {
+    honfleur: {
+      personality: `een Normandische havenstad als van een ansichtkaart aan de monding van de Seine, waar hoge huizen met leigevels het Vieux Bassin omringen, de grootste houten kerk van Frankrijk boven het Place Sainte-Catherine uitrijst en de beboste Côte de Grâce uitkijkt over de riviermonding en de Pont de Normandie`,
+      highlight: `de kades van het Vieux Bassin, de tien hectare grote Jardin des Personnalités, en de panoramawandeling van de Côte de Grâce en de Mont-Joli`,
+      area: `het Vieux Bassin en de Quai Sainte-Catherine, de oude stad Enclos, en de heuvels rond de Côte de Grâce`,
+    },
+    sesimbra: {
+      personality: `een wit geschilderd vissersstadje aan de Arrábida-kust van Portugal, waar een Moorse burcht de heuvel boven een vissershaven bekroont, de beschutte baai langs een zandstrand loopt en bospaden omhoogklimmen het natuurpark Serra da Arrábida in, net ten zuiden van Lissabon`,
+      highlight: `de beschutte baai en de vissershaven Porto de Abrigo, de paden van de Serra da Arrábida en het Sesimbra Natura Park, en de kliftop Cabo Espichel`,
+      area: `de boulevard rond de Avenida en het stadsstrand, de kasteelheuvel boven de oude stad, en de kust van Meco en de Lagoa de Albufeira in het westen`,
+    },
     ronda: {
       personality: `een spectaculair stadje hoog in de bergen van de provincie Málaga, gespleten door de 100 meter diepe El Tajo-kloof en verbonden door de 18e-eeuwse Puente Nuevo, waar een Moorse oude stad, een van de oudste stierenarena's van Spanje en de met bomen omzoomde Alameda del Tajo duizelingwekkende uitzichtpunten aan de rand van de klif omlijsten`,
       highlight: `de Puente Nuevo en de uitzichtpunten over de El Tajo-kloof, de schaduwrijke lanen en het Balcón del Tajo van de Alameda del Tajo, en de geplaveide straatjes van de oude stad La Ciudad`,

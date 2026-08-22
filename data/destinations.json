@@ -31652,5 +31652,153 @@
         "icon": "⛅"
       }
     }
+  },
+  {
+    "slug": "honfleur",
+    "name": "Honfleur",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/honfleur.jpg",
+    "intro": "A postcard Normandy port at the mouth of the Seine, Honfleur wraps its tall slate-fronted houses and the Vieux Bassin harbour around a dog-friendly quayside, with the wooden Sainte-Catherine church, the Côte de Grâce viewpoint and a string of Norman dog beaches all within easy reach.",
+    "lat": 49.4194,
+    "lng": 0.2333,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cool & grey",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild & fresh",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild & bright",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool & damp",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool & grey",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "sesimbra",
+    "name": "Sesimbra",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/sesimbra.jpg",
+    "intro": "A whitewashed fishing town on Portugal’s Setúbal coast below the Serra da Arrábida, Sesimbra pairs a castle-topped old town and a working harbour with sheltered Atlantic beaches and clifftop trails, an easy dog-friendly base a short drive south of Lisbon.",
+    "lat": 38.4443,
+    "lng": -9.1017,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild & bright",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild & cool",
+        "icon": "⛅"
+      }
+    }
   }
 ]

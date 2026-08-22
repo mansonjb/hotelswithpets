@@ -25,6 +25,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   pt: { label: 'Hoteis pet-friendly costa baltica', cta: 'Ver hoteis' },
   de: { label: 'Hundefreundliche Hotels Ostseekueste', cta: 'Hotels ansehen' },
   nl: { label: 'Hondvriendelijke hotels Oostzeekust', cta: 'Bekijk hotels' },
+  it: { label: 'Hotel pet-friendly costa baltica', cta: 'Vedi gli hotel' },
 }
 
 export async function generateStaticParams() {
@@ -46,6 +47,7 @@ export async function generateMetadata({
     pt: `Costa baltica pet-friendly 2026: 8 destinos de praia da Polonia a Estonia`,
     de: `Hundefreundliche Ostseekueste 2026: 8 Strandziele von Polen bis Estland`,
     nl: `Hondvriendelijke Oostzeekust 2026: 8 strandbestemmingen van Polen tot Estland`,
+    it: `Costa baltica pet-friendly 2026: 8 destinazioni balneari dalla Polonia all'Estonia`,
   }
   const descriptions: Record<string, string> = {
     en: `Eight Baltic coast destinations where dogs are welcome on the beach all summer: Sopot, Kolobrzeg, Swinoujscie, Rugen, Usedom, Warnemunde, Palanga, Parnu. Cooler than the Mediterranean, official dog beach zones, verified pet-friendly hotels.`,
@@ -54,6 +56,7 @@ export async function generateMetadata({
     pt: `Oito destinos da costa baltica onde os caes sao bem-vindos na praia o verao todo: Sopot, Kolobrzeg, Swinoujscie, Rugen, Usedom, Warnemunde, Palanga, Parnu. Mais fresco que o Mediterraneo, zonas caninas oficiais, hoteis pet-friendly verificados.`,
     de: `Acht Ziele an der Ostseekueste, an denen Hunde den ganzen Sommer am Strand willkommen sind: Sopot, Kolobrzeg, Swinoujscie, Ruegen, Usedom, Warnemuende, Palanga, Parnu. Kuehler als das Mittelmeer, offizielle Hundestrand-Zonen, gepruefte hundefreundliche Hotels.`,
     nl: `Acht bestemmingen aan de Oostzeekust waar honden de hele zomer welkom zijn op het strand: Sopot, Kolobrzeg, Swinoujscie, Rugen, Usedom, Warnemunde, Palanga, Parnu. Koeler dan de Middellandse Zee, officiele hondenstrandzones, geverifieerde hondvriendelijke hotels.`,
+    it: `Otto destinazioni della costa baltica dove i cani sono benvenuti in spiaggia per tutta l'estate: Sopot, Kolobrzeg, Swinoujscie, Rugen, Usedom, Warnemunde, Palanga, Parnu. Piu fresca del Mediterraneo, zone canine ufficiali, hotel pet-friendly verificati.`,
   }
   return {
     title: titles[locale] ?? titles.en,
@@ -93,6 +96,7 @@ type Pick = {
   whyPt: string
   whyDe?: string
   whyNl?: string
+  whyIt?: string
   hotelName: string
   hotelEn: string
   hotelFr: string
@@ -100,6 +104,7 @@ type Pick = {
   hotelPt: string
   hotelDe?: string
   hotelNl?: string
+  hotelIt?: string
 }
 
 const PICKS: Pick[] = [
@@ -116,6 +121,7 @@ const PICKS: Pick[] = [
     whyPt: `Sopot e a cidade turistica mais elegante da Riviera Baltica, com o cais de madeira mais longo da Europa (512m, caes permitidos fora das horas de banho). O bulevar pedonal Monte Cassino e ladeado de restaurantes e esplanadas de cafes que aceitam universalmente caes a trela. A Opera Lesna (anfiteatro da floresta) realiza concertos ao ar livre num vale florestal natural onde os caes esperam na encosta relvada durante os espetaculos. Agosto e epoca alta mas a cidade gere-a com sofisticacao: ao contrario de Cannes ou Marbella, Sopot tem espaco genuino. A zona de praia canina designada esta na extremidade norte depois do hotel Neptun.`,
     whyDe: `Sopot ist der eleganteste Kurort der Ostsee-Riviera, mit Europas laengster Seebruecke aus Holz (512 m, Hunde ausserhalb der Badezeiten erlaubt). Die Fussgaengerpromenade Monte Cassino ist gesaeumt von Restaurants und Cafeterrassen, die angeleinte Hunde durchweg akzeptieren. Die Lesna Opera (Waldoper-Amphitheater) veranstaltet Freiluftkonzerte in einer natuerlichen Waldmulde, wo Hunde waehrend der Vorstellungen auf dem grasbewachsenen Hang warten. August ist Hochsaison, aber die Stadt meistert sie mit Stil: anders als Cannes oder Marbella bietet Sopot echten Platz. Die ausgewiesene Hundestrand-Zone liegt am noerdlichen Ende hinter dem Hotel Neptun.`,
     whyNl: `Sopot is het meest elegante kuuroord van de Oostzee-Riviera, met de langste houten pier van Europa (512 m, honden toegestaan buiten zwemuren). De voetgangersboulevard Monte Cassino staat vol restaurants en caféterrassen die aangelijnde honden zonder uitzondering toelaten. De Lesna Opera (bosopera-amfitheater) organiseert openluchtconcerten in een natuurlijke boskom, waar honden tijdens de voorstelling op de grasheuvel wachten. Augustus is hoogseizoen, maar de stad pakt dat met stijl aan: anders dan Cannes of Marbella heeft Sopot echt ruimte. De aangewezen hondenstrandzone ligt aan het noordelijke uiteinde voorbij hotel Neptun.`,
+    whyIt: `Sopot e la citta termale piu elegante della Riviera Baltica, con il molo di legno piu lungo d'Europa (512 m, cani ammessi fuori dagli orari di balneazione). Il lungomare pedonale Monte Cassino e costeggiato da ristoranti e terrazze di caffe che accettano universalmente i cani al guinzaglio. La Lesna Opera (anfiteatro dell'opera nel bosco) ospita concerti all'aperto in una conca boschiva naturale, dove i cani aspettano sul pendio erboso durante gli spettacoli. Agosto e alta stagione ma la citta la gestisce con eleganza: a differenza di Cannes o Marbella, Sopot ha spazio vero. La zona di spiaggia canina designata si trova all'estremita nord, oltre l'hotel Neptun.`,
     hotelName: 'Sofitel Grand Sopot',
     hotelEn: `Sofitel Grand Sopot - 5-star Belle Epoque landmark on the promenade, pets welcome at moderate fee, 2 minutes to the pier. The grand facade and terrace overlook the Baltic directly.`,
     hotelFr: `Sofitel Grand Sopot - etablissement Belle Epoque 5 etoiles sur la promenade, animaux acceptes (supplement modere), 2 minutes de la jetee. La grande facade et la terrasse donnent directement sur la Baltique.`,
@@ -123,6 +129,7 @@ const PICKS: Pick[] = [
     hotelPt: `Sofitel Grand Sopot - marco Belle Epoque 5 estrelas na promenade, animais aceites (taxa moderada), 2 minutos do cais. A grande fachada e o terraço dao diretamente para o Baltico.`,
     hotelDe: `Sofitel Grand Sopot - 5-Sterne-Wahrzeichen im Belle-Epoque-Stil an der Promenade, Haustiere gegen moderate Gebuehr willkommen, 2 Minuten zur Seebruecke. Die grosse Fassade und die Terrasse blicken direkt auf die Ostsee.`,
     hotelNl: `Sofitel Grand Sopot - 5-sterren belle-époque-icoon aan de boulevard, huisdieren welkom tegen een gematigd toeslag, 2 minuten van de pier. De statige gevel en het terras kijken direct uit op de Oostzee.`,
+    hotelIt: `Sofitel Grand Sopot - simbolo Belle Epoque 5 stelle sul lungomare, animali ammessi con supplemento moderato, a 2 minuti dal molo. La grande facciata e la terrazza si affacciano direttamente sul Baltico.`,
   },
   {
     slug: 'kolobrzeg',
@@ -137,6 +144,7 @@ const PICKS: Pick[] = [
     whyPt: `Kolobrzeg e um dos balnearios balticos mais populares da Polonia, com 18 km de praia de areia branca fina, um farol historico e uma cultura de passeio canino bem estabelecida durante todo o ano. A praia canina na extremidade oeste da longa praia esta oficialmente sinalizada e nao tem qualquer restricao sazonal. A cultura termal da cidade (banhos de salmoura, parques de inalacao) e uma tradicao polaca: os caes evidentemente nao fazem os banhos mas os parques do passeio maritimo em torno dos pavilhoes termais sao todos acessiveis a caes. Os precos dos hoteis sao em media 40% inferiores aos de Sopot para qualidade equivalente.`,
     whyDe: `Kolobrzeg ist einer der beliebtesten Ostsee-Kurorte Polens, mit 18 km feinem weissem Sandstrand, einem historischen Leuchtturm und einer ganzjaehrig etablierten Hundegassi-Kultur. Der Hundestrand am westlichen Ende des langen Strands ist offiziell markiert und unterliegt keiner saisonalen Einschraenkung. Die Thermalkultur der Stadt (Solebaeder, Inhalationsparks) ist eine polnische Tradition: Hunde machen die Baeder natuerlich nicht mit, aber die Strandpromenadenparks rund um die Kurpavillons sind alle fuer Hunde zugaenglich. Die durchschnittlichen Hotelpreise liegen 40 % unter denen von Sopot bei vergleichbarer Qualitaet.`,
     whyNl: `Kolobrzeg is een van Polens populairste Oostzee-kuuroorden, met 18 km fijn wit zandstrand, een historische vuurtoren en een hondenuitlaatcultuur die het hele jaar door goed geworteld is. Het hondenstrand aan het westelijke uiteinde van het lange strand is officieel gemarkeerd en kent geen seizoensbeperking. De thermale cultuur van de stad (pekelbaden, inhalatieparken) is een Poolse traditie: honden doen de baden natuurlijk niet mee, maar de strandpromenadeparken rond de kuurpaviljoens zijn allemaal toegankelijk voor honden. De gemiddelde hotelprijzen liggen 40% lager dan in Sopot bij vergelijkbare kwaliteit.`,
+    whyIt: `Kolobrzeg e una delle localita termali baltiche piu popolari della Polonia, con 18 km di spiaggia di sabbia bianca fine, un faro storico e una cultura di passeggiate con il cane ben radicata tutto l'anno. La spiaggia canina all'estremita ovest della lunga spiaggia e ufficialmente segnalata e non ha alcuna restrizione stagionale. La cultura termale della citta (bagni di salamoia, parchi per inalazioni) e una tradizione polacca: i cani ovviamente non fanno i bagni, ma i parchi del lungomare intorno ai padiglioni termali sono tutti accessibili ai cani. I prezzi medi degli hotel sono il 40% inferiori a quelli di Sopot per una qualita equivalente.`,
     hotelName: 'Hotel Arkas',
     hotelEn: `Hotel Arkas - 4-star spa hotel with beach access, dogs welcome at modest fee. Direct access to the sandy beach and the marked dog zone at the western end.`,
     hotelFr: `Hotel Arkas - hotel spa 4 etoiles avec acces a la plage, chiens acceptes (supplement modere). Acces direct a la plage de sable et a la zone canine balisee a l'extremite ouest.`,
@@ -144,6 +152,7 @@ const PICKS: Pick[] = [
     hotelPt: `Hotel Arkas - hotel spa 4 estrelas com acesso a praia, caes aceites (taxa moderada). Acesso direto a praia de areia e a zona canina sinalizada na extremidade oeste.`,
     hotelDe: `Hotel Arkas - 4-Sterne-Kurhotel mit Strandzugang, Hunde gegen geringe Gebuehr willkommen. Direkter Zugang zum Sandstrand und zur markierten Hundezone am westlichen Ende.`,
     hotelNl: `Hotel Arkas - 4-sterren kuurhotel met strandtoegang, honden welkom tegen een lage toeslag. Directe toegang tot het zandstrand en de gemarkeerde hondenzone aan het westelijke uiteinde.`,
+    hotelIt: `Hotel Arkas - hotel termale 4 stelle con accesso alla spiaggia, cani ammessi con supplemento modesto. Accesso diretto alla spiaggia sabbiosa e alla zona canina segnalata all'estremita ovest.`,
   },
   {
     slug: 'swinoujscie',
@@ -158,6 +167,7 @@ const PICKS: Pick[] = [
     whyPt: `Swinoujscie fica na ilha de Uznam (parcialmente alema: a cidade a cavaleiro da fronteira), tem a mais longa praia de areia ininterrupta da costa baltica polaca (12 km) e uma verdadeira zona canina assinalada no mapa oficial da cidade. O lado alemao da ilha (Usedom) comeca diretamente do outro lado do rio por ferry gratuito, duplicando a area de exploracao. O resort e mais calmo do que Sopot mas tem um encantador passeio Belle Epoque.`,
     whyDe: `Swinoujscie liegt auf der Insel Uznam (teilweise deutsch: die Stadt liegt beidseits der Grenze), hat den laengsten ununterbrochenen Sandstrand an der polnischen Ostseekueste (12 km) und eine echte Hundezone, die auf dem offiziellen Stadtplan verzeichnet ist. Die deutsche Seite der Insel (Usedom) beginnt direkt auf der anderen Seite des Flusses per kostenloser Faehre, was das Erkundungsgebiet verdoppelt. Der Kurort ist ruhiger als Sopot, hat aber eine charmante Belle-Epoque-Promenade.`,
     whyNl: `Swinoujscie ligt op het eiland Uznam (deels Duits: de stad ligt aan weerszijden van de grens), heeft het langste ononderbroken zandstrand aan de Poolse Oostzeekust (12 km) en een echte hondenzone die op de officiele stadskaart staat aangegeven. De Duitse kant van het eiland (Usedom) begint direct aan de overkant van de rivier met een gratis veerpont, waardoor je verkenningsgebied verdubbelt. Het kuuroord is rustiger dan Sopot, maar heeft een charmante belle-époque-boulevard.`,
+    whyIt: `Swinoujscie si trova sull'isola di Uznam (parzialmente tedesca: la citta e a cavallo del confine), ha la spiaggia di sabbia ininterrotta piu lunga della costa baltica polacca (12 km) e una vera zona canina indicata sulla mappa ufficiale della citta. Il lato tedesco dell'isola (Usedom) inizia subito dall'altra parte del fiume con un traghetto gratuito, raddoppiando l'area da esplorare. La localita e piu tranquilla di Sopot ma ha un affascinante lungomare Belle Epoque.`,
     hotelName: 'Amber Baltic Resort',
     hotelEn: `Amber Baltic Resort - 4-star beachfront hotel, dogs welcome, private beach access. One of the few Polish Baltic hotels with direct beach entry.`,
     hotelFr: `Amber Baltic Resort - hotel de bord de mer 4 etoiles, chiens acceptes, acces plage prive. L'un des rares hotels baltiques polonais avec acces direct a la plage.`,
@@ -165,6 +175,7 @@ const PICKS: Pick[] = [
     hotelPt: `Amber Baltic Resort - hotel beira-mar 4 estrelas, caes aceites, acesso privado a praia. Um dos poucos hoteis balticos polacos com acesso direto a praia.`,
     hotelDe: `Amber Baltic Resort - 4-Sterne-Hotel direkt am Strand, Hunde willkommen, privater Strandzugang. Eines der wenigen polnischen Ostseehotels mit direktem Strandzugang.`,
     hotelNl: `Amber Baltic Resort - 4-sterren hotel aan het strand, honden welkom, privé strandtoegang. Een van de weinige Poolse Oostzeehotels met directe strandtoegang.`,
+    hotelIt: `Amber Baltic Resort - hotel fronte spiaggia 4 stelle, cani ammessi, accesso privato alla spiaggia. Uno dei pochi hotel baltici polacchi con accesso diretto alla spiaggia.`,
   },
   {
     slug: 'rugen',
@@ -179,6 +190,7 @@ const PICKS: Pick[] = [
     whyPt: `Rugen e a maior ilha da Alemanha e um dos mais belos litorais do norte da Europa: os penhascos de giz branco (Kreidefelsen) do parque nacional de Jasmund, o elegante resort de Binz com o seu passeio de praia, e o cais de Sellin que aceita caes a trela durante todo o ano. O pavilhao de caca de Granitz pela floresta a pe e dog-friendly. A cultura de praia canina alema e formal mas clara: procure as placas Hundestrand (praia de caes). Binz, Sellin e Baabe tem todas praias caninas oficialmente delimitadas.`,
     whyDe: `Ruegen ist Deutschlands groesste Insel und eine der schoensten Kuestenlinien Nordeuropas: die weissen Kreidefelsen des Nationalparks Jasmund, der elegante Kurort Binz mit seiner Strandpromenade und die Seebruecke Sellin, die ganzjaehrig angeleinte Hunde zulaesst. Das Jagdschloss Granitz durch den Wald zu Fuss ist hundefreundlich. Die deutsche Hundestrand-Kultur ist formell, aber klar: Achten Sie auf die Hundestrand-Schilder. Binz, Sellin und Baabe verfuegen alle ueber offiziell markierte Hundestraende.`,
     whyNl: `Rugen is het grootste eiland van Duitsland en een van de mooiste kustlijnen van Noord-Europa: de witte krijtrotsen (Kreidefelsen) van Nationaal Park Jasmund, het elegante kuuroord Binz met zijn strandpromenade, en de pier van Sellin die het hele jaar door aangelijnde honden toelaat. Het jachtslot Granitz, te voet door het bos, is hondvriendelijk. De Duitse hondenstrandcultuur is formeel maar duidelijk: let op de Hundestrand-bordjes. Binz, Sellin en Baabe hebben allemaal officieel gemarkeerde hondenstranden.`,
+    whyIt: `Rugen e l'isola piu grande della Germania e una delle coste piu belle del Nord Europa: le bianche scogliere di gesso (Kreidefelsen) del Parco Nazionale di Jasmund, l'elegante localita di Binz con il suo lungomare, e il molo di Sellin che ammette cani al guinzaglio tutto l'anno. Il castello di caccia di Granitz, raggiungibile a piedi nel bosco, e a misura di cane. La cultura tedesca delle spiagge per cani e formale ma chiara: cerca i cartelli Hundestrand (spiaggia per cani). Binz, Sellin e Baabe hanno tutte spiagge canine ufficialmente delimitate.`,
     hotelName: 'Rugen Hotel und Bungalows Binz',
     hotelEn: `Rugen Hotel und Bungalows Binz - 4-star, directly on the promenade, dogs welcome at moderate fee. Bungalow option for families with dogs needing more space.`,
     hotelFr: `Rugen Hotel und Bungalows Binz - 4 etoiles, directement sur la promenade, chiens acceptes (supplement modere). Option bungalow pour les familles avec chiens ayant besoin de plus d'espace.`,
@@ -186,6 +198,7 @@ const PICKS: Pick[] = [
     hotelPt: `Rugen Hotel und Bungalows Binz - 4 estrelas, diretamente na promenade, caes aceites (taxa moderada). Opcao bungalow para familias com caes que precisam de mais espaco.`,
     hotelDe: `Ruegen Hotel und Bungalows Binz - 4-Sterne-Haus direkt an der Promenade, Hunde gegen moderate Gebuehr willkommen. Bungalow-Option fuer Familien mit Hunden, die mehr Platz brauchen.`,
     hotelNl: `Rugen Hotel und Bungalows Binz - 4-sterren hotel direct aan de boulevard, honden welkom tegen een gematigd toeslag. Bungalowoptie voor gezinnen met honden die meer ruimte nodig hebben.`,
+    hotelIt: `Rugen Hotel und Bungalows Binz - 4 stelle, direttamente sul lungomare, cani ammessi con supplemento moderato. Opzione bungalow per famiglie con cani che necessitano di piu spazio.`,
   },
   {
     slug: 'usedom',
@@ -200,6 +213,7 @@ const PICKS: Pick[] = [
     whyPt: `Usedom e a ilha alema com mais horas de sol de todas as ilhas alemas (1906h/ano) e tres elegantes resorts Kaiser: Heringsdorf, Ahlbeck e Bansin. Cada um tem um Hundestrand (praia canina) oficial que funciona durante todo o ano sem as proibicoes de junho a setembro encontradas em muitas praias alemas. A Strandpromenade de 13 km que liga os tres resorts e plana, pavimentada e explicitamente aberta a caes. O cais de Ahlbeck e o mais antigo em funcionamento na Alemanha (1898) e aceita caes a trela.`,
     whyDe: `Usedom hat mit 1906 Sonnenstunden pro Jahr mehr Sonne als jede andere deutsche Insel und drei elegante Kaiserbaeder: Heringsdorf, Ahlbeck und Bansin. Jedes verfuegt ueber einen offiziellen Hundestrand, der ganzjaehrig ohne die von Juni bis September geltenden Verbote vieler deutscher Straende betrieben wird. Die 13 km lange Strandpromenade, die alle drei Baeder verbindet, ist flach, asphaltiert und ausdruecklich hundefreundlich. Die Seebruecke Ahlbeck ist die aelteste noch betriebene Seebruecke Deutschlands (1898) und laesst angeleinte Hunde zu.`,
     whyNl: `Usedom heeft met 1906 zonuren per jaar meer zon dan elk ander Duits eiland en drie elegante keizerlijke badplaatsen: Heringsdorf, Ahlbeck en Bansin. Elk heeft een officieel Hundestrand dat het hele jaar door open is, zonder de verboden van juni tot september die op veel Duitse stranden gelden. De 13 km lange Strandpromenade die alle drie badplaatsen verbindt is vlak, verhard en uitdrukkelijk hondvriendelijk. De pier van Ahlbeck is de oudste nog in gebruik zijnde pier van Duitsland (1898) en laat aangelijnde honden toe.`,
+    whyIt: `Usedom e l'isola tedesca con piu ore di sole (1906 ore/anno) e tre eleganti localita imperiali: Heringsdorf, Ahlbeck e Bansin. Ognuna ha uno Hundestrand ufficiale che funziona tutto l'anno, senza i divieti da giugno a settembre presenti su molte spiagge tedesche. La Strandpromenade di 13 km che collega tutte e tre le localita e piatta, pavimentata ed espressamente aperta ai cani. Il molo di Ahlbeck e il piu antico ancora in funzione in Germania (1898) e ammette cani al guinzaglio.`,
     hotelName: 'Travel Charme Strandhotel Bansin',
     hotelEn: `Travel Charme Strandhotel Bansin - 4-star beachfront, dogs welcome at moderate fee, garden. The hotel terrace faces the Hundestrand directly.`,
     hotelFr: `Travel Charme Strandhotel Bansin - 4 etoiles bord de mer, chiens acceptes (supplement modere), jardin. La terrasse de l'hotel donne directement sur le Hundestrand.`,
@@ -207,6 +221,7 @@ const PICKS: Pick[] = [
     hotelPt: `Travel Charme Strandhotel Bansin - 4 estrelas beira-mar, caes aceites (taxa moderada), jardim. O terraço do hotel da diretamente para o Hundestrand.`,
     hotelDe: `Travel Charme Strandhotel Bansin - 4-Sterne-Haus direkt am Strand, Hunde gegen moderate Gebuehr willkommen, Garten. Die Hotelterrasse liegt direkt am Hundestrand.`,
     hotelNl: `Travel Charme Strandhotel Bansin - 4-sterren hotel aan het strand, honden welkom tegen een gematigd toeslag, tuin. Het terras van het hotel kijkt direct uit op het Hundestrand.`,
+    hotelIt: `Travel Charme Strandhotel Bansin - 4 stelle fronte spiaggia, cani ammessi con supplemento moderato, giardino. La terrazza dell'hotel si affaccia direttamente sullo Hundestrand.`,
   },
   {
     slug: 'warnemunde',
@@ -221,6 +236,7 @@ const PICKS: Pick[] = [
     whyPt: `Warnemunde e o bairro de praia de Rostock, acessivel de S-Bahn do centro de Rostock em 22 minutos. Tem uma verdadeira praia canina a leste do farol que funciona durante todo o ano, um passeio plano adequado para qualquer raca, e um historico centro de aldeia de pescadores (o canal Alter Strom) onde as esplanadas dos restaurantes toleram caes a trela. A colonia de artistas de Ahrenshoop na peninsula de Fischland-Darss a 40 km a oeste e uma das zonas costeiras mais belas e preservadas da Alemanha com trilhos florestais que aceitam caes.`,
     whyDe: `Warnemuende ist der Strandbezirk von Rostock, per S-Bahn vom Rostocker Stadtzentrum in 22 Minuten erreichbar. Es gibt einen richtigen Hundestrand oestlich des Leuchtturms, der ganzjaehrig geoeffnet ist, eine flache, fuer jede Rasse geeignete Promenade und ein historisches Fischerdorfzentrum (den Alten Strom), wo Restaurantterrassen angeleinte Hunde tolerieren. Die Kuenstlerkolonie Ahrenshoop auf der Halbinsel Fischland-Darss, 40 km westlich, ist eines der schoensten unberuehrten Kuestengebiete Deutschlands mit Waldwegen, die Hunde zulassen.`,
     whyNl: `Warnemunde is de strandwijk van Rostock, in 22 minuten met de S-Bahn bereikbaar vanuit het centrum van Rostock. Er is een echt hondenstrand ten oosten van de vuurtoren dat het hele jaar open is, een vlakke promenade geschikt voor elk ras, en een historisch vissersdorpcentrum (het Alte Strom-kanaal) waar restaurantterrassen aangelijnde honden tolereren. De kunstenaarskolonie Ahrenshoop op het schiereiland Fischland-Darss, 40 km westelijk, is een van de mooiste onaangetaste kustgebieden van Duitsland met bospaden die honden toelaten.`,
+    whyIt: `Warnemunde e il quartiere balneare di Rostock, raggiungibile in S-Bahn dal centro di Rostock in 22 minuti. Ha una vera spiaggia canina a est del faro che funziona tutto l'anno, un lungomare pianeggiante adatto a qualsiasi razza, e uno storico centro di villaggio di pescatori (il canale Alter Strom) dove le terrazze dei ristoranti tollerano i cani al guinzaglio. La colonia di artisti di Ahrenshoop sulla penisola di Fischland-Darss, 40 km a ovest, e una delle zone costiere piu belle e incontaminate della Germania, con sentieri nel bosco che ammettono i cani.`,
     hotelName: 'Hotel Hubner',
     hotelEn: `Hotel Hubner - 3-star facing the lighthouse, dogs welcome at modest fee. Walk out the door and the dog beach is 5 minutes east.`,
     hotelFr: `Hotel Hubner - 3 etoiles face au phare, chiens acceptes (supplement modere). Sortez par la porte et la plage canine est a 5 minutes a l'est.`,
@@ -228,6 +244,7 @@ const PICKS: Pick[] = [
     hotelPt: `Hotel Hubner - 3 estrelas de frente para o farol, caes aceites (taxa moderada). Saia pela porta e a praia canina esta a 5 minutos a leste.`,
     hotelDe: `Hotel Huebner - 3-Sterne-Haus mit Blick auf den Leuchtturm, Hunde gegen geringe Gebuehr willkommen. Vor die Tuer treten, und der Hundestrand ist 5 Minuten oestlich.`,
     hotelNl: `Hotel Hubner - 3-sterren hotel met uitzicht op de vuurtoren, honden welkom tegen een lage toeslag. Stap de deur uit en het hondenstrand ligt 5 minuten oostwaarts.`,
+    hotelIt: `Hotel Hubner - 3 stelle di fronte al faro, cani ammessi con supplemento modesto. Esci dalla porta e la spiaggia canina e a 5 minuti verso est.`,
   },
   {
     slug: 'palanga',
@@ -242,6 +259,7 @@ const PICKS: Pick[] = [
     whyPt: `Palanga e o principal resort balneario da Lituania e tem uma cena de verao surpreendentemente cosmopolita para uma cidade tao pequena (13.000 habitantes passando a 80.000 em agosto). A praia canina oficial na extremidade sul tem sinalizacao clara e funciona sem interrupcao sazonal. O Parque Botanico (parque do Museu do Ambar de Palanga) e um jardim paisagistico de 100 ha aberto a caes a trela, um dos mais belos parques da costa baltica. A cidade e inteiramente acessivel a pe em 30 minutos e a cultura das esplanadas dos restaurantes e tolerante com os caes.`,
     whyDe: `Palanga ist Litauens wichtigster Badeort und hat fuer eine so kleine Stadt (13.000 Einwohner, im August bis zu 80.000) eine ueberraschend kosmopolitische Sommerszene. Der offizielle Hundestrand am suedlichen Ende ist klar ausgeschildert und ganzjaehrig ohne saisonale Unterbrechung nutzbar. Der Botanische Park (Park des Bernstein-Museums Palanga) ist eine 100 Hektar grosse Gartenanlage, die fuer angeleinte Hunde geoeffnet ist, einer der schoensten Parks an der Ostseekueste. Die Stadt ist in 30 Minuten vollstaendig zu Fuss erkundbar, und die Terrassenkultur der Restaurants ist hundetolerant.`,
     whyNl: `Palanga is Litouwens belangrijkste badplaats en heeft voor zo'n kleine stad (13.000 inwoners, oplopend tot 80.000 in augustus) een verrassend kosmopolitische zomerscene. Het officiele hondenstrand aan het zuidelijke uiteinde heeft duidelijke bebording en is het hele jaar door zonder seizoensonderbreking toegankelijk. Het Botanisch Park (park van het Barnsteenmuseum Palanga) is een 100 hectare groot aangelegd park dat open is voor aangelijnde honden, een van de mooiste parken aan de Oostzeekust. De stad is in 30 minuten volledig te voet te verkennen, en de terrassencultuur van restaurants is hondvriendelijk.`,
+    whyIt: `Palanga e la principale localita balneare della Lituania e ha una scena estiva sorprendentemente cosmopolita per una citta cosi piccola (13.000 abitanti che salgono a 80.000 in agosto). La spiaggia canina ufficiale all'estremita sud ha una segnaletica chiara e funziona senza interruzioni stagionali. Il Parco Botanico (parco del Museo dell'Ambra di Palanga) e un giardino paesaggistico di 100 ettari aperto ai cani al guinzaglio, uno dei parchi piu belli della costa baltica. La citta si gira interamente a piedi in 30 minuti e la cultura dei ristoranti con terrazza e tollerante verso i cani.`,
     hotelName: 'Vanagupe Hotel Palanga',
     hotelEn: `Vanagupe Hotel Palanga - 4-star spa hotel, dogs welcome at moderate fee, forest location. Situated between the pine forest and the beach, with easy access to the botanical park.`,
     hotelFr: `Vanagupe Hotel Palanga - hotel spa 4 etoiles, chiens acceptes (supplement modere), emplacement forestier. Situe entre la foret de pins et la plage, avec un acces facile au parc botanique.`,
@@ -249,6 +267,7 @@ const PICKS: Pick[] = [
     hotelPt: `Vanagupe Hotel Palanga - hotel spa 4 estrelas, caes aceites (taxa moderada), localizacao florestal. Situado entre a floresta de pinheiros e a praia, com facil acesso ao parque botanico.`,
     hotelDe: `Vanagupe Hotel Palanga - 4-Sterne-Kurhotel, Hunde gegen moderate Gebuehr willkommen, Lage im Wald. Zwischen Kiefernwald und Strand gelegen, mit leichtem Zugang zum Botanischen Park.`,
     hotelNl: `Vanagupe Hotel Palanga - 4-sterren kuurhotel, honden welkom tegen een gematigd toeslag, ligging in het bos. Gelegen tussen dennenbos en strand, met gemakkelijke toegang tot het Botanisch Park.`,
+    hotelIt: `Vanagupe Hotel Palanga - hotel termale 4 stelle, cani ammessi con supplemento moderato, posizione nel bosco. Situato tra la pineta e la spiaggia, con facile accesso al parco botanico.`,
   },
   {
     slug: 'parnu',
@@ -263,6 +282,7 @@ const PICKS: Pick[] = [
     whyPt: `Parnu e a capital de verao da Estonia e tem a agua mais quente da costa estoniana: ainda fresca baltica a 18-20°C em agosto, mas a praia de areia e o ritmo da cidade termal tornam-na no resort mais habitavel da costa baltica. O parque de prado Rannaniidu tem uma zona oficial sem trela, a zona canina de praia na seccao sul esta sinalizada, e toda a cultura de esplanadas de Parnu (cafes e restaurantes) e explicitamente tolerante com os caes. Os caes sentam-se habitualmente nas mesas exteriores sem problema. As temperaturas de agosto ficam abaixo dos 21°C com a brisa baltica.`,
     whyDe: `Parnu ist Estlands Sommerhauptstadt und hat das waermste Wasser an der estnischen Kueste: im August immer noch ostseetypisch kuehl bei 18-20°C, aber der Sandstrand und der Rhythmus der Kurstadt machen sie zum lebenswertesten Kurort an der Ostseekueste. Der Wiesenpark Rannaniidu verfuegt ueber einen offiziellen Freilaufbereich, die Hundezone am suedlichen Strandabschnitt ist markiert, und die gesamte Terrassenkultur Parnus (Cafes und Restaurants) ist ausdruecklich hundetolerant. Hunde sitzen routinemaessig ohne Probleme an den Aussentischen. Die Augusttemperaturen bleiben bei Ostseebrise unter 21°C.`,
     whyNl: `Parnu is Estlands zomerhoofdstad en heeft het warmste water aan de Estse kust: in augustus nog altijd Oostzee-koel op 18-20°C, maar het zandstrand en het ritme van de kuurstad maken er de meest leefbare badplaats van de Oostzeekust van. Het weideparkje Rannaniidu heeft een officieel loslopen-gebied, de hondenzone op het strand aan de zuidkant is gemarkeerd, en de hele terrassencultuur van Parnu (cafés en restaurants) is uitdrukkelijk hondvriendelijk. Honden zitten er routinematig zonder problemen aan de buitentafels. De augustustemperaturen blijven dankzij de Oostzeebries onder 21°C.`,
+    whyIt: `Parnu e la capitale estiva dell'Estonia e ha l'acqua piu calda della costa estone: ancora fresca in stile baltico a 18-20°C ad agosto, ma la spiaggia di sabbia e il ritmo da citta termale ne fanno la localita piu vivibile della costa baltica. Il parco prato di Rannaniidu ha un'area ufficiale senza guinzaglio, la zona canina della spiaggia nel tratto sud e segnalata, e tutta la cultura delle terrazze di Parnu (caffe e ristoranti) e esplicitamente tollerante verso i cani. I cani si siedono di routine ai tavoli all'aperto senza problemi. Le temperature di agosto restano sotto i 21°C grazie alla brezza baltica.`,
     hotelName: 'Villa Wesset',
     hotelEn: `Villa Wesset - boutique spa quarter hotel, dogs welcome at modest fee, private garden. Located in the charming spa district, 10-minute walk to the beach dog zone.`,
     hotelFr: `Villa Wesset - hotel boutique du quartier thermal, chiens acceptes (supplement modere), jardin prive. Situe dans le charmant quartier thermal, 10 minutes a pied de la zone canine de plage.`,
@@ -270,6 +290,7 @@ const PICKS: Pick[] = [
     hotelPt: `Villa Wesset - hotel boutique do bairro termal, caes aceites (taxa moderada), jardim privado. Localizado no encantador bairro termal, 10 minutos a pe da zona canina de praia.`,
     hotelDe: `Villa Wesset - Boutique-Hotel im Kurviertel, Hunde gegen geringe Gebuehr willkommen, privater Garten. Im charmanten Kurviertel gelegen, 10 Gehminuten zur Hundezone am Strand.`,
     hotelNl: `Villa Wesset - boutiquehotel in de kuurwijk, honden welkom tegen een lage toeslag, privétuin. Gelegen in de charmante kuurwijk, 10 minuten lopen naar de hondenzone op het strand.`,
+    hotelIt: `Villa Wesset - hotel boutique nel quartiere termale, cani ammessi con supplemento modesto, giardino privato. Situato nell'affascinante quartiere termale, a 10 minuti a piedi dalla zona canina della spiaggia.`,
   },
 ]
 
@@ -434,6 +455,32 @@ const COPY = {
     ],
     relatedHeading: 'Zie ook',
   },
+  it: {
+    eyebrow: 'RIVIERA BALTICA 2026 · COSTA PET-FRIENDLY',
+    title: `Costa baltica pet-friendly 2026: 8 destinazioni balneari dalla Polonia all'Estonia`,
+    intro: `La costa baltica e la destinazione estiva a piu rapida crescita d'Europa: piu fresca del Mediterraneo, con una cultura di spiaggia pet-friendly impossibile da trovare in Francia, Spagna o Italia. Dalle eleganti localita con molo della Polonia alle citta termali dell'Estonia, i cani non sono solo tollerati sulle spiagge baltiche: hanno zone ufficiali designate, accesso tutto l'anno e una cultura locale costruita attorno alla vita all'aperto con gli animali. Le temperature di agosto restano sui 20-22°C, l'acqua sui 18-22°C, e la brezza marina rende questa la costa europea piu sicura per qualsiasi razza in estate.`,
+    pickHeading: '8 destinazioni balneari baltiche dove i cani sono benvenuti tutta l\'estate',
+    whyHere: 'Perche qui',
+    hotelLabel: 'Dove alloggiare',
+    seeDestCta: 'Guida completa della citta →',
+    hotelCta: 'Vedi disponibilita →',
+    augustLabel: 'Media max ago',
+    practicalHeading: 'Info pratiche costa baltica per proprietari di cani',
+    practical: [
+      { h: 'Regole spiagge canine Baltico vs Mediterraneo', p: `La Germania gestisce un sistema formale di Hundestrand: le spiagge canine ufficiali sono segnalate con cartelli chiari, aperte tutto l'anno nella maggior parte delle localita, senza divieto da giugno a settembre. La Polonia ha zone canine designate sulle mappe ufficiali delle citta (Sopot, Kolobrzeg, Swinoujscie, Gdynia) che sono permanenti. Lituania (Palanga) ed Estonia (Parnu) hanno entrambe zone segnalate ufficiali con accesso per tutto agosto. La Lettonia offre liberta totale: nessun divieto stagionale sulle spiagge in nessun punto della costa. Confronta questo con la Francia (divieto totale sulle spiagge sorvegliate da giugno a settembre), la Spagna (divieto da giugno a settembre sulla maggior parte delle spiagge della Costa) e l'Italia (divieto sulla maggior parte delle spiagge adriatiche e tirreniche per tutta l'estate). Il Baltico e la capitale europea delle spiagge canine.` },
+      { h: 'Acqua baltica per i cani: e sicura?', p: `Il Baltico e il mare maggiore meno salato del mondo (8-12 per mille contro 38 per mille del Mediterraneo). I cani possono nuotare liberamente senza i danni al pelo o l'irritazione oculare che il sale mediterraneo provoca, ma l'acqua rimane abbastanza salina da rendere dannoso berla. Porta sempre acqua dolce per il tuo cane dopo il bagno. La bassa salinita significa anche nessun problema di meduse lungo la costa polacca e tedesca in agosto. La temperatura dell'acqua resta sui 18-22°C ad agosto in tutte e 8 le destinazioni, mai scomodamente fredda per la maggior parte delle razze.` },
+      { h: 'Come arrivare sulla costa baltica in treno e traghetto', p: `Berlino-Rugen: 3h in treno diretto (IC) fino a Binz o Bergen auf Rugen. Varsavia-Sopot/Danzica: 3h30 in Intercity express (cani in trasportino o al guinzaglio, supplemento modesto). Vilnius-Palanga: 3h in autobus (nessun treno diretto). Riga-Parnu: 2h in autobus (nessun treno diretto, autobus frequenti). In traghetto: Rostock-Helsinki (Tallink, 28h, cani con supplemento cabina o in canile), Travemunde-Helsinki (Finnlines, 28h), Travemunde-Tallinn (Tallink). I cani sono ammessi su tutti i traghetti baltici con un modesto supplemento. Dall'Europa occidentale, la strada costiera E28 da Stettino attraverso tutte le localita polacche fino in Lituania e uno dei grandi viaggi su strada con il cane d'Europa.` },
+      { h: 'Baltico vs Mediterraneo per cani brachicefali', p: `La costa baltica e la costa europea piu sicura in estate per le razze dal muso schiacciato (bulldog, carlini, boxer, Boston terrier) e per i cani anziani. La temperatura dell'aria ad agosto in tutte e 8 le destinazioni resta sui 20-22°C: niente calore dell'asfalto oltre i 30°C, nessun rischio asfalto, nessun picco di umidita. L'acqua a 18-22°C e rinfrescante anziche fredda, e la bassa salinita e piu delicata su pelle e pelo. Confronta con il Mediterraneo ad agosto: aria a 30-38°C, asfalto a 50-60°C, concentrazione di sale che irrita occhi e pelle dopo ogni bagno. Il Baltico non e un compromesso per i cani sensibili al caldo: e attivamente la destinazione giusta.` },
+    ],
+    faqHeading: 'Domande frequenti',
+    faqs: [
+      { q: 'Il Mar Baltico e sicuro per far nuotare i cani?', a: `Si. La bassa salinita (8-12 per mille) e molto piu delicata del Mediterraneo o dell'Atlantico. Risciacqua il pelo con acqua dolce dopo il bagno, principalmente per rimuovere sabbia e residui superficiali. Nessun problema di meduse lungo la costa baltica polacca e tedesca in estate. L'acqua resta sui 18-22°C ad agosto, rinfrescante ma non fredda per la maggior parte delle razze. I cani a pelo corto (levrieri, Weimaraner) possono entrare e uscire liberamente senza raffreddarsi. Porta sempre acqua dolce da bere: il Baltico rimane comunque abbastanza salato da causare disidratazione se il tuo cane ne ingerisce quantita significative.` },
+      { q: 'Quale localita polacca e migliore per i cani?', a: `Sopot per atmosfera ed eleganza: il molo piu lungo d'Europa, il lungomare Monte Cassino, i ristoranti migliori, ma costosa nel picco di agosto. Kolobrzeg per la spiaggia piu lunga e la zona canina meglio organizzata: 18 km di spiaggia, zona canina ovest ufficialmente segnalata, 40% piu economica di Sopot, e i parchi del lungomare termale sono tutti accessibili ai cani. Swinoujscie per la minore folla e la doppia esperienza tedesco-polacca: l'isola tedesca di Usedom e a un traghetto gratuito di distanza, dandoti accesso alle spiagge canine di due paesi da un'unica base. Per le famiglie che arrivano in auto dalla Germania o dalla Scandinavia, Swinoujscie e il punto di ingresso piu logico.` },
+      { q: 'Posso percorrere tutta la costa baltica in auto con un cane?', a: `Si. La strada costiera E28 va da Swinoujscie attraverso Kolobrzeg fino a Danzica (Sopot), poi continua a nord attraverso Gdynia e oltrepassa il confine verso la Lituania in direzione Palanga, e da li risale attraverso la Lettonia fino in Estonia verso Parnu e Tallinn. Un percorso completo da Swinoujscie a Tallinn copre circa 1.200 km e richiede 10-12 ore senza fermate. Diviso in 3-4 giorni con soste notturne nelle destinazioni di questa guida, e uno dei migliori viaggi su strada con il cane d'Europa: ogni localita sul percorso ha una spiaggia canina, una zona ufficiale senza guinzaglio, o entrambe.` },
+      { q: 'Qual e il mese migliore per il Baltico con un cane?', a: `Agosto. L'acqua e la piu calda (18-22°C in tutte e 8 le destinazioni), la temperatura dell'aria e di 20-22°C, le brezze baltiche mantengono bassa l'umidita costiera, e la stagione delle spiagge canine e in pieno svolgimento ovunque. Anche luglio e eccellente (acqua leggermente piu fresca a 16-20°C, un po' meno affollato). Settembre e tranquillo e spesso costa la meta di agosto, con temperatura dell'aria che scende a 15-18°C: ottimo per i cani ma un po' fresco per i proprietari che vogliono nuotare. Da ottobre in poi e bassa stagione: la maggior parte delle spiagge canine restano ufficialmente aperte, ma le localita balneari entrano in letargo.` },
+    ],
+    relatedHeading: 'Vedi anche',
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -484,6 +531,7 @@ export default async function Page({
     if (locale === 'pt') return p.whyPt
     if (locale === 'de') return p.whyDe ?? p.whyEn
     if (locale === 'nl') return p.whyNl ?? p.whyEn
+    if (locale === 'it') return p.whyIt ?? p.whyEn
     return p.whyEn
   }
   const pickHotel = (p: Pick) => {
@@ -492,6 +540,7 @@ export default async function Page({
     if (locale === 'pt') return p.hotelPt
     if (locale === 'de') return p.hotelDe ?? p.hotelEn
     if (locale === 'nl') return p.hotelNl ?? p.hotelEn
+    if (locale === 'it') return p.hotelIt ?? p.hotelEn
     return p.hotelEn
   }
 

@@ -17,7 +17,7 @@ const SLUG = 'top-dog-friendly-cities-europe'
 // Curated ranking, based on: number of fenced off-leash zones, 24/7 vet coverage,
 // public transport rules for dogs, density of dog-friendly hotels, beach/swim access.
 // All 20 cities are documented in our destination guides.
-const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: string; es: string; pt: string; de: string; nl: string } }> = [
+const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: string; es: string; pt: string; de: string; nl: string; it: string } }> = [
   { slug: 'amsterdam', rank: 1, reason: {
     en: 'Trams accept dogs with a child ticket, the Vondelpark has multiple off-leash zones, and the Jordaan neighbourhood is a low-traffic dog walker\'s paradise.',
     fr: 'Les trams acceptent les chiens avec un billet enfant, le Vondelpark compte plusieurs zones sans laisse, et le Jordaan est un paradis du promeneur de chien à faible circulation.',
@@ -25,6 +25,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'Os elétricos admiten cães com bilhete infantil, o Vondelpark tem varias zonas sem trela e o Jordaan é um paraíso de paseadores com pouco tráfico.',
     de: 'In den Straßenbahnen sind Hunde mit einem Kinderticket erlaubt, der Vondelpark hat mehrere Zonen ohne Leine, und das Jordaan-Viertel ist mit wenig Verkehr ein Paradies für Hundespaziergänger.',
     nl: 'Trams accepteren honden met een kinderkaartje, het Vondelpark heeft meerdere uitlaatzones zonder lijn, en de Jordaan is met weinig verkeer een paradijs voor hondenwandelaars.',
+    it: 'I tram accettano i cani con un biglietto per bambini, il Vondelpark ha diverse zone senza guinzaglio, e il quartiere Jordaan è un paradiso a basso traffico per chi porta a spasso il cane.',
   }},
   { slug: 'berlin', rank: 2, reason: {
     en: 'An estimated 100,000 registered dogs, dogs on every U-Bahn and S-Bahn line, the 210-hectare Tiergarten and the most dog-tolerant café culture of any major capital.',
@@ -33,6 +34,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'Uns 100.000 cães registrados, cães en cada U-Bahn e S-Bahn, as 210 hectáreas do Tiergarten e a cultura de café mais tolerante de cualquier gran capital.',
     de: 'Schätzungsweise 100.000 registrierte Hunde, Hunde in jeder U-Bahn- und S-Bahn-Linie, der 210 Hektar große Tiergarten und die hundefreundlichste Cafékultur aller großen Hauptstädte.',
     nl: 'Naar schatting 100.000 geregistreerde honden, honden in elke U-Bahn- en S-Bahnlijn, het 210 hectare grote Tiergarten en de meest hondvriendelijke cafécultuur van alle grote hoofdsteden.',
+    it: 'Circa 100.000 cani registrati, cani ammessi su ogni linea U-Bahn e S-Bahn, i 210 ettari del Tiergarten e la cultura dei caffè più tollerante verso i cani di qualsiasi grande capitale.',
   }},
   { slug: 'vienna', rank: 3, reason: {
     en: 'Dogs ride U-Bahn and trams free with a muzzle, the Prater has a 6 km off-leash trail, and most coffee houses welcome dogs by tradition.',
@@ -41,6 +43,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'Os cães viajan grátis en U-Bahn e elétrico com bozal, o Prater ofrece um trilho sem trela de 6 km, e a maioria das cafeterías vienesas admiten cães por tradición.',
     de: 'Hunde fahren mit Maulkorb kostenlos in U-Bahn und Straßenbahn, der Prater bietet einen 6 km langen Weg ohne Leine, und die meisten Kaffeehäuser heißen Hunde traditionell willkommen.',
     nl: 'Honden reizen gratis mee met U-Bahn en tram met een muilkorf, het Prater heeft een 6 km lang uitlaatpad zonder lijn, en de meeste koffiehuizen verwelkomen honden van oudsher.',
+    it: 'I cani viaggiano gratis su U-Bahn e tram con la museruola, il Prater offre un sentiero senza guinzaglio di 6 km, e la maggior parte dei caffè viennesi accoglie i cani per tradizione.',
   }},
   { slug: 'munich', rank: 4, reason: {
     en: 'The 375-hectare English Garden is bigger than Central Park, beer gardens explicitly welcome dogs (water bowls everywhere), and the Isar river has 14 km of off-leash trails.',
@@ -49,6 +52,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'As 375 hectáreas do Jardim Inglês são mais grandes que Central Park, os biergartens admiten explícitamente cães (boles de água por todas partes) e o Isar ofrece 14 km de trilhos sem trela.',
     de: 'Der 375 Hektar große Englische Garten ist größer als der Central Park, Biergärten heißen Hunde ausdrücklich willkommen (überall Wassernäpfe), und die Isar bietet 14 km Wege ohne Leine.',
     nl: 'De 375 hectare grote Engelse Tuin is groter dan Central Park, biertuinen verwelkomen honden nadrukkelijk (overal waterbakjes), en de Isar heeft 14 km paden zonder lijn.',
+    it: 'Il Giardino Inglese di 375 ettari è più grande di Central Park, le birrerie all\'aperto accolgono esplicitamente i cani (ciotole d\'acqua ovunque), e l\'Isar offre 14 km di sentieri senza guinzaglio.',
   }},
   { slug: 'copenhagen', rank: 5, reason: {
     en: 'Dogs travel free on Metro and S-tog with a muzzle, the Fælledparken has multiple off-leash zones, and Danish café culture is built around terrace-with-dog rituals.',
@@ -57,6 +61,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'Os cães viajan grátis no metro e S-tog com bozal, o Fælledparken tem varias zonas sem trela e a cultura do café danesa se basa no ritual esplanada-com-cão.',
     de: 'Hunde fahren mit Maulkorb kostenlos in Metro und S-Bahn (S-tog), der Fælledpark hat mehrere Zonen ohne Leine, und die dänische Cafékultur dreht sich um das Ritual Terrasse-mit-Hund.',
     nl: 'Honden reizen gratis mee met de metro en S-tog met een muilkorf, het Fælledparken heeft meerdere uitlaatzones zonder lijn, en de Deense cafécultuur draait om het ritueel terras-met-hond.',
+    it: 'I cani viaggiano gratis su metro e S-tog con la museruola, il Fælledparken ha diverse zone senza guinzaglio, e la cultura dei caffè danese è costruita attorno al rituale terrazza-con-cane.',
   }},
   { slug: 'paris', rank: 6, reason: {
     en: 'Over 500,000 dogs share the city. The Bois de Boulogne (850 ha), the Bois de Vincennes (995 ha) and the Canal Saint-Martin make Paris a dog-walker\'s pleasure despite tight spaces.',
@@ -65,6 +70,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'Mais de 500.000 cães comparten a cidade. O Bois de Boulogne (850 ha), o Bois de Vincennes (995 ha) e o Canal Saint-Martin hacen de París um placer para paseadores apesar dos espacios estrechos.',
     de: 'Über 500.000 Hunde teilen sich die Stadt. Der Bois de Boulogne (850 ha), der Bois de Vincennes (995 ha) und der Canal Saint-Martin machen Paris trotz der engen Räume zu einem Vergnügen für Hundespaziergänger.',
     nl: 'Meer dan 500.000 honden delen de stad. Het Bois de Boulogne (850 ha), het Bois de Vincennes (995 ha) en het Canal Saint-Martin maken Parijs ondanks de krappe ruimtes een genot voor hondenwandelaars.',
+    it: 'Oltre 500.000 cani condividono la città. Il Bois de Boulogne (850 ha), il Bois de Vincennes (995 ha) e il Canal Saint-Martin rendono Parigi un piacere per chi porta a spasso il cane nonostante gli spazi ristretti.',
   }},
   { slug: 'hamburg', rank: 7, reason: {
     en: '14% of the city is parks and gardens, 56 official off-leash zones, the famous Elbstrand urban beaches and a port culture where dogs ride ferries and nap on café terraces.',
@@ -73,6 +79,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: '14 % da cidade en parques e jardins, 56 zonas sem trela oficiais, as famosas praias urbanas do Elbstrand e uma cultura portuaria onde os cães cogen ferris e duermen en esplanadas.',
     de: '14 % der Stadt sind Parks und Gärten, 56 offizielle Zonen ohne Leine, die berühmten Stadtstrände am Elbstrand und eine Hafenkultur, in der Hunde mit der Fähre fahren und auf Caféterrassen dösen.',
     nl: '14% van de stad bestaat uit parken en tuinen, 56 officiële uitlaatzones zonder lijn, de beroemde stadsstranden aan de Elbstrand en een havencultuur waarin honden meevaren op de veerboot en dutten op caféterrassen.',
+    it: 'Il 14% della città è parchi e giardini, 56 zone ufficiali senza guinzaglio, le famose spiagge urbane dell\'Elbstrand e una cultura portuale dove i cani salgono sui traghetti e sonnecchiano sulle terrazze dei caffè.',
   }},
   { slug: 'helsinki', rank: 8, reason: {
     en: '60,000 registered dogs (one of Europe\'s highest per-capita ratios), 80+ fenced koira-aitaus enclosures, dogs ride trams and ferries free, and the Seurasaari nature reserve is reachable by bus.',
@@ -81,6 +88,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: '60.000 cães registrados (uno dos ratios per cápita mais altos de Europa), 80+ recintos koira-aitaus vallados, cães grátis no elétrico e ferri, e a reserva natural de Seurasaari acessível en bus.',
     de: '60.000 registrierte Hunde (eine der höchsten Quoten pro Einwohner Europas), über 80 eingezäunte Koira-aitaus-Gehege, Hunde fahren kostenlos mit Straßenbahn und Fähre, und das Naturschutzgebiet Seurasaari ist mit dem Bus erreichbar.',
     nl: '60.000 geregistreerde honden (een van de hoogste ratio\'s per inwoner van Europa), 80+ omheinde koira-aitaus-uitlaatplekken, honden reizen gratis mee met tram en veerboot, en het natuurreservaat Seurasaari is bereikbaar met de bus.',
+    it: '60.000 cani registrati (uno dei rapporti pro capite più alti d\'Europa), oltre 80 recinti koira-aitaus, i cani viaggiano gratis su tram e traghetti, e la riserva naturale di Seurasaari è raggiungibile in autobus.',
   }},
   { slug: 'zurich', rank: 9, reason: {
     en: 'Switzerland\'s dog-tolerance is legendary: trams, buses and trains accept all dogs, restaurants by default, and the Uetliberg forest hill (870 m) is reachable in 25 min by S-Bahn.',
@@ -89,6 +97,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'A tolerancia canina suiza é legendaria: elétricos, autocarros e comboios admiten todos os cães, restaurantes por defecto, e a colina forestal do Uetliberg (870 m) está acessível en 25 min en S-Bahn.',
     de: 'Die Schweizer Hundetoleranz ist legendär: Straßenbahnen, Busse und Züge akzeptieren alle Hunde, Restaurants standardmäßig ebenso, und der bewaldete Hausberg Uetliberg (870 m) ist in 25 Minuten mit der S-Bahn erreichbar.',
     nl: 'De Zwitserse hondentolerantie is legendarisch: trams, bussen en treinen accepteren alle honden, restaurants standaard ook, en de beboste stadsberg Uetliberg (870 m) is in 25 minuten bereikbaar met de S-Bahn.',
+    it: 'La tolleranza svizzera verso i cani è leggendaria: tram, autobus e treni accettano tutti i cani, i ristoranti per default, e la collina boscosa dell\'Uetliberg (870 m) è raggiungibile in 25 minuti con la S-Bahn.',
   }},
   { slug: 'salzburg', rank: 10, reason: {
     en: 'Small, walkable, with the Salzkammergut lakes (Wolfgangsee, Mondsee) and the Mönchsberg hill all dog-friendly. The Postbus to St. Gilgen accepts dogs free.',
@@ -97,6 +106,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'Pequenha, peatonal, com os lagos do Salzkammergut (Wolfgangsee, Mondsee) e a colina do Mönchsberg todos pet-friendly. O Postbus a St. Gilgen admite cães grátis.',
     de: 'Klein und fußläufig, mit den Salzkammergut-Seen (Wolfgangsee, Mondsee) und dem Mönchsberg, die alle hundefreundlich sind. Der Postbus nach St. Gilgen nimmt Hunde kostenlos mit.',
     nl: 'Klein en goed te voet, met de meren van het Salzkammergut (Wolfgangsee, Mondsee) en de Mönchsberg, allemaal hondvriendelijk. De Postbus naar St. Gilgen neemt honden gratis mee.',
+    it: 'Piccola e percorribile a piedi, con i laghi del Salzkammergut (Wolfgangsee, Mondsee) e la collina del Mönchsberg tutti pet-friendly. Il Postbus per St. Gilgen accetta i cani gratis.',
   }},
   { slug: 'edinburgh', rank: 11, reason: {
     en: 'Arthur\'s Seat (a 251 m volcano in the city), Holyrood Park and Princes Street Gardens all welcome dogs. UK pub culture extends to Scottish drinking dens.',
@@ -105,6 +115,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'Arthur\'s Seat (um volcán de 251 m na cidade), o Holyrood Park e os Princes Street Gardens admiten todos cães. A cultura pub UK estende-se aos dens escoceses.',
     de: `Arthur's Seat (ein 251 m hoher Vulkan mitten in der Stadt), der Holyrood Park und die Princes Street Gardens heißen alle Hunde willkommen. Die britische Pubkultur erstreckt sich auch auf die schottischen Kneipen.`,
     nl: `Arthur's Seat (een 251 m hoge vulkaan midden in de stad), Holyrood Park en de Princes Street Gardens verwelkomen allemaal honden. De Britse pubcultuur strekt zich ook uit tot de Schotse kroegen.`,
+    it: `Arthur's Seat (un vulcano di 251 m in città), Holyrood Park e i Princes Street Gardens accolgono tutti i cani. La cultura dei pub britannici si estende anche ai locali scozzesi.`,
   }},
   { slug: 'lisbon', rank: 12, reason: {
     en: 'Trams accept leashed dogs free of charge, the Tagus riverfront has 8 km of car-free promenade, and the Praia do Porto Brandão dog beach is a 15-min ferry from the centre.',
@@ -113,6 +124,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'Os elétricos admiten cães com trela grátis, as margens do Tajo ofrecen 8 km de passeio peatonal, e a praia canina de Porto Brandão está a 15 min en ferri do centro.',
     de: 'Straßenbahnen nehmen angeleinte Hunde kostenlos mit, die Uferpromenade am Tejo bietet 8 km autofreien Weg, und der Hundestrand Praia do Porto Brandão ist 15 Minuten mit der Fähre vom Zentrum entfernt.',
     nl: 'Trams accepteren aangelijnde honden gratis, de kade langs de Taag heeft 8 km autovrije promenade, en het hondenstrand Praia do Porto Brandão ligt 15 minuten per veerboot van het centrum.',
+    it: 'I tram accettano i cani al guinzaglio gratis, il lungofiume del Tago ha 8 km di passeggiata senza auto, e la spiaggia per cani di Porto Brandão è a 15 minuti di traghetto dal centro.',
   }},
   { slug: 'porto', rank: 13, reason: {
     en: 'Even more dog-friendly than Lisbon: the Douro riverbank in Ribeira accepts dogs in every café terrace, and the Foz do Douro has dog beaches reachable by tram.',
@@ -121,6 +133,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'Aún mais pet-friendly que Lisboa: as margens do Duero na Ribeira admiten cães en cada café, e Foz do Douro tem praias caninas acessíveis no elétrico.',
     de: 'Noch hundefreundlicher als Lissabon: Am Douro-Ufer in der Ribeira sind Hunde auf jeder Caféterrasse willkommen, und Foz do Douro hat Hundestrände, die mit der Straßenbahn erreichbar sind.',
     nl: 'Nog hondvriendelijker dan Lissabon: aan de Douro-oever in de Ribeira zijn honden welkom op elk caféterras, en Foz do Douro heeft hondenstranden die je met de tram bereikt.',
+    it: 'Ancora più pet-friendly di Lisbona: la riva del Douro alla Ribeira accoglie i cani in ogni terrazza dei caffè, e Foz do Douro ha spiagge per cani raggiungibili in tram.',
   }},
   { slug: 'valencia', rank: 14, reason: {
     en: 'The 9 km Turia Garden cuts the city in two, Europe\'s largest urban park with multiple off-leash zones. The Malvarrosa beach has a year-round dog zone.',
@@ -129,6 +142,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'Os 9 km do Jardim do Turia atraviesan a cidade, o mayor parque urbano de Europa com varias zonas sem trela. A praia da Malvarrosa tem zona canina o ano inteiro.',
     de: 'Der 9 km lange Turia-Park durchzieht die Stadt, Europas größter Stadtpark mit mehreren Zonen ohne Leine. Der Strand Malvarrosa hat eine ganzjährige Hundezone.',
     nl: 'Het 9 km lange Turia-park doorkruist de stad, Europa\'s grootste stadspark met meerdere uitlaatzones zonder lijn. Het strand Malvarrosa heeft het hele jaar door een hondenzone.',
+    it: 'I 9 km del Giardino del Turia attraversano la città, il più grande parco urbano d\'Europa con diverse zone senza guinzaglio. La spiaggia della Malvarrosa ha una zona per cani aperta tutto l\'anno.',
   }},
   { slug: 'split', rank: 15, reason: {
     en: 'The Marjan Hill forest park dominates the city centre with off-leash trails and dog-friendly stone beaches at Bačvice and Bene.',
@@ -137,6 +151,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'O parque-floresta da colina Marjan domina o centro da cidade com trilhos sem trela e praias de pedra pet-friendly en Bačvice e Bene.',
     de: 'Der Waldpark am Marjan-Hügel prägt das Stadtzentrum mit Wegen ohne Leine und hundefreundlichen Kiesstränden bei Bačvice und Bene.',
     nl: 'Het bospark op de Marjan-heuvel domineert het stadscentrum met paden zonder lijn en hondvriendelijke kiezelstranden bij Bačvice en Bene.',
+    it: 'Il parco boschivo della collina Marjan domina il centro città con sentieri senza guinzaglio e spiagge di ciottoli pet-friendly a Bačvice e Bene.',
   }},
   { slug: 'belgrade', rank: 16, reason: {
     en: 'One of Europe\'s most affordable capitals, with the year-round Ada Ciganlija dog beach, free public transport since 2025 (dogs included), and the only 24-hour vet hospital in Serbia.',
@@ -145,6 +160,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'Uma das capitales europeias mais asequibles, com a praia canina de Ada Ciganlija o ano inteiro, transporte público grátis a partir de 2025 (cães incluidos), e o único hospital veterinário 24/7 de Serbia.',
     de: 'Eine der günstigsten Hauptstädte Europas, mit dem ganzjährigen Hundestrand Ada Ciganlija, seit 2025 kostenlosen öffentlichen Verkehrsmitteln (Hunde eingeschlossen) und dem einzigen 24-Stunden-Tierklinik-Krankenhaus Serbiens.',
     nl: 'Een van de betaalbaarste hoofdsteden van Europa, met het hele jaar door het hondenstrand Ada Ciganlija, gratis openbaar vervoer sinds 2025 (honden inbegrepen), en het enige 24-uurs dierenziekenhuis van Servië.',
+    it: 'Una delle capitali europee più economiche, con la spiaggia per cani di Ada Ciganlija aperta tutto l\'anno, trasporto pubblico gratuito dal 2025 (cani inclusi), e l\'unico ospedale veterinario 24 ore su 24 della Serbia.',
   }},
   { slug: 'prague', rank: 17, reason: {
     en: 'Dogs ride trams, metro and buses free with a muzzle. Stromovka park (95 ha) and Letná have major off-leash zones, and Czech beer gardens are universally dog-tolerant.',
@@ -153,6 +169,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'Cães grátis no elétrico, metro e autocarro com bozal. O parque Stromovka (95 ha) e Letná têm grandes zonas sem trela, e os beer gardens checos são universalmente tolerantes.',
     de: 'Hunde fahren mit Maulkorb kostenlos in Straßenbahn, U-Bahn und Bus. Der Stromovka-Park (95 ha) und Letná bieten große Zonen ohne Leine, und die tschechischen Biergärten sind durchweg hundetolerant.',
     nl: 'Honden reizen gratis mee met tram, metro en bus met een muilkorf. Het Stromovka-park (95 ha) en Letná hebben grote uitlaatzones zonder lijn, en Tsjechische biertuinen zijn uitzonderlijk hondvriendelijk.',
+    it: 'I cani viaggiano gratis su tram, metro e autobus con la museruola. Il parco Stromovka (95 ha) e Letná hanno grandi zone senza guinzaglio, e le birrerie all\'aperto ceche sono universalmente tolleranti verso i cani.',
   }},
   { slug: 'oslo', rank: 18, reason: {
     en: 'Norwegian dog-walking culture is intense: 70%+ of dogs go off-leash in nature. Oslo\'s 60+ kilometre forest border (Marka) is fully dog-friendly within 15 min of the centre.',
@@ -161,6 +178,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'A cultura noruega de passeio canino é intensa: 70 %+ de cães van sem trela en naturaleza. A frontera forestal de 60+ km de Oslo (Marka) é totalmente pet-friendly a 15 min do centro.',
     de: 'Die norwegische Hundeauslauf-Kultur ist ausgeprägt: über 70 % der Hunde laufen in der Natur ohne Leine. Oslos über 60 km lange Waldgrenze (Marka) ist innerhalb von 15 Minuten vom Zentrum vollständig hundefreundlich.',
     nl: 'De Noorse hondencultuur is intens: meer dan 70% van de honden loopt los in de natuur. Oslo\'s meer dan 60 km lange bosgrens (Marka) is binnen 15 minuten vanaf het centrum volledig hondvriendelijk.',
+    it: 'La cultura norvegese del passeggio con il cane è intensa: oltre il 70% dei cani è senza guinzaglio in natura. Il confine boschivo di Oslo lungo oltre 60 km (Marka) è completamente pet-friendly a 15 minuti dal centro.',
   }},
   { slug: 'reykjavik', rank: 19, reason: {
     en: 'Despite Iceland\'s strict pet import rules, Reykjavík has a strong local dog culture: the Heiðmörk reserve (3,000 ha) and dog beaches at Nauthólsvík.',
@@ -169,6 +187,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: 'Apesar das estrictas normas de importación de animais de Islandia, Reikiavik tem uma fuerte cultura canina local: a reserva de Heiðmörk (3.000 ha) e praias caninas en Nauthólsvík.',
     de: 'Trotz Islands strenger Einfuhrregeln für Haustiere hat Reykjavík eine starke lokale Hundekultur: das Naturschutzgebiet Heiðmörk (3.000 ha) und Hundestrände bei Nauthólsvík.',
     nl: 'Ondanks de strenge IJslandse invoerregels voor huisdieren heeft Reykjavík een sterke lokale hondencultuur: het natuurreservaat Heiðmörk (3.000 ha) en hondenstranden bij Nauthólsvík.',
+    it: 'Nonostante le rigide regole islandesi sull\'importazione di animali, Reykjavík ha una forte cultura canina locale: la riserva di Heiðmörk (3.000 ha) e le spiagge per cani a Nauthólsvík.',
   }},
   { slug: 'antwerp', rank: 20, reason: {
     en: '40+ fenced hondenlosloopzones across the city, the Middelheim sculpture park, and a dense network of dog-friendly cafés in the Eilandje and Het Zuid neighbourhoods.',
@@ -177,6 +196,7 @@ const TOP_20: Array<{ slug: string; rank: number; reason: { en: string; fr: stri
     pt: '40+ hondenlosloopzones valladas na cidade, o parque de esculturas Middelheim, e uma densa red de cafés pet-friendly nos bairros Eilandje e Het Zuid.',
     de: 'Über 40 eingezäunte Hondenlosloopzones in der ganzen Stadt, der Skulpturenpark Middelheim und ein dichtes Netz hundefreundlicher Cafés in den Vierteln Eilandje und Het Zuid.',
     nl: '40+ omheinde hondenlosloopzones verspreid over de stad, het beeldenpark Middelheim, en een dicht netwerk van hondvriendelijke cafés in de wijken Eilandje en Het Zuid.',
+    it: 'Oltre 40 hondenlosloopzones recintate in tutta la città, il parco delle sculture Middelheim, e una fitta rete di caffè pet-friendly nei quartieri Eilandje e Het Zuid.',
   }},
 ]
 
@@ -194,6 +214,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: 'Top 20 cidades mais pet-friendly de Europa (edición 2026)',
     de: 'Die 20 hundefreundlichsten Städte Europas (Ausgabe 2026)',
     nl: 'Top 20 hondvriendelijkste steden van Europa (editie 2026)',
+    it: 'Le 20 città più dog-friendly d\'Europa (edizione 2026)',
   }
   const descriptions: Record<string, string> = {
     en: 'Our 2026 ranking of the 20 best European cities for travelling with a dog: off-leash zones, public transport rules, dog beaches, vet coverage and pet-friendly hotels in each.',
@@ -202,6 +223,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: 'Nuestro ranking 2026 das 20 melhores cidades europeias para viajar com cão: zonas sem trela, normas de transporte, praias caninas, cobertura veterinária e hotéis pet-friendly.',
     de: 'Unser Ranking 2026 der 20 besten europäischen Städte für Reisen mit Hund: Zonen ohne Leine, Regeln für öffentliche Verkehrsmittel, Hundestrände, tierärztliche Versorgung und haustierfreundliche Hotels in jeder Stadt.',
     nl: 'Onze ranglijst 2026 van de 20 beste Europese steden om met een hond te reizen: uitlaatzones zonder lijn, regels voor openbaar vervoer, hondenstranden, dierenartsdekking en huisdiervriendelijke hotels in elke stad.',
+    it: 'La nostra classifica 2026 delle 20 migliori città europee per viaggiare con un cane: zone senza guinzaglio, regole sui trasporti pubblici, spiagge per cani, copertura veterinaria e hotel pet-friendly in ognuna.',
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -560,6 +582,57 @@ const COPY: Record<string, {
     bottomBookCtaDesc: 'Live prijzen en direct boeken door heel Europa, Booking.com, Expedia, Hotels.com en meer. Gratis annulering bij de meeste accommodaties, geverifieerd huisdierbeleid bij elke vermelding.',
     bottomBookCtaButton: 'Zoek huisdiervriendelijke hotels →',
   },
+  it: {
+    hero: { kicker: 'LE MIGLIORI CITTÀ PER CANI D\'EUROPA · EDIZIONE 2026', h1: 'Le 20 città più dog-friendly d\'Europa', lede: 'Dopo aver analizzato 85 destinazioni europee secondo cinque criteri, spazio senza guinzaglio, regole sui trasporti pubblici, accesso a spiagge per cani, copertura veterinaria e disponibilità di hotel, ecco le città dove viaggiare con un cane è davvero facile. Aggiornato per il 2026.' },
+    intro: { title: 'Perché questa classifica è diversa', paras: [
+      'La maggior parte delle liste "migliori città dog-friendly" che trovi online è copywriting di marketing riciclato. Classificano le città secondo impressioni vaghe invece che secondo i fattori pratici che determinano se il tuo cane farà davvero un buon viaggio.',
+      'Noi abbiamo adottato un approccio diverso. Abbiamo analizzato ogni destinazione secondo cinque criteri concreti che determinano la qualità reale di un viaggio con il cane: numero di zone recintate senza guinzaglio, accettazione dei cani su metro e tram, disponibilità di spiagge per cani (tutto l\'anno vs stagionali), distanza da un veterinario d\'urgenza 24 ore su 24 e densità di hotel pet-friendly con valutazione superiore a 8,0/10.',
+      'Le città elencate qui sotto si collocano tutte nel quintile superiore in almeno quattro dei cinque criteri. Ognuna è stata visitata e verificata dal nostro team, e ognuna ha una guida completa e curata a mano con numeri di telefono dei veterinari, consigli sugli hotel e una mappa Booking.com in diretta degli hotel pet-friendly in quella città.',
+    ] },
+    methodology: { title: 'La nostra metodologia', paras: [
+      'Abbiamo raccolto il numero ufficiale di zone senza guinzaglio dal sito dei servizi pubblici di ogni città ("Hundeauslaufzonen" nelle città tedesche, "aree cani" in quelle italiane, "koira-aitaus" in quelle finlandesi, ecc.). Le città con meno di 5 zone ufficiali sono state escluse.',
+      'Abbiamo verificato le regole dei trasporti pubblici tramite la documentazione ufficiale dell\'operatore. Una città perde punti se vieta i cani di taglia media e grande, richiede pratiche burocratiche complesse o applica le regole in modo incoerente.',
+      'Per le spiagge per cani, abbiamo distinto le zone aperte tutto l\'anno da quelle stagionali (inutili da maggio a settembre sulla maggior parte delle coste mediterranee). Le città dell\'entroterra sono state valutate in base all\'opzione spiaggia più vicina (max 60 min di auto).',
+      'La copertura veterinaria ha avuto un peso molto forte: una città senza accesso a un veterinario d\'urgenza 24 ore su 24 perde 5 posizioni, indipendentemente dagli altri punti di forza. Abbiamo elencato il numero diretto di ogni clinica nelle nostre guide di destinazione.',
+      'La disponibilità di hotel è stata misurata contando gli hotel pet-friendly su Booking.com con valutazione 8,0+ entro i confini della città. Sotto i 30 hotel di questo tipo, una città usciva dalla top 20 indipendentemente dagli altri punteggi.',
+    ] },
+    rankingTitle: 'La classifica top 20',
+    rankingSubtitle: 'Ogni città rimanda ai prezzi in diretta di Booking.com per hotel pet-friendly, cani ammessi, gatti ammessi, senza supplemento animali, accesso alla spiaggia, vicino ai parchi e altro.',
+    hotelsLabel: 'Hotel',
+    guideLink: 'Guida completa della città →',
+    bookOnBooking: 'Prenota hotel pet-friendly →',
+    bookHotelsInPrefix: 'Prenota hotel pet-friendly a',
+    viewMapPrefix: 'Mappa degli hotel',
+    mapTitle: 'Mappa in diretta · hotel pet-friendly ad Amsterdam (#1)',
+    mapDesc: 'Centrata su Amsterdam, la nostra capitale dog-friendly numero 1. Sposta, ingrandisci e clicca su qualsiasi marcatore per vedere prezzi Booking.com in diretta, politiche sugli animali e disponibilità con cancellazione gratuita. La mappa copre tutti i 770+ hotel pet-friendly delle nostre 129 destinazioni europee.',
+    keywordChipsTitle: 'Ricerche popolari di hotel pet-friendly nel 2026',
+    keywordChips: [
+      'Hotel per cani Amsterdam', 'Hotel pet-friendly Berlino', 'Hotel di lusso per cani Parigi',
+      'Hotel per gatti Vienna', 'Cani gratis Copenaghen', 'Hotel spiaggia Lisbona con cani',
+      'Birrerie dog-friendly Monaco', 'Hotel pet-friendly Porto', 'Spiagge per cani Valencia',
+      'Hotel pet-friendly Praga', 'Amburgo cani sui traghetti', 'Pub dog-friendly Edimburgo',
+      'Hotel senza supplemento Belgrado', 'Helsinki zone senza guinzaglio', 'Reykjavik regole importazione animali',
+      'Anversa Hondenlosloopzones', 'Laghi Salisburgo con cani', 'Oslo foresta Marka', 'Collina Marjan Split', 'Zurigo treni con cani',
+    ],
+    faqTitle: 'Domande frequenti',
+    faqs: [
+      { q: 'Perché Londra non è in questa lista?', a: 'Londra è al 22° posto. La città ha un\'ottima infrastruttura (Hyde Park, Hampstead Heath, il Thames Path), ma ha perso punti sul criterio dei trasporti pubblici: i cani sono vietati sugli autobus londinesi e sulle scale mobili della metropolitana, il che rende difficile la logistica per i cani di taglia grande. Edimburgo si classifica più in alto anche perché le regole scozzesi sui cani sono più uniformi.' },
+      { q: 'L\'ordine è definitivo?', a: 'Le posizioni dall\'8 al 20 sono entro 10 punti l\'una dall\'altra nel nostro sistema di punteggio, quindi l\'ordine tra loro è in parte arbitrario. Amsterdam e Berlino (posizioni 1-2) sono leader chiari, ma la differenza tra il #15 e il #20 è minima.' },
+      { q: 'Con che frequenza viene aggiornata questa lista?', a: 'Ogni anno, a fine aprile, quando la maggior parte dei comuni pubblica gli aggiornamenti delle zone per cani. Le città possono muoversi molto: Belgrado è balzata da fuori dalla top 30 al 16° posto nel 2026 grazie ai trasporti pubblici gratuiti (introdotti a gennaio 2025) e a un nuovo ospedale veterinario 24 ore su 24.' },
+      { q: 'Queste città vanno bene anche per i gatti?', a: 'La maggior parte sì, ma i gatti d\'appartamento si interessano poco di parchi o zone senza guinzaglio. Il criterio che conta per i gatti è l\'accettazione negli hotel, e quasi tutte le nostre 20 città hanno un\'offerta solida di hotel cat-friendly. Amburgo, Helsinki e Vienna guidano in particolare sui gatti.' },
+      { q: 'E le città fuori dall\'UE?', a: 'Edimburgo e Reykjavik (Regno Unito e Islanda, entrambi fuori dal sistema del passaporto europeo per animali) richiedono un Animal Health Certificate (UK) o un processo di importazione rigoroso (Islanda: minimo 4 settimane di attesa, costoso). Restano comunque in classifica perché le città stesse sono eccezionali, ma la burocrazia è più pesante.' },
+    ],
+    conclusion: { title: 'La nostra scelta se hai solo un viaggio', paras: [
+      'Se dovessimo scegliere una sola città per un primo viaggio europeo con il cane, sarebbe Amsterdam. La combinazione di tolleranza verso i cani sui trasporti pubblici, il Vondelpark, i canali e la cultura dei caffè rilassata è impareggiabile. I treni da Amsterdam Centraal raggiungono anche Berlino e Bruxelles in meno di 7 ore, aprendo itinerari multi-città.',
+      'Per un viaggio invernale, Vienna e Berlino eccellono entrambe, tram riscaldati, cultura dei caffè al chiuso, mercatini di Natale che accolgono i cani. Per l\'estate, Amburgo e Copenaghen vincono per le loro temperature più fresche (22-25 °C) e il facile accesso a laghi e mare. Evita Madrid, Siviglia e Cordova (40 °C+) a luglio-agosto.',
+    ] },
+    ctaTitle: 'Pianifica il tuo viaggio con le nostre guide città',
+    ctaDesc: 'Ognuna di queste 20 città ha una guida pet-friendly completa con hotel, ristoranti, parchi, veterinari e una mappa Booking.com in diretta.',
+    ctaButton: 'Vedi tutte le destinazioni →',
+    bottomBookCtaTitle: 'Pronto a prenotare? Confronta 770+ hotel pet-friendly',
+    bottomBookCtaDesc: 'Prezzi in diretta e prenotazione istantanea in tutta Europa, Booking.com, Expedia, Hotels.com e altri. Cancellazione gratuita sulla maggior parte delle strutture, politiche sugli animali verificate su ogni scheda.',
+    bottomBookCtaButton: 'Cerca hotel pet-friendly →',
+  },
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
@@ -572,7 +645,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
     const dest = destinations.find((d) => d.slug === entry.slug)
     if (!dest) return null
     const hotelCount = hotels.filter((h) => h.destinationSlug === entry.slug).length
-    return { ...entry, dest, hotelCount, reasonText: entry.reason[locale as 'en' | 'fr' | 'es' | 'pt' | 'de' | 'nl'] || entry.reason.en }
+    return { ...entry, dest, hotelCount, reasonText: entry.reason[locale as 'en' | 'fr' | 'es' | 'pt' | 'de' | 'nl' | 'it'] || entry.reason.en }
   }).filter((x): x is NonNullable<typeof x> => x !== null)
 
   const itemListSchema = {

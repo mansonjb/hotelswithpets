@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=M+Restaurant+Pizza+Alghero",
           "descriptionDe": "Ein Bistro und eine Pizzeria direkt vor den Seemauern der Bastionen von Alghero, wenige Schritte von der Piazzetta Sulis in der Altstadt entfernt. Hunde sind auf der Terrasse willkommen, die die Meeresbrise und den Sonnenuntergang über den Festungsmauern einfängt.",
           "descriptionNl": "Een bistro en pizzeria direct voor de zeemuren van de bastions van Alghero, een paar stappen van de Piazzetta Sulis in de oude stad. Honden zijn welkom op het terras, dat de zeebries en de zonsondergang boven de vestingmuren vangt.",
+          "descriptionIt": "Un bistrot e pizzeria proprio davanti ai bastioni sul mare di Alghero, a pochi passi da Piazzetta Sulis nel centro storico. I cani sono benvenuti in terrazza, che gode della brezza marina e del tramonto sui bastioni.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
           "petPolicyNl": "Honden welkom op het terras",
+          "petPolicyIt": "Cani benvenuti in terrazza",
           "mustTryDe": "Pizza aus dem Holzofen, frische Meeresfrüchte",
           "mustTryNl": "Pizza uit de houtoven, verse zeevruchten",
+          "mustTryIt": "Pizza al forno a legna, pesce fresco",
           "tipDe": "Reservieren Sie einen Tisch mit Sonnenuntergangsblick auf der Terrasse an der Bastion und bitten Sie um eine Wasserschüssel für Ihren Hund",
-          "tipNl": "Reserveer een tafel met uitzicht op de zonsondergang op het bastionterras en vraag om een waterbakje voor uw hond"
+          "tipNl": "Reserveer een tafel met uitzicht op de zonsondergang op het bastionterras en vraag om een waterbakje voor uw hond",
+          "tipIt": "Prenota un tavolo al tramonto sulla terrazza lato bastioni e chiedi una ciotola d'acqua per il tuo cane"
         },
         {
           "name": "Trattoria Lo Romanì",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Trattoria+Lo+Romani+Alghero",
           "descriptionDe": "Eine langjährige Familientrattoria im Herzen der katalanischen Altstadt, bekannt für sardische Meeresfrüchte, Pasta und Teller zum Teilen. Wie die meisten Trattorien in Alghero heißt sie angeleinte Hunde an ihren Außentischen in der historischen Gasse willkommen.",
           "descriptionNl": "Een al lang bestaande familietrattoria in het hart van de Catalaanse oude stad, bekend om Sardijnse zeevruchten, pasta en gerechten om te delen. Zoals de meeste trattoria's in Alghero heet ze aangelijnde honden welkom aan haar buitentafels in het historische steegje.",
+          "descriptionIt": "Una trattoria familiare storica nel cuore del centro storico catalano, nota per pesce sardo, pasta e piatti da condividere. Come la maggior parte delle trattorie di Alghero accoglie i cani al guinzaglio ai tavoli esterni sul vicolo storico.",
           "petPolicyDe": "Angeleinte Hunde an den Außentischen willkommen",
           "petPolicyNl": "Aangelijnde honden welkom aan de buitentafels",
+          "petPolicyIt": "Cani al guinzaglio benvenuti ai tavoli esterni",
           "mustTryDe": "Hummer nach katalanischer Art, frischer lokaler Fisch",
           "mustTryNl": "Kreeft op Catalaanse wijze, verse lokale vis",
+          "mustTryIt": "Aragosta alla catalana, pesce fresco locale",
           "tipDe": "Die Gasse in der Altstadt ist eng, daher fühlt sich ein kleiner oder ruhiger Hund an den straßenseitigen Tischen am wohlsten",
-          "tipNl": "Het steegje in de oude stad is smal, dus een kleine of rustige hond voelt zich het prettigst aan de tafels aan de straatkant"
+          "tipNl": "Het steegje in de oude stad is smal, dus een kleine of rustige hond voelt zich het prettigst aan de tafels aan de straatkant",
+          "tipIt": "Il vicolo del centro storico è stretto, quindi un cane piccolo o tranquillo si trova meglio ai tavoli sul lato strada"
         },
         {
           "name": "Isola Forma. Bottega Slow Food",
@@ -110,12 +118,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Isola+Forma+Alghero",
           "descriptionDe": "Eine Slow-Food-Bottega in der Altstadt, die sardische Produkte, Käse und Weine in entspannter Terrassenatmosphäre serviert. Auf den Außentischen gilt die übliche italienische Regel, dass angeleinte, wohlerzogene Hunde auf der Terrasse willkommen sind.",
           "descriptionNl": "Een slowfood-bottega in de oude stad die Sardijnse producten, kaas en wijn serveert in een ontspannen terrassfeer. Op de buitentafels geldt de gebruikelijke Italiaanse regel: aangelijnde, goed opgevoede honden zijn welkom op het terras.",
+          "descriptionIt": "Una bottega slow food nel centro storico che serve prodotti sardi, formaggi e vini in un'atmosfera rilassata guidata dalla terrazza. I tavoli esterni seguono la regola italiana standard secondo cui i cani al guinzaglio e ben educati sono benvenuti in terrazza.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op het terras",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza",
           "mustTryDe": "Sardische Käseplatten, lokaler Vermentino-Wein",
           "mustTryNl": "Sardijnse kaasplanken, lokale vermentino-wijn",
+          "mustTryIt": "Taglieri di formaggi sardi, Vermentino locale",
           "tipDe": "Bestellen Sie eine Käse-Wein-Platte für einen entspannten frühen Abend, bevor die Hitze nachlässt und sich die Altstadt füllt",
-          "tipNl": "Bestel een kaas-wijnplank voor een ontspannen vroege avond, voordat de hitte afneemt en de oude stad vol raakt"
+          "tipNl": "Bestel een kaas-wijnplank voor een ontspannen vroege avond, voordat de hitte afneemt en de oude stad vol raakt",
+          "tipIt": "Ordina un tagliere di formaggi e vino per un aperitivo tranquillo di primo pomeriggio prima che il caldo si alzi e il centro storico si riempia"
         }
       ],
       "tipsEn": [
@@ -196,8 +208,10 @@
       ],
       "titleDe": "Haustierfreundliche Restaurants in Alghero",
       "titleNl": "Huisdiervriendelijke restaurants in Alghero",
+      "titleIt": "Ristoranti che accettano cani ad Alghero",
       "introDe": "Das italienische Recht erlaubt es, Hunde fast auf jede Restaurantterrasse mitzunehmen, und in Alghero sind angeleinte Hunde ein gewohnter Anblick auf den Terrassen an der Bastion und in der katalanischen Altstadt. Von Mai bis September sind die Außentische entlang der Seemauern und der Lungomare der perfekte Ort, um mit dem Hund zu speisen, wobei die kühleren Abendstunden für die Pfoten deutlich angenehmer sind als die Mittagshitze.",
       "introNl": "De Italiaanse wet staat toe honden op vrijwel elk restaurantterras mee te nemen, en in Alghero zijn aangelijnde honden een vertrouwd gezicht op de terrassen bij de bastions en in de Catalaanse oude stad. Van mei tot september zijn de buitentafels langs de zeemuren en de lungomare de perfecte plek om met de hond te eten, waarbij de koelere avonduren voor de pootjes veel aangenamer zijn dan de middaghitte.",
+      "introIt": "La legge italiana permette ai cani di accompagnarti quasi su ogni terrazza di ristorante, e ad Alghero questo significa che i cani al guinzaglio sono una vista normale sulle terrazze lato bastioni e nel centro storico catalano. Da maggio a settembre i tavoli esterni lungo le mura sul mare e il lungomare sono il posto dove cenare con il tuo cane, con le ore serali più fresche molto più gentili sulle zampe rispetto al caldo di mezzogiorno.",
       "faqsDe": [
         {
           "q": "Sind Hunde in Restaurants in Alghero erlaubt?",
@@ -224,6 +238,20 @@
         {
           "q": "Bieden restaurants in Alghero water aan voor honden?",
           "a": "Veel wel, op aanvraag. Het beste is om 's zomers een eigen opvouwbaar bakje mee te nemen, omdat de hitte voldoende vochtinname voor honden belangrijk maakt."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani sono ammessi nei ristoranti ad Alghero?",
+          "a": "Sì. Secondo le norme italiane, i cani al guinzaglio e ben educati sono benvenuti sulla maggior parte delle terrazze di ristoranti e bar ad Alghero. Sedersi all'interno dipende dalla discrezione del gestore, quindi è educato chiedere."
+        },
+        {
+          "q": "Dove si trovano i migliori tavoli per cani ad Alghero?",
+          "a": "Le terrazze lungo le mura dei Bastioni e nel centro storico catalano sono le più semplici per cenare con un cane, soprattutto nelle ore serali più fresche da maggio a settembre."
+        },
+        {
+          "q": "I ristoranti di Alghero forniscono acqua per i cani?",
+          "a": "Molti lo fanno su richiesta. È meglio portare la propria ciotola pieghevole d'estate, poiché il caldo rende l'idratazione importante per i cani."
         }
       ]
     },
@@ -258,10 +286,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bastioni+Marco+Polo+Alghero",
           "descriptionDe": "Die restaurierten Festungsmauern aus dem 16. Jahrhundert in Alghero bilden eine vollständig fußläufige Promenade, die die Altstadt oberhalb des Meeres umschließt, von Bastioni Cristoforo Colombo bis Marco Polo und Magellano. Es ist der bekannteste angeleinte Hundespaziergang der Stadt, eben und luftig, mit Caféterrassen und Sonnenuntergangsblick über den Hafen.",
           "descriptionNl": "De gerestaureerde vestingmuren uit de 16e eeuw in Alghero vormen een volledig te belopen promenade die de oude stad boven de zee omsluit, van Bastioni Cristoforo Colombo tot Marco Polo en Magellano. Het is de bekendste aangelijnde hondenwandeling van de stad, vlak en luchtig, met caféterrassen en uitzicht op de zonsondergang boven de haven.",
+          "descriptionIt": "I bastioni restaurati del XVI secolo di Alghero formano una passeggiata interamente pedonale che avvolge il centro storico sopra il mare, da Bastioni Cristoforo Colombo a Marco Polo e Magellano. È la passeggiata per cani al guinzaglio simbolo della città, piana e ventilata, con terrazze di caffè e viste sul tramonto sul porto.",
           "offLeashAreaDe": "Keine. Hunde müssen auf den Festungsmauern angeleint bleiben",
           "offLeashAreaNl": "Geen. Honden moeten aangelijnd blijven op de vestingmuren",
+          "offLeashAreaIt": "Nessuna. I cani devono restare al guinzaglio sui bastioni",
           "tipDe": "Gehen Sie die Festungsmauern bei Sonnenuntergang entlang. Der Stein speichert die Tageshitze, gehen Sie also erst nach dem Abkühlen und bringen Sie Wasser mit",
-          "tipNl": "Loop bij zonsondergang langs de vestingmuren. De steen houdt de dagwarmte vast, ga dus pas na het afkoelen en neem water mee"
+          "tipNl": "Loop bij zonsondergang langs de vestingmuren. De steen houdt de dagwarmte vast, ga dus pas na het afkoelen en neem water mee",
+          "tipIt": "Cammina sui bastioni al tramonto. La pietra trattiene il calore del giorno, quindi vai dopo che si è raffreddata e porta acqua"
         },
         {
           "name": "Pineta di Maria Pia (Maria Pia Pine Forest)",
@@ -284,10 +315,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Pineta+Maria+Pia+Alghero",
           "descriptionDe": "Ein langer schattiger Pinienwald hinter den weißen Dünen des Strandes Maria Pia, durchzogen von sandigen Wegen, die von Läufern und Hundebesitzern genutzt werden. Der Schatten macht ihn zu einem der wenigen angenehmen Spaziergänge auch zur Mittagszeit im Sommer, und er führt direkt zum Hundestrandbereich von Maria Pia.",
           "descriptionNl": "Een lang schaduwrijk pijnbomenbos achter de witte duinen van het strand Maria Pia, doorkruist door zandpaden die worden gebruikt door hardlopers en hondenbezitters. De schaduw maakt het een van de weinige aangename wandelingen, ook rond het middaguur in de zomer, en het leidt rechtstreeks naar het hondenstrandgedeelte van Maria Pia.",
+          "descriptionIt": "Una lunga pineta ombreggiata alle spalle delle dune bianche della spiaggia di Maria Pia, attraversata da sentieri sabbiosi usati da runner e da chi porta il cane a spasso. L'ombra la rende una delle poche passeggiate praticabili anche a metà giornata d'estate, e collega direttamente all'area della spiaggia per cani di Maria Pia.",
           "offLeashAreaDe": "Hunde auf den Waldwegen angeleint halten",
           "offLeashAreaNl": "Honden aangelijnd houden op de bospaden",
+          "offLeashAreaIt": "Tieni il cane al guinzaglio sui sentieri nella pineta",
           "tipDe": "Nutzen Sie den Pinienschatten bei Hitze und beenden Sie den Spaziergang zum Schwimmen am Hundestrand Maria Pia",
-          "tipNl": "Gebruik de schaduw van de pijnbomen bij hitte en eindig de wandeling met een zwempartij op hondenstrand Maria Pia"
+          "tipNl": "Gebruik de schaduw van de pijnbomen bij hitte en eindig de wandeling met een zwempartij op hondenstrand Maria Pia",
+          "tipIt": "Sfrutta l'ombra dei pini nel caldo e finisci alla spiaggia per cani di Maria Pia per un bagno"
         },
         {
           "name": "Lungomare Valencia & Barcellona",
@@ -310,10 +344,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Lungomare+Valencia+Alghero",
           "descriptionDe": "Breite Uferpromenaden entlang der Bucht ab der Altstadt, gesäumt von Palmen und Bänken, durchgehend für angeleinte Hunde geöffnet. Flach, luftig und leicht begehbar, ideal für einen entspannten Morgen- oder Abendspaziergang am Wasser.",
           "descriptionNl": "Brede oeverboulevards langs de baai vanaf de oude stad, omzoomd door palmen en bankjes, doorlopend open voor aangelijnde honden. Vlak, luchtig en makkelijk te belopen, ideaal voor een ontspannen ochtend- of avondwandeling aan het water.",
+          "descriptionIt": "Ampi lungomare che corrono lungo la baia dal centro storico, fiancheggiati da palme e panchine e aperti ai cani al guinzaglio per tutta la loro lunghezza. Piani, ventilati e comodi sotto i piedi, sono ideali per una tranquilla passeggiata mattutina o serale accanto all'acqua.",
           "offLeashAreaDe": "Auf den Promenaden ist Leinenpflicht",
           "offLeashAreaNl": "Op de boulevards geldt aanlijnplicht",
+          "offLeashAreaIt": "Guinzaglio obbligatorio lungo i lungomare",
           "tipDe": "Starten Sie in der Nähe der Altstadt und folgen Sie der Lungomare Valencia in Richtung Lido San Giovanni für Schatten und Meeresluft",
-          "tipNl": "Start bij de oude stad en volg de Lungomare Valencia richting Lido San Giovanni voor schaduw en zeelucht"
+          "tipNl": "Start bij de oude stad en volg de Lungomare Valencia richting Lido San Giovanni voor schaduw en zeelucht",
+          "tipIt": "Parti vicino al centro storico e segui il Lungomare Valencia verso il Lido San Giovanni per ombra e aria di mare"
         }
       ],
       "tipsEn": [
@@ -394,8 +431,10 @@
       ],
       "titleDe": "Hundeparks & Spaziergänge in Alghero",
       "titleNl": "Hondenparken & wandelingen in Alghero",
+      "titleIt": "Parchi e passeggiate per cani ad Alghero",
       "introDe": "Die schönsten Hundespaziergänge in Alghero führen entlang des Meeres: Die Fußgängerzone der Bastioni-Festungsmauern und die Lungomare-Promenaden bieten schattige, ebene Strecken mit ständiger Meeresbrise. Der Pinienwald von Maria Pia hinter den Dünen ist die grüne Lunge für längere angeleinte Spaziergänge, im Sommer sollte man aber auf den frühen Morgen oder Abend ausweichen, da die sardische Mittagssonne den Pfoten stark zusetzt.",
       "introNl": "De mooiste hondenwandelingen in Alghero lopen langs de zee: de voetgangerszone bij de Bastioni-vestingmuren en de lungomare-boulevards bieden schaduwrijke, vlakke routes met constante zeebries. Het pijnbomenbos van Maria Pia achter de duinen is de groene long voor langere aangelijnde wandelingen, maar 's zomers kunt u beter uitwijken naar de vroege ochtend of avond, omdat de Sardijnse middagzon de pootjes zwaar op de proef stelt.",
+      "introIt": "Le migliori passeggiate per cani di Alghero costeggiano il mare: i bastioni pedonali e le passeggiate del lungomare offrono percorsi ombreggiati e piani con brezza marina costante. La pineta di Maria Pia dietro le dune è il polmone verde per passeggiate al guinzaglio più lunghe, ma d'estate meglio restare al mattino presto o alla sera, perché il sole sardo a mezzogiorno è feroce sulle zampe.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde in Alghero ohne Leine laufen?",
@@ -422,6 +461,20 @@
         {
           "q": "Is het 's zomers in Alghero te heet voor een hondenwandeling?",
           "a": "Rond het middaguur in juli en augustus is het voor de pootjes te heet op steen en asfalt. Ga vroeg in de ochtend of na zonsondergang, blijf op schaduwrijke of door de zee gekoelde routes en neem water mee."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani possono stare senza guinzaglio ad Alghero?",
+          "a": "Non in città. I cani devono essere al guinzaglio sulle strade, sui bastioni e sui lungomare. La spiaggia per cani recintata di Maria Pia è il luogo principale dove i cani possono correre e nuotare più liberamente nella zona designata."
+        },
+        {
+          "q": "Qual è la migliore passeggiata per cani ad Alghero?",
+          "a": "Le mura pedonali dei Bastioni e le passeggiate del lungomare sono i percorsi simbolo, entrambi piani, ventilati e panoramici. Per l'ombra d'estate, la pineta di Maria Pia è la scelta migliore."
+        },
+        {
+          "q": "Fa troppo caldo per portare a spasso un cane ad Alghero d'estate?",
+          "a": "A mezzogiorno di luglio e agosto fa troppo caldo per le zampe su pietra e asfalto. Cammina al mattino presto o dopo il tramonto, resta su percorsi ombreggiati o rinfrescati dal mare, e porta sempre acqua."
         }
       ]
     },
@@ -548,8 +601,10 @@
       ],
       "titleDe": "Mit Hund in Alghero unterwegs",
       "titleNl": "Onderweg met hond in Alghero",
+      "titleIt": "Spostarsi ad Alghero con un cane",
       "introDe": "Die kompakte Altstadt von Alghero erkundet man am besten zu Fuß, was Hunden gut passt. Für den Flughafen, die Strände und Capo Caccia nutzt man die regionalen ARST-Busse oder ein Auto, und Fähren vom italienischen Festland bedienen nahe gelegene Häfen. Die Regeln für Haustiere unterscheiden sich je nach Verkehrsmittel deutlich, daher sollte man vorausplanen, besonders bei einem größeren Hund.",
       "introNl": "De compacte oude stad van Alghero verken je het best te voet, wat goed uitkomt voor honden. Voor de luchthaven, de stranden en Capo Caccia gebruikt u de regionale ARST-bussen of een auto, en veerboten vanaf het Italiaanse vasteland bedienen nabijgelegen havens. De huisdierregels verschillen sterk per vervoermiddel, plan dus vooruit, vooral met een grotere hond.",
+      "introIt": "Il compatto centro storico di Alghero si esplora meglio a piedi, il che va bene per i cani. Per l'aeroporto, le spiagge e Capo Caccia userai i bus regionali ARST o un'auto, e i traghetti dall'Italia continentale servono i porti vicini. Le regole per gli animali cambiano molto a seconda del mezzo, quindi pianifica in anticipo, soprattutto per un cane più grande.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund in Alghero mit ARST-Bussen mitnehmen?",
@@ -576,6 +631,20 @@
         {
           "q": "Wat is de makkelijkste manier om met hond bij de hondenstranden en Capo Caccia te komen?",
           "a": "Een auto is het makkelijkst en vermijdt de muilkorfplicht en plaatsbeperkingen van de zomerbussen. Laat uw hond nooit achter in een geparkeerde auto bij hitte en neem altijd water mee voor onderweg."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane sui bus ARST ad Alghero?",
+          "a": "Sì, ma le regole sono rigide. I cani piccoli viaggiano gratis solo in un trasportino fino a 50x30x25 cm. I cani medi e grandi hanno bisogno di guinzaglio, museruola e un biglietto normale, e la salita è a discrezione dell'autista in base allo spazio disponibile."
+        },
+        {
+          "q": "Posso portare un cane sul traghetto per la Sardegna?",
+          "a": "Sì. Tirrenia e Grimaldi accettano cani sulle traversate verso i porti sardi, con guinzaglio e museruola obbligatori a bordo e cabine pet-friendly disponibili. Prenota la cabina per animali in anticipo d'estate."
+        },
+        {
+          "q": "Qual è il modo più semplice per raggiungere le spiagge per cani e Capo Caccia con un cane?",
+          "a": "Un'auto è la soluzione più semplice, evitando i limiti di museruola e spazio dei bus estivi. Non lasciare mai il tuo cane in un'auto parcheggiata con il caldo, e porta sempre acqua per il viaggio."
         }
       ]
     },
@@ -662,8 +731,10 @@
       ],
       "titleDe": "Hundefreundliche Strände in Alghero",
       "titleNl": "Hondvriendelijke stranden in Alghero",
+      "titleIt": "Spiagge che accettano cani ad Alghero",
       "introDe": "Die meisten der berühmten Strände von Alghero verbieten Hunde während der sommerlichen Badesaison, aber die Stadt betreibt zwei offizielle Hundestrände, an denen Hunde wirklich willkommen sind. Der Hundebereich Maria Pia und der Hundestrand La Stalla sind eingezäunte, bewirtschaftete Zonen bei Fertilia. Führen Sie immer Wasser und Schatten mit, da diese Strände nur wenig Infrastruktur bieten und die sardische Sonne intensiv ist.",
       "introNl": "De meeste beroemde stranden van Alghero verbieden honden tijdens het zomerse badseizoen, maar de stad exploiteert twee officiële hondenstranden waar honden echt welkom zijn. Het hondengedeelte Maria Pia en hondenstrand La Stalla zijn omheinde, beheerde zones bij Fertilia. Neem altijd water en schaduw mee, want deze stranden bieden weinig infrastructuur en de Sardijnse zon is intens.",
+      "introIt": "La maggior parte delle famose spiagge di Alghero vieta i cani durante la stagione balneare estiva, ma la città gestisce due spiagge ufficiali per cani dove i cani sono davvero benvenuti. L'area per cani di Maria Pia e la spiaggia per cani La Stalla sono zone recintate e gestite vicino a Fertilia. Porta sempre acqua e ombra, poiché queste spiagge hanno pochi servizi e il sole sardo è intenso.",
       "faqsDe": [
         {
           "q": "Welche Strände erlauben Hunde in Alghero?",
@@ -682,6 +753,16 @@
         {
           "q": "Welke regels gelden op de hondenstranden van Alghero?",
           "a": "Honden moeten gechipt, geregistreerd, gevaccineerd en tegen parasieten behandeld zijn. Ze moeten aangelijnd en onder toezicht zijn, en eigenaren moeten alle uitwerpselen opruimen. Ter plaatse is er weinig tot geen schaduw en geen water, dus u moet beide zelf meenemen, vooral in de Sardijnse zomerhitte."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Quali spiagge ammettono i cani ad Alghero?",
+          "a": "Alghero ha due spiagge ufficiali per cani, l'area per cani di Maria Pia e La Stalla, entrambe vicino a Fertilia, dove i cani possono nuotare e giocare nelle zone recintate designate. La maggior parte delle altre spiagge cittadine come il Lido San Giovanni vieta i cani durante la stagione balneare estiva."
+        },
+        {
+          "q": "Quali sono le regole nelle spiagge per cani di Alghero?",
+          "a": "I cani devono avere microchip, essere registrati, vaccinati e trattati contro i parassiti. Devono stare al guinzaglio e sotto sorveglianza, con i proprietari che raccolgono tutti i rifiuti. C'è poca o nessuna ombra o acqua sul posto, quindi devi portare la tua, soprattutto nel caldo estivo sardo."
         }
       ]
     },
@@ -732,10 +813,13 @@
           "photo": "",
           "hoursDe": "Mo-Sa 09:30-13:30 & 16:30-20:30; So geschlossen",
           "hoursNl": "Ma-za 09:30-13:30 & 16:30-20:30; zo gesloten",
+          "hoursIt": "Lun-sab 09:30-13:30 e 16:30-20:30; dom chiuso",
           "descriptionDe": "Eine gut ausgestattete Klinik in Alghero mit Innerer Medizin, Radiologie, Ultraschall, Weichteil- und orthopädischer Chirurgie sowie Mikrochipping. Eine praktische erste Anlaufstelle für Reisende, die Routineversorgung oder eine kurzfristige Beratung benötigen.",
           "descriptionNl": "Een goed uitgeruste kliniek in Alghero met interne geneeskunde, radiologie, echografie, weke delen- en orthopedische chirurgie en microchippen. Een handig eerste aanspreekpunt voor reizigers die routinezorg of een kort advies nodig hebben.",
+          "descriptionIt": "Una clinica di Alghero ben attrezzata che offre medicina interna, radiologia, ecografia, chirurgia dei tessuti molli e ortopedica, oltre al microchip. È un primo riferimento pratico per i viaggiatori che hanno bisogno di cure di routine o di una visita in giornata.",
           "tipDe": "Rufen Sie im Sommer vorher an, um Öffnungszeiten und Verfügbarkeit zu bestätigen, bevor Sie mit Ihrem Haustier vorbeikommen",
-          "tipNl": "Bel 's zomers van tevoren om openingstijden en beschikbaarheid te bevestigen voordat u met uw huisdier langskomt"
+          "tipNl": "Bel 's zomers van tevoren om openingstijden en beschikbaarheid te bevestigen voordat u met uw huisdier langskomt",
+          "tipIt": "Telefona in anticipo d'estate per confermare orari e disponibilità prima di andare con il tuo animale"
         },
         {
           "name": "Veterinari Chighine Madeddu Ambulatorio Veterinario",
@@ -760,10 +844,13 @@
           "photo": "",
           "hoursDe": "Zur Bestätigung anrufen; übliche Vormittags- und späte Nachmittagsstunden",
           "hoursNl": "Bel ter bevestiging; gebruikelijke ochtend- en late namiddaguren",
+          "hoursIt": "Telefona per conferma; orari standard diurni e tardo pomeridiani",
           "descriptionDe": "Eine seit langem etablierte tierärztliche Gemeinschaftspraxis im Zentrum von Alghero für die allgemeine Kleintierversorgung. Eine nützliche Option in der Stadt für Impfungen, Check-ups und kleinere Probleme während eines Aufenthalts.",
           "descriptionNl": "Een al lang bestaande groepspraktijk voor dierenartsen in het centrum van Alghero, voor algemene zorg voor kleine huisdieren. Een handige optie in de stad voor vaccinaties, controles en kleinere problemen tijdens een verblijf.",
+          "descriptionIt": "Uno studio veterinario associato storico nel centro di Alghero che si occupa di cure generali per piccoli animali. Un'opzione utile in città per vaccinazioni, controlli e piccoli problemi durante un soggiorno.",
           "tipDe": "Italienisch ist hier die Arbeitssprache, bringen Sie daher den EU-Heimtierausweis und die Impfnachweise Ihres Haustiers mit, um zu helfen",
-          "tipNl": "Italiaans is hier de werktaal, breng dus het EU-dierenpaspoort en de vaccinatiebewijzen van uw huisdier mee om te helpen"
+          "tipNl": "Italiaans is hier de werktaal, breng dus het EU-dierenpaspoort en de vaccinatiebewijzen van uw huisdier mee om te helpen",
+          "tipIt": "L'italiano è la lingua di lavoro qui, quindi porta il passaporto europeo del tuo animale e il libretto vaccinale per aiutare"
         },
         {
           "name": "Ambulatorio Veterinario Caneo Dott. Angelo",
@@ -788,10 +875,13 @@
           "photo": "",
           "hoursDe": "Aktuelle Öffnungszeiten telefonisch erfragen",
           "hoursNl": "Actuele openingstijden telefonisch navragen",
+          "hoursIt": "Telefona per confermare gli orari attuali",
           "descriptionDe": "Eine zentral gelegene Kleintierklinik in Alghero mit allgemeiner tierärztlicher Versorgung. Eine praktische Alternative, falls andere Kliniken in der geschäftigen Sommersaison geschlossen oder ausgebucht sind.",
           "descriptionNl": "Een centraal gelegen kliniek voor kleine huisdieren in Alghero met algemene dierenartsenzorg. Een handig alternatief als andere klinieken gesloten of volgeboekt zijn in het drukke zomerseizoen.",
+          "descriptionIt": "Una clinica per piccoli animali nel centro di Alghero che offre cure veterinarie generali. Un comodo ripiego se altre cliniche sono chiuse o al completo durante la stagione estiva più intensa.",
           "tipDe": "Speichern Sie mehr als eine Tierarztnummer aus Alghero in Ihrem Telefon, falls die erste in der Nebensaison oder mittags geschlossen ist",
-          "tipNl": "Sla meer dan één dierenartsnummer uit Alghero op in uw telefoon, voor het geval de eerste in het laagseizoen of rond het middaguur gesloten is"
+          "tipNl": "Sla meer dan één dierenartsnummer uit Alghero op in uw telefoon, voor het geval de eerste in het laagseizoen of rond het middaguur gesloten is",
+          "tipIt": "Salva più di un numero di veterinario di Alghero sul telefono nel caso il primo sia chiuso in bassa stagione o a mezzogiorno"
         }
       ],
       "faqsEn": [
@@ -836,8 +926,10 @@
       ],
       "titleDe": "Tierärzte & Notfälle in Alghero",
       "titleNl": "Dierenartsen & spoedgevallen in Alghero",
+      "titleIt": "Veterinari ed emergenze per animali ad Alghero",
       "introDe": "Alghero verfügt über mehrere etablierte Kleintierkliniken in der Stadt für Routineversorgung und leichte Notfälle. Es gibt kein eigenes 24-Stunden-Tierkrankenhaus in der Stadt selbst, daher wird man bei ernsten nächtlichen Notfällen möglicherweise nach Sassari verwiesen, etwa 35 km entfernt. Bestätigen Sie die Öffnungszeiten telefonisch, da die Sommerpläne variieren.",
       "introNl": "Alghero beschikt over meerdere gevestigde klinieken voor kleine huisdieren in de stad voor routinezorg en lichte spoedgevallen. Er is geen eigen 24-uurs dierenziekenhuis in de stad zelf, dus bij ernstige nachtelijke spoedgevallen wordt u mogelijk doorverwezen naar Sassari, ongeveer 35 km verderop. Bevestig de openingstijden telefonisch, want de zomerschema's variëren.",
+      "introIt": "Alghero ha diverse cliniche per piccoli animali affermate in città per cure di routine e piccole emergenze. Non c'è un ospedale veterinario dedicato attivo 24 ore su 24 nella città stessa, quindi per emergenze serie notturne potresti essere indirizzato verso Sassari, a circa 35 km di distanza. Conferma gli orari di apertura per telefono, poiché gli orari estivi variano.",
       "faqsDe": [
         {
           "q": "Gibt es einen 24-Stunden-Tierarzt in Alghero?",
@@ -856,6 +948,16 @@
         {
           "q": "Welke documenten heb ik nodig om mijn hond mee te nemen naar Alghero?",
           "a": "Vanuit de EU heeft u een geldig dierenpaspoort, microchip en actuele rabiësvaccinatie nodig, toegediend na het chippen en minstens 21 dagen voor de reis. Van buiten de EU heeft u een diergezondheidscertificaat, ISO-microchip, rabiësvaccinatie en eventueel een titertest nodig."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è un veterinario aperto 24 ore su 24 ad Alghero?",
+          "a": "Non c'è un ospedale veterinario dedicato attivo 24 ore su 24 nella città stessa di Alghero. Diverse cliniche cittadine si occupano di cure diurne e piccole emergenze, e per i casi seri notturni potresti essere indirizzato verso Sassari, a circa 35 km di distanza. Telefona sempre prima."
+        },
+        {
+          "q": "Quali documenti servono per portare il mio cane ad Alghero?",
+          "a": "Dall'UE serve un passaporto per animali valido, il microchip e una vaccinazione antirabbica aggiornata somministrata dopo il microchip e almeno 21 giorni prima del viaggio. Da fuori l'UE serve un certificato di salute animale, microchip ISO, vaccinazione antirabbica ed eventualmente un test di titolazione."
         }
       ]
     },
@@ -989,8 +1091,10 @@
       ],
       "titleDe": "Praktische Tipps für einen Besuch in Alghero mit Hund",
       "titleNl": "Praktische tips voor een bezoek aan Alghero met hond",
+      "titleIt": "Consigli pratici per visitare Alghero con un cane",
       "introDe": "Alghero ist ein lohnendes Sommerreiseziel mit Hund, wenn man die Hitze und die saisonalen Strandregeln einplant. Nutzen Sie die Hundestrände, gehen Sie in den kühlen Stunden spazieren und halten Sie die Einreisepapiere bereit. Diese Tipps decken das Wichtigste für eine reibungslose Reise ab.",
       "introNl": "Alghero is een lonende zomerbestemming met hond, als u rekening houdt met de hitte en de seizoensgebonden strandregels. Maak gebruik van de hondenstranden, wandel tijdens de koele uren en houd de inreisdocumenten bij de hand. Deze tips behandelen het belangrijkste voor een probleemloze reis.",
+      "introIt": "Alghero è una destinazione estiva gratificante con un cane se pianifichi in base al caldo e alle regole stagionali sulle spiagge. Usa le spiagge per cani, cammina nelle ore fresche, e tieni in ordine i documenti d'ingresso. Questi consigli coprono l'essenziale per un viaggio senza intoppi.",
       "faqsDe": [
         {
           "q": "Ist Alghero im Sommer ein gutes Reiseziel mit Hund?",
@@ -1017,6 +1121,20 @@
         {
           "q": "Wat is de belangrijkste regel voor honden in Alghero?",
           "a": "Respecteer de zomerhitte. De Sardijnse middagzon en heet wegdek kunnen pootjes verwonden en een hitteberoerte veroorzaken, wandel dus tijdens de koele uren, blijf in de schaduw en de zeebries en neem altijd water mee."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Alghero è una buona destinazione estiva con un cane?",
+          "a": "Sì, se pianifichi in base al caldo e alle regole delle spiagge. Usa le ore fresche del mattino e della sera, le spiagge ufficiali per cani di Maria Pia e La Stalla, e i bastioni ombreggiati e la pineta. Porta acqua ovunque."
+        },
+        {
+          "q": "Serve la museruola per il mio cane ad Alghero?",
+          "a": "Dovresti portarla con te. La museruola è obbligatoria per i cani medi e grandi sui bus ARST e per visitare la Grotta di Nettuno, ed è utile averla a portata di mano per altre attrazioni e situazioni affollate."
+        },
+        {
+          "q": "Qual è la regola più importante per i cani ad Alghero?",
+          "a": "Rispetta il caldo estivo. Il sole sardo a mezzogiorno e il selciato caldo possono ferire le zampe e causare colpi di calore, quindi cammina nelle ore fresche, resta all'ombra e nella brezza marina, e porta sempre acqua."
         }
       ]
     },
@@ -1054,12 +1172,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bastioni+Marco+Polo+Alghero",
           "descriptionDe": "Die ummauerte Altstadt von Alghero ist ein Labyrinth aus katalanisch-gotischen Gassen, Kirchen und Plätzen, umgeben von den Fußgänger-Festungsmauern am Meer. Sie ist mit einem angeleinten Hund vollständig begehbar und die beste kostenlose Sehenswürdigkeit der Stadt.",
           "descriptionNl": "De ommuurde oude stad van Alghero is een doolhof van Catalaans-gotische steegjes, kerken en pleinen, omringd door de voetgangersvestingmuren aan zee. Ze is volledig te belopen met een aangelijnde hond en is de beste gratis bezienswaardigheid van de stad.",
+          "descriptionIt": "Il centro storico murato di Alghero è un labirinto di vicoli gotico-catalani, chiese e piazze avvolto dai bastioni pedonali sul mare. È interamente percorribile con un cane al guinzaglio ed è la migliore attrazione gratuita della città.",
           "dogPolicyDe": "Angeleinte Hunde in den Straßen und auf den Festungsmauern willkommen",
           "dogPolicyNl": "Aangelijnde honden welkom op de straten en vestingmuren",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti in tutte le strade e sui bastioni",
           "admissionFeeDe": "Kostenlos",
           "admissionFeeNl": "Gratis",
+          "admissionFeeIt": "Gratis",
           "tipDe": "Erkunden Sie die Stadt zur goldenen Stunde. Der Stein kühlt ab, und der Sonnenuntergang über den Festungsmauern ist der bekannteste Ausblick der Stadt",
-          "tipNl": "Verken de stad tijdens het gouden uur. De steen koelt af, en de zonsondergang boven de vestingmuren is het bekendste uitzicht van de stad"
+          "tipNl": "Verken de stad tijdens het gouden uur. De steen koelt af, en de zonsondergang boven de vestingmuren is het bekendste uitzicht van de stad",
+          "tipIt": "Esplora nell'ora dorata. La pietra si raffredda e il tramonto sui bastioni è la vista simbolo della città"
         },
         {
           "name": "Grotta di Nettuno (Neptune's Grotto)",
@@ -1085,12 +1207,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Grotta+di+Nettuno+Capo+Caccia",
           "descriptionDe": "Eine spektakuläre Meereshöhle unter den Klippen von Capo Caccia, erreichbar per Boot ab Alghero oder über die 654 Stufen der Escala del Cabirol. Hunde sind mit Leine und Maulkorb sowohl beim Landabstieg als auch bei den Bootstouren zugelassen.",
           "descriptionNl": "Een spectaculaire zeegrot onder de kliffen van Capo Caccia, bereikbaar per boot vanuit Alghero of via de 654 treden van de Escala del Cabirol. Honden zijn toegestaan met lijn en muilkorf, zowel bij de afdaling over land als bij de boottochten.",
+          "descriptionIt": "Una spettacolare grotta marina sotto le scogliere di Capo Caccia, raggiungibile in barca da Alghero o tramite la scalinata Escala del Cabirol di 654 gradini. I cani sono ammessi con guinzaglio e museruola sia nella discesa via terra sia nelle gite in barca.",
           "dogPolicyDe": "Hunde mit Leine und Maulkorb erlaubt, auf dem Landweg und bei Bootstouren",
           "dogPolicyNl": "Honden toegestaan met lijn en muilkorf, over land en bij boottochten",
+          "dogPolicyIt": "Cani ammessi con guinzaglio e museruola, via terra e nelle gite in barca",
           "admissionFeeDe": "Eintrittskarte für die Höhle; Bootstouren ab etwa 10 Euro, zuzüglich Höhleneintritt",
           "admissionFeeNl": "Toegangskaartje voor de grot; boottochten vanaf ongeveer 10 euro, plus grottoegang",
+          "admissionFeeIt": "Biglietto d'ingresso alla grotta; gite in barca da circa 10 euro, più ingresso grotta",
           "tipDe": "Die 654 Stufen der Escala del Cabirol sind bei Hitze brutal. Im Sommer ist eine schattige Bootsfahrt schonender für den Hund",
-          "tipNl": "De 654 treden van de Escala del Cabirol zijn bij hitte meedogenloos. 's Zomers is een schaduwrijke boottocht zachter voor de hond"
+          "tipNl": "De 654 treden van de Escala del Cabirol zijn bij hitte meedogenloos. 's Zomers is een schaduwrijke boottocht zachter voor de hond",
+          "tipIt": "I 654 gradini della Escala del Cabirol sono massacranti con il caldo. D'estate una gita in barca ombreggiata è più gentile per un cane"
         },
         {
           "name": "Capo Caccia & Porto Conte Park",
@@ -1116,12 +1242,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Capo+Caccia+Alghero",
           "descriptionDe": "Eine dramatische Kalksteinlandzunge und ein geschützter Park aus Klippen, Macchia und Meerblick westlich der Stadt. Die offenen Küstenstraßen und Aussichtspunkte eignen sich hervorragend für angeleinte Hundespaziergänge, mit weit mehr Schatten und Brise als im Stadtzentrum.",
           "descriptionNl": "Een dramatische kalkstenen landtong en een beschermd park van kliffen, macchia en zeezicht ten westen van de stad. De open kustwegen en uitzichtpunten zijn uitstekend geschikt voor aangelijnde hondenwandelingen, met veel meer schaduw en bries dan in het stadscentrum.",
+          "descriptionIt": "Un drammatico promontorio calcareo e parco protetto di scogliere, macchia mediterranea e viste sul mare a ovest della città. Le strade costiere aperte e i punti panoramici sono ottimi per passeggiate con cane al guinzaglio, con molta più ombra e brezza rispetto al centro città.",
           "dogPolicyDe": "Angeleinte Hunde auf Straßen, Wegen und Aussichtspunkten willkommen",
           "dogPolicyNl": "Aangelijnde honden welkom op wegen, paden en uitzichtpunten",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti su strade, sentieri e punti panoramici",
           "admissionFeeDe": "Fahren und Gehen kostenlos; einige Orte kostenpflichtig",
           "admissionFeeNl": "Rijden en lopen gratis; sommige plekken betaald",
+          "admissionFeeIt": "Gratis per guidare e camminare; alcuni siti sono a pagamento",
           "tipDe": "Fahren Sie zum Sonnenuntergang über den Klippen hinaus und bringen Sie Wasser mit. Sobald man Alghero verlässt, gibt es kaum Trinkwasser",
-          "tipNl": "Rijd bij zonsondergang de kliffen op en neem water mee. Zodra u Alghero verlaat, is er nauwelijks drinkwater"
+          "tipNl": "Rijd bij zonsondergang de kliffen op en neem water mee. Zodra u Alghero verlaat, is er nauwelijks drinkwater",
+          "tipIt": "Vai per il tramonto sulle scogliere e porta acqua. C'è poca acqua potabile una volta lasciata Alghero"
         }
       ],
       "tipsEn": [
@@ -1202,8 +1332,10 @@
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Alghero",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Alghero",
+      "titleIt": "Attrazioni che accettano cani ad Alghero",
       "introDe": "Alghero belohnt Hundehalter, die gerne zu Fuß erkunden: Die katalanische Altstadt und die Festungsmauern am Meer sind selbst eine Freiluft-Sehenswürdigkeit, und selbst die berühmte Neptungrotte lässt angeleinte, maulkorbtragende Hunde zu. Planen Sie Besuche in den kühleren Stunden, und Sie können die meisten Highlights der Stadt mit Ihrem Hund erleben.",
       "introNl": "Alghero beloont hondeneigenaren die graag te voet verkennen: de Catalaanse oude stad en de vestingmuren aan zee zijn zelf al een openluchtbezienswaardigheid, en zelfs de beroemde Neptunusgrot laat aangelijnde, gemuilkorfde honden toe. Plan bezoeken tijdens de koelere uren, en u kunt de meeste hoogtepunten van de stad samen met uw hond beleven.",
+      "introIt": "Alghero premia i proprietari di cani a cui piace esplorare a piedi: il centro storico catalano e i bastioni sul mare sono un'attrazione a cielo aperto di per sé, e persino la famosa Grotta di Nettuno ammette cani al guinzaglio e con museruola. Pianifica le visite nelle ore più fresche e potrai vedere la maggior parte delle attrazioni principali della città con il tuo cane.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund zur Neptungrotte bei Alghero mitnehmen?",
@@ -1230,6 +1362,20 @@
         {
           "q": "Moet ik extra betalen voor mijn hond bij bezienswaardigheden in Alghero?",
           "a": "Meestal niet. De oude stad en de vestingmuren zijn gratis, en boottochten en grottoegang worden per persoon berekend, niet per hond. Bevestig altijd de lijn- en muilkorfplicht voordat u aan boord gaat van een boot."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane alla Grotta di Nettuno vicino ad Alghero?",
+          "a": "Sì. I cani sono ammessi con guinzaglio e museruola, sia nella discesa via terra tramite la Escala del Cabirol sia nelle gite in barca da Alghero. D'estate la barca ombreggiata è più dolce della scalinata di 654 gradini."
+        },
+        {
+          "q": "Ci sono attrazioni che accettano cani nella stessa Alghero?",
+          "a": "L'intero centro storico murato e i bastioni pedonali sul mare sono aperti ai cani al guinzaglio e gratuiti, il che li rende la migliore attrazione in città. Anche Capo Caccia e il parco di Porto Conte sono ottimi per passeggiate costiere con il cane."
+        },
+        {
+          "q": "Devo pagare un extra per il mio cane nelle attrazioni di Alghero?",
+          "a": "Generalmente no. Il centro storico e i bastioni sono gratuiti, e le gite in barca e l'ingresso alla grotta si pagano a persona e non per cane. Conferma sempre l'obbligo di guinzaglio e museruola prima di salire su una barca."
         }
       ]
     },
@@ -1265,10 +1411,13 @@
           "tipPt": "Contacte dois ou três cuidadores ao mesmo tempo em pleno verão. Os pedidos únicos ficam muitas vezes sem resposta quando a procura é alta",
           "descriptionDe": "Pawshake listet geprüfte lokale Haustierbetreuer und Gassi-Geher in Alghero, mit Profilen, Bewertungen und der Pawshake-Garantie. Eine zuverlässige Möglichkeit, ein paar Stunden Hundebetreuung zu buchen, während Sie eine hundefreie Sehenswürdigkeit besuchen oder drinnen essen.",
           "descriptionNl": "Pawshake vermeldt gescreende lokale huisdierenoppassers en uitlaters in Alghero, met profielen, beoordelingen en de Pawshake-garantie. Een betrouwbare manier om een paar uur hondenoppas te boeken terwijl u een bezienswaardigheid zonder honden bezoekt of binnen eet.",
+          "descriptionIt": "Pawshake elenca pet sitter locali verificati e persone che portano i cani a spasso ad Alghero, con profili, recensioni e la garanzia Pawshake. È un modo affidabile per prenotare qualche ora di custodia mentre visiti un'attrazione vietata ai cani o ceni al chiuso.",
           "serviceTypeDe": "Online-Plattform. Hundebetreuung, Gassi-Service, Pension",
           "serviceTypeNl": "Online platform. Hondenoppas, uitlaatservice, pension",
+          "serviceTypeIt": "Piattaforma online. Custodia, passeggiate, pensione per cani",
           "tipDe": "Kontaktieren Sie in der Hochsaison zwei oder drei Betreuer gleichzeitig. Einzelne Anfragen bleiben bei hoher Nachfrage oft unbeantwortet",
-          "tipNl": "Neem in het hoogseizoen contact op met twee of drie oppassers tegelijk. Losse aanvragen blijven bij hoge vraag vaak onbeantwoord"
+          "tipNl": "Neem in het hoogseizoen contact op met twee of drie oppassers tegelijk. Losse aanvragen blijven bij hoge vraag vaak onbeantwoord",
+          "tipIt": "Scrivi a due o tre sitter contemporaneamente nel picco estivo. Le richieste singole spesso restano senza risposta quando la domanda è alta"
         },
         {
           "name": "Rover Italy",
@@ -1292,10 +1441,13 @@
           "tipPt": "Leia avaliações recentes e confirme que o cuidador está à vontade com o tamanho do seu cão antes de reservar",
           "descriptionDe": "Rover ist eine große Haustierbetreuungsplattform, die in ganz Italien tätig ist und Pension, Tagesbetreuung, Kurzbesuche und Gassi-Service mit überprüften Betreuern anbietet. Das Angebot ist in kleineren sardischen Orten dünner, suchen Sie also frühzeitig in Alghero und erweitern Sie bei Bedarf auf umliegende Gebiete.",
           "descriptionNl": "Rover is een groot platform voor huisdierenoppas dat in heel Italië actief is en pension, dagopvang, korte bezoekjes en uitlaatservice aanbiedt met gescreende oppassers. Het aanbod is dunner in kleinere Sardijnse plaatsen, zoek dus vroegtijdig in Alghero en breid indien nodig uit naar de omliggende gebieden.",
+          "descriptionIt": "Rover è una grande piattaforma di cura per animali attiva in tutta Italia, che offre pensione, asilo diurno, visite brevi e passeggiate con sitter controllati. La copertura è più scarsa nelle città sarde più piccole, quindi cerca su Alghero in anticipo e allarga la ricerca alle zone vicine se necessario.",
           "serviceTypeDe": "App-basierte Plattform. Pension, Tagesbetreuung, Gassi-Service, Besuche",
           "serviceTypeNl": "App-gebaseerd platform. Pension, dagopvang, uitlaatservice, bezoekjes",
+          "serviceTypeIt": "Piattaforma via app. Pensione, asilo diurno, passeggiate, visite",
           "tipDe": "Lesen Sie aktuelle Bewertungen und bestätigen Sie vor der Buchung, dass der Betreuer mit der Größe Ihres Hundes vertraut ist",
-          "tipNl": "Lees actuele beoordelingen en bevestig vóór het boeken dat de oppasser bekend is met de grootte van uw hond"
+          "tipNl": "Lees actuele beoordelingen en bevestig vóór het boeken dat de oppasser bekend is met de grootte van uw hond",
+          "tipIt": "Leggi le recensioni recenti e conferma che il sitter sia a suo agio con la taglia del tuo cane prima di prenotare"
         },
         {
           "name": "PetBacker Alghero",
@@ -1319,10 +1471,13 @@
           "tipPt": "Combine primeiro um encontro durante o dia para que o seu cão fique à vontade antes de uma reserva mais longa",
           "descriptionDe": "PetBacker verbindet Reisende mit lokalen Haustierbetreuern und Anbietern für Übernachtungsbetreuung in Alghero, mit versicherten Buchungen und In-App-Nachrichten. Eine nützliche Alternative, wenn Pawshake oder Rover in der Stadt nur begrenzt verfügbar sind.",
           "descriptionNl": "PetBacker verbindt reizigers met lokale huisdierenoppassers en aanbieders van overnachtingsopvang in Alghero, met verzekerde boekingen en in-app berichten. Een nuttig alternatief wanneer Pawshake of Rover beperkt beschikbaar zijn in de stad.",
+          "descriptionIt": "PetBacker mette in contatto i viaggiatori con pet sitter locali e chi offre cura notturna ad Alghero, con prenotazioni assicurate e messaggistica in-app. Un'utile alternativa quando Pawshake o Rover hanno disponibilità limitata in città.",
           "serviceTypeDe": "Online-Plattform. Betreuung, Übernachtung, Gassi-Service",
           "serviceTypeNl": "Online platform. Oppas, overnachting, uitlaatservice",
+          "serviceTypeIt": "Piattaforma online. Custodia, cura notturna, passeggiate",
           "tipDe": "Vereinbaren Sie zunächst ein Kennenlerntreffen tagsüber, damit sich Ihr Hund vor einer längeren Buchung wohlfühlt",
-          "tipNl": "Plan eerst een kennismakingsafspraak overdag, zodat uw hond zich op zijn gemak voelt vóór een langere boeking"
+          "tipNl": "Plan eerst een kennismakingsafspraak overdag, zodat uw hond zich op zijn gemak voelt vóór een langere boeking",
+          "tipIt": "Organizza prima un incontro diurno così il tuo cane è a suo agio prima di una prenotazione più lunga"
         }
       ],
       "tipsEn": [
@@ -1403,8 +1558,10 @@
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Alghero",
       "titleNl": "Huisdierenoppas & uitlaatservice in Alghero",
+      "titleIt": "Pet-sitting e passeggiate per cani ad Alghero",
       "introDe": "Wer eine hundefreie Sehenswürdigkeit besuchen oder der Mittagshitze entkommen möchte, findet in Alghero lokale Betreuer, die über die gängigen Haustierbetreuungsplattformen erreichbar sind. Eine Buchung über eine Plattform bietet Bewertungen, Versicherung und einen klaren Preis, was beruhigend ist, wenn man von zu Hause weg ist. Reservieren Sie im Sommer frühzeitig, da die sardische Nachfrage im Juli und August ihren Höhepunkt erreicht.",
       "introNl": "Wie een bezienswaardigheid zonder honden wil bezoeken of aan de middaghitte wil ontsnappen, vindt in Alghero lokale oppassers die bereikbaar zijn via de gangbare platforms voor huisdierenoppas. Een boeking via een platform biedt beoordelingen, verzekering en een duidelijke prijs, wat geruststellend is als u van huis weg bent. Reserveer 's zomers vroegtijdig, want de Sardijnse vraag bereikt in juli en augustus zijn piek.",
+      "introIt": "Se vuoi visitare un sito vietato ai cani o sfuggire al caldo di mezzogiorno, Alghero ha sitter locali raggiungibili tramite le principali piattaforme di cura per animali. Prenotare tramite una piattaforma ti dà recensioni, assicurazione e un prezzo chiaro, il che è rassicurante quando sei lontano da casa. Prenota in anticipo d'estate, poiché la domanda sarda raggiunge il picco a luglio e agosto.",
       "faqsDe": [
         {
           "q": "Wie finde ich einen Hundesitter in Alghero?",
@@ -1431,6 +1588,20 @@
         {
           "q": "Is het veilig om mijn hond bij een sitter achter te laten tijdens de reis?",
           "a": "Boeken via een betrouwbaar platform biedt gescreende profielen, beoordelingen en verzekering. Plan eerst een korte kennismakingsafspraak overdag, zodat uw hond zich op zijn gemak voelt vóór een langer verblijf."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Come trovo un pet sitter ad Alghero?",
+          "a": "Il modo più semplice è tramite piattaforme come Pawshake, Rover o PetBacker, che elencano sitter locali di Alghero con recensioni, assicurazione e prezzi chiari. Prenota in anticipo d'estate, poiché la disponibilità è limitata a luglio e agosto."
+        },
+        {
+          "q": "Quanto costa il pet-sitting ad Alghero?",
+          "a": "Aspettati circa 15-35 euro a seconda del servizio, dalle brevi visite alla pensione notturna. I prezzi salgono nel picco estivo, quindi prenota in anticipo e confronta qualche sitter."
+        },
+        {
+          "q": "È sicuro lasciare il mio cane con un sitter mentre viaggio?",
+          "a": "Prenotare tramite una piattaforma affidabile ti dà profili verificati, recensioni e assicurazione. Organizza prima un breve incontro diurno così il tuo cane è a suo agio prima di un soggiorno più lungo."
         }
       ]
     }

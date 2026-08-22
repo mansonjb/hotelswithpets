@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Agadir+Marina+Morocco",
           "descriptionDe": "Der Komplex Agadir Marina (erbaut 2010) hat eine Reihe internationaler Restaurant-Terrassen entlang der Kaimauer: französische, italienische, spanische, marokkanische und Meeresfrüchte-Restaurants mit offenen Terrassen. Die Kultur an der Marina-Uferpromenade ist ausdrücklich international und kosmopolitisch; Hunde an Restaurant-Terrassen sind völlig normal. Das beste gehobene hundefreundliche Essen in Agadir.",
           "descriptionNl": "Het complex Agadir Marina (gebouwd in 2010) heeft een reeks internationale restaurantterrassen langs de kade: Franse, Italiaanse, Spaanse, Marokkaanse en visrestaurants met open terrassen. De cultuur aan de marinapromenade is uitgesproken internationaal en kosmopolitisch, honden op restaurantterrassen zijn heel normaal. Het beste hoogwaardige, hondvriendelijke eten van Agadir.",
+          "descriptionIt": "Il complesso della Marina di Agadir (costruito nel 2010) offre una serie di terrazze di ristoranti internazionali lungo la banchina: ristoranti francesi, italiani, spagnoli, marocchini e di pesce con terrazze aperte. La cultura del lungomarina è dichiaratamente internazionale e cosmopolita, i cani sulle terrazze dei ristoranti sono del tutto normali. La miglior offerta gastronomica dog-friendly di fascia alta ad Agadir.",
           "petPolicyDe": "Hunde an den meisten Marina-Restaurants auf der Terrasse willkommen",
           "petPolicyNl": "Honden welkom op het terras bij de meeste marinarestaurants",
+          "petPolicyIt": "Cani benvenuti in terrazza nella maggior parte dei ristoranti della marina",
           "mustTryDe": "Gegrillte Dorade (Meerbrasse, lokaler Atlantikfang), marokkanischer Hummer (langouste), frische Austern aus Oualidia (2 Std. nördlich, täglich per LKW geliefert)",
           "mustTryNl": "Gegrilde dorade (zeebrasem, lokale Atlantische vangst), Marokkaanse kreeft (langoest), verse oesters uit Oualidia (2 uur ten noorden, dagelijks per vrachtwagen aangevoerd)",
+          "mustTryIt": "Orata alla griglia (pesca locale atlantica), aragosta marocchina (langouste), ostriche fresche di Oualidia (2 ore a nord, trasportate ogni giorno su camion)",
           "tipDe": "Die Marina-Restaurants sind bei Sonnenuntergang (19:00-20:30 Uhr) am stimmungsvollsten; die Bucht von Agadir schwingt nach Norden, und der Sonnenuntergang über dem Ozean von einer Marina-Terrasse aus mit Ihrem Hund ist ein wirklich unvergesslicher Abend",
-          "tipNl": "De marinarestaurants zijn het sfeervolst bij zonsondergang (19:00-20:30 uur), de baai van Agadir buigt naar het noorden, en de zonsondergang boven de oceaan vanaf een marinaterras met je hond is een echt onvergetelijke avond"
+          "tipNl": "De marinarestaurants zijn het sfeervolst bij zonsondergang (19:00-20:30 uur), de baai van Agadir buigt naar het noorden, en de zonsondergang boven de oceaan vanaf een marinaterras met je hond is een echt onvergetelijke avond",
+          "tipIt": "I ristoranti della marina sono più suggestivi al tramonto (19:00-20:30), la baia di Agadir si curva verso nord e il tramonto sull'oceano da una terrazza della marina con il tuo cane è una serata davvero indimenticabile"
         }
       ],
       "tipsEn": [
@@ -112,8 +116,10 @@
       ],
       "titleDe": "Essen mit Ihrem Hund in Agadir",
       "titleNl": "Uit eten met je hond in Agadir",
+      "titleIt": "Mangiare fuori con il tuo cane ad Agadir",
       "introDe": "Agadir ist Marokkos europäischster Strandort; es wurde nach dem Erdbeben von 1960 von Grund auf als moderne, geplante Stadt wiederaufgebaut. Der Ferienstreifen und der Strandboulevard haben viele europäisch geführte Restaurant-Terrassen, die Hunde problemlos akzeptieren. Die Stadt hat die höchste Dichte an hundetoleranten Restaurants aller marokkanischen Städte.",
       "introNl": "Agadir is Marokko's meest Europese badplaats, na de aardbeving van 1960 volledig herbouwd als moderne, geplande stad. De boulevard en het strandgebied hebben veel Europees geleide restaurantterrassen die honden probleemloos accepteren. De stad heeft de hoogste dichtheid van hondentolerante restaurants van alle Marokkaanse steden.",
+      "introIt": "Agadir è la località balneare più europea del Marocco: dopo il terremoto del 1960 è stata ricostruita da zero come città moderna e pianificata. Il lungomare e la zona spiaggia hanno molti ristoranti a gestione europea con terrazze che accettano cani senza problemi. La città ha la più alta densità di ristoranti tolleranti verso i cani di tutte le città marocchine.",
       "faqsDe": [
         {
           "q": "Ist Agadir für Restaurants hundefreundlicher als Marrakesch?",
@@ -132,6 +138,16 @@
         {
           "q": "Mag ik mijn hond meenemen naar supermarkten in Agadir?",
           "a": "Niet in de supermarkten zelf (Marjane, Carrefour, BIM), maar de grote supermarkten hebben karrenparkeerplaatsen en ingangen waar honden veilig kunnen worden vastgemaakt terwijl je boodschappen doet. De kleinere lokale hanout-winkeltjes tolereren een wachtende hond buiten."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Agadir è più dog-friendly di Marrakech per i ristoranti?",
+          "a": "Decisamente sì. Agadir è stata costruita come località balneare internazionale, e tutta la sua economia si basa sul turismo di massa europeo. Le norme culturali sui cani in pubblico sono molto più vicine alla cultura balneare spagnola o portoghese che alla tradizionale cultura urbana marocchina. I cani sulle terrazze dei ristoranti nella zona spiaggia sono del tutto normali."
+        },
+        {
+          "q": "Posso portare il mio cane nei supermercati di Agadir?",
+          "a": "Non dentro ai supermercati veri e propri (Marjane, Carrefour, BIM), ma i grandi supermercati hanno parcheggi per i carrelli e ingressi dove puoi legare il cane in sicurezza mentre fai la spesa. I piccoli negozi locali hanout tollerano un cane che aspetta fuori."
         }
       ]
     },
@@ -167,10 +183,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Agadir+Beach+Morocco",
           "descriptionDe": "Ein 9 km langer, nach Westen ausgerichteter Atlantikstrand: der breiteste und flachste Strand Marokkos, vollständig flach und wasserlinien-nah festgetreten. Kein saisonales Hundeverbot. Der Strand ist der wichtigste Bereich zum Gassigehen und Laufen für die vielen ansässigen Hunde der Stadt und Touristenhunde. Das nördliche Ende (bei der Kasbah) ist ruhiger; der zentrale Strand (gegenüber den Hotels) ist lebhafter. Der Atlantik ist hier wegen der Buchtausrichtung ruhiger als in Essaouira.",
           "descriptionNl": "Een 9 km lang, westgericht Atlantisch strand: het breedste en vlakste strand van Marokko, volledig vlak en stevig aangestampt vlak bij de waterlijn. Geen seizoensgebonden hondenverbod. Het strand is het belangrijkste gebied om te wandelen en te rennen voor de vele lokale honden van de stad en toeristenhonden. Het noordelijke uiteinde (bij de kasbah) is rustiger, het centrale strand (tegenover de hotels) is levendiger. De Atlantische Oceaan is hier rustiger dan in Essaouira door de vorm van de baai.",
+          "descriptionIt": "Una spiaggia atlantica lunga 9 km rivolta a ovest: la più larga e piatta del Marocco, completamente piana e compatta vicino alla battigia. Nessun divieto stagionale per i cani. La spiaggia è la principale zona per passeggiare e correre per i tanti cani residenti in città e quelli dei turisti. L'estremità nord (vicino alla kasbah) è più tranquilla, la spiaggia centrale (di fronte agli hotel) è più animata. L'Atlantico qui è più calmo che a Essaouira grazie alla forma della baia.",
           "petPolicyDe": "Hunde am Strand erlaubt, keine Einschränkungen",
           "petPolicyNl": "Honden toegestaan op het strand, geen beperkingen",
+          "petPolicyIt": "Cani ammessi in spiaggia, nessuna restrizione",
           "tipDe": "Der 9 km lange Strand von Agadir lässt sich in unter 2 Stunden von Ende zu Ende ablaufen; ein kompletter Strandspaziergang vom Südende der Marina bis zum Kasbah-Hügel im Norden mit Ihrem Hund ist das beste kostenlose Erlebnis in Agadir",
-          "tipNl": "Het 9 km lange strand van Agadir loop je in minder dan 2 uur van eind tot eind af, een complete strandwandeling van het zuidelijke einde van de marina tot de kasbahheuvel in het noorden met je hond is de beste gratis ervaring in Agadir"
+          "tipNl": "Het 9 km lange strand van Agadir loop je in minder dan 2 uur van eind tot eind af, een complete strandwandeling van het zuidelijke einde van de marina tot de kasbahheuvel in het noorden met je hond is de beste gratis ervaring in Agadir",
+          "tipIt": "I 9 km della spiaggia di Agadir si percorrono da un capo all'altro in meno di 2 ore: una camminata completa dall'estremità sud della marina fino alla collina della kasbah a nord con il tuo cane è la migliore esperienza gratuita ad Agadir"
         }
       ],
       "tipsEn": [
@@ -235,8 +254,10 @@
       ],
       "titleDe": "Parks & Grünflächen in Agadir",
       "titleNl": "Parken en groene ruimtes in Agadir",
+      "titleIt": "Parchi e spazi verdi ad Agadir",
       "introDe": "Agadir verfügt über mehrere gepflegte öffentliche Gärten und einen 9 km langen Strand. Der Nationalpark Souss-Massa (40 km südlich) ist die bedeutendste Naturfläche in der Nähe von Agadir und einer der hundefreundlichsten Nationalparks Marokkos.",
       "introNl": "Agadir heeft verschillende verzorgde openbare tuinen en een 9 km lang strand. Nationaal park Souss-Massa (40 km ten zuiden) is het belangrijkste natuurgebied bij Agadir en een van de hondvriendelijkste nationale parken van Marokko.",
+      "introIt": "Agadir ha diversi giardini pubblici ben curati e una spiaggia lunga 9 km. Il Parco Nazionale di Souss-Massa (40 km a sud) è l'area naturale più importante vicino ad Agadir e uno dei parchi nazionali più dog-friendly del Marocco.",
       "faqsDe": [
         {
           "q": "Kann ich mit meinem Hund im Nationalpark Souss-Massa wandern?",
@@ -255,6 +276,16 @@
         {
           "q": "Is het strand van Agadir druk met andere honden?",
           "a": "In het Europese hoogseizoen (juli-augustus) zijn er veel toeristenhonden uit EU-landen op het strand van Agadir, het strand is breed genoeg zodat drukte geen probleem is. Het noordelijke gedeelte bij de kasbah is altijd het rustigst. 's Ochtends voor 9:00 uur en 's avonds na 19:00 uur zijn de beste tijden om het strand voor jezelf te hebben."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso fare escursioni con il mio cane nel Parco Nazionale di Souss-Massa?",
+          "a": "Sì, il tratto costiero atlantico di Souss-Massa (dune e spiaggia a sud della foce del fiume Souss) è accessibile con il cane al guinzaglio. Le zone umide interne (dove vive l'ibis eremita) possono avere restrizioni durante la stagione della nidificazione (febbraio-giugno). Le dune atlantiche e i tratti di spiaggia a sud della foce del Souss sono liberamente accessibili tutto l'anno."
+        },
+        {
+          "q": "La spiaggia di Agadir è affollata di altri cani?",
+          "a": "Nell'alta stagione europea (luglio-agosto) ci sono molti cani turisti provenienti da paesi UE sulla spiaggia di Agadir, ma la spiaggia è abbastanza larga da non creare affollamento. Il tratto settentrionale vicino alla kasbah è sempre il più tranquillo. Le mattine prima delle 9:00 e le sere dopo le 19:00 sono i momenti migliori per avere la spiaggia tutta per voi."
         }
       ]
     },
@@ -334,8 +365,10 @@
       ],
       "titleDe": "Mit Ihrem Hund nach Agadir reisen",
       "titleNl": "Met je hond naar Agadir reizen",
+      "titleIt": "Viaggiare ad Agadir con il tuo cane",
       "introDe": "Der Flughafen Agadir Al Massira (AGA) ist Marokkos zweitverkehrsreichster Flughafen und das Haupttor für europäische Strandtouristen. Er hat die meisten Direktverbindungen aller marokkanischen Flughäfen aus Großbritannien, Irland, Frankreich, Belgien, den Niederlanden, Deutschland und Skandinavien. Das macht Agadir zum am leichtesten erreichbaren marokkanischen Reiseziel für europäische Hundereisende.",
       "introNl": "Luchthaven Agadir Al Massira (AGA) is de op één na drukste luchthaven van Marokko en de belangrijkste toegangspoort voor Europese strandtoeristen. Hij heeft de meeste directe verbindingen van alle Marokkaanse luchthavens vanuit het Verenigd Koninkrijk, Ierland, Frankrijk, België, Nederland, Duitsland en Scandinavië. Dat maakt Agadir de gemakkelijkst bereikbare Marokkaanse bestemming voor Europese hondenreizigers.",
+      "introIt": "L'aeroporto di Agadir Al Massira (AGA) è il secondo aeroporto più trafficato del Marocco e il principale punto di ingresso per i turisti balneari europei. Ha il maggior numero di collegamenti diretti tra tutti gli aeroporti marocchini da Regno Unito, Irlanda, Francia, Belgio, Paesi Bassi, Germania e Scandinavia. Questo rende Agadir la destinazione marocchina più facilmente raggiungibile per chi viaggia con il cane dall'Europa.",
       "faqsDe": [
         {
           "q": "Welche europäischen Fluggesellschaften fliegen direkt nach Agadir mit der hundefreundlichsten Frachtpolitik?",
@@ -354,6 +387,16 @@
         {
           "q": "Kan ik met mijn hond van Europa naar Agadir rijden?",
           "a": "Ja, via de grensovergang Algeciras-Ceuta (Spaanse enclave), daarna over land door Marokko. Dit is een rit van 3 tot 4 dagen vanuit Midden-Europa, maar populair bij hondeneigenaren die niet met hun hond willen vliegen. De grensovergang Algeciras-Ceuta accepteert honden met de gebruikelijke Marokkaanse inreisdocumenten voor huisdieren. Van Tanger naar Agadir is het ongeveer 1.100 km, 10 tot 12 uur rijden."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Quali compagnie aeree europee volano direttamente ad Agadir con la politica cargo più dog-friendly?",
+          "a": "Royal Air Maroc (la compagnia di bandiera marocchina) ha la politica più coerente per il trasporto dei cani in stiva tra Europa e Marocco. Per i cani piccoli in cabina, Air France e Transavia (entrambe del gruppo Air France) hanno politiche chiaramente pubblicate. Ryanair ed easyJet non accettano cani in stiva ma accettano cani da assistenza; verifica attentamente prima di prenotare. TUI e Jet2 (compagnia charter britannica) accettano cani in stiva."
+        },
+        {
+          "q": "Posso raggiungere Agadir in auto dall'Europa con il mio cane?",
+          "a": "Sì, tramite il confine di Algeciras-Ceuta (enclave spagnola), per poi proseguire via terra in Marocco. È un viaggio di 3-4 giorni dall'Europa centrale, ma è popolare tra i proprietari di cani che preferiscono non volare con il proprio animale. Il valico di Algeciras-Ceuta accetta cani con i normali documenti di ingresso in Marocco per animali domestici. Da Tangeri ad Agadir sono circa 1.100 km, 10-12 ore di guida."
         }
       ]
     },
@@ -429,8 +472,10 @@
       ],
       "titleDe": "Strand von Agadir & Ausflüge an die Küste",
       "titleNl": "Strand van Agadir en uitstapjes naar de kust",
+      "titleIt": "Spiaggia di Agadir ed escursioni sulla costa",
       "introDe": "Der 9 km lange Strand von Agadir ist Marokkos am leichtesten zugänglicher und familienfreundlichster Strand für Hunde. Außerhalb der Stadt bietet der Nationalpark Souss-Massa (40 km südlich) wilde Atlantikdünen und Strände völlig ohne Leine. Das Paradise Valley (Immouzer des Ida Outanane, 50 km nördlich) ist eine spektakuläre Palmenschlucht mit Wasserfällen und Flussbaden für Hunde.",
       "introNl": "Het 9 km lange strand van Agadir is het makkelijkst toegankelijke en meest gezinsvriendelijke strand van Marokko voor honden. Buiten de stad biedt nationaal park Souss-Massa (40 km ten zuiden) wilde Atlantische duinen en stranden volledig zonder riem. De Paradise Valley (Immouzer des Ida Outanane, 50 km ten noorden) is een spectaculaire palmboomkloof met watervallen en zwemmen in de rivier voor honden.",
+      "introIt": "I 9 km di spiaggia di Agadir sono la spiaggia più accessibile e adatta alle famiglie del Marocco per i cani. Fuori città, il Parco Nazionale di Souss-Massa (40 km a sud) offre dune e spiagge atlantiche selvagge, del tutto senza guinzaglio. La Paradise Valley (Immouzer des Ida Outanane, 50 km a nord) è uno spettacolare canyon di palme con cascate e bagni nel fiume per i cani.",
       "faqsDe": [
         {
           "q": "Ist der Strand von Agadir besser für Hunde als der Strand von Essaouira?",
@@ -449,6 +494,16 @@
         {
           "q": "Mag ik met mijn hond zwemmen in de Paradise Valley?",
           "a": "Ja, de Paradise Valley (Immouzer des Ida Outanane) is een spectaculaire zwembestemming voor honden. De natuurlijke rotsbekkens zijn 1 tot 4 m diep met helder bergwater, honden zwemmen zonder beperking. De bekkens zijn het voorst in de lente (maart-mei) na het smelten van de sneeuw. In de zomer (juli-augustus) daalt het waterpeil in sommige bovenste bekkens, het onderste dal heeft altijd water."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "La spiaggia di Agadir è migliore per i cani rispetto alla spiaggia di Essaouira?",
+          "a": "Diversa, non migliore né peggiore. La spiaggia di Agadir è più larga, più calma (meno vento e onde) e più in stile resort, con beach club e servizi. La spiaggia di Essaouira è più selvaggia, più suggestiva e ha lo splendido sfondo della medina. Agadir è meglio per una vacanza balneare rilassata con attività miste, Essaouira è più adatta a un'esperienza in spiaggia più avventurosa per il tuo cane. Se hai una settimana, combina entrambe (2 ore di auto)."
+        },
+        {
+          "q": "Posso nuotare con il mio cane nella Paradise Valley?",
+          "a": "Sì, la Paradise Valley (Immouzer des Ida Outanane) è una meta spettacolare per far nuotare il cane. Le piscine naturali di roccia sono profonde da 1 a 4 metri con acqua di montagna limpida; i cani nuotano senza restrizioni. Le piscine sono più piene in primavera (marzo-maggio), dopo lo scioglimento delle nevi. In estate (luglio-agosto) il livello dell'acqua scende in alcune piscine superiori, ma la valle bassa ha sempre acqua."
         }
       ]
     },
@@ -528,8 +583,10 @@
       ],
       "titleDe": "Tierärzte & Notfallversorgung in Agadir",
       "titleNl": "Dierenartsen en spoedzorg in Agadir",
+      "titleIt": "Veterinari e cure d'urgenza ad Agadir",
       "introDe": "Agadir verfügt über mehrere Tierarztpraxen mit höheren Standards als kleinere marokkanische Städte, aufgrund der großen Zahl ansässiger Expats und Touristenhaustiere. Für das EU-Rückkehr-Gesundheitszeugnis muss ein von der ONSSA zugelassener Tierarzt das Dokument innerhalb von 10 Tagen vor der Abreise ausstellen. Fragen Sie Ihr Hotel oder Ihre Unterkunft nach dem aktuell empfohlenen ONSSA-zugelassenen Tierarzt.",
       "introNl": "Agadir heeft verschillende dierenartsenpraktijken met hogere standaarden dan kleinere Marokkaanse steden, dankzij het grote aantal lokale expats en toeristenhuisdieren. Voor het EU-terugkeergezondheidscertificaat moet een door ONSSA erkende dierenarts het document binnen 10 dagen voor vertrek opstellen. Vraag je hotel of accommodatie naar de actueel aanbevolen ONSSA-erkende dierenarts.",
+      "introIt": "Agadir dispone di diversi studi veterinari, con standard più elevati rispetto alle città marocchine più piccole grazie al gran numero di residenti espatriati e animali dei turisti. Per il certificato sanitario di rientro nell'UE, un veterinario autorizzato dall'ONSSA deve rilasciare il documento entro 10 giorni dalla partenza. Chiedi al tuo hotel o alloggio il veterinario approvato dall'ONSSA attualmente consigliato.",
       "faqsDe": [
         {
           "q": "Gibt es einen 24h-Notfalltierarzt in Agadir?",
@@ -548,6 +605,16 @@
         {
           "q": "Kan ik het EU-terugkeercertificaat voor mijn hond krijgen bij een dierenarts in Agadir?",
           "a": "Ja, Agadir heeft ONSSA-geregistreerde dierenartsen die het EU-herexportgezondheidscertificaat kunnen opstellen. Bevestig bij het maken van de afspraak dat de dierenarts ONSSA-erkend is, het certificaat moet binnen 10 dagen voor je vertrekdatum worden opgesteld."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è un veterinario di emergenza aperto 24 ore su 24 ad Agadir?",
+          "a": "Agadir ha almeno uno studio veterinario con orari estesi o servizio di emergenza. Chiedi alla reception del tuo hotel all'arrivo il contatto attuale del veterinario di emergenza: è il modo più affidabile per ottenere un numero aggiornato. Anche il gruppo Facebook 'Agadir Expats' ha consigli aggiornati."
+        },
+        {
+          "q": "Posso ottenere il certificato di rientro UE per il mio cane da un veterinario ad Agadir?",
+          "a": "Sì, ad Agadir ci sono veterinari registrati presso l'ONSSA in grado di rilasciare il certificato sanitario di riesportazione UE. Conferma al momento della prenotazione dell'appuntamento che il veterinario sia approvato dall'ONSSA; il certificato deve essere rilasciato entro 10 giorni dalla data di partenza."
         }
       ]
     },
@@ -624,8 +691,10 @@
       ],
       "titleDe": "Wichtige Tipps für einen Besuch in Agadir mit Hund",
       "titleNl": "Belangrijke tips voor een bezoek aan Agadir met hond",
+      "titleIt": "Consigli essenziali per visitare Agadir con un cane",
       "introDe": "Agadir ist Marokkos unkompliziertestes Reiseziel für Hundereisende: eine moderne, europäisch geprägte Ferienstadt mit 9 km Strand, guten Flughafenverbindungen und einer entspannten Einstellung gegenüber Hunden im öffentlichen Raum. Weniger kulturell komplex als Marrakesch oder Fès, ist es die einfachste erste Marokkoreise für Hundehalter.",
       "introNl": "Agadir is de meest eenvoudige bestemming van Marokko voor hondenreizigers: een moderne, Europees getinte badstad met 9 km strand, goede luchthavenverbindingen en een ontspannen houding tegenover honden in het openbaar. Minder cultureel complex dan Marrakesh of Fez, het is de makkelijkste eerste Marokkoreis voor hondenbaasjes.",
+      "introIt": "Agadir è la destinazione marocchina più semplice per chi viaggia con il cane: una moderna città balneare in stile europeo con 9 km di spiaggia, buoni collegamenti aeroportuali e un atteggiamento rilassato verso i cani negli spazi pubblici. Meno complessa dal punto di vista culturale rispetto a Marrakech o Fes, è il primo viaggio in Marocco più facile per chi ha un cane.",
       "faqsDe": [
         {
           "q": "Ist Agadir aus Krankheitssicht sicher für Hunde?",
@@ -644,6 +713,16 @@
         {
           "q": "Kan ik een Marokko-roadtrip met mijn hond maken vanuit Agadir?",
           "a": "Agadir is het ideale vertrekpunt voor een roadtrip door zuidelijk Marokko met hond: Taroudant (85 km oostelijk), Paradise Valley (50 km noordelijk), Souss-Massapark (40 km zuidelijk), Tiznit (90 km zuidelijk) en voor de avontuurlijkere reiziger de Draa-vallei en Zagora (5 uur zuidoostelijk). Allemaal uitstekende routes voor hondenreizen met buitenaccommodaties en minimale culturele wrijving vergeleken met het noorden."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Agadir è sicura per i cani dal punto di vista delle malattie?",
+          "a": "Gestibile con la giusta preparazione. La leishmaniosi (trasmessa dai flebotomi) è il rischio principale; un collare preventivo Scalibor o un trattamento Advantix prima del viaggio elimina gran parte del rischio. Il vaccino antirabbico deve essere aggiornato. L'acqua del rubinetto della città è sicura per i cani (nessun rischio di giardia dall'acqua di rubinetto). La sicurezza alimentare è come ovunque: evita gli avanzi con cipolla, aglio o salse piccanti."
+        },
+        {
+          "q": "Posso fare un road trip in Marocco con il mio cane partendo da Agadir?",
+          "a": "Agadir è il punto di partenza ideale per un road trip nel sud del Marocco con il cane: Taroudant (85 km a est), Paradise Valley (50 km a nord), il Parco Souss-Massa (40 km a sud), Tiznit (90 km a sud) e, per i più avventurosi, la Valle del Draa e Zagora (5 ore a sud-est). Sono tutti itinerari eccellenti per viaggiare con il cane, con opzioni di alloggio all'aperto e un attrito culturale minimo rispetto al nord."
         }
       ]
     },
@@ -719,8 +798,10 @@
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Agadir",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Agadir",
+      "titleIt": "Attrazioni dog-friendly ad Agadir",
       "introDe": "Agadir wurde nach dem Erdbeben von 1960 vollständig wiederaufgebaut; es hat keine historische Altstadt-Medina (die Kasbah-Ruinen auf dem Hügel sind die Ausnahme). Die Sehenswürdigkeiten sind im Freien und ferienort-orientiert: der Strand, die Marina, der Kasbah-Hügel, der Souss-Massa-Park und das umliegende Anti-Atlas-Gebirge. Alle sind hervorragend für Hunde geeignet.",
       "introNl": "Agadir is na de aardbeving van 1960 volledig herbouwd, de stad heeft geen historische oude medina (de kasbahruïnes op de heuvel zijn de uitzondering). De bezienswaardigheden liggen buiten en zijn op de badplaats gericht: het strand, de marina, de kasbahheuvel, het Souss-Massapark en het omliggende Anti-Atlasgebergte. Allemaal uitstekend geschikt voor honden.",
+      "introIt": "Agadir è stata completamente ricostruita dopo il terremoto del 1960: la città non ha un'antica medina storica (le rovine della kasbah sulla collina sono l'eccezione). Le attrazioni sono all'aperto e orientate al turismo balneare: la spiaggia, la marina, la collina della kasbah, il parco Souss-Massa e le circostanti montagne dell'Anti-Atlante. Tutte eccellenti per i cani.",
       "faqsDe": [
         {
           "q": "Kann ich die alte Kasbah von Agadir mit meinem Hund besuchen?",
@@ -739,6 +820,16 @@
         {
           "q": "Is Agadir een goede basis voor een hondenreisroute door Marokko?",
           "a": "Agadir is waarschijnlijk de beste basis in Marokko voor hondenreizigers die voor het eerst komen: makkelijke luchthaventoegang, de meest hondentolerante badplaatscultuur van Marokko, het beste strand en eenvoudige dagtochten naar de hondvriendelijkste landschappen (Atlasgebergte, Souss-Massa, Paradise Valley, Essaouira). Een reis van 7 tot 10 dagen met Agadir als basis dekt alle essentiële zaken, zonder de complexiteit van een op medina gebaseerde stad zoals Fez of Marrakesh."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso visitare la vecchia kasbah di Agadir con il mio cane?",
+          "a": "Sì, le rovine della kasbah (Agadir Oufella) si raggiungono con una strada asfaltata e un sentiero dalla città; i cani salgono al guinzaglio. Le rovine stesse sono rovine a cielo aperto su una collina, non un edificio chiuso; i cani possono esplorare il sito al guinzaglio insieme a te. La vista panoramica è il motivo principale della visita e i cani rendono l'esperienza ancora più bella."
+        },
+        {
+          "q": "Agadir è una buona base per un itinerario di viaggio con il cane in Marocco?",
+          "a": "Agadir è probabilmente la migliore base in Marocco per chi viaggia con il cane per la prima volta: facile accesso all'aeroporto, la cultura balneare più tollerante verso i cani del Marocco, la spiaggia migliore e facili escursioni giornaliere verso i paesaggi più dog-friendly (montagne dell'Atlante, Souss-Massa, Paradise Valley, Essaouira). Un viaggio di 7-10 giorni con base ad Agadir copre tutto l'essenziale senza la complessità di una città basata sulla medina come Fes o Marrakech."
         }
       ]
     },
@@ -814,8 +905,10 @@
       ],
       "titleDe": "Hundebetreuung in Agadir",
       "titleNl": "Hondenoppas in Agadir",
+      "titleIt": "Dog sitting ad Agadir",
       "introDe": "Agadir hat die am weitesten entwickelte Infrastruktur für Haustierbetreuung in Südmarokko. Die große europäische Expat-Community und die internationale Hotelbranche bedeuten, dass Hundesitter und Gassi-Dienste existieren, besonders über die Netzwerke der Expat-Community. Rover ist in Marokko nicht aktiv; persönliche Empfehlungen und Facebook-Expat-Gruppen sind die besten Quellen.",
       "introNl": "Agadir heeft de meest ontwikkelde infrastructuur voor huisdierenoppas in Zuid-Marokko. De grote Europese expatgemeenschap en de internationale hotelbranche zorgen ervoor dat hondenoppassers en uitlaatdiensten bestaan, vooral via de netwerken van de expatgemeenschap. Rover is niet actief in Marokko, persoonlijke aanbevelingen en Facebook-expatgroepen zijn de beste bronnen.",
+      "introIt": "Agadir ha l'infrastruttura di cura degli animali domestici più sviluppata del Marocco meridionale. La grande comunità di espatriati europei e il settore alberghiero internazionale fanno sì che esistano dog sitter e persone che portano a spasso i cani, in particolare tramite le reti della comunità di espatriati. Rover non opera in Marocco; i consigli personali e i gruppi Facebook di espatriati sono le risorse migliori.",
       "faqsDe": [
         {
           "q": "Sind internationale Strandresort-Hotels in Agadir generell hundefreundlich?",
@@ -834,6 +927,16 @@
         {
           "q": "Kan ik mijn hond in de hotelkamer achterlaten in Agadir?",
           "a": "In hondvriendelijke internationale hotels wel, voor beperkte periodes in een reisbench. Vermijd het om honden achter te laten in de kamer tijdens de daghitte, kamers in Agadir zonder airco bereiken 's zomers boven de 35 graden Celsius. Laat de airco altijd aan staan en laat de hond 's zomers nooit langer dan 3 uur alleen in de kamer. Een hondvriendelijke villa met een schaduwrijk buitenterras is de betere oplossing bij langere afwezigheid."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Gli hotel resort internazionali di Agadir sono generalmente dog-friendly?",
+          "a": "Diversi lo sono, in particolare le grandi catene internazionali che applicano le loro politiche globali sugli animali anche in Marocco. Il Sofitel ha la politica sui cani più chiaramente pubblicata (cani piccoli in alcune categorie di camere selezionate). Il Club Med Agadir accetta cani nelle aree esterne del resort. Conferma sempre per iscritto prima di prenotare: gli hotel resort marocchini che accettano cani lo fanno come cortesia verso gli ospiti internazionali, e le politiche possono essere applicate in modo incoerente dal personale."
+        },
+        {
+          "q": "Posso lasciare il mio cane in camera d'albergo ad Agadir?",
+          "a": "Negli hotel internazionali dog-friendly sì, per periodi limitati in un trasportino da viaggio. Evita di lasciare i cani in camera durante il caldo del giorno; d'estate ad Agadir le camere senza aria condizionata superano i 35°C. Tieni sempre l'aria condizionata accesa e non lasciare mai il cane da solo in camera per più di 3 ore in estate. L'affitto di una villa dog-friendly con terrazza esterna ombreggiata è la soluzione migliore per assenze prolungate."
         }
       ]
     }

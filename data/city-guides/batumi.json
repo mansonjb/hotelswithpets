@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Batumi+Boulevard+Restaurant+Georgia",
           "descriptionDe": "Ein klassisches georgisches Restaurant am Uferboulevard von Batumi mit einer großen überdachten Terrasse. Serviert die volle georgische Speisekarte mit adscharischen Spezialitäten: adscharisches Khachapuri (bootsförmig, mit Ei und Butter belegt), Chanakhi-Lammeintopf und lokalen Fisch aus dem Schwarzen Meer. Hunde sitzen durchgehend auf der Terrasse.",
           "descriptionNl": "Een klassiek Georgisch restaurant aan de boulevard van Batumi met een groot overdekt terras. Serveert de volledige Georgische kaart met Adzjaarse specialiteiten: Adzjaars khachapuri (bootvormig, belegd met ei en boter), chanakhi-lamsstoofpot en lokale vis uit de Zwarte Zee. Honden zitten overal op het terras.",
+          "descriptionIt": "Un classico ristorante georgiano sul lungomare di Batumi con un'ampia terrazza coperta. Serve tutto il menù georgiano con le specialità dell'Agiaria: khachapuri adjaruli (a forma di barchetta, con uovo e burro), lo stufato di agnello chanakhi e pesce locale del Mar Nero. I cani stanno ovunque in terrazza.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen",
           "petPolicyNl": "Honden welkom op het terras",
+          "petPolicyIt": "Cani benvenuti in terrazza",
           "mustTryDe": "Adscharisches Khachapuri (die Originalversion mit Ei, einzigartig für diese Region), Chanakhi, Meeräsche aus dem Schwarzen Meer",
           "mustTryNl": "Adzjaars khachapuri (de originele versie met ei, uniek voor deze regio), chanakhi, harder uit de Zwarte Zee",
+          "mustTryIt": "Khachapuri adjaruli (la versione originale con l'uovo, unica di questa regione), chanakhi, cefalo del Mar Nero",
           "tipDe": "Das adscharische Khachapuri in Batumi ist definitiv das beste in Georgien, da Adscharien die Ursprungsregion ist; bestellen Sie eines für zwei Personen, da es sehr sättigend ist",
-          "tipNl": "De Adzjaarse khachapuri in Batumi is echt de beste van Georgië, aangezien Adzjarië de streek van herkomst is; bestel er eentje voor twee personen, want hij is heel vullend"
+          "tipNl": "De Adzjaarse khachapuri in Batumi is echt de beste van Georgië, aangezien Adzjarië de streek van herkomst is; bestel er eentje voor twee personen, want hij is heel vullend",
+          "tipIt": "Lo khachapuri adjaruli a Batumi è senza dubbio il migliore della Georgia, dato che l'Agiaria è la regione d'origine; ordinane uno per due persone, perché è molto abbondante"
         }
       ],
       "tipsEn": [
@@ -112,8 +116,10 @@
       ],
       "titleDe": "Haustierfreundliche Restaurants in Batumi",
       "titleNl": "Huisdiervriendelijke restaurants in Batumi",
+      "titleIt": "Ristoranti pet-friendly a Batumi",
       "introDe": "Die Restaurantszene Batumis ist überwiegend Outdoor und hundefreundlich. Der lange Boulevard am Schwarzen Meer (Batumi Boulevard) ist gesäumt von Open-Air-Cafés und Restaurants, in denen Hunde frei am Tisch sitzen. Das warme subtropische Klima der Stadt bedeutet, dass die Außenterrassen 10 Monate im Jahr genutzt werden.",
       "introNl": "De restaurantscene van Batumi is overwegend buiten en hondvriendelijk. De lange boulevard aan de Zwarte Zee (Batumi Boulevard) is bezaaid met openluchtcafés en restaurants waar honden gewoon bij tafel zitten. Door het warme subtropische klimaat van de stad worden de buitenterrassen 10 maanden per jaar gebruikt.",
+      "introIt": "La scena dei ristoranti di Batumi è in stragrande maggioranza all'aperto e pet-friendly. Il lungo lungomare sul Mar Nero (Batumi Boulevard) è costellato di caffè e ristoranti all'aperto dove i cani stanno tranquillamente a tavola. Il clima subtropicale caldo della città fa sì che le terrazze all'aperto siano in uso 10 mesi all'anno.",
       "faqsDe": [
         {
           "q": "Ist Batumi beim Essen hundefreundlicher als Tiflis oder weniger?",
@@ -132,6 +138,16 @@
         {
           "q": "Kunnen we in Batumi als hondenfamilie zeevruchten eten?",
           "a": "Zeker, en Batumi is de beste plek in Georgië voor vis uit de Zwarte Zee: harder, bluefish, horsmakreel. Alle restaurants aan de boulevard serveren dagelijks verse vangst aan buitentafels. Voor je hond is eenvoudig gekookte vis veilig; houd hem weg bij gefrituurde vis met uiensauzen."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Batumi è più o meno pet-friendly di Tbilisi per quanto riguarda i ristoranti?",
+          "a": "Molto simile, ma con uno stile diverso. Tbilisi ha i ristoranti singoli migliori, con cortili interni deliziosi. Batumi ha una cultura del lungomare più forte, dove i cani accompagnano i loro padroni ai tavoli all'aperto lungo tutta la costa; la lunghezza pura e semplice della zona pet-friendly all'aperto lungo il lungomare di 7 km supera qualunque cosa a Tbilisi."
+        },
+        {
+          "q": "Possiamo mangiare frutti di mare a Batumi con il nostro cane?",
+          "a": "Certamente, e Batumi è il posto migliore in Georgia per il pesce del Mar Nero: cefalo, pesce serra, suro. Tutti i ristoranti del lungomare servono pesce fresco del giorno ai tavoli all'aperto. Per il tuo cane, pesce bollito semplice va bene; tienilo lontano dal pesce fritto con salse a base di cipolla."
         }
       ]
     },
@@ -167,10 +183,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Batumi+Boulevard+Georgia",
           "descriptionDe": "Die berühmte 7 km lange Promenade verläuft entlang der Uferpromenade des Schwarzen Meeres vom alten Hafen bis zur modernen Küste. Jederzeit vollständig für Hunde zugänglich; die Kombination aus Meeresbrise, Palmen, Cafés alle 50 m und dem sanften Rauschen des Schwarzen Meeres macht dies zu einem der großartigsten Hunde-Boulevards der Welt. Hunde laufen frei auf dem gepflasterten Weg.",
           "descriptionNl": "De beroemde 7 km lange promenade loopt langs de kustweg van de Zwarte Zee van de oude haven tot de moderne kustontwikkeling. Op elk moment volledig toegankelijk voor honden; de combinatie van zeebries, palmbomen, cafés om de 50 meter en het zachte geruis van de Zwarte Zee maakt dit een van de mooiste hondenboulevards ter wereld. Honden lopen vrij op het geplaveide pad.",
+          "descriptionIt": "La famosa passeggiata di 7 km corre lungo il lungomare del Mar Nero, dal vecchio porto fino al moderno sviluppo costiero. Completamente accessibile ai cani in ogni momento; la combinazione di brezza marina, palme, caffè ogni 50 metri e il dolce rumore del Mar Nero la rende una delle grandi passeggiate per cani del mondo. I cani corrono liberi sul sentiero pavimentato.",
           "petPolicyDe": "Hunde überall frei, keine Einschränkungen",
           "petPolicyNl": "Honden overal vrij, geen beperkingen",
+          "petPolicyIt": "Cani liberi ovunque, nessuna restrizione",
           "tipDe": "Der Boulevard ist bei Sonnenuntergang am magischsten (20:00-21:30 Uhr im Sommer); die Kombination aus rosafarbenem Licht des Schwarzen Meeres, Palmensilhouetten und georgischer Musik aus den Cafés ist für einen Abendspaziergang atemberaubend",
-          "tipNl": "De boulevard is het mooist bij zonsondergang (20:00-21:30 uur in de zomer); de combinatie van roze licht boven de Zwarte Zee, palmensilhouetten en Georgische muziek uit de cafés is voor een avondwandeling adembenemend"
+          "tipNl": "De boulevard is het mooist bij zonsondergang (20:00-21:30 uur in de zomer); de combinatie van roze licht boven de Zwarte Zee, palmensilhouetten en Georgische muziek uit de cafés is voor een avondwandeling adembenemend",
+          "tipIt": "Il lungomare è al suo meglio al tramonto (20:00-21:30 d'estate); la combinazione della luce rosa sul Mar Nero, le sagome delle palme e la musica georgiana dai caffè è mozzafiato per una passeggiata serale"
         },
         {
           "name": "Batumi Botanical Garden",
@@ -194,10 +213,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Batumi+Botanical+Garden+Georgia",
           "descriptionDe": "Einer der ältesten und umfangreichsten botanischen Gärten im Kaukasus: 111 Hektar auf einer Klippe über dem Schwarzen Meer, mit Sammlungen aus Ostasien, Australien, Neuseeland und den feuchten Subtropen. Hunde gehen an der Leine auf allen Gartenwegen. Die Wege am Klippenrand bieten außergewöhnliche Meerblicke.",
           "descriptionNl": "Een van de oudste en uitgebreidste botanische tuinen van de Kaukasus: 111 hectare op een klif boven de Zwarte Zee, met collecties uit Oost-Azië, Australië, Nieuw-Zeeland en de vochtige subtropen. Honden lopen aangelijnd op alle tuinpaden. De paden langs de klifrand bieden buitengewoon mooi zeezicht.",
+          "descriptionIt": "Uno dei giardini botanici più antichi ed estesi del Caucaso: 111 ettari su una scogliera sopra il Mar Nero, con collezioni provenienti dall'Asia orientale, dall'Australia, dalla Nuova Zelanda e dai subtropici umidi. I cani camminano al guinzaglio su tutti i sentieri del giardino. I sentieri lungo il bordo della scogliera offrono viste sul mare straordinarie.",
           "petPolicyDe": "Hunde an der Leine auf allen Wegen willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op alle paden",
+          "petPolicyIt": "Cani al guinzaglio benvenuti su tutti i sentieri",
           "tipDe": "Nehmen Sie die kleine Bahn (Standseilbahn am Eingang) nach oben und laufen Sie durch die Gartenabschnitte hinunter; der Abstieg zum Niveau des Schwarzen Meeres durch den Bambushain ist eines der großartigen botanischen Erlebnisse des Kaukasus",
-          "tipNl": "Neem het treintje (kabelbaan bij de ingang) naar boven en loop door de tuindelen naar beneden; de afdaling naar het niveau van de Zwarte Zee door het bamboebos is een van de mooie botanische ervaringen van de Kaukasus"
+          "tipNl": "Neem het treintje (kabelbaan bij de ingang) naar boven en loop door de tuindelen naar beneden; de afdaling naar het niveau van de Zwarte Zee door het bamboebos is een van de mooie botanische ervaringen van de Kaukasus",
+          "tipIt": "Prendi il trenino (la funicolare all'ingresso) per salire e scendi a piedi attraverso le sezioni del giardino; la discesa verso il livello del Mar Nero attraverso il boschetto di bambù è una delle grandi esperienze botaniche del Caucaso"
         }
       ],
       "tipsEn": [
@@ -262,8 +284,10 @@
       ],
       "titleDe": "Spaziergänge & Grünflächen in Batumi",
       "titleNl": "Wandelingen en groene ruimtes in Batumi",
+      "titleIt": "Passeggiate e spazi verdi a Batumi",
       "introDe": "Batumi ist eine lange, schmale Stadt entlang der Küste des Schwarzen Meeres. Der 7 km lange Batumi Boulevard ist die wichtigste Hunde-Gassi-Route, gepflastert und parallel zum Strand verlaufend, vom alten Hafen bis zu den neuen Uferbebauungen. Der Botanische Garten von Batumi (10 km nördlich) ist einer der spektakulärsten Gärten im Kaukasus für Hunde.",
       "introNl": "Batumi is een lange, smalle stad langs de kust van de Zwarte Zee. De 7 km lange Batumi Boulevard is de belangrijkste hondenuitlaatroute, geplaveid en parallel aan het strand, van de oude haven tot de nieuwe kustontwikkelingen. De Botanische Tuin van Batumi (10 km noordelijk) is een van de spectaculairste tuinen van de Kaukasus voor honden.",
+      "introIt": "Batumi è una città lunga e stretta lungo la costa del Mar Nero. Il Batumi Boulevard di 7 km è il principale percorso per passeggiare con il cane, pavimentato e parallelo alla spiaggia, dal vecchio porto ai nuovi sviluppi costieri. Il Giardino Botanico di Batumi (10 km a nord) è uno dei giardini più spettacolari del Caucaso per i cani.",
       "faqsDe": [
         {
           "q": "Darf mein Hund an den Strand von Batumi?",
@@ -282,6 +306,16 @@
         {
           "q": "Is het Mtirala Nationaal Park geschikt voor een dagtocht met hond vanuit Batumi?",
           "a": "Heel geschikt. Mtirala is een van de meest unieke regenwoud-ecosystemen van Europa: vochtig subtropisch nevelwoud op 300-1.500 m hoogte. Honden bewegen zich vrij op de gemarkeerde paden. De bosbodem is weelderig, de watervallen zijn indrukwekkend, en honden genieten van de koelere temperaturen op hoogte tijdens hete zomerdagen in Batumi."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio cane può andare sulla spiaggia di Batumi?",
+          "a": "Sì, la spiaggia principale di Batumi (ciottoli, non sabbia) è pubblica e i cani vi si muovono liberamente in ogni momento. Non ci sono divieti stagionali per i cani come in molti paesi UE. La spiaggia si estende per tutti i 7 km del lungomare; scegli un tratto più tranquillo a nord o a sud del centro per un bagno con il tuo cane."
+        },
+        {
+          "q": "Il Parco Nazionale di Mtirala è adatto a una gita di un giorno con il cane da Batumi?",
+          "a": "Molto adatto. Mtirala è uno degli ecosistemi di foresta pluviale più unici d'Europa: foresta nebulosa subtropicale umida a 300-1.500 m di altitudine. I cani si muovono liberamente sui sentieri segnalati. Il sottobosco è rigoglioso, le cascate sono spettacolari, e i cani apprezzano le temperature più fresche in quota durante le calde giornate estive di Batumi."
         }
       ]
     },
@@ -361,8 +395,10 @@
       ],
       "titleDe": "Anreise nach Batumi mit Ihrem Hund",
       "titleNl": "Met je hond naar Batumi reizen",
+      "titleIt": "Arrivare a Batumi con il tuo cane",
       "introDe": "Der internationale Flughafen Batumi (BUS) bietet Direktflüge von mehreren europäischen Städten. Die Fahrt von Tiflis mit dem Auto oder der Marschrutka (Sammeltaxi) dauert 4-5 Stunden über die Hauptstraße. Hunde reisen auf Flügen im Frachtraum; Autos und Taxis sind die praktischste Option für Hundereisen innerhalb Georgiens.",
       "introNl": "De internationale luchthaven van Batumi (BUS) biedt directe vluchten vanuit meerdere Europese steden. De rit vanuit Tbilisi met de auto of marshrutka (verzameltaxi) duurt 4-5 uur via de hoofdweg. Honden reizen op vluchten in het vrachtruim; auto's en taxi's zijn de handigste optie om binnen Georgië met hond te reizen.",
+      "introIt": "L'aeroporto internazionale di Batumi (BUS) offre voli diretti da diverse città europee. Il viaggio da Tbilisi in auto o in marshrutka (minibus condiviso) richiede 4-5 ore lungo la strada principale. I cani viaggiano in stiva sui voli; auto e taxi sono l'opzione più pratica per viaggiare con il cane all'interno della Georgia.",
       "faqsDe": [
         {
           "q": "Können wir mit unserem Hund von der Türkei nach Batumi fahren?",
@@ -381,6 +417,16 @@
         {
           "q": "Is er een directe trein van Tbilisi naar Batumi die honden accepteert?",
           "a": "Ja, de nachttrein rijdt dagelijks. Honden worden naar goeddunken van de conducteur geaccepteerd in een gesloten coupé. Het meest betrouwbaar is een volledige 4-persoonscoupé voor je groep te boeken; zo heb je een gesloten privéruimte, en de conducteurs zijn over het algemeen inschikkelijk als er geen andere reizigers aanwezig zijn."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Possiamo guidare fino a Batumi dalla Turchia con il nostro cane?",
+          "a": "Sì, il valico di Sarpi (20 km a sud di Batumi sulla costa del Mar Nero) è un importante valico stradale aperto giorno e notte. I cani in viaggio dalla Turchia hanno bisogno, oltre al certificato sanitario turco, anche del certificato sanitario georgiano; portali entrambi con te. Il passaggio di frontiera dura in genere 30-60 minuti."
+        },
+        {
+          "q": "C'è un treno diretto da Tbilisi a Batumi che accetta cani?",
+          "a": "Sì, il treno notturno parte ogni giorno. I cani sono accettati a discrezione del capotreno in uno scompartimento chiuso. La soluzione più affidabile è prenotare un intero scompartimento da 4 persone per il tuo gruppo: così hai uno spazio privato chiuso, e i capotreno sono generalmente flessibili quando non ci sono altri passeggeri."
         }
       ]
     },
@@ -456,8 +502,10 @@
       ],
       "titleDe": "Strände & Baden bei Batumi",
       "titleNl": "Stranden en zwemmen bij Batumi",
+      "titleIt": "Spiagge e bagni vicino a Batumi",
       "introDe": "Die Schwarzmeerküste bei Batumi ist warm (22-26°C im Juli-August) mit sanften Wellen und Kieselstränden. Anders als in der EU verhängt Georgien keine saisonalen Hundeverbote an Stränden; Hunde haben ganzjährig Zugang zum gesamten 7 km langen Strand von Batumi und den ruhigeren Stränden nördlich der Stadt.",
       "introNl": "De kust van de Zwarte Zee bij Batumi is warm (22-26°C in juli-augustus) met zachte golven en kiezelstranden. Anders dan in de EU kent Georgië geen seizoensgebonden hondenverboden op stranden; honden hebben het hele jaar door toegang tot het volledige 7 km lange strand van Batumi en de rustigere stranden ten noorden van de stad.",
+      "introIt": "La costa del Mar Nero a Batumi è calda (22-26°C a luglio-agosto) con onde leggere e spiagge di ciottoli. A differenza dell'UE, la Georgia non impone divieti stagionali per i cani sulle spiagge; i cani hanno accesso tutto l'anno all'intera spiaggia di Batumi lunga 7 km e alle spiagge più tranquille a nord della città.",
       "faqsDe": [
         {
           "q": "Ist das Schwarze Meer sicher zum Baden für Hunde?",
@@ -476,6 +524,16 @@
         {
           "q": "Zijn er hondvrije zones op het strand van Batumi?",
           "a": "Er zijn geen formele hondvrije zones. Het strand van Batumi is het hele jaar door volledig open voor honden. Gebruik tijdens de drukste bezoekersuren (10:00-18:00 uur in juli-augustus) gewoon je gezonde verstand door naar een minder druk stuk te gaan; de noordelijke delen van het boulevardstrand zijn doorgaans minder druk."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il Mar Nero è sicuro per far nuotare i cani?",
+          "a": "Sì, il Mar Nero a Batumi è caldo, ha una bassa salinità (un terzo di quella dell'Oceano Atlantico) e correnti dolci. La spiaggia di ciottoli permette ai cani di entrare e uscire facilmente dall'acqua. In condizioni normali a Batumi non ci sono pericoli di meduse."
+        },
+        {
+          "q": "Ci sono zone vietate ai cani sulla spiaggia di Batumi?",
+          "a": "Non esistono zone vietate ai cani in modo formale. La spiaggia di Batumi è completamente aperta ai cani tutto l'anno. Nelle ore di maggiore affluenza (10:00-18:00 in luglio-agosto) usa semplicemente il buon senso spostandoti verso un tratto meno affollato; le zone settentrionali della spiaggia del lungomare sono di solito meno frequentate."
         }
       ]
     },
@@ -551,8 +609,10 @@
       ],
       "titleDe": "Tierärzte & Notfallversorgung in Batumi",
       "titleNl": "Dierenartsen en spoedzorg in Batumi",
+      "titleIt": "Veterinari e cure d'emergenza a Batumi",
       "introDe": "Batumi verfügt über mehrere Tierarztpraxen im Stadtzentrum und den umliegenden Bezirken. Notfallversorgung ist verfügbar, aber für komplexe Fälle können die besser ausgestatteten Tierkliniken in Tiflis (4-5 Stunden entfernt) notwendig sein. Fragen Sie Ihr Hotel oder Ihre Pension nach dem nächstgelegenen empfohlenen Tierarzt.",
       "introNl": "Batumi heeft meerdere dierenartspraktijken in het centrum en de omliggende wijken. Spoedzorg is beschikbaar, maar voor complexe gevallen kunnen de beter uitgeruste dierenklinieken in Tbilisi (4-5 uur verderop) nodig zijn. Vraag je hotel of pension naar de dichtstbijzijnde aanbevolen dierenarts.",
+      "introIt": "Batumi ha diversi studi veterinari nel centro città e nei quartieri circostanti. Le cure d'emergenza sono disponibili, ma per i casi complessi potrebbero essere necessari gli ospedali veterinari meglio attrezzati di Tbilisi (a 4-5 ore di distanza). Chiedi al tuo hotel o alla tua pensione il veterinario consigliato più vicino.",
       "faqsDe": [
         {
           "q": "Ist Leishmaniose ein Risiko für meinen Hund in Batumi?",
@@ -571,6 +631,16 @@
         {
           "q": "Kan ik het EU-terugkeergezondheidscertificaat in Batumi laten afgeven?",
           "a": "Een door Georgië erkende dierenarts kan het wederuitvoercertificaat afgeven voor de terugkeer van je hond naar de EU. Vraag bij de staatsveterinaire dienst (LEPL) in Batumi naar een lijst van erkende praktijken; dit is nodig voor herintreding in de EU binnen 10 dagen na vertrek."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "La leishmaniosi è un rischio per il mio cane a Batumi?",
+          "a": "La costa dell'Agiaria si trova nell'area di diffusione dei flebotomi Phlebotomus, che possono trasmettere la leishmaniosi. Il rischio è più basso rispetto all'Europa mediterranea, ma non è nullo nei mesi estivi. Se vieni da Spagna, Italia, Portogallo o altre zone UE endemiche e il tuo cane non fa un trattamento preventivo, consulta il veterinario prima di partire."
+        },
+        {
+          "q": "Posso far rilasciare a Batumi il certificato sanitario di rientro UE?",
+          "a": "Un veterinario riconosciuto dalla Georgia può rilasciare il certificato di riesportazione per il rientro del tuo cane nell'UE. Chiedi al servizio veterinario statale (LEPL) di Batumi un elenco di studi riconosciuti; è necessario per il rientro nell'UE entro 10 giorni dalla partenza."
         }
       ]
     },
@@ -637,8 +707,10 @@
       ],
       "titleDe": "Reisetipps für Hunde in Batumi & an der Küste von Adscharien",
       "titleNl": "Reistips voor honden in Batumi en aan de kust van Adzjarië",
+      "titleIt": "Consigli di viaggio per cani a Batumi e sulla costa dell'Agiaria",
       "introDe": "Batumi ist Georgiens führender Badeort und hat den ausgeprägtesten Outdoor-Lifestyle aller georgischen Städte. Hunde fügen sich nahtlos in diese Kultur ein: Boulevard-Promenaden, Uferschanken und Strandzugang sind alle standardmäßig hundefreundlich. Das subtropische Klima bedeutet ganzjährige Wärme, aber starker Regen ist jederzeit möglich.",
       "introNl": "Batumi is Georgiës toonaangevende badplaats en heeft de meest uitgesproken buitenlevensstijl van alle Georgische steden. Honden passen naadloos in deze cultuur: boulevardwandelingen, tenten aan het water en strandtoegang zijn standaard hondvriendelijk. Het subtropische klimaat betekent warmte het hele jaar door, maar zware regen kan altijd voorkomen.",
+      "introIt": "Batumi è la principale città balneare della Georgia e ha lo stile di vita più orientato all'aperto tra tutte le città georgiane. I cani si integrano perfettamente in questa cultura: passeggiate sul lungomare, caffè in riva al mare e accesso alla spiaggia sono di norma pet-friendly. Il clima subtropicale garantisce caldo tutto l'anno, ma può sempre arrivare pioggia intensa.",
       "faqsDe": [
         {
           "q": "Ist Batumi eine gute Basis für einen Hunde-Roadtrip durch Georgien?",
@@ -657,6 +729,16 @@
         {
           "q": "Kunnen we in november nog met onze hond in zee zwemmen?",
           "a": "De Zwarte Zee bij Batumi heeft in november nog ongeveer 18°C; afgeharde honden zullen zwemmen. De luchttemperatuur ligt rond 12-15°C. Dit is eigenlijk een mooie tijd voor een strandtocht met hond: de drukte is weg, het licht is prachtig, en de cafés aan de boulevard zijn rustig en verwelkomen honden met meer persoonlijke aandacht van het personeel."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Batumi è una buona base per un viaggio on the road con il cane in Georgia?",
+          "a": "Ottima. Batumi offre bagni nel Mar Nero, la foresta subtropicale di Mtirala e un valico verso la Turchia, tutto entro 35 km. Il tragitto verso nord fino a Tbilisi (4-5 ore) attraversa la pianura della Colchide e costeggia la valle del fiume Rioni. I road trip combinati Batumi-Kutaisi-Tbilisi-Kazbegi (che coprono tutta la Georgia in 7-10 giorni) stanno diventando sempre più popolari tra i viaggiatori europei con cani al seguito."
+        },
+        {
+          "q": "Possiamo ancora nuotare in mare con il nostro cane a novembre?",
+          "a": "Il Mar Nero a Batumi a novembre è ancora intorno ai 18°C; i cani abituati nuoteranno volentieri. La temperatura dell'aria è intorno ai 12-15°C. In realtà è un bel periodo per una gita in spiaggia con il cane: la folla è sparita, la luce è splendida, e i caffè del lungomare sono tranquilli e accolgono i cani con più attenzione personale dal personale."
         }
       ]
     },
@@ -732,8 +814,10 @@
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Batumi",
       "titleNl": "Huisdiervriendelijke bezienswaardigheden in Batumi",
+      "titleIt": "Attrazioni pet-friendly a Batumi",
       "introDe": "Batumi vereint das Unerwartete: Jugendstilfassaden im europäischen Stil, sowjetischen Küstenbrutalismus, moderne Glastürme und subtropische Palmenboulevards. Die meisten der interessantesten Sehenswürdigkeiten der Stadt sind im Freien und vollständig für Hunde zugänglich. Die Altstadt mit ihren Gebäuden aus dem 19. Jahrhundert ist ein kompaktes Fußgängergebiet, in dem Hunde überall willkommen sind.",
       "introNl": "Batumi combineert het onverwachte: art-nouveaugevels in Europese stijl, Sovjet-kustbrutalisme, moderne glazen torens en subtropische palmboulevards. De meeste interessante bezienswaardigheden van de stad zijn buiten en volledig toegankelijk voor honden. De oude stad met haar 19e-eeuwse gebouwen is een compact voetgangersgebied waar honden overal welkom zijn.",
+      "introIt": "Batumi combina l'inaspettato: facciate art nouveau in stile europeo, brutalismo costiero sovietico, torri moderne in vetro e viali subtropicali con le palme. La maggior parte delle attrazioni più interessanti della città è all'aperto e completamente accessibile ai cani. La città vecchia con i suoi edifici del XIX secolo è una zona pedonale compatta dove i cani sono benvenuti ovunque.",
       "faqsDe": [
         {
           "q": "Ist die Seilbahn von Batumi hundefreundlich?",
@@ -752,6 +836,16 @@
         {
           "q": "Kunnen we de Botanische Tuin van Batumi bezoeken met een grote hond?",
           "a": "Ja, de Botanische Tuin (10 km noordelijk) heeft brede geplaveide paden en accepteert overal aangelijnde honden. De enige beperking is het treintje in de tuin (honden alleen in draagtas). Een grote hond loopt de volledige 111 hectare aangelijnd naast het baasje; de tuin is schilderachtig en in 2-3 uur goed te doen te voet."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "La funivia di Batumi è pet-friendly?",
+          "a": "La funivia di Batumi (dalla strada costiera alla collina di Anuria, 260 m di altitudine) offre una vista sul mare splendida. I cani in un trasportino sono generalmente accettati. Per i cani grandi, la collina è raggiungibile anche con una breve camminata dalla città vecchia; il parco in cima è completamente pet-friendly."
+        },
+        {
+          "q": "Possiamo visitare il Giardino Botanico di Batumi con un cane grande?",
+          "a": "Sì, il Giardino Botanico (10 km a nord) ha ampi sentieri pavimentati e accetta cani al guinzaglio ovunque. L'unica limitazione è il trenino del giardino (cani solo in trasportino). Un cane grande può percorrere tutti gli 111 ettari al guinzaglio accanto al padrone; il giardino è pittoresco e si visita bene a piedi in 2-3 ore."
         }
       ]
     },
@@ -827,8 +921,10 @@
       ],
       "titleDe": "Hundebetreuung in Batumi",
       "titleNl": "Hondenoppas in Batumi",
+      "titleIt": "Dog sitting a Batumi",
       "introDe": "Batumi hat eine kleinere Expat-Community als Tiflis, aber die Facebook-Gruppen 'Batumi Expats' und 'Living in Batumi' sind aktiv und nützlich, um englischsprachige Haustierbetreuung zu finden. Georgische Pensionen in der Nähe des Botanischen Gartens haben oft Gärten, und die Besitzer passen während Tagesausflügen ganz natürlich auf Hunde auf.",
       "introNl": "Batumi heeft een kleinere expatgemeenschap dan Tbilisi, maar de Facebookgroepen 'Batumi Expats' en 'Living in Batumi' zijn actief en handig om Engelstalige huisdieroppas te vinden. Georgische pensions bij de Botanische Tuin hebben vaak tuinen, en de eigenaren passen tijdens dagtochten heel vanzelfsprekend op honden.",
+      "introIt": "Batumi ha una comunità di expat più piccola rispetto a Tbilisi, ma i gruppi Facebook 'Batumi Expats' e 'Living in Batumi' sono attivi e utili per trovare petsitter che parlano inglese. Le pensioni georgiane vicino al Giardino Botanico hanno spesso giardini, e i proprietari badano naturalmente ai cani durante le gite di un giorno.",
       "faqsDe": [
         {
           "q": "Ist Rover in Batumi verfügbar?",
@@ -847,6 +943,16 @@
         {
           "q": "Kunnen we onze hond in ons pension achterlaten terwijl we wandelen in Mtirala?",
           "a": "Heel waarschijnlijk wel. De Georgische pensiongastvrijheid strekt zich vanzelfsprekend uit tot de honden van gasten; de meeste gastheren passen tijdens een dagwandeling in de tuin op je hond. Bevestig dit bij aankomst met je gastheer en laat voer, water en het vertrouwde mandje of dekentje van je hond achter."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Rover è disponibile a Batumi?",
+          "a": "Rover non è attivo in Georgia. Le alternative locali e i gruppi Facebook della comunità sono le fonti più affidabili per il pet sitting a Batumi."
+        },
+        {
+          "q": "Possiamo lasciare il nostro cane nella nostra pensione mentre facciamo trekking a Mtirala?",
+          "a": "Molto probabilmente sì. L'ospitalità georgiana delle pensioni si estende naturalmente ai cani degli ospiti; la maggior parte dei padroni di casa sorveglia volentieri il tuo cane in giardino durante un'escursione di un giorno. Conferma questo al tuo arrivo con il padrone di casa e lascia cibo, acqua e la cesta o coperta abituale del tuo cane."
         }
       ]
     }

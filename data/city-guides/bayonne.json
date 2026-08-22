@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Influences+restaurant+Bayonne",
           "descriptionDe": "Ein gastronomisches Bistro mit 24 Plätzen von Faustine und Quentin in einem historischen Stadthaus der Vieille Boucherie, das rohfrische zeitgenössische Küche und ein tägliches Degustationsmenü rund um lokale baskische Produkte serviert. Hunde sind auf der Terrasse ausdrücklich willkommen, und das Team stellt bei Ankunft einen Wassernapf bereit.",
           "descriptionNl": "Een gastronomisch bistrootje met 24 zitplaatsen van Faustine en Quentin in een historisch pand in de Vieille Boucherie, met rauwe frisse hedendaagse keuken en een dagelijks proefmenu rond lokale Baskische producten. Honden zijn nadrukkelijk welkom op het terras, en het team zet bij aankomst meteen een waterbakje neer.",
+          "descriptionIt": "Un bistrot gastronomico da 24 coperti di Faustine e Quentin, in un edificio storico della Vieille Boucherie, con cucina contemporanea a base di crudo fresco e un menu degustazione giornaliero costruito sui prodotti baschi locali. I cani sono esplicitamente benvenuti in terrazza, e il team ti porta subito una ciotola d'acqua all'arrivo.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen; Wassernapf wird bereitgestellt",
           "petPolicyNl": "Aangelijnde honden welkom op het terras; waterbakje wordt aangeboden",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza; ciotola d'acqua offerta",
           "mustTryDe": "Degustationsmenü, rohmarinierte baskische Vorspeisen, Ossau-Iraty-Käsegang",
           "mustTryNl": "Proefmenu, rauw gemarineerde Baskische voorgerechten, Ossau-Iraty-kaasgang",
+          "mustTryIt": "Menu degustazione, antipasti baschi marinati crudi, portata di formaggio Ossau-Iraty",
           "tipDe": "Die Terrasse hat nur wenige Tische, buchen Sie im Sommer mindestens drei Tage im Voraus und geben Sie an, dass Sie mit Hund kommen, damit das Team einen Eckplatz reserviert.",
-          "tipNl": "Het terras heeft maar een paar tafels, reserveer 's zomers minstens drie dagen van tevoren en geef aan dat je met hond komt, zodat het team een hoekplekje voor je reserveert."
+          "tipNl": "Het terras heeft maar een paar tafels, reserveer 's zomers minstens drie dagen van tevoren en geef aan dat je met hond komt, zodat het team een hoekplekje voor je reserveert.",
+          "tipIt": "La terrazza ha solo poche tavole, prenota almeno tre giorni prima in estate e segnala che arrivi con il cane, così il team ti tiene un tavolo d'angolo."
         },
         {
           "name": "Le Bayonnais",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Le+Bayonnais+restaurant+Bayonne",
           "descriptionDe": "Ein traditionelles gastronomisches Restaurant im Herzen von Petit Bayonne am Nive-Kai, direkt neben dem Musée Basque, geführt von Nathalie und Christophe Pascal. Die Uferterrasse blickt direkt auf die Arkaden von Vieux Bayonne; die Küche konzentriert sich auf Fisch von der baskischen Küste und bretonischen Hummer.",
           "descriptionNl": "Een traditioneel gastronomisch restaurant in het hart van Petit Bayonne aan de kade van de Nive, direct naast het Musée Basque, geleid door Nathalie en Christophe Pascal. Het terras aan het water kijkt recht uit op de arcades van Vieux Bayonne; de keuken focust op vis van de Baskische kust en Bretonse kreeft.",
+          "descriptionIt": "Un ristorante gastronomico tradizionale nel cuore di Petit Bayonne, sulla banchina della Nive, proprio accanto al Musée Basque, gestito da Nathalie e Christophe Pascal. La terrazza sull'acqua guarda dritto verso i portici di Vieux Bayonne; la cucina punta sul pesce della costa basca e sull'astice bretone.",
           "petPolicyDe": "Ruhige, angeleinte Hunde auf der Uferterrasse willkommen",
           "petPolicyNl": "Rustige, aangelijnde honden welkom op het terras aan het water",
+          "petPolicyIt": "Cani tranquilli e al guinzaglio benvenuti in terrazza sull'acqua",
           "mustTryDe": "Frischer lokaler Tagesfisch, bretonischer Hummer, baskischer Käsekuchen",
           "mustTryNl": "Verse lokale vis van de dag, Bretonse kreeft, Baskische kaastaart",
+          "mustTryIt": "Pesce locale fresco del giorno, astice bretone, torta di formaggio basca",
           "tipDe": "Die Terrasse am Nive-Kai fängt auf der Seite von Vieux Bayonne die Morgensonne ein und liegt ab 19:00 Uhr im Abendschatten; bitten Sie beim Mittagessen mit Hund im Sommer um einen Tisch am wallseitigen Ende.",
-          "tipNl": "Het terras aan de kade van de Nive vangt aan de kant van Vieux Bayonne de ochtendzon en ligt vanaf 19:00 uur in de avondschaduw; vraag bij de lunch in de zomer met hond om een tafel aan de kant van de wallen."
+          "tipNl": "Het terras aan de kade van de Nive vangt aan de kant van Vieux Bayonne de ochtendzon en ligt vanaf 19:00 uur in de avondschaduw; vraag bij de lunch in de zomer met hond om een tafel aan de kant van de wallen.",
+          "tipIt": "La terrazza sulla banchina della Nive prende il sole del mattino dal lato di Vieux Bayonne e finisce in ombra dalle 19:00; a pranzo in estate, se hai il cane, chiedi un tavolo dal lato dei bastioni."
         },
         {
           "name": "Restaurant Le Loreak",
@@ -110,20 +118,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Le+Loreak+restaurant+Bayonne",
           "descriptionDe": "Eine baskische Brasserie am Quai Augustin Chaho mit Blick auf die Nive und die Uferpromenade von Petit Bayonne, im französischen Verzeichnis animauxadmis ausdrücklich als hundeakzeptierend gelistet. Die Speisekarte wechselt je nach lokalen Marktprodukten, mit Axoa de veau, Piperade und dem Tagesfisch.",
           "descriptionNl": "Een Baskische brasserie aan de Quai Augustin Chaho met uitzicht op de Nive en de boulevard van Petit Bayonne, expliciet vermeld als hondvriendelijk in het Franse register animauxadmis. De kaart wisselt mee met lokale marktproducten, met axoa de veau, piperade en de vis van de dag.",
+          "descriptionIt": "Una brasserie basca sul Quai Augustin Chaho con vista sulla Nive e sul lungofiume di Petit Bayonne, segnalata esplicitamente come pet-friendly nel registro francese animauxadmis. Il menu cambia con i prodotti del mercato locale, con axoa de veau, piperade e il pesce del giorno.",
           "petPolicyDe": "Hunde drinnen und auf der Terrasse akzeptiert, laut Eintrag im französischen Verzeichnis für hundefreundliche Adressen",
           "petPolicyNl": "Honden geaccepteerd binnen en op het terras, volgens vermelding in het Franse register voor hondvriendelijke adressen",
+          "petPolicyIt": "Cani accettati dentro e in terrazza, secondo la segnalazione nel registro francese degli indirizzi pet-friendly",
           "mustTryDe": "Axoa de veau, Piperade, Marktfisch des Tages",
           "mustTryNl": "Axoa de veau, piperade, marktvis van de dag",
+          "mustTryIt": "Axoa de veau, piperade, pesce di mercato del giorno",
           "tipDe": "Der Quai Augustin Chaho ist autofrei und von Platanen beschattet, ideal für ein langes Mittagessen im Freien mit Hund, während der Halles-de-Bayonne-Markt auf der anderen Flussseite ausklingt.",
-          "tipNl": "De Quai Augustin Chaho is autovrij en beschaduwd door platanen, ideaal voor een lange lunch buiten met je hond, terwijl de markt van de Halles de Bayonne aan de overkant uitloopt."
+          "tipNl": "De Quai Augustin Chaho is autovrij en beschaduwd door platanen, ideaal voor een lange lunch buiten met je hond, terwijl de markt van de Halles de Bayonne aan de overkant uitloopt.",
+          "tipIt": "Il Quai Augustin Chaho è pedonale e ombreggiato dai platani, perfetto per un pranzo lungo all'aperto con il cane, mentre il mercato delle Halles de Bayonne sull'altra riva va avanti."
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Bayonne",
       "titleNl": "Huisdiervriendelijke restaurants in Bayonne",
+      "titleIt": "Ristoranti pet-friendly a Bayonne",
       "introDe": "Bayonne, die Hauptstadt des französischen Baskenlandes, liegt am Zusammenfluss von Nive und Adour und hat seine Identität auf Bayonne-Schinken, Cazenave-Schokolade und eine tief verwurzelte, gesellige Kultur der Pintxos und des Txikiteo aufgebaut. Diese Geselligkeit gilt auch für Hunde auf den Uferterrassen von Petit Bayonne und in den Kopfsteinpflastergassen von Grand Bayonne, wo ruhige, angeleinte Hunde regelmäßig auf der Terrasse willkommen sind und ohne Nachfrage Wassernäpfe erscheinen. Der Zugang zu Innenräumen ist unterschiedlicher und hängt vom Lokal ab, aber die unten genannten Adressen heißen Hunde ausdrücklich willkommen.",
       "introNl": "Bayonne, de hoofdstad van het Franse Baskenland, ligt op de samenvloeiing van de Nive en de Adour en heeft zijn identiteit gebouwd op Bayonne-ham, Cazenave-chocolade en een diepgewortelde, gezellige cultuur van pintxos en txikiteo. Die gezelligheid geldt ook voor honden op de terrassen aan het water in Petit Bayonne en in de geplaveide steegjes van Grand Bayonne, waar rustige, aangelijnde honden vaak welkom zijn op het terras en waterbakjes ongevraagd verschijnen. Toegang tot binnenruimtes verschilt meer en hangt af van de zaak, maar de hieronder genoemde adressen heten honden nadrukkelijk welkom.",
+      "introIt": "Bayonne, capitale dei Paesi Baschi francesi, sorge alla confluenza tra la Nive e l'Adour e ha costruito la sua identità sul prosciutto di Bayonne, sul cioccolato Cazenave e su una cultura conviviale e radicata di pintxos e txikiteo. Questa convivialità vale anche per i cani sui terrazzi affacciati sull'acqua di Petit Bayonne e nei vicoli acciottolati di Grand Bayonne, dove i cani tranquilli e al guinzaglio sono spesso benvenuti in terrazza e le ciotole d'acqua arrivano senza nemmeno chiederle. L'accesso agli spazi interni varia di più e dipende dal locale, ma gli indirizzi elencati qui sotto accolgono i cani a braccia aperte.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Pet-Friendly Parks in Bayonne",
@@ -157,10 +172,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parc+de+Mousserolles+Bayonne",
           "descriptionDe": "Ein 8 Hektar großer städtischer Park östlich des historischen Zentrums, die größte offene Grünfläche innerhalb von Bayonne, mit alten Platanen, Rasenflächen, einem Fitnessparcours und einem Spielplatz. Angeleinte Hunde sind ganzjährig auf den Wegen und Rasenflächen willkommen, und das sanfte Gefälle macht ihn zu einem angenehmen Alltagsspaziergang.",
           "descriptionNl": "Een 8 hectare groot stadspark ten oosten van het historische centrum, de grootste open groene ruimte binnen Bayonne, met oude platanen, grasvelden, een fitnessparcours en een speeltuin. Aangelijnde honden zijn het hele jaar door welkom op de paden en grasvelden, en het zachte reliëf maakt het een aangename dagelijkse wandeling.",
+          "descriptionIt": "Un parco cittadino di 8 ettari a est del centro storico, il più grande spazio verde aperto di Bayonne, con vecchi platani, prati, un percorso fitness e un parco giochi. I cani al guinzaglio sono benvenuti tutto l'anno su sentieri e prati, e il dislivello dolce lo rende una bella passeggiata quotidiana.",
           "petPolicyDe": "Angeleinte Hunde ganzjährig auf Wegen und Rasenflächen willkommen",
           "petPolicyNl": "Aangelijnde honden het hele jaar welkom op paden en grasvelden",
+          "petPolicyIt": "Cani al guinzaglio benvenuti tutto l'anno su sentieri e prati",
           "tipDe": "Der Zugang zum Park über die Avenue de Mousserolles bietet kostenlose Straßenparkplätze; die südliche Hälfte ist an Sommernachmittagen schattiger, und der Fitnessparcours folgt einem Bach, in den Hunde waten können.",
-          "tipNl": "Toegang tot het park via de Avenue de Mousserolles biedt gratis straatparkeren; de zuidelijke helft is schaduwrijker op zomermiddagen, en het fitnessparcours volgt een beekje waar honden in kunnen waden."
+          "tipNl": "Toegang tot het park via de Avenue de Mousserolles biedt gratis straatparkeren; de zuidelijke helft is schaduwrijker op zomermiddagen, en het fitnessparcours volgt een beekje waar honden in kunnen waden.",
+          "tipIt": "L'accesso al parco dall'Avenue de Mousserolles offre parcheggio gratuito in strada; la metà sud è più ombreggiata nei pomeriggi estivi, e il percorso fitness segue un ruscello dove i cani possono sguazzare."
         },
         {
           "name": "Promenade des Remparts Vauban",
@@ -184,10 +202,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Remparts+de+Bayonne",
           "descriptionDe": "Eine 2,5 km lange Runde oben auf den 1680 begonnenen Vauban-Befestigungsanlagen, bepflanzt mit Rasen und Bäumen, mit Blick auf den Adour, die Nive und die Dächer der Altstadt. Kostenlos, rund um die Uhr geöffnet, angeleinte Hunde auf den Grasbastionen willkommen.",
           "descriptionNl": "Een 2,5 km lange rondwandeling boven op de Vauban-vestingwerken, begonnen in 1680, beplant met gras en bomen, met uitzicht op de Adour, de Nive en de daken van de oude stad. Gratis, dag en nacht open, aangelijnde honden welkom op de grasbastions.",
+          "descriptionIt": "Un percorso ad anello di 2,5 km sopra le fortificazioni Vauban, iniziate nel 1680, piantumato a prato e alberi, con vista sull'Adour, sulla Nive e sui tetti della città vecchia. Gratuito, aperto giorno e notte, cani al guinzaglio benvenuti sui bastioni erbosi.",
           "petPolicyDe": "Angeleinte Hunde auf den Wallwegen und Grasbastionen willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op de wallenpaden en grasbastions",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sui sentieri delle mura e sui bastioni erbosi",
           "tipDe": "Beginnen Sie an der Porte d'Espagne, um die Runde im Uhrzeigersinn zu gehen; die westliche Hälfte blickt auf den Adour und bietet das beste Sonnenuntergangslicht auf den Turmspitzen der Kathedrale.",
-          "tipNl": "Begin bij de Porte d'Espagne om de rondwandeling met de klok mee te lopen; de westelijke helft kijkt uit op de Adour en biedt het mooiste zonsondergangslicht op de torenspitsen van de kathedraal."
+          "tipNl": "Begin bij de Porte d'Espagne om de rondwandeling met de klok mee te lopen; de westelijke helft kijkt uit op de Adour en biedt het mooiste zonsondergangslicht op de torenspitsen van de kathedraal.",
+          "tipIt": "Inizia dalla Porte d'Espagne per percorrere l'anello in senso orario; la metà ovest guarda sull'Adour e regala la luce di tramonto più bella sulle guglie della cattedrale."
         },
         {
           "name": "Plaine d'Ansot (Réserve naturelle de la Barthe)",
@@ -211,18 +232,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Plaine+d+Ansot+Bayonne",
           "descriptionDe": "Ein geschütztes Feuchtgebiet am Ufer der Nive südöstlich des Zentrums, durchzogen von Holzstegen und Kieswegen durch Schilfgebiete, Wassermatten und Weideland. Angeleinte Hunde sind auf den öffentlichen Wegen willkommen; das Besucherzentrum Maison des Barthes am Eingang ist für Haustiere gesperrt.",
           "descriptionNl": "Een beschermd waterrijk gebied aan de oever van de Nive ten zuidoosten van het centrum, doorkruist door houten vlonderpaden en grindpaden door rietvelden, waterweides en weiland. Aangelijnde honden zijn welkom op de openbare paden; het bezoekerscentrum Maison des Barthes bij de ingang is gesloten voor huisdieren.",
+          "descriptionIt": "Una zona umida protetta sulla riva della Nive a sud-est del centro, attraversata da passerelle di legno e sentieri di ghiaia tra canneti, prati umidi e pascoli. I cani al guinzaglio sono benvenuti sui sentieri pubblici; il centro visitatori Maison des Barthes all'ingresso è chiuso agli animali.",
           "petPolicyDe": "Angeleinte Hunde auf öffentlichen Wegen und Stegen willkommen; Besucherzentrum tabu",
           "petPolicyNl": "Aangelijnde honden welkom op openbare paden en vlonders; bezoekerscentrum verboden terrein",
+          "petPolicyIt": "Cani al guinzaglio benvenuti su sentieri pubblici e passerelle; centro visitatori vietato",
           "tipDe": "Frühling und Herbst sind die besten Zeiten, das Feuchtgebiet ist voller Reiher und Stelzenläufer und der Weg bleibt kühl; an Sommernachmittagen kann es mückenreich und schutzlos sein.",
-          "tipNl": "Lente en herfst zijn de beste periodes, het waterrijke gebied zit vol reigers en steltlopers en het pad blijft koel; op zomermiddagen kan het muggenrijk zijn en zonder schaduw."
+          "tipNl": "Lente en herfst zijn de beste periodes, het waterrijke gebied zit vol reigers en steltlopers en het pad blijft koel; op zomermiddagen kan het muggenrijk zijn en zonder schaduw.",
+          "tipIt": "Primavera e autunno sono i periodi migliori, la zona umida è piena di aironi e trampolieri e il sentiero resta fresco; nei pomeriggi estivi può essere pieno di zanzare e senza ombra."
         }
       ],
       "titleDe": "Haustierfreundliche Parks in Bayonne",
       "titleNl": "Huisdiervriendelijke parken in Bayonne",
+      "titleIt": "Parchi pet-friendly a Bayonne",
       "introDe": "Bayonne wird eng von seinen Vauban-Wällen und den beiden Flüssen umschlossen, sodass sich die Grünflächen auf einen großen öffentlichen Park, die 2,5 km lange Runde oben auf den Wällen und ein Feuchtgebietsreservat entlang des Flusses verteilen. In den meisten städtischen Parks müssen Hunde ganzjährig angeleint sein, und der Flussuferweg Richtung Saint-Pierre-d'Irube und Cambo-les-Bains bietet den längsten Spaziergang abseits des Kopfsteinpflasters in der Stadt.",
       "introNl": "Bayonne wordt strak omsloten door zijn Vauban-wallen en de twee rivieren, waardoor de groene ruimtes verdeeld zijn over één groot openbaar park, de 2,5 km lange rondwandeling boven op de wallen en een waterrijk natuurreservaat langs de rivier. In de meeste stadsparken moeten honden het hele jaar aangelijnd zijn, en het pad langs de rivier richting Saint-Pierre-d'Irube en Cambo-les-Bains biedt de langste wandeling weg van de kasseien in de stad.",
+      "introIt": "Bayonne è stretta tra i suoi bastioni Vauban e i due fiumi, quindi gli spazi verdi si dividono tra un grande parco pubblico, il percorso di 2,5 km sopra le mura e una riserva naturale umida lungo il fiume. Nella maggior parte dei parchi cittadini i cani devono stare al guinzaglio tutto l'anno, e il sentiero lungo il fiume verso Saint-Pierre-d'Irube e Cambo-les-Bains offre la passeggiata più lunga lontano dal selciato della città.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Pet-Friendly Transport in Bayonne",
@@ -256,10 +283,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Chronoplus+Bayonne",
           "descriptionDe": "Das städtische Busnetz des Ballungsraums Bayonne-Anglet-Biarritz, unter der Marke Chronoplus und mittlerweile unter dem Syndicat des Mobilités Pays Basque Adour Txik Txak. Die veröffentlichte Regel an Bord ist eindeutig: Tiere sind nicht an Bord erlaubt, mit Ausnahme von Blindenhunden und kleinen Haustieren in geschlossenen Transportboxen.",
           "descriptionNl": "Het stedelijke busnetwerk van de agglomeratie Bayonne-Anglet-Biarritz, onder het merk Chronoplus en inmiddels onder het Syndicat des Mobilités Pays Basque Adour Txik Txak. De gepubliceerde regel aan boord is duidelijk: dieren zijn niet toegestaan aan boord, met uitzondering van geleidehonden en kleine huisdieren in een gesloten draagtas.",
+          "descriptionIt": "La rete di autobus urbani dell'agglomerato di Bayonne-Anglet-Biarritz, con il marchio Chronoplus e ormai gestita dal Syndicat des Mobilités Pays Basque Adour Txik Txak. La regola pubblicata a bordo è chiara: gli animali non sono ammessi a bordo, tranne i cani guida e i piccoli animali in un trasportino chiuso.",
           "petPolicyDe": "Nur zertifizierte Assistenzhunde und kleine Haustiere in geschlossenen Transportboxen; mittelgroße und große Hunde werden abgewiesen",
           "petPolicyNl": "Alleen gecertificeerde assistentiehonden en kleine huisdieren in gesloten draagtas; middelgrote en grote honden worden geweigerd",
+          "petPolicyIt": "Solo cani guida certificati e piccoli animali in trasportino chiuso; i cani medi e grandi vengono rifiutati",
           "tipDe": "Bayonne nach Biarritz sind 8 km, und nur die Linie T1 deckt die direkte Verbindung ab; mit mittelgroßen bis großen Hunden zahlen Sie ein Taxi ab Halles für 12 EUR oder nehmen die SNCF TER, die 10 Minuten dauert und alle Hunde akzeptiert.",
-          "tipNl": "Bayonne naar Biarritz is 8 km, en alleen lijn T1 dekt de directe verbinding; met een middelgrote tot grote hond betaal je een taxi vanaf Halles voor 12 euro of neem je de SNCF TER, die 10 minuten duurt en alle honden accepteert."
+          "tipNl": "Bayonne naar Biarritz is 8 km, en alleen lijn T1 dekt de directe verbinding; met een middelgrote tot grote hond betaal je een taxi vanaf Halles voor 12 euro of neem je de SNCF TER, die 10 minuten duurt en alle honden accepteert.",
+          "tipIt": "Da Bayonne a Biarritz sono 8 km, e solo la linea T1 copre il collegamento diretto; con un cane medio-grande conviene un taxi da Halles per 12 euro oppure il treno SNCF TER, che impiega 10 minuti e accetta tutti i cani."
         },
         {
           "name": "TER Nouvelle-Aquitaine (Gare de Bayonne)",
@@ -283,10 +313,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Gare+de+Bayonne",
           "descriptionDe": "Der Bahnhof Gare de Bayonne ist der zentrale Bahnhof der französischen Baskenküste, bedient von SNCF-TER-Zügen entlang der Achse Bordeaux-Hendaye mit häufigen Direktverbindungen nach Biarritz, Saint-Jean-de-Luz und Hendaye. Die SNCF-Richtlinie lässt Hunde jeder Größe zu: kleine Hunde unter 6 kg in geschlossener Tasche reisen kostenlos, größere Hunde reisen an der Leine mit Maulkorb und einem ermäßigten Halbpreisticket.",
           "descriptionNl": "Station Gare de Bayonne is het centrale station van de Franse Baskische kust, bediend door SNCF-TER-treinen langs de as Bordeaux-Hendaye met frequente directe verbindingen naar Biarritz, Saint-Jean-de-Luz en Hendaye. Het SNCF-beleid staat honden van elke grootte toe: kleine honden onder de 6 kg in een gesloten tas reizen gratis mee, grotere honden reizen aangelijnd met muilkorf en een gereduceerd kaartje tegen half tarief.",
+          "descriptionIt": "La Gare de Bayonne è la stazione centrale della costa basca francese, servita dai treni SNCF TER sull'asse Bordeaux-Hendaye con frequenti collegamenti diretti verso Biarritz, Saint-Jean-de-Luz e Hendaye. La politica SNCF ammette cani di ogni taglia: i cani piccoli sotto i 6 kg in borsa chiusa viaggiano gratis, i cani più grandi viaggiano al guinzaglio con museruola e un biglietto ridotto a metà prezzo.",
           "petPolicyDe": "Kleine Hunde in geschlossener Tasche kostenlos; größere Hunde an der Leine + Maulkorb + Halbpreisticket",
           "petPolicyNl": "Kleine honden in gesloten tas gratis; grotere honden aangelijnd + muilkorf + kaartje halve prijs",
+          "petPolicyIt": "Cani piccoli in borsa chiusa gratis; cani più grandi al guinzaglio + museruola + biglietto a metà prezzo",
           "tipDe": "Die TER Bayonne nach Saint-Jean-de-Luz fährt 18 Minuten und ist der schnellste hundefreundliche Weg zu den außersaisonalen Hundestränden von Hendaye, deutlich günstiger als die Kombination aus Chronoplus und Taxi.",
-          "tipNl": "De TER van Bayonne naar Saint-Jean-de-Luz duurt 18 minuten en is de snelste hondvriendelijke manier naar de hondenstranden van Hendaye buiten het seizoen, aanzienlijk goedkoper dan de combinatie van Chronoplus en taxi."
+          "tipNl": "De TER van Bayonne naar Saint-Jean-de-Luz duurt 18 minuten en is de snelste hondvriendelijke manier naar de hondenstranden van Hendaye buiten het seizoen, aanzienlijk goedkoper dan de combinatie van Chronoplus en taxi.",
+          "tipIt": "Il TER da Bayonne a Saint-Jean-de-Luz impiega 18 minuti ed è il modo pet-friendly più veloce per raggiungere le spiagge per cani di Hendaye fuori stagione, decisamente più economico della combinazione Chronoplus più taxi."
         },
         {
           "name": "Walking the Vieux Bayonne and Petit Bayonne",
@@ -310,18 +343,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Vieux+Bayonne",
           "descriptionDe": "Die Altstadt zwischen der Kathedrale und der Nive misst nur etwa 700 Meter von West nach Ost, und fast der gesamte Kern ist Fußgängerzone. Zu Fuß gehen ist die praktische Standardoption: Ein einziger Hundespaziergang verbindet die Halles, den Kathedralenkreuzgang, die Flussbrücken und die Vauban-Wälle, ohne dass ein Bus nötig ist.",
           "descriptionNl": "De oude stad tussen de kathedraal en de Nive meet maar zo'n 700 meter van west naar oost, en bijna het hele centrum is voetgangersgebied. Lopen is de praktische standaardoptie: één enkele hondenwandeling verbindt de Halles, de kloostergang van de kathedraal, de rivierbruggen en de Vauban-wallen, zonder dat een bus nodig is.",
+          "descriptionIt": "La città vecchia tra la cattedrale e la Nive misura solo circa 700 metri da ovest a est, e quasi tutto il centro è pedonale. Camminare è l'opzione pratica di default: una singola passeggiata col cane collega le Halles, il chiostro della cattedrale, i ponti sul fiume e i bastioni Vauban, senza bisogno di autobus.",
           "petPolicyDe": "Öffentliche Straßen und Brücken 24 Stunden für angeleinte Hunde geöffnet",
           "petPolicyNl": "Openbare straten en bruggen 24 uur per dag open voor aangelijnde honden",
+          "petPolicyIt": "Strade e ponti pubblici aperti 24 ore su 24 ai cani al guinzaglio",
           "tipDe": "Das Kopfsteinpflaster der Rue Port-Neuf wird nach einem Bayonne-Regenschauer extrem rutschig; führen Sie Hunde mit Geschirr statt Halsband und leinen Sie sie an steileren Abschnitten rund um die Kathedrale kurz an.",
-          "tipNl": "De kasseien van de Rue Port-Neuf worden na een regenbui in Bayonne extreem glad; loop met honden aan een tuigje in plaats van een halsband en houd ze op de steilere stukken rond de kathedraal even kort aangelijnd."
+          "tipNl": "De kasseien van de Rue Port-Neuf worden na een regenbui in Bayonne extreem glad; loop met honden aan een tuigje in plaats van een halsband en houd ze op de steilere stukken rond de kathedraal even kort aangelijnd.",
+          "tipIt": "Il selciato della Rue Port-Neuf diventa estremamente scivoloso dopo un acquazzone a Bayonne; porta i cani con l'imbracatura invece del collare e tienili più corti nei tratti più ripidi vicino alla cattedrale."
         }
       ],
       "titleDe": "Haustierfreundlicher Transport in Bayonne",
       "titleNl": "Huisdiervriendelijk vervoer in Bayonne",
+      "titleIt": "Trasporti pet-friendly a Bayonne",
       "introDe": "Bayonne ist der Bahn- und Busknotenpunkt der französischen Baskenküste, und der Stadtkern ist winzig. Die Busse von Chronoplus / Txik Txak sind bei Haustieren streng, die SNCF-TER-Züge sind für Hunde jeder Größe offen, und Vieux Bayonne lässt sich in zwölf Minuten zu Fuß durchqueren, was den Fußweg zur Standardwahl für Hundebesitzer macht.",
       "introNl": "Bayonne is het trein- en busknooppunt van de Franse Baskische kust, en de binnenstad is piepklein. De bussen van Chronoplus/Txik Txak zijn streng voor huisdieren, de SNCF-TER-treinen staan open voor honden van elke grootte, en Vieux Bayonne is in twaalf minuten te voet te doorkruisen, wat lopen de standaardkeuze maakt voor hondenbaasjes.",
+      "introIt": "Bayonne è lo snodo ferroviario e degli autobus della costa basca francese, e il centro è minuscolo. Gli autobus Chronoplus/Txik Txak sono severi con gli animali, i treni SNCF TER accettano cani di qualsiasi taglia, e Vieux Bayonne si attraversa a piedi in dodici minuti, il che rende camminare la scelta di default per chi ha un cane.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Pet-Friendly Beaches near Bayonne",
@@ -355,10 +394,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Plage+Chambre+d+Amour+Anglet",
           "descriptionDe": "Der Vorzeigestrand von Anglet am südlichen Ende der 4 km überwachten Küste, benannt nach der romantischen Legende zweier ertrunkener Liebender in der felsigen Bucht. Hunde sind vom 15. Juni bis 15. September am Sand und in der überwachten Badezone verboten; außerhalb dieser Zeiten sind angeleinte Hunde jederzeit willkommen, und der breite Strand bei Ebbe gibt ihnen viel Platz zum Laufen.",
           "descriptionNl": "Het uithangbord-strand van Anglet aan het zuidelijke uiteinde van de 4 km bewaakte kust, vernoemd naar de romantische legende van twee verdronken geliefden in de rotsachtige baai. Honden zijn verboden op het zand en in de bewaakte zwemzone van 15 juni tot 15 september; buiten die periode zijn aangelijnde honden altijd welkom, en het brede strand bij eb geeft ze veel ruimte om te lopen.",
+          "descriptionIt": "La spiaggia simbolo di Anglet, all'estremità sud dei 4 km di costa sorvegliata, che prende il nome dalla leggenda romantica di due innamorati annegati nella baia rocciosa. I cani sono vietati sulla sabbia e nella zona di balneazione sorvegliata dal 15 giugno al 15 settembre; fuori da quel periodo i cani al guinzaglio sono sempre benvenuti, e la spiaggia ampia con la bassa marea offre molto spazio per camminare.",
           "petPolicyDe": "Verboten 15. Juni-15. September am Sand und in der Badezone; angeleinte Hunde außerhalb dieser Zeit willkommen",
           "petPolicyNl": "Verboden 15 juni-15 september op het zand en in de zwemzone; aangelijnde honden welkom buiten die periode",
+          "petPolicyIt": "Vietati dal 15 giugno al 15 settembre sulla sabbia e nella zona di balneazione; cani al guinzaglio benvenuti fuori da quel periodo",
           "tipDe": "Die Atlantikbrandung an der Chambre d'Amour ist kräftig, und die Strömungen bei Ebbe sind real; auch außerhalb der Saison Hunde an der Leine nahe der Brandungszone halten und die felsige Bucht am Südende bei auflaufender Flut meiden.",
-          "tipNl": "De Atlantische branding bij de Chambre d'Amour is krachtig, en de stromingen bij eb zijn reëel; houd ook buiten het seizoen honden aangelijnd dicht bij de branding en vermijd de rotsachtige baai aan het zuidelijke uiteinde bij opkomend tij."
+          "tipNl": "De Atlantische branding bij de Chambre d'Amour is krachtig, en de stromingen bij eb zijn reëel; houd ook buiten het seizoen honden aangelijnd dicht bij de branding en vermijd de rotsachtige baai aan het zuidelijke uiteinde bij opkomend tij.",
+          "tipIt": "Il moto ondoso atlantico alla Chambre d'Amour è potente, e le correnti di risacca sono reali; anche fuori stagione tieni i cani al guinzaglio vicino alla battigia ed evita la baia rocciosa all'estremità sud con la marea in salita."
         },
         {
           "name": "Plage des Cavaliers (Anglet)",
@@ -382,10 +424,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Plage+des+Cavaliers+Anglet",
           "descriptionDe": "Ein langer Surfstrand am nördlichen Ende der Küste von Anglet, vorgelagert von Dünen und dem Chiberta-Wald, beliebt bei Longboardern und den Surfschulen von Anglet. Es gilt dieselbe kommunale Regel von Anglet: Hunde vom 15. Juni bis 15. September am Sand verboten, angeleinte Hunde außerhalb der Saison jederzeit willkommen.",
           "descriptionNl": "Een lang surfstrand aan het noordelijke uiteinde van de kust van Anglet, met duinen en het bos van Chiberta ervoor, populair bij longboarders en de surfscholen van Anglet. Dezelfde gemeentelijke regel van Anglet geldt: honden verboden op het zand van 15 juni tot 15 september, aangelijnde honden buiten het seizoen altijd welkom.",
+          "descriptionIt": "Una lunga spiaggia da surf all'estremità nord della costa di Anglet, con dune e alle spalle il bosco di Chiberta, popolare tra i longboarder e le scuole di surf di Anglet. Vale la stessa regola comunale di Anglet: cani vietati sulla sabbia dal 15 giugno al 15 settembre, cani al guinzaglio sempre benvenuti fuori stagione.",
           "petPolicyDe": "Verboten 15. Juni-15. September am Sand; angeleinte Hunde außerhalb dieser Zeit willkommen",
           "petPolicyNl": "Verboden 15 juni-15 september op het zand; aangelijnde honden welkom buiten die periode",
+          "petPolicyIt": "Vietati dal 15 giugno al 15 settembre sulla sabbia; cani al guinzaglio benvenuti fuori da quel periodo",
           "tipDe": "Der Dünenweg hinter der Plage des Cavaliers führt zum Kiefernwald Chiberta, ein Favorit außerhalb der Saison; achten Sie aber von Januar bis April auf Prozessionsspinner-Raupen an den Kiefern, sie sind giftig, wenn sie abgeleckt werden.",
-          "tipNl": "Het duinpad achter de Plage des Cavaliers leidt naar het dennenbos van Chiberta, een favoriet buiten het seizoen; let van januari tot april wel op processierupsen in de dennen, die giftig zijn als ze worden afgelikt."
+          "tipNl": "Het duinpad achter de Plage des Cavaliers leidt naar het dennenbos van Chiberta, een favoriet buiten het seizoen; let van januari tot april wel op processierupsen in de dennen, die giftig zijn als ze worden afgelikt.",
+          "tipIt": "Il sentiero tra le dune dietro la Plage des Cavaliers porta alla pineta di Chiberta, un preferito fuori stagione; da gennaio ad aprile fai attenzione alle processionarie sui pini, tossiche se leccate."
         },
         {
           "name": "Plage des Deux Jumeaux (Hendaye)",
@@ -409,18 +454,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Plage+des+Deux+Jumeaux+Hendaye",
           "descriptionDe": "Ein geschützter Sandabschnitt am südlichen Ende des Strandes von Hendaye unterhalb der beiden Felsnadeln der Deux Jumeaux, die einzige mitten im Sommer hundetolerante Zone der französischen Baskenküste. Hendaye weist hier ganzjährig einen eigenen angeleinten Hundebereich aus, auch während der Überwachungssaison, wenn der zentrale Strand Haustiere verbietet.",
           "descriptionNl": "Een beschut zandgedeelte aan het zuidelijke uiteinde van het strand van Hendaye onder de twee rotspieken van de Deux Jumeaux, de enige zone aan de Franse Baskische kust die midden in de zomer hondvriendelijk is. Hendaye wijst hier het hele jaar door een eigen aangelijnd hondengedeelte aan, ook tijdens het bewaakte seizoen, wanneer het centrale strand huisdieren verbiedt.",
+          "descriptionIt": "Un tratto di sabbia riparato all'estremità sud della spiaggia di Hendaye, sotto i due speroni rocciosi dei Deux Jumeaux, l'unica zona della costa basca francese pet-friendly in pieno agosto. Hendaye riserva qui tutto l'anno una propria zona per cani al guinzaglio, anche durante la stagione sorvegliata, quando la spiaggia centrale vieta gli animali.",
           "petPolicyDe": "Ganzjährig eigene Zone für angeleinte Hunde, auch im Juli-August",
           "petPolicyNl": "Het hele jaar door eigen zone voor aangelijnde honden, ook in juli-augustus",
+          "petPolicyIt": "Zona propria per cani al guinzaglio tutto l'anno, anche a luglio-agosto",
           "tipDe": "30 km südlich von Bayonne ist der einfachste hundefreundliche Sommerausflug die SNCF TER von Bayonne nach Hendaye (35 Minuten); der Bahnhof liegt 600 m vom Strand entfernt, und Hunde reisen zum Halbpreisticket.",
-          "tipNl": "30 km ten zuiden van Bayonne is de makkelijkste hondvriendelijke zomertocht de SNCF TER van Bayonne naar Hendaye (35 minuten); het station ligt 600 m van het strand, en honden reizen tegen half tarief."
+          "tipNl": "30 km ten zuiden van Bayonne is de makkelijkste hondvriendelijke zomertocht de SNCF TER van Bayonne naar Hendaye (35 minuten); het station ligt 600 m van het strand, en honden reizen tegen half tarief.",
+          "tipIt": "A 30 km a sud di Bayonne, la gita estiva pet-friendly più semplice è il TER SNCF da Bayonne a Hendaye (35 minuti); la stazione dista 600 m dalla spiaggia, e i cani viaggiano a metà prezzo."
         }
       ],
       "titleDe": "Haustierfreundliche Strände bei Bayonne",
       "titleNl": "Huisdiervriendelijke stranden bij Bayonne",
+      "titleIt": "Spiagge pet-friendly vicino a Bayonne",
       "introDe": "Bayonne selbst liegt 5 km landeinwärts an der Adour-Mündung, sodass der nächste Sandstrand in der Nachbargemeinde Anglet liegt. Die baskische Küste verhängt ein striktes Sommerverbot für Hunde vom 15. Juni bis 15. September an allen überwachten Stränden; Bayonner Hundebesitzer fahren dann südlich der Bidassoa zum Plage des Deux Jumeaux in Hendaye, oder warten die Rückkehr im Herbst ab, wenn der gesamte 4 km lange Sandstrand von Anglet wieder für angeleinte Hunde öffnet.",
       "introNl": "Bayonne zelf ligt 5 km landinwaarts bij de monding van de Adour, dus het dichtstbijzijnde zandstrand ligt in de buurgemeente Anglet. De Baskische kust kent een strikt zomerverbod voor honden van 15 juni tot 15 september op alle bewaakte stranden; hondenbaasjes uit Bayonne rijden dan naar het zuiden van de Bidassoa naar de Plage des Deux Jumeaux in Hendaye, of wachten tot de herfst, wanneer het volledige 4 km lange zandstrand van Anglet weer opengaat voor aangelijnde honden.",
+      "introIt": "Bayonne stessa si trova a 5 km nell'entroterra rispetto alla foce dell'Adour, quindi la spiaggia di sabbia più vicina è nel comune confinante di Anglet. La costa basca applica un divieto estivo rigido per i cani dal 15 giugno al 15 settembre su tutte le spiagge sorvegliate; chi ha un cane a Bayonne allora va a sud della Bidasoa, alla Plage des Deux Jumeaux a Hendaye, oppure aspetta l'autunno, quando l'intera spiaggia di 4 km di Anglet riapre ai cani al guinzaglio.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Pet-Friendly Vets in Bayonne",
@@ -455,10 +506,13 @@
           "phone": "+33 5 59 25 05 96",
           "descriptionDe": "Eine allgemeinmedizinische Klinik in der Rue Marengo im Herzen von Petit Bayonne, die einzige Tierarztpraxis physisch innerhalb der mittelalterlichen Altstadt. Die Klinik übernimmt Routineuntersuchungen, Impfungen, Heimtierausweise und kleinere Operationen und leitet nächtliche Notfälle an die UVCB-Kooperative weiter.",
           "descriptionNl": "Een algemene dierenkliniek aan de Rue Marengo in het hart van Petit Bayonne, de enige dierenartspraktijk fysiek binnen de middeleeuwse oude stad. De kliniek doet routineonderzoeken, vaccinaties, huisdierenpaspoorten en kleinere operaties, en verwijst nachtelijke spoedgevallen door naar de UVCB-coöperatie.",
+          "descriptionIt": "Una clinica veterinaria generale in Rue Marengo, nel cuore di Petit Bayonne, l'unico studio veterinario fisicamente dentro la città vecchia medievale. La clinica esegue visite di routine, vaccinazioni, passaporti per animali e piccoli interventi, e indirizza le emergenze notturne alla cooperativa UVCB.",
           "petPolicyDe": "Hunde, Katzen und exotische Tiere; Terminvereinbarung telefonisch +33 5 59 25 05 96",
           "petPolicyNl": "Honden, katten en exotische dieren; afspraak maken via telefoon +33 5 59 25 05 96",
+          "petPolicyIt": "Cani, gatti e animali esotici; prenota per telefono al +33 5 59 25 05 96",
           "tipDe": "Die Adresse 18 Rue Marengo liegt in einer Einbahnstraße mit Kopfsteinpflaster; setzen Sie Ihr Haustier an der Tür ab und parken Sie dann auf dem Parkplatz Place Paul Bert, 100 m östlich, dem einzigen öffentlichen Parkplatz in Petit Bayonne.",
-          "tipNl": "Het adres 18 Rue Marengo ligt in een eenrichtingsstraatje met kasseien; zet je huisdier af bij de deur en parkeer daarna op de parkeerplaats Place Paul Bert, 100 m oostelijk, de enige openbare parkeerplaats in Petit Bayonne."
+          "tipNl": "Het adres 18 Rue Marengo ligt in een eenrichtingsstraatje met kasseien; zet je huisdier af bij de deur en parkeer daarna op de parkeerplaats Place Paul Bert, 100 m oostelijk, de enige openbare parkeerplaats in Petit Bayonne.",
+          "tipIt": "L'indirizzo 18 Rue Marengo si trova in una viuzza a senso unico e acciottolata; lascia il tuo animale davanti alla porta e poi parcheggia in Place Paul Bert, 100 m a est, l'unico parcheggio pubblico di Petit Bayonne."
         },
         {
           "name": "Clinique Vétérinaire BIO'VET Bayonne",
@@ -483,10 +537,13 @@
           "phone": "+33 5 59 03 70 67",
           "descriptionDe": "Teil der BIO'VET-Kooperative, die die Achse Bayonne-Saint Martin de Seignanx-Saint-Paul-lès-Dax abdeckt, mit Tagesklinik in Bayonne und gemeinsamen Nacht- und Wochenendnotfällen, die an die Intensivstation in Saint-Paul-lès-Dax weitergeleitet werden. Rufen Sie außerhalb der Öffnungszeiten die Nummer in Bayonne an, der Anruf wird automatisch an den diensthabenden Tierarzt weitergeleitet.",
           "descriptionNl": "Onderdeel van de BIO'VET-coöperatie, die de as Bayonne-Saint Martin de Seignanx-Saint-Paul-lès-Dax bestrijkt, met een dagkliniek in Bayonne en gedeelde nacht- en weekendspoedhulp die wordt doorverwezen naar de intensive care in Saint-Paul-lès-Dax. Bel buiten de openingstijden het nummer in Bayonne, het gesprek wordt automatisch doorgeschakeld naar de dienstdoende dierenarts.",
+          "descriptionIt": "Fa parte della cooperativa BIO'VET, che copre l'asse Bayonne-Saint Martin de Seignanx-Saint-Paul-lès-Dax, con una clinica diurna a Bayonne e un pronto soccorso notturno/weekend condiviso, indirizzato verso la terapia intensiva di Saint-Paul-lès-Dax. Fuori orario chiama il numero di Bayonne, la chiamata viene girata automaticamente al veterinario di turno.",
           "petPolicyDe": "Hunde und Katzen nach Terminvereinbarung; nächtliche Notfälle automatisch an den UVCB-Bereitschaftsdienst weitergeleitet",
           "petPolicyNl": "Honden en katten op afspraak; nachtelijke spoedgevallen automatisch doorgeschakeld naar de UVCB-wachtdienst",
+          "petPolicyIt": "Cani e gatti su appuntamento; le emergenze notturne vengono girate automaticamente al servizio di guardia UVCB",
           "tipDe": "Speichern Sie die BIO'VET-Bayonne-Nummer sofort bei Ankunft in Ihrem Telefon; die Weiterleitung außerhalb der Öffnungszeiten läuft über Saint-Paul-lès-Dax, 35 km nördlich; die Fahrzeit spielt bei einem echten Notfall eine Rolle.",
-          "tipNl": "Sla het BIO'VET-Bayonne-nummer direct bij aankomst op in je telefoon; de doorverwijzing buiten openingstijden loopt via Saint-Paul-lès-Dax, 35 km noordelijk; de rijtijd speelt een rol bij een echt spoedgeval."
+          "tipNl": "Sla het BIO'VET-Bayonne-nummer direct bij aankomst op in je telefoon; de doorverwijzing buiten openingstijden loopt via Saint-Paul-lès-Dax, 35 km noordelijk; de rijtijd speelt een rol bij een echt spoedgeval.",
+          "tipIt": "Salva subito il numero di BIO'VET Bayonne nel telefono al tuo arrivo; fuori orario lo smistamento passa per Saint-Paul-lès-Dax, 35 km a nord; il tempo di guida conta in una vera emergenza."
         },
         {
           "name": "UVCB - Urgences Vétérinaires Côte Basque",
@@ -511,18 +568,24 @@
           "phone": "+33 5 59 85 98 50",
           "descriptionDe": "Der gemeinsame Notfallplan für Nächte und Feiertage der Tierarztpraxen von Bayonne-Anglet-Biarritz, erreichbar unter +33 5 59 85 98 50. Der diensthabende Tierarzt führt zunächst eine telefonische Ersteinschätzung durch, kann Sie an die nächstgelegene geöffnete Praxis verweisen und übernimmt bei Bedarf vollständige Hospitalisierung, Operationen und Intensivpflege.",
           "descriptionNl": "Het gedeelde nacht- en feestdagenspoedplan van de dierenartspraktijken van Bayonne-Anglet-Biarritz, te bereiken via +33 5 59 85 98 50. De dienstdoende dierenarts doet eerst een telefonische inschatting, kan je doorverwijzen naar de dichtstbijzijnde open praktijk, en neemt indien nodig volledige opname, chirurgie en intensieve zorg voor zijn rekening.",
+          "descriptionIt": "Il piano di reperibilità notturna e festiva condiviso tra gli studi veterinari di Bayonne-Anglet-Biarritz, raggiungibile al +33 5 59 85 98 50. Il veterinario di turno fa prima una valutazione telefonica, può indirizzarti allo studio aperto più vicino, e se serve si occupa di ricovero completo, chirurgia e terapia intensiva.",
           "petPolicyDe": "Nächtliche und Feiertagsnotfälle für Hunde, Katzen und Kleinsäuger; zuerst anrufen",
           "petPolicyNl": "Nachtelijke en feestdagenspoedgevallen voor honden, katten en kleine zoogdieren; eerst bellen",
+          "petPolicyIt": "Emergenze notturne e festive per cani, gatti e piccoli mammiferi; chiama prima di andare",
           "tipDe": "Übliche nächtliche Notfallgebühren in Frankreich liegen bei etwa 80 EUR für die erste Konsultation zuzüglich Behandlungskosten; fragen Sie die UVCB telefonisch nach einem Kostenvoranschlag, bevor Sie hinfahren, um Überraschungen zu vermeiden.",
-          "tipNl": "Gangbare nachtelijke spoedtarieven in Frankrijk liggen rond 80 euro voor het eerste consult plus behandelkosten; vraag telefonisch bij UVCB een kostenraming voordat je gaat, om verrassingen te vermijden."
+          "tipNl": "Gangbare nachtelijke spoedtarieven in Frankrijk liggen rond 80 euro voor het eerste consult plus behandelkosten; vraag telefonisch bij UVCB een kostenraming voordat je gaat, om verrassingen te vermijden.",
+          "tipIt": "Le tariffe standard per le emergenze notturne in Francia si aggirano sugli 80 euro per la prima visita più i costi di trattamento; chiedi per telefono all'UVCB una stima dei costi prima di andare, per evitare sorprese."
         }
       ],
       "titleDe": "Haustierfreundliche Tierärzte in Bayonne",
       "titleNl": "Huisdiervriendelijke dierenartsen in Bayonne",
+      "titleIt": "Veterinari pet-friendly a Bayonne",
       "introDe": "Bayonne und der umliegende Ballungsraum Côte Basque verfügen über mehrere Tagespraxen und einen einzigen gemeinsamen Nachtdienst-Notfallplan, organisiert von der UVCB-Urgences Vétérinaires Côte Basque. Die beiden unten genannten Praxen decken Tagestermine im historischen Zentrum sowie den Nacht-/Wochenend-Relaisdienst ab, und die Notfall-Hotline leitet nächtliche Anrufe an den diensthabenden Tierarzt weiter.",
       "introNl": "Bayonne en de omliggende agglomeratie Côte Basque hebben meerdere dagpraktijken en één gezamenlijk nachtdienstspoedplan, georganiseerd door de UVCB, Urgences Vétérinaires Côte Basque. De twee hieronder genoemde praktijken dekken dagafspraken in het historische centrum en de nacht-/weekenddienst, en de spoedlijn schakelt nachtelijke oproepen door naar de dienstdoende dierenarts.",
+      "introIt": "Bayonne e l'agglomerato circostante della Côte Basque hanno diversi studi diurni e un piano di reperibilità notturna condiviso, organizzato dall'UVCB, Urgences Vétérinaires Côte Basque. I due studi elencati qui sotto coprono gli appuntamenti diurni nel centro storico e il turno notturno/weekend, e la linea d'emergenza smista le chiamate notturne al veterinario di turno.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Bayonne Pet Travel Tips",
@@ -555,18 +618,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bayonne+France",
           "descriptionDe": "Das französische nationale Recht setzt die Grundlage in Bayonne: Jeder Hund muss in der Öffentlichkeit eine Leine von maximal 1,5 m tragen, Hunde der Kategorie 1 (Angriffstyp) und 2 (Wachtyp) benötigen die Genehmigung des Rathauses, eine Haftpflichtversicherung und einen Maulkorb. Hundekot im öffentlichen Raum wird mit einer kommunalen Geldstrafe geahndet, und die Stadt stellt kostenlose Beutelspender an den Wallwegen und rund um die Halles auf.",
           "descriptionNl": "De Franse nationale wet vormt de basis in Bayonne: elke hond moet in het openbaar aangelijnd zijn met een lijn van maximaal 1,5 m, honden van categorie 1 (aanvalstype) en 2 (bewakingstype) hebben toestemming van het gemeentehuis, een aansprakelijkheidsverzekering en een muilkorf nodig. Hondenpoep in de openbare ruimte wordt bestraft met een gemeentelijke boete, en de stad plaatst gratis zakjesdispensers langs de wallenpaden en rond de Halles.",
+          "descriptionIt": "La legge nazionale francese è la base a Bayonne: ogni cane deve stare al guinzaglio in pubblico, massimo 1,5 m, i cani di categoria 1 (tipo attacco) e 2 (tipo guardia) hanno bisogno di un permesso del comune, di un'assicurazione di responsabilità civile e della museruola. I bisogni del cane nello spazio pubblico sono puniti con una multa comunale, e la città mette a disposizione dispenser gratuiti di sacchetti lungo i sentieri delle mura e intorno alle Halles.",
           "petPolicyDe": "Leine max. 1,5 m in der Öffentlichkeit; Hunde der Kategorie 1/2 benötigen Genehmigung + Maulkorb; Bußgeld für Kot 35 EUR",
           "petPolicyNl": "Lijn max. 1,5 m in het openbaar; honden categorie 1/2 hebben toestemming + muilkorf nodig; boete voor poep 35 euro",
+          "petPolicyIt": "Guinzaglio max 1,5 m in pubblico; i cani di categoria 1/2 hanno bisogno di permesso + museruola; multa per i bisogni 35 euro",
           "tipDe": "Bewahren Sie den EU-Heimtierausweis als Scan auf Ihrem Telefon auf; die französische Polizei kontrolliert gelegentlich am Bahnhof Gare de Bayonne an Sommerwochenenden und am Grenzübergang Hendaye-Irun, falls Sie weiter nach Spanien reisen.",
-          "tipNl": "Bewaar het EU-huisdierenpaspoort als scan op je telefoon; de Franse politie controleert af en toe bij station Gare de Bayonne op zomerweekends en bij de grensovergang Hendaye-Irun, als je verder naar Spanje reist."
+          "tipNl": "Bewaar het EU-huisdierenpaspoort als scan op je telefoon; de Franse politie controleert af en toe bij station Gare de Bayonne op zomerweekends en bij de grensovergang Hendaye-Irun, als je verder naar Spanje reist.",
+          "tipIt": "Tieni una scansione del passaporto UE per animali sul telefono; la polizia francese controlla ogni tanto alla Gare de Bayonne nei weekend estivi e al confine Hendaye-Irun, se prosegui verso la Spagna."
         }
       ],
       "titleDe": "Reisetipps für Haustiere in Bayonne",
       "titleNl": "Reistips voor huisdieren in Bayonne",
+      "titleIt": "Consigli di viaggio con animali a Bayonne",
       "introDe": "In Bayonne gilt das französische nationale Tierrecht plus einige stadtspezifische Besonderheiten: die Vauban-Wälle, die Uferkais und die Place des Basques sind die einfachsten Hundespaziergänge, die Terrasse des Halles-Marktes heißt Hunde willkommen, die Markthalle selbst jedoch nicht, und die gesamte Côte-Basque-Küste verbietet Hunde vom 15. Juni bis 15. September an überwachten Stränden.",
       "introNl": "In Bayonne geldt de Franse nationale dierenwetgeving plus enkele stadsspecifieke bijzonderheden: de Vauban-wallen, de kades en de Place des Basques zijn de makkelijkste hondenwandelingen, het terras van de Halles-markt heet honden welkom, de markthal zelf niet, en de hele Côte Basque-kust verbiedt honden van 15 juni tot 15 september op bewaakte stranden.",
+      "introIt": "A Bayonne valgono la normativa nazionale francese sugli animali più alcune particolarità cittadine: i bastioni Vauban, le banchine e la Place des Basques sono le passeggiate col cane più semplici, la terrazza del mercato delle Halles accoglie i cani, il mercato coperto in sé no, e tutta la costa della Côte Basque vieta i cani dal 15 giugno al 15 settembre sulle spiagge sorvegliate.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Bayonne",
@@ -600,10 +669,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cathedrale+Sainte+Marie+Bayonne",
           "descriptionDe": "Die gotische Kathedrale, 1998 als Teil der Jakobswege in Frankreich zum UNESCO-Weltkulturerbe erklärt, dominiert mit ihren beiden Türmen die Silhouette der Altstadt. Das Kirchenschiff ist als Gotteshaus für Hunde gesperrt, aber der elegante Kreuzgang aus dem 14. Jahrhundert und der umliegende Vorplatz sind mit angeleintem Hund vollständig zugänglich und kostenlos.",
           "descriptionNl": "De gotische kathedraal, in 1998 tot UNESCO-werelderfgoed uitgeroepen als onderdeel van de Jakobswegen in Frankrijk, domineert met zijn twee torens de skyline van de oude stad. Het kerkschip is als godshuis gesloten voor honden, maar de elegante 14e-eeuwse kloostergang en het omliggende voorplein zijn volledig toegankelijk met een aangelijnde hond, en gratis.",
+          "descriptionIt": "La cattedrale gotica, dichiarata patrimonio UNESCO nel 1998 come parte dei Cammini di Santiago in Francia, domina con le sue due torri lo skyline della città vecchia. La navata è chiusa ai cani in quanto luogo di culto, ma l'elegante chiostro del XIV secolo e il sagrato circostante sono completamente accessibili con un cane al guinzaglio, e gratuiti.",
           "petPolicyDe": "Kreuzgang, Vorplatz und Außenbereich für angeleinte Hunde geöffnet; das Kircheninnere schließt Haustiere aus",
           "petPolicyNl": "Kloostergang, voorplein en buitenruimte open voor aangelijnde honden; het interieur van de kerk sluit huisdieren uit",
+          "petPolicyIt": "Chiostro, sagrato e spazi esterni aperti ai cani al guinzaglio; l'interno della chiesa esclude gli animali",
           "tipDe": "Der Kreuzgang ist nach Süden ausgerichtet und nachmittags eine Sonnenfalle; planen Sie mit einem hitzeempfindlichen Hund einen frühmorgendlichen Besuch und nutzen Sie danach den Wallschatten direkt hinter der Apsis zum Abkühlen.",
-          "tipNl": "De kloostergang ligt op het zuiden en is 's middags een zonneval; plan met een hittegevoelige hond een vroege ochtendbezoek en zoek daarna verkoeling in de schaduw van de wal net achter de apsis."
+          "tipNl": "De kloostergang ligt op het zuiden en is 's middags een zonneval; plan met een hittegevoelige hond een vroege ochtendbezoek en zoek daarna verkoeling in de schaduw van de wal net achter de apsis.",
+          "tipIt": "Il chiostro è esposto a sud e diventa una trappola di calore nel pomeriggio; se il tuo cane soffre il caldo, pianifica una visita al mattino presto e poi rinfrescati all'ombra dei bastioni proprio dietro l'abside."
         },
         {
           "name": "Halles de Bayonne (covered market)",
@@ -627,10 +699,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Halles+de+Bayonne",
           "descriptionDe": "Die überdachte Markthalle am Nive-Kai ist das gastronomische Herz von Bayonne, vollgepackt mit Jambon de Bayonne IGP, Espelette-Pfeffer, Axoa, Pyrenäenkäse, Cazenave-Schokolade und Fisch von der Atlantikküste. Hunde sind in der Halle selbst nicht erlaubt, aber die umliegenden Terrassencafés am Kai heißen Hunde willkommen und lassen Sie Marktprodukte draußen essen.",
           "descriptionNl": "De overdekte markthal aan de kade van de Nive is het gastronomische hart van Bayonne, volgestouwd met Jambon de Bayonne IGP, Espelette-peper, axoa, Pyreneeënkaas, Cazenave-chocolade en vis van de Atlantische kust. Honden zijn niet toegestaan in de hal zelf, maar de omliggende terrascafés aan de kade heten honden welkom en laten je marktproducten buiten opeten.",
+          "descriptionIt": "Il mercato coperto sulla banchina della Nive è il cuore gastronomico di Bayonne, stipato di Jambon de Bayonne IGP, peperoncino di Espelette, axoa, formaggi pirenaici, cioccolato Cazenave e pesce della costa atlantica. I cani non sono ammessi dentro il mercato, ma i caffè con terrazza sulla banchina intorno accolgono i cani e ti lasciano gustare i prodotti del mercato all'aperto.",
           "petPolicyDe": "Innenraum der Halle für Haustiere gesperrt; umliegende Terrassencafés heißen angeleinte Hunde willkommen",
           "petPolicyNl": "Binnenruimte van de hal gesloten voor huisdieren; omliggende terrascafés heten aangelijnde honden welkom",
+          "petPolicyIt": "Interno del mercato chiuso agli animali; i caffè con terrazza intorno accolgono i cani al guinzaglio",
           "tipDe": "Samstagvormittag zwischen 10:00 und 12:00 Uhr herrscht in den Halles der größte Andrang; kommen Sie mit einem empfindlichen Hund stattdessen um 07:30 Uhr, wenn die Erzeuger auffüllen und der Kai ruhig ist.",
-          "tipNl": "Op zaterdagochtend tussen 10:00 en 12:00 uur is het het drukst in de Halles; kom met een gevoelige hond in plaats daarvan om 07:30 uur, als de kwekers aan het aanvullen zijn en de kade rustig is."
+          "tipNl": "Op zaterdagochtend tussen 10:00 en 12:00 uur is het het drukst in de Halles; kom met een gevoelige hond in plaats daarvan om 07:30 uur, als de kwekers aan het aanvullen zijn en de kade rustig is.",
+          "tipIt": "Il sabato mattina tra le 10:00 e le 12:00 le Halles sono al massimo dell'affollamento; se il tuo cane è sensibile, vieni invece alle 7:30, quando i produttori stanno rifornendo i banchi e la banchina è tranquilla."
         },
         {
           "name": "Musée Basque - exterior & quays only",
@@ -654,18 +729,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Musee+Basque+Bayonne",
           "descriptionDe": "Das Musée Basque, im Haus Maison Dagourette aus dem 16. Jahrhundert am Nive-Kai, ist das Referenzmuseum für baskische Zivilisation und Kultur. Wie fast alle französischen Museen schließt es Haustiere aus den Innenräumen aus (Assistenzhunde ausgenommen), aber der Uferkai davor ist einer der schönsten Orte in Petit Bayonne, um mit einem Hund spazieren zu gehen und die bemalten Fachwerkfassaden auf der anderen Seite des Wassers zu bewundern.",
           "descriptionNl": "Het Musée Basque, gevestigd in het 16e-eeuwse Maison Dagourette aan de kade van de Nive, is het referentiemuseum voor de Baskische beschaving en cultuur. Zoals bijna alle Franse musea sluit het huisdieren uit van de binnenruimtes (assistentiehonden uitgezonderd), maar de kade ervoor is een van de mooiste plekken in Petit Bayonne om met een hond te wandelen en de beschilderde vakwerkgevels aan de overkant van het water te bewonderen.",
+          "descriptionIt": "Il Musée Basque, ospitato nella Maison Dagourette del XVI secolo sulla banchina della Nive, è il museo di riferimento per la civiltà e la cultura basca. Come quasi tutti i musei francesi, esclude gli animali dagli spazi interni (cani guida esclusi), ma la banchina di fronte è uno dei posti più belli di Petit Bayonne per passeggiare con il cane e ammirare le facciate a graticcio dipinte sull'altra sponda.",
           "petPolicyDe": "Museumsinnenraum für Haustiere gesperrt; Kai im Freien für angeleinte Hunde geöffnet",
           "petPolicyNl": "Binnenruimte museum gesloten voor huisdieren; kade buiten open voor aangelijnde honden",
+          "petPolicyIt": "Interno del museo chiuso agli animali; la banchina esterna è aperta ai cani al guinzaglio",
           "tipDe": "Die Bayonne-Festwochenenden im Juli verwandeln die Kais von Petit Bayonne in Freiluft-Konzertgelände mit riesigen Menschenmengen; lassen Sie hitze- oder lärmempfindliche Hunde im Hotel und gehen Sie stattdessen auf den Wällen spazieren.",
-          "tipNl": "De Fêtes de Bayonne in juli veranderen de kades van Petit Bayonne in openluchtconcertterreinen met enorme mensenmassa's; laat een hond die gevoelig is voor hitte of lawaai in het hotel en ga in plaats daarvan op de wallen wandelen."
+          "tipNl": "De Fêtes de Bayonne in juli veranderen de kades van Petit Bayonne in openluchtconcertterreinen met enorme mensenmassa's; laat een hond die gevoelig is voor hitte of lawaai in het hotel en ga in plaats daarvan op de wallen wandelen.",
+          "tipIt": "Le Fêtes de Bayonne a luglio trasformano le banchine di Petit Bayonne in arene di concerti all'aperto con folle enormi; se il tuo cane soffre il caldo o il rumore, lascialo in hotel e vai invece a passeggiare sui bastioni."
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Bayonne",
       "titleNl": "Huisdiervriendelijke bezienswaardigheden in Bayonne",
+      "titleIt": "Attrazioni pet-friendly a Bayonne",
       "introDe": "Bayonne vereint fast alles Sehenswerte innerhalb seiner Vauban-Mauern: die UNESCO-Kathedrale am Jakobsweg, den Uferkai-Markt Halles und die Wallpromenade. Das Innere der Kathedrale folgt der französischen Regel, dass Haustiere in Gotteshäusern nicht erlaubt sind, aber der Kreuzgang, die Terrassen, die Wälle und der Marktplatz sind alle mit Leine hundefreundlich.",
       "introNl": "Bayonne verenigt vrijwel alles wat de moeite waard is binnen zijn Vauban-muren: de UNESCO-kathedraal aan de Jakobsweg, de kademarkt Halles en de wandelroute over de wallen. Het interieur van de kathedraal volgt de Franse regel dat huisdieren niet zijn toegestaan in godshuizen, maar de kloostergang, de terrassen, de wallen en het marktplein zijn allemaal hondvriendelijk aan de lijn.",
+      "introIt": "Bayonne racchiude quasi tutto ciò che vale la pena vedere dentro le sue mura Vauban: la cattedrale UNESCO sul Cammino di Santiago, il mercato coperto delle Halles e il percorso sulle mura. L'interno della cattedrale segue la regola francese che vieta gli animali nei luoghi di culto, ma il chiostro, le terrazze, i bastioni e la piazza del mercato sono tutti pet-friendly al guinzaglio.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet Sitters in Bayonne",
@@ -699,10 +780,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bayonne+France",
           "descriptionDe": "Europäischer Marktplatz für Haustierbetreuung, der Bayonner Besitzer mit geprüften Betreuern und Gassigehern im gesamten Ballungsraum BAB verbindet. Jede Buchung beinhaltet die Pawshake-Garantie, die Tierarzt-Hotline und kostenlose Stornierung bis 24 Stunden vor dem Aufenthalt.",
           "descriptionNl": "Europees marktplatform voor huisdieroppas dat baasjes in Bayonne verbindt met gescreende oppassers en uitlaters in de hele agglomeratie BAB. Elke boeking omvat de Pawshake-garantie, de dierenartshotline en gratis annuleren tot 24 uur voor het verblijf.",
+          "descriptionIt": "Piattaforma europea di pet sitting che mette in contatto i proprietari a Bayonne con sitter e dog walker selezionati in tutto l'agglomerato BAB. Ogni prenotazione include la garanzia Pawshake, la hotline veterinaria e la cancellazione gratuita fino a 24 ore prima del soggiorno.",
           "petPolicyDe": "Tierpension, Tagesbetreuung, Kurzbesuche und Gassigehen; Versicherung inbegriffen",
           "petPolicyNl": "Logeeroppas, dagopvang, korte bezoekjes en uitlaatservice; verzekering inbegrepen",
+          "petPolicyIt": "Pensione a casa, asilo diurno, visite brevi e servizio di passeggiate; assicurazione inclusa",
           "tipDe": "Lesen Sie die Betreuerbewertungen speziell auf die BAB-Saisonalität; Betreuer, die 'fetes de Bayonne' oder 'Julifestival' explizit in Bewertungen erwähnen, verstehen den Lärmkontext und passen meist gut zu Reisewochen.",
-          "tipNl": "Lees de beoordelingen van oppassers specifiek op BAB-seizoensgebondenheid; oppassers die 'fêtes de Bayonne' of 'julifestival' expliciet noemen in beoordelingen begrijpen de geluidscontext en passen meestal goed bij die reisweken."
+          "tipNl": "Lees de beoordelingen van oppassers specifiek op BAB-seizoensgebondenheid; oppassers die 'fêtes de Bayonne' of 'julifestival' expliciet noemen in beoordelingen begrijpen de geluidscontext en passen meestal goed bij die reisweken.",
+          "tipIt": "Leggi le recensioni dei sitter cercando riferimenti specifici alla stagionalità del BAB; i sitter che nelle recensioni citano esplicitamente le 'fêtes de Bayonne' o il 'festival di luglio' capiscono il contesto del rumore e di solito si adattano bene a quelle settimane di viaggio."
         },
         {
           "name": "Gudog Bayonne",
@@ -726,10 +810,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bayonne+France",
           "descriptionDe": "Spezialisierte Plattform für Hundebetreuung mit rund einem Dutzend geprüften Betreuern in Bayonne, die Heimpension, Tagesbetreuung und Spaziergänge anbieten. Durchschnittspreis rund 19 EUR pro Nacht, alle Buchungen durch Tierarztversicherung und 24-Stunden-Support abgedeckt.",
           "descriptionNl": "Gespecialiseerd platform voor hondenoppas met zo'n tiental gescreende oppassers in Bayonne die logeeroppas thuis, dagopvang en wandelingen aanbieden. Gemiddelde prijs rond 19 euro per nacht, alle boekingen gedekt door dierenartsverzekering en 24-uurs ondersteuning.",
+          "descriptionIt": "Piattaforma specializzata in pet sitting per cani con una decina di sitter selezionati a Bayonne che offrono pensione a casa, asilo diurno e passeggiate. Prezzo medio intorno ai 19 euro a notte, tutte le prenotazioni coperte da assicurazione veterinaria e assistenza 24 ore su 24.",
           "petPolicyDe": "Heimpension, Tagesbetreuung, Spaziergänge; Tierarztversicherung deckt den gesamten Aufenthalt ab",
           "petPolicyNl": "Logeeroppas thuis, dagopvang, wandelingen; dierenartsverzekering dekt het hele verblijf",
+          "petPolicyIt": "Pensione a casa, asilo diurno, passeggiate; l'assicurazione veterinaria copre tutto il soggiorno",
           "tipDe": "Die französischen Gudog-Anzeigen geben genaue Straßenviertel an; bevorzugen Sie einen Betreuer innerhalb von Bayonne intra-muros, wenn Sie kurze zweimal tägliche Spaziergänge auf den Wällen wünschen; Betreuer in Anglet sind günstiger, aber der Hund läuft dort meist nur in Wohnstraßen.",
-          "tipNl": "De Franse Gudog-advertenties geven precieze straatwijken aan; kies bij voorkeur een oppasser binnen Bayonne intra-muros als je korte, tweemaal daagse wandelingen op de wallen wilt; oppassers in Anglet zijn goedkoper, maar daar loopt de hond meestal alleen in woonstraten."
+          "tipNl": "De Franse Gudog-advertenties geven precieze straatwijken aan; kies bij voorkeur een oppasser binnen Bayonne intra-muros als je korte, tweemaal daagse wandelingen op de wallen wilt; oppassers in Anglet zijn goedkoper, maar daar loopt de hond meestal alleen in woonstraten.",
+          "tipIt": "Gli annunci Gudog francesi indicano quartieri precisi; scegli preferibilmente un sitter dentro Bayonne intra-muros se vuoi passeggiate brevi due volte al giorno sui bastioni; i sitter di Anglet sono più economici, ma lì il cane cammina di solito solo in strade residenziali."
         },
         {
           "name": "Animaute Bayonne",
@@ -753,18 +840,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bayonne+France",
           "descriptionDe": "Französische Plattform für Haustierbetreuung mit Tierpension, Hausbesuchen und Spaziergängen in ganz Bayonne. Gassigeher ab etwa 6-10 EUR pro Tag, mit Profilfotos, geprüften Bewertungen und der Wahlmöglichkeit zwischen Betreuung beim Betreuer oder beim Besitzer zu Hause.",
           "descriptionNl": "Frans platform voor huisdieroppas met logeeroppas, huisbezoeken en wandelingen in heel Bayonne. Uitlaters vanaf ongeveer 6-10 euro per dag, met profielfoto's, gecontroleerde beoordelingen en de keuze tussen oppas bij de oppasser thuis of bij het baasje thuis.",
+          "descriptionIt": "Piattaforma francese di pet sitting con pensione a casa, visite a domicilio e passeggiate in tutta Bayonne. Dog walker a partire da circa 6-10 euro al giorno, con foto profilo, recensioni verificate e la scelta tra ospitare l'animale a casa del sitter o farlo accudire a casa tua.",
           "petPolicyDe": "Tierpension, Hausbesuche und Spaziergänge; Wahl zwischen Betreuung beim Betreuer oder Besitzer",
           "petPolicyNl": "Logeeroppas, huisbezoeken en wandelingen; keuze tussen oppas bij oppasser of baasje",
+          "petPolicyIt": "Pensione a casa, visite a domicilio e passeggiate; scelta tra casa del sitter o casa tua",
           "tipDe": "Wenn Sie in einem Hotel in Petit Bayonne wohnen, machen die Kopfsteinpflastergassen und Einbahnstraßen die Abholung logistisch umständlich; verlangen Sie einen Betreuer, der innerhalb von 1 km von Ihrem Hotel wohnt, damit die Übergabe zu Fuß statt mit dem Auto erfolgt.",
-          "tipNl": "Verblijf je in een hotel in Petit Bayonne, dan maken de geplaveide steegjes en eenrichtingsstraten het ophalen logistiek lastig; vraag om een oppasser die binnen 1 km van je hotel woont, zodat de overdracht te voet gaat in plaats van met de auto."
+          "tipNl": "Verblijf je in een hotel in Petit Bayonne, dan maken de geplaveide steegjes en eenrichtingsstraten het ophalen logistiek lastig; vraag om een oppasser die binnen 1 km van je hotel woont, zodat de overdracht te voet gaat in plaats van met de auto.",
+          "tipIt": "Se alloggi in un hotel di Petit Bayonne, i vicoli acciottolati e le vie a senso unico rendono complicato il ritiro; chiedi un sitter che viva entro 1 km dal tuo hotel, così il passaggio avviene a piedi invece che in auto."
         }
       ],
       "titleDe": "Haustierbetreuung in Bayonne",
       "titleNl": "Huisdieroppas in Bayonne",
+      "titleIt": "Pet sitting a Bayonne",
       "introDe": "Bayonne ist gut von den großen französischen und europäischen Plattformen für Haustierbetreuung abgedeckt, mit Betreuern im Ballungsraum BAB für Tierpension, Tagesbetreuung, Kurzbesuche und Gassigehen. Die Preise liegen etwas unter dem Median der Strandpromenade von Biarritz; buchen Sie im Juli und August zwei Wochen im Voraus, wenn lokale Betreuer durch die Festival-Menge ausgelastet sind.",
       "introNl": "Bayonne is goed gedekt door de grote Franse en Europese platforms voor huisdieroppas, met oppassers in de agglomeratie BAB voor logeeroppas, dagopvang, korte bezoekjes en uitlaatservice. De prijzen liggen iets onder het mediaan van de boulevard van Biarritz; boek in juli en augustus twee weken van tevoren, wanneer lokale oppassers vol zitten door de festivaldrukte.",
+      "introIt": "Bayonne è ben coperta dalle grandi piattaforme francesi ed europee di pet sitting, con sitter nell'agglomerato BAB per pensione a casa, asilo diurno, visite brevi e servizio di passeggiate. I prezzi sono leggermente sotto la media del lungomare di Biarritz; a luglio e agosto prenota con due settimane di anticipo, quando i sitter locali sono pieni per la folla dei festival.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

@@ -12,7 +12,7 @@ import { getLocalizedCityName } from '@/lib/cityNames'
 const SLUG = 'winter-destinations-with-dog-2026'
 const CAMPAIGN = 'winter-dog'
 
-type L4 = { en: string; fr: string; es: string; pt: string; de: string; nl: string }
+type L4 = { en: string; fr: string; es: string; pt: string; de: string; nl: string; it: string }
 type Dest = {
   slug: string
   name: string
@@ -40,6 +40,7 @@ const THEMES: Theme[] = [
       pt: 'Sol de inverno nas ilhas atlânticas',
       de: 'Wintersonne auf den Atlantikinseln',
       nl: 'Wintersonzon op de Atlantische eilanden',
+      it: 'Sole invernale sulle isole atlantiche',
     },
     blurb: {
       en: 'The Canary Islands and Madeira sit off the coast of Africa, where the Atlantic keeps daytime highs near 21°C through January and February. This is the one part of Europe where a dog can swim and sunbathe in deep winter, and where flat-faced or heat-sensitive dogs stay comfortable year-round.',
@@ -48,6 +49,7 @@ const THEMES: Theme[] = [
       pt: 'As ilhas Canárias e a Madeira ficam ao largo da costa de África, onde o Atlântico mantém máximas perto dos 21°C em janeiro e fevereiro. É o único canto da Europa onde um cão pode nadar e apanhar sol em pleno inverno, e onde os cães de cara achatada ou sensíveis ao calor se mantêm confortáveis todo o ano.',
       de: 'Die Kanarischen Inseln und Madeira liegen vor der Küste Afrikas, wo der Atlantik die Tageshöchstwerte im Januar und Februar bei rund 21°C hält. Dies ist der einzige Teil Europas, in dem ein Hund mitten im Winter schwimmen und sich sonnen kann, und in dem kurznasige oder hitzeempfindliche Hunde das ganze Jahr über wohlfühlen.',
       nl: 'De Canarische Eilanden en Madeira liggen voor de kust van Afrika, waar de Atlantische Oceaan de dagtemperaturen in januari en februari rond de 21°C houdt. Dit is het enige stukje Europa waar je hond midden in de winter kan zwemmen en zonnebaden, en waar platsnuitige of hittegevoelige honden het hele jaar door comfortabel blijven.',
+      it: `Le Canarie e Madeira si trovano al largo della costa africana, dove l'Atlantico mantiene le massime vicine ai 21°C tra gennaio e febbraio. È l'unico angolo d'Europa dove il tuo cane può nuotare e prendere il sole in pieno inverno, e dove i cani brachicefali o sensibili al caldo stanno bene tutto l'anno.`,
     },
     destinations: [
       {
@@ -55,7 +57,7 @@ const THEMES: Theme[] = [
         name: 'Tenerife',
         country: 'Spain',
         janTemp: 21,
-        tag: { en: 'Biggest island · Teide + coast', fr: 'La plus grande île · Teide + côte', es: 'La isla mayor · Teide + costa', pt: 'A maior ilha · Teide + costa', de: 'Größte Insel · Teide + Küste', nl: 'Grootste eiland · Teide + kust' },
+        tag: { en: 'Biggest island · Teide + coast', fr: 'La plus grande île · Teide + côte', es: 'La isla mayor · Teide + costa', pt: 'A maior ilha · Teide + costa', de: 'Größte Insel · Teide + Küste', nl: 'Grootste eiland · Teide + kust', it: 'Isola più grande · Teide + costa' },
         why: {
           en: 'Tenerife holds 21°C in January and pairs a dog beach at El Camison in the south with pine-forest trails high on Mount Teide, where dogs can walk in cool mountain air. Direct winter flights from across Europe make it the easiest Canary base for a longer stay.',
           fr: `Tenerife tient 21°C en janvier et associe une plage canine à El Camison, au sud, aux sentiers de forêt de pins en altitude sur le Teide, où les chiens marchent dans un air de montagne frais. Les vols directs d'hiver depuis toute l'Europe en font la base canarienne la plus simple pour un long séjour.`,
@@ -63,6 +65,7 @@ const THEMES: Theme[] = [
           pt: 'Tenerife segura 21°C em janeiro e junta uma praia canina em El Camisón, a sul, aos trilhos de pinhal em altitude no Teide, onde os cães caminham em ar fresco de montanha. Os voos diretos de inverno de toda a Europa fazem dela a base canária mais fácil para uma estadia longa.',
           de: 'Teneriffa hält im Januar 21°C und verbindet einen Hundestrand in El Camisón im Süden mit Kiefernwaldwegen hoch oben am Teide, wo Hunde in kühler Bergluft spazieren gehen können. Direkte Winterflüge aus ganz Europa machen die Insel zur einfachsten kanarischen Basis für einen längeren Aufenthalt.',
           nl: `Tenerife houdt het in januari op 21°C en combineert een hondenstrand bij El Camisón in het zuiden met dennenboswandelpaden hoog op de Teide, waar honden in koele berglucht wandelen. Directe winterse vluchten vanuit heel Europa maken het eiland de makkelijkste Canarische basis voor een langer verblijf.`,
+          it: `Tenerife tiene 21°C a gennaio e unisce una spiaggia per cani a El Camisón, a sud, ai sentieri tra i pini in quota sul Teide, dove il tuo cane cammina in un'aria di montagna fresca. I voli diretti invernali da tutta Europa la rendono la base canaria più semplice per un soggiorno lungo.`,
         },
       },
       {
@@ -70,7 +73,7 @@ const THEMES: Theme[] = [
         name: 'Gran Canaria',
         country: 'Spain',
         janTemp: 21,
-        tag: { en: 'Dunes, ravines and dog beaches', fr: 'Dunes, ravins et plages canines', es: 'Dunas, barrancos y playas caninas', pt: 'Dunas, ravinas e praias caninas', de: 'Dünen, Schluchten und Hundestrände', nl: 'Duinen, ravijnen en hondenstranden' },
+        tag: { en: 'Dunes, ravines and dog beaches', fr: 'Dunes, ravins et plages canines', es: 'Dunas, barrancos y playas caninas', pt: 'Dunas, ravinas e praias caninas', de: 'Dünen, Schluchten und Hundestrände', nl: 'Duinen, ravijnen en hondenstranden', it: 'Dune, canyon e spiagge per cani' },
         why: {
           en: 'Gran Canaria is a continent in miniature: 21°C on the coast, cooler pine highlands inland, and an official dog beach at El Confital just outside Las Palmas. The ravine hikes in the centre give a working dog a real winter workout without the heat.',
           fr: `Gran Canaria est un continent miniature : 21°C sur la côte, hauteurs de pins plus fraîches à l'intérieur, et une plage canine officielle à El Confital, juste à côté de Las Palmas. Les randonnées dans les ravins du centre offrent à un chien actif un vrai effort hivernal sans la chaleur.`,
@@ -78,6 +81,7 @@ const THEMES: Theme[] = [
           pt: 'A Gran Canaria é um continente em miniatura: 21°C na costa, terras altas de pinhal mais frescas no interior, e uma praia canina oficial em El Confital, mesmo à saída de Las Palmas. As caminhadas pelas ravinas do centro dão a um cão ativo um verdadeiro exercício de inverno sem o calor.',
           de: 'Gran Canaria ist ein Kontinent im Kleinen: 21°C an der Küste, kühlere Kiefernhöhen im Landesinneren und ein offizieller Hundestrand in El Confital, direkt vor den Toren von Las Palmas. Die Schluchtenwanderungen im Zentrum bieten einem aktiven Hund ein echtes Wintertraining ohne die Hitze.',
           nl: `Gran Canaria is een continent in miniatuur: 21°C aan de kust, koelere dennenhoogvlaktes in het binnenland, en een officieel hondenstrand bij El Confital net buiten Las Palmas. De ravijnwandelingen in het centrum geven een actieve hond een echte wintertraining zonder de hitte.`,
+          it: `Gran Canaria è un continente in miniatura: 21°C sulla costa, altipiani di pini più freschi nell'entroterra, e una spiaggia per cani ufficiale a El Confital, appena fuori Las Palmas. Le escursioni nei canyon del centro danno al tuo cane attivo un vero allenamento invernale senza il caldo.`,
         },
       },
       {
@@ -85,7 +89,7 @@ const THEMES: Theme[] = [
         name: 'Maspalomas',
         country: 'Spain',
         janTemp: 19,
-        tag: { en: 'Gran Canaria dunes · sheltered south', fr: 'Dunes de Gran Canaria · sud abrité', es: 'Dunas de Gran Canaria · sur resguardado', pt: 'Dunas da Gran Canaria · sul abrigado', de: 'Dünen von Gran Canaria · geschützter Süden', nl: 'Duinen van Gran Canaria · beschut zuiden' },
+        tag: { en: 'Gran Canaria dunes · sheltered south', fr: 'Dunes de Gran Canaria · sud abrité', es: 'Dunas de Gran Canaria · sur resguardado', pt: 'Dunas da Gran Canaria · sul abrigado', de: 'Dünen von Gran Canaria · geschützter Süden', nl: 'Duinen van Gran Canaria · beschut zuiden', it: 'Dune di Gran Canaria · sud riparato' },
         why: {
           en: 'On the sheltered south tip of Gran Canaria, Maspalomas wraps a protected dune reserve around a lighthouse and a long promenade. Winter days sit at 19°C with reliable sun, and the resort has the widest choice of pet-friendly apartments for a month-long escape.',
           fr: `Sur la pointe sud abritée de Gran Canaria, Maspalomas déploie une réserve de dunes protégée autour d'un phare et d'une longue promenade. Les journées d'hiver s'établissent à 19°C avec un soleil fiable, et la station offre le plus grand choix d'appartements pet-friendly pour une escapade d'un mois.`,
@@ -93,6 +97,7 @@ const THEMES: Theme[] = [
           pt: 'Na abrigada ponta sul da Gran Canaria, Maspalomas estende uma reserva de dunas protegida em torno de um farol e de um longo passeio. Os dias de inverno ficam nos 19°C com sol fiável, e o destino oferece a maior escolha de apartamentos pet-friendly para uma escapadela de um mês.',
           de: 'An der geschützten Südspitze von Gran Canaria umschließt Maspalomas ein geschütztes Dünenreservat rund um einen Leuchtturm und eine lange Promenade. Die Wintertage liegen bei 19°C mit verlässlichem Sonnenschein, und der Ferienort bietet die größte Auswahl an haustierfreundlichen Apartments für eine einmonatige Auszeit.',
           nl: `Op de beschutte zuidpunt van Gran Canaria omringt Maspalomas een beschermd duinreservaat rond een vuurtoren en een lange promenade. De winterdagen liggen rond de 19°C met betrouwbare zon, en de badplaats heeft de ruimste keuze aan huisdiervriendelijke appartementen voor een maandlange ontsnapping.`,
+          it: `Sulla punta sud riparata di Gran Canaria, Maspalomas dispiega una riserva di dune protetta attorno a un faro e a una lunga passeggiata. Le giornate invernali si attestano sui 19°C con sole affidabile, e la località offre la scelta più ampia di appartamenti pet-friendly per una fuga di un mese.`,
         },
       },
       {
@@ -100,7 +105,7 @@ const THEMES: Theme[] = [
         name: 'Lanzarote',
         country: 'Spain',
         janTemp: 21,
-        tag: { en: 'Volcanic island · warm and dry', fr: 'Île volcanique · chaude et sèche', es: 'Isla volcánica · cálida y seca', pt: 'Ilha vulcânica · quente e seca', de: 'Vulkaninsel · warm und trocken', nl: 'Vulkanisch eiland · warm en droog' },
+        tag: { en: 'Volcanic island · warm and dry', fr: 'Île volcanique · chaude et sèche', es: 'Isla volcánica · cálida y seca', pt: 'Ilha vulcânica · quente e seca', de: 'Vulkaninsel · warm und trocken', nl: 'Vulkanisch eiland · warm en droog', it: 'Isola vulcanica · calda e secca' },
         why: {
           en: 'Lanzarote is the driest and one of the warmest Canaries at 21°C, a lunar landscape of black lava and whitewashed villages. Dogs are welcome on much of the coast out of the summer crowds, and the flat volcanic tracks make easy walking for older dogs.',
           fr: `Lanzarote est la plus sèche et l'une des plus chaudes des Canaries à 21°C, un paysage lunaire de lave noire et de villages blanchis à la chaux. Les chiens sont bienvenus sur une grande partie de la côte, loin de la foule estivale, et les pistes volcaniques plates offrent des balades faciles aux chiens âgés.`,
@@ -108,6 +113,7 @@ const THEMES: Theme[] = [
           pt: 'Lanzarote é a mais seca e uma das mais quentes das Canárias a 21°C, uma paisagem lunar de lava negra e aldeias caiadas. Os cães são bem-vindos em grande parte da costa longe das multidões de verão, e os caminhos vulcânicos planos tornam o passeio fácil para cães idosos.',
           de: 'Lanzarote ist mit 21°C die trockenste und eine der wärmsten Kanareninseln, eine mondähnliche Landschaft aus schwarzer Lava und weiß getünchten Dörfern. Hunde sind auf großen Teilen der Küste abseits des Sommertrubels willkommen, und die flachen vulkanischen Wege eignen sich gut für ältere Hunde.',
           nl: `Lanzarote is met 21°C het droogste en een van de warmste Canarische eilanden, een maanlandschap van zwarte lava en witgekalkte dorpen. Honden zijn welkom op een groot deel van de kust, ver van de zomerdrukte, en de vlakke vulkanische paden maken wandelen makkelijk voor oudere honden.`,
+          it: `Lanzarote è la più secca e una delle più calde delle Canarie con 21°C, un paesaggio lunare di lava nera e villaggi imbiancati a calce. I cani sono benvenuti su gran parte della costa lontano dalla folla estiva, e i sentieri vulcanici pianeggianti rendono facili le passeggiate per i cani anziani.`,
         },
       },
       {
@@ -115,7 +121,7 @@ const THEMES: Theme[] = [
         name: 'Funchal',
         country: 'Portugal',
         janTemp: 16,
-        tag: { en: 'Madeira · levada trails', fr: 'Madère · sentiers des levadas', es: 'Madeira · senderos de levadas', pt: 'Madeira · veredas das levadas', de: 'Madeira · Levada-Wanderwege', nl: 'Madeira · levada-wandelpaden' },
+        tag: { en: 'Madeira · levada trails', fr: 'Madère · sentiers des levadas', es: 'Madeira · senderos de levadas', pt: 'Madeira · veredas das levadas', de: 'Madeira · Levada-Wanderwege', nl: 'Madeira · levada-wandelpaden', it: 'Madeira · sentieri delle levadas' },
         why: {
           en: 'Funchal is milder and greener than the Canaries at 16°C, terraced above the Atlantic on the island of Madeira. The famous levada water-channel trails run dog-friendly through laurel forest, and the seafront gardens stay in flower all winter.',
           fr: `Funchal est plus douce et plus verte que les Canaries à 16°C, en terrasses au-dessus de l'Atlantique sur l'île de Madère. Les célèbres sentiers des levadas, ces canaux d'irrigation, sont accessibles aux chiens à travers la forêt de lauriers, et les jardins du front de mer restent fleuris tout l'hiver.`,
@@ -123,6 +129,7 @@ const THEMES: Theme[] = [
           pt: 'O Funchal é mais ameno e verde do que as Canárias a 16°C, em socalcos sobre o Atlântico na ilha da Madeira. As famosas veredas das levadas, os canais de rega, aceitam cães através da floresta laurissilva, e os jardins da marginal mantêm-se floridos todo o inverno.',
           de: 'Funchal ist milder und grüner als die Kanaren mit 16°C, terrassenförmig über dem Atlantik auf der Insel Madeira gelegen. Die berühmten Levada-Wasserkanalwege sind hundefreundlich und führen durch Lorbeerwald, und die Gärten an der Uferpromenade blühen den ganzen Winter über.',
           nl: `Funchal is milder en groener dan de Canarische Eilanden met 16°C, aangelegd in terrassen boven de Atlantische Oceaan op het eiland Madeira. De beroemde levada-waterkanaalpaden zijn hondvriendelijk en lopen door laurierbos, en de tuinen aan de kust blijven de hele winter in bloei.`,
+          it: `Funchal è più mite e verde delle Canarie con 16°C, disposta a terrazze sopra l'Atlantico sull'isola di Madeira. I famosi sentieri delle levadas, i canali d'irrigazione, sono percorribili con il cane attraverso la foresta laurifera, e i giardini sul lungomare restano in fiore per tutto l'inverno.`,
         },
       },
     ],
@@ -137,6 +144,7 @@ const THEMES: Theme[] = [
       pt: 'Costa sul amena, fora de época e calma',
       de: 'Milde Südküste, außerhalb der Saison und ruhig',
       nl: 'Milde zuidkust, buiten het seizoen en rustig',
+      it: 'Costa sud mite, fuori stagione e tranquilla',
     },
     blurb: {
       en: 'Mainland Andalusia and the Algarve stay mild through winter, with dry, sunny days in the mid-teens and the summer beach bans long lifted. Prices are at their lowest, the promenades belong to locals and their dogs, and a short flight puts you there.',
@@ -145,6 +153,7 @@ const THEMES: Theme[] = [
       pt: 'A Andaluzia continental e o Algarve mantêm-se amenos todo o inverno, com dias secos e soalheiros entre os 13 e os 17°C e as proibições de praia de verão levantadas há muito. Os preços estão no ponto mais baixo, as marginais são dos habitantes e dos seus cães, e um voo curto deixa-o lá.',
       de: 'Das andalusische Festland und die Algarve bleiben den ganzen Winter über mild, mit trockenen, sonnigen Tagen im mittleren Zehnergrad-Bereich, und die sommerlichen Strandverbote sind längst aufgehoben. Die Preise sind auf ihrem niedrigsten Stand, die Promenaden gehören den Einheimischen und ihren Hunden, und ein kurzer Flug bringt Sie hin.',
       nl: 'Het Andalusische vasten en de Algarve blijven de hele winter mild, met droge, zonnige dagen van rond de 13 tot 17°C, en de zomerse strandverboden zijn al lang opgeheven. De prijzen zijn op hun laagst, de promenades zijn van de lokale bewoners en hun honden, en een korte vlucht brengt je er zo.',
+      it: `L'Andalusia continentale e l'Algarve restano miti per tutto l'inverno, con giornate secche e soleggiate tra i 13 e i 17°C e i divieti estivi in spiaggia revocati da tempo. I prezzi sono al minimo, i lungomare appartengono ai residenti e ai loro cani, e un volo breve ti porta lì.`,
     },
     destinations: [
       {
@@ -152,7 +161,7 @@ const THEMES: Theme[] = [
         name: 'Málaga',
         country: 'Spain',
         janTemp: 13,
-        tag: { en: 'Andalusian city · museums + sea', fr: 'Ville andalouse · musées + mer', es: 'Ciudad andaluza · museos + mar', pt: 'Cidade andaluza · museus + mar', de: 'Andalusische Stadt · Museen + Meer', nl: 'Andalusische stad · musea + zee' },
+        tag: { en: 'Andalusian city · museums + sea', fr: 'Ville andalouse · musées + mer', es: 'Ciudad andaluza · museos + mar', pt: 'Cidade andaluza · museus + mar', de: 'Andalusische Stadt · Museen + Meer', nl: 'Andalusische stad · musea + zee', it: 'Città andalusa · musei + mare' },
         why: {
           en: 'Málaga gives you a full Andalusian city in winter: a walkable old town, the Gibralfaro hill, palm-lined seafront and a dog beach at Guadalmar. At 13°C it is jacket weather rather than beach weather, ideal for exploring on foot with a dog that dislikes the heat.',
           fr: `Málaga vous offre une véritable ville andalouse en hiver : une vieille ville à parcourir à pied, la colline du Gibralfaro, un front de mer bordé de palmiers et une plage canine à Guadalmar. À 13°C, c'est un temps à veste plutôt qu'à plage, idéal pour explorer à pied avec un chien qui n'aime pas la chaleur.`,
@@ -160,6 +169,7 @@ const THEMES: Theme[] = [
           pt: 'Málaga dá-lhe uma cidade andaluza completa no inverno: um centro histórico a pé, o monte Gibralfaro, uma marginal com palmeiras e uma praia canina em Guadalmar. A 13°C é tempo de casaco mais do que de praia, ideal para explorar a pé com um cão que não gosta do calor.',
           de: 'Málaga bietet Ihnen im Winter eine vollständige andalusische Stadt: eine begehbare Altstadt, den Hügel Gibralfaro, eine palmengesäumte Uferpromenade und einen Hundestrand in Guadalmar. Bei 13°C ist es eher Jackenwetter als Strandwetter, ideal zum Erkunden zu Fuß mit einem Hund, der Hitze nicht mag.',
           nl: `Málaga geeft je in de winter een complete Andalusische stad: een wandelbare oude binnenstad, de heuvel Gibralfaro, een met palmbomen omzoomde boulevard en een hondenstrand bij Guadalmar. Bij 13°C is het eerder jaswerk dan strandweer, ideaal om te voet te verkennen met een hond die niet van hitte houdt.`,
+          it: `Málaga ti regala d'inverno una città andalusa completa: un centro storico da girare a piedi, la collina del Gibralfaro, un lungomare fiancheggiato da palme e una spiaggia per cani a Guadalmar. Con 13°C serve la giacca più che il costume, ideale per esplorare a piedi con un cane a cui non piace il caldo.`,
         },
       },
       {
@@ -167,7 +177,7 @@ const THEMES: Theme[] = [
         name: 'Fuengirola',
         country: 'Spain',
         janTemp: 17,
-        tag: { en: 'Costa del Sol · year-round dog beach', fr: 'Costa del Sol · plage canine toute l\'année', es: 'Costa del Sol · playa canina todo el año', pt: 'Costa del Sol · praia canina todo o ano', de: 'Costa del Sol · ganzjähriger Hundestrand', nl: 'Costa del Sol · hondenstrand het hele jaar' },
+        tag: { en: 'Costa del Sol · year-round dog beach', fr: 'Costa del Sol · plage canine toute l\'année', es: 'Costa del Sol · playa canina todo el año', pt: 'Costa del Sol · praia canina todo o ano', de: 'Costa del Sol · ganzjähriger Hundestrand', nl: 'Costa del Sol · hondenstrand het hele jaar', it: `Costa del Sol · spiaggia per cani tutto l'anno` },
         why: {
           en: 'Fuengirola is the warmest mainland pick here at 17°C, thanks to a sheltered stretch of the Costa del Sol. Its Castillo Sohail dog beach is open all year, so your dog can swim in January, and the flat 7 km promenade and free airport train make it effortless.',
           fr: `Fuengirola est le choix continental le plus chaud de cette liste à 17°C, grâce à une portion abritée de la Costa del Sol. Sa plage canine du Castillo Sohail est ouverte toute l'année, votre chien peut donc nager en janvier, et la promenade plate de 7 km et le train gratuit vers l'aéroport rendent tout facile.`,
@@ -175,6 +185,7 @@ const THEMES: Theme[] = [
           pt: 'Fuengirola é a escolha continental mais quente desta lista a 17°C, graças a um troço abrigado da Costa del Sol. A sua praia canina do Castillo Sohail está aberta todo o ano, por isso o seu cão pode nadar em janeiro, e o passeio plano de 7 km e o comboio gratuito para o aeroporto tornam tudo fácil.',
           de: 'Fuengirola ist mit 17°C die wärmste Wahl auf dem Festland in dieser Liste, dank eines geschützten Abschnitts der Costa del Sol. Der Hundestrand Castillo Sohail ist ganzjährig geöffnet, sodass Ihr Hund im Januar schwimmen kann, und die flache 7 km lange Promenade sowie der kostenlose Flughafenzug machen alles mühelos.',
           nl: `Fuengirola is met 17°C de warmste vasteland-keuze hier, dankzij een beschut stuk van de Costa del Sol. Het hondenstrand Castillo Sohail is het hele jaar open, dus je hond kan in januari zwemmen, en de vlakke boulevard van 7 km en de gratis trein naar het vliegveld maken het moeiteloos.`,
+          it: `Fuengirola è la scelta più calda sulla terraferma in questa lista con 17°C, grazie a un tratto riparato della Costa del Sol. La sua spiaggia per cani di Castillo Sohail è aperta tutto l'anno, così il tuo cane può nuotare a gennaio, e la passeggiata piatta di 7 km e il treno gratuito per l'aeroporto rendono tutto facile.`,
         },
       },
       {
@@ -182,7 +193,7 @@ const THEMES: Theme[] = [
         name: 'Nerja',
         country: 'Spain',
         janTemp: 17,
-        tag: { en: 'Cliff coves · slower pace', fr: 'Criques de falaise · rythme lent', es: 'Calas de acantilado · ritmo lento', pt: 'Enseadas de falésia · ritmo lento', de: 'Klippenbuchten · langsameres Tempo', nl: 'Klifbaaien · rustiger tempo' },
+        tag: { en: 'Cliff coves · slower pace', fr: 'Criques de falaise · rythme lent', es: 'Calas de acantilado · ritmo lento', pt: 'Enseadas de falésia · ritmo lento', de: 'Klippenbuchten · langsameres Tempo', nl: 'Klifbaaien · rustiger tempo', it: 'Calette tra le scogliere · ritmo lento' },
         why: {
           en: 'Quieter than the resorts to the west, Nerja stays a warm 17°C and keeps a small-town winter rhythm. The cliff paths towards Maro and the coves below the Balcón de Europa are dog-friendly and gloriously empty between December and February.',
           fr: `Plus calme que les stations à l'ouest, Nerja garde un doux 17°C et un rythme d'hiver de petite ville. Les sentiers de falaise vers Maro et les criques sous le Balcón de Europa sont accessibles aux chiens et magnifiquement déserts entre décembre et février.`,
@@ -190,6 +201,7 @@ const THEMES: Theme[] = [
           pt: 'Mais calma do que os destinos a oeste, Nerja mantém uns amenos 17°C e um ritmo de inverno de vila pequena. Os trilhos de falésia para Maro e as enseadas por baixo do Balcón de Europa aceitam cães e estão gloriosamente vazios entre dezembro e fevereiro.',
           de: 'Ruhiger als die Ferienorte im Westen, hält Nerja beständige 17°C und einen kleinstädtischen Winterrhythmus. Die Klippenpfade Richtung Maro und die Buchten unterhalb des Balcón de Europa sind hundefreundlich und zwischen Dezember und Februar herrlich menschenleer.',
           nl: `Rustiger dan de badplaatsen in het westen houdt Nerja het warm op 17°C en een kleinstedelijk winterritme aan. De klifpaden richting Maro en de baaien onder de Balcón de Europa zijn hondvriendelijk en heerlijk leeg tussen december en februari.`,
+          it: `Più tranquilla delle località a ovest, Nerja resta calda a 17°C e mantiene un ritmo invernale da piccola città. I sentieri sulla scogliera verso Maro e le calette sotto il Balcón de Europa accettano i cani e sono splendidamente vuoti tra dicembre e febbraio.`,
         },
       },
       {
@@ -197,7 +209,7 @@ const THEMES: Theme[] = [
         name: 'Albufeira',
         country: 'Portugal',
         janTemp: 13,
-        tag: { en: 'Algarve · empty cliff trails', fr: 'Algarve · sentiers de falaise déserts', es: 'Algarve · senderos de acantilado vacíos', pt: 'Algarve · trilhos de falésia vazios', de: 'Algarve · leere Klippenwege', nl: 'Algarve · lege klifpaden' },
+        tag: { en: 'Algarve · empty cliff trails', fr: 'Algarve · sentiers de falaise déserts', es: 'Algarve · senderos de acantilado vacíos', pt: 'Algarve · trilhos de falésia vazios', de: 'Algarve · leere Klippenwege', nl: 'Algarve · lege klifpaden', it: 'Algarve · sentieri costieri deserti' },
         why: {
           en: 'In winter the Algarve turns into a walkers\' coast: the Seven Hanging Valleys clifftop trail above Albufeira is glorious at 13°C, and several beaches allow dogs off-season. Flights and apartments are at their cheapest between December and February.',
           fr: `En hiver, l'Algarve devient une côte de randonneurs : le sentier des Sete Vales Suspensos au-dessus d'Albufeira est splendide à 13°C, et plusieurs plages acceptent les chiens hors saison. Vols et appartements sont au plus bas entre décembre et février.`,
@@ -205,6 +217,7 @@ const THEMES: Theme[] = [
           pt: 'No inverno o Algarve transforma-se numa costa de caminhantes: o trilho dos Sete Vales Suspensos por cima de Albufeira é esplêndido a 13°C, e várias praias aceitam cães fora de época. Voos e apartamentos estão no ponto mais barato entre dezembro e fevereiro.',
           de: 'Im Winter verwandelt sich die Algarve in eine Wanderküste: Der Klippenpfad der Sieben Hängenden Täler über Albufeira ist bei 13°C herrlich, und mehrere Strände erlauben Hunde außerhalb der Saison. Flüge und Apartments sind zwischen Dezember und Februar am günstigsten.',
           nl: `In de winter verandert de Algarve in een wandelaarskust: het klifpad van de Zeven Hangende Valleien boven Albufeira is prachtig bij 13°C, en meerdere stranden staan honden toe buiten het seizoen. Vluchten en appartementen zijn het goedkoopst tussen december en februari.`,
+          it: `D'inverno l'Algarve diventa una costa da camminatori: il sentiero delle Sette Valli Sospese sopra Albufeira è splendido a 13°C, e diverse spiagge ammettono i cani fuori stagione. Voli e appartamenti sono al minimo tra dicembre e febbraio.`,
         },
       },
     ],
@@ -219,6 +232,7 @@ const THEMES: Theme[] = [
       pt: 'Termas e cultura de inverno',
       de: 'Thermalbad und Winterkultur',
       nl: 'Thermale baden en wintercultuur',
+      it: 'Terme e cultura invernale',
     },
     blurb: {
       en: 'Not every winter trip is about staying warm. For a snow-and-steam holiday, an Alpine thermal town lets a dog wait cosy while you soak, and a mild historic city offers museums, markets and gentle walks. Prefer festive crowds? See our dog-friendly Christmas markets guide.',
@@ -227,6 +241,7 @@ const THEMES: Theme[] = [
       pt: 'Nem toda a viagem de inverno procura o calor. Para umas férias de neve e vapor, uma vila termal alpina deixa um cão esperar quentinho enquanto se banha, e uma cidade histórica amena oferece museus, mercados e passeios tranquilos. Prefere o ambiente festivo? Veja o nosso guia de mercados de Natal dog-friendly.',
       de: 'Nicht jede Winterreise dreht sich ums Warmbleiben. Für einen Urlaub mit Schnee und Dampf lässt eine alpine Thermalstadt Ihren Hund gemütlich warten, während Sie baden, und eine milde historische Stadt bietet Museen, Märkte und sanfte Spaziergänge. Bevorzugen Sie festliches Treiben? Sehen Sie unseren Guide zu hundefreundlichen Weihnachtsmärkten.',
       nl: 'Niet elke wintertrip draait om warm blijven. Voor een vakantie met sneeuw en stoom laat een alpine thermale stad je hond knus wachten terwijl jij baadt, en een milde historische stad biedt musea, markten en rustige wandelingen. Heb je liever feestelijke drukte? Bekijk onze gids voor hondvriendelijke kerstmarkten.',
+      it: `Non ogni viaggio invernale punta sul caldo. Per una vacanza tra neve e vapore, una cittadina termale alpina lascia il tuo cane ad aspettare al calduccio mentre ti immergi, e una città storica mite offre musei, mercatini e passeggiate tranquille. Preferisci l'atmosfera delle feste? Guarda la nostra guida ai mercatini di Natale pet-friendly.`,
     },
     destinations: [
       {
@@ -234,7 +249,7 @@ const THEMES: Theme[] = [
         name: 'Bad Gastein',
         country: 'Austria',
         janTemp: -2,
-        tag: { en: 'Alpine thermal town · Belle Époque', fr: 'Ville thermale alpine · Belle Époque', es: 'Pueblo termal alpino · Belle Époque', pt: 'Vila termal alpina · Belle Époque', de: 'Alpine Thermalstadt · Belle Époque', nl: 'Alpine thermale stad · Belle Époque' },
+        tag: { en: 'Alpine thermal town · Belle Époque', fr: 'Ville thermale alpine · Belle Époque', es: 'Pueblo termal alpino · Belle Époque', pt: 'Vila termal alpina · Belle Époque', de: 'Alpine Thermalstadt · Belle Époque', nl: 'Alpine thermale stad · Belle Époque', it: 'Cittadina termale alpina · Belle Époque' },
         why: {
           en: 'Bad Gastein stacks Belle Époque hotels up a waterfall gorge deep in the Austrian Alps. It is properly cold at minus 2°C, so pack a coat for the dog, but the snowshoe trails, the frozen waterfall and the dog-welcoming thermal hotels make it a magical winter base. A short train ride reaches the Gastein valley ski slopes.',
           fr: `Bad Gastein empile ses hôtels Belle Époque le long d'une gorge à cascade, au coeur des Alpes autrichiennes. Il y fait vraiment froid, à moins 2°C, prévoyez donc un manteau pour le chien, mais les sentiers en raquettes, la cascade gelée et les hôtels thermaux qui accueillent les chiens en font une base d'hiver magique. Un court trajet en train mène aux pistes de la vallée de Gastein.`,
@@ -242,6 +257,7 @@ const THEMES: Theme[] = [
           pt: 'Bad Gastein empilha os seus hotéis Belle Époque ao longo de um desfiladeiro com cascata, no coração dos Alpes austríacos. Faz mesmo frio, a menos 2°C, por isso leve um casaco para o cão, mas os trilhos de raquetas, a cascata gelada e os hotéis termais que acolhem cães fazem dela uma base de inverno mágica. Uma curta viagem de comboio chega às pistas do vale de Gastein.',
           de: 'Bad Gastein stapelt Belle-Époque-Hotels eine Wasserfallschlucht hinauf, tief in den österreichischen Alpen. Es ist wirklich kalt bei minus 2°C, packen Sie also einen Mantel für den Hund ein, aber die Schneeschuhwege, der gefrorene Wasserfall und die hundefreundlichen Thermalhotels machen es zu einer magischen Winterbasis. Eine kurze Zugfahrt führt zu den Skipisten im Gasteinertal.',
           nl: `Bad Gastein stapelt Belle Époque-hotels langs een waterval-kloof diep in de Oostenrijkse Alpen. Het is er echt koud bij min 2°C, dus pak een jas in voor je hond, maar de sneeuwschoenpaden, de bevroren waterval en de hondvriendelijke thermale hotels maken het een magische winterbasis. Een korte treinrit brengt je naar de skipistes van het Gasteinertal.`,
+          it: `Bad Gastein accatasta hotel Belle Époque lungo una gola con cascata, nel cuore delle Alpi austriache. Fa davvero freddo, meno 2°C, quindi porta un cappottino per il tuo cane, ma i sentieri con le ciaspole, la cascata ghiacciata e gli hotel termali che accolgono i cani ne fanno una base invernale magica. Un breve tragitto in treno raggiunge le piste da sci della valle di Gastein.`,
         },
       },
       {
@@ -249,7 +265,7 @@ const THEMES: Theme[] = [
         name: 'Granada',
         country: 'Spain',
         janTemp: 7,
-        tag: { en: 'Alhambra city · Sierra Nevada above', fr: 'Ville de l\'Alhambra · Sierra Nevada au-dessus', es: 'Ciudad de la Alhambra · Sierra Nevada arriba', pt: 'Cidade da Alhambra · Serra Nevada por cima', de: 'Alhambra-Stadt · Sierra Nevada darüber', nl: 'Alhambra-stad · Sierra Nevada erboven' },
+        tag: { en: 'Alhambra city · Sierra Nevada above', fr: 'Ville de l\'Alhambra · Sierra Nevada au-dessus', es: 'Ciudad de la Alhambra · Sierra Nevada arriba', pt: 'Cidade da Alhambra · Serra Nevada por cima', de: 'Alhambra-Stadt · Sierra Nevada darüber', nl: 'Alhambra-stad · Sierra Nevada erboven', it: `Città dell'Alhambra · Sierra Nevada sopra` },
         why: {
           en: 'Granada offers the rare winter combination of a warm city and real snow within sight: crisp 7°C days in the Albaicín and free tapas on the terraces, with the Sierra Nevada ski resort forty minutes up the road. Dogs walk the Río Darro path and the Alhambra woods below the palace.',
           fr: `Grenade offre la rare combinaison hivernale d'une ville douce et de vraie neige en vue : des journées vives à 7°C dans l'Albaicín et des tapas offertes en terrasse, avec la station de ski de la Sierra Nevada à quarante minutes de route. Les chiens parcourent le chemin du Río Darro et les bois de l'Alhambra sous le palais.`,
@@ -257,6 +273,7 @@ const THEMES: Theme[] = [
           pt: 'Granada oferece a rara combinação de inverno de uma cidade amena e neve a sério à vista: dias frescos de 7°C no Albaicín e tapas gratuitas nas esplanadas, com a estância de esqui da Serra Nevada a quarenta minutos. Os cães percorrem o caminho do Río Darro e os bosques da Alhambra por baixo do palácio.',
           de: 'Granada bietet die seltene winterliche Kombination aus einer warmen Stadt und echtem Schnee in Sichtweite: klare 7°C-Tage im Albaicín und kostenlose Tapas auf den Terrassen, mit dem Skigebiet Sierra Nevada vierzig Minuten die Straße hinauf. Hunde gehen den Río-Darro-Weg und die Alhambra-Wälder unterhalb des Palasts entlang.',
           nl: `Granada biedt de zeldzame wintercombinatie van een warme stad en echte sneeuw binnen zicht: heldere dagen van 7°C in de Albaicín en gratis tapas op de terrassen, met het skigebied Sierra Nevada veertig minuten verderop. Honden wandelen het Río Darro-pad en de Alhambra-bossen onder het paleis.`,
+          it: `Granada offre la rara combinazione invernale di una città mite e neve vera in vista: giornate frizzanti di 7°C nell'Albaicín e tapas gratis sui terrazzi, con la stazione sciistica della Sierra Nevada a quaranta minuti di strada. Il tuo cane può percorrere il sentiero del Río Darro e i boschi dell'Alhambra sotto il palazzo.`,
         },
       },
     ],
@@ -264,9 +281,9 @@ const THEMES: Theme[] = [
 ]
 
 const SIBLING_GUIDES = [
-  { slug: 'autumn-destinations-with-dog-2026', emoji: '🍂', label: { en: 'Autumn destinations with your dog', fr: 'Destinations d\'automne avec son chien', es: 'Destinos de otoño con tu perro', pt: 'Destinos de outono com o seu cão', de: 'Herbstziele mit Ihrem Hund', nl: 'Herfstbestemmingen met je hond' } },
-  { slug: 'christmas-markets-with-dog', emoji: '🎄', label: { en: 'Dog-friendly Christmas markets', fr: 'Marchés de Noël dog-friendly', es: 'Mercados navideños dog-friendly', pt: 'Mercados de Natal dog-friendly', de: 'Hundefreundliche Weihnachtsmärkte', nl: 'Hondvriendelijke kerstmarkten' } },
-  { slug: 'escape-heat-dog-europe-2026', emoji: '🌡️', label: { en: 'Escape the summer heat with your dog', fr: 'Fuir la chaleur estivale avec son chien', es: 'Escapar del calor veraniego con tu perro', pt: 'Fugir do calor de verão com o seu cão', de: 'Der Sommerhitze mit Ihrem Hund entkommen', nl: 'Ontsnap aan de zomerhitte met je hond' } },
+  { slug: 'autumn-destinations-with-dog-2026', emoji: '🍂', label: { en: 'Autumn destinations with your dog', fr: 'Destinations d\'automne avec son chien', es: 'Destinos de otoño con tu perro', pt: 'Destinos de outono com o seu cão', de: 'Herbstziele mit Ihrem Hund', nl: 'Herfstbestemmingen met je hond', it: 'Destinazioni autunnali con il tuo cane' } },
+  { slug: 'christmas-markets-with-dog', emoji: '🎄', label: { en: 'Dog-friendly Christmas markets', fr: 'Marchés de Noël dog-friendly', es: 'Mercados navideños dog-friendly', pt: 'Mercados de Natal dog-friendly', de: 'Hundefreundliche Weihnachtsmärkte', nl: 'Hondvriendelijke kerstmarkten', it: 'Mercatini di Natale pet-friendly' } },
+  { slug: 'escape-heat-dog-europe-2026', emoji: '🌡️', label: { en: 'Escape the summer heat with your dog', fr: 'Fuir la chaleur estivale avec son chien', es: 'Escapar del calor veraniego con tu perro', pt: 'Fugir do calor de verão com o seu cão', de: 'Der Sommerhitze mit Ihrem Hund entkommen', nl: 'Ontsnap aan de zomerhitte met je hond', it: 'Sfuggi al caldo estivo con il tuo cane' } },
 ]
 
 // Top 3 value-sorted pet-friendly hotels per featured destination, shown inline.
@@ -283,6 +300,7 @@ const T = {
     pt: 'Melhores destinos de inverno 2026 para viajar com o seu cão',
     de: 'Die besten Winterziele 2026 zum Reisen mit Ihrem Hund',
     nl: 'De beste winterbestemmingen 2026 om met je hond te reizen',
+    it: 'Le migliori destinazioni invernali 2026 per viaggiare con il tuo cane',
   },
   metaTitle: {
     en: '11 Best Winter Destinations to Travel With Your Dog (2026)',
@@ -291,6 +309,7 @@ const T = {
     pt: '11 melhores destinos de inverno para viajar com o seu cão (2026)',
     de: '11 beste Winterziele zum Reisen mit Ihrem Hund (2026)',
     nl: '11 beste winterbestemmingen om met je hond te reizen (2026)',
+    it: '11 migliori destinazioni invernali per viaggiare con il tuo cane (2026)',
   },
   metaDesc: {
     en: 'Where to travel with your dog in winter: winter-sun Canary Islands near 21°C, mild Andalusian and Algarve coast, and an Alpine thermal town. 11 destinations, pet-friendly hotels included.',
@@ -299,6 +318,7 @@ const T = {
     pt: 'Onde viajar com o seu cão no inverno: ilhas Canárias com sol perto dos 21°C, costa amena da Andaluzia e do Algarve, e uma vila termal alpina. 11 destinos, hotéis pet-friendly incluídos.',
     de: 'Wohin mit dem Hund im Winter reisen: Wintersonne auf den Kanarischen Inseln nahe 21°C, milde andalusische und Algarve-Küste, und eine alpine Thermalstadt. 11 Ziele, haustierfreundliche Hotels inklusive.',
     nl: 'Waar je in de winter met je hond naartoe kunt: wintersonzon op de Canarische Eilanden nabij 21°C, milde Andalusische en Algarve-kust, en een alpine thermale stad. 11 bestemmingen, huisdiervriendelijke hotels inbegrepen.',
+    it: 'Dove viaggiare con il tuo cane in inverno: sole invernale sulle Canarie vicino ai 21°C, costa mite di Andalusia e Algarve, e una cittadina termale alpina. 11 destinazioni, hotel pet-friendly inclusi.',
   },
   intro: {
     en: 'Winter is where a dog-friendly Europe splits in two. If you want warmth, the Canary Islands and Madeira keep the coast near 21°C, warm enough to swim, while mainland Andalusia and the Algarve stay mild and empty. If you want snow, an Alpine thermal town or a historic city with mountains behind it does the job. These 11 destinations cover both, and every one links straight to its pet-friendly hotels.',
@@ -307,17 +327,18 @@ const T = {
     pt: 'O inverno divide em dois a Europa dog-friendly. Se quer calor, as ilhas Canárias e a Madeira mantêm a costa perto dos 21°C, quente que chegue para nadar, enquanto a Andaluzia continental e o Algarve se mantêm amenos e vazios. Se quer neve, uma vila termal alpina ou uma cidade histórica encostada às montanhas resolvem. Estes 11 destinos cobrem ambos, e cada um liga diretamente aos seus hotéis pet-friendly.',
     de: 'Der Winter teilt das hundefreundliche Europa in zwei Teile. Wer Wärme sucht: Die Kanarischen Inseln und Madeira halten die Küste nahe 21°C, warm genug zum Schwimmen, während das andalusische Festland und die Algarve mild und leer bleiben. Wer Schnee sucht: Eine alpine Thermalstadt oder eine historische Stadt mit Bergen im Hintergrund erfüllt den Zweck. Diese 11 Ziele decken beides ab, und jedes führt direkt zu seinen haustierfreundlichen Hotels.',
     nl: 'De winter splitst hondvriendelijk Europa in tweeën. Wil je warmte, dan houden de Canarische Eilanden en Madeira de kust rond de 21°C, warm genoeg om te zwemmen, terwijl het Andalusische vasteland en de Algarve mild en leeg blijven. Wil je sneeuw, dan doet een alpine thermale stad of een historische stad met bergen op de achtergrond het prima. Deze 11 bestemmingen dekken beide, en elke bestemming linkt direct naar zijn huisdiervriendelijke hotels.',
+    it: `L'inverno divide in due l'Europa pet-friendly. Se cerchi il caldo, le Canarie e Madeira tengono la costa vicino ai 21°C, abbastanza caldo per nuotare, mentre l'Andalusia continentale e l'Algarve restano miti e vuote. Se cerchi la neve, una cittadina termale alpina o una città storica con le montagne alle spalle fanno al caso tuo. Queste 11 destinazioni coprono entrambe le opzioni, e ognuna rimanda direttamente ai suoi hotel pet-friendly.`,
   },
-  janTemp: { en: 'Jan avg high', fr: 'Max moy. janv.', es: 'Máx. prom. ene.', pt: 'Máx. méd. jan.', de: 'Ø Höchstwert Jan.', nl: 'Gem. max. jan.' },
-  seeHotels: { en: 'See pet-friendly hotels', fr: 'Voir les hôtels pet-friendly', es: 'Ver hoteles pet-friendly', pt: 'Ver hotéis pet-friendly', de: 'Haustierfreundliche Hotels ansehen', nl: 'Bekijk huisdiervriendelijke hotels' },
-  seeGuide: { en: 'Destination guide', fr: 'Guide destination', es: 'Guía del destino', pt: 'Guia do destino', de: 'Reiseführer zum Ziel', nl: 'Reisgids bestemming' },
-  fromWord: { en: 'from', fr: 'dès', es: 'desde', pt: 'desde', de: 'ab', nl: 'vanaf' },
-  noFee: { en: 'no pet fee', fr: 'sans supplément', es: 'sin cargo mascota', pt: 'sem suplemento', de: 'keine Haustiergebühr', nl: 'geen huisdiertoeslag' },
-  ourPicks: { en: '3 pet-friendly picks', fr: '3 adresses pet-friendly', es: '3 opciones pet-friendly', pt: '3 opções pet-friendly', de: '3 haustierfreundliche Empfehlungen', nl: '3 huisdiervriendelijke tips' },
-  breadHome: { en: 'Home', fr: 'Accueil', es: 'Inicio', pt: 'Início', de: 'Startseite', nl: 'Home' },
-  breadGuides: { en: 'Guides', fr: 'Guides', es: 'Guías', pt: 'Guias', de: 'Guides', nl: 'Gidsen' },
-  kicker: { en: 'Winter & dogs', fr: 'Hiver & chien', es: 'Invierno & perro', pt: 'Inverno & cão', de: 'Winter & Hund', nl: 'Winter & hond' },
-  siblingTitle: { en: 'Plan the rest of the year', fr: 'Planifier le reste de l\'année', es: 'Planifica el resto del año', pt: 'Planeie o resto do ano', de: 'Den Rest des Jahres planen', nl: 'Plan de rest van het jaar' },
+  janTemp: { en: 'Jan avg high', fr: 'Max moy. janv.', es: 'Máx. prom. ene.', pt: 'Máx. méd. jan.', de: 'Ø Höchstwert Jan.', nl: 'Gem. max. jan.', it: 'Max media gen.' },
+  seeHotels: { en: 'See pet-friendly hotels', fr: 'Voir les hôtels pet-friendly', es: 'Ver hoteles pet-friendly', pt: 'Ver hotéis pet-friendly', de: 'Haustierfreundliche Hotels ansehen', nl: 'Bekijk huisdiervriendelijke hotels', it: 'Vedi gli hotel pet-friendly' },
+  seeGuide: { en: 'Destination guide', fr: 'Guide destination', es: 'Guía del destino', pt: 'Guia do destino', de: 'Reiseführer zum Ziel', nl: 'Reisgids bestemming', it: 'Guida della destinazione' },
+  fromWord: { en: 'from', fr: 'dès', es: 'desde', pt: 'desde', de: 'ab', nl: 'vanaf', it: 'da' },
+  noFee: { en: 'no pet fee', fr: 'sans supplément', es: 'sin cargo mascota', pt: 'sem suplemento', de: 'keine Haustiergebühr', nl: 'geen huisdiertoeslag', it: 'nessun supplemento animali' },
+  ourPicks: { en: '3 pet-friendly picks', fr: '3 adresses pet-friendly', es: '3 opciones pet-friendly', pt: '3 opções pet-friendly', de: '3 haustierfreundliche Empfehlungen', nl: '3 huisdiervriendelijke tips', it: '3 indirizzi pet-friendly' },
+  breadHome: { en: 'Home', fr: 'Accueil', es: 'Inicio', pt: 'Início', de: 'Startseite', nl: 'Home', it: 'Home' },
+  breadGuides: { en: 'Guides', fr: 'Guides', es: 'Guías', pt: 'Guias', de: 'Guides', nl: 'Gidsen', it: 'Guide' },
+  kicker: { en: 'Winter & dogs', fr: 'Hiver & chien', es: 'Invierno & perro', pt: 'Inverno & cão', de: 'Winter & Hund', nl: 'Winter & hond', it: 'Inverno & cani' },
+  siblingTitle: { en: 'Plan the rest of the year', fr: 'Planifier le reste de l\'année', es: 'Planifica el resto del año', pt: 'Planeie o resto do ano', de: 'Den Rest des Jahres planen', nl: 'Plan de rest van het jaar', it: `Pianifica il resto dell'anno` },
   faq: {
     q1: {
       en: 'Where can I travel with my dog in winter to find warm weather?',
@@ -326,6 +347,7 @@ const T = {
       pt: 'Para onde posso viajar com o meu cão no inverno para ter calor?',
       de: 'Wohin kann ich mit meinem Hund im Winter reisen, um warmes Wetter zu finden?',
       nl: 'Waar kan ik in de winter met mijn hond naartoe voor warm weer?',
+      it: 'Dove posso viaggiare con il mio cane in inverno per trovare tempo caldo?',
     },
     a1: {
       en: 'The Canary Islands are Europe\'s warmest winter destination, with Tenerife, Gran Canaria and Lanzarote all near 21°C in January and dog beaches open. Madeira (Funchal) is milder and greener at 16°C. On the mainland, the Costa del Sol (Fuengirola, Nerja) and the Algarve stay in the mid-to-high teens with dry, sunny days. Fuengirola even keeps a year-round dog beach at Castillo Sohail.',
@@ -334,6 +356,7 @@ const T = {
       pt: 'As ilhas Canárias são o destino de inverno mais quente da Europa: Tenerife, Gran Canaria e Lanzarote rondam os 21°C em janeiro, com praias caninas abertas. A Madeira (Funchal) é mais amena e verde a 16°C. No continente, a Costa del Sol (Fuengirola, Nerja) e o Algarve mantêm-se entre os 13 e os 17°C com dias secos e soalheiros. Fuengirola mantém até uma praia canina aberta todo o ano no Castillo Sohail.',
       de: 'Die Kanarischen Inseln sind Europas wärmstes Winterziel: Teneriffa, Gran Canaria und Lanzarote liegen im Januar alle nahe bei 21°C, mit geöffneten Hundestränden. Madeira (Funchal) ist milder und grüner bei 16°C. Auf dem Festland bleiben die Costa del Sol (Fuengirola, Nerja) und die Algarve im mittleren bis oberen Zehnergrad-Bereich mit trockenen, sonnigen Tagen. Fuengirola unterhält sogar einen ganzjährigen Hundestrand am Castillo Sohail.',
       nl: `De Canarische Eilanden zijn Europa's warmste winterbestemming: Tenerife, Gran Canaria en Lanzarote liggen in januari allemaal rond de 21°C, met geopende hondenstranden. Madeira (Funchal) is milder en groener bij 16°C. Op het vasteland blijven de Costa del Sol (Fuengirola, Nerja) en de Algarve rond de 13 tot 17°C met droge, zonnige dagen. Fuengirola houdt zelfs een hondenstrand het hele jaar open bij Castillo Sohail.`,
+      it: `Le Canarie sono la destinazione invernale più calda d'Europa: Tenerife, Gran Canaria e Lanzarote sono tutte vicine ai 21°C a gennaio, con spiagge per cani aperte. Madeira (Funchal) è più mite e verde a 16°C. Sulla terraferma, la Costa del Sol (Fuengirola, Nerja) e l'Algarve restano tra i 13 e i 17°C con giornate secche e soleggiate. Fuengirola mantiene persino una spiaggia per cani aperta tutto l'anno a Castillo Sohail.`,
     },
     q2: {
       en: 'Can I take my dog on a winter or ski trip to the Alps?',
@@ -342,6 +365,7 @@ const T = {
       pt: 'Posso levar o meu cão numa viagem de inverno ou de esqui aos Alpes?',
       de: 'Kann ich meinen Hund auf eine Winter- oder Skireise in die Alpen mitnehmen?',
       nl: 'Kan ik mijn hond meenemen op een winter- of skitrip naar de Alpen?',
+      it: 'Posso portare il mio cane in un viaggio invernale o sugli sci sulle Alpi?',
     },
     a2: {
       en: 'Yes, with preparation. Many Alpine towns like Bad Gastein have dog-welcoming thermal hotels and snowshoe or winter-walking trails where a dog can join you. Your dog cannot go on the ski slopes while you ski, so plan a day structure that works, and pack a warm coat and paw protection against ice and grit salt. Short-haired and small dogs feel the cold fast below zero.',
@@ -350,6 +374,7 @@ const T = {
       pt: 'Sim, com preparação. Muitas vilas alpinas como Bad Gastein têm hotéis termais que acolhem cães e trilhos de raquetas ou passeios de inverno onde o cão pode acompanhá-lo. O seu cão não pode ir às pistas enquanto esquia, por isso planeie uma estrutura de dia que funcione, e leve um casaco quente e proteção para as almofadinhas contra o gelo e o sal de degelo. Os cães de pelo curto e pequenos sentem o frio depressa abaixo de zero.',
       de: 'Ja, mit Vorbereitung. Viele alpine Orte wie Bad Gastein verfügen über hundefreundliche Thermalhotels sowie Schneeschuh- oder Winterwanderwege, auf denen ein Hund Sie begleiten kann. Ihr Hund kann nicht mit auf die Skipisten, während Sie skifahren, planen Sie also eine funktionierende Tagesstruktur und packen Sie einen warmen Mantel sowie Pfotenschutz gegen Eis und Streusalz ein. Kurzhaarige und kleine Hunde frieren unter null Grad schnell.',
       nl: `Ja, met voorbereiding. Veel alpine dorpen zoals Bad Gastein hebben hondvriendelijke thermale hotels en sneeuwschoen- of winterwandelpaden waar je hond mee kan. Je hond mag niet mee de piste op terwijl jij skiet, dus plan een dagstructuur die werkt, en pak een warme jas en pootbescherming in tegen ijs en strooizout. Korthaar- en kleine honden hebben het snel koud onder het vriespunt.`,
+      it: `Sì, con un po' di preparazione. Molte cittadine alpine come Bad Gastein hanno hotel termali che accolgono i cani e sentieri con le ciaspole o passeggiate invernali dove il tuo cane può accompagnarti. Il tuo cane non può salire sulle piste mentre sci, quindi pianifica una struttura di giornata che funzioni, e porta un cappottino caldo e una protezione per le zampe contro ghiaccio e sale antigelo. I cani a pelo corto e di piccola taglia sentono il freddo in fretta sotto lo zero.`,
     },
     q3: {
       en: 'Do dogs need extra care travelling in winter?',
@@ -358,6 +383,7 @@ const T = {
       pt: 'Os cães precisam de cuidados especiais ao viajar no inverno?',
       de: 'Brauchen Hunde im Winter besondere Pflege auf Reisen?',
       nl: 'Hebben honden extra zorg nodig als ze in de winter reizen?',
+      it: 'I cani hanno bisogno di cure extra quando viaggiano in inverno?',
     },
     a3: {
       en: 'In warm destinations, very little beyond the usual: keep up tick and flea prevention, which continues year-round in the Canaries and southern coast. In cold and Alpine destinations, protect against the opposite risks: a coat for short-haired or small dogs, paw balm or boots against ice and road salt, and shorter outings below freezing. Check the pet-import rules for your route, and carry your EU pet passport or Animal Health Certificate.',
@@ -366,12 +392,13 @@ const T = {
       pt: 'Em destinos quentes, pouco além do habitual: mantenha a prevenção contra carraças e pulgas, que continua ativa todo o ano nas Canárias e na costa sul. Em destinos frios e alpinos, proteja contra os riscos contrários: um casaco para cães de pelo curto ou pequenos, bálsamo ou botas para as almofadinhas contra o gelo e o sal da estrada, e saídas mais curtas abaixo de zero. Consulte as regras de entrada para o seu percurso e leve o passaporte europeu para animais ou o Animal Health Certificate.',
       de: 'In warmen Zielen kaum mehr als sonst: Halten Sie die Zecken- und Flohprophylaxe aufrecht, die auf den Kanaren und der Südküste ganzjährig weiterläuft. In kalten und alpinen Zielen schützen Sie vor den entgegengesetzten Risiken: einen Mantel für kurzhaarige oder kleine Hunde, Pfotenbalsam oder Schuhe gegen Eis und Streusalz, sowie kürzere Ausflüge unter dem Gefrierpunkt. Prüfen Sie die Einreisebestimmungen für Haustiere auf Ihrer Route und führen Sie den EU-Heimtierausweis oder das Animal Health Certificate mit.',
       nl: `In warme bestemmingen nauwelijks meer dan gewoonlijk: houd de teken- en vlooienpreventie vol, die op de Canarische Eilanden en de zuidkust het hele jaar doorloopt. In koude en alpine bestemmingen bescherm je tegen de tegenovergestelde risico's: een jas voor korthaar- of kleine honden, pootbalsem of laarsjes tegen ijs en strooizout, en kortere uitjes onder het vriespunt. Controleer de invoerregels voor huisdieren op je route en neem het EU-huisdierenpaspoort of het Animal Health Certificate mee.`,
+      it: `Nelle destinazioni calde, ben poco oltre il solito: mantieni la prevenzione contro zecche e pulci, che continua tutto l'anno alle Canarie e sulla costa sud. Nelle destinazioni fredde e alpine, proteggi il tuo cane dai rischi opposti: un cappottino per i cani a pelo corto o di piccola taglia, balsamo o scarpette per le zampe contro ghiaccio e sale stradale, e uscite più brevi sotto lo zero. Controlla le regole di ingresso per gli animali sul tuo percorso, e porta con te il passaporto europeo per animali o l'Animal Health Certificate.`,
     },
   },
 }
 
 const p = (o: L4, locale: string) =>
-  locale === 'fr' ? o.fr : locale === 'es' ? o.es : locale === 'pt' ? o.pt : locale === 'de' ? o.de : locale === 'nl' ? o.nl : o.en
+  locale === 'fr' ? o.fr : locale === 'es' ? o.es : locale === 'pt' ? o.pt : locale === 'de' ? o.de : locale === 'nl' ? o.nl : locale === 'it' ? o.it : o.en
 
 export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))

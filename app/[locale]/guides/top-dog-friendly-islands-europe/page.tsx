@@ -26,7 +26,7 @@ type IslandEntry = {
   islandName: string
   country: string
   flag: string
-  reason: { en: string; fr: string; es: string; pt: string; de: string; nl: string }
+  reason: { en: string; fr: string; es: string; pt: string; de: string; nl: string; it: string }
 }
 
 const TOP_25: IslandEntry[] = [
@@ -37,6 +37,7 @@ const TOP_25: IslandEntry[] = [
     pt: `A maior ilha das Baleares combina abundantes fincas pet-friendly no interior com várias praias caninas oficialmente designadas ao longo da costa, e um clima ameno o ano inteiro, ideal para viajar com cão.`,
     de: `Die größte Baleareninsel vereint zahlreiche haustierfreundliche Fincas im Landesinneren mit mehreren offiziell ausgewiesenen Hundestränden an der Küste, dazu ein ganzjährig mildes Klima, ideal für Reisen mit Hund.`,
     nl: `Het grootste Balearen-eiland combineert talloze huisdiervriendelijke finca's landinwaarts met verschillende officieel aangewezen hondenstranden aan de kust, plus een jaarrond mild klimaat, ideaal als je met je hond op reis gaat.`,
+    it: `La più grande isola delle Baleari unisce numerose finca pet-friendly nell'entroterra a diverse spiagge per cani ufficialmente designate lungo la costa, con un clima mite tutto l'anno ideale se viaggi con il tuo cane.`,
   }},
   { slug: 'funchal', rank: 2, photoSlug: 'funchal', islandName: 'Madeira', country: 'Portugal', flag: '🇵🇹', reason: {
     en: `Year-round mild climate (18-24 °C even in winter), an extensive network of levadas for dog walking, and a pet-friendly hotel inventory that has grown sharply since 2023.`,
@@ -45,6 +46,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Clima ameno o ano inteiro (18-24 °C mesmo no inverno), uma vasta rede de levadas para passear o cão, e uma oferta de hotéis pet-friendly em forte crescimento desde 2023.`,
     de: `Ganzjährig mildes Klima (18-24 °C selbst im Winter), ein ausgedehntes Netz von Levadas zum Gassigehen, und ein Angebot an haustierfreundlichen Hotels, das seit 2023 stark gewachsen ist.`,
     nl: `Jaarrond mild klimaat (18-24 °C zelfs in de winter), een uitgebreid netwerk van levadas om mee te wandelen met je hond, en een aanbod huisdiervriendelijke hotels dat sinds 2023 flink is gegroeid.`,
+    it: `Clima mite tutto l'anno (18-24°C anche in inverno), una fitta rete di levadas per passeggiare con il cane, e un'offerta di hotel pet-friendly cresciuta molto dal 2023.`,
   }},
   { slug: 'heraklion', rank: 3, photoSlug: 'heraklion', islandName: 'Crete', country: 'Greece', flag: '🇬🇷', reason: {
     en: `The biggest Greek island offers Anek and Minoan ferries that accept dogs (in cabins or designated pet areas), a deep network of mountain villages and tavernas relaxed about dogs, and quieter shoulder-season beaches.`,
@@ -53,6 +55,7 @@ const TOP_25: IslandEntry[] = [
     pt: `A maior ilha grega oferece ferries Anek e Minoan que aceitam cães (em camarote ou zonas para animais), uma rede profunda de aldeias de montanha e tavernas descontraídas com cães, e praias tranquilas fora de época.`,
     de: `Die größte griechische Insel bietet Anek- und Minoan-Fähren, die Hunde an Bord akzeptieren (in der Kabine oder in speziellen Tierbereichen), ein dichtes Netz von Bergdörfern und Tavernen, die traditionell entspannt mit Hunden umgehen, sowie ruhigere Strände in der Nebensaison.`,
     nl: `Het grootste Griekse eiland heeft Anek- en Minoan-veerboten die honden aan boord toelaten (in de cabine of in speciale huisdierzones), een dicht netwerk van bergdorpjes en taverna's die van oudsher relaxed omgaan met honden, en rustigere stranden buiten het hoogseizoen.`,
+    it: `La più grande isola greca offre traghetti Anek e Minoan che accettano cani (in cabina o in aree dedicate), una fitta rete di villaggi di montagna e taverne da sempre tranquille con i cani, e spiagge più vuote in bassa stagione.`,
   }},
   { slug: 'palermo', rank: 4, photoSlug: 'palermo', islandName: 'Sicily', country: 'Italy', flag: '🇮🇹', reason: {
     en: `The largest Mediterranean island. Bau Beach Mondello (near Palermo) is one of Italy's most established dog beaches, Etna offers high-altitude dog walks in summer, and Sicilian agriturismi are widely pet-tolerant.`,
@@ -61,6 +64,7 @@ const TOP_25: IslandEntry[] = [
     pt: `A maior ilha do Mediterrâneo. Bau Beach Mondello (perto de Palermo) é uma das praias caninas italianas mais estabelecidas, o Etna oferece passeios em altitude no verão, e os agriturismi sicilianos são largamente tolerantes com cães.`,
     de: `Die größte Insel im Mittelmeer. Der Bau Beach Mondello bei Palermo gehört zu Italiens etabliertesten Hundestränden, der Ätna bietet im Sommer Wanderungen in großer Höhe, und sizilianische Agriturismi sind überwiegend hundefreundlich.`,
     nl: `Het grootste eiland in de Middellandse Zee. Bau Beach Mondello bij Palermo is een van Italië's meest gevestigde hondenstranden, de Etna biedt 's zomers wandelingen op grote hoogte, en Siciliaanse agriturismi zijn overwegend hondvriendelijk.`,
+    it: `La più grande isola del Mediterraneo. La Bau Beach di Mondello, vicino a Palermo, è una delle spiagge per cani più storiche d'Italia, l'Etna offre passeggiate in quota d'estate, e gli agriturismi siciliani sono quasi sempre pet-tolerant.`,
   }},
   { slug: 'cagliari', rank: 5, photoSlug: 'sardinia', islandName: 'Sardinia', country: 'Italy', flag: '🇮🇹', reason: {
     en: `Beach-heavy and lower-density than Sicily, with pet-friendly agriturismi inland and a coastline dotted with cove beaches where dogs are tolerated off-season.`,
@@ -69,6 +73,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Muito focada em praias e menos povoada do que a Sicília, com agriturismi pet-friendly no interior e um litoral pontuado de enseadas onde os cães são tolerados fora de época.`,
     de: `Sehr strandlastig und dünner besiedelt als Sizilien, mit haustierfreundlichen Agriturismi im Landesinneren und einer Küste voller Buchten, in denen Hunde außerhalb der Hochsaison toleriert werden.`,
     nl: `Veel strand en dunner bevolkt dan Sicilië, met huisdiervriendelijke agriturismi landinwaarts en een kust vol baaien waar honden buiten het hoogseizoen worden getolereerd.`,
+    it: `Molte spiagge e densità abitativa più bassa della Sicilia, con agriturismi pet-friendly nell'entroterra e una costa punteggiata di calette dove i cani sono tollerati fuori stagione.`,
   }},
   { slug: 'ibiza', rank: 6, photoSlug: 'ibiza', islandName: 'Ibiza', country: 'Spain', flag: '🇪🇸', reason: {
     en: `Cala Bassa and a few northern coves accept dogs out of peak season, the pine-forested interior is much calmer than the south, and shoulder-season Ibiza is genuinely dog-relaxing.`,
@@ -77,6 +82,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Cala Bassa e algumas enseadas a norte aceitam cães fora da época alta, o interior coberto de pinhais é bem mais calmo do que o sul, e Ibiza fora de época é genuinamente relaxante para cães.`,
     de: `Cala Bassa und einige Buchten im Norden erlauben Hunde außerhalb der Hauptsaison, das kiefernbewaldete Landesinnere ist deutlich ruhiger als der Süden, und Ibiza in der Nebensaison ist eine wirklich entspannte Hundedestination.`,
     nl: `Cala Bassa en een paar baaien in het noorden laten honden toe buiten het hoogseizoen, het met dennen begroeide binnenland is veel rustiger dan het zuiden, en Ibiza buiten het seizoen is echt een ontspannen hondenbestemming.`,
+    it: `Cala Bassa e alcune calette a nord accettano cani fuori dall'alta stagione, l'entroterra coperto di pinete è molto più tranquillo del sud, e Ibiza in bassa stagione è davvero rilassante per chi viaggia con un cane.`,
   }},
   { slug: null, rank: 7, photoSlug: 'menorca', islandName: 'Menorca', country: 'Spain', flag: '🇪🇸', reason: {
     en: `The quieter Balearic, with a designated dog beach near Son Bou and the Camí de Cavalls coastal trail offering 185 km of off-season dog walking with sea views all the way.`,
@@ -85,6 +91,7 @@ const TOP_25: IslandEntry[] = [
     pt: `A balear mais tranquila, com uma praia canina designada perto de Son Bou e o Camí de Cavalls que oferece 185 km de passeio canino fora de época com vista para o mar em todo o percurso.`,
     de: `Die ruhigere Baleareninsel, mit einem ausgewiesenen Hundestrand nahe Son Bou und dem Camí de Cavalls, der außerhalb der Sommersaison 185 km Küstenweg zum Gassigehen mit durchgehendem Meerblick bietet.`,
     nl: `Het rustigere Balearen-eiland, met een aangewezen hondenstrand vlak bij Son Bou en de Camí de Cavalls, die buiten het zomerseizoen 185 km kustpad biedt om mee te wandelen, met de hele route uitzicht op zee.`,
+    it: `La Baleare più tranquilla, con una spiaggia per cani ufficiale vicino a Son Bou e il Camí de Cavalls, che offre 185 km di sentiero costiero da percorrere con il cane fuori stagione estiva, con vista mare per tutto il percorso.`,
   }},
   { slug: 'ajaccio', rank: 8, photoSlug: 'corsica', islandName: 'Corsica', country: 'France', flag: '🇫🇷', reason: {
     en: `Mountains meet beach. Calvi and Bonifacio both have pet-friendly old towns, the GR20 (in its lower sections) accepts dogs, and Corsica Ferries officially welcomes dogs in cabins.`,
@@ -93,6 +100,7 @@ const TOP_25: IslandEntry[] = [
     pt: `A montanha encontra a praia. Calvi e Bonifacio têm ambos centros antigos pet-friendly, o GR20 (nos seus troços baixos) aceita cães, e a Corsica Ferries acolhe oficialmente cães em camarote.`,
     de: `Berge treffen auf Strand. Calvi und Bonifacio haben beide haustierfreundliche Altstädte, der GR20 akzeptiert Hunde in seinen unteren Abschnitten, und Corsica Ferries heißt Hunde offiziell in Kabinen willkommen.`,
     nl: `Bergen ontmoeten strand. Calvi en Bonifacio hebben allebei een huisdiervriendelijke oude stad, de GR20 laat honden toe op de lagere trajecten, en Corsica Ferries heet honden officieel welkom in de cabines.`,
+    it: `Le montagne incontrano il mare. Calvi e Bonifacio hanno entrambe un centro storico pet-friendly, il GR20 (nei tratti più bassi) accetta i cani, e Corsica Ferries accoglie ufficialmente i cani in cabina.`,
   }},
   { slug: 'reykjavik', rank: 9, photoSlug: 'reykjavik', islandName: 'Iceland', country: 'Iceland', flag: '🇮🇸', reason: {
     en: `Iceland counts as a (very large) island. The Heiðmörk reserve and dog beaches around Nauthólsvík are well used by locals, but strict import rules (4-week minimum quarantine, expensive paperwork) make this a destination for long stays only.`,
@@ -101,6 +109,7 @@ const TOP_25: IslandEntry[] = [
     pt: `A Islândia conta como uma ilha (muito grande). A reserva de Heiðmörk e as praias caninas em Nauthólsvík são muito usadas pelos locais, mas as regras de importação rigorosas (quarentena mínima de 4 semanas, burocracia cara) fazem dela um destino apenas para estadias longas.`,
     de: `Island zählt als (sehr große) Insel. Das Naturreservat Heiðmörk und die Hundestrände bei Nauthólsvík sind bei Einheimischen beliebt, doch strenge Einfuhrbestimmungen (mindestens 4 Wochen Quarantäne, teurer Papierkram) machen sie nur für lange Aufenthalte zum sinnvollen Ziel.`,
     nl: `IJsland telt als een (heel groot) eiland. Het natuurreservaat Heiðmörk en de hondenstranden bij Nauthólsvík zijn populair bij locals, maar strenge invoerregels (minimaal 4 weken quarantaine, dure papierwinkel) maken het alleen zinvol als je lang blijft.`,
+    it: `L'Islanda conta come un'isola (molto grande). La riserva di Heiðmörk e le spiagge per cani intorno a Nauthólsvík sono molto frequentate dai locali, ma regole d'importazione rigide (quarantena minima di 4 settimane, pratiche costose) la rendono adatta solo a soggiorni lunghi.`,
   }},
   { slug: null, rank: 10, photoSlug: 'hvar', islandName: 'Hvar', country: 'Croatia', flag: '🇭🇷', reason: {
     en: `Boutique pet-friendly stays cluster around Stari Grad and Jelsa, much calmer than Hvar Town. Jadrolinija ferries from Split accept leashed dogs, and pine-shaded coves are walkable with dogs out of peak.`,
@@ -109,6 +118,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Os alojamentos pet-friendly boutique concentram-se em Stari Grad e Jelsa, muito mais calmos do que Hvar Town. Os ferries Jadrolinija a partir de Split aceitam cães com trela, e as enseadas com sombra de pinheiros são passeáveis com cão fora de época.`,
     de: `Boutique-Unterkünfte für Haustiere konzentrieren sich auf Stari Grad und Jelsa, deutlich ruhiger als Hvar Stadt. Die Jadrolinija-Fähren ab Split akzeptieren Hunde an der Leine, und die pinienbeschatteten Buchten sind außerhalb der Hochsaison mit Hund begehbar.`,
     nl: `Boetiek-accommodaties voor huisdieren concentreren zich rond Stari Grad en Jelsa, veel rustiger dan Hvar Stad. De Jadrolinija-veerboten vanuit Split laten honden aan de lijn toe, en de door pijnbomen beschaduwde baaien zijn buiten het hoogseizoen prima te belopen met je hond.`,
+    it: `Gli alloggi boutique pet-friendly si concentrano a Stari Grad e Jelsa, molto più tranquille di Hvar Town. I traghetti Jadrolinija da Split accettano cani al guinzaglio, e le calette ombreggiate dai pini si possono percorrere con il cane fuori dall'alta stagione.`,
   }},
   { slug: null, rank: 11, photoSlug: 'korcula', islandName: 'Korčula', country: 'Croatia', flag: '🇭🇷', reason: {
     en: `Quiet, walkable and ferry-accessible from Split. The old walled town is small enough to cross with a dog in 20 minutes, and stone beaches around Lumbarda are dog-tolerant outside high season.`,
@@ -117,6 +127,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Calma, pedonal e acessível por ferry a partir de Split. O centro antigo amuralhado atravessa-se em 20 minutos com cão, e as praias de pedra à volta de Lumbarda toleram cães fora de época alta.`,
     de: `Ruhig, fußläufig und per Fähre von Split aus erreichbar. Die ummauerte Altstadt lässt sich mit Hund in 20 Minuten durchqueren, und die Steinstrände rund um Lumbarda tolerieren Hunde außerhalb der Hochsaison.`,
     nl: `Rustig, goed te belopen en per veerboot vanuit Split bereikbaar. De ommuurde oude stad steek je met je hond in 20 minuten over, en de stenen stranden rond Lumbarda tolereren honden buiten het hoogseizoen.`,
+    it: `Tranquilla, percorribile a piedi e raggiungibile in traghetto da Split. Il piccolo centro storico murato si attraversa con il cane in 20 minuti, e le spiagge di pietra intorno a Lumbarda tollerano i cani fuori dall'alta stagione.`,
   }},
   { slug: 'split', rank: 12, photoSlug: 'split', islandName: 'Brač', country: 'Croatia', flag: '🇭🇷', reason: {
     en: `Brač is a 50-minute ferry from Split. Zlatni Rat (the famous V-shaped beach) has a seasonal dog zone at its western end, and the island's interior pine forests are open for dog walking year-round.`,
@@ -125,6 +136,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Brač fica a 50 min de ferry de Split. Zlatni Rat (a famosa praia em V) tem uma zona canina sazonal na extremidade oeste, e os pinhais do interior estão abertos a passeios caninos o ano inteiro.`,
     de: `Brač ist 50 Minuten per Fähre von Split entfernt. Zlatni Rat (der berühmte V-förmige Strand) hat an seinem Westende eine saisonale Hundezone, und die Kiefernwälder im Inselinneren sind ganzjährig zum Gassigehen geöffnet.`,
     nl: `Brač ligt 50 minuten per veerboot van Split. Zlatni Rat (het beroemde V-vormige strand) heeft aan zijn westpunt een seizoensgebonden hondenzone, en de dennenbossen in het binnenland zijn het hele jaar door open om te wandelen met je hond.`,
+    it: `Brač è a 50 minuti di traghetto da Split. Zlatni Rat (la famosa spiaggia a V) ha una zona canina stagionale all'estremità occidentale, e le pinete dell'entroterra sono aperte alle passeggiate con il cane tutto l'anno.`,
   }},
   { slug: null, rank: 13, photoSlug: 'rhodes', islandName: 'Rhodes', country: 'Greece', flag: '🇬🇷', reason: {
     en: `The medieval Old Town of Rhodes is walkable with a leashed dog, and the cliff paths around Lindos are open year-round. Dog-friendly tavernas are the norm rather than the exception in inland villages.`,
@@ -133,6 +145,7 @@ const TOP_25: IslandEntry[] = [
     pt: `O centro medieval de Rodes é passeável com cão à trela, e os trilhos de falésia em redor de Lindos estão abertos o ano inteiro. As tavernas pet-friendly são a norma e não a exceção nas aldeias do interior.`,
     de: `Die mittelalterliche Altstadt von Rhodos lässt sich mit Hund an der Leine durchqueren, und die Klippenwege rund um Lindos sind ganzjährig geöffnet. Hundefreundliche Tavernen sind in den Dörfern im Landesinneren die Regel, nicht die Ausnahme.`,
     nl: `De middeleeuwse oude stad van Rhodos steek je met je hond aan de lijn zo over, en de klifpaden rond Lindos zijn het hele jaar open. Hondvriendelijke taverna's zijn in de dorpen landinwaarts eerder regel dan uitzondering.`,
+    it: `Il centro storico medievale di Rodi si attraversa con il cane al guinzaglio, e i sentieri sulle scogliere intorno a Lindos sono aperti tutto l'anno. Nei villaggi dell'entroterra le taverne pet-friendly sono la norma, non l'eccezione.`,
   }},
   { slug: null, rank: 14, photoSlug: 'santorini', islandName: 'Santorini', country: 'Greece', flag: '🇬🇷', reason: {
     en: `The caldera-rim walk from Fira to Oia is one of Europe's most scenic dog walks, but summer heat (35 °C+ from June to September) and crowded narrow lanes make Santorini a winter and early-spring choice with a dog.`,
@@ -141,6 +154,7 @@ const TOP_25: IslandEntry[] = [
     pt: `O passeio pela orla da caldeira de Fira a Oia é um dos mais belos da Europa com cão, mas o calor estival (35 °C+ de junho a setembro) e as ruelas apinhadas tornam-na uma escolha de inverno e início de primavera.`,
     de: `Der Spaziergang am Kalderarand von Fira nach Oia zählt zu den schönsten Hundewanderungen Europas, doch die Sommerhitze (35 °C+ von Juni bis September) und die überfüllten engen Gassen machen Santorin zu einem Winter- und Vorfrühlingsziel mit Hund.`,
     nl: `De wandeling langs de calderarand van Fira naar Oia is een van de mooiste hondenwandelingen van Europa, maar de zomerhitte (35 °C+ van juni tot september) en de drukke smalle straatjes maken Santorini vooral geschikt voor de winter en het vroege voorjaar met je hond.`,
+    it: `La passeggiata sul bordo della caldera da Fira a Oia è una delle più suggestive d'Europa con il cane, ma il caldo estivo (oltre 35°C da giugno a settembre) e i vicoli affollati rendono Santorini una scelta migliore per l'inverno e l'inizio primavera.`,
   }},
   { slug: null, rank: 15, photoSlug: 'mykonos', islandName: 'Mykonos', country: 'Greece', flag: '🇬🇷', reason: {
     en: `In high season Mykonos is too hectic for most dogs, but the winter island is a different place: empty white-washed lanes, terrace cafés that welcome dogs and quiet beaches at Agios Sostis.`,
@@ -149,6 +163,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Em época alta Mykonos é demasiado frenética para a maioria dos cães, mas a ilha no inverno é outra coisa: ruelas brancas vazias, esplanadas de café que acolhem cães e praias calmas em Agios Sostis.`,
     de: `In der Hochsaison ist Mykonos für die meisten Hunde zu hektisch, doch die Insel im Winter ist ein anderer Ort: leere weißgetünchte Gassen, Café-Terrassen, die Hunde willkommen heißen, und ruhige Strände bei Agios Sostis.`,
     nl: `In het hoogseizoen is Mykonos voor de meeste honden te hectisch, maar het eiland in de winter is een heel andere plek: lege witgekalkte straatjes, caféterrassen die honden welkom heten en rustige stranden bij Agios Sostis.`,
+    it: `In alta stagione Mykonos è troppo caotica per la maggior parte dei cani, ma l'isola d'inverno è tutta un'altra cosa: vicoli imbiancati deserti, terrazze di caffè che accolgono i cani e spiagge tranquille verso Agios Sostis.`,
   }},
   { slug: null, rank: 16, photoSlug: 'cyprus', islandName: 'Cyprus', country: 'Cyprus', flag: '🇨🇾', reason: {
     en: `Year-round mild climate (no real winter), several officially designated dog beaches around Geroskipou and Larnaca, and 24/7 emergency vet coverage in both Limassol and Paphos.`,
@@ -157,6 +172,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Clima ameno o ano inteiro (sem verdadeiro inverno), várias praias caninas oficialmente designadas em redor de Geroskipou e Larnaca, e cobertura veterinária de urgência 24/7 em Limassol e Pafos.`,
     de: `Ganzjährig mildes Klima (kein echter Winter), mehrere offiziell ausgewiesene Hundestrände rund um Geroskipou und Larnaka, und rund um die Uhr erreichbare Tierarzt-Notdienste sowohl in Limassol als auch in Paphos.`,
     nl: `Jaarrond mild klimaat (geen echte winter), meerdere officieel aangewezen hondenstranden rond Geroskipou en Larnaca, en 24/7 dierenarts-spoeddienst in zowel Limassol als Paphos.`,
+    it: `Clima mite tutto l'anno (niente vero inverno), diverse spiagge per cani ufficialmente designate intorno a Geroskipou e Larnaca, e assistenza veterinaria d'urgenza 24 ore su 24 sia a Limassol che a Pafo.`,
   }},
   { slug: 'valletta', rank: 17, photoSlug: 'malta', islandName: 'Malta', country: 'Malta', flag: '🇲🇹', reason: {
     en: `English-speaking, walkable Valletta, mild year-round climate, and a dense network of pet-friendly cafés. Public transport is dog-friendly with carriers, and the limestone coast is walkable with dogs out of high season.`,
@@ -165,6 +181,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Anglófona, Valletta pedonal, clima ameno o ano inteiro e uma rede densa de cafés pet-friendly. Os transportes públicos aceitam cães em transportadora, e a costa calcária é passeável com cão fora de época alta.`,
     de: `Englischsprachig, fußläufiges Valletta, ganzjährig mildes Klima und ein dichtes Netz haustierfreundlicher Cafés. Öffentliche Verkehrsmittel akzeptieren Hunde in der Transportbox, und die Kalksteinküste ist außerhalb der Hochsaison mit Hund begehbar.`,
     nl: `Engelstalig, goed te belopen Valletta, jaarrond mild klimaat en een dicht netwerk van huisdiervriendelijke cafés. Het openbaar vervoer laat honden toe in een reismand, en de kalkstenen kust is buiten het hoogseizoen prima te belopen met je hond.`,
+    it: `Anglofona, La Valletta percorribile a piedi, clima mite tutto l'anno e una fitta rete di caffè pet-friendly. I mezzi pubblici accettano cani nel trasportino, e la costa calcarea si può percorrere con il cane fuori dall'alta stagione.`,
   }},
   { slug: null, rank: 18, photoSlug: 'gozo', islandName: 'Gozo', country: 'Malta', flag: '🇲🇹', reason: {
     en: `Quieter than Malta and reached by a 25-minute ferry from Ċirkewwa. The Dwejra coast and the Ta' Pinu hinterland offer open dog walks, and farm-stay gîtes are widely pet-tolerant.`,
@@ -173,6 +190,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Mais calma do que Malta e acessível em 25 min de ferry a partir de Ċirkewwa. A costa de Dwejra e o interior de Ta' Pinu oferecem passeios caninos abertos, e os alojamentos rurais são largamente tolerantes com cães.`,
     de: `Ruhiger als Malta und in 25 Minuten per Fähre ab Ċirkewwa erreichbar. Die Küste bei Dwejra und das Hinterland um Ta' Pinu bieten offene Gassi-Wege, und ländliche Unterkünfte sind überwiegend haustiertolerant.`,
     nl: `Rustiger dan Malta en in 25 minuten per veerboot vanaf Ċirkewwa te bereiken. De kust bij Dwejra en het achterland rond Ta' Pinu bieden open wandelroutes voor je hond, en boerderijverblijven zijn overwegend huisdiertolerant.`,
+    it: `Più tranquilla di Malta e raggiungibile con 25 minuti di traghetto da Ċirkewwa. La costa di Dwejra e l'entroterra intorno a Ta' Pinu offrono passeggiate libere con il cane, e gli agriturismi sono ampiamente pet-tolerant.`,
   }},
   { slug: 'capri', rank: 19, photoSlug: 'capri', islandName: 'Capri', country: 'Italy', flag: '🇮🇹', reason: {
     en: `Day-trippable from Naples or Sorrento. Anacapri (the quieter upper village) is the dog-friendly base, the Monte Solaro chairlift accepts small dogs on a leash, and the via Krupp clifftop walk is open year-round.`,
@@ -181,6 +199,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Acessível em excursão a partir de Nápoles ou Sorrento. Anacapri (a aldeia alta mais calma) é a base pet-friendly, o teleférico do Monte Solaro aceita cães pequenos com trela, e a via Krupp na falésia está aberta o ano inteiro.`,
     de: `Tagesausflug ab Neapel oder Sorrent möglich. Anacapri (das ruhigere obere Dorf) ist die haustierfreundliche Basis, der Sessellift zum Monte Solaro nimmt kleine Hunde an der Leine mit, und der Klippenweg Via Krupp ist ganzjährig geöffnet.`,
     nl: `Dagtrip vanuit Napels of Sorrento mogelijk. Anacapri (het rustigere hoger gelegen dorp) is de huisdiervriendelijke basis, de stoeltjeslift naar de Monte Solaro neemt kleine honden aan de lijn mee, en het klifpad Via Krupp is het hele jaar open.`,
+    it: `Raggiungibile in giornata da Napoli o Sorrento. Anacapri (il borgo alto, più tranquillo) è la base pet-friendly ideale, la seggiovia del Monte Solaro accetta cani di piccola taglia al guinzaglio, e la passeggiata sulla scogliera di via Krupp resta aperta tutto l'anno.`,
   }},
   { slug: null, rank: 20, photoSlug: 'elba', islandName: 'Elba', country: 'Italy', flag: '🇮🇹', reason: {
     en: `Elba's comune has officially designated seven dog beaches, more than almost any other Italian island. Ferries from Piombino accept leashed dogs free of charge.`,
@@ -189,6 +208,7 @@ const TOP_25: IslandEntry[] = [
     pt: `O comune de Elba designou oficialmente sete praias caninas, mais do que quase qualquer outra ilha italiana. Os ferries a partir de Piombino aceitam cães com trela gratuitamente.`,
     de: `Die Gemeinde Elba hat offiziell sieben Hundestrände ausgewiesen, mehr als fast jede andere italienische Insel. Fähren ab Piombino nehmen Hunde an der Leine kostenlos mit.`,
     nl: `De gemeente op Elba heeft officieel zeven hondenstranden aangewezen, meer dan bijna elk ander Italiaans eiland. Veerboten vanaf Piombino nemen honden aan de lijn gratis mee.`,
+    it: `Il comune di Elba ha designato ufficialmente sette spiagge per cani, più di quasi ogni altra isola italiana. I traghetti da Piombino accettano cani al guinzaglio gratuitamente.`,
   }},
   { slug: null, rank: 21, photoSlug: 'sylt', islandName: 'Sylt', country: 'Germany', flag: '🇩🇪', reason: {
     en: `The Westerland Hundenstrand is one of northern Europe's best-known dedicated dog beaches. Mild summers (20-23 °C), the Sylt Shuttle train accepts dogs, and dog-friendly cafés are the rule along Friedrichstraße.`,
@@ -197,6 +217,7 @@ const TOP_25: IslandEntry[] = [
     pt: `O Hundenstrand de Westerland é uma das praias caninas dedicadas mais conhecidas do norte da Europa. Verões amenos (20-23 °C), o Sylt Shuttle aceita cães, e os cafés pet-friendly são a norma na Friedrichstraße.`,
     de: `Der Hundestrand von Westerland gehört zu den bekanntesten ausgewiesenen Hundestränden Nordeuropas. Milde Sommer (20-23 °C), der Sylt Shuttle nimmt Hunde mit, und haustierfreundliche Cafés sind entlang der Friedrichstraße die Regel.`,
     nl: `Het Hundenstrand van Westerland is een van de bekendste aangewezen hondenstranden van Noord-Europa. Milde zomers (20-23 °C), de Sylt Shuttle neemt honden mee, en huisdiervriendelijke cafés zijn eerder regel dan uitzondering langs de Friedrichstraße.`,
+    it: `L'Hundenstrand di Westerland è una delle spiagge per cani più famose del nord Europa. Estati miti (20-23°C), lo Sylt Shuttle accetta i cani, e i caffè pet-friendly sono la regola lungo la Friedrichstraße.`,
   }},
   { slug: null, rank: 22, photoSlug: 'isle-of-skye', islandName: 'Isle of Skye', country: 'United Kingdom', flag: '🇬🇧', reason: {
     en: `Cuillin ridge walks, the Quiraing and the Old Man of Storr are all dog-friendly (sheep country, dogs must stay on leash). Since Brexit, EU visitors need an Animal Health Certificate, not a passport.`,
@@ -205,6 +226,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Os trilhos da crista Cuillin, o Quiraing e o Old Man of Storr são todos pet-friendly (zona de ovelhas, cães obrigatoriamente à trela). Desde o Brexit, os visitantes da UE precisam de um Animal Health Certificate, não de um passaporte.`,
     de: `Die Wanderwege am Cuillin-Grat, der Quiraing und der Old Man of Storr sind alle hundefreundlich (Schafgebiet, Hunde müssen an der Leine bleiben). Seit dem Brexit benötigen EU-Besucher ein Animal Health Certificate statt eines Heimtierausweises.`,
     nl: `De wandelroutes over de Cuillin-bergkam, de Quiraing en de Old Man of Storr zijn allemaal hondvriendelijk (schapengebied, honden moeten aangelijnd blijven). Sinds de Brexit hebben EU-bezoekers een Animal Health Certificate nodig in plaats van een dierenpaspoort.`,
+    it: `Le passeggiate sulla cresta dei Cuillin, il Quiraing e l'Old Man of Storr sono tutti percorribili con il cane (zona di pascolo per pecore, guinzaglio obbligatorio). Dopo la Brexit, i visitatori UE hanno bisogno di un Animal Health Certificate, non più del semplice passaporto.`,
   }},
   { slug: null, rank: 23, photoSlug: 'isle-of-wight', islandName: 'Isle of Wight', country: 'United Kingdom', flag: '🇬🇧', reason: {
     en: `Year-round dog beaches at Ryde, Sandown and Compton Bay (with seasonal restrictions on parts of each). The Wightlink and Red Funnel ferries from Portsmouth and Southampton both accept dogs at no charge.`,
@@ -213,6 +235,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Praias caninas o ano inteiro em Ryde, Sandown e Compton Bay (com restrições sazonais em partes de cada). Os ferries Wightlink e Red Funnel a partir de Portsmouth e Southampton aceitam ambos cães sem custo.`,
     de: `Ganzjährige Hundestrände in Ryde, Sandown und Compton Bay (mit saisonalen Einschränkungen an Teilbereichen). Die Fähren von Wightlink und Red Funnel ab Portsmouth und Southampton nehmen beide Hunde kostenlos mit.`,
     nl: `Jaarrond hondenstranden in Ryde, Sandown en Compton Bay (met seizoensgebonden beperkingen op delen ervan). De veerboten van Wightlink en Red Funnel vanuit Portsmouth en Southampton nemen beide honden gratis mee.`,
+    it: `Spiagge per cani tutto l'anno a Ryde, Sandown e Compton Bay (con restrizioni stagionali su alcune zone). I traghetti Wightlink e Red Funnel da Portsmouth e Southampton accettano entrambi cani gratuitamente.`,
   }},
   { slug: null, rank: 24, photoSlug: 'aran-islands', islandName: 'Aran Islands', country: 'Ireland', flag: '🇮🇪', reason: {
     en: `Inis Mór, Inis Meáin and Inis Oírr are off-the-grid in the best sense: limestone karst, ancient stone forts, no traffic, and dog-tolerant B&Bs. Aran Island Ferries accept dogs in carriers.`,
@@ -221,6 +244,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Inis Mór, Inis Meáin e Inis Oírr estão fora do circuito no melhor sentido: carso calcário, antigos fortes de pedra, sem trânsito, e B&Bs tolerantes com cães. A Aran Island Ferries aceita cães em transportadora.`,
     de: `Inis Mór, Inis Meáin und Inis Oírr sind abgelegen im besten Sinne: Kalksteinkarst, uralte Steinforts, kein Verkehr, und haustiertolerante B&Bs. Aran Island Ferries nimmt Hunde in der Transportbox mit.`,
     nl: `Inis Mór, Inis Meáin en Inis Oírr zijn afgelegen in de beste zin van het woord: kalksteenkarst, eeuwenoude stenen forten, geen verkeer, en huisdiertolerante B&B's. Aran Island Ferries neemt honden mee in een reismand.`,
+    it: `Inis Mór, Inis Meáin e Inis Oírr sono fuori dai circuiti nel senso migliore del termine: carsismo calcareo, antichi forti in pietra, niente traffico, e B&B pet-tolerant. Aran Island Ferries accetta cani nel trasportino.`,
   }},
   { slug: null, rank: 25, photoSlug: 'faroe-islands', islandName: 'Faroe Islands', country: 'Faroe Islands', flag: '🇫🇴', reason: {
     en: `Spectacular for the dog-walking traveller, but flag this clearly: dog import requires a special permit from the Faroese authorities, and the process is slower and stricter than the EU pet passport scheme. Plan months ahead.`,
@@ -229,6 +253,7 @@ const TOP_25: IslandEntry[] = [
     pt: `Espetaculares para o viajante que passeia com o seu cão, mas atenção: a importação de cão exige uma licença especial das autoridades faroenses, e o processo é mais lento e rigoroso do que o passaporte europeu da UE. Planeie com meses de antecedência.`,
     de: `Spektakulär für Reisende, die gerne mit Hund unterwegs sind, aber Achtung: Die Einfuhr eines Hundes erfordert eine Sondergenehmigung der färöischen Behörden, und das Verfahren ist langsamer und strenger als der EU-Heimtierausweis. Planen Sie Monate im Voraus.`,
     nl: `Spectaculair voor de reiziger die graag met zijn hond wandelt, maar let op: de invoer van een hond vereist een speciale vergunning van de Faeröerse autoriteiten, en de procedure is trager en strenger dan het EU-dierenpaspoort. Plan maanden vooruit.`,
+    it: `Spettacolari per chi ama viaggiare a passeggio col cane, ma attenzione: l'importazione di un cane richiede un permesso speciale delle autorità faroesi, e la procedura è più lenta e rigida del passaporto UE per animali. Pianifica con mesi di anticipo.`,
   }},
 ]
 
@@ -246,6 +271,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: 'Top 25 ilhas pet-friendly da Europa (edição 2026)',
     de: 'Top 25 hundefreundliche Inseln Europas (Ausgabe 2026)',
     nl: 'Top 25 hondvriendelijke eilanden van Europa (editie 2026)',
+    it: `Top 25 isole dog-friendly d'Europa (edizione 2026)`,
   }
   const descriptions: Record<string, string> = {
     en: 'Our 2026 ranking of the 25 best European islands for travelling with a dog: dog beaches, ferry rules, climate, pet-friendly hotel availability and import paperwork, island by island.',
@@ -254,6 +280,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     pt: 'O nosso ranking 2026 das 25 melhores ilhas europeias para viajar com cão: praias caninas, regras de ferry, clima, disponibilidade de hotéis pet-friendly e burocracia de importação, ilha a ilha.',
     de: 'Unser Ranking 2026 der 25 besten europäischen Inseln für Reisen mit Hund: Hundestrände, Fährregeln, Klima, Verfügbarkeit haustierfreundlicher Hotels und Einfuhrbestimmungen, Insel für Insel.',
     nl: 'Onze ranglijst 2026 van de 25 beste Europese eilanden om met je hond op reis te gaan: hondenstranden, veerbootregels, klimaat, beschikbaarheid van huisdiervriendelijke hotels en invoerpapieren, eiland voor eiland.',
+    it: `La nostra classifica 2026 delle 25 migliori isole europee per viaggiare con il cane: spiagge per cani, regole dei traghetti, clima, disponibilità di hotel pet-friendly e pratiche di importazione, isola per isola.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -619,6 +646,58 @@ const COPY: Record<string, Copy> = {
     bottomBookCtaDesc: `Live prijzen en directe boeking door heel Europa, op Booking.com, Expedia, Hotels.com en meer. Gratis annulering bij de meeste accommodaties, geverifieerd huisdierenbeleid bij elke vermelding.`,
     bottomBookCtaButton: 'Zoek huisdiervriendelijke hotels →',
   },
+  it: {
+    hero: { kicker: `LE MIGLIORI ISOLE PER CANI D'EUROPA · EDIZIONE 2026`, h1: `Top 25 isole dog-friendly d'Europa`, lede: `Da Maiorca a Madeira, dalla Sicilia a Skye, abbiamo verificato 60 isole europee su accesso alle spiagge per cani, regole dei traghetti, clima, densità di hotel pet-friendly e pratiche di importazione. Ecco le 25 isole dove viaggiare con un cane vale davvero la barca o il volo. Aggiornato per il 2026.` },
+    intro: { title: `Perché una guida alle isole è diversa`, paras: [
+      `Le isole non sono semplicemente versioni più piccole delle destinazioni continentali. Viaggiarci con un cane aggiunge un traghetto o un volo, regole di alloggio più severe, e un clima che può passare da idilliaco in bassa stagione a durissimo in piena estate. L'isola sbagliata ad agosto significa un cane stressato dal caldo e un viaggiatore frustrato.`,
+      `Abbiamo verificato 60 isole europee su cinque criteri: disponibilità di spiagge per cani ufficialmente designate, politica sugli animali delle compagnie di traghetti (accettazione in cabina e tariffe), idoneità climatica per i cani durante l'anno, densità di hotel pet-friendly verificati, e le pratiche burocratiche necessarie per portare un cane. Alcune isole ovvie sulla carta (Santorini, Mykonos) scendono in classifica per il caldo estivo e la folla. Altre a cui i viaggiatori pensano raramente (Elba, Sylt, l'Isola di Wight) salgono grazie a un'infrastruttura per cani ufficialmente designata.`,
+      `Le 25 isole qui sotto superano il livello minimo su almeno tre dei cinque criteri. Dove pubblichiamo già una guida di destinazione (Maiorca, Madeira, Creta, Sicilia, Islanda, Brač via Split), la scheda rimanda direttamente a quella. Dove non esiste ancora una guida, manteniamo la voce generale e verificabile invece di inventare nomi di strutture.`,
+    ] },
+    methodology: { title: 'La nostra metodologia', paras: [
+      `La disponibilità delle spiagge per cani è stata reperita dal comune, dal municipio o dall'ente del turismo di ogni isola. Abbiamo distinto le spiagge per cani aperte tutto l'anno da quelle stagionali, perché la maggior parte delle zone canine mediterranee chiude da maggio a settembre, proprio quando i viaggiatori vogliono venire.`,
+      `La politica sugli animali delle compagnie di traghetti è stata verificata sulle condizioni ufficiali dell'operatore (Corsica Ferries, Jadrolinija, Anek, Minoan, Wightlink, Red Funnel, Direct Ferries, Aran Island Ferries). Le isole raggiungibili solo in aereo sono state valutate secondo la politica di cabina delle compagnie aeree sulla rotta.`,
+      `L'idoneità climatica è stata valutata mese per mese usando medie di 30 anni. Le isole che superano i 32°C di massima media a luglio perdono punti per i viaggi estivi e ne guadagnano per i viaggi fuori stagione o durante tutto l'anno.`,
+      `La disponibilità alberghiera è stata misurata contando le strutture pet-friendly con valutazione 8,0+ sulle principali piattaforme di prenotazione dell'isola. Le isole con meno di 15 strutture di questo tipo sono scese in classifica, indipendentemente da altri punti di forza.`,
+      `Le pratiche burocratiche sono state ponderate per ultime ma restano decisive negli estremi: Islanda e Isole Faroe mantengono la loro posizione grazie alla qualità reale della destinazione, ma segnaliamo chiaramente il pesante processo di importazione nella loro scheda.`,
+    ] },
+    rankingTitle: 'La classifica Top 25',
+    rankingSubtitle: `Ogni isola rimanda ai prezzi in tempo reale degli hotel pet-friendly e, dove disponibile, alla nostra guida città completa con numeri dei veterinari, spiagge e regole di trasporto.`,
+    hotelsLabel: 'Hotel',
+    guideLink: 'Guida completa della città →',
+    bookOnBooking: 'Prenota hotel pet-friendly →',
+    bookHotelsInPrefix: 'Prenota hotel pet-friendly a',
+    mapTitle: 'Mappa in tempo reale · hotel pet-friendly intorno a Maiorca (#1)',
+    mapDesc: `Centrata su Palma di Maiorca, la nostra isola dog-friendly numero 1. Sposta, ingrandisci e clicca su un marcatore per vedere prezzi in tempo reale, politiche sugli animali e disponibilità con cancellazione gratuita nelle Baleari e oltre.`,
+    keywordChipsTitle: 'Ricerche popolari sulle isole pet-friendly nel 2026',
+    keywordChips: [
+      'Hotel per cani Maiorca', 'Madeira levadas pet-friendly', 'Creta con il cane in traghetto',
+      'Sicilia Bau Beach Mondello', 'Sardegna agriturismo cani', 'Ibiza fuori stagione con il cane',
+      'Minorca Camí de Cavalls cane', 'Corsica Calvi con il cane', 'Islanda regole importazione cane',
+      'Hvar dog-friendly Stari Grad', 'Korčula spiagge per cani', 'Brač Zlatni Rat zona cani',
+      'Rodi Lindos passeggiate con il cane', 'Santorini passeggiata caldera con il cane', 'Mykonos inverno con il cane',
+      'Cipro spiaggia per cani Geroskipou', 'Malta La Valletta caffè per cani', 'Gozo Dwejra passeggiate con il cane',
+      'Capri Anacapri con il cane', 'Elba sette spiagge per cani', 'Sylt Hundenstrand Westerland',
+      'Skye Cuillin passeggiata con il cane', 'Isola di Wight spiaggia per cani', 'Isole Aran traghetto cane', 'Isole Faroe permesso cane',
+    ],
+    faqTitle: 'Domande frequenti',
+    faqs: [
+      { q: `Questa classifica vale anche per i gatti?`, a: `Soprattutto no. I criteri che contano per un gatto d'appartamento (accettazione in hotel, basso stress durante il trasporto, niente estremi di caldo) sono molto diversi da quello che misuriamo per i cani (spiagge per cani, zone senza guinzaglio, cabine per animali sui traghetti). Per i gatti, Maiorca, Madeira, Cipro e Malta restano in alto perché il loro parco di hotel pet-friendly è solido, ma il resto della lista è specifico per i cani.` },
+      { q: `Perché Tenerife o Gran Canaria non sono nella top 25?`, a: `Le Canarie hanno un quadro normativo spagnolo solido e un buon clima, ma le spiagge per cani ufficialmente designate sono sorprendentemente poche e concentrate in pochi comuni. Diversi punti sono comparsi e poi scomparsi dalle ordinanze locali negli ultimi tre anni, quindi le teniamo fuori dalla top 25 finché il quadro non si stabilizza nel 2026 e nel 2027.` },
+      { q: `Come si arriva a queste isole con il mio cane?`, a: `Per le isole del Mediterraneo, il traghetto è quasi sempre l'opzione più economica e meno stressante. La maggior parte degli operatori (Corsica Ferries, Jadrolinija, Anek, Minoan, Wightlink) accetta cani in cabina per un supplemento modesto, e il tuo cane resta sempre al tuo fianco. Il volo vale la pena solo per Islanda, Faroe, Madeira, Canarie e le traversate molto lunghe.` },
+      { q: 'E le pratiche di importazione?', a: `Le isole UE usano il passaporto europeo standard per animali (microchip, vaccino antirabbico, passaporto valido). Le isole del Regno Unito richiedono un Animal Health Certificate dalla Brexit (circa 100 €, valido 4 mesi). Islanda e Isole Faroe richiedono un permesso di importazione speciale con fino a un mese di pratiche in anticipo. Pianifica per tempo.` },
+      { q: 'Qual è il periodo migliore per andarci?', a: `Per le isole del Mediterraneo (Maiorca, Sicilia, Creta, Corsica, Sardegna, Hvar, Brač, Rodi, Santorini, Capri, Elba), la bassa stagione (aprile-giugno e settembre-ottobre) è l'ideale: caldo, meno folla, spiagge per cani ancora aperte in molti casi. Per le isole atlantiche e nordiche (Madeira, Islanda, Sylt, Skye, Isola di Wight, Aran, Faroe), il periodo migliore va dall'estate all'inizio dell'autunno.` },
+    ],
+    conclusion: { title: 'La nostra scelta se hai solo un viaggio in isola', paras: [
+      `Se dovessimo scegliere una sola isola europea per il primo viaggio con il cane, sarebbe Maiorca. La combinazione di spiagge per cani ufficialmente designate, un vasto parco di alloggi pet-friendly nell'entroterra e lungo la costa, un clima mite tutto l'anno e ottimi voli diretti dalla maggior parte delle capitali europee la rende la scelta più semplice. Le montagne della Tramuntana offrono passeggiate fresche nell'entroterra anche d'estate.`,
+      `Se cerchi qualcosa di più tranquillo, scegli Minorca, Brač o le Isole Aran. Se vuoi un clima mite tutto l'anno senza il caldo estivo mediterraneo, scegli Madeira o Cipro. E se viaggi solo d'inverno, Mykonos, Santorini e Rodi diventano un altro tipo di viaggio: vuote, percorribili a piedi e sorprendentemente pet-friendly.`,
+    ] },
+    ctaTitle: 'Pianifica il tuo viaggio con le nostre guide di destinazione',
+    ctaDesc: `Diverse di queste 25 isole hanno una guida di destinazione pet-friendly completa con hotel, veterinari, spiagge e mappa di prenotazione in tempo reale.`,
+    ctaButton: 'Vedi tutte le destinazioni →',
+    bottomBookCtaTitle: 'Pronto a prenotare? Confronta oltre 770 hotel pet-friendly',
+    bottomBookCtaDesc: `Prezzi in tempo reale e prenotazione immediata in tutta Europa, su Booking.com, Expedia, Hotels.com e altri. Cancellazione gratuita sulla maggior parte delle strutture, politiche sugli animali verificate su ogni scheda.`,
+    bottomBookCtaButton: 'Cerca hotel pet-friendly →',
+  },
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
@@ -639,7 +718,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       ...entry,
       dest,
       hotelCount,
-      reasonText: entry.reason[locale as 'en' | 'fr' | 'es' | 'pt' | 'de' | 'nl'] || entry.reason.en,
+      reasonText: entry.reason[locale as 'en' | 'fr' | 'es' | 'pt' | 'de' | 'nl' | 'it'] || entry.reason.en,
     }
   })
 

@@ -39,12 +39,16 @@
           "tipPt": "Entre antes das 18:00 ou reserve, a pequena esplanada enche-se depressa no verão e a cave interior fica demasiado enfumarada e apertada para cães à noite.",
           "descriptionDe": "Eine mittelalterlich gestaltete Grilltaverne in einem gewölbten Steinkeller, wenige Schritte vom Hauptplatz entfernt, berühmt für ihren offenen Holzkohlegrill, auf dem am Spieß gebratene Schweinshaxe, Rippchen und gegrillte Forelle zubereitet werden. Das stimmungsvolle Steininnere setzt sich auf einer kleinen, kerzenbeleuchteten Straßenterrasse fort.",
           "descriptionNl": "Een middeleeuws aandoende grilltaverne in een gewelfde stenen kelder, een paar stappen van het hoofdplein, beroemd om zijn open houtskoolgrill waarop spitgebraden varkensschenkel, ribbetjes en gegrilde forel worden bereid. Het sfeervolle stenen interieur zet zich voort op een klein, bij kaarslicht verlicht straatterras.",
+          "descriptionIt": "Una taverna-grill dall'atmosfera medievale in una cantina di pietra a volta, a pochi passi dalla piazza principale, famosa per la sua griglia a legna a vista da cui escono stinco di maiale allo spiedo, costine e trota grigliata. L'interno di pietra suggestivo continua su una piccola terrazza sulla strada illuminata a candele.",
           "petPolicyDe": "Angeleinte Hunde sind auf der Außenterrasse an der Straße willkommen und außerhalb der Stoßzeiten nach Ermessen des Personals auch im hinteren Bereich des Kellers. Wassernapf auf Anfrage.",
           "petPolicyNl": "Aangelijnde honden zijn welkom op het buitenterras aan de straat en, buiten piekuren, in de achterkamer van de kelder naar goeddunken van het personeel. Op verzoek een waterbak.",
+          "petPolicyIt": "I cani al guinzaglio sono benvenuti sulla terrazza esterna sulla strada e, fuori dagli orari di punta, nella sala sul retro della cantina a discrezione dello staff. Ciotola d'acqua su richiesta.",
           "mustTryDe": "Die gebratene Schweinshaxe (pečené koleno) mit Meerrettich und dunklem Budvar aus České Budějovice vom Fass.",
           "mustTryNl": "De gegrilde varkensschenkel (pečené koleno) met mierikswortel en donkere Budvar uit České Budějovice van de tap.",
+          "mustTryIt": "Lo stinco di maiale grigliato (pečené koleno) con rafano e una Budvar scura di České Budějovice alla spina.",
           "tipDe": "Vor 18:00 Uhr hereinkommen oder reservieren, die kleine Terrasse füllt sich im Sommer schnell, und der Innenkeller ist abends zu rauchig und eng für Hunde.",
-          "tipNl": "Loop voor 18:00 uur binnen of reserveer, het kleine terras loopt in de zomer snel vol en de kelder binnen is 's avonds te rokerig en krap voor honden."
+          "tipNl": "Loop voor 18:00 uur binnen of reserveer, het kleine terras loopt in de zomer snel vol en de kelder binnen is 's avonds te rokerig en krap voor honden.",
+          "tipIt": "Entra prima delle 18:00 o prenota, la piccola terrazza si riempie in fretta d'estate e la cantina interna è troppo fumosa e stretta per i cani la sera."
         },
         {
           "name": "Krčma U Dwau Maryí",
@@ -73,12 +77,16 @@
           "tipPt": "Peça uma mesa na fila inferior junto ao rio, fica mesmo ao nível da água e deixa que um cão calmo veja passar as jangadas.",
           "descriptionDe": "Ein Altböhmisches Flussuferwirtshaus auf einer Holzterrasse direkt über der Vltava mit Blick auf den Schlossturm, serviert rustikale, mittelalterlich inspirierte Gerichte, Buchweizenbrei, geräuchertes Schwein, Wildschweingulasch, Met. Der Ausblick zählt zu den besten der ganzen Stadt.",
           "descriptionNl": "Een oud-Boheemse herberg aan de rivier, op een houten terras direct boven de Vltava met uitzicht op de kasteeltoren, met rustieke, middeleeuws geïnspireerde gerechten: boekweitpap, gerookt varkensvlees, wildzwijngoulash, mede. Het uitzicht behoort tot het mooiste van de hele stad.",
+          "descriptionIt": "Una vecchia locanda boema sul fiume, su una terrazza in legno proprio sopra la Vltava con vista sulla torre del castello, con piatti rustici di ispirazione medievale: pappa di grano saraceno, maiale affumicato, gulash di cinghiale, idromele. La vista è tra le più belle di tutta la città.",
           "petPolicyDe": "Angeleinte Hunde sind auf der Flussuferterrasse aus Holz willkommen, dem besten Platz. Besitzer berichten durchweg von einem herzlichen Empfang und unaufgefordert serviertem Wasser.",
           "petPolicyNl": "Honden aan de lijn zijn welkom op het houten terras aan de rivier, de beste plek. Eigenaars melden een consequent warm onthaal en water dat ongevraagd wordt geserveerd.",
+          "petPolicyIt": "I cani al guinzaglio sono benvenuti sulla terrazza in legno sul fiume, il posto migliore. I proprietari raccontano di un'accoglienza sempre calorosa e acqua servita senza bisogno di chiederla.",
           "mustTryDe": "Wildschweingulasch mit Semmelknödeln (knedlíky) und einem Krug Honigmet.",
           "mustTryNl": "Wildzwijngoulash met broodknoedels (knedlíky) en een kroes honingmede.",
+          "mustTryIt": "Gulash di cinghiale con canederli di pane (knedlíky) e un boccale di idromele.",
           "tipDe": "Nach einem Tisch in der unteren Flussuferreihe fragen, direkt auf Wasserhöhe, von wo ein ruhiger Hund die vorbeitreibenden Flöße beobachten kann.",
-          "tipNl": "Vraag om een tafel op de onderste rij aan de rivier, die ligt vlak op waterniveau en laat een rustige hond de vlotten voorbij zien drijven."
+          "tipNl": "Vraag om een tafel op de onderste rij aan de rivier, die ligt vlak op waterniveau en laat een rustige hond de vlotten voorbij zien drijven.",
+          "tipIt": "Chiedi un tavolo nella fila più bassa sul fiume, è proprio al livello dell'acqua e lascia che un cane tranquillo guardi passare le zattere."
         },
         {
           "name": "Laibon",
@@ -107,22 +115,29 @@
           "tipPt": "O socalco mais baixo da esplanada tem apenas quatro mesas e é o que oferece a vista desimpedida sobre a água, chegue à hora de abertura (11:00) para o conseguir.",
           "descriptionDe": "Ein alteingesessenes vegetarisches und veganes Restaurant an der Vltava mit einer gestuften Flussuferterrasse direkt am Wasser. Die Karte vereint indische Currys, nahöstliche Gerichte und tschechische vegetarische Klassiker, nützlich, wenn die halbe Stadt an Grillterrassen zu fleischlastig wirkt.",
           "descriptionNl": "Een gevestigd vegetarisch en veganistisch restaurant aan de Vltava met een getrapt terras vlak aan het water. De kaart combineert Indiase curry's, Midden-Oosterse gerechten en Tsjechische vegetarische klassiekers, handig als de helft van de grillterrassen in de stad te vleeszwaar aanvoelt.",
+          "descriptionIt": "Un ristorante vegetariano e vegano storico sulla Vltava con una terrazza a gradoni proprio sull'acqua. Il menu unisce curry indiani, piatti mediorientali e classici vegetariani cechi, utile quando metà delle terrazze-grill della città sembra troppo a base di carne.",
           "petPolicyDe": "Angeleinte Hunde auf der Flussuferterrasse willkommen, dem einzigen Bereich, den wir mit Hund empfehlen. Innensitzplätze sind eng und für größere Rassen nicht empfehlenswert.",
           "petPolicyNl": "Honden aan de lijn zijn welkom op het terras aan de rivier, het enige gebied dat we aanraden met hond. De ruimte binnen is krap en wordt afgeraden voor grotere rassen.",
+          "petPolicyIt": "I cani al guinzaglio sono benvenuti sulla terrazza sul fiume, l'unica zona che consigliamo con il cane. Lo spazio interno è stretto e sconsigliato per le razze più grandi.",
           "mustTryDe": "Die Knoblauchsuppe im Brotlaib (česnečka v chlebu) und das Kürbiscurry.",
           "mustTryNl": "De knoflooksoep geserveerd in een brood (česnečka v chlebu) en de pompoencurry.",
+          "mustTryIt": "La zuppa d'aglio servita in una pagnotta (česnečka v chlebu) e il curry di zucca.",
           "tipDe": "Die unterste Terrassenstufe hat nur vier Tische und bietet den ungehinderten Wasserblick, bei Öffnung (11:00 Uhr) kommen, um ihn zu ergattern.",
-          "tipNl": "De onderste terrastrede heeft maar vier tafels en biedt het ongehinderde uitzicht op het water, kom bij opening (11:00 uur) om hem te bemachtigen."
+          "tipNl": "De onderste terrastrede heeft maar vier tafels en biedt het ongehinderde uitzicht op het water, kom bij opening (11:00 uur) om hem te bemachtigen.",
+          "tipIt": "Il gradino più basso della terrazza ha solo quattro tavoli ed è quello con la vista sull'acqua senza ostacoli, arriva all'apertura (11:00) per accaparrartelo."
         }
       ],
       "titlePt": "Restaurantes pet-friendly em Český Krumlov",
       "introPt": "As ruelas de calçada de Český Krumlov estão repletas de esplanadas ao longo do Vltava e em redor do castelo, onde os cães com trela são quase sempre bem-vindos no exterior. As tabernas checas (hospody) têm uma longa tradição de aceitar cães bem-comportados na sala de bar pública e de trazer uma tigela de água a pedido, o que se estende à maioria dos locais tradicionais do centro histórico.",
       "titleDe": "Haustierfreundliche Restaurants in Český Krumlov",
       "titleNl": "Huisdiervriendelijke restaurants in Český Krumlov",
+      "titleIt": "Ristoranti pet-friendly a Český Krumlov",
       "introDe": "Die gepflasterten Gassen von Český Krumlov sind gesäumt von Terrassen entlang der Vltava und rund um das Schloss, wo angeleinte Hunde im Freien fast überall willkommen sind. Tschechische Kneipen (hospody) haben eine lange Tradition, wohlerzogene Hunde im öffentlichen Schankraum zu akzeptieren und auf Wunsch einen Wassernapf zu bringen, was sich auf die meisten traditionellen Lokale in der Altstadt erstreckt.",
       "introNl": "De geplaveide steegjes van Český Krumlov staan vol terrassen langs de Vltava en rond het kasteel, waar aangelijnde honden buiten vrijwel overal welkom zijn. Tsjechische kroegen (hospody) hebben een lange traditie om brave honden toe te laten in de openbare bar en op verzoek een waterbak te brengen, wat geldt voor de meeste traditionele zaken in de oude stad.",
+      "introIt": "I vicoli acciottolati di Český Krumlov sono pieni di terrazze lungo la Vltava e intorno al castello, dove i cani al guinzaglio sono quasi ovunque benvenuti all'aperto. I pub cechi (hospody) hanno una lunga tradizione di accettare cani educati nella sala comune e portare una ciotola d'acqua su richiesta, cosa che vale per la maggior parte dei locali tradizionali del centro storico.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks & Walks in Český Krumlov",
@@ -154,10 +169,13 @@
           "tipPt": "Aberto de abril a outubro (8:00–19:00 no verão, 8:00–17:00 na primavera/outono). Encerrado no inverno. Os cães não são permitidos no interior do auditório do teatro giratório nem nos interiores do museu do castelo.",
           "descriptionDe": "Der 11 Hektar große barocke Schlossgarten hinter dem Schloss Český Krumlov, im 17. Jahrhundert von der Familie Eggenberg angelegt, mit formalen Parterres, dem Freiluft-Drehtheater, einem Kaskadenbrunnen und schattigen Kastanienalleen. Die frei zugänglichen Hauptalleen sind ein entspannter Spaziergang an der Leine mit ständigem Blick auf das Schloss.",
           "descriptionNl": "De 11 hectare grote barokke kasteeltuin achter kasteel Český Krumlov, in de 17e eeuw aangelegd door de familie Eggenberg, met formele parterres, het openluchttheater met draaiend podium, een cascadefontein en schaduwrijke kastanjelanen. De vrij toegankelijke hoofdlanen zijn een ontspannen wandeling aan de lijn met voortdurend zicht op het kasteel.",
+          "descriptionIt": "Il giardino barocco del castello di 11 ettari dietro il Castello di Český Krumlov, disegnato nel XVII secolo dalla famiglia Eggenberg, con parterre formali, il teatro girevole all'aperto, una fontana a cascata e viali ombreggiati di castagni. I viali principali, ad accesso libero, offrono una passeggiata rilassata al guinzaglio con vista continua sul castello.",
           "highlightsDe": "Freier Eintritt, Kaskadenbrunnen, Panoramaterrasse über der oberen Vltava-Schleife, schattige Kastanienalleen.",
           "highlightsNl": "Gratis toegang, cascadefontein, panoramaterras over de bovenste bocht van de Vltava, schaduwrijke kastanjelanen.",
+          "highlightsIt": "Ingresso gratuito, fontana a cascata, terrazza panoramica sull'ansa superiore della Vltava, viali ombreggiati di castagni.",
           "tipDe": "Geöffnet April bis Oktober (8:00-19:00 Uhr Sommer, 8:00-17:00 Uhr Frühling/Herbst). Im Winter geschlossen. Hunde sind weder im Zuschauerraum des Drehtheaters noch in den Innenräumen des Schlossmuseums erlaubt.",
-          "tipNl": "Open april tot en met oktober (8:00-19:00 uur in de zomer, 8:00-17:00 uur in het voor- en najaar). Gesloten in de winter. Honden zijn niet toegestaan in de zaal van het draaitheater of in de binnenruimtes van het kasteelmuseum."
+          "tipNl": "Open april tot en met oktober (8:00-19:00 uur in de zomer, 8:00-17:00 uur in het voor- en najaar). Gesloten in de winter. Honden zijn niet toegestaan in de zaal van het draaitheater of in de binnenruimtes van het kasteelmuseum.",
+          "tipIt": "Aperto da aprile a ottobre (8:00-19:00 d'estate, 8:00-17:00 in primavera/autunno). Chiuso d'inverno. I cani non sono ammessi nella sala del teatro girevole né negli interni del museo del castello."
         },
         {
           "name": "Městský park Český Krumlov (Jelení zahrada)",
@@ -181,10 +199,13 @@
           "tipPt": "Combine com um passeio de 20 minutos para sul pela ciclovia do Vltava para chegar à ponte pedonal mais rural de Kamenný most e aos prados de relva onde os cães correm livres sem trela nos dias de semana mais calmos.",
           "descriptionDe": "Der alltägliche öffentliche Park der Stadt, auch bekannt als Jelení zahrada (Hirschgarten), ein ruhiger, 4 Hektar großer bewaldeter Streifen entlang des Flusses direkt südlich der Altstadt, mit Wegen unter hohen Linden, Bänken und einem Flussufer-Spielplatz. Der von Einheimischen meistgenutzte Park zum Gassigehen.",
           "descriptionNl": "Het dagelijkse openbare park van de stad, ook bekend als Jelení zahrada (Hertentuin), een rustige, 4 hectare grote beboste strook langs de rivier net ten zuiden van de oude stad, met paden onder hoge linden, bankjes en een speeltuin aan de rivier. Het park dat het meest wordt gebruikt door lokale hondenuitlaters.",
+          "descriptionIt": "Il parco pubblico di tutti i giorni della città, conosciuto anche come Jelení zahrada (Giardino dei Cervi), una tranquilla striscia boscosa di 4 ettari lungo il fiume appena a sud del centro storico, con sentieri sotto tigli alti, panchine e un parco giochi sul fiume. Il parco più usato dai residenti per portare fuori il cane.",
           "highlightsDe": "Ruhige Flussuferwege, Schatten im Sommer, Abfalleimer und Kotbeutelspender, keine Touristenmassen.",
           "highlightsNl": "Rustige paden aan de rivier, schaduw in de zomer, afvalbakken en zakjesdispensers, geen toeristendrukte.",
+          "highlightsIt": "Sentieri tranquilli sul fiume, ombra d'estate, cestini e dispenser di sacchetti, niente folla turistica.",
           "tipDe": "Mit einem 20-minütigen Spaziergang südwärts entlang des Vltava-Radwegs verbinden, um die ländlichere Fußgängerbrücke Kamenný most und Wiesen zu erreichen, wo Hunde an ruhigeren Wochentagen frei ohne Leine laufen.",
-          "tipNl": "Combineer met een wandeling van 20 minuten zuidwaarts langs het fietspad aan de Vltava naar de landelijkere voetgangersbrug Kamenný most en de weilanden waar honden op rustigere doordeweekse dagen vrij loslopen."
+          "tipNl": "Combineer met een wandeling van 20 minuten zuidwaarts langs het fietspad aan de Vltava naar de landelijkere voetgangersbrug Kamenný most en de weilanden waar honden op rustigere doordeweekse dagen vrij loslopen.",
+          "tipIt": "Combina con una passeggiata di 20 minuti verso sud lungo la pista ciclabile della Vltava per raggiungere la più rurale passerella Kamenný most e i prati dove i cani corrono liberi senza guinzaglio nei giorni feriali più tranquilli."
         },
         {
           "name": "Klášterní zahrada",
@@ -208,20 +229,26 @@
           "tipPt": "Junte uma visita ao museu dos Mosteiros adjacente nas tardes de chuva, os cães esperam no jardim do claustro mas não podem entrar nas salas de exposição interiores.",
           "descriptionDe": "Der Klostergarten des ehemaligen Minoriten- und Klarissenkomplexes auf Latrán, nach Restaurierung wieder für die Öffentlichkeit zugänglich. Ein friedlicher, ummauerter Kräuter- und Gemüsegarten mit Bänken, Bienenstöcken und Obstgartenwegen, tagsüber freier Eintritt.",
           "descriptionNl": "De kloostertuin van het voormalige minderbroeders- en clarissencomplex op Latrán, na restauratie weer opengesteld voor het publiek. Een vredige, ommuurde kruiden- en moestuin met bankjes, bijenkorven en boomgaardpaden, overdag gratis toegankelijk.",
+          "descriptionIt": "Il giardino del monastero dell'ex complesso dei frati minori e delle clarisse su Latrán, riaperto al pubblico dopo il restauro. Un tranquillo orto-erbario recintato con panchine, arnie e sentieri tra i frutteti, a ingresso libero durante il giorno.",
           "highlightsDe": "Kostenloser ruhiger Innenhof, sehr schattig, eine Alternative, wenn der Schlossgarten im Sommer überlaufen ist.",
           "highlightsNl": "Gratis rustige binnenplaats, erg schaduwrijk, een alternatief als de kasteeltuin in de zomer overvol is.",
+          "highlightsIt": "Cortile tranquillo e gratuito, molto ombreggiato, un'alternativa quando il giardino del castello è troppo affollato d'estate.",
           "tipDe": "An Regennachmittagen mit einer Führung durch das angrenzende Klostermuseum verbinden, Hunde warten im Kreuzgangsgarten, dürfen aber nicht in die Ausstellungsräume.",
-          "tipNl": "Combineer op regenachtige middagen met een rondleiding door het aangrenzende kloostermuseum, honden wachten in de kloostertuin maar mogen de binnenruimtes van de tentoonstelling niet in."
+          "tipNl": "Combineer op regenachtige middagen met een rondleiding door het aangrenzende kloostermuseum, honden wachten in de kloostertuin maar mogen de binnenruimtes van de tentoonstelling niet in.",
+          "tipIt": "Abbina una visita al vicino museo dei Monasteri nei pomeriggi di pioggia, i cani aspettano nel giardino del chiostro ma non possono entrare nelle sale espositive interne."
         }
       ],
       "titlePt": "Parques e passeios para cães em Český Krumlov",
       "introPt": "Český Krumlov é um pequeníssimo centro histórico rodeado por passeios à beira-rio e colinas arborizadas em redor do castelo. O centro histórico de calçada obriga os cães a trela curta, mas cinco minutos em qualquer direção abrem para relva, bosque e o Vltava. O passeio matinal clássico é um circuito que junta o Jardim do Castelo, o Pivovarská zahrada à beira-rio e um troço da margem do Vltava.",
       "titleDe": "Hundefreundliche Parks & Spaziergänge in Český Krumlov",
       "titleNl": "Hondvriendelijke parken en wandelingen in Český Krumlov",
+      "titleIt": "Parchi e passeggiate per cani a Český Krumlov",
       "introDe": "Český Krumlov ist ein winziger historischer Kern, umgeben von Flussuferwegen und bewaldeten Schlosshügeln. Die gepflasterte Altstadt verlangt eine kurze Leine, doch fünf Minuten in jede Richtung öffnen sich Wiesen, Wald und die Vltava, der klassische Morgenspaziergang ist eine Runde, die den Schlossgarten, den Flussufer-Pivovarská zahrada und einen Abschnitt am Vltava-Ufer verbindet.",
       "introNl": "Český Krumlov is een piepklein historisch centrum omringd door rivierwandelingen en beboste kasteelheuvels. In de geplaveide oude stad moet je hond kort aangelijnd zijn, maar vijf minuten in elke richting brengen je bij gras, bos en de Vltava, de klassieke ochtendwandeling is een rondje langs de kasteeltuin, de Pivovarská zahrada aan de rivier en een stuk oever van de Vltava.",
+      "introIt": "Český Krumlov è un piccolissimo centro storico circondato da passeggiate sul fiume e colline boscose del castello. Nel centro storico acciottolato il tuo cane deve stare al guinzaglio corto, ma cinque minuti in qualsiasi direzione portano a erba, bosco e la Vltava, la classica passeggiata mattutina è un giro che unisce il giardino del castello, la Pivovarská zahrada sul fiume e un tratto della riva della Vltava.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Getting Around Český Krumlov with Your Dog",
@@ -281,10 +308,13 @@
       "introPt": "O centro histórico percorre-se a pé em 15 minutos, não vai precisar de transportes locais dentro da própria Český Krumlov. O desafio é chegar lá: os comboios, as camionetas intercidades e os autocarros partilhados têm cada um regras específicas para animais, e o aeroporto internacional mais próximo fica a 170 km, em Praga. Tanto os Caminhos de Ferro Checos (ČD) como o operador privado RegioJet cobram uma tarifa fixa por cão; a FlixBus tem regras mais rígidas.",
       "titleDe": "Mit Ihrem Hund unterwegs in Český Krumlov",
       "titleNl": "Met je hond onderweg in Český Krumlov",
+      "titleIt": "Muoversi a Český Krumlov con il tuo cane",
       "introDe": "Die Altstadt ist ein 15-minütiger Fußgängerkreis, innerhalb von Český Krumlov selbst brauchen Sie keine örtlichen Verkehrsmittel. Die Herausforderung ist die Anreise: Züge, Fernbusse und Sammelbusse haben jeweils eigene Haustierregeln, und der nächste internationale Flughafen liegt 170 km entfernt in Prag. Die Tschechische Bahn (ČD) und der private Betreiber RegioJet berechnen beide eine feste Pauschale pro Hund, FlixBus hat strengere Regeln.",
       "introNl": "De oude stad doorloop je te voet in 15 minuten, binnen Český Krumlov zelf heb je geen lokaal vervoer nodig. De uitdaging is er komen: treinen, intercitybussen en gedeelde touringcars hebben elk hun eigen huisdierregels, en de dichtstbijzijnde internationale luchthaven ligt 170 km verderop in Praag. Zowel de Tsjechische spoorwegen (ČD) als de particuliere vervoerder RegioJet rekenen een vast tarief per hond, FlixBus hanteert strengere regels.",
+      "introIt": "Il centro storico si percorre a piedi in 15 minuti, non ti servirà il trasporto locale dentro Český Krumlov stesso. La sfida è arrivarci: treni, autobus intercity e pullman condivisi hanno ciascuno regole specifiche per gli animali, e l'aeroporto internazionale più vicino è a 170 km, a Praga. Sia le ferrovie ceche (ČD) che l'operatore privato RegioJet applicano una tariffa fissa per cane; FlixBus ha regole più rigide.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Swimming Spots Near Český Krumlov",
@@ -315,12 +345,16 @@
           "tipPt": "Evite o cotovelo central que atravessa o centro histórico (muito tráfego de jangadas e margens de calçada). Caminhe 10 minutos para sul pelo caminho à beira-rio para encontrar poços mais calmos, longe das jangadas.",
           "nameDe": "Vltava river beach at Jelení zahrada",
           "nameNl": "Vltava river beach at Jelení zahrada",
+          "nameIt": "Vltava river beach at Jelení zahrada",
           "locationDe": "Unterhalb des Stadtparks (Jelení zahrada), 10 Gehminuten südlich der Altstadt, Český Krumlov",
           "locationNl": "Onder het stadspark (Jelení zahrada), 10 minuten lopen ten zuiden van de oude stad, Český Krumlov",
+          "locationIt": "Sotto il parco cittadino (Jelení zahrada), 10 minuti a piedi a sud del centro storico, Český Krumlov",
           "dogPolicyDe": "Ein informelles Grasufer mit flachem Kieseinstieg in die Vltava, ganzjährig von Einheimischen genutzt. Kein ausgewiesener Hundestrand-Status, aber auch kein Schwimmverbot in diesem Bereich, ohne Leine im Wasser und auf der Wiese wird toleriert. Die Strömung ist hier sanft, aber kalt, selbst im August (16-18 °C).",
           "dogPolicyNl": "Een informele grasoever met een ondiepe kiezelinstap in de Vltava, het hele jaar door gebruikt door lokale bewoners. Geen aangewezen hondenstrandstatus, maar ook geen zwemverbod, loslopen in het water en op het gras wordt getolereerd. De stroming is hier zacht maar koud, zelfs in augustus (16-18 °C).",
+          "dogPolicyIt": "Una riva erbosa informale con un accesso basso di ghiaia nella Vltava, usata tutto l'anno dai residenti. Nessuno status ufficiale di spiaggia per cani, ma neanche divieto di balneazione, il cane libero in acqua e sull'erba viene tollerato. La corrente qui è debole ma fredda, anche ad agosto (16-18 gradi).",
           "tipDe": "Die zentrale Flussschleife durch die Altstadt meiden (viel Floßverkehr und Pflasterufer). 10 Minuten südlich am Flussweg entlanggehen, um ruhigere Becken abseits der Flöße zu finden.",
-          "tipNl": "Vermijd de centrale rivierbocht door de oude stad (veel vlottenverkeer en geplaveide oevers). Loop 10 minuten zuidwaarts langs het rivierpad voor rustigere plekken zonder vlotten."
+          "tipNl": "Vermijd de centrale rivierbocht door de oude stad (veel vlottenverkeer en geplaveide oevers). Loop 10 minuten zuidwaarts langs het rivierpad voor rustigere plekken zonder vlotten.",
+          "tipIt": "Evita l'ansa centrale del fiume nel centro storico (molto traffico di zattere e rive lastricate). Cammina 10 minuti verso sud lungo il sentiero del fiume per posti più tranquilli senza zattere."
         },
         {
           "name": "Lipno Lake - Frymburk beach",
@@ -343,12 +377,16 @@
           "tipPt": "Melhor de meados de junho ao início de setembro, quando o lago chega aos 22 °C. Combine com o Passeio nas Copas das Árvores de Lipno (Stezka korunami stromů Lipno), acolhedor para cães com trela, 5 km a norte, que admite explicitamente cães no seu passadiço de madeira de 675 m.",
           "nameDe": "Lipno Lake - Frymburk beach",
           "nameNl": "Lipno Lake - Frymburk beach",
+          "nameIt": "Lipno Lake - Frymburk beach",
           "locationDe": "Dorf Frymburk, 45 km südlich von Český Krumlov am Ostufer des Lipno-Sees",
           "locationNl": "Dorp Frymburk, 45 km ten zuiden van Český Krumlov aan de oostoever van het Lipno-meer",
+          "locationIt": "Villaggio di Frymburk, 45 km a sud di Český Krumlov sulla riva orientale del lago Lipno",
           "dogPolicyDe": "Die größte informelle Bade-Bucht für Hunde am Lipno-See liegt am nördlichen Ufer, gleich hinter dem Fähranleger von Frymburk, außerhalb des markierten öffentlichen Badestrands. Hunde ohne Leine im Wasser sind gängige Praxis, in der offiziellen abgegrenzten Badezone sind Hunde verboten (5.000 CZK / 200 € Bußgeld vor Ort).",
           "dogPolicyNl": "De grootste informele hondenzwembaai aan het Lipno-meer ligt aan de noordoever, net voorbij de veersteiger van Frymburk, buiten het aangegeven openbare zwemstrand. Loslopende honden in het water zijn hier gangbaar, in de officiële afgezette zwemzone zijn honden verboden (5.000 CZK / 200 € boete ter plaatse).",
+          "dogPolicyIt": "La zona informale più grande dove far nuotare i cani sul lago Lipno è sulla riva nord, appena oltre il pontile del traghetto di Frymburk, fuori dalla spiaggia pubblica delimitata. Qui i cani liberi in acqua sono la norma, nella zona di balneazione ufficiale delimitata i cani sono vietati (multa sul posto di 5.000 CZK / 200 euro).",
           "tipDe": "Am besten von Mitte Juni bis Anfang September, wenn der See 22 °C erreicht. Mit dem an der Leine hundefreundlichen Baumwipfelpfad Lipno (Stezka korunami stromů Lipno) 5 km nördlich verbinden, der Hunde auf seinem 675 m langen Holzsteg ausdrücklich zulässt.",
-          "tipNl": "Het beste van half juni tot begin september, wanneer het meer 22 °C bereikt. Combineer met het aan de lijn hondvriendelijke Lipno-boomtoppenpad (Stezka korunami stromů Lipno), 5 km noordelijker, dat honden uitdrukkelijk toelaat op zijn 675 m lange houten vlonderpad."
+          "tipNl": "Het beste van half juni tot begin september, wanneer het meer 22 °C bereikt. Combineer met het aan de lijn hondvriendelijke Lipno-boomtoppenpad (Stezka korunami stromů Lipno), 5 km noordelijker, dat honden uitdrukkelijk toelaat op zijn 675 m lange houten vlonderpad.",
+          "tipIt": "Il periodo migliore va da metà giugno a inizio settembre, quando il lago raggiunge i 22 gradi. Abbina il sentiero sospeso tra gli alberi di Lipno (Stezka korunami stromů Lipno), 5 km più a nord, adatto ai cani al guinzaglio, che ammette esplicitamente i cani sulla sua passerella di legno lunga 675 metri."
         },
         {
           "name": "Lipno Lake - Černá v Pošumaví dog beach",
@@ -371,22 +409,29 @@
           "tipPt": "O tráfego de veleiros é intenso aos fins de semana de verão, mantenha-se na faixa de banho para cães assinalada e evite o canal principal. Podem ocorrer florescências de cianobactérias (sinice) no final de agosto; o site regional de saúde pública (KHS Jihočeského kraje) atualiza a qualidade da água semanalmente.",
           "nameDe": "Lipno Lake - Černá v Pošumaví dog beach",
           "nameNl": "Lipno Lake - Černá v Pošumaví dog beach",
+          "nameIt": "Lipno Lake - Černá v Pošumaví dog beach",
           "locationDe": "Černá v Pošumaví, 35 km südwestlich von Český Krumlov am Nordufer des Lipno-Sees",
           "locationNl": "Černá v Pošumaví, 35 km ten zuidwesten van Český Krumlov aan de noordoever van het Lipno-meer",
+          "locationIt": "Černá v Pošumaví, 35 km a sudovest di Český Krumlov sulla riva nord del lago Lipno",
           "dogPolicyDe": "Ein kleiner, örtlich ausgeschilderter Hundebadebereich östlich des Hauptbadestrands des Dorfes. Gras- und Kieseinstieg, sanfte Neigung, ideal für Hunde, die zum ersten Mal schwimmen. Keine Gebühr, einfache Toiletten und ein Kiosk nur im Juli und August geöffnet.",
           "dogPolicyNl": "Een klein, plaatselijk aangeduid hondenzwemgebied ten oosten van het hoofdstrand van het dorp. Gras- en kiezelinstap, zachte helling, ideaal voor honden die voor het eerst zwemmen. Geen kosten, eenvoudig toilet en een kiosk die alleen in juli en augustus open is.",
+          "dogPolicyIt": "Una piccola zona per cani segnalata localmente a est della spiaggia principale del villaggio. Accesso erboso e ghiaioso, pendenza dolce, ideale per i cani che nuotano per la prima volta. Gratis, servizi essenziali e un chiosco aperto solo a luglio e agosto.",
           "tipDe": "An Sommerwochenenden herrscht reger Segelbootverkehr, an dem markierten Hundebadestreifen bleiben und das Hauptfahrwasser meiden. Ende August kann es zu Cyanobakterien-Blüten (sinice) kommen, die Website des regionalen Gesundheitsamts (KHS Jihočeského kraje) aktualisiert die Wasserqualität wöchentlich.",
-          "tipNl": "In zomerweekenden is er druk zeilbootverkeer, blijf op de aangeduide hondenzwemstrook en mijd de hoofdvaargeul. Eind augustus kunnen er cyanobacteriebloeien (sinice) optreden, de website van de regionale gezondheidsdienst (KHS Jihočeského kraje) update de waterkwaliteit wekelijks."
+          "tipNl": "In zomerweekenden is er druk zeilbootverkeer, blijf op de aangeduide hondenzwemstrook en mijd de hoofdvaargeul. Eind augustus kunnen er cyanobacteriebloeien (sinice) optreden, de website van de regionale gezondheidsdienst (KHS Jihočeského kraje) update de waterkwaliteit wekelijks.",
+          "tipIt": "Nei weekend estivi c'è molto traffico di barche a vela, resta nella fascia segnalata per cani ed evita il canale principale di navigazione. A fine agosto possono comparire fioriture di cianobatteri (sinice), il sito del servizio sanitario regionale (KHS Jihočeského kraje) aggiorna la qualità dell'acqua ogni settimana."
         }
       ],
       "titlePt": "Locais de banho para cães perto de Český Krumlov",
       "introPt": "Český Krumlov fica rodeada de terra, no sopé da Floresta da Boémia, mas o frio rio Vltava atravessa-a e o Lago Lipno, a maior albufeira da República Checa e a verdadeira riviera interior do país, fica apenas a 45 minutos para sul de carro. De maio a setembro, ambos oferecem banhos sem trela genuínos para cães, fora das praias turísticas assinaladas.",
       "titleDe": "Hundefreundliche Badestellen bei Český Krumlov",
       "titleNl": "Hondvriendelijke zwemplekken bij Český Krumlov",
+      "titleIt": "Posti dove nuotare con il cane vicino a Český Krumlov",
       "introDe": "Český Krumlov liegt im Landesinneren in den Ausläufern des Böhmerwalds, doch die kühle Vltava fließt hindurch, und der Lipno-Stausee, das größte Reservoir Tschechiens und die de-facto-Inlandsriviera des Landes, ist nur 45 Minuten südlich mit dem Auto entfernt. Von Mai bis September bieten beide echtes Schwimmen ohne Leine für Hunde außerhalb der ausgewiesenen Touristenstrände.",
       "introNl": "Český Krumlov ligt landinwaarts aan de voet van het Boheemse Woud, maar de koele Vltava stroomt er dwars doorheen en het Lipno-stuwmeer, het grootste reservoir van Tsjechië en de facto de binnenlandse Rivièra van het land, ligt slechts 45 minuten zuidelijker met de auto. Van mei tot september bieden beide echt loslopend zwemmen voor honden buiten de aangegeven toeristenstranden.",
+      "introIt": "Český Krumlov è nell'entroterra ai piedi della foresta boema, ma la fredda Vltava attraversa la città e il lago Lipno, il bacino più grande della Repubblica Ceca e di fatto la riviera interna del paese, è a soli 45 minuti a sud in auto. Da maggio a settembre entrambi offrono un vero nuoto libero per i cani fuori dalle spiagge turistiche segnalate.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Veterinary Clinics in & near Český Krumlov",
@@ -417,8 +462,10 @@
           "descriptionPt": "A clínica veterinária de dia mais central de Český Krumlov, a 7 minutos a pé da praça principal, no bairro de Plešivec. Cuidados gerais de pequenos animais, incluindo consultas, vacinações, verificação de microchip e documentação de viagem. Aceita atendimentos sem marcação, mas recomenda-se marcação prévia.",
           "hoursDe": "Mo-Fr 8:00-11:00 und 15:00-18:00, Sa 9:00-11:00. Sonntags geschlossen.",
           "hoursNl": "Ma-vr 8:00-11:00 en 15:00-18:00 uur, za 9:00-11:00 uur. Zondag gesloten.",
+          "hoursIt": "Lun-ven 8:00-11:00 e 15:00-18:00, sab 9:00-11:00. Domenica chiuso.",
           "descriptionDe": "Die zentralste Tagestierarztpraxis in Český Krumlov, 7 Gehminuten vom Hauptplatz im Stadtteil Plešivec entfernt. Allgemeine Kleintierversorgung einschließlich Beratung, Impfungen, Mikrochip-Kontrollen und Reisepapieren. Ohne Termin möglich, Terminvereinbarung wird jedoch empfohlen.",
-          "descriptionNl": "De meest centrale dagpraktijk voor dierenartsen in Český Krumlov, 7 minuten lopen van het hoofdplein in de wijk Plešivec. Algemene kleine-huisdierenzorg inclusief consulten, vaccinaties, chipcontroles en reisdocumenten. Inlopen kan, een afspraak maken wordt echter aanbevolen."
+          "descriptionNl": "De meest centrale dagpraktijk voor dierenartsen in Český Krumlov, 7 minuten lopen van het hoofdplein in de wijk Plešivec. Algemene kleine-huisdierenzorg inclusief consulten, vaccinaties, chipcontroles en reisdocumenten. Inlopen kan, een afspraak maken wordt echter aanbevolen.",
+          "descriptionIt": "L'ambulatorio veterinario diurno più centrale di Český Krumlov, a 7 minuti a piedi dalla piazza principale nel quartiere Plešivec. Assistenza generale per piccoli animali, con visite, vaccinazioni, controllo del microchip e documenti di viaggio. Puoi presentarti senza appuntamento, ma è consigliato prenotare."
         },
         {
           "name": "Veterina Domoradice - MVDr. Romana Vlčková",
@@ -440,8 +487,10 @@
           "descriptionPt": "Uma clínica de pequenos animais no bairro de Domoradice (3 km a nordeste do centro, 5 min de carro), útil quando a clínica central fecha ao final da tarde. Dispõe de raio-X digital e ecografia, laboratório próprio, e organiza o encaminhamento para České Budějovice para cirurgias.",
           "hoursDe": "Mo, Mi, Fr 8:00-11:00 und 15:00-18:00, Di/Do nach Terminvereinbarung.",
           "hoursNl": "Ma, wo, vr 8:00-11:00 en 15:00-18:00 uur, di/do op afspraak.",
+          "hoursIt": "Lun, mer, ven 8:00-11:00 e 15:00-18:00, mar/gio su appuntamento.",
           "descriptionDe": "Eine Kleintierpraxis im Stadtteil Domoradice (3 km nordöstlich des Zentrums, 5 Minuten mit dem Auto), nützlich, wenn die zentrale Klinik am späten Nachmittag geschlossen ist. Bietet digitales Röntgen und Ultraschall, ein hauseigenes Labor und vermittelt Überweisungen für Operationen nach České Budějovice.",
-          "descriptionNl": "Een kleine-huisdierenpraktijk in de wijk Domoradice (3 km ten noordoosten van het centrum, 5 minuten met de auto), handig als de centrale kliniek laat in de middag gesloten is. Biedt digitale röntgen en echografie, een eigen laboratorium en verwijst voor operaties naar České Budějovice."
+          "descriptionNl": "Een kleine-huisdierenpraktijk in de wijk Domoradice (3 km ten noordoosten van het centrum, 5 minuten met de auto), handig als de centrale kliniek laat in de middag gesloten is. Biedt digitale röntgen en echografie, een eigen laboratorium en verwijst voor operaties naar České Budějovice.",
+          "descriptionIt": "Un ambulatorio per piccoli animali nel quartiere Domoradice (3 km a nordest del centro, 5 minuti in auto), comodo quando la clinica centrale è chiusa nel tardo pomeriggio. Offre radiografia digitale ed ecografia, un laboratorio proprio e indirizza gli interventi chirurgici a České Budějovice."
         },
         {
           "name": "Veterinární klinika Budvet - 24h emergencies, České Budějovice",
@@ -464,18 +513,23 @@
           "descriptionPt": "O hospital de referência 24 horas para onde o município de Český Krumlov encaminha as emergências noturnas e de fim de semana, 25 km a norte pela E55. Hospital de serviço completo, com cirurgia, cuidados intensivos, laboratório próprio e imagiologia digital. Telefone antes de se deslocar, eles acionam a equipa de urgência.",
           "hoursDe": "24/7-Notfalldienst, diensthabender Tierarzt immer erreichbar.",
           "hoursNl": "24/7 spoedgevallendienst, de dienstdoende dierenarts is altijd bereikbaar.",
+          "hoursIt": "Pronto soccorso 24/7, il veterinario di turno è sempre raggiungibile.",
           "descriptionDe": "Das offizielle 24-Stunden-Referenzkrankenhaus, an das die Gemeinde Český Krumlov Notfälle nachts und am Wochenende verweist, 25 km nördlich an der E55. Vollversorgungskrankenhaus mit Operationssaal, Intensivstation, hauseigenem Labor und digitaler Bildgebung. Vor der Anfahrt anrufen, das diensthabende Team wird dann eingesetzt.",
-          "descriptionNl": "Het officiële 24-uursreferentieziekenhuis waar de gemeente Český Krumlov spoedgevallen 's nachts en in het weekend naar doorverwijst, 25 km noordelijker aan de E55. Volledig ziekenhuis met operatiekamer, intensive care, eigen laboratorium en digitale beeldvorming. Bel voor vertrek, dan wordt het dienstdoende team ingezet."
+          "descriptionNl": "Het officiële 24-uursreferentieziekenhuis waar de gemeente Český Krumlov spoedgevallen 's nachts en in het weekend naar doorverwijst, 25 km noordelijker aan de E55. Volledig ziekenhuis met operatiekamer, intensive care, eigen laboratorium en digitale beeldvorming. Bel voor vertrek, dan wordt het dienstdoende team ingezet.",
+          "descriptionIt": "L'ospedale di riferimento ufficiale h24 a cui il comune di Český Krumlov indirizza le emergenze notturne e del weekend, 25 km più a nord sulla E55. Ospedale completo con sala operatoria, terapia intensiva, laboratorio proprio e diagnostica per immagini digitale. Chiama prima di partire, così il team di turno si prepara."
         }
       ],
       "titlePt": "Clínicas veterinárias em Český Krumlov e arredores",
       "introPt": "A própria Český Krumlov tem duas pequenas clínicas de dia, mas NÃO tem serviço veterinário 24 horas. Para emergências noturnas e de fim de semana, a referência oficial do município é o hospital 24/7 em České Budějovice, 25 km a norte pela E55 (35 minutos de carro). Guarde estes números antes de chegar, a receção do hotel ajuda-o a telefonar mas não pode fazer triagem.",
       "titleDe": "Tierkliniken in und bei Český Krumlov",
       "titleNl": "Dierenklinieken in en bij Český Krumlov",
+      "titleIt": "Cliniche veterinarie a Český Krumlov e dintorni",
       "introDe": "Český Krumlov selbst verfügt über zwei kleine Tagespraxen, jedoch KEINEN 24-Stunden-Tierarztdienst. Für Notfälle nachts und am Wochenende ist die offizielle städtische Überweisung das 24/7-Krankenhaus in České Budějovice, 25 km nördlich an der E55 (35 Minuten Fahrt). Diese Nummern vor der Anreise speichern, ein Hotelempfang hilft beim Anrufen, kann aber keine Triage durchführen.",
       "introNl": "Český Krumlov zelf heeft twee kleine dagpraktijken, maar GEEN 24-uursdierenartsendienst. Voor spoedgevallen 's nachts en in het weekend is de officiële gemeentelijke verwijzing het 24/7-ziekenhuis in České Budějovice, 25 km noordelijker aan de E55 (35 minuten rijden). Sla deze nummers op voordat je vertrekt, een hotelreceptie kan helpen bellen maar geen triage uitvoeren.",
+      "introIt": "Český Krumlov ha solo due piccoli ambulatori diurni, ma NESSUN servizio veterinario 24 ore. Per le emergenze notturne e del weekend, l'indirizzo ufficiale del comune è l'ospedale 24/7 di České Budějovice, 25 km più a nord sulla E55 (35 minuti in auto). Salva questi numeri prima di partire, la reception dell'hotel può aiutarti a chiamare ma non a fare la valutazione medica.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Practical Tips for Český Krumlov with a Dog",
@@ -577,8 +631,10 @@
       ],
       "titleDe": "Praktische Tipps für Český Krumlov mit Hund",
       "titleNl": "Praktische tips voor Český Krumlov met hond",
+      "titleIt": "Consigli pratici per Český Krumlov con il cane",
       "introDe": "Český Krumlov empfängt jährlich fast 2 Millionen Besucher für eine Stadt mit nur 13.000 Einwohnern, das höchste Verhältnis von Touristen zu Einwohnern in Tschechien. Das Ergebnis ist, dass der gepflasterte Kern im Mai, September und an Winterwochentagen bezaubernd ist, im Juli, August und während der Weihnachtsmärkte jedoch regelrecht überwältigend. Diese Tipps konzentrieren sich darauf, mit den Menschenmassen, dem kühlen Flussmikroklima und dem stark kopfsteingepflasterten Untergrund umzugehen.",
       "introNl": "Český Krumlov ontvangt jaarlijks bijna 2 miljoen bezoekers voor een stad met maar 13.000 inwoners, de hoogste verhouding toeristen-inwoners van Tsjechië. Het gevolg is dat het geplaveide centrum in mei, september en op winterse doordeweekse dagen betoverend is, maar in juli, augustus en tijdens de kerstmarkten regelrecht overweldigend. Deze tips gaan over omgaan met de mensenmassa's, het koele riviermicroklimaat en de zwaar geplaveide ondergrond.",
+      "introIt": "Český Krumlov accoglie quasi 2 milioni di visitatori l'anno per una città di soli 13.000 abitanti, il rapporto turisti-residenti più alto della Repubblica Ceca. Il risultato è che il centro acciottolato è incantevole a maggio, settembre e nei giorni feriali invernali, ma decisamente travolgente a luglio, agosto e durante i mercatini di Natale. Questi consigli riguardano come gestire la folla, il microclima fresco del fiume e il fondo pesantemente lastricato.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund mit ins Schloss Český Krumlov nehmen?",
@@ -605,6 +661,20 @@
         {
           "q": "Is Český Krumlov hondvriendelijk in de winter?",
           "a": "Ja, en wellicht het beste jaargetijde. Diepe sneeuw van eind december tot februari verandert de stad in een ansichtkaart, het aantal bezoekers daalt met 80%, en kortharige rassen genieten van rustige besneeuwde steegjes. Pas op met strooizout, de gemeente strooit de hoofdsteegjes flink, hondenschoentjes of pootbalsem zijn aan te raden. De kasteeltuin is 's winters gesloten, maar de paden langs de rivier blijven toegankelijk."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane al Castello di Český Krumlov?",
+          "a": "I cani al guinzaglio corto sono benvenuti nei cortili esterni del castello (I.-IV. nádvoří), nel giardino del castello (da aprile a ottobre) e sul famoso Ponte del Mantello. Non sono ammessi da nessuna parte nelle sezioni museali interne (appartamenti di stato, teatro barocco, lapidario), che richiedono una visita guidata prenotata in anticipo, e i cani verrebbero respinti all'ingresso."
+        },
+        {
+          "q": "I cani sono ammessi sulle zattere sulla Vltava?",
+          "a": "La maggior parte dei noleggiatori di zattere rifiuta i cani per via della forma delle zattere di plastica stile pirata (aperte, instabili, condivise). Alcuni fornitori specializzati a Český Krumlov noleggiano canoe private in legno dove i cani sono benvenuti (cerca 'Pes vítán' / 'cane benvenuto' sul sito), sia Maleček che Vltava-Travel confermano i cani solo sulle canoe noleggiate separatamente, non sulle zattere di gruppo. Metti in conto 800-1.200 CZK / 32-48 euro per canoa più il supplemento cane."
+        },
+        {
+          "q": "Český Krumlov è pet-friendly d'inverno?",
+          "a": "Sì, ed è forse la stagione migliore. La neve alta da fine dicembre a febbraio trasforma la città in una cartolina, i visitatori calano dell'80% e le razze a pelo corto godono di vicoli innevati tranquilli. Attenzione al sale antighiaccio, il comune lo sparge abbondantemente sui vicoli principali, sono consigliati scarpette per cani o balsamo per zampe. Il giardino del castello è chiuso d'inverno, ma i sentieri lungo il fiume restano accessibili."
         }
       ]
     },
@@ -638,12 +708,16 @@
           "tipPt": "Suba pela entrada da Latrán e saia pela Ponte do Manto para o Jardim do Castelo, a subida é mais gradual deste lado e as vistas melhoram a cada pátio.",
           "nameDe": "Český Krumlov Castle - outer courtyards & Cloak Bridge",
           "nameNl": "Český Krumlov Castle - outer courtyards & Cloak Bridge",
+          "nameIt": "Český Krumlov Castle - outer courtyards & Cloak Bridge",
           "descriptionDe": "Der zweitgrößte Schlosskomplex Tschechiens nach der Prager Burg, thront über der Stadt auf einem Felsen an der Vltava-Schleife. Die fünf äußeren Höfe (I.-V. nádvoří), der Fuß des bemalten Rundturms und die dreistufige Mantelbrücke (Plášťový most), die das Schloss mit seinem Garten verbindet, sind alle offen und mit Hund an kurzer Leine kostenlos zugänglich.",
           "descriptionNl": "Het op één na grootste kasteelcomplex van Tsjechië na de Praagse Burcht, torent boven de stad op een rots aan de bocht van de Vltava. De vijf buitenste binnenplaatsen (I.-V. nádvoří), de voet van de beschilderde ronde toren en de drie verdiepingen tellende Mantelbrug (Plášťový most), die het kasteel met zijn tuin verbindt, zijn allemaal open en gratis toegankelijk met hond aan een korte lijn.",
+          "descriptionIt": "Il secondo complesso di castelli più grande della Repubblica Ceca dopo il Castello di Praga, domina la città su una roccia nell'ansa della Vltava. I cinque cortili esterni (I.-V. nádvoří), la base della torre rotonda dipinta e il Ponte del Mantello (Plášťový most) su tre livelli, che collega il castello al suo giardino, sono tutti aperti e accessibili gratis con il cane al guinzaglio corto.",
           "petPolicyDe": "Außenhöfe und Mantelbrücke: Hunde an kurzer Leine, freier Eintritt. Innenmuseumsrouten (Staatsgemächer, Barocktheater, Lapidarium): Hunde nicht erlaubt. Aufstieg auf den bemalten Rundturm (162 Stufen): keine Hunde. Bärenzwinger-Brüstung: Hunde auf Abstand erlaubt, nicht überlehnen.",
           "petPolicyNl": "Buitenste binnenplaatsen en Mantelbrug: honden aan korte lijn, gratis toegang. Binnenroutes van het museum (staatsvertrekken, baroktheater, lapidarium): honden niet toegestaan. Beklimming van de beschilderde ronde toren (162 treden): geen honden. Berenkuilbalustrade: honden op afstand toegestaan, niet overhangen.",
+          "petPolicyIt": "Cortili esterni e Ponte del Mantello: cani al guinzaglio corto, ingresso gratuito. Percorsi interni del museo (appartamenti di stato, teatro barocco, lapidario): cani non ammessi. Salita alla torre rotonda dipinta (162 gradini): niente cani. Balaustra della fossa degli orsi: cani ammessi a distanza, senza sporgersi.",
           "tipDe": "Über den Eingang Latrán hinaufgehen und über die Mantelbrücke zum Schlossgarten hinausgehen, der Aufstieg ist auf dieser Seite sanfter, und die Aussicht verbessert sich mit jedem Hof.",
-          "tipNl": "Loop via de ingang Latrán naar boven en ga via de Mantelbrug naar de kasteeltuin, de klim is aan deze kant zachter en het uitzicht wordt met elke binnenplaats beter."
+          "tipNl": "Loop via de ingang Latrán naar boven en ga via de Mantelbrug naar de kasteeltuin, de klim is aan deze kant zachter en het uitzicht wordt met elke binnenplaats beter.",
+          "tipIt": "Sali dall'ingresso di Latrán e passa dal Ponte del Mantello verso il giardino del castello, la salita da questo lato è più dolce e la vista migliora a ogni cortile."
         },
         {
           "name": "Náměstí Svornosti & the old town lanes",
@@ -667,12 +741,16 @@
           "tipPt": "Chegue às 7:30 no verão para fotografias da praça vazia antes de os autocarros de excursão descarregarem. Os cafés abrem a partir das 9:00; algumas esplanadas (U Hada, Hospoda Na Louži) deixam tigelas de água lá fora.",
           "nameDe": "Náměstí Svornosti & the old town lanes",
           "nameNl": "Náměstí Svornosti & the old town lanes",
+          "nameIt": "Náměstí Svornosti & the old town lanes",
           "descriptionDe": "Der dreieckige Renaissance-Hauptplatz im Herzen der UNESCO-Altstadt, umringt von pastellfarbenen Stadthäusern, dem Rathaus und der Mariensäule der Pestsäule (1716). Von hier aus erstrecken sich die Gassen Radniční, Latrán, Široká und Panská zu einem reinen Fußgängerlabyrinth, in dem angeleinte Hunde auf den Terrassen zu jeder Stunde willkommen sind.",
           "descriptionNl": "Het driehoekige renaissance hoofdplein in het hart van de UNESCO-oude stad, omringd door pastelkleurige stadshuizen, het stadhuis en de Mariazuil van de Pestkolom (1716). Vanaf hier lopen de steegjes Radniční, Latrán, Široká en Panská uit in een puur voetgangerslabyrint, waar aangelijnde honden op de terrassen op elk uur welkom zijn.",
+          "descriptionIt": "La piazza principale rinascimentale triangolare nel cuore del centro storico UNESCO, circondata da case colorate pastello, il municipio e la colonna mariana della peste (1716). Da qui i vicoli Radniční, Latrán, Široká e Panská si diramano in un puro labirinto pedonale, dove i cani al guinzaglio sono benvenuti nelle terrazze a qualsiasi ora.",
           "petPolicyDe": "Vollständig im Freien, angeleinte Hunde zu jeder Stunde willkommen. Kotbeutelspender an den Ecken des Platzes. Pflasterbelag ist rau, kleine Rassen könnten Schwierigkeiten haben.",
           "petPolicyNl": "Volledig in de open lucht, aangelijnde honden op elk uur welkom. Zakjesdispensers op de hoeken van het plein. Bestrating is ruw, kleine rassen kunnen er moeite mee hebben.",
+          "petPolicyIt": "Completamente all'aperto, cani al guinzaglio benvenuti a qualsiasi ora. Dispenser di sacchetti agli angoli della piazza. Il pavimento è irregolare, le razze piccole possono avere qualche difficoltà.",
           "tipDe": "Im Sommer um 7:30 Uhr kommen für Fotos des leeren Platzes, bevor die Tagesausflugsbusse eintreffen. Cafés öffnen ab 9:00 Uhr, einige Terrassen (U Hada, Hospoda Na Louži) stellen Wassernäpfe hinaus.",
-          "tipNl": "Kom 's zomers om 7:30 uur voor foto's van het lege plein, voordat de dagtripbussen aankomen. Cafés openen vanaf 9:00 uur, sommige terrassen (U Hada, Hospoda Na Louži) zetten waterbakken buiten."
+          "tipNl": "Kom 's zomers om 7:30 uur voor foto's van het lege plein, voordat de dagtripbussen aankomen. Cafés openen vanaf 9:00 uur, sommige terrassen (U Hada, Hospoda Na Louži) zetten waterbakken buiten.",
+          "tipIt": "Vieni alle 7:30 d'estate per foto della piazza vuota, prima che arrivino i pullman delle gite giornaliere. I caffè aprono dalle 9:00, alcune terrazze (U Hada, Hospoda Na Louži) mettono fuori ciotole d'acqua."
         },
         {
           "name": "Egon Schiele Art Centrum - courtyard & riverside terrace",
@@ -696,22 +774,29 @@
           "tipPt": "Vá em par, uma pessoa visita as galerias (conte com 90 min) enquanto a outra descansa na esplanada à beira-rio com o cão. Depois trocam. O café serve a cerveja local Eggenberg da cervejaria a 200 m de distância.",
           "nameDe": "Egon Schiele Art Centrum - courtyard & riverside terrace",
           "nameNl": "Egon Schiele Art Centrum - courtyard & riverside terrace",
+          "nameIt": "Egon Schiele Art Centrum - courtyard & riverside terrace",
           "descriptionDe": "Eine umgebaute Brauerei aus dem 16. Jahrhundert, die die größte Sammlung von Werken Egon Schieles im Land beherbergt (er lebte 1911 in Krumlov). Der ummauerte Kopfsteinpflasterhof und die hintere Flussuferterrasse mit Café sind hundefreundlich, auch wenn die Innengalerien es nicht sind, eine ruhige Pause zwischen zwei Besuchen am überfüllten Hauptplatz.",
           "descriptionNl": "Een verbouwde brouwerij uit de 16e eeuw met de grootste collectie werken van Egon Schiele in het land (hij woonde in 1911 in Krumlov). De ommuurde geplaveide binnenplaats en het achterste terras aan de rivier met café zijn hondvriendelijk, ook al zijn de galerieën binnen dat niet, een rustige pauze tussen twee bezoeken aan het drukke hoofdplein.",
+          "descriptionIt": "Un'ex birreria del XVI secolo con la più grande collezione di opere di Egon Schiele del paese (visse a Krumlov nel 1911). Il cortile acciottolato recintato e la terrazza sul retro sul fiume con caffè sono pet-friendly, anche se le gallerie interne non lo sono, una pausa tranquilla tra due visite alla trafficata piazza principale.",
           "petPolicyDe": "Außenhof und Flussuferterrasse mit Café: angeleinte Hunde willkommen. Innengalerien: Hunde nicht erlaubt. Kleine Hundetransportboxen nur im Eingangsshopbereich erlaubt.",
           "petPolicyNl": "Buitenplaats en terras aan de rivier met café: aangelijnde honden welkom. Galerieën binnen: honden niet toegestaan. Kleine hondendraagtassen alleen toegestaan in de ingangsshop.",
+          "petPolicyIt": "Cortile esterno e terrazza sul fiume con caffè: cani al guinzaglio benvenuti. Gallerie interne: cani non ammessi. Piccole borse da trasporto per cani ammesse solo nel negozio all'ingresso.",
           "tipDe": "Zu zweit reisen, eine Person besucht die Galerien (90 Minuten einplanen), während die andere sich mit dem Hund auf der Flussuferterrasse entspannt. Dann tauschen. Das Café serviert Eggenberg-Lokalbier aus der 200 m entfernten Brauerei.",
-          "tipNl": "Reis met zijn tweeën, één persoon bezoekt de galerieën (reken op 90 minuten), terwijl de ander met de hond ontspant op het terras aan de rivier. Wissel daarna. Het café schenkt Eggenberg lokaal bier van de brouwerij op 200 m afstand."
+          "tipNl": "Reis met zijn tweeën, één persoon bezoekt de galerieën (reken op 90 minuten), terwijl de ander met de hond ontspant op het terras aan de rivier. Wissel daarna. Het café schenkt Eggenberg lokaal bier van de brouwerij op 200 m afstand.",
+          "tipIt": "Viaggiate in due, una persona visita le gallerie (metti in conto 90 minuti), mentre l'altra si rilassa con il cane sulla terrazza sul fiume. Poi scambiatevi. Il caffè serve la birra locale Eggenberg del birrificio a 200 metri di distanza."
         }
       ],
       "titlePt": "Atrações e pontos de interesse pet-friendly em Český Krumlov",
       "introPt": "Quase tudo o que torna Český Krumlov Património Mundial da UNESCO pode ser apreciado ao ar livre com um cão com trela: os miradouros sobre o cotovelo do Vltava, a Ponte do Manto, os pátios do castelo, a Torre Redonda pintada vista de baixo e todo o centro histórico. As secções de museu interiores estão uniformemente fechadas a animais, mas a experiência ao ar livre é tão rica que mais do que preenche uma visita de 2 dias.",
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Český Krumlov",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Český Krumlov",
+      "titleIt": "Attrazioni pet-friendly a Český Krumlov",
       "introDe": "Das meiste, was Český Krumlov zu einer UNESCO-Welterbestätte macht, lässt sich im Freien mit angeleintem Hund genießen: die Aussichtspunkte an der Vltava-Schleife, die Mantelbrücke, die Schlosshöfe, der bemalte Rundturm von unten und das gesamte historische Zentrum. Innenbereiche der Museen sind durchweg für Haustiere gesperrt, doch das Außenerlebnis ist so dicht, dass es einen zweitägigen Besuch mehr als füllt.",
       "introNl": "Het meeste van wat Český Krumlov tot een UNESCO-werelderfgoedstad maakt, kun je buiten genieten met een aangelijnde hond: de uitzichtpunten aan de bocht van de Vltava, de Mantelbrug, de kasteelbinnenplaatsen, de beschilderde ronde toren van onderaf en het hele historische centrum. Binnenruimtes van musea zijn doorgaans gesloten voor huisdieren, maar de buitenervaring is zo rijk dat die een bezoek van twee dagen ruimschoots vult.",
+      "introIt": "La maggior parte di ciò che rende Český Krumlov una città patrimonio UNESCO si può godere all'aperto con il cane al guinzaglio: i punti panoramici sull'ansa della Vltava, il Ponte del Mantello, i cortili del castello, la torre rotonda dipinta vista da sotto e l'intero centro storico. Gli spazi interni dei musei sono generalmente chiusi agli animali, ma l'esperienza all'aperto è così ricca da riempire ampiamente una visita di due giorni.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet-Sitting & Dog-Walking Services in Český Krumlov",
@@ -768,10 +853,13 @@
       "introPt": "Český Krumlov é demasiado pequena para sustentar uma agência comercial dedicada de pet-sitting, mas duas plataformas checas entre particulares têm cuidadores verificados na cidade e nas aldeias em redor, e o concierge de um hotel arranja muitas vezes um passeador de curto prazo da mesma rede. Planeie com antecedência, a disponibilidade dos cuidadores reduz-se na época alta (junho a setembro) e durante os mercados de Natal.",
       "titleDe": "Haustierbetreuung & Gassiservice in Český Krumlov",
       "titleNl": "Huisdierenoppas en uitlaatservice in Český Krumlov",
+      "titleIt": "Pet-sitting e dog-walking a Český Krumlov",
       "introDe": "Český Krumlov ist zu klein, um eine eigene kommerzielle Hundebetreuungsagentur zu tragen, doch zwei landesweite tschechische Peer-to-Peer-Plattformen haben verifizierte Betreuer in der Stadt und den umliegenden Dörfern, und ein Hotelconcierge organisiert oft kurzfristig einen Gassigeher aus demselben Netzwerk. Planen Sie im Voraus, die Verfügbarkeit von Betreuern verknappt sich in der Hochsaison (Juni bis September) und während der Weihnachtsmärkte.",
       "introNl": "Český Krumlov is te klein voor een eigen commercieel hondenoppasbureau, maar twee landelijke Tsjechische peer-to-peerplatforms hebben geverifieerde oppassers in de stad en de omliggende dorpen, en een hotelconcierge regelt vaak op korte termijn een hondenuitlater uit datzelfde netwerk. Plan vooruit, de beschikbaarheid van oppassers wordt krapper in het hoogseizoen (juni tot september) en tijdens de kerstmarkten.",
+      "introIt": "Český Krumlov è troppo piccola per avere una sua agenzia commerciale di pet-sitting, ma due piattaforme nazionali ceche peer-to-peer hanno sitter verificati in città e nei villaggi vicini, e la reception dell'hotel spesso organizza a breve preavviso un dog-walker della stessa rete. Pianifica in anticipo, la disponibilità dei sitter si riduce nell'alta stagione (da giugno a settembre) e durante i mercatini di Natale.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

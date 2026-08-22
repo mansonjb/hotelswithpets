@@ -41,12 +41,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Fonda+Pepe+Sant+Ferran+Formentera",
           "descriptionDe": "Ein Dorfgasthaus aus den 1960er-Jahren im Herzen von Sant Ferran, dem bohemischen Gegenstück zum touristischen Es Pujols, wo einst Bob Dylan und Joni Mitchell während ihrer Formentera-Aufenthalte tranken. Die schattige Außenterrasse gegenüber der Dorfkirche heißt angeleinte Hunde willkommen, das Personal bringt ungefragt Wasser, und die Karte setzt auf traditionelle payesa-Küche mit gegrilltem Fisch, Paella und Tortillas.",
           "descriptionNl": "Een dorpsherberg uit de jaren 60 in het hart van Sant Ferran, het bohemien tegendeel van het toeristische Es Pujols, waar ooit Bob Dylan en Joni Mitchell dronken tijdens hun verblijven op Formentera. Het schaduwrijke buitenterras tegenover de dorpskerk heet aangelijnde honden welkom, het personeel brengt ongevraagd water, en de kaart draait om traditionele payesa-keuken met gegrilde vis, paella en tortilla's.",
+          "descriptionIt": "Un'osteria di paese degli anni '60 nel cuore di Sant Ferran, il contraltare bohémien della turistica Es Pujols, dove un tempo bevevano Bob Dylan e Joni Mitchell durante i loro soggiorni a Formentera. Il dehors ombreggiato di fronte alla chiesa del paese accoglie i cani al guinzaglio, il personale porta l'acqua senza che tu la chieda, e il menu ruota intorno alla cucina tradizionale payesa con pesce alla griglia, paella e tortillas.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op het terras",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza",
           "mustTryDe": "Paella de marisco, Tortilla payesa, Sangría",
           "mustTryNl": "Paella de marisco, tortilla payesa, sangría",
+          "mustTryIt": "Paella de marisco, tortilla payesa, sangría",
           "tipDe": "Zum Sonnenuntergang kommen für Live-Folkmusik auf dem Kirchplatz; im Juli und August füllt sich der Ort schnell",
-          "tipNl": "Kom bij zonsondergang voor live folkmuziek op het kerkplein; in juli en augustus loopt het snel vol"
+          "tipNl": "Kom bij zonsondergang voor live folkmuziek op het kerkplein; in juli en augustus loopt het snel vol",
+          "tipIt": "Vieni al tramonto per la musica folk dal vivo in piazza della chiesa; a luglio e agosto si riempie in fretta"
         },
         {
           "name": "Es Molí de Sal",
@@ -74,12 +78,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Es+Moli+de+Sal+Ses+Illetes+Formentera",
           "descriptionDe": "Umgebaut aus einer Salzmühle des 18. Jahrhunderts am Eingang zum Strand Ses Illetes, ist dies der ikonische Sonnenuntergangstisch Formenteras, mit weißem Sand, der sich am Horizont bis nach Ibiza erstreckt. Angeleinte Hunde sind an den Holzterrassentischen im Freien mit Blick aufs Wasser willkommen, auf Wunsch bringt das Personal Wassernäpfe. Fischbetonte Karte mit gegrillten roten Garnelen, Hummer-Paella und dem Eintopf Bullit de peix.",
           "descriptionNl": "Verbouwd uit een zoutmolen uit de 18e eeuw bij de ingang van strand Ses Illetes, dit is het iconische zonsondergangstafeltje van Formentera, met wit zand dat zich aan de horizon uitstrekt tot Ibiza. Aangelijnde honden zijn welkom aan de houten buitentafels met uitzicht op het water, op verzoek brengt het personeel waterbakjes. Viskaart met gegrilde rode garnalen, kreeftpaella en de stoofpot bullit de peix.",
+          "descriptionIt": "Ricavato da un mulino del sale del XVIII secolo all'ingresso della spiaggia di Ses Illetes, questo è il tavolo del tramonto più iconico di Formentera, con sabbia bianca che si estende all'orizzonte fino a Ibiza. I cani al guinzaglio sono benvenuti ai tavoli in legno all'aperto affacciati sul mare, su richiesta il personale porta ciotole d'acqua. Menu di pesce con gamberi rossi alla griglia, paella all'aragosta e lo stufato bullit de peix.",
           "petPolicyDe": "Angeleinte Hunde auf der Holzterrasse im Freien willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op het houten buitenterras",
+          "petPolicyIt": "Cani al guinzaglio benvenuti nel dehors in legno",
           "mustTryDe": "Bullit de peix, gegrillte rote Garnelen, Hummer-Paella",
           "mustTryNl": "Bullit de peix, gegrilde rode garnalen, kreeftpaella",
+          "mustTryIt": "Bullit de peix, gamberi rossi alla griglia, paella all'aragosta",
           "tipDe": "Den Sonnenuntergangs-Slot 5-7 Tage im Voraus buchen, in der Nebensaison; im Juli/August zwei Wochen im Voraus, die Terrasse hat nur 20 Tische",
-          "tipNl": "Boek de zonsondergangsplek 5-7 dagen van tevoren in het laagseizoen; in juli/augustus twee weken van tevoren, het terras heeft maar 20 tafels"
+          "tipNl": "Boek de zonsondergangsplek 5-7 dagen van tevoren in het laagseizoen; in juli/augustus twee weken van tevoren, het terras heeft maar 20 tafels",
+          "tipIt": "Prenota il tavolo per il tramonto 5-7 giorni prima in bassa stagione; a luglio/agosto due settimane prima, la terrazza ha solo 20 tavoli"
         },
         {
           "name": "Can Carlos",
@@ -107,20 +115,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Can+Carlos+Sant+Francesc+Formentera",
           "descriptionDe": "Restauriertes Bauernhaus aus dem 18. Jahrhundert nahe der Inselhauptstadt, mit ummauertem Steingarten, beleuchtet von Laternen und beschattet von Johannisbrotbäumen. Angeleinte Hunde sind auf der Gartenterrasse willkommen (nicht im Innenraum), und Wassernäpfe erscheinen am Tisch. Italienisch-spanische Küche mit hausgemachter Pasta, iberischem Schwein und Fisch aus Formentera.",
           "descriptionNl": "Gerestaureerde boerderij uit de 18e eeuw bij de hoofdstad van het eiland, met een ommuurde stenen tuin, verlicht door lantaarns en beschaduwd door johannesbroodbomen. Aangelijnde honden zijn welkom op het tuinterras (niet binnen), en waterbakjes verschijnen aan tafel. Italiaans-Spaanse keuken met huisgemaakte pasta, Iberisch varkensvlees en vis van Formentera.",
+          "descriptionIt": "Casolare restaurato del XVIII secolo vicino alla capitale dell'isola, con un giardino in pietra recintato, illuminato da lanterne e ombreggiato da carrubi. I cani al guinzaglio sono benvenuti nel dehors del giardino (non all'interno), e le ciotole d'acqua arrivano al tavolo. Cucina italo-spagnola con pasta fatta in casa, maiale iberico e pesce di Formentera.",
           "petPolicyDe": "Angeleinte Hunde auf der Gartenterrasse willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op het tuinterras",
+          "petPolicyIt": "Cani al guinzaglio benvenuti nel dehors del giardino",
           "mustTryDe": "Hausgemachte Pasta, gegrilltes iberisches Schwein, Fisch aus Formentera",
           "mustTryNl": "Huisgemaakte pasta, gegrild Iberisch varkensvlees, vis van Formentera",
+          "mustTryIt": "Pasta fatta in casa, maiale iberico alla griglia, pesce di Formentera",
           "tipDe": "Bei der Buchung nach einem Gartentisch fragen; die Terrasse ist warm beleuchtet und ruhiger als der vordere Raum",
-          "tipNl": "Vraag bij het boeken om een tafel in de tuin; het terras is warm verlicht en rustiger dan de voorkant"
+          "tipNl": "Vraag bij het boeken om een tafel in de tuin; het terras is warm verlicht en rustiger dan de voorkant",
+          "tipIt": "Chiedi un tavolo in giardino al momento della prenotazione; la terrazza è illuminata in modo caldo e più tranquilla della zona davanti"
         }
       ],
       "titleDe": "Hundefreundliche Restaurants auf Formentera",
       "titleNl": "Hondvriendelijke restaurants op Formentera",
+      "titleIt": "Ristoranti pet friendly a Formentera",
       "introDe": "Formenteras Gastroszene lebt von Terrassen, sandbödigen Chiringuitos und Dorfplätzen, auf denen Hunde von der langen Nebensaison bis zum Sommer zum Alltagsbild gehören. Das spanische Gesetz verbietet Haustiere in Innenräumen von Restaurants, sofern der Inhaber nicht zustimmt, doch auf einer so kleinen Insel findet fast jedes denkwürdige Essen im Freien statt. Die drei folgenden Adressen heißen angeleinte Hunde das ganze Jahr willkommen und stellen Wassernäpfe hin, ohne dass man danach fragen muss.",
       "introNl": "De horeca van Formentera draait om terrassen, zandvloer-chiringuitos en dorpspleinen, waar honden vanaf het lange laagseizoen tot in de zomer een dagelijks beeld zijn. De Spaanse wet verbiedt huisdieren binnen in restaurants, tenzij de eigenaar ermee instemt, maar op zo'n klein eiland vindt bijna elke gedenkwaardige maaltijd buiten plaats. De drie adressen hieronder heten het hele jaar aangelijnde honden welkom en zetten waterbakjes neer zonder dat je erom hoeft te vragen.",
+      "introIt": "La ristorazione di Formentera ruota intorno a dehors, chiringuitos con pavimento di sabbia e piazze di paese, dove i cani sono una presenza quotidiana dalla lunga bassa stagione fino all'estate. La legge spagnola vieta gli animali all'interno dei ristoranti, a meno che il proprietario non acconsenta, ma su un'isola così piccola quasi ogni pasto memorabile si consuma fuori. I tre indirizzi qui sotto accolgono cani al guinzaglio tutto l'anno e mettono ciotole d'acqua senza che tu debba chiederle.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks & Nature in Formentera",
@@ -159,10 +174,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parc+Natural+Ses+Salines+Formentera",
           "descriptionDe": "Die nördliche Halbinsel Formenteras liegt innerhalb des geschützten Naturparks Ses Salines d'Eivissa i Formentera, den sie sich mit dem südlichen Ibiza teilt. Flache unbefestigte Wege umkreisen die Lagunen Estany Pudent und Estany des Peix, in denen rosa Flamingos überwintern, umgeben von Wacholderbüschen und Salinen. Angeleinte Hunde sind auf den Randwegen ganzjährig willkommen; die Beobachtungsstellen der Flamingos sollten nicht angenähert werden.",
           "descriptionNl": "Het noordelijke schiereiland van Formentera ligt binnen het beschermde natuurpark Ses Salines d'Eivissa i Formentera, dat het deelt met het zuiden van Ibiza. Vlakke onverharde paden lopen rond de lagunes Estany Pudent en Estany des Peix, waar roze flamingo's overwinteren, omgeven door jeneverbesstruiken en zoutpannen. Aangelijnde honden zijn het hele jaar welkom op de randpaden; kom niet te dicht bij de waarnemingsplekken van de flamingo's.",
+          "descriptionIt": "La penisola settentrionale di Formentera si trova all'interno del parco naturale protetto Ses Salines d'Eivissa i Formentera, che condivide con il sud di Ibiza. Sentieri sterrati e pianeggianti girano intorno alle lagune di Estany Pudent ed Estany des Peix, dove i fenicotteri rosa svernano, circondati da ginepri e saline. I cani al guinzaglio sono benvenuti tutto l'anno sui sentieri perimetrali; non avvicinarti troppo ai punti di osservazione dei fenicotteri.",
           "petPolicyDe": "Angeleinte Hunde auf Randwegen ganzjährig; Wandern abseits der Wege verboten",
           "petPolicyNl": "Aangelijnde honden het hele jaar op randpaden; wandelen buiten de paden verboden",
+          "petPolicyIt": "Cani al guinzaglio tutto l'anno sui sentieri perimetrali; camminare fuori dai sentieri vietato",
           "tipDe": "Im Sommer eigenes Wasser mitbringen; der Park hat keine Brunnen, und Schatten ist nach 11 Uhr rar",
-          "tipNl": "Neem in de zomer je eigen water mee; het park heeft geen fonteinen, en schaduw is schaars na 11 uur"
+          "tipNl": "Neem in de zomer je eigen water mee; het park heeft geen fonteinen, en schaduw is schaars na 11 uur",
+          "tipIt": "Porta la tua acqua in estate; il parco non ha fontane, e l'ombra scarseggia dopo le 11"
         },
         {
           "name": "Camí Romà to La Mola plateau",
@@ -190,10 +208,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cami+Roma+La+Mola+Formentera",
           "descriptionDe": "Ein historischer Erd- und Steinweg, der von Es Caló de Sant Agustí die Klippe hinauf zum Plateau von La Mola führt und seit römischer Zeit genutzt wird. Der 5 km lange Aufstieg führt durch Pinienhaine und steinummauerte Felder mit weitem Blick auf die Nordküste. Angeleinte Hunde sind die ganze Strecke willkommen; die Steigung ist sanft genug für ältere Hunde, und der Weg bietet schattige Abschnitte.",
           "descriptionNl": "Een historisch aarden en stenen pad dat vanaf Es Caló de Sant Agustí de klif op loopt naar het plateau van La Mola, in gebruik sinds de Romeinse tijd. De klim van 5 km loopt door pijnbosjes en met stenen omheinde akkers met wijds uitzicht op de noordkust. Aangelijnde honden zijn de hele route welkom; de helling is zacht genoeg voor oudere honden, en het pad biedt schaduwrijke stukken.",
+          "descriptionIt": "Un antico sentiero in terra e pietra che sale dalla scogliera di Es Caló de Sant Agustí fino all'altopiano di La Mola, in uso fin dall'epoca romana. La salita di 5 km attraversa pinete e campi delimitati da muretti di pietra con ampie viste sulla costa nord. I cani al guinzaglio sono benvenuti su tutto il percorso; la pendenza è dolce abbastanza per i cani anziani, e il sentiero offre tratti ombreggiati.",
           "petPolicyDe": "Angeleinte Hunde ganzjährig willkommen",
           "petPolicyNl": "Aangelijnde honden het hele jaar welkom",
+          "petPolicyIt": "Cani al guinzaglio benvenuti tutto l'anno",
           "tipDe": "Im Sommer bei Sonnenaufgang starten; oberhalb von 100 m wird der Aufstieg exponiert, sobald man den Pinienschatten verlässt",
-          "tipNl": "Vertrek in de zomer bij zonsopgang; boven de 100 m wordt de klim bloot aan de zon zodra je de pijnbomenschaduw verlaat"
+          "tipNl": "Vertrek in de zomer bij zonsopgang; boven de 100 m wordt de klim bloot aan de zon zodra je de pijnbomenschaduw verlaat",
+          "tipIt": "Parti all'alba in estate; sopra i 100 m la salita diventa esposta al sole appena lasci l'ombra delle pinete"
         },
         {
           "name": "Cap de Barbaria peninsula",
@@ -221,18 +242,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Far+de+Cap+de+Barbaria+Formentera",
           "descriptionDe": "Die wilde südliche Halbinsel Formenteras läuft an den Klippen in einem Leuchtturm aus, mit Wacholderbüschen, prähistorischen bronzezeitlichen Siedlungsresten und einem einzigen unbefestigten cami-Weg entlang des Rückens. Angeleinte Hunde sind auf der gesamten 7 km langen Strecke zum Leuchtturm willkommen, ob mit dem Auto oder zu Fuß; das umgebende Buschland ist frei zugänglich zu Fuß und bietet die dramatischsten Klippen-Sonnenuntergänge der Insel, fernab der Menschenmassen.",
           "descriptionNl": "Het wilde zuidelijke schiereiland van Formentera loopt bij de klippen uit in een vuurtoren, met jeneverbesstruiken, prehistorische bronstijdresten en één enkel onverhard cami-pad langs de rug. Aangelijnde honden zijn welkom op het hele traject van 7 km naar de vuurtoren, met de auto of te voet; het omliggende struikland is vrij toegankelijk te voet en biedt de meest dramatische klifzonsondergangen van het eiland, ver van de mensenmassa's.",
+          "descriptionIt": "La selvaggia penisola meridionale di Formentera termina alle scogliere con un faro, con ginepri, resti preistorici dell'età del bronzo e un unico sentiero sterrato (camí) lungo la dorsale. I cani al guinzaglio sono benvenuti su tutto il percorso di 7 km fino al faro, in auto o a piedi; la macchia circostante è liberamente accessibile a piedi e offre i tramonti da scogliera più spettacolari dell'isola, lontano dalla folla.",
           "petPolicyDe": "Angeleinte Hunde ganzjährig willkommen",
           "petPolicyNl": "Aangelijnde honden het hele jaar welkom",
+          "petPolicyIt": "Cani al guinzaglio benvenuti tutto l'anno",
           "tipDe": "Zum Sonnenuntergang hinausfahren und eine Taschenlampe mitbringen; die Rückfahrstraße ist unbeleuchtet, und das Buschland ist im Dunkeln verwirrend",
-          "tipNl": "Rij erheen bij zonsondergang en neem een zaklamp mee; de terugweg is onverlicht, en het struikland is verwarrend in het donker"
+          "tipNl": "Rij erheen bij zonsondergang en neem een zaklamp mee; de terugweg is onverlicht, en het struikland is verwarrend in het donker",
+          "tipIt": "Vacci al tramonto e porta una torcia; il ritorno non è illuminato, e la macchia confonde al buio"
         }
       ],
       "titleDe": "Hundefreundliche Parks & Natur auf Formentera",
       "titleNl": "Hondvriendelijke parken & natuur op Formentera",
+      "titleIt": "Parchi e natura pet friendly a Formentera",
       "introDe": "Formentera hat keine großen städtischen Hundeparks, gleicht dies aber durch eine flache, überwiegend autofreie Inselgeografie aus, die das gesamte Inland in einen einzigen langen Hundespaziergang verwandelt. Steinmauerfelder, Wacholderbüsche, Pinienhaine und unbefestigte cami-Wege verbinden die Dörfer, und der geschützte Park Ses Salines am nördlichen Ende ist von Oktober bis Mai ein Paradies für angeleinte Hunde. Die örtliche Verordnung verlangt in Schutzzonen ganzjährig Leinenpflicht; die östlichsten Klippen von La Mola bieten das wildeste, ruhigste Freilaufgebiet für Hunde mit gutem Rückruf.",
       "introNl": "Formentera heeft geen grote stedelijke hondenparken, maar compenseert dat met een vlakke, grotendeels autovrije eilandgeografie die het hele binnenland in één lange hondenwandeling verandert. Met stenen omheinde akkers, jeneverbesstruiken, pijnbosjes en onverharde cami-paden verbinden de dorpen, en het beschermde park Ses Salines aan het noordelijke uiteinde is van oktober tot mei een paradijs voor aangelijnde honden. De lokale verordening vereist het hele jaar aanlijnplicht in beschermde zones; de meest oostelijke klippen van La Mola bieden het wildste, rustigste losloopgebied voor honden met een goede terugroep.",
+      "introIt": "Formentera non ha grandi parchi urbani per cani, ma compensa con una geografia isolana pianeggiante e in gran parte priva di auto che trasforma tutto l'entroterra in una lunga passeggiata per cani. Campi delimitati da muretti di pietra, ginepri, pinete e sentieri sterrati (camí) collegano i paesi, e il parco protetto di Ses Salines all'estremità nord è un paradiso per cani al guinzaglio da ottobre a maggio. L'ordinanza locale impone il guinzaglio tutto l'anno nelle zone protette; le scogliere più orientali di La Mola offrono l'area di sgambamento più selvaggia e tranquilla per cani con un buon richiamo.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Getting To and Around Formentera with a Pet",
@@ -267,12 +294,16 @@
           "moreInfoUrl": "https://www.balearia.com",
           "descriptionDe": "Drei Betreiber (Balearia, Aquabus, Trasmapi) fahren ganzjährig häufige Schnellfähren vom Hafen von Ibiza-Stadt nach La Savina in 30-45 Minuten, im Sommer mit bis zu zwei Abfahrten pro Stunde. Hunde reisen kostenlos auf dem offenen Außendeck oder gegen Aufpreis (5-10 €) in haustierfreundlichen Kabinen auf den größeren Booten. La Savina ist der einzige Hafen: Jede Auto-, Roller- und Fahrradvermietung auf der Insel beginnt hier.",
           "descriptionNl": "Drie maatschappijen (Balearia, Aquabus, Trasmapi) varen het hele jaar frequente snelveerboten van de haven van Ibiza-stad naar La Savina in 30-45 minuten, in de zomer met tot twee afvaarten per uur. Honden reizen gratis mee op het open buitendek of tegen meerprijs (5-10€) in huisdiervriendelijke cabines op de grotere boten. La Savina is de enige haven: elke auto-, scooter- en fietsverhuur op het eiland begint hier.",
+          "descriptionIt": "Tre compagnie (Balearia, Aquabus, Trasmapi) collegano tutto l'anno il porto di Ibiza città a La Savina con traghetti veloci frequenti in 30-45 minuti, d'estate fino a due partenze all'ora. I cani viaggiano gratis sul ponte scoperto o con un supplemento (5-10€) nelle cabine pet friendly delle navi più grandi. La Savina è l'unico porto: qui iniziano tutti i noleggi di auto, scooter e biciclette dell'isola.",
           "petPolicyDe": "Hunde kostenlos auf dem offenen Deck; 5-10 € Aufpreis für Kabine oder Innenraum",
           "petPolicyNl": "Honden gratis op het open dek; 5-10€ meerprijs voor cabine of binnenruimte",
+          "petPolicyIt": "Cani gratis sul ponte scoperto; supplemento di 5-10€ per cabina o spazio interno",
           "ticketPriceDe": "16–32 € Hin- und Rückfahrt pro Person, 5-10 € zusätzlich für den Hund",
           "ticketPriceNl": "16-32€ retour per persoon, 5-10€ extra voor de hond",
+          "ticketPriceIt": "16-32€ andata e ritorno a persona, 5-10€ in più per il cane",
           "tipDe": "Die Fähre um 07:30 oder 08:00 Uhr nehmen, um vor der Tagesausflugswelle anzukommen; Maulkörbe sind nicht vorgeschrieben, aber eine Leine ist auf dem Deck Pflicht",
-          "tipNl": "Neem de veerboot van 07:30 of 08:00 uur om aan te komen voor de golf dagjesmensen; muilkorven zijn niet verplicht, maar een lijn is wel verplicht op het dek"
+          "tipNl": "Neem de veerboot van 07:30 of 08:00 uur om aan te komen voor de golf dagjesmensen; muilkorven zijn niet verplicht, maar een lijn is wel verplicht op het dek",
+          "tipIt": "Prendi il traghetto delle 07:30 o delle 08:00 per arrivare prima dell'ondata di gitanti giornalieri; la museruola non è obbligatoria, ma il guinzaglio sì sul ponte"
         },
         {
           "name": "Autocares Paya island buses",
@@ -297,12 +328,16 @@
           "moreInfoUrl": "https://busformentera.com",
           "descriptionDe": "Der einzige öffentliche Busbetreiber der Insel mit fünf Linien, die den Hafen La Savina mit Sant Francesc, Es Pujols, La Mola, Es Caló und Es Caló de Sant Agustí verbinden. Kleine Hunde in geschlossenen Transportboxen reisen kostenlos; mittelgroße und große Hunde liegen im Ermessen des Fahrers (Maulkorb und Leine empfohlen). Im Sommer stündlicher Takt, im Winter alle 2-3 Stunden, in der Nebensaison sonntags kein Betrieb.",
           "descriptionNl": "De enige openbare busmaatschappij van het eiland met vijf lijnen die de haven La Savina verbinden met Sant Francesc, Es Pujols, La Mola, Es Caló en Es Caló de Sant Agustí. Kleine honden in gesloten transportboxen reizen gratis mee; middelgrote en grote honden zijn afhankelijk van het oordeel van de chauffeur (muilkorf en lijn aanbevolen). In de zomer elk uur, in de winter om de 2-3 uur, in het laagseizoen op zondag geen dienst.",
+          "descriptionIt": "L'unica compagnia di autobus pubblica dell'isola con cinque linee che collegano il porto di La Savina con Sant Francesc, Es Pujols, La Mola, Es Caló ed Es Caló de Sant Agustí. I cani piccoli in trasportino chiuso viaggiano gratis; per i cani medi e grandi decide l'autista (museruola e guinzaglio consigliati). D'estate ogni ora, d'inverno ogni 2-3 ore, in bassa stagione nessun servizio la domenica.",
           "petPolicyDe": "Kleine Hunde in Transportboxen kostenlos; große Hunde nach Ermessen des Fahrers",
           "petPolicyNl": "Kleine honden in transportboxen gratis; grote honden naar oordeel van de chauffeur",
+          "petPolicyIt": "Cani piccoli in trasportino gratis; cani grandi a discrezione dell'autista",
           "ticketPriceDe": "2–4 € Einzelfahrt, für Hunde kostenlos",
           "ticketPriceNl": "2-4€ enkele reis, gratis voor honden",
+          "ticketPriceIt": "2-4€ a tratta, gratis per i cani",
           "tipDe": "Fahrpläne bei Ankunft am Hafen La Savina prüfen; die winterlichen Sonntagslücken überraschen Tagesausflügler aus Ibiza",
-          "tipNl": "Check de dienstregeling bij aankomst in de haven La Savina; de zondagse gaten in de winter verrassen dagjesmensen vanuit Ibiza"
+          "tipNl": "Check de dienstregeling bij aankomst in de haven La Savina; de zondagse gaten in de winter verrassen dagjesmensen vanuit Ibiza",
+          "tipIt": "Controlla gli orari all'arrivo al porto di La Savina; le interruzioni domenicali invernali sorprendono i gitanti in arrivo da Ibiza"
         },
         {
           "name": "Bike & e-bike rentals (La Savina port)",
@@ -327,20 +362,27 @@
           "moreInfoUrl": "https://www.formentera.es",
           "descriptionDe": "Ein halbes Dutzend Verleihläden gruppieren sich am Kai des Hafens La Savina (Rentcar Migjorn, Moto Rent Migjorn, Bicis Formentera) und vermieten Fahrräder, E-Bikes und Roller tage- oder wochenweise. Die meisten Anbieter erlauben kleine Hunde in einem festen Frontkorb (max. 10 kg), angeleint im Korb; Helme und einfache Korbeinlagen für Hunde sind meist inbegriffen. Preise ab 8 €/Tag für ein Stadtrad bis 25 €/Tag für ein E-Bike.",
           "descriptionNl": "Een half dozijn verhuurzaken groeperen zich bij de kade van de haven La Savina (Rentcar Migjorn, Moto Rent Migjorn, Bicis Formentera) en verhuren fietsen, e-bikes en scooters per dag of per week. De meeste aanbieders staan kleine honden toe in een vaste voormand (max. 10 kg), aangelijnd in de mand; helmen en eenvoudige mandbekleding voor honden zijn meestal inbegrepen. Prijzen vanaf 8€/dag voor een stadsfiets tot 25€/dag voor een e-bike.",
+          "descriptionIt": "Una mezza dozzina di noleggiatori si concentra vicino al molo del porto di La Savina (Rentcar Migjorn, Moto Rent Migjorn, Bicis Formentera) e affitta biciclette, e-bike e scooter a giorno o a settimana. La maggior parte dei fornitori ammette cani piccoli in un cestino anteriore fisso (max 10 kg), al guinzaglio nel cestino; caschi e imbottiture semplici per cani sono di solito inclusi. Prezzi da 8€/giorno per una bici da città a 25€/giorno per un'e-bike.",
           "petPolicyDe": "Kleine Hunde (max. 10 kg) im festen Frontkorb, im Korb angeleint",
           "petPolicyNl": "Kleine honden (max. 10 kg) in vaste voormand, aangelijnd in de mand",
+          "petPolicyIt": "Cani piccoli (max 10 kg) nel cestino anteriore fisso, al guinzaglio nel cestino",
           "ticketPriceDe": "8–25 €/Tag für Fahrrad oder E-Bike",
           "ticketPriceNl": "8-25€/dag voor fiets of e-bike",
+          "ticketPriceIt": "8-25€/giorno per bici o e-bike",
           "tipDe": "Die Kombination E-Bike plus Hundekorb im Juli/August eine Woche im Voraus reservieren; die Körbe sind schneller ausgebucht als die Räder selbst",
-          "tipNl": "Reserveer de combinatie e-bike plus hondenmand een week van tevoren in juli/augustus; de manden zijn sneller volgeboekt dan de fietsen zelf"
+          "tipNl": "Reserveer de combinatie e-bike plus hondenmand een week van tevoren in juli/augustus; de manden zijn sneller volgeboekt dan de fietsen zelf",
+          "tipIt": "Prenota la combinazione e-bike più cestino per cani una settimana prima a luglio/agosto; i cestini si esauriscono più in fretta delle biciclette stesse"
         }
       ],
       "titleDe": "Anreise und Fortbewegung auf Formentera mit Haustier",
       "titleNl": "Aankomst en vervoer op Formentera met huisdier",
+      "titleIt": "Arrivo e trasporti a Formentera con l'animale",
       "introDe": "Formentera hat keinen Flughafen: Jeder Besucher (und jeder Hund) kommt per Fähre von Ibiza an, einer 30-45-minütigen Überfahrt, die von drei Unternehmen ganzjährig betrieben wird. Die Insel ist nur 19 km lang und fast durchgehend flach, daher ist ein Mietroller, Fahrrad oder E-Bike mit kleinem Haustierkorb die praktische Standardwahl. Busse von Autocares Paya bedienen die Hauptdörfer, allerdings mit reduziertem Winterfahrplan, und Taxis sind rar und wetterabhängig.",
       "introNl": "Formentera heeft geen luchthaven: elke bezoeker (en elke hond) komt aan per veerboot vanuit Ibiza, een overtocht van 30-45 minuten die het hele jaar door drie maatschappijen wordt uitgevoerd. Het eiland is maar 19 km lang en bijna overal vlak, dus een gehuurde scooter, fiets of e-bike met kleine huisdiermand is de praktische standaardkeuze. Bussen van Autocares Paya bedienen de hoofddorpen, maar met een verminderde winterdienstregeling, en taxi's zijn schaars en weersafhankelijk.",
+      "introIt": "Formentera non ha aeroporto: ogni visitatore (e ogni cane) arriva in traghetto da Ibiza, una traversata di 30-45 minuti gestita tutto l'anno da tre compagnie. L'isola è lunga solo 19 km ed è quasi ovunque pianeggiante, quindi uno scooter, una bici o un'e-bike a noleggio con un piccolo cestino per animali è la scelta pratica standard. Gli autobus di Autocares Paya servono i paesi principali, ma con orari invernali ridotti, e i taxi sono scarsi e dipendono dal meteo.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches in Formentera",
@@ -377,10 +419,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Platja+de+Migjorn+Formentera",
           "descriptionDe": "Der längste Strand Formenteras mit 5 km, der an der Südküste in einer Reihe ununterbrochener Sandabschnitte mit niedrigen Dünen und Pinieninseln dahinter verläuft. Angeleinte Hunde werden vom 1. Oktober bis 31. Mai im mittleren Abschnitt bei Es Arenals geduldet, und der Dünenweg hinter dem Strand ist ganzjährig mit Hund begehbar. Die offiziellen Badezonen mit sommerlichen Rettungsschwimmerposten meiden.",
           "descriptionNl": "Het langste strand van Formentera, 5 km lang, dat aan de zuidkust in een reeks ononderbroken zandstroken met lage duinen en pijnboomeilandjes erachter loopt. Aangelijnde honden worden van 1 oktober tot 31 mei getolereerd in het middengedeelte bij Es Arenals, en het duinpad achter het strand is het hele jaar begaanbaar met hond. Vermijd de officiële zwemzones met zomerse strandwachtposten.",
+          "descriptionIt": "La spiaggia più lunga di Formentera, 5 km, che corre sulla costa sud in una serie ininterrotta di tratti di sabbia con basse dune e isolotti di pini alle spalle. I cani al guinzaglio sono tollerati dal 1 ottobre al 31 maggio nel tratto centrale vicino a Es Arenals, e il sentiero tra le dune dietro la spiaggia è percorribile con il cane tutto l'anno. Evita le zone balneari ufficiali con i posti di bagnino estivi.",
           "petPolicyDe": "Angeleinte Hunde 1. Okt.–31. Mai; verboten 1. Juni–30. Sept.",
           "petPolicyNl": "Aangelijnde honden 1 okt.-31 mei; verboden 1 juni-30 sept.",
+          "petPolicyIt": "Cani al guinzaglio 1 ott.-31 mag.; vietati 1 giu.-30 set.",
           "tipDe": "Bei Ebbe im Oktober den Dünenweg entlanggehen, um den noch warmen Sand zu meiden, und ruhige Badeeinstiege abseits der Rettungsschwimmermarkierungen finden",
-          "tipNl": "Loop bij eb in oktober over het duinpad om het nog warme zand te vermijden, en zoek rustige zwemplekken weg van de markeringen van de strandwachten"
+          "tipNl": "Loop bij eb in oktober over het duinpad om het nog warme zand te vermijden, en zoek rustige zwemplekken weg van de markeringen van de strandwachten",
+          "tipIt": "Cammina sul sentiero delle dune con la bassa marea di ottobre per evitare la sabbia ancora calda, e cerca punti tranquilli per il bagno lontano dalle segnalazioni dei bagnini"
         },
         {
           "name": "Cala Saona",
@@ -407,10 +452,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cala+Saona+Formentera",
           "descriptionDe": "Die postkartenschönste Bucht an der Westküste Formenteras, ein 150 m langer Halbmond aus hellem Sand, gerahmt von Sandsteinklippen mit weitem Sonnenuntergangsblick über das ferne Es Vedrà. Angeleinte Hunde werden vom 1. Oktober bis 31. Mai geduldet; der Küstenweg auf den Klippen unmittelbar über der Bucht ist ganzjährig hundefreundlich und bietet dieselbe Aussicht, ohne den Sand zu benötigen.",
           "descriptionNl": "De mooiste baai van de westkust van Formentera, een halve maan van 150 m helder zand, omlijst door zandsteenkliffen met wijds zonsondergangsuitzicht op het verre Es Vedrà. Aangelijnde honden worden getolereerd van 1 oktober tot 31 mei; het kustpad op de klippen direct boven de baai is het hele jaar hondvriendelijk en biedt hetzelfde uitzicht, zonder dat je het zand nodig hebt.",
+          "descriptionIt": "La baia più bella della costa occidentale di Formentera, una mezzaluna di 150 m di sabbia chiara, incorniciata da scogliere di arenaria con ampie viste al tramonto sulla lontana Es Vedrà. I cani al guinzaglio sono tollerati dal 1 ottobre al 31 maggio; il sentiero costiero sulle scogliere proprio sopra la baia è pet friendly tutto l'anno e offre la stessa vista, senza bisogno della sabbia.",
           "petPolicyDe": "Angeleinte Hunde 1. Okt.–31. Mai; Klippenweg ganzjährig an der Leine",
           "petPolicyNl": "Aangelijnde honden 1 okt.-31 mei; klifpad het hele jaar aan de lijn",
+          "petPolicyIt": "Cani al guinzaglio 1 ott.-31 mag.; sentiero delle scogliere al guinzaglio tutto l'anno",
           "tipDe": "Den Besuch eine Stunde vor Sonnenuntergang in der Nebensaison planen; der Klippenweg fängt die Ausrichtung auf Es Vedrà perfekt ein",
-          "tipNl": "Plan het bezoek een uur voor zonsondergang in het laagseizoen; het klifpad vangt de uitlijning op Es Vedrà perfect"
+          "tipNl": "Plan het bezoek een uur voor zonsondergang in het laagseizoen; het klifpad vangt de uitlijning op Es Vedrà perfect",
+          "tipIt": "Pianifica la visita un'ora prima del tramonto in bassa stagione; il sentiero delle scogliere cattura perfettamente l'allineamento con Es Vedrà"
         },
         {
           "name": "Es Caló de Sant Agustí",
@@ -437,18 +485,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Es+Calo+de+Sant+Agusti+Formentera",
           "descriptionDe": "Eine aktive Fischerbucht an der Ostküste am Fuß der Klippen von La Mola, mit traditionellen hölzernen Bootshäusern (escars) entlang des kleinen Kieselstrands. Angeleinte Hunde werden außerhalb des Sommerverbots geduldet; die felsige Küste nördlich der Bootshäuser steht Hunden ganzjährig offen und bietet von Oktober bis Mai ruhige, geschützte Badestellen für wasserliebende Rassen.",
           "descriptionNl": "Een actieve vissersbaai aan de oostkust aan de voet van de klippen van La Mola, met traditionele houten boothuizen (escars) langs het kleine kiezelstrand. Aangelijnde honden worden getolereerd buiten het zomerverbod; de rotsachtige kust ten noorden van de boothuizen staat het hele jaar open voor honden en biedt van oktober tot mei rustige, beschutte zwemplekken voor waterminnende rassen.",
+          "descriptionIt": "Un'attiva baia di pescatori sulla costa orientale ai piedi delle scogliere di La Mola, con tradizionali rimesse per barche in legno (escars) lungo la piccola spiaggia di ciottoli. I cani al guinzaglio sono tollerati fuori dal divieto estivo; la costa rocciosa a nord delle rimesse resta aperta ai cani tutto l'anno e offre da ottobre a maggio punti tranquilli e riparati per il bagno adatti alle razze amanti dell'acqua.",
           "petPolicyDe": "Angeleinte Hunde 1. Okt.–31. Mai; felsige Nordküste ganzjährig an der Leine",
           "petPolicyNl": "Aangelijnde honden 1 okt.-31 mei; rotsachtige noordkust het hele jaar aan de lijn",
+          "petPolicyIt": "Cani al guinzaglio 1 ott.-31 mag.; costa rocciosa nord al guinzaglio tutto l'anno",
           "tipDe": "Oben an der Straße parken und hinuntergehen, um die Hunde im Spätsommer vom heißen Asphalt fernzuhalten; der kleine Strand bietet keinen Schatten",
-          "tipNl": "Parkeer boven aan de weg en loop naar beneden om honden in de late zomer van het hete asfalt weg te houden; het kleine strand biedt geen schaduw"
+          "tipNl": "Parkeer boven aan de weg en loop naar beneden om honden in de late zomer van het hete asfalt weg te houden; het kleine strand biedt geen schaduw",
+          "tipIt": "Parcheggia in cima alla strada e scendi a piedi per tenere i cani lontani dall'asfalto rovente a fine estate; la piccola spiaggia non offre ombra"
         }
       ],
       "titleDe": "Hundefreundliche Strände auf Formentera",
       "titleNl": "Hondvriendelijke stranden op Formentera",
+      "titleIt": "Spiagge pet friendly a Formentera",
       "introDe": "Formentera folgt dem balearischen Saisonverbot: Vom 1. Juni bis 30. September sind Hunde an Badestränden nicht erlaubt, die örtliche Verordnung wird von der Gemeindepolizei durchgesetzt, Bußgelder bis 750 €. Außerhalb dieses Zeitraums öffnet sich die Insel, und besonders drei Strände dulden angeleinte Hunde in der Nebensaison. Das umgebende Meer ist Teil der UNESCO-geschützten Posidonia-oceanica-Wiese: Hunde sollten zu keiner Jahreszeit in den Dünen graben oder Küstenvögel im Natura-2000-Gebiet jagen.",
       "introNl": "Formentera volgt het Balearische seizoensverbod: van 1 juni tot 30 september zijn honden niet toegestaan op zwemstranden, de lokale verordening wordt gehandhaafd door de gemeentepolitie, met boetes tot 750€. Buiten deze periode gaat het eiland open, en vooral drie stranden tolereren aangelijnde honden in het laagseizoen. De omringende zee maakt deel uit van de door UNESCO beschermde posidonia oceanica-zeegrasvelden: honden mogen op geen enkel moment van het jaar in de duinen graven of kustvogels in het Natura 2000-gebied jagen.",
+      "introIt": "Formentera segue il divieto stagionale delle Baleari: dal 1 giugno al 30 settembre i cani non sono ammessi sulle spiagge balneabili, l'ordinanza locale è fatta rispettare dalla polizia municipale, con multe fino a 750€. Fuori da questo periodo l'isola si apre, e in particolare tre spiagge tollerano i cani al guinzaglio in bassa stagione. Il mare circostante fa parte delle praterie di posidonia oceanica protette dall'UNESCO: i cani non possono scavare nelle dune né dare la caccia agli uccelli costieri nella zona Natura 2000 in nessun periodo dell'anno.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Veterinarians in Formentera",
@@ -510,8 +564,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Centro+Veterinario+Formentera+Sant+Francesc",
           "descriptionDe": "Die wichtigste tierärztliche Tagespraxis auf Formentera, in der Inselhauptstadt Sant Francesc Xavier, geführt von langjährig ansässigen Tierärzten, die bei der balearischen Tierärztekammer registriert sind. Deckt allgemeine Konsultationen, Impfungen, EU-Heimtierausweis-Stempel, Mikrochip-Implantation und kleinere Operationen ab. Nachts und sonntags geschlossen; verweist bei jedem Notfall, der Bildgebung oder Übernachtungspflege erfordert, an das Hospital Veterinario Ibiza.",
           "descriptionNl": "De belangrijkste dagpraktijk van dierenartsen op Formentera, in de hoofdstad Sant Francesc Xavier, gerund door langdurig gevestigde dierenartsen die geregistreerd zijn bij de Balearische diergeneeskundige orde. Dekt algemene consulten, vaccinaties, EU-huisdierenpaspoortstempels, microchip-implantatie en kleine operaties. Gesloten 's nachts en op zondag; verwijst bij elk noodgeval dat beeldvorming of overnachtingszorg vereist door naar het Hospital Veterinario Ibiza.",
+          "descriptionIt": "L'ambulatorio veterinario diurno principale di Formentera, nella capitale Sant Francesc Xavier, gestito da veterinari storici iscritti all'ordine veterinario delle Baleari. Copre visite generali, vaccinazioni, timbri sul passaporto UE per animali, impianto del microchip e piccoli interventi. Chiuso di notte e la domenica; per ogni emergenza che richieda diagnostica per immagini o degenza rimanda all'Hospital Veterinario Ibiza.",
           "tipDe": "Im Juli/August im Voraus für Termine am selben Tag anrufen; die Praxis versorgt die ganze Insel, und die Wartezeiten werden in der Hochsaison lang",
-          "tipNl": "Bel in juli/augustus van tevoren voor afspraken op dezelfde dag; de praktijk bedient het hele eiland en de wachttijden lopen in het hoogseizoen op"
+          "tipNl": "Bel in juli/augustus van tevoren voor afspraken op dezelfde dag; de praktijk bedient het hele eiland en de wachttijden lopen in het hoogseizoen op",
+          "tipIt": "Chiama in anticipo a luglio/agosto per appuntamenti lo stesso giorno; l'ambulatorio serve tutta l'isola e i tempi d'attesa si allungano in alta stagione"
         },
         {
           "name": "Clínica Veterinaria Es Pujols",
@@ -560,8 +616,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Es+Pujols+Formentera",
           "descriptionDe": "Kleinere saisonale Praxis im Hauptresortdorf Es Pujols, an der Nordküste, 5 Minuten vom Hafen La Savina entfernt. Am stärksten in den Sommermonaten, wenn sie den Zustrom besuchender Hunde mit Impfungen, Pfotenballen-Verbrennungen und hitzebedingten Konsultationen versorgt. Von Mitte November bis Mitte März geschlossen; verweist alle Übernachtungsfälle an das Krankenhaus auf Ibiza.",
           "descriptionNl": "Kleinere seizoenspraktijk in het belangrijkste resortdorpje Es Pujols, aan de noordkust, 5 minuten van de haven La Savina. Op zijn drukst in de zomermaanden, wanneer het de toestroom van bezoekende honden opvangt met vaccinaties, verbrande voetzooltjes en hitte-gerelateerde consulten. Gesloten van half november tot half maart; verwijst alle overnachtingsgevallen naar het ziekenhuis op Ibiza.",
+          "descriptionIt": "Ambulatorio stagionale più piccolo nel principale paese turistico di Es Pujols, sulla costa nord, a 5 minuti dal porto di La Savina. Al massimo dell'attività nei mesi estivi, quando gestisce l'afflusso di cani in vacanza con vaccinazioni, cuscinetti bruciati e visite legate al caldo. Chiuso da metà novembre a metà marzo; rimanda tutti i casi che richiedono degenza all'ospedale di Ibiza.",
           "tipDe": "Beste Wahl, wenn Sie in Es Pujols wohnen oder mit der Fähre ankommen; näher als die Praxis in der Hauptstadt und mehrsprachig",
-          "tipNl": "Beste keuze als je in Es Pujols verblijft of met de veerboot aankomt; dichterbij dan de praktijk in de hoofdstad en meertalig"
+          "tipNl": "Beste keuze als je in Es Pujols verblijft of met de veerboot aankomt; dichterbij dan de praktijk in de hoofdstad en meertalig",
+          "tipIt": "Scelta migliore se soggiorni a Es Pujols o arrivi in traghetto; più vicino dell'ambulatorio della capitale e multilingue"
         },
         {
           "name": "Hospital Veterinario Ibiza (emergencies)",
@@ -613,16 +671,21 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Ibiza+Sant+Antoni",
           "descriptionDe": "Das einzige rund um die Uhr geöffnete tierärztliche Notfallkrankenhaus für Formentera, auf der anderen Seite der Meerenge in Sant Antoni auf Ibiza gelegen, 30-45 Minuten per Fähre plus weitere 15 Minuten mit dem Auto. Volle Operationskapazität, Röntgen, Ultraschall, hauseigenes Labor und ein eigenes Hitzschlag-Protokoll. Englischsprachige Tierärzte. Fährzeiten für jeden nicht akuten Transfer im Voraus planen.",
           "descriptionNl": "Het enige dag en nacht geopende diergeneeskundig spoedziekenhuis voor Formentera, aan de andere kant van de zeestraat in Sant Antoni op Ibiza, 30-45 minuten met de veerboot plus nog eens 15 minuten met de auto. Volledige operatiecapaciteit, röntgen, echografie, eigen laboratorium en een eigen hitteslag-protocol. Engelssprekende dierenartsen. Plan veerboottijden voor elke niet-acute overtocht van tevoren.",
+          "descriptionIt": "L'unico ospedale veterinario di emergenza aperto giorno e notte per Formentera, dall'altra parte dello stretto a Sant Antoni su Ibiza, 30-45 minuti di traghetto più altri 15 minuti in auto. Piena capacità chirurgica, radiografia, ecografia, laboratorio interno e un proprio protocollo per il colpo di calore. Veterinari di lingua inglese. Pianifica in anticipo gli orari dei traghetti per ogni traversata non urgente.",
           "tipDe": "Die Nummer bei Ankunft auf Formentera speichern; vor dem Einsteigen in die Fähre anrufen, damit das Team bereit ist, wenn Sie auf Ibiza ankommen",
-          "tipNl": "Sla het nummer op bij aankomst op Formentera; bel voordat je aan boord gaat van de veerboot, zodat het team klaarstaat als je op Ibiza aankomt"
+          "tipNl": "Sla het nummer op bij aankomst op Formentera; bel voordat je aan boord gaat van de veerboot, zodat het team klaarstaat als je op Ibiza aankomt",
+          "tipIt": "Salva il numero all'arrivo a Formentera; chiama prima di salire sul traghetto, così il team è pronto quando arrivi a Ibiza"
         }
       ],
       "titleDe": "Tierärzte auf Formentera",
       "titleNl": "Dierenartsen op Formentera",
+      "titleIt": "Veterinari a Formentera",
       "introDe": "Formentera hat kein rund um die Uhr geöffnetes tierärztliches Notfallkrankenhaus: Die ganzjährig ansässige Bevölkerung von 12.000 Menschen versorgt nur zwei kleine Tagespraxen, beide registriert beim Colegio Oficial de Veterinarios de les Illes Balears. Für nächtliche oder chirurgische Notfälle befindet sich das einzige vollständig ausgestattete Krankenhaus auf Ibiza (Hospital Veterinario Ibiza in Sant Antoni, +34 971 19 50 50), was eine 30-45-minütige Fährüberfahrt vom Hafen La Savina erfordert. Beide Nummern, Ibiza und Formentera, gleich bei Ankunft im Telefon speichern.",
       "introNl": "Formentera heeft geen dag en nacht geopend diergeneeskundig spoedziekenhuis: de vaste bevolking van 12.000 mensen ondersteunt slechts twee kleine dagpraktijken, beide geregistreerd bij de Colegio Oficial de Veterinarios de les Illes Balears. Voor nachtelijke of chirurgische noodgevallen bevindt het enige volledig uitgeruste ziekenhuis zich op Ibiza (Hospital Veterinario Ibiza in Sant Antoni, +34 971 19 50 50), wat een overtocht van 30-45 minuten met de veerboot vanaf de haven La Savina vereist. Sla beide nummers, Ibiza en Formentera, meteen bij aankomst op in je telefoon.",
+      "introIt": "Formentera non ha un ospedale veterinario di emergenza aperto giorno e notte: la popolazione residente di 12.000 persone sostiene solo due piccoli ambulatori diurni, entrambi iscritti al Colegio Oficial de Veterinarios de les Illes Balears. Per le emergenze notturne o chirurgiche, l'unico ospedale completamente attrezzato si trova a Ibiza (Hospital Veterinario Ibiza a Sant Antoni, +34 971 19 50 50), il che richiede una traversata in traghetto di 30-45 minuti dal porto di La Savina. Salva entrambi i numeri, Ibiza e Formentera, sul telefono appena arrivi.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Practical Tips for Visiting Formentera with a Pet",
@@ -723,10 +786,13 @@
       },
       "titleDe": "Praktische Tipps für den Besuch von Formentera mit Haustier",
       "titleNl": "Praktische tips voor een bezoek aan Formentera met huisdier",
+      "titleIt": "Consigli pratici per visitare Formentera con l'animale",
       "introDe": "Formentera belohnt Haustierreisen in der Nebensaison: Mai und Oktober bringen 22-25 °C, zugängliche Strände, verschlafene Dörfer und Preise, die etwa halb so hoch wie im August sind. Das sommerliche Verbotsfenster (1. Juni bis 30. September) schließt alle Badestrände für Hunde und treibt die Temperaturen auf Asphalt und weißem Sand auf gefährliche Werte für Pfotenballen. Die folgenden Tipps konzentrieren sich auf die inseltypischen Fallstricke (Fährzeiten, kein Flughafen, kein 24-Stunden-Tierarzt), die Erstbesucher mit Haustier überraschen.",
       "introNl": "Formentera beloont reizen met huisdier in het laagseizoen: mei en oktober brengen 22-25°C, toegankelijke stranden, slaperige dorpjes en prijzen die ongeveer half zo hoog zijn als in augustus. Het zomerse verbodsvenster (1 juni tot 30 september) sluit alle zwemstranden voor honden en drijft de temperaturen op asfalt en wit zand op tot gevaarlijke waarden voor voetzooltjes. De volgende tips richten zich op de typische valkuilen van het eiland (veerboottijden, geen luchthaven, geen 24-uurs dierenarts) die eerste bezoekers met huisdier verrassen.",
+      "introIt": "Formentera premia i viaggi con l'animale in bassa stagione: maggio e ottobre portano 22-25°C, spiagge accessibili, paesini assonnati e prezzi circa la metà di agosto. La finestra del divieto estivo (1 giugno-30 settembre) chiude tutte le spiagge balneabili ai cani e fa salire le temperature di asfalto e sabbia bianca a livelli pericolosi per i cuscinetti. I consigli seguenti si concentrano sulle trappole tipiche dell'isola (orari dei traghetti, nessun aeroporto, nessun veterinario 24 ore) che sorprendono chi visita per la prima volta con un animale.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Formentera",
@@ -763,12 +829,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Far+de+la+Mola+Formentera",
           "descriptionDe": "Der 1861 erbaute Leuchtturm an der Ostspitze Formenteras, auf einer 142 m senkrechten Klippe gelegen, die direkt ins Mittelmeer abfällt. Durch Jules Vernes Roman Hector Servadac berühmt geworden, ist er der östlichste Punkt der Balearen und der erste Ort, an dem der Sonnenaufgang zu sehen ist. Angeleinte Hunde sind auf der gesamten Außenplattform und den umliegenden Klippenwegen willkommen; das Innere des Leuchtturms ist für Besucher geschlossen.",
           "descriptionNl": "De in 1861 gebouwde vuurtoren aan de oostpunt van Formentera, op een loodrechte klif van 142 m die recht in de Middellandse Zee valt. Beroemd geworden door Jules Vernes roman Hector Servadac, is het het meest oostelijke punt van de Balearen en de eerste plek waar de zon opkomt. Aangelijnde honden zijn welkom op het hele buitenplatform en de omliggende klifpaden; het interieur van de vuurtoren is gesloten voor bezoekers.",
+          "descriptionIt": "Il faro costruito nel 1861 sulla punta orientale di Formentera, su una scogliera a picco di 142 m che cade direttamente nel Mediterraneo. Reso famoso dal romanzo di Jules Verne Ettore Servadac, è il punto più orientale delle Baleari e il primo dove sorge il sole. I cani al guinzaglio sono benvenuti su tutta la piattaforma esterna e sui sentieri circostanti della scogliera; l'interno del faro è chiuso ai visitatori.",
           "petPolicyDe": "Angeleinte Hunde auf Außenplattform und Klippenwegen willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op buitenplatform en klifpaden",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sulla piattaforma esterna e sui sentieri della scogliera",
           "ticketPriceDe": "Kostenlos",
           "ticketPriceNl": "Gratis",
+          "ticketPriceIt": "Gratis",
           "tipDe": "Bei Sonnenaufgang hinausfahren: Die Klippe fängt das erste Licht über dem Mittelmeer, und der sonntägliche Kunsthandwerksmarkt sperrt die Straße ab 16:00 Uhr",
-          "tipNl": "Rij erheen bij zonsopgang: de klif vangt het eerste licht boven de Middellandse Zee, en de zondagse ambachtsmarkt sluit de weg af vanaf 16:00 uur"
+          "tipNl": "Rij erheen bij zonsopgang: de klif vangt het eerste licht boven de Middellandse Zee, en de zondagse ambachtsmarkt sluit de weg af vanaf 16:00 uur",
+          "tipIt": "Vacci all'alba: la scogliera cattura la prima luce sul Mediterraneo, e il mercato artigianale della domenica chiude la strada dalle 16:00"
         },
         {
           "name": "Sant Francesc Xavier village & church",
@@ -795,12 +865,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Sant+Francesc+Xavier+Formentera",
           "descriptionDe": "Die Inselhauptstadt Formenteras mit ihrer 1726 erbauten, weiß getünchten Wehrkirche, die zugleich als Zufluchtsort vor Barbaresken-Korsaren diente. Der Hauptplatz ist das gesellschaftliche Herz der Insel, umgeben von Cafés, die angeleinte Hunde auf den Terrassen willkommen heißen; der Mittwoch- und Samstagvormittagsmarkt für Kunsthandwerk findet hier unter schattigen Bäumen statt. Das Kircheninnere ist für Hunde geschlossen, aber die Außentreppe und der ummauerte Garten sind hundefreundlich.",
           "descriptionNl": "De hoofdstad van Formentera, met haar in 1726 gebouwde witgekalkte versterkte kerk, die tevens diende als toevluchtsoord tegen Barbarijse zeerovers. Het hoofdplein is het sociale hart van het eiland, omgeven door cafés die aangelijnde honden welkom heten op de terrassen; de woensdag- en zaterdagochtendmarkt met ambachtswerk vindt hier plaats onder schaduwrijke bomen. Het interieur van de kerk is gesloten voor honden, maar de buitentrap en de ommuurde tuin zijn hondvriendelijk.",
+          "descriptionIt": "La capitale di Formentera, con la sua chiesa fortificata imbiancata a calce del 1726, che serviva anche da rifugio contro i pirati barbareschi. La piazza principale è il cuore sociale dell'isola, circondata da caffè che accolgono cani al guinzaglio in terrazza; il mercato artigianale del mercoledì e sabato mattina si tiene qui sotto alberi ombrosi. L'interno della chiesa è chiuso ai cani, ma la scalinata esterna e il giardino recintato sono pet friendly.",
           "petPolicyDe": "Angeleinte Hunde auf Platz, Terrassen, Außentreppe; nicht in der Kirche",
           "petPolicyNl": "Aangelijnde honden op het plein, terrassen, buitentrap; niet in de kerk",
+          "petPolicyIt": "Cani al guinzaglio in piazza, terrazze, scalinata esterna; non in chiesa",
           "ticketPriceDe": "Kostenlos",
           "ticketPriceNl": "Gratis",
+          "ticketPriceIt": "Gratis",
           "tipDe": "Den Mittwochsmarkt mit Frühstück auf einer Platzterrasse verbinden; vor 11 Uhr kommen für kühlen Schatten und die besten Handwerksstände",
-          "tipNl": "Combineer de woensdagmarkt met ontbijt op een terras aan het plein; kom voor 11 uur voor koele schaduw en de beste ambachtskraampjes"
+          "tipNl": "Combineer de woensdagmarkt met ontbijt op een terras aan het plein; kom voor 11 uur voor koele schaduw en de beste ambachtskraampjes",
+          "tipIt": "Combina il mercato del mercoledì con la colazione in una terrazza sulla piazza; vieni prima delle 11 per l'ombra fresca e le migliori bancarelle artigianali"
         },
         {
           "name": "Ses Illetes & Trocadors viewpoint",
@@ -827,20 +901,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Ses+Illetes+Trocadors+Formentera",
           "descriptionDe": "Der meistfotografierte Strand der Balearen, regelmäßig zum besten Europas gewählt, verläuft entlang der schmalen Halbinsel Trocadors im Norden der Insel, mit weißem Sand und flachem türkisfarbenem Wasser auf beiden Seiten. Der Strandzugang für Hunde ist vom 1. Juni bis 30. September verboten; außerhalb dieses Zeitraums dürfen angeleinte Hunde den Salzflächen-Damm und den unbefestigten Serviceweg entlanggehen, der die Halbinsel bis zum Aussichtspunkt am Kanal Es Pas durchquert.",
           "descriptionNl": "Het meest gefotografeerde strand van de Balearen, regelmatig verkozen tot beste van Europa, loopt langs het smalle schiereiland Trocadors in het noorden van het eiland, met wit zand en ondiep turquoise water aan beide kanten. Strandtoegang voor honden is verboden van 1 juni tot 30 september; buiten deze periode mogen aangelijnde honden over de zoutvlaktedam en het onverharde servicepad lopen dat het schiereiland doorkruist tot aan het uitzichtpunt bij het kanaal Es Pas.",
+          "descriptionIt": "La spiaggia più fotografata delle Baleari, spesso eletta la migliore d'Europa, corre lungo la stretta penisola dei Trocadors nel nord dell'isola, con sabbia bianca e acqua turchese bassa su entrambi i lati. L'accesso alla spiaggia per i cani è vietato dal 1 giugno al 30 settembre; fuori da questo periodo i cani al guinzaglio possono camminare sull'argine tra le saline e il sentiero di servizio sterrato che attraversa la penisola fino al punto panoramico presso il canale Es Pas.",
           "petPolicyDe": "Angeleinte Hunde auf dem Damm 1. Okt.–31. Mai; im Sommer am Strand verboten",
           "petPolicyNl": "Aangelijnde honden op de dam 1 okt.-31 mei; in de zomer verboden op het strand",
+          "petPolicyIt": "Cani al guinzaglio sull'argine 1 ott.-31 mag.; vietati in spiaggia d'estate",
           "ticketPriceDe": "Kostenlos; 5 € Fahrzeuggebühr 1. Juni–30. Sept.",
           "ticketPriceNl": "Gratis; 5€ voertuigkosten 1 juni-30 sept.",
+          "ticketPriceIt": "Gratis; 5€ tassa veicolo 1 giu.-30 set.",
           "tipDe": "Den Damm im Oktober bis Mai bei Sonnenaufgang entlanggehen für Fotos mit menschenleerem türkisfarbenem Wasser; der unbefestigte Weg bietet keinen Schatten, also Wasser für den Hund einpacken",
-          "tipNl": "Loop van oktober tot mei bij zonsopgang over de dam voor foto's met leeg turquoise water; het onverharde pad biedt geen schaduw, dus neem water mee voor je hond"
+          "tipNl": "Loop van oktober tot mei bij zonsopgang over de dam voor foto's met leeg turquoise water; het onverharde pad biedt geen schaduw, dus neem water mee voor je hond",
+          "tipIt": "Cammina sull'argine da ottobre a maggio all'alba per foto con l'acqua turchese deserta; il sentiero sterrato non offre ombra, quindi porta acqua per il tuo cane"
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten auf Formentera",
       "titleNl": "Hondvriendelijke bezienswaardigheden op Formentera",
+      "titleIt": "Attrazioni pet friendly a Formentera",
       "introDe": "Formenteras wichtigste Sehenswürdigkeiten liegen im Freien und sind fast durchweg an der Leine hundefreundlich: zwei Leuchttürme auf Klippen, eine befestigte Dorfkirche aus dem 18. Jahrhundert und das weltberühmte Türkis von Ses Illetes. Museen im Innenbereich und die Kirchenschiffe sind für Hunde tabu, aber das Freiluft-Fotomotiv der Insel ist so dicht, dass Haustierreisende selten das Gefühl haben, etwas verpasst zu haben. Alles unten ist von La Savina aus zu Fuß, mit dem Auto oder per Mietfahrrad erreichbar.",
       "introNl": "De belangrijkste bezienswaardigheden van Formentera liggen buiten en zijn bijna allemaal hondvriendelijk aan de lijn: twee vuurtorens op klippen, een versterkte dorpskerk uit de 18e eeuw en het wereldberoemde turquoise van Ses Illetes. Musea binnen en kerkschepen zijn taboe voor honden, maar het buitenfotomotief van het eiland is zo rijk dat huisdierreizigers zelden het gevoel hebben iets te missen. Alles hieronder is vanaf La Savina te bereiken te voet, met de auto of per huurfiets.",
+      "introIt": "Le principali attrazioni di Formentera sono all'aperto e quasi tutte pet friendly al guinzaglio: due fari su scogliere, una chiesa fortificata di paese del XVIII secolo e il turchese famoso in tutto il mondo di Ses Illetes. I musei al chiuso e le navate delle chiese sono off-limits per i cani, ma il patrimonio fotografico all'aperto dell'isola è così ricco che i viaggiatori con animali raramente sentono di perdersi qualcosa. Tutto quanto sotto è raggiungibile da La Savina a piedi, in auto o con una bici a noleggio.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Walking in Formentera",
@@ -871,10 +952,13 @@
           "googleMapsUrl": "https://gudog.com",
           "descriptionDe": "Spaniens führende verifizierte Plattform für Hundebetreuung und Gassi-Service, mit einem kleinen, aber stabilen Angebot an Betreuern auf Formentera. Profile zeigen Fotos, Sprachen, häusliche Umgebung und verifizierte Hintergrundprüfungen. Tagesbetreuung typischerweise 18-25 €/Tag, volle Unterbringung 30-45 €/Nacht, Preise etwa 20 % über Ibiza wegen des begrenzten Angebots auf der Insel.",
           "descriptionNl": "Spanjes toonaangevende geverifieerde platform voor hondenoppas en uitlaatservice, met een klein maar stabiel aanbod van oppassers op Formentera. Profielen tonen foto's, talen, huiselijke omgeving en geverifieerde achtergrondcontroles. Dagopvang doorgaans 18-25€/dag, volledig verblijf 30-45€/nacht, prijzen ongeveer 20% hoger dan op Ibiza vanwege het beperkte aanbod op het eiland.",
+          "descriptionIt": "La piattaforma spagnola leader e verificata per dog sitting e dog walking, con un'offerta piccola ma stabile di sitter a Formentera. I profili mostrano foto, lingue, ambiente domestico e controlli sui precedenti verificati. Assistenza diurna in genere 18-25€/giorno, pernottamento completo 30-45€/notte, prezzi circa il 20% più alti che a Ibiza per via dell'offerta limitata sull'isola.",
           "petPolicyDe": "Verifizierte Betreuer; Versicherung inbegriffen",
           "petPolicyNl": "Geverifieerde oppassers; verzekering inbegrepen",
+          "petPolicyIt": "Sitter verificati; assicurazione inclusa",
           "tipDe": "Mindestens 2-3 Wochen im Voraus im Juli/August buchen; der kleine Betreuerpool auf Formentera füllt sich schneller als der auf Ibiza",
-          "tipNl": "Boek minstens 2-3 weken van tevoren in juli/augustus; de kleine groep oppassers op Formentera loopt sneller vol dan die op Ibiza"
+          "tipNl": "Boek minstens 2-3 weken van tevoren in juli/augustus; de kleine groep oppassers op Formentera loopt sneller vol dan die op Ibiza",
+          "tipIt": "Prenota almeno 2-3 settimane prima a luglio/agosto; il piccolo gruppo di sitter di Formentera si esaurisce più in fretta di quello di Ibiza"
         },
         {
           "name": "DogHero (Mad Paws ES)",
@@ -895,10 +979,13 @@
           "googleMapsUrl": "https://www.doghero.com",
           "descriptionDe": "Internationale Plattform mit einer Handvoll Betreuer und Gassigehern auf Formentera. Filterbar nach Dorf, Hundegröße und besonderen Bedürfnissen (Welpe, Senior, ängstlich). Durchschnittssatz 20-25 €/Tag für Tagesbetreuung in der Nebensaison, bis zu 45-55 € im Juli/August. Eine Versicherung bis 25.000 € pro Aufenthalt ist bei jeder Buchung inbegriffen.",
           "descriptionNl": "Internationaal platform met een handvol oppassers en uitlaters op Formentera. Filterbaar op dorp, hondengrootte en speciale behoeften (puppy, senior, angstig). Gemiddeld tarief 20-25€/dag voor dagopvang in het laagseizoen, tot 45-55€ in juli/augustus. Een verzekering tot 25.000€ per verblijf is bij elke boeking inbegrepen.",
+          "descriptionIt": "Piattaforma internazionale con una manciata di sitter e dog walker a Formentera. Filtrabile per paese, taglia del cane e esigenze speciali (cucciolo, anziano, ansioso). Tariffa media 20-25€/giorno per l'assistenza diurna in bassa stagione, fino a 45-55€ a luglio/agosto. Un'assicurazione fino a 25.000€ per soggiorno è inclusa in ogni prenotazione.",
           "petPolicyDe": "Online-Plattform, Versicherung bis 25.000 € pro Aufenthalt",
           "petPolicyNl": "Online platform, verzekering tot 25.000€ per verblijf",
+          "petPolicyIt": "Piattaforma online, assicurazione fino a 25.000€ per soggiorno",
           "tipDe": "Aktuelle Bewertungen gegenprüfen; mehrere Betreuer auf Formentera arbeiten nur von Juni bis September und verschwinden außerhalb der Saison von der Plattform",
-          "tipNl": "Controleer actuele beoordelingen; meerdere oppassers op Formentera werken alleen van juni tot september en verdwijnen buiten het seizoen van het platform"
+          "tipNl": "Controleer actuele beoordelingen; meerdere oppassers op Formentera werken alleen van juni tot september en verdwijnen buiten het seizoen van het platform",
+          "tipIt": "Controlla le recensioni aggiornate; diversi sitter di Formentera lavorano solo da giugno a settembre e spariscono dalla piattaforma fuori stagione"
         },
         {
           "name": "Formentera Residents groups (Facebook)",
@@ -919,18 +1006,24 @@
           "googleMapsUrl": "https://www.facebook.com/groups/formenteraresidents",
           "descriptionDe": "Die Facebook-Anwohnergruppen (Formentera Residents, Residentes Formentera) sind die praktische Rückfalloption, wenn Plattformbetreuer ausgebucht sind oder Sie kurzfristig einen Gassi-Service brauchen. Unabhängige ganzjährig ansässige Bewohner posten Angebote und reagieren innerhalb von Stunden auf Anfragen. Keine Versicherung und keine zentrale Prüfung, daher den Betreuer und das Zuhause vor der ersten Buchung persönlich treffen.",
           "descriptionNl": "De Facebook-buurtgroepen (Formentera Residents, Residentes Formentera) zijn de praktische terugvaloptie als platformoppassers volgeboekt zijn of je op korte termijn een uitlaatservice nodig hebt. Onafhankelijke vaste bewoners plaatsen aanbiedingen en reageren binnen enkele uren op aanvragen. Geen verzekering en geen centrale controle, dus ontmoet de oppasser en het huis persoonlijk voor de eerste boeking.",
+          "descriptionIt": "I gruppi Facebook di quartiere (Formentera Residents, Residentes Formentera) sono la soluzione pratica di riserva quando i sitter delle piattaforme sono al completo o ti serve un dog walker con poco preavviso. Residenti fissi indipendenti pubblicano annunci e rispondono alle richieste in poche ore. Nessuna assicurazione e nessun controllo centrale, quindi incontra il sitter e la casa di persona prima della prima prenotazione.",
           "petPolicyDe": "Informelle Vereinbarung in der Gemeinschaft; Referenzen persönlich prüfen",
           "petPolicyNl": "Informele afspraak binnen de gemeenschap; controleer referenties persoonlijk",
+          "petPolicyIt": "Accordo informale nella comunità; verifica le referenze di persona",
           "tipDe": "Die Anfrage 5-7 Tage im Voraus posten mit Daten, Hundegröße und Dorf; vor der Buchungsbestätigung um ein Telefonat bitten",
-          "tipNl": "Plaats de aanvraag 5-7 dagen van tevoren met data, hondengrootte en dorp; vraag om een telefoongesprek voordat je de boeking bevestigt"
+          "tipNl": "Plaats de aanvraag 5-7 dagen van tevoren met data, hondengrootte en dorp; vraag om een telefoongesprek voordat je de boeking bevestigt",
+          "tipIt": "Pubblica la richiesta 5-7 giorni prima con date, taglia del cane e paese; chiedi una telefonata prima di confermare la prenotazione"
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service auf Formentera",
       "titleNl": "Huisdieroppas & uitlaatservice op Formentera",
+      "titleIt": "Dog sitting e dog walking a Formentera",
       "introDe": "Formentera hat kein spezialisiertes professionelles Haustierbetreuungsunternehmen, das groß genug wäre, um ganzjährig zu werben, aber die kleine ganzjährig ansässige Gemeinschaft trägt eine Handvoll unabhängiger Betreuer, die über die wichtigsten spanischen Online-Plattformen und Facebook-Anwohnergruppen erreichbar sind. Die meisten sitzen in Sant Francesc oder Es Pujols und sind im Juli/August zwei bis drei Wochen im Voraus ausgebucht.",
       "introNl": "Formentera heeft geen gespecialiseerd professioneel huisdieroppasbedrijf dat groot genoeg is om het hele jaar te adverteren, maar de kleine vaste gemeenschap draagt een handvol onafhankelijke oppassers die te bereiken zijn via de belangrijkste Spaanse online platforms en Facebook-buurtgroepen. De meesten zitten in Sant Francesc of Es Pujols en zitten in juli/augustus twee tot drie weken van tevoren vol.",
+      "introIt": "Formentera non ha un'azienda professionale specializzata di pet sitting abbastanza grande da farsi pubblicità tutto l'anno, ma la piccola comunità stabile sostiene una manciata di sitter indipendenti raggiungibili tramite le principali piattaforme online spagnole e i gruppi Facebook di quartiere. La maggior parte si trova a Sant Francesc o Es Pujols e si esaurisce con due o tre settimane di anticipo a luglio/agosto.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

@@ -28,7 +28,7 @@ type DestWithWeather = typeof destinations[number] & {
 // the daily hwp-ship-city-16h cron touches, was rebuilding all 377
 // destinations × 4 locales = ~1,508 pages for a single new destination).
 export const dynamicParams = true
-export const revalidate = 86400 // 1 day ISR cache
+export const revalidate = 2592000 // 30j : contenu statique, un deploy invalide deja le cache
 export async function generateStaticParams() {
   return []
 }

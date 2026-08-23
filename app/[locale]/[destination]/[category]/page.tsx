@@ -33,7 +33,7 @@ const OFFICIAL_CATEGORY_SLUGS = new Set(categories.map((c) => c.slug))
 // Pages still get statically cached after first request, still in sitemap, still
 // indexable by Google, just lazy-built instead of eager.
 export const dynamicParams = true
-export const revalidate = 86400 // 1 day ISR cache
+export const revalidate = 2592000 // 30j : contenu statique, un deploy invalide deja le cache
 export async function generateStaticParams() {
   return []
 }

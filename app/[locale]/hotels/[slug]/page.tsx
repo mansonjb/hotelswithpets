@@ -17,7 +17,7 @@ type HotelData = typeof hotels[number] & { slug: string }
 // 706 hotels × 3 locales × ~5 files = ~10 000 fewer files at build time, lazy-
 // cached after first visit. Same SEO outcome (pages still in sitemap + crawled).
 export const dynamicParams = true
-export const revalidate = 86400 // 1 day ISR cache
+export const revalidate = 2592000 // 30j : contenu statique, un deploy invalide deja le cache
 export async function generateStaticParams() {
   return []
 }

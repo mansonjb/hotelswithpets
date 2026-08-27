@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=12+Rue+de+la+Maison+Carree+Nimes",
           "descriptionDe": "Eine italienische Trattoria direkt gegenüber der Maison Carrée, mit einer Terrasse mit direktem Blick auf den römischen Tempel. Die Küche bietet eine kurze italienisch-bistroartige Karte mit Antipasti, frischer Pasta und gegrilltem Fisch, dazu standardmäßig ein Glas Languedoc-Rosé. Angeleinte Hunde gehören täglich zum Terrassenbild, und das Personal bringt auf Anfrage einen Wassernapf.",
           "descriptionNl": "Een Italiaanse trattoria recht tegenover de Maison Carrée, met een terras met direct zicht op de Romeinse tempel. De keuken biedt een korte, bistroachtige Italiaanse kaart met antipasti, verse pasta en gegrilde vis, standaard aangevuld met een glas Languedoc-rosé. Honden aan de lijn horen dagelijks bij het terrasbeeld, en het personeel brengt op verzoek een waterbakje.",
+          "descriptionIt": "Una trattoria italiana proprio di fronte alla Maison Carrée, con una terrazza affacciata direttamente sul tempio romano. La cucina propone un menu italiano breve, in stile bistrot, con antipasti, pasta fresca e pesce alla griglia, accompagnato di norma da un bicchiere di rosé della Languedoc. I cani al guinzaglio fanno parte del paesaggio della terrazza ogni giorno, e il personale porta una ciotola d'acqua su richiesta.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen",
           "petPolicyNl": "Honden aan de lijn welkom op het terras",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza",
           "mustTryDe": "Tagliata di manzo, frische Tagliatelle, Antipasti-Platte",
           "mustTryNl": "Tagliata di manzo, verse tagliatelle, antipastischotel",
+          "mustTryIt": "Tagliata di manzo, tagliatelle fresche, piatto di antipasti",
           "tipDe": "Buchen Sie die vorderste Reihe der Terrasse zum Sonnenuntergang: Die Westfassade der Maison Carrée erstrahlt im Sommer ab 19:30 Uhr in Rosa.",
-          "tipNl": "Reserveer de voorste rij van het terras bij zonsondergang: de westgevel van de Maison Carrée kleurt 's zomers vanaf 19.30 uur roze."
+          "tipNl": "Reserveer de voorste rij van het terras bij zonsondergang: de westgevel van de Maison Carrée kleurt 's zomers vanaf 19.30 uur roze.",
+          "tipIt": "Prenota la fila davanti alla terrazza al tramonto: la facciata ovest della Maison Carrée d'estate si tinge di rosa a partire dalle 19.30."
         },
         {
           "name": "L'Esclafidou",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Place+de+l%27Oratoire+Nimes",
           "descriptionDe": "Ein hausgemachtes Languedoc-Camargue-Bistro auf einem kleinen Fußgängerplatz im historischen Écusson, mit einer Brunnenterrasse und einer ungewöhnlichen Karte, die Nîmes-Klassiker (Brandade, Gardiane) mit dem südafrikanischen Erbe des Kochs verbindet. Von mehreren regionalen Reiseführern für haustierfreundliche Adressen gelistet, die angeleinte Hunde an den Außentischen akzeptieren. Kurze, marktorientierte Karte und eine ehrliche lokale Weinliste.",
           "descriptionNl": "Een huiselijk Languedoc-Camargue-bistro op een klein voetgangersplein in de historische Écusson-wijk, met een terras aan een fontein en een ongewone kaart die klassiekers uit Nîmes (brandade, gardiane) combineert met het Zuid-Afrikaanse erfgoed van de chef. Vermeld door meerdere regionale gidsen voor huisdiervriendelijke adressen, die honden aan de lijn aan de buitentafels accepteren. Korte, marktgerichte kaart en een eerlijke lokale wijnkaart.",
+          "descriptionIt": "Un bistrot familiare Languedoc-Camargue in una piccola piazza pedonale nel quartiere storico dell'Écusson, con una terrazza vicino a una fontana e un menu insolito che unisce i classici di Nîmes (brandade, gardiane) all'eredità sudafricana dello chef. Segnalato da diverse guide regionali tra gli indirizzi pet-friendly, accetta cani al guinzaglio ai tavoli all'aperto. Menu breve, legato al mercato, e una lista vini locale onesta.",
           "petPolicyDe": "Angeleinte Hunde an den Außentischen willkommen",
           "petPolicyNl": "Honden aan de lijn welkom aan de buitentafels",
+          "petPolicyIt": "Cani al guinzaglio benvenuti ai tavoli all'aperto",
           "mustTryDe": "Brandade de Nîmes, Gardiane de taureau, Tagesgericht",
           "mustTryNl": "Brandade de Nîmes, gardiane de taureau, dagschotel",
+          "mustTryIt": "Brandade de Nîmes, gardiane de taureau, piatto del giorno",
           "tipDe": "Die Place de l'Oratoire ist durch hohe Gebäude vor dem Mistral geschützt, nützlich für einen Hund, der den Wind an kalten Januartagen hasst.",
-          "tipNl": "De Place de l'Oratoire wordt door hoge gebouwen beschermd tegen de mistral, handig voor een hond die de wind op koude januaridagen haat."
+          "tipNl": "De Place de l'Oratoire wordt door hoge gebouwen beschermd tegen de mistral, handig voor een hond die de wind op koude januaridagen haat.",
+          "tipIt": "La Place de l'Oratoire è protetta dal mistral grazie agli edifici alti intorno, comodo per un cane che odia il vento nelle fredde giornate di gennaio."
         },
         {
           "name": "Cali Kitchen",
@@ -110,12 +118,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cali+Kitchen+Nimes",
           "descriptionDe": "Ein Brunch-Lokal im kalifornischen Stil mit langer Terrasse an der Place de la Maison Carrée und direktem Blick auf den römischen Tempel. Bowls, Eier, Avocado-Toast, Sauerteig-Sandwiches und hausgemachte Limonaden. Angeleinte Hunde sind auf der Terrasse ausdrücklich willkommen, und das Personal bringt ungefragt Wassernäpfe. Schneller Service, ideal als Stopp zwischen den Arènes und den Jardins de la Fontaine.",
           "descriptionNl": "Een brunchzaak in Californische stijl met een lang terras aan de Place de la Maison Carrée en direct zicht op de Romeinse tempel. Bowls, eieren, avocadotoast, zuurdesemsandwiches en huisgemaakte limonades. Honden aan de lijn zijn nadrukkelijk welkom op het terras, en het personeel brengt ongevraagd waterbakjes. Snelle bediening, ideaal als tussenstop tussen de Arènes en de Jardins de la Fontaine.",
+          "descriptionIt": "Un locale per brunch in stile californiano con una lunga terrazza su Place de la Maison Carrée e vista diretta sul tempio romano. Bowl, uova, avocado toast, panini con pane a lievitazione naturale e limonate fatte in casa. I cani al guinzaglio sono esplicitamente benvenuti in terrazza, e il personale porta ciotole d'acqua senza che tu debba chiederle. Servizio veloce, ideale come tappa tra le Arènes e i Jardins de la Fontaine.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen; Wassernäpfe werden bereitgestellt",
           "petPolicyNl": "Honden aan de lijn welkom op het terras; waterbakjes worden verstrekt",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza; vengono fornite ciotole d'acqua",
           "mustTryDe": "Avocado-Toast, hausgemachte Limonade, Eggs Benedict",
           "mustTryNl": "Avocadotoast, huisgemaakte limonade, eggs benedict",
+          "mustTryIt": "Avocado toast, limonata fatta in casa, eggs benedict",
           "tipDe": "Abends geschlossen; ideal für einen langen Samstagsbrunch nach einem Rundgang durch das historische Zentrum vor dem Nachmittagsbesuch der Arènes.",
-          "tipNl": "'s Avonds gesloten; ideaal voor een lange brunch op zaterdag na een rondje door het historische centrum, voor het middagbezoek aan de Arènes."
+          "tipNl": "'s Avonds gesloten; ideaal voor een lange brunch op zaterdag na een rondje door het historische centrum, voor het middagbezoek aan de Arènes.",
+          "tipIt": "Chiuso la sera; ideale per un lungo brunch del sabato dopo un giro nel centro storico, prima della visita pomeridiana alle Arènes."
         }
       ],
       "tipsEn": [
@@ -196,8 +208,10 @@
       ],
       "titleDe": "Haustierfreundliche Restaurants in Nîmes",
       "titleNl": "Huisdiervriendelijke restaurants in Nîmes",
+      "titleIt": "Ristoranti pet-friendly a Nîmes",
       "introDe": "Nîmes ist eine der wirklich hundetoleranten Städte in Südfrankreich: Das historische Zentrum zwischen den Arènes und der Maison Carrée ist dicht mit Terrassencafés bestückt, die angeleinte Hunde ganz selbstverständlich willkommen heißen. Viele Innenräume akzeptieren kleine Hunde auf dem Arm, und der Samstagsmarkt an der Place aux Herbes zieht eine lange Reihe von Terrassentischen für spätes Frühstück und frühes Mittagessen nach sich. Reservieren Sie samstags sowie während der Féria de Pentecôte (Anfang Juni) und der Féria des Vendanges (Mitte September).",
       "introNl": "Nîmes is een van de echt hondtolerante steden in Zuid-Frankrijk: het historische centrum tussen de Arènes en de Maison Carrée staat vol terrascafés die honden aan de lijn heel vanzelfsprekend verwelkomen. Veel binnenruimtes accepteren kleine honden op de arm, en de zaterdagmarkt aan de Place aux Herbes trekt een lange rij terrastafels aan voor laat ontbijt en vroege lunch. Reserveer op zaterdagen en tijdens de Féria de Pentecôte (begin juni) en de Féria des Vendanges (half september).",
+      "introIt": "Nîmes è una delle città davvero tolleranti verso i cani nel sud della Francia: il centro storico tra le Arènes e la Maison Carrée è pieno di caffè con terrazza che accolgono i cani al guinzaglio con la massima naturalezza. Molti spazi interni accettano cani piccoli in braccio, e il mercato del sabato in Place aux Herbes attira una lunga fila di tavoli in terrazza per colazioni tardive e pranzi anticipati. Prenota il sabato e durante la Féria de Pentecôte (inizio giugno) e la Féria des Vendanges (metà settembre).",
       "faqsDe": [
         {
           "q": "Darf mein Hund mit in die Restaurants im historischen Zentrum?",
@@ -224,6 +238,20 @@
         {
           "q": "Kan ik het centrum beter mijden tijdens de Féria?",
           "a": "Ja, als je met hond reist. De Férias van Pentecôte en Vendanges trekken meer dan 500.000 bezoekers met fanfares, vuurwerk en mensenmassa's; zelfs rustige honden raken hierdoor overweldigd. Blijf buiten de stadsmuren of boek een oppas."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio cane può entrare nei ristoranti del centro storico?",
+          "a": "Molti spazi interni accettano cani piccoli in braccio; i cani di taglia media e grande vengono di solito indirizzati in terrazza. Chiedi sempre al personale all'arrivo."
+        },
+        {
+          "q": "I ristoranti vicino alla Maison Carrée sono pet-friendly?",
+          "a": "Sì, quasi tutte le terrazze su Place de la Maison Carrée e Rue de la Maison Carrée accettano cani al guinzaglio; la piazza è pedonale, e i cani fanno parte del paesaggio quotidiano."
+        },
+        {
+          "q": "Meglio evitare il centro durante la Féria?",
+          "a": "Sì, se viaggi con un cane. Le Férias di Pentecôte e Vendanges attirano più di 500.000 visitatori con bande musicali, fuochi d'artificio e folla; anche i cani più tranquilli ne restano sopraffatti. Resta fuori dalle mura o prenota un dog sitter."
         }
       ]
     },
@@ -264,12 +292,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Jardins+de+la+Fontaine+Nimes",
           "descriptionDe": "Frankreichs erster öffentlicher Garten, 1750 rund um die römische Quellheiligtum-Anlage am Mont Cavalier eröffnet, mit formalen Terrassenbeeten im unteren Teil und einem bewaldeten Aufstieg zum römischen Tour Magne an der Spitze. 15 Hektar, freier Eintritt. Das offizielle Tourismusbüro bestätigt, dass angeleinte Hunde im gesamten Garten willkommen sind; Hunde ohne Leine werden gebüßt, Kotbeutel-Spender sind vor Ort. Rechnen Sie 90 Minuten für den unteren Garten plus den Aufstieg zum Tour Magne ein.",
           "descriptionNl": "De eerste openbare tuin van Frankrijk, geopend in 1750 rond het Romeinse bronheiligdom op de Mont Cavalier, met formele terrasperken in het lagere deel en een beboste klim naar de Romeinse Tour Magne aan de top. 15 hectare, gratis toegang. Het officiële toeristenbureau bevestigt dat honden aan de lijn welkom zijn in de hele tuin; honden zonder lijn krijgen een boete, uitwerpselzakjesautomaten staan ter plaatse. Reken op 90 minuten voor de lagere tuin plus de klim naar de Tour Magne.",
+          "descriptionIt": "Il primo giardino pubblico di Francia, aperto nel 1750 intorno al santuario romano della sorgente sul Mont Cavalier, con aiuole formali a terrazze nella parte bassa e una salita boscosa fino alla Tour Magne romana in cima. 15 ettari, ingresso gratuito. L'ufficio del turismo ufficiale conferma che i cani al guinzaglio sono benvenuti in tutto il giardino; i cani senza guinzaglio rischiano una multa, sono presenti distributori di sacchetti igienici. Calcola 90 minuti per il giardino basso più la salita alla Tour Magne.",
           "petPolicyDe": "Leinenpflicht im gesamten Bereich; Hunde ohne Leine werden gebüßt; Kotbeutel-Spender vor Ort",
           "petPolicyNl": "Aanlijnplicht overal; honden zonder lijn krijgen een boete; uitwerpselzakjesautomaten ter plaatse",
+          "petPolicyIt": "Guinzaglio obbligatorio ovunque; multa per i cani senza guinzaglio; distributori di sacchetti igienici sul posto",
           "featuresDe": "Römische Quellheiligtum-Anlage, formale Terrassen, Ruinen des Temple de Diane, Gipfel des Tour Magne",
           "featuresNl": "Romeins bronheiligdom, formele terrassen, ruïnes van de Temple de Diane, top van de Tour Magne",
+          "featuresIt": "Santuario romano della sorgente, terrazze formali, rovine del Temple de Diane, cima della Tour Magne",
           "tipDe": "Steigen Sie im Sommer vor 10:00 Uhr zum Tour Magne auf; der steile Weg liegt im Schatten von Kiefern, ist aber ab Mittag sehr heiß, und die Panoramaterrasse an der Spitze bietet keinerlei Schutz.",
-          "tipNl": "Beklim de Tour Magne 's zomers voor 10.00 uur; het steile pad ligt in de schaduw van dennen, maar wordt na het middaguur erg heet, en het panoramaterras aan de top biedt geen enkele beschutting."
+          "tipNl": "Beklim de Tour Magne 's zomers voor 10.00 uur; het steile pad ligt in de schaduw van dennen, maar wordt na het middaguur erg heet, en het panoramaterras aan de top biedt geen enkele beschutting.",
+          "tipIt": "Sali alla Tour Magne d'estate prima delle 10.00; il sentiero ripido è ombreggiato dai pini, ma diventa molto caldo dopo mezzogiorno, e la terrazza panoramica in cima non offre alcun riparo."
         },
         {
           "name": "Parc du Mont Duplan",
@@ -298,12 +330,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parc+du+Mont+Duplan+Nimes",
           "descriptionDe": "Ein 4 Hektar großer Hügelpark am nordöstlichen Stadtrand mit schattigen Wegen, die sich zwischen Pinienhainen hinaufschlängeln, einem kleinen Aussichtspunkt am oberen Rand und Blick zurück auf das römische Zentrum. Weniger besucht als die Jardins de la Fontaine, mit mehr Platz für einen längeren Spaziergang an der Leine. Angeleinte Hunde willkommen; der eingezäunte Kinderspielplatz verbietet Hunde.",
           "descriptionNl": "Een 4 hectare groot heuvelpark aan de noordoostelijke rand van de stad met schaduwrijke paden die tussen dennenbossen omhoog kronkelen, een klein uitzichtpunt bovenaan en zicht terug op het Romeinse centrum. Minder druk bezocht dan de Jardins de la Fontaine, met meer ruimte voor een langere wandeling aan de lijn. Honden aan de lijn welkom; op de omheinde kinderspeelplaats zijn honden niet toegestaan.",
+          "descriptionIt": "Un parco collinare di 4 ettari ai margini nordorientali della città con sentieri ombreggiati che si arrampicano tra i pini, un piccolo punto panoramico in cima e vista sul centro romano. Meno frequentato dei Jardins de la Fontaine, con più spazio per una passeggiata più lunga al guinzaglio. Cani al guinzaglio benvenuti; nell'area giochi recintata per bambini i cani non sono ammessi.",
           "petPolicyDe": "Leinenpflicht auf den Wegen; nicht auf dem eingezäunten Kinderspielplatz",
           "petPolicyNl": "Aanlijnplicht op de paden; niet op de omheinde kinderspeelplaats",
+          "petPolicyIt": "Guinzaglio obbligatorio sui sentieri; non ammesso nell'area giochi recintata per bambini",
           "featuresDe": "Pinienschatten, Aussichtspunkt am Hügel, sanfte Wege, eingezäunter Spielplatz (keine Hunde)",
           "featuresNl": "Dennenschaduw, uitzichtpunt op de heuvel, zachte paden, omheinde speelplaats (geen honden)",
+          "featuresIt": "Ombra di pini, punto panoramico sulla collina, sentieri morbidi, area giochi recintata (niente cani)",
           "tipDe": "Ein guter Aufwärmspaziergang vor der Hitze: 30-minütige Runde, größtenteils schattig, keine Straßenüberquerungen, und der Anstieg ist sanft genug für einen älteren Hund.",
-          "tipNl": "Een goede opwarmwandeling voor de hitte: rondje van 30 minuten, grotendeels in de schaduw, geen straten oversteken, en de klim is zacht genoeg voor een oudere hond."
+          "tipNl": "Een goede opwarmwandeling voor de hitte: rondje van 30 minuten, grotendeels in de schaduw, geen straten oversteken, en de klim is zacht genoeg voor een oudere hond.",
+          "tipIt": "Una buona passeggiata di riscaldamento prima del caldo: giro di 30 minuti, quasi tutto all'ombra, senza attraversare strade, e la salita è abbastanza dolce per un cane anziano."
         },
         {
           "name": "Bois des Espeisses",
@@ -332,12 +368,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bois+des+Espeisses+Nimes",
           "descriptionDe": "Ein 165 Hektar großer städtischer Wald am nordwestlichen Stadtrand von Nîmes, die größte Grünfläche der Stadt und das, was einem Waldspaziergang innerhalb der Gemeinde am nächsten kommt. Markierte Wanderwege, Garrigue-Buschland und Pinienhaine, mit Ausblicken über die Stadt von den oberen Pfaden aus. Angeleinte Hunde sind auf allen markierten Wegen zugelassen; kategorisierte Hunde (Kategorien 1 und 2 nach französischem Recht) müssen einen Maulkorb tragen. Keine Freilaufzone.",
           "descriptionNl": "Een 165 hectare groot stadsbos aan de noordwestelijke rand van Nîmes, de grootste groene ruimte van de stad en wat het dichtst in de buurt komt van een boswandeling binnen de gemeente. Gemarkeerde wandelpaden, garrigue-struikgewas en dennenbossen, met uitzicht over de stad vanaf de hogere paden. Honden aan de lijn zijn toegestaan op alle gemarkeerde paden; gecategoriseerde honden (categorie 1 en 2 volgens Frans recht) moeten een muilkorf dragen. Geen losloopgebied.",
+          "descriptionIt": "Un bosco urbano di 165 ettari ai margini nordoccidentali di Nîmes, il più grande spazio verde della città e quanto di più simile a una passeggiata nel bosco all'interno del comune. Sentieri segnalati, macchia di garrigue e pinete, con vista sulla città dai sentieri più alti. I cani al guinzaglio sono ammessi su tutti i sentieri segnalati; i cani categorizzati (categoria 1 e 2 secondo la legge francese) devono indossare la museruola. Nessuna area di sgambamento.",
           "petPolicyDe": "Leinenpflicht auf allen markierten Wegen; kategorisierte Hunde mit Maulkorb",
           "petPolicyNl": "Aanlijnplicht op alle gemarkeerde paden; gecategoriseerde honden met muilkorf",
+          "petPolicyIt": "Guinzaglio obbligatorio su tutti i sentieri segnalati; cani categorizzati con museruola",
           "featuresDe": "Pinienhaine, Garrigue-Buschland, markierte Wanderwege, Stadtblicke",
           "featuresNl": "Dennenbossen, garrigue-struikgewas, gemarkeerde wandelpaden, uitzicht op de stad",
+          "featuresIt": "Pinete, macchia di garrigue, sentieri segnalati, vista sulla città",
           "tipDe": "Prüfen Sie zwischen Juli und September die Waldbrand-Risikokarte der Präfektur Gard; an Tagen mit roter Warnstufe schließt der Wald für alle Spaziergänger, und am Eingang drohen Bußgelder.",
-          "tipNl": "Controleer tussen juli en september de bosbrandrisicokaart van de prefectuur Gard; op dagen met rode waarschuwing sluit het bos voor alle wandelaars, en bij de ingang dreigen boetes."
+          "tipNl": "Controleer tussen juli en september de bosbrandrisicokaart van de prefectuur Gard; op dagen met rode waarschuwing sluit het bos voor alle wandelaars, en bij de ingang dreigen boetes.",
+          "tipIt": "Controlla tra luglio e settembre la mappa del rischio di incendio della prefettura del Gard; nei giorni di allerta rossa il bosco chiude a tutti gli escursionisti, e all'ingresso sono previste multe."
         }
       ],
       "tipsEn": [
@@ -418,8 +458,10 @@
       ],
       "titleDe": "Parks und Grünflächen in Nîmes",
       "titleNl": "Parken en groene ruimtes in Nîmes",
+      "titleIt": "Parchi e spazi verdi a Nîmes",
       "introDe": "Nîmes errichtete 1750 Frankreichs ersten öffentlichen Garten, die Jardins de la Fontaine, die sich vom Zentrum aus den bewaldeten Mont Cavalier hinauf bis zum römischen Tour Magne ziehen. Der Park ist 15 Hektar groß, kostenlos, und das offizielle Tourismusbüro bestätigt, dass angeleinte Hunde überall willkommen sind, Kotbeutel-Spender sind vor Ort. Neben den Jardins runden der Parc du Mont Duplan und der Bois des Espeisses die Möglichkeiten zum Gassigehen in der Stadt ab.",
       "introNl": "Nîmes legde in 1750 de eerste openbare tuin van Frankrijk aan, de Jardins de la Fontaine, die vanaf het centrum de beboste Mont Cavalier op lopen tot aan de Romeinse Tour Magne. Het park is 15 hectare groot, gratis, en het officiële toeristenbureau bevestigt dat honden aan de lijn overal welkom zijn, uitwerpselzakjesautomaten staan ter plaatse. Naast de Jardins vullen het Parc du Mont Duplan en het Bois des Espeisses de mogelijkheden om in de stad uit te laten aan.",
+      "introIt": "Nîmes ha realizzato nel 1750 il primo giardino pubblico di Francia, i Jardins de la Fontaine, che dal centro salgono sul boscoso Mont Cavalier fino alla Tour Magne romana. Il parco è di 15 ettari, gratuito, e l'ufficio del turismo ufficiale conferma che i cani al guinzaglio sono benvenuti ovunque, con distributori di sacchetti igienici sul posto. Oltre ai Jardins, il Parc du Mont Duplan e il Bois des Espeisses offrono altre possibilità per portare a spasso il cane in città.",
       "faqsDe": [
         {
           "q": "Sind Hunde in den Jardins de la Fontaine erlaubt?",
@@ -446,6 +488,20 @@
         {
           "q": "Kan mijn hond de Tour Magne beklimmen?",
           "a": "Ja, het klimpad door de Jardins de la Fontaine staat open voor honden aan de lijn. Alleen het binnenste van de Romeinse toren zelf verbiedt honden (behalve blindengeleide- en assistentiehonden)."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani sono ammessi nei Jardins de la Fontaine?",
+          "a": "Sì, i cani al guinzaglio sono benvenuti gratuitamente in tutto il parco di 15 ettari, anche sul sentiero di salita verso la Tour Magne. I cani senza guinzaglio rischiano regolarmente una multa."
+        },
+        {
+          "q": "C'è un'area di sgambamento per cani a Nîmes?",
+          "a": "No. Il comune impone il guinzaglio obbligatorio per tutti i cani in città, anche nei parchi. Per la libertà di movimento usa uno spazio sorvegliato da un dog sitter tramite Gudog o Rover."
+        },
+        {
+          "q": "Il mio cane può salire sulla Tour Magne?",
+          "a": "Sì, il sentiero di salita attraverso i Jardins de la Fontaine è aperto ai cani al guinzaglio. Solo l'interno della torre romana vieta i cani (tranne i cani guida e di assistenza)."
         }
       ]
     },
@@ -480,10 +536,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Gare+SNCF+Nimes",
           "descriptionDe": "Der Bahnhof von Nîmes liegt am südlichen Rand des historischen Écusson, 8 Gehminuten von den Arènes entfernt. TGV-Verbindungen nach Paris Gare de Lyon in 2 Std. 50 Min. sowie regelmäßige TER-Linien nach Avignon (30 Min.), Arles (30 Min.), Montpellier (30 Min.) und Marseille (1 Std.). Es gelten die nationalen SNCF-Regeln für Haustiere: Hunde unter 6 kg in einer Transportbox reisen mit einem 0-EUR-Tierticket, größere Hunde an der Leine mit Maulkorb zahlen 50 Prozent des Erwachsenenpreises, gedeckelt bei 7 EUR. Blinden- und Assistenzhunde reisen kostenlos.",
           "descriptionNl": "Het station van Nîmes ligt aan de zuidelijke rand van de historische Écusson-wijk, 8 minuten lopen van de Arènes. TGV-verbindingen naar Parijs Gare de Lyon in 2 uur 50 minuten, plus regelmatige TER-lijnen naar Avignon (30 min.), Arles (30 min.), Montpellier (30 min.) en Marseille (1 uur). De nationale SNCF-regels voor huisdieren gelden: honden onder 6 kg in een transportbox reizen met een ticket van 0 euro voor het dier, grotere honden aan de lijn met muilkorf betalen 50 procent van de volwassenprijs, met een maximum van 7 euro. Blindengeleide- en assistentiehonden reizen gratis.",
+          "descriptionIt": "La stazione di Nîmes si trova al margine sud del quartiere storico dell'Écusson, a 8 minuti a piedi dalle Arènes. Collegamenti TGV per Parigi Gare de Lyon in 2 ore e 50 minuti, più linee TER regolari per Avignone (30 min), Arles (30 min), Montpellier (30 min) e Marsiglia (1 ora). Valgono le regole nazionali SNCF per gli animali: i cani sotto i 6 kg in trasportino viaggiano con un biglietto a 0 euro per l'animale, i cani più grandi al guinzaglio con museruola pagano il 50 percento della tariffa adulto, con un massimo di 7 euro. I cani guida e di assistenza viaggiano gratis.",
           "petPolicyDe": "Hunde <6 kg in Transportbox: 0-EUR-Ticket. Größere Hunde an der Leine mit Maulkorb: 50 % des Erwachsenenpreises, max. 7 EUR. Blindenhunde kostenlos.",
           "petPolicyNl": "Honden <6 kg in transportbox: ticket van 0 euro. Grotere honden aan de lijn met muilkorf: 50% van de volwassenprijs, max. 7 euro. Blindengeleidehonden gratis.",
+          "petPolicyIt": "Cani <6 kg in trasportino: biglietto a 0 euro. Cani più grandi al guinzaglio con museruola: 50% della tariffa adulto, max 7 euro. Cani guida gratis.",
           "tipDe": "Kaufen Sie das 0-EUR-Tierticket vor der Abfahrt bei SNCF Connect; die Kontrolleure verlangen es bei jedem TER zwischen Nîmes und Avignon.",
-          "tipNl": "Koop het gratis dierenticket vooraf bij SNCF Connect; de conducteurs vragen ernaar bij elke TER tussen Nîmes en Avignon."
+          "tipNl": "Koop het gratis dierenticket vooraf bij SNCF Connect; de conducteurs vragen ernaar bij elke TER tussen Nîmes en Avignon.",
+          "tipIt": "Compra il biglietto gratuito per l'animale in anticipo su SNCF Connect; i controllori lo chiedono su ogni TER tra Nîmes e Avignone."
         },
         {
           "name": "Tango urban bus network",
@@ -506,10 +565,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=13+rue+Regale+Nimes",
           "descriptionDe": "Tango ist das städtische Busnetz von Nîmes Métropole und deckt das Stadtzentrum sowie 39 umliegende Gemeinden ab. Wie bei den meisten französischen kommunalen Busnetzen sind nur kleine Haustiere in einem geschlossenen Korb sowie Blinden- oder Assistenzhunde zugelassen; mittelgroße und große Hunde an der Leine werden nicht an Bord genommen. Für den Pont du Gard nehmen Sie den saisonalen Regionalbus Edgard B21 ab dem Busbahnhof von Nîmes, für den dieselbe Regel „nur kleine Haustiere“ gilt.",
           "descriptionNl": "Tango is het stedelijke busnet van Nîmes Métropole en dekt het stadscentrum plus 39 omliggende gemeenten. Zoals bij de meeste Franse gemeentelijke busnetten zijn alleen kleine huisdieren in een gesloten mand toegestaan, plus blindengeleide- of assistentiehonden; middelgrote en grote honden aan de lijn worden niet toegelaten. Voor de Pont du Gard neem je de seizoensgebonden streekbus Edgard B21 vanaf het busstation van Nîmes, waarvoor dezelfde regel 'alleen kleine huisdieren' geldt.",
+          "descriptionIt": "Tango è la rete di autobus urbani di Nîmes Métropole e copre il centro città più 39 comuni limitrofi. Come nella maggior parte delle reti di autobus comunali francesi, sono ammessi solo piccoli animali in una gabbia chiusa, più cani guida o di assistenza; i cani di taglia media e grande al guinzaglio non sono ammessi. Per il Pont du Gard si prende l'autobus regionale stagionale Edgard B21 dalla stazione degli autobus di Nîmes, dove vale la stessa regola dei soli piccoli animali.",
           "petPolicyDe": "Nur kleine Haustiere in geschlossenem Korb; Blinden- und Assistenzhunde an der Leine. Mittelgroße/große Hunde werden abgewiesen.",
           "petPolicyNl": "Alleen kleine huisdieren in gesloten mand; blindengeleide- en assistentiehonden aan de lijn. Middelgrote/grote honden worden geweigerd.",
+          "petPolicyIt": "Solo piccoli animali in gabbia chiusa; cani guida e di assistenza al guinzaglio. Cani di taglia media/grande respinti.",
           "tipDe": "Für den Pont du Gard mit einem großen Hund nehmen Sie besser ein Taxi (~35 EUR pro Fahrt) statt des Edgard-Busses; die Fahrt dauert 25 Minuten, und der Fahrer kann vor Ort warten.",
-          "tipNl": "Neem voor de Pont du Gard met een grote hond beter een taxi (ongeveer 35 euro per rit) dan de Edgard-bus; de rit duurt 25 minuten, en de chauffeur kan ter plaatse wachten."
+          "tipNl": "Neem voor de Pont du Gard met een grote hond beter een taxi (ongeveer 35 euro per rit) dan de Edgard-bus; de rit duurt 25 minuten, en de chauffeur kan ter plaatse wachten.",
+          "tipIt": "Per il Pont du Gard con un cane grande meglio un taxi (circa 35 euro a corsa) che l'autobus Edgard; il tragitto dura 25 minuti, e l'autista può aspettare sul posto."
         },
         {
           "name": "Aéroport Nîmes-Alès-Camargue-Cévennes (FNI)",
@@ -532,10 +594,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Nimes+Garons+Airport",
           "descriptionDe": "Ein kleiner saisonaler Flughafen 15 Minuten südlich von Nîmes, mit Ryanair- und Volotea-Verbindungen nach London Luton, Brüssel Charleroi und einigen Sommerzielen. Es gelten die üblichen Fluggesellschaftsregeln für Haustiere: Die meisten Airlines lassen Haustiere bis 8 kg inklusive Transportbox in der Kabine zu und verlangen eine Vorabbuchung. Für ganzjährige Flexibilität bieten Marseille Provence (MRS, 1 Std. 15 mit dem Auto) oder Montpellier (MPL, 50 Min.) deutlich mehr haustierfreundliche Flugverbindungen.",
           "descriptionNl": "Een klein seizoensgebonden vliegveld 15 minuten ten zuiden van Nîmes, met Ryanair- en Volotea-verbindingen naar Londen Luton, Brussel Charleroi en enkele zomerbestemmingen. De gebruikelijke luchtvaartregels voor huisdieren gelden: de meeste maatschappijen laten huisdieren tot 8 kg inclusief transportbox toe in de cabine en vragen om vooraf te reserveren. Voor jaarrondflexibiliteit bieden Marseille Provence (MRS, 1 uur 15 met de auto) of Montpellier (MPL, 50 min.) aanzienlijk meer huisdiervriendelijke vluchten.",
+          "descriptionIt": "Un piccolo aeroporto stagionale 15 minuti a sud di Nîmes, con collegamenti Ryanair e Volotea per Londra Luton, Bruxelles Charleroi e alcune destinazioni estive. Valgono le solite regole aeree per gli animali: la maggior parte delle compagnie ammette in cabina animali fino a 8 kg incluso il trasportino e chiede di prenotare in anticipo. Per maggiore flessibilità tutto l'anno, Marsiglia Provenza (MRS, 1 ora e 15 in auto) o Montpellier (MPL, 50 min) offrono decisamente più voli pet-friendly.",
           "petPolicyDe": "Kabine <8 kg inkl. Transportbox bei den meisten Airlines; Vorabbuchung Pflicht",
           "petPolicyNl": "Cabine <8 kg inclusief transportbox bij de meeste maatschappijen; vooraf reserveren verplicht",
+          "petPolicyIt": "Cabina <8 kg incluso trasportino con la maggior parte delle compagnie; prenotazione anticipata obbligatoria",
           "tipDe": "Bestätigen Sie die Tierbuchung telefonisch nach dem Online-Kauf; besonders Ryanair begrenzt die Anzahl der Haustiere pro Flug, und im Sommer kommt es häufig zu Überbuchungen.",
-          "tipNl": "Bevestig de dierenboeking telefonisch na de online aankoop; vooral Ryanair beperkt het aantal huisdieren per vlucht, en 's zomers komt overboeking vaak voor."
+          "tipNl": "Bevestig de dierenboeking telefonisch na de online aankoop; vooral Ryanair beperkt het aantal huisdieren per vlucht, en 's zomers komt overboeking vaak voor.",
+          "tipIt": "Conferma la prenotazione per l'animale per telefono dopo l'acquisto online; Ryanair in particolare limita il numero di animali per volo, e d'estate l'overbooking è frequente."
         }
       ],
       "tipsEn": [
@@ -616,8 +681,10 @@
       ],
       "titleDe": "Haustierfreundliche Verkehrsmittel in Nîmes",
       "titleNl": "Huisdiervriendelijk vervoer in Nîmes",
+      "titleIt": "Trasporti pet-friendly a Nîmes",
       "introDe": "Nîmes liegt an der Kreuzung des provenzalisch-römischen Dreiecks: 30 Minuten mit dem TER von Avignon und Arles, 30 Minuten von Montpellier und 2 Stunden 50 Minuten mit dem TGV von Paris. Das städtische Tango-Netz betreibt Stadtbusse im gesamten Ballungsraum Nîmes Métropole. Der Flughafen Nîmes Garons (FNI) ist klein und saisonal, die meisten internationalen Reisenden nutzen Marseille (MRS, 1 Std. 15) oder Montpellier (MPL, 50 Min.).",
       "introNl": "Nîmes ligt op het kruispunt van de Provençaals-Romeinse driehoek: 30 minuten met de TER van Avignon en Arles, 30 minuten van Montpellier en 2 uur 50 minuten met de TGV van Parijs. Het stedelijke Tango-netwerk exploiteert stadsbussen in de hele agglomeratie Nîmes Métropole. Het vliegveld Nîmes Garons (FNI) is klein en seizoensgebonden, de meeste internationale reizigers gebruiken Marseille (MRS, 1 uur 15) of Montpellier (MPL, 50 min.).",
+      "introIt": "Nîmes si trova all'incrocio del triangolo provenzale-romano: 30 minuti in TER da Avignone e Arles, 30 minuti da Montpellier e 2 ore e 50 in TGV da Parigi. La rete urbana Tango gestisce gli autobus cittadini in tutta l'agglomerazione di Nîmes Métropole. L'aeroporto Nîmes Garons (FNI) è piccolo e stagionale, la maggior parte dei viaggiatori internazionali usa Marsiglia (MRS, 1 ora e 15) o Montpellier (MPL, 50 min).",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund im TGV von Paris nach Nîmes mitnehmen?",
@@ -644,6 +711,20 @@
         {
           "q": "Welk vliegveld ligt het dichtst bij Nîmes voor reizen met huisdier?",
           "a": "Nîmes Garons (FNI) ligt 15 minuten ten zuiden, maar is seizoensgebonden en beperkt. Marseille Provence (MRS, 1 uur 15) en Montpellier (MPL, 50 min.) bieden het hele jaar door aanzienlijk meer huisdiervriendelijke vluchten."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane sul TGV da Parigi a Nîmes?",
+          "a": "Sì. I cani sotto i 6 kg viaggiano in trasportino con un biglietto a 0 euro; i cani più grandi al guinzaglio con museruola pagano il 50 percento della tariffa adulto, con un massimo di 7 euro. Compra il biglietto in anticipo su SNCF Connect."
+        },
+        {
+          "q": "I cani sono ammessi sugli autobus Tango?",
+          "a": "Sono ammessi solo piccoli animali in una gabbia chiusa più cani guida e di assistenza. I cani di taglia media e grande vengono respinti; per gli spostamenti tra città usa la SNCF e dentro Nîmes cammina a piedi o prendi un taxi."
+        },
+        {
+          "q": "Qual è l'aeroporto più vicino a Nîmes per viaggiare con un animale?",
+          "a": "Nîmes Garons (FNI) si trova 15 minuti a sud, ma è stagionale e limitato. Marsiglia Provenza (MRS, 1 ora e 15) e Montpellier (MPL, 50 min) offrono tutto l'anno decisamente più voli pet-friendly."
         }
       ]
     },
@@ -686,14 +767,19 @@
           "googleMapsUrl": "https://maps.google.com/?q=Pont+du+Gard",
           "descriptionDe": "Die geschützten Ufer des Gardon am Fuß des Pont du Gard, mit schattigen Kiesstränden am linken Ufer, die über einen 15-minütigen Fußweg vom Haupteingang erreichbar sind. Die offiziellen Regeln der Anlage erlauben angeleinte Hunde an den Ufern und freies Schwimmen für Hunde; wegen der Sogwirkung gilt eine 30-Meter-Schwimmsperrzone flussauf- und flussabwärts der Brückenpfeiler. Nach starkem Regen oder Wind starke Strömungen; vor dem Schwimmen prüfen.",
           "descriptionNl": "De beschutte oevers van de Gardon aan de voet van de Pont du Gard, met schaduwrijke kiezelstranden aan de linkeroever, bereikbaar via een wandeling van 15 minuten vanaf de hoofdingang. De officiële regels van het complex staan honden aan de lijn toe op de oevers en vrij zwemmen voor honden; vanwege de zuiging geldt een zwemverbod binnen 30 meter stroomopwaarts en stroomafwaarts van de brugpijlers. Na hevige regen of wind sterke stromingen; controleer voor het zwemmen.",
+          "descriptionIt": "Le rive riparate del Gardon ai piedi del Pont du Gard, con spiagge di ciottoli ombreggiate sulla riva sinistra, raggiungibili con una passeggiata di 15 minuti dall'ingresso principale. Le regole ufficiali del sito ammettono cani al guinzaglio sulle rive e il nuoto libero per i cani; a causa delle correnti di risucchio è vietato nuotare entro 30 metri a monte e a valle dei piloni del ponte. Dopo forti piogge o vento le correnti sono forti; controlla prima di fare il bagno.",
           "petPolicyDe": "Leinenpflicht an den Ufern; freies Schwimmen außerhalb der 30-Meter-Sperrzone an der Brücke",
           "petPolicyNl": "Aanlijnplicht op de oevers; vrij zwemmen buiten de verbodszone van 30 meter bij de brug",
+          "petPolicyIt": "Guinzaglio obbligatorio sulle rive; nuoto libero fuori dalla zona di divieto di 30 metri vicino al ponte",
           "seasonDe": "Mai bis Oktober zum Schwimmen; Ufer ganzjährig geöffnet",
           "seasonNl": "Mei tot oktober om te zwemmen; oevers het hele jaar geopend",
+          "seasonIt": "Da maggio a ottobre per nuotare; rive aperte tutto l'anno",
           "amenitiesDe": "Toiletten am Eingang, keine Duschen, keine Schattenkioske am Ufer, kostenpflichtiges Parken",
           "amenitiesNl": "Toiletten bij de ingang, geen douches, geen schaduwkiosken aan de oever, betaald parkeren",
+          "amenitiesIt": "Bagni all'ingresso, niente docce, niente chioschi ombreggiati sulla riva, parcheggio a pagamento",
           "tipDe": "Besuchen Sie den Ort im Juli und August vor 10:30 Uhr; danach füllt sich der Fluss mit Kanus, und die oberen Ufer werden von Familien überlaufen. Der frühe Morgen ist die beste Badezeit für einen Hund.",
-          "tipNl": "Bezoek de plek in juli en augustus voor 10.30 uur; daarna vult de rivier zich met kano's, en worden de hogere oevers overspoeld door gezinnen. De vroege ochtend is de beste zwemtijd voor een hond."
+          "tipNl": "Bezoek de plek in juli en augustus voor 10.30 uur; daarna vult de rivier zich met kano's, en worden de hogere oevers overspoeld door gezinnen. De vroege ochtend is de beste zwemtijd voor een hond.",
+          "tipIt": "Visita il posto in luglio e agosto prima delle 10.30; dopo il fiume si riempie di canoe, e le rive più alte vengono invase dalle famiglie. Il primo mattino è il momento migliore per far nuotare un cane."
         },
         {
           "name": "Plage de l'Espiguette (Le Grau-du-Roi)",
@@ -724,14 +810,19 @@
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+l%27Espiguette",
           "descriptionDe": "Ein 18 km langer, wilder, von Dünen gesäumter Strand am westlichen Rand der Camargue, als Natura-2000-Gebiet ausgewiesen und einer der längsten Naturstrände Frankreichs. Die kommunalen Regeln von Le Grau-du-Roi erlauben angeleinte Hunde ganzjährig auf dem unbewachten westlichen Abschnitt jenseits des Hauptparkplatzes (Parking de l'Espiguette Nordwest); die zentrale bewachte Badezone verbietet Hunde von Juni bis September.",
           "descriptionNl": "Een 18 km lang, wild, door duinen omzoomd strand aan de westelijke rand van de Camargue, aangewezen als Natura 2000-gebied en een van de langste natuurstranden van Frankrijk. De gemeentelijke regels van Le Grau-du-Roi staan honden aan de lijn het hele jaar door toe op het onbewaakte westelijke gedeelte voorbij de hoofdparkeerplaats (Parking de l'Espiguette noordwest); de centrale bewaakte zwemzone verbiedt honden van juni tot september.",
+          "descriptionIt": "Una spiaggia selvaggia lunga 18 km, orlata di dune, ai margini occidentali della Camargue, classificata come sito Natura 2000 e una delle spiagge naturali più lunghe di Francia. Le regole comunali di Le Grau-du-Roi ammettono i cani al guinzaglio tutto l'anno nella zona ovest non sorvegliata oltre il parcheggio principale (Parking de l'Espiguette nord-ovest); la zona di balneazione sorvegliata centrale vieta i cani da giugno a settembre.",
           "petPolicyDe": "Ganzjährige Leinenpflicht am westlichen unbewachten Strandabschnitt; verboten in der zentralen bewachten Zone Juni bis September",
           "petPolicyNl": "Aanlijnplicht het hele jaar door op het westelijke onbewaakte strandgedeelte; verboden in de centrale bewaakte zone van juni tot september",
+          "petPolicyIt": "Guinzaglio obbligatorio tutto l'anno nella zona ovest non sorvegliata della spiaggia; vietato nella zona sorvegliata centrale da giugno a settembre",
           "seasonDe": "Ganzjährig am westlichen Strandabschnitt",
           "seasonNl": "Het hele jaar door op het westelijke strandgedeelte",
+          "seasonIt": "Tutto l'anno nella zona ovest della spiaggia",
           "amenitiesDe": "Kostenpflichtiges Parken, keine Läden am Hundeabschnitt, kein Schatten, Sommerstrandrestaurants in der Zentralzone (keine Hunde)",
           "amenitiesNl": "Betaald parkeren, geen winkels bij het hondengedeelte, geen schaduw, zomerstrandrestaurants in de centrale zone (geen honden)",
+          "amenitiesIt": "Parcheggio a pagamento, nessun negozio vicino alla zona per cani, niente ombra, ristoranti da spiaggia estivi nella zona centrale (niente cani)",
           "tipDe": "Parken Sie am Nordwest-Parkplatz und gehen Sie nach Westen; innerhalb von 10 Minuten haben Sie die Familienbadezone verlassen, und der Strand ist über Kilometer hundetolerant.",
-          "tipNl": "Parkeer op de parkeerplaats noordwest en loop naar het westen; binnen 10 minuten heb je de gezinszwemzone verlaten, en is het strand kilometers lang hondentolerant."
+          "tipNl": "Parkeer op de parkeerplaats noordwest en loop naar het westen; binnen 10 minuten heb je de gezinszwemzone verlaten, en is het strand kilometers lang hondentolerant.",
+          "tipIt": "Parcheggia nel parcheggio nord-ovest e cammina verso ovest; in 10 minuti hai lasciato la zona balneare per famiglie, e la spiaggia resta tollerante verso i cani per chilometri."
         },
         {
           "name": "Plage de Piémanson (Camargue)",
@@ -762,14 +853,19 @@
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Piemanson",
           "descriptionDe": "Der 25 km lange wilde Camargue-Strand östlich der Mündung der Grand Rhône, 1 Stunde südlich von Nîmes über Arles. Das Tourismusbüro von Arles bestätigt, dass angeleinte Hunde am Strand toleriert werden, jedoch aus der bewachten Sommerbadezone verbannt sind, die durch Bojen markiert ist (Juni bis September). Außerhalb der Badezone und in der Nebensaison ist der gesamte Strand für angeleinte Hunde geöffnet, dahinter liegen die Salzwiesen der Camargue.",
           "descriptionNl": "Het 25 km lange wilde Camargue-strand ten oosten van de monding van de Grand Rhône, 1 uur ten zuiden van Nîmes via Arles. Het toeristenbureau van Arles bevestigt dat honden aan de lijn op het strand worden getolereerd, maar geweerd worden uit de bewaakte zomerzwemzone die met boeien is afgebakend (juni tot september). Buiten de zwemzone en in het laagseizoen staat het hele strand open voor honden aan de lijn, daarachter liggen de zoutmoerassen van de Camargue.",
+          "descriptionIt": "La spiaggia selvaggia della Camargue lunga 25 km a est della foce del Grand Rhône, a 1 ora a sud di Nîmes passando per Arles. L'ufficio del turismo di Arles conferma che i cani al guinzaglio sono tollerati in spiaggia, ma esclusi dalla zona di balneazione estiva sorvegliata delimitata da boe (giugno-settembre). Fuori dalla zona di balneazione e in bassa stagione, l'intera spiaggia è aperta ai cani al guinzaglio, dietro si estendono le saline della Camargue.",
           "petPolicyDe": "Leinenpflicht am Strand; verboten innerhalb der bewachten Sommerzone (Juni bis September)",
           "petPolicyNl": "Aanlijnplicht op het strand; verboden binnen de bewaakte zomerzone (juni tot september)",
+          "petPolicyIt": "Guinzaglio obbligatorio in spiaggia; vietato nella zona sorvegliata estiva (giugno-settembre)",
           "seasonDe": "Ganzjährig außerhalb der bewachten Zone",
           "seasonNl": "Het hele jaar door buiten de bewaakte zone",
+          "seasonIt": "Tutto l'anno fuori dalla zona sorvegliata",
           "amenitiesDe": "Kostenloses Parken, Sommerstrandrestaurant (keine Hunde im Innenbereich), kein Schatten",
           "amenitiesNl": "Gratis parkeren, zomerstrandrestaurant (geen honden binnen), geen schaduw",
+          "amenitiesIt": "Parcheggio gratuito, ristorante da spiaggia estivo (niente cani all'interno), niente ombra",
           "tipDe": "Kombinieren Sie den Besuch mit einem halben Tag in Arles (45 Min. nördlich): früh schwimmen, auf einer Terrasse an der Place du Forum zu Mittag essen, am frühen Nachmittag zurückfahren, um die größte Hitze zu vermeiden.",
-          "tipNl": "Combineer het bezoek met een halve dag in Arles (45 min. ten noorden): vroeg zwemmen, lunchen op een terras aan de Place du Forum, terugrijden in de vroege middag om de grootste hitte te vermijden."
+          "tipNl": "Combineer het bezoek met een halve dag in Arles (45 min. ten noorden): vroeg zwemmen, lunchen op een terras aan de Place du Forum, terugrijden in de vroege middag om de grootste hitte te vermijden.",
+          "tipIt": "Abbina la visita a mezza giornata ad Arles (45 min a nord): nuotata al mattino presto, pranzo in terrazza su Place du Forum, rientro nel primo pomeriggio per evitare il caldo più forte."
         }
       ],
       "tipsEn": [
@@ -850,8 +946,10 @@
       ],
       "titleDe": "Flussbaden und Strände bei Nîmes",
       "titleNl": "Rivierbaden en stranden bij Nîmes",
+      "titleIt": "Bagni nel fiume e spiagge vicino a Nîmes",
       "introDe": "Nîmes liegt 50 km im Landesinneren, doch der Fluss Gardon rund um den Pont du Gard ist der beliebteste Ort zum Hundebaden vor Ort: Die offiziellen Regeln des Pont du Gard erlauben angeleinte Hunde an den Ufern und freies Schwimmen für Hunde im Fluss, mit einer 30-Meter-Sperrzone flussauf- und flussabwärts der Brücke aus Sicherheitsgründen. Für das Meer sind die Camargue-Strände Plage de l'Espiguette (Le Grau-du-Roi) und Plage de Piémanson (Arles) die nächstgelegenen hundetoleranten Strände, etwa 50 Minuten südlich.",
       "introNl": "Nîmes ligt 50 km landinwaarts, maar de rivier de Gardon rond de Pont du Gard is de populairste plek om er ter plaatse met de hond te zwemmen: de officiële regels van de Pont du Gard staan honden aan de lijn toe op de oevers en vrij zwemmen voor honden in de rivier, met een verbodszone van 30 meter stroomopwaarts en stroomafwaarts van de brug om veiligheidsredenen. Voor de zee zijn de Camargue-stranden Plage de l'Espiguette (Le Grau-du-Roi) en Plage de Piémanson (Arles) de dichtstbijzijnde hondentolerante stranden, ongeveer 50 minuten ten zuiden.",
+      "introIt": "Nîmes si trova a 50 km dall'entroterra, ma il fiume Gardon intorno al Pont du Gard è il posto più popolare dove nuotare con il cane sul posto: le regole ufficiali del Pont du Gard ammettono i cani al guinzaglio sulle rive e il nuoto libero per i cani nel fiume, con una zona di divieto di 30 metri a monte e a valle del ponte per motivi di sicurezza. Per il mare, le spiagge della Camargue Plage de l'Espiguette (Le Grau-du-Roi) e Plage de Piémanson (Arles) sono le spiagge tolleranti verso i cani più vicine, a circa 50 minuti a sud.",
       "faqsDe": [
         {
           "q": "Kann mein Hund am Pont du Gard schwimmen?",
@@ -878,6 +976,20 @@
         {
           "q": "Zijn honden verboden bij de Pont du Gard?",
           "a": "Nee. Honden aan de lijn zijn welkom op het hele buitenterrein en langs de rivieroevers. Alleen het museum, de tentoonstellingen Ciné en Ludo en het binnenste van het Romeinse aquaduct verbieden honden, behalve blindengeleide- en assistentiehonden."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio cane può nuotare al Pont du Gard?",
+          "a": "Sì. Le regole ufficiali del sito ammettono i cani al guinzaglio sulle rive e il nuoto libero nel fiume, fuori da una zona di divieto di 30 metri a monte e a valle dei piloni del ponte."
+        },
+        {
+          "q": "Dov'è la spiaggia per cani più vicina a Nîmes?",
+          "a": "La Plage de l'Espiguette vicino a Le Grau-du-Roi (50 min a sud) è la più vicina, con accesso ai cani tutto l'anno nella zona ovest non sorvegliata della spiaggia. La Camargue Piémanson si trova a 1 ora a sud passando per Arles."
+        },
+        {
+          "q": "I cani sono vietati al Pont du Gard?",
+          "a": "No. I cani al guinzaglio sono benvenuti in tutta l'area esterna e lungo le rive del fiume. Solo il museo, le mostre Ciné e Ludo e l'interno dell'acquedotto romano vietano i cani, tranne i cani guida e di assistenza."
         }
       ]
     },
@@ -918,12 +1030,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=2725+route+de+Montpellier+Nimes",
           "descriptionDe": "Eine eigene Notfall-Tierarztklinik an der Route de Montpellier, eröffnet, um Nacht- und Wochenendversorgung für den gesamten Gard und das Delta der Bouches-du-Rhône bereitzustellen. Wochentags von 19:00 bis 08:00 Uhr geöffnet, am Wochenende durchgehend von Samstagmittag bis Montag 08:00 Uhr, an Feiertagen rund um die Uhr. Jede Nacht ausgebildetes Tierpflegepersonal vor Ort, vollständige Bildgebung und zwei Operationssäle.",
           "descriptionNl": "Een eigen spoedkliniek voor dieren aan de Route de Montpellier, geopend om nacht- en weekendzorg te bieden voor de hele Gard en de delta van de Bouches-du-Rhône. Doordeweeks open van 19.00 tot 08.00 uur, in het weekend doorlopend van zaterdagmiddag tot maandag 08.00 uur, op feestdagen 24 uur per dag. Elke nacht opgeleid dierverzorgend personeel aanwezig, volledige beeldvorming en twee operatiekamers.",
+          "descriptionIt": "Una clinica veterinaria d'urgenza dedicata su Route de Montpellier, aperta per offrire assistenza notturna e nel weekend a tutto il Gard e al delta delle Bouches-du-Rhône. Aperta nei giorni feriali dalle 19.00 alle 8.00, nel weekend senza interruzione dal sabato pomeriggio al lunedì alle 8.00, nei giorni festivi 24 ore su 24. Personale veterinario qualificato presente ogni notte, diagnostica per immagini completa e due sale operatorie.",
           "petPolicyDe": "Alle Haustiere; EU-Heimtierausweis akzeptiert; nur Notfälle",
           "petPolicyNl": "Alle huisdieren; EU-dierenpaspoort geaccepteerd; alleen spoedgevallen",
+          "petPolicyIt": "Tutti gli animali; passaporto UE per animali accettato; solo emergenze",
           "servicesDe": "24/7-Notdienst an Wochenenden und Feiertagen, Nachtversorgung Mo-Fr, Bildgebung, Chirurgie",
           "servicesNl": "24/7-spoeddienst in weekenden en op feestdagen, nachtzorg ma-vr, beeldvorming, chirurgie",
+          "servicesIt": "Servizio d'urgenza 24/7 nei weekend e nei giorni festivi, assistenza notturna dal lunedì al venerdì, diagnostica per immagini, chirurgia",
           "tipDe": "Rufen Sie vor der Anfahrt 04 27 04 02 72 an; das Team führt eine telefonische Ersteinschätzung durch und verweist Sie bei kritischer Anfahrtszeit gegebenenfalls an den nächsten diensthabenden Tierarzt.",
-          "tipNl": "Bel voor de rit 04 27 04 02 72; het team doet een telefonische eerste inschatting en verwijst je bij een kritieke aanrijtijd eventueel door naar de dichtstbijzijnde dienstdoende dierenarts."
+          "tipNl": "Bel voor de rit 04 27 04 02 72; het team doet een telefonische eerste inschatting en verwijst je bij een kritieke aanrijtijd eventueel door naar de dichtstbijzijnde dienstdoende dierenarts.",
+          "tipIt": "Chiama prima di partire il numero 04 27 04 02 72; il team fa una prima valutazione telefonica e in caso di tempo di arrivo critico può indirizzarti verso il veterinario di turno più vicino."
         },
         {
           "name": "Clinique Vétérinaire RAJAUT-CAMALLONGA",
@@ -952,12 +1068,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+RAJAUT-CAMALLONGA+Nimes",
           "descriptionDe": "Eine allgemeine Praxis im Zentrum von Nîmes, fußläufig von den Arènes und dem Bahnhof erreichbar. Sprechstunden, Impfungen, Chirurgie, Zahnmedizin und Bildgebung zu den üblichen Öffnungszeiten; Notfälle außerhalb der Öffnungszeiten werden an Vétérinaires 2 Toute Urgence an der Route de Montpellier weitergeleitet. Englischsprachiges Personal für Touristen.",
           "descriptionNl": "Een algemene praktijk in het centrum van Nîmes, lopend bereikbaar vanaf de Arènes en het station. Spreekuren, vaccinaties, chirurgie, tandheelkunde en beeldvorming tijdens de gebruikelijke openingstijden; spoedgevallen buiten openingstijden worden doorverwezen naar Vétérinaires 2 Toute Urgence aan de Route de Montpellier. Engelssprekend personeel voor toeristen.",
+          "descriptionIt": "Un ambulatorio generico nel centro di Nîmes, raggiungibile a piedi dalle Arènes e dalla stazione. Visite, vaccinazioni, chirurgia, odontoiatria e diagnostica per immagini durante il normale orario di apertura; le emergenze fuori orario vengono indirizzate a Vétérinaires 2 Toute Urgence su Route de Montpellier. Personale che parla inglese per i turisti.",
           "petPolicyDe": "Alle Haustiere; EU-Heimtierausweis akzeptiert; englischsprachiges Personal",
           "petPolicyNl": "Alle huisdieren; EU-dierenpaspoort geaccepteerd; Engelssprekend personeel",
+          "petPolicyIt": "Tutti gli animali; passaporto UE per animali accettato; personale che parla inglese",
           "servicesDe": "Sprechstunden, Chirurgie, Bildgebung, Zahnmedizin, Impfungen",
           "servicesNl": "Spreekuren, chirurgie, beeldvorming, tandheelkunde, vaccinaties",
+          "servicesIt": "Visite, chirurgia, diagnostica per immagini, odontoiatria, vaccinazioni",
           "tipDe": "Rufen Sie für Samstagvormittag vorab an; der Termin füllt sich mit Wochenendabreisen aus den Hotels rund um die Arènes.",
-          "tipNl": "Bel voor zaterdagochtend van tevoren; de agenda vult zich met weekendvertrekken uit de hotels rond de Arènes."
+          "tipNl": "Bel voor zaterdagochtend van tevoren; de agenda vult zich met weekendvertrekken uit de hotels rond de Arènes.",
+          "tipIt": "Chiama in anticipo per il sabato mattina; l'agenda si riempie con le partenze del weekend dagli hotel intorno alle Arènes."
         },
         {
           "name": "Clinique Vétérinaire Nemovet",
@@ -986,12 +1106,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Nemovet+Nimes",
           "descriptionDe": "Eine moderne allgemeine Praxis im Gewerbegebiet Mitra nördlich der Stadt, mit vollständiger Bildgebung, Chirurgie und eigenen Parkplätzen. Montag bis Samstag geöffnet, Notfälle außerhalb der Öffnungszeiten werden an Vétérinaires 2 Toute Urgence weitergeleitet. Praktisch, wenn Sie mit dem Auto über die A9 oder vom Pont du Gard anreisen.",
           "descriptionNl": "Een moderne algemene praktijk in het bedrijventerrein Mitra ten noorden van de stad, met volledige beeldvorming, chirurgie en eigen parkeerplaatsen. Maandag tot en met zaterdag open, spoedgevallen buiten openingstijden worden doorverwezen naar Vétérinaires 2 Toute Urgence. Praktisch als je met de auto via de A9 of vanaf de Pont du Gard aankomt.",
+          "descriptionIt": "Un moderno ambulatorio generico nella zona industriale di Mitra a nord della città, con diagnostica per immagini completa, chirurgia e parcheggio proprio. Aperto dal lunedì al sabato, le emergenze fuori orario vengono indirizzate a Vétérinaires 2 Toute Urgence. Comodo se arrivi in auto dall'A9 o dal Pont du Gard.",
           "petPolicyDe": "Alle Haustiere; EU-Heimtierausweis akzeptiert",
           "petPolicyNl": "Alle huisdieren; EU-dierenpaspoort geaccepteerd",
+          "petPolicyIt": "Tutti gli animali; passaporto UE per animali accettato",
           "servicesDe": "Sprechstunden, Chirurgie, Bildgebung, Zahnmedizin, Impfungen",
           "servicesNl": "Spreekuren, chirurgie, beeldvorming, tandheelkunde, vaccinaties",
+          "servicesIt": "Visite, chirurgia, diagnostica per immagini, odontoiatria, vaccinazioni",
           "tipDe": "Nützlich als erster Stopp bei einem Tagesausflug in die Camargue oder zum Pont du Gard, wenn Sie schnell einen Mikrochip auslesen oder eine Zeckenkontrolle vor der Reise brauchen.",
-          "tipNl": "Handig als eerste stop bij een dagtocht naar de Camargue of de Pont du Gard, als je snel een chip wilt laten uitlezen of een tekencontrole nodig hebt voor de reis."
+          "tipNl": "Handig als eerste stop bij een dagtocht naar de Camargue of de Pont du Gard, als je snel een chip wilt laten uitlezen of een tekencontrole nodig hebt voor de reis.",
+          "tipIt": "Comodo come prima tappa in una gita di un giorno alla Camargue o al Pont du Gard, se vuoi far leggere velocemente un microchip o hai bisogno di un controllo zecche prima del viaggio."
         }
       ],
       "tipsEn": [
@@ -1072,8 +1196,10 @@
       ],
       "titleDe": "Tierärztliche Versorgung in Nîmes",
       "titleNl": "Diergeneeskundige zorg in Nîmes",
+      "titleIt": "Assistenza veterinaria a Nîmes",
       "introDe": "Nîmes verfügt dank Vétérinaires 2 Toute Urgence, einer eigenen Nacht- und Wochenendklinik an der Route de Montpellier, die Nîmes, Arles und das Delta der Bouches-du-Rhône über die Hotline 04 27 04 02 72 abdeckt, über eines der stärksten Notfall-Tierarztnetze in Südfrankreich. Mehrere große Tagespraxen übernehmen die Routineversorgung in der ganzen Stadt.",
       "introNl": "Nîmes beschikt dankzij Vétérinaires 2 Toute Urgence, een eigen nacht- en weekendkliniek aan de Route de Montpellier die Nîmes, Arles en de delta van de Bouches-du-Rhône bedient via de hotline 04 27 04 02 72, over een van de sterkste spoeddierenartsnetwerken van Zuid-Frankrijk. Meerdere grote dagpraktijken verzorgen de routinezorg in de hele stad.",
+      "introIt": "Nîmes dispone, grazie a Vétérinaires 2 Toute Urgence, una clinica dedicata per notti e weekend su Route de Montpellier che serve Nîmes, Arles e il delta delle Bouches-du-Rhône tramite la hotline 04 27 04 02 72, di una delle reti di veterinari d'urgenza più solide del sud della Francia. Diversi grandi ambulatori diurni coprono le cure di routine in tutta la città.",
       "faqsDe": [
         {
           "q": "Gibt es in Nîmes einen 24-Stunden-Tierarztnotdienst?",
@@ -1100,6 +1226,20 @@
         {
           "q": "Heb ik voor de Gardon een leptospirose-vaccinatie nodig?",
           "a": "Voor elke rivierbadtocht in de Gard wordt dit sterk aanbevolen. Vraag het minstens 21 dagen voor je bezoek aan je dierenarts, zodat er genoeg tijd is voor de immuunrespons."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è un veterinario d'urgenza 24 ore su 24 a Nîmes?",
+          "a": "Sì. Vétérinaires 2 Toute Urgence su Route de Montpellier è raggiungibile ogni notte, ogni weekend e ogni giorno festivo al numero 04 27 04 02 72."
+        },
+        {
+          "q": "Un veterinario a Nîmes cura un cane con un passaporto per animali straniero?",
+          "a": "Sì, tutte e tre le cliniche sopra citate accettano passaporti UE per animali e curano regolarmente animali in viaggio. Porta con te il libretto delle vaccinazioni."
+        },
+        {
+          "q": "Mi serve il vaccino contro la leptospirosi per il Gardon?",
+          "a": "Per qualsiasi bagno nel fiume nel Gard è fortemente consigliato. Chiedilo al tuo veterinario almeno 21 giorni prima della visita, in modo da lasciare tempo sufficiente alla risposta immunitaria."
         }
       ]
     },
@@ -1135,10 +1275,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Arenes+de+Nimes",
           "descriptionDe": "Das am besten erhaltene römische Amphitheater der Welt, um 70 n. Chr. erbaut und bis heute Schauplatz der Féria-Stierkämpfe, Opern und Konzerte. Die Anlage trägt das Qualidog-Label und lässt während der normalen Öffnungszeiten ausdrücklich angeleinte Hunde jeder Größe, einschließlich kategorisierter Hunde, kostenlos zu. Bringen Sie eigene Kotbeutel mit. Das Amphitheater ist während Férias und Konzerten für Besucher geschlossen; prüfen Sie vor der Anreise den Kalender.",
           "descriptionNl": "Het best bewaarde Romeinse amfitheater ter wereld, gebouwd rond 70 na Chr. en tot op de dag van vandaag het toneel van de stierengevechten tijdens de Féria, opera's en concerten. De locatie draagt het Qualidog-label en laat tijdens de normale openingstijden nadrukkelijk honden aan de lijn van elke grootte toe, inclusief gecategoriseerde honden, gratis. Neem eigen uitwerpselzakjes mee. Het amfitheater is tijdens Férias en concerten gesloten voor bezoekers; controleer voor vertrek de kalender.",
+          "descriptionIt": "Il migliore anfiteatro romano conservato al mondo, costruito intorno al 70 d.C. e ancora oggi teatro delle corride durante la Féria, di opere e concerti. Il sito porta il marchio Qualidog e durante il normale orario di apertura ammette esplicitamente cani al guinzaglio di ogni taglia, inclusi i cani categorizzati, gratuitamente. Porta i tuoi sacchetti igienici. L'anfiteatro è chiuso ai visitatori durante le Férias e i concerti; controlla il calendario prima di partire.",
           "petPolicyDe": "Angeleinte Hunde jeder Größe kostenlos zugelassen (Qualidog-Label); Kotbeutel nicht gestellt; während Férias/Konzerten für Besucher geschlossen",
           "petPolicyNl": "Honden aan de lijn van elke grootte gratis toegelaten (Qualidog-label); uitwerpselzakjes niet verstrekt; gesloten voor bezoekers tijdens Férias/concerten",
+          "petPolicyIt": "Cani al guinzaglio di ogni taglia ammessi gratuitamente (marchio Qualidog); sacchetti igienici non forniti; chiuso ai visitatori durante Férias/concerti",
           "tipDe": "Der Audioguide in der offiziellen App ist kostenlos; besuchen Sie die Anlage in der ersten Stunde nach Öffnung, um die größte Sommerhitze in der Arena zu vermeiden.",
-          "tipNl": "De audiogids in de officiële app is gratis; bezoek de locatie in het eerste uur na opening om de grootste zomerhitte in de arena te vermijden."
+          "tipNl": "De audiogids in de officiële app is gratis; bezoek de locatie in het eerste uur na opening om de grootste zomerhitte in de arena te vermijden.",
+          "tipIt": "L'audioguida sull'app ufficiale è gratuita; visita il sito nella prima ora dopo l'apertura per evitare il caldo estivo più forte nell'arena."
         },
         {
           "name": "Pont du Gard",
@@ -1162,10 +1305,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Pont+du+Gard",
           "descriptionDe": "Die dreistöckige römische Aquäduktbrücke, im 1. Jahrhundert erbaut, um Wasser von Uzès nach Nîmes zu leiten, UNESCO-Weltkulturerbe und das meistbesuchte Monument im Gard. Die offiziellen Regeln der Anlage lassen angeleinte Hunde auf der Brücke, an den Flussufern, auf dem Weg entlang der römischen Wasserleitung im Außenbereich und auf den markierten Wanderwegen zu. Das Innere der römischen Wasserleitung, das Musée du Pont du Gard, das Ciné und das Ludo verbieten Hunde außer Blinden- und Assistenzhunden.",
           "descriptionNl": "De driestockse Romeinse aquaductbrug, gebouwd in de 1e eeuw om water van Uzès naar Nîmes te leiden, UNESCO-werelderfgoed en het meest bezochte monument in de Gard. De officiële regels van het complex staan honden aan de lijn toe op de brug, op de rivieroevers, op het pad langs het Romeinse aquaduct buiten en op de gemarkeerde wandelpaden. Het binnenste van het Romeinse aquaduct, het Musée du Pont du Gard, het Ciné en het Ludo verbieden honden, behalve blindengeleide- en assistentiehonden.",
+          "descriptionIt": "Il ponte-acquedotto romano a tre livelli, costruito nel I secolo per portare l'acqua da Uzès a Nîmes, patrimonio UNESCO e monumento più visitato del Gard. Le regole ufficiali del sito ammettono i cani al guinzaglio sul ponte, sulle rive del fiume, sul sentiero lungo l'acquedotto romano all'esterno e sui sentieri segnalati. L'interno dell'acquedotto romano, il Musée du Pont du Gard, il Ciné e il Ludo vietano i cani, tranne i cani guida e di assistenza.",
           "petPolicyDe": "Angeleinte Hunde auf der Brücke, an den Ufern und auf den Außenwegen; verboten im Museum, im Ciné, im Ludo und in der römischen Wasserleitung",
           "petPolicyNl": "Honden aan de lijn op de brug, de oevers en de buitenpaden; verboden in het museum, het Ciné, het Ludo en het Romeinse aquaduct",
+          "petPolicyIt": "Cani al guinzaglio sul ponte, sulle rive e sui sentieri esterni; vietati nel museo, nel Ciné, nel Ludo e nell'acquedotto romano",
           "tipDe": "Parken Sie am Eingang Rive Gauche für einen 5-minütigen Fußweg zur Brücke; der Eingang Rive Droite erzwingt im Sommer einen längeren, heißen Fußweg.",
-          "tipNl": "Parkeer bij de ingang Rive Gauche voor een wandeling van 5 minuten naar de brug; de ingang Rive Droite betekent 's zomers een langere, hete wandeling."
+          "tipNl": "Parkeer bij de ingang Rive Gauche voor een wandeling van 5 minuten naar de brug; de ingang Rive Droite betekent 's zomers een langere, hete wandeling.",
+          "tipIt": "Parcheggia all'ingresso Rive Gauche per una passeggiata di 5 minuti fino al ponte; l'ingresso Rive Droite significa d'estate una camminata più lunga e calda."
         },
         {
           "name": "Maison Carrée (exterior square)",
@@ -1189,10 +1335,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Maison+Carree+Nimes",
           "descriptionDe": "Der römische Tempel, um 4-7 n. Chr. erbaut und den Enkeln des Augustus gewidmet, der am vollständigsten erhaltene römische Tempel überhaupt und seit 2023 UNESCO-Weltkulturerbe. Hunde sind im Innenkino in 3D und in der Ausstellung nicht zugelassen (nur Blinden- und Assistenzhunde). Der vollständig als Fußgängerzone angelegte Platz rund um den Tempel ist jedoch frei zugänglich, und die Tempeltreppen bieten am Abend einen kostenlosen öffentlichen Aussichtspunkt.",
           "descriptionNl": "De Romeinse tempel, gebouwd rond 4-7 na Chr. en opgedragen aan de kleinzonen van Augustus, de best bewaarde Romeinse tempel ooit en sinds 2023 UNESCO-werelderfgoed. Honden zijn niet toegestaan in de binnenbioscoop in 3D en de tentoonstelling (alleen blindengeleide- en assistentiehonden). Het volledig als voetgangersgebied ingerichte plein rond de tempel is echter vrij toegankelijk, en de tempeltrappen bieden 's avonds een gratis openbaar uitzichtpunt.",
+          "descriptionIt": "Il tempio romano, costruito intorno al 4-7 d.C. e dedicato ai nipoti di Augusto, il tempio romano meglio conservato mai esistito e patrimonio UNESCO dal 2023. I cani non sono ammessi nel cinema interno in 3D e nella mostra (solo cani guida e di assistenza). La piazza interamente pedonale intorno al tempio è invece liberamente accessibile, e i gradini del tempio offrono la sera un punto panoramico pubblico gratuito.",
           "petPolicyDe": "Platz und Treppenstufen für angeleinte Hunde geöffnet; Innenkino in 3D und Ausstellung verboten (nur Blinden-/Assistenzhunde)",
           "petPolicyNl": "Plein en trappen open voor honden aan de lijn; binnenbioscoop in 3D en tentoonstelling verboden (alleen blindengeleide-/assistentiehonden)",
+          "petPolicyIt": "Piazza e gradini aperti ai cani al guinzaglio; cinema interno in 3D e mostra vietati (solo cani guida/assistenza)",
           "tipDe": "Die Westfassade erstrahlt rund 15 Minuten um Sonnenuntergang in Rosa; die Treppenstufen füllen sich schnell, kommen Sie 30 Minuten vorher, um mit Hund einen Platz zu sichern.",
-          "tipNl": "De westgevel kleurt ongeveer 15 minuten rond zonsondergang roze; de trappen vullen zich snel, kom 30 minuten van tevoren om met hond een plekje te bemachtigen."
+          "tipNl": "De westgevel kleurt ongeveer 15 minuten rond zonsondergang roze; de trappen vullen zich snel, kom 30 minuten van tevoren om met hond een plekje te bemachtigen.",
+          "tipIt": "La facciata ovest si tinge di rosa per circa 15 minuti intorno al tramonto; i gradini si riempiono in fretta, arriva 30 minuti prima per assicurarti un posto con il cane."
         }
       ],
       "tipsEn": [
@@ -1273,8 +1422,10 @@
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Nîmes",
       "titleNl": "Huisdiervriendelijke bezienswaardigheden in Nîmes",
+      "titleIt": "Attrazioni pet-friendly a Nîmes",
       "introDe": "Nîmes ist unter den großen französischen Römerstädten außergewöhnlich großzügig gegenüber Besuchern mit Hund: Die Arènes (das römische Amphitheater) lassen unter dem Qualidog-Label ausdrücklich angeleinte Hunde jeder Größe kostenlos zu, die 15 Hektar großen Jardins de la Fontaine heißen sie überall willkommen, und der 25 km nördlich gelegene Pont du Gard ist für angeleinte Hunde auf dem gesamten Außengelände geöffnet. Die beiden Hauptausnahmen sind das Innere der Maison Carrée und die Aufstiegskammer des Tour Magne.",
       "introNl": "Nîmes is onder de grote Franse Romeinse steden uitzonderlijk gastvrij voor bezoekers met hond: de Arènes (het Romeinse amfitheater) laten onder het Qualidog-label nadrukkelijk honden aan de lijn van elke grootte gratis toe, de 15 hectare grote Jardins de la Fontaine verwelkomen ze overal, en de 25 km noordelijker gelegen Pont du Gard staat open voor honden aan de lijn op het hele buitenterrein. De twee belangrijkste uitzonderingen zijn het binnenste van de Maison Carrée en de klimkamer van de Tour Magne.",
+      "introIt": "Tra le grandi città romane francesi, Nîmes è eccezionalmente accogliente per i visitatori con il cane: le Arènes (l'anfiteatro romano) ammettono esplicitamente cani al guinzaglio di ogni taglia gratuitamente con il marchio Qualidog, i Jardins de la Fontaine di 15 ettari li accolgono ovunque, e il Pont du Gard, 25 km più a nord, è aperto ai cani al guinzaglio in tutta l'area esterna. Le due vere eccezioni sono l'interno della Maison Carrée e la sala di salita della Tour Magne.",
       "faqsDe": [
         {
           "q": "Darf mein Hund die Arènes de Nîmes besuchen?",
@@ -1301,6 +1452,20 @@
         {
           "q": "Mag ik met hond de Maison Carrée binnen?",
           "a": "Nee. De binnenbioscoop in 3D en de tentoonstelling laten alleen blindengeleide- en assistentiehonden toe. Het plein en de trappen ervoor zijn te allen tijde toegankelijk voor honden."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio cane può visitare le Arènes de Nîmes?",
+          "a": "Sì, il marchio Qualidog accoglie esplicitamente e gratuitamente i cani al guinzaglio di ogni taglia durante il normale orario di apertura. L'anfiteatro è chiuso ai visitatori durante le Férias e i concerti."
+        },
+        {
+          "q": "Il Pont du Gard è pet-friendly?",
+          "a": "Sì, i cani al guinzaglio sono benvenuti sul ponte, lungo le rive del fiume e sui sentieri esterni. Solo il museo interno, il Ciné, il Ludo e l'interno dell'acquedotto romano vietano i cani."
+        },
+        {
+          "q": "Posso entrare con il cane nella Maison Carrée?",
+          "a": "No. Il cinema interno in 3D e la mostra ammettono solo cani guida e di assistenza. La piazza e i gradini davanti sono accessibili ai cani in ogni momento."
         }
       ]
     },
@@ -1338,12 +1503,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Nimes+France",
           "descriptionDe": "Gudog ist die europäische Spezialplattform für Haustierbetreuung, mittlerweile mit Rover integriert, mit 17 verifizierten Sittern aus Nîmes, die Übernachtung, Tagesbetreuung und Spaziergänge anbieten. Durchschnittspreis rund 16 EUR pro Nacht für die Übernachtungsbetreuung. Jeder Sitter durchläuft ein Verifizierungsverfahren, das Erfahrung, berufliche Qualifikationen und frühere Bewertungen von Besitzern umfasst; in den letzten 12 Monaten wurden nur 13 Prozent der Bewerber aus Nîmes zugelassen.",
           "descriptionNl": "Gudog is het Europese gespecialiseerde platform voor huisdierenzorg, inmiddels geïntegreerd met Rover, met 17 geverifieerde oppassers uit Nîmes die overnachting, dagopvang en wandelingen aanbieden. Gemiddelde prijs rond 16 euro per nacht voor overnachtingszorg. Elke oppas doorloopt een verificatieprocedure die ervaring, professionele kwalificaties en eerdere beoordelingen van eigenaren omvat; in de afgelopen 12 maanden werd slechts 13 procent van de aanvragers uit Nîmes toegelaten.",
+          "descriptionIt": "Gudog è la piattaforma europea specializzata nella cura degli animali, ormai integrata con Rover, con 17 dog sitter verificati a Nîmes che offrono pernottamento, asilo diurno e passeggiate. Prezzo medio intorno ai 16 euro a notte per il pernottamento. Ogni dog sitter passa una procedura di verifica che include esperienza, qualifiche professionali e recensioni precedenti dei proprietari; negli ultimi 12 mesi solo il 13 percento dei candidati di Nîmes è stato ammesso.",
           "petPolicyDe": "Alle Größen; Impfungen und Mikrochip Pflicht; Versicherung und 24/7-Tierarzt-Hotline inbegriffen",
           "petPolicyNl": "Alle formaten; vaccinaties en chip verplicht; verzekering en 24/7-dierenartslijn inbegrepen",
+          "petPolicyIt": "Tutte le taglie; vaccinazioni e microchip obbligatori; assicurazione e linea veterinaria 24/7 incluse",
           "servicesDe": "Übernachtung, Tagesbetreuung, Spaziergänge",
           "servicesNl": "Overnachting, dagopvang, wandelingen",
+          "servicesIt": "Pernottamento, asilo diurno, passeggiate",
           "tipDe": "Nutzen Sie das kostenlose Kennenlerntreffen vor der ersten Übernachtung; es ist der einzige Weg, die Chemie für einen ängstlichen Hund zu prüfen.",
-          "tipNl": "Maak gebruik van de gratis kennismaking voor de eerste overnachting; het is de enige manier om de klik te testen voor een angstige hond."
+          "tipNl": "Maak gebruik van de gratis kennismaking voor de eerste overnachting; het is de enige manier om de klik te testen voor een angstige hond.",
+          "tipIt": "Approfitta dell'incontro gratuito prima del primo pernottamento; è l'unico modo per testare l'affinità con un cane ansioso."
         },
         {
           "name": "Rover Nîmes",
@@ -1369,12 +1538,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Nimes+France",
           "descriptionDe": "Rover listet über 100 verifizierte Hundesitter in Nîmes, die Übernachtung, Tagesbetreuung, Spaziergänge und Hausbesuche anbieten. Stand April 2026 bieten 97 Sitter Hundetagesbetreuung in Nîmes an. Versicherung und 24/7-Tierarzt-Hotline in jeder Buchung inbegriffen. Profilfilter decken kleine/mittelgroße/große Hunde, Gartenzugang und Wunsch nach eigenem Zuhause oder Sitter-Zuhause ab.",
           "descriptionNl": "Rover vermeldt meer dan 100 geverifieerde hondenoppassers in Nîmes, die overnachting, dagopvang, wandelingen en huisbezoeken aanbieden. Sinds april 2026 bieden 97 oppassers hondendagopvang aan in Nîmes. Verzekering en 24/7-dierenartslijn zijn bij elke boeking inbegrepen. Profielfilters dekken kleine/middelgrote/grote honden, tuintoegang en de wens voor eigen huis of huis van de oppas.",
+          "descriptionIt": "Rover elenca oltre 100 dog sitter verificati a Nîmes, che offrono pernottamento, asilo diurno, passeggiate e visite a domicilio. Da aprile 2026, 97 dog sitter offrono asilo diurno per cani a Nîmes. Assicurazione e linea veterinaria 24/7 sono incluse in ogni prenotazione. I filtri dei profili coprono cani piccoli/medi/grandi, accesso al giardino e la preferenza per casa propria o casa del dog sitter.",
           "petPolicyDe": "Alle Größen; Impfungen und Mikrochip Pflicht; bewertungsbasierte Prüfung",
           "petPolicyNl": "Alle formaten; vaccinaties en chip verplicht; controle op basis van beoordelingen",
+          "petPolicyIt": "Tutte le taglie; vaccinazioni e microchip obbligatori; controllo tramite recensioni",
           "servicesDe": "Übernachtung, Tagesbetreuung, Spaziergänge, Hausbesuche",
           "servicesNl": "Overnachting, dagopvang, wandelingen, huisbezoeken",
+          "servicesIt": "Pernottamento, asilo diurno, passeggiate, visite a domicilio",
           "tipDe": "Filtern Sie für eine Buchung in der Féria-Woche nach „Garten + mittelgroßer/großer Hund“; die bestbewerteten Sitter sind zuerst ausgebucht, wenn Hotelgäste ihre Hunde wegen der Menschenmassen unterbringen müssen.",
-          "tipNl": "Filter voor een boeking in de Féria-week op 'tuin + middelgrote/grote hond'; de best beoordeelde oppassers zijn als eerste volgeboekt als hotelgasten hun honden moeten onderbrengen vanwege de mensenmassa's."
+          "tipNl": "Filter voor een boeking in de Féria-week op 'tuin + middelgrote/grote hond'; de best beoordeelde oppassers zijn als eerste volgeboekt als hotelgasten hun honden moeten onderbrengen vanwege de mensenmassa's.",
+          "tipIt": "Per una prenotazione nella settimana della Féria filtra per 'giardino + cane medio/grande'; i dog sitter con le recensioni migliori si esauriscono per primi quando gli ospiti degli hotel devono sistemare i loro cani a causa della folla."
         },
         {
           "name": "DogBuddy Nîmes",
@@ -1400,12 +1573,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Nimes+France",
           "descriptionDe": "DogBuddy ist der europäische Arm der Rover-Gruppe und listet lokale Hundesitter und Gassigeher in Nîmes mit Schwerpunkt auf Betreuung zu Hause statt Zwingerunterbringung. Gleiche Versicherung und 24/7-Tierarztunterstützung wie bei Rover und Gudog. Nützliche dritte Option, wenn die bestbewerteten Sitter bei Gudog und Rover während der Féria- und Sommer-Hochsaison ausgebucht sind.",
           "descriptionNl": "DogBuddy is de Europese tak van de Rover-groep en vermeldt lokale hondenoppassers en uitlaters in Nîmes met de nadruk op zorg bij mensen thuis in plaats van kennelonderbrenging. Zelfde verzekering en 24/7-dierenartsondersteuning als bij Rover en Gudog. Handige derde optie als de best beoordeelde oppassers bij Gudog en Rover volgeboekt zijn tijdens de Féria- en zomerhoogseizoenen.",
+          "descriptionIt": "DogBuddy è la sezione europea del gruppo Rover ed elenca dog sitter e dog walker locali a Nîmes con un'attenzione particolare alla cura a domicilio invece che nei canili. Stessa assicurazione e stesso supporto veterinario 24/7 di Rover e Gudog. Una terza opzione comoda se i dog sitter con le recensioni migliori su Gudog e Rover sono al completo durante la Féria e l'alta stagione estiva.",
           "petPolicyDe": "Modell mit Betreuung zu Hause; Impfungen und Mikrochip erforderlich; Kennenlerntreffen vor der Buchung",
           "petPolicyNl": "Model met zorg bij mensen thuis; vaccinaties en chip vereist; kennismaking voor boeking",
+          "petPolicyIt": "Modello di cura a domicilio; vaccinazioni e microchip richiesti; incontro prima della prenotazione",
           "servicesDe": "Übernachtung, Tagesbetreuung, Spaziergänge",
           "servicesNl": "Overnachting, dagopvang, wandelingen",
+          "servicesIt": "Pernottamento, asilo diurno, passeggiate",
           "tipDe": "Prüfen Sie denselben Sitter auf Rover; viele DogBuddy-Profile sind Spiegelungen von Rover, nützlich, um Bewertungen auf einer zweiten Plattform zu lesen.",
-          "tipNl": "Controleer dezelfde oppas op Rover; veel DogBuddy-profielen zijn een spiegeling van Rover, handig om beoordelingen op een tweede platform te lezen."
+          "tipNl": "Controleer dezelfde oppas op Rover; veel DogBuddy-profielen zijn een spiegeling van Rover, handig om beoordelingen op een tweede platform te lezen.",
+          "tipIt": "Controlla lo stesso dog sitter su Rover; molti profili DogBuddy sono uno specchio di Rover, comodo per leggere le recensioni su una seconda piattaforma."
         }
       ],
       "tipsEn": [
@@ -1486,8 +1663,10 @@
       ],
       "titleDe": "Haustierbetreuung und Gassi-Service in Nîmes",
       "titleNl": "Huisdierenoppas en uitlaatservice in Nîmes",
+      "titleIt": "Dog sitting e servizio passeggiate a Nîmes",
       "introDe": "Nîmes verfügt über einen starken Pool an Sittern über die großen französischen und paneuropäischen Plattformen für Haustierbetreuung: Gudog listet 17 verifizierte Sitter in der Stadt zu durchschnittlich 16 EUR pro Nacht, und Rover listet über 100. Nützlich für das Innere der Maison Carrée, das Museum am Pont du Gard oder Féria-Abende, an denen Menschenmassen Hunde unglücklich machen.",
       "introNl": "Nîmes beschikt over een sterke pool van oppassers via de grote Franse en pan-Europese platforms voor huisdierenzorg: Gudog vermeldt 17 geverifieerde oppassers in de stad voor gemiddeld 16 euro per nacht, en Rover vermeldt er meer dan 100. Handig voor het binnenste van de Maison Carrée, het museum bij de Pont du Gard of Féria-avonden waarop mensenmassa's honden ongelukkig maken.",
+      "introIt": "Nîmes dispone di un solido gruppo di dog sitter tramite le principali piattaforme francesi e paneuropee per la cura degli animali: Gudog elenca 17 dog sitter verificati in città per una media di 16 euro a notte, e Rover ne elenca più di 100. Comodo per l'interno della Maison Carrée, il museo del Pont du Gard o le sere della Féria in cui la folla rende infelici i cani.",
       "faqsDe": [
         {
           "q": "Wie viel kostet ein Hundesitter in Nîmes?",
@@ -1514,6 +1693,20 @@
         {
           "q": "Kan een oppas een halve dag bij de Pont du Gard invullen?",
           "a": "Ja, alle drie de platforms bieden dagopvang of een enkel verblijf van vier uur aan; de gemiddelde prijs daarvoor ligt rond 25 euro. De meeste oppassers wonen in het centrum van Nîmes, waardoor de overdracht onderweg praktisch is."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Quanto costa un dog sitter a Nîmes?",
+          "a": "Circa 16 euro a notte su Gudog e Rover, una delle fasce di prezzo più economiche del sud della Francia. Asilo diurno 18-25 euro, passeggiata 11-15 euro."
+        },
+        {
+          "q": "È facile trovare un dog sitter per la settimana della Féria?",
+          "a": "A breve termine è difficile. Gli ospiti degli hotel fanno impennare la domanda, lasciando disponibili solo i dog sitter più esperti; prenota almeno due settimane prima e pianifica sempre un incontro."
+        },
+        {
+          "q": "Un dog sitter può coprire mezza giornata al Pont du Gard?",
+          "a": "Sì, tutte e tre le piattaforme offrono asilo diurno o una singola visita di quattro ore; il prezzo medio per questo si aggira sui 25 euro. La maggior parte dei dog sitter vive nel centro di Nîmes, il che rende pratico il passaggio di consegne lungo il percorso."
         }
       ]
     },
@@ -1580,10 +1773,13 @@
       ],
       "titleDe": "Reisetipps mit Haustier für Nîmes",
       "titleNl": "Reistips met huisdier voor Nîmes",
+      "titleIt": "Consigli di viaggio con animali per Nîmes",
       "introDe": "Nîmes ist beim Zugang eine der haustierfreundlichsten Römerstädte Frankreichs: Die Arènes tragen das Qualidog-Label und lassen angeleinte Hunde kostenlos hinein, der Pont du Gard lässt angeleinte Hunde auf der Brücke und an den Flussufern zu, und die 15 Hektar großen Jardins de la Fontaine stehen offen. Die beiden echten Herausforderungen sind die Sommerhitze und die beiden riesigen Férias.",
       "introNl": "Nîmes is qua toegang een van de meest huisdiervriendelijke Romeinse steden van Frankrijk: de Arènes dragen het Qualidog-label en laten honden aan de lijn gratis binnen, de Pont du Gard laat honden aan de lijn toe op de brug en langs de rivieroevers, en de 15 hectare grote Jardins de la Fontaine staan open. De twee echte uitdagingen zijn de zomerhitte en de twee enorme Férias.",
+      "introIt": "Nîmes è una delle città romane più pet-friendly di Francia in termini di accesso: le Arènes portano il marchio Qualidog e ammettono i cani al guinzaglio gratuitamente, il Pont du Gard ammette i cani al guinzaglio sul ponte e lungo le rive del fiume, e i Jardins de la Fontaine di 15 ettari sono aperti. Le due vere sfide sono il caldo estivo e le due enormi Férias.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

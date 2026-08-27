@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Konoba+Veli+Joze+Rovinj",
           "descriptionDe": "Eine alteingesessene istrische Konoba direkt am Hafen, benannt nach einem Riesen aus der kroatischen Folklore, mit einem verwinkelten Innenraum voller Fischernetze und alter Landwirtschaftsgeräte sowie einer Reihe von Außentischen auf der Kopfsteinpflastergasse direkt am Wasser. Traditioneller Brodet, Bakalar, Fuži mit Trüffel und hausgemachte Gnocchi. Angeleinte Hunde sind an den Außentischen willkommen; ein Wassernapf erscheint innerhalb weniger Minuten.",
           "descriptionNl": "Een gevestigde Istrische konoba direct aan de haven, vernoemd naar een reus uit de Kroatische folklore, met een grillig interieur vol visnetten en oud landbouwgereedschap plus een reeks buitentafels op het kasseienstraatje aan het water. Traditionele brodet, bakalar, fuži met truffel en zelfgemaakte gnocchi. Aangelijnde honden zijn welkom aan de buitentafels, een waterbakje verschijnt binnen een paar minuten.",
+          "descriptionIt": "Una konoba istriana affermata proprio sul porto, chiamata come un gigante del folklore croato, con un interno rustico pieno di reti da pesca e vecchi attrezzi agricoli, più una fila di tavoli all'aperto sulla stradina di ciottoli che costeggia l'acqua. Brodetto tradizionale, baccalà, fuži al tartufo e gnocchi fatti in casa. I cani al guinzaglio sono benvenuti ai tavoli esterni, la ciotola d'acqua arriva in pochi minuti.",
           "petPolicyDe": "Hunde an den Außentischen willkommen",
           "petPolicyNl": "Honden welkom aan de buitentafels",
+          "petPolicyIt": "Cani benvenuti ai tavoli esterni",
           "mustTryDe": "Adriatischer Brodet, Fuži mit Trüffel, Malvazija Istarska",
           "mustTryNl": "Adriatische brodet, fuži met truffel, malvazija istarska",
+          "mustTryIt": "Brodetto adriatico, fuži al tartufo, malvasia istriana",
           "tipDe": "Bitten Sie um den Ecktisch am äußersten Ende der Gasse - er liegt nur wenige Meter vom plätschernden Wasser entfernt mit sehr wenig Fußgängerverkehr, ideal für einen nervösen Hund bei Sonnenuntergang.",
-          "tipNl": "Vraag om de hoektafel helemaal aan het einde van het straatje, die ligt maar een paar meter van het kabbelende water met heel weinig voetgangersverkeer, ideaal voor een nerveuze hond bij zonsondergang."
+          "tipNl": "Vraag om de hoektafel helemaal aan het einde van het straatje, die ligt maar een paar meter van het kabbelende water met heel weinig voetgangersverkeer, ideaal voor een nerveuze hond bij zonsondergang.",
+          "tipIt": "Chiedi il tavolo d'angolo proprio in fondo alla stradina, a pochi metri dall'acqua che sciaborda e con pochissimo passaggio di pedoni, ideale per un cane nervoso al tramonto."
         },
         {
           "name": "Maestral",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Maestral+Rovinj",
           "descriptionDe": "Ein Bistro-Pizzeria an der Hafenpromenade mit einer breiten Steinterrasse mit Blick auf die vertäuten Fischerboote und die Silhouette von sv. Eufemije im Hintergrund. Steinofenpizza, gegrillter adriatischer Fisch, Pasta, Salate und eine lange Aperitivo-Karte - eine der zuverlässigsten hundefreundlichen Ganztagsterrassen in der Stari Grad, den ganzen Nachmittag über von großen Sonnenschirmen beschattet.",
           "descriptionNl": "Een bistro-pizzeria aan de havenpromenade met een breed stenen terras met uitzicht op de afgemeerde vissersboten en de silhouet van sv. Eufemije op de achtergrond. Steenoven-pizza, gegrilde Adriatische vis, pasta, salades en een lange aperitivo-kaart, een van de meest betrouwbare hondvriendelijke terrassen voor de hele dag in de Stari Grad, de hele middag beschaduwd door grote parasols.",
+          "descriptionIt": "Un bistrot-pizzeria sul lungoporto con un'ampia terrazza in pietra affacciata sulle barche da pesca ormeggiate e sulla sagoma di Sant'Eufemia sullo sfondo. Pizza al forno a legna, pesce adriatico alla griglia, pasta, insalate e una lunga carta di aperitivi, una delle terrazze pet-friendly più affidabili per tutta la giornata nella Stari Grad, ombreggiata tutto il pomeriggio da grandi ombrelloni.",
           "petPolicyDe": "Hunde auf der Außenterrasse willkommen, Wassernapf auf Anfrage",
           "petPolicyNl": "Honden welkom op het buitenterras, waterbakje op aanvraag",
+          "petPolicyIt": "Cani benvenuti sulla terrazza esterna, ciotola d'acqua su richiesta",
           "mustTryDe": "Pizza Istriana, gegrillte Dorade, Malvazija im Glas",
           "mustTryNl": "Pizza Istriana, gegrilde dorade, glas malvazija",
+          "mustTryIt": "Pizza Istriana, orata alla griglia, un bicchiere di malvasia",
           "tipDe": "Die Hafenterrasse füllt sich im Juli-August bis 19:30 Uhr - kommen Sie bis 18:30 Uhr für einen ruhigen Aperitif vor dem Abendansturm, wenn die Kellner Zeit haben, den Hund mit Wasser zu versorgen, bevor es voll wird.",
-          "tipNl": "Het haventerras loopt in juli-augustus vol tot 19:30 uur, kom voor 18:30 uur voor een rustig aperitief voor de avonddrukte, wanneer de obers nog tijd hebben om de hond van water te voorzien voordat het druk wordt."
+          "tipNl": "Het haventerras loopt in juli-augustus vol tot 19:30 uur, kom voor 18:30 uur voor een rustig aperitief voor de avonddrukte, wanneer de obers nog tijd hebben om de hond van water te voorzien voordat het druk wordt.",
+          "tipIt": "La terrazza sul porto si riempie a luglio-agosto fino alle 19:30, arriva prima delle 18:30 per un aperitivo tranquillo prima del pienone serale, quando i camerieri hanno ancora tempo di portare l'acqua al cane prima che arrivi la ressa."
         },
         {
           "name": "Pizzeria Da Sergio",
@@ -110,20 +118,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Pizzeria+Da+Sergio+Rovinj",
           "descriptionDe": "Eine familiengeführte Pizzeria in der steil ansteigenden Grisia-Straße, der Künstlerkolonie-Gasse, die hinauf zur Kirche sv. Eufemije führt. Dünner Steinofenpizzateig mit istrischen Belägen (Trüffel, Pršut, in Malvazija marinierte Sardellen), Pasta und gegrillter adriatischer Fisch zu den zugänglichsten Preisen der Stari Grad. Ein paar Außentische auf dem Kopfsteinpflaster heißen angeleinte Hunde willkommen.",
           "descriptionNl": "Een familiebedrijf-pizzeria in de steil oplopende Grisia-straat, het kunstenaarssteegje dat omhoog leidt naar de kerk sv. Eufemije. Dunne steenoven-pizzabodem met Istrische toppings (truffel, pršut, in malvazija gemarineerde ansjovis), pasta en gegrilde Adriatische vis tegen de betaalbaarste prijzen van de Stari Grad. Een paar buitentafels op de kasseien heten aangelijnde honden welkom.",
+          "descriptionIt": "Una pizzeria a conduzione familiare nella ripida via Grisia, il vicolo degli artisti che sale verso la chiesa di Sant'Eufemia. Pizza sottile al forno a legna con farciture istriane (tartufo, pršut, acciughe marinate nella malvasia), pasta e pesce adriatico alla griglia ai prezzi più accessibili della Stari Grad. Pochi tavoli all'aperto sui ciottoli accolgono cani al guinzaglio.",
           "petPolicyDe": "Hunde an den Außentischen auf der Kopfsteinpflastergasse willkommen",
           "petPolicyNl": "Honden welkom aan de buitentafels op het kasseienstraatje",
+          "petPolicyIt": "Cani benvenuti ai tavoli esterni sulla stradina di ciottoli",
           "mustTryDe": "Pizza Istriana mit Trüffel, Fuži mit Wildragout, Pršut-Teller",
           "mustTryNl": "Pizza Istriana met truffel, fuži met wildragout, pršut-plank",
+          "mustTryIt": "Pizza Istriana al tartufo, fuži al ragù di selvaggina, tagliere di pršut",
           "tipDe": "Gehen Sie die Grisia vor dem Abendansturm hinauf, um die im Freien hängenden Gemälde der Künstler an den Steinmauern zu sehen - die Gasse ist von 11:30-12:30 Uhr und kurz nach 22:00 Uhr am ruhigsten, wenn der Hund mehr Platz auf dem Pflaster hat.",
-          "tipNl": "Loop de Grisia op voor de avonddrukte om de buiten hangende schilderijen van de kunstenaars aan de stenen muren te zien, het straatje is het rustigst tussen 11:30-12:30 uur en kort na 22:00 uur, wanneer de hond meer ruimte heeft op de kasseien."
+          "tipNl": "Loop de Grisia op voor de avonddrukte om de buiten hangende schilderijen van de kunstenaars aan de stenen muren te zien, het straatje is het rustigst tussen 11:30-12:30 uur en kort na 22:00 uur, wanneer de hond meer ruimte heeft op de kasseien.",
+          "tipIt": "Sali per la Grisia prima del pienone serale per vedere i quadri degli artisti appesi ai muri di pietra, la stradina è più tranquilla tra le 11:30 e le 12:30 e poco dopo le 22:00, quando il cane ha più spazio sui ciottoli."
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Rovinj",
       "titleNl": "Hondvriendelijke restaurants in Rovinj",
+      "titleIt": "Ristoranti pet-friendly a Rovinj",
       "introDe": "Rovinjs Esskultur ist eine venezianisch-istrische Mischung: Konobas und Bistros servieren Brodet (adriatischer Fischeintopf), Fuži-Pasta mit Trüffel aus dem Wald von Motovun, Fritole, Malvazija Istarska und smaragdgrünes istrisches Olivenöl. Fast jedes Restaurant hat eine Terrasse mit Blick auf den Hafen oder eine der engen Kopfsteinpflastergassen der Stari Grad, und angeleinte Hunde sind an diesen Außentischen fast überall willkommen. In den meisten Küchen wird neben Kroatisch auch Italienisch gesprochen.",
       "introNl": "Rovinjs eetcultuur is een Venetiaans-Istrische mix: konoba's en bistro's serveren brodet (Adriatische visstoofpot), fuži-pasta met truffel uit het bos van Motovun, fritole, malvazija istarska en smaragdgroene Istrische olijfolie. Bijna elk restaurant heeft een terras met uitzicht op de haven of een van de smalle kasseienstraatjes van de Stari Grad, en aangelijnde honden zijn bijna overal welkom aan die buitentafels. In de meeste keukens wordt naast Kroatisch ook Italiaans gesproken.",
+      "introIt": "La cucina di Rovinj è un mix veneziano-istriano: konoba e bistrot servono brodetto (zuppa di pesce adriatica), fuži al tartufo del bosco di Motovun, fritole, malvasia istriana e olio d'oliva istriano verde smeraldo. Quasi ogni ristorante ha una terrazza affacciata sul porto o su una delle stradine di ciottoli della Stari Grad, e i cani al guinzaglio sono benvenuti quasi ovunque a quei tavoli esterni. Nella maggior parte delle cucine, oltre al croato, si parla anche italiano.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks & Green Spaces in Rovinj",
@@ -157,10 +172,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Punta+Corrente+Zlatni+rt+Rovinj",
           "descriptionDe": "Ein 120 Hektar großer Küstenwaldpark, ab den 1890er Jahren vom österreich-ungarischen Aristokraten Georg Hütterott als privates Arboretum angelegt, nach dem Zweiten Weltkrieg für die Öffentlichkeit geöffnet und heute Rovinjs großer Erholungsraum. Steinpfade und Schotterwege schlängeln sich durch Zedern, Steineichen und Aleppokiefern entlang 5 km einer zerklüfteten Küste mit versteckten Kieselbuchten. Angeleinte Hunde sind auf allen markierten Wegen willkommen; im Park gibt es mehrere hundefreundliche Strandabschnitte.",
           "descriptionNl": "Een 120 hectare groot kustbospark, vanaf de jaren 1890 aangelegd door de Oostenrijks-Hongaarse aristocraat Georg Hütterott als privé-arboretum, na de Tweede Wereldoorlog voor het publiek geopend en vandaag Rovinjs grote recreatiegebied. Stenen paden en grindwegen slingeren door ceders, steeneiken en Aleppodennen langs 5 km ruige kustlijn met verborgen kiezelbaaien. Aangelijnde honden zijn welkom op alle gemarkeerde paden; het park heeft meerdere hondvriendelijke strandgedeeltes.",
+          "descriptionIt": "Un parco boschivo costiero di 120 ettari, realizzato a partire dagli anni 1890 dall'aristocratico austro-ungarico Georg Hütterott come arboreto privato, aperto al pubblico dopo la Seconda guerra mondiale e oggi la grande area ricreativa di Rovinj. Sentieri in pietra e strade sterrate si snodano tra cedri, lecci e pini d'Aleppo lungo 5 km di costa selvaggia con calette nascoste. I cani al guinzaglio sono benvenuti su tutti i sentieri segnalati; il parco ha diverse zone di spiaggia pet-friendly.",
           "petPolicyDe": "Angeleinte Hunde auf markierten Wegen willkommen; Hundestrandabschnitte im Park",
           "petPolicyNl": "Aangelijnde honden welkom op gemarkeerde paden; hondenstrandgedeeltes in het park",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sui sentieri segnalati; zone spiaggia per cani nel parco",
           "tipDe": "Gehen Sie die 5 km lange Rundschleife gegen den Uhrzeigersinn vom Eingang Lone Bay aus und enden Sie am Hundestrand Plaža Cisterna zum Schwimmen - ein perfekter zweistündiger Rundgang mit Waldschatten und Meeresabschluss.",
-          "tipNl": "Loop de rondlus van 5 km tegen de klok in vanaf de ingang bij Lone Bay en eindig bij het hondenstrand Plaža Cisterna om te zwemmen, een perfecte wandeling van twee uur met bosschaduw en een afsluitende duik in zee."
+          "tipNl": "Loop de rondlus van 5 km tegen de klok in vanaf de ingang bij Lone Bay en eindig bij het hondenstrand Plaža Cisterna om te zwemmen, een perfecte wandeling van twee uur met bosschaduw en een afsluitende duik in zee.",
+          "tipIt": "Percorri l'anello di 5 km in senso antiorario partendo dall'ingresso di Lone Bay e finisci alla spiaggia per cani Plaža Cisterna per un bagno, una passeggiata perfetta di due ore tra l'ombra del bosco e un tuffo finale in mare."
         },
         {
           "name": "Rovinj Harbour Promenade",
@@ -184,10 +202,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rovinj+harbour",
           "descriptionDe": "Die geschwungene gepflasterte Hafenkaimauer, die vom Mali-mol-Pier bis zur Halbinsel der Stari Grad verläuft, eine durchgehend verkehrsfreie Spazierlinie von 1,5 km, mit den venezianischen Fischerbooten auf der einen Seite vertäut und den pastellfarbenen Fassaden der Altstadt auf der anderen. Bei Sonnenauf- und -untergang die inoffizielle Haupt-Hundepromenade Rovinjs, mit Steinbänken und häufigem Wasserzugang für ein schnelles Pfotenbad.",
           "descriptionNl": "De gebogen geplaveide havenkade die loopt van de Mali-mol-pier tot het schiereiland van de Stari Grad, een doorlopend autovrij wandelpad van 1,5 km, met de Venetiaanse vissersboten afgemeerd aan de ene kant en de pastelkleurige gevels van de oude stad aan de andere. Bij zonsopgang en zonsondergang de onofficiële belangrijkste hondenpromenade van Rovinj, met stenen bankjes en regelmatig toegang tot water voor een snel pootjesbad.",
+          "descriptionIt": "Il lungomare in pietra che va dal molo Mali mol fino alla penisola della Stari Grad, un percorso pedonale continuo di 1,5 km senza traffico, con le barche da pesca veneziane ormeggiate da un lato e le facciate pastello della città vecchia dall'altro. All'alba e al tramonto è la passeggiata per cani non ufficiale più importante di Rovinj, con panchine in pietra e accesso regolare all'acqua per un rapido rinfresco delle zampe.",
           "petPolicyDe": "Angeleinte Hunde entlang der gesamten Promenade willkommen",
           "petPolicyNl": "Aangelijnde honden welkom langs de hele promenade",
+          "petPolicyIt": "Cani al guinzaglio benvenuti lungo tutta la passeggiata",
           "tipDe": "Gehen Sie im Sommer um 07:00 Uhr am Hafen entlang, wenn die Fischer den nächtlichen Fang entladen - eine der besten kostenlosen Vorführungen in Rovinj, bei der der Hund die Möwen beim Sturzflug auf die Reste beobachtet.",
-          "tipNl": "Loop 's zomers om 07:00 uur langs de haven, wanneer de vissers de nachtvangst lossen, een van de beste gratis vertoningen in Rovinj, waarbij de hond kan kijken hoe meeuwen op de restjes duiken."
+          "tipNl": "Loop 's zomers om 07:00 uur langs de haven, wanneer de vissers de nachtvangst lossen, een van de beste gratis vertoningen in Rovinj, waarbij de hond kan kijken hoe meeuwen op de restjes duiken.",
+          "tipIt": "In estate cammina lungo il porto alle 07:00, quando i pescatori scaricano il pescato della notte, uno degli spettacoli gratuiti più belli di Rovinj, con il cane che può guardare i gabbiani tuffarsi sugli avanzi."
         },
         {
           "name": "Stari Grad Peninsula Walking Loop",
@@ -211,18 +232,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Sv+Eufemije+Rovinj",
           "descriptionDe": "Die Stari Grad liegt auf einer ehemaligen Insel, die 1763 durch Auffüllen des Kanals mit dem Festland verbunden wurde - das Ergebnis ist eine enge Halbinsel, die man in etwa 25 Minuten auf Meereshöhe umrunden kann. Enge Kopfsteinpflastergassen steigen hinauf zum 60 m hohen Glockenturm von sv. Eufemije, dem Balbi-Bogen (venezianisches Tor von 1679) und der Künstlerkolonie-Gasse Grisia. Vollständig verkehrsfrei, vollständig hundetauglich, mit Meerblick auf jeder Seite.",
           "descriptionNl": "De Stari Grad ligt op een voormalig eiland, in 1763 met het vasteland verbonden door het kanaal op te vullen, het resultaat is een smal schiereiland dat je in ongeveer 25 minuten op zeeniveau kunt rondlopen. Smalle kasseienstraatjes stijgen omhoog naar de 60 m hoge klokkentoren van sv. Eufemije, de Balbi-boog (Venetiaanse poort uit 1679) en het kunstenaarssteegje Grisia. Volledig autovrij, volledig geschikt voor honden, met zeezicht aan elke kant.",
+          "descriptionIt": "La Stari Grad sorge su quella che un tempo era un'isola, collegata alla terraferma nel 1763 colmando il canale, il risultato è una stretta penisola che puoi percorrere a livello del mare in circa 25 minuti. Stradine di ciottoli salgono verso il campanile di 60 m di Sant'Eufemia, l'Arco dei Balbi (porta veneziana del 1679) e il vicolo degli artisti Grisia. Completamente senza auto, completamente adatta ai cani, con vista mare da ogni lato.",
           "petPolicyDe": "Angeleinte Hunde überall willkommen, alle Straßen Fußgängerzone",
           "petPolicyNl": "Aangelijnde honden overal welkom, alle straten voetgangersgebied",
+          "petPolicyIt": "Cani al guinzaglio benvenuti ovunque, tutte le strade sono zona pedonale",
           "tipDe": "Steigen Sie um 07:30 Uhr zur sv. Eufemije hinauf, bevor die Kreuzfahrt-Wandergruppen eintreffen - der Hund kommt in der Kühle besser mit dem Kopfsteinpflaster-Gefälle zurecht, und der 360°-Hafenblick vom Fuß des Glockenturms ist menschenleer.",
-          "tipNl": "Klim om 07:30 uur naar sv. Eufemije, voordat de cruise-wandelgroepen arriveren, de hond kan in de koelte beter overweg met het hellende kasseien, en het 360°-havenuitzicht vanaf de voet van de klokkentoren is dan mensenleeg."
+          "tipNl": "Klim om 07:30 uur naar sv. Eufemije, voordat de cruise-wandelgroepen arriveren, de hond kan in de koelte beter overweg met het hellende kasseien, en het 360°-havenuitzicht vanaf de voet van de klokkentoren is dan mensenleeg.",
+          "tipIt": "Sali a Sant'Eufemia alle 07:30, prima che arrivino i gruppi delle crociere, il cane se la cava meglio con i ciottoli in salita nel fresco, e la vista panoramica a 360° sul porto dalla base del campanile è vuota di gente."
         }
       ],
       "titleDe": "Hundefreundliche Parks & Grünflächen in Rovinj",
       "titleNl": "Hondvriendelijke parken en groen in Rovinj",
+      "titleIt": "Parchi e aree verdi pet-friendly a Rovinj",
       "introDe": "Rovinjs grüne Krone ist der 120 Hektar große Küstenwaldpark Punta Corrente / Šuma Zlatni rt unmittelbar südlich der Altstadt - eine der großzügigsten hundefreundlichen Grünflächen an der istrischen Küste, mit angeleinten Wegen, Hundestränden und pinienbeschatteten Buchten. Die Hafenpromenade und der Weg um die Halbinsel der Stari Grad sind durchgehendes Spaziergebiet, und das istrische Hinterland eröffnet innerhalb von 30 Autominuten Wander- und Trüffelwald-Optionen.",
       "introNl": "Rovinjs groene kroon is het 120 hectare grote kustbospark Punta Corrente / Šuma Zlatni rt direct ten zuiden van de oude stad, een van de meest gulle hondvriendelijke groengebieden aan de Istrische kust, met aangelijnde paden, hondenstranden en met dennen beschaduwde baaien. De havenpromenade en het pad rond het schiereiland van de Stari Grad zijn doorlopend wandelgebied, en het Istrische achterland biedt binnen 30 autominuten opties voor wandelen en truffelbossen.",
+      "introIt": "Il gioiello verde di Rovinj è il parco boschivo costiero di 120 ettari Punta Corrente / Šuma Zlatni rt, subito a sud della città vecchia, una delle aree verdi pet-friendly più generose della costa istriana, con sentieri per cani al guinzaglio, spiagge per cani e calette ombreggiate dai pini. Il lungomare del porto e il sentiero attorno alla penisola della Stari Grad sono zone pedonali continue, e l'entroterra istriano offre opzioni per escursioni e boschi di tartufi entro 30 minuti in auto.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Getting Around Rovinj with a Dog",
@@ -256,10 +283,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Pula+airport",
           "descriptionDe": "Der Flughafen Pula (PUY) ist mit 35 Autominuten der nächstgelegene Flughafen zu Rovinj, mit saisonalen Verbindungen von Croatia Airlines, Ryanair, Vueling, Eurowings und easyJet nach Großbritannien, Deutschland, Frankreich, Italien und in die Niederlande. Es gelten die EU-Haustierregeln (Mikrochip + EU-Heimtierausweis + Tollwutimpfung). Der Flughafen verfügt über eine Auslauffläche für Haustiere vor dem Terminal und einen saisonalen Shuttlebus nach Rovinj über Pula.",
           "descriptionNl": "Luchthaven Pula (PUY) is op 35 autominuten de dichtstbijzijnde luchthaven bij Rovinj, met seizoensgebonden verbindingen van Croatia Airlines, Ryanair, Vueling, Eurowings en easyJet naar het Verenigd Koninkrijk, Duitsland, Frankrijk, Italië en Nederland. De EU-huisdierregels gelden (microchip + EU-huisdierenpaspoort + rabiësvaccinatie). De luchthaven heeft een uitlaatgebied voor huisdieren voor het terminal en een seizoensgebonden shuttlebus naar Rovinj via Pula.",
+          "descriptionIt": "L'aeroporto di Pola (PUY) è l'aeroporto più vicino a Rovinj, a 35 minuti d'auto, con collegamenti stagionali di Croatia Airlines, Ryanair, Vueling, Eurowings ed easyJet verso Regno Unito, Germania, Francia, Italia e Paesi Bassi. Si applicano le regole UE per gli animali (microchip + passaporto UE per animali + vaccino antirabbico). L'aeroporto ha un'area sgambamento per animali davanti al terminal e un bus navetta stagionale per Rovinj via Pola.",
           "petPolicyDe": "EU-Heimtierausweis + Mikrochip + Tollwutimpfung erforderlich; Kabinenregeln je nach Fluggesellschaft unterschiedlich (bei den meisten Fluggesellschaften unter 8 kg)",
           "petPolicyNl": "EU-huisdierenpaspoort + microchip + rabiësvaccinatie vereist; cabine-regels verschillen per luchtvaartmaatschappij (bij de meeste onder 8 kg)",
+          "petPolicyIt": "Passaporto UE per animali + microchip + vaccino antirabbico obbligatori; regole di cabina diverse per ogni compagnia (nella maggior parte sotto gli 8 kg)",
           "tipDe": "Vueling und Ryanair erlauben Haustiere bis 8 kg in der Kabine auf EU-Strecken für 25-40 EUR, aber die Kabinenplätze für Haustiere sind begrenzt - bestätigen Sie bei der Buchung, dass Ihr konkreter Abflug ab Pula Kabinenhaustiere zulässt, und reservieren Sie den Platz im Voraus.",
-          "tipNl": "Vueling en Ryanair laten huisdieren tot 8 kg toe in de cabine op EU-routes voor 25-40 euro, maar cabineplekken voor huisdieren zijn beperkt, bevestig bij het boeken dat jouw specifieke vertrek vanuit Pula cabinehuisdieren toelaat, en reserveer de plek van tevoren."
+          "tipNl": "Vueling en Ryanair laten huisdieren tot 8 kg toe in de cabine op EU-routes voor 25-40 euro, maar cabineplekken voor huisdieren zijn beperkt, bevestig bij het boeken dat jouw specifieke vertrek vanuit Pula cabinehuisdieren toelaat, en reserveer de plek van tevoren.",
+          "tipIt": "Vueling e Ryanair ammettono animali fino a 8 kg in cabina sulle rotte UE per 25-40 euro, ma i posti in cabina per animali sono limitati, conferma al momento della prenotazione che il tuo volo specifico da Pola ammetta animali in cabina e prenota il posto in anticipo."
         },
         {
           "name": "Autotrans/Brioni Pula↔Rovinj Bus",
@@ -283,10 +313,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rovinj+bus+station",
           "descriptionDe": "Autotrans (Arriva) und Brioni Pula betreiben den zentralen Küstenbus zwischen dem Busbahnhof Pula und Rovinj, im Sommer etwa stündlich und im Winter alle 2 Stunden, ca. 45 Min. Kleine Hunde in einer Transportbox fahren kostenlos mit; größere Hunde werden mit Maulkorb im Gepäckbereich oder auf dem Boden gegen einen Aufpreis von 5-10 EUR nach Ermessen des Fahrers zugelassen. Dies ist auch die praktische Verbindung vom Flughafen Pula über ein 10-minütiges Taxi zum Busbahnhof Pula.",
           "descriptionNl": "Autotrans (Arriva) en Brioni Pula exploiteren de centrale kustbus tussen busstation Pula en Rovinj, 's zomers ongeveer elk uur en 's winters om de 2 uur, ongeveer 45 min. Kleine honden in een draagtas reizen gratis mee; grotere honden worden met muilkorf in het bagagegedeelte of op de vloer toegelaten tegen een toeslag van 5-10 euro, naar goeddunken van de chauffeur. Dit is ook de handige verbinding vanaf luchthaven Pula via een taxirit van 10 minuten naar busstation Pula.",
+          "descriptionIt": "Autotrans (Arriva) e Brioni Pula gestiscono l'autobus costiero principale tra la stazione degli autobus di Pola e Rovinj, circa ogni ora in estate e ogni 2 ore in inverno, circa 45 minuti. I cani piccoli in trasportino viaggiano gratis; i cani più grandi sono ammessi con museruola nel vano bagagli o sul pavimento con un supplemento di 5-10 euro, a discrezione dell'autista. È anche il collegamento comodo dall'aeroporto di Pola con una corsa in taxi di 10 minuti fino alla stazione degli autobus di Pola.",
           "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; große Hunde mit Maulkorb Aufpreis 5-10 EUR, nach Ermessen des Fahrers",
           "petPolicyNl": "Kleine honden in draagtas gratis; grote honden met muilkorf toeslag 5-10 euro, naar goeddunken van de chauffeur",
+          "petPolicyIt": "Cani piccoli in trasportino gratis; cani grandi con museruola supplemento 5-10 euro, a discrezione dell'autista",
           "tipDe": "Kaufen Sie das Ticket am Schalter am Bahnhof statt beim Fahrer - das Schalterpersonal bestätigt die Hundepolitik für Ihre konkrete Fahrt, während Fahrer Sie an der Tür abweisen können und Sie dann festsitzen.",
-          "tipNl": "Koop het ticket aan de balie bij het station in plaats van bij de chauffeur, het baliepersoneel bevestigt het hondenbeleid voor jouw specifieke rit, terwijl chauffeurs je aan de deur kunnen weigeren waardoor je vastzit."
+          "tipNl": "Koop het ticket aan de balie bij het station in plaats van bij de chauffeur, het baliepersoneel bevestigt het hondenbeleid voor jouw specifieke rit, terwijl chauffeurs je aan de deur kunnen weigeren waardoor je vastzit.",
+          "tipIt": "Compra il biglietto allo sportello della stazione invece che dall'autista, il personale allo sportello conferma la politica sugli animali per la tua corsa specifica, mentre gli autisti possono rifiutarti alla porta lasciandoti a piedi."
         },
         {
           "name": "Venezia Lines Rovinj↔Venezia Catamaran",
@@ -310,18 +343,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rovinj+port+Venezia+Lines",
           "descriptionDe": "Venezia Lines betreibt saisonal einen Schnellkatamaran vom Hafen Rovinj direkt nach Venedig (San Basilio) in etwa 3 Std. 45 Min., typischerweise von April bis Oktober mehrmals wöchentlich. Angeleinte Hunde sind nur auf dem Außendeck erlaubt (nicht in den Innensalons), mit Maulkorbpflicht und einem kleinen Aufpreis. Die hundefreundlichste Art, ohne die lange Fahrt um die Adria herum nach Italien überzusetzen.",
           "descriptionNl": "Venezia Lines exploiteert seizoensgebonden een snelle catamaran van de haven van Rovinj rechtstreeks naar Venetië (San Basilio) in ongeveer 3 uur 45 min, doorgaans van april tot oktober meerdere keren per week. Aangelijnde honden zijn alleen toegestaan op het buitendek (niet in de binnensalons), met muilkorfplicht en een kleine toeslag. De hondvriendelijkste manier om zonder de lange rit rond de Adriatische Zee naar Italië over te steken.",
+          "descriptionIt": "Venezia Lines gestisce stagionalmente un catamarano veloce dal porto di Rovinj direttamente a Venezia (San Basilio) in circa 3 ore e 45 minuti, di solito da aprile a ottobre più volte a settimana. I cani al guinzaglio sono ammessi solo sul ponte esterno (non nei saloni interni), con obbligo di museruola e un piccolo supplemento. Il modo più pet-friendly per attraversare verso l'Italia senza il lungo giro dell'Adriatico.",
           "petPolicyDe": "Angeleinte Hunde mit Maulkorb nur auf dem Außendeck, Aufpreis fällt an",
           "petPolicyNl": "Aangelijnde honden met muilkorf alleen op buitendek, toeslag van toepassing",
+          "petPolicyIt": "Cani al guinzaglio con museruola solo sul ponte esterno, supplemento applicabile",
           "tipDe": "Buchen Sie die Außendeck-Reservierung im Juli-August 48 Std. im Voraus - Kabinenplätze sind zuerst ausgebucht, das Außendeck ist die einzige Hundeoption und hat eine Obergrenze; bringen Sie eine Faltmatte für das Metalldeck mit, das sich bis Mittag aufheizt.",
-          "tipNl": "Boek de buitendekreservering in juli-augustus 48 uur van tevoren, cabineplekken raken als eerste vol, het buitendek is de enige hondenoptie en heeft een limiet; neem een opvouwbare mat mee voor het metalen dek, dat tegen de middag opwarmt."
+          "tipNl": "Boek de buitendekreservering in juli-augustus 48 uur van tevoren, cabineplekken raken als eerste vol, het buitendek is de enige hondenoptie en heeft een limiet; neem een opvouwbare mat mee voor het metalen dek, dat tegen de middag opwarmt.",
+          "tipIt": "Prenota il posto sul ponte esterno con 48 ore di anticipo a luglio-agosto, i posti in cabina si esauriscono per primi, il ponte esterno è l'unica opzione per i cani ed è limitato; porta un tappetino pieghevole per il ponte metallico, che a mezzogiorno scotta."
         }
       ],
       "titleDe": "Mit Hund in Rovinj unterwegs",
       "titleNl": "Met de hond op stap in Rovinj",
+      "titleIt": "Spostarsi con il cane a Rovinj",
       "introDe": "Rovinjs Stari Grad ist eine enge verkehrsfreie Halbinsel, die man mit Hund am besten zu Fuß erkundet, und die Stadt insgesamt ist kompakt genug, dass man fast jedes Ziel zu Fuß erreicht. Es gibt KEINEN Zug: Der nächste Bahnhof ist in Pula, 35 km südlich, an der Küstenlinie nach Slowenien. Der Bus Autotrans/Brioni Pula↔Rovinj nimmt kleine Hunde in einer Transportbox kostenlos mit und größere Hunde mit Maulkorb gegen einen Aufpreis von 5-10 EUR. Der Flughafen Pula (PUY) ist 35 Autominuten entfernt. Venezia Lines betreibt saisonal einen Schnellkatamaran nach Venedig, auf dessen Außendeck angeleinte Hunde akzeptiert werden.",
       "introNl": "Rovinjs Stari Grad is een smal autovrij schiereiland dat je met hond het best te voet verkent, en de stad als geheel is compact genoeg dat je bijna elke bestemming lopend bereikt. Er is GEEN trein: het dichtstbijzijnde station is in Pula, 35 km zuidelijker, aan de kustlijn naar Slovenië. De bus Autotrans/Brioni Pula-Rovinj neemt kleine honden in een draagtas gratis mee en grotere honden met muilkorf tegen een toeslag van 5-10 euro. Luchthaven Pula (PUY) ligt op 35 autominuten. Venezia Lines exploiteert seizoensgebonden een snelle catamaran naar Venetië, waar aangelijnde honden op het buitendek worden geaccepteerd.",
+      "introIt": "La Stari Grad di Rovinj è una stretta penisola senza auto che con il cane si esplora meglio a piedi, e la città nel complesso è abbastanza compatta da raggiungere quasi ogni destinazione camminando. NON c'è il treno: la stazione più vicina è a Pola, 35 km più a sud, lungo la costa verso la Slovenia. L'autobus Autotrans/Brioni Pula-Rovinj porta gratis i cani piccoli in trasportino e i cani più grandi con museruola per un supplemento di 5-10 euro. L'aeroporto di Pola (PUY) è a 35 minuti d'auto. Venezia Lines gestisce stagionalmente un catamarano veloce per Venezia, dove i cani al guinzaglio sono accettati sul ponte esterno.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches in Rovinj",
@@ -355,10 +394,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Plaza+Cisterna+Lone+Rovinj",
           "descriptionDe": "Ein offiziell ausgewiesener Hundestrand (plaža za pse) in der Lone Bay am Nordrand des Waldparks Punta Corrente, ausgeschildert vom Tourismusverband Rovinj. Kiesel und flacher Felsen als Einstieg, Pinienschatten darüber, mit Wassernäpfen und Kotbeutelspendern in der Saison. Der am besten erreichbare Hundestrand der Stadt Rovinj, 15 Gehminuten südlich der Stari Grad entlang des Küstenwegs.",
           "descriptionNl": "Een officieel aangewezen hondenstrand (plaža za pse) in Lone Bay aan de noordrand van het bospark Punta Corrente, bewegwijzerd door de toeristendienst van Rovinj. Kiezels en vlakke rotsen als instap, dennenschaduw erboven, met waterbakjes en poepzakjesdispensers in het seizoen. Het best bereikbare hondenstrand van de stad Rovinj, 15 minuten lopen ten zuiden van de Stari Grad langs het kustpad.",
+          "descriptionIt": "Una spiaggia per cani ufficialmente designata (plaža za pse) a Lone Bay, sul margine nord del parco boschivo Punta Corrente, segnalata dall'ente turistico di Rovinj. Ciottoli e rocce piatte per entrare in acqua, ombra di pini sopra, con ciotole d'acqua e distributori di sacchetti per la cacca in stagione. La spiaggia per cani più accessibile della città di Rovinj, a 15 minuti a piedi a sud della Stari Grad lungo il sentiero costiero.",
           "petPolicyDe": "Offiziell ausgewiesener Hundestrand, ganzjährig geöffnet",
           "petPolicyNl": "Officieel aangewezen hondenstrand, het hele jaar geopend",
+          "petPolicyIt": "Spiaggia per cani ufficialmente designata, aperta tutto l'anno",
           "tipDe": "Nähern Sie sich über den Küstenfußweg statt über die Hotel-Lone-Seite - der Fußweg bringt Sie direkt zum Hundebereich, ohne die Liegenkonzession des Hotels zu queren, die konsequent hundefrei ist.",
-          "tipNl": "Benader het strand via het kustvoetpad in plaats van de kant van Hotel Lone, het voetpad brengt je direct naar het hondengedeelte zonder de ligstoelconcessie van het hotel over te steken, die consequent hondvrij is."
+          "tipNl": "Benader het strand via het kustvoetpad in plaats van de kant van Hotel Lone, het voetpad brengt je direct naar het hondengedeelte zonder de ligstoelconcessie van het hotel over te steken, die consequent hondvrij is.",
+          "tipIt": "Raggiungi la spiaggia dal sentiero costiero invece che dal lato dell'Hotel Lone, il sentiero ti porta direttamente alla zona cani senza attraversare la concessione di lettini dell'hotel, che è sempre vietata ai cani."
         },
         {
           "name": "Plaža Borik Dog Section",
@@ -382,10 +424,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Plaza+Borik+Rovinj",
           "descriptionDe": "Ein von Pinien gesäumter Kies- und Felsstrand im Gebiet Monsena nördlich der Stari Grad mit einem offiziell ausgewiesenen und vom Tourismusverband Rovinj ausgeschilderten Hundeabschnitt. Flacher Einstieg, beschattete Bereiche durch die Pinien und stellenweise hundeeigene Stufen ins Wasser. Leicht über den Küstenweg oder mit 5 Autominuten von der Altstadt erreichbar.",
           "descriptionNl": "Een met dennen omzoomd kiezel- en rotsstrand in het gebied Monsena ten noorden van de Stari Grad, met een officieel aangewezen en door de toeristendienst van Rovinj bewegwijzerd hondengedeelte. Vlakke instap, beschaduwde plekken door de dennen en op sommige plaatsen speciaal voor honden gemaakte treden het water in. Makkelijk bereikbaar via het kustpad of met 5 autominuten vanaf de oude stad.",
+          "descriptionIt": "Una spiaggia di ciottoli e rocce circondata da pini nella zona di Monsena, a nord della Stari Grad, con una zona per cani ufficialmente designata e segnalata dall'ente turistico di Rovinj. Ingresso in acqua pianeggiante, zone ombreggiate dai pini e in alcuni punti gradini fatti apposta per i cani per entrare in acqua. Facilmente raggiungibile dal sentiero costiero o con 5 minuti d'auto dalla città vecchia.",
           "petPolicyDe": "Ausgewiesener Hundeabschnitt auf ausgeschildertem Strandteil",
           "petPolicyNl": "Aangewezen hondengedeelte op bewegwijzerd strandgedeelte",
+          "petPolicyIt": "Zona per cani designata su tratto di spiaggia segnalato",
           "tipDe": "Kombinieren Sie einen langen Waldspaziergang durch den Pinienwald von Monsena für Schatten mit anschließendem Schwimmen - der Hundeabschnitt liegt am Südende von Borik, am einfachsten über den Weg durch die Pinien vom Hotel Park aus erreichbar.",
-          "tipNl": "Combineer een lange boswandeling door het dennenbos van Monsena voor schaduw met een duik daarna, het hondengedeelte ligt aan het zuideinde van Borik, het makkelijkst bereikbaar via het pad door de dennen vanaf Hotel Park."
+          "tipNl": "Combineer een lange boswandeling door het dennenbos van Monsena voor schaduw met een duik daarna, het hondengedeelte ligt aan het zuideinde van Borik, het makkelijkst bereikbaar via het pad door de dennen vanaf Hotel Park.",
+          "tipIt": "Combina una lunga passeggiata nel bosco di pini di Monsena per l'ombra con un tuffo dopo, la zona per cani si trova all'estremità sud di Borik, più facile da raggiungere dal sentiero tra i pini che parte dall'Hotel Park."
         },
         {
           "name": "Plaža Škaraba Pebble Cove",
@@ -409,18 +454,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Plaza+Skaraba+Rovinj",
           "descriptionDe": "Eine kleine Kiesel- und Flachfelsbucht an der Südflanke des Waldparks Punta Corrente, der wildeste der Hundestrände Rovinjs, ohne Einrichtungen und mit minimalem Andrang. Manche Abschnitte sollen Berichten zufolge ganzjährig freilauferlaubt sein, prüfen Sie jedoch die aktuelle Beschilderung des Tourismusverbands Rovinj vor Ort. Steiler Pinienhang dahinter, klares flaches Wasser und der kleinste Sommerandrang aller Rovinjer Strände.",
           "descriptionNl": "Een kleine kiezel- en platterotsbaai aan de zuidflank van het bospark Punta Corrente, het wildste van Rovinjs hondenstranden, zonder voorzieningen en met minimale drukte. Sommige gedeeltes zouden naar verluidt het hele jaar door loslopen toestaan, controleer echter de actuele bebording van de toeristendienst van Rovinj ter plaatse. Steile dennenhelling erachter, helder ondiep water en de kleinste zomerdrukte van alle stranden van Rovinj.",
+          "descriptionIt": "Una piccola baia di ciottoli e rocce piatte sul lato sud del parco boschivo Punta Corrente, la più selvaggia tra le spiagge per cani di Rovinj, senza servizi e con pochissima folla. Alcune zone consentirebbero i cani sciolti tutto l'anno, ma verifica sul posto la segnaletica aggiornata dell'ente turistico di Rovinj. Ripido pendio di pini alle spalle, acqua bassa e limpida, e la minor folla estiva tra tutte le spiagge di Rovinj.",
           "petPolicyDe": "Manche Abschnitte Berichten zufolge ganzjährig ohne Leine - Beschilderung vor Ort prüfen",
           "petPolicyNl": "Sommige gedeeltes naar verluidt het hele jaar zonder lijn, controleer bebording ter plaatse",
+          "petPolicyIt": "Alcune zone senza guinzaglio tutto l'anno secondo quanto riferito, verifica la segnaletica sul posto",
           "tipDe": "Bringen Sie alles Nötige mit - Wasser, Schatten, Snacks, Kotbeutel - Škaraba hat keinen Kiosk und keine Mülleimer; die nächsten Einrichtungen sind 25 Gehminuten zurück am Eingang Lone Bay des Parks.",
-          "tipNl": "Neem alles mee wat nodig is, water, schaduw, snacks, poepzakjes, Škaraba heeft geen kiosk en geen prullenbakken, de dichtstbijzijnde voorzieningen zijn 25 minuten terug lopen bij de ingang Lone Bay van het park."
+          "tipNl": "Neem alles mee wat nodig is, water, schaduw, snacks, poepzakjes, Škaraba heeft geen kiosk en geen prullenbakken, de dichtstbijzijnde voorzieningen zijn 25 minuten terug lopen bij de ingang Lone Bay van het park.",
+          "tipIt": "Porta tutto il necessario, acqua, ombra, snack, sacchetti per la cacca, Škaraba non ha chioschi né cestini, i servizi più vicini sono a 25 minuti a piedi tornando verso l'ingresso di Lone Bay del parco."
         }
       ],
       "titleDe": "Hundefreundliche Strände in Rovinj",
       "titleNl": "Hondvriendelijke stranden in Rovinj",
+      "titleIt": "Spiagge pet-friendly a Rovinj",
       "introDe": "Rovinj ist eine der großzügigsten Städte für Hundestrände an der istrischen Küste: Der Tourismusverband Rovinj weist mindestens vier ausgewiesene Hundestrände im unmittelbaren Stadtgebiet aus, drei davon im oder neben dem Waldpark Punta Corrente. Das kroatische Sommerstrandgesetz (15. Mai-15. September) verbietet Hunde an nicht ausgewiesenen öffentlichen Stränden, aber die offiziellen Hundestrände von Rovinj (Plaža Cisterna in der Lone Bay, Hundeabschnitt Plaža Borik, Hundebereich Plaža Mulini, Kieselbucht Plaža Škaraba) sind ganzjährig geöffnet.",
       "introNl": "Rovinj is een van de meest gulle steden voor hondenstranden aan de Istrische kust: de toeristendienst van Rovinj wijst minstens vier officiële hondenstranden aan in het directe stadsgebied, drie daarvan in of naast het bospark Punta Corrente. De Kroatische zomerstrandwet (15 mei-15 september) verbiedt honden op niet-aangewezen openbare stranden, maar de officiële hondenstranden van Rovinj (Plaža Cisterna in Lone Bay, hondengedeelte Plaža Borik, hondengedeelte Plaža Mulini, kiezelbaai Plaža Škaraba) zijn het hele jaar geopend.",
+      "introIt": "Rovinj è una delle città più generose per le spiagge per cani sulla costa istriana: l'ente turistico di Rovinj designa almeno quattro spiagge ufficiali per cani nell'area cittadina diretta, tre delle quali dentro o accanto al parco boschivo Punta Corrente. La legge estiva croata sulle spiagge (15 maggio-15 settembre) vieta i cani sulle spiagge pubbliche non designate, ma le spiagge per cani ufficiali di Rovinj (Plaža Cisterna a Lone Bay, zona cani di Plaža Borik, zona cani di Plaža Mulini, la baia di ciottoli Plaža Škaraba) restano aperte tutto l'anno.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Emergency Vet in Rovinj, Hospitals & Veterinary Clinics",
@@ -459,10 +510,13 @@
           ],
           "descriptionDe": "Die führende Kleintier-Fachtierarztpraxis in Rovinj, geführt von Hrvoje La mit Schwerpunkt auf Heimtieren, Bearbeitung des EU-Heimtierausweises und Reisezertifizierung (Rovinjs Segler und italienische Besucher verlassen sich bei grenzüberschreitenden Papieren darauf). Telefon +385 52 813 214, Notfallhandy +385 98 334 092 für Vermittlung außerhalb der Öffnungszeiten. Zweisprachiger Empfang auf Kroatisch, Italienisch und Englisch.",
           "descriptionNl": "De toonaangevende kleindierenpraktijk in Rovinj, geleid door Hrvoje La met de nadruk op huisdieren, verwerking van het EU-huisdierenpaspoort en reiscertificering (Rovinjs zeilers en Italiaanse bezoekers vertrouwen hierop voor grensoverschrijdende papieren). Telefoon +385 52 813 214, spoednummer +385 98 334 092 voor doorverwijzing buiten openingstijden. Tweetalige receptie in het Kroatisch, Italiaans en Engels.",
+          "descriptionIt": "Lo studio veterinario di riferimento a Rovinj, guidato da Hrvoje La con particolare attenzione agli animali domestici, alla gestione del passaporto UE per animali e alla certificazione per i viaggi (i velisti di Rovinj e i visitatori italiani si affidano a loro per le pratiche transfrontaliere). Telefono +385 52 813 214, numero di emergenza +385 98 334 092 per il riferimento fuori orario. Reception bilingue in croato, italiano e inglese.",
           "petPolicyDe": "Tagespraxis mit Notfallhandy +385 98 334 092",
           "petPolicyNl": "Dagpraktijk met spoednummer +385 98 334 092",
+          "petPolicyIt": "Ambulatorio diurno con numero di emergenza +385 98 334 092",
           "tipDe": "Rufen Sie außerhalb der Öffnungszeiten vor der Fahrt zur Klinik das Notfallhandy +385 98 334 092 an - der Tierarzt fährt von zu Hause aus und trifft Sie lieber an der Klinik, als Sie vor einer geschlossenen Tür warten zu lassen.",
-          "tipNl": "Bel buiten openingstijden voordat je naar de kliniek rijdt naar het spoednummer +385 98 334 092, de dierenarts rijdt vanuit huis en ontmoet je liever bij de kliniek dan je voor een gesloten deur te laten wachten."
+          "tipNl": "Bel buiten openingstijden voordat je naar de kliniek rijdt naar het spoednummer +385 98 334 092, de dierenarts rijdt vanuit huis en ontmoet je liever bij de kliniek dan je voor een gesloten deur te laten wachten.",
+          "tipIt": "Chiama il numero di emergenza +385 98 334 092 prima di andare alla clinica fuori orario, il veterinario parte da casa e preferisce incontrarti alla clinica piuttosto che farti aspettare a una porta chiusa."
         },
         {
           "name": "Veterinarska Ambulanta Istra Vet",
@@ -491,10 +545,13 @@
           ],
           "descriptionDe": "Eine zweite Kleintierpraxis am Rand von Gripole in Rovinj, nützlich für Routineuntersuchungen, Impfungen und Mikrochip-Kontrollen während eines längeren Aufenthalts. Telefon +385 52 553 907. Nur tagsüber geöffnet; komplexe nächtliche Notfälle werden an die 35 km südlich gelegene Veterinarska Stanica Pula überwiesen. Am Empfang wird Kroatisch und Italienisch gesprochen.",
           "descriptionNl": "Een tweede kleindierenpraktijk aan de rand van Gripole in Rovinj, handig voor routineonderzoek, vaccinaties en microchipcontroles tijdens een langer verblijf. Telefoon +385 52 553 907. Alleen overdag geopend; complexe nachtelijke spoedgevallen worden doorverwezen naar de 35 km zuidelijker gelegen Veterinarska Stanica Pula. Aan de receptie wordt Kroatisch en Italiaans gesproken.",
+          "descriptionIt": "Un secondo studio veterinario ai margini di Gripole, a Rovinj, comodo per visite di routine, vaccinazioni e controlli del microchip durante un soggiorno più lungo. Telefono +385 52 553 907. Aperto solo di giorno; le emergenze notturne complesse vengono indirizzate alla Veterinarska Stanica Pula, 35 km più a sud. Alla reception si parla croato e italiano.",
           "petPolicyDe": "Tagespraxis; nächtliche Notfälle werden nach Pula überwiesen",
           "petPolicyNl": "Dagpraktijk; nachtelijke spoedgevallen worden doorverwezen naar Pula",
+          "petPolicyIt": "Ambulatorio diurno; le emergenze notturne vengono indirizzate a Pola",
           "tipDe": "Nutzen Sie Istra Vet für Routineimpfungen und Mikrochip-Kontrollen während eines mehrwöchigen Sommeraufenthalts - Buchungen über Facebook Messenger werden innerhalb einer Stunde während der Öffnungszeiten beantwortet.",
-          "tipNl": "Gebruik Istra Vet voor routinevaccinaties en microchipcontroles tijdens een verblijf van meerdere weken in de zomer, boekingen via Facebook Messenger worden binnen een uur beantwoord tijdens openingstijden."
+          "tipNl": "Gebruik Istra Vet voor routinevaccinaties en microchipcontroles tijdens een verblijf van meerdere weken in de zomer, boekingen via Facebook Messenger worden binnen een uur beantwoord tijdens openingstijden.",
+          "tipIt": "Usa Istra Vet per vaccinazioni di routine e controlli del microchip durante un soggiorno di più settimane in estate, le prenotazioni via Facebook Messenger ricevono risposta entro un'ora durante l'orario di apertura."
         },
         {
           "name": "Veterinarska Ambulanta Pula (35 km escalation)",
@@ -523,18 +580,24 @@
           ],
           "descriptionDe": "Die regionale Tierarztpraxis in Pula, Dinka Trinajstića 1, die praktische Eskalationsstelle für komplexe nächtliche Notfälle, die von den Praxen in Rovinj weitervermittelt werden. Vollständige Kleintierversorgung, digitale Bildgebung und Chirurgie vor Ort. Telefon +385 52 541 100, Handy +385 98 98 11 666. Etwa 35 Autominuten von Rovinj über die Küstenstraße D75 / D21.",
           "descriptionNl": "De regionale dierenartsenpraktijk in Pula, Dinka Trinajstića 1, het praktische escalatiepunt voor complexe nachtelijke spoedgevallen die door de praktijken in Rovinj worden doorverwezen. Volledige kleindierenzorg, digitale beeldvorming en chirurgie ter plaatse. Telefoon +385 52 541 100, mobiel +385 98 98 11 666. Ongeveer 35 autominuten van Rovinj via de kustweg D75/D21.",
+          "descriptionIt": "Lo studio veterinario regionale di Pola, Dinka Trinajstića 1, è il punto di riferimento pratico per le emergenze notturne complesse indirizzate dagli studi di Rovinj. Cure complete per piccoli animali, imaging digitale e chirurgia in loco. Telefono +385 52 541 100, cellulare +385 98 98 11 666. Circa 35 minuti d'auto da Rovinj lungo la strada costiera D75/D21.",
           "petPolicyDe": "Regionale Eskalationsstelle für nächtliche Notfälle",
           "petPolicyNl": "Regionaal escalatiepunt voor nachtelijke spoedgevallen",
+          "petPolicyIt": "Punto di riferimento regionale per le emergenze notturne",
           "tipDe": "Rufen Sie vor der Fahrt nach Pula an - Telefon +385 52 541 100 während der Bürozeiten oder Handy +385 98 98 11 666 nachts, damit der Tierarzt den Fall vorbereiten kann, bevor Sie eintreffen; Bargeld wird für Aufschläge außerhalb der Öffnungszeiten zuverlässig neben Karten akzeptiert.",
-          "tipNl": "Bel voordat je naar Pula rijdt, telefoon +385 52 541 100 tijdens kantooruren of mobiel +385 98 98 11 666 's nachts, zodat de dierenarts de zaak kan voorbereiden voordat je aankomt; contant geld wordt naast kaarten betrouwbaar geaccepteerd voor toeslagen buiten openingstijden."
+          "tipNl": "Bel voordat je naar Pula rijdt, telefoon +385 52 541 100 tijdens kantooruren of mobiel +385 98 98 11 666 's nachts, zodat de dierenarts de zaak kan voorbereiden voordat je aankomt; contant geld wordt naast kaarten betrouwbaar geaccepteerd voor toeslagen buiten openingstijden.",
+          "tipIt": "Chiama prima di guidare fino a Pola, telefono +385 52 541 100 durante l'orario d'ufficio o cellulare +385 98 98 11 666 di notte, così il veterinario può prepararsi prima del tuo arrivo; il contante viene accettato senza problemi insieme alle carte per i supplementi fuori orario."
         }
       ],
       "titleDe": "Tierärztlicher Notdienst in Rovinj, Kliniken & Tierarztpraxen",
       "titleNl": "Spoeddierenarts in Rovinj, klinieken en dierenartsenpraktijken",
+      "titleIt": "Veterinario d'emergenza a Rovinj, cliniche e studi veterinari",
       "introDe": "Rovinj hat zwei tagsüber geöffnete Tierarztpraxen, wobei die größere Veterinarska Stanica Pula 35 km südlich die regionale Eskalationsstelle für komplexe Notfälle ist. Kroatiens landesweite tierärztliche Notrufnummer ist 192 (allgemeine Vermittlung). Rufen Sie vor der Fahrt zu jeder Klinik an; kroatische Kleinstadt-Tierarztpraxen halten in der Regel eine lange Mittagspause (13:00-17:00 Uhr), und Nachtstunden gibt es nur über den mobilen Notdienst.",
       "introNl": "Rovinj heeft twee dagpraktijken, waarbij de grotere Veterinarska Stanica Pula, 35 km zuidelijker, het regionale escalatiepunt is voor complexe spoedgevallen. Kroatiës landelijke spoednummer voor dierenartsen is 192 (algemene doorverwijzing). Bel voordat je naar een kliniek rijdt; Kroatische kleinstedelijke dierenartsenpraktijken houden doorgaans een lange middagpauze (13:00-17:00 uur), en avonduren zijn alleen beschikbaar via de mobiele spoeddienst.",
+      "introIt": "Rovinj ha due ambulatori diurni, con la più grande Veterinarska Stanica Pula, 35 km più a sud, come punto di riferimento regionale per le emergenze complesse. Il numero nazionale croato per le emergenze veterinarie è il 192 (indirizzamento generale). Chiama prima di andare in clinica; gli studi veterinari delle piccole città croate fanno di solito una lunga pausa pomeridiana (13:00-17:00), e la sera si è disponibili solo tramite il servizio mobile di emergenza.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Essential Pet Travel Tips for Rovinj",
@@ -568,10 +631,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rovinj+Stari+Grad",
           "descriptionDe": "Der Tourismusverband Rovinj weist die Stadt als haustierfreundlich aus: Hunde sind an der Hafenpromenade, im Waldpark Punta Corrente, auf den meisten Caféterrassen der Stari Grad und an vier ausgewiesenen Hundestränden willkommen. Wichtiger Stolperstein: Es gibt überhaupt keinen Zug - Pula, 35 km südlich, ist der Bahnkopf, und der Bus Autotrans/Brioni oder ein Mietwagen überbrücken die Lücke.",
           "descriptionNl": "De toeristendienst van Rovinj wijst de stad aan als huisdiervriendelijk: honden zijn welkom aan de havenpromenade, in het bospark Punta Corrente, op de meeste cafeterrassen van de Stari Grad en op vier aangewezen hondenstranden. Belangrijk struikelblok: er is helemaal geen trein, Pula, 35 km zuidelijker, is het spoorknooppunt, en de bus Autotrans/Brioni of een huurauto overbruggen de afstand.",
+          "descriptionIt": "L'ente turistico di Rovinj definisce la città pet-friendly: i cani sono benvenuti sul lungomare del porto, nel parco boschivo Punta Corrente, sulla maggior parte delle terrazze dei caffè della Stari Grad e su quattro spiagge per cani designate. Ostacolo importante: non c'è proprio il treno, Pola, 35 km più a sud, è lo snodo ferroviario, e l'autobus Autotrans/Brioni o un'auto a noleggio colmano la distanza.",
           "petPolicyDe": "Haustierfreundliche Stadt mit 4 ausgewiesenen Hundestränden und Waldpark",
           "petPolicyNl": "Huisdiervriendelijke stad met 4 aangewezen hondenstranden en bospark",
+          "petPolicyIt": "Città pet-friendly con 4 spiagge per cani designate e parco boschivo",
           "tipDe": "Führen Sie stets Kotbeutel und einen EU-Heimtierausweis mit sich - kroatische Gemeindebußgelder fürs Nicht-Aufsammeln liegen bei rund 100 EUR, und Strandaufseher prüfen bei einem Vorfall den Ausweis.",
-          "tipNl": "Draag altijd poepzakjes en een EU-huisdierenpaspoort bij je, Kroatische gemeenteboetes voor het niet opruimen liggen rond de 100 euro, en strandwachters controleren bij een incident het paspoort."
+          "tipNl": "Draag altijd poepzakjes en een EU-huisdierenpaspoort bij je, Kroatische gemeenteboetes voor het niet opruimen liggen rond de 100 euro, en strandwachters controleren bij een incident het paspoort.",
+          "tipIt": "Porta sempre con te i sacchetti per la cacca e il passaporto UE per animali, le multe comunali croate per non aver raccolto le deiezioni si aggirano sui 100 euro, e i bagnini controllano il passaporto in caso di incidente."
         },
         {
           "name": "Summer Crowds & Cruise Days",
@@ -595,10 +661,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rovinj+Stari+Grad",
           "descriptionDe": "Die engen Kopfsteinpflastergassen der Stari Grad leiten von 10:00 bis 18:00 Uhr im Juli-August einen heißen, lauten Andrang von Kreuzfahrt- und Tagesausflugsverkehr. Hunde, die empfindlich auf Menschenmengen, Lärm oder heißes Pflaster reagieren, kommen am besten mit Spaziergängen vor 10:00 Uhr und nach 19:00 Uhr sowie einer Mittagsruhe in der Wohnung oder im schattigen Waldpark Punta Corrente zurecht. Das mediterrane Klima ist mild und luftig, aber der Stein der Stari Grad hält die Wärme bis in die Nacht.",
           "descriptionNl": "De smalle kasseienstraatjes van de Stari Grad leiden van 10:00 tot 18:00 uur in juli-augustus een hete, luidruchtige stroom cruise- en dagjesverkeer. Honden die gevoelig zijn voor drukte, lawaai of heet plaveisel komen het best overweg met wandelingen voor 10:00 en na 19:00 uur en een middagrust binnen of in het schaduwrijke bospark Punta Corrente. Het mediterrane klimaat is mild en luchtig, maar de steen van de Stari Grad houdt de warmte tot 's avonds laat vast.",
+          "descriptionIt": "Le stradine di ciottoli della Stari Grad accolgono dalle 10:00 alle 18:00 a luglio-agosto un flusso caldo e rumoroso di turisti da crociera e gitanti. I cani sensibili alla folla, al rumore o al selciato caldo se la cavano meglio con passeggiate prima delle 10:00 e dopo le 19:00 e una pausa pomeridiana al chiuso o all'ombra del parco boschivo Punta Corrente. Il clima mediterraneo è mite e ventilato, ma la pietra della Stari Grad trattiene il calore fino a tarda sera.",
           "petPolicyDe": "Stari Grad von 10:00-18:00 Uhr im Juli-August für empfindliche Hunde meiden",
           "petPolicyNl": "Stari Grad van 10:00-18:00 uur in juli-augustus vermijden voor gevoelige honden",
+          "petPolicyIt": "Evita la Stari Grad dalle 10:00 alle 18:00 a luglio-agosto per i cani sensibili",
           "tipDe": "Die Nebensaisons (April-Mai, September-Oktober) sind das ideale Reisefenster für Haustiere in Rovinj - Tagestemperaturen von 18-25 °C, halb so viel Sommerandrang, und die meisten Hundestrände noch ausgestattet und ausgeschildert.",
-          "tipNl": "De tussenseizoenen (april-mei, september-oktober) zijn het ideale reisvenster met huisdier voor Rovinj, dagtemperaturen van 18-25°C, half zoveel zomerdrukte, en de meeste hondenstranden nog uitgerust en bewegwijzerd."
+          "tipNl": "De tussenseizoenen (april-mei, september-oktober) zijn het ideale reisvenster met huisdier voor Rovinj, dagtemperaturen van 18-25°C, half zoveel zomerdrukte, en de meeste hondenstranden nog uitgerust en bewegwijzerd.",
+          "tipIt": "Le mezze stagioni (aprile-maggio, settembre-ottobre) sono la finestra di viaggio ideale con il cane per Rovinj, temperature diurne di 18-25°C, metà della folla estiva, e la maggior parte delle spiagge per cani ancora attrezzate e segnalate."
         },
         {
           "name": "Italian-Croatian Bilingual Etiquette",
@@ -622,18 +691,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rovinj+Rovigno",
           "descriptionDe": "Rovinj ist offiziell zweisprachig Kroatisch-Italienisch (Rovinj-Rovigno) mit einer bedeutenden italienischsprachigen Gemeinschaft, die auf die venezianischen Jahrhunderte zurückgeht. Beschilderung, Speisekarten und Tierarztempfänge arbeiten routinemäßig in beiden Sprachen, und in touristischen Rollen wird häufig Englisch gesprochen. Nützliches Kroatisch: „imam psa“ (Ich habe einen Hund), „pas“ (Hund), „plaža za pse“ (Hundestrand); italienische Entsprechungen funktionieren ebenso gut.",
           "descriptionNl": "Rovinj is officieel tweetalig Kroatisch-Italiaans (Rovinj-Rovigno) met een aanzienlijke Italiaanstalige gemeenschap die teruggaat op de Venetiaanse eeuwen. Bebording, menukaarten en dierenartsrecepties werken routinematig in beide talen, en in toeristische functies wordt vaak Engels gesproken. Handig Kroatisch: 'imam psa' (ik heb een hond), 'pas' (hond), 'plaža za pse' (hondenstrand); Italiaanse equivalenten werken net zo goed.",
+          "descriptionIt": "Rovinj è ufficialmente bilingue croato-italiano (Rovinj-Rovigno) con una comunità di lingua italiana importante, che risale ai secoli veneziani. Cartelli, menu e reception veterinarie funzionano di norma in entrambe le lingue, e nei ruoli turistici si parla spesso inglese. Croato utile: 'imam psa' (ho un cane), 'pas' (cane), 'plaža za pse' (spiaggia per cani); gli equivalenti italiani funzionano altrettanto bene.",
           "petPolicyDe": "Zweisprachige Beschilderung Kroatisch-Italienisch; Englisch weit verbreitet verstanden",
           "petPolicyNl": "Tweetalige bebording Kroatisch-Italiaans; Engels wordt breed begrepen",
+          "petPolicyIt": "Segnaletica bilingue croato-italiano; l'inglese è ampiamente compreso",
           "tipDe": "Wenn Sie ein Restaurant oder Hotel nach der Haustierpolitik fragen, stößt ein Einstieg auf Italienisch („ho un cane“) in der Stari Grad oft auf wärmere Resonanz als Englisch - die italienischsprachige Gemeinschaft führt viele der Familienbetriebe.",
-          "tipNl": "Als je een restaurant of hotel naar het huisdierenbeleid vraagt, krijgt een opening in het Italiaans ('ho un cane') in de Stari Grad vaak een warmer onthaal dan Engels, de Italiaanstalige gemeenschap runt veel van de familiebedrijven."
+          "tipNl": "Als je een restaurant of hotel naar het huisdierenbeleid vraagt, krijgt een opening in het Italiaans ('ho un cane') in de Stari Grad vaak een warmer onthaal dan Engels, de Italiaanstalige gemeenschap runt veel van de familiebedrijven.",
+          "tipIt": "Se chiedi a un ristorante o a un hotel la politica sugli animali, un'apertura in italiano ('ho un cane') nella Stari Grad riceve spesso un'accoglienza più calda dell'inglese, la comunità di lingua italiana gestisce molte delle attività a conduzione familiare."
         }
       ],
       "titleDe": "Wichtige Reisetipps mit Haustier für Rovinj",
       "titleNl": "Belangrijke reistips met huisdier voor Rovinj",
+      "titleIt": "Consigli di viaggio importanti con il cane per Rovinj",
       "introDe": "Rovinj ist eine der wirklich haustierfreundlichsten Städte Istriens, aber drei örtliche Gegebenheiten überraschen Erstbesucher. (1) Es gibt KEINEN Zug: Der nächste Bahnhof ist in Pula, 35 km südlich, planen Sie also Bus, Auto oder den saisonalen Venezia-Lines-Katamaran für die Anreise ein. (2) Das kroatische Strandgesetz verbietet Hunde vom 15. Mai bis 15. September an nicht ausgewiesenen öffentlichen Badestränden - aber Rovinj weist vier ganzjährig geöffnete ausgewiesene Hundestrände aus. (3) Kroatien hat am 1. Januar 2023 den Euro eingeführt, Kuna-Preise in älteren Reiseführern sind überholt. Der Sommerandrang erreicht seinen Höhepunkt von Juni bis August; die Nebensaisons (April-Mai, September-Oktober) sind ideal für eine Reise mit Haustier.",
       "introNl": "Rovinj is een van de echt huisdiervriendelijkste steden van Istrië, maar drie lokale eigenaardigheden verrassen eerste bezoekers. (1) Er is GEEN trein: het dichtstbijzijnde station is in Pula, 35 km zuidelijker, plan dus bus, auto of de seizoensgebonden Venezia Lines-catamaran voor de reis. (2) De Kroatische strandwet verbiedt honden van 15 mei tot 15 september op niet-aangewezen openbare zwemstranden, maar Rovinj wijst vier het hele jaar geopende aangewezen hondenstranden aan. (3) Kroatië voerde op 1 januari 2023 de euro in, kuna-prijzen in oudere reisgidsen zijn achterhaald. De zomerdrukte piekt van juni tot augustus; de tussenseizoenen (april-mei, september-oktober) zijn ideaal voor een reis met huisdier.",
+      "introIt": "Rovinj è una delle città davvero più pet-friendly dell'Istria, ma tre particolarità locali sorprendono chi la visita per la prima volta. (1) NON c'è il treno: la stazione più vicina è a Pola, 35 km più a sud, quindi pianifica autobus, auto o il catamarano stagionale Venezia Lines per il viaggio. (2) La legge croata sulle spiagge vieta i cani dal 15 maggio al 15 settembre sulle spiagge pubbliche di balneazione non designate, ma Rovinj indica quattro spiagge per cani designate aperte tutto l'anno. (3) La Croazia ha introdotto l'euro il 1° gennaio 2023, i prezzi in kune nelle guide di viaggio più vecchie sono superati. Il picco della folla estiva va da giugno ad agosto; le mezze stagioni (aprile-maggio, settembre-ottobre) sono ideali per un viaggio con il cane.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Rovinj",
@@ -667,10 +742,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Sv+Eufemije+church+Rovinj",
           "descriptionDe": "Die barocke Pfarrkirche der heiligen Euphemia aus dem 18. Jahrhundert krönt den höchsten Punkt der Halbinsel Stari Grad, mit einem 60 m hohen Glockenturm (1654-1680), der dem Campanile von San Marco in Venedig nachempfunden ist und von einer kupfernen Wetterfahne der Heiligen gekrönt wird, die sich mit dem Wind dreht. Der Hügelplatz vor der Kirche bietet ein 360°-Panorama über die Adria und den Rovinjer Archipel. Angeleinte Hunde auf dem Platz und beim Aufstieg willkommen; das Innere nur für kleine Hunde in der Transportbox.",
           "descriptionNl": "De 18e-eeuwse barokke parochiekerk van de heilige Euphemia bekroont het hoogste punt van het schiereiland Stari Grad, met een 60 m hoge klokkentoren (1654-1680) naar het voorbeeld van de campanile van San Marco in Venetië, bekroond door een koperen windvaan van de heilige die met de wind meedraait. Het heuvelplein voor de kerk biedt een 360°-panorama over de Adriatische Zee en de archipel van Rovinj. Aangelijnde honden welkom op het plein en tijdens de klim; het interieur alleen voor kleine honden in een draagtas.",
+          "descriptionIt": "La chiesa parrocchiale barocca del XVIII secolo di Sant'Eufemia corona il punto più alto della penisola della Stari Grad, con un campanile alto 60 m (1654-1680) ispirato al campanile di San Marco a Venezia, sormontato da una banderuola di rame raffigurante la santa che gira con il vento. La piazza sulla collina davanti alla chiesa offre un panorama a 360° sull'Adriatico e sull'arcipelago di Rovinj. Cani al guinzaglio benvenuti sulla piazza e durante la salita; l'interno solo per cani piccoli in trasportino.",
           "petPolicyDe": "Angeleinte Hunde auf dem Hügelplatz willkommen; kleine Hunde in Transportbox im Kircheninneren",
           "petPolicyNl": "Aangelijnde honden welkom op het heuvelplein; kleine honden in draagtas in het kerkinterieur",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sulla piazza sulla collina; cani piccoli in trasportino nell'interno della chiesa",
           "tipDe": "Der Hügelplatz ist 30 Minuten vor Sonnenuntergang am ruhigsten, wenn die Kreuzfahrtgruppen bereits hinabgestiegen sind und das warme Licht den Campanile einfängt - einer der besten Orte für Hundeporträts in Nordkroatien.",
-          "tipNl": "Het heuvelplein is het rustigst 30 minuten voor zonsondergang, wanneer de cruisegroepen al zijn afgedaald en het warme licht de campanile vangt, een van de beste plekken voor hondenportretten in Noord-Kroatië."
+          "tipNl": "Het heuvelplein is het rustigst 30 minuten voor zonsondergang, wanneer de cruisegroepen al zijn afgedaald en het warme licht de campanile vangt, een van de beste plekken voor hondenportretten in Noord-Kroatië.",
+          "tipIt": "La piazza sulla collina è più tranquilla 30 minuti prima del tramonto, quando i gruppi delle crociere sono già scesi e la luce calda illumina il campanile, uno dei posti migliori per foto ai cani nel nord della Croazia."
         },
         {
           "name": "Balbi Arch & Grisia Street",
@@ -694,10 +772,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Balbi+Arch+Rovinj",
           "descriptionDe": "Der Balbi-Bogen (Balbijev luk), 1679 von der Familie Balbi an der Stelle des alten venezianischen Landtors errichtet, ist der barocke Zierdurchgang zur Stari Grad an der Trg maršala Tita. Die Grisia-Straße steigt vom Bogen hinauf zur sv. Eufemije, gesäumt von Ateliers von Malern, die ihre Leinwände an die Steinmauern hängen; am zweiten Sonntag im August findet die Open-Air-Kunstausstellung Grisia statt, eine Rovinjer Institution seit 1967. Vollständig im Freien, vollständig hundetauglich.",
           "descriptionNl": "De Balbi-boog (Balbijev luk), in 1679 door de familie Balbi gebouwd op de plek van de oude Venetiaanse landpoort, is de barokke sierdoorgang naar de Stari Grad aan de Trg maršala Tita. De Grisia-straat stijgt vanaf de boog omhoog naar sv. Eufemije, omzoomd door ateliers van schilders die hun doeken aan de stenen muren hangen; op de tweede zondag van augustus vindt de openluchtkunsttentoonstelling Grisia plaats, een instituut in Rovinj sinds 1967. Volledig buiten, volledig geschikt voor honden.",
+          "descriptionIt": "L'Arco dei Balbi (Balbijev luk), costruito nel 1679 dalla famiglia Balbi sul sito dell'antica porta veneziana di terra, è il passaggio barocco decorato verso la Stari Grad su Trg maršala Tita. Via Grisia sale dall'arco verso Sant'Eufemia, fiancheggiata da atelier di pittori che appendono le tele ai muri di pietra; la seconda domenica di agosto si tiene la mostra d'arte all'aperto Grisia, un'istituzione a Rovinj dal 1967. Completamente all'aperto, completamente adatto ai cani.",
           "petPolicyDe": "Angeleinte Hunde auf der Bogendurchfahrt und der Grisia-Straße willkommen",
           "petPolicyNl": "Aangelijnde honden welkom bij de boogdoorgang en op de Grisia-straat",
+          "petPolicyIt": "Cani al guinzaglio benvenuti al passaggio dell'arco e in via Grisia",
           "tipDe": "Gehen Sie die Grisia um 08:00 Uhr entlang, bevor die Künstler die Leinwände des Tages aufgehängt haben - die leeren Steinmauern und Kopfsteinstufen machen einen ruhigen morgendlichen Aufwärmspaziergang, bevor Sie zur sv. Eufemije hinaufsteigen.",
-          "tipNl": "Loop de Grisia om 08:00 uur, voordat de kunstenaars de doeken van de dag hebben opgehangen, de lege stenen muren en kasseientreden maken een rustige ochtendwarming-uppel voordat je naar sv. Eufemije klimt."
+          "tipNl": "Loop de Grisia om 08:00 uur, voordat de kunstenaars de doeken van de dag hebben opgehangen, de lege stenen muren en kasseientreden maken een rustige ochtendwarming-uppel voordat je naar sv. Eufemije klimt.",
+          "tipIt": "Percorri la Grisia alle 08:00, prima che gli artisti abbiano appeso le tele del giorno, i muri di pietra vuoti e i gradini di ciottoli fanno da tranquillo riscaldamento mattutino prima di salire a Sant'Eufemia."
         },
         {
           "name": "Rovinj Archipelago (Sv. Katarina & Crveni otok)",
@@ -721,18 +802,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Sv+Katarina+Rovinj",
           "descriptionDe": "Der Rovinjer Archipel mit 14 Inseln liegt wenige hundert Meter vor der Küste. Die nächstgelegene, Sv. Katarina, ist mit dem Fähranleger 5 Minuten vom Hafen entfernt; die größere Crveni otok (Rote Insel, zwei verbundene Inselchen) liegt 15 Minuten entfernt. Beide betreiben von Mai bis Oktober Pendelboote und akzeptieren beide angeleinte Hunde an Bord. Die Inseln sind bewaldet, mit schattigen Wegen, Badebuchten und Bar-Terrassen, wo Hunde in der Regel willkommen sind.",
           "descriptionNl": "De archipel van Rovinj met 14 eilanden ligt op een paar honderd meter van de kust. De dichtstbijzijnde, Sv. Katarina, ligt 5 minuten met de veersteiger van de haven; het grotere Crveni otok (Rood Eiland, twee verbonden eilandjes) ligt 15 minuten verderop. Beide exploiteren van mei tot oktober pendelboten en accepteren beide aangelijnde honden aan boord. De eilanden zijn bebost, met schaduwrijke paden, zwembaaien en barterrassen waar honden doorgaans welkom zijn.",
+          "descriptionIt": "L'arcipelago di Rovinj con 14 isole si trova a poche centinaia di metri dalla costa. La più vicina, Sv. Katarina, è a 5 minuti di traghetto dal porto; la più grande Crveni otok (Isola Rossa, due isolette collegate) è 15 minuti più avanti. Entrambe gestiscono traghetti navetta da maggio a ottobre e accettano cani al guinzaglio a bordo. Le isole sono boscose, con sentieri ombreggiati, calette per nuotare e terrazze bar dove i cani sono generalmente benvenuti.",
           "petPolicyDe": "Angeleinte Hunde auf Fähranlegern zu beiden Inseln von Mai-Okt akzeptiert",
           "petPolicyNl": "Aangelijnde honden op veersteigers naar beide eilanden geaccepteerd van mei-okt",
+          "petPolicyIt": "Cani al guinzaglio accettati sui traghetti per entrambe le isole da maggio a ottobre",
           "tipDe": "Wählen Sie für den ersten Hundeinselausflug Sv. Katarina statt Crveni otok - kürzere Überfahrt, kleinere Insel (45-Minuten-Runde) und schnellerer Rückzug, falls der Hund die Bootsfahrt stressig findet, mit der Maestral-Terrasse als Belohnung bei der Rückkehr.",
-          "tipNl": "Kies voor het eerste eilanduitje met hond Sv. Katarina in plaats van Crveni otok, kortere overtocht, kleiner eiland (rondje van 45 minuten) en snellere terugkeer als de hond de boottocht stressvol vindt, met het terras van Maestral als beloning bij terugkomst"
+          "tipNl": "Kies voor het eerste eilanduitje met hond Sv. Katarina in plaats van Crveni otok, kortere overtocht, kleiner eiland (rondje van 45 minuten) en snellere terugkeer als de hond de boottocht stressvol vindt, met het terras van Maestral als beloning bij terugkomst",
+          "tipIt": "Per la prima gita con il cane su un'isola scegli Sv. Katarina invece di Crveni otok, traversata più breve, isola più piccola (giro di 45 minuti) e ritorno più rapido se il cane trova stressante la barca, con la terrazza del Maestral come ricompensa al rientro."
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Rovinj",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Rovinj",
+      "titleIt": "Attrazioni pet-friendly a Rovinj",
       "introDe": "Rovinjs Sehenswürdigkeitenliste wird von venezianisch-italienischem Naturstein im Freien dominiert: die Kirche sv. Eufemije auf ihrem Hügel mit dem 60 m hohen, dem Markusturm in Venedig nachempfundenen Glockenturm, der Balbi-Bogen von 1679, die Künstlerkolonie-Gasse Grisia, der Hafen und der Rovinjer Archipel mit 14 Inseln. Fast alles befindet sich im Freien und ist angeleinten Hunden zugänglich; Kircheninnenräume und kleine Museen folgen der Regel „kleiner Hund in Transportbox“, und die Fähranleger zu den Inseln (Sv. Katarina, Crveni otok) akzeptieren angeleinte Hunde.",
       "introNl": "Rovinjs lijst met bezienswaardigheden wordt gedomineerd door Venetiaans-Italiaanse natuursteen in de buitenlucht: de kerk sv. Eufemije op haar heuvel met de 60 m hoge klokkentoren naar het voorbeeld van de Markustoren in Venetië, de Balbi-boog uit 1679, het kunstenaarssteegje Grisia, de haven en de archipel van Rovinj met 14 eilanden. Bijna alles is buiten en toegankelijk voor aangelijnde honden; kerkinterieurs en kleine musea volgen de regel 'kleine hond in draagtas', en de veersteigers naar de eilanden (Sv. Katarina, Crveni otok) accepteren aangelijnde honden.",
+      "introIt": "La lista delle attrazioni di Rovinj è dominata dalla pietra veneziano-italiana all'aperto: la chiesa di Sant'Eufemia sulla sua collina con il campanile alto 60 m ispirato al campanile di San Marco a Venezia, l'Arco dei Balbi del 1679, il vicolo degli artisti Grisia, il porto e l'arcipelago di Rovinj con 14 isole. Quasi tutto è all'aperto e accessibile ai cani al guinzaglio; gli interni delle chiese e i piccoli musei seguono la regola del 'cane piccolo in trasportino', e i traghetti per le isole (Sv. Katarina, Crveni otok) accettano cani al guinzaglio.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Care Services in Rovinj",
@@ -765,10 +852,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rovinj+pet+sitter",
           "descriptionDe": "PetBacker ist die führende Plattform für Haustierbetreuung in Rovinj mit verifizierten lokalen Betreuern, die Gassigehen, Tagesbetreuung, Hausbesuche und Übernachtungen anbieten. Die Plattform beinhaltet eine kostenlose Unfallversicherung für Haustiere und 24/7-Kundensupport und nutzt verifizierte Nutzerbewertungen. Betreuer legen ihre eigenen Preise fest; der Median in Rovinj liegt bei 25-35 EUR pro Nacht, im Juli-August etwas höher.",
           "descriptionNl": "PetBacker is het toonaangevende platform voor huisdierenoppas in Rovinj met geverifieerde lokale oppassers die uitlaatservice, dagopvang, huisbezoeken en overnachtingen aanbieden. Het platform omvat een gratis ongevallenverzekering voor huisdieren en 24/7-klantenservice, en gebruikt geverifieerde gebruikersbeoordelingen. Oppassers bepalen hun eigen prijzen; het mediaan in Rovinj ligt op 25-35 euro per nacht, in juli-augustus iets hoger.",
+          "descriptionIt": "PetBacker è la piattaforma di riferimento per il pet sitting a Rovinj con sitter locali verificati che offrono passeggiate, asilo diurno, visite a domicilio e pernottamenti. La piattaforma include un'assicurazione infortuni gratuita per gli animali e assistenza clienti 24/7, e usa recensioni verificate degli utenti. I sitter fissano i propri prezzi; la mediana a Rovinj è di 25-35 euro a notte, leggermente più alta a luglio-agosto.",
           "petPolicyDe": "Verifizierte Betreuer, kostenlose Unfallversicherung inklusive",
           "petPolicyNl": "Geverifieerde oppassers, gratis ongevallenverzekering inbegrepen",
+          "petPolicyIt": "Sitter verificati, assicurazione infortuni gratuita inclusa",
           "tipDe": "Filtern Sie nach Betreuern mit verifizierter ID und mindestens 5 Bewertungen - kroatische Haustierbetreuungsmärkte sind jünger als westeuropäische, daher ist die Bewertungstiefe in Istrien das beste Qualitätssignal.",
-          "tipNl": "Filter op oppassers met geverifieerde identiteit en minstens 5 beoordelingen, Kroatische huisdierenoppasmarkten zijn jonger dan West-Europese, dus de diepte van beoordelingen is in Istrië het beste kwaliteitssignaal."
+          "tipNl": "Filter op oppassers met geverifieerde identiteit en minstens 5 beoordelingen, Kroatische huisdierenoppasmarkten zijn jonger dan West-Europese, dus de diepte van beoordelingen is in Istrië het beste kwaliteitssignaal.",
+          "tipIt": "Filtra per sitter con identità verificata e almeno 5 recensioni, i mercati croati del pet sitting sono più giovani di quelli dell'Europa occidentale, quindi la profondità delle recensioni è in Istria il miglior segnale di qualità."
         },
         {
           "name": "Pawshake Istria",
@@ -791,10 +881,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rovinj+dog+sitter",
           "descriptionDe": "Pawshake ist in 15+ Ländern aktiv und verfügt über einen kleinen, aber wachsenden Pool verifizierter Betreuer in ganz Istrien, die Gassigehen, Hausbesuche und Übernachtungsbetreuung anbieten. Jede Buchung beinhaltet die Pawshake-Garantie mit tierärztlicher Absicherung und 24/7-Kundensupport. Am besten für Reisende, die die Plattform bereits von anderen Europaaufenthalten kennen und ihre Suche auf Pula und Poreč ausweiten können.",
           "descriptionNl": "Pawshake is actief in 15+ landen en heeft een kleine maar groeiende pool van geverifieerde oppassers in heel Istrië, die uitlaatservice, huisbezoeken en overnachtingsoppas aanbieden. Elke boeking omvat de Pawshake-garantie met dierenartsdekking en 24/7-klantenservice. Het best voor reizigers die het platform al kennen van andere Europese verblijven en hun zoektocht willen uitbreiden naar Pula en Poreč.",
+          "descriptionIt": "Pawshake è attivo in oltre 15 Paesi e ha un gruppo piccolo ma crescente di sitter verificati in tutta l'Istria, che offrono passeggiate, visite a domicilio e pernottamenti. Ogni prenotazione include la garanzia Pawshake con copertura veterinaria e assistenza clienti 24/7. Ideale per chi conosce già la piattaforma da altri soggiorni europei e vuole estendere la ricerca a Pola e Poreč.",
           "petPolicyDe": "Verifizierte Betreuer, Versicherung über die Plattform inklusive",
           "petPolicyNl": "Geverifieerde oppassers, verzekering via het platform inbegrepen",
+          "petPolicyIt": "Sitter verificati, assicurazione della piattaforma inclusa",
           "tipDe": "Rovinjs Pawshake-Pool ist kleiner als der von PetBacker - buchen Sie im Sommer 2 Wochen im Voraus und halten Sie eine PetBacker-Alternative bereit, falls an Ihren Terminen kein Pawshake-Betreuer verfügbar ist.",
-          "tipNl": "Rovinjs Pawshake-pool is kleiner dan die van PetBacker, boek 's zomers 2 weken van tevoren en houd een PetBacker-alternatief achter de hand als er op jouw data geen Pawshake-oppasser beschikbaar is."
+          "tipNl": "Rovinjs Pawshake-pool is kleiner dan die van PetBacker, boek 's zomers 2 weken van tevoren en houd een PetBacker-alternatief achter de hand als er op jouw data geen Pawshake-oppasser beschikbaar is.",
+          "tipIt": "Il gruppo Pawshake di Rovinj è più piccolo di quello di PetBacker, prenota 2 settimane prima in estate e tieni pronta un'alternativa su PetBacker se per le tue date non c'è un sitter Pawshake disponibile."
         },
         {
           "name": "TrustedHousesitters Rovinj",
@@ -817,18 +910,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rovinj",
           "descriptionDe": "TrustedHousesitters listet verifizierte Hausbetreuer in Rovinj, die in Ihrer Wohnung wohnen und im Gegenzug Ihren Hund betreuen - besonders nützlich für Reisende, die eine Ferienwohnung in der Stari Grad für eine Woche oder länger mieten. Betreuer und Eigentümer verifizieren beide Identität und Referenzen. Mitgliedschaftsbasiert (169 $/Jahr), aber geeignet für Reisende, die mehrere Mittelmeeraufenthalte planen.",
           "descriptionNl": "TrustedHousesitters vermeldt geverifieerde huisoppassers in Rovinj, die in je woning verblijven en in ruil daarvoor je hond verzorgen, bijzonder nuttig voor reizigers die een appartement in de Stari Grad huren voor een week of langer. Oppassers en eigenaars verifiëren beide identiteit en referenties. Lidmaatschapsbasis (169 $/jaar), maar geschikt voor reizigers die meerdere mediterrane verblijven plannen.",
+          "descriptionIt": "TrustedHousesitters elenca house sitter verificati a Rovinj, che soggiornano nella tua casa e in cambio si occupano del tuo cane, particolarmente utile per chi affitta un appartamento nella Stari Grad per una settimana o più. Sitter e proprietari verificano entrambi identità e referenze. Basato su abbonamento (169 $/anno), ma adatto a chi pianifica più soggiorni mediterranei.",
           "petPolicyDe": "Verifizierte Hausbetreuer, keine Gebühr pro Nacht (mitgliedschaftsbasiert)",
           "petPolicyNl": "Geverifieerde huisoppassers, geen kosten per nacht (lidmaatschapsbasis)",
+          "petPolicyIt": "House sitter verificati, nessun costo per notte (basato su abbonamento)",
           "tipDe": "Veröffentlichen Sie Ihre Anfrage 6 Wochen vor der Reise für einen Sommeraufenthalt in Rovinj - Istrien ist von Juni bis September ein stark nachgefragtes Betreuerziel, kurzfristige Anzeigen locken selten erfahrene Bewerber an.",
-          "tipNl": "Plaats je aanvraag 6 weken voor de reis voor een zomerverblijf in Rovinj, Istrië is van juni tot september een sterk gevraagde oppasbestemming, kortetermijnadvertenties lokken zelden ervaren kandidaten."
+          "tipNl": "Plaats je aanvraag 6 weken voor de reis voor een zomerverblijf in Rovinj, Istrië is van juni tot september een sterk gevraagde oppasbestemming, kortetermijnadvertenties lokken zelden ervaren kandidaten.",
+          "tipIt": "Invia la richiesta 6 settimane prima del viaggio per un soggiorno estivo a Rovinj, l'Istria da giugno a settembre è una destinazione molto richiesta per il sitting, gli annunci a breve termine raramente attirano candidati esperti."
         }
       ],
       "titleDe": "Haustierbetreuung & Hundebetreuungsdienste in Rovinj",
       "titleNl": "Huisdierenoppas en hondenoppasdiensten in Rovinj",
+      "titleIt": "Pet sitting e servizi di dog sitting a Rovinj",
       "introDe": "Rovinjs Markt für Haustierbetreuung ist klein, aber funktionstüchtig - nützlich für einen Tagesausflug zur römischen Arena in Pula (eine laute, staubige Umgebung), eine Überfahrt mit Venezia Lines bei Hitze oder ein Sitzabendessen an einem der wenigen Fine-Dining-Orte der Stadt ohne Terrasse. PetBacker ist die führende Plattform mit verifizierten Betreuern in Rovinj/Istrien; Pawshake hat begrenzte Abdeckung in Kroatien. Die meisten Betreuer sprechen dank des zweisprachigen istrischen Kontexts Kroatisch, Italienisch und Englisch.",
       "introNl": "Rovinjs markt voor huisdierenoppas is klein maar functioneel, nuttig voor een dagtripje naar de Romeinse arena in Pula (een luidruchtige, stoffige omgeving), een overtocht met Venezia Lines bij hitte of een zitdiner op een van de weinige fine-diningplekken van de stad zonder terras. PetBacker is het toonaangevende platform met geverifieerde oppassers in Rovinj/Istrië; Pawshake heeft beperkte dekking in Kroatië. De meeste oppassers spreken dankzij de tweetalige Istrische context Kroatisch, Italiaans en Engels.",
+      "introIt": "Il mercato del pet sitting a Rovinj è piccolo ma funzionale, utile per una gita di un giorno all'arena romana di Pola (un ambiente rumoroso e polveroso), una traversata con Venezia Lines nelle giornate calde o una cena al tavolo in uno dei pochi ristoranti gourmet della città senza terrazza. PetBacker è la piattaforma di riferimento con sitter verificati a Rovinj/Istria; Pawshake ha una copertura limitata in Croazia. La maggior parte dei sitter parla croato, italiano e inglese grazie al contesto bilingue istriano.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

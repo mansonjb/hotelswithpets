@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Pannekoekenhuisje+Scheveningen+Strandweg",
           "descriptionDe": "Ein seit Langem bestehendes niederländisches Pfannkuchenhaus direkt an der Strandweg-Promenade, wenige Schritte vom Sand entfernt, mit süßen und herzhaften Pfannkuchen bei Meerblick. Ein einfacher, familienfreundlicher Halt nach einem Strandspaziergang, der Hunde ausdrücklich willkommen heißt. Das Personal hält Wasser bereit und verteilt Hundekekse an vierbeinige Gäste.",
           "descriptionNl": "Een al lang bestaand Nederlands pannenkoekenhuis vlak aan de Strandweg-boulevard, een paar stappen van het zand, met zoete en hartige pannenkoeken en zeezicht. Een simpele, gezinsvriendelijke stop na een strandwandeling, die honden uitdrukkelijk verwelkomt. Het personeel houdt water klaar en deelt hondenkoekjes uit aan viervoetige gasten.",
+          "descriptionIt": "Una storica creperia olandese proprio sul lungomare Strandweg, a pochi passi dalla sabbia, con crepe dolci e salate e vista sul mare. Una sosta semplice e adatta alle famiglie dopo una passeggiata in spiaggia, che accoglie esplicitamente i cani. Il personale tiene pronta l'acqua e distribuisce biscotti per cani agli ospiti a quattro zampe.",
           "petPolicyDe": "Hunde willkommen; bitte an der Leine halten und von den Sitzflächen fernhalten",
           "petPolicyNl": "Honden welkom; graag aan de lijn houden en uit de buurt van de zitplaatsen",
+          "petPolicyIt": "Cani benvenuti; tenerli al guinzaglio e lontano dai tavoli",
           "mustTryDe": "Ein klassischer niederländischer Pfannkuchen mit Kaffee auf der Terrasse mit Meerblick",
           "mustTryNl": "Een klassieke Nederlandse pannenkoek met koffie op het terras met zeezicht",
+          "mustTryIt": "Una classica crepe olandese con caffè sulla terrazza con vista sul mare",
           "tipDe": "Fragen Sie beim Hinsetzen nach einem Wassernapf; die Terrasse liegt zur Promenade hin, eine kürzere Leine hält Ihren Hund daher aus dem vorbeiziehenden Fußgängerverkehr heraus.",
-          "tipNl": "Vraag bij het gaan zitten om een waterbak; het terras kijkt uit op de boulevard, dus een kortere lijn houdt je hond weg van het voorbijgaande voetgangersverkeer"
+          "tipNl": "Vraag bij het gaan zitten om een waterbak; het terras kijkt uit op de boulevard, dus een kortere lijn houdt je hond weg van het voorbijgaande voetgangersverkeer",
+          "tipIt": "Chiedi una ciotola d'acqua quando ti siedi; la terrazza si affaccia sul lungomare, quindi un guinzaglio più corto tiene il cane lontano dai passanti"
         },
         {
           "name": "Solbeach",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Solbeach+Scheveningen+Strandweg",
           "descriptionDe": "Ein Strandclub und Pavillon an der Promenade von Scheveningen, etwa 500 Meter vom Pier Richtung Hafen entfernt, gut für Mittagessen, Getränke oder einen langen Nachmittag am Meer. Hunde an der Leine sind auf der Terrasse jederzeit willkommen, das Team hält stets eine Schale frisches Wasser bereit. Eine bequeme Basis für einen ruhigen Tag zwischen Strandspaziergängen.",
           "descriptionNl": "Een strandclub en paviljoen aan de boulevard van Scheveningen, ongeveer 500 meter van de pier richting de haven, goed voor lunch, drankjes of een lange middag aan zee. Honden aan de lijn zijn altijd welkom op het terras, het team houdt steevast een schaal vers water klaar. Een fijne uitvalsbasis voor een rustige dag tussen strandwandelingen door.",
+          "descriptionIt": "Un beach club e padiglione sul lungomare di Scheveningen, a circa 500 metri dal molo in direzione del porto, ottimo per pranzo, drink o un lungo pomeriggio al mare. I cani al guinzaglio sono sempre benvenuti in terrazza, il personale tiene sempre pronta una ciotola d'acqua fresca. Una buona base per una giornata tranquilla tra una passeggiata in spiaggia e l'altra.",
           "petPolicyDe": "Hunde an der Leine auf der Terrasse willkommen; Wassernapf vorhanden",
           "petPolicyNl": "Honden aan de lijn welkom op het terras; waterbak aanwezig",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza; ciotola d'acqua disponibile",
           "mustTryDe": "Ein Getränk auf der Terrasse bei Sonnenuntergang mit Blick auf den Pier",
           "mustTryNl": "Een drankje op het terras bij zonsondergang met uitzicht op de pier",
+          "mustTryIt": "Un drink in terrazza al tramonto con vista sul molo",
           "tipDe": "Denken Sie daran, dass der Strand direkt davor dem saisonalen Hundeverbot unterliegt (15. Mai bis 1. Oktober); gehen Sie stattdessen auf der Promenade spazieren oder suchen Sie einen ausgewiesenen Hundestrand auf, bevor Sie sich niederlassen.",
-          "tipNl": "Onthoud dat het strand er direct voor onder het seizoensgebonden hondenverbod valt (15 mei tot 1 oktober); ga in plaats daarvan wandelen op de boulevard of bezoek een aangewezen hondenstrand voordat je gaat zitten"
+          "tipNl": "Onthoud dat het strand er direct voor onder het seizoensgebonden hondenverbod valt (15 mei tot 1 oktober); ga in plaats daarvan wandelen op de boulevard of bezoek een aangewezen hondenstrand voordat je gaat zitten",
+          "tipIt": "Ricorda che la spiaggia proprio di fronte rientra nel divieto stagionale per i cani (dal 15 maggio al 1 ottobre); vai invece a passeggiare sul lungomare o visita una spiaggia per cani autorizzata prima di sederti"
         },
         {
           "name": "Strandtent 't Puntje",
@@ -110,20 +118,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Strandtent+Puntje+Noorderstrand+Scheveningen",
           "descriptionDe": "Ein beliebter Strandpavillon in der ruhigen nördlichen Ecke Scheveningens am Noorderstrand, erreichbar über den Parkplatz Zwarte Pad und während der gesamten Strandsaison geöffnet. Er liegt neben einem der ganzjährig hundefreundlichen Sandabschnitte, was ihn zu einem natürlichen Zwischenstopp macht. Hunde werden herzlich willkommen geheißen, mit Wassernäpfen, und die Küche hält sogar Hundeleckerlis bereit.",
           "descriptionNl": "Een populair strandpaviljoen in de rustige noordelijke hoek van Scheveningen aan het Noorderstrand, bereikbaar via de parkeerplaats Zwarte Pad en open gedurende het hele strandseizoen. Het ligt naast een van de het hele jaar hondvriendelijke zandgedeeltes, wat het een natuurlijke tussenstop maakt. Honden worden hartelijk verwelkomd, met waterbakjes, en de keuken houdt zelfs hondensnoepjes achter de hand.",
+          "descriptionIt": "Un popolare padiglione da spiaggia nel tranquillo angolo settentrionale di Scheveningen sul Noorderstrand, raggiungibile dal parcheggio Zwarte Pad e aperto per tutta la stagione balneare. Si trova accanto a uno dei tratti pet-friendly tutto l'anno, il che lo rende una tappa naturale. I cani sono accolti calorosamente, con ciotole d'acqua, e la cucina tiene persino da parte biscotti per cani.",
           "petPolicyDe": "Hunde herzlich willkommen; Wassernäpfe und Hundeleckerlis erhältlich",
           "petPolicyNl": "Honden hartelijk welkom; waterbakjes en hondensnoepjes verkrijgbaar",
+          "petPolicyIt": "Cani calorosamente benvenuti; ciotole d'acqua e biscotti per cani disponibili",
           "mustTryDe": "Ein Kaffee oder ein einfaches Mittagessen am ruhigen nördlichen Strand",
           "mustTryNl": "Een koffie of een simpele lunch op het rustige noordelijke strand",
+          "mustTryIt": "Un caffè o un pranzo semplice sulla tranquilla spiaggia settentrionale",
           "tipDe": "Diese Ecke nahe Zwarte Pad grenzt an einen Abschnitt, an dem Hunde ganzjährig erlaubt sind, sie passt daher gut zu einem Freilauf am Sand außerhalb der Saison.",
-          "tipNl": "Deze hoek bij Zwarte Pad grenst aan een gedeelte waar honden het hele jaar zijn toegestaan, dus past goed bij een loslooppartijtje op het zand buiten het seizoen"
+          "tipNl": "Deze hoek bij Zwarte Pad grenst aan een gedeelte waar honden het hele jaar zijn toegestaan, dus past goed bij een loslooppartijtje op het zand buiten het seizoen",
+          "tipIt": "Questo angolo vicino a Zwarte Pad confina con un tratto dove i cani sono ammessi tutto l'anno, quindi è perfetto per una corsa libera sulla sabbia fuori stagione"
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Scheveningen",
       "titleNl": "Hondvriendelijke restaurants in Scheveningen",
+      "titleIt": "Ristoranti pet-friendly a Scheveningen",
       "introDe": "Die Restaurantszene Scheveningens erstreckt sich über die gesamte Strandweg-Promenade und hinaus zu den Strandpavillons (strandtenten), und die meisten sind entspannte Orte, an denen ein Hund an der Leine wirklich willkommen ist und nicht nur geduldet wird. Viele halten einen Wassernapf auf der Terrasse bereit, einige führen sogar Hundekekse auf der Karte. Die übliche Hausregel ist einfach: Hund an der Leine und von den Sitzflächen fernhalten.",
       "introNl": "De restaurantscene van Scheveningen strekt zich uit over de hele Strandweg-boulevard en verder naar de strandtenten, en de meeste zijn ontspannen plekken waar een hond aan de lijn echt welkom is en niet slechts geduld wordt. Veel zetten een waterbak klaar op het terras, sommige hebben zelfs hondenkoekjes op de kaart staan. De gebruikelijke huisregel is simpel: hond aan de lijn en uit de buurt van de zitplaatsen.",
+      "introIt": "La scena gastronomica di Scheveningen si estende lungo tutto il lungomare Strandweg e oltre, fino ai chioschi di spiaggia, e la maggior parte sono posti rilassati dove un cane al guinzaglio è davvero benvenuto e non solo tollerato. Molti tengono pronta una ciotola d'acqua in terrazza, alcuni hanno persino biscotti per cani nel menu. La regola generale è semplice: cane al guinzaglio e lontano dai tavoli.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks & Dunes in Scheveningen",
@@ -157,10 +172,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Westduinpark+Den+Haag",
           "descriptionDe": "Ein hügeliger Küstendünenpark aus offenem Sand, Strandhafer und niedrigem Gehölz zwischen Scheveningen und Kijkduin, Teil des Natura-2000-Gebiets Westduinpark & Wapendal. Er zählt zu den schönsten Hundespaziergängen in Den Haag, mit Meerblick von den hohen Dünen und leichtem Zugang zum Strand dahinter. Hunde sind willkommen, müssen aber auf dem Großteil des Schutzgebiets an der Leine gehalten werden, um Bodenbrüter und weidende Schafe zu schützen.",
           "descriptionNl": "Een heuvelachtig kustduinenpark van open zand, helmgras en laag struikgewas tussen Scheveningen en Kijkduin, onderdeel van het Natura 2000-gebied Westduinpark & Wapendal. Het behoort tot de mooiste hondenwandelingen van Den Haag, met zeezicht vanaf de hoge duinen en makkelijke toegang tot het strand erachter. Honden zijn welkom, maar moeten aan de lijn op het grootste deel van het beschermde gebied, om grondbroeders en grazende schapen te beschermen.",
+          "descriptionIt": "Un parco costiero collinare di dune aperte, ammofila e cespugli bassi tra Scheveningen e Kijkduin, parte dell'area Natura 2000 Westduinpark & Wapendal. È una delle passeggiate per cani più belle dell'Aia, con vista sul mare dalle dune alte e facile accesso alla spiaggia dietro. I cani sono benvenuti, ma devono stare al guinzaglio nella maggior parte dell'area protetta, per proteggere gli uccelli che nidificano a terra e le pecore al pascolo.",
           "petPolicyDe": "Hunde auf dem Großteil des Schutzgebiets an der Leine (Natura 2000); an einigen markierten Stellen Freilauf erlaubt",
           "petPolicyNl": "Honden aan de lijn op het grootste deel van het beschermde gebied (Natura 2000); op sommige aangegeven plekken losloopgebied toegestaan",
+          "petPolicyIt": "Cani al guinzaglio nella maggior parte dell'area protetta (Natura 2000); in alcuni punti segnalati è ammessa l'area libera",
           "tipDe": "Achten Sie auf die weidenden Schafe, die die Dünen pflegen; halten Sie Ihren Hund in ihrer Nähe stets an der Leine und folgen Sie den Schildern, die die Freilaufbereiche markieren.",
-          "tipNl": "Let op de grazende schapen die de duinen onderhouden; houd je hond altijd aan de lijn in hun buurt en volg de borden die de losloopgebieden aangeven"
+          "tipNl": "Let op de grazende schapen die de duinen onderhouden; houd je hond altijd aan de lijn in hun buurt en volg de borden die de losloopgebieden aangeven",
+          "tipIt": "Fai attenzione alle pecore al pascolo che mantengono le dune; tieni sempre il cane al guinzaglio vicino a loro e segui i cartelli che indicano le aree libere"
         },
         {
           "name": "Bosjes van Poot",
@@ -184,10 +202,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bosjes+van+Poot+Den+Haag",
           "descriptionDe": "Ein geschützter Dünenwaldbereich im Vogelwijk, bewachsen mit Kiefern und Eichen und mit Dünenboden bedeckt, Teil des weiter reichenden Westduinpark. Die Gemeinde hat ihn als offizielles Freilaufgebiet ausgewiesen, hier laufen lokale Hunde frei nahe Scheveningen. Der Baumbestand macht ihn auch bei feuchterem oder windigerem Wetter zu einem angenehmen Spaziergang.",
           "descriptionNl": "Een beschermd duinbosgebied in de Vogelwijk, begroeid met dennen en eiken en bedekt met duingrond, onderdeel van het bredere Westduinpark. De gemeente heeft het aangewezen als officieel losloopgebied, hier lopen lokale honden vrij dicht bij Scheveningen. De bomen maken het ook bij vochtiger of winderiger weer een aangename wandeling.",
+          "descriptionIt": "Un'area boschiva protetta di dune nel quartiere Vogelwijk, coperta da pini e querce e terreno dunale, parte del più ampio Westduinpark. Il comune l'ha designata come area libera ufficiale, dove i cani locali corrono liberi vicino a Scheveningen. Gli alberi la rendono anche una passeggiata piacevole con tempo umido o ventoso.",
           "petPolicyDe": "Ausgewiesenes Freilaufgebiet; während der Vogelbrutzeit und auf den Wegen weiterhin Leinenpflicht",
           "petPolicyNl": "Aangewezen losloopgebied; tijdens het broedseizoen van vogels en op de paden nog steeds aanlijnplicht",
+          "petPolicyIt": "Area libera designata; durante la stagione della nidificazione degli uccelli e sui sentieri resta comunque obbligatorio il guinzaglio",
           "tipDe": "Die Freilauffreiheit pausiert während der Brutzeit (etwa Mitte März bis Mitte Juli); legen Sie dann die Leine an und bleiben Sie auf den Wegen, um bodenbrütende Vögel zu schützen.",
-          "tipNl": "De loslooppvrijheid stopt tijdelijk tijdens het broedseizoen (ongeveer half maart tot half juli); leg dan de lijn aan en blijf op de paden om grondbroedende vogels te beschermen"
+          "tipNl": "De loslooppvrijheid stopt tijdelijk tijdens het broedseizoen (ongeveer half maart tot half juli); leg dan de lijn aan en blijf op de paden om grondbroedende vogels te beschermen",
+          "tipIt": "La libertà di correre senza guinzaglio si interrompe temporaneamente durante la stagione della nidificazione (circa da metà marzo a metà luglio); in quel periodo tieni il guinzaglio e resta sui sentieri per proteggere gli uccelli che nidificano a terra"
         },
         {
           "name": "Scheveningse Bosjes",
@@ -211,18 +232,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Scheveningse+Bosjes+Den+Haag",
           "descriptionDe": "Ein großer, grüner Stadtwald zwischen dem Dorf Scheveningen und dem Zentrum von Den Haag, durchzogen von gewundenen Wegen, Teichen und offenen Lichtungen. Ein grüner Korridor zum Spazierengehen mit Hund im Schatten, praktisch, wenn der Strand im Hochsommer für Hunde gesperrt ist. Hunde sind an der Leine auf den Wegen willkommen, mit der üblichen Pflicht, Hinterlassenschaften zu entsorgen.",
           "descriptionNl": "Een groot, groen stadsbos tussen het dorp Scheveningen en het centrum van Den Haag, doorkruist door kronkelende paden, vijvers en open plekken. Een groene corridor om met hond in de schaduw te wandelen, handig als het strand in hartje zomer voor honden gesloten is. Honden zijn welkom aan de lijn op de paden, met de gebruikelijke opruimplicht.",
+          "descriptionIt": "Un grande bosco urbano verde tra il villaggio di Scheveningen e il centro dell'Aia, attraversato da sentieri tortuosi, stagni e radure. Un corridoio verde per passeggiare con il cane all'ombra, utile quando la spiaggia è chiusa ai cani in piena estate. I cani sono benvenuti al guinzaglio sui sentieri, con il consueto obbligo di raccogliere le deiezioni.",
           "petPolicyDe": "Hunde an der Leine auf den Wegen willkommen; Entsorgungspflicht",
           "petPolicyNl": "Honden aan de lijn welkom op de paden; opruimplicht",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sui sentieri; obbligo di raccogliere le deiezioni",
           "tipDe": "Eine gute schattige Alternative an heißen Tagen oder während des sommerlichen Strandverbots, und ein leichter Spaziergang oder eine kurze Straßenbahnfahrt von der Küste.",
-          "tipNl": "Een goed schaduwrijk alternatief op warme dagen of tijdens het zomerse strandverbod, en een makkelijke wandeling of korte tramrit vanaf de kust"
+          "tipNl": "Een goed schaduwrijk alternatief op warme dagen of tijdens het zomerse strandverbod, en een makkelijke wandeling of korte tramrit vanaf de kust",
+          "tipIt": "Una buona alternativa ombreggiata nelle giornate calde o durante il divieto estivo in spiaggia, e una passeggiata facile o un breve tragitto in tram dalla costa"
         }
       ],
       "titleDe": "Hundefreundliche Parks & Dünen in Scheveningen",
       "titleNl": "Hondvriendelijke parken & duinen in Scheveningen",
+      "titleIt": "Parchi e dune pet-friendly a Scheveningen",
       "introDe": "Hinter der Küste grenzt Scheveningen an einen Gürtel geschützter Dünenlandschaft, die sich wunderbar mit Hund erkunden lässt, sofern man die Leinenpflicht beachtet. Der Westduinpark und sein bewaldeter Bereich, die Bosjes van Poot, bilden ein Natura-2000-Gebiet: Ein Großteil ist zum Schutz bodenbrütender Vögel und weidender Wildtiere leinenpflichtig, doch die Bosjes van Poot sind ein offizielles Freilaufgebiet. Während der Vogelbrutzeit (etwa Mitte März bis Mitte Juli) halten Sie Hunde überall an der Leine und bleiben auf den Wegen, und entsorgen Sie stets die Hinterlassenschaften.",
       "introNl": "Achter de kust grenst Scheveningen aan een gordel beschermd duinlandschap, dat heerlijk te verkennen is met hond, mits je de aanlijnplicht respecteert. Het Westduinpark en zijn beboste gedeelte, de Bosjes van Poot, vormen een Natura 2000-gebied: een groot deel geldt aanlijnplicht ter bescherming van grondbroedende vogels en grazende wilde dieren, maar de Bosjes van Poot zijn een officieel losloopgebied. Tijdens het broedseizoen van vogels (ongeveer half maart tot half juli) houd je honden overal aan de lijn en blijf je op de paden, en ruim je altijd de uitwerpselen op.",
+      "introIt": "Dietro la costa, Scheveningen confina con una fascia di paesaggio dunale protetto, splendida da esplorare con il cane, purché si rispetti l'obbligo del guinzaglio. Il Westduinpark e la sua parte boschiva, i Bosjes van Poot, formano un'area Natura 2000: gran parte richiede il guinzaglio per proteggere gli uccelli che nidificano a terra e la fauna selvatica al pascolo, ma i Bosjes van Poot sono un'area libera ufficiale. Durante la stagione della nidificazione degli uccelli (circa da metà marzo a metà luglio) tieni sempre i cani al guinzaglio, resta sui sentieri e raccogli sempre le deiezioni.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Getting Around Scheveningen with a Dog",
@@ -256,10 +283,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Scheveningen+tram+stop",
           "descriptionDe": "HTM betreibt die Straßenbahnen und Busse Den Haags, mehrere Linien erreichen die Küste: Straßenbahn 1 und 9 bedienen Scheveningen, Straßenbahn 11 fährt zum Hafen. Hunde reisen in HTM-Fahrzeugen kostenlos mit, solange sie angeleint sind und im Gang statt auf einem Sitzplatz bleiben. Ein Maulkorb ist nicht erforderlich.",
           "descriptionNl": "HTM exploiteert de trams en bussen van Den Haag, meerdere lijnen bereiken de kust: tram 1 en 9 bedienen Scheveningen, tram 11 rijdt naar de haven. Honden reizen gratis mee in HTM-voertuigen, zolang ze aangelijnd zijn en op de vloer blijven in plaats van op een zitplaats. Een muilkorf is niet vereist.",
+          "descriptionIt": "HTM gestisce i tram e gli autobus dell'Aia, diverse linee raggiungono la costa: i tram 1 e 9 servono Scheveningen, il tram 11 va al porto. I cani viaggiano gratis sui mezzi HTM, purché siano al guinzaglio e restino a terra invece che su un sedile. Non è richiesta la museruola.",
           "petPolicyDe": "Hunde reisen kostenlos mit; an der Leine und im Gang halten, kein Maulkorb erforderlich",
           "petPolicyNl": "Honden reizen gratis mee; aan de lijn en op de vloer houden, geen muilkorf vereist",
+          "petPolicyIt": "I cani viaggiano gratis; tenerli al guinzaglio e a terra, museruola non richiesta",
           "tipDe": "Straßenbahnen sind an sonnigen Wochenenden voll; steigen Sie an einer ruhigeren Tür ein und halten Sie Ihren Hund dicht bei sich am Boden.",
-          "tipNl": "Trams zitten vol op zonnige weekenden; stap in bij een rustigere deur en houd je hond dicht bij je op de grond"
+          "tipNl": "Trams zitten vol op zonnige weekenden; stap in bij een rustigere deur en houd je hond dicht bij je op de grond",
+          "tipIt": "I tram sono affollati nei weekend di sole; sali da una porta più tranquilla e tieni il cane vicino a te sul pavimento"
         },
         {
           "name": "NS trains to The Hague (Dagkaart Hond)",
@@ -283,10 +313,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Den+Haag+Centraal+station",
           "descriptionDe": "Die nationale Bahngesellschaft NS verbindet Den Haag mit Amsterdam, Rotterdam, dem Flughafen Schiphol und darüber hinaus, mit Ankunft in Den Haag Centraal oder Den Haag HS, von wo eine Straßenbahn zur Küste bringt. Ein kleiner Hund, der in eine Tasche passt oder auf dem Schoß mitreist, fährt kostenlos; ein größerer Hund benötigt ein Dagkaart Hond (Hundetagesticket), das 2026 rund 3,70 Euro kostet und den ganzen Tag gültig ist. Sie benötigen daneben weiterhin Ihr eigenes gültiges Ticket.",
           "descriptionNl": "De nationale spoorwegmaatschappij NS verbindt Den Haag met Amsterdam, Rotterdam, luchthaven Schiphol en verder, met aankomst in Den Haag Centraal of Den Haag HS, van waaruit een tram je naar de kust brengt. Een kleine hond die in een tas past of op schoot reist, gaat gratis mee; een grotere hond heeft een Dagkaart Hond nodig, die in 2026 ongeveer 3,70 euro kost en de hele dag geldig is. Je hebt daarnaast nog steeds je eigen geldige ticket nodig.",
+          "descriptionIt": "La compagnia ferroviaria nazionale NS collega l'Aia con Amsterdam, Rotterdam, l'aeroporto di Schiphol e oltre, con arrivo a Den Haag Centraal o Den Haag HS, da dove un tram ti porta sulla costa. Un cane piccolo che entra in una borsa o viaggia in braccio va gratis; un cane più grande ha bisogno di un Dagkaart Hond, che nel 2026 costa circa 3,70 euro e vale per tutta la giornata. Ti serve comunque anche il tuo biglietto valido.",
           "petPolicyDe": "Kleine Hunde kostenlos; größere Hunde benötigen ein Dagkaart Hond (ca. 3,70 Euro im Jahr 2026), kein Maulkorb",
           "petPolicyNl": "Kleine honden gratis; grotere honden hebben een Dagkaart Hond nodig (ca. 3,70 euro in 2026), geen muilkorf",
+          "petPolicyIt": "Cani piccoli gratis; i cani più grandi necessitano di un Dagkaart Hond (circa 3,70 euro nel 2026), niente museruola",
           "tipDe": "Kaufen Sie das Dagkaart Hond einmal für den ganzen Tag; es deckt alle NS-Fahrten bis in die späten Stunden ab, Tagesausflüge hin und zurück sind so unkompliziert.",
-          "tipNl": "Koop de Dagkaart Hond eenmalig voor de hele dag; die dekt alle NS-ritten tot laat in de avond, zo zijn dagtripjes heen en terug simpel"
+          "tipNl": "Koop de Dagkaart Hond eenmalig voor de hele dag; die dekt alle NS-ritten tot laat in de avond, zo zijn dagtripjes heen en terug simpel",
+          "tipIt": "Compra il Dagkaart Hond una volta per l'intera giornata; copre tutti i viaggi NS fino a sera tardi, così le gite andata e ritorno sono semplici"
         },
         {
           "name": "By car & parking (Zwarte Pad, Kurhaus, Q-Park)",
@@ -310,18 +343,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Zwarte+Pad+parking+Scheveningen",
           "descriptionDe": "Die Anreise mit dem Auto ist einfach, und die Küste bietet große Parkplätze, darunter den Parkplatz Zwarte Pad am nördlichen Ende sowie Parkhäuser nahe dem Kurhaus und dem Pier. Das Parken am Zwarte Pad ist praktisch für den ruhigeren nördlichen Strand, an dem Hunde ganzjährig erlaubt sind. Denken Sie daran: Einen Hund bei warmem Wetter im geparkten Auto zu lassen, ist gefährlich und kann tödlich enden.",
           "descriptionNl": "Met de auto komen is makkelijk, en de kust heeft grote parkeerplaatsen, waaronder de parkeerplaats Zwarte Pad aan het noordelijke uiteinde en parkeergarages bij het Kurhaus en de pier. Parkeren bij Zwarte Pad is handig voor het rustigere noordelijke strand waar honden het hele jaar zijn toegestaan. Vergeet niet: een hond bij warm weer in een geparkeerde auto achterlaten is gevaarlijk en kan fataal aflopen.",
+          "descriptionIt": "Arrivare in auto è facile, e la costa ha grandi parcheggi, tra cui il parcheggio Zwarte Pad all'estremità nord e i garage vicino al Kurhaus e al molo. Parcheggiare a Zwarte Pad è comodo per la spiaggia settentrionale più tranquilla dove i cani sono ammessi tutto l'anno. Non dimenticare: lasciare un cane in un'auto parcheggiata con il caldo è pericoloso e può essere fatale.",
           "petPolicyDe": "Keine Haustierbeschränkungen beim Parken; niemals einen Hund in einem warmen geparkten Auto zurücklassen",
           "petPolicyNl": "Geen huisdierbeperkingen bij het parkeren; laat een hond nooit achter in een warme geparkeerde auto",
+          "petPolicyIt": "Nessuna restrizione per animali nei parcheggi; non lasciare mai un cane in un'auto parcheggiata al caldo",
           "tipDe": "Parken Sie am Zwarte Pad, wenn Sie den ganzjährigen Hundestrand nutzen möchten; das erspart einen langen Weg von den zentralen Parkhäusern entlang der Promenade.",
-          "tipNl": "Parkeer bij Zwarte Pad als je het hele jaar hondenstrand wilt gebruiken; dat scheelt een lang stuk lopen vanaf de centrale parkeergarages langs de boulevard"
+          "tipNl": "Parkeer bij Zwarte Pad als je het hele jaar hondenstrand wilt gebruiken; dat scheelt een lang stuk lopen vanaf de centrale parkeergarages langs de boulevard",
+          "tipIt": "Parcheggia a Zwarte Pad se vuoi usare la spiaggia per cani aperta tutto l'anno; risparmi un lungo tratto a piedi dai parcheggi centrali lungo il lungomare"
         }
       ],
       "titleDe": "Mit Hund unterwegs in Scheveningen",
       "titleNl": "Onderweg met hond in Scheveningen",
+      "titleIt": "In giro con il cane a Scheveningen",
       "introDe": "Scheveningen ist ein Küstenviertel von Den Haag und direkt an das hervorragende öffentliche Verkehrsnetz der Stadt angeschlossen. HTM-Straßenbahnen und -Busse fahren zur Küste, Hunde reisen darin kostenlos mit; NS-Züge erreichen Den Haag aus dem ganzen Land, wobei kleine Hunde kostenlos mitfahren und größere Hunde ein günstiges Hundetagesticket benötigen. Da die Niederlande zur EU und zum Schengen-Raum gehören, genügt bei der Anreise aus einem anderen EU-Land lediglich die übliche Heimtierdokumentation.",
       "introNl": "Scheveningen is een kustwijk van Den Haag en direct aangesloten op het uitstekende openbaarvervoernetwerk van de stad. HTM-trams en -bussen rijden naar de kust, honden reizen erin gratis mee; NS-treinen bereiken Den Haag vanuit het hele land, waarbij kleine honden gratis meereizen en grotere honden een goedkoop hondendagticket nodig hebben. Omdat Nederland tot de EU en het Schengengebied behoort, volstaat bij aankomst vanuit een ander EU-land gewoon de gebruikelijke huisdierendocumentatie.",
+      "introIt": "Scheveningen è un quartiere costiero dell'Aia ed è direttamente collegato all'eccellente rete di trasporto pubblico della città. I tram e gli autobus HTM arrivano sulla costa, i cani viaggiano gratis; i treni NS raggiungono l'Aia da tutto il paese, con i cani piccoli che viaggiano gratis e quelli più grandi che necessitano di un economico biglietto giornaliero per cani. Poiché i Paesi Bassi fanno parte dell'UE e dell'area Schengen, all'arrivo da un altro paese UE bastano i normali documenti per animali.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches in Scheveningen",
@@ -355,10 +394,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Noorderstrand+Zwarte+Pad+Scheveningen",
           "descriptionDe": "Das nördliche Ende des Strands von Scheveningen, erreichbar über den großen Parkplatz Zwarte Pad, ist der ganzjährige Hundestrand, der dem Zentrum am nächsten liegt. Ab etwa Noorderstrand 34 Richtung Katwijk sind Hunde das ganze Jahr über erlaubt, und außerhalb der Sommerhochsaison können sie am offenen Sand ohne Leine laufen. Ein breiter, windiger Nordseestrand mit Platz zum Ballwerfen und Plantschen in der Brandung.",
           "descriptionNl": "Het noordelijke uiteinde van het strand van Scheveningen, bereikbaar via de grote parkeerplaats Zwarte Pad, is het hele jaar door hondenstrand, het dichtst bij het centrum. Vanaf ongeveer Noorderstrand 34 richting Katwijk zijn honden het hele jaar toegestaan, en buiten het hoogseizoen in de zomer mogen ze zonder lijn over het open zand lopen. Een breed, winderig Noordzeestrand met ruimte om te ballen en te plonzen in de branding.",
+          "descriptionIt": "L'estremità settentrionale della spiaggia di Scheveningen, raggiungibile dal grande parcheggio Zwarte Pad, è spiaggia per cani tutto l'anno, la più vicina al centro. Da circa Noorderstrand 34 in direzione Katwijk i cani sono ammessi tutto l'anno, e fuori dall'alta stagione estiva possono correre senza guinzaglio sulla sabbia aperta. Una spiaggia ampia e ventosa sul Mare del Nord con spazio per giocare a palla e sguazzare tra le onde.",
           "petPolicyDe": "Hunde ganzjährig ab etwa Noorderstrand 34 Richtung Katwijk erlaubt; außerhalb der Sommerhochsaison ohne Leine",
           "petPolicyNl": "Honden het hele jaar toegestaan vanaf ongeveer Noorderstrand 34 richting Katwijk; buiten het hoogseizoen in de zomer zonder lijn",
+          "petPolicyIt": "Cani ammessi tutto l'anno da circa Noorderstrand 34 verso Katwijk; senza guinzaglio fuori dall'alta stagione estiva",
           "tipDe": "Halten Sie sich zwischen dem 15. Mai und 1. Oktober an die nördliche Zone ab Noorderstrand 34; der zentrale Strand Richtung Hafen ist in diesem Zeitraum für Hunde tabu.",
-          "tipNl": "Houd je tussen 15 mei en 1 oktober aan de noordelijke zone vanaf Noorderstrand 34; het centrale strand richting de haven is in die periode verboden terrein voor honden"
+          "tipNl": "Houd je tussen 15 mei en 1 oktober aan de noordelijke zone vanaf Noorderstrand 34; het centrale strand richting de haven is in die periode verboden terrein voor honden",
+          "tipIt": "Tra il 15 maggio e il 1 ottobre resta nella zona nord da Noorderstrand 34; la spiaggia centrale verso il porto è in quel periodo vietata ai cani"
         },
         {
           "name": "Zuiderstrand (dog beach, strandslag 9-10)",
@@ -382,10 +424,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Zuiderstrand+Scheveningen",
           "descriptionDe": "Südlich des Hafens von Scheveningen verläuft der Zuiderstrand hinunter nach Kijkduin, und die ausgewiesenen Hundestrandabschnitte bei strandslag 9 und 10 lassen Hunde selbst in der Sommersaison ganztägig auf den Sand. Fernab des belebten zentralen Strands ist dies ein ruhigerer, wilderer Abschnitt hinter Dünen gelegen. Am restlichen Zuiderstrand sind Hunde im Sommer nur abends und nachts, von 21:00 bis 07:00 Uhr, willkommen.",
           "descriptionNl": "Ten zuiden van de haven van Scheveningen loopt het Zuiderstrand door naar Kijkduin, en de aangewezen hondenstrandgedeeltes bij strandslag 9 en 10 laten honden zelfs in het zomerseizoen de hele dag op het zand toe. Ver van het drukke centrale strand is dit een rustiger, wilder gedeelte achter de duinen. Op de rest van het Zuiderstrand zijn honden in de zomer alleen 's avonds en 's nachts welkom, van 21:00 tot 07:00 uur.",
+          "descriptionIt": "A sud del porto di Scheveningen, lo Zuiderstrand prosegue fino a Kijkduin, e i tratti per cani designati vicino agli accessi 9 e 10 permettono ai cani di stare sulla sabbia tutto il giorno anche in stagione estiva. Lontano dalla spiaggia centrale affollata, è un tratto più tranquillo e selvaggio dietro le dune. Sul resto dello Zuiderstrand i cani sono ammessi d'estate solo la sera e la notte, dalle 21:00 alle 07:00.",
           "petPolicyDe": "Ganztägiger Hundestrand bei strandslag 9-10; andernorts am Zuiderstrand im Sommer nur 21:00-07:00 Uhr",
           "petPolicyNl": "De hele dag hondenstrand bij strandslag 9-10; elders op het Zuiderstrand in de zomer alleen 21:00-07:00 uur",
+          "petPolicyIt": "Spiaggia per cani tutto il giorno agli accessi 9-10; altrove sullo Zuiderstrand d'estate solo dalle 21:00 alle 07:00",
           "tipDe": "Achten Sie auf die strandslag-Nummern an den Strandzugangsschildern, damit Sie im Abschnitt 9-10 landen und nicht an einem Abschnitt, der im Sommer nur abends erlaubt ist.",
-          "tipNl": "Let op de strandslag-nummers bij de strandtoegangsborden, zodat je bij gedeelte 9-10 uitkomt en niet bij een gedeelte dat in de zomer alleen 's avonds is toegestaan"
+          "tipNl": "Let op de strandslag-nummers bij de strandtoegangsborden, zodat je bij gedeelte 9-10 uitkomt en niet bij een gedeelte dat in de zomer alleen 's avonds is toegestaan",
+          "tipIt": "Presta attenzione ai numeri degli accessi alla spiaggia sui cartelli, così arrivi al tratto 9-10 e non a un tratto ammesso solo di sera d'estate"
         },
         {
           "name": "Kijkduin dog beach (strandopgang 2 southwards)",
@@ -409,18 +454,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Kijkduin+hondenstrand",
           "descriptionDe": "Am Ende der Küste bei Kijkduin ist der Zuiderstrand ab strandopgang 2 südwärts bis zur Grenze zu Westland bei Monster der hundefreundlichste Strand in Den Haag, wo Hunde ganzjährig ohne Leine laufen dürfen, ohne saisonale Einschränkung. Hinter den Dünen des Westduinpark gelegen, ist er ruhiger als das zentrale Scheveningen und verbindet einen langen Sandlauf mit einem Dünenspaziergang. Er ist die erste Wahl im Hochsommer, wenn die Strände am Ort für Hunde gesperrt sind.",
           "descriptionNl": "Aan het einde van de kust bij Kijkduin is het Zuiderstrand vanaf strandopgang 2 zuidwaarts tot de grens met Westland bij Monster het hondvriendelijkste strand van Den Haag, waar honden het hele jaar zonder lijn mogen lopen, zonder seizoensgebonden beperking. Gelegen achter de duinen van het Westduinpark, is het rustiger dan het centrale Scheveningen en combineert het een lang zandstrand met een duinwandeling. Het is de eerste keuze in hartje zomer, als de strandjes in de stad voor honden gesloten zijn.",
+          "descriptionIt": "Alla fine della costa vicino a Kijkduin, lo Zuiderstrand dall'accesso 2 verso sud fino al confine con Westland presso Monster è la spiaggia più pet-friendly dell'Aia, dove i cani possono correre senza guinzaglio tutto l'anno, senza restrizioni stagionali. Situata dietro le dune del Westduinpark, è più tranquilla del centro di Scheveningen e combina una lunga spiaggia sabbiosa con una passeggiata tra le dune. È la prima scelta in piena estate, quando le spiagge in città sono chiuse ai cani.",
           "petPolicyDe": "Ganzjährig ohne Leine ab strandopgang 2 südwärts; der hundefreundlichste Strand der Gegend",
           "petPolicyNl": "Het hele jaar zonder lijn vanaf strandopgang 2 zuidwaarts; het hondvriendelijkste strand van de omgeving",
+          "petPolicyIt": "Senza guinzaglio tutto l'anno dall'accesso 2 verso sud; la spiaggia più pet-friendly della zona",
           "tipDe": "Dies ist Ihre beste Option zwischen dem 15. Mai und 1. Oktober, wenn der zentrale Strand von Scheveningen für Hunde gesperrt ist; kombinieren Sie ihn mit einer Dünenrunde im Westduinpark.",
-          "tipNl": "Dit is je beste optie tussen 15 mei en 1 oktober, wanneer het centrale strand van Scheveningen voor honden gesloten is; combineer het met een duinwandeling in het Westduinpark"
+          "tipNl": "Dit is je beste optie tussen 15 mei en 1 oktober, wanneer het centrale strand van Scheveningen voor honden gesloten is; combineer het met een duinwandeling in het Westduinpark",
+          "tipIt": "È la tua opzione migliore tra il 15 maggio e il 1 ottobre, quando la spiaggia centrale di Scheveningen è chiusa ai cani; combinala con una passeggiata tra le dune nel Westduinpark"
         }
       ],
       "titleDe": "Hundefreundliche Strände in Scheveningen",
       "titleNl": "Hondvriendelijke stranden in Scheveningen",
+      "titleIt": "Spiagge pet-friendly a Scheveningen",
       "introDe": "Dies ist der wichtigste Abschnitt, und die ehrliche Antwort lautet, dass der Strandzugang für Hunde in Scheveningen saisonal und zoniert ist, statt ganzjährig offen zu sein. Die von der Gemeinde Den Haag festgelegte Regelung ist eindeutig. In der Wintersaison, vom 1. Oktober bis 15. Mai, sind Hunde zu jeder Tageszeit am gesamten Strand von Den Haag willkommen, an oder ohne Leine. In der Hochsaison im Sommer, vom 15. Mai bis 1. Oktober, sind Hunde am zentralen Badestrand zwischen Zwarte Pad und dem Hafen von Scheveningen verboten, und andernorts sind sie ganztägig nur an den ausgewiesenen Hundestränden bei strandslag 1, 2, 9 und 10 erlaubt; am restlichen Zuiderstrand sind sie im Sommer nur abends und nachts zwischen 21:00 und 07:00 Uhr erlaubt. Zwei Abschnitte sind von der Sommerbeschränkung ausgenommen: der nördliche Strand ab etwa Noorderstrand 34 Richtung Katwijk sowie das Ende des Zuiderstrand bei Kijkduin ab strandopgang 2 südwärts, wo Hunde das ganze Jahr über ohne Leine laufen dürfen. In den Dünen gilt stets Leinenpflicht, und Sie müssen einen Kotbeutel mitführen und Hinterlassenschaften entsorgen. Achten Sie auf ruhende Seehunde: Leinen Sie Ihren Hund sofort an und halten Sie mindestens 30 Meter Abstand.",
       "introNl": "Dit is het belangrijkste onderdeel, en het eerlijke antwoord is dat de strandtoegang voor honden in Scheveningen seizoensgebonden en gezoneerd is, in plaats van het hele jaar open. De regeling die is vastgesteld door de gemeente Den Haag is duidelijk. In het winterseizoen, van 1 oktober tot 15 mei, zijn honden op elk moment van de dag welkom op het hele strand van Den Haag, aan of zonder lijn. In het hoogseizoen in de zomer, van 15 mei tot 1 oktober, zijn honden verboden op het centrale badstrand tussen Zwarte Pad en de haven van Scheveningen, en elders zijn ze de hele dag alleen toegestaan bij de aangewezen hondenstranden bij strandslag 1, 2, 9 en 10; op de rest van het Zuiderstrand zijn ze in de zomer alleen 's avonds en 's nachts toegestaan tussen 21:00 en 07:00 uur. Twee gedeeltes zijn uitgezonderd van de zomerbeperking: het noordelijke strand vanaf ongeveer Noorderstrand 34 richting Katwijk en het uiteinde van het Zuiderstrand bij Kijkduin vanaf strandopgang 2 zuidwaarts, waar honden het hele jaar zonder lijn mogen lopen. In de duinen geldt altijd aanlijnplicht, en je moet een poepzakje bij je hebben en uitwerpselen opruimen. Let op rustende zeehonden: lijn je hond direct aan en houd minstens 30 meter afstand.",
+      "introIt": "Questa è la parte più importante, e la risposta onesta è che l'accesso alla spiaggia per i cani a Scheveningen è stagionale e a zone, non aperto tutto l'anno. Le regole stabilite dal comune dell'Aia sono chiare. Nella stagione invernale, dal 1 ottobre al 15 maggio, i cani sono benvenuti in qualsiasi momento del giorno su tutta la spiaggia dell'Aia, al guinzaglio o senza. Nell'alta stagione estiva, dal 15 maggio al 1 ottobre, i cani sono vietati sulla spiaggia balneare centrale tra Zwarte Pad e il porto di Scheveningen, e altrove sono ammessi tutto il giorno solo nelle spiagge per cani designate agli accessi 1, 2, 9 e 10; sul resto dello Zuiderstrand sono ammessi d'estate solo la sera e la notte tra le 21:00 e le 07:00. Due tratti sono esentati dalla restrizione estiva: la spiaggia settentrionale da circa Noorderstrand 34 verso Katwijk e l'estremità dello Zuiderstrand vicino a Kijkduin dall'accesso 2 verso sud, dove i cani possono correre senza guinzaglio tutto l'anno. Nelle dune vige sempre l'obbligo del guinzaglio, e devi avere con te un sacchetto per le deiezioni e raccoglierle. Fai attenzione alle foche a riposo: metti subito il guinzaglio al cane e tieni almeno 30 metri di distanza.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Veterinarians & Pet Care in Scheveningen",
@@ -455,10 +506,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Dierenkliniek+Scheveningen+Gentsestraat",
           "descriptionDe": "Die kleintiermedizinische Stadtteilklinik direkt in Scheveningen, der praktischste Tierarzt für alle, die nahe der Küste wohnen. Sie bietet allgemeine Sprechstunden, Impfungen und Reisedokumentation werktags an, mit zwei Abendterminen am Montag, Mittwoch und Freitag. Außerhalb der Öffnungszeiten leitet die Praxis Notfälle an den regionalen Bereitschaftstierarzt weiter.",
           "descriptionNl": "De kleindierenpraktijk in de buurt, direct in Scheveningen, de meest praktische dierenarts voor iedereen die dicht bij de kust woont. Ze biedt algemene spreekuren, vaccinaties en reisdocumentatie op werkdagen aan, met twee avondafspraken op maandag, woensdag en vrijdag. Buiten de openingstijden verwijst de praktijk spoedgevallen door naar de regionale dierenartsenwachtdienst.",
+          "descriptionIt": "L'ambulatorio veterinario di quartiere, proprio a Scheveningen, il veterinario più pratico per chi vive vicino alla costa. Offre visite generiche, vaccinazioni e documentazione di viaggio nei giorni feriali, con due appuntamenti serali il lunedì, mercoledì e venerdì. Fuori dagli orari di apertura, lo studio indirizza le emergenze al servizio di guardia veterinaria regionale.",
           "petPolicyDe": "Hunde und Katzen willkommen; EU-Reisedokumentation werktags erledigt",
           "petPolicyNl": "Honden en katten welkom; EU-reisdocumentatie afgehandeld op werkdagen",
+          "petPolicyIt": "Cani e gatti benvenuti; documentazione di viaggio UE gestita nei giorni feriali",
           "tipDe": "Rufen Sie vorab an, um einen Termin zu vereinbaren; am Wochenende geschlossen, nutzen Sie bei einem Problem am Samstag oder Sonntag die regionale Notrufnummer 0900-2226333.",
-          "tipNl": "Bel vooraf om een afspraak te maken; gesloten in het weekend, gebruik bij een probleem op zaterdag of zondag het regionale noodnummer 0900-2226333"
+          "tipNl": "Bel vooraf om een afspraak te maken; gesloten in het weekend, gebruik bij een probleem op zaterdag of zondag het regionale noodnummer 0900-2226333",
+          "tipIt": "Telefona in anticipo per fissare un appuntamento; chiuso nel weekend, in caso di problema sabato o domenica usa il numero di emergenza regionale 0900-2226333"
         },
         {
           "name": "Evidensia Dierenziekenhuis Den Haag",
@@ -483,10 +537,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Evidensia+Dierenziekenhuis+Den+Haag+Goudenregenstraat",
           "descriptionDe": "Eine größere Tierklinik im Stadtteil Segbroek von Den Haag, eine kurze Auto- oder Straßenbahnfahrt landeinwärts von Scheveningen, mit allgemeiner Versorgung und Überweisungsbehandlung. Sie hat lange tägliche Öffnungszeiten und bietet Notfallbehandlung für ernste Fälle. Eine nützliche nächste Stufe, wenn eine kleine Stadtteilklinik nicht ausreicht, was Ihr Tier benötigt.",
           "descriptionNl": "Een grotere dierenkliniek in de wijk Segbroek van Den Haag, een korte auto- of tramrit landinwaarts vanaf Scheveningen, met algemene zorg en doorverwijsbehandeling. Ze heeft lange dagelijkse openingstijden en biedt spoedbehandeling voor ernstige gevallen. Een nuttige volgende stap als een kleine buurtpraktijk niet voldoende is voor wat je huisdier nodig heeft.",
+          "descriptionIt": "Una clinica veterinaria più grande nel quartiere Segbroek dell'Aia, a breve distanza in auto o tram dall'interno rispetto a Scheveningen, con assistenza generale e cure di riferimento. Ha orari di apertura lunghi ogni giorno e offre trattamenti d'emergenza per i casi gravi. Un utile passo successivo quando un piccolo ambulatorio di quartiere non basta per le esigenze del tuo animale.",
           "petPolicyDe": "Hunde und Katzen; allgemeine und Notfall-/Überweisungsversorgung",
           "petPolicyNl": "Honden en katten; algemene en spoed-/doorverwijszorg",
+          "petPolicyIt": "Cani e gatti; assistenza generale e cure di emergenza/riferimento",
           "tipDe": "Rufen Sie an, bevor Sie losfahren, damit man sich auf Ihre Ankunft vorbereiten kann; die Klinik liegt landeinwärts, planen Sie daher etwas Fahrzeit von der Küste ein.",
-          "tipNl": "Bel voordat je vertrekt, zodat ze zich kunnen voorbereiden op je komst; de kliniek ligt landinwaarts, reken dus wat reistijd vanaf de kust"
+          "tipNl": "Bel voordat je vertrekt, zodat ze zich kunnen voorbereiden op je komst; de kliniek ligt landinwaarts, reken dus wat reistijd vanaf de kust",
+          "tipIt": "Telefona prima di partire, così possono prepararsi al tuo arrivo; la clinica si trova nell'entroterra, quindi metti in conto un po' di tempo di viaggio dalla costa"
         },
         {
           "name": "Dierenkliniek Statenlaan",
@@ -511,18 +568,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Dierenkliniek+Statenlaan+Den+Haag",
           "descriptionDe": "Eine allgemeine Kleintierklinik im Statenkwartier, dem grünen Viertel zwischen dem zentralen Scheveningen und der Stadt, daher eine einfache Alternative für alle, die auf der Südseite des Küstenorts wohnen. Sie ist werktags geöffnet und Teil der Genossenschaft Haagse Kring, die den gemeinsamen Nacht- und Wochenend-Notdienst betreibt. Praktisch für Sprechstunden, Impfungen und kleinere Probleme während der Woche.",
           "descriptionNl": "Een algemene kleindierenpraktijk in het Statenkwartier, de groene wijk tussen het centrale Scheveningen en de stad, dus een makkelijk alternatief voor iedereen die aan de zuidkant van de badplaats woont. Ze is op werkdagen open en maakt deel uit van de coöperatie Haagse Kring, die de gedeelde nacht- en weekenddienst runt. Handig voor spreekuren, vaccinaties en kleinere problemen doordeweeks.",
+          "descriptionIt": "Un ambulatorio veterinario generico nello Statenkwartier, il quartiere verde tra il centro di Scheveningen e la città, quindi una comoda alternativa per chi vive nella parte sud della località balneare. È aperto nei giorni feriali e fa parte della cooperativa Haagse Kring, che gestisce il servizio notturno e festivo condiviso. Utile per visite, vaccinazioni e piccoli problemi durante la settimana.",
           "petPolicyDe": "Hunde und Katzen willkommen; Teil des regionalen gemeinsamen Bereitschaftsdienstes außerhalb der Öffnungszeiten",
           "petPolicyNl": "Honden en katten welkom; onderdeel van de regionale gedeelde wachtdienst buiten openingstijden",
+          "petPolicyIt": "Cani e gatti benvenuti; parte del servizio di guardia regionale condiviso fuori orario",
           "tipDe": "Für Abende, Wochenenden und Feiertage verweist diese Klinik auf die gemeinsame regionale Notrufnummer 0900-2226333.",
-          "tipNl": "Voor avonden, weekenden en feestdagen verwijst deze praktijk naar het gedeelde regionale noodnummer 0900-2226333"
+          "tipNl": "Voor avonden, weekenden en feestdagen verwijst deze praktijk naar het gedeelde regionale noodnummer 0900-2226333",
+          "tipIt": "Per sere, weekend e festivi, questo ambulatorio indirizza al numero di emergenza regionale condiviso 0900-2226333"
         }
       ],
       "titleDe": "Tierärzte & Tierpflege in Scheveningen",
       "titleNl": "Dierenartsen & huisdierenzorg in Scheveningen",
+      "titleIt": "Veterinari e cura degli animali a Scheveningen",
       "introDe": "Scheveningen hat eine eigene Stadtteilklinik und liegt inmitten des dichten Netzes von Tierarztpraxen in Den Haag, Hilfe ist daher nie weit entfernt. Örtliche Kliniken koordinieren einen Bereitschaftsdienst außerhalb der Öffnungszeiten über den tierärztlichen Verband Haaglanden, erreichbar über eine einzige regionale Notrufnummer. Für einen echten 24/7-Notfall und eine Überweisungsklinik verfügt die Stadt über eine eigene Tierklinik, eine kurze Fahrt von der Küste entfernt. Seit dem 1. Januar 2026 lautet die regionale Bereitschaftsnummer 0900-2226333.",
       "introNl": "Scheveningen heeft een eigen buurtpraktijk en ligt midden in het dichte netwerk van dierenartspraktijken in Den Haag, hulp is dus nooit ver weg. Lokale klinieken coördineren een wachtdienst buiten openingstijden via de dierenartsenvereniging Haaglanden, bereikbaar via één regionaal noodnummer. Voor een echte 24/7-spoedgeval en doorverwijskliniek heeft de stad een eigen dierenkliniek, een korte rit vanaf de kust. Sinds 1 januari 2026 is het regionale wachtdienstnummer 0900-2226333.",
+      "introIt": "Scheveningen ha un proprio ambulatorio di quartiere e si trova nel cuore della fitta rete di studi veterinari dell'Aia, quindi l'aiuto non è mai lontano. Le cliniche locali coordinano un servizio di guardia fuori orario tramite l'associazione veterinaria Haaglanden, raggiungibile con un unico numero di emergenza regionale. Per una vera emergenza 24/7 e clinica di riferimento, la città ha una propria clinica veterinaria, a breve distanza dalla costa. Dal 1 gennaio 2026 il numero regionale di guardia è 0900-2226333.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Practical Tips for Visiting Scheveningen with a Dog",
@@ -587,10 +650,13 @@
       ],
       "titleDe": "Praktische Tipps für den Besuch von Scheveningen mit Hund",
       "titleNl": "Praktische tips voor een bezoek aan Scheveningen met hond",
+      "titleIt": "Consigli pratici per visitare Scheveningen con il cane",
       "introDe": "Scheveningen ist ein unkomplizierter, hundeliebender Küstenausflug, wenn man die saisonalen Strandregeln einplant. Beachten Sie diese Punkte, bevor Sie aufbrechen.",
       "introNl": "Scheveningen is een probleemloos, hondlievend kustuitje, als je rekening houdt met de seizoensgebonden strandregels. Let op deze punten voordat je vertrekt.",
+      "introIt": "Scheveningen è una gita costiera semplice e amica dei cani, se tieni conto delle regole stagionali sulla spiaggia. Ecco alcuni punti da considerare prima di partire.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Scheveningen",
@@ -624,10 +690,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=De+Pier+Scheveningen",
           "descriptionDe": "Das berühmteste Wahrzeichen der niederländischen Küste, ein langer Pier, der weit über die Nordsee hinausragt, mit Terrassen, Essensständen, einem Riesenrad und Panoramablick zurück zur Küste. Hunde an der Leine sind auf dem Pier-Deck erlaubt, was einen schönen Spaziergang mit Meer auf allen Seiten ergibt. Ein guter Ausflug bei Regen oder Wind, wenn der offene Strand trostlos wirkt.",
           "descriptionNl": "Het bekendste herkenningspunt van de Nederlandse kust, een lange pier die ver de Noordzee in steekt, met terrassen, eetstalletjes, een reuzenrad en panoramisch uitzicht terug op de kust. Honden aan de lijn zijn toegestaan op het pierdek, wat een mooie wandeling oplevert met zee aan alle kanten. Een goed uitje bij regen of wind, wanneer het open strand kaal aanvoelt.",
+          "descriptionIt": "Il simbolo più noto della costa olandese, un lungo molo che si protende nel Mare del Nord, con terrazze, chioschi, una ruota panoramica e vista panoramica sulla costa. I cani al guinzaglio sono ammessi sul ponte del molo, il che offre una bella passeggiata con il mare da ogni lato. Una buona gita quando piove o tira vento, quando la spiaggia aperta sembra spoglia.",
           "petPolicyDe": "Hunde an der Leine auf dem Pier-Deck erlaubt",
           "petPolicyNl": "Honden aan de lijn toegestaan op het pierdek",
+          "petPolicyIt": "Cani al guinzaglio ammessi sul ponte del molo",
           "tipDe": "Halten Sie Hunde in der Menschenmenge an einer kurzen Leine und beachten Sie, dass Fahrgeschäfte und Innenbereiche nicht für Haustiere zugänglich sind.",
-          "tipNl": "Houd honden aan een korte lijn in de drukte en houd er rekening mee dat attracties en binnenruimtes niet toegankelijk zijn voor huisdieren"
+          "tipNl": "Houd honden aan een korte lijn in de drukte en houd er rekening mee dat attracties en binnenruimtes niet toegankelijk zijn voor huisdieren",
+          "tipIt": "Tieni i cani con un guinzaglio corto nella folla e considera che le attrazioni e gli spazi interni non sono accessibili agli animali"
         },
         {
           "name": "SprookjesBeelden aan Zee (sculpture garden)",
@@ -651,10 +720,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=SprookjesBeelden+aan+Zee+Scheveningen",
           "descriptionDe": "Ein bezaubernder Freiluft-Skulpturengarten an der Promenade von Scheveningen, voller humorvoller und leicht surrealer Bronzefiguren des Künstlers Tom Otterness, inspiriert von Märchen und Seefahrergeschichten. Da es sich um eine frei zugängliche Außenterrasse über dem Strand handelt, können Sie sie jederzeit mit einem Hund an der Leine durchwandern. Ein kurzer, kurioser Halt, den auch Kinder lieben.",
           "descriptionNl": "Een charmante buitenbeeldentuin aan de boulevard van Scheveningen, vol humoristische en licht surrealistische bronzen figuren van kunstenaar Tom Otterness, geïnspireerd op sprookjes en zeemansverhalen. Omdat het een vrij toegankelijk buitenterras boven het strand is, kun je er altijd doorheen wandelen met een hond aan de lijn. Een korte, eigenzinnige stop waar ook kinderen dol op zijn.",
+          "descriptionIt": "Un affascinante giardino di sculture all'aperto sul lungomare di Scheveningen, pieno di figure di bronzo umoristiche e leggermente surreali dell'artista Tom Otterness, ispirate a fiabe e racconti marinareschi. Essendo uno spazio esterno liberamente accessibile sopra la spiaggia, puoi sempre attraversarlo con un cane al guinzaglio. Una sosta breve e originale, amata anche dai bambini.",
           "petPolicyDe": "Frei zugänglicher Freiluftgarten; Hunde an der Leine willkommen",
           "petPolicyNl": "Vrij toegankelijke buitentuin; honden aan de lijn welkom",
+          "petPolicyIt": "Giardino esterno liberamente accessibile; cani al guinzaglio benvenuti",
           "tipDe": "Er liegt direkt an der Promenade, kombinieren Sie ihn daher mit einem Spaziergang zum Pier; das Museum Beelden aan Zee selbst lässt jedoch keine Haustiere hinein.",
-          "tipNl": "Het ligt direct aan de boulevard, combineer het dus met een wandeling naar de pier; het museum Beelden aan Zee zelf laat echter geen huisdieren binnen"
+          "tipNl": "Het ligt direct aan de boulevard, combineer het dus met een wandeling naar de pier; het museum Beelden aan Zee zelf laat echter geen huisdieren binnen",
+          "tipIt": "Si trova proprio sul lungomare, quindi abbinalo a una passeggiata fino al molo; il museo Beelden aan Zee vero e proprio, però, non ammette animali al suo interno"
         },
         {
           "name": "Scheveningen Haven (fishing harbour)",
@@ -678,18 +750,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Scheveningen+Haven+Dr+Lelykade",
           "descriptionDe": "Scheveningen ist aus einem Fischerdorf gewachsen, und sein aktiver Hafen ist noch immer ein lebendiges Zentrum aus Kuttern, Kais und Fischrestaurants, ein völliger Szenenwechsel gegenüber der Strandpromenade. Die Kais entlang der Dr. Lelykade eignen sich für einen angenehmen Spaziergang an der Leine, mit Meeresgeruch und dem Treiben der Flotte. Ein leichter Spaziergang oder eine kurze Fahrt mit der Straßenbahn 11 von der Küste.",
           "descriptionNl": "Scheveningen is gegroeid uit een vissersdorp, en de actieve haven is nog steeds een levendig centrum van kotters, kades en visrestaurants, een compleet ander decor dan de strandboulevard. De kades langs de Dr. Lelykade lenen zich voor een aangename wandeling aan de lijn, met zeegeur en de bedrijvigheid van de vloot. Een makkelijke wandeling of korte rit met tram 11 vanaf de kust.",
+          "descriptionIt": "Scheveningen è cresciuta da un villaggio di pescatori, e il porto attivo è ancora un centro vivace di pescherecci, banchine e ristoranti di pesce, uno scenario completamente diverso dal lungomare balneare. Le banchine lungo la Dr. Lelykade si prestano a una piacevole passeggiata al guinzaglio, con profumo di mare e il via vai della flotta. Una passeggiata facile o un breve tragitto in tram 11 dalla costa.",
           "petPolicyDe": "Offene Kaianlagen; Hunde an der Leine im Freien willkommen",
           "petPolicyNl": "Open kadegebied; honden aan de lijn welkom buiten",
+          "petPolicyIt": "Area di banchina aperta; cani al guinzaglio benvenuti all'aperto",
           "tipDe": "Viele Fischrestaurants am Hafen haben Außenterrassen, auf denen ein Hund an der Leine willkommen ist; fragen Sie nach, bevor Sie sich drinnen hinsetzen.",
-          "tipNl": "Veel visrestaurants bij de haven hebben buitenterrassen waar een hond aan de lijn welkom is; vraag ernaar voordat je binnen gaat zitten"
+          "tipNl": "Veel visrestaurants bij de haven hebben buitenterrassen waar een hond aan de lijn welkom is; vraag ernaar voordat je binnen gaat zitten",
+          "tipIt": "Molti ristoranti di pesce vicino al porto hanno terrazze esterne dove un cane al guinzaglio è benvenuto; chiedi prima di sederti dentro"
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Scheveningen",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Scheveningen",
+      "titleIt": "Attrazioni pet-friendly a Scheveningen",
       "introDe": "Selbst in den Sommermonaten, wenn der zentrale Strand für Hunde gesperrt ist, gibt es in Scheveningen viel an der Leine zu erleben. Die kilometerlange Promenade, der markante Pier, der aktive Fischereihafen und ein Freiluft-Skulpturengarten sind alle mit einem wohlerzogenen Hund an der Seite begehbar.",
       "introNl": "Zelfs in de zomermaanden, als het centrale strand voor honden gesloten is, valt er in Scheveningen veel te beleven aan de lijn. De kilometerslange boulevard, de markante pier, de actieve vissershaven en een buitenbeeldentuin zijn allemaal te belopen met een goed opgevoede hond aan je zijde.",
+      "introIt": "Anche nei mesi estivi, quando la spiaggia centrale è chiusa ai cani, a Scheveningen c'è molto da fare al guinzaglio. Il lungomare lungo chilometri, il caratteristico molo, il porto peschereccio attivo e un giardino di sculture all'aperto si possono visitare tutti con un cane ben educato al tuo fianco.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Dog Sitters & Boarding in Scheveningen",
@@ -723,10 +801,13 @@
           "googleMapsUrl": "",
           "descriptionDe": "Eine etablierte Buchungsplattform, die Besitzer mit lokalen Betreuungspersonen, Gassigehern und Unterbringung zu Hause in ganz Den Haag verbindet, einschließlich Scheveningen. Betreuungspersonen werden geprüft, und jede Buchung umfasst Updates und eine Servicegarantie. Viele lokale Betreuungspersonen führen Hunde gerne nach Scheveningen, zum Zuiderstrand und zum Hundestrand bei Kijkduin aus.",
           "descriptionNl": "Een gevestigd boekingsplatform dat eigenaren verbindt met lokale oppassers, uitlaters en logeeropvang thuis in heel Den Haag, inclusief Scheveningen. Oppassers worden gecontroleerd, en elke boeking omvat updates en een servicegarantie. Veel lokale oppassers laten honden graag uit naar Scheveningen, het Zuiderstrand en het hondenstrand bij Kijkduin.",
+          "descriptionIt": "Una piattaforma di prenotazione consolidata che mette in contatto i proprietari con sitter locali, dog walker e pernottamenti a casa in tutta l'Aia, inclusa Scheveningen. I sitter vengono controllati, e ogni prenotazione include aggiornamenti e una garanzia di servizio. Molti sitter locali portano volentieri i cani a Scheveningen, allo Zuiderstrand e alla spiaggia per cani di Kijkduin.",
           "petPolicyDe": "Hunde und Katzen; Betreuung, Tagesbetreuung und Gassigehen durch geprüfte lokale Betreuungspersonen",
           "petPolicyNl": "Honden en katten; oppas, dagopvang en uitlaten door gecontroleerde lokale oppassers",
+          "petPolicyIt": "Cani e gatti; pensione, asilo diurno e passeggiate con sitter locali verificati",
           "tipDe": "Buchen Sie im Sommer einige Tage im Voraus, wenn die Nachfrage am höchsten ist, und vereinbaren Sie ein kurzes Kennenlerntreffen, damit sich Ihr Hund mit der Betreuungsperson wohlfühlt.",
-          "tipNl": "Boek in de zomer een paar dagen van tevoren, wanneer de vraag het hoogst is, en plan een korte kennismaking zodat je hond zich op zijn gemak voelt bij de oppasser"
+          "tipNl": "Boek in de zomer een paar dagen van tevoren, wanneer de vraag het hoogst is, en plan een korte kennismaking zodat je hond zich op zijn gemak voelt bij de oppasser",
+          "tipIt": "Prenota qualche giorno prima in estate, quando la domanda è più alta, e organizza un breve incontro conoscitivo così il tuo cane si sente a suo agio con il sitter"
         },
         {
           "name": "TrustedHousesitters (The Hague)",
@@ -750,18 +831,24 @@
           "googleMapsUrl": "",
           "descriptionDe": "Eine internationale Mitgliedschaftsplattform, die Reisende mit Betreuungspersonen zusammenbringt, die entweder in Ihrer Unterkunft wohnen oder sich um Ihr Haustier in ihrem eigenen Zuhause kümmern, verfügbar in ganz Den Haag. Sie eignet sich für längere Aufenthalte, bei denen Ihr Hund seine Routine lieber in einer häuslichen Umgebung beibehält. Profile enthalten Bewertungen und Verifizierung, damit Sie mit Vertrauen auswählen können.",
           "descriptionNl": "Een internationaal lidmaatschapsplatform dat reizigers koppelt aan oppassers die ofwel bij jou logeren, ofwel voor je huisdier zorgen in hun eigen huis, beschikbaar in heel Den Haag. Het is geschikt voor langere verblijven waarbij je hond zijn routine liever behoudt in een huiselijke omgeving. Profielen bevatten beoordelingen en verificatie, zodat je met vertrouwen kunt kiezen.",
+          "descriptionIt": "Una piattaforma internazionale a iscrizione che mette in contatto i viaggiatori con sitter che vengono a stare da te oppure ospitano il tuo animale a casa loro, disponibile in tutta l'Aia. È adatta a soggiorni più lunghi in cui preferisci che il tuo cane mantenga la sua routine in un ambiente domestico. I profili includono recensioni e verifica, così puoi scegliere con fiducia.",
           "petPolicyDe": "Haustier- und Haussitting zu Hause; Hunde und Katzen",
           "petPolicyNl": "Huisdier- en huisoppas thuis; honden en katten",
+          "petPolicyIt": "Pet e house sitting a domicilio; cani e gatti",
           "tipDe": "Die Mitgliedschaft ist jährlich, sie eignet sich daher am meisten für längere Reisen oder wiederkehrende Besucher statt für einen einzelnen Nachmittag.",
-          "tipNl": "Het lidmaatschap is jaarlijks, dus geschikt voor langere reizen of terugkerende bezoekers, niet voor een enkele middag"
+          "tipNl": "Het lidmaatschap is jaarlijks, dus geschikt voor langere reizen of terugkerende bezoekers, niet voor een enkele middag",
+          "tipIt": "L'iscrizione è annuale, quindi adatta a viaggi più lunghi o visitatori abituali, non per un singolo pomeriggio"
         }
       ],
       "titleDe": "Hundebetreuung & Unterbringung in Scheveningen",
       "titleNl": "Hondenoppas & logeeropvang in Scheveningen",
+      "titleIt": "Dog sitting e pensioni a Scheveningen",
       "introDe": "Wenn Sie einige Stunden für ein Museum oder ein Restaurant benötigen, das keine Hunde erlaubt, verfügt Den Haag über eine aktive Gemeinschaft geprüfter Betreuungspersonen und Gassigeher, die online buchbar sind. Dies sind Online-Plattformen und keine physischen Adressen, arrangieren Sie sie daher im Voraus und treffen Sie die Betreuungsperson, bevor Sie Ihren Hund übergeben.",
       "introNl": "Als je een paar uur nodig hebt voor een museum of restaurant dat geen honden toelaat, heeft Den Haag een actieve gemeenschap van gecontroleerde oppassers en uitlaters die online te boeken zijn. Dit zijn onlineplatforms en geen fysieke adressen, regel het dus van tevoren en ontmoet de oppasser voordat je je hond overdraagt.",
+      "introIt": "Se ti servono un paio d'ore per un museo o un ristorante che non ammette cani, l'Aia ha una comunità attiva di sitter e dog walker verificati prenotabili online. Sono piattaforme online e non indirizzi fisici, quindi organizzati in anticipo e incontra il sitter prima di affidargli il tuo cane.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

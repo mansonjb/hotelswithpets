@@ -40,12 +40,16 @@
           "tipPt": "Reserve com antecedência mesmo para a esplanada, a sala de jantar tem apenas cerca de 25 lugares e os almoços de fim de semana enchem três dias antes, o pessoal confirma a pedido os lugares pet-friendly.",
           "descriptionDe": "Die gefeiertste moderne Crêperie von Rennes, untergebracht in einem Steingebäude aus dem 17. Jahrhundert, zwei Minuten von der Kathedrale Saint-Pierre entfernt. Küchenchefin Charlotte Pawlowski interpretiert die bretonische Galette mit kreativen saisonalen Belägen (Foie gras, Langustinen, Jakobsmuscheln) neben traditionellen Kombinationen neu. Hunde sind auf der kleinen Terrasse vor dem Lokal willkommen, und das Personal bringt gern eine Wasserschale.",
           "descriptionNl": "De meest geroemde moderne crêperie van Rennes, gevestigd in een stenen gebouw uit de 17e eeuw, twee minuten van de kathedraal Saint-Pierre. Chef-kok Charlotte Pawlowski geeft de Bretonse galette een nieuwe draai met creatieve seizoensgebonden vullingen (foie gras, langoustines, sint-jakobsschelpen) naast traditionele combinaties. Honden zijn welkom op het kleine terras voor de deur, en het personeel brengt graag een waterbak.",
+          "descriptionIt": "La crêperie moderna più celebrata di Rennes, in un edificio in pietra del XVII secolo, a due minuti dalla cattedrale Saint-Pierre. La chef Charlotte Pawlowski reinventa la galette bretone con farciture creative di stagione (foie gras, scampi, capesante) accanto agli abbinamenti tradizionali. I cani sono benvenuti sulla piccola terrazza davanti all'ingresso, e il personale porta volentieri una ciotola d'acqua.",
           "petPolicyDe": "Hunde auf der Außenterrasse willkommen",
           "petPolicyNl": "Honden welkom op het buitenterras",
+          "petPolicyIt": "Cani benvenuti sulla terrazza esterna",
           "mustTryDe": "Galette Saint-Georges, Kouign-amann, Bolée de cidre brut",
           "mustTryNl": "Galette Saint-Georges, kouign-amann, bolée de cidre brut",
+          "mustTryIt": "Galette Saint-Georges, kouign-amann, bolée de cidre brut",
           "tipDe": "Auch für die Terrasse im Voraus reservieren, der Speisesaal hat nur etwa 25 Plätze und ist am Wochenende zur Mittagszeit drei Tage im Voraus ausgebucht. Das Personal bestätigt auf Anfrage haustierfreundliche Plätze.",
-          "tipNl": "Reserveer ook voor het terras van tevoren, de eetzaal heeft maar zo'n 25 plaatsen en zit in het weekend rond de lunch drie dagen van tevoren al vol. Het personeel bevestigt op verzoek een huisdiervriendelijke plek."
+          "tipNl": "Reserveer ook voor het terras van tevoren, de eetzaal heeft maar zo'n 25 plaatsen en zit in het weekend rond de lunch drie dagen van tevoren al vol. Het personeel bevestigt op verzoek een huisdiervriendelijke plek.",
+          "tipIt": "Prenota in anticipo anche per la terrazza, la sala ha solo circa 25 posti e nel weekend a pranzo si riempie già tre giorni prima. Il personale conferma su richiesta un tavolo pet-friendly."
         },
         {
           "name": "Le Café Breton",
@@ -74,12 +78,16 @@
           "tipPt": "A esplanada fica à sombra a partir do final da manhã, perfeita para um almoço bretão de verão quente, as mesas da frente apanham forte sol da tarde e aquecem os cães depressa.",
           "descriptionDe": "Ein bistronomisches Restaurant in einem Fachwerkhaus unweit der Place Sainte-Anne, das ausschließlich bei bretonischen Erzeugern einkauft (Jakobsmuscheln aus der Bucht von Saint-Brieuc, Pré-Salé-Lamm vom Mont-Saint-Michel, Austern aus Cancale). Die Sommerterrasse in der Fußgängerzone akzeptiert angeleinte Hunde, und das Personal bringt Wasserschalen ohne Aufforderung.",
           "descriptionNl": "Een bistronomisch restaurant in een vakwerkhuis vlak bij de Place Sainte-Anne, dat uitsluitend inkoopt bij Bretonse producenten (sint-jakobsschelpen uit de baai van Saint-Brieuc, pré-salé-lamsvlees van de Mont-Saint-Michel, oesters uit Cancale). Het zomerterras in het voetgangersgebied accepteert aangelijnde honden, en het personeel brengt ongevraagd waterbakken.",
+          "descriptionIt": "Un ristorante bistronomico in una casa a graticcio vicino a Place Sainte-Anne, che si rifornisce esclusivamente da produttori bretoni (capesante della baia di Saint-Brieuc, agnello pré-salé del Mont-Saint-Michel, ostriche di Cancale). La terrazza estiva nella zona pedonale accetta cani al guinzaglio, e il personale porta ciotole d'acqua senza nemmeno chiederlo.",
           "petPolicyDe": "Hunde auf der sommerlichen Außenterrasse willkommen",
           "petPolicyNl": "Honden welkom op het zomerse buitenterras",
+          "petPolicyIt": "Cani benvenuti sulla terrazza estiva",
           "mustTryDe": "Saint-Jacques de Saint-Brieuc, Agneau de pré-salé, Huîtres de Cancale",
           "mustTryNl": "Saint-Jacques de Saint-Brieuc, agneau de pré-salé, huîtres de Cancale",
+          "mustTryIt": "Saint-Jacques de Saint-Brieuc, agneau de pré-salé, huîtres de Cancale",
           "tipDe": "Die Terrasse liegt ab dem späten Vormittag im Schatten, ideal für ein sommerliches bretonisches Mittagessen an heißen Tagen. Die vorderen Tische bekommen am Nachmittag starke Sonne und heizen Hunde schnell auf.",
-          "tipNl": "Het terras ligt vanaf de late ochtend in de schaduw, ideaal voor een zomerse Bretonse lunch op warme dagen. De voorste tafels krijgen 's middags felle zon en warmen honden snel op."
+          "tipNl": "Het terras ligt vanaf de late ochtend in de schaduw, ideaal voor een zomerse Bretonse lunch op warme dagen. De voorste tafels krijgen 's middags felle zon en warmen honden snel op.",
+          "tipIt": "La terrazza è all'ombra dalla tarda mattinata, ideale per un pranzo bretone estivo nelle giornate calde. I tavoli davanti prendono il sole pieno nel pomeriggio e scaldano in fretta i cani."
         },
         {
           "name": "Le Café du Théâtre",
@@ -108,22 +116,29 @@
           "tipPt": "A esplanada fica de frente para o Parlement de Bretagne iluminado à noite, a hora do aperitivo antes do jantar (18:00-20:00) é o momento mais cativante, com o pôr do sol sobre a fachada de arenito.",
           "descriptionDe": "Eine historische Café-Brasserie gegenüber dem Opernhaus an der monumentalen Place du Parlement de Bretagne, seit 1860 in Betrieb und seit Langem Treffpunkt für Richter und Politiker aus Rennes. Die weitläufige Außenterrasse auf dem Platz ist einer der besten Orte der Stadt zum Leute-Beobachten, und angeleinte Hunde sind an jedem Außentisch willkommen, Wasserschalen werden auf Wunsch bereitgestellt.",
           "descriptionNl": "Een historische café-brasserie tegenover de opera aan het monumentale Place du Parlement de Bretagne, in bedrijf sinds 1860 en al lang het trefpunt van rechters en politici uit Rennes. Het weidse buitenterras op het plein is een van de beste plekken van de stad om mensen te kijken, en aangelijnde honden zijn welkom aan elke buitentafel, waterbakken worden op verzoek gebracht.",
+          "descriptionIt": "Uno storico caffè-brasserie di fronte all'opera, sulla monumentale Place du Parlement de Bretagne, attivo dal 1860 e da sempre punto d'incontro di giudici e politici di Rennes. L'ampia terrazza esterna sulla piazza è uno dei posti migliori della città per osservare la gente, e i cani al guinzaglio sono benvenuti a ogni tavolo esterno, le ciotole d'acqua arrivano su richiesta.",
           "petPolicyDe": "Hunde auf der Außenterrasse mit Blick auf das Parlement willkommen",
           "petPolicyNl": "Honden welkom op het buitenterras met uitzicht op het Parlement",
+          "petPolicyIt": "Cani benvenuti sulla terrazza esterna con vista sul Parlamento",
           "mustTryDe": "Plateau de fruits de mer, Andouille de Guéméné, Far breton",
           "mustTryNl": "Plateau de fruits de mer, andouille de Guéméné, far breton",
+          "mustTryIt": "Plateau de fruits de mer, andouille de Guéméné, far breton",
           "tipDe": "Die Terrasse blickt auf das nachts beleuchtete Parlement de Bretagne, die Aperitif-Zeit vor dem Abendessen (18:00-20:00 Uhr) ist der stimmungsvollste Moment mit dem Sonnenuntergang auf der Sandsteinfassade.",
-          "tipNl": "Het terras kijkt uit op het 's nachts verlichte Parlement de Bretagne, de aperitieftijd voor het avondeten (18:00-20:00 uur) is het sfeervolste moment, met de zonsondergang op de zandstenen gevel."
+          "tipNl": "Het terras kijkt uit op het 's nachts verlichte Parlement de Bretagne, de aperitieftijd voor het avondeten (18:00-20:00 uur) is het sfeervolste moment, met de zonsondergang op de zandstenen gevel.",
+          "tipIt": "La terrazza guarda verso il Parlement de Bretagne illuminato di sera, l'ora dell'aperitivo prima di cena (18:00-20:00) è il momento più suggestivo, con il tramonto sulla facciata di arenaria."
         }
       ],
       "titlePt": "Restaurantes pet-friendly em Rennes",
       "introPt": "A cena gastronómica de Rennes é dominada pela tradição bretã da crêperie, pelo movimentado mercado das Halles Centrales na Place Honoré Commeurec e pelas ruas reconstruídas em tabique em torno da Rue Saint-Michel (conhecida localmente por Rue de la Soif). O costume de hospitalidade nacional francês acolhe cães com trela na maioria das esplanadas, e um punhado de restaurantes centrais aceita também cães calmos no interior fora de época. As especialidades bretãs a procurar são as galettes au sarrasin, os doces kouign-amann, as ostras frescas de Cancale e a cidra da Bretanha em tigelas de barro.",
       "titleDe": "Hundefreundliche Restaurants in Rennes",
       "titleNl": "Hondvriendelijke restaurants in Rennes",
+      "titleIt": "Ristoranti pet-friendly a Rennes",
       "introDe": "Die Gastronomieszene von Rennes wird von der bretonischen Crêperie-Tradition geprägt, von der belebten Markthalle Halles Centrales an der Place Honoré Commeurec und von den wiederaufgebauten Fachwerkstraßen rund um die Rue Saint-Michel (im Volksmund Rue de la Soif genannt). Der französische Gastfreundschaftsbrauch heißt angeleinte Hunde auf den meisten Außenterrassen willkommen, und einige zentrale Restaurants akzeptieren außerhalb der Saison auch ruhige Hunde im Innenbereich. Die bretonischen Spezialitäten, nach denen man Ausschau halten sollte, sind Galettes au sarrasin, Kouign-amann-Gebäck, frische Austern aus Cancale und bretonischer Cidre in Tonschalen.",
       "introNl": "De gastronomiescene van Rennes wordt gevormd door de Bretonse crêperietraditie, door de levendige markthal Halles Centrales aan de Place Honoré Commeurec, en door de herbouwde vakwerkstraten rond de Rue Saint-Michel (in de volksmond Rue de la Soif genoemd). De Franse gastvrijheid verwelkomt aangelijnde honden op de meeste buitenterrassen, en sommige centrale restaurants accepteren buiten het hoogseizoen ook rustige honden binnen. De Bretonse specialiteiten om naar uit te kijken zijn galettes au sarrasin, kouign-amann-gebak, verse oesters uit Cancale en Bretonse cidre in aardewerken schaaltjes.",
+      "introIt": "La scena gastronomica di Rennes è plasmata dalla tradizione bretone delle crêperie, dal vivace mercato coperto Halles Centrales su Place Honoré Commeurec, e dalle vie a graticcio ricostruite intorno a Rue Saint-Michel (soprannominata Rue de la Soif). L'ospitalità francese accoglie cani al guinzaglio sulla maggior parte delle terrazze esterne, e alcuni ristoranti centrali accettano anche cani tranquilli all'interno fuori dall'alta stagione. Le specialità bretoni da assaggiare sono le galette au sarrasin, i dolci kouign-amann, le ostriche fresche di Cancale e il sidro bretone servito in ciotole di terracotta.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks & Green Spaces in Rennes",
@@ -155,10 +170,13 @@
           "tipPt": "A roseira atinge o auge em meados de junho, mas para um passeio mais tranquilo com um cão evite a faixa das 15:00-17:00 ao fim de semana, quando as famílias de Rennes e os grupos turísticos convergem nos relvados centrais.",
           "descriptionDe": "Der beliebte 10 Hektar große Zentralpark von Rennes, im 19. Jahrhundert von Denis und Eugène Bühler angelegt (dieselben Gestalter wie beim Parc Borély in Marseille), mit einem formalen französischen Garten, einem englischen Landschaftsgarten, einem Rosengarten mit 2.000 Sorten und einer Voliere. Angeleinte Hunde sind auf allen Hauptwegen und den als zugänglich markierten Rasenflächen willkommen. Alte Platanen spenden im Sommer tiefen Schatten, und die erhöhte Terrasse bietet einen Panoramablick über die Dächer der Kathedrale.",
           "descriptionNl": "Het populaire, 10 hectare grote centrale park van Rennes, aangelegd in de 19e eeuw door Denis en Eugène Bühler (dezelfde ontwerpers als van het Parc Borély in Marseille), met een formele Franse tuin, een Engelse landschapstuin, een rozentuin met 2.000 soorten en een volière. Aangelijnde honden zijn welkom op alle hoofdpaden en de als toegankelijk gemarkeerde grasvelden. Oude platanen geven in de zomer diepe schaduw, en het verhoogde terras biedt een panoramisch uitzicht over de daken naar de kathedraal.",
+          "descriptionIt": "Il parco centrale più amato di Rennes, 10 ettari realizzati nel XIX secolo da Denis ed Eugène Bühler (gli stessi architetti del Parc Borély a Marsiglia), con un giardino francese formale, un giardino paesaggistico all'inglese, un roseto con 2.000 varietà e una voliera. I cani al guinzaglio sono benvenuti su tutti i viali principali e sui prati segnalati come accessibili. I vecchi platani offrono ombra fitta d'estate, e la terrazza rialzata regala una vista panoramica sui tetti fino alla cattedrale.",
           "petPolicyDe": "Angeleinte Hunde willkommen auf Wegen und ausgewiesenen zugänglichen Rasenflächen",
           "petPolicyNl": "Aangelijnde honden welkom op paden en aangewezen toegankelijke grasvelden",
+          "petPolicyIt": "Cani al guinzaglio benvenuti su viali e prati accessibili designati",
           "tipDe": "Der Rosengarten blüht Mitte Juni am schönsten, für einen ruhigeren Spaziergang mit Hund aber das Wochenendfenster 15:00-17:00 Uhr meiden, wenn Familien aus Rennes und Reisegruppen auf den zentralen Rasenflächen zusammenkommen.",
-          "tipNl": "De rozentuin staat medio juni op zijn mooist, maar vermijd voor een rustigere wandeling met je hond het weekendvenster 15:00-17:00 uur, wanneer gezinnen uit Rennes en groepen toeristen samenkomen op de centrale grasvelden."
+          "tipNl": "De rozentuin staat medio juni op zijn mooist, maar vermijd voor een rustigere wandeling met je hond het weekendvenster 15:00-17:00 uur, wanneer gezinnen uit Rennes en groepen toeristen samenkomen op de centrale grasvelden.",
+          "tipIt": "Il roseto è al suo meglio a metà giugno, ma per una passeggiata più tranquilla con il cane evita la fascia del weekend 15:00-17:00, quando famiglie di Rennes e gruppi di turisti si radunano sui prati centrali."
         },
         {
           "name": "Étang d'Apigné",
@@ -182,10 +200,13 @@
           "tipPt": "Estacione no Parking de l'Étang d'Apigné e faça o circuito no sentido dos ponteiros do relógio a partir do lado sul, a margem oeste é sombreada por bosque e fica 2-3 °C mais fresca do que o centro nas tardes de agosto.",
           "descriptionDe": "Ein 13 Hektar großes Naturschutzgebiet mit See am westlichen Stadtrand von Rennes, umgeben von einem 4 km langen Rundweg durch Wald und Wiese. Das Schutzgebiet ist der nächstgelegene natürliche Wasserzugang vom Stadtzentrum aus mit dem Bus (Linie C4) und ein beliebtes Wochenendziel für Hundebesitzer. Der Hauptbadebereich ist eingezäunt und im Sommer für Hunde gesperrt, aber der breitere Uferweg und das bewaldete Westufer sind ganzjährig für angeleinte Hunde geeignet.",
           "descriptionNl": "Een 13 hectare groot natuurreservaat met meer aan de westrand van Rennes, omringd door een rondwandeling van 4 km door bos en weide. Het reservaat is het dichtstbijzijnde natuurlijke wateroord vanuit het centrum met de bus (lijn C4) en een populaire weekendbestemming voor hondenbezitters. Het hoofdzwemgebied is omheind en 's zomers gesloten voor honden, maar het bredere oeverpad en de bosrijke westoever zijn het hele jaar door geschikt voor aangelijnde honden.",
+          "descriptionIt": "Una riserva naturale di 13 ettari con lago sul margine ovest di Rennes, circondata da un anello di 4 km tra bosco e prato. La riserva è il punto d'acqua naturale più vicino dal centro con l'autobus (linea C4) ed è una meta molto amata nel weekend dai proprietari di cani. L'area di balneazione principale è recintata e chiusa ai cani d'estate, ma il più ampio sentiero rivierasco e la sponda boscosa a ovest sono adatti tutto l'anno ai cani al guinzaglio.",
           "petPolicyDe": "Angeleinte Hunde ganzjährig auf dem Uferweg; Hunde im Hauptbadebereich verboten",
           "petPolicyNl": "Aangelijnde honden het hele jaar door welkom op het oeverpad; honden verboden in het hoofdzwemgebied",
+          "petPolicyIt": "Cani al guinzaglio benvenuti tutto l'anno sul sentiero rivierasco; cani vietati nell'area di balneazione principale",
           "tipDe": "Am Parkplatz Parking de l'Étang d'Apigné parken und die Runde von der Südseite aus im Uhrzeigersinn gehen, das Westufer liegt im Waldschatten und ist an Augustnachmittagen 2-3 °C kühler als das Zentrum.",
-          "tipNl": "Parkeer bij de Parking de l'Étang d'Apigné en loop de ronde vanaf de zuidkant met de klok mee, de westoever ligt in de schaduw van het bos en is op augustusmiddagen 2-3 °C koeler dan het centrum."
+          "tipNl": "Parkeer bij de Parking de l'Étang d'Apigné en loop de ronde vanaf de zuidkant met de klok mee, de westoever ligt in de schaduw van het bos en is op augustusmiddagen 2-3 °C koeler dan het centrum.",
+          "tipIt": "Parcheggia al Parking de l'Étang d'Apigné e percorri l'anello partendo da sud in senso orario, la sponda ovest è all'ombra del bosco e nei pomeriggi di agosto è più fresca di 2-3 °C rispetto al centro."
         },
         {
           "name": "Bois de Soeuvres",
@@ -208,20 +229,26 @@
           "tipPt": "Leve prevenção de carraças, o Bois de Soeuvres tem populações confirmadas de carraça Ixodes ricinus de abril a outubro, examine bem o seu cão depois de cada passeio.",
           "descriptionDe": "Ein 130 Hektar großes Schutzwaldgebiet am südlichen Rand von Rennes Métropole mit einem 12 km langen Netz markierter Waldwege durch Eichen-, Buchen- und Kastanienhaine. Angeleinte Hunde sind auf allen markierten Wegen willkommen, Freilauf wird in den weiter entfernten Bereichen abseits von Picknickzonen und Reitzentrum geduldet. Der Wald ist das wichtigste Wochenendausflugsziel der Stadt.",
           "descriptionNl": "Een 130 hectare groot beschermd bosgebied aan de zuidrand van Rennes Métropole, met een netwerk van 12 km gemarkeerde bospaden door eiken-, beuken- en kastanjebossen. Aangelijnde honden zijn welkom op alle gemarkeerde paden, loslopen wordt getolereerd in de verder gelegen delen weg van de picknickzones en het maneg. Het bos is de belangrijkste weekendbestemming van de stad.",
+          "descriptionIt": "Un'area boschiva protetta di 130 ettari sul margine sud di Rennes Métropole, con una rete di 12 km di sentieri segnalati tra querce, faggi e castagni. I cani al guinzaglio sono benvenuti su tutti i sentieri segnalati, il libero è tollerato nelle zone più interne lontano dalle aree picnic e dal maneggio. Il bosco è la principale meta del weekend della città.",
           "petPolicyDe": "Angeleinte Hunde auf markierten Wegen; Freilauf abseits von Picknick- und Reitbereichen geduldet",
           "petPolicyNl": "Aangelijnde honden op gemarkeerde paden; loslopen getolereerd weg van picknick- en manegegebieden",
+          "petPolicyIt": "Cani al guinzaglio sui sentieri segnalati; libero tollerato lontano dalle aree picnic e dal maneggio",
           "tipDe": "Zeckenschutz mitbringen, im Bois de Soeuvres wurde von April bis Oktober das Vorkommen von Ixodes ricinus bestätigt, den Hund nach jedem Spaziergang gründlich absuchen.",
-          "tipNl": "Neem tekenbescherming mee, in het Bois de Soeuvres is van april tot oktober de aanwezigheid van Ixodes ricinus bevestigd, controleer je hond na elke wandeling grondig."
+          "tipNl": "Neem tekenbescherming mee, in het Bois de Soeuvres is van april tot oktober de aanwezigheid van Ixodes ricinus bevestigd, controleer je hond na elke wandeling grondig.",
+          "tipIt": "Porta una protezione antizecche, nel Bois de Soeuvres la presenza di Ixodes ricinus è confermata da aprile a ottobre, controlla bene il cane dopo ogni passeggiata."
         }
       ],
       "titlePt": "Parques e espaços verdes para cães em Rennes",
       "introPt": "Rennes é invulgarmente verde para uma capital regional francesa, com o Parc du Thabor (10 hectares mesmo no centro), o arborizado Bois de Soeuvres na orla sul e a reserva do lago Étang d'Apigné a oeste, formando um trio generoso de opções para passear o cão. A cidade mantém uma rede de canisettes vedadas (zonas sem trela) nos bairros residenciais, embora o passeio com trela seja o habitual nos grandes parques. O caminho de sirga do rio Vilaine atravessa toda a cidade e é um dos passeios planos longos mais fáceis para cães idosos ou com pouca mobilidade.",
       "titleDe": "Hundefreundliche Parks & Grünflächen in Rennes",
       "titleNl": "Hondvriendelijke parken & groengebieden in Rennes",
+      "titleIt": "Parchi per cani e spazi verdi pet-friendly a Rennes",
       "introDe": "Rennes ist für eine französische Regionalhauptstadt ungewöhnlich grün: Der Parc du Thabor (10 Hektar mitten im Zentrum), der bewaldete Bois de Soeuvres am südlichen Stadtrand und das Naturschutzgebiet am Étang d'Apigné im Westen bilden zusammen ein großzügiges Trio an Gassi-Möglichkeiten. Die Stadt betreibt in Wohnvierteln ein Netz eingezäunter Canisettes (Freilaufzonen), auch wenn in den großen Parks grundsätzlich Leinenpflicht gilt. Der Uferweg entlang der Vilaine durchquert die gesamte Stadt und ist einer der einfachsten langen, flachen Spaziergänge für ältere oder wenig bewegliche Hunde.",
       "introNl": "Rennes is ongewoon groen voor een Franse regionale hoofdstad: het Parc du Thabor (10 hectare midden in het centrum), het bosrijke Bois de Soeuvres aan de zuidrand en het natuurreservaat bij de Étang d'Apigné in het westen vormen samen een rijk trio aan uitlaatmogelijkheden. De stad beheert in woonwijken een netwerk van omheinde canisettes (losloopzones), ook al geldt in de grote parken in principe aanlijnplicht. Het oeverpad langs de Vilaine doorkruist de hele stad en is een van de makkelijkste lange, vlakke wandelingen voor oudere of minder mobiele honden.",
+      "introIt": "Rennes è insolitamente verde per una capitale regionale francese: il Parc du Thabor (10 ettari nel cuore del centro), il boscoso Bois de Soeuvres sul margine sud e la riserva naturale dell'Étang d'Apigné a ovest formano insieme un ricco trio di possibilità per uscire con il cane. La città gestisce nei quartieri residenziali una rete di canisette recintate (aree sgambamento), anche se nei grandi parchi vige in linea di massima l'obbligo di guinzaglio. Il sentiero lungo la Vilaine attraversa tutta la città ed è una delle passeggiate lunghe e pianeggianti più comode per cani anziani o meno mobili.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Getting Around Rennes with a Dog",
@@ -252,10 +279,13 @@
           "tipPt": "Compre um Pass STAR de 1 dia em qualquer máquina de venda do metro e valide uma vez ao embarcar, o açaime raramente é verificado na prática mas deve ir colocado no cão ou ser transportado.",
           "descriptionDe": "STAR (Service des Transports de l'Agglomération Rennaise) betreibt die zwei fahrerlosen Metrolinien der Stadt (Linie A Nordost-Südwest; Linie B 2022 eröffnet, Nordwest-Südost) sowie ein Netz von 134 Buslinien. Kleine Hunde in Transportboxen reisen kostenlos; größere Hunde reisen angeleint und mit Maulkorb zum Fahrpreis. Die Metro verkehrt in kurzen Taktzeiten (alle 1-2 Minuten in Stoßzeiten), ist barrierefrei und in der Praxis netzweit hundetolerant.",
           "descriptionNl": "STAR (Service des Transports de l'Agglomération Rennaise) exploiteert de twee automatische metrolijnen van de stad (lijn A noordoost-zuidwest; lijn B geopend in 2022, noordwest-zuidoost) en een net van 134 buslijnen. Kleine honden in draagtassen reizen gratis; grotere honden reizen aangelijnd en met muilkorf tegen het gewone tarief. De metro rijdt met korte intervallen (elke 1-2 minuten op de spits), is toegankelijk en in de praktijk stadsbreed hondentolerant.",
+          "descriptionIt": "La STAR (Service des Transports de l'Agglomération Rennaise) gestisce le due linee di metropolitana automatica della città (linea A nord-est/sud-ovest; linea B aperta nel 2022, nord-ovest/sud-est) e una rete di 134 linee di autobus. I cani piccoli in borsa da trasporto viaggiano gratis; i cani più grandi viaggiano al guinzaglio e con museruola a tariffa normale. La metro passa a intervalli brevi (ogni 1-2 minuti nelle ore di punta), è accessibile e in pratica tollerante ai cani in tutta la città.",
           "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde mit Leine und Maulkorb zum Fahrpreis",
           "petPolicyNl": "Kleine honden in draagtas gratis; grotere honden met lijn en muilkorf tegen het gewone tarief",
+          "petPolicyIt": "Cani piccoli in borsa da trasporto gratis; cani più grandi con guinzaglio e museruola a tariffa normale",
           "tipDe": "An jedem Metro-Automaten ein Tagesticket Pass STAR kaufen und beim Einsteigen einmal entwerten, der Maulkorb wird in der Praxis selten kontrolliert, muss aber am Hund oder mitgeführt werden.",
-          "tipNl": "Koop bij elke metroautomaat een dagticket Pass STAR en stempel het bij het instappen één keer af, de muilkorf wordt in de praktijk zelden gecontroleerd, maar moet wel om de hond zitten of meegedragen worden."
+          "tipNl": "Koop bij elke metroautomaat een dagticket Pass STAR en stempel het bij het instappen één keer af, de muilkorf wordt in de praktijk zelden gecontroleerd, maar moet wel om de hond zitten of meegedragen worden.",
+          "tipIt": "Compra un biglietto giornaliero Pass STAR a qualsiasi distributore della metro e obliteralo una sola volta al primo ingresso, la museruola in pratica viene controllata di rado, ma deve comunque essere indossata dal cane o portata con sé."
         },
         {
           "name": "Rennes-Saint-Jacques Airport (RNS)",
@@ -279,10 +309,13 @@
           "tipPt": "Para ligações a Paris, o TGV de Rennes Gare a Paris-Montparnasse (1h26, cães a 50% da tarifa de segunda classe) costuma ser mais rápido porta a porta do que voar pelo pequeno aeroporto RNS.",
           "descriptionDe": "Rennes-Saint-Jacques (RNS) ist der verkehrsreichste Regionalflughafen der Bretagne mit ganzjährigen Verbindungen nach London Stansted (Ryanair), Lyon, Marseille, Toulouse, Nizza (Air France) sowie saisonalen Mittelmeerrouten. Der Flughafen liegt 9 km südwestlich des Zentrums und ist mit dem STAR-Bus C6 alle 30 Minuten erreichbar (35 Minuten Fahrzeit, angeleinte Hunde willkommen). Taxi 25-30 €, bei den meisten örtlichen Anbietern hundefreundlich.",
           "descriptionNl": "Rennes-Saint-Jacques (RNS) is de drukste regionale luchthaven van Bretagne, met het hele jaar door verbindingen naar Londen Stansted (Ryanair), Lyon, Marseille, Toulouse, Nice (Air France) en seizoensgebonden mediterrane routes. De luchthaven ligt 9 km ten zuidwesten van het centrum en is te bereiken met STAR-bus C6, elke 30 minuten (35 minuten rijtijd, aangelijnde honden welkom). Taxi 25-30 euro, hondvriendelijk bij de meeste lokale aanbieders.",
+          "descriptionIt": "Rennes-Saint-Jacques (RNS) è l'aeroporto regionale più trafficato della Bretagna, con collegamenti tutto l'anno per Londra Stansted (Ryanair), Lione, Marsiglia, Tolosa, Nizza (Air France) e rotte mediterranee stagionali. L'aeroporto si trova a 9 km a sud-ovest del centro ed è raggiungibile con l'autobus STAR C6, ogni 30 minuti (35 minuti di percorrenza, cani al guinzaglio benvenuti). Taxi 25-30 euro, pet-friendly presso la maggior parte degli operatori locali.",
           "petPolicyDe": "Standardmäßige EU-Fluggesellschaftsregeln für Haustiere; kleine Hunde in der Kabine, größere Hunde im Frachtraum je nach Fluggesellschaft",
           "petPolicyNl": "Standaard EU-regels voor huisdieren bij luchtvaartmaatschappijen; kleine honden in de cabine, grotere honden in het ruim afhankelijk van de maatschappij",
+          "petPolicyIt": "Regole standard UE per animali con le compagnie aeree; cani piccoli in cabina, cani più grandi in stiva a seconda della compagnia",
           "tipDe": "Für Anschlüsse nach Paris ist der TGV von Rennes Gare nach Paris-Montparnasse (1:26 Stunden, Hunde zu 50 % des Preises der zweiten Klasse) meist schneller von Tür zu Tür als der Flug über den kleinen Flughafen RNS.",
-          "tipNl": "Voor aansluitingen naar Parijs is de TGV van Rennes Gare naar Paris-Montparnasse (1 u 26 min, honden tegen 50% van de tweedeklastarief) meestal sneller van deur tot deur dan vliegen via de kleine luchthaven RNS."
+          "tipNl": "Voor aansluitingen naar Parijs is de TGV van Rennes Gare naar Paris-Montparnasse (1 u 26 min, honden tegen 50% van de tweedeklastarief) meestal sneller van deur tot deur dan vliegen via de kleine luchthaven RNS.",
+          "tipIt": "Per le coincidenze verso Parigi, il TGV da Rennes Gare a Paris-Montparnasse (1h26, cani al 50% della tariffa seconda classe) è di solito più veloce porta a porta rispetto a volare dal piccolo aeroporto RNS."
         },
         {
           "name": "Gare de Rennes (SNCF)",
@@ -306,20 +339,26 @@
           "tipPt": "As carruagens de primeira classe do TGV InOui têm uma política rígida de proibição de cães, exceto cães de assistência certificados, reserve a segunda classe com o seu cão médio ou grande ou pague o suplemento.",
           "descriptionDe": "Der Hauptbahnhof von Rennes, 2019 vollständig mit Glasdach neu gebaut, mit direkten Anschlüssen an die STAR-Metrolinien A und B sowie TGV-Verbindungen nach Paris-Montparnasse (1:26 Stunden), Lille (3:30 Stunden), Nantes, Bordeaux und Lyon. Kleine Hunde in Transportboxen reisen bei der SNCF kostenlos; größere Hunde reisen angeleint und mit Maulkorb für landesweit 7 € pro Fahrt. Der Bahnhof verfügt über mehrere Auslaufflächen und Wasserstellen im Außenbereich.",
           "descriptionNl": "Het hoofdstation van Rennes, in 2019 volledig heropgebouwd met een glazen dak, heeft directe aansluitingen op de STAR-metrolijnen A en B en TGV-verbindingen naar Paris-Montparnasse (1 u 26 min), Lille (3 u 30 min), Nantes, Bordeaux en Lyon. Kleine honden in draagtassen reizen gratis bij de SNCF; grotere honden reizen aangelijnd en met muilkorf voor 7 euro per rit, landelijk geldend. Het station heeft meerdere uitlaatplekken en waterpunten buiten.",
+          "descriptionIt": "La stazione principale di Rennes, completamente ricostruita nel 2019 con una copertura in vetro, ha collegamenti diretti con le linee della metro STAR A e B e treni TGV per Paris-Montparnasse (1h26), Lille (3h30), Nantes, Bordeaux e Lione. I cani piccoli in borsa da trasporto viaggiano gratis con la SNCF; i cani più grandi viaggiano al guinzaglio e con museruola per 7 euro a tratta, tariffa nazionale. La stazione ha diversi spazi esterni per sgambare il cane e punti acqua.",
           "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde mit Leine und Maulkorb 7 € SNCF-Pauschale landesweit",
           "petPolicyNl": "Kleine honden in draagtas gratis; grotere honden met lijn en muilkorf 7 euro SNCF-vast tarief landelijk",
+          "petPolicyIt": "Cani piccoli in borsa da trasporto gratis; cani più grandi con guinzaglio e museruola 7 euro tariffa fissa SNCF nazionale",
           "tipDe": "In den TGV-InOui-Wagen der ersten Klasse gilt ein striktes Hundeverbot außer für zertifizierte Assistenzhunde, mit mittelgroßem oder großem Hund die zweite Klasse buchen oder den Aufpreis zahlen.",
-          "tipNl": "In de eersteklas TGV InOui-rijtuigen geldt een strikt hondenverbod, behalve voor gecertificeerde assistentiehonden, boek met een middelgrote of grote hond de tweede klas of betaal de toeslag."
+          "tipNl": "In de eersteklas TGV InOui-rijtuigen geldt een strikt hondenverbod, behalve voor gecertificeerde assistentiehonden, boek met een middelgrote of grote hond de tweede klas of betaal de toeslag.",
+          "tipIt": "Nelle carrozze TGV InOui di prima classe vige un divieto stretto per i cani, tranne i cani di assistenza certificati, con un cane medio o grande prenota la seconda classe o paga il supplemento."
         }
       ],
       "titlePt": "Deslocar-se em Rennes com um cão",
       "introPt": "O compacto centro medieval de Rennes percorre-se em grande parte a pé, mas a cidade é também servida pela rede STAR de duas linhas de metro e por uma densa malha de autocarros urbanos, além dos comboios regionais TER da BreizhGo. Os cães pequenos em transportadora viajam grátis em todos os serviços STAR, os cães maiores viajam com trela e açaime. O TGV de Paris-Montparnasse chega a Rennes em 1h26, e o aeroporto de Rennes-Saint-Jacques (RNS) é a porta de entrada regional para voos diretos para várias cidades europeias.",
       "titleDe": "Mit Hund unterwegs in Rennes",
       "titleNl": "Met je hond op pad in Rennes",
+      "titleIt": "In giro con il cane a Rennes",
       "introDe": "Das kompakte mittelalterliche Zentrum von Rennes ist größtenteils zu Fuß erreichbar, die Stadt wird aber auch vom STAR-Netz mit zwei Metrolinien und einem dichten städtischen Busnetz sowie den regionalen BreizhGo-TER-Zügen bedient. Kleine Hunde in Transportboxen reisen auf allen STAR-Linien kostenlos, größere Hunde angeleint und mit Maulkorb. Der TGV aus Paris-Montparnasse erreicht Rennes in 1:26 Stunden, und der Flughafen Rennes-Saint-Jacques (RNS) ist das regionale Tor für Direktflüge zu mehreren europäischen Städten.",
       "introNl": "Het compacte middeleeuwse centrum van Rennes is grotendeels te voet te doen, maar de stad wordt ook bediend door het STAR-net met twee metrolijnen en een dicht stadsbusnet, plus de regionale BreizhGo-TER-treinen. Kleine honden in draagtassen reizen gratis op alle STAR-lijnen, grotere honden aangelijnd en met muilkorf. De TGV vanuit Paris-Montparnasse bereikt Rennes in 1 u 26 min, en luchthaven Rennes-Saint-Jacques (RNS) is de regionale poort voor rechtstreekse vluchten naar meerdere Europese steden.",
+      "introIt": "Il compatto centro medievale di Rennes si gira in gran parte a piedi, ma la città è servita anche dalla rete STAR con due linee di metro e una fitta rete di autobus urbani, oltre ai treni regionali BreizhGo-TER. I cani piccoli in borsa da trasporto viaggiano gratis su tutte le linee STAR, i cani più grandi al guinzaglio e con museruola. Il TGV da Paris-Montparnasse raggiunge Rennes in 1h26, e l'aeroporto di Rennes-Saint-Jacques (RNS) è la porta regionale per voli diretti verso diverse città europee.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches from Rennes",
@@ -351,10 +390,13 @@
           "tipPt": "Apanhe a maré-baixa do início da manhã a partir de Rennes no TER das 06:30, chegando a Saint-Malo por volta das 07:30, fica com 90 minutos de praia acolhedora para cães antes do prazo das 09:00.",
           "descriptionDe": "Der 3 km lange Plage du Sillon, der sich nördlich von Intra-muros Saint-Malo erstreckt, ist der nächstgelegene große Atlantikstrand ab Rennes (1 Stunde mit dem Auto, 50 Minuten mit dem TER-Zug bis zum Bahnhof Saint-Malo). Außerhalb der Hochsaison (15. Juni-15. September) sind angeleinte Hunde am gesamten Strand von Sonnenaufgang bis 09:00 Uhr und nach 19:30 Uhr erlaubt. Außerhalb dieser Saison sind Hunde ganzjährig in denselben Zeitfenstern willkommen, wobei sich der Sand bei Ebbe morgens einen halben Kilometer weit zum Horizont erstreckt.",
           "descriptionNl": "Het 3 km lange Plage du Sillon, dat zich uitstrekt ten noorden van Intra-muros Saint-Malo, is het dichtstbijzijnde grote Atlantische strand vanuit Rennes (1 uur met de auto, 50 minuten met de TER-trein tot station Saint-Malo). Buiten het hoogseizoen (15 juni-15 september) zijn aangelijnde honden toegestaan op het hele strand van zonsopgang tot 09:00 uur en na 19:30 uur. Buiten dit seizoen zijn honden het hele jaar welkom in dezelfde tijdsvensters, waarbij het zand bij eb 's ochtends een halve kilometer ver richting de horizon reikt.",
+          "descriptionIt": "La Plage du Sillon, lunga 3 km, che si estende a nord dell'Intra-muros di Saint-Malo, è la grande spiaggia atlantica più vicina da Rennes (1 ora d'auto, 50 minuti con il treno TER fino alla stazione di Saint-Malo). Fuori dall'alta stagione (15 giugno-15 settembre) i cani al guinzaglio sono ammessi su tutta la spiaggia dall'alba alle 09:00 e dopo le 19:30. Fuori da questa stagione i cani sono benvenuti tutto l'anno nelle stesse fasce orarie, con la sabbia che a bassa marea del mattino si estende per mezzo chilometro verso l'orizzonte.",
           "petPolicyDe": "Angeleinte Hunde erlaubt Sonnenaufgang-09:00 Uhr und nach 19:30 Uhr; eingeschränkt während der Hochsaison 15. Juni-15. September",
           "petPolicyNl": "Aangelijnde honden toegestaan zonsopgang-09:00 uur en na 19:30 uur; beperkt tijdens hoogseizoen 15 juni-15 september",
+          "petPolicyIt": "Cani al guinzaglio ammessi dall'alba alle 09:00 e dopo le 19:30; limitato durante l'alta stagione 15 giugno-15 settembre",
           "tipDe": "Mit dem TER um 06:30 Uhr ab Rennes die frühe Ebbe erwischen, Ankunft in Saint-Malo gegen 07:30 Uhr, so bleiben 90 Minuten hundefreundlicher Strand vor der 09:00-Uhr-Grenze.",
-          "tipNl": "Neem de TER om 06:30 uur vanuit Rennes om de vroege eb te pakken, aankomst in Saint-Malo rond 07:30 uur, zo houd je 90 minuten hondvriendelijk strand over voor de grens van 09:00 uur."
+          "tipNl": "Neem de TER om 06:30 uur vanuit Rennes om de vroege eb te pakken, aankomst in Saint-Malo rond 07:30 uur, zo houd je 90 minuten hondvriendelijk strand over voor de grens van 09:00 uur.",
+          "tipIt": "Prendi il TER delle 06:30 da Rennes per cogliere la bassa marea mattutina, arrivo a Saint-Malo intorno alle 07:30, così ti restano 90 minuti di spiaggia pet-friendly prima del limite delle 09:00."
         },
         {
           "name": "Plage de l'Écluse (Dinard)",
@@ -378,10 +420,13 @@
           "tipPt": "Combine o banho matinal com o espetacular caminho costeiro Promenade du Clair de Lune que liga as duas praias, totalmente acolhedor para cães e um dos passeios de 2 km mais bonitos da Bretanha.",
           "descriptionDe": "Der berühmte Hauptstrand von Dinard, gesäumt von Belle-Époque-Villen und 700 bunt gestreiften Strandzelten im Sommer, liegt auf der anderen Seite der Rance-Mündung gegenüber Saint-Malo (15 Minuten mit der Fähre der Compagnie Corsaire, die angeleinte Hunde kostenlos mitnimmt). Außerhalb des Hochsaisonverbots werden angeleinte Hunde im westlichen Strandbereich von Sonnenaufgang bis 10:00 Uhr und nach 19:00 Uhr geduldet. Ganzjährigen Hundezugang bietet der wilde Plage du Prieuré etwas südlich davon.",
           "descriptionNl": "Het beroemde hoofdstrand van Dinard, omzoomd door belle-époquevilla's en 700 kleurrijk gestreepte strandtenten in de zomer, ligt aan de overkant van de riviermonding van de Rance tegenover Saint-Malo (15 minuten met de veerboot van de Compagnie Corsaire, die aangelijnde honden gratis meeneemt). Buiten het hoogseizoenverbod worden aangelijnde honden op het westelijke strandgedeelte getolereerd van zonsopgang tot 10:00 uur en na 19:00 uur. Het hele jaar door hondentoegang biedt het wilde Plage du Prieuré iets zuidelijker.",
+          "descriptionIt": "La famosa spiaggia principale di Dinard, circondata da ville belle époque e da 700 cabine da spiaggia a righe colorate d'estate, si trova dall'altra parte dell'estuario della Rance rispetto a Saint-Malo (15 minuti in traghetto con la Compagnie Corsaire, che porta gratis i cani al guinzaglio). Fuori dal divieto di alta stagione, i cani al guinzaglio sono tollerati sul tratto ovest della spiaggia dall'alba alle 10:00 e dopo le 19:00. Accesso ai cani tutto l'anno alla selvaggia Plage du Prieuré poco più a sud.",
           "petPolicyDe": "Angeleinte Hunde Sonnenaufgang-10:00 Uhr und nach 19:00 Uhr außerhalb der Hochsaison; ganzjährig am Plage du Prieuré",
           "petPolicyNl": "Aangelijnde honden zonsopgang-10:00 uur en na 19:00 uur buiten het hoogseizoen; het hele jaar door bij Plage du Prieuré",
+          "petPolicyIt": "Cani al guinzaglio dall'alba alle 10:00 e dopo le 19:00 fuori dall'alta stagione; tutto l'anno alla Plage du Prieuré",
           "tipDe": "Das frühe Bad mit dem spektakulären Küstenweg Promenade du Clair de Lune verbinden, der beide Strände verbindet, durchgehend hundefreundlich und einer der schönsten 2-km-Spaziergänge der Bretagne.",
-          "tipNl": "Combineer het vroege bad met het spectaculaire kustpad Promenade du Clair de Lune, dat beide stranden verbindt, doorgaand hondvriendelijk en een van de mooiste wandelingen van 2 km in Bretagne."
+          "tipNl": "Combineer het vroege bad met het spectaculaire kustpad Promenade du Clair de Lune, dat beide stranden verbindt, doorgaand hondvriendelijk en een van de mooiste wandelingen van 2 km in Bretagne.",
+          "tipIt": "Abbina il bagno mattutino allo spettacolare sentiero costiero Promenade du Clair de Lune, che collega le due spiagge, sempre pet-friendly e una delle passeggiate di 2 km più belle della Bretagna."
         },
         {
           "name": "Plage du Verger (Cancale)",
@@ -405,20 +450,26 @@
           "tipPt": "Depois do passeio matinal pela praia, siga para o porto de Cancale para ostras frescas nas bancas do paredão, os vendedores de peixe de Cancale toleram cães e abrem as ostras para comer ali mesmo nos bancos à sua frente.",
           "descriptionDe": "Eine wilde weiße Sandbucht zwischen Cancale (der Austernhauptstadt der Bretagne) und dem dramatischen Kap Pointe du Grouin, deutlich weniger überlaufen als Saint-Malo und ganzjährig hundefreundlich auf der südlichen Strandhälfte. Der benachbarte Küstenweg GR34 ist einer der großartigsten Hundespaziergänge Frankreichs, mit 80 km Klippenpfad von hier bis zum Mont-Saint-Michel.",
           "descriptionNl": "Een wilde witte zandbaai tussen Cancale (de oesterhoofdstad van Bretagne) en de dramatische kaap Pointe du Grouin, veel rustiger dan Saint-Malo en het hele jaar door hondvriendelijk op de zuidelijke helft van het strand. Het aangrenzende kustpad GR34 is een van de mooiste hondenwandelingen van Frankrijk, met 80 km klifpad van hier tot aan de Mont-Saint-Michel.",
+          "descriptionIt": "Una baia selvaggia di sabbia bianca tra Cancale (la capitale bretone delle ostriche) e il drammatico promontorio Pointe du Grouin, molto più tranquilla di Saint-Malo e pet-friendly tutto l'anno sulla metà sud della spiaggia. L'adiacente sentiero costiero GR34 è una delle passeggiate per cani più belle di Francia, con 80 km di sentiero sulle scogliere da qui fino al Mont-Saint-Michel.",
           "petPolicyDe": "Angeleinte Hunde ganzjährig auf der südlichen Strandhälfte willkommen",
           "petPolicyNl": "Aangelijnde honden het hele jaar door welkom op de zuidelijke helft van het strand",
+          "petPolicyIt": "Cani al guinzaglio benvenuti tutto l'anno sulla metà sud della spiaggia",
           "tipDe": "Nach dem morgendlichen Strandspaziergang zu den frischen Austern an den Ständen der Hafenmauer im Hafen von Cancale, die Fischhändler von Cancale sind hundetolerant und öffnen Austern zum sofortigen Verzehr auf den Bänken.",
-          "tipNl": "Ga na de ochtendwandeling op het strand naar de verse oesters bij de kraampjes aan de havenmuur van de haven van Cancale, de vishandelaars van Cancale zijn hondentolerant en openen oesters om ter plekke op de bankjes te eten."
+          "tipNl": "Ga na de ochtendwandeling op het strand naar de verse oesters bij de kraampjes aan de havenmuur van de haven van Cancale, de vishandelaars van Cancale zijn hondentolerant en openen oesters om ter plekke op de bankjes te eten.",
+          "tipIt": "Dopo la passeggiata mattutina in spiaggia vai per ostriche fresche alle bancarelle sulla banchina del porto di Cancale, i pescivendoli di Cancale tollerano i cani e aprono le ostriche da mangiare sul posto sulle panche."
         }
       ],
       "titlePt": "Praias acolhedoras para cães a partir de Rennes",
       "introPt": "Rennes fica 65 km para o interior a partir da costa da Bretanha, mas três das praias tolerantes a cães mais próximas alcançam-se facilmente num passeio de um dia. Saint-Malo (1h de carro ou comboio, cães permitidos na maioria das praias fora do pico de verão, entre o nascer do sol e as 09:00 e depois das 19:30), Dinard, do outro lado do estuário do Rance, e as enseadas selvagens da Côte d'Émeraude entre Cancale e o Cap Fréhel acolhem todas cães com trela fora de época e algumas o ano inteiro. A amplitude das marés na Bretanha é uma das maiores da Europa, verifique sempre as tabelas de maré antes de chegar.",
       "titleDe": "Hundefreundliche Strände ab Rennes",
       "titleNl": "Hondvriendelijke stranden vanuit Rennes",
+      "titleIt": "Spiagge pet-friendly vicino a Rennes",
       "introDe": "Rennes liegt 65 km landeinwärts von der bretonischen Küste, aber drei der nächstgelegenen hundetoleranten Strände sind als Tagesausflug gut erreichbar. Saint-Malo (1 Stunde mit Auto oder Bahn, Hunde außerhalb der Hochsaison auf den meisten Stränden zwischen Sonnenaufgang und 09:00 Uhr sowie nach 19:30 Uhr erlaubt), Dinard auf der anderen Seite der Rance-Mündung sowie die wilden Buchten der Côte d'Émeraude zwischen Cancale und Cap Fréhel heißen angeleinte Hunde außerhalb der Saison und teils ganzjährig willkommen. Der Tidenhub der Bretagne gehört zu den größten Europas, vor der Anreise stets die Gezeitentabellen prüfen.",
       "introNl": "Rennes ligt 65 km landinwaarts van de Bretonse kust, maar drie van de dichtstbijzijnde hondentolerante stranden zijn goed te bereiken als dagtocht. Saint-Malo (1 uur met auto of trein, honden buiten het hoogseizoen toegestaan op de meeste stranden tussen zonsopgang en 09:00 uur en na 19:30 uur), Dinard aan de overkant van de riviermonding van de Rance, en de wilde baaien van de Côte d'Émeraude tussen Cancale en Cap Fréhel verwelkomen aangelijnde honden buiten het seizoen en soms het hele jaar door. Het getijverschil in Bretagne is een van de grootste van Europa, controleer voor vertrek altijd de getijtabellen.",
+      "introIt": "Rennes si trova a 65 km nell'entroterra dalla costa bretone, ma tre delle spiagge che tollerano i cani più vicine sono facilmente raggiungibili in giornata. Saint-Malo (1 ora in auto o treno, cani ammessi fuori dall'alta stagione sulla maggior parte delle spiagge tra l'alba e le 09:00 e dopo le 19:30), Dinard dall'altra parte dell'estuario della Rance, e le baie selvagge della Côte d'Émeraude tra Cancale e Cap Fréhel accolgono i cani al guinzaglio fuori stagione e talvolta tutto l'anno. L'escursione di marea in Bretagna è tra le più grandi d'Europa, controlla sempre le tavole di marea prima di partire.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Emergency Vet in Rennes, Hospitals & Veterinary Clinics",
@@ -454,10 +505,13 @@
           "tipPt": "Leve o passaporte europeu do animal e uma lista impressa da medicação atual, só a consulta ronda os 40-65 €, a cirurgia de urgência 300-800 € consoante a complexidade, aceita cartão.",
           "descriptionDe": "Eine interdisziplinäre Tierarztklinik im Zentrum von Rennes (Viertel Saint-Hélier) mit eigenem OP-Bereich, Bildgebung (Röntgen und Ultraschall), Zahn- und Dermatologiedienstleistungen. Die Klinik ist Teil des örtlichen SOS-Vétérinaires-Bereitschaftsdienstes und bietet tagsüber Sprechstunden ohne Termin. Eine der am häufigsten von Hotels in Rennes empfohlenen Adressen für Besucher mit Tierarztbedarf.",
           "descriptionNl": "Een multidisciplinaire dierenkliniek in het centrum van Rennes (wijk Saint-Hélier) met eigen operatiekamer, beeldvorming (röntgen en echografie), tandheelkundige en dermatologische diensten. De kliniek maakt deel uit van de lokale SOS-Vétérinaires-bereikbaarheidsdienst en biedt overdag spreekuur zonder afspraak. Een van de vaakst door hotels in Rennes aanbevolen adressen voor bezoekers met dierenartsbehoeften.",
+          "descriptionIt": "Una clinica veterinaria multidisciplinare nel centro di Rennes (quartiere Saint-Hélier) con sala operatoria propria, diagnostica per immagini (raggi X ed ecografia), servizi odontoiatrici e dermatologici. La clinica fa parte del servizio di reperibilità locale SOS-Vétérinaires e offre visite diurne senza appuntamento. Uno degli indirizzi più raccomandati dagli hotel di Rennes per i visitatori con esigenze veterinarie.",
           "petPolicyDe": "Sprechstunde ohne Termin und nach Vereinbarung; Teil des SOS-Vétérinaires-Bereitschaftsdienstes",
           "petPolicyNl": "Spreekuur zonder afspraak en op afspraak; onderdeel van de SOS-Vétérinaires-bereikbaarheidsdienst",
+          "petPolicyIt": "Visite senza appuntamento e su prenotazione; parte del servizio di reperibilità SOS-Vétérinaires",
           "tipDe": "EU-Heimtierausweis und eine ausgedruckte Liste der aktuellen Medikamente mitbringen, allein die Konsultation kostet etwa 40-65 €, eine Notoperation 300-800 € je nach Komplexität, Kartenzahlung möglich.",
-          "tipNl": "Neem het EU-dierenpaspoort en een uitgeprinte lijst van de huidige medicatie mee, alleen het consult kost al zo'n 40-65 euro, een spoedoperatie 300-800 euro afhankelijk van de complexiteit, betalen per kaart mogelijk."
+          "tipNl": "Neem het EU-dierenpaspoort en een uitgeprinte lijst van de huidige medicatie mee, alleen het consult kost al zo'n 40-65 euro, een spoedoperatie 300-800 euro afhankelijk van de complexiteit, betalen per kaart mogelijk.",
+          "tipIt": "Porta il passaporto UE per animali e una lista stampata dei farmaci attuali, la sola visita costa già circa 40-65 euro, un intervento d'urgenza 300-800 euro a seconda della complessità, pagamento con carta possibile."
         },
         {
           "name": "VetAgro Sup – Clinique Vétérinaire Rennes-Sud",
@@ -485,10 +539,13 @@
           "tipPt": "Se estiver alojado nos hotéis do polo empresarial do sul de Rennes, perto de Atalante Champeaux, esta clínica fica mais perto do que a central Atlantia e a distância a pé adequa-se a cães que enjoam de carro.",
           "descriptionDe": "Referenztierklinik für die südlichen Stadtteile von Rennes (Le Blosne, La Poterie, Cleunay) mit Allgemeinmedizin, Chirurgie und einer angegebenen Notfallnummer außerhalb der Öffnungszeiten für Bestandspatienten. Praktisch für Besucher, die nahe der südlichen Endstation der Metrolinie A wohnen oder vom Flughafen Saint-Jacques zurückkommen. Moderne Ausstattung und im Sommer mehrsprachiger Empfang.",
           "descriptionNl": "Referentiedierenkliniek voor de zuidelijke wijken van Rennes (Le Blosne, La Poterie, Cleunay), met algemene geneeskunde, chirurgie en een opgegeven noodnummer buiten de openingstijden voor vaste patiënten. Handig voor bezoekers die dicht bij het zuidelijke eindpunt van metrolijn A wonen of terugkomen van luchthaven Saint-Jacques. Moderne uitrusting en 's zomers meertalige ontvangst.",
+          "descriptionIt": "Clinica veterinaria di riferimento per i quartieri sud di Rennes (Le Blosne, La Poterie, Cleunay), con medicina generale, chirurgia e un numero di emergenza fuori orario dedicato ai pazienti abituali. Comoda per i visitatori che alloggiano vicino al capolinea sud della linea A della metro o che rientrano dall'aeroporto Saint-Jacques. Attrezzature moderne e accoglienza multilingue d'estate.",
           "petPolicyDe": "Termine und Sprechstunde tagsüber ohne Termin; Notfallnummer für Bestandspatienten",
           "petPolicyNl": "Afspraken en spreekuur overdag zonder afspraak; noodnummer voor vaste patiënten",
+          "petPolicyIt": "Appuntamenti e visite diurne senza appuntamento; numero di emergenza per pazienti abituali",
           "tipDe": "Wer in den Hotels des südlichen Geschäftsviertels von Rennes nahe Atalante Champeaux übernachtet, findet hier die nähere Klinik im Vergleich zum zentralen Atlantia, die fußläufige Entfernung eignet sich für reiseübelkeitsanfällige Hunde.",
-          "tipNl": "Wie in de hotels van de zuidelijke zakenwijk van Rennes bij Atalante Champeaux overnacht, vindt hier de dichtstbijzijnde kliniek vergeleken met het centrale Atlantia, de loopafstand is geschikt voor honden die last hebben van reisziekte."
+          "tipNl": "Wie in de hotels van de zuidelijke zakenwijk van Rennes bij Atalante Champeaux overnacht, vindt hier de dichtstbijzijnde kliniek vergeleken met het centrale Atlantia, de loopafstand is geschikt voor honden die last hebben van reisziekte.",
+          "tipIt": "Chi alloggia negli hotel del quartiere d'affari sud di Rennes vicino ad Atalante Champeaux trova qui la clinica più vicina rispetto alla centrale Atlantia, la distanza a piedi è adatta a cani soggetti a mal d'auto."
         },
         {
           "name": "ChronoVet Rennes (Service 24/7)",
@@ -515,20 +572,26 @@
           "tipPt": "Guarde no telemóvel o número local da ChronoVet à chegada, a cobertura de rede móvel ao longo dos caminhos do rio Vilaine é irregular e não vai querer perder 10 minutos a procurá-lo numa emergência.",
           "descriptionDe": "ChronoVet ist das landesweite französische 24/7-Notfalltierarzt-Vermittlungsnetzwerk, bei dem sich Mitgliedskliniken in ganz Rennes Métropole beim Nacht- und Sonntagsdienst abwechseln. Ein einziger Anruf verbindet mit der diensthabenden Klinik der Nacht, der zuverlässigste Weg, zwischen 19:30 und 08:00 Uhr oder sonntags im Raum Rennes einen Tierarzt zu erreichen. Standardkosten für eine französische Notfallkonsultation 80-150 €.",
           "descriptionNl": "ChronoVet is het landelijke Franse 24/7-verwijsnetwerk voor spoeddierenartsen, waarbij aangesloten klinieken in heel Rennes Métropole elkaar afwisselen voor nacht- en zondagsdiensten. Eén telefoontje verbindt je met de kliniek die die nacht dienst heeft, de betrouwbaarste manier om tussen 19:30 en 08:00 uur of op zondag in de regio Rennes een dierenarts te bereiken. Standaardkosten voor een Franse spoedconsultatie 80-150 euro.",
+          "descriptionIt": "ChronoVet è la rete nazionale francese di riferimento 24/7 per veterinari d'urgenza, con cliniche affiliate in tutta Rennes Métropole che si alternano per i turni notturni e domenicali. Una sola telefonata ti mette in contatto con la clinica di turno quella notte, il modo più affidabile per raggiungere un veterinario nella regione di Rennes tra le 19:30 e le 08:00 o la domenica. Costo standard di una visita d'urgenza francese 80-150 euro.",
           "petPolicyDe": "Telefonvermittlung leitet zur diensthabenden Klinik weiter; nur Notfälle",
           "petPolicyNl": "Telefonische doorverwijzing naar de kliniek met dienst; alleen spoedgevallen",
+          "petPolicyIt": "Smistamento telefonico verso la clinica di turno; solo emergenze",
           "tipDe": "Die örtliche ChronoVet-Nummer gleich bei Ankunft im Telefon speichern, die Mobilfunkabdeckung entlang der Vilaine-Uferwege ist lückenhaft, im Notfall sollte man nicht erst 10 Minuten danach suchen müssen.",
-          "tipNl": "Sla het lokale ChronoVet-nummer meteen bij aankomst op in je telefoon, de mobiele dekking langs de oeverpaden van de Vilaine is wisselvallig, in een noodgeval wil je niet eerst 10 minuten hoeven zoeken."
+          "tipNl": "Sla het lokale ChronoVet-nummer meteen bij aankomst op in je telefoon, de mobiele dekking langs de oeverpaden van de Vilaine is wisselvallig, in een noodgeval wil je niet eerst 10 minuten hoeven zoeken.",
+          "tipIt": "Salva subito il numero locale di ChronoVet nel telefono all'arrivo, la copertura mobile lungo i sentieri rivieraschi della Vilaine è discontinua, in un'emergenza non vuoi perdere 10 minuti a cercarlo."
         }
       ],
       "titlePt": "Veterinário de urgência em Rennes, hospitais e clínicas veterinárias",
       "introPt": "Rennes encontra-se bem equipada para cuidados veterinários, com o hospital universitário Oniris ENVN/CHUV próximo, em Nantes, para casos de referência, e várias clínicas privadas de 24 horas na área metropolitana de Rennes. A escala local da SOS Vétérinaires assegura uma cobertura de urgência fora de horas ao estilo nacional. A linha nacional francesa de animais perdidos é a I-CAD (08 10 77 88 99) e a exigência de passaporte europeu para animais aplica-se a todos os cães que entram no país. Telefone sempre antes de chegar a qualquer clínica.",
       "titleDe": "Notfalltierarzt in Rennes, Kliniken & Tierarztpraxen",
       "titleNl": "Spoeddierenarts in Rennes, klinieken & dierenartspraktijken",
+      "titleIt": "Veterinario d'urgenza a Rennes, cliniche e ambulatori",
       "introDe": "Rennes ist tiermedizinisch gut ausgestattet, mit der Lehrklinik Oniris ENVN/CHUV im nahen Nantes für Überweisungsfälle und mehreren privaten 24-Stunden-Kliniken im Großraum Rennes. Der örtliche SOS-Vétérinaires-Bereitschaftsdienst bietet landesweit organisierte Notfallversorgung außerhalb der regulären Öffnungszeiten. Frankreichs nationale Vermisstierlinie ist I-CAD (08 10 77 88 99), und die Pflicht zum EU-Heimtierausweis gilt für alle einreisenden Hunde. Vor jedem Klinikbesuch immer vorab anrufen.",
       "introNl": "Rennes is goed uitgerust op diergeneeskundig gebied, met de opleidingskliniek Oniris ENVN/CHUV in het nabijgelegen Nantes voor doorverwijzingen en meerdere particuliere 24-uursklinieken in de regio Rennes. De lokale SOS-Vétérinaires-bereikbaarheidsdienst biedt landelijk georganiseerde spoedzorg buiten de reguliere openingstijden. De nationale Franse vermistedierenlijn is I-CAD (08 10 77 88 99), en de EU-dierenpaspoortplicht geldt voor alle binnenkomende honden. Bel altijd van tevoren voordat je naar een kliniek gaat.",
+      "introIt": "Rennes è ben attrezzata dal punto di vista veterinario, con la clinica universitaria Oniris ENVN/CHUV nella vicina Nantes per gli invii specialistici e diverse cliniche private 24 ore nella regione di Rennes. Il servizio di reperibilità locale SOS-Vétérinaires offre assistenza d'urgenza organizzata a livello nazionale fuori dagli orari abituali. La linea nazionale francese per animali smarriti è I-CAD (08 10 77 88 99), e l'obbligo del passaporto UE per animali vale per tutti i cani in ingresso. Chiama sempre prima di recarti in una clinica.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Essential Pet Travel Tips for Rennes",
@@ -560,10 +623,13 @@
           "tipPt": "Traga consigo o passaporte europeu do animal mesmo para viagens curtas de STAR, a polícia francesa pode pedir para o ver em fiscalizações aleatórias nas estações centrais de metro.",
           "descriptionDe": "Rennes Métropole veröffentlicht die Leinen- und Kotentsorgungsregeln der Stadt auf der städtischen Website. Nach französischem Recht muss jeder Hundehalter in der Öffentlichkeit eine Leine von bis zu 1,5 m mitführen; Hunde der Kategorie 1 und 2 (Pitbull-Typ, Rottweiler usw.) benötigen die Genehmigung des Rathauses, einen Maulkorb und eine spezielle Versicherung. Bußgelder für Hundekot betragen in Rennes 68 € beim ersten Verstoß, städtische Canisettes (kostenlose Kotbeutelspender) gibt es im Zentrum alle 200 m.",
           "descriptionNl": "Rennes Métropole publiceert de aanlijn- en opruimregels van de stad op de gemeentelijke website. Volgens Frans recht moet elke hondenbezitter in het openbaar een lijn van maximaal 1,5 m bij zich hebben; honden van categorie 1 en 2 (pitbulltype, rottweiler enzovoort) hebben een vergunning van het gemeentehuis, een muilkorf en een speciale verzekering nodig. Boetes voor hondenpoep bedragen in Rennes 68 euro bij een eerste overtreding, gemeentelijke canisettes (gratis poepzakjesautomaten) staan in het centrum om de 200 m.",
+          "descriptionIt": "Rennes Métropole pubblica le regole cittadine su guinzaglio e raccolta deiezioni sul sito del comune. Secondo il diritto francese ogni proprietario di cane deve avere con sé in pubblico un guinzaglio di massimo 1,5 m; i cani di categoria 1 e 2 (tipo pitbull, rottweiler eccetera) hanno bisogno di un permesso del municipio, una museruola e un'assicurazione speciale. Le multe per le deiezioni canine a Rennes sono di 68 euro alla prima infrazione, le canisette comunali (distributori gratuiti di sacchetti) si trovano in centro ogni 200 m.",
           "petPolicyDe": "Französisches Recht: 1,5 m Leine in der Öffentlichkeit; Hunde der Kategorie 1/2 benötigen Genehmigung und Maulkorb",
           "petPolicyNl": "Frans recht: lijn van 1,5 m in het openbaar; honden van categorie 1/2 hebben een vergunning en muilkorf nodig",
+          "petPolicyIt": "Diritto francese: guinzaglio di 1,5 m in pubblico; i cani di categoria 1/2 hanno bisogno di permesso e museruola",
           "tipDe": "Den EU-Heimtierausweis auch für kurze STAR-Fahrten stets mitführen, die französische Polizei kann ihn bei Stichprobenkontrollen an den zentralen Metrostationen verlangen.",
-          "tipNl": "Neem het EU-dierenpaspoort altijd mee, ook voor korte ritten met STAR, de Franse politie kan er bij steekproefcontroles op de centrale metrostations om vragen."
+          "tipNl": "Neem het EU-dierenpaspoort altijd mee, ook voor korte ritten met STAR, de Franse politie kan er bij steekproefcontroles op de centrale metrostations om vragen.",
+          "tipIt": "Porta sempre con te il passaporto UE per animali, anche per brevi corse con la STAR, la polizia francese può chiederlo durante controlli a campione nelle stazioni centrali della metro."
         },
         {
           "name": "Vilaine Riverside Walks",
@@ -587,10 +653,13 @@
           "tipPt": "O Vilaine transborda todos os invernos e primaveras, depois de chuva forte consulte o site Vigicrues antes de caminhar pelos cais baixos, o caminho de sirga em La Prévalaye pode desaparecer sob 30 cm de água.",
           "descriptionDe": "Die Vilaine durchquert das Zentrum von Rennes von Ost nach West und verfügt an beiden Ufern über einen durchgehenden Treidelpfad, wobei die Promenade Mail François Mitterrand und der Quai Émile Zola flach und schattig sind, ideal für lange angeleinte Spaziergänge. Westlich der Stadt trifft der Treidelpfad auf den Canal d'Ille-et-Rance, der nach Norden Richtung Saint-Malo führt (84 km durchgehender hundefreundlicher flacher Weg).",
           "descriptionNl": "De Vilaine doorkruist het centrum van Rennes van oost naar west en heeft aan beide oevers een doorlopend jaagpad, waarbij de Promenade Mail François Mitterrand en de Quai Émile Zola vlak en beschaduwd zijn, ideaal voor lange aangelijnde wandelingen. Ten westen van de stad sluit het jaagpad aan op het Canal d'Ille-et-Rance, dat noordwaarts naar Saint-Malo loopt (84 km doorgaand hondvriendelijk vlak pad).",
+          "descriptionIt": "La Vilaine attraversa il centro di Rennes da est a ovest e ha un'alzaia continua su entrambe le rive, con la Promenade Mail François Mitterrand e il Quai Émile Zola pianeggianti e ombreggiati, ideali per lunghe passeggiate al guinzaglio. A ovest della città l'alzaia si collega al Canal d'Ille-et-Rance, che va verso nord fino a Saint-Malo (84 km di sentiero pianeggiante sempre pet-friendly).",
           "petPolicyDe": "Angeleinte Hunde am Treidelpfad willkommen; Freilauf westlich der Stadt außerhalb der Hauptzeiten geduldet",
           "petPolicyNl": "Aangelijnde honden welkom op het jaagpad; loslopen getolereerd ten westen van de stad buiten de drukste uren",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sull'alzaia; libero tollerato a ovest della città fuori dalle ore di maggiore affluenza",
           "tipDe": "Die Vilaine tritt jeden Winter und Frühling über die Ufer, nach starkem Regen vor dem Spaziergang an den unteren Kais die Vigicrues-Website prüfen, der Treidelpfad bei La Prévalaye kann unter 30 cm Wasser verschwinden.",
-          "tipNl": "De Vilaine treedt elke winter en lente buiten haar oevers, controleer na hevige regen voor de wandeling langs de lagere kades de website van Vigicrues, het jaagpad bij La Prévalaye kan onder 30 cm water verdwijnen."
+          "tipNl": "De Vilaine treedt elke winter en lente buiten haar oevers, controleer na hevige regen voor de wandeling langs de lagere kades de website van Vigicrues, het jaagpad bij La Prévalaye kan onder 30 cm water verdwijnen.",
+          "tipIt": "La Vilaine esonda ogni inverno e primavera, dopo piogge intense controlla il sito Vigicrues prima della passeggiata lungo le banchine più basse, l'alzaia a La Prévalaye può finire sott'acqua fino a 30 cm."
         },
         {
           "name": "Place Sainte-Anne & Rue Saint-Michel",
@@ -613,20 +682,26 @@
           "tipPt": "O Marché des Lices ao sábado de manhã na Place des Lices é o maior mercado ao ar livre de França a seguir ao de Lyon, cães bem-vindos e uma ótima oportunidade de fotografia em frente às casas de tabique.",
           "descriptionDe": "Das Herz des mittelalterlichen Rennes rund um die Place Sainte-Anne und die Rue Saint-Michel (im Volksmund Rue de la Soif genannt) ist das lebendige Nachtlebenviertel der Stadt, mit Fachwerkhäusern aus dem 15.-17. Jahrhundert, die den Brand von 1720 überstanden haben. In den Fußgängerstraßen wird es donnerstags bis samstags abends von 22:00 bis 02:00 Uhr sehr laut, Spaziergänge mit geräuschempfindlichen Hunden lieber morgens oder tagsüber planen.",
           "descriptionNl": "Het hart van middeleeuws Rennes rond de Place Sainte-Anne en de Rue Saint-Michel (in de volksmond Rue de la Soif genoemd) is de levendige uitgaanswijk van de stad, met vakwerkhuizen uit de 15e-17e eeuw die de brand van 1720 overleefden. In de voetgangersstraten wordt het van donderdag tot en met zaterdagavond tussen 22:00 en 02:00 uur erg luidruchtig, plan wandelingen met geluidsgevoelige honden liever 's ochtends of overdag.",
+          "descriptionIt": "Il cuore della Rennes medievale intorno a Place Sainte-Anne e Rue Saint-Michel (soprannominata Rue de la Soif) è il vivace quartiere della movida cittadina, con case a graticcio del XV-XVII secolo sopravvissute all'incendio del 1720. Nelle vie pedonali diventa molto rumoroso da giovedì a sabato sera tra le 22:00 e le 02:00, pianifica le passeggiate con cani sensibili ai rumori piuttosto al mattino o di giorno.",
           "petPolicyDe": "Angeleinte Hunde in den Fußgängerstraßen willkommen; Cafeterrassen meist haustiertolerant",
           "petPolicyNl": "Aangelijnde honden welkom in de voetgangersstraten; caféterrassen meestal huisdiertolerant",
+          "petPolicyIt": "Cani al guinzaglio benvenuti nelle vie pedonali; terrazze dei caffè in genere pet-friendly",
           "tipDe": "Der Marché des Lices am Samstagvormittag auf der Place des Lices ist nach Lyon der größte Freiluftmarkt Frankreichs, Hunde willkommen und eine tolle Fotogelegenheit vor den Fachwerkhäusern.",
-          "tipNl": "De Marché des Lices op zaterdagochtend op de Place des Lices is na Lyon de grootste openluchtmarkt van Frankrijk, honden welkom en een geweldige fotogelegenheid voor de vakwerkhuizen."
+          "tipNl": "De Marché des Lices op zaterdagochtend op de Place des Lices is na Lyon de grootste openluchtmarkt van Frankrijk, honden welkom en een geweldige fotogelegenheid voor de vakwerkhuizen.",
+          "tipIt": "Il Marché des Lices del sabato mattina su Place des Lices è il più grande mercato all'aperto di Francia dopo Lione, cani benvenuti e ottima occasione fotografica per le case a graticcio."
         }
       ],
       "titlePt": "Dicas essenciais de viagem com animais para Rennes",
       "introPt": "Rennes é uma capital regional francesa tolerante a cães, com uma forte cultura de café ao ar livre, o centro medieval de tabique (reconstruído no seu lado leste após o incêndio de 1720), o Parc du Thabor e fácil acesso de passeio de um dia à costa da Bretanha. As regras específicas para animais a planear incluem as licenças para cães de categoria 1 e 2 para raças restritas, a exigência de açaime no metro STAR para cães maiores, e as rígidas restrições sazonais de praia na costa entre 15 de junho e 15 de setembro. A lei nacional francesa exige ainda microchip ISO, vacinação antirrábica e passaporte europeu para todos os cães que entram no país.",
       "titleDe": "Wichtige Reisetipps mit Haustier für Rennes",
       "titleNl": "Belangrijke reistips met huisdier voor Rennes",
+      "titleIt": "Consigli di viaggio essenziali con il cane per Rennes",
       "introDe": "Rennes ist eine hundetolerante französische Regionalhauptstadt mit ausgeprägter Außencafé-Kultur, dem mittelalterlichen Fachwerkzentrum (nach dem Brand von 1720 auf der Ostseite wiederaufgebaut), dem Parc du Thabor und einfachem Tagesausflugszugang zur bretonischen Küste. Zu beachtende haustierspezifische Regeln sind die Genehmigungspflicht für Hunde der Kategorie 1 und 2 bei eingeschränkten Rassen, die Maulkorbpflicht in der STAR-Metro für größere Hunde und die strengen saisonalen Strandbeschränkungen an der Küste zwischen dem 15. Juni und 15. September. Das französische Recht verlangt zudem für alle einreisenden Hunde ISO-Mikrochip, Tollwutimpfung und EU-Heimtierausweis.",
       "introNl": "Rennes is een hondentolerante Franse regionale hoofdstad met een uitgesproken buitencafécultuur, het middeleeuwse vakwerkcentrum (herbouwd na de brand van 1720 aan de oostkant), het Parc du Thabor en makkelijke dagtochten naar de Bretonse kust. Huisdierspecifieke regels om op te letten zijn de vergunningsplicht voor honden van categorie 1 en 2 bij beperkte rassen, de muilkorfplicht in de STAR-metro voor grotere honden, en de strikte seizoensgebonden strandbeperkingen aan de kust tussen 15 juni en 15 september. Het Franse recht vereist bovendien voor alle binnenkomende honden een ISO-microchip, rabiësvaccinatie en EU-dierenpaspoort.",
+      "introIt": "Rennes è una capitale regionale francese che tollera bene i cani, con una spiccata cultura dei caffè all'aperto, il centro medievale a graticcio (ricostruito dopo l'incendio del 1720 sul lato est), il Parc du Thabor e comode gite in giornata verso la costa bretone. Le regole specifiche per gli animali da tenere a mente sono l'obbligo di permesso per i cani di categoria 1 e 2 tra le razze limitate, l'obbligo di museruola sulla metro STAR per i cani più grandi, e le rigide restrizioni stagionali sulle spiagge della costa tra il 15 giugno e il 15 settembre. Il diritto francese richiede inoltre per tutti i cani in ingresso un microchip ISO, la vaccinazione antirabbica e il passaporto UE per animali.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Rennes",
@@ -658,10 +733,13 @@
           "tipPt": "As visitas guiadas ao interior do Parlement (com as magníficas pinturas de teto do século XVII) não admitem cães; deixe o cão com um companheiro na praça ou marque as visitas quando viajar sozinho sem o cão.",
           "descriptionDe": "Der monumentale Platz aus dem 17. Jahrhundert im Herzen von Rennes, dominiert vom Parlement de Bretagne, dem historischen Sitz des bretonischen Regionalparlaments, erbaut zwischen 1618 und 1655. Die Fassade von Salomon de Brosse aus goldenem Sandstein ist eines der schönsten erhaltenen Beispiele französischer Renaissance-Zivilarchitektur im Land. Angeleinte Hunde sind auf dem gesamten Fußgängerplatz und an jeder Cafeterrasse mit Blick auf das Parlement willkommen.",
           "descriptionNl": "Het monumentale plein uit de 17e eeuw in het hart van Rennes, gedomineerd door het Parlement de Bretagne, de historische zetel van het Bretonse regionale parlement, gebouwd tussen 1618 en 1655. De gevel van Salomon de Brosse in gouden zandsteen is een van de mooist bewaarde voorbeelden van Franse renaissance-burgerlijke architectuur in het land. Aangelijnde honden zijn welkom op het hele voetgangersplein en aan elk caféterras met uitzicht op het Parlement.",
+          "descriptionIt": "La monumentale piazza del XVII secolo nel cuore di Rennes, dominata dal Parlement de Bretagne, storica sede del parlamento regionale bretone, costruito tra il 1618 e il 1655. La facciata in arenaria dorata di Salomon de Brosse è uno degli esempi meglio conservati di architettura civile rinascimentale francese nel paese. I cani al guinzaglio sono benvenuti su tutta la piazza pedonale e a ogni terrazza di caffè con vista sul Parlamento.",
           "petPolicyDe": "Angeleinte Hunde auf dem gesamten Fußgängerplatz willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op het hele voetgangersplein",
+          "petPolicyIt": "Cani al guinzaglio benvenuti su tutta la piazza pedonale",
           "tipDe": "Geführte Innenbesichtigungen des Parlements (mit den prachtvollen Deckengemälden aus dem 17. Jahrhundert) sind für Hunde nicht zugänglich; den Hund bei einer Begleitperson auf dem Platz lassen oder Führungen bei einer Solo-Reise ohne Hund einplanen.",
-          "tipNl": "Rondleidingen door het interieur van het Parlement (met de prachtige plafondschilderingen uit de 17e eeuw) zijn niet toegankelijk voor honden, laat de hond bij een begeleider op het plein achter of plan een rondleiding tijdens een solo-uitstapje zonder hond."
+          "tipNl": "Rondleidingen door het interieur van het Parlement (met de prachtige plafondschilderingen uit de 17e eeuw) zijn niet toegankelijk voor honden, laat de hond bij een begeleider op het plein achter of plan een rondleiding tijdens een solo-uitstapje zonder hond.",
+          "tipIt": "Le visite guidate all'interno del Parlamento (con gli splendidi affreschi a soffitto del XVII secolo) non sono accessibili ai cani, lascia il cane con un accompagnatore in piazza oppure pianifica la visita durante un'uscita da solo senza cane."
         },
         {
           "name": "Cathédrale Saint-Pierre de Rennes",
@@ -685,10 +763,13 @@
           "tipPt": "Combine o exterior da catedral com as Portes Mordelaises (a única porta medieval da cidade que subsiste) logo atrás, ambas totalmente acolhedoras para cães e concentradas num circuito a pé de 10 minutos.",
           "descriptionDe": "Die römisch-katholische Kathedrale von Rennes, zwischen 1787 und 1844 in nüchternem neoklassizistischem Stil mit reich bemaltem Innenraum erbaut, liegt im Herzen des erhaltenen mittelalterlichen Viertels. Der westliche Vorplatz der Kathedrale ist ein beliebter Treffpunkt, und die umliegenden Kopfsteinpflasterstraßen (Rue du Chapitre, Rue de la Psallette) gehören zu den fotogensten Gassen der Stadt für Hundespaziergänge, mit Fachwerkhäusern aus dem 15.-17. Jahrhundert auf beiden Seiten.",
           "descriptionNl": "De rooms-katholieke kathedraal van Rennes, gebouwd tussen 1787 en 1844 in een sobere neoclassicistische stijl met een rijk beschilderd interieur, ligt in het hart van de bewaard gebleven middeleeuwse wijk. Het westelijke voorplein van de kathedraal is een populair trefpunt, en de omliggende kasseienstraten (Rue du Chapitre, Rue de la Psallette) horen bij de meest fotogenieke steegjes van de stad om met je hond te wandelen, met vakwerkhuizen uit de 15e-17e eeuw aan beide kanten.",
+          "descriptionIt": "La cattedrale cattolica di Rennes, costruita tra il 1787 e il 1844 in uno stile neoclassico sobrio con un interno riccamente decorato, si trova nel cuore del quartiere medievale conservato. Il sagrato occidentale della cattedrale è un punto d'incontro popolare, e le vie acciottolate circostanti (Rue du Chapitre, Rue de la Psallette) sono tra i vicoli più fotogenici della città da percorrere con il cane, con case a graticcio del XV-XVII secolo su entrambi i lati.",
           "petPolicyDe": "Angeleinte Hunde rund um die Kathedrale willkommen; innen nicht zugelassen",
           "petPolicyNl": "Aangelijnde honden welkom rond de kathedraal; binnen niet toegestaan",
+          "petPolicyIt": "Cani al guinzaglio benvenuti intorno alla cattedrale; non ammessi all'interno",
           "tipDe": "Die Kathedrale von außen mit den Portes Mordelaises (dem einzigen erhaltenen mittelalterlichen Stadttor) direkt dahinter verbinden, beides voll hundefreundlich und in einer 10-minütigen Runde zusammengefasst.",
-          "tipNl": "Combineer de buitenkant van de kathedraal met de Portes Mordelaises (de enige bewaard gebleven middeleeuwse stadspoort) er direct achter, beide volledig hondvriendelijk en samen te doen in een wandeling van 10 minuten."
+          "tipNl": "Combineer de buitenkant van de kathedraal met de Portes Mordelaises (de enige bewaard gebleven middeleeuwse stadspoort) er direct achter, beide volledig hondvriendelijk en samen te doen in een wandeling van 10 minuten.",
+          "tipIt": "Abbina l'esterno della cattedrale alle Portes Mordelaises (l'unica porta cittadina medievale sopravvissuta) subito dietro, entrambe completamente pet-friendly e percorribili insieme in una passeggiata di 10 minuti."
         },
         {
           "name": "Marché des Lices",
@@ -712,20 +793,26 @@
           "tipPt": "Chegue antes das 09:00 com o cão, depois das 10:00 o mercado fica ombro com ombro e os cães pequenos podem ser pisados, sobretudo nos pavilhões cobertos.",
           "descriptionDe": "Der Marché des Lices auf der Place des Lices jeden Samstagvormittag ist nach Lyon der zweitgrößte Freiluftmarkt Frankreichs, mit rund 300 Ständen bretonischer Erzeugnisse, Austern, Andouille de Guéméné, Galettes-saucisses, Cidre und Bauernhofkäse, verteilt auf zwei überdachte Hallen und den größeren Platz. Angeleinte Hunde sind überall willkommen, und die Seitenterrassen füllen sich mit Marktbeschickern und Kunden, die bei Galette-saucisse und Cidre plaudern.",
           "descriptionNl": "De Marché des Lices op de Place des Lices, elke zaterdagochtend, is na Lyon de tweede grootste openluchtmarkt van Frankrijk, met zo'n 300 kraampjes met Bretonse producten, oesters, andouille de Guéméné, galettes-saucisses, cidre en boerenkazen, verdeeld over twee overdekte hallen en het grotere plein. Aangelijnde honden zijn overal welkom, en de zijterrassen vullen zich met marktkooplui en klanten die kletsen bij galette-saucisse en cidre.",
+          "descriptionIt": "Il Marché des Lices su Place des Lices, ogni sabato mattina, è il secondo mercato all'aperto più grande di Francia dopo Lione, con circa 300 bancarelle di prodotti bretoni, ostriche, andouille de Guéméné, galettes-saucisses, sidro e formaggi contadini, distribuite tra due padiglioni coperti e la piazza più grande. I cani al guinzaglio sono benvenuti ovunque, e le terrazze laterali si riempiono di venditori e clienti che chiacchierano tra galette-saucisse e sidro.",
           "petPolicyDe": "Angeleinte Hunde im gesamten Markt und den umliegenden Cafés willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op de hele markt en in de omliggende cafés",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in tutto il mercato e nei caffè circostanti",
           "tipDe": "Vor 09:00 Uhr mit dem Hund kommen, nach 10:00 Uhr wird der Markt schulterschmal und kleine Hunde können getreten werden, besonders in den überdachten Hallen.",
-          "tipNl": "Kom voor 09:00 uur met je hond, na 10:00 uur wordt de markt schouder aan schouder druk en kunnen kleine honden vertrapt worden, vooral in de overdekte hallen."
+          "tipNl": "Kom voor 09:00 uur met je hond, na 10:00 uur wordt de markt schouder aan schouder druk en kunnen kleine honden vertrapt worden, vooral in de overdekte hallen.",
+          "tipIt": "Vieni con il cane prima delle 09:00, dopo le 10:00 il mercato diventa pieno spalla a spalla e i cani piccoli rischiano di essere calpestati, soprattutto nei padiglioni coperti."
         }
       ],
       "titlePt": "Atrações pet-friendly em Rennes",
       "introPt": "As principais atrações de Rennes são em grande parte ao ar livre e prestam-se a longos passeios de cão com trela: a monumental Place du Parlement de Bretagne, o centro medieval de tabique em torno da Rue du Chapitre e da Place des Lices (o maior mercado de produtos frescos da Bretanha aos sábados), a Cathédrale Saint-Pierre e o Parc du Thabor de 10 hectares. As visitas a interiores (catedral, Musée des Beaux-Arts) seguem a regra francesa habitual de só cães pequenos em transportadora ou nenhum cão, mas o conjunto ao ar livre é o ponto alto para a maioria dos viajantes.",
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Rennes",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Rennes",
+      "titleIt": "Attrazioni pet-friendly a Rennes",
       "introDe": "Die wichtigsten Sehenswürdigkeiten von Rennes liegen größtenteils im Freien und eignen sich für lange angeleinte Spaziergänge: die monumentale Place du Parlement de Bretagne, das mittelalterliche Fachwerkzentrum rund um die Rue du Chapitre und die Place des Lices (samstags der größte Lebensmittelmarkt der Bretagne), die Kathedrale Saint-Pierre und der 10 Hektar große Parc du Thabor. Bei Innenbesuchen (Kathedrale, Musée des Beaux-Arts) gilt die übliche französische Regel: nur kleine Hunde in Transportboxen oder gar keine Hunde, doch das Freiluft-Ensemble ist für die meisten Reisenden das Highlight.",
       "introNl": "De belangrijkste bezienswaardigheden van Rennes liggen grotendeels buiten en lenen zich voor lange aangelijnde wandelingen: het monumentale Place du Parlement de Bretagne, het middeleeuwse vakwerkcentrum rond de Rue du Chapitre en de Place des Lices (op zaterdag de grootste voedselmarkt van Bretagne), de kathedraal Saint-Pierre en het 10 hectare grote Parc du Thabor. Bij bezoeken binnen (kathedraal, Musée des Beaux-Arts) geldt de gebruikelijke Franse regel: alleen kleine honden in draagtassen of helemaal geen honden, maar het buitenensemble is voor de meeste reizigers het hoogtepunt.",
+      "introIt": "Le principali attrazioni di Rennes sono in gran parte all'aperto e si prestano a lunghe passeggiate al guinzaglio: la monumentale Place du Parlement de Bretagne, il centro medievale a graticcio intorno a Rue du Chapitre e Place des Lices (il sabato il più grande mercato alimentare della Bretagna), la cattedrale Saint-Pierre e il Parc du Thabor di 10 ettari. Per le visite al chiuso (cattedrale, Musée des Beaux-Arts) vale la solita regola francese: solo cani piccoli in borsa da trasporto o nessun cane, ma l'insieme all'aperto è per la maggior parte dei viaggiatori il momento clou.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Care Services in Rennes",
@@ -760,10 +847,13 @@
           "tipPt": "Filtre pelos cuidadores que declaram explicitamente experiência com o tamanho e a raça do seu cão, a oferta de Rennes é razoável mas os melhores cuidadores ficam reservados com 1 a 2 semanas de antecedência durante o Festival des Champs Libres e o Trans Musicales.",
           "descriptionDe": "Pawshake ist eine vertrauenswürdige europäische Haustierbetreuungsplattform mit verifizierten Betreuern in Rennes, die Gassi-Service, Hausbesuche, Tagesbetreuung und Übernachtungsaufenthalte anbieten. Alle Betreuer sind geprüft, über die Plattform versichert und öffentlich bewertet. Die App unterstützt direkte Nachrichten an Betreuer und vollständig Online-Buchung. Für Tagesbetreuung während des Aufenthalts in Rennes 24-48 Stunden im Voraus buchen, besonders während des Festivals Trans Musicales Anfang Dezember und in den Sommerferien.",
           "descriptionNl": "Pawshake is een betrouwbaar Europees platform voor huisdieroppas met geverifieerde oppassers in Rennes, die uitlaatservice, huisbezoeken, dagopvang en overnachtingsverblijven aanbieden. Alle oppassers zijn gescreend, verzekerd via het platform en publiekelijk beoordeeld. De app ondersteunt directe berichten naar oppassers en volledig online boeken. Boek voor dagopvang tijdens je verblijf in Rennes 24-48 uur van tevoren, vooral tijdens het festival Trans Musicales begin december en in de zomervakantie.",
+          "descriptionIt": "Pawshake è una piattaforma europea affidabile di dog sitting con sitter verificati a Rennes, che offrono dog walking, visite a domicilio, assistenza diurna e pernottamento. Tutti i sitter sono selezionati, assicurati tramite la piattaforma e valutati pubblicamente. L'app consente messaggi diretti ai sitter e prenotazione interamente online. Prenota l'assistenza diurna durante il soggiorno a Rennes 24-48 ore prima, soprattutto durante il festival Trans Musicales a inizio dicembre e nelle vacanze estive.",
           "petPolicyDe": "Verifizierte Betreuer, Versicherung über die Plattform inbegriffen",
           "petPolicyNl": "Geverifieerde oppassers, verzekering via het platform inbegrepen",
+          "petPolicyIt": "Sitter verificati, assicurazione della piattaforma inclusa",
           "tipDe": "Nach Betreuern filtern, die ausdrücklich Erfahrung mit Größe und Rasse des eigenen Hundes angeben, der Pool in Rennes ist ordentlich, aber die besten Betreuer sind während des Festival des Champs Libres und der Trans Musicales 1-2 Wochen im Voraus ausgebucht.",
-          "tipNl": "Filter op oppassers die uitdrukkelijk ervaring vermelden met de grootte en het ras van je hond, de pool in Rennes is behoorlijk, maar de beste oppassers zijn tijdens het Festival des Champs Libres en de Trans Musicales 1-2 weken van tevoren volgeboekt."
+          "tipNl": "Filter op oppassers die uitdrukkelijk ervaring vermelden met de grootte en het ras van je hond, de pool in Rennes is behoorlijk, maar de beste oppassers zijn tijdens het Festival des Champs Libres en de Trans Musicales 1-2 weken van tevoren volgeboekt.",
+          "tipIt": "Filtra i sitter che indicano esplicitamente esperienza con la taglia e la razza del tuo cane, l'offerta a Rennes è buona, ma i sitter migliori durante il Festival des Champs Libres e le Trans Musicales sono al completo con 1-2 settimane di anticipo."
         },
         {
           "name": "Rover.com Rennes",
@@ -790,10 +880,13 @@
           "tipPt": "Reserve o seu cuidador antes de chegar a Rennes, os cuidadores mais bem avaliados dos bairros universitários de Villejean-Beaulieu enchem-se depressa quando o ano letivo decorre (setembro a junho).",
           "descriptionDe": "Rover.com ist der international anerkannte Marktplatz für Haustierbetreuung mit wachsender Präsenz in Rennes. Die Plattform verbindet Hundehalter mit verifizierten lokalen Betreuern für Gassi-Service, Tagesbetreuung, Haussitting und Übernachtungspension. Suchfilter decken Erfahrung des Betreuers, Hundegröße und Verfügbarkeit ab. Bewertungen sind größtenteils auf Französisch, doch eine wachsende Zahl von Profilen aus den Studentenvierteln deutet auf Englischkenntnisse hin, nützlich für internationale Besucher.",
           "descriptionNl": "Rover.com is de internationaal erkende marktplaats voor huisdieroppas met een groeiende aanwezigheid in Rennes. Het platform verbindt hondenbezitters met geverifieerde lokale oppassers voor uitlaatservice, dagopvang, huisoppas en overnachtingspension. Zoekfilters dekken de ervaring van de oppasser, de grootte van de hond en beschikbaarheid. Beoordelingen zijn grotendeels in het Frans, maar een groeiend aantal profielen uit de studentenwijken wijst op Engelse taalvaardigheid, handig voor internationale bezoekers.",
+          "descriptionIt": "Rover.com è il marketplace di dog sitting riconosciuto a livello internazionale con una presenza crescente a Rennes. La piattaforma mette in contatto i proprietari di cani con sitter locali verificati per dog walking, assistenza diurna, visite a domicilio e pensione con pernottamento. I filtri di ricerca coprono l'esperienza del sitter, la taglia del cane e la disponibilità. Le recensioni sono per lo più in francese, ma un numero crescente di profili nei quartieri studenteschi indica competenza in inglese, utile per i visitatori internazionali.",
           "petPolicyDe": "Verifizierte Betreuer, Rover-Garantie inbegriffen",
           "petPolicyNl": "Geverifieerde oppassers, Rover-garantie inbegrepen",
+          "petPolicyIt": "Sitter verificati, garanzia Rover inclusa",
           "tipDe": "Den Betreuer vor der Ankunft in Rennes buchen, die bestbewerteten Betreuer in den Universitätsvierteln Villejean-Beaulieu sind während des Studienjahres (September-Juni) schnell ausgebucht.",
-          "tipNl": "Boek de oppasser voordat je in Rennes aankomt, de best beoordeelde oppassers in de studentenwijken Villejean-Beaulieu zitten tijdens het studiejaar (september-juni) snel vol."
+          "tipNl": "Boek de oppasser voordat je in Rennes aankomt, de best beoordeelde oppassers in de studentenwijken Villejean-Beaulieu zitten tijdens het studiejaar (september-juni) snel vol.",
+          "tipIt": "Prenota il sitter prima di arrivare a Rennes, i sitter meglio valutati nei quartieri studenteschi di Villejean-Beaulieu si riempiono in fretta durante l'anno accademico (settembre-giugno)."
         },
         {
           "name": "Holidog Rennes",
@@ -820,20 +913,26 @@
           "tipPt": "Marque previamente um encontro de apresentação de 30 minutos com qualquer cuidador novo antes da estadia em si, a maioria dos cuidadores de Rennes oferece-o gratuitamente e deixa que o seu cão se habitue ao local.",
           "descriptionDe": "Holidog ist eine europäische Haustierbetreuungsplattform französischen Ursprungs mit besonders starker Präsenz in Rennes (die Stadt gehört zu ihrem Heimatmarkt), die Gassi-Service, Tagesbetreuung und Haussitting anbietet. Betreuer sind geprüft, Bewertungen werden auf Französisch und Englisch zusammengefasst. Besonders nützlich für französischsprachige Besucher, die einen muttersprachlichen Betreuer bevorzugen; der Pool in Rennes gehört zu den größten der Bretagne. Versicherung ist bei jeder Buchung inbegriffen.",
           "descriptionNl": "Holidog is een Europees platform voor huisdieroppas van Franse oorsprong met een bijzonder sterke aanwezigheid in Rennes (de stad hoort tot de thuismarkt), dat uitlaatservice, dagopvang en huisoppas aanbiedt. Oppassers zijn gescreend, beoordelingen worden samengevat in het Frans en Engels. Vooral handig voor Franstalige bezoekers die een moedertaalspreker als oppasser willen; de pool in Rennes hoort tot de grootste van Bretagne. Verzekering is bij elke boeking inbegrepen.",
+          "descriptionIt": "Holidog è una piattaforma europea di dog sitting di origine francese con una presenza particolarmente forte a Rennes (la città è tra i mercati di riferimento), che offre dog walking, assistenza diurna e visite a domicilio. I sitter sono selezionati, le recensioni sono riassunte in francese e inglese. Particolarmente utile per i visitatori francofoni che vogliono un sitter madrelingua; l'offerta a Rennes è tra le più grandi della Bretagna. L'assicurazione è inclusa in ogni prenotazione.",
           "petPolicyDe": "Verifizierte Betreuer, Versicherung bei jeder Buchung inbegriffen",
           "petPolicyNl": "Geverifieerde oppassers, verzekering bij elke boeking inbegrepen",
+          "petPolicyIt": "Sitter verificati, assicurazione inclusa in ogni prenotazione",
           "tipDe": "Vor dem eigentlichen Aufenthalt ein 30-minütiges Kennenlerntreffen mit einem neuen Betreuer vereinbaren, die meisten Betreuer in Rennes bieten das kostenlos an, so gewöhnt sich der Hund an den Ort.",
-          "tipNl": "Plan voor het eigenlijke verblijf een kennismaking van 30 minuten met een nieuwe oppasser, de meeste oppassers in Rennes bieden dit gratis aan, zo went de hond alvast aan de plek."
+          "tipNl": "Plan voor het eigenlijke verblijf een kennismaking van 30 minuten met een nieuwe oppasser, de meeste oppassers in Rennes bieden dit gratis aan, zo went de hond alvast aan de plek.",
+          "tipIt": "Prima del soggiorno vero e proprio, organizza un incontro di 30 minuti con un nuovo sitter, la maggior parte dei sitter a Rennes lo offre gratis, così il cane si abitua in anticipo all'ambiente."
         }
       ],
       "titlePt": "Serviços de pet-sitting e de cuidados a cães em Rennes",
       "introPt": "Rennes tem um forte ecossistema de pet-sitting, com as principais plataformas internacionais (Pawshake, Rover, Holidog) e vários passeadores e canis independentes locais na Rennes Métropole. Útil quando quiser apanhar o TGV para Paris por um dia, visitar o Mont-Saint-Michel sem cão, ou jantar num dos restaurantes centrais que restringem cães no interior. A maioria dos cuidadores fala francês; os cuidadores que falam inglês concentram-se nos bairros universitários.",
       "titleDe": "Haustierbetreuung & Hundebetreuungsdienste in Rennes",
       "titleNl": "Huisdieroppas & hondenoppasdiensten in Rennes",
+      "titleIt": "Dog sitting e servizi di custodia cani a Rennes",
       "introDe": "Rennes verfügt über ein starkes Netzwerk an Haustierbetreuung, sowohl über die großen internationalen Plattformen (Pawshake, Rover, Holidog) als auch über mehrere lokale unabhängige Gassigeher und Pensionen in Rennes Métropole. Nützlich, wenn man mit dem TGV für einen Tag nach Paris fahren, den Mont-Saint-Michel ohne Hund besuchen oder in einem der zentralen Restaurants essen möchte, die Hunde im Innenbereich nicht zulassen. Die meisten Betreuer sprechen Französisch; englischsprachige Betreuer konzentrieren sich auf die Universitätsviertel.",
       "introNl": "Rennes beschikt over een sterk netwerk van huisdieroppas, zowel via de grote internationale platforms (Pawshake, Rover, Holidog) als via meerdere lokale onafhankelijke uitlaters en pensions in Rennes Métropole. Handig als je met de TGV een dagje naar Parijs wilt, de Mont-Saint-Michel zonder hond wilt bezoeken, of wilt eten in een van de centrale restaurants die honden binnen niet toelaten. De meeste oppassers spreken Frans; Engelssprekende oppassers concentreren zich in de studentenwijken.",
+      "introIt": "Rennes dispone di una solida rete di dog sitting, sia tramite le grandi piattaforme internazionali (Pawshake, Rover, Holidog) sia tramite diversi dog walker e pensioni indipendenti locali a Rennes Métropole. Comodo se vuoi fare una gita in giornata a Parigi con il TGV, visitare il Mont-Saint-Michel senza cane, o mangiare in uno dei ristoranti centrali che non ammettono cani all'interno. La maggior parte dei sitter parla francese; i sitter di lingua inglese si concentrano nei quartieri studenteschi.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

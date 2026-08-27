@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Moravsk%C3%A1+restaurace+Olomouc",
           "descriptionDe": "Eine mährische Institution direkt am Hauptplatz, gegenüber der UNESCO-Heiligen-Dreifaltigkeitssäule, serviert regionale Klassiker und Spezialitäten vom Lavagrill. Es trägt das offizielle Hund-willkommen-Symbol, sodass Ihr Begleiter unter den Arkaden dabei sein kann.",
           "descriptionNl": "Een Moravische institutie direct aan het hoofdplein, tegenover de UNESCO Heilige Drie-eenheidszuil, serveert regionale klassiekers en specialiteiten van de lavagrill. Het draagt het officiële hond-welkom-symbool, zodat je metgezel onder de arcaden mee kan.",
+          "descriptionIt": "Un'istituzione moravica proprio sulla piazza principale, di fronte alla Colonna della Santissima Trinità patrimonio UNESCO, serve classici regionali e specialità alla griglia di lava. Ha il simbolo ufficiale cani benvenuti, quindi il tuo compagno può stare con te sotto i portici.",
           "petPolicyDe": "Hunde offiziell willkommen im Gastraum und auf der Terrasse",
           "petPolicyNl": "Honden officieel welkom in de eetzaal en op het terras",
+          "petPolicyIt": "Cani ufficialmente benvenuti in sala e in terrazza",
           "mustTryDe": "Mährische Ente mit Kraut und Knödeln",
           "mustTryNl": "Moravische eend met kool en knoedels",
+          "mustTryIt": "Anatra moravica con cavolo e canederli",
           "tipDe": "Bitten Sie um einen Terrassentisch am Säulen-Ende des Platzes: Schatten für den Hund und beste Sicht auf die Menschenmenge bei der astronomischen Uhr.",
-          "tipNl": "Vraag om een terrastafel aan de kant van de zuil: schaduw voor de hond en het beste zicht op de mensenmenigte bij het astronomisch uurwerk."
+          "tipNl": "Vraag om een terrastafel aan de kant van de zuil: schaduw voor de hond en het beste zicht op de mensenmenigte bij het astronomisch uurwerk.",
+          "tipIt": "Chiedi un tavolo in terrazza dal lato della colonna: ombra per il cane e la vista migliore sulla folla davanti all'orologio astronomico."
         },
         {
           "name": "Restaurace u Macků",
@@ -76,20 +80,27 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Restaurace+u+Mack%C5%AF+Svat%C3%BD+Kope%C4%8Dek",
           "descriptionDe": "Ein Familienrestaurant auf dem Wallfahrtshügel Svatý Kopeček, wenige Minuten sowohl von der barocken Basilika als auch vom Zoo-Eingang entfernt, mit deftiger tschechischer Küche und offizieller Hunde-willkommen-Politik. Der natürliche Mittagsstopp bei einem Hundeausflug zum Hügel.",
           "descriptionNl": "Een familierestaurant op de bedevaartheuvel Svatý Kopeček, enkele minuten van zowel de barokke basiliek als de ingang van de dierentuin, met stevige Tsjechische keuken en een officieel hond-welkom-beleid. De natuurlijke lunchstop tijdens een hondenuitstapje naar de heuvel.",
+          "descriptionIt": "Un ristorante di famiglia sulla collina di pellegrinaggio Svatý Kopeček, a pochi minuti sia dalla basilica barocca che dall'ingresso dello zoo, con cucina ceca sostanziosa e una politica ufficiale di cani benvenuti. La sosta pranzo naturale durante una gita con il cane sulla collina.",
           "petPolicyDe": "Hunde offiziell willkommen",
           "petPolicyNl": "Honden officieel welkom",
+          "petPolicyIt": "Cani ufficialmente benvenuti",
           "mustTryDe": "Svíčková mit Preiselbeeren nach dem Waldspaziergang bergauf",
           "mustTryNl": "Svíčková met veenbessen na de bergopwaartse boswandeling",
+          "mustTryIt": "Svíčková con mirtilli rossi dopo la camminata in salita nel bosco",
           "tipDe": "Kombinieren Sie es mit dem Zoo nebenan, einem der tschechischen Zoos, die angeleinte, mit Maulkorb ausgestattete Hunde für ein 100-CZK-Ticket zulassen.",
-          "tipNl": "Combineer het met de dierentuin ernaast, een van de Tsjechische dierentuinen die honden aan de lijn met muilkorf toelaat voor een ticket van 100 CZK."
+          "tipNl": "Combineer het met de dierentuin ernaast, een van de Tsjechische dierentuinen die honden aan de lijn met muilkorf toelaat voor een ticket van 100 CZK.",
+          "tipIt": "Abbinalo allo zoo qui accanto, uno degli zoo cechi che ammette cani al guinzaglio con museruola con un biglietto da 100 CZK."
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Olomouc",
       "titleNl": "Hondvriendelijke restaurants in Olomouc",
+      "titleIt": "Ristoranti pet-friendly a Olomouc",
       "introDe": "Die tschechische Wirtshauskultur ist still hundetolerant, und das Studentenstädtchen Olomouc mehr als die meisten: Verzeichnisse wie hunger.cz kennzeichnen die Lokale, die Hunde offiziell willkommen heißen, vom Hauptplatz bis zum Wallfahrtshügel Svatý Kopeček. Wie überall in Tschechien sind Hunde nur im Gastraum erlaubt, nie in der Nähe der Küche.",
       "introNl": "De Tsjechische wirtshauscultuur is stilzwijgend hondtolerant, en het studentenstadje Olomouc meer dan de meeste: gidsen zoals hunger.cz markeren de zaken die honden officieel welkom heten, van het hoofdplein tot de bedevaartheuvel Svatý Kopeček. Zoals overal in Tsjechië zijn honden alleen toegestaan in de eetzaal, nooit in de buurt van de keuken.",
+      "introIt": "La cultura ceca delle osterie è tacitamente tollerante verso i cani, e la città universitaria di Olomouc più di altre: guide come hunger.cz segnalano i locali dove i cani sono ufficialmente benvenuti, dalla piazza principale alla collina di pellegrinaggio Svatý Kopeček. Come ovunque in Repubblica Ceca, i cani sono ammessi solo in sala, mai vicino alla cucina.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Parks & Walks for Dogs in Olomouc",
@@ -146,10 +157,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Bezru%C4%8Dovy+sady+Olomouc",
           "descriptionDe": "Der stimmungsvollste von Olomoucs Parks, eine grüne Schlucht zwischen den mittelalterlichen Mauern und dem Mlýnský-Bach, mit weidenbeschatteten Wegen und dem Botanischen Garten an einem Ende. Angeleinte Hunde gehören zum täglichen Flanierverkehr dazu.",
           "descriptionNl": "Het sfeervolste park van Olomouc, een groene kloof tussen de middeleeuwse muren en de Mlýnský-beek, met door wilgen beschaduwde paden en de botanische tuin aan het ene uiteinde. Honden aan de lijn horen bij het dagelijkse wandelverkeer.",
+          "descriptionIt": "Il parco più suggestivo di Olomouc, un fossato verde tra le mura medievali e il ruscello Mlýnský, con sentieri ombreggiati dai salici e l'orto botanico a un'estremità. I cani al guinzaglio fanno parte del traffico quotidiano di passeggiate.",
           "leashRulesDe": "Leinenpflicht; die Stadtpolizei verhängt Bußgelder vor Ort",
           "leashRulesNl": "Aanlijnplicht; de gemeentepolitie deelt ter plekke boetes uit",
+          "leashRulesIt": "Guinzaglio obbligatorio; la polizia municipale fa multe sul posto",
           "bestTimeToVisitDe": "Morgens, wenn die Mauern Schatten über die ganze Schlucht werfen",
-          "bestTimeToVisitNl": "Ochtend, wanneer de muren schaduw werpen over de hele kloof"
+          "bestTimeToVisitNl": "Ochtend, wanneer de muren schaduw werpen over de hele kloof",
+          "bestTimeToVisitIt": "Mattina, quando le mura fanno ombra su tutto il fossato"
         },
         {
           "name": "Smetanovy sady",
@@ -196,10 +210,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Smetanovy+sady+Olomouc",
           "descriptionDe": "Olomoucs großer zentraler Park mit Platanenalleen, einem Musikpavillon, Palmenhaus und weiten Rasenflächen, die zu den Čechovy sady führen. Flach, schattig und ab dem frühen Morgen belebt von örtlichen Hunden an der Leine.",
           "descriptionNl": "Het grote centrale park van Olomouc met platanenlanen, een muziekkoepel, een palmenkas en uitgestrekte grasvelden die naar de Čechovy sady leiden. Vlak, schaduwrijk en vanaf de vroege ochtend bevolkt door lokale honden aan de lijn.",
+          "descriptionIt": "Il grande parco centrale di Olomouc con viali di platani, un chiosco della musica, una serra di palme e ampi prati che portano ai Čechovy sady. Pianeggiante, ombreggiato e frequentato dai cani del posto al guinzaglio fin dal primo mattino.",
           "leashRulesDe": "Durchgehend Leinenpflicht",
           "leashRulesNl": "Overal aanlijnplicht",
+          "leashRulesIt": "Guinzaglio obbligatorio ovunque",
           "bestTimeToVisitDe": "Später Nachmittag unter den Platanen; Blumenbeete blühen im Mai-Juni am schönsten",
-          "bestTimeToVisitNl": "Late namiddag onder de platanen; bloemperken bloeien het mooist in mei-juni"
+          "bestTimeToVisitNl": "Late namiddag onder de platanen; bloemperken bloeien het mooist in mei-juni",
+          "bestTimeToVisitIt": "Tardo pomeriggio sotto i platani; le aiuole sono al top tra maggio e giugno"
         },
         {
           "name": "Svatý Kopeček",
@@ -246,18 +263,24 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Svat%C3%BD+Kope%C4%8Dek+Olomouc",
           "descriptionDe": "Der bewaldete Wallfahrtshügel über der Stadt, gekrönt von der barocken Basilika, mit Waldwegen, die sich in Richtung der Ausläufer des Nízký Jeseník verzweigen. Einheimische führen ihre Hunde hier auch abseits der befestigten Wege, und der Zoo auf dem Hügel lässt sogar angeleinte, mit Maulkorb ausgestattete Hunde herein.",
           "descriptionNl": "De beboste bedevaartheuvel boven de stad, bekroond door de barokke basiliek, met bospaden die vertakken richting de uitlopers van het Nízký Jeseník. Locals laten hun honden hier ook buiten de verharde paden los, en de dierentuin op de heuvel laat zelfs honden aan de lijn met muilkorf binnen.",
+          "descriptionIt": "La collina boscosa di pellegrinaggio sopra la città, coronata dalla basilica barocca, con sentieri nel bosco che si diramano verso le propaggini del Nízký Jeseník. Qui i locali lasciano i cani liberi anche fuori dai sentieri battuti, e lo zoo sulla collina ammette persino cani al guinzaglio con museruola.",
           "leashRulesDe": "Freilauf auf ruhigen Waldabschnitten unter Sichtkontrolle toleriert; Leine nahe Basilika, Zoo und Picknickplätzen",
           "leashRulesNl": "Loslopen op rustige bosgedeeltes onder toezicht getolereerd; lijn verplicht bij basiliek, dierentuin en picknickplekken",
+          "leashRulesIt": "Libero nelle zone tranquille del bosco tollerato sotto controllo; guinzaglio obbligatorio vicino a basilica, zoo e aree picnic",
           "bestTimeToVisitDe": "Werktags morgens; Sommerwochenenden bringen Wallfahrts- und Zoobesucher",
-          "bestTimeToVisitNl": "Doordeweekse ochtenden; zomerweekenden brengen bedevaart- en dierentuinbezoekers"
+          "bestTimeToVisitNl": "Doordeweekse ochtenden; zomerweekenden brengen bedevaart- en dierentuinbezoekers",
+          "bestTimeToVisitIt": "Mattine feriali; nei weekend estivi arrivano pellegrini e visitatori dello zoo"
         }
       ],
       "titleDe": "Parks & Spaziergänge für Hunde in Olomouc",
       "titleNl": "Parken en wandelingen voor honden in Olomouc",
+      "titleIt": "Parchi e passeggiate per cani a Olomouc",
       "introDe": "Olomoucs barocker Stadtkern ist von einem fast durchgehenden Grüngürtel ehemaliger, in Parks umgewandelter Stadtmauern umgeben: Smetanovy, Čechovy und Bezručovy sady. In allen dreien besteht Leinenpflicht, und die Stadtpolizei verhängt Bußgelder bei Verstößen, sparen Sie sich den freien Auslauf also für die Uferwege der Morava-Aue und den Wald von Svatý Kopeček auf.",
       "introNl": "De barokke binnenstad van Olomouc wordt omringd door een bijna doorlopende groene gordel van voormalige, tot park omgevormde stadsmuren: Smetanovy, Čechovy en Bezručovy sady. In alle drie geldt aanlijnplicht, en de gemeentepolitie deelt boetes uit bij overtreding, bewaar het vrij loslopen dus voor de oeverpaden van de Morava-uiterwaarden en het bos van Svatý Kopeček.",
+      "introIt": "Il centro barocco di Olomouc è circondato da una cintura verde quasi continua, le antiche mura cittadine trasformate in parco: Smetanovy, Čechovy e Bezručovy sady. In tutti e tre vige l'obbligo di guinzaglio, e la polizia municipale multa chi non rispetta la regola, quindi riserva il tempo libero senza guinzaglio ai sentieri lungo la golena della Morava e al bosco di Svatý Kopeček.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Getting Around Olomouc with a Dog",
@@ -315,10 +338,13 @@
       ],
       "titleDe": "Mit Hund in Olomouc unterwegs",
       "titleNl": "Onderweg met hond in Olomouc",
+      "titleIt": "In giro con il cane a Olomouc",
       "introDe": "Olomoucs kompakter Stadtkern ist in fünfzehn Minuten zu Fuß erkundbar, und die Straßenbahnen und Busse der DPMO füllen die Lücken nach den üblichen tschechischen Regeln: eine geschlossene Transportbox oder Maulkorb plus kurze Leine, wobei der Hund nicht auf den Sitzen sitzen darf. Buslinie 11 verbindet das Zentrum mit Svatý Kopeček und dem hundefreundlichen Zoo.",
       "introNl": "De compacte binnenstad van Olomouc is in vijftien minuten te voet te verkennen, en de trams en bussen van DPMO vullen de gaten op volgens de gebruikelijke Tsjechische regels: een gesloten transportbox of muilkorf plus korte lijn, waarbij de hond niet op de stoelen mag zitten. Buslijn 11 verbindt het centrum met Svatý Kopeček en de hondvriendelijke dierentuin.",
+      "introIt": "Il centro compatto di Olomouc si gira a piedi in un quarto d'ora, e tram e bus della DPMO coprono il resto secondo le solite regole ceche: trasportino chiuso oppure museruola più guinzaglio corto, e il cane non può stare sui sedili. La linea 11 collega il centro a Svatý Kopeček e allo zoo pet-friendly.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Swimming Spots for Dogs near Olomouc",
@@ -372,10 +398,13 @@
       ],
       "titleDe": "Badestellen für Hunde bei Olomouc",
       "titleNl": "Zwemplekken voor honden bij Olomouc",
+      "titleIt": "Posti per fare il bagno con il cane vicino a Olomouc",
       "introDe": "Die Haná-Ebene rund um Olomouc ist übersät mit Kiesgrubenseen, hinterlassen von jahrzehntelangem Abbau entlang der Morava. Die bewirtschafteten Freibäder schließen Hunde in der Saison in der Regel aus, aber die freien Seen und Uferbereiche sind, wo örtliche Hunde sich abkühlen; achten Sie immer auf Beschilderung zur Brutzeit, mehrere Seen dienen auch als Vogelschutzgebiete.",
       "introNl": "De Haná-vlakte rond Olomouc ligt bezaaid met grindgatmeren, overblijfselen van decennia aan winning langs de Morava. De beheerde openluchtzwembaden sluiten honden tijdens het seizoen doorgaans uit, maar de vrije meren en oeverzones zijn waar lokale honden afkoelen; let altijd op bebording tijdens het broedseizoen, meerdere meren dienen ook als vogelbeschermingsgebied.",
+      "introIt": "La pianura della Haná intorno a Olomouc è punteggiata di laghi di cava, resti di decenni di estrazione lungo la Morava. Le piscine all'aperto gestite di solito escludono i cani durante la stagione, ma i laghi liberi e le rive sono dove i cani del posto si rinfrescano; controlla sempre la segnaletica durante la stagione della nidificazione, perché diversi laghi fungono anche da area protetta per gli uccelli.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Veterinarians in Olomouc",
@@ -430,10 +459,13 @@
       ],
       "titleDe": "Tierärzte in Olomouc",
       "titleNl": "Dierenartsen in Olomouc",
+      "titleIt": "Veterinari a Olomouc",
       "introDe": "Olomouc ist gut versorgt: Zwei etablierte Kliniken bieten telefonisch vereinbarte Notfallversorgung rund um die Uhr, eine ungewöhnlich gute Ausstattung für eine tschechische Stadt mit 100.000 Einwohnern. Rufen Sie immer zuerst an; die Versorgung außerhalb der Öffnungszeiten läuft auf Abruf mit Zuschlag.",
       "introNl": "Olomouc is goed voorzien: twee gevestigde klinieken bieden telefonisch overeengekomen spoedzorg rond de klok, een ongewoon goede voorziening voor een Tsjechische stad van 100.000 inwoners. Bel altijd eerst; zorg buiten openingstijden verloopt op afroep met toeslag.",
+      "introIt": "Olomouc è ben servita: due cliniche affermate offrono cure urgenti concordate per telefono ventiquattr'ore su ventiquattro, un servizio insolitamente buono per una città ceca di 100.000 abitanti. Chiama sempre prima; fuori orario le cure sono su chiamata con supplemento.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Olomouc with a Dog",
@@ -523,8 +555,10 @@
       ],
       "titleDe": "Wichtige Tipps für einen Besuch in Olomouc mit Hund",
       "titleNl": "Belangrijke tips voor een bezoek aan Olomouc met hond",
+      "titleIt": "Consigli utili per visitare Olomouc con il cane",
       "introDe": "Olomouc ist das Musterbeispiel für ruhiges, überfüllungsfreies Reisen in Tschechien: UNESCO-Denkmäler ohne die Prager Menschenmassen, ein Ring von Parks auf ehemaligen Wallanlagen, und eine echte Seltenheit, ein Zoo, der Ihren Hund hineinlässt. Ein paar örtliche Regeln machen den Aufenthalt reibungslos.",
       "introNl": "Olomouc is het schoolvoorbeeld van rustig, drukte-vrij reizen in Tsjechië: UNESCO-monumenten zonder de mensenmassa's van Praag, een ring van parken op voormalige vestingwallen, en een echte zeldzaamheid, een dierentuin die je hond binnenlaat. Een paar lokale regels maken het verblijf soepel.",
+      "introIt": "Olomouc è l'esempio perfetto di viaggio tranquillo e senza folla in Repubblica Ceca: monumenti UNESCO senza le masse di Praga, un anello di parchi sulle antiche mura difensive, e una vera rarità, uno zoo che fa entrare il tuo cane. Poche regole locali rendono il soggiorno facile.",
       "faqsDe": [
         {
           "q": "Kann mein Hund wirklich den Zoo Olomouc besuchen?",
@@ -552,6 +586,20 @@
           "q": "Waar kan mijn hond in Olomouc zonder lijn lopen?",
           "a": "Niet in de centrale wallenparken, waar aanlijnplicht met boetes wordt gehandhaafd. Locals gebruiken de oeverpaden van de Morava-uiterwaarden, de bospaden rond Svatý Kopeček en de oevers van de grindgatmeren buiten het broedseizoen om onder toezicht los te laten lopen."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio cane può davvero visitare lo zoo di Olomouc?",
+          "a": "Sì. Lo zoo di Olomouc a Svatý Kopeček vende un biglietto per cani da 100 CZK; il cane deve indossare museruola e guinzaglio per tutta la visita e non può entrare nei padiglioni o nei recinti accessibili. Le museruole si possono noleggiare alla cassa con una cauzione di 200 CZK."
+        },
+        {
+          "q": "C'è un veterinario di emergenza a Olomouc?",
+          "a": "Due cliniche coprono le emergenze ventiquattr'ore su ventiquattro previo appuntamento telefonico: la clinica del MVDr. Mazoch (Čechova 5, +420 585 428 351) e la Veterinární klinika Špruček (Brněnská 501/82, numero di reperibilità +420 728 308 803). Chiama prima di partire; fuori orario si applicano supplementi."
+        },
+        {
+          "q": "Dove può camminare il mio cane senza guinzaglio a Olomouc?",
+          "a": "Non nei parchi centrali sulle mura, dove il guinzaglio obbligatorio viene fatto rispettare con multe. I locali usano i sentieri lungo la golena della Morava, i sentieri nel bosco intorno a Svatý Kopeček e le rive dei laghi di cava fuori dalla stagione della nidificazione per lasciarli liberi sotto controllo."
+        }
       ]
     },
     "attractions": {
@@ -576,7 +624,8 @@
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/Holy+Trinity+Column+Olomouc",
           "descriptionDe": "Die 35 Meter hohe Heilige-Dreifaltigkeitssäule, die größte barocke Skulpturengruppe Mitteleuropas und seit 2000 UNESCO-Weltkulturerbe. Sie verankert einen Hauptplatz, auf dem Café-Terrassen, die astronomische Uhr und Ihr angeleinter Hund einträchtig nebeneinander bestehen.",
-          "descriptionNl": "De 35 meter hoge Heilige Drie-eenheidszuil, de grootste barokke beeldengroep van Midden-Europa en sinds 2000 UNESCO-werelderfgoed. Ze verankert een hoofdplein waar caféterrassen, het astronomisch uurwerk en je hond aan de lijn probleemloos naast elkaar bestaan."
+          "descriptionNl": "De 35 meter hoge Heilige Drie-eenheidszuil, de grootste barokke beeldengroep van Midden-Europa en sinds 2000 UNESCO-werelderfgoed. Ze verankert een hoofdplein waar caféterrassen, het astronomisch uurwerk en je hond aan de lijn probleemloos naast elkaar bestaan.",
+          "descriptionIt": "La Colonna della Santissima Trinità alta 35 metri, il più grande gruppo scultoreo barocco dell'Europa centrale e patrimonio UNESCO dal 2000. Ancora una piazza principale dove i tavolini dei caffè, l'orologio astronomico e il tuo cane al guinzaglio convivono senza problemi."
         },
         {
           "name": "Zoo Olomouc",
@@ -590,7 +639,8 @@
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/Zoo+Olomouc",
           "descriptionDe": "Einer der seltenen europäischen Zoos, der Hundebesuche zulässt: 100 CZK für ein Hundeticket, Maulkorb- und Leinenpflicht durchgehend, Pavillons und begehbare Gehege ausgenommen. Giraffen, Wölfe und ein 32 Meter hoher Aussichtsturm über dem Waldkronendach.",
-          "descriptionNl": "Een van de zeldzame Europese dierentuinen die hondenbezoek toestaat: 100 CZK voor een hondenticket, doorlopend muilkorf- en aanlijnplicht, paviljoens en toegankelijke verblijven uitgezonderd. Giraffen, wolven en een 32 meter hoge uitkijktoren boven het bladerdak."
+          "descriptionNl": "Een van de zeldzame Europese dierentuinen die hondenbezoek toestaat: 100 CZK voor een hondenticket, doorlopend muilkorf- en aanlijnplicht, paviljoens en toegankelijke verblijven uitgezonderd. Giraffen, wolven en een 32 meter hoge uitkijktoren boven het bladerdak.",
+          "descriptionIt": "Uno dei rari zoo europei che ammette la visita dei cani: 100 CZK per il biglietto cane, museruola e guinzaglio obbligatori per tutto il percorso, esclusi padiglioni e recinti accessibili. Giraffe, lupi e una torre panoramica alta 32 metri sopra le chiome degli alberi."
         },
         {
           "name": "Bazilika Navštívení Panny Marie",
@@ -604,15 +654,19 @@
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/Bazilika+Svat%C3%BD+Kope%C4%8Dek",
           "descriptionDe": "Die zweitürmige barocke Basilika, die Svatý Kopeček krönt, sichtbar von der gesamten Haná-Ebene aus und erreichbar über Waldwege oder mit Buslinie 11. Hunde bleiben vor der Kirche selbst, aber die Terrassenesplanade davor bietet den besten Aussichtspunkt über Olomouc.",
-          "descriptionNl": "De tweetorige barokke basiliek die Svatý Kopeček bekroont, zichtbaar vanaf de hele Haná-vlakte en bereikbaar via bospaden of met buslijn 11. Honden blijven buiten de kerk zelf, maar de terrasesplanade ervoor biedt het beste uitzichtpunt over Olomouc."
+          "descriptionNl": "De tweetorige barokke basiliek die Svatý Kopeček bekroont, zichtbaar vanaf de hele Haná-vlakte en bereikbaar via bospaden of met buslijn 11. Honden blijven buiten de kerk zelf, maar de terrasesplanade ervoor biedt het beste uitzichtpunt over Olomouc.",
+          "descriptionIt": "La basilica barocca a due torri che corona Svatý Kopeček, visibile da tutta la pianura della Haná e raggiungibile con sentieri nel bosco o con la linea 11. I cani restano fuori dalla chiesa vera e propria, ma la spianata davanti offre il punto panoramico migliore su Olomouc."
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Olomouc",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Olomouc",
+      "titleIt": "Attrazioni pet-friendly a Olomouc",
       "introDe": "Olomoucs Highlights sind Plätze, Brunnen und eine Skyline aus Türmen, alle auf Straßenebene mit angeleintem Hund erlebbar. Dazu kommen der Zoo, der tatsächlich Hunde hineinlässt, und der Wallfahrtshügel über der Stadt, sodass Sie ein vollständig hundefreundliches Wochenende ohne eine einzige Warteschlange erleben.",
       "introNl": "De hoogtepunten van Olomouc zijn pleinen, fonteinen en een skyline van torens, allemaal op straatniveau te beleven met een hond aan de lijn. Daarbij komen de dierentuin die daadwerkelijk honden binnenlaat en de bedevaartheuvel boven de stad, zodat je een volledig hondvriendelijk weekend beleeft zonder een enkele wachtrij.",
+      "introIt": "I punti forti di Olomouc sono piazze, fontane e uno skyline di torri, tutto vivibile a livello strada con il cane al guinzaglio. In più ci sono lo zoo che fa davvero entrare i cani e la collina di pellegrinaggio sopra la città, così ti godi un weekend completamente pet-friendly senza fare una sola fila.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Walking in Olomouc",
@@ -654,10 +708,13 @@
       ],
       "titleDe": "Haustierbetreuung & Gassigehen in Olomouc",
       "titleNl": "Huisdierenzorg en uitlaten in Olomouc",
+      "titleIt": "Cura degli animali e passeggiate a Olomouc",
       "introDe": "Für einen Museumsvormittag oder einen Basilika-Innenraum, den Ihr Hund nicht betreten darf, listen tschechische Online-Plattformen in dieser Universitätsstadt reichlich studentische Sitter. Die Preise gehören zu den niedrigsten im Land.",
       "introNl": "Voor een museumochtend of een basiliekbinnenste waar je hond niet naar binnen mag, vermelden Tsjechische online platforms in dit universiteitsstadje volop studentoppassers. De prijzen behoren tot de laagste van het land.",
+      "introIt": "Per una mattinata al museo o l'interno di una basilica dove il cane non può entrare, le piattaforme online ceche in questa città universitaria offrono tanti pet-sitter studenti. I prezzi sono tra i più bassi del paese.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

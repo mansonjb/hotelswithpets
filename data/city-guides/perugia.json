@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://www.google.com/maps/search/La+Taverna+Perugia",
           "descriptionDe": "Ein elegantes Heiligtum der umbrischen Küche, versteckt in der Straße der Hexen, mit Gewölbedecken, hausgemachter Pasta und Trüffeln. Es trägt die Bestnote von Dogwelcome: Das Personal bringt einen Napf frisches Wasser, noch bevor Sie bestellt haben.",
           "descriptionNl": "Een elegant heiligdom van de Umbrische keuken, verstopt in de straat van de heksen, met gewelfde plafonds, huisgemaakte pasta en truffels. Het scoort de hoogste beoordeling bij Dogwelcome: het personeel brengt een bakje vers water voordat je zelfs maar hebt besteld.",
+          "descriptionIt": "Un elegante santuario della cucina umbra, nascosto nella via delle streghe, con soffitti a volta, pasta fatta in casa e tartufo. Ottiene il voto più alto su Dogwelcome: il personale porta una ciotola d'acqua fresca prima ancora che tu abbia ordinato.",
           "petPolicyDe": "Hunde drinnen und draußen willkommen; Wassernapf wird bei Ankunft angeboten",
           "petPolicyNl": "Honden binnen en buiten welkom; waterbakje wordt bij aankomst aangeboden",
+          "petPolicyIt": "Cani benvenuti dentro e fuori; ciotola d'acqua offerta all'arrivo",
           "mustTryDe": "Strangozzi mit schwarzem Trüffel aus Norcia",
           "mustTryNl": "Strangozzi met zwarte truffel uit Norcia",
+          "mustTryIt": "Strangozzi al tartufo nero di Norcia",
           "tipDe": "Reservieren Sie für den ersten Abendservice während der Umbria-Jazz-Woche; die Gasse bleibt für einen Hund ruhiger als der Corso Vannucci.",
-          "tipNl": "Reserveer voor de eerste avondservice tijdens de Umbria Jazz-week; het steegje blijft rustiger voor een hond dan de Corso Vannucci."
+          "tipNl": "Reserveer voor de eerste avondservice tijdens de Umbria Jazz-week; het steegje blijft rustiger voor een hond dan de Corso Vannucci.",
+          "tipIt": "Prenota per il primo turno serale durante la settimana di Umbria Jazz; il vicolo resta più tranquillo per un cane rispetto a Corso Vannucci."
         },
         {
           "name": "Trattoria Borgo San Francesco",
@@ -76,20 +80,27 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Trattoria+Borgo+San+Francesco+Perugia",
           "descriptionDe": "Eine rustikale, familiengeführte Trattoria in der mittelalterlichen Gasse, die hinunter zur San Francesco al Prato führt, von Dogwelcome unter Perugias hundefreundlichen Adressen gelistet. Typische umbrische Gerichte, eine starke glutenfreie Speisekarte und ein entspannter Empfang für vierbeinige Gäste.",
           "descriptionNl": "Een rustieke, familiegerunde trattoria in het middeleeuwse steegje dat afdaalt naar San Francesco al Prato, door Dogwelcome vermeld als een van Perugia's hondvriendelijke adressen. Typische Umbrische gerechten, een uitgebreide glutenvrije kaart en een ontspannen ontvangst voor viervoetige gasten.",
+          "descriptionIt": "Una trattoria rustica a gestione familiare nel vicolo medievale che scende verso San Francesco al Prato, segnalata da Dogwelcome tra gli indirizzi pet friendly di Perugia. Piatti tipici umbri, un ampio menu senza glutine e un'accoglienza rilassata per gli ospiti a quattro zampe.",
           "petPolicyDe": "Hunde akzeptiert; nur abends, sonntags geschlossen",
           "petPolicyNl": "Honden geaccepteerd; alleen 's avonds, op zondag gesloten",
+          "petPolicyIt": "Cani accettati; solo la sera, chiuso la domenica",
           "mustTryDe": "Torta al testo gefüllt mit Wurst und Wildkräutern",
           "mustTryNl": "Torta al testo gevuld met worst en wilde kruiden",
+          "mustTryIt": "Torta al testo farcita con salsiccia ed erbe selvatiche",
           "tipDe": "Verdauen Sie das Abendessen bei einem Spaziergang die Via dei Priori hinunter zur beleuchteten Fassade von San Francesco al Prato, einem der ruhigsten abendlichen Hundespaziergänge in Perugia.",
-          "tipNl": "Verteer je diner met een wandeling langs de Via dei Priori naar de verlichte gevel van San Francesco al Prato, een van de rustigste avondwandelingen met hond in Perugia."
+          "tipNl": "Verteer je diner met een wandeling langs de Via dei Priori naar de verlichte gevel van San Francesco al Prato, een van de rustigste avondwandelingen met hond in Perugia.",
+          "tipIt": "Digerisci la cena con una passeggiata lungo Via dei Priori fino alla facciata illuminata di San Francesco al Prato, una delle passeggiate serali più tranquille con il cane a Perugia."
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Perugia",
       "titleNl": "Hondvriendelijke restaurants in Perugia",
+      "titleIt": "Ristoranti pet friendly a Perugia",
       "introDe": "In Umbrien gehören Hunde ganz selbstverständlich zum Alltag, und die Altstadt von Perugia macht da keine Ausnahme: Haustierfreundliche Verzeichnisse listen mehr als zwei Dutzend Restaurants und Pizzerien in der Stadt auf, die Hunde willkommen heißen, von mittelalterlichen Gewölbesälen bis zu Terrassen am Corso Vannucci. Während des Umbria Jazz im Juli werden die Terrassentische zu Logenplätzen für die Bühnen auf der Straße.",
       "introNl": "In Umbrië horen honden vanzelfsprekend bij het dagelijks leven, en de oude binnenstad van Perugia vormt daarop geen uitzondering: huisdiervriendelijke gidsen vermelden meer dan twee dozijn restaurants en pizzeria's in de stad die honden welkom heten, van middeleeuwse gewelfde zalen tot terrassen aan de Corso Vannucci. Tijdens Umbria Jazz in juli worden de terrastafels ereplaatsen voor de podia op straat.",
+      "introIt": "In Umbria i cani fanno naturalmente parte della vita quotidiana, e il centro storico di Perugia non fa eccezione: le guide pet friendly segnalano più di due dozzine di ristoranti e pizzerie in città che accolgono i cani, dalle sale medievali con volte alle terrazze su Corso Vannucci. Durante Umbria Jazz a luglio, i tavoli in terrazza diventano posti d'onore per i palchi in strada.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Parks & Dog Areas in Perugia",
@@ -146,10 +157,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Parco+Pian+di+Massiano+Perugia",
           "descriptionDe": "Perugias große flache Parkanlage: kilometerlange Wege entlang des Baches Genna, ein kleiner See mit Wasservögeln, Fitnessstationen und ein ausgestatteter, eingezäunter Bereich, in dem Hunde frei laufen können. Der Park liegt an der unteren Endstation der Minimetrò, sodass man von der Altstadt aus in zehn Minuten hinabsteigen kann.",
           "descriptionNl": "Perugia's grote vlakke park: kilometers paden langs de beek Genna, een klein meertje met watervogels, fitnesstoestellen en een omheind gebied waar honden vrij kunnen rennen. Het park ligt bij het eindstation onderaan de Minimetrò, dus vanuit de oude binnenstad ben je er in tien minuten.",
+          "descriptionIt": "Il grande parco pianeggiante di Perugia: chilometri di sentieri lungo il torrente Genna, un piccolo laghetto con uccelli acquatici, attrezzi fitness e un'area recintata dove i cani possono correre liberi. Il parco si trova vicino al capolinea in fondo alla Minimetrò, quindi dal centro storico ci arrivi in dieci minuti.",
           "leashRulesDe": "Im Park Leinenpflicht; im eingezäunten Hundebereich Freilauf",
           "leashRulesNl": "In het park aanlijnplicht; in het omheinde hondenveld vrij loslopen",
+          "leashRulesIt": "Guinzaglio obbligatorio nel parco; libero nell'area cani recintata",
           "bestTimeToVisitDe": "Im Sommer früh morgens, bevor sich die Hitze in der Ebene aufbaut",
-          "bestTimeToVisitNl": "In de zomer vroeg in de ochtend, voordat de hitte in de vlakte opbouwt"
+          "bestTimeToVisitNl": "In de zomer vroeg in de ochtend, voordat de hitte in de vlakte opbouwt",
+          "bestTimeToVisitIt": "In estate la mattina presto, prima che il caldo si accumuli in pianura"
         },
         {
           "name": "Giardini del Frontone",
@@ -196,10 +210,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Giardini+del+Frontone+Perugia",
           "descriptionDe": "Eine Allee jahrhundertealter Steineichen, die in einer klassizistischen Exedra endet, im 18. Jahrhundert für abendliche Promenaden angelegt und noch heute genau dafür genutzt. Angeleinte Hunde sind ein gewohnter Anblick, und im Juli finden im Garten Open-Air-Konzerte und Umbria-Jazz-Nebenveranstaltungen statt.",
           "descriptionNl": "Een laan met eeuwenoude steeneiken die eindigt in een classicistische exedra, in de 18e eeuw aangelegd voor avondwandelingen en daar vandaag nog altijd voor gebruikt. Aangelijnde honden zijn een vertrouwd gezicht, en in juli vinden in de tuin openluchtconcerten en nevenactiviteiten van Umbria Jazz plaats.",
+          "descriptionIt": "Un viale di lecci secolari che termina in un'esedra classicista, costruito nel XVIII secolo per le passeggiate serali e ancora usato così oggi. I cani al guinzaglio sono un'immagine familiare, e a luglio nel giardino si tengono concerti all'aperto ed eventi collaterali di Umbria Jazz.",
           "leashRulesDe": "Leinenpflicht",
           "leashRulesNl": "Aanlijnplicht",
+          "leashRulesIt": "Guinzaglio obbligatorio",
           "bestTimeToVisitDe": "Zur goldenen Stunde, wenn die Exedra das Abendlicht einfängt",
-          "bestTimeToVisitNl": "Tijdens het gouden uur, wanneer de exedra het avondlicht vangt"
+          "bestTimeToVisitNl": "Tijdens het gouden uur, wanneer de exedra het avondlicht vangt",
+          "bestTimeToVisitIt": "Durante l'ora d'oro, quando l'esedra cattura la luce della sera"
         },
         {
           "name": "Monte Tezio",
@@ -246,18 +263,24 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Monte+Tezio+Perugia",
           "descriptionDe": "Perugias Hausberg, ein walfischrückenförmiger Höhenzug aus Wiesen und Eichenwäldern mit markierten Rundwegen von Migiana di Monte Tezio bis zum 961 m hohen Gipfel. An klaren Tagen reicht der Blick vom Trasimenischen See bis zu den Sibillinischen Bergen, und Hunde lieben den offenen, grasbewachsenen Kamm.",
           "descriptionNl": "Perugia's huisberg, een walvisrugvormige heuvelrij met weides en eikenbossen, met gemarkeerde rondwandelingen van Migiana di Monte Tezio tot de 961 meter hoge top. Op heldere dagen reikt het uitzicht van het Trasimeense meer tot de Sibillijnse bergen, en honden genieten van de open, grazige kam.",
+          "descriptionIt": "La montagna di casa di Perugia, una dorsale a forma di dorso di balena con prati e boschi di querce, con anelli segnalati da Migiana di Monte Tezio fino alla vetta di 961 metri. Nelle giornate limpide la vista spazia dal lago Trasimeno ai monti Sibillini, e i cani si godono la cresta aperta ed erbosa.",
           "leashRulesDe": "Leinenpflicht in der Nähe von Weidevieh; Hunde auf dem offenen Kamm nah bei sich behalten",
           "leashRulesNl": "Aanlijnplicht in de buurt van vee; houd je hond dicht bij je op de open kam",
+          "leashRulesIt": "Guinzaglio obbligatorio vicino al bestiame; tieni il cane vicino a te sulla cresta aperta",
           "bestTimeToVisitDe": "Frühling und frühe Sommermorgen; Wasser mitnehmen, auf dem Kamm gibt es keine Quellen",
-          "bestTimeToVisitNl": "Lente en vroege zomerochtenden; neem water mee, want op de kam zijn geen bronnen"
+          "bestTimeToVisitNl": "Lente en vroege zomerochtenden; neem water mee, want op de kam zijn geen bronnen",
+          "bestTimeToVisitIt": "Mattine di primavera e inizio estate; porta acqua, perché sulla cresta non ci sono fonti"
         }
       ],
       "titleDe": "Parks & Hundeauslaufflächen in Perugia",
       "titleNl": "Parken & hondenuitlaatplekken in Perugia",
+      "titleIt": "Parchi e aree per portare a spasso il cane a Perugia",
       "introDe": "Die Stadtverwaltung von Perugia unterhält ein Netz eingezäunter Hundewiesen (aree cani) mit Kotbeutelspendern und Brunnen, die größte in Pian di Massiano am Fuß der Minimetrò. Dazu kommen die historischen Gärten rund um die Akropolis und die Gipfelpfade des Monte Tezio, zwanzig Minuten entfernt – so lässt sich die Hügelstadt besser zu Fuß erkunden, als ihr steiles Profil vermuten lässt.",
       "introNl": "De gemeente Perugia onderhoudt een netwerk van omheinde hondenweides (aree cani) met poepzakjesdispensers en drinkfonteinen, de grootste in Pian di Massiano aan de voet van de Minimetrò. Daarbij komen de historische tuinen rond de acropolis en de bergpaden van de Monte Tezio, twintig minuten verderop, waardoor de heuvelstad te voet beter te verkennen is dan het steile profiel doet vermoeden.",
+      "introIt": "Il comune di Perugia mantiene una rete di aree cani recintate con dispenser di sacchetti per le deiezioni e fontanelle, la più grande a Pian di Massiano ai piedi della Minimetrò. A questo si aggiungono i giardini storici intorno all'acropoli e i sentieri di montagna del Monte Tezio, venti minuti più in là, il che rende la città collinare più facile da esplorare a piedi di quanto suggerisca il suo profilo scosceso.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Getting Around Perugia with a Dog",
@@ -315,10 +338,13 @@
       ],
       "titleDe": "Mit Hund unterwegs in Perugia",
       "titleNl": "Onderweg met je hond in Perugia",
+      "titleIt": "Spostarsi con il cane a Perugia",
       "introDe": "Perugias Akropolis ist über die Minimetrò-Einschienenbahn, Rolltreppen und Busitalia-Busse mit der Ebene verbunden. Die Minimetrò befördert kleine Hunde kostenlos (mit Maulkorb, an fester Leine, ein Hund pro Wagen); größere Hunde fahren mit eigenem Ticket im Bus. Überall gilt die italienische Regel: Leine und ein mitgeführter Maulkorb sind Pflicht.",
       "introNl": "Perugia's acropolis is via de Minimetrò-kabelbaan, roltrappen en Busitalia-bussen verbonden met de vlakte. De Minimetrò vervoert kleine honden gratis (met muilkorf, aan een stevige lijn, één hond per wagon); grotere honden reizen met een eigen ticket mee in de bus. Overal geldt de Italiaanse regel: lijn en een meegedragen muilkorf zijn verplicht.",
+      "introIt": "L'acropoli di Perugia è collegata alla pianura tramite la funicolare Minimetrò, le scale mobili e gli autobus Busitalia. La Minimetrò trasporta gratis i cani piccoli (con museruola, guinzaglio corto, un cane per cabina); i cani più grandi viaggiano in autobus con un proprio biglietto. Ovunque vale la regola italiana: guinzaglio e museruola al seguito sono obbligatori.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog Beaches near Perugia: Lake Trasimeno",
@@ -372,10 +398,13 @@
       ],
       "titleDe": "Hundestrände bei Perugia: der Trasimenische See",
       "titleNl": "Hondenstranden bij Perugia: het Trasimeense meer",
+      "titleIt": "Spiagge per cani vicino a Perugia: il lago Trasimeno",
       "introDe": "Perugia liegt nicht am Meer, doch der Trasimenische See, Italiens viertgrößter See, ist 30 Minuten mit dem Auto oder der Regionalbahn entfernt und hat eine etablierte Hundestrandkultur. Die Seeufergemeinden markieren zudem die Via del Trasimeno, einen 160 km langen Wanderweg, der sich mit Hund hervorragend begehen lässt.",
       "introNl": "Perugia ligt niet aan zee, maar het Trasimeense meer, het op drie na grootste meer van Italië, ligt op 30 minuten rijden of met de regionale trein en heeft een gevestigde hondenstrandcultuur. De dorpen aan de oever markeren bovendien de Via del Trasimeno, een 160 km lange wandelroute die zich uitstekend leent voor een tocht met hond.",
+      "introIt": "Perugia non è sul mare, ma il lago Trasimeno, il quarto lago più grande d'Italia, si trova a 30 minuti di auto o con il treno regionale e ha una consolidata cultura di spiagge per cani. I villaggi sulle sue rive segnano inoltre la Via del Trasimeno, un percorso a piedi di 160 km che si presta benissimo a una gita con il cane.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Veterinarians in Perugia",
@@ -430,10 +459,13 @@
       ],
       "titleDe": "Tierärzte in Perugia",
       "titleNl": "Dierenartsen in Perugia",
+      "titleIt": "Veterinari a Perugia",
       "introDe": "Perugia gehört zu den sichersten italienischen Städten für Reisen mit Haustier: Die veterinärmedizinische Universitätsklinik von Perugia betreibt eine echte 24-Stunden-Notaufnahme am Rand der Altstadt. Die Routineversorgung übernehmen Praxen in den Wohnvierteln der gesamten Stadt.",
       "introNl": "Perugia hoort bij de veiligste Italiaanse steden om met huisdier te reizen: de veterinaire universiteitskliniek van Perugia heeft een echte spoedeisende hulp die 24 uur per dag open is, aan de rand van de oude binnenstad. Routinezorg wordt verzorgd door praktijken in de woonwijken door de hele stad.",
+      "introIt": "Perugia è tra le città italiane più sicure in cui viaggiare con un animale: la clinica veterinaria universitaria di Perugia ha un vero pronto soccorso aperto 24 ore su 24, ai margini del centro storico. Le cure di routine sono seguite da studi nei quartieri residenziali in tutta la città.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Perugia with a Dog",
@@ -523,8 +555,10 @@
       ],
       "titleDe": "Wichtige Tipps für einen Besuch in Perugia mit Hund",
       "titleNl": "Belangrijke tips voor een bezoek aan Perugia met hond",
+      "titleIt": "Consigli importanti per visitare Perugia con il cane",
       "introDe": "Perugia belohnt Hundehalter, die zwei Dinge im Blick behalten: die vertikale Geografie (Rolltreppen, die Minimetrò und steile Gassen) und den Sommerkalender, wenn das Umbria Jazz vom 11. bis 20. Juli die Akropolis mit Bühnen und Menschenmassen füllt. Alles andere an der Hauptstadt Umbriens ist mit Hund erfreulich unkompliziert.",
       "introNl": "Perugia beloont hondeneigenaren die twee dingen in de gaten houden: de verticale geografie (roltrappen, de Minimetrò en steile steegjes) en de zomerkalender, wanneer Umbria Jazz van 11 tot 20 juli de acropolis vult met podia en menigten. Voor de rest is de hoofdstad van Umbrië heerlijk simpel met hond.",
+      "introIt": "Perugia premia i proprietari di cani che tengono d'occhio due cose: la geografia verticale (scale mobili, Minimetrò e vicoli ripidi) e il calendario estivo, quando Umbria Jazz dall'11 al 20 luglio riempie l'acropoli di palchi e folla. Per il resto, la capitale dell'Umbria è deliziosamente semplice con il cane.",
       "faqsDe": [
         {
           "q": "Gibt es in Perugia einen 24-Stunden-Tierarzt?",
@@ -552,6 +586,20 @@
           "q": "Waar kan mijn hond zwemmen in de buurt van Perugia?",
           "a": "Bij het Trasimeense meer, 30 minuten verderop: strand Sualzo in Passignano sul Trasimeno accepteert honden, en de vrije groene oevers bij Castiglione del Lago zijn buiten de betaalde strandjes prima geschikt. Regionale treinen naar Passignano nemen aangelijnde honden met muilkorf mee."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è un veterinario aperto 24 ore su 24 a Perugia?",
+          "a": "Sì, addirittura due: la clinica veterinaria universitaria (OVUD, Via San Costanzo 4, numero d'emergenza +39 335 572 4193) ha un pronto soccorso 24/7 per piccoli animali, ed è aperta giorno e notte anche la clinica privata Clinica Veterinaria Cortonese (+39 075 505 5354)."
+        },
+        {
+          "q": "Posso visitare Perugia durante Umbria Jazz con il mio cane?",
+          "a": "Sì, il festival si svolge in gran parte all'aperto e la città resta accessibile, ma dall'11 al 20 luglio metti in conto casse audio, confusione serale e terrazze piene. Prenota le camere pet friendly con largo anticipo e dai ai cani sensibili al rumore un posto tranquillo lontano da Corso Vannucci."
+        },
+        {
+          "q": "Dove può nuotare il mio cane vicino a Perugia?",
+          "a": "Al lago Trasimeno, a 30 minuti di distanza: la spiaggia Sualzo a Passignano sul Trasimeno accetta i cani, e le rive verdi libere vicino a Castiglione del Lago, fuori dagli stabilimenti a pagamento, vanno benissimo. I treni regionali per Passignano accettano cani al guinzaglio con museruola."
+        }
       ]
     },
     "attractions": {
@@ -576,7 +624,8 @@
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/Fontana+Maggiore+Perugia",
           "descriptionDe": "Der marmorne Brunnen aus dem 13. Jahrhundert ganz oben in der Stadt, gemeißelt von Nicola und Giovanni Pisano, umgeben von der Domtreppe und dem Palazzo dei Priori. Er ist Perugias gute Stube: Setzen Sie sich mit Ihrem Hund auf die Stufen und beobachten Sie, wie die ganze Stadt vorbeizieht.",
-          "descriptionNl": "De marmeren fontein uit de 13e eeuw helemaal boven in de stad, gebeeldhouwd door Nicola en Giovanni Pisano, omgeven door de kathedraaltrap en het Palazzo dei Priori. Het is Perugia's huiskamer: ga met je hond op de treden zitten en kijk hoe de hele stad voorbijkomt."
+          "descriptionNl": "De marmeren fontein uit de 13e eeuw helemaal boven in de stad, gebeeldhouwd door Nicola en Giovanni Pisano, omgeven door de kathedraaltrap en het Palazzo dei Priori. Het is Perugia's huiskamer: ga met je hond op de treden zitten en kijk hoe de hele stad voorbijkomt.",
+          "descriptionIt": "La fontana marmorea del XIII secolo proprio in cima alla città, scolpita da Nicola e Giovanni Pisano, circondata dalla scalinata della cattedrale e dal Palazzo dei Priori. È il salotto di Perugia: siediti sui gradini con il tuo cane e guarda passare tutta la città."
         },
         {
           "name": "Acquedotto medievale",
@@ -590,7 +639,8 @@
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/Via+dell%27Acquedotto+Perugia",
           "descriptionDe": "Ein Aquädukt aus dem 13. Jahrhundert, wiedergeboren als Fußweg, der über den Dächern schwebt und die Altstadt mit dem Viertel Porta Sant'Angelo verbindet. Autofrei, panoramareich und sanft geneigt, ist er der beste Hundespaziergang in der Innenstadt von Perugia.",
-          "descriptionNl": "Een aquaduct uit de 13e eeuw, herboren als voetpad dat boven de daken zweeft en de oude binnenstad verbindt met de wijk Porta Sant'Angelo. Autovrij, panoramisch en licht hellend, het is de beste hondenwandeling in het centrum van Perugia."
+          "descriptionNl": "Een aquaduct uit de 13e eeuw, herboren als voetpad dat boven de daken zweeft en de oude binnenstad verbindt met de wijk Porta Sant'Angelo. Autovrij, panoramisch en licht hellend, het is de beste hondenwandeling in het centrum van Perugia.",
+          "descriptionIt": "Un acquedotto del XIII secolo, rinato come passerella pedonale che si libra sopra i tetti e collega il centro storico al quartiere di Porta Sant'Angelo. Senza auto, panoramico e leggermente in pendenza, è la migliore passeggiata con il cane nel centro di Perugia."
         },
         {
           "name": "Giardini Carducci",
@@ -604,15 +654,19 @@
           "leashRequired": true,
           "googleMapsUrl": "https://www.google.com/maps/search/Giardini+Carducci+Perugia",
           "descriptionDe": "Die Panoramagärten am Ende des Corso Vannucci, hoch über den Bastionen der Rocca Paolina, mit Balkonblick über das Tibertal bis nach Assisi. Der Sonnenuntergang hier, Hund an der Seite und Mauersegler über einem, ist der klassische Perugia-Moment.",
-          "descriptionNl": "De panoramische tuinen aan het einde van de Corso Vannucci, hoog boven de bastions van de Rocca Paolina, met balkonuitzicht over de Tibervallei tot aan Assisi. De zonsondergang hier, hond naast je en gierzwaluwen boven je hoofd, is het klassieke Perugia-moment."
+          "descriptionNl": "De panoramische tuinen aan het einde van de Corso Vannucci, hoog boven de bastions van de Rocca Paolina, met balkonuitzicht over de Tibervallei tot aan Assisi. De zonsondergang hier, hond naast je en gierzwaluwen boven je hoofd, is het klassieke Perugia-moment.",
+          "descriptionIt": "I giardini panoramici in fondo a Corso Vannucci, in alto sopra i bastioni della Rocca Paolina, con vista a balcone sulla valle del Tevere fino ad Assisi. Il tramonto qui, con il cane accanto e i rondoni in cielo, è il momento più classico di Perugia."
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Perugia",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Perugia",
+      "titleIt": "Attrazioni pet friendly a Perugia",
       "introDe": "Perugias größte Sehenswürdigkeiten sind seine Freiflächen: etruskische Tore, ein mittelalterliches Aquädukt, das zu einem erhöhten Fußweg umfunktioniert wurde, und Aussichtspunkte über halb Umbrien. Ein angeleinter Hund kann Sie im Grunde überallhin begleiten; nur Museums- und Kircheninnenräume stehen nicht auf dem Programm.",
       "introNl": "Perugia's grootste bezienswaardigheden zijn de open plekken: Etruskische poorten, een middeleeuws aquaduct dat is omgebouwd tot verhoogd voetpad, en uitzichtpunten over half Umbrië. Een aangelijnde hond kan je vrijwel overal vergezellen; alleen museum- en kerkinterieurs staan niet op het programma.",
+      "introIt": "Le attrazioni principali di Perugia sono gli spazi aperti: porte etrusche, un acquedotto medievale trasformato in passerella rialzata, e punti panoramici su mezza Umbria. Un cane al guinzaglio può accompagnarti praticamente ovunque; solo gli interni di musei e chiese non sono in programma.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Walking in Perugia",
@@ -654,10 +708,13 @@
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Perugia",
       "titleNl": "Huisdieroppas & uitlaatservice in Perugia",
+      "titleIt": "Pet sitting e dog walking a Perugia",
       "introDe": "Für die Galleria Nazionale, eine Führung durch eine Schokoladenfabrik oder einen Umbria-Jazz-Abend in einem vollen Theater listen Online-Plattformen geprüfte Betreuer und Gassigeher in Perugia. Während des Festivals im Juli steigt die Nachfrage sprunghaft, buchen Sie Betreuer daher frühzeitig.",
       "introNl": "Voor de Galleria Nazionale, een rondleiding door een chocoladefabriek of een avond Umbria Jazz in een vol theater vermelden online platforms gescreende oppassers en uitlaters in Perugia. Tijdens het festival in juli stijgt de vraag flink, dus boek oppassers ruim op tijd.",
+      "introIt": "Per la Galleria Nazionale, una visita guidata a una fabbrica di cioccolato o una serata di Umbria Jazz in un teatro pieno, le piattaforme online segnalano sitter e dog walker verificati a Perugia. Durante il festival di luglio la domanda cresce parecchio, quindi prenota i sitter con largo anticipo.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

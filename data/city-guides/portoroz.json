@@ -40,12 +40,16 @@
           "tipPt": "Peça uma mesa na esplanada junto à água: é plana e fácil de alcançar com um cão.",
           "descriptionDe": "Ein modernes Restaurant direkt an der Marina von Portorož, das mediterrane Meeresfrüchte und küstenistrische Gerichte auf einer breiten Terrasse mit Meerblick über die Boote serviert. Die Außentische sind der Anziehungspunkt, und das Personal ist es gewohnt, vierbeinige Gäste am Wasser willkommen zu heißen.",
           "descriptionNl": "Een modern restaurant direct aan de jachthaven van Portorož, met mediterrane zeevruchten en kustistrische gerechten op een breed terras met zeezicht over de boten. De buitentafels zijn de trekpleister, en het personeel is gewend om viervoetige gasten aan het water te verwelkomen.",
+          "descriptionIt": "Un ristorante moderno proprio sulla marina di Portorož, con pesce mediterraneo e piatti costieri istriani su una grande terrazza con vista sul mare e sulle barche. I tavoli all'aperto sono l'attrazione principale, e il personale è abituato ad accogliere ospiti a quattro zampe sull'acqua.",
           "petPolicyDe": "Leinengeführte Hunde an der Terrasse zur Marina willkommen; erwähnen Sie Ihren Hund bei der Reservierung.",
           "petPolicyNl": "Aangelijnde honden welkom aan het terras bij de jachthaven; vermeld je hond bij het boeken.",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza alla marina; segnala il tuo cane quando prenoti.",
           "mustTryDe": "Frischer Adriafisch, Meeresfrüchtepasta, lokaler Malvazija-Wein",
           "mustTryNl": "Verse Adriatische vis, zeevruchtenpasta, lokale Malvazija-wijn",
+          "mustTryIt": "Pesce fresco dell'Adriatico, pasta di mare, vino locale Malvazija",
           "tipDe": "Bitten Sie um einen Terrassentisch am Wasser; er ist ebenerdig und mit Hund leicht erreichbar.",
-          "tipNl": "Vraag om een terrastafeltje aan het water; het is vlak en makkelijk bereikbaar met een hond."
+          "tipNl": "Vraag om een terrastafeltje aan het water; het is vlak en makkelijk bereikbaar met een hond.",
+          "tipIt": "Chiedi un tavolo in terrazza sull'acqua; è in piano e facile da raggiungere con un cane."
         },
         {
           "name": "Kavarna Cacao",
@@ -74,12 +78,16 @@
           "tipPt": "Venha a meio da tarde ou depois do pôr do sol para evitar a multidão e apanhar um canto de esplanada com sombra.",
           "descriptionDe": "Ein äußerst beliebtes Café, Eisdiele und Cocktailbar an der palmengesäumten Promenade von Portorož mit einer breiten offenen Terrasse zur Bucht. Ein klassischer Stopp für Kaffee, hausgemachtes Eis oder einen Abenddrink, während die Meeresbrise weht.",
           "descriptionNl": "Een enorm populair café, ijssalon en cocktailbar aan de met palmen omzoomde promenade van Portorož, met een breed open terras richting de baai. Een klassieke stop voor koffie, huisgemaakt ijs of een avonddrankje terwijl de zeebries opsteekt.",
+          "descriptionIt": "Un caffè, gelateria e cocktail bar molto frequentato sulla passeggiata di Portorož orlata di palme, con una grande terrazza aperta verso la baia. Una tappa classica per un caffè, un gelato artigianale o un drink serale mentre arriva la brezza di mare.",
           "petPolicyDe": "Leinengeführte Hunde sind auf der offenen Terrasse zur Promenade generell willkommen; fragen Sie zu Stoßzeiten beim Personal nach.",
           "petPolicyNl": "Aangelijnde honden zijn over het algemeen welkom op het open terras aan de promenade; controleer bij drukte bij het personeel.",
+          "petPolicyIt": "I cani al guinzaglio sono generalmente benvenuti nella terrazza aperta sulla passeggiata; nei momenti di affollamento chiedi conferma al personale.",
           "mustTryDe": "Hausgemachtes Eis, Kaffee, Cocktails am Meer",
           "mustTryNl": "Huisgemaakt ijs, koffie, cocktails aan zee",
+          "mustTryIt": "Gelato artigianale, caffè, cocktail in riva al mare",
           "tipDe": "Kommen Sie am frühen Nachmittag oder nach Sonnenuntergang, um dem Promenadentrubel zu entgehen und einen schattigen Terrassenplatz zu ergattern.",
-          "tipNl": "Kom in de vroege middag of na zonsondergang om de drukte op de promenade te vermijden en een schaduwrijk hoekje van het terras te bemachtigen."
+          "tipNl": "Kom in de vroege middag of na zonsondergang om de drukte op de promenade te vermijden en een schaduwrijk hoekje van het terras te bemachtigen.",
+          "tipIt": "Vieni nel primo pomeriggio o dopo il tramonto per evitare la folla sulla passeggiata e conquistare un angolo ombreggiato della terrazza."
         }
       ],
       "tipsEn": [
@@ -177,7 +185,9 @@
         }
       ],
       "titleNl": "Huisdiervriendelijke restaurants in Portorož",
+      "titleIt": "Ristoranti pet friendly a Portorož",
       "introNl": "Portorož volgt de ontspannen Sloveens-Istrische norm: rustige, aangelijnde honden zijn welkom op de openluchtterrassen langs de jachthaven en de door palmen beschaduwde strandpromenade, zelfs waar de kleine eetzalen binnen daar niet geschikt voor zijn. Waterbakken verschijnen 's zomers gemakkelijk, en het loont altijd om even iets tegen het personeel te zeggen wanneer je gaat zitten.",
+      "introIt": "Portorož segue lo stile rilassato sloveno-istriano: cani tranquilli al guinzaglio sono benvenuti nelle terrazze all'aperto lungo la marina e sulla passeggiata di spiaggia ombreggiata dalle palme, anche dove le piccole sale interne non sono adatte. Le ciotole d'acqua compaiono facilmente d'estate, e conviene sempre dire due parole al personale quando ti siedi.",
       "faqsNl": [
         {
           "q": "Kan ik met mijn hond uit eten in Portorož?",
@@ -190,6 +200,20 @@
         {
           "q": "Krijgt mijn hond water bij het restaurant?",
           "a": "In de zomer brengen de meeste terrascafés en restaurants op verzoek een waterbak, en velen doen dat ook ongevraagd. Neem je eigen reisbak mee voor wandelingen tussen de stops langs de promenade."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso mangiare fuori con il mio cane a Portorož?",
+          "a": "Sì. Secondo lo stile rilassato sloveno-istriano, i cani tranquilli al guinzaglio sono benvenuti nelle terrazze all'aperto lungo la marina e sulla passeggiata di spiaggia, anche dove i piccoli spazi interni non sono adatti. Conviene sempre confermarlo al momento della prenotazione."
+        },
+        {
+          "q": "I cani sono ammessi all'interno dei ristoranti?",
+          "a": "Le sale interne su questa costa sono di solito piccole e spesso non adatte ai cani, ma le terrazze restano comunque il posto giusto dove stare. Chiedi al personale prima di entrare."
+        },
+        {
+          "q": "Il mio cane riceve acqua al ristorante?",
+          "a": "D'estate la maggior parte dei bar in terrazza e dei ristoranti porta una ciotola d'acqua su richiesta, e molti lo fanno anche senza che tu lo chieda. Porta comunque una tua ciotola da viaggio per le camminate tra una tappa e l'altra sulla passeggiata."
         }
       ]
     },
@@ -228,12 +252,16 @@
           "tipPt": "Suba as escadas a partir do trilho de Seča ao fresco da manhã: há pouca sombra no cimo ao meio-dia.",
           "descriptionDe": "Ein Freiluft-Steinskulpturenpark auf der Halbinsel Seča mit über 130 Werken, die seit 1961 bei internationalen Symposien entstanden, verteilt auf einem grasbewachsenen Hügel mit Zypressen, Oliven- und Feigenbäumen. Rund fünfzehn Minuten vom Zentrum entfernt verbindet er Kunst mit weiten Panoramen über die Bucht von Portorož und die Salinen.",
           "descriptionNl": "Een openluchtsteensculpturenpark op het schiereiland Seča, met meer dan 130 werken die sinds 1961 zijn ontstaan bij internationale symposia, verspreid over een grazige heuvel met cipressen, olijf- en vijgenbomen. Op ongeveer vijftien minuten van het centrum combineert het kunst met weidse panorama's over de baai van Portorož en de zoutpannen.",
+          "descriptionIt": "Un parco di sculture all'aperto sulla penisola di Seča, con oltre 130 opere nate dai simposi internazionali dal 1961, distribuite su una collina erbosa con cipressi, ulivi e fichi. A circa un quarto d'ora dal centro, unisce l'arte a panorami ampi sulla baia di Portorož e sulle saline.",
           "petPolicyDe": "Leinengeführte Hunde auf dem gesamten Freiluftgelände willkommen; Kot bitte aufsammeln und entsorgen.",
           "petPolicyNl": "Aangelijnde honden welkom op het hele openluchtterrein; ruim uitwerpselen op en gooi ze weg.",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in tutta l'area all'aperto; raccogli le deiezioni e gettale via.",
           "mustTryDe": "Der Panoramablick über die Bucht von Portorož",
           "mustTryNl": "Het panoramische uitzichtpunt over de baai van Portorož",
+          "mustTryIt": "Il punto panoramico sulla baia di Portorož",
           "tipDe": "Steigen Sie die Treppe vom Seča-Weg in der kühlen Morgenluft hinauf; oben gibt es zur Mittagszeit wenig Schatten.",
-          "tipNl": "Beklim de trap vanaf het Seča-pad in de koele ochtend; boven is er 's middags weinig schaduw."
+          "tipNl": "Beklim de trap vanaf het Seča-pad in de koele ochtend; boven is er 's middags weinig schaduw.",
+          "tipIt": "Sali la scalinata dal sentiero di Seča nelle ore fresche del mattino; in cima c'è poca ombra nel pomeriggio."
         },
         {
           "name": "Seča Peninsula Walking Path",
@@ -262,12 +290,16 @@
           "tipPt": "Leve água: não há fontes depois de deixar a marina e a península coze no verão.",
           "descriptionDe": "Eine gemütliche, rund zweistündige Runde von Portorož hinaus auf die grüne Halbinsel Seča, vorbei an der Marina, dem Skulpturenpark und ruhigen Olivenhainen mit dem Meer auf beiden Seiten. Das kommt einem echten Naturspaziergang in leichter Reichweite des Ortes am nächsten.",
           "descriptionNl": "Een rustige lus van ongeveer twee uur vanuit Portorož naar het groene schiereiland Seča, langs de jachthaven, het sculpturenpark en rustige olijfgaarden met zee aan beide kanten. Dit komt het dichtst in de buurt van een echte natuurwandeling binnen makkelijk bereik van het resort.",
+          "descriptionIt": "Un anello tranquillo di circa due ore da Portorož alla verde penisola di Seča, che costeggia la marina, il parco di sculture e uliveti silenziosi con il mare su entrambi i lati. È quanto di più vicino a una vera camminata nella natura a portata di mano dal resort.",
           "petPolicyDe": "Hunde die ganze Strecke an der Leine; der Untergrund ist unbefestigt und streckenweise schattig.",
           "petPolicyNl": "Honden de hele route aan de lijn; de ondergrond is onverhard en stukken zijn beschaduwd.",
+          "petPolicyIt": "Cani al guinzaglio per tutto il percorso; il fondo non è asfaltato e alcuni tratti sono ombreggiati.",
           "mustTryDe": "Die Olivenhaine und Meerblicke auf der gegenüberliegenden Seite",
           "mustTryNl": "De olijfgaarden en zeezichten aan de overkant",
+          "mustTryIt": "Gli uliveti e le viste sul mare dall'altra parte",
           "tipDe": "Nehmen Sie Wasser mit: Sobald Sie die Marina verlassen, gibt es keine Brunnen mehr, und die Halbinsel heizt sich im Sommer stark auf.",
-          "tipNl": "Neem water mee: zodra je de jachthaven verlaat zijn er geen fonteinen meer, en het schiereiland verhit 's zomers flink."
+          "tipNl": "Neem water mee: zodra je de jachthaven verlaat zijn er geen fonteinen meer, en het schiereiland verhit 's zomers flink.",
+          "tipIt": "Porta acqua: appena lasci la marina non ci sono più fontane, e d'estate la penisola si scalda parecchio."
         },
         {
           "name": "Portorož to Piran Coastal Path",
@@ -296,12 +328,16 @@
           "tipPt": "Percorra-o cedo ou ao anoitecer no verão: os troços pavimentados retêm o calor e há pouca sombra ao meio-dia.",
           "descriptionDe": "Ein flacher, rund drei Kilometer langer Uferweg, der Portorož mit der Altstadt von Piran verbindet und dabei größtenteils direkt am Wasser vorbei an Marinas, Stränden und Cafés verläuft. Einfach, malerisch und geeignet für Kinderwagen und Hund zugleich, ist er der klassische Ausflug in Portorož auf vier Pfoten.",
           "descriptionNl": "Een vlakke, ongeveer drie kilometer lange kustwandeling die Portorož met de oude stad Piran verbindt, grotendeels direct langs het water, voorbij jachthavens, stranden en cafés. Makkelijk, schilderachtig en geschikt voor zowel kinderwagen als hond, is het het klassieke uitstapje in Portorož op vier poten.",
+          "descriptionIt": "Una camminata costiera piana di circa tre chilometri che collega Portorož alla città vecchia di Piran, quasi tutta a filo d'acqua, passando per marine, spiagge e caffè. Facile, panoramica e adatta sia a passeggini sia a cani, è la classica gita a quattro zampe di Portorož.",
           "petPolicyDe": "Hunde die ganze Strecke an der Leine willkommen; bleiben Sie den eingezäunten öffentlichen Badestränden fern, die Hunde verbieten.",
           "petPolicyNl": "Honden de hele route welkom aan de lijn; blijf uit de buurt van de omheinde openbare badstranden, die honden verbieden.",
+          "petPolicyIt": "Cani benvenuti al guinzaglio per tutto il percorso; sta' lontano dagli stabilimenti balneari pubblici recintati, che vietano i cani.",
           "mustTryDe": "Der Sonnenuntergang über der Bucht auf halber Strecke",
           "mustTryNl": "Zonsondergang over de baai vanaf het middelpunt",
+          "mustTryIt": "Il tramonto sulla baia dal punto di mezzo",
           "tipDe": "Gehen Sie ihn im Sommer früh am Morgen oder in der Dämmerung; die asphaltierten Abschnitte speichern die Hitze, und mittags gibt es wenig Schatten.",
-          "tipNl": "Loop hem 's zomers vroeg of in de schemering; de bestrate stukken houden de hitte vast en er is 's middags weinig schaduw."
+          "tipNl": "Loop hem 's zomers vroeg of in de schemering; de bestrate stukken houden de hitte vast en er is 's middags weinig schaduw.",
+          "tipIt": "Percorrila presto o al crepuscolo d'estate; i tratti pavimentati trattengono il calore e nel pomeriggio c'è poca ombra."
         }
       ],
       "tipsEn": [
@@ -399,7 +435,9 @@
         }
       ],
       "titleNl": "Parken & groene wandelingen bij Portorož",
+      "titleIt": "Parchi e camminate verdi vicino a Portorož",
       "introNl": "Portorož ruilt grote stadsparken in voor kustgroen: het schiereiland Seča met zijn openluchtsculpturenpark, en het vlakke kustpad dat helemaal tot Piran loopt. Dit alles wordt aan de lijn verkend, en de schaduw van dennen, cipressen en olijfbomen maakt het verschil op een hete Adriatische middag.",
+      "introIt": "Portorož scambia i grandi parchi cittadini con il verde costiero: la penisola di Seča con il suo parco di sculture all'aperto, e il sentiero costiero piano che arriva fino a Piran. Tutto si esplora al guinzaglio, e l'ombra di pini, cipressi e ulivi fa la differenza in un pomeriggio caldo dell'Adriatico.",
       "faqsNl": [
         {
           "q": "Zijn er hondenparken in Portorož?",
@@ -412,6 +450,20 @@
         {
           "q": "Is er schaduw op deze wandelingen?",
           "a": "Wisselend. Het schiereiland Seča heeft stukken met dennen, cipressen en olijfbomen, maar de promenade en het hoger gelegen sculptuurterrein liggen open, loop dus vroeg of laat en neem 's zomers water mee."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Ci sono parchi per cani a Portorož?",
+          "a": "Nel resort stesso non c'è un'area sgambamento recintata, ma la penisola di Seča, il suo percorso e il parco di sculture Forma Viva offrono molto spazio verde al guinzaglio, e Monty's Dog Beach a Lucija è il posto per correre liberi."
+        },
+        {
+          "q": "Il mio cane può camminare da Portorož a Piran?",
+          "a": "Sì. Il sentiero costiero piano di circa tre chilometri collega le due località al guinzaglio, quasi tutto a filo d'acqua. Evita i vicoli ripidi della città vecchia di Piran, il che è utile per i cani anziani."
+        },
+        {
+          "q": "C'è ombra in queste camminate?",
+          "a": "Varia. La penisola di Seča ha tratti con pini, cipressi e ulivi, ma la passeggiata e l'area del parco di sculture più in alto sono allo scoperto, quindi cammina presto o tardi e porta acqua d'estate."
         }
       ]
     },
@@ -450,12 +502,16 @@
           "tipPt": "Viaje fora das horas de ponta de praia, quando os autocarros vão mais cheios, e guarde um açaimo no saco para os cães maiores por precaução.",
           "descriptionDe": "Ein häufig verkehrender lokaler Stadtbus verbindet Piran, Portorož, Lucija und Strunjan im Abstand von etwa zwanzig Minuten mit kontaktlosem Zahlungssystem. Die kurze Strecke zwischen Piran und Portorož dauert nur wenige Minuten und erspart den Fußweg bei Sommerhitze.",
           "descriptionNl": "Een frequente lokale stadsbus verbindt Piran, Portorož, Lucija en Strunjan, met een interval van ongeveer twintig minuten en een contactloos betaalsysteem. De korte rit tussen Piran en Portorož duurt slechts enkele minuten en bespaart de wandeling in de zomerhitte.",
+          "descriptionIt": "Un autobus urbano locale frequente collega Piran, Portorož, Lucija e Strunjan, con un intervallo di circa venti minuti e pagamento contactless. Il breve tragitto tra Piran e Portorož dura solo pochi minuti e ti risparmia la camminata nel caldo estivo.",
           "petPolicyDe": "Kleine Hunde reisen in einer Transportbox; größere Hunde werden an der Leine mit Maulkorb griffbereit akzeptiert.",
           "petPolicyNl": "Kleine honden reizen in een transportbox; grotere honden worden aangelijnd geaccepteerd met een muilkorf bij de hand.",
+          "petPolicyIt": "I cani piccoli viaggiano in trasportino; i cani più grandi sono accettati al guinzaglio con museruola a portata di mano.",
           "mustTryDe": "Die kurze Strecke zwischen Portorož und Piran",
           "mustTryNl": "De korte rit tussen Portorož en Piran",
+          "mustTryIt": "Il breve tragitto tra Portorož e Piran",
           "tipDe": "Fahren Sie außerhalb der Strandstoßzeiten, wenn die Busse am vollsten sind, und halten Sie für größere Hunde vorsorglich einen Maulkorb in der Tasche.",
-          "tipNl": "Reis buiten de drukke strandtijden, wanneer de bussen het volst zijn, en houd voor grotere honden voor de zekerheid een muilkorf in de tas."
+          "tipNl": "Reis buiten de drukke strandtijden, wanneer de bussen het volst zijn, en houd voor grotere honden voor de zekerheid een muilkorf in de tas.",
+          "tipIt": "Viaggia fuori dagli orari di punta della spiaggia, quando i bus sono più pieni, e per i cani più grandi tieni comunque una museruola in borsa per sicurezza."
         },
         {
           "name": "Trieste Airport & FlixBus",
@@ -484,12 +540,16 @@
           "tipPt": "Reserve o autocarro do aeroporto com antecedência e declare o seu cão; os horários sazonais mudam, por isso confirme na véspera da viagem.",
           "descriptionDe": "Fernbusse von FlixBus, Arriva und Nomago verbinden Portorož mit Triest, Ljubljana, Koper und Venedig, mit einer direkten FlixBus-Verbindung zum Flughafen Triest von rund einer Dreiviertelstunde. Für die meisten Besucher ist das der einfachste autofreie Weg.",
           "descriptionNl": "Langeafstandsbussen van FlixBus, Arriva en Nomago verbinden Portorož met Triëst, Ljubljana, Koper en Venetië, met een directe FlixBus-verbinding naar de luchthaven van Triëst van ongeveer een uur en drie kwartier. Voor de meeste bezoekers is dit de eenvoudigste manier om zonder auto aan te komen.",
+          "descriptionIt": "Autobus a lunga percorrenza di FlixBus, Arriva e Nomago collegano Portorož a Trieste, Lubiana, Capodistria e Venezia, con un collegamento diretto FlixBus per l'aeroporto di Trieste di circa un'ora e tre quarti. Per la maggior parte dei visitatori è il modo più semplice per arrivare senza auto.",
           "petPolicyDe": "Hunde im FlixBus mit Ticket an der Leine und mit Maulkorb akzeptiert, kleine Hunde in einer Transportbox; bestätigen Sie bei der Buchung die Tierregeln des Anbieters.",
           "petPolicyNl": "Honden geaccepteerd in de FlixBus aangelijnd en met muilkorf met een ticket, of kleine honden in een transportbox; bevestig bij het boeken de huisdierregels van de vervoerder.",
+          "petPolicyIt": "Cani accettati su FlixBus al guinzaglio e con museruola con un biglietto, oppure cani piccoli in trasportino; conferma le regole sugli animali del vettore al momento della prenotazione.",
           "mustTryDe": "Die direkte Verbindung zum Flughafen Triest",
           "mustTryNl": "De directe verbinding naar de luchthaven van Triëst",
+          "mustTryIt": "Il collegamento diretto per l'aeroporto di Trieste",
           "tipDe": "Buchen Sie den Flughafenbus im Voraus und melden Sie Ihren Hund an; die Fahrpläne ändern sich saisonal, prüfen Sie sie also am Vortag der Reise.",
-          "tipNl": "Boek de luchthavenbus van tevoren en meld je hond aan; de seizoensroosters veranderen, controleer ze dus de dag voor vertrek."
+          "tipNl": "Boek de luchthavenbus van tevoren en meld je hond aan; de seizoensroosters veranderen, controleer ze dus de dag voor vertrek.",
+          "tipIt": "Prenota in anticipo il bus per l'aeroporto e segnala il tuo cane; gli orari stagionali cambiano, quindi controllali il giorno prima della partenza."
         },
         {
           "name": "Car & Parking",
@@ -518,12 +578,16 @@
           "tipPt": "Estacione uma só vez e caminhe ou apanhe o autocarro local; a beira-mar é plana e encontrar lugar na época alta é demorado.",
           "descriptionDe": "Die Anreise mit dem Auto ist einfach, und Portorož verfügt über Parkhäuser und kostenpflichtige Straßenparkplätze entlang der Uferpromenade, wenngleich der Kurort im Juli und August stark belebt ist. Ljubljana liegt rund neunzig Minuten entfernt, die kroatische Grenze nur wenige Minuten von Lucija.",
           "descriptionNl": "Aankomen met de auto is eenvoudig, en Portorož heeft parkeergarages en betaalde straatparkeerplaatsen langs de kust, al wordt de resortstrip in juli en augustus druk. Ljubljana ligt ongeveer negentig minuten verderop en de Kroatische grens slechts enkele minuten van Lucija.",
+          "descriptionIt": "Arrivare in auto è semplice, e Portorož ha parcheggi coperti e strisce blu a pagamento lungo la costa, anche se la striscia del resort si affolla a luglio e agosto. Lubiana è a circa novanta minuti e il confine croato a pochi minuti da Lucija.",
           "petPolicyDe": "Keine Tierbeschränkungen auf Parkplätzen; lassen Sie einen Hund bei der sommerlichen Adriahitze niemals im geparkten Auto zurück.",
           "petPolicyNl": "Geen huisdierbeperkingen op parkeerplaatsen; laat een hond nooit achter in een geparkeerde auto bij de zomerse Adriatische hitte.",
+          "petPolicyIt": "Nessuna restrizione per animali nei parcheggi; non lasciare mai un cane in un'auto parcheggiata con il caldo estivo dell'Adriatico.",
           "mustTryDe": "Tagesausflüge nach Sečovlje, Strunjan und Piran",
           "mustTryNl": "Dagtochten naar Sečovlje, Strunjan en Piran",
+          "mustTryIt": "Gite di un giorno a Sečovlje, Strunjan e Piran",
           "tipDe": "Parken Sie einmal und laufen Sie zu Fuß oder nehmen Sie den örtlichen Bus; die Uferpromenade ist flach, und in der Hauptsaison einen freien Platz zu finden dauert lange.",
-          "tipNl": "Parkeer één keer en loop of neem de lokale bus; de kust is vlak, en in het hoogseizoen een vrije plek vinden duurt lang."
+          "tipNl": "Parkeer één keer en loop of neem de lokale bus; de kust is vlak, en in het hoogseizoen een vrije plek vinden duurt lang.",
+          "tipIt": "Parcheggia una volta e cammina o prendi il bus locale; la costa è piana, e in alta stagione trovare un posto libero richiede tempo."
         }
       ],
       "tipsEn": [
@@ -621,7 +685,9 @@
         }
       ],
       "titleNl": "Met hond onderweg in Portorož",
+      "titleIt": "In giro con il cane a Portorož",
       "introNl": "Portorož is klein en vlak, en het grootste deel is met een hond te voet te verkennen langs de kust. Voor de wijdere kust verbindt een frequente lokale bus Piran, Portorož, Lucija en Strunjan, terwijl FlixBus en luchthaventransfers Triëst, Ljubljana en Venetië verbinden. In Sloveense bussen reizen kleine honden in een transportbox en grotere honden aangelijnd met een muilkorf bij de hand.",
+      "introIt": "Portorož è piccola e piana, e la maggior parte si esplora a piedi con un cane lungo la costa. Per la costa più ampia, un bus locale frequente collega Piran, Portorož, Lucija e Strunjan, mentre FlixBus e i transfer aeroportuali collegano Trieste, Lubiana e Venezia. Sui bus sloveni i cani piccoli viaggiano in trasportino e quelli più grandi al guinzaglio con museruola a portata di mano.",
       "faqsNl": [
         {
           "q": "Kan ik mijn hond meenemen in de lokale bus in Portorož?",
@@ -634,6 +700,20 @@
         {
           "q": "Is een auto nuttig in Portorož?",
           "a": "Niet voor het resort zelf, dat vlak en goed te voet is, maar een auto ontsluit Sečovlje, Strunjan en de wijdere Istrische kust. Gebruik de parkeergarages en laat je hond 's zomers nooit binnen achter."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane sul bus locale a Portorož?",
+          "a": "Sì. Sui bus pubblici sloveni i cani piccoli viaggiano in trasportino e quelli più grandi sono accettati al guinzaglio con museruola a portata di mano. La linea locale Piran-Strunjan è il collegamento comodo lungo la costa."
+        },
+        {
+          "q": "Come arrivo a Portorož con un cane senza atterrare in un grande aeroporto?",
+          "a": "L'aeroporto di Trieste è il più vicino, con un FlixBus diretto di circa un'ora e tre quarti, e ci sono anche bus da Lubiana, Capodistria e Venezia. Conferma le regole sugli animali di ogni vettore al momento della prenotazione."
+        },
+        {
+          "q": "L'auto è utile a Portorož?",
+          "a": "Non per il resort in sé, che è piano e si gira bene a piedi, ma un'auto apre a Sečovlje, Strunjan e alla costa istriana più ampia. Usa i parcheggi coperti e non lasciare mai il cane dentro d'estate."
         }
       ]
     },
@@ -672,12 +752,16 @@
           "tipPt": "Funciona por época e pode abrir por volta de junho, por isso confirme os canais da própria praia antes de fazer a viagem.",
           "descriptionDe": "Sloweniens erster echter Hundestrand, am Anfang des ehemaligen Strandes von Lucija unterhalb des Außenpools des Hotels Metropol, wo freundliche Hunde ohne Leine schwimmen. Eintritt, das Meer, der Spielplatz und die Duschen sind kostenlos, und die Bar serviert neben Getränken für Herrchen und Frauchen auch Leckerlis und ein Hundemenü.",
           "descriptionNl": "Sloveniës eerste echte hondenstrand, aan het begin van het voormalige strand van Lucija onder het buitenzwembad van Hotel Metropol, waar vriendelijke honden loslopend zwemmen. Toegang, de zee, de speeltuin en de douches zijn gratis, en de bar serveert naast drankjes voor de baasjes ook lekkernijen en een hondenmenu.",
+          "descriptionIt": "La prima vera spiaggia per cani della Slovenia, all'inizio dell'ex spiaggia di Lucija sotto la piscina esterna dell'Hotel Metropol, dove cani socievoli nuotano liberi. L'ingresso, il mare, l'area giochi e le docce sono gratuiti, e il bar serve oltre ai drink per i padroni anche snack e un menu per cani.",
           "petPolicyDe": "Freilauf für freundliche, sozialverträgliche Hunde; freier Eintritt, Dusche und Spielbereich vor Ort.",
           "petPolicyNl": "Loslopen voor vriendelijke, sociale honden; gratis toegang, douche en speelgebied ter plaatse.",
+          "petPolicyIt": "Liberi senza guinzaglio per cani socievoli e amichevoli; ingresso gratuito, doccia e area giochi sul posto.",
           "mustTryDe": "Ein Bad, gefolgt vom Hundemenü an der Bar",
           "mustTryNl": "Een zwembeurt gevolgd door het hondenmenu bij de bar",
+          "mustTryIt": "Una nuotata seguita dal menu per cani al bar",
           "tipDe": "Er hat Saisonbetrieb und kann etwa im Juni öffnen, prüfen Sie also vorab die eigenen Kanäle des Strandes, bevor Sie extra hinfahren.",
-          "tipNl": "Het draait seizoensgebonden en kan rond juni opengaan, controleer dus vooraf de eigen kanalen van het strand voordat je speciaal komt."
+          "tipNl": "Het draait seizoensgebonden en kan rond juni opengaan, controleer dus vooraf de eigen kanalen van het strand voordat je speciaal komt.",
+          "tipIt": "Funziona stagionalmente e può aprire verso giugno, quindi controlla in anticipo i canali ufficiali della spiaggia prima di venire apposta."
         },
         {
           "name": "Strunjan Coast (non-bathing stretches)",
@@ -706,12 +790,16 @@
           "tipPt": "Use calçado com aderência: aqui o acesso à água faz-se sobre rocha, não sobre areia, e as plataformas ficam escorregadias.",
           "descriptionDe": "Nördlich von Portorož bewahrt die Halbinsel Strunjan Sloweniens längsten Naturküstenabschnitt mit dramatischen Flysch-Klippen und felsigen Plattformen unterhalb der Pinienhänge. Am eingezäunten Badestrand selbst sind Hunde nicht erlaubt, aber die wilderen, nicht als Badestrand ausgewiesenen Felsen und Klippenpfade bieten ruhigen Raum zum Spazieren und Abkühlen.",
           "descriptionNl": "Ten noorden van Portorož bewaart het schiereiland Strunjan Sloveniës langste natuurlijke kuststrook, met dramatische flysch-kliffen en rotsplateaus onder de dennenhellingen. Op het omheinde badstrand zelf zijn honden niet toegestaan, maar de wildere, niet als badstrand aangewezen rotsen en klifpaden bieden rustige ruimte om te wandelen en af te koelen.",
+          "descriptionIt": "A nord di Portorož, la penisola di Strunjan conserva il tratto di costa naturale più lungo della Slovenia, con drammatiche scogliere di flysch e piattaforme rocciose sotto i pendii di pini. Sulla spiaggia balneare recintata vera e propria i cani non sono ammessi, ma le rocce più selvagge e i sentieri sulla scogliera, non designati come spiaggia balneare, offrono spazio tranquillo per camminare e rinfrescarsi.",
           "petPolicyDe": "An der Leine auf den Klippenpfaden; bleiben Sie dem eingezäunten Badestrand fern, der Hunde in der Saison verbietet.",
           "petPolicyNl": "Aan de lijn op de klifpaden; blijf uit de buurt van het omheinde badstrand, dat in het seizoen honden verbiedt.",
+          "petPolicyIt": "Al guinzaglio sui sentieri della scogliera; sta' lontano dalla spiaggia balneare recintata, che vieta i cani in stagione.",
           "mustTryDe": "Der Aussichtspunkt an den Flysch-Klippen über die Bucht",
           "mustTryNl": "Het uitzichtpunt bij de flysch-kliffen over de baai",
+          "mustTryIt": "Il punto panoramico alle scogliere di flysch sulla baia",
           "tipDe": "Tragen Sie griffiges Schuhwerk: Der Zugang zum Wasser erfolgt hier über Felsen, nicht über Sand, und die Platten werden rutschig.",
-          "tipNl": "Draag stroef schoeisel: de toegang tot het water gaat hier over rots, niet over zand, en de plateaus worden glad."
+          "tipNl": "Draag stroef schoeisel: de toegang tot het water gaat hier over rots, niet over zand, en de plateaus worden glad.",
+          "tipIt": "Indossa scarpe con buona presa: l'accesso all'acqua qui passa sulla roccia, non sulla sabbia, e le piattaforme diventano scivolose."
         }
       ],
       "tipsEn": [
@@ -809,7 +897,9 @@
         }
       ],
       "titleNl": "Hondvriendelijke stranden bij Portorož",
+      "titleIt": "Spiagge pet friendly vicino a Portorož",
       "introNl": "De kern is eerlijk en simpel: honden zijn om veiligheidsredenen verboden op de omheinde openbare badstranden van Portorož, maar de kust heeft een echt antwoord in Monty's Dog Beach in Lucija, Sloveniës eerste aangewezen hondenstrand. Elders zijn honden toegestaan op niet als badstrand aangewezen rotsachtige kuststroken, dus is er de hele zomer water binnen bereik.",
+      "introIt": "Il quadro è onesto e semplice: i cani sono vietati per motivi di sicurezza sulle spiagge balneari pubbliche recintate di Portorož, ma la costa ha una vera risposta in Monty's Dog Beach a Lucija, la prima spiaggia per cani designata della Slovenia. Altrove i cani sono ammessi sui tratti rocciosi non designati come spiaggia balneare, quindi c'è acqua a portata di mano per tutta l'estate.",
       "faqsNl": [
         {
           "q": "Is er een hondenstrand in Portorož?",
@@ -822,6 +912,20 @@
         {
           "q": "Is de kust zanderig of rotsachtig?",
           "a": "Grotendeels rotsachtig. Zwemmen gebeurt langs een groot deel van deze kust vanaf plateaus en platforms in plaats van zand, breng dus stroef schoeisel mee en wees voorbereid om je hond het water in en uit te tillen of te begeleiden."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è una spiaggia per cani a Portorož?",
+          "a": "Sì. Monty's Dog Beach a Lucija è la prima spiaggia per cani designata della Slovenia, con nuoto libero, un'area giochi, docce e un bar con menu per cani, e l'ingresso è gratuito. Funziona stagionalmente, quindi controlla in anticipo."
+        },
+        {
+          "q": "Il mio cane può andare sulla spiaggia principale di Portorož?",
+          "a": "No. Le spiagge balneari pubbliche recintate di Portorož e Piran vietano i cani per motivi di sicurezza. I cani sono ammessi sui tratti rocciosi non designati come spiaggia balneare e, naturalmente, a Monty's Dog Beach."
+        },
+        {
+          "q": "La costa è sabbiosa o rocciosa?",
+          "a": "In gran parte rocciosa. Il bagno lungo buona parte di questa costa avviene da piattaforme e pedane invece che da sabbia, quindi porta scarpe con buona presa e preparati a sollevare o accompagnare il tuo cane dentro e fuori dall'acqua."
         }
       ]
     },
@@ -860,12 +964,16 @@
           "tipPt": "Guarde o número à chegada: por ficar em Lucija é a mais rápida de alcançar se o seu cão precisar de cuidados.",
           "descriptionDe": "Eine tierärztliche Praxis in Lucija, am nächsten zum Kurort Portorož gelegen und leicht zu Fuß oder mit dem örtlichen Bus erreichbar. Sie ist auf der offiziellen Seite des Tourismusverbands Portorož und Piran als örtliche Hauptpraxis gelistet.",
           "descriptionNl": "Een dierenartspraktijk in Lucija, het dichtst bij de resortstrip van Portorož en makkelijk te voet of met de lokale bus te bereiken. Ze staat op de officiële pagina van het toerismebureau van Portorož en Piran als de belangrijkste lokale praktijk vermeld.",
+          "descriptionIt": "Uno studio veterinario a Lucija, il più vicino alla striscia del resort di Portorož e facile da raggiungere a piedi o con il bus locale. È indicato come studio locale principale nella pagina ufficiale dell'ente del turismo di Portorož e Piran.",
           "petPolicyDe": "Hunde und Katzen werden behandelt; rufen Sie vorab wegen Öffnungszeiten und Terminen an.",
           "petPolicyNl": "Honden en katten worden behandeld; bel vooraf voor openingstijden en afspraken.",
+          "petPolicyIt": "Cani e gatti vengono curati; chiama in anticipo per orari e appuntamenti.",
           "mustTryDe": "Nächstgelegene Praxis zum Kurort",
           "mustTryNl": "Dichtstbijzijnde praktijk bij het resort",
+          "mustTryIt": "Studio più vicino al resort",
           "tipDe": "Speichern Sie die Nummer bei Ankunft; da sie in Lucija liegt, ist sie am schnellsten erreichbar, falls Ihr Hund während des Aufenthalts Hilfe braucht.",
-          "tipNl": "Sla het nummer op bij aankomst; omdat ze in Lucija ligt, is ze het snelst te bereiken als je hond tijdens het verblijf zorg nodig heeft."
+          "tipNl": "Sla het nummer op bij aankomst; omdat ze in Lucija ligt, is ze het snelst te bereiken als je hond tijdens het verblijf zorg nodig heeft.",
+          "tipIt": "Salva il numero all'arrivo; trovandosi a Lucija è il più veloce da raggiungere se il tuo cane ha bisogno di cure durante il soggiorno."
         },
         {
           "name": "Veterinary Clinic Koper - Piran Branch",
@@ -894,12 +1002,16 @@
           "tipPt": "Se Lucija estiver cheia, esta delegação de Piran é o consultório listado mais próximo na costa.",
           "descriptionDe": "Die Piran-Zweigstelle der regionalen Tierklinik Koper, wenige Minuten von Portorož mit dem Auto oder dem örtlichen Bus entfernt. Sie erscheint auf der offiziellen Informationsseite des Tourismusverbands als zweite naheliegende Option für routinemäßige und unerwartete Behandlungen.",
           "descriptionNl": "De vestiging in Piran van de regionale dierenkliniek Koper, enkele minuten van Portorož met de auto of de lokale bus. Ze staat op de officiële informatiepagina van het toerismebureau als een tweede optie dichtbij voor routinematige en onverwachte zorg.",
+          "descriptionIt": "La sede a Piran della clinica veterinaria regionale di Capodistria, a pochi minuti da Portorož in auto o con il bus locale. È indicata nella pagina informativa ufficiale dell'ente del turismo come seconda opzione vicina per cure di routine e imprevisti.",
           "petPolicyDe": "Hunde und Katzen werden behandelt; rufen Sie vorab wegen Öffnungszeiten und Terminen an.",
           "petPolicyNl": "Honden en katten worden behandeld; bel vooraf voor openingstijden en afspraken.",
+          "petPolicyIt": "Cani e gatti vengono curati; chiama in anticipo per orari e appuntamenti.",
           "mustTryDe": "Praktische zweite Option nahe Piran",
           "mustTryNl": "Handige tweede optie bij Piran",
+          "mustTryIt": "Comoda seconda opzione vicino a Piran",
           "tipDe": "Falls Lucija ausgebucht ist, ist diese Piran-Zweigstelle die nächstgelegene gelistete Praxis an der Küste.",
-          "tipNl": "Als Lucija volgeboekt is, is deze vestiging in Piran de op één na dichtstbijzijnde gelistede praktijk aan de kust."
+          "tipNl": "Als Lucija volgeboekt is, is deze vestiging in Piran de op één na dichtstbijzijnde gelistede praktijk aan de kust.",
+          "tipIt": "Se Lucija è al completo, questa sede a Piran è il secondo studio più vicino elencato sulla costa."
         },
         {
           "name": "Emergency Clinic Koper",
@@ -928,12 +1040,16 @@
           "tipPt": "Guarde este número antes de viajar: é o que se deve ligar à noite ou em feriados quando as clínicas locais estão fechadas.",
           "descriptionDe": "Die tierärztliche Notfallklinik in Koper ist die Anlaufstelle der Küste für Notfälle außerhalb der Öffnungszeiten, rund eine halbe Stunde von Portorož mit dem Auto entfernt. Sie ist der auf der offiziellen Seite des Tourismusverbands Portorož und Piran genannte Notfallkontakt.",
           "descriptionNl": "De spoedeisende dierenkliniek in Koper is het referentiepunt van de kust voor spoedgevallen buiten kantooruren, ongeveer een half uur van Portorož met de auto. Ze is het spoedcontact vermeld op de officiële pagina van het toerismebureau van Portorož en Piran.",
+          "descriptionIt": "La clinica veterinaria d'emergenza di Capodistria è il punto di riferimento della costa per le urgenze fuori orario, a circa mezz'ora in auto da Portorož. È il contatto d'emergenza indicato nella pagina ufficiale dell'ente del turismo di Portorož e Piran.",
           "petPolicyDe": "Dringende Fälle und Notfälle außerhalb der Öffnungszeiten; vor der Fahrt anrufen.",
           "petPolicyNl": "Spoed- en avondgevallen buiten kantooruren; bel vooraf voordat je vertrekt.",
+          "petPolicyIt": "Casi d'emergenza e serali fuori orario; chiama in anticipo prima di partire.",
           "mustTryDe": "Der Notfallkontakt der Küste außerhalb der Öffnungszeiten",
           "mustTryNl": "Het spoedcontact van de kust buiten kantooruren",
+          "mustTryIt": "Il contatto d'emergenza fuori orario della costa",
           "tipDe": "Speichern Sie diese Nummer vor der Reise; sie ist die richtige Anlaufstelle nachts oder an Feiertagen, wenn die örtlichen Praxen geschlossen sind.",
-          "tipNl": "Programmeer dit nummer voordat je vertrekt; het is het nummer dat je 's nachts of op feestdagen belt, wanneer de lokale praktijken gesloten zijn."
+          "tipNl": "Programmeer dit nummer voordat je vertrekt; het is het nummer dat je 's nachts of op feestdagen belt, wanneer de lokale praktijken gesloten zijn.",
+          "tipIt": "Salva questo numero prima di partire; è quello da chiamare di notte o nei giorni festivi, quando gli studi locali sono chiusi."
         }
       ],
       "tipsEn": [
@@ -1031,7 +1147,9 @@
         }
       ],
       "titleNl": "Dierenartsen & huisdierenzorg in Portorož",
+      "titleIt": "Veterinari e cura degli animali a Portorož",
       "introNl": "Portorož is goed voorzien van dierenartsenzorg, met een praktijk in Lucija op korte loopafstand van het resort en verdere opties in Piran en Koper. Onderstaande lijst komt van de officiële informatiepagina van het toerismebureau van Portorož en Piran, sla dus bij aankomst een nummer op in je telefoon en houd er rekening mee dat spoedgevallen buiten kantooruren via Koper lopen.",
+      "introIt": "Portorož è ben servita per le cure veterinarie, con uno studio a Lucija a breve distanza a piedi dal resort e altre opzioni a Piran e Capodistria. L'elenco qui sotto proviene dalla pagina informativa ufficiale dell'ente del turismo di Portorož e Piran, quindi salva un numero nel telefono all'arrivo e tieni presente che le emergenze fuori orario passano da Capodistria.",
       "faqsNl": [
         {
           "q": "Is er een dierenarts in Portorož zelf?",
@@ -1044,6 +1162,20 @@
         {
           "q": "Welke papieren heeft mijn hond nodig in Slovenië?",
           "a": "Slovenië is EU-lid, breng dus het EU-dierenpaspoort en het bewijs van een actuele rabiësvaccinatie mee. Huisdiervriendelijke hotels en dierenartsen kunnen erom vragen, houd ze dus bij de hand."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è un veterinario a Portorož stessa?",
+          "a": "Lo studio più vicino è Vet Medica a Lucija, parte del comune di Portorož e a breve distanza a piedi o in bus dal resort. Chiama in anticipo per orari e appuntamenti."
+        },
+        {
+          "q": "Cosa faccio in caso di emergenza di notte o in un giorno festivo?",
+          "a": "La clinica veterinaria d'emergenza di Capodistria, a circa mezz'ora in auto, è il contatto fuori orario indicato dall'ente del turismo ufficiale. Salva il numero prima di partire e chiama in anticipo."
+        },
+        {
+          "q": "Quali documenti servono al mio cane in Slovenia?",
+          "a": "La Slovenia è membro UE, quindi porta il passaporto UE per animali e la prova di una vaccinazione antirabbica aggiornata. Hotel pet friendly e veterinari possono chiederteli, quindi tienili a portata di mano."
         }
       ]
     },
@@ -1082,12 +1214,16 @@
           "tipPt": "Leve o cão a Fontanigge, não a Lera, e leve água: as salinas são planas, abertas e completamente sem sombra.",
           "descriptionDe": "Eine lebendige Landschaft tausend Jahre alter, von Hand bewirtschafteter Salinen an der kroatischen Grenze, belebt von Watvögeln und seltenen Pflanzen. Der Park hat zwei Bereiche, Lera im Norden und Fontanigge im Süden, jeweils mit eigenen Öffnungszeiten und Empfang.",
           "descriptionNl": "Een levend landschap van duizend jaar oude, met de hand bewerkte zoutpannen aan de Kroatische grens, vol steltlopers en zeldzame planten. Het park heeft twee gebieden, Lera in het noorden en Fontanigge in het zuiden, elk met eigen openingstijden en receptie.",
+          "descriptionIt": "Un paesaggio vivo di saline lavorate a mano da mille anni, al confine con la Croazia, ricco di trampolieri e piante rare. Il parco ha due aree, Lera a nord e Fontanigge a sud, ciascuna con propri orari e reception.",
           "petPolicyDe": "Hunde an kurzer Leine ausschließlich im Bereich Fontanigge erlaubt; im Bereich Lera sind Hunde nicht zugelassen.",
           "petPolicyNl": "Honden aan een korte lijn alleen toegestaan in het gebied Fontanigge; in het gebied Lera zijn honden niet toegestaan.",
+          "petPolicyIt": "Cani ammessi al guinzaglio corto solo nell'area di Fontanigge; nell'area di Lera i cani non sono ammessi.",
           "mustTryDe": "Die Salzfelder von Fontanigge und die Vogelwelt",
           "mustTryNl": "De zoutvelden van Fontanigge en de vogelwereld",
+          "mustTryIt": "I campi salini di Fontanigge e la fauna ornitologica",
           "tipDe": "Bringen Sie den Hund nach Fontanigge, nicht nach Lera, und nehmen Sie Wasser mit: Die Salinen sind flach, offen und völlig schattenlos.",
-          "tipNl": "Breng de hond naar Fontanigge, niet naar Lera, en neem water mee: de pannen zijn vlak, open en volledig zonder schaduw."
+          "tipNl": "Breng de hond naar Fontanigge, niet naar Lera, en neem water mee: de pannen zijn vlak, open en volledig zonder schaduw.",
+          "tipIt": "Porta il cane a Fontanigge, non a Lera, e porta acqua: le saline sono piane, aperte e completamente senza ombra."
         },
         {
           "name": "Piran Old Town",
@@ -1116,12 +1252,16 @@
           "tipPt": "Apanhe o autocarro local à ida e à volta para evitar a subida e o estacionamento complicado, e depois percorra os cais planos com o seu cão.",
           "descriptionDe": "Nur einen kurzen Sprung von Portorož entfernt, ist Piran eine autofreie venezianisch-gotische Stadt, eingepfercht auf eine steinerne Landzunge rund um den Tartini-Platz mit seinem Glockenturm. Fast vollständig fußgängerfreundlich, sind ihre Gassen, Kais und Stadtmauern wie geschaffen für einen Spaziergang an der Leine.",
           "descriptionNl": "Een korte sprong van Portorož vandaan, is Piran een autovrij Venetiaans-gotisch stadje, geperst op een stenen landtong rond het Tartiniplein met zijn klokkentoren. Bijna volledig voetgangersgebied, zijn de steegjes, kades en stadsmuren gemaakt voor een wandeling aan de lijn.",
+          "descriptionIt": "A un breve salto da Portorož, Piran è una cittadina veneziano-gotica senza auto, stretta su un promontorio di pietra intorno a Piazza Tartini con il suo campanile. Quasi interamente pedonale, i suoi vicoli, moli e mura cittadine sono fatti per una camminata al guinzaglio.",
           "petPolicyDe": "Hunde an der Leine in den gesamten Fußgängerstraßen willkommen; Kircheninnenräume lassen keine Hunde zu.",
           "petPolicyNl": "Honden welkom aan de lijn in alle voetgangersstraten; kerkinterieurs laten geen honden toe.",
+          "petPolicyIt": "Cani benvenuti al guinzaglio in tutte le strade pedonali; gli interni delle chiese non ammettono cani.",
           "mustTryDe": "Der Tartini-Platz und der Aussichtspunkt an der Stadtmauer",
           "mustTryNl": "Het Tartiniplein en het uitzichtpunt bij de stadsmuur",
+          "mustTryIt": "Piazza Tartini e il punto panoramico presso le mura cittadine",
           "tipDe": "Nehmen Sie den örtlichen Bus hin und zurück, um die steile Anfahrt und die schwierige Parkplatzsuche zu umgehen, und laufen Sie dann mit Ihrem Hund die flachen Kais entlang.",
-          "tipNl": "Neem de lokale bus heen en terug om de steile rit en de lastige parkeerplekken te vermijden, en wandel dan met je hond langs de vlakke kades."
+          "tipNl": "Neem de lokale bus heen en terug om de steile rit en de lastige parkeerplekken te vermijden, en wandel dan met je hond langs de vlakke kades.",
+          "tipIt": "Prendi il bus locale andata e ritorno per evitare la salita ripida e i parcheggi scomodi, poi cammina con il tuo cane lungo i moli in piano."
         },
         {
           "name": "Portorož Spa Promenade",
@@ -1150,12 +1290,16 @@
           "tipPt": "Revezem-se: um aproveita um tratamento de spa enquanto o outro passeia o cão na frente-mar plana, e depois trocam.",
           "descriptionDe": "Das Herz des Kurorts ist seine prachtvolle Belle-Époque-Uferpromenade, wo historische Kurhotels und die Palmenpromenade an Portorož' jahrhundertelange Zeit als mondäner Thalasso-Zielort erinnern. Sie schlendern hier frei an der Leine entlang, wenngleich die Wellness- und Thalasso-Spas selbst innen hundefrei bleiben.",
           "descriptionNl": "Het hart van het resort is de prachtige belle-époque-kustpromenade, waar historische kuurhotels en de palmenpromenade herinneren aan Portorož' eeuw als modieuze thalassobestemming. Je wandelt er vrij aan de lijn, al blijven de wellness- en thalasso-spa's zelf binnen hondenvrij.",
+          "descriptionIt": "Il cuore del resort è la splendida passeggiata costiera in stile belle époque, dove gli storici hotel termali e il viale delle palme ricordano il secolo di Portorož come rinomata meta talassoterapica. Puoi camminare liberamente al guinzaglio, anche se le spa termali e wellness restano vietate ai cani all'interno.",
           "petPolicyDe": "Leinengeführte Hunde entlang der Promenade willkommen; Hunde bleiben außerhalb der Spa- und Thalassogebäude.",
           "petPolicyNl": "Aangelijnde honden welkom langs de promenade; honden blijven buiten de spa- en thalassogebouwen.",
+          "petPolicyIt": "Cani al guinzaglio benvenuti lungo la passeggiata; i cani restano fuori dagli edifici spa e talassoterapici.",
           "mustTryDe": "Die Belle-Époque-Fassaden der Grandhotels in der Abenddämmerung",
           "mustTryNl": "De belle-époque-gevels van de grandhotels in de schemering",
+          "mustTryIt": "Le facciate belle époque dei grand hotel al crepuscolo",
           "tipDe": "Wechseln Sie sich ab: Einer von Ihnen kann eine Spa-Behandlung genießen, während der andere den Hund an der flachen Uferpromenade ausführt, dann tauschen Sie.",
-          "tipNl": "Wissel af: één van jullie kan genieten van een spa-behandeling terwijl de ander de hond uitlaat langs de vlakke kustpromenade, en wissel dan om."
+          "tipNl": "Wissel af: één van jullie kan genieten van een spa-behandeling terwijl de ander de hond uitlaat langs de vlakke kustpromenade, en wissel dan om.",
+          "tipIt": "Alternatevi: uno di voi si gode un trattamento spa mentre l'altro porta a spasso il cane lungo la passeggiata costiera in piano, poi cambiate."
         }
       ],
       "tipsEn": [
@@ -1253,7 +1397,9 @@
         }
       ],
       "titleNl": "Huisdiervriendelijke bezienswaardigheden in Portorož",
+      "titleIt": "Attrazioni pet friendly a Portorož",
       "introNl": "Portorož groeide op als belle-époque-kuurstad, en de kenmerkende thalasso- en wellness-spa's zijn het enige dat honden niet kunnen delen, want ze blijven buiten de behandelingsgebouwen. Al het andere is in de open lucht en hondvriendelijk aan de lijn: het natuurpark van de zoutpannen, het autovrije stenen stadje Piran ernaast, en de palmenpromenade die alles met elkaar verbindt.",
+      "introIt": "Portorož è cresciuta come città termale in stile belle époque, e le sue caratteristiche spa talassoterapiche e wellness sono l'unica cosa che i cani non possono condividere, perché restano fuori dagli edifici dei trattamenti. Tutto il resto è all'aperto e pet friendly al guinzaglio: il parco naturale delle saline, la cittadina di pietra senza auto di Piran lì accanto, e la passeggiata delle palme che collega tutto.",
       "faqsNl": [
         {
           "q": "Kan ik mijn hond meenemen naar de zoutpannen van Sečovlje?",
@@ -1266,6 +1412,20 @@
         {
           "q": "Is Piran de moeite waard als dagtocht met een hond?",
           "a": "Zeker wel. Piran is autovrij en de steegjes, kades en het Tartiniplein zijn gemaakt voor een wandeling aan de lijn. Neem de lokale bus om de steile rit en de schaarse parkeerplekken te vermijden."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane alle saline di Sečovlje?",
+          "a": "Sì, ma solo nell'area di Fontanigge e al guinzaglio corto; nell'area di Lera i cani non sono ammessi. Il paesaggio è piano e senza ombra, quindi porta acqua ed evita il caldo di mezzogiorno d'estate."
+        },
+        {
+          "q": "Le spa di Portorož sono pet friendly?",
+          "a": "No. I trattamenti talassoterapici e wellness si svolgono all'interno, dove i cani non sono ammessi. Pianifica di alternarti con un compagno di viaggio, oppure usa un dog sitter locale, così il tuo cane sta bene mentre tu ricevi un trattamento."
+        },
+        {
+          "q": "Piran vale una gita di un giorno con un cane?",
+          "a": "Assolutamente sì. Piran è senza auto e i vicoli, i moli e Piazza Tartini sono fatti per una camminata al guinzaglio. Prendi il bus locale per evitare la salita ripida e i pochi posti auto."
         }
       ]
     },
@@ -1366,7 +1526,9 @@
         }
       ],
       "titleNl": "Praktische tips voor een bezoek aan Portorož met hond",
+      "titleIt": "Consigli pratici per visitare Portorož con un cane",
       "introNl": "Portorož is een van de makkelijkste Adriatische kustplaatsen om met een hond te bezoeken: vlak, goed te voet en met een echt hondenstrand, en het bredere Sloveense Istrië is gastvrij aan de lijn. De eerlijke kanttekeningen zijn de zomerhitte, het hondenverbod op de openbare badstranden en het feit dat de spa-behandelingen die het resort beroemd maakten, binnen plaatsvinden en hondenvrij zijn.",
+      "introIt": "Portorož è una delle località costiere adriatiche più facili da visitare con un cane: piana, facile da girare a piedi e con una vera spiaggia per cani, e l'Istria slovena più ampia è accogliente al guinzaglio. Le note oneste sono il caldo estivo, il divieto di cani sulle spiagge pubbliche e il fatto che i trattamenti spa che hanno reso famoso il resort si svolgono all'interno e sono senza cani.",
       "faqsNl": [
         {
           "q": "Is Portorož een goede bestemming met een hond?",
@@ -1379,6 +1541,20 @@
         {
           "q": "Welke regels moet ik vooral kennen?",
           "a": "Honden zijn verboden op de openbare badstranden, toegestaan bij Monty's Dog Beach zonder lijn, alleen toegestaan in het Fontanigge-gebied van de zoutpannen van Sečovlje, en blijven buiten de spa-interieurs. Overal gelden lijn- en opruimregels."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Portorož è una buona destinazione con un cane?",
+          "a": "Sì. È piana, facile da girare a piedi e ha, con Monty's Dog Beach a Lucija, la prima spiaggia per cani della Slovenia, terrazze pet friendly lungo la marina e la passeggiata, e gite di un giorno facili a Piran e alle saline. I limiti principali sono il caldo estivo e le spa senza cani."
+        },
+        {
+          "q": "Qual è il periodo migliore per visitare Portorož con un cane?",
+          "a": "Tarda primavera e inizio autunno sono ideali: il mare è abbastanza caldo, le camminate senza ombra sono piacevoli e il resort è più tranquillo. La piena estate è calda e affollata, se vieni comunque cammina presto e tardi e appoggiati a Monty's Dog Beach."
+        },
+        {
+          "q": "Quali regole devo conoscere assolutamente?",
+          "a": "I cani sono vietati sulle spiagge balneari pubbliche, ammessi liberi senza guinzaglio a Monty's Dog Beach, ammessi solo nell'area di Fontanigge alle saline di Sečovlje, e restano fuori dagli interni delle spa. Ovunque valgono le regole su guinzaglio e raccolta delle deiezioni."
         }
       ]
     },
@@ -1417,12 +1593,16 @@
           "tipPt": "Contacte um cuidador antes de chegar: a procura de verão na costa é alta e os melhores cuidadores esgotam cedo.",
           "descriptionDe": "Ein internationaler Marktplatz für Tierbetreuung mit örtlichen Betreuern, Gassigehern und Unterbringungsmöglichkeiten in der Region Portorož und Piran. Buchungen kommen mit Versicherung und Support, und die Gassi-Überwachung lässt Sie Ihren Hund unterwegs auf einer Karte verfolgen.",
           "descriptionNl": "Een internationale marktplaats voor huisdierenzorg met lokale oppassers, uitlaters en verzorgers in het gebied Portorož en Piran. Boekingen komen met verzekering en ondersteuning, en met gps-tracking kun je je hond onderweg volgen op een kaart.",
+          "descriptionIt": "Un marketplace internazionale per la cura degli animali con sitter, dog walker e operatori locali nell'area di Portorož e Piran. Le prenotazioni includono assicurazione e assistenza, e con il gps tracking puoi seguire il tuo cane su una mappa durante la passeggiata.",
           "petPolicyDe": "Hundeunterbringung, Tagesbetreuung und Gassidienste über örtliche geprüfte Betreuer; im Sommer im Voraus buchen.",
           "petPolicyNl": "Hondenoppas, dagopvang en uitlaatservice via lokale, gecontroleerde oppassers; boek 's zomers van tevoren.",
+          "petPolicyIt": "Pensione, asilo diurno e passeggiate tramite sitter locali e verificati; prenota in anticipo d'estate.",
           "mustTryDe": "Eine Tagesbetreuung für einen Spa- oder Bootsnachmittag",
           "mustTryNl": "Een dagoppas voor een spa- of bootmiddag",
+          "mustTryIt": "Un'assistenza diurna per un pomeriggio in spa o in barca",
           "tipDe": "Schreiben Sie einer Betreuung vor Ihrer Ankunft; die Sommernachfrage an der Küste ist hoch, und die besten Betreuer sind schnell ausgebucht.",
-          "tipNl": "Stuur een oppasser een bericht voor je aankomst; de zomervraag aan de kust is hoog, en de beste oppassers zijn snel volgeboekt."
+          "tipNl": "Stuur een oppasser een bericht voor je aankomst; de zomervraag aan de kust is hoog, en de beste oppassers zijn snel volgeboekt.",
+          "tipIt": "Scrivi a un sitter prima del tuo arrivo; la domanda estiva sulla costa è alta, e i sitter migliori si prenotano in fretta."
         },
         {
           "name": "TrustedHousesitters (Slovenia)",
@@ -1451,12 +1631,16 @@
           "tipPt": "Leia com atenção as avaliações dos cuidadores e combine por escrito os horários e passeios exatos antes de se comprometer.",
           "descriptionDe": "Eine Mitgliedschaftsplattform, die Reisende mit bewerteten und verifizierten Tierbetreuern in ganz Slowenien, einschließlich der Küste, zusammenbringt. Sie eignet sich für längere Aufenthalte, bei denen eine Betreuung zu Hause Ihren Hund in vertrauter Umgebung hält, statt ihn unterzubringen.",
           "descriptionNl": "Een lidmaatschapsplatform dat reizigers koppelt aan beoordeelde en geverifieerde huisdierenoppassers in heel Slovenië, inclusief de kust. Het is geschikt voor langere verblijven, waarbij een oppas aan huis je hond in een vertrouwde omgeving houdt in plaats van hem onder te brengen.",
+          "descriptionIt": "Una piattaforma in abbonamento che mette in contatto i viaggiatori con dog sitter recensiti e verificati in tutta la Slovenia, costa inclusa. È adatta a soggiorni più lunghi, dove un sitter a casa tua tiene il cane in un ambiente familiare invece di ospitarlo altrove.",
           "petPolicyDe": "Betreuung zu Hause durch bewertete Mitglieder; besser geeignet für längere Aufenthalte.",
           "petPolicyNl": "Oppas aan huis door beoordeelde leden; beter geschikt voor langere verblijven.",
+          "petPolicyIt": "Assistenza a domicilio da parte di membri recensiti; più adatta a soggiorni lunghi.",
           "mustTryDe": "Betreuung zu Hause für eine mehrtägige Reise",
           "mustTryNl": "Oppas aan huis voor een meerdaagse reis",
+          "mustTryIt": "Assistenza a domicilio per un viaggio di più giorni",
           "tipDe": "Lesen Sie die Bewertungen der Betreuer sorgfältig und vereinbaren Sie die genauen Zeiten und Gassirunden schriftlich, bevor Sie sich festlegen.",
-          "tipNl": "Lees de beoordelingen van oppassers zorgvuldig en spreek de exacte uren en wandelingen schriftelijk af voordat je je vastlegt."
+          "tipNl": "Lees de beoordelingen van oppassers zorgvuldig en spreek de exacte uren en wandelingen schriftelijk af voordat je je vastlegt.",
+          "tipIt": "Leggi con attenzione le recensioni dei sitter e concorda per iscritto gli orari esatti e le passeggiate prima di impegnarti."
         }
       ],
       "tipsEn": [
@@ -1554,7 +1738,9 @@
         }
       ],
       "titleNl": "Hondenoppas & huisdierenzorg in Portorož",
+      "titleIt": "Dog sitting e cura degli animali a Portorož",
       "introNl": "Omdat Portorož een kuuroord is met hondenvrije behandelruimtes, kan een paar uur oppas echt nuttig zijn voor een wellness-middag of een boottocht. Er is geen groot lokaal bureau, maar de belangrijkste internationale oppasplatforms listen gecontroleerde oppassers in Portorož, Lucija en Piran, boek dus van tevoren in het drukke zomerseizoen.",
+      "introIt": "Dato che Portorož è una città termale con sale trattamenti senza cani, qualche ora di dog sitting può essere davvero utile per un pomeriggio wellness o una gita in barca. Non c'è una grande agenzia locale, ma le principali piattaforme internazionali di dog sitting elencano sitter verificati a Portorož, Lucija e Piran, quindi prenota in anticipo nell'alta stagione estiva.",
       "faqsNl": [
         {
           "q": "Kan ik een hondenoppas vinden in Portorož?",
@@ -1567,6 +1753,20 @@
         {
           "q": "Is een verblijf of oppas aan huis beter?",
           "a": "Voor een korte spa-middag is een lokale dagoppas of uitlater via PetBacker het eenvoudigst; voor een meerdaagse reis houdt een oppas aan huis via TrustedHousesitters je hond in een vertrouwde omgeving. Spreek de details in beide gevallen schriftelijk af."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso trovare un dog sitter a Portorož?",
+          "a": "Sì, soprattutto tramite piattaforme internazionali come PetBacker e TrustedHousesitters, che elencano sitter verificati a Portorož, Lucija e Piran. Non c'è una grande agenzia locale, quindi prenota in anticipo d'estate."
+        },
+        {
+          "q": "Perché mi servirebbe un sitter qui?",
+          "a": "Le caratteristiche spa talassoterapiche e wellness del resort non ammettono cani all'interno, quindi qualche ora di sitting ti permette di goderti un trattamento o una gita in barca mentre il tuo cane sta bene e sotto controllo."
+        },
+        {
+          "q": "È meglio una pensione o un sitter a domicilio?",
+          "a": "Per un breve pomeriggio in spa, un sitter diurno locale o un dog walker tramite PetBacker è la soluzione più semplice; per un viaggio di più giorni, un sitter a domicilio tramite TrustedHousesitters tiene il tuo cane in un ambiente familiare. In entrambi i casi concorda i dettagli per iscritto."
         }
       ]
     }

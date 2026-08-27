@@ -40,12 +40,16 @@
           "tipPt": "Fica ao nível da praia, por isso o seu cão não sobe longas escadas para chegar à mesa",
           "descriptionDe": "Eine Institution in Positano direkt an der Spiaggia Grande, die Pizza, Meeresfrüchte und Pasta auf einer langen Terrasse mit Blick aufs Wasser serviert. Die ebenerdige Lage auf Meereshöhe macht es zu einem der einfachsten hundefreundlichen Tische in einer Stadt endloser Treppen.",
           "descriptionNl": "Een instituut van Positano, direct aan de Spiaggia Grande, met pizza, zeevruchten en pasta op een lang terras met uitzicht op het water. De vlakke ligging op zeeniveau maakt het tot een van de makkelijkst hondvriendelijke tafels in een stad vol eindeloze trappen.",
+          "descriptionIt": "Un'istituzione di Positano, proprio sulla Spiaggia Grande, con pizza, pesce e pasta su una lunga terrazza vista mare. La posizione piana a livello del mare la rende uno dei tavoli più facilmente pet friendly in una città piena di scale infinite.",
           "petPolicyDe": "Leinengeführte Hunde an den Terrassentischen zum Meer willkommen",
           "petPolicyNl": "Aangelijnde honden welkom aan de terrastafels aan zee",
+          "petPolicyIt": "Cani al guinzaglio benvenuti ai tavoli in terrazza sul mare",
           "mustTryDe": "Pizza aus dem Holzofen, Meeresfrüchtepasta",
           "mustTryNl": "Pizza uit de houtoven, zeevruchtenpasta",
+          "mustTryIt": "Pizza al forno a legna, pasta di mare",
           "tipDe": "Es liegt auf Strandniveau, also kein langer Treppenaufstieg für Ihren Hund zum Tisch",
-          "tipNl": "Het ligt op strandniveau, dus geen lange trappenklim voor je hond om bij de tafel te komen"
+          "tipNl": "Het ligt op strandniveau, dus geen lange trappenklim voor je hond om bij de tafel te komen",
+          "tipIt": "Si trova a livello spiaggia, quindi nessuna lunga scalinata per il tuo cane per arrivare al tavolo"
         },
         {
           "name": "Da Vincenzo",
@@ -74,12 +78,16 @@
           "tipPt": "Chegue no autocarro laranja interno em vez de subir desde a praia",
           "descriptionDe": "Eine warme, familiengeführte Trattoria an der Hauptstraße Viale Pasitea, bekannt für klassische Amalfiküche und einen herzlichen Empfang. Die Straßenterrasse ist leicht mit dem örtlichen Bus zu erreichen und erspart Ihrem Hund den steilen Abstieg zum Strand.",
           "descriptionNl": "Een warme, familietrattoria aan de hoofdstraat Viale Pasitea, bekend om klassieke Amalfitaanse keuken en een hartelijk onthaal. Het terras aan de straatkant is makkelijk te bereiken met de lokale bus, wat je hond de steile afdaling naar het strand bespaart.",
+          "descriptionIt": "Una trattoria familiare e accogliente sulla via principale Viale Pasitea, nota per la cucina amalfitana classica e un'ospitalità calorosa. La terrazza sulla strada è facile da raggiungere con il bus locale, il che risparmia al tuo cane la ripida discesa verso la spiaggia.",
           "petPolicyDe": "Leinengeführte Hunde auf der Außenterrasse willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op het buitenterras",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza esterna",
           "mustTryDe": "Frische Pasta, lokaler Fisch",
           "mustTryNl": "Verse pasta, lokale vis",
+          "mustTryIt": "Pasta fresca, pesce locale",
           "tipDe": "Erreichen Sie es mit dem internen orangefarbenen Bus statt vom Strand hinaufzusteigen",
-          "tipNl": "Bereik het met de interne oranje bus in plaats van vanaf het strand omhoog te klimmen"
+          "tipNl": "Bereik het met de interne oranje bus in plaats van vanaf het strand omhoog te klimmen",
+          "tipIt": "Raggiungilo con il bus arancione interno invece di salire dalla spiaggia"
         },
         {
           "name": "Da Ferdinando",
@@ -108,12 +116,16 @@
           "tipPt": "Percorra a plana Via Positanesi d'America desde a Spiaggia Grande para chegar sem escadas",
           "descriptionDe": "Ein entspanntes Strandrestaurant und Lido am ruhigeren Strand von Fornillo, erreichbar über den flachen Uferweg Via Positanesi d'America. Die entspannte Sand-und-Meer-Umgebung eignet sich für einen leinengeführten Hund weit besser als die belebten großen Strandclubs.",
           "descriptionNl": "Een ontspannen strandrestaurant en lido aan het rustigere strand van Fornillo, bereikbaar via het vlakke kustpad Via Positanesi d'America. De ontspannen zand-en-zee-omgeving past een aangelijnde hond veel beter dan de drukke grote strandclubs.",
+          "descriptionIt": "Un ristorante di spiaggia rilassato e stabilimento balneare sulla più tranquilla spiaggia di Fornillo, raggiungibile con il sentiero costiero in piano Via Positanesi d'America. L'atmosfera rilassata di sabbia e mare si adatta molto meglio a un cane al guinzaglio rispetto ai grandi stabilimenti affollati.",
           "petPolicyDe": "Leinengeführte Hunde an den Außentischen willkommen (Regeln für den Strandbereich bitte bestätigen)",
           "petPolicyNl": "Aangelijnde honden welkom aan de buitentafels (bevestig de regels voor het strandgedeelte)",
+          "petPolicyIt": "Cani al guinzaglio benvenuti ai tavoli esterni (conferma le regole per la parte spiaggia)",
           "mustTryDe": "Gegrillter Fisch, Spaghetti alle vongole",
           "mustTryNl": "Gegrilde vis, spaghetti alle vongole",
+          "mustTryIt": "Pesce alla griglia, spaghetti alle vongole",
           "tipDe": "Gehen Sie den flachen Weg Via Positanesi d'America von der Spiaggia Grande aus, um es ohne Treppen zu erreichen",
-          "tipNl": "Loop het vlakke pad Via Positanesi d'America vanaf de Spiaggia Grande om er zonder trappen te komen"
+          "tipNl": "Loop het vlakke pad Via Positanesi d'America vanaf de Spiaggia Grande om er zonder trappen te komen",
+          "tipIt": "Cammina sul sentiero in piano Via Positanesi d'America dalla Spiaggia Grande per arrivarci senza scale"
         }
       ],
       "tipsEn": [
@@ -211,7 +223,9 @@
         }
       ],
       "titleNl": "Huisdiervriendelijke restaurants in Positano",
+      "titleIt": "Ristoranti pet friendly a Positano",
       "introNl": "Uit eten in Positano volgt de ontspannen Italiaanse norm: aangelijnde, goed opgevoede honden zijn welkom op de buitenterrassen van de meeste restaurants en strandclubs, van de kust bij de Spiaggia Grande tot boven in de steile steegjes, ook al zijn de kleine binnenruimtes meestal niet geschikt. Het personeel brengt op verzoek een waterbak, wat op deze hete, terrasvormige helling veel uitmaakt. Kies voor een schaduwrijke lunch of een vroeg avondeten, en kies gezien de steilte een plek dicht bij het strand of de busweg, zodat je hond niet honderden treden hoeft te beklimmen voor een maaltijd.",
+      "introIt": "Mangiare fuori a Positano segue lo stile italiano rilassato: cani al guinzaglio, ben educati, sono benvenuti nelle terrazze esterne della maggior parte dei ristoranti e degli stabilimenti balneari, dalla costa vicino alla Spiaggia Grande fino ai vicoli ripidi più in alto, anche se i piccoli spazi interni di solito non sono adatti. Il personale porta una ciotola d'acqua su richiesta, il che fa molta differenza su questo pendio caldo e a terrazze. Scegli un pranzo all'ombra o una cena presto la sera, e data la ripidità scegli un posto vicino alla spiaggia o alla strada del bus, così il tuo cane non deve affrontare centinaia di gradini solo per un pasto.",
       "faqsNl": [
         {
           "q": "Mag ik mijn hond meenemen naar restaurants in Positano?",
@@ -224,6 +238,20 @@
         {
           "q": "Krijgt mijn hond water in het restaurant?",
           "a": "Ja, op verzoek. Dat is belangrijk in de zomerse hitte van Positano, vraag dus om een bak en houd je hond tussen de gangen door in de schaduw."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane nei ristoranti di Positano?",
+          "a": "Sì, ai tavoli in terrazza esterna. I cani al guinzaglio e tranquilli sono benvenuti nella maggior parte delle terrazze e degli stabilimenti balneari, secondo lo stile italiano comune. I piccoli spazi interni spesso non sono adatti, quindi chiedi prima di entrare."
+        },
+        {
+          "q": "Dov'è più facile mangiare con un cane in una città così ripida?",
+          "a": "Scegli posti a livello spiaggia sulla Spiaggia Grande o a Fornillo, oppure terrazze sulla strada in Viale Pasitea, raggiungibili con il bus interno, così il tuo cane evita la lunga scalinata."
+        },
+        {
+          "q": "Il mio cane riceve acqua al ristorante?",
+          "a": "Sì, su richiesta. È importante con il caldo estivo di Positano, quindi chiedi una ciotola e tieni il tuo cane all'ombra tra una portata e l'altra."
         }
       ]
     },
@@ -262,12 +290,16 @@
           "tipPt": "É o único passeio plano de Positano, ideal de manhã cedo antes da multidão",
           "descriptionDe": "Diese kurze, flache Klippenpromenade verbindet die Spiaggia Grande mit dem Strand von Fornillo und führt an einem mittelalterlichen Wachturm mit Meerblick auf der gesamten Strecke vorbei. In einer Stadt aus Treppen ist sie der seltene ebene Spaziergang, den ein Hund an der Leine genießen kann.",
           "descriptionNl": "Deze korte, vlakke klifpromenade verbindt de Spiaggia Grande met het strand van Fornillo, langs een middeleeuwse wachttoren met zeezicht over de hele route. In een stad vol trappen is dit de zeldzame vlakke wandeling die een hond aan de lijn kan genieten.",
+          "descriptionIt": "Questa breve e piana passeggiata sulla scogliera collega la Spiaggia Grande alla spiaggia di Fornillo, passando per una torre di guardia medievale con vista sul mare per tutto il percorso. In una città piena di scale, è la rara camminata in piano di cui un cane al guinzaglio può godere.",
           "petPolicyDe": "Leinengeführte Hunde auf dem Weg willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op het pad",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sul sentiero",
           "facilitiesDe": "Flacher asphaltierter Weg, Meerblick, Wachturm",
           "facilitiesNl": "Vlak geplaveid pad, zeezicht, wachttoren",
+          "facilitiesIt": "Sentiero pavimentato in piano, vista mare, torre di guardia",
           "tipDe": "Es ist der einzige flache Spaziergang in Positano, ideal am frühen Morgen vor den Menschenmassen",
-          "tipNl": "Het is de enige vlakke wandeling in Positano, ideaal vroeg in de ochtend voor de drukte"
+          "tipNl": "Het is de enige vlakke wandeling in Positano, ideaal vroeg in de ochtend voor de drukte",
+          "tipIt": "È l'unica camminata in piano di Positano, ideale la mattina presto prima della folla"
         },
         {
           "name": "Nocelle",
@@ -296,12 +328,16 @@
           "tipPt": "Suba de autocarro e desça a pé, para o seu cão descer em vez de subir 1500 degraus",
           "descriptionDe": "Ein winziger terrassierter Weiler hoch über Positano, grüner, kühler und deutlich ruhiger als die Uferpromenade, und das untere Ende des Götterwegs. Leinengeführte Hunde lieben die schattigen Gassen und Zitronenterrassen, erreichbar mit dem örtlichen Bus, um die 1.500 Stufen zu vermeiden.",
           "descriptionNl": "Een piepklein terrasvormig gehucht hoog boven Positano, groener, koeler en veel rustiger dan de kust, en het benedeneinde van de Götterweg. Aangelijnde honden houden van de schaduwrijke steegjes en citroenterrassen, bereikbaar met de lokale bus om de 1.500 treden te vermijden.",
+          "descriptionIt": "Una piccolissima frazione a terrazze in alto sopra Positano, più verde, più fresca e molto più tranquilla della costa, e l'estremità inferiore del Sentiero degli Dei. I cani al guinzaglio amano i vicoli ombreggiati e le terrazze di limoni, raggiungibili con il bus locale per evitare i 1.500 gradini.",
           "petPolicyDe": "Leinengeführte Hunde in den Gassen und auf den Terrassen willkommen",
           "petPolicyNl": "Aangelijnde honden welkom in de steegjes en op de terrassen",
+          "petPolicyIt": "Cani al guinzaglio benvenuti nei vicoli e sulle terrazze",
           "facilitiesDe": "Schattige Gassen, Meerblick, Wanderweg-Startpunkt, Bushaltestelle",
           "facilitiesNl": "Schaduwrijke steegjes, zeezicht, startpunt wandelpad, bushalte",
+          "facilitiesIt": "Vicoli ombreggiati, vista mare, punto di partenza del sentiero, fermata del bus",
           "tipDe": "Fahren Sie mit dem Bus hinauf und gehen Sie hinunter, damit Ihr Hund bergab statt 1.500 Stufen bergauf geht",
-          "tipNl": "Neem de bus omhoog en loop naar beneden, zodat je hond bergaf gaat in plaats van 1.500 treden omhoog"
+          "tipNl": "Neem de bus omhoog en loop naar beneden, zodat je hond bergaf gaat in plaats van 1.500 treden omhoog",
+          "tipIt": "Prendi il bus in salita e cammina in discesa, così il tuo cane scende invece di salire 1.500 gradini"
         },
         {
           "name": "Agerola (Bomerano plateau)",
@@ -330,12 +366,16 @@
           "tipPt": "Chegue de autocarro SITA desde Amalfi; é bastante mais fresco do que a costa no verão",
           "descriptionDe": "Die grüne Hochebene über der Küste, kühler und ländlich geprägt, wo der Götterweg in Bomerano beginnt. Sie ist der beste Ort nahe Positano, an dem ein Hund auf offenem, schattigem Boden statt auf heißen Steinstufen laufen kann.",
           "descriptionNl": "De groene hoogvlakte boven de kust, koeler en landelijk, waar de Götterweg begint in Bomerano. Het is de beste plek bij Positano voor een hond om op open, schaduwrijke grond te lopen in plaats van hete stenen treden.",
+          "descriptionIt": "L'altopiano verde sopra la costa, più fresco e rurale, dove inizia il Sentiero degli Dei a Bomerano. È il posto migliore vicino a Positano per far camminare un cane su terreno aperto e ombreggiato invece che su gradini di pietra roventi.",
           "petPolicyDe": "Leinengeführte Hunde auf der Hochebene und an den Wanderweg-Startpunkten willkommen",
           "petPolicyNl": "Aangelijnde honden welkom op de hoogvlakte en bij de startpunten van wandelpaden",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sull'altopiano e ai punti di partenza dei sentieri",
           "facilitiesDe": "Offenes Land, kühlere Luft, Wanderweg-Startpunkt, Cafés",
           "facilitiesNl": "Open landschap, koelere lucht, startpunt wandelpad, cafés",
+          "facilitiesIt": "Paesaggio aperto, aria più fresca, punto di partenza del sentiero, caffè",
           "tipDe": "Erreichen Sie sie mit dem SITA-Bus von Amalfi aus; im Sommer ist es dort merklich kühler als an der Küste",
-          "tipNl": "Bereik het met de SITA-bus vanuit Amalfi; het is 's zomers merkbaar koeler dan aan de kust"
+          "tipNl": "Bereik het met de SITA-bus vanuit Amalfi; het is 's zomers merkbaar koeler dan aan de kust",
+          "tipIt": "Raggiungilo con il bus SITA da Amalfi; d'estate è notevolmente più fresco della costa"
         }
       ],
       "tipsEn": [
@@ -433,7 +473,9 @@
         }
       ],
       "titleNl": "Parken & groene ruimtes rond Positano",
+      "titleIt": "Parchi e spazi verdi vicino a Positano",
       "introNl": "Positano heeft geen stadspark of gazon: het is een bijna verticaal dorp van trappen die naar zee afdalen, groene ruimte betekent hier dus de voetpaden en de heuvels erboven. De enige echt vlakke wandeling in het dorp is de Via Positanesi d'America, het schilderachtige kustpad tussen de twee stranden. Voor echt groen en koele lucht ga je omhoog naar het terrasvormige gehucht Nocelle of de hoogvlakte van Agerola, waar de Götterweg begint.",
+      "introIt": "Positano non ha un parco cittadino o un prato: è un paese quasi verticale di scale che scendono verso il mare, quindi qui lo spazio verde significa i sentieri e le colline sopra. L'unica vera camminata in piano nel paese è la Via Positanesi d'America, il pittoresco sentiero costiero tra le due spiagge. Per vero verde e aria fresca sali alla frazione a terrazze di Nocelle o all'altopiano di Agerola, dove inizia il Sentiero degli Dei.",
       "faqsNl": [
         {
           "q": "Is er een park waar mijn hond kan wandelen in Positano?",
@@ -446,6 +488,20 @@
         {
           "q": "Waar is het het koelst voor een hond in de zomer?",
           "a": "De hoogvlakte van Agerola en Nocelle, hoog boven de kust, zijn merkbaar koeler en schaduwrijker dan het door de zon verzengde dorp, en beide zijn hondvriendelijk aan de lijn."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è un parco dove il mio cane può camminare a Positano?",
+          "a": "Non c'è un parco cittadino o un prato. L'unica opzione in piano è il sentiero costiero Via Positanesi d'America tra Spiaggia Grande e Fornillo. Tutto il resto sono scale, quindi per vero spazio verde sali a Nocelle o Agerola."
+        },
+        {
+          "q": "Come evito le scale con il mio cane?",
+          "a": "Usa il bus arancione interno e i bus SITA per raggiungere le zone più alte e in piano, e cammina in discesa dove possibile. I cani piccoli potrebbero doversi portare in braccio nei tratti più ripidi e affollati."
+        },
+        {
+          "q": "Dove fa più fresco per un cane d'estate?",
+          "a": "L'altopiano di Agerola e Nocelle, in alto sopra la costa, sono notevolmente più freschi e ombreggiati del paese arroventato dal sole, ed entrambi sono pet friendly al guinzaglio."
         }
       ]
     },
@@ -474,8 +530,10 @@
           "petPolicyPt": "Cães pequenos com trela ou em transportadora, açaime quando exigido",
           "descriptionDe": "Die blauen SITA-SUD-Busse fahren die Küstenstraße entlang und verbinden Positano mit Amalfi, Sorrent und dem Wanderweg-Startpunkt Agerola. Kleine Haustiere sind an der Leine oder in einer Transportbox erlaubt und müssen, wo erforderlich, einen Maulkorb tragen; die Busse werden sehr voll, fahren Sie also früh.",
           "descriptionNl": "De blauwe SITA-SUD-bussen rijden de kustweg langs en verbinden Positano met Amalfi, Sorrento en het startpunt van het wandelpad bij Agerola. Kleine huisdieren zijn toegestaan aan de lijn of in een transportbox en moeten waar vereist een muilkorf dragen; de bussen worden erg vol, reis dus vroeg.",
+          "descriptionIt": "I bus blu SITA SUD percorrono la strada costiera e collegano Positano ad Amalfi, Sorrento e al punto di partenza del sentiero ad Agerola. Gli animali piccoli sono ammessi al guinzaglio o in trasportino e devono indossare la museruola dove richiesto; i bus si riempiono molto, quindi viaggia presto.",
           "petPolicyDe": "Kleine Hunde an der Leine oder in einer Transportbox, Maulkorb wo erforderlich",
-          "petPolicyNl": "Kleine honden aan de lijn of in een transportbox, muilkorf waar vereist"
+          "petPolicyNl": "Kleine honden aan de lijn of in een transportbox, muilkorf waar vereist",
+          "petPolicyIt": "Cani piccoli al guinzaglio o in trasportino, museruola dove richiesta"
         },
         {
           "name": "Positano internal shuttle bus",
@@ -494,8 +552,10 @@
           "petPolicyPt": "Cães com trela e açaime aceites; leve ao colo os pequenos quando estiver cheio",
           "descriptionDe": "Der kleine orangefarbene Shuttle von Mobility Amalfi Coast fährt im Kreisverkehr die Einbahnstraße durch das obere Positano und erspart den brutalen Aufstieg zwischen dem Strand und den Bushaltestellen auf dem Höhenzug. Leinengeführte Hunde mit Maulkorb dürfen mitfahren, was für ältere oder kleine Hunde ein Segen ist.",
           "descriptionNl": "De kleine oranje shuttle van Mobility Amalfi Coast rijdt in een lus over de eenrichtingsweg door boven-Positano en bespaart de zware klim tussen het strand en de bushaltes op de bergrug. Aangelijnde honden met muilkorf mogen meerijden, wat voor oudere of kleine honden een uitkomst is.",
+          "descriptionIt": "La piccola navetta arancione di Mobility Amalfi Coast percorre ad anello la strada a senso unico nella parte alta di Positano e risparmia la ripida salita tra la spiaggia e le fermate del bus in cresta. I cani al guinzaglio con museruola possono salire, un vero aiuto per i cani anziani o piccoli.",
           "petPolicyDe": "Leinengeführte Hunde mit Maulkorb akzeptiert; kleine Hunde bei vollem Bus tragen",
-          "petPolicyNl": "Aangelijnde honden met muilkorf geaccepteerd; kleine honden dragen bij volle bus"
+          "petPolicyNl": "Aangelijnde honden met muilkorf geaccepteerd; kleine honden dragen bij volle bus",
+          "petPolicyIt": "Cani al guinzaglio con museruola accettati; i cani piccoli si portano in braccio quando il bus è pieno"
         },
         {
           "name": "Positano ferries (Travelmar, Alicost)",
@@ -514,8 +574,10 @@
           "petPolicyPt": "Cães com trela e açaime, pequena tarifa; acima de 10 kg na zona de canil do convés",
           "descriptionDe": "Saisonale Fähren verbinden Positano mit Amalfi, Salerno und Capri, eine landschaftlich schöne und weit weniger übelkeiterregende Option als die kurvenreiche Straße. Hunde reisen mit Leine und Maulkorb gegen eine geringe Gebühr; größere Hunde über 10 kg müssen möglicherweise im Zwingerbereich des Bootes an Deck bleiben.",
           "descriptionNl": "Seizoensgebonden veerboten verbinden Positano met Amalfi, Salerno en Capri, een schilderachtige en veel minder misselijkmakende optie dan de kronkelweg. Honden reizen met lijn en muilkorf tegen een kleine vergoeding; grotere honden boven de 10 kg moeten mogelijk in het kennelgedeelte van de boot aan dek blijven.",
+          "descriptionIt": "Traghetti stagionali collegano Positano ad Amalfi, Salerno e Capri, un'opzione pittoresca e molto meno nauseante della strada tortuosa. I cani viaggiano al guinzaglio e con museruola per un piccolo supplemento; i cani più grandi sopra i 10 kg potrebbero dover restare nell'area canile in coperta.",
           "petPolicyDe": "Hunde mit Leine und Maulkorb, geringe Gebühr; über 10 kg im Zwingerbereich an Deck",
-          "petPolicyNl": "Honden met lijn en muilkorf, kleine vergoeding; boven 10 kg in het kennelgedeelte aan dek"
+          "petPolicyNl": "Honden met lijn en muilkorf, kleine vergoeding; boven 10 kg in het kennelgedeelte aan dek",
+          "petPolicyIt": "Cani al guinzaglio e con museruola, piccolo supplemento; sopra i 10 kg nell'area canile in coperta"
         }
       ],
       "tipsEn": [
@@ -613,7 +675,9 @@
         }
       ],
       "titleNl": "Met hond onderweg in Positano",
+      "titleIt": "In giro con il cane a Positano",
       "introNl": "Positano is gebouwd als een trap, dus met een hond is het slim om het openbaar vervoer de klim te laten doen. Zowel de kustbussen SITA SUD als de interne oranje shuttle nemen aangelijnde honden met muilkorf mee, en de seizoensgebonden veerboten zijn een koelere, rustigere manier om aan te komen dan de haarspeldbochtenweg. Wat je ook neemt, vermijd de spits van 7 tot 9 uur en de piekmiddaghitte, en bedenk dat je hond nog altijd flink wat trappen tegenkomt tussen de busweg en het strand.",
+      "introIt": "Positano è costruita come una scalinata, quindi con un cane conviene lasciare che sia il trasporto pubblico a fare la salita. Sia i bus costieri SITA SUD sia la navetta arancione interna accettano cani al guinzaglio con museruola, e i traghetti stagionali sono un modo più fresco e tranquillo per arrivare rispetto alla strada a tornanti. Qualunque mezzo tu prenda, evita l'ora di punta dalle 7 alle 9 e il caldo di mezzogiorno, e tieni presente che il tuo cane incontrerà comunque parecchie scale tra la strada del bus e la spiaggia.",
       "faqsNl": [
         {
           "q": "Kan ik mijn hond meenemen in de bus aan de Amalfikust?",
@@ -626,6 +690,20 @@
         {
           "q": "Hoe ga ik met mijn hond om met de trappen van Positano?",
           "a": "Gebruik de interne oranje shuttle en de SITA-bussen om de hoger gelegen weg te bereiken, en loop bergaf naar het strand. Wees bereid een kleine hond te dragen op de steilste, drukste trappen."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane sul bus della Costiera Amalfitana?",
+          "a": "Sì. I bus SITA SUD accettano cani piccoli al guinzaglio o in trasportino, con museruola dove richiesta. D'estate diventano estremamente pieni, quindi viaggia presto e tieni il cane vicino a te."
+        },
+        {
+          "q": "I cani sono ammessi sui traghetti di Positano?",
+          "a": "Sì, al guinzaglio e con museruola per un piccolo supplemento. I cani sopra i 10 kg potrebbero dover restare nell'area canile in coperta. I traghetti sono un modo più tranquillo di arrivare rispetto alla strada tortuosa."
+        },
+        {
+          "q": "Come gestisco le scale di Positano con il mio cane?",
+          "a": "Usa la navetta arancione interna e i bus SITA per raggiungere la strada più in alto, e cammina in discesa verso la spiaggia. Preparati a portare in braccio un cane piccolo nei tratti più ripidi e affollati."
         }
       ]
     },
@@ -763,7 +841,9 @@
         }
       ],
       "titleNl": "Hondvriendelijke stranden bij Positano",
+      "titleIt": "Spiagge pet friendly vicino a Positano",
       "introNl": "Wees eerlijk tegen jezelf voordat je komt: Positano is geen strandbestemming voor honden. Volgens de Italiaanse kustregels zijn honden van juni tot september verboden op de meeste openbare stranden, en de drukke privé-lido's aan de Spiaggia Grande hanteren hun eigen, meestal hondonvriendelijke, regels. Het rustigere Fornillo is buiten het seizoen wat soepeler, maar voor een echte zwembeurt met je hond moet je kijken naar speciale hondenstranden verder langs de kust richting Salerno.",
+      "introIt": "Sii sincero con te stesso prima di venire: Positano non è una destinazione balneare per cani. Secondo le regole costiere italiane, i cani sono vietati da giugno a settembre sulla maggior parte delle spiagge pubbliche, e gli affollati stabilimenti privati della Spiaggia Grande applicano regole proprie, di solito poco pet friendly. La più tranquilla Fornillo è un po' più permissiva fuori stagione, ma per una vera nuotata con il tuo cane devi guardare alle spiagge per cani dedicate più avanti lungo la costa verso Salerno.",
       "faqsNl": [
         {
           "q": "Mag mijn hond naar het strand in Positano?",
@@ -776,6 +856,20 @@
         {
           "q": "Waar kan ik daadwerkelijk zwemmen met mijn hond?",
           "a": "Bij een speciaal hondenstrand (spiaggia per cani) verder oostelijk langs de kust richting Salerno. Deze uitgeruste stranden heten honden de hele zomer welkom, anders dan de lido's van de Amalfikust."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio cane può andare in spiaggia a Positano?",
+          "a": "Raramente. Le regole italiane vietano i cani da giugno a settembre sulla maggior parte delle spiagge pubbliche, e gli stabilimenti privati di Positano di solito non li ammettono. Fornillo è un po' più permissiva fuori stagione, ma Positano non è una destinazione balneare per cani."
+        },
+        {
+          "q": "Quale spiaggia di Positano è la migliore con un cane?",
+          "a": "Fornillo, la spiaggia più tranquilla raggiungibile con il sentiero costiero in piano, è la più tollerante verso i cani delle due. Conferma sempre sul posto le regole dello specifico stabilimento e la segnaletica estiva aggiornata."
+        },
+        {
+          "q": "Dove posso davvero nuotare con il mio cane?",
+          "a": "In una spiaggia per cani dedicata (spiaggia per cani) più a est lungo la costa verso Salerno. Queste spiagge attrezzate accolgono i cani per tutta l'estate, a differenza degli stabilimenti della Costiera Amalfitana."
         }
       ]
     },
@@ -823,14 +917,19 @@
           "tipPt": "O mais prático se chegar de Sorrento ou por Sorrento; ligue antes de conduzir",
           "hoursDe": "Für Öffnungszeiten bitte anrufen",
           "hoursNl": "Bel van tevoren voor openingstijden",
+          "hoursIt": "Chiama in anticipo per gli orari di apertura",
           "descriptionDe": "Eine etablierte Klinik in Sorrent an der Via degli Aranci, der nächstgelegene richtige Tierarzt zu Positano jenseits des sorrentinischen Passes. Sie behandelt routinemäßige und dringende Fälle bei Kleintieren.",
           "descriptionNl": "Een gevestigde kliniek in Sorrento aan de Via degli Aranci, de dichtstbijzijnde echte dierenarts bij Positano over de pas van Sorrento. Ze behandelt routinematige en dringende zorg bij kleine huisdieren.",
+          "descriptionIt": "Uno studio consolidato a Sorrento in Via degli Aranci, il veterinario vero più vicino a Positano oltre il passo di Sorrento. Tratta cure di routine e urgenti per animali di piccola taglia.",
           "petPolicyDe": "Hunde und Katzen nach Terminvereinbarung",
           "petPolicyNl": "Honden en katten op afspraak",
+          "petPolicyIt": "Cani e gatti su appuntamento",
           "servicesDe": "Allgemeine Kleintierversorgung, Impfungen, Notfälle",
           "servicesNl": "Algemene kleindierenzorg, vaccinaties, spoedgevallen",
+          "servicesIt": "Cura generale di animali piccoli, vaccinazioni, emergenze",
           "tipDe": "Am praktischsten, wenn Sie aus oder über Sorrent anreisen; rufen Sie vor der Fahrt an",
-          "tipNl": "Het handigst als je vanuit of via Sorrento komt; bel voor de rit"
+          "tipNl": "Het handigst als je vanuit of via Sorrento komt; bel voor de rit",
+          "tipIt": "Più comodo se arrivi da o passi per Sorrento; chiama prima del viaggio"
         },
         {
           "name": "Centro Medico Veterinario Costa d'Amalfi",
@@ -868,14 +967,19 @@
           "tipPt": "Melhor opção se estiver no extremo de Amalfi ou Salerno da costa",
           "hoursDe": "Für Öffnungszeiten bitte anrufen",
           "hoursNl": "Bel van tevoren voor openingstijden",
+          "hoursIt": "Chiama in anticipo per gli orari di apertura",
           "descriptionDe": "Unter der Leitung von Dr. Francesco Ferrara deckt diese Klinik in Vietri sul Mare das östliche, Salerno seitige Ende der Amalfiküste ab und arbeitet mit der örtlichen Tierschutzorganisation ENPA zusammen. Sie ist der nächstgelegene Tierarzt, wenn Sie Richtung Amalfi oder Salerno wohnen.",
           "descriptionNl": "Onder leiding van dr. Francesco Ferrara dekt deze kliniek in Vietri sul Mare het oostelijke, Salerno-kant van de Amalfikust en werkt samen met de lokale dierenwelzijnsorganisatie ENPA. Het is de dichtstbijzijnde dierenarts als je richting Amalfi of Salerno verblijft.",
+          "descriptionIt": "Diretto dal dott. Francesco Ferrara, questo studio a Vietri sul Mare copre il lato orientale, verso Salerno, della Costiera Amalfitana e collabora con l'organizzazione locale per il benessere animale ENPA. È il veterinario più vicino se soggiorni verso Amalfi o Salerno.",
           "petPolicyDe": "Hunde und Katzen nach Terminvereinbarung",
           "petPolicyNl": "Honden en katten op afspraak",
+          "petPolicyIt": "Cani e gatti su appuntamento",
           "servicesDe": "Allgemeine Versorgung, Impfungen, leichte Notfälle",
           "servicesNl": "Algemene zorg, vaccinaties, kleine spoedgevallen",
+          "servicesIt": "Cura generale, vaccinazioni, piccole emergenze",
           "tipDe": "Beste Option, wenn Sie sich am Amalfi- oder Salerno-Ende der Küste aufhalten",
-          "tipNl": "Beste optie als je aan het Amalfi- of Salerno-eind van de kust verblijft"
+          "tipNl": "Beste optie als je aan het Amalfi- of Salerno-eind van de kust verblijft",
+          "tipIt": "Opzione migliore se soggiorni verso l'estremità di Amalfi o Salerno della costa"
         }
       ],
       "tipsEn": [
@@ -973,7 +1077,9 @@
         }
       ],
       "titleNl": "Dierenartsen bij Positano",
+      "titleIt": "Veterinari vicino a Positano",
       "introNl": "Positano zelf is een piepklein dorp aan de klif zonder volwaardige dierenkliniek, de realistische opties liggen dus over de pas in Sorrento of langs de kust richting Salerno. Beide zijn niet ver met de auto, maar de kronkelige kustroute is traag in de zomerdrukte, reken dus extra tijd in en bel vooraf. Sla deze nummers offline op voordat je de Götterweg op gaat, waar het bereik onbetrouwbaar is.",
+      "introIt": "Positano stessa è un piccolissimo borgo di scogliera senza una vera clinica veterinaria, quindi le opzioni realistiche si trovano oltre il passo a Sorrento o lungo la costa verso Salerno. Entrambe non sono lontane in auto, ma la strada costiera tortuosa è lenta nella confusione estiva, quindi metti in conto tempo extra e chiama prima. Salva questi numeri offline prima di avventurarti sul Sentiero degli Dei, dove la copertura telefonica non è affidabile.",
       "faqsNl": [
         {
           "q": "Is er een dierenarts in Positano?",
@@ -986,6 +1092,20 @@
         {
           "q": "Heb ik documenten nodig voor mijn hond?",
           "a": "Ja. Neem het EU-dierenpaspoort met geldige rabiësvaccinatie en het gezondheidsboekje mee. Je hebt deze ook nodig om met de SITA-bussen en de veerboten te reizen."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è un veterinario a Positano?",
+          "a": "Nessuna clinica vera e propria. I veterinari veri più vicini sono Gli Amici del Cuore a Sorrento, oltre il passo, e il Centro Medico Veterinario Costa d'Amalfi a Vietri sul Mare verso Salerno."
+        },
+        {
+          "q": "Cosa faccio in caso di emergenza?",
+          "a": "Chiama in anticipo la clinica più vicina e metti in conto il traffico lento della costa. Per le emergenze fuori orario, chiedi alla clinica o al tuo alloggio informazioni sul servizio di reperibilità o sull'ospedale più vicino verso Salerno o Napoli."
+        },
+        {
+          "q": "Mi servono documenti per il mio cane?",
+          "a": "Sì. Porta il passaporto UE per animali con vaccinazione antirabbica valida e il libretto sanitario. Ti serviranno anche per viaggiare sui bus SITA e sui traghetti."
         }
       ]
     },
@@ -1092,7 +1212,9 @@
         }
       ],
       "titleNl": "Praktische tips voor een bezoek aan Positano met hond",
+      "titleIt": "Consigli pratici per visitare Positano con un cane",
       "introNl": "Positano is een van de mooiste plekken van Italië en een van de zwaarste voor een hond. Het is een muur van trappen, honderden treden tussen de weg en de zee, met hete steen, weinig schaduw en stranden die honden meestal verbieden. Het eerlijke hoogtepunt voor hondenbezitters is niet het dorp zelf, maar de kustpaden erboven, vooral de Götterweg. Kom in de koelere maanden, leun op de bussen en veerboten, en neem overal water mee.",
+      "introIt": "Positano è uno dei posti più belli d'Italia e uno dei più impegnativi per un cane. È un muro di scale, centinaia di gradini tra la strada e il mare, con pietra rovente, poca ombra e spiagge che di solito vietano i cani. Il vero punto forte per i proprietari di cani non è il paese stesso, ma i sentieri costieri sopra, in particolare il Sentiero degli Dei. Vieni nei mesi più freschi, appoggiati ai bus e ai traghetti, e porta acqua ovunque.",
       "faqsNl": [
         {
           "q": "Is Positano een goede bestemming voor honden?",
@@ -1105,6 +1227,20 @@
         {
           "q": "Wanneer kan ik het beste Positano met een hond bezoeken?",
           "a": "Voorjaar (april tot juni) en herfst (september tot oktober). De zomer brengt felle hitte op de stenen, volle bussen en de strengste strandverboden, allemaal zwaar voor honden."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Positano è una buona destinazione per cani?",
+          "a": "È bellissima ma impegnativa. Il paese è fatto di centinaia di gradini con poca ombra, e la maggior parte delle spiagge vieta i cani. Il vero punto forte per i proprietari di cani è la camminata costiera del Sentiero degli Dei, quindi vieni per camminare sopra la costa più che per la spiaggia."
+        },
+        {
+          "q": "Quanto è impegnativo il paese per un cane?",
+          "a": "Molto impegnativo. Positano scende a scale verso il mare, quindi un cane affronta salite lunghe e calde. Usa i bus, la navetta interna e i traghetti per evitare le scale, e preparati a portare in braccio un cane piccolo nei tratti più ripidi e affollati."
+        },
+        {
+          "q": "Qual è il periodo migliore per visitare Positano con un cane?",
+          "a": "Primavera (da aprile a giugno) e autunno (da settembre a ottobre). L'estate porta caldo intenso sulla pietra, bus pieni e i divieti più severi sulle spiagge, tutto impegnativo per i cani."
         }
       ]
     },
@@ -1140,12 +1276,16 @@
           "tipPt": "Comece em Bomerano e termine em Nocelle para caminhar em descida; a descida a Positano são 1500 degraus",
           "descriptionDe": "Der legendäre Klippenpfad von Bomerano nach Nocelle, rund 7,8 km leichter, aber exponierter Weg mit atemberaubendem Meerblick. Leinengeführte Hunde sind willkommen, und dies ist das ehrliche Highlight der Gegend für sie; nehmen Sie reichlich Wasser mit, da Schatten und Brunnen begrenzt sind.",
           "descriptionNl": "Het legendarische klifpad van Bomerano naar Nocelle, ongeveer 7,8 km makkelijk maar blootgesteld pad met verbluffend zeezicht. Aangelijnde honden zijn welkom en dit is het eerlijke hoogtepunt van de omgeving voor hen; neem ruim water mee, want schaduw en fonteinen zijn beperkt.",
+          "descriptionIt": "Il leggendario sentiero sulla scogliera da Bomerano a Nocelle, circa 7,8 km di percorso facile ma esposto con viste sul mare mozzafiato. I cani al guinzaglio sono benvenuti e questo è il vero punto forte della zona per loro; porta molta acqua, perché ombra e fontane sono limitate.",
           "dogPolicyDe": "Leinengeführte Hunde willkommen; halten Sie sie an den exponierten Klippenkanten nah bei sich",
           "dogPolicyNl": "Aangelijnde honden welkom; houd ze dicht bij je aan de blootgestelde klifranden",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti; tienili vicino a te sui bordi esposti della scogliera",
           "admissionFeeDe": "Kostenlos, keine Reservierung erforderlich",
           "admissionFeeNl": "Gratis, geen reservering nodig",
+          "admissionFeeIt": "Gratuito, nessuna prenotazione necessaria",
           "tipDe": "Beginnen Sie in Bomerano und enden Sie in Nocelle, um bergab zu wandern; der Abstieg nach Positano hat 1.500 Stufen",
-          "tipNl": "Begin in Bomerano en eindig in Nocelle om bergaf te wandelen; de afdaling naar Positano telt 1.500 treden"
+          "tipNl": "Begin in Bomerano en eindig in Nocelle om bergaf te wandelen; de afdaling naar Positano telt 1.500 treden",
+          "tipIt": "Inizia a Bomerano e finisci a Nocelle per camminare in discesa; la discesa verso Positano conta 1.500 gradini"
         },
         {
           "name": "Via Positanesi d'America",
@@ -1171,12 +1311,16 @@
           "tipPt": "Percorra-o de manhã cedo pela luz e para se antecipar aos excursionistas",
           "descriptionDe": "Der flache, aussichtsreiche Weg entlang der Klippe zwischen Spiaggia Grande und Fornillo, vorbei an einem mittelalterlichen Turm mit ständigem Meerblick. Er ist der einfachste und schönste kurze Spaziergang in Positano für einen leinengeführten Hund, ganz ohne Treppen.",
           "descriptionNl": "Het vlakke, panoramische pad langs de klif tussen Spiaggia Grande en Fornillo, langs een middeleeuwse toren met voortdurend zeezicht. Het is de makkelijkste en mooiste korte wandeling in Positano voor een aangelijnde hond, zonder trappen.",
+          "descriptionIt": "Il sentiero in piano e panoramico lungo la scogliera tra Spiaggia Grande e Fornillo, che passa per una torre medievale con vista sul mare per tutto il percorso. È la camminata breve più facile e bella di Positano per un cane al guinzaglio, senza scale.",
           "dogPolicyDe": "Leinengeführte Hunde auf dem Weg willkommen",
           "dogPolicyNl": "Aangelijnde honden welkom op het pad",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti sul sentiero",
           "admissionFeeDe": "Kostenlos",
           "admissionFeeNl": "Gratis",
+          "admissionFeeIt": "Gratuito",
           "tipDe": "Gehen Sie ihn am frühen Morgen wegen des Lichts und um den Tagesausflüglern zuvorzukommen",
-          "tipNl": "Loop het vroeg in de ochtend voor het licht en om de dagjesmensen voor te zijn"
+          "tipNl": "Loop het vroeg in de ochtend voor het licht en om de dagjesmensen voor te zijn",
+          "tipIt": "Camminaci la mattina presto per la luce e per anticipare i gruppi di gitanti"
         },
         {
           "name": "Piazza & Santa Maria Assunta",
@@ -1202,12 +1346,16 @@
           "tipPt": "Fica mesmo acima da praia, por isso combine-a com o passeio plano da marginal em vez de uma grande subida",
           "descriptionDe": "Der kleine Platz und die mit Majolika gedeckte Kuppelkirche Santa Maria Assunta sind das Postkartenherz von Positano, direkt oberhalb der Spiaggia Grande. Leinengeführte Hunde können den Platz und die umliegenden Gassen genießen, wenngleich der Kircheninnenraum tabu ist.",
           "descriptionNl": "Het kleine plein en de met majolica bedekte koepelkerk Santa Maria Assunta zijn het ansichtkaarthart van Positano, net boven de Spiaggia Grande. Aangelijnde honden kunnen genieten van het plein en de omliggende steegjes, al is het kerkinterieur verboden terrein.",
+          "descriptionIt": "La piccola piazza e la chiesa a cupola maiolicata di Santa Maria Assunta sono il cuore da cartolina di Positano, proprio sopra la Spiaggia Grande. I cani al guinzaglio possono godersi la piazza e i vicoli circostanti, anche se l'interno della chiesa è vietato.",
           "dogPolicyDe": "Leinengeführte Hunde auf dem Platz und in den Gassen; nicht in der Kirche",
           "dogPolicyNl": "Aangelijnde honden op het plein en in de steegjes; niet in de kerk",
+          "dogPolicyIt": "Cani al guinzaglio in piazza e nei vicoli; non in chiesa",
           "admissionFeeDe": "Kostenlos (Platz)",
           "admissionFeeNl": "Gratis (plein)",
+          "admissionFeeIt": "Gratuito (piazza)",
           "tipDe": "Er liegt direkt oberhalb des Strandes, kombinieren Sie ihn also mit dem flachen Uferweg statt einem großen Aufstieg",
-          "tipNl": "Het ligt vlak boven het strand, combineer het dus met de vlakke kustwandeling in plaats van een grote klim"
+          "tipNl": "Het ligt vlak boven het strand, combineer het dus met de vlakke kustwandeling in plaats van een grote klim",
+          "tipIt": "Si trova proprio sopra la spiaggia, quindi abbinalo alla camminata costiera in piano invece di una grande salita"
         }
       ],
       "tipsEn": [
@@ -1305,7 +1453,9 @@
         }
       ],
       "titleNl": "Huisdiervriendelijke bezienswaardigheden in Positano",
+      "titleIt": "Attrazioni pet friendly a Positano",
       "introNl": "De hondvriendelijke kant van Positano speelt zich buiten af en grotendeels boven het dorp: de kustpaden, het vlakke kustpad en het plein rond de beroemde koepelkerk. Kerk- en museuminterieurs laten geen honden toe, maar het beste van de Amalfikust voor een hond is toch het wandelen. Het duidelijke hoogtepunt is de Götterweg, een van de grote hondenwandelingen aan de lijn in Italië.",
+      "introIt": "Il lato pet friendly di Positano si svolge all'aperto e in gran parte sopra il paese: i sentieri costieri, il sentiero costiero in piano e la piazza intorno alla famosa chiesa a cupola. Gli interni di chiese e musei non ammettono cani, ma il meglio della Costiera Amalfitana per un cane resta comunque camminare. Il punto forte evidente è il Sentiero degli Dei, una delle grandi camminate per cani al guinzaglio in Italia.",
       "faqsNl": [
         {
           "q": "Kan ik met mijn hond de Götterweg wandelen?",
@@ -1318,6 +1468,20 @@
         {
           "q": "Hoe doe ik de Götterweg met een hond en vermijd ik de trappen?",
           "a": "Neem de bus naar Bomerano en loop naar Nocelle, neem dan de bus naar beneden naar Positano in plaats van de afdaling van 1.500 treden. Zo wandelt je hond het schilderachtige pad zonder de brute trap."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso camminare sul Sentiero degli Dei con il mio cane?",
+          "a": "Sì, al guinzaglio. È l'esperienza per cani per eccellenza vicino a Positano, un sentiero sulla scogliera facile ma esposto da Bomerano a Nocelle. Tieni il tuo cane vicino a te sui bordi non protetti e porta molta acqua."
+        },
+        {
+          "q": "Ci sono attrazioni pet friendly a Positano stessa?",
+          "a": "All'aperto sì: la camminata costiera in piano Via Positanesi d'America e la piazza centrale intorno a Santa Maria Assunta. Gli interni di chiese e musei non ammettono cani."
+        },
+        {
+          "q": "Come faccio il Sentiero degli Dei con un cane evitando le scale?",
+          "a": "Prendi il bus per Bomerano e cammina fino a Nocelle, poi prendi il bus in discesa verso Positano invece della scalinata di 1.500 gradini. Così il tuo cane percorre il sentiero pittoresco senza la scalinata più dura."
         }
       ]
     },
@@ -1349,10 +1513,13 @@
           "servicesPt": "Alojamento, creche, passeios, visitas ao domicílio",
           "descriptionDe": "Eine weit verbreitete Plattform, die Halter mit geprüften örtlichen Hundebetreuern und Gassigehern verbindet, einschließlich Betreuern rund um Sorrent und die Amalfiküste. Sie durchsuchen Profile, Bewertungen und Preise und buchen direkt.",
           "descriptionNl": "Een veelgebruikt platform dat eigenaren verbindt met gecontroleerde lokale hondenoppassers en -uitlaters, waaronder verzorgers rond Sorrento en de Amalfikust. Je bekijkt profielen, beoordelingen en tarieven en boekt rechtstreeks.",
+          "descriptionIt": "Una piattaforma molto usata che mette in contatto i proprietari con dog sitter e dog walker locali verificati, compresi operatori attorno a Sorrento e alla Costiera Amalfitana. Puoi vedere profili, recensioni e tariffe e prenotare direttamente.",
           "petPolicyDe": "Hundeunterbringung, Tagesbetreuung und Gassidienste über örtliche Betreuer",
           "petPolicyNl": "Hondenoppas, dagopvang en uitlaatservice via lokale oppassers",
+          "petPolicyIt": "Pensione, asilo diurno e passeggiate tramite sitter locali",
           "servicesDe": "Unterbringung, Tagesbetreuung, Gassidienste, Kurzbesuche",
-          "servicesNl": "Oppas, dagopvang, uitlaatservice, kortebezoekjes"
+          "servicesNl": "Oppas, dagopvang, uitlaatservice, kortebezoekjes",
+          "servicesIt": "Pensione, asilo diurno, passeggiate, visite brevi"
         },
         {
           "name": "Holidog",
@@ -1374,10 +1541,13 @@
           "servicesPt": "Alojamento, visitas ao domicílio, passeios",
           "descriptionDe": "Ein europaweiter Tierbetreuungsdienst mit Betreuern und Hundepensionen in ganz Italien, einschließlich der Amalfiküste und der Gegend um Neapel. Nützlich, um eine Betreuung zu finden, wenn es in Positano selbst keine gibt.",
           "descriptionNl": "Een pan-Europese huisdierenzorgdienst met oppassers en hondenpensions in heel Italië, inclusief de Amalfikust en de omgeving van Napels. Nuttig om een verzorger te vinden wanneer Positano zelf er geen heeft.",
+          "descriptionIt": "Un servizio pan-europeo per la cura degli animali con sitter e pensioni per cani in tutta Italia, Costiera Amalfitana e area di Napoli comprese. Utile per trovare un operatore quando Positano stessa non ne ha uno.",
           "petPolicyDe": "Unterbringung und Betreuung über geprüfte Mitglieder",
           "petPolicyNl": "Verblijf en oppas via geverifieerde leden",
+          "petPolicyIt": "Pensione e sitting tramite membri verificati",
           "servicesDe": "Unterbringung, Hausbesuche, Gassidienste",
-          "servicesNl": "Verblijf, huisbezoeken, uitlaatservice"
+          "servicesNl": "Verblijf, huisbezoeken, uitlaatservice",
+          "servicesIt": "Pensione, visite a domicilio, passeggiate"
         },
         {
           "name": "Your hotel or villa host",
@@ -1399,10 +1569,13 @@
           "servicesPt": "Encaminhamento para sitters de confiança",
           "descriptionDe": "In einem kleinen, gut vernetzten Ort wie Positano ist der Gastgeber Ihres Hotels oder Ihrer Villa oft der schnellste Weg zu einer zuverlässigen örtlichen Hundebetreuung. Viele arbeiten bereits mit einem vertrauten Nachbarn oder einer nahegelegenen Betreuung an der Küste zusammen.",
           "descriptionNl": "In een klein, goed verbonden dorp als Positano is de gastheer van je hotel of villa vaak de snelste weg naar een betrouwbare lokale hondenoppas. Velen werken al samen met een vertrouwde buur of nabijgelegen verzorger langs de kust.",
+          "descriptionIt": "In un paese piccolo e ben connesso come Positano, il gestore del tuo hotel o della tua villa è spesso la via più veloce verso un dog sitter locale affidabile. Molti già collaborano con un vicino di fiducia o un operatore vicino lungo la costa.",
           "petPolicyDe": "Fragen Sie bei Ankunft nach einer Empfehlung für eine örtliche Betreuung",
           "petPolicyNl": "Vraag bij aankomst naar een aanbeveling voor een lokale oppas",
+          "petPolicyIt": "Chiedi all'arrivo una raccomandazione per un sitter locale",
           "servicesDe": "Örtliche Empfehlungen für vertrauenswürdige Betreuer",
-          "servicesNl": "Lokale doorverwijzingen naar vertrouwde oppassers"
+          "servicesNl": "Lokale doorverwijzingen naar vertrouwde oppassers",
+          "servicesIt": "Segnalazioni locali a sitter di fiducia"
         }
       ],
       "tipsEn": [
@@ -1500,7 +1673,9 @@
         }
       ],
       "titleNl": "Hondenoppas & huisdierenzorg in Positano",
+      "titleIt": "Dog sitting e cura dei cani a Positano",
       "introNl": "Positano is een klein resortdorp zonder eigen hondenpensions, dus bezoekers die een oppas nodig hebben, vertrouwen op de landelijke boekingsplatforms, die geverifieerde verzorgers rond de Amalfikust en Sorrento listen. Gezien hoe populair de kust is, boek ruim van tevoren voor de zomer. De gastheer van je hotel of villa is vaak het beste eerste aanspreekpunt, want velen kunnen je naar een vertrouwde lokale oppas verwijzen.",
+      "introIt": "Positano è un piccolo paese resort senza pensioni per cani proprie, quindi i visitatori che hanno bisogno di un sitter si affidano alle piattaforme di prenotazione nazionali, che elencano operatori verificati attorno alla Costiera Amalfitana e a Sorrento. Data la popolarità della costa, prenota con largo anticipo per l'estate. Il gestore del tuo hotel o della tua villa è spesso il primo punto di contatto migliore, perché molti possono indirizzarti verso un sitter locale di fiducia.",
       "faqsNl": [
         {
           "q": "Is er een hondenpension in Positano?",
@@ -1513,6 +1688,20 @@
         {
           "q": "Moet ik huisdierenzorg van tevoren boeken?",
           "a": "Ja, vooral in de zomer. De Amalfikust is uiterst populair, regel de zorg dus zodra je reisdata vaststaan."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è una pensione per cani a Positano?",
+          "a": "Non ci sono pensioni proprie attive a Positano. Usa una piattaforma nazionale come Pawshake o Holidog per trovare sitter verificati attorno a Sorrento e alla Costiera Amalfitana, e prenota presto per l'estate."
+        },
+        {
+          "q": "Come trovo un sitter locale affidabile?",
+          "a": "Inizia dal gestore del tuo hotel o della tua villa, che spesso conosce un operatore locale affidabile, e poi controlla i profili e le recensioni sulle piattaforme. Su una costa affollata, una raccomandazione personale vale molto."
+        },
+        {
+          "q": "Devo prenotare in anticipo la cura del mio cane?",
+          "a": "Sì, soprattutto d'estate. La Costiera Amalfitana è estremamente popolare, quindi organizza la cura appena hai le date del tuo viaggio."
         }
       ]
     }

@@ -40,12 +40,16 @@
           "tipPt": "Chegue às 19:30 para conseguir lugar lá fora, pelas 20:30 a viela enche-se com a multidão do pós-aperitivo e as mesas exteriores ficam ocupadas.",
           "descriptionDe": "Eine historische Osteria in Padua, einen Schritt von der Piazza delle Erbe entfernt, seit den 1920er-Jahren bei Universitätsprofessoren und Einheimischen beliebt. Das holzgetäfelte Interieur ist einladend, und die kleinen Außentische entlang der Via dei Soncin nehmen gerne angeleinte Hunde auf. Die Speisekarte ist kurz, täglich handgeschrieben und auf Paduaner Klassiker ausgerichtet: Bigoli al ragù d'anatra, Baccalà mantecato und saisonales Gemüse vom Markt in Padua.",
           "descriptionNl": "Een historische osteria in Padua, op een steenworp van de Piazza delle Erbe, sinds de jaren 20 geliefd bij universiteitsprofessoren en locals. Het houten interieur is uitnodigend, en de kleine buitentafels langs de Via dei Soncin verwelkomen graag aangelijnde honden. De kaart is kort, dagelijks met de hand geschreven en gericht op Paduaanse klassiekers: bigoli al ragù d'anatra, baccalà mantecato en seizoensgroenten van de markt van Padua.",
+          "descriptionIt": "Un'osteria storica di Padova, a due passi da Piazza delle Erbe, amata dai professori universitari e dai locali fin dagli anni '20. L'interno in legno è accogliente, e i piccoli tavoli esterni lungo Via dei Soncin accolgono volentieri cani al guinzaglio. Il menù è breve, scritto a mano ogni giorno e punta sui classici padovani: bigoli al ragù d'anatra, baccalà mantecato e verdure di stagione del mercato di Padova.",
           "petPolicyDe": "Hunde an den Außentischen willkommen",
           "petPolicyNl": "Honden welkom aan de buitentafels",
+          "petPolicyIt": "Cani benvenuti ai tavoli esterni",
           "mustTryDe": "Bigoli al ragù d'anatra, Baccalà mantecato",
           "mustTryNl": "Bigoli al ragù d'anatra, baccalà mantecato",
+          "mustTryIt": "Bigoli al ragù d'anatra, baccalà mantecato",
           "tipDe": "Kommen Sie um 19:30 Uhr für einen Außenplatz, ab 20:30 Uhr füllt sich die Gasse mit dem Aperitivo-Publikum und die Außentische sind belegt.",
-          "tipNl": "Kom om 19:30 uur voor een buitenplek, vanaf 20:30 uur stroomt het steegje vol met het aperitivo-publiek en zijn de buitentafels bezet."
+          "tipNl": "Kom om 19:30 uur voor een buitenplek, vanaf 20:30 uur stroomt het steegje vol met het aperitivo-publiek en zijn de buitentafels bezet.",
+          "tipIt": "Vieni alle 19:30 per un posto fuori, dalle 20:30 il vicolo si riempie di gente per l'aperitivo e i tavoli esterni sono occupati."
         },
         {
           "name": "Bar Nazionale",
@@ -74,12 +78,16 @@
           "tipPt": "O aperitivo decorre das 18:00 às 21:00, após o que a esplanada passa ao serviço de jantar. Para uma bebida tranquila com o cão, venha às 17:30, antes da azáfama.",
           "descriptionDe": "Eine historische Café-Bar an der fotogensten Seite der Piazza delle Erbe, mit weitläufigen Außentischen, die sich zur Aperitivo-Stunde (18:00-21:00 Uhr) füllen. Hunde an der Leine sind an den Terrassentischen willkommen, und das Personal bringt routinemäßig Wassernäpfe. Der hauseigene Spritz (Aperol oder Cynar) kommt mit Cicchetti - kleinen venezianischen Häppchen aus gepökeltem Fleisch, Polenta und eingelegtem Gemüse - für ein klassisches Paduaner Ritual am frühen Abend.",
           "descriptionNl": "Een historische café-bar aan de meest fotogenieke kant van de Piazza delle Erbe, met ruime buitentafels die vollopen tijdens het aperitivo-uur (18:00-21:00 uur). Honden aan de lijn zijn welkom aan de terrastafels, en het personeel brengt standaard waterbakjes. De huisspritz (Aperol of Cynar) komt met cicchetti, kleine Venetiaanse hapjes van gezouten vlees, polenta en ingemaakte groenten, voor een klassiek Paduaans ritueel aan het begin van de avond.",
+          "descriptionIt": "Uno storico caffè-bar sul lato più fotogenico di Piazza delle Erbe, con ampi tavoli esterni che si riempiono durante l'ora dell'aperitivo (18:00-21:00). I cani al guinzaglio sono benvenuti ai tavoli in terrazza, e il personale porta sempre ciotole d'acqua. Lo spritz della casa (Aperol o Cynar) arriva con i cicchetti, piccoli stuzzichini veneziani a base di salumi, polenta e verdure sott'aceto, per un classico rituale padovano di inizio serata.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen, Wassernäpfe werden angeboten",
           "petPolicyNl": "Honden welkom op het terras, waterbakjes worden aangeboden",
+          "petPolicyIt": "Cani benvenuti in terrazza, ciotole d'acqua offerte",
           "mustTryDe": "Aperol Spritz mit Cicchetti-Platte",
           "mustTryNl": "Aperol Spritz met een cicchetti-plankje",
+          "mustTryIt": "Aperol Spritz con un tagliere di cicchetti",
           "tipDe": "Der Aperitivo läuft von 18:00 bis 21:00 Uhr, danach wechselt die Terrasse zum Abendessen. Für einen ruhigen hundefreundlichen Drink kommen Sie um 17:30 Uhr vor dem Ansturm.",
-          "tipNl": "Het aperitivo loopt van 18:00 tot 21:00 uur, daarna schakelt het terras over op avondeten. Voor een rustig hondvriendelijk drankje kom je om 17:30 uur, voor de drukte."
+          "tipNl": "Het aperitivo loopt van 18:00 tot 21:00 uur, daarna schakelt het terras over op avondeten. Voor een rustig hondvriendelijk drankje kom je om 17:30 uur, voor de drukte.",
+          "tipIt": "L'aperitivo va dalle 18:00 alle 21:00, dopo la terrazza passa alla cena. Per un drink tranquillo con il cane vieni alle 17:30, prima della folla."
         },
         {
           "name": "Enoteca dei Tadi",
@@ -108,22 +116,29 @@
           "tipPt": "Reserve com antecedência aos fins de semana, o espaço é pequeno (40 lugares) e popular entre os docentes universitários, que muitas vezes levam os seus cães.",
           "descriptionDe": "Eine entspannte Weinbar und Restaurant in einer ruhigen Gasse nahe der Piazza Eremitani, spezialisiert auf Weine aus Veneto und Friaul im Glas neben großzügigen Platten mit gepökeltem Fleisch, Käse und täglich frisch gebackener Lasagne. Hunde an der Leine sind auf der kleinen Terrasse und drinnen im ziegelgewölbten Speiseraum willkommen, wenn dort Plätze frei sind. Ein Favorit bei Einheimischen, die ein entspanntes Abendessen abseits des Trubels der Hauptplätze suchen.",
           "descriptionNl": "Een ontspannen wijnbar en restaurant in een rustig steegje bij de Piazza Eremitani, gespecialiseerd in wijnen uit Veneto en Friuli per glas naast royale plankjes gezouten vlees, kaas en dagelijks vers gebakken lasagne. Honden aan de lijn zijn welkom op het kleine terras en binnen in de bakstenen gewelfde eetzaal, als daar plek is. Een favoriet bij locals die een ontspannen avondeten zoeken weg van de drukte van de hoofdpleinen.",
+          "descriptionIt": "Un'enoteca e ristorante rilassato in un vicolo tranquillo vicino a Piazza Eremitani, specializzato in vini di Veneto e Friuli al calice accanto a generosi taglieri di salumi, formaggi e lasagne fresche fatte ogni giorno. I cani al guinzaglio sono benvenuti nella piccola terrazza e all'interno nella sala con volte in mattoni, se c'è posto. Un preferito dai locali che cercano una cena rilassata lontano dal trambusto delle piazze principali.",
           "petPolicyDe": "Hunde auf der Terrasse und drinnen willkommen, wenn Plätze verfügbar sind",
           "petPolicyNl": "Honden welkom op het terras en binnen, als er plek is",
+          "petPolicyIt": "Cani benvenuti in terrazza e all'interno, se c'è posto",
           "mustTryDe": "Lasagne della casa, Glas Soave Classico",
           "mustTryNl": "Lasagne della casa, glas Soave Classico",
+          "mustTryIt": "Lasagne della casa, calice di Soave Classico",
           "tipDe": "Reservieren Sie am Wochenende im Voraus - der Ort ist klein (40 Plätze) und beliebt bei Universitätsangehörigen, die oft ihre Hunde mitbringen.",
-          "tipNl": "Reserveer in het weekend van tevoren, de zaak is klein (40 plekken) en geliefd bij universiteitsmensen die vaak hun hond meenemen."
+          "tipNl": "Reserveer in het weekend van tevoren, de zaak is klein (40 plekken) en geliefd bij universiteitsmensen die vaak hun hond meenemen.",
+          "tipIt": "Prenota in anticipo per il weekend, il locale è piccolo (40 posti) ed è amato dagli universitari che spesso portano il cane."
         }
       ],
       "titlePt": "Restaurantes que aceitam cães em Pádua",
       "introPt": "Pádua segue a abordagem italiana acolhedora para com os cães à mesa, com a maioria dos restaurantes com esplanada e das trattorias a aceitar cães com trela e bem comportados sem complicações. A vibrante cultura de aperitivo da cidade gira em torno das três praças centrais, a Piazza delle Erbe, a Piazza della Frutta e a Piazza dei Signori, onde estudantes e locais se juntam todas as noites e onde os donos de cães são uma presença comum. A cozinha local do Vêneto (massa bigoli, baccalà mantecato, vinhos Soave e Prosecco) saboreia-se melhor ao ar livre. Peça uma mesa na esplanada e confirme 'cane ammesso?' ao reservar.",
       "titleDe": "Hundefreundliche Restaurants in Padua",
       "titleNl": "Hondvriendelijke restaurants in Padua",
+      "titleIt": "Ristoranti che accettano cani a Padova",
       "introDe": "Padua folgt dem einladenden italienischen Umgang mit Hunden beim Essen gehen: Die meisten Terrassenrestaurants und Trattorien nehmen wohlerzogene angeleinte Hunde ohne Umstände auf. Die lebendige Aperitivo-Kultur der Stadt dreht sich um die drei zentralen Plätze - Piazza delle Erbe, Piazza della Frutta und Piazza dei Signori -, wo sich Studierende und Einheimische jeden Abend treffen und Hundehalter ein vertrauter Anblick sind. Die lokale Küche des Veneto (Bigoli-Pasta, Baccalà mantecato, Soave- und Prosecco-Weine) genießt man am besten im Freien. Fragen Sie bei der Reservierung nach einem Terrassentisch und vergewissern Sie sich mit 'cane ammesso?'.",
       "introNl": "Padua volgt de gastvrije Italiaanse omgang met honden bij het uit eten gaan: de meeste terrasrestaurants en trattoria's laten brave aangelijnde honden zonder gedoe toe. De levendige aperitivo-cultuur van de stad draait om de drie centrale pleinen, Piazza delle Erbe, Piazza della Frutta en Piazza dei Signori, waar studenten en locals elke avond samenkomen en hondenbaasjes een vertrouwd gezicht zijn. De lokale keuken van Veneto (bigoli-pasta, baccalà mantecato, Soave- en Prosecco-wijnen) geniet je het best buiten. Vraag bij het reserveren om een terrastafel en check even met 'cane ammesso?'.",
+      "introIt": "Padova segue l'approccio italiano accogliente verso i cani a tavola: la maggior parte dei ristoranti con terrazza e delle trattorie ammette senza problemi cani educati al guinzaglio. La vivace cultura dell'aperitivo della città ruota attorno alle tre piazze centrali, Piazza delle Erbe, Piazza della Frutta e Piazza dei Signori, dove studenti e locali si ritrovano ogni sera e i padroni di cani sono una presenza familiare. La cucina locale veneta (pasta bigoli, baccalà mantecato, vini Soave e Prosecco) si gusta meglio all'aperto. Chiedi un tavolo in terrazza al momento della prenotazione e verifica con un 'cane ammesso?'.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks & Green Spaces in Padua",
@@ -155,10 +170,13 @@
           "tipPt": "O sábado de manhã traz o mercado de antiguidades e grandes multidões; venha às 07:30 ou depois das 20:00 no verão para um passeio mais tranquilo em redor do canal.",
           "descriptionDe": "Mit 88.620 m² ist der Prato della Valle einer der größten städtischen Plätze Europas - eine elliptische Grüninsel, umgeben von einem Kanal, gesäumt von 78 Statuen. Angeleinte Hunde sind überall willkommen, und die Umrundung (etwa 1,2 km) ist ein klassischer Paduaner Hundespaziergang, den Einheimische morgens und abends nutzen. Der zentrale Rasen (Isola Memmia) liegt im Schatten von Bäumen und eignet sich ideal für eine Pause, während die umliegenden Kanalwege durchgehend flache Wege für ältere Hunde bieten.",
           "descriptionNl": "Met 88.620 m² is de Prato della Valle een van de grootste stadspleinen van Europa, een ovaal groen eiland omringd door een gracht, omzoomd door 78 standbeelden. Aangelijnde honden zijn overal welkom, en de ronde (ongeveer 1,2 km) is een klassieke Paduaanse hondenwandeling die locals 's ochtends en 's avonds gebruiken. Het centrale grasveld (Isola Memmia) ligt in de schaduw van bomen en is ideaal voor een pauze, terwijl de omliggende grachtpaden doorlopend vlakke routes bieden voor oudere honden.",
+          "descriptionIt": "Con 88.620 m², Prato della Valle è una delle piazze più grandi d'Europa, un'isola verde ovale circondata da un canale, orlata da 78 statue. I cani al guinzaglio sono benvenuti ovunque, e il giro (circa 1,2 km) è una classica passeggiata per cani padovana usata dai locali mattina e sera. Il prato centrale (Isola Memmia) è all'ombra degli alberi ed è ideale per una pausa, mentre i sentieri lungo il canale offrono percorsi continui e pianeggianti adatti a cani anziani.",
           "petPolicyDe": "Angeleinte Hunde überall willkommen; Aufräumpflicht besteht",
           "petPolicyNl": "Aangelijnde honden overal welkom; opruimplicht van kracht",
+          "petPolicyIt": "Cani al guinzaglio benvenuti ovunque; obbligo di raccogliere gli escrementi",
           "tipDe": "Samstagvormittags bringt der Antiquitätenmarkt große Menschenmengen mit sich; kommen Sie im Sommer um 07:30 Uhr oder nach 20:00 Uhr für einen ruhigeren Spaziergang um die Kanalschleife.",
-          "tipNl": "Op zaterdagochtend brengt de antiekmarkt grote drukte mee; kom in de zomer om 07:30 uur of na 20:00 uur voor een rustigere wandeling rond de gracht."
+          "tipNl": "Op zaterdagochtend brengt de antiekmarkt grote drukte mee; kom in de zomer om 07:30 uur of na 20:00 uur voor een rustigere wandeling rond de gracht.",
+          "tipIt": "Il sabato mattina il mercatino dell'antiquariato porta molta folla; d'estate vieni alle 07:30 o dopo le 20:00 per una passeggiata più tranquilla attorno al canale."
         },
         {
           "name": "Parco Iris",
@@ -182,10 +200,13 @@
           "tipPt": "Melhor entre as 08:00 e as 10:00 para socializar com os habituais locais; ao meio-dia no verão o relvado aberto não tem sombra e pode ficar muito quente.",
           "descriptionDe": "Eine von Paduas größten offiziellen Freilaufflächen für Hunde (area cani), gelegen innerhalb eines größeren Stadtteilparks im südlichen Viertel Mandria. Der eingezäunte Bereich bietet reichlich offene Rasenfläche zur Sozialisierung, Bänke, schattige Bäume und Wasserzugang und ist bei lokalen Hundehaltern jeden Morgen beliebt. Der weitere Parco Iris drumherum ist Leinenpflicht, bietet aber lange flache Wege, die sich für ältere Hunde eignen.",
           "descriptionNl": "Een van Padua's grootste officiële losloopgebieden voor honden (area cani), gelegen binnen een groter wijkpark in het zuidelijke stadsdeel Mandria. Het omheinde gebied biedt volop open gras om te socialiseren, bankjes, schaduwrijke bomen en watertoegang, en is bij lokale hondenbaasjes elke ochtend populair. Het omliggende Parco Iris heeft een aanlijnplicht, maar biedt lange vlakke paden die geschikt zijn voor oudere honden.",
+          "descriptionIt": "Una delle più grandi aree cani ufficiali di Padova, situata all'interno di un parco di quartiere più ampio nel quartiere meridionale di Mandria. L'area recintata offre ampio prato aperto per socializzare, panchine, alberi ombreggiati e accesso all'acqua, ed è popolare ogni mattina tra i padroni di cani locali. Il circostante Parco Iris ha l'obbligo di guinzaglio, ma offre lunghi sentieri pianeggianti adatti ai cani anziani.",
           "petPolicyDe": "Eingezäunte Freilauffläche innerhalb eines größeren Leinenpflicht-Parks",
           "petPolicyNl": "Omheind losloopgebied binnen een groter aanlijnplicht-park",
+          "petPolicyIt": "Area cani recintata all'interno di un parco più grande con obbligo di guinzaglio",
           "tipDe": "Am besten zwischen 08:00 und 10:00 Uhr zur Sozialisierung mit den lokalen Stammgästen; mittags im Sommer fehlt dem offenen Rasen Schatten, und es kann sehr heiß werden.",
-          "tipNl": "Het best tussen 08:00 en 10:00 uur om te socialiseren met de lokale vaste bezoekers; rond het middaguur ontbreekt schaduw op het open grasveld in de zomer en kan het erg heet worden."
+          "tipNl": "Het best tussen 08:00 en 10:00 uur om te socialiseren met de lokale vaste bezoekers; rond het middaguur ontbreekt schaduw op het open grasveld in de zomer en kan het erg heet worden.",
+          "tipIt": "Meglio tra le 08:00 e le 10:00 per socializzare con i frequentatori abituali locali; verso mezzogiorno manca l'ombra sul prato aperto d'estate e può diventare molto caldo."
         },
         {
           "name": "Parco Treves de' Bonfili",
@@ -209,20 +230,26 @@
           "tipPt": "Combine com uma visita à zona dos Eremitani: o parque é o passeio com trela perfeito antes ou depois de uma visita ao museu (cães não permitidos dentro dos museus).",
           "descriptionDe": "Ein historischer Landschaftsgarten im englischen Stil aus dem 19. Jahrhundert, entworfen von Giuseppe Jappelli, hinter den Eremitani-Stadtmuseen und einen kurzen Spaziergang vom Bahnhof entfernt. Angeleinte Hunde sind auf den geschwungenen Wegen, an den Zierteichen und den romantischen Follies überall willkommen. Ein ruhiger, mittellanger Spaziergang (etwa 30 Minuten) in einer wunderschön gepflegten historischen Kulisse.",
           "descriptionNl": "Een historische landschapstuin in Engelse stijl uit de 19e eeuw, ontworpen door Giuseppe Jappelli, achter de Eremitani-stadsmusea en een korte wandeling van het station. Aangelijnde honden zijn overal welkom op de kronkelende paden, bij de siervijvers en de romantische follies. Een rustige wandeling van gemiddelde lengte (ongeveer 30 minuten) in een prachtig onderhouden historisch decor.",
+          "descriptionIt": "Un giardino paesaggistico storico in stile inglese del XIX secolo, progettato da Giuseppe Jappelli, dietro i Musei Civici degli Eremitani e a pochi passi dalla stazione. I cani al guinzaglio sono benvenuti ovunque sui sentieri tortuosi, vicino ai laghetti ornamentali e alle romantiche follie. Una tranquilla passeggiata di media lunghezza (circa 30 minuti) in una splendida cornice storica ben curata.",
           "petPolicyDe": "Angeleinte Hunde willkommen, Aufräumpflicht besteht",
           "petPolicyNl": "Aangelijnde honden welkom, opruimplicht van kracht",
+          "petPolicyIt": "Cani al guinzaglio benvenuti, obbligo di raccogliere gli escrementi",
           "tipDe": "Kombinieren Sie ihn mit einem Besuch im Eremitani-Viertel: Der Park eignet sich perfekt für einen angeleinten Spaziergang vor oder nach einem Museumsbesuch (Hunde sind in den Museen nicht erlaubt).",
-          "tipNl": "Combineer het met een bezoek aan de Eremitani-wijk: het park is perfect voor een aangelijnde wandeling voor of na een museumbezoek (honden zijn niet toegestaan in de musea)."
+          "tipNl": "Combineer het met een bezoek aan de Eremitani-wijk: het park is perfect voor een aangelijnde wandeling voor of na een museumbezoek (honden zijn niet toegestaan in de musea).",
+          "tipIt": "Combina con una visita al quartiere degli Eremitani: il parco è perfetto per una passeggiata al guinzaglio prima o dopo la visita a un museo (i cani non sono ammessi nei musei)."
         }
       ],
       "titlePt": "Parques e espaços verdes que aceitam cães em Pádua",
       "introPt": "Pádua tem uma forte rede de zonas oficiais sem trela para cães (aree cani) espalhadas pelos seus bairros, além do icónico Prato della Valle, com 88 620 m² uma das maiores praças da Europa, perfeito para longos passeios com trela em redor do seu canal elíptico. Os parques da cidade refletem o seu carácter de cidade universitária: bem mantidos, sossegados e fáceis de alcançar a pé a partir do centro histórico. Para passeios verdes mais longos, dirija-se ao Parco Iris ou aos caminhos junto ao canal ao longo do rio Bacchiglione.",
       "titleDe": "Hundefreundliche Parks und Grünflächen in Padua",
       "titleNl": "Hondvriendelijke parken en groene ruimtes in Padua",
+      "titleIt": "Parchi e spazi verdi pet friendly a Padova",
       "introDe": "Padua verfügt über ein dichtes Netz offizieller Freilaufflächen für Hunde (aree cani), verteilt über die Stadtteile, dazu die Vorzeigefläche Prato della Valle - mit 88.620 m² einer der größten Plätze Europas -, perfekt für lange angeleinte Spaziergänge rund um den elliptischen Kanal. Die Parks der Stadt spiegeln ihren Universitätsstadt-Charakter wider: gepflegt, ruhig und zu Fuß von der Altstadt aus leicht erreichbar. Für längere Grünspaziergänge geht es zum Parco Iris oder den Uferwegen entlang des Flusses Bacchiglione.",
       "introNl": "Padua heeft een dicht netwerk van officiële losloopgebieden voor honden (aree cani), verspreid over de wijken, plus het pronkstuk Prato della Valle, met 88.620 m² een van de grootste pleinen van Europa, perfect voor lange aangelijnde wandelingen rond de ovale gracht. De parken van de stad weerspiegelen haar karakter als universiteitsstad: verzorgd, rustig en makkelijk lopend te bereiken vanaf de oude stad. Voor langere wandelingen in het groen ga je naar het Parco Iris of de oeverpaden langs de rivier de Bacchiglione.",
+      "introIt": "Padova ha una fitta rete di aree cani ufficiali sparse nei quartieri, oltre al gioiello Prato della Valle, con 88.620 m² una delle piazze più grandi d'Europa, perfetta per lunghe passeggiate al guinzaglio attorno al canale ovale. I parchi della città rispecchiano il suo carattere di città universitaria: curati, tranquilli e facilmente raggiungibili a piedi dal centro storico. Per passeggiate più lunghe nel verde vai al Parco Iris o ai sentieri lungo il fiume Bacchiglione.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Pet-Friendly Transport in Padua",
@@ -253,10 +280,13 @@
           "tipPt": "Evite as horas de ponta (07:30 às 09:00 e 17:30 às 19:00) com um cão grande, o elétrico enche-se de estudantes entre o centro e a zona universitária.",
           "descriptionDe": "Paduas einzige Straßenbahnlinie (10,5 km, 24 Haltestellen) verkehrt von Nord nach Süd von Pontevigodarzere über den Bahnhof und das Zentrum bis nach Guizza. Hunde sind an Bord erlaubt: ein größerer Hund pro Fahrgast an kurzer Leine mit Maulkorb, oder eine beliebige Anzahl kleiner Hunde in Transportboxen (kostenlos). Die Tram verkehrt täglich von 05:30 bis 23:30 Uhr im dichten Takt von 6 bis 10 Minuten.",
           "descriptionNl": "Padua's enige tramlijn (10,5 km, 24 haltes) rijdt van noord naar zuid, van Pontevigodarzere via het station en het centrum naar Guizza. Honden zijn welkom aan boord: een grotere hond per reiziger aan een korte lijn met muilkorf, of een willekeurig aantal kleine honden in reismanden (gratis). De tram rijdt dagelijks van 05:30 tot 23:30 uur met een dichte frequentie van 6 tot 10 minuten.",
+          "descriptionIt": "L'unica linea del tram di Padova (10,5 km, 24 fermate) va da nord a sud, da Pontevigodarzere passando per la stazione e il centro fino a Guizza. I cani sono benvenuti a bordo: un cane grande per passeggero al guinzaglio corto con museruola, oppure un numero qualsiasi di cani piccoli in trasportino (gratis). Il tram funziona tutti i giorni dalle 05:30 alle 23:30 con una frequenza fitta di 6-10 minuti.",
           "petPolicyDe": "1 großer Hund pro Fahrgast an kurzer Leine mit Maulkorb; kleine Hunde in Transportboxen kostenlos",
           "petPolicyNl": "1 grote hond per reiziger aan een korte lijn met muilkorf; kleine honden in reismanden gratis",
+          "petPolicyIt": "1 cane grande per passeggero al guinzaglio corto con museruola; cani piccoli in trasportino gratis",
           "tipDe": "Vermeiden Sie mit einem großen Hund die Stoßzeiten (07:30-09:00 und 17:30-19:00 Uhr) - die Tram füllt sich zwischen Zentrum und Universitätsviertel mit Studierenden.",
-          "tipNl": "Vermijd met een grote hond de spitsuren (07:30-09:00 en 17:30-19:00 uur), de tram loopt tussen het centrum en de universiteitswijk vol met studenten."
+          "tipNl": "Vermijd met een grote hond de spitsuren (07:30-09:00 en 17:30-19:00 uur), de tram loopt tussen het centrum en de universiteitswijk vol met studenten.",
+          "tipIt": "Evita le ore di punta (07:30-09:00 e 17:30-19:00) con un cane grande, il tram tra il centro e il quartiere universitario si riempie di studenti."
         },
         {
           "name": "Trenitalia Regional Trains",
@@ -280,10 +310,13 @@
           "tipPt": "Compre o suplemento para animal de 5€ numa máquina de bilhetes ANTES de embarcar, a compra a bordo acarreta uma sobretaxa de 5€. O suplemento não é vendido através da aplicação da Trenitalia.",
           "descriptionDe": "Paduas Hauptbahnhof ist ein wichtiger Knotenpunkt im Veneto: Venedig in 25 Minuten, Verona in 40 Minuten, Vicenza in 15 Minuten, Bologna in 60 Minuten. Trenitalia-Regionalzüge nehmen mittelgroße und große Hunde an der Leine mit Maulkorb gegen ein Festticket von 5 € mit; kleine Hunde in Transportboxen (max. 70×30×50 cm) reisen kostenlos. Bei den Hochgeschwindigkeitszügen Frecciarossa/Frecciargento beträgt die Gebühr 50 % eines regulären Erwachsenentickets.",
           "descriptionNl": "Padua's hoofdstation is een belangrijk knooppunt in Veneto: Venetië in 25 minuten, Verona in 40 minuten, Vicenza in 15 minuten, Bologna in 60 minuten. Regionale treinen van Trenitalia nemen middelgrote en grote honden aan de lijn met muilkorf mee tegen een vast tarief van 5 €; kleine honden in een reismand (max. 70×30×50 cm) reizen gratis. Bij de hogesnelheidstreinen Frecciarossa/Frecciargento bedraagt het tarief 50% van een regulier volwassenenticket.",
+          "descriptionIt": "La stazione principale di Padova è un importante snodo del Veneto: Venezia in 25 minuti, Verona in 40 minuti, Vicenza in 15 minuti, Bologna in 60 minuti. I treni regionali di Trenitalia accettano cani medi e grandi al guinzaglio con museruola a una tariffa fissa di 5 €; i cani piccoli in trasportino (max 70x30x50 cm) viaggiano gratis. Sui treni ad alta velocità Frecciarossa/Frecciargento la tariffa è il 50% di un biglietto adulto standard.",
           "petPolicyDe": "Fester Tarif von 5 € auf Regionalzügen für angeleinte Hunde mit Maulkorb; kleine Hunde in Transportboxen kostenlos",
           "petPolicyNl": "Vast tarief van 5 € op regionale treinen voor aangelijnde honden met muilkorf; kleine honden in reismanden gratis",
+          "petPolicyIt": "Tariffa fissa di 5 € sui treni regionali per cani al guinzaglio con museruola; cani piccoli in trasportino gratis",
           "tipDe": "Kaufen Sie den 5-€-Tierzuschlag VOR dem Einsteigen am Fahrkartenautomaten - der Kauf an Bord verursacht einen Aufpreis von 5 €. Der Zuschlag wird nicht über die Trenitalia-App verkauft.",
-          "tipNl": "Koop de toeslag van 5 € voor huisdieren VOOR het instappen bij de kaartautomaat, kopen aan boord brengt een toeslag van 5 € met zich mee. De toeslag wordt niet via de Trenitalia-app verkocht."
+          "tipNl": "Koop de toeslag van 5 € voor huisdieren VOOR het instappen bij de kaartautomaat, kopen aan boord brengt een toeslag van 5 € met zich mee. De toeslag wordt niet via de Trenitalia-app verkocht.",
+          "tipIt": "Compra il supplemento animali da 5 € PRIMA di salire alla biglietteria automatica, comprarlo a bordo comporta un sovrapprezzo di 5 €. Il supplemento non è vendibile tramite l'app Trenitalia."
         },
         {
           "name": "Padua Taxis & Ride-hailing",
@@ -307,20 +340,26 @@
           "tipPt": "A Uber não opera em Pádua. Use a Radiotaxi por telefone ou a aplicação appTaxi, e reserve com 15 a 20 minutos de antecedência quando viajar com um cão grande, para dar tempo ao operador de encontrar um motorista disponível.",
           "descriptionDe": "Radiotaxi Padova (049-651333) ist die wichtigste Taxi-Genossenschaft. Die Mitnahme von Haustieren liegt im Ermessen des jeweiligen Fahrers: Erwähnen Sie bei der Buchung 'cane' und bitten Sie um einen haustierfreundlichen Fahrer. Kleine Hunde in Transportboxen werden durchweg akzeptiert; für größere Hunde ist eine saubere Decke oder ein Handtuch willkommen. In der Regel entstehen keine Zusatzkosten, wobei manche Fahrer einen Reinigungszuschlag von 1-2 € berechnen.",
           "descriptionNl": "Radiotaxi Padova (049-651333) is de belangrijkste taxicoöperatie. Het meenemen van huisdieren gaat naar goeddunken van de chauffeur: vermeld bij het boeken 'cane' en vraag om een huisdiervriendelijke chauffeur. Kleine honden in reismanden worden altijd geaccepteerd; voor grotere honden is een schone deken of handdoek welkom. Meestal zijn er geen extra kosten, al rekenen sommige chauffeurs een schoonmaaktoeslag van 1-2 €.",
+          "descriptionIt": "Radiotaxi Padova (049-651333) è la principale cooperativa di taxi. Il trasporto di animali è a discrezione dell'autista: segnala 'cane' al momento della prenotazione e chiedi un autista disponibile per animali. I cani piccoli in trasportino sono sempre accettati; per cani più grandi è gradita una coperta o un asciugamano pulito. Di solito non ci sono costi extra, anche se alcuni autisti applicano un sovrapprezzo di pulizia di 1-2 €.",
           "petPolicyDe": "Nach Ermessen des Fahrers; bei der Buchung 'cane' angeben",
           "petPolicyNl": "Naar goeddunken van de chauffeur; vermeld 'cane' bij het boeken",
+          "petPolicyIt": "A discrezione dell'autista; segnala 'cane' al momento della prenotazione",
           "tipDe": "Uber ist in Padua nicht verfügbar. Nutzen Sie Radiotaxi telefonisch oder die appTaxi-App und buchen Sie mit großem Hund 15-20 Minuten im Voraus, damit die Zentrale einen bereitwilligen Fahrer findet.",
-          "tipNl": "Uber is niet beschikbaar in Padua. Gebruik Radiotaxi telefonisch of de appTaxi-app en boek met een grote hond 15-20 minuten van tevoren, zodat de centrale een bereidwillige chauffeur kan vinden."
+          "tipNl": "Uber is niet beschikbaar in Padua. Gebruik Radiotaxi telefonisch of de appTaxi-app en boek met een grote hond 15-20 minuten van tevoren, zodat de centrale een bereidwillige chauffeur kan vinden.",
+          "tipIt": "Uber non è disponibile a Padova. Usa Radiotaxi per telefono o l'app appTaxi e prenota con un cane grande con 15-20 minuti di anticipo, così la centrale può trovare un autista disponibile."
         }
       ],
       "titlePt": "Transporte que aceita animais em Pádua",
       "introPt": "Os transportes públicos de Pádua são geridos pela Busitalia Veneto (BusItalia) e incluem uma única linha de elétrico (SIR1, também chamada Metrobus) e autocarros urbanos. Os cães são aceites em toda a rede: os cães pequenos numa transportadora viajam gratuitamente, e é permitido um cão maior por passageiro, com trela curta e açaime, a bordo. Os comboios regionais da Trenitalia ligam Pádua a Veneza (25 min), Verona (40 min) e Vicenza (15 min) com uma tarifa fixa de 5€ para cães médios/grandes com trela e açaime; os cães pequenos em transportadora viajam gratuitamente.",
       "titleDe": "Haustierfreundlicher Transport in Padua",
       "titleNl": "Huisdiervriendelijk vervoer in Padua",
+      "titleIt": "Trasporti pet friendly a Padova",
       "introDe": "Paduas öffentlicher Nahverkehr wird von Busitalia Veneto (BusItalia) betrieben und umfasst eine einzelne Straßenbahnlinie (SIR1, auch Metrobus genannt) sowie Stadtbusse. Hunde sind im gesamten Netz zugelassen: kleine Hunde in einer Transportbox reisen kostenlos, und ein größerer Hund pro Fahrgast ist an kurzer Leine mit Maulkorb an Bord erlaubt. Regionalzüge von Trenitalia verbinden Padua mit Venedig (25 Min.), Verona (40 Min.) und Vicenza (15 Min.) zu einem festen Tarif von 5 € für angeleinte und mit Maulkorb versehene mittelgroße/große Hunde; kleine Hunde in Transportboxen reisen kostenlos.",
       "introNl": "Padua's openbaar vervoer wordt gerund door Busitalia Veneto (BusItalia) en omvat één tramlijn (SIR1, ook wel metrobus genoemd) plus stadsbussen. Honden zijn toegestaan in het hele netwerk: kleine honden in een reismand reizen gratis, en een grotere hond per reiziger mag aan een korte lijn met muilkorf aan boord. Regionale treinen van Trenitalia verbinden Padua met Venetië (25 min), Verona (40 min) en Vicenza (15 min) tegen een vast tarief van 5 € voor aangelijnde en gemuilkorfde middelgrote/grote honden; kleine honden in reismanden reizen gratis.",
+      "introIt": "I trasporti pubblici di Padova sono gestiti da Busitalia Veneto (BusItalia) e comprendono una linea tram (SIR1, chiamata anche metrobus) più autobus urbani. I cani sono ammessi su tutta la rete: i cani piccoli in trasportino viaggiano gratis, e un cane più grande per passeggero può salire a bordo al guinzaglio corto con museruola. I treni regionali di Trenitalia collegano Padova a Venezia (25 min), Verona (40 min) e Vicenza (15 min) a una tariffa fissa di 5 € per cani medi/grandi al guinzaglio e con museruola; i cani piccoli in trasportino viaggiano gratis.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches near Padua",
@@ -352,10 +391,13 @@
           "tipPt": "A partir de Pádua: 1h15 de carro pela A4/A28 ou 2h15 de comboio via Latisana-Lignano + autocarro. Leve prova de vacinação, o pessoal faz por vezes verificações por amostragem à entrada durante o pico do verão.",
           "descriptionDe": "Italiens größter offiziell anerkannter Hundestrand: 2 km feiner Adriasand mit schattigen Sonnenschirmen, einem eingezäunten Freilaufbereich, Süßwasserduschen und einem eigenen Schwimmbereich. Der Eintritt ist kostenpflichtig (etwa 20 €/Tag für ein Familienpaket inklusive Sonnenschirm) und beinhaltet ein Willkommenspaket mit Wassernapf und Kotbeuteln. Der Strand gehört zum Konsortium Bibione Spiaggia und gilt weithin als Goldstandard unter Italiens Hundestränden.",
           "descriptionNl": "Italië's grootste officieel erkende hondenstrand: 2 km fijn Adriatisch zand met schaduwrijke parasols, een omheind losloopgebied, zoetwaterdouches en een eigen zwemzone. De toegang is betaald (ongeveer 20 €/dag voor een gezinspakket inclusief parasol) en bevat een welkomstpakket met waterbakje en poepzakjes. Het strand behoort tot het Bibione Spiaggia-consortium en geldt algemeen als de gouden standaard onder Italië's hondenstranden.",
+          "descriptionIt": "La spiaggia per cani ufficialmente riconosciuta più grande d'Italia: 2 km di sabbia fine adriatica con ombrelloni ombreggiati, un'area recintata per la libertà, docce d'acqua dolce e una propria zona di balneazione. L'accesso è a pagamento (circa 20 €/giorno per un pacchetto famiglia con ombrellone) e include un kit di benvenuto con ciotola d'acqua e sacchetti igienici. La spiaggia fa parte del consorzio Bibione Spiaggia ed è generalmente considerata lo standard di riferimento tra le spiagge per cani in Italia.",
           "petPolicyDe": "Ganzjähriger Zugang; auf dem Sand an der Leine, im eingezäunten Spielbereich ohne Leine",
           "petPolicyNl": "Toegankelijk het hele jaar; aan de lijn op het zand, los in het omheinde speelgebied",
+          "petPolicyIt": "Accessibile tutto l'anno; al guinzaglio sulla sabbia, libero nell'area gioco recintata",
           "tipDe": "Von Padua aus: 1 Std. 15 Min. mit dem Auto über A4/A28 oder 2 Std. 15 Min. mit dem Zug über Latisana-Lignano plus Bus. Bringen Sie einen Impfnachweis mit - das Personal kontrolliert am Eingang während der Hochsaison gelegentlich stichprobenartig.",
-          "tipNl": "Vanaf Padua: 1 uur 15 met de auto via de A4/A28 of 2 uur 15 met de trein via Latisana-Lignano plus bus. Neem een vaccinatiebewijs mee, het personeel controleert bij de ingang tijdens het hoogseizoen af en toe steekproefsgewijs."
+          "tipNl": "Vanaf Padua: 1 uur 15 met de auto via de A4/A28 of 2 uur 15 met de trein via Latisana-Lignano plus bus. Neem een vaccinatiebewijs mee, het personeel controleert bij de ingang tijdens het hoogseizoen af en toe steekproefsgewijs.",
+          "tipIt": "Da Padova: 1 ora e 15 in auto via A4/A28 oppure 2 ore e 15 in treno via Latisana-Lignano più bus. Porta il libretto vaccinale, il personale controlla occasionalmente a campione all'ingresso in alta stagione."
         },
         {
           "name": "Bau Beach Sottomarina",
@@ -379,10 +421,13 @@
           "tipPt": "Fora de época (outubro a abril) a praia abre para passeios gratuitos, mas os serviços encerram. Leve água fresca e verifique as marés, na maré-cheia a área de areia utilizável encolhe consideravelmente.",
           "descriptionDe": "Der nächstgelegene offizielle Hundestrand zu Padua, nur 50 km östlich in Sottomarina (der Strandverlängerung von Chioggia). Ein Sandabschnitt mit eigenen Hunde-Sonnenschirmen, Liegen, Süßwasserduschen und einem ausgewiesenen Schwimmkorridor. Betrieben als Mitglied des italienischen 'Bau Beach'-Netzwerks. Weniger überlaufen als Bibione und ein schneller Tagesausflug von Padua aus mit dem Auto (1 Stunde) oder mit Zug plus Bus über Chioggia.",
           "descriptionNl": "Het dichtstbijzijnde officiële hondenstrand bij Padua, slechts 50 km oostelijk in Sottomarina (het strandverlengstuk van Chioggia). Een zandstuk met eigen hondenparasols, ligstoelen, zoetwaterdouches en een aangewezen zwemcorridor. Draait mee als lid van het Italiaanse netwerk 'Bau Beach'. Minder druk dan Bibione en een snelle dagtrip vanaf Padua met de auto (1 uur) of met trein plus bus via Chioggia.",
+          "descriptionIt": "La spiaggia per cani ufficiale più vicina a Padova, a soli 50 km a est a Sottomarina (l'estensione balneare di Chioggia). Un tratto di sabbia con ombrelloni per cani propri, lettini, docce d'acqua dolce e un corridoio di balneazione dedicato. Fa parte della rete italiana 'Bau Beach'. Meno affollata di Bibione e una gita facile da Padova in auto (1 ora) o in treno più bus via Chioggia.",
           "petPolicyDe": "Eigener Hundestrand; außerhalb der ausgewiesenen Zone an der Leine",
           "petPolicyNl": "Eigen hondenstrand; aan de lijn buiten de aangewezen zone",
+          "petPolicyIt": "Spiaggia per cani propria; al guinzaglio fuori dalla zona dedicata",
           "tipDe": "Außerhalb der Saison (Oktober-April) ist der Strand für kostenlose Spaziergänge geöffnet, aber die Serviceeinrichtungen sind geschlossen. Bringen Sie frisches Wasser mit und prüfen Sie die Gezeiten - bei Flut schrumpft die nutzbare Sandfläche erheblich.",
-          "tipNl": "Buiten het seizoen (oktober-april) is het strand open voor gratis wandelingen, maar de voorzieningen zijn dan gesloten. Neem vers water mee en controleer de getijden, bij vloed krimpt het bruikbare zandoppervlak flink."
+          "tipNl": "Buiten het seizoen (oktober-april) is het strand open voor gratis wandelingen, maar de voorzieningen zijn dan gesloten. Neem vers water mee en controleer de getijden, bij vloed krimpt het bruikbare zandoppervlak flink.",
+          "tipIt": "Fuori stagione (ottobre-aprile) la spiaggia è aperta per passeggiate libere, ma i servizi sono chiusi. Porta acqua fresca e controlla le maree, con l'alta marea la superficie di sabbia utilizzabile si riduce parecchio."
         },
         {
           "name": "Lago di Fimon",
@@ -406,20 +451,26 @@
           "tipPt": "Combine com uma visita a um agriturismo dos Montes Berici para um longo domingo com o cão, muitas quintas locais acolhem cães nas suas zonas de refeição ao ar livre.",
           "descriptionDe": "Ein kleiner natürlicher See in den Berici-Hügeln westlich von Padua, mit einem 4 km langen angeleinten Rundweg und uneingeschränktem Zugang für angeleinte Hunde. Kein offizieller Hundestrand, aber das Westufer bietet einen sanften Kieszugang, an dem Hunde in flachem Süßwasser schwimmen können. Außerhalb sommerlicher Wochenenden ruhig. Eine perfekte Alternative zu einem Strandtag für Hunde, die frisches Wasser und Schatten bevorzugen.",
           "descriptionNl": "Een klein natuurlijk meer in de Berici-heuvels ten westen van Padua, met een 4 km lange aangelijnde rondwandeling en onbeperkte toegang voor aangelijnde honden. Geen officieel hondenstrand, maar de westoever biedt een zachte kiezeltoegang waar honden in ondiep zoet water kunnen zwemmen. Rustig buiten zomerse weekenden. Een perfect alternatief voor een strandje voor honden die zoet water en schaduw verkiezen.",
+          "descriptionIt": "Un piccolo lago naturale nei Colli Berici a ovest di Padova, con un anello al guinzaglio di 4 km e accesso illimitato per cani al guinzaglio. Non è una spiaggia per cani ufficiale, ma la sponda occidentale offre un accesso di ghiaia morbida dove i cani possono nuotare in acqua dolce bassa. Tranquillo fuori dai weekend estivi. Un'alternativa perfetta alla spiaggia per cani che preferiscono l'acqua dolce e l'ombra.",
           "petPolicyDe": "Angeleinte Hunde überall; informeller Schwimmzugang am Westufer",
           "petPolicyNl": "Aangelijnde honden overal; informele zwemtoegang aan de westoever",
+          "petPolicyIt": "Cani al guinzaglio ovunque; accesso informale al bagno sulla sponda ovest",
           "tipDe": "Kombinieren Sie es mit einem Besuch in einem Agriturismo in den Berici-Hügeln für einen langen Sonntag mit Hund - viele lokale Höfe heißen Hunde in ihren Außen-Speisebereichen willkommen.",
-          "tipNl": "Combineer het met een bezoek aan een agriturismo in de Berici-heuvels voor een lange zondag met hond, veel lokale boerderijen verwelkomen honden op hun buiteneetplekken."
+          "tipNl": "Combineer het met een bezoek aan een agriturismo in de Berici-heuvels voor een lange zondag met hond, veel lokale boerderijen verwelkomen honden op hun buiteneetplekken.",
+          "tipIt": "Combina con una visita a un agriturismo nei Colli Berici per una lunga domenica con il cane, molte fattorie locali accolgono cani nei loro spazi da pranzo all'aperto."
         }
       ],
       "titlePt": "Praias que aceitam cães perto de Pádua",
       "introPt": "Pádua fica no interior, no Vale do Pó, mas tanto a costa adriática (40 a 60 km a leste) como o Lago de Garda (90 km a oeste) têm praias para cães bem estabelecidas, alcançáveis numa excursão de um dia. A opção adriática mais próxima é a 'Beach for Dogs' de Bibione Pineda, a maior praia para cães oficialmente reconhecida de Itália, com 2 km de areia e uma zona de banhos dedicada. Para banhos no lago, a extremidade sul do Lago de Garda (Sirmione, Lazise) tem pequenas secções de praia para cães abertas durante todo o ano.",
       "titleDe": "Hundefreundliche Strände nahe Padua",
       "titleNl": "Hondvriendelijke stranden bij Padua",
+      "titleIt": "Spiagge pet friendly vicino a Padova",
       "introDe": "Padua liegt im Landesinneren des Po-Tals, doch sowohl die Adriaküste (40-60 km östlich) als auch der Gardasee (90 km westlich) verfügen über etablierte Hundestrände, die als Tagesausflug erreichbar sind. Die nächstgelegene Adria-Option ist der 'Strand für Hunde' Bibione Pineda - Italiens größter offiziell anerkannter Hundestrand mit 2 km Sand und einem eigenen Schwimmbereich. Für Seeschwimmen bietet das Südende des Gardasees (Sirmione, Lazise) kleine ganzjährig geöffnete Hundestrand-Abschnitte.",
       "introNl": "Padua ligt landinwaarts in de Povlakte, maar zowel de Adriatische kust (40-60 km oostelijk) als het Gardameer (90 km westelijk) hebben gevestigde hondenstranden die als dagtrip bereikbaar zijn. De dichtstbijzijnde Adriatische optie is het 'strand voor honden' Bibione Pineda, Italië's grootste officieel erkende hondenstrand met 2 km zand en een eigen zwemzone. Voor zwemmen in een meer biedt het zuidelijke uiteinde van het Gardameer (Sirmione, Lazise) kleine, het hele jaar geopende hondenstrandstukken.",
+      "introIt": "Padova si trova nell'entroterra della Pianura Padana, ma sia la costa adriatica (40-60 km a est) sia il Lago di Garda (90 km a ovest) hanno spiagge per cani consolidate raggiungibili in gita giornaliera. L'opzione adriatica più vicina è la 'spiaggia per cani' Bibione Pineda, la spiaggia per cani ufficialmente riconosciuta più grande d'Italia con 2 km di sabbia e una propria zona di balneazione. Per nuotare in un lago, l'estremità meridionale del Lago di Garda (Sirmione, Lazise) offre piccoli tratti di spiaggia per cani aperti tutto l'anno.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Veterinary Clinics in Padua",
@@ -456,10 +507,13 @@
           "tipPt": "Telefone sempre antes de ir de carro, para consultas de especialidade não urgentes é necessária marcação, que pode ser feita com 1 a 2 semanas de antecedência. Para emergências, a linha noturna reencaminha para o veterinário de serviço.",
           "descriptionDe": "Das Veterinärlehrkrankenhaus der Universität Padua, gelegen in Legnaro (10 km südöstlich des Zentrums, 20 Minuten mit dem Auto). Eine der bestausgestatteten Tiereinrichtungen Italiens, mit Fachdiensten in Innerer Medizin, Chirurgie, Kardiologie, Dermatologie, Onkologie, Neurologie und Notfallmedizin. Vor der Ankunft ist bei dringenden Fällen eine telefonische Triage Pflicht; für lebensbedrohliche Notfälle außerhalb der Geschäftszeiten läuft ein 24/7-Bereitschaftsdienst.",
           "descriptionNl": "Het veterinaire universitaire ziekenhuis van de Universiteit van Padua, gelegen in Legnaro (10 km ten zuidoosten van het centrum, 20 minuten met de auto). Een van de best uitgeruste diervoorzieningen van Italië, met specialistische diensten in interne geneeskunde, chirurgie, cardiologie, dermatologie, oncologie, neurologie en spoedeisende zorg. Voor spoedgevallen is telefonische triage voor aankomst verplicht; voor levensbedreigende noodgevallen buiten kantooruren is er een 24/7-wachtdienst.",
+          "descriptionIt": "L'ospedale veterinario universitario dell'Università di Padova, situato a Legnaro (10 km a sudest del centro, 20 minuti in auto). Una delle strutture veterinarie meglio attrezzate d'Italia, con servizi specialistici in medicina interna, chirurgia, cardiologia, dermatologia, oncologia, neurologia e pronto soccorso. Per le emergenze è obbligatoria la triage telefonica prima dell'arrivo; per emergenze pericolose per la vita fuori orario c'è un servizio di guardia attivo 24/7.",
           "petPolicyDe": "Referenz-Lehrkrankenhaus; telefonische Triage erforderlich",
           "petPolicyNl": "Universitair verwijsziekenhuis; telefonische triage verplicht",
+          "petPolicyIt": "Ospedale veterinario universitario di riferimento; triage telefonica obbligatoria",
           "tipDe": "Rufen Sie stets an, bevor Sie hinfahren - für nicht dringende Facharzttermine sind Termine erforderlich, die 1-2 Wochen im Voraus gebucht werden können. Bei Notfällen leitet die Nachtlinie an den Bereitschaftstierarzt weiter.",
-          "tipNl": "Bel altijd voordat je gaat, voor niet-spoedeisende specialistafspraken is een afspraak nodig die 1-2 weken van tevoren geboekt kan worden. Bij noodgevallen leidt de nachtlijn je door naar de dienstdoende dierenarts."
+          "tipNl": "Bel altijd voordat je gaat, voor niet-spoedeisende specialistafspraken is een afspraak nodig die 1-2 weken van tevoren geboekt kan worden. Bij noodgevallen leidt de nachtlijn je door naar de dienstdoende dierenarts.",
+          "tipIt": "Chiama sempre prima di andare, per visite specialistiche non urgenti serve un appuntamento prenotabile con 1-2 settimane di anticipo. In caso di emergenza, la linea notturna ti indirizza al veterinario di turno."
         },
         {
           "name": "Clinica Veterinaria Pedrina",
@@ -488,10 +542,13 @@
           "tipPt": "O estacionamento na rua, perto da Via Sorio, é pago e apertado; é melhor vir de elétrico (paragem Sacra Famiglia, 5 min a pé) ou de táxi se o seu cão estiver indisposto.",
           "descriptionDe": "Eine langjährig etablierte private Tierklinik im Zentrum von Padua, mit Allgemeinmedizin, Chirurgie, Zahnmedizin, Bildgebung (Röntgen, Ultraschall) und Notfällen außerhalb der Öffnungszeiten über einen telefonischen Bereitschaftsdienst. Eine der am häufigsten empfohlenen Tierarztpraxen von Padua-Einwohnern in lokalen Foren und Google-Bewertungen. Laufkundschaft wird während der Öffnungszeiten angenommen; bei Notfällen zuerst anrufen.",
           "descriptionNl": "Een al lang gevestigde particuliere dierenkliniek in het centrum van Padua, met algemene geneeskunde, chirurgie, tandheelkunde, beeldvorming (röntgen, echografie) en spoedgevallen buiten openingstijden via een telefonische wachtdienst. Een van de vaakst aanbevolen dierenartsenpraktijken van Padua-bewoners op lokale forums en Google-beoordelingen. Inloop wordt tijdens openingstijden geaccepteerd; bij spoedgevallen eerst bellen.",
+          "descriptionIt": "Una clinica veterinaria privata consolidata nel centro di Padova, con medicina generale, chirurgia, odontoiatria, diagnostica per immagini (raggi X, ecografia) ed emergenze fuori orario tramite un servizio di guardia telefonico. Una delle cliniche veterinarie più consigliate dai residenti di Padova sui forum locali e nelle recensioni Google. Gli accessi senza appuntamento sono accettati in orario di apertura; per le emergenze chiama prima.",
           "petPolicyDe": "Allgemeinklinik mit telefonischem Bereitschaftsdienst außerhalb der Öffnungszeiten",
           "petPolicyNl": "Algemene kliniek met telefonische wachtdienst buiten openingstijden",
+          "petPolicyIt": "Clinica generale con servizio di guardia telefonico fuori orario",
           "tipDe": "Straßenparkplätze in der Nähe an der Via Sorio sind kostenpflichtig und knapp; besser mit der Tram (Haltestelle Sacra Famiglia, 5 Min. zu Fuß) oder mit dem Taxi anreisen, wenn Ihr Hund unwohl ist.",
-          "tipNl": "Straatparkeren in de buurt aan de Via Sorio is betaald en schaars; kom liever met de tram (halte Sacra Famiglia, 5 min lopen) of met de taxi als je hond zich niet lekker voelt."
+          "tipNl": "Straatparkeren in de buurt aan de Via Sorio is betaald en schaars; kom liever met de tram (halte Sacra Famiglia, 5 min lopen) of met de taxi als je hond zich niet lekker voelt.",
+          "tipIt": "Il parcheggio su strada nella zona di Via Sorio è a pagamento e scarso; meglio venire in tram (fermata Sacra Famiglia, 5 minuti a piedi) o in taxi se il tuo cane non sta bene."
         },
         {
           "name": "Centro Veterinario Specialistico Padova Sud",
@@ -520,20 +577,26 @@
           "tipPt": "As consultas de especialidade custam 80€ a 120€, leve o boletim de vacinação do seu cão (libretto sanitario) e quaisquer exames anteriores numa pen USB ou em PDF para uma consulta sem percalços.",
           "descriptionDe": "Ein multi-spezialisiertes Tierzentrum im Süden Paduas mit Kardiologie, Dermatologie, Onkologie, Innerer Medizin und 24-Stunden-Hospitalisierung. Guter Ruf für Zweitmeinungen und die Behandlung komplexer Fälle. Rufen Sie vor der Ankunft die Zentrale für Notfallberatungen an; Routinetermine werden online gebucht.",
           "descriptionNl": "Een multidisciplinair dierencentrum in het zuiden van Padua met cardiologie, dermatologie, oncologie, interne geneeskunde en 24-uurs opname. Goede reputatie voor second opinions en de behandeling van complexe gevallen. Bel voor aankomst de centrale voor spoedadvies; routineafspraken worden online geboekt.",
+          "descriptionIt": "Un centro veterinario multidisciplinare nel sud di Padova con cardiologia, dermatologia, oncologia, medicina interna e ricovero 24 ore su 24. Buona reputazione per i secondi pareri e la gestione di casi complessi. Chiama la centrale per un consiglio urgente prima di arrivare; le visite di routine si prenotano online.",
           "petPolicyDe": "Multi-Spezialklinik mit 24-Stunden-Hospitalisierung",
           "petPolicyNl": "Multidisciplinaire kliniek met 24-uurs opname",
+          "petPolicyIt": "Clinica multidisciplinare con ricovero 24 ore su 24",
           "tipDe": "Facharztberatungen kosten 80-120 € - bringen Sie das Impfheft Ihres Hundes (libretto sanitario) und frühere Diagnosen auf einem USB-Stick oder als PDF für einen reibungslosen Termin mit.",
-          "tipNl": "Specialistisch consult kost 80-120 €, neem het gezondheidsboekje van je hond (libretto sanitario) en eerdere diagnoses mee op een USB-stick of als pdf voor een soepele afspraak."
+          "tipNl": "Specialistisch consult kost 80-120 €, neem het gezondheidsboekje van je hond (libretto sanitario) en eerdere diagnoses mee op een USB-stick of als pdf voor een soepele afspraak.",
+          "tipIt": "Una visita specialistica costa 80-120 €, porta il libretto sanitario del tuo cane e le diagnosi precedenti su chiavetta USB o in pdf per un appuntamento senza intoppi."
         }
       ],
       "titlePt": "Clínicas veterinárias em Pádua",
       "introPt": "Pádua tem uma infraestrutura veterinária bem desenvolvida, incluindo o Hospital Veterinário Universitário (Ospedale Veterinario Universitario Didattico) da Universidade de Pádua, na vizinha Legnaro, um dos hospitais veterinários mais respeitados de Itália. Para cuidados de rotina e emergências fora de horas na própria cidade, várias clínicas privadas mantêm veterinários de serviço. Para verdadeiras emergências 24 horas por dia, 7 dias por semana, a referência mais próxima é o OVUD em Legnaro (10 km do centro). Telefone sempre antes de chegar a qualquer estabelecimento de urgência, a lei veterinária italiana exige contacto telefónico prévio para que o pessoal se possa preparar.",
       "titleDe": "Tierkliniken in Padua",
       "titleNl": "Dierenklinieken in Padua",
+      "titleIt": "Cliniche veterinarie a Padova",
       "introDe": "Padua verfügt über eine gut ausgebaute tierärztliche Infrastruktur, darunter das Veterinärlehrkrankenhaus der Universität Padua (Ospedale Veterinario Universitario Didattico) im nahen Legnaro - eines der angesehensten Tierkrankenhäuser Italiens. Für Routineversorgung und Notfälle außerhalb der Öffnungszeiten in der Stadt selbst halten mehrere Privatkliniken einen Bereitschaftsdienst vor. Für echte 24/7-Notfälle ist die nächstgelegene Anlaufstelle das OVUD in Legnaro (10 km vom Zentrum entfernt). Rufen Sie vor der Ankunft bei jeder Notfalleinrichtung stets vorab an - das italienische Tierarztrecht verlangt einen vorherigen Telefonkontakt, damit sich das Personal vorbereiten kann.",
       "introNl": "Padua heeft een goed uitgebouwde dierenartsinfrastructuur, waaronder het veterinaire universitaire ziekenhuis van de Universiteit van Padua (Ospedale Veterinario Universitario Didattico) in het nabijgelegen Legnaro, een van de meest gerenommeerde dierenziekenhuizen van Italië. Voor routinezorg en spoedgevallen buiten openingstijden in de stad zelf houden meerdere particuliere klinieken een wachtdienst aan. Voor echte 24/7-noodgevallen is het dichtstbijzijnde adres het OVUD in Legnaro (10 km van het centrum). Bel altijd van tevoren bij elke spoedvoorziening voordat je vertrekt, de Italiaanse dierenartswetgeving vereist voorafgaand telefonisch contact zodat het personeel zich kan voorbereiden.",
+      "introIt": "Padova ha un'infrastruttura veterinaria ben sviluppata, tra cui l'ospedale veterinario universitario dell'Università di Padova (Ospedale Veterinario Universitario Didattico) nella vicina Legnaro, uno degli ospedali veterinari più rinomati d'Italia. Per le cure di routine e le emergenze fuori orario in città, diverse cliniche private mantengono un servizio di guardia. Per vere emergenze 24/7, l'indirizzo più vicino è l'OVUD a Legnaro (10 km dal centro). Chiama sempre in anticipo qualsiasi struttura d'emergenza prima di partire, la normativa veterinaria italiana richiede il contatto telefonico preventivo così il personale può prepararsi.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Essential Pet Travel Tips for Padua",
@@ -565,10 +628,13 @@
           "tipPt": "Leve uma pequena garrafa de água e uma taça dobrável no verão, os verões de Pádua combinam mais de 80% de humidade com picos de 32 a 35°C. O 'caldo umido' (calor húmido) do Vale do Pó é mais perigoso para os cães do que o calor seco do litoral.",
           "descriptionDe": "Paduas Fremdenverkehrsamt und die Stadtverwaltung (Comune di Padova) pflegen haustierfreundliche Informationen auf ihrem Tourismusportal, einschließlich der Liste offizieller aree cani und zugänglicher Parks. Die Stadtverwaltung verlangt für alle Hunde in der Öffentlichkeit eine Leine von maximal 1,5 m Länge, mit einem Maulkorb griffbereit, und Aufräumpflicht ist bei Verstoß mit Bußgeldern von 25-500 € belegt. Kostenlose Kotbeutel-Spender sind in den größeren Parks aufgestellt.",
           "descriptionNl": "Padua's toeristenbureau en de gemeente (Comune di Padova) houden huisdiervriendelijke informatie bij op hun toerismeportaal, inclusief de lijst van officiële aree cani en toegankelijke parken. De gemeente verplicht voor alle honden in het openbaar een lijn van maximaal 1,5 m lang, met een muilkorf binnen handbereik, en opruimplicht wordt bij overtreding beboet met 25-500 €. Gratis poepzakjesdispensers staan in de grotere parken.",
+          "descriptionIt": "L'ufficio turistico di Padova e il Comune di Padova mantengono informazioni pet friendly sul loro portale turistico, incluso l'elenco delle aree cani ufficiali e dei parchi accessibili. Il comune impone a tutti i cani in pubblico un guinzaglio massimo di 1,5 m, con museruola a portata di mano, e l'obbligo di raccogliere gli escrementi è multato con 25-500 € in caso di violazione. Dispenser gratuiti di sacchetti igienici si trovano nei parchi principali.",
           "petPolicyDe": "Hundefreundliche Stadt mit offiziellen Hundeflächen; max. 1,5-m-Leine, Maulkorb auf Verlangen",
           "petPolicyNl": "Hondvriendelijke stad met officiële hondengebieden; max. 1,5 m lijn, muilkorf op verzoek",
+          "petPolicyIt": "Città pet friendly con aree cani ufficiali; guinzaglio max 1,5 m, museruola su richiesta",
           "tipDe": "Führen Sie im Sommer eine kleine Wasserflasche und einen klappbaren Napf mit sich - Paduas Sommer verbinden über 80 % Luftfeuchtigkeit mit Spitzenwerten von 32-35 °C. Die 'caldo umido' (schwüle Hitze) des Po-Tals ist für Hunde gefährlicher als trockene Küstenhitze.",
-          "tipNl": "Neem in de zomer een klein flesje water en een opvouwbaar bakje mee, Padua's zomers combineren meer dan 80% luchtvochtigheid met piekwaarden van 32-35 °C. De 'caldo umido' (drukkende hitte) van de Povlakte is voor honden gevaarlijker dan droge kusthitte."
+          "tipNl": "Neem in de zomer een klein flesje water en een opvouwbaar bakje mee, Padua's zomers combineren meer dan 80% luchtvochtigheid met piekwaarden van 32-35 °C. De 'caldo umido' (drukkende hitte) van de Povlakte is voor honden gevaarlijker dan droge kusthitte.",
+          "tipIt": "D'estate porta una piccola bottiglia d'acqua e una ciotola pieghevole, le estati di Padova combinano oltre l'80% di umidità con picchi di 32-35 °C. Il 'caldo umido' della Pianura Padana è più pericoloso per i cani del caldo secco costiero."
         },
         {
           "name": "Padua Museum & Sight Restrictions",
@@ -592,10 +658,13 @@
           "tipPt": "Planeie as visitas aos museus a pares e alternem a tomar conta do cão num café próximo, o Caffè Cavour (Via VIII Febbraio) e os bares ao longo da Piazza dei Signori aceitam todos cães na esplanada.",
           "descriptionDe": "Paduas wichtigste kostenpflichtige Museen (Scrovegni-Kapelle, Eremitani-Stadtmuseen, Palazzo Zuckermann, Orto Botanico) verbieten alle Hunde außer registrierten Assistenzhunden. Der Innenraum der Basilika Sant'Antonio (Il Santo) ist für Hunde gesperrt, doch der umliegende Platz und der zwei Blocks entfernte Prato della Valle sind vollständig zugänglich. Das historische Café Caffè Pedrocchi akzeptiert wohlerzogene Hunde nur im Außenbereich.",
           "descriptionNl": "Padua's belangrijkste betaalde musea (Scrovegnikapel, Eremitani-stadsmusea, Palazzo Zuckermann, Orto Botanico) verbieden alle honden behalve geregistreerde assistentiehonden. Het interieur van de Basiliek van Sant'Antonio (Il Santo) is gesloten voor honden, maar het omliggende plein en de twee blokken verderop gelegen Prato della Valle zijn volledig toegankelijk. Het historische Caffè Pedrocchi accepteert brave honden alleen buiten.",
+          "descriptionIt": "I principali musei a pagamento di Padova (Cappella degli Scrovegni, Musei Civici degli Eremitani, Palazzo Zuckermann, Orto Botanico) vietano tutti i cani tranne i cani di assistenza registrati. L'interno della Basilica di Sant'Antonio (Il Santo) è chiuso ai cani, ma la piazza circostante e Prato della Valle, a due isolati di distanza, sono completamente accessibili. Lo storico Caffè Pedrocchi accetta cani educati solo all'esterno.",
           "petPolicyDe": "Hunde aus Museen und dem Basilika-Innenraum ausgeschlossen; Plätze zugänglich",
           "petPolicyNl": "Honden uitgesloten van musea en het interieur van de basiliek; pleinen toegankelijk",
+          "petPolicyIt": "Cani esclusi da musei e interno della basilica; piazze accessibili",
           "tipDe": "Planen Sie Museumsbesuche paarweise und wechseln Sie sich mit der Hundebetreuung in einem nahen Café ab - Caffè Cavour (Via VIII Febbraio) und die Bars rund um die Piazza dei Signori akzeptieren alle Hunde auf der Terrasse.",
-          "tipNl": "Plan museumbezoeken per twee en wissel de hondenopvang af in een café in de buurt, Caffè Cavour (Via VIII Febbraio) en de bars rond de Piazza dei Signori accepteren alle honden op het terras."
+          "tipNl": "Plan museumbezoeken per twee en wissel de hondenopvang af in een café in de buurt, Caffè Cavour (Via VIII Febbraio) en de bars rond de Piazza dei Signori accepteren alle honden op het terras.",
+          "tipIt": "Pianifica le visite ai musei a coppie e alterna la custodia del cane in un caffè vicino, Caffè Cavour (Via VIII Febbraio) e i bar attorno a Piazza dei Signori accettano tutti i cani in terrazza."
         },
         {
           "name": "Colli Euganei Day Trips",
@@ -618,20 +687,26 @@
           "tipPt": "Há víboras (Vipera aspis) nos trilhos rochosos virados a sul, de abril a outubro; mantenha o seu cão com trela curta e evite os muros de pedra na primavera. Leve consigo o número de urgência do veterinário em caso de mordedura de cobra.",
           "descriptionDe": "Der Regionalpark Colli Euganei, die vulkanischen Thermalhügel 20-30 km südlich von Padua, ist ein beliebtes Halbtags- oder Ganztagesziel. Der Park verfügt über mehr als 150 km markierte Wanderwege, die für angeleinte Hunde geöffnet sind, dazu hundefreundliche Agriturismi und das historische Dorf Arquà Petrarca. Die Thermalbadeorte (Abano, Montegrotto) haben innerhalb der Spa-Einrichtungen selbst strikte Hundeverbote, doch die Dorfstraßen und umliegenden Wege sind vollständig hundefreundlich.",
           "descriptionNl": "Het regionale park Colli Euganei, de vulkanische thermale heuvels 20-30 km ten zuiden van Padua, is een populaire halve- of hele dag bestemming. Het park heeft meer dan 150 km gemarkeerde wandelpaden die open zijn voor aangelijnde honden, plus hondvriendelijke agriturismi en het historische dorp Arquà Petrarca. De thermale badplaatsen (Abano, Montegrotto) hebben binnen de spa-voorzieningen zelf strikte hondenverboden, maar de dorpsstraten en omliggende paden zijn volledig hondvriendelijk.",
+          "descriptionIt": "Il parco regionale dei Colli Euganei, le colline termali vulcaniche a 20-30 km a sud di Padova, è una meta popolare per mezza o intera giornata. Il parco ha oltre 150 km di sentieri segnalati aperti ai cani al guinzaglio, oltre ad agriturismi pet friendly e il borgo storico di Arquà Petrarca. Le città termali (Abano, Montegrotto) hanno divieti rigidi sui cani all'interno delle strutture termali stesse, ma le vie del paese e i sentieri circostanti sono completamente pet friendly.",
           "petPolicyDe": "Wege für angeleinte Hunde geöffnet; Spas schließen Hunde aus",
           "petPolicyNl": "Paden open voor aangelijnde honden; spa's sluiten honden uit",
+          "petPolicyIt": "Sentieri aperti ai cani al guinzaglio; le terme escludono i cani",
           "tipDe": "Von April bis Oktober sind Vipern (Vipera aspis) auf südexponierten Felswegen präsent; halten Sie Ihren Hund an kurzer Leine und meiden Sie im Frühjahr Steinmauern. Führen Sie die Notrufnummer des Tierarztes für den Fall eines Schlangenbisses mit.",
-          "tipNl": "Van april tot oktober zijn adders (Vipera aspis) aanwezig op zuidgerichte rotspaden; houd je hond kort aangelijnd en vermijd in het voorjaar stenen muurtjes. Neem het noodnummer van de dierenarts mee voor het geval van een slangenbeet."
+          "tipNl": "Van april tot oktober zijn adders (Vipera aspis) aanwezig op zuidgerichte rotspaden; houd je hond kort aangelijnd en vermijd in het voorjaar stenen muurtjes. Neem het noodnummer van de dierenarts mee voor het geval van een slangenbeet.",
+          "tipIt": "Da aprile a ottobre le vipere (Vipera aspis) sono presenti sui sentieri rocciosi esposti a sud; tieni il cane al guinzaglio corto ed evita in primavera i muretti di pietra. Porta il numero di emergenza del veterinario in caso di morso di serpente."
         }
       ],
       "titlePt": "Conselhos essenciais para viajar com animais para Pádua",
       "introPt": "Pádua é uma cidade acolhedora para cães, mas algumas regras locais e particularidades sazonais do Vale do Pó tornarão a sua estadia mais tranquila. O centro histórico plano e calcetado é suave para as patas durante todo o ano, mas a humidade do verão no Vale do Pó (junho a agosto), aliada a picos de 32 a 35°C, obriga a passeios apenas ao início da manhã e ao fim do dia. O inverno traz nevoeiro denso e mínimas de 3 a 5°C, leve um casaco para raças de pelo curto. Os pontos de interesse emblemáticos para visitantes (Capela dos Scrovegni, interior da Basílica de Santo António, Museus Eremitani) excluem cães, por isso planeie um pet-sitter ou alternem nas visitas.",
       "titleDe": "Wichtige Tipps für Haustierreisen nach Padua",
       "titleNl": "Belangrijke tips voor een reis met huisdier naar Padua",
+      "titleIt": "Consigli importanti per un viaggio con animale a Padova",
       "introDe": "Padua ist eine hundefreundliche Stadt, doch ein paar lokale Regeln und saisonale Eigenheiten des Po-Tals machen Ihren Aufenthalt entspannter. Die flache, gepflasterte Altstadt ist ganzjährig pfotenfreundlich, doch die sommerliche Luftfeuchtigkeit im Po-Tal (Juni-August) mit Spitzenwerten von 32-35 °C verlangt Spaziergänge nur am frühen Morgen und Abend. Der Winter bringt dichten Nebel und Tiefstwerte von 3-5 °C - bringen Sie für kurzhaarige Rassen einen Mantel mit. Die bekannten Sehenswürdigkeiten (Scrovegni-Kapelle, Innenraum der Basilika Sant'Antonio, Eremitani-Museen) schließen Hunde aus, planen Sie also einen Haustiersitter ein oder besuchen Sie im Wechsel.",
       "introNl": "Padua is een hondvriendelijke stad, maar een paar lokale regels en seizoenseigenaardigheden van de Povlakte maken je verblijf comfortabeler. De vlakke, geplaveide oude stad is het hele jaar poot-vriendelijk, maar de zomerse luchtvochtigheid in de Povlakte (juni-augustus) met piekwaarden van 32-35 °C vraagt om wandelingen alleen vroeg in de ochtend en 's avonds. De winter brengt dichte mist en dieptepunten van 3-5 °C, neem voor kortharige rassen een jasje mee. De bekende bezienswaardigheden (Scrovegnikapel, interieur van de Basiliek van Sant'Antonio, Eremitani-musea) sluiten honden uit, plan dus een huisdiersitter in of bezoek om beurten.",
+      "introIt": "Padova è una città pet friendly, ma alcune regole locali e particolarità stagionali della Pianura Padana rendono il soggiorno più confortevole. Il centro storico pianeggiante e pavimentato è a misura di zampa tutto l'anno, ma l'umidità estiva della Pianura Padana (giugno-agosto) con picchi di 32-35 °C richiede passeggiate solo la mattina presto e la sera. L'inverno porta nebbia fitta e minime di 3-5 °C, porta un cappottino per le razze a pelo corto. Le attrazioni più famose (Cappella degli Scrovegni, interno della Basilica di Sant'Antonio, Musei degli Eremitani) escludono i cani, quindi organizza un pet sitter o visita a turno.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Padua",
@@ -663,10 +738,13 @@
           "tipPt": "Passeie por aqui às 07:30, quando as bancas se montam, as praças ainda estão vazias, a luz é suave e os cheiros de café a torrar e pão fresco estão no seu melhor.",
           "descriptionDe": "Paduas zwei wichtigste Marktplätze, getrennt durch den mittelalterlichen Palazzo della Ragione (1218) - dessen Erdgeschossarkade eine der längsten Italiens ist und Lebensmittelstände sowie Salumerien beherbergt. Die Plätze veranstalten morgens täglich einen Obst- und Gemüsemarkt und werden abends zu einem Aperitivo-Hotspot. Angeleinte Hunde sind auf beiden Plätzen und in den umliegenden überdachten Arkaden willkommen.",
           "descriptionNl": "Padua's twee belangrijkste marktpleinen, gescheiden door het middeleeuwse Palazzo della Ragione (1218), waarvan de arcade op de begane grond een van de langste van Italië is en voedselkraampjes en delicatessenzaken huisvest. De pleinen houden elke ochtend een groente- en fruitmarkt en veranderen 's avonds in een aperitivo-hotspot. Aangelijnde honden zijn welkom op beide pleinen en onder de omliggende overdekte arcades.",
+          "descriptionIt": "Le due principali piazze del mercato di Padova, separate dal medievale Palazzo della Ragione (1218), il cui porticato al piano terra è uno dei più lunghi d'Italia e ospita bancarelle di cibo e negozi di specialità. Le piazze ospitano ogni mattina un mercato di frutta e verdura e la sera diventano un punto di riferimento per l'aperitivo. I cani al guinzaglio sono benvenuti in entrambe le piazze e sotto i portici circostanti.",
           "petPolicyDe": "Angeleinte Hunde auf den Plätzen und in den Arkaden willkommen; Palazzo-Innenraum ausgeschlossen",
           "petPolicyNl": "Aangelijnde honden welkom op de pleinen en onder de arcades; interieur Palazzo uitgesloten",
+          "petPolicyIt": "Cani al guinzaglio benvenuti nelle piazze e sotto i portici; interno del Palazzo escluso",
           "tipDe": "Gehen Sie um 07:30 Uhr durch, wenn die Stände aufgebaut werden - die Plätze sind noch leer, das Licht ist sanft, und der Duft von röstendem Kaffee und frischem Brot ist am schönsten.",
-          "tipNl": "Loop er om 07:30 uur doorheen, als de kraampjes worden opgezet, de pleinen zijn dan nog leeg, het licht is zacht en de geur van gebrande koffie en vers brood is op zijn mooist."
+          "tipNl": "Loop er om 07:30 uur doorheen, als de kraampjes worden opgezet, de pleinen zijn dan nog leeg, het licht is zacht en de geur van gebrande koffie en vers brood is op zijn mooist.",
+          "tipIt": "Passeggiaci alle 07:30, quando montano le bancarelle, le piazze sono ancora vuote, la luce è morbida e il profumo di caffè tostato e pane fresco è al suo meglio."
         },
         {
           "name": "Basilica di Sant'Antonio (Il Santo) Piazza",
@@ -690,10 +768,13 @@
           "tipPt": "Combine com o Prato della Valle, a apenas dois quarteirões a oeste, juntos compõem um fácil passeio com trela de 1 hora que abrange os dois espaços abertos mais icónicos de Pádua.",
           "descriptionDe": "Der weitläufige Platz vor der Basilika des Heiligen Antonius - eine der meistbesuchten religiösen Stätten Italiens und die Grabstätte des Heiligen. Donatellos Bronzereiterstandbild des Condottiere Gattamelata (1453) ankert den Platz. Hunde sind in der Basilika und ihren Kreuzgängen nicht erlaubt, doch der umliegende Platz, der fünf Gehminuten entfernte Prato della Valle und die Kanalwege bieten mit angeleintem Hund reichlich Kontext.",
           "descriptionNl": "Het uitgestrekte plein voor de Basiliek van de Heilige Antonius, een van de meest bezochte religieuze plekken van Italië en de rustplaats van de heilige. Donatello's bronzen ruiterbeeld van de condottiere Gattamelata (1453) siert het plein. Honden zijn niet toegestaan in de basiliek en de kloostergangen, maar het omliggende plein, de vijf minuten lopen verderop gelegen Prato della Valle en de grachtpaden bieden met een aangelijnde hond genoeg om te zien.",
+          "descriptionIt": "L'ampia piazza davanti alla Basilica di Sant'Antonio, uno dei luoghi religiosi più visitati d'Italia e luogo di riposo del santo. La statua equestre in bronzo di Donatello del condottiero Gattamelata (1453) decora la piazza. I cani non sono ammessi nella basilica e nei chiostri, ma la piazza circostante, Prato della Valle a cinque minuti a piedi e i sentieri lungo il canale offrono abbastanza da vedere con un cane al guinzaglio.",
           "petPolicyDe": "Hunde auf dem Platz willkommen; Innenraum für Hunde geschlossen",
           "petPolicyNl": "Honden welkom op het plein; interieur gesloten voor honden",
+          "petPolicyIt": "Cani benvenuti in piazza; interno chiuso ai cani",
           "tipDe": "Kombinieren Sie den Besuch mit dem nur zwei Blocks westlich gelegenen Prato della Valle - zusammen ergibt das einen einfachen einstündigen angeleinten Spaziergang durch Paduas zwei ikonischste Freiflächen.",
-          "tipNl": "Combineer het bezoek met de slechts twee blokken westelijk gelegen Prato della Valle, samen vormen ze een makkelijke, één uur durende aangelijnde wandeling langs Padua's twee meest iconische open ruimtes."
+          "tipNl": "Combineer het bezoek met de slechts twee blokken westelijk gelegen Prato della Valle, samen vormen ze een makkelijke, één uur durende aangelijnde wandeling langs Padua's twee meest iconische open ruimtes.",
+          "tipIt": "Combina la visita con Prato della Valle, a soli due isolati a ovest, insieme formano una facile passeggiata al guinzaglio di un'ora lungo i due spazi aperti più iconici di Padova."
         },
         {
           "name": "Bacchiglione Canal Walks",
@@ -717,20 +798,26 @@
           "tipPt": "O troço mais pitoresco fica entre a Porta Portello e a Specola, com vistas de pontes históricas e do tráfego tradicional de barcaças do canal. Evite-o na época de nevoeiro (novembro a janeiro), quando a visibilidade desce abaixo dos 50 m.",
           "descriptionDe": "Padua ist von einem Kanalsystem umringt, das vom Fluss Bacchiglione gespeist wird, mit breiten Fußwegen entlang Riviera Tito Livio, Riviera Albertino Mussato und Riviera dei Mugnai. Die vollständige Umrundung beträgt etwa 4 km auf flachen, größtenteils baumbeschatteten Wegen - ein idealer kühler Morgenspaziergang. Angeleinte Hunde sind überall willkommen; Mülleimer und Wasserhähne sind rar, bringen Sie also eigenes Wasser mit.",
           "descriptionNl": "Padua wordt omringd door een grachtenstelsel gevoed door de rivier de Bacchiglione, met brede voetpaden langs Riviera Tito Livio, Riviera Albertino Mussato en Riviera dei Mugnai. De volledige ronde is ongeveer 4 km over vlakke, grotendeels door bomen beschaduwde paden, een ideale koele ochtendwandeling. Aangelijnde honden zijn overal welkom; vuilnisbakken en waterkranen zijn schaars, neem dus eigen water mee.",
+          "descriptionIt": "Padova è circondata da un sistema di canali alimentato dal fiume Bacchiglione, con ampi sentieri pedonali lungo Riviera Tito Livio, Riviera Albertino Mussato e Riviera dei Mugnai. Il giro completo è circa 4 km su sentieri pianeggianti, per lo più ombreggiati dagli alberi, ideale per una fresca passeggiata mattutina. I cani al guinzaglio sono benvenuti ovunque; i cestini e le fontanelle d'acqua sono scarsi, porta quindi la tua acqua.",
           "petPolicyDe": "Angeleinte Hunde entlang aller Kanalwege willkommen",
           "petPolicyNl": "Aangelijnde honden welkom langs alle grachtpaden",
+          "petPolicyIt": "Cani al guinzaglio benvenuti lungo tutti i sentieri del canale",
           "tipDe": "Der malerischste Abschnitt liegt zwischen Porta Portello und Specola, mit Blick auf historische Brücken und den traditionellen Lastkahnverkehr des Kanals. Meiden Sie die nebelreiche Jahreszeit (November-Januar), wenn die Sicht unter 50 m fällt.",
-          "tipNl": "Het schilderachtigste stuk ligt tussen Porta Portello en Specola, met uitzicht op historische bruggen en het traditionele bootverkeer van de gracht. Vermijd het mistige seizoen (november-januari), wanneer het zicht onder 50 m daalt."
+          "tipNl": "Het schilderachtigste stuk ligt tussen Porta Portello en Specola, met uitzicht op historische bruggen en het traditionele bootverkeer van de gracht. Vermijd het mistige seizoen (november-januari), wanneer het zicht onder 50 m daalt.",
+          "tipIt": "Il tratto più suggestivo è tra Porta Portello e Specola, con vista sui ponti storici e il tradizionale traffico di barche del canale. Evita la stagione nebbiosa (novembre-gennaio), quando la visibilità scende sotto i 50 m."
         }
       ],
       "titlePt": "Atrações que aceitam cães em Pádua",
       "introPt": "O centro histórico de Pádua, classificado pela UNESCO, ergue-se em torno de três das mais belas praças contíguas de Itália, Erbe, Frutta e Signori, todas de acesso livre, 24 horas por dia, 7 dias por semana, a cães com trela. Embora os famosos museus e a Capela dos Scrovegni excluam cães, grande parte do que torna Pádua especial é ao ar livre: as longas galerias de arcadas (mais de 25 km, mais do que qualquer cidade italiana depois de Bolonha), os passeios junto aos canais e o icónico Prato della Valle. A combinação faz de Pádua uma cidade particularmente gratificante para passear o cão, cada praça é um destino, cada viela uma descoberta.",
       "titleDe": "Hundefreundliche Attraktionen in Padua",
       "titleNl": "Hondvriendelijke attracties in Padua",
+      "titleIt": "Attrazioni pet friendly a Padova",
       "introDe": "Paduas zum UNESCO-Welterbe gehörende Altstadt ist um drei der schönsten aneinandergrenzenden Plätze Italiens herum gebaut - Erbe, Frutta und Signori -, alle rund um die Uhr frei zugänglich für angeleinte Hunde. Während die berühmten Museen und die Scrovegni-Kapelle Hunde ausschließen, spielt sich vieles, was Padua besonders macht, im Freien ab: die langen überdachten Arkaden (über 25 km, mehr als in jeder italienischen Stadt außer Bologna), die Spaziergänge entlang der Kanäle und der Prato della Valle als Schaustück. Diese Kombination macht Padua zu einer besonders lohnenden Stadt für Hundespaziergänge - jeder Platz ist ein Ziel, jede Gasse eine Entdeckung.",
       "introNl": "Padua's tot UNESCO-werelderfgoed behorende oude stad is gebouwd rond drie van de mooiste aan elkaar grenzende pleinen van Italië, Erbe, Frutta en Signori, allemaal 24 uur per dag vrij toegankelijk voor aangelijnde honden. Terwijl de beroemde musea en de Scrovegnikapel honden uitsluiten, speelt veel van wat Padua bijzonder maakt zich buiten af: de lange overdekte arcades (meer dan 25 km, meer dan in elke Italiaanse stad behalve Bologna), de wandelingen langs de grachten en het pronkstuk Prato della Valle. Die combinatie maakt Padua tot een bijzonder de moeite waard stad voor hondenwandelingen, elk plein is een bestemming, elk steegje een ontdekking.",
+      "introIt": "Il centro storico di Padova, patrimonio UNESCO, è costruito attorno a tre delle piazze contigue più belle d'Italia, Erbe, Frutta e Signori, tutte liberamente accessibili 24 ore su 24 ai cani al guinzaglio. Mentre i musei famosi e la Cappella degli Scrovegni escludono i cani, gran parte di ciò che rende speciale Padova avviene all'aperto: i lunghi portici (oltre 25 km, più di ogni altra città italiana tranne Bologna), le passeggiate lungo i canali e il gioiello Prato della Valle. Questa combinazione rende Padova una città particolarmente gratificante per le passeggiate con il cane, ogni piazza è una destinazione, ogni vicolo una scoperta.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Care Services in Padua",
@@ -765,10 +852,13 @@
           "tipPt": "Filtre por pet-sitters perto da Stazione FS ou em Arcella para os horários de entrega/recolha mais flexíveis, compatíveis com excursões de um dia a Veneza ou Verona de comboio.",
           "descriptionDe": "Pawshake ist ein verifizierter Marktplatz für Haustierbetreuung mit einem starken Angebot an Gassi-Gehern, Tagesbetreuern und Übernachtungssittern in Padua. Die Sitterprofile enthalten verifizierte Bewertungen, Erfahrungsbeschreibungen, Fotos des häuslichen Umfelds und Sprachpräferenzen. Die Versicherung der Plattform deckt Haftpflicht gegenüber Dritten und tierärztliche Kosten bis zu festgelegten Grenzen während des Buchungszeitraums.",
           "descriptionNl": "Pawshake is een geverifieerde marktplaats voor huisdierenoppas met een sterk aanbod aan uitlaters, dagopvangers en overnachtingsoppassers in Padua. De profielen van oppassers bevatten geverifieerde beoordelingen, ervaringsomschrijvingen, foto's van de huisomgeving en taalvoorkeuren. De verzekering van het platform dekt aansprakelijkheid tegenover derden en dierenartskosten tot vastgestelde grenzen tijdens de boekingsperiode.",
+          "descriptionIt": "Pawshake è un marketplace verificato per il pet sitting con una forte offerta di dog walker, custodi diurni e pet sitter notturni a Padova. I profili dei sitter includono recensioni verificate, descrizioni dell'esperienza, foto dell'ambiente domestico e preferenze linguistiche. L'assicurazione della piattaforma copre la responsabilità verso terzi e le spese veterinarie fino a limiti stabiliti durante il periodo di prenotazione.",
           "petPolicyDe": "Verifizierte Sitter, Plattformversicherung inbegriffen",
           "petPolicyNl": "Geverifieerde oppassers, platformverzekering inbegrepen",
+          "petPolicyIt": "Sitter verificati, assicurazione della piattaforma inclusa",
           "tipDe": "Filtern Sie nach Sittern in der Nähe des Bahnhofs Stazione FS oder in Arcella für die flexibelsten Bring- und Abholzeiten, passend zu Tagesausflügen nach Venedig oder Verona mit dem Zug.",
-          "tipNl": "Filter op oppassers in de buurt van Stazione FS of in Arcella voor de flexibelste breng- en haaltijden, passend bij dagtrips naar Venetië of Verona met de trein."
+          "tipNl": "Filter op oppassers in de buurt van Stazione FS of in Arcella voor de flexibelste breng- en haaltijden, passend bij dagtrips naar Venetië of Verona met de trein.",
+          "tipIt": "Filtra per sitter vicino alla Stazione FS o ad Arcella per gli orari di consegna e ritiro più flessibili, comodi per gite in treno a Venezia o Verona."
         },
         {
           "name": "Rover.com Padova",
@@ -795,10 +885,13 @@
           "tipPt": "Leia com atenção a política de cancelamento do pet-sitter antes de reservar, Pádua tem pet-sitters tanto 'flexíveis' como 'rígidos', e planos de última hora no Vêneto (por exemplo, uma acqua alta em Veneza) podem implicar mudanças inesperadas de horário.",
           "descriptionDe": "Rover.com betreibt in Padua ein starkes Netzwerk mit Hunderten von Profilen für Gassi-Service, Tagesbetreuung, Übernachtungs-Hausbetreuung und Kurzbesuche. Die 'Rover-Garantie' der Plattform deckt bis zu 25.000 € tierärztliche Versorgung während gebuchter Aufenthalte. Filter ermöglichen die Sortierung nach Erfahrung mit Hundegröße, Verfügbarkeit eines eingezäunten Gartens und ob der Sitter Welpen oder Seniorhunde akzeptiert.",
           "descriptionNl": "Rover.com heeft in Padua een sterk netwerk met honderden profielen voor uitlaatservice, dagopvang, overnachtingsoppas aan huis en korte bezoekjes. De 'Rover-garantie' van het platform dekt tot 25.000 € dierenartszorg tijdens geboekte verblijven. Filters maken het mogelijk te sorteren op ervaring met hondformaat, beschikbaarheid van een omheinde tuin en of de oppas puppy's of seniorhonden accepteert.",
+          "descriptionIt": "Rover.com ha una forte rete a Padova con centinaia di profili per dog walking, asilo diurno, pet sitting notturno a domicilio e brevi visite. La 'garanzia Rover' della piattaforma copre fino a 25.000 € di cure veterinarie durante i soggiorni prenotati. I filtri permettono di ordinare per esperienza con la taglia del cane, disponibilità di un giardino recintato e se il sitter accetta cuccioli o cani anziani.",
           "petPolicyDe": "Verifizierte Sitter, Rover-Garantie bis zu 25.000 €",
           "petPolicyNl": "Geverifieerde oppassers, Rover-garantie tot 25.000 €",
+          "petPolicyIt": "Sitter verificati, garanzia Rover fino a 25.000 €",
           "tipDe": "Lesen Sie die Stornierungsbedingungen des Sitters sorgfältig durch, bevor Sie buchen - Padua hat sowohl 'flexible' als auch 'strikte' Sitter, und kurzfristige Pläne im Veneto (z. B. ein Acqua-alta-Ausflug nach Venedig) können unerwartete Zeitplanänderungen bedeuten.",
-          "tipNl": "Lees de annuleringsvoorwaarden van de oppas goed door voor je boekt, Padua heeft zowel 'flexibele' als 'strikte' oppassers, en last-minute plannen in Veneto (bijvoorbeeld een acqua-alta-uitstapje naar Venetië) kunnen onverwachte planningswijzigingen betekenen."
+          "tipNl": "Lees de annuleringsvoorwaarden van de oppas goed door voor je boekt, Padua heeft zowel 'flexibele' als 'strikte' oppassers, en last-minute plannen in Veneto (bijvoorbeeld een acqua-alta-uitstapje naar Venetië) kunnen onverwachte planningswijzigingen betekenen.",
+          "tipIt": "Leggi bene le condizioni di cancellazione del sitter prima di prenotare, Padova ha sia sitter 'flessibili' che 'rigidi', e i piani dell'ultimo minuto in Veneto (per esempio una gita ad acqua alta a Venezia) possono comportare cambi di programma inaspettati."
         },
         {
           "name": "Holidog Padova",
@@ -826,20 +919,26 @@
           "tipPt": "A Holidog cobra uma taxa única de plataforma (cerca de 15€ a 25€) por cima da tarifa por noite do anfitrião, tenha isto em conta no custo total ao comparar com a Pawshake ou a Rover.",
           "descriptionDe": "Eine in Frankreich beheimatete Plattform für Haustierbetreuung mit starker Präsenz in italienischen Städten einschließlich Padua. Holidog setzt auf ein Gastfamilien-Modell für die Betreuung (Ihr Hund wohnt im Zuhause eines geprüften Gastgebers statt in einer Pension), was es zu einer guten Wahl für ängstliche Hunde macht, die eine Pensionsumgebung nicht gut vertragen. Alle Buchungen beinhalten Haftpflichtversicherung gegenüber Dritten und telefonischen Support rund um die Uhr.",
           "descriptionNl": "Een in Frankrijk gevestigd platform voor huisdierenoppas met een sterke aanwezigheid in Italiaanse steden waaronder Padua. Holidog werkt met een gastgezinmodel voor de opvang (je hond woont bij een gescreende gastgezin in plaats van in een pension), wat het een goede keuze maakt voor angstige honden die een pensionomgeving niet goed verdragen. Alle boekingen bevatten een aansprakelijkheidsverzekering tegenover derden en telefonische ondersteuning 24 uur per dag.",
+          "descriptionIt": "Una piattaforma per il pet sitting con sede in Francia con una forte presenza nelle città italiane, tra cui Padova. Holidog lavora con un modello di famiglia ospitante per la custodia (il tuo cane vive con una famiglia selezionata invece che in una pensione), il che lo rende una buona scelta per cani ansiosi che non tollerano bene un ambiente da pensione. Tutte le prenotazioni includono un'assicurazione di responsabilità verso terzi e assistenza telefonica 24 ore su 24.",
           "petPolicyDe": "Gastfamilien-Betreuungsmodell, Versicherung inbegriffen",
           "petPolicyNl": "Gastgezinmodel voor opvang, verzekering inbegrepen",
+          "petPolicyIt": "Modello di famiglia ospitante per la custodia, assicurazione inclusa",
           "tipDe": "Holidog berechnet zusätzlich zum Nachtsatz des Gastgebers eine einmalige Plattformgebühr (etwa 15-25 €) - berücksichtigen Sie dies bei einem Kostenvergleich mit Pawshake oder Rover.",
-          "tipNl": "Holidog rekent bovenop het nachttarief van de gastheer een eenmalige platformvergoeding (ongeveer 15-25 €), houd hier rekening mee bij een kostenvergelijking met Pawshake of Rover."
+          "tipNl": "Holidog rekent bovenop het nachttarief van de gastheer een eenmalige platformvergoeding (ongeveer 15-25 €), houd hier rekening mee bij een kostenvergelijking met Pawshake of Rover.",
+          "tipIt": "Holidog applica, oltre alla tariffa notturna dell'ospitante, una commissione una tantum della piattaforma (circa 15-25 €), tienilo a mente nel confronto dei costi con Pawshake o Rover."
         }
       ],
       "titlePt": "Serviços de pet-sitting e de cuidados para cães em Pádua",
       "introPt": "O ecossistema de cuidados para animais de Pádua combina plataformas internacionais (Pawshake, Rover) com canis locais na província de Pádua. A grande comunidade internacional de estudantes da Universidade de Pádua faz com que os pet-sitters que falam inglês sejam comuns, e muitos pet-sitters perto do centro da cidade têm arranjos flexíveis de creche diurna, ideais para turistas que queiram visitar a Capela dos Scrovegni ou os Museus Eremitani (cães não permitidos). Reserve com 24 a 48 horas de antecedência na época alta.",
       "titleDe": "Haustierbetreuung und Hundepflege in Padua",
       "titleNl": "Huisdierenoppas en hondenverzorging in Padua",
+      "titleIt": "Pet sitting e cura dei cani a Padova",
       "introDe": "Paduas Ökosystem für Haustierbetreuung kombiniert internationale Plattformen (Pawshake, Rover) mit lokalen Pensionen in der Provinz Padua. Die große internationale Studierendengemeinschaft der Universität Padua sorgt dafür, dass englischsprachige Sitter verbreitet sind, und viele Sitter in Zentrumsnähe bieten flexible Tagesbetreuung an, ideal für Touristen, die die Scrovegni-Kapelle oder die Eremitani-Museen besuchen möchten (keine Hunde erlaubt). Buchen Sie in der Hochsaison 24-48 Stunden im Voraus.",
       "introNl": "Padua's ecosysteem voor huisdierenoppas combineert internationale platforms (Pawshake, Rover) met lokale pensions in de provincie Padua. De grote internationale studentengemeenschap van de Universiteit van Padua zorgt ervoor dat Engelssprekende oppassers wijdverbreid zijn, en veel oppassers dicht bij het centrum bieden flexibele dagopvang aan, ideaal voor toeristen die de Scrovegnikapel of de Eremitani-musea willen bezoeken (geen honden toegestaan). Boek in het hoogseizoen 24-48 uur van tevoren.",
+      "introIt": "L'ecosistema del pet sitting di Padova combina piattaforme internazionali (Pawshake, Rover) con pensioni locali nella provincia di Padova. La grande comunità studentesca internazionale dell'Università di Padova fa sì che i sitter anglofoni siano diffusi, e molti sitter vicino al centro offrono asilo diurno flessibile, ideale per i turisti che vogliono visitare la Cappella degli Scrovegni o i Musei degli Eremitani (cani non ammessi). Prenota con 24-48 ore di anticipo in alta stagione.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

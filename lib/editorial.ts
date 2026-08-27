@@ -15001,6 +15001,32 @@ const catIntrosByLocale: Record<string, Record<string, (d: string, ctx: DestCtx,
       `"Honden verblijven gratis" is bij de hotels hieronder geen loze marketingtekst. Het staat vast in bevestigd beleid, meestal zonder uitzonderingen op basis van gewicht of ras. In ${d}, ${ctx.personality.replace('one of ', '')}, past dit beleid van nature bij de lokale gastvrijheidscultuur.`,
     ],
   },
+  it: {
+    'dog-friendly': (d, ctx, n) => [
+      `${d} è ${ctx.personality}. Con ${n} strutture pet-friendly selezionate a mano su questa lista, trovi opzioni che vanno da boutique economiche a suite a cinque stelle. Tutte confermate per accogliere il tuo cane senza le solite restrizioni nascoste.`,
+      `Quello che rende ${d} speciale per chi viaggia con il cane è l'infrastruttura al di là della camera d'albergo: ${ctx.highlight} sono facilmente raggiungibili dalle strutture qui sotto. A ${ctx.area}, i cani fanno parte della vita di tutti i giorni, e gli hotel di questa lista sono scelti proprio perché abbracciano questa cultura invece di limitarsi a tollerarla.`,
+    ],
+    'cat-friendly': (d, ctx, n) => [
+      `Viaggiare con un gatto è ancora una nicchia rispetto a viaggiare con un cane. Ma ${d} è ${ctx.personality}, e il settore alberghiero comincia a rifletterlo. Questi ${n} hotel cat-friendly sono stati selezionati perché vanno oltre una tolleranza di facciata e accolgono davvero i gatti.`,
+      `I proprietari di gatti in visita a ${d} apprezzeranno che gli hotel qui sotto offrono camere tranquille, accesso facile al piano terra o con ascensore, e personale formato per rendere fluido il check-in con un trasportino. I migliori mettono a disposizione coperte e spazi coperti per la lettiera senza che tu debba chiederlo.`,
+    ],
+    'beach-access': (d, ctx, n) => [
+      `Combinare l'accesso alla spiaggia con un soggiorno pet-friendly è più complicato di quanto sembri: non tutti gli hotel costieri accettano cani, e molte spiagge limitano l'accesso ai cani a seconda della stagione. Queste ${n} strutture a ${d} sono l'eccezione. Confermate sia per la vicinanza alla spiaggia sia per una vera accoglienza al tuo animale.`,
+      `La costa di ${d}. Compresa ${ctx.highlight}. È al massimo della sua ospitalità verso gli animali in primavera (aprile-maggio) e in autunno (settembre-ottobre), quando le restrizioni stagionali su molte spiagge vengono revocate. Gli hotel qui sotto sono scelti non solo per la vicinanza al mare, ma anche per servizi come docce esterne, terrazze ombreggiate e personale che conosce i tratti di spiaggia dog-friendly locali.`,
+    ],
+    'near-parks': (d, ctx, n) => [
+      `Un hotel vicino al verde trasforma un soggiorno in città con il cane. Queste ${n} strutture a ${d} sono tutte a comoda distanza a piedi da ${ctx.highlight}. Così le passeggiate del mattino e della sera diventano un piacere, non un rompicapo logistico.`,
+      `A ${ctx.area}, il verde è parte integrante della vita urbana. Gli hotel di questa lista sono stati scelti proprio per la vicinanza a piedi ad aree libere senza guinzaglio, viali alberati e quell'atmosfera di quartiere che rende un soggiorno in città con il cane davvero piacevole.`,
+    ],
+    'luxury': (d, ctx, n) => [
+      `Ospitalità a cinque stelle e politica pet-friendly una volta comparivano raramente nella stessa frase. ${d} sta cambiando le cose. Questi ${n} hotel di lusso vanno ben oltre la semplice clausola "animali di piccola taglia ammessi" e offrono a te e al tuo animale vere esperienze di alto livello: kit di benvenuto, cucce in camera, snack a sorpresa e servizio passeggiate con il concierge.`,
+      `Soggiornare in uno degli hotel di lusso pet-friendly di ${d} significa vivere il meglio di ${ctx.area} da una base che tratta il tuo animale come un ospite di valore. Diversi hotel qui sotto hanno menù dedicati per animali, e tutti possono organizzare su richiesta prenotazioni in ristoranti locali dog-friendly.`,
+    ],
+    'dogs-stay-free': (d, ctx, n) => [
+      `I supplementi per animali possono aggiungere 15-50 € a notte al tuo conto in hotel. Un extra significativo su un soggiorno di una settimana. Questi ${n} hotel a ${d} hanno eliminato del tutto questo costo: il tuo cane soggiorna gratis, senza costi di pulizia nascosti né depositi cauzionali.`,
+      `"I cani soggiornano gratis" non è solo uno slogan pubblicitario negli hotel qui sotto. È garantito da politiche confermate, senza eccezioni per peso o razza nella maggior parte dei casi. A ${d}, ${ctx.personality.replace('one of ', '')}, questa politica si inserisce naturalmente nella cultura dell'ospitalità locale.`,
+    ],
+  },
 }
 
 // ─── Intros ──────────────────────────────────────────────────────────────────
@@ -15646,6 +15672,50 @@ const catTipsByLocale: Record<string, Record<string, Tip[]>> = {
       { n: 5, title: 'Laat een uitgebreide review achter met vermelding van het huisdierbeleid', text: 'Na je verblijf helpt een concrete review die de hondvriendelijke ervaring noemt, toekomstige huisdiereigenaren om met vertrouwen te kiezen. En het moedigt hotels aan hun beleid te behouden of te verbeteren.' },
     ],
   },
+  it: {
+    'dog-friendly': [
+      { n: 1, title: 'Prenota la tipologia di camera specifica per animali', text: 'Non tutte le camere di un hotel dog-friendly accettano animali. Chiedi espressamente il tipo di camera "pet-friendly" al momento della prenotazione. Di solito ha accesso facile all\'esterno e pavimenti duri invece della moquette.' },
+      { n: 2, title: 'Verifica il limite di peso prima di arrivare', text: 'Gli hotel indicano spesso un peso massimo per il cane (10, 20 o 25 kg). Se il tuo cane è al limite, chiama in anticipo. Le politiche a volte sono flessibili, soprattutto fuori stagione.' },
+      { n: 3, title: 'Chiedi consigli locali per le passeggiate', text: 'Il personale del concierge degli hotel di questa lista sa esattamente quali parchi sono liberi dal guinzaglio, quali bar mettono ciotole d\'acqua e quali strade sono più tranquille per i cani ansiosi.' },
+      { n: 4, title: 'Porta il passaporto europeo per animali per attraversare le frontiere', text: 'Se viaggi in auto verso la tua destinazione, il passaporto europeo per animali è obbligatorio per attraversare le frontiere. Assicurati che le vaccinazioni antirabbiche siano aggiornate almeno 21 giorni prima della partenza.' },
+      { n: 5, title: 'Conferma la politica via email', text: 'Dopo la prenotazione, invia una breve email confermando nome, razza e peso del tuo cane. Questo crea una traccia scritta ed elimina ogni ambiguità al check-in.' },
+    ],
+    'cat-friendly': [
+      { n: 1, title: 'Chiedi una camera tranquilla lontana dal rumore della strada', text: 'I gatti sono sensibili al rumore. Chiedi una camera su un cortile interno o a un piano alto. Meno traffico stradale e rumore d\'ascensore ci sono, più il tuo gatto resterà tranquillo.' },
+      { n: 2, title: 'Tieni il gatto nel trasportino durante il check-in', text: 'Una hall d\'hotel affollata può essere travolgente. Tieni il tuo gatto al sicuro finché non sei in camera. La maggior parte degli hotel ti accompagna subito all\'ascensore se dici all\'arrivo che hai un gatto con te.' },
+      { n: 3, title: 'Porta oggetti con odori familiari da casa', text: 'Una coperta o un gioco di casa riduce notevolmente l\'ansia in un ambiente nuovo. L\'odore di casa aiuta i gatti ad ambientarsi in poche ore invece che in giorni.' },
+      { n: 4, title: 'Blocca prima ogni fessura e nascondi le vie di fuga', text: 'Prima di far uscire il gatto dal trasportino, chiudi le finestre, controlla dietro i mobili pesanti e copri eventuali fessure di ventilazione. Un controllo accurato di dieci minuti previene fughe.' },
+      { n: 5, title: 'Chiedi alle pulizie di bussare e aspettare', text: 'Chiedi alla reception di segnalare la tua camera in modo che le pulizie bussino forte e aspettino prima di entrare. Questo evita fughe accidentali dalla porta aperta.' },
+    ],
+    'beach-access': [
+      { n: 1, title: 'Controlla in anticipo le regole della spiaggia per i cani', text: 'Molte spiagge europee vietano i cani da giugno a settembre, o limitano l\'accesso a prima delle 9 e dopo le 19. Chiedi all\'hotel una mappa aggiornata degli accessi in spiaggia consentiti ai cani.' },
+      { n: 2, title: 'Sciacqua il cane dopo l\'acqua di mare', text: 'L\'acqua salata irrita zampe e pelle con l\'esposizione ripetuta. La maggior parte degli hotel con accesso alla spiaggia di questa lista ha docce esterne. Usale dopo ogni bagno e asciuga bene le zampe.' },
+      { n: 3, title: 'Attenzione al caldo della sabbia in estate', text: 'La sabbia asciutta d\'estate può raggiungere i 50-60°C e ustionare seriamente i cuscinetti. Prova con il palmo della mano prima di far camminare il cane su sabbia non ombreggiata.' },
+      { n: 4, title: 'Porta l\'ombra', text: 'Anche sulle spiagge pet-friendly, gli ombrelloni sono raramente a noleggio. Un parasole da spiaggia portatile o uno preso in prestito dall\'hotel tiene il tuo cane a suo agio per sessioni più lunghe.' },
+      { n: 5, title: 'Tieni sempre a disposizione acqua dolce', text: 'L\'acqua salata dà sete ai cani e può causare vomito se ingerita in quantità. Porta una ciotola pieghevole e almeno 1,5 L di acqua dolce al giorno per la spiaggia.' },
+    ],
+    'near-parks': [
+      { n: 1, title: 'Chiedi la mappa dei percorsi per cani dell\'hotel', text: 'I migliori hotel dog-friendly vicino ai parchi hanno mappato le zone libere dal guinzaglio, i punti di rifornimento acqua e i bar con terrazza dog-friendly nei dintorni. Chiedi al check-in.' },
+      { n: 2, title: 'Esci presto per la migliore esperienza al parco', text: 'I parchi sono più tranquilli prima delle 9. Meno ciclisti, meno bambini, più spazio. Le mattine presto sono anche più fresche d\'estate e migliori per le razze energiche.' },
+      { n: 3, title: 'Conosci le regole senza guinzaglio del tuo parco', text: 'Le regole senza guinzaglio cambiano da zona a zona all\'interno dello stesso parco. Controlla i cartelli o chiedi all\'hotel. Essere sorpreso con un cane senza guinzaglio in una zona a guinzaglio obbligatorio può comportare una multa in alcune città.' },
+      { n: 4, title: 'Porta ciotole pieghevoli per cibo e acqua', text: 'Le ciotole in silicone leggere pesano quasi nulla e rendono le soste al parco comode per il tuo cane senza portarti dietro attrezzatura pesante.' },
+      { n: 5, title: 'Trova il veterinario più vicino al tuo hotel', text: 'Chiedi all\'hotel di segnalarti la clinica veterinaria 24 ore più vicina. Quasi nessuno ne ha bisogno, ma conoscere l\'indirizzo elimina il panico se dovesse succedere qualcosa.' },
+    ],
+    'luxury': [
+      { n: 1, title: 'Richiedi in anticipo il kit di benvenuto per animali', text: 'La maggior parte degli hotel di lusso offre kit di benvenuto (cuccia, ciotola, snack, gioco) ma le scorte sono limitate. Richiedilo alla conferma della prenotazione. Non all\'arrivo. Per garantirne la disponibilità.' },
+      { n: 2, title: 'Chiedi del servizio concierge per animali', text: 'Diversi hotel a cinque stelle di questa lista offrono concierge dedicati agli animali: dog-walker, menù in camera per animali, appuntamenti di toelettatura e persino contatti veterinari. Chiedi cosa è incluso prima di arrivare.' },
+      { n: 3, title: 'Prenota una suite compatibile con gli animali invece di una camera standard', text: 'Le suite di lusso hanno spesso un migliore isolamento acustico, più spazio a terra per il tuo animale e terrazze private. Vale l\'upgrade per un soggiorno di più notti con un animale.' },
+      { n: 4, title: 'Conferma la politica della spa', text: 'La maggior parte degli hotel di lusso richiede che il tuo animale resti in camera mentre usi la spa. Chiedi delle opzioni di dog-sitting. Molti possono organizzare un dog-walker in coincidenza con il tuo trattamento.' },
+      { n: 5, title: 'Lascia una mancia al personale attento agli animali', text: 'La cameriera che fa uno sforzo in più per non disturbare un gatto addormentato, e il fattorino che accompagna il tuo cane all\'ascensore. Piccole mance contribuiscono molto a garantire un servizio pet-friendly eccezionale per tutto il soggiorno.' },
+    ],
+    'dogs-stay-free': [
+      { n: 1, title: 'Fatti confermare per iscritto la politica senza supplementi', text: 'Prenota direttamente con l\'hotel o tramite Booking.com e assicurati che l\'email di conferma indichi chiaramente "nessun supplemento per animali". Gli screenshot della politica al momento della prenotazione sono utili in caso di controversia al check-out.' },
+      { n: 2, title: 'Capisci cosa copre "gratis"', text: '"I cani soggiornano gratis" significa nessun supplemento sull\'alloggio. Non che i danni siano gratuiti. Gli hotel possono comunque addebitare danni documentati causati dal tuo animale (porte graffiate, tappeti sporchi). Un soggiorno responsabile protegge tutti.' },
+      { n: 3, title: 'Porta la tua cuccia o coperta', text: 'Anche gli hotel senza supplementi non sempre forniscono una cuccia per il cane. Portare una coperta familiare da casa tiene il tuo cane a suo agio e protegge l\'arredamento dell\'hotel da peli e impronte di zampe.' },
+      { n: 4, title: 'Confronta il costo per soggiorno su più notti', text: 'Un hotel con un supplemento di 20 €/soggiorno può essere più economico di un hotel "cani gratis" se la tariffa base della camera è significativamente più bassa. Confronta sempre il costo totale sulla durata del tuo soggiorno.' },
+      { n: 5, title: 'Lascia una recensione dettagliata che menzioni la politica sugli animali', text: 'Dopo il tuo soggiorno, una recensione specifica che menzioni l\'esperienza dog-friendly aiuta i futuri proprietari di animali a scegliere con fiducia. E incoraggia gli hotel a mantenere o migliorare le loro politiche.' },
+    ],
+  },
 }
 
 // ─── Why Section ─────────────────────────────────────────────────────────────
@@ -15730,6 +15800,10 @@ const bestSeasonByLocale: Record<string, Record<string, string>> = {
   nl: {
     'dog-friendly': 'lente & herfst', 'cat-friendly': 'het hele jaar door', 'beach-access': 'lente & vroege herfst',
     'near-parks': 'lente & herfst', 'luxury': 'het hele jaar door', 'dogs-stay-free': 'het hele jaar door',
+  },
+  it: {
+    'dog-friendly': 'primavera & autunno', 'cat-friendly': 'tutto l\'anno', 'beach-access': 'primavera & inizio autunno',
+    'near-parks': 'primavera & autunno', 'luxury': 'tutto l\'anno', 'dogs-stay-free': 'tutto l\'anno',
   },
 }
 
@@ -15853,6 +15927,14 @@ const testimonialsByLocale: Record<string, Record<string, (d: string) => Testimo
     'near-parks':     (d) => ({ emoji: '🌳', text: `Wat mij overtuigde van ${d} was de nabijheid. We stonden binnen zes minuten na het verlaten van de hotelkamer al in het park. Onze windhond uit het asiel heeft lange, rustige wandelingen nodig en de losloopzones in de buurt waren ideaal. Het personeel kende elke goede route zonder dat we ernaar hoefden te vragen. Echt hondvriendelijk denken.`, attribution: ' Geverifieerde review, parkverblijf' }),
     'luxury':         (d) => ({ emoji: '✨', text: `We trakteerden onszelf op een van de luxe huisdiervriendelijke hotels van ${d} voor onze trouwdag. Het hotel had een welkomstpakket voor onze Spaniël klaargemaakt. Een echte mand, een keramische bak en echte hondenkoekjes van een lokale bakkerij. De conciërge liet hem uit terwijl wij in de spa waren. Elke euro waard.`, attribution: ' Geverifieerde review, luxegast' }),
     'dogs-stay-free': (d) => ({ emoji: '🎉', text: `Ik vermeed stedentrips met Bruno vanwege de opgetelde huisdiertoeslagen. Ze lopen op tot 200 € en meer voor een weekverblijf. Verblijven in een bevestigd gratis hotel in ${d} nam die drempel volledig weg. Dezelfde kwaliteit, veel betere prijs-kwaliteitverhouding. Nu onze standaardaanpak bij het boeken.`, attribution: ' Geverifieerde review, gratis verblijf' }),
+  },
+  it: {
+    'dog-friendly':   (d) => ({ emoji: '🐕', text: `Abbiamo passato cinque notti a ${d} con il nostro Labrador di 30 kg, Max. Trovare un hotel che lo accogliesse davvero. Non solo che lo "tollerasse". Ha reso speciale l'intera vacanza. Il concierge aveva già pronta al check-in una mappa dei parchi locali e sapeva esattamente quali bar mettevano fuori ciotole d'acqua. Abbiamo già prenotato di nuovo per la primavera.`, attribution: ' Recensione verificata, soggiorno dog-friendly' }),
+    'cat-friendly':   (d) => ({ emoji: '🐈', text: `Ero davvero in ansia all'idea di portare Simone (il mio Bengala) in un hotel di città. Il personale a ${d} è stato fantastico. Avevano preparato un angolo della camera con spazio per la lettiera e asciugamani piegati per chiudere le fessure del termosifone. Si è ambientata in due ore. Ci tornerei senza esitazione.`, attribution: ' Recensione verificata, proprietaria di gatto' }),
+    'beach-access':   (d) => ({ emoji: '🏖️', text: `Abbiamo scelto ${d} proprio perché l'hotel era a cinque minuti da un tratto di spiaggia dog-friendly. Il nostro Vizsla ha passato quattro ore in mare ogni giorno e l'hotel aveva docce esterne, così non abbiamo mai portato sabbia nella hall. La combinazione perfetta. Torniamo ogni estate.`, attribution: ' Recensione verificata, soggiorno spiaggia' }),
+    'near-parks':     (d) => ({ emoji: '🌳', text: `Quello che mi ha convinto di ${d} è stata la vicinanza. Eravamo al parco entro sei minuti dall'uscita dalla camera. Il nostro Levriero adottato ha bisogno di passeggiate lunghe e tranquille e le zone senza guinzaglio vicine erano ideali. Il personale conosceva ogni percorso migliore senza che dovessimo chiedere. Una mentalità davvero orientata ai cani.`, attribution: ' Recensione verificata, soggiorno parco' }),
+    'luxury':         (d) => ({ emoji: '✨', text: `Ci siamo concessi uno degli hotel di lusso pet-friendly di ${d} per il nostro anniversario. L'hotel aveva preparato un kit di benvenuto per il nostro Spaniel. Una vera cuccia, una ciotola in ceramica e biscotti per cani autentici di un panificio locale. Il concierge lo ha portato a passeggio mentre eravamo alla spa. Ogni euro ben speso.`, attribution: ' Recensione verificata, ospite luxury' }),
+    'dogs-stay-free': (d) => ({ emoji: '🎉', text: `Evitavo le city break con Bruno per i supplementi per animali che si accumulavano. Arrivano a 200 € e oltre in una settimana. Soggiornare in un hotel confermato senza supplementi a ${d} ha eliminato del tutto questo fastidio. Stessa qualità del soggiorno, valore decisamente migliore. Ora è il nostro approccio predefinito quando prenotiamo.`, attribution: ' Recensione verificata, soggiorno senza supplementi' }),
   },
 }
 

@@ -12723,6 +12723,2123 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `het compacte kuurcentrum rond de Pouhon Pierre-le-Grand, het Warfaaz-meer, en het natuurreservaat Hautes Fagnes boven de stad`,
     },
   },
+  it: {
+    honfleur: {
+      personality: `un porto normanno da cartolina alla foce della Senna, dove alte case dalla facciata d'ardesia circondano il porticciolo del Vieux Bassin, la chiesa di legno più grande di Francia si alza sopra Place Sainte-Catherine, e la boscosa Côte de Grâce si affaccia sull'estuario e sul Pont de Normandie`,
+      highlight: `le banchine del Vieux Bassin, il Jardin des Personnalités di dieci ettari, e la passeggiata panoramica della Côte de Grâce e Mont-Joli`,
+      area: `il Vieux Bassin e Quai Sainte-Catherine, il centro storico dell'Enclos, e la collina intorno alla Côte de Grâce`,
+    },
+    sesimbra: {
+      personality: `un paesino di pescatori tutto bianco sulla costa dell'Arrábida in Portogallo, con un castello moresco che domina il porto dall'alto della collina, la baia riparata che si stende lungo la spiaggia cittadina di sabbia, e sentieri nel bosco che salgono nel parco naturale della Serra da Arrábida appena a sud di Lisbona`,
+      highlight: `la baia riparata e il porto di Abrigo, i sentieri della Serra da Arrábida e del Sesimbra Natura Park, e il promontorio del Cabo Espichel`,
+      area: `il lungomare intorno all'Avenida e la spiaggia cittadina, la collina del castello sopra il centro storico, e la costa di Meco e Lagoa de Albufeira verso ovest`,
+    },
+    ronda: {
+      personality: `un paese spettacolare arroccato sulle montagne della provincia di Málaga, tagliato in due dalla gola di El Tajo, profonda 100 metri, e unito dal Puente Nuevo del XVIII secolo, dove un centro storico moresco, una delle piazze de toros più antiche di Spagna e l'alberata Alameda del Tajo incorniciano miradores mozzafiato affacciati sul precipizio`,
+      highlight: `i belvedere del Puente Nuevo e della gola di El Tajo, i viali ombreggiati e il Balcón del Tajo dell'Alameda del Tajo, e i vicoli acciottolati di La Ciudad`,
+      area: `lo storico quartiere di La Ciudad a sud della gola, la città nuova del Mercadillo intorno a Plaza del Socorro, e la passeggiata sul ciglio del precipizio dell'Alameda del Tajo`,
+    },
+    sibiu: {
+      personality: `una compatta città medievale sassone nel cuore della Transilvania, dove le acciottolate Piața Mare e Piața Mică, le case pastello delle corporazioni e il vastissimo museo all'aperto ASTRA incorniciano un centro storico insolitamente pedonale, con in più tre parchi per cani sgambati aperti nel 2023 e un facile accesso ai monti Făgăraș`,
+      highlight: `i tre parchi per cani recintati in Strada Maramureșului, Aleea Șelimbăr e Oașa, il verde Parcul Sub Arini, e gli spazi all'aperto del museo ASTRA`,
+      area: `il centro storico intorno a Piața Mare e Piața Mică, il quartiere del parco Sub Arini, e le strade sotto la Torre del Consiglio`,
+    },
+    orvieto: {
+      personality: `una città dorata arroccata su una rupe di tufo nel sud dell'Umbria, dove una funicolare pet-friendly sale fino al Duomo gotico, un sottosuolo pieno di grotte e vicoli in pietra, il tutto circondato dall'Anello della Rupe, percorribile con il cane al guinzaglio`,
+      highlight: `l'Anello della Rupe intorno alla città, il tour di Orvieto Underground tra le grotte con il cane al guinzaglio, e il verde Parco delle Grotte lì accanto`,
+      area: `il centro storico arroccato intorno a Piazza Duomo e Corso Cavour, il tranquillo quartiere di San Giovenale, e l'anello delle mura sotto la città`,
+    },
+    sydney: {
+      personality: `una delle grandi città più dog-friendly al mondo, dove uno stile di vita all'aperto fantastico, fatto di spiagge per cani sul porto, enormi parchi liberi e locali con terrazza aperti tutto l'anno, compensa regole rigide per zone sulle spiagge e una rete di trasporto pubblico che esclude quasi del tutto gli animali`,
+      highlight: `i prati liberi di Sydney Park e Centennial Parklands, la spiaggia per cani sul porto di Rose Bay, e il Federation Cliff Walk a picco sulla scogliera`,
+      area: `l'inner west intorno ad Alexandria e Leichhardt, i sobborghi orientali da Rose Bay a Watsons Bay, e il lungomare di Barangaroo`,
+    },
+    sylt: {
+      personality: `la principale isola balneare tedesca sul Mare del Nord, dove 40 chilometri di dune e una serie di spiagge per cani ufficiali la rendono uno dei posti più genuinamente accoglienti per i cani in tutto il paese`,
+      highlight: `le spiagge per cani designate a Westerland, Kampen e List, la scogliera rossa e luminosa del Rotes Kliff a Kampen, e le passerelle della Braderuper Heide`,
+      area: `Westerland, Kampen, e il villaggio frisone dai tetti di paglia di Keitum`,
+    },
+    scheveningen: {
+      personality: `la stazione balneare dell'Aia sul Mare del Nord, un vivace quartiere urbano sul mare dove un lungo boulevard, un molo simbolo della città e dune protette incontrano spiagge per cani aperte tutto l'anno a entrambi gli estremi della costa`,
+      highlight: `le spiagge per cani aperte tutto l'anno al Noorderstrand e all'estremità Kijkduin dello Zuiderstrand, le dune del Westduinpark, e il Pier che si protende sul mare`,
+      area: `il boulevard Strandweg, il porto peschereccio ancora in attività, e le dune del Westduinpark verso Kijkduin`,
+    },
+    zandvoort: {
+      personality: `la città balneare di Amsterdam sul Mare del Nord, una stazione marina rilassata a un breve treno diretto dalla città, dove un'ampia spiaggia di sabbia, un lungo boulevard e riserve di dune ondulate incontrano regole stagionali e per zone sulle spiagge per cani`,
+      highlight: `la spiaggia libera in inverno (dal 1 ottobre al 15 aprile), la spiaggia per cani di Parnassia aperta tutto l'anno appena a nord a Bloemendaal aan Zee, e le dune per cani di Noordduinen`,
+      area: `il boulevard sul mare, le dune di Noordduinen e Kennemerland, e il vecchio villaggio intorno alla Grote Krocht`,
+    },
+    gijon: {
+      personality: `una rilassata città del sidro sulla costa cantabrica dove i cani trotterellano accanto ai padroni lungo il lungomare e sonnecchiano sotto i tavoli delle vivaci sidrerías.`,
+      highlight: `El Rinconín, la spiaggia per cani di Gijón aperta tutto l'anno, con tanto di parco recintato per cani liberi proprio accanto alla sabbia.`,
+      area: `Cimavilla, il vecchio quartiere di pescatori dipinto a colori vivaci, sale fino ai prati sulla scogliera del Cerro de Santa Catalina, perfetti per passeggiate al tramonto con il guinzaglio sotto la scultura di Chillida.`,
+    },
+    amalfi: {
+      personality: `Una delle città più belle della Costiera Amalfitana, ripida e assolata ma percorribile a piedi sul lungomare, premia i padroni di cani che si affidano ad autobus e traghetti e organizzano le giornate intorno al caldo estivo.`,
+      highlight: `Camminare nella fresca e ombreggiata riserva naturale della Valle delle Ferriere, poi il sentiero di crinale fino alla Torre dello Ziro sopra Atrani, entrambi aperti ai cani al guinzaglio.`,
+      area: `Sistemati nel centro pianeggiante sul mare vicino a Piazza Duomo, oppure nella tranquilla Atrani e nel villaggio giardino di Ravello per un'aria più fresca.`,
+    },
+    almeria: {
+      personality: `Assolata, rilassata e piacevolmente poco affollata, Almería premia i padroni di cani che organizzano le giornate intorno al caldo con spiagge vuote e ampi orizzonti desertici.`,
+      highlight: `Rinfrescarsi con il cane alla spiaggia ufficiale per cani di El Bobar, poi guardare il tramonto sulle mura illuminate dell'Alcazaba.`,
+      area: `Sistemati nel centro storico percorribile a piedi vicino alla Cattedrale, oppure a El Toyo e Retamar per l'accesso diretto alla spiaggia sul bordo di Cabo de Gata.`,
+    },
+    bayreuth: {
+      personality: `la verde città dei festival di Wagner nel cuore della Franconia`,
+      highlight: `i canali dell'Hofgarten, le follie del parco Eremitage, e i prati fluviali della Wilhelminenaue`,
+      area: `il centro storico, la Green Hill, e la valle del Roter Main`,
+    },
+    trento: {
+      personality: `una delle capitali alpine più accoglienti per i cani in Italia, con parchi recintati per cani in ogni quartiere e le montagne che si alzano proprio dal centro città`,
+      highlight: `i boschi di Gocciadoro, il belvedere della funivia di Sardagna, e le spiagge per cani del lago di Caldonazzo`,
+      area: `il centro storico affrescato, la collina di Gocciadoro, e Sardagna sopra la valle dell'Adige`,
+    },
+    kitzbuehel: {
+      personality: `la città sciistica più leggendaria delle Alpi, dove le gondole portano i cani gratis e i sentieri partono dalle porte medievali`,
+      highlight: `il percorso estivo Streif sull'Hahnenkamm, l'anello del lago Schwarzsee, e il Wildpark Aurach`,
+      area: `il centro storico murato, la riva dello Schwarzsee, e il lato soleggiato del Sonnberg`,
+    },
+    ravenna: {
+      personality: `Ravenna è una città dei mosaici pianeggiante e tranquilla, dove un cane al guinzaglio si trova naturalmente a suo agio tra piazze pedonali, sentieri nella pineta e il ritmo rilassato della costa adriatica.`,
+      highlight: `Abbina una mattinata tra i mosaici bizantini, visitati a turno, con un pomeriggio a passeggio nella Pineta di San Vitale e un bagno a una spiaggia per cani di Marina di Ravenna.`,
+      area: `Sistemati nel centro murato per i mosaici e la Tomba di Dante, oppure a Marina di Ravenna e nei lidi per l'accesso alla spiaggia e le trattorie di pesce.`,
+    },
+    "saint-malo": {
+      personality: `una delle città costiere murate più suggestive di Francia`,
+      highlight: `la passeggiata sui bastioni dell'intra-muros, la Plage du Sillon, e l'isolotto della Grand Be raggiungibile con la marea`,
+      area: `Intra-Muros, Parame, e la Costa Smeralda bretone (Emerald Coast)`,
+    },
+    quimper: {
+      personality: `una delle città storiche più suggestive e percorribili a piedi della Bretagna`,
+      highlight: `la cattedrale di Saint-Corentin e il centro storico a graticcio, le banchine sul fiume Odet, e il boscoso Mont Frugy`,
+      area: `il centro storico medievale, le banchine sull'Odet, e il quartiere della ceramica di Locmaria`,
+    },
+    carnac: {
+      personality: `una delle mete balneari dall'estate fresca più originali di Francia, costruita intorno al più grande campo al mondo di menhir neolitici`,
+      highlight: `gli allineamenti megalitici di Carnac a Menec, Kermario e Kerlescan, il sentiero costiero GR34, e il Tumulus Saint-Michel`,
+      area: `Carnac-Plage, Carnac-Ville intorno alla chiesa di Saint-Cornely, e la più ampia baia di Quiberon`,
+    },
+    quiberon: {
+      personality: `una delle fughe sul mare più selvagge e dog-friendly della Bretagna`,
+      highlight: `le scogliere selvagge della Cote Sauvage, la Grande Plage e il traghetto per Belle-Ile da Port Maria`,
+      area: `Port Maria, la Cote Sauvage e la Pointe du Conguel`,
+    },
+    ksamil: {
+      personality: `una delle mete balneari più belle ed emergenti della Riviera albanese, soprannominata le Maldive d'Europa`,
+      highlight: `i quattro isolotti turchesi di Ksamil, Pasqyra (Mirror) Beach, e le spiagge aperte in bassa stagione dove i cani girano liberi senza guinzaglio`,
+      area: `il villaggio di Ksamil, il parco nazionale di Butrint, e Saranda`,
+    },
+    saranda: {
+      personality: `una delle mete costiere dog-friendly più in ascesa dell'Albania`,
+      highlight: `il lungomare di Saranda, il belvedere del castello di Lekursi, e le rovine UNESCO di Butrint`,
+      area: `il lungomare, la sorgente del Blue Eye, e le colline con vista fino a Corfù`,
+    },
+    saturnia: {
+      personality: `un minuscolo villaggio termale sepolto nella Maremma toscana, costruito intorno alle piscine termali gratuite e all'aperto delle Cascate del Mulino, base per un turismo con animali genuinamente rurale e a bassa intensità, più che una gita di città`,
+      highlight: `le terme gratuite delle Cascate del Mulino, il programma VIPets del resort Terme di Saturnia, e la Porta Romana di epoca romana`,
+      area: `il borgo medievale murato, il resort Terme di Saturnia appena fuori, e la campagna maremmana più ampia verso Pitigliano e Sovana`,
+    },
+    sirmione: {
+      personality: `una romantica cittadina sulla penisola del Lago di Garda avvolta intorno al Castello Scaligero circondato dal fossato all'ingresso del centro storico, le rovine romane delle Grotte di Catullo in punta alla penisola, i bassifondi bianchi di roccia della Jamaica Beach, le terme dell'Aquaria e le passeggiate ombreggiate sul lago`,
+      highlight: `Jamaica Beach, il Lido delle Bionde, e la passeggiata sul lago fino alle Grotte di Catullo`,
+      area: `il Centro Storico, Colombare, e Lugana`,
+    },
+    "riva-del-garda": {
+      personality: `una delle più belle città d'Italia dove montagna e lago si incontrano all'aperto, con la passeggiata sul lungolago e la porticata Piazza III Novembre, la medievale Rocca di Riva, il Bastione a picco sulla scogliera, la cascata del Varone e le acque per windsurf con il sentiero del Ponale, un vero paradiso per chi ama i cani`,
+      highlight: `il sentiero del Ponale, il Monte Brione e la passeggiata sul lungolago`,
+      area: `Piazza III Novembre, Porto San Nicolò, e il lungolago di Viale Rovereto`,
+    },
+    "zahara-de-los-atunes": {
+      personality: `un paesino di pescatori tutto bianco sull'Atlantico avvolto intorno al Castillo de las Almadrabas della pesca del tonno, dove lunghe spiagge selvagge e dune corrono verso la costa di Atlanterra e la scogliera di Cabo de Plata, i chiringuitos servono il famoso tonno rosso di almadraba, e la spiaggia di sabbia lo rende perfetto per lunghi soggiorni estivi da fare a passo di cane`,
+      highlight: `la lunga spiaggia selvaggia di Playa de Zahara, la passerella tra le dune verso Atlanterra, e il sentiero costiero di Cabo de Plata`,
+      area: `il casco antiguo tutto bianco intorno a Calle María Luisa, i chiringuitos sul mare, e la costa di Atlanterra`,
+    },
+    sibenik: {
+      personality: `una città dalmata in pietra millenaria avvolta intorno alla Cattedrale di San Giacomo, patrimonio UNESCO, vegliata dalle fortezze di San Michele, Barone e San Giovanni, i cui vicoli medievali del centro storico sfociano sul lungomare della Riva e aprono la strada verso le cascate del Krka e le isole Kornati`,
+      highlight: `la Fortezza di San Michele, il parco boschivo di Subicevac, e i sentieri per cani al guinzaglio del parco nazionale di Krka`,
+      area: `il centro storico, il lungomare della Riva, e Mandalina`,
+    },
+    limassol: {
+      personality: `una delle città più rilassate e percorribili a piedi sulla costa meridionale di Cipro, dove il lungomare di Molos con il suo parco delle sculture, il castello medievale di Limassol e il centro storico, la Marina, la spiaggia Lady's Mile, e le antiche rovine di Kourion e Amathus sono tutti facili da esplorare con il cane`,
+      highlight: `il lungomare di Molos, il parco per cani di Zakaki, e gli spazi aperti dell'antica Kourion`,
+      area: `il centro storico, il lungomare di Molos, e la Marina`,
+    },
+    trapani: {
+      personality: `un porto assolato della Sicilia occidentale definito dalle saline e dai mulini a vento delle Saline di Trapani, un centro storico a forma di falce che si protende sul mare lungo Via Garibaldi, la Torre di Ligny sul lungomare, gli aliscafi Liberty Lines verso le isole Egadi e la funivia che sale fino alla medievale Erice`,
+      highlight: `il Lungomare Dante Alighieri, il giardino di Villa Regina Margherita e le strade tra le saline delle Saline di Trapani`,
+      area: `il centro storico, il Lungomare, e il borgo collinare di Erice`,
+    },
+    sliema: {
+      personality: `una delle città sul mare più percorribili a piedi di Malta, dove il lungomare corre da Tigne Point oltre la roccia degli Exiles e il litorale di Qui-si-Sana fino a St Julian's`,
+      highlight: `il lungomare di Sliema, il waterfront di Tigne Point, e il breve traghetto verso lo skyline di Valletta`,
+      area: `Tigne Point, lo Strand sul mare, e il litorale degli Exiles`,
+    },
+    "costa-da-caparica": {
+      personality: `una lunga città balneare atlantica appena a sud di Lisbona, dove le infinite praias numerate e il vecchio trenino Transpraia, l'avenida sul mare e la vecchia città di pescatori, le scogliere fossili di Arriba Fossil e la pineta di Mata dos Medos si trovano tutti a una breve traversata dalla capitale`,
+      highlight: `le praias meridionali verso Fonte da Telha, i sentieri sulla scogliera di Arriba Fossil, e la pineta di Mata dos Medos`,
+      area: `l'avenida sul mare, la vecchia città di pescatori, e Fonte da Telha`,
+    },
+    cassis: {
+      personality: `un pittoresco porto di pescatori provenzale vicino a Marsiglia, avvolto intorno al suo porticciolo pieno di barche sotto le imponenti scogliere di Cap Canaille, con le Calanques di Port-Miou, Port-Pin e En-Vau, la Plage de la Grande Mer e vigneti storici a due passi, anche se il nucleo protetto del Parco Nazionale delle Calanques vieta perlopiù i cani`,
+      highlight: `il porto di pescatori e il Quai des Baux, la strada panoramica di Cap Canaille, e la calanque periferica di Port-Miou`,
+      area: `il porto vecchio, il Bestouan, e i vigneti AOC Cassis`,
+    },
+    "lignano-sabbiadoro": {
+      personality: `una lunga spiaggia dorata Bandiera Blu sull'Adriatico del Friuli-Venezia Giulia, la cui spiaggia dedicata Doggy Beach, la spirale modernista della pineta, il landmark Terrazza a Mare e la tranquilla laguna di Marano la rendono un'ottima base per lunghi soggiorni in famiglia con il cane`,
+      highlight: `la spiaggia per cani Doggy Beach, la lunga spiaggia Bandiera Blu per famiglie, e la pineta ombreggiata con l'Hemingway Park`,
+      area: `Sabbiadoro, Lignano Pineta, e Lignano Riviera`,
+    },
+    bibione: {
+      personality: `una delle mete balneari di punta d'Europa per viaggiare con il cane, avvolta intorno alla lunga sabbia Bandiera Blu dell'Adriatico, la famosa spiaggia per cani Spiaggia di Pluto, le terme di Bibione Thermae e il faro di Bibione tra le pinete del Tagliamento`,
+      highlight: `la spiaggia per cani Spiaggia di Pluto, il sentiero nella pineta del Faro di Bibione, e la passeggiata di 8 km sul lungomare`,
+      area: `Bibione Spiaggia, Bibione Pineda, e Lido dei Pini vicino alla spiaggia per cani`,
+    },
+    "cap-ferret": {
+      personality: `una penisola atlantica a piedi nudi coronata dal faro di Phare du Cap-Ferret, punteggiata dalle colorate cabane degli ostricoltori di L'Herbe e Le Canon, e distesa tra le spiagge tranquille del Bassin e il surf selvaggio dell'oceano di fronte alla Dune du Pilat dall'altra parte della baia`,
+      highlight: `le piste ciclabili nella pineta, l'anello della Pointe aux Chevaux, e le riserve naturali di Piraillan`,
+      area: `Claouey, L'Herbe, e il villaggio di Le Cap-Ferret`,
+    },
+    "saint-jean-de-luz": {
+      personality: `una delle più belle stazioni balneari della costa basca francese, dove la baia riparata della Grande Plage con le sue tre dighe incontra un centro storico pedonale dominato dalla Eglise Saint-Jean-Baptiste, dove Luigi XIV si sposò nel 1660, il porto peschereccio ancora attivo e la Maison Louis XIV, con il promontorio di Sainte-Barbe che apre sulla corniche basque a picco sul mare verso Hendaye`,
+      highlight: `la passeggiata sulla baia e le dighe, il promontorio di Sainte-Barbe, e il sentiero costiero della corniche basque`,
+      area: `il centro storico intorno a Place Louis XIV, il porto peschereccio, e il promontorio di Sainte-Barbe`,
+    },
+    "conil-de-la-frontera": {
+      personality: `una delle città balneari più rilassate della Costa de la Luz, dove un centro storico tutto bianco coronato dalla Torre de Guzman incontra le lunghe sabbie atlantiche di Playa de los Bateles e Fontanilla, il surf di El Palmar e le scogliere e calette color arancio di Cabo Roche`,
+      highlight: `Playa de los Bateles, la pineta del Pinar de Roche, e il sentiero sulla scogliera di Cabo Roche`,
+      area: `il casco antiguo, la costa di Roche, e la zona umida del Rio Salado`,
+    },
+    mojacar: {
+      personality: `un borgo collinare tutto bianco sopra circa 7 km di lungomare della Costa de Almería, con la lunga passeggiata di Mojácar Playa, la nuova spiaggia per cani di Playa del Perulejo e l'antica torre di avvistamento di Macenas sulla costa selvaggia meridionale`,
+      highlight: `il lungo e piatto Paseo Marítimo, la spiaggia per cani di Perulejo vicino a Macenas e i miradores del pueblo`,
+      area: `Mojácar Pueblo, il lungomare di Mojácar Playa e la costa di Macenas`,
+    },
+    gandia: {
+      personality: `una città balneare della Costa de Valencia dove si incontrano l'ampia Playa de Gandía (Platja Nord), la spiaggia naturale tra le dune di l'Ahuir con la sua zona di prova per cani, il Palazzo Ducale dei Borgia nel centro storico e la vivace marina del porto`,
+      highlight: `il lungo Paseo Marítimo Neptuno percorribile con il cane, la passeggiata lungo il fiume Serpis e la greenway della Vía Verda, raggiungibili con il treno Cercanías gratuito da Valencia`,
+      area: `il Grau e Playa de Gandía, il centro storico e l'Ahuir`,
+    },
+    naxos: {
+      personality: `la gigante verde e rilassata delle Cicladi, dove la porta di marmo del Portara del Tempio di Apollo incornicia il tramonto sul centro storico e il kastro di Chora`,
+      highlight: `il promontorio del Portara, le lunghe spiagge di St George e Plaka, e i villaggi di marmo di Halki e Apiranthos`,
+      area: `Naxos Town (Chora), Agios Georgios, e le spiagge meridionali di Agios Prokopios, Agia Anna e Plaka`,
+    },
+    trogir: {
+      personality: `un minuscolo centro storico murato patrimonio UNESCO su un'isola dalmata, coronato dalla Cattedrale di San Lorenzo e dalla fortezza di Kamerlengo sul mare`,
+      highlight: `i vicoli di marmo del centro storico, la passeggiata sul lungomare della Riva bordata di palme, e i sentieri ombreggiati di pini di Pantan`,
+      area: `l'isola del centro storico UNESCO, il lungomare della Riva, e le vicine spiagge dell'isola di Ciovo`,
+    },
+    portimao: {
+      personality: `una vivace città portuale dell'Algarve avvolta intorno al fiume Arade, coronata dalla dorata spiaggia di Praia da Rocha sotto scogliere rosse spettacolari, con un'animata marina sul lungofiume, il centro storico intorno a Largo 1 de Dezembro e la passerella dell'estuario di Alvor lì vicino`,
+      highlight: `la passerella sulla scogliera di Praia da Rocha, la passeggiata sul lungofiume Arade e la passerella dell'estuario di Ria de Alvor`,
+      area: `Praia da Rocha, il centro storico e il lungofiume Arade`,
+    },
+    larnaca: {
+      personality: `una delle città costiere più rilassate di Cipro, dove il lungomare bordato di palme di Finikoudes, la Chiesa di San Lazzaro, il lago salato di Larnaca pieno di fenicotteri accanto alla moschea di Hala Sultan Tekke e la marina si trovano tutti a portata di una tranquilla passeggiata con il cane`,
+      highlight: `il sentiero naturalistico del lago salato di Larnaca, il lungomare di Finikoudes e il parco recintato per cani di Larnaca`,
+      area: `il lungomare di Finikoudes, il centro storico intorno a San Lazzaro, e Mackenzie Beach`,
+    },
+    "las-palmas": {
+      personality: `la capitale delle Isole Canarie su Gran Canaria, una città compatta per il sole invernale dove i balconi coloniali del centro storico di Vegueta, il Parque Santa Catalina bordato di palme e la lunga curva del lungomare di Las Canteras si trovano tutti a portata di mano sotto un clima subtropicale quasi senza stagioni`,
+      highlight: `i parchi recintati per cani pipican sparsi per la città, la spiaggia per cani di Bocabarranco all'estremità sud della città, e i freschi sentieri d'altura intorno a Roque Nublo per una gita di un giorno`,
+      area: `il centro storico di Vegueta, Santa Catalina vicino alla marina, e il lungomare di Las Canteras`,
+    },
+    kefalonia: {
+      personality: `la più grande e spettacolare delle isole Ionie, avvolta intorno al lungomare di Argostoli e al suo ponte di pietra De Bosset, con il belvedere sulla spiaggia di Myrtos, il villaggio arroccato sulla scogliera di Assos, la grotta di Melissani e il porticciolo color pastello di Fiskardo`,
+      highlight: `il sentiero della laguna di Koutavos, l'anello del faro di Katavothres, e le pinete del parco nazionale del Monte Ainos`,
+      area: `Argostoli, Fiskardo, e Assos`,
+    },
+    estepona: {
+      personality: `una città tutta bianca della Costa del Sol le cui strade del centro storico piene di vasi di fiori, la Ruta de Murales all'aperto e la Plaza de las Flores tra gli aranci scendono fino a una marina da 447 posti barca, con il parco botanico Orquidario e il parco safari Selwo lì vicino`,
+      highlight: `le strade del centro storico piene di vasi di fiori, la passeggiata Senda Litoral e il parco recintato per cani di Las Mesas`,
+      area: `il Casco Antiguo, il Puerto Deportivo e la New Golden Mile`,
+    },
+    "la-spezia": {
+      personality: `una rilassata città portuale ligure e la porta d'accesso più facile alle Cinque Terre per chi viaggia con il cane`,
+      highlight: `la passeggiata sul lungomare Morin e i giardini pubblici, il Castello San Giorgio in collina, e la linea ferroviaria delle Cinque Terre`,
+      area: `il lungomare Morin e i giardini pubblici, il centro storico intorno a Via del Prione, e il Golfo dei Poeti verso Portovenere e Lerici`,
+    },
+    gozo: {
+      personality: `la seconda isola più tranquilla di Malta, dove la Cittadella arroccata di Victoria, la distesa di sabbia rossa di Ramla Bay, la spettacolare costa di Dwejra con l'Inland Sea, la caletta riparata di Xlendi Bay e i templi preistorici di Ggantija si trovano tutti a breve distanza in auto l'uno dall'altro`,
+      highlight: `i sentieri sulla scogliera di Ta' Cenc, i percorsi costieri di Dwejra, e la passeggiata ombreggiata nella valle di Mgarr ix-Xini`,
+      area: `Victoria (Rabat), Marsalforn, e Xlendi`,
+    },
+    syracuse: {
+      personality: `una gemma siciliana assolata la cui vita si svolge all'aperto sull'isola di Ortigia, intorno a Piazza Duomo, la leggendaria Fonte Aretusa, il parco archeologico della Neapolis e il ventoso Lungomare`,
+      highlight: `il Lungomare di Ortigia, i giardini del Foro Siracusano e le spiagge per cani di Marina di Priolo e Fontane Bianche`,
+      area: `Ortigia, il centro sulla terraferma intorno al Foro Siracusano, e il quartiere archeologico della Neapolis`,
+    },
+    zakynthos: {
+      personality: `un'isola ionica rilassata e votata alla vita all'aperto, dove i padroni di cani passeggiano tra le piazze veneziane di Zakynthos Town, salgono fino al belvedere del castello di Bochali tra i pini e girano tra gli uliveti della penisola di Vasilikos, con attenzione alla costa delle tartarughe rigorosamente protetta intorno a Gerakas`,
+      highlight: `Solomos Square, il belvedere della collina di Bochali e le passeggiate sulla penisola di Vasilikos`,
+      area: `Zakynthos Town, Bochali e la penisola di Vasilikos`,
+    },
+    nerja: {
+      personality: `una città assolata della Costa del Sol coronata dal promontorio del Balcón de Europa, con le preistoriche Grotte di Nerja, le dorate spiagge di Burriana e Carabeo e la chiesa tutta bianca di El Salvador nel cuore del paese`,
+      highlight: `la passeggiata del Balcón de Europa, il percorso lungo il fiume Río Chíllar e i due nuovi parchi recintati per cani`,
+      area: `il centro storico, Burriana e Carabeo`,
+    },
+    paphos: {
+      personality: `una delle città costiere più assolate e ricche di storia di Cipro, dove il porto con il suo castello medievale, il parco archeologico di Kato Paphos, il sentiero costiero verso Coral Bay e la spiaggia comunale si trovano tutti a portata di una tranquilla passeggiata`,
+      highlight: `il lungomare di Paphos Coastal Broadwalk, il parco comunale del centro storico, e il sentiero ombreggiato della gola di Avakas`,
+      area: `Kato Paphos, il centro storico (Ktima), e Coral Bay`,
+    },
+    olbia: {
+      personality: `la porta d'accesso assolata alla Costa Smeralda della Sardegna, dove la basilica di granito di San Simplicio, la pedonale Corso Umberto e il tranquillo Golfo di Olbia si aprono sulle spiagge turchesi di Pittulongu`,
+      highlight: `la spiaggia per cani di Le Saline, il Parco Fausto Noce e il pozzo sacro di Sa Testa`,
+      area: `il centro storico intorno a Corso Umberto, il lungomare di Pittulongu e la costa della Costa Smeralda`,
+    },
+    olhao: {
+      personality: `il porto peschereccio piu autentico dell'Algarve, dove il centro storico bianco cubista e i mercati in mattoni rossi del 1916 sul lungomare si aprono sulla laguna della Ria Formosa e le sue isole barriera di Armona, Culatra e Farol`,
+      highlight: `il Parque Canino do Levante, i giardini sul lungomare vicino ai mercati, e le spiagge fuori stagione delle isole di Armona e Culatra`,
+      area: `il centro storico cubista, il lungomare dei mercati, e le isole della Ria Formosa`,
+    },
+    budva: {
+      personality: `una vivace citta turistica adriatica che si stringe attorno alla citta vecchia murata di Stari Grad, la lunga spiaggia di Slovenska Plaza, il sentiero costiero panoramico di Mogren e la vista da cartolina della vicina Sveti Stefan`,
+      highlight: `il Sentiero Costiero di Mogren, la passeggiata di Slovenska Plaza, e i vicoli del centro storico di Stari Grad`,
+      area: `Stari Grad, Slovenska Plaza, e Becici`,
+    },
+    paros: {
+      personality: `una delle isole delle Cicladi piu tranquille per chi ha un cane, dove giri tra il porto di Parikia e il cortile della chiesa Panagia Ekatontapiliani, il villaggio di pescatori di Naoussa e le calette di granito di Kolymbithres, prima di rifugiarti sui sentieri di marmo piu freschi sopra Lefkes`,
+      highlight: `il sentiero bizantino da Lefkes, la passeggiata sul porto di Naoussa e le calette di granito di Kolymbithres`,
+      area: `Parikia, il villaggio di pescatori di Naoussa e la costa di Golden Beach e Kolymbithres`,
+    },
+    cefalu: {
+      personality: `uno dei borghi di mare piu fotogenici della Sicilia`,
+      highlight: `la cattedrale normanna, il promontorio della Rocca, e il Lungomare`,
+      area: `il centro storico medievale, il Lungomare, e la lunga spiaggia sabbiosa cittadina`,
+    },
+    cartagena: {
+      personality: `una delle citta portuali spagnole piu ricche di storia e piu adatte a passeggiare col cane`,
+      highlight: `il parco archeologico all'aperto del Cerro del Molinete, la Calle Mayor lastricata di marmo, e la passeggiata sul porto Paseo Alfonso XII bordata di palme`,
+      area: `il casco antiguo attorno al Teatro Romano, il Puerto sul porto, e il Parque de la Rosa con l'area cani recintata`,
+    },
+    kolobrzeg: {
+      personality: `una localita termale baltica piatta e facile da girare a piedi, che dal 2025 ha aperto tutte le sue spiagge ai cani al guinzaglio, costruita attorno a un faro storico, un molo in cemento di 220 metri, e l'ombreggiato Nadmorski Park Zdrojowy`,
+      highlight: `l'area del faro Latarnia Morska, il molo Molo Kolobrzeskie, e la passeggiata sul lungomare attraverso il parco termale`,
+      area: `il lungomare del porto attorno a via Towarowa, la citta vecchia vicino a via Narutowicza, e il quartiere termale vicino al molo`,
+    },
+    swinoujscie: {
+      personality: `la localita termale balneare piu a ovest della Polonia, distesa su tre isole baltiche proprio al confine con la Germania, sede della prima spiaggia per cani del paese e di uno dei tratti di sabbia piu ampi`,
+      highlight: `il faro piu alto della costa baltica polacca, il segnale di navigazione a forma di mulino Stawa Mlyny, e l'area cani recintata senza guinzaglio dentro il Park Zdrojowy`,
+      area: `il quartiere termale attorno a via Uzdrowiskowa, la passeggiata alla foce del porto vicino a Stawa Mlyny, e il lungomare che si estende verso Ahlbeck sull'isola di Usedom`,
+    },
+    kotor: {
+      personality: `una delle citta costiere murate piu suggestive del Montenegro`,
+      highlight: `la citta vecchia murata, la passeggiata sul lungomare di Dobrota, e il fiordo della Baia di Kotor`,
+      area: `la citta vecchia, Dobrota, e la vicina Perast`,
+    },
+    makarska: {
+      personality: `una delle citta pet-friendly piu rilassate della costa dalmata`,
+      highlight: `la penisola di Sveti Petar, il parco forestale di Osejava, e la spiaggia per cani di Cvitacka`,
+      area: `la passeggiata sul lungomare Riva, la citta vecchia attorno a Piazza Kacic, e la pineta della penisola di San Pietro`,
+    },
+    rhodes: {
+      personality: `un'isola greca rilassata e a misura di outdoor, dove chi ha un cane gira per la citta vecchia medievale chiusa al traffico, la passeggiata sul porto di Mandraki e calette tranquille e non attrezzate, prima di rifugiarsi tra i ruscelli ombreggiati del Parco Rodini`,
+      highlight: `il Parco Rodini, la passeggiata sul lungomare di Mandraki e il giro sul fossato della citta vecchia`,
+      area: `la citta vecchia medievale, Mandraki e la costa di Ixia e Ialysos`,
+    },
+    rethymno: {
+      personality: `uno dei centri storici piu suggestivi della Grecia, dove un porto veneziano, la Fortezza in cima alla collina e la lunga spiaggia cittadina di Rethymno stanno tutti a portata di una comoda passeggiata al guinzaglio`,
+      highlight: `il Vecchio Porto Veneziano, il promontorio della Fortezza, e il Giardino Municipale ombreggiato`,
+      area: `la citta vecchia, il porto veneziano, e la passeggiata sul lungomare`,
+    },
+    alghero: {
+      personality: `una citta murata dal sapore catalano dove puoi passeggiare sui bastioni pedonali affacciati sul mare, girare per il lungomare del Lido di San Giovanni e raggiungere le spiagge per cani ufficiali di Maria Pia e La Stalla`,
+      highlight: `la passeggiata sui bastioni a mare, la Pineta di Maria Pia e la spiaggia per cani di Maria Pia`,
+      area: `Centro Storico, Lido di San Giovanni e la pineta di Maria Pia`,
+    },
+    tenby: {
+      personality: `una citta portuale murata medievale sulla costa sud del Pembrokeshire dove i cani condividono il sentiero costiero, i pub sul porto e le gite gratuite in barca a Caldey Island, con tre spiagge regolate da norme stagionali per cani facili da pianificare`,
+      highlight: `il tratto di South Beach vicino a Penally, dog-friendly tutto l'anno, il Pembrokeshire Coast Path verso Penally, e le gite gratuite in barca a Caldey Island`,
+      area: `le mura medievali e il porto, Castle Hill sopra le spiagge, e il tratto di South Beach vicino a Penally con le sue dune`,
+    },
+    tenerife: {
+      personality: `un'isola subtropicale attiva tutto l'anno dove i cani passeggiano sulle passeggiate bordate di palme di Costa Adeje e Los Cristianos con il sole invernale, sguazzano nella spiaggia per cani di Playa del Cabezo a El Medano, e si rinfrescano sui sentieri ombreggiati della foresta di lauro del parco rurale di Anaga sotto il vulcanico Teide`,
+      highlight: `i posti migliori per cani sono la spiaggia per cani ufficiale di Playa del Cabezo a El Medano, la lunga passeggiata costiera di Costa Adeje, e i sentieri segnalati e ombreggiati del Parque Rural de Anaga`,
+      area: `la maggior parte dei viaggiatori alloggia nella fascia turistica meridionale di Costa Adeje, Playa de las Americas e Los Cristianos, con basi piu verdi a Puerto de la Cruz e nel capoluogo Santa Cruz`,
+    },
+    "gran-canaria": {
+      personality: `soprannominata il continente in miniatura, Gran Canaria regala a chi ha un cane calore tutto l'anno e un ritmo costruito attorno all'outdoor, dal paseo di 3 km sul lungomare di Playa de Las Canteras a Las Palmas alle dune dorate di Maspalomas fino al borgo di montagna in pietra di Tejeda sotto il monolite del Roque Nublo`,
+      highlight: `passeggiate al guinzaglio per tutta la lunghezza del paseo di Las Canteras, la spiaggia per cani ufficiale di El Burrero vicino all'aeroporto, e il parque canino recintato di San Fernando de Maspalomas`,
+      area: `Las Palmas per la spiaggia cittadina e il centro storico, Maspalomas e Playa del Ingles per le localita turistiche del sud, e Puerto de Mogan e Meloneras per soggiorni piu tranquilli sul mare`,
+    },
+    lanzarote: {
+      personality: `Lanzarote ripaga chi ha un cane con calore tutto l'anno e paesaggi vulcanici fuori dal comune, dai campi di lava nera e i vigneti de La Geria attorno a Timanfaya ai monumenti di Cesar Manrique che definiscono l'isola, tutto percorribile al guinzaglio e abbastanza a sud da rendere normali i pasti in terrazza d'inverno col proprio cane`,
+      highlight: `cammina sulla spiaggia per cani delimitata di Playa de Guacimeta vicino all'aeroporto, fai il bagno nella sezione per cani di Playa de las Coloradas vicino alla Marina Rubicon, e passeggia lungo la strada del vino de La Geria costeggiata di cantine con un cane al guinzaglio`,
+      area: `la maggior parte dei proprietari di cani si basa nella turistica Playa Blanca a sud, nella vivace Puerto del Carmen sulla costa centrale, o sul lungomare tranquillo di Costa Teguise, con il capoluogo Arrecife comodo per un soggiorno cittadino economico`,
+    },
+    "a-coruna": {
+      personality: `la citta portuale atlantica della Galizia, costruita attorno alla Torre di Ercole patrimonio UNESCO (l'unico faro romano ancora in servizio), con la passeggiata urbana sul lungomare piu lunga del mondo a 13 km, una zona senza guinzaglio ufficiale a Parque de Santa Margarita e un ospedale veterinario 24 ore su via Marques de Amboage`,
+      highlight: `i 13 km del Paseo Maritimo dalle gallerie della Marina intorno al parco sulla scogliera della Torre di Ercole fino al Castillo de San Anton, piu le spiagge di Riazor e Orzan fuori stagione (ottobre-maggio) e il belvedere atlantico di Monte San Pedro`,
+      area: `la Ciudad Vieja attorno a Plaza de Maria Pita e via Estrella, la Marina con le sue gallerie di vetro, e i quartieri residenziali di Pescaderia e Cuatro Caminos verso l'interno`,
+    },
+    aarhus: {
+      personality: `la seconda citta della Danimarca, la cultura dei caffe piu tollerante verso gli animali di tutta la Scandinavia dopo Copenaghen, con trasporti pubblici gratuiti per i cani e 8 foreste ufficiali senza guinzaglio`,
+      highlight: `Marselisborg Hundeskov, la spiaggia per cani di Bellevue Strand aperta tutto l'anno, e il museo all'aperto Den Gamle By`,
+      area: `il quartiere latino, Frederiksbjerg, e l'area del porto Dokk1`,
+    },
+    "abu-dhabi": {
+      personality: `la capitale degli Emirati, che si sta aprendo velocemente ai cani da quando una norma di gennaio 2026 permette a hotel e ristoranti autorizzati di accogliere gatti e cani, con Yas Island come vero polo pet-friendly e cliniche veterinarie 24 ore, anche se resta piu limitata dell'Europa, senza spiagge per cani e con la maggior parte dei monumenti off-limits`,
+      highlight: `la passeggiata sul lungomare Corniche di 8 km, i lungomare pet-friendly di Yas Bay e Yas Marina, Reem Central Park, e Bark Park ad Al Bateen, l'unica area senza guinzaglio della citta`,
+      area: `Yas Island e Saadiyat per la maggiore concentrazione di hotel pet-friendly e terrazze di caffe che accolgono i cani, piu i quartieri centrali della Corniche e Khalifa City per veterinari e pensioni`,
+    },
+    "aix-en-provence": {
+      personality: `l'elegante citta universitaria provenzale del diciassettesimo secolo dove le terrazze ombreggiate dei caffe, le piazze con le fontane e l'imponente massiccio della Sainte-Victoire la rendono una delle citta piu genuinamente tolleranti verso i cani della Francia meridionale`,
+      highlight: `la volta di platani di Cours Mirabeau, il Parc Jourdan, e i sentieri di Bibemus e Bimont sulla Sainte-Victoire`,
+      area: `il centro storico, il Quartier Mazarin, e la collina dei Lauves attorno all'atelier di Cezanne`,
+    },
+    "aix-les-bains": {
+      personality: `una compatta localita termale savoiarda sulla riva del Lac du Bourget, il piu grande lago naturale di Francia, dove la foresta di Bois Vidal e un sentiero verde lungolago sostituiscono le terme e le spiagge sorvegliate off-limits per i cani`,
+      highlight: `la foresta di Bois Vidal di 18 ettari, i giardini storici del Parc Thermal, e il sentiero verde lungolago vicino a Cap des Seselets`,
+      area: `il lungolago Esplanade e Petit Port, il quartiere termale attorno ai Thermes Nationaux, e la collina di Bois Vidal sopra la citta`,
+    },
+    ajaccio: {
+      personality: `la capitale soleggiata della Corsica e citta natale di Napoleone, una cittadella genovese su un golfo mediterraneo riparato dove inverni miti tutto l'anno, sentieri panoramici sulla macchia in cresta, gite in barca alle Sanguinaires e la spiaggia per cani selvaggia di Capo di Feno la rendono la base piu pet-friendly dell'isola`,
+      highlight: `il Sentier des Cretes in cresta, la Pointe de la Parata e le isole Sanguinaires, e la spiaggia per cani di Capo di Feno aperta tutto l'anno`,
+      area: `il Quartier des Etrangers attorno a Cours Grandval, la Vieille Ville attorno alla Maison Bonaparte, e il lungomare Quai Napoleon sulla marina`,
+    },
+    alcudia: {
+      personality: `una citta di 21.000 abitanti nel nord di Maiorca con mura medievali del quattordicesimo secolo intatte (1,5 km di perimetro percorribile con il cane), le rovine romane di Pollentia del primo secolo a.C. (foro, quartiere residenziale, teatro), la zona umida UNESCO Ramsar di S'Albufera, i 6 km di Platja d'Alcudia e il catamarano veloce Iscomar di un'ora per Ciutadella de Menorca`,
+      highlight: `la passeggiata sul perimetro di 1,5 km delle mura medievali, l'area archeologica romana aperta di Pollentia, e la gita in auto al faro di Cap de Formentor sulla scogliera 30 km a nord`,
+      area: `il casc antic dentro le mura medievali attorno a Placa de la Constitucio, il porto Port d'Alcudia 2 km a sud, e il villaggio di pescatori di Mal Pas-Bonaire sulla costa nord`,
+    },
+    albufeira: {
+      personality: `la piu grande localita balneare dell'Algarve, una citta su scogliera dalle due facce, dove la Cidade Velha medievale acciottolata scende fino alla spiaggia dei pescatori e la vivace fascia turistica si estende a est, con spiagge per cani aperte tutto l'anno appena fuori citta e circa 300 giorni di sole all'anno, che la rendono una delle mete balneari pet-friendly piu interessanti dell'Europa meridionale fuori dal picco di luglio-agosto`,
+      highlight: `il sentiero panoramico sulla scogliera di Pine Cliffs tra Praia da Falesia e Olhos de Agua, Praia da Cova Redonda (spiaggia per cani tutto l'anno), e la passerella sui fenicotteri di Praia dos Salgados`,
+      area: `la Cidade Velha attorno al belvedere di Pau da Bandeira, la passeggiata sulla marina, e la costa turistica di Praia da Gale a ovest della citta`,
+    },
+    alicante: {
+      personality: `la soleggiata capitale della Costa Blanca con oltre 320 giorni di sole all'anno, dove il Castillo de Santa Barbara, la Explanada bordata di palme e la spiaggia per cani aperta tutto l'anno di Agua Amarga la rendono una delle basi mediterranee piu genuinamente pet-friendly della Spagna`,
+      highlight: `i sentieri all'aperto del Castillo de Santa Barbara, Playa de Agua Amarga (spiaggia per cani tutto l'anno), e la passeggiata costiera della Serra Grossa`,
+      area: `il Casco Antiguo (Santa Cruz) sotto il castello, il lungomare Explanada de Espana, e la passeggiata di Playa de San Juan a nord della citta`,
+    },
+    amsterdam: {
+      personality: `una delle capitali europee piu rilassate e accoglienti verso gli animali`,
+      highlight: `il Vondelpark e le rive senza guinzaglio del fiume Amstel`,
+      area: `il quartiere Jordaan e la cintura dei canali`,
+    },
+    angers: {
+      personality: `la capitale verde dell'Anjou nella Valle della Loira, con il castello medievale d'Angers e il suo famosissimo Arazzo dell'Apocalisse, oltre 700 ettari di spazi verdi comunali, e un collegamento TGV di 90 minuti con Parigi`,
+      highlight: `la Promenade du Bout du Monde sotto le mura del castello, i sentieri boschivi del Parc de Pignerolle 8 km a est, e i sentieri alzaia del Bord de Maine`,
+      area: `il centro pedonale attorno a Place du Ralliement, il quartiere medievale della Doutre oltre la Maine, e Saint-Aubin vicino alla cattedrale`,
+    },
+    annecy: {
+      personality: `la 'Venezia delle Alpi', una Vieille Ville medievale sui canali patrimonio UNESCO, il lago grande piu pulito d'Europa con punti balneari per cani tutto l'anno, e la foresta di 4.000 ettari del Semnoz con 50 km di sentieri senza guinzaglio proprio a sud del centro`,
+      highlight: `il Pont des Amours e i canali della Vieille Ville, la pista ciclabile piatta di 42 km che gira il lago, e la vetta della foresta del Semnoz a 1.699 m`,
+      area: `la Vieille Ville attorno al Palais de l'Ile, il lungolago di Paquier e Albigny, e la residenziale Annecy-le-Vieux`,
+    },
+    antibes: {
+      personality: `un porto della Costa Azzurra circondato dai bastioni Vauban del sedicesimo secolo, con una delle passeggiate per cani piu gratificanti della Riviera intorno a Cap d'Antibes e un mercato provenzale sotto tettoie in ferro nella Vieil Antibes`,
+      highlight: `il sentiero costiero di 5 km Sentier du Littoral (Tirepoil) intorno a Cap d'Antibes, la passeggiata sui bastioni sopra Port Vauban, e la Plage de la Salis fuori stagione`,
+      area: `la Vieil Antibes murata attorno a Cours Massena e Port Vauban, il capo residenziale di Cap d'Antibes, e la Pinede sul lungomare di Juan-les-Pins`,
+    },
+    antwerp: {
+      personality: `la capitale della moda del Belgio e una delle sue citta piu aperte ai cani. Con vasti parchi lungo il fiume, terrazze accoglienti per animali, e una fiorente scena di boutique hotel`,
+      highlight: `il parco Rivierenhof, la passeggiata lungo la Schelda, e il Nachtegalenpark`,
+      area: `la citta vecchia, Zurenborg, e lo Zuid`,
+    },
+    arcachon: {
+      personality: `una localita Belle Epoque sul Bassin d'Arcachon dove i cani salgono sul traghetto per Cap Ferret, scalano la duna di sabbia piu alta d'Europa, e girano tra le ville ombreggiate di pini della Ville d'Hiver`,
+      highlight: `il panorama dalla Dune du Pilat, le spiagge tranquille della baia fuori stagione, e il traghetto UBA verso Cap Ferret`,
+      area: `il lungomare della Ville d'Ete, la verdeggiante Ville d'Hiver Belle Epoque attorno al Parc Mauresque, e i porti ostricoli di L'Aiguillon e il Port d'Arcachon`,
+    },
+    arles: {
+      personality: `il capolinea sud del triangolo romano della Provenza, una compatta citta UNESCO dove l'Arena del primo secolo ospita ancora la Feria di Pasqua, dove l'ufficio del turismo pubblica una sua pagina dedicata ai viaggi con il cane, e dove le spiagge selvagge della Camargue si trovano a 30 minuti a sud per correre senza guinzaglio`,
+      highlight: `Place du Forum e gli scorci di Van Gogh, l'Allee des Alyscamps dipinta da Van Gogh e Gauguin, e la Plage de Beauduc in Camargue 40 minuti a sud`,
+      area: `l'intra-muros attorno all'Arena e Place du Forum, la riva destra del Rodano a Trinquetaille, e il quartiere Roquette vicino al Boulevard des Lices`,
+    },
+    athens: {
+      personality: `una capitale mediterranea assolata che sorprende chi viaggia con animali per la sua vivibilita a piedi e una crescente scena di boutique hotel che accoglie i cani tutto l'anno`,
+      highlight: `il Giardino Nazionale, la collina di Filopappou, e la passeggiata costiera a Faliro`,
+      area: `Koukaki, Monastiraki, e Pangrati`,
+    },
+    auckland: {
+      personality: `la rara grande citta dove un cane di qualsiasi taglia sale sui mezzi pubblici, gratis su ogni autobus e treno fuori dagli orari di punta con la museruola a cestino, e gratis sui traghetti del porto a qualsiasi ora`,
+      highlight: `Meola Reef Reserve, l'unico parco senza guinzaglio completamente recintato del centro citta, l'anello sulla zona umida di Waiatarua Reserve, e Saint Leonards Beach, senza guinzaglio a qualsiasi ora`,
+      area: `la penisola di Devonport, Wynyard Quarter sul lungomare, e Grey Lynn lungo Great North Road`,
+    },
+    austin: {
+      personality: `una capitale texana dell'entroterra costruita attorno al Lady Bird Lake, con aree senza guinzaglio non recintate che richiedono un richiamo ben addestrato, una cultura di ristoranti solo in terrazza dettata dalla normativa sanitaria statale, e un sistema di trasporti pubblici che non ammette cani`,
+      highlight: `il Great Lawn dello Zilker Metropolitan Park, l'isola per nuotare senza guinzaglio di Red Bud Isle, e il lancio per cani di Auditorium Shores sul Lady Bird Lake`,
+      area: `South Lamar e South Congress per la scena delle terrazze, il centro lungo il sentiero del lago, e la zona di Zilker vicino al parco stesso`,
+    },
+    aveiro: {
+      personality: `la 'Venezia del Portogallo', una citta di canali piatta e compatta con tre parchi per cani comunali recintati, una cultura di esplanada tollerante verso gli animali, barche moliceiro che ammettono cani al guinzaglio, e spiagge atlantiche per cani a poca distanza in auto`,
+      highlight: `il Canale Centrale e le barche moliceiro, i tre parchi per cani (Forca-Vouga, Fonte do Meio e Canal de Sao Roque), e i tipici capanni a righe palheiros di Costa Nova`,
+      area: `i canali centrali e il quartiere Beira-Mar, il parco cittadino Parque Infante D. Pedro, e il lungomare di Costa Nova`,
+    },
+    avignon: {
+      personality: `la capitale provenzale ed ex sede di sette papi, un centro storico murato patrimonio UNESCO, l'imponente Palazzo dei Papi (il piu grande palazzo gotico d'Europa), il leggendario Pont Saint-Benezet sul Rodano, e collegamento TGV diretto da Parigi in 2h40`,
+      highlight: `Place du Palais des Papes, i giardini del Rocher des Doms con l'iconico panorama sulla citta, e l'ile de la Barthelasse con 4 km di passeggiate per cani lungo il Rodano`,
+      area: `l'intra-muros attorno al Palais des Papes, il quartiere di bistrot di Rue des Teinturiers e Place de l'Horloge, e l'ile de la Barthelasse dall'altra parte del fiume`,
+    },
+    "bad-gastein": {
+      personality: `una localita termale Belle Epoque incastonata sopra una cascata di 341 m negli Hohe Tauern, dove la funivia dello Stubnerkogel porta i cani fino a un ponte sospeso a 2.246 m per 5 euro, il sentiero piatto della Kotschachtal passa vicino a due rifugi pet-friendly, e alcuni hotel specializzati offrono dog-sitting durante i trattamenti termali`,
+      highlight: `le piattaforme della Gasteiner Wasserfall, il ponte sospeso dello Stubnerkogel, e il sentiero della valle Kotschachtal fino al Prossau`,
+      area: `il centro storico attorno alla cascata, la Kaiser-Wilhelm-Promenade sopra la citta, e Bockstein verso Sportgastein`,
+    },
+    "bad-ischl": {
+      personality: `la localita termale imperiale dove l'imperatore Francesco Giuseppe trascorse 82 estati, con il Kaiserpark della Kaiservilla accogliente per cani al guinzaglio, una funivia del Katrin che porta i cani gratis con museruola e guinzaglio fino a 1.400 m, e una Esplanade fluviale pianeggiante per una passeggiata quotidiana comoda`,
+      highlight: `i giardini del Kaiserpark attorno alla Kaiservilla, la funivia del Katrin e i suoi sentieri alpini, e la passeggiata della Trinkhalle lungo la Traun`,
+      area: `la citta vecchia attorno alla Trinkhalle e all'Esplanade, il quartiere del Kaiserpark, e la zona della stazione verso Gotzstrasse`,
+    },
+    barcelona: {
+      personality: `una citta mediterranea dove il possesso di animali domestici e alto e gli hotel si stanno adeguando`,
+      highlight: `il Parc de la Ciutadella, la spiaggia di Poblenou, e le colline del Collserola`,
+      area: `El Born, Gracia, e l'Eixample`,
+    },
+    bari: {
+      personality: `la capitale pugliese sull'Adriatico, con un centro storico medievale murato attorno alla Basilica di San Nicola, il lungomare piu lungo d'Italia (4 km), tre parchi per cani senza guinzaglio dedicati aperti dal 2020, e tre ospedali veterinari attivi 24 ore`,
+      highlight: `l'area senza guinzaglio del Parco 2 Giugno, le aree recintate per cani del Parco Rossani, e Bau Beach Polignano a 35 minuti in treno`,
+      area: `Bari Vecchia attorno alla Cattedrale e a San Nicola, il quadrilatero murattiano, e il Lungomare Nazario Sauro`,
+    },
+    basel: {
+      personality: `una delle citta europee piu sottovalutate per chi ha un cane, capitale artistica svizzera al confine tra tre nazioni, con due punti balneari per cani sul Reno, un parco alluvionale senza guinzaglio lungo il fiume Wiese, e una clinica veterinaria d'emergenza attiva 24 ore`,
+      highlight: `il punto balneare per cani di Birskopfli, il Landschaftspark Wiese, e la terrazza della Pfalz al Munster`,
+      area: `l'Altstadt medievale attorno a Marktplatz, il vivace quartiere di Kleinbasel, e il verdeggiante distretto di St. Alban`,
+    },
+    bath: {
+      personality: `la citta termale georgiana inglese patrimonio UNESCO, compatta e percorribile a piedi, con una forte cultura di pub tollerante verso i cani e il sentiero Bath Skyline di 9,6 km proprio sopra la Royal Crescent color miele`,
+      highlight: `il prato della Royal Crescent, il sentiero del National Trust Bath Skyline, e l'alzaia del canale Kennet & Avon`,
+      area: `la zona della Royal Crescent, il lungofiume vicino al Pulteney Bridge, e Bathwick`,
+    },
+    bayonne: {
+      personality: `la capitale dei Paesi Baschi francesi, dove la Vieux Bayonne dagli scuri rossi, le banchine sul fiume di Petit Bayonne e una passeggiata sui bastioni Vauban di 2,5 km incontrano il jambon de Bayonne e il cioccolato Cazenave in un centro cosi compatto che un cane lo attraversa tutto in 12 minuti`,
+      highlight: `il Parc de Mousserolles, il giro sui bastioni Vauban, e la riserva umida della Plaine d'Ansot`,
+      area: `il Grand Bayonne attorno alla cattedrale, le banchine fluviali di Petit Bayonne, e il quartiere della stazione di Saint-Esprit a nord dell'Adour`,
+    },
+    begur: {
+      personality: `un centro della Costa Brava di 4.000 abitanti, cittadina medievale su scogliera che corona una collina di 200 m nella comarca del Baix Emporda a Girona, definita dalle rovine del castello dell'undicesimo secolo sulla cima, dalle quattro torri di guardia medievali costruite contro le incursioni dei pirati berberi del sedicesimo secolo, dalle iconiche case indianas ottocentesche costruite dagli uomini di Begur tornati ricchi da Cuba (gli indianos), e da un ventaglio da cartolina di sei calette portuali di pescatori che avvolgono il capo roccioso sottostante (Sa Tuna, Aiguablava, Aiguafreda, Sa Riera, Fornells, Tamariu) collegate dagli 8 km del Cami de Ronda GR-92, considerato il tratto piu panoramico dell'intera Costa Brava`,
+      highlight: `le rovine gratuite all'aperto dell'undicesimo secolo del Castell de Begur con una vista panoramica a 360 gradi sulle sei calette, i vicoli medievali del casc antic con le facciate dipinte delle case indianas, il sentiero costiero Cami de Ronda GR-92 da Sa Riera a Tamariu, e la caletta di ciottoli di Sa Tuna con il ristorante sul mare L'Hostal de Sa Tuna`,
+      area: `il casc antic attorno alla Esglesia de Sant Pere e Placa de l'Esglesia, le sei calette (Sa Tuna, Aiguablava, Aiguafreda, Sa Riera, Fornells, Tamariu) che avvolgono il capo roccioso, e il corridoio del faro di Cap de Begur e del GR-92 verso sud fino a Tamariu e Llafranc`,
+    },
+    belfast: {
+      personality: `la capitale rinnovata dell'Irlanda del Nord sul Belfast Lough, con una scena di pub del Cathedral Quarter fortemente accogliente verso i cani, i 750 acri selvaggi di Cave Hill che si alzano proprio sopra la citta, spiagge per cani aperte tutto l'anno nella contea di Down e due ospedali veterinari d'emergenza attivi 24 ore`,
+      highlight: `Cave Hill Country Park fino a Napoleon's Nose, l'alzaia di 18 km del Lagan da Stranmillis a Lisburn, e Helen's Bay, spiaggia per cani tutto l'anno a 20 minuti di treno NIR`,
+      area: `il Cathedral Quarter attorno a Commercial Court, i quartieri meridionali di Ormeau e Stranmillis, e il lungomare del Titanic Quarter`,
+    },
+    belgrade: {
+      personality: `una delle capitali europee piu economiche, con la spiaggia per cani di Ada Ciganlija aperta tutto l'anno, trasporti pubblici gratuiti dal 2025, e l'unico ospedale veterinario attivo 24 ore della Serbia`,
+      highlight: `la Fortezza di Kalemegdan, la penisola di Ada Ciganlija, e il Parco Tasmajdan`,
+      area: `Stari Grad, Skadarlija, e Dorcol`,
+    },
+    bellagio: {
+      personality: `la perla del Lago di Como, un villaggio di lusso di 3.700 abitanti arroccato sulla penisola dove il lago si biforca nei suoi rami di Como e Lecco, con i giardini neoclassici di Villa Melzi, il promontorio a Y di Punta Spartivento, un vivace snodo di traghetti Navigazione verso Varenna e Menaggio, e le escursioni boscose del Triangolo Lariano che si alzano proprio dietro il centro storico`,
+      highlight: `i Giardini di Villa Melzi d'Eril in stile neoclassico, il promontorio a Y di Punta Spartivento sulla punta a doppio ramo del lago, e la passeggiata sul lungolago Lungolago Manzoni di 1,5 km`,
+      area: `il centro storico attorno a Salita Serbelloni e la Basilica di San Giacomo, il lungolago attorno a Piazza Mazzini, e i borghi di pescatori di Pescallo, San Giovanni e Loppia`,
+    },
+    bergamo: {
+      personality: `una citta collinare murata patrimonio UNESCO in Lombardia, con due funicolari tolleranti verso gli animali, il Parco dei Colli di 4.700 ettari sul suo versante nord, e il Lago d'Iseo, il Lago di Como e il Lago di Garda tutti raggiungibili in un'ora per fresche gite pet-friendly`,
+      highlight: `il cammino di 6 km sulle Mura Venete UNESCO, i crinali boscosi del Parco dei Colli sopra Citta Alta, e la funicolare di San Vigilio verso il castello panoramico a 496 m`,
+      area: `Citta Alta attorno a Piazza Vecchia, Borgo Pignolo attorno all'Accademia Carrara, e la collina di San Vigilio`,
+    },
+    bergen: {
+      personality: `la porta della Norvegia sui fiordi, incastonata tra sette montagne e il mare, trasporti pubblici gratuiti per i cani, montagne senza guinzaglio a 7 minuti dal centro citta, e un molo anseatico patrimonio UNESCO sul porto`,
+      highlight: `il monte Floyen con la funicolare Floibanen, la cresta di Vidden fino al monte Ulriken, e il colorato molo di Bryggen`,
+      area: `Bryggen, Sandviken, e Marken`,
+    },
+    berlin: {
+      personality: `probabilmente la capitale piu dog-friendly d'Europa. I cani salgono sui mezzi pubblici ed entrano liberamente in molti negozi`,
+      highlight: `il Tiergarten, il campo di Tempelhof, e la foresta di Grunewald`,
+      area: `Prenzlauer Berg, Mitte, e Kreuzberg`,
+    },
+    bern: {
+      personality: `una delle capitali europee piu accoglienti verso gli animali, la citta vecchia svizzera patrimonio UNESCO ha 6 km di portici Lauben coperti, tre foreste urbane a distanza di tram, e il principale ospedale veterinario universitario del paese`,
+      highlight: `la foresta senza guinzaglio del Bremgartenwald, la passeggiata lungofiume di 5 km sull'Aare, e il BarenPark sotto la citta vecchia`,
+      area: `l'Altstadt con i portici patrimonio UNESCO, i quartieri lungofiume di Marzili e Matte, e il belvedere del Rosengarten`,
+    },
+    beziers: {
+      personality: `una citta dell'Herault di 78.000 abitanti con una fortificata cattedrale gotica sospesa 60 m sopra l'Orb, il Canal du Midi patrimonio UNESCO che attraversa direttamente la citta, la spettacolare scala di nove chiuse Neuf Ecluses de Fonserannes, il giardino all'inglese di 4,6 ettari Plateau des Poetes, e una rara plage canine mediterranea senza guinzaglio aperta tutto l'anno a Valras-Plage, 15 minuti a sud`,
+      highlight: `la spiaggia senza guinzaglio plage canine di Valras-Plage, le Neuf Ecluses de Fonserannes e l'acquedotto Pont-Canal de l'Orb, e la terrazza sulla collina della Cattedrale Saint-Nazaire affacciata sul medievale Pont Vieux`,
+      area: `le pedonali Allees Paul Riquet e il Plateau des Poetes, la citta vecchia di Saint-Aphrodise sotto la cattedrale, e il quartiere del canale di Fonserannes a ovest del centro`,
+    },
+    biarritz: {
+      personality: `una cittadina basca del surf con un atteggiamento super rilassato verso i cani e la vita all'aperto`,
+      highlight: `la Grande Plage e il sentiero costiero della Côte Basque`,
+      area: `il quartiere Port Vieux e Halles`,
+    },
+    bilbao: {
+      personality: `una delle città più dog-friendly della Spagna, dove il tram accoglie cani di tutte le taglie, i bar di pintxos li fanno entrare tranquillamente e la famosa scultura 'Puppy' del Guggenheim fa sentire ogni cane a casa`,
+      highlight: `la zona senza guinzaglio del Parque Doña Casilda, la cabina cani sulla funicolare di Artxanda e la passeggiata lungo il Nervión fino al Guggenheim`,
+      area: `i quartieri di Abando e Indautxu, le sette strade del Casco Viejo e il lungofiume di Abandoibarra`,
+    },
+    bled: {
+      personality: `il villaggio alpino da cartolina della Slovenia, avvolto attorno a un lago glaciale color smeraldo, dove il giro del lago di 6 km è una passeggiata cani famosissima, il castello in cima alla rupe accoglia i cani al guinzaglio sulle terrazze esterne e la porta d'ingresso al Parco Nazionale del Triglav parte proprio dal bordo del paese`,
+      highlight: `il giro del lago di 6 km con vista sull'isola di Bled e la chiesetta, le terrazze e i camminamenti esterni del Castello di Bled, e le passerelle in legno della Gola di Vintgar`,
+      area: `la sponda orientale del lago attorno a Cesta svobode, la collina del castello sopra il lago e la zona tranquilla di Bled Jezero/Mlino`,
+    },
+    bologna: {
+      personality: `una città medievale italiana di portici e mercati alimentari che accoglie i cani nei bar, nelle piazze e nelle colline attorno`,
+      highlight: `i Giardini Margherita, il portico che porta al Santuario di San Luca (3,8 km) e le colline sopra il quartiere della Bolognina`,
+      area: `il Quadrilatero, Santo Stefano e la zona universitaria di Via Zamboni`,
+    },
+    bolzano: {
+      personality: `la porta bilingue italo-tirolese verso le Dolomiti, dove le passeggiate tra i vigneti incontrano le valli alpine e una funivia di 12 minuti porta i cani dalla calda Valle dell'Adige fino al fresco altopiano del Renon`,
+      highlight: `i prati di Talvera lungo il fiume, la storica Passeggiata del Guncina di 5 km sopra Gries e i sentieri dell'altopiano del Renon raggiungibili in funivia`,
+      area: `il centro storico porticato attorno a Piazza Walther e Piazza delle Erbe, il verde quartiere di Gries sui pendii occidentali e l'altopiano del Renon raggiungibile in funivia`,
+    },
+    bonn: {
+      personality: `la città natale di Beethoven ed ex capitale federale del dopoguerra, una città verde e camminabile sul Reno dove i cani sono benvenuti sulle terrazze del Markt, nel Rheinaue di 160 ettari e sui sentieri escursionistici del Siebengebirge appena oltre il fiume`,
+      highlight: `il prato senza guinzaglio del Rheinaue, la foresta di 40 km² del Kottenforst e la passeggiata sul Rheinufer con i traghetti verso Beuel`,
+      area: `il centro storico attorno a Münsterplatz e Markt, Bad Godesberg e la sponda est di Beuel`,
+    },
+    bordeaux: {
+      personality: `una città dove i cani passeggiano tra le terrazze dei bar a vino di Chartrons, esplorano il lungofiume della Garonna e sono ben accolti nella maggior parte degli hotel boutique`,
+      highlight: `il Parc Bordelais, le banchine della Garonna e il Jardin Public`,
+      area: `Chartrons, Saint-Pierre e il Triangle d'Or`,
+    },
+    "boulogne-sur-mer": {
+      personality: `un porto sulla Manica del Pas-de-Calais con 41.000 abitanti (130.000 nell'area metropolitana), il più grande porto peschereccio di Francia per tonnellaggio, sede di Nausicaá (il più grande acquario d'Europa), circondato dalle mura del XIII secolo meglio conservate di Francia con un chemin de ronde sopraelevato di 1,5 km, sormontato dalla cupola in stile italiano di 101 m della Cattedrale di Notre-Dame, con le scogliere calcaree e il faro di Cap d'Alprech a 3 km a sud, il sentiero costiero GR120 verso nord fino a Wimereux e Cap Gris-Nez, e un TGV inOui diretto per Parigi Gare du Nord in 2h25`,
+      highlight: `la passeggiata di 1,5 km sul chemin de ronde in cima alle mura del XIII secolo della Haute-Ville, la cupola e la cripta della Cattedrale di Notre-Dame de Boulogne, il lungomare di Nausicaá e il giro del porto peschereccio più grande di Francia, e il faro di Cap d'Alprech tra le scogliere calcaree con il sentiero GR120 verso Wimereux`,
+      area: `la Haute-Ville murata attorno a Place Godefroy de Bouillon e la Cattedrale di Notre-Dame, la città bassa tra Place Dalton e la stazione TGV di Boulogne-Ville, il lungomare di Boulevard Sainte-Beuve di fronte a Nausicaá e il sobborgo orientale di Saint-Martin-Boulogne`,
+    },
+    bournemouth: {
+      personality: `la località balneare della costa sud con sette miglia di sabbia dorata, spiagge per cani aperte tutto l'anno a Fisherman's Walk e sul lato di Hengistbury, e il New Forest National Park a 30 minuti a nord per escursioni senza guinzaglio`,
+      highlight: `la riserva naturale di Hengistbury Head, il parco lineare di 2 km dei Bournemouth Gardens, e le gole di Branksome/Durley/Alum che scendono fino alla spiaggia`,
+      area: `il centro città e il molo, Westbourne e Boscombe lungo la scogliera, e la zona est di Hengistbury Head/Southbourne`,
+    },
+    braga: {
+      personality: `la città storica più giovane e studentesca del Portogallo, dove chiese barocche, piazze in granito e terrazze pet-friendly incontrano il fresco paesaggio atlantico del Minho`,
+      highlight: `la scalinata boschiva del Bom Jesus do Monte, il Parque da Ponte lungo il fiume e i giardini del Monastero di Tibães`,
+      area: `il quartiere storico della Sé, la zona dei caffè di Sá de Miranda e la verde area del campus universitario`,
+    },
+    brasov: {
+      personality: `una cittadella sassone medievale ai piedi dei Carpazi, dove le sagome gotiche della Chiesa Nera, la variopinta Piața Sfatului e i sentieri boschivi del Tâmpa incorniciano un centro storico insolitamente camminabile con accesso diretto alle gite di un giorno a Bran, Râșnov e Peleș`,
+      highlight: `i sentieri boschivi e la funivia del Monte Tâmpa, il Parcul Tractorul e il Parcul Tiberiu Brediceanu, e la ciottolata Strada Sforii`,
+      area: `il centro storico attorno a Piața Sfatului, il quartiere Schei sotto il Tâmpa e il Centrul Civic`,
+    },
+    bratislava: {
+      personality: `una capitale centroeuropea compatta ed economica dove i cani passeggiano tra le piazze ciottolate del centro storico, le foreste dei Carpazi e gli argini del Danubio, tutto a piedi dal centro`,
+      highlight: `la foresta di Železná Studnička, il Sad Janka Kráľa e il lungofiume di Devín`,
+      area: `il centro storico, Petržalka e Devín`,
+    },
+    bregenz: {
+      personality: `la città austriaca dei festival sul Lago di Costanza, incastrata tra lago e montagna`,
+      highlight: `il lungolago Seeanlagen, la costa Pipeline verso Lochau e i sentieri in vetta al Pfänder`,
+      area: `il lungolago, l'Oberstadt e Mehrerau`,
+    },
+    bremen: {
+      personality: `una città anseatica del nord Germania dove la statua UNESCO sul Marktplatz dei Musicanti di Brema mette un cane al centro dell'identità civica, il Bürgerpark di 200 ettari si trova accanto al centro, e i ristoranti Stuben accolgono i cani al chiuso tutto l'anno`,
+      highlight: `il Bürgerpark e l'adiacente Stadtwald, il giro delle mura del Wallanlagen e la spiaggia balneabile di Werderseestrand`,
+      area: `il centro storico attorno al Marktplatz, Das Viertel e lo Schnoor`,
+    },
+    brest: {
+      personality: `il porto navale atlantico della Bretagna e la sua città più grande, dove il porto naturale profondo, la valle di 50 ettari del Vallon du Stang-Alar, la terrazza sul mare di Cours Dajot e i traghetti Penn ar Bed verso le isole dell'Iroise la rendono una delle basi pet-friendly più gratificanti del nord-ovest della Francia`,
+      highlight: `la valle del Vallon du Stang-Alar con il suo conservatorio botanico, la terrazza di Cours Dajot sopra la Rade de Brest, e il sentiero costiero GR34 verso ovest fino al faro di Pointe Saint-Mathieu`,
+      area: `il centro ricostruito nel dopoguerra attorno a Rue de Siam e Place de la Liberté, il quartiere di Saint-Marc e Stang-Alar con la valle boschiva, e il quartiere di Recouvrance oltre il Pont de Recouvrance`,
+    },
+    burgos: {
+      personality: `una città sull'altopiano castigliano a 860 m coronata da una cattedrale gotica UNESCO, tappa fondamentale del Cammino di Santiago con undici recinti cani ufficiali, facili passeggiate lungo il fiume Arlanzón e un ospedale veterinario di riferimento aperto 24 ore su 24`,
+      highlight: `il Paseo del Espolón e il lungofiume Arlanzón, il Parque del Castillo sopra la cattedrale, e l'estensione boschiva di 6 km del Parque de Fuentes Blancas`,
+      area: `il centro storico attorno alla cattedrale, la collina del Castillo e il lungofiume Espolón`,
+    },
+    brighton: {
+      personality: `la città balneare più affidabilmente dog-friendly del Regno Unito, dove i cani viaggiano gratis sui bus e la Hove Lawns Beach resta aperta tutto l'anno`,
+      highlight: `Hove Lawns, Preston Park e il Stanmer Park sulle South Downs`,
+      area: `The Lanes, Kemptown e il lungomare di Hove`,
+    },
+    brisbane: {
+      personality: `la città sul fiume più accogliente per i cani in Australia, dove i traghetti CityCat portano cani al guinzaglio e con museruola fuori dagli orari di punta mentre bus e treni restano sempre chiusi a loro, con il supporto di oltre 160 aree senza guinzaglio comunali`,
+      highlight: `l'area senza guinzaglio di Powerhouse Park a New Farm, il sentiero sulla scogliera di Kangaroo Point e il lungomare da Sandgate a Shorncliffe`,
+      area: `New Farm e Teneriffe, Kangaroo Point e West End`,
+    },
+    bristol: {
+      personality: `una delle città più verdi d'Inghilterra, il 70% dei pub accoglie i cani, trasporto pubblico gratis per gli animali, l'iconico Clifton Suspension Bridge e l'Ashton Court Estate di 162 ettari alle porte della città`,
+      highlight: `l'Ashton Court Estate, il Downs in cima alla Avon Gorge e il traghetto galleggiante di Bristol fino a Wapping Wharf`,
+      area: `Clifton, l'Harbourside e Stokes Croft`,
+    },
+    brno: {
+      personality: `la capitale compatta e sorprendentemente economica della Moravia, con 14 aree cani recintate comunali, una cultura delle pivnice tollerante verso i cani in tutto il centro, e un lago balneabile per cani tutto l'anno a 25 minuti di tram`,
+      highlight: `il parco in cima alla collina di Špilberk, il lago artificiale di Brno a Bystrc, e le gite di un giorno nella regione vinicola della Moravia del sud a Pavlov e Mikulov`,
+      area: `il centro medievale attorno a náměstí Svobody, Lužánky e il quartiere lacustre di Bystrc`,
+    },
+    bruges: {
+      personality: `una città medievale fiamminga patrimonio UNESCO, percorribile da un capo all'altro in 25 minuti, dove il giro delle mura alberato di 7 km accoglia di default i cani al guinzaglio, la cultura dei brown-café belgi dà i cani per scontati, e i treni NMBS li portano gratis alla spiaggia cani di Zeebrugge a 15 minuti a nord`,
+      highlight: `il parco del Minnewater, il 'Lago dell'Amore', il giro delle mura Vesten di 7 km con quattro mulini a vento, e l'alzaia del canale Damse Vaart fino al villaggio di Damme`,
+      area: `il centro storico attorno al Markt e al Burg, il tranquillo quartiere di Sint-Anna, e la zona sud del Begijnhof e del Minnewater`,
+    },
+    brussels: {
+      personality: `una destinazione sottovalutata per chi viaggia con animali, con parchi spaziosi, un centro compatto e camminabile, e una cultura dell'ospitalità che accoglie davvero gli animali`,
+      highlight: `il Bois de la Cambre, il Parc du Cinquantenaire e la Forêt de Soignes`,
+      area: `Ixelles, Saint-Gilles e il Quartiere Europeo`,
+    },
+    bucharest: {
+      personality: `una delle capitali più economiche dell'UE, con un parco centrale di 187 ettari, due recinti cani comunali al suo interno, e il più grande ospedale veterinario 24 ore su 24 della Romania`,
+      highlight: `il Parco Herastrau, i Giardini Cișmigiu e il Lago Snagov`,
+      area: `il centro storico di Lipscani, Floreasca e Calea Victoriei`,
+    },
+    budapest: {
+      personality: `una città di architettura grandiosa e di una scena dog-friendly in crescita. I cani viaggiano in metro, hanno accesso alla maggior parte dei parchi e sono ben accolti nei famosi ruin bar di Budapest`,
+      highlight: `l'Isola Margherita, il City Park (Városliget) e le passeggiate lungo il Danubio`,
+      area: `il settimo distretto (il Quartiere Ebraico), il quartiere del Castello di Buda e Óbuda`,
+    },
+    cadiz: {
+      personality: `una delle città più antiche dell'Europa occidentale, un compatto porto andaluso fortificato circondato dalle mura atlantiche dove i cani al guinzaglio girano tra le piazze del centro storico e, fuori stagione, ti raggiungono anche in spiaggia`,
+      highlight: `i giardini botanici del Parque Genoves, l'accesso invernale per cani sulla Playa de la Victoria e Santa Maria del Mar, e la spiaggia cani dedicata di Torregorda alla fine di Cortadura`,
+      area: `il centro storico fortificato attorno a Plaza de San Antonio e Plaza de Mina, il lungomare della Caleta e le mura del Campo del Sur`,
+    },
+    caen: {
+      personality: `la capitale medievale normanna fondata da Guglielmo il Conquistatore, con due abbazie romaniche, un castello millenario in vasti terreni per cani al guinzaglio, passeggiate lungo fiume e canale sull'Orne, e a 30 minuti di auto dalle spiagge dello sbarco del D-Day e dalla città dell'Arazzo di Bayeux`,
+      highlight: `le mura e i cortili del Château de Caen, la Colline aux Oiseaux e il Jardin des Plantes, e l'alzaia del canale che collega Caen a Ouistreham sulla Manica`,
+      area: `il quartiere Vaugueux a est del castello, il Presqu'île sul lungofiume dell'Orne, e il quartiere universitario e dell'abbazia di Beaulieu`,
+    },
+    cagliari: {
+      personality: `il capoluogo sardo con 8 km di spiaggia urbana al Poetto, un tratto comunale stagionale per cani, la baia balneabile per cani tutto l'anno di Calamosca, la laguna dei fenicotteri di Molentargius di 1.600 ettari e un vero ospedale veterinario d'emergenza aperto 24 ore su 24`,
+      highlight: `il panorama dal Bastione di Saint Remy, il sentiero costiero di Sella del Diavolo sopra Calamosca, e il giro pianeggiante di 7 km tra i fenicotteri del Parco di Molentargius`,
+      area: `il quartiere Marina attorno a Via Sardegna, il quartiere collinare del Castello e il lungomare del Poetto`,
+    },
+    calais: {
+      personality: `un porto traghetti della Manica nel Pas-de-Calais con 67.000 abitanti, di fronte alle scogliere bianche di Dover, con la traversata passeggeri più trafficata d'Europa (P&O, DFDS, Irish Ferries), l'Eurotunnel Le Shuttle perfetto per animali da Coquelles dove i cani restano in macchina per l'intera traversata di 35 minuti, il campanile UNESCO dell'Hôtel de Ville e i Borghesi di Calais in bronzo di Rodin, un corridoio di sabbia di 12 km tra la Plage de Calais e Sangatte, e il Grand Site di Cap Blanc-Nez / Cap Gris-Nez con le sue scogliere calcaree a 35 km a ovest`,
+      highlight: `il campanile UNESCO dell'Hôtel de Ville, che si può salire gratis, i Borghesi di Calais di Rodin su Place du Soldat Inconnu, e i sentieri sulle scogliere calcaree del Grand Site di Cap Blanc-Nez / Cap Gris-Nez di fronte alle scogliere bianche di Dover, oltre 35 km di mare della Manica`,
+      area: `il centro storico tra Place d'Armes e l'Hôtel de Ville lungo Boulevard Jacquard, la passeggiata sul lungomare di Calais-Nord lungo la Digue Gaston Berthe, e il terminal Eurotunnel Le Shuttle di Coquelles a 5 km a ovest`,
+    },
+    calpe: {
+      personality: `una cittadina della Costa Blanca in provincia di Alicante con 24.000 abitanti, dominata dal monolite calcareo del Peñón de Ifach di 332 m (il parco naturale più piccolo di Spagna, protetto dal 1987), con il casco antiguo medievale e la Chiesa Antigua gotico-mudéjar, la zona umida con fenicotteri di Las Salinas nel bel mezzo del paese, le piscine archeologiche romane dei Banys de la Reina, e la Bandera Azul della Playa La Fossa-Levante (950 m di sabbia proprio a nord del Peñón)`,
+      highlight: `il sentiero di base del Parco Naturale del Peñón de Ifach (cani al guinzaglio consentiti sul sentiero d'accesso, non sul tunnel/vetta superiore), il lungomare in legno pet-friendly di Las Salinas con i fenicotteri residenti, e le piscine romane di piscicoltura di Banys de la Reina all'estremità sud di Playa Arenal-Bol`,
+      area: `il casco antiguo medievale che sale verso il belvedere di Forat de Calp, il Paseo Marítimo Princesa de Asturias lungo Playa La Fossa, e il Puerto Pesquero ai piedi del Peñón`,
+    },
+    cambridge: {
+      personality: `una delle piccole città più affidabilmente dog-friendly d'Inghilterra, vasti prati comuni senza guinzaglio (Jesus Green, Midsummer, Coe Fen), pub storici che accolgono i cani al guinzaglio al bancone, e treni Greater Anglia diretti da Londra King's Cross in 50 minuti`,
+      highlight: `il sentiero lungofiume dei Backs, i Grantchester Meadows e il giardino da tè The Orchard, e i sentieri sul forte dell'età del ferro del Wandlebury Country Park`,
+      area: `il centro storico attorno a King's Parade, il quartiere di Mill Road e la zona lungofiume di Newnham`,
+    },
+    cannes: {
+      personality: `una glamour città della Costa Azzurra con una cultura cani sorprendentemente rilassata, le terrazze del Suquet, il Marché Forville e le spiagge occidentali accolgono i cani tutto l'anno`,
+      highlight: `l'isola boschiva di Île Sainte-Marguerite, la Plage de la Bocca e i vicoli ciottolati del Suquet`,
+      area: `Le Suquet (il centro storico), il quartiere del Marché Forville e La Bocca`,
+    },
+    capri: {
+      personality: `la storica isola calcarea nel Golfo di Napoli dove la tranquilla Anacapri superiore è la base pet-friendly, i traghetti da Napoli e Sorrento accettano cani al guinzaglio tutto l'anno, e le passeggiate sulla scogliera di Via Krupp e Punta Tragara si aprono sui Faraglioni`,
+      highlight: `il belvedere di Punta Tragara sui Faraglioni, i Giardini di Augusto e Via Krupp tra le bouganville, e i giardini di Villa San Michele a 305 m sopra Marina Grande ad Anacapri`,
+      area: `Anacapri (il villaggio più tranquillo attorno a Piazza Caprile e Via Migliara), la fascia di Capri centro dal Quisisana a Punta Tragara, e il porto di Marina Grande per i traghetti`,
+    },
+    cardiff: {
+      personality: `la capitale gallese con una delle reti di parchi urbani più grandi del Regno Unito, 130 ettari di prati lungofiume senza guinzaglio a Bute Park e Pontcanna Fields a dieci minuti dal castello, una passeggiata di 2 km sulla diga di Cardiff Bay che collega direttamente al Molo di Penarth, e un ospedale veterinario d'emergenza di riferimento aperto 24 ore su 24 a quindici minuti a nord`,
+      highlight: `il Bute Park lungo il fiume Taff, la passeggiata dalla diga di Cardiff Bay al Molo di Penarth, e il piano terra pet-friendly del Castello di Caerphilly`,
+      area: `il compatto centro città attorno al Castello di Cardiff, il quartiere di Pontcanna e il lungomare di Cardiff Bay a Mermaid Quay`,
+    },
+    carcassonne: {
+      personality: `la più grande città medievale fortificata d'Europa, una cittadella UNESCO su una collina nell'Aude dove i cani al guinzaglio girano tra 3 km di doppie mura, 52 torri e i cortili esterni del Château Comtal, con l'alzaia del Canal du Midi che taglia pianeggiante e ombreggiata attraverso la città bassa`,
+      highlight: `i cortili esterni e il giro sulle mura basse del Château Comtal nella Cité, l'attraversamento del fiume sul Pont Vieux verso la Bastide Saint-Louis al tramonto, e la sponda est boschiva del Lac de la Cavayère per bagni fuori stagione`,
+      area: `la Cité in cima alla collina a est dell'Aude, la griglia urbana della Bastide Saint-Louis al di là del Pont Vieux, e il Bassin du Pont Rouge lungo il canale vicino alla stazione`,
+    },
+    cascais: {
+      personality: `l'elegante fuga costiera di Lisbona, dove quasi ogni terrazza sulla marina serve ciotole d'acqua senza che tu debba chiederle e la passeggiata sul lungomare di Paredão si riempie di cani al tramonto`,
+      highlight: `il parco ombreggiato di Parque Marechal Carmona, la passeggiata sulla scogliera di Boca do Inferno e i sentieri tra le dune atlantiche selvagge di Guincho e Cresmina`,
+      area: `il centro storico attorno a Largo Luís de Camões, il quartiere della marina e il quartiere di Birre vicino al parco naturale`,
+    },
+    catania: {
+      personality: `la capitale barocca in pietra lavica della Sicilia sotto l'Etna, con tre ospedali veterinari 24 ore su 24, una spiaggia comunale per cani tutto l'anno sulla Plaja, e un centro storico patrimonio UNESCO dove le terrazze pet-friendly sono la regola da Piazza Duomo fino a Via Crociferi`,
+      highlight: `i giardini di Villa Bellini su Via Etnea, l'area cani senza guinzaglio del Parco Vulcania, il mercato del pesce lastricato di lava della Pescheria e la spiaggia cani al Lido Azzurro`,
+      area: `il centro storico UNESCO attorno a Piazza Duomo, il quartiere universitario di Borgo e il lungomare della Plaja su Viale Kennedy`,
+    },
+    "cesky-krumlov": {
+      personality: `un centro storico UNESCO di 13.000 abitanti sotto un vasto castello rinascimentale su una stretta ansa della Moldava in Boemia, dove i cani al guinzaglio sono ben accolti nei cortili dipinti del castello, sul Ponte del Mantello e nel giardino barocco del castello, ma le barche per il rafting e le sezioni interne dei musei restano vietate`,
+      highlight: `i cinque cortili esterni del Castello di Český Krumlov e il Ponte del Mantello a tre livelli, il giardino barocco Zámecká zahrada sopra l'ansa della Moldava, e la striscia lungofiume per passeggiare cani nel parco cittadino Jelení zahrada`,
+      area: `il centro ciottolato di Vnitřní Město attorno a Náměstí Svornosti, il vicolo lungofiume di Parkán sotto il castello, e il quartiere di Latrán ai piedi della collina del castello`,
+    },
+    boston: {
+      personality: `la città più antica e camminabile degli Stati Uniti e la capitale del New England tra laghi e porto, con il caratteristico programma Off-Leash Hours in oltre 20 parchi pubblici (in testa il Boston Common, il più antico parco pubblico del paese, del 1634), l'Esplanade del fiume Charles di 27 km, il Freedom Trail di 4 km interamente percorribile al guinzaglio, cani più grandi ammessi fuori punta sulla metro MBTA a discrezione dell'operatore (raro negli USA), e rigidi inverni da nor'easter che trasformano l'uscita col cane in un giro di terrazze riscaldate (Trillium Fort Point, Lower Depths) da dicembre a marzo`,
+      highlight: `il branco delle Off-Leash Hours dall'alba alle 9 sul Boston Common, il Peters Park (l'unico parco cani recintato senza guinzaglio dentro i confini cittadini), l'Esplanade del fiume Charles di 27 km, l'intero Freedom Trail e l'Arnold Arboretum, più il giro sul frangiflutti di Castle Island/Pleasure Bay fuori stagione`,
+      area: `Back Bay e Beacon Hill per l'accesso a due passi dall'Esplanade e dal Common, il South End per il Peters Park e le terrazze del Beehive, il Seaport/Fort Point per l'Harborwalk e il beer garden di Trillium, Cambridge per le terrazze di Harvard Square e la sponda nord del Charles`,
+    },
+    chamonix: {
+      personality: `la capitale dell'alpinismo delle Alpi ai piedi del Monte Bianco, dove i cani al guinzaglio salgono sui bus della valle, sul Mont-Blanc Express e su quasi tutti gli impianti di risalita, incluso il trenino del Montenvers fino al Mer de Glace, e l'ufficio del turismo pubblica una lista ufficiale di escursioni dog-friendly; restano vietate solo la funivia dell'Aiguille du Midi e la riserva naturale delle Aiguilles Rouges (incluso il Lac Blanc)`,
+      highlight: `i ruscelli lungofiume del Paradis des Praz, il sentiero boschivo del Petit Balcon Sud che corre lungo tutta la valle, l'escursione alla Cascata del Dard e un tuffo al Lac des Gaillands sotto il Monte Bianco`,
+      area: `il centro pedonale attorno a Rue du Docteur Paccard, Les Praz per il versante di Flégère e i prati del golf, e Argentière per soggiorni più tranquilli vicino ai sentieri`,
+    },
+    chicago: {
+      personality: `la capitale sul lago del Midwest con una delle più grandi reti di Dog Friendly Area degli USA (oltre 25 DFA recintate senza guinzaglio più la Montrose Dog Beach dedicata, l'unica spiaggia senza guinzaglio in città), il Lakefront Trail pianeggiante di 29 km lungo il Lago Michigan, il Lincoln Park di 485 ettari, e inverni durissimi che trasformano l'uscita col cane in un giro di terrazze riscaldate (Kaiser Tiger, Big Star) da dicembre a marzo`,
+      highlight: `la Montrose Dog Beach a Uptown, la DFA di Wiggly Field a Lincoln Park, il Lakefront Trail e il perimetro gratuito dello zoo di Lincoln Park, il Chicago Riverwalk, e il giro al guinzaglio attorno al Cloud Gate ('The Bean') al Millennium Park`,
+      area: `Lincoln Park e Lakeview per hotel vicini ai parchi cani e alle terrazze di Wrigley Field, Wicker Park e Logan Square per le terrazze dei ristoranti, il West Loop e River North per il Chicago Riverwalk e la scena gastronomica di Fulton Market`,
+    },
+    ciutadella: {
+      personality: `l'ex capitale di Minorca sulla selvaggia costa ovest dell'isola, un centro storico color miele in stile italianeggiante attorno a Plaça d'es Born e alla cattedrale gotica del XIV secolo, dove partono i 185 km del Camí de Cavalls GR-223 dal faro del Castell de Sant Nicolau, il megalito talaiotico UNESCO della Naveta des Tudons si trova a 4 km a est, e le calette più fotografate di Minorca (Cala Macarella, Cala Macarelleta, Cala en Turqueta) riaprono ai cani al guinzaglio da novembre a marzo`,
+      highlight: `la Plaça d'es Born e la Cattedrale di Minorca, il megalito UNESCO della Naveta des Tudons, le calette sud-occidentali di Cala Macarella, Cala en Turqueta e Cala Galdana, e il Camí de Cavalls GR-223 che parte dal faro del Castell de Sant Nicolau`,
+      area: `il centro storico attorno a Plaça d'es Born e alla cattedrale, le banchine del Port de Ciutadella a Pla de Sant Joan, e le calette sud-occidentali tra Cala Galdana e Cap d'Artrutx`,
+    },
+    colmar: {
+      personality: `la capitale della strada dei vini dell'Alsazia, un paese da fiaba di vicoli a graticcio pieni di fiori e canali della Petite Venise da esplorare interamente all'aperto, dove i cani salgono sulle barche piatte Sweet Narcisse e sul Petit Train Blanc, e a poca distanza tra i vigneti si trovano Eguisheim, Riquewihr e Kaysersberg`,
+      highlight: `il polmone verde del Parc du Champ-de-Mars, il parco cani recintato di 780 m² vicino alla piscina Aqualia, e i sentieri lacustri del Lac Blanc nei Vosgi`,
+      area: `i canali della Petite Venise, il centro storico attorno alla Grand'Rue e il quartiere del Champ-de-Mars vicino alla stazione`,
+    },
+    cologne: {
+      personality: `una pratica città della Renania dove i cani viaggiano in treno con un biglietto bambino, bevono acqua alle fontanelle dei pub e seguono i padroni lungo il fiume`,
+      highlight: `il sentiero lungo la sponda del Reno, il parco boschivo Stadtwald e il prato senza guinzaglio al Beethovenpark`,
+      area: `il centro storico attorno alla cattedrale, Ehrenfeld e il Severinsviertel`,
+    },
+    como: {
+      personality: `una città di lusso sulla punta meridionale del Lago di Como, con traghetti pet-friendly verso Bellagio e Varenna, una funicolare dog-friendly che sale ai panorami di Brunate, e i giardini di grandi ville (Olmo, Balbianello) aperti ai cani al guinzaglio`,
+      highlight: `la Passeggiata Lino Gelpi sul lungolago, il sentiero panoramico del Faro Voltiano sopra Brunate, e i giardini di Villa Olmo`,
+      area: `il lungolago attorno a Piazza Cavour, il centro storico medievale, e la sponda orientale di Villa Geno`,
+    },
+    coimbra: {
+      personality: `una città universitaria UNESCO che scende dalla sua collina fino al Mondego, dove i cani al guinzaglio scivolano tra vicoli medievali e la foresta ripariale del Choupal è la meta di passeggiata quotidiana`,
+      highlight: `la foresta lungofiume della Mata Nacional do Choupal, il Parque Verde do Mondego con il suo ponte pedonale Pedro & Inês, e i cortili esterni dell'università più antica d'Europa`,
+      area: `la Baixa (città bassa) lungo il Mondego, l'Alta (città alta) attorno all'università, e la sponda sud vicino al ponte Pedro & Inês`,
+    },
+    conwy: {
+      personality: `una cittadina medievale fortificata sulla costa del Galles del Nord e porta d'ingresso all'Eryri (Snowdonia), dove i cani condividono la banchina, l'estuario e i pub pet-friendly, oltre a splendide passeggiate in collina e montagna, anche se gli interni del castello e i camminamenti sulle mura ammettono solo cani da assistenza`,
+      highlight: `il giro del Conwy Mountain sopra la città, il sentiero pet-friendly delle cascate di Aber nell'Eryri, e il Bodnant Garden nei suoi giorni aperti ai cani`,
+      area: `la città fortificata e il molo di Conwy, la marina e Conwy Morfa, e il sentiero dell'estuario verso le montagne`,
+    },
+    copenhagen: {
+      personality: `una città che è all'avanguardia in Europa sul benessere animale. I cani viaggiano gratis sui mezzi pubblici, entrano nella maggior parte dei negozi, e vengono accolti con ciotole d'acqua su quasi ogni terrazza`,
+      highlight: `i Giardini di Frederiksberg, il Fælledparken e il lungomare del porto`,
+      area: `Nørrebro, Frederiksberg e Vesterbro`,
+    },
+    corfu: {
+      personality: `la porta ionica dove un centro storico veneziano patrimonio UNESCO sovrappone 400 anni di dominio veneziano, portici napoleonici francesi e palazzi neoclassici britannici, la Spianada è la piazza pubblica più grande della Grecia, e rigogliose passeggiate nel verde dell'isola vanno da Mon Repos a Paleokastritsa`,
+      highlight: `i portici del Liston e la Spianada, il promontorio della Fortezza Vecchia con vista a 360 gradi sul porto, e il parco di Mon Repos dove nacque il Principe Filippo`,
+      area: `il centro storico veneziano UNESCO fortificato attorno al Liston e al Campiello, la Baia di Garitsa a sud della Fortezza Vecchia, e la penisola di Kanoni verso Pontikonisi`,
+    },
+    cordoba: {
+      personality: `la città andalusa UNESCO della Moschea-Cattedrale, a 45 minuti di AVE da Siviglia, un compatto centro storico imbiancato a calce, il Ponte Romano sul Guadalquivir, e i contrafforti della Sierra Morena a 15 minuti a nord per fresche escursioni con il cane`,
+      highlight: `la vista al tramonto dal Ponte Romano, i vicoli della Judería (Quartiere Ebraico), e il sentiero lungofiume di Sotos de la Albolafia`,
+      area: `la Judería, il Centro vicino a Plaza de la Corredera, e la moderna zona di San Fernando`,
+    },
+    cork: {
+      personality: `la città ribelle e golosa d'Irlanda sul fiume Lee, strade georgiane, pub tradizionali accoglienti, l'iconico English Market, e il parco senza guinzaglio di Ballincollig di 200 ettari a 8 km a ovest, con le spiagge del West Cork a breve distanza in auto verso sud`,
+      highlight: `il Fitzgerald's Park e il sentiero del Mardyke, l'area senza guinzaglio del Ballincollig Regional Park, e il treno di 25 minuti fino al lungomare dog-friendly di Cobh`,
+      area: `il Quartiere Latino, il lungofiume della Marina, e Blackrock`,
+    },
+    delft: {
+      personality: `la piccola città di canali di 105.000 abitanti tra Rotterdam e L'Aia dove il Markt ciottolato sotto la Nieuwe Kerk (tomba di Guglielmo d'Orange dal 1584, mausoleo della Casa Reale olandese, torre di 109 m), lo Stadhuis rinascimentale, l'Oude Kerk dov'è sepolto Vermeer con la sua torre pendente, il canale Oude Delft scavato nel 1100 (il più antico dei Paesi Bassi), il Museo Prinsenhof (luogo dell'assassinio di Guglielmo d'Orange nel 1584), la porta cittadina Oostpoort del 1400 e la manifattura di porcellana Royal Delft (Koninklijke Porceleyne Fles, fondata nel 1653) si trovano tutti dentro i canali singel, a 12 minuti di treno NS sia da L'Aia Centrale che da Rotterdam Centrale`,
+      highlight: `il Markt sotto la torre di 109 m della Nieuwe Kerk, il cortile e il negozio della porcellana Royal Delft su Rotterdamseweg, e le zone di spiaggia cani di Kijkduin/Scheveningen aperte tutto l'anno, raggiungibili in 45-55 minuti con il tram HTM 1`,
+      area: `il Centrum dentro i canali singel attorno al Markt e al canale Oude Delft, il verde campus della TU Delft a sud della città, e il parco ricreativo di Delftse Hout a est del centro`,
+    },
+    denia: {
+      personality: `la città portuale del nord della Costa Blanca, Città Creativa UNESCO della Gastronomia, con il Castillo moresco dell'XI secolo sopra il casco antiguo imbiancato a calce, il Parco Naturale del Montgó di 753 m che si alza subito dietro la città, traghetti Baleària giornalieri per Ibiza, e la rara spiaggia cani aperta tutto l'anno di Platja Canina de Les Deveses`,
+      highlight: `le mura esterne del Castillo de Dénia, il sentiero sulla scogliera di Cap de Sant Antoni sopra la Riserva Marina, e la Platja Canina de Les Deveses (spiaggia cani tutto l'anno)`,
+      area: `il casco antiguo di Les Roques sotto il castello, il quartiere dei pescatori di Baix la Mar vicino al porto, e il lungomare di Les Marines a nord della città`,
+    },
+    denver: {
+      personality: `la Mile High City, un miglio sopra il livello del mare con circa 300 giorni di sole, diciassette parchi cani recintati e un'enorme cultura delle terrazze, ma una rete di trasporti che porta solo animali in trasportino`,
+      highlight: `i sentieri verdi di Cherry Creek e South Platte che si incontrano al Confluence Park, i sentieri al guinzaglio del Red Rocks Park, e i 28 ettari recintati con due stagni balneabili dell'area senza guinzaglio del Chatfield State Park`,
+      area: `Union Station e LoDo, le strade dei murales di RiNo, e i prati e i viali alberati attorno a Washington Park e Cherry Creek North`,
+    },
+    dresden: {
+      personality: `una compatta capitale barocca sull'Elba con chilometri di prati fluviali senza guinzaglio, un bosco comunale di 5.800 ettari sul margine nord, e una storica flotta di battelli a vapore che accoglie i cani senza sovrapprezzo`,
+      highlight: `gli Elbwiesen, i prati fluviali che attraversano il centro, il bosco Dresdner Heide, e i giardini del palazzo Schlosspark Pillnitz`,
+      area: `l'Altstadt intorno alla Frauenkirche, l'Äußere Neustadt, e i quartieri residenziali di Striesen e Blasewitz`,
+    },
+    dubai: {
+      personality: `una metropoli desertica sul Golfo Arabico dove viaggiare con l'animale funziona a modo suo, coi cani molto meno presenti in pubblico rispetto all'Europa ma una città servita benissimo da veterinari 24 ore e resort per animali professionali`,
+      highlight: `il piccolo Dubai Islands Beach Dog Park (l'unica spiaggia per cani autorizzata), terrazze pet-friendly come Reform Social & Grill, e le passeggiate sul lungomare del Dubai Water Canal`,
+      area: `Jumeirah e Umm Suqeim lungo Al Wasl Road, Business Bay sul canale, e Dubai Investment Park dove si concentrano i resort per animali`,
+    },
+    dublin: {
+      personality: `una città calorosa, tutta pub, dove i cani sono benvenuti nei beer garden, sulle passeggiate costiere e nel parco urbano più grande d'Europa, il Phoenix Park`,
+      highlight: `il Phoenix Park (1.750 acri, in gran parte senza guinzaglio), la passeggiata lungo il fiume Dodder, e la spiaggia di Sandymount Strand`,
+      area: `Ranelagh, Portobello, e Stoneybatter`,
+    },
+    dubrovnik: {
+      personality: `una città murata spettacolare dove i cani accompagnano i padroni su sentieri costieri, spiagge isolane tranquille, e le terrazze ombreggiate di pini fuori dalla Città Vecchia`,
+      highlight: `il sentiero costiero verso la spiaggia di Sveti Jakov, la gita in traghetto all'isola di Lokrum (cani ammessi), e la penisola di Lapad`,
+      area: `Lapad, Gruž, e i dintorni della Città Vecchia`,
+    },
+    dunkerque: {
+      personality: `un porto sulla Manica di 86.000 abitanti (200.000 nell'area metropolitana), il terzo porto di Francia, porta d'accesso al traghetto DFDS Dunkerque-Dover, coronato dal campanile UNESCO Beffroi Saint-Éloi (parte dell'insieme UNESCO dei campanili di Belgio e Francia), sede del Memoriale Operazione Dynamo e del Memoriale del Ricordo che ripercorrono l'evacuazione del 1940 di 338.000 soldati alleati, con la passeggiata continua sulle dune più lunga della costa francese della Manica (12 km da Malo-les-Bains a Bray-Dunes al confine belga), la rete DK'Bus cittadina completamente gratuita e il Carnevale di Dunkerque per sei weekend tra febbraio e marzo`,
+      highlight: `i 12 km di dune costiere da Malo-les-Bains a Bray-Dunes (la passeggiata continua sulle dune più lunga della costa francese della Manica), la Riserva Naturale Dune Marchand di 220 ettari con zone stagionali senza guinzaglio, la piazza del campanile UNESCO Beffroi Saint-Éloi, il Memoriale Operazione Dynamo al Bastione 32 con la passeggiata sul lungomare fino al Mole de Dunkerque, e il Quai de la Citadelle di fronte allo storico veliero a tre alberi Duchesse Anne`,
+      area: `il centro intorno a Place Jean Bart e al campanile UNESCO Beffroi Saint-Éloi, il Bassin du Commerce col Museo Portuale e la Duchesse Anne, la Digue de Mer stile Belle Époque a Malo-les-Bains 2 km a nord, e le riserve Dune Marchand / Dune du Perroquet verso il confine belga`,
+    },
+    dusseldorf: {
+      personality: `capitale renana della moda e dei birrifici con 21 Hundewiesen recintate ufficiali, una Rheinuferpromenade di 2 km nel centro, e il Medienhafen di Frank Gehry a un tram di distanza dal cluster di birrerie Altbier dell'Altstadt`,
+      highlight: `l'Hofgarten (il primo parco pubblico della Germania), il Medienhafen con gli edifici di Gehry e il Rheinturm, e le zone ufficiali per fare il bagno ai cani all'Unterbacher See a 20 minuti a sud`,
+      area: `l'Altstadt intorno a Ratinger Straße, il lungomare del Medienhafen, e la verde Oberkassel sulla riva sinistra`,
+    },
+    edinburgh: {
+      personality: `una delle città più accoglienti per cani della Gran Bretagna, con colline senza guinzaglio, pub dog-friendly a ogni angolo, e una cultura che tratta i cani come membri della famiglia a tutti gli effetti`,
+      highlight: `Arthur's Seat (senza guinzaglio), Holyrood Park, e il sentiero lungo il Water of Leith`,
+      area: `Stockbridge, Leith, e la New Town`,
+    },
+    ericeira: {
+      personality: `cittadina di pescatori atlantica di 10.000 abitanti a 40 km a nord di Lisbona, unica World Surfing Reserve d'Europa dal 2011, con sette break di livello mondiale tra cui Ribeira d'Ilhas, tappa del WSL Championship Tour, e la pesante scogliera di Coxos, un centro storico su una scogliera fatto di terrazze di tasca imbiancate sopra Praia dos Pescadores, e il monumentale Palácio Nacional de Mafra UNESCO con la sua tenuta reale Tapada di 800 ettari a 10 km nell'entroterra`,
+      highlight: `il break Ribeira d'Ilhas, tappa del WSL Championship Tour, e il punto panoramico sulla scogliera della World Surfing Reserve, la pesante scogliera destra di Coxos e il porto dei pescatori di Praia dos Pescadores, e il Palácio Nacional de Mafra UNESCO con la tenuta reale Tapada di 800 ettari a 10 km nell'entroterra`,
+      area: `il centro storico sulla scogliera intorno a Largo das Ribas e Praça da República, la passeggiata sul lungomare sopra Praia dos Pescadores e Praia do Sul, e la costa dei surfisti a nord verso Ribeira d'Ilhas e Coxos`,
+    },
+    evora: {
+      personality: `la capitale UNESCO dell'Alentejo, ex città romana, visigota e moresca, con un Tempio Romano di 2.000 anni, l'inquietante Capela dos Ossos, uno dei più grandi circuiti di mura medievali dell'Iberia, e collegamento ferroviario diretto CP da Lisbona in 1h30`,
+      highlight: `il Tempio Romano di Évora, il sito megalitico Cromeleque dos Almendres (7.000 anni più vecchio di Stonehenge), e le spiagge per cani sul Lago Alqueva a Monsaraz`,
+      area: `il Centro Storico intorno a Praça do Giraldo, la zona del Tempio Romano su Largo do Conde de Vila Flor, e la strada del vino dell'Alentejo appena fuori le mura`,
+    },
+    falmouth: {
+      personality: `una vivace città portuale universitaria sulla mite costa sud della Cornovaglia, con spiagge sabbiose a due passi dal centro e uno dei porti naturali più profondi al mondo`,
+      highlight: `il dog-friendly Pendennis Castle, il traghetto gratuito per St Mawes attraverso il Carrick Roads, la spiaggia di Sunny Cove tutto l'anno e il sentiero costiero intorno a Pendennis Point`,
+      area: `la via principale del porto e Custom House Quay, il lungomare di Gyllyngvase e il promontorio di Pendennis, e Discovery Quay vicino al Museo Marittimo`,
+    },
+    faro: {
+      personality: `la capitale dell'Algarve e porta d'accesso alla costa meridionale del Portogallo, con una Cidade Velha classificata UNESCO, il parco naturale Ria Formosa di 18.000 ettari con passerelle di fenicotteri tutto l'anno, spiagge atlantiche pet-friendly su isole-barriera raggiungibili in traghetto, e i supplementi per animali più bassi del sud Europa`,
+      highlight: `la Cidade Velha e la porta delle cicogne Arco da Vila, la passerella della Ria Formosa fino alle saline, e la spiaggia selvaggia atlantica per cani di Ilha Deserta raggiungibile in traghetto`,
+      area: `la Cidade Velha intorno alla piazza della cattedrale, la passeggiata sul lungomare della marina, e il quartiere residenziale di Bom João vicino alla stazione`,
+    },
+    florence: {
+      personality: `una città rinascimentale dove i cani trottano sui ciottoli fino ai mercati mattutini, si siedono sotto gli ombrelloni dei caffè, e camminano sulle rive dell'Arno con i loro padroni ogni sera`,
+      highlight: `il Giardino di Boboli, il parco delle Cascine (zone senza guinzaglio), e i sentieri lungo l'Arno`,
+      area: `Oltrarno, Santa Croce, e San Frediano`,
+    },
+    formentera: {
+      personality: `la più piccola delle quattro isole maggiori delle Baleari, una striscia piatta di 19 km di sabbia chiara, macchia di ginepro e posidonia protetta dall'UNESCO raggiungibile solo in traghetto da Ibiza, dove 12.000 residenti tutto l'anno e una delle stagioni intermedie più tranquille del Mediterraneo trasformano l'intera isola in una lunga passeggiata per cani`,
+      highlight: `il faro Far de la Mola sulla scogliera orientale di 142 m, il sentiero storico Camí Romà fino all'altopiano di La Mola, e la strada rialzata della penisola di Trocadors sopra Ses Illetes`,
+      area: `Sant Francesc Xavier (il capoluogo con la chiesa fortificata del 1726), Es Pujols (la principale località costiera), e Sant Ferran de ses Roques (il villaggio bohémien dell'entroterra)`,
+    },
+    frankfurt: {
+      personality: `la capitale finanziaria più verde della Germania, il 52% della città è bosco o parco, con uno Stadtwald di 4.200 ettari, taverne di Apfelwein dog-friendly a Sachsenhausen, e due cliniche veterinarie d'emergenza 24/7`,
+      highlight: `la Hundeauslauffläche recintata nel Grüneburgpark, la passeggiata Mainufer di 4 km, e i sentieri del bosco Stadtwald`,
+      area: `Sachsenhausen, Westend, e l'Altstadt intorno al Römerberg`,
+    },
+    freiburg: {
+      personality: `città eco-sostenibile del Baden di 236.000 abitanti ai piedi della Foresta Nera e centro urbano più soleggiato della Germania, con un'Altstadt pedonale in stile UNESCO, i famosi canaletti Bächle tra i ciottoli, e la funivia Schauinslandbahn fino alla montagna Schauinsland di 1.284 m`,
+      highlight: `il mercato quotidiano di Münsterplatz, la collina boscosa dello Schlossberg sopra l'Altstadt, la funivia Schauinslandbahn, e il bosco Mooswald senza guinzaglio a ovest della città`,
+      area: `l'Altstadt pedonale intorno a Münsterplatz e Schwabentor, lo Stadtgarten e il Colombipark a nord del centro, e il quartiere Stühlinger a ovest della stazione centrale`,
+    },
+    frejus: {
+      personality: `il comune più dog-friendly della Costa Azzurra francese di gran lunga, con tre spiagge ufficiali per cani tutto l'anno (Argens, Esclamandes, Pacha Plage), un parco Base Nature di 100 ettari con un nuovissimo Woof Park completamente recintato, e cani ammessi al guinzaglio dentro l'anfiteatro romano del I secolo`,
+      highlight: `la cani-plage di Plage d'Argens a Saint-Aygulf, la Base Nature François Léotard col suo Woof Park, e le rovine dell'arena romana e dell'acquedotto`,
+      area: `la Città Vecchia medievale intorno a Place Formigé e alla Cattedrale di Saint-Léonce, la marina di Port Fréjus, e il lungomare di Saint-Aygulf`,
+    },
+    fuengirola: {
+      personality: `una vivace località della Costa del Sol in provincia di Málaga con una passeggiata sul mare di 7 km, il castello di Sohail in cima a una collina e una delle poche spiagge ufficiali per cani tutto l'anno dell'Andalusia, più circa sette parchi recintati per cani e un treno Cercanías che porta i cani gratis dall'aeroporto di Málaga`,
+      highlight: `la spiaggia per cani Playa Canina del Castillo de Sohail, il Paseo Marítimo di 7 km e il Parque del Río Fuengirola lungo il fiume sotto il castello`,
+      area: `il centro storico e il porto, il lungomare di Los Boliches, e il promontorio del Castillo Sohail all'estremità sud`,
+    },
+    funchal: {
+      personality: `il capoluogo di Madeira, un'isola atlantica mite tutto l'anno con cultura da esplanada, la passeggiata sulla scogliera del Lido, i sentieri levada sopra la città, e l'unico ospedale veterinario 24/7 dell'arcipelago`,
+      highlight: `il Parque de Santa Catarina sopra la baia, il sentiero escursionistico Levada dos Tornos, e il percorso sulla scogliera del Lido`,
+      area: `la Zona Velha intorno a Rua de Santa Maria, la fascia alberghiera del Lido / Estrada Monumental, e le alture di Monte`,
+    },
+    galway: {
+      personality: `la capitale bohémien della Wild Atlantic Way irlandese, dove i pub accolgono i cani nei loro angolini, la passeggiata di Salthill si riempie di animali al guinzaglio al tramonto, e le spiagge e torbiere del Connemara sono a 30 minuti a ovest`,
+      highlight: `la Salthill Promenade di 2 km, la spiaggia senza guinzaglio di Silver Strand, e il lungomare di Spanish Arch + Long Walk`,
+      area: `il Latin Quarter, il West End, e Salthill sulla baia`,
+    },
+    gdansk: {
+      personality: `la Perla Anseatica del Baltico ed ex Città Libera di Danzica, con un Długi Targ UNESCO, il luogo di nascita di Solidarność al Cantiere Navale di Danzica, e collegamento ferroviario SKM diretto alla Spiaggia per Cani di Sopot (la più famosa della Polonia) in 15 minuti`,
+      highlight: `Długi Targ e via Mariacka, la Spiaggia per Cani di Sopot a 15 minuti in SKM, e il Parco Paesaggistico della Tricittà con 200 km di sentieri senza guinzaglio`,
+      area: `il Główne Miasto intorno a Długi Targ, l'isola Wyspa Spichrzów sulla Motława, e Wrzeszcz a nord`,
+    },
+    gdynia: {
+      personality: `la metà modernista e portuale della Tricittà polacca (con Danzica e Sopot), città portuale di 244.000 abitanti con due spiagge per cani dedicate tutto l'anno, due veterinari d'emergenza 24 ore, la Sea Towers e le navi museo Dar Pomorza e ORP Blyskawica sul molo sud`,
+      highlight: `Skwer Kosciuszki e il molo sud con il cacciatorpediniere della Seconda Guerra Mondiale ORP Blyskawica, le scogliere di Orlowo e il molo di legno di 180 m, e la spiaggia per cani di Kolibki col suo recinto per l'agility`,
+      area: `Srodmiescie intorno a Skwer Kosciuszki, Kamienna Gora sopra il centro, e Orlowo con le sue scogliere e il molo di legno`,
+    },
+    geneva: {
+      personality: `una delle capitali internazionali più accoglienti d'Europa per gli animali, la legge svizzera ammette i cani in ristoranti e caffè, il bosco senza guinzaglio del Bois de la Bâtie sta nel centro tutto l'anno, e due cliniche veterinarie d'emergenza 24/7 servono il cantone`,
+      highlight: `il bosco senza guinzaglio del Bois de la Bâtie, la passeggiata sul lago di Quai Wilson, e il quartiere bohémien di Carouge`,
+      area: `Pâquis sulla riva destra, Eaux-Vives sulla riva sinistra, e Carouge oltre l'Arve`,
+    },
+    genoa: {
+      personality: `una delle città italiane più discretamente pet-friendly, la prima della Liguria ad aprire una spiaggia ufficiale per cani, coi caruggi 8°C più freschi del lungomare nei giorni d'estate, tre cliniche veterinarie d'emergenza 24/7, e una rete di trasporto verticale unica fatta di funicolari e ascensori`,
+      highlight: `la spiaggia per cani di Vesima aperta tutto l'anno, i Parchi di Nervi di 92.000 m², e il Porto Antico ridisegnato da Renzo Piano`,
+      area: `le Strade Nuove UNESCO, il borgo di pescatori di Boccadasse, e i parchi marini di Nervi`,
+    },
+    getxo: {
+      personality: `il vicino basco costiero di Bilbao sul Golfo di Biscaglia, sede del Ponte di Vizcaya UNESCO (dog-friendly dal 2017), il pittoresco porto di pescatori di Puerto Viejo de Algorta e un sentiero panoramico sulla scogliera di 6 km sopra il Mar Cantabrico`,
+      highlight: `il sentiero sulla scogliera di Punta Galea dal mulino a vento di Aixerrota, il ponte trasbordatore di Vizcaya con cani fino a 40 kg, e 17 zone designate per cani senza guinzaglio`,
+      area: `il Puerto Viejo de Algorta, il quartiere di ville d'epoca romantica di Neguri, e il lungomare di Las Arenas sull'estuario del Nervión`,
+    },
+    ghent: {
+      personality: `una progressista città universitaria fiamminga col centro storico senza auto più grande d'Europa, il castello Gravensteen dei Conti delle Fiandre sul suo fossato, l'Agnello Mistico di Van Eyck nella Cattedrale di San Bavone, una spiaggia cittadina per il bagno dei cani a Blaarmeersen e treni NMBS gratis per i cani fino a Bruges in 25 minuti`,
+      highlight: `il Citadelpark di 13 ettari con la sua zona recintata senza guinzaglio, la riserva NATURA 2000 di Bourgoyen-Ossemeersen di 300 ettari, e la spiaggia per cani di Blaarmeersen a 4 km dal centro`,
+      area: `il lungomare medievale Korenmarkt-Graslei-Korenlei, il quartiere più antico di Patershol intorno al Gravensteen, e la piazza dei venditori di cuberdon Vrijdagmarkt`,
+    },
+    girona: {
+      personality: `la gemma medievale della Catalogna a misura di passeggiata, a un'ora da Barcellona, città di 103.000 abitanti con 7 km di itinerari canini ufficiali senza guinzaglio lungo il Ter e l'Onyar, cinque aree recintate per cani, l'intero cammino delle mura di 2 km aperto ai cani al guinzaglio e un ospedale veterinario 24 ore`,
+      highlight: `il cammino delle mura Passeig de la Muralla di 2 km, il parco Devesa con le sue due aree per cani, e l'itinerario canino senza guinzaglio Ribes del Ter`,
+      area: `il Barri Vell e il Call intorno a Carrer de la Forca, Mercadal oltre l'Onyar, e Fontajau lungo le rive del Ter`,
+    },
+    glasgow: {
+      personality: `una delle città più affidabilmente dog-friendly del Regno Unito, con animali gratis su ogni treno ScotRail, pub dog-friendly in ogni quartiere, e il Pollok Country Park di 146 ettari dentro la città`,
+      highlight: `il Pollok Country Park, il Kelvingrove Park, e il Loch Lomond a 50 minuti di treno`,
+      area: `il West End, Merchant City, e Finnieston`,
+    },
+    gothenburg: {
+      personality: `la città più dog-friendly della Svezia, un vivace porto universitario dove i cani viaggiano gratis sui tram, corrono senza guinzaglio nello Slottsskogen di 137 ettari, e sono benvenuti in quasi ogni caffè`,
+      highlight: `il bosco urbano di Slottsskogen, i caffè nel quartiere di legno di Haga, e le isole dog-friendly dell'arcipelago di Göteborg`,
+      area: `Haga, il quartiere di Linné, e il distretto di Vasastan`,
+    },
+    graz: {
+      personality: `la capitale della Stiria austriaca classificata UNESCO, dove la torre dell'orologio Uhrturm sullo Schlossberg corona un Altstadt rinascimentale perfettamente conservato e la cultura del Wirtshaus accoglie i cani al chiuso anche d'inverno`,
+      highlight: `i sentieri boscosi dello Schlossberg fino all'Uhrturm, la Hundezone dello Stadtpark, e il sentiero fluviale della Mur di 7 km attraverso il centro`,
+      area: `l'Altstadt UNESCO intorno all'Hauptplatz, il trendy quartiere di Lend a ovest della Mur, e il verde quartiere universitario di Geidorf`,
+    },
+    granada: {
+      personality: `la città moresca più suggestiva d'Europa, dove l'Alhambra domina i vicoli acciottolati dell'Albaicín, la cultura delle terrazze andaluse rende i cani genuinamente benvenuti, e la Sierra Nevada è a un'ora di distanza`,
+      highlight: `il Paseo de los Tristes sotto le mura dell'Alhambra, il quartiere UNESCO dell'Albaicín, e i parchi dog-friendly del quartiere Arabial`,
+      area: `l'Albaicín, il Realejo, e il centro storico intorno a Plaza Nueva`,
+    },
+    grindelwald: {
+      personality: `il villaggio svizzero sulla parete nord dell'Eiger nel cuore della regione della Jungfrau, 4.000 abitanti a 1034 m dove la passerella sospesa First Cliff Walk pende a 2168 m, la Männlichenbahn (la funivia aerea più lunga d'Europa) sale a 2342 m, l'Eiger Express, la cabinovia tricavo dal Grindelwald Terminal raggiunge l'Eigergletscher in 15 minuti, e la linea d'emergenza 24/7 della Tierklinik Interlaken copre tutta la valle`,
+      highlight: `il First Cliff Walk all'alba con la parete nord dell'Eiger che si tinge d'arancio, l'escursione di 1 ora fino al pittoresco Bachalpsee a 2265 m, e la funivia Pfingstegg fino al punto panoramico sul ghiacciaio di Bäregg`,
+      area: `Grindelwald Dorf lungo la Hauptstrasse sotto l'Eiger, Grindelwald Grund al terminal di Eiger Express e Männlichenbahn, e gli altopiani alpini di First, Männlichen e Pfingstegg`,
+    },
+    groningen: {
+      personality: `la capitale non ufficiale del nord olandese (235.000 abitanti), città universitaria con oltre 60.000 studenti intorno alla Rijksuniversiteit del 1614, con la Martinitoren di 96 m (la torre di chiesa più alta del nord olandese, 261 gradini) sulla Grote Markt, la piazza del mercato del pesce Vismarkt col Korenbeurs del 1865, le banchine del canale Hoge der A e l'Akerk, il parco centrale Noorderplantsoen del 1830 (grande prato senza guinzaglio, festival artistico Noorderzon ad agosto) e lo Stadspark di 140 ettari a sud del centro, a 2h05 da Amsterdam Centraal in Intercity NS, e la porta d'accesso alla costa UNESCO del Mare di Wadden (traghetto per l'isola di Schiermonnikoog, 1h15 tra il bus Qbuzz 163 e la traversata Wagenborg)`,
+      highlight: `le piazze Martinikerkhof e Vismarkt sotto la Martinitoren di 96 m, il prato senza guinzaglio del Noorderplantsoen, e la spiaggia per cani sull'isola di Wadden di Schiermonnikoog raggiungibile in 1h15 con bus Qbuzz + traghetto Wagenborg`,
+      area: `il Centrum dentro il diepenring intorno alla Grote Markt e all'Hoge der A, il Noorderplantsoen e il Centrum-Noord, e la passeggiata lungo il canale Reitdiep fuori città a nord`,
+    },
+    guimaraes: {
+      personality: `la culla del Portogallo classificata UNESCO, un centro storico di granito completamente pedonale intorno al Castelo del X secolo dove nacque il primo re del Portogallo, il palazzo Paço dos Duques del XV secolo, l'iconico Largo da Oliveira medievale, e la montagna Penha di 617 m raggiunta dalla funivia più lunga del Portogallo che accoglie i cani al guinzaglio in ogni cabina`,
+      highlight: `il Castelo e il Paço dos Duques sulla collina del castello, il Largo da Oliveira col gotico Padrão do Salado, e i sentieri della montagna Penha raggiunti dal dog-friendly Teleférico da Penha`,
+      area: `il centro storico UNESCO intorno a Largo da Oliveira e Praça de Santiago, la collina del castello, e il quartiere Costa lungo la base della funivia della Penha`,
+    },
+    haarlem: {
+      personality: `la base più indolore dog-friendly per la regione di Amsterdam, una compatta città olandese medievale 20 km a ovest di Amsterdam dove la Grote Markt sotto la Grote Sint-Bavokerk (la tomba di Frans Hals, l'organo Mozart Müller), il fiume Spaarne col mulino De Adriaan, sedici hofjes storici (cortili) e il parco pubblico più antico dei Paesi Bassi (Haarlemmerhout, 1583) stanno a soli 15 minuti in treno NS da Amsterdam Centraal e a 10 minuti dalla spiaggia per cani di Zandvoort aperta tutto l'anno`,
+      highlight: `la Grote Markt e Klokhuisplein sotto la Grote Sint-Bavokerk, i prati senza guinzaglio dello Schoterbos a nord dello Spaarne, e lo hondenstrand di Zandvoort Zuid tutto l'anno più l'intera spiaggia di Zandvoort di 9 km senza guinzaglio da ottobre a maggio`,
+      area: `il Centrum dentro i canali intorno alla Grote Markt e alle banchine dello Spaarne, Haarlem-Noord intorno allo Schoterbos, e la fascia costiera da Zandvoort aan Zee fino a Bloemendaal aan Zee`,
+    },
+    hallstatt: {
+      personality: `il villaggio lacustre patrimonio UNESCO del Salzkammergut, un'icona alpina di 750 abitanti dove i cani viaggiano gratis sul battello del lago, salgono con la funicolare Salzberg fino allo Skywalk Welterbeblick, ed esplorano la valle Echerntal e il Gosausee, adatto anche al bagno dei cani`,
+      highlight: `la passeggiata lungolago di 1 km, la valle Echerntal fino alla cascata Waldbachstrub, e la funivia Dachstein Krippenstein fino al punto panoramico Five Fingers`,
+      area: `il nucleo UNESCO della Marktplatz, l'altopiano Salzberg sopra il villaggio, e i sentieri del Dachstein-Salzkammergut intorno a Obertraun e Gosau`,
+    },
+    hamburg: {
+      personality: `la maggiore città tedesca più verde con 56 Hundeauslaufzonen recintate, un anello di camminata di 7 km intorno al lago Alster, le famose spiagge urbane dell'Elbstrand, e una cultura portuale dove i cani viaggiano sui traghetti e fanno pisolini sulle terrazze dei caffè`,
+      highlight: `l'anello di 7 km dell'Außenalster, l'Elbstrand a Övelgönne, e l'Altonaer Volkspark di 205 ettari`,
+      area: `le rive del lago Alster, lo Schanzenviertel, e il lungomare dell'Elba a Övelgönne`,
+    },
+    hannover: {
+      personality: `la calma capitale della Bassa Sassonia, sede della foresta urbana più grande della Germania (Eilenriede, 640 ettari, più grande di Central Park), il lago Maschsee con la sua zona per il bagno dei cani, e un ospedale veterinario universitario di livello mondiale`,
+      highlight: `la foresta Eilenriede di 640 ettari, l'anello del Maschsee di 6 km e la Hundebadestelle, e il viale barocco del Georgengarten`,
+      area: `List, le rive del Maschsee, e l'Altstadt intorno alla Marktkirche`,
+    },
+    heidelberg: {
+      personality: `la città universitaria più romantica della Germania, un'Altstadt barocca sotto il castello rinascimentale in rovina, l'iconico sentiero panoramico Philosophenweg, il bosco Königstuhl con 70 km di sentieri senza guinzaglio, e treni ICE diretti dall'aeroporto di Francoforte in 50 minuti`,
+      highlight: `le terrazze dello Schloss, il Philosophenweg col suo bosco Heiligenberg, e la funicolare Königstuhl fino a 70 km di sentieri boschivi senza guinzaglio`,
+      area: `l'Altstadt intorno alla Hauptstraße, Bergheim vicino alla stazione, e la verde Neuenheim oltre il Neckar`,
+    },
+    chania: {
+      personality: `la capitale occidentale di Creta, dove una Città Vecchia veneziano-ottomana avvolge il porto più fotogenico di Grecia, il frangiflutti del Faro Egiziano di 800 m è la passeggiata per cani di punta, e Falassarna, Elafonissi e Balos sono tutte raggiungibili in gita di un giorno`,
+      highlight: `il Porto Veneziano e il frangiflutti del Faro Egiziano, i bastioni della Fortezza Firkas, e i vicoli di Splantzia con la loro piazza dei platani`,
+      area: `la Città Vecchia murata intorno al Porto Veneziano e a Plateia 1821 a Splantzia, il lungomare di Nea Chora a ovest della Fortezza Firkas, e il quartiere residenziale di Halepa a est del centro`,
+    },
+    heraklion: {
+      personality: `la capitale di Creta, dove 4 km di mura veneziane che cingono il centro storico, un clima mite tutto l'anno, e due zone Bau-Beach ufficiali la rendono una delle città greche più facili per viaggiare con un cane`,
+      highlight: `la passeggiata di 4 km sulle Mura Veneziane, il molo della fortezza portuale di Koules, e la Bau-Beach di Amoudara a 5 km a ovest`,
+      area: `il centro storico murato intorno a Plateia Eleftherias e Lions Square, la passeggiata del porto, e la costa occidentale verso Amoudara`,
+    },
+    helsinki: {
+      personality: `una capitale nordica dove l'arcipelago di isole, le foreste di pini, e una cultura profondamente orientata all'aria aperta la rendono eccezionalmente accogliente per i cani e i loro padroni`,
+      highlight: `il Parco Centrale (Keskuspuisto), la riserva naturale dell'isola di Seurasaari, e l'isola fortezza di Suomenlinna`,
+      area: `Kallio, Töölö, e il Design District`,
+    },
+    heviz: {
+      personality: `una piccola città termale ungherese costruita intorno al più grande lago termale naturale al mondo, vicino alla punta occidentale del Lago Balaton, dove un parco boschivo ombreggiato circonda l'acqua e le spiagge per cani sul Balaton sono a pochi minuti di auto`,
+      highlight: `il parco boschivo Véderdő che circonda il Lago Hévíz, la chiesa di epoca arpadiana di Egregy col giardino di rovine romane, e la spiaggia e l'area per cani sul Lago Balaton nella vicina Keszthely`,
+      area: `il quartiere termale sul lungolago intorno a Kossuth Lajos utca, lo storico quartiere di Egregy, e la vicina città di Keszthely sul Lago Balaton`,
+    },
+    hvar: {
+      personality: `l'isola del sole della Dalmazia (2.718 ore di sole l'anno, il record croato), 11.000 residenti sull'intera isola e solo 3.700 nella piccola Hvar Town, raccolta intorno a Piazza San Stefano (la piazza più grande della Dalmazia), la cattedrale del XVI secolo, il teatro Arsenal del 1612, il Monastero Francescano sulla scogliera del porto e la fortezza Fortica Španjola sulla collina retrostante, con l'arcipelago delle Isole Pakleni a 15 minuti di acqua-taxi dalla punta occidentale, Stari Grad a 20 km a est (la città più antica della Croazia, Pharos greca del 384 a.C.) e la Piana di Stari Grad UNESCO, crinali di lavanda intorno a Velo Grablje e vigneti di Plavac Mali a Sveta Nedjelja, raggiungibile solo in catamarano Jadrolinija o traghetto per auto da Spalato`,
+      highlight: `Piazza San Stefano e il teatro Arsenal del 1612, il panorama dalla Fortica Španjola sulle Isole Pakleni, la passeggiata sulla scogliera del porto al Monastero Francescano, le baie dog-friendly di Palmižana e Mlini a Sveti Klement, e la piana agricola UNESCO di Stari Grad con 16 km di viottoli tra vigneti a secco`,
+      area: `Hvar Town intorno a Piazza San Stefano e alla collina della Fortica, l'arcipelago delle Isole Pakleni al largo della punta occidentale, Stari Grad e la piana UNESCO a 20 km a est, e Jelsa/Vrboska, la "piccola Venezia" sulla costa nord centrale`,
+    },
+    hyeres: {
+      personality: `una località della costa del Var con l'unica spiaggia per cani ufficialmente designata tutto l'anno sulla Costa Azzurra francese (la cani-plage di Plage du Mérou), una clinica veterinaria 24/7 in centro, e accesso gratuito per i cani sui traghetti TLV-TVM per Porquerolles e Port-Cros`,
+      highlight: `la cani-plage di Plage du Mérou tra L'Ayguade e Les Salins, il doppio tombolo di Giens con la passeggiata della Route du Sel, e la zona umida di Vieux Salins coi suoi fenicotteri`,
+      area: `il viale alberato di palme Avenue Gambetta e la Città Vecchia medievale che sale al Parc Saint-Bernard, il lungomare di Port d'Hyères, e la penisola di Giens`,
+    },
+    ibiza: {
+      personality: `il capoluogo dell'isola balearica di Eivissa, dove la Dalt Vila murata UNESCO, un interno ricoperto di pinete, e una stagione intermedia sorprendentemente rilassata la rendono una destinazione genuinamente pet-friendly al di là del cliché della vita notturna`,
+      highlight: `il centro storico murato UNESCO di Dalt Vila e i suoi bastioni panoramici, la spiaggia per cani tutto l'anno a Cala Nova, e la riserva naturale di Ses Salines con le lagune dei fenicotteri`,
+      area: `Dalt Vila (centro storico UNESCO), i quartieri portuali di Sa Penya e Sa Marina, e la più tranquilla località familiare di Santa Eulalia a 15 minuti a nord`,
+    },
+    "ile-de-re": {
+      personality: `un'isola atlantica piatta e assolata al largo di La Rochelle, dove oltre 100 km di piste ciclabili rendono il cane nel cestino della bici la norma locale e le spiagge al guinzaglio, le saline e i villaggi portuali sono profondamente rilassati con gli animali`,
+      highlight: `le fortificazioni Vauban UNESCO e il porto di Saint-Martin-de-Ré, le saline e il faro Phare des Baleines all'estremità nord-ovest, e le lunghe sabbie atlantiche di Le Bois-Plage e La Couarde`,
+      area: `Saint-Martin-de-Ré dentro le sue mura a forma di stella, il mercato coperto medievale di La Flotte, e il villaggio balneare di Le Bois-Plage-en-Ré`,
+    },
+    innsbruck: {
+      personality: `la capitale del Tirolo circondata da vette alpine di 2.300 m, trasporto pubblico gratuito per i cani, funivie dog-friendly fino alle vette, tradizione di caffè e Gasthaus che accoglie i cani, e veterinario d'emergenza 24/7`,
+      highlight: `la catena del Nordkette raggiungibile in funivia dal centro, il parco reale dello Hofgarten, e l'Altstadt acciottolata intorno al Goldenes Dachl`,
+      area: `Altstadt, Wilten, e l'asse di Maria-Theresien-Strasse`,
+    },
+    interlaken: {
+      personality: `la porta svizzera della regione della Jungfrau sul Bödeli tra il Lago di Thun e il Lago di Brienz, dove il prato protetto di Höhematte di 10 ettari incornicia Eiger, Mönch e Jungfrau, la funicolare Harder Kulm porta i cani museruola a 1322 m, i battelli a vapore storici BLS accolgono i cani su entrambi i laghi, e la linea d'emergenza 24/7 della Tierklinik Interlaken AG copre l'intera regione`,
+      highlight: `Harder Kulm al tramonto col ponte sospeso Two Lakes Bridge, la passeggiata lungo l'Aare tra Interlaken West e Ost, e una giornata in battello BLS sul Lago di Brienz fino a Iseltwald e alle cascate di Giessbach`,
+      area: `il centro del Bödeli intorno alla Höheweg, Unterseen sull'Aare, e il margine sud di Matten / Wilderswil vicino alla Jungfraubahn`,
+    },
+    inverness: {
+      personality: `la capitale delle Highland scozzesi e porta d'accesso al Loch Ness, una città fluviale compatta e genuinamente dog-friendly dove le passeggiate sono tutto, le Ness Islands (isolotti boscosi collegati da passerelle vittoriane), l'alzaia del Caledonian Canal e il bosco di Craig Phadrig sono tutti gratis e a pochi minuti dal centro, i cani viaggiano gratis al guinzaglio su ScotRail, e l'Inshes Veterinary Centre gestisce la linea d'emergenza locale fuori orario`,
+      highlight: `l'anello delle Ness Islands sotto le passerelle vittoriane, la spiaggia di Dores con vista diretta sul Loch Ness accanto alla sua locanda dog-friendly, e una crociera Jacobite dog-friendly sul Loch Ness`,
+      area: `il centro compatto intorno a Church Street e Castle Street, le Ness Islands e il lungofiume Bught, e le spiagge della Black Isle a Rosemarkie e Chanonry Point`,
+    },
+    jurmala: {
+      personality: `la località balneare più famosa della Lettonia, 33 km di costa baltica di sabbia bianca a 30 minuti di treno da Riga, il parco giochi estivo dell'élite di Riga fin dal XIX secolo, con le dacie Art Nouveau in legno di Dzintari e Majori, il punto panoramico di Dubulti, e una spiaggia invernale per cani al guinzaglio che apre solo dal 1° novembre al 31 marzo`,
+      highlight: `la pineta bicentenaria del Parco Forestale di Dzintari, la spiaggia per cani di 33 km fuori stagione da Lielupe a Kemeri, e la passeggiata tra le dacie di legno di Z. Meierovica prospekts`,
+      area: `Majori intorno a Jomas iela, Dzintari intorno alla sala concerti e al parco forestale, e Dubulti al punto panoramico dove il fiume incontra il mare`,
+    },
+    "karlovy-vary": {
+      personality: `la città termale più famosa della Repubblica Ceca, avvolta da colline boscose`,
+      highlight: `i sentieri della Foresta di Slavkov, i percorsi del belvedere Diana, e la passeggiata lungo il fiume Ohře fino alle rocce di Svatošské skály`,
+      area: `il centro termale, Rybáře, e Tuhnice`,
+    },
+    klagenfurt: {
+      personality: `capoluogo carinziano di 104.000 abitanti sulla riva orientale del Wörthersee, il lago più caldo delle Alpi (fino a 26 gradi a luglio), con un compatto Altstadt rinascimentale, l'iconica fontana del drago Lindwurmbrunnen e Hundebadeplätze segnalati sul lago`,
+      highlight: `il Lindwurmbrunnen sulla Neuer Platz, l'alzaia del Lendkanal fino al Wörthersee, il bosco Kreuzbergl sopra l'Altstadt, e gli Hundebadeplätze di Maria Loretto e Krumpendorf sul lago`,
+      area: `l'Altstadt intorno ad Alter Platz e Neuer Platz, l'Europapark e la riva del Wörthersee intorno a Minimundus, e il boscoso Kreuzbergl a ovest del centro`,
+    },
+    krakow: {
+      personality: `una storica città polacca dove l'anello di giardini Planty che cinge il centro storico la rende una delle destinazioni più a misura di passeggiata dell'Europa centrale per i cani`,
+      highlight: `l'anello del parco Planty, i prati di Błonia, e i sentieri lungo la Vistola`,
+      area: `la Città Vecchia, Kazimierz, e Podgórze`,
+    },
+    kaunas: {
+      personality: `la capitale lituana del periodo tra le due guerre, dal 1919 al 1939, una città fluviale compatta di 294.000 abitanti dove 1.500 edifici modernisti patrimonio UNESCO fiancheggiano un viale pedonale di 1,6 km, il monastero barocco di Pažaislis fa da perno alla laguna di Kaunas, e due veterinari 24 ore su 24 più il trasporto cani gratuito nelle ore non di punta rendono ogni passeggiata facile`,
+      highlight: `gli itinerari modernisti di Kaunas patrimonio UNESCO (iscrizione 2023), il complesso del monastero di Pažaislis sulla laguna di Kaunas, e il querceto di Ąžuolynas di 63 ettari`,
+      area: `il centro storico lungo Vilniaus gatvė, il Naujamiestis lungo Laisvės alėja, e la collina della funicolare di Žaliakalnis`,
+    },
+    klaipeda: {
+      personality: `l'unico porto baltico della Lituania e la porta d'accesso alla Sputa Curlandese patrimonio UNESCO, una città compatta di 150.000 abitanti dove il traghetto pedonale gratuito di Smiltyne porta i cani nella pineta e sulla sabbia bianca in 5 minuti, il centro storico racchiude case in legno d'epoca Memel e Piazza del Teatro, e un ospedale veterinario di riferimento aperto 24 ore su 24 copre ogni itinerario`,
+      highlight: `il traghetto gratuito per Smiltyne verso la foresta e la spiaggia della Sputa Curlandese, Piazza del Teatro con la statua di Aennchen von Tharau, e il Parco delle Sculture di 12 ettari`,
+      area: `il centro storico lungo le vie Tiltu e Turgaus, il lungofiume del Dane, e Smiltyne dall'altra parte della laguna`,
+    },
+    lagos: {
+      personality: `la base più dog-friendly dell'Algarve occidentale, un centro storico murato del XVI secolo avvolto da vicoli pedonali e terrazze su strada, le scogliere calcaree color ocra di Ponta da Piedade con la loro passerella panoramica di 4 km, la duna di Meia Praia di 4 km per correre fuori stagione e una zona cani aperta tutto l'anno a Praia de Porto de Mós`,
+      highlight: `la passerella panoramica di Ponta da Piedade, la duna di Meia Praia aperta ai cani fuori stagione (4 km), e la zona cani permanente di Praia de Porto de Mós`,
+      area: `il centro storico murato attorno a Praça Gil Eanes e Praça do Infante, il lungomare della Marina de Lagos e la periferia residenziale di Chinicato`,
+    },
+    kyoto: {
+      personality: `la capitale imperiale millenaria del Giappone, una città impegnativa ma bellissima per chi viaggia con il cane, visto che la maggior parte di templi, santuari e giardini a pagamento non ammette animali, quindi il bello sta all'aperto lungo il fiume Kamo, nel Parco Imperiale e nelle vie storiche, con un veterinario di emergenza notturno dedicato e lo Shinkansen che collega Tokyo in circa 2 ore e 15 minuti`,
+      highlight: `le rive del fiume Kamo, i sentieri di Kyoto Gyoen (il Parco Imperiale), e il sentiero pubblico del bambuseto di Arashiyama con il Sentiero dei Filosofi`,
+      area: `il centro di Nakagyo e le vie di Higashiyama attorno a Gion, il lungofiume Kamo, e Arashiyama a ovest`,
+    },
+    "la-rochelle": {
+      personality: `una capitale della vela atlantica raccolta attorno al suo Vieux Port medievale, dove tre torri di guardia incorniciano il porto, le vie porticate dei mercanti riparano i cani da pioggia e sole, e la geografia piatta e adatta alle bici rende la città una delle più facili da girare con un cane in tutta la Francia`,
+      highlight: `le tre torri del Vieux Port (Saint-Nicolas, de la Chaîne e de la Lanterne), la cintura verde del Parc Charruyer di quasi 2 km dal centro al mare, e l'Île de Ré a dieci minuti oltre il ponte`,
+      area: `la Vieille Ville porticata e le banchine del Vieux Port, il corridoio verde del Parc Charruyer, e il porto turistico di Port des Minimes con il lungomare a sud`,
+    },
+    lausanne: {
+      personality: `la Capitale Olimpica della Svizzera sul Lago di Ginevra, una delle città più naturalmente dog-friendly d'Europa, dove i cani viaggiano gratis in metro, girano liberi nella foresta di Sauvabelin di 200 ettari, e sono i benvenuti praticamente in ogni ristorante`,
+      highlight: `la foresta urbana di Sauvabelin, il sentiero tra i vigneti UNESCO del Lavaux lungo il lago, e la passeggiata sul lungolago di Ouchy`,
+      area: `Ouchy (sul lago), il quartiere creativo di Flon, e la Cité medievale`,
+    },
+    lecce: {
+      personality: `la 'Firenze del Sud', centro storico barocco UNESCO scolpito interamente nella pietra leccese color miele, cultura dei caffè salentini tollerante verso i cani, e spiagge per cani aperte tutto l'anno a Punta Prosciutto e Frassanito, 30-45 minuti in auto`,
+      highlight: `Piazza del Duomo e la Basilica di Santa Croce, l'anfiteatro romano in Piazza Sant'Oronzo, e le spiagge per cani del Salento a Punta Prosciutto e Frassanito`,
+      area: `il centro storico attorno a Piazza Sant'Oronzo, il quartiere Mazzini vicino alla stazione, e il quartiere residenziale di Borgo Piave`,
+    },
+    leiden: {
+      personality: `la città universitaria più antica dei Paesi Bassi (fondata nel 1575) e città natale di Rembrandt, una compatta città sui canali di 125.000 abitanti dentro un anello di canali seicenteschi (i singel), dove il castello circolare del XII secolo Burcht van Leiden sulla sua collina artificiale, la Hooglandse Kerk, la Pieterskerk con il memoriale dei Padri Pellegrini del Mayflower (la congregazione vi pregò dal 1609 al 1620 prima di salpare per il Nuovo Mondo), il canale Rapenburg, l'Universiteit Academiegebouw del 1575, l'Hortus Botanicus (il più antico orto botanico dei Paesi Bassi, 1590) e il mulino Molen De Valk stanno tutti dentro il nuovo anello verde del Singelpark di 6 km, a 35 minuti in treno NS da Amsterdam Centraal e 12 minuti da Den Haag Centraal`,
+      highlight: `i bastioni del Burcht van Leiden (gratuiti, panoramici, cani al guinzaglio benvenuti 24 ore su 24), la passeggiata dei Padri Pellegrini tra Rapenburg e Pieterskerk, e le spiagge per cani sul Mare del Nord di Katwijk / Noordwijk raggiungibili in 25-30 minuti con il bus Connexxion 30/31`,
+      area: `il Centrum dentro i singel attorno al Burcht e al Rapenburg, la foresta urbana Leidse Hout a nord della stazione, e il Polderpark Cronesteyn a sud del centro`,
+    },
+    leipzig: {
+      personality: `la capitale musicale della Sassonia e città di Bach, la foresta alluvionale Auenwald di 5.500 ettari nel centro, l'alzaia dog-friendly del Karl-Heine-Kanal, 11 aree cani recintate (Hundeauslaufzonen) e una spiaggia per cani aperta tutto l'anno al Cospudener See, a 12 minuti in S-Bahn`,
+      highlight: `la foresta alluvionale Auenwald, la spiaggia per cani del Cospudener See, e l'alzaia del Karl-Heine-Kanal che collega Plagwitz al quartiere Karli`,
+      area: `l'Innenstadt attorno al Markt, il Karli (Karl-Liebknecht-Straße), e il quartiere creativo di Plagwitz`,
+    },
+    liepaja: {
+      personality: `la terza città della Lettonia e il principale porto del Baltico meridionale, la città dove nasce il vento, con una spiaggia Bandiera Blu di 7 km aperta ai cani al guinzaglio tutto l'anno, il più grande organo meccanico non ricostruito al mondo nella Cattedrale della Santa Trinità, e Karosta, l'unica prigione militare in Europa dove si può pernottare`,
+      highlight: `la spiaggia cittadina Bandiera Blu di 7 km a nord del monumento dei pescatori, il Parco Marino (Jurmalas parks) di 50 ettari, e la spiaggia selvaggia di Karosta oltre l'ex base navale sovietica`,
+      area: `il centro storico attorno a Piazza della Rosa, il Parco Marino lungo Liepu iela, e il quartiere di Karosta a nord del Canale Commerciale`,
+    },
+    lille: {
+      personality: `una città del nord della Francia con influenze fiamminghe, fatta di vicoli acciottolati e case di mattoni a gradoni, sede del primo caffè per cani d'Europa e con un centro piatto e percorribile a piedi dove i cani viaggiano gratis in metro`,
+      highlight: `la passeggiata sui bastioni della Cittadella, la foresta urbana Bois de Boulogne, e i caffè con terrazza della Vieux Lille`,
+      area: `Vieux Lille, Wazemmes, e il quartiere studentesco di Vauban`,
+    },
+    linz: {
+      personality: `la terza città più grande dell'Austria sul Danubio, un centro storico barocco dove i cani sono benvenuti su ogni terrazza dei caffè, una collina boscosa di 539 m raggiunta dalla ferrovia a cremagliera più ripida d'Europa, una zona senza guinzaglio con bagno nel fiume sulla riva nord, e una rete tranviaria Linz Linien che porta i cani gratis con ogni abbonamento mensile`,
+      highlight: `la basilica di Pöstlingberg raggiunta con la storica Pöstlingbergbahn, la spiaggia per cani Hundefreilaufzone Urfahr/Donau sul Danubio, e il percorso di sculture Forum Metall lungo il Donaupark`,
+      area: `il centro storico attorno a Hauptplatz e il Mariendom, Urfahr dall'altra parte del fiume, e il lungofiume Donaulände`,
+    },
+    lisbon: {
+      personality: `una città assolata e collinare il cui clima mite la rende ideale per viaggiare con animali domestici tutto l'anno`,
+      highlight: `il parco forestale di Monsanto, il lungomare di Belém, e le terrazze dell'Alfama`,
+      area: `Chiado, Príncipe Real, e Bairro Alto`,
+    },
+    leuven: {
+      personality: `la capitale universitaria fiamminga del Vlaams-Brabant, sede della KU Leuven (l'università cattolica più antica al mondo, 1425) e del birrificio Stella Artois, con uno sfarzoso Stadhuis gotico brabantino sulla Grote Markt, il quartiere Groot Begijnhof patrimonio UNESCO, l'Oude Markt con oltre 40 caffè, il 'bar più lungo d'Europa', le foreste di Heverleebos e Meerdaalwoud di 4.800 ettari al margine sud, e l'aeroporto di Bruxelles BRU a soli 18 minuti con il treno diretto NMBS`,
+      highlight: `lo Stadhuis gotico brabantino con la sua facciata di 236 statue, il Groot Begijnhof di Lovanio patrimonio UNESCO (il beghinaggio meglio conservato del Belgio, 1232), le zone senza guinzaglio nella foresta di Heverleebos, e le visite al birrificio Stella Artois da De Hoorn sul Vaartkom`,
+      area: `la Grote Markt attorno allo Stadhuis e alla Sint-Pieterskerk, la fila di oltre 40 caffè dell'Oude Markt, l'asse studentesco di Naamsestraat, il Groot Begijnhof a sud, e il bacino del canale Vaartkom a nord`,
+    },
+    liverpool: {
+      personality: `una città marittima patrimonio UNESCO con una delle più grandi reti di parchi urbani dell'Inghilterra nord-occidentale, tre spiagge per cani senza guinzaglio a 25 minuti in Merseyrail, e un corridoio di pub nel Baltic Triangle che accoglie cani al guinzaglio tutto l'anno`,
+      highlight: `i prati vittoriani di 95 ettari del Sefton Park, Crosby Beach con gli Iron Men di Antony Gormley, e il lungomare del Royal Albert Dock`,
+      area: `il lungomare del Royal Albert Dock, il Baltic Triangle, e il Quartiere Georgiano attorno alla cattedrale`,
+    },
+    ljubljana: {
+      personality: `la capitale verde d'Europa. Un centro compatto e senza traffico dove i cani camminano accanto ai loro padroni sulle terrazze lungo il fiume, tra i giardini del castello, e attraverso i ponti medievali`,
+      highlight: `il Tivoli Park (senza guinzaglio), la collina del Castello di Lubiana, e il percorso verde lungo il fiume Sava`,
+      area: `il centro storico, Trnovo, e Šiška`,
+    },
+    london: {
+      personality: `una delle capitali più naturalmente pet-friendly d'Europa, dove i cani accompagnano i loro padroni in pub, caffè, e attraverso vasti parchi reali tutto l'anno`,
+      highlight: `le aree senza guinzaglio di Hyde Park, Hampstead Heath, e il sentiero dog-friendly lungo il Tamigi`,
+      area: `Islington, Notting Hill, e Bermondsey`,
+    },
+    "los-angeles": {
+      personality: `la capitale dell'intrattenimento del Pacifico californiano, con uno stile di vita all'aperto mediterraneo tutto l'anno, l'area selvaggia urbana del Griffith Park di 1.700 ettari con la terrazza Art Déco dell'Osservatorio e la vista sulla scritta Hollywood, le sezioni senza guinzaglio segnalate del Runyon Canyon nelle Hollywood Hills, il parco per cani recintato del Silver Lake Reservoir, le regole dei dehors AB 1681 in migliaia di ristoranti a West Hollywood, Venice, Santa Monica e Silver Lake, la Rosie's Dog Beach a Long Beach come unica spiaggia senza guinzaglio della Contea di Los Angeles, l'Amtrak Pacific Surfliner che accetta animali fino a 20 libbre lungo la costa, e assistenza veterinaria d'emergenza 24 ore su 24 in tutta l'area metropolitana`,
+      highlight: `la terrazza del Griffith Observatory con vista sulla scritta Hollywood, l'anello senza guinzaglio di 4,7 km del Runyon Canyon sopra Hollywood, il lungomare di Venice e la via del design di Abbot Kinney, i giardini esterni in travertino del Getty Center a Brentwood, la Rosie's Dog Beach a Long Beach (l'unica spiaggia senza guinzaglio della Contea di Los Angeles), e il parco per cani del Silver Lake Reservoir`,
+      area: `West Hollywood e Hollywood attorno a Runyon Canyon e la Walk of Fame, il Westside (Santa Monica, Venice, Brentwood, Westwood) lungo il Pacifico, Downtown LA e l'Arts District attorno a Bunker Hill, Silver Lake ed Echo Park sui bacini idrici a est, Los Feliz all'ingresso del Griffith Park, e Long Beach a sud per la Rosie's Dog Beach`,
+    },
+    lucca: {
+      personality: `la città murata perfettamente conservata della Toscana, dove 4,2 km di bastioni rinascimentali (1545-1650) formano un anello piatto ed erboso per passeggiare col cane sopra le mura, forse la città grande più dog-friendly d'Italia`,
+      highlight: `la passeggiata sulle mura di 4,2 km, l'ovale di Piazza dell'Anfiteatro e la zona per il bagno dei cani sul lungofiume Serchio`,
+      area: `il centro storico murato attorno a Piazza San Michele, l'Anfiteatro, e la zona vicino al Duomo e alla Torre Guinigi`,
+    },
+    lucerne: {
+      personality: `una città svizzera da favola raccolta attorno a un profondo lago alpino, dove ponti di legno coperti, terrazze tolleranti verso i cani e ferrovie a cremagliera dog-friendly fino a Pilatus e Rigi rendono facilissime le giornate cane-e-montagna`,
+      highlight: `la passeggiata lungolago di Schweizerhofquai, la dorsale boscosa del Sonnenberg sopra la città, e i 30 ettari dell'Allmend`,
+      area: `l'Altstadt, Tribschen, e Hirschmatt-Neustadt`,
+    },
+    locarno: {
+      personality: `il volto assolato di lingua italiana del Ticino, sulla punta settentrionale del Lago Maggiore, 16.000 abitanti a 205 m dove Piazza Grande ospita lo schermo gigante all'aperto del Locarno Film Festival ad agosto, il santuario di pellegrinaggio della Madonna del Sasso si raggiunge in funicolare in 5 minuti, la funivia Cardada-Cimetta sale a 1670 m, la ferrovia delle Centovalli attraversa cento valli fino in Italia, il ponte romano della Val Verzasca fa il bagno in acque color smeraldo, e il microclima insubrico subtropicale è il più assolato della Svizzera`,
+      highlight: `Piazza Grande e la Città Vecchia medievale, la funicolare della Madonna del Sasso al tramonto, e il Ponte dei Salti a Lavertezzo in Val Verzasca con le pozze estive`,
+      area: `il centro attorno a Piazza Grande e alla Città Vecchia, Muralto e Minusio lungo il Lungolago, e Ascona sul lungolago a 4 km a ovest`,
+    },
+    lugano: {
+      personality: `il volto elegante di lingua italiana della Svizzera sul Lago di Lugano, dove i cani viaggiano gratis sui battelli, percorrono il Sentiero dell'Olivo fino a Gandria, fanno il bagno alla spiaggia per cani dedicata di Caslano, e salgono con la funicolare del Monte Brè a un panorama a 925 m`,
+      highlight: `la passeggiata lungolago Lugano-Paradiso, il Sentiero dell'Olivo fino a Gandria, e la funicolare del Monte Brè fino alla terrazza panoramica in vetta`,
+      area: `il centro attorno a Piazza della Riforma, il quartiere lacustre di Paradiso, e Castagnola-Gandria sulla riva orientale`,
+    },
+    luxembourg: {
+      personality: `l'unica capitale europea con trasporti pubblici gratuiti per tutti (cani compresi) dal 2020, con nove recinti comunali per cani dentro la città e un centro storico UNESCO che avvolge le spettacolari valli dei fiumi Pétrusse e Alzette`,
+      highlight: `il Chemin de la Corniche, il Parc de la Pétrusse con i suoi due recinti per cani, e la foresta di Bambësch di 600 ettari`,
+      area: `Ville-Haute, il Grund, e Belair`,
+    },
+    lyon: {
+      personality: `la capitale gastronomica della Francia, dove i cani sono comuni quanto i ristoranti bouchon. Benvenuti nei caffè, lungo le rive del fiume, e in tutta la Presqu'île`,
+      highlight: `il Parc de la Tête d'Or, le rive della Saona e del Rodano, e i sentieri della collina di Fourvière`,
+      area: `la Presqu'île, Croix-Rousse, e Confluence`,
+    },
+    maastricht: {
+      personality: `la città più antica dei Paesi Bassi e capitale borgognona del Limburgo, la cultura dei caffè borgognoni accoglie di default i cani al guinzaglio, la collina boscosa di Sint-Pietersberg sorge subito a sud del centro, e 22 aree recintate senza guinzaglio (losloopgebieden) circondano il nucleo medievale`,
+      highlight: `la collina boscosa di Sint-Pietersberg, l'alzaia lungo la Mosa fino al Belgio, e la baia per il bagno dei cani di Pietersplas a 5 km a sud`,
+      area: `il centro medievale attorno al Vrijthof, il quartiere di Wyck sulla riva destra della Mosa, e il quartiere di Sint Pieter`,
+    },
+    madrid: {
+      personality: `una delle capitali più ossessionate dai cani d'Europa: Madrid ha più cani pro capite di quasi ogni altra città europea`,
+      highlight: `il Parco del Retiro, la Casa de Campo, e il Parque del Oeste senza guinzaglio`,
+      area: `Malasaña, Lavapiés, e Chamberí`,
+    },
+    malaga: {
+      personality: `una rilassata città portuale andalusa dove i cani si uniscono ai loro padroni sulle terrazze dei musei, negli hotel fronte mare, e nello storico quartiere dell'Alcazaba`,
+      highlight: `il lungomare del Parque de Málaga, il parco naturale dei Montes de Málaga, e la zona cani della spiaggia di Pedregalejo`,
+      area: `il Centro Storico, Soho, e Pedregalejo`,
+    },
+    malmo: {
+      personality: `la capitale costiera della Svezia meridionale, una città compatta e adatta alle bici dove 61 parchi per cani recintati punteggiano ogni quartiere, i cani viaggiano gratis su tutta la rete Skånetrafiken, e il Ribersborg Hundbad aperto tutto l'anno è una delle migliori spiagge urbane per cani d'Europa`,
+      highlight: `la spiaggia per cani di Ribersborg e la sua fascia senza guinzaglio, il parco paesaggistico di Pildammsparken di 45 ettari, e la passeggiata costiera di Sundspromenaden fino al Porto Occidentale`,
+      area: `Gamla Staden attorno a Lilla Torg, il quartiere creativo di Möllevången, e Västra Hamnen accanto alla Turning Torso`,
+    },
+    manchester: {
+      personality: `una delle città più affidabilmente dog-friendly del Regno Unito, con animali gratis su ogni tram Metrolink e bus Bee Network, pub che accolgono cani su ogni strada del Northern Quarter, e i 240 ettari dell'Heaton Park a una fermata di tram`,
+      highlight: `l'Heaton Park, i Fletcher Moss Botanical Gardens, e l'alzaia del canale Bridgewater`,
+      area: `Northern Quarter, Ancoats, e Castlefield`,
+    },
+    marbella: {
+      personality: `una città balneare della Costa del Sol con due spiagge per cani ufficiali aperte tutto l'anno, una passeggiata sul lungomare di 7 km che collega il centro a Puerto Banús, e un centro storico andaluso imbiancato dove la maggior parte delle terrazze dei caffè accoglie cani di default`,
+      highlight: `Playa Canina El Pinillo e Playa Canina Ventura del Mar, la passeggiata con le sculture di Dalí sull'Avenida del Mar, e il sentiero costiero Senda Litoral`,
+      area: `il Casco Antiguo attorno a Plaza de los Naranjos, il lungomare della Golden Mile, e Puerto Banús`,
+    },
+    marseille: {
+      personality: `una città mediterranea baciata dal sole dove la vita all'aperto, le terrazze e la natura costiera danno forma a un ritmo inconfondibilmente dog-friendly`,
+      highlight: `i sentieri del Parco Nazionale delle Calanques, le isole Frioul raggiungibili in traghetto, e la passeggiata di 5 km della Corniche Kennedy`,
+      area: `le banchine del Vieux-Port, il quartiere storico di Le Panier, e il porto dei pescatori del Vallon des Auffes`,
+    },
+    maspalomas: {
+      personality: `la classica meta invernale di sole nel sud di Gran Canaria, mite e secca tutto l'anno, dove la famosa spiaggia è vietata ai cani ma le passeggiate e le spiagge per cani ufficiali nei dintorni la rendono una base facile fuori stagione`,
+      highlight: `la passeggiata Boulevard El Faro accanto al faro di Maspalomas, la fauna avicola della laguna di La Charca, e il lungo lungomare di Meloneras`,
+      area: `Meloneras, San Fernando de Maspalomas, e il margine di Playa del Inglés`,
+    },
+    matera: {
+      personality: `una città patrimonio UNESCO di 60.000 abitanti in Basilicata, costruita nel canyon calcareo del fiume Gravina attorno alle case grotta dei Sassi di Sasso Caveoso e Sasso Barisano, abitata ininterrottamente dal Paleolitico e nominata Capitale Europea della Cultura 2019, con la Cattedrale sullo sperone tufaceo più alto, il Piano, la città alta attorno a Piazza Vittorio Veneto con la cisterna sotterranea del Palombaro Lungo, le chiese rupestri della Madonna de Idris, Santa Lucia alle Malve e San Pietro Caveoso, il Parco della Murgia Materana di 8.000 ettari con oltre 150 chiese rupestri e il panorama cinematografico del Belvedere Murgia Timone (La Passione di Cristo, No Time to Die), il treno FAL da Bari Centrale che accetta cani gratis, e la navetta Pugliairbus dall'aeroporto di Bari BRI`,
+      highlight: `le case grotta dei Sassi patrimonio UNESCO di Sasso Caveoso e Sasso Barisano scavate nelle pareti tufacee sopra il canyon della Gravina, il panorama cinematografico del Belvedere Murgia Timone sul canyon usato ne La Passione di Cristo (2004) e No Time to Die (2021), il Parco della Murgia Materana di 8.000 ettari con oltre 150 chiese rupestri bizantine ed escursioni senza guinzaglio, Piazza Vittorio Veneto con la cisterna sotterranea del Palombaro Lungo, e l'incompiuto castello Tramontano del XVI secolo sul Piano a ovest`,
+      area: `i Sassi patrimonio UNESCO (Sasso Caveoso e Sasso Barisano) sul versante est del Piano sopra il canyon della Gravina, il Piano, la città alta attorno a Piazza Vittorio Veneto e Via Lucana, il Parco della Murgia Materana sull'altopiano opposto oltre la Gravina, e la stazione FAL di Matera Centrale nella periferia sud, collegata al centro del Piano da una camminata di 500 m via Via Don Luigi Sturzo`,
+    },
+    miami: {
+      personality: `la capitale Art Déco di South Beach in Florida, con ristorazione all'aperto tutto l'anno, due spiagge designate senza guinzaglio (Hobie Island sulla Rickenbacker Causeway e Haulover Dog Beach a Sunny Isles), grandi parchi per cani recintati a South Pointe, Margaret Pace, Tropical Park e Amelia Earhart, il treno interurbano Brightline che accetta animali fino a 25 libbre, un aeroporto porta d'ingresso internazionale approvato CDC per l'importazione di cani (MIA) con due aree di sgambamento al coperto, e assistenza veterinaria d'emergenza 24 ore su 24 in tutta l'area metropolitana`,
+      highlight: `il quartiere Art Déco di Ocean Drive e Lummus Park tra la 5th e la 15th Street, il centro commerciale pedonale di Lincoln Road, il quartiere dei murales all'aperto di Wynwood Walls, le terrazze fronte fiume di Brickell lungo il Miami River, la passeggiata sulla baia di Coconut Grove, le ville in stile Mediterranean Revival di Coral Gables e il perimetro dei giardini di Vizcaya, più il lago per il bagno dei cani senza guinzaglio all'Amelia Earhart Park vicino Hialeah`,
+      area: `South Beach e Mid-Beach attorno a Ocean Drive e Collins Avenue, Brickell e Downtown Miami lungo la Biscayne Bay, Wynwood e il Design District a nord del centro, Edgewater sul Biscayne Boulevard, Coconut Grove sulla baia a sud, Coral Gables a sud-ovest, e Key Biscayne raggiunta tramite la Rickenbacker Causeway oltre Hobie Beach`,
+    },
+    milan: {
+      personality: `la capitale del design italiano, dove un numero crescente di hotel di lusso e boutique accoglie ormai calorosamente gli animali`,
+      highlight: `il Parco Sempione, il quartiere dei Navigli, e gli ampi giardini di Villa Reale`,
+      area: `Brera, Navigli, e il quartiere del design di Porta Venezia`,
+    },
+    modena: {
+      personality: `una città emiliana piatta e compatta dove Piazza Grande patrimonio UNESCO, quattro parchi per cani recintati senza guinzaglio, e le colline del Lambrusco creano una delle città più facili d'Italia per portare a spasso un cane`,
+      highlight: `il Parco Ducale Estense con la sua area di sgambamento, la zona senza guinzaglio del Parco Novi Sad (oltre 2 ha), e la passeggiata porticata da Piazza Grande al Mercato Albinelli`,
+      area: `il centro storico attorno al Duomo e alla Ghirlandina, il Parco Ducale a nord del centro, e il Parco Novi Sad a nord della stazione ferroviaria`,
+    },
+    montpellier: {
+      personality: `una città universitaria baciata dal sole nel sud della Francia dove i cani si uniscono ai loro padroni sulle terrazze ombreggiate dei caffè, nei vagoni del tram, e lungo le passeggiate del fiume Lez`,
+      highlight: `il recinto senza guinzaglio del Parc Méric, il sentiero lungofiume Berges du Lez, e la spiaggia dog-friendly di Grand Travers a soli 20 km`,
+      area: `il centro medievale dell'Écusson, la spianata di Place de la Comédie, e il quartiere neoclassico di Antigone`,
+    },
+    montreal: {
+      personality: `una delle pochissime città nordamericane dove un cane di taglia grande può legalmente viaggiare in metro, sostenuta da oltre 65 aree recintate per cani e un sentiero senza auto di 14,5 km lungo il canale`,
+      highlight: `le aree per cani di Parc Jarry e Parc Sir-Wilfrid-Laurier, l'alzaia del Canale Lachine dal Vecchio Porto fino a Lachine, e la salita al guinzaglio lungo chemin Olmsted fino al belvedere di Kondiaronk`,
+      area: `Le Plateau-Mont-Royal, Griffintown e le banchine del Vieux-Port, e Villeray attorno a Parc Jarry`,
+    },
+    montreux: {
+      personality: `la Riviera svizzera sul Lago di Ginevra, una città Belle Époque orlata di palme dove i cani sono benvenuti sulle terrazze dei caffè, viaggiano sulle FFS e sulla panoramica GoldenPass Line, e camminano al guinzaglio tra i vigneti UNESCO del Lavaux sopra il lago`,
+      highlight: `la passeggiata di 7 km dei Quais Fleuris accanto alla statua di Freddie Mercury, i cortili trecenteschi dello Château de Chillon, e il Sentier Viticole del Lavaux tra i terrazzamenti dei vigneti UNESCO`,
+      area: `il lungolago Quais Fleuris tra Clarens e Territet, la Vieux Montreux attorno all'Église Saint-Vincent, e i terrazzamenti del Lavaux tra Saint-Saphorin e Chexbres`,
+    },
+    munich: {
+      personality: `una città dove i cani sono benvenuti nelle birrerie all'aperto, sui mezzi pubblici, e in tutto l'Englischer Garten: il più grande parco urbano d'Europa`,
+      highlight: `l'Englischer Garten, l'Olympiapark, e le rive del fiume Isar`,
+      area: `Schwabing, Maxvorstadt, e Haidhausen`,
+    },
+    nantes: {
+      personality: `la città più vivibile di Francia, con dieci parchi per cani ufficiali (caniparcs), una rete di ristoranti certificati QUALIDOG, e un percorso culturale dog-friendly di 12 km lungo la Loira`,
+      highlight: `il caniparc del Parc de Procé, i lungofiume della Loira, e il giardino giapponese dell'Île de Versailles`,
+      area: `il quartiere storico di Bouffay, l'Île de Nantes, e il quartiere di Procé`,
+    },
+    naples: {
+      personality: `la caotica e appassionata capitale del sud Italia, vicoli storici densi, un Lungomare pedonale di 2,5 km, il Bosco di Capodimonte di 134 ettari, e trattorie che trattano i cani come parte della famiglia`,
+      highlight: `il Lungomare Caracciolo, il Bosco di Capodimonte, e il Parco Virgiliano sul Posillipo`,
+      area: `Chiaia, Posillipo, e il centro storico attorno a Spaccanapoli`,
+    },
+    narbonne: {
+      personality: `una città della Linguadoca-Rossiglione di 55.000 abitanti con un tratto scoperto della via romana Via Domitia davanti all'Hôtel de Ville, il coro gotico incompiuto della Cattedrale di Saint-Just (41 m d'altezza), il Canal de la Robine patrimonio UNESCO nel centro, il mercato coperto Les Halles con banchi plancha che tollerano i cani, e una rara spiaggia mediterranea per cani senza guinzaglio aperta tutto l'anno a Saint-Pierre-la-Mer / Fleury-d'Aude (CAP 11560) a 15 minuti a est`,
+      highlight: `la spiaggia per cani senza guinzaglio di Saint-Pierre-la-Mer (Fleury-d'Aude, CAP 11560), i sentieri di gariga del Massif de la Clape e il panorama del Pech Redon, e l'alzaia del Canal de la Robine lungo il Cours Mirabeau`,
+      area: `il centro pedonale attorno a Place de l'Hôtel de Ville e il Cours Mirabeau, le spianate lungocanale del Cours de la République, e l'annesso costiero di Saint-Pierre-la-Mer / Fleury-d'Aude a 15 minuti a est`,
+    },
+    nazare: {
+      personality: `una cittadina di pescatori atlantica di 10.000 abitanti sulla Costa de Prata portoghese, diventata una meta mondiale del surf sulle grandi onde dopo che il canyon di Praia do Norte ha battuto record mondiali di moto ondoso, con il quartiere in cima alla scogliera di Sítio collegato alla spiaggia bassa da una funicolare d'epoca del 1889, il faro del Forte de São Miguel Arcanjo che ospita il museo del surf, e l'ampia spiaggia sabbiosa di Praia da Nazaré dove i cani sono benvenuti fuori dalla zona sorvegliata d'estate`,
+      highlight: `le scogliere delle grandi onde di Praia do Norte e le piattaforme panoramiche del WSL Big Wave Tour al faro del Forte de São Miguel Arcanjo, il giro in funicolare fino al Sítio e la spianata panoramica del santuario di Nossa Senhora da Nazaré, e il villaggio collinare di Pederneira con le sue case imbiancate a 2 km nell'entroterra`,
+      area: `la passeggiata sul lungomare della Praia bassa, il quartiere in cima alla scogliera di Sítio raggiunto in funicolare o dalla ripida Ladeira do Sítio, e il borgo storico alto di Pederneira`,
+    },
+    neringa: {
+      personality: `il comune turistico della Sputa Curlandese patrimonio UNESCO su una lingua di sabbia baltica di 52 km, quattro villaggi lagunari con una popolazione permanente di 2.500 abitanti, raggiungibile solo in traghetto da Klaipeda, dove i cani al guinzaglio girano tra i sentieri della pineta, la duna della meridiana di Parnidis e la passeggiata sulla laguna di Nida`,
+      highlight: `la meridiana della Duna di Parnidis a Nida, il sentiero delle sculture della Collina delle Streghe a Juodkrante, e la passeggiata sulla laguna di Nida con le sue colorate case dei pescatori a banderuola`,
+      area: `Nida (il villaggio turistico meridionale), Juodkrante (il secondo villaggio turistico con la Collina delle Streghe), e i villaggi più tranquilli di Preila e Pervalka`,
+    },
+    "new-york": {
+      personality: `la grande città più attenta agli animali degli Stati Uniti, con oltre 70 aree per cani, gli orari senza guinzaglio più generosi del paese (5-9 del mattino e 21-1 di notte a Central Park e Prospect Park), e una rete veterinaria d'emergenza 24 ore su 24 ancorata all'Animal Medical Center`,
+      highlight: `gli orari senza guinzaglio di Central Park, la Dog Beach di Prospect Park, e le aree per cani dell'Hudson River Park`,
+      area: `il West Village, l'East Village, e Park Slope a Brooklyn`,
+    },
+    melbourne: {
+      personality: `la più vivibile per i cani tra le capitali australiane, dove i cani grandi viaggiano legalmente sui treni metropolitani con museruola e guinzaglio, la Port Phillip Bay offre spiagge per cani tranquille (Sandown Street a Brighton è recintata e senza guinzaglio tutto l'anno), i parchi interni d'epoca vittoriana hanno aree designate senza guinzaglio, e una cultura gastronomica da terrazza fa sì che i cani siano benvenuti quasi ovunque la gente vada a mangiare`,
+      highlight: `Royal Park e Princes Park, i sentieri boschivi dello Yarra Bend Park, i Royal Botanic Gardens (cani al guinzaglio ammessi gratis), e le spiagge per cani di Brighton e St Kilda West`,
+      area: `Fitzroy North e Abbotsford nel nord interno, St Kilda e Port Melbourne sulla baia, e Brighton lungo la linea ferroviaria di Sandringham`,
+    },
+    menton: {
+      personality: `la città più orientale della Costa Azzurra francese, a dieci minuti dal confine italiano, con il microclima più caldo della Francia continentale, un centro storico barocco che sale fino alla Basilique Saint-Michel-Archange, giardini storici (Jardin Serre de la Madone e Val Rahmeh) che ammettono cani al guinzaglio, il Sentier Le Corbusier lungo la costa attorno a Cap Martin, e una cultura del limone IGP di Menton attiva tutto l'anno, culminante nella Fête du Citron di febbraio`,
+      highlight: `la Vieille Ville e il sagrato della Basilique Saint-Michel-Archange, la Promenade du Soleil lungo il mare, il Jardin Serre de la Madone e il Val Rahmeh (entrambi dog-friendly al guinzaglio), e la passeggiata costiera del Sentier Le Corbusier attorno a Cap Martin`,
+      area: `la Vieille Ville che sale verso Saint-Michel, il Centre attorno ai Jardins Biovès e all'Avenue Boyer, Garavan sul lato del confine italiano, e il lungomare lungo la Promenade du Soleil`,
+    },
+    newquay: {
+      personality: `una rilassata città surfistica della Cornovaglia settentrionale avvolta di spiagge, dove la maggior parte della sabbia resta dog-friendly tutto l'anno e i cani condividono il sentiero costiero, le gite in barca nel porto e i pub del porto`,
+      highlight: `le spiagge dog-friendly tutto l'anno di Fistral, Crantock e Watergate Bay, il South West Coast Path attorno alle teste di Towan e Pentire, e le gite in barca per osservare la fauna nel porto`,
+      area: `il porto e la sua spiaggia per cani aperta tutto l'anno, Fistral e il promontorio di Pentire, e l'estuario del Gannel verso Crantock`,
+    },
+    padstow: {
+      personality: `un grazioso porto di pescatori della Cornovaglia settentrionale sull'estuario del Camel, una delle vacanze per cani più facili della contea, dove i cani condividono i pub sul molo, il piatto Camel Trail e le spiagge dell'estuario`,
+      highlight: `Harbour Cove e Daymer Bay dog-friendly tutto l'anno, il Camel Trail piatto e senza traffico, e il traghetto Black Tor attraverso l'estuario fino a Rock`,
+      area: `il porto e il centro storico, Harbour Cove e Stepper Point lungo il sentiero costiero, e Rock e Daymer Bay dall'altra parte dell'estuario`,
+    },
+    nice: {
+      personality: `una città mediterranea baciata dal sole dove i cani si uniscono ai loro padroni nei ristoranti con terrazza, al mercato del centro storico, e lungo il famoso lungomare`,
+      highlight: `la Promenade des Anglais, il Parc du Mont Boron, e la Colline du Château`,
+      area: `il centro storico (Vieux-Nice), Cimiez, e il Port`,
+    },
+    nimes: {
+      personality: `il terzo vertice del triangolo romano della Provenza (con Avignone e Arles), dove l'Arena porta il raro marchio Qualidog e ammette gratuitamente cani al guinzaglio di ogni taglia, dove i Jardins de la Fontaine di 15 ettari si aprono sotto la Tour Magne, e dove il Pont du Gard patrimonio UNESCO si trova a 25 km a nord per una gita di un giorno dog-friendly`,
+      highlight: `l'Arena di Nîmes (accesso Qualidog gratuito per cani al guinzaglio), i Jardins de la Fontaine fino alla Tour Magne, e il Pont du Gard con il bagno dei cani nel fiume Gardon`,
+      area: `il centro storico dell'Écusson attorno all'Arena e alla Maison Carrée, il Quai de la Fontaine e il Mont Cavalier, e il quartiere residenziale di Vacquerolles a sud-ovest del centro`,
+    },
+    nuremberg: {
+      personality: `una città medievale della Franconia dove la cultura dei Wirtshaus accoglie i cani al chiuso, due veterinari d'emergenza 24 ore su 24 sono pronti, e la foresta del Reichswald di 25.000 ettari offre spazio senza guinzaglio ai margini della città`,
+      highlight: `i giardini del castello Kaiserburg, la spiaggia per cani del Wöhrder See, e i sentieri della foresta Sebalder Reichswald`,
+      area: `l'Altstadt attorno a Hauptmarkt e Kaiserburg, lo Stadtpark a nord del centro, e il Wöhrder See a est dell'Altstadt`,
+    },
+    opatija: {
+      personality: `la grande dama della Riviera croata, una città termale in stile Belle Epoque dove i cani al guinzaglio passeggiano sui 12 km del Lungomare, fanno il bagno in due spiagge dedicate ai cani e camminano nel parco naturale boscoso dell'Ucka dietro la città`,
+      highlight: `l'intero lungomare (Lungomare), le spiagge per cani di Punta Kolova e Gornja Ika, e i sentieri fino alla cima dell'Ucka`,
+      area: `il centro storico intorno a Park Angiolina, il vecchio villaggio di pescatori di Volosko, e il lungomare che arriva fino a Icici e Lovran`,
+    },
+    osaka: {
+      personality: `il cuore commerciale e frizzante della regione del Kansai, una città per cani con regole precise ma gestibile, dove il trasporto ammesso solo in borsone e gli interni quasi sempre vietati ai cani spostano tutto all'aperto, tra il Parco del Castello di Osaka, il canale di Dotonbori e i parchi lungofiume, con lo Shinkansen che collega Kyoto in circa quindici minuti e Tokyo in circa 2 ore e 30`,
+      highlight: `i sentieri esterni e i prati del Parco del Castello di Osaka, il verde dei parchi Nakanoshima e Utsubo, e la passeggiata lungo il canale di Dotonbori`,
+      area: `Kita intorno a Umeda e Nakanoshima, il quartiere del divertimento di Namba e Dotonbori, e Tennoji a sud`,
+    },
+    oslo: {
+      personality: `una capitale scandinava dove la vicinanza di fiordi, foreste e la vasta rete di sentieri dell'Oslomarka la rende una delle mete migliori del continente per chi ha un cane attivo`,
+      highlight: `la foresta dell'Oslomarka, la penisola di Bygdøy, e il sentiero lungo il fiume Akerselva`,
+      area: `Frogner, Grünerløkka, e Tjuvholmen`,
+    },
+    ostend: {
+      personality: `una Royal Resort belga di 72.000 abitanti sul Mare del Nord con 9 km di lungomare sabbioso (Albert I-promenade), zone spiaggia per cani aperte tutto l'anno a Mariakerke, Raversijde e Oosteroever, il Kusttram (la linea tram più lunga al mondo, 67 km), treni NMBS gratis per i cani fino a Bruges in 12 minuti e Bruxelles in 1h15, e il traghetto Stena Line per Ramsgate (UK) in circa 4 ore`,
+      highlight: `l'Albert I-promenade e il lungomare del Kursaal, il parco delle dune Atlantikwall Raversijde, e il Maria Hendrika Park di 36 ettari (il più grande della costa belga)`,
+      area: `il centro sul lungomare intorno al Kursaal e Marie-Jose park, la zona del porto di pesca Visserskaai e le viuzze di Vlaanderenstraat, e il polo delle spiagge per cani a ovest tra Mariakerke e Raversijde`,
+    },
+    oviedo: {
+      personality: `la capitale preromanica patrimonio UNESCO della Spagna verde, l'Asturie, con un casco antiguo pedonale intorno alla gotica Cattedrale di San Salvador e Plaza del Fontán, le famose terrazze da sidro di Calle Gascona (il Bulevar de la Sidra) super accoglienti coi cani, un parco centrale, il Campo de San Francisco, e un ospedale veterinario 24/7 a Buenavista`,
+      highlight: `i sentieri sulla collina del Monte Naranco intorno alle chiese preromaniche UNESCO di Santa María del Naranco e San Miguel de Lillo, con il panorama migliore sulla città, più le terrazze da sidro di Calle Gascona e il Campo de San Francisco`,
+      area: `il casco antiguo pedonale intorno alla cattedrale e Plaza del Fontán, il quartiere del sidro di Calle Gascona, e la collina verde del Monte Naranco a nord della città`,
+    },
+    oxford: {
+      personality: `una città universitaria medievale dove i cortili color miele dei college sono off-limits ma i prati intorno, i pub lungofiume e il Port Meadow senza guinzaglio la rendono una delle gite più facili in una piccola città inglese con il cane`,
+      highlight: `il Port Meadow senza guinzaglio, il Christ Church Meadow, e gli University Parks`,
+      area: `il centro città, Jericho, e North Oxford`,
+    },
+    padua: {
+      personality: `una città universitaria veneta patrimonio UNESCO imperniata su Prato della Valle, una delle piazze più grandi d'Europa con 88.620 m², con oltre 25 km di portici e un centro storico piatto e compatto, perfetto per lunghe passeggiate al guinzaglio`,
+      highlight: `il giro ellittico sul canale di Prato della Valle (88.620 m²), le piazze del mercato Piazza delle Erbe e Frutta, e il giro perimetrale sul canale Bacchiglione`,
+      area: `il centro storico intorno a Piazza delle Erbe e Piazza dei Signori, il quartiere del Santo intorno alla Basilica, e il quartiere di Prato della Valle`,
+    },
+    mahon: {
+      personality: `la capitale imbiancata di Minorca, alla testa del secondo porto naturale d'acque profonde più lungo al mondo dopo Pearl Harbor, dove i cani passeggiano sui 5 km della promenade del Moll de Llevant e il sentiero costiero Camí de Cavalls di 185 km fa il giro di tutta l'isola`,
+      highlight: `la promenade del porto di Maó, i megaliti talaiotici UNESCO di Trepucó, il Parco Naturale di S'Albufera des Grau, e il Camí de Cavalls GR-223`,
+      area: `la Città Vecchia, la banchina del porto Moll de Llevant, e il lungomare di Es Castell`,
+    },
+    olomouc: {
+      personality: `una delle città UNESCO più tranquille e meno turistiche dell'Europa centrale`,
+      highlight: `il parco sui bastioni Bezručovy sady, i sentieri boschivi di Svatý Kopeček, e lo zoo di Olomouc, accogliente coi cani`,
+      area: `il centro storico, Svatý Kopeček, e la piana alluvionale della Morava`,
+    },
+    palma: {
+      personality: `una capitale mediterranea baciata dal sole, dove terrazze, spiagge e un clima caldo tutto l'anno la rendono una delle città più cane-friendly di Spagna`,
+      highlight: `la spiaggia per cani aperta tutto l'anno di Es Carnatge, il Parc de sa Riera, e i terreni sulla collina del Castell de Bellver`,
+      area: `Santa Catalina, la Città Vecchia (Casc Antic), e Portixol`,
+    },
+    soller: {
+      personality: `una cittadina UNESCO nella valle d'aranci della Serra de Tramuntana nel nord-ovest di Maiorca, raggiungibile con un trenino di legno del 1912 e un tram d'epoca all'aperto del 1913, dove i cani al guinzaglio percorrono il sentiero a secco GR-221 e la baia naturale a ferro di cavallo di Port de Sóller qui sotto`,
+      highlight: `la modernista Plaça d'Espanya, il giro di 4 km del Camí des Faros fino ai fari sopra Port de Sóller, e il sentiero a secco GR-221 Ruta de Pedra en Sec attraverso Biniaraix`,
+      area: `il centro storico intorno a Plaça d'Espanya e Gran Via, il lungomare di Port de Sóller, e i borghi di Biniaraix e Fornalutx sopra la valle`,
+    },
+    valldemossa: {
+      personality: `un villaggio UNESCO della Serra de Tramuntana di 2.000 abitanti, 17 km a nord di Palma, segnato dal monastero trecentesco Real Cartuja dove Chopin e George Sand svernarono nel 1838-39, dal casc antic acciottolato pieno di fiori e dal sentiero a secco GR-221 che attraversa il paese`,
+      highlight: `il chiostro e i giardini della Real Cartuja (la cella 4 di Chopin e George Sand), la Plaça pública e la Casa Natal de Santa Catalina Tomàs nel casc antic, e il belvedere Mirador des Pi des Català con vista al tramonto sui tetti del paese`,
+      area: `il casc antic intorno alla Plaça pública e la Real Cartuja, i belvedere in alto verso il Pla des Pouet, e la cala di pescatori di Port de Valldemossa, 7 km sotto il paese`,
+    },
+    palamos: {
+      personality: `un comune-porto di pesca della Costa Brava di 17.000 abitanti nella comarca del Baix Empordà a Girona, segnato dalla flotta attiva del Port de Palamós (il terzo per volume in Catalogna), dall'asta del pesce pomeridiana alla Llotja de Palamós, dalle rovine medievali sulla scogliera del Castell de Sant Esteve de Mar, e da una costa con quattro porti che va da Platja Gran (centro città) a La Fosca, dalla caletta da cartolina con le casette di pescatori di Cala S'Alguer, dalla Platja del Castell con la sua zona per cani aperta tutto l'anno nel tratto nord, fino a Cala Margarida a sud, tutte collegate a nord dal sentiero costiero Camí de Ronda GR-92 di 6 km fino a Calella de Palafrugell, il tutto coronato dal gambero rosso Gamba de Palamós DOP e dalla cucina Slow-Food Cuina del Peix de Palamós`,
+      highlight: `la banchina attiva del Port de Palamós intorno all'asta del pesce alla Llotja (ore 17), le rovine gratuite all'aperto del Castell de Sant Esteve de Mar sulla scogliera con vista panoramica su La Fosca, la caletta da cartolina con le casette di pescatori di Cala S'Alguer (raggiungibile solo a piedi via il GR-92), e la zona per cani aperta tutto l'anno nel tratto nord della Platja del Castell`,
+      area: `il lungomare Passeig del Mar lungo Platja Gran, la banchina del porto intorno a Plaça Sant Pere di fronte alla Llotja, il casc antic collinare di Sant Joan de Palamós, e il corridoio di calette della costa nord (La Fosca, Cala S'Alguer, Platja del Castell, Cap de Planes)`,
+    },
+    palermo: {
+      personality: `la caotica capitale barocca della Sicilia, dove il centro storico arabo-normanno patrimonio UNESCO, la Mondello Bau-Beach aperta tutto l'anno 11 km a nord, e il Parco della Favorita di 400 ettari la rendono la meta più generosa del sud Italia per chi ha un cane`,
+      highlight: `il crocevia barocco dei Quattro Canti, la Mondello Bau-Beach 11 km a nord, e il Parco della Favorita di 400 ettari ai piedi di Monte Pellegrino`,
+      area: `il centro storico intorno ai Quattro Canti e i mercati di Vucciria, Ballarò e Capo, il quartiere della Kalsa, e il lungomare del Foro Italico`,
+    },
+    pamplona: {
+      personality: `la capitale dei pintxo del nord della Spagna, la città di Hemingway e dei San Fermines, con il parco della Cittadella di 28 ettari come passeggiata quotidiana e una delle reti di parchi più fitte di Spagna`,
+      highlight: `il parco della Cittadella di 28 ettari con la sua area recintata senza guinzaglio, il giro lungofiume di 11 km sul Río Arga, e il parco in stile giapponese Yamaguchi`,
+      area: `il centro storico medievale intorno a Plaza del Castillo, la Cittadella e Vuelta del Castillo a sud del centro, e il quartiere universitario di Iturrama`,
+    },
+    paris: {
+      personality: `una città dove i cani sono famosi per essere benvenuti in caffè, negozi e molti ristoranti`,
+      highlight: `il Bois de Boulogne, il Bois de Vincennes, e centinaia di piazzette`,
+      area: `Le Marais, Saint-Germain-des-Prés, e Montmartre`,
+    },
+    parnu: {
+      personality: `la capitale estiva dell'Estonia, una città di terme e spiagge così rilassata coi cani che l'ente del turismo pubblica una sua lista di caffè cane-friendly, con quattro punti ufficiali per far nuotare i cani intorno alla baia`,
+      highlight: `il doppio parco recintato per cani vicino alla spiaggia di Mai, il parco sul bastione di Vallikäär, e il lungomare tra i prati costieri di Rannaniit`,
+      area: `il quartiere della spiaggia intorno a Ranna puiestee, il centro storico in legno lungo via Rüütli, e la più tranquilla Mai vicino al parco per cani`,
+    },
+    perpignan: {
+      personality: `la soleggiata capitale catalana del sud della Francia, una città compatta e cane-friendly con circa 37 aree per cani segnalate, una cultura da terrazza tollerante, e un facile accesso alle spiagge del Rossiglione, aperte ai cani`,
+      highlight: `Le Castillet e il centro storico, i bastioni del Palais des Rois de Majorque, e la sezione per cani aperta tutto l'anno della spiaggia Lido di Canet-en-Roussillon`,
+      area: `il centro storico intorno a Le Castillet e Place de Verdun, le rive del fiume Têt, e la costa del Rossiglione a Canet e Torreilles`,
+    },
+    perth: {
+      personality: `la capitale australiana con la costa senza guinzaglio più lunga, dove più di due chilometri di spiaggia per cani a Mosman e Leighton restano aperti 24 ore su 24, mentre la Transperth tiene gli animali fuori da treni, bus e traghetti`,
+      highlight: `la spiaggia per cani di Mosman e Leighton, il parco agility recintato di Ozone Reserve, e i sentieri nel bush di Kings Park`,
+      area: `Fremantle, Cottesloe e North Fremantle, e East Perth`,
+    },
+    perugia: {
+      personality: `una delle città collinari più accoglienti coi cani dell'Italia centrale`,
+      highlight: `il parco per cani di Pian di Massiano, la passeggiata sull'acquedotto medievale, e i sentieri di Monte Tezio`,
+      area: `il centro storico, Borgo XX Giugno, e Pian di Massiano`,
+    },
+    piran: {
+      personality: `il gioiello veneziano della Slovenia sull'Adriatico, una penisola di pietra senza auto con casette color pastello, Piazza Tartini e il campanile di San Giorgio, con terrazze sul mare pet-friendly, la Monty's Dog Beach a Lucija e le saline di Sečovlje e le scogliere flysch di Strunjan a portata di mano`,
+      highlight: `Piazza Tartini e il lungomare, la camminata panoramica sulle Mura di Pirano, e la Monty's Dog Beach a Lucija`,
+      area: `il centro storico medievale intorno a Piazza Tartini, la banchina Prešernovo nabrežje, e il promontorio del faro di Punta`,
+    },
+    pisa: {
+      personality: `una compatta città toscana patrimonio UNESCO abbinata al parco di San Rossore di 23.000 ettari e a una spiaggia per cani aperta tutto l'anno a Marina di Pisa, tutto a venti minuti dal centro`,
+      highlight: `il prato del Campo dei Miracoli, la pineta di San Rossore, e la spiaggia per cani di Marina di Pisa`,
+      area: `Sant'Antonio, i Lungarni, e Borgo Stretto`,
+    },
+    portland: {
+      personality: `una delle città più autenticamente a misura di cane del Nord America, dove i patii coperti dei brewpub, oltre trenta aree senza guinzaglio e una foresta urbana di 5.200 acri contano più del meteo`,
+      highlight: `il Forest Park e il Wildwood Trail, l'area senza guinzaglio The Fields nel Pearl District, e il lungofiume del Sellwood Riverfront Park`,
+      area: `il Pearl District, il nord-ovest di Portland e Slabtown, e Alberta Arts`,
+    },
+    porto: {
+      personality: `una città collinare e piena di atmosfera dove i cani fanno parte del ritmo quotidiano. Sui tram, nei giardini delle enoteche, e lungo la passeggiata sul Douro`,
+      highlight: `i Jardins do Palácio de Cristal, il lungofiume del Douro (Ribeira), e il parco di Serralves`,
+      area: `Ribeira, Bonfim, e Foz do Douro`,
+    },
+    poznan: {
+      personality: `la culla dello stato polacco, fondata nel 966 sull'Isola della Cattedrale, con una delle piazze medievali più grandi d'Europa (Stary Rynek), il Lago Malta di 64 ettari dentro la città, e circa quaranta zone recintate senza guinzaglio sparse nel centro`,
+      highlight: `il Park Cytadela con la sua terrazza panoramica sulla Città Vecchia, il giro lungolago di 5 km sul Lago Malta, e il Parco Nazionale della Wielkopolska 30 km a sud per vere camminate nel bosco`,
+      area: `la Città Vecchia intorno a Stary Rynek e l'Isola della Cattedrale, il quartiere bohémien di Jezyce, e il quartiere di Solacz col suo parco liberty`,
+    },
+    torun: {
+      personality: `un centro storico UNESCO in gotico di mattoni sulla Vistola, città natale di Niccolò Copernico, con due piazze medievali, la Torre Pendente incastrata nelle mura cittadine, e un nucleo piatto e compatto percorribile in quindici minuti col cane`,
+      highlight: `il Rynek Staromiejski sotto il municipio gotico, la Torre Pendente e la camminata sui bastioni lungo la Vistola, e il lungofiume Bulwar Filadelfijski sotto le mura medievali`,
+      area: `il centro storico UNESCO intorno al Rynek Staromiejski, il lungofiume sul Bulwar Filadelfijski, e il verde quartiere di Bydgoskie Przedmiescie a ovest del centro`,
+    },
+    prague: {
+      personality: `una città compatta e percorribile a piedi dove i cani sono benvenuti nella maggior parte dei pub, delle enoteche e persino in alcuni mercati coperti`,
+      highlight: `i parchi Stromovka e Letná, e i sentieri lungofiume della Valle di Nusle`,
+      area: `Vinohrady, Žižkov, e Malá Strana`,
+    },
+    reims: {
+      personality: `l'elegante capitale dello Champagne, una città UNESCO dove cattedrali gotiche, facciate art déco e viali alberati di vigneti invitano a passeggiate tranquille col cane al guinzaglio`,
+      highlight: `le Promenades intorno a Place de la République, il boscoso Parc de Champagne, e gli alzaie del canale verso Cernay`,
+      area: `il centro storico vicino alla Cattedrale di Notre-Dame, Place Drouet d'Erlon, e il verde quartiere del Parc de Champagne`,
+    },
+    regensburg: {
+      personality: `una città bavarese di 155.000 abitanti sul Danubio dove uno dei centri storici medievali meglio conservati d'Europa (UNESCO dal 2006) si gira interamente in 30 minuti col cane, molto più tranquilla di Monaco o Norimberga`,
+      highlight: `il ponte del XII secolo Steinerne Brücke e il lungofiume del Danubio, lo Stadtpark Regensburg e l'isola fluviale di Jahninsel, e le terrazze del memoriale Walhalla 10 km a est a Donaustauf`,
+      area: `il centro storico UNESCO intorno a Domplatz e Haidplatz, il quartiere dell'isola di Stadtamhof al di là dello Steinerne Brücke, e i quartieri verdi intorno allo Stadtpark a sud del centro`,
+    },
+    rennes: {
+      personality: `la capitale regionale della Bretagna, dove il centro medievale a graticcio (ricostruito dopo l'incendio del 1720), il Parc du Thabor di 10 ettari e il secondo mercato all'aperto del sabato più grande di Francia in Place des Lices la rendono una delle città più percorribili e tolleranti coi cani del nord-ovest della Francia`,
+      highlight: `Place du Parlement de Bretagne, il parco centrale Parc du Thabor, e l'alzaia della Vilaine che si collega poi al canale Ille-et-Rance di 84 km verso Saint-Malo`,
+      area: `il centro medievale a graticcio intorno a Rue du Chapitre e Place Sainte-Anne, l'elegante quartiere ottocentesco di Thabor-Saint-Hélier, e il quartiere classico ricostruito intorno al Parlamento`,
+    },
+    reykjavik: {
+      personality: `la capitale più a nord del mondo e una delle più cane-friendly. Con vasti campi di lava, spiagge geotermiche e una cultura che porta i cani ovunque`,
+      highlight: `la valle di Elliðaárdalur, la collina di Öskjuhlíð, e la camminata costiera fino al faro di Grótta`,
+      area: `il centro storico (Miðborg), Laugardalur, e Álftanes`,
+    },
+    riga: {
+      personality: `una città art nouveau splendidamente restaurata con una forte cultura baltica all'aperto. I cani fanno parte della vita quotidiana nei parchi, nei mercati e lungo le rive della Daugava`,
+      highlight: `il parco boschivo di Mežaparks, il parco di Bastejkalns, e la passeggiata lungo la Daugava`,
+      area: `la Città Vecchia (Vecrīga), il Quartiere Art Nouveau, e Āgenskalns`,
+    },
+    rimini: {
+      personality: `la capitale della Riviera Adriatica italiana e una delle migliori città balneari del paese per chi ha un cane, sede della spiaggia per cani più grande della costa dell'Emilia-Romagna e di una rilassata cultura da caffè romagnola`,
+      highlight: `la spiaggia per cani Rimini Dog No Problem al Bagno 81-82, l'area recintata senza guinzaglio FIDOPARK nel Parco Marecchia, e il Ponte di Tiberio romano verso Borgo San Giuliano`,
+      area: `Marina Centro lungo il mare, il centro storico intorno a Piazza Cavour, e la colorata Borgo San Giuliano`,
+    },
+    rome: {
+      personality: `una città dove i cani accompagnano i loro padroni ovunque. Dalle corse mattutine al cornetto alle passeggiate serali`,
+      highlight: `i giardini di Villa Borghese, le aree senza guinzaglio del Parco dell'Appia Antica, e i percorsi lungofiume del Lungotevere`,
+      area: `Prati, Trastevere, e Pigneto`,
+    },
+    roses: {
+      personality: `un paese di pescatori e mare della Costa Brava nord di 20.000 abitanti avvolto intorno alla rinascimentale Ciutadella de Roses, una fortezza pentagonale del XVI secolo costruita sotto Carlo V sul sito dell'antica colonia greca di Rhode (VIII secolo a.C.) e della romana Rhodes, con la mezzaluna della Bahía de Roses di 12 km che si apre a sud e il Parco Naturale di Cap de Creus che sale a nord, più il leggendario lascito del ristorante El Bulli a Cala Montjoi (Ferran Adrià, 1962-2011, museo Fondazione dal 2023)`,
+      highlight: `le mura rinascimentali della Ciutadella de Roses e le rovine scavate greco-romano-visigote, il Dolmen de la Creu d'en Cobertella (il dolmen più grande della Catalogna, circa 3000 a.C.), il castello secentesco Castell de la Trinitat su Punta Falconera, e l'accesso sud al Parco Naturale di Cap de Creus via Cala Montjoi e Cala Joncols`,
+      area: `il casc antic intorno all'Esglesia de Santa Maria e Plaça de Catalunya, il Passeig Marítim lungo la mezzaluna della Bahía de Roses, e l'accesso sud a Cap de Creus fino a Cala Montjoi e Cala Joncols`,
+    },
+    rotterdam: {
+      personality: `una delle città più cane-friendly dei Paesi Bassi, dove gli animali viaggiano gratis sui mezzi pubblici e la maggior parte delle terrazze dei caffè li accoglie di default`,
+      highlight: `i 28 ettari senza guinzaglio dell'Het Park accanto all'Euromast, la foresta e il lago di Kralingse Bos, e la spiaggia di Maasvlakte`,
+      area: `Middelland lungo Nieuwe Binnenweg, il quartiere artistico di Witte de With, e il lungomare intorno a Veerhaven`,
+    },
+    rugen: {
+      personality: `la più grande isola tedesca e una delle coste baltiche più amiche dei cani, con tratti ufficiali di Hundestrand in ogni località e quasi tutto il litorale aperto a loro da ottobre ad aprile`,
+      highlight: `le spiagge per cani di Binz, Sellin e Baabe, il sentiero panoramico Hochuferweg sulla scogliera attraverso la foresta di Granitz, e i sentieri al guinzaglio del Parco Nazionale di Jasmund`,
+      area: `Binz intorno alla passeggiata e agli accessi spiaggia 50-51, Sellin vicino al molo, e la più tranquilla Baabe vicino al Fischerstrand`,
+    },
+    salamanca: {
+      personality: `una città universitaria in arenaria dorata della Castiglia, patrimonio UNESCO dal 1988, dove i cani al guinzaglio scivolano tra i portici barocchi e il lungofiume del Tormes è il cuore delle passeggiate serali`,
+      highlight: `la Plaza Mayor e Rúa Mayor, il lungofiume del Tormes (Salas Bajas), e il Parque de los Jesuitas con la sua area recintata senza guinzaglio`,
+      area: `il centro storico intorno alla Plaza Mayor, il lungofiume a sud del Ponte Romano, e la zona verde vicino all'Università di Salamanca`,
+    },
+    salcombe: {
+      personality: `una tranquilla città di velisti nel South Devon alla foce dell'estuario di Kingsbridge, dove i cani condividono i pub sul mare, i piccoli traghetti e i sentieri costieri del National Trust, con accesso alle spiagge regolato da norme stagionali facili da pianificare`,
+      highlight: `North Sands e Mill Bay, cane-friendly tutto l'anno, i traghetti cane-friendly attraverso l'estuario, e il sentiero costiero fino a Bolt Head e Snapes Point`,
+      area: `Fore Street e il lungomare di Whitestrand, North Sands e South Sands, e l'attraversamento dell'estuario verso East Portlemouth e Mill Bay`,
+    },
+    woolacombe: {
+      personality: `un villaggio da surf del North Devon su una magnifica spiaggia Blue Flag di tre miglia, dove i cani condividono il lungomare, i promontori del National Trust e un tratto di sabbia per cani aperto tutto l'anno, con accesso alla spiaggia diviso per zone e stagionale ma facile da pianificare`,
+      highlight: `la sabbia cane-friendly tutto l'anno a sud di Mill Rock e a Putsborough, la passeggiata sul lungomare e il villaggio di Mortehoe, e i sentieri costieri fino a Morte Point e Baggy Point`,
+      area: `il lungomare e la passeggiata di Woolacombe, l'estremità sud della spiaggia oltre Mill Rock fino a Putsborough, e il villaggio collinare di Mortehoe`,
+    },
+    salzburg: {
+      personality: `una compatta città alpina dove l'architettura dell'epoca di Mozart, i prati ondulati e le montagne del Salzkammergut intorno creano uno sfondo magico per viaggiare col cane`,
+      highlight: `il parco di Hellbrunn, il percorso lungo il fiume Salzach, e i sentieri sulla collina di Kapuzinerberg`,
+      area: `la Città Vecchia (Altstadt), Schallmoos, e Mülln`,
+    },
+    "saint-tropez": {
+      personality: `una città portuale provenzale di 4.000 abitanti sulla Costa Azzurra occidentale, segnata dal suo Vieux Port attivo bordato di caffè dalle tende rosse, dalla Citadelle del XVI secolo con la sua terrazza-museo marittimo, dal mercato di Place des Lices ombreggiato dai platani il martedì e il sabato, dalla distesa di Pampelonne di 5 km appena oltre la collina a Ramatuelle, e dal sentiero costiero Sentier du Littoral di 35 km intorno a tutta la penisola`,
+      highlight: `la banchina del Vieux Port e il vecchio quartiere di pescatori di La Ponche, la terrazza della Citadelle con vista panoramica sul golfo, il mercato di Place des Lices e il campo da pétanque, e il Sentier du Littoral da Plage des Salins intorno al Cap de Saint-Tropez`,
+      area: `il Vieux Port e La Ponche, il centro intorno a Place des Lices, il corridoio della Route des Plages verso Pampelonne, e la penisola orientale di Salins/Cap de Saint-Tropez`,
+    },
+    "san-diego": {
+      personality: `la città con più spiagge per cani degli Stati Uniti, dove il clima permette una vita all'aperto tutti e dodici i mesi e il comune pubblica una ventina di luoghi approvati senza guinzaglio, guidati da Dog Beach a Ocean Beach (legalmente senza guinzaglio dal 1972 e aperta 24 ore), Coronado Dog Beach e il litorale con guinzaglio facoltativo di Fiesta Island`,
+      highlight: `Dog Beach ai piedi di Voltaire Street, Coronado Dog Beach all'estremità nord di North Beach, il giro di 5,2 miglia di Fiesta Island con nuotate riparate in baia, e i sentieri sulla scogliera del Sunset Cliffs Natural Park`,
+      area: `Ocean Beach e Point Loma per arrivare a piedi direttamente a Dog Beach, Liberty Station e Bay Park per i patii dei birrifici che accolgono i cani, Little Italy e Mission Valley per l'accesso al centro e i veterinari d'urgenza aperti 24 ore`,
+    },
+    "san-francisco": {
+      personality: `la fresca e nebbiosa porta del Pacifico verso la Bay Area, con una delle reti senza guinzaglio più fitte degli USA, che unisce circa 30 aree Rec & Park Dog Play recintate e le zone federali GGNRA a controllo vocale (Crissy Field East Beach con vista sul Golden Gate Bridge, le scogliere e la spiaggia di Fort Funston, Ocean Beach a nord dello Stairwell 21)`,
+      highlight: `Crissy Field East Beach di fronte al Golden Gate Bridge, il Sunset Trail e la spiaggia di Fort Funston, le aree senza guinzaglio Hellman Hollow e Speedway Meadow nel Golden Gate Park, e il sentiero costiero di Lands End fino alle rovine dei Sutro Baths`,
+      area: `Marina e Pacific Heights per i patii degli hotel, Hayes Valley e Mission per i ristoranti che accolgono i cani, Sunset e Richmond per la vicinanza al Golden Gate Park e a Ocean Beach`,
+    },
+    "san-sebastian": {
+      personality: `una città basca sul mare dove in certi quartieri i cani superano di numero i bambini, e le spiagge sono aperte a loro da ottobre a maggio`,
+      highlight: `le spiagge La Concha e Zurriola (ottobre-maggio), i sentieri sulla collina di Monte Urgull, e il sentiero costiero Paseo Nuevo`,
+      area: `la Città Vecchia (Parte Vieja), Gros, e il quartiere Antiguo vicino a Monte Igueldo`,
+    },
+    "sankt-polten": {
+      personality: `la tranquilla capitale della Bassa Austria, 56.000 abitanti sul fiume Traisen, con un centro storico barocco pedonale, il moderno quartiere governativo e la torre Klangturm, e i borghi vinicoli della Wachau, Dürnstein, Spitz e Krems, tutti entro 45 minuti`,
+      highlight: `il percorso lungofiume sulla Traisen attraverso il corridoio del Traisenpark, il tetto del Klangturm nel quartiere governativo, e una gita in giornata nella Wachau fino a Dürnstein e Spitz`,
+      area: `il centro storico pedonale intorno a Rathausplatz, il moderno Regierungsviertel sulla Traisen, e il quartiere del lago Viehofen a nord del centro`,
+    },
+    "sant-antoni": {
+      personality: `la capitale occidentale di Ibiza, 28.000 abitanti, famosa in tutto il mondo per i bar sulla scogliera della Sunset Strip e la tradizione delle mixtape del Cafe del Mar dal 1980, la chiesa trecentesca di Sant Antoni de Portmany (la più antica di Ibiza), l'Hostal La Torre e Punta Galera per tramonti più tranquilli, e il traghetto veloce Baleària per Dénia dal Port Deportiu Marina`,
+      highlight: `il tramonto al Cafe del Mar o all'Hostal La Torre, il sentiero verso la cima del Sa Talaia (475 m, il punto più alto di Ibiza), le passeggiate sulla scogliera di Cala Bassa e Cala Conta fuori stagione, e le gite in barca a Es Vedrà dal Port Deportiu`,
+      area: `il Passeig Marítim e il Port Deportiu Marina, la piazza del centro storico intorno alla chiesa di Sant Antoni, la Sunset Strip dal Cafe del Mar a Cap Negret, e le calette della costa ovest, Cala Bassa, Cala Conta, Cala Tarida e Cala Salada`,
+    },
+    "sant-josep": {
+      personality: `il comune più grande di Ibiza per superficie, 28.000 abitanti sparsi su tutto il sud dell'isola, sede di Es Vedrà (il monolito calcareo verticale di 382 m al largo di Cala d'Hort), Sa Talaia (il punto più alto dell'isola, 475 m), la chiesa settecentesca di Sant Josep sulla piazza del paese, il Parco Naturale delle Ses Salines d'Eivissa i Formentera, riserva della biosfera UNESCO, la cava-caletta di Sa Pedrera (Atlantis), e la striscia di Platja d'en Bossa di 2,7 km, con l'aeroporto di Ibiza (IBZ) fisicamente dentro i suoi confini`,
+      highlight: `il tramonto sulla scogliera di Es Vedrà sopra Cala d'Hort, il sentiero verso la cima di Sa Talaia dal paese (475 m, il punto più alto di Ibiza), le camminate sugli argini delle saline di Ses Salines con i fenicotteri in inverno, le passeggiate fuori stagione nelle calette di Cala Vadella e Cala Carbó, e le gite in barca a Es Vedrà da Cala d'Hort`,
+      area: `la piazza del paese e il casco antiguo di Sant Josep, Sant Jordi de ses Salines accanto all'aeroporto, Es Cubells e Cala d'Hort sulla scogliera sud-ovest, le calette sud-ovest di Cala Vadella, Cala Tarida, Cala Molí e Cala Carbó, e Cala Jondal, Sa Caleta e Platja d'en Bossa sulla costa sud`,
+    },
+    "santa-eulalia": {
+      personality: `la più tranquilla località familiare della costa est di Ibiza, un comune di 38.000 abitanti avvolto intorno alla chiesa-fortezza imbiancata del XVI secolo di Puig de Missa, l'unico fiume di Ibiza con acqua tutto l'anno con il suo ponte romano Pont Vell e il mulino mil de baix, un lungo Paseo Marítimo e la Marina, e il mercato hippie del sabato Las Dalias a Sant Carles`,
+      highlight: `il panorama dalla chiesa-fortezza in cima al Puig de Missa, la camminata nella valle del Riu de Santa Eulària fino al Pont Vell e al mulino mil de baix, la spiaggia per cani aperta tutto l'anno di Cala Nova a nord di Es Canar, e il mercato hippie Las Dalias a Sant Carles ogni sabato`,
+      area: `il lungomare e la Marina Santa Eulària, la pedonale Carrer Sant Vicent, la valle del Riu de Santa Eulària fino a Puig de Missa, e le località della costa est di Es Canar, S'Argamassa e Cala Llonga`,
+    },
+    sanremo: {
+      personality: `la capitale dei fiori della Riviera Ligure, nella provincia di Imperia, una gradevole località dai lungomari piatti e uno dei climi più miti d'Italia, tranquilla col cane all'aperto anche dove il Casinò e gli interni delle chiese non lo sono: i cani al guinzaglio passeggiano sul lungomare di Corso Imperatrice, percorrono la lunga pista ciclabile costiera sulla vecchia ferrovia Genova-Ventimiglia, e raggiungono una spiaggia per cani dedicata, mentre gli stabilimenti estivi limitano i cani sulla sabbia a pagamento`,
+      highlight: `la pista ciclabile piatta di 24 km del Parco Costiero Riviera dei Fiori sulla vecchia ferrovia costiera, il lungomare alberato di palme Corso Imperatrice, gli esotici Giardini di Villa Ormond, il centro storico medievale de La Pigna, e la gratuita spiaggia per cani di Pian di Poma con la Baubeach nella vicina Arma di Taggia`,
+      area: `il lungomare piatto e Corso Imperatrice, il Porto Vecchio e la marina di Portosole con la piazza dei ristoranti Piazza Bresca alle spalle, il centro storico collinare de La Pigna, e i paesi vicini della Riviera dei Fiori, Ospedaletti, Bordighera, Arma di Taggia e San Lorenzo al Mare lungo la pista ciclabile`,
+    },
+    santander: {
+      personality: `la capitale balneare della Cantabria con un lungomare in stile Belle Époque, la penisola reale della Magdalena, una zona senza guinzaglio dedicata al Parque de las Llamas, e le traversate Brittany Ferries per Plymouth e Portsmouth dall'Estación Marítima`,
+      highlight: `la passeggiata di 8 km sul lungomare dall'Estación Marítima attraverso il Paseo Pereda e la Península de la Magdalena fino al faro di Cabo Mayor, più la Playa del Sardinero fuori stagione (ottobre-aprile)`,
+      area: `il Casco Antiguo intorno alla cattedrale e al Mercado de la Esperanza, il quartiere alberghiero di Sardinero, e la penisola della Magdalena che chiude la baia a est`,
+    },
+    "santiago-de-compostela": {
+      personality: `una capitale dei pellegrini patrimonio UNESCO, dove il Cammino di Santiago ha plasmato una tradizione millenaria di accoglienza per i cani nel centro storico lastricato di granito`,
+      highlight: `le quattro piazze della cattedrale, il parco dell'Alameda con la sua zona senza guinzaglio Carballeira de Santa Susana, e il panoramico Parque de Bonaval`,
+      area: `il casco antiguo intorno alla cattedrale, il verde corridoio dell'Alameda, e i quartieri residenziali di Conxo e Vista Alegre`,
+    },
+    santorini: {
+      personality: `l'isola vulcanica a forma di mezzaluna delle Cicladi, dove villaggi imbiancati arroccati sulla scogliera si affacciano su una caldera di 300 m, il sentiero panoramico di 10 km Fira-Imerovigli-Oia è l'escursione col cane per eccellenza (all'alba o dopo le 17, a mezzogiorno le zampe scottano), i villaggi collinari nell'entroterra di Pyrgos e Megalochori offrono una calma e autentica esperienza cicladica, e il sito minoico dell'età del bronzo di Akrotiri si trova sotto un tetto bioclimatico all'estremità sud`,
+      highlight: `il sentiero sulla caldera Fira-Oia, il Kasteli collinare di Pyrgos con panorama a 360 gradi, e le scogliere lunari di Vlychada sopra la lunga spiaggia di sabbia nera`,
+      area: `Fira (capitale e snodo dei bus KTEL) sull'orlo della caldera, i villaggi nell'entroterra di Pyrgos, Megalochori e Karterados per soggiorni più tranquilli e pet-friendly, e le località costiere del sud, Perissa, Perivolos e Vlychada`,
+    },
+    sanxenxo: {
+      personality: `la regina delle spiagge della Galizia nelle Rías Baixas, in provincia di Pontevedra, con la Praia de Silgar (750 m, Bandiera Blu), il lungomare Silgar-Baltar di 6 km, il borgo di granai di Combarro lì vicino e le dune selvagge di A Lanzada, anche se d'estate le spiagge vietano i cani e le gite alle isole Cíes e Ons sono off-limits per i pet`,
+      highlight: `il lungomare Silgar-Baltar, la spiaggia selvaggia e il promontorio di A Lanzada, e le spiagge per cani di O Grove aperte tutto l'anno a circa 20 km`,
+      area: `il lungomare e il porticciolo di Silgar nel centro, il quartiere dei pescatori di Portonovo, e l'istmo di A Lanzada verso O Grove`,
+    },
+    seattle: {
+      personality: `la capitale dei cani del Pacific Northwest, con più di una dozzina di aree off-leash e una cultura dei beer garden coperti e riscaldati che accoglie i cani tutto l'anno, anche se le regole dei parchi vietano i cani su tutte le spiagge e zone balneabili della città`,
+      highlight: `l'area off-leash di Magnuson Park sul Lake Washington (l'unica in città con accesso all'acqua), l'area off-leash da 40 acri di Marymoor Park, ora raggiungibile a piedi dalla stazione Marymoor Village, l'area completamente recintata di Westcrest Park a West Seattle, e i sentieri di Elliott Bay e Burke-Gilman`,
+      area: `Fremont e Wallingford per le birrerie e i sentieri, Ballard per i beer garden che accolgono i cani anche dentro, Queen Anne e Belltown per le passeggiate sul lungomare dall'Olympic Sculpture Park`,
+    },
+    sete: {
+      personality: `città portuale dell'Hérault con 44.000 abitanti, costruita sui fianchi del Mont Saint-Clair tra il Mediterraneo e lo stagno di Thau con le sue ostriche, soprannominata la Venezia della Linguadoca per la sua rete di canali attivi, con una vetta panoramica boscosa di 175 m, il Cimetière Marin di Paul Valéry, la Plage de la Corniche di 12 km con la spiaggia per cani Lazaret aperta tutto l'anno, e un traghetto passeggeri pet-friendly che attraversa lo stagno verso i villaggi di ostriche di Bouzigues`,
+      highlight: `la plage canine Lazaret sulla Plage de la Corniche, aperta tutto l'anno, la terrazza panoramica del Mont Saint-Clair a Notre-Dame de la Salette, e il traghetto passeggeri Sète-Mèze attraverso l'Étang de Thau`,
+      area: `le passeggiate di Quai de la Résistance e Quai de la Marine lungo il Canal Royal, lo storico quartiere di pescatori di Pointe Courte sullo stagno di Thau, e i fianchi boscosi del Mont Saint-Clair sopra il centro`,
+    },
+    seville: {
+      personality: `una delle città più pet-friendly dell'Andalusia. Qui i cani passeggiano sotto gli alberi d'arancio, si siedono coi padroni ai tavolini delle tapas, e girano per i parchi sul fiume`,
+      highlight: `il Parque de María Luisa, il parco Alamillo, e il lungofiume del Guadalquivir`,
+      area: `Triana, Santa Cruz, e El Arenal`,
+    },
+    sitges: {
+      personality: `cittadina catalana di mare a 35 km a sud-ovest di Barcellona, con 17 spiagge su 3,5 km di Costa del Garraf, la Platja de la Bassa Rodona che diventa spiaggia per cani nella finestra agosto-settembre, i vicoli del Casc Antic attorno alla chiesa a picco sul mare di Sant Bartomeu e al Palau Maricel, e una delle scene LGBT più consolidate d'Europa attorno al Carnaval e al Fantastic Film Festival`,
+      highlight: `la finestra cani della Platja de la Bassa Rodona e la calette fuori stagione di Platja dels Balmins, la sagoma della chiesa di Sant Bartomeu sul Passeig Marítim, e i sentieri del Parc Natural del Garraf nell'entroterra`,
+      area: `il Casc Antic attorno alla chiesa di Sant Bartomeu, i 2 km del Passeig Marítim dal porto di Aiguadolç a Terramar, e il quartiere LGBT attorno a Carrer del Primer de Maig`,
+    },
+    cadaques: {
+      personality: `il paesino bianco di 2.800 abitanti al capolinea della strada di montagna GI-614, sul promontorio di Cap de Creus, con un centro storico imbiancato a calce che sale fino alla chiesa barocca di Santa Maria, la casa di famiglia di Salvador Dalí a Port Lligat, il primo parco naturale marino-terrestre di Spagna, il faro più a est della terraferma (Faro de Cap de Creus), e un vento di tramontana che plasma sia il paesaggio che il ritmo di vita locale`,
+      highlight: `il sentiero costiero GR-92 dalla Riba Pianc a Port Lligat, passando davanti alla Casa-Museu Salvador Dalí, i sentieri di ardesia del Parc Natural de Cap de Creus fino al Faro e alla cala Jugadora, e Plaça Frederic Rahola, il salotto del paese, attorno al passeggio delle 19:00`,
+      area: `il lungomare (Riba) tra Es Baluard e Plaça Frederic Rahola, i vicoli di ardesia del centro storico su Carrer des Call fino a Santa Maria, e la cala di Port Lligat 1,5 km a nord attorno alla casa di Dalí`,
+    },
+    siena: {
+      personality: `città collinare della Toscana meridionale con 53.000 abitanti, patrimonio UNESCO, costruita attorno a Piazza del Campo a forma di conchiglia e divisa in 17 contrade che si sfidano nel Palio il 2 luglio e il 16 agosto, col Duomo a strisce di marmo bianco e nero, la Torre del Mangia di 102 m, il Palazzo Pubblico del Trecento, i bastioni panoramici della Fortezza Medicea, la Via Francigena che passa per Porta Camollia e Porta Romana, il regionale Trenitalia per Firenze che accetta cani museruolati a metà prezzo, e il bus Tiemme per San Gimignano, Volterra, Montepulciano e l'aeroporto di Firenze`,
+      highlight: `Piazza del Campo a forma di conchiglia con la Torre del Mangia e la Fonte Gaia, il giro panoramico di 1,2 km sui bastioni della Fortezza Medicea con la zona off-leash nel bastione sud-est, l'Orto de' Pecci, l'orto medievale nella valletta sotto il Campo, le fontane e i musei delle 17 contrade, e le tappe della Via Francigena 31 verso Monteriggioni (20 km a nord) e 32 verso Ponte d'Arbia (24 km a sud) tra le colline delle Crete Senesi`,
+      area: `il centro murato patrimonio UNESCO attorno a Piazza del Campo, Piazza del Duomo e i tre terzi (Camollia, Città, San Martino), la Fortezza Medicea e i giardini della Lizza a nord-ovest, l'Orto de' Pecci nella valletta appena sotto il lato sud del Campo, e la stazione di Siena in periferia nord collegata al centro da scale mobili nella Galleria Antiporto`,
+    },
+    setubal: {
+      personality: `porto atlantico operativo che avvolge l'estuario del Sado, con calette di calcare trasparenti dell'Arrábida a 15 minuti dal centro, uno spettacolo gratuito di delfini tursiopi tutto l'anno dal traghetto pet-friendly per Tróia, il parco naturale della Serra da Arrábida di 110 km² che sale direttamente dal mare, e una cultura da tasca sottovalutata fatta di choco frito e Moscatel`,
+      highlight: `le calette dell'Arrábida a Figueirinha, Galapinhos e Portinho da Arrábida, la traversata pet-friendly di Atlantic Ferries verso la penisola di Tróia, e il panorama sull'estuario del Sado dal Forte de São Filipe`,
+      area: `il centro storico attorno a Praça do Bocage e Avenida Luísa Todi, il lungomare di Albarquel sul lato ovest della città, e la strada costiera dell'Arrábida verso Portinho`,
+    },
+    sintra: {
+      personality: `paesaggio culturale patrimonio UNESCO a 30 minuti da Lisbona, con palazzi romantici policromi nella Serra de Sintra, i terreni pet-friendly dei Parques de Sintra a Pena, Regaleira, Monserrate e Capuchos, e un clima atlantico mite che resta pet-friendly tutto l'anno`,
+      highlight: `i giardini di Parque da Pena e Quinta da Regaleira, i bastioni del Castelo dos Mouros, e le scogliere di Cabo da Roca, il punto più a ovest dell'Europa continentale`,
+      area: `la Vila Velha attorno al Palácio Nacional, il quartiere residenziale di Estefânia vicino alla stazione, e la piazza del paese di São Pedro de Sintra`,
+    },
+    sofia: {
+      personality: `una delle capitali più economiche dell'UE, con quasi 500 locali pet-friendly, due ospedali d'emergenza aperti 24 ore su 24, e la montagna Vitosha di 2.290 metri che si alza proprio a ridosso della città`,
+      highlight: `Borisova Gradina, Yuzhen Park, e i sentieri del Vitosha Nature Park`,
+      area: `Vitosha Boulevard, Lozenets, e Boyana`,
+    },
+    sopot: {
+      personality: `il cuore della cittadina termale di mare della Tricittà polacca, 35.000 abitanti, famosa per il molo di legno più lungo d'Europa (512 m, cani al guinzaglio gratis), l'accesso alla spiaggia coi cani tutto l'anno da quando è cambiata la regola nel 2025, e dodici aree off-leash gratuite tra cui quella attrezzata con agility di Blonia Sopockie`,
+      highlight: `il molo di legno di 512 m e il viale Monte Cassino, il tratto di spiaggia per cani agli ingressi 43-45 vicino a Park Polnocny, e i sentieri nel bosco di Lesna Opera su per il Lysa Gora`,
+      area: `Dolny Sopot attorno al molo e a Monte Cassino, Karlikowo vicino all'area cani di Blonia, e Kamienny Potok alla spiaggia per cani a nord`,
+    },
+    "cinque-terre": {
+      personality: `cinque borghi di pescatori liguri patrimonio UNESCO (Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore) incastonati su scogliere terrazzate in provincia di La Spezia, davvero pet-friendly dove conta: i cani al guinzaglio viaggiano sul Cinque Terre Express e sul traghetto del Golfo dei Poeti, e camminano sui sentieri CAI costieri e sulla riaperta Via dell'Amore, anche se i borghi sono ripidi e le spiagge sono limitate`,
+      highlight: `la riaperta Via dell'Amore tra Riomaggiore e Manarola, il Sentiero Azzurro costiero percorribile con la Cinque Terre Trekking Card, il giardino panoramico di Punta Bonfiglio sopra Manarola, il porto di Vernazza col suo punto panoramico del Castello Doria, e il ponte del traghetto pet-friendly lungo tutta la costa`,
+      area: `i cinque borghi di Monterosso, Vernazza, Corniglia, Manarola e Riomaggiore, la pianeggiante Levanto come porta d'accesso a nord, e La Spezia a sud col veterinario 24 ore più vicino`,
+    },
+    portofino: {
+      personality: `l'iconico borgo di pescatori della Riviera Ligure, un grappolo di case color pastello attorno a un porticciolo piccolo ed esclusivo su un promontorio boscoso ripido in provincia di Genova, glamour ma con un cane bisogna fare i conti sul serio: non c'è praticamente una spiaggia per cani e la costa è rocciosa e cara, però i cani al guinzaglio passeggiano sulla piazzetta del porto in piano, salgono al Castello Brown e al faro, e camminano sui sentieri del Parco di Portofino fino a San Fruttuoso`,
+      highlight: `la piazzetta del porto in piano con le sue terrazze pet-friendly, la salita all'aperto oltre la chiesa di San Giorgio fino al Castello Brown e poi al Faro di Portofino, il sentiero del parco al guinzaglio sopra il promontorio fino all'abbazia di San Fruttuoso, e la passeggiata costiera fino a Paraggi e Santa Margherita`,
+      area: `la piazzetta del porto in piano nel cuore del borgo, il boscoso Parco Naturale Regionale di Portofino dietro, la baia di Paraggi verso Santa Margherita, e i paesi di accesso di Santa Margherita Ligure e Rapallo, dove passano bus e traghetti`,
+    },
+    portoroz: {
+      personality: `la stazione termale Belle Époque della Slovenia sulla costa istriana, un lungomare piatto e camminabile fatto di viali di palme e grandi hotel talassoterapici, davvero pet-friendly all'aperto anche se gli interni delle terme no, con la Monty's Dog Beach a Lucija, il parco di sculture Forma Viva sulla penisola di Seča, le saline di Sečovlje e la Pirano senza auto tutte a portata di mano`,
+      highlight: `la Monty's Dog Beach a Lucija, il parco di sculture Forma Viva sulla verde penisola di Seča, e il sentiero costiero in piano fino a Pirano`,
+      area: `il viale di palme e la marina nel centro della stazione, Lucija attorno alla spiaggia per cani, e la penisola di Seča con le saline di Sečovlje`,
+    },
+    positano: {
+      personality: `il gioiello verticale della Costiera Amalfitana, una cascata di case color pastello che precipita dalla scogliera fino al mare in provincia di Salerno, bellissima ma dura per un cane: il paese è una scalinata di centinaia di gradini, la maggior parte delle spiagge limita i cani e in estate la pietra cuoce, però i cani al guinzaglio salgono sui bus SITA SUD e sui traghetti Travelmar e Alicost e, soprattutto, camminano sullo spettacolare Sentiero degli Dei sopra la costa`,
+      highlight: `il Sentiero degli Dei da Bomerano a Nocelle con i cani al guinzaglio, la passeggiata piatta di Via Positanesi d'America tra Spiaggia Grande e Fornillo, la chiesa di Santa Maria Assunta con la cupola in maiolica e la sua piazza, la frazione più verde di Nocelle in collina, e il fresco altopiano di Agerola dove parte il sentiero`,
+      area: `la Spiaggia Grande a livello mare e la più tranquilla Fornillo, il paese alto lungo Viale Pasitea servito dalla navetta arancione interna, la frazione collinare di Nocelle sopra il centro, e i paesi di accesso di Sorrento oltre il valico e Amalfi lungo la costa`,
+    },
+    sorrento: {
+      personality: `cittadina della Campania di 16.000 abitanti nella Città Metropolitana di Napoli, snodo di accesso per Costiera Amalfitana, Capri, Ischia e Pompei (3 milioni di turisti l'anno), con la storica Piazza Tasso, i giardini panoramici di Villa Comunale a 80 m sopra il vecchio porto di pescatori di Marina Grande, lo scalo aliscafi di Marina Piccola (Capri 25 min, Ischia 50 min, Napoli 35 min), la Circumvesuviana EAV che è l'unica ad accettare gratis i cani museruolati sul tragitto diretto di 35 min per Pompei Scavi, e il bus SITA SUD della Costiera Amalfitana per Positano, Amalfi e l'attacco del Sentiero degli Dei`,
+      highlight: `i giardini panoramici di Villa Comunale con la terrazza a 180 gradi sul Golfo di Napoli fino al Vesuvio, il vecchio porto di pescatori di Marina Grande col pontile Bagni Delfino della famiglia De Gregorio, il punto panoramico spettacolare della gola del Vallone dei Mulini, la piscina naturale di mare di Bagni della Regina Giovanna alla Villa Romana di Pollio Felice 2 km a ovest, e l'attacco del Sentiero degli Dei 12 km a est a Bomerano`,
+      area: `il centro storico attorno a Piazza Tasso e Corso Italia, la scogliera di Villa Comunale e il Chiostro di San Francesco sopra Marina Grande, il terminal dei traghetti di Marina Piccola ai piedi della scogliera (con ascensore), e i paesi dell'entroterra di Sant'Agnello, Piano di Sorrento e Meta sulla linea della Circumvesuviana`,
+    },
+    split: {
+      personality: `città costiera croata rilassata, dove il lungomare sull'Adriatico, l'antico Palazzo di Diocleziano e una cultura locale easy-going la rendono una meta top per chi viaggia con animali`,
+      highlight: `il parco boscoso di Marjan Hill, la zona per cani della spiaggia Bačvice, e il sentiero costiero verso Stobreč`,
+      area: `Meje, i dintorni della Città Vecchia, e il quartiere di Manuš`,
+    },
+    "st-ives": {
+      personality: `cittadina portuale della Cornovaglia con spiagge di sabbia bianca e famosa colonia di artisti, dove i cani condividono il sentiero costiero, i pub del porto e le gite in barca per vedere le foche, con l'accesso alle spiagge regolato da regole stagionali facili da pianificare`,
+      highlight: `la Bamaluz Beach, pet-friendly tutto l'anno, il South West Coast Path verso Zennor, e le gite in barca pet-friendly a Seal Island`,
+      area: `il lungomare del porto e il molo di Smeaton, i vecchi vicoli di pescatori di Downlong, e Porthmeor Beach sotto la Tate`,
+    },
+    "st-moritz": {
+      personality: `il punto di riferimento del lusso alpino nella valle dell'Engadina nei Grigioni, a 1.856 m, dove 322 giorni di sole l'anno (il record svizzero) illuminano il lago ghiacciato Lej da San Murezzan d'inverno, la storica pista da skeleton Cresta Run, la funicolare panoramica del 1907 di Muottas Muragl, la funivia del ghiacciaio Diavolezza a 2.978 m, e la ferrovia retica patrimonio UNESCO con Glacier Express e Bernina Express`,
+      highlight: `l'anello di 4,5 km attorno al lago Lej da San Murezzan che collega St. Moritz-Dorf e St. Moritz-Bad passando per la cappella della sorgente Mauritius, il panorama sui quattro laghi dell'Engadina dalla Senda Filosofica di Muottas Muragl, e il sentiero della Val Roseg da Pontresina, con opzione carrozza a cavalli`,
+      area: `St. Moritz-Dorf attorno a Via Maistra e alla Torre Pendente (Schiefer Turm), St. Moritz-Bad sulla riva del lago e alla sorgente minerale Mauritius dell'età del bronzo, e i paesi dell'Alta Engadina attorno, Pontresina, Sils Maria e Silvaplana`,
+    },
+    stavanger: {
+      personality: `terza città della Norvegia e porta d'accesso al Lysefjord, con un centro storico in legno patrimonio UNESCO (Gamle Stavanger), trasporti eccezionalmente pet-friendly (bus gratis, treni gratis, traghetti dei fiordi gratis), l'iconica Pulpit Rock a 50 min di distanza, e 35 km di sabbia atlantica pet-friendly a 15 min a sud`,
+      highlight: `l'escursione a Pulpit Rock (Preikestolen) col cane al guinzaglio, la crociera sul Lysefjord, e la spiaggia per cani sull'Atlantico di Solastranden a 15 min dal centro`,
+      area: `il porto di Vågen e il centro storico in legno di Gamle Stavanger, la colorata Fargegata, e il quartiere del lago Mosvatnet`,
+    },
+    stockholm: {
+      personality: `una città dove i cani fanno parte della vita di tutti i giorni. Sui traghetti, nei bar, e in giro per le isole dell'arcipelago`,
+      highlight: `l'isola di Djurgården, Hagaparken, e la rete di sentieri dell'arcipelago`,
+      area: `Södermalm, Östermalm, e Djurgården`,
+    },
+    strasbourg: {
+      personality: `una delle città più suggestive d'Europa, patrimonio UNESCO, dove la cultura alsaziana, i mercatini di Natale e un atteggiamento rilassato verso i cani la rendono una meta pet-friendly tutto l'anno`,
+      highlight: `il Parc de l'Orangerie, i canali della Petite France, e i Jardins des Deux Rives sul Reno`,
+      area: `Petite France, Krutenau, e il quartiere europeo`,
+    },
+    stuttgart: {
+      personality: `capitale del sud della Germania annidata in un bacino verde di vigneti e faggeti, dove i biergarten e le osterie accolgono i cani senza eccezioni e tre aree off-leash recintate circondano il centro`,
+      highlight: `il nastro verde dello Schlossgarten, i bacini forestali di Bärensee, e il parco collinare di Killesberg`,
+      area: `Mitte, Süd, e Bad Cannstatt`,
+    },
+    tallinn: {
+      personality: `città medievale da favola con un atteggiamento estone progressista verso gli animali. I cani entrano nella maggior parte dei negozi, visitano la città vecchia, e girano liberi sui sentieri costieri`,
+      highlight: `Kadriorg Park, il sentiero costiero di Pirita, e le passeggiate nella torbiera di Pääsküla`,
+      area: `Kalamaja, Telliskivi, e la Città Vecchia`,
+    },
+    tampere: {
+      personality: `terza città della Finlandia e capitale non ufficiale della sauna, trasporti eccezionalmente pet-friendly (tram gratis, treni gratis), 22 koira-aitaus recintati, due spiagge per cani sui laghi a due passi dal centro, e l'iconica cresta di Pyynikki dove si passeggia coi cani tutto l'anno`,
+      highlight: `la cresta di Pyynikki con la torre-osservatorio con caffè, le spiagge per cani di Pyynikki e Niihama sui due laghi, e il percorso lungo le rapide di Tammerkoski nel centro`,
+      area: `il centro tra le rapide di Tammerkoski e Hämeenkatu, il quartiere creativo di Finlayson, e la cresta di Pyynikki sul lago`,
+    },
+    taormina: {
+      personality: `il balcone siciliano sospeso a 200 m sul Mar Ionio, di fronte all'Etna, location della seconda stagione di The White Lotus (HBO), con il Corso Umberto pedonale che attraversa il centro medievale tra Porta Catania e Porta Messina, il Teatro Antico greco-romano del III secolo a.C. all'aperto affacciato su Etna e baia, la funivia che scende alla caletta di ciottoli di Mazzarò, la riserva naturale dell'Isola Bella collegata da un istmo di sabbia con la marea, e una lunga spiaggia per cani a Letojanni, 5 km a nord`,
+      highlight: `il panorama sull'Etna e sullo Ionio dal Teatro Antico, la passeggiata su Corso Umberto da Porta Catania a Piazza IX Aprile e ai giardini di Villa Comunale, la funivia che scende a Mazzarò e l'istmo dell'Isola Bella, il tratto per cani della Sea Cup Beach a Letojanni 5 km a nord, e una gita alle pendici dell'Etna fino al Rifugio Sapienza a 1.923 m`,
+      area: `il Corso Umberto pedonale tra Porta Catania e Porta Messina, Piazza IX Aprile con la terrazza di Sant'Agostino e la salita alla Madonna della Rocca sopra, i giardini di Villa Comunale Trevelyan sul lato mare, e il lungomare di Mazzarò e Isola Bella 200 m più in basso, raggiungibile con la funivia`,
+    },
+    tarifa: {
+      personality: `il paese più a sud dell'Europa continentale e capitale mondiale del kitesurf e del windsurf, un piccolo centro storico medievale imbiancato a calce avvolto da 10 km di spiaggia di sabbia piatta dove i cani al guinzaglio passeggiano sotto il vento di Levante fuori stagione balneare, e un traghetto di 35 minuti attraversa lo stretto per Tangeri`,
+      highlight: `il casco antiguo attorno al Castillo de Guzmán el Bueno, i 10 km della Playa de Los Lances all'alba, e le rovine romane di Baelo Claudia dietro la pet-friendly spiaggia di Bolonia`,
+      area: `il casco antiguo murato, il porto e il passeggio dell'Alameda, e le spiagge dunose di Los Lances e Valdevaqueros a nord-ovest del paese`,
+    },
+    tarragona: {
+      personality: `porto romano della Catalogna patrimonio UNESCO sulla Costa Daurada, con tre spiagge per cani ufficiali, un anfiteatro romano del II secolo all'aperto che è anche la più bella passeggiata al guinzaglio in città, e un ospedale veterinario di riferimento aperto 24/7 a La Canonja`,
+      highlight: `l'anfiteatro romano e il suo punto panoramico sul mare, l'area per cani a Platja Llarga e la nascosta cala Fonda attraverso la pineta del Bosc de la Marquesa, e il Passeig Arqueològic attorno alle mura romane`,
+      area: `la medievale Part Alta e le mura romane, la Rambla Nova che finisce al Balcó del Mediterrani, e il lungomare di Platja del Miracle`,
+    },
+    tavira: {
+      personality: `la più tranquilla cittadina dell'Algarve orientale, divisa in due dal fiume Gilão e dal suo ponte romano a sette arcate, dove i vicoli imbiancati a calce portano dalla Praça da República a circa 37 chiese e al Castelo in cima alla collina, con il parco naturale della laguna di Ria Formosa proprio dietro l'angolo e le spiagge sulle isole barriera raggiungibili solo in traghetto, il che tiene lontana la folla`,
+      highlight: `il traghetto per Ilha de Tavira da Quatro Águas, il trenino di Praia do Barril e il cimitero delle ancore, le passeggiate sugli argini delle Salinas de Tavira coi fenicotteri, e il borgo panoramico di Cacela Velha a 10 km a est`,
+      area: `il centro storico attorno a Praça da República e al Castelo, le passeggiate sulla riva est del fiume Gilão, e il paese di pescatori di polpi di Santa Luzia con il borgo sulla lingua di sabbia di Cabanas de Tavira`,
+    },
+    texel: {
+      personality: `l'isola dei Wadden più facilmente pet-friendly dei Paesi Bassi, una lingua di terra sul Mare del Nord di 24 km, a 20 minuti dal traghetto TESO gratis per i cani da Den Helder, con cinque spiagge per cani off-leash aperte tutto l'anno (Paal 8, 9, 17, 28, 31), il parco nazionale Duinen van Texel di 4.300 ettari lungo la fascia dunale a ovest, la pineta di De Dennen di 850 ettari con percorsi off-leash tutto l'anno, sette paesi distinti (Den Burg la capitale acciottolata, De Koog accanto agli stabilimenti balneari, Oudeschild con il birrificio Texelse Bierbrouwerij, Den Hoorn il più piccolo, De Cocksdorp al faro di Eierland), e la palude salata De Slufter, sito NATURA 2000 sulla costa nord-ovest`,
+      highlight: `le cinque spiagge per cani off-leash aperte tutto l'anno a Paal 8, 9, 17, 28 e 31, i percorsi off-leash nella pineta di De Dennen, e il santuario delle foche di EcoMare più la salita al faro rosso di Eierland col cane al guinzaglio`,
+      area: `Den Burg attorno alla piazza acciottolata Groeneplaats e alla Hervormde Kerk del 1517, la striscia di stabilimenti balneari di De Koog vicino a Paal 17, la piazza del paese di Den Hoorn, il porto e il birrificio di Oudeschild, e il gruppo attorno al faro di De Cocksdorp sulla punta nord`,
+    },
+    "the-hague": {
+      personality: `elegante capitale olandese dove 11 km di costa sul Mare del Nord, dune off-leash e caffè pet-friendly si trovano a un tram di distanza dal centro`,
+      highlight: `Westduinpark e Bosjes van Poot, il bosco di Haagse Bos, e la tenuta di Landgoed Clingendael`,
+      area: `Statenkwartier, Hofkwartier, e Scheveningen Haven`,
+    },
+    thessaloniki: {
+      personality: `seconda città della Grecia e una delle più pet-friendly, città portuale di 2.300 anni dove i cani sono benvenuti ai tavolini all'aperto, nel quartiere della città vecchia, e lungo i 3,5 km della passeggiata sul lungomare di Nea Paralia`,
+      highlight: `il parco del lungomare di Nea Paralia (con una zona dedicata ai cani), la foresta urbana di Seich Sou, e le passeggiate sulle mura bizantine di Ano Poli`,
+      area: `Ano Poli (Città Alta), Ladadika, e il lungomare`,
+    },
+    toledo: {
+      personality: `la Città Imperiale medievale, ex capitale visigota, moresca e cristiana, un museo a cielo aperto patrimonio UNESCO su uno sperone di granito sopra il Tago, con Madrid a soli 33 minuti in alta velocità Avant`,
+      highlight: `il mirador del Valle con l'iconico panorama sullo skyline, la Senda Ecológica, un percorso circolare lungo il Tago, e il ponte medievale di San Martín`,
+      area: `il centro storico (Casco Histórico) attorno a Plaza de Zocodover, la Judería col Museo El Greco, e La Vega dall'altro lato del ponte di San Martín`,
+    },
+    tokyo: {
+      personality: `la capitale elettrica del Giappone dove gli incroci al neon di Shibuya, i templi secolari e le vie residenziali tranquille convivono fianco a fianco, con regole per gli animali più rigide che in Europa ma ottime aree cani recintate, parchi in riva alla Tokyo Bay e veterinari aperti 24 ore che parlano inglese`,
+      highlight: `l'area cani di Yoyogi Park vicino a Harajuku, l'area cani di Komazawa Olympic Park a Setagaya, e l'area cani e spiaggia sulla Tokyo Bay a Jonanjima`,
+      area: `le enclave internazionali pet-friendly di Hiroo e Azabu-Juban, i caffè di tendenza di Daikanyama e Jiyugaoka, e i parchi sul lungomare di Odaiba e Kasai Rinkai`,
+    },
+    toronto: {
+      personality: `una delle poche città nordamericane dove un cane di qualsiasi taglia viaggia gratis su metro, tram e bus fuori dagli orari di punta nei giorni feriali, con oltre ottanta aree off-leash e una legge dell'Ontario che ammette i cani nei dehors dei ristoranti`,
+      highlight: `la spiaggia per cani off-leash aperta tutto l'anno di Cherry Beach sull'Outer Harbour, l'area off-leash di Dog Hill di 8,5 acri a High Park, e il traghetto al guinzaglio per la Toronto Island Park senza auto`,
+      area: `i vicoli vittoriani pedonali del Distillery District, i dehors e i parchi di Leslieville e The Beaches, e i sentieri nel canyon attorno a Evergreen Brick Works nella Don Valley`,
+    },
+    "tossa-de-mar": {
+      personality: `cittadina di mare della Costa Brava sud, 5.700 abitanti, avvolta attorno alla Vila Vella del XII secolo, l'unico centro medievale fortificato ancora intatto su tutta la costa catalana, con quattro torri di guardia, mura merlate integre e le rovine gotiche della chiesa-castello di Sant Vicenç al suo interno, più la statua di bronzo di Ava Gardner che ricorda le riprese del 1951 di Pandora e l'Olandese Volante sulle rocce sopra Platja Gran`,
+      highlight: `le mura del XII secolo della Vila Vella e le quattro torri di guardia (Joanàs, Hores, Mare de Déu, Codolar), il sentiero costiero di 9 km Camí de Ronda GR-92 verso sud, oltre Cala Bona, Cala Pola, Cala Llevadó e Cala Giverola fino a Lloret de Mar, e il faro di Tossa del 1917 sulla punta più a est del promontorio`,
+      area: `il promontorio murato della Vila Vella sopra Platja Gran, i caffè del Passeig del Mar e di Plaça d'Espanya tra la Vila Vella e la spiaggia centrale, e i quartieri residenziali nell'entroterra a partire dalla Avinguda Mar Menuda`,
+    },
+    toulon: {
+      personality: `una delle grandi città francesi del Mediterraneo davvero più pet-friendly, con una funivia del Mont Faron che porta i cani gratis, la rara rete di bus e bateau-bus comunali che ammette i cani grandi al guinzaglio, una cani-plage ufficiale ad Anse Tabarly con rampa per il bagno dei cani e due cani-parc recintati sul Mourillon`,
+      highlight: `la vetta della funivia del Mont Faron a 584 m, la cani-plage di Anse Tabarly aperta tutto l'anno nel Mourillon a est, e il riaperto Sentier du Littoral attorno a Cap Brun`,
+      area: `la Vieille Ville attorno a Cours Lafayette e Place de la Liberté, il lungomare del Mourillon coi suoi cani-parc e Anse Tabarly, e Cap Brun per il sentiero costiero riaperto`,
+    },
+    toulouse: {
+      personality: `città del sud-ovest rilassata, di mattoni rosa e terrazze all'aperto, dove i cani si integrano nella vita di tutti i giorni lungo la Garonna`,
+      highlight: `le rive della Garonna, l'argine del Canal du Midi, e il parco fluviale di Prairie des Filtres`,
+      area: `Place du Capitole, Carmes, e la riva sinistra di Saint-Cyprien`,
+    },
+    tours: {
+      personality: `la base più pet-friendly della Valle della Loira, un centro storico a graticcio medievale, una rete di tram e bus Fil Bleu che accetta cani piccoli e grandi, e quattro grandi castelli rinascimentali (Villandry, Chenonceau, Amboise, Chambord) che accolgono tutti i cani al guinzaglio nei loro celebri giardini`,
+      highlight: `il Parc de Sainte-Radegonde di 14 ettari con l'area off-leash ufficiale della città, la pista ciclabile Loire à Vélo lungo il fiume, e il Jardin des Prébendes d'Oé, parco ottocentesco`,
+      area: `la Vieux-Tours a graticcio attorno a Place Plumereau, il quartiere della Cattedrale di Saint-Gatien, e la passeggiata sulla Loira fino a Vouvray`,
+    },
+    treviso: {
+      personality: `Venezia senza la folla, città veneta murata di canali, portici affrescati e ruote d'acqua a 30 minuti dalla laguna in treno, dove la piatta Restera segue il fiume Sile fuori città e le colline del Prosecco, patrimonio UNESCO, si alzano a 20 minuti a nord`,
+      highlight: `la Restera lungo il Sile, le sorgenti del Parco dello Storga di 67 ettari, e le aree cani recintate comunali come il Parco Ducale`,
+      area: `il centro storico murato attorno a Piazza dei Signori, i canali dei Buranelli e della Pescheria, e il lungo Sile verso Casier`,
+    },
+    trieste: {
+      personality: `capitale asburgica del Friuli-Venezia Giulia sull'Adriatico, con circa 22.000 cani registrati su 200.000 abitanti, aree off-leash comunali ufficiali, l'iconico lungomare di Barcola di 4 km con la sua Bau Beach dedicata, e il Parco di Miramare di 22 ettari sul mare`,
+      highlight: `Piazza Unità d'Italia (la più grande piazza sul mare d'Europa), il parco del Castello di Miramare, e i sentieri dell'altopiano del Carso con le osmize sopra la città`,
+      area: `la griglia del Borgo Teresiano attorno al Canal Grande, il lungomare di Piazza Unità d'Italia, e la passeggiata di Barcola a nord del centro`,
+    },
+    tromso: {
+      personality: `la capitale artica della Norvegia, 350 km a nord del Circolo Polare Artico, un polo di 77.000 abitanti costruito attorno alla caccia all'aurora boreale d'inverno e al sole di mezzanotte d'estate, con miti 14°C di massime a luglio adatti a cani brachicefali e anziani, e i sentieri della foresta di Tromsdalen a pochi minuti dal centro`,
+      highlight: `la funivia Fjellheisen fino al punto panoramico di Storsteinen a 421 m, la piazza della Cattedrale Artica, e il parco costiero di Telegrafbukta a sud dell'isola`,
+      area: `Storgata e il porto centrale, la valle di Tromsdalen attorno alla Cattedrale Artica, e la costa sud di Folkeparken / Telegrafbukta`,
+    },
+    trondheim: {
+      personality: `terza città della Norvegia ed ex capitale medievale, con la Cattedrale di Nidaros patrimonio UNESCO (la cattedrale gotica più a nord del mondo), il colorato quartiere in legno di Bakklandet, trasporto gratis per i cani su bus, tram e treni, e 80 km² di foresta urbana di Bymarka ai bordi della città`,
+      highlight: `la Cattedrale di Nidaros e il ponte Gamle Bybro, l'iconico tram storico Gråkallbanen verso la foresta di Bymarka, e il traghetto per l'isola di Munkholmen`,
+      area: `il Midtbyen attorno alla Cattedrale di Nidaros, il quartiere in legno di Bakklandet, e il distretto portuale di Solsiden`,
+    },
+    turin: {
+      personality: `capitale barocca del nord Italia con 18 km di portici coperti che riparano cani e padroni da pioggia e sole estivo, oltre 35 aree cani recintate, e le Alpi a un'ora di distanza per le gite del weekend`,
+      highlight: `il Parco del Valentino di 84 ettari, il lungo Po di 10 km, e la Basilica di Superga raggiunta con la tranvia a cremagliera d'epoca`,
+      area: `San Salvario, il Quadrilatero Romano, e il centro storico di Piazza Castello`,
+    },
+    uppsala: {
+      personality: `città svedese più rilassata per viaggiare coi cani dopo Stoccolma, compatta città universitaria medievale dove una foresta urbana di 108 ettari incontra sette hundrastgårdar comunali, un ospedale veterinario aperto 24 ore, e una cultura da fika che accoglie i cani al tavolo del caffè`,
+      highlight: `la riserva forestale di Stadsskogen di 108 ettari, i tumuli reali di Gamla Uppsala, e una spiaggia per cani sul fiume a Storvadsbadet`,
+      area: `Centrum attorno a Stora Torget e alla cattedrale, Luthagen vicino a Stadsskogen, e Sunnersta sulla riva del lago Ekoln`,
+    },
+    utrecht: {
+      personality: `compatta città universitaria olandese dove i cani viaggiano gratis su bus e tram cittadini, l'operatore delle crociere sui canali accoglie i cani senza sovrapprezzo, e tre zone off-leash, il Máximapark di 300 ettari, il Griftpark centrale e le tenute di Amelisweerd, sono tutte raggiungibili dal centro storico`,
+      highlight: `il Máximapark a Leidsche Rijn, il Griftpark centrale, e le tenute di Amelisweerd & Rhijnauwen a 5 km a sud-est`,
+      area: `Binnenstad e l'Oudegracht, Vogelenbuurt, e Wittevrouwen`,
+    },
+    valencia: {
+      personality: `città mediterranea assolata con 19 km di parco che attraversa il centro, il vecchio letto del fiume Turia. Una delle città più camminabili d'Europa per chi ha un cane`,
+      highlight: `il Turia Garden (9 km pet-friendly senza guinzaglio), la zona cani della spiaggia di Malvarrosa, e il parco naturale dell'Albufera`,
+      area: `Ruzafa, El Carmen, e l'Eixample`,
+    },
+    valletta: {
+      personality: `compatta fortezza di calcare patrimonio UNESCO dove i cani girano tutta la penisola di 1 km in un pomeriggio, viaggiano gratis sui traghetti per Sliema e le Tre Città, e trovano il benvenuto nei caffè in terrazza e nei giardini storici di Barrakka e Hastings`,
+      highlight: `gli Upper Barrakka Gardens sopra il Grand Harbour, la passeggiata sui bastioni degli Hastings Gardens, e una gita di un giorno al Ta'Qali National Park`,
+      area: `la penisola di Valletta stessa, Sliema dall'altra parte del Marsamxett, e le Tre Città di Senglea, Vittoriosa e Cospicua`,
+    },
+    vancouver: {
+      personality: `una delle città più pet-friendly del Nord America, avvolta da oceano, montagne e foresta pluviale, dove i cani al guinzaglio si sentono padroni del lungomare di Stanley Park e di oltre trenta aree off-leash, anche se la regola del TransLink che ammette solo i trasportini tiene i cani più grandi fuori da SkyTrain e bus`,
+      highlight: `il lungomare di Stanley Park di circa 9 km, i sentieri off-leash nel bosco di Pacific Spirit Regional Park, e la spiaggia per cani stagionale di Spanish Banks`,
+      area: `il West End e Stanley Park, False Creek e Granville Island, e i quartieri di Kitsilano e Mount Pleasant`,
+    },
+    vannes: {
+      personality: `porta d'accesso al Golfo del Morbihan, città medievale bretone dove tre quarti delle mura fortificate del XIII-XVI secolo sono ancora in piedi attorno a una Vieille Ville a graticcio completamente pedonale, con i traghetti BreizhGo Bateaux Bus du Golfe verso le isole senza auto di Arz e Aux Moines, il che ne fa una delle basi pet-friendly più gratificanti della Bretagna`,
+      highlight: `il Jardin des Remparts ai piedi delle mura medievali, il Parc de la Garenne sopra i bastioni, e l'anello costiero di 17 km dell'Île d'Arz senza auto, raggiunta con i Bateaux Bus du Golfe`,
+      area: `la Vieille Ville a graticcio dentro le mura medievali, il quartiere di Saint-Patern appena fuori Porte Prison, e la penisola di Conleau 4 km a sud sul Golfo`,
+    },
+    venice: {
+      personality: `una delle città italiane sorprendentemente più pet-friendly. I cani salgono sul vaporetto, esplorano i sestieri tranquilli lontano dalla folla, e sono benvenuti in molti bacari locali`,
+      highlight: `le spiagge dell'isola del Lido (cani ammessi fuori stagione), i canali tranquilli di Cannaregio, e il parco di Sant'Elena`,
+      area: `Cannaregio, Dorsoduro, e Sant'Elena`,
+    },
+    verona: {
+      personality: `città romantica patrimonio UNESCO dove i cani si uniscono ai padroni sui tavolini delle enoteche, nei giardini rinascimentali, e lungo le rive scenografiche dell'Adige`,
+      highlight: `il Giardino Giusti, le rive dell'Adige, e le terrazze pet-friendly vicino all'Arena`,
+      area: `Veronetta, il Centro Storico, e il quartiere di Piazza delle Erbe`,
+    },
+    vichy: {
+      personality: `la regina francese delle città termali, patrimonio UNESCO delle Grandi Terme d'Europa sull'Allier, dove i cani al guinzaglio passeggiano sui viali Belle Époque e nei parchi sul lago, mentre gli interni delle terme restano off-limits`,
+      highlight: `le gallerie coperte Art Nouveau del Parc des Sources, il Parc Napoleon III in stile inglese, e l'anello di 6 km sul lago attorno al Lac d'Allier`,
+      area: `il quartiere termale attorno al Parc des Sources, il lungolago dell'Allier, e i paesi vicini di Bellerive-sur-Allier e Cusset`,
+    },
+    vienna: {
+      personality: `una città che prende sul serio i cani. Viaggiano in metro, entrano nei musei e sono benvenuti in centinaia di caffè viennesi`,
+      highlight: `il parco del Prater, l'isola Donauinsel e il Lainzer Tiergarten`,
+      area: `il 1° distretto, il Naschmarkt e Josefstadt`,
+    },
+    vigo: {
+      personality: `la più grande città portuale della Galizia, arrampicata su un profondo fiordo atlantico, con 18 aree cani libere ufficiali, un forte carattere di porto operativo e le Isole Cíes visibili (ma rigorosamente vietate agli animali) dall'altra parte della ría`,
+      highlight: `la cittadella-parco del Castro con vista tramonto sulle Cíes, il Parque de Castrelos di 24 ettari e la cultura delle bancarelle di ostriche di Rúa Pescadería nel Casco Vello`,
+      area: `il Casco Vello vicino al porto crociere, il quartiere residenziale di Coruxo vicino alle spiagge occidentali e il verde quartiere del parco Castrelos`,
+    },
+    villach: {
+      personality: `città carinziana di 62.000 abitanti sulla Drava, con un Hauptplatz rinascimentale, due dei laghi alpini più caldi (Faaker See e Ossiacher See) a 10 km, il parco naturale del Dobratsch sopra la testa e i confini italiano e sloveno a 30-40 minuti`,
+      highlight: `il sentiero alzaia Drauradweg lungo il fiume, gli Hundebadeplätze di Drobollach sul Faaker See e Sattendorf sull'Ossiacher See, e la strada panoramica Villacher Alpenstraße che sale sul Dobratsch`,
+      area: `il centro storico pedonale intorno all'Hauptplatz, il quartiere residenziale di Lind vicino alla Tierklinik Villach e le rive dei laghi di Drobollach e Sattendorf`,
+    },
+    "villefranche-sur-mer": {
+      personality: `cittadina portuale della Costa Azzurra di 5.000 abitanti tra Nizza e Monaco, costruita in un ripido anfiteatro ocra sopra uno dei porti naturali più profondi del Mediterraneo occidentale, con il porto attivo di Port de la Santé, la Rue Obscure coperta del XIII secolo, i giardini della Citadelle Saint-Elme e la Chapelle Saint-Pierre des Pêcheurs affrescata da Jean Cocteau nel 1957`,
+      highlight: `la banchina di Port de la Santé e la Chapelle Saint-Pierre, la Vieille Ville e la medievale Rue Obscure, la Plage des Marinières di 1 km (la spiaggia più lunga della Costa Azzurra) e il Sentiero del Litorale di Cap Ferrat intorno a Pointe Saint-Hospice e Plage de Passable`,
+      area: `Port de la Santé e la Vieille Ville, la Citadelle e Port de la Darse, la Plage des Marinières e il corridoio della stazione SNCF, e la vicina penisola di Cap Ferrat`,
+    },
+    vilnius: {
+      personality: `la capitale più verde dell'UE e una delle più accoglienti per i cani, dove gli animali viaggiano gratis su ogni autobus e quasi 500 locali pet-friendly si trovano nella Città Vecchia UNESCO`,
+      highlight: `la foresta di Vingis Park, il Giardino dei Bernardini e la collina delle Tre Croci`,
+      area: `la Città Vecchia, Užupis e Šnipiškės`,
+    },
+    "vitoria-gasteiz": {
+      personality: `la capitale della Comunità Autonoma Basca e Capitale Verde Europea 2012, con l'Anillo Verde di 30 km, una cintura di cinque parchi naturali collegati che formano la rete verde urbana più estesa per passeggiare coi cani in Spagna`,
+      highlight: `le zone umide di Salburua con i loro branchi di cervi, il bosco di querce di Armentia di 160 ettari senza guinzaglio e il giardino botanico di Olarizu`,
+      area: `il Casco Medieval a forma di mandorla sulla collina, il nucleo civico di Plaza de la Virgen Blanca e il nuovo quartiere occidentale di Zabalgana`,
+    },
+    warsaw: {
+      personality: `una capitale europea in rapida modernizzazione dove gli hotel pet-friendly sono sempre più la norma e i parchi lungo il fiume offrono ottime passeggiate`,
+      highlight: `il parco Łazienki, i lungofiume della Vistola e la foresta di Kampinos ai margini della città`,
+      area: `Śródmieście, Praga e il quartiere fluviale di Powiśle`,
+    },
+    whitby: {
+      personality: `una delle città costiere più amate dai cani in Inghilterra, un antico porto peschereccio dello Yorkshire del Nord dove i cani sono benvenuti sul promontorio dell'abbazia, lungo i sentieri sulle scogliere e nella maggior parte dei pub del centro storico, e viaggiano gratis sulla linea ferroviaria Esk Valley`,
+      highlight: `le rovine della Whitby Abbey sull'East Cliff, la salita dei 199 gradini e le spiagge per cani aperte tutto l'anno a Tate Hill, Sandsend e Runswick Bay`,
+      area: `il centro storico intorno a Church Street e il porto, il West Cliff e il promontorio dell'abbazia sopra i 199 gradini`,
+    },
+    ambleside: {
+      personality: `una bella cittadina per camminate in cima al lago Windermere nel Lake District, dove i cani sono benvenuti su quasi ogni fell e sentiero, viaggiano gratis sui Windermere Lake Cruises e sono accolti nella maggior parte dei pub`,
+      highlight: `la camminata alla cascata Stock Ghyll Force, il tortuoso Loughrigg Fell e i dog-friendly Windermere Lake Cruises da Waterhead`,
+      area: `il Market Cross e i suoi vicoli, la riva del lago a Waterhead e la riva del Rydal Water verso Grasmere`,
+    },
+    cromer: {
+      personality: `una vecchia cittadina costiera del Norfolk del Nord con molo, scogliere e granchi famosi, dove i cani passeggiano sul lungomare tutto l'anno, il divieto estivo in spiaggia ti manda alla vicina e dog-friendly East Runton, e il Norfolk Coast Path corre lungo le scogliere`,
+      highlight: `il molo vittoriano Grade II e il lungomare, la spiaggia per cani aperta tutto l'anno a East Runton e il Norfolk Coast Path sulle scogliere verso Sheringham`,
+      area: `il lungomare e il molo, le spiagge di East e West Runton a ovest e la tenuta di Felbrigg Hall nell'entroterra`,
+    },
+    "bourton-on-the-water": {
+      personality: `la "Venezia dei Cotswolds", un villaggio di pietra color miele dove il poco profondo fiume Windrush scorre lungo la via principale sotto ponticelli bassi, i cani sono benvenuti nella maggior parte di pub e caffè, e sentieri quasi pianeggianti portano ai villaggi da fiaba delle Slaughters`,
+      highlight: `i ponticelli di pietra sul Windrush, la camminata senza barriere fino a Lower e Upper Slaughter e la riserva naturale di Greystones Farm`,
+      area: `il prato lungofiume e High Street, il Warden's Way verso le Slaughters e i prati di Greystones Farm`,
+    },
+    bakewell: {
+      personality: `una bella cittadina mercato in pietra calcarea nel cuore del Peak District, dove i cani sono benvenuti tra le valli e i sentieri, nella maggior parte dei pub e al guinzaglio nel giardino e nell'enorme parco di Chatsworth`,
+      highlight: `il piatto e senza traffico Monsal Trail con il suo famoso viadotto, la passeggiata lungofiume sul Wye e le camminate al guinzaglio nel Chatsworth Park`,
+      area: `Rutland Square e il ponte medievale, il Monsal Trail verso Monsal Head e i villaggi di Ashford-in-the-Water e Over Haddon`,
+    },
+    keswick: {
+      personality: `la città più dog-friendly della Gran Bretagna, in cima al Derwentwater nel Lake District settentrionale, dove i cani sono benvenuti su quasi ogni fell e sentiero, viaggiano gratis sulle barche Keswick Launch e sono la norma nei pub intorno alla Market Square`,
+      highlight: `la riva del lago a Friar's Crag, la classica cresta di Catbells e il dog-friendly Keswick Launch sul Derwentwater`,
+      area: `la Market Square e Lake Road, la riva del Derwentwater a Friar's Crag e le baie più tranquille a est intorno a Calfclose Bay`,
+    },
+    windermere: {
+      personality: `il lago più grande d'Inghilterra nel cuore del Lake District, dove i cani sono benvenuti su quasi ogni fell e sentiero, viaggiano gratis su treni e crociere del lago, e sono la norma nei pub di Bowness`,
+      highlight: `la salita al belvedere di Orrest Head, la riva del lago del National Trust a Fell Foot e i dog-friendly Windermere Lake Cruises`,
+      area: `il villaggio di Windermere, il lungolago di Bowness-on-Windermere e la riva meridionale più tranquilla intorno a Fell Foot`,
+    },
+    wroclaw: {
+      personality: `una delle città polacche più genuinamente amanti dei cani, dove la coloratissima piazza Rynek è circondata da terrazze di caffè che accolgono i cani senza problemi, i mezzi pubblici sono gratis per tutti gli animali e circa quaranta zone recintate senza guinzaglio sono sparse per la città`,
+      highlight: `il Park Szczytnicki e la Centennial Hall, le isole del fiume Odra e i ciottoli illuminati dai lampioni dell'Isola della Cattedrale al tramonto`,
+      area: `la Città Vecchia intorno al Rynek, il quartiere bohemien di Nadodrze e il Quartiere delle Quattro Confessioni`,
+    },
+    yokohama: {
+      personality: `la grande città portuale del Giappone sulla baia di Tokyo, dove un lungomare compatto e percorribile a piedi rende facili anche le regole più rigide del Giappone sugli animali, con cani al guinzaglio benvenuti lungo le passeggiate di Minato Mirai e i complessi all'aperto sul lungomare`,
+      highlight: `il grande dog run in erba naturale SHIBA to KAZE al Rinko Park, i prati sul mare di Yamashita Park e il ponte-terrazza a schiena di balena di Osanbashi Pier`,
+      area: `il Marine & Walk all'aperto e il Red Brick Warehouse sul lungomare di Shinko, le passeggiate di Minato Mirai intorno a Sakuragicho e la passeggiata portuale di Kishamichi`,
+    },
+    york: {
+      personality: `una delle città più affidabilmente dog-friendly d'Inghilterra, un centro medievale compatto dove l'80% dei pub accoglie i cani al guinzaglio, la camminata di 5 km sulle mura cittadine è gratis con gli animali, e i treni diretti LNER collegano alle spiagge per cani di Filey, Sandsend e Bridlington per una gita di un giorno`,
+      highlight: `il circuito dog-friendly delle mura cittadine, i Museum Gardens lungofiume e la spiaggia per cani aperta tutto l'anno a Filey a un'ora a est sulla linea LNER`,
+      area: `il centro storico dentro le mura, il quartiere di Fossgate e il quartiere di Bishopthorpe Road / Knavesmire`,
+    },
+    rovinj: {
+      personality: `la città portuale veneto-italiana dell'Istria, un ex isolotto di facciate pastello che scende fino a un porto peschereccio attivo sotto il campanile di 60 m di sv. Eufemije, con il parco costiero boschivo di Punta Corrente di 300 acri, quattro spiagge per cani segnalate, uno Stari Grad bilingue croato-italiano e il catamarano veloce stagionale Venezia Lines per Venezia`,
+      highlight: `il parco boschivo di Punta Corrente di 300 acri con tre spiagge per cani al suo interno, il campanile in cima alla collina di sv. Eufemije modellato su San Marco, il vicolo della colonia di artisti di Grisia e i tender del traghetto dell'arcipelago di Rovigno verso Sv. Katarina e Crveni otok`,
+      area: `la penisola dello Stari Grad intorno a sv. Eufemije e all'Arco di Balbi, la passeggiata del porto e il bordo della stazione degli autobus, e la costa turistica di Monsena/Borik a nord della città`,
+    },
+    pula: {
+      personality: `l'ex capitale romana dell'Istria con 53.000 abitanti, sulla punta meridionale della penisola, ancorata all'Arena del I secolo (uno dei sei anfiteatri romani meglio conservati al mondo), al Foro con il suo Tempio di Augusto, all'Arco dei Sergi e alla collina fortificata del Kaštel, con la penisola di Punta Verudela a 4 km a sud, il parco naturale senza guinzaglio di Capo Kamenjak altri 10 km più in là, l'aeroporto di Pola a 7 km e un catamarano stagionale Venezia Lines per l'Italia`,
+      highlight: `il giro esterno dell'Arena di Pola (gratuito, aperto 24/7, adatto ai cani al guinzaglio), l'asse pedonale Foro-Augusto-Arco dei Sergi, il panorama a 360° dalla collina del Kaštel, la passeggiata costiera del Lungomare fino a Stoja e il parco naturale di Capo Kamenjak con calette senza guinzaglio`,
+      area: `il centro storico a griglia romana tra l'Arena e il Foro, la penisola di Verudela a sud della città con i suoi hotel turistici e spiagge per cani, e il parco naturale di Premantura/Capo Kamenjak a 10 km a sud per passeggiate costiere senza guinzaglio`,
+    },
+    "ras-al-khaimah": {
+      personality: `il tranquillo emirato di mare e montagna degli Emirati Arabi Uniti e, grazie al suo programma ufficiale Ras Al-K9, l'angolo più accogliente per i cani del paese, con lunghe spiagge naturali e la corniche di Al Marjan Island che incontra alle spalle il Jebel Jais, la vetta più alta degli Emirati, più tranquillo ed economico di Dubai a 45-75 minuti a sud sotto lo stesso sole invernale da novembre a marzo`,
+      highlight: `le spiagge Flamingo e Al Hamra elencate nel programma Ras Al-K9 per cani al guinzaglio, i sentieri bassi al guinzaglio e il Viewing Deck Park del Jebel Jais, il forte in cima alla collina di Dhayah e il villaggio abbandonato di pescatori di perle di Al Jazirah Al Hamra`,
+      area: `la fascia turistica di Al Hamra Village e Al Marjan Island con gli hotel, i caffè pet-friendly e le spiagge elencate, Flamingo Beach vicino al ristorante Ruzo, e le Hajar Mountains e il Jebel Jais nell'entroterra per camminate nei wadi e gite in montagna`,
+    },
+    zadar: {
+      personality: `la città più sottovalutata della costa dalmata, con foro romano, la rotonda preromanica di San Donato, l'Organo Marino azionato dalle onde e il Saluto al Sole a LED, tutto su una compatta penisola dog-friendly della Città Vecchia, con spiagge per cani sull'Adriatico aperte tutto l'anno a poca distanza in auto`,
+      highlight: `il lungomare Riva di 2 km, le installazioni dell'Organo Marino e del Saluto al Sole, e la spiaggia per cani ufficialmente designata di Kažin vicino al ponte per Vir`,
+      area: `la penisola della Città Vecchia intorno al foro romano, la zona turistica di Borik a nord-ovest, e il quartiere dei ristoranti di Trg Pet Bunara (Piazza dei Cinque Pozzi)`,
+    },
+    zagreb: {
+      personality: `una rilassata capitale d'epoca asburgica dove i cani salgono sulla funicolare più corta del mondo, le terrazze dei caffè costeggiano la pedonale Tkalčićeva e il Parco Maksimir di 316 ettari ha la principale zona recintata senza guinzaglio della città`,
+      highlight: `il Parco Maksimir, la medievale Città Alta e i tratti spiaggia per cani del lago Jarun`,
+      area: `Donji Grad, Gornji Grad e il quartiere dei laghi di Maksimir`,
+    },
+    zaragoza: {
+      personality: `la capitale dell'Aragona e la quinta città più grande di Spagna, ancorata alla Basilica del Pilar sull'Ebro e costruita intorno a 126 zone senza guinzaglio designate, una delle reti di parchi pet-friendly più dense di Spagna, oltre all'ospedale di riferimento AniCura Emvet aperto 24 ore su 24`,
+      highlight: `il Parque Grande Labordeta di 27 ettari, la zona canina recintata nel Parque del Tío Jorge e le passeggiate lungofiume delle Riberas del Ebro`,
+      area: `il Casco Histórico intorno al Pilar, il verde Centro su Paseo de Sagasta e il quartiere delle tapas di Magdalena`,
+    },
+    "zell-am-see": {
+      personality: `la stazione austriaca di lago e ghiacciaio nel Pinzgau, dove cani al guinzaglio e con museruola salgono sulle cabinovie dello Schmittenhöhe, gli impianti del ghiacciaio del Kitzsteinhorn arrivano fino a 3.029 m e anche le barche del Lago di Zell (5 euro a crociera), e la città mantiene una zona ufficiale senza guinzaglio a Erlberg; l'abitudine locale da adottare è la regola guinzaglio-o-museruola in tutti gli spazi pubblici`,
+      highlight: `il lungolago di Elisabethpark, l'anello di circa 11 km dello Zeller See via Thumersbach, la zona senza guinzaglio di Erlberg e la passerella della gola di Sigmund Thun fino al Klammsee`,
+      area: `il lungolago e il centro storico intorno alla Stadtplatz, Thumersbach dall'altra parte dell'acqua per soggiorni tranquilli in riva al lago, e il villaggio di Kaprun per il versante del ghiacciaio`,
+    },
+    zermatt: {
+      personality: `il villaggio alpino senza auto ai piedi del Cervino, dove i cani salgono gratis o a metà prezzo sulla funicolare Sunnegga e sul trenino del Gornergrat, fanno il bagno nella spiaggia per cani di Leisee e percorrono il leggendario giro dei Cinque Laghi passando per il riflesso dello Stellisee`,
+      highlight: `il Sentiero dei Cinque Laghi dallo Stellisee al Leisee, il trenino del Gornergrat fino a un panorama dog-friendly a 3.089 m e il percorso lungo il fiume Matter Vispa nel villaggio`,
+      area: `il centro del villaggio senza auto su Bahnhofstrasse, l'altopiano di Sunnegga-Blauherd e le creste del Gornergrat e dello Schwarzsee sopra la valle`,
+    },
+    zurich: {
+      personality: `una città tra le più dog-friendly d'Europa. Con zone dedicate ai cani sulle spiagge del lago, tram che accolgono i cani e passaporti per animali accettati ovunque`,
+      highlight: `il lungolago dello Zürichsee, la collina dell'Uetliberg e i sentieri lungo il fiume Sihl`,
+      area: `Kreis 4, Zürich West e la Città Vecchia`,
+    },
+    agadir: {
+      personality: `una rilassata città turistica atlantica ricostruita intorno a uno dei lungomare più lunghi e percorribili del Marocco`,
+      highlight: `la passeggiata sull'oceano di sei chilometri, la marina e il belvedere della kasbah di Agadir Oufella`,
+      area: `il lungomare pedonale, il quartiere della marina e l'estuario del Souss verso il Parco Nazionale di Souss-Massa`,
+    },
+    antalya: {
+      personality: `la soleggiata capitale della Riviera turca, dove i vicoli del porto romano incontrano lunghe spiagge di ciottoli e sabbia`,
+      highlight: `il vecchio porto di Kaleici, la spiaggia di Konyaalti e il parco della cascata Lower Duden`,
+      area: `Kaleici, Konyaalti e Lara`,
+    },
+    batumi: {
+      personality: `una città subtropicale sul Mar Nero dove passeggiate sul lungomare fiancheggiate da palme si estendono per chilometri`,
+      highlight: `il Batumi Boulevard di sette chilometri, il Miracle Park sul mare e il Giardino Botanico collinare`,
+      area: `il lungomare Old Boulevard, la Città Vecchia intorno a Piazza Square e il New Boulevard`,
+    },
+    berat: {
+      personality: `la città albanese delle mille finestre, patrimonio UNESCO, in file bianche ottomane sopra il fiume Osum`,
+      highlight: `il quartiere del Castello di Berat, la passeggiata lungofiume sull'Osum e la passerella di Gorica`,
+      area: `Mangalem, Gorica e il quartiere del castello di Kalaja`,
+    },
+    bodrum: {
+      personality: `una città turistica egea imbiancata a calce avvolta intorno a due baie gemelle sotto il Castello di San Pietro`,
+      highlight: `la passeggiata della marina, il Castello di San Pietro e il sentiero costiero verso Bitez`,
+      area: `la marina e il centro storico, Gumbet e Bitez`,
+    },
+    "cluj-napoca": {
+      personality: `la rilassata capitale universitaria della Transilvania, piena di parchi verdi e caffè con terrazza`,
+      highlight: `il Central Park lungo il fiume Somes, i belvedere della collina Cetatuia e i sentieri della foresta di Hoia`,
+      area: `il centro storico intorno a Piata Unirii, le rive del Somes e il verde quartiere di Grigorescu`,
+    },
+    essaouira: {
+      personality: `una città portuale atlantica rinfrescata dal vento, dove bastioni, gabbiani e un'enorme spiaggia a mezzaluna scandiscono il ritmo`,
+      highlight: `i bastioni della Skala, i vicoli senza auto della medina e la lunga spiaggia verso Diabat`,
+      area: `la medina, il lungomare della Skala e il viale sul lungomare`,
+    },
+    "feldkirchen-in-karnten": {
+      personality: `una piccola cittadina mercato della Carinzia circondata da laghi tranquilli, prati e colline boscose`,
+      highlight: `le rive del lago Ossiach, i sentieri collinari delle Nockberge e la piazza porticata del centro storico`,
+      area: `il centro storico, la riva dell'Ossiacher See e le colline delle Nockberge`,
+    },
+    fundao: {
+      personality: `una tranquilla città di ciliegi della Beira Baixa ai piedi della Serra da Gardunha`,
+      highlight: `i sentieri della Serra da Gardunha, i frutteti di ciliegi di Alcongosta e i vicoli di granito del centro storico`,
+      area: `il centro storico, la collinare Alcongosta e i villaggi della Gardunha`,
+    },
+    gjirokastra: {
+      personality: `la città di pietra dell'Albania, patrimonio UNESCO, dove case ottomane dai tetti d'ardesia salgono verso un vasto castello in cima alla collina`,
+      highlight: `le mura del Castello di Gjirokastra, il ciottolato del Vecchio Bazar e i belvedere della valle del Drino`,
+      area: `il Vecchio Bazar, il quartiere del castello e la città nuova nella valle sottostante`,
+    },
+    goreme: {
+      personality: `il villaggio nel cuore della Cappadocia, circondato da camini delle fate e sentieri aperti nella valle fatti per lunghe camminate`,
+      highlight: `i sentieri della Valle Rosa e della Valle Rossa, la Valle dei Piccioni verso Uchisar e le viste all'alba delle mongolfiere da Sunset Point`,
+      area: `il centro del villaggio, la strada del Museo all'Aperto di Goreme e i punti di partenza dei sentieri della valle`,
+    },
+    ischia: {
+      personality: `un'isola termale vulcanica nel golfo di Napoli dove i cani al guinzaglio girano per il borgo senza auto di Sant'Angelo, salgono sul Monte Epomeo e sulla pineta sul mare, e raggiungono i tratti liberi della lunga spiaggia dei Maronti`,
+      highlight: `la banchina del Castello Aragonese, il sentiero verso la cima del Monte Epomeo e la camminata costiera da Sant'Angelo ai Maronti`,
+      area: `la città portuale di Ischia Porto e Ischia Ponte, la località turistica occidentale di Forio e il borgo meridionale senza auto di Sant'Angelo`,
+    },
+    istanbul: {
+      personality: `una metropoli famosa per trattare i suoi animali di strada come cittadini, dove i cani fanno parte della vita quotidiana su entrambi i continenti`,
+      highlight: `le passeggiate sul lungomare del Bosforo, Macka Park sopra Besiktas e il lungomare di Moda a Kadikoy`,
+      area: `Galata e Karakoy, Besiktas e Moda sul lato asiatico`,
+    },
+    kas: {
+      personality: `una tranquilla città portuale sulla costa licia, incuneata tra calette turchesi e sentieri di montagna`,
+      highlight: `i sentieri della Via Licia, il giro della penisola di Cukurbag e il centro storico sul porto`,
+      area: `il centro storico intorno al porto, la penisola di Cukurbag e la baia di Kucukcakil`,
+    },
+    kazbegi: {
+      personality: `un villaggio d'alta quota nel Caucaso di fronte al Monte Kazbek, la base classica per grandi camminate in montagna in Georgia`,
+      highlight: `il sentiero per la Chiesa della Trinità di Gergeti, la valle del Truso e la valle dello Sno verso Juta`,
+      area: `il centro del villaggio di Stepantsminda, Gergeti dall'altra parte del fiume e la strada della valle dello Sno`,
+    },
+    marrakech: {
+      personality: `la città imperiale marocchina dalle mura color ocra, dove i cortili dei riad e grandi giardini offrono calma tra le camminate nella medina`,
+      highlight: `gli uliveti dei giardini Menara, i vicoli ombreggiati del Cyber Park e i sentieri tra le palme della Palmeraie`,
+      area: `la medina, Gueliz e la Palmeraie`,
+    },
+    mykonos: {
+      personality: `la più cosmopolita delle Cicladi, tutta vicoli imbiancati a calce, mulini a vento e calette sabbiose`,
+      highlight: `i mulini a vento sopra Little Venice, il lungomare di Chora e il sentiero costiero tra Ornos e Agios Ioannis`,
+      area: `Mykonos Town, Ornos e Platis Gialos`,
+    },
+    "oropesa-del-mar": {
+      personality: `una località turistica della Costa del Azahar adatta alle famiglie, distesa tra calette, una collina col castello e una passeggiata verde sul mare`,
+      highlight: `la Via Verde del Mar verso Benicassim, la passeggiata della spiaggia La Concha e il centro storico sotto il castello`,
+      area: `il centro storico, il lungomare de La Concha e Marina d'Or`,
+    },
+    peniche: {
+      personality: `una penisola di pescatori attiva famosa per spiagge da surf e scogliere scolpite dalle onde`,
+      highlight: `la camminata sulla scogliera di Cabo Carvoeiro, le spiagge dunose di Baleal e le barche verso le Berlengas`,
+      area: `il borgo portuale murato, Baleal e Consolacao`,
+    },
+    plovdiv: {
+      personality: `una delle città più antiche d'Europa ancora abitate, distesa su dolci colline con un centro romano e revival percorribile a piedi`,
+      highlight: `il Giardino Zar Simeone, i sentieri lungofiume sulla Maritsa e le viste dalla collina di Sahat Tepe`,
+      area: `il quartiere creativo di Kapana, il centro storico e le rive della Maritsa`,
+    },
+    rouen: {
+      personality: `la capitale normanna a graticcio sul fiume, compatta e fatta per camminate lente tra cattedrale e banchine`,
+      highlight: `le banchine paesaggistiche della Senna, il Jardin des Plantes e i vicoli intorno al Gros-Horloge`,
+      area: `il centro storico intorno alla cattedrale, le banchine della Senna sulla riva destra e il quartiere del mercato di Saint-Marc`,
+    },
+    tbilisi: {
+      personality: `la calorosa capitale della Georgia, dove i cani randagi portano il tag della città e i parchi salgono sulle colline`,
+      highlight: `Rike Park lungo il fiume, i sentieri boscosi del Mtatsminda e il Lago delle Tartarughe sopra Vake Park`,
+      area: `la Città Vecchia, Vera e Vake`,
+    },
+    tirano: {
+      personality: `una piccola città della Valtellina dove il Trenino Rosso del Bernina incontra piazze italiane e sentieri lungofiume`,
+      highlight: `il Sentiero Valtellina lungo il fiume Adda, le viste della ferrovia del Bernina e la piazza di pellegrinaggio della Madonna di Tirano`,
+      area: `il centro storico, Madonna di Tirano e il lungofiume dell'Adda`,
+    },
+    valbona: {
+      personality: `un remoto villaggio di valle nel cuore delle Alpi albanesi, il punto di partenza per alcune delle più belle camminate in montagna dei Balcani`,
+      highlight: `il sentiero da Valbona a Theth, il letto bianco di pietra del fiume Valbona e i prati di Rragam`,
+      area: `il villaggio di Valbona, Rragam e l'alta valle verso il passo`,
+    },
+    benidorm: {
+      personality: `il più grande resort balneare d'Europa fatto di grattacieli sulla Costa Blanca, un grande favorito dei britannici dove cinque parchi per cani recintati e gratuiti e una struttura pianeggiante e percorribile compensano un divieto totale e permanente ai cani sulla sabbia`,
+      highlight: `il Balcón del Mediterráneo sulla scogliera, i vicoli imbiancati a calce del centro storico e il Parque Canino L'Aigüera fiancheggiato da palme`,
+      area: `Rincón de Loix vicino ai parchi per cani e al punto di partenza della Serra Gelada, e il Casco Antiguo, il vecchio quartiere di pescatori`,
+    },
+    spa: {
+      personality: `la piccola città termale delle Ardenne che ha dato alla lingua inglese la parola "spa", membro UNESCO delle Grandi Terme d'Europa, circondata da sentieri nel bosco`,
+      highlight: `l'anello lungo il lago di Warfaaz, le gallerie coperte del Parc de Sept Heures e gli estesi sentieri della brughiera delle Hautes Fagnes`,
+      area: `il compatto centro termale intorno al Pouhon Pierre-le-Grand, il lago di Warfaaz e la riserva delle Hautes Fagnes sopra la città`,
+    },
+  },
 }
 
 // ─── Cat Intros ──────────────────────────────────────────────────────────────

@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Manekin+Rynek+Staromiejski+Torun",
           "descriptionDe": "Eine Thorner Institution am Alten Marktplatz, Manekin ist die berühmteste Crêperie (nalesnikarnia) der Stadt und serviert über 80 süße und herzhafte Crêpes in einem gewölbten gotischen Keller sowie auf einer Terrasse direkt auf dem Kopfsteinpflaster. Angeleinte Hunde sind sowohl auf der Terrasse als auch an den Tischen drinnen willkommen, und das Personal bringt routinemäßig einen Wassernapf. Die Lage unter dem Rathausturm ist das zentralste haustierfreundliche Essen der Stadt.",
           "descriptionNl": "Een instituut in Torun aan de Oude Markt, Manekin is de bekendste crêperie (nalesnikarnia) van de stad en serveert meer dan 80 zoete en hartige crêpes in een gewelfde gotische kelder en op een terras direct op de kasseien. Aangelijnde honden zijn welkom zowel op het terras als aan de tafels binnen, en het personeel brengt standaard een waterbakje. De ligging onder de stadhuistoren is de meest centrale huisdiervriendelijke eetgelegenheid van de stad.",
+          "descriptionIt": "Un'istituzione a Torun sulla Piazza del Mercato Vecchio, Manekin è la crêperie (nalesnikarnia) più famosa della città e serve più di 80 crêpe dolci e salate in una cantina gotica a volte e su una terrazza direttamente sul ciottolato. I cani al guinzaglio sono benvenuti sia in terrazza sia ai tavoli interni, e lo staff porta una ciotola d'acqua di norma. La posizione sotto la torre del municipio ne fa il locale pet-friendly più centrale della città.",
           "petPolicyDe": "Hunde drinnen und auf der Terrasse willkommen; Wassernapf auf Anfrage",
           "petPolicyNl": "Honden welkom binnen en op het terras; waterbakje op verzoek",
+          "petPolicyIt": "Cani benvenuti dentro e in terrazza; ciotola d'acqua su richiesta",
           "mustTryDe": "Herzhafte Crêpe mit geräucherter Wurst, süße Crêpe mit saisonalem Obst, Frühstückscrêpe mit Ei",
           "mustTryNl": "Hartige crêpe met gerookte worst, zoete crêpe met seizoensfruit, ontbijtcrêpe met ei",
+          "mustTryIt": "Crêpe salata con salsiccia affumicata, crêpe dolce con frutta di stagione, crêpe da colazione con uovo",
           "tipDe": "Der gotische Keller ist am Wochenende ab 13:00 Uhr voll. Kommen Sie um die Mittagszeit oder nehmen Sie ein spätes Mittagessen um 15:00 Uhr, um eine ruhige Ecke mit Hund zu finden",
-          "tipNl": "De gotische kelder zit in het weekend vanaf 13:00 uur vol. Kom rond het middaguur of neem een late lunch om 15:00 uur voor een rustig hoekje met je hond"
+          "tipNl": "De gotische kelder zit in het weekend vanaf 13:00 uur vol. Kom rond het middaguur of neem een late lunch om 15:00 uur voor een rustig hoekje met je hond",
+          "tipIt": "La cantina gotica si riempie nel weekend dalle 13:00 in poi. Vieni verso mezzogiorno o fai un pranzo tardivo alle 15:00 per un angolo tranquillo con il tuo cane"
         },
         {
           "name": "Pierogarnia Stary Mlyn",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Pierogarnia+Stary+Mlyn+Torun",
           "descriptionDe": "Ein traditionelles Pierogi-Lokal in einem Kornspeicher aus dem 14. Jahrhundert, zwei Minuten vom Weichselufer entfernt. Die Küche macht Pierogi frisch mit saisonalen Füllungen, von klassisch ruskie (Kartoffel und Quark) bis Wildschwein, plus regionale kujawische Klöße. Angeleinte Hunde sind an den Tischen drinnen im ziegelgewölbten Saal sowie auf der Sommerterrasse mit Blick auf die Flussmauern willkommen. Ein verlässliches Wintermittagessen, wenn die Terrassen am Rynek schließen.",
           "descriptionNl": "Een traditionele pierogi-tent in een 14e-eeuwse graanschuur, twee minuten van de Weiseloever. De keuken maakt pierogi vers met seizoensvullingen, van klassieke ruskie (aardappel en kwark) tot wild zwijn, plus regionale Koejavische knoedels. Aangelijnde honden zijn welkom aan de tafels binnen in de bakstenen gewelfde zaal en op het zomerterras met uitzicht op de riviermuren. Een betrouwbare winterlunchplek als de terrassen aan de Rynek dicht zijn.",
+          "descriptionIt": "Un locale tradizionale di pierogi in un granaio del XIV secolo, a due minuti dalla riva della Vistola. La cucina prepara pierogi freschi con ripieni di stagione, dai classici ruskie (patate e ricotta) al cinghiale, oltre a canederli regionali della Cuiavia. I cani al guinzaglio sono benvenuti ai tavoli interni nella sala a volte in mattoni e sulla terrazza estiva con vista sulle mura fluviali. Un posto affidabile per il pranzo invernale quando le terrazze sul Rynek sono chiuse.",
           "petPolicyDe": "Hunde drinnen und auf der Terrasse willkommen",
           "petPolicyNl": "Honden welkom binnen en op het terras",
+          "petPolicyIt": "Cani benvenuti dentro e in terrazza",
           "mustTryDe": "Pierogi ruskie, Wildschwein-Pierogi, kujawische Klöße mit Kraut",
           "mustTryNl": "Pierogi ruskie, wildzwijn-pierogi, Koejavische knoedels met kool",
+          "mustTryIt": "Pierogi ruskie, pierogi al cinghiale, canederli della Cuiavia con cavolo",
           "tipDe": "Bestellen Sie halb-halb-Platten, um mehrere Füllungen zu probieren. Die Terrasse am Fluss ist bei Sonnenuntergang mit einem ruhigen Hund ideal",
-          "tipNl": "Bestel half-om-half-schotels om meerdere vullingen te proeven. Het terras aan de rivier is bij zonsondergang ideaal met een rustige hond"
+          "tipNl": "Bestel half-om-half-schotels om meerdere vullingen te proeven. Het terras aan de rivier is bij zonsondergang ideaal met een rustige hond",
+          "tipIt": "Ordina piatti misti per assaggiare più ripieni. La terrazza sul fiume è ideale al tramonto con un cane tranquillo"
         },
         {
           "name": "Cafe Lenkiewicz",
@@ -110,20 +118,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cafe+Lenkiewicz+Rynek+Staromiejski+Torun",
           "descriptionDe": "Eine historische Konditorei und ein Café, 1913 gegründet, in einem Renaissance-Bürgerhaus am Alten Marktplatz. Das Innere besteht ganz aus poliertem Holz und Konditoreitheken; die kleine Terrasse blickt direkt auf das Rathaus. Angeleinte Hunde sind an den Außentischen sowie im hinteren Teil des Cafés drinnen willkommen, und das Personal bringt gerne Wasser. Der richtige Ort für einen Nachmittagskaffee und ein Stück Thorner Lebkuchenkuchen mit einem Hund zu Ihren Füßen.",
           "descriptionNl": "Een historische banketbakkerij en café, opgericht in 1913, in een renaissance herenhuis aan de Oude Markt. Het interieur bestaat volledig uit gepolijst hout en banketvitrines; het kleine terras kijkt direct uit op het stadhuis. Aangelijnde honden zijn welkom aan de buitentafels en aan de achterkant binnen, en het personeel brengt graag water. De juiste plek voor een middagkoffie en een stuk Torunse peperkoektaart met een hond aan je voeten.",
+          "descriptionIt": "Una storica pasticceria e caffè, fondata nel 1913, in una villa rinascimentale sulla Piazza del Mercato Vecchio. L'interno è tutto legno lucido e vetrine di dolci; la piccola terrazza si affaccia direttamente sul municipio. I cani al guinzaglio sono benvenuti ai tavoli esterni e in fondo alla sala interna, e lo staff porta volentieri acqua. Il posto giusto per un caffè pomeridiano e una fetta di panpepato di Torun con un cane ai piedi.",
           "petPolicyDe": "Hunde auf der Terrasse und an den hinteren Tischen drinnen willkommen",
           "petPolicyNl": "Honden welkom op het terras en aan de achterste tafels binnen",
+          "petPolicyIt": "Cani benvenuti in terrazza e ai tavoli in fondo alla sala interna",
           "mustTryDe": "Thorner Lebkuchenkuchen, heiße Schokolade, saisonaler Käsekuchen",
           "mustTryNl": "Torunse peperkoektaart, warme chocolademelk, seizoensgebonden kwarktaart",
+          "mustTryIt": "Torta di panpepato di Torun, cioccolata calda, torta di ricotta di stagione",
           "tipDe": "Das Café zieht von 11:00 bis 13:00 Uhr Reisegruppen an. Kommen Sie um 15:00 Uhr für ein ruhiges Kaffeefenster und entspannte Terrassenplätze mit Hund",
-          "tipNl": "Het café trekt van 11:00 tot 13:00 uur groepsreizigers aan. Kom om 15:00 uur voor een rustig koffiemoment en ontspannen terrasplekken met hond"
+          "tipNl": "Het café trekt van 11:00 tot 13:00 uur groepsreizigers aan. Kom om 15:00 uur voor een rustig koffiemoment en ontspannen terrasplekken met hond",
+          "tipIt": "Il caffè attira gruppi turistici tra le 11:00 e le 13:00. Vieni alle 15:00 per un momento di caffè tranquillo e posti in terrazza rilassati con il cane"
         }
       ],
       "titleDe": "Haustierfreundliche Restaurants in Thorn",
       "titleNl": "Huisdiervriendelijke restaurants in Torun",
+      "titleIt": "Ristoranti pet-friendly a Torun",
       "introDe": "Thorns UNESCO-Altstadt gehört zu den historischen Kernen in Polen, in denen man am leichtesten mit einem Hund essen gehen kann. Die zwei Marktplätze (Rynek Staromiejski und Rynek Nowomiejski) sind von gotischen und Renaissance-Bürgerhäusern umringt, deren Erdgeschosscafés und -restaurants angeleinte Hunde von spätem Frühling bis Oktober gerne auf ihren Terrassen willkommen heißen. Mehrere Lokale heißen Hunde auch drinnen ganzjährig willkommen, was während des langen kujawisch-pommerschen Winters wichtig ist. Die lokale Gastfreundschaft ist entspannt, und ein Wassernapf kommt meist, ohne dass man danach fragt. Die drei unten genannten Lokale bestätigen alle eine haustierfreundliche Richtlinie und bieten überdachte oder Innensitzplätze außerhalb der Sommerterrassensaison.",
       "introNl": "De UNESCO-oude stad van Torun is een van de historische kernen in Polen waar je het makkelijkst met een hond uit eten kunt. De twee marktpleinen (Rynek Staromiejski en Rynek Nowomiejski) zijn omringd door gotische en renaissance herenhuizen waarvan de cafés en restaurants op de begane grond aangelijnde honden van laat voorjaar tot oktober graag op hun terrassen verwelkomen. Meerdere zaken verwelkomen honden ook het hele jaar binnen, belangrijk tijdens de lange Koejavisch-Pommerse winter. De lokale gastvrijheid is ontspannen, en een waterbakje komt meestal zonder dat je erom hoeft te vragen. De drie hieronder genoemde zaken bevestigen allemaal een huisdiervriendelijk beleid en bieden overdekte of binnenzitplaatsen buiten het zomerterrasseizoen.",
+      "introIt": "Il centro storico UNESCO di Torun è uno dei nuclei storici della Polonia più facili in cui mangiare fuori con un cane. Le due piazze del mercato (Rynek Staromiejski e Rynek Nowomiejski) sono circondate da palazzi gotici e rinascimentali i cui caffè e ristoranti al piano terra accolgono volentieri cani al guinzaglio in terrazza dalla tarda primavera fino a ottobre. Diversi locali accolgono i cani anche dentro tutto l'anno, importante durante il lungo inverno della Cuiavia-Pomerania. L'ospitalità locale è rilassata, e una ciotola d'acqua arriva di solito senza doverla chiedere. I tre locali indicati sotto confermano tutti una politica pet-friendly e offrono posti al coperto o interni fuori dalla stagione estiva delle terrazze.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Best Parks for Dogs in Torun",
@@ -164,14 +179,19 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bulwar+Filadelfijski+Torun",
           "descriptionDe": "Die Uferpromenade entlang der Weichsel unterhalb der Altstadtmauern, benannt nach Thorns amerikanischer Partnerstadt Philadelphia. Der flache gepflasterte Weg erstreckt sich über etwa 2 km zwischen der Eisenbahnbrücke und der Pilsudski-Brücke, mit klassischen Postkartenblicken auf die mittelalterlichen Backsteintürme und den Schiefen Turm vom Ufer aus. Angeleinte Hunde sind ganzjährig willkommen, eine ausgewiesene Hundetoilette (psia toaleta) befindet sich nahe dem Ausgang zur ul. sw. Jakuba, und Kiesstrände unter den Mauern lassen Hunde im Sommer im Fluss planschen. Einer der schönsten städtischen Hundespaziergänge Polens.",
           "descriptionNl": "De boulevard langs de Weisel onder de muren van de oude stad, vernoemd naar de Amerikaanse zusterstad Philadelphia van Torun. Het vlakke geplaveide pad loopt zo'n 2 km tussen de spoorbrug en de Pilsudski-brug, met klassieke ansichtkaartuitzichten op de middeleeuwse bakstenen torens en de Scheve Toren vanaf de oever. Aangelijnde honden zijn het hele jaar welkom, een aangewezen hondentoilet (psia toaleta) bevindt zich bij de uitgang naar ul. sw. Jakuba, en grindstrandjes onder de muren laten honden 's zomers in de rivier plonzen. Een van de mooiste stedelijke hondenwandelingen van Polen.",
+          "descriptionIt": "Il lungofiume lungo la Vistola sotto le mura della città vecchia, chiamato come la città gemella americana di Torun, Philadelphia. Il sentiero pianeggiante e lastricato corre per circa 2 km tra il ponte ferroviario e il ponte Pilsudski, con classiche vedute da cartolina sulle torri medievali in mattoni e sulla Torre Pendente dalla riva. I cani al guinzaglio sono benvenuti tutto l'anno, una toilette per cani designata (psia toaleta) si trova vicino all'uscita su ul. sw. Jakuba, e piccole spiagge di ghiaia sotto le mura permettono ai cani di tuffarsi nel fiume d'estate. Una delle più belle passeggiate urbane per cani in Polonia.",
           "petPolicyDe": "Hunde ganzjährig an der Leine; ausgewiesene Hundetoilette nahe der ul. sw. Jakuba",
           "petPolicyNl": "Honden het hele jaar aan de lijn; aangewezen hondentoilet bij ul. sw. Jakuba",
+          "petPolicyIt": "Cani al guinzaglio tutto l'anno; toilette per cani designata vicino a ul. sw. Jakuba",
           "sizeDe": "Etwa 2 km gepflasterter Uferweg",
           "sizeNl": "Ongeveer 2 km geplaveid oeverpad",
+          "sizeIt": "Circa 2 km di lungofiume lastricato",
           "facilitiesDe": "Gepflasterter Weg, Bänke, Uferkneipen im Sommer, Hundetoilette, Kiesstrände",
           "facilitiesNl": "Geplaveid pad, bankjes, oeverkroegjes in de zomer, hondentoilet, grindstrandjes",
+          "facilitiesIt": "Sentiero lastricato, panchine, chioschi sul fiume in estate, toilette per cani, piccole spiagge di ghiaia",
           "tipDe": "Gehen Sie von der Eisenbahnbrücke aus von West nach Ost für das beste Licht auf der mittelalterlichen Skyline bei Sonnenuntergang. Die Pop-up-Sommerbars stellen ungefragt Wassernäpfe auf",
-          "tipNl": "Loop vanaf de spoorbrug van west naar oost voor het beste licht op de middeleeuwse skyline bij zonsondergang. De pop-up zomerbars zetten ongevraagd waterbakjes neer"
+          "tipNl": "Loop vanaf de spoorbrug van west naar oost voor het beste licht op de middeleeuwse skyline bij zonsondergang. De pop-up zomerbars zetten ongevraagd waterbakjes neer",
+          "tipIt": "Cammina dal ponte ferroviario verso est per la luce migliore sullo skyline medievale al tramonto. I bar estivi pop-up mettono fuori ciotole d'acqua senza che tu debba chiederle"
         },
         {
           "name": "Park na Bydgoskim Przedmiesciu (Park Tysiaclecia)",
@@ -202,14 +222,19 @@
           "googleMapsUrl": "https://maps.google.com/?q=Park+Tysiaclecia+Torun",
           "descriptionDe": "Ein großer Landschaftspark aus dem 19. Jahrhundert westlich der Altstadt mit alten Eichen- und Kastanienalleen, zwei kleinen Teichen und weiten Rasenflächen, die bei lokalen Hundebesitzern beliebt sind. Der Park umfasst eine eingezäunte Hunde-Freilaufzone (wybieg dla psow) am Südrand, ausgestattet mit einfachen Agility-Rampen und Bänken. Die umliegenden Wege ergeben eine übersichtliche Einstunden-Runde, und der Park schließt direkt an die Weichselpromenade bei der Pilsudski-Brücke an. Der tägliche Standard-Hundespaziergang für Bewohner von Bydgoskie Przedmiescie.",
           "descriptionNl": "Een groot 19e-eeuws landschapspark ten westen van de oude stad met oude eiken- en kastanjelanen, twee kleine vijvers en brede grasvelden, populair bij lokale hondeneigenaren. Het park heeft een omheind hondenlosloopgebied (wybieg dla psow) aan de zuidrand, uitgerust met eenvoudige agility-rampen en bankjes. De omliggende paden vormen een overzichtelijke rondwandeling van een uur, en het park sluit direct aan op de Weiselboulevard bij de Pilsudski-brug. De dagelijkse standaard hondenwandeling voor bewoners van Bydgoskie Przedmiescie.",
+          "descriptionIt": "Un grande parco paesaggistico ottocentesco a ovest della città vecchia con antichi viali di querce e castagni, due piccoli stagni e ampi prati, popolare tra i proprietari di cani del posto. Il parco ha un'area cani recintata (wybieg dla psow) sul lato sud, dotata di semplici rampe di agility e panchine. I sentieri circostanti formano un anello di un'ora facile da percorrere, e il parco si collega direttamente al lungofiume della Vistola presso il ponte Pilsudski. La passeggiata quotidiana standard per i residenti di Bydgoskie Przedmiescie.",
           "petPolicyDe": "Überall an der Leine außer in der eingezäunten wybieg dla psow",
           "petPolicyNl": "Overal aan de lijn behalve in het omheinde wybieg dla psow",
+          "petPolicyIt": "Guinzaglio obbligatorio ovunque tranne nel wybieg dla psow recintato",
           "sizeDe": "Etwa 15 Hektar",
           "sizeNl": "Ongeveer 15 hectare",
+          "sizeIt": "Circa 15 ettari",
           "facilitiesDe": "Eingezäunte Freilaufzone, Agility-Rampen, Kieswege, Teiche, Bänke, Spielplatz",
           "facilitiesNl": "Omheind losloopgebied, agility-rampen, grindpaden, vijvers, bankjes, speeltuin",
+          "facilitiesIt": "Area senza guinzaglio recintata, rampe di agility, sentieri di ghiaia, stagni, panchine, parco giochi",
           "tipDe": "Die eingezäunte Hundezone ist von 17:00 bis 19:00 Uhr nach der Arbeit am belebtesten. Der Morgen ist ruhiger, wenn Ihr Hund auf Fremde reaktiv ist",
-          "tipNl": "De omheinde hondenzone is van 17:00 tot 19:00 uur na het werk het drukst. De ochtend is rustiger als je hond reactief is op vreemden"
+          "tipNl": "De omheinde hondenzone is van 17:00 tot 19:00 uur na het werk het drukst. De ochtend is rustiger als je hond reactief is op vreemden",
+          "tipIt": "L'area cani recintata è più affollata dalle 17:00 alle 19:00 dopo il lavoro. Il mattino è più tranquillo se il tuo cane è reattivo con gli estranei"
         },
         {
           "name": "Bielany Forest (Las Bielany)",
@@ -240,22 +265,30 @@
           "googleMapsUrl": "https://maps.google.com/?q=Las+Bielany+Torun",
           "descriptionDe": "Ein 350 Hektar großer Kiefern- und Eichenwald am Nordwestrand der Stadt, mit dem Bus in 15 Minuten von der Altstadt erreichbar. Ein Netz markierter Wander- und Radwege durchquert den Wald, mit Sandwegen, Picknicklichtungen und ruhigen Abschnitten, die selbst am Wochenende selten überfüllt wirken. Hunde dürfen auf den inneren Waldwegen abseits von Spielplätzen und dem Rand des Stadt-ZOO Botaniczny ohne Leine laufen, doch die städtische Verordnung verlangt in der Nähe der Eingänge weiterhin eine Leine. Das Nächste an einer echten Waldwanderung vom Zentrum aus.",
           "descriptionNl": "Een 350 hectare groot dennen- en eikenbos aan de noordwestrand van de stad, met de bus 15 minuten vanaf de oude stad bereikbaar. Een netwerk van gemarkeerde wandel- en fietspaden doorkruist het bos, met zandpaden, picknickplekken en rustige stukken die zelfs in het weekend zelden vol lijken. Honden mogen op de binnenste bospaden weg van speeltuinen en de rand van de stads-ZOO Botaniczny loslopen, maar de stedelijke verordening vraagt bij de ingangen nog steeds een lijn. Het dichtste bij een echte boswandeling vanaf het centrum.",
+          "descriptionIt": "Un bosco di pini e querce di 350 ettari sul lato nord-ovest della città, raggiungibile in autobus in 15 minuti dalla città vecchia. Una rete di sentieri escursionistici e ciclabili segnalati attraversa il bosco, con sentieri di sabbia, aree picnic e tratti tranquilli che raramente sembrano affollati anche nel weekend. I cani possono stare senza guinzaglio sui sentieri interni del bosco, lontano dai parchi giochi e dal confine dello zoo cittadino Botaniczny, ma il regolamento comunale richiede comunque il guinzaglio agli ingressi. La cosa più vicina a una vera passeggiata nel bosco partendo dal centro.",
           "petPolicyDe": "Leine nahe den Eingängen; freies Laufen auf den inneren Waldwegen toleriert",
           "petPolicyNl": "Aan de lijn bij de ingangen; loslopen op de binnenste bospaden wordt getolereerd",
+          "petPolicyIt": "Guinzaglio obbligatorio agli ingressi; il libero movimento sui sentieri interni del bosco è tollerato",
           "sizeDe": "Etwa 350 Hektar",
           "sizeNl": "Ongeveer 350 hectare",
+          "sizeIt": "Circa 350 ettari",
           "facilitiesDe": "Markierte Wander- und Radwege, Picknicklichtungen, Sandwege, Trinkbrunnen im Sommer",
           "facilitiesNl": "Gemarkeerde wandel- en fietspaden, picknickplekken, zandpaden, drinkfonteintjes in de zomer",
+          "facilitiesIt": "Sentieri escursionistici e ciclabili segnalati, aree picnic, sentieri di sabbia, fontanelle d'acqua in estate",
           "tipDe": "Nehmen Sie Bus 27 ab der Altstadt. Bringen Sie Wasser mit, die Sandwege trocknen im Sommer schnell aus, und der Schatten ist ungleichmäßig",
-          "tipNl": "Neem bus 27 vanaf de oude stad. Neem water mee, de zandpaden drogen 's zomers snel uit, en de schaduw is ongelijk verdeeld"
+          "tipNl": "Neem bus 27 vanaf de oude stad. Neem water mee, de zandpaden drogen 's zomers snel uit, en de schaduw is ongelijk verdeeld",
+          "tipIt": "Prendi l'autobus 27 dalla città vecchia. Porta acqua, i sentieri di sabbia si seccano in fretta d'estate, e l'ombra è distribuita in modo irregolare"
         }
       ],
       "titleDe": "Die besten Parks für Hunde in Thorn",
       "titleNl": "De beste parken voor honden in Torun",
+      "titleIt": "I migliori parchi per cani a Torun",
       "introDe": "Thorn ist entlang der Weichsel gebaut und von mittelalterlichen Verteidigungswällen umringt, die heute begrünte Spazierwege sind, Grünflächen liegen also selten mehr als ein paar Minuten von irgendwo im Zentrum entfernt. Die Gemeinde unterhält rund zwanzig eingezäunte Hunde-Freilaufzonen (wybiegi dla psow) in der Stadt, mehrere davon in größeren öffentlichen Parks. Landesweit gelten die üblichen polnischen Regeln: Leine und Aufräumpflicht sind auf Straßen und in nicht eingezäunten Parkteilen Pflicht, Bußgelder erreichen 500 Zloty. Die drei unten genannten Parks kombinieren echtes Spazierengehen, einen ruhigen Blick auf die UNESCO-Altstadt und entweder eine ausgewiesene Freilaufzone oder weite offene Wiesen.",
       "introNl": "Torun is gebouwd langs de Weisel en omringd door middeleeuwse verdedigingswallen die nu groene wandelpaden zijn, groengebieden liggen dus zelden meer dan een paar minuten van waar dan ook in het centrum. De gemeente onderhoudt zo'n twintig omheinde hondenlosloopgebieden (wybiegi dla psow) in de stad, meerdere daarvan in grotere openbare parken. Landelijk gelden de gebruikelijke Poolse regels: lijn en opruimplicht zijn verplicht op straten en in niet-omheinde parkgedeeltes, boetes lopen op tot 500 zloty. De drie hieronder genoemde parken combineren echte wandelingen, een rustig uitzicht op de UNESCO-oude stad en ofwel een aangewezen losloopgebied ofwel brede open weides.",
+      "introIt": "Torun è costruita lungo la Vistola e circondata da bastioni medievali che oggi sono sentieri verdi, quindi le aree verdi raramente sono a più di qualche minuto da qualsiasi punto del centro. Il comune gestisce circa venti aree cani recintate (wybiegi dla psow) in città, molte all'interno di parchi pubblici più grandi. A livello nazionale valgono le solite regole polacche: guinzaglio e obbligo di raccogliere sono richiesti su strade e nelle zone non recintate dei parchi, con multe fino a 500 zloty. I tre parchi indicati sotto combinano vere passeggiate, una vista tranquilla sul centro storico UNESCO e o un'area senza guinzaglio designata o ampi prati aperti.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Travelling with Pets in Torun",
@@ -330,10 +363,13 @@
       ],
       "titleDe": "Mit Haustier unterwegs in Thorn",
       "titleNl": "Onderweg met huisdier in Torun",
+      "titleIt": "Spostarsi con l'animale a Torun",
       "introDe": "Thorns öffentlicher Nahverkehr (MZK Thorn) gehört zu den einfachsten in Polen für Reisende mit Hund. Straßenbahnen und Busse akzeptieren beide Hunde an der Leine, kleine Hunde in einer geschlossenen Transportbox fahren kostenlos, und als aggressiv eingestufte Rassen müssen einen Maulkorb tragen. Die Altstadt ist klein, flach und so kompakt, dass man sie in fünfzehn Minuten zu Fuß durchqueren kann, öffentliche Verkehrsmittel werden also meist nur gebraucht, um den Bahnhof, den Wald bei Bielany oder den Flughafen bei Bromberg zu erreichen. Der nächste Flughafen mit internationalen Flügen ist Bromberg Ignacy Jan Paderewski (BZG), 45 km westlich; PKP-Intercity-Züge verbinden Thorn mit Warschau, Danzig und Posen und nehmen Hunde zum halben Fahrpreis mit.",
       "introNl": "Het openbaar vervoer van Torun (MZK Torun) is een van de makkelijkste in Polen voor reizigers met hond. Trams en bussen accepteren allebei aangelijnde honden, kleine honden in een gesloten draagtas reizen gratis, en als agressief geclassificeerde rassen moeten een muilkorf dragen. De oude stad is klein, vlak en zo compact dat je hem in vijftien minuten te voet doorkruist, openbaar vervoer heb je dus meestal alleen nodig om het station, het bos bij Bielany of de luchthaven bij Bydgoszcz te bereiken. De dichtstbijzijnde luchthaven met internationale vluchten is Bydgoszcz Ignacy Jan Paderewski (BZG), 45 km westelijk; PKP Intercity-treinen verbinden Torun met Warschau, Gdansk en Poznan en nemen honden mee voor het halve tarief.",
+      "introIt": "Il trasporto pubblico di Torun (MZK Torun) è tra i più facili in Polonia per chi viaggia con un cane. Tram e autobus accettano entrambi cani al guinzaglio, i cani piccoli in trasportino chiuso viaggiano gratis, e le razze classificate come aggressive devono indossare la museruola. La città vecchia è piccola, pianeggiante e così compatta che la attraversi a piedi in quindici minuti, quindi il trasporto pubblico serve soprattutto per raggiungere la stazione, il bosco di Bielany o l'aeroporto di Bydgoszcz. L'aeroporto più vicino con voli internazionali è Bydgoszcz Ignacy Jan Paderewski (BZG), 45 km a ovest; i treni PKP Intercity collegano Torun con Varsavia, Danzica e Poznan e trasportano cani a metà tariffa.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Riverside Spots in Torun",
@@ -374,14 +410,19 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bulwar+Filadelfijski+riverside+Torun",
           "descriptionDe": "Unterhalb des Bulwar Filadelfijski säumen schmale Kies- und Grasufer die Weichsel am Fuß der mittelalterlichen Mauern. Der Rückblick auf die gotischen Backsteintürme der Altstadt ist die klassische Thorner Postkartenansicht. Angeleinte Hunde sind ganzjährig willkommen, und die kleinen flachen Buchten bei Niedrigwasser lassen sichere Schwimmer paddeln, wenngleich die Hauptströmung stark und für keinen Schwimmer sicher ist. Keine Einrichtungen außer denen am Bulwar oberhalb, aber die zentrale Altstadt ist zwei Minuten den Hang hinauf.",
           "descriptionNl": "Onder de Bulwar Filadelfijski zoomen smalle grind- en grasoevers de Weisel af aan de voet van de middeleeuwse muren. De blik terug op de gotische bakstenen torens van de oude stad is het klassieke ansichtkaartbeeld van Torun. Aangelijnde honden zijn het hele jaar welkom, en de kleine ondiepe baaien bij laag water laten zwemvaardige honden plonzen, hoewel de hoofdstroming sterk is en voor geen enkele zwemmer veilig. Geen voorzieningen behalve die op de Bulwar erboven, maar de centrale oude stad ligt twee minuten de helling op.",
+          "descriptionIt": "Sotto il Bulwar Filadelfijski, strette rive di ghiaia ed erba costeggiano la Vistola ai piedi delle mura medievali. La vista verso le torri gotiche in mattoni della città vecchia è l'immagine da cartolina classica di Torun. I cani al guinzaglio sono benvenuti tutto l'anno, e le piccole baie poco profonde con acqua bassa permettono ai cani buoni nuotatori di tuffarsi, anche se la corrente principale è forte e non sicura per nessun nuotatore. Nessun servizio sulla riva stessa, ma il centro storico è a due minuti di salita.",
           "seasonDe": "Ganzjährig geöffnet, Ufer in wasserarmen Monaten von Mai bis Oktober zugänglich",
           "seasonNl": "Het hele jaar open, oevers toegankelijk in de waterarme maanden van mei tot oktober",
+          "seasonIt": "Aperto tutto l'anno, rive accessibili nei mesi con poca acqua da maggio a ottobre",
           "petPolicyDe": "Hunde an der Leine auf den Kiesufern willkommen; Hauptströmung zum Schwimmen unsicher",
           "petPolicyNl": "Honden aan de lijn welkom op de grindoevers; hoofdstroming onveilig om in te zwemmen",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sulle rive di ghiaia; corrente principale non sicura per nuotare",
           "facilitiesDe": "Keine am Ufer selbst; Cafés, Toiletten und Bänke am Bulwar oberhalb",
           "facilitiesNl": "Geen op de oever zelf; cafés, toiletten en bankjes op de Bulwar erboven",
+          "facilitiesIt": "Nessuno sulla riva stessa; caffè, bagni e panchine sul Bulwar sopra",
           "tipDe": "Achten Sie auf den Wasserstand: nach starkem Regen verschwinden die Ufer unter Wasser. Lassen Sie Ihren Hund nicht direkt aus dem Fluss trinken, er kann landwirtschaftliche Abflüsse enthalten",
-          "tipNl": "Let op het waterpeil: na hevige regen verdwijnen de oevers onder water. Laat je hond niet rechtstreeks uit de rivier drinken, het kan landbouwafvoer bevatten"
+          "tipNl": "Let op het waterpeil: na hevige regen verdwijnen de oevers onder water. Laat je hond niet rechtstreeks uit de rivier drinken, het kan landbouwafvoer bevatten",
+          "tipIt": "Controlla il livello dell'acqua: dopo piogge forti le rive spariscono sott'acqua. Non far bere il cane direttamente dal fiume, potrebbe contenere scarichi agricoli"
         },
         {
           "name": "Jezioro Chelmzynskie (Lake Chelmza)",
@@ -412,22 +453,30 @@
           "googleMapsUrl": "https://maps.google.com/?q=Jezioro+Chelmzynskie",
           "descriptionDe": "Ein großer Natursee 25 km nördlich von Thorn, umringt von ruhigen Sandstränden, Schilf und Kiefernwäldern. Die Kleinstadt Chelmza am Südufer hat einen bewachten Gemeindestrand (Plaza Miejska), der Rest des Ufers ist ganzjährig für Spaziergänger und Hundebesitzer offen. Außerhalb der offiziellen Badesaison von Juli bis August sind die unbewachten Abschnitte bei lokalen Hundefamilien für richtige Freiwasserschwimmzüge beliebt. Mit dem Zug ab Thorn Glowny in rund 20 Minuten oder mit dem Auto in 30 Minuten erreichbar.",
           "descriptionNl": "Een groot natuurlijk meer 25 km ten noorden van Torun, omringd door rustige zandstrandjes, riet en dennenbossen. Het stadje Chelmza aan de zuidoever heeft een bewaakt gemeentestrand (Plaza Miejska), de rest van de oever is het hele jaar open voor wandelaars en hondeneigenaren. Buiten het officiële zwemseizoen van juli tot augustus zijn de onbewaakte stukken populair bij lokale hondengezinnen voor echte openwaterzwemtochten. Met de trein vanaf Torun Glowny in ongeveer 20 minuten of met de auto in 30 minuten bereikbaar.",
+          "descriptionIt": "Un grande lago naturale 25 km a nord di Torun, circondato da tranquille spiaggette di sabbia, canneti e boschi di pini. La cittadina di Chelmza sulla riva sud ha una spiaggia comunale sorvegliata (Plaza Miejska), il resto della riva è aperto tutto l'anno a escursionisti e proprietari di cani. Fuori dalla stagione balneare ufficiale di luglio-agosto, i tratti non sorvegliati sono popolari tra le famiglie del posto con cani per vere nuotate in acque aperte. Raggiungibile in treno da Torun Glowny in circa 20 minuti o in auto in 30 minuti.",
           "seasonDe": "See ganzjährig; offizielle Badesaison Juli bis August",
           "seasonNl": "Meer het hele jaar open; officieel zwemseizoen juli tot augustus",
+          "seasonIt": "Lago aperto tutto l'anno; stagione balneare ufficiale luglio-agosto",
           "petPolicyDe": "An der Leine auf den Wegen ganzjährig; Hunde im Sommer nicht in der bewachten Badezone erlaubt",
           "petPolicyNl": "Aan de lijn op de paden het hele jaar; honden 's zomers niet toegestaan in de bewaakte zwemzone",
+          "petPolicyIt": "Guinzaglio obbligatorio sui sentieri tutto l'anno; cani non ammessi d'estate nella zona balneare sorvegliata",
           "facilitiesDe": "Sandstrände am See, kiefernbeschattete Wege, Picknicktische, öffentliche Toiletten und Imbiss im Sommer",
           "facilitiesNl": "Zandstrandjes aan het meer, door dennen beschaduwde paden, picknicktafels, openbare toiletten en snackkraam in de zomer",
+          "facilitiesIt": "Spiaggette di sabbia sul lago, sentieri ombreggiati dai pini, tavoli da picnic, bagni pubblici e chiosco snack d'estate",
           "tipDe": "Besuchen Sie im Mai, Juni oder September. Bester Wasserzugang für Hunde und deutlich weniger Menschen als in der Hochsaison",
-          "tipNl": "Ga in mei, juni of september. Beste watertoegang voor honden en veel minder mensen dan in het hoogseizoen"
+          "tipNl": "Ga in mei, juni of september. Beste watertoegang voor honden en veel minder mensen dan in het hoogseizoen",
+          "tipIt": "Vai a maggio, giugno o settembre. Miglior accesso all'acqua per i cani e molte meno persone rispetto all'alta stagione"
         }
       ],
       "titleDe": "Hundefreundliche Uferorte in Thorn",
       "titleNl": "Hondvriendelijke waterplekken in Torun",
+      "titleIt": "Luoghi d'acqua pet-friendly a Torun",
       "introDe": "Thorn ist eine Binnenstadt an der Weichsel, es gibt also keine Meeresstrände. Was die Stadt stattdessen hat, ist der Fluss selbst: lange Kies- und Grasufer unter den mittelalterlichen Mauern, sowie ein paar kleine Seestellen in der weiteren Region für richtige Hundeschwimmzüge. Die Weichselströmung ist stark und für schwimmende Menschen ungeeignet, aber Hunde, die mit kühlem Wasser zurechtkommen, paddeln durchaus von den flachen Buchten bei Niedrigwasser aus. Der nächste echte Meeresstrand liegt rund 200 km nördlich bei Danzig und Sopot. Die zwei unten genannten Stellen sind die verlässlichsten städtischen hundefreundlichen Wasserorte in und knapp außerhalb von Thorn.",
       "introNl": "Torun is een binnenlandse stad aan de Weisel, er zijn dus geen zeestranden. Wat de stad wel heeft, is de rivier zelf: lange grind- en grasoevers onder de middeleeuwse muren, plus een paar kleine meerplekken in de wijdere omgeving voor echte hondenzwempartijen. De stroming van de Weisel is sterk en ongeschikt voor zwemmende mensen, maar honden die tegen koud water kunnen, plonzen best vanuit de ondiepe baaien bij laag water. Het dichtstbijzijnde echte zeestrand ligt zo'n 200 km noordelijker bij Gdansk en Sopot. De twee hieronder genoemde plekken zijn de meest betrouwbare stedelijke hondvriendelijke waterplekken in en net buiten Torun.",
+      "introIt": "Torun è una città dell'entroterra sulla Vistola, quindi non ci sono spiagge di mare. Quello che la città ha è il fiume stesso: lunghe rive di ghiaia ed erba sotto le mura medievali, più un paio di piccoli laghi nei dintorni per vere nuotate con il cane. La corrente della Vistola è forte e inadatta a chi nuota tra gli umani, ma i cani che sopportano l'acqua fredda si tuffano bene dalle baie poco profonde in condizioni di acqua bassa. La spiaggia di mare vera più vicina si trova circa 200 km più a nord vicino a Danzica e Sopot. I due luoghi indicati sotto sono le zone d'acqua urbane pet-friendly più affidabili dentro e appena fuori Torun.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Torun, Veterinary Clinics and Pet Care",
@@ -472,10 +521,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=MAX-VET+Torun",
           "descriptionDe": "Eine vollwertige 24-Stunden-Tierklinik etwa 10 Minuten mit dem Taxi vom Altstadtmarkt entfernt. Bietet Innere Medizin, Chirurgie, Bildgebung (Röntgen, Ultraschall) und Intensivpflege. Auf den meisten Schichten wird Englisch gesprochen. Spontanbesuche werden angenommen, aber ein vorheriger Anruf wird dringend empfohlen, damit sich der Diensttierarzt vorbereiten kann.",
           "descriptionNl": "Een volwaardige 24-uurs dierenkliniek ongeveer 10 minuten met de taxi vanaf de oude marktplaats. Biedt interne geneeskunde, chirurgie, beeldvorming (röntgen, echografie) en intensive care. Op de meeste diensten wordt Engels gesproken. Spontane bezoeken worden aangenomen, maar bellen vooraf wordt sterk aangeraden zodat de dienstdoende dierenarts zich kan voorbereiden.",
+          "descriptionIt": "Una clinica veterinaria completa aperta 24 ore, a circa 10 minuti di taxi dalla piazza del mercato vecchio. Offre medicina interna, chirurgia, diagnostica per immagini (raggi X, ecografia) e terapia intensiva. Nella maggior parte dei turni si parla inglese. Le visite senza appuntamento sono accettate, ma è fortemente consigliato chiamare prima in modo che il veterinario di turno possa prepararsi.",
           "specialtiesDe": "Notfall, Chirurgie, Innere Medizin, Bildgebung",
           "specialtiesNl": "Spoed, chirurgie, interne geneeskunde, beeldvorming",
+          "specialtiesIt": "Pronto soccorso, chirurgia, medicina interna, diagnostica per immagini",
           "tipDe": "Rufen Sie nachts vorher an, der Diensttierarzt behandelt oft nur einen Notfall gleichzeitig. Halten Sie den Impfausweis Ihres Haustiers bereit.",
-          "tipNl": "Bel 's nachts van tevoren, de dienstdoende dierenarts behandelt vaak maar één spoedgeval tegelijk. Houd het vaccinatieboekje van je huisdier bij de hand."
+          "tipNl": "Bel 's nachts van tevoren, de dienstdoende dierenarts behandelt vaak maar één spoedgeval tegelijk. Houd het vaccinatieboekje van je huisdier bij de hand.",
+          "tipIt": "Chiama in anticipo di notte, il veterinario di turno spesso gestisce un solo caso urgente alla volta. Tieni a portata di mano il libretto delle vaccinazioni del tuo animale."
         },
         {
           "name": "Weterynarz 24h Arka Noego",
@@ -510,10 +562,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Weterynarz+24h+Wybickiego+Torun",
           "descriptionDe": "Eine 24-Stunden-Klinik unter Leitung der Tierärztin Aneta Kosiacka-Woch, mit einem starken Ruf für Notfallchirurgie und Kleintiermedizin. Etwa 10 Minuten mit dem Taxi von der Altstadt entfernt. Die Klinik bietet auch Hausbesuche in Thorn und den umliegenden Bezirken an, nützlich, wenn Ihr Hund nicht reisen kann.",
           "descriptionNl": "Een 24-uurs kliniek onder leiding van dierenarts Aneta Kosiacka-Woch, met een sterke reputatie voor spoedchirurgie en kleine-huisdiergeneeskunde. Ongeveer 10 minuten met de taxi van de oude stad. De kliniek biedt ook huisbezoeken in Torun en omliggende gebieden, handig als je hond niet kan reizen.",
+          "descriptionIt": "Una clinica aperta 24 ore diretta dalla veterinaria Aneta Kosiacka-Woch, con una solida reputazione per la chirurgia d'urgenza e la medicina dei piccoli animali. Circa 10 minuti di taxi dalla città vecchia. La clinica offre anche visite a domicilio a Torun e nei dintorni, comodo se il tuo cane non può spostarsi.",
           "specialtiesDe": "Notfall, Kleintierchirurgie, Hausbesuche",
           "specialtiesNl": "Spoed, kleine-huisdierchirurgie, huisbezoeken",
+          "specialtiesIt": "Pronto soccorso, chirurgia dei piccoli animali, visite a domicilio",
           "tipDe": "Rufen Sie zuerst an und fragen Sie, ob der Tierarzt für einen Kleintier-Hausbesuch zu Ihrem Hotel kommen kann, eine nützliche Option für ältere Hunde.",
-          "tipNl": "Bel eerst en vraag of de dierenarts voor een huisbezoek naar je hotel kan komen, een handige optie voor oudere honden."
+          "tipNl": "Bel eerst en vraag of de dierenarts voor een huisbezoek naar je hotel kan komen, een handige optie voor oudere honden.",
+          "tipIt": "Chiama prima e chiedi se il veterinario può venire in hotel per una visita a domicilio, un'opzione comoda per i cani anziani."
         },
         {
           "name": "Lecznica Weterynaryjna Wyszynskiego",
@@ -548,18 +603,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Lecznica+Weterynaryjna+Wyszynskiego+Torun",
           "descriptionDe": "Eine angesehene Tagespraxis im Zentrum von Thorn für Routineversorgung, Impfungen und kleinere Eingriffe. Geöffnet werktags 08:00-22:00 Uhr und am Wochenende 10:00-18:00 Uhr. Praktisch für Reisende, die einen tierärztlichen Check vor dem Flug oder eine Impfauffrischung während eines längeren Aufenthalts benötigen.",
           "descriptionNl": "Een gerenommeerde dagpraktijk in het centrum van Torun voor routinezorg, vaccinaties en kleine ingrepen. Open op werkdagen 08:00-22:00 uur en in het weekend 10:00-18:00 uur. Handig voor reizigers die een dierenartscontrole voor de vlucht of een vaccinatieherhaling tijdens een langer verblijf nodig hebben.",
+          "descriptionIt": "Un ambulatorio diurno rinomato nel centro di Torun per cure di routine, vaccinazioni e piccoli interventi. Aperto nei giorni feriali dalle 8:00 alle 22:00 e nel weekend dalle 10:00 alle 18:00. Comodo per i viaggiatori che hanno bisogno di un controllo veterinario pre-volo o di un richiamo vaccinale durante un soggiorno più lungo.",
           "specialtiesDe": "Tagespraxis allgemein, Impfungen, kleinere Operationen",
           "specialtiesNl": "Algemene dagpraktijk, vaccinaties, kleine operaties",
+          "specialtiesIt": "Ambulatorio diurno generico, vaccinazioni, piccoli interventi",
           "tipDe": "Am besten für Routineversorgung tagsüber. Für einen echten 03:00-Uhr-Notfall sind MAX-VET und Arka Noego die richtigen Anlaufstellen.",
-          "tipNl": "Het best voor routinezorg overdag. Voor een echt spoedgeval om 03:00 uur zijn MAX-VET en Arka Noego de juiste adressen."
+          "tipNl": "Het best voor routinezorg overdag. Voor een echt spoedgeval om 03:00 uur zijn MAX-VET en Arka Noego de juiste adressen.",
+          "tipIt": "Il migliore per le cure di routine di giorno. Per una vera emergenza alle 3 del mattino, MAX-VET e Arka Noego sono gli indirizzi giusti."
         }
       ],
       "titleDe": "Notfalltierärzte in Thorn, Tierkliniken und Haustierbetreuung",
       "titleNl": "Spoeddierenartsen in Torun, dierenklinieken en huisdierenzorg",
+      "titleIt": "Veterinari d'emergenza a Torun, cliniche veterinarie e cura degli animali",
       "introDe": "Thorn ist eine mittelgroße Stadt mit rund 200.000 Einwohnern und hat zwei Kliniken mit rund-um-die-Uhr-Notdienst sowie eine Reihe angesehener Tagespraxen. Die 24-Stunden-Kliniken liegen innerhalb einer 10- bis 15-minütigen Taxifahrt von der Altstadt und übernehmen Operationen, Bildgebung und Intensivpflege vor Ort. Wie überall in Polen ist ein vorheriger Anruf außerhalb der Tagesstunden unerlässlich, damit sich der Diensttierarzt vorbereiten kann. Die Polnische Tierärztekammer (Krajowa Izba Lekarsko-Weterynaryjna, vetpol.org.pl) führt ein offizielles Register zugelassener Praktiker.",
       "introNl": "Torun is een middelgrote stad met zo'n 200.000 inwoners en heeft twee klinieken met een 24-uurs spoeddienst plus een aantal gerenommeerde dagpraktijken. De 24-uurs klinieken liggen binnen een taxirit van 10 tot 15 minuten vanaf de oude stad en verzorgen operaties, beeldvorming en intensive care ter plaatse. Zoals overal in Polen is van tevoren bellen buiten de dagelijkse uren essentieel, zodat de dienstdoende dierenarts zich kan voorbereiden. De Poolse Diergeneeskundige Kamer (Krajowa Izba Lekarsko-Weterynaryjna, vetpol.org.pl) houdt een officieel register van erkende beoefenaars bij.",
+      "introIt": "Torun è una città di medie dimensioni con circa 200.000 abitanti e ha due cliniche con servizio di pronto soccorso 24 ore più diversi ambulatori diurni rinomati. Le cliniche 24 ore si trovano entro un tragitto in taxi di 10-15 minuti dalla città vecchia e offrono chirurgia, diagnostica per immagini e terapia intensiva sul posto. Come ovunque in Polonia, chiamare in anticipo fuori dagli orari diurni è essenziale, così il veterinario di turno può prepararsi. La Camera Veterinaria Polacca (Krajowa Izba Lekarsko-Weterynaryjna, vetpol.org.pl) mantiene un registro ufficiale dei professionisti riconosciuti.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Practical Tips for Visiting Torun with Your Pet",
@@ -604,10 +665,13 @@
       ],
       "titleDe": "Praktische Tipps für den Besuch in Thorn mit Ihrem Haustier",
       "titleNl": "Praktische tips voor je bezoek aan Torun met huisdier",
+      "titleIt": "Consigli pratici per la tua visita a Torun con l'animale",
       "introDe": "Thorn gehört zu den Städten in Polen, die man am leichtesten mit einem Hund erkunden kann: klein, flach, im UNESCO-Kern zur Fußgängerzone, mit öffentlichen Verkehrsmitteln, die Haustiere akzeptieren, und einer Gastfreundschaftskultur, die sie als normale Begleiter behandelt. Die örtliche Etikette ist praktisch: Hunde an der Leine, Bußgelder für verpasstes Aufräumen, Maulkörbe für als aggressiv eingestufte Rassen im Nahverkehr. Im Folgenden finden Sie die Regeln und Gewohnheiten, die eine Reise mit Ihrem Haustier reibungslos machen.",
       "introNl": "Torun is een van de steden in Polen die je het makkelijkst met een hond kunt verkennen: klein, vlak, autovrij in de UNESCO-kern, met openbaar vervoer dat huisdieren accepteert, en een gastvrijheidscultuur die ze als gewone begeleiders behandelt. De lokale etiquette is praktisch: honden aan de lijn, boetes voor niet opruimen, muilkorven voor als agressief geclassificeerde rassen in het openbaar vervoer. Hieronder vind je de regels en gewoontes die een reis met je huisdier soepel laten verlopen.",
+      "introIt": "Torun è una delle città della Polonia più facili da esplorare con un cane: piccola, pianeggiante, senza auto nel nucleo UNESCO, con un trasporto pubblico che accetta gli animali, e una cultura dell'ospitalità che li tratta come normali compagni. L'etichetta locale è pratica: cani al guinzaglio, multe per chi non raccoglie, museruole per le razze classificate come aggressive sui mezzi pubblici. Qui sotto trovi le regole e le abitudini che rendono fluido un viaggio con il tuo animale.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Torun",
@@ -640,10 +704,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rynek+Staromiejski+Torun",
           "descriptionDe": "Das Herz der UNESCO-Altstadt, ein mittelalterlicher Marktplatz aus dem 13. Jahrhundert, beherrscht vom gotischen Rathaus (Ratusz), einem der monumentalsten Backstein-Verwaltungsgebäude Nordeuropas. Rund um den Platz stehen der Renaissance-Artushof, die Statue von Nikolaus Kopernikus und Reihen gotischer und barocker Bürgerhäuser, die heute Cafés beherbergen. Angeleinte Hunde sind auf dem Kopfsteinpflaster, auf den meisten Caféterrassen und in den umliegenden Gassen willkommen. Das Rathausmuseum und das Innere des Artushofs lassen nur Assistenzhunde zu, aber das gesamte Außenerlebnis ist hundefreundlich.",
           "descriptionNl": "Het hart van de UNESCO-oude stad, een middeleeuws marktplein uit de 13e eeuw, gedomineerd door het gotische stadhuis (Ratusz), een van de meest monumentale bakstenen bestuursgebouwen van Noord-Europa. Rond het plein staan het renaissance Artushof, het standbeeld van Nicolaus Copernicus en rijen gotische en barokke herenhuizen die nu cafés herbergen. Aangelijnde honden zijn welkom op de kasseien, op de meeste caféterrassen en in de omliggende steegjes. Het stadhuismuseum en het interieur van het Artushof laten alleen assistentiehonden toe, maar de hele buitenervaring is hondvriendelijk.",
+          "descriptionIt": "Il cuore della città vecchia UNESCO, una piazza del mercato medievale del XIII secolo, dominata dal municipio gotico (Ratusz), uno degli edifici amministrativi in mattoni più monumentali del Nord Europa. Intorno alla piazza si trovano il palazzo rinascimentale Artushof, la statua di Niccolò Copernico e file di palazzi gotici e barocchi che oggi ospitano caffè. I cani al guinzaglio sono benvenuti sul ciottolato, sulla maggior parte delle terrazze dei caffè e nei vicoli circostanti. Il museo del municipio e l'interno dell'Artushof ammettono solo cani di assistenza, ma tutta l'esperienza all'aperto è pet-friendly.",
           "petPolicyDe": "Hunde überall auf dem Platz an der Leine willkommen; nicht erlaubt im Rathausmuseum oder im Artushof (außer Assistenzhunde)",
           "petPolicyNl": "Honden overal op het plein aan de lijn welkom; niet toegestaan in het stadhuismuseum of het Artushof (behalve assistentiehonden)",
+          "petPolicyIt": "Cani al guinzaglio benvenuti ovunque in piazza; non ammessi nel museo del municipio o nell'Artushof (tranne cani di assistenza)",
           "tipDe": "Besuchen Sie vor 10:00 Uhr oder nach 18:00 Uhr, um die Reisegruppen zu vermeiden. Das Licht auf dem Backsteinrathaus bei Sonnenuntergang ist der beste Fotoplatz der Stadt",
-          "tipNl": "Ga voor 10:00 uur of na 18:00 uur om de groepsreizigers te vermijden. Het licht op het bakstenen stadhuis bij zonsondergang is de beste fotoplek van de stad"
+          "tipNl": "Ga voor 10:00 uur of na 18:00 uur om de groepsreizigers te vermijden. Het licht op het bakstenen stadhuis bij zonsondergang is de beste fotoplek van de stad",
+          "tipIt": "Vai prima delle 10:00 o dopo le 18:00 per evitare i gruppi turistici. La luce sul municipio in mattoni al tramonto è il miglior punto fotografico della città"
         },
         {
           "name": "Leaning Tower of Torun (Krzywa Wieza)",
@@ -666,10 +733,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Krzywa+Wieza+Torun",
           "descriptionDe": "Ein Verteidigungsturm aus dem 13. Jahrhundert, in die Stadtmauer eingebaut und rund 1,5 Meter aus der Senkrechten geneigt, wegen eines Lehmfundaments, das sich im Lauf der Zeit langsam gesenkt hat. Eine lokale Legende verknüpft die Schräglage mit einem Deutschordensritter, der für den Bruch seiner Gelübde bestraft wurde. Das Äußere, der umliegende Wallweg und die nahen Stadtmauern sind mit einem angeleinten Hund frei zugänglich. Das kleine Innere beherbergt ein Café und lässt nur Assistenzhunde zu, aber der Außenrundgang um den Turm ist das eigentliche fotografische Highlight.",
           "descriptionNl": "Een 13e-eeuwse verdedigingstoren, ingebouwd in de stadsmuur en zo'n 1,5 meter uit het lood, door een kleifundament dat in de loop der tijd langzaam is verzakt. Een lokale legende koppelt de schuine stand aan een Duitse Orde-ridder die gestraft werd voor het breken van zijn geloften. Het exterieur, het omliggende walpad en de nabijgelegen stadsmuren zijn vrij toegankelijk met een aangelijnde hond. Het kleine interieur herbergt een café en laat alleen assistentiehonden toe, maar de buitenrondgang om de toren is het echte fotografische hoogtepunt.",
+          "descriptionIt": "Una torre difensiva del XIII secolo, incorporata nelle mura cittadine e inclinata di circa 1,5 metri, a causa di una fondazione in argilla che è lentamente sprofondata nel tempo. Una leggenda locale collega la pendenza a un cavaliere dell'Ordine Teutonico punito per aver infranto i suoi voti. L'esterno, il sentiero circostante sulle mura e le mura cittadine vicine sono liberamente accessibili con un cane al guinzaglio. Il piccolo interno ospita un caffè e ammette solo cani di assistenza, ma il giro esterno intorno alla torre è il vero punto forte fotografico.",
           "petPolicyDe": "Hunde an der Leine auf dem Außenmauerweg willkommen; Café-Innenraum lässt nur Assistenzhunde zu",
           "petPolicyNl": "Honden aan de lijn welkom op het buitenmuurpad; café-interieur laat alleen assistentiehonden toe",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sul sentiero esterno delle mura; l'interno del caffè ammette solo cani di assistenza",
           "tipDe": "Kombinieren Sie den Turm mit dem kompletten Wallrundgang entlang der Weichsel. Die ganze Runde dauert etwa 45 Minuten und vermittelt das beste Gefühl für das mittelalterliche Thorn",
-          "tipNl": "Combineer de toren met de volledige walrondgang langs de Weisel. De hele ronde duurt ongeveer 45 minuten en geeft het beste gevoel van middeleeuws Torun"
+          "tipNl": "Combineer de toren met de volledige walrondgang langs de Weisel. De hele ronde duurt ongeveer 45 minuten en geeft het beste gevoel van middeleeuws Torun",
+          "tipIt": "Abbina la torre al giro completo delle mura lungo la Vistola. L'intero anello dura circa 45 minuti e dà la miglior sensazione della Torun medievale"
         },
         {
           "name": "Bulwar Filadelfijski and Old Town walls walk",
@@ -692,18 +762,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bulwar+Filadelfijski+Torun",
           "descriptionDe": "Die Uferpromenade verläuft entlang der gesamten Südseite der mittelalterlichen Stadt und umfasst die erhaltenen Abschnitte der Altstadtmauern, das Klostertor, das Brückentor und das Seglertor, alle in rotem Backsteingotik. Angeleinte Hunde sind überall am Bulwar willkommen, und der Spaziergang bietet den klassischen Postkartenblick zurück auf die Türme der Altstadt und den Schiefen Turm von außerhalb der Mauern. Der stimmungsvollste kostenlose Außenrundgang in Thorn, bequem eine einstündige Runde.",
           "descriptionNl": "De boulevard loopt langs de gehele zuidkant van de middeleeuwse stad en omvat de bewaarde delen van de oude stadsmuren, de Kloosterpoort, de Bruggenpoort en de Zeilmakerspoort, allemaal in rode bakstenen gotiek. Aangelijnde honden zijn overal op de Bulwar welkom, en de wandeling biedt het klassieke ansichtkaartuitzicht terug op de torens van de oude stad en de Scheve Toren van buiten de muren. De sfeervolste gratis buitenrondgang in Torun, gemakkelijk een rondwandeling van een uur.",
+          "descriptionIt": "Il lungofiume corre lungo tutto il lato sud della città medievale e comprende le parti conservate delle antiche mura cittadine, la Porta del Monastero, la Porta dei Ponti e la Porta dei Velai, tutte in gotico di mattoni rossi. I cani al guinzaglio sono benvenuti ovunque sul Bulwar, e la passeggiata offre la classica vista da cartolina sulle torri della città vecchia e sulla Torre Pendente viste da fuori le mura. Il giro esterno gratuito più suggestivo di Torun, facilmente un'ora di cammino ad anello.",
           "petPolicyDe": "Hunde ganzjährig an der Leine entlang des gesamten Bulwar willkommen",
           "petPolicyNl": "Honden het hele jaar aan de lijn welkom langs de hele Bulwar",
+          "petPolicyIt": "Cani al guinzaglio benvenuti tutto l'anno lungo tutto il Bulwar",
           "tipDe": "Gehen Sie von Ost nach West, beginnend am Brückentor, und steigen Sie dann durch das Seglertor zur Altstadt hinauf, für die beste Hundespaziergang-Einführung ins mittelalterliche Thorn",
-          "tipNl": "Loop van oost naar west, beginnend bij de Bruggenpoort, en klim dan via de Zeilmakerspoort naar de oude stad, voor de beste hondenwandeling-kennismaking met middeleeuws Torun"
+          "tipNl": "Loop van oost naar west, beginnend bij de Bruggenpoort, en klim dan via de Zeilmakerspoort naar de oude stad, voor de beste hondenwandeling-kennismaking met middeleeuws Torun",
+          "tipIt": "Cammina da est a ovest, iniziando dalla Porta dei Ponti, e poi sali attraverso la Porta dei Velai verso la città vecchia, per la migliore introduzione alla Torun medievale in una passeggiata con il cane"
         }
       ],
       "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Thorn",
       "titleNl": "Huisdiervriendelijke bezienswaardigheden in Torun",
+      "titleIt": "Attrazioni pet-friendly a Torun",
       "introDe": "Thorns wichtigste Sehenswürdigkeiten gruppieren sich um die UNESCO-Altstadt: zwei Marktplätze, die mittelalterlichen Verteidigungsmauern, der Schiefe Turm, die gotischen Backsteinkirchen und der Bulwar an der Weichsel. Die großen Indoor-Museen (das Kopernikushaus, das Lebkuchenmuseum, das Bezirksmuseum im Rathaus) lassen nur Assistenzhunde zu, aber die Außenattraktionen, einschließlich des gesamten historischen Kerns und des Bulwar Filadelfijski, sind standardmäßig haustierfreundlich. Die drei unten genannten Ziele sind die besten hundekompatiblen Sightseeing-Erlebnisse der Stadt.",
       "introNl": "De belangrijkste bezienswaardigheden van Torun groeperen zich rond de UNESCO-oude stad: twee marktpleinen, de middeleeuwse verdedigingsmuren, de Scheve Toren, de gotische bakstenen kerken en de Bulwar aan de Weisel. De grote indoormusea (het Copernicushuis, het Peperkoekmuseum, het districtsmuseum in het stadhuis) laten alleen assistentiehonden toe, maar de buitenattracties, inclusief de hele historische kern en de Bulwar Filadelfijski, zijn standaard huisdiervriendelijk. De drie hieronder genoemde bestemmingen zijn de beste hondvriendelijke sightseeing-ervaringen van de stad.",
+      "introIt": "Le principali attrazioni di Torun si raggruppano intorno alla città vecchia UNESCO: due piazze del mercato, le mura difensive medievali, la Torre Pendente, le chiese gotiche in mattoni e il Bulwar sulla Vistola. I grandi musei al chiuso (la Casa di Copernico, il Museo del Panpepato, il museo distrettuale nel municipio) ammettono solo cani di assistenza, ma le attrazioni all'aperto, compreso l'intero centro storico e il Bulwar Filadelfijski, sono pet-friendly di norma. Le tre destinazioni indicate sotto sono le migliori esperienze di sightseeing pet-friendly della città.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet Sitters and Dog Walkers in Torun",
@@ -740,12 +816,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rover+Torun",
           "descriptionDe": "Die größte Plattform für Haustierbetreuung in Polen, mit rund zwanzig aktiven Sittern im Zentrum von Thorn. Jedes Profil zeigt Bewertungen, Identitätsprüfung und Preise. Die Plattform übernimmt Zahlung, Nachrichten und eine Basisversicherung pro Buchung. Praktisch für Besucher, da App und Kundenservice auf Englisch funktionieren.",
           "descriptionNl": "Het grootste platform voor huisdierenoppas in Polen, met zo'n twintig actieve oppassers in het centrum van Torun. Elk profiel toont beoordelingen, identiteitsverificatie en prijzen. Het platform regelt betaling, berichten en een basisverzekering per boeking. Handig voor bezoekers, want de app en klantenservice werken in het Engels.",
+          "descriptionIt": "La piattaforma più grande per il petsitting in Polonia, con circa venti sitter attivi nel centro di Torun. Ogni profilo mostra recensioni, verifica dell'identità e prezzi. La piattaforma gestisce pagamento, messaggistica e un'assicurazione di base per prenotazione. Comodo per i visitatori, perché l'app e il servizio clienti funzionano in inglese.",
           "servicesDe": "Kurzbesuche, Gassigehen, Übernachtungsbetreuung, Tagesbetreuung",
           "servicesNl": "Korte bezoekjes, uitlaten, nachtopvang, dagopvang",
+          "servicesIt": "Visite brevi, passeggiate, pernottamento, asilo diurno",
           "rateDe": "Ab 25 Zloty pro Spaziergang; 70-130 Zloty pro Nacht Übernachtungsbetreuung",
           "rateNl": "Vanaf 25 zloty per wandeling; 70-130 zloty per nacht voor oppas",
+          "rateIt": "Da 25 zloty a passeggiata; 70-130 zloty a notte per il pernottamento",
           "tipDe": "Filtern Sie nach 'verifiziertes Profil' und 'über 10 Bewertungen' für die zuverlässigsten Treffer. Buchen Sie in der Hochsaison im Sommer mindestens 48 Stunden im Voraus",
-          "tipNl": "Filter op 'geverifieerd profiel' en 'meer dan 10 beoordelingen' voor de meest betrouwbare resultaten. Reserveer in het zomerse hoogseizoen minstens 48 uur van tevoren"
+          "tipNl": "Filter op 'geverifieerd profiel' en 'meer dan 10 beoordelingen' voor de meest betrouwbare resultaten. Reserveer in het zomerse hoogseizoen minstens 48 uur van tevoren",
+          "tipIt": "Filtra per 'profilo verificato' e 'più di 10 recensioni' per i risultati più affidabili. Prenota almeno 48 ore prima nell'alta stagione estiva"
         },
         {
           "name": "PetBacker Torun",
@@ -772,20 +852,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=PetBacker+Torun",
           "descriptionDe": "Eine internationale Plattform mit wachsender Abdeckung in Thorn, oft etwas günstiger als Rover und mit mehr Sittern, die auch Katzenbetreuung und Kleintierpflege anbieten. Der Prüfprozess ist weniger streng, prüfen Sie also die Bewertungen sorgfältig und bitten Sie um ein persönliches Treffen vor der ersten Buchung. Der Kundenservice ist auf Englisch.",
           "descriptionNl": "Een internationaal platform met groeiende dekking in Torun, vaak iets goedkoper dan Rover en met meer oppassers die ook kattenoppas en kleine-huisdierenzorg aanbieden. Het controleproces is minder strikt, bekijk de beoordelingen dus zorgvuldig en vraag om een persoonlijke kennismaking voor de eerste boeking. De klantenservice is in het Engels.",
+          "descriptionIt": "Una piattaforma internazionale con copertura crescente a Torun, spesso leggermente più economica di Rover e con più sitter che offrono anche cura per gatti e piccoli animali. Il processo di verifica è meno rigoroso, quindi controlla le recensioni con attenzione e chiedi un incontro di persona prima della prima prenotazione. Il servizio clienti è in inglese.",
           "servicesDe": "Gassigehen, Übernachtungsbetreuung, Katzenbetreuung, Kleintierpflege",
           "servicesNl": "Uitlaten, nachtopvang, kattenoppas, kleine-huisdierenzorg",
+          "servicesIt": "Passeggiate, pernottamento, cura per gatti, cura per piccoli animali",
           "rateDe": "Ab 20 Zloty pro Spaziergang; 60-120 Zloty pro Nacht Übernachtungsbetreuung",
           "rateNl": "Vanaf 20 zloty per wandeling; 60-120 zloty per nacht voor oppas",
+          "rateIt": "Da 20 zloty a passeggiata; 60-120 zloty a notte per il pernottamento",
           "tipDe": "Am besten geeignet, wenn Sie Katzenbetreuung oder Kleintierpflege benötigen, das Angebot bei PetBacker ist für Nicht-Hunde-Spezies in Thorn breiter",
-          "tipNl": "Het best geschikt als je kattenoppas of kleine-huisdierenzorg nodig hebt, het aanbod bij PetBacker is breder voor niet-hondensoorten in Torun"
+          "tipNl": "Het best geschikt als je kattenoppas of kleine-huisdierenzorg nodig hebt, het aanbod bij PetBacker is breder voor niet-hondensoorten in Torun",
+          "tipIt": "Più adatto se hai bisogno di cura per gatti o piccoli animali, l'offerta su PetBacker è più ampia per le specie diverse dai cani a Torun"
         }
       ],
       "titleDe": "Haustiersitter und Hundeausführer in Thorn",
       "titleNl": "Huisdierenoppassers en hondenuitlaters in Torun",
+      "titleIt": "Petsitting e dog walking a Torun",
       "introDe": "Polens Markt für Haustierbetreuung in mittelgroßen Städten wie Thorn konzentriert sich auf zwei internationale Plattformen (Rover und PetBacker), sowie eine kleine Zahl lokaler Agenturen und das städtische Tierheim, das gelegentlich kurzfristige Freiwilligeneinsätze anbietet. Thorn hat einen kleineren Pool geprüfter Sitter als Warschau oder Krakau, aber die Preise sind wettbewerbsfähig, typischerweise 25-50 Zloty pro Stunde für einen Spaziergang, 70-130 Zloty pro Nacht für die Betreuung. Bestätigen Sie immer den Tollwutimpfstatus und die Haftpflichtversicherung des Sitters, und treffen Sie sich persönlich vor der ersten Buchung.",
       "introNl": "De markt voor huisdierenoppas in middelgrote Poolse steden zoals Torun concentreert zich op twee internationale platforms (Rover en PetBacker), plus een klein aantal lokale bureaus en het gemeentelijke dierenasiel, dat af en toe kortlopend vrijwilligerswerk aanbiedt. Torun heeft een kleinere pool gecontroleerde oppassers dan Warschau of Krakau, maar de prijzen zijn concurrerend, doorgaans 25-50 zloty per uur voor een wandeling, 70-130 zloty per nacht voor oppas. Bevestig altijd de rabiësvaccinatiestatus en aansprakelijkheidsverzekering van de oppasser, en ontmoet elkaar persoonlijk voor de eerste boeking.",
+      "introIt": "Il mercato del petsitting nelle città polacche di medie dimensioni come Torun si concentra su due piattaforme internazionali (Rover e PetBacker), più un piccolo numero di agenzie locali e il rifugio comunale per animali, che occasionalmente offre volontariato a breve termine. Torun ha un gruppo più piccolo di sitter verificati rispetto a Varsavia o Cracovia, ma i prezzi sono competitivi, in genere 25-50 zloty all'ora per una passeggiata, 70-130 zloty a notte per il pernottamento. Verifica sempre lo stato della vaccinazione antirabbica e l'assicurazione di responsabilità civile del sitter, e incontratevi di persona prima della prima prenotazione.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

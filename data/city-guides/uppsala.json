@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Centralkonditoriet+Uppsala",
           "descriptionDe": "Eine der ältesten Bäckereien Uppsalas, direkt am Stora Torget unterhalb des Doms. Brot, Gebäck, Torten, offene Sandwiches und Salate werden jeden Morgen frisch gebacken. Angeleinte Hunde sind sowohl im Café als auch an den wenigen Tischen im Freien, die von Mai bis September am Platz aufgestellt werden, ausdrücklich willkommen. Einheimische kommen für das tägliche Fika, Studenten für ein langes Mittagessen am gemeinsamen Tisch - es ist der zentralste hundefreundliche Stopp in der Altstadt.",
           "descriptionNl": "Een van de oudste bakkerijen van Uppsala, vlak aan het Stora Torget onder de kathedraal. Brood, gebak, taarten, opengesneden broodjes en salades worden elke ochtend vers gebakken. Aangelijnde honden zijn nadrukkelijk welkom, zowel in het café als aan de paar buitentafels die van mei tot september op het plein staan. Locals komen voor de dagelijkse fika, studenten voor een lange lunch aan de gemeenschappelijke tafel, het is de meest centrale hondvriendelijke stop in de oude stad.",
+          "descriptionIt": "Una delle panetterie più antiche di Uppsala, proprio sulla Stora Torget sotto la cattedrale. Pane, dolci, torte, panini aperti e insalate vengono sfornati freschi ogni mattina. I cani al guinzaglio sono espressamente benvenuti, sia nel caffè che ai pochi tavoli esterni presenti sulla piazza da maggio a settembre. I residenti vengono per la fika quotidiana, gli studenti per un lungo pranzo al tavolo comune, è la sosta a misura di cane più centrale della città vecchia.",
           "petPolicyDe": "Hunde drinnen und an den Außentischen am Platz willkommen",
           "petPolicyNl": "Honden welkom binnen en aan de buitentafels op het plein",
+          "petPolicyIt": "Cani benvenuti all'interno e ai tavoli esterni sulla piazza",
           "mustTryDe": "Prinzessintorte, Zimtschnecke, offenes Sauerteig-Sandwich",
           "mustTryNl": "Prinsessentaart, kaneelbroodje, opengesneden zuurdesembroodje",
+          "mustTryIt": "Torta principessa, girella alla cannella, panino aperto di pasta madre",
           "tipDe": "Samstagvormittag ist der beliebteste Fika-Zeitpunkt - kommen Sie vor 10:30 Uhr für einen ruhigen Tisch am Platz. Die Tische im Freien gibt es nur von Mai bis September.",
-          "tipNl": "Zaterdagochtend is het populairste fika-moment, kom voor 10:30 uur voor een rustige tafel op het plein. De buitentafels staan er alleen van mei tot september."
+          "tipNl": "Zaterdagochtend is het populairste fika-moment, kom voor 10:30 uur voor een rustige tafel op het plein. De buitentafels staan er alleen van mei tot september.",
+          "tipIt": "Il sabato mattina è il momento più gettonato per la fika, arriva prima delle 10:30 per un tavolo tranquillo sulla piazza. I tavoli esterni ci sono solo da maggio a settembre."
         },
         {
           "name": "Brasserie21",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Brasserie21+Uppsala",
           "descriptionDe": "Ein modernes Bistro am Fluss, direkt neben dem Studenternas-Stadion und dem Park Stadsträdgården, mit einer weiten Terrasse zur Fyrisån hin. Angeleinte Hunde sind ganzjährig an jedem Außentisch und im Barbereich drinnen willkommen; im Winter machen Heizstrahler und Decken auf der Terrasse ein langes Mittagessen auch im Oktober noch angenehm. Die Küche ist bistroklassisch - eingelegter Hering, Rinder-Rydberg, täglicher Fisch - und die Lage passt perfekt zu einem langen Spaziergang entlang der Flusspromenade vor dem Essen.",
           "descriptionNl": "Een modern bistro aan de rivier, vlak naast het Studenternas-stadion en het park Stadsträdgården, met een breed terras aan de Fyrisån. Aangelijnde honden zijn het hele jaar door welkom aan elke buitentafel en in het barded ergedeelte binnen; in de winter maken terrasverwarmers en dekens een lange lunch ook in oktober nog aangenaam. De keuken is bistroklassiek, ingelegde haring, biefstuk Rydberg, dagvis, en de locatie past perfect bij een lange wandeling langs de rivierboulevard voor het eten.",
+          "descriptionIt": "Un bistrot moderno sul fiume, proprio accanto allo stadio Studenternas e al parco Stadsträdgården, con un'ampia terrazza sul fiume Fyrisån. I cani al guinzaglio sono benvenuti tutto l'anno a ogni tavolo esterno e nella zona bar interna; in inverno i riscaldatori e le coperte rendono piacevole un pranzo lungo anche a ottobre. La cucina è da bistrot classico, aringa marinata, bistecca alla Rydberg, pesce del giorno, e la posizione si sposa perfettamente con una lunga passeggiata lungo il fiume prima di mangiare.",
           "petPolicyDe": "Hunde ganzjährig auf der Terrasse und im Barbereich willkommen",
           "petPolicyNl": "Honden het hele jaar door welkom op het terras en in het bargedeelte",
+          "petPolicyIt": "Cani benvenuti tutto l'anno in terrazza e nella zona bar",
           "mustTryDe": "Biff Rydberg, Hering-Trio, täglicher Fisch",
           "mustTryNl": "Biff Rydberg, haringtrio, dagvis",
+          "mustTryIt": "Biff Rydberg, trio di aringhe, pesce del giorno",
           "tipDe": "Reservieren Sie zum Mittagessen von Mai bis August einen Terrassentisch - bis 12:30 Uhr ist sie bereits von der Nach-Park-Menge gefüllt. Im Winter sind die Tische an der Innenbar die gemütlichsten mit Hund.",
-          "tipNl": "Reserveer van mei tot augustus voor de lunch een terrastafel, tegen 12:30 uur zit het al vol met de menigte die net uit het park komt. In de winter zijn de tafels aan de binnenbar het gezelligst met hond."
+          "tipNl": "Reserveer van mei tot augustus voor de lunch een terrastafel, tegen 12:30 uur zit het al vol met de menigte die net uit het park komt. In de winter zijn de tafels aan de binnenbar het gezelligst met hond.",
+          "tipIt": "Da maggio ad agosto prenota un tavolo in terrazza per il pranzo, verso le 12:30 è già pieno con chi arriva dal parco. In inverno i tavoli al bar interno sono i più accoglienti con il cane."
         },
         {
           "name": "Storgatan Pizzeria",
@@ -110,20 +118,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Storgatan+Pizzeria+Uppsala",
           "descriptionDe": "Eine Nachbarschaftspizzeria, 10 Gehminuten östlich des Doms, mit einer langen Terrasse unter Markisen auf der Storgatan. Angeleinte Hunde sind von Frühling bis Herbst an jedem Außentisch willkommen, und am Eingang stehen Wassernäpfe bereit. Holzofenpizza im neapolitanischen Stil, eine kurze Pastaauswahl und ein Salatbuffet nach schwedischer Art machen sie zum verlässlichen legeren Abendessen mit Hund in der Stadt - die meisten Stammgäste sind auf dem Heimweg von den Hundeparks in Stabby oder Årsta.",
           "descriptionNl": "Een buurtpizzeria, 10 minuten lopen ten oosten van de kathedraal, met een lang terras onder luifels aan de Storgatan. Aangelijnde honden zijn van lente tot herfst welkom aan elke buitentafel, en bij de ingang staan waterbakjes klaar. Houtoven-pizza in Napolitaanse stijl, een korte pastakaart en een saladebuffet op Zweedse wijze maken het een betrouwbaar informeel avondeten met hond in de stad, de meeste vaste gasten zijn op weg naar huis vanuit de hondenparken in Stabby of Årsta.",
+          "descriptionIt": "Una pizzeria di quartiere, a 10 minuti a piedi a est della cattedrale, con una lunga terrazza sotto tende sulla Storgatan. I cani al guinzaglio sono benvenuti dalla primavera all'autunno a ogni tavolo esterno, e ciotole d'acqua sono pronte vicino all'ingresso. Pizza al forno a legna in stile napoletano, un menu di pasta essenziale e un buffet di insalate in stile svedese ne fanno una cena informale affidabile con il cane in città, la maggior parte dei clienti abituali è di ritorno a casa dai parchi cani di Stabby o Årsta.",
           "petPolicyDe": "Hunde von Frühling bis Herbst an den Außentischen willkommen",
           "petPolicyNl": "Honden van lente tot herfst welkom aan de buitentafels",
+          "petPolicyIt": "Cani benvenuti dalla primavera all'autunno ai tavoli esterni",
           "mustTryDe": "Margherita, Capricciosa, Mittagessen vom Salatbuffet",
           "mustTryNl": "Margherita, capricciosa, lunch van het saladebuffet",
+          "mustTryIt": "Margherita, capricciosa, pranzo dal buffet di insalate",
           "tipDe": "Die Außenterrasse ist etwa von April bis Oktober geöffnet; im Winter sind Hunde drinnen nicht erlaubt, planen Sie also die warmen Monate für einen Besuch mit Hund ein.",
-          "tipNl": "Het buitenterras is ongeveer van april tot oktober open; in de winter zijn honden binnen niet toegestaan, plan een bezoek met hond dus in de warme maanden."
+          "tipNl": "Het buitenterras is ongeveer van april tot oktober open; in de winter zijn honden binnen niet toegestaan, plan een bezoek met hond dus in de warme maanden.",
+          "tipIt": "La terrazza esterna è aperta circa da aprile a ottobre; in inverno i cani non sono ammessi all'interno, quindi pianifica una visita con il cane nei mesi caldi."
         }
       ],
       "titleDe": "Hundefreundliche Restaurants in Uppsala",
       "titleNl": "Hondvriendelijke restaurants in Uppsala",
+      "titleIt": "Ristoranti a misura di cane a Uppsala",
       "introDe": "Uppsala ist eine der entspanntesten Städte Schwedens, wenn es darum geht, mit einem Hund essen zu gehen. Das schwedische Wort, nach dem Sie Ausschau halten sollten, ist hundvänlig (hundefreundlich), oft verbunden mit einem Wassernapf vor der Tür. Centralkonditoriet - eine der ältesten Bäckereien der Stadt am Stora Torget - heißt Hunde ausdrücklich sowohl drinnen als auch an den Tischen im Freien willkommen. Rund um den Fluss und auf der Fußgängerzone halten die meisten Cafés von Mai bis September einen Wassernapf am Eingang bereit. Das kompakte mittelalterliche Zentrum, durch das der Fluss Fyrisån fließt, macht ein langes Mittagessen oder Fika mit Hund zu Füßen sehr einfach planbar: Bäckereien, Brasserien und Brauereigaststätten liegen alle innerhalb eines 15-minütigen Radius um den Dom.",
       "introNl": "Uppsala is een van de meest ontspannen steden van Zweden als het gaat om uit eten met een hond. Het Zweedse woord om naar uit te kijken is hundvänlig (hondvriendelijk), vaak vergezeld van een waterbakje bij de deur. Centralkonditoriet, een van de oudste bakkerijen van de stad aan het Stora Torget, heet honden nadrukkelijk welkom zowel binnen als aan de buitentafels. Rond de rivier en in de voetgangerszone houden de meeste cafés van mei tot september een waterbakje klaar bij de ingang. Het compacte middeleeuwse centrum, doorsneden door de rivier de Fyrisån, maakt een lange lunch of fika met hond aan je voeten heel makkelijk te plannen: bakkerijen, brasseries en brouwerijherbergen liggen allemaal binnen een straal van 15 minuten rond de kathedraal.",
+      "introIt": "Uppsala è una delle città più rilassate di Svezia quando si tratta di mangiare fuori con un cane. La parola svedese da tenere d'occhio è hundvänlig (a misura di cane), spesso accompagnata da una ciotola d'acqua vicino alla porta. Centralkonditoriet, una delle panetterie più antiche della città sulla Stora Torget, accoglie espressamente i cani sia dentro che ai tavoli esterni. Intorno al fiume e nella zona pedonale, la maggior parte dei caffè tiene una ciotola d'acqua pronta all'ingresso da maggio a settembre. Il compatto centro medievale, attraversato dal fiume Fyrisån, rende facilissimo pianificare un lungo pranzo o una fika con il cane ai tuoi piedi: panetterie, brasserie e locali con birra artigianale si trovano tutti entro 15 minuti a piedi dalla cattedrale.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks & Off-Leash Areas in Uppsala",
@@ -165,14 +180,19 @@
           "googleMapsUrl": "https://maps.google.com/?q=Stadsskogen+Uppsala",
           "descriptionDe": "Ein 108 Hektar großes städtisches Naturschutzgebiet unmittelbar südwestlich des Stadtzentrums, das hohe Kiefern- und Fichtenbestände mit altem Eichen- und Buchenbestand vereint. Ein 6 km langes Netz markierter Wege und beleuchteter Ski- und Joggingstrecken (elljusspår) durchzieht das Gebiet. Hunde müssen im Reservat ganzjährig an der Leine geführt werden - das ist die feste Regel und nicht nur der nationale Zeitraum vom 1. März bis 20. August -, dennoch ist es die beliebteste Option für einen langen Spaziergang für jeden Hundebesitzer in Uppsala: ruhig unter den Pfoten, größtenteils schattig und von vier Seiten der Stadt aus erreichbar.",
           "descriptionNl": "Een 108 hectare groot stedelijk natuurgebied direct ten zuidwesten van het stadscentrum, dat hoge dennen- en sparrenbestanden combineert met oude eiken en beuken. Een 6 km lang netwerk van gemarkeerde paden en verlichte ski- en hardlooproutes (elljusspår) doorkruist het gebied. Honden moeten in het reservaat het hele jaar door aangelijnd zijn, dat is de vaste regel en niet alleen de landelijke periode van 1 maart tot 20 augustus, maar toch is het de populairste optie voor een lange wandeling voor elke hondenbezitter in Uppsala: rustig onder de pootjes, grotendeels schaduwrijk en vanuit vier kanten van de stad bereikbaar.",
+          "descriptionIt": "Un'area naturale urbana di 108 ettari appena a sud-ovest del centro città, che combina alti boschi di pini e abeti con querce e faggi secolari. Una rete di sentieri segnalati lunga 6 km e percorsi illuminati per sci e corsa (elljusspår) attraversa la zona. I cani devono restare al guinzaglio nella riserva tutto l'anno, questa è la regola fissa e non solo il periodo nazionale dal 1 marzo al 20 agosto, ma resta comunque l'opzione più popolare per una lunga passeggiata per qualsiasi proprietario di cane a Uppsala: comoda sotto le zampe, per lo più ombreggiata e raggiungibile da quattro lati della città.",
           "offLeashAreasDe": "Keine im Reservat - Hunde müssen ganzjährig angeleint bleiben",
           "offLeashAreasNl": "Geen in het reservaat, honden moeten het hele jaar aangelijnd blijven",
+          "offLeashAreasIt": "Nessuna nella riserva, i cani devono restare al guinzaglio tutto l'anno",
           "amenitiesDe": "Markierte Wanderwege, beleuchtete Ski-/Joggingstrecke, Picknickplätze, Parkplätze an der Norbyvägen und Vårdsätravägen",
           "amenitiesNl": "Gemarkeerde wandelpaden, verlichte ski-/hardlooproute, picknickplekken, parkeerplaatsen aan de Norbyvägen en Vårdsätravägen",
+          "amenitiesIt": "Sentieri escursionistici segnalati, percorso illuminato per sci/corsa, zone picnic, parcheggi su Norbyvägen e Vårdsätravägen",
           "rulesDe": "Hunde müssen jederzeit an der Leine sein (ganzjährige Regel für das Reservat). Hinterlassenschaften bitte aufsammeln. Während der Brutzeit bodenbrütender Vögel (März-Juli) auf den markierten Wegen bleiben.",
           "rulesNl": "Honden moeten altijd aangelijnd zijn (jaarrondregel voor het reservaat). Ruim de uitwerpselen op. Blijf tijdens het broedseizoen van grondbroedende vogels (maart-juli) op de gemarkeerde paden.",
+          "rulesIt": "I cani devono essere sempre al guinzaglio (regola valida tutto l'anno per la riserva). Raccogli i bisogni del cane. Resta sui sentieri segnalati durante la stagione di nidificazione degli uccelli a terra (marzo-luglio).",
           "tipDe": "Am nördlichen Eingang von der Norbyvägen gibt es einen kleinen Parkplatz; die elljusspår ist die einfachste Runde (2,4 km) und im Winter bis 22:00 Uhr gut beleuchtet.",
-          "tipNl": "Bij de noordelijke ingang vanaf de Norbyvägen is een kleine parkeerplaats; de elljusspår is de makkelijkste rondwandeling (2,4 km) en in de winter tot 22:00 uur goed verlicht."
+          "tipNl": "Bij de noordelijke ingang vanaf de Norbyvägen is een kleine parkeerplaats; de elljusspår is de makkelijkste rondwandeling (2,4 km) en in de winter tot 22:00 uur goed verlicht.",
+          "tipIt": "All'ingresso nord dalla Norbyvägen c'è un piccolo parcheggio; l'elljusspår è l'anello più facile (2,4 km) ed è ben illuminato fino alle 22:00 in inverno."
         },
         {
           "name": "Stabby hundrastgård",
@@ -204,14 +224,19 @@
           "googleMapsUrl": "https://maps.google.com/?q=Stabby+hundrastg%C3%A5rd+Uppsala",
           "descriptionDe": "Einer der sieben von der Gemeinde Uppsala unterhaltenen hundrastgårdar, im Vorort Stabby westlich des Zentrums. Der gesamte Bereich ist eingezäunt (etwa 1,8 m), der Untergrund besteht aus gemähtem Rasen und festgetretenem Kies, und es gibt Bänke sowie einen separaten kleinen Bereich für kleine Hunde innerhalb des Hauptbereichs. Einheimische kommen jeden Abend zwischen 17:00 und 20:00 Uhr - der gesellschaftlichen Stunde für Hunde und Halter -, und an den meisten Wochenenden herrscht den ganzen Tag über reger Wechsel. Kostenlos, keine Anmeldung nötig, im Winter bis 21:00 Uhr beleuchtet.",
           "descriptionNl": "Een van de zeven door de gemeente Uppsala onderhouden hundrastgårdar, in de voorstad Stabby ten westen van het centrum. Het hele terrein is omheind (ongeveer 1,8 m), de ondergrond bestaat uit gemaaid gras en aangestampt grind, en er zijn bankjes plus een apart klein gedeelte voor kleine honden binnen het hoofdterrein. Locals komen elke avond tussen 17:00 en 20:00 uur, het sociale uur voor honden en baasjes, en in de meeste weekenden is er de hele dag door drukte. Gratis, geen aanmelding nodig, in de winter verlicht tot 21:00 uur.",
+          "descriptionIt": "Una delle sette hundrastgårdar gestite dal comune di Uppsala, nel sobborgo di Stabby a ovest del centro. L'intera area è recintata (circa 1,8 m), il terreno è erba tagliata e ghiaia compattata, e ci sono panchine più una piccola area separata per i cani di taglia piccola all'interno dell'area principale. I residenti arrivano ogni sera tra le 17:00 e le 20:00, l'ora sociale per cani e padroni, e la maggior parte dei weekend è affollata tutto il giorno. Gratuito, nessuna iscrizione richiesta, illuminato fino alle 21:00 in inverno.",
           "offLeashAreasDe": "Der gesamte eingezäunte Bereich ist Freilauffläche; separater Bereich für kleine Hunde",
           "offLeashAreasNl": "Het hele omheinde terrein is loslopgebied; apart gedeelte voor kleine honden",
+          "offLeashAreasIt": "Tutta l'area recintata è zona di sgambamento libero; area separata per cani di taglia piccola",
           "amenitiesDe": "Bänke, Abfallbehälter, Bereich für kleine Hunde, Beleuchtung bis 21:00 Uhr",
           "amenitiesNl": "Bankjes, afvalbakken, gedeelte voor kleine honden, verlichting tot 21:00 uur",
+          "amenitiesIt": "Panchine, cestini, area per cani di taglia piccola, illuminazione fino alle 21:00",
           "rulesDe": "Beide Tore verriegeln. Hinterlassenschaften bitte aufsammeln. Keine läufigen Hündinnen. Halter tragen jederzeit die Verantwortung.",
           "rulesNl": "Beide poorten vergrendelen. Ruim de uitwerpselen op. Geen loopse teven. Baasjes zijn te allen tijde verantwoordelijk.",
+          "rulesIt": "Chiudi entrambi i cancelli. Raccogli i bisogni del cane. Nessuna femmina in calore. I padroni sono sempre responsabili.",
           "tipDe": "Das Zeitfenster von 18:00 bis 19:00 Uhr an Wochentagen ist am belebtesten; kommen Sie vor 16:30 Uhr oder nach 20:00 Uhr, wenn Ihr Hund einen ruhigeren ersten Besuch braucht.",
-          "tipNl": "Het tijdvak 18:00-19:00 uur op doordeweekse dagen is het drukst; kom voor 16:30 uur of na 20:00 uur als je hond een rustiger eerste bezoek nodig heeft."
+          "tipNl": "Het tijdvak 18:00-19:00 uur op doordeweekse dagen is het drukst; kom voor 16:30 uur of na 20:00 uur als je hond een rustiger eerste bezoek nodig heeft.",
+          "tipIt": "La fascia 18:00-19:00 nei giorni feriali è la più affollata; vieni prima delle 16:30 o dopo le 20:00 se il tuo cane ha bisogno di una prima visita più tranquilla."
         },
         {
           "name": "Nåntuna hundrastgård",
@@ -243,22 +268,30 @@
           "googleMapsUrl": "https://maps.google.com/?q=N%C3%A5ntuna+hundrastg%C3%A5rd+Uppsala",
           "descriptionDe": "Ein eingezäunter Gemeinde-Hundepark im Vorort Nåntuna südöstlich des Zentrums, am Wasserlauf Sävjaån. Die Umzäunung besteht aus einem 1,6 m hohen Maschendrahtzaun mit einer doppelten Schleuse am Eingang. Gemähter Rasen und ein kleines bewaldetes Stück im Inneren bieten den Hunden sowohl offenen Auslauf als auch eine schattige Ecke an warmen Nachmittagen. Weniger überlaufen als Stabby und ein Favorit bei Haltern, die südlich des Flusses wohnen oder mit dem Auto aus Knivsta und dem Flughafenkorridor anreisen.",
           "descriptionNl": "Een omheind gemeentelijk hondenpark in de voorstad Nåntuna ten zuidoosten van het centrum, aan de waterloop Sävjaån. De omheining bestaat uit een 1,6 m hoog gaashek met een dubbele sluis bij de ingang. Gemaaid gras en een klein beboste hoek binnenin bieden honden zowel open ruimte als een schaduwrijk plekje op warme middagen. Minder druk dan Stabby en een favoriet bij baasjes die ten zuiden van de rivier wonen of met de auto uit Knivsta en de luchthavencorridor komen.",
+          "descriptionIt": "Un parco cani comunale recintato nel sobborgo di Nåntuna a sud-est del centro, lungo il corso d'acqua Sävjaån. Il recinto è costituito da una rete metallica alta 1,6 m con un doppio cancello a chiusa all'ingresso. Erba tagliata e un piccolo angolo boschivo all'interno offrono ai cani sia spazio aperto che un angolo ombreggiato nei pomeriggi caldi. Meno affollato di Stabby e un preferito tra i padroni che vivono a sud del fiume o arrivano in auto da Knivsta e dal corridoio dell'aeroporto.",
           "offLeashAreasDe": "Der gesamte eingezäunte Bereich ist Freilauffläche",
           "offLeashAreasNl": "Het hele omheinde terrein is loslopgebied",
+          "offLeashAreasIt": "Tutta l'area recintata è zona di sgambamento libero",
           "amenitiesDe": "Bänke, Abfallbehälter, schattige Waldecke, Parkplatz am Tornérplatsen",
           "amenitiesNl": "Bankjes, afvalbakken, schaduwrijke boshoek, parkeerplaats bij Tornérplatsen",
+          "amenitiesIt": "Panchine, cestini, angolo boschivo ombreggiato, parcheggio vicino a Tornérplatsen",
           "rulesDe": "Beide Tore verriegeln. Hinterlassenschaften bitte aufsammeln. Keine läufigen Hündinnen. Maximal 3 Hunde pro Halter.",
           "rulesNl": "Beide poorten vergrendelen. Ruim de uitwerpselen op. Geen loopse teven. Maximaal 3 honden per baasje.",
+          "rulesIt": "Chiudi entrambi i cancelli. Raccogli i bisogni del cane. Nessuna femmina in calore. Massimo 3 cani per padrone.",
           "tipDe": "An Wochenendvormittagen bleibt es hier selbst im Sommer ruhig; wenn Ihr Hund im Umgang mit anderen Hunden unsicher ist, ist Samstag vor 10:00 Uhr der einfachste Besuchszeitpunkt.",
-          "tipNl": "Op weekendochtenden blijft het hier zelfs in de zomer rustig; als je hond onzeker is in de omgang met andere honden, is zaterdag voor 10:00 uur het makkelijkste moment om te komen."
+          "tipNl": "Op weekendochtenden blijft het hier zelfs in de zomer rustig; als je hond onzeker is in de omgang met andere honden, is zaterdag voor 10:00 uur het makkelijkste moment om te komen.",
+          "tipIt": "Nei fine settimana mattutini qui resta tranquillo anche in estate; se il tuo cane è insicuro con gli altri cani, il sabato prima delle 10:00 è il momento più semplice per venire."
         }
       ],
       "titleDe": "Hundefreundliche Parks & Freilaufflächen in Uppsala",
       "titleNl": "Hondvriendelijke parken & loslopgebieden in Uppsala",
+      "titleIt": "Parchi e aree di sgambamento libero a misura di cane a Uppsala",
       "introDe": "Die Gemeinde Uppsala unterhält sieben eingezäunte hundrastgårdar (Hundeparks) über die ganze Stadt verteilt sowie ein 108 Hektar großes städtisches Waldschutzgebiet in Stadsskogen, das für lange Spaziergänge besonders beliebt ist. Außerhalb dieser eingezäunten Flächen gilt vom 1. März bis 20. August jedes Jahres das schwedische nationale Leinengebot (koppeltvång), wonach Hunde überall im Freien an der Leine geführt werden müssen, um bodenbrütende Vögel und Rehkitze zu schützen. Innerhalb eines eingezäunten hundrastgård können Hunde ganzjährig frei laufen. Der Stadsparken entlang der Fyrisån ist der zentralste Grünstopp für einen 30-minütigen Spaziergang an der Leine; Stadsskogen eignet sich für eine 60- bis 90-minütige Waldrunde mit einem ruhigen Hund; in den vorstädtischen Hundeparks Stabby und Nåntuna treffen sich Einheimische jeden Abend mit ihren Hunden.",
       "introNl": "De gemeente Uppsala onderhoudt zeven omheinde hundrastgårdar (hondenparken) verspreid over de hele stad, plus een 108 hectare groot stedelijk bosreservaat in Stadsskogen, dat bijzonder populair is voor lange wandelingen. Buiten deze omheinde terreinen geldt van 1 maart tot 20 augustus elk jaar de Zweedse landelijke aanlijnplicht (koppeltvång), waarbij honden overal buiten aangelijnd moeten zijn om grondbroedende vogels en reekalfjes te beschermen. Binnen een omheinde hundrastgård mogen honden het hele jaar door los lopen. Het Stadsparken langs de Fyrisån is de meest centrale groene stop voor een wandeling van 30 minuten aan de lijn; Stadsskogen leent zich voor een bosrondje van 60 tot 90 minuten met een rustige hond; in de voorstedelijke hondenparken Stabby en Nåntuna ontmoeten locals elkaar elke avond met hun honden.",
+      "introIt": "Il comune di Uppsala gestisce sette hundrastgårdar (parchi cani) recintati sparsi per tutta la città, oltre a una riserva boschiva urbana di 108 ettari a Stadsskogen, particolarmente popolare per le lunghe passeggiate. Al di fuori di queste aree recintate, dal 1 marzo al 20 agosto di ogni anno vige l'obbligo nazionale svedese di guinzaglio (koppeltvång), per cui i cani devono essere al guinzaglio ovunque all'aperto per proteggere gli uccelli che nidificano a terra e i cuccioli di capriolo. All'interno di una hundrastgård recintata i cani possono correre liberi tutto l'anno. Lo Stadsparken lungo la Fyrisån è la sosta verde più centrale per una passeggiata al guinzaglio di 30 minuti; Stadsskogen si presta a un giro nel bosco di 60-90 minuti con un cane tranquillo; nei parchi cani periferici di Stabby e Nåntuna i residenti si incontrano ogni sera con i loro cani.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Getting Around Uppsala with a Dog",
@@ -289,10 +322,13 @@
           "tipPt": "Compre os bilhetes na aplicação da UL ou com um cartão contactless no leitor do autocarro: não há dinheiro a bordo.",
           "petPolicyDe": "Hunde fahren kostenlos in den UL-Stadtbussen und den Upptåget-Pendlerzügen mit. Halter fahren hinten im Bus bzw. im hinteren Teil des Zugwagens mit, um Rücksicht auf Fahrgäste mit Allergien zu nehmen. Blinden- und Assistenzhunde sind von der Regel ausgenommen und dürfen überall im Fahrzeug mitfahren.",
           "petPolicyNl": "Honden reizen gratis mee in de UL-stadsbussen en de Upptåget-forensentreinen. Baasjes reizen achterin de bus of in het achterste deel van de treinwagon, uit respect voor reizigers met allergieën. Blinden- en assistentiehonden zijn van deze regel uitgezonderd en mogen overal in het voertuig meereizen.",
+          "petPolicyIt": "I cani viaggiano gratis sugli autobus urbani UL e sui treni pendolari Upptåget. I padroni viaggiano nella parte posteriore dell'autobus o nella parte finale della carrozza, per rispetto dei viaggiatori allergici. I cani guida e da assistenza sono esentati da questa regola e possono viaggiare ovunque nel veicolo.",
           "costDe": "Kostenlos für den Hund; der Halter zahlt ein reguläres UL-Ticket (33 SEK Einzelfahrt, 99 SEK 24-Stunden-Ticket)",
           "costNl": "Gratis voor de hond; het baasje betaalt een regulier UL-ticket (33 SEK enkele reis, 99 SEK 24-uurskaart)",
+          "costIt": "Gratis per il cane; il padrone paga un normale biglietto UL (33 SEK andata, 99 SEK biglietto giornaliero)",
           "tipDe": "Kaufen Sie Tickets in der UL-App oder kontaktlos mit Karte am Lesegerät im Bus - an Bord ist keine Barzahlung möglich.",
-          "tipNl": "Koop tickets in de UL-app of contactloos met kaart bij het leesapparaat in de bus, aan boord kun je niet met contant geld betalen."
+          "tipNl": "Koop tickets in de UL-app of contactloos met kaart bij het leesapparaat in de bus, aan boord kun je niet met contant geld betalen.",
+          "tipIt": "Compra i biglietti nell'app UL o senza contatto con la carta al lettore sull'autobus, a bordo non è possibile pagare in contanti."
         },
         {
           "name": "SJ Stockholm train (Uppsala C ↔ Stockholm C)",
@@ -313,10 +349,13 @@
           "tipPt": "Ao reservar em sj.se ou na aplicação da SJ, assinale a caixa de lugar com animais autorizados antes de finalizar a compra. O sistema seleciona automaticamente uma carruagem dog-friendly.",
           "petPolicyDe": "In den SJ-Zügen zwischen Uppsala und Stockholm sind Hunde in ausgewiesenen hundefreundlichen Wagen oder in einem Abteil erlaubt, das Sie beim Ticketkauf buchen. Der Hund liegt an der Leine auf dem Boden zu Ihren Füßen. Diensthunde reisen kostenlos; Haushunde sind meist ebenfalls ohne Aufpreis, benötigen aber die Reservierung für den hundefreundlichen Platz.",
           "petPolicyNl": "In de SJ-treinen tussen Uppsala en Stockholm zijn honden toegestaan in aangewezen hondvriendelijke wagons of in een coupé die je bij het kopen van je ticket boekt. De hond ligt aangelijnd op de grond aan je voeten. Assistentiehonden reizen gratis mee; gewone honden meestal ook zonder toeslag, maar hebben de reservering voor de hondvriendelijke plek nodig.",
+          "petPolicyIt": "Sui treni SJ tra Uppsala e Stoccolma i cani sono ammessi nelle carrozze designate a misura di cane o in uno scompartimento che prenoti all'acquisto del biglietto. Il cane resta al guinzaglio a terra ai tuoi piedi. I cani da assistenza viaggiano gratis; i cani normali di solito anche senza supplemento, ma serve la prenotazione per il posto a misura di cane.",
           "costDe": "Regulärer SJ-Fahrpreis (95-155 SEK einfache Fahrt, je nach Uhrzeit); kein Hundezuschlag bei Buchung des hundefreundlichen Platzes",
           "costNl": "Reguliere SJ-prijs (95-155 SEK enkele reis, afhankelijk van tijdstip); geen hondentoeslag bij boeking van de hondvriendelijke plek",
+          "costIt": "Prezzo SJ normale (95-155 SEK andata, a seconda dell'orario); nessun supplemento cane se prenoti il posto a misura di cane",
           "tipDe": "Setzen Sie bei der Buchung auf sj.se oder in der SJ-App vor dem Bezahlen ein Häkchen bei „Sitzplatz mit Haustier erlaubt“. Das System weist automatisch einen hundefreundlichen Wagen zu.",
-          "tipNl": "Vink bij het boeken op sj.se of in de SJ-app voor het afrekenen 'zitplaats met huisdier toegestaan' aan. Het systeem wijst automatisch een hondvriendelijke wagon toe."
+          "tipNl": "Vink bij het boeken op sj.se of in de SJ-app voor het afrekenen 'zitplaats met huisdier toegestaan' aan. Het systeem wijst automatisch een hondvriendelijke wagon toe.",
+          "tipIt": "Al momento della prenotazione su sj.se o nell'app SJ, prima di pagare seleziona \"posto con animale ammesso\". Il sistema assegna automaticamente una carrozza a misura di cane."
         },
         {
           "name": "Uppsala taxi and Uber",
@@ -337,18 +376,24 @@
           "tipPt": "Se chegar ao aeroporto de Arlanda com um cão grande, reserve com antecedência um táxi carrinha da Uppsala Taxi ou da Cabonline em vez de arriscar uma recusa de um condutor de Uber aleatório.",
           "petPolicyDe": "Die meisten Taxiunternehmen in Uppsala (Uppsala Taxi 100 000, Taxi Kurir) sowie Uber-Fahrer nehmen Hunde ohne Aufpreis mit, der Fahrer kann jedoch unter Berufung auf Allergien oder das Risiko von Polsterschäden ablehnen. Üblich ist es, eine Decke oder eine Transportbox für den Hund auf dem Rücksitz mitzubringen. Erwähnen Sie den Hund immer schon bei der Buchung per Telefon oder in den App-Hinweisen.",
           "petPolicyNl": "De meeste taxibedrijven in Uppsala (Uppsala Taxi 100 000, Taxi Kurir) en Uber-chauffeurs nemen honden zonder toeslag mee, maar de chauffeur kan weigeren met een beroep op allergieën of het risico van schade aan de bekleding. Het is gebruikelijk om een deken of reismand voor de hond op de achterbank mee te nemen. Vermeld de hond altijd al bij het boeken, telefonisch of in de app-notities.",
+          "petPolicyIt": "La maggior parte delle compagnie di taxi a Uppsala (Uppsala Taxi 100 000, Taxi Kurir) e gli autisti Uber accettano i cani senza supplemento, ma l'autista può rifiutare invocando allergie o il rischio di danni ai sedili. È prassi portare una coperta o un trasportino per il cane sul sedile posteriore. Segnala sempre il cane al momento della prenotazione, per telefono o nelle note dell'app.",
           "costDe": "Regulärer Taxameter (50 SEK Grundpreis + ca. 18 SEK/km); in den meisten Flotten kein Hundezuschlag",
           "costNl": "Reguliere taximeter (50 SEK starttarief + ca. 18 SEK/km); bij de meeste vloten geen hondentoeslag",
+          "costIt": "Tariffa taxi normale (50 SEK di partenza + circa 18 SEK/km); nessun supplemento cane nella maggior parte delle flotte",
           "tipDe": "Wenn Sie mit einem großen Hund am Flughafen Arlanda ankommen, reservieren Sie im Voraus ein Kombi-Taxi bei Uppsala Taxi oder Cabonline, statt bei einem zufälligen Uber-Fahrer das Risiko einer Ablehnung einzugehen.",
-          "tipNl": "Kom je met een grote hond aan op luchthaven Arlanda, reserveer dan van tevoren een combitaxi bij Uppsala Taxi of Cabonline, in plaats van het risico te lopen dat een willekeurige Uber-chauffeur weigert."
+          "tipNl": "Kom je met een grote hond aan op luchthaven Arlanda, reserveer dan van tevoren een combitaxi bij Uppsala Taxi of Cabonline, in plaats van het risico te lopen dat een willekeurige Uber-chauffeur weigert.",
+          "tipIt": "Se arrivi con un cane grande all'aeroporto di Arlanda, prenota in anticipo un combitaxi con Uppsala Taxi o Cabonline, invece di rischiare che un autista Uber a caso rifiuti."
         }
       ],
       "titleDe": "Mit Hund unterwegs in Uppsala",
       "titleNl": "Onderweg met hond in Uppsala",
+      "titleIt": "In giro con il cane a Uppsala",
       "introDe": "Uppsala ist kompakt und sehr gut zu Fuß erreichbar - der Dom, das Schloss, die Flusspromenade und die Haupteinkaufsstraße liegen alle innerhalb von 20 Gehminuten voneinander entfernt, sodass die meisten Besucher mit Hund innerhalb der Stadt nie öffentliche Verkehrsmittel benötigen. Wenn Sie sie doch brauchen: Der regionale Betreiber UL fährt Stadtbusse und Pendlerzüge und nimmt Hunde kostenlos mit; man fährt hinten im Bus oder Wagen mit, um Rücksicht auf Fahrgäste mit Allergien zu nehmen. Für den Hochgeschwindigkeitszug nach Stockholm (SJ, 38 Minuten) ist eine Sitzplatzreservierung im hundefreundlichen Bereich erforderlich. Uber- und Taxifahrer in Uppsala nehmen in der Regel gerne Hunde mit, bestätigen Sie dies aber immer bei der Buchung.",
       "introNl": "Uppsala is compact en heel goed te voet te bereiken, de kathedraal, het kasteel, de rivierboulevard en de belangrijkste winkelstraat liggen allemaal binnen 20 minuten lopen van elkaar, waardoor de meeste bezoekers met hond binnen de stad nooit openbaar vervoer nodig hebben. Mocht je het toch nodig hebben: de regionale vervoerder UL rijdt stadsbussen en forensentreinen en neemt honden gratis mee; je reist achterin de bus of wagon, uit respect voor reizigers met allergieën. Voor de hogesnelheidstrein naar Stockholm (SJ, 38 minuten) is een zitplaatsreservering in het hondvriendelijke gedeelte vereist. Uber- en taxichauffeurs in Uppsala nemen doorgaans graag honden mee, maar bevestig dit altijd bij het boeken.",
+      "introIt": "Uppsala è compatta e facilissima da girare a piedi, la cattedrale, il castello, il lungofiume e la via dello shopping principale si trovano tutti entro 20 minuti a piedi l'uno dall'altro, per cui la maggior parte dei visitatori con cane non ha mai bisogno del trasporto pubblico in città. Se comunque ti serve: l'azienda regionale UL gestisce autobus urbani e treni pendolari e accetta i cani gratis; viaggi nella parte posteriore dell'autobus o della carrozza, per rispetto dei viaggiatori allergici. Per il treno ad alta velocità per Stoccolma (SJ, 38 minuti) serve una prenotazione del posto nella zona a misura di cane. Gli autisti Uber e i taxi a Uppsala di solito accettano volentieri i cani, ma conferma sempre al momento della prenotazione.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches & Swim Spots in Uppsala",
@@ -383,10 +428,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Storvadsbadet+Uppsala",
           "petPolicyDe": "Storvadsbadet ist die hundefreundliche Vorzeige-Badestelle der Stadt. Ein ausgeschilderter Uferabschnitt ist für Hunde reserviert, um im Fluss zu schwimmen und zu spielen - der Rest des Strands ist während der Badesaison hundefrei. Auf den Zuwegen und auf der Picknickwiese müssen Hunde angeleint sein; im ausgewiesenen Schwimmbereich dürfen sie frei laufen.",
           "petPolicyNl": "Storvadsbadet is de hondvriendelijke uithangbord-zwemplek van de stad. Een bewegwijzerd oevergedeelte is gereserveerd voor honden om in de rivier te zwemmen en te spelen, de rest van het strand is tijdens het badseizoen hondenvrij. Op de toegangspaden en op de picknickweide moeten honden aangelijnd zijn; in de aangewezen zwemzone mogen ze los lopen.",
+          "petPolicyIt": "Storvadsbadet è il luogo di balneazione simbolo a misura di cane della città. Un tratto di riva segnalato è riservato ai cani per nuotare e giocare nel fiume, il resto della spiaggia è vietato ai cani durante la stagione balneare. Sui sentieri di accesso e sul prato per il picnic i cani devono essere al guinzaglio; nella zona di balneazione designata possono essere liberi.",
           "amenitiesDe": "Sandufer, Wiese, Stege, Picknicktische, öffentliche Toiletten im Sommer, Parkplatz",
           "amenitiesNl": "Zandoever, weide, steigers, picknicktafels, openbare toiletten in de zomer, parkeerplaats",
+          "amenitiesIt": "Riva sabbiosa, prato, pontili, tavoli da picnic, servizi igienici pubblici in estate, parcheggio",
           "tipDe": "Achten Sie auf das hundbad-Schild am südlichen Ende des Strands - das ist der einzige Abschnitt, an dem Ihr Hund während der Familienbadesaison ins Wasser darf.",
-          "tipNl": "Let op het hondbad-bordje aan het zuidelijke uiteinde van het strand, dat is het enige gedeelte waar je hond tijdens het familiezwemseizoen het water in mag."
+          "tipNl": "Let op het hondbad-bordje aan het zuidelijke uiteinde van het strand, dat is het enige gedeelte waar je hond tijdens het familiezwemseizoen het water in mag.",
+          "tipIt": "Fai attenzione al cartello hundbad all'estremità sud della spiaggia, è l'unico tratto dove il tuo cane può entrare in acqua durante la stagione balneare familiare."
         },
         {
           "name": "Lyssnaängsbadet",
@@ -411,10 +459,13 @@
           "googleMapsUrl": "https://maps.google.com/?q=Lyssna%C3%A4ngsbadet+Uppsala",
           "petPolicyDe": "Ein leicht erreichbarer Stadtstrand am Nordufer des Ekoln-Sees, 6 km südlich des Zentrums. Es gibt keinen eigenen Hundebereich, weshalb Hunde während der Familienbadesaison (nach Praxis der Gemeinde 15. Mai bis 15. September) weder am Sand noch im Wasser erlaubt sind. Außerhalb dieses Zeitraums - Herbst, Winter, Frühjahr - sind angeleinte Hunde am Ufer und auf den angrenzenden Wegen willkommen.",
           "petPolicyNl": "Een makkelijk bereikbaar stadsstrand aan de noordoever van het Ekoln-meer, 6 km ten zuiden van het centrum. Er is geen apart hondengedeelte, waardoor honden tijdens het familiezwemseizoen (volgens gemeentelijke praktijk 15 mei tot 15 september) niet op het zand of in het water mogen. Buiten deze periode, herfst, winter, lente, zijn aangelijnde honden welkom op de oever en de aangrenzende paden.",
+          "petPolicyIt": "Una spiaggia cittadina facilmente raggiungibile sulla riva nord del lago Ekoln, 6 km a sud del centro. Non c'è un'area separata per cani, per cui durante la stagione balneare familiare (secondo la prassi comunale dal 15 maggio al 15 settembre) i cani non possono stare sulla sabbia o in acqua. Al di fuori di questo periodo, autunno, inverno, primavera, i cani al guinzaglio sono benvenuti sulla riva e sui sentieri adiacenti.",
           "amenitiesDe": "Sandufer, Steg, große Rasenfläche, Kiosk im Sommer, Grillplätze, Toiletten, Parkplatz",
           "amenitiesNl": "Zandoever, steiger, groot grasveld, kiosk in de zomer, barbecueplekken, toiletten, parkeerplaats",
+          "amenitiesIt": "Riva sabbiosa, pontile, grande prato, chiosco in estate, zone barbecue, servizi igienici, parcheggio",
           "tipDe": "Verbinden Sie einen Spaziergang in Lyssnaängen außerhalb der Saison mit einem Kaffee zurück im Zentrum - UL-Bus 13 fährt vom Strand in 18 Minuten zum Stora Torget.",
-          "tipNl": "Combineer een wandeling in Lyssnaängen buiten het seizoen met een kop koffie terug in het centrum, UL-bus 13 rijdt vanaf het strand in 18 minuten naar het Stora Torget."
+          "tipNl": "Combineer een wandeling in Lyssnaängen buiten het seizoen met een kop koffie terug in het centrum, UL-bus 13 rijdt vanaf het strand in 18 minuten naar het Stora Torget.",
+          "tipIt": "Abbina una passeggiata a Lyssnaängen fuori stagione a un caffè di ritorno in centro, l'autobus UL 13 va dalla spiaggia alla Stora Torget in 18 minuti."
         },
         {
           "name": "Fjällnora friluftsområde",
@@ -439,18 +490,24 @@
           "googleMapsUrl": "https://maps.google.com/?q=Fj%C3%A4llnora+friluftsomr%C3%A5de+Uppsala",
           "petPolicyDe": "Ein 600 Hektar großes städtisches Naherholungsgebiet am See Trehörningen, 15 km östlich des Zentrums. Am Ostufer gibt es einen ausgewiesenen Hundebadebereich (hundbad), ausgeschildert vom Hauptparkplatz aus, in dem Hunde frei schwimmen dürfen. Im übrigen Gebiet müssen Hunde ganzjährig an der Leine geführt werden, um bodenbrütende Vögel und weidende Schafe zu schützen. Eine 4 km lange markierte Hunde-Wanderrunde führt um den See herum.",
           "petPolicyNl": "Een 600 hectare groot stedelijk recreatiegebied aan het meer Trehörningen, 15 km ten oosten van het centrum. Aan de oostoever is een aangewezen hondenzwemgedeelte (hundbad), bewegwijzerd vanaf de hoofdparkeerplaats, waar honden vrij mogen zwemmen. In de rest van het gebied moeten honden het hele jaar door aangelijnd zijn, om grondbroedende vogels en grazende schapen te beschermen. Een gemarkeerde hondenwandelroute van 4 km loopt rond het meer.",
+          "petPolicyIt": "Un'area ricreativa urbana di 600 ettari sul lago Trehörningen, 15 km a est del centro. Sulla riva orientale c'è una zona di balneazione per cani designata (hundbad), segnalata dal parcheggio principale, dove i cani possono nuotare liberamente. Nel resto dell'area i cani devono restare al guinzaglio tutto l'anno, per proteggere gli uccelli che nidificano a terra e le pecore al pascolo. Un percorso escursionistico per cani segnalato di 4 km fa il giro del lago.",
           "amenitiesDe": "Hundebadebereich, Picknickplätze, Kiosk und Verleih im Sommer, Hochseilgarten, Kajakverleih, großer Parkplatz",
           "amenitiesNl": "Hondenzwemgedeelte, picknickplekken, kiosk en verhuur in de zomer, klimbos, kajakverhuur, grote parkeerplaats",
+          "amenitiesIt": "Zona di balneazione per cani, aree picnic, chiosco e noleggi in estate, parco avventura, noleggio kayak, ampio parcheggio",
           "tipDe": "Mit dem Auto erreicht man Fjällnora bei Weitem am einfachsten; UL-Bus 813 fährt zwar ab Uppsala C, braucht aber 50 Minuten und verkehrt außerhalb der Sommerwochenenden nur eingeschränkt.",
-          "tipNl": "Met de auto bereik je Fjällnora verreweg het makkelijkst; UL-bus 813 rijdt wel vanaf Uppsala C, maar doet er 50 minuten over en rijdt buiten de zomerweekenden maar beperkt."
+          "tipNl": "Met de auto bereik je Fjällnora verreweg het makkelijkst; UL-bus 813 rijdt wel vanaf Uppsala C, maar doet er 50 minuten over en rijdt buiten de zomerweekenden maar beperkt.",
+          "tipIt": "In auto raggiungi Fjällnora di gran lunga più facilmente; l'autobus UL 813 parte da Uppsala C, ma ci mette 50 minuti e circola in modo limitato al di fuori dei fine settimana estivi."
         }
       ],
       "titleDe": "Hundefreundliche Strände & Badestellen in Uppsala",
       "titleNl": "Hondvriendelijke stranden & zwemplekken in Uppsala",
+      "titleIt": "Spiagge e luoghi di balneazione a misura di cane a Uppsala",
       "introDe": "Uppsala liegt im Landesinneren und hat keine Meeresküste, aber die Stadt liegt an der Fyrisån und am Nordufer des Ekoln-Sees, einer weiten Bucht des Mälarsees. Die Gemeinde unterhält rund fünfzehn öffentliche Badestellen, von denen mehrere einen ausgewiesenen Hundestrand (hundbad) getrennt vom Familienbadebereich haben. Der Vorzeigeort ist Storvadsbadet direkt nördlich von Gamla Uppsala, wo ein markierter Uferabschnitt für Hunde reserviert ist. Beachten Sie, dass an den meisten nicht ausgewiesenen öffentlichen Stränden die schwedischen nationalen Regeln Hunden das Baden zwischen dem 15. März und dem 30. September faktisch untersagen.",
       "introNl": "Uppsala ligt landinwaarts en heeft geen zeekust, maar de stad ligt aan de Fyrisån en aan de noordoever van het Ekoln-meer, een brede baai van het Mälarmeer. De gemeente onderhoudt zo'n vijftien openbare zwemplekken, waarvan meerdere een aangewezen hondenstrand (hundbad) hebben, gescheiden van het familiezwemgedeelte. Het uithangbord is Storvadsbadet, direct ten noorden van Gamla Uppsala, waar een gemarkeerd oevergedeelte gereserveerd is voor honden. Let op dat op de meeste niet-aangewezen openbare stranden de Zweedse landelijke regels honden feitelijk verbieden om te zwemmen tussen 15 maart en 30 september.",
+      "introIt": "Uppsala si trova nell'entroterra e non ha una costa marina, ma la città si affaccia sul fiume Fyrisån e sulla riva nord del lago Ekoln, un'ampia baia del lago Mälaren. Il comune gestisce una quindicina di luoghi di balneazione pubblici, molti dei quali hanno una spiaggia per cani designata (hundbad), separata dalla zona balneare familiare. Il simbolo è Storvadsbadet, appena a nord di Gamla Uppsala, dove un tratto di riva segnalato è riservato ai cani. Tieni presente che sulla maggior parte delle spiagge pubbliche non designate le regole nazionali svedesi di fatto vietano ai cani di nuotare tra il 15 marzo e il 30 settembre.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "24-Hour & Emergency Veterinarians in Uppsala",
@@ -492,12 +549,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=SLU+Universitetsdjursjukhuset+Uppsala",
           "phoneDe": "+46 18-67 10 00",
           "phoneNl": "+46 18-67 10 00",
+          "phoneIt": "+46 18-67 10 00",
           "emergencyHoursDe": "Rund um die Uhr geöffnet, an jedem Tag des Jahres - Schwedens einzige durchgehend besetzte Universitätsklinik mit ständiger Facharztabdeckung vor Ort",
           "emergencyHoursNl": "Dag en nacht geopend, elke dag van het jaar, de enige doorlopend bemande universiteitskliniek van Zweden met permanente specialistische aanwezigheid ter plaatse",
+          "emergencyHoursIt": "Aperto giorno e notte, tutti i giorni dell'anno, l'unica clinica universitaria di Svezia presidiata ininterrottamente con presenza specialistica permanente in loco",
           "descriptionDe": "Das Universitätsklinikum der Schwedischen Universität für Agrarwissenschaften (SLU) auf dem Ultuna-Campus südlich des Zentrums. UDS ist die einzige durchgehend besetzte 24-Stunden-Überweisungsklinik für Kleintiere in Schweden, mit Chirurgie, Innerer Medizin, Onkologie, Neurologie, Ophthalmologie und einer eigenen Notaufnahme. Hierhin überweisen die niedergelassenen Tierärzte ihre komplexesten Fälle, und dies ist die Standardanlaufstelle für jeden nächtlichen Notfall in der Region Uppsala.",
           "descriptionNl": "Het universitair diergeneeskundig ziekenhuis van de Zweedse Landbouwuniversiteit (SLU) op de Ultuna-campus ten zuiden van het centrum. UDS is de enige doorlopend bemande 24-uurs verwijskliniek voor kleine huisdieren in Zweden, met chirurgie, interne geneeskunde, oncologie, neurologie, oogheelkunde en een eigen spoedeisende hulp. Hier verwijzen lokale dierenartsen hun meest complexe gevallen naartoe, en dit is het standaardadres voor elk nachtelijk spoedgeval in de regio Uppsala.",
+          "descriptionIt": "L'ospedale veterinario universitario dell'Università Svedese di Scienze Agrarie (SLU) nel campus di Ultuna a sud del centro. UDS è l'unica clinica di riferimento per piccoli animali aperta 24 ore su 24 e presidiata ininterrottamente in Svezia, con chirurgia, medicina interna, oncologia, neurologia, oftalmologia e un proprio pronto soccorso. Qui i veterinari locali indirizzano i loro casi più complessi, ed è il riferimento standard per qualsiasi emergenza notturna nella regione di Uppsala.",
           "tipDe": "Rufen Sie vor der Anfahrt an - die Triage außerhalb der regulären Zeiten sagt Ihnen, ob Sie direkt kommen sollen oder ob man Sie stattdessen an eine städtische Grundversorgungspraxis verweisen kann. Der Campus liegt 4 km südlich des Zentrums; UL-Bus 14 hält am SLU-Campus.",
-          "tipNl": "Bel voordat je erheen rijdt, de triage buiten reguliere uren vertelt je of je direct moet komen of dat je in plaats daarvan naar een stedelijke basiskliniek kunt worden doorverwezen. De campus ligt 4 km ten zuiden van het centrum; UL-bus 14 stopt bij de SLU-campus."
+          "tipNl": "Bel voordat je erheen rijdt, de triage buiten reguliere uren vertelt je of je direct moet komen of dat je in plaats daarvan naar een stedelijke basiskliniek kunt worden doorverwezen. De campus ligt 4 km ten zuiden van het centrum; UL-bus 14 stopt bij de SLU-campus.",
+          "tipIt": "Telefona prima di andare, il triage fuori dagli orari regolari ti dice se devi venire subito o se puoi essere indirizzato invece verso un ambulatorio urbano di base. Il campus si trova a 4 km a sud del centro; l'autobus UL 14 ferma al campus SLU."
         },
         {
           "name": "Evidensia Uppsala Veterinärklinik",
@@ -529,12 +590,16 @@
           "googleMapsUrl": "https://maps.google.com/?q=Evidensia+Uppsala+Veterin%C3%A4rklinik",
           "phoneDe": "+46 18 418 29 00",
           "phoneNl": "+46 18 418 29 00",
+          "phoneIt": "+46 18 418 29 00",
           "emergencyHoursDe": "Mo-Fr 07:00-21:00 Uhr, Sa-So 10:00-17:00 Uhr - Notaufnahme mit geschultem Personal und moderner Ausrüstung innerhalb dieser Zeiten; außerhalb davon ist UDS die zuständige Überweisungsklinik",
           "emergencyHoursNl": "Ma-vr 07:00-21:00 uur, za-zo 10:00-17:00 uur, spoedopvang met geschoold personeel en moderne apparatuur binnen deze tijden; daarbuiten is UDS de verantwoordelijke verwijskliniek",
+          "emergencyHoursIt": "Lun-ven 07:00-21:00, sab-dom 10:00-17:00, pronto soccorso con personale qualificato e attrezzature moderne in questi orari; al di fuori di questi UDS è la clinica di riferimento responsabile",
           "descriptionDe": "Eine 1.600 m² große Grundversorgungs- und Notfallklinik im Stadtteil Bolanderna, 2 km östlich des Doms. Evidensia ist die größte kommerzielle Tierarztgruppe in den nordischen Ländern, und die Filiale in Uppsala bietet Chirurgie, Orthopädie, Dermatologie, Innere Medizin und einen onkologischen Dienst. Die Notaufnahme ohne Termin während der langen Öffnungszeiten macht sie zur praktischsten Tagesoption, wenn Sie nicht das vollständige UDS-Klinikum benötigen.",
           "descriptionNl": "Een 1.600 m² grote basis- en spoedkliniek in de wijk Boländerna, 2 km ten oosten van de kathedraal. Evidensia is de grootste commerciële dierenartsengroep van de Scandinavische landen, en de vestiging in Uppsala biedt chirurgie, orthopedie, dermatologie, interne geneeskunde en een oncologische dienst. De spoedopvang zonder afspraak tijdens de lange openingstijden maakt het de praktischste dagoptie als je niet het volledige UDS-ziekenhuis nodig hebt.",
+          "descriptionIt": "Un ambulatorio di base e d'urgenza di 1.600 m² nel quartiere di Boländerna, 2 km a est della cattedrale. Evidensia è il più grande gruppo veterinario commerciale dei paesi scandinavi, e la sede di Uppsala offre chirurgia, ortopedia, dermatologia, medicina interna e un servizio di oncologia. Il pronto soccorso senza appuntamento durante i lunghi orari di apertura lo rende l'opzione diurna più pratica quando non serve l'intero ospedale UDS.",
           "tipDe": "Rufen Sie bei Notfällen vorab an, damit die Rezeption einen Behandlungsraum vorbereiten kann - Patienten ohne Termin werden weiterhin angenommen, aber nach Dringlichkeit aufgerufen.",
-          "tipNl": "Bel bij spoedgevallen vooraf, zodat de receptie een behandelkamer kan voorbereiden, patiënten zonder afspraak worden nog steeds aangenomen, maar op volgorde van urgentie geroepen."
+          "tipNl": "Bel bij spoedgevallen vooraf, zodat de receptie een behandelkamer kan voorbereiden, patiënten zonder afspraak worden nog steeds aangenomen, maar op volgorde van urgentie geroepen.",
+          "tipIt": "In caso di urgenza telefona in anticipo, così la reception può preparare una sala visite, i pazienti senza appuntamento vengono comunque accolti, ma chiamati in base all'urgenza."
         },
         {
           "name": "Rembackens Djursjukhus",
@@ -566,20 +631,27 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rembackens+Djursjukhus+Uppsala",
           "phoneDe": "+46 18 24 03 24",
           "phoneNl": "+46 18 24 03 24",
+          "phoneIt": "+46 18 24 03 24",
           "emergencyHoursDe": "Notfall-Sprechstunde ohne Termin an Wochentagen 09:00-17:00 Uhr, samstags 10:00-14:00 Uhr - kein 24-Stunden-Dienst; nachts und sonntags Verweisung an UDS",
           "emergencyHoursNl": "Spoedspreekuur zonder afspraak doordeweeks 09:00-17:00 uur, zaterdag 10:00-14:00 uur, geen 24-uursdienst; 's nachts en op zondag verwijzing naar UDS",
+          "emergencyHoursIt": "Visite d'urgenza senza appuntamento nei giorni feriali 09:00-17:00, sabato 10:00-14:00, nessun servizio 24 ore su 24; di notte e la domenica indirizzamento verso UDS",
           "descriptionDe": "Eine unabhängige, familiengeführte Klinik auf der Sunnersta-Seite des Flusses mit einem guten Ruf für Orthopädie und Rehabilitation. Nützlich als dritte Option, wenn im UDS lange Wartezeiten bestehen oder Evidensia während des Tages geschlossen ist - das begrenzte Wochenendzeitfenster bedeutet, dass es sich nicht um eine echte Notfalleinrichtung außerhalb der Öffnungszeiten handelt, aber die chirurgische und zahnmedizinische Arbeit wird von lokalen Haltern geschätzt.",
           "descriptionNl": "Een onafhankelijke, familiebedreven kliniek aan de Sunnersta-kant van de rivier met een goede reputatie op het gebied van orthopedie en revalidatie. Handig als derde optie als er bij UDS lange wachttijden zijn of Evidensia overdag gesloten is, het beperkte weekendtijdvak betekent dat het geen echte spoedvoorziening buiten openingstijden is, maar het chirurgische en tandheelkundige werk wordt gewaardeerd door lokale baasjes.",
+          "descriptionIt": "Una clinica indipendente a conduzione familiare sul lato di Sunnersta del fiume, con una buona reputazione in ortopedia e riabilitazione. Utile come terza opzione se ci sono lunghe attese a UDS o Evidensia è chiusa di giorno, la fascia oraria limitata nel weekend significa che non è una vera struttura d'urgenza fuori orario, ma il lavoro chirurgico e odontoiatrico è apprezzato dai padroni locali.",
           "tipDe": "Nur tagsüber - verlassen Sie sich für jeden nächtlichen oder sonntäglichen Notfall in der Region Uppsala immer auf UDS.",
-          "tipNl": "Alleen overdag, vertrouw voor elk nachtelijk of zondags spoedgeval in de regio Uppsala altijd op UDS."
+          "tipNl": "Alleen overdag, vertrouw voor elk nachtelijk of zondags spoedgeval in de regio Uppsala altijd op UDS.",
+          "tipIt": "Solo di giorno, per qualsiasi emergenza notturna o domenicale nella regione di Uppsala affidati sempre a UDS."
         }
       ],
       "titleDe": "24-Stunden- und Notfall-Tierärzte in Uppsala",
       "titleNl": "24-uurs en spoedeisende dierenartsen in Uppsala",
+      "titleIt": "Veterinari 24 ore su 24 e d'urgenza a Uppsala",
       "introDe": "Uppsala hat nach Stockholm die dichteste tierärztliche Infrastruktur Schwedens, da hier die SLU, die Schwedische Universität für Agrarwissenschaften, beheimatet ist. Das Universitätsklinikum UDS ist die einzige durchgehend besetzte 24-Stunden-Überweisungsklinik des Landes und behandelt jährlich rund 25.000 Kleintiere. Für Notfälle tagsüber im Zentrum ist die Evidensia Uppsala Veterinärklinik in der Danmarksgatan sieben Tage die Woche mit verlängerten Öffnungszeiten an Wochentagen und einer Notaufnahme geöffnet. Beide Kliniken sprechen Englisch. Die nationale Tierarzt-Hotline Distriktsveterinärerna kann Notrufe außerhalb der Öffnungszeiten aus dem ländlichen Raum vermitteln, falls Sie außerhalb der Stadt unterwegs sind.",
       "introNl": "Uppsala heeft na Stockholm de dichtste diergeneeskundige infrastructuur van Zweden, doordat hier de SLU, de Zweedse Landbouwuniversiteit, gevestigd is. Het universitair ziekenhuis UDS is de enige doorlopend bemande 24-uurs verwijskliniek van het land en behandelt jaarlijks zo'n 25.000 kleine huisdieren. Voor spoedgevallen overdag in het centrum is de Evidensia Uppsala Veterinärklinik aan de Danmarksgatan zeven dagen per week open, met verlengde openingstijden doordeweeks en een spoedopvang. Beide klinieken spreken Engels. De landelijke dierenarts-hotline Distriktsveterinärerna kan spoedoproepen buiten kantooruren uit het platteland doorverbinden, mocht je buiten de stad onderweg zijn.",
+      "introIt": "Dopo Stoccolma, Uppsala ha l'infrastruttura veterinaria più densa di Svezia, grazie alla presenza della SLU, l'Università Svedese di Scienze Agrarie. L'ospedale universitario UDS è l'unica clinica di riferimento aperta 24 ore su 24 e presidiata ininterrottamente del paese e tratta circa 25.000 piccoli animali all'anno. Per le urgenze diurne in centro, la Evidensia Uppsala Veterinärklinik sulla Danmarksgatan è aperta sette giorni su sette, con orari estesi nei giorni feriali e un pronto soccorso. Entrambe le cliniche parlano inglese. La linea nazionale Distriktsveterinärerna può smistare le chiamate d'urgenza fuori orario dalle zone rurali, nel caso tu sia in viaggio fuori città.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Practical Tips for Visiting Uppsala with a Dog",
@@ -598,7 +670,8 @@
           "tipEs": "Lleva un pasaporte europeo de mascotas con vacuna antirrábica vigente desde al menos 21 días y microchip. Suecia exige además un tratamiento contra la tenia equinococo si tu perro llega de un país distinto a Finlandia, Reino Unido, Irlanda, Malta o Noruega - administrado por un veterinario oficial entre 24 y 120 horas antes de cruzar la frontera sueca.",
           "tipPt": "Leve um passaporte europeu para animais com uma vacinação antirrábica válida com pelo menos 21 dias e um microchip. A Suécia exige também um tratamento contra a ténia (Echinococcus) se o seu cão chegar de um país que não a Finlândia, o Reino Unido, a Irlanda, Malta ou a Noruega, administrado por um Veterinário Oficial entre 24 e 120 horas antes de atravessar a fronteira sueca.",
           "tipDe": "Bringen Sie einen EU-Heimtierausweis mit einer mindestens 21 Tage alten gültigen Tollwutimpfung und einem Mikrochip mit. Schweden verlangt außerdem eine Bandwurmbehandlung (Echinococcus), wenn Ihr Hund aus einem anderen Land als Finnland, dem Vereinigten Königreich, Irland, Malta oder Norwegen einreist, verabreicht von einem amtlichen Tierarzt zwischen 24 und 120 Stunden vor dem Überqueren der schwedischen Grenze.",
-          "tipNl": "Neem een EU-dierenpaspoort mee met een minstens 21 dagen oude geldige rabiësvaccinatie en een microchip. Zweden vereist bovendien een lintwormbehandeling (Echinococcus) als je hond binnenkomt vanuit een ander land dan Finland, het Verenigd Koninkrijk, Ierland, Malta of Noorwegen, toegediend door een officiële dierenarts tussen 24 en 120 uur voor het oversteken van de Zweedse grens."
+          "tipNl": "Neem een EU-dierenpaspoort mee met een minstens 21 dagen oude geldige rabiësvaccinatie en een microchip. Zweden vereist bovendien een lintwormbehandeling (Echinococcus) als je hond binnenkomt vanuit een ander land dan Finland, het Verenigd Koninkrijk, Ierland, Malta of Noorwegen, toegediend door een officiële dierenarts tussen 24 en 120 uur voor het oversteken van de Zweedse grens.",
+          "tipIt": "Porta con te un passaporto europeo per animali da compagnia con una vaccinazione antirabbica valida da almeno 21 giorni e un microchip. La Svezia richiede inoltre un trattamento antiparassitario contro la tenia (Echinococcus) se il tuo cane entra da un paese diverso da Finlandia, Regno Unito, Irlanda, Malta o Norvegia, somministrato da un veterinario ufficiale tra 24 e 120 ore prima di attraversare il confine svedese."
         },
         {
           "category": "Leash law",
@@ -607,7 +680,8 @@
           "tipEs": "La ley nacional sueca de correa obligatoria (koppeltvång) exige que los perros lleven correa en todos los espacios al aire libre entre el 1 de marzo y el 20 de agosto, cuando las aves que anidan en el suelo y los corzos son más vulnerables. Dentro de un hundrastgård (parque canino municipal) vallado los perros pueden estar sin correa todo el año; fuera, cuenta con correa para cada paseo en Stadsparken, Stadsskogen y a lo largo del río.",
           "tipPt": "A lei nacional sueca da trela (koppeltvång) exige que os cães andem com trela em todo o lado ao ar livre entre 1 de março e 20 de agosto, quando as aves que nidificam no solo e as crias dos corços estão mais vulneráveis. Dentro de um hundrastgård vedado (parque municipal para cães), os cães podem andar sem trela todo o ano; fora disso, conte com a trela em cada passeio no Stadsparken, em Stadsskogen e ao longo do rio.",
           "tipDe": "Schwedens nationale Leinenpflicht (koppeltvång) schreibt vor, dass Hunde im Freien zwischen dem 1. März und dem 20. August überall angeleint sein müssen, wenn bodenbrütende Vögel und Rehkitze am gefährdetsten sind. Innerhalb einer eingezäunten hundrastgård (kommunaler Hundeplatz) dürfen Hunde ganzjährig ohne Leine laufen; außerhalb davon sollten Sie bei jedem Spaziergang im Stadsparken, im Stadsskogen und entlang des Flusses mit einer Leine rechnen.",
-          "tipNl": "De landelijke aanlijnplicht van Zweden (koppeltvång) schrijft voor dat honden buiten tussen 1 maart en 20 augustus overal aangelijnd moeten zijn, wanneer grondbroedende vogels en reekalfjes het kwetsbaarst zijn. Binnen een omheinde hundrastgård (gemeentelijk hondenveld) mogen honden het hele jaar door zonder lijn lopen; daarbuiten kun je bij elke wandeling in het Stadsparken, in Stadsskogen en langs de rivier rekenen op aanlijnplicht."
+          "tipNl": "De landelijke aanlijnplicht van Zweden (koppeltvång) schrijft voor dat honden buiten tussen 1 maart en 20 augustus overal aangelijnd moeten zijn, wanneer grondbroedende vogels en reekalfjes het kwetsbaarst zijn. Binnen een omheinde hundrastgård (gemeentelijk hondenveld) mogen honden het hele jaar door zonder lijn lopen; daarbuiten kun je bij elke wandeling in het Stadsparken, in Stadsskogen en langs de rivier rekenen op aanlijnplicht.",
+          "tipIt": "L'obbligo nazionale svedese di guinzaglio (koppeltvång) impone che i cani siano al guinzaglio ovunque all'aperto tra il 1 marzo e il 20 agosto, quando gli uccelli che nidificano a terra e i cuccioli di capriolo sono più vulnerabili. All'interno di una hundrastgård (parco cani comunale) recintata, i cani possono correre senza guinzaglio tutto l'anno; al di fuori, per ogni passeggiata nello Stadsparken, a Stadsskogen e lungo il fiume, metti in conto l'obbligo di guinzaglio."
         },
         {
           "category": "Bathing season",
@@ -616,15 +690,19 @@
           "tipEs": "En cualquier playa pública de Uppsala que no esté señalizada como hundbad, la práctica municipal prohíbe a los perros entrar en el agua y estar en la arena aproximadamente entre el 15 de mayo y el 15 de septiembre. Las dos excepciones claras son Storvadsbadet (zona dedicada a perros) y Fjällnora (hundbad dedicado en la orilla este). Fuera de la temporada de baño, los perros con correa son bienvenidos en la mayoría de las orillas.",
           "tipPt": "Em qualquer zona balnear pública de Uppsala que não esteja assinalada como hundbad, a prática municipal proíbe que os cães entrem na água e estejam na areia sensivelmente entre 15 de maio e 15 de setembro. As duas exceções claras são a Storvadsbadet (zona de cães designada) e Fjällnora (hundbad dedicado na margem leste). Fora da época balnear, os cães com trela são bem-vindos na maioria das margens.",
           "tipDe": "An jeder öffentlichen Badestelle in Uppsala, die nicht als hundbad ausgeschildert ist, untersagt die kommunale Praxis Hunden ungefähr zwischen dem 15. Mai und dem 15. September das Baden und den Aufenthalt am Sand. Die beiden klaren Ausnahmen sind Storvadsbadet (ausgewiesener Hundebereich) und Fjällnora (eigener hundbad am Ostufer). Außerhalb der Badesaison sind angeleinte Hunde an den meisten Ufern willkommen.",
-          "tipNl": "Bij elke openbare zwemplek in Uppsala die niet bewegwijzerd is als hundbad, verbiedt de gemeentelijke praktijk honden ongeveer tussen 15 mei en 15 september om te zwemmen of op het zand te zijn. De twee duidelijke uitzonderingen zijn Storvadsbadet (aangewezen hondengedeelte) en Fjällnora (eigen hundbad aan de oostoever). Buiten het zwemseizoen zijn aangelijnde honden welkom op de meeste oevers."
+          "tipNl": "Bij elke openbare zwemplek in Uppsala die niet bewegwijzerd is als hundbad, verbiedt de gemeentelijke praktijk honden ongeveer tussen 15 mei en 15 september om te zwemmen of op het zand te zijn. De twee duidelijke uitzonderingen zijn Storvadsbadet (aangewezen hondengedeelte) en Fjällnora (eigen hundbad aan de oostoever). Buiten het zwemseizoen zijn aangelijnde honden welkom op de meeste oevers.",
+          "tipIt": "In qualsiasi luogo di balneazione pubblico di Uppsala non segnalato come hundbad, la prassi comunale vieta ai cani di nuotare o stare sulla sabbia all'incirca tra il 15 maggio e il 15 settembre. Le due chiare eccezioni sono Storvadsbadet (zona per cani designata) e Fjällnora (hundbad proprio sulla riva orientale). Al di fuori della stagione balneare, i cani al guinzaglio sono benvenuti sulla maggior parte delle rive."
         }
       ],
       "titleDe": "Praktische Tipps für einen Besuch in Uppsala mit Hund",
       "titleNl": "Praktische tips voor een bezoek aan Uppsala met hond",
+      "titleIt": "Consigli pratici per visitare Uppsala con il cane",
       "introDe": "Schweden ist ein unkompliziertes Reiseziel für Hundebesitzer aus der EU - EU-Heimtierausweis, Mikrochip, gültige Tollwutimpfung, die mindestens 21 Tage zurückliegt, sowie eine Bandwurmbehandlung (Echinococcus), falls Sie aus einem anderen Land als Finnland, dem Vereinigten Königreich, Irland, Malta oder Norwegen einreisen. In Uppsala selbst prägen drei lokale Regeln jeden Spaziergang: das nationale Leinengebot vom 1. März bis 20. August, das ganzjährig geltende kommunale Hundeverbot während der Badesaison an nicht ausgewiesenen öffentlichen Stränden und die Kultur der Hunde an Fika-Tischen. Keine davon sollte Sie von der Reise abhalten, aber wer sie im Voraus kennt, kann ein langes Wochenende ohne Überraschungen planen.",
       "introNl": "Zweden is een eenvoudige bestemming voor hondenbezitters uit de EU: EU-dierenpaspoort, microchip, geldige rabiësvaccinatie van minstens 21 dagen oud, en een lintwormbehandeling (Echinococcus) als je binnenkomt vanuit een ander land dan Finland, het Verenigd Koninkrijk, Ierland, Malta of Noorwegen. In Uppsala zelf bepalen drie lokale regels elke wandeling: de landelijke aanlijnplicht van 1 maart tot 20 augustus, het jaarrond geldende gemeentelijke hondenverbod tijdens het zwemseizoen op niet-aangewezen openbare stranden, en de cultuur van honden aan fika-tafels. Geen van deze zou je moeten weerhouden van de reis, maar wie ze van tevoren kent, kan een lang weekend zonder verrassingen plannen.",
+      "introIt": "La Svezia è una destinazione semplice per i proprietari di cani provenienti dall'UE: passaporto europeo per animali da compagnia, microchip, vaccinazione antirabbica valida da almeno 21 giorni, e un trattamento antiparassitario contro la tenia (Echinococcus) se si entra da un paese diverso da Finlandia, Regno Unito, Irlanda, Malta o Norvegia. A Uppsala stessa, tre regole locali determinano ogni passeggiata: l'obbligo nazionale di guinzaglio dal 1 marzo al 20 agosto, il divieto comunale per i cani durante la stagione balneare sulle spiagge pubbliche non designate, valido tutto l'anno, e la cultura dei cani ai tavoli della fika. Nessuna di queste dovrebbe scoraggiare il viaggio, ma conoscerle in anticipo permette di pianificare un lungo weekend senza sorprese.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Uppsala",
@@ -666,14 +744,19 @@
           "googleMapsUrl": "https://maps.google.com/?q=Uppsala+Domkyrka",
           "descriptionDe": "Die höchste Kirche Skandinaviens (118,7 m), Sitz des Erzbischofs von Schweden und Grabstätte von Gustav Vasa und Carl Linné. Die Promenade rund um den Dom und der angrenzende Park Odinslund sind mit angeleintem Hund vollständig begehbar, und der Blick zurück über den Fluss auf die Stadt gehört zu den schönsten im Land. Das Innere des Doms ist hundefrei, mit Ausnahme von Diensthunden.",
           "descriptionNl": "De hoogste kerk van Scandinavië (118,7 m), zetel van de aartsbisschop van Zweden en rustplaats van Gustav Vasa en Carl Linnaeus. De promenade rond de kathedraal en het aangrenzende park Odinslund zijn volledig begaanbaar met aangelijnde hond, en het uitzicht terug over de rivier naar de stad behoort tot de mooiste van het land. Het interieur van de kathedraal is hondenvrij, met uitzondering van assistentiehonden.",
+          "descriptionIt": "La chiesa più alta della Scandinavia (118,7 m), sede dell'arcivescovo di Svezia e luogo di sepoltura di Gustav Vasa e Carl Linneo. La passeggiata intorno alla cattedrale e il parco adiacente Odinslund sono interamente percorribili con il cane al guinzaglio, e la vista sul fiume verso la città è tra le più belle del paese. L'interno della cattedrale non ammette cani, ad eccezione dei cani da assistenza.",
           "durationDe": "30-45 Minuten für die Runde um Domplatz und Park",
           "durationNl": "30-45 minuten voor de rondgang over Domplatsen en het park",
+          "durationIt": "30-45 minuti per il giro di Domplatsen e del parco",
           "openingHoursDe": "Außenbereich rund um die Uhr zugänglich; Innenraum täglich 08:00-18:00 Uhr (keine Hunde im Innenraum)",
           "openingHoursNl": "Buitenterrein dag en nacht toegankelijk; interieur dagelijks 08:00-18:00 uur (geen honden binnen)",
+          "openingHoursIt": "Area esterna accessibile giorno e notte; interno tutti i giorni 08:00-18:00 (nessun cane all'interno)",
           "petPolicyDe": "Angeleinte Hunde auf allen Außenwegen willkommen; im Kirchenschiff nicht erlaubt",
           "petPolicyNl": "Aangelijnde honden welkom op alle buitenpaden; niet toegestaan in het kerkschip",
+          "petPolicyIt": "Cani al guinzaglio benvenuti su tutti i sentieri esterni; non ammessi nella navata della chiesa",
           "tipDe": "Wenn Sie allein mit Hund unterwegs sind und trotzdem hinein möchten: Das Café am Dom hat eine überdachte Terrasse, auf der Sie Ihren Hund für zehn Minuten in Sichtweite der Tür anbinden können.",
-          "tipNl": "Ben je alleen met je hond en wil je toch naar binnen: het café bij de kathedraal heeft een overdekt terras waar je je hond tien minuten kunt vastmaken in het zicht van de deur."
+          "tipNl": "Ben je alleen met je hond en wil je toch naar binnen: het café bij de kathedraal heeft een overdekt terras waar je je hond tien minuten kunt vastmaken in het zicht van de deur.",
+          "tipIt": "Se sei da solo con il tuo cane e vuoi comunque entrare: il caffè vicino alla cattedrale ha una terrazza coperta dove puoi legare il cane per dieci minuti a vista della porta."
         },
         {
           "name": "Gamla Uppsala",
@@ -705,14 +788,19 @@
           "googleMapsUrl": "https://maps.google.com/?q=Gamla+Uppsala+kyrka",
           "descriptionDe": "Eine der legendärsten archäologischen Stätten Schwedens und das spirituelle Zentrum der vorchristlichen Wikingerwelt. Drei gewaltige königliche Grabhügel - laut mittelalterlichen Chroniken die Ruhestätten der Götter Thor, Odin und Frey - erheben sich aus einer flachen Ebene rund um eine Kirche aus dem 11. Jahrhundert. Das 250 Hektar große Gelände ist offenes Land, durchzogen von gemähten Wegen, ideal für einen langen Spaziergang an der Leine; im Sommer weiden Schafe an den Hügelhängen.",
           "descriptionNl": "Een van de legendarischste archeologische vindplaatsen van Zweden en het spirituele centrum van de voorchristelijke Vikingwereld. Drie enorme koninklijke grafheuvels, volgens middeleeuwse kronieken de rustplaatsen van de goden Thor, Odin en Freyr, rijzen op uit een vlakke vlakte rond een kerk uit de 11e eeuw. Het 250 hectare grote terrein is open land, doorkruist door gemaaide paden, ideaal voor een lange wandeling aan de lijn; in de zomer grazen er schapen op de hellingen van de heuvels.",
+          "descriptionIt": "Uno dei siti archeologici più leggendari di Svezia e il centro spirituale del mondo vichingo precristiano. Tre enormi tumuli funerari reali, secondo le cronache medievali i luoghi di riposo degli dei Thor, Odino e Frey, si ergono da una pianura piatta intorno a una chiesa dell'XI secolo. L'area di 250 ettari è terreno aperto, attraversato da sentieri falciati, ideale per una lunga passeggiata al guinzaglio; d'estate le pecore pascolano sui pendii dei tumuli.",
           "durationDe": "60-90 Minuten für den Hügelpfad; 45 Minuten zusätzlich für das Museum",
           "durationNl": "60-90 minuten voor het heuvelpad; 45 minuten extra voor het museum",
+          "durationIt": "60-90 minuti per il sentiero dei tumuli; 45 minuti extra per il museo",
           "openingHoursDe": "Hügel und Wege rund um die Uhr geöffnet; Museum Di-So 10:00-17:00 Uhr (kein Zutritt für Hunde)",
           "openingHoursNl": "Heuvels en paden dag en nacht open; museum di-zo 10:00-17:00 uur (geen toegang voor honden)",
+          "openingHoursIt": "Tumuli e sentieri aperti giorno e notte; museo mar-dom 10:00-17:00 (nessun accesso per i cani)",
           "petPolicyDe": "Angeleinte Hunde auf allen Außenwegen und rund um die Kirche willkommen; Hunde dürfen die weidenden Schafe nicht stören",
           "petPolicyNl": "Aangelijnde honden welkom op alle buitenpaden en rond de kerk; honden mogen de grazende schapen niet storen",
+          "petPolicyIt": "Cani al guinzaglio benvenuti su tutti i sentieri esterni e intorno alla chiesa; i cani non devono disturbare le pecore al pascolo",
           "tipDe": "UL-Bus 2 fährt alle 10 Minuten vom Stora Torget direkt zur Gamla Uppsala kyrka, Hunde fahren kostenlos im hinteren Teil des Busses mit. Kombinieren Sie den Ausflug mit Storvadsbadet, 2 km nördlich, für einen kompletten halben Tag mit Hund.",
-          "tipNl": "UL-bus 2 rijdt elke 10 minuten vanaf het Stora Torget rechtstreeks naar de Gamla Uppsala kyrka, honden reizen gratis mee achterin de bus. Combineer het uitje met Storvadsbadet, 2 km noordelijk, voor een complete halve dag met hond."
+          "tipNl": "UL-bus 2 rijdt elke 10 minuten vanaf het Stora Torget rechtstreeks naar de Gamla Uppsala kyrka, honden reizen gratis mee achterin de bus. Combineer het uitje met Storvadsbadet, 2 km noordelijk, voor een complete halve dag met hond.",
+          "tipIt": "L'autobus UL 2 parte ogni 10 minuti dalla Stora Torget direttamente per la Gamla Uppsala kyrka, i cani viaggiano gratis nella parte posteriore dell'autobus. Abbina la gita a Storvadsbadet, 2 km più a nord, per una mezza giornata completa con il cane."
         },
         {
           "name": "Botaniska trädgården",
@@ -744,22 +832,30 @@
           "googleMapsUrl": "https://maps.google.com/?q=Botaniska+tr%C3%A4dg%C3%A5rden+Uppsala",
           "descriptionDe": "Der Hauptbotanische Garten der Universität Uppsala, im 17. Jahrhundert gegründet, mit einem prächtigen barocken Parterre, einer 200 Jahre alten Orangerie, einem tropischen Gewächshaus und rund 9.000 Pflanzenarten. Angeleinte Hunde sind in den Außenanlagen und auf den Wegen willkommen; nur Diensthunde dürfen in die Gewächshäuser und die Orangerie. Die Lage direkt hinter dem Uppsala-Schloss macht ihn zum schönsten 45-minütigen Grünstopp, den man mit einem Spaziergang über den Schlosshügel verbinden kann.",
           "descriptionNl": "De hoofdbotanische tuin van de Universiteit Uppsala, opgericht in de 17e eeuw, met een prachtig barok parterre, een 200 jaar oude oranjerie, een tropische kas en zo'n 9.000 plantensoorten. Aangelijnde honden zijn welkom in de buitenaanleg en op de paden; alleen assistentiehonden mogen de kassen en de oranjerie in. De ligging direct achter het kasteel van Uppsala maakt het de mooiste groene stop van 45 minuten, te combineren met een wandeling over de kasteelheuvel.",
+          "descriptionIt": "Il giardino botanico principale dell'Università di Uppsala, fondato nel XVII secolo, con un magnifico parterre barocco, un'aranciera di 200 anni, una serra tropicale e circa 9.000 specie vegetali. I cani al guinzaglio sono benvenuti nei giardini esterni e sui sentieri; solo i cani da assistenza possono entrare nelle serre e nell'aranciera. La posizione appena dietro il castello di Uppsala ne fa la più bella sosta verde di 45 minuti, da abbinare a una passeggiata sulla collina del castello.",
           "durationDe": "45-60 Minuten für die Außenanlagen",
           "durationNl": "45-60 minuten voor de buitenaanleg",
+          "durationIt": "45-60 minuti per i giardini esterni",
           "openingHoursDe": "Außenanlagen täglich geöffnet 07:00-21:00 Uhr (Mai-September) / 07:00-17:00 Uhr (Oktober-April); Gewächshäuser 11:00-16:00 Uhr",
           "openingHoursNl": "Buitenaanleg dagelijks open 07:00-21:00 uur (mei-september) / 07:00-17:00 uur (oktober-april); kassen 11:00-16:00 uur",
+          "openingHoursIt": "Giardini esterni aperti tutti i giorni 07:00-21:00 (maggio-settembre) / 07:00-17:00 (ottobre-aprile); serre 11:00-16:00",
           "petPolicyDe": "Angeleinte Hunde in den Außenanlagen willkommen; Hunde dürfen sich nicht auf den Beeten lösen; in den Gewächshäusern nur Diensthunde",
           "petPolicyNl": "Aangelijnde honden welkom in de buitenaanleg; honden mogen zich niet ontlasten op de border; in de kassen alleen assistentiehonden",
+          "petPolicyIt": "Cani al guinzaglio benvenuti nei giardini esterni; i cani non devono fare i bisogni nelle aiuole; nelle serre solo cani da assistenza",
           "tipDe": "Das barocke Parterre steht von Mitte Juni bis Anfang August in voller Blüte. Eintritt in den Garten frei; für die Gewächshäuser wird eine kleine Gebühr erhoben, Hunde sind dort nicht zugelassen.",
-          "tipNl": "Het barokke parterre staat van half juni tot begin augustus in volle bloei. Toegang tot de tuin is gratis; voor de kassen wordt een kleine bijdrage gevraagd, honden zijn daar niet toegestaan."
+          "tipNl": "Het barokke parterre staat van half juni tot begin augustus in volle bloei. Toegang tot de tuin is gratis; voor de kassen wordt een kleine bijdrage gevraagd, honden zijn daar niet toegestaan.",
+          "tipIt": "Il parterre barocco è in piena fioritura da metà giugno a inizio agosto. L'accesso al giardino è gratuito; per le serre è richiesto un piccolo contributo, dove i cani non sono ammessi."
         }
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Uppsala",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Uppsala",
+      "titleIt": "Attrazioni a misura di cane a Uppsala",
       "introDe": "Die meisten der bekanntesten Sehenswürdigkeiten Uppsalas lassen sich mit einem angeleinten Hund genießen. Der Domplatz und der Schlosshügel bieten zugängliche grüne Spaziergänge; der Botanische Garten erlaubt angeleinte Hunde in den Außenanlagen (in den Gewächshäusern nur Diensthunde); und die königlichen Grabhügel von Gamla Uppsala - eine der legendärsten archäologischen Stätten Schwedens - liegen vollständig im Freien und sind hundefreundlich. Die Museen selbst sind in der Regel hundefrei, aber der kompakte Aufbau Uppsalas bedeutet, dass Sie sich mit einem Partner immer abwechseln können, wenn Sie das Linné-Haus oder das Domschiff von innen sehen möchten.",
       "introNl": "De meeste bekende bezienswaardigheden van Uppsala zijn te genieten met een aangelijnde hond. Domplatsen en de kasteelheuvel bieden toegankelijke groene wandelingen; de botanische tuin laat aangelijnde honden toe in de buitenaanleg (in de kassen alleen assistentiehonden); en de koninklijke grafheuvels van Gamla Uppsala, een van de legendarischste archeologische vindplaatsen van Zweden, liggen volledig buiten en zijn hondvriendelijk. De musea zelf zijn doorgaans hondenvrij, maar de compacte opzet van Uppsala betekent dat je met een partner altijd kunt afwisselen als je het Linnaeushuis of het kerkschip van binnen wilt zien.",
+      "introIt": "La maggior parte delle famose attrazioni di Uppsala si possono godere con un cane al guinzaglio. Domplatsen e la collina del castello offrono passeggiate verdi accessibili; il giardino botanico ammette cani al guinzaglio nei giardini esterni (nelle serre solo cani da assistenza); e i tumuli funerari reali di Gamla Uppsala, uno dei siti archeologici più leggendari di Svezia, si trovano interamente all'aperto e sono a misura di cane. I musei stessi generalmente non ammettono cani, ma la struttura compatta di Uppsala significa che con un compagno di viaggio puoi sempre fare a turno se vuoi vedere l'interno della casa di Linneo o della navata della chiesa.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Walking in Uppsala",
@@ -794,10 +890,13 @@
           "tip": "Book at least 48 hours ahead in summer - university holidays from June through August see the highest demand from Uppsala residents themselves.",
           "servicesDe": "Tagesbetreuung, Übernachtungsbetreuung, Gassi-Service, Hausbesuche, Tagesstätte",
           "servicesNl": "Dagopvang, logeeropvang, uitlaatservice, huisbezoeken, dagverblijf",
+          "servicesIt": "Asilo diurno, pensione notturna, servizio di passeggiate, visite a domicilio, soggiorno diurno",
           "priceRangeDe": "kr-kr-kr",
           "priceRangeNl": "kr-kr-kr",
+          "priceRangeIt": "kr-kr-kr",
           "descriptionDe": "Pawshake ist die führende nordische Plattform für Haustierbetreuung mit Tausenden verifizierten Profilen in ganz Schweden. Der Raum Uppsala verfügt über ein stetiges Angebot an Sittern in Centrum, Luthagen, Sunnersta und dem Geschäftsviertel Boländerna. Jede Buchung umfasst die Pawshake-Versicherung, In-App-Nachrichten, Fotoupdates vom Sitter und ein Kennenlerntreffen vor dem Aufenthalt. Die meisten Sitter in Uppsala sprechen auch Englisch, das ist die Standardsprache für Sitter mit Touristen.",
-          "descriptionNl": "Pawshake is het toonaangevende Scandinavische platform voor huisdierenoppas met duizenden geverifieerde profielen door heel Zweden. De regio Uppsala heeft een gestaag aanbod van oppassers in Centrum, Luthagen, Sunnersta en de zakenwijk Boländerna. Elke boeking omvat de Pawshake-verzekering, in-app-berichten, foto-updates van de oppasser en een kennismakingsafspraak voor het verblijf. De meeste oppassers in Uppsala spreken ook Engels, dat is de standaardtaal voor oppassers met toeristen."
+          "descriptionNl": "Pawshake is het toonaangevende Scandinavische platform voor huisdierenoppas met duizenden geverifieerde profielen door heel Zweden. De regio Uppsala heeft een gestaag aanbod van oppassers in Centrum, Luthagen, Sunnersta en de zakenwijk Boländerna. Elke boeking omvat de Pawshake-verzekering, in-app-berichten, foto-updates van de oppasser en een kennismakingsafspraak voor het verblijf. De meeste oppassers in Uppsala spreken ook Engels, dat is de standaardtaal voor oppassers met toeristen.",
+          "descriptionIt": "Pawshake è la principale piattaforma scandinava per la cura degli animali, con migliaia di profili verificati in tutta la Svezia. La regione di Uppsala ha un'offerta costante di pet sitter a Centrum, Luthagen, Sunnersta e nel quartiere commerciale di Boländerna. Ogni prenotazione include l'assicurazione Pawshake, la messaggistica in-app, aggiornamenti fotografici dal pet sitter e un incontro conoscitivo prima del soggiorno. La maggior parte dei pet sitter a Uppsala parla anche inglese, che è la lingua standard per i pet sitter con i turisti."
         },
         {
           "name": "Holidog Uppsala",
@@ -822,10 +921,13 @@
           "tip": "Holidog requires the owner membership before booking - if you only need one stay, Pawshake's pay-per-booking model is usually more economical.",
           "servicesDe": "Betreuung, Gassi-Service, Tagesstätte, Haussitting",
           "servicesNl": "Oppas, uitlaatservice, dagverblijf, huisoppas",
+          "servicesIt": "Pet sitting, servizio di passeggiate, soggiorno diurno, custodia a domicilio",
           "priceRangeDe": "kr-kr-kr",
           "priceRangeNl": "kr-kr-kr",
+          "priceRangeIt": "kr-kr-kr",
           "descriptionDe": "Holidog betreibt einen landesweiten schwedischen Marktplatz, auf dem Halter eine kleine Mitgliedsgebühr zahlen und dafür unbegrenzt mit geprüften Sittern vermittelt werden. Das Angebot in Uppsala ist kleiner als bei Pawshake, aber die Profile stammen tendenziell von erfahreneren, hauptberuflichen Sittern. Jede Buchung beinhaltet eine tierärztliche Versicherung und 24-Stunden-Unterstützung. Eine nützliche Alternative, wenn Pawshake an einem stark nachgefragten Wochenende ausgebucht ist.",
-          "descriptionNl": "Holidog runt een landelijk Zweeds marktplatform waar baasjes een kleine lidmaatschapsbijdrage betalen en daarvoor onbeperkt gekoppeld worden aan gescreende oppassers. Het aanbod in Uppsala is kleiner dan bij Pawshake, maar de profielen komen doorgaans van ervarener, fulltime oppassers. Elke boeking omvat een dierenartsverzekering en 24-uursondersteuning. Een handig alternatief als Pawshake volgeboekt is op een druk weekend."
+          "descriptionNl": "Holidog runt een landelijk Zweeds marktplatform waar baasjes een kleine lidmaatschapsbijdrage betalen en daarvoor onbeperkt gekoppeld worden aan gescreende oppassers. Het aanbod in Uppsala is kleiner dan bij Pawshake, maar de profielen komen doorgaans van ervarener, fulltime oppassers. Elke boeking omvat een dierenartsverzekering en 24-uursondersteuning. Een handig alternatief als Pawshake volgeboekt is op een druk weekend.",
+          "descriptionIt": "Holidog gestisce una piattaforma di mercato nazionale svedese dove i padroni pagano una piccola quota di iscrizione e in cambio vengono messi in contatto illimitatamente con pet sitter selezionati. L'offerta a Uppsala è più piccola rispetto a Pawshake, ma i profili provengono generalmente da pet sitter più esperti e a tempo pieno. Ogni prenotazione include un'assicurazione veterinaria e assistenza 24 ore su 24. Un'alternativa utile se Pawshake è al completo in un weekend affollato."
         },
         {
           "name": "Rover Uppsala",
@@ -850,18 +952,24 @@
           "tip": "Cross-check the same sitter on Pawshake and Rover before booking - many active Uppsala sitters maintain profiles on both platforms and rates can differ by 10–15%.",
           "servicesDe": "Gassi-Service, Kurzbesuche, Betreuung, Tagesstätte",
           "servicesNl": "Uitlaatservice, korte bezoekjes, oppas, dagverblijf",
+          "servicesIt": "Servizio di passeggiate, brevi visite, pet sitting, soggiorno diurno",
           "priceRangeDe": "kr-kr-kr",
           "priceRangeNl": "kr-kr-kr",
+          "priceRangeIt": "kr-kr-kr",
           "descriptionDe": "Rover, die weltweit größte Plattform für Haustierbetreuung, hat in Uppsala eine kleinere, aber wachsende Präsenz. Nützlich, wenn Sie bereits ein Rover-Konto aus einem anderen Land haben und lieber bei einer App bleiben möchten. Die Profile konzentrieren sich auf Centrum und Eriksberg; in Sävja und Stenhagen ist die Abdeckung dünner. Die Rover-Garantie deckt Tierarztkosten bis zu einer festgelegten Obergrenze im Falle eines Zwischenfalls während des Aufenthalts.",
-          "descriptionNl": "Rover, het wereldwijd grootste platform voor huisdierenoppas, heeft in Uppsala een kleinere, maar groeiende aanwezigheid. Handig als je al een Rover-account uit een ander land hebt en liever bij één app blijft. De profielen concentreren zich op Centrum en Eriksberg; in Sävja en Stenhagen is de dekking dunner. De Rover-garantie dekt dierenartskosten tot een vastgesteld maximum in geval van een incident tijdens het verblijf."
+          "descriptionNl": "Rover, het wereldwijd grootste platform voor huisdierenoppas, heeft in Uppsala een kleinere, maar groeiende aanwezigheid. Handig als je al een Rover-account uit een ander land hebt en liever bij één app blijft. De profielen concentreren zich op Centrum en Eriksberg; in Sävja en Stenhagen is de dekking dunner. De Rover-garantie dekt dierenartskosten tot een vastgesteld maximum in geval van een incident tijdens het verblijf.",
+          "descriptionIt": "Rover, la più grande piattaforma al mondo per la cura degli animali, ha a Uppsala una presenza più piccola ma in crescita. Utile se hai già un account Rover da un altro paese e preferisci restare su un'unica app. I profili si concentrano su Centrum ed Eriksberg; a Sävja e Stenhagen la copertura è più scarsa. La garanzia Rover copre le spese veterinarie fino a un massimo prestabilito in caso di incidente durante il soggiorno."
         }
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Uppsala",
       "titleNl": "Huisdierenoppas & uitlaatservice in Uppsala",
+      "titleIt": "Cura degli animali e servizio di passeggiate a Uppsala",
       "introDe": "Uppsala hat eine aktive Sitter-Community, die von denselben nordischen Plattformen bedient wird, die die meisten Reisenden bereits kennen. Pawshake ist das größte spezialisierte Netzwerk in Schweden, mit verifizierten Profilen, In-App-Buchung, Identitätsprüfung und inklusive Versicherung. Holidog betreibt in Schweden einen mitgliedschaftsbasierten Marktplatz, während Rover in Uppsala neben dem lokalen Netzwerk Tassen eine kleinere, aber wachsende Präsenz hat. Alle drei sprechen Englisch und haben Profile innerhalb von 15 Autominuten vom Stadtzentrum - nützlich, wenn Sie den Dom oder das Linné-Museum ohne Hund besichtigen möchten.",
       "introNl": "Uppsala heeft een actieve oppassersgemeenschap, bediend door dezelfde Scandinavische platforms die de meeste reizigers al kennen. Pawshake is het grootste gespecialiseerde netwerk in Zweden, met geverifieerde profielen, in-app-boeking, identiteitscontrole en inbegrepen verzekering. Holidog runt in Zweden een lidmaatschapsgebaseerd marktplatform, terwijl Rover in Uppsala naast het lokale netwerk Tassen een kleinere, maar groeiende aanwezigheid heeft. Alle drie spreken Engels en hebben profielen binnen 15 autominuten van het stadscentrum, handig als je de kathedraal of het Linnaeusmuseum zonder hond wilt bezoeken.",
+      "introIt": "Uppsala ha una comunità attiva di pet sitter, servita dalle stesse piattaforme scandinave che la maggior parte dei viaggiatori già conosce. Pawshake è la rete specializzata più grande in Svezia, con profili verificati, prenotazione in-app, controllo dell'identità e assicurazione inclusa. Holidog gestisce in Svezia una piattaforma di mercato basata su iscrizione, mentre Rover a Uppsala, oltre alla rete locale Tassen, ha una presenza più piccola ma in crescita. Tutte e tre parlano inglese e hanno profili entro 15 minuti d'auto dal centro città, utile se vuoi visitare la cattedrale o il museo di Linneo senza il cane.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     }
   }
 }

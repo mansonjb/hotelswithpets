@@ -40,12 +40,16 @@
           "tipPt": "As mesas da Voorstraat dão para um troço tranquilo do canal, junte o almoço a um passeio até ao Domplein.",
           "descriptionDe": "Ein Bio-Bistro mit Schwerpunkt auf pflanzlichen Gerichten an der belebten Voorstraat im Herzen der Altstadt, weithin als eine der zuverlässigsten hundefreundlichen Adressen im Zentrum von Utrecht genannt. Hunde sind an den Tischen auf dem Gehweg und im warmen, gemütlichen Speisesaal willkommen, und die Küche setzt auf lokal bezogenes Gemüse, Bio-Fleisch und eine kurze, preiswerte Weinkarte.",
           "descriptionNl": "Een biologisch bistro met focus op plantaardige gerechten aan de drukke Voorstraat in het hart van de binnenstad, veelvuldig genoemd als een van de betrouwbaarste hondvriendelijke adressen in het centrum van Utrecht. Honden zijn welkom aan de tafels op de stoep en in de warme, gezellige eetzaal, en de keuken zet in op lokaal geteelde groenten, biologisch vlees en een korte, betaalbare wijnkaart.",
+          "descriptionIt": "Un bistrot biologico specializzato in piatti a base vegetale sulla trafficata Voorstraat nel cuore del centro storico, spesso citato come uno degli indirizzi a misura di cane più affidabili nel centro di Utrecht. I cani sono benvenuti ai tavoli sul marciapiede e nella calda e accogliente sala da pranzo, e la cucina punta su verdure coltivate localmente, carne biologica e una carta dei vini corta e conveniente.",
           "petPolicyDe": "Hunde drinnen und an den Gehwegtischen willkommen",
           "petPolicyNl": "Honden welkom binnen en aan de stoeptafels",
+          "petPolicyIt": "Cani benvenuti all'interno e ai tavoli sul marciapiede",
           "mustTryDe": "Wildpilz-Risotto, Bio-Burger, Tagesgericht mit Pflanzenkost",
           "mustTryNl": "Wilde paddenstoelenrisotto, biologische burger, dagschotel met plantaardige kost",
+          "mustTryIt": "Risotto ai funghi selvatici, burger biologico, piatto del giorno a base vegetale",
           "tipDe": "Die Tische an der Voorstraat blicken auf einen ruhigen Grachtenabschnitt, kombinieren Sie das Mittagessen mit einem Spaziergang zum Domplein.",
-          "tipNl": "De tafels aan de Voorstraat kijken uit op een rustig grachtdeel, combineer de lunch met een wandeling naar het Domplein."
+          "tipNl": "De tafels aan de Voorstraat kijken uit op een rustig grachtdeel, combineer de lunch met een wandeling naar het Domplein.",
+          "tipIt": "I tavoli sulla Voorstraat si affacciano su un tratto tranquillo del canale, abbina il pranzo a una passeggiata verso il Domplein."
         },
         {
           "name": "The Colour Kitchen Zuilen",
@@ -74,12 +78,16 @@
           "tipPt": "Combine com um passeio sem trela de 30 minutos no Maximapark antes do almoço, o elétrico 22 para à porta.",
           "descriptionDe": "Ein Sozialunternehmen-Restaurant im grünen Gelände des Park Zuilen mit einer großzügigen Hofterrasse, auf der Hunde ausdrücklich willkommen sind. Die Küche serviert eine saisonale niederländisch-mediterrane Speisekarte, und das Projekt bildet Menschen für den Wiedereinstieg ins Berufsleben aus, sodass das Personal entspannt und geduldig mit Hunden und Familien umgeht. Ein guter Mittagsstopp nach einem Spaziergang im Maximapark, wenige Stationen entfernt mit der Straßenbahn.",
           "descriptionNl": "Een sociaal-ondernemersrestaurant op het groene terrein van Park Zuilen met een royaal binnenplaatsterras, waar honden nadrukkelijk welkom zijn. De keuken serveert een seizoensgebonden Nederlands-mediterrane kaart, en het project leidt mensen op voor herintreding op de arbeidsmarkt, waardoor het personeel ontspannen en geduldig omgaat met honden en gezinnen. Een goede lunchstop na een wandeling in het Máximapark, een paar haltes verderop met de tram.",
+          "descriptionIt": "Un ristorante di impresa sociale nel verde del Park Zuilen con un'ampia terrazza nel cortile, dove i cani sono espressamente benvenuti. La cucina propone un menu stagionale olandese-mediterraneo, e il progetto forma persone per il reinserimento nel mercato del lavoro, per cui il personale è rilassato e paziente con cani e famiglie. Un'ottima sosta pranzo dopo una passeggiata nel Máximapark, a poche fermate di tram di distanza.",
           "petPolicyDe": "Hunde auf der Terrasse willkommen; drinnen bitte nachfragen",
           "petPolicyNl": "Honden welkom op het terras; vraag binnen even na",
+          "petPolicyIt": "Cani benvenuti in terrazza; chiedi conferma per l'interno",
           "mustTryDe": "Saisonaler Mittagsteller, Suppe des Tages, Pavlova",
           "mustTryNl": "Seizoenslunchgerecht, soep van de dag, pavlova",
+          "mustTryIt": "Piatto pranzo stagionale, zuppa del giorno, pavlova",
           "tipDe": "Kombinieren Sie es mit einem 30-minütigen leinenfreien Spaziergang im Maximapark vor dem Mittagessen, die Straßenbahnlinie 22 hält direkt vor der Tür.",
-          "tipNl": "Combineer het met een wandeling van 30 minuten zonder lijn in het Máximapark voor de lunch, tramlijn 22 stopt vlak voor de deur."
+          "tipNl": "Combineer het met een wandeling van 30 minuten zonder lijn in het Máximapark voor de lunch, tramlijn 22 stopt vlak voor de deur.",
+          "tipIt": "Abbinalo a una passeggiata di 30 minuti senza guinzaglio nel Máximapark prima del pranzo, la linea del tram 22 ferma proprio davanti alla porta."
         },
         {
           "name": "Dagger Coffee",
@@ -108,22 +116,29 @@
           "tipPt": "Sente-se do lado da água e siga para sul ao longo do Vecht para um circuito ribeirinho plano com trela de 20 minutos depois do café.",
           "descriptionDe": "Eine Specialty-Coffee-Bar an der Vecht-Seite Lauwerecht mit Innen- und Außenplätzen am Wasser, in lokalen Führern wiederholt als führendes hundefreundliches Café genannt. Hunde sind auf dem Gehweg und drinnen willkommen, Wasser steht an der Theke bereit, und die Karte bietet Filterkaffee der dritten Welle, Gebäck und saisonale Toasts. Ein natürlicher Koffeinstopp auf dem Weg zu oder von einem Spaziergang am Vechtoever.",
           "descriptionNl": "Een specialty-coffeebar aan de Vechtoever Lauwerecht met binnen- en buitenplekken aan het water, in lokale gidsen herhaaldelijk genoemd als toonaangevend hondvriendelijk café. Honden zijn welkom op de stoep en binnen, water staat klaar bij de bar, en de kaart biedt derde-golf-filterkoffie, gebak en seizoenstoasts. Een natuurlijke cafeïnestop op weg naar of van een wandeling langs de Vechtoever.",
+          "descriptionIt": "Un bar di caffè specialty sulla riva della Vecht a Lauwerecht con posti dentro e fuori sull'acqua, citato più volte nelle guide locali come caffè a misura di cane di riferimento. I cani sono benvenuti sul marciapiede e all'interno, l'acqua è pronta al bancone, e il menu offre caffè filtro di terza ondata, dolci e toast stagionali. Una sosta naturale per la caffeina prima o dopo una passeggiata lungo la riva della Vecht.",
           "petPolicyDe": "Hunde drinnen und im Außenbereich willkommen",
           "petPolicyNl": "Honden welkom binnen en buiten",
+          "petPolicyIt": "Cani benvenuti dentro e fuori",
           "mustTryDe": "Filterkaffee, Mandelcroissant, saisonaler Sauerteig-Toast",
           "mustTryNl": "Filterkoffie, amandelcroissant, seizoenstoast met zuurdesem",
+          "mustTryIt": "Caffè filtro, croissant alle mandorle, toast stagionale di pasta madre",
           "tipDe": "Setzen Sie sich auf die Wasserseite und gehen Sie nach dem Kaffee südwärts entlang der Vecht für eine flache, 20-minütige Flussrunde an der Leine.",
-          "tipNl": "Ga aan de waterkant zitten en loop na de koffie zuidwaarts langs de Vecht voor een vlak rondje van 20 minuten aan de lijn."
+          "tipNl": "Ga aan de waterkant zitten en loop na de koffie zuidwaarts langs de Vecht voor een vlak rondje van 20 minuten aan de lijn.",
+          "tipIt": "Siediti vicino all'acqua e dopo il caffè cammina verso sud lungo la Vecht per un giro pianeggiante di 20 minuti al guinzaglio."
         }
       ],
       "titlePt": "Restaurantes Pet-Friendly em Utrecht",
       "introPt": "A cena de cafés e restaurantes de Utrecht é esmagadoramente acolhedora para cães, com a placa neerlandesa 'honden welkom' habitual nas esplanadas por todo o Oudegracht e até aos bairros junto ao Vecht. A maioria das cozinhas tem taças de água para os clientes a pedido, e os habitantes locais costumam instalar-se com um cão debaixo da mesa para um almoço demorado. Os três locais abaixo são fiáveis durante todo o ano, com moradas verificadas e uma forte adesão entre os donos de cães de Utrecht.",
       "titleDe": "Hundefreundliche Restaurants in Utrecht",
       "titleNl": "Hondvriendelijke restaurants in Utrecht",
+      "titleIt": "Ristoranti a misura di cane a Utrecht",
       "introDe": "Die Café- und Restaurantszene in Utrecht ist überwiegend hundefreundlich, mit dem niederländischen Schild „honden welkom“ als Standard auf den Terrassen entlang der gesamten Oudegracht bis hinaus in die Viertel am Vecht. Die meisten Küchen halten auf Wunsch Wassernäpfe für Gäste bereit, und Einheimische lassen sich regelmäßig mit Hund unter dem Tisch zu einem langen Mittagessen nieder. Die drei folgenden Adressen sind das ganze Jahr über zuverlässig, mit verifizierten Adressen und einer treuen Anhängerschaft unter Utrechter Hundehaltern.",
       "introNl": "De café- en restaurantscene in Utrecht is overwegend hondvriendelijk, met het bordje 'honden welkom' als standaard op de terrassen langs de hele Oudegracht tot in de wijken aan de Vecht. De meeste keukens houden op verzoek waterbakjes klaar voor gasten, en locals nestelen zich regelmatig met hun hond onder de tafel voor een lange lunch. De drie onderstaande adressen zijn het hele jaar door betrouwbaar, met geverifieerde adressen en een trouwe aanhang onder Utrechtse hondenbezitters.",
+      "introIt": "La scena dei caffè e ristoranti a Utrecht è prevalentemente a misura di cane, con il cartello \"cani benvenuti\" come standard sulle terrazze lungo tutta la Oudegracht fino ai quartieri sulla Vecht. La maggior parte delle cucine tiene pronte ciotole d'acqua su richiesta per gli ospiti, e i residenti si sistemano regolarmente con il loro cane sotto il tavolo per un lungo pranzo. I tre indirizzi qui sotto sono affidabili tutto l'anno, con indirizzi verificati e un seguito fedele tra i proprietari di cani di Utrecht.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "parks": {
       "titleEn": "Best Parks for Dogs in Utrecht",
@@ -162,12 +177,16 @@
           "tipPt": "Estacione na entrada de Vlinderhof e siga para leste, os campos sem trela e o lago de banho estão assinalados a 5 minutos a pé.",
           "descriptionDe": "Mit rund 300 Hektar ist der Máximapark in Leidsche Rijn der größte Park Utrechts und das wichtigste leinenfreie Ziel der Stadt, mit mehreren ausgeschilderten losloopgebieden, Schwimmstellen und einer flachen 10-km-Runde um den Rand. Der Park bietet ausreichend Schatten für Sommerspaziergänge, und die leinenfreien Flächen sind groß genug für sicheres Rückruf-Training.",
           "descriptionNl": "Met ongeveer 300 hectare is het Máximapark in Leidsche Rijn het grootste park van Utrecht en de belangrijkste loslopbestemming van de stad, met meerdere aangewezen losloopgebieden, zwemplekken en een vlak rondje van 10 km langs de rand. Het park biedt voldoende schaduw voor zomerwandelingen, en de loslopgebieden zijn groot genoeg voor veilige aanleertraining.",
+          "descriptionIt": "Con circa 300 ettari, il Máximapark a Leidsche Rijn è il parco più grande di Utrecht e la principale destinazione per lo sgambamento libero della città, con diverse aree di sgambamento designate, punti di balneazione e un anello pianeggiante di 10 km lungo il perimetro. Il parco offre ombra sufficiente per le passeggiate estive, e le aree di sgambamento sono abbastanza grandi per un addestramento sicuro al richiamo.",
           "sizeDe": "≈ 300 Hektar",
           "sizeNl": "≈ 300 hectare",
+          "sizeIt": "≈ 300 ettari",
           "amenitiesDe": "Mehrere leinenfreie Flächen, Schwimmstellen, Café, 10-km-Rundweg",
           "amenitiesNl": "Meerdere losloopgebieden, zwemplekken, café, rondweg van 10 km",
+          "amenitiesIt": "Diverse aree di sgambamento libero, punti di balneazione, caffè, anello di 10 km",
           "tipDe": "Parken Sie am Eingang Vlinderhof und gehen Sie nach Osten, die leinenfreien Flächen und der Badeteich sind innerhalb von 5 Gehminuten ausgeschildert.",
-          "tipNl": "Parkeer bij de ingang Vlinderhof en loop oostwaarts, de losloopgebieden en de zwemvijver zijn binnen 5 minuten lopen bewegwijzerd."
+          "tipNl": "Parkeer bij de ingang Vlinderhof en loop oostwaarts, de losloopgebieden en de zwemvijver zijn binnen 5 minuten lopen bewegwijzerd.",
+          "tipIt": "Parcheggia all'ingresso Vlinderhof e cammina verso est, le aree di sgambamento e lo stagno balneabile sono segnalati a 5 minuti a piedi."
         },
         {
           "name": "Griftpark",
@@ -198,12 +217,16 @@
           "tipPt": "Entre pelo lado da Griftstraat, o campo sem trela marcado fica à direita a 100 m.",
           "descriptionDe": "Ein 16 Hektar großer Stadtpark nördlich des Zentrums mit einer klar markierten leinenfreien Zone, einem eingezäunten Spielplatz, einem haustierfreundlichen Café und einem stetigen Zustrom lokaler Hunde aus den Vierteln Vogelenbuurt und Wittevrouwen. Es ist der einfachste leinenfreie Auslauf für Gäste im Zentrum von Utrecht, 15 Gehminuten vom Domplein entfernt.",
           "descriptionNl": "Een 16 hectare groot stadspark ten noorden van het centrum met een duidelijk gemarkeerd losloopgebied, een omheinde speelplaats, een huisdiervriendelijk café en een gestage toestroom van lokale honden uit de wijken Vogelenbuurt en Wittevrouwen. Het is de makkelijkste loslopplek voor bezoekers in het centrum van Utrecht, 15 minuten lopen van het Domplein.",
+          "descriptionIt": "Un parco cittadino di 16 ettari a nord del centro con un'area di sgambamento chiaramente segnalata, un'area giochi recintata, un caffè a misura di animale e un flusso costante di cani locali dai quartieri di Vogelenbuurt e Wittevrouwen. È il posto più facile per lo sgambamento libero per i visitatori nel centro di Utrecht, a 15 minuti a piedi dal Domplein.",
           "sizeDe": "≈ 16 Hektar",
           "sizeNl": "≈ 16 hectare",
+          "sizeIt": "≈ 16 ettari",
           "amenitiesDe": "Leinenfreie Zone, Café, eingezäunter Spielplatz, Trinkbrunnen",
           "amenitiesNl": "Losloopgebied, café, omheinde speelplaats, drinkfontein",
+          "amenitiesIt": "Area di sgambamento libero, caffè, area giochi recintata, fontanella",
           "tipDe": "Betreten Sie den Park von der Griftstraat-Seite, die markierte leinenfreie Fläche liegt innerhalb von 100 m rechts.",
-          "tipNl": "Ga het park binnen aan de kant van de Griftstraat, het gemarkeerde losloopgebied ligt binnen 100 m rechts."
+          "tipNl": "Ga het park binnen aan de kant van de Griftstraat, het gemarkeerde losloopgebied ligt binnen 100 m rechts.",
+          "tipIt": "Entra nel parco dal lato della Griftstraat, l'area di sgambamento segnalata si trova a 100 m sulla destra."
         },
         {
           "name": "Landgoed Amelisweerd & Rhijnauwen",
@@ -234,22 +257,29 @@
           "tipPt": "Comece no Theehuis Rhijnauwen, é o único café do percurso, aceita cães, e três circuitos com código de cores partem da porta.",
           "descriptionDe": "Zwei angrenzende Landgüter 5 km südöstlich der Stadt, durchzogen vom Fluss Kromme Rijn und durchzogen von markierten Wanderrouten durch alte Buchenwälder, Wiesen und Obstgärten. Auf dem Landgoed Amelisweerd selbst müssen Hunde angeleint sein, aber auf dem Treidelpfad und in Rhijnauwen dürfen sie unter Sichtkontrolle frei laufen, achten Sie auf den Rückruf und die Schilder an jeder Kreuzung.",
           "descriptionNl": "Twee aangrenzende landgoederen 5 km ten zuidoosten van de stad, doorkruist door de rivier de Kromme Rijn en met gemarkeerde wandelroutes door oude beukenbossen, weilanden en boomgaarden. Op het Landgoed Amelisweerd zelf moeten honden aangelijnd zijn, maar op het jaagpad en in Rhijnauwen mogen ze onder appel los lopen, let op de terugroepbaarheid en de bordjes bij elke kruising.",
+          "descriptionIt": "Due tenute confinanti a 5 km a sud-est della città, attraversate dal fiume Kromme Rijn e con percorsi escursionistici segnalati attraverso antiche faggete, prati e frutteti. Sulla tenuta di Amelisweerd stessa i cani devono essere al guinzaglio, ma sul sentiero alzaia e a Rhijnauwen possono correre liberi se rispondono al richiamo, presta attenzione al richiamo e ai cartelli a ogni incrocio.",
           "sizeDe": "≈ 130 Hektar (kombiniert)",
           "sizeNl": "≈ 130 hectare (samen)",
+          "sizeIt": "≈ 130 ettari (insieme)",
           "amenitiesDe": "Markierte Routen, Spaziergänge am Fluss, Teehaus Rhijnauwen (Hunde willkommen)",
           "amenitiesNl": "Gemarkeerde routes, wandelingen langs de rivier, theehuis Rhijnauwen (honden welkom)",
+          "amenitiesIt": "Percorsi segnalati, passeggiate lungo il fiume, sala da tè Rhijnauwen (cani benvenuti)",
           "tipDe": "Starten Sie am Theehuis Rhijnauwen, es ist das einzige Café auf der Strecke, hundefreundlich, und von dort führen drei farbcodierte Rundwege ab.",
-          "tipNl": "Begin bij het Theehuis Rhijnauwen, het is het enige café op de route, hondvriendelijk, en van daaruit vertrekken drie kleurgecodeerde rondwandelingen."
+          "tipNl": "Begin bij het Theehuis Rhijnauwen, het is het enige café op de route, hondvriendelijk, en van daaruit vertrekken drie kleurgecodeerde rondwandelingen.",
+          "tipIt": "Inizia dal Theehuis Rhijnauwen, è l'unico caffè lungo il percorso, a misura di cane, e da lì partono tre percorsi ad anello segnalati per colore."
         }
       ],
       "titlePt": "Melhores Parques para Cães em Utrecht",
       "introPt": "Utrecht supera em muito o seu tamanho em espaços verdes: os cães correm sem trela no maior parque da cidade, nadam em segurança a partir de zonas designadas e circulam por duas quintas arborizadas contíguas a uma curta pedalada do centro. Procure a placa neerlandesa 'losloopgebied', que é a zona legal sem trela, e a correspondente 'aanlijngebied', que significa só com trela. Aplicam-se coimas fora das zonas marcadas, mas a rede assinalada é generosa e bem sinalizada.",
       "titleDe": "Die besten Parks für Hunde in Utrecht",
       "titleNl": "De beste parken voor honden in Utrecht",
+      "titleIt": "I parchi migliori per cani a Utrecht",
       "introDe": "Utrecht bietet bei Grünflächen weit mehr, als man erwarten würde: Hunde laufen im größten Park der Stadt ohne Leine, schwimmen sicher an ausgewiesenen Zonen und streifen durch zwei angrenzende Waldgüter nur eine kurze Fahrradfahrt vom Zentrum entfernt. Achten Sie auf das niederländische Schild „losloopgebied“, das ist die gesetzliche leinenfreie Zone, sowie das entsprechende „aanlijngebied“, was Leinenpflicht bedeutet. Außerhalb der markierten Zonen drohen Bußgelder, aber das markierte Netz ist großzügig und gut ausgeschildert.",
       "introNl": "Utrecht biedt op het gebied van groen veel meer dan je zou verwachten: honden lopen zonder lijn in het grootste park van de stad, zwemmen veilig op aangewezen plekken en zwerven door twee aangrenzende boslandgoederen op maar een korte fietsrit van het centrum. Let op het bordje 'losloopgebied', dat is de wettelijke loslopzone, en het bijbehorende 'aanlijngebied', wat aanlijnplicht betekent. Buiten de gemarkeerde zones dreigen boetes, maar het gemarkeerde netwerk is ruim opgezet en goed bewegwijzerd.",
+      "introIt": "Utrecht offre in fatto di verde molto più di quanto ci si aspetti: i cani corrono senza guinzaglio nel parco più grande della città, nuotano in sicurezza in punti designati e vagano per due tenute boschive confinanti a pochi minuti di bicicletta dal centro. Fai attenzione al cartello \"losloopgebied\" (area di sgambamento libero), che è la zona legale per correre liberi, e al corrispondente \"aanlijngebied\" (area con obbligo di guinzaglio). Al di fuori delle zone segnalate si rischiano multe, ma la rete segnalata è ampia e ben indicata.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "transport": {
       "titleEn": "Public Transport with Pets in Utrecht",
@@ -276,10 +306,13 @@
           "tipPt": "O elétrico 22 a partir de Utrecht Centraal serve Leidsche Rijn / Máximapark em 12 minutos, a deslocação sem trela mais tranquila da cidade.",
           "typeDe": "Lokaler Bus und Straßenbahn",
           "typeNl": "Lokale bus en tram",
+          "typeIt": "Autobus e tram locali",
           "petPolicyDe": "Hunde kostenlos in allen U-OV-Bussen und Straßenbahnen; Hunde in Transportboxgröße kostenlos, größere Hunde angeleint. Der Fahrer darf das Einsteigen nur ablehnen, wenn das Fahrzeug voll besetzt ist.",
           "petPolicyNl": "Honden reizen gratis mee in alle U-OV-bussen en trams; honden op formaat van een reismand gratis, grotere honden aangelijnd. De chauffeur mag instappen alleen weigeren als het voertuig vol is.",
+          "petPolicyIt": "I cani viaggiano gratis su tutti gli autobus e i tram U-OV; i cani della taglia di un trasportino sono gratis, i cani più grandi al guinzaglio. L'autista può rifiutare la salita solo se il veicolo è pieno.",
           "tipDe": "Die Straßenbahnlinie 22 fährt ab Utrecht Centraal in 12 Minuten nach Leidsche Rijn / Máximapark, der reibungsloseste leinenfreie Ausflug in der Stadt.",
-          "tipNl": "Tramlijn 22 rijdt vanaf Utrecht Centraal in 12 minuten naar Leidsche Rijn / Máximapark, het soepelste loslopuitje in de stad."
+          "tipNl": "Tramlijn 22 rijdt vanaf Utrecht Centraal in 12 minuten naar Leidsche Rijn / Máximapark, het soepelste loslopuitje in de stad.",
+          "tipIt": "La linea del tram 22 va da Utrecht Centraal a Leidsche Rijn / Máximapark in 12 minuti, la gita più comoda per lo sgambamento libero in città."
         },
         {
           "name": "NS Trains (Utrecht Centraal)",
@@ -298,10 +331,13 @@
           "tipPt": "Compre o Dagkaart Hond em qualquer máquina de bilhetes amarela da NS antes de embarcar, não há sobretaxa se for adicionado com antecedência.",
           "typeDe": "Nationale Bahn",
           "typeNl": "Nationale trein",
+          "typeIt": "Treno nazionale",
           "petPolicyDe": "Hunde in einer handgetragenen Transportbox reisen kostenlos. Größere Hunde benötigen eine Dagkaart Hond (Hunde-Tageskarte, 3,50 €, unbegrenzte NS-Fahrten an diesem Tag) und müssen an der Leine geführt werden. Bei NS ist kein Maulkorb erforderlich, es sei denn, der Hund ist aggressiv reaktiv.",
           "petPolicyNl": "Honden in een handgedragen reismand reizen gratis mee. Grotere honden hebben een Dagkaart Hond nodig (hondendagkaart, 3,50 €, onbeperkt NS-reizen die dag) en moeten aangelijnd zijn. Bij NS is geen muilkorf verplicht, tenzij de hond agressief reactief is.",
+          "petPolicyIt": "I cani in un trasportino portato a mano viaggiano gratis. I cani più grandi necessitano di una Dagkaart Hond (biglietto giornaliero per cani, 3,50 €, viaggi NS illimitati per quel giorno) e devono essere al guinzaglio. Con NS non è obbligatoria la museruola, a meno che il cane non sia aggressivo reattivo.",
           "tipDe": "Kaufen Sie die Dagkaart Hond an jedem gelben NS-Fahrkartenautomaten vor der Fahrt, es gibt keinen Aufpreis, wenn sie im Voraus hinzugefügt wird.",
-          "tipNl": "Koop de Dagkaart Hond bij elke gele NS-kaartautomaat voor vertrek, er is geen toeslag als je hem vooraf toevoegt."
+          "tipNl": "Koop de Dagkaart Hond bij elke gele NS-kaartautomaat voor vertrek, er is geen toeslag als je hem vooraf toevoegt.",
+          "tipIt": "Compra la Dagkaart Hond a qualsiasi distributore giallo NS prima della partenza, non c'è supplemento se la aggiungi in anticipo."
         },
         {
           "name": "Taxis (Bolt, RMC, Utrecht Taxi Centrale)",
@@ -320,20 +356,26 @@
           "tipPt": "Leve uma manta limpa, os motoristas vão recusar um cão molhado e cheio de lama dos bosques de Amelisweerd mesmo que a reserva permitisse animais.",
           "typeDe": "Taxi & Mitfahrdienst",
           "typeNl": "Taxi & ritdienst",
+          "typeIt": "Taxi e servizi di trasporto",
           "petPolicyDe": "Die meisten Taxis in Utrecht akzeptieren Hunde nach Ermessen des Fahrers; erwähnen Sie bei der Buchung 'hond' (Hund). Bolt hat einen Filter 'Haustiere erlaubt'; ansonsten rufen Sie vorher an und nennen Rasse und Größe.",
           "petPolicyNl": "De meeste taxi's in Utrecht accepteren honden naar het oordeel van de chauffeur; vermeld 'hond' bij het boeken. Bolt heeft een filter 'huisdieren toegestaan'; anders bel je vooraf en noem je ras en formaat.",
+          "petPolicyIt": "La maggior parte dei taxi a Utrecht accetta i cani a discrezione dell'autista; segnala \"cane\" al momento della prenotazione. Bolt ha un filtro \"animali ammessi\"; altrimenti telefona in anticipo indicando razza e taglia.",
           "tipDe": "Bringen Sie eine saubere Decke mit, Fahrer weisen einen nassen, verschlammten Hund aus den Amelisweerd-Wäldern ab, selbst wenn die Buchung Haustiere zugelassen hat.",
-          "tipNl": "Neem een schone deken mee, chauffeurs weigeren een natte, modderige hond uit de Amelisweerd-bossen, zelfs als de boeking huisdieren toestaat."
+          "tipNl": "Neem een schone deken mee, chauffeurs weigeren een natte, modderige hond uit de Amelisweerd-bossen, zelfs als de boeking huisdieren toestaat.",
+          "tipIt": "Porta una coperta pulita, gli autisti rifiutano un cane bagnato e infangato dai boschi di Amelisweerd, anche se la prenotazione ammette gli animali."
         }
       ],
       "titlePt": "Transportes Públicos com Animais em Utrecht",
       "introPt": "Os transportes públicos em Utrecht são fáceis com um cão. Os autocarros e o elétrico urbanos U-OV (linhas 22 e 60/61 SUNIJ até Nieuwegein) aceitam cães gratuitamente, os cães pequenos numa caixa de transporte viajam gratuitamente e os cães maiores vão com trela e não pagam nada nos serviços urbanos. Os comboios da NS com partida e chegada a Utrecht Centraal exigem um bilhete diário de cão da NS (Dagkaart Hond, 3,50 €) para qualquer cão que não caiba numa caixa de transporte; os cães numa caixa de transporte viajam gratuitamente. Leve sempre uma trela curta e evite as horas de ponta com cães ansiosos ou grandes.",
       "titleDe": "Öffentliche Verkehrsmittel mit Haustieren in Utrecht",
       "titleNl": "Openbaar vervoer met huisdieren in Utrecht",
+      "titleIt": "Trasporto pubblico con animali a Utrecht",
       "introDe": "Die öffentlichen Verkehrsmittel in Utrecht sind mit Hund unkompliziert. Die städtischen U-OV-Busse und die Straßenbahn (Linien 22 und 60/61 SUNIJ nach Nieuwegein) nehmen Hunde kostenlos mit, kleine Hunde in einer Transportbox reisen kostenlos, größere Hunde reisen angeleint und zahlen bei städtischen Verkehrsmitteln nichts. NS-Züge von und nach Utrecht Centraal erfordern für jeden Hund, der nicht in eine Transportbox passt, ein NS-Hunde-Tagesticket (Dagkaart Hond, 3,50 €); Hunde in einer Transportbox reisen kostenlos. Führen Sie stets eine kurze Leine mit und meiden Sie Stoßzeiten mit ängstlichen oder großen Hunden.",
       "introNl": "Het openbaar vervoer in Utrecht is eenvoudig met hond. De stedelijke U-OV-bussen en de tram (lijnen 22 en 60/61 SUNIJ naar Nieuwegein) nemen honden gratis mee, kleine honden in een reismand reizen gratis, grotere honden reizen aangelijnd en betalen niets bij stedelijk vervoer. NS-treinen van en naar Utrecht Centraal vereisen voor elke hond die niet in een reismand past een NS-hondendagticket (Dagkaart Hond, 3,50 €); honden in een reismand reizen gratis. Neem altijd een korte lijn mee en vermijd spitsuren met angstige of grote honden.",
+      "introIt": "Il trasporto pubblico a Utrecht è semplice con il cane. Gli autobus urbani U-OV e il tram (linee 22 e 60/61 SUNIJ per Nieuwegein) trasportano i cani gratis, i cani piccoli in trasportino viaggiano gratis, i cani più grandi viaggiano al guinzaglio e non pagano nulla sul trasporto urbano. I treni NS da e per Utrecht Centraal richiedono per ogni cane che non entra in un trasportino un biglietto giornaliero per cani NS (Dagkaart Hond, 3,50 €); i cani in trasportino viaggiano gratis. Porta sempre un guinzaglio corto ed evita le ore di punta con cani ansiosi o grandi.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "beaches": {
       "titleEn": "Dog Swim Spots & Beaches near Utrecht",
@@ -365,10 +407,13 @@
           "tipPt": "A partir de meados de outubro o lago fica liso como vidro e quase deserto, leve uma toalha; a água mantém-se por volta dos 9 °C mesmo nas semanas amenas.",
           "descriptionDe": "Ein grundwassergespeister Erholungssee am Westrand der Stadt. Vom 1. September bis 1. April ist es eine leinenfreie Hundezone, in der Hunde von den Grasufern aus schwimmen können (aber niemals am markierten Badestrand für Menschen). Außerhalb dieses Zeitraums ist es ein Badesee für Menschen, und Hunde müssen angeleint und vom Sand ferngehalten werden. Ruhig, gut ausgeschildert, mit Parkplatz, Toiletten und einem Imbisskiosk.",
           "descriptionNl": "Een door grondwater gevoede recreatieplas aan de westrand van de stad. Van 1 september tot 1 april is het een loslopzone voor honden, waar ze vanaf de grasoevers kunnen zwemmen (maar nooit bij het gemarkeerde zwemstrand voor mensen). Buiten deze periode is het een zwemplas voor mensen, en moeten honden aangelijnd en van het zand geweerd worden. Rustig, goed bewegwijzerd, met parkeerplaats, toiletten en een snackkiosk.",
+          "descriptionIt": "Un laghetto ricreativo alimentato da acque sotterranee ai margini occidentali della città. Dal 1 settembre al 1 aprile è una zona di sgambamento libero per cani, dove possono nuotare dalle rive erbose (ma mai vicino alla spiaggia balneabile segnalata per le persone). Al di fuori di questo periodo è un laghetto balneabile per le persone, e i cani devono essere al guinzaglio e tenuti lontani dalla sabbia. Tranquillo, ben segnalato, con parcheggio, servizi igienici e un chiosco.",
           "petPolicyDe": "Ohne Leine und zum Schwimmen geeignet 1. Sept.–1. April. Leinenpflicht und kein Strandzugang 1. April–1. Sept.",
           "petPolicyNl": "Los en geschikt om te zwemmen 1 sept-1 april. Aanlijnplicht en geen strandtoegang 1 april-1 sept.",
+          "petPolicyIt": "Libero e adatto al nuoto dal 1 settembre al 1 aprile. Obbligo di guinzaglio e nessun accesso alla spiaggia dal 1 aprile al 1 settembre.",
           "tipDe": "Ab Mitte Oktober ist der See spiegelglatt und fast leer, bringen Sie ein Handtuch mit; das Wasser bleibt auch in milden Wochen bei rund 9 °C.",
-          "tipNl": "Vanaf half oktober ligt de plas spiegelglad en bijna verlaten, neem een handdoek mee; het water blijft ook in milde weken rond de 9 °C."
+          "tipNl": "Vanaf half oktober ligt de plas spiegelglad en bijna verlaten, neem een handdoek mee; het water blijft ook in milde weken rond de 9 °C.",
+          "tipIt": "Da metà ottobre il laghetto è liscio come uno specchio e quasi deserto, porta un asciugamano; l'acqua resta intorno ai 9 °C anche nelle settimane miti."
         },
         {
           "name": "Máximapark swim ponds",
@@ -392,10 +437,13 @@
           "tipPt": "Use o parque de estacionamento de Vlinderhof e depois siga pelo segundo caminho à direita, o lago de banho fica assinalado a 4 minutos a pé.",
           "descriptionDe": "Im Máximapark bietet eine Reihe sauberer, flacher Teiche in der leinenfreien Zone das zuverlässigste städtische Sommerschwimmen für Hunde. Das Wasser ist ruhig, der Boden ist sanft, und ausreichend schattiger Rasen auf beiden Seiten erleichtert das Abtrocknen. Immer innerhalb eines ausgeschilderten losloopgebieds, sodass sowohl legales Freilaufen als auch Leinenführung funktionieren.",
           "descriptionNl": "In het Máximapark biedt een reeks schone, ondiepe vijvers in de loslopzone het betrouwbaarste stedelijke zomerzwemmen voor honden. Het water is rustig, de bodem is zacht, en voldoende schaduwrijk gras aan beide kanten maakt afdrogen makkelijk. Altijd binnen een aangewezen losloopgebied, dus zowel legaal los lopen als aan de lijn werkt.",
+          "descriptionIt": "Nel Máximapark, una serie di stagni puliti e poco profondi nella zona di sgambamento libero offre il nuoto estivo urbano più affidabile per i cani. L'acqua è tranquilla, il fondo è morbido, e l'erba ombreggiata a sufficienza su entrambi i lati rende facile asciugarsi. Sempre all'interno di un'area di sgambamento libero designata, quindi funziona sia liberi che al guinzaglio.",
           "petPolicyDe": "Ohne Leine innerhalb des ausgeschilderten losloopgebieds; Schwimmen ganzjährig erlaubt",
           "petPolicyNl": "Los binnen het aangewezen losloopgebied; zwemmen het hele jaar toegestaan",
+          "petPolicyIt": "Liberi all'interno dell'area di sgambamento libero designata; nuoto consentito tutto l'anno",
           "tipDe": "Nutzen Sie den Parkplatz Vlinderhof und nehmen Sie dann den zweiten Weg rechts, der Badeteich ist innerhalb von 4 Gehminuten ausgeschildert.",
-          "tipNl": "Gebruik de parkeerplaats Vlinderhof en neem dan het tweede pad rechts, de zwemvijver is binnen 4 minuten lopen bewegwijzerd."
+          "tipNl": "Gebruik de parkeerplaats Vlinderhof en neem dan het tweede pad rechts, de zwemvijver is binnen 4 minuten lopen bewegwijzerd.",
+          "tipIt": "Usa il parcheggio Vlinderhof e prendi il secondo sentiero a destra, lo stagno balneabile è segnalato a 4 minuti a piedi."
         },
         {
           "name": "Kromme Rijn riverbank (Amelisweerd)",
@@ -419,20 +467,26 @@
           "tipPt": "Estacione no Theehuis Rhijnauwen e caminhe 10 minutos para sul, a entrada de cascalho por baixo da antiga ponte pedonal é o troço mais limpo.",
           "descriptionDe": "Der Fluss Kromme Rijn schlängelt sich am östlichen Rand des Landgoed Amelisweerd entlang und bietet eine ruhige, langsame Flussströmung mit flachen, kiesigen Einstiegen, die für Hunde jeder Größe geeignet sind. Auf dem Amelisweerd selbst müssen Hunde angeleint sein, aber die Flussuferabschnitte und der Treidelpfad sind im Sommer beliebte Planschstellen; halten Sie Rücksicht auf Angler und bleiben Sie 50 m von jeder Angelrute entfernt.",
           "descriptionNl": "De rivier de Kromme Rijn kronkelt langs de oostrand van het Landgoed Amelisweerd en biedt een rustige, langzame rivierstroming met ondiepe, kiezelige toegangen die geschikt zijn voor honden van elk formaat. Op Amelisweerd zelf moeten honden aangelijnd zijn, maar de rivieroeverdelen en het jaagpad zijn in de zomer populaire plensplekken; houd rekening met vissers en blijf 50 m van elke hengel vandaan.",
+          "descriptionIt": "Il fiume Kromme Rijn serpeggia lungo il margine orientale della tenuta di Amelisweerd e offre una corrente lenta e tranquilla con accessi bassi e ghiaiosi adatti a cani di ogni taglia. Sulla tenuta di Amelisweerd stessa i cani devono essere al guinzaglio, ma i tratti di riva e il sentiero alzaia sono punti popolari per rinfrescarsi in estate; tieni conto dei pescatori e resta a 50 m da ogni canna.",
           "petPolicyDe": "Nur angeleint auf dem Amelisweerd; ohne Leine auf dem Treidelpfad unter Sichtkontrolle",
           "petPolicyNl": "Alleen aangelijnd op Amelisweerd; los op het jaagpad onder appel",
+          "petPolicyIt": "Solo al guinzaglio ad Amelisweerd; liberi sul sentiero alzaia se rispondono al richiamo",
           "tipDe": "Parken Sie am Theehuis Rhijnauwen und gehen Sie 10 Minuten nach Süden, der kiesige Einstieg unter der alten Fußgängerbrücke ist der sauberste Abschnitt.",
-          "tipNl": "Parkeer bij het Theehuis Rhijnauwen en loop 10 minuten zuidwaarts, de kiezelige toegang onder de oude voetbrug is het schoonste stuk."
+          "tipNl": "Parkeer bij het Theehuis Rhijnauwen en loop 10 minuten zuidwaarts, de kiezelige toegang onder de oude voetbrug is het schoonste stuk.",
+          "tipIt": "Parcheggia al Theehuis Rhijnauwen e cammina 10 minuti verso sud, l'accesso ghiaioso sotto il vecchio ponte pedonale è il tratto più pulito."
         }
       ],
       "titlePt": "Locais de Banho para Cães e Praias perto de Utrecht",
       "introPt": "Utrecht fica no interior, mas a cidade tem um lago de recreio na sua orla oeste e uma sucessão de rios lentos e canais laterais em redor do centro histórico, que oferecem mergulhos de verão fáceis para os cães. Os populares lagos regionais (Henschotermeer, Bosbad De Vuursche) proíbem cães, pelo que os três locais de banho abaixo são as opções realistas e totalmente legais para cães na cidade. Os cães têm de se manter fora das praias de banho oficiais para pessoas em Strijkviertel.",
       "titleDe": "Schwimmstellen & Strände für Hunde bei Utrecht",
       "titleNl": "Zwemplekken & stranden voor honden bij Utrecht",
+      "titleIt": "Luoghi di balneazione e spiagge per cani vicino a Utrecht",
       "introDe": "Utrecht liegt im Landesinneren, aber die Stadt verfügt am Westrand über einen Erholungssee und einen Kranz aus langsamen Flüssen und Seitenkanälen rund um die historische Altstadt, die im Sommer leichten Abkühlung für Hunde bieten. Die beliebten regionalen Seen (Henschotermeer, Bosbad De Vuursche) verbieten Hunde, daher sind die drei folgenden Schwimmstellen die realistischen, uneingeschränkt hundelegalen Optionen für die Stadt. Hunde müssen von den offiziellen Badestränden für Menschen bei Strijkviertel ferngehalten werden.",
       "introNl": "Utrecht ligt landinwaarts, maar de stad beschikt aan de westrand over een recreatieplas en een krans van trage rivieren en zijkanalen rond de historische binnenstad, die in de zomer lichte verkoeling bieden voor honden. De populaire regionale plassen (Henschotermeer, Bosbad De Vuursche) verbieden honden, dus zijn de drie onderstaande zwemplekken de realistische, onbeperkt hondtoegestane opties voor de stad. Honden moeten van de officiële zwemstranden voor mensen bij Strijkviertel geweerd worden.",
+      "introIt": "Utrecht si trova nell'entroterra, ma la città dispone ai margini occidentali di un laghetto ricreativo e di una corona di fiumi lenti e canali laterali intorno al centro storico, che d'estate offrono un po' di refrigerio ai cani. I laghi regionali popolari (Henschotermeer, Bosbad De Vuursche) vietano i cani, quindi i tre luoghi di balneazione qui sotto sono le opzioni realistiche e senza restrizioni per i cani della città. I cani devono essere tenuti lontani dalle spiagge balneabili ufficiali per le persone a Strijkviertel.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Utrecht, Veterinary Clinics & Pet Care",
@@ -468,12 +522,16 @@
           "tipPt": "Telefone primeiro para o 0900-2223000, podem encaminhá-lo para a clínica de dia, que é mais rápida para problemas não críticos.",
           "descriptionDe": "Die zentrale Notfallklinik der Stadt außerhalb der regulären Öffnungszeiten, angesiedelt an der veterinärmedizinischen Fakultät auf dem Universitätscampus De Uithof. Geöffnet abends, nachts, an Wochenenden und Feiertagen. Englischsprachiges Personal und vollständige diagnostische Bildgebung vor Ort. Rufen Sie stets vor der Fahrt an, es kann eine telefonische Triage erfolgen oder eine Weiterleitung an die Tagesklinik.",
           "descriptionNl": "De centrale spoedkliniek van de stad buiten reguliere openingstijden, gevestigd bij de faculteit diergeneeskunde op universiteitscampus De Uithof. Geopend 's avonds, 's nachts, in het weekend en op feestdagen. Engelstalig personeel en volledige diagnostische beeldvorming ter plaatse. Bel altijd voordat je vertrekt, er kan telefonisch getrieerd worden of doorverwezen naar de dagkliniek.",
+          "descriptionIt": "La clinica d'urgenza centrale della città per gli orari fuori servizio, situata presso la facoltà di veterinaria nel campus universitario De Uithof. Aperta la sera, la notte, nei weekend e nei giorni festivi. Personale che parla inglese e diagnostica per immagini completa in loco. Telefona sempre prima di partire, può esserci un triage telefonico o un indirizzamento verso l'ambulatorio diurno.",
           "hoursDe": "Mo–Fr 18:00–08:00 Uhr; Wochenenden und Feiertage rund um die Uhr",
           "hoursNl": "Ma-vr 18:00-08:00 uur; weekenden en feestdagen 24 uur per dag",
+          "hoursIt": "Lun-ven 18:00-08:00; weekend e giorni festivi 24 ore su 24",
           "specialtyDe": "Notfallversorgung außerhalb der Öffnungszeiten, Chirurgie, Intensivstation, diagnostische Bildgebung",
           "specialtyNl": "Spoedzorg buiten openingstijden, chirurgie, intensive care, diagnostische beeldvorming",
+          "specialtyIt": "Cure d'urgenza fuori orario, chirurgia, terapia intensiva, diagnostica per immagini",
           "tipDe": "Rufen Sie zuerst 0900-2223000 an, man kann Sie stattdessen an die Tagesklinik verweisen, was bei nicht kritischen Fällen schneller geht.",
-          "tipNl": "Bel eerst 0900-2223000, je kunt in plaats daarvan naar de dagkliniek worden doorverwezen, wat bij niet-kritieke gevallen sneller gaat."
+          "tipNl": "Bel eerst 0900-2223000, je kunt in plaats daarvan naar de dagkliniek worden doorverwezen, wat bij niet-kritieke gevallen sneller gaat.",
+          "tipIt": "Telefona prima al numero 0900-2223000, potresti essere indirizzato invece all'ambulatorio diurno, il che per i casi non critici è più veloce."
         },
         {
           "name": "Dierenkliniek PETcomfort",
@@ -501,12 +559,16 @@
           "tipPt": "Se precisar de um carimbo no passaporte antes de regressar a França ou a Espanha, marque com 48 horas de antecedência, exigem uma vaga de consulta veterinária.",
           "descriptionDe": "Eine moderne Kleintierklinik im Süden von Utrecht mit Terminen am selben Tag und englischsprachigen Tierärzten. Behandelt Impfungen, Aktualisierungen des EU-Heimtierausweises, Parasitenprophylaxe und kleinere Operationen. Außerhalb der Geschäftszeiten werden Anrufe an die Spoedkliniek an der Yalelaan weitergeleitet.",
           "descriptionNl": "Een moderne kleindierenkliniek in het zuiden van Utrecht met afspraken dezelfde dag en Engelstalige dierenartsen. Behandelt vaccinaties, updates van het EU-dierenpaspoort, parasietenpreventie en kleinere operaties. Buiten kantooruren worden telefoontjes doorgeschakeld naar de Spoedkliniek aan de Yalelaan.",
+          "descriptionIt": "Un moderno ambulatorio per piccoli animali nel sud di Utrecht con appuntamenti in giornata e veterinari che parlano inglese. Si occupa di vaccinazioni, aggiornamenti del passaporto europeo per animali da compagnia, prevenzione dei parassiti e piccoli interventi chirurgici. Fuori orario le chiamate vengono deviate verso la Spoedkliniek sulla Yalelaan.",
           "hoursDe": "Mo–Fr 08:30–18:00 Uhr; Sa 09:00–12:00 Uhr",
           "hoursNl": "Ma-vr 08:30-18:00 uur; za 09:00-12:00 uur",
+          "hoursIt": "Lun-ven 08:30-18:00; sab 09:00-12:00",
           "specialtyDe": "Allgemeinmedizin, Impfungen, EU-Heimtierausweis, Zahnmedizin",
           "specialtyNl": "Algemene geneeskunde, vaccinaties, EU-dierenpaspoort, tandheelkunde",
+          "specialtyIt": "Medicina generale, vaccinazioni, passaporto europeo per animali da compagnia, odontoiatria",
           "tipDe": "Wenn Sie vor der Rückreise nach Frankreich oder Spanien einen Stempel im Heimtierausweis benötigen, buchen Sie 48 Stunden im Voraus, ein Tierarzttermin ist erforderlich.",
-          "tipNl": "Heb je voor de terugreis naar Frankrijk of Spanje een stempel in het dierenpaspoort nodig, boek dan 48 uur van tevoren, een dierenartsafspraak is vereist."
+          "tipNl": "Heb je voor de terugreis naar Frankrijk of Spanje een stempel in het dierenpaspoort nodig, boek dan 48 uur van tevoren, een dierenartsafspraak is vereist.",
+          "tipIt": "Se per il rientro in Francia o Spagna ti serve un timbro sul passaporto dell'animale, prenota 48 ore prima, è richiesto un appuntamento veterinario."
         },
         {
           "name": "Dierenkliniek Lunetten",
@@ -534,22 +596,29 @@
           "tipPt": "A clínica mais próxima se estiver alojado a sul do centro ou perto das saídas da autoestrada A12.",
           "descriptionDe": "Etablierte Nachbarschaftspraxis im Wohnviertel Lunetten, mit starker Mundpropaganda unter lokalen Hunde- und Katzenhaltern. Das Team übernimmt Routineversorgung, Zahnbehandlungen und Nachsorge bei chronischen Erkrankungen; Notfälle außerhalb der Öffnungszeiten werden an die Spoedkliniek an der Yalelaan weitergeleitet.",
           "descriptionNl": "Gevestigde buurtpraktijk in de woonwijk Lunetten, met sterke mond-tot-mondreclame onder lokale honden- en kattenbezitters. Het team verzorgt routinezorg, tandbehandelingen en nazorg bij chronische aandoeningen; spoedgevallen buiten openingstijden worden doorverwezen naar de Spoedkliniek aan de Yalelaan.",
+          "descriptionIt": "Ambulatorio di quartiere ben affermato nel residenziale Lunetten, con un forte passaparola tra i proprietari locali di cani e gatti. Il team si occupa di cure di routine, trattamenti dentali e follow-up per condizioni croniche; le urgenze fuori orario vengono indirizzate verso la Spoedkliniek sulla Yalelaan.",
           "hoursDe": "Mo–Fr 08:30–18:00 Uhr; Sa 09:00–11:00 Uhr nach Vereinbarung",
           "hoursNl": "Ma-vr 08:30-18:00 uur; za 09:00-11:00 uur op afspraak",
+          "hoursIt": "Lun-ven 08:30-18:00; sab 09:00-11:00 su appuntamento",
           "specialtyDe": "Allgemeinmedizin, Altersmedizin, Zahnmedizin",
           "specialtyNl": "Algemene geneeskunde, ouderdomsgeneeskunde, tandheelkunde",
+          "specialtyIt": "Medicina generale, geriatria, odontoiatria",
           "tipDe": "Nächstgelegene Praxis, wenn Sie südlich des Zentrums oder in der Nähe der Ausfahrten der Autobahn A12 übernachten.",
-          "tipNl": "Dichtstbijzijnde praktijk als je ten zuiden van het centrum of bij de afritten van de A12 overnacht."
+          "tipNl": "Dichtstbijzijnde praktijk als je ten zuiden van het centrum of bij de afritten van de A12 overnacht.",
+          "tipIt": "L'ambulatorio più vicino se pernotti a sud del centro o vicino alle uscite dell'A12."
         }
       ],
       "titlePt": "Veterinários de Urgência em Utrecht, Clínicas Veterinárias e Cuidados para Animais",
       "introPt": "Utrecht é a sede da Faculdade de Medicina Veterinária da Universidade de Utrecht e é, por isso, uma das cidades europeias mais bem equipadas para cuidados veterinários de urgência. A maioria das clínicas regulares da cidade encerra à noite e aos fins de semana e encaminha as chamadas fora de horas para a Spoedkliniek central (clínica de urgência fora de horas), na Yalelaan, em De Uithof. Guarde o número de urgência central no telemóvel antes de chegar.",
       "titleDe": "Notfall-Tierärzte in Utrecht, Tierkliniken & Haustierbetreuung",
       "titleNl": "Spoedeisende dierenartsen in Utrecht, dierenklinieken & huisdierenzorg",
+      "titleIt": "Veterinari d'urgenza a Utrecht, cliniche veterinarie e cura degli animali",
       "introDe": "Utrecht ist Sitz der veterinärmedizinischen Fakultät der Universität Utrecht und dadurch eine der am besten ausgestatteten europäischen Städte für tierärztliche Notfallversorgung. Die meisten regulären Praxen in der Stadt schließen abends und am Wochenende und leiten Anrufe außerhalb der Öffnungszeiten an die zentrale Spoedkliniek (Notfallklinik außerhalb der Öffnungszeiten) an der Yalelaan in De Uithof weiter. Speichern Sie die zentrale Notfallnummer auf Ihrem Telefon, bevor Sie ankommen.",
       "introNl": "Utrecht is de zetel van de faculteit diergeneeskunde van de Universiteit Utrecht en daardoor een van de best uitgeruste Europese steden voor spoedeisende diergeneeskundige zorg. De meeste reguliere praktijken in de stad sluiten 's avonds en in het weekend en schakelen telefoontjes buiten openingstijden door naar de centrale Spoedkliniek (spoedkliniek buiten openingstijden) aan de Yalelaan in De Uithof. Sla het centrale spoednummer op in je telefoon voordat je aankomt.",
+      "introIt": "Utrecht ospita la facoltà di veterinaria dell'Università di Utrecht, il che la rende una delle città europee meglio attrezzate per le cure veterinarie d'urgenza. La maggior parte degli ambulatori regolari della città chiude la sera e nei weekend e devia le chiamate fuori orario verso la Spoedkliniek centrale (clinica d'urgenza fuori orario) sulla Yalelaan a De Uithof. Salva il numero d'urgenza centrale sul telefono prima di arrivare.",
       "faqsDe": [],
-      "faqsNl": []
+      "faqsNl": [],
+      "faqsIt": []
     },
     "tips": {
       "titleEn": "Practical Tips for Visiting Utrecht with a Dog",
@@ -639,8 +708,10 @@
       ],
       "titleDe": "Praktische Tipps für einen Besuch in Utrecht mit Hund",
       "titleNl": "Praktische tips voor een bezoek aan Utrecht met je hond",
+      "titleIt": "Consigli pratici per visitare Utrecht con il tuo cane",
       "introDe": "Utrecht gehört zu den unkomplizierteren niederländischen Städten für Reisen mit Hund, aber ein paar lokale Regeln und saisonale Gewohnheiten machen einen Unterschied. Die Universitätsstadt ist fahrradorientiert, trainieren Sie Ihren Hund auf Radwegen, bevor Sie ihn frei schnüffeln lassen, und treten Sie beim Anhalten stets aus dem Radweg heraus. Der Domplein und die Kais der Oudegracht sind reine Leinenzonen; leinenfreie Freiheit beginnt an den markierten losloopgebieden von Griftpark, Máximapark und den südlichen Landgütern.",
       "introNl": "Utrecht behoort tot de makkelijkere Nederlandse steden om met een hond te bezoeken, maar een paar lokale regels en seizoensgebonden gewoontes maken verschil. De studentenstad is fietsgericht, train je hond op fietspaden voordat je hem los laat snuffelen, en stap bij het stoppen altijd uit het fietspad. Het Domplein en de kades van de Oudegracht zijn zuivere aanlijnzones; loslopen zonder lijn begint bij de gemarkeerde losloopgebieden van Griftpark, Máximapark en de zuidelijke landgoederen.",
+      "introIt": "Utrecht è una delle città olandesi più facili da visitare con un cane, ma alcune regole locali e abitudini stagionali fanno la differenza. La città universitaria è orientata alla bicicletta, abitua il tuo cane alle piste ciclabili prima di lasciarlo annusare libero, e quando ti fermi esci sempre dalla pista ciclabile. Il Domplein e le banchine della Oudegracht sono zone di puro obbligo di guinzaglio; correre liberi comincia dalle aree di sgambamento segnalate del Griftpark, del Máximapark e delle tenute a sud.",
       "faqsDe": [
         {
           "q": "Ist Utrecht eine gute Stadt für Reisen mit Hund?",
@@ -667,6 +738,20 @@
         {
           "q": "Mag mijn hond de Domtoren of het Centraal Museum bezoeken?",
           "a": "In de Domtoren en de meeste musea zijn alleen assistentiehonden toegestaan. Het Domplein, de Pandhoftuinen en de buitenplaats van het Centraal Museum zijn toegankelijk aan de lijn."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Utrecht è una buona città da visitare con un cane?",
+          "a": "Sì, una delle migliori città europee di medie dimensioni. Il trasporto pubblico è gratuito per i cani su autobus e tram urbani, la città ha diverse aree di sgambamento segnalate, e quasi ogni terrazza di caffè e ristorante è a misura di cane. Il limite principale è l'obbligo di guinzaglio ovunque al di fuori delle aree di sgambamento segnalate."
+        },
+        {
+          "q": "Quali documenti mi servono per portare il mio cane a Utrecht?",
+          "a": "Un passaporto europeo per animali da compagnia (o un documento equivalente per i paesi extra-UE), un microchip e una vaccinazione antirabbica aggiornata (di almeno 21 giorni, valida 3 anni). I Paesi Bassi non richiedono un trattamento antiparassitario contro la tenia per i cani in entrata."
+        },
+        {
+          "q": "Il mio cane può visitare la Domtoren o il Centraal Museum?",
+          "a": "Nella Domtoren e nella maggior parte dei musei sono ammessi solo i cani da assistenza. Il Domplein, i giardini del Pandhof e il cortile esterno del Centraal Museum sono accessibili al guinzaglio."
         }
       ]
     },
@@ -700,10 +785,13 @@
           "tipPt": "Entre pela passagem da Servetstraat ao pôr do sol, o ângulo apanha a torre com a catedral iluminada, sem andaimes no enquadramento.",
           "descriptionDe": "Der Domplein ist das historische Herz von Utrecht, mit dem freistehenden, 112 Meter hohen Domturm (dem höchsten Kirchturm der Niederlande) auf der einen Seite und der Kathedrale sowie den klösterlichen Pandhof-Gärten auf der anderen. Das Innere des Domturms lässt nur Assistenzhunde zu, aber angeleinte Hunde können jederzeit über den gepflasterten Platz und durch den Pandhof streifen, und der Blick auf den Turm über den Platz hinweg ist das beste Foto der Reise.",
           "descriptionNl": "Het Domplein is het historische hart van Utrecht, met de vrijstaande, 112 meter hoge Domtoren (de hoogste kerktoren van Nederland) aan de ene kant en de kathedraal plus de kloostertuinen van de Pandhof aan de andere. Binnen in de Domtoren zijn alleen assistentiehonden toegestaan, maar aangelijnde honden kunnen op elk moment over het geplaveide plein en door de Pandhof zwerven, en het uitzicht op de toren over het plein is de beste foto van de reis.",
+          "descriptionIt": "Il Domplein è il cuore storico di Utrecht, con la torre isolata Domtoren alta 112 metri (il campanile più alto dei Paesi Bassi) da un lato e la cattedrale con i giardini del chiostro del Pandhof dall'altro. All'interno della Domtoren sono ammessi solo i cani da assistenza, ma i cani al guinzaglio possono vagare in qualsiasi momento sulla piazza lastricata e nel Pandhof, e la vista della torre sulla piazza è la foto migliore del viaggio.",
           "petPolicyDe": "Platz und Pandhof für angeleinte Hunde zugänglich; Turminneres nur Assistenzhunde",
           "petPolicyNl": "Plein en Pandhof toegankelijk voor aangelijnde honden; binnenkant toren alleen assistentiehonden",
+          "petPolicyIt": "Piazza e Pandhof accessibili ai cani al guinzaglio; interno della torre solo cani da assistenza",
           "tipDe": "Gehen Sie bei Sonnenuntergang über den Durchgang Servetstraat hinein, der Blickwinkel zeigt den beleuchteten Turm mit der Kathedrale, ohne Gerüst im Bild.",
-          "tipNl": "Loop bij zonsondergang naar binnen via de doorgang Servetstraat, dit gezichtspunt toont de verlichte toren met de kathedraal, zonder steigers in beeld."
+          "tipNl": "Loop bij zonsondergang naar binnen via de doorgang Servetstraat, dit gezichtspunt toont de verlichte toren met de kathedraal, zonder steigers in beeld.",
+          "tipIt": "Al tramonto entra attraverso il passaggio Servetstraat, questo punto di vista mostra la torre illuminata con la cattedrale, senza impalcature nell'inquadratura."
         },
         {
           "name": "Rederij Schuttevaer canal cruise",
@@ -727,10 +815,13 @@
           "tipPt": "Se embarcar no cais do Oudegracht, entre pelo lado do Vredenburg, os cães (exceto cães de assistência) não são permitidos dentro do centro comercial Hoog Catharijne.",
           "descriptionDe": "Die 50-minütige klassische Grachtenfahrt entlang der Oudegracht und der Stadsbuitengracht ist die einfachste Art, Utrecht auf Grachtenhöhe zu sehen, und Hunde fahren kostenlos mit, ohne zusätzliches Ticket. Die Boote haben ein offenes Achterdeck, auf dem sich Hunde auf einem Handtuch niederlassen; bringen Sie eine kurze Leine mit und meiden Sie den Mittagstermin im Hochsommer, wenn Ihr Hund hitzeempfindlich ist.",
           "descriptionNl": "De klassieke rondvaart van 50 minuten langs de Oudegracht en de Stadsbuitengracht is de eenvoudigste manier om Utrecht op grachtenniveau te zien, en honden varen gratis mee, zonder extra ticket. De boten hebben een open achterdek waar honden op een handdoek kunnen liggen; neem een korte lijn mee en vermijd het middagvaartje in het hoogseizoen als je hond hittegevoelig is.",
+          "descriptionIt": "La classica gita in barca di 50 minuti lungo la Oudegracht e la Stadsbuitengracht è il modo più semplice per vedere Utrecht dal livello dei canali, e i cani viaggiano gratis, senza biglietto supplementare. Le barche hanno un ponte posteriore aperto dove i cani possono sdraiarsi su un asciugamano; porta un guinzaglio corto ed evita la gita pomeridiana in alta stagione se il tuo cane è sensibile al caldo.",
           "petPolicyDe": "Hunde auf allen Fahrten kostenlos; Diensthunde immer willkommen, beachten Sie das Verbot im Einkaufszentrum Hoog Catharijne auf dem Weg zum Anleger",
           "petPolicyNl": "Honden op alle vaarten gratis; assistentiehonden altijd welkom, let op het verbod in winkelcentrum Hoog Catharijne op weg naar de aanlegsteiger",
+          "petPolicyIt": "Cani gratis su tutte le gite; i cani da assistenza sono sempre benvenuti, attenzione al divieto nel centro commerciale Hoog Catharijne lungo il percorso verso l'imbarcadero",
           "tipDe": "Wenn Sie am Anleger Oudegracht einsteigen, gehen Sie über die Vredenburg-Seite hinein, Hunde (außer Diensthunde) sind im Einkaufszentrum Hoog Catharijne nicht erlaubt.",
-          "tipNl": "Stap je in bij de aanlegsteiger Oudegracht, loop dan binnen via de Vredenburg-kant, honden (behalve assistentiehonden) zijn niet toegestaan in winkelcentrum Hoog Catharijne."
+          "tipNl": "Stap je in bij de aanlegsteiger Oudegracht, loop dan binnen via de Vredenburg-kant, honden (behalve assistentiehonden) zijn niet toegestaan in winkelcentrum Hoog Catharijne.",
+          "tipIt": "Se sali all'imbarcadero della Oudegracht, entra dal lato Vredenburg, i cani (tranne quelli da assistenza) non sono ammessi nel centro commerciale Hoog Catharijne."
         },
         {
           "name": "Wilhelminapark",
@@ -754,10 +845,13 @@
           "tipPt": "Combine com uma viagem de regresso ao centro no autocarro 8, os animais viajam gratuitamente nos autocarros U-OV.",
           "descriptionDe": "Ein eleganter Landschaftspark im englischen Stil aus dem 19. Jahrhundert östlich des Zentrums, mit einem geschwungenen Teich, hohen Platanen und weiten Rasenflächen, beliebt bei Einheimischen aus dem angrenzenden Viertel Buiten Wittevrouwen. Auf den Rasenflächen gilt Leinenpflicht, aber der Park ist eine ruhige, malerische Alternative zum belebteren Griftpark, perfekt für eine gemächliche Morgenrunde. Ein haustierfreundliches Café (Theehuis Wilhelminapark) liegt am südlichen Ende.",
           "descriptionNl": "Een elegant negentiende-eeuws landschapspark in Engelse stijl ten oosten van het centrum, met een slingerende vijver, hoge platanen en ruime grasvelden, populair bij locals uit de aangrenzende wijk Buiten Wittevrouwen. Op de grasvelden geldt aanlijnplicht, maar het park is een rustig, pittoresk alternatief voor het drukkere Griftpark, perfect voor een rustige ochtendwandeling. Een huisdiervriendelijk café (Theehuis Wilhelminapark) ligt aan de zuidkant.",
+          "descriptionIt": "Un elegante parco paesaggistico ottocentesco in stile inglese a est del centro, con uno stagno sinuoso, alti platani e ampi prati, popolare tra i residenti del vicino quartiere di Buiten Wittevrouwen. Sui prati vige l'obbligo di guinzaglio, ma il parco è un'alternativa tranquilla e pittoresca al più affollato Griftpark, perfetto per una tranquilla passeggiata mattutina. Un caffè a misura di animale (Theehuis Wilhelminapark) si trova sul lato sud.",
           "petPolicyDe": "Nur angeleint auf den Rasenflächen; Café-Terrasse haustierfreundlich",
           "petPolicyNl": "Alleen aangelijnd op de grasvelden; caféterras huisdiervriendelijk",
+          "petPolicyIt": "Solo al guinzaglio sui prati; terrazza del caffè a misura di animale",
           "tipDe": "Kombinieren Sie es mit einer Rückfahrt ins Zentrum mit dem Bus 8, Haustiere reisen kostenlos in U-OV-Bussen.",
-          "tipNl": "Combineer het met een terugrit naar het centrum met bus 8, huisdieren reizen gratis mee in U-OV-bussen."
+          "tipNl": "Combineer het met een terugrit naar het centrum met bus 8, huisdieren reizen gratis mee in U-OV-bussen.",
+          "tipIt": "Abbinalo a un ritorno in centro con l'autobus 8, gli animali viaggiano gratis sugli autobus U-OV."
         }
       ],
       "tipsEn": [
@@ -840,8 +934,10 @@
       ],
       "titleDe": "Hundefreundliche Aktivitäten in Utrecht",
       "titleNl": "Hondvriendelijke activiteiten in Utrecht",
+      "titleIt": "Attività a misura di cane a Utrecht",
       "introDe": "Die kompakte mittelalterliche Altstadt von Utrecht, die Kais der Oudegracht auf Grachtenhöhe und der umliegende Grüngürtel sorgen dafür, dass die meisten typischen Erlebnisse der Stadt mit Hund an Ihrer Seite zugänglich sind. Drei Highlights stechen hervor: die offenen Höfe rund um den Dom, eine hundefreundliche Grachtenfahrt und der größte leinenfreie Park der Stadt.",
       "introNl": "De compacte middeleeuwse binnenstad van Utrecht, de kades van de Oudegracht op grachtenniveau en de omliggende groene gordel zorgen ervoor dat de meeste typische ervaringen van de stad toegankelijk zijn met je hond aan je zijde. Drie hoogtepunten springen eruit: de open binnenplaatsen rond de Dom, een hondvriendelijke rondvaart en het grootste losloopgebied van de stad.",
+      "introIt": "Il compatto centro storico medievale di Utrecht, le banchine della Oudegracht al livello dei canali e la cintura verde circostante fanno sì che la maggior parte delle esperienze tipiche della città siano accessibili con il tuo cane al fianco. Tre punti salienti spiccano: i cortili aperti intorno al Dom, una gita in barca a misura di cane e la più grande area di sgambamento libero della città.",
       "faqsDe": [
         {
           "q": "Kann ich meinen Hund auf eine Grachtenfahrt in Utrecht mitnehmen?",
@@ -869,6 +965,20 @@
           "q": "Zijn honden toegestaan in musea in Utrecht?",
           "a": "De meeste musea in Utrecht (Centraal Museum, Spoorwegmuseum, Nijntje Museum, Domtoren) laten alleen assistentiehonden toe. Buitenplaatsen en tuinen zijn meestal toegankelijk aan de lijn."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane su una gita in barca a Utrecht?",
+          "a": "Sì, la Rederij Schuttevaer accoglie i cani su tutte le classiche gite in barca senza costi aggiuntivi. I cani (tranne quelli da assistenza) non sono ammessi nel centro commerciale Hoog Catharijne, quindi raggiungi l'imbarcadero sulla Oudegracht dal lato Vredenburg."
+        },
+        {
+          "q": "Il centro storico di Utrecht è accessibile con il cane?",
+          "a": "Sì, l'intero nucleo storico all'interno della Singel è percorribile al guinzaglio, incluso il Domplein, i giardini del Pandhof e le banchine della Oudegracht. Fai attenzione ai ciclisti e alla banchina inferiore lastricata nei momenti di maggiore affluenza."
+        },
+        {
+          "q": "I cani sono ammessi nei musei di Utrecht?",
+          "a": "La maggior parte dei musei di Utrecht (Centraal Museum, Spoorwegmuseum, Nijntje Museum, Domtoren) ammette solo cani da assistenza. I cortili esterni e i giardini sono generalmente accessibili al guinzaglio."
+        }
       ]
     },
     "petsitting": {
@@ -894,8 +1004,10 @@
           "tipPt": "Filtre por 'identidade verificada' e 'experiência com a raça' antes de reservar, Utrecht tem muitos cuidadores mas a qualidade varia.",
           "descriptionDe": "Der größte verifizierte Marktplatz für Haustierbetreuung in den Niederlanden, mit tausenden Buchungen in Utrecht und einer Durchschnittsbewertung über 4,9 von 5. Bietet Kurzbesuche, Ganztagsbetreuung, Gassi-Service und Übernachtungsbetreuung, alles auf Englisch buchbar. Nützlich für kurze Museumsbesuche oder ganztägige Ausflüge nach Amsterdam, bei denen der Hund nicht mitkommen kann.",
           "descriptionNl": "Het grootste geverifieerde marktplatform voor huisdierenoppas in Nederland, met duizenden boekingen in Utrecht en een gemiddelde beoordeling boven de 4,9 van 5. Biedt korte bezoekjes, dagopvang, uitlaatservice en logeeropvang, allemaal in het Engels te boeken. Handig voor korte museumbezoeken of dagtripjes naar Amsterdam waarbij de hond niet mee kan.",
+          "descriptionIt": "La più grande piattaforma di mercato verificata per la cura degli animali nei Paesi Bassi, con migliaia di prenotazioni a Utrecht e una valutazione media superiore a 4,9 su 5. Offre brevi visite, asilo diurno, servizio di passeggiate e pensione notturna, tutto prenotabile in inglese. Utile per brevi visite ai musei o gite in giornata ad Amsterdam dove il cane non può venire.",
           "tipDe": "Filtern Sie vor der Buchung nach 'verifizierte ID' und 'Erfahrung mit der Rasse', Utrecht hat viele Sitter, aber die Qualität ist unterschiedlich.",
-          "tipNl": "Filter voor het boeken op 'geverifieerde ID' en 'ervaring met het ras', Utrecht heeft veel oppassers, maar de kwaliteit verschilt."
+          "tipNl": "Filter voor het boeken op 'geverifieerde ID' en 'ervaring met het ras', Utrecht heeft veel oppassers, maar de kwaliteit verschilt.",
+          "tipIt": "Filtra al momento della prenotazione per \"identità verificata\" ed \"esperienza con la razza\", Utrecht ha molti pet sitter, ma la qualità varia."
         },
         {
           "name": "Petbnb Utrecht",
@@ -912,8 +1024,10 @@
           "tipPt": "Todas as reservas incluem seguro de responsabilidade civil perante terceiros, uma tranquilidade útil se o seu cão for reativo em casas que não conhece.",
           "descriptionDe": "Eine ausschließlich niederländischsprachige Sitter-Plattform mit inbegriffener Premium-Haustierversicherung und 24/7-Kundensupport bei jeder Buchung. Die Abdeckung ist im Zentrum von Utrecht und den umliegenden Vororten dicht. Die englische Oberfläche macht sie zur unkompliziertesten Option für Kurzbesucher, die kein Niederländisch lesen.",
           "descriptionNl": "Een uitsluitend Nederlandstalig oppasplatform met inbegrepen premium huisdierenverzekering en 24/7-klantenservice bij elke boeking. De dekking is dicht in het centrum van Utrecht en de omliggende voorsteden. De Engelse interface maakt het de eenvoudigste optie voor kortetermijnbezoekers die geen Nederlands lezen.",
+          "descriptionIt": "Una piattaforma per pet sitter originariamente solo in olandese, con assicurazione premium per animali inclusa e assistenza clienti 24 ore su 24 in ogni prenotazione. La copertura è densa nel centro di Utrecht e nei sobborghi circostanti. L'interfaccia in inglese la rende l'opzione più semplice per i visitatori a breve termine che non leggono l'olandese.",
           "tipDe": "Alle Buchungen beinhalten eine Haftpflichtversicherung, nützlich zur Beruhigung, falls Ihr Hund in fremden Wohnungen reaktiv ist.",
-          "tipNl": "Alle boekingen omvatten een aansprakelijkheidsverzekering, handig ter geruststelling als je hond reactief is in vreemde woningen."
+          "tipNl": "Alle boekingen omvatten een aansprakelijkheidsverzekering, handig ter geruststelling als je hond reactief is in vreemde woningen.",
+          "tipIt": "Tutte le prenotazioni includono un'assicurazione di responsabilità civile, utile come rassicurazione se il tuo cane è reattivo in case sconosciute."
         },
         {
           "name": "Rover Utrecht",
@@ -930,8 +1044,10 @@
           "tipPt": "Os passeadores da Rover costumam fazer percursos fixos, marque primeiro uma sessão de apresentação se o seu cão desconfiar de pessoas novas.",
           "descriptionDe": "Globale Plattform für Sitter und Gassigeher mit starker Abdeckung in Utrecht und der gleichen In-App-Nachrichtenfunktion wie im Rest Europas. Die meisten Sitter bieten standardmäßig tägliche Spaziergänge an (60 Minuten nach festem Zeitplan) sowie Übernachtungsbetreuung auf Anfrage. Eine Versicherung ist bei jeder Rover-Buchung standardmäßig inbegriffen.",
           "descriptionNl": "Wereldwijd platform voor oppassers en uitlaters met sterke dekking in Utrecht en dezelfde in-app-berichtenfunctie als in de rest van Europa. De meeste oppassers bieden standaard dagelijkse wandelingen aan (60 minuten volgens vast schema) plus logeeropvang op aanvraag. Verzekering is standaard inbegrepen bij elke Rover-boeking.",
+          "descriptionIt": "Piattaforma globale per pet sitter e dog walker con una forte copertura a Utrecht e la stessa funzione di messaggistica in-app del resto d'Europa. La maggior parte dei pet sitter offre di default passeggiate giornaliere (60 minuti secondo un orario fisso) più pensione notturna su richiesta. L'assicurazione è inclusa di default in ogni prenotazione Rover.",
           "tipDe": "Rover-Gassigeher arbeiten in der Regel feste Routen, vereinbaren Sie zuerst ein Kennenlerntreffen, wenn Ihr Hund fremden Menschen gegenüber zurückhaltend ist.",
-          "tipNl": "Rover-uitlaters werken doorgaans vaste routes, spreek eerst een kennismaking af als je hond terughoudend is tegenover vreemden."
+          "tipNl": "Rover-uitlaters werken doorgaans vaste routes, spreek eerst een kennismaking af als je hond terughoudend is tegenover vreemden.",
+          "tipIt": "I dog walker di Rover di solito seguono percorsi fissi, organizza prima un incontro conoscitivo se il tuo cane è diffidente verso gli estranei."
         }
       ],
       "tipsEn": [
@@ -1014,8 +1130,10 @@
       ],
       "titleDe": "Haustierbetreuung & Gassi-Service in Utrecht",
       "titleNl": "Huisdierenoppas & uitlaatservice in Utrecht",
+      "titleIt": "Cura degli animali e servizio di passeggiate a Utrecht",
       "introDe": "Utrecht verfügt dank der hundeliebenden Kultur der Stadt und der Nähe zur veterinärmedizinischen Fakultät über eine starke Infrastruktur für Haustierbetreuung. Drei Online-Plattformen decken die Stadt gut ab, buchen Sie in den Schulferien mindestens 48 Stunden im Voraus und bringen Sie einen Impfnachweis mit. Die meisten Sitter akzeptieren Buchungen auf Englisch.",
       "introNl": "Utrecht beschikt dankzij de hondenlievende cultuur van de stad en de nabijheid van de faculteit diergeneeskunde over een sterke infrastructuur voor huisdierenoppas. Drie online platforms dekken de stad goed, boek in de schoolvakanties minstens 48 uur van tevoren en neem een vaccinatiebewijs mee. De meeste oppassers accepteren boekingen in het Engels.",
+      "introIt": "Grazie alla cultura amante dei cani della città e alla vicinanza della facoltà di veterinaria, Utrecht dispone di una solida infrastruttura per la cura degli animali. Tre piattaforme online coprono bene la città, prenota almeno 48 ore prima durante le vacanze scolastiche e porta con te un certificato di vaccinazione. La maggior parte dei pet sitter accetta prenotazioni in inglese.",
       "faqsDe": [
         {
           "q": "Was kostet Haustierbetreuung in Utrecht?",
@@ -1042,6 +1160,20 @@
         {
           "q": "Kan ik mijn hond in plaats daarvan in het hotel laten?",
           "a": "De meeste hotels in Utrecht staan niet toe dat honden onbeheerd op de kamer worden achtergelaten. Hotel Mitland is een van de weinige met hondenoppas ter plaatse; boek anders een oppas voor de benodigde uren."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Quanto costa la cura degli animali a Utrecht?",
+          "a": "Le brevi visite partono da circa 15 €, le passeggiate da circa 18 € per 60 minuti, l'asilo diurno da circa 25-35 €, e la pensione notturna 30-50 €, a seconda dell'esperienza del pet sitter e della taglia del cane."
+        },
+        {
+          "q": "I pet sitter sono assicurati?",
+          "a": "Pawshake, Petbnb e Rover includono di default un'assicurazione di responsabilità civile e una copertura infortuni nelle prenotazioni effettuate tramite la piattaforma."
+        },
+        {
+          "q": "Posso lasciare il mio cane in hotel invece che con un pet sitter?",
+          "a": "La maggior parte degli hotel a Utrecht non permette di lasciare i cani incustoditi in camera. Hotel Mitland è uno dei pochi con un servizio di pet sitting in loco; altrimenti prenota un pet sitter per le ore necessarie."
         }
       ]
     }

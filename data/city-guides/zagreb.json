@@ -34,10 +34,13 @@
           "mustTryPt": "Tábua de queijo croata de Pag, prova de vinhos Plavac Mali locais",
           "descriptionDe": "Eine spezialisierte Käse-und-Wein-Bar einen Block vom Ban-Jelačić-Platz entfernt, bei lokalen Haustierbesitzern bekannt für den herzlichen Empfang von Hunden. Die Innenbestuhlung lässt angeleinte Hunde nach Ermessen der Bar zu; die Außenterrasse ist vollständig für Haustiere geöffnet. Das Personal bringt zügig Wassernäpfe.",
           "descriptionNl": "Een gespecialiseerde kaas-en-wijnbar op een blok van het Ban Jelačić-plein, bekend bij lokale huisdiereigenaars om de warme ontvangst van honden. De binnenbestoeling laat aangelijnde honden toe naar goeddunken van de bar; het buitenterras is volledig open voor huisdieren. Het personeel brengt vlot waterbakjes.",
+          "descriptionIt": "Un wine bar specializzato in formaggi a un isolato da Piazza Ban Jelačić, conosciuto dai proprietari di animali locali per la calorosa accoglienza riservata ai cani. All'interno i cani al guinzaglio sono ammessi a discrezione del locale; la terrazza esterna è completamente aperta agli animali. Il personale porta subito le ciotole d'acqua.",
           "petPolicyDe": "Hunde auf der Terrasse jederzeit willkommen; drinnen nach Ermessen des Personals",
           "petPolicyNl": "Honden altijd welkom op het terras; binnen naar goeddunken van het personeel",
+          "petPolicyIt": "Cani sempre benvenuti in terrazza; dentro a discrezione del personale",
           "mustTryDe": "Kroatische Pag-Käseplatte, lokale Plavac-Mali-Weinprobe",
-          "mustTryNl": "Kroatische kaasplank van Pag, lokale Plavac Mali-wijnproeverij"
+          "mustTryNl": "Kroatische kaasplank van Pag, lokale Plavac Mali-wijnproeverij",
+          "mustTryIt": "Tagliere di formaggi croati di Pag, degustazione di Plavac Mali locale"
         },
         {
           "name": "Stari Fijaker",
@@ -60,10 +63,13 @@
           "mustTryPt": "Štrukli (folhado de queijo), zagrebački odrezak (escalope de vitela)",
           "descriptionDe": "Eine hundertjährige Zagreber Institution, die traditionelle kroatische Gerichte in einem historischen Gebäude nahe der Standseilbahn zur Oberstadt serviert. Die überdachte Terrasse und der geschützte Vorgarten heißen angeleinte Hunde ganzjährig willkommen; die holzgetäfelten Innenräume sind menschlichen Gästen vorbehalten. Zuverlässig für echte kroatische Hausmannskost.",
           "descriptionNl": "Een honderdjarige Zagrebse instelling die traditionele Kroatische gerechten serveert in een historisch pand bij de kabelbaan naar de Bovenstad. Het overdekte terras en de beschutte voortuin verwelkomen aangelijnde honden het hele jaar door; het houten interieur is voorbehouden aan menselijke gasten. Betrouwbaar voor echte Kroatische huiskost.",
+          "descriptionIt": "Un'istituzione centenaria di Zagreb che serve piatti tradizionali croati in un edificio storico vicino alla funicolare per la Città Alta. La terrazza coperta e il giardino riparato accolgono i cani al guinzaglio tutto l'anno; l'interno in legno è riservato agli ospiti umani. Affidabile per la vera cucina casalinga croata.",
           "petPolicyDe": "Hunde auf überdachter Terrasse und im Garten willkommen, angeleint",
           "petPolicyNl": "Honden welkom op overdekt terras en in de tuin, aangelijnd",
+          "petPolicyIt": "Cani benvenuti in terrazza coperta e in giardino, al guinzaglio",
           "mustTryDe": "Štrukli (Käsegebäck), Zagrebački odrezak (Kalbsschnitzel)",
-          "mustTryNl": "Štrukli (kaasgebak), Zagrebački odrezak (kalfsschnitzel)"
+          "mustTryNl": "Štrukli (kaasgebak), Zagrebački odrezak (kalfsschnitzel)",
+          "mustTryIt": "Štrukli (torta salata al formaggio), Zagrebački odrezak (cotoletta di vitello)"
         },
         {
           "name": "Mali Bar",
@@ -86,10 +92,13 @@
           "mustTryPt": "Carpaccio de polvo, bochecha de vaca cozinhada em lume brando",
           "descriptionDe": "Modernes Restaurant mit kleinen Gerichten von Köchin Ana Ugarković, häufig in Bestenlisten genannt. Die straßenseitige Außenbestuhlung akzeptiert angeleinte Hunde; die Innenplätze sind Gästen vorbehalten. Die Küche bringt auf Anfrage zuverlässig einen Wassernapf, und das Personal ist von Hunden am Tisch unbeeindruckt.",
           "descriptionNl": "Modern restaurant met kleine gerechten van chef Ana Ugarković, vaak genoemd in bestenlijsten. De buitenbestoeling aan de straatkant accepteert aangelijnde honden; de plekken binnen zijn voorbehouden aan gasten. De keuken brengt op verzoek betrouwbaar een waterbakje, en het personeel is niet onder de indruk van honden aan tafel.",
+          "descriptionIt": "Ristorante moderno con piccoli piatti della chef Ana Ugarković, spesso citato nelle liste dei migliori. I tavoli esterni sul marciapiede accettano cani al guinzaglio; i posti interni sono riservati agli ospiti. La cucina porta affidabilmente una ciotola d'acqua su richiesta, e il personale non si scompone davanti a un cane a tavola.",
           "petPolicyDe": "Hunde auf der Straßenterrasse willkommen, angeleint",
           "petPolicyNl": "Honden welkom op het straatterras, aangelijnd",
+          "petPolicyIt": "Cani benvenuti in terrazza sulla strada, al guinzaglio",
           "mustTryDe": "Oktopus-Carpaccio, langsam gegarte Rinderbacke",
-          "mustTryNl": "Octopuscarpaccio, langzaam gegaarde runderwang"
+          "mustTryNl": "Octopuscarpaccio, langzaam gegaarde runderwang",
+          "mustTryIt": "Carpaccio di polpo, guancia di manzo cotta lentamente"
         }
       ],
       "tipsEn": [
@@ -172,8 +181,10 @@
       ],
       "titleDe": "Hundefreundliche Restaurants in Zagreb",
       "titleNl": "Hondvriendelijke restaurants in Zagreb",
+      "titleIt": "Ristoranti pet-friendly a Zagreb",
       "introDe": "Zagrebs Café-Kultur ist weitgehend hundefreundlich, wobei sich die dichteste Ansammlung haustierfreundlicher Lokale auf der Tkalčićeva-Straße, der Bogovićeva und den Terrassen der Oberstadt konzentriert. Kellner bringen routinemäßig ungefragt Wassernäpfe, und die meisten Cafés lassen bei kaltem Wetter kleine bis mittelgroße Hunde auch drinnen zu. Drei zuverlässige, geprüfte Adressen unten, alle zentral gelegen, alle vom Hauptplatz aus zu Fuß erreichbar.",
       "introNl": "De cafécultuur van Zagreb is grotendeels hondvriendelijk, met de dichtste concentratie huisdiervriendelijke plekken op de Tkalčićeva-straat, de Bogovićeva en de terrassen van de Bovenstad. Obers brengen standaard ongevraagd waterbakjes, en de meeste cafés laten bij koud weer kleine tot middelgrote honden ook binnen toe. Drie betrouwbare, geteste adressen hieronder, allemaal centraal gelegen, allemaal lopend bereikbaar vanaf het hoofdplein.",
+      "introIt": "La cultura dei caffè di Zagreb è in gran parte pet-friendly, con la concentrazione più densa di locali pet-friendly su via Tkalčićeva, Bogovićeva e le terrazze della Città Alta. I camerieri portano di norma ciotole d'acqua senza che tu debba chiederle, e la maggior parte dei caffè fa entrare anche i cani piccoli o medi quando fa freddo. Tre indirizzi affidabili e testati qui sotto, tutti centrali, tutti raggiungibili a piedi dalla piazza principale.",
       "faqsDe": [
         {
           "q": "Können große Hunde in Zagreber Restaurants drinnen sitzen?",
@@ -201,6 +212,20 @@
           "q": "Zijn er in Zagreb speciale hondenmenu's in restaurants?",
           "a": "Niet officieel, maar veel cafés bieden gratis hondensnacks of koekjes aan bij de bar. Sommige huisdierthemacafés zoals KIC Klub serveren op verzoek ook hondenvoer."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani grandi possono sedersi dentro nei ristoranti di Zagreb?",
+          "a": "La maggior parte dei ristoranti centrali di Zagreb accetta cani piccoli dentro e cani grandi in terrazza. L'accesso dei cani grandi all'interno dipende dalla gestione, chiedi conferma all'arrivo."
+        },
+        {
+          "q": "La pet-friendly via Tkalčićeva è aperta anche d'inverno?",
+          "a": "Sì, la Tkalčićeva è senza auto tutto l'anno, e la maggior parte dei caffè allestisce terrazze riscaldate e coperte da novembre a marzo. Ciotole d'acqua e copertine per cani sono comuni d'inverno."
+        },
+        {
+          "q": "Ci sono menu speciali per cani nei ristoranti di Zagreb?",
+          "a": "Non ufficialmente, ma molti caffè offrono snack o biscotti gratis per cani al bancone. Alcuni caffè a tema animali come il KIC Klub servono anche cibo per cani su richiesta."
+        }
       ]
     },
     "parks": {
@@ -222,7 +247,8 @@
           "descriptionEs": "Parque emblemático de Zagreb (316 ha) con cinco lagos y la principal zona sin correa vallada de la ciudad, cerca del segundo lago. Los tranvías 4, 7, 11 y 12 paran en la entrada. El bucle perimetral de 4 km es el paseo largo clásico; las zonas boscosas más allá de los lagos siguen tranquilas incluso los fines de semana.",
           "descriptionPt": "Parque emblemático de Zagreb (316 ha), com cinco lagos e a principal zona sem trela vedada da cidade, perto do segundo lago. Os elétricos 4, 7, 11 e 12 param à entrada. O percurso perimetral de 4 km é o passeio longo clássico; as zonas de bosque para lá dos lagos mantêm-se tranquilas mesmo aos fins de semana.",
           "descriptionDe": "Zagrebs Vorzeigepark mit 316 Hektar, fünf Seen und der wichtigsten eingezäunten Freilaufzone der Stadt nahe dem zweiten See. Die Straßenbahnlinien 4, 7, 11 und 12 halten am Eingang. Die 4 km lange Umrundung ist der klassische lange Spaziergang; die Waldabschnitte hinter den Seen bleiben auch am Wochenende ruhig.",
-          "descriptionNl": "Het vlaggenschippark van Zagreb met 316 hectare, vijf meren en de belangrijkste omheinde losloopzone van de stad bij het tweede meer. Tramlijnen 4, 7, 11 en 12 stoppen bij de ingang. De rondgang van 4 km is de klassieke lange wandeling; de bosgedeeltes achter de meren blijven ook in het weekend rustig."
+          "descriptionNl": "Het vlaggenschippark van Zagreb met 316 hectare, vijf meren en de belangrijkste omheinde losloopzone van de stad bij het tweede meer. Tramlijnen 4, 7, 11 en 12 stoppen bij de ingang. De rondgang van 4 km is de klassieke lange wandeling; de bosgedeeltes achter de meren blijven ook in het weekend rustig.",
+          "descriptionIt": "Il parco simbolo di Zagreb, 316 ettari, cinque laghi e la principale area sgambamento recintata della città vicino al secondo lago. Le linee tram 4, 7, 11 e 12 fermano all'ingresso. Il giro di 4 km è la classica lunga passeggiata; le zone boschive dietro i laghi restano tranquille anche nel weekend."
         },
         {
           "name": "Bundek Park",
@@ -235,7 +261,8 @@
           "descriptionEs": "Parque moderno de 54 hectáreas al sur del río Sava, con una zona canina vallada, dos lagos, senderos para correr y amplias praderas abiertas. Más tranquilo que Maksimir entre semana. Los tranvías 7 y 14 cruzan el río hasta el borde del parque, luego 5 minutos a pie.",
           "descriptionPt": "Parque moderno de 54 hectares a sul do rio Sava, com uma zona canina vedada, dois lagos, trilhos para correr e amplos prados abertos. Mais tranquilo do que Maksimir durante a semana. Os elétricos 7 e 14 atravessam o rio até à orla do parque, depois 5 minutos a pé.",
           "descriptionDe": "Ein 54 Hektar großer moderner Park südlich der Save mit einer ausgewiesenen eingezäunten Hundezone, zwei Seen, Joggingwegen und weiten offenen Wiesen. An Wochentagen ruhiger als Maksimir. Die Straßenbahnlinien 7 und 14 queren den Fluss bis zum Parkrand, dann 5 Minuten zu Fuß.",
-          "descriptionNl": "Een 54 hectare groot modern park ten zuiden van de Sava met een aangewezen omheinde hondenzone, twee meren, hardlooppaden en brede open weiden. Op weekdagen rustiger dan Maksimir. Tramlijnen 7 en 14 steken de rivier over tot aan de parkrand, dan 5 minuten lopen."
+          "descriptionNl": "Een 54 hectare groot modern park ten zuiden van de Sava met een aangewezen omheinde hondenzone, twee meren, hardlooppaden en brede open weiden. Op weekdagen rustiger dan Maksimir. Tramlijnen 7 en 14 steken de rivier over tot aan de parkrand, dan 5 minuten lopen.",
+          "descriptionIt": "Un moderno parco di 54 ettari a sud della Sava con una zona per cani recintata designata, due laghi, sentieri per la corsa e ampi prati aperti. Più tranquillo di Maksimir nei giorni feriali. Le linee tram 7 e 14 attraversano il fiume fino al bordo del parco, poi 5 minuti a piedi."
         },
         {
           "name": "Jarun Lake",
@@ -248,7 +275,8 @@
           "descriptionEs": "Parque recreativo de 240 ha junto al lago, al oeste del centro, con un sendero perimetral de 7 km popular entre corredores y paseadores de perros. Dos secciones de playa canina dedicadas permiten el baño sin correa en verano. Los tranvías 5 y 17 paran en el borde del parque.",
           "descriptionPt": "Parque recreativo de 240 ha junto ao lago, a oeste do centro, com um trilho perimetral de 7 km popular entre corredores e passeadores de cães. Há duas secções de praia canina dedicadas onde os cães podem nadar sem trela no verão. Os elétricos 5 e 17 param na orla do parque.",
           "descriptionDe": "Ein 240 Hektar großer Erholungspark am See westlich des Zentrums mit einem 7 km langen Rundweg, beliebt bei Läufern und Hundebesitzern. Zwei ausgewiesene Hundestrandabschnitte erlauben im Sommer das Schwimmen ohne Leine. Die Straßenbahnlinien 5 und 17 halten am Parkrand.",
-          "descriptionNl": "Een 240 hectare groot recreatiepark bij het meer ten westen van het centrum met een rondweg van 7 km, populair bij hardlopers en hondenbezitters. Twee aangewezen hondenstrandgedeeltes staan in de zomer zwemmen zonder lijn toe. Tramlijnen 5 en 17 stoppen bij de parkrand."
+          "descriptionNl": "Een 240 hectare groot recreatiepark bij het meer ten westen van het centrum met een rondweg van 7 km, populair bij hardlopers en hondenbezitters. Twee aangewezen hondenstrandgedeeltes staan in de zomer zwemmen zonder lijn toe. Tramlijnen 5 en 17 stoppen bij de parkrand.",
+          "descriptionIt": "Un parco ricreativo di 240 ettari intorno al lago a ovest del centro con un anello di 7 km, popolare tra podisti e proprietari di cani. Due zone di spiaggia per cani designate permettono di nuotare senza guinzaglio d'estate. Le linee tram 5 e 17 fermano al bordo del parco."
         }
       ],
       "tipsEn": [
@@ -331,8 +359,10 @@
       ],
       "titleDe": "Die besten Hundeparks & Freilaufflächen in Zagreb",
       "titleNl": "De beste hondenparken & losloopgebieden in Zagreb",
+      "titleIt": "I migliori parchi per cani e aree di sgambamento a Zagreb",
       "introDe": "Zagreb verfügt über eines der besten Grünflächennetze Mitteleuropas für Hunde. Maksimir, Bundek, Jarun und Dotrščina bilden einen Ring von Parks, die jeweils mit der Straßenbahn vom Zentrum aus erreichbar sind, und dedizierte Freilaufzonen sind klar eingezäunt und ausgeschildert. Außerhalb dieser Zonen ist die Leine laut Stadtverordnung Pflicht.",
       "introNl": "Zagreb heeft een van de beste groennetwerken van Centraal-Europa voor honden. Maksimir, Bundek, Jarun en Dotrščina vormen een ring van parken, elk met de tram vanuit het centrum bereikbaar, en speciale losloopzones zijn duidelijk omheind en bebord. Buiten deze zones is de lijn volgens de gemeentelijke verordening verplicht.",
+      "introIt": "Zagreb ha una delle migliori reti verdi dell'Europa centrale per i cani. Maksimir, Bundek, Jarun e Dotrščina formano un anello di parchi, ognuno raggiungibile in tram dal centro, e le zone di sgambamento speciali sono chiaramente recintate e segnalate. Fuori da queste zone il guinzaglio è obbligatorio secondo il regolamento comunale.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde im Maksimir-Park außerhalb der eingezäunten Zone ohne Leine laufen?",
@@ -360,6 +390,20 @@
           "q": "Welk Zagrebs park ligt het dichtst bij het centrum?",
           "a": "De parken Tuškanac en Ribnjak liggen binnen 10 minuten lopen van het Ban Jelačić-plein, maar zijn klein; voor een losloopzone zijn Maksimir (15 min. met de tram) of Bundek (12 min. met de tram) de beste keuze."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani possono correre liberi nel parco Maksimir fuori dalla zona recintata?",
+          "a": "No, la legge comunale croata impone il guinzaglio ovunque, tranne che nelle apposite zone di sgambamento recintate. Il punto principale di sgambamento a Maksimir è segnalato; nel resto del parco vale l'obbligo di guinzaglio."
+        },
+        {
+          "q": "Il mio cane può nuotare nel lago di Jarun?",
+          "a": "Sì, due zone di spiaggia per cani designate sulla riva sud permettono di nuotare senza guinzaglio d'estate (giugno-settembre). Fuori da queste zone vale l'obbligo di guinzaglio, e nuotare con i cani è sconsigliato."
+        },
+        {
+          "q": "Quale parco di Zagreb è più vicino al centro?",
+          "a": "I parchi Tuškanac e Ribnjak sono entro 10 minuti a piedi da Piazza Ban Jelačić, ma sono piccoli; per una zona di sgambamento, Maksimir (15 min in tram) o Bundek (12 min in tram) sono le scelte migliori."
+        }
       ]
     },
     "transport": {
@@ -381,7 +425,8 @@
           "descriptionEs": "Red integrada de transporte público de Zagreb: 15 líneas de tranvía, más de 140 de autobús y el funicular histórico que une la Ciudad Baja con la Ciudad Alta. Los perros de más de 30 cm a la cruz necesitan un billete a mitad de precio (≈ 0,85 €), bozal, correa, microchip y cartilla de vacunación al día. Los perros pequeños y gatos en transportín viajan gratis. Una mascota por pasajero; no se permiten en los asientos. Los perros de asistencia están exentos de estas reglas.",
           "descriptionPt": "Rede integrada de transportes públicos de Zagreb: 15 linhas de elétrico, mais de 140 de autocarro e o funicular histórico que liga a Cidade Baixa à Cidade Alta. Os cães com mais de 30 cm na cernelha precisam de bilhete a meio preço (≈0,85 €), açaime, trela, microchip e boletim de vacinas atualizado. Os cães pequenos e gatos em transportadora viajam grátis. Um animal por passageiro; os animais não são permitidos nos bancos. Os cães de assistência estão isentos de todas as regras.",
           "descriptionDe": "Zagrebs integriertes öffentliches Verkehrsnetz: 15 Straßenbahnlinien, über 140 Buslinien und die historische Standseilbahn, die die Unter- und Oberstadt verbindet. Hunde über 30 cm Schulterhöhe benötigen ein Ticket zum halben Preis (ca. 0,85 EUR), einen Maulkorb, eine Leine, einen Mikrochip und ein aktuelles Impfheft. Kleine Hunde und Katzen in der Transportbox fahren kostenlos. Ein Haustier pro Fahrgast; Haustiere dürfen nicht auf den Sitzen sitzen. Blindenführhunde sind von allen Regeln befreit.",
-          "descriptionNl": "Het geïntegreerde openbaarvervoernetwerk van Zagreb: 15 tramlijnen, meer dan 140 buslijnen en de historische kabelbaan die de Onder- en Bovenstad verbindt. Honden groter dan 30 cm schouderhoogte hebben een half-prijs ticket nodig (ca. 0,85 EUR), een muilkorf, een lijn, een microchip en een actueel vaccinatieboekje. Kleine honden en katten in een draagtas reizen gratis. Eén huisdier per reiziger; huisdieren mogen niet op de stoelen zitten. Geleidehonden zijn vrijgesteld van alle regels."
+          "descriptionNl": "Het geïntegreerde openbaarvervoernetwerk van Zagreb: 15 tramlijnen, meer dan 140 buslijnen en de historische kabelbaan die de Onder- en Bovenstad verbindt. Honden groter dan 30 cm schouderhoogte hebben een half-prijs ticket nodig (ca. 0,85 EUR), een muilkorf, een lijn, een microchip en een actueel vaccinatieboekje. Kleine honden en katten in een draagtas reizen gratis. Eén huisdier per reiziger; huisdieren mogen niet op de stoelen zitten. Geleidehonden zijn vrijgesteld van alle regels.",
+          "descriptionIt": "La rete di trasporto pubblico integrata di Zagreb: 15 linee di tram, oltre 140 linee di autobus e la storica funicolare che collega la Città Bassa e la Città Alta. I cani più alti di 30 cm al garrese hanno bisogno di un biglietto a metà prezzo (circa 0,85 EUR), una museruola, un guinzaglio, un microchip e un libretto di vaccinazione aggiornato. I cani piccoli e i gatti in trasportino viaggiano gratis. Un animale per passeggero; gli animali non possono sedersi sui sedili. I cani guida sono esenti da tutte le regole."
         }
       ],
       "tipsEn": [
@@ -464,8 +509,10 @@
       ],
       "titleDe": "Mit dem Hund in Zagrebs öffentlichen Verkehrsmitteln unterwegs",
       "titleNl": "Met je hond in het openbaar vervoer van Zagreb",
+      "titleIt": "Il tuo cane sui trasporti pubblici di Zagreb",
       "introDe": "Zagrebs öffentliche Verkehrsmittel (ZET, Straßenbahnen, Busse und die Standseilbahn) akzeptieren Hunde nach klaren Regeln: kleine Hunde (unter 30 cm) fahren kostenlos in der Transportbox; größere Hunde benötigen einen Maulkorb, eine Leine, ein Impfheft, einen Mikrochip und ein Ticket zum halben Preis. Blindenführhunde fahren frei von allen Auflagen.",
       "introNl": "Het openbaar vervoer van Zagreb (ZET, trams, bussen en de kabelbaan) accepteert honden volgens duidelijke regels: kleine honden (onder 30 cm) reizen gratis in een draagtas; grotere honden hebben een muilkorf, een lijn, een vaccinatieboekje, een microchip en een half-prijs ticket nodig. Geleidehonden reizen vrij van alle verplichtingen.",
+      "introIt": "Il trasporto pubblico di Zagreb (ZET, tram, autobus e funicolare) accetta i cani secondo regole chiare: i cani piccoli (sotto i 30 cm) viaggiano gratis in un trasportino; i cani più grandi hanno bisogno di museruola, guinzaglio, libretto di vaccinazione, microchip e biglietto a metà prezzo. I cani guida viaggiano liberi da tutti gli obblighi.",
       "faqsDe": [
         {
           "q": "Muss ich meinem Hund in Zagreber Straßenbahnen einen Maulkorb anlegen?",
@@ -493,6 +540,20 @@
           "q": "Mogen honden mee in Zagrebse taxi's?",
           "a": "Ja, de meeste Zagrebse taxi's (waaronder Bolt en Uber) accepteren aangelijnde honden naar goeddunken van de chauffeur. Een toeslag van 5 EUR is gebruikelijk; boek via de apps en voeg 'huisdier' toe in de opmerkingen."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio cane deve indossare la museruola sui tram di Zagreb?",
+          "a": "Sì, per ogni cane più alto di 30 cm al garrese. I cani più piccoli in trasportino viaggiano senza museruola. La regola viene fatta rispettare, e i controllori ti chiedono di scendere se il tuo cane non indossa la museruola."
+        },
+        {
+          "q": "Quanto costa un biglietto per animali sulla ZET?",
+          "a": "Circa 0,85 EUR, la metà della tariffa normale di 30 minuti. Compralo prima di salire in un'edicola o chiosco; l'autista non vende biglietti per animali."
+        },
+        {
+          "q": "I cani sono ammessi nei taxi di Zagreb?",
+          "a": "Sì, la maggior parte dei taxi di Zagreb (incluse Bolt e Uber) accetta cani al guinzaglio a discrezione dell'autista. Un sovrapprezzo di 5 EUR è comune; prenota tramite le app e aggiungi 'animale' nelle note."
+        }
       ]
     },
     "beaches": {
@@ -514,7 +575,8 @@
           "descriptionEs": "Dos secciones de playa canina en la orilla sur del lago Jarun (Maltsko jezero), donde los perros con correa pueden bañarse de junio a septiembre. Acceso gratuito, orilla de grava y hierba, sombreada por árboles maduros. Los tranvías 5 y 17 paran en la entrada del parque, luego 10 minutos a pie hasta la orilla sur.",
           "descriptionPt": "Duas secções de praia canina na margem sul do lago Jarun (Maltsko jezero), onde os cães com trela podem nadar de junho a setembro. Entrada gratuita, margem de gravilha e relva, com sombra de árvores adultas. Os elétricos 5 e 17 param na orla do parque, depois 10 minutos a pé até à margem sul.",
           "descriptionDe": "Zwei ausgewiesene Hundestrandabschnitte am Südufer des Jarun-Sees (Maltsko jezero), an denen angeleinte Hunde von Juni bis September schwimmen können. Kostenloser Eintritt, Kies- und Grasufer, von ausgewachsenen Bäumen beschattet. Die Straßenbahnlinien 5 und 17 halten am Parkrand, dann 10 Minuten zu Fuß zum Südufer.",
-          "descriptionNl": "Twee aangewezen hondenstrandgedeeltes aan de zuidoever van het Jarun-meer (Maltsko jezero), waar aangelijnde honden van juni tot september kunnen zwemmen. Gratis toegang, kiezel- en grasoever, beschaduwd door volwassen bomen. Tramlijnen 5 en 17 stoppen bij de parkrand, dan 10 minuten lopen naar de zuidoever."
+          "descriptionNl": "Twee aangewezen hondenstrandgedeeltes aan de zuidoever van het Jarun-meer (Maltsko jezero), waar aangelijnde honden van juni tot september kunnen zwemmen. Gratis toegang, kiezel- en grasoever, beschaduwd door volwassen bomen. Tramlijnen 5 en 17 stoppen bij de parkrand, dan 10 minuten lopen naar de zuidoever.",
+          "descriptionIt": "Due zone di spiaggia per cani designate sulla riva sud del lago di Jarun (Maltsko jezero), dove i cani al guinzaglio possono nuotare da giugno a settembre. Ingresso gratuito, riva di ciottoli ed erba, ombreggiata da alberi maturi. Le linee tram 5 e 17 fermano al bordo del parco, poi 10 minuti a piedi fino alla riva sud."
         },
         {
           "name": "Bundek Lakes",
@@ -527,7 +589,8 @@
           "descriptionEs": "Dos pequeños lagos en el corazón del parque Bundek (al sur del Sava). El baño está oficialmente permitido y la pequeña sección dog-friendly de la orilla oeste tiene buena sombra. Más tranquilo que Jarun. Tranvía 7 hasta la parada Sopot, luego 5 minutos a pie al sur.",
           "descriptionPt": "Dois pequenos lagos no coração do parque Bundek (a sul do Sava). O banho é oficialmente permitido e a pequena secção pet-friendly junto à margem oeste tem boa sombra. Mais tranquilo do que Jarun. Elétrico 7 até à paragem Sopot, depois 5 minutos a pé para sul.",
           "descriptionDe": "Zwei kleine Seen im Herzen des Bundek-Parks (südlich der Save). Schwimmen ist offiziell erlaubt, und der kleine hundefreundliche Abschnitt am Westufer ist gut beschattet. Ruhiger als Jarun. Straßenbahn 7 bis Haltestelle Sopot, dann 5 Minuten zu Fuß nach Süden.",
-          "descriptionNl": "Twee kleine meren in het hart van het Bundek-park (ten zuiden van de Sava). Zwemmen is officieel toegestaan, en het kleine hondvriendelijke gedeelte aan de westoever ligt goed in de schaduw. Rustiger dan Jarun. Tram 7 tot halte Sopot, dan 5 minuten lopen naar het zuiden."
+          "descriptionNl": "Twee kleine meren in het hart van het Bundek-park (ten zuiden van de Sava). Zwemmen is officieel toegestaan, en het kleine hondvriendelijke gedeelte aan de westoever ligt goed in de schaduw. Rustiger dan Jarun. Tram 7 tot halte Sopot, dan 5 minuten lopen naar het zuiden.",
+          "descriptionIt": "Due piccoli laghi nel cuore del Parco Bundek (a sud della Sava). Il nuoto è ufficialmente consentito, e la piccola zona pet-friendly sulla riva ovest è ben ombreggiata. Più tranquillo di Jarun. Tram 7 fino alla fermata Sopot, poi 5 minuti a piedi verso sud."
         },
         {
           "name": "Sava River Embankment",
@@ -540,7 +603,8 @@
           "descriptionEs": "Dique de protección de 14 km a lo largo del Sava que sirve de principal corredor de running y paseo canino de Zagreb. El «sin correa» en el arcén de grava es ampliamente tolerado fuera de los senderos concurridos; el baño en el Sava no es aconsejable por las corrientes.",
           "descriptionPt": "Dique de proteção contra cheias com 14 km ao longo do Sava, que serve também de principal corredor de corrida e de passeio canino de Zagreb. O passeio sem trela na berma de gravilha é amplamente tolerado fora dos trilhos mais movimentados; o banho no Sava não é aconselhável devido às correntes.",
           "descriptionDe": "Ein 14 km langer Hochwasserschutzdamm entlang der Save, der zugleich Zagrebs wichtigster Lauf- und Hundespazierweg ist. Freilauf auf dem Kiesbankett wird abseits belebter Wege weitgehend toleriert; Schwimmen in der Save wird wegen der Strömung nicht empfohlen.",
-          "descriptionNl": "Een 14 km lange waterkeringsdijk langs de Sava, tegelijk de belangrijkste hardloop- en hondenwandelroute van Zagreb. Loslopen op de kiezelberm wordt grotendeels getolereerd weg van drukke paden; zwemmen in de Sava wordt afgeraden vanwege de stroming."
+          "descriptionNl": "Een 14 km lange waterkeringsdijk langs de Sava, tegelijk de belangrijkste hardloop- en hondenwandelroute van Zagreb. Loslopen op de kiezelberm wordt grotendeels getolereerd weg van drukke paden; zwemmen in de Sava wordt afgeraden vanwege de stroming.",
+          "descriptionIt": "Un argine di 14 km lungo la Sava, anche il principale percorso di corsa e passeggiata con il cane di Zagreb. Lo sgambamento libero sul terrapieno di ciottoli è ampiamente tollerato lontano dai sentieri affollati; nuotare nella Sava è sconsigliato per via della corrente."
         }
       ],
       "tipsEn": [
@@ -623,8 +687,10 @@
       ],
       "titleDe": "Hundefreundliche Seen & Badestellen in Zagreb",
       "titleNl": "Hondvriendelijke meren & zwemplekken in Zagreb",
+      "titleIt": "Laghi e punti balneabili pet-friendly a Zagreb",
       "introDe": "Zagreb liegt im Landesinneren, die Adriaküste ist drei Stunden mit dem Auto entfernt, doch die Seen der Stadt bieten geeignete Sommer-Badestellen für Hunde. Der Jarun-See und der Bundek-Park verfügen über ausgewiesene hundefreundliche Abschnitte, und der Save-Uferdamm bietet ganzjährig schattige Flussspaziergänge.",
       "introNl": "Zagreb ligt landinwaarts, de Adriatische kust is drie uur rijden verwijderd, maar de meren van de stad bieden geschikte zomerzwemplekken voor honden. Het Jarun-meer en het Bundek-park hebben aangewezen hondvriendelijke gedeeltes, en de oeverdijk van de Sava biedt het hele jaar schaduwrijke rivierwandelingen.",
+      "introIt": "Zagreb si trova nell'entroterra, la costa adriatica è a tre ore d'auto, ma i laghi della città offrono ottimi punti balneabili estivi per i cani. Il lago di Jarun e il Parco Bundek hanno zone pet-friendly designate, e l'argine sulla riva della Sava offre passeggiate fluviali ombreggiate tutto l'anno.",
       "faqsDe": [
         {
           "q": "Kann mein Hund in Zagreb im Winter schwimmen?",
@@ -652,6 +718,20 @@
           "q": "Hoe ver is de Adriatische kust vanaf Zagreb?",
           "a": "Ongeveer 3 uur rijden naar Rijeka en de Kvarner-baai. De Plitvicemeren (een populaire dagtrip) liggen 2 uur zuidelijker met de auto, honden zijn aan de lijn welkom op de meeste paden."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "Il mio cane può nuotare a Zagreb in inverno?",
+          "a": "Ufficialmente no, sia la zona per cani di Jarun sia quella di Bundek sono in uso solo da giugno a settembre. Fuori da quel periodo i cani possono camminare sulla riva, ma il nuoto è sconsigliato per via dell'acqua fredda e delle condizioni del lago non sorvegliate."
+        },
+        {
+          "q": "Il lago di Jarun è gratuito?",
+          "a": "Sì, l'accesso al parco e alle zone per cani è gratuito tutto l'anno. I servizi a pagamento (docce, armadietti, noleggio attrezzatura sportiva) sono stagionali."
+        },
+        {
+          "q": "Quanto dista la costa adriatica da Zagreb?",
+          "a": "Circa 3 ore d'auto fino a Fiume e alla baia del Quarnaro. I laghi di Plitvice (una gita di un giorno popolare) sono a 2 ore d'auto più a sud, i cani al guinzaglio sono benvenuti sulla maggior parte dei sentieri."
+        }
       ]
     },
     "vets": {
@@ -674,7 +754,8 @@
           "descriptionEs": "El mayor hospital veterinario 24/7 de Croacia, abierto por el grupo Vetti. Recepción de urgencias completa, cuidados intensivos, quirófano, imagen propia (radiografía, TAC, ecografía) y hospitalización nocturna. Personal anglófono disponible las 24 horas.",
           "descriptionPt": "O maior hospital veterinário 24 horas da Croácia, inaugurado pelo grupo Vetti. Receção de urgências completa, cuidados intensivos, bloco cirúrgico, imagiologia própria (raio-X, TAC, ecografia) e internamento durante a noite. Pessoal que fala inglês disponível 24 horas por dia.",
           "descriptionDe": "Das größte 24/7-Tierkrankenhaus Kroatiens, eröffnet von der Vetti-Gruppe. Vollständiger Notfallempfang, Intensivstation, Operationssaal, hausinterne Bildgebung (Röntgen, CT, Ultraschall) und Übernachtungsstationierung. Englischsprachiges Personal ist rund um die Uhr verfügbar.",
-          "descriptionNl": "Het grootste 24/7-dierenziekenhuis van Kroatië, geopend door de Vetti-groep. Volledige spoedopvang, intensive care, operatiekamer, in-house beeldvorming (röntgen, CT, echografie) en overnachtingsverblijf. Engelssprekend personeel is dag en nacht beschikbaar."
+          "descriptionNl": "Het grootste 24/7-dierenziekenhuis van Kroatië, geopend door de Vetti-groep. Volledige spoedopvang, intensive care, operatiekamer, in-house beeldvorming (röntgen, CT, echografie) en overnachtingsverblijf. Engelssprekend personeel is dag en nacht beschikbaar.",
+          "descriptionIt": "Il più grande ospedale veterinario 24/7 della Croazia, aperto dal gruppo Vetti. Pronto soccorso completo, terapia intensiva, sala operatoria, diagnostica per immagini interna (radiografia, TAC, ecografia) e degenza. Personale che parla inglese disponibile giorno e notte."
         },
         {
           "name": "Veterinary Teaching Hospital (Veterinarski fakultet)",
@@ -688,7 +769,8 @@
           "descriptionEs": "El mayor hospital veterinario universitario de Croacia y centro de referencia terciario. Servicio de urgencias 24/7 (entrada por la calle Charles Darwin), especialidades completas y hospitalización nocturna. La mejor opción para casos complejos o quirúrgicos.",
           "descriptionPt": "O maior hospital veterinário universitário da Croácia e centro de referência terciário. Receção de urgências 24 horas (entrada pela rua Charles Darwin), especialidades completas e internamento durante a noite. A melhor escolha para casos complexos ou cirúrgicos.",
           "descriptionDe": "Kroatiens größtes universitäres Tierkrankenhaus und ein tertiäres Überweisungszentrum. 24-Stunden-Notfallempfang (Eingang von der Charles-Darwin-Straße), vollständige Fachdienstleistungen und Übernachtungsstationierung. Die beste Wahl für komplexe oder chirurgische Fälle.",
-          "descriptionNl": "Het grootste universitaire dierenziekenhuis van Kroatië en een tertiair verwijscentrum. 24-uurs spoedopvang (ingang aan de Charles Darwin-straat), volledige specialistische diensten en overnachtingsverblijf. De beste keuze voor complexe of chirurgische gevallen."
+          "descriptionNl": "Het grootste universitaire dierenziekenhuis van Kroatië en een tertiair verwijscentrum. 24-uurs spoedopvang (ingang aan de Charles Darwin-straat), volledige specialistische diensten en overnachtingsverblijf. De beste keuze voor complexe of chirurgische gevallen.",
+          "descriptionIt": "Il più grande ospedale veterinario universitario della Croazia e un centro di riferimento terziario. Pronto soccorso 24 ore su 24 (ingresso su via Charles Darwin), servizi specialistici completi e degenza. La scelta migliore per casi complessi o chirurgici."
         }
       ],
       "tipsEn": [
@@ -771,8 +853,10 @@
       ],
       "titleDe": "Tierärztlicher Notdienst in Zagreb, Tierarztpraxen & Haustierpflege",
       "titleNl": "Dierenartsen, spoeddienst & huisdierenzorg in Zagreb",
+      "titleIt": "Veterinari, pronto soccorso e cura degli animali a Zagreb",
       "introDe": "Zagreb verfügt über die größte 24/7-Tierarztinfrastruktur Kroatiens, verankert in der Buba Klinika und dem Veterinärlehrkrankenhaus der Universität Zagreb. Beide nehmen Notfälle Tag und Nacht ohne Termin an. Bei der Einreise gelten die EU-Heimtierausweis-Bestimmungen; routinemäßige Impfungen und Mikrochipping werden an den Grenzübergängen kontrolliert.",
       "introNl": "Zagreb heeft de grootste 24/7-dierenartsinfrastructuur van Kroatië, verankerd in de Buba Klinika en het universitaire dierenziekenhuis van Zagreb. Beide nemen spoedgevallen dag en nacht aan zonder afspraak. Bij inreis gelden de regels van het EU-dierenpaspoort; routinevaccinaties en microchipping worden bij grensovergangen gecontroleerd.",
+      "introIt": "Zagreb ha la più grande infrastruttura veterinaria 24/7 della Croazia, incentrata sulla Buba Klinika e sull'ospedale veterinario universitario di Zagreb. Entrambi accettano urgenze giorno e notte senza appuntamento. All'ingresso valgono le regole del passaporto UE per animali; vaccinazioni di routine e microchip vengono controllati ai valichi di frontiera.",
       "faqsDe": [
         {
           "q": "Wohin bringe ich meinen Hund um 03:00 Uhr in Zagreb bei einem Notfall?",
@@ -799,6 +883,20 @@
         {
           "q": "Krijg ik op zondag voorgeschreven medicijnen voor mijn huisdier?",
           "a": "Ja, beide 24/7-ziekenhuizen geven gangbare voorgeschreven medicijnen direct af. Onafhankelijke dierenartsapotheken (bijvoorbeeld Vetfarm) zijn op zondag gesloten, maar de Buba Klinika houdt ter plekke een klein uitgiftepunt open."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Dove porto il mio cane alle 03:00 in caso di urgenza a Zagreb?",
+          "a": "Sia la Buba Klinika (Riječka 10) sia l'ospedale veterinario universitario (Heinzelova 55) hanno assistenza 24/7. Chiama +385 60 600 100 (Buba) per il veterinario di turno, il personale parla inglese."
+        },
+        {
+          "q": "I veterinari di Zagreb accettano il passaporto UE per animali?",
+          "a": "Sì, la Croazia è membro UE e usa lo stesso formato di passaporto. Vaccinazione antirabbica, microchip e trattamento antielminti (se necessario per l'uscita) vengono tutti annotati nel passaporto."
+        },
+        {
+          "q": "Posso avere farmaci con ricetta per il mio animale di domenica?",
+          "a": "Sì, entrambi gli ospedali 24/7 dispensano direttamente i farmaci con ricetta più comuni. Le farmacie veterinarie indipendenti (per esempio Vetfarm) sono chiuse la domenica, ma la Buba Klinika tiene aperto un piccolo punto di distribuzione in loco."
         }
       ]
     },
@@ -898,8 +996,10 @@
       ],
       "titleDe": "Reisetipps für einen Besuch in Zagreb mit Hund",
       "titleNl": "Reistips voor een bezoek aan Zagreb met je hond",
+      "titleIt": "Consigli di viaggio per visitare Zagreb con il tuo cane",
       "introDe": "Zagreb ist eine der einfacheren europäischen Hauptstädte für Reisen mit Hund: Cafés tolerieren sie durchweg, die U-Bahn ist günstig, und vier große Hundeparks umgeben das Zentrum. Die zwei Reibungspunkte sind die Maulkorbpflicht in öffentlichen Verkehrsmitteln für Hunde über 30 cm und die EU-Grenzformalitäten bei der Einreise.",
       "introNl": "Zagreb is een van de makkelijkere Europese hoofdsteden om met een hond te reizen: cafés tolereren ze consequent, het openbaar vervoer is goedkoop, en vier grote hondenparken omringen het centrum. De twee knelpunten zijn de muilkorfplicht in het openbaar vervoer voor honden boven de 30 cm en de EU-grensformaliteiten bij inreis.",
+      "introIt": "Zagreb è una delle capitali europee più semplici da visitare con un cane: i caffè li tollerano sistematicamente, il trasporto pubblico è economico, e quattro grandi parchi per cani circondano il centro. I due punti critici sono l'obbligo di museruola sui trasporti pubblici per i cani sopra i 30 cm e le formalità di frontiera UE all'ingresso.",
       "faqsDe": [
         {
           "q": "Was ist der beste hundefreundliche Tag in Zagreb?",
@@ -927,6 +1027,20 @@
           "q": "Is Zagreb een goed vertrekpunt voor dagtrips met hond?",
           "a": "Ja, de Plitvicemeren (2 uur zuidelijker) en Samobor (30 min. westelijk) zijn allebei hondvriendelijk. De Sljeme op de berg Medvednica is bereikbaar met tram plus kabelbaan (de kabelbaan accepteert aangelijnde honden)."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "Qual è la migliore giornata pet-friendly a Zagreb?",
+          "a": "Passeggiata mattutina a Maksimir o nel bosco di Tuškanac, pranzo sulla Tkalčićeva, funicolare verso la Città Alta per la vista al tramonto, poi cena da Stari Fijaker o Mali Bar."
+        },
+        {
+          "q": "I cani sono ammessi al mercatino di Natale (Advent Zagreb)?",
+          "a": "Sì, l'Advent Zagreb si svolge da novembre a dicembre su diverse piazze centrali (Ban Jelačić, Strossmayer, Zrinjevac), tutte all'aperto e ammesse con cani al guinzaglio. Le bancarelle di legno e i food truck li tollerano; alcuni pop-up coperti no."
+        },
+        {
+          "q": "Zagreb è un buon punto di partenza per gite di un giorno con il cane?",
+          "a": "Sì, i laghi di Plitvice (2 ore a sud) e Samobor (30 min a ovest) sono entrambi pet-friendly. Il monte Sljeme sulla Medvednica è raggiungibile con tram più funivia (la funivia accetta cani al guinzaglio)."
+        }
       ]
     },
     "attractions": {
@@ -948,7 +1062,8 @@
           "descriptionEs": "La Ciudad Alta medieval a la que se sube en el funicular de Zagreb: calles adoquinadas, tejado de azulejos de colores de la iglesia de San Marcos, santuario mariano de la Puerta de Piedra (Kamenita vrata) y cañonazo del mediodía de la torre Lotrščak. Paseo exterior totalmente dog-friendly con varias terrazas. Tranquilo entre semana por la mañana.",
           "descriptionPt": "A Cidade Alta medieval, a que se sobe pelo funicular de Zagreb: ruas de calçada, telhado de azulejos coloridos da igreja de São Marcos, santuário mariano da Porta de Pedra (Kamenita vrata) e o tiro de canhão do meio-dia da torre Lotrščak. Passeio ao ar livre totalmente pet-friendly com vários cafés com esplanada. Tranquilo nas manhãs de dias úteis.",
           "descriptionDe": "Die mittelalterliche Oberstadt, erreichbar mit der Zagreber Standseilbahn: gepflasterte Straßen, das bunt gekachelte Dach der St.-Markus-Kirche, das Marienheiligtum am Steinernen Tor (Kamenita vrata) und der Lotrščak-Turm mit seiner Mittagskanone. Vollständig hundefreundlich zum Spazieren im Freien mit mehreren Terrassencafés. Werktagmorgens ruhig.",
-          "descriptionNl": "De middeleeuwse Bovenstad, bereikbaar met de kabelbaan van Zagreb: geplaveide straten, het kleurrijk betegelde dak van de Sint-Marcuskerk, het Mariaheiligdom bij de Stenen Poort (Kamenita vrata) en de Lotrščak-toren met zijn middagkanon. Volledig hondvriendelijk om buiten te wandelen, met meerdere terrascafés. Rustig op doordeweekse ochtenden."
+          "descriptionNl": "De middeleeuwse Bovenstad, bereikbaar met de kabelbaan van Zagreb: geplaveide straten, het kleurrijk betegelde dak van de Sint-Marcuskerk, het Mariaheiligdom bij de Stenen Poort (Kamenita vrata) en de Lotrščak-toren met zijn middagkanon. Volledig hondvriendelijk om buiten te wandelen, met meerdere terrascafés. Rustig op doordeweekse ochtenden.",
+          "descriptionIt": "La Città Alta medievale, raggiungibile con la funicolare di Zagreb: strade lastricate, il tetto colorato a piastrelle della chiesa di San Marco, il santuario mariano presso la Porta di Pietra (Kamenita vrata) e la torre Lotrščak con il suo cannone di mezzogiorno. Completamente pet-friendly per passeggiare all'aperto, con diversi caffè in terrazza. Tranquilla nei mattina feriali."
         },
         {
           "name": "Mirogoj Cemetery",
@@ -961,7 +1076,8 @@
           "descriptionEs": "Cementerio monumental de Hermann Bollé del siglo XIX, considerado uno de los más hermosos de Europa: arcadas cubiertas de hiedra, avenidas de cipreses, mausoleos de figuras nacionales croatas. Los perros con correa son bienvenidos en las avenidas principales; evitar céspedes y senderos laterales.",
           "descriptionPt": "Cemitério monumental do século XIX de Hermann Bollé, considerado um dos mais belos da Europa: arcadas cobertas de hera, avenidas de ciprestes, mausoléus de figuras nacionais croatas. Os cães com trela são bem-vindos nas avenidas principais; mantenha-os fora dos relvados e dos trilhos laterais.",
           "descriptionDe": "Hermann Bollés monumentaler Friedhof aus dem 19. Jahrhundert, gilt als einer der schönsten Europas: efeuberankte Arkaden, Zypressenalleen, Mausoleen kroatischer Nationalfiguren. Angeleinte Hunde sind auf den Hauptalleen willkommen; bitte halten Sie sie von den Rasenflächen und Seitenwegen fern.",
-          "descriptionNl": "Het monumentale 19e-eeuwse kerkhof van Hermann Bollé, beschouwd als een van de mooiste van Europa: klimopbegroeide arcades, cipressenlanen, mausolea van Kroatische nationale figuren. Aangelijnde honden zijn welkom op de hoofdlanen; houd ze weg van de grasvelden en zijpaden."
+          "descriptionNl": "Het monumentale 19e-eeuwse kerkhof van Hermann Bollé, beschouwd als een van de mooiste van Europa: klimopbegroeide arcades, cipressenlanen, mausolea van Kroatische nationale figuren. Aangelijnde honden zijn welkom op de hoofdlanen; houd ze weg van de grasvelden en zijpaden.",
+          "descriptionIt": "Il monumentale cimitero ottocentesco di Hermann Bollé, considerato tra i più belli d'Europa: arcate coperte d'edera, viali di cipressi, mausolei di figure nazionali croate. I cani al guinzaglio sono benvenuti sui viali principali; tienili lontani dai prati e dai sentieri laterali."
         },
         {
           "name": "Zagreb Funicular & Lotrščak Tower",
@@ -974,7 +1090,8 @@
           "descriptionEs": "Construido en 1890, el funicular de Zagreb es el funicular público más corto del mundo (66 m). El trayecto de 30 segundos de Tomićeva a la Ciudad Alta admite perros con correa (sin bozal). La terraza superior de la torre Lotrščak ofrece la mejor panorámica central de la ciudad.",
           "descriptionPt": "Construído em 1890, o funicular de Zagreb é o funicular público mais curto do mundo, com 66 m. O trajeto de 30 segundos de Tomićeva até à Cidade Alta admite cães com trela (sem exigência de açaime). A esplanada superior, junto à torre Lotrščak, tem a melhor vista panorâmica central da cidade.",
           "descriptionDe": "1890 erbaut, ist die Zagreber Standseilbahn mit 66 m die kürzeste öffentliche Standseilbahn der Welt. Die 30-sekündige Fahrt von Tomićeva zur Oberstadt akzeptiert angeleinte Hunde (keine Maulkorbpflicht). Die Gipfelterrasse am Lotrščak-Turm bietet den besten zentralen Panoramablick der Stadt.",
-          "descriptionNl": "Gebouwd in 1890, is de kabelbaan van Zagreb met 66 m de kortste openbare kabelbaan ter wereld. De rit van 30 seconden van Tomićeva naar de Bovenstad accepteert aangelijnde honden (geen muilkorfplicht). Het topterras bij de Lotrščak-toren biedt het beste centrale panorama van de stad."
+          "descriptionNl": "Gebouwd in 1890, is de kabelbaan van Zagreb met 66 m de kortste openbare kabelbaan ter wereld. De rit van 30 seconden van Tomićeva naar de Bovenstad accepteert aangelijnde honden (geen muilkorfplicht). Het topterras bij de Lotrščak-toren biedt het beste centrale panorama van de stad.",
+          "descriptionIt": "Costruita nel 1890, la funicolare di Zagreb, lunga 66 m, è la funicolare pubblica più corta al mondo. Il tragitto di 30 secondi da Tomićeva alla Città Alta accetta cani al guinzaglio (nessun obbligo di museruola). La terrazza in cima presso la torre Lotrščak offre il miglior panorama centrale della città."
         }
       ],
       "tipsEn": [
@@ -1057,8 +1174,10 @@
       ],
       "titleDe": "Die besten haustierfreundlichen Sehenswürdigkeiten in Zagreb",
       "titleNl": "De beste huisdiervriendelijke bezienswaardigheden in Zagreb",
+      "titleIt": "Le migliori attrazioni pet-friendly a Zagreb",
       "introDe": "Zagrebs kompakte Ober- und Unterstadt sind wie geschaffen für langsame Erkundung mit Hund. Die meisten Sehenswürdigkeiten im Freien akzeptieren angeleinte Haustiere kostenlos: die Standseilbahn, die historischen Straßen des Gornji Grad, der Friedhof Mirogoj und die breiten Terrassen rund um den Ban-Jelačić-Platz. Innenmuseen (mit der seltenen Ausnahme des Innenhofs des Museums der zerbrochenen Beziehungen) lassen keine Hunde zu.",
       "introNl": "De compacte Boven- en Onderstad van Zagreb zijn gemaakt voor rustige verkenning met hond. De meeste buitenbezienswaardigheden accepteren aangelijnde huisdieren gratis: de kabelbaan, de historische straten van Gornji Grad, het kerkhof Mirogoj en de brede terrassen rond het Ban Jelačić-plein. Binnenmusea (met de zeldzame uitzondering van de binnenplaats van het Museum van Gebroken Relaties) laten geen honden toe.",
+      "introIt": "La compatta Città Alta e Città Bassa di Zagreb sono fatte per essere esplorate con calma con il cane. La maggior parte delle attrazioni all'aperto accetta gratuitamente animali al guinzaglio: la funicolare, le strade storiche di Gornji Grad, il cimitero di Mirogoj e le ampie terrazze intorno a Piazza Ban Jelačić. I musei al chiuso (con la rara eccezione del cortile del Museo delle Relazioni Interrotte) non ammettono cani.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund in die Zagreber Kathedrale mitnehmen?",
@@ -1086,6 +1205,20 @@
           "q": "Is de kabelbaan van Zagreb hondvriendelijk?",
           "a": "Ja, aangelijnde honden reizen gratis mee zonder muilkorfplicht naar boven. De rit van 30 seconden is de kortste openbare kabelbaan ter wereld."
         }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane nella cattedrale di Zagreb?",
+          "a": "No, solo i cani guida sono ammessi all'interno della cattedrale. La piazza antistante e via Kaptol sono adatte al cane al guinzaglio."
+        },
+        {
+          "q": "I cani sono ammessi al cimitero di Mirogoj?",
+          "a": "Sì, al guinzaglio, sui viali principali. Mirogoj è tra i cimiteri più belli d'Europa e offre una passeggiata tranquilla in un pomeriggio d'estate caldo."
+        },
+        {
+          "q": "La funicolare di Zagreb è pet-friendly?",
+          "a": "Sì, i cani al guinzaglio viaggiano gratis senza obbligo di museruola verso l'alto. Il tragitto di 30 secondi è la funicolare pubblica più corta al mondo."
+        }
       ]
     },
     "petsitting": {
@@ -1109,8 +1242,10 @@
           "tipPt": "Uma visita pontual de 30 minutos custa cerca de 10-12 € no centro de Zagreb; o cuidado durante o dia inteiro começa por volta de 18-22 €.",
           "descriptionDe": "Der größte verifizierte Marktplatz für Haustierbetreuung in Kroatien mit mehreren hundert Bewertungen in Zagreb und einer Durchschnittsbewertung über 4,7. Bietet Kurzbesuche, ganztägige Betreuung, Hundespaziergänge und Übernachtungsunterbringung im Zuhause des Sitters. Filtern Sie bei der Buchung nach Stadtviertel (Donji Grad, Gornji Grad, Maksimir) und Hundegröße. Zweisprachige Plattform Kroatisch/Englisch.",
           "descriptionNl": "De grootste geverifieerde marktplaats voor huisdierenoppas in Kroatië met enkele honderden reviews in Zagreb en een gemiddelde beoordeling boven de 4,7. Biedt korte bezoekjes, dagopvang, hondenuitlaten en overnachtingsverblijf bij de oppasser thuis. Filter bij het boeken op stadsdeel (Donji Grad, Gornji Grad, Maksimir) en hondengrootte. Tweetalig platform Kroatisch/Engels.",
+          "descriptionIt": "Il più grande marketplace verificato di pet sitting in Croazia con diverse centinaia di recensioni a Zagreb e una valutazione media superiore a 4,7. Offre brevi visite, asilo diurno, passeggiate con il cane e pernottamento a casa del sitter. Filtra per quartiere (Donji Grad, Gornji Grad, Maksimir) e taglia del cane al momento della prenotazione. Piattaforma bilingue croato/inglese.",
           "tipDe": "Ein 30-minütiger Kurzbesuch kostet in der Zagreber Innenstadt etwa 10-12 EUR; ganztägige Betreuung beginnt bei rund 18-22 EUR.",
-          "tipNl": "Een kort bezoekje van 30 minuten kost in het centrum van Zagreb ongeveer 10-12 EUR; dagopvang begint rond 18-22 EUR."
+          "tipNl": "Een kort bezoekje van 30 minuten kost in het centrum van Zagreb ongeveer 10-12 EUR; dagopvang begint rond 18-22 EUR.",
+          "tipIt": "Una breve visita di 30 minuti costa circa 10-12 EUR nel centro di Zagreb; l'asilo diurno parte da circa 18-22 EUR."
         },
         {
           "name": "Pet Sitter Hrvatska",
@@ -1125,8 +1260,10 @@
           "tipPt": "A Pet Sitter Hrvatska é boa para disponibilidade de última hora ao fim de semana, quando a Pawshake fica esgotada.",
           "descriptionDe": "Eine ausschließlich in Kroatien tätige Plattform für Haustierbetreuung mit starker Abdeckung in Zagreb, Split und Zadar. Geeignet, wenn die Verfügbarkeit bei Pawshake gering ist oder für kurzfristige Anfragen. Sitter legen ihre eigenen Preise fest, und die Plattform erhebt eine kleine Provision. Der Buchungsablauf ist auf Kroatisch; englische Anfragen erfolgen über das Kontaktformular.",
           "descriptionNl": "Een platform voor huisdierenoppas dat uitsluitend in Kroatië actief is, met sterke dekking in Zagreb, Split en Zadar. Geschikt als de beschikbaarheid bij Pawshake laag is, of voor last-minute aanvragen. Oppassers bepalen hun eigen tarieven, en het platform rekent een kleine commissie. Het boekingsproces verloopt in het Kroatisch; Engelse aanvragen gaan via het contactformulier.",
+          "descriptionIt": "Una piattaforma di pet sitting attiva esclusivamente in Croazia, con buona copertura a Zagreb, Spalato e Zara. Utile quando la disponibilità su Pawshake è bassa, o per richieste dell'ultimo minuto. I sitter fissano le proprie tariffe, e la piattaforma applica una piccola commissione. Il processo di prenotazione avviene in croato; le richieste in inglese passano dal modulo di contatto.",
           "tipDe": "Pet Sitter Hrvatska eignet sich gut für kurzfristige Verfügbarkeit am Wochenende, wenn Pawshake ausgebucht ist.",
-          "tipNl": "Pet Sitter Hrvatska is goed geschikt voor last-minute beschikbaarheid in het weekend, wanneer Pawshake volgeboekt is."
+          "tipNl": "Pet Sitter Hrvatska is goed geschikt voor last-minute beschikbaarheid in het weekend, wanneer Pawshake volgeboekt is.",
+          "tipIt": "Pet Sitter Hrvatska è utile per la disponibilità dell'ultimo minuto nel weekend, quando Pawshake è al completo."
         }
       ],
       "tipsEn": [
@@ -1209,8 +1346,10 @@
       ],
       "titleDe": "Haustierbetreuung & Hundeausführen in Zagreb",
       "titleNl": "Huisdierenoppas & hondenuitlaten in Zagreb",
+      "titleIt": "Pet sitting e passeggiate con il cane a Zagreb",
       "introDe": "Zagreb verfügt über einen kleinen, aber verlässlichen Markt für Haustierpflege für Reisende. Pawshake Kroatien und die kroatischsprachige Plattform Pet Sitter Hrvatska decken die zentralen Stadtviertel (Donji Grad, Gornji Grad, Maksimir) mit verifizierten Profilen ab, und mehrere unabhängige Hundepensionen sind in den Vororten für längere Aufenthalte tätig. Die meisten zentralen Sitter sprechen Englisch dank Zagrebs Expat- und Studentenbevölkerung.",
       "introNl": "Zagreb heeft een kleine maar betrouwbare markt voor huisdierenzorg voor reizigers. Pawshake Kroatië en het Kroatischtalige platform Pet Sitter Hrvatska dekken de centrale stadsdelen (Donji Grad, Gornji Grad, Maksimir) met geverifieerde profielen, en verschillende onafhankelijke hondenpensions zijn actief in de buitenwijken voor langere verblijven. De meeste centrale oppassers spreken Engels dankzij de expat- en studentenbevolking van Zagreb.",
+      "introIt": "Zagreb ha un mercato piccolo ma affidabile di cura degli animali per i viaggiatori. Pawshake Croazia e la piattaforma in lingua croata Pet Sitter Hrvatska coprono i quartieri centrali (Donji Grad, Gornji Grad, Maksimir) con profili verificati, e diverse pensioni per cani indipendenti operano nei quartieri periferici per soggiorni più lunghi. La maggior parte dei sitter centrali parla inglese grazie alla popolazione expat e studentesca di Zagreb.",
       "faqsDe": [
         {
           "q": "Finde ich in Zagreb einen englischsprachigen Haustiersitter?",
@@ -1237,6 +1376,20 @@
         {
           "q": "Is huisdierenzorg in Zagreb betaalbaar vergeleken met West-Europa?",
           "a": "Ja, de prijzen in Zagreb liggen ongeveer 35-45% lager dan in Parijs of Amsterdam. Korte bezoekjes beginnen bij 10 EUR, dagopvang bij 18 EUR en overnachtingsverblijf bij 25-30 EUR."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Trovo un pet sitter che parla inglese a Zagreb?",
+          "a": "Sì, grazie alla popolazione studentesca ed expat di Zagreb, la maggior parte dei sitter nei quartieri centrali (Donji Grad, Gornji Grad, Maksimir) parla inglese. Filtra su Pawshake per 'parla inglese'."
+        },
+        {
+          "q": "Ci sono asili diurni per cani dove posso lasciare il mio cane di giorno?",
+          "a": "Gli asili diurni indipendenti per cani sono limitati dentro Zagreb stessa; la maggior parte dei viaggiatori prenota invece un dog sitter diurno a casa tramite Pawshake (18-22 EUR). Alcune pensioni private per cani operano nei sobborghi di Sesvete e Velika Gorica."
+        },
+        {
+          "q": "La cura degli animali a Zagreb è economica rispetto all'Europa occidentale?",
+          "a": "Sì, i prezzi a Zagreb sono circa il 35-45% più bassi rispetto a Parigi o Amsterdam. Le brevi visite partono da 10 EUR, l'asilo diurno da 18 EUR e il pernottamento da 25-30 EUR."
         }
       ]
     }

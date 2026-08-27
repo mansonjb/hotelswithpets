@@ -42,12 +42,16 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Josephine+Vichy",
           "descriptionDe": "Eine seit 1987 bestehende Creperie und Bistro, die Galettes, Crêpes und hausgemachte Gerichte mit einer Sommerterrasse im Herzen von Vichy serviert. Ein entspannter, familiengeführter Ort, kurz vom Parc des Sources entfernt.",
           "descriptionNl": "Een crêperie en bistro die al sinds 1987 bestaat en galettes, crêpes en huisgemaakte gerechten serveert, met een zomerterras in het hart van Vichy. Een ontspannen, familiebedrijf op een steenworp van het Parc des Sources.",
+          "descriptionIt": "Una crêperie e bistrot attivo dal 1987 che serve gallette, crêpe e piatti fatti in casa, con una terrazza estiva nel cuore di Vichy. Un'attività di famiglia rilassata a due passi dal Parc des Sources.",
           "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen",
           "petPolicyNl": "Honden aan de lijn welkom op het terras",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza",
           "mustTryDe": "Galette complète aus Buchweizen",
           "mustTryNl": "Galette complète van boekweit",
+          "mustTryIt": "Galette complète di grano saraceno",
           "tipDe": "Fragen Sie im Sommer nach einem schattigen Terrassentisch und bringen Sie einen Wassernapf mit.",
-          "tipNl": "Vraag in de zomer om een tafel in de schaduw op het terras en neem een waterbak mee."
+          "tipNl": "Vraag in de zomer om een tafel in de schaduw op het terras en neem een waterbak mee.",
+          "tipIt": "In estate chiedi un tavolo all'ombra in terrazza e porta una ciotola d'acqua."
         },
         {
           "name": "Hôtel-Restaurant Le Saint-Joseph",
@@ -76,12 +80,16 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Hotel+Le+Saint-Joseph+Vichy",
           "descriptionDe": "Ein Hotelrestaurant mit hausgemachter regionaler Küche und einer Außenterrasse, ausdrücklich als haustierfreundlich beworben. Eine komfortable Option für Reisende, die ein Sitzessen mit ihrem Hund in der Nähe wünschen.",
           "descriptionNl": "Een hotelrestaurant met huisgemaakte regionale keuken en een buitenterras, uitdrukkelijk aangeprezen als huisdiervriendelijk. Een comfortabele optie voor reizigers die dicht bij huis willen zitten eten met hun hond.",
+          "descriptionIt": "Un ristorante d'albergo con cucina regionale fatta in casa e una terrazza esterna, esplicitamente segnalato come pet-friendly. Un'opzione comoda per chi viaggia e vuole mangiare vicino a casa con il proprio cane.",
           "petPolicyDe": "Tiere akzeptiert, Terrasse empfohlen",
           "petPolicyNl": "Huisdieren geaccepteerd, terras aanbevolen",
+          "petPolicyIt": "Animali accettati, si consiglia la terrazza",
           "mustTryDe": "Regionaler Teller aus der Auvergne",
           "mustTryNl": "Regionaal bord uit de Auvergne",
+          "mustTryIt": "Tagliere regionale dell'Alvernia",
           "tipDe": "Rufen Sie im Voraus an, um zu klären, ob Innen- oder Terrassensitzplatz für die Größe Ihres Hundes passt.",
-          "tipNl": "Bel van tevoren om te checken of binnen of op het terras beter past bij de grootte van je hond."
+          "tipNl": "Bel van tevoren om te checken of binnen of op het terras beter past bij de grootte van je hond.",
+          "tipIt": "Chiama in anticipo per verificare se l'interno o la terrazza siano più adatti alla taglia del tuo cane."
         },
         {
           "name": "Terraces around Place Charles-de-Gaulle",
@@ -110,12 +118,16 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Place+Charles-de-Gaulle+Vichy",
           "descriptionDe": "Die Brasserie-Terrassen rund um die Place Charles-de-Gaulle und die Straßen nahe dem Parc des Sources heißen angeleinte Hunde an den Außentischen informell willkommen. Eine verlässliche Alternative mit viel Platz und Schatten für einen größeren Hund.",
           "descriptionNl": "De brasserieterrassen rond de Place Charles-de-Gaulle en de straten bij het Parc des Sources heten honden aan de lijn informeel welkom aan de buitentafels. Een betrouwbaar alternatief met veel ruimte en schaduw voor een grotere hond.",
+          "descriptionIt": "Le terrazze delle brasserie intorno a Place Charles-de-Gaulle e le strade vicino al Parc des Sources accolgono informalmente i cani al guinzaglio ai tavoli esterni. Un'alternativa affidabile con molto spazio e ombra per un cane più grande.",
           "petPolicyDe": "Angeleinte Hunde auf Terrassen generell willkommen, vorher fragen",
           "petPolicyNl": "Honden aan de lijn over het algemeen welkom op terrassen, vraag het vooraf",
+          "petPolicyIt": "Cani al guinzaglio generalmente benvenuti in terrazza, chiedi prima conferma",
           "mustTryDe": "Kaffee und eine Pastille de Vichy",
           "mustTryNl": "Koffie en een Pastille de Vichy",
+          "mustTryIt": "Caffè e una Pastille de Vichy",
           "tipDe": "Hunde dürfen nicht ins Innere, wählen Sie mittags einen Tisch mit Markise.",
-          "tipNl": "Honden mogen niet naar binnen, kies 's middags een tafel onder een zonnescherm."
+          "tipNl": "Honden mogen niet naar binnen, kies 's middags een tafel onder een zonnescherm.",
+          "tipIt": "I cani non possono entrare, nel pomeriggio scegli un tavolo sotto un ombrellone."
         }
       ],
       "tipsEn": [
@@ -196,8 +208,10 @@
       ],
       "titleDe": "Hundefreundliche Restaurants in Vichy",
       "titleNl": "Hondvriendelijke restaurants in Vichy",
+      "titleIt": "Ristoranti pet-friendly a Vichy",
       "introDe": "Vichy ist eine Stadt der Terrassen, und angeleinte Hunde werden an den Außentischen, die sich über das Kurviertel erstrecken, weitgehend toleriert. Hunde sind in Innenräumen der Gastronomie generell nicht zugelassen, zielen Sie also auf eine schattige Terrasse und fragen Sie immer zuerst das Personal.",
       "introNl": "Vichy is een stad van terrassen, en honden aan de lijn worden ruim getolereerd aan de buitentafels die zich uitstrekken over de kuurwijk. Honden mogen doorgaans niet naar binnen bij eetgelegenheden, kies dus voor een terras in de schaduw en vraag altijd eerst aan het personeel.",
+      "introIt": "Vichy è una città di terrazze, e i cani al guinzaglio sono ampiamente tollerati ai tavoli esterni che si estendono per tutto il quartiere termale. I cani generalmente non possono entrare nei locali, quindi scegli una terrazza all'ombra e chiedi sempre prima conferma al personale.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde in Vichys Restaurants ins Innere?",
@@ -224,6 +238,20 @@
         {
           "q": "Moet ik reserveren met een hond?",
           "a": "Voor een hond hoef je niet te reserveren, maar bel van tevoren om de terrasbeschikbaarheid voor een grotere hond te bevestigen."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani possono entrare nei ristoranti di Vichy?",
+          "a": "Di solito no, i cani restano nelle terrazze esterne, gli spazi interni con servizio ai tavoli generalmente rifiutano gli animali."
+        },
+        {
+          "q": "I cani sono comuni nelle terrazze di Vichy?",
+          "a": "Sì, la forte cultura delle terrazze della città termale fa sì che i cani al guinzaglio siano un'immagine familiare ai tavoli esterni."
+        },
+        {
+          "q": "Devo prenotare se ho un cane?",
+          "a": "Non serve prenotare per il cane, ma chiama in anticipo per confermare la disponibilità in terrazza per un cane più grande."
         }
       ]
     },
@@ -260,10 +288,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Parc+des+Sources+Vichy",
           "descriptionDe": "Vichys ältester Park, angelegt 1812 und umrahmt von den schmiedeeisernen Jugendstil-Wandelhallen, ist das Herzstück der UNESCO-Auszeichnung. Die Wandelhallen spenden an heißen Tagen willkommenen Schatten, obwohl der Park bis 2026 schrittweise renoviert wird.",
           "descriptionNl": "Vichy's oudste park, aangelegd in 1812 en omzoomd door de gietijzeren art-nouveau wandelgalerijen, vormt het hart van de UNESCO-erkenning. De wandelgalerijen bieden welkome schaduw op hete dagen, al wordt het park tot 2026 gefaseerd gerenoveerd.",
+          "descriptionIt": "Il parco più antico di Vichy, realizzato nel 1812 e costeggiato dai portici in ghisa in stile art nouveau, è il cuore del riconoscimento UNESCO. I portici offrono ombra gradita nelle giornate calde, anche se il parco è in fase di ristrutturazione graduale fino al 2026.",
           "petPolicyDe": "Angeleinte Hunde erlaubt, nach dem Hund aufräumen",
           "petPolicyNl": "Honden aan de lijn toegestaan, ruim op na je hond",
+          "petPolicyIt": "Cani al guinzaglio ammessi, raccogli le deiezioni del tuo cane",
           "tipDe": "Nutzen Sie die überdachten Wandelhallen bei Sommerhitze zur Mittagszeit für Schatten.",
-          "tipNl": "Gebruik de overdekte wandelgalerijen bij zomerhitte rond het middaguur voor schaduw."
+          "tipNl": "Gebruik de overdekte wandelgalerijen bij zomerhitte rond het middaguur voor schaduw.",
+          "tipIt": "Usa i portici coperti a mezzogiorno nelle giornate estive più calde per trovare ombra."
         },
         {
           "name": "Parc Napoléon III",
@@ -288,10 +319,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Parc+Napoleon+III+Vichy",
           "descriptionDe": "Ein englisch gestalteter Landschaftspark, angelegt unter Napoleon III entlang des Allier-Ufers, gesäumt von vielfältigen Villen aus dem Zweiten Kaiserreich. Er schließt direkt an die Seeuferschleife an und ist damit der natürliche Ausgangspunkt für einen längeren Hundespaziergang.",
           "descriptionNl": "Een Engels landschapspark, aangelegd onder Napoleon III langs de oever van de Allier, omzoomd door diverse villa's uit het Tweede Keizerrijk. Het sluit direct aan op de rondwandeling langs het meer en is daarmee het natuurlijke startpunt voor een langere hondenwandeling.",
+          "descriptionIt": "Un parco paesaggistico all'inglese, realizzato sotto Napoleone III lungo la riva dell'Allier, costeggiato da diverse ville del Secondo Impero. Si collega direttamente al percorso ad anello intorno al lago, diventando il punto di partenza naturale per una passeggiata più lunga con il cane.",
           "petPolicyDe": "Tiere nur an der Leine akzeptiert",
           "petPolicyNl": "Huisdieren alleen aan de lijn geaccepteerd",
+          "petPolicyIt": "Animali accettati solo al guinzaglio",
           "tipDe": "Gehen Sie von hier aus nach Süden, um die vollständige Uferpromenaden-Runde am See zu erreichen.",
-          "tipNl": "Loop hiervandaan naar het zuiden om de volledige oeverpromenade rond het meer te maken."
+          "tipNl": "Loop hiervandaan naar het zuiden om de volledige oeverpromenade rond het meer te maken.",
+          "tipIt": "Da qui cammina verso sud per completare l'intera passeggiata lungo la riva del lago."
         },
         {
           "name": "Promenade du Lac d'Allier",
@@ -316,10 +350,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Lac+d+Allier+Vichy",
           "descriptionDe": "Eine etwa 6 km lange flache Runde um den aufgestauten Lac d'Allier, die den Parc Napoleon III, die Uferpromenade, das Staudamm-Wehr (pont-barrage) und das linke Ufer einschließt. Meist schattig und eben, ist sie der beste lange Hundespaziergang in Vichy, obwohl Hunden der Zugang zu den Badestränden entlang der Strecke verwehrt ist.",
           "descriptionNl": "Een vlakke rondwandeling van ongeveer 6 km rond het opgestuwde Lac d'Allier, langs het Parc Napoleon III, de oeverpromenade, de stuwdam (pont-barrage) en de linkeroever. Meestal schaduwrijk en vlak, dit is de beste lange hondenwandeling in Vichy, al hebben honden geen toegang tot de zwemstranden langs de route.",
+          "descriptionIt": "Un percorso ad anello pianeggiante di circa 6 km intorno al Lac d'Allier, un bacino artificiale, che passa per il Parc Napoleon III, la passeggiata lungo la riva, la diga (pont-barrage) e la riva sinistra. Per lo più ombreggiato e pianeggiante, è la migliore passeggiata lunga per cani a Vichy, anche se i cani non hanno accesso alle spiagge balneabili lungo il percorso.",
           "petPolicyDe": "Angeleinte Hunde auf den Wegen willkommen, nicht an den Stränden",
           "petPolicyNl": "Honden aan de lijn welkom op de paden, niet op de stranden",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sui sentieri, non sulle spiagge",
           "tipDe": "Bringen Sie Wasser mit, die Pavillons der stillen Quellen entlang der Strecke sind praktische Auffüllstellen.",
-          "tipNl": "Neem water mee, de paviljoens met stil water langs de route zijn handige plekken om bij te vullen."
+          "tipNl": "Neem water mee, de paviljoens met stil water langs de route zijn handige plekken om bij te vullen.",
+          "tipIt": "Porta acqua con te: i padiglioni con acqua non gassata lungo il percorso sono comodi punti dove fare rifornimento."
         }
       ],
       "tipsEn": [
@@ -400,8 +437,10 @@
       ],
       "titleDe": "Hundefreundliche Parks & Grünflächen in Vichy",
       "titleNl": "Hondvriendelijke parken & groen in Vichy",
+      "titleIt": "Parchi e aree verdi pet-friendly a Vichy",
       "introDe": "Vichys Parks aus der Zeit des Zweiten Kaiserreichs reihen sich am Allier-Ufer zu einem fast durchgehenden grünen Band, und angeleinte Hunde sind auf den Wegen aller diese Parks willkommen. Die Stadtregel: Hunde müssen überall auf öffentlichem Grund angeleint und nah beim Halter bleiben, und Sie müssen im gesamten Gemeindegebiet nach Ihrem Hund aufräumen.",
       "introNl": "Vichy's parken uit het Tweede Keizerrijk vormen samen een bijna aaneengesloten groene strook langs de oever van de Allier, en honden aan de lijn zijn welkom op de paden van al deze parken. De stadsregel: honden moeten overal op openbaar terrein aan de lijn en dicht bij de eigenaar blijven, en je moet in de hele gemeente opruimen na je hond.",
+      "introIt": "I parchi di Vichy risalenti al Secondo Impero formano insieme una fascia verde quasi continua lungo la riva dell'Allier, e i cani al guinzaglio sono benvenuti sui sentieri di tutti questi parchi. La regola cittadina: i cani devono restare al guinzaglio e vicino al proprietario su tutto il suolo pubblico, e devi raccogliere le deiezioni del tuo cane in tutto il comune.",
       "faqsDe": [
         {
           "q": "Dürfen Hunde in Vichys Parks ohne Leine laufen?",
@@ -428,6 +467,20 @@
         {
           "q": "Mag mijn hond naar de stranden aan het meer?",
           "a": "Nee, honden zijn niet toegestaan op de stranden van Vichy, blijf in plaats daarvan op de wandelpaden van de promenade."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani possono correre liberi nei parchi di Vichy?",
+          "a": "Solo negli espaces de liberté designati, ovunque altrove il guinzaglio è obbligatorio."
+        },
+        {
+          "q": "Quale parco è il migliore per una lunga passeggiata?",
+          "a": "La passeggiata lungo il Lac d'Allier, un percorso ad anello pianeggiante e per lo più ombreggiato di 6 km a partire dal Parc Napoleon III."
+        },
+        {
+          "q": "Il mio cane può andare sulle spiagge del lago?",
+          "a": "No, i cani non sono ammessi sulle spiagge di Vichy, resta invece sui sentieri pedonali della passeggiata."
         }
       ]
     },
@@ -464,10 +517,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Gare+de+Vichy",
           "descriptionDe": "Vichys Bahnhof an der Strecke Paris–Clermont-Ferrand wird von Intercités- und Regional-TER-Zügen bedient. Bei SNCF reisen kleine Haustiere unter etwa 6 kg gegen eine geringe Gebühr in einer geschlossenen Tasche, während größere Hunde mit Maulkorb und Leine zu Ihren Füßen bleiben müssen.",
           "descriptionNl": "Vichy's station aan de lijn Parijs-Clermont-Ferrand wordt bediend door Intercités- en regionale TER-treinen. Bij SNCF reizen kleine huisdieren onder ongeveer 6 kg tegen een kleine vergoeding in een gesloten tas, terwijl grotere honden met muilkorf en lijn aan je voeten moeten blijven.",
+          "descriptionIt": "La stazione di Vichy, sulla linea Parigi-Clermont-Ferrand, è servita da treni Intercités e TER regionali. Con SNCF gli animali piccoli sotto circa 6 kg viaggiano a un piccolo supplemento in una borsa chiusa, mentre i cani più grandi devono restare ai tuoi piedi con museruola e guinzaglio.",
           "petPolicyDe": "Kleine Hunde in Tasche; größere Hunde mit Maulkorb und Leine",
           "petPolicyNl": "Kleine honden in een tas; grotere honden met muilkorf en lijn",
+          "petPolicyIt": "Cani piccoli in borsa; cani più grandi con museruola e guinzaglio",
           "tipDe": "Kaufen Sie das Haustierticket bei der Buchung, Blinden- und Assistenzhunde reisen kostenlos.",
-          "tipNl": "Koop het huisdierticket bij het boeken, geleide- en assistentiehonden reizen gratis."
+          "tipNl": "Koop het huisdierticket bij het boeken, geleide- en assistentiehonden reizen gratis.",
+          "tipIt": "Acquista il biglietto per l'animale al momento della prenotazione: i cani guida e di assistenza viaggiano gratis."
         },
         {
           "name": "Réseau urbain Mobivie",
@@ -492,10 +548,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Mobivie+Vichy",
           "descriptionDe": "Das städtische Busnetz Vichy Communauté verbindet das Stadtzentrum mit Bellerive, Cusset und Abrest. Kleine Hunde in einer Transportbox werden generell akzeptiert, größere Hunde mit Maulkorb und Leine nach Ermessen des Fahrers.",
           "descriptionNl": "Het stedelijke busnet Vichy Communauté verbindt het centrum met Bellerive, Cusset en Abrest. Kleine honden in een draagtas worden over het algemeen geaccepteerd, grotere honden met muilkorf en lijn naar goeddunken van de chauffeur.",
+          "descriptionIt": "La rete di autobus urbani Vichy Communauté collega il centro con Bellerive, Cusset e Abrest. I cani piccoli in borsa da trasporto sono generalmente accettati, i cani più grandi con museruola e guinzaglio a discrezione dell'autista.",
           "petPolicyDe": "Kleine Hunde in Transportbox; größere Hunde nach Ermessen des Fahrers",
           "petPolicyNl": "Kleine honden in draagtas; grotere honden naar goeddunken van de chauffeur",
+          "petPolicyIt": "Cani piccoli in borsa da trasporto; cani più grandi a discrezione dell'autista",
           "tipDe": "Bestätigen Sie es beim Fahrer, französische Stadtnetze legen jeweils eigene Haustierregeln fest.",
-          "tipNl": "Bevestig het bij de chauffeur, Franse stadsnetten hanteren elk hun eigen huisdierregels."
+          "tipNl": "Bevestig het bij de chauffeur, Franse stadsnetten hanteren elk hun eigen huisdierregels.",
+          "tipIt": "Conferma con l'autista: ogni rete di trasporto urbano francese ha le proprie regole per gli animali."
         },
         {
           "name": "Taxis de Vichy",
@@ -520,10 +579,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Taxi+Vichy+gare",
           "descriptionDe": "Örtliche Taxis bedienen den Bahnhof und das Kurviertel und befördern Haustiere nach Ermessen des jeweiligen Fahrers. Praktisch, um die Tierärzte in Bellerive und Cusset oder eine außerhalb gelegene Hundepension zu erreichen.",
           "descriptionNl": "Lokale taxi's bedienen het station en de kuurwijk en vervoeren huisdieren naar goeddunken van de betreffende chauffeur. Handig om de dierenartsen in Bellerive en Cusset of een pension buiten de stad te bereiken.",
+          "descriptionIt": "I taxi locali servono la stazione e il quartiere termale e trasportano gli animali a discrezione del singolo autista. Utili per raggiungere i veterinari a Bellerive e Cusset o una pensione fuori città.",
           "petPolicyDe": "Haustiere nach Ermessen des Fahrers befördert",
           "petPolicyNl": "Huisdieren vervoerd naar goeddunken van de chauffeur",
+          "petPolicyIt": "Animali trasportati a discrezione dell'autista",
           "tipDe": "Erwähnen Sie den Hund bei der Buchung und bringen Sie eine Decke oder Transportbox mit.",
-          "tipNl": "Vermeld je hond bij het boeken en neem een deken of reismand mee."
+          "tipNl": "Vermeld je hond bij het boeken en neem een deken of reismand mee.",
+          "tipIt": "Segnala il tuo cane al momento della prenotazione e porta una coperta o un trasportino."
         }
       ],
       "tipsEn": [
@@ -604,8 +666,10 @@
       ],
       "titleDe": "Mit Haustier nach Vichy",
       "titleNl": "Met huisdier naar Vichy",
+      "titleIt": "A Vichy con l'animale",
       "introDe": "Vichy liegt an der Bahnstrecke Paris–Clermont-Ferrand, daher reisen die meisten Reisenden mit Haustier per Zug an. In der Stadt lassen sich das kompakte Zentrum und das Seeufer am besten zu Fuß mit angeleintem Hund erkunden.",
       "introNl": "Vichy ligt aan de spoorlijn Parijs-Clermont-Ferrand, dus de meeste reizigers met huisdier komen met de trein aan. In de stad verken je het compacte centrum en de meeroever het best te voet met je hond aan de lijn.",
+      "introIt": "Vichy si trova sulla linea ferroviaria Parigi-Clermont-Ferrand, quindi la maggior parte dei viaggiatori con animali arriva in treno. In città il modo migliore per esplorare il centro compatto e la riva del lago è a piedi con il cane al guinzaglio.",
       "faqsDe": [
         {
           "q": "Darf ich meinen Hund mit dem Zug nach Vichy nehmen?",
@@ -632,6 +696,20 @@
         {
           "q": "Heb ik een auto nodig in Vichy?",
           "a": "Nee, de kuurwijk en de rondwandeling langs het meer zijn allemaal te voet bereikbaar, taxi's dekken de verder gelegen dierenartsen."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane in treno a Vichy?",
+          "a": "Sì, i cani piccoli viaggiano in una borsa chiusa e quelli più grandi con museruola e guinzaglio ai tuoi piedi, con un biglietto per l'animale."
+        },
+        {
+          "q": "Quanto costa portare un cane in treno?",
+          "a": "Sui TER un cane piccolo viaggia gratis e uno più grande circa 7 euro, gli Intercités applicano una tariffa fissa di 10 euro per animale."
+        },
+        {
+          "q": "Mi serve un'auto a Vichy?",
+          "a": "No, il quartiere termale e il percorso ad anello intorno al lago sono tutti raggiungibili a piedi, i taxi coprono i veterinari più lontani."
         }
       ]
     },
@@ -668,10 +746,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Plage+des+Celestins+Vichy",
           "descriptionDe": "Vichys wichtigster überwachter Sandstrand am See, mit Rettungsschwimmerbetrieb etwa vom 1. Juli bis 30. August. Hunde sind dort nicht erlaubt, daher ist er vor allem als Wahrzeichen auf der Promenade wichtig.",
           "descriptionNl": "Vichy's belangrijkste bewaakte zandstrand aan het meer, met reddingswachtdienst van ongeveer 1 juli tot 30 augustus. Honden zijn er niet toegestaan, dus is het vooral van belang als herkenningspunt op de promenade.",
+          "descriptionIt": "La principale spiaggia sabbiosa sorvegliata di Vichy sul lago, con servizio di bagnino da circa il 1° luglio al 30 agosto. I cani non sono ammessi, quindi è importante soprattutto come punto di riferimento sulla passeggiata.",
           "petPolicyDe": "Hunde am Strand nicht erlaubt",
           "petPolicyNl": "Honden niet toegestaan op het strand",
+          "petPolicyIt": "Cani non ammessi in spiaggia",
           "tipDe": "Gehen Sie auf der Promenade daran vorbei, halten Sie Ihren Hund vom Sand fern.",
-          "tipNl": "Loop erlangs over de promenade, houd je hond weg van het zand."
+          "tipNl": "Loop erlangs over de promenade, houd je hond weg van het zand.",
+          "tipIt": "Passeggiaci accanto lungo il lungolago, tieni il tuo cane lontano dalla sabbia."
         },
         {
           "name": "Esplanade du Lac d'Allier",
@@ -696,10 +777,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Esplanade+Lac+d+Allier+Vichy",
           "descriptionDe": "Der Uferweg und die begrünten Böschungen entlang des Sees bieten Hunden einen angeleinten Spaziergang mit Wasserblick und leichtem Schatten. Dies ist die praktische Alternative zum Baden für Hunde, mit Gras zum Ausruhen und Quellen in der Nähe zum Auffüllen der Wasserflasche.",
           "descriptionNl": "Het oeverpad en de begroeide taluds langs het meer bieden honden een wandeling aan de lijn met uitzicht op het water en wat schaduw. Dit is het praktische alternatief voor zwemmen met je hond, met gras om uit te rusten en bronnen in de buurt om de waterfles bij te vullen.",
+          "descriptionIt": "Il percorso lungo la riva e gli argini verdi del lago offrono ai cani una passeggiata al guinzaglio con vista sull'acqua e un po' d'ombra. È l'alternativa pratica al nuoto con il cane, con prato per riposare e fontane vicine per riempire la borraccia.",
           "petPolicyDe": "Angeleinte Hunde auf der Promenade willkommen",
           "petPolicyNl": "Honden aan de lijn welkom op de promenade",
+          "petPolicyIt": "Cani al guinzaglio benvenuti sul lungolago",
           "tipDe": "Ruhen Sie sich an heißen Tagen im Schatten aus, die stillen Quellen sind für Hunde sicherer als das Mineralwasser.",
-          "tipNl": "Rust uit in de schaduw op hete dagen, het stille bronwater is veiliger voor honden dan het mineraalwater."
+          "tipNl": "Rust uit in de schaduw op hete dagen, het stille bronwater is veiliger voor honden dan het mineraalwater.",
+          "tipIt": "Riposa all'ombra nelle giornate calde: l'acqua di sorgente non gassata è più sicura per i cani rispetto all'acqua minerale."
         }
       ],
       "tipsEn": [
@@ -780,8 +864,10 @@
       ],
       "titleDe": "Vichys Seeufer & Wasserzugang für Hunde",
       "titleNl": "Vichy's meeroever & watertoegang voor honden",
+      "titleIt": "Riva del lago di Vichy e accesso all'acqua per cani",
       "introDe": "Vichy liegt im Landesinneren, und der aufgestaute Allier bildet am Stadtrand einen langen See, aber ehrlich gesagt gibt es hier keinen Hundestrand: Hunde sind von Vichys überwachten Stränden ausgeschlossen, und das Baden im See ist für niemanden erlaubt. Die Entschädigung für Hundebesitzer ist die Seeuferpromenade mit Wasserblick statt eines Bads.",
       "introNl": "Vichy ligt landinwaarts, en de opgestuwde Allier vormt aan de rand van de stad een lang meer, maar eerlijk gezegd is er hier geen hondenstrand: honden zijn niet toegestaan op de bewaakte stranden van Vichy, en zwemmen in het meer is voor niemand toegestaan. De troost voor hondenbezitters is de meeroeverpromenade met uitzicht op het water in plaats van een duik.",
+      "introIt": "Vichy si trova nell'entroterra, e l'Allier, sbarrata da una diga, forma un lungo lago ai margini della città, ma diciamolo chiaramente: qui non c'è una spiaggia per cani. I cani non sono ammessi sulle spiagge sorvegliate di Vichy, e nuotare nel lago non è consentito a nessuno. La consolazione per i proprietari di cani è la passeggiata lungo la riva del lago, con vista sull'acqua invece di un tuffo.",
       "faqsDe": [
         {
           "q": "Gibt es einen Hundestrand in Vichy?",
@@ -808,6 +894,20 @@
         {
           "q": "Waar kan mijn hond afkoelen?",
           "a": "Rust uit in de schaduw van de promenade en vul bij bij de paviljoens met stil bronwater, de mineraalbronnen zijn minder geschikt voor honden."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è una spiaggia per cani a Vichy?",
+          "a": "No, i cani non sono ammessi sulle spiagge sorvegliate del lago di Vichy, la passeggiata lungo la riva è l'alternativa."
+        },
+        {
+          "q": "Il mio cane può nuotare nel Lac d'Allier?",
+          "a": "Nuotare nel lago non è consentito a nessuno per motivi di sicurezza e qualità dell'acqua, quindi pianifica una passeggiata invece di un tuffo."
+        },
+        {
+          "q": "Dove può rinfrescarsi il mio cane?",
+          "a": "Riposa all'ombra sul lungolago e fai rifornimento ai padiglioni con acqua di sorgente non gassata, le fonti minerali sono meno adatte ai cani."
         }
       ]
     },
@@ -848,10 +948,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Clinique+Veterinaire+Vichy+Jean+Jaures",
           "descriptionDe": "Die zentralste Klinik, in der Rue Jean Jaurès in Gehweite zum Kurviertel, wirbt mit einer 7 Tage die Woche verfügbaren Notfallversorgung rund um die Uhr. Reguläre Öffnungszeiten sind Montag bis Freitag 9 bis 12 Uhr und 14 bis 19 Uhr, Samstag 9 bis 12 Uhr.",
           "descriptionNl": "De meest centrale kliniek, aan de Rue Jean Jaurès op loopafstand van de kuurwijk, adverteert met spoedzorg die 7 dagen per week rond de klok beschikbaar is. Reguliere openingstijden zijn maandag tot vrijdag 9 tot 12 uur en 14 tot 19 uur, zaterdag 9 tot 12 uur.",
+          "descriptionIt": "La clinica più centrale, in Rue Jean Jaurès a pochi passi dal quartiere termale, dichiara assistenza d'emergenza disponibile 24 ore su 24, 7 giorni su 7. Gli orari regolari sono dal lunedì al venerdì dalle 9 alle 12 e dalle 14 alle 19, il sabato dalle 9 alle 12.",
           "petPolicyDe": "Alle Haustiere, Termin empfohlen",
           "petPolicyNl": "Alle huisdieren, afspraak aanbevolen",
+          "petPolicyIt": "Tutti gli animali, appuntamento consigliato",
           "tipDe": "Am praktischsten, wenn Sie im Kurviertel wohnen.",
-          "tipNl": "Het handigst als je in de kuurwijk verblijft."
+          "tipNl": "Het handigst als je in de kuurwijk verblijft.",
+          "tipIt": "La più comoda se soggiorni nel quartiere termale."
         },
         {
           "name": "Clinique Vétérinaire Excelsia",
@@ -879,10 +982,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Clinique+Veterinaire+Excelsia+Bellerive-sur-Allier",
           "descriptionDe": "Eine langjährige Klinik (Drs. Balzer, Calvi, Loth, Figueres) gleich jenseits des Flusses in Bellerive-sur-Allier, mit einer eigenen 24-Stunden-Notfallleitung. Reguläre Öffnungszeiten Montag bis Freitag 8 bis 13 Uhr und 14 bis 19:30 Uhr, Samstag 8 bis 13 Uhr und 14 bis 19 Uhr.",
           "descriptionNl": "Een gevestigde kliniek (drs. Balzer, Calvi, Loth, Figueres) net over de rivier in Bellerive-sur-Allier, met een eigen 24-uurs spoedlijn. Reguliere openingstijden maandag tot vrijdag 8 tot 13 uur en 14 tot 19.30 uur, zaterdag 8 tot 13 uur en 14 tot 19 uur.",
+          "descriptionIt": "Una clinica consolidata (dott. Balzer, Calvi, Loth, Figueres) appena oltre il fiume a Bellerive-sur-Allier, con una propria linea d'emergenza attiva 24 ore. Orari regolari dal lunedì al venerdì dalle 8 alle 13 e dalle 14 alle 19:30, il sabato dalle 8 alle 13 e dalle 14 alle 19.",
           "petPolicyDe": "Alle Haustiere, 24-Stunden-Notfall willkommen",
           "petPolicyNl": "Alle huisdieren, 24-uurs spoedgevallen welkom",
+          "petPolicyIt": "Tutti gli animali, emergenze 24 ore accettate",
           "tipDe": "Beste Wahl für einen Notfall außerhalb der Öffnungszeiten mit einer namentlichen Bereitschaftsnummer.",
-          "tipNl": "Beste keuze voor een spoedgeval buiten openingstijden, met een naamgebonden bereikbaarheidsnummer."
+          "tipNl": "Beste keuze voor een spoedgeval buiten openingstijden, met een naamgebonden bereikbaarheidsnummer.",
+          "tipIt": "La scelta migliore per un'emergenza fuori orario, con un numero diretto dedicato."
         },
         {
           "name": "Cabinet Vétérinaire des Chiens Verts",
@@ -910,10 +1016,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Cabinet+Veterinaire+des+Chiens+Verts+Cusset",
           "descriptionDe": "Eine Nachbarschafts-Tierarztpraxis in Cusset, etwa 3 km östlich von Vichy, für Konsultationen und Routineversorgung. Öffnungszeiten sind Montag bis Freitag 8 bis 12 Uhr und 13:30 bis 18:15 Uhr, Samstag 8 bis 12 Uhr.",
           "descriptionNl": "Een buurtdierenartspraktijk in Cusset, ongeveer 3 km ten oosten van Vichy, voor consultaties en routinezorg. Openingstijden zijn maandag tot vrijdag 8 tot 12 uur en 13.30 tot 18.15 uur, zaterdag 8 tot 12 uur.",
+          "descriptionIt": "Un ambulatorio veterinario di quartiere a Cusset, circa 3 km a est di Vichy, per visite e assistenza di routine. Orari dal lunedì al venerdì dalle 8 alle 12 e dalle 13:30 alle 18:15, il sabato dalle 8 alle 12.",
           "petPolicyDe": "Alle Haustiere, Termin empfohlen",
           "petPolicyNl": "Alle huisdieren, afspraak aanbevolen",
+          "petPolicyIt": "Tutti gli animali, appuntamento consigliato",
           "tipDe": "Praktisch, wenn Sie auf der Cusset-Seite des Ballungsraums wohnen.",
-          "tipNl": "Handig als je aan de kant van Cusset van de agglomeratie woont."
+          "tipNl": "Handig als je aan de kant van Cusset van de agglomeratie woont.",
+          "tipIt": "Comodo se soggiorni nella zona di Cusset dell'agglomerato."
         }
       ],
       "tipsEn": [
@@ -994,8 +1103,10 @@
       ],
       "titleDe": "Tierärzte & Notfallversorgung in Vichy",
       "titleNl": "Dierenartsen & spoedzorg in Vichy",
+      "titleIt": "Veterinari e assistenza d'emergenza a Vichy",
       "introDe": "Vichy und seine unmittelbaren Nachbarorte Bellerive-sur-Allier und Cusset verfügen über mehrere Kliniken, zwei davon bieten laut Eigenwerbung eine rund um die Uhr verfügbare Notfallversorgung. Für jeden nächtlichen Notfall verortet Sie auch die kostenlose nationale Hotline 3115 zum nächsten diensthabenden Tierarzt.",
       "introNl": "Vichy en de directe buurgemeenten Bellerive-sur-Allier en Cusset hebben meerdere klinieken, waarvan er twee volgens eigen zeggen rond de klok spoedzorg bieden. Voor elk nachtelijk spoedgeval verwijst ook de gratis landelijke hotline 3115 je naar de dichtstbijzijnde dienstdoende dierenarts.",
+      "introIt": "Vichy e i comuni limitrofi di Bellerive-sur-Allier e Cusset hanno diverse cliniche, due delle quali dichiarano di offrire assistenza d'emergenza 24 ore su 24. Per qualsiasi emergenza notturna, anche la linea nazionale gratuita 3115 ti indirizza al veterinario di turno più vicino.",
       "faqsDe": [
         {
           "q": "Gibt es einen 24-Stunden-Tierarzt in Vichy?",
@@ -1022,6 +1133,20 @@
         {
           "q": "Heb ik de papieren van mijn huisdier nodig?",
           "a": "Ja, neem het EU-dierenpaspoort en de microchipgegevens mee naar elk dierenartsbezoek onderweg."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è un veterinario aperto 24 ore a Vichy?",
+          "a": "Sì, sia la Clinique Vétérinaire de Vichy sia la clinica Excelsia a Bellerive dichiarano assistenza d'emergenza 24 ore su 24."
+        },
+        {
+          "q": "Qual è il numero d'emergenza fuori orario?",
+          "a": "Chiama la linea nazionale gratuita 3115, che ti indirizza al veterinario di turno più vicino, oppure Excelsia al +33 6 72 89 62 03."
+        },
+        {
+          "q": "Mi servono i documenti del mio animale?",
+          "a": "Sì, porta il passaporto europeo per animali e i dati del microchip a ogni visita veterinaria durante il viaggio."
         }
       ]
     },
@@ -1051,8 +1176,10 @@
           "tipPt": "As multas por dejetos seguem o quadro municipal francês padrão, por isso recolha sempre.",
           "descriptionDe": "Eine Leine ist auf allem öffentlichen Grund in Vichy laut einer Gemeindeverordnung von 1980 Pflicht, und Sie müssen im gesamten Gemeindegebiet Hundekot aufsammeln. Ohne Leine ist nur in ausgewiesenen espaces de liberté erlaubt.",
           "descriptionNl": "Een lijn is verplicht op al het openbaar terrein in Vichy volgens een gemeenteverordening uit 1980, en je moet in de hele gemeente hondenpoep opruimen. Loslopen mag alleen in aangewezen espaces de liberté.",
+          "descriptionIt": "Il guinzaglio è obbligatorio su tutto il suolo pubblico a Vichy secondo un'ordinanza comunale del 1980, e devi raccogliere le deiezioni del cane in tutto il comune. La libertà di correre senza guinzaglio è ammessa solo negli espaces de liberté designati.",
           "tipDe": "Bußgelder für Verunreinigung folgen dem üblichen französischen Gemeinderahmen, sammeln Sie also immer auf.",
-          "tipNl": "Boetes voor vervuiling volgen het gebruikelijke Franse gemeentelijke kader, ruim dus altijd op."
+          "tipNl": "Boetes voor vervuiling volgen het gebruikelijke Franse gemeentelijke kader, ruim dus altijd op.",
+          "tipIt": "Le multe per lo sporco seguono il tipico quadro comunale francese, quindi raccogli sempre le deiezioni."
         },
         {
           "name": "Dog-free interiors",
@@ -1070,8 +1197,10 @@
           "tipPt": "Os parques, pavilhões de nascentes e cafés com esplanada são os equivalentes dog-friendly.",
           "descriptionDe": "Hunde sind im Inneren des Thermalbads Vichy Célestins, der Opéra de Vichy und der Thermalanlage Hall des Sources nicht erlaubt. Planen Sie einen Betreuer ein oder wechseln Sie sich ab, wenn Sie diese Wahrzeichen von innen sehen möchten.",
           "descriptionNl": "Honden zijn niet toegestaan binnen in het Thermes de Vichy Célestins, de Opéra de Vichy en het thermencomplex Hall des Sources. Plan een oppas of wissel af als je deze bezienswaardigheden van binnen wilt zien.",
+          "descriptionIt": "I cani non sono ammessi all'interno delle Thermes de Vichy Célestins, dell'Opéra de Vichy e del complesso termale Hall des Sources. Organizza un pet sitter o alternati con qualcuno se vuoi visitare l'interno di queste attrazioni.",
           "tipDe": "Die Parks, Quellenpavillons und Terrassencafés sind die hundefreundlichen Gegenstücke.",
-          "tipNl": "De parken, bronpaviljoens en terrascafés zijn de hondvriendelijke tegenhangers."
+          "tipNl": "De parken, bronpaviljoens en terrascafés zijn de hondvriendelijke tegenhangers.",
+          "tipIt": "I parchi, i padiglioni delle sorgenti e i caffè con terrazza sono le controparti pet-friendly."
         },
         {
           "name": "Heat & spring water",
@@ -1089,8 +1218,10 @@
           "tipPt": "Teste o pavimento quente com a mão antes de deixar o seu cão andar.",
           "descriptionDe": "Sommerhöchstwerte um 26 °C sowie reflektierende Esplanaden bedeuten frühe oder späte Spaziergänge und Schatten in den überdachten Wandelhallen zur Mittagszeit. Füllen Sie den Napf Ihres Hundes an den Pavillons der stillen Quellen auf, das kohlensäurehaltige, mineralstoffreiche Célestins-Wasser ist für Hunde nicht ideal.",
           "descriptionNl": "Zomerpieken rond 26 °C en weerkaatsende esplanades betekenen vroege of late wandelingen en schaduw onder de overdekte wandelgalerijen rond het middaguur. Vul de bak van je hond bij de paviljoens met stil bronwater, het koolzuurhoudende, mineraalrijke Célestins-water is niet ideaal voor honden.",
+          "descriptionIt": "I picchi estivi intorno ai 26°C e le esplanade che riflettono il calore significano passeggiate al mattino presto o in tarda serata e ombra sotto i portici coperti a mezzogiorno. Riempi la ciotola del tuo cane ai padiglioni con acqua di sorgente non gassata: l'acqua Célestins, gassata e ricca di minerali, non è ideale per i cani.",
           "tipDe": "Testen Sie heißen Bürgersteig mit Ihrer Hand, bevor Sie Ihren Hund darauf laufen lassen.",
-          "tipNl": "Test een hete stoep met je hand voordat je je hond erop laat lopen."
+          "tipNl": "Test een hete stoep met je hand voordat je je hond erop laat lopen.",
+          "tipIt": "Prova un marciapiede caldo con la mano prima di farci camminare il tuo cane."
         }
       ],
       "tipsEn": [
@@ -1171,8 +1302,10 @@
       ],
       "titleDe": "Reisetipps mit Haustier für Vichy",
       "titleNl": "Reistips met huisdier voor Vichy",
+      "titleIt": "Consigli di viaggio con l'animale per Vichy",
       "introDe": "Vichy ist mit Hund unkompliziert, wenn Sie sich auf die hundefreien Innenräume und die Sommerhitze einstellen. Überall Leine, überall aufräumen, und bauen Sie Ihren Tag um die Parks, die Seeuferrunde und die schattigen Wandelhallen herum auf.",
       "introNl": "Vichy is moeiteloos met een hond als je rekening houdt met de hondvrije binnenruimtes en de zomerhitte. Overal aan de lijn, overal opruimen, en bouw je dag rond de parken, de rondwandeling langs het meer en de schaduwrijke wandelgalerijen.",
+      "introIt": "Vichy è una destinazione senza pensieri con un cane se tieni conto degli spazi interni vietati ai cani e del caldo estivo. Guinzaglio ovunque, raccogliere le deiezioni ovunque, e costruisci la tua giornata intorno ai parchi, al percorso ad anello lungo il lago e ai portici ombreggiati.",
       "faqsDe": [
         {
           "q": "Muss ich meinen Hund in Vichy an der Leine führen?",
@@ -1199,6 +1332,20 @@
         {
           "q": "Mag mijn hond het bronwater van Vichy drinken?",
           "a": "Geef de voorkeur aan het stille bronwater, het beroemde koolzuurhoudende, mineraalrijke Célestins-water is niet ideaal voor honden."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Devo tenere il cane al guinzaglio a Vichy?",
+          "a": "Sì, il guinzaglio è obbligatorio su tutto il suolo pubblico, correre libero è ammesso solo negli espaces de liberté designati."
+        },
+        {
+          "q": "I cani possono entrare alle terme o all'opera?",
+          "a": "No, le Thermes de Vichy Célestins, l'Opéra de Vichy e la Hall des Sources non ammettono cani."
+        },
+        {
+          "q": "Il mio cane può bere l'acqua di sorgente di Vichy?",
+          "a": "Preferisci l'acqua di sorgente non gassata: la famosa acqua Célestins, gassata e ricca di minerali, non è ideale per i cani."
         }
       ]
     },
@@ -1235,10 +1382,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Galeries+couvertes+Parc+des+Sources+Vichy",
           "descriptionDe": "Eine 700 m lange schmiedeeiserne Jugendstil-Wandelhalle, errichtet 1901 bis 1902, die die Hall des Sources mit der Oper verbindet. Angeleinte Hunde sind unter den Wandelhallen willkommen, die auch als gefragter Mittagsschatten dienen, obwohl die damit verbundenen Thermalgebäude tabu sind.",
           "descriptionNl": "Een 700 meter lange gietijzeren art-nouveau wandelgalerij, gebouwd van 1901 tot 1902, die de Hall des Sources met de opera verbindt. Honden aan de lijn zijn welkom onder de wandelgalerijen, die ook dienen als gewilde schaduwplek rond de middag, al zijn de bijbehorende thermale gebouwen verboden terrein.",
+          "descriptionIt": "Un portico in ghisa in stile art nouveau lungo 700 metri, costruito tra il 1901 e il 1902, che collega la Hall des Sources all'opera. I cani al guinzaglio sono benvenuti sotto i portici, che fungono anche da ambita zona d'ombra a mezzogiorno, anche se gli edifici termali collegati sono vietati.",
           "petPolicyDe": "Angeleinte Hunde draußen erlaubt, Innenräume nicht",
           "petPolicyNl": "Honden aan de lijn buiten toegestaan, binnen niet",
+          "petPolicyIt": "Cani al guinzaglio ammessi all'esterno, non all'interno",
           "tipDe": "Gehen Sie mittags durch die Wandelhallen, um Ihren Hund im Schatten zu halten.",
-          "tipNl": "Loop rond de middag door de wandelgalerijen om je hond in de schaduw te houden."
+          "tipNl": "Loop rond de middag door de wandelgalerijen om je hond in de schaduw te houden.",
+          "tipIt": "Attraversa i portici a mezzogiorno per tenere il tuo cane all'ombra."
         },
         {
           "name": "Source des Célestins",
@@ -1263,10 +1413,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Source+des+Celestins+Vichy",
           "descriptionDe": "Ein neoklassizistischer Quellpavillon am Allier-Ufer, der kostenlos Vichys berühmtestes natürlich sprudelndes Mineralwasser ausgibt. Der Pavillon und sein kleiner Garten sind im Freien, angeleinte Hunde können Sie also begleiten, während Sie eine Flasche füllen.",
           "descriptionNl": "Een neoclassicistisch bronpaviljoen aan de oever van de Allier, dat gratis Vichy's beroemdste, van nature bruisende mineraalwater schenkt. Het paviljoen en het kleine tuintje zijn buiten, honden aan de lijn kunnen je dus vergezellen terwijl je een fles vult.",
+          "descriptionIt": "Un padiglione neoclassico sulla riva dell'Allier, che eroga gratuitamente l'acqua minerale naturalmente frizzante più famosa di Vichy. Il padiglione e il piccolo giardino sono all'aperto, quindi i cani al guinzaglio possono accompagnarti mentre riempi una bottiglia.",
           "petPolicyDe": "Angeleinte Hunde draußen erlaubt",
           "petPolicyNl": "Honden aan de lijn buiten toegestaan",
+          "petPolicyIt": "Cani al guinzaglio ammessi all'esterno",
           "tipDe": "Das sprudelnde Wasser ist für Sie, nutzen Sie die stillen Quellen für den Napf Ihres Hundes.",
-          "tipNl": "Het bruisende water is voor jou, gebruik het stille bronwater voor de bak van je hond."
+          "tipNl": "Het bruisende water is voor jou, gebruik het stille bronwater voor de bak van je hond.",
+          "tipIt": "L'acqua frizzante è per te, usa l'acqua di sorgente non gassata per la ciotola del tuo cane."
         },
         {
           "name": "Opéra de Vichy / Palais des Congrès",
@@ -1291,10 +1444,13 @@
           "googleMapsUrl": "https://www.google.com/maps/search/Opera+de+Vichy",
           "descriptionDe": "Ein Wahrzeichen aus Jugendstil-Oper und Kongresspalast, früher das Grand Casino, dessen Belle-Epoque-Fassade ein Highlight des UNESCO-Stadtbilds ist. Bewundern Sie es mit Ihrem Hund von der Straße aus, das Innere lässt keine Hunde zu.",
           "descriptionNl": "Een herkenningspunt van art-nouveau opera en congrespaleis, vroeger het Grand Casino, waarvan de belle-époquegevel een hoogtepunt is van het UNESCO-stadsgezicht. Bewonder het met je hond vanaf de straat, binnen zijn honden niet toegestaan.",
+          "descriptionIt": "Un punto di riferimento in stile art nouveau che ospita opera e palazzo dei congressi, un tempo il Grand Casino, la cui facciata belle époque è un punto forte del paesaggio urbano riconosciuto dall'UNESCO. Ammiralo con il tuo cane dalla strada, i cani non sono ammessi all'interno.",
           "petPolicyDe": "Nur Außenbereich, keine Hunde im Inneren",
           "petPolicyNl": "Alleen buiten, geen honden binnen",
+          "petPolicyIt": "Solo all'esterno, cani non ammessi all'interno",
           "tipDe": "Kombinieren Sie es mit dem nahen Aussichtspunkt am pont-barrage am südlichen Ende der Promenade.",
-          "tipNl": "Combineer het met het nabijgelegen uitzichtpunt bij de pont-barrage aan het zuidelijke uiteinde van de promenade."
+          "tipNl": "Combineer het met het nabijgelegen uitzichtpunt bij de pont-barrage aan het zuidelijke uiteinde van de promenade.",
+          "tipIt": "Abbinalo al vicino punto panoramico presso il pont-barrage, all'estremità sud della passeggiata."
         }
       ],
       "tipsEn": [
@@ -1375,8 +1531,10 @@
       ],
       "titleDe": "Hundefreundliche Sehenswürdigkeiten in Vichy",
       "titleNl": "Hondvriendelijke bezienswaardigheden in Vichy",
+      "titleIt": "Attrazioni pet-friendly a Vichy",
       "introDe": "Vichys Belle-Epoque- und Jugendstil-Wahrzeichen lassen sich mit Hund am besten von außen genießen, und die meisten Highlights der Stadt sind unter freiem Himmel. Die Faustregel ist einfach: Außenbereiche heißen angeleinte Hunde willkommen, Thermal- und Kultur-Innenräume nicht.",
       "introNl": "Vichy's belle-époque- en art-nouveau-bezienswaardigheden geniet je met je hond het best van buitenaf, en de meeste hoogtepunten van de stad bevinden zich in de open lucht. De vuistregel is simpel: buitenruimtes heten honden aan de lijn welkom, thermale en culturele binnenruimtes niet.",
+      "introIt": "Le attrazioni belle époque e art nouveau di Vichy si godono al meglio dall'esterno con il tuo cane, e la maggior parte dei punti salienti della città si trova all'aperto. La regola generale è semplice: gli spazi esterni accolgono i cani al guinzaglio, gli interni termali e culturali no.",
       "faqsDe": [
         {
           "q": "Kann ich mit meinem Hund das Thermalbad besuchen?",
@@ -1403,6 +1561,20 @@
         {
           "q": "Wat is Vichy's onmisbare bezienswaardigheid voor hondenbezitters?",
           "a": "De art-nouveau wandelgalerijen van het Parc des Sources, wandelbaar, schaduwrijk en buiten hondvriendelijk."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso visitare le terme con il mio cane?",
+          "a": "No, le Thermes de Vichy Célestins e le sale termali non ammettono cani, goditi invece le strutture esterne e i padiglioni."
+        },
+        {
+          "q": "I cani sono ammessi all'opera?",
+          "a": "Solo all'esterno, all'interno dell'Opéra de Vichy i cani non sono ammessi, ma puoi ammirare gratuitamente la facciata belle époque."
+        },
+        {
+          "q": "Qual è l'attrazione imperdibile di Vichy per i proprietari di cani?",
+          "a": "I portici art nouveau del Parc des Sources: percorribili, ombreggiati e pet-friendly all'aperto."
         }
       ]
     },
@@ -1440,10 +1612,13 @@
           "tipPt": "Filtre sitters com jardim vedado se tiver um cão grande.",
           "descriptionDe": "Ein internationaler Marktplatz, der Besitzer mit geprüften lokalen Hundebetreuern und Gassigehern rund um Vichy für Pension, Tagesbetreuung oder Kurzbesuche verbindet. Profile zeigen Bewertungen, Preise und Fotos, gebucht und bezahlt wird über die App.",
           "descriptionNl": "Een internationale marktplaats die eigenaren verbindt met gescreende lokale hondenoppassers en uitlaters rond Vichy voor pension, dagopvang of korte bezoeken. Profielen tonen beoordelingen, prijzen en foto's, boeken en betalen gaat via de app.",
+          "descriptionIt": "Un marketplace internazionale che mette in contatto i proprietari con pet sitter e dog walker locali selezionati intorno a Vichy per pensione, asilo diurno o brevi visite. I profili mostrano recensioni, prezzi e foto, la prenotazione e il pagamento avvengono tramite l'app.",
           "petPolicyDe": "Variiert je nach Betreuer",
           "petPolicyNl": "Verschilt per oppas",
+          "petPolicyIt": "Varia in base al pet sitter",
           "tipDe": "Filtern Sie nach Betreuern mit eingezäuntem Garten, wenn Sie einen größeren Hund haben.",
-          "tipNl": "Filter op oppassers met een omheinde tuin als je een grotere hond hebt."
+          "tipNl": "Filter op oppassers met een omheinde tuin als je een grotere hond hebt.",
+          "tipIt": "Filtra i pet sitter con giardino recintato se hai un cane più grande."
         },
         {
           "name": "Animaute (online platform)",
@@ -1468,10 +1643,13 @@
           "tipPt": "Contacte um sitter com uns dias de antecedência na época alta para garantir vaga.",
           "descriptionDe": "Eine französische Plattform für Haustierbetreuung mit Betreuern und Pensionen im Raum Vichy und Allier, mit Optionen für Hausbetreuung und Hundepension. Nützlich, um einen französischsprachigen lokalen Betreuer nahe Ihrer Unterkunft zu finden.",
           "descriptionNl": "Een Frans platform voor huisdieroppas met oppassers en pensions in de regio Vichy en Allier, met opties voor huisoppas en hondenpension. Handig om een Franstalige lokale oppas dicht bij je verblijf te vinden.",
+          "descriptionIt": "Una piattaforma francese per la cura degli animali con pet sitter e pensioni nella regione di Vichy e dell'Allier, con opzioni per la custodia a domicilio e la pensione per cani. Utile per trovare un pet sitter locale francofono vicino al tuo alloggio.",
           "petPolicyDe": "Variiert je nach Betreuer",
           "petPolicyNl": "Verschilt per oppas",
+          "petPolicyIt": "Varia in base al pet sitter",
           "tipDe": "Kontaktieren Sie einen Betreuer einige Tage im Voraus in der Hochsaison, um sich einen Platz zu sichern.",
-          "tipNl": "Neem enkele dagen van tevoren contact op met een oppas in het hoogseizoen om een plek te verzekeren."
+          "tipNl": "Neem enkele dagen van tevoren contact op met een oppas in het hoogseizoen om een plek te verzekeren.",
+          "tipIt": "Contatta un pet sitter con qualche giorno d'anticipo in alta stagione per assicurarti un posto."
         },
         {
           "name": "Holidog (online platform)",
@@ -1497,10 +1675,13 @@
           "tipPt": "Compare uma pensão no campo próximo com um sitter ao domicílio para estadias longas.",
           "descriptionDe": "Ein Marktplatz für Haustierpflege, der den Raum Vichy für Hundepension, Haussitting und Gassigehen abdeckt und Sie mit lokalen Betreuern verbindet. Buchungen, Versicherung und Zahlung laufen über die Plattform.",
           "descriptionNl": "Een marktplaats voor huisdierzorg die de regio Vichy dekt voor hondenpension, huissitten en uitlaten en je verbindt met lokale oppassers. Boekingen, verzekering en betaling verlopen via het platform.",
+          "descriptionIt": "Un marketplace per la cura degli animali che copre la regione di Vichy per pensione per cani, house sitting e passeggiate, mettendoti in contatto con pet sitter locali. Prenotazioni, assicurazione e pagamento avvengono tramite la piattaforma.",
           "petPolicyDe": "Variiert je nach Betreuer",
           "petPolicyNl": "Verschilt per oppas",
+          "petPolicyIt": "Varia in base al pet sitter",
           "tipDe": "Vergleichen Sie eine nahe gelegene Landpension mit einem Haussitter für längere Aufenthalte.",
-          "tipNl": "Vergelijk een nabijgelegen plattelandspension met een huissitter voor langere verblijven."
+          "tipNl": "Vergelijk een nabijgelegen plattelandspension met een huissitter voor langere verblijven.",
+          "tipIt": "Confronta una pensione di campagna nelle vicinanze con un house sitter per soggiorni più lunghi."
         }
       ],
       "tipsEn": [
@@ -1581,8 +1762,10 @@
       ],
       "titleDe": "Haustierbetreuung & Hundepension in Vichy",
       "titleNl": "Huisdieroppas & hondenpension in Vichy",
+      "titleIt": "Pet sitting e pensione per cani a Vichy",
       "introDe": "In Vichy selbst gibt es keine Hundepension, daher nutzen die meisten Besucher Online-Betreuungsmarktplätze oder eine Pension im umliegenden Umland. Buchen Sie früh für die geschäftige Kursaison im Juli und August.",
       "introNl": "In Vichy zelf is er geen hondenpension, dus de meeste bezoekers gebruiken online oppasmarktplaatsen of een pension in de omliggende omgeving. Boek vroeg voor het drukke kuurseizoen in juli en augustus.",
+      "introIt": "A Vichy stessa non c'è una pensione per cani, quindi la maggior parte dei visitatori usa marketplace online per pet sitter o una pensione nei dintorni. Prenota in anticipo per l'affollata stagione termale di luglio e agosto.",
       "faqsDe": [
         {
           "q": "Gibt es eine Hundepension in Vichy?",
@@ -1609,6 +1792,20 @@
         {
           "q": "Wanneer moet ik boeken?",
           "a": "Boek op tijd voor juli en augustus, wanneer het kuurseizoen lokale oppassers en pensions vult."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è una pensione per cani a Vichy?",
+          "a": "Non all'interno della città stessa, usa una pensione di campagna vicina o un house sitter tramite Rover, Animaute o Holidog."
+        },
+        {
+          "q": "Quanto costa una pensione per cani vicino a Vichy?",
+          "a": "Le tariffe giornaliere locali delle pensioni si aggirano di solito tra 13 e 28 euro, a seconda del pet sitter e della stagione."
+        },
+        {
+          "q": "Quando devo prenotare?",
+          "a": "Prenota in anticipo per luglio e agosto, quando la stagione termale riempie i pet sitter e le pensioni locali."
         }
       ]
     }

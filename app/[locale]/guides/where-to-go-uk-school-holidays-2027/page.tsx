@@ -16,7 +16,7 @@ export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
 }
 
-type LocaleKey = 'en' | 'fr' | 'es' | 'pt' | 'de' | 'nl'
+type LocaleKey = 'en' | 'fr' | 'es' | 'pt' | 'de' | 'nl' | 'it'
 
 // Each locale is its OWN country's 2027 school-holiday calendar, written in
 // that language, with destination picks reachable from that country and a
@@ -343,6 +343,48 @@ const CALENDARS: Record<LocaleKey, Calendar> = {
       { slug: 'dusseldorf', why: `De Altstadt-kerstmarkt is compact genoeg om met een hond aan de lijn goed te doen, en de Rijnoever geeft ruimte om tussen de kraampjes door even stevig door te lopen.`, travel: `ca. 2 uur rijden via de A12/A3, of directe ICE vanaf Arnhem/Utrecht` },
     ] },
   ] },
+  it: { periods: [
+    { emoji: '🎆', dates: `Vacanze di Natale · 23 dic 2026 - 6 gen 2027`, label: `Vacanze di Natale`, trip: `Breve fuga invernale`, blurb: `Due settimane a cavallo delle feste, giuste per una fuga corta appena oltre confine. Il freddo secco fa bene a un cane dal pelo folto, e i mercatini restano in piedi fino ai primi giorni di gennaio.`, picks: [
+      { slug: 'bolzano', why: `Uno dei mercatini di Natale più famosi d'Italia resta aperto fino a inizio gennaio, con passeggiate innevate tra i vigneti e ristoranti abituati a un cane sotto il tavolo.`, travel: `ca. 2-3 ore di auto o treno dal Nord Italia (Verona, Milano)` },
+      { slug: 'innsbruck', why: `Il mercatino sotto il Goldenes Dachl resta acceso nei primi giorni dell'anno, e la funivia della Nordkette porta te e il cane al guinzaglio dritti in mezzo alla neve in pochi minuti.`, travel: `ca. 3-4 ore di auto dal Nord Italia via Brennero, o treno con cambio` },
+      { slug: 'salzburg', why: `La città vecchia si gira comodamente a piedi, il Mirabellgarten dà spazio per sgranchirsi le zampe, e molti caffè accolgono i cani senza problemi anche nei giorni più affollati.`, travel: `ca. 5 ore di auto dal Nord Italia, o treno con cambio` },
+    ] },
+    { emoji: '⛄', dates: `Ponte di Carnevale · 8-13 feb 2027 (Martedì Grasso 9 feb, solo in alcune regioni)`, label: `Ponte di Carnevale`, trip: `Weekend prolungato: montagna o laghi`, blurb: `Solo alcune regioni concedono giorni di vacanza extra per Carnevale, ma è comunque una buona scusa per un weekend lungo lontano dalla folla in maschera. Meglio puntare su laghi o montagna a bassa quota, dove il cane può ancora camminare senza rischiare troppo freddo.`, picks: [
+      { slug: 'zell-am-see', why: `Sentieri invernali sgombrati proprio lungo il lago, lontano dalle piste da sci dove il cane non può andare. Molti hotel del Pinzgau sono attrezzati per ospiti a quattro zampe con asciugamani e ciotole pronte.`, travel: `ca. 5 ore di auto dal Nord Italia via Tarvisio o Brennero` },
+      { slug: 'lugano', why: `Passeggiate lungolago tranquille fuori stagione, e il Ticino è generalmente accogliente con i cani nei bar e nei caffè del centro.`, travel: `ca. 1 ora di auto da Milano` },
+      { slug: 'sirmione', why: `Bassa stagione sul Garda: niente code alle terme, spiagge quasi deserte e una lunga passeggiata sul lungolago senza il caos estivo.`, travel: `ca. 1,5-2 ore di auto da Milano o Verona` },
+    ] },
+    { emoji: '🐣', dates: `Vacanze di Pasqua · circa giovedì 25 - martedì 30 marzo 2027 (Pasqua 28 mar, Pasquetta 29 mar)`, label: `Vacanze di Pasqua`, trip: `Una settimana di primavera`, blurb: `Quasi una settimana libera dalla scuola, con la primavera già avviata e il caldo ancora lontano. Buon momento per i laghi alpini o una prima puntata sulla costa istriana, prima che arrivino i divieti estivi sulle spiagge.`, picks: [
+      { slug: 'annecy', why: `Il lago turchese ha una spiaggia per cani (Plage des Marquisats) e sentieri ombreggiati lungo la riva, ancora tranquilli prima dell'alta stagione.`, travel: `ca. 4 ore di auto dal Nord Italia via traforo del Monte Bianco` },
+      { slug: 'rovinj', why: `L'Istria croata a fine marzo è verde e silenziosa, con passeggiate costiere e diverse calette che tollerano un cane fuori dalla stagione balneare.`, travel: `ca. 2,5-3 ore di auto da Trieste o Venezia` },
+      { slug: 'geneva', why: `Le rive del lago Lemano e il Jardin Anglais offrono grandi spazi verdi dove un cane al guinzaglio può muoversi con calma. Città molto organizzata per le passeggiate urbane con l'animale.`, travel: `ca. 4-5 ore di auto o treno con cambio dal Nord Italia` },
+    ] },
+    { emoji: '🌷', dates: `Ponte di primavera · domenica 25 apr e sabato 1 mag 2027 (entrambe le feste cadono nel weekend)`, label: `Weekend di primavera`, trip: `Due occasioni ravvicinate per una fuga corta`, blurb: `Nel 2027 sia il 25 aprile che il 1° maggio cadono nel weekend, quindi non regalano un vero ponte extra: basta però prendere il lunedì 26 aprile per allungare il primo weekend, oppure organizzare comunque una gita di due giorni. Il clima di fine aprile è ancora fresco al punto giusto per un cane attivo.`, picks: [
+      { slug: 'chamonix', why: `Ai piedi del Monte Bianco i sentieri di bassa quota sono già liberi dalla neve, e diverse terrazze in paese accolgono i cani senza problemi.`, travel: `ca. 3 ore di auto dal Nord Italia via traforo del Monte Bianco` },
+      { slug: 'verona', why: `Le rive dell'Adige e il Giardino Giusti danno lunghe passeggiate ombreggiate senza uscire dalla città, comode per un weekend senza grandi spostamenti.`, travel: `ca. 1-2 ore di auto o treno da qualunque città del Nord Italia` },
+      { slug: 'lucerne', why: `Il lungolago del Vierwaldstättersee offre spazio a volontà per un cane al guinzaglio, e le funicolari intorno alla città sono per lo più pet-friendly per una gita di un giorno.`, travel: `ca. 4 ore di auto dal Nord Italia` },
+    ] },
+    { emoji: '🌻', dates: `Ponte del 2 giugno · mercoledì 2 giugno 2027 (unendo lunedì e martedì si arriva a un ponte di sei giorni)`, label: `Ponte di inizio estate`, trip: `Weekend lungo o mini vacanza`, blurb: `La Festa della Repubblica cade di mercoledì: chi riesce a prendere anche il lunedì e il martedì si regala un ponte di sei giorni, giusto in tempo per anticipare l'estate senza ancora il caldo pieno.`, picks: [
+      { slug: 'interlaken', why: `Tra i laghi di Thun e Brienz, l'altitudine mantiene temperature miti anche a inizio giugno, e le rive erbose sono accessibili ai cani al guinzaglio.`, travel: `ca. 5-6 ore di auto dal Nord Italia` },
+      { slug: 'bellagio', why: `Il Lago di Como resta più fresco della pianura, con passeggiate lungolago ombreggiate e borghi che si girano comodamente a piedi con il cane.`, travel: `ca. 1-1,5 ore di auto da Milano` },
+      { slug: 'vienna', why: `Il Ring e il Prater offrono tanto spazio per lunghe passeggiate, e molti caffè viennesi accolgono i cani al guinzaglio senza fare storie.`, travel: `ca. 6-7 ore di auto, o treno notturno` },
+    ] },
+    { emoji: '☀️', dates: `Vacanze estive · da inizio/metà giugno a metà settembre 2027 (le date esatte variano da regione a regione)`, label: `Vacanze estive`, trip: `Le grandi vacanze: punta in alto o al fresco`, blurb: `Le vacanze più lunghe dell'anno, ma anche il periodo più delicato per un cane: caldo, spiagge vietate d'estate sul Mediterraneo, asfalto rovente. Meglio puntare su quota, laghi o la costa atlantica, dove le temperature restano più sopportabili.`, picks: [
+      { slug: 'san-sebastian', why: `La costa atlantica basca resta 8-10°C più fresca del Mediterraneo ad agosto. Brezza marina, colline verdi e prime ore del mattino libere sulla spiaggia per il cane.`, travel: `ca. 12-13 ore di auto (meglio in due tappe), o volo con scalo da Milano o Roma verso Bilbao più un'ora di auto` },
+      { slug: 'salzburg', why: `Un campo base per i laghi del Salzkammergut: fai fare il bagno al cane nel Wolfgangsee, cammina in boschi freschi e sfuggi al caldo di pianura salendo di quota.`, travel: `ca. 5 ore di auto dal Nord Italia` },
+      { slug: 'bellagio', why: `Le sere sul Lago di Como restano fresche anche in agosto, con sentieri lungolago all'ombra ben lontani dall'afa della costa.`, travel: `ca. 1-1,5 ore di auto da Milano, comoda anche per un soggiorno più lungo` },
+    ] },
+    { emoji: '🍂', dates: `Ponte di Ognissanti · lunedì 1 novembre 2027 (weekend naturale di tre giorni)`, label: `Ponte di Ognissanti`, trip: `Weekend lungo d'autunno`, blurb: `Il 1° novembre cade di lunedì, un ponte naturale di tre giorni con le temperature già più gradevoli per camminare tutto il giorno senza soffrire il caldo.`, picks: [
+      { slug: 'turin', why: `Il Parco del Valentino lungo il Po dà chilometri di passeggiata pianeggiante, e i lunghi portici del centro riparano dalla pioggia autunnale mentre il cane cammina al coperto.`, travel: `ca. 1-2 ore di auto o treno da Milano` },
+      { slug: 'lugano', why: `Il clima del Ticino resta mite fino a fine ottobre, e le passeggiate lungolago sono ancora piacevoli senza il traffico turistico dell'estate.`, travel: `ca. 1 ora di auto da Milano` },
+      { slug: 'rovinj', why: `L'Istria in autunno è libera dai divieti estivi sui cani, con passeggiate costiere tranquille e molte meno persone rispetto alla stagione balneare.`, travel: `ca. 2,5-3 ore di auto da Trieste o Venezia` },
+    ] },
+    { emoji: '🎄', dates: `Vacanze di Natale · 23 dic 2027 - 6 gen 2028`, label: `Vacanze di Natale`, trip: `Mercatini di Natale: corti o medi`, blurb: `I mercatini sono la buona ragione per viaggiare a dicembre, e il freddo asciutto fa generalmente bene a un cane. Tutto qui sotto resta entro una giornata di viaggio, così puoi cambiare aria senza percorrere troppi chilometri.`, picks: [
+      { slug: 'bolzano', why: `Uno dei mercatini più belli d'Italia, tra i vigneti dell'Alto Adige, con un'atmosfera festosa ma mai troppo caotica per un cane al guinzaglio.`, travel: `ca. 2-3 ore di auto o treno dal Nord Italia` },
+      { slug: 'innsbruck', why: `Il mercatino appena oltre confine con lo sfondo delle montagne innevate, comodo per una gita di pochi giorni senza un viaggio troppo lungo.`, travel: `ca. 3-4 ore di auto dal Nord Italia via Brennero` },
+      { slug: 'vienna', why: `Mercatini di Natale eleganti e caffè storici che accolgono i cani al guinzaglio, buon obiettivo per chi vuole allungare il ponte di fine anno.`, travel: `ca. 6-7 ore di auto, o treno notturno` },
+    ] },
+  ] },
 }
 
 // One far, flight-reachable idea appended to each period (index-aligned to that
@@ -411,6 +453,17 @@ const FAR: Record<LocaleKey, Pick[]> = {
     { slug: 'heraklion', why: `Kreta compenseert de zomerhitte met kristalhelder water om de hond af te koelen. Plan lange wandelingen alleen vroeg in de ochtend of bij zonsondergang, nooit rond het middaguur.`, travel: `ca. 4 uur vlucht vanaf Schiphol. Check in de zomer of de maatschappij een verwarmd/gekoeld ruim garandeert, het asfalt op het platform kan de pootjes verbranden.` },
     { slug: 'funchal', why: `Madeira blijft door de Atlantische ligging milder dan de Middellandse Zee, dus het is een zon-optie zonder het ergste hitterisico voor de hond. De levada-paden liggen in de schaduw en er is altijd een koele zeebries.`, travel: `ca. 4,5 uur vlucht vanaf Schiphol, meestal met overstap. Kleine hond in de cabine, grotere in het ruim, en plan de reis in de vroege ochtend of avond om de hitte te vermijden.` },
     { slug: 'maspalomas', why: `Gran Canaria biedt rond de kerst betrouwbaar zon en milde temperaturen in plaats van grijs winterweer thuis. De duinen van Maspalomas zijn vlak en goed te belopen met de hond.`, travel: `ca. 4,5 uur vlucht vanaf Schiphol. Kleine hond tot 8 kg in de cabine, grotere honden in het verwarmde ruim. EU-dierenpaspoort verplicht.` },
+  ],
+  it: [
+    { slug: 'tenerife', why: `Tenerife offre ancora 18-20°C a gennaio e molte spiagge per cani fuori stagione, come Playa de la Tejita. Un vero reset dopo il grigiore di dicembre.`, travel: `volo diretto da Milano o Roma, circa 4-4,5 ore. Cane piccolo in cabina con alcune compagnie, i più grandi in stiva climatizzata. Passaporto europeo per animali obbligatorio.` },
+    { slug: 'lanzarote', why: `Il paesaggio vulcanico regala sentieri secchi e ben percorribili anche a febbraio, con temperature gradevoli sui 18-20°C. Più tranquilla delle Canarie più grandi.`, travel: `circa 4,5 ore di volo da Milano o Roma. Cane piccolo in cabina con alcune compagnie, i più grandi in stiva climatizzata. Passaporto europeo necessario.` },
+    { slug: 'corfu', why: `Corfù in aprile è verde e in fiore, senza il caldo estivo, con passeggiate ombreggiate tra gli uliveti e baie tranquille molto più adatte a un cane rispetto a una spiaggia in piena stagione.`, travel: `circa 1,5-2 ore di volo da Milano o Roma, talvolta con scalo. Cane piccolo in cabina, i più grandi in stiva. Passaporto europeo sufficiente, nessuna formalità extra nell'UE.` },
+    { slug: 'paphos', why: `Cipro offre un sole primaverile affidabile e sentieri costieri intorno al parco archeologico, piacevoli per il cane prima che l'isola diventi troppo calda.`, travel: `circa 3,5-4 ore di volo da Milano o Roma, spesso con scalo. Cane piccolo in cabina con alcune compagnie, i più grandi in stiva climatizzata. Passaporto europeo obbligatorio.` },
+    { slug: 'valletta', why: `Malta è già estiva a maggio senza l'afa più intensa, e le distanze brevi tra i punti di interesse rendono comodo spostarsi con un cane al guinzaglio.`, travel: `circa 2-2,5 ore di volo da Milano o Roma. Cane piccolo talvolta ammesso in cabina, verifica con la compagnia; i più grandi in stiva climatizzata. Passaporto europeo necessario.` },
+    { slug: 'rhodes', why: `Rodi a fine maggio è calda ma non ancora rovente, con vicoli lastricati nella città vecchia e pinete che offrono ombra oltre alla spiaggia.`, travel: `circa 2,5-3 ore di volo da Milano o Roma. Cane piccolo in cabina con alcune compagnie, i più grandi in stiva climatizzata. Passaporto europeo obbligatorio.` },
+    { slug: 'heraklion', why: `Creta compensa il caldo estivo con acque cristalline per rinfrescare il cane. Pianifica le passeggiate lunghe solo al mattino presto o al tramonto, mai a mezzogiorno.`, travel: `circa 2,5-3 ore di volo da Milano o Roma. In estate verifica che la compagnia garantisca una stiva climatizzata, l'asfalto della pista può scottare le zampe.` },
+    { slug: 'funchal', why: `Madeira resta più mite del Mediterraneo grazie all'Atlantico, quindi è un'opzione di sole senza il rischio maggiore di caldo per il cane. I sentieri delle levade sono ombreggiati e la brezza marina è costante.`, travel: `circa 4 ore di volo da Milano o Roma, spesso con scalo. Cane piccolo in cabina, i più grandi in stiva, meglio viaggiare nelle ore fresche del mattino o della sera.` },
+    { slug: 'maspalomas', why: `Gran Canaria offre a Natale sole affidabile e temperature miti al posto del grigiore invernale di casa. Le dune di Maspalomas sono piatte e facili da percorrere con il cane.`, travel: `circa 4,5 ore di volo da Milano o Roma. Cane piccolo fino a 8 kg in cabina, i più grandi in stiva climatizzata. Passaporto europeo obbligatorio.` },
   ],
 }
 
@@ -573,6 +626,31 @@ const COPY: Record<LocaleKey, {
       { q: 'Wanneer kun je beter de Middellandse Zee met hond mijden?', a: 'In het hoogseizoen (juli-augustus). De hitte is echt gevaarlijk en de meeste zuidelijke stranden verbieden honden in die maanden sowieso. Bewaar het zuiden voor de voorjaars- of herfstvakantie, mild en met open hondenstranden.' },
     ],
     sticky: { label: 'Huisdiervriendelijke hotels voor de vakanties van 2027', cta: 'Bekijk hotels' },
+  },
+  it: {
+    eyebrow: 'VACANZE SCOLASTICHE ITALIA 2027 · VIAGGIARE CON IL CANE',
+    title: `Dove andare con il cane nelle vacanze scolastiche e nei ponti del 2027`,
+    intro: `Un piano periodo per periodo del vero calendario scolastico italiano 2027: per ogni vacanza e ogni ponte, due o tre idee di viaggio con il tuo cane, il tempo di percorrenza onesto dall'Italia, e tre hotel veri divisi per budget. Un ponte si risolve vicino a casa; una settimana o le vacanze estive giustificano una tappa più lontana. Teniamo conto della realtà del cane: il caldo d'estate, i divieti di spiaggia stagionali e le regole del treno.`,
+    note: `Le date seguono il calendario scolastico italiano 2027 (che varia da regione a regione, soprattutto per Carnevale e l'inizio/fine delle vacanze estive) e le festività nazionali. Verifica sempre il calendario della tua regione.`,
+    calTitle: `Il calendario 2027 in un colpo d'occhio`, schoolLabel: 'Vacanze scolastiche', holsLabel: 'Festività',
+    travelLabel: `Viaggio dall'Italia`, whyLabel: 'Perché qui', staysLabel: 'Dove dormire, per ogni budget', farLabel: 'In aereo',
+    tierBudget: 'Economico', tierMid: 'Fascia media', tierPremium: 'Premium',
+    from: 'da', night: 'notte', petFeeNil: 'Nessun supplemento animale', petFee: 'suppl. animale', bookCta: 'Vedi le date →', destCta: 'Guida completa alla città →',
+    practicalHeading: 'Organizzarsi intorno al calendario 2027',
+    practical: [
+      { h: 'Il cane in treno', p: `Trenitalia ammette i cani di piccola taglia in borsa o trasportino gratuitamente; i cani più grandi viaggiano al guinzaglio e con museruola con un biglietto a tariffa ridotta. In auto, fermati ogni due ore e non lasciare mai il cane da solo in macchina d'estate.` },
+      { h: 'Fai coincidere la distanza con i giorni liberi', p: `Un ponte di 3-4 giorni resta entro 3-4 ore di auto (Austria, Svizzera, Slovenia, Croazia). Una settimana di vacanza giustifica il Sud della Francia o della Spagna. Le vacanze estive lunghe ripagano il viaggio più lungo verso l'Atlantico o le isole greche.` },
+      { h: 'Il vero rischio è il caldo estivo', p: `Evita il Mediterraneo nelle ore centrali di luglio e agosto: l'asfalto arriva a 50°C e scotta i cuscinetti, e l'auto diventa letale in pochi minuti. Punta su laghi, quota o le coste atlantiche più fresche, e porta a spasso il cane solo all'alba e al tramonto.` },
+      { h: 'Divieti di spiaggia stagionali', p: `La maggior parte delle spiagge italiane, francesi e spagnole vieta i cani durante la stagione balneare (circa giugno-settembre) e riapre il resto dell'anno. Pasqua, Ognissanti e i ponti invernali cadono proprio nelle finestre aperte.` },
+    ],
+    faqHeading: 'Domande frequenti',
+    faqs: [
+      { q: 'Posso portare il mio cane in treno per queste vacanze?', a: `Sì. Trenitalia ammette i cani piccoli in trasportino gratuitamente; i cani più grandi viaggiano al guinzaglio e con museruola con un biglietto a tariffa ridotta. Controlla le regole esatte del treno che prenoti.` },
+      { q: 'Le date delle vacanze scolastiche sono uguali in tutta Italia?', a: `No. Le vacanze di Natale e la maggior parte delle festività nazionali sono comuni a tutte le regioni, ma Carnevale e l'inizio/fine delle vacanze estive variano da regione a regione e da scuola a scuola. Verifica sempre il calendario della tua regione prima di prenotare.` },
+      { q: 'Qual è il periodo migliore del 2027 per un primo viaggio con il cane?', a: `Un ponte di primavera o le vacanze di Pasqua. Il clima è mite, le distanze restano contenute, e due o tre notti permettono a un cane alle prime armi di abituarsi al viaggio senza un tragitto troppo lungo.` },
+      { q: 'Quando evitare il Mediterraneo con il cane?', a: `In pieno agosto e a fine luglio. Il caldo è davvero pericoloso e molte spiagge del sud vietano i cani proprio in quei mesi. Riserva il sud alla Pasqua o al ponte di Ognissanti, quando è mite e le spiagge per cani sono aperte.` },
+    ],
+    sticky: { label: `Hotel pet-friendly per le vacanze del 2027`, cta: 'Vedi gli hotel' },
   },
 }
 
@@ -751,6 +829,29 @@ const CAL_SUMMARY: Record<LocaleKey, { school: CalRow[]; public: CalHol[] }> = {
       { name: '2e Pinksterdag', date: 'ma 17 mei' },
       { name: '1e Kerstdag', date: 'za 25 dec' },
       { name: '2e Kerstdag', date: 'zo 26 dec' },
+    ],
+  },
+  it: {
+    school: [
+      { name: 'Vacanze di Natale (inizio anno)', dates: `23 dic 2026 - 6 gen 2027 (l'ultimo giorno varia leggermente da regione a regione)` },
+      { name: 'Ponte di Carnevale', dates: 'solo in alcune regioni, 8-13 feb 2027 circa (Martedì Grasso 9 feb)' },
+      { name: 'Vacanze di Pasqua', dates: 'circa 25-30 mar 2027, variano da regione a regione' },
+      { name: 'Vacanze estive', dates: 'da inizio/metà giugno a metà settembre 2027 (le date esatte variano da regione a regione)' },
+      { name: 'Vacanze di Natale (fine anno)', dates: '23 dic 2027 - 6 gen 2028' },
+    ],
+    public: [
+      { name: 'Capodanno', date: 'ven. 1 gen' },
+      { name: 'Epifania', date: 'mer. 6 gen' },
+      { name: 'Pasqua', date: 'dom. 28 mar' },
+      { name: 'Pasquetta', date: 'lun. 29 mar' },
+      { name: 'Liberazione', date: 'dom. 25 apr' },
+      { name: 'Festa dei Lavoratori', date: 'sab. 1 mag' },
+      { name: 'Festa della Repubblica', date: 'mer. 2 giu' },
+      { name: 'Ferragosto', date: 'dom. 15 ago' },
+      { name: 'Ognissanti', date: 'lun. 1 nov' },
+      { name: 'Immacolata', date: 'mer. 8 dic' },
+      { name: 'Natale', date: 'sab. 25 dic' },
+      { name: 'Santo Stefano', date: 'dom. 26 dic' },
     ],
   },
 }

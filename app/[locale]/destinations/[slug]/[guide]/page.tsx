@@ -221,7 +221,7 @@ function getAvailableGuideSlugs(): string[] {
 // Same approach as /hotels/[slug]: pages render on first hit, cache for a
 // day, stay in the sitemap and remain crawlable.
 export const dynamicParams = true
-export const revalidate = 86400 // 1 day ISR cache
+export const revalidate = 2592000 // 30j : contenu statique, un deploy invalide deja le cache
 export async function generateStaticParams() {
   return []
 }

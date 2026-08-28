@@ -384,7 +384,7 @@ export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
 }
 
-export const revalidate = 86400
+export const revalidate = 2592000 // 30j : contenu statique, un deploy invalide deja le cache
 
 export async function generateMetadata({
   params,

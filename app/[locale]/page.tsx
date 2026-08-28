@@ -83,7 +83,7 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
     alternateName: 'HotelsWithPets.com',
     url: SITE_URL,
     description: '2,500+ dog-friendly and pet-friendly hotels across 400+ European destinations. Handpicked, verified pet policies, real guest ratings, and city guides for travelling with your dog or cat.',
-    inLanguage: ['en', 'fr', 'es', 'pt', 'de'],
+    inLanguage: ['en', 'fr', 'es', 'pt', 'de', 'nl', 'it'],
     publisher: {
       '@type': 'Organization',
       name: 'HotelsWithPets',
@@ -104,7 +104,7 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
     description: 'A trip-planning platform for travellers with pets: 2,500+ verified dog-friendly and pet-friendly hotels across 400+ destinations, city guides, emergency-vet directories, and transport rules.',
     foundingDate: '2026',
     areaServed: ['Europe', 'United States'],
-    knowsLanguage: ['en', 'fr', 'es', 'pt', 'de'],
+    knowsLanguage: ['en', 'fr', 'es', 'pt', 'de', 'nl', 'it'],
   }
 
   return (

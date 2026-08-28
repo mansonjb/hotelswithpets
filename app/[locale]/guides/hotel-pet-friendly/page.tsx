@@ -36,6 +36,7 @@ export async function generateMetadata({
     pt: 'Como elegir um hotel realmente pet-friendly en Europa: a guía sem rodeos (2025)',
     de: 'So finden Sie ein wirklich haustierfreundliches Hotel in Europa: der Leitfaden ohne Umschweife (2025)',
     nl: 'Zo kies je een écht huisdiervriendelijk hotel in Europa: de gids zonder omwegen (2025)',
+    it: 'Come scegliere un hotel davvero pet-friendly in Europa: la guida senza giri di parole (2025)',
   }
   const descriptions: Record<string, string> = {
     en: 'The definitive guide to decoding hotel pet policies in Europe. Red flags, green flags, questions to ask, real price ranges, and how booking platforms actually work, so you never get a nasty surprise at check-in.',
@@ -44,6 +45,7 @@ export async function generateMetadata({
     pt: 'A guía definitiva para descifrar as políticas de animais en hotéis de Europa. Senhales de alerta, buenas senhales, preguntas que hacer, rangos de preços reales e como funcionam as plataformas de reserva, para no tener sorpresas desagradables al hacer o check-in.',
     de: 'Der ultimative Leitfaden zum Entschlüsseln der Haustierregelungen von Hotels in Europa. Warnsignale, positive Signale, Fragen, die Sie stellen sollten, reale Preisspannen und wie Buchungsplattformen wirklich funktionieren, damit Sie beim Check-in nie eine böse Überraschung erleben.',
     nl: 'De ultieme gids om het huisdierenbeleid van hotels in Europa te doorgronden. Waarschuwingssignalen, positieve signalen, vragen die je moet stellen, reële prijzen en hoe boekingsplatforms echt werken, zodat je bij het inchecken nooit voor een nare verrassing komt te staan.',
+    it: 'La guida definitiva per decifrare le politiche sugli animali degli hotel in Europa. Segnali d\'allarme, segnali positivi, domande da fare, fasce di prezzo reali e come funzionano davvero le piattaforme di prenotazione, così non avrai mai una brutta sorpresa al check-in.',
   }
 
   const today = new Date().toISOString().split('T')[0]

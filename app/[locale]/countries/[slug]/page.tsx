@@ -28,6 +28,9 @@ export async function generateMetadata({
   if (!countryName) return {}
 
   const countryEs = getLocalizedCountryName(countryName, 'es')
+  const countryDe = getLocalizedCountryName(countryName, 'de')
+  const countryNl = getLocalizedCountryName(countryName, 'nl')
+  const countryIt = getLocalizedCountryName(countryName, 'it')
   const frPhrase = frCountryPhrase(countryName)   // "en France", "au Portugal", "aux États-Unis"
   const ptPhrase = ptCountryPhrase(countryName)   // "em França", "no Reino Unido", "nos Estados Unidos"
   const titleTemplates: Record<string, string> = {
@@ -35,12 +38,18 @@ export async function generateMetadata({
     fr: `Hôtels pet-friendly ${frPhrase}`,
     es: `Hoteles pet-friendly en ${countryEs}`,
     pt: `Hotéis pet-friendly ${ptPhrase}`,
+    de: `Haustierfreundliche Hotels in ${countryDe}`,
+    nl: `Huisdiervriendelijke hotels in ${countryNl}`,
+    it: `Hotel pet-friendly in ${countryIt}`,
   }
   const descTemplates: Record<string, string> = {
     en: `Discover the best pet-friendly hotels across ${countryName}. Browse cities, compare pet policies and book with confidence.`,
     fr: `Découvrez les meilleurs hôtels pet-friendly ${frPhrase}. Comparez les villes, vérifiez les politiques animaux et réservez en confiance.`,
     es: `Descubre los mejores hoteles pet-friendly en ${countryEs}. Compara ciudades, consulta las políticas de mascotas y reserva con confianza.`,
     pt: `Descubra os melhores hotéis pet-friendly ${ptPhrase}. Compare cidades, verifique as políticas de animais e reserve com confiança.`,
+    de: `Entdecke die besten haustierfreundlichen Hotels in ${countryDe}. Durchstöbere Städte, vergleiche die Tierrichtlinien und buche mit gutem Gefühl.`,
+    nl: `Ontdek de beste huisdiervriendelijke hotels in ${countryNl}. Blader door steden, vergelijk het huisdierbeleid en boek met een gerust hart.`,
+    it: `Scopri i migliori hotel pet-friendly in ${countryIt}. Esplora le città, confronta le politiche sugli animali e prenota in tutta tranquillità.`,
   }
   const title = titleTemplates[locale] ?? titleTemplates.en
   const description = descTemplates[locale] ?? descTemplates.en
@@ -99,12 +108,18 @@ export default async function CountryPage({
     fr: `Hôtels pet-friendly ${frCountryPhrase(countryName)}`,
     es: `Hoteles pet-friendly en ${localizedCountry}`,
     pt: `Hotéis pet-friendly ${ptCountryPhrase(countryName)}`,
+    de: `Haustierfreundliche Hotels in ${localizedCountry}`,
+    nl: `Huisdiervriendelijke hotels in ${localizedCountry}`,
+    it: `Hotel pet-friendly in ${localizedCountry}`,
   }
   const subtitles: Record<string, string> = {
     en: `${country.destinations.length} cities · ${totalHotels}+ pet-friendly hotels`,
     fr: `${country.destinations.length} villes · ${totalHotels}+ hôtels pet-friendly`,
     es: `${country.destinations.length} ciudades · ${totalHotels}+ hoteles pet-friendly`,
     pt: `${country.destinations.length} cidades · ${totalHotels}+ hotéis pet-friendly`,
+    de: `${country.destinations.length} Städte · ${totalHotels}+ haustierfreundliche Hotels`,
+    nl: `${country.destinations.length} steden · ${totalHotels}+ huisdiervriendelijke hotels`,
+    it: `${country.destinations.length} città · ${totalHotels}+ hotel pet-friendly`,
   }
 
   const base = 'https://www.hotelswithpets.com'
@@ -165,10 +180,10 @@ export default async function CountryPage({
                       <span className="text-5xl mb-3 block">{dest.flag}</span>
                       <h2 className="text-white font-extrabold text-2xl mb-1">{getLocalizedCityName(dest.slug, dest.name, locale)}</h2>
                       <p className="text-white/70 text-sm mb-3">
-                        {destHotelCount} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : 'hotels'}
+                        {destHotelCount} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : locale === 'de' ? 'Hotels' : locale === 'nl' ? 'hotels' : locale === 'it' ? 'hotel' : 'hotels'}
                       </p>
                       <span className="inline-flex items-center gap-2 bg-white/20 hover:bg-white/30 text-white text-sm font-semibold px-4 py-2 rounded-full transition-colors">
-                        {p.back ? '' : ''}{locale === 'fr' ? 'Explorer' : locale === 'es' ? 'Explorar' : locale === 'pt' ? 'Explorar' : 'Explore'} →
+                        {p.back ? '' : ''}{locale === 'fr' ? 'Explorer' : locale === 'es' ? 'Explorar' : locale === 'pt' ? 'Explorar' : locale === 'de' ? 'Entdecken' : locale === 'nl' ? 'Ontdekken' : locale === 'it' ? 'Esplora' : 'Explore'} →
                       </span>
                     </div>
                   </Link>
@@ -191,6 +206,12 @@ export default async function CountryPage({
                 ? `Hôtels ${catLabel.toLowerCase()} à ${localizedDestName}`
                 : locale === 'es'
                 ? `Hoteles ${catLabel.toLowerCase()} en ${localizedDestName}`
+                : locale === 'it'
+                ? `Hotel ${catLabel.toLowerCase()} a ${localizedDestName}`
+                : locale === 'de'
+                ? `${catLabel} Hotels in ${localizedDestName}`
+                : locale === 'nl'
+                ? `${catLabel} hotels in ${localizedDestName}`
                 : `${catLabel} hotels in ${localizedDestName}`
               guideLinks.push({ href: `/${locale}/${dest.slug}/${cat.slug}`, label })
             })
@@ -200,7 +221,7 @@ export default async function CountryPage({
             <section className="bg-white border-t border-gray-100 py-10">
               <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <h2 className="text-lg font-extrabold text-gray-900 mb-5">
-                  {locale === 'fr' ? `Guides populaires ${frCountryPhrase(countryName)}` : locale === 'es' ? `Guías populares en ${localizedCountry}` : locale === 'pt' ? `Guias populares ${ptCountryPhrase(countryName)}` : `Popular guides in ${countryName}`}
+                  {locale === 'fr' ? `Guides populaires ${frCountryPhrase(countryName)}` : locale === 'es' ? `Guías populares en ${localizedCountry}` : locale === 'pt' ? `Guias populares ${ptCountryPhrase(countryName)}` : locale === 'de' ? `Beliebte Guides in ${localizedCountry}` : locale === 'nl' ? `Populaire gidsen in ${localizedCountry}` : locale === 'it' ? `Guide popolari in ${localizedCountry}` : `Popular guides in ${countryName}`}
                 </h2>
                 <div className="flex flex-wrap gap-2">
                   {guideLinks.map((g) => (
@@ -221,7 +242,7 @@ export default async function CountryPage({
         {/* Breadcrumb back */}
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
           <Link href={`/${locale}/destinations`} className="text-blue-600 hover:underline text-sm">
-            ← {locale === 'fr' ? 'Toutes les destinations' : locale === 'es' ? 'Todos los destinos' : locale === 'pt' ? 'Todos os destinos' : 'All destinations'}
+            ← {locale === 'fr' ? 'Toutes les destinations' : locale === 'es' ? 'Todos los destinos' : locale === 'pt' ? 'Todos os destinos' : locale === 'de' ? 'Alle Reiseziele' : locale === 'nl' ? 'Alle bestemmingen' : locale === 'it' ? 'Tutte le destinazioni' : 'All destinations'}
           </Link>
         </div>
       </div>

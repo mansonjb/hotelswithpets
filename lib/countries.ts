@@ -285,11 +285,45 @@ const COUNTRIES_DE: Record<string, string> = {
   Australia: 'Australien', Canada: 'Kanada', Japan: 'Japan',
 }
 
+const COUNTRIES_NL: Record<string, string> = {
+  France: 'Frankrijk', Spain: 'Spanje', Italy: 'Italië', Belgium: 'België',
+  Germany: 'Duitsland', Portugal: 'Portugal', Netherlands: 'Nederland',
+  'Czech Republic': 'Tsjechië', Austria: 'Oostenrijk', Denmark: 'Denemarken',
+  Sweden: 'Zweden', Switzerland: 'Zwitserland', Hungary: 'Hongarije', Croatia: 'Kroatië',
+  'United Kingdom': 'Verenigd Koninkrijk', Ireland: 'Ierland', Iceland: 'IJsland',
+  Slovenia: 'Slovenië', Latvia: 'Letland', Estonia: 'Estland', Poland: 'Polen',
+  Greece: 'Griekenland', Norway: 'Noorwegen', Finland: 'Finland', Bulgaria: 'Bulgarije',
+  Romania: 'Roemenië', Serbia: 'Servië', Slovakia: 'Slowakije', Lithuania: 'Litouwen',
+  Luxembourg: 'Luxemburg', 'United States': 'Verenigde Staten',
+  Albania: 'Albanië', Cyprus: 'Cyprus', Malta: 'Malta', Montenegro: 'Montenegro',
+  'United Arab Emirates': 'Verenigde Arabische Emiraten', Turkey: 'Turkije',
+  Georgia: 'Georgië', Morocco: 'Marokko', 'New Zealand': 'Nieuw-Zeeland',
+  Australia: 'Australië', Canada: 'Canada', Japan: 'Japan',
+}
+
+const COUNTRIES_IT: Record<string, string> = {
+  France: 'Francia', Spain: 'Spagna', Italy: 'Italia', Belgium: 'Belgio',
+  Germany: 'Germania', Portugal: 'Portogallo', Netherlands: 'Paesi Bassi',
+  'Czech Republic': 'Repubblica Ceca', Austria: 'Austria', Denmark: 'Danimarca',
+  Sweden: 'Svezia', Switzerland: 'Svizzera', Hungary: 'Ungheria', Croatia: 'Croazia',
+  'United Kingdom': 'Regno Unito', Ireland: 'Irlanda', Iceland: 'Islanda',
+  Slovenia: 'Slovenia', Latvia: 'Lettonia', Estonia: 'Estonia', Poland: 'Polonia',
+  Greece: 'Grecia', Norway: 'Norvegia', Finland: 'Finlandia', Bulgaria: 'Bulgaria',
+  Romania: 'Romania', Serbia: 'Serbia', Slovakia: 'Slovacchia', Lithuania: 'Lituania',
+  Luxembourg: 'Lussemburgo', 'United States': 'Stati Uniti',
+  Albania: 'Albania', Cyprus: 'Cipro', Malta: 'Malta', Montenegro: 'Montenegro',
+  'United Arab Emirates': 'Emirati Arabi Uniti', Turkey: 'Turchia',
+  Georgia: 'Georgia', Morocco: 'Marocco', 'New Zealand': 'Nuova Zelanda',
+  Australia: 'Australia', Canada: 'Canada', Japan: 'Giappone',
+}
+
 export function getLocalizedCountryName(englishName: string, locale: string): string {
   if (locale === 'fr') return COUNTRIES_FR[englishName] ?? englishName
   if (locale === 'es') return COUNTRIES_ES[englishName] ?? englishName
   if (locale === 'pt') return COUNTRIES_PT[englishName] ?? englishName
   if (locale === 'de') return COUNTRIES_DE[englishName] ?? englishName
+  if (locale === 'nl') return COUNTRIES_NL[englishName] ?? englishName
+  if (locale === 'it') return COUNTRIES_IT[englishName] ?? englishName
   return englishName
 }
 

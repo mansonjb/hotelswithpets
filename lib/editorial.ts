@@ -15841,6 +15841,14 @@ const catBullet3: Record<string, Record<string, (d: string, ctx: DestCtx) => str
     'luxury':         (d, ctx) => `Luxeaccommodaties in ${ctx.area} hebben volledige conciërgepakketten voor huisdieren ontwikkeld. Welkomstpakketten, in-room menu's en boekingen voor uitlaatservice. Omdat hun gasten erom vroegen.`,
     'dogs-stay-free': (d) =>      `Het gratis beleid hier is bevestigd en geldt het hele jaar door. Geen seizoensacties of gewichtsbeperkingen. Dat maakt ${d} tot een betrouwbaar voordelige bestemming voor huisdiereigenaren.`,
   },
+  it: {
+    'dog-friendly':   (d, ctx) => `Gli hotel selezionati per questa guida si trovano specificamente in ${ctx.area}, dove l'infrastruttura per animali è più fitta e i ristoranti locali offrono abitualmente ciotole d'acqua e accesso alle terrazze.`,
+    'cat-friendly':   (d) =>      `Le camere adatte ai gatti a ${d} sono di solito unità più tranquille ai piani alti con accesso affidabile all'ascensore. Caratteristiche chiave che tengono sereni gli ospiti felini per tutto il soggiorno.`,
+    'beach-access':   (_d) =>     `Le spiagge pet-friendly vicino a questi hotel sono accessibili a orari ragionevoli. Nessuna sveglia alle 6. Per la maggior parte dell'anno, il che rende la pianificazione semplice.`,
+    'near-parks':     (d, ctx) => `Gli hotel di questa lista sono tutti posizionati a meno di 10 minuti a piedi dalle zone senza guinzaglio di ${ctx.highlight}. Nessun attraversamento di strade trafficate, nessuna logistica prima della passeggiata mattutina.`,
+    'luxury':         (d, ctx) => `Le strutture di lusso in ${ctx.area} hanno sviluppato pacchetti concierge completi per animali. Kit di benvenuto, menù in camera e prenotazioni di dog-walker. Perché i loro ospiti l'hanno richiesto.`,
+    'dogs-stay-free': (d) =>      `Le politiche senza supplemento qui sono confermate e valide tutto l'anno. Non promozioni stagionali né limitate al peso. Il che rende ${d} una destinazione affidabilmente economica per i proprietari di animali.`,
+  },
 }
 
 const bestSeasonByLocale: Record<string, Record<string, string>> = {

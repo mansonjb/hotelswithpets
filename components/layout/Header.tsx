@@ -116,7 +116,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                     {/* Left: Popular destinations */}
                     <div className="flex-1 p-5 border-r border-gray-100 overflow-y-auto">
                       <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-3">
-                        {locale === 'fr' ? 'Destinations populaires' : locale === 'es' ? 'Destinos populares' : locale === 'pt' ? 'Destinos populares' : 'Popular destinations'}
+                        {locale === 'fr' ? 'Destinations populaires' : locale === 'es' ? 'Destinos populares' : locale === 'pt' ? 'Destinos populares' : locale === 'de' ? 'Beliebte Reiseziele' : locale === 'nl' ? 'Populaire bestemmingen' : locale === 'it' ? 'Destinazioni popolari' : 'Popular destinations'}
                       </p>
                       <div className="grid grid-cols-2 gap-1">
                         {popularDests.map((dest) => (
@@ -136,18 +136,18 @@ export default function Header({ locale, dict }: HeaderProps) {
                         className="inline-flex items-center gap-1 mt-3 text-xs font-semibold text-blue-600 hover:text-blue-700 transition-colors"
                         onClick={() => setDropdownOpen(false)}
                       >
-                        {locale === 'fr' ? `Voir les ${destinations.length} destinations →` : locale === 'es' ? `Ver ${destinations.length} destinos →` : locale === 'pt' ? `Ver os ${destinations.length} destinos →` : `View all ${destinations.length} destinations →`}
+                        {locale === 'fr' ? `Voir les ${destinations.length} destinations →` : locale === 'es' ? `Ver ${destinations.length} destinos →` : locale === 'pt' ? `Ver os ${destinations.length} destinos →` : locale === 'de' ? `Alle ${destinations.length} Reiseziele →` : locale === 'nl' ? `Alle ${destinations.length} bestemmingen →` : locale === 'it' ? `Vedi tutte le ${destinations.length} destinazioni →` : `View all ${destinations.length} destinations →`}
                       </Link>
                       <div className="mt-4 pt-4 border-t border-gray-100">
                         <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-2">
-                          {locale === 'fr' ? 'Guides pratiques' : locale === 'es' ? 'Guías prácticas' : locale === 'pt' ? 'Guias práticos' : 'Practical guides'}
+                          {locale === 'fr' ? 'Guides pratiques' : locale === 'es' ? 'Guías prácticas' : locale === 'pt' ? 'Guias práticos' : locale === 'de' ? 'Praktische Ratgeber' : locale === 'nl' ? 'Praktische gidsen' : locale === 'it' ? 'Guide pratiche' : 'Practical guides'}
                         </p>
                         {[
-                          { slug: 'passeport-animal', emoji: '📋', en: 'Pet passport by country', fr: 'Passeport animal par pays', es: 'Pasaporte mascota por país', pt: 'Passaporte de animal por país' },
-                          { slug: 'train-avec-chien', emoji: '🚂', en: 'Train travel with your dog', fr: 'Voyager en train avec son chien', es: 'Viajar en tren con tu perro', pt: 'Viajar de comboio com o seu cão' },
-                          { slug: 'avion-animal', emoji: '✈️', en: 'Flying with your pet', fr: 'Prendre l\'avion avec son animal', es: 'Volar con tu mascota', pt: 'Voar com o seu animal' },
-                          { slug: 'road-trip-chien', emoji: '🚗', en: 'Road trip with your dog', fr: 'Road trip avec son chien', es: 'Road trip con tu perro', pt: 'Road trip com o seu cão' },
-                          { slug: 'hotel-pet-friendly', emoji: '🏨', en: 'Choosing a pet-friendly hotel', fr: 'Choisir un hôtel pet-friendly', es: 'Elegir un hotel pet-friendly', pt: 'Escolher um hotel pet-friendly' },
+                          { slug: 'passeport-animal', emoji: '📋', en: 'Pet passport by country', fr: 'Passeport animal par pays', es: 'Pasaporte mascota por país', pt: 'Passaporte de animal por país', de: 'Heimtierausweis nach Land', nl: 'Dierenpaspoort per land', it: 'Passaporto animale per paese' },
+                          { slug: 'train-avec-chien', emoji: '🚂', en: 'Train travel with your dog', fr: 'Voyager en train avec son chien', es: 'Viajar en tren con tu perro', pt: 'Viajar de comboio com o seu cão', de: 'Mit dem Zug reisen mit Hund', nl: 'Met de trein reizen met je hond', it: 'Viaggiare in treno con il cane' },
+                          { slug: 'avion-animal', emoji: '✈️', en: 'Flying with your pet', fr: 'Prendre l\'avion avec son animal', es: 'Volar con tu mascota', pt: 'Voar com o seu animal', de: 'Fliegen mit dem Haustier', nl: 'Vliegen met je huisdier', it: 'Volare con il tuo animale' },
+                          { slug: 'road-trip-chien', emoji: '🚗', en: 'Road trip with your dog', fr: 'Road trip avec son chien', es: 'Road trip con tu perro', pt: 'Road trip com o seu cão', de: 'Roadtrip mit dem Hund', nl: 'Roadtrip met je hond', it: 'Road trip con il cane' },
+                          { slug: 'hotel-pet-friendly', emoji: '🏨', en: 'Choosing a pet-friendly hotel', fr: 'Choisir un hôtel pet-friendly', es: 'Elegir un hotel pet-friendly', pt: 'Escolher um hotel pet-friendly', de: 'Ein tierfreundliches Hotel wählen', nl: 'Een diervriendelijk hotel kiezen', it: 'Scegliere un hotel pet-friendly' },
                         ].map((g) => (
                           <Link
                             key={g.slug}
@@ -157,7 +157,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                           >
                             <span className="text-base">{g.emoji}</span>
                             <span className="text-sm font-medium leading-tight">
-                              {locale === 'fr' ? g.fr : locale === 'es' ? g.es : locale === 'pt' ? g.pt : g.en}
+                              {locale === 'fr' ? g.fr : locale === 'es' ? g.es : locale === 'pt' ? g.pt : locale === 'de' ? g.de : locale === 'nl' ? g.nl : locale === 'it' ? g.it : g.en}
                             </span>
                           </Link>
                         ))}
@@ -167,7 +167,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                     {/* Right: Browse by country */}
                     <div className="w-52 p-5 bg-gray-50/60 overflow-y-auto">
                       <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-3">
-                        {locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : locale === 'pt' ? 'Por país' : 'By country'}
+                        {locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : locale === 'pt' ? 'Por país' : locale === 'de' ? 'Nach Land' : locale === 'nl' ? 'Per land' : locale === 'it' ? 'Per paese' : 'By country'}
                       </p>
                       <ul className="space-y-0.5">
                         {localizedCountries.map(({ country, flag, slug, label }) => (
@@ -196,7 +196,7 @@ export default function Header({ locale, dict }: HeaderProps) {
               {dict.nav.countries ?? 'Countries'}
             </Link>
             <Link href={`/${locale}/guides`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
-              {locale === 'fr' ? 'Guides' : locale === 'es' ? 'Guías' : locale === 'pt' ? 'Guias' : 'Guides'}
+              {locale === 'fr' ? 'Guides' : locale === 'es' ? 'Guías' : locale === 'pt' ? 'Guias' : locale === 'de' ? 'Ratgeber' : locale === 'nl' ? 'Gidsen' : locale === 'it' ? 'Guide' : 'Guides'}
             </Link>
             <Link href={`/${locale}/about`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
               {dict.nav.about}
@@ -261,7 +261,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                     className="block py-2 px-3 text-sm font-semibold text-blue-600 hover:bg-blue-50 rounded-lg transition-colors mb-2"
                     onClick={() => setMenuOpen(false)}
                   >
-                    {locale === 'fr' ? 'Toutes les destinations →' : locale === 'es' ? 'Todos los destinos →' : locale === 'pt' ? 'Todos os destinos →' : 'All destinations →'}
+                    {locale === 'fr' ? 'Toutes les destinations →' : locale === 'es' ? 'Todos los destinos →' : locale === 'pt' ? 'Todos os destinos →' : locale === 'de' ? 'Alle Reiseziele →' : locale === 'nl' ? 'Alle bestemmingen →' : locale === 'it' ? 'Tutte le destinazioni →' : 'All destinations →'}
                   </Link>
                   <div className="grid grid-cols-2 gap-1">
                     {popularDests.map((dest) => (

@@ -357,6 +357,159 @@ const COPY: Record<string, Copy> = {
       },
     ],
   },
+  de: {
+    h1: 'Hundeparks ohne Leine & eingezäunt',
+    subtitle: (n, m, c) => `${n} geprüfte Hundeparks in ${m} Städten in ${c} Ländern`,
+    intro: `Dies ist ein echtes Verzeichnis von Hundeparks ohne Leine, eingezäunt und geschlossen, in denen Hunde erlaubt sind, jeder an der Quelle geprüft mit seiner Freilaufzone und den örtlichen Regeln. Wenn du einen Hundepark in deiner Nähe suchst, wählst du am schnellsten deine Stadt weiter unten: Du siehst die dort geprüften Parks, ob sie eine Freilaufzone haben und wie du die vollständigen Regeln bekommst. Jeder Eintrag ist ein echter Park, nie erfunden, damit du losziehen kannst in dem Wissen, dass Hunde willkommen sind.`,
+    helperTitle: 'So findest du einen eingezäunten Hundepark oder eine Freilaufzone in deiner Nähe',
+    helperItems: [
+      'Wähle deine Stadt im Verzeichnis unten, um die dort geprüften Parks zu sehen.',
+      'Achte auf das Freilauf-Abzeichen: markierte Parks haben eine Zone, in der der Hund frei laufen kann.',
+      'Öffne die Stadtseite, um die genauen Regeln, Öffnungszeiten und die Karte jedes Parks zu bestätigen.',
+      'Manche Parks erlauben nur eingezäunten Zugang oder Zugang an der Leine: Lies den Hinweis, bevor du losgehst.',
+    ],
+    directoryTitle: 'Hundeparks nach Land und Stadt',
+    cityParksLink: (city) => `Hundeparks in ${city}`,
+    hotelsBridge: (city) => `Haustierfreundliche Hotels in Parknähe in ${city}`,
+    offLeashBadge: 'ohne Leine',
+    parkCountLabel: (n) => `${n} ${n === 1 ? 'Park' : 'Parks'}`,
+    cityCountLabel: (n) => `${n} ${n === 1 ? 'Stadt' : 'Städte'}`,
+    moreLink: 'Alle ansehen',
+    crossTitle: 'Weiter erkunden',
+    crossGuide: 'Die eingezäunten Hundeparks Europas',
+    crossGuideDesc: 'Unser redaktioneller Leitfaden zu den besten geschlossenen Parks ohne Leine in ganz Europa.',
+    crossDest: 'Alle Reiseziele durchsuchen',
+    crossDestDesc: 'Haustierfreundliche Hotels, Guides und Hundeparks Stadt für Stadt.',
+    faqTitle: 'Häufige Fragen',
+    faqs: [
+      {
+        q: 'Wie finde ich einen eingezäunten Hundepark in meiner Nähe?',
+        a: `Wähle deine Stadt im Verzeichnis oben. Wir listen ${N_PARKS} geprüfte Hundeparks in ${M_CITIES} Städten und zeigen, welche eine eingezäunte Zone oder eine Freilaufzone haben. Öffne die Stadtseite, um den genauen Standort, die Regeln und die Karte jedes Parks zu sehen und den nächsten zu erreichen.`,
+      },
+      {
+        q: 'Was ist ein Hundepark ohne Leine?',
+        a: `Ein Hundepark ohne Leine ist ein ausgewiesener Bereich, oft eingezäunt oder geschlossen, in dem Hunde ohne Leine laufen und spielen dürfen. Von den Parks in diesem Verzeichnis haben ${OFF_LEASH_COUNT} eine geprüfte Freilaufzone, gekennzeichnet mit einem Freilauf-Abzeichen.`,
+      },
+      {
+        q: 'Ist der Eintritt in Hundeparks kostenlos?',
+        a: 'Die meisten öffentlichen Hundeparks sind kostenlos. Einige geschlossene oder privat betriebene Parks verlangen eventuell eine kleine Gebühr oder eine Mitgliedschaft. Wir vermerken die Zugangsdetails auf jeder Stadtseite: Prüfe sie vor deinem Besuch.',
+      },
+      {
+        q: 'Muss ich meinen Hund im Hundepark an der Leine halten?',
+        a: 'Das hängt vom Park ab. Parks ohne Leine haben eine Zone, in der dein Hund frei laufen kann, während andere Parks (oder Bereiche außerhalb der Freilaufzone) eine Leine verlangen. Manche geschlossenen Parks erlauben Freilauf nur innerhalb des Zauns. Lies immer zuerst den Regelhinweis auf der Stadtseite.',
+      },
+      {
+        q: 'Welche Städte haben die meisten Hundeparks?',
+        a: `In diesem Verzeichnis sind die Städte mit den meisten geprüften Hundeparks ${TOP_CITIES.map((c) => getLocalizedCityName(c.slug, c.name, 'de')).join(', ')}. Insgesamt decken wir ${M_CITIES} Städte in ${COUNTRY_COUNT} Ländern ab.`,
+      },
+      {
+        q: 'Kann ich ein haustierfreundliches Hotel in der Nähe eines Hundeparks buchen?',
+        a: 'Ja. Jede Stadt im Verzeichnis verlinkt zu haustierfreundlichen Hotels in der Nähe ihrer Parks, damit du Spaziergang und Unterkunft am selben Ort planen kannst. Wähle deine Stadt, finde einen Park und sieh dir dann die Hotels in der Nähe an.',
+      },
+    ],
+  },
+  nl: {
+    h1: 'Hondenparken zonder lijn & omheind',
+    subtitle: (n, m, c) => `${n} geverifieerde hondenparken in ${m} steden in ${c} landen`,
+    intro: `Dit is een echte gids van hondenparken zonder lijn, omheind en afgesloten waar honden welkom zijn, elk bij de bron gecontroleerd met de losloopzone en de plaatselijke regels. Zoek je een hondenpark bij jou in de buurt, dan kies je het snelst je stad hieronder: je ziet de parken die we daar hebben geverifieerd, of ze een losloopzone hebben en hoe je de volledige regels bekijkt. Elke vermelding is een echt park, nooit verzonnen, zodat je op pad kunt in de wetenschap dat honden welkom zijn.`,
+    helperTitle: 'Zo vind je een omheind hondenpark of losloopzone bij jou in de buurt',
+    helperItems: [
+      'Kies je stad in de gids hieronder om de daar geverifieerde parken te zien.',
+      'Let op het losloop-label: gemarkeerde parken hebben een zone waar de hond vrij kan rennen.',
+      'Open de stadspagina om de exacte regels, openingstijden en de kaart van elk park te bevestigen.',
+      'Sommige parken staan alleen omheinde of aangelijnde toegang toe: lees de notitie voordat je gaat.',
+    ],
+    directoryTitle: 'Hondenparken per land en stad',
+    cityParksLink: (city) => `Hondenparken in ${city}`,
+    hotelsBridge: (city) => `Huisdiervriendelijke hotels bij parken in ${city}`,
+    offLeashBadge: 'zonder lijn',
+    parkCountLabel: (n) => `${n} ${n === 1 ? 'park' : 'parken'}`,
+    cityCountLabel: (n) => `${n} ${n === 1 ? 'stad' : 'steden'}`,
+    moreLink: 'Alles bekijken',
+    crossTitle: 'Blijf ontdekken',
+    crossGuide: 'De omheinde hondenparken van Europa',
+    crossGuideDesc: 'Onze redactionele gids voor de beste afgesloten parken zonder lijn in heel Europa.',
+    crossDest: 'Alle bestemmingen bekijken',
+    crossDestDesc: 'Huisdiervriendelijke hotels, gidsen en hondenparken stad voor stad.',
+    faqTitle: 'Veelgestelde vragen',
+    faqs: [
+      {
+        q: 'Hoe vind ik een omheind hondenpark bij mij in de buurt?',
+        a: `Kies je stad in de gids hierboven. We vermelden ${N_PARKS} geverifieerde hondenparken in ${M_CITIES} steden en tonen welke een omheinde zone of losloopzone hebben. Open de stadspagina om de exacte locatie, de regels en de kaart van elk park te zien en het dichtstbijzijnde te bereiken.`,
+      },
+      {
+        q: 'Wat is een hondenpark zonder lijn?',
+        a: `Een hondenpark zonder lijn is een aangewezen ruimte, vaak omheind of afgesloten, waar honden zonder lijn mogen rennen en spelen. Van de parken in deze gids hebben er ${OFF_LEASH_COUNT} een geverifieerde losloopzone, gemarkeerd met een losloop-label.`,
+      },
+      {
+        q: 'Is de toegang tot hondenparken gratis?',
+        a: 'De meeste openbare hondenparken zijn gratis. Sommige afgesloten of privé beheerde parken vragen mogelijk een kleine vergoeding of een lidmaatschap. We vermelden de toegangsdetails op elke stadspagina: controleer ze voordat je gaat.',
+      },
+      {
+        q: 'Moet ik mijn hond in een hondenpark aan de lijn houden?',
+        a: 'Dat hangt van het park af. Parken zonder lijn hebben een zone waar je hond vrij kan rennen, terwijl andere parken (of de zones buiten de losloopzone) een lijn vereisen. Sommige afgesloten parken staan loslopen alleen binnen de omheining toe. Lees altijd eerst de regelnotitie op de stadspagina.',
+      },
+      {
+        q: 'Welke steden hebben de meeste hondenparken?',
+        a: `In deze gids zijn de steden met de meeste geverifieerde hondenparken ${TOP_CITIES.map((c) => getLocalizedCityName(c.slug, c.name, 'nl')).join(', ')}. In totaal dekken we ${M_CITIES} steden in ${COUNTRY_COUNT} landen.`,
+      },
+      {
+        q: 'Kan ik een huisdiervriendelijk hotel bij een hondenpark boeken?',
+        a: 'Ja. Elke stad in de gids linkt naar huisdiervriendelijke hotels bij de parken, zodat je de wandeling en het verblijf op dezelfde plek kunt plannen. Kies je stad, vind een park en bekijk dan de hotels in de buurt.',
+      },
+    ],
+  },
+  it: {
+    h1: 'Parchi per cani senza guinzaglio & recintati',
+    subtitle: (n, m, c) => `${n} parchi per cani verificati in ${m} città di ${c} paesi`,
+    intro: `Questo è un vero elenco di parchi per cani senza guinzaglio, recintati e chiusi dove i cani sono ammessi, ognuno verificato alla fonte con la sua zona senza guinzaglio e le regole locali. Se cerchi un parco per cani vicino a te, il modo più rapido è scegliere la tua città qui sotto: vedrai i parchi che abbiamo verificato lì, se hanno una zona senza guinzaglio e come consultare il regolamento completo. Ogni voce è un parco reale, mai inventato, così puoi uscire sapendo che i cani sono i benvenuti.`,
+    helperTitle: 'Come trovare un parco per cani recintato o senza guinzaglio vicino a te',
+    helperItems: [
+      'Scegli la tua città nell\'elenco qui sotto per vedere i parchi verificati in quel luogo.',
+      'Controlla il badge senza guinzaglio: i parchi segnalati hanno una zona dove il cane può correre libero.',
+      'Apri la pagina della città per confermare le regole esatte, gli orari e la mappa di ogni parco.',
+      'Alcuni parchi consentono solo l\'accesso recintato o al guinzaglio: leggi la nota prima di andare.',
+    ],
+    directoryTitle: 'Parchi per cani per paese e città',
+    cityParksLink: (city) => `Parchi per cani a ${city}`,
+    hotelsBridge: (city) => `Hotel che accettano animali vicino ai parchi a ${city}`,
+    offLeashBadge: 'senza guinzaglio',
+    parkCountLabel: (n) => `${n} ${n === 1 ? 'parco' : 'parchi'}`,
+    cityCountLabel: (n) => `${n} ${n === 1 ? 'città' : 'città'}`,
+    moreLink: 'Vedi tutto',
+    crossTitle: 'Continua a esplorare',
+    crossGuide: 'I parchi per cani recintati d\'Europa',
+    crossGuideDesc: 'La nostra guida editoriale ai migliori parchi chiusi e senza guinzaglio d\'Europa.',
+    crossDest: 'Esplora tutte le destinazioni',
+    crossDestDesc: 'Hotel che accettano animali, guide e parchi per cani città per città.',
+    faqTitle: 'Domande frequenti',
+    faqs: [
+      {
+        q: 'Come trovo un parco per cani recintato vicino a me?',
+        a: `Scegli la tua città nell'elenco qui sopra. Elenchiamo ${N_PARKS} parchi per cani verificati in ${M_CITIES} città, indicando quali hanno una zona recintata o senza guinzaglio. Apri la pagina della città per vedere la posizione esatta, le regole e la mappa di ogni parco e raggiungere quello più vicino.`,
+      },
+      {
+        q: 'Che cos\'è un parco per cani senza guinzaglio?',
+        a: `Un parco per cani senza guinzaglio è uno spazio dedicato, spesso recintato o chiuso, dove i cani possono correre e giocare senza guinzaglio. Dei parchi di questo elenco, ${OFF_LEASH_COUNT} hanno una zona senza guinzaglio verificata, segnalata con un badge senza guinzaglio.`,
+      },
+      {
+        q: 'L\'ingresso ai parchi per cani è gratuito?',
+        a: 'La maggior parte dei parchi per cani pubblici è gratuita. Alcuni parchi chiusi o privati possono chiedere una piccola quota o l\'iscrizione. Indichiamo i dettagli di accesso su ogni pagina della città: controllali prima della visita.',
+      },
+      {
+        q: 'Devo tenere il mio cane al guinzaglio in un parco per cani?',
+        a: 'Dipende dal parco. I parchi senza guinzaglio hanno una zona dove il tuo cane può correre libero, mentre altri parchi (o le aree fuori dalla zona senza guinzaglio) richiedono il guinzaglio. Alcuni parchi chiusi consentono di lasciare libero il cane solo dentro la recinzione. Leggi sempre prima la nota sulle regole nella pagina della città.',
+      },
+      {
+        q: 'Quali città hanno più parchi per cani?',
+        a: `In questo elenco, le città con più parchi per cani verificati sono ${TOP_CITIES.map((c) => getLocalizedCityName(c.slug, c.name, 'it')).join(', ')}. In totale copriamo ${M_CITIES} città in ${COUNTRY_COUNT} paesi.`,
+      },
+      {
+        q: 'Posso prenotare un hotel che accetta animali vicino a un parco per cani?',
+        a: 'Sì. Ogni città dell\'elenco rimanda a hotel che accettano animali vicino ai suoi parchi, così puoi organizzare la passeggiata e il soggiorno nello stesso posto. Scegli la tua città, trova un parco e poi guarda gli hotel nelle vicinanze.',
+      },
+    ],
+  },
 }
 
 // ─── Metadata ─────────────────────────────────────────────────────────────────
@@ -377,6 +530,18 @@ const META: Record<string, { title: string; desc: string }> = {
   pt: {
     title: `Parques para cães sem trela e vedados: ${N_PARKS} verificados em ${M_CITIES} cidades`,
     desc: `${N_PARKS} parques para cães reais sem trela e vedados em ${M_CITIES} cidades, com zonas sem trela, regras e mapas verificados na fonte. Encontre um parque para cães fechado onde os cães são bem-vindos e reserve um hotel que aceita animais por perto.`,
+  },
+  de: {
+    title: `Hundeparks ohne Leine & eingezäunt: ${N_PARKS} geprüft in ${M_CITIES} Städten`,
+    desc: `${N_PARKS} echte Hundeparks ohne Leine und eingezäunt in ${M_CITIES} Städten, mit Freilaufzonen, Regeln und lokal geprüften Karten. Finde einen geschlossenen Hundepark, in dem Hunde willkommen sind, und buche ein haustierfreundliches Hotel in der Nähe.`,
+  },
+  nl: {
+    title: `Hondenparken zonder lijn & omheind: ${N_PARKS} geverifieerd in ${M_CITIES} steden`,
+    desc: `${N_PARKS} echte hondenparken zonder lijn en omheind in ${M_CITIES} steden, met losloopzones, regels en lokaal geverifieerde kaarten. Vind een afgesloten hondenpark waar honden welkom zijn en boek een huisdiervriendelijk hotel in de buurt.`,
+  },
+  it: {
+    title: `Parchi per cani senza guinzaglio & recintati: ${N_PARKS} verificati in ${M_CITIES} città`,
+    desc: `${N_PARKS} veri parchi per cani senza guinzaglio e recintati in ${M_CITIES} città, con zone senza guinzaglio, regole e mappe verificate sul posto. Trova un parco per cani chiuso dove i cani sono i benvenuti e prenota un hotel che accetta animali nelle vicinanze.`,
   },
 }
 
@@ -429,10 +594,10 @@ export default async function DogParksHubPage({
   const lang = locale as Locale
   const copy = COPY[lang] ?? COPY.en
 
-  const parksLabel = lang === 'fr' ? 'parcs' : lang === 'es' ? 'parques' : lang === 'pt' ? 'parques' : 'parks'
-  const citiesLabel = lang === 'fr' ? 'villes' : lang === 'es' ? 'ciudades' : lang === 'pt' ? 'cidades' : 'cities'
-  const countriesLabel = lang === 'fr' ? 'pays' : lang === 'es' || lang === 'pt' ? 'países' : 'countries'
-  const offLeashLabel = lang === 'fr' ? 'sans laisse' : lang === 'es' ? 'sin correa' : lang === 'pt' ? 'sem trela' : 'off-leash'
+  const parksLabel = lang === 'fr' ? 'parcs' : lang === 'es' ? 'parques' : lang === 'pt' ? 'parques' : lang === 'de' ? 'Parks' : lang === 'nl' ? 'parken' : lang === 'it' ? 'parchi' : 'parks'
+  const citiesLabel = lang === 'fr' ? 'villes' : lang === 'es' ? 'ciudades' : lang === 'pt' ? 'cidades' : lang === 'de' ? 'Städte' : lang === 'nl' ? 'steden' : lang === 'it' ? 'città' : 'cities'
+  const countriesLabel = lang === 'fr' ? 'pays' : lang === 'es' || lang === 'pt' ? 'países' : lang === 'de' ? 'Länder' : lang === 'nl' ? 'landen' : lang === 'it' ? 'paesi' : 'countries'
+  const offLeashLabel = lang === 'fr' ? 'sans laisse' : lang === 'es' ? 'sin correa' : lang === 'pt' ? 'sem trela' : lang === 'de' ? 'ohne Leine' : lang === 'nl' ? 'zonder lijn' : lang === 'it' ? 'senza guinzaglio' : 'off-leash'
 
   // Schema
   const breadcrumbSchema = {

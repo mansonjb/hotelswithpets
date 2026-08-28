@@ -26,6 +26,9 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/categori
     fr: `Hôtels en Europe, ${catName}`,
     es: `Hoteles en Europa, ${catName}`,
     pt: `Hotéis na Europa, ${catName}`,
+    de: `Hotels in Europa, ${catName}`,
+    nl: `Hotels in Europa, ${catName}`,
+    it: `Hotel in Europa, ${catName}`,
   }
   const metaDescFr = (cat as Record<string, unknown>).descriptionFr as string | undefined
   const metaDescEs = (cat as Record<string, unknown>).descriptionEs as string | undefined
@@ -35,6 +38,9 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/categori
     fr: `${metaDescFr ?? cat.description} Parcourez ${cat.cityCount}+ destinations et trouvez le séjour idéal pour vous et votre animal.`,
     es: `${metaDescEs ?? cat.description} Explora ${cat.cityCount}+ destinos y encuentra el alojamiento perfecto para ti y tu mascota.`,
     pt: `${metaDescPt ?? cat.description} Explore ${cat.cityCount}+ destinos e encontre a estadia ideal para si e o seu animal.`,
+    de: `${cat.description} Entdecke ${cat.cityCount}+ Reiseziele und finde die perfekte Unterkunft für dich und dein Haustier.`,
+    nl: `${cat.description} Ontdek ${cat.cityCount}+ bestemmingen en vind het perfecte verblijf voor jou en je huisdier.`,
+    it: `${cat.description} Esplora ${cat.cityCount}+ destinazioni e trova il soggiorno perfetto per te e il tuo animale.`,
   }
 
   return {

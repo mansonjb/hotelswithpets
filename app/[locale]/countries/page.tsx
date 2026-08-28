@@ -71,23 +71,23 @@ const SEASONAL_SPOTLIGHT: Record<number, {
   reason: Record<string, string>
 }> = {
   // Jan-Feb: city breaks, mild south
-  0:  { slugs: ['portugal', 'spain', 'italy'],  label: { en: 'January picks', fr: 'Sélection janvier', es: 'Selección enero', pt: 'Seleção janeiro' }, reason: { en: 'Mild weather, quiet off-season prices, no beach crowds.', fr: 'Douceur hivernale, prix basse saison, pas de foule.', es: 'Clima suave, precios de temporada baja, sin aglomeraciones.', pt: 'Clima ameno, preços de época baixa, sem multidões.' } },
-  1:  { slugs: ['portugal', 'spain', 'italy'],  label: { en: 'February picks', fr: 'Sélection février', es: 'Selección febrero', pt: 'Seleção fevereiro' }, reason: { en: 'Mild weather, quiet off-season prices, no beach crowds.', fr: 'Douceur hivernale, prix basse saison, pas de foule.', es: 'Clima suave, precios de temporada baja, sin aglomeraciones.', pt: 'Clima ameno, preços de época baixa, sem multidões.' } },
+  0:  { slugs: ['portugal', 'spain', 'italy'],  label: { en: 'January picks', fr: 'Sélection janvier', es: 'Selección enero', pt: 'Seleção janeiro', de: 'Januar-Auswahl', nl: 'Selectie januari', it: 'Scelte di gennaio' }, reason: { en: 'Mild weather, quiet off-season prices, no beach crowds.', fr: 'Douceur hivernale, prix basse saison, pas de foule.', es: 'Clima suave, precios de temporada baja, sin aglomeraciones.', pt: 'Clima ameno, preços de época baixa, sem multidões.', de: 'Mildes Wetter, ruhige Nebensaisonpreise, keine Strandmassen.', nl: 'Mild weer, rustige laagseizoensprijzen, geen drukte op het strand.', it: 'Clima mite, prezzi tranquilli di bassa stagione, niente folla in spiaggia.' } },
+  1:  { slugs: ['portugal', 'spain', 'italy'],  label: { en: 'February picks', fr: 'Sélection février', es: 'Selección febrero', pt: 'Seleção fevereiro', de: 'Februar-Auswahl', nl: 'Selectie februari', it: 'Scelte di febbraio' }, reason: { en: 'Mild weather, quiet off-season prices, no beach crowds.', fr: 'Douceur hivernale, prix basse saison, pas de foule.', es: 'Clima suave, precios de temporada baja, sin aglomeraciones.', pt: 'Clima ameno, preços de época baixa, sem multidões.', de: 'Mildes Wetter, ruhige Nebensaisonpreise, keine Strandmassen.', nl: 'Mild weer, rustige laagseizoensprijzen, geen drukte op het strand.', it: 'Clima mite, prezzi tranquilli di bassa stagione, niente folla in spiaggia.' } },
   // Mar-Apr: spring city trips
-  2:  { slugs: ['netherlands', 'belgium', 'germany'], label: { en: 'March picks', fr: 'Sélection mars', es: 'Selección marzo', pt: 'Seleção março' }, reason: { en: 'Spring blooms, city breaks before the tourist season.', fr: 'Floraisons printanières, city breaks avant la haute saison.', es: 'Primavera en flor, escapadas urbanas antes de la temporada.', pt: 'Flores de primavera, city breaks antes da época alta.' } },
-  3:  { slugs: ['netherlands', 'france', 'belgium'], label: { en: 'April picks', fr: 'Sélection avril', es: 'Selección abril', pt: 'Seleção abril' }, reason: { en: 'Tulip season, spring festivals, mild temperatures across northern Europe.', fr: 'Saison des tulipes, festivals printaniers, douceur en Europe du Nord.', es: 'Temporada de tulipanes, festivales de primavera, temperaturas suaves en el norte.', pt: 'Época das tulipas, festivais de primavera, temperaturas amenas no norte da Europa.' } },
+  2:  { slugs: ['netherlands', 'belgium', 'germany'], label: { en: 'March picks', fr: 'Sélection mars', es: 'Selección marzo', pt: 'Seleção março', de: 'März-Auswahl', nl: 'Selectie maart', it: 'Scelte di marzo' }, reason: { en: 'Spring blooms, city breaks before the tourist season.', fr: 'Floraisons printanières, city breaks avant la haute saison.', es: 'Primavera en flor, escapadas urbanas antes de la temporada.', pt: 'Flores de primavera, city breaks antes da época alta.', de: 'Frühlingsblüte, Städtereisen vor der Touristensaison.', nl: 'Voorjaarsbloei, stedentrips vóór het toeristenseizoen.', it: 'Fioriture primaverili, city break prima della stagione turistica.' } },
+  3:  { slugs: ['netherlands', 'france', 'belgium'], label: { en: 'April picks', fr: 'Sélection avril', es: 'Selección abril', pt: 'Seleção abril', de: 'April-Auswahl', nl: 'Selectie april', it: 'Scelte di aprile' }, reason: { en: 'Tulip season, spring festivals, mild temperatures across northern Europe.', fr: 'Saison des tulipes, festivals printaniers, douceur en Europe du Nord.', es: 'Temporada de tulipanes, festivales de primavera, temperaturas suaves en el norte.', pt: 'Época das tulipas, festivais de primavera, temperaturas amenas no norte da Europa.', de: 'Tulpenzeit, Frühlingsfeste, milde Temperaturen in ganz Nordeuropa.', nl: 'Tulpenseizoen, lentefestivals, milde temperaturen in heel Noord-Europa.', it: 'Stagione dei tulipani, festival di primavera, temperature miti in tutto il Nord Europa.' } },
   // May-Jun: Mediterranean opens, Adriatic
-  4:  { slugs: ['croatia', 'greece', 'italy'], label: { en: 'May picks', fr: 'Sélection mai', es: 'Selección mayo', pt: 'Seleção maio' }, reason: { en: 'Mediterranean season opens: warm sea, no summer crowds yet.', fr: 'La saison méditerranéenne s\'ouvre : mer chaude, pas encore de foule estivale.', es: 'Se abre la temporada mediterránea: mar caliente, sin aglomeraciones aún.', pt: 'A época mediterrânica abre: mar quente, ainda sem multidões.' } },
-  5:  { slugs: ['greece', 'croatia', 'montenegro'], label: { en: 'June picks', fr: 'Sélection juin', es: 'Selección junio', pt: 'Seleção junho' }, reason: { en: 'Adriatic and Aegean at their best: warm, sunny, dog-friendly beaches before peak.', fr: 'Adriatique et Égée au top : chaud, ensoleillé, plages dog-friendly avant le pic estival.', es: 'El Adriático y el Egeo en su mejor momento: cálidos, soleados, playas dog-friendly antes del pico.', pt: 'Adriático e Egeu no seu melhor: quente, soalheiro, praias dog-friendly antes do pico.' } },
+  4:  { slugs: ['croatia', 'greece', 'italy'], label: { en: 'May picks', fr: 'Sélection mai', es: 'Selección mayo', pt: 'Seleção maio', de: 'Mai-Auswahl', nl: 'Selectie mei', it: 'Scelte di maggio' }, reason: { en: 'Mediterranean season opens: warm sea, no summer crowds yet.', fr: 'La saison méditerranéenne s\'ouvre : mer chaude, pas encore de foule estivale.', es: 'Se abre la temporada mediterránea: mar caliente, sin aglomeraciones aún.', pt: 'A época mediterrânica abre: mar quente, ainda sem multidões.', de: 'Die Mittelmeersaison beginnt: warmes Meer, noch kein Sommertrubel.', nl: 'Het mediterrane seizoen opent: warme zee, nog geen zomerdrukte.', it: 'La stagione mediterranea apre: mare caldo, ancora niente folla estiva.' } },
+  5:  { slugs: ['greece', 'croatia', 'montenegro'], label: { en: 'June picks', fr: 'Sélection juin', es: 'Selección junio', pt: 'Seleção junho', de: 'Juni-Auswahl', nl: 'Selectie juni', it: 'Scelte di giugno' }, reason: { en: 'Adriatic and Aegean at their best: warm, sunny, dog-friendly beaches before peak.', fr: 'Adriatique et Égée au top : chaud, ensoleillé, plages dog-friendly avant le pic estival.', es: 'El Adriático y el Egeo en su mejor momento: cálidos, soleados, playas dog-friendly antes del pico.', pt: 'Adriático e Egeu no seu melhor: quente, soalheiro, praias dog-friendly antes do pico.', de: 'Adria und Ägäis von ihrer besten Seite: warm, sonnig, hundefreundliche Strände vor der Hauptsaison.', nl: 'De Adriatische en Egeïsche Zee op hun best: warm, zonnig, hondvriendelijke stranden vóór het hoogseizoen.', it: 'Adriatico ed Egeo al meglio: caldi, soleggiati, spiagge dog-friendly prima del picco.' } },
   // Jul-Aug: escape heat, go north or mountain
-  6:  { slugs: ['norway', 'ireland', 'united-kingdom'], label: { en: 'July picks', fr: 'Sélection juillet', es: 'Selección julio', pt: 'Seleção julho' }, reason: { en: 'Beat the heat: cool Atlantic coasts while southern Europe swelters.', fr: 'Fuir la chaleur : côtes atlantiques fraîches pendant que l\'Europe du Sud suffoque.', es: 'Huye del calor: costas atlánticas frescas mientras el sur de Europa se abrasa.', pt: 'Fuja do calor: costas atlânticas frescas enquanto o sul da Europa sufoca.' } },
-  7:  { slugs: ['norway', 'sweden', 'finland'], label: { en: 'August picks', fr: 'Sélection août', es: 'Selección agosto', pt: 'Seleção agosto' }, reason: { en: 'Scandinavia in summer: midnight sun, cool air, endless off-lead trails.', fr: 'Scandinavie en été : soleil de minuit, air frais, sentiers sans fin.', es: 'Escandinavia en verano: sol de medianoche, aire fresco, senderos sin fin.', pt: 'Escandinávia no verão: sol da meia-noite, ar fresco, trilhos sem fim.' } },
+  6:  { slugs: ['norway', 'ireland', 'united-kingdom'], label: { en: 'July picks', fr: 'Sélection juillet', es: 'Selección julio', pt: 'Seleção julho', de: 'Juli-Auswahl', nl: 'Selectie juli', it: 'Scelte di luglio' }, reason: { en: 'Beat the heat: cool Atlantic coasts while southern Europe swelters.', fr: 'Fuir la chaleur : côtes atlantiques fraîches pendant que l\'Europe du Sud suffoque.', es: 'Huye del calor: costas atlánticas frescas mientras el sur de Europa se abrasa.', pt: 'Fuja do calor: costas atlânticas frescas enquanto o sul da Europa sufoca.', de: 'Der Hitze entfliehen: kühle Atlantikküsten, während Südeuropa schwitzt.', nl: 'Ontsnap aan de hitte: koele Atlantische kusten terwijl Zuid-Europa smoort.', it: 'Sfuggi al caldo: fresche coste atlantiche mentre il Sud Europa soffoca.' } },
+  7:  { slugs: ['norway', 'sweden', 'finland'], label: { en: 'August picks', fr: 'Sélection août', es: 'Selección agosto', pt: 'Seleção agosto', de: 'August-Auswahl', nl: 'Selectie augustus', it: 'Scelte di agosto' }, reason: { en: 'Scandinavia in summer: midnight sun, cool air, endless off-lead trails.', fr: 'Scandinavie en été : soleil de minuit, air frais, sentiers sans fin.', es: 'Escandinavia en verano: sol de medianoche, aire fresco, senderos sin fin.', pt: 'Escandinávia no verão: sol da meia-noite, ar fresco, trilhos sem fim.', de: 'Skandinavien im Sommer: Mitternachtssonne, kühle Luft, endlose Wege ohne Leine.', nl: 'Scandinavië in de zomer: middernachtzon, koele lucht, eindeloze paden zonder lijn.', it: 'Scandinavia in estate: sole di mezzanotte, aria fresca, sentieri infiniti senza guinzaglio.' } },
   // Sep-Oct: shoulder season, vineyards
-  8:  { slugs: ['france', 'italy', 'spain'], label: { en: 'September picks', fr: 'Sélection septembre', es: 'Selección septiembre', pt: 'Seleção setembro' }, reason: { en: 'Harvest season: vineyards, markets, dog-friendly terraces in perfect temperature.', fr: 'Saison des vendanges : vignobles, marchés, terrasses dog-friendly à température parfaite.', es: 'Temporada de vendimia: viñedos, mercados, terrazas dog-friendly a temperatura perfecta.', pt: 'Época das vindimas: vinhas, mercados, esplanadas dog-friendly com temperatura perfeita.' } },
-  9:  { slugs: ['portugal', 'spain', 'croatia'], label: { en: 'October picks', fr: 'Sélection octobre', es: 'Selección octubre', pt: 'Seleção outubro' }, reason: { en: 'Late-season warmth, empty beaches, half the summer prices.', fr: 'Chaleur de fin de saison, plages désertes, moitié moins cher qu\'en été.', es: 'Calor tardío, playas vacías, a mitad de precio que en verano.', pt: 'Calor de fim de época, praias desertas, metade do preço do verão.' } },
+  8:  { slugs: ['france', 'italy', 'spain'], label: { en: 'September picks', fr: 'Sélection septembre', es: 'Selección septiembre', pt: 'Seleção setembro', de: 'September-Auswahl', nl: 'Selectie september', it: 'Scelte di settembre' }, reason: { en: 'Harvest season: vineyards, markets, dog-friendly terraces in perfect temperature.', fr: 'Saison des vendanges : vignobles, marchés, terrasses dog-friendly à température parfaite.', es: 'Temporada de vendimia: viñedos, mercados, terrazas dog-friendly a temperatura perfecta.', pt: 'Época das vindimas: vinhas, mercados, esplanadas dog-friendly com temperatura perfeita.', de: 'Erntezeit: Weinberge, Märkte, hundefreundliche Terrassen bei perfekter Temperatur.', nl: 'Oogsttijd: wijngaarden, markten, hondvriendelijke terrassen bij perfecte temperaturen.', it: 'Stagione della vendemmia: vigneti, mercati, terrazze dog-friendly a temperatura perfetta.' } },
+  9:  { slugs: ['portugal', 'spain', 'croatia'], label: { en: 'October picks', fr: 'Sélection octobre', es: 'Selección octubre', pt: 'Seleção outubro', de: 'Oktober-Auswahl', nl: 'Selectie oktober', it: 'Scelte di ottobre' }, reason: { en: 'Late-season warmth, empty beaches, half the summer prices.', fr: 'Chaleur de fin de saison, plages désertes, moitié moins cher qu\'en été.', es: 'Calor tardío, playas vacías, a mitad de precio que en verano.', pt: 'Calor de fim de época, praias desertas, metade do preço do verão.', de: 'Spätsommerliche Wärme, leere Strände, halbe Sommerpreise.', nl: 'Nazomerse warmte, lege stranden, de helft van de zomerprijzen.', it: 'Tepore di fine stagione, spiagge deserte, metà dei prezzi estivi.' } },
   // Nov-Dec: Christmas markets, cozy cities
-  10: { slugs: ['germany', 'austria', 'czech-republic'], label: { en: 'November picks', fr: 'Sélection novembre', es: 'Selección noviembre', pt: 'Seleção novembro' }, reason: { en: 'Christmas market season begins: mulled wine, fairy lights, dog-friendly squares.', fr: 'La saison des marchés de Noël commence : vin chaud, guirlandes, places dog-friendly.', es: 'Comienza la temporada de mercados navideños: vino caliente, luces, plazas dog-friendly.', pt: 'Começa a época dos mercados de Natal: vinho quente, luzes, praças dog-friendly.' } },
-  11: { slugs: ['germany', 'austria', 'switzerland'], label: { en: 'December picks', fr: 'Sélection décembre', es: 'Selección diciembre', pt: 'Seleção dezembro' }, reason: { en: 'The best Christmas markets in Europe, all dog-friendly: Vienna, Zurich, Nuremberg.', fr: 'Les meilleurs marchés de Noël d\'Europe, tous dog-friendly : Vienne, Zurich, Nuremberg.', es: 'Los mejores mercados navideños de Europa, todos dog-friendly: Viena, Zúrich, Núremberg.', pt: 'Os melhores mercados de Natal da Europa, todos dog-friendly: Viena, Zurique, Nuremberga.' } },
+  10: { slugs: ['germany', 'austria', 'czech-republic'], label: { en: 'November picks', fr: 'Sélection novembre', es: 'Selección noviembre', pt: 'Seleção novembro', de: 'November-Auswahl', nl: 'Selectie november', it: 'Scelte di novembre' }, reason: { en: 'Christmas market season begins: mulled wine, fairy lights, dog-friendly squares.', fr: 'La saison des marchés de Noël commence : vin chaud, guirlandes, places dog-friendly.', es: 'Comienza la temporada de mercados navideños: vino caliente, luces, plazas dog-friendly.', pt: 'Começa a época dos mercados de Natal: vinho quente, luzes, praças dog-friendly.', de: 'Die Weihnachtsmarktsaison beginnt: Glühwein, Lichterketten, hundefreundliche Plätze.', nl: 'Het kerstmarktseizoen begint: glühwein, lichtjes, hondvriendelijke pleinen.', it: 'Inizia la stagione dei mercatini di Natale: vin brulé, luci, piazze dog-friendly.' } },
+  11: { slugs: ['germany', 'austria', 'switzerland'], label: { en: 'December picks', fr: 'Sélection décembre', es: 'Selección diciembre', pt: 'Seleção dezembro', de: 'Dezember-Auswahl', nl: 'Selectie december', it: 'Scelte di dicembre' }, reason: { en: 'The best Christmas markets in Europe, all dog-friendly: Vienna, Zurich, Nuremberg.', fr: 'Les meilleurs marchés de Noël d\'Europe, tous dog-friendly : Vienne, Zurich, Nuremberg.', es: 'Los mejores mercados navideños de Europa, todos dog-friendly: Viena, Zúrich, Núremberg.', pt: 'Os melhores mercados de Natal da Europa, todos dog-friendly: Viena, Zurique, Nuremberga.', de: 'Die besten Weihnachtsmärkte Europas, alle hundefreundlich: Wien, Zürich, Nürnberg.', nl: 'De beste kerstmarkten van Europa, allemaal hondvriendelijk: Wenen, Zürich, Neurenberg.', it: 'I migliori mercatini di Natale d\'Europa, tutti dog-friendly: Vienna, Zurigo, Norimberga.' } },
 }
 
 const COPY: Record<string, {
@@ -140,6 +140,36 @@ const COPY: Record<string, {
     tip: 'Para viajar com o seu cão ou gato na União Europeia, precisa de um passaporte europeu para animais de estimação e vacinação antirrábica atualizada. A Finlândia, o Reino Unido e a Noruega têm requisitos adicionais.',
     spotlightTitle: 'Em destaque este mês',
   },
+  de: {
+    hero: 'Nach Land entdecken',
+    subtitle: `${countries.length} Länder · Tausende geprüfte Hotels · aktuelle Tierrichtlinien`,
+    featuredTitle: 'Top-Reiseziele',
+    allTitle: 'Alle Länder',
+    intro: 'Jedes europäische Land hat eigene Regeln für die Reise mit Haustier: erforderliche Dokumente (Heimtierausweis, Gesundheitszeugnis), Zugang zu Verkehrsmitteln (Zug, Fähre, Flugzeug) und Hotelbedingungen (Gebühren, Größenbeschränkungen, Rasseregeln). Unsere Länderseiten fassen das Wichtigste zusammen, damit du ohne böse Überraschungen reist.',
+    tipTitle: 'Gut zu wissen',
+    tip: 'Für Reisen mit Hund oder Katze innerhalb der EU brauchst du einen EU-Heimtierausweis und eine gültige Tollwutimpfung. Finnland, Großbritannien und Norwegen haben zusätzliche Vorschriften, prüfe vor der Abreise unseren ausführlichen Ratgeber.',
+    spotlightTitle: 'Diesen Monat im Fokus',
+  },
+  nl: {
+    hero: 'Ontdek per land',
+    subtitle: `${countries.length} landen · duizenden geverifieerde hotels · actueel huisdierenbeleid`,
+    featuredTitle: 'Topbestemmingen',
+    allTitle: 'Alle landen',
+    intro: 'Elk Europees land heeft zijn eigen regels om met een huisdier te reizen: vereiste documenten (dierenpaspoort, gezondheidscertificaat), toegang tot vervoer (trein, veerboot, vliegtuig) en hotelvoorwaarden (toeslagen, groottelimieten, rasbeperkingen). Onze landenpagina\'s bundelen het belangrijkste, zodat je zonder verrassingen op reis gaat.',
+    tipTitle: 'Goed om te weten',
+    tip: 'Om binnen de EU met je hond of kat te reizen heb je een Europees dierenpaspoort en een geldige rabiësvaccinatie nodig. Finland, het Verenigd Koninkrijk en Noorwegen stellen extra eisen, bekijk onze volledige gids voordat je vertrekt.',
+    spotlightTitle: 'Deze maand uitgelicht',
+  },
+  it: {
+    hero: 'Esplora per paese',
+    subtitle: `${countries.length} paesi · migliaia di hotel verificati · politiche sugli animali aggiornate`,
+    featuredTitle: 'Destinazioni top',
+    allTitle: 'Tutti i paesi',
+    intro: 'Ogni paese europeo ha le sue regole per viaggiare con un animale: documenti richiesti (passaporto, certificato sanitario), accesso ai trasporti (treno, traghetto, aereo) e condizioni degli hotel (supplementi, limiti di taglia, restrizioni di razza). Le nostre pagine per paese riassumono l\'essenziale, così viaggi senza sorprese.',
+    tipTitle: 'Buono a sapersi',
+    tip: 'Per viaggiare con il tuo cane o gatto all\'interno dell\'UE ti serve il passaporto europeo per animali e la vaccinazione antirabbica aggiornata. Finlandia, Regno Unito e Norvegia hanno requisiti aggiuntivi, controlla la nostra guida completa prima di partire.',
+    spotlightTitle: 'In evidenza questo mese',
+  },
 }
 
 const COUNTRY_INTROS: Record<string, Record<string, string>> = {
@@ -148,54 +178,81 @@ const COUNTRY_INTROS: Record<string, Record<string, string>> = {
     en: "One of Europe's most dog-welcoming countries. From Parisian café terraces to surf beaches in Biarritz, France treats dogs like locals.",
     es: "Uno de los países más abiertos a las mascotas de Europa. Los perros son bienvenidos en cafés, restaurantes y hoteles de lujo, desde las terrazas parisinas hasta Biarritz.",
     pt: "Um dos países mais amigáveis para animais na Europa. Desde as esplanadas parisienses até às praias de surf em Biarritz, a França trata os cães como locais.",
+    de: "Eines der hundefreundlichsten Länder Europas. Von den Pariser Caféterrassen bis zu den Surfstränden von Biarritz behandelt Frankreich Hunde wie Einheimische.",
+    nl: "Een van de meest hondvriendelijke landen van Europa. Van de Parijse caféterrassen tot de surfstranden van Biarritz behandelt Frankrijk honden als locals.",
+    it: "Uno dei paesi più aperti agli animali in Europa. Dalle terrazze dei caffè parigini alle spiagge da surf di Biarritz, la Francia tratta i cani come persone del posto.",
   },
   spain: {
     fr: "Soleil, plages accessibles aux chiens et hôtels de plus en plus ouverts aux animaux. Barcelone, Madrid et la côte méditerranéenne font de l'Espagne un choix naturel.",
     en: "Sun, dog-friendly beaches and an ever-growing hotel scene open to pets. Barcelona, Madrid and the Mediterranean coast make Spain a natural choice for pet-owning travellers.",
     es: "Sol, playas para perros y hoteles que cada vez abren más las puertas a las mascotas. Barcelona, Madrid y la costa mediterránea convierten España en un destino de lo más acogedor.",
     pt: "Sol, praias dog-friendly e hotéis cada vez mais abertos a animais. Barcelona, Madrid e a costa mediterrânica fazem de Espanha uma escolha natural.",
+    de: "Sonne, hundefreundliche Strände und eine ständig wachsende Zahl tierlieber Hotels. Barcelona, Madrid und die Mittelmeerküste machen Spanien zur naheliegenden Wahl.",
+    nl: "Zon, hondvriendelijke stranden en steeds meer hotels die huisdieren verwelkomen. Barcelona, Madrid en de mediterrane kust maken van Spanje een logische keuze.",
+    it: "Sole, spiagge dog-friendly e hotel sempre più aperti agli animali. Barcellona, Madrid e la costa mediterranea rendono la Spagna una scelta naturale.",
   },
   italy: {
     fr: "En Italie, les chiens accompagnent leurs propriétaires partout : restaurants en terrasse, piazzas et balades historiques. Rome, Florence et Venise vous attendent.",
     en: "In Italy, dogs go everywhere with their owners: terrace restaurants, piazzas and monument-lined strolls. Rome, Florence and Venice await.",
     es: "En Italia los perros acompañan a sus dueños a todas partes: terrazas, plazas y paseos entre monumentos. Roma, Florencia y Venecia te esperan.",
     pt: "Em Itália, os cães acompanham os donos em todo o lado: restaurantes com esplanada, praças e passeios históricos. Roma, Florença e Veneza esperam por si.",
+    de: "In Italien begleiten Hunde ihre Menschen überallhin: Restaurantterrassen, Piazzas und Spaziergänge zwischen Sehenswürdigkeiten. Rom, Florenz und Venedig warten auf dich.",
+    nl: "In Italië gaan honden overal met hun baasje mee: terrasrestaurants, piazza's en wandelingen langs monumenten. Rome, Florence en Venetië wachten op je.",
+    it: "In Italia i cani accompagnano i loro padroni ovunque: ristoranti con dehors, piazze e passeggiate tra i monumenti. Roma, Firenze e Venezia ti aspettano.",
   },
   belgium: {
     fr: "Les villes médiévales de Belgique, Bruges, Gand, Anvers, comptent parmi les plus dog-friendly d'Europe. Cafés, hôtels boutiques et canaux accessibles à quatre pattes.",
     en: "Belgium's medieval cities, Bruges, Ghent and Antwerp, rank among Europe's most dog-forward. Cafés, boutique hotels and canal towpaths welcome you and your pet.",
     es: "Las ciudades medievales de Bélgica, Brujas, Gante y Amberes, están entre las más abiertas a los perros de Europa. Cafés, hoteles boutique y canales a tu disposición.",
     pt: "As cidades medievais da Bélgica, Bruges, Gante e Antuérpia, estão entre as mais dog-friendly da Europa.",
+    de: "Belgiens mittelalterliche Städte Brügge, Gent und Antwerpen zählen zu den hundefreundlichsten Europas. Cafés, Boutique-Hotels und Treidelpfade an den Kanälen heißen dich und dein Tier willkommen.",
+    nl: "De middeleeuwse steden van België, Brugge, Gent en Antwerpen, behoren tot de meest hondvriendelijke van Europa. Cafés, boutiquehotels en jaagpaden langs de grachten verwelkomen jou en je huisdier.",
+    it: "Le città medievali del Belgio, Bruges, Gent e Anversa, sono tra le più dog-friendly d'Europa. Caffè, boutique hotel e alzaie lungo i canali accolgono te e il tuo animale.",
   },
   germany: {
     fr: "En Allemagne, voyager avec un chien est parfaitement normal. Métro, musées, biergartens : les chiens sont bienvenus partout et dans toutes les villes.",
     en: "In Germany, travelling with a dog is completely normal. Metro, museums, beer gardens - dogs are welcome everywhere, in every city.",
     es: "En Alemania viajar con perro es de lo más habitual. Metro, museos, biergarten, los perros son bienvenidos en todas partes y en todas las ciudades.",
     pt: "Na Alemanha, viajar com cão é completamente normal. Metro, museus, jardins de cerveja: cães são bem-vindos em todo o lado.",
+    de: "In Deutschland ist Reisen mit Hund völlig normal. U-Bahn, Museen, Biergärten: Hunde sind überall und in jeder Stadt willkommen.",
+    nl: "In Duitsland is reizen met een hond volkomen normaal. Metro, musea, biergartens: honden zijn overal en in elke stad welkom.",
+    it: "In Germania viaggiare con un cane è del tutto normale. Metropolitana, musei, biergarten: i cani sono benvenuti ovunque e in ogni città.",
   },
   portugal: {
     fr: "Doux, ensoleillé et accessible, le Portugal est idéal pour voyager avec un animal toute l'année. Lisbonne et Porto combinent charme, tranquillité et terrasses face au fleuve.",
     en: "Mild, sunny and affordable, Portugal is ideal for year-round pet travel. Lisbon and Porto combine charm, relaxed vibes and riverside terraces.",
     es: "Cálido, soleado y asequible, Portugal es ideal para viajar con mascota durante todo el año. Lisboa y Oporto combinan encanto, tranquilidad y terrazas junto al río.",
     pt: "Ameno, soalheiro e acessível, Portugal é ideal para viajar com animais durante todo o ano. Lisboa e Porto combinam charme, tranquilidade e esplanadas junto ao rio.",
+    de: "Mild, sonnig und günstig ist Portugal das ganze Jahr über ideal für Reisen mit Tier. Lissabon und Porto verbinden Charme, entspannte Stimmung und Terrassen am Fluss.",
+    nl: "Mild, zonnig en betaalbaar, Portugal is het hele jaar door ideaal om met je huisdier te reizen. Lissabon en Porto combineren charme, een relaxte sfeer en terrassen aan de rivier.",
+    it: "Mite, soleggiato e conveniente, il Portogallo è ideale per viaggiare con animali tutto l'anno. Lisbona e Porto uniscono fascino, atmosfera rilassata e terrazze sul fiume.",
   },
   greece: {
     fr: "Des îles aux criques de l'Épire, la Grèce offre certaines des plages les plus accessibles aux chiens d'Europe. Les tavernes accueillent les animaux en terrasse, la vie est douce.",
     en: "From island beaches to Epirus coves, Greece offers some of Europe's most accessible dog-friendly beaches. Taverna terraces welcome dogs, life is easy.",
     es: "De las playas de las islas a las calas del Épiro, Grecia ofrece algunas de las playas más dog-friendly de Europa. Las tabernas aceptan perros en terraza.",
     pt: "Das praias das ilhas às enseadas do Épiro, a Grécia oferece algumas das praias mais dog-friendly da Europa.",
+    de: "Von den Inselstränden bis zu den Buchten von Epirus bietet Griechenland einige der zugänglichsten hundefreundlichen Strände Europas. Tavernenterrassen heißen Hunde willkommen, das Leben ist leicht.",
+    nl: "Van de eilandstranden tot de baaien van Epirus biedt Griekenland enkele van de meest toegankelijke hondvriendelijke stranden van Europa. Taverneterrassen verwelkomen honden, het leven is er ontspannen.",
+    it: "Dalle spiagge delle isole alle insenature dell'Epiro, la Grecia offre alcune delle spiagge dog-friendly più accessibili d'Europa. Le terrazze delle taverne accolgono i cani, la vita è tranquilla.",
   },
   croatia: {
     fr: "L'Adriatique croate est l'une des mers les plus propres d'Europe, avec des plages dog-friendly sur tout le littoral. Dubrovnik, Split, Zadar : architecture médiévale et mer turquoise.",
     en: "The Croatian Adriatic is one of Europe's cleanest seas, with dog-friendly beaches along the entire coast. Dubrovnik, Split, Zadar: medieval architecture and turquoise water.",
     es: "El Adriático croata es uno de los mares más limpios de Europa, con playas dog-friendly por toda la costa. Dubrovnik, Split, Zadar: arquitectura medieval y agua turquesa.",
     pt: "O Adriático croata é um dos mares mais limpos da Europa, com praias dog-friendly em todo o litoral.",
+    de: "Die kroatische Adria ist eines der saubersten Meere Europas, mit hundefreundlichen Stränden entlang der gesamten Küste. Dubrovnik, Split, Zadar: mittelalterliche Architektur und türkisfarbenes Wasser.",
+    nl: "De Kroatische Adriatische Zee is een van de schoonste zeeën van Europa, met hondvriendelijke stranden langs de hele kust. Dubrovnik, Split, Zadar: middeleeuwse architectuur en turquoise water.",
+    it: "L'Adriatico croato è uno dei mari più puliti d'Europa, con spiagge dog-friendly lungo tutta la costa. Dubrovnik, Spalato, Zara: architettura medievale e acqua turchese.",
   },
   montenegro: {
     fr: "Petit mais spectaculaire, le Monténégro offre la baie de Kotor, des plages sauvages et des parcs nationaux montagneux. Les chiens sont bienvenus dans presque tous les hébergements.",
     en: "Small but spectacular, Montenegro offers Kotor Bay, wild beaches and mountainous national parks. Dogs are welcome in almost every accommodation.",
     es: "Pequeño pero espectacular, Montenegro ofrece la bahía de Kotor, playas salvajes y parques nacionales montañosos. Los perros son bienvenidos en casi todos los alojamientos.",
     pt: "Pequeno mas espetacular, o Montenegro oferece a baía de Kotor, praias selvagens e parques nacionais montanhosos. Cães são bem-vindos em quase todos os alojamentos.",
+    de: "Klein, aber spektakulär: Montenegro bietet die Bucht von Kotor, wilde Strände und bergige Nationalparks. Hunde sind in fast jeder Unterkunft willkommen.",
+    nl: "Klein maar spectaculair, Montenegro biedt de baai van Kotor, wilde stranden en bergachtige nationale parken. Honden zijn in bijna elke accommodatie welkom.",
+    it: "Piccolo ma spettacolare, il Montenegro offre la baia di Cattaro, spiagge selvagge e parchi nazionali montani. I cani sono benvenuti in quasi tutti gli alloggi.",
   },
 }
 
@@ -207,7 +264,7 @@ export default async function CountriesPage({
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
 
-  const lang = (locale === 'fr' || locale === 'es' || locale === 'pt') ? locale as 'fr' | 'es' | 'pt' : 'en'
+  const lang = (locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' || locale === 'it') ? locale as 'fr' | 'es' | 'pt' | 'de' | 'nl' | 'it' : 'en'
   const copy = COPY[lang] ?? COPY.en
 
   const totalHotels = hotels.length

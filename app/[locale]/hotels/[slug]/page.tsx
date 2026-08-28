@@ -37,22 +37,31 @@ export async function generateMetadata({
   if (!dest) return {}
 
   const cleanPetPolicy = locale === 'en' ? sanitizePetPolicy(hotel.petPolicy, hotel.petFee, locale) : localizedPetPolicy(hotel, locale)
-  const petFeeStr = hotel.petFee === 0 ? (locale === 'fr' ? 'gratuit' : locale === 'es' ? 'gratis' : locale === 'pt' ? 'grátis' : 'free') : `€${hotel.petFee}`
+  const petFeeStr = hotel.petFee === 0 ? (locale === 'fr' ? 'gratuit' : locale === 'es' ? 'gratis' : locale === 'pt' ? 'grátis' : locale === 'de' ? 'kostenlos' : locale === 'nl' ? 'gratis' : locale === 'it' ? 'gratuito' : 'free') : `€${hotel.petFee}`
   const cityFr = getLocalizedCityName(dest.slug, dest.name, 'fr')
   const cityEs = getLocalizedCityName(dest.slug, dest.name, 'es')
   const cityPt = getLocalizedCityName(dest.slug, dest.name, 'pt')
+  const cityDe = getLocalizedCityName(dest.slug, dest.name, 'de')
+  const cityNl = getLocalizedCityName(dest.slug, dest.name, 'nl')
+  const cityIt = getLocalizedCityName(dest.slug, dest.name, 'it')
 
   const titles: Record<string, string> = {
     en: `${hotel.name}: Pet-Friendly Hotel in ${dest.name}`,
     fr: `${hotel.name}, Hôtel pet-friendly à ${cityFr}`,
     es: `${hotel.name}, Hotel pet-friendly en ${cityEs}`,
     pt: `${hotel.name}, Hotel pet-friendly em ${cityPt}`,
+    de: `${hotel.name}, Haustierfreundliches Hotel in ${cityDe}`,
+    nl: `${hotel.name}, Huisdiervriendelijk hotel in ${cityNl}`,
+    it: `${hotel.name}, Hotel pet-friendly a ${cityIt}`,
   }
   const descriptions: Record<string, string> = {
     en: `${hotel.name} in ${dest.name}: pet policy: ${cleanPetPolicy.slice(0, 100)}. From €${hotel.priceFrom}/night. Rating: ${hotel.rating}/10 (${hotel.reviewCount} reviews). Pet fee: ${hotel.petFee === 0 ? 'free' : `€${hotel.petFee}`}.`,
     fr: `${hotel.name} à ${cityFr}, politique animaux : ${cleanPetPolicy.slice(0, 100)}. Dès ${hotel.priceFrom} €/nuit. Note : ${hotel.rating}/10 (${hotel.reviewCount} avis). Frais animaux : ${petFeeStr}.`,
     es: `${hotel.name} en ${cityEs}, política de mascotas: ${cleanPetPolicy.slice(0, 100)}. Desde ${hotel.priceFrom} €/noche. Puntuación: ${hotel.rating}/10 (${hotel.reviewCount} reseñas). Cargo por mascota: ${petFeeStr}.`,
     pt: `${hotel.name} em ${cityPt}, política animal: ${cleanPetPolicy.slice(0, 100)}. Desde ${hotel.priceFrom} €/noite. Nota: ${hotel.rating}/10 (${hotel.reviewCount} avaliações). Taxa de animal: ${petFeeStr}.`,
+    de: `${hotel.name} in ${cityDe}, Tierrichtlinie: ${cleanPetPolicy.slice(0, 100)}. Ab ${hotel.priceFrom} €/Nacht. Bewertung: ${hotel.rating}/10 (${hotel.reviewCount} Bewertungen). Haustiergebühr: ${petFeeStr}.`,
+    nl: `${hotel.name} in ${cityNl}, huisdierenbeleid: ${cleanPetPolicy.slice(0, 100)}. Vanaf ${hotel.priceFrom} €/nacht. Beoordeling: ${hotel.rating}/10 (${hotel.reviewCount} beoordelingen). Huisdiertoeslag: ${petFeeStr}.`,
+    it: `${hotel.name} a ${cityIt}, politica animali: ${cleanPetPolicy.slice(0, 100)}. Da ${hotel.priceFrom} €/notte. Voto: ${hotel.rating}/10 (${hotel.reviewCount} recensioni). Costo animali: ${petFeeStr}.`,
   }
   const title = titles[locale] ?? titles.en
   const description = descriptions[locale] ?? descriptions.en
@@ -322,6 +331,12 @@ export default async function HotelPage({
                       ? `Parcourir les hôtels par type à ${localizedDest}`
                       : locale === 'es'
                       ? `Explorar hoteles por tipo en ${localizedDest}`
+                      : locale === 'de'
+                      ? `Hotels nach Typ in ${localizedDest} durchsuchen`
+                      : locale === 'nl'
+                      ? `Hotels op type in ${localizedDest} bekijken`
+                      : locale === 'it'
+                      ? `Sfoglia gli hotel per tipo a ${localizedDest}`
                       : `Browse hotels by type in ${localizedDest}`}
                   </h2>
                   <div className="flex flex-wrap gap-2">
@@ -332,7 +347,7 @@ export default async function HotelPage({
                         className="inline-flex items-center gap-1.5 text-sm bg-white border border-gray-200 text-gray-700 hover:border-blue-300 hover:text-blue-700 px-3 py-1.5 rounded-full shadow-sm transition-colors"
                       >
                         <span>{cat.emoji}</span>
-                        <span>{getCatName(cat)} {locale === 'fr' ? 'à' : locale === 'es' ? 'en' : locale === 'pt' ? 'em' : 'in'} {localizedDest}</span>
+                        <span>{getCatName(cat)} {locale === 'fr' ? 'à' : locale === 'es' ? 'en' : locale === 'pt' ? 'em' : locale === 'it' ? 'a' : 'in'} {localizedDest}</span>
                       </Link>
                     ))}
                   </div>
@@ -347,6 +362,12 @@ export default async function HotelPage({
                       ? `Plus d'hôtels pet-friendly à ${localizedDest}`
                       : locale === 'es'
                       ? `Más hoteles pet-friendly en ${localizedDest}`
+                      : locale === 'de'
+                      ? `Weitere haustierfreundliche Hotels in ${localizedDest}`
+                      : locale === 'nl'
+                      ? `Meer huisdiervriendelijke hotels in ${localizedDest}`
+                      : locale === 'it'
+                      ? `Altri hotel pet-friendly a ${localizedDest}`
                       : `More pet-friendly hotels in ${localizedDest}`}
                   </h2>
                   <div className="flex flex-col gap-4">
@@ -391,7 +412,7 @@ export default async function HotelPage({
                 href={`/${locale}/destinations/${dest.slug}`}
                 className="inline-flex items-center gap-2 text-sm text-blue-600 hover:text-blue-800 font-medium transition-colors"
               >
-                ← {locale === 'fr' ? `Retour à ${localizedDest}` : locale === 'es' ? `Volver a ${localizedDest}` : locale === 'pt' ? `Voltar a ${localizedDest}` : `Back to ${localizedDest}`}
+                ← {locale === 'fr' ? `Retour à ${localizedDest}` : locale === 'es' ? `Volver a ${localizedDest}` : locale === 'pt' ? `Voltar a ${localizedDest}` : locale === 'de' ? `Zurück nach ${localizedDest}` : locale === 'nl' ? `Terug naar ${localizedDest}` : locale === 'it' ? `Torna a ${localizedDest}` : `Back to ${localizedDest}`}
               </Link>
             </div>
 
@@ -400,7 +421,7 @@ export default async function HotelPage({
               <div className="sticky top-6 bg-white rounded-3xl border border-gray-100 shadow-lg overflow-hidden">
                 <div className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 p-5 text-white">
                   <p className="text-white/70 text-xs uppercase tracking-wide mb-1">
-                    {locale === 'fr' ? 'À partir de' : locale === 'es' ? 'Desde' : locale === 'pt' ? 'Desde' : 'From'}
+                    {locale === 'fr' ? 'À partir de' : locale === 'es' ? 'Desde' : locale === 'pt' ? 'Desde' : locale === 'de' ? 'Ab' : locale === 'nl' ? 'Vanaf' : locale === 'it' ? 'Da' : 'From'}
                   </p>
                   <p className="text-4xl font-black leading-none">
                     €{hotel.priceFrom}
@@ -444,6 +465,12 @@ export default async function HotelPage({
                       ? 'Réserver sur Booking.com →'
                       : locale === 'es'
                       ? 'Reservar en Booking.com →'
+                      : locale === 'de'
+                      ? 'Auf Booking.com buchen →'
+                      : locale === 'nl'
+                      ? 'Boeken op Booking.com →'
+                      : locale === 'it'
+                      ? 'Prenota su Booking.com →'
                       : 'Book on Booking.com →'}
                   </a>
                   <p className="text-center text-xs text-gray-500 mt-3">
@@ -451,6 +478,12 @@ export default async function HotelPage({
                       ? 'Via notre partenaire Booking.com'
                       : locale === 'es'
                       ? 'A través de nuestro socio Booking.com'
+                      : locale === 'de'
+                      ? 'Über unseren Partner Booking.com'
+                      : locale === 'nl'
+                      ? 'Via onze partner Booking.com'
+                      : locale === 'it'
+                      ? 'Tramite il nostro partner Booking.com'
                       : 'Via our partner Booking.com'}
                   </p>
                 </div>

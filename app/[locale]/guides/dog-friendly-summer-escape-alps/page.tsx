@@ -36,12 +36,18 @@ export async function generateMetadata({
     fr: `Ete en montagne avec son chien : 8 villes alpines a moins de 22C (2026)`,
     es: `Verano en los Alpes con tu perro: 8 pueblos de montana a menos de 22C (2026)`,
     pt: `Verao alpino com o seu cao: 8 cidades de montanha a menos de 22C (2026)`,
+    de: `Hundefreundlicher Alpensommer: 8 Bergorte unter 22C (2026)`,
+    nl: `Hondvriendelijke Alpenzomer: 8 bergdorpen onder 22C (2026)`,
+    it: `Estate alpina a misura di cane: 8 paesi di montagna sotto i 22C (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Eight Alpine mountain towns where July temperatures stay under 22C, with dog-friendly cable cars, mountain trails, and verified pet-friendly hotels in Switzerland, France, Italy, and Austria.`,
     fr: `Huit villes alpines ou les temperatures de juillet restent sous 22C, avec telepheriques acceptant les chiens, sentiers de montagne, et hotels pet-friendly verifies en Suisse, France, Italie et Autriche.`,
     es: `Ocho localidades alpinas donde las temperaturas de julio se mantienen bajo 22C, con telefericos que admiten perros, senderos de montana, y hoteles pet-friendly verificados en Suiza, Francia, Italia y Austria.`,
     pt: `Oito localidades alpinas onde as temperaturas de julho ficam abaixo dos 22C, com telecabines que aceitam caes, trilhos de montanha, e hoteis pet-friendly verificados na Suica, Franca, Italia e Austria.`,
+    de: `Acht Alpenorte, in denen die Julitemperaturen unter 22C bleiben, mit hundefreundlichen Seilbahnen, Bergwanderwegen und geprüften haustierfreundlichen Hotels in der Schweiz, Frankreich, Italien und Österreich.`,
+    nl: `Acht Alpendorpen waar de julitemperatuur onder de 22C blijft, met hondvriendelijke kabelbanen, bergwandelpaden en geverifieerde huisdiervriendelijke hotels in Zwitserland, Frankrijk, Italië en Oostenrijk.`,
+    it: `Otto località alpine dove le temperature di luglio restano sotto i 22C, con funivie dog-friendly, sentieri di montagna e hotel pet-friendly verificati in Svizzera, Francia, Italia e Austria.`,
   }
   return {
     title: titles[locale] ?? titles.en,

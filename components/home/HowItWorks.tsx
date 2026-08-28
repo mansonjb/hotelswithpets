@@ -79,6 +79,9 @@ export default function HowItWorks({ dict, locale = 'en' }: HowItWorksProps) {
     locale === 'fr' ? 'Ce que disent les voyageurs avec animaux' :
     locale === 'es' ? 'Lo que dicen los viajeros con mascotas' :
     locale === 'pt' ? 'O que dizem os viajantes com animais' :
+    locale === 'de' ? 'Was Reisende mit Haustieren sagen' :
+    locale === 'nl' ? 'Wat reizigers met huisdieren zeggen' :
+    locale === 'it' ? 'Cosa dicono i viaggiatori con animali' :
     'What pet-owning travellers say'
 
   return (

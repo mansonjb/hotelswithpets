@@ -379,6 +379,27 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
             cta1: 'Ver os 20 arrondissements',
             cta2: 'Melhores hoteis por arrondissement',
           },
+          de: {
+            badge: '🐾 Kompletter Leitfaden',
+            title: 'Paris Viertel für Viertel: finde deine perfekte haustierfreundliche Basis',
+            subtitle: '60 geprüfte Hotels in allen 20 Arrondissements: Parks, Tierärzte und Hunderichtlinien inklusive.',
+            cta1: 'Alle 20 Arrondissements ansehen',
+            cta2: 'Beste Hotels nach Arrondissement',
+          },
+          nl: {
+            badge: '🐾 Complete gids',
+            title: 'Parijs wijk voor wijk: vind jouw perfecte huisdiervriendelijke uitvalsbasis',
+            subtitle: '60 geverifieerde hotels in alle 20 arrondissementen: parken, dierenartsen en hondenbeleid inbegrepen.',
+            cta1: 'Bekijk alle 20 arrondissementen',
+            cta2: 'Beste hotels per arrondissement',
+          },
+          it: {
+            badge: '🐾 Guida completa',
+            title: 'Parigi quartiere per quartiere: trova la tua base pet-friendly perfetta',
+            subtitle: '60 hotel verificati in tutti i 20 arrondissement: parchi, veterinari e regole per cani inclusi.',
+            cta1: 'Vedi tutti i 20 arrondissement',
+            cta2: 'Migliori hotel per arrondissement',
+          },
         } as const
         type PALocale = keyof typeof parisArrCopy
         const tpa = parisArrCopy[(locale as PALocale) in parisArrCopy ? (locale as PALocale) : 'en']

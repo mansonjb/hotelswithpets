@@ -125,25 +125,25 @@ export default function Footer({ locale, dict }: FooterProps) {
           </p>
           <div className="flex flex-wrap gap-x-5 gap-y-1">
             {[
-              { en: 'Dog-friendly hotels Amsterdam', fr: 'Hôtels chiens Amsterdam', es: 'Hoteles perros Ámsterdam', pt: 'Hotéis com cães Amesterdão', href: 'amsterdam/dog-friendly' },
-              { en: 'Luxury hotels Paris', fr: 'Hôtels luxe Paris', es: 'Hoteles lujo París', pt: 'Hotéis luxo Paris', href: 'paris/luxury' },
-              { en: 'Pet-friendly hotels Barcelona', fr: 'Hôtels animaux Barcelone', es: 'Hoteles mascotas Barcelona', pt: 'Hotéis com animais Barcelona', href: 'barcelona/dog-friendly' },
-              { en: 'Beach hotels Biarritz', fr: 'Hôtels plage Biarritz', es: 'Hoteles playa Biarritz', pt: 'Hotéis praia Biarritz', href: 'biarritz/beach-access' },
-              { en: 'Dog-friendly hotels Berlin', fr: 'Hôtels chiens Berlin', es: 'Hoteles perros Berlín', pt: 'Hotéis com cães Berlim', href: 'berlin/dog-friendly' },
-              { en: 'Dog-friendly hotels Rome', fr: 'Hôtels chiens Rome', es: 'Hoteles perros Roma', pt: 'Hotéis com cães Roma', href: 'rome/dog-friendly' },
-              { en: 'No pet fee hotels Amsterdam', fr: 'Hôtels sans frais animaux', es: 'Hoteles sin cargo mascota', pt: 'Hotéis sem suplemento animais', href: 'amsterdam/dogs-stay-free' },
-              { en: 'Beach hotels Malaga', fr: 'Hôtels plage Malaga', es: 'Hoteles playa Málaga', pt: 'Hotéis praia Málaga', href: 'malaga/beach-access' },
-              { en: 'Luxury hotels Milan', fr: 'Hôtels luxe Milan', es: 'Hoteles lujo Milán', pt: 'Hotéis luxo Milão', href: 'milan/luxury' },
-              { en: 'Dog-friendly hotels Oslo', fr: 'Hôtels chiens Oslo', es: 'Hoteles perros Oslo', pt: 'Hotéis com cães Oslo', href: 'oslo/dog-friendly' },
-              { en: 'Beach hotels Split', fr: 'Hôtels plage Split', es: 'Hoteles playa Split', pt: 'Hotéis praia Split', href: 'split/beach-access' },
-              { en: 'Luxury hotels Brussels', fr: 'Hôtels luxe Bruxelles', es: 'Hoteles lujo Bruselas', pt: 'Hotéis luxo Bruxelas', href: 'brussels/luxury' },
+              { en: 'Dog-friendly hotels Amsterdam', fr: 'Hôtels chiens Amsterdam', es: 'Hoteles perros Ámsterdam', pt: 'Hotéis com cães Amesterdão', de: 'Hundefreundliche Hotels Amsterdam', nl: 'Hondvriendelijke hotels Amsterdam', it: 'Hotel per cani Amsterdam', href: 'amsterdam/dog-friendly' },
+              { en: 'Luxury hotels Paris', fr: 'Hôtels luxe Paris', es: 'Hoteles lujo París', pt: 'Hotéis luxo Paris', de: 'Luxushotels Paris', nl: 'Luxe hotels Parijs', it: 'Hotel di lusso Parigi', href: 'paris/luxury' },
+              { en: 'Pet-friendly hotels Barcelona', fr: 'Hôtels animaux Barcelone', es: 'Hoteles mascotas Barcelona', pt: 'Hotéis com animais Barcelona', de: 'Tierfreundliche Hotels Barcelona', nl: 'Diervriendelijke hotels Barcelona', it: 'Hotel per animali Barcellona', href: 'barcelona/dog-friendly' },
+              { en: 'Beach hotels Biarritz', fr: 'Hôtels plage Biarritz', es: 'Hoteles playa Biarritz', pt: 'Hotéis praia Biarritz', de: 'Strandhotels Biarritz', nl: 'Strandhotels Biarritz', it: 'Hotel sulla spiaggia Biarritz', href: 'biarritz/beach-access' },
+              { en: 'Dog-friendly hotels Berlin', fr: 'Hôtels chiens Berlin', es: 'Hoteles perros Berlín', pt: 'Hotéis com cães Berlim', de: 'Hundefreundliche Hotels Berlin', nl: 'Hondvriendelijke hotels Berlijn', it: 'Hotel per cani Berlino', href: 'berlin/dog-friendly' },
+              { en: 'Dog-friendly hotels Rome', fr: 'Hôtels chiens Rome', es: 'Hoteles perros Roma', pt: 'Hotéis com cães Roma', de: 'Hundefreundliche Hotels Rom', nl: 'Hondvriendelijke hotels Rome', it: 'Hotel per cani Roma', href: 'rome/dog-friendly' },
+              { en: 'No pet fee hotels Amsterdam', fr: 'Hôtels sans frais animaux', es: 'Hoteles sin cargo mascota', pt: 'Hotéis sem suplemento animais', de: 'Hotels ohne Tiergebühr Amsterdam', nl: 'Hotels zonder huisdiertoeslag Amsterdam', it: 'Hotel senza supplemento animali Amsterdam', href: 'amsterdam/dogs-stay-free' },
+              { en: 'Beach hotels Malaga', fr: 'Hôtels plage Malaga', es: 'Hoteles playa Málaga', pt: 'Hotéis praia Málaga', de: 'Strandhotels Málaga', nl: 'Strandhotels Málaga', it: 'Hotel sulla spiaggia Malaga', href: 'malaga/beach-access' },
+              { en: 'Luxury hotels Milan', fr: 'Hôtels luxe Milan', es: 'Hoteles lujo Milán', pt: 'Hotéis luxo Milão', de: 'Luxushotels Mailand', nl: 'Luxe hotels Milaan', it: 'Hotel di lusso Milano', href: 'milan/luxury' },
+              { en: 'Dog-friendly hotels Oslo', fr: 'Hôtels chiens Oslo', es: 'Hoteles perros Oslo', pt: 'Hotéis com cães Oslo', de: 'Hundefreundliche Hotels Oslo', nl: 'Hondvriendelijke hotels Oslo', it: 'Hotel per cani Oslo', href: 'oslo/dog-friendly' },
+              { en: 'Beach hotels Split', fr: 'Hôtels plage Split', es: 'Hoteles playa Split', pt: 'Hotéis praia Split', de: 'Strandhotels Split', nl: 'Strandhotels Split', it: 'Hotel sulla spiaggia Spalato', href: 'split/beach-access' },
+              { en: 'Luxury hotels Brussels', fr: 'Hôtels luxe Bruxelles', es: 'Hoteles lujo Bruselas', pt: 'Hotéis luxo Bruxelas', de: 'Luxushotels Brüssel', nl: 'Luxe hotels Brussel', it: 'Hotel di lusso Bruxelles', href: 'brussels/luxury' },
             ].map((g) => (
               <Link
                 key={g.href}
                 href={`/${locale}/${g.href}`}
                 className="text-sm text-gray-500 hover:text-gray-300 transition-colors"
               >
-                {locale === 'fr' ? g.fr : locale === 'es' ? g.es : locale === 'pt' ? g.pt : g.en}
+                {locale === 'fr' ? g.fr : locale === 'es' ? g.es : locale === 'pt' ? g.pt : locale === 'de' ? g.de : locale === 'nl' ? g.nl : locale === 'it' ? g.it : g.en}
               </Link>
             ))}
           </div>

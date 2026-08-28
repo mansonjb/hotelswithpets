@@ -41,12 +41,18 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     fr: 'Puis-je prendre mon chien dans l\'Eurostar ? Règles, prix et alternatives 2026',
     es: '¿Puedo llevar mi perro en el Eurostar? Normas, precios y alternativas 2026',
     pt: 'Puedo levar mi cão no Eurostar? Normas, preços e alternativas 2026',
+    de: 'Kann ich meinen Hund im Eurostar mitnehmen? Regeln, Preise und Alternativen 2026',
+    nl: 'Mag ik mijn hond meenemen in de Eurostar? Regels, prijzen en alternatieven 2026',
+    it: `Posso portare il mio cane sull'Eurostar? Regole, prezzi e alternative 2026`,
   }
   const descriptions: Record<string, string> = {
     en: 'The straight answer: assistance dogs only, no exceptions. Here\'s what travellers with pets actually do, Le Shuttle, ferries, Channel Tunnel alternatives, full 2026 prices and rules.',
     fr: 'La réponse directe : uniquement les chiens d\'assistance, aucune exception. Voici ce que font vraiment les voyageurs avec animaux, Le Shuttle, ferries, alternatives au tunnel sous la Manche, prix et règles 2026.',
     es: 'La respuesta directa: solo perros de asistencia, sin excepciones. Esto es lo que realmente hacen los viajeros con mascotas, Le Shuttle, ferris, alternativas al Canal de la Mancha, precios y normas completas 2026.',
     pt: 'A respuesta directa: só cães de assistência, sem excepciones. Esto é lo que realmente hacen os viajeros com animais, Le Shuttle, ferris, alternativas al Canal da Mancha, preços e normas completas 2026.',
+    de: 'Die klare Antwort: nur Assistenzhunde, keine Ausnahmen. Das machen Reisende mit Haustieren wirklich, Le Shuttle, Fähren, Alternativen zum Kanaltunnel, alle Preise und Regeln 2026.',
+    nl: 'Het duidelijke antwoord: alleen assistentiehonden, geen uitzonderingen. Dit doen reizigers met huisdieren echt, Le Shuttle, veerboten, alternatieven voor de Kanaaltunnel, alle prijzen en regels voor 2026.',
+    it: `La risposta diretta: solo cani di assistenza, nessuna eccezione. Ecco cosa fanno davvero i viaggiatori con animali, Le Shuttle, traghetti, alternative al tunnel della Manica, prezzi e regole completi 2026.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {

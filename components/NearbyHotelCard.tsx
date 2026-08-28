@@ -64,6 +64,22 @@ const LABELS: Record<string, {
     petFee: n => `huisdiertoeslag ${n} €/nacht`,
     ratingLabel: 'score',
   },
+  de: {
+    defaultProximity: c => `Wo übernachten in ${c}`,
+    bookCta: 'Preise ansehen →',
+    perNight: '/Nacht',
+    freePets: 'Haustiere kostenlos',
+    petFee: n => `Haustiergebühr ${n} €/Nacht`,
+    ratingLabel: 'Bewertung',
+  },
+  it: {
+    defaultProximity: c => `Dove dormire a ${c}`,
+    bookCta: 'Vedi le tariffe →',
+    perNight: '/notte',
+    freePets: 'animali gratis',
+    petFee: n => `supplemento animale ${n} €/notte`,
+    ratingLabel: 'voto',
+  },
 }
 
 /**
@@ -98,8 +114,7 @@ export default function NearbyHotelCard({
   const dest = destinations.find(d => d.slug === destinationSlug)
   if (!dest) return null
 
-  const langKey = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
-  const L = LABELS[langKey] ?? LABELS.en
+  const L = LABELS[locale] ?? LABELS.en
 
   const cityName = getLocalizedCityName(dest.slug, dest.name, locale)
   const label = proximityLabel ?? L.defaultProximity(cityName)

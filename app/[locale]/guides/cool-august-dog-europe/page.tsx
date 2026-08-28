@@ -12,8 +12,8 @@ import { getLocalizedCityName } from '@/lib/cityNames'
 
 // Top 3 value-sorted pet-friendly hotels per pick, keyed by destination slug.
 const HOTELS_BY_DEST: Record<string, typeof hotels> = {}
-const hotelFrom = (l: string) => (l === 'fr' ? 'dès' : l === 'es' || l === 'pt' ? 'desde' : 'from')
-const hotelNoFee = (l: string) => (l === 'fr' ? 'sans supplément' : l === 'es' ? 'sin cargo mascota' : l === 'pt' ? 'sem suplemento' : 'no pet fee')
+const hotelFrom = (l: string) => (l === 'fr' ? 'dès' : l === 'es' || l === 'pt' ? 'desde' : l === 'de' ? 'ab' : l === 'nl' ? 'vanaf' : l === 'it' ? 'da' : 'from')
+const hotelNoFee = (l: string) => (l === 'fr' ? 'sans supplément' : l === 'es' ? 'sin cargo mascota' : l === 'pt' ? 'sem suplemento' : l === 'de' ? 'keine Haustiergebühr' : l === 'nl' ? 'geen huisdiertoeslag' : l === 'it' ? 'nessun supplemento' : 'no pet fee')
 
 const SLUG = 'cool-august-dog-europe'
 const CAMPAIGN_BASE = 'cool-august'
@@ -45,12 +45,18 @@ export async function generateMetadata({
     fr: `Ou partir avec son chien en aout : 8 villes europeennes fraiches a moins de 25C (2026)`,
     es: `Donde ir con tu perro en agosto: 8 ciudades europeas frescas a menos de 25C (2026)`,
     pt: `Para onde ir com o seu cao em agosto: 8 cidades europeias frescas a menos de 25C (2026)`,
+    de: `Wohin mit dem Hund im August: 8 kühle europäische Städte unter 25C (2026)`,
+    nl: `Waar naartoe met je hond in augustus: 8 koele Europese steden onder 25C (2026)`,
+    it: `Dove andare con il tuo cane ad agosto: 8 città europee fresche sotto i 25C (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Eight European cities where August temperatures stay under 25C: the safe zone for dogs that struggle in heat. Baltic capitals, Belgian canal cities, and Central European gems with verified pet-friendly hotels, dog beaches, and off-leash parks.`,
     fr: `Huit villes europeennes ou la temperature d'aout reste sous 25C : la zone sure pour les chiens sensibles a la chaleur. Capitales baltes, villes flamandes et perles d'Europe centrale avec hotels pet-friendly verifies, plages canines et parcs sans laisse.`,
     es: `Ocho ciudades europeas donde la temperatura de agosto se mantiene bajo 25C: la zona segura para los perros que sufren con el calor. Capitales balticas, ciudades flamencas y joyas de Europa central con hoteles pet-friendly verificados, playas caninas y parques sin correa.`,
     pt: `Oito cidades europeias onde a temperatura de agosto se mantém abaixo de 25C: a zona segura para caes que sofrem com o calor. Capitais balticas, cidades flamengas e joias da Europa central com hoteis pet-friendly verificados, praias caninas e parques sem trela.`,
+    de: `Acht europäische Städte, in denen die Augusttemperaturen unter 25C bleiben: die sichere Zone für Hunde, die unter Hitze leiden. Baltische Hauptstädte, belgische Kanalstädte und mitteleuropäische Perlen mit geprüften haustierfreundlichen Hotels, Hundestränden und Freilaufparks.`,
+    nl: `Acht Europese steden waar de augustustemperatuur onder de 25C blijft: de veilige zone voor honden die slecht tegen hitte kunnen. Baltische hoofdsteden, Belgische kanaalsteden en Midden-Europese pareltjes met geverifieerde huisdiervriendelijke hotels, hondenstranden en losloopparken.`,
+    it: `Otto città europee dove ad agosto la temperatura resta sotto i 25C: la zona sicura per i cani che soffrono il caldo. Capitali baltiche, città belghe dei canali e gioielli dell'Europa centrale con hotel pet-friendly verificati, spiagge per cani e parchi liberi dal guinzaglio.`,
   }
   return {
     title: titles[locale] ?? titles.en,

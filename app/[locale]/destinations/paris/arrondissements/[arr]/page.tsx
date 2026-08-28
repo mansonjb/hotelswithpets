@@ -82,6 +82,7 @@ export async function generateMetadata({
     fr: `Paris ${a.slug} (${a.popularName}) avec son chien : parcs, vétérinaires et hôtels`,
     es: `París ${a.slug} (${a.popularName}) con perro: parques, veterinarios y hoteles`,
     pt: `Paris ${a.slug} (${a.popularName}) com cão: parques, veterinários e hotéis`,
+    de: `Paris ${a.slug} (${a.popularName}) mit Hund: Parks, Tierärzte und Hotels`,
     nl: `Parijs ${a.slug} (${a.popularName}) met je hond: parken, dierenartsen en hotels`,
     it: `Parigi ${a.slug} (${a.popularName}) con il cane: parchi, veterinari e hotel`,
   }
@@ -90,6 +91,7 @@ export async function generateMetadata({
     fr: `Tout sur ${a.popularName} (${a.slug}) avec un chien : les parcs qui acceptent vraiment les chiens en laisse, les vétérinaires vérifiés, les lignes de métro et les hôtels pet-friendly du quartier.`,
     es: `Todo sobre ${a.popularName} (${a.slug}) con perro: los parques que realmente aceptan perros con correa, los veterinarios verificados, las líneas de metro y los hoteles pet-friendly del barrio.`,
     pt: `Tudo sobre ${a.popularName} (${a.slug}) com cão: os parques que realmente aceitam cães à trela, os veterinários verificados, as linhas de metro e os hotéis pet-friendly do bairro.`,
+    de: `Alles über ${a.popularName} (${a.slug}) mit Hund: die Parks, die angeleinte Hunde wirklich zulassen, die geprüften Tierärzte, die Metrolinien und das Angebot an hundefreundlichen Hotels im Viertel.`,
     nl: `Alles over ${a.popularName} (${a.slug}) met je hond: de parken die honden aan de lijn echt toelaten, de geverifieerde dierenartsen, de metrolijnen en het aanbod hondvriendelijke hotels in de wijk.`,
     it: `Tutto su ${a.popularName} (${a.slug}) con il cane: i parchi che accettano davvero i cani al guinzaglio, i veterinari verificati, le linee della metro e gli hotel pet-friendly della zona.`,
   }
@@ -206,6 +208,29 @@ const COPY = {
     stickyLabel: 'Hotéis pet-friendly em Paris',
     stickyCta: 'Ver hotéis',
   },
+  de: {
+    metroLabel: 'Metro',
+    centerLabel: 'Zentriert auf',
+    introHeading: 'Über das Viertel',
+    highlightsHeading: 'Hundefreundliche Orte',
+    parksHeading: 'Parks und Grünflächen',
+    vetsHeading: 'Tierärzte in der Nähe',
+    hotelsHeading: 'Unsere hundefreundliche Auswahl',
+    hotelsNote: `Eine kurze redaktionelle Auswahl. Die Karte unten zeigt das gesamte Booking.com-Angebot.`,
+    starsLabel: '★',
+    fromLabel: 'ab',
+    perNightLabel: '/Nacht',
+    petFeeLabel: 'Haustiergebühr',
+    petFeeFreeLabel: 'Haustiere kostenlos',
+    checkAvailability: 'Verfügbarkeit prüfen →',
+    mapHeading: 'Alle hundefreundlichen Hotels im Viertel',
+    mapNote: `Aktuelle Verfügbarkeit und Preise, Hunde und Katzen willkommen. Buchbar über Booking.com und Partner.`,
+    seeHotels: `Hundefreundliche Hotels in Paris ansehen ${''}`,
+    backToHub: 'Zurück zu allen Arrondissements',
+    comingSoon: 'Ausführlicher Guide folgt in Kürze. Stöbern Sie in der Zwischenzeit unten in den hundefreundlichen Hotels dieses Viertels.',
+    stickyLabel: 'Hundefreundliche Hotels in Paris',
+    stickyCta: 'Hotels ansehen',
+  },
   nl: {
     metroLabel: 'Metro',
     centerLabel: 'Centrum bij',
@@ -262,6 +287,7 @@ function pickLocaleString(a: Arr, locale: Locale, key: 'intro') {
     fr: 'introFr' as keyof Arr,
     es: 'introEs' as keyof Arr,
     pt: 'introPt' as keyof Arr,
+    de: 'introEn' as keyof Arr,
     nl: 'introEn' as keyof Arr,
     it: 'introEn' as keyof Arr,
   }
@@ -274,6 +300,7 @@ function pickLocaleArray(a: Arr, locale: Locale): string[] {
     fr: 'highlightsFr' as keyof Arr,
     es: 'highlightsEs' as keyof Arr,
     pt: 'highlightsPt' as keyof Arr,
+    de: 'highlightsEn' as keyof Arr,
     nl: 'highlightsEn' as keyof Arr,
     it: 'highlightsEn' as keyof Arr,
   }
@@ -286,6 +313,7 @@ function parkPolicy(park: Arr['parks'][number], locale: Locale): string {
     fr: 'policyFr' as keyof typeof park,
     es: 'policyEs' as keyof typeof park,
     pt: 'policyPt' as keyof typeof park,
+    de: 'policyEn' as keyof typeof park,
     nl: 'policyEn' as keyof typeof park,
     it: 'policyEn' as keyof typeof park,
   }
@@ -415,7 +443,7 @@ export default async function Page({
         {/* Hotel selection */}
         {a.hotels && a.hotels.length > 0 && (() => {
           const pitchKey: Record<Locale, keyof ArrHotel> = {
-            en: 'pitchEn', fr: 'pitchFr', es: 'pitchEs', pt: 'pitchPt', nl: 'pitchEn', it: 'pitchEn',
+            en: 'pitchEn', fr: 'pitchFr', es: 'pitchEs', pt: 'pitchPt', de: 'pitchEn', nl: 'pitchEn', it: 'pitchEn',
           }
           return (
             <section>

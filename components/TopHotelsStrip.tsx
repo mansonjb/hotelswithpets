@@ -14,9 +14,9 @@ interface Props {
   /** Campaign tag for Stay22 (e.g. `topstrip-passeport`). */
   campaign: string
   /** Optional override heading per locale. */
-  heading?: { en: string; fr: string; es: string; pt: string }
+  heading?: { en: string; fr: string; es: string; pt: string; de?: string; nl?: string; it?: string }
   /** Optional override subheading per locale. */
-  sub?: { en: string; fr: string; es: string; pt: string }
+  sub?: { en: string; fr: string; es: string; pt: string; de?: string; nl?: string; it?: string }
 }
 
 const DEFAULT_HEADING = {
@@ -24,6 +24,9 @@ const DEFAULT_HEADING = {
   fr: `Top hôtels pet-friendly en Europe en ce moment`,
   es: 'Los mejores hoteles pet-friendly en Europa ahora',
   pt: 'Os melhores hotéis pet-friendly em Europa agora',
+  de: 'Top haustierfreundliche Hotels in Europa gerade jetzt',
+  nl: 'Top diervriendelijke hotels in Europa op dit moment',
+  it: 'I migliori hotel pet-friendly in Europa in questo momento',
 }
 
 const DEFAULT_SUB = {
@@ -31,6 +34,9 @@ const DEFAULT_SUB = {
   fr: `Sélection éditoriale, mieux notés, politiques animales vérifiées et réservation en direct.`,
   es: `Selección editorial, mejor valorados, políticas de mascota verificadas y reserva en directo.`,
   pt: `Selecção editorial, melhor avaliados, políticas de animais verificadas e reserva em directo.`,
+  de: `Handverlesen, top bewertet, mit geprüften Haustierregeln und Direktbuchung.`,
+  nl: `Met zorg gekozen, best beoordeeld, met gecontroleerd huisdierbeleid en direct boeken.`,
+  it: `Selezione editoriale, i più votati, con politiche animali verificate e prenotazione diretta.`,
 }
 
 const LABELS: Record<string, {
@@ -44,6 +50,9 @@ const LABELS: Record<string, {
   fr: { perNight: '/nuit', bookCta: 'Voir les tarifs →', freePets: 'animaux gratuits', petFee: n => `supplément animal ${n} €/nuit`, ratingLabel: 'note' },
   es: { perNight: '/noche', bookCta: 'Ver tarifas →', freePets: 'mascotas gratis', petFee: n => `cargo mascota ${n} €/noche`, ratingLabel: 'nota' },
   pt: { perNight: '/noite', bookCta: 'Ver tarifas →', freePets: 'animais grátis', petFee: n => `taxa animal ${n} €/noite`, ratingLabel: 'nota' },
+  de: { perNight: '/Nacht', bookCta: 'Preise ansehen →', freePets: 'Haustiere gratis', petFee: n => `Haustiergebühr ${n} €/Nacht`, ratingLabel: 'Bewertung' },
+  nl: { perNight: '/nacht', bookCta: 'Tarieven bekijken →', freePets: 'huisdieren gratis', petFee: n => `huisdiertoeslag ${n} €/nacht`, ratingLabel: 'beoordeling' },
+  it: { perNight: '/notte', bookCta: 'Vedi le tariffe →', freePets: 'animali gratis', petFee: n => `supplemento animale ${n} €/notte`, ratingLabel: 'voto' },
 }
 
 function pickTopHotel(slug: string): typeof hotels[number] | null {
@@ -57,7 +66,10 @@ function pickTopHotel(slug: string): typeof hotels[number] | null {
  * Server component, no hydration cost. Skips destinations without an available hotel.
  */
 export default function TopHotelsStrip({ locale, destinationSlugs, campaign, heading, sub }: Props) {
-  const langKey = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
+  const langKey =
+    locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' || locale === 'it'
+      ? locale
+      : 'en'
   const L = LABELS[langKey] ?? LABELS.en
 
   const items = destinationSlugs

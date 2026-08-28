@@ -27,6 +27,7 @@ export async function generateMetadata({
     pt: `Paris pet-friendly por arrondissement: os 20 distritos cartografados (2026)`,
     nl: `Hondvriendelijk Parijs per arrondissement: alle 20 wijken in kaart (2026)`,
     it: `Parigi pet-friendly per arrondissement: tutti i 20 quartieri mappati (2026)`,
+    de: `Hundefreundliches Paris nach Arrondissement: alle 20 Viertel kartiert (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `A neighbourhood-by-neighbourhood guide to dog-friendly Paris. The vibe, the parks where dogs are welcome, the verified vets and the best pet-friendly hotels in each of the 20 arrondissements.`,
@@ -35,6 +36,7 @@ export async function generateMetadata({
     pt: `O guia bairro a bairro da Paris pet-friendly. O ambiente, os parques abertos a cães, os veterinários verificados e os melhores hotéis pet-friendly em cada um dos 20 arrondissements.`,
     nl: `De wijk-voor-wijk gids voor hondvriendelijk Parijs. De sfeer, de parken waar honden welkom zijn, de geverifieerde dierenartsen en de beste hondvriendelijke hotels in elk van de 20 arrondissementen.`,
     it: `La guida quartiere per quartiere della Parigi dog-friendly. L'atmosfera, i parchi dove i cani sono benvenuti, i veterinari verificati e i migliori hotel pet-friendly in ognuno dei 20 arrondissement.`,
+    de: `Der Viertel-für-Viertel-Guide durch das hundefreundliche Paris. Die Atmosphäre, die Parks, in denen Hunde willkommen sind, die geprüften Tierärzte und die besten haustierfreundlichen Hotels in jedem der 20 Arrondissements.`,
   }
 
   return {
@@ -116,6 +118,16 @@ const COPY = {
     metrosLabel: 'Metro',
     detailCta: 'Apri la guida →',
     parisCta: 'Torna alla guida di Parigi',
+  },
+  de: {
+    eyebrow: 'HUNDEFREUNDLICHES PARIS NACH ARRONDISSEMENT',
+    h1: 'Hundefreundliches Paris, Viertel für Viertel',
+    intro: `Paris ist klein genug, um es mit dem Hund von einem Ende zum anderen zu durchqueren, doch die 20 Arrondissements wirken wie 20 verschiedene Städte. Wir haben jedes einzeln kartiert: die Parks, die angeleinte Hunde wirklich willkommen heißen (die meisten öffentlichen Gärten bleiben weiterhin gesperrt), die geprüften Tierärzte mit 24-Stunden-Dienst, die Metrolinien, die Tiere zulassen, und das Viertel, in dem du am besten unterkommst, je nachdem, was du von der Reise erwartest.`,
+    listTitle: 'Die 20 Arrondissements',
+    listSubtitle: 'Klicke auf ein Viertel für Parks, Tierärzte, Hunderegeln und haustierfreundliche Hotels.',
+    metrosLabel: 'Metro',
+    detailCta: 'Guide öffnen →',
+    parisCta: 'Zurück zum Paris-Guide',
   },
 } as const
 

@@ -25,6 +25,7 @@ export async function generateMetadata({
     fr: `Meilleurs Hotels Pet-Friendly a Paris par Arrondissement (2026) | HotelsWithPets`,
     es: `Mejores Hoteles Pet-Friendly en Paris por Arrondissement (2026) | HotelsWithPets`,
     pt: `Melhores Hoteis Pet-Friendly em Paris por Arrondissement (2026) | HotelsWithPets`,
+    de: `Beste Hundefreundliche Hotels in Paris nach Arrondissement (2026) | HotelsWithPets`,
     nl: `Beste Hondvriendelijke Hotels in Parijs per Arrondissement (2026) | HotelsWithPets`,
     it: `Migliori Hotel Pet-Friendly a Parigi per Arrondissement (2026) | HotelsWithPets`,
   }
@@ -39,6 +40,8 @@ export async function generateMetadata({
       ? `60 geverifieerde hotels in de 20 arrondissementen van Parijs, parken, dierenartsen en hondenbeleid per wijk.`
       : locale === 'it'
       ? `60 hotel verificati nei 20 arrondissement di Parigi - parchi, veterinari e regole sui cani per quartiere.`
+      : locale === 'de'
+      ? `60 geprüfte Hotels in den 20 Arrondissements von Paris, Parks, Tierärzte und Hunderegeln pro Viertel.`
       : `60 hotels verified across 20 Paris arrondissements - parks, vets and dog policy per neighbourhood.`
 
   return {
@@ -337,6 +340,52 @@ const COPY = {
       },
     ],
   },
+  de: {
+    breadcrumbHome: 'Startseite',
+    breadcrumbParis: 'Paris',
+    breadcrumbCurrent: 'Hotels nach Arrondissement',
+    badge: '🐾 60 Hotels geprüft',
+    h1: 'Beste hundefreundliche Hotels in Paris nach Arrondissement',
+    intro: `Die Wahl des richtigen Arrondissements verändert alles bei einer Reise nach Paris mit Hund. Jedes Viertel hat seine eigene Atmosphäre, seine eigenen Grünflächen (oder deren Fehlen), seinen eigenen Zugang zur Metro und seine eigenen Hunderegeln. Wir haben 60 Hotels in allen 20 Bezirken geprüft, damit Sie Ihre Basis wählen können, bevor Sie buchen.`,
+    stat1: '20 Arrondissements',
+    stat2: '60 Hotels',
+    navTitle: 'Zu einem Arrondissement springen',
+    metrosLabel: 'Metro',
+    priceFrom: 'Ab',
+    petFee: 'Haustiergebühr',
+    petFeePerNight: '/Nacht',
+    petFeeIncluded: 'inklusive',
+    bookCta: 'Auf Booking.com buchen',
+    guideCta: 'Vollständiger Guide für',
+    faqTitle: 'Häufige Fragen zu Paris mit Hund',
+    backParis: 'Zurück zum Paris-Guide',
+    faqs: [
+      {
+        q: 'Welches Arrondissement ist das beste für Hunde in Paris?',
+        a: `Das 11. (Bastille/Oberkampf) und das 12. (Bercy) bieten die beste Kombination aus Freilaufparks, günstigen Hotels und einfachem Metro-Zugang. Der Bois de Vincennes im 12. hat die größte Freilauffläche der Stadt. Für eine zentrale, gut zu Fuß erreichbare Basis bietet das 4. (Marais) zahlreiche hundefreundliche Café-Terrassen und die Arkaden der Place des Vosges.`,
+      },
+      {
+        q: 'Sind Hunde in Pariser Parks erlaubt?',
+        a: `Die meisten großen Pariser Parks verbieten Hunde auf Rasenflächen und Blumenbeeten. Angeleinte Hunde sind auf den Kieswegen der meisten Parks erlaubt. Der Bois de Boulogne und der Bois de Vincennes haben spezielle Freilaufzonen (Hundeauslaufbereiche). Der Jardin des Plantes und das Innere des Jardin du Palais-Royal verbieten Hunde vollständig.`,
+      },
+      {
+        q: 'Dürfen Hunde die Pariser Metro benutzen?',
+        a: `Kleine Hunde (unter 6 kg, getragen in einer Tasche oder Transportbox von höchstens 45x30 cm) fahren kostenlos in der RATP-Metro, im RER und in Bussen. Größere Hunde zahlen einen ermäßigten Kinderfahrschein und müssen einen Maulkorb tragen und an einer kurzen Leine geführt werden. Hunde sind im ersten Wagen jeder Metrolinie nicht erlaubt.`,
+      },
+      {
+        q: 'Wie hoch ist die Haustiergebühr in Pariser Hotels?',
+        a: `Die Haustiergebühren in Pariser Hotels reichen von kostenlos (viele Boutique- und Designhotels verzichten darauf) bis zu 50-100 EUR pro Nacht in Luxuspalästen. Budgethotels verlangen oft 10-20 EUR pro Aufenthalt. Bestätigen Sie dies immer bei der Buchung, da die Gebühr je nach Hundegröße variieren kann und manchmal pro Tier berechnet wird.`,
+      },
+      {
+        q: 'Welches Pariser Viertel hat die meisten Grünflächen für Hunde?',
+        a: `Das 12. Arrondissement (Bercy/Bois de Vincennes) hat mit Abstand die meisten Grünflächen: Der Bois de Vincennes umfasst 995 Hektar mit mehreren Hundeauslaufzonen. Das 16. (Passy/Auteuil) grenzt an den Bois de Boulogne mit 846 Hektar und eigenen Freilaufzonen. Beide sind ideale Basen für Besitzer großer oder sehr aktiver Hunde.`,
+      },
+      {
+        q: 'Gibt es Tierärzte mit 24-Stunden-Dienst in Paris?',
+        a: `Ja. Die wichtigsten tierärztlichen 24-Stunden-Notfallzentren in Paris sind die Clinique Veterinaire des Champs-Elysees (9 rue Balzac, 75008, Tel: +33 1 45 63 04 03) und die ADVET (Centre Hospitalier Veterinaire, Maisons-Alfort, 30 Min mit Auto/RER). Die nationale Notrufnummer 3115 leitet Sie jede Nacht an den nächstgelegenen verfügbaren Tierarzt weiter.`,
+      },
+    ],
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -349,6 +398,7 @@ function getIntro(a: ArrondissementData, locale: Locale): string {
   if (locale === 'pt') return a.introPt
   if (locale === 'nl') return a.introEn
   if (locale === 'it') return a.introEn
+  if (locale === 'de') return a.introEn
   return a.introEn
 }
 
@@ -361,6 +411,7 @@ function getPitch(
   if (locale === 'pt') return hotel.pitchPt
   if (locale === 'nl') return hotel.pitchEn
   if (locale === 'it') return hotel.pitchEn
+  if (locale === 'de') return hotel.pitchEn
   return hotel.pitchEn
 }
 

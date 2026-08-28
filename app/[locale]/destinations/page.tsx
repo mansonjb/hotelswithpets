@@ -29,6 +29,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
         pt: `${SITE_URL}/pt/destinations`,
         de: `${SITE_URL}/de/destinations`,
         nl: `${SITE_URL}/nl/destinations`,
+        it: `${SITE_URL}/it/destinations`,
         'x-default': `${SITE_URL}/en/destinations`,
       },
     },

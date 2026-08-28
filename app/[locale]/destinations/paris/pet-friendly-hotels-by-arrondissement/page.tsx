@@ -53,6 +53,7 @@ export async function generateMetadata({
         pt: `${SITE_URL}/pt/${SLUG_PATH}`,
         de: `${SITE_URL}/de/${SLUG_PATH}`,
         nl: `${SITE_URL}/nl/${SLUG_PATH}`,
+        it: `${SITE_URL}/it/${SLUG_PATH}`,
         'x-default': `${SITE_URL}/en/${SLUG_PATH}`,
       },
     },

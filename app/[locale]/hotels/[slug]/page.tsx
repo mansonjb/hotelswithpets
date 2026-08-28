@@ -74,6 +74,7 @@ export async function generateMetadata({
         pt: `${SITE_URL}/pt/hotels/${slug}`,
         de: `${SITE_URL}/de/hotels/${slug}`,
         nl: `${SITE_URL}/nl/hotels/${slug}`,
+        it: `${SITE_URL}/it/hotels/${slug}`,
         'x-default': `${SITE_URL}/en/hotels/${slug}`,
       },
     },

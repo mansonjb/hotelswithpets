@@ -1131,6 +1131,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         pt: `${SITE_URL}/pt/guides/${SLUG}`,
         de: `${SITE_URL}/de/guides/${SLUG}`,
         nl: `${SITE_URL}/nl/guides/${SLUG}`,
+        it: `${SITE_URL}/it/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },

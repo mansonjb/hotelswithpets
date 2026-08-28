@@ -65,6 +65,7 @@ export async function generateMetadata({
         pt: `${SITE_URL}/pt/guides/road-trip-chien`,
         de: `${SITE_URL}/de/guides/road-trip-chien`,
         nl: `${SITE_URL}/nl/guides/road-trip-chien`,
+        it: `${SITE_URL}/it/guides/road-trip-chien`,
         'x-default': `${SITE_URL}/en/guides/road-trip-chien`,
       },
     },

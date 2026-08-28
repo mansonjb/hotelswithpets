@@ -27,6 +27,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/categori
         pt: `${SITE_URL}/pt/categories`,
         de: `${SITE_URL}/de/categories`,
         nl: `${SITE_URL}/nl/categories`,
+        it: `${SITE_URL}/it/categories`,
         'x-default': `${SITE_URL}/en/categories`,
       },
     },

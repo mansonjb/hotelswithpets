@@ -229,6 +229,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         pt: `${SITE_URL}/pt/guides/dog-friendly-europe-by-month/${month}`,
         de: `${SITE_URL}/de/guides/dog-friendly-europe-by-month/${month}`,
         nl: `${SITE_URL}/nl/guides/dog-friendly-europe-by-month/${month}`,
+        it: `${SITE_URL}/it/guides/dog-friendly-europe-by-month/${month}`,
         'x-default': `${SITE_URL}/en/guides/dog-friendly-europe-by-month/${month}`,
       },
     },

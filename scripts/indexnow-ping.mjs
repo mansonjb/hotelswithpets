@@ -10,7 +10,8 @@
  *   crawler. This script speeds up Bing/Yandex/DuckDuckGo/Seznam only.
  * - Free, no account, no quota. Key is validated by fetching
  *   https://www.hotelswithpets.com/{key}.txt and checking the body matches.
- * - Max 10 000 URLs per request. Our sitemap is ~3 500 — one call is enough.
+ * - Max 10 000 URLs per request. /sitemap.xml is a <sitemapindex> (one child per
+ *   locale, ~59k URLs total), so we fetch each child and batch by 10 000.
  *
  * Usage: node scripts/indexnow-ping.mjs
  * Exit code 1 on failure so CI can fail loudly.
@@ -24,29 +25,46 @@ const INDEXNOW_ENDPOINT = 'https://api.indexnow.org/IndexNow'
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 
-async function fetchSitemapUrls() {
-  // The workflow fires on every push and waits a fixed delay for Vercel. If the
-  // deploy is slow or a build is mid-flight, the sitemap can transiently return
-  // a 5xx/404. Retry a few times before giving up so we don't fail CI (and send
-  // a failure email) for a transient deploy window.
-  let res
+// Fetch an XML document with retries. The workflow fires on every push and waits
+// a fixed delay for Vercel; if the deploy is slow the sitemap can transiently
+// return 5xx/404, so retry before giving up (don't fail CI on a deploy window).
+async function fetchXml(url) {
   const ATTEMPTS = 5
+  let res
   for (let i = 1; i <= ATTEMPTS; i++) {
     try {
-      res = await fetch(SITEMAP_URL, { redirect: 'follow' })
+      res = await fetch(url, { redirect: 'follow' })
       if (res.ok) break
-      console.log(`   sitemap attempt ${i}/${ATTEMPTS}: HTTP ${res.status}, retrying…`)
+      console.log(`   fetch ${url} attempt ${i}/${ATTEMPTS}: HTTP ${res.status}, retrying…`)
     } catch (e) {
-      console.log(`   sitemap attempt ${i}/${ATTEMPTS}: ${e.message}, retrying…`)
+      console.log(`   fetch ${url} attempt ${i}/${ATTEMPTS}: ${e.message}, retrying…`)
     }
     if (i < ATTEMPTS) await sleep(30000)
   }
-  if (!res || !res.ok) throw new Error(`Sitemap fetch failed after ${ATTEMPTS} attempts: ${res ? res.status : 'no response'}`)
-  const xml = await res.text()
-  // Naive but robust: pull every <loc>…</loc>
-  const urls = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1].trim())
+  if (!res || !res.ok) throw new Error(`Fetch failed after ${ATTEMPTS} attempts: ${url} (${res ? res.status : 'no response'})`)
+  return res.text()
+}
+
+const locsOf = (xml) => [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1].trim())
+
+async function fetchSitemapUrls() {
+  const rootXml = await fetchXml(SITEMAP_URL)
+  const rootLocs = locsOf(rootXml)
+  let pageUrls
+  if (/<sitemapindex/i.test(rootXml)) {
+    // Sitemap index: each <loc> is a child sitemap. Fetch each and collect pages.
+    pageUrls = []
+    for (const child of rootLocs) {
+      const childXml = await fetchXml(child)
+      const childLocs = locsOf(childXml)
+      console.log(`   child ${child}: ${childLocs.length} URLs`)
+      pageUrls.push(...childLocs)
+    }
+  } else {
+    pageUrls = rootLocs
+  }
   // Dedupe and keep only same-host URLs (IndexNow requirement)
-  return [...new Set(urls)].filter(u => {
+  return [...new Set(pageUrls)].filter(u => {
     try { return new URL(u).host === HOST } catch { return false }
   })
 }

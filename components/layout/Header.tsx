@@ -204,8 +204,8 @@ export default function Header({ locale, dict }: HeaderProps) {
           </nav>
 
           <div className="flex items-center gap-3">
-            {/* Locale switcher */}
-            <div className="flex items-center gap-1 text-sm">
+            {/* Locale switcher (desktop; mobile lives in the hamburger menu) */}
+            <div className="hidden md:flex items-center gap-1 text-sm">
               {(Object.keys(localeLabels) as Locale[]).map((l, i) => (
                 <span key={l} className="flex items-center">
                   {i > 0 && <span className="text-gray-300 mx-1">|</span>}
@@ -295,6 +295,27 @@ export default function Header({ locale, dict }: HeaderProps) {
                 </Link>
               </li>
             ))}
+
+            {/* Language switcher (mobile) */}
+            <li className="mt-2 pt-3 border-t border-gray-100">
+              <div className="flex flex-wrap gap-2 px-2">
+                {(Object.keys(localeLabels) as Locale[]).map((l) => (
+                  <Link
+                    key={l}
+                    href={getLocaleHref(l)}
+                    onClick={() => setMenuOpen(false)}
+                    aria-current={l === locale ? 'true' : undefined}
+                    className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
+                      l === locale
+                        ? 'bg-blue-600 text-white'
+                        : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                    }`}
+                  >
+                    {localeLabels[l]}
+                  </Link>
+                ))}
+              </div>
+            </li>
           </ul>
         </nav>
       )}

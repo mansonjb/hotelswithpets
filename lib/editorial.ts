@@ -15038,7 +15038,7 @@ export function generateIntro(
   hotelCount: number,
   locale: string = 'en'
 ): string[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' || locale === 'it' ? locale : 'en'
   const ctxMap = destContextByLocale[l] ?? destContextByLocale['en']
   const ctx = ctxMap[destSlug] ?? {
     personality: 'a popular European destination',
@@ -15072,6 +15072,12 @@ export function generateIntro(
         `Alle hotels op deze lijst accepteren huisdieren met minimale beperkingen. We raden aan om de details van jouw huisdier (grootte, ras, aantal dieren) bij het boeken rechtstreeks met het hotel te bevestigen.`,
       ]
     }
+    if (l === 'it') {
+      return [
+        `${destName} offre una selezione crescente di hotel pet-friendly. Queste ${hotelCount} strutture sono state selezionate a mano per la loro genuina accoglienza verso gli animali, politiche pet confermate e ottimi punteggi di soddisfazione degli ospiti.`,
+        `Tutti gli hotel di questa lista accettano animali con restrizioni minime. Ti consigliamo di confermare i dettagli del tuo animale (taglia, razza, numero di animali) direttamente con la struttura al momento della prenotazione.`,
+      ]
+    }
     return [
       `${destName} has a growing selection of pet-friendly hotels. These ${hotelCount} properties have been handpicked for their genuine welcome to animals, confirmed pet policies, and guest satisfaction scores.`,
       `All hotels on this list accept pets with minimal restrictions. We recommend confirming your specific pet's details (size, breed, number of animals) directly with the property when booking.`,
@@ -15095,13 +15101,14 @@ export function generateFaqs(
   hotels: Array<{ name: string; petFee: number; petPolicy: string; stars: number }>,
   locale: string = 'en'
 ): Faq[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' || locale === 'it' ? locale : 'en'
   const { free } = petFeeStats(hotels)
   const topHotel = hotels[0]?.name ?? (
     l === 'fr' ? 'l\'hôtel le mieux noté' :
     l === 'es' ? 'el hotel mejor valorado' :
     l === 'de' ? 'das bestbewertete Hotel' :
     l === 'nl' ? 'het best beoordeelde hotel' :
+    l === 'it' ? 'l\'hotel più votato' :
     'the top-rated hotel'
   )
 
@@ -15278,6 +15285,66 @@ export function generateFaqs(
       'near-parks': {
         q: `Zijn de parken bij deze hotels geschikt voor honden zonder lijn?`,
         a: `De meeste parken die je vanaf de hotels op deze lijst kunt bereiken, hebben aangewezen losloopzones, al verschillen de regels per tijdstip en zone. De receptie van alle vermelde hotels kan een actuele kaart van hondvriendelijke parken verstrekken. Draag ook in losloopzones altijd een lijn bij je, want sommige gebieden worden ook gebruikt door gezinnen met kleine kinderen.`,
+      },
+    }
+
+    if (extra[catSlug]) base.push(extra[catSlug])
+    return base
+  }
+
+  if (l === 'it') {
+    const freeNote =
+      free > 0
+        ? `${free} dei ${hotels.length} hotel di questa lista non applicano alcun supplemento per animali.`
+        : 'La maggior parte degli hotel applica un piccolo costo di pulizia di 10-30 € a soggiorno.'
+
+    const base: Faq[] = [
+      {
+        q: `Gli hotel ${catName.toLowerCase()} sono facili da trovare a ${destName}?`,
+        a: `Sì: ${destName} offre una buona scelta di strutture davvero ${catName.toLowerCase()}. I ${hotels.length} hotel di questa pagina sono stati verificati per accettare animali con politiche esplicite, non semplici tolleranze vaghe. Detto questo, le camere pet-friendly si riempiono in fretta in alta stagione, quindi prenotare con almeno 6-8 settimane di anticipo è consigliabile.`,
+      },
+      {
+        q: `Qual è il supplemento animali tipico negli hotel di ${destName}?`,
+        a: `${freeNote} I costi variano da 0 a 50 € a seconda della categoria della struttura e del tipo di animale. Verifica sempre l'importo esatto indicato nella politica pet dell'hotel al momento della prenotazione. A volte il supplemento è per notte anziché per soggiorno.`,
+      },
+      {
+        q: `Qual è il limite di peso abituale negli hotel di ${destName}?`,
+        a: `La maggior parte degli hotel a ${destName} fissa un peso massimo di 15-25 kg. Alcune strutture, tra cui ${topHotel}, accettano cani senza limiti di taglia. Le politiche pet individuali su ogni scheda qui sopra riportano i dettagli; conferma sempre con l'hotel se il tuo cane supera i 20 kg.`,
+      },
+      {
+        q: `Posso lasciare il mio animale da solo in camera d'albergo a ${destName}?`,
+        a: `Le politiche variano da hotel a hotel. Alcuni permettono di lasciare l'animale da solo in camera (spesso in un trasportino), altri richiedono che il proprietario sia sempre presente. L'approccio più sicuro è chiamare direttamente l'hotel. Il personale può in genere consigliare servizi locali di pet-sitting se necessario.`,
+      },
+      {
+        q: `Qual è il periodo migliore per visitare ${destName} con un animale?`,
+        a: `La primavera (aprile-maggio) e l'inizio dell'autunno (settembre-ottobre) sono ideali. Le temperature sono miti, meno turisti significa strade e parchi più tranquilli, e la maggior parte degli hotel non è ancora a piena occupazione di alta stagione. L'estate può essere molto calda a ${destName}, il che è duro per gli animali, e la disponibilità di camere pet-friendly si riduce parecchio a luglio-agosto.`,
+      },
+      {
+        q: `Qual è la stagione migliore per visitare ${destName} con un cane?`,
+        a: `Per i soggiorni ${catName.toLowerCase()} a ${destName}, la primavera (marzo-maggio) e l'autunno (settembre-novembre) offrono le condizioni migliori. Le temperature sono piacevoli per le passeggiate, i parchi sono meno affollati e gli hotel offrono spesso tariffe migliori fuori stagione. In estate, attenzione al grande caldo, che può essere faticoso per i cani, soprattutto per le razze brachicefale.`,
+      },
+      {
+        q: `Quale quartiere di ${destName} è il migliore per gli hotel ${catName.toLowerCase()}?`,
+        a: `La scelta del quartiere dipende dal tuo stile di viaggio. I quartieri centrali offrono facile accesso a ristoranti e musei, ma possono essere rumorosi. I quartieri residenziali o vicino ai parchi sono generalmente più adatti agli animali, con più verde nelle vicinanze. Gli hotel di questa lista sono stati scelti anche per la loro posizione pratica per chi viaggia con animali. Consulta la mappa qui sopra per confrontare le posizioni.`,
+      },
+    ]
+
+    const extra: Record<string, Faq> = {
+      'beach-access': {
+        q: `I cani sono ammessi sulle spiagge di ${destName}?`,
+        a: `L'accesso dei cani alle spiagge di ${destName} varia da spiaggia a spiaggia e a seconda della stagione. Molte spiagge europee ammettono i cani in bassa stagione (primavera e autunno) ma impongono restrizioni severe da giugno a settembre in alta stagione. Fuori dalla stagione estiva, gli orari di accesso sono spesso più flessibili (prima delle 9 e dopo le 19 in estate). Gli hotel con accesso diretto alla spiaggia possono consigliarti i momenti e i punti migliori per i cani. Chiedi sempre al check-in una mappa aggiornata delle spiagge dog-friendly.`,
+      },
+      'dogs-stay-free': {
+        q: `"Cani gratis" significa anche senza deposito cauzionale?`,
+        a: `Nella maggior parte dei casi sì. Gli hotel che pubblicizzano nessun supplemento animali di solito non chiedono nemmeno un deposito cauzionale. Tuttavia l'hotel può comunque addebitare danni documentati causati dal tuo animale. Leggi sempre con attenzione la politica pet completa e conserva una copia della conferma di prenotazione che indica la politica senza supplemento.`,
+      },
+      'luxury': {
+        q: `Quali comfort di lusso posso aspettarmi per il mio animale negli hotel di ${destName}?`,
+        a: `Gli hotel di alta gamma a ${destName} hanno alzato notevolmente l'asticella. Aspettati kit di benvenuto (cuccia, ciotola, snack, gioco), menu in camera per animali, servizio passeggiate con il concierge e coccole serali. Alcune strutture offrono pacchetti spa pet-friendly o possono organizzare visite veterinarie. ${topHotel} è particolarmente noto per i suoi servizi dedicati agli animali. Verifica l'offerta esatta al momento della prenotazione.`,
+      },
+      'near-parks': {
+        q: `I parchi vicino a questi hotel sono adatti ai cani senza guinzaglio?`,
+        a: `La maggior parte dei parchi raggiungibili a piedi dagli hotel di questa lista ha zone libere dal guinzaglio designate, anche se le regole variano a seconda dell'orario e della zona specifica. La reception di tutti gli hotel elencati può fornire una mappa aggiornata dei parchi dog-friendly. Porta sempre con te un guinzaglio anche nelle zone libere, perché alcune aree sono condivise con famiglie e bambini piccoli.`,
       },
     }
 
@@ -15813,7 +15880,7 @@ export function generateWhy(
   catSlug: string,
   locale: string = 'en'
 ): WhySection {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' || locale === 'it' ? locale : 'en'
   const ctx = (destContextByLocale[l] ?? destContextByLocale['en'])[destSlug] ?? {
     personality: l === 'fr' ? 'une destination européenne populaire' : l === 'es' ? 'un destino europeo popular' : l === 'de' ? 'ein beliebtes europäisches Reiseziel' : l === 'nl' ? 'een populaire Europese bestemming' : 'a popular European destination',
     highlight: l === 'fr' ? 'les espaces verts locaux' : l === 'es' ? 'los espacios verdes locales' : l === 'de' ? 'lokale Parks und Grünflächen' : l === 'nl' ? 'lokale parken en groene ruimtes' : 'local parks and green spaces',
@@ -15943,13 +16010,13 @@ export function generateTestimonial(
   catSlug: string,
   locale: string = 'en'
 ): Testimonial | null {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' || locale === 'it' ? locale : 'en'
   const fn = (testimonialsByLocale[l] ?? testimonialsByLocale['en'])[catSlug]
   return fn ? fn(destName) : null
 }
 
 export function generateTips(catSlug: string, destName: string, locale: string = 'en'): Tip[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' || locale === 'it' ? locale : 'en'
   const tipsMap = catTipsByLocale[l] ?? catTipsByLocale['en']
   const tips = tipsMap[catSlug]
   if (tips) return tips
@@ -15991,6 +16058,15 @@ export function generateTips(catSlug: string, destName: string, locale: string =
       { n: 5, title: 'Laat na je verblijf een review achter', text: 'Uitgebreide reviews van huisdiereigenaren helpen toekomstige reizigers om echt gastvrije hotels te vinden, en moedigen hotels aan om hoge standaarden te behouden.' },
     ]
   }
+  if (l === 'it') {
+    return [
+      { n: 1, title: 'Prenota in anticipo', text: `Le camere pet-friendly a ${destName} sono limitate e si riempiono in fretta in alta stagione. Prenotare con 6-8 settimane di anticipo è consigliabile.` },
+      { n: 2, title: 'Conferma la politica pet direttamente', text: 'Anche dopo la prenotazione, una breve email o telefonata per confermare i dettagli del tuo animale garantisce un check-in senza intoppi.' },
+      { n: 3, title: 'Prepara l\'essenziale', text: 'Documenti di vaccinazione, passaporto europeo per animali per attraversare le frontiere, cibo per il viaggio e una coperta familiare da casa.' },
+      { n: 4, title: 'Chiedi dei servizi locali per animali', text: 'Il personale del concierge può consigliare veterinari locali, dog sitter, toelettatori e terrazze di ristoranti dog-friendly.' },
+      { n: 5, title: 'Lascia una recensione dopo il soggiorno', text: 'Recensioni dettagliate da parte di chi viaggia con animali aiutano i futuri viaggiatori a trovare hotel davvero accoglienti e incoraggiano le strutture a mantenere standard elevati.' },
+    ]
+  }
   return [
     { n: 1, title: 'Book early', text: `Pet-friendly rooms in ${destName} are limited and fill quickly in peak season. Booking 6–8 weeks ahead is advisable.` },
     { n: 2, title: 'Verify the pet policy directly', text: 'Even after booking, a quick email or call to confirm your specific pet\'s details ensures a smooth check-in.' },
@@ -16018,9 +16094,9 @@ export function generateDestFaqs(
   hotelCount: number,
   locale: string = 'en'
 ): Faq[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' || locale === 'it' ? locale : 'en'
   const ctx = (destContextByLocale[l] ?? destContextByLocale['en'])[destSlug]
-  const highlight = ctx?.highlight ?? (l === 'fr' ? 'ses parcs et espaces verts' : l === 'es' ? 'sus parques y espacios verdes' : l === 'de' ? 'seine Parks und Grünflächen' : l === 'nl' ? 'zijn parken en groene ruimtes' : 'its parks and green spaces')
+  const highlight = ctx?.highlight ?? (l === 'fr' ? 'ses parcs et espaces verts' : l === 'es' ? 'sus parques y espacios verdes' : l === 'de' ? 'seine Parks und Grünflächen' : l === 'nl' ? 'zijn parken en groene ruimtes' : l === 'it' ? 'i suoi parchi e spazi verdi' : 'its parks and green spaces')
 
   if (l === 'fr') {
     return [
@@ -16082,6 +16158,26 @@ export function generateDestFaqs(
       },
     ]
   }
+  if (l === 'it') {
+    return [
+      {
+        q: `Gli hotel di ${destName} accettano davvero gli animali?`,
+        a: `Sì. I ${hotelCount} hotel elencati in questa pagina sono stati verificati per avere una politica esplicita di accettazione degli animali su Booking.com. Non elenchiamo hotel che si limitano a indicare "soggetto a disponibilità". Ogni struttura accoglie attivamente gli animali.`,
+      },
+      {
+        q: `Quali sono i posti migliori per portare a spasso il cane a ${destName}?`,
+        a: `${destName} offre ottime opzioni: ${highlight}. Queste aree permettono ai cani di muoversi liberamente, a poca distanza dagli hotel di questa lista.`,
+      },
+      {
+        q: `Qual è il supplemento medio per animali negli hotel di ${destName}?`,
+        a: `I supplementi per animali variano solitamente tra 0 e 30 € a notte a ${destName}. Alcune strutture premium possono arrivare a 50 €. Circa il 40% delle strutture della nostra lista non applica alcun supplemento aggiuntivo. Filtra per "cani gratis" per trovarle.`,
+      },
+      {
+        q: `Serve un passaporto per animali per viaggiare a ${destName}?`,
+        a: `Se viaggi dall'UE, per ${country} è consigliato un passaporto europeo per animali (con vaccino antirabbico aggiornato). Fuori dall'UE, verifica i requisiti d'ingresso presso l'ambasciata di ${country} nel tuo paese di residenza.`,
+      },
+    ]
+  }
   if (l === 'es') {
     return [
       {
@@ -16123,7 +16219,7 @@ export function generateDestFaqs(
 }
 
 export function generateDestIntro(destSlug: string, destName: string, country: string, locale: string = 'en'): string {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' || locale === 'it' ? locale : 'en'
   const ctxMap = destContextByLocale[l] ?? destContextByLocale['en']
   const ctx = ctxMap[destSlug]
   if (!ctx) return ''
@@ -16139,6 +16235,9 @@ export function generateDestIntro(destSlug: string, destName: string, country: s
   }
   if (l === 'nl') {
     return `${destName} is ${ctx.personality}. De beste plekken voor huisdieren zijn ${ctx.highlight}, vooral rond ${ctx.area}.`
+  }
+  if (l === 'it') {
+    return `${destName} è ${ctx.personality}. I posti migliori per gli animali sono ${ctx.highlight}, soprattutto nella zona di ${ctx.area}.`
   }
   return `${destName} is ${ctx.personality}. Top spots for pets include ${ctx.highlight}, especially around ${ctx.area}.`
 }

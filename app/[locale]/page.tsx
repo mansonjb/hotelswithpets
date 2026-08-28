@@ -128,6 +128,9 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
           fr: { kicker: 'PLANIFICATEUR', title: `Où partir avec son chien en ${mn} ?`, desc: 'Nos 6 choix de saison : météo assez fraîche, plages canines ouvertes, parcs et points d\'eau, avec carte des hôtels en direct et le kit à emporter.', cta: `Voir les choix de ${mn} →` },
           es: { kicker: 'PLANIFICADOR', title: `¿Dónde viajar con tu perro en ${mn}?`, desc: 'Nuestras 6 elecciones de temporada: clima fresco, playas caninas abiertas, parques y puntos de agua, con mapa de hoteles en vivo y el kit para llevar.', cta: `Ver elecciones de ${mn} →` },
           pt: { kicker: 'PLANEADOR', title: `Onde viajar com o seu cão em ${mn}?`, desc: 'As nossas 6 escolhas da época: clima fresco, praias caninas abertas, parques e pontos de água, com mapa de hotéis ao vivo e o kit para levar.', cta: `Ver escolhas de ${mn} →` },
+          de: { kicker: 'PLANER', title: `Wohin mit dem Hund im ${mn}?`, desc: 'Unsere 6 saisonalen Tipps: angenehm kühles Wetter, geöffnete Hundestrände, Parks und Wasserstellen, mit Live-Hotelkarte und Packliste.', cta: `${mn}-Tipps ansehen →` },
+          nl: { kicker: 'PLANNER', title: `Waarheen met je hond in ${mn}?`, desc: 'Onze 6 seizoenskeuzes: aangenaam koel weer, open hondenstranden, parken en waterplekken, met live hotelkaart en de inpaklijst.', cta: `Bekijk ${mn}-keuzes →` },
+          it: { kicker: 'PIANIFICATORE', title: `Dove andare con il tuo cane a ${mn}?`, desc: `Le nostre 6 scelte di stagione: clima abbastanza fresco, spiagge per cani aperte, parchi e punti d'acqua, con mappa degli hotel in diretta e il kit da portare.`, cta: `Vedi le scelte di ${mn} →` },
         }
         const c = COPY[locale] ?? COPY.en
         return (

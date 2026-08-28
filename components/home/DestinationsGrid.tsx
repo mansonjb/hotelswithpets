@@ -12,6 +12,7 @@ function labels(locale: Locale) {
   if (locale === 'pt') return { categories: 'categorias', cat: 'cat.', from: 'a partir de', perNight: '/noite' }
   if (locale === 'nl') return { categories: 'Categorieën', cat: 'Cat.', from: 'vanaf', perNight: '/nacht' }
   if (locale === 'de') return { categories: 'Kategorien', cat: 'Kat.', from: 'ab', perNight: '/Nacht' }
+  if (locale === 'it') return { categories: 'categorie', cat: 'cat.', from: 'da', perNight: '/notte' }
   return { categories: 'categories', cat: 'cat.', from: 'from', perNight: '/night' }
 }
 

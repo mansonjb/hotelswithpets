@@ -14,6 +14,7 @@ const STICKY_LABELS_HOTEL: Record<string, { label: string; cta: string }> = {
   pt: { label: 'Os hotéis pet-friendly melhor avaliados de Europa', cta: 'Ver hotéis' },
   de: { label: 'Die bestbewerteten haustierfreundlichen Hotels in Europa', cta: 'Hotels ansehen' },
   nl: { label: 'De best beoordeelde huisdiervriendelijke hotels in Europa', cta: 'Bekijk hotels' },
+  it: { label: `Gli hotel pet-friendly più apprezzati d'Europa`, cta: 'Vedi gli hotel' },
 }
 
 export async function generateStaticParams() {
@@ -1142,6 +1143,184 @@ const COPY = {
     relatedDestTitle: 'Topbestemmingen voor huisdiervriendelijke reizen in Europa',
     relatedDestText: 'Vind de beste hotels voor je huisdier in deze bestemmingen',
   },
+
+  it: {
+    breadcrumbGuides: 'Guide',
+    breadcrumbThis: 'Come scegliere un hotel pet-friendly',
+    badge: 'La guida definitiva',
+    hero: `Come scegliere un hotel davvero pet-friendly in Europa`,
+    subtitle: `Questa guida ti evita brutte sorprese al check-in. Perché "pet-friendly" può significare di tutto, da una tolleranza a denti stretti fino a un vero kit di benvenuto per il tuo cane.`,
+    lastUpdate: 'Aggiornato a',
+
+    realityTitle: `"Pet-friendly" significa cose molto diverse`,
+    realityText: [
+      `Cerchi "hotel pet-friendly", filtri, prenoti, e arrivi alla reception con il tuo cane per scoprire un supplemento di 50 €/notte, il divieto di accesso alla sala colazione e un cartello plastificato che dice "gli animali non devono mai essere lasciati incustoditi". Benvenuto.`,
+      `All'altro estremo, gli hotel davvero accoglienti per gli animali offrono un kit di benvenuto per cani (snack, un giocattolo, una ciotola), un menu dedicato ai cani al ristorante, personale che conosce le migliori passeggiate della zona e una camera al piano terra con accesso diretto al giardino. Questi hotel esistono in tutta Europa, a ogni fascia di prezzo.`,
+      `Il problema è che le piattaforme di prenotazione usano la stessa etichetta "pet-friendly" per entrambi. Questa guida ti insegna a distinguerli prima di arrivare.`,
+    ],
+
+    redFlagsTitle: 'Segnali d\'allarme: le frasi a cui prestare attenzione',
+    redFlagsIntro: `Individua queste frasi nella descrizione o nella policy animali di un hotel e procedi con cautela, o con una telefonata prima di prenotare.`,
+    redFlags: [
+      { flag: `"Animali su richiesta"`, meaning: `Significa che ti faranno sapere se il tuo animale specifico è benvenuto. Traduzione: non è davvero pet-friendly.` },
+      { flag: `"Solo animali di piccola taglia" (senza taglia definita)`, meaning: `Cosa conta come piccolo? 5 kg? 10 kg? Se non è indicato un peso, il tuo Beagle da 12 kg potrebbe essere respinto alla porta.` },
+      { flag: `"Animali ammessi solo negli spazi esterni"`, meaning: `Il tuo cane aspetta fuori mentre tu dormi, mangi e vivi. Tradotto: il tuo cane resta legato nel parcheggio.` },
+      { flag: `Nessuna menzione di limiti di peso o razza, ma un tetto di 5 kg nelle note in piccolo`, meaning: `Leggi sempre la policy animali completa, non solo il risultato del filtro. Il badge "pet-friendly" di Booking.com non garantisce che il tuo cane specifico sia idoneo.` },
+      { flag: `"Supplemento animali addebitato al check-in" (importo non indicato)`, meaning: `Un assegno in bianco che firmi a mezzanotte dopo un lungo viaggio. Conferma sempre l'importo esatto prima di prenotare.` },
+      { flag: `"Camere pet-friendly disponibili"`, meaning: `Spesso significa una sola camera, la più lontana dall'ascensore, di fronte all'ingresso di servizio, prenotata per i prossimi sei mesi.` },
+      { flag: `Nessuna menzione di animali sul sito dell'hotel`, meaning: `Se un hotel è orgoglioso di essere pet-friendly, lo dice a voce alta. Il silenzio di solito significa tolleranza, non vera accoglienza.` },
+    ],
+
+    greenFlagsTitle: 'Segnali positivi: i segni di un hotel davvero pet-friendly',
+    greenFlagsIntro: `Ecco cosa distingue gli hotel che accolgono davvero gli animali da quelli che si limitano a tollerarli.`,
+    greenFlags: [
+      { flag: `Supplemento animali indicato chiaramente (o esplicitamente gratuito)`, meaning: `La trasparenza sui prezzi è l'indicatore più affidabile di un hotel che ha riflettuto seriamente sull'accoglienza degli animali.` },
+      { flag: `Nessuna restrizione di razza o peso (o limiti indicati chiaramente)`, meaning: `Se accettano tutte le razze e le taglie, o indicano chiaramente i limiti, hanno fatto il lavoro di stabilire una vera policy.` },
+      { flag: `Cuccia, ciotola, tappetino forniti su richiesta`, meaning: `Dimostra investimento nell'infrastruttura. Questi hotel hanno integrato l'accoglienza degli animali nella loro gestione.` },
+      { flag: `Snack per cani alla reception o un menu dedicato ai cani`, meaning: `Questo è lo standard di riferimento. Un hotel con un menu per cani ha davvero abbracciato l'ospitalità per animali.` },
+      { flag: `Personale che conosce le passeggiate locali per cani`, meaning: `Chiedi quando telefoni per confermare: "Può consigliarmi una passeggiata con il cane nei dintorni?" Una buona risposta è un ottimo segnale.` },
+      { flag: `Camere al piano terra o accesso garantito all'ascensore`, meaning: `Una camera "pet-friendly" al 5° piano senza ascensore non è davvero pet-friendly per chi ha un cane di grossa taglia o problemi di mobilità.` },
+      { flag: `Doccia esterna o stazione per il lavaggio delle zampe`, meaning: `Infrastruttura curata nei dettagli. Particolarmente utile dopo una passeggiata in spiaggia o in campagna.` },
+      { flag: `Servizio di pet-sitting o passeggiate disponibile`, meaning: `Raro ma prezioso. Segnala un hotel che vede gli animali come ospiti a tutti gli effetti, non come un problema da gestire.` },
+    ],
+
+    questionsTitle: 'Domande da fare prima di prenotare',
+    questionsIntro: `Telefona o scrivi direttamente all'hotel prima di confermare. Queste sette domande ti diranno tutto quello che devi sapere.`,
+    questions: [
+      `Qual è il supplemento animali esatto a notte, ed è per animale?`,
+      `Tutte le tipologie e categorie di camera sono disponibili con un animale, o solo alcune camere specifiche?`,
+      `C'è un limite di peso o razza? (Indica la razza e il peso del tuo cane.)`,
+      `Il supplemento è rimborsabile se l'animale non causa danni?`,
+      `Gli animali sono ammessi negli spazi comuni, hall, ristorante, terrazza, area piscina?`,
+      `C'è un'area esterna dedicata ai bisogni dell'animale o un parco nelle vicinanze?`,
+      `Possiamo lasciare il nostro animale incustodito in camera? Ci sono limiti di tempo?`,
+    ],
+    questionsTip: `Consiglio da esperti: invia queste domande via email così hai le risposte per iscritto. Se la risposta dell'hotel è vaga, evasiva, o richiede più di 48 ore, anche questo ti dice qualcosa.`,
+
+    platformsTitle: 'Come le piattaforme di prenotazione gestiscono il "pet-friendly"',
+    platforms: [
+      {
+        name: 'Booking.com',
+        icon: '🔵',
+        how: `Gli hotel si autodichiarano pet-friendly quando creano il loro annuncio. Il filtro mostra tutte le strutture che hanno spuntato la casella, ma quella casella copre di tutto, da "un gatto sotto i 3 kg" a "tutti gli animali benvenuti, nessun supplemento". La policy reale è nascosta nella scheda dei dettagli della struttura. Clicca sempre per approfondire.`,
+        tip: `Dopo aver filtrato, apri la pagina dell'hotel e cerca la sezione "Animali" sotto "Regole della struttura". Spesso rivela limiti di peso, costi e restrizioni non mostrati nell'annuncio principale.`,
+      },
+      {
+        name: 'Airbnb',
+        icon: '🔴',
+        how: `Gli host attivano l'opzione "animali ammessi". Le spese di pulizia possono essere significative. Alcuni host hanno allergie non dichiarate o divieti dettati dal regolamento del proprio condominio. Contatta l'host prima di prenotare per confermare l'accettazione del tuo animale specifico.`,
+        tip: `Le policy di cancellazione di Airbnb sono più rigide di quelle degli hotel. Conferma sempre l'accettazione del tuo animale prima di pagare la commissione di servizio non rimborsabile.`,
+      },
+      {
+        name: 'Expedia / Hotels.com',
+        icon: '🟡',
+        how: `Sistema di autodichiarazione simile a Booking.com. Le policy animali variano enormemente. Il filtro "pet-friendly" è un punto di partenza, non una garanzia.`,
+        tip: `Usa queste piattaforme per scoprire le opzioni, poi verifica direttamente con l'hotel prima di prenotare un soggiorno con animale.`,
+      },
+      {
+        name: `Prenotazione diretta con l'hotel`,
+        icon: '✅',
+        how: `Sempre lo standard di riferimento per i soggiorni con animali. Puoi fare domande specifiche, richiedere la camera più adatta e a volte negoziare il supplemento, soprattutto fuori dall'alta stagione.`,
+        tip: `Molti hotel indipendenti offrono le loro migliori condizioni per gli animali quando prenoti direttamente, perché possono avere un vero confronto con te sulle esigenze del tuo animale.`,
+      },
+    ],
+    platformsConclusion: `La regola universale: filtra su una piattaforma per scoprire le opzioni, poi telefona o scrivi direttamente all'hotel per confermare. Questo unico passaggio elimina il 90% delle brutte sorprese al check-in.`,
+
+    pricesTitle: 'Cosa aspettarsi di pagare: i supplementi animali in Europa (2025)',
+    pricesIntro: `I supplementi animali variano enormemente in Europa. Ecco cosa è normale, cosa è accettabile e cosa è eccessivo.`,
+    priceTiers: [
+      { range: 'Gratis', label: 'Gratis / Nessun supplemento', desc: `Sempre più comune negli hotel indipendenti, nelle boutique e nei paesi molto pet-friendly come Germania e Paesi Bassi. Se un hotel lo pubblicizza, prendilo sulla parola, è un vero elemento distintivo.`, color: 'emerald' },
+      { range: '5–15 €/notte', label: 'Economico', desc: `Standard per hotel economici e di fascia media nell'Europa meridionale (Spagna, Portogallo, Italia, Grecia). Perfettamente ragionevole per quello che offre.`, color: 'blue' },
+      { range: '20–35 €/notte', label: 'Fascia media standard', desc: `Tipico per hotel 3-4 stelle in Francia, Belgio, Svizzera e Scandinavia. Spesso include servizi per animali. Accettabile se l'hotel si occupa davvero degli animali.`, color: 'amber' },
+      { range: '50 €+/notte', label: 'Fascia lusso', desc: `Comune negli hotel a cinque stelle e di design. Può includere servizi premium (menu per animali, pet-sitting, biancheria specializzata). Alcuni applicano una tariffa fissa per soggiorno anziché per notte.`, color: 'purple' },
+      { range: '80–150 €+', label: 'Zona d\'allarme', desc: `A questo livello, chiedi cosa copre il supplemento. Se è solo un sovrapprezzo senza servizi, negozia o cerca altrove. Alcuni hotel cittadini a Parigi e Londra hanno storicamente applicato cifre spropositate senza alcun servizio corrispondente.`, color: 'red' },
+    ],
+    pricesNote: `Nota: alcuni paesi aggiungono separatamente una tassa di soggiorno per gli animali. Conferma sempre l'importo totale, incluso l'eventuale deposito cauzionale, di norma rimborsabile.`,
+
+    categoriesTitle: 'Tipi di hotel pet-friendly: quale fa per te?',
+    categories: [
+      {
+        type: 'Hotel dog-friendly',
+        icon: '🐕',
+        desc: `La categoria più comune. Cerca strutture che accolgono esplicitamente cani di tutte le taglie, hanno spazi esterni e sono vicine a parchi o percorsi per passeggiate.`,
+        link: '/categories/dog-friendly',
+        linkLabel: 'Sfoglia gli hotel dog-friendly',
+      },
+      {
+        type: 'Hotel cat-friendly',
+        icon: '🐈',
+        desc: `Meno comune e spesso trascurata. I gatti hanno esigenze diverse: comfort interno, nessun vicino canino, piani tranquilli. Alcuni hotel si rivolgono esplicitamente ai gatti con zone dedicate.`,
+        link: '/categories/cat-friendly',
+        linkLabel: 'Sfoglia gli hotel cat-friendly',
+      },
+      {
+        type: 'Cani gratis',
+        icon: '🆓',
+        desc: `Un segmento in crescita in tutta Europa. Molti hotel indipendenti e boutique hanno eliminato del tutto i supplementi animali come elemento di distinzione competitiva. Vale la pena filtrare specificamente per questo.`,
+        link: '/categories/dogs-stay-free',
+        linkLabel: 'Trova hotel senza supplemento animali',
+      },
+      {
+        type: 'Soggiorni di lusso con animali',
+        icon: '⭐',
+        desc: `Gli hotel a cinque stelle in città come Parigi, Londra, Roma e Zurigo competono sempre di più sull'ospitalità per animali: regali di benvenuto, menu per cani in camera, servizi di concierge dedicati e pet-sitting.`,
+        link: '/categories/luxury-pet-friendly',
+        linkLabel: 'Scopri gli hotel di lusso per animali',
+      },
+      {
+        type: 'Soggiorni vicino a parchi e in campagna',
+        icon: '🌲',
+        desc: `Per cani che hanno bisogno di spazio: hotel vicini a parchi nazionali, foreste o sentieri costieri. Docce esterne e stanze per l'asciugatura sono lo standard in questa categoria.`,
+        link: '/categories/countryside-pet-friendly',
+        linkLabel: 'Hotel pet-friendly in campagna',
+      },
+    ],
+
+    faqTitle: 'Domande frequenti',
+    faqs: [
+      {
+        q: `Qual è il supplemento animali medio in un hotel in Europa?`,
+        a: `Nel 2025, il supplemento animali medio in un hotel europeo va da gratuito a circa 25 € a notte. Le strutture economiche nell'Europa meridionale applicano tipicamente 10-15 €/notte. Gli hotel di fascia media in Francia, Belgio e Scandinavia si attestano in media sui 20-30 €/notte. Gli hotel di lusso possono chiedere 50 € o più, a volte con una tariffa fissa per soggiorno anziché per notte. Germania e Paesi Bassi hanno una grande percentuale di hotel che non applicano alcun costo.`,
+      },
+      {
+        q: `Posso lasciare il mio cane da solo in camera d'albergo?`,
+        a: `Le policy variano enormemente. Molti hotel lo permettono per brevi periodi (2-3 ore) se il tuo cane è abituato al trasportino e non abbaia. Altri lo vietano del tutto. Alcuni richiedono che gli animali stiano nel trasportino anche in tua presenza. Chiedi sempre in modo esplicito prima di prenotare, non darlo per scontato. Se devi lasciare il tuo cane con regolarità, cerca hotel con servizio di pet-sitting o vicini a strutture di dog-sitting diurno.`,
+      },
+      {
+        q: `Come faccio a capire se un hotel è davvero pet-friendly o si limita a tollerare gli animali?`,
+        a: `Gli indicatori più chiari sono: (1) trasparenza sui costi senza sorprese nascoste, (2) servizi specifici menzionati (cuccia, ciotole, snack, menu per cani), (3) personale in grado di rispondere con competenza alle tue domande sugli animali, e (4) recensioni online di altri proprietari di animali che raccontano la loro esperienza. Se la policy animali di un hotel si riduce a una riga che dice "animali ammessi, supplemento applicabile", trattala come tolleranza, non come vera accoglienza.`,
+      },
+      {
+        q: `Ci sono limiti di peso che dovrei conoscere prima di prenotare?`,
+        a: `Sì, i limiti di peso sono la fonte più comune di sorprese al check-in. Molti hotel nominalmente "pet-friendly" sulle piattaforme di prenotazione hanno un limite di 5 o 8 kg nascosto nella loro policy completa. I cani oltre i 10 kg spesso incontrano restrizioni o vengono rifiutati del tutto. Indica sempre razza e peso del tuo cane quando chiedi informazioni, e ottieni conferma scritta che il tuo cane specifico venga accettato.`,
+      },
+      {
+        q: `Il filtro pet-friendly di Booking.com è affidabile?`,
+        a: `Come punto di partenza, sì. Come garanzia, no. Il filtro mostra hotel che si sono autodichiarati pet-friendly, ma le policy variano enormemente. Clicca sempre sulla sezione completa "Regole della struttura" dell'hotel su Booking.com, e idealmente telefona o scrivi per confermare prima di prenotare. Questo vale per tutte le piattaforme di prenotazione, il filtro restringe il campo ma non fa il tuo lavoro di verifica al posto tuo.`,
+      },
+      {
+        q: `Qual è la differenza tra "pet-friendly" e "cani gratis"?`,
+        a: `"Pet-friendly" significa che gli animali sono ammessi, ma di solito con un supplemento. "Cani gratis" è una policy esplicita dell'hotel secondo cui non si applica alcun sovrapprezzo per gli animali. Questa seconda categoria è più piccola ma in crescita. Su HotelsWithPets.com puoi filtrare specificamente le strutture senza supplemento per evitare qualsiasi ambiguità.`,
+      },
+      {
+        q: `Devo dichiarare il mio animale al momento della prenotazione online?`,
+        a: `Sì, sempre. Non dichiarare il tuo animale durante la prenotazione e arrivare con lui è scorretto e può portare a essere invitati ad andarsene, soprattutto se l'hotel ha un numero limitato di camere pet-friendly. Annulla inoltre qualsiasi tutela prevista dalla policy sui danni causati da animali. Spunta sempre la casella di dichiarazione, indica il tipo e la taglia del tuo animale, e conferma direttamente con l'hotel.`,
+      },
+    ],
+
+    internalLinksTitle: 'Continua a esplorare',
+    internalLinks: [
+      { label: 'Sfoglia tutte le destinazioni pet-friendly in Europa', href: '/destinations' },
+      { label: 'Hotel dog-friendly', href: '/categories/dog-friendly' },
+      { label: 'Hotel dove i cani soggiornano gratis', href: '/categories/dogs-stay-free' },
+      { label: 'Requisiti del passaporto per animali per paese', href: '/guides/passeport-animal' },
+      { label: 'Tutte le guide di viaggio', href: '/guides' },
+      { label: 'Migliori destinazioni pet-friendly in Europa', href: '/destinations' },
+    ],
+
+    relatedDestTitle: 'Migliori destinazioni pet-friendly in Europa',
+    relatedDestText: 'Trova i migliori hotel per il tuo animale in queste destinazioni',
+  },
 }
 
 const PRICE_COLOR_MAP: Record<string, { bg: string; text: string; border: string; dot: string }> = {
@@ -1173,11 +1352,11 @@ export default async function HotelPetFriendlyGuidePage({
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
 
-  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' ? locale : 'en'
+  const lang = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' || locale === 'nl' || locale === 'it' ? locale : 'en'
   const copy = COPY[lang] ?? COPY.en
   const today = new Date()
   const monthYear = today.toLocaleDateString(
-    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'de' ? 'de-DE' : locale === 'nl' ? 'nl-NL' : 'en-GB',
+    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'de' ? 'de-DE' : locale === 'nl' ? 'nl-NL' : locale === 'it' ? 'it-IT' : 'en-GB',
     { month: 'long', year: 'numeric' }
   )
 

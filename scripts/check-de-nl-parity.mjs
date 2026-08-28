@@ -1,20 +1,19 @@
 /**
- * DE + NL completeness GUARD for city-guide JSON files.
+ * DE + NL + IT completeness GUARD for city-guide JSON files.
  *
- * Policy (since 2026-08-21): German (`*De`) and Dutch (`*Nl`) are first-class,
- * non-optional shipping languages, authored NATIVELY at ship time — exactly like
- * PT (see translate-to-pt.py). A destination must never ship with an English or
- * German fallback standing in for missing Dutch, and vice versa.
+ * Policy: German (`*De`, 2026-08-21), Dutch (`*Nl`, 2026-08-21) and Italian
+ * (`*It`, 2026-08-28) are first-class, non-optional shipping languages, authored
+ * NATIVELY at ship time — exactly like PT (see translate-to-pt.py). A destination
+ * must never ship with an English fallback standing in for a missing one.
  *
- * Rule: German and Dutch must move together. For every populated `<base>De`
- * field there MUST be a non-empty `<base>Nl` sibling, and for every populated
- * `<base>Nl` there MUST be a non-empty `<base>De`. This is the exact failure
- * mode this guard exists to catch: a new city shipped in German but not Dutch
- * (or vice versa), or a Dutch field silently regressing below its German twin.
- * EN/FR/ES/PT presence is already guaranteed by check-i18n + translate-to-pt.py.
- * Fields empty in both DE and NL (coming-soon sections) are ignored.
+ * Rule: DE, NL and IT move together. For any base field where at least one of
+ * `<base>De` / `<base>Nl` / `<base>It` is populated, ALL THREE must be non-empty.
+ * This catches the exact failure mode: a new city shipped in German/Dutch but not
+ * Italian (or any locale silently regressing below its twins). EN/FR/ES/PT
+ * presence is already guaranteed by check-i18n + translate-to-pt.py. Fields empty
+ * in all of DE/NL/IT (coming-soon sections) are ignored.
  *
- * Exit 0 = all DE + NL present. Exit 1 = gaps (listed).
+ * Exit 0 = all DE + NL + IT present. Exit 1 = gaps (listed).
  *
  *   node scripts/check-de-nl-parity.mjs            # check all city-guides
  *   node scripts/check-de-nl-parity.mjs zurich     # check specific cities
@@ -36,7 +35,9 @@ const isEmpty = (v) =>
 
 let gaps = 0
 
-/** Walk any node; at each object, require every populated De/Nl field to have its twin. */
+const LANGS = ['De', 'Nl', 'It']
+
+/** Walk any node; at each object, require De/Nl/It siblings to move together. */
 function walk(node, file, p) {
   if (Array.isArray(node)) {
     node.forEach((v, i) => walk(v, file, `${p}[${i}]`))
@@ -44,16 +45,19 @@ function walk(node, file, p) {
   }
   if (!node || typeof node !== 'object') return
 
+  // Collect the base names that carry any De/Nl/It sibling in this object.
+  const bases = new Set()
   for (const key of Object.keys(node)) {
-    let base, self, twinKey, twinLang
-    if (key.endsWith('De')) { base = key.slice(0, -2); twinLang = 'Nl' }
-    else if (key.endsWith('Nl')) { base = key.slice(0, -2); twinLang = 'De' }
-    else continue
-    self = node[key]
-    if (isEmpty(self)) continue
-    twinKey = base + twinLang
-    if (isEmpty(node[twinKey])) {
-      console.error(`❌ ${file}: ${p}.${key} is populated but its ${twinKey} twin is missing/empty`)
+    for (const lang of LANGS) {
+      if (key.endsWith(lang) && key.length > lang.length) bases.add(key.slice(0, -lang.length))
+    }
+  }
+  for (const base of bases) {
+    const present = LANGS.filter((lang) => !isEmpty(node[base + lang]))
+    if (present.length === 0) continue // coming-soon in all three: fine
+    const missing = LANGS.filter((lang) => isEmpty(node[base + lang]))
+    if (missing.length > 0) {
+      console.error(`❌ ${file}: ${p}.${base}{${present.join('/')}} populated but ${missing.map((l) => base + l).join(', ')} missing/empty`)
       gaps++
     }
   }
@@ -78,9 +82,9 @@ for (const f of files) {
 }
 
 if (gaps === 0) {
-  console.log(`✅ DE + NL parity: all localized fields have native de/nl across ${files.length} city-guide(s)`)
+  console.log(`✅ DE + NL + IT parity: all localized fields have native de/nl/it across ${files.length} city-guide(s)`)
   process.exit(0)
 } else {
-  console.error(`\n${gaps} DE/NL gap(s) found — author native German + Dutch before shipping.`)
+  console.error(`\n${gaps} DE/NL/IT gap(s) found — author native German + Dutch + Italian before shipping.`)
   process.exit(1)
 }

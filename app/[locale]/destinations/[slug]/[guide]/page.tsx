@@ -368,7 +368,9 @@ function getPlaceField(place: GuidePlace, field: string, locale: string): string
   const esVal = p[`${field}Es`]
   const ptVal = p[`${field}Pt`]
   const deVal = p[`${field}De`]
-  return loc(enVal ?? '', frVal, esVal, locale, ptVal, deVal)
+  const nlVal = p[`${field}Nl`]
+  const itVal = p[`${field}It`]
+  return loc(enVal ?? '', frVal, esVal, locale, ptVal, deVal, nlVal, itVal)
 }
 
 /**

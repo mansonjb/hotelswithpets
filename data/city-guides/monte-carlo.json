@@ -1,0 +1,1318 @@
+{
+  "slug": "monte-carlo",
+  "name": "Monte-Carlo",
+  "country": "Monaco",
+  "flag": "🇲🇨",
+  "lastUpdated": "2026-08-29",
+  "guides": {
+    "vets": {
+      "titleEn": "Emergency Vets in Monte-Carlo, Veterinary Clinics & Pet Care",
+      "introEn": "Monaco is small but well served for veterinary care, and crucially it has a genuine 24/7 option: La Petite Clinique in Fontvieille runs round-the-clock emergency cover with vets who speak English, French and Italian. Several day clinics sit near the Carré d'Or in the heart of Monte-Carlo, and more choices lie just over the border in Beausoleil and Cap d'Ail. Save a number before you arrive and, in a night emergency, call ahead so the clinic is ready for you.",
+      "titleFr": "Vétérinaires d'urgence à Monte-Carlo, cliniques vétérinaires et soins pour animaux",
+      "introFr": "Monaco est petite mais bien pourvue en soins vétérinaires, et surtout la Principauté dispose d'une véritable option 24/7 : La Petite Clinique, à Fontvieille, assure une permanence d'urgence à toute heure avec des vétérinaires qui parlent anglais, français et italien. Plusieurs cliniques de jour se trouvent près du Carré d'Or, au cœur de Monte-Carlo, et d'autres possibilités attendent juste de l'autre côté de la frontière, à Beausoleil et à Cap d'Ail. Enregistrez un numéro avant votre arrivée et, en cas d'urgence nocturne, prévenez la clinique par téléphone pour qu'elle vous attende.",
+      "titleEs": "Veterinarios de urgencia en Monte-Carlo, clínicas veterinarias y cuidado de mascotas",
+      "introEs": "Mónaco es pequeño pero está bien atendido en cuanto a asistencia veterinaria y, sobre todo, cuenta con una opción real 24/7: La Petite Clinique, en Fontvieille, ofrece cobertura de urgencias las veinticuatro horas con veterinarios que hablan inglés, francés e italiano. Varias clínicas de día se encuentran cerca del Carré d'Or, en pleno corazón de Monte-Carlo, y hay más opciones justo al otro lado de la frontera, en Beausoleil y Cap d'Ail. Guarda un número antes de llegar y, ante una urgencia nocturna, llama con antelación para que la clínica te espere preparada.",
+      "titlePt": "Veterinários de urgência em Monte-Carlo, clínicas veterinárias e cuidados para animais",
+      "introPt": "O Mónaco é pequeno, mas está bem servido em matéria de cuidados veterinários e, sobretudo, dispõe de uma verdadeira opção 24/7: La Petite Clinique, em Fontvieille, assegura urgências a toda a hora, com veterinários que falam inglês, francês e italiano. Várias clínicas de dia situam-se perto do Carré d'Or, no coração de Monte-Carlo, e há mais opções logo depois da fronteira, em Beausoleil e Cap d'Ail. Guarde um número antes de chegar e, numa urgência noturna, telefone com antecedência para que a clínica o possa receber preparada.",
+      "titleDe": "Not-Tierärzte in Monte-Carlo, Tierkliniken und Tierbetreuung",
+      "introDe": "Monaco ist klein, aber tiermedizinisch gut versorgt, und entscheidend: Es gibt eine echte Rund-um-die-Uhr-Option. La Petite Clinique in Fontvieille bietet durchgehende Notfallversorgung mit Tierärzten, die Englisch, Französisch und Italienisch sprechen. Mehrere Tageskliniken liegen nahe dem Carré d'Or im Herzen von Monte-Carlo, weitere Möglichkeiten gibt es direkt jenseits der Grenze in Beausoleil und Cap d'Ail. Speichern Sie eine Nummer, bevor Sie ankommen, und rufen Sie bei einem nächtlichen Notfall vorher an, damit die Klinik auf Sie vorbereitet ist.",
+      "titleNl": "Spoedeisende dierenartsen in Monte-Carlo, dierenklinieken en dierenverzorging",
+      "introNl": "Monaco is klein maar goed voorzien van dierenartsen, en cruciaal: er is een echte 24/7-optie: La Petite Clinique in Fontvieille biedt de klok rond spoedhulp met dierenartsen die Engels, Frans en Italiaans spreken. Verschillende dagklinieken liggen vlak bij de Carré d'Or in het hart van Monte-Carlo, en meer keuzes vind je net over de grens in Beausoleil en Cap d'Ail. Sla een nummer op voordat je aankomt en bel bij een nachtelijke noodgeval van tevoren, zodat de kliniek klaar voor je staat.",
+      "titleIt": "Veterinari d'emergenza a Monte-Carlo, cliniche veterinarie e cura degli animali",
+      "introIt": "Monaco è piccola ma ben servita per l'assistenza veterinaria, e soprattutto ha una vera opzione 24/7: La Petite Clinique a Fontvieille garantisce copertura d'emergenza a ogni ora con veterinari che parlano inglese, francese e italiano. Diverse cliniche diurne si trovano vicino al Carré d'Or, nel cuore di Monte-Carlo, e altre scelte sono appena oltre il confine, a Beausoleil e Cap d'Ail. Salva un numero prima di arrivare e, in caso di emergenza notturna, chiama in anticipo così la clinica è pronta ad accoglierti.",
+      "entryRequirements": {
+        "euPets": "Monaco applies EU pet-travel rules and almost everyone arrives through France. Your dog or cat needs an ISO microchip, a valid rabies vaccination and an EU pet passport. There is no quarantine for compliant pets.",
+        "nonEuPets": "Arriving from outside the EU, your pet needs an ISO microchip, a valid rabies vaccination and an EU Animal Health Certificate issued within 10 days of entry (plus a rabies antibody test for some countries). You clear entry in France before reaching Monaco.",
+        "emergencyContacts": "24/7 emergency: La Petite Clinique, Fontvieille, Monaco (open round the clock, English/French/Italian). For daytime care, clinics near the Carré d'Or in Monte-Carlo. Nearest cross-border options: Beausoleil and Cap d'Ail, France.",
+        "euPetsFr": "Monaco applique les règles européennes de circulation des animaux de compagnie, et presque tout le monde arrive par la France. Votre chien ou votre chat doit avoir une puce électronique ISO, une vaccination antirabique valide et un passeport européen pour animal de compagnie. Il n'y a pas de quarantaine pour les animaux en règle.",
+        "nonEuPetsFr": "En provenance d'un pays hors Union européenne, votre animal doit avoir une puce électronique ISO, une vaccination antirabique valide et un certificat sanitaire européen (Animal Health Certificate) délivré dans les 10 jours précédant l'entrée (ainsi qu'un test sérologique antirabique pour certains pays). Vous passez le contrôle d'entrée en France avant d'atteindre Monaco.",
+        "euPetsEs": "Mónaco aplica las normas de la UE sobre viajes con mascotas y casi todo el mundo llega a través de Francia. Tu perro o gato necesita un microchip ISO, una vacuna antirrábica válida y un pasaporte europeo para mascotas. No hay cuarentena para las mascotas que cumplan los requisitos.",
+        "nonEuPetsEs": "Si llegas desde fuera de la UE, tu mascota necesita un microchip ISO, una vacuna antirrábica válida y un Certificado Sanitario Animal de la UE expedido dentro de los 10 días previos a la entrada (además de una prueba de anticuerpos antirrábicos para algunos países). Pasarás el control de entrada en Francia antes de llegar a Mónaco.",
+        "euPetsPt": "O Mónaco aplica as regras europeias de viagem com animais e quase toda a gente chega através de França. O seu cão ou gato precisa de um microchip ISO, de uma vacina antirrábica válida e de um passaporte europeu para animais de companhia. Não há quarentena para animais em conformidade.",
+        "nonEuPetsPt": "Chegando de fora da UE, o seu animal precisa de um microchip ISO, de uma vacina antirrábica válida e de um Certificado Sanitário europeu emitido nos 10 dias anteriores à entrada (e, para alguns países, de um teste de anticorpos da raiva). A entrada é validada em França antes de chegar ao Mónaco.",
+        "euPetsDe": "Monaco wendet die EU-Regeln für Heimtierreisen an, und fast alle reisen über Frankreich ein. Ihr Hund oder Ihre Katze braucht einen ISO-Mikrochip, eine gültige Tollwutimpfung und einen EU-Heimtierausweis. Für regelkonforme Tiere gibt es keine Quarantäne.",
+        "nonEuPetsDe": "Bei der Einreise von außerhalb der EU braucht Ihr Tier einen ISO-Mikrochip, eine gültige Tollwutimpfung und eine EU-Tiergesundheitsbescheinigung, die innerhalb von 10 Tagen vor der Einreise ausgestellt wurde (bei einigen Ländern zusätzlich einen Tollwut-Antikörpertest). Die Einreisekontrolle erfolgt in Frankreich, bevor Sie Monaco erreichen.",
+        "euPetsNl": "Monaco past de EU-regels voor het reizen met huisdieren toe en vrijwel iedereen komt via Frankrijk aan. Je hond of kat heeft een ISO-microchip, een geldige rabiësvaccinatie en een EU-dierenpaspoort nodig. Voor huisdieren die aan de regels voldoen geldt geen quarantaine.",
+        "nonEuPetsNl": "Kom je van buiten de EU, dan heeft je huisdier een ISO-microchip, een geldige rabiësvaccinatie en een EU-diergezondheidscertificaat nodig dat binnen 10 dagen voor binnenkomst is afgegeven (plus een rabiës-antistoffentest voor sommige landen). Je regelt de binnenkomst in Frankrijk voordat je Monaco bereikt.",
+        "euPetsIt": "Monaco applica le regole UE per il viaggio degli animali e quasi tutti arrivano attraverso la Francia. Il tuo cane o gatto ha bisogno di un microchip ISO, di una vaccinazione antirabbica valida e di un passaporto europeo per animali. Non c'è quarantena per gli animali in regola.",
+        "nonEuPetsIt": "Se arrivi da fuori dall'UE, il tuo animale ha bisogno di un microchip ISO, di una vaccinazione antirabbica valida e di un Certificato Sanitario UE rilasciato entro 10 giorni dall'ingresso (più un test degli anticorpi antirabbici per alcuni Paesi). Sbrighi le formalità d'ingresso in Francia prima di arrivare a Monaco."
+      },
+      "places": [
+        {
+          "name": "La Petite Clinique",
+          "type": "24/7 emergency & general veterinary clinic",
+          "address": "Fontvieille, 98000 Monaco",
+          "phone": "+377 97 98 53 34",
+          "hours": "Open 24/7, including nights and holidays",
+          "englishSpeaking": true,
+          "website": "https://petitecliniquemonaco.com/",
+          "description": "Monaco's round-the-clock veterinary clinic in Fontvieille, with a team that speaks English, French and Italian and handles everything from minor injuries to critical overnight emergencies for dogs, cats and exotic pets. It is the reassuring anchor for anyone travelling to the Principality with an animal.",
+          "tip": "Program the number into your phone on arrival. For a night emergency, call first so the on-call vet is expecting you.",
+          "googleMapsUrl": "https://maps.google.com/?q=La+Petite+Clinique+Fontvieille+Monaco",
+          "photo": "",
+          "descriptionFr": "La clinique vétérinaire de Monaco ouverte à toute heure, à Fontvieille, avec une équipe qui parle anglais, français et italien et prend en charge aussi bien les petites blessures que les urgences vitales de nuit, pour les chiens, les chats et les nouveaux animaux de compagnie. C'est le point d'ancrage rassurant pour quiconque voyage dans la Principauté avec un animal.",
+          "tipFr": "Enregistrez le numéro dans votre téléphone dès votre arrivée. Pour une urgence nocturne, appelez d'abord pour que le vétérinaire de garde vous attende.",
+          "hoursFr": "Ouvert 24/7, y compris les nuits et les jours fériés",
+          "descriptionEs": "La clínica veterinaria de Mónaco abierta las veinticuatro horas, en Fontvieille, con un equipo que habla inglés, francés e italiano y que atiende desde heridas leves hasta urgencias críticas nocturnas de perros, gatos y mascotas exóticas. Es el punto de apoyo tranquilizador para quien viaja al Principado con un animal.",
+          "tipEs": "Guarda el número en el teléfono nada más llegar. Para una urgencia nocturna, llama primero para que el veterinario de guardia te esté esperando.",
+          "hoursEs": "Abierto 24/7, incluidas noches y festivos",
+          "descriptionPt": "A clínica veterinária do Mónaco aberta a toda a hora, em Fontvieille, com uma equipa que fala inglês, francês e italiano e que trata de tudo, desde pequenas lesões até urgências críticas durante a noite, para cães, gatos e animais exóticos. É o ponto de apoio tranquilizador para quem viaja para o Principado com um animal.",
+          "tipPt": "Grave o número no telemóvel assim que chegar. Numa urgência noturna, telefone primeiro para que o veterinário de serviço o esteja à espera.",
+          "hoursPt": "Aberto 24/7, incluindo noites e feriados",
+          "descriptionDe": "Monacos Tierklinik mit Rund-um-die-Uhr-Betrieb in Fontvieille, mit einem Team, das Englisch, Französisch und Italienisch spricht und alles von kleineren Verletzungen bis zu kritischen nächtlichen Notfällen bei Hunden, Katzen und exotischen Tieren versorgt. Sie ist der beruhigende Ankerpunkt für alle, die mit einem Tier ins Fürstentum reisen.",
+          "tipDe": "Speichern Sie die Nummer bei der Ankunft in Ihrem Telefon. Rufen Sie bei einem nächtlichen Notfall zuerst an, damit der diensthabende Tierarzt Sie erwartet.",
+          "hoursDe": "Rund um die Uhr geöffnet, auch nachts und an Feiertagen",
+          "descriptionNl": "De dierenkliniek van Monaco die de klok rond open is, in Fontvieille, met een team dat Engels, Frans en Italiaans spreekt en alles aanpakt, van kleine verwondingen tot kritieke noodgevallen 's nachts, voor honden, katten en exotische huisdieren. Het is het geruststellende ankerpunt voor iedereen die met een dier naar het vorstendom reist.",
+          "tipNl": "Zet het nummer bij aankomst in je telefoon. Bel bij een nachtelijke noodgeval eerst, zodat de dienstdoende dierenarts je verwacht.",
+          "hoursNl": "24/7 open, ook 's nachts en op feestdagen",
+          "descriptionIt": "La clinica veterinaria di Monaco aperta a ogni ora a Fontvieille, con un team che parla inglese, francese e italiano e che gestisce tutto, dalle piccole ferite alle emergenze notturne più critiche, per cani, gatti e animali esotici. È il punto di riferimento rassicurante per chiunque viaggi nel Principato con un animale.",
+          "tipIt": "Salva il numero nel telefono appena arrivi. Per un'emergenza notturna, chiama prima così il veterinario di turno ti aspetta.",
+          "hoursIt": "Aperta 24/7, comprese notti e festivi"
+        },
+        {
+          "name": "VetMonaco",
+          "type": "General veterinary clinic",
+          "address": "Monte-Carlo, near the Carré d'Or, 98000 Monaco",
+          "phone": "",
+          "hours": "Daytime consultations, by appointment",
+          "englishSpeaking": true,
+          "website": "https://www.vetmonaco.com/en",
+          "description": "A well-equipped day clinic in the heart of Monte-Carlo near the Carré d'Or, offering consultations, general surgery, imaging and laboratory work. A practical choice for routine care, vaccinations or a check-up during a stay in the Principality.",
+          "tip": "Book ahead: central Monaco clinics work largely by appointment and space is limited.",
+          "googleMapsUrl": "https://maps.google.com/?q=VetMonaco+Monte-Carlo",
+          "photo": "",
+          "descriptionFr": "Une clinique de jour bien équipée au cœur de Monte-Carlo, près du Carré d'Or, qui propose consultations, chirurgie générale, imagerie et analyses de laboratoire. Un choix pratique pour les soins courants, les vaccinations ou un bilan de santé pendant un séjour dans la Principauté.",
+          "tipFr": "Réservez à l'avance : les cliniques du centre de Monaco fonctionnent surtout sur rendez-vous et les places sont limitées.",
+          "hoursFr": "Consultations en journée, sur rendez-vous",
+          "descriptionEs": "Una clínica de día bien equipada en el corazón de Monte-Carlo, cerca del Carré d'Or, que ofrece consultas, cirugía general, diagnóstico por imagen y trabajo de laboratorio. Una opción práctica para cuidados rutinarios, vacunaciones o una revisión durante una estancia en el Principado.",
+          "tipEs": "Reserva con antelación: las clínicas del centro de Mónaco funcionan en gran medida con cita previa y las plazas son limitadas.",
+          "hoursEs": "Consultas de día, con cita previa",
+          "descriptionPt": "Uma clínica de dia bem equipada no coração de Monte-Carlo, perto do Carré d'Or, com consultas, cirurgia geral, imagiologia e análises laboratoriais. Uma escolha prática para cuidados de rotina, vacinas ou um check-up durante uma estadia no Principado.",
+          "tipPt": "Marque com antecedência: as clínicas do centro do Mónaco funcionam sobretudo por marcação e o espaço é limitado.",
+          "hoursPt": "Consultas de dia, por marcação",
+          "descriptionDe": "Eine gut ausgestattete Tagesklinik im Herzen von Monte-Carlo nahe dem Carré d'Or, die Sprechstunden, allgemeine Chirurgie, Bildgebung und Laboruntersuchungen anbietet. Eine praktische Wahl für Routineversorgung, Impfungen oder einen Gesundheitscheck während eines Aufenthalts im Fürstentum.",
+          "tipDe": "Buchen Sie im Voraus: Die zentralen Kliniken in Monaco arbeiten weitgehend nach Termin, und der Platz ist begrenzt.",
+          "hoursDe": "Sprechstunden tagsüber, nach Termin",
+          "descriptionNl": "Een goed uitgeruste dagkliniek in het hart van Monte-Carlo bij de Carré d'Or, met consulten, algemene chirurgie, beeldvorming en laboratoriumwerk. Een praktische keuze voor routineverzorging, vaccinaties of een controle tijdens een verblijf in het vorstendom.",
+          "tipNl": "Boek van tevoren: centrale klinieken in Monaco werken grotendeels op afspraak en de ruimte is beperkt.",
+          "hoursNl": "Consulten overdag, op afspraak",
+          "descriptionIt": "Una clinica diurna ben attrezzata nel cuore di Monte-Carlo, vicino al Carré d'Or, che offre visite, chirurgia generale, diagnostica per immagini e analisi di laboratorio. Una scelta pratica per le cure di routine, le vaccinazioni o un controllo durante un soggiorno nel Principato.",
+          "tipIt": "Prenota in anticipo: le cliniche del centro di Monaco lavorano in gran parte su appuntamento e i posti sono limitati.",
+          "hoursIt": "Consultazioni diurne, su appuntamento"
+        },
+        {
+          "name": "Clinique Vétérinaire St Hubert (Beausoleil)",
+          "type": "Veterinary clinic (France, on the Monaco border)",
+          "address": "Beausoleil, France (adjoining Monaco)",
+          "phone": "",
+          "hours": "Daytime, by appointment",
+          "englishSpeaking": true,
+          "website": "https://en.clinique-veterinaire-st-hubert.com/",
+          "description": "A full-service veterinary clinic in Beausoleil, the French town that sits directly above Monte-Carlo, only minutes on foot from the Principality. A handy alternative for consultations and follow-up care, and easily reached without a car.",
+          "tip": "Beausoleil is walkable from upper Monte-Carlo, so this clinic is closer than it looks on a map.",
+          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+St+Hubert+Beausoleil",
+          "photo": "",
+          "descriptionFr": "Une clinique vétérinaire complète à Beausoleil, la ville française qui surplombe directement Monte-Carlo, à quelques minutes à pied de la Principauté. Une solution de rechange commode pour des consultations et un suivi, facilement accessible sans voiture.",
+          "tipFr": "Beausoleil est accessible à pied depuis le haut de Monte-Carlo, si bien que cette clinique est plus proche qu'elle n'en a l'air sur une carte.",
+          "hoursFr": "En journée, sur rendez-vous",
+          "descriptionEs": "Una clínica veterinaria de servicio completo en Beausoleil, la localidad francesa situada justo por encima de Monte-Carlo, a solo unos minutos a pie del Principado. Una alternativa práctica para consultas y seguimiento, fácil de alcanzar sin coche.",
+          "tipEs": "Beausoleil está a poca distancia a pie de la parte alta de Monte-Carlo, así que esta clínica está más cerca de lo que parece en el mapa.",
+          "hoursEs": "De día, con cita previa",
+          "descriptionPt": "Uma clínica veterinária com serviço completo em Beausoleil, a cidade francesa que fica logo por cima de Monte-Carlo, a apenas alguns minutos a pé do Principado. Uma alternativa prática para consultas e acompanhamento, facilmente acessível sem carro.",
+          "tipPt": "Beausoleil fica a distância de caminhada da parte alta de Monte-Carlo, por isso esta clínica está mais perto do que parece no mapa.",
+          "hoursPt": "De dia, por marcação",
+          "descriptionDe": "Eine Tierklinik mit vollem Leistungsangebot in Beausoleil, der französischen Stadt direkt oberhalb von Monte-Carlo, nur wenige Gehminuten vom Fürstentum entfernt. Eine praktische Alternative für Sprechstunden und Nachsorge, gut ohne Auto erreichbar.",
+          "tipDe": "Beausoleil ist vom oberen Monte-Carlo zu Fuß erreichbar, daher liegt diese Klinik näher, als es auf der Karte aussieht.",
+          "hoursDe": "Tagsüber, nach Termin",
+          "descriptionNl": "Een dierenkliniek met een volledig aanbod in Beausoleil, het Franse stadje dat direct boven Monte-Carlo ligt, op slechts enkele minuten lopen van het vorstendom. Een handig alternatief voor consulten en nazorg, en makkelijk te bereiken zonder auto.",
+          "tipNl": "Beausoleil is te belopen vanuit het hoger gelegen Monte-Carlo, dus deze kliniek is dichterbij dan hij op een kaart lijkt.",
+          "hoursNl": "Overdag, op afspraak",
+          "descriptionIt": "Una clinica veterinaria completa a Beausoleil, la cittadina francese che sorge proprio sopra Monte-Carlo, a pochi minuti a piedi dal Principato. Una comoda alternativa per visite e cure di controllo, facilmente raggiungibile senza auto.",
+          "tipIt": "Beausoleil si raggiunge a piedi dalla parte alta di Monte-Carlo, quindi questa clinica è più vicina di quanto sembri sulla mappa.",
+          "hoursIt": "Di giorno, su appuntamento"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Monaco?",
+          "a": "Yes. La Petite Clinique in Fontvieille is open 24/7, with vets who speak English, French and Italian and treat dogs, cats and exotic pets. It is the go-to for any night or weekend emergency in the Principality."
+        },
+        {
+          "q": "Do Monaco vets speak English?",
+          "a": "Generally yes. Monaco is highly international, and clinics such as La Petite Clinique work in English, French and Italian. It is still wise to call ahead so the right vet is available."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire ouvert 24h/24 à Monaco ?",
+          "a": "Oui. La Petite Clinique, à Fontvieille, est ouverte 24/7, avec des vétérinaires qui parlent anglais, français et italien et soignent chiens, chats et nouveaux animaux de compagnie. C'est la référence pour toute urgence de nuit ou de week-end dans la Principauté."
+        },
+        {
+          "q": "Les vétérinaires de Monaco parlent-ils anglais ?",
+          "a": "En général oui. Monaco est très internationale, et des cliniques comme La Petite Clinique travaillent en anglais, en français et en italien. Il reste préférable de téléphoner à l'avance pour s'assurer que le bon vétérinaire est disponible."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un veterinario 24 horas en Mónaco?",
+          "a": "Sí. La Petite Clinique, en Fontvieille, abre 24/7, con veterinarios que hablan inglés, francés e italiano y que atienden a perros, gatos y mascotas exóticas. Es la referencia para cualquier urgencia nocturna o de fin de semana en el Principado."
+        },
+        {
+          "q": "¿Los veterinarios de Mónaco hablan inglés?",
+          "a": "En general, sí. Mónaco es muy internacional, y clínicas como La Petite Clinique trabajan en inglés, francés e italiano. Aun así, conviene llamar con antelación para que esté disponible el veterinario adecuado."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Existe um veterinário 24 horas no Mónaco?",
+          "a": "Sim. La Petite Clinique, em Fontvieille, está aberta 24/7, com veterinários que falam inglês, francês e italiano e que tratam cães, gatos e animais exóticos. É a referência para qualquer urgência noturna ou de fim de semana no Principado."
+        },
+        {
+          "q": "Os veterinários do Mónaco falam inglês?",
+          "a": "Em geral, sim. O Mónaco é muito internacional e clínicas como La Petite Clinique trabalham em inglês, francês e italiano. Ainda assim, é aconselhável telefonar antes para que o veterinário certo esteja disponível."
+        }
+      ],
+      "faqsDe": [
+        {
+          "q": "Gibt es in Monaco einen Tierarzt rund um die Uhr?",
+          "a": "Ja. La Petite Clinique in Fontvieille ist 24/7 geöffnet, mit Tierärzten, die Englisch, Französisch und Italienisch sprechen und Hunde, Katzen sowie exotische Tiere behandeln. Sie ist die erste Anlaufstelle für jeden nächtlichen Notfall oder Notfall am Wochenende im Fürstentum."
+        },
+        {
+          "q": "Sprechen die Tierärzte in Monaco Englisch?",
+          "a": "In der Regel ja. Monaco ist sehr international, und Kliniken wie La Petite Clinique arbeiten auf Englisch, Französisch und Italienisch. Trotzdem ist es ratsam, vorher anzurufen, damit der passende Tierarzt verfügbar ist."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs dierenarts in Monaco?",
+          "a": "Ja. La Petite Clinique in Fontvieille is 24/7 open, met dierenartsen die Engels, Frans en Italiaans spreken en honden, katten en exotische huisdieren behandelen. Het is dé plek voor elk nachtelijk of weekendnoodgeval in het vorstendom."
+        },
+        {
+          "q": "Spreken dierenartsen in Monaco Engels?",
+          "a": "Over het algemeen wel. Monaco is zeer internationaal, en klinieken zoals La Petite Clinique werken in het Engels, Frans en Italiaans. Toch is het verstandig van tevoren te bellen, zodat de juiste dierenarts beschikbaar is."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "C'è un veterinario aperto 24 ore a Monaco?",
+          "a": "Sì. La Petite Clinique a Fontvieille è aperta 24/7, con veterinari che parlano inglese, francese e italiano e che curano cani, gatti e animali esotici. È il punto di riferimento per qualsiasi emergenza notturna o del fine settimana nel Principato."
+        },
+        {
+          "q": "I veterinari di Monaco parlano inglese?",
+          "a": "In genere sì. Monaco è molto internazionale, e cliniche come La Petite Clinique lavorano in inglese, francese e italiano. È comunque una buona idea chiamare in anticipo così il veterinario giusto è disponibile."
+        }
+      ]
+    },
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Monte-Carlo: Where to Eat with Your Dog",
+      "introEn": "Monaco takes its dogs seriously, and a well-behaved dog on the lead is a familiar sight on the Principality's terraces. Several smart addresses welcome pets, from palace piano bars to fine-dining terraces with sea views and relaxed Italian trattorias near the port. Keep your dog leashed and calm, ask for a water bowl, and choose an outdoor table in summer to stay cool.",
+      "titleFr": "Restaurants qui acceptent les chiens à Monte-Carlo : où manger avec votre chien",
+      "introFr": "Monaco prend ses chiens au sérieux, et un chien bien élevé tenu en laisse est une image familière sur les terrasses de la Principauté. Plusieurs belles adresses accueillent les animaux, des piano-bars de palace aux terrasses gastronomiques avec vue sur la mer, en passant par les trattorias italiennes décontractées près du port. Gardez votre chien en laisse et calme, demandez une gamelle d'eau, et choisissez une table en extérieur l'été pour rester au frais.",
+      "titleEs": "Restaurantes que admiten perros en Monte-Carlo: dónde comer con tu perro",
+      "introEs": "Mónaco se toma en serio a sus perros, y ver a un perro bien educado con correa en las terrazas del Principado es de lo más habitual. Varias direcciones elegantes admiten mascotas, desde pianobares de palacio hasta terrazas de alta cocina con vistas al mar y relajadas trattorias italianas cerca del puerto. Lleva a tu perro con correa y tranquilo, pide un cuenco de agua y elige una mesa al aire libre en verano para no pasar calor.",
+      "titlePt": "Restaurantes que aceitam cães em Monte-Carlo: onde comer com o seu cão",
+      "introPt": "O Mónaco leva os seus cães a sério, e um cão bem-comportado à trela é uma imagem comum nas esplanadas do Principado. Vários endereços elegantes acolhem animais, desde bares de piano de palácio a esplanadas de alta gastronomia com vista para o mar e tratorias italianas descontraídas junto ao porto. Mantenha o seu cão à trela e calmo, peça uma taça de água e, no verão, escolha uma mesa ao ar livre para se manter fresco.",
+      "titleDe": "Hundefreundliche Restaurants in Monte-Carlo: Wo Sie mit Ihrem Hund essen können",
+      "introDe": "Monaco nimmt seine Hunde ernst, und ein wohlerzogener Hund an der Leine ist auf den Terrassen des Fürstentums ein vertrauter Anblick. Mehrere elegante Adressen heißen Tiere willkommen, von Klavierbars in Palästen über Gourmet-Terrassen mit Meerblick bis zu entspannten italienischen Trattorien am Hafen. Halten Sie Ihren Hund an der Leine und ruhig, bitten Sie um einen Wassernapf und wählen Sie im Sommer einen Tisch im Freien, um kühl zu bleiben.",
+      "titleNl": "Hondvriendelijke restaurants in Monte-Carlo: waar eet je met je hond",
+      "introNl": "Monaco neemt zijn honden serieus, en een braaf aangelijnd hondje op de terrassen van het vorstendom is een vertrouwd beeld. Verschillende chique adressen verwelkomen huisdieren, van pianobars in paleizen tot terrassen met sterrenkeuken en zeezicht en ontspannen Italiaanse trattoria's bij de haven. Houd je hond aangelijnd en rustig, vraag om een waterbak en kies in de zomer een tafel buiten om koel te blijven.",
+      "titleIt": "Ristoranti che accolgono i cani a Monte-Carlo: dove mangiare con il tuo cane",
+      "introIt": "Monaco prende sul serio i suoi cani, e un cane educato al guinzaglio è una presenza abituale sulle terrazze del Principato. Diversi indirizzi eleganti accolgono gli animali, dai piano bar dei grandi hotel alle terrazze gourmet con vista mare fino alle rilassate trattorie italiane vicino al porto. Tieni il cane al guinzaglio e tranquillo, chiedi una ciotola d'acqua e in estate scegli un tavolo all'aperto per stare al fresco.",
+      "places": [
+        {
+          "name": "Le Bar Américain",
+          "address": "Place du Casino, Hôtel de Paris, 98000 Monaco",
+          "neighborhood": "Monte-Carlo, on Casino Square",
+          "photo": "",
+          "website": "https://www.montecarlosbm.com/",
+          "description": "The legendary piano bar of the Hôtel de Paris on Casino Square, all mahogany, live jazz and classic cocktails. Unusually for such a grand room, dogs are welcome both on the terrace and inside, making it a glamorous stop for an aperitif with your companion at your feet.",
+          "petPolicy": "Dogs welcome on the terrace and inside",
+          "priceRange": "€€€€",
+          "mustTry": "A classic cocktail with live piano in the evening",
+          "openingHours": "Daily, afternoon to late",
+          "tip": "Come for the early evening piano set, ask for a water bowl, and settle your dog beside a banquette away from the walkway.",
+          "googleMapsUrl": "https://maps.google.com/?q=Le+Bar+Americain+Hotel+de+Paris+Monaco",
+          "descriptionFr": "Le légendaire piano-bar de l'Hôtel de Paris, sur la Place du Casino : acajou, jazz live et cocktails classiques. Fait rare pour une salle aussi prestigieuse, les chiens y sont bienvenus en terrasse comme à l'intérieur, ce qui en fait une halte glamour pour un apéritif avec votre compagnon à vos pieds.",
+          "petPolicyFr": "Chiens bienvenus en terrasse et à l'intérieur",
+          "mustTryFr": "Un cocktail classique avec le piano live en soirée",
+          "tipFr": "Venez pour la séance de piano en début de soirée, demandez une gamelle d'eau, et installez votre chien près d'une banquette, à l'écart du passage.",
+          "openingHoursFr": "Tous les jours, de l'après-midi jusque tard",
+          "descriptionEs": "El legendario pianobar del Hôtel de Paris, en la Place du Casino, todo caoba, jazz en directo y cócteles clásicos. Algo insólito para un salón tan señorial: los perros son bienvenidos tanto en la terraza como en el interior, lo que lo convierte en una parada glamurosa para tomar un aperitivo con tu compañero a tus pies.",
+          "petPolicyEs": "Perros bienvenidos en la terraza y en el interior",
+          "mustTryEs": "Un cóctel clásico con piano en directo por la noche",
+          "tipEs": "Ven a la sesión de piano de primera hora de la tarde, pide un cuenco de agua y acomoda a tu perro junto a un banco, apartado del paso.",
+          "openingHoursEs": "A diario, de la tarde hasta altas horas",
+          "descriptionPt": "O lendário bar de piano do Hôtel de Paris, na Place du Casino, tudo em mogno, jazz ao vivo e cocktails clássicos. Invulgarmente para uma sala tão imponente, os cães são bem-vindos tanto na esplanada como no interior, o que faz dele uma paragem glamorosa para um aperitivo com o seu companheiro aos seus pés.",
+          "petPolicyPt": "Cães bem-vindos na esplanada e no interior",
+          "mustTryPt": "Um cocktail clássico com piano ao vivo ao serão",
+          "tipPt": "Venha para a sessão de piano ao início da noite, peça uma taça de água e acomode o seu cão junto a um banco, longe da zona de passagem.",
+          "openingHoursPt": "Todos os dias, da tarde até tarde",
+          "descriptionDe": "Die legendäre Klavierbar des Hôtel de Paris an der Place du Casino, ganz aus Mahagoni, mit Live-Jazz und klassischen Cocktails. Ungewöhnlich für einen so vornehmen Raum: Hunde sind sowohl auf der Terrasse als auch drinnen willkommen, was daraus einen glamourösen Halt für einen Aperitif mit Ihrem Begleiter zu Ihren Füßen macht.",
+          "petPolicyDe": "Hunde auf der Terrasse und drinnen willkommen",
+          "mustTryDe": "Ein klassischer Cocktail bei abendlicher Live-Klaviermusik",
+          "tipDe": "Kommen Sie zur frühen Abend-Klaviersession, bitten Sie um einen Wassernapf und platzieren Sie Ihren Hund an einer Bank abseits des Durchgangs.",
+          "openingHoursDe": "Täglich, vom Nachmittag bis spät",
+          "descriptionNl": "De legendarische pianobar van het Hôtel de Paris aan de Place du Casino, helemaal mahoniehout, livejazz en klassieke cocktails. Ongebruikelijk voor zo'n grootse ruimte zijn honden welkom op het terras én binnen, wat het een glamoureuze stop maakt voor een aperitief met je metgezel aan je voeten.",
+          "petPolicyNl": "Honden welkom op het terras en binnen",
+          "mustTryNl": "Een klassieke cocktail met live piano in de avond",
+          "tipNl": "Kom voor de vroege pianoset in de avond, vraag om een waterbak en installeer je hond naast een bank, weg van de looproute.",
+          "openingHoursNl": "Dagelijks, van de middag tot laat",
+          "descriptionIt": "Il leggendario piano bar dell'Hôtel de Paris sulla Place du Casino, tutto mogano, jazz dal vivo e cocktail classici. Cosa insolita per una sala così sontuosa, i cani sono i benvenuti sia in terrazza sia all'interno, il che ne fa una tappa glamour per un aperitivo con il tuo compagno ai tuoi piedi.",
+          "petPolicyIt": "Cani benvenuti in terrazza e all'interno",
+          "mustTryIt": "Un cocktail classico con il piano dal vivo la sera",
+          "tipIt": "Vieni per il set di piano del primo pomeriggio, chiedi una ciotola d'acqua e sistema il tuo cane accanto a un divanetto, lontano dal passaggio.",
+          "openingHoursIt": "Tutti i giorni, dal pomeriggio a tarda sera"
+        },
+        {
+          "name": "Pavyllon Monte-Carlo",
+          "address": "Hôtel Hermitage, Square Beaumarchais, 98000 Monaco",
+          "neighborhood": "Monte-Carlo, at the Hôtel Hermitage",
+          "photo": "",
+          "website": "https://www.montecarlosbm.com/",
+          "description": "Chef Yannick Alléno's bright, sea-facing restaurant at the Hôtel Hermitage, serving refined French cooking around an open counter. Pets are accepted, so you can enjoy a high-end lunch on the terrace with a Mediterranean view and your dog resting quietly beside you.",
+          "petPolicy": "Pets accepted",
+          "priceRange": "€€€€",
+          "mustTry": "The seasonal set lunch on the sea-view terrace",
+          "openingHours": "Lunch and dinner, check seasonal days",
+          "tip": "Reserve a terrace table for lunch when it is cooler, and mention you are bringing a dog when you book.",
+          "googleMapsUrl": "https://maps.google.com/?q=Pavyllon+Monte-Carlo+Hermitage",
+          "descriptionFr": "Le restaurant lumineux et face à la mer du chef Yannick Alléno à l'Hôtel Hermitage, qui sert une cuisine française raffinée autour d'un comptoir ouvert. Les animaux y sont acceptés, si bien que vous pouvez savourer un déjeuner haut de gamme en terrasse, avec vue sur la Méditerranée et votre chien qui se repose tranquillement à côté de vous.",
+          "petPolicyFr": "Animaux acceptés",
+          "mustTryFr": "Le menu du déjeuner de saison sur la terrasse face à la mer",
+          "tipFr": "Réservez une table en terrasse pour le déjeuner, quand il fait plus frais, et précisez que vous venez avec un chien au moment de réserver.",
+          "openingHoursFr": "Déjeuner et dîner, vérifiez les jours d'ouverture selon la saison",
+          "descriptionEs": "El luminoso restaurante frente al mar del chef Yannick Alléno en el Hôtel Hermitage, que sirve una refinada cocina francesa en torno a una barra abierta. Se admiten mascotas, así que puedes disfrutar de un almuerzo de alto nivel en la terraza con vistas al Mediterráneo y tu perro descansando tranquilo a tu lado.",
+          "petPolicyEs": "Se admiten mascotas",
+          "mustTryEs": "El menú de almuerzo de temporada en la terraza con vistas al mar",
+          "tipEs": "Reserva una mesa en la terraza para el almuerzo, cuando hace más fresco, y menciona que llevas un perro al reservar.",
+          "openingHoursEs": "Almuerzo y cena, consulta los días según la temporada",
+          "descriptionPt": "O restaurante luminoso e virado para o mar do chef Yannick Alléno, no Hôtel Hermitage, que serve cozinha francesa refinada em torno de um balcão aberto. Os animais são aceites, por isso pode desfrutar de um almoço requintado na esplanada com vista mediterrânica e o seu cão a descansar tranquilamente ao seu lado.",
+          "petPolicyPt": "Animais aceites",
+          "mustTryPt": "O menu de almoço sazonal na esplanada com vista para o mar",
+          "tipPt": "Reserve uma mesa na esplanada para o almoço, quando está mais fresco, e mencione que vai levar um cão ao reservar.",
+          "openingHoursPt": "Almoço e jantar, confirme os dias sazonais",
+          "descriptionDe": "Das helle, zum Meer gerichtete Restaurant von Chefkoch Yannick Alléno im Hôtel Hermitage, das raffinierte französische Küche rund um eine offene Theke serviert. Tiere sind erlaubt, sodass Sie ein gehobenes Mittagessen auf der Terrasse mit Blick aufs Mittelmeer genießen können, während Ihr Hund ruhig neben Ihnen liegt.",
+          "petPolicyDe": "Tiere erlaubt",
+          "mustTryDe": "Das saisonale Mittagsmenü auf der Terrasse mit Meerblick",
+          "tipDe": "Reservieren Sie zum Mittagessen einen Terrassentisch, wenn es kühler ist, und erwähnen Sie bei der Buchung, dass Sie einen Hund mitbringen.",
+          "openingHoursDe": "Mittag- und Abendessen, saisonale Tage prüfen",
+          "descriptionNl": "Het lichte, op zee gerichte restaurant van chef Yannick Alléno in het Hôtel Hermitage, met verfijnde Franse keuken rond een open toonbank. Huisdieren zijn toegestaan, dus je kunt genieten van een luxe lunch op het terras met uitzicht op de Middellandse Zee, terwijl je hond rustig naast je ligt.",
+          "petPolicyNl": "Huisdieren toegestaan",
+          "mustTryNl": "De seizoenslunch op het terras met zeezicht",
+          "tipNl": "Reserveer een terrastafel voor de lunch als het koeler is, en vermeld bij het boeken dat je een hond meeneemt.",
+          "openingHoursNl": "Lunch en diner, controleer de seizoensdagen",
+          "descriptionIt": "Il ristorante luminoso e affacciato sul mare dello chef Yannick Alléno all'Hôtel Hermitage, che propone una raffinata cucina francese attorno a un bancone aperto. Gli animali sono accettati, così puoi goderti un pranzo di alto livello in terrazza con vista mediterranea e il tuo cane che riposa tranquillo accanto a te.",
+          "petPolicyIt": "Animali accettati",
+          "mustTryIt": "Il menu di pranzo stagionale sulla terrazza con vista mare",
+          "tipIt": "Prenota un tavolo in terrazza per il pranzo quando fa più fresco, e segnala che porti un cane al momento della prenotazione.",
+          "openingHoursIt": "Pranzo e cena, verifica i giorni stagionali"
+        },
+        {
+          "name": "Nonna Maria",
+          "address": "Rue Princesse Caroline, La Condamine, 98000 Monaco",
+          "neighborhood": "La Condamine, near Port Hercule",
+          "photo": "",
+          "website": "",
+          "description": "A warm, popular Italian trattoria on the pedestrian Rue Princesse Caroline near Port Hercule, known for generous pizza and pasta and a lively terrace. It is one of the easier, more relaxed dog-friendly tables in Monaco, and it is open on Sundays.",
+          "petPolicy": "Dogs welcome on the outdoor terrace",
+          "priceRange": "€€€",
+          "mustTry": "Wood-fired pizza and homemade pasta",
+          "openingHours": "Daily, lunch and dinner",
+          "tip": "The pedestrian street means no traffic beside your table; go early to grab a shaded terrace spot in summer.",
+          "googleMapsUrl": "https://maps.google.com/?q=Nonna+Maria+Monaco",
+          "descriptionFr": "Une trattoria italienne chaleureuse et prisée, sur la Rue Princesse Caroline piétonne près du Port Hercule, réputée pour ses généreuses pizzas et pâtes et sa terrasse animée. C'est l'une des tables les plus accessibles et détendues acceptant les chiens à Monaco, et elle est ouverte le dimanche.",
+          "petPolicyFr": "Chiens bienvenus sur la terrasse extérieure",
+          "mustTryFr": "La pizza au feu de bois et les pâtes maison",
+          "tipFr": "La rue piétonne signifie aucune circulation à côté de votre table ; arrivez tôt pour décrocher une place en terrasse à l'ombre l'été.",
+          "openingHoursFr": "Tous les jours, déjeuner et dîner",
+          "descriptionEs": "Una acogedora y popular trattoria italiana en la peatonal Rue Princesse Caroline, cerca de Port Hercule, conocida por sus generosas pizzas y pastas y por su animada terraza. Es una de las mesas que admiten perros más cómodas y relajadas de Mónaco, y abre los domingos.",
+          "petPolicyEs": "Perros bienvenidos en la terraza al aire libre",
+          "mustTryEs": "Pizza al horno de leña y pasta casera",
+          "tipEs": "Al ser una calle peatonal, no hay tráfico junto a tu mesa; ve pronto para conseguir un sitio a la sombra en la terraza en verano.",
+          "openingHoursEs": "A diario, almuerzo y cena",
+          "descriptionPt": "Uma tratoria italiana acolhedora e popular na pedonal Rue Princesse Caroline, junto ao Port Hercule, conhecida pelas pizzas e massas generosas e por uma esplanada animada. É uma das mesas que aceitam cães mais fáceis e descontraídas do Mónaco, e está aberta aos domingos.",
+          "petPolicyPt": "Cães bem-vindos na esplanada exterior",
+          "mustTryPt": "Pizza em forno a lenha e massa caseira",
+          "tipPt": "A rua pedonal significa que não há trânsito junto à sua mesa; vá cedo para apanhar um lugar à sombra na esplanada no verão.",
+          "openingHoursPt": "Todos os dias, almoço e jantar",
+          "descriptionDe": "Eine warme, beliebte italienische Trattoria in der Fußgängerzone Rue Princesse Caroline nahe Port Hercule, bekannt für großzügige Pizza und Pasta sowie eine lebhafte Terrasse. Sie ist eine der unkomplizierteren, entspannteren hundefreundlichen Adressen in Monaco und sonntags geöffnet.",
+          "petPolicyDe": "Hunde auf der Außenterrasse willkommen",
+          "mustTryDe": "Pizza aus dem Holzofen und hausgemachte Pasta",
+          "tipDe": "Die Fußgängerzone bedeutet keinen Verkehr neben Ihrem Tisch; gehen Sie im Sommer früh, um einen schattigen Terrassenplatz zu ergattern.",
+          "openingHoursDe": "Täglich, Mittag- und Abendessen",
+          "descriptionNl": "Een warme, populaire Italiaanse trattoria in de voetgangersstraat Rue Princesse Caroline bij Port Hercule, bekend om royale pizza en pasta en een levendig terras. Het is een van de makkelijkere, meer ontspannen hondvriendelijke tafels in Monaco, en het is op zondag open.",
+          "petPolicyNl": "Honden welkom op het terras buiten",
+          "mustTryNl": "Pizza uit de houtoven en zelfgemaakte pasta",
+          "tipNl": "De voetgangersstraat betekent geen verkeer naast je tafel; ga in de zomer vroeg voor een schaduwrijk plekje op het terras.",
+          "openingHoursNl": "Dagelijks, lunch en diner",
+          "descriptionIt": "Una calorosa e frequentata trattoria italiana sulla via pedonale Rue Princesse Caroline vicino a Port Hercule, nota per pizze e pasta generose e per una terrazza vivace. È uno dei tavoli che accolgono i cani più semplici e rilassati di Monaco, ed è aperta la domenica.",
+          "petPolicyIt": "Cani benvenuti nella terrazza all'aperto",
+          "mustTryIt": "Pizza cotta nel forno a legna e pasta fatta in casa",
+          "tipIt": "La via pedonale significa niente traffico accanto al tuo tavolo; arriva presto per accaparrarti un posto ombreggiato in terrazza d'estate.",
+          "openingHoursIt": "Tutti i giorni, pranzo e cena"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to restaurants in Monaco?",
+          "a": "Yes, many terraces and some dining rooms welcome a leashed, well-behaved dog. Grand addresses like Le Bar Américain even allow dogs inside, while relaxed spots near Port Hercule are easy for a casual meal. Always keep your dog on the lead and ask for a water bowl."
+        },
+        {
+          "q": "Are dogs allowed inside Monaco restaurants or only on terraces?",
+          "a": "It varies by venue. Most welcome dogs on the outdoor terrace; a few, such as Le Bar Américain at the Hôtel de Paris, also allow them inside. When in doubt, ask when booking and choose a terrace table in warm weather."
+        },
+        {
+          "q": "Do Monaco restaurants provide water for dogs?",
+          "a": "Most dog-friendly terraces will happily bring a water bowl if you ask. In summer it is worth requesting one straight away and choosing a shaded table, as the Principality gets hot and pavements radiate heat."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien au restaurant à Monaco ?",
+          "a": "Oui, de nombreuses terrasses et certaines salles accueillent un chien tenu en laisse et bien élevé. De grandes adresses comme Le Bar Américain autorisent même les chiens à l'intérieur, tandis que les établissements plus décontractés près du Port Hercule se prêtent bien à un repas informel. Gardez toujours votre chien en laisse et demandez une gamelle d'eau."
+        },
+        {
+          "q": "Les chiens sont-ils admis à l'intérieur des restaurants monégasques ou seulement en terrasse ?",
+          "a": "Cela dépend des établissements. La plupart accueillent les chiens en terrasse extérieure ; quelques-uns, comme Le Bar Américain à l'Hôtel de Paris, les acceptent aussi à l'intérieur. En cas de doute, renseignez-vous au moment de réserver et choisissez une table en terrasse par temps chaud."
+        },
+        {
+          "q": "Les restaurants monégasques donnent-ils de l'eau pour les chiens ?",
+          "a": "La plupart des terrasses qui acceptent les chiens apportent volontiers une gamelle d'eau si vous le demandez. L'été, mieux vaut en réclamer une tout de suite et choisir une table à l'ombre, car la Principauté devient chaude et les trottoirs renvoient la chaleur."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a los restaurantes de Mónaco?",
+          "a": "Sí, muchas terrazas y algunos comedores admiten a un perro con correa y bien educado. Direcciones señoriales como Le Bar Américain permiten incluso a los perros en el interior, mientras que los locales relajados cerca de Port Hercule son cómodos para una comida informal. Lleva siempre a tu perro con correa y pide un cuenco de agua."
+        },
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Mónaco o solo en las terrazas?",
+          "a": "Depende del local. La mayoría admite perros en la terraza al aire libre; algunos, como Le Bar Américain del Hôtel de Paris, también los permiten en el interior. En caso de duda, pregunta al reservar y elige una mesa en la terraza cuando haga calor."
+        },
+        {
+          "q": "¿Los restaurantes de Mónaco ofrecen agua para los perros?",
+          "a": "La mayoría de las terrazas que admiten perros traerán encantados un cuenco de agua si lo pides. En verano conviene pedirlo de inmediato y elegir una mesa a la sombra, ya que el Principado se pone caluroso y las aceras irradian calor."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão a restaurantes no Mónaco?",
+          "a": "Sim, muitas esplanadas e algumas salas de refeições acolhem um cão à trela e bem-comportado. Endereços de prestígio como Le Bar Américain permitem cães até no interior, enquanto os locais descontraídos junto ao Port Hercule são fáceis para uma refeição informal. Mantenha sempre o cão à trela e peça uma taça de água."
+        },
+        {
+          "q": "Os cães podem entrar nos restaurantes do Mónaco ou só ficam nas esplanadas?",
+          "a": "Varia consoante o local. A maioria acolhe cães na esplanada exterior; alguns, como Le Bar Américain no Hôtel de Paris, também os permitem no interior. Na dúvida, pergunte ao reservar e escolha uma mesa na esplanada quando estiver calor."
+        },
+        {
+          "q": "Os restaurantes do Mónaco disponibilizam água para os cães?",
+          "a": "A maioria das esplanadas que aceitam cães trazem de bom grado uma taça de água se a pedir. No verão vale a pena pedi-la logo e escolher uma mesa à sombra, pois o Principado fica quente e os passeios irradiam calor."
+        }
+      ],
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund in Monaco mit ins Restaurant nehmen?",
+          "a": "Ja, viele Terrassen und einige Speisesäle heißen einen angeleinten, wohlerzogenen Hund willkommen. Vornehme Adressen wie Le Bar Américain erlauben Hunde sogar drinnen, während entspannte Lokale nahe Port Hercule sich für ein zwangloses Essen eignen. Halten Sie Ihren Hund stets an der Leine und bitten Sie um einen Wassernapf."
+        },
+        {
+          "q": "Sind Hunde in den Restaurants Monacos drinnen erlaubt oder nur auf den Terrassen?",
+          "a": "Das ist von Lokal zu Lokal unterschiedlich. Die meisten heißen Hunde auf der Außenterrasse willkommen; einige wenige, wie Le Bar Américain im Hôtel de Paris, erlauben sie auch drinnen. Fragen Sie im Zweifel bei der Reservierung nach und wählen Sie bei warmem Wetter einen Terrassentisch."
+        },
+        {
+          "q": "Stellen die Restaurants in Monaco Wasser für Hunde bereit?",
+          "a": "Die meisten hundefreundlichen Terrassen bringen gern einen Wassernapf, wenn Sie darum bitten. Im Sommer lohnt es sich, gleich einen zu erbitten und einen schattigen Tisch zu wählen, denn im Fürstentum wird es heiß und die Gehwege strahlen Hitze ab."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar restaurants in Monaco?",
+          "a": "Ja, veel terrassen en sommige eetzalen verwelkomen een aangelijnde, brave hond. Grote adressen zoals Le Bar Américain laten honden zelfs binnen toe, terwijl ontspannen plekjes bij Port Hercule ideaal zijn voor een informele maaltijd. Houd je hond altijd aan de riem en vraag om een waterbak."
+        },
+        {
+          "q": "Mogen honden binnen in restaurants in Monaco of alleen op terrassen?",
+          "a": "Dat verschilt per zaak. De meeste verwelkomen honden op het terras buiten; een enkele, zoals Le Bar Américain in het Hôtel de Paris, laat ze ook binnen toe. Vraag het bij twijfel bij het reserveren en kies bij warm weer een terrastafel."
+        },
+        {
+          "q": "Zorgen restaurants in Monaco voor water voor honden?",
+          "a": "De meeste hondvriendelijke terrassen brengen graag een waterbak als je erom vraagt. In de zomer loont het om er meteen om te vragen en een schaduwrijke tafel te kiezen, want het wordt heet in het vorstendom en de stoepen stralen warmte uit."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane nei ristoranti di Monaco?",
+          "a": "Sì, molte terrazze e alcune sale accolgono un cane educato al guinzaglio. Indirizzi prestigiosi come Le Bar Américain permettono i cani anche all'interno, mentre i locali rilassati vicino a Port Hercule sono comodi per un pasto informale. Tieni sempre il cane al guinzaglio e chiedi una ciotola d'acqua."
+        },
+        {
+          "q": "I cani sono ammessi all'interno dei ristoranti di Monaco o solo in terrazza?",
+          "a": "Dipende dal locale. La maggior parte accoglie i cani nella terrazza all'aperto; alcuni, come Le Bar Américain all'Hôtel de Paris, li ammettono anche all'interno. Nel dubbio, chiedi al momento della prenotazione e scegli un tavolo in terrazza quando fa caldo."
+        },
+        {
+          "q": "I ristoranti di Monaco offrono acqua per i cani?",
+          "a": "La maggior parte delle terrazze che accolgono i cani porta volentieri una ciotola d'acqua se la chiedi. In estate vale la pena chiederla subito e scegliere un tavolo all'ombra, perché nel Principato fa caldo e il selciato irradia calore."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Parks & Off-Leash Areas in Monte-Carlo",
+      "introEn": "Monaco is dense and vertical, so green space is limited and dogs must stay on the lead on every street and in the ornamental gardens. For a proper off-lead run the Principality provides four small fenced areas, and its largest park offers shaded leashed walking. For real open space, the coastal paths just across the French border are only minutes away.",
+      "titleFr": "Parcs à chiens et espaces sans laisse à Monte-Carlo",
+      "introFr": "Monaco est dense et verticale, si bien que les espaces verts sont limités et que les chiens doivent rester en laisse dans toutes les rues et dans les jardins d'agrément. Pour une vraie course sans laisse, la Principauté offre quatre petits espaces clôturés, et son plus grand parc propose une promenade en laisse à l'ombre. Pour un vrai grand espace, les sentiers du littoral, juste de l'autre côté de la frontière française, ne sont qu'à quelques minutes.",
+      "titleEs": "Parques caninos y zonas sin correa en Monte-Carlo",
+      "introEs": "Mónaco es denso y vertical, por lo que el espacio verde es limitado y los perros deben ir con correa en todas las calles y en los jardines ornamentales. Para una buena carrera sin correa, el Principado dispone de cuatro pequeñas zonas valladas, y su parque más grande ofrece paseos con correa a la sombra. Para un espacio realmente abierto, los senderos costeros justo al otro lado de la frontera francesa quedan a solo unos minutos.",
+      "titlePt": "Parques para cães e áreas sem trela em Monte-Carlo",
+      "introPt": "O Mónaco é denso e vertical, por isso o espaço verde é limitado e os cães têm de andar à trela em todas as ruas e nos jardins ornamentais. Para uma verdadeira corrida sem trela, o Principado disponibiliza quatro pequenas áreas vedadas, e o seu maior parque oferece passeios à trela com sombra. Para espaço aberto a sério, os caminhos costeiros logo do outro lado da fronteira francesa estão a apenas alguns minutos.",
+      "titleDe": "Hundeplätze und Freilaufflächen in Monte-Carlo",
+      "introDe": "Monaco ist dicht bebaut und steil, daher ist Grünfläche begrenzt, und Hunde müssen auf jeder Straße und in den Ziergärten an der Leine bleiben. Für einen richtigen Freilauf bietet das Fürstentum vier kleine eingezäunte Flächen, und sein größter Park ermöglicht schattiges Spazierengehen an der Leine. Für echten offenen Raum liegen die Küstenwege direkt jenseits der französischen Grenze nur wenige Minuten entfernt.",
+      "titleNl": "Hondenlosloopgebieden in Monte-Carlo",
+      "introNl": "Monaco is dichtbebouwd en verticaal, dus groen is beperkt en honden moeten aangelijnd blijven in elke straat en in de siertuinen. Voor een echte losloopren biedt het vorstendom vier kleine omheinde zones, en het grootste park biedt schaduwrijke wandelingen aan de lijn. Voor echte open ruimte liggen de kustpaden net over de Franse grens op slechts enkele minuten afstand.",
+      "titleIt": "Aree cani e spazi senza guinzaglio a Monte-Carlo",
+      "introIt": "Monaco è densa e verticale, quindi il verde è limitato e i cani devono restare al guinzaglio in ogni via e nei giardini ornamentali. Per una vera corsa libera il Principato mette a disposizione quattro piccole aree recintate, e il suo parco più grande offre passeggiate ombreggiate al guinzaglio. Per veri spazi aperti, i sentieri costieri appena oltre il confine francese sono a pochi minuti.",
+      "places": [
+        {
+          "name": "Off-Leash Area, 33 Boulevard du Jardin Exotique",
+          "type": "Fenced off-leash dog area",
+          "photo": "",
+          "website": "",
+          "description": "One of Monaco's four official off-leash areas, a small fenced enclosure with a few shade trees on Boulevard du Jardin Exotique. It is not large, but it is one of the only spots inside the Principality where your dog can legally run free for a while.",
+          "offLeash": true,
+          "offLeashArea": "Fenced off-leash enclosure with some shade",
+          "tip": "Go early or late in summer for the shade, and bring your own water as facilities are minimal.",
+          "googleMapsUrl": "https://maps.google.com/?q=33+Boulevard+du+Jardin+Exotique+Monaco",
+          "descriptionFr": "L'un des quatre espaces sans laisse officiels de Monaco, un petit enclos clôturé avec quelques arbres d'ombrage sur le boulevard du Jardin Exotique. Il n'est pas grand, mais c'est l'un des seuls endroits de la Principauté où votre chien peut légalement courir librement un moment.",
+          "offLeashAreaFr": "Enclos clôturé sans laisse avec un peu d'ombre",
+          "tipFr": "Allez-y tôt ou tard l'été pour profiter de l'ombre, et apportez votre propre eau car les équipements sont minimes.",
+          "descriptionEs": "Una de las cuatro zonas oficiales sin correa de Mónaco, un pequeño recinto vallado con algunos árboles que dan sombra en el Boulevard du Jardin Exotique. No es grande, pero es uno de los únicos sitios dentro del Principado donde tu perro puede correr libre y legalmente durante un rato.",
+          "offLeashAreaEs": "Recinto vallado sin correa con algo de sombra",
+          "tipEs": "Ve temprano o al atardecer en verano para aprovechar la sombra, y lleva tu propia agua, ya que las instalaciones son mínimas.",
+          "descriptionPt": "Uma das quatro áreas oficiais sem trela do Mónaco, um pequeno recinto vedado com algumas árvores de sombra no Boulevard du Jardin Exotique. Não é grande, mas é um dos únicos locais dentro do Principado onde o seu cão pode correr livremente e de forma legal por uns instantes.",
+          "offLeashAreaPt": "Recinto vedado sem trela com alguma sombra",
+          "tipPt": "Vá cedo ou ao fim do dia no verão pela sombra, e leve a sua própria água, pois as instalações são mínimas.",
+          "descriptionDe": "Eine der vier offiziellen Freilaufflächen Monacos, ein kleines eingezäuntes Areal mit ein paar Schattenbäumen am Boulevard du Jardin Exotique. Es ist nicht groß, aber einer der wenigen Orte innerhalb des Fürstentums, an dem Ihr Hund für eine Weile legal frei laufen darf.",
+          "offLeashAreaDe": "Eingezäuntes Freilaufareal mit etwas Schatten",
+          "tipDe": "Gehen Sie im Sommer früh oder spät für den Schatten und bringen Sie eigenes Wasser mit, da die Ausstattung minimal ist.",
+          "descriptionNl": "Een van de vier officiële losloopgebieden van Monaco, een klein omheind terrein met een paar schaduwbomen aan de Boulevard du Jardin Exotique. Het is niet groot, maar het is een van de weinige plekken binnen het vorstendom waar je hond even legaal vrij kan rennen.",
+          "offLeashAreaNl": "Omheinde losloopzone met wat schaduw",
+          "tipNl": "Ga in de zomer vroeg of laat voor de schaduw, en neem je eigen water mee, want de voorzieningen zijn minimaal.",
+          "descriptionIt": "Una delle quattro aree ufficiali senza guinzaglio di Monaco, un piccolo recinto con qualche albero d'ombra sul boulevard du Jardin Exotique. Non è grande, ma è uno dei pochi punti all'interno del Principato dove il tuo cane può correre libero legalmente per un po'.",
+          "offLeashAreaIt": "Recinto senza guinzaglio con un po' d'ombra",
+          "tipIt": "Vai presto o tardi d'estate per l'ombra, e porta la tua acqua perché i servizi sono minimi."
+        },
+        {
+          "name": "Fontvieille Dog Area (Place du Campanin)",
+          "type": "Fenced off-leash dog area",
+          "photo": "",
+          "website": "",
+          "description": "A fenced off-leash area in the Fontvieille district, reached from Place du Campanin beside the Princess Grace Rose Garden. The Rose Garden itself is off-limits to dogs, but this enclosure gives them a legal place to stretch their legs by the harbour.",
+          "offLeash": true,
+          "offLeashArea": "Fenced off-leash area near the Rose Garden",
+          "tip": "Combine it with a leashed loop around Fontvieille port and Princess Antoinette Park nearby.",
+          "googleMapsUrl": "https://maps.google.com/?q=Place+du+Campanin+Fontvieille+Monaco",
+          "descriptionFr": "Un espace clôturé sans laisse dans le quartier de Fontvieille, accessible depuis la Place du Campanin, à côté du Princess Grace Rose Garden. La roseraie elle-même est interdite aux chiens, mais cet enclos leur offre un endroit légal pour se dégourdir les pattes près du port.",
+          "offLeashAreaFr": "Espace clôturé sans laisse près de la roseraie",
+          "tipFr": "Combinez-le avec une boucle en laisse autour du port de Fontvieille et du Parc Princesse Antoinette tout proche.",
+          "descriptionEs": "Una zona vallada sin correa en el distrito de Fontvieille, a la que se llega desde la Place du Campanin, junto al Princess Grace Rose Garden. La propia rosaleda está vetada a los perros, pero este recinto les da un lugar legal donde estirar las patas junto al puerto.",
+          "offLeashAreaEs": "Zona vallada sin correa cerca de la rosaleda",
+          "tipEs": "Combínala con una vuelta con correa por el puerto de Fontvieille y el cercano Parc Princesse Antoinette.",
+          "descriptionPt": "Uma área vedada sem trela no bairro de Fontvieille, com acesso pela Place du Campanin, junto ao Princess Grace Rose Garden. O próprio jardim de rosas é interdito a cães, mas este recinto dá-lhes um lugar legal para esticarem as pernas junto ao porto.",
+          "offLeashAreaPt": "Área vedada sem trela perto do jardim de rosas",
+          "tipPt": "Combine-a com uma volta à trela pelo porto de Fontvieille e pelo Parc Princesse Antoinette, ali perto.",
+          "descriptionDe": "Eine eingezäunte Freilauffläche im Stadtteil Fontvieille, erreichbar von der Place du Campanin neben dem Princess Grace Rose Garden. Der Rosengarten selbst ist für Hunde tabu, aber dieses Areal gibt ihnen einen legalen Ort, um sich am Hafen die Beine zu vertreten.",
+          "offLeashAreaDe": "Eingezäunte Freilauffläche nahe dem Rosengarten",
+          "tipDe": "Verbinden Sie sie mit einer angeleinten Runde um den Hafen von Fontvieille und den nahen Parc Princesse Antoinette.",
+          "descriptionNl": "Een omheind losloopgebied in de wijk Fontvieille, bereikbaar vanaf Place du Campanin naast de Princess Grace Rose Garden. De rozentuin zelf is verboden voor honden, maar dit terrein geeft ze een legale plek om hun poten te strekken bij de haven.",
+          "offLeashAreaNl": "Omheind losloopgebied bij de rozentuin",
+          "tipNl": "Combineer het met een aangelijnd rondje langs de haven van Fontvieille en het nabijgelegen Parc Princesse Antoinette.",
+          "descriptionIt": "Un'area recintata senza guinzaglio nel quartiere di Fontvieille, raggiungibile dalla Place du Campanin accanto al Princess Grace Rose Garden. Il roseto stesso è vietato ai cani, ma questo recinto offre loro un luogo legale per sgranchirsi le zampe vicino al porto.",
+          "offLeashAreaIt": "Area senza guinzaglio vicino al roseto",
+          "tipIt": "Abbinala a un giro al guinzaglio attorno al porto di Fontvieille e al vicino Parc Princesse Antoinette."
+        },
+        {
+          "name": "Parc Princesse Antoinette",
+          "type": "Public park (dogs on lead)",
+          "photo": "",
+          "website": "",
+          "description": "Monaco's largest public park, a shaded terrace of old olive trees above Monte-Carlo with playgrounds and quiet paths. Dogs are welcome on the lead along the walkways, making it the most pleasant green leashed stroll inside the Principality.",
+          "offLeash": false,
+          "offLeashArea": "On-lead only; shaded walkways",
+          "tip": "It is a leashed park, not an off-lead one, but the olive-tree shade makes it a cool midday walk in summer.",
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+Princesse+Antoinette+Monaco",
+          "descriptionFr": "Le plus grand parc public de Monaco, une terrasse ombragée de vieux oliviers au-dessus de Monte-Carlo, avec des aires de jeux et des allées tranquilles. Les chiens y sont bienvenus en laisse le long des cheminements, ce qui en fait la plus agréable promenade verte en laisse de la Principauté.",
+          "offLeashAreaFr": "En laisse uniquement ; allées ombragées",
+          "tipFr": "C'est un parc où la laisse est obligatoire, pas un espace sans laisse, mais l'ombre des oliviers en fait une promenade fraîche en milieu de journée l'été.",
+          "descriptionEs": "El parque público más grande de Mónaco, una terraza sombreada de viejos olivos por encima de Monte-Carlo, con zonas de juegos y senderos tranquilos. Los perros son bienvenidos con correa por los paseos, lo que lo convierte en el paseo verde con correa más agradable del Principado.",
+          "offLeashAreaEs": "Solo con correa; paseos a la sombra",
+          "tipEs": "Es un parque de correa, no una zona sin correa, pero la sombra de los olivos lo convierte en un paseo fresco al mediodía en verano.",
+          "descriptionPt": "O maior parque público do Mónaco, um terraço sombreado de velhas oliveiras acima de Monte-Carlo, com parques infantis e caminhos tranquilos. Os cães são bem-vindos à trela ao longo dos passeios, o que faz dele o mais agradável passeio verde à trela dentro do Principado.",
+          "offLeashAreaPt": "Apenas à trela; passeios com sombra",
+          "tipPt": "É um parque com trela, não sem trela, mas a sombra das oliveiras torna-o um passeio fresco a meio do dia no verão.",
+          "descriptionDe": "Monacos größter öffentlicher Park, eine schattige Terrasse mit alten Olivenbäumen oberhalb von Monte-Carlo, mit Spielplätzen und ruhigen Wegen. Hunde sind an der Leine auf den Wegen willkommen, was ihn zum angenehmsten grünen Leinenspaziergang innerhalb des Fürstentums macht.",
+          "offLeashAreaDe": "Nur an der Leine; schattige Wege",
+          "tipDe": "Es ist ein Leinenpark, kein Freilaufpark, aber der Schatten der Olivenbäume macht ihn im Sommer zu einem kühlen Spaziergang zur Mittagszeit.",
+          "descriptionNl": "Het grootste openbare park van Monaco, een schaduwrijk terras met oude olijfbomen boven Monte-Carlo, met speeltuinen en rustige paden. Honden zijn welkom aan de lijn langs de wandelpaden, wat het de aangenaamste groene aangelijnde wandeling binnen het vorstendom maakt.",
+          "offLeashAreaNl": "Alleen aangelijnd; schaduwrijke wandelpaden",
+          "tipNl": "Het is een aangelijnd park, geen losloopgebied, maar de schaduw van de olijfbomen maakt het in de zomer een koele middagwandeling.",
+          "descriptionIt": "Il parco pubblico più grande di Monaco, una terrazza ombreggiata di vecchi ulivi sopra Monte-Carlo con aree gioco e sentieri tranquilli. I cani sono benvenuti al guinzaglio lungo i vialetti, il che ne fa la passeggiata verde al guinzaglio più piacevole all'interno del Principato.",
+          "offLeashAreaIt": "Solo al guinzaglio; vialetti ombreggiati",
+          "tipIt": "È un parco al guinzaglio, non un'area libera, ma l'ombra degli ulivi lo rende una passeggiata fresca a mezzogiorno d'estate."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there off-leash dog parks in Monaco?",
+          "a": "Yes, but they are small. Monaco has four official fenced off-leash areas, including one at 33 Boulevard du Jardin Exotique and one in Fontvieille near Place du Campanin. For a proper run, most owners cross into France to the Cap d'Ail coastal path or the Parc du Cap Martin."
+        },
+        {
+          "q": "Can dogs go on the grass and in the gardens in Monaco?",
+          "a": "No. Dogs are banned from Monaco's lawns and ornamental gardens and must stay on the lead on public streets, with a 75€ fine for off-lead dogs. Use the marked off-leash enclosures, or walk the leashed paths of Parc Princesse Antoinette."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il des parcs à chiens sans laisse à Monaco ?",
+          "a": "Oui, mais ils sont petits. Monaco compte quatre espaces clôturés officiels sans laisse, dont un au 33 boulevard du Jardin Exotique et un à Fontvieille près de la Place du Campanin. Pour une vraie course, la plupart des maîtres passent en France, vers le sentier du littoral de Cap d'Ail ou le Parc du Cap Martin."
+        },
+        {
+          "q": "Les chiens peuvent-ils aller sur les pelouses et dans les jardins à Monaco ?",
+          "a": "Non. Les chiens sont interdits sur les pelouses et dans les jardins d'agrément de Monaco et doivent rester en laisse dans les rues publiques, sous peine d'une amende de 75€ pour un chien sans laisse. Utilisez les enclos sans laisse signalés, ou promenez-vous sur les allées en laisse du Parc Princesse Antoinette."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay parques caninos sin correa en Mónaco?",
+          "a": "Sí, pero son pequeños. Mónaco tiene cuatro zonas oficiales valladas sin correa, entre ellas una en el 33 de Boulevard du Jardin Exotique y otra en Fontvieille, cerca de la Place du Campanin. Para una buena carrera, la mayoría de los dueños cruzan a Francia, al sendero costero de Cap d'Ail o al Parc du Cap Martin."
+        },
+        {
+          "q": "¿Pueden los perros pisar el césped y entrar en los jardines de Mónaco?",
+          "a": "No. Los perros tienen prohibido el césped y los jardines ornamentales de Mónaco y deben ir con correa en las calles públicas, con una multa de 75€ para los perros sin correa. Usa las zonas valladas señalizadas sin correa, o pasea por los senderos con correa del Parc Princesse Antoinette."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Existem parques para cães sem trela no Mónaco?",
+          "a": "Sim, mas são pequenos. O Mónaco tem quatro áreas oficiais vedadas sem trela, incluindo uma no 33 Boulevard du Jardin Exotique e outra em Fontvieille, perto da Place du Campanin. Para uma corrida a sério, a maioria dos donos atravessa para França, até ao caminho costeiro de Cap d'Ail ou ao Parc du Cap Martin."
+        },
+        {
+          "q": "Os cães podem andar na relva e nos jardins do Mónaco?",
+          "a": "Não. Os cães estão proibidos nos relvados e jardins ornamentais do Mónaco e têm de andar à trela nas ruas públicas, com uma multa de 75€ para cães sem trela. Utilize os recintos sem trela assinalados, ou passeie pelos caminhos com trela do Parc Princesse Antoinette."
+        }
+      ],
+      "faqsDe": [
+        {
+          "q": "Gibt es in Monaco Freilaufflächen für Hunde?",
+          "a": "Ja, aber sie sind klein. Monaco hat vier offizielle eingezäunte Freilaufflächen, darunter eine am 33 Boulevard du Jardin Exotique und eine in Fontvieille nahe der Place du Campanin. Für einen richtigen Lauf gehen die meisten Halter nach Frankreich hinüber zum Küstenweg von Cap d'Ail oder zum Parc du Cap Martin."
+        },
+        {
+          "q": "Dürfen Hunde in Monaco auf den Rasen und in die Gärten?",
+          "a": "Nein. Hunde sind auf den Rasenflächen und in den Ziergärten Monacos verboten und müssen auf öffentlichen Straßen an der Leine bleiben, mit einer Geldstrafe von 75€ für nicht angeleinte Hunde. Nutzen Sie die markierten Freilaufflächen oder gehen Sie die angeleinten Wege des Parc Princesse Antoinette."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Zijn er losloopgebieden voor honden in Monaco?",
+          "a": "Ja, maar ze zijn klein. Monaco heeft vier officiële omheinde losloopgebieden, waaronder een aan 33 Boulevard du Jardin Exotique en een in Fontvieille bij Place du Campanin. Voor een echte ren steken de meeste baasjes over naar Frankrijk, naar het kustpad van Cap d'Ail of het Parc du Cap Martin."
+        },
+        {
+          "q": "Mogen honden op het gras en in de tuinen in Monaco?",
+          "a": "Nee. Honden zijn verboden op de gazons en in de siertuinen van Monaco en moeten aangelijnd blijven op de openbare weg, met een boete van 75€ voor loslopende honden. Gebruik de aangeduide losloopzones, of wandel de aangelijnde paden van het Parc Princesse Antoinette."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Ci sono aree cani senza guinzaglio a Monaco?",
+          "a": "Sì, ma sono piccole. Monaco ha quattro aree ufficiali recintate senza guinzaglio, tra cui una al 33 boulevard du Jardin Exotique e una a Fontvieille vicino alla Place du Campanin. Per una vera corsa, la maggior parte dei proprietari passa in Francia verso il sentiero costiero di Cap d'Ail o il Parc du Cap Martin."
+        },
+        {
+          "q": "I cani possono andare sull'erba e nei giardini a Monaco?",
+          "a": "No. I cani sono vietati sui prati e nei giardini ornamentali di Monaco e devono restare al guinzaglio nelle vie pubbliche, con una multa di 75€ per i cani liberi. Usa i recinti senza guinzaglio segnalati, oppure percorri i sentieri al guinzaglio del Parc Princesse Antoinette."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Monte-Carlo with a Dog: Buses, Trains & Lifts",
+      "introEn": "Monaco is barely two square kilometres and is best explored on foot, helped by a free network of public lifts and escalators that spare you the steepest hills, which is a gift when you are walking a small dog. There is no airport and no metro: most visitors arrive through Nice, and local buses, trains and taxis all take dogs under simple conditions.",
+      "titleFr": "Se déplacer à Monte-Carlo avec un chien : bus, trains et ascenseurs",
+      "introFr": "Monaco fait à peine deux kilomètres carrés et se découvre au mieux à pied, aidé par un réseau gratuit d'ascenseurs et d'escaliers mécaniques publics qui vous épargnent les côtes les plus raides, ce qui est un cadeau quand on promène un petit chien. Il n'y a ni aéroport ni métro : la plupart des visiteurs arrivent par Nice, et les bus, trains et taxis locaux acceptent tous les chiens à des conditions simples.",
+      "titleEs": "Cómo moverse por Monte-Carlo con un perro: autobuses, trenes y ascensores",
+      "introEs": "Mónaco apenas tiene dos kilómetros cuadrados y se explora mejor a pie, con la ayuda de una red gratuita de ascensores y escaleras mecánicas públicas que te ahorran las cuestas más empinadas, todo un regalo cuando paseas a un perro pequeño. No hay aeropuerto ni metro: la mayoría de los visitantes llegan a través de Niza, y los autobuses, trenes y taxis locales admiten perros con condiciones sencillas.",
+      "titlePt": "Deslocar-se em Monte-Carlo com um cão: autocarros, comboios e elevadores",
+      "introPt": "O Mónaco tem pouco mais de dois quilómetros quadrados e explora-se melhor a pé, ajudado por uma rede gratuita de elevadores e escadas rolantes públicos que lhe poupam as subidas mais íngremes, o que é uma dádiva quando passeia um cão pequeno. Não há aeroporto nem metro: a maioria dos visitantes chega através de Nice, e os autocarros, comboios e táxis locais aceitam todos cães sob condições simples.",
+      "titleDe": "Unterwegs in Monte-Carlo mit einem Hund: Busse, Züge und Aufzüge",
+      "introDe": "Monaco ist kaum zwei Quadratkilometer groß und lässt sich am besten zu Fuß erkunden, unterstützt von einem kostenlosen Netz öffentlicher Aufzüge und Rolltreppen, die Ihnen die steilsten Anstiege ersparen, was ein Geschenk ist, wenn Sie einen kleinen Hund ausführen. Es gibt keinen Flughafen und keine Metro: Die meisten Besucher reisen über Nizza an, und die örtlichen Busse, Züge und Taxis nehmen Hunde unter einfachen Bedingungen mit.",
+      "titleNl": "Je verplaatsen in Monte-Carlo met een hond: bussen, treinen en liften",
+      "introNl": "Monaco is nauwelijks twee vierkante kilometer groot en verken je het best te voet, geholpen door een gratis netwerk van openbare liften en roltrappen die je de steilste heuvels besparen, wat een cadeautje is als je een klein hondje uitlaat. Er is geen luchthaven en geen metro: de meeste bezoekers komen aan via Nice, en de lokale bussen, treinen en taxi's nemen allemaal honden mee onder eenvoudige voorwaarden.",
+      "titleIt": "Spostarsi a Monte-Carlo con un cane: autobus, treni e ascensori",
+      "introIt": "Monaco supera di poco i due chilometri quadrati e si esplora al meglio a piedi, aiutati da una rete gratuita di ascensori e scale mobili pubblici che ti risparmiano le salite più ripide, un dono quando porti a spasso un cane piccolo. Non c'è aeroporto né metropolitana: la maggior parte dei visitatori arriva attraverso Nizza, e autobus, treni e taxi locali accettano tutti i cani a condizioni semplici.",
+      "places": [],
+      "faqsEn": [
+        {
+          "q": "How do I get to Monaco with a dog?",
+          "a": "There is no commercial airport in Monaco. Most people fly into Nice Côte d'Azur (NCE), about 30 minutes away, then continue by train, bus or the coastal road. SNCF trains carry dogs for a flat fee of around 10€, with small dogs in a carrier and larger dogs muzzled and leashed."
+        },
+        {
+          "q": "Can I take a dog on Monaco's buses?",
+          "a": "Small dogs in a carrier are accepted on the local CAM buses. Because the Principality is so compact and served by public lifts, many visitors simply walk everywhere with their dog rather than using the bus."
+        },
+        {
+          "q": "Is Monaco walkable with a dog?",
+          "a": "Very. Monaco is tiny and pedestrian-friendly, and a free system of public lifts and escalators connects the port, the Casino and the old town on Le Rocher, so you can cross the whole Principality on foot without tackling every hill."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Comment se rendre à Monaco avec un chien ?",
+          "a": "Il n'y a pas d'aéroport commercial à Monaco. La plupart des gens atterrissent à Nice Côte d'Azur (NCE), à environ 30 minutes, puis continuent en train, en bus ou par la route du littoral. Les trains SNCF transportent les chiens pour un forfait d'environ 10€, les petits chiens en sac de transport et les plus grands muselés et tenus en laisse."
+        },
+        {
+          "q": "Puis-je prendre un chien dans les bus de Monaco ?",
+          "a": "Les petits chiens en sac de transport sont acceptés dans les bus locaux de la CAM. Comme la Principauté est très compacte et desservie par des ascenseurs publics, de nombreux visiteurs se déplacent simplement à pied avec leur chien plutôt que de prendre le bus."
+        },
+        {
+          "q": "Monaco se parcourt-elle facilement à pied avec un chien ?",
+          "a": "Tout à fait. Monaco est minuscule et adaptée aux piétons, et un système gratuit d'ascenseurs et d'escaliers mécaniques publics relie le port, le Casino et la vieille ville sur Le Rocher, si bien que vous pouvez traverser toute la Principauté à pied sans affronter chaque côte."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cómo llego a Mónaco con un perro?",
+          "a": "No hay aeropuerto comercial en Mónaco. La mayoría de la gente vuela hasta Nice Côte d'Azur (NCE), a unos 30 minutos, y luego continúa en tren, autobús o por la carretera de la costa. Los trenes de la SNCF llevan perros por una tarifa plana de unos 10€, con los perros pequeños en transportín y los grandes con bozal y correa."
+        },
+        {
+          "q": "¿Puedo llevar un perro en los autobuses de Mónaco?",
+          "a": "Los perros pequeños en transportín se admiten en los autobuses locales de la CAM. Como el Principado es tan compacto y está servido por ascensores públicos, muchos visitantes simplemente van a pie a todas partes con su perro en lugar de usar el autobús."
+        },
+        {
+          "q": "¿Se puede recorrer Mónaco a pie con un perro?",
+          "a": "Muchísimo. Mónaco es diminuto y cómodo para caminar, y un sistema gratuito de ascensores y escaleras mecánicas públicas conecta el puerto, el Casino y el casco antiguo de Le Rocher, de modo que puedes cruzar todo el Principado a pie sin tener que subir cada cuesta."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Como chego ao Mónaco com um cão?",
+          "a": "Não existe aeroporto comercial no Mónaco. A maioria das pessoas voa para Nice Côte d'Azur (NCE), a cerca de 30 minutos, e continua depois de comboio, autocarro ou pela estrada costeira. Os comboios da SNCF transportam cães por uma tarifa fixa de cerca de 10€, com os cães pequenos numa transportadora e os maiores com açaimo e à trela."
+        },
+        {
+          "q": "Posso levar um cão nos autocarros do Mónaco?",
+          "a": "Os cães pequenos numa transportadora são aceites nos autocarros locais da CAM. Como o Principado é tão compacto e servido por elevadores públicos, muitos visitantes simplesmente andam a pé para todo o lado com o seu cão, em vez de usarem o autocarro."
+        },
+        {
+          "q": "É fácil andar a pé no Mónaco com um cão?",
+          "a": "Muito. O Mónaco é minúsculo e amigo dos peões, e um sistema gratuito de elevadores e escadas rolantes públicos liga o porto, o Casino e a cidade velha em Le Rocher, por isso pode atravessar todo o Principado a pé sem enfrentar todas as subidas."
+        }
+      ],
+      "faqsDe": [
+        {
+          "q": "Wie komme ich mit einem Hund nach Monaco?",
+          "a": "In Monaco gibt es keinen kommerziellen Flughafen. Die meisten fliegen nach Nice Côte d'Azur (NCE), etwa 30 Minuten entfernt, und fahren dann mit Zug, Bus oder über die Küstenstraße weiter. SNCF-Züge befördern Hunde für eine Pauschale von etwa 10€, kleine Hunde in einer Transportbox, größere Hunde mit Maulkorb und an der Leine."
+        },
+        {
+          "q": "Darf ich einen Hund in Monacos Busse mitnehmen?",
+          "a": "Kleine Hunde in einer Transportbox werden in den örtlichen CAM-Bussen akzeptiert. Da das Fürstentum so kompakt ist und durch öffentliche Aufzüge erschlossen wird, gehen viele Besucher mit ihrem Hund einfach überallhin zu Fuß, statt den Bus zu nutzen."
+        },
+        {
+          "q": "Ist Monaco mit einem Hund gut zu Fuß zu erkunden?",
+          "a": "Sehr. Monaco ist winzig und fußgängerfreundlich, und ein kostenloses System öffentlicher Aufzüge und Rolltreppen verbindet den Hafen, das Casino und die Altstadt auf Le Rocher, sodass Sie das ganze Fürstentum zu Fuß durchqueren können, ohne jeden Hügel zu bewältigen."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Hoe kom ik met een hond in Monaco?",
+          "a": "Er is geen commerciële luchthaven in Monaco. De meeste mensen vliegen naar Nice Côte d'Azur (NCE), zo'n 30 minuten verderop, en gaan dan verder met de trein, de bus of de kustweg. SNCF-treinen vervoeren honden voor een vast tarief van ongeveer 10€, met kleine honden in een reismand en grotere honden gemuilkorfd en aangelijnd."
+        },
+        {
+          "q": "Mag ik een hond meenemen in de bussen van Monaco?",
+          "a": "Kleine honden in een reismand zijn toegestaan in de lokale CAM-bussen. Omdat het vorstendom zo compact is en van openbare liften is voorzien, lopen veel bezoekers gewoon overal met hun hond in plaats van de bus te nemen."
+        },
+        {
+          "q": "Is Monaco te belopen met een hond?",
+          "a": "Heel goed. Monaco is klein en voetgangersvriendelijk, en een gratis systeem van openbare liften en roltrappen verbindt de haven, het Casino en de oude stad op Le Rocher, zodat je het hele vorstendom te voet kunt doorkruisen zonder elke heuvel te hoeven bedwingen."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Come arrivo a Monaco con un cane?",
+          "a": "Non c'è un aeroporto commerciale a Monaco. La maggior parte delle persone atterra a Nice Côte d'Azur (NCE), a circa 30 minuti, poi prosegue in treno, autobus o lungo la strada costiera. I treni SNCF trasportano i cani a una tariffa forfettaria di circa 10€, con i cani piccoli in un trasportino e quelli più grandi con museruola e al guinzaglio."
+        },
+        {
+          "q": "Posso portare un cane sugli autobus di Monaco?",
+          "a": "I cani piccoli in un trasportino sono accettati sugli autobus locali della CAM. Poiché il Principato è così compatto e servito da ascensori pubblici, molti visitatori camminano semplicemente ovunque con il proprio cane invece di usare l'autobus."
+        },
+        {
+          "q": "Monaco si gira bene a piedi con un cane?",
+          "a": "Moltissimo. Monaco è piccolissima e adatta ai pedoni, e un sistema gratuito di ascensori e scale mobili pubblici collega il porto, il Casinò e la città vecchia sul Rocher, così puoi attraversare tutto il Principato a piedi senza affrontare ogni salita."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches Near Monte-Carlo",
+      "introEn": "Monaco's own beach at Larvotto does not allow dogs, so for a seaside swim you cross into France, where several dog-friendly beaches sit within minutes of the Principality. The closest are reached on foot along the Cap d'Ail coastal path, and a short drive east brings you to designated dog beaches around Roquebrune-Cap-Martin and Menton.",
+      "titleFr": "Plages qui acceptent les chiens près de Monte-Carlo",
+      "introFr": "La plage de Monaco, à Larvotto, n'autorise pas les chiens ; pour une baignade en bord de mer, vous passez donc en France, où plusieurs plages acceptant les chiens se trouvent à quelques minutes de la Principauté. Les plus proches se rejoignent à pied par le sentier du littoral de Cap d'Ail, et un court trajet en voiture vers l'est vous mène à des plages pour chiens autour de Roquebrune-Cap-Martin et de Menton.",
+      "titleEs": "Playas que admiten perros cerca de Monte-Carlo",
+      "introEs": "La propia playa de Mónaco, en Larvotto, no admite perros, así que para un baño en el mar hay que cruzar a Francia, donde varias playas que admiten perros quedan a pocos minutos del Principado. A las más cercanas se llega a pie por el sendero costero de Cap d'Ail, y un corto trayecto en coche hacia el este te lleva a playas caninas señalizadas en torno a Roquebrune-Cap-Martin y Menton.",
+      "titlePt": "Praias que aceitam cães perto de Monte-Carlo",
+      "introPt": "A própria praia do Mónaco, em Larvotto, não permite cães, por isso, para um mergulho à beira-mar, atravessa-se para França, onde várias praias que aceitam cães ficam a poucos minutos do Principado. As mais próximas alcançam-se a pé pelo caminho costeiro de Cap d'Ail, e uma curta viagem de carro para leste leva-o a praias para cães assinaladas em torno de Roquebrune-Cap-Martin e Menton.",
+      "titleDe": "Hundefreundliche Strände nahe Monte-Carlo",
+      "introDe": "Monacos eigener Strand in Larvotto erlaubt keine Hunde, für ein Bad im Meer wechseln Sie also nach Frankreich hinüber, wo mehrere hundefreundliche Strände nur wenige Minuten vom Fürstentum entfernt liegen. Die nächsten erreichen Sie zu Fuß entlang des Küstenwegs von Cap d'Ail, und eine kurze Fahrt nach Osten bringt Sie zu ausgewiesenen Hundestränden rund um Roquebrune-Cap-Martin und Menton.",
+      "titleNl": "Hondvriendelijke stranden nabij Monte-Carlo",
+      "introNl": "Op het eigen strand van Monaco bij Larvotto zijn honden niet toegestaan, dus voor een duik in zee steek je over naar Frankrijk, waar verschillende hondvriendelijke stranden op enkele minuten van het vorstendom liggen. De dichtstbijzijnde bereik je te voet via het kustpad van Cap d'Ail, en een korte rit oostwaarts brengt je naar aangeduide hondenstranden rond Roquebrune-Cap-Martin en Menton.",
+      "titleIt": "Spiagge che accolgono i cani vicino a Monte-Carlo",
+      "introIt": "La spiaggia di Monaco al Larvotto non ammette i cani, quindi per un bagno in mare devi passare in Francia, dove diverse spiagge che accolgono i cani si trovano a pochi minuti dal Principato. Le più vicine si raggiungono a piedi lungo il sentiero costiero di Cap d'Ail, e un breve tragitto in auto verso est ti porta a spiagge per cani designate intorno a Roquebrune-Cap-Martin e Menton.",
+      "places": [
+        {
+          "name": "Plage des Douaniers (Cap d'Ail)",
+          "distance": "About 2 km west of Monaco, on the Cap d'Ail coastal path",
+          "description": "A rocky cove on the Cap d'Ail shore reached along the scenic Chemin des Douaniers coastal path, where dogs are tolerated and can cool off in the clear water. It is the closest real swim spot to Monaco and can be walked to without a car.",
+          "season": "Best off-season and outside peak summer hours",
+          "rules": "Keep your dog leashed out of the water, carry waste bags, and bring shade and water in summer.",
+          "facilities": "Wild cove, few facilities; bring your own water and shade",
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+des+Douaniers+Cap+d'Ail",
+          "photo": "",
+          "descriptionFr": "Une crique rocheuse sur le rivage de Cap d'Ail, accessible par le pittoresque sentier du littoral, le Chemin des Douaniers, où les chiens sont tolérés et peuvent se rafraîchir dans l'eau claire. C'est le point de baignade véritable le plus proche de Monaco, accessible à pied sans voiture.",
+          "rulesFr": "Gardez votre chien en laisse hors de l'eau, emportez des sacs à déjections, et prévoyez ombre et eau l'été.",
+          "seasonFr": "Idéale hors saison et en dehors des heures de pointe de l'été",
+          "descriptionEs": "Una cala rocosa en la costa de Cap d'Ail a la que se llega por el pintoresco sendero costero Chemin des Douaniers, donde se toleran los perros y pueden refrescarse en el agua cristalina. Es el lugar de baño real más cercano a Mónaco y se puede ir a pie sin coche.",
+          "rulesEs": "Mantén a tu perro con correa fuera del agua, lleva bolsas para los desechos y trae sombra y agua en verano.",
+          "seasonEs": "Mejor fuera de temporada y fuera de las horas punta del verano",
+          "descriptionPt": "Uma enseada rochosa na costa de Cap d'Ail, alcançada pelo cénico caminho costeiro Chemin des Douaniers, onde os cães são tolerados e podem refrescar-se na água cristalina. É o local de mergulho a sério mais próximo do Mónaco e pode chegar-se lá a pé sem carro.",
+          "rulesPt": "Mantenha o cão à trela fora da água, leve sacos para os dejetos e traga sombra e água no verão.",
+          "seasonPt": "Melhor fora de época e fora das horas de pico do verão",
+          "descriptionDe": "Eine felsige Bucht an der Küste von Cap d'Ail, erreichbar entlang des malerischen Küstenwegs Chemin des Douaniers, wo Hunde geduldet werden und sich im klaren Wasser abkühlen können. Es ist der nächstgelegene echte Badeort zu Monaco und ohne Auto erreichbar.",
+          "rulesDe": "Halten Sie Ihren Hund außerhalb des Wassers an der Leine, führen Sie Kotbeutel mit und bringen Sie im Sommer Schatten und Wasser mit.",
+          "seasonDe": "Am besten außerhalb der Saison und außerhalb der Hochsommer-Stoßzeiten",
+          "descriptionNl": "Een rotsachtige baai aan de kust van Cap d'Ail, bereikbaar via het schilderachtige kustpad Chemin des Douaniers, waar honden worden gedoogd en kunnen afkoelen in het heldere water. Het is de dichtstbijzijnde echte zwemplek bij Monaco en te voet bereikbaar zonder auto.",
+          "rulesNl": "Houd je hond aangelijnd buiten het water, neem poepzakjes mee en zorg in de zomer voor schaduw en water.",
+          "seasonNl": "Het best buiten het seizoen en buiten de piekuren van de zomer",
+          "descriptionIt": "Una caletta rocciosa sulla costa di Cap d'Ail raggiungibile lungo il panoramico sentiero costiero Chemin des Douaniers, dove i cani sono tollerati e possono rinfrescarsi nell'acqua limpida. È il vero punto di balneazione più vicino a Monaco e si raggiunge a piedi senza auto.",
+          "rulesIt": "Tieni il cane al guinzaglio fuori dall'acqua, porta i sacchetti per i rifiuti e in estate porta ombra e acqua.",
+          "seasonIt": "Ideale in bassa stagione e fuori dagli orari di punta estivi"
+        },
+        {
+          "name": "Plage de la Piscine (Roquebrune-Cap-Martin)",
+          "distance": "A few minutes east of Monaco by car",
+          "description": "A small, sheltered beach in Roquebrune-Cap-Martin, next to the Parc du Cap Martin, where dogs are welcome and the calm water suits a gentle paddle. Combine it with the large dog-friendly green space of the Cap Martin park nearby.",
+          "season": "Year-round for walks; swimming best in the warmer months",
+          "rules": "Leash out of the water, pick up after your dog, and check local off-season rules.",
+          "facilities": "Small beach with nearby park, fountains and bins",
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+de+la+Piscine+Roquebrune-Cap-Martin",
+          "photo": "",
+          "descriptionFr": "Une petite plage abritée à Roquebrune-Cap-Martin, à côté du Parc du Cap Martin, où les chiens sont bienvenus et l'eau calme se prête à une baignade douce. Associez-la au grand espace vert acceptant les chiens du parc du Cap Martin tout proche.",
+          "rulesFr": "En laisse hors de l'eau, ramassez les déjections de votre chien, et vérifiez la réglementation locale hors saison.",
+          "seasonFr": "Toute l'année pour les promenades ; baignade idéale aux beaux jours",
+          "descriptionEs": "Una pequeña playa resguardada en Roquebrune-Cap-Martin, junto al Parc du Cap Martin, donde los perros son bienvenidos y el agua tranquila es ideal para un chapuzón suave. Combínala con el gran espacio verde que admite perros del cercano parque de Cap Martin.",
+          "rulesEs": "Con correa fuera del agua, recoge lo que deje tu perro y consulta las normas locales fuera de temporada.",
+          "seasonEs": "Todo el año para pasear; el baño es mejor en los meses más cálidos",
+          "descriptionPt": "Uma praia pequena e abrigada em Roquebrune-Cap-Martin, junto ao Parc du Cap Martin, onde os cães são bem-vindos e a água calma é ideal para uma chapinhagem suave. Combine-a com o grande espaço verde que aceita cães do parque de Cap Martin, ali perto.",
+          "rulesPt": "À trela fora da água, apanhe os dejetos do seu cão e verifique as regras locais de época baixa.",
+          "seasonPt": "Todo o ano para passeios; melhor para nadar nos meses mais quentes",
+          "descriptionDe": "Ein kleiner, geschützter Strand in Roquebrune-Cap-Martin, neben dem Parc du Cap Martin, wo Hunde willkommen sind und das ruhige Wasser sich für ein sanftes Planschen eignet. Verbinden Sie ihn mit der großen hundefreundlichen Grünfläche des nahen Cap-Martin-Parks.",
+          "rulesDe": "Außerhalb des Wassers anleinen, hinter Ihrem Hund aufheben und die örtlichen Regeln außerhalb der Saison prüfen.",
+          "seasonDe": "Ganzjährig für Spaziergänge; Baden am besten in den wärmeren Monaten",
+          "descriptionNl": "Een klein, beschut strand in Roquebrune-Cap-Martin, naast het Parc du Cap Martin, waar honden welkom zijn en het rustige water zich leent voor een zachte pootjebad. Combineer het met de grote hondvriendelijke groene ruimte van het nabijgelegen park van Cap Martin.",
+          "rulesNl": "Aangelijnd buiten het water, ruim de uitwerpselen van je hond op en controleer de lokale regels buiten het seizoen.",
+          "seasonNl": "Het hele jaar voor wandelingen; zwemmen het best in de warmere maanden",
+          "descriptionIt": "Una piccola spiaggia riparata a Roquebrune-Cap-Martin, accanto al Parc du Cap Martin, dove i cani sono i benvenuti e l'acqua calma è adatta a una nuotata tranquilla. Abbinala al grande spazio verde che accoglie i cani del parco di Cap Martin lì vicino.",
+          "rulesIt": "Guinzaglio fuori dall'acqua, raccogli quello che lascia il tuo cane e verifica le regole locali di bassa stagione.",
+          "seasonIt": "Tutto l'anno per le passeggiate; nuotate migliori nei mesi più caldi"
+        },
+        {
+          "name": "Plage pour les Chiens (Menton, Garavan)",
+          "distance": "About 15 minutes east of Monaco",
+          "description": "A designated dog beach in the Garavan district of Menton, set up specifically for dogs to swim and play. It is the most dog-welcoming option in the area and a rewarding day trip along the coast from Monaco.",
+          "season": "Open in the bathing season; quieter outside July and August",
+          "rules": "Designated dog beach; keep your dog under control, carry bags, and bring water and shade.",
+          "facilities": "Dedicated dog beach; limited amenities, bring your own water",
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+pour+les+chiens+Menton+Garavan",
+          "photo": "",
+          "descriptionFr": "Une plage pour chiens dédiée dans le quartier de Garavan, à Menton, aménagée spécialement pour que les chiens puissent nager et jouer. C'est l'option la plus accueillante pour les chiens dans le secteur, et une belle excursion d'une journée le long de la côte depuis Monaco.",
+          "rulesFr": "Plage pour chiens dédiée ; gardez votre chien sous contrôle, emportez des sacs, et prévoyez eau et ombre.",
+          "seasonFr": "Ouverte pendant la saison balnéaire ; plus calme en dehors de juillet et août",
+          "descriptionEs": "Una playa canina señalizada en el distrito de Garavan, en Menton, habilitada específicamente para que los perros naden y jueguen. Es la opción más acogedora para perros de la zona y una gratificante excursión de un día a lo largo de la costa desde Mónaco.",
+          "rulesEs": "Playa canina señalizada; mantén a tu perro controlado, lleva bolsas y trae agua y sombra.",
+          "seasonEs": "Abierta en la temporada de baño; más tranquila fuera de julio y agosto",
+          "descriptionPt": "Uma praia para cães dedicada no bairro de Garavan, em Menton, criada especificamente para os cães nadarem e brincarem. É a opção mais acolhedora para cães na zona e uma recompensadora excursão de um dia ao longo da costa a partir do Mónaco.",
+          "rulesPt": "Praia para cães dedicada; mantenha o cão sob controlo, leve sacos e traga água e sombra.",
+          "seasonPt": "Aberta na época balnear; mais tranquila fora de julho e agosto",
+          "descriptionDe": "Ein ausgewiesener Hundestrand im Stadtteil Garavan von Menton, eigens dafür eingerichtet, dass Hunde schwimmen und spielen können. Es ist die hundefreundlichste Option in der Gegend und ein lohnender Tagesausflug entlang der Küste von Monaco aus.",
+          "rulesDe": "Ausgewiesener Hundestrand; halten Sie Ihren Hund unter Kontrolle, führen Sie Beutel mit und bringen Sie Wasser und Schatten mit.",
+          "seasonDe": "In der Badesaison geöffnet; außerhalb von Juli und August ruhiger",
+          "descriptionNl": "Een aangeduid hondenstrand in de wijk Garavan van Menton, speciaal ingericht voor honden om te zwemmen en te spelen. Het is de meest hondvriendelijke optie in de omgeving en een lonende dagtrip langs de kust vanuit Monaco.",
+          "rulesNl": "Aangeduid hondenstrand; houd je hond onder controle, neem zakjes mee en zorg voor water en schaduw.",
+          "seasonNl": "Open in het badseizoen; rustiger buiten juli en augustus",
+          "descriptionIt": "Una spiaggia per cani designata nel quartiere Garavan di Menton, attrezzata appositamente perché i cani nuotino e giochino. È l'opzione più accogliente per i cani nella zona e una gita giornaliera gratificante lungo la costa da Monaco.",
+          "rulesIt": "Spiaggia per cani designata; tieni il tuo cane sotto controllo, porta i sacchetti e porta acqua e ombra.",
+          "seasonIt": "Aperta nella stagione balneare; più tranquilla fuori da luglio e agosto"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed on Monaco's beaches?",
+          "a": "No. Dogs are not permitted on Monaco's Larvotto beach or on the Principality's other seafronts. For a swim you cross into France, where the Cap d'Ail coves, the Roquebrune-Cap-Martin beaches and the dedicated dog beach in Menton all welcome dogs."
+        },
+        {
+          "q": "Where is the nearest dog beach to Monaco?",
+          "a": "The closest is on the Cap d'Ail shore, about 2 km west and reachable on foot along the Chemin des Douaniers coastal path. A short drive east brings you to dog-friendly beaches around Roquebrune-Cap-Martin and a designated dog beach in Menton's Garavan district."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis sur les plages de Monaco ?",
+          "a": "Non. Les chiens ne sont pas autorisés sur la plage du Larvotto ni sur les autres bords de mer de la Principauté. Pour une baignade, vous passez en France, où les criques de Cap d'Ail, les plages de Roquebrune-Cap-Martin et la plage pour chiens dédiée de Menton accueillent tous les chiens."
+        },
+        {
+          "q": "Où se trouve la plage pour chiens la plus proche de Monaco ?",
+          "a": "La plus proche est sur le littoral de Cap d'Ail, à environ 2 km à l'ouest, accessible à pied par le sentier du littoral (Chemin des Douaniers). Un court trajet en voiture vers l'est vous mène à des plages acceptant les chiens autour de Roquebrune-Cap-Martin et à une plage pour chiens dédiée dans le quartier de Garavan, à Menton."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en las playas de Mónaco?",
+          "a": "No. Los perros no están permitidos en la playa de Larvotto de Mónaco ni en los demás frentes marítimos del Principado. Para un baño hay que cruzar a Francia, donde las calas de Cap d'Ail, las playas de Roquebrune-Cap-Martin y la playa canina de Menton admiten perros."
+        },
+        {
+          "q": "¿Dónde está la playa canina más cercana a Mónaco?",
+          "a": "La más cercana está en la costa de Cap d'Ail, a unos 2 km al oeste y accesible a pie por el sendero costero Chemin des Douaniers. Un corto trayecto en coche hacia el este te lleva a playas que admiten perros en torno a Roquebrune-Cap-Martin y a una playa canina señalizada en el distrito de Garavan, en Menton."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães são permitidos nas praias do Mónaco?",
+          "a": "Não. Os cães não são permitidos na praia de Larvotto, no Mónaco, nem nas restantes frentes marítimas do Principado. Para um mergulho, atravessa-se para França, onde as enseadas de Cap d'Ail, as praias de Roquebrune-Cap-Martin e a praia para cães dedicada em Menton acolhem todos os cães."
+        },
+        {
+          "q": "Onde fica a praia para cães mais próxima do Mónaco?",
+          "a": "A mais próxima fica na costa de Cap d'Ail, a cerca de 2 km a oeste e acessível a pé pelo caminho costeiro Chemin des Douaniers. Uma curta viagem de carro para leste leva-o a praias que aceitam cães em torno de Roquebrune-Cap-Martin e a uma praia para cães dedicada no bairro de Garavan, em Menton."
+        }
+      ],
+      "faqsDe": [
+        {
+          "q": "Sind Hunde an Monacos Stränden erlaubt?",
+          "a": "Nein. Hunde sind am Strand von Larvotto in Monaco und an den übrigen Küstenabschnitten des Fürstentums nicht erlaubt. Für ein Bad wechseln Sie nach Frankreich hinüber, wo die Buchten von Cap d'Ail, die Strände von Roquebrune-Cap-Martin und der eigens ausgewiesene Hundestrand in Menton alle Hunde willkommen heißen."
+        },
+        {
+          "q": "Wo ist der nächste Hundestrand zu Monaco?",
+          "a": "Der nächste liegt an der Küste von Cap d'Ail, etwa 2 km westlich und zu Fuß entlang des Küstenwegs Chemin des Douaniers erreichbar. Eine kurze Fahrt nach Osten bringt Sie zu hundefreundlichen Stränden rund um Roquebrune-Cap-Martin und zu einem ausgewiesenen Hundestrand im Stadtteil Garavan von Menton."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Mogen honden op de stranden van Monaco?",
+          "a": "Nee. Honden zijn niet toegestaan op het strand van Larvotto in Monaco of op de andere kustlijnen van het vorstendom. Voor een duik steek je over naar Frankrijk, waar de baaien van Cap d'Ail, de stranden van Roquebrune-Cap-Martin en het speciale hondenstrand in Menton allemaal honden verwelkomen."
+        },
+        {
+          "q": "Waar is het dichtstbijzijnde hondenstrand bij Monaco?",
+          "a": "Het dichtstbijzijnde ligt aan de kust van Cap d'Ail, zo'n 2 km westelijk en te voet bereikbaar via het kustpad Chemin des Douaniers. Een korte rit oostwaarts brengt je naar hondvriendelijke stranden rond Roquebrune-Cap-Martin en een speciaal hondenstrand in de wijk Garavan van Menton."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "I cani sono ammessi sulle spiagge di Monaco?",
+          "a": "No. I cani non sono ammessi sulla spiaggia del Larvotto a Monaco né sugli altri lungomare del Principato. Per un bagno devi passare in Francia, dove le calette di Cap d'Ail, le spiagge di Roquebrune-Cap-Martin e la spiaggia per cani dedicata di Menton accolgono tutte i cani."
+        },
+        {
+          "q": "Dov'è la spiaggia per cani più vicina a Monaco?",
+          "a": "La più vicina è sulla costa di Cap d'Ail, a circa 2 km a ovest e raggiungibile a piedi lungo il sentiero costiero Chemin des Douaniers. Un breve tragitto in auto verso est ti porta a spiagge che accolgono i cani intorno a Roquebrune-Cap-Martin e a una spiaggia per cani dedicata nel quartiere Garavan di Menton."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Tips for Visiting Monte-Carlo with a Dog",
+      "introEn": "Monaco is glamorous, compact and strict about dogs, which actually makes it easy once you know the rules: stay on the lead, use the off-leash enclosures and the public lifts, avoid the midday heat, and keep France's coastal paths in mind for a proper run. A calm, well-mannered dog fits in effortlessly on the Principality's terraces.",
+      "titleFr": "Conseils pour visiter Monte-Carlo avec un chien",
+      "introFr": "Monaco est glamour, compacte et stricte au sujet des chiens, ce qui la rend en réalité facile une fois qu'on connaît les règles : restez en laisse, utilisez les enclos sans laisse et les ascenseurs publics, évitez la chaleur de la mi-journée, et gardez à l'esprit les sentiers du littoral français pour une vraie course. Un chien calme et bien éduqué s'intègre sans effort sur les terrasses de la Principauté.",
+      "titleEs": "Consejos para visitar Monte-Carlo con un perro",
+      "introEs": "Mónaco es glamuroso, compacto y estricto con los perros, lo que en realidad lo hace fácil una vez que conoces las normas: ve con correa, usa los recintos sin correa y los ascensores públicos, evita el calor del mediodía y ten presentes los senderos costeros de Francia para una buena carrera. Un perro tranquilo y bien educado encaja sin esfuerzo en las terrazas del Principado.",
+      "titlePt": "Dicas para visitar Monte-Carlo com um cão",
+      "introPt": "O Mónaco é glamoroso, compacto e rigoroso quanto a cães, o que, na verdade, torna tudo fácil quando se conhecem as regras: ande à trela, use os recintos sem trela e os elevadores públicos, evite o calor do meio-dia e tenha em mente os caminhos costeiros de França para uma corrida a sério. Um cão calmo e bem-comportado integra-se sem esforço nas esplanadas do Principado.",
+      "titleDe": "Tipps für einen Besuch in Monte-Carlo mit einem Hund",
+      "introDe": "Monaco ist glamourös, kompakt und streng, was Hunde angeht, was es tatsächlich einfach macht, sobald Sie die Regeln kennen: an der Leine bleiben, die Freilaufflächen und die öffentlichen Aufzüge nutzen, die Mittagshitze meiden und für einen richtigen Lauf Frankreichs Küstenwege im Hinterkopf behalten. Ein ruhiger, wohlerzogener Hund fügt sich mühelos in die Terrassen des Fürstentums ein.",
+      "titleNl": "Tips voor een bezoek aan Monte-Carlo met een hond",
+      "introNl": "Monaco is glamoureus, compact en streng als het om honden gaat, wat het juist makkelijk maakt zodra je de regels kent: blijf aangelijnd, gebruik de losloopzones en de openbare liften, vermijd de middaghitte en houd de Franse kustpaden in gedachten voor een echte ren. Een rustige, welgemanierde hond past moeiteloos op de terrassen van het vorstendom.",
+      "titleIt": "Consigli per visitare Monte-Carlo con un cane",
+      "introIt": "Monaco è glamour, compatta e severa riguardo ai cani, il che in realtà la rende facile una volta che conosci le regole: resta al guinzaglio, usa i recinti senza guinzaglio e gli ascensori pubblici, evita il caldo di mezzogiorno e tieni a mente i sentieri costieri della Francia per una vera corsa. Un cane tranquillo e ben educato si inserisce senza sforzo sulle terrazze del Principato.",
+      "places": [],
+      "faqsEn": [
+        {
+          "q": "What are the dog rules in Monaco?",
+          "a": "Dogs must stay on the lead on all public streets, with a 75€ fine for off-lead dogs and a 600€ fine for not picking up waste, so always carry bags. Dogs are banned from lawns and beaches; use the four fenced off-leash areas for a run."
+        },
+        {
+          "q": "Is Monaco a good place to visit with a dog?",
+          "a": "Yes, if your dog is calm on the lead. Monaco is small, walkable and used to dogs, with pet-friendly luxury hotels, dog-welcoming terraces and a 24/7 vet. The trade-off is strict rules and little off-lead space, offset by France's open coastal paths minutes away."
+        },
+        {
+          "q": "When is the best time to visit Monaco with a dog?",
+          "a": "Spring and autumn are ideal: the weather is warm but not punishing, and pavements stay cool enough for paws. In high summer, walk early or after sunset, stick to shaded gardens like Parc Princesse Antoinette, and carry water everywhere."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelles sont les règles concernant les chiens à Monaco ?",
+          "a": "Les chiens doivent rester en laisse dans toutes les rues publiques, sous peine d'une amende de 75€ pour un chien sans laisse et de 600€ pour non-ramassage des déjections : ayez donc toujours des sacs sur vous. Les chiens sont interdits sur les pelouses et les plages ; utilisez les quatre espaces clôturés sans laisse pour les faire courir."
+        },
+        {
+          "q": "Monaco est-elle un bon endroit à visiter avec un chien ?",
+          "a": "Oui, si votre chien est calme en laisse. Monaco est petite, facile à parcourir à pied et habituée aux chiens, avec des hôtels de luxe qui acceptent les animaux, des terrasses accueillantes et un vétérinaire ouvert 24/7. La contrepartie, ce sont des règles strictes et peu d'espace sans laisse, compensés par les sentiers ouverts du littoral français à quelques minutes."
+        },
+        {
+          "q": "Quel est le meilleur moment pour visiter Monaco avec un chien ?",
+          "a": "Le printemps et l'automne sont idéaux : le temps est doux sans être accablant, et les trottoirs restent assez frais pour les coussinets. En plein été, promenez-vous tôt ou après le coucher du soleil, tenez-vous-en aux jardins ombragés comme le Parc Princesse Antoinette, et emportez de l'eau partout."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Cuáles son las normas para perros en Mónaco?",
+          "a": "Los perros deben ir con correa en todas las calles públicas, con una multa de 75€ para los perros sin correa y una multa de 600€ por no recoger los desechos, así que lleva siempre bolsas. Los perros tienen prohibido el césped y las playas; usa las cuatro zonas valladas sin correa para que corran."
+        },
+        {
+          "q": "¿Es Mónaco un buen sitio para visitar con un perro?",
+          "a": "Sí, si tu perro está tranquilo con la correa. Mónaco es pequeño, cómodo para caminar y está acostumbrado a los perros, con hoteles de lujo que admiten mascotas, terrazas acogedoras para perros y un veterinario 24/7. La contrapartida son las normas estrictas y el poco espacio sin correa, compensados por los senderos costeros abiertos de Francia a pocos minutos."
+        },
+        {
+          "q": "¿Cuál es la mejor época para visitar Mónaco con un perro?",
+          "a": "La primavera y el otoño son ideales: el tiempo es cálido pero no agobiante, y las aceras se mantienen lo bastante frescas para las almohadillas. En pleno verano, pasea temprano o después del atardecer, quédate en jardines con sombra como el Parc Princesse Antoinette y lleva agua a todas partes."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Quais são as regras para cães no Mónaco?",
+          "a": "Os cães têm de andar à trela em todas as ruas públicas, com uma multa de 75€ para cães sem trela e uma multa de 600€ por não apanhar os dejetos, por isso leve sempre sacos. Os cães estão proibidos nos relvados e praias; use as quatro áreas vedadas sem trela para uma corrida."
+        },
+        {
+          "q": "O Mónaco é um bom sítio para visitar com um cão?",
+          "a": "Sim, se o seu cão for calmo à trela. O Mónaco é pequeno, fácil de percorrer a pé e habituado a cães, com hotéis de luxo que aceitam animais, esplanadas acolhedoras e um veterinário 24/7. O senão são as regras rigorosas e o pouco espaço sem trela, compensados pelos caminhos costeiros abertos de França a poucos minutos."
+        },
+        {
+          "q": "Qual é a melhor altura para visitar o Mónaco com um cão?",
+          "a": "A primavera e o outono são ideais: o tempo está quente mas não punitivo, e os passeios mantêm-se suficientemente frescos para as patas. No pico do verão, passeie cedo ou depois do pôr do sol, fique-se por jardins com sombra como o Parc Princesse Antoinette e leve água para todo o lado."
+        }
+      ],
+      "faqsDe": [
+        {
+          "q": "Welche Hunderegeln gelten in Monaco?",
+          "a": "Hunde müssen auf allen öffentlichen Straßen an der Leine bleiben, mit einer Geldstrafe von 75€ für nicht angeleinte Hunde und einer Geldstrafe von 600€ für nicht aufgesammelten Kot, führen Sie also immer Beutel mit. Hunde sind auf Rasenflächen und Stränden verboten; nutzen Sie für einen Lauf die vier eingezäunten Freilaufflächen."
+        },
+        {
+          "q": "Ist Monaco ein guter Ort für einen Besuch mit einem Hund?",
+          "a": "Ja, wenn Ihr Hund an der Leine ruhig ist. Monaco ist klein, gut zu Fuß zu erkunden und an Hunde gewöhnt, mit haustierfreundlichen Luxushotels, hundefreundlichen Terrassen und einem Tierarzt rund um die Uhr. Der Nachteil sind strenge Regeln und wenig Freilaufraum, ausgeglichen durch Frankreichs offene Küstenwege nur Minuten entfernt."
+        },
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch in Monaco mit einem Hund?",
+          "a": "Frühling und Herbst sind ideal: Das Wetter ist warm, aber nicht drückend, und die Gehwege bleiben kühl genug für die Pfoten. Im Hochsommer gehen Sie früh oder nach Sonnenuntergang spazieren, halten sich an schattige Gärten wie den Parc Princesse Antoinette und führen überall Wasser mit."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat zijn de hondenregels in Monaco?",
+          "a": "Honden moeten aangelijnd blijven in alle openbare straten, met een boete van 75€ voor loslopende honden en een boete van 600€ voor het niet opruimen van uitwerpselen, dus neem altijd zakjes mee. Honden zijn verboden op gazons en stranden; gebruik de vier omheinde losloopgebieden voor een ren."
+        },
+        {
+          "q": "Is Monaco een goede plek om met een hond te bezoeken?",
+          "a": "Ja, als je hond rustig is aan de lijn. Monaco is klein, te belopen en gewend aan honden, met huisdiervriendelijke luxehotels, hondvriendelijke terrassen en een 24/7-dierenarts. De keerzijde zijn strenge regels en weinig losloopruimte, gecompenseerd door de open kustpaden van Frankrijk op enkele minuten afstand."
+        },
+        {
+          "q": "Wanneer kun je Monaco het best met een hond bezoeken?",
+          "a": "De lente en de herfst zijn ideaal: het weer is warm maar niet drukkend, en de stoepen blijven koel genoeg voor pootjes. Loop in de hoogzomer vroeg of na zonsondergang, blijf in schaduwrijke tuinen zoals het Parc Princesse Antoinette, en neem overal water mee."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Quali sono le regole sui cani a Monaco?",
+          "a": "I cani devono restare al guinzaglio in tutte le vie pubbliche, con una multa di 75€ per i cani liberi e una multa di 600€ per chi non raccoglie i rifiuti, quindi porta sempre i sacchetti. I cani sono vietati sui prati e sulle spiagge; usa le quattro aree recintate senza guinzaglio per una corsa."
+        },
+        {
+          "q": "Monaco è un buon posto da visitare con un cane?",
+          "a": "Sì, se il tuo cane è tranquillo al guinzaglio. Monaco è piccola, comoda a piedi e abituata ai cani, con hotel di lusso che accolgono gli animali, terrazze che accolgono i cani e un veterinario 24/7. Il rovescio della medaglia sono le regole severe e il poco spazio libero, compensati dai sentieri costieri aperti della Francia a pochi minuti."
+        },
+        {
+          "q": "Qual è il momento migliore per visitare Monaco con un cane?",
+          "a": "La primavera e l'autunno sono ideali: il clima è caldo ma non opprimente, e il selciato resta abbastanza fresco per le zampe. In piena estate, passeggia presto o dopo il tramonto, resta nei giardini ombreggiati come il Parc Princesse Antoinette e porta acqua ovunque."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions & Things to Do in Monte-Carlo",
+      "introEn": "Much of Monaco's appeal is outdoors and made for a leashed dog: the medieval streets of Le Rocher, the superyacht quays of Port Hercule and the Belle Époque grandeur of Casino Square are all yours to wander together. A few landmarks, such as the Jardin Exotique, do not admit dogs, but there is more than enough open-air sightseeing to fill a stay.",
+      "titleFr": "Attractions et activités qui acceptent les chiens à Monte-Carlo",
+      "introFr": "Une grande partie de l'attrait de Monaco se vit en plein air et se prête à un chien en laisse : les ruelles médiévales du Rocher, les quais des superyachts du Port Hercule et la grandeur Belle Époque de la Place du Casino sont autant de lieux à parcourir ensemble. Quelques sites, comme le Jardin Exotique, n'admettent pas les chiens, mais il y a largement de quoi remplir un séjour de visites en plein air.",
+      "titleEs": "Atracciones y planes que admiten perros en Monte-Carlo",
+      "introEs": "Buena parte del atractivo de Mónaco está al aire libre y hecho para un perro con correa: las calles medievales de Le Rocher, los muelles de superyates de Port Hercule y la grandeza Belle Époque de la Place du Casino son todos vuestros para recorrerlos juntos. Algunos lugares emblemáticos, como el Jardin Exotique, no admiten perros, pero hay de sobra para llenar una estancia de visitas al aire libre.",
+      "titlePt": "Atrações e atividades que aceitam cães em Monte-Carlo",
+      "introPt": "Grande parte do encanto do Mónaco é ao ar livre e feito para um cão à trela: as ruas medievais de Le Rocher, os cais de superiates do Port Hercule e a grandiosidade Belle Époque da Place du Casino estão todos à vossa disposição para passear juntos. Alguns pontos de referência, como o Jardin Exotique, não admitem cães, mas há mais do que suficiente para ver ao ar livre para preencher uma estadia.",
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten und Aktivitäten in Monte-Carlo",
+      "introDe": "Ein Großteil von Monacos Reiz spielt sich im Freien ab und ist wie geschaffen für einen angeleinten Hund: die mittelalterlichen Gassen von Le Rocher, die Superyacht-Kais von Port Hercule und die Belle-Époque-Pracht der Place du Casino lassen sich alle gemeinsam erkunden. Einige Wahrzeichen, etwa der Jardin Exotique, lassen keine Hunde zu, aber es gibt mehr als genug Sightseeing unter freiem Himmel, um einen Aufenthalt zu füllen.",
+      "titleNl": "Hondvriendelijke bezienswaardigheden en activiteiten in Monte-Carlo",
+      "introNl": "Veel van de charme van Monaco is buiten en gemaakt voor een aangelijnde hond: de middeleeuwse straatjes van Le Rocher, de superjachtkades van Port Hercule en de Belle Époque-grandeur van de Place du Casino zijn er allemaal om samen te ontdekken. Een paar bezienswaardigheden, zoals de Jardin Exotique, laten geen honden toe, maar er is meer dan genoeg openluchtbezienswaardigs om een verblijf te vullen.",
+      "titleIt": "Attrazioni e cose da fare con il cane a Monte-Carlo",
+      "introIt": "Gran parte del fascino di Monaco è all'aperto e fatto apposta per un cane al guinzaglio: le vie medievali del Rocher, le banchine dei superyacht di Port Hercule e la grandezza Belle Époque della Place du Casino sono tutte lì per essere esplorate insieme. Alcuni luoghi simbolo, come il Jardin Exotique, non ammettono i cani, ma c'è più che sufficiente da visitare all'aria aperta per riempire un soggiorno.",
+      "places": [
+        {
+          "name": "Le Rocher (Monaco-Ville)",
+          "neighborhood": "Monaco-Ville, on the rock",
+          "photo": "",
+          "website": "",
+          "description": "The medieval old town on the rock above the sea, with the Prince's Palace, narrow pedestrian lanes and sweeping views over the port. Leashed dogs are welcome to explore the car-free streets and the Palace square, the single most atmospheric walk in the Principality.",
+          "dogPolicy": "Leashed dogs welcome on the streets and Palace square; not inside the Palace or the Oceanographic Museum",
+          "admissionFee": "Free to walk the streets; Palace tour and museum charged",
+          "tip": "Go in the morning before the tour groups, and keep your dog close on the busy Palace-square viewpoint.",
+          "googleMapsUrl": "https://maps.google.com/?q=Monaco-Ville+Le+Rocher",
+          "descriptionFr": "La vieille ville médiévale sur le rocher au-dessus de la mer, avec le Palais princier, les ruelles piétonnes étroites et les vues plongeantes sur le port. Les chiens en laisse sont bienvenus pour explorer les rues sans voitures et la place du Palais, la promenade la plus pleine d'atmosphère de la Principauté.",
+          "dogPolicyFr": "Chiens en laisse bienvenus dans les rues et sur la place du Palais ; interdits à l'intérieur du Palais et du Musée océanographique",
+          "admissionFeeFr": "Gratuit pour parcourir les rues ; visite du Palais et musée payants",
+          "tipFr": "Allez-y le matin avant les groupes de touristes, et gardez votre chien près de vous sur le belvédère très fréquenté de la place du Palais.",
+          "descriptionEs": "El casco antiguo medieval sobre la roca frente al mar, con el Palacio del Príncipe, callejones peatonales estrechos y amplias vistas sobre el puerto. Los perros con correa son bienvenidos para explorar las calles sin coches y la plaza del Palacio, el paseo con más ambiente del Principado.",
+          "dogPolicyEs": "Perros con correa bienvenidos en las calles y en la plaza del Palacio; no dentro del Palacio ni del Museo Oceanográfico",
+          "admissionFeeEs": "Gratis pasear por las calles; la visita al Palacio y el museo se pagan",
+          "tipEs": "Ve por la mañana, antes de los grupos de turistas, y mantén a tu perro cerca en el concurrido mirador de la plaza del Palacio.",
+          "descriptionPt": "A cidade velha medieval sobre o rochedo à beira-mar, com o Palácio do Príncipe, ruelas pedonais estreitas e vistas amplas sobre o porto. Os cães à trela são bem-vindos para explorar as ruas sem carros e a praça do Palácio, o passeio mais atmosférico do Principado.",
+          "dogPolicyPt": "Cães à trela bem-vindos nas ruas e na praça do Palácio; não no interior do Palácio nem no Museu Oceanográfico",
+          "admissionFeePt": "Grátis percorrer as ruas; visita ao Palácio e museu pagos",
+          "tipPt": "Vá de manhã, antes dos grupos de visitantes, e mantenha o cão junto a si no movimentado miradouro da praça do Palácio.",
+          "descriptionDe": "Die mittelalterliche Altstadt auf dem Felsen über dem Meer, mit dem Fürstenpalast, engen Fußgängergassen und weiten Ausblicken über den Hafen. Angeleinte Hunde dürfen die autofreien Straßen und den Palastplatz erkunden, der stimmungsvollste Spaziergang im ganzen Fürstentum.",
+          "dogPolicyDe": "Angeleinte Hunde auf den Straßen und dem Palastplatz willkommen; nicht im Palast oder im Ozeanografischen Museum",
+          "admissionFeeDe": "Kostenlos, um durch die Straßen zu gehen; Palastführung und Museum kostenpflichtig",
+          "tipDe": "Gehen Sie morgens vor den Reisegruppen und halten Sie Ihren Hund am belebten Aussichtspunkt des Palastplatzes dicht bei sich.",
+          "descriptionNl": "De middeleeuwse oude stad op de rots boven de zee, met het Prinselijk Paleis, smalle voetgangersstraatjes en weidse uitzichten over de haven. Aangelijnde honden mogen de autovrije straatjes en het paleisplein verkennen, de meest sfeervolle wandeling in het hele vorstendom.",
+          "dogPolicyNl": "Aangelijnde honden welkom in de straten en op het paleisplein; niet binnen in het paleis of het Oceanografisch Museum",
+          "admissionFeeNl": "Gratis om door de straten te wandelen; paleistour en museum tegen betaling",
+          "tipNl": "Ga in de ochtend voordat de tourgroepen komen, en houd je hond dicht bij je op het drukke uitkijkpunt van het paleisplein.",
+          "descriptionIt": "La città vecchia medievale sulla rocca sopra il mare, con il Palazzo del Principe, stretti vicoli pedonali e ampie vedute sul porto. I cani al guinzaglio sono i benvenuti per esplorare le vie senza auto e la piazza del Palazzo, la passeggiata più suggestiva in assoluto del Principato.",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti nelle vie e nella piazza del Palazzo; non all'interno del Palazzo o del Museo Oceanografico",
+          "admissionFeeIt": "Gratis per passeggiare nelle vie; visita al Palazzo e museo a pagamento",
+          "tipIt": "Vai al mattino prima dei gruppi turistici, e tieni il cane vicino nel punto panoramico affollato della piazza del Palazzo."
+        },
+        {
+          "name": "Port Hercule",
+          "neighborhood": "La Condamine",
+          "photo": "",
+          "website": "",
+          "description": "Monaco's superyacht harbour and part of the Grand Prix circuit, ringed by a flat quayside promenade lined with cafés. It is a relaxed, level leashed walk with constant people-watching and some of the best boat-spotting on the Riviera.",
+          "dogPolicy": "Leashed dogs welcome on the quayside promenade",
+          "admissionFee": "Free",
+          "tip": "The quay is flat and easy for older or small dogs; pause at a terrace café and ask for a water bowl.",
+          "googleMapsUrl": "https://maps.google.com/?q=Port+Hercule+Monaco",
+          "descriptionFr": "Le port des superyachts de Monaco, qui fait partie du circuit du Grand Prix, ceinturé d'une promenade de quai plate bordée de cafés. C'est une promenade en laisse détendue et de plain-pied, avec un défilé constant de passants et l'un des meilleurs spectacles de bateaux de la Riviera.",
+          "dogPolicyFr": "Chiens en laisse bienvenus sur la promenade du quai",
+          "admissionFeeFr": "Gratuit",
+          "tipFr": "Le quai est plat et facile pour les chiens âgés ou petits ; faites une pause à un café en terrasse et demandez une gamelle d'eau.",
+          "descriptionEs": "El puerto de superyates de Mónaco y parte del circuito del Grand Prix, rodeado de un paseo llano junto al muelle con cafeterías. Es un paseo relajado y llano con correa, con constante ambiente para observar a la gente y algunas de las mejores vistas de barcos de la Riviera.",
+          "dogPolicyEs": "Perros con correa bienvenidos en el paseo junto al muelle",
+          "admissionFeeEs": "Gratis",
+          "tipEs": "El muelle es llano y cómodo para perros mayores o pequeños; haz una pausa en una cafetería con terraza y pide un cuenco de agua.",
+          "descriptionPt": "O porto de superiates do Mónaco e parte do circuito do Grand Prix, rodeado por uma promenade plana ao longo do cais, ladeada de cafés. É um passeio à trela descontraído e sem desníveis, com gente para observar a toda a hora e alguns dos melhores barcos para ver na Riviera.",
+          "dogPolicyPt": "Cães à trela bem-vindos na promenade do cais",
+          "admissionFeePt": "Grátis",
+          "tipPt": "O cais é plano e fácil para cães mais velhos ou pequenos; faça uma pausa num café da esplanada e peça uma taça de água.",
+          "descriptionDe": "Monacos Superyacht-Hafen und Teil der Grand-Prix-Strecke, umgeben von einer flachen Kai-Promenade mit Cafés. Es ist ein entspannter, ebener Leinenspaziergang mit ständigem Menschentreiben und einigen der besten Bootsbeobachtungen an der Riviera.",
+          "dogPolicyDe": "Angeleinte Hunde auf der Kai-Promenade willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Der Kai ist flach und leicht für ältere oder kleine Hunde; machen Sie an einem Terrassencafé Halt und bitten Sie um einen Wassernapf.",
+          "descriptionNl": "De superjachthaven van Monaco en onderdeel van het Grand Prix-circuit, omringd door een vlakke kadepromenade met cafés. Het is een ontspannen, vlakke aangelijnde wandeling met voortdurend mensen kijken en het beste bootspotten van de Rivièra.",
+          "dogPolicyNl": "Aangelijnde honden welkom op de kadepromenade",
+          "admissionFeeNl": "Gratis",
+          "tipNl": "De kade is vlak en makkelijk voor oudere of kleine honden; pauzeer bij een terrascafé en vraag om een waterbak.",
+          "descriptionIt": "Il porto dei superyacht di Monaco e parte del circuito del Grand Prix, circondato da una passeggiata pianeggiante sul molo costellata di caffè. È una passeggiata rilassata e in piano al guinzaglio, con continuo via vai di gente e alcuni dei migliori avvistamenti di barche della Riviera.",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti sulla passeggiata del molo",
+          "admissionFeeIt": "Gratis",
+          "tipIt": "Il molo è pianeggiante e comodo per cani anziani o piccoli; fermati in un caffè con terrazza e chiedi una ciotola d'acqua."
+        },
+        {
+          "name": "Casino Square & Jardins des Boulingrins",
+          "neighborhood": "Monte-Carlo",
+          "photo": "",
+          "website": "",
+          "description": "The Belle Époque heart of Monte-Carlo, where the ornate Casino faces landscaped gardens sloping towards the sea. Leashed dogs can take in the square, the terraces and the garden paths, though not the lawns or the casino interior, for a taste of Monaco glamour.",
+          "dogPolicy": "Leashed dogs on the square and garden paths; not on the lawns or inside the casino",
+          "admissionFee": "Free (square and gardens)",
+          "tip": "Great for photos at dusk when the Casino lights up; keep off the manicured lawns to avoid a fine.",
+          "googleMapsUrl": "https://maps.google.com/?q=Casino+de+Monte-Carlo",
+          "descriptionFr": "Le cœur Belle Époque de Monte-Carlo, où le Casino richement orné fait face à des jardins paysagers qui descendent vers la mer. Les chiens en laisse peuvent profiter de la place, des terrasses et des allées du jardin, mais pas des pelouses ni de l'intérieur du casino, pour un avant-goût du glamour monégasque.",
+          "dogPolicyFr": "Chiens en laisse sur la place et les allées du jardin ; interdits sur les pelouses et à l'intérieur du casino",
+          "admissionFeeFr": "Gratuit (place et jardins)",
+          "tipFr": "Parfait pour des photos au crépuscule, quand le Casino s'illumine ; restez à l'écart des pelouses soignées pour éviter une amende.",
+          "descriptionEs": "El corazón Belle Époque de Monte-Carlo, donde el ornamentado Casino se asoma a jardines paisajísticos que descienden hacia el mar. Los perros con correa pueden disfrutar de la plaza, las terrazas y los senderos del jardín, aunque no del césped ni del interior del casino, para saborear el glamour de Mónaco.",
+          "dogPolicyEs": "Perros con correa en la plaza y los senderos del jardín; no en el césped ni dentro del casino",
+          "admissionFeeEs": "Gratis (plaza y jardines)",
+          "tipEs": "Estupendo para fotos al anochecer, cuando se ilumina el Casino; mantente fuera del césped cuidado para evitar una multa.",
+          "descriptionPt": "O coração Belle Époque de Monte-Carlo, onde o Casino ornamentado dá para jardins ajardinados que descem em direção ao mar. Os cães à trela podem apreciar a praça, as esplanadas e os caminhos do jardim, embora não os relvados nem o interior do casino, para provar um pouco do glamour do Mónaco.",
+          "dogPolicyPt": "Cães à trela na praça e nos caminhos do jardim; não nos relvados nem no interior do casino",
+          "admissionFeePt": "Grátis (praça e jardins)",
+          "tipPt": "Ótimo para fotografias ao anoitecer, quando o Casino se ilumina; mantenha-se fora dos relvados cuidados para evitar uma multa.",
+          "descriptionDe": "Das Belle-Époque-Herz von Monte-Carlo, wo das prunkvolle Casino auf angelegte Gärten blickt, die sich zum Meer hin neigen. Angeleinte Hunde können den Platz, die Terrassen und die Gartenwege genießen, allerdings nicht die Rasenflächen oder das Innere des Casinos, für einen Vorgeschmack auf Monacos Glamour.",
+          "dogPolicyDe": "Angeleinte Hunde auf dem Platz und den Gartenwegen; nicht auf den Rasenflächen oder im Casino",
+          "admissionFeeDe": "Kostenlos (Platz und Gärten)",
+          "tipDe": "Ideal für Fotos in der Dämmerung, wenn das Casino erleuchtet wird; bleiben Sie von den gepflegten Rasenflächen fern, um eine Geldstrafe zu vermeiden.",
+          "descriptionNl": "Het Belle Époque-hart van Monte-Carlo, waar het weelderige Casino uitkijkt op aangelegde tuinen die naar de zee aflopen. Aangelijnde honden kunnen genieten van het plein, de terrassen en de tuinpaden, al mogen ze niet op de gazons of in het casino, voor een vleugje glamour van Monaco.",
+          "dogPolicyNl": "Aangelijnde honden op het plein en de tuinpaden; niet op de gazons of binnen in het casino",
+          "admissionFeeNl": "Gratis (plein en tuinen)",
+          "tipNl": "Ideaal voor foto's in de schemering wanneer het Casino verlicht wordt; blijf van de verzorgde gazons om een boete te vermijden.",
+          "descriptionIt": "Il cuore Belle Époque di Monte-Carlo, dove il Casinò decorato si affaccia su giardini paesaggistici che degradano verso il mare. I cani al guinzaglio possono godersi la piazza, le terrazze e i vialetti dei giardini, ma non i prati né l'interno del casinò, per assaporare il glamour di Monaco.",
+          "dogPolicyIt": "Cani al guinzaglio nella piazza e nei vialetti dei giardini; non sui prati né dentro il casinò",
+          "admissionFeeIt": "Gratis (piazza e giardini)",
+          "tipIt": "Ottima per le foto al tramonto quando il Casinò si illumina; stai lontano dai prati curati per evitare una multa."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "What can I do in Monaco with a dog?",
+          "a": "Plenty outdoors: wander the medieval streets of Le Rocher and the Palace square, stroll the flat Port Hercule promenade among the superyachts, and take in Casino Square and its gardens, all on the lead. The Jardin Exotique does not admit dogs, but there is an off-leash area just outside it."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Que puis-je faire à Monaco avec un chien ?",
+          "a": "Beaucoup de choses en plein air : parcourir les rues médiévales du Rocher et la place du Palais, flâner sur la promenade plate du Port Hercule au milieu des superyachts, et admirer la Place du Casino et ses jardins, le tout en laisse. Le Jardin Exotique n'admet pas les chiens, mais il y a un espace sans laisse juste à côté."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Qué puedo hacer en Mónaco con un perro?",
+          "a": "Mucho al aire libre: recorrer las calles medievales de Le Rocher y la plaza del Palacio, pasear por el llano paseo de Port Hercule entre los superyates y disfrutar de la Place du Casino y sus jardines, todo con correa. El Jardin Exotique no admite perros, pero hay una zona sin correa justo a su lado."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "O que posso fazer no Mónaco com um cão?",
+          "a": "Muito ao ar livre: percorrer as ruas medievais de Le Rocher e a praça do Palácio, passear pela plana promenade do Port Hercule entre os superiates e apreciar a Place du Casino e os seus jardins, tudo à trela. O Jardin Exotique não admite cães, mas há uma área sem trela mesmo à saída."
+        }
+      ],
+      "faqsDe": [
+        {
+          "q": "Was kann ich in Monaco mit einem Hund unternehmen?",
+          "a": "Vieles im Freien: Schlendern Sie durch die mittelalterlichen Gassen von Le Rocher und über den Palastplatz, spazieren Sie die flache Promenade von Port Hercule zwischen den Superyachten entlang und nehmen Sie die Place du Casino und ihre Gärten in sich auf, alles an der Leine. Der Jardin Exotique lässt keine Hunde zu, aber direkt davor gibt es eine Freilauffläche."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Wat kan ik in Monaco doen met een hond?",
+          "a": "Genoeg buiten: dwaal door de middeleeuwse straatjes van Le Rocher en het paleisplein, wandel over de vlakke promenade van Port Hercule tussen de superjachten, en geniet van de Place du Casino en de tuinen, allemaal aan de lijn. De Jardin Exotique laat geen honden toe, maar er is een losloopgebied vlak ernaast."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Cosa posso fare a Monaco con un cane?",
+          "a": "Molto all'aperto: gira per le vie medievali del Rocher e la piazza del Palazzo, passeggia sulla passeggiata pianeggiante di Port Hercule tra i superyacht e ammira la Place du Casino e i suoi giardini, tutto al guinzaglio. Il Jardin Exotique non ammette i cani, ma c'è un'area senza guinzaglio proprio all'esterno."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Walkers & Pet Sitting in Monte-Carlo",
+      "introEn": "For an evening out or a dog-free excursion, Monaco has a small network of professional dog walkers, sitters and groomers, plus international booking platforms that cover the Principality and the neighbouring French Riviera towns. Book ahead, especially in event season around the Grand Prix, when the whole area fills up.",
+      "titleFr": "Promeneurs de chiens et garde d'animaux à Monte-Carlo",
+      "introFr": "Pour une soirée dehors ou une excursion sans chien, Monaco dispose d'un petit réseau de promeneurs de chiens, de gardiens et de toiletteurs professionnels, ainsi que de plateformes de réservation internationales qui couvrent la Principauté et les villes voisines de la Riviera française. Réservez à l'avance, surtout en saison d'événements autour du Grand Prix, quand toute la région se remplit.",
+      "titleEs": "Paseadores de perros y cuidado de mascotas en Monte-Carlo",
+      "introEs": "Para una salida nocturna o una excursión sin perro, Mónaco cuenta con una pequeña red de paseadores de perros, cuidadores y peluqueros profesionales, además de plataformas internacionales de reservas que cubren el Principado y las localidades vecinas de la Riviera francesa. Reserva con antelación, sobre todo en la temporada de eventos en torno al Grand Prix, cuando toda la zona se llena.",
+      "titlePt": "Passeadores de cães e serviços de guarda em Monte-Carlo",
+      "introPt": "Para uma noite fora ou uma excursão sem o cão, o Mónaco tem uma pequena rede de passeadores de cães, cuidadores e tosquiadores profissionais, além de plataformas internacionais de reserva que abrangem o Principado e as cidades vizinhas da Riviera francesa. Reserve com antecedência, sobretudo na época de eventos em torno do Grand Prix, quando toda a zona fica cheia.",
+      "titleDe": "Hundeausführer und Tierbetreuung in Monte-Carlo",
+      "introDe": "Für einen Abend außer Haus oder einen Ausflug ohne Hund verfügt Monaco über ein kleines Netz professioneller Hundeausführer, Tiersitter und Hundefriseure, dazu internationale Buchungsplattformen, die das Fürstentum und die benachbarten Städte an der französischen Riviera abdecken. Buchen Sie im Voraus, besonders in der Veranstaltungssaison rund um den Grand Prix, wenn die ganze Gegend sich füllt.",
+      "titleNl": "Hondenuitlaters en oppas in Monte-Carlo",
+      "introNl": "Voor een avondje uit of een uitstapje zonder hond heeft Monaco een klein netwerk van professionele hondenuitlaters, oppassen en trimmers, plus internationale boekingsplatforms die het vorstendom en de naburige stadjes aan de Franse Rivièra dekken. Boek van tevoren, vooral in het evenementenseizoen rond de Grand Prix, wanneer de hele omgeving volloopt.",
+      "titleIt": "Dog walker e pet sitting a Monte-Carlo",
+      "introIt": "Per una serata fuori o una gita senza cane, Monaco dispone di una piccola rete di dog walker, pet sitter e toelettatori professionisti, oltre a piattaforme internazionali di prenotazione che coprono il Principato e le vicine cittadine della Riviera francese. Prenota in anticipo, soprattutto nella stagione degli eventi attorno al Grand Prix, quando tutta la zona si riempie.",
+      "places": [
+        {
+          "name": "Monaco Dog Walker",
+          "website": "https://www.monacodogwalker.com/",
+          "description": "A local service offering group and individual dog walks and dog sitting across Monaco and the surrounding coast. A convenient option for exercise or care while you are at dinner, a meeting or a day trip without your dog.",
+          "serviceType": "Dog walking and dog sitting",
+          "pricePerDay": "On request",
+          "languages": [
+            "English",
+            "French"
+          ],
+          "tip": "Book a few days ahead in high season and around the Grand Prix, when demand spikes across the Principality.",
+          "descriptionFr": "Un service local qui propose des promenades de chiens en groupe et individuelles ainsi que de la garde de chiens dans tout Monaco et sur la côte environnante. Une option commode pour l'exercice ou la garde pendant que vous êtes à un dîner, une réunion ou une excursion d'une journée sans votre chien.",
+          "serviceTypeFr": "Promenade et garde de chiens",
+          "tipFr": "Réservez quelques jours à l'avance en haute saison et autour du Grand Prix, quand la demande explose dans toute la Principauté.",
+          "descriptionEs": "Un servicio local que ofrece paseos de perros en grupo e individuales y cuidado de perros por todo Mónaco y la costa de alrededor. Una opción cómoda para que hagan ejercicio o los cuiden mientras estás en una cena, una reunión o una excursión de un día sin tu perro.",
+          "serviceTypeEs": "Paseo y cuidado de perros",
+          "tipEs": "Reserva con unos días de antelación en temporada alta y en torno al Grand Prix, cuando la demanda se dispara por todo el Principado.",
+          "descriptionPt": "Um serviço local que oferece passeios de cães em grupo e individuais e guarda de cães em todo o Mónaco e na costa envolvente. Uma opção conveniente para exercício ou cuidados enquanto está a jantar, numa reunião ou numa excursão sem o seu cão.",
+          "serviceTypePt": "Passeio e guarda de cães",
+          "tipPt": "Reserve com alguns dias de antecedência na época alta e em torno do Grand Prix, quando a procura dispara em todo o Principado.",
+          "descriptionDe": "Ein lokaler Dienst, der Gruppen- und Einzelspaziergänge sowie Hundebetreuung in ganz Monaco und an der umliegenden Küste anbietet. Eine praktische Option für Bewegung oder Betreuung, während Sie beim Abendessen, in einem Meeting oder auf einem Tagesausflug ohne Ihren Hund sind.",
+          "serviceTypeDe": "Hundeausführen und Hundebetreuung",
+          "tipDe": "Buchen Sie in der Hochsaison und rund um den Grand Prix ein paar Tage im Voraus, wenn die Nachfrage im ganzen Fürstentum in die Höhe schnellt.",
+          "descriptionNl": "Een lokale dienst die groeps- en individuele hondenwandelingen en hondenoppas aanbiedt in heel Monaco en de omliggende kust. Een handige optie voor beweging of verzorging terwijl je aan het diner, in een vergadering of op een dagtrip zonder je hond bent.",
+          "serviceTypeNl": "Hondenuitlaatservice en hondenoppas",
+          "tipNl": "Boek een paar dagen van tevoren in het hoogseizoen en rond de Grand Prix, wanneer de vraag in het hele vorstendom piekt.",
+          "descriptionIt": "Un servizio locale che offre passeggiate di gruppo e individuali per cani e dog sitting in tutta Monaco e lungo la costa circostante. Un'opzione comoda per far muovere o accudire il tuo cane mentre sei a cena, a una riunione o in gita senza di lui.",
+          "serviceTypeIt": "Dog walking e dog sitting",
+          "tipIt": "Prenota con qualche giorno di anticipo in alta stagione e intorno al Grand Prix, quando la domanda schizza in tutto il Principato."
+        },
+        {
+          "name": "PetBacker Monaco",
+          "website": "https://www.petbacker.com/d/monaco",
+          "description": "An international booking platform connecting you with vetted local sitters, boarders, walkers and groomers in Monte-Carlo and nearby French towns. Useful for comparing reviews and prices and finding cover at short notice during a stay.",
+          "serviceType": "Booking platform: sitters, boarding, walking, grooming",
+          "pricePerDay": "Varies by provider",
+          "languages": [
+            "English",
+            "French",
+            "Italian"
+          ],
+          "tip": "Read recent reviews and confirm exactly which district the sitter covers, as some are based just across the border in France.",
+          "descriptionFr": "Une plateforme de réservation internationale qui vous met en relation avec des gardiens, pensions, promeneurs et toiletteurs locaux vérifiés à Monte-Carlo et dans les villes françaises voisines. Utile pour comparer les avis et les prix et trouver une solution à la dernière minute pendant un séjour.",
+          "serviceTypeFr": "Plateforme de réservation : gardiens, pension, promenade, toilettage",
+          "tipFr": "Lisez les avis récents et confirmez précisément quel quartier le gardien couvre, car certains sont basés juste de l'autre côté de la frontière, en France.",
+          "descriptionEs": "Una plataforma internacional de reservas que te conecta con cuidadores, alojadores, paseadores y peluqueros locales verificados en Monte-Carlo y localidades francesas cercanas. Útil para comparar reseñas y precios y encontrar cobertura con poca antelación durante una estancia.",
+          "serviceTypeEs": "Plataforma de reservas: cuidadores, alojamiento, paseo, peluquería",
+          "tipEs": "Lee las reseñas recientes y confirma exactamente qué distrito cubre el cuidador, ya que algunos están al otro lado de la frontera, en Francia.",
+          "descriptionPt": "Uma plataforma de reserva internacional que o liga a cuidadores, alojamentos, passeadores e tosquiadores locais verificados em Monte-Carlo e nas cidades francesas vizinhas. Útil para comparar avaliações e preços e encontrar apoio em cima da hora durante uma estadia.",
+          "serviceTypePt": "Plataforma de reserva: cuidadores, alojamento, passeios, tosquia",
+          "tipPt": "Leia as avaliações recentes e confirme exatamente que bairro o cuidador cobre, pois alguns têm base logo do outro lado da fronteira, em França.",
+          "descriptionDe": "Eine internationale Buchungsplattform, die Sie mit geprüften lokalen Sittern, Betreuern, Ausführern und Hundefriseuren in Monte-Carlo und nahen französischen Städten verbindet. Nützlich, um Bewertungen und Preise zu vergleichen und kurzfristig während eines Aufenthalts eine Betreuung zu finden.",
+          "serviceTypeDe": "Buchungsplattform: Sitter, Betreuung, Ausführen, Fellpflege",
+          "tipDe": "Lesen Sie aktuelle Bewertungen und bestätigen Sie genau, welchen Stadtteil der Sitter abdeckt, da einige direkt jenseits der Grenze in Frankreich ansässig sind.",
+          "descriptionNl": "Een internationaal boekingsplatform dat je in contact brengt met gescreende lokale oppassen, pensions, uitlaters en trimmers in Monte-Carlo en nabijgelegen Franse stadjes. Handig om beoordelingen en prijzen te vergelijken en op korte termijn opvang te vinden tijdens een verblijf.",
+          "serviceTypeNl": "Boekingsplatform: oppassen, pension, uitlaten, trimmen",
+          "tipNl": "Lees recente beoordelingen en bevestig precies welke wijk de oppas dekt, want sommige zitten net over de grens in Frankrijk.",
+          "descriptionIt": "Una piattaforma di prenotazione internazionale che ti mette in contatto con pet sitter, pensioni, dog walker e toelettatori locali verificati a Monte-Carlo e nelle vicine cittadine francesi. Utile per confrontare recensioni e prezzi e trovare assistenza all'ultimo momento durante un soggiorno.",
+          "serviceTypeIt": "Piattaforma di prenotazione: sitter, pensione, passeggiate, toelettatura",
+          "tipIt": "Leggi le recensioni recenti e conferma esattamente quale quartiere copre il sitter, perché alcuni hanno sede appena oltre il confine in Francia."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I find a dog sitter or dog walker in Monaco?",
+          "a": "Yes. Monaco has local dog walkers and sitters such as Monaco Dog Walker, and international platforms like PetBacker list vetted sitters, boarders and groomers across the Principality and nearby French Riviera towns. Book ahead in the busy event season."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je trouver un gardien ou un promeneur de chiens à Monaco ?",
+          "a": "Oui. Monaco compte des promeneurs et gardiens de chiens locaux comme Monaco Dog Walker, et des plateformes internationales comme PetBacker répertorient des gardiens, pensions et toiletteurs vérifiés dans la Principauté et les villes voisines de la Riviera française. Réservez à l'avance en pleine saison d'événements."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo encontrar un cuidador o paseador de perros en Mónaco?",
+          "a": "Sí. Mónaco tiene paseadores y cuidadores de perros locales como Monaco Dog Walker, y plataformas internacionales como PetBacker que listan cuidadores, alojadores y peluqueros verificados por todo el Principado y las localidades vecinas de la Riviera francesa. Reserva con antelación en la concurrida temporada de eventos."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Consigo encontrar um cuidador ou passeador de cães no Mónaco?",
+          "a": "Sim. O Mónaco tem passeadores e cuidadores locais como o Monaco Dog Walker, e plataformas internacionais como o PetBacker listam cuidadores, alojamentos e tosquiadores verificados em todo o Principado e nas cidades vizinhas da Riviera francesa. Reserve com antecedência na movimentada época de eventos."
+        }
+      ],
+      "faqsDe": [
+        {
+          "q": "Kann ich in Monaco einen Tiersitter oder Hundeausführer finden?",
+          "a": "Ja. Monaco hat örtliche Hundeausführer und Tiersitter wie Monaco Dog Walker, und internationale Plattformen wie PetBacker listen geprüfte Sitter, Betreuer und Hundefriseure im gesamten Fürstentum und in nahen Städten der französischen Riviera. Buchen Sie in der geschäftigen Veranstaltungssaison im Voraus."
+        }
+      ],
+      "faqsNl": [
+        {
+          "q": "Kan ik een hondenoppas of hondenuitlater vinden in Monaco?",
+          "a": "Ja. Monaco heeft lokale hondenuitlaters en oppassen zoals Monaco Dog Walker, en internationale platforms zoals PetBacker vermelden gescreende oppassen, pensions en trimmers in het hele vorstendom en de nabijgelegen stadjes aan de Franse Rivièra. Boek van tevoren in het drukke evenementenseizoen."
+        }
+      ],
+      "faqsIt": [
+        {
+          "q": "Posso trovare un pet sitter o un dog walker a Monaco?",
+          "a": "Sì. Monaco ha dog walker e sitter locali come Monaco Dog Walker, e piattaforme internazionali come PetBacker elencano sitter, pensioni e toelettatori verificati in tutto il Principato e nelle vicine cittadine della Riviera francese. Prenota in anticipo nell'affollata stagione degli eventi."
+        }
+      ]
+    }
+  }
+}

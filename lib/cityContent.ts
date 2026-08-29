@@ -5,6 +5,8 @@
  */
 
 import { cityContentDe } from './cityContentDe'
+import { cityContentNl } from './cityContentNl'
+import { cityContentIt } from './cityContentIt'
 
 export interface Sight {
   name: string
@@ -54854,6 +54856,28 @@ for (const slug of Object.keys(cityContentDe)) {
   if (ov.petTips) cc.petTips.de = ov.petTips
   if (ov.practicalInfo) cc.practicalInfo.de = ov.practicalInfo
   if (ov.sights) for (const s of cc.sights) { const d = ov.sights[s.name]; if (d) s.desc.de = d }
+}
+
+// Merge the Dutch overlay (same convention as German).
+for (const slug of Object.keys(cityContentNl)) {
+  const cc = cityContent[slug]
+  const ov = cityContentNl[slug]
+  if (!cc) continue
+  if (ov.history) cc.history.nl = ov.history
+  if (ov.petTips) cc.petTips.nl = ov.petTips
+  if (ov.practicalInfo) cc.practicalInfo.nl = ov.practicalInfo
+  if (ov.sights) for (const s of cc.sights) { const d = ov.sights[s.name]; if (d) s.desc.nl = d }
+}
+
+// Merge the Italian overlay (same convention as German).
+for (const slug of Object.keys(cityContentIt)) {
+  const cc = cityContent[slug]
+  const ov = cityContentIt[slug]
+  if (!cc) continue
+  if (ov.history) cc.history.it = ov.history
+  if (ov.petTips) cc.petTips.it = ov.petTips
+  if (ov.practicalInfo) cc.practicalInfo.it = ov.practicalInfo
+  if (ov.sights) for (const s of cc.sights) { const d = ov.sights[s.name]; if (d) s.desc.it = d }
 }
 
 export default cityContent

@@ -21,6 +21,11 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    'monte-carlo': {
+      personality: `the glamorous Riviera city-state where dog owners stroll Port Hercule, the Casino square and the medieval Rocher on the lead before escaping to the coastal customs paths of Cap d'Ail`,
+      highlight: `Le Rocher old town, the Port Hercule promenade, and the Chemin des Douaniers coastal path to Cap d'Ail`,
+      area: `Monaco-Ville on Le Rocher, Monte-Carlo around the Casino, and the Fontvieille and Larvotto seafronts`,
+    },
     honfleur: {
       personality: `a postcard Norman port at the mouth of the Seine, where tall slate-fronted houses ring the Vieux Bassin harbour, France's largest wooden church rises over the Place Sainte-Catherine, and the wooded Côte de Grâce looks out over the estuary and the Pont de Normandie`,
       highlight: `the quays of the Vieux Bassin, the ten-hectare Jardin des Personnalités, and the Côte de Grâce and Mont-Joli viewpoint walk`,
@@ -2139,6 +2144,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    'monte-carlo': {
+      personality: `le glamour de cette cité-État de la Riviera où les propriétaires de chiens flânent au Port Hercule, sur la place du Casino et dans le Rocher médiéval en laisse avant de s'échapper vers les sentiers des douaniers côtiers du Cap d'Ail`,
+      highlight: `la vieille ville du Rocher, la promenade du Port Hercule et le sentier côtier du Chemin des Douaniers jusqu'au Cap d'Ail`,
+      area: `Monaco-Ville sur Le Rocher, Monte-Carlo autour du Casino, et les fronts de mer de Fontvieille et de Larvotto`,
+    },
     honfleur: {
       personality: `un port normand de carte postale à l'embouchure de la Seine, où de hautes maisons aux façades d'ardoise entourent le Vieux Bassin, la plus grande église en bois de France domine la place Sainte-Catherine, et la Côte de Grâce boisée surplombe l'estuaire et le pont de Normandie`,
       highlight: `les quais du Vieux Bassin, le Jardin des Personnalités de dix hectares, et la promenade panoramique de la Côte de Grâce et du Mont-Joli`,
@@ -4256,6 +4266,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    'monte-carlo': {
+      personality: `el glamuroso estado-ciudad de la Riviera donde los dueños de perros pasean por Port Hercule, la plaza del Casino y el medieval Le Rocher con la correa antes de escaparse a los senderos costeros de aduaneros de Cap d'Ail`,
+      highlight: `el casco antiguo de Le Rocher, el paseo de Port Hercule y el sendero costero Chemin des Douaniers hasta Cap d'Ail`,
+      area: `Monaco-Ville en Le Rocher, Monte-Carlo en torno al Casino y los frentes marítimos de Fontvieille y Larvotto`,
+    },
     honfleur: {
       personality: `un puerto normando de postal en la desembocadura del Sena, donde altas casas de fachada de pizarra rodean el Vieux Bassin, la mayor iglesia de madera de Francia se alza sobre la plaza Sainte-Catherine, y la boscosa Côte de Grâce domina el estuario y el puente de Normandía`,
       highlight: `los muelles del Vieux Bassin, el Jardin des Personnalités de diez hectáreas, y el paseo panorámico de la Côte de Grâce y el Mont-Joli`,
@@ -6373,6 +6388,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    'monte-carlo': {
+      personality: `a glamorosa cidade-estado da Riviera onde os donos de cães passeiam pelo Port Hercule, pela praça do Casino e pelo Rocher medieval com a trela, antes de escaparem para os trilhos aduaneiros costeiros de Cap d'Ail`,
+      highlight: `a cidade velha de Le Rocher, o passeio do Port Hercule e o trilho costeiro Chemin des Douaniers até Cap d'Ail`,
+      area: `Monaco-Ville em Le Rocher, Monte-Carlo em redor do Casino e as frentes de mar de Fontvieille e Larvotto`,
+    },
     honfleur: {
       personality: `um porto normando de postal na foz do Sena, onde altas casas de fachada de ardósia rodeiam o Vieux Bassin, a maior igreja de madeira de França ergue-se sobre a praça Sainte-Catherine, e a arborizada Côte de Grâce domina o estuário e a ponte da Normandia`,
       highlight: `os cais do Vieux Bassin, o Jardin des Personnalités de dez hectares, e o passeio panorâmico da Côte de Grâce e do Mont-Joli`,
@@ -8490,6 +8510,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   de: {
+    'monte-carlo': {
+      personality: `der glamouröse Stadtstaat an der Riviera, wo Hundebesitzer den Port Hercule, den Casino-Platz und den mittelalterlichen Rocher an der Leine erkunden, bevor sie zu den Küsten-Zöllnerpfaden von Cap d'Ail entfliehen`,
+      highlight: `die Altstadt von Le Rocher, die Promenade am Port Hercule und der Küstenpfad Chemin des Douaniers nach Cap d'Ail`,
+      area: `Monaco-Ville auf Le Rocher, Monte-Carlo rund um das Casino sowie die Uferviertel Fontvieille und Larvotto`,
+    },
     honfleur: {
       personality: `ein bilderbuchhafter normannischer Hafen an der Seinemündung, wo hohe schiefergedeckte Häuser das Vieux Bassin umrahmen, Frankreichs größte Holzkirche über dem Place Sainte-Catherine aufragt und die bewaldete Côte de Grâce über die Mündung und die Pont de Normandie blickt`,
       highlight: `die Kais des Vieux Bassin, der zehn Hektar große Jardin des Personnalités und der Aussichtsweg der Côte de Grâce und des Mont-Joli`,
@@ -10607,6 +10632,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   nl: {
+    'monte-carlo': {
+      personality: `de glamoureuze stadstaat aan de Rivièra waar hondenbezitters langs Port Hercule, het casinoplein en het middeleeuwse Le Rocher aan de riem wandelen voordat ze ontsnappen naar de douanepaden langs de kust van Cap d'Ail`,
+      highlight: `de oude stad Le Rocher, de promenade van Port Hercule en het kustpad Chemin des Douaniers naar Cap d'Ail`,
+      area: `Monaco-Ville op Le Rocher, Monte-Carlo rond het casino, en de kusten van Fontvieille en Larvotto`,
+    },
     honfleur: {
       personality: `een Normandische havenstad als van een ansichtkaart aan de monding van de Seine, waar hoge huizen met leigevels het Vieux Bassin omringen, de grootste houten kerk van Frankrijk boven het Place Sainte-Catherine uitrijst en de beboste Côte de Grâce uitkijkt over de riviermonding en de Pont de Normandie`,
       highlight: `de kades van het Vieux Bassin, de tien hectare grote Jardin des Personnalités, en de panoramawandeling van de Côte de Grâce en de Mont-Joli`,
@@ -12724,6 +12754,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   it: {
+    'monte-carlo': {
+      personality: `la glamour città-stato della Riviera dove i proprietari di cani passeggiano al guinzaglio per Port Hercule, la piazza del Casino e il Rocher medievale prima di fuggire verso i sentieri doganali costieri di Cap d'Ail`,
+      highlight: `la città vecchia di Le Rocher, la passeggiata di Port Hercule e il sentiero costiero Chemin des Douaniers fino a Cap d'Ail`,
+      area: `Monaco-Ville su Le Rocher, Monte-Carlo attorno al Casino e i lungomari di Fontvieille e Larvotto`,
+    },
     honfleur: {
       personality: `un porto normanno da cartolina alla foce della Senna, dove alte case dalla facciata d'ardesia circondano il porticciolo del Vieux Bassin, la chiesa di legno più grande di Francia si alza sopra Place Sainte-Catherine, e la boscosa Côte de Grâce si affaccia sull'estuario e sul Pont de Normandie`,
       highlight: `le banchine del Vieux Bassin, il Jardin des Personnalités di dieci ettari, e la passeggiata panoramica della Côte de Grâce e Mont-Joli`,

@@ -65651,5 +65651,136 @@
       "Spa & wellness centre",
       "Beachfront"
     ]
+  },
+  {
+    "id": "monte-carlo-1",
+    "slug": "hotel-metropole-monte-carlo",
+    "name": "Hôtel Métropole Monte-Carlo",
+    "destinationSlug": "monte-carlo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1800,
+    "priceFrom": 690,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Metropole%20Monte-Carlo%20Monaco",
+    "petFee": 70,
+    "petPolicy": "Dogs and cats of any size are welcome for 70€ per night. Food and water bowls are provided in the room, and a partner grooming salon plus optional dog-walking and dog-sitting services are available. Please confirm details with the property when booking.",
+    "address": "4 Avenue de la Madone, 98000 Monaco",
+    "neighborhood": "Carré d’Or, steps from the Casino",
+    "highlights": [
+      "Belle Époque palace hotel steps from the Casino de Monte-Carlo",
+      "Dogs and cats welcome, with bowls provided in-room",
+      "Partner grooming salon plus dog-walking and dog-sitting"
+    ]
+  },
+  {
+    "id": "monte-carlo-2",
+    "slug": "hotel-hermitage-monte-carlo",
+    "name": "Hôtel Hermitage Monte-Carlo",
+    "destinationSlug": "monte-carlo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 1500,
+    "priceFrom": 560,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Hermitage%20Monte-Carlo%20Monaco",
+    "petFee": 60,
+    "petPolicy": "One pet up to 15 kg (dog or cat) is welcome for 60€ per pet, per night. Pets may not be left unattended in the room. Please confirm details with the property when booking.",
+    "address": "Square Beaumarchais, 98000 Monaco",
+    "neighborhood": "Monte-Carlo, above Port Hercule",
+    "highlights": [
+      "Belle Époque grande dame with a glass-domed Winter Garden",
+      "Pets up to 15 kg welcome, dogs and cats",
+      "Direct access to the Thermes Marins seawater spa"
+    ]
+  },
+  {
+    "id": "monte-carlo-3",
+    "slug": "fairmont-monte-carlo",
+    "name": "Fairmont Monte Carlo",
+    "destinationSlug": "monte-carlo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 3000,
+    "priceFrom": 430,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Fairmont%20Monte%20Carlo%20Monaco",
+    "petFee": 40,
+    "petPolicy": "One pet of any size (dog or cat) is welcome for 40€ per night. Please confirm room eligibility with the property when booking.",
+    "address": "12 Avenue des Spélugues, 98000 Monaco",
+    "neighborhood": "On the Grand Prix hairpin, above the sea",
+    "highlights": [
+      "Landmark hotel straddling the Grand Prix hairpin bend",
+      "One pet of any size welcome for 40€ per night",
+      "Short walk to the Larvotto seafront promenade"
+    ]
+  },
+  {
+    "id": "monte-carlo-4",
+    "slug": "columbus-monte-carlo",
+    "name": "Columbus Monte-Carlo",
+    "destinationSlug": "monte-carlo",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1200,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Columbus%20Monte-Carlo%20Monaco",
+    "petFee": 20,
+    "petPolicy": "One dog of any size is welcome for a 20€ deep-cleaning fee per stay. Please confirm details with the hotel when booking.",
+    "address": "23 Avenue des Papalins, 98000 Monaco",
+    "neighborhood": "Fontvieille, by the harbour",
+    "highlights": [
+      "Contemporary bolthole in the calm Fontvieille district",
+      "Dogs of any size welcome for a 20€ per-stay fee",
+      "Next to Fontvieille port and Princess Antoinette Park"
+    ]
+  },
+  {
+    "id": "monte-carlo-5",
+    "slug": "novotel-monte-carlo",
+    "name": "Novotel Monte-Carlo",
+    "destinationSlug": "monte-carlo",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2000,
+    "priceFrom": 210,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Novotel%20Monte-Carlo%20Monaco",
+    "petFee": 20,
+    "petPolicy": "Up to two pets of 10 kg or less are welcome for 20€ per pet, per night. Please confirm details with the property when booking.",
+    "address": "16 Boulevard Princesse Charlotte, 98000 Monaco",
+    "neighborhood": "Central Monte-Carlo",
+    "highlights": [
+      "Modern hotel in the heart of Monte-Carlo",
+      "Up to two small dogs welcome for 20€ each per night",
+      "Rooftop pool and an easy walk to Port Hercule"
+    ]
   }
 ]

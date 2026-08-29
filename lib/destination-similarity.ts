@@ -41,7 +41,7 @@ const HISTORIC_SLUGS = new Set([
 ])
 
 const URBAN_SLUGS = new Set([
-  'paris', 'london', 'berlin', 'amsterdam', 'madrid', 'barcelona', 'rome',
+  'monte-carlo', 'paris', 'london', 'berlin', 'amsterdam', 'madrid', 'barcelona', 'rome',
   'milan', 'lisbon', 'brussels', 'vienna', 'zurich', 'geneva', 'hamburg',
   'munich', 'cologne', 'frankfurt', 'stockholm', 'oslo', 'copenhagen',
   'helsinki', 'warsaw', 'budapest', 'prague', 'athens', 'istanbul',
@@ -50,7 +50,7 @@ const URBAN_SLUGS = new Set([
 ])
 
 const COASTAL_SLUGS = new Set([
-  'la-rochelle', 'brest', 'boulogne-sur-mer', 'calais', 'dunkerque',
+  'monte-carlo', 'la-rochelle', 'brest', 'boulogne-sur-mer', 'calais', 'dunkerque',
   'brighton', 'bournemouth', 'cardiff', 'bristol', 'liverpool',
   'dieppe', 'honfleur', 'etretat', 'le-havre',
   'ostend', 'kiel', 'rostock', 'warnemunde',

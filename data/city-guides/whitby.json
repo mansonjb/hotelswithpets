@@ -1231,7 +1231,9 @@
           "serviceTypeEs": "Paseo de perros, cuidado y taxi de mascotas",
           "serviceTypePt": "Passeio de cães, guarda e táxi de animais",
           "pricePerDay": "On request",
-          "languages": "English",
+          "languages": [
+            "English"
+          ],
           "tip": "Good for daytime dog walks or a pet taxi; contact ahead, especially in the busy summer months.",
           "tipFr": "Idéal pour des promenades en journée ou un taxi animalier ; contactez à l'avance, surtout pendant les mois d'été chargés.",
           "tipEs": "Bueno para paseos diurnos o un taxi de mascotas; contacta con antelación, sobre todo en los meses de verano concurridos.",
@@ -1258,7 +1260,9 @@
           "serviceTypeEs": "Alojamiento en casa con licencia y guardería",
           "serviceTypePt": "Alojamento familiar licenciado e creche",
           "pricePerDay": "On request",
-          "languages": "English",
+          "languages": [
+            "English"
+          ],
           "tip": "Home boarding books up fast in summer; enquire well ahead if you need overnight cover during your stay.",
           "tipFr": "La pension à domicile se remplit vite l'été ; renseignez-vous bien à l'avance si vous avez besoin d'une garde de nuit pendant votre séjour.",
           "tipEs": "El alojamiento en casa se llena rápido en verano; consulta con bastante antelación si necesitas cobertura nocturna durante tu estancia.",

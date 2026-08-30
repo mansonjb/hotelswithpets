@@ -1209,7 +1209,10 @@
           "serviceTypeEs": "Visitas en hotel y a domicilio, paseos privados, alojamiento sin jaula, apoyo en eventos",
           "serviceTypePt": "Visitas em hotel e ao domicílio, passeios privados, alojamento sem jaula, apoio em eventos",
           "pricePerDay": "Quoted per service; ask for a travel package",
-          "languages": "French, English",
+          "languages": [
+            "French",
+            "English"
+          ],
           "tip": "Mention your hotel when you enquire, as this is the one operator set up to work directly from a guest room rather than expecting you to travel to the sitter.",
           "tipFr": "Mentionnez votre hôtel lors de la demande : c'est le prestataire conçu pour intervenir directement depuis une chambre plutôt que de vous faire vous déplacer chez le gardien.",
           "tipEs": "Menciona tu hotel al consultar, porque es el operador preparado para trabajar directamente desde una habitación en vez de esperar que te desplaces hasta el cuidador.",
@@ -1236,7 +1239,10 @@
           "serviceTypeEs": "Paseos en grupo y privados, visitas de cuidado, alojamiento, transporte al veterinario, taxi para mascotas",
           "serviceTypePt": "Passeios de grupo e privados, visitas de guarda, alojamento, transporte ao veterinário, táxi para animais",
           "pricePerDay": "From about 25 to 28 CAD per walk or visit",
-          "languages": "French, English",
+          "languages": [
+            "French",
+            "English"
+          ],
           "tip": "Out-of-area fees apply beyond their listed neighbourhoods, so confirm your address is inside the standard zone when you book.",
           "tipFr": "Des frais hors zone s'appliquent au-delà des quartiers listés : confirmez que votre adresse est dans la zone standard à la réservation.",
           "tipEs": "Se aplican recargos fuera de zona más allá de los barrios que enumeran, así que confirma que tu dirección está en la zona estándar al reservar.",
@@ -1263,7 +1269,10 @@
           "serviceTypeEs": "Alojamiento individual en domicilio, cuidado, guardería y paseo",
           "serviceTypePt": "Alojamento individual ao domicílio, guarda, creche e passeio",
           "pricePerDay": "From about 75 CAD, quoted per dog and service",
-          "languages": "French, English",
+          "languages": [
+            "French",
+            "English"
+          ],
           "tip": "Caregivers are matched by proximity to your address, so book early if you are staying outside the Griffintown and Old Montréal core.",
           "tipFr": "Les gardiens sont attribués selon la proximité de votre adresse : réservez tôt si vous logez hors du noyau Griffintown et Vieux-Montréal.",
           "tipEs": "Los cuidadores se asignan por proximidad a tu dirección, así que reserva pronto si te alojas fuera del núcleo de Griffintown y el Vieux-Montréal.",

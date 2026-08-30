@@ -1436,7 +1436,9 @@
           "serviceTypeEs": "Residencia sin jaulas, guardería, paseos y peluquería",
           "serviceTypePt": "Pensão sem canil, creche, passeios e tosquia",
           "pricePerDay": "From CAD 85 per night for all-inclusive boarding",
-          "languages": "English",
+          "languages": [
+            "English"
+          ],
           "tip": "The facility requires current rabies, DHPP and bordetella records plus a complimentary 45-minute assessment before a first stay, so book that slot before you fly.",
           "tipFr": "L'établissement exige les certificats à jour de rage, DHPP et bordetelle, plus une évaluation gratuite de 45 minutes avant un premier séjour : réservez ce créneau avant de prendre l'avion.",
           "tipEs": "El centro exige certificados vigentes de rabia, DHPP y bordetella, más una evaluación gratuita de 45 minutos antes de la primera estancia: reserva esa cita antes de volar.",
@@ -1463,7 +1465,9 @@
           "serviceTypeEs": "Guardería sin jaulas, residencia, spa y peluquería",
           "serviceTypePt": "Creche sem jaulas, pensão, spa e tosquia",
           "pricePerDay": "Quoted per service, ask for the single-day daycare rate",
-          "languages": "English",
+          "languages": [
+            "English"
+          ],
           "tip": "A complimentary evaluation is required on a first visit, and the dog shuttle service has been paused, so plan to drop off and collect in person.",
           "tipFr": "Une évaluation gratuite est requise à la première visite, et le service de navette canine est suspendu : prévoyez de déposer et de récupérer vous-même.",
           "tipEs": "Se exige una evaluación gratuita en la primera visita, y el servicio de lanzadera canina está suspendido: cuenta con dejar y recoger en persona.",

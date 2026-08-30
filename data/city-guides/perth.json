@@ -1480,7 +1480,9 @@
           "serviceTypeEs": "Alojamiento en casa del cuidador, guardería de día, cuidado a domicilio, paseos y visitas puntuales",
           "serviceTypePt": "Alojamento em casa do cuidador, creche de dia, guarda ao domicílio, passeios e visitas pontuais",
           "pricePerDay": "Set individually by each sitter and shown on their profile before you book",
-          "languages": "English",
+          "languages": [
+            "English"
+          ],
           "tip": "Filter for a sitter in the suburb you are staying in rather than the cheapest across town, because without public transport every drop off and pick up becomes a car trip through Perth traffic.",
           "tipFr": "Filtrez sur un gardien du quartier où vous logez plutôt que sur le moins cher à l'autre bout de la ville : sans transports publics, chaque dépose et chaque reprise devient un trajet en voiture dans la circulation de Perth.",
           "tipEs": "Filtra por un cuidador del barrio donde te alojas y no por el más barato al otro lado de la ciudad: sin transporte público, cada entrega y cada recogida se convierte en un trayecto en coche por el tráfico de Perth.",
@@ -1507,7 +1509,9 @@
           "serviceTypeEs": "Alojamiento, guardería canina, visitas a domicilio, paseos y cuidado en tu alojamiento",
           "serviceTypePt": "Alojamento, creche canina, visitas ao domicílio, passeios e guarda em casa",
           "pricePerDay": "Set individually by each sitter and shown on their profile before you book",
-          "languages": "English",
+          "languages": [
+            "English"
+          ],
           "tip": "Ask directly how the sitter manages the middle of the day in summer. The right answer in Perth is that the dog stays inside with air conditioning between about ten and five, and walks early and late.",
           "tipFr": "Demandez explicitement comment le gardien gère le milieu de journée en été. La bonne réponse à Perth : le chien reste à l'intérieur avec la climatisation entre dix et dix-sept heures environ, et sort tôt le matin et en fin de journée.",
           "tipEs": "Pregunta directamente cómo gestiona el cuidador el mediodía en verano. La respuesta correcta en Perth es que el perro se queda dentro con aire acondicionado entre las diez y las cinco aproximadamente, y pasea temprano y al final del día.",

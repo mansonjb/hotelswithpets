@@ -1452,7 +1452,9 @@
           "serviceTypeEs": "Guardería, alojamiento nocturno y peluquería",
           "serviceTypePt": "Creche, alojamento noturno e tosquia",
           "pricePerDay": "Boarding from around USD 82 per night",
-          "languages": "English",
+          "languages": [
+            "English"
+          ],
           "tip": "Ask which site suits your dog rather than defaulting to the nearest: the five locations differ in size and layout, and the team will steer a nervous dog towards a quieter room.",
           "tipFr": "Demandez quel site convient à votre chien plutôt que de choisir le plus proche par défaut : les cinq adresses diffèrent par la taille et l'agencement, et l'équipe orientera un chien craintif vers une salle plus calme.",
           "tipEs": "Pregunta qué centro le conviene a tu perro en lugar de elegir el más cercano por defecto: los cinco locales difieren en tamaño y distribución, y el equipo llevará a un perro miedoso a una sala más tranquila.",
@@ -1479,7 +1481,9 @@
           "serviceTypeEs": "Guardería, alojamiento nocturno, peluquería y adiestramiento",
           "serviceTypePt": "Creche, alojamento noturno, tosquia e treino",
           "pricePerDay": "Contact the lounge for current daycare and boarding rates",
-          "languages": "English",
+          "languages": [
+            "English"
+          ],
           "tip": "Plan the paperwork early: a new dog has to pass a New Dog Evaluation, then attend a complimentary day of daycare, and an additional complimentary day is required before any boarding reservation can be made.",
           "tipFr": "Anticipez les formalités : un nouveau chien doit passer une New Dog Evaluation, puis venir une journée de garderie offerte, et une journée offerte supplémentaire est exigée avant toute réservation de pension.",
           "tipEs": "Anticipa los trámites: un perro nuevo debe pasar una New Dog Evaluation, luego acudir a un día de guardería gratuito, y se exige un día gratuito adicional antes de poder reservar alojamiento.",

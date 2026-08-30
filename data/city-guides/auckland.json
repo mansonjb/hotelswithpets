@@ -1466,7 +1466,9 @@
           "serviceTypeEs": "Alojamiento en casa del cuidador, guardería, cuidado en tu domicilio, visitas puntuales y paseos",
           "serviceTypePt": "Alojamento em casa do cuidador, creche, guarda em sua casa, visitas pontuais e passeios",
           "pricePerDay": "Sitters set their own rates; in-home boarding in Auckland commonly falls between NZ$40 and NZ$75 a night",
-          "languages": "English, and many Auckland sitters also speak Mandarin, Hindi or Korean",
+          "languages": [
+            "English, and many Auckland sitters also speak Mandarin, Hindi or Korean"
+          ],
           "tip": "Filter by suburb rather than by city: Auckland sprawls, and a sitter in Manukau is an hour from a hotel in Devonport at the wrong time of day.",
           "tipFr": "Filtrez par quartier plutôt que par ville : Auckland s'étale, et un gardien à Manukau est à une heure d'un hôtel de Devonport au mauvais moment de la journée.",
           "tipEs": "Filtra por barrio y no por ciudad: Auckland se extiende mucho, y un cuidador en Manukau queda a una hora de un hotel de Devonport a la hora equivocada del día.",
@@ -1493,7 +1495,9 @@
           "serviceTypeEs": "Alojamiento, guardería, peluquería canina y paseos",
           "serviceTypePt": "Alojamento, creche, banhos e tosquias e passeios",
           "pricePerDay": "Rates are set by each sitter and shown on the listing before you book",
-          "languages": "English, with a mix of other languages across Auckland's sitter community",
+          "languages": [
+            "English, with a mix of other languages across Auckland's sitter community"
+          ],
           "tip": "Message two or three sitters at once rather than waiting on one reply: response times vary widely and the good ones fill first over the summer holidays.",
           "tipFr": "Contactez deux ou trois gardiens à la fois plutôt que d'attendre une réponse : les délais varient beaucoup et les meilleurs se remplissent d'abord pendant les vacances d'été.",
           "tipEs": "Escribe a dos o tres cuidadores a la vez en vez de esperar una respuesta: los tiempos varían mucho y los buenos se llenan primero en las vacaciones de verano.",

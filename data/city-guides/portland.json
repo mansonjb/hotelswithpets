@@ -1462,7 +1462,9 @@
           "serviceTypeEs": "Alojamiento nocturno, guardería, peluquería y autolavado",
           "serviceTypePt": "Alojamento noturno, creche, tosquia e autolavagem",
           "pricePerDay": "Rates are quoted on request rather than published, so call or email for a figure",
-          "languages": "English",
+          "languages": [
+            "English"
+          ],
           "tip": "Proof of rabies, DHLPP and bordetella vaccination is required, along with effective flea and tick control, and every dog must complete a playgroup consultation first. Dogs must be at least four months old and spayed or neutered by seven months. Book that consultation before you fly.",
           "tipFr": "Les certificats de vaccination contre la rage, le DHLPP et la bordetelle sont exigés, ainsi qu'un traitement antiparasitaire efficace, et chaque chien doit d'abord passer une consultation en groupe de jeu. Les chiens doivent avoir au moins quatre mois et être stérilisés à sept mois. Réservez cette consultation avant de prendre l'avion.",
           "tipEs": "Se exigen certificados de vacunación contra la rabia, DHLPP y bordetella, además de un tratamiento antiparasitario eficaz, y todo perro debe pasar antes una consulta en grupo de juego. Los perros deben tener al menos cuatro meses y estar esterilizados a los siete. Reserva esa consulta antes de volar.",
@@ -1489,7 +1491,9 @@
           "serviceTypeEs": "Paseos, cuidado a domicilio, visitas a gatos, adiestramiento y taxi para mascotas",
           "serviceTypePt": "Passeios, guarda ao domicílio, visitas a gatos, treino e táxi para animais",
           "pricePerDay": "Rates are not published; request them by phone on +1 503 505-1262 or through the online form",
-          "languages": "English",
+          "languages": [
+            "English"
+          ],
           "tip": "In-home sitting is the better option than daycare if your dog is anxious in groups or if you are staying in a holiday rental rather than a hotel, since the dog stays in the space it already knows.",
           "tipFr": "La garde à domicile vaut mieux que la garderie si votre chien est anxieux en groupe ou si vous logez en location saisonnière plutôt qu'à l'hôtel : le chien reste dans l'espace qu'il connaît déjà.",
           "tipEs": "El cuidado a domicilio es mejor opción que la guardería si tu perro se pone nervioso en grupo o si te alojas en un apartamento turístico en lugar de un hotel, porque el perro se queda en el espacio que ya conoce.",

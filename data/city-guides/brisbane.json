@@ -1466,7 +1466,9 @@
           "serviceTypeEs": "Alojamiento en casa del cuidador, guardería, cuidado a domicilio, paseos y visitas puntuales",
           "serviceTypePt": "Alojamento em casa do cuidador, creche, guarda ao domicílio, passeios e visitas pontuais",
           "pricePerDay": "Set by each sitter, commonly around AUD 45 to 80 per night for boarding",
-          "languages": "English",
+          "languages": [
+            "English"
+          ],
           "tip": "Filter for a sitter within walking distance of your hotel or a ferry terminal, since you cannot take the dog on a bus or train to the drop-off, and a long taxi ride each way defeats the purpose.",
           "tipFr": "Filtrez pour trouver un gardien à distance de marche de votre hôtel ou d'un ponton : vous ne pouvez pas emmener le chien en bus ou en train jusqu'au rendez-vous, et un long trajet en taxi dans chaque sens ruine l'intérêt.",
           "tipEs": "Filtra por un cuidador a distancia caminando de tu hotel o de un embarcadero, ya que no puedes llevar al perro en autobús o tren hasta la entrega, y un taxi largo de ida y vuelta echa por tierra la idea.",
@@ -1493,7 +1495,9 @@
           "serviceTypeEs": "Alojamiento en casa, guardería, paseos y visitas a domicilio",
           "serviceTypePt": "Alojamento em casa, creche, passeios e visitas ao domicílio",
           "pricePerDay": "Set by each sitter, commonly around AUD 40 to 75 per night for boarding",
-          "languages": "English, and some sitters list other languages on their profile",
+          "languages": [
+            "English, and some sitters list other languages on their profile"
+          ],
           "tip": "Ask a candidate sitter directly what their tick prevention routine is and whether their yard is cane toad proofed at night. In south-east Queensland those two answers tell you more than any star rating.",
           "tipFr": "Demandez directement au gardien pressenti quelle est sa routine de prévention des tiques et si son jardin est sécurisé contre les crapauds buffles la nuit. Dans le sud-est du Queensland, ces deux réponses valent mieux que n'importe quelle note.",
           "tipEs": "Pregunta directamente al cuidador candidato cuál es su rutina de prevención de garrapatas y si su jardín está protegido de los sapos de caña por la noche. En el sureste de Queensland esas dos respuestas dicen más que cualquier valoración.",

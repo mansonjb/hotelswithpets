@@ -19116,6 +19116,81 @@
     "iata": "MRS"
   },
   {
+    "slug": "norderney",
+    "name": "Norderney",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/norderney.jpg",
+    "intro": "Norderney is the grande dame of Germany's East Frisian islands: a car-light North Sea resort of long sandy beaches, shifting white dunes and elegant 19th-century Bäderarchitektur, wrapped by the UNESCO-listed Wadden Sea. It is one of the most dog-friendly corners of the German coast, with three designated Hundestrände, free waste bags at every corner, no dog fee on the beach and, uniquely among the East Frisian islands, a resident vet in town. Reached only by ferry from Norddeich, the island keeps cars to a minimum, so you explore on foot, by bike or on the little island bus with your dog on the lead. From March to October dogs must be leashed across the island, but a dedicated free-run area, the wild eastern dunes of the Weiße Düne and the vast tidal flats at low tide give a well-exercised dog plenty of North Sea air, making Norderney a breezy, genuinely welcoming base for a seaside break with a dog.",
+    "lat": 53.708,
+    "lng": 7.151,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & windy",
+        "icon": "🌬️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cold & bright",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Fresh & breezy",
+        "icon": "🌥️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Cool spring",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Pleasant & fresh",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warmest month",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool & windy",
+        "icon": "🌥️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Grey & blustery",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cold & stormy",
+        "icon": "🌬️"
+      }
+    },
+    "iata": "NRD"
+  },
+  {
     "slug": "nuremberg",
     "name": "Nuremberg",
     "country": "Germany",

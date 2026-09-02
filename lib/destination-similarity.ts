@@ -24,6 +24,8 @@ const ISLAND_SLUGS = new Set([
   'valletta', 'sliema',
   // UK
   'douglas',
+  // Germany (North Sea / East Frisian)
+  'norderney',
 ])
 
 const MOUNTAIN_SLUGS = new Set([
@@ -53,7 +55,7 @@ const COASTAL_SLUGS = new Set([
   'monte-carlo', 'la-rochelle', 'brest', 'boulogne-sur-mer', 'calais', 'dunkerque',
   'brighton', 'bournemouth', 'cardiff', 'bristol', 'liverpool',
   'dieppe', 'honfleur', 'etretat', 'le-havre', 'deauville', 'trouville',
-  'ostend', 'kiel', 'rostock', 'warnemunde',
+  'ostend', 'kiel', 'rostock', 'warnemunde', 'norderney',
 ])
 
 export function getVibes(slug: string, hotels: Hotel[]): string[] {

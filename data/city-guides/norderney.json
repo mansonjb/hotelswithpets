@@ -1,0 +1,1348 @@
+{
+  "slug": "norderney",
+  "name": "Norderney",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "lastUpdated": "2026-09-02",
+  "guides": {
+    "vets": {
+      "titleEn": "Emergency Vets on Norderney, Veterinary Clinics & Pet Care",
+      "introEn": "Norderney has a real advantage over its neighbours: it is the only East Frisian island with a resident vet, the Tierarztpraxis Solaro in the town centre, which handles consultations and everyday care. Opening hours are limited (mornings and by appointment), and there is no 24-hour animal hospital on the island, so for nights, weekends or anything complex you may need to take the ferry to a mainland clinic in Norden. Save the practice number before you travel and, for an emergency, always call ahead so the vet is expecting you.",
+      "entryRequirements": {
+        "euPets": "Germany applies EU pet-travel rules. Your dog or cat needs an ISO microchip, a valid rabies vaccination and an EU pet passport. There is no quarantine for compliant pets, and dogs, cats and ferrets are covered by the same scheme.",
+        "nonEuPets": "Arriving from outside the EU, your pet needs an ISO microchip, a valid rabies vaccination and an EU Animal Health Certificate issued within 10 days of entry (plus a rabies antibody test for some countries). You clear entry at the EU border on the mainland before taking the ferry.",
+        "emergencyContacts": "On-island vet: Tierarztpraxis Solaro, Fischerstraße 7, 26548 Norderney, +49 4932 82218 (Mon-Fri 10:00-12:00 and by appointment). There is no 24/7 animal hospital on Norderney; for nights, weekends or serious emergencies, take the ferry to a veterinary clinic in Norden on the mainland.",
+        "euPetsFr": "L'Allemagne applique les règles européennes de voyage pour animaux de compagnie. Votre chien ou chat a besoin d'une puce électronique ISO, d'une vaccination antirabique valide et d'un passeport européen pour animaux. Aucune quarantaine pour les animaux en règle, et chiens, chats et furets relèvent du même dispositif.",
+        "nonEuPetsFr": "En provenance de hors UE, votre animal a besoin d'une puce électronique ISO, d'une vaccination antirabique valide et d'un certificat sanitaire européen délivré dans les 10 jours précédant l'entrée (avec, pour certains pays, un test d'anticorps antirabiques). Les formalités d'entrée se règlent à la frontière européenne sur le continent, avant de prendre le ferry.",
+        "emergencyContactsFr": "Vétérinaire sur l'île : Tierarztpraxis Solaro, Fischerstraße 7, 26548 Norderney, +49 4932 82218 (lun-ven 10h-12h et sur rendez-vous). Il n'y a pas de clinique vétérinaire ouverte 24h/24 et 7j/7 à Norderney ; pour les nuits, les week-ends ou les urgences graves, prenez le ferry vers une clinique vétérinaire à Norden, sur le continent.",
+        "euPetsEs": "Alemania aplica la normativa de la UE para viajar con mascotas. Tu perro o gato necesita un microchip ISO, una vacuna antirrábica vigente y un pasaporte europeo para mascotas. No hay cuarentena para las mascotas que cumplan los requisitos, y perros, gatos y hurones están cubiertos por el mismo régimen.",
+        "nonEuPetsEs": "Si llegas de fuera de la UE, tu mascota necesita un microchip ISO, una vacuna antirrábica vigente y un certificado sanitario de la UE emitido dentro de los 10 días previos a la entrada (además de una prueba de anticuerpos antirrábicos para algunos países). El control de entrada se realiza en la frontera de la UE en el continente, antes de tomar el ferry.",
+        "emergencyContactsEs": "Veterinario en la isla: Tierarztpraxis Solaro, Fischerstraße 7, 26548 Norderney, +49 4932 82218 (lunes a viernes de 10:00 a 12:00 y con cita previa). No hay hospital veterinario 24 horas en Norderney; para noches, fines de semana o urgencias graves, toma el ferry hasta una clínica veterinaria en Norden, en el continente.",
+        "euPetsPt": "A Alemanha aplica as regras da UE para viagens com animais de companhia. O seu cão ou gato precisa de microchip ISO, vacinação antirrábica válida e passaporte europeu para animais de companhia. Não há quarentena para animais em conformidade, e cães, gatos e furões estão abrangidos pelo mesmo regime.",
+        "nonEuPetsPt": "Se chegar de fora da UE, o seu animal precisa de microchip ISO, vacinação antirrábica válida e um Certificado Sanitário Animal da UE emitido nos 10 dias anteriores à entrada (mais um teste de anticorpos antirrábicos para alguns países). O desalfandegamento faz-se na fronteira da UE no continente, antes de apanhar o ferry.",
+        "emergencyContactsPt": "Veterinário na ilha: Tierarztpraxis Solaro, Fischerstraße 7, 26548 Norderney, +49 4932 82218 (seg-sex 10:00-12:00 e com marcação). Não há hospital veterinário 24 horas em Norderney; para noites, fins de semana ou emergências graves, apanhe o ferry até uma clínica veterinária em Norden, no continente.",
+        "euPetsDe": "In Deutschland gelten die EU-Regeln für Heimtierreisen. Ihr Hund oder Ihre Katze braucht einen ISO-Mikrochip, eine gültige Tollwutimpfung und einen EU-Heimtierausweis. Für Tiere, die diese Vorgaben erfüllen, gibt es keine Quarantäne, und Hunde, Katzen und Frettchen fallen unter dieselbe Regelung.",
+        "nonEuPetsDe": "Bei Einreise von außerhalb der EU braucht Ihr Tier einen ISO-Mikrochip, eine gültige Tollwutimpfung und eine EU-Tiergesundheitsbescheinigung, die innerhalb von 10 Tagen vor der Einreise ausgestellt wurde (bei manchen Herkunftsländern zusätzlich einen Tollwut-Antikörpertest). Die Einreisekontrolle erfolgt an der EU-Grenze auf dem Festland, bevor Sie die Fähre nehmen.",
+        "emergencyContactsDe": "Tierarzt auf der Insel: Tierarztpraxis Solaro, Fischerstraße 7, 26548 Norderney, +49 4932 82218 (Mo-Fr 10:00-12:00 Uhr und nach Vereinbarung). Auf Norderney gibt es keine Tierklinik mit 24/7-Betrieb; für Nächte, Wochenenden oder ernste Notfälle nehmen Sie die Fähre zu einer Tierarztpraxis in Norden auf dem Festland.",
+        "euPetsNl": "Duitsland volgt de EU-regels voor huisdierenreizen. Je hond of kat heeft een ISO-chip, een geldige rabiësvaccinatie en een EU-huisdierenpaspoort nodig. Voor huisdieren die aan de eisen voldoen geldt geen quarantaine, en honden, katten en fretten vallen onder dezelfde regeling.",
+        "nonEuPetsNl": "Kom je van buiten de EU, dan heeft je huisdier een ISO-chip, een geldige rabiësvaccinatie en een EU-gezondheidscertificaat nodig, afgegeven binnen 10 dagen voor inreis (plus een rabiës-antistoftest voor sommige landen). Je wordt aan de EU-grens op het vasteland gecontroleerd voordat je de veerboot neemt.",
+        "emergencyContactsNl": "Dierenarts op het eiland: Tierarztpraxis Solaro, Fischerstraße 7, 26548 Norderney, +49 4932 82218 (ma-vr 10:00-12:00 en op afspraak). Er is geen 24/7 dierenkliniek op Norderney; neem voor de nacht, het weekend of ernstige noodgevallen de veerboot naar een dierenkliniek in Norden op het vasteland.",
+        "euPetsIt": "La Germania applica le regole UE per i viaggi con animali. Il tuo cane o gatto ha bisogno di un microchip ISO, una vaccinazione antirabbica valida e un passaporto UE per animali. Non c'è quarantena per gli animali in regola, e cani, gatti e furetti rientrano nello stesso schema.",
+        "nonEuPetsIt": "Se arrivi da fuori dall'UE, il tuo animale ha bisogno di un microchip ISO, una vaccinazione antirabbica valida e un certificato sanitario UE emesso entro 10 giorni dall'ingresso (più un test anticorpale antirabbico per alcuni paesi). L'ingresso viene sdoganato al confine UE sulla terraferma prima di prendere il traghetto.",
+        "emergencyContactsIt": "Veterinario sull'isola: Tierarztpraxis Solaro, Fischerstraße 7, 26548 Norderney, +49 4932 82218 (lun-ven 10:00-12:00 e su appuntamento). Non c'è un ospedale veterinario aperto 24 ore su Norderney; per notti, weekend o emergenze serie, prendi il traghetto per una clinica veterinaria a Norden sulla terraferma."
+      },
+      "places": [
+        {
+          "name": "Tierarztpraxis Solaro",
+          "type": "General veterinary practice (the island's only vet)",
+          "address": "Fischerstraße 7, 26548 Norderney",
+          "phone": "+49 4932 82218",
+          "hours": "Mon-Fri 10:00-12:00 and by appointment",
+          "englishSpeaking": true,
+          "website": "",
+          "description": "The only veterinary practice on Norderney, and indeed on any of the East Frisian islands, right in the town centre on Fischerstraße. It handles consultations, vaccinations and everyday care for dogs and cats, and is the reassuring first call if your dog needs attention during an island stay.",
+          "tip": "Opening hours are short, so call ahead and save the number on arrival; for a night emergency you will need the mainland.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierarztpraxis+Solaro+Norderney",
+          "photo": "",
+          "descriptionFr": "Le seul cabinet vétérinaire de Norderney, et même de toutes les îles de Frise orientale, en plein centre-ville, sur Fischerstraße. Il assure consultations, vaccinations et soins courants pour chiens et chats, et constitue le premier recours rassurant si votre chien a besoin de soins pendant votre séjour sur l'île.",
+          "tipFr": "Les horaires d'ouverture sont courts : appelez à l'avance et enregistrez le numéro dès votre arrivée ; pour une urgence nocturne, il faudra vous tourner vers le continent.",
+          "hoursFr": "Lun-ven 10h-12h et sur rendez-vous",
+          "descriptionEs": "La única clínica veterinaria de Norderney, y de hecho de cualquiera de las islas frisias orientales, justo en el centro del pueblo, en Fischerstraße. Se ocupa de consultas, vacunaciones y cuidados diarios para perros y gatos, y es el contacto de confianza si tu perro necesita atención durante una estancia en la isla.",
+          "tipEs": "El horario es breve, así que llama antes y guarda el número al llegar; para una urgencia nocturna necesitarás ir al continente.",
+          "hoursEs": "Lunes a viernes de 10:00 a 12:00 y con cita previa",
+          "descriptionPt": "A única clínica veterinária de Norderney, e na verdade de qualquer uma das ilhas frísias orientais, mesmo no centro da vila, na Fischerstraße. Trata de consultas, vacinações e cuidados do dia a dia para cães e gatos, e é o contacto tranquilizador de primeira linha se o seu cão precisar de atenção durante uma estadia na ilha.",
+          "tipPt": "O horário de funcionamento é curto, por isso ligue com antecedência e guarde o número à chegada; para uma emergência noturna vai precisar do continente.",
+          "hoursPt": "Seg-sex 10:00-12:00 e com marcação",
+          "descriptionDe": "Die einzige Tierarztpraxis auf Norderney, und tatsächlich auf allen ostfriesischen Inseln, mitten im Ortszentrum an der Fischerstraße. Sie übernimmt Sprechstunden, Impfungen und die tägliche Versorgung für Hunde und Katzen und ist die beruhigende erste Anlaufstelle, falls Ihr Hund während des Inselaufenthalts Behandlung braucht.",
+          "tipDe": "Die Öffnungszeiten sind kurz, rufen Sie also nach der Ankunft vorher an und speichern Sie die Nummer; bei einem nächtlichen Notfall führt der Weg aufs Festland.",
+          "hoursDe": "Mo-Fr 10:00-12:00 Uhr und nach Vereinbarung",
+          "descriptionNl": "De enige dierenartspraktijk op Norderney, en zelfs op alle Oost-Friese eilanden, midden in het centrum aan de Fischerstraße. Hier kun je terecht voor consulten, vaccinaties en dagelijkse zorg voor honden en katten, en het is het geruststellende eerste aanspreekpunt als je hond aandacht nodig heeft tijdens je eilandverblijf.",
+          "tipNl": "De openingstijden zijn kort, dus bel vooraf en sla het nummer meteen bij aankomst op; voor een nachtelijk noodgeval moet je naar het vasteland.",
+          "hoursNl": "Ma-vr 10:00-12:00 en op afspraak",
+          "descriptionIt": "L'unico studio veterinario di Norderney, e in effetti di tutte le isole frisone orientali, proprio nel centro città su Fischerstraße. Si occupa di visite, vaccinazioni e cure quotidiane per cani e gatti, ed è la telefonata rassicurante da fare per prima se il tuo cane ha bisogno di attenzioni durante il soggiorno sull'isola.",
+          "tipIt": "Gli orari di apertura sono brevi, quindi chiama in anticipo e salva il numero all'arrivo; per un'emergenza notturna dovrai rivolgerti alla terraferma.",
+          "hoursIt": "Lun-ven 10:00-12:00 e su appuntamento"
+        },
+        {
+          "name": "Mainland veterinary care (Norden)",
+          "type": "Off-island clinics on the mainland",
+          "address": "Norden, near Norddeich (mainland)",
+          "phone": "",
+          "hours": "Varies by clinic; some offer emergency cover",
+          "englishSpeaking": false,
+          "website": "",
+          "description": "For out-of-hours emergencies, surgery or specialist care that the island practice cannot cover, the nearest options are veterinary clinics in Norden on the mainland, a short ferry crossing from Norddeich. Worth identifying before you travel so you know where to head in a night emergency.",
+          "tip": "Check the last ferry times: an evening emergency may mean a special crossing, so ask your accommodation about options.",
+          "googleMapsUrl": "https://maps.google.com/?q=Tierarzt+Norden+Ostfriesland",
+          "photo": "",
+          "descriptionFr": "Pour les urgences en dehors des horaires, une intervention chirurgicale ou des soins spécialisés que le cabinet de l'île ne peut assurer, les options les plus proches sont les cliniques vétérinaires de Norden, sur le continent, à une courte traversée en ferry depuis Norddeich. Mieux vaut les repérer avant de partir pour savoir où aller en cas d'urgence nocturne.",
+          "tipFr": "Vérifiez les horaires du dernier ferry : une urgence en soirée peut nécessiter une traversée spéciale, renseignez-vous donc auprès de votre hébergement sur les options possibles.",
+          "hoursFr": "Variable selon les cliniques ; certaines assurent une garde d'urgence",
+          "descriptionEs": "Para urgencias fuera de horario, cirugía o atención especializada que la clínica de la isla no pueda cubrir, las opciones más cercanas son las clínicas veterinarias de Norden, en el continente, a un corto trayecto en ferry desde Norddeich. Merece la pena identificarlas antes de viajar para saber adónde acudir en una urgencia nocturna.",
+          "tipEs": "Consulta los horarios del último ferry: una urgencia por la noche puede exigir una travesía especial, así que pregunta a tu alojamiento sobre las opciones.",
+          "hoursEs": "Varía según la clínica; algunas ofrecen cobertura de urgencias",
+          "descriptionPt": "Para emergências fora de horas, cirurgias ou cuidados especializados que a clínica da ilha não consegue cobrir, as opções mais próximas são as clínicas veterinárias em Norden, no continente, a uma curta travessia de ferry a partir de Norddeich. Vale a pena identificar antecipadamente para saber para onde se dirigir numa emergência noturna.",
+          "tipPt": "Verifique os horários do último ferry: uma emergência ao fim da tarde pode implicar uma travessia especial, por isso pergunte ao seu alojamento sobre as opções.",
+          "hoursPt": "Varia consoante a clínica; algumas oferecem cobertura de emergência",
+          "descriptionDe": "Für Notfälle außerhalb der Sprechzeiten, Operationen oder Facharztversorgung, die die Inselpraxis nicht abdecken kann, liegen die nächsten Optionen in Tierarztpraxen in Norden auf dem Festland, eine kurze Fährüberfahrt ab Norddeich entfernt. Es lohnt sich, diese schon vor der Anreise zu kennen, damit Sie im nächtlichen Notfall wissen, wohin.",
+          "tipDe": "Prüfen Sie die letzten Fährzeiten: Ein abendlicher Notfall kann eine Sonderüberfahrt bedeuten, fragen Sie also Ihre Unterkunft nach den Möglichkeiten.",
+          "hoursDe": "Je nach Praxis unterschiedlich; manche bieten Notdienst an",
+          "descriptionNl": "Voor noodgevallen buiten kantooruren, operaties of gespecialiseerde zorg die de praktijk op het eiland niet kan bieden, zijn de dichtstbijzijnde opties dierenklinieken in Norden op het vasteland, een korte overtocht vanaf Norddeich. Het is goed om dit al voor vertrek uit te zoeken, zodat je weet waar je heen moet bij een nachtelijk noodgeval.",
+          "tipNl": "Check de laatste vertrektijden van de veerboot: bij een noodgeval 's avonds is soms een extra overtocht nodig, dus vraag je accommodatie naar de mogelijkheden.",
+          "hoursNl": "Verschilt per kliniek; sommige bieden spoedhulp",
+          "descriptionIt": "Per le emergenze fuori orario, gli interventi chirurgici o le cure specialistiche che lo studio dell'isola non può coprire, le opzioni più vicine sono le cliniche veterinarie a Norden sulla terraferma, a una breve traversata in traghetto da Norddeich. Vale la pena individuarle prima di partire, così sai dove andare in caso di emergenza notturna.",
+          "tipIt": "Controlla gli orari dell'ultimo traghetto: un'emergenza serale potrebbe richiedere una traversata speciale, quindi chiedi al tuo alloggio quali opzioni ci sono.",
+          "hoursIt": "Varia a seconda della clinica; alcune offrono copertura di emergenza"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a vet on Norderney?",
+          "a": "Yes. Norderney is the only East Frisian island with a resident vet, the Tierarztpraxis Solaro in the town centre, open mornings and by appointment. There is no 24-hour animal hospital, so for nights and serious emergencies you may need to cross to a mainland clinic in Norden."
+        },
+        {
+          "q": "What do I do in a night-time pet emergency on Norderney?",
+          "a": "Call the island practice first for advice, but be aware its hours are limited. For genuine out-of-hours emergencies you will likely need to reach a mainland clinic in Norden by ferry, so check the last crossing times and ask your accommodation about emergency options when you arrive."
+        }
+      ],
+      "titleFr": "Vétérinaires d'urgence à Norderney, cliniques vétérinaires et soins pour animaux",
+      "introFr": "Norderney a un vrai avantage sur ses voisines : c'est la seule île de Frise orientale à disposer d'un vétérinaire résident, la Tierarztpraxis Solaro, en centre-ville, qui assure consultations et soins courants. Les horaires d'ouverture sont limités (matinées et sur rendez-vous), et il n'existe pas de clinique vétérinaire ouverte 24h/24 sur l'île : pour les nuits, les week-ends ou tout cas complexe, il peut être nécessaire de prendre le ferry vers une clinique sur le continent, à Norden. Enregistrez le numéro du cabinet avant de partir et, en cas d'urgence, appelez toujours à l'avance pour que le vétérinaire vous attende.",
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire à Norderney ?",
+          "a": "Oui. Norderney est la seule île de Frise orientale à disposer d'un vétérinaire résident, la Tierarztpraxis Solaro, en centre-ville, ouverte le matin et sur rendez-vous. Il n'y a pas de clinique ouverte 24h/24, donc pour les nuits et les urgences graves, il peut être nécessaire de rejoindre une clinique sur le continent, à Norden."
+        },
+        {
+          "q": "Que faire en cas d'urgence vétérinaire nocturne à Norderney ?",
+          "a": "Appelez d'abord le cabinet de l'île pour un avis, mais sachez que ses horaires sont limités. Pour une véritable urgence en dehors des heures d'ouverture, il faudra probablement rejoindre en ferry une clinique sur le continent, à Norden : vérifiez donc les horaires de la dernière traversée et renseignez-vous auprès de votre hébergement sur les options d'urgence dès votre arrivée."
+        }
+      ],
+      "titleEs": "Veterinarios de urgencia en Norderney, clínicas veterinarias y cuidado de mascotas",
+      "introEs": "Norderney tiene una ventaja real frente a sus vecinas: es la única isla frisia oriental con un veterinario residente, la Tierarztpraxis Solaro en el centro del pueblo, que se ocupa de las consultas y del cuidado diario. El horario es limitado (mañanas y con cita previa), y no hay un hospital veterinario de 24 horas en la isla, así que para las noches, los fines de semana o cualquier cosa complicada puede que tengas que tomar el ferry hasta una clínica en el continente, en Norden. Guarda el número de la clínica antes de viajar y, ante una urgencia, llama siempre antes para que el veterinario te esté esperando.",
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario en Norderney?",
+          "a": "Sí. Norderney es la única isla frisia oriental con un veterinario residente, la Tierarztpraxis Solaro en el centro del pueblo, abierta por las mañanas y con cita previa. No hay hospital veterinario de 24 horas, así que para las noches y urgencias graves puede que tengas que cruzar a una clínica en el continente, en Norden."
+        },
+        {
+          "q": "¿Qué hago ante una urgencia nocturna con mi mascota en Norderney?",
+          "a": "Llama primero a la clínica de la isla para pedir consejo, pero ten en cuenta que su horario es limitado. Para urgencias reales fuera de horario probablemente necesites llegar a una clínica en el continente, en Norden, en ferry, así que consulta los horarios de la última travesía y pregunta a tu alojamiento por las opciones de urgencia al llegar."
+        }
+      ],
+      "titlePt": "Veterinários de Emergência em Norderney, Clínicas Veterinárias e Cuidados para Animais",
+      "introPt": "Norderney tem uma verdadeira vantagem em relação às ilhas vizinhas: é a única ilha frísia oriental com veterinário residente, a Tierarztpraxis Solaro no centro da vila, que trata de consultas e cuidados do dia a dia. O horário de funcionamento é limitado (manhãs e com marcação), e não há hospital veterinário 24 horas na ilha, pelo que, para noites, fins de semana ou casos complexos, pode ser necessário apanhar o ferry para uma clínica no continente, em Norden. Guarde o número da clínica antes de viajar e, em caso de emergência, ligue sempre com antecedência para que o veterinário o esteja à espera.",
+      "faqsPt": [
+        {
+          "q": "Há um veterinário em Norderney?",
+          "a": "Sim. Norderney é a única ilha frísia oriental com veterinário residente, a Tierarztpraxis Solaro no centro da vila, aberta de manhã e com marcação. Não há hospital veterinário 24 horas, pelo que, para noites e emergências graves, pode ser necessário atravessar para uma clínica no continente, em Norden."
+        },
+        {
+          "q": "O que fazer numa emergência noturna com o animal em Norderney?",
+          "a": "Ligue primeiro para a clínica da ilha para pedir conselho, mas tenha em conta que o horário é limitado. Para emergências genuínas fora de horas, provavelmente terá de chegar a uma clínica no continente, em Norden, de ferry, por isso verifique os horários da última travessia e pergunte ao seu alojamento sobre opções de emergência à chegada."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte auf Norderney, Tierarztpraxen & Tierbetreuung",
+      "introDe": "Norderney hat gegenüber den Nachbarinseln einen echten Vorteil: Es ist die einzige ostfriesische Insel mit ansässigem Tierarzt, der Tierarztpraxis Solaro im Ortszentrum, die Sprechstunden und die tägliche Versorgung übernimmt. Die Öffnungszeiten sind begrenzt (vormittags und nach Vereinbarung), und auf der Insel gibt es keine Tierklinik mit 24-Stunden-Betrieb. Für Nächte, Wochenenden oder komplexere Fälle müssen Sie unter Umständen mit der Fähre zu einer Praxis auf dem Festland in Norden übersetzen. Speichern Sie die Praxisnummer vor der Anreise, und rufen Sie im Notfall immer vorher an, damit man dort auf Sie wartet.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Tierarzt auf Norderney?",
+          "a": "Ja. Norderney ist die einzige ostfriesische Insel mit ansässigem Tierarzt, der Tierarztpraxis Solaro im Ortszentrum, geöffnet vormittags und nach Vereinbarung. Eine Tierklinik mit 24-Stunden-Betrieb gibt es nicht, für Nächte und ernste Notfälle müssen Sie unter Umständen zu einer Praxis auf dem Festland in Norden übersetzen."
+        },
+        {
+          "q": "Was tue ich bei einem nächtlichen Tiernotfall auf Norderney?",
+          "a": "Rufen Sie zuerst bei der Inselpraxis an, um sich beraten zu lassen, beachten Sie jedoch die begrenzten Öffnungszeiten. Bei einem echten Notfall außerhalb der Sprechzeiten müssen Sie wahrscheinlich mit der Fähre eine Praxis auf dem Festland in Norden erreichen. Prüfen Sie also die letzten Fährzeiten und fragen Sie bei der Ankunft Ihre Unterkunft nach den Notfallmöglichkeiten."
+        }
+      ],
+      "titleNl": "Dierenartsen, Spoedhulp & Huisdierenzorg op Norderney",
+      "introNl": "Norderney heeft een echt voordeel ten opzichte van zijn buureilanden: het is het enige Oost-Friese eiland met een vaste dierenarts, de Tierarztpraxis Solaro in het centrum, waar je terechtkunt voor consulten en dagelijkse zorg. De openingstijden zijn beperkt (ochtenden en op afspraak), en er is geen 24-uursdierenkliniek op het eiland, dus voor de nacht, het weekend of iets ingewikkelders moet je mogelijk de veerboot nemen naar een kliniek op het vasteland in Norden. Sla het nummer van de praktijk op voordat je vertrekt en bel bij een noodgeval altijd vooraf, zodat de dierenarts je verwacht.",
+      "faqsNl": [
+        {
+          "q": "Is er een dierenarts op Norderney?",
+          "a": "Ja. Norderney is het enige Oost-Friese eiland met een vaste dierenarts, de Tierarztpraxis Solaro in het centrum, open in de ochtend en op afspraak. Er is geen 24-uursdierenkliniek, dus voor de nacht en ernstige noodgevallen moet je mogelijk oversteken naar een kliniek op het vasteland in Norden."
+        },
+        {
+          "q": "Wat doe ik bij een nachtelijk noodgeval met mijn huisdier op Norderney?",
+          "a": "Bel eerst de praktijk op het eiland voor advies, maar houd er rekening mee dat de openingstijden beperkt zijn. Voor een echt noodgeval buiten kantooruren moet je waarschijnlijk per veerboot naar een kliniek op het vasteland in Norden, dus controleer de laatste overtochttijden en vraag je accommodatie bij aankomst naar de mogelijkheden voor noodgevallen."
+        }
+      ],
+      "titleIt": "Veterinari d'Emergenza a Norderney, Cliniche Veterinarie e Cura degli Animali",
+      "introIt": "Norderney ha un vero vantaggio rispetto alle isole vicine: è l'unica isola frisone orientale con un veterinario residente, la Tierarztpraxis Solaro nel centro città, che si occupa di visite e cure quotidiane. Gli orari di apertura sono limitati (mattine e su appuntamento), e non c'è un ospedale veterinario aperto 24 ore sull'isola, quindi per le notti, i weekend o qualsiasi cosa complessa potresti dover prendere il traghetto per una clinica sulla terraferma a Norden. Salva il numero dello studio prima di partire e, in caso di emergenza, chiama sempre in anticipo così il veterinario ti aspetta.",
+      "faqsIt": [
+        {
+          "q": "C'è un veterinario a Norderney?",
+          "a": "Sì. Norderney è l'unica isola frisone orientale con un veterinario residente, la Tierarztpraxis Solaro nel centro città, aperta la mattina e su appuntamento. Non c'è un ospedale veterinario aperto 24 ore, quindi per le notti e le emergenze serie potresti dover attraversare verso una clinica sulla terraferma a Norden."
+        },
+        {
+          "q": "Cosa faccio in caso di emergenza notturna per il mio animale a Norderney?",
+          "a": "Chiama prima lo studio dell'isola per un consiglio, ma tieni presente che gli orari sono limitati. Per vere emergenze fuori orario probabilmente dovrai raggiungere in traghetto una clinica sulla terraferma a Norden, quindi controlla gli orari dell'ultima traversata e chiedi al tuo alloggio quali opzioni di emergenza ci sono appena arrivi."
+        }
+      ]
+    },
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants on Norderney: Where to Eat with Your Dog",
+      "introEn": "Norderney is relaxed and outdoorsy, and a leashed, well-behaved dog is welcome on many terraces, from the famous Milchbar above the beach to the island's cafés and fish restaurants. Most places are happy to bring a water bowl if you ask, and the sea-facing terraces are the natural choice for a break with a dog after a windy beach walk. Keep your dog on the lead beside your table, and in high summer it is worth checking or booking ahead, as the island gets busy.",
+      "places": [
+        {
+          "name": "Milchbar Norderney",
+          "address": "Weststrandstraße, 26548 Norderney",
+          "neighborhood": "Above the Weststrand",
+          "photo": "",
+          "website": "",
+          "description": "Norderney's most famous café-bar, perched above the Weststrand with a big sea-view terrace and a cult following for its milkshakes, cake and sundowners. Leashed dogs are welcome on the terrace, making it the classic island spot to watch the North Sea with your companion after a beach walk.",
+          "petPolicy": "Leashed dogs welcome on the terrace",
+          "priceRange": "€€",
+          "mustTry": "A milkshake or cake with the sunset over the sea",
+          "openingHours": "Daily, daytime to evening",
+          "tip": "Come for sunset but arrive early for a terrace table in summer; bring water as it gets busy and warm.",
+          "googleMapsUrl": "https://maps.google.com/?q=Milchbar+Norderney",
+          "descriptionFr": "Le café-bar le plus célèbre de Norderney, perché au-dessus du Weststrand avec une grande terrasse vue mer et une réputation culte pour ses milkshakes, ses gâteaux et ses couchers de soleil. Les chiens en laisse sont acceptés sur la terrasse, ce qui en fait le lieu classique de l'île pour admirer la mer du Nord avec son compagnon après une balade sur la plage.",
+          "petPolicyFr": "Chiens en laisse acceptés sur la terrasse",
+          "mustTryFr": "Un milkshake ou une part de gâteau avec le coucher de soleil sur la mer",
+          "openingHoursFr": "Tous les jours, de la journée jusqu'au soir",
+          "tipFr": "Venez pour le coucher de soleil mais arrivez tôt pour avoir une table en terrasse l'été ; prévoyez de l'eau, car il y fait vite chaud et animé.",
+          "descriptionEs": "El café-bar más famoso de Norderney, encaramado sobre el Weststrand con una gran terraza frente al mar y seguidores incondicionales de sus batidos, tartas y puestas de sol. Los perros con correa son bienvenidos en la terraza, lo que la convierte en el rincón clásico de la isla para contemplar el mar del Norte con tu compañero después de un paseo por la playa.",
+          "petPolicyEs": "Perros con correa bienvenidos en la terraza",
+          "mustTryEs": "Un batido o una tarta con la puesta de sol sobre el mar",
+          "openingHoursEs": "Todos los días, de día a noche",
+          "tipEs": "Ven a ver la puesta de sol pero llega temprano para conseguir mesa en la terraza en verano; lleva agua porque se pone concurrido y caluroso.",
+          "descriptionPt": "O café-bar mais famoso de Norderney, empoleirado sobre o Weststrand com um grande terraço com vista para o mar e um culto de seguidores pelos seus milkshakes, bolos e pores do sol. Os cães à trela são bem-vindos no terraço, tornando-o o clássico ponto da ilha para ver o Mar do Norte com o seu companheiro depois de um passeio pela praia.",
+          "petPolicyPt": "Cães à trela bem-vindos no terraço",
+          "mustTryPt": "Um milkshake ou bolo com o pôr do sol sobre o mar",
+          "openingHoursPt": "Diariamente, do dia à noite",
+          "tipPt": "Venha para o pôr do sol, mas chegue cedo para conseguir uma mesa no terraço no verão; leve água, porque enche e aquece.",
+          "descriptionDe": "Norderneys berühmteste Café-Bar, über dem Weststrand gelegen, mit großer Terrasse und Meerblick sowie einer treuen Fangemeinde für Milchshakes, Kuchen und Sundowner. Angeleinte Hunde sind auf der Terrasse willkommen, was sie zum klassischen Insel-Spot macht, um nach einem Strandspaziergang mit dem Vierbeiner die Nordsee zu beobachten.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Ein Milchshake oder Kuchen bei Sonnenuntergang über dem Meer",
+          "openingHoursDe": "Täglich, tagsüber bis abends",
+          "tipDe": "Kommen Sie zum Sonnenuntergang, aber im Sommer früh genug für einen Terrassenplatz; bringen Sie Wasser mit, da es warm und voll werden kann.",
+          "descriptionNl": "De beroemdste café-bar van Norderney, hoog boven het Weststrand met een groot terras met zeezicht en een schare fans voor de milkshakes, taart en zonsondergangen. Aangelijnde honden zijn welkom op het terras, waardoor dit de klassieke eilandplek is om samen met je viervoeter naar de Noordzee te kijken na een strandwandeling.",
+          "petPolicyNl": "Aangelijnde honden welkom op het terras",
+          "mustTryNl": "Een milkshake of taart bij de zonsondergang boven zee",
+          "openingHoursNl": "Dagelijks, overdag tot 's avonds",
+          "tipNl": "Kom voor de zonsondergang, maar wees er 's zomers vroeg bij voor een tafel op het terras; neem water mee, want het wordt druk en warm.",
+          "descriptionIt": "Il bar-caffè più famoso di Norderney, arroccato sopra il Weststrand con una grande terrazza vista mare e un seguito di culto per i suoi milkshake, le torte e i drink al tramonto. I cani al guinzaglio sono benvenuti in terrazza, il che ne fa il classico punto dell'isola per guardare il Mare del Nord con il tuo compagno dopo una camminata in spiaggia.",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza",
+          "mustTryIt": "Un milkshake o una torta con il tramonto sul mare",
+          "openingHoursIt": "Tutti i giorni, dal giorno alla sera",
+          "tipIt": "Vieni per il tramonto ma arriva presto per un tavolo in terrazza d'estate; porta acqua perché diventa affollato e caldo."
+        },
+        {
+          "name": "Restaurant Kap-Hörn",
+          "address": "Norderney town centre, 26548 Norderney",
+          "neighborhood": "Town centre",
+          "photo": "",
+          "website": "",
+          "description": "A long-standing island restaurant serving hearty North German and fish dishes in a cosy, nautical setting. It has a welcoming, informal feel, and leashed dogs are generally fine at the table, making it an easy choice for a proper sit-down dinner after a day in the dunes.",
+          "petPolicy": "Leashed dogs generally welcome (confirm in high season)",
+          "priceRange": "€€€",
+          "mustTry": "Fresh North Sea fish or a hearty Frisian dish",
+          "openingHours": "Lunch and dinner, check seasonal days",
+          "tip": "Book ahead in peak season and mention your dog when you reserve so they can seat you comfortably.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kap-Hoern+Norderney",
+          "descriptionFr": "Un restaurant historique de l'île servant une cuisine copieuse d'Allemagne du Nord et des plats de poisson dans un cadre chaleureux et marin. L'ambiance est accueillante et informelle, et les chiens en laisse sont généralement bienvenus à table, ce qui en fait un choix facile pour un vrai dîner assis après une journée dans les dunes.",
+          "petPolicyFr": "Chiens en laisse généralement acceptés (à confirmer en haute saison)",
+          "mustTryFr": "Du poisson frais de la mer du Nord ou un plat frison copieux",
+          "openingHoursFr": "Déjeuner et dîner, jours variables selon la saison",
+          "tipFr": "Réservez à l'avance en haute saison et signalez la présence de votre chien lors de la réservation pour qu'on vous installe confortablement.",
+          "descriptionEs": "Un restaurante veterano de la isla que sirve contundentes platos del norte de Alemania y pescado en un ambiente acogedor y marinero. Tiene un aire cercano e informal, y los perros con correa suelen ser bien recibidos en la mesa, lo que lo convierte en una opción fácil para una cena formal después de un día en las dunas.",
+          "petPolicyEs": "Perros con correa generalmente bienvenidos (confirmar en temporada alta)",
+          "mustTryEs": "Pescado fresco del mar del Norte o un plato frisón contundente",
+          "openingHoursEs": "Comidas y cenas, consultar días de temporada",
+          "tipEs": "Reserva con antelación en temporada alta y menciona a tu perro al reservar para que puedan acomodarte con comodidad.",
+          "descriptionPt": "Um restaurante de longa data na ilha, que serve pratos fartos do norte da Alemanha e de peixe num ambiente acolhedor e náutico. Tem um ambiente informal e caloroso, e os cães à trela são geralmente aceites à mesa, tornando-o uma escolha fácil para um jantar a sério depois de um dia nas dunas.",
+          "petPolicyPt": "Cães à trela geralmente bem-vindos (confirmar na época alta)",
+          "mustTryPt": "Peixe fresco do Mar do Norte ou um prato frísio farto",
+          "openingHoursPt": "Almoço e jantar, verificar dias sazonais",
+          "tipPt": "Reserve com antecedência na época alta e mencione o seu cão ao reservar, para que o possam sentar confortavelmente.",
+          "descriptionDe": "Ein alteingesessenes Inselrestaurant mit deftiger norddeutscher Küche und Fischgerichten in gemütlich-maritimem Ambiente. Es wirkt einladend und ungezwungen, angeleinte Hunde sind am Tisch in der Regel kein Problem, was es zur unkomplizierten Wahl für ein richtiges Abendessen nach einem Tag in den Dünen macht.",
+          "petPolicyDe": "Angeleinte Hunde meist willkommen (in der Hochsaison bitte nachfragen)",
+          "mustTryDe": "Frischer Nordseefisch oder ein deftiges friesisches Gericht",
+          "openingHoursDe": "Mittags und abends, saisonale Öffnungstage beachten",
+          "tipDe": "Reservieren Sie in der Hochsaison rechtzeitig und erwähnen Sie Ihren Hund bei der Buchung, damit man Sie bequem platzieren kann.",
+          "descriptionNl": "Een gevestigd eilandrestaurant met stevige Noord-Duitse en visgerechten in een gezellige, maritieme sfeer. Het voelt warm en informeel, en aangelijnde honden zijn er over het algemeen prima aan tafel, wat het een makkelijke keuze maakt voor een echt zitmaal na een dag in de duinen.",
+          "petPolicyNl": "Aangelijnde honden meestal welkom (check in het hoogseizoen)",
+          "mustTryNl": "Verse Noordzeevis of een stevig Fries gerecht",
+          "openingHoursNl": "Lunch en diner, check seizoensgebonden dagen",
+          "tipNl": "Reserveer vooraf in het hoogseizoen en vermeld je hond bij de reservering, zodat ze je comfortabel kunnen plaatsen.",
+          "descriptionIt": "Un ristorante storico dell'isola che serve piatti sostanziosi della Germania del nord e di pesce in un ambiente accogliente e marinaresco. Ha un'atmosfera calorosa e informale, e i cani al guinzaglio sono generalmente ben accetti al tavolo, il che lo rende una scelta facile per una vera cena seduta dopo una giornata tra le dune.",
+          "petPolicyIt": "Cani al guinzaglio generalmente benvenuti (conferma in alta stagione)",
+          "mustTryIt": "Pesce fresco del Mare del Nord o un piatto frisone sostanzioso",
+          "openingHoursIt": "Pranzo e cena, controlla i giorni stagionali",
+          "tipIt": "Prenota in anticipo in alta stagione e menziona il tuo cane quando prenoti, così possono sistemarti comodamente."
+        },
+        {
+          "name": "Marienhöhe",
+          "address": "Near the dunes, 26548 Norderney",
+          "neighborhood": "By the dunes",
+          "photo": "",
+          "website": "",
+          "description": "A traditional café-restaurant set among the dunes, a favourite stop on an island walk for coffee and cake or a light meal. Its outdoor terrace is a pleasant, sheltered spot where leashed dogs are welcome, ideal for a pause between the town and the beach.",
+          "petPolicy": "Leashed dogs welcome on the terrace",
+          "priceRange": "€€",
+          "mustTry": "Coffee and Frisian cake on the terrace",
+          "openingHours": "Daytime, seasonal",
+          "tip": "A good rainy-or-windy-day refuge in the dunes; check seasonal opening before setting out.",
+          "googleMapsUrl": "https://maps.google.com/?q=Marienhoehe+Norderney",
+          "descriptionFr": "Un café-restaurant traditionnel installé au milieu des dunes, une halte appréciée lors d'une balade sur l'île pour un café-gâteau ou un repas léger. Sa terrasse extérieure est un endroit agréable et abrité où les chiens en laisse sont les bienvenus, idéal pour une pause entre la ville et la plage.",
+          "petPolicyFr": "Chiens en laisse acceptés sur la terrasse",
+          "mustTryFr": "Café et gâteau frison en terrasse",
+          "openingHoursFr": "En journée, selon la saison",
+          "tipFr": "Un bon refuge par jour de pluie ou de vent dans les dunes ; vérifiez les horaires saisonniers avant de partir.",
+          "descriptionEs": "Un café-restaurante tradicional en medio de las dunas, parada favorita en un paseo por la isla para tomar un café con tarta o una comida ligera. Su terraza exterior es un lugar agradable y resguardado donde los perros con correa son bienvenidos, ideal para una pausa entre el pueblo y la playa.",
+          "petPolicyEs": "Perros con correa bienvenidos en la terraza",
+          "mustTryEs": "Café y tarta frisona en la terraza",
+          "openingHoursEs": "Horario diurno, estacional",
+          "tipEs": "Un buen refugio en las dunas para un día de lluvia o viento; comprueba el horario de temporada antes de salir.",
+          "descriptionPt": "Um café-restaurante tradicional situado entre as dunas, uma paragem preferida num passeio pela ilha para café e bolo ou uma refeição ligeira. O seu terraço exterior é um local agradável e abrigado, onde os cães à trela são bem-vindos, ideal para uma pausa entre a vila e a praia.",
+          "petPolicyPt": "Cães à trela bem-vindos no terraço",
+          "mustTryPt": "Café e bolo frísio no terraço",
+          "openingHoursPt": "Durante o dia, sazonal",
+          "tipPt": "Um bom refúgio para dias de chuva ou vento nas dunas; verifique o horário sazonal antes de sair.",
+          "descriptionDe": "Ein traditionelles Café-Restaurant mitten in den Dünen, ein beliebter Halt bei einem Inselspaziergang für Kaffee und Kuchen oder eine kleine Mahlzeit. Die Außenterrasse ist ein angenehmer, geschützter Ort, an dem angeleinte Hunde willkommen sind, ideal für eine Pause zwischen Ort und Strand.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Kaffee und friesischer Kuchen auf der Terrasse",
+          "openingHoursDe": "Tagsüber, saisonal",
+          "tipDe": "Ein guter Zufluchtsort in den Dünen an regnerischen oder windigen Tagen; prüfen Sie vorab die saisonalen Öffnungszeiten.",
+          "descriptionNl": "Een traditioneel café-restaurant tussen de duinen, een favoriete stop tijdens een eilandwandeling voor koffie met taart of een lichte maaltijd. Het buitenterras is een fijne, beschutte plek waar aangelijnde honden welkom zijn, ideaal voor een pauze tussen het dorp en het strand.",
+          "petPolicyNl": "Aangelijnde honden welkom op het terras",
+          "mustTryNl": "Koffie met Fries gebak op het terras",
+          "openingHoursNl": "Overdag, seizoensgebonden",
+          "tipNl": "Een goede schuilplek bij regen of wind in de duinen; check de seizoensopeningstijden voordat je vertrekt.",
+          "descriptionIt": "Un caffè-ristorante tradizionale in mezzo alle dune, una tappa preferita durante una passeggiata sull'isola per caffè e torta o un pasto leggero. La sua terrazza esterna è un posto piacevole e riparato dove i cani al guinzaglio sono benvenuti, ideale per una sosta tra la città e la spiaggia.",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza",
+          "mustTryIt": "Caffè e torta frisone in terrazza",
+          "openingHoursIt": "Diurno, stagionale",
+          "tipIt": "Un buon rifugio per i giorni di pioggia o vento tra le dune; controlla l'apertura stagionale prima di partire."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to restaurants on Norderney?",
+          "a": "Yes. Many terraces welcome a leashed, well-behaved dog, including the famous Milchbar above the Weststrand. Keep your dog beside your table and ask for a water bowl, which most places will happily bring. In high summer it is worth booking or checking ahead."
+        },
+        {
+          "q": "Are dogs allowed inside restaurants on Norderney or only on terraces?",
+          "a": "Terraces are the safe bet and widely dog-friendly. Some dining rooms will also accept a small, calm dog, though it varies and a few hotel restaurants exclude dogs, so ask when you book and choose a terrace in fine weather."
+        }
+      ],
+      "titleFr": "Restaurants acceptant les chiens à Norderney : où manger avec son chien",
+      "introFr": "Norderney respire la décontraction et le plein air, et un chien en laisse, bien élevé, est le bienvenu sur de nombreuses terrasses, du célèbre Milchbar au-dessus de la plage aux cafés et restaurants de poisson de l'île. La plupart des établissements apportent volontiers une gamelle d'eau si vous le demandez, et les terrasses face à la mer sont le choix naturel pour une pause avec son chien après une balade venteuse sur la plage. Gardez votre chien en laisse près de votre table, et en plein été, mieux vaut vérifier les disponibilités ou réserver, car l'île est très fréquentée.",
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien dans les restaurants de Norderney ?",
+          "a": "Oui. De nombreuses terrasses accueillent un chien en laisse et bien élevé, y compris le célèbre Milchbar au-dessus du Weststrand. Gardez votre chien près de votre table et demandez une gamelle d'eau, que la plupart des établissements apportent volontiers. En plein été, mieux vaut réserver ou vérifier à l'avance."
+        },
+        {
+          "q": "Les chiens sont-ils admis à l'intérieur des restaurants de Norderney, ou seulement en terrasse ?",
+          "a": "Les terrasses sont la valeur sûre et largement ouvertes aux chiens. Certaines salles intérieures acceptent aussi un petit chien calme, mais cela varie et quelques restaurants d'hôtel excluent les chiens : renseignez-vous en réservant et privilégiez une terrasse par beau temps."
+        }
+      ],
+      "titleEs": "Restaurantes que admiten perros en Norderney: dónde comer con tu perro",
+      "introEs": "Norderney es un lugar relajado y de vida al aire libre, y un perro con correa y bien educado es bienvenido en muchas terrazas, desde el famoso Milchbar sobre la playa hasta los cafés y restaurantes de pescado de la isla. La mayoría de los locales traen encantados un bol de agua si lo pides, y las terrazas frente al mar son la opción natural para hacer una pausa con el perro después de un paseo por la playa con viento. Mantén a tu perro con correa junto a la mesa, y en pleno verano conviene consultar o reservar con antelación, porque la isla se llena.",
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a restaurantes en Norderney?",
+          "a": "Sí. Muchas terrazas admiten perros con correa y bien educados, incluido el famoso Milchbar sobre el Weststrand. Mantén a tu perro junto a la mesa y pide un bol de agua, que la mayoría de los locales traerán encantados. En pleno verano conviene reservar o consultar con antelación."
+        },
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes en Norderney o solo en las terrazas?",
+          "a": "Las terrazas son la opción segura y ampliamente amigables con los perros. Algunos comedores interiores también aceptan un perro pequeño y tranquilo, aunque varía, y algunos restaurantes de hotel excluyen a los perros, así que pregunta al reservar y elige una terraza si hace buen tiempo."
+        }
+      ],
+      "titlePt": "Restaurantes Pet-Friendly em Norderney: Onde Comer com o Seu Cão",
+      "introPt": "Norderney é descontraída e virada para o ar livre, e um cão à trela e bem-comportado é bem-vindo em muitos terraços, desde a famosa Milchbar sobre a praia até aos cafés e restaurantes de peixe da ilha. A maioria dos estabelecimentos traz de bom grado uma taça de água se pedir, e os terraços virados para o mar são a escolha natural para uma pausa com o cão depois de um passeio ventoso pela praia. Mantenha o seu cão à trela junto à mesa e, no pico do verão, vale a pena verificar ou reservar com antecedência, pois a ilha enche-se.",
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão a restaurantes em Norderney?",
+          "a": "Sim. Muitos terraços recebem um cão à trela e bem-comportado, incluindo a famosa Milchbar sobre o Weststrand. Mantenha o seu cão junto à mesa e peça uma taça de água, que a maioria dos locais traz de bom grado. No pico do verão vale a pena reservar ou verificar com antecedência."
+        },
+        {
+          "q": "Os cães são permitidos dentro dos restaurantes em Norderney ou só nos terraços?",
+          "a": "Os terraços são a aposta segura e amplamente pet-friendly. Algumas salas de refeições também aceitam um cão pequeno e calmo, embora varie, e alguns restaurantes de hotel excluem cães, por isso pergunte ao reservar e escolha um terraço com bom tempo."
+        }
+      ],
+      "titleDe": "Hundefreundliche Restaurants auf Norderney: Wo Sie mit Hund essen können",
+      "introDe": "Norderney ist entspannt und naturverbunden, und ein angeleinter, gut erzogener Hund ist auf vielen Terrassen willkommen, von der berühmten Milchbar über dem Strand bis zu den Cafés und Fischrestaurants der Insel. Die meisten Betriebe bringen auf Nachfrage gern eine Wasserschale, und die meerblickenden Terrassen sind nach einem windigen Strandspaziergang die naheliegende Wahl für eine Pause mit Hund. Halten Sie Ihren Hund angeleint neben dem Tisch, und im Hochsommer lohnt es sich, vorher zu fragen oder zu reservieren, da die Insel gut besucht ist.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund mit in Restaurants auf Norderney nehmen?",
+          "a": "Ja. Viele Terrassen heißen einen angeleinten, gut erzogenen Hund willkommen, darunter die berühmte Milchbar über dem Weststrand. Halten Sie Ihren Hund neben dem Tisch und bitten Sie um eine Wasserschale, die die meisten Betriebe gern bringen. Im Hochsommer lohnt es sich, vorher zu reservieren oder nachzufragen."
+        },
+        {
+          "q": "Dürfen Hunde auf Norderney auch drinnen ins Restaurant oder nur auf die Terrasse?",
+          "a": "Terrassen sind die sichere Wahl und weithin hundefreundlich. Manche Gasträume akzeptieren auch einen kleinen, ruhigen Hund, das ist aber unterschiedlich, und einige Hotelrestaurants schließen Hunde aus. Fragen Sie also bei der Buchung nach und wählen Sie bei schönem Wetter die Terrasse."
+        }
+      ],
+      "titleNl": "Hondvriendelijke Restaurants op Norderney: Waar Eten met je Hond",
+      "introNl": "Norderney is ontspannen en buitengericht, en een aangelijnde, goed opgevoede hond is welkom op veel terrassen, van de beroemde Milchbar boven het strand tot de cafés en visrestaurants van het eiland. De meeste zaken brengen graag een waterbakje als je erom vraagt, en de terrassen met zeezicht zijn de logische keuze voor een pauze met je hond na een winderige strandwandeling. Houd je hond aan de lijn naast je tafel, en in de hoogzomer is het de moeite waard om vooraf te bellen of te reserveren, want het eiland wordt dan druk.",
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond mee naar restaurants op Norderney?",
+          "a": "Ja. Veel terrassen verwelkomen een aangelijnde, goed opgevoede hond, waaronder de beroemde Milchbar boven het Weststrand. Houd je hond naast je tafel en vraag om een waterbakje, dat de meeste zaken graag brengen. In de hoogzomer is het de moeite waard om vooraf te reserveren of te informeren."
+        },
+        {
+          "q": "Mogen honden binnen bij restaurants op Norderney, of alleen op het terras?",
+          "a": "Terrassen zijn de veilige keuze en over het algemeen hondvriendelijk. Sommige eetzalen accepteren ook een klein, rustig hondje, al verschilt dat per zaak, en een paar hotelrestaurants sluiten honden uit, dus vraag het bij het reserveren en kies bij mooi weer voor een terras."
+        }
+      ],
+      "titleIt": "Ristoranti Pet-Friendly a Norderney: Dove Mangiare con il Tuo Cane",
+      "introIt": "Norderney è rilassata e all'aperto, e un cane al guinzaglio e ben educato è benvenuto su molte terrazze, dalla famosa Milchbar sopra la spiaggia fino ai caffè e ai ristoranti di pesce dell'isola. La maggior parte dei locali è felice di portare una ciotola d'acqua se la chiedi, e le terrazze affacciate sul mare sono la scelta naturale per una pausa con il cane dopo una camminata ventosa in spiaggia. Tieni il cane al guinzaglio accanto al tavolo, e in piena estate conviene controllare o prenotare in anticipo, perché l'isola si riempie.",
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane nei ristoranti di Norderney?",
+          "a": "Sì. Molte terrazze accolgono un cane al guinzaglio e ben educato, compresa la famosa Milchbar sopra il Weststrand. Tieni il cane accanto al tavolo e chiedi una ciotola d'acqua, che la maggior parte dei locali porta volentieri. In piena estate conviene prenotare o controllare in anticipo."
+        },
+        {
+          "q": "I cani sono ammessi dentro ai ristoranti di Norderney o solo in terrazza?",
+          "a": "Le terrazze sono la scelta sicura e ampiamente pet-friendly. Alcune sale interne accettano anche un cane piccolo e tranquillo, anche se varia, e alcuni ristoranti d'hotel escludono i cani, quindi chiedi quando prenoti e scegli una terrazza con il bel tempo."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog-Friendly Parks & Walks on Norderney",
+      "introEn": "Norderney is one long nature reserve of dune, heath and beach, so walks are its great strength. The landscaped Kurpark near the town gives a sheltered stroll, the island's designated free-run area lets a dog off the lead, and the dune paths and low-tide sands stretch for kilometres. Much of the island lies within the Wadden Sea national park, so keep to marked paths, stay clear of the protected bird zones, and remember the island-wide leash rule from March to October.",
+      "places": [
+        {
+          "name": "Dog Free-Run Area (Hundeauslauf)",
+          "type": "Designated off-leash area",
+          "photo": "",
+          "website": "",
+          "description": "Norderney's dedicated free-run area, the one place on the island where dogs can legally run off the lead all year. It is a welcome release valve on an island where leads are otherwise required from March to October, and a chance for your dog to burn off energy safely away from traffic and wildlife.",
+          "offLeash": true,
+          "offLeashArea": "This is the island's official off-leash zone; elsewhere dogs must be leashed from 1 March to 31 October and outside the free-run area year-round.",
+          "tip": "Ask the tourist information or your accommodation for the current location, as designated areas can change with the seasons.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hundeauslauf+Norderney",
+          "descriptionFr": "La zone de liberté dédiée de Norderney, le seul endroit de l'île où les chiens peuvent légalement courir sans laisse toute l'année. C'est une soupape bienvenue sur une île où la laisse est sinon obligatoire de mars à octobre, et l'occasion pour votre chien de se dépenser en toute sécurité, loin de la circulation et de la faune.",
+          "offLeashAreaFr": "C'est la zone officielle sans laisse de l'île ; ailleurs, les chiens doivent être tenus en laisse du 1er mars au 31 octobre, et toute l'année en dehors de la zone de liberté.",
+          "tipFr": "Demandez à l'office de tourisme ou à votre hébergement l'emplacement actuel, car les zones dédiées peuvent changer selon les saisons.",
+          "descriptionEs": "La zona de esparcimiento libre de Norderney, el único lugar de la isla donde los perros pueden correr sueltos legalmente todo el año. Es una válvula de escape muy bienvenida en una isla donde por lo demás la correa es obligatoria de marzo a octubre, y una oportunidad para que tu perro queme energía con seguridad, lejos del tráfico y la fauna.",
+          "offLeashAreaEs": "Esta es la zona oficial sin correa de la isla; en el resto, los perros deben llevar correa del 1 de marzo al 31 de octubre, y todo el año fuera de la zona de esparcimiento libre.",
+          "tipEs": "Pregunta en la oficina de turismo o a tu alojamiento por la ubicación actual, ya que las zonas designadas pueden cambiar según la temporada.",
+          "descriptionPt": "A área de recreio livre dedicada de Norderney, o único lugar da ilha onde os cães podem legalmente correr sem trela durante todo o ano. É uma válvula de escape bem-vinda numa ilha onde as trelas são de resto obrigatórias de março a outubro, e uma oportunidade para o seu cão gastar energia em segurança, longe do trânsito e da vida selvagem.",
+          "offLeashAreaPt": "Esta é a zona oficial sem trela da ilha; nos restantes locais os cães devem estar à trela de 1 de março a 31 de outubro, e durante todo o ano fora da área de recreio livre.",
+          "tipPt": "Pergunte ao posto de turismo ou ao seu alojamento pela localização atual, pois as áreas designadas podem mudar consoante a época.",
+          "descriptionDe": "Norderneys ausgewiesener Freilaufbereich, der einzige Ort auf der Insel, an dem Hunde das ganze Jahr über legal ohne Leine laufen dürfen. Ein willkommenes Ventil auf einer Insel, auf der sonst von März bis Oktober Leinenpflicht herrscht, und eine Gelegenheit für Ihren Hund, sicher abseits von Verkehr und Wildtieren Energie abzubauen.",
+          "offLeashAreaDe": "Dies ist die offizielle Freilaufzone der Insel; anderswo müssen Hunde vom 1. März bis 31. Oktober angeleint sein und außerhalb des Freilaufbereichs sogar ganzjährig.",
+          "tipDe": "Fragen Sie bei der Touristeninformation oder Ihrer Unterkunft nach dem aktuellen Standort, da sich die ausgewiesenen Flächen saisonal ändern können.",
+          "descriptionNl": "Het aangewezen uitrengebied van Norderney, de enige plek op het eiland waar honden het hele jaar door legaal zonder lijn mogen lopen. Het is een welkome uitlaatklep op een eiland waar verder van maart tot oktober een aanlijnplicht geldt, en een kans voor je hond om veilig energie kwijt te raken, weg van verkeer en wildlife.",
+          "offLeashAreaNl": "Dit is de officiële zone zonder lijn van het eiland; elders moeten honden van 1 maart tot 31 oktober aan de lijn, en buiten het uitrengebied geldt dat het hele jaar door.",
+          "tipNl": "Vraag bij de VVV of je accommodatie naar de actuele locatie, want aangewezen gebieden kunnen per seizoen wisselen.",
+          "descriptionIt": "L'area di sgambamento libero dedicata di Norderney, l'unico posto sull'isola dove i cani possono legalmente correre senza guinzaglio tutto l'anno. È una valvola di sfogo benvenuta su un'isola dove altrimenti il guinzaglio è obbligatorio da marzo a ottobre, e un'occasione per il tuo cane di scaricare energia in sicurezza, lontano dal traffico e dalla fauna selvatica.",
+          "offLeashAreaIt": "Questa è la zona ufficiale senza guinzaglio dell'isola; altrove i cani devono stare al guinzaglio dal 1° marzo al 31 ottobre e tutto l'anno fuori dall'area di sgambamento libero.",
+          "tipIt": "Chiedi all'ufficio turistico o al tuo alloggio la posizione attuale, perché le aree designate possono cambiare con le stagioni."
+        },
+        {
+          "name": "Kurpark & Napoleonschanze",
+          "type": "Landscaped park & dune viewpoint",
+          "photo": "",
+          "website": "",
+          "description": "The green heart of the resort, a landscaped park with sheltered paths leading to the Napoleonschanze, a historic dune redoubt with a viewpoint over the island. It is an easy, pretty leashed loop, and a good option when the North Sea wind makes the open beach hard going.",
+          "offLeash": false,
+          "offLeashArea": "On the lead throughout; this is a landscaped park, not an off-leash zone.",
+          "tip": "Combine it with a walk into the old town and the Milchbar terrace for a gentle half-day.",
+          "googleMapsUrl": "https://maps.google.com/?q=Kurpark+Norderney",
+          "descriptionFr": "Le cœur vert de la station, un parc paysager aux sentiers abrités menant au Napoleonschanze, un ancien bastion dunaire historique offrant un point de vue sur l'île. C'est une boucle en laisse facile et agréable, une bonne option quand le vent de la mer du Nord rend la plage ouverte difficile.",
+          "offLeashAreaFr": "En laisse partout ; il s'agit d'un parc paysager, pas d'une zone sans laisse.",
+          "tipFr": "Associez-le à une balade dans la vieille ville et à la terrasse du Milchbar pour une demi-journée tranquille.",
+          "descriptionEs": "El corazón verde del centro turístico, un parque ajardinado con senderos resguardados que conducen hasta el Napoleonschanze, un antiguo bastión sobre las dunas con un mirador sobre la isla. Es un circuito fácil y bonito con correa, buena opción cuando el viento del mar del Norte hace difícil salir a la playa abierta.",
+          "offLeashAreaEs": "Con correa en todo el recorrido; se trata de un parque ajardinado, no de una zona sin correa.",
+          "tipEs": "Combínalo con un paseo por el casco antiguo y la terraza del Milchbar para una media jornada tranquila.",
+          "descriptionPt": "O coração verde da estância, um parque ajardinado com caminhos abrigados que conduzem ao Napoleonschanze, um reduto histórico nas dunas com um miradouro sobre a ilha. É um circuito fácil e bonito à trela, e uma boa opção quando o vento do Mar do Norte torna a praia aberta difícil de enfrentar.",
+          "offLeashAreaPt": "À trela em todo o percurso; este é um parque ajardinado, não uma zona sem trela.",
+          "tipPt": "Combine com um passeio pela vila antiga e o terraço da Milchbar para uma meia-tarde tranquila.",
+          "descriptionDe": "Das grüne Herz des Kurorts, ein gepflegter Park mit geschützten Wegen, die zur Napoleonschanze führen, einer historischen Dünenbefestigung mit Aussicht über die Insel. Es ist eine leichte, hübsche angeleinte Runde und eine gute Option, wenn der Nordseewind den offenen Strand ungemütlich macht.",
+          "offLeashAreaDe": "Durchgehend an der Leine; dies ist ein gepflegter Park und keine Freilaufzone.",
+          "tipDe": "Kombinieren Sie ihn mit einem Spaziergang in die Altstadt und zur Terrasse der Milchbar für einen entspannten halben Tag.",
+          "descriptionNl": "Het groene hart van de badplaats, een aangelegd park met beschutte paden die leiden naar de Napoleonschanze, een historische duinschans met uitzicht over het eiland. Het is een makkelijke, mooie aangelijnde rondwandeling, en een goede optie als de Noordzeewind het open strand lastig maakt.",
+          "offLeashAreaNl": "Overal aan de lijn; dit is een aangelegd park, geen zone zonder lijn.",
+          "tipNl": "Combineer het met een wandeling door het oude dorp en het terras van de Milchbar voor een rustige halve dag.",
+          "descriptionIt": "Il cuore verde della località, un parco paesaggistico con sentieri riparati che conducono alla Napoleonschanze, un antico bastione sulle dune con un punto panoramico sull'isola. È un giretto al guinzaglio facile e piacevole, e una buona opzione quando il vento del Mare del Nord rende difficile la spiaggia aperta.",
+          "offLeashAreaIt": "Al guinzaglio ovunque; questo è un parco paesaggistico, non una zona senza guinzaglio.",
+          "tipIt": "Combinalo con una passeggiata nel centro storico e la terrazza della Milchbar per una mezza giornata tranquilla."
+        },
+        {
+          "name": "Dune & National Park Trails",
+          "type": "Dune and nature trails",
+          "photo": "",
+          "website": "",
+          "description": "The waymarked trails through Norderney's dunes and the eastern nature reserve give big-sky walks with constant sea air, linking the town, the lighthouse and the wild Weiße Düne. Long stretches feel gloriously empty, but they run through protected habitat, so dogs stay on the lead and off the fenced bird zones.",
+          "offLeash": false,
+          "offLeashArea": "On the lead, especially in the national park; the fenced bird-breeding zones are off-limits to dogs entirely.",
+          "tip": "Take water and check the tide and weather; the dunes are exposed and the North Sea weather turns quickly.",
+          "googleMapsUrl": "https://maps.google.com/?q=Norderney+dunes+national+park",
+          "descriptionFr": "Les sentiers balisés à travers les dunes de Norderney et la réserve naturelle de l'est offrent des balades sous un grand ciel, avec l'air marin constant, reliant la ville, le phare et la Weiße Düne sauvage. De longs tronçons paraissent merveilleusement déserts, mais ils traversent un habitat protégé : les chiens restent donc en laisse et à l'écart des zones grillagées pour oiseaux.",
+          "offLeashAreaFr": "En laisse, en particulier dans le parc national ; les zones grillagées de nidification des oiseaux sont totalement interdites aux chiens.",
+          "tipFr": "Emportez de l'eau et vérifiez la marée et la météo ; les dunes sont exposées et le temps de la mer du Nord change vite.",
+          "descriptionEs": "Los senderos señalizados por las dunas de Norderney y la reserva natural del este ofrecen paseos de cielos abiertos con aire marino constante, uniendo el pueblo, el faro y la salvaje Weiße Düne. Largos tramos resultan gloriosamente vacíos, pero atraviesan hábitat protegido, así que los perros deben ir con correa y alejados de las zonas de aves valladas.",
+          "offLeashAreaEs": "Con correa, sobre todo dentro del parque nacional; las zonas valladas de cría de aves están totalmente prohibidas para los perros.",
+          "tipEs": "Lleva agua y comprueba la marea y el tiempo; las dunas están expuestas y el clima del mar del Norte cambia rápido.",
+          "descriptionPt": "Os caminhos assinalados pelas dunas de Norderney e pela reserva natural oriental oferecem passeios de céu amplo com ar do mar constante, ligando a vila, o farol e a selvagem Weiße Düne. Longos troços são maravilhosamente vazios, mas atravessam habitat protegido, por isso os cães mantêm-se à trela e afastados das zonas de aves vedadas.",
+          "offLeashAreaPt": "À trela, especialmente no parque nacional; as zonas de nidificação de aves vedadas estão completamente interditas a cães.",
+          "tipPt": "Leve água e verifique a maré e o tempo; as dunas são expostas e o clima do Mar do Norte muda depressa.",
+          "descriptionDe": "Die markierten Wege durch Norderneys Dünen und das östliche Naturschutzgebiet bieten Spaziergänge unter weitem Himmel mit ständiger Meeresluft und verbinden Ort, Leuchtturm und die wilde Weiße Düne. Lange Abschnitte wirken herrlich leer, führen aber durch geschütztes Gebiet, weshalb Hunde an der Leine bleiben und die eingezäunten Vogelzonen meiden müssen.",
+          "offLeashAreaDe": "An der Leine, besonders im Nationalpark; die eingezäunten Vogelschutzgebiete sind für Hunde vollständig tabu.",
+          "tipDe": "Nehmen Sie Wasser mit und prüfen Sie Gezeiten und Wetter; die Dünen liegen offen, und das Nordseewetter schlägt schnell um.",
+          "descriptionNl": "De gemarkeerde paden door de duinen van Norderney en het oostelijke natuurgebied bieden wandelingen met een grote lucht en constante zeelucht, die het dorp, de vuurtoren en de wilde Weiße Düne met elkaar verbinden. Lange stukken voelen heerlijk leeg aan, maar ze lopen door beschermd natuurgebied, dus blijven honden aan de lijn en weg van de omheinde vogelzones.",
+          "offLeashAreaNl": "Aan de lijn, zeker in het nationaal park; de omheinde vogelbroedzones zijn volledig verboden terrein voor honden.",
+          "tipNl": "Neem water mee en check het tij en het weer; de duinen liggen open en het Noordzeeweer slaat snel om.",
+          "descriptionIt": "I sentieri segnalati tra le dune di Norderney e la riserva naturale orientale regalano camminate sotto cieli immensi con aria di mare costante, collegando la città, il faro e la selvaggia Weiße Düne. Lunghi tratti sembrano gloriosamente deserti, ma attraversano un habitat protetto, quindi i cani restano al guinzaglio e lontani dalle zone recintate per gli uccelli.",
+          "offLeashAreaIt": "Al guinzaglio, specialmente nel parco nazionale; le zone recintate di nidificazione degli uccelli sono completamente off-limits per i cani.",
+          "tipIt": "Porta acqua e controlla marea e meteo; le dune sono esposte e il tempo del Mare del Nord cambia in fretta."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I let my dog off the lead on Norderney?",
+          "a": "Only in the island's designated free-run area (Hundeauslauf). Everywhere else, dogs must be leashed from 1 March to 31 October, and year-round outside that zone, because much of Norderney is protected national park with sensitive wildlife. Ask locally for the current free-run location."
+        },
+        {
+          "q": "Are dogs allowed in the Wadden Sea national park on Norderney?",
+          "a": "Yes, on the lead and on marked paths. The Wadden Sea is a UNESCO-listed national park with strictly protected bird-breeding zones that are off-limits to dogs. Keep to the waymarked trails and the low-tide sands, and never let your dog into the fenced conservation areas."
+        }
+      ],
+      "titleFr": "Parcs et balades acceptant les chiens à Norderney",
+      "introFr": "Norderney est une longue réserve naturelle de dunes, de landes et de plages, ce qui en fait sa grande force pour les balades. Le Kurpark paysager près de la ville offre une promenade abritée, la zone de liberté dédiée de l'île permet de lâcher son chien, et les sentiers dunaires et les étendues de sable à marée basse s'étirent sur des kilomètres. Une grande partie de l'île se trouve dans le parc national de la mer des Wadden : restez donc sur les sentiers balisés, évitez les zones protégées pour oiseaux, et n'oubliez pas la règle de la laisse obligatoire sur toute l'île de mars à octobre.",
+      "faqsFr": [
+        {
+          "q": "Où puis-je laisser mon chien en liberté à Norderney ?",
+          "a": "Uniquement dans la zone de liberté dédiée de l'île (Hundeauslauf). Partout ailleurs, les chiens doivent être tenus en laisse du 1er mars au 31 octobre, et toute l'année en dehors de cette zone, car une grande partie de Norderney est un parc national protégé abritant une faune sensible. Renseignez-vous localement pour connaître l'emplacement actuel de la zone de liberté."
+        },
+        {
+          "q": "Les chiens sont-ils admis dans le parc national de la mer des Wadden à Norderney ?",
+          "a": "Oui, en laisse et sur les sentiers balisés. La mer des Wadden est un parc national classé à l'UNESCO avec des zones de nidification strictement protégées, interdites aux chiens. Restez sur les sentiers balisés et les étendues de sable à marée basse, et ne laissez jamais votre chien pénétrer dans les zones de conservation grillagées."
+        }
+      ],
+      "titleEs": "Parques y paseos para perros en Norderney",
+      "introEs": "Norderney es una larga reserva natural de dunas, brezales y playa, así que los paseos son su gran fuerte. El parque ajardinado del Kurpark, cerca del pueblo, ofrece un paseo resguardado, la zona de esparcimiento libre de la isla permite soltar al perro, y los senderos entre dunas y las arenas que deja al descubierto la marea baja se extienden durante kilómetros. Buena parte de la isla forma parte del parque nacional del mar de Wadden, así que hay que seguir los senderos señalizados, mantenerse alejado de las zonas protegidas de aves y recordar la norma de correa obligatoria en toda la isla de marzo a octubre.",
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo soltar a mi perro sin correa en Norderney?",
+          "a": "Solo en la zona de esparcimiento libre habilitada en la isla (Hundeauslauf). En cualquier otro lugar, los perros deben llevar correa del 1 de marzo al 31 de octubre, y todo el año fuera de esa zona, porque buena parte de Norderney es parque nacional protegido con fauna sensible. Pregunta localmente por la ubicación actual de la zona de esparcimiento libre."
+        },
+        {
+          "q": "¿Se permiten perros en el parque nacional del mar de Wadden en Norderney?",
+          "a": "Sí, con correa y por los senderos señalizados. El mar de Wadden es un parque nacional declarado Patrimonio de la Humanidad por la UNESCO con zonas de cría de aves estrictamente protegidas que están prohibidas para los perros. Sigue los senderos marcados y las arenas que deja la marea baja, y nunca dejes que tu perro entre en las zonas de conservación valladas."
+        }
+      ],
+      "titlePt": "Parques e Passeios Pet-Friendly em Norderney",
+      "introPt": "Norderney é uma longa reserva natural de dunas, charneca e praia, pelo que os passeios são o seu grande trunfo. O Kurpark ajardinado perto da vila oferece um passeio abrigado, a área de recreio livre designada da ilha permite soltar o cão da trela, e os caminhos nas dunas e as areias na maré baixa estendem-se por quilómetros. Grande parte da ilha situa-se dentro do parque nacional do mar de Wadden, por isso mantenha-se nos caminhos assinalados, afaste-se das zonas protegidas de aves, e não se esqueça da regra de trela obrigatória em toda a ilha de março a outubro.",
+      "faqsPt": [
+        {
+          "q": "Onde posso deixar o meu cão sem trela em Norderney?",
+          "a": "Apenas na área de recreio livre designada da ilha (Hundeauslauf). Em todos os outros locais, os cães devem estar à trela de 1 de março a 31 de outubro, e durante todo o ano fora dessa zona, porque grande parte de Norderney é parque nacional protegido com vida selvagem sensível. Pergunte localmente pela localização atual da área de recreio livre."
+        },
+        {
+          "q": "Os cães são permitidos no parque nacional do mar de Wadden em Norderney?",
+          "a": "Sim, à trela e nos caminhos assinalados. O mar de Wadden é um parque nacional classificado pela UNESCO, com zonas de nidificação de aves estritamente protegidas e interditas a cães. Mantenha-se nos trilhos assinalados e nas areias na maré baixa, e nunca deixe o seu cão entrar nas áreas de conservação vedadas."
+        }
+      ],
+      "titleDe": "Hundefreundliche Parks & Spazierwege auf Norderney",
+      "introDe": "Norderney ist im Grunde ein einziges großes Naturschutzgebiet aus Düne, Heide und Strand, weshalb Spaziergänge die große Stärke der Insel sind. Der gepflegte Kurpark nahe dem Ort bietet eine geschützte Runde, der ausgewiesene Freilaufbereich der Insel lässt Hunde von der Leine, und die Dünenwege und die Wattflächen bei Ebbe ziehen sich über Kilometer. Große Teile der Insel liegen im Nationalpark Wattenmeer, bleiben Sie also auf markierten Wegen, halten Sie Abstand zu den geschützten Vogelzonen und denken Sie an die inselweite Leinenpflicht von März bis Oktober.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich meinen Hund auf Norderney von der Leine lassen?",
+          "a": "Nur im ausgewiesenen Freilaufbereich der Insel (Hundeauslauf). Überall sonst müssen Hunde vom 1. März bis 31. Oktober angeleint sein, außerhalb dieser Zone sogar ganzjährig, da große Teile Norderneys geschützter Nationalpark mit empfindlicher Tierwelt sind. Fragen Sie vor Ort nach dem aktuellen Standort des Freilaufbereichs."
+        },
+        {
+          "q": "Dürfen Hunde in den Wattenmeer-Nationalpark auf Norderney?",
+          "a": "Ja, angeleint und auf markierten Wegen. Das Wattenmeer ist ein UNESCO-Nationalpark mit streng geschützten Vogelschutzgebieten, die für Hunde tabu sind. Bleiben Sie auf den markierten Wegen und den Wattflächen bei Ebbe, und lassen Sie Ihren Hund niemals in die eingezäunten Schutzgebiete."
+        }
+      ],
+      "titleNl": "Hondvriendelijke Parken & Wandelingen op Norderney",
+      "introNl": "Norderney is één lang natuurgebied van duin, heide en strand, dus wandelen is de grote kracht van het eiland. Het aangelegde Kurpark bij het centrum biedt een beschutte wandeling, het aangewezen uitrengebied laat je hond los lopen, en de duinpaden en stranden bij eb strekken zich kilometers uit. Een groot deel van het eiland valt binnen het nationaal park Waddenzee, dus blijf op de gemarkeerde paden, blijf uit de beschermde vogelzones, en houd rekening met de eilandbrede aanlijnplicht van maart tot oktober.",
+      "faqsNl": [
+        {
+          "q": "Waar mag mijn hond zonder lijn lopen op Norderney?",
+          "a": "Alleen in het aangewezen uitrengebied van het eiland (Hundeauslauf). Overal elders moeten honden van 1 maart tot 31 oktober aan de lijn, en buiten die zone geldt dat het hele jaar door, omdat een groot deel van Norderney beschermd nationaal park is met kwetsbare wildlife. Vraag ter plaatse naar de actuele locatie van het uitrengebied."
+        },
+        {
+          "q": "Mogen honden het nationaal park Waddenzee op Norderney in?",
+          "a": "Ja, aan de lijn en op gemarkeerde paden. De Waddenzee is een door UNESCO erkend nationaal park met streng beschermde vogelbroedzones die verboden terrein zijn voor honden. Blijf op de gemarkeerde paden en de stranden bij eb, en laat je hond nooit de omheinde natuurgebieden in."
+        }
+      ],
+      "titleIt": "Parchi e Passeggiate Pet-Friendly a Norderney",
+      "introIt": "Norderney è un'unica grande riserva naturale di dune, brughiera e spiaggia, quindi le passeggiate sono il suo punto di forza. Il Kurpark paesaggistico vicino alla città offre una passeggiata riparata, l'area di sgambamento libero dedicata dell'isola lascia il cane senza guinzaglio, e i sentieri tra le dune e le sabbie scoperte dalla bassa marea si estendono per chilometri. Gran parte dell'isola rientra nel parco nazionale del Wattenmeer, quindi resta sui sentieri segnalati, stai lontano dalle zone protette per gli uccelli, e ricorda la regola del guinzaglio su tutta l'isola da marzo a ottobre.",
+      "faqsIt": [
+        {
+          "q": "Dove posso lasciare il mio cane senza guinzaglio a Norderney?",
+          "a": "Solo nell'area di sgambamento libero dedicata dell'isola (Hundeauslauf). Ovunque altro, i cani devono stare al guinzaglio dal 1° marzo al 31 ottobre, e tutto l'anno fuori da quella zona, perché gran parte di Norderney è parco nazionale protetto con fauna selvatica sensibile. Chiedi localmente la posizione attuale dell'area di sgambamento libero."
+        },
+        {
+          "q": "I cani sono ammessi nel parco nazionale del Wattenmeer a Norderney?",
+          "a": "Sì, al guinzaglio e sui sentieri segnalati. Il Wattenmeer è un parco nazionale patrimonio UNESCO con zone di nidificazione degli uccelli rigorosamente protette, off-limits per i cani. Resta sui sentieri segnalati e sulle sabbie scoperte dalla bassa marea, e non lasciare mai che il tuo cane entri nelle aree di conservazione recintate."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting to & Around Norderney with a Dog",
+      "introEn": "Norderney is a car-light island reached only by sea, which is part of its charm with a dog. You take a train to Norddeich Mole, then the Reederei Frisia ferry across to the island (about 55 minutes, timed to the tides), with dogs travelling on the lead for a small fee. Once there, most visitors leave the car behind at Norddeich, as the island restricts traffic: you get around on foot, by bike or on the small island bus, all easy with a leashed dog and the reason the place feels so relaxed.",
+      "places": [],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the ferry to Norderney?",
+          "a": "Yes. The Reederei Frisia ferry from Norddeich carries dogs on the lead for a small fee. The crossing takes about 55 minutes and is timed to the tides, so check the schedule in advance. Dogs travel on deck or in designated areas, leashed throughout."
+        },
+        {
+          "q": "Do I need a car on Norderney?",
+          "a": "No, and you largely cannot use one: the island restricts private traffic, so most visitors leave the car at Norddeich. Norderney is easily covered on foot, by bike or on the island bus, all dog-friendly, which is exactly what makes it such a relaxed place to walk a dog."
+        },
+        {
+          "q": "Are dogs allowed on the island bus on Norderney?",
+          "a": "Yes, leashed dogs travel on the small island bus that links the town, harbour and beaches. It is handy for reaching the more distant beaches like the Weiße Düne without a long walk, though many visitors simply cycle, with the dog trotting alongside on quiet routes."
+        }
+      ],
+      "titleFr": "Se rendre à Norderney et s'y déplacer avec un chien",
+      "introFr": "Norderney est une île peu circulée, accessible uniquement par la mer, ce qui fait aussi son charme avec un chien. On prend le train jusqu'à Norddeich Mole, puis le ferry de la Reederei Frisia jusqu'à l'île (environ 55 minutes, selon les marées), les chiens voyageant en laisse moyennant un petit supplément. Une fois sur place, la plupart des visiteurs laissent la voiture à Norddeich, car l'île limite la circulation : on se déplace à pied, à vélo ou dans le petit bus de l'île, tout cela facile avec un chien en laisse, et c'est bien ce qui rend l'endroit si paisible.",
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien sur le ferry pour Norderney ?",
+          "a": "Oui. Le ferry de la Reederei Frisia depuis Norddeich transporte les chiens en laisse moyennant un petit supplément. La traversée dure environ 55 minutes et dépend des marées, vérifiez donc les horaires à l'avance. Les chiens voyagent sur le pont ou dans des zones dédiées, en laisse en permanence."
+        },
+        {
+          "q": "Ai-je besoin d'une voiture à Norderney ?",
+          "a": "Non, et vous ne pouvez d'ailleurs quasiment pas en utiliser une : l'île limite la circulation privée, la plupart des visiteurs laissent donc leur voiture à Norddeich. Norderney se parcourt facilement à pied, à vélo ou en bus de l'île, tout cela accepté avec un chien, ce qui en fait justement un endroit si agréable pour se promener avec son chien."
+        },
+        {
+          "q": "Les chiens sont-ils admis dans le bus de l'île à Norderney ?",
+          "a": "Oui, les chiens en laisse voyagent dans le petit bus de l'île qui relie la ville, le port et les plages. Il est pratique pour rejoindre les plages plus éloignées comme la Weiße Düne sans longue marche, même si beaucoup de visiteurs préfèrent le vélo, le chien trottinant à côté sur les routes tranquilles."
+        }
+      ],
+      "titleEs": "Cómo llegar y moverse por Norderney con un perro",
+      "introEs": "Norderney es una isla de poco tráfico a la que solo se llega por mar, lo cual forma parte de su encanto si viajas con un perro. Se toma un tren hasta Norddeich Mole y luego el ferry de Reederei Frisia hasta la isla (unos 55 minutos, según la marea), y los perros viajan con correa por un pequeño suplemento. Una vez allí, la mayoría de los visitantes deja el coche en Norddeich, ya que la isla restringe el tráfico: te mueves a pie, en bicicleta o en el pequeño autobús insular, todo fácil con un perro con correa, y la razón por la que el lugar resulta tan relajado.",
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el ferry a Norderney?",
+          "a": "Sí. El ferry de Reederei Frisia desde Norddeich lleva perros con correa por un pequeño suplemento. La travesía dura unos 55 minutos y está sujeta a la marea, así que consulta el horario con antelación. Los perros viajan en cubierta o en zonas designadas, siempre con correa."
+        },
+        {
+          "q": "¿Necesito coche en Norderney?",
+          "a": "No, y en gran medida no podrás usarlo: la isla restringe el tráfico privado, así que la mayoría de los visitantes deja el coche en Norddeich. Norderney se recorre fácilmente a pie, en bicicleta o en el autobús insular, todos amigables con los perros, que es precisamente lo que hace de este lugar un sitio tan relajado para pasear con un perro."
+        },
+        {
+          "q": "¿Se admiten perros en el autobús insular de Norderney?",
+          "a": "Sí, los perros con correa viajan en el pequeño autobús insular que conecta el pueblo, el puerto y las playas. Resulta útil para llegar a las playas más alejadas, como la Weiße Düne, sin un paseo largo, aunque muchos visitantes simplemente van en bicicleta, con el perro trotando al lado por rutas tranquilas."
+        }
+      ],
+      "titlePt": "Como Chegar e Circular em Norderney com um Cão",
+      "introPt": "Norderney é uma ilha com pouco trânsito, acessível apenas por mar, o que é parte do seu encanto com um cão. Apanha-se um comboio até Norddeich Mole, depois o ferry da Reederei Frisia até à ilha (cerca de 55 minutos, cronometrado com as marés), com os cães a viajar à trela mediante uma pequena taxa. Já na ilha, a maioria dos visitantes deixa o carro em Norddeich, pois a ilha restringe o trânsito: circula-se a pé, de bicicleta ou no pequeno autocarro da ilha, tudo fácil com um cão à trela, e é essa a razão por que o lugar parece tão descontraído.",
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão no ferry para Norderney?",
+          "a": "Sim. O ferry da Reederei Frisia a partir de Norddeich transporta cães à trela mediante uma pequena taxa. A travessia demora cerca de 55 minutos e é cronometrada com as marés, por isso verifique o horário com antecedência. Os cães viajam no convés ou em áreas designadas, sempre à trela."
+        },
+        {
+          "q": "Preciso de carro em Norderney?",
+          "a": "Não, e na maior parte dos casos não pode usar um: a ilha restringe o trânsito privado, pelo que a maioria dos visitantes deixa o carro em Norddeich. Norderney percorre-se facilmente a pé, de bicicleta ou no autocarro da ilha, todos pet-friendly, o que é exatamente o que torna o lugar tão relaxante para passear um cão."
+        },
+        {
+          "q": "Os cães são permitidos no autocarro da ilha em Norderney?",
+          "a": "Sim, os cães à trela viajam no pequeno autocarro da ilha que liga a vila, o porto e as praias. É útil para chegar às praias mais distantes, como a Weiße Düne, sem um longo passeio, embora muitos visitantes simplesmente pedalem, com o cão a trotar ao lado em rotas tranquilas."
+        }
+      ],
+      "titleDe": "Anreise & Fortbewegung auf Norderney mit Hund",
+      "introDe": "Norderney ist eine verkehrsarme Insel, die nur auf dem Seeweg erreichbar ist, was mit Hund zu ihrem besonderen Reiz gehört. Sie fahren mit dem Zug bis Norddeich Mole und nehmen dann die Fähre der Reederei Frisia zur Insel (rund 55 Minuten, gezeitenabhängig getaktet), Hunde reisen angeleint gegen einen kleinen Aufpreis mit. Vor Ort lassen die meisten Besucher das Auto in Norddeich zurück, da die Insel den Verkehr einschränkt: Man kommt zu Fuß, mit dem Rad oder im kleinen Inselbus voran, alles unkompliziert mit angeleintem Hund, und genau das macht die Insel so entspannt.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund mit auf die Fähre nach Norderney nehmen?",
+          "a": "Ja. Die Fähre der Reederei Frisia ab Norddeich befördert Hunde angeleint gegen einen kleinen Aufpreis. Die Überfahrt dauert etwa 55 Minuten und richtet sich nach den Gezeiten, prüfen Sie also vorab den Fahrplan. Hunde reisen an Deck oder in ausgewiesenen Bereichen, durchgehend angeleint."
+        },
+        {
+          "q": "Brauche ich auf Norderney ein Auto?",
+          "a": "Nein, und Sie können ohnehin kaum eines nutzen: Die Insel schränkt den privaten Verkehr ein, weshalb die meisten Besucher ihr Auto in Norddeich stehen lassen. Norderney lässt sich gut zu Fuß, mit dem Rad oder im Inselbus bewältigen, alles hundefreundlich, und genau das macht die Insel zu einem so entspannten Ort für Spaziergänge mit Hund."
+        },
+        {
+          "q": "Dürfen Hunde im Inselbus auf Norderney mitfahren?",
+          "a": "Ja, angeleinte Hunde fahren im kleinen Inselbus mit, der Ort, Hafen und Strände verbindet. Praktisch, um weiter entfernte Strände wie die Weiße Düne ohne langen Fußweg zu erreichen, wobei viele Besucher auch einfach mit dem Rad fahren, während der Hund auf ruhigen Strecken nebenherläuft."
+        }
+      ],
+      "titleNl": "Naar & Rondom Norderney Reizen met een Hond",
+      "introNl": "Norderney is een verkeersluw eiland dat alleen over zee te bereiken is, en dat is juist deel van de charme met een hond. Je neemt de trein naar Norddeich Mole, en dan de veerboot van Reederei Frisia naar het eiland (ongeveer 55 minuten, afgestemd op de getijden), waarbij honden aangelijnd meereizen tegen een kleine vergoeding. Eenmaal aangekomen laten de meeste bezoekers de auto achter in Norddeich, want het eiland beperkt het verkeer: je verplaatst je te voet, per fiets of met het kleine eilandbusje, allemaal makkelijk met een aangelijnde hond, en precies de reden waarom het er zo ontspannen aanvoelt.",
+      "faqsNl": [
+        {
+          "q": "Mag mijn hond mee op de veerboot naar Norderney?",
+          "a": "Ja. De veerboot van Reederei Frisia vanuit Norddeich vervoert honden aangelijnd tegen een kleine vergoeding. De overtocht duurt ongeveer 55 minuten en is afgestemd op de getijden, dus check vooraf de dienstregeling. Honden reizen aangelijnd op het dek of in de daarvoor bestemde ruimtes."
+        },
+        {
+          "q": "Heb ik een auto nodig op Norderney?",
+          "a": "Nee, en je kunt er ook nauwelijks een gebruiken: het eiland beperkt privéverkeer, dus de meeste bezoekers laten de auto in Norddeich staan. Norderney is prima te voet, per fiets of met het eilandbusje te verkennen, allemaal hondvriendelijk, en dat is precies wat het zo'n ontspannen plek maakt om met een hond te wandelen."
+        },
+        {
+          "q": "Mogen honden mee in het eilandbusje op Norderney?",
+          "a": "Ja, aangelijnde honden reizen mee in het kleine eilandbusje dat het dorp, de haven en de stranden met elkaar verbindt. Handig om verder gelegen stranden zoals de Weiße Düne te bereiken zonder lange wandeling, al fietsen veel bezoekers gewoon, met de hond meelopend op rustige routes."
+        }
+      ],
+      "titleIt": "Come Arrivare e Spostarsi a Norderney con un Cane",
+      "introIt": "Norderney è un'isola a basso traffico raggiungibile solo via mare, il che fa parte del suo fascino se hai un cane. Prendi un treno fino a Norddeich Mole, poi il traghetto Reederei Frisia verso l'isola (circa 55 minuti, a seconda delle maree), con i cani che viaggiano al guinzaglio con un piccolo supplemento. Una volta arrivato, la maggior parte dei visitatori lascia l'auto a Norddeich, perché l'isola limita il traffico: ci si sposta a piedi, in bicicletta o sul piccolo bus dell'isola, tutto facile con un cane al guinzaglio, ed è proprio questo che rende il posto così rilassato.",
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane sul traghetto per Norderney?",
+          "a": "Sì. Il traghetto Reederei Frisia da Norddeich trasporta i cani al guinzaglio con un piccolo supplemento. La traversata dura circa 55 minuti ed è programmata in base alle maree, quindi controlla l'orario in anticipo. I cani viaggiano in coperta o in aree dedicate, sempre al guinzaglio."
+        },
+        {
+          "q": "Ho bisogno di un'auto a Norderney?",
+          "a": "No, e in gran parte non puoi comunque usarla: l'isola limita il traffico privato, quindi la maggior parte dei visitatori lascia l'auto a Norddeich. Norderney si copre facilmente a piedi, in bicicletta o sul bus dell'isola, tutti pet-friendly, ed è esattamente ciò che rende questo posto così rilassante per passeggiare con un cane."
+        },
+        {
+          "q": "I cani sono ammessi sul bus dell'isola a Norderney?",
+          "a": "Sì, i cani al guinzaglio viaggiano sul piccolo bus dell'isola che collega città, porto e spiagge. È comodo per raggiungere le spiagge più lontane come la Weiße Düne senza una lunga camminata, anche se molti visitatori semplicemente pedalano, con il cane che trotta accanto su percorsi tranquilli."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches on Norderney",
+      "introEn": "Norderney is a real dog-beach destination, with three designated Hundestrände and no dog fee on the sand. The Weststrand section sits right below the town promenade, the Weiße Düne beach offers wild space about 5 km east, and the Oase section lies on the western beach near the naturist area. Dogs must be leashed across the island from March to October, free waste bags are provided everywhere, and the tides go a very long way out, so always check the tide times before a beach walk.",
+      "places": [
+        {
+          "name": "Weststrand Dog Beach",
+          "distance": "Town centre",
+          "description": "A roughly 500-metre dog beach running along the Weststrand just south of the old bath hall, right below the promenade and the Milchbar. It is the most convenient Hundestrand on the island, letting leashed dogs enjoy the sand and sea in the heart of the resort, with cafés and shelter close at hand.",
+          "season": "Open to dogs year-round; island-wide leash rule applies 1 March to 31 October",
+          "rules": "Dogs on the lead; free waste bags provided; no dog fee",
+          "facilities": "Promenade, cafés, showers, close to town",
+          "googleMapsUrl": "https://maps.google.com/?q=Weststrand+Norderney",
+          "photo": "",
+          "descriptionFr": "Une plage pour chiens d'environ 500 mètres longeant le Weststrand juste au sud de l'ancien établissement de bains, juste en contrebas de la promenade et du Milchbar. C'est la Hundestrand la plus pratique de l'île, permettant aux chiens en laisse de profiter du sable et de la mer en plein cœur de la station, avec cafés et abris à portée de main.",
+          "seasonFr": "Ouverte aux chiens toute l'année ; la règle de la laisse sur toute l'île s'applique du 1er mars au 31 octobre",
+          "rulesFr": "Chiens en laisse ; sacs à déjections gratuits fournis ; aucun droit d'accès pour les chiens",
+          "descriptionEs": "Una playa para perros de unos 500 metros a lo largo del Weststrand, justo al sur del antiguo balneario, bajo el paseo marítimo y el Milchbar. Es la Hundestrand más práctica de la isla, y permite a los perros con correa disfrutar de la arena y el mar en pleno corazón del centro turístico, con cafés y refugio a mano.",
+          "seasonEs": "Abierta a perros todo el año; la norma de correa en toda la isla se aplica del 1 de marzo al 31 de octubre",
+          "rulesEs": "Perros con correa; bolsas gratuitas para excrementos; sin tasa por perro",
+          "descriptionPt": "Uma praia para cães de cerca de 500 metros ao longo do Weststrand, mesmo a sul do antigo balneário, logo abaixo do passeio marítimo e da Milchbar. É a Hundestrand mais conveniente da ilha, permitindo aos cães à trela desfrutar da areia e do mar no coração da estância, com cafés e abrigo à mão.",
+          "seasonPt": "Aberta a cães todo o ano; aplica-se a regra de trela obrigatória em toda a ilha de 1 de março a 31 de outubro",
+          "rulesPt": "Cães à trela; sacos para dejetos gratuitos disponíveis; sem taxa para cães",
+          "descriptionDe": "Ein rund 500 Meter langer Hundestrand entlang des Weststrands, südlich der alten Badeanstalt, direkt unterhalb der Promenade und der Milchbar. Es ist der bequemste Hundestrand der Insel, an dem angeleinte Hunde mitten im Kurort Sand und Meer genießen können, mit Cafés und Schutz in unmittelbarer Nähe.",
+          "seasonDe": "Ganzjährig für Hunde geöffnet; inselweite Leinenpflicht vom 1. März bis 31. Oktober",
+          "rulesDe": "Hunde an der Leine; kostenlose Kotbeutel vorhanden; keine Hundegebühr",
+          "descriptionNl": "Een hondenstrand van ongeveer 500 meter langs het Weststrand, net ten zuiden van de oude badzaal, vlak onder de promenade en de Milchbar. Het is het handigste Hundestrand van het eiland, waar aangelijnde honden kunnen genieten van zand en zee midden in de badplaats, met cafés en beschutting dichtbij.",
+          "seasonNl": "Het hele jaar toegankelijk voor honden; eilandbrede aanlijnplicht van 1 maart tot 31 oktober",
+          "rulesNl": "Honden aan de lijn; gratis poepzakjes beschikbaar; geen hondenbelasting",
+          "descriptionIt": "Una spiaggia per cani di circa 500 metri lungo il Weststrand, appena a sud della vecchia sala termale, proprio sotto la passeggiata e la Milchbar. È la Hundestrand più comoda dell'isola, che permette ai cani al guinzaglio di godersi sabbia e mare nel cuore della località, con caffè e riparo a portata di mano.",
+          "seasonIt": "Aperta ai cani tutto l'anno; si applica la regola del guinzaglio su tutta l'isola dal 1° marzo al 31 ottobre",
+          "rulesIt": "Cani al guinzaglio; sacchetti gratuiti per i bisogni forniti; nessuna tassa per i cani"
+        },
+        {
+          "name": "Weiße Düne Dog Beach",
+          "distance": "About 5 km east of town",
+          "description": "The wild eastern beach at the Weiße Düne, backed by high white dunes and a designated dog beach with room to roam. About 5 km from the centre and reachable by bike or island bus, it is the place for big skies, space and a bracing leashed walk away from the crowds.",
+          "season": "Open to dogs year-round; leashed 1 March to 31 October",
+          "rules": "Dogs on the lead; keep clear of protected dune and bird zones; free waste bags; no dog fee",
+          "facilities": "Dunes, seasonal beach kiosk, bus stop and bike routes nearby",
+          "googleMapsUrl": "https://maps.google.com/?q=Weisse+Duene+Norderney",
+          "photo": "",
+          "descriptionFr": "La plage sauvage de l'est, à la Weiße Düne, bordée de hautes dunes blanches, avec une plage pour chiens dédiée offrant de l'espace pour courir. À environ 5 km du centre et accessible à vélo ou en bus de l'île, c'est l'endroit rêvé pour le grand ciel, l'espace et une balade en laisse vivifiante loin de l'affluence.",
+          "seasonFr": "Ouverte aux chiens toute l'année ; en laisse du 1er mars au 31 octobre",
+          "rulesFr": "Chiens en laisse ; restez à l'écart des zones de dunes et d'oiseaux protégées ; sacs à déjections gratuits ; aucun droit d'accès pour les chiens",
+          "descriptionEs": "La salvaje playa oriental de la Weiße Düne, respaldada por altas dunas blancas y una playa para perros habilitada con espacio para moverse. A unos 5 km del centro y accesible en bicicleta o en autobús insular, es el lugar para los grandes cielos, el espacio y un vigorizante paseo con correa lejos del bullicio.",
+          "seasonEs": "Abierta a perros todo el año; con correa del 1 de marzo al 31 de octubre",
+          "rulesEs": "Perros con correa; mantenerse alejado de las zonas protegidas de dunas y aves; bolsas gratuitas para excrementos; sin tasa por perro",
+          "descriptionPt": "A selvagem praia oriental na Weiße Düne, ladeada por altas dunas brancas e uma praia para cães designada com espaço para vaguear. A cerca de 5 km do centro e acessível de bicicleta ou pelo autocarro da ilha, é o lugar ideal para céus amplos, espaço e um vigoroso passeio à trela longe da multidão.",
+          "seasonPt": "Aberta a cães todo o ano; à trela de 1 de março a 31 de outubro",
+          "rulesPt": "Cães à trela; manter-se afastado das zonas protegidas de dunas e aves; sacos para dejetos gratuitos; sem taxa para cães",
+          "descriptionDe": "Der wilde Oststrand an der Weißen Düne, umrahmt von hohen weißen Dünen, mit einem ausgewiesenen Hundestrand und viel Platz zum Toben. Rund 5 km vom Zentrum entfernt und mit Rad oder Inselbus erreichbar, ist er der Ort für weiten Himmel, Raum und einen frischen angeleinten Spaziergang abseits der Menge.",
+          "seasonDe": "Ganzjährig für Hunde geöffnet; angeleint vom 1. März bis 31. Oktober",
+          "rulesDe": "Hunde an der Leine; Abstand zu geschützten Dünen- und Vogelzonen halten; kostenlose Kotbeutel; keine Hundegebühr",
+          "descriptionNl": "Het wilde oostelijke strand bij de Weiße Düne, omgeven door hoge witte duinen, met een aangewezen hondenstrand met ruimte om te struinen. Zo'n 5 km van het centrum en bereikbaar per fiets of eilandbusje, dit is de plek voor een grote lucht, ruimte en een verfrissende aangelijnde wandeling ver van de drukte.",
+          "seasonNl": "Het hele jaar toegankelijk voor honden; aan de lijn van 1 maart tot 31 oktober",
+          "rulesNl": "Honden aan de lijn; blijf uit beschermde duin- en vogelzones; gratis poepzakjes; geen hondenbelasting",
+          "descriptionIt": "La selvaggia spiaggia orientale della Weiße Düne, sostenuta da alte dune bianche e una spiaggia per cani designata con spazio per correre. A circa 5 km dal centro e raggiungibile in bicicletta o con il bus dell'isola, è il posto giusto per grandi cieli, spazio e una camminata al guinzaglio vivificante lontano dalla folla.",
+          "seasonIt": "Aperta ai cani tutto l'anno; al guinzaglio dal 1° marzo al 31 ottobre",
+          "rulesIt": "Cani al guinzaglio; stai lontano dalle zone protette di dune e uccelli; sacchetti gratuiti per i bisogni; nessuna tassa per i cani"
+        },
+        {
+          "name": "Oase Dog Beach",
+          "distance": "Western beach",
+          "description": "A dog beach section on the island's western sands near the naturist (FKK) area, giving another stretch of open North Sea beach for a leashed walk and a paddle. A quieter alternative to the central Weststrand, good for a longer beach day with a dog.",
+          "season": "Open to dogs year-round; leashed 1 March to 31 October",
+          "rules": "Dogs on the lead; free waste bags; no dog fee; note the adjacent naturist area",
+          "facilities": "Open beach, dunes, western promenade access",
+          "googleMapsUrl": "https://maps.google.com/?q=Oase+Strand+Norderney",
+          "photo": "",
+          "descriptionFr": "Un secteur de plage pour chiens sur le sable ouest de l'île, près de la zone naturiste (FKK), offrant une autre étendue de plage ouverte sur la mer du Nord pour une balade en laisse et une baignade. Une alternative plus tranquille au Weststrand central, idéale pour une longue journée de plage avec un chien.",
+          "seasonFr": "Ouverte aux chiens toute l'année ; en laisse du 1er mars au 31 octobre",
+          "rulesFr": "Chiens en laisse ; sacs à déjections gratuits ; aucun droit d'accès pour les chiens ; attention à la zone naturiste voisine",
+          "descriptionEs": "Un tramo de playa para perros en las arenas occidentales de la isla, cerca de la zona nudista (FKK), que ofrece otro tramo de playa abierta del mar del Norte para un paseo con correa y un chapuzón. Una alternativa más tranquila al Weststrand central, buena para pasar un día de playa más largo con el perro.",
+          "seasonEs": "Abierta a perros todo el año; con correa del 1 de marzo al 31 de octubre",
+          "rulesEs": "Perros con correa; bolsas gratuitas para excrementos; sin tasa por perro; ten en cuenta la zona nudista contigua",
+          "descriptionPt": "Um troço de praia para cães nas areias ocidentais da ilha, perto da zona naturista (FKK), que oferece mais um trecho de praia aberta do Mar do Norte para um passeio à trela e um mergulho. Uma alternativa mais tranquila ao Weststrand central, boa para um dia de praia mais longo com um cão.",
+          "seasonPt": "Aberta a cães todo o ano; à trela de 1 de março a 31 de outubro",
+          "rulesPt": "Cães à trela; sacos para dejetos gratuitos; sem taxa para cães; atenção à zona naturista adjacente",
+          "descriptionDe": "Ein Hundestrand-Abschnitt am westlichen Sandstrand der Insel nahe dem FKK-Bereich, der einen weiteren offenen Nordseestrand für einen angeleinten Spaziergang und ein Bad bietet. Eine ruhigere Alternative zum zentralen Weststrand, gut geeignet für einen längeren Strandtag mit Hund.",
+          "seasonDe": "Ganzjährig für Hunde geöffnet; angeleint vom 1. März bis 31. Oktober",
+          "rulesDe": "Hunde an der Leine; kostenlose Kotbeutel; keine Hundegebühr; angrenzenden FKK-Bereich beachten",
+          "descriptionNl": "Een hondenstrandgedeelte op het westelijke zand van het eiland, bij het naturisten- (FKK-)gebied, met nog een stuk open Noordzeestrand voor een aangelijnde wandeling en een plons. Een rustiger alternatief voor het centrale Weststrand, goed voor een langere strandaag met een hond.",
+          "seasonNl": "Het hele jaar toegankelijk voor honden; aan de lijn van 1 maart tot 31 oktober",
+          "rulesNl": "Honden aan de lijn; gratis poepzakjes; geen hondenbelasting; let op het naastgelegen naturistengebied",
+          "descriptionIt": "Un tratto di spiaggia per cani sulle sabbie occidentali dell'isola, vicino all'area naturista (FKK), che offre un altro tratto di spiaggia aperta sul Mare del Nord per una camminata al guinzaglio e una nuotata. Un'alternativa più tranquilla al Weststrand centrale, buona per una giornata di spiaggia più lunga con un cane.",
+          "seasonIt": "Aperta ai cani tutto l'anno; al guinzaglio dal 1° marzo al 31 ottobre",
+          "rulesIt": "Cani al guinzaglio; sacchetti gratuiti per i bisogni; nessuna tassa per i cani; nota l'adiacente area naturista"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there dog beaches on Norderney?",
+          "a": "Yes, three of them, and with no dog fee. The Weststrand section sits below the town promenade, the Weiße Düne beach is about 5 km east, and the Oase section is on the western sands near the naturist area. Dogs must be leashed from March to October, and free waste bags are provided all over the island."
+        },
+        {
+          "q": "Do dogs have to be on a lead on Norderney beaches?",
+          "a": "Yes, from 1 March to 31 October the whole island, beaches included, is on-lead, and dogs must be leashed year-round outside the dedicated free-run area. It is because Norderney is largely protected national park, so keep your dog leashed on the Hundestrände and clear of the dune and bird zones."
+        },
+        {
+          "q": "Is there a fee for dogs on Norderney beaches?",
+          "a": "No. Unlike some German resorts, Norderney charges no dog fee on its beaches, and it even provides free Schietbüdeln (waste bags) at posts around the island. You simply keep your dog on the designated Hundestrände, on the lead, and pick up after it."
+        }
+      ],
+      "titleFr": "Plages acceptant les chiens à Norderney",
+      "introFr": "Norderney est une véritable destination pour plages à chiens, avec trois Hundestrände dédiées et aucun droit d'accès pour les chiens sur le sable. Le tronçon du Weststrand se trouve juste en contrebas de la promenade de la ville, la plage de la Weiße Düne offre un espace sauvage à environ 5 km à l'est, et le secteur Oase se situe sur la plage ouest près de la zone naturiste. Les chiens doivent être tenus en laisse sur toute l'île de mars à octobre, des sacs à déjections gratuits sont fournis partout, et la marée descend très loin ici : vérifiez toujours les horaires de marée avant une balade sur la plage.",
+      "faqsFr": [
+        {
+          "q": "Y a-t-il des plages pour chiens à Norderney ?",
+          "a": "Oui, trois, et sans aucun droit d'accès pour les chiens. Le tronçon du Weststrand se trouve en contrebas de la promenade de la ville, la plage de la Weiße Düne est à environ 5 km à l'est, et le secteur Oase se situe sur le sable ouest près de la zone naturiste. Les chiens doivent être tenus en laisse de mars à octobre, et des sacs à déjections gratuits sont fournis partout sur l'île."
+        },
+        {
+          "q": "Les chiens doivent-ils être tenus en laisse sur les plages de Norderney ?",
+          "a": "Oui, du 1er mars au 31 octobre, toute l'île, plages comprises, est soumise à la laisse obligatoire, et les chiens doivent être tenus en laisse toute l'année en dehors de la zone de liberté dédiée. C'est parce que Norderney est en grande partie un parc national protégé : gardez donc votre chien en laisse sur les Hundestrände et à l'écart des zones de dunes et d'oiseaux."
+        },
+        {
+          "q": "Y a-t-il un droit d'accès pour les chiens sur les plages de Norderney ?",
+          "a": "Non. Contrairement à certaines stations balnéaires allemandes, Norderney n'applique aucun droit d'accès pour les chiens sur ses plages, et met même à disposition des Schietbüdeln (sacs à déjections) gratuits à des bornes réparties dans l'île. Il suffit de garder votre chien sur les Hundestrände désignées, en laisse, et de ramasser ses déjections."
+        }
+      ],
+      "titleEs": "Playas que admiten perros en Norderney",
+      "introEs": "Norderney es un auténtico destino de playas para perros, con tres Hundestrände designadas y sin tasa por perro en la arena. El tramo del Weststrand se encuentra justo bajo el paseo marítimo del pueblo, la playa de Weiße Düne ofrece espacio salvaje a unos 5 km al este, y el tramo de Oase está en la playa occidental cerca de la zona nudista. Los perros deben llevar correa en toda la isla de marzo a octubre, hay bolsas gratuitas para excrementos por todas partes, y la marea se retira muchísimo, así que conviene consultar siempre los horarios de marea antes de un paseo por la playa.",
+      "faqsEs": [
+        {
+          "q": "¿Hay playas para perros en Norderney?",
+          "a": "Sí, tres, y sin tasa por perro. El tramo del Weststrand está bajo el paseo marítimo del pueblo, la playa de Weiße Düne está a unos 5 km al este, y el tramo de Oase está en las arenas occidentales cerca de la zona nudista. Los perros deben llevar correa de marzo a octubre, y hay bolsas gratuitas para excrementos por toda la isla."
+        },
+        {
+          "q": "¿Los perros deben ir con correa en las playas de Norderney?",
+          "a": "Sí, del 1 de marzo al 31 de octubre toda la isla, playas incluidas, exige correa, y los perros deben ir con correa todo el año fuera de la zona de esparcimiento libre habilitada. Es porque Norderney es en su mayor parte parque nacional protegido, así que mantén a tu perro con correa en las Hundestrände y alejado de las zonas de dunas y aves."
+        },
+        {
+          "q": "¿Hay tasa por llevar perro en las playas de Norderney?",
+          "a": "No. A diferencia de otros centros turísticos alemanes, Norderney no cobra ninguna tasa por perro en sus playas, e incluso ofrece bolsas gratuitas para excrementos (Schietbüdeln) en postes repartidos por la isla. Solo tienes que mantener a tu perro en las Hundestrände designadas, con correa, y recoger lo que ensucie."
+        }
+      ],
+      "titlePt": "Praias Pet-Friendly em Norderney",
+      "introPt": "Norderney é um verdadeiro destino de praias para cães, com três Hundestrände designadas e sem taxa para cães na areia. O troço do Weststrand fica mesmo abaixo do passeio marítimo da vila, a praia da Weiße Düne oferece espaço selvagem a cerca de 5 km a leste, e o troço Oase situa-se na praia ocidental perto da zona naturista. Os cães devem estar à trela em toda a ilha de março a outubro, os sacos para dejetos gratuitos estão disponíveis em todo o lado, e as marés recuam muito longe, por isso verifique sempre os horários das marés antes de um passeio na praia.",
+      "faqsPt": [
+        {
+          "q": "Há praias para cães em Norderney?",
+          "a": "Sim, três, e sem taxa para cães. O troço do Weststrand fica abaixo do passeio marítimo da vila, a praia da Weiße Düne fica a cerca de 5 km a leste, e o troço Oase fica nas areias ocidentais perto da zona naturista. Os cães devem estar à trela de março a outubro, e há sacos para dejetos gratuitos por toda a ilha."
+        },
+        {
+          "q": "Os cães têm de estar à trela nas praias de Norderney?",
+          "a": "Sim, de 1 de março a 31 de outubro toda a ilha, praias incluídas, está sujeita a trela obrigatória, e os cães devem estar à trela durante todo o ano fora da área de recreio livre designada. É porque Norderney é, em grande parte, parque nacional protegido, por isso mantenha o seu cão à trela nas Hundestrände e afastado das zonas de dunas e aves."
+        },
+        {
+          "q": "Há alguma taxa para cães nas praias de Norderney?",
+          "a": "Não. Ao contrário de algumas estâncias alemãs, Norderney não cobra taxa para cães nas suas praias, e até disponibiliza sacos para dejetos gratuitos (Schietbüdeln) em postos por toda a ilha. Basta manter o seu cão nas Hundestrände designadas, à trela, e recolher os dejetos."
+        }
+      ],
+      "titleDe": "Hundefreundliche Strände auf Norderney",
+      "introDe": "Norderney ist ein echtes Hundestrand-Ziel mit drei ausgewiesenen Hundestränden und ohne Hundegebühr auf dem Sand. Der Weststrand-Abschnitt liegt direkt unterhalb der Ortspromenade, der Strand an der Weißen Düne bietet wilde Weite rund 5 km östlich, und der Oase-Abschnitt liegt am Weststrand nahe dem FKK-Bereich. Auf der ganzen Insel gilt von März bis Oktober Leinenpflicht, überall werden kostenlose Kotbeutel bereitgestellt, und die Gezeiten gehen hier sehr weit hinaus, prüfen Sie also vor einem Strandspaziergang immer die Gezeitenzeiten.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Hundestrände auf Norderney?",
+          "a": "Ja, gleich drei, und ohne Hundegebühr. Der Weststrand-Abschnitt liegt unterhalb der Ortspromenade, der Strand an der Weißen Düne liegt etwa 5 km östlich, und der Oase-Abschnitt liegt am westlichen Sandstrand nahe dem FKK-Bereich. Von März bis Oktober müssen Hunde angeleint sein, und überall auf der Insel gibt es kostenlose Kotbeutel."
+        },
+        {
+          "q": "Müssen Hunde an den Stränden auf Norderney an der Leine sein?",
+          "a": "Ja, vom 1. März bis 31. Oktober herrscht auf der ganzen Insel, Strände eingeschlossen, Leinenpflicht, und außerhalb des ausgewiesenen Freilaufbereichs gilt sie sogar ganzjährig. Der Grund ist, dass Norderney größtenteils geschützter Nationalpark ist. Halten Sie Ihren Hund also an den Hundestränden angeleint und fern von Dünen- und Vogelzonen."
+        },
+        {
+          "q": "Fällt für Hunde an den Stränden auf Norderney eine Gebühr an?",
+          "a": "Nein. Anders als in manchen deutschen Ferienorten erhebt Norderney keine Hundegebühr am Strand und stellt sogar kostenlose Schietbüdeln (Kotbeutel) an Pfosten überall auf der Insel bereit. Halten Sie Ihren Hund einfach an den ausgewiesenen Hundestränden, an der Leine, und sammeln Sie nach ihm auf."
+        }
+      ],
+      "titleNl": "Hondvriendelijke Stranden op Norderney",
+      "introNl": "Norderney is een echte hondenstrandbestemming, met drie aangewezen Hundestrände en geen hondenbelasting op het zand. Het Weststrand-gedeelte ligt vlak onder de dorpspromenade, het strand bij de Weiße Düne biedt wilde ruimte zo'n 5 km oostelijk, en het Oase-gedeelte ligt op het westelijke strand bij het naturistengebied. Honden moeten van maart tot oktober overal op het eiland aan de lijn, gratis poepzakjes zijn overal beschikbaar, en de getijden trekken hier heel ver naar buiten, dus check altijd de getijdentijden voor een strandwandeling.",
+      "faqsNl": [
+        {
+          "q": "Zijn er hondenstranden op Norderney?",
+          "a": "Ja, drie, en zonder hondenbelasting. Het Weststrand-gedeelte ligt onder de dorpspromenade, het strand bij de Weiße Düne ligt zo'n 5 km oostelijk, en het Oase-gedeelte ligt op het westelijke zand bij het naturistengebied. Honden moeten van maart tot oktober aan de lijn, en gratis poepzakjes zijn overal op het eiland beschikbaar."
+        },
+        {
+          "q": "Moeten honden aan de lijn op de stranden van Norderney?",
+          "a": "Ja, van 1 maart tot 31 oktober geldt op het hele eiland, stranden inbegrepen, een aanlijnplicht, en buiten het aangewezen uitrengebied moeten honden het hele jaar door aan de lijn. Dit komt doordat Norderney grotendeels beschermd nationaal park is, dus houd je hond aan de lijn op de Hundestrände en uit de duin- en vogelzones."
+        },
+        {
+          "q": "Moet je betalen voor honden op de stranden van Norderney?",
+          "a": "Nee. In tegenstelling tot sommige Duitse badplaatsen heft Norderney geen hondenbelasting op de stranden, en er zijn zelfs gratis Schietbüdeln (poepzakjes) bij palen verspreid over het eiland. Je houdt je hond gewoon op de aangewezen Hundestrände, aan de lijn, en ruimt achter hem op."
+        }
+      ],
+      "titleIt": "Spiagge Pet-Friendly a Norderney",
+      "introIt": "Norderney è una vera destinazione per spiagge per cani, con tre Hundestrände designate e nessuna tassa per i cani sulla sabbia. Il tratto Weststrand si trova proprio sotto la passeggiata della città, la spiaggia della Weiße Düne offre spazio selvaggio a circa 5 km a est, e il tratto Oase si trova sulla spiaggia occidentale vicino all'area naturista. I cani devono stare al guinzaglio su tutta l'isola da marzo a ottobre, i sacchetti gratuiti per i bisogni sono forniti ovunque, e le maree si ritirano molto lontano, quindi controlla sempre gli orari delle maree prima di una camminata in spiaggia.",
+      "faqsIt": [
+        {
+          "q": "Ci sono spiagge per cani a Norderney?",
+          "a": "Sì, tre, e senza alcuna tassa per i cani. Il tratto Weststrand si trova sotto la passeggiata della città, la spiaggia della Weiße Düne è a circa 5 km a est, e il tratto Oase è sulle sabbie occidentali vicino all'area naturista. I cani devono stare al guinzaglio da marzo a ottobre, e i sacchetti gratuiti per i bisogni sono forniti in tutta l'isola."
+        },
+        {
+          "q": "I cani devono stare al guinzaglio sulle spiagge di Norderney?",
+          "a": "Sì, dal 1° marzo al 31 ottobre tutta l'isola, spiagge comprese, richiede il guinzaglio, e i cani devono stare al guinzaglio tutto l'anno fuori dall'area di sgambamento libero dedicata. Questo perché Norderney è in gran parte parco nazionale protetto, quindi tieni il cane al guinzaglio sulle Hundestrände e lontano dalle zone di dune e uccelli."
+        },
+        {
+          "q": "C'è una tassa per i cani sulle spiagge di Norderney?",
+          "a": "No. A differenza di alcune località tedesche, Norderney non applica alcuna tassa per i cani sulle sue spiagge, e fornisce persino gratuitamente gli Schietbüdeln (sacchetti per i bisogni) nei punti sparsi per l'isola. Devi solo tenere il tuo cane sulle Hundestrände designate, al guinzaglio, e raccogliere dopo di lui."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Norderney with a Dog",
+      "introEn": "Norderney is one of Germany's easiest islands for a dog once you understand the rhythm: a ferry over from Norddeich, a car left on the mainland, and days built around the tides and the three dog beaches. Spring and autumn are quieter and just as beautiful, though the North Sea is cool and windy year-round, so pack a warm layer and a towel. Bring your dog's EU passport, use the free waste bags, and keep to the lead and the marked areas, and the island rewards you with fresh air and space.",
+      "places": [],
+      "faqsEn": [
+        {
+          "q": "When is the best time to visit Norderney with a dog?",
+          "a": "Late spring and early autumn are ideal: mild-ish weather, open dog beaches and fewer crowds than high summer. Winter is dramatic and quiet but genuinely cold and stormy on the North Sea. Whenever you come, the dog beaches are open year-round, so it is more about weather and crowds than access."
+        },
+        {
+          "q": "Does my dog need to be on a lead on Norderney?",
+          "a": "Yes, across the whole island from 1 March to 31 October, and year-round outside the designated free-run area. Norderney is largely protected national park with sensitive wildlife, so the leash rule is taken seriously. The free-run area is the one place your dog can legally run loose."
+        },
+        {
+          "q": "Is Norderney expensive for a dog-friendly trip?",
+          "a": "It is a smart resort, but the dog side is good value: there is no beach dog fee, waste bags are free, and hotel pet fees are typically 15-25€ per night. The main extra cost is the ferry, where dogs travel for a small fee, so the trip itself is very manageable."
+        }
+      ],
+      "titleFr": "Conseils pratiques pour visiter Norderney avec un chien",
+      "introFr": "Norderney est l'une des îles allemandes les plus faciles avec un chien une fois qu'on en comprend le rythme : un ferry depuis Norddeich, une voiture laissée sur le continent, et des journées rythmées par les marées et les trois plages pour chiens. Le printemps et l'automne sont plus calmes et tout aussi beaux, même si la mer du Nord reste fraîche et venteuse toute l'année : prévoyez donc une couche chaude et une serviette. Emportez le passeport européen de votre chien, utilisez les sacs à déjections gratuits, respectez la laisse et les zones balisées, et l'île vous récompensera avec son air pur et ses grands espaces.",
+      "faqsFr": [
+        {
+          "q": "Quel est le meilleur moment pour visiter Norderney avec un chien ?",
+          "a": "La fin du printemps et le début de l'automne sont idéaux : temps relativement doux, plages pour chiens ouvertes et moins de monde qu'en plein été. L'hiver est spectaculaire et calme mais réellement froid et venteux sur la mer du Nord. Quelle que soit la saison, les plages pour chiens restent ouvertes toute l'année, donc c'est surtout une question de météo et d'affluence, pas d'accès."
+        },
+        {
+          "q": "Mon chien doit-il être tenu en laisse à Norderney ?",
+          "a": "Oui, sur toute l'île du 1er mars au 31 octobre, et toute l'année en dehors de la zone de liberté dédiée. Norderney est en grande partie un parc national protégé avec une faune sensible, la règle de la laisse est donc appliquée sérieusement. La zone de liberté est le seul endroit où votre chien peut légalement courir sans laisse."
+        },
+        {
+          "q": "Norderney est-elle une destination coûteuse pour un séjour avec un chien ?",
+          "a": "C'est une station chic, mais côté chien, le rapport qualité-prix est bon : aucun droit d'accès pour les chiens sur la plage, sacs à déjections gratuits, et frais d'hôtel pour animaux généralement de 15 à 25 € par nuit. Le principal coût supplémentaire est le ferry, où les chiens voyagent moyennant un petit supplément : le séjour reste donc très abordable."
+        }
+      ],
+      "titleEs": "Consejos prácticos para visitar Norderney con un perro",
+      "introEs": "Norderney es una de las islas alemanas más fáciles para viajar con un perro una vez que entiendes el ritmo: un ferry desde Norddeich, el coche dejado en el continente, y días organizados en torno a las mareas y las tres playas para perros. La primavera y el otoño son más tranquilos y tan bonitos como el verano, aunque el mar del Norte es fresco y ventoso todo el año, así que lleva una capa de abrigo y una toalla. Trae el pasaporte europeo de tu perro, usa las bolsas gratuitas para excrementos, y respeta la correa y las zonas señalizadas, y la isla te recompensará con aire fresco y espacio.",
+      "faqsEs": [
+        {
+          "q": "¿Cuál es la mejor época para visitar Norderney con un perro?",
+          "a": "Finales de primavera y principios de otoño son ideales: un clima relativamente suave, playas para perros abiertas y menos gente que en pleno verano. El invierno es espectacular y tranquilo, pero realmente frío y tormentoso en el mar del Norte. Vengas cuando vengas, las playas para perros están abiertas todo el año, así que se trata más de clima y aglomeraciones que de acceso."
+        },
+        {
+          "q": "¿Mi perro tiene que ir con correa en Norderney?",
+          "a": "Sí, en toda la isla del 1 de marzo al 31 de octubre, y todo el año fuera de la zona de esparcimiento libre habilitada. Norderney es en su mayor parte parque nacional protegido con fauna sensible, así que la norma de la correa se toma en serio. La zona de esparcimiento libre es el único lugar donde tu perro puede correr suelto legalmente."
+        },
+        {
+          "q": "¿Es caro un viaje a Norderney con perro?",
+          "a": "Es un centro turístico elegante, pero el lado canino sale a buen precio: no hay tasa por perro en la playa, las bolsas para excrementos son gratuitas, y las tasas de mascota en los hoteles suelen ser de 15 a 25 euros por noche. El principal gasto extra es el ferry, donde los perros viajan por un pequeño suplemento, así que el viaje en sí resulta muy manejable."
+        }
+      ],
+      "titlePt": "Conselhos Práticos para Visitar Norderney com um Cão",
+      "introPt": "Norderney é uma das ilhas mais fáceis da Alemanha para um cão, uma vez percebido o ritmo: um ferry a partir de Norddeich, o carro deixado no continente, e dias organizados em torno das marés e das três praias para cães. A primavera e o outono são mais tranquilos e igualmente bonitos, embora o Mar do Norte seja frio e ventoso durante todo o ano, por isso leve uma camada quente e uma toalha. Leve o passaporte europeu do seu cão, use os sacos para dejetos gratuitos, e mantenha-se à trela e nas áreas assinaladas, e a ilha recompensa-o com ar fresco e espaço.",
+      "faqsPt": [
+        {
+          "q": "Qual é a melhor altura para visitar Norderney com um cão?",
+          "a": "O final da primavera e o início do outono são ideais: tempo relativamente ameno, praias para cães abertas e menos multidões do que no pico do verão. O inverno é dramático e tranquilo, mas genuinamente frio e tempestuoso no Mar do Norte. Seja qual for a altura em que vier, as praias para cães estão abertas durante todo o ano, por isso é mais uma questão de tempo e multidões do que de acesso."
+        },
+        {
+          "q": "O meu cão precisa de estar à trela em Norderney?",
+          "a": "Sim, em toda a ilha de 1 de março a 31 de outubro, e durante todo o ano fora da área de recreio livre designada. Norderney é, em grande parte, parque nacional protegido com vida selvagem sensível, por isso a regra da trela é levada a sério. A área de recreio livre é o único lugar onde o seu cão pode legalmente correr solto."
+        },
+        {
+          "q": "Norderney é cara para uma viagem pet-friendly?",
+          "a": "É uma estância elegante, mas o lado dos cães é vantajoso: não há taxa para cães na praia, os sacos para dejetos são gratuitos, e as taxas para animais nos hotéis rondam tipicamente os 15-25€ por noite. O principal custo extra é o ferry, onde os cães viajam por uma pequena taxa, pelo que a viagem em si é muito acessível."
+        }
+      ],
+      "titleDe": "Praktische Tipps für den Besuch von Norderney mit Hund",
+      "introDe": "Norderney ist eine der unkompliziertesten deutschen Inseln für einen Hund, sobald man den Rhythmus verstanden hat: eine Fähre ab Norddeich, das Auto auf dem Festland gelassen, und Tage, die sich an den Gezeiten und den drei Hundestränden orientieren. Frühjahr und Herbst sind ruhiger und genauso schön, auch wenn die Nordsee das ganze Jahr über kühl und windig ist, packen Sie also eine warme Schicht und ein Handtuch ein. Bringen Sie den EU-Heimtierausweis Ihres Hundes mit, nutzen Sie die kostenlosen Kotbeutel, und halten Sie sich an Leine und markierte Bereiche, dann belohnt Sie die Insel mit frischer Luft und Weite.",
+      "faqsDe": [
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch auf Norderney mit Hund?",
+          "a": "Spätes Frühjahr und früher Herbst sind ideal: mildes Wetter, geöffnete Hundestrände und weniger Trubel als im Hochsommer. Der Winter ist eindrucksvoll und ruhig, aber wirklich kalt und stürmisch an der Nordsee. Egal wann Sie kommen, die Hundestrände sind ganzjährig geöffnet, es geht also eher um Wetter und Andrang als um den Zugang."
+        },
+        {
+          "q": "Muss mein Hund auf Norderney an der Leine sein?",
+          "a": "Ja, auf der ganzen Insel vom 1. März bis 31. Oktober, und außerhalb des ausgewiesenen Freilaufbereichs sogar ganzjährig. Norderney ist größtenteils geschützter Nationalpark mit empfindlicher Tierwelt, weshalb die Leinenpflicht ernst genommen wird. Der Freilaufbereich ist der einzige Ort, an dem Ihr Hund legal frei laufen darf."
+        },
+        {
+          "q": "Ist Norderney für einen hundefreundlichen Urlaub teuer?",
+          "a": "Es ist ein mondäner Kurort, aber auf der Hundeseite ist das Preis-Leistungs-Verhältnis gut: Es gibt keine Hundegebühr am Strand, Kotbeutel sind kostenlos, und Hotel-Hundegebühren liegen meist bei 15-25€ pro Nacht. Die größte Zusatzkosten ist die Fähre, auf der Hunde gegen einen kleinen Aufpreis mitreisen, insgesamt ist die Reise also gut zu kalkulieren."
+        }
+      ],
+      "titleNl": "Praktische Tips voor een Bezoek aan Norderney met je Hond",
+      "introNl": "Norderney is een van de makkelijkste Duitse eilanden voor een hond zodra je het ritme doorhebt: een veerboot vanaf Norddeich, een auto achtergelaten op het vasteland, en dagen die draaien om de getijden en de drie hondenstranden. Voorjaar en najaar zijn rustiger en minstens zo mooi, al is de Noordzee het hele jaar door koel en winderig, dus pak een warme laag en een handdoek in. Neem het EU-paspoort van je hond mee, gebruik de gratis poepzakjes, en houd je aan de lijn en de gemarkeerde gebieden, dan beloont het eiland je met frisse lucht en ruimte.",
+      "faqsNl": [
+        {
+          "q": "Wanneer is de beste tijd om Norderney met een hond te bezoeken?",
+          "a": "Laat voorjaar en vroege herfst zijn ideaal: redelijk mild weer, open hondenstranden en minder drukte dan in de hoogzomer. De winter is dramatisch en stil maar echt koud en stormachtig aan de Noordzee. Wanneer je ook komt, de hondenstranden zijn het hele jaar open, dus het draait vooral om weer en drukte, niet om toegang."
+        },
+        {
+          "q": "Moet mijn hond aan de lijn op Norderney?",
+          "a": "Ja, van 1 maart tot 31 oktober op het hele eiland, en buiten het aangewezen uitrengebied het hele jaar door. Norderney is grotendeels beschermd nationaal park met kwetsbare wildlife, dus de aanlijnplicht wordt serieus gehandhaafd. Het uitrengebied is de enige plek waar je hond legaal los mag lopen."
+        },
+        {
+          "q": "Is Norderney duur voor een hondvriendelijke trip?",
+          "a": "Het is een chique badplaats, maar het hondengedeelte is goed te doen: geen hondenbelasting op het strand, gratis poepzakjes, en hoteltoeslagen voor huisdieren van doorgaans 15-25€ per nacht. De belangrijkste extra kost is de veerboot, waar honden tegen een kleine vergoeding meereizen, dus de trip zelf is heel behapbaar."
+        }
+      ],
+      "titleIt": "Consigli Pratici per Visitare Norderney con un Cane",
+      "introIt": "Norderney è una delle isole tedesche più semplici per un cane, una volta capito il ritmo: un traghetto da Norddeich, un'auto lasciata sulla terraferma, e giornate organizzate intorno alle maree e alle tre spiagge per cani. Primavera e autunno sono più tranquille e altrettanto belle, anche se il Mare del Nord è fresco e ventoso tutto l'anno, quindi porta uno strato caldo e un asciugamano. Porta il passaporto UE del tuo cane, usa i sacchetti gratuiti per i bisogni, e rispetta il guinzaglio e le aree segnalate, e l'isola ti ricompenserà con aria fresca e spazio.",
+      "faqsIt": [
+        {
+          "q": "Qual è il periodo migliore per visitare Norderney con un cane?",
+          "a": "Tarda primavera e inizio autunno sono ideali: clima mite, spiagge per cani aperte e meno folla rispetto alla piena estate. L'inverno è suggestivo e tranquillo ma davvero freddo e tempestoso sul Mare del Nord. Qualunque sia il periodo in cui vieni, le spiagge per cani sono aperte tutto l'anno, quindi conta più il meteo e la folla che l'accesso."
+        },
+        {
+          "q": "Il mio cane deve stare al guinzaglio a Norderney?",
+          "a": "Sì, su tutta l'isola dal 1° marzo al 31 ottobre, e tutto l'anno fuori dall'area di sgambamento libero designata. Norderney è in gran parte parco nazionale protetto con fauna selvatica sensibile, quindi la regola del guinzaglio viene presa sul serio. L'area di sgambamento libero è l'unico posto dove il tuo cane può legalmente correre libero."
+        },
+        {
+          "q": "Norderney è costosa per una vacanza pet-friendly?",
+          "a": "È una località elegante, ma il lato dedicato ai cani è conveniente: non c'è tassa per i cani in spiaggia, i sacchetti per i bisogni sono gratuiti, e le tasse hotel per animali sono tipicamente tra 15 e 25 euro a notte. Il costo extra principale è il traghetto, dove i cani viaggiano per un piccolo supplemento, quindi il viaggio in sé è molto gestibile."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions & Things to Do on Norderney",
+      "introEn": "Norderney's attractions are mostly outdoors, which suits a dog perfectly: the dunes, the beaches, the lighthouse and the tidal flats are all open-air and easy to enjoy on the lead. A few experiences, like climbing the lighthouse tower, are not for dogs, but their surroundings still make fine walks. Add a guided mudflat walk on the Wadden Sea and a stroll through the historic spa quarter, and you have a full island day without leaving your companion behind.",
+      "places": [
+        {
+          "name": "Leuchtturm Norderney (Lighthouse)",
+          "neighborhood": "Island interior",
+          "photo": "",
+          "website": "",
+          "description": "The island's 54-metre red-and-white lighthouse, standing on a dune in the green interior and reached on foot or by bike through the dunes. Dogs cannot climb the tower to the viewing platform, but the walk or ride out to it is a classic island outing, and the surrounding dunes are lovely on the lead.",
+          "dogPolicy": "No dogs up the tower; dogs welcome on the lead on the walk and around the base",
+          "admissionFee": "Small fee to climb the tower; the dune walk to it is free",
+          "tip": "Make it a walking destination with your dog rather than a tower visit, or take turns if you want to climb.",
+          "googleMapsUrl": "https://maps.google.com/?q=Leuchtturm+Norderney",
+          "descriptionFr": "Le phare rouge et blanc de l'île, haut de 54 mètres, se dresse sur une dune dans l'arrière-pays verdoyant et se rejoint à pied ou à vélo à travers les dunes. Les chiens ne peuvent pas monter dans la tour jusqu'à la plateforme d'observation, mais la marche ou la balade jusque-là est une sortie classique de l'île, et les dunes alentour sont ravissantes en laisse.",
+          "dogPolicyFr": "Pas de chiens dans la tour ; chiens en laisse acceptés sur le chemin et autour de la base",
+          "admissionFeeFr": "Petit tarif pour monter dans la tour ; la balade dans les dunes jusqu'au phare est gratuite",
+          "tipFr": "Faites-en une destination de balade avec votre chien plutôt qu'une visite de tour, ou relayez-vous si vous voulez monter.",
+          "descriptionEs": "El faro de la isla, de 54 metros y en blanco y rojo, se alza sobre una duna en el interior verde y se llega a pie o en bicicleta a través de las dunas. Los perros no pueden subir la torre hasta la plataforma mirador, pero el paseo o el trayecto hasta allí es una salida clásica de la isla, y las dunas de alrededor son estupendas con correa.",
+          "dogPolicyEs": "No se admiten perros en la torre; perros bienvenidos con correa en el paseo y en la base",
+          "admissionFeeEs": "Pequeña tarifa para subir a la torre; el paseo por las dunas hasta ella es gratuito",
+          "tipEs": "Convierte la visita en un destino de paseo con tu perro en lugar de en una visita a la torre, o turnaos si queréis subir.",
+          "descriptionPt": "O farol vermelho e branco de 54 metros da ilha, situado numa duna no interior verdejante e alcançável a pé ou de bicicleta pelas dunas. Os cães não podem subir a torre até à plataforma de observação, mas o passeio ou a pedalada até lá é um passeio clássico na ilha, e as dunas em redor são encantadoras à trela.",
+          "dogPolicyPt": "Sem cães na subida à torre; cães bem-vindos à trela no passeio e em torno da base",
+          "admissionFeePt": "Pequena taxa para subir à torre; o passeio pelas dunas até lá é gratuito",
+          "tipPt": "Faça disso um destino de passeio com o seu cão em vez de uma visita à torre, ou revezem-se se quiserem subir.",
+          "descriptionDe": "Der 54 Meter hohe rot-weiße Leuchtturm der Insel steht auf einer Düne im grünen Innern und ist zu Fuß oder mit dem Rad durch die Dünen erreichbar. Hunde dürfen nicht mit auf die Aussichtsplattform, doch der Spaziergang oder die Fahrt dorthin ist ein klassischer Inselausflug, und die umliegenden Dünen sind angeleint wunderschön.",
+          "dogPolicyDe": "Kein Hundezutritt zum Turm; Hunde an der Leine auf dem Weg und rund um den Turmfuß willkommen",
+          "admissionFeeDe": "Kleine Gebühr für den Turmaufstieg; der Dünenweg dorthin ist kostenlos",
+          "tipDe": "Machen Sie daraus lieber ein Wanderziel mit Hund als einen Turmbesuch, oder wechseln Sie sich beim Aufstieg ab, wenn Sie hochwollen.",
+          "descriptionNl": "De 54 meter hoge rood-witte vuurtoren van het eiland, gebouwd op een duin in het groene binnenland en te bereiken te voet of per fiets door de duinen. Honden mogen niet mee de toren op naar het uitkijkplatform, maar de wandeling of fietstocht erheen is een klassiek eilanduitje, en de omliggende duinen zijn heerlijk aan de lijn.",
+          "dogPolicyNl": "Geen honden in de toren; honden welkom aan de lijn tijdens de wandeling en rond de voet ervan",
+          "admissionFeeNl": "Kleine vergoeding om de toren te beklimmen; de duinwandeling erheen is gratis",
+          "tipNl": "Maak er een wandelbestemming van met je hond in plaats van een torenbezoek, of wissel af als je toch naar boven wilt.",
+          "descriptionIt": "Il faro rosso e bianco dell'isola, alto 54 metri, si trova su una duna nell'entroterra verde e si raggiunge a piedi o in bicicletta attraverso le dune. I cani non possono salire sulla torre fino alla piattaforma panoramica, ma la passeggiata o il giro fin lì è una classica gita sull'isola, e le dune circostanti sono deliziose al guinzaglio.",
+          "dogPolicyIt": "Niente cani sulla torre; cani benvenuti al guinzaglio sulla passeggiata e intorno alla base",
+          "admissionFeeIt": "Piccola tassa per salire sulla torre; la camminata tra le dune fino a lì è gratuita",
+          "tipIt": "Fanne una meta di passeggiata con il tuo cane piuttosto che una visita alla torre, oppure fai i turni se vuoi salire."
+        },
+        {
+          "name": "Das Kap",
+          "neighborhood": "Western dunes",
+          "photo": "",
+          "website": "",
+          "description": "Norderney's oldest landmark, a tall white daymark on the western dunes that once guided ships and now marks a fine viewpoint over the beach and the North Sea. It is a natural goal for a leashed dune walk, with big views and sea air, and completely free to visit.",
+          "dogPolicy": "Leashed dogs welcome on the surrounding paths and dunes",
+          "admissionFee": "Free",
+          "tip": "Pair it with the Weststrand below for a beach-and-dune loop straight from town.",
+          "googleMapsUrl": "https://maps.google.com/?q=Das+Kap+Norderney",
+          "descriptionFr": "Le plus ancien monument de Norderney, une haute balise blanche sur les dunes occidentales qui guidait autrefois les navires et marque aujourd'hui un beau point de vue sur la plage et la mer du Nord. C'est un but naturel pour une balade en laisse dans les dunes, avec de belles vues et de l'air marin, et l'entrée est totalement gratuite.",
+          "dogPolicyFr": "Chiens en laisse acceptés sur les sentiers et les dunes alentour",
+          "admissionFeeFr": "Gratuit",
+          "tipFr": "Associez-le au Weststrand en contrebas pour une boucle plage-dunes directement depuis la ville.",
+          "descriptionEs": "El monumento más antiguo de Norderney, una alta baliza blanca en las dunas occidentales que antaño guiaba a los barcos y hoy marca un magnífico mirador sobre la playa y el mar del Norte. Es un destino natural para un paseo con correa por las dunas, con grandes vistas y aire marino, y totalmente gratuito.",
+          "dogPolicyEs": "Perros con correa bienvenidos en los senderos y dunas de alrededor",
+          "admissionFeeEs": "Gratis",
+          "tipEs": "Combínalo con el Weststrand, justo debajo, para un circuito de playa y dunas directamente desde el pueblo.",
+          "descriptionPt": "O marco mais antigo de Norderney, uma alta baliza branca nas dunas ocidentais que outrora guiava navios e que hoje marca um excelente miradouro sobre a praia e o Mar do Norte. É um objetivo natural para um passeio à trela pelas dunas, com vistas amplas e ar do mar, e completamente gratuito para visitar.",
+          "dogPolicyPt": "Cães à trela bem-vindos nos caminhos e dunas circundantes",
+          "admissionFeePt": "Gratuito",
+          "tipPt": "Combine com o Weststrand abaixo para um circuito de praia e dunas direto a partir da vila.",
+          "descriptionDe": "Norderneys ältestes Wahrzeichen, eine hohe weiße Landmarke in den westlichen Dünen, die früher Schiffen den Weg wies und heute einen schönen Aussichtspunkt über Strand und Nordsee markiert. Es ist ein natürliches Ziel für einen angeleinten Dünenspaziergang, mit weitem Blick und Meeresluft, und der Besuch ist völlig kostenlos.",
+          "dogPolicyDe": "Angeleinte Hunde auf den umliegenden Wegen und Dünen willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Kombinieren Sie es mit dem Weststrand darunter für eine Strand-und-Dünen-Runde direkt ab dem Ort.",
+          "descriptionNl": "Het oudste herkenningspunt van Norderney, een hoog wit baken op de westelijke duinen dat ooit schepen de weg wees en nu een mooi uitzichtpunt markeert over strand en Noordzee. Het is een natuurlijk doel voor een aangelijnde duinwandeling, met weids uitzicht en zeelucht, en volledig gratis te bezoeken.",
+          "dogPolicyNl": "Aangelijnde honden welkom op de omliggende paden en duinen",
+          "admissionFeeNl": "Gratis",
+          "tipNl": "Combineer het met het Weststrand eronder voor een strand-en-duinlus rechtstreeks vanuit het dorp.",
+          "descriptionIt": "Il punto di riferimento più antico di Norderney, un alto segnale bianco sulle dune occidentali che un tempo guidava le navi e oggi segna un ottimo punto panoramico sulla spiaggia e sul Mare del Nord. È una meta naturale per una camminata al guinzaglio tra le dune, con grandi vedute e aria di mare, e completamente gratuita da visitare.",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti sui sentieri e sulle dune circostanti",
+          "admissionFeeIt": "Gratuito",
+          "tipIt": "Abbinalo al Weststrand qui sotto per un giro tra spiaggia e dune direttamente dalla città."
+        },
+        {
+          "name": "Wadden Sea Mudflat Walk (Wattwanderung)",
+          "neighborhood": "South shore tidal flats",
+          "photo": "",
+          "website": "",
+          "description": "Guided walks set out at low tide across the UNESCO-listed Wadden Sea, one of the great natural experiences of the German coast. Some guided mudflat walks welcome a calm, leashed dog, though not all do and the bird zones are strictly protected, so book with a guide and confirm that dogs are allowed on your walk.",
+          "dogPolicy": "Some guided walks allow a leashed dog; confirm when booking, and keep clear of bird zones",
+          "admissionFee": "Guided-walk fee; times depend on the tides",
+          "tip": "Always go with a certified guide on the flats, check that your walk accepts dogs, and rinse paws afterwards.",
+          "googleMapsUrl": "https://maps.google.com/?q=Wattwanderung+Norderney",
+          "descriptionFr": "Des marches guidées partent à marée basse à travers la mer des Wadden classée à l'UNESCO, l'une des grandes expériences naturelles du littoral allemand. Certaines marches guidées sur l'estran acceptent un chien calme en laisse, mais pas toutes, et les zones d'oiseaux sont strictement protégées : réservez donc avec un guide et confirmez que les chiens sont admis sur votre sortie.",
+          "dogPolicyFr": "Certaines marches guidées acceptent un chien en laisse ; à confirmer à la réservation, et restez à l'écart des zones d'oiseaux",
+          "admissionFeeFr": "Tarif de la marche guidée ; horaires selon les marées",
+          "tipFr": "Partez toujours avec un guide certifié sur l'estran, vérifiez que votre sortie accepte les chiens, et rincez les pattes ensuite.",
+          "descriptionEs": "Paseos guiados que salen a marea baja a través del mar de Wadden, declarado Patrimonio de la Humanidad por la UNESCO, una de las grandes experiencias naturales de la costa alemana. Algunos paseos guiados por el fango admiten un perro tranquilo con correa, aunque no todos lo hacen, y las zonas de aves están estrictamente protegidas, así que reserva con un guía y confirma que se admiten perros en tu paseo.",
+          "dogPolicyEs": "Algunos paseos guiados admiten perro con correa; confirmar al reservar, y mantenerse alejado de las zonas de aves",
+          "admissionFeeEs": "Tarifa del paseo guiado; los horarios dependen de la marea",
+          "tipEs": "Ve siempre con un guía certificado por el fango, comprueba que tu paseo acepta perros, y enjuaga las patas después.",
+          "descriptionPt": "Caminhadas guiadas que partem na maré baixa através do mar de Wadden, classificado pela UNESCO, uma das grandes experiências naturais da costa alemã. Algumas caminhadas guiadas pelo sapal aceitam um cão calmo e à trela, embora nem todas o façam, e as zonas de aves são estritamente protegidas, por isso reserve com um guia e confirme se os cães são permitidos na sua caminhada.",
+          "dogPolicyPt": "Algumas caminhadas guiadas permitem um cão à trela; confirme ao reservar, e mantenha-se afastado das zonas de aves",
+          "admissionFeePt": "Taxa da caminhada guiada; os horários dependem das marés",
+          "tipPt": "Vá sempre com um guia certificado no sapal, confirme que a sua caminhada aceita cães, e enxague as patas depois.",
+          "descriptionDe": "Geführte Wanderungen starten bei Ebbe durch das zum UNESCO-Welterbe gehörende Wattenmeer, eines der großen Naturerlebnisse der deutschen Küste. Manche geführten Wattwanderungen heißen einen ruhigen, angeleinten Hund willkommen, aber nicht alle, und die Vogelschutzgebiete sind streng geschützt. Buchen Sie also bei einem Wattführer und lassen Sie sich bestätigen, dass Hunde bei Ihrer Tour erlaubt sind.",
+          "dogPolicyDe": "Manche geführten Wanderungen erlauben einen angeleinten Hund; bei der Buchung bestätigen lassen und Abstand zu den Vogelzonen halten",
+          "admissionFeeDe": "Gebühr für die geführte Wanderung; Zeiten richten sich nach den Gezeiten",
+          "tipDe": "Gehen Sie im Watt immer mit einem zertifizierten Wattführer, prüfen Sie, ob Ihre Tour Hunde zulässt, und spülen Sie hinterher die Pfoten ab.",
+          "descriptionNl": "Begeleide wandelingen vertrekken bij eb over de door UNESCO erkende Waddenzee, een van de grote natuurervaringen van de Duitse kust. Sommige begeleide wadlooptochten verwelkomen een rustige, aangelijnde hond, maar niet allemaal, en de vogelzones zijn streng beschermd, dus boek bij een gids en check of honden welkom zijn op jouw tocht.",
+          "dogPolicyNl": "Sommige begeleide tochten laten een aangelijnde hond toe; check bij het boeken, en blijf uit de vogelzones",
+          "admissionFeeNl": "Kosten voor de begeleide tocht; tijden zijn afhankelijk van het tij",
+          "tipNl": "Ga altijd met een gecertificeerde gids het wad op, check of honden welkom zijn op jouw tocht, en spoel de pootjes na afloop af.",
+          "descriptionIt": "Passeggiate guidate che partono con la bassa marea attraverso il Wattenmeer, patrimonio UNESCO, una delle grandi esperienze naturali della costa tedesca. Alcune passeggiate guidate sul fango accolgono un cane calmo e al guinzaglio, anche se non tutte lo fanno e le zone per gli uccelli sono rigorosamente protette, quindi prenota con una guida e conferma che i cani siano ammessi sulla tua passeggiata.",
+          "dogPolicyIt": "Alcune passeggiate guidate ammettono un cane al guinzaglio; conferma al momento della prenotazione, e stai lontano dalle zone per gli uccelli",
+          "admissionFeeIt": "Tariffa per la passeggiata guidata; gli orari dipendono dalle maree",
+          "tipIt": "Vai sempre con una guida certificata sul fango, verifica che la tua passeggiata accetti cani, e risciacqua le zampe dopo."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "What can I do on Norderney with a dog?",
+          "a": "Plenty, and mostly outdoors: walk the three dog beaches and the promenade, cross the dunes to the lighthouse and Das Kap, stroll the historic spa quarter, and, on some tours, join a guided mudflat walk on the Wadden Sea. Almost the whole island can be enjoyed on the lead."
+        },
+        {
+          "q": "Can I climb the Norderney lighthouse with my dog?",
+          "a": "No, dogs are not allowed up the tower to the viewing platform. But the walk or cycle out to the lighthouse through the dunes is a highlight in itself, and dogs are welcome on the lead around the base, so it still makes a great outing."
+        }
+      ],
+      "titleFr": "Attractions et activités acceptant les chiens à Norderney",
+      "introFr": "Les attractions de Norderney sont surtout de plein air, ce qui convient parfaitement à un chien : les dunes, les plages, le phare et les vasières s'apprécient tous à l'extérieur et facilement en laisse. Quelques expériences, comme grimper dans la tour du phare, ne sont pas accessibles aux chiens, mais leurs environs restent de belles balades. Ajoutez une marche guidée sur l'estran de la mer des Wadden et une flânerie dans le quartier thermal historique, et vous avez une journée complète sur l'île sans laisser votre compagnon derrière vous.",
+      "faqsFr": [
+        {
+          "q": "Que puis-je faire à Norderney avec un chien ?",
+          "a": "Beaucoup de choses, et surtout en plein air : parcourir les trois plages pour chiens et la promenade, traverser les dunes jusqu'au phare et à Das Kap, flâner dans le quartier thermal historique et, sur certaines sorties, participer à une marche guidée sur l'estran de la mer des Wadden. Presque toute l'île se découvre en laisse."
+        },
+        {
+          "q": "Puis-je monter au phare de Norderney avec mon chien ?",
+          "a": "Non, les chiens ne sont pas admis dans la tour jusqu'à la plateforme d'observation. Mais la marche ou le trajet à vélo jusqu'au phare à travers les dunes est déjà un temps fort en soi, et les chiens sont acceptés en laisse autour de la base : cela reste donc une belle sortie."
+        }
+      ],
+      "titleEs": "Atracciones y actividades para hacer con perro en Norderney",
+      "introEs": "Las atracciones de Norderney son en su mayoría al aire libre, lo cual le sienta de maravilla a un perro: las dunas, las playas, el faro y las marismas son todo espacios abiertos y fáciles de disfrutar con correa. Algunas experiencias, como subir a la torre del faro, no son para perros, pero sus alrededores siguen ofreciendo buenos paseos. Añade un paseo guiado por el fango en el mar de Wadden y un recorrido por el histórico barrio balneario, y tendrás una jornada completa en la isla sin dejar atrás a tu compañero.",
+      "faqsEs": [
+        {
+          "q": "¿Qué puedo hacer en Norderney con un perro?",
+          "a": "Mucho, y en su mayoría al aire libre: pasear por las tres playas para perros y el paseo marítimo, cruzar las dunas hasta el faro y Das Kap, recorrer el histórico barrio balneario y, en algunas excursiones, sumarte a un paseo guiado por el fango en el mar de Wadden. Casi toda la isla se puede disfrutar con correa."
+        },
+        {
+          "q": "¿Puedo subir al faro de Norderney con mi perro?",
+          "a": "No, los perros no pueden subir la torre hasta la plataforma mirador. Pero el paseo o el trayecto en bicicleta hasta el faro a través de las dunas ya es un atractivo en sí mismo, y los perros son bienvenidos con correa alrededor de la base, así que sigue siendo una gran salida."
+        }
+      ],
+      "titlePt": "Atrações e Atividades Pet-Friendly em Norderney",
+      "introPt": "As atrações de Norderney são maioritariamente ao ar livre, o que é perfeito para um cão: as dunas, as praias, o farol e as planícies de maré são todos ao ar livre e fáceis de desfrutar à trela. Algumas experiências, como subir a torre do farol, não são para cães, mas o seu entorno continua a proporcionar bons passeios. Junte uma caminhada guiada pelo sapal no mar de Wadden e um passeio pelo histórico bairro termal, e tem um dia completo na ilha sem deixar o seu companheiro para trás.",
+      "faqsPt": [
+        {
+          "q": "O que posso fazer em Norderney com um cão?",
+          "a": "Muita coisa, e maioritariamente ao ar livre: passear pelas três praias para cães e pelo passeio marítimo, atravessar as dunas até ao farol e ao Das Kap, passear pelo histórico bairro termal e, em alguns passeios, juntar-se a uma caminhada guiada pelo sapal no mar de Wadden. Quase toda a ilha pode ser desfrutada à trela."
+        },
+        {
+          "q": "Posso subir ao farol de Norderney com o meu cão?",
+          "a": "Não, os cães não são permitidos na subida à torre até à plataforma de observação. Mas o passeio ou a pedalada até ao farol pelas dunas é, em si, um dos pontos altos, e os cães são bem-vindos à trela em torno da base, por isso continua a ser um ótimo passeio."
+        }
+      ],
+      "titleDe": "Hundefreundliche Attraktionen & Unternehmungen auf Norderney",
+      "introDe": "Norderneys Attraktionen liegen meist im Freien, was mit Hund bestens passt: die Dünen, die Strände, der Leuchtturm und das Watt lassen sich alle unter freiem Himmel und angeleint genießen. Ein paar Erlebnisse, wie der Aufstieg auf den Leuchtturm, sind nichts für Hunde, doch die Umgebung ergibt trotzdem schöne Spaziergänge. Ergänzen Sie das Ganze um eine geführte Wattwanderung und einen Bummel durch das historische Kurviertel, und Sie haben einen vollen Inseltag, ohne Ihren Begleiter zurücklassen zu müssen.",
+      "faqsDe": [
+        {
+          "q": "Was kann ich auf Norderney mit Hund unternehmen?",
+          "a": "Eine ganze Menge, und meist im Freien: die drei Hundestrände und die Promenade entlanglaufen, durch die Dünen zum Leuchtturm und zum Kap wandern, durch das historische Kurviertel bummeln und bei manchen Touren an einer geführten Wattwanderung teilnehmen. Fast die ganze Insel lässt sich angeleint genießen."
+        },
+        {
+          "q": "Darf ich mit meinem Hund auf den Norderney-Leuchtturm steigen?",
+          "a": "Nein, Hunde dürfen nicht mit auf die Aussichtsplattform des Turms. Aber der Spaziergang oder die Radtour zum Leuchtturm durch die Dünen ist schon für sich ein Highlight, und Hunde sind angeleint rund um den Turmfuß willkommen, sodass es trotzdem ein schöner Ausflug bleibt."
+        }
+      ],
+      "titleNl": "Hondvriendelijke Attracties & Activiteiten op Norderney",
+      "introNl": "De attracties van Norderney zijn vooral buiten, wat perfect uitkomt met een hond: de duinen, de stranden, de vuurtoren en de getijdenvlaktes zijn allemaal openluchtplekken die je makkelijk aangelijnd kunt bezoeken. Enkele ervaringen, zoals de klim naar boven in de vuurtoren, zijn niet voor honden, maar de omgeving eromheen blijft een mooie wandeling. Voeg een begeleide wadlooptocht op de Waddenzee toe en een wandeling door de historische kuurwijk, en je hebt een volledige eilanddag zonder je viervoeter thuis te laten.",
+      "faqsNl": [
+        {
+          "q": "Wat kan ik doen op Norderney met een hond?",
+          "a": "Genoeg, en vooral buiten: wandel over de drie hondenstranden en de promenade, steek de duinen over naar de vuurtoren en Das Kap, wandel door de historische kuurwijk, en doe bij sommige tochten mee aan een begeleide wadlooptocht op de Waddenzee. Bijna het hele eiland is aangelijnd te genieten."
+        },
+        {
+          "q": "Mag ik met mijn hond de vuurtoren van Norderney beklimmen?",
+          "a": "Nee, honden mogen niet mee de toren op naar het uitkijkplatform. Maar de wandeling of fietstocht naar de vuurtoren door de duinen is op zich al een hoogtepunt, en honden zijn welkom aan de lijn rond de voet ervan, dus het blijft een geweldig uitje."
+        }
+      ],
+      "titleIt": "Attrazioni e Cose da Fare Pet-Friendly a Norderney",
+      "introIt": "Le attrazioni di Norderney sono per lo più all'aperto, il che si adatta perfettamente a un cane: le dune, le spiagge, il faro e le distese di marea sono tutte all'aria aperta e facili da godersi al guinzaglio. Alcune esperienze, come salire sulla torre del faro, non sono per i cani, ma i dintorni restano comunque belle passeggiate. Aggiungi una passeggiata guidata sul fango del Wattenmeer e una camminata nello storico quartiere termale, e avrai una giornata completa sull'isola senza lasciare indietro il tuo compagno.",
+      "faqsIt": [
+        {
+          "q": "Cosa posso fare a Norderney con un cane?",
+          "a": "Molto, e per lo più all'aperto: cammina sulle tre spiagge per cani e sulla passeggiata, attraversa le dune fino al faro e a Das Kap, passeggia nello storico quartiere termale, e, in alcuni tour, unisciti a una passeggiata guidata sul fango del Wattenmeer. Quasi tutta l'isola si può godere al guinzaglio."
+        },
+        {
+          "q": "Posso salire sul faro di Norderney con il mio cane?",
+          "a": "No, i cani non sono ammessi sulla torre fino alla piattaforma panoramica. Ma la passeggiata o il giro in bicicletta fino al faro attraverso le dune è di per sé un momento clou, e i cani al guinzaglio sono benvenuti intorno alla base, quindi resta comunque una gita fantastica."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitting, Walking & Boarding on Norderney",
+      "introEn": "If you want to climb the lighthouse, take a boat trip or eat somewhere that is not dog-friendly, you can arrange local care on Norderney. Options are more limited than in a big city, so book well ahead, especially in the busy summer season: the island tourist information can point you to local dog-sitters and walkers, and Germany's national pet-care platforms also cover the island. Leave your dog's food, EU passport details and the island vet's number so everyone is prepared.",
+      "places": [
+        {
+          "name": "Local Dog-Sitting (via Norderney tourist information)",
+          "website": "https://www.norderney.de/",
+          "description": "The island's Kurverwaltung and tourist information can point visitors towards local dog-sitters, walkers and dog-friendly services on Norderney. On a small island where availability is limited, this is often the most reliable way to find trustworthy local care for a few hours or a day.",
+          "serviceType": "Local dog-sitting and walking referrals via the tourist office",
+          "pricePerDay": "Varies by sitter; ask locally",
+          "languages": [
+            "German",
+            "English"
+          ],
+          "tip": "Contact the tourist information before you travel, as local sitters book up fast in the summer season.",
+          "descriptionFr": "La Kurverwaltung et l'office de tourisme de l'île peuvent orienter les visiteurs vers des pet-sitters, promeneurs et services adaptés aux chiens sur Norderney. Sur une petite île où les disponibilités sont limitées, c'est souvent le moyen le plus fiable de trouver une garde locale de confiance pour quelques heures ou une journée.",
+          "serviceTypeFr": "Recommandations de garde et de promenade locales via l'office de tourisme",
+          "tipFr": "Contactez l'office de tourisme avant de partir, car les pet-sitters locaux sont vite complets en pleine saison estivale.",
+          "descriptionEs": "La Kurverwaltung y la oficina de turismo de la isla pueden orientar a los visitantes hacia cuidadores, paseadores y servicios locales para perros en Norderney. En una isla pequeña donde la disponibilidad es limitada, esta suele ser la manera más fiable de encontrar cuidado local de confianza durante unas horas o un día.",
+          "serviceTypeEs": "Referencias locales de cuidado y paseo de perros a través de la oficina de turismo",
+          "tipEs": "Contacta con la oficina de turismo antes de viajar, ya que los cuidadores locales se reservan rápido en la temporada de verano.",
+          "descriptionPt": "A Kurverwaltung e o posto de turismo da ilha podem encaminhar os visitantes para dog-sitters, passeadores e serviços pet-friendly locais em Norderney. Numa ilha pequena onde a disponibilidade é limitada, esta é muitas vezes a forma mais fiável de encontrar cuidados locais de confiança durante algumas horas ou um dia.",
+          "serviceTypePt": "Encaminhamento local para dog-sitting e passeios através do posto de turismo",
+          "tipPt": "Contacte o posto de turismo antes de viajar, pois os sitters locais esgotam depressa na época de verão.",
+          "descriptionDe": "Die Kurverwaltung und Touristeninformation der Insel kann Besucher an lokale Hundesitter, Gassigeher und hundefreundliche Angebote auf Norderney vermitteln. Auf einer kleinen Insel mit begrenzter Verfügbarkeit ist das oft der zuverlässigste Weg, für ein paar Stunden oder einen Tag vertrauenswürdige örtliche Betreuung zu finden.",
+          "serviceTypeDe": "Vermittlung von lokalem Hundesitting und Gassi-Service über die Touristeninformation",
+          "tipDe": "Kontaktieren Sie die Touristeninformation vor der Anreise, da lokale Sitter in der Sommersaison schnell ausgebucht sind.",
+          "descriptionNl": "De Kurverwaltung en VVV van het eiland kunnen bezoekers doorverwijzen naar lokale hondenoppassers, uitlaatservices en hondvriendelijke diensten op Norderney. Op een klein eiland met beperkte beschikbaarheid is dit vaak de betrouwbaarste manier om betrouwbare lokale opvang te vinden voor een paar uur of een dag.",
+          "serviceTypeNl": "Lokale hondenoppas- en uitlaatverwijzingen via de VVV",
+          "tipNl": "Neem contact op met de VVV voordat je vertrekt, want lokale oppassers zitten in het zomerseizoen snel vol.",
+          "descriptionIt": "La Kurverwaltung e l'ufficio turistico dell'isola possono indirizzare i visitatori verso dog-sitter, dog-walker e servizi pet-friendly locali a Norderney. Su un'isola piccola dove la disponibilità è limitata, questo è spesso il modo più affidabile per trovare cure locali di fiducia per qualche ora o una giornata.",
+          "serviceTypeIt": "Segnalazioni locali di dog-sitting e passeggiate tramite l'ufficio turistico",
+          "tipIt": "Contatta l'ufficio turistico prima di partire, perché i sitter locali si prenotano rapidamente nella stagione estiva."
+        },
+        {
+          "name": "Holidog (Norderney area)",
+          "website": "https://www.holidog.com/",
+          "description": "A large pet-care network connecting owners with vetted dog boarders, day-carers and walkers, which also covers Norderney and the wider East Frisian coast. A practical way to arrange cover for the hours when you want to do something that is not dog-friendly, with sitters reviewed by other owners.",
+          "serviceType": "Dog boarding, day care and walking via a national network",
+          "pricePerDay": "From around 20-30€ per day, varies by host",
+          "languages": [
+            "German",
+            "English"
+          ],
+          "tip": "Book early for summer and arrange a short meet-and-greet before committing to a full day.",
+          "descriptionFr": "Un grand réseau de garde d'animaux qui met en relation les propriétaires avec des pensions, gardes de jour et promeneurs vérifiés, et qui couvre aussi Norderney et l'ensemble de la côte de Frise orientale. Un moyen pratique d'organiser une garde pour les heures où vous voulez faire une activité non adaptée aux chiens, avec des gardiens notés par d'autres propriétaires.",
+          "serviceTypeFr": "Pension, garde de jour et promenade via un réseau national",
+          "tipFr": "Réservez tôt pour l'été et organisez une courte rencontre avant de vous engager pour une journée complète.",
+          "descriptionEs": "Una gran red de cuidado de mascotas que conecta a los dueños con cuidadores, guarderías y paseadores verificados, que también cubre Norderney y toda la costa frisia oriental. Una forma práctica de organizar cobertura para las horas en las que quieras hacer algo que no admita perros, con cuidadores valorados por otros dueños.",
+          "serviceTypeEs": "Alojamiento, guardería diurna y paseo de perros a través de una red nacional",
+          "tipEs": "Reserva pronto para el verano y organiza un breve encuentro previo antes de comprometerte a un día completo.",
+          "descriptionPt": "Uma grande rede de cuidados para animais que liga donos a acolhedores, creches diurnas e passeadores de cães verificados, e que também cobre Norderney e a costa frísia oriental em geral. Uma forma prática de organizar cobertura para as horas em que quer fazer algo que não é pet-friendly, com sitters avaliados por outros donos.",
+          "serviceTypePt": "Alojamento, creche diurna e passeios para cães através de uma rede nacional",
+          "tipPt": "Reserve cedo para o verão e marque um breve encontro prévio antes de se comprometer com um dia completo.",
+          "descriptionDe": "Ein großes Netzwerk für Tierbetreuung, das Halter mit geprüften Hundepensionen, Tagesbetreuern und Gassigehern verbindet und auch Norderney sowie die weitere ostfriesische Küste abdeckt. Eine praktische Möglichkeit, sich für die Stunden abzusichern, in denen Sie etwas unternehmen möchten, das nicht hundefreundlich ist, mit Sittern, die von anderen Haltern bewertet wurden.",
+          "serviceTypeDe": "Hundepension, Tagesbetreuung und Gassi-Service über ein bundesweites Netzwerk",
+          "tipDe": "Buchen Sie im Sommer frühzeitig und vereinbaren Sie ein kurzes Kennenlerntreffen, bevor Sie sich für einen ganzen Tag entscheiden.",
+          "descriptionNl": "Een groot netwerk voor huisdierenzorg dat eigenaren verbindt met gescreende hondenoppassers, dagopvang en uitlaatservices, en dat ook Norderney en de bredere Oost-Friese kust bestrijkt. Een praktische manier om opvang te regelen voor de uren waarin je iets wilt doen dat niet hondvriendelijk is, met oppassers die door andere eigenaren zijn beoordeeld.",
+          "serviceTypeNl": "Hondenopvang, dagopvang en uitlaatservice via een landelijk netwerk",
+          "tipNl": "Boek vroeg voor de zomer en plan een korte kennismaking voordat je je vastlegt voor een hele dag.",
+          "descriptionIt": "Una grande rete per la cura degli animali che collega i proprietari con pensioni, asili diurni e dog-walker verificati, che copre anche Norderney e la costa frisone orientale più ampia. Un modo pratico per organizzare una copertura per le ore in cui vuoi fare qualcosa che non è pet-friendly, con sitter recensiti da altri proprietari.",
+          "serviceTypeIt": "Pensione, asilo diurno e passeggiate per cani tramite una rete nazionale",
+          "tipIt": "Prenota in anticipo per l'estate e organizza un breve incontro conoscitivo prima di impegnarti per una giornata intera."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I find a dog sitter on Norderney?",
+          "a": "Yes, though options are more limited than on the mainland. The island tourist information can refer you to local dog-sitters and walkers, and national platforms such as Holidog also cover the area. Book well ahead in summer, when demand on the island is high and good sitters fill up quickly."
+        },
+        {
+          "q": "How much does dog sitting cost on Norderney?",
+          "a": "Expect roughly 20-30€ a day for boarding or day care through the national platforms, with local sitters varying by arrangement. Prices rise in the busy summer season, so book early and confirm exactly what is included before you commit."
+        }
+      ],
+      "titleFr": "Garde, promenade et pension pour chiens à Norderney",
+      "introFr": "Si vous voulez monter au phare, faire une sortie en bateau ou manger dans un endroit qui n'accepte pas les chiens, vous pouvez organiser une garde locale à Norderney. Les options sont plus limitées que dans une grande ville, réservez donc bien à l'avance, surtout en pleine saison estivale : l'office de tourisme de l'île peut vous orienter vers des pet-sitters et promeneurs locaux, et les plateformes nationales de garde d'animaux en Allemagne couvrent aussi l'île. Laissez la nourriture de votre chien, les informations de son passeport européen et le numéro du vétérinaire de l'île pour que tout le monde soit prêt.",
+      "faqsFr": [
+        {
+          "q": "Puis-je trouver un pet-sitter à Norderney ?",
+          "a": "Oui, même si les options sont plus limitées que sur le continent. L'office de tourisme de l'île peut vous recommander des pet-sitters et promeneurs locaux, et des plateformes nationales comme Holidog couvrent aussi la région. Réservez bien à l'avance en été, quand la demande sur l'île est forte et que les bons gardiens se réservent vite."
+        },
+        {
+          "q": "Combien coûte la garde de chien à Norderney ?",
+          "a": "Comptez environ 20 à 30 € par jour pour une pension ou une garde de jour via les plateformes nationales, les tarifs des gardiens locaux variant selon l'arrangement. Les prix augmentent en pleine saison estivale, réservez donc tôt et confirmez exactement ce qui est inclus avant de vous engager."
+        }
+      ],
+      "titleEs": "Cuidado, paseo y alojamiento de perros en Norderney",
+      "introEs": "Si quieres subir al faro, hacer una excursión en barco o comer en algún sitio que no admita perros, puedes organizar cuidado local en Norderney. Las opciones son más limitadas que en una gran ciudad, así que reserva con bastante antelación, sobre todo en la ajetreada temporada de verano: la oficina de turismo de la isla puede indicarte cuidadores y paseadores locales, y las plataformas nacionales alemanas de cuidado de mascotas también cubren la isla. Deja la comida de tu perro, los datos de su pasaporte europeo y el número del veterinario de la isla para que todos estén preparados.",
+      "faqsEs": [
+        {
+          "q": "¿Puedo encontrar un cuidador de perros en Norderney?",
+          "a": "Sí, aunque las opciones son más limitadas que en el continente. La oficina de turismo de la isla puede remitirte a cuidadores y paseadores locales, y plataformas nacionales como Holidog también cubren la zona. Reserva con bastante antelación en verano, cuando la demanda en la isla es alta y los buenos cuidadores se agotan rápido."
+        },
+        {
+          "q": "¿Cuánto cuesta el cuidado de perros en Norderney?",
+          "a": "Cuenta con unos 20-30 euros al día por alojamiento o guardería diurna a través de las plataformas nacionales, con precios variables entre cuidadores locales según el arreglo. Los precios suben en la ajetreada temporada de verano, así que reserva pronto y confirma exactamente qué incluye antes de comprometerte."
+        }
+      ],
+      "titlePt": "Dog Sitting, Passeios e Alojamento para Cães em Norderney",
+      "introPt": "Se quiser subir ao farol, fazer um passeio de barco ou comer em algum lugar que não seja pet-friendly, pode organizar cuidados locais em Norderney. As opções são mais limitadas do que numa grande cidade, por isso reserve com bastante antecedência, especialmente na época alta de verão: o posto de turismo da ilha pode indicar-lhe dog-sitters e passeadores locais, e as plataformas nacionais alemãs de cuidados para animais também cobrem a ilha. Deixe a comida do seu cão, os dados do passaporte europeu e o número do veterinário da ilha, para que todos estejam preparados.",
+      "faqsPt": [
+        {
+          "q": "Consigo encontrar um dog sitter em Norderney?",
+          "a": "Sim, embora as opções sejam mais limitadas do que no continente. O posto de turismo da ilha pode indicar-lhe dog-sitters e passeadores locais, e plataformas nacionais como a Holidog também cobrem a área. Reserve com bastante antecedência no verão, quando a procura na ilha é alta e os bons sitters esgotam rapidamente."
+        },
+        {
+          "q": "Quanto custa o dog sitting em Norderney?",
+          "a": "Conte com cerca de 20-30€ por dia para alojamento ou creche diurna através das plataformas nacionais, com os sitters locais a variar consoante o acordo. Os preços sobem na época alta de verão, por isso reserve cedo e confirme exatamente o que está incluído antes de se comprometer."
+        }
+      ],
+      "titleDe": "Hundebetreuung, Gassi-Service & Unterbringung auf Norderney",
+      "introDe": "Wenn Sie den Leuchtturm besteigen, eine Bootstour machen oder irgendwo essen möchten, das nicht hundefreundlich ist, können Sie auf Norderney eine örtliche Betreuung organisieren. Das Angebot ist begrenzter als in einer Großstadt, buchen Sie also frühzeitig, besonders in der geschäftigen Sommersaison: Die Touristeninformation der Insel kann Sie an lokale Hundesitter und Gassigeher verweisen, und auch Deutschlands landesweite Plattformen für Tierbetreuung decken die Insel ab. Hinterlassen Sie Futter, EU-Heimtierausweis-Angaben und die Nummer des Inseltierarztes, damit alle Beteiligten vorbereitet sind.",
+      "faqsDe": [
+        {
+          "q": "Finde ich auf Norderney einen Hundesitter?",
+          "a": "Ja, wenn auch mit begrenzterem Angebot als auf dem Festland. Die Touristeninformation der Insel kann Sie an lokale Hundesitter und Gassigeher verweisen, und bundesweite Plattformen wie Holidog decken das Gebiet ebenfalls ab. Buchen Sie im Sommer rechtzeitig, wenn die Nachfrage auf der Insel hoch ist und gute Sitter schnell ausgebucht sind."
+        },
+        {
+          "q": "Was kostet Hundebetreuung auf Norderney?",
+          "a": "Rechnen Sie über die bundesweiten Plattformen mit etwa 20-30€ pro Tag für Unterbringung oder Tagesbetreuung, bei lokalen Sittern variiert es je nach Vereinbarung. In der geschäftigen Sommersaison steigen die Preise, buchen Sie also frühzeitig und lassen Sie sich genau bestätigen, was im Preis enthalten ist."
+        }
+      ],
+      "titleNl": "Hondenoppas, Uitlaatservice & Opvang op Norderney",
+      "introNl": "Wil je de vuurtoren beklimmen, een boottocht maken of ergens eten waar honden niet welkom zijn, dan kun je op Norderney lokale opvang regelen. De opties zijn beperkter dan in een grote stad, dus boek ruim vooraf, zeker in het drukke zomerseizoen: de VVV van het eiland kan je doorverwijzen naar lokale hondenoppassers en uitlaatservices, en ook de landelijke platforms voor huisdierenzorg in Duitsland dekken het eiland. Laat het voer, de EU-paspoortgegevens van je hond en het nummer van de dierenarts van het eiland achter, zodat iedereen voorbereid is.",
+      "faqsNl": [
+        {
+          "q": "Kan ik een hondenoppas vinden op Norderney?",
+          "a": "Ja, al zijn de opties beperkter dan op het vasteland. De VVV van het eiland kan je doorverwijzen naar lokale hondenoppassers en uitlaatservices, en landelijke platforms zoals Holidog dekken het gebied ook. Boek ruim vooraf in de zomer, wanneer de vraag op het eiland hoog is en goede oppassers snel volzitten."
+        },
+        {
+          "q": "Hoeveel kost hondenoppas op Norderney?",
+          "a": "Reken op ongeveer 20-30€ per dag voor opvang of dagopvang via de landelijke platforms, waarbij lokale oppassers per afspraak kunnen verschillen. Prijzen stijgen in het drukke zomerseizoen, dus boek vroeg en bevestig precies wat inbegrepen is voordat je je vastlegt."
+        }
+      ],
+      "titleIt": "Dog Sitting, Passeggiate e Pensione a Norderney",
+      "introIt": "Se vuoi salire sul faro, fare un giro in barca o mangiare in un posto che non è pet-friendly, puoi organizzare cure locali a Norderney. Le opzioni sono più limitate che in una grande città, quindi prenota con largo anticipo, specialmente nella stagione estiva affollata: l'ufficio turistico dell'isola può indirizzarti verso dog-sitter e dog-walker locali, e anche le piattaforme nazionali tedesche per la cura degli animali coprono l'isola. Lascia il cibo del tuo cane, i dati del passaporto UE e il numero del veterinario dell'isola, così tutti sono preparati.",
+      "faqsIt": [
+        {
+          "q": "Posso trovare un dog-sitter a Norderney?",
+          "a": "Sì, anche se le opzioni sono più limitate rispetto alla terraferma. L'ufficio turistico dell'isola può indirizzarti verso dog-sitter e dog-walker locali, e anche piattaforme nazionali come Holidog coprono la zona. Prenota con largo anticipo in estate, quando la domanda sull'isola è alta e i buoni sitter si riempiono in fretta."
+        },
+        {
+          "q": "Quanto costa il dog-sitting a Norderney?",
+          "a": "Aspettati circa 20-30€ al giorno per pensione o asilo diurno tramite le piattaforme nazionali, con i sitter locali che variano a seconda dell'accordo. I prezzi salgono nella stagione estiva affollata, quindi prenota presto e conferma esattamente cosa è incluso prima di impegnarti."
+        }
+      ]
+    }
+  }
+}

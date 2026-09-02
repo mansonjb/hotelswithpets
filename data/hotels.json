@@ -65907,5 +65907,130 @@
       "Dogs welcome in designated rooms (call ahead)",
       "Six-minute walk to the beach and Planches"
     ]
+  },
+  {
+    "id": "norderney-1",
+    "slug": "inselloft-norderney",
+    "name": "Inselloft Norderney",
+    "destinationSlug": "norderney",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9,
+    "reviewCount": 1400,
+    "priceFrom": 210,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Inselloft%20Norderney",
+    "petFee": 25,
+    "petPolicy": "Dogs are welcome for 25€ per dog, per night, in seven dedicated dog lofts. On arrival your dog gets an Inselhund welcome set (ceramic bowls with mat, fresh dog treats and an island blanket). Dogs are not allowed in the spa, bakery or restaurant. Please confirm details with the property when booking.",
+    "address": "Damenpfad 37, 26548 Norderney",
+    "neighborhood": "Near the Weststrand and town centre",
+    "highlights": [
+      "Hip design hotel with seven dedicated dog lofts",
+      "Inselhund welcome set: bowls, treats and a blanket",
+      "Steps from the Weststrand dog beach"
+    ]
+  },
+  {
+    "id": "norderney-2",
+    "slug": "hotel-seesteg-norderney",
+    "name": "Hotel Seesteg Norderney",
+    "destinationSlug": "norderney",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 700,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Seesteg%20Norderney",
+    "petFee": 25,
+    "petPolicy": "Dogs of any size are welcome in this upscale boutique hotel by the harbour, typically for around 25€ per night. A refined base with a rooftop pool and sea views. Please confirm the current pet fee and conditions with the property when booking.",
+    "address": "Damenpfad 36a, 26548 Norderney",
+    "neighborhood": "By the harbour and Weststrand",
+    "highlights": [
+      "Upscale boutique hotel with rooftop pool and sea views",
+      "Dogs of any size welcome",
+      "Steps from the beach and promenade"
+    ]
+  },
+  {
+    "id": "norderney-3",
+    "slug": "michels-thalasso-hotel-nordseehaus-norderney",
+    "name": "Michels Thalasso Hotel Nordseehaus",
+    "destinationSlug": "norderney",
+    "categories": [
+      "dog-friendly",
+      "spa"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1100,
+    "priceFrom": 190,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Michels%20Thalasso%20Hotel%20Nordseehaus%20Norderney",
+    "petFee": 15,
+    "petPolicy": "Dogs are welcome for 15€ per dog, per night, at this thalasso and wellness hotel near the sea, with tailored services for four-legged guests. Please confirm details with the property when booking.",
+    "address": "Kaiserstraße 3, 26548 Norderney",
+    "neighborhood": "Near the beach and spa quarter",
+    "highlights": [
+      "Thalasso and wellness hotel near the sea",
+      "Dogs welcome for 15€ per night with tailored services",
+      "Short walk to the Weststrand dog beach"
+    ]
+  },
+  {
+    "id": "norderney-4",
+    "slug": "haus-am-meer-norderney",
+    "name": "Haus am Meer Norderney",
+    "destinationSlug": "norderney",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 950,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Haus%20am%20Meer%20Norderney",
+    "petFee": 15,
+    "petPolicy": "Dogs are welcome in the stylish suites and family apartments, typically for around 15€ per night. A comfortable base with sea views near the beach. Please confirm the current pet fee and conditions with the property when booking.",
+    "address": "Kaiserstraße 8, 26548 Norderney",
+    "neighborhood": "Near the beach promenade",
+    "highlights": [
+      "Sea-view suites and family apartments",
+      "Dogs welcome near the beach",
+      "Close to the Weststrand and promenade"
+    ]
+  },
+  {
+    "id": "norderney-5",
+    "slug": "villa-nordsee-norderney",
+    "name": "Villa Nordsee Norderney",
+    "destinationSlug": "norderney",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 400,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Villa%20Nordsee%20Norderney",
+    "petFee": 15,
+    "petPolicy": "Dogs are welcome for 15€ per dog, per night. A homely villa-style stay a short walk from the beach, handy for a relaxed island break with a dog. Please confirm details with the property when booking.",
+    "address": "Norderney town centre, 26548 Norderney",
+    "neighborhood": "Town centre, short walk to the beach",
+    "highlights": [
+      "Homely villa-style stay near the beach",
+      "Dogs welcome for 15€ per night",
+      "Close to town, shops and the promenade"
+    ]
   }
 ]

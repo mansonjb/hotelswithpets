@@ -21,6 +21,11 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    'deauville': {
+      personality: "the chic Norman seaside resort where dog owners stroll the 1920s Planches boardwalk and the marina before climbing the protected headland of Mont Canisy, then cross the Touques to the fishing port of Trouville",
+      highlight: "the Planches boardwalk with its film-star cabins, the Mont Canisy headland walk above the Côte Fleurie, and the Marché aux Poissons across the water in Trouville",
+      area: "the seafront Planches and Port-Deauville marina, the town centre around the market and racecourse, and Trouville just over the Touques",
+    },
     'monte-carlo': {
       personality: `the glamorous Riviera city-state where dog owners stroll Port Hercule, the Casino square and the medieval Rocher on the lead before escaping to the coastal customs paths of Cap d'Ail`,
       highlight: `Le Rocher old town, the Port Hercule promenade, and the Chemin des Douaniers coastal path to Cap d'Ail`,
@@ -2144,6 +2149,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    'deauville': {
+      personality: "la station balnéaire chic de Normandie où les maîtres de chiens flânent sur les Planches des années 1920 et le long de la marina avant de grimper le cap protégé du Mont Canisy, puis traversent la Touques jusqu'au port de pêche de Trouville",
+      highlight: "la promenade des Planches et ses cabines aux noms de vedettes, la balade du Mont Canisy au-dessus de la Côte Fleurie, et le marché aux poissons de l'autre côté de l'eau à Trouville",
+      area: "le front de mer des Planches et la marina de Port-Deauville, le centre-ville autour du marché et de l'hippodrome, et Trouville juste après la Touques",
+    },
     'monte-carlo': {
       personality: `le glamour de cette cité-État de la Riviera où les propriétaires de chiens flânent au Port Hercule, sur la place du Casino et dans le Rocher médiéval en laisse avant de s'échapper vers les sentiers des douaniers côtiers du Cap d'Ail`,
       highlight: `la vieille ville du Rocher, la promenade du Port Hercule et le sentier côtier du Chemin des Douaniers jusqu'au Cap d'Ail`,
@@ -4266,6 +4276,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    'deauville': {
+      personality: "el elegante balneario normando donde los dueños de perros pasean por el paseo de madera de las Planches de los años 20 y el puerto deportivo antes de subir al promontorio protegido del Mont Canisy, para luego cruzar el Touques hasta el puerto pesquero de Trouville",
+      highlight: "el paseo de las Planches con sus casetas de estrellas de cine, la caminata del promontorio de Mont Canisy sobre la Côte Fleurie y el Marché aux Poissons al otro lado del agua en Trouville",
+      area: "el frente marítimo de las Planches y el puerto deportivo de Port-Deauville, el centro de la ciudad en torno al mercado y el hipódromo, y Trouville justo al cruzar el Touques",
+    },
     'monte-carlo': {
       personality: `el glamuroso estado-ciudad de la Riviera donde los dueños de perros pasean por Port Hercule, la plaza del Casino y el medieval Le Rocher con la correa antes de escaparse a los senderos costeros de aduaneros de Cap d'Ail`,
       highlight: `el casco antiguo de Le Rocher, el paseo de Port Hercule y el sendero costero Chemin des Douaniers hasta Cap d'Ail`,
@@ -6388,6 +6403,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    'deauville': {
+      personality: "a chique estância balnear normanda onde os donos de cães passeiam pelo passadiço das Planches dos anos 1920 e pela marina antes de subir ao promontório protegido de Mont Canisy, e depois atravessam o Touques até ao porto de pesca de Trouville",
+      highlight: "o passadiço das Planches com as suas cabines de estrelas de cinema, o passeio do promontório de Mont Canisy sobre a Côte Fleurie e o Marché aux Poissons do outro lado da água, em Trouville",
+      area: "a orla marítima das Planches e a marina de Port-Deauville, o centro da cidade em torno do mercado e do hipódromo, e Trouville, mesmo a seguir ao Touques",
+    },
     'monte-carlo': {
       personality: `a glamorosa cidade-estado da Riviera onde os donos de cães passeiam pelo Port Hercule, pela praça do Casino e pelo Rocher medieval com a trela, antes de escaparem para os trilhos aduaneiros costeiros de Cap d'Ail`,
       highlight: `a cidade velha de Le Rocher, o passeio do Port Hercule e o trilho costeiro Chemin des Douaniers até Cap d'Ail`,
@@ -8510,6 +8530,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   de: {
+    'deauville': {
+      personality: "der schicke normannische Seebadeort, in dem Hundebesitzer über die Promenade der Planches aus den 1920er-Jahren und den Yachthafen spazieren, bevor sie die geschützte Landzunge des Mont Canisy erklimmen und dann über die Touques zum Fischerhafen von Trouville hinüberwechseln",
+      highlight: "die Promenade der Planches mit ihren Strandkabinen im Filmstar-Stil, der Spaziergang über die Landzunge des Mont Canisy oberhalb der Côte Fleurie und der Marché aux Poissons jenseits des Wassers in Trouville",
+      area: "die Uferpromenade Planches und der Yachthafen Port-Deauville, das Stadtzentrum rund um Markt und Rennbahn sowie Trouville gleich jenseits der Touques",
+    },
     'monte-carlo': {
       personality: `der glamouröse Stadtstaat an der Riviera, wo Hundebesitzer den Port Hercule, den Casino-Platz und den mittelalterlichen Rocher an der Leine erkunden, bevor sie zu den Küsten-Zöllnerpfaden von Cap d'Ail entfliehen`,
       highlight: `die Altstadt von Le Rocher, die Promenade am Port Hercule und der Küstenpfad Chemin des Douaniers nach Cap d'Ail`,
@@ -10632,6 +10657,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   nl: {
+    'deauville': {
+      personality: "de chique Normandische badplaats waar hondenbaasjes over de promenade les Planches uit de jaren 1920 en langs de jachthaven wandelen voordat ze de beschermde landtong Mont Canisy beklimmen, om daarna de Touques over te steken naar de vissershaven Trouville",
+      highlight: "de promenade les Planches met haar strandhuisjes vernoemd naar filmsterren, de wandeling over de landtong Mont Canisy boven de Côte Fleurie, en de Marché aux Poissons aan de overkant in Trouville",
+      area: "de kustlijn van les Planches en de jachthaven Port-Deauville, het stadscentrum rond de markt en de renbaan, en Trouville net over de Touques",
+    },
     'monte-carlo': {
       personality: `de glamoureuze stadstaat aan de Rivièra waar hondenbezitters langs Port Hercule, het casinoplein en het middeleeuwse Le Rocher aan de riem wandelen voordat ze ontsnappen naar de douanepaden langs de kust van Cap d'Ail`,
       highlight: `de oude stad Le Rocher, de promenade van Port Hercule en het kustpad Chemin des Douaniers naar Cap d'Ail`,
@@ -12754,6 +12784,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   it: {
+    'deauville': {
+      personality: "l'elegante città balneare normanna dove i padroni di cani passeggiano sulla passerella delle Planches degli anni '20 e sul porticciolo prima di salire sul promontorio protetto di Mont Canisy, per poi attraversare la Touques verso il porto peschereccio di Trouville",
+      highlight: "la passerella delle Planches con le sue cabine dedicate alle star del cinema, la camminata sul promontorio di Mont Canisy sopra la Côte Fleurie, e il Marché aux Poissons dall'altra parte dell'acqua a Trouville",
+      area: "il lungomare delle Planches e il porticciolo di Port-Deauville, il centro città attorno al mercato e all'ippodromo, e Trouville appena oltre la Touques",
+    },
     'monte-carlo': {
       personality: `la glamour città-stato della Riviera dove i proprietari di cani passeggiano al guinzaglio per Port Hercule, la piazza del Casino e il Rocher medievale prima di fuggire verso i sentieri doganali costieri di Cap d'Ail`,
       highlight: `la città vecchia di Le Rocher, la passeggiata di Port Hercule e il sentiero costiero Chemin des Douaniers fino a Cap d'Ail`,

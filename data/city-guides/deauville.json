@@ -1,0 +1,1378 @@
+{
+  "slug": "deauville",
+  "name": "Deauville",
+  "country": "France",
+  "flag": "🇫🇷",
+  "lastUpdated": "2026-09-02",
+  "guides": {
+    "vets": {
+      "titleEn": "Emergency Vets in Deauville, Veterinary Clinics & Pet Care",
+      "introEn": "Deauville and neighbouring Touques have several well-regarded veterinary clinics for routine care, vaccinations and minor emergencies, most within a short drive of the town centre. There is no dedicated 24-hour animal hospital in Deauville itself, so for nights, Sundays and public holidays you use the departmental vétérinaire de garde rota (ask your clinic or the local emergency line), with the nearest full round-the-clock hospital care toward Caen. Save a number before you arrive and, in an out-of-hours emergency, always call first so the on-call vet is expecting you.",
+      "entryRequirements": {
+        "euPets": "France applies EU pet-travel rules. Your dog or cat needs an ISO microchip, a valid rabies vaccination and an EU pet passport. There is no quarantine for compliant pets, and dogs, cats and ferrets are covered by the same scheme.",
+        "nonEuPets": "Arriving from outside the EU, your pet needs an ISO microchip, a valid rabies vaccination and an EU Animal Health Certificate issued within 10 days of entry (plus a rabies antibody test for some countries). You clear entry at the EU border on arrival.",
+        "emergencyContacts": "There is no 24/7 animal hospital in Deauville. Daytime clinics: CV Saint Augustin, 119 Avenue de la République; CALM Clinique Vétérinaire, 32 Avenue Hocquart de Turtot; Clinique Vétérinaire de la Côte Fleurie, Route de Pont-l'Évêque, Bonneville-sur-Touques. For nights and Sundays, ask any clinic for the vétérinaire de garde; nearest 24h hospital care is toward Caen.",
+        "euPetsFr": "La France applique les règles européennes de voyage avec animaux. Votre chien ou chat a besoin d'une puce électronique ISO, d'une vaccination antirabique valide et d'un passeport européen pour animaux. Aucune quarantaine pour les animaux en règle, et chiens, chats et furets relèvent du même dispositif.",
+        "nonEuPetsFr": "En provenance de l'extérieur de l'UE, votre animal a besoin d'une puce électronique ISO, d'une vaccination antirabique valide et d'un certificat sanitaire européen délivré dans les 10 jours précédant l'entrée (plus un test d'anticorps antirabiques pour certains pays). Le contrôle se fait à la frontière européenne à l'arrivée.",
+        "emergencyContactsFr": "Il n'y a pas d'hôpital vétérinaire ouvert 24h/24 et 7j/7 à Deauville. Cliniques de jour : CV Saint Augustin, 119 avenue de la République ; clinique vétérinaire CALM, 32 avenue Hocquart de Turtot ; Clinique Vétérinaire de la Côte Fleurie, route de Pont-l'Évêque, Bonneville-sur-Touques. Les nuits et dimanches, demandez à n'importe quelle clinique le vétérinaire de garde ; l'hôpital assurant des soins en continu le plus proche se trouve du côté de Caen.",
+        "euPetsEs": "Francia aplica las normas de la UE para viajar con mascotas. Tu perro o gato necesita un microchip ISO, una vacunación antirrábica válida y un pasaporte europeo para animales de compañía. No hay cuarentena para las mascotas que cumplan los requisitos, y perros, gatos y hurones están cubiertos por el mismo régimen.",
+        "nonEuPetsEs": "Si llegas desde fuera de la UE, tu mascota necesita un microchip ISO, una vacunación antirrábica válida y un certificado sanitario de la UE emitido en los 10 días previos a la entrada (además de una prueba de anticuerpos contra la rabia para algunos países). Se pasa el control en la frontera de la UE a la llegada.",
+        "emergencyContactsEs": "No hay hospital veterinario 24/7 en Deauville. Clínicas diurnas: CV Saint Augustin, 119 Avenue de la République; CALM Clinique Vétérinaire, 32 Avenue Hocquart de Turtot; Clinique Vétérinaire de la Côte Fleurie, Route de Pont-l'Évêque, Bonneville-sur-Touques. Por las noches y los domingos, pregunta en cualquier clínica por el vétérinaire de garde; la atención hospitalaria 24 horas más cercana está hacia Caen.",
+        "euPetsPt": "A França aplica as regras da UE para viagens com animais de companhia. O seu cão ou gato precisa de um microchip ISO, uma vacina antirrábica válida e um passaporte europeu para animais de companhia. Não há quarentena para animais em conformidade, e cães, gatos e furões estão abrangidos pelo mesmo regime.",
+        "nonEuPetsPt": "Se chegar de fora da UE, o seu animal precisa de um microchip ISO, uma vacina antirrábica válida e um certificado sanitário da UE emitido nos 10 dias anteriores à entrada (mais um teste de anticorpos antirrábicos para alguns países). O desalfandegamento é feito na fronteira da UE, à chegada.",
+        "emergencyContactsPt": "Não há hospital veterinário 24 horas em Deauville. Clínicas diurnas: CV Saint Augustin, 119 Avenue de la République; CALM Clinique Vétérinaire, 32 Avenue Hocquart de Turtot; Clinique Vétérinaire de la Côte Fleurie, Route de Pont-l'Évêque, Bonneville-sur-Touques. Para noites e domingos, peça a qualquer clínica o contacto do vétérinaire de garde; os cuidados hospitalares 24 horas mais próximos ficam em direcção a Caen.",
+        "euPetsDe": "Frankreich wendet die EU-Regeln für Heimtierreisen an. Ihr Hund oder Ihre Katze braucht einen ISO-Mikrochip, eine gültige Tollwutimpfung und einen EU-Heimtierausweis. Für vorschriftsmäßige Tiere gibt es keine Quarantäne, Hunde, Katzen und Frettchen unterliegen derselben Regelung.",
+        "nonEuPetsDe": "Bei Einreise von außerhalb der EU braucht Ihr Tier einen ISO-Mikrochip, eine gültige Tollwutimpfung und eine EU-Veterinärbescheinigung, die innerhalb von 10 Tagen vor der Einreise ausgestellt wurde (bei manchen Ländern zusätzlich ein Tollwut-Antikörpertest). Die Einreisekontrolle erfolgt bei Ankunft an der EU-Grenze.",
+        "emergencyContactsDe": "Eine 24/7-Tierklinik gibt es in Deauville nicht. Tagkliniken: CV Saint Augustin, 119 Avenue de la République; CALM Clinique Vétérinaire, 32 Avenue Hocquart de Turtot; Clinique Vétérinaire de la Côte Fleurie, Route de Pont-l'Évêque, Bonneville-sur-Touques. Für Nächte und Sonntage fragen Sie in jeder Klinik nach dem vétérinaire de garde; die nächste durchgehende Klinikversorgung liegt Richtung Caen.",
+        "euPetsNl": "Frankrijk past de EU-regels voor huisdierenreizen toe. Je hond of kat heeft een ISO-microchip, een geldige rabiësvaccinatie en een EU-dierenpaspoort nodig. Er is geen quarantaine voor huisdieren die aan de eisen voldoen, en honden, katten en fretten vallen onder dezelfde regeling.",
+        "nonEuPetsNl": "Kom je van buiten de EU, dan heeft je huisdier een ISO-microchip, een geldige rabiësvaccinatie en een EU-gezondheidscertificaat nodig dat binnen 10 dagen voor aankomst is afgegeven (plus voor sommige landen een rabiës-antistoffentest). Je wordt bij binnenkomst aan de EU-grens gecontroleerd.",
+        "emergencyContactsNl": "Deauville heeft geen dierenziekenhuis dat 24/7 open is. Klinieken overdag: CV Saint Augustin, 119 Avenue de la République; CALM Clinique Vétérinaire, 32 Avenue Hocquart de Turtot; Clinique Vétérinaire de la Côte Fleurie, Route de Pont-l'Évêque, Bonneville-sur-Touques. Vraag 's nachts en op zondag bij elke kliniek naar de vétérinaire de garde; de dichtstbijzijnde 24-uursopvang bevindt zich richting Caen.",
+        "euPetsIt": "La Francia applica le regole UE per i viaggi con animali. Il tuo cane o gatto ha bisogno di un microchip ISO, di una vaccinazione antirabbica valida e di un passaporto UE per animali. Non c'è quarantena per gli animali in regola, e cani, gatti e furetti sono coperti dallo stesso schema.",
+        "nonEuPetsIt": "Se arrivi da fuori dall'UE, il tuo animale ha bisogno di un microchip ISO, di una vaccinazione antirabbica valida e di un certificato sanitario UE rilasciato entro 10 giorni dall'ingresso (più un test anticorpale antirabbico per alcuni paesi). L'ingresso viene verificato alla frontiera UE all'arrivo.",
+        "emergencyContactsIt": "A Deauville non c'è un ospedale veterinario aperto 24 ore su 24, 7 giorni su 7. Cliniche diurne: CV Saint Augustin, 119 Avenue de la République; CALM Clinique Vétérinaire, 32 Avenue Hocquart de Turtot; Clinique Vétérinaire de la Côte Fleurie, Route de Pont-l'Évêque, Bonneville-sur-Touques. Per le notti e la domenica, chiedi a qualsiasi clinica il vétérinaire de garde; le cure ospedaliere 24 ore più vicine sono verso Caen."
+      },
+      "places": [
+        {
+          "name": "Clinique Vétérinaire CV Saint Augustin Deauville",
+          "type": "General veterinary clinic",
+          "address": "119 Avenue de la République, 14800 Deauville",
+          "phone": "",
+          "hours": "Daytime consultations, by appointment",
+          "englishSpeaking": true,
+          "website": "",
+          "description": "A central Deauville clinic on Avenue de la République, handling consultations, vaccinations, general surgery and everyday care for dogs and cats. Its in-town location makes it the easiest first call for a routine issue or a minor emergency during a stay by the beach.",
+          "tip": "Call ahead for an appointment; central clinics fill up in summer when the resort is busy.",
+          "googleMapsUrl": "https://maps.google.com/?q=CV+Saint+Augustin+Deauville",
+          "photo": "",
+          "descriptionFr": "Une clinique du centre de Deauville, avenue de la République, qui assure consultations, vaccinations, chirurgie générale et soins courants pour chiens et chats. Son emplacement en ville en fait le premier recours le plus simple pour un souci courant ou une urgence mineure pendant un séjour au bord de mer.",
+          "tipFr": "Appelez à l'avance pour prendre rendez-vous ; les cliniques du centre sont vite prises d'assaut en été, quand la station est bondée.",
+          "hoursFr": "Consultations en journée, sur rendez-vous",
+          "descriptionEs": "Una clínica céntrica de Deauville en la Avenue de la République, que atiende consultas, vacunaciones, cirugía general y cuidados diarios para perros y gatos. Su ubicación en pleno centro la convierte en la primera llamada más sencilla para un problema rutinario o una urgencia menor durante una estancia junto a la playa.",
+          "tipEs": "Llama con antelación para pedir cita; las clínicas céntricas se llenan en verano cuando el balneario está muy concurrido.",
+          "hoursEs": "Consultas diurnas, con cita previa",
+          "descriptionPt": "Uma clínica central em Deauville, na Avenue de la République, que trata consultas, vacinações, cirurgia geral e cuidados do dia a dia para cães e gatos. A sua localização dentro da cidade torna-a o primeiro recurso mais fácil para um problema de rotina ou uma pequena urgência durante uma estadia junto à praia.",
+          "tipPt": "Ligue com antecedência para marcar consulta; as clínicas do centro enchem-se no verão, quando a estância está cheia.",
+          "hoursPt": "Consultas diurnas, com marcação",
+          "descriptionDe": "Eine zentral gelegene Klinik in Deauville an der Avenue de la République, die Beratungen, Impfungen, allgemeine Operationen und die tägliche Versorgung von Hunden und Katzen übernimmt. Ihre zentrale Lage macht sie zur einfachsten ersten Anlaufstelle bei einem Routinethema oder kleineren Notfall während eines Aufenthalts am Meer.",
+          "tipDe": "Rufen Sie vorab für einen Termin an, zentrale Kliniken sind im Sommer schnell ausgebucht, wenn im Badeort viel Betrieb herrscht.",
+          "hoursDe": "Tagsüber nach Terminvereinbarung",
+          "descriptionNl": "Een centrale kliniek in Deauville aan de Avenue de la République, voor consultaties, vaccinaties, algemene chirurgie en dagelijkse zorg voor honden en katten. De centrale ligging maakt het de makkelijkste eerste keuze bij een routineklacht of een klein spoedgeval tijdens een verblijf aan zee.",
+          "tipNl": "Bel van tevoren voor een afspraak; centrale klinieken zitten in de zomer snel vol als de badplaats druk is.",
+          "hoursNl": "Overdag op afspraak",
+          "descriptionIt": "Una clinica centrale di Deauville su Avenue de la République, che si occupa di visite, vaccinazioni, chirurgia generale e cure quotidiane per cani e gatti. La sua posizione in città la rende la scelta più comoda per un problema di routine o una piccola emergenza durante un soggiorno al mare.",
+          "tipIt": "Chiama in anticipo per un appuntamento; le cliniche centrali si riempiono in estate quando la città è affollata.",
+          "hoursIt": "Consultazioni diurne, su appuntamento"
+        },
+        {
+          "name": "CALM Clinique Vétérinaire",
+          "type": "General veterinary clinic",
+          "address": "32 Avenue Hocquart de Turtot, 14800 Deauville",
+          "phone": "",
+          "hours": "Daytime, by appointment",
+          "englishSpeaking": true,
+          "website": "",
+          "description": "A well-equipped clinic on Avenue Hocquart de Turtot, near the racecourse, offering consultations, imaging and surgery. A practical choice for a check-up or follow-up care while staying in Deauville, and easily reached on foot from the town centre.",
+          "tip": "Ask about the vétérinaire de garde for out-of-hours needs before you leave the clinic.",
+          "googleMapsUrl": "https://maps.google.com/?q=CALM+Clinique+Veterinaire+Deauville",
+          "photo": "",
+          "descriptionFr": "Une clinique bien équipée avenue Hocquart de Turtot, près de l'hippodrome, proposant consultations, imagerie et chirurgie. Un bon choix pour un examen ou un suivi pendant un séjour à Deauville, facilement accessible à pied depuis le centre-ville.",
+          "tipFr": "Renseignez-vous sur le vétérinaire de garde pour les besoins hors horaires avant de quitter la clinique.",
+          "hoursFr": "En journée, sur rendez-vous",
+          "descriptionEs": "Una clínica bien equipada en la Avenue Hocquart de Turtot, cerca del hipódromo, que ofrece consultas, diagnóstico por imagen y cirugía. Una opción práctica para una revisión o un seguimiento durante una estancia en Deauville, y de fácil acceso a pie desde el centro.",
+          "tipEs": "Pregunta por el vétérinaire de garde para necesidades fuera de horario antes de salir de la clínica.",
+          "hoursEs": "Horario diurno, con cita previa",
+          "descriptionPt": "Uma clínica bem equipada na Avenue Hocquart de Turtot, perto do hipódromo, com consultas, imagiologia e cirurgia. Uma boa opção para uma revisão ou acompanhamento durante a estadia em Deauville, e facilmente acessível a pé a partir do centro da cidade.",
+          "tipPt": "Pergunte pelo contacto do vétérinaire de garde para necessidades fora de horas antes de sair da clínica.",
+          "hoursPt": "Diurno, com marcação",
+          "descriptionDe": "Eine gut ausgestattete Klinik an der Avenue Hocquart de Turtot, nahe der Rennbahn, mit Beratungen, Bildgebung und Operationen. Eine praktische Wahl für eine Untersuchung oder Nachsorge während des Aufenthalts in Deauville, bequem zu Fuß vom Stadtzentrum aus erreichbar.",
+          "tipDe": "Fragen Sie noch in der Klinik nach dem vétérinaire de garde für den Bedarf außerhalb der Öffnungszeiten, bevor Sie gehen.",
+          "hoursDe": "Tagsüber nach Terminvereinbarung",
+          "descriptionNl": "Een goed uitgeruste kliniek aan de Avenue Hocquart de Turtot, bij de renbaan, met consultaties, beeldvorming en chirurgie. Een praktische keuze voor een controle of vervolgzorg tijdens een verblijf in Deauville, en makkelijk te voet te bereiken vanuit het centrum.",
+          "tipNl": "Vraag naar de vétérinaire de garde voor zorg buiten de openingstijden voordat je de kliniek verlaat.",
+          "hoursNl": "Overdag op afspraak",
+          "descriptionIt": "Una clinica ben attrezzata su Avenue Hocquart de Turtot, vicino all'ippodromo, che offre visite, diagnostica per immagini e chirurgia. Una scelta pratica per un controllo o cure di follow-up durante un soggiorno a Deauville, facilmente raggiungibile a piedi dal centro.",
+          "tipIt": "Chiedi informazioni sul vétérinaire de garde per le necessità fuori orario prima di lasciare la clinica.",
+          "hoursIt": "Diurna, su appuntamento"
+        },
+        {
+          "name": "Clinique Vétérinaire de la Côte Fleurie",
+          "type": "Veterinary clinic (Bonneville-sur-Touques)",
+          "address": "Route de Pont-l'Évêque, 14800 Bonneville-sur-Touques",
+          "phone": "",
+          "hours": "Daytime, by appointment",
+          "englishSpeaking": false,
+          "website": "",
+          "description": "A full-service clinic just inland from Deauville at Bonneville-sur-Touques, a few minutes by car, with consultation, surgery and diagnostic facilities. A useful alternative when the in-town clinics are fully booked, and handy if you are arriving by road.",
+          "tip": "This one is a short drive rather than a walk, so plan transport if you do not have a car.",
+          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+Cote+Fleurie+Bonneville-sur-Touques",
+          "photo": "",
+          "descriptionFr": "Une clinique complète juste à l'intérieur des terres depuis Deauville, à Bonneville-sur-Touques, à quelques minutes en voiture, avec consultations, chirurgie et équipements de diagnostic. Une alternative utile quand les cliniques du centre-ville affichent complet, et pratique si vous arrivez par la route.",
+          "tipFr": "Celle-ci se rejoint plutôt en voiture qu'à pied, prévoyez un moyen de transport si vous n'en avez pas.",
+          "hoursFr": "En journée, sur rendez-vous",
+          "descriptionEs": "Una clínica de servicio completo justo tierra adentro desde Deauville, en Bonneville-sur-Touques, a pocos minutos en coche, con instalaciones de consulta, cirugía y diagnóstico. Una alternativa útil cuando las clínicas del centro están completas, y práctica si llegas por carretera.",
+          "tipEs": "Esta queda a un corto trayecto en coche y no a pie, así que planifica el transporte si no tienes vehículo.",
+          "hoursEs": "Horario diurno, con cita previa",
+          "descriptionPt": "Uma clínica completa, um pouco no interior a partir de Deauville, em Bonneville-sur-Touques, a poucos minutos de carro, com instalações de consulta, cirurgia e diagnóstico. Uma alternativa útil quando as clínicas do centro estão com a agenda cheia, e prática se chegar de automóvel.",
+          "tipPt": "Esta fica a uma curta viagem de carro e não a pé, por isso planeie o transporte se não tiver carro.",
+          "hoursPt": "Diurno, com marcação",
+          "descriptionDe": "Eine Vollversorgungsklinik nur wenige Autominuten landeinwärts von Deauville in Bonneville-sur-Touques, mit Beratung, Operation und Diagnostik. Eine nützliche Alternative, wenn die Kliniken in der Stadt ausgebucht sind, und praktisch, wenn Sie mit dem Auto anreisen.",
+          "tipDe": "Diese Klinik ist eher eine kurze Autofahrt als ein Fußweg, planen Sie also den Transport ein, falls Sie kein Auto haben.",
+          "hoursDe": "Tagsüber nach Terminvereinbarung",
+          "descriptionNl": "Een volwaardige kliniek net landinwaarts van Deauville in Bonneville-sur-Touques, een paar minuten met de auto, met faciliteiten voor consultatie, chirurgie en diagnostiek. Een handig alternatief wanneer de klinieken in de stad volgeboekt zijn, en praktisch als je met de auto komt.",
+          "tipNl": "Deze is eerder een korte rit dan een wandeling, dus regel vervoer als je geen auto hebt.",
+          "hoursNl": "Overdag op afspraak",
+          "descriptionIt": "Una clinica completa appena nell'entroterra rispetto a Deauville, a Bonneville-sur-Touques, a pochi minuti in auto, con strutture per visite, chirurgia e diagnostica. Un'alternativa utile quando le cliniche in città sono al completo, e comoda se arrivi in auto.",
+          "tipIt": "Questa si raggiunge in auto e non a piedi, quindi organizza il trasporto se non hai la macchina.",
+          "hoursIt": "Diurna, su appuntamento"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Deauville?",
+          "a": "Not in Deauville itself. Local clinics cover daytime care, and for nights, Sundays and holidays you use the departmental vétérinaire de garde rota, which any clinic can point you to. The nearest full 24/7 hospital care is toward Caen, so save a number before you travel."
+        },
+        {
+          "q": "Do Deauville vets speak English?",
+          "a": "Deauville is an international resort, so several clinics can manage in English, though it is not guaranteed everywhere. It helps to call ahead, explain the problem simply and, for anything complex, have your pet's EU passport and vaccination record to hand."
+        }
+      ],
+      "titleFr": "Vétérinaires d'urgence à Deauville, cliniques vétérinaires et soins pour animaux",
+      "introFr": "Deauville et la commune voisine de Touques comptent plusieurs cliniques vétérinaires bien réputées pour les soins courants, les vaccinations et les urgences mineures, la plupart à quelques minutes du centre-ville. Il n'y a pas d'hôpital vétérinaire ouvert 24h/24 à Deauville même, donc pour les nuits, les dimanches et les jours fériés, on utilise le tour de garde départemental (demandez à votre clinique ou à la ligne d'urgence locale), l'hôpital le plus proche assurant des soins en continu se trouvant du côté de Caen. Enregistrez un numéro avant votre arrivée et, en cas d'urgence hors horaires, appelez toujours avant de vous déplacer pour que le vétérinaire de garde vous attende.",
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire ouvert 24h/24 à Deauville ?",
+          "a": "Pas à Deauville même. Les cliniques locales assurent les soins de jour, et pour les nuits, dimanches et jours fériés, on utilise le tour de garde vétérinaire départemental, que n'importe quelle clinique peut vous indiquer. L'hôpital assurant des soins complets 24h/24 et 7j/7 le plus proche se trouve du côté de Caen, enregistrez donc un numéro avant de partir."
+        },
+        {
+          "q": "Les vétérinaires de Deauville parlent-ils anglais ?",
+          "a": "Deauville est une station internationale, donc plusieurs cliniques peuvent se débrouiller en anglais, sans que ce soit garanti partout. Il est utile d'appeler à l'avance, d'expliquer le problème simplement et, pour toute situation complexe, d'avoir sous la main le passeport européen et le carnet de vaccination de votre animal."
+        }
+      ],
+      "titleEs": "Veterinarios de urgencia en Deauville, clínicas veterinarias y cuidado de mascotas",
+      "introEs": "Deauville y la vecina Touques cuentan con varias clínicas veterinarias bien valoradas para cuidados rutinarios, vacunaciones y urgencias menores, la mayoría a poca distancia en coche del centro. No hay un hospital veterinario de 24 horas dedicado en la propia Deauville, así que para las noches, domingos y festivos se usa el turno departamental del vétérinaire de garde (pregunta en tu clínica o en la línea de urgencias local), con la atención hospitalaria de guardia completa más cercana hacia Caen. Guarda un número antes de llegar y, en una urgencia fuera de horario, llama siempre primero para que el veterinario de guardia te esté esperando.",
+      "faqsEs": [
+        {
+          "q": "¿Hay algún veterinario 24 horas en Deauville?",
+          "a": "No en la propia Deauville. Las clínicas locales cubren la atención diurna, y para las noches, domingos y festivos se usa el turno departamental del vétérinaire de garde, al que cualquier clínica puede orientarte. La atención hospitalaria 24/7 completa más cercana está hacia Caen, así que guarda un número antes de viajar."
+        },
+        {
+          "q": "¿Los veterinarios de Deauville hablan inglés?",
+          "a": "Deauville es un balneario internacional, así que varias clínicas pueden desenvolverse en inglés, aunque no está garantizado en todas partes. Ayuda llamar antes, explicar el problema de forma sencilla y, para algo complejo, tener a mano el pasaporte europeo de tu mascota y su historial de vacunación."
+        }
+      ],
+      "titlePt": "Veterinários de Urgência em Deauville, Clínicas Veterinárias e Cuidados para Animais",
+      "introPt": "Deauville e a vizinha Touques têm várias clínicas veterinárias bem consideradas para cuidados de rotina, vacinações e pequenas urgências, a maioria a poucos minutos de carro do centro da cidade. Não existe um hospital veterinário de 24 horas dedicado na própria Deauville, pelo que, para noites, domingos e feriados, se recorre à escala departamental do vétérinaire de garde (pergunte à sua clínica ou à linha de urgência local), estando os cuidados hospitalares completos ao longo de todo o dia mais próximos em direcção a Caen. Guarde um contacto antes de chegar e, numa urgência fora de horas, ligue sempre primeiro para que o veterinário de serviço esteja à sua espera.",
+      "faqsPt": [
+        {
+          "q": "Há algum veterinário 24 horas em Deauville?",
+          "a": "Não na própria Deauville. As clínicas locais cobrem os cuidados diurnos, e para noites, domingos e feriados usa-se a escala departamental do vétérinaire de garde, que qualquer clínica lhe pode indicar. Os cuidados hospitalares completos de 24 horas mais próximos ficam em direcção a Caen, por isso guarde um contacto antes de viajar."
+        },
+        {
+          "q": "Os veterinários de Deauville falam inglês?",
+          "a": "Deauville é uma estância internacional, pelo que várias clínicas conseguem atender em inglês, embora isso não esteja garantido em todo o lado. Ajuda ligar com antecedência, explicar o problema de forma simples e, para casos mais complexos, ter à mão o passaporte europeu e o boletim de vacinas do seu animal."
+        }
+      ],
+      "titleDe": "Notfalltierärzte in Deauville, Tierkliniken & Tierbetreuung",
+      "introDe": "Deauville und das benachbarte Touques verfügen über mehrere gut beleumundete Tierkliniken für Routineversorgung, Impfungen und kleinere Notfälle, die meisten in kurzer Fahrdistanz zum Stadtzentrum. Eine eigene 24-Stunden-Tierklinik gibt es in Deauville selbst nicht, für Nächte, Sonntage und Feiertage nutzen Sie daher den departementalen Bereitschaftsdienst (vétérinaire de garde, erfragbar bei Ihrer Klinik oder der örtlichen Notrufnummer), die nächstgelegene durchgehende Rund-um-die-Uhr-Versorgung liegt Richtung Caen. Speichern Sie sich vor der Anreise eine Nummer, und rufen Sie bei einem Notfall außerhalb der Öffnungszeiten immer zuerst an, damit der diensthabende Tierarzt Sie erwartet.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt in Deauville?",
+          "a": "Nicht in Deauville selbst. Die örtlichen Kliniken decken die Tagesversorgung ab, für Nächte, Sonntage und Feiertage nutzen Sie den departementalen Bereitschaftsdienst (vétérinaire de garde), auf den Sie jede Klinik verweisen kann. Die nächste durchgehende 24/7-Klinikversorgung liegt Richtung Caen, speichern Sie also vor der Reise eine Nummer."
+        },
+        {
+          "q": "Sprechen die Tierärzte in Deauville Englisch?",
+          "a": "Deauville ist ein internationaler Badeort, mehrere Kliniken kommen daher mit Englisch zurecht, garantiert ist das jedoch nicht überall. Es hilft, vorher anzurufen, das Problem einfach zu erklären und bei komplexeren Fällen den EU-Heimtierausweis und das Impfbuch griffbereit zu haben."
+        }
+      ],
+      "titleNl": "Spoedeisende dierenartsen in Deauville, dierenklinieken en huisdierenzorg",
+      "introNl": "Deauville en het naburige Touques hebben verschillende goed aangeschreven dierenklinieken voor routinezorg, vaccinaties en kleine spoedgevallen, de meeste op korte rijafstand van het centrum. Deauville zelf heeft geen eigen dierenziekenhuis dat 24 uur per dag open is, dus 's nachts, op zondag en op feestdagen gebruik je het regionale rooster van de vétérinaire de garde (vraag ernaar bij je kliniek of de lokale spoedlijn), met de dichtstbijzijnde volledige 24-uursopvang richting Caen. Bewaar een nummer voordat je vertrekt en bel bij een spoedgeval buiten de openingstijden altijd eerst, zodat de dienstdoende dierenarts je verwacht.",
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uursdierenarts in Deauville?",
+          "a": "Niet in Deauville zelf. Lokale klinieken bieden overdag zorg, en 's nachts, op zondag en feestdagen gebruik je het regionale rooster van de vétérinaire de garde, waar elke kliniek je naar kan doorverwijzen. De dichtstbijzijnde volledige 24/7-opvang bevindt zich richting Caen, dus bewaar een nummer voordat je vertrekt."
+        },
+        {
+          "q": "Spreken dierenartsen in Deauville Engels?",
+          "a": "Deauville is een internationale badplaats, dus meerdere klinieken redden zich in het Engels, al is dat nergens gegarandeerd. Het helpt om van tevoren te bellen, het probleem eenvoudig uit te leggen en bij iets ingewikkelds het EU-paspoort en vaccinatieboekje van je huisdier bij de hand te hebben."
+        }
+      ],
+      "titleIt": "Veterinari d'emergenza a Deauville, cliniche veterinarie e cura degli animali",
+      "introIt": "Deauville e la vicina Touques hanno diverse cliniche veterinarie ben considerate per le cure di routine, le vaccinazioni e le piccole emergenze, la maggior parte a breve distanza in auto dal centro città. A Deauville non c'è un ospedale veterinario dedicato aperto 24 ore su 24, quindi per le notti, le domeniche e i giorni festivi si usa il turno dipartimentale del vétérinaire de garde (chiedi alla tua clinica o alla linea d'emergenza locale), con le cure ospedaliere complete più vicine verso Caen. Salva un numero prima di arrivare e, in caso di emergenza fuori orario, chiama sempre prima così il veterinario di turno ti aspetta.",
+      "faqsIt": [
+        {
+          "q": "C'è un veterinario aperto 24 ore a Deauville?",
+          "a": "Non a Deauville stessa. Le cliniche locali coprono le cure diurne, e per le notti, le domeniche e i giorni festivi si usa il turno dipartimentale del vétérinaire de garde, a cui qualsiasi clinica può indirizzarti. Le cure ospedaliere complete 24/7 più vicine sono verso Caen, quindi salva un numero prima di partire."
+        },
+        {
+          "q": "I veterinari di Deauville parlano inglese?",
+          "a": "Deauville è una città balneare internazionale, quindi diverse cliniche riescono a cavarsela in inglese, anche se non è garantito ovunque. Aiuta chiamare in anticipo, spiegare il problema in modo semplice e, per qualsiasi cosa complessa, avere a portata di mano il passaporto UE e il libretto vaccinale del tuo animale."
+        }
+      ]
+    },
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Deauville: Where to Eat with Your Dog",
+      "introEn": "Deauville is relaxed about dogs, and a calm, leashed dog is a familiar sight on the town's terraces, from the brasseries around the market to the fish restaurants along the Planches. Most places welcome a well-behaved dog on the outdoor terrace, and many will bring a water bowl if you ask. Keep your dog on the lead and beside your table, choose a terrace in warm weather, and book ahead on busy summer and race weekends.",
+      "places": [
+        {
+          "name": "Le Drakkar",
+          "address": "77 Rue Eugène Colas, 14800 Deauville",
+          "neighborhood": "Town centre, near the boutiques",
+          "photo": "",
+          "website": "",
+          "description": "A classic Deauville brasserie on the smart Rue Eugène Colas, known for generous seafood platters, Norman classics and a buzzing pavement terrace in the heart of the shopping streets. It has a reputation for a warm welcome to dogs, making it an easy lunch or dinner stop between the beach and the boutiques.",
+          "petPolicy": "Dogs welcome on the terrace",
+          "priceRange": "€€€",
+          "mustTry": "A seafood platter or a Norman-style meat dish",
+          "openingHours": "Daily, lunch and dinner",
+          "tip": "The pavement terrace is the spot for a dog; go early in summer to grab a shaded table.",
+          "googleMapsUrl": "https://maps.google.com/?q=Le+Drakkar+Deauville",
+          "descriptionFr": "Une brasserie classique de Deauville sur la chic rue Eugène Colas, réputée pour ses généreux plateaux de fruits de mer, ses classiques normands et sa terrasse animée en plein cœur des rues commerçantes. Elle a la réputation d'accueillir chaleureusement les chiens, ce qui en fait une halte facile entre la plage et les boutiques, pour un déjeuner ou un dîner.",
+          "petPolicyFr": "Chiens acceptés en terrasse",
+          "mustTryFr": "Un plateau de fruits de mer ou un plat normand",
+          "openingHoursFr": "Tous les jours, midi et soir",
+          "tipFr": "La terrasse sur le trottoir est l'endroit idéal pour un chien ; venez tôt en été pour avoir une table à l'ombre.",
+          "descriptionEs": "Una brasserie clásica de Deauville en la elegante Rue Eugène Colas, conocida por sus generosas fuentes de marisco, los platos normandos clásicos y una animada terraza en plena calle comercial. Tiene fama de recibir con cariño a los perros, lo que la convierte en una parada fácil para comer o cenar entre la playa y las boutiques.",
+          "petPolicyEs": "Perros bienvenidos en la terraza",
+          "mustTryEs": "Una fuente de marisco o un plato de carne al estilo normando",
+          "openingHoursEs": "Todos los días, comida y cena",
+          "tipEs": "La terraza en la calle es el sitio para ir con un perro; ve temprano en verano para conseguir una mesa a la sombra.",
+          "descriptionPt": "Uma brasserie clássica de Deauville, na elegante Rue Eugène Colas, conhecida pelos generosos pratos de marisco, pelos clássicos normandos e por uma esplanada animada no coração das ruas comerciais. Tem fama de receber bem os cães, o que a torna uma paragem fácil para almoço ou jantar entre a praia e as lojas.",
+          "petPolicyPt": "Cães bem-vindos na esplanada",
+          "mustTryPt": "Um prato de marisco ou um prato de carne à normanda",
+          "openingHoursPt": "Todos os dias, almoço e jantar",
+          "tipPt": "A esplanada é o sítio certo para um cão; vá cedo no verão para conseguir uma mesa à sombra.",
+          "descriptionDe": "Eine klassische Deauviller Brasserie in der eleganten Rue Eugène Colas, bekannt für großzügige Meeresfrüchteplatten, normannische Klassiker und eine belebte Terrasse mitten in den Einkaufsstraßen. Sie hat den Ruf, Hunde herzlich willkommen zu heißen, und ist damit ein einfacher Anlaufpunkt für Mittag- oder Abendessen zwischen Strand und Boutiquen.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Eine Meeresfrüchteplatte oder ein normannisches Fleischgericht",
+          "openingHoursDe": "Täglich, mittags und abends",
+          "tipDe": "Die Terrasse zur Straße ist der Platz für einen Hund; kommen Sie im Sommer früh, um einen schattigen Tisch zu ergattern.",
+          "descriptionNl": "Een klassieke brasserie van Deauville aan de chique Rue Eugène Colas, bekend om royale zeevruchtenschotels, Normandische klassiekers en een levendig terras midden in de winkelstraten. Het staat bekend om een warm onthaal voor honden, wat het een makkelijke lunch- of dinerstop maakt tussen het strand en de boetiekjes.",
+          "petPolicyNl": "Honden welkom op het terras",
+          "mustTryNl": "Een zeevruchtenschotel of een Normandisch vleesgerecht",
+          "openingHoursNl": "Dagelijks, lunch en diner",
+          "tipNl": "Het terras aan de straat is de plek voor een hond; ga in de zomer vroeg voor een schaduwplekje.",
+          "descriptionIt": "Una classica brasserie di Deauville sull'elegante Rue Eugène Colas, nota per i suoi generosi piatti di mare, i classici normanni e una terrazza vivace nel cuore delle vie dello shopping. Ha la reputazione di accogliere calorosamente i cani, il che ne fa una tappa facile per pranzo o cena tra la spiaggia e i negozi.",
+          "petPolicyIt": "Cani benvenuti in terrazza",
+          "mustTryIt": "Un piatto di frutti di mare o un piatto di carne alla normanna",
+          "openingHoursIt": "Tutti i giorni, pranzo e cena",
+          "tipIt": "La terrazza sul marciapiede è il posto giusto per un cane; vai presto d'estate per accaparrarti un tavolo all'ombra."
+        },
+        {
+          "name": "Bar de la Mer",
+          "address": "Promenade des Planches, 14800 Deauville",
+          "neighborhood": "On the Planches boardwalk",
+          "photo": "",
+          "website": "",
+          "description": "A breezy fish restaurant and bar right on the Planches, with a terrace looking straight out over the beach. Dogs are welcome at the outdoor tables, so it is the natural place to pause with your companion after a boardwalk stroll, over oysters, moules or a glass of something cold.",
+          "petPolicy": "Dogs welcome at the outdoor tables on the boardwalk",
+          "priceRange": "€€€",
+          "mustTry": "Oysters or moules-frites with a sea view",
+          "openingHours": "Daily in season, lunch and dinner",
+          "tip": "Sit on the beach side for the view; bring water as the boardwalk gets warm in the sun.",
+          "googleMapsUrl": "https://maps.google.com/?q=Bar+de+la+Mer+Deauville+Planches",
+          "descriptionFr": "Un restaurant de poisson et bar venté, directement sur les Planches, avec une terrasse donnant sur la plage. Les chiens sont acceptés aux tables extérieures, ce qui en fait l'endroit naturel pour faire une pause avec son compagnon après une balade sur les planches, autour d'huîtres, de moules ou d'un verre bien frais.",
+          "petPolicyFr": "Chiens acceptés aux tables extérieures sur les planches",
+          "mustTryFr": "Des huîtres ou des moules-frites avec vue sur la mer",
+          "openingHoursFr": "Tous les jours en saison, midi et soir",
+          "tipFr": "Installez-vous côté plage pour la vue ; emportez de l'eau, car les planches chauffent vite au soleil.",
+          "descriptionEs": "Un restaurante y bar de pescado con mucho ambiente, justo en las Planches, con una terraza que mira directamente a la playa. Los perros son bienvenidos en las mesas exteriores, así que es el lugar natural para hacer una parada con tu compañero después de un paseo por el malecón, con ostras, mejillones o una copa bien fría.",
+          "petPolicyEs": "Perros bienvenidos en las mesas exteriores del paseo marítimo",
+          "mustTryEs": "Ostras o moules-frites con vistas al mar",
+          "openingHoursEs": "Todos los días en temporada, comida y cena",
+          "tipEs": "Siéntate en el lado de la playa para disfrutar de las vistas; lleva agua, porque el paseo marítimo se calienta al sol.",
+          "descriptionPt": "Um restaurante e bar de peixe arejado, mesmo nas Planches, com uma esplanada virada directamente para a praia. Os cães são bem-vindos nas mesas exteriores, tornando-o o local natural para uma pausa com o seu companheiro depois de um passeio pelo passadiço, com ostras, mexilhões ou um copo de algo fresco.",
+          "petPolicyPt": "Cães bem-vindos nas mesas exteriores do passadiço",
+          "mustTryPt": "Ostras ou moules-frites com vista para o mar",
+          "openingHoursPt": "Todos os dias em época, almoço e jantar",
+          "tipPt": "Sente-se do lado da praia para a vista; leve água, pois o passadiço aquece ao sol.",
+          "descriptionDe": "Ein luftiges Fischrestaurant und eine Bar direkt an den Planches, mit einer Terrasse, die geradewegs auf den Strand blickt. Hunde sind an den Außentischen willkommen, ein natürlicher Ort für eine Pause mit Ihrem Begleiter nach einem Spaziergang auf der Promenade, bei Austern, Miesmuscheln oder einem kühlen Getränk.",
+          "petPolicyDe": "Hunde an den Außentischen auf der Promenade willkommen",
+          "mustTryDe": "Austern oder Moules-frites mit Meerblick",
+          "openingHoursDe": "Täglich in der Saison, mittags und abends",
+          "tipDe": "Setzen Sie sich auf die Strandseite für die Aussicht, führen Sie Wasser mit, da die Promenade in der Sonne warm wird.",
+          "descriptionNl": "Een winderig visrestaurant en bar direct aan les Planches, met een terras dat rechtstreeks uitkijkt over het strand. Honden zijn welkom aan de buitentafels, dus het is de vanzelfsprekende plek om even te pauzeren met je viervoeter na een wandeling over de boulevard, bij oesters, mosselen of een koud glas.",
+          "petPolicyNl": "Honden welkom aan de buitentafels op de boulevard",
+          "mustTryNl": "Oesters of moules-frites met zeezicht",
+          "openingHoursNl": "Dagelijks in het seizoen, lunch en diner",
+          "tipNl": "Zit aan de strandkant voor het uitzicht; neem water mee, want de boulevard wordt warm in de zon.",
+          "descriptionIt": "Un ventoso ristorante e bar di pesce proprio sulle Planches, con una terrazza che guarda direttamente sulla spiaggia. I cani sono benvenuti ai tavoli all'aperto, quindi è il posto naturale dove fermarsi con il tuo compagno dopo una passeggiata sulla passerella, tra ostriche, cozze o un bicchiere di qualcosa di fresco.",
+          "petPolicyIt": "Cani benvenuti ai tavoli all'aperto sulla passerella",
+          "mustTryIt": "Ostriche o moules-frites con vista mare",
+          "openingHoursIt": "Tutti i giorni in stagione, pranzo e cena",
+          "tipIt": "Siediti sul lato spiaggia per la vista; porta acqua perché la passerella si scalda al sole."
+        },
+        {
+          "name": "La Verrière",
+          "address": "Near the port and town centre, 14800 Deauville",
+          "neighborhood": "By the marina",
+          "photo": "",
+          "website": "",
+          "description": "A convivial spot near the marina serving French cooking and sharing boards, with a bright covered terrace that works whatever the Norman weather. It is welcoming to dogs on the terrace, and its relaxed, sharing-plates style suits a long lunch with a companion resting at your feet.",
+          "petPolicy": "Dogs welcome on the covered terrace",
+          "priceRange": "€€€",
+          "mustTry": "A sharing board and a glass of local cider",
+          "openingHours": "Lunch and dinner, check seasonal days",
+          "tip": "The covered terrace is a good rainy-day option when the boardwalk terraces are exposed.",
+          "googleMapsUrl": "https://maps.google.com/?q=La+Verriere+Deauville",
+          "descriptionFr": "Un lieu convivial près de la marina, servant une cuisine française et des plateaux à partager, avec une lumineuse terrasse couverte qui fonctionne quel que soit le temps normand. Elle accueille bien les chiens en terrasse, et son style détendu autour de plats à partager convient à un long déjeuner, le compagnon reposant aux pieds de son maître.",
+          "petPolicyFr": "Chiens acceptés en terrasse couverte",
+          "mustTryFr": "Un plateau à partager et un verre de cidre local",
+          "openingHoursFr": "Midi et soir, vérifier les jours selon la saison",
+          "tipFr": "La terrasse couverte est une bonne option les jours de pluie, quand les terrasses des planches sont exposées.",
+          "descriptionEs": "Un local acogedor cerca del puerto deportivo que sirve cocina francesa y tablas para compartir, con una terraza cubierta luminosa que funciona haga el tiempo que haga en Normandía. Es acogedor con los perros en la terraza, y su estilo relajado de platos para compartir se presta a una comida larga con tu compañero descansando a tus pies.",
+          "petPolicyEs": "Perros bienvenidos en la terraza cubierta",
+          "mustTryEs": "Una tabla para compartir y una copa de sidra local",
+          "openingHoursEs": "Comida y cena, consultar días de temporada",
+          "tipEs": "La terraza cubierta es una buena opción para los días de lluvia, cuando las terrazas del malecón quedan expuestas.",
+          "descriptionPt": "Um local acolhedor perto da marina, com cozinha francesa e tábuas para partilhar, com uma esplanada coberta e luminosa que funciona seja qual for o tempo normando. Recebe bem os cães na esplanada, e o seu estilo descontraído de pratos para partilhar combina com um almoço demorado, com o companheiro deitado aos pés.",
+          "petPolicyPt": "Cães bem-vindos na esplanada coberta",
+          "mustTryPt": "Uma tábua para partilhar e um copo de sidra local",
+          "openingHoursPt": "Almoço e jantar, verifique os dias sazonais",
+          "tipPt": "A esplanada coberta é uma boa opção em dias de chuva, quando as esplanadas do passadiço ficam expostas.",
+          "descriptionDe": "Ein geselliger Ort nahe dem Yachthafen mit französischer Küche und Sharing-Platten, mit einer hellen, überdachten Terrasse, die bei jedem normannischen Wetter funktioniert. Hunde sind auf der Terrasse willkommen, und der entspannte Stil mit Teller zum Teilen eignet sich für ein langes Mittagessen mit einem Begleiter zu Füßen.",
+          "petPolicyDe": "Hunde auf der überdachten Terrasse willkommen",
+          "mustTryDe": "Eine Sharing-Platte und ein Glas lokalen Cidre",
+          "openingHoursDe": "Mittags und abends, saisonale Öffnungstage beachten",
+          "tipDe": "Die überdachte Terrasse ist bei Regen eine gute Option, wenn die Terrassen an der Promenade ungeschützt sind.",
+          "descriptionNl": "Een gezellige plek bij de jachthaven met Franse keuken en deelschotels, met een lichte overdekte veranda die bij elk Normandisch weer werkt. Honden zijn welkom op het terras, en de ontspannen, delende stijl leent zich uitstekend voor een lange lunch met je metgezel rustend aan je voeten.",
+          "petPolicyNl": "Honden welkom op het overdekte terras",
+          "mustTryNl": "Een deelschotel en een glas lokale cider",
+          "openingHoursNl": "Lunch en diner, check de seizoensdagen",
+          "tipNl": "Het overdekte terras is een goede optie bij regen, wanneer de terrassen op de boulevard blootgesteld zijn.",
+          "descriptionIt": "Un locale conviviale vicino al porticciolo che serve cucina francese e taglieri da condividere, con una luminosa terrazza coperta che funziona con qualunque tempo normanno. È accogliente per i cani in terrazza, e il suo stile rilassato da piatti da condividere si adatta bene a un lungo pranzo con un compagno che riposa ai tuoi piedi.",
+          "petPolicyIt": "Cani benvenuti in terrazza coperta",
+          "mustTryIt": "Un tagliere da condividere e un bicchiere di sidro locale",
+          "openingHoursIt": "Pranzo e cena, controlla i giorni stagionali",
+          "tipIt": "La terrazza coperta è una buona opzione per i giorni di pioggia, quando le terrazze sulla passerella sono esposte."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to restaurants in Deauville?",
+          "a": "Yes. Most terraces welcome a leashed, well-behaved dog, from the brasseries near the market to the fish restaurants on the Planches. Keep your dog beside your table and off the walkway, and ask for a water bowl, which most places are happy to bring."
+        },
+        {
+          "q": "Are dogs allowed inside Deauville restaurants or only on terraces?",
+          "a": "Terraces are the safe bet and almost universally fine. Some dining rooms will also accept a small, calm dog out of season, but it varies by venue, so ask when you book and choose a terrace table in warm weather."
+        }
+      ],
+      "titleFr": "Restaurants qui acceptent les chiens à Deauville : où manger avec son chien",
+      "introFr": "Deauville est plutôt décontractée avec les chiens, et un chien calme en laisse est une image familière sur les terrasses de la ville, des brasseries autour du marché aux restaurants de poisson le long des Planches. La plupart des établissements acceptent un chien bien élevé en terrasse, et beaucoup apportent une gamelle d'eau si vous la demandez. Gardez votre chien en laisse près de votre table, choisissez une terrasse par beau temps, et réservez à l'avance les week-ends d'été et de courses, très fréquentés.",
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien au restaurant à Deauville ?",
+          "a": "Oui. La plupart des terrasses accueillent un chien en laisse, bien élevé, des brasseries près du marché aux restaurants de poisson des Planches. Gardez votre chien près de votre table et hors du passage, et demandez une gamelle d'eau, que la plupart des établissements apportent volontiers."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés à l'intérieur des restaurants de Deauville, ou seulement en terrasse ?",
+          "a": "Les terrasses restent la valeur sûre, acceptées presque partout. Certaines salles intérieures accueillent aussi un petit chien calme hors saison, mais cela varie selon l'établissement, alors demandez au moment de réserver et privilégiez une table en terrasse par beau temps."
+        }
+      ],
+      "titleEs": "Restaurantes que admiten perros en Deauville: dónde comer con tu perro",
+      "introEs": "Deauville es relajada con los perros, y un perro tranquilo y con correa es una imagen habitual en las terrazas de la ciudad, desde las brasseries junto al mercado hasta los restaurantes de pescado a lo largo de las Planches. La mayoría de los locales admiten un perro bien educado en la terraza exterior, y muchos traerán un cuenco de agua si lo pides. Mantén a tu perro con correa y junto a tu mesa, elige una terraza cuando haga buen tiempo, y reserva con antelación los fines de semana de verano y de carreras, que son los más concurridos.",
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a los restaurantes de Deauville?",
+          "a": "Sí. La mayoría de las terrazas admiten un perro con correa y bien educado, desde las brasseries cerca del mercado hasta los restaurantes de pescado en las Planches. Mantén a tu perro junto a tu mesa y fuera del paso, y pide un cuenco de agua, que la mayoría de los locales traen encantados."
+        },
+        {
+          "q": "¿Se admiten perros dentro de los restaurantes de Deauville o solo en las terrazas?",
+          "a": "Las terrazas son la opción segura y casi universalmente aceptada. Algunos comedores interiores también aceptan un perro pequeño y tranquilo fuera de temporada, pero varía según el local, así que pregunta al reservar y elige una mesa en terraza cuando haga buen tiempo."
+        }
+      ],
+      "titlePt": "Restaurantes Pet-Friendly em Deauville: Onde Comer com o Seu Cão",
+      "introPt": "Deauville é descontraída em relação a cães, e um cão calmo e à trela é uma imagem familiar nas esplanadas da cidade, desde as brasseries junto ao mercado até aos restaurantes de peixe ao longo das Planches. A maioria dos estabelecimentos recebe bem um cão bem-comportado na esplanada exterior, e muitos trazem uma tigela de água se pedir. Mantenha o seu cão à trela e junto à mesa, escolha uma esplanada em dias de bom tempo e reserve com antecedência nos fins-de-semana movimentados de verão e de corridas.",
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão a restaurantes em Deauville?",
+          "a": "Sim. A maioria das esplanadas recebe bem um cão à trela e bem-comportado, desde as brasseries perto do mercado até aos restaurantes de peixe nas Planches. Mantenha o seu cão junto à mesa e fora do caminho de passagem, e peça uma tigela de água, que a maioria dos estabelecimentos traz com todo o gosto."
+        },
+        {
+          "q": "Os cães são admitidos dentro dos restaurantes de Deauville ou só nas esplanadas?",
+          "a": "As esplanadas são a aposta segura e quase sempre aceitáveis. Algumas salas interiores também aceitam um cão pequeno e calmo fora de época, mas isso varia consoante o estabelecimento, por isso pergunte ao reservar e escolha uma mesa de esplanada em dias de bom tempo."
+        }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Deauville: Wo Sie mit Ihrem Hund essen können",
+      "introDe": "Deauville ist entspannt, was Hunde angeht, und ein ruhiger, angeleinter Hund ist auf den Terrassen der Stadt ein vertrauter Anblick, von den Brasserien rund um den Markt bis zu den Fischrestaurants entlang der Planches. Die meisten Lokale heißen einen wohlerzogenen Hund auf der Außenterrasse willkommen, und viele bringen auf Nachfrage gerne eine Wasserschale. Halten Sie Ihren Hund an der Leine neben Ihrem Tisch, wählen Sie bei warmem Wetter eine Terrasse, und reservieren Sie an geschäftigen Sommer- und Renn-Wochenenden im Voraus.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund in Restaurants in Deauville mitnehmen?",
+          "a": "Ja. Die meisten Terrassen heißen einen angeleinten, wohlerzogenen Hund willkommen, von den Brasserien nahe dem Markt bis zu den Fischrestaurants an den Planches. Halten Sie Ihren Hund neben Ihrem Tisch und abseits des Gehwegs, und bitten Sie um eine Wasserschale, die die meisten Lokale gerne bringen."
+        },
+        {
+          "q": "Dürfen Hunde in Deauville drinnen sitzen oder nur auf Terrassen?",
+          "a": "Terrassen sind die sichere Wahl und fast überall problemlos. Manche Speiseräume akzeptieren außerhalb der Saison auch einen kleinen, ruhigen Hund, das ist aber von Lokal zu Lokal unterschiedlich, fragen Sie also bei der Reservierung nach und wählen Sie bei warmem Wetter einen Terrassentisch."
+        }
+      ],
+      "titleNl": "Hondvriendelijke restaurants in Deauville: waar eet je met je hond",
+      "introNl": "Deauville gaat ontspannen om met honden, en een rustige, aangelijnde hond is een vertrouwd gezicht op de terrassen van de stad, van de brasseries rond de markt tot de visrestaurants langs les Planches. De meeste plekken verwelkomen een goed opgevoede hond op het buitenterras, en veel brengen graag een waterbakje als je erom vraagt. Houd je hond aan de lijn naast je tafel, kies bij warm weer een terras, en reserveer op drukke zomer- en wedrenweekenden.",
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar restaurants in Deauville?",
+          "a": "Ja. De meeste terrassen verwelkomen een aangelijnde, goed opgevoede hond, van de brasseries bij de markt tot de visrestaurants op les Planches. Houd je hond naast je tafel en uit de looproute, en vraag om een waterbakje, wat de meeste plekken graag brengen."
+        },
+        {
+          "q": "Mogen honden binnen in restaurants in Deauville, of alleen op het terras?",
+          "a": "Het terras is de veilige keus en bijna overal prima. Sommige eetzalen accepteren buiten het seizoen ook een kleine, rustige hond, maar dat verschilt per gelegenheid, dus vraag het bij het reserveren en kies bij warm weer een terrastafel."
+        }
+      ],
+      "titleIt": "Ristoranti pet-friendly a Deauville: dove mangiare con il tuo cane",
+      "introIt": "Deauville è tranquilla riguardo ai cani, e un cane calmo al guinzaglio è un'immagine familiare sui tavolini della città, dalle brasserie attorno al mercato ai ristoranti di pesce lungo le Planches. La maggior parte dei locali accoglie un cane ben educato in terrazza, e molti portano una ciotola d'acqua se lo chiedi. Tieni il cane al guinzaglio accanto al tavolo, scegli una terrazza quando fa bel tempo e prenota nei weekend estivi e di corse, quando c'è molta gente.",
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane nei ristoranti di Deauville?",
+          "a": "Sì. La maggior parte delle terrazze accoglie un cane al guinzaglio e ben educato, dalle brasserie vicino al mercato ai ristoranti di pesce sulle Planches. Tieni il cane accanto al tavolo e fuori dal passaggio, e chiedi una ciotola d'acqua, che quasi tutti i locali sono felici di portare."
+        },
+        {
+          "q": "I cani sono ammessi all'interno dei ristoranti di Deauville o solo in terrazza?",
+          "a": "Le terrazze sono la scelta sicura e vanno bene quasi ovunque. Alcune sale interne accettano anche un cane piccolo e calmo fuori stagione, ma varia da locale a locale, quindi chiedi al momento della prenotazione e scegli un tavolo in terrazza quando fa caldo."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog-Friendly Parks & Walks in Deauville",
+      "introEn": "Deauville is short on formal parks but rich in open-air walks, and the best of them are genuinely special: the protected headland of Mont Canisy, the coastal footpath along the Côte Fleurie, and the flat towpaths beside the river Touques. Add the year-round Planches boardwalk and the off-season beaches, and a dog is rarely short of somewhere to stretch its legs. Keep to the lead where signed, especially near the protected wildlife of Mont Canisy, and always carry waste bags.",
+      "places": [
+        {
+          "name": "Mont Canisy",
+          "type": "Protected coastal headland",
+          "photo": "",
+          "website": "",
+          "description": "The area's finest walk: a 110-metre headland above Bénerville, protected by the Conservatoire du littoral, with botanical meadows, shady paths and the concrete remains of WWII gun batteries. The reward is a huge panorama over the Côte Fleurie and the bay, and space for a proper leg-stretch on the lead.",
+          "offLeash": false,
+          "offLeashArea": "Dogs are welcome on the lead throughout; keep them leashed to protect the ground-nesting birds and grazing livestock on the site.",
+          "tip": "Go for the sunset panorama and wear proper shoes; the grass paths can be muddy after rain.",
+          "googleMapsUrl": "https://maps.google.com/?q=Mont+Canisy",
+          "descriptionFr": "La plus belle balade des environs : un cap de 110 mètres au-dessus de Bénerville, protégé par le Conservatoire du littoral, avec des prairies botaniques, des chemins ombragés et les vestiges en béton de batteries allemandes de la Seconde Guerre mondiale. La récompense est un immense panorama sur la Côte Fleurie et la baie, avec de l'espace pour un vrai défoulement en laisse.",
+          "offLeashAreaFr": "Les chiens sont acceptés en laisse partout ; gardez-les attachés pour protéger les oiseaux nichant au sol et le bétail qui pâture sur le site.",
+          "tipFr": "Venez pour le panorama au coucher du soleil et portez de bonnes chaussures ; les sentiers herbeux peuvent être boueux après la pluie.",
+          "descriptionEs": "El mejor paseo de la zona: un promontorio de 110 metros sobre Bénerville, protegido por el Conservatoire du littoral, con praderas botánicas, senderos con sombra y los restos de hormigón de las baterías de artillería de la Segunda Guerra Mundial. La recompensa es un panorama enorme sobre la Côte Fleurie y la bahía, y espacio para un buen estiramiento de patas con correa.",
+          "offLeashAreaEs": "Los perros son bienvenidos con correa en todo el recinto; mantenlos atados para proteger a las aves que anidan en el suelo y al ganado que pasta en el lugar.",
+          "tipEs": "Ve para el panorama del atardecer y lleva calzado adecuado; los senderos de hierba pueden estar embarrados después de la lluvia.",
+          "descriptionPt": "O melhor passeio da zona: um promontório de 110 metros acima de Bénerville, protegido pelo Conservatoire du littoral, com prados botânicos, caminhos sombreados e os vestígios de betão de baterias de canhões da Segunda Guerra Mundial. A recompensa é um enorme panorama sobre a Côte Fleurie e a baía, e espaço para um bom esticão de pernas, à trela.",
+          "offLeashAreaPt": "Os cães são bem-vindos à trela em toda a área; mantenha-os presos para proteger as aves que nidificam no solo e o gado que pasta no local.",
+          "tipPt": "Vá para o panorama do pôr do sol e use calçado adequado; os caminhos de relva podem ficar enlameados depois da chuva.",
+          "descriptionDe": "Der schönste Spaziergang der Gegend: eine 110 Meter hohe Landzunge oberhalb von Bénerville, geschützt vom Conservatoire du littoral, mit botanischen Wiesen, schattigen Pfaden und den betonierten Überresten von Geschützstellungen aus dem Zweiten Weltkrieg. Belohnt wird man mit einem riesigen Panorama über die Côte Fleurie und die Bucht sowie Platz für einen richtigen Auslauf an der Leine.",
+          "offLeashAreaDe": "Hunde sind überall an der Leine willkommen; halten Sie sie angeleint, um die bodenbrütenden Vögel und weidenden Tiere auf dem Gelände zu schützen.",
+          "tipDe": "Gehen Sie für das Sonnenuntergangspanorama hin und tragen Sie geeignetes Schuhwerk; die Graspfade können nach Regen schlammig sein.",
+          "descriptionNl": "De mooiste wandeling van de streek: een landtong van 110 meter boven Bénerville, beschermd door het Conservatoire du littoral, met botanische weilanden, schaduwrijke paden en de betonnen resten van geschutsbunkers uit de Tweede Wereldoorlog. De beloning is een enorm panorama over de Côte Fleurie en de baai, en ruimte om je hond aan de lijn goed te laten bewegen.",
+          "offLeashAreaNl": "Honden zijn overal welkom aan de lijn; houd ze aangelijnd om de grondbroedende vogels en grazende dieren op het terrein te beschermen.",
+          "tipNl": "Ga voor het zonsondergangpanorama en draag stevige schoenen; de graspaden kunnen na regen modderig zijn.",
+          "descriptionIt": "La passeggiata più bella della zona: un promontorio di 110 metri sopra Bénerville, protetto dal Conservatoire du littoral, con prati botanici, sentieri ombreggiati e i resti in cemento delle batterie antiaeree della Seconda guerra mondiale. La ricompensa è un panorama immenso sulla Côte Fleurie e sulla baia, e spazio per una vera sgranchita al guinzaglio.",
+          "offLeashAreaIt": "I cani sono benvenuti al guinzaglio ovunque; tienili al guinzaglio per proteggere gli uccelli che nidificano a terra e il bestiame al pascolo nel sito.",
+          "tipIt": "Vai per il panorama al tramonto e indossa scarpe adatte; i sentieri erbosi possono essere fangosi dopo la pioggia."
+        },
+        {
+          "name": "Sentier du Littoral (GR21 coastal path)",
+          "type": "Coastal footpath",
+          "photo": "",
+          "website": "",
+          "description": "The long-distance GR21 threads along the Côte Fleurie clifftops and shore, and the stretches around Deauville, Bénerville and Villers-sur-Mer make for airy leashed walks with constant sea views. You can pick up a section for an hour or follow it for half a day between resorts.",
+          "offLeash": false,
+          "offLeashArea": "Keep dogs on the lead near cliff edges and through the resorts; the open beaches at the ends allow more freedom out of season.",
+          "tip": "Check tide times if you plan to drop down onto the beach, and start early to avoid summer crowds.",
+          "googleMapsUrl": "https://maps.google.com/?q=GR21+Cote+Fleurie+Deauville",
+          "descriptionFr": "Le GR21, sentier de grande randonnée, longe les falaises et le rivage de la Côte Fleurie, et les tronçons autour de Deauville, Bénerville et Villers-sur-Mer offrent de belles balades aérées en laisse, avec la mer en permanence en vue. Vous pouvez en parcourir un tronçon en une heure ou le suivre une demi-journée entre les stations.",
+          "offLeashAreaFr": "Gardez les chiens en laisse près des falaises et à la traversée des stations ; les plages ouvertes aux extrémités offrent plus de liberté hors saison.",
+          "tipFr": "Vérifiez les horaires de marée si vous comptez descendre sur la plage, et partez tôt pour éviter l'affluence estivale.",
+          "descriptionEs": "El sendero de gran recorrido GR21 discurre por los acantilados y la costa de la Côte Fleurie, y los tramos alrededor de Deauville, Bénerville y Villers-sur-Mer ofrecen paseos aireados con correa y vistas constantes al mar. Puedes recorrer un tramo en una hora o seguirlo durante medio día entre balnearios.",
+          "offLeashAreaEs": "Mantén a los perros con correa cerca de los bordes de los acantilados y al atravesar los balnearios; las playas abiertas en los extremos permiten más libertad fuera de temporada.",
+          "tipEs": "Comprueba los horarios de las mareas si piensas bajar a la playa, y empieza temprano para evitar las multitudes de verano.",
+          "descriptionPt": "O trilho de longa distância GR21 percorre os cimos das falésias e a costa da Côte Fleurie, e os troços à volta de Deauville, Bénerville e Villers-sur-Mer proporcionam passeios arejados, à trela, com vista permanente para o mar. Pode fazer um troço numa hora ou segui-lo durante meio dia entre estâncias.",
+          "offLeashAreaPt": "Mantenha os cães à trela perto das arribas e ao atravessar as estâncias; as praias abertas nas extremidades permitem mais liberdade fora de época.",
+          "tipPt": "Verifique os horários das marés se pensar descer até à praia, e comece cedo para evitar as multidões de verão.",
+          "descriptionDe": "Der Fernwanderweg GR21 zieht sich entlang der Klippen und der Küste der Côte Fleurie, und die Abschnitte um Deauville, Bénerville und Villers-sur-Mer bieten luftige Spaziergänge an der Leine mit ständigem Meerblick. Man kann einen Abschnitt für eine Stunde nehmen oder ihm einen halben Tag lang zwischen den Badeorten folgen.",
+          "offLeashAreaDe": "Halten Sie Hunde in der Nähe von Klippenrändern und durch die Badeorte an der Leine; die offenen Strände an den Enden erlauben außerhalb der Saison mehr Freiheit.",
+          "tipDe": "Prüfen Sie die Gezeitenzeiten, falls Sie zum Strand hinabsteigen möchten, und starten Sie früh, um dem Sommertrubel zu entgehen.",
+          "descriptionNl": "De langeafstandsroute GR21 loopt over de klippen en langs de kust van de Côte Fleurie, en de stukken rond Deauville, Bénerville en Villers-sur-Mer zijn luchtige aangelijnde wandelingen met voortdurend zeezicht. Je kunt een deel van een uur oppikken of het een halve dag lang volgen tussen de badplaatsen.",
+          "offLeashAreaNl": "Houd honden aangelijnd bij klifranden en in de badplaatsen; de open stranden aan de uiteinden bieden buiten het seizoen meer vrijheid.",
+          "tipNl": "Controleer de getijtijden als je van plan bent naar het strand af te dalen, en begin vroeg om de zomerdrukte te vermijden.",
+          "descriptionIt": "Il sentiero a lunga percorrenza GR21 attraversa le scogliere e la costa della Côte Fleurie, e i tratti attorno a Deauville, Bénerville e Villers-sur-Mer offrono passeggiate ariose al guinzaglio con vista mare costante. Puoi percorrere un tratto per un'ora o seguirlo per mezza giornata tra una città balneare e l'altra.",
+          "offLeashAreaIt": "Tieni i cani al guinzaglio vicino ai bordi delle scogliere e attraverso le città balneari; le spiagge aperte alle estremità permettono più libertà fuori stagione.",
+          "tipIt": "Controlla gli orari delle maree se pensi di scendere in spiaggia, e parti presto per evitare la folla estiva."
+        },
+        {
+          "name": "Touques Riverbanks",
+          "type": "Riverside walk",
+          "photo": "",
+          "website": "",
+          "description": "The flat paths along the river Touques, between Deauville, the marina and the footbridge to Trouville, give an easy, sheltered walk away from the beach crowds. It is a gentle everyday loop for a dog, with the fishing boats and quays for company and cafés at either end.",
+          "offLeash": false,
+          "offLeashArea": "On the lead through town and along the quays; there is no dedicated off-leash zone in central Deauville.",
+          "tip": "Combine it with the footbridge crossing into Trouville for a longer town-to-town circuit.",
+          "googleMapsUrl": "https://maps.google.com/?q=Touques+river+Deauville",
+          "descriptionFr": "Les chemins plats le long de la Touques, entre Deauville, la marina et la passerelle vers Trouville, offrent une balade facile et abritée, loin de la foule de la plage. C'est une boucle douce du quotidien pour un chien, avec les bateaux de pêche et les quais pour compagnie et des cafés à chaque extrémité.",
+          "offLeashAreaFr": "En laisse en ville et le long des quais ; il n'y a pas de zone de liberté dédiée dans le centre de Deauville.",
+          "tipFr": "Combinez-la avec la traversée de la passerelle vers Trouville pour un circuit plus long entre les deux villes.",
+          "descriptionEs": "Los caminos llanos junto al río Touques, entre Deauville, el puerto deportivo y la pasarela hacia Trouville, ofrecen un paseo fácil y resguardado, lejos de las aglomeraciones de la playa. Es un circuito cotidiano y tranquilo para un perro, con los barcos de pesca y los muelles como compañía y cafés en ambos extremos.",
+          "offLeashAreaEs": "Con correa por la ciudad y a lo largo de los muelles; no hay una zona sin correa dedicada en el centro de Deauville.",
+          "tipEs": "Combínalo con el cruce de la pasarela hacia Trouville para un circuito más largo entre las dos localidades.",
+          "descriptionPt": "Os caminhos planos ao longo do rio Touques, entre Deauville, a marina e a ponte pedonal para Trouville, oferecem um passeio fácil e abrigado, longe das multidões da praia. É um circuito calmo do dia a dia para um cão, com os barcos de pesca e os cais como companhia e cafés em ambas as pontas.",
+          "offLeashAreaPt": "À trela na cidade e ao longo dos cais; não há zona dedicada sem trela no centro de Deauville.",
+          "tipPt": "Combine-o com a travessia da ponte pedonal para Trouville, para um circuito mais longo entre as duas cidades.",
+          "descriptionDe": "Die flachen Wege entlang des Flusses Touques, zwischen Deauville, dem Yachthafen und der Fußgängerbrücke nach Trouville, bieten einen leichten, geschützten Spaziergang abseits des Strandtrubels. Eine sanfte alltägliche Runde für einen Hund, mit Fischerbooten und Kais als Begleitung und Cafés an beiden Enden.",
+          "offLeashAreaDe": "An der Leine durch die Stadt und entlang der Kais; in der Innenstadt von Deauville gibt es keine ausgewiesene Freilaufzone.",
+          "tipDe": "Kombinieren Sie die Route mit der Fußgängerbrücke nach Trouville für eine längere Runde von Ort zu Ort.",
+          "descriptionNl": "De vlakke paden langs de rivier de Touques, tussen Deauville, de jachthaven en de voetgangersbrug naar Trouville, bieden een makkelijke, beschutte wandeling weg van de strandmenigte. Het is een rustige alledaagse rondgang voor een hond, met de vissersboten en kades als gezelschap en cafés aan weerszijden.",
+          "offLeashAreaNl": "Aangelijnd door de stad en langs de kades; er is geen speciale losloopzone in het centrum van Deauville.",
+          "tipNl": "Combineer het met de oversteek over de voetgangersbrug naar Trouville voor een langere rondgang tussen de twee steden.",
+          "descriptionIt": "I sentieri piatti lungo il fiume Touques, tra Deauville, il porticciolo e la passerella verso Trouville, offrono una passeggiata facile e riparata lontano dalla folla della spiaggia. È un giro quotidiano tranquillo per un cane, con le barche da pesca e le banchine come compagnia e caffè a entrambe le estremità.",
+          "offLeashAreaIt": "Al guinzaglio in città e lungo le banchine; non c'è una zona libera dedicata nel centro di Deauville.",
+          "tipIt": "Combinalo con l'attraversamento della passerella verso Trouville per un giro più lungo tra le due città."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I walk my dog off the lead near Deauville?",
+          "a": "True off-lead space is limited in the resort. The best options are the protected headland of Mont Canisy on the lead, and the vast beaches at Villers-sur-Mer, Blonville and Houlgate out of season, where dogs can run once the summer restrictions lift. In town, keep your dog leashed."
+        },
+        {
+          "q": "Is Mont Canisy dog-friendly?",
+          "a": "Yes, on the lead. Mont Canisy is a protected natural site with ground-nesting birds and grazing animals, so dogs are welcome but must stay leashed. It offers the best walk and the best view in the area, a short drive or a steady climb from Deauville."
+        }
+      ],
+      "titleFr": "Parcs et balades pour chiens à Deauville",
+      "introFr": "Deauville manque de parcs à proprement parler, mais regorge de balades en plein air, et les meilleures sont vraiment exceptionnelles : le cap protégé du Mont Canisy, le sentier côtier de la Côte Fleurie et les chemins de halage plats le long de la Touques. Ajoutez à cela les Planches ouvertes toute l'année et les plages hors saison, et votre chien ne manquera jamais d'endroit pour se dégourdir les pattes. Restez en laisse là où c'est indiqué, en particulier près de la faune protégée du Mont Canisy, et prévoyez toujours des sacs à déjections.",
+      "faqsFr": [
+        {
+          "q": "Où promener mon chien en liberté près de Deauville ?",
+          "a": "L'espace de vraie liberté est limité dans la station. Les meilleures options sont le cap protégé du Mont Canisy, en laisse, et les immenses plages de Villers-sur-Mer, Blonville et Houlgate hors saison, où les chiens peuvent courir une fois les restrictions estivales levées. En ville, gardez votre chien en laisse."
+        },
+        {
+          "q": "Le Mont Canisy accepte-t-il les chiens ?",
+          "a": "Oui, en laisse. Le Mont Canisy est un site naturel protégé abritant des oiseaux nichant au sol et des animaux au pâturage, les chiens y sont donc acceptés mais doivent rester attachés. C'est la plus belle balade et la plus belle vue des environs, à quelques minutes en voiture ou après une bonne montée depuis Deauville."
+        }
+      ],
+      "titleEs": "Parques y paseos que admiten perros en Deauville",
+      "introEs": "Deauville tiene pocos parques formales pero es rica en paseos al aire libre, y los mejores son realmente especiales: el promontorio protegido de Mont Canisy, el sendero costero a lo largo de la Côte Fleurie y los caminos de sirga llanos junto al río Touques. Suma el paseo de las Planches abierto todo el año y las playas de temporada baja, y a un perro raramente le faltará dónde estirar las patas. Mantén la correa donde esté señalizado, sobre todo cerca de la fauna protegida del Mont Canisy, y lleva siempre bolsas para excrementos.",
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo pasear a mi perro sin correa cerca de Deauville?",
+          "a": "El espacio realmente sin correa es limitado en el balneario. Las mejores opciones son el promontorio protegido de Mont Canisy con correa, y las inmensas playas de Villers-sur-Mer, Blonville y Houlgate fuera de temporada, donde los perros pueden correr una vez que se levantan las restricciones de verano. En la ciudad, mantén a tu perro atado."
+        },
+        {
+          "q": "¿Se admiten perros en el Mont Canisy?",
+          "a": "Sí, con correa. El Mont Canisy es un espacio natural protegido con aves que anidan en el suelo y animales de pasto, así que los perros son bienvenidos pero deben permanecer atados. Ofrece el mejor paseo y la mejor vista de la zona, a un corto trayecto en coche o una subida constante desde Deauville."
+        }
+      ],
+      "titlePt": "Parques e Passeios Pet-Friendly em Deauville",
+      "introPt": "Deauville tem poucos parques formais, mas é rica em passeios ao ar livre, e os melhores são verdadeiramente especiais: o promontório protegido de Mont Canisy, o trilho costeiro ao longo da Côte Fleurie e os caminhos planos junto ao rio Touques. Junte-lhe o passadiço das Planches, aberto todo o ano, e as praias fora de época, e um cão dificilmente ficará sem sítio para esticar as patas. Mantenha a trela onde estiver indicado, especialmente perto da fauna protegida de Mont Canisy, e leve sempre sacos para os dejetos.",
+      "faqsPt": [
+        {
+          "q": "Onde posso passear o meu cão sem trela perto de Deauville?",
+          "a": "O espaço verdadeiramente livre de trela é limitado na estância. As melhores opções são o promontório protegido de Mont Canisy, à trela, e as vastas praias de Villers-sur-Mer, Blonville e Houlgate fora de época, onde os cães podem correr assim que as restrições de verão terminam. Na cidade, mantenha o seu cão à trela."
+        },
+        {
+          "q": "Mont Canisy é pet-friendly?",
+          "a": "Sim, à trela. Mont Canisy é um sítio natural protegido, com aves que nidificam no solo e animais a pastar, por isso os cães são bem-vindos mas têm de permanecer presos. Oferece o melhor passeio e a melhor vista da zona, a uma curta viagem de carro ou uma subida constante a partir de Deauville."
+        }
+      ],
+      "titleDe": "Hundefreundliche Parks & Spaziergänge in Deauville",
+      "introDe": "Deauville hat wenige klassische Parks, dafür reichlich Spaziergänge unter freiem Himmel, und die besten davon sind wirklich besonders: die geschützte Landzunge des Mont Canisy, der Küstenpfad entlang der Côte Fleurie und die flachen Treidelpfade am Fluss Touques. Dazu die ganzjährige Promenade der Planches und die Strände außerhalb der Saison, sodass es einem Hund selten an Auslauf mangelt. Halten Sie die Leine dort, wo es ausgeschildert ist, insbesondere in der Nähe der geschützten Tierwelt des Mont Canisy, und führen Sie stets Kotbeutel mit.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich meinen Hund in der Nähe von Deauville ohne Leine spazieren führen?",
+          "a": "Echter Freilauf ist im Badeort begrenzt. Die besten Optionen sind die geschützte Landzunge des Mont Canisy (angeleint) und außerhalb der Saison die weiten Strände von Villers-sur-Mer, Blonville und Houlgate, wo Hunde laufen können, sobald die Sommerbeschränkungen aufgehoben sind. In der Stadt halten Sie Ihren Hund angeleint."
+        },
+        {
+          "q": "Ist der Mont Canisy hundefreundlich?",
+          "a": "Ja, an der Leine. Der Mont Canisy ist ein geschütztes Naturgebiet mit bodenbrütenden Vögeln und Weidetieren, Hunde sind daher willkommen, müssen aber angeleint bleiben. Er bietet den besten Spaziergang und die beste Aussicht der Gegend, eine kurze Autofahrt oder einen stetigen Aufstieg von Deauville entfernt."
+        }
+      ],
+      "titleNl": "Hondvriendelijke parken en wandelingen in Deauville",
+      "introNl": "Deauville heeft weinig formele parken, maar des te meer openluchtwandelingen, en de beste ervan zijn echt bijzonder: de beschermde landtong Mont Canisy, het kustpad langs de Côte Fleurie, en de vlakke jaagpaden langs de rivier de Touques. Voeg daar de hele-jaar-door promenade les Planches en de stranden buiten het seizoen aan toe, en een hond komt zelden plek tekort om de benen te strekken. Houd je hond aangelijnd waar dat is aangegeven, vooral rond de beschermde natuur van Mont Canisy, en neem altijd poepzakjes mee.",
+      "faqsNl": [
+        {
+          "q": "Waar kan ik mijn hond loslaten bij Deauville?",
+          "a": "Echte losloopruimte is beperkt in de badplaats. De beste opties zijn de beschermde landtong Mont Canisy aan de lijn, en de uitgestrekte stranden van Villers-sur-Mer, Blonville en Houlgate buiten het seizoen, waar honden mogen rennen zodra de zomerbeperkingen opgeheven zijn. Houd je hond in de stad aangelijnd."
+        },
+        {
+          "q": "Is Mont Canisy hondvriendelijk?",
+          "a": "Ja, aan de lijn. Mont Canisy is een beschermd natuurgebied met grondbroedende vogels en grazende dieren, dus honden zijn welkom maar moeten aangelijnd blijven. Het biedt de mooiste wandeling en het beste uitzicht van de streek, een korte rit of een stevige klim vanuit Deauville."
+        }
+      ],
+      "titleIt": "Parchi e passeggiate pet-friendly a Deauville",
+      "introIt": "Deauville ha pochi parchi veri e propri ma è ricca di passeggiate all'aperto, e le migliori sono davvero speciali: il promontorio protetto di Mont Canisy, il sentiero costiero lungo la Côte Fleurie e gli argini piatti lungo il fiume Touques. Aggiungi la passerella delle Planches aperta tutto l'anno e le spiagge fuori stagione, e un cane raramente resta senza un posto dove sgranchirsi le zampe. Tieni il guinzaglio dove indicato, soprattutto vicino alla fauna protetta di Mont Canisy, e porta sempre i sacchetti per la cacca.",
+      "faqsIt": [
+        {
+          "q": "Dove posso portare il cane a spasso libero vicino a Deauville?",
+          "a": "Lo spazio veramente libero è limitato nella città. Le migliori opzioni sono il promontorio protetto di Mont Canisy al guinzaglio, e le vaste spiagge di Villers-sur-Mer, Blonville e Houlgate fuori stagione, dove i cani possono correre una volta tolte le restrizioni estive. In città, tieni il cane al guinzaglio."
+        },
+        {
+          "q": "Mont Canisy è pet-friendly?",
+          "a": "Sì, al guinzaglio. Mont Canisy è un sito naturale protetto con uccelli che nidificano a terra e animali al pascolo, quindi i cani sono benvenuti ma devono restare al guinzaglio. Offre la passeggiata migliore e la vista migliore della zona, a breve distanza in auto o con una salita costante da Deauville."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting to & Around Deauville with a Dog",
+      "introEn": "Deauville is one of the easiest coastal escapes from Paris with a dog. Direct trains from Paris Saint-Lazare reach Deauville-Trouville in about two hours, and SNCF carries dogs for a small flat fee: little ones travel in a carrier on your lap, larger dogs muzzled and on the lead. Once there, the town is flat and walkable, so most visitors barely need transport, and the short crossing of the Touques links Deauville to Trouville on foot. Local Nomad buses take small leashed dogs, and taxis carry dogs at the driver's discretion.",
+      "places": [],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the train to Deauville?",
+          "a": "Yes. SNCF trains from Paris Saint-Lazare to Deauville-Trouville accept dogs for a flat fee of around 7€. Small dogs travel in a carrier and larger dogs must be muzzled and kept on the lead. Trains fill fast on summer and race weekends, so travel light and board early."
+        },
+        {
+          "q": "Do I need a car in Deauville?",
+          "a": "Not really. The beach, Planches, marina, market and racecourse are all within an easy flat walk, and Trouville is a short crossing on foot. A car helps for Mont Canisy and the wider Côte Fleurie beaches, but you can enjoy a weekend car-free."
+        },
+        {
+          "q": "Are dogs allowed on local buses in Deauville?",
+          "a": "Small dogs in a carrier are generally accepted on the regional Nomad buses, and larger dogs on the lead and muzzled at the driver's discretion. For the very short hop to Trouville it is usually simpler and nicer to walk across the footbridge."
+        }
+      ],
+      "titleFr": "Se rendre à Deauville et s'y déplacer avec un chien",
+      "introFr": "Deauville est l'une des escapades côtières les plus faciles depuis Paris avec un chien. Les trains directs depuis Paris Saint-Lazare rejoignent Deauville-Trouville en environ deux heures, et la SNCF transporte les chiens pour un petit forfait fixe : les petits voyagent en cage de transport sur les genoux, les plus grands muselés et en laisse. Une fois sur place, la ville est plate et se parcourt à pied, si bien que la plupart des visiteurs n'ont guère besoin de transport, et la courte traversée de la Touques relie Deauville à Trouville à pied. Les bus locaux Nomad acceptent les petits chiens en laisse, et les taxis prennent les chiens à la discrétion du chauffeur.",
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien dans le train pour Deauville ?",
+          "a": "Oui. Les trains SNCF de Paris Saint-Lazare à Deauville-Trouville acceptent les chiens pour un forfait d'environ 7€. Les petits chiens voyagent en cage de transport et les plus grands doivent être muselés et tenus en laisse. Les trains se remplissent vite les week-ends d'été et de courses, voyagez léger et montez tôt."
+        },
+        {
+          "q": "Ai-je besoin d'une voiture à Deauville ?",
+          "a": "Pas vraiment. La plage, les Planches, la marina, le marché et l'hippodrome sont tous accessibles à pied facilement et à plat, et Trouville n'est qu'une courte traversée à pied. Une voiture est utile pour le Mont Canisy et les plages plus larges de la Côte Fleurie, mais on peut profiter d'un week-end sans voiture."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés dans les bus locaux à Deauville ?",
+          "a": "Les petits chiens en cage de transport sont généralement acceptés dans les bus régionaux Nomad, et les plus grands en laisse et muselés à la discrétion du chauffeur. Pour le très court trajet jusqu'à Trouville, il est en général plus simple et plus agréable de traverser la passerelle à pied."
+        }
+      ],
+      "titleEs": "Cómo llegar y moverse por Deauville con un perro",
+      "introEs": "Deauville es una de las escapadas costeras más fáciles desde París con un perro. Los trenes directos desde París Saint-Lazare llegan a Deauville-Trouville en unas dos horas, y la SNCF transporta perros por una pequeña tarifa fija: los pequeños viajan en transportín en tu regazo, los grandes con bozal y correa. Una vez allí, la ciudad es llana y se recorre a pie, así que la mayoría de los visitantes apenas necesitan transporte, y el corto cruce del Touques conecta Deauville con Trouville a pie. Los autobuses locales Nomad admiten perros pequeños con correa, y los taxis llevan perros a criterio del conductor.",
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el tren hasta Deauville?",
+          "a": "Sí. Los trenes de la SNCF desde París Saint-Lazare hasta Deauville-Trouville admiten perros por una tarifa fija de unos 7€. Los perros pequeños viajan en transportín y los grandes deben llevar bozal e ir con correa. Los trenes se llenan rápido los fines de semana de verano y de carreras, así que viaja ligero y sube pronto."
+        },
+        {
+          "q": "¿Necesito coche en Deauville?",
+          "a": "En realidad no. La playa, las Planches, el puerto deportivo, el mercado y el hipódromo quedan todos a un fácil paseo llano, y Trouville está a un corto cruce a pie. Un coche ayuda para el Mont Canisy y las playas más amplias de la Côte Fleurie, pero se puede disfrutar de un fin de semana sin coche."
+        },
+        {
+          "q": "¿Se admiten perros en los autobuses locales de Deauville?",
+          "a": "Los perros pequeños en transportín suelen aceptarse en los autobuses regionales Nomad, y los perros grandes con correa y bozal a criterio del conductor. Para el trayecto tan corto hasta Trouville suele ser más sencillo y agradable cruzar a pie por la pasarela."
+        }
+      ],
+      "titlePt": "Como Chegar e Circular em Deauville com um Cão",
+      "introPt": "Deauville é uma das escapadelas costeiras mais fáceis a partir de Paris com um cão. Os comboios directos a partir de Paris Saint-Lazare chegam a Deauville-Trouville em cerca de duas horas, e a SNCF transporta cães mediante uma pequena tarifa fixa: os mais pequenos viajam numa transportadora ao colo, os cães maiores açaimados e à trela. Uma vez lá, a cidade é plana e fácil de percorrer a pé, pelo que a maioria dos visitantes quase não precisa de transporte, e a curta travessia do Touques liga Deauville a Trouville a pé. Os autocarros locais Nomad aceitam cães pequenos à trela, e os táxis transportam cães ao critério do condutor.",
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão no comboio para Deauville?",
+          "a": "Sim. Os comboios da SNCF de Paris Saint-Lazare para Deauville-Trouville aceitam cães mediante uma tarifa fixa de cerca de 7€. Os cães pequenos viajam numa transportadora e os cães maiores têm de estar açaimados e à trela. Os comboios enchem depressa nos fins-de-semana de verão e de corridas, por isso viaje com pouca bagagem e embarque cedo."
+        },
+        {
+          "q": "Preciso de carro em Deauville?",
+          "a": "Não muito. A praia, as Planches, a marina, o mercado e o hipódromo ficam todos a uma distância fácil a pé, e Trouville é uma curta travessia a pé. Um carro ajuda para Mont Canisy e para as praias mais alargadas da Côte Fleurie, mas pode desfrutar de um fim-de-semana sem carro."
+        },
+        {
+          "q": "Os cães são permitidos nos autocarros locais em Deauville?",
+          "a": "Os cães pequenos numa transportadora são geralmente aceites nos autocarros regionais Nomad, e os cães maiores à trela e açaimados, ao critério do condutor. Para o pequeno trajecto até Trouville, é normalmente mais simples e mais agradável atravessar a pé pela ponte pedonal."
+        }
+      ],
+      "titleDe": "Anreise nach & Fortbewegung in Deauville mit Hund",
+      "introDe": "Deauville ist eines der am leichtesten erreichbaren Küstenziele von Paris aus mit Hund. Direktzüge von Paris Saint-Lazare erreichen Deauville-Trouville in rund zwei Stunden, und die SNCF befördert Hunde für eine geringe Pauschalgebühr: kleine reisen in einer Transporttasche auf dem Schoß, größere maulkorbpflichtig und an der Leine. Vor Ort ist die Stadt flach und gut zu Fuß erreichbar, sodass die meisten Besucher kaum Transportmittel benötigen, und die kurze Überquerung der Touques verbindet Deauville zu Fuß mit Trouville. Die lokalen Nomad-Busse nehmen kleine angeleinte Hunde mit, und Taxis befördern Hunde nach Ermessen des Fahrers.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund im Zug nach Deauville mitnehmen?",
+          "a": "Ja. SNCF-Züge von Paris Saint-Lazare nach Deauville-Trouville akzeptieren Hunde für eine Pauschalgebühr von rund 7€. Kleine Hunde reisen in einer Transporttasche, größere Hunde müssen einen Maulkorb tragen und an der Leine geführt werden. Züge sind an Sommer- und Renn-Wochenenden schnell voll, reisen Sie also mit wenig Gepäck und steigen Sie früh ein."
+        },
+        {
+          "q": "Brauche ich in Deauville ein Auto?",
+          "a": "Nicht wirklich. Strand, Planches, Yachthafen, Markt und Rennbahn liegen alle in bequemer flacher Gehdistanz, und Trouville ist zu Fuß nur eine kurze Überquerung entfernt. Ein Auto hilft für den Mont Canisy und die weiter entfernten Strände der Côte Fleurie, ein autofreies Wochenende ist aber gut möglich."
+        },
+        {
+          "q": "Sind Hunde in den örtlichen Bussen in Deauville erlaubt?",
+          "a": "Kleine Hunde in einer Transporttasche werden in den regionalen Nomad-Bussen in der Regel akzeptiert, größere Hunde an der Leine und mit Maulkorb nach Ermessen des Fahrers. Für den sehr kurzen Weg nach Trouville ist es meist einfacher und angenehmer, über die Fußgängerbrücke zu gehen."
+        }
+      ],
+      "titleNl": "Naar en rond Deauville reizen met een hond",
+      "introNl": "Deauville is een van de makkelijkste kustuitstapjes vanuit Parijs met een hond. Rechtstreekse treinen vanaf Parijs Saint-Lazare bereiken Deauville-Trouville in ongeveer twee uur, en SNCF vervoert honden voor een klein vast tarief: kleintjes reizen in een mand op schoot, grotere honden gemuilkorfd en aangelijnd. Eenmaal aangekomen is de stad vlak en goed te belopen, dus de meeste bezoekers hebben nauwelijks vervoer nodig, en de korte oversteek van de Touques verbindt Deauville te voet met Trouville. De lokale Nomad-bussen nemen kleine aangelijnde honden mee, en taxi's vervoeren honden naar goeddunken van de chauffeur.",
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen in de trein naar Deauville?",
+          "a": "Ja. SNCF-treinen van Parijs Saint-Lazare naar Deauville-Trouville accepteren honden voor een vast tarief van rond de 7 euro. Kleine honden reizen in een mand en grotere honden moeten gemuilkorfd en aangelijnd zijn. Treinen raken in de zomer en op wedrenweekenden snel vol, dus reis licht en stap vroeg in."
+        },
+        {
+          "q": "Heb ik een auto nodig in Deauville?",
+          "a": "Niet echt. Het strand, les Planches, de jachthaven, de markt en de renbaan liggen allemaal op een makkelijke vlakke wandelafstand, en Trouville is een korte oversteek te voet. Een auto is handig voor Mont Canisy en de bredere stranden van de Côte Fleurie, maar je kunt een weekend prima zonder auto genieten."
+        },
+        {
+          "q": "Mogen honden mee in de lokale bussen in Deauville?",
+          "a": "Kleine honden in een mand worden doorgaans geaccepteerd in de regionale Nomad-bussen, en grotere honden aangelijnd en gemuilkorfd naar goeddunken van de chauffeur. Voor het heel korte stukje naar Trouville is het meestal simpeler en fijner om over de voetgangersbrug te lopen."
+        }
+      ],
+      "titleIt": "Come arrivare e muoversi a Deauville con un cane",
+      "introIt": "Deauville è una delle fughe costiere più facili da Parigi con un cane. I treni diretti da Parigi Saint-Lazare raggiungono Deauville-Trouville in circa due ore, e SNCF trasporta i cani per una piccola tariffa fissa: quelli piccoli viaggiano in trasportino sulle ginocchia, quelli grandi con museruola e al guinzaglio. Una volta arrivati, la città è piatta e percorribile a piedi, quindi la maggior parte dei visitatori ha appena bisogno di trasporti, e il breve attraversamento della Touques collega Deauville a Trouville a piedi. Gli autobus locali Nomad accettano cani piccoli al guinzaglio, e i taxi trasportano cani a discrezione dell'autista.",
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane in treno a Deauville?",
+          "a": "Sì. I treni SNCF da Parigi Saint-Lazare a Deauville-Trouville accettano cani per una tariffa fissa di circa 7€. I cani piccoli viaggiano in trasportino e quelli grandi devono avere la museruola e stare al guinzaglio. I treni si riempiono in fretta nei weekend estivi e di corse, quindi viaggia leggero e sali presto."
+        },
+        {
+          "q": "Serve l'auto a Deauville?",
+          "a": "Non proprio. La spiaggia, le Planches, il porticciolo, il mercato e l'ippodromo sono tutti raggiungibili con una facile camminata piatta, e Trouville è a un breve attraversamento a piedi. L'auto aiuta per Mont Canisy e le spiagge più ampie della Côte Fleurie, ma puoi goderti un weekend senza macchina."
+        },
+        {
+          "q": "I cani sono ammessi sugli autobus locali a Deauville?",
+          "a": "I cani piccoli in trasportino sono generalmente accettati sugli autobus regionali Nomad, e i cani grandi al guinzaglio e con museruola a discrezione dell'autista. Per il breve salto a Trouville è di solito più semplice e piacevole attraversare a piedi la passerella."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in & around Deauville",
+      "introEn": "This is the one thing to plan around: Deauville's guarded beach, like Trouville's, is closed to dogs from mid-June to mid-September, when the resort is busiest. Outside that window dogs are welcome on the sand, and even in peak season the 664-metre Planches boardwalk stays open to leashed dogs, with the beach itself open early and late in the day and at the far ends. For unrestricted off-season sand, the neighbouring Côte Fleurie beaches at Villers-sur-Mer, Blonville and Houlgate are superb, and always carry waste bags.",
+      "places": [
+        {
+          "name": "Deauville Beach & Les Planches",
+          "distance": "Town centre",
+          "description": "The wide golden beach fronted by the famous Planches boardwalk. Leashed dogs can use the boardwalk all year and the sand outside the summer ban, with early-morning and evening access even in peak season at the far western and eastern ends. It is the postcard Deauville walk, parasols and beach cabins included.",
+          "season": "Dogs on the Planches year-round; beach off-limits mid-June to mid-September except early morning, evening and at the far ends",
+          "rules": "Dogs on the lead on the Planches and dyke; waste bags mandatory; no dogs on the guarded sand in the summer season",
+          "facilities": "Boardwalk, cafés, beach cabins, showers, nearby parking",
+          "googleMapsUrl": "https://maps.google.com/?q=Deauville+Beach+Les+Planches",
+          "photo": "",
+          "descriptionFr": "La large plage dorée bordée par la célèbre promenade des Planches. Les chiens en laisse peuvent utiliser les planches toute l'année et le sable en dehors de l'interdiction estivale, avec un accès tôt le matin et en soirée même en pleine saison, aux extrémités ouest et est. C'est la balade carte postale de Deauville, parasols et cabines de plage inclus.",
+          "seasonFr": "Chiens sur les Planches toute l'année ; plage interdite de mi-juin à mi-septembre sauf tôt le matin, en soirée et aux extrémités",
+          "rulesFr": "Chiens en laisse sur les Planches et la digue ; sacs à déjections obligatoires ; pas de chiens sur le sable surveillé en saison estivale",
+          "descriptionEs": "La amplia playa dorada frente al famoso paseo de las Planches. Los perros con correa pueden usar el paseo marítimo todo el año y la arena fuera de la prohibición de verano, con acceso a primera hora de la mañana y al atardecer incluso en temporada alta, en los extremos más occidental y oriental. Es el paseo de postal de Deauville, con sombrillas y casetas de playa incluidas.",
+          "seasonEs": "Perros en las Planches todo el año; playa prohibida de mediados de junio a mediados de septiembre salvo por la mañana temprano, al atardecer y en los extremos",
+          "rulesEs": "Perros con correa en las Planches y el dique; bolsas para excrementos obligatorias; sin perros en la arena vigilada durante la temporada de verano",
+          "descriptionPt": "A larga praia dourada, com o famoso passadiço das Planches à frente. Os cães à trela podem usar o passadiço durante todo o ano e a areia fora do período de proibição de verão, com acesso de manhã cedo e ao final da tarde mesmo em época alta, nos extremos oeste e este. É o passeio postal de Deauville, chapéus-de-sol e cabines de praia incluídos.",
+          "seasonPt": "Cães nas Planches durante todo o ano; praia interdita de meados de Junho a meados de Setembro, excepto de manhã cedo, ao final da tarde e nos extremos",
+          "rulesPt": "Cães à trela nas Planches e no dique; sacos para os dejetos obrigatórios; nenhum cão na areia vigiada durante a época de verão",
+          "descriptionDe": "Der breite goldene Strand vor der berühmten Promenade der Planches. Angeleinte Hunde dürfen die Promenade das ganze Jahr über nutzen und den Sand außerhalb des Sommerverbots, mit Zugang morgens früh und abends selbst in der Hochsaison an den äußersten westlichen und östlichen Enden. Der Postkarten-Spaziergang schlechthin, samt Sonnenschirmen und Strandkabinen.",
+          "seasonDe": "Hunde auf den Planches das ganze Jahr über; Strand von Mitte Juni bis Mitte September gesperrt, außer morgens früh, abends und an den äußersten Enden",
+          "rulesDe": "Hunde an der Leine auf den Planches und dem Deich; Kotbeutel vorgeschrieben; keine Hunde am bewachten Sand in der Sommersaison",
+          "descriptionNl": "Het brede, gouden strand met de beroemde promenade les Planches ervoor. Aangelijnde honden mogen het hele jaar op de boulevard en buiten het zomerverbod ook op het zand, met zelfs in het hoogseizoen toegang vroeg in de ochtend en 's avonds aan de uiterste westelijke en oostelijke uiteinden. Het is de ansichtkaartwandeling van Deauville, inclusief parasols en strandhuisjes.",
+          "seasonNl": "Honden het hele jaar op les Planches; strand verboden terrein van half juni tot half september, behalve vroeg in de ochtend, 's avonds en aan de uiteinden",
+          "rulesNl": "Honden aangelijnd op les Planches en de dijk; poepzakjes verplicht; geen honden op het bewaakte zand in het zomerseizoen",
+          "descriptionIt": "La larga spiaggia dorata affacciata sulla famosa passerella delle Planches. I cani al guinzaglio possono usare la passerella tutto l'anno e la sabbia fuori dal divieto estivo, con accesso al mattino presto e alla sera anche in alta stagione alle estremità occidentale e orientale. È la passeggiata da cartolina di Deauville, ombrelloni e cabine da spiaggia incluse.",
+          "seasonIt": "Cani sulle Planches tutto l'anno; spiaggia vietata da metà giugno a metà settembre tranne al mattino presto, alla sera e alle estremità",
+          "rulesIt": "Cani al guinzaglio sulle Planches e sulla diga; sacchetti per la cacca obbligatori; niente cani sulla sabbia sorvegliata durante la stagione estiva"
+        },
+        {
+          "name": "Trouville-sur-Mer Beach",
+          "distance": "Across the Touques, about 15 minutes on foot",
+          "description": "Deauville's livelier twin beach, reached over the footbridge, with its own boardwalk (Les Planches de Trouville) and a broad stretch of sand below the painterly town. It follows the same seasonal dog rules as Deauville, so it is a fine off-season sand walk and a boardwalk option in summer.",
+          "season": "Same rules as Deauville: beach off-limits to dogs mid-June to mid-September, open the rest of the year",
+          "rules": "Leashed on the boardwalk and in town; waste bags mandatory; guarded sand closed to dogs in season",
+          "facilities": "Boardwalk, fish market nearby, cafés, showers",
+          "googleMapsUrl": "https://maps.google.com/?q=Trouville-sur-Mer+beach",
+          "photo": "",
+          "descriptionFr": "La plage jumelle de Deauville, plus animée, accessible par la passerelle, avec ses propres planches (les Planches de Trouville) et une large étendue de sable sous la ville pittoresque. Elle suit les mêmes règles saisonnières que Deauville concernant les chiens, ce qui en fait une belle balade sur le sable hors saison et une option de promenade en été.",
+          "seasonFr": "Mêmes règles qu'à Deauville : plage interdite aux chiens de mi-juin à mi-septembre, ouverte le reste de l'année",
+          "rulesFr": "En laisse sur les planches et en ville ; sacs à déjections obligatoires ; sable surveillé fermé aux chiens en saison",
+          "descriptionEs": "La playa gemela más animada de Deauville, a la que se llega cruzando la pasarela, con su propio paseo marítimo (Les Planches de Trouville) y un amplio tramo de arena bajo la pintoresca ciudad. Sigue las mismas normas estacionales para perros que Deauville, así que es un buen paseo de arena fuera de temporada y una opción de paseo marítimo en verano.",
+          "seasonEs": "Mismas normas que Deauville: playa prohibida para perros de mediados de junio a mediados de septiembre, abierta el resto del año",
+          "rulesEs": "Con correa en el paseo marítimo y en la ciudad; bolsas para excrementos obligatorias; arena vigilada cerrada a los perros en temporada",
+          "descriptionPt": "A praia gémea mais animada de Deauville, alcançada pela ponte pedonal, com o seu próprio passadiço (Les Planches de Trouville) e uma larga faixa de areia por baixo da cidade pitoresca. Segue as mesmas regras sazonais para cães que Deauville, sendo por isso um bom passeio de areia fora de época e uma opção de passadiço no verão.",
+          "seasonPt": "Mesmas regras que Deauville: praia interdita a cães de meados de Junho a meados de Setembro, aberta o resto do ano",
+          "rulesPt": "À trela no passadiço e na cidade; sacos para os dejetos obrigatórios; areia vigiada fechada a cães em época",
+          "descriptionDe": "Deauvilles lebendigerer Zwillingsstrand, über die Fußgängerbrücke erreichbar, mit eigener Promenade (Les Planches de Trouville) und einem breiten Sandstreifen unterhalb der malerischen Stadt. Es gelten dieselben saisonalen Hunderegeln wie in Deauville, ein schöner Strandspaziergang außerhalb der Saison und im Sommer eine Option für die Promenade.",
+          "seasonDe": "Gleiche Regeln wie Deauville: Strand für Hunde von Mitte Juni bis Mitte September gesperrt, den Rest des Jahres geöffnet",
+          "rulesDe": "Angeleint auf der Promenade und in der Stadt; Kotbeutel vorgeschrieben; bewachter Sand in der Saison für Hunde gesperrt",
+          "descriptionNl": "Het levendigere tweelingstrand van Deauville, bereikbaar via de voetgangersbrug, met een eigen promenade (Les Planches de Trouville) en een breed stuk strand onder de schilderachtige stad. Het volgt dezelfde seizoensregels voor honden als Deauville, dus het is een mooie strandwandeling buiten het seizoen en in de zomer een optie voor de boulevard.",
+          "seasonNl": "Zelfde regels als Deauville: strand verboden voor honden van half juni tot half september, de rest van het jaar open",
+          "rulesNl": "Aangelijnd op de boulevard en in de stad; poepzakjes verplicht; bewaakt zand in het seizoen gesloten voor honden",
+          "descriptionIt": "La spiaggia gemella più vivace di Deauville, raggiungibile attraverso la passerella pedonale, con una propria passerella (Les Planches de Trouville) e un ampio tratto di sabbia sotto la pittoresca città. Segue le stesse regole stagionali per i cani di Deauville, quindi è una bella passeggiata sulla sabbia fuori stagione e un'opzione di passerella in estate.",
+          "seasonIt": "Stesse regole di Deauville: spiaggia vietata ai cani da metà giugno a metà settembre, aperta il resto dell'anno",
+          "rulesIt": "Al guinzaglio sulla passerella e in città; sacchetti per la cacca obbligatori; sabbia sorvegliata chiusa ai cani in stagione"
+        },
+        {
+          "name": "Villers-sur-Mer & Blonville Beaches",
+          "distance": "About 10-15 minutes west by car",
+          "description": "A long, open sweep of Côte Fleurie sand west of Deauville, backed by the fossil cliffs of the Vaches Noires. Out of season these beaches give dogs room to run near the tideline, and the resort rules are generally more relaxed than Deauville's, making them the go-to for a proper beach outing with a dog.",
+          "season": "More relaxed than Deauville; dogs widely welcome out of season, with summer restrictions on the guarded central sections",
+          "rules": "Check the local signs for the summer zones and times; leashed near the guarded areas; waste bags mandatory",
+          "facilities": "Long beach, promenade, parking, the Paléospace museum at Villers",
+          "googleMapsUrl": "https://maps.google.com/?q=Villers-sur-Mer+beach",
+          "photo": "",
+          "descriptionFr": "Une longue étendue de sable de la Côte Fleurie à l'ouest de Deauville, dominée par les falaises fossilifères des Vaches Noires. Hors saison, ces plages laissent aux chiens de la place pour courir près du bord de l'eau, et les règles y sont en général plus souples qu'à Deauville, ce qui en fait l'endroit de référence pour une vraie sortie de plage avec un chien.",
+          "seasonFr": "Plus souple qu'à Deauville ; chiens largement acceptés hors saison, avec des restrictions estivales sur les portions surveillées centrales",
+          "rulesFr": "Vérifiez la signalétique locale pour les zones et horaires d'été ; en laisse près des zones surveillées ; sacs à déjections obligatoires",
+          "descriptionEs": "Un largo y abierto tramo de arena de la Côte Fleurie al oeste de Deauville, respaldado por los acantilados fósiles de las Vaches Noires. Fuera de temporada estas playas dan a los perros espacio para correr cerca de la orilla, y las normas del balneario son generalmente más relajadas que las de Deauville, lo que las convierte en la opción de referencia para una salida de playa como es debido con un perro.",
+          "seasonEs": "Más relajado que Deauville; perros ampliamente bienvenidos fuera de temporada, con restricciones de verano en las secciones centrales vigiladas",
+          "rulesEs": "Consulta los carteles locales para conocer las zonas y horarios de verano; con correa cerca de las áreas vigiladas; bolsas para excrementos obligatorias",
+          "descriptionPt": "Uma extensão longa e aberta de areia da Côte Fleurie a oeste de Deauville, com as falésias fósseis das Vaches Noires como pano de fundo. Fora de época, estas praias dão espaço aos cães para correr perto da linha de água, e as regras da estância são geralmente mais flexíveis do que as de Deauville, tornando-as a opção certa para uma verdadeira saída à praia com um cão.",
+          "seasonPt": "Mais flexível do que Deauville; cães amplamente bem-vindos fora de época, com restrições de verão nas secções centrais vigiadas",
+          "rulesPt": "Verifique a sinalização local para as zonas e horários de verão; à trela perto das áreas vigiadas; sacos para os dejetos obrigatórios",
+          "descriptionDe": "Ein langer, offener Streifen Côte-Fleurie-Sand westlich von Deauville, im Hintergrund die fossilienreichen Klippen der Vaches Noires. Außerhalb der Saison bieten diese Strände Hunden Platz zum Laufen nahe der Wasserlinie, und die Regeln des Badeorts sind allgemein lockerer als in Deauville, was sie zur ersten Wahl für einen richtigen Strandausflug mit Hund macht.",
+          "seasonDe": "Lockerer als Deauville; Hunde außerhalb der Saison vielerorts willkommen, mit Sommerbeschränkungen in den bewachten zentralen Abschnitten",
+          "rulesDe": "Örtliche Hinweisschilder für Sommerzonen und -zeiten beachten; angeleint nahe den bewachten Bereichen; Kotbeutel vorgeschrieben",
+          "descriptionNl": "Een lange, open uitgestrektheid zand van de Côte Fleurie ten westen van Deauville, met de fossielenrijke kliffen van de Vaches Noires op de achtergrond. Buiten het seizoen geven deze stranden honden de ruimte om te rennen langs de waterlijn, en de regels van de badplaats zijn over het algemeen soepeler dan die van Deauville, wat ze de aangewezen plek maakt voor een echte strandwandeling met hond.",
+          "seasonNl": "Soepeler dan Deauville; honden buiten het seizoen breed welkom, met zomerbeperkingen op de bewaakte middengedeeltes",
+          "rulesNl": "Check de lokale borden voor de zomerzones en -tijden; aangelijnd bij de bewaakte gedeeltes; poepzakjes verplicht",
+          "descriptionIt": "Un lungo e aperto tratto di sabbia della Côte Fleurie a ovest di Deauville, alle spalle delle scogliere fossilifere delle Vaches Noires. Fuori stagione queste spiagge danno ai cani spazio per correre vicino alla battigia, e le regole locali sono generalmente più rilassate di quelle di Deauville, il che le rende la scelta ideale per una vera uscita in spiaggia con un cane.",
+          "seasonIt": "Più rilassate di Deauville; cani ampiamente benvenuti fuori stagione, con restrizioni estive nelle zone sorvegliate centrali",
+          "rulesIt": "Controlla la segnaletica locale per le zone e gli orari estivi; al guinzaglio vicino alle aree sorvegliate; sacchetti per la cacca obbligatori"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can dogs go on Deauville beach?",
+          "a": "Only outside the summer season. The guarded sand is closed to dogs from mid-June to mid-September. In that window, use the Planches boardwalk, which allows leashed dogs year-round, plus the early-morning, evening and far-end access on the sand. The rest of the year dogs are welcome on the beach."
+        },
+        {
+          "q": "Where is the nearest dog-friendly beach to Deauville in summer?",
+          "a": "Head west along the Côte Fleurie. Villers-sur-Mer, Blonville and Houlgate are more relaxed than Deauville and give dogs far more room out of season and at the edges of the guarded zones in summer. Always check the local beach signs for exact times and areas."
+        },
+        {
+          "q": "Are the Planches dog-friendly?",
+          "a": "Yes. The 664-metre Planches boardwalk welcomes leashed dogs all year, even when the guarded sand below is closed in summer. It is the classic Deauville walk, so keep your dog on the lead, carry a bag, and enjoy the parasols and film-star cabins."
+        }
+      ],
+      "titleFr": "Plages qui acceptent les chiens à Deauville et aux alentours",
+      "introFr": "C'est le seul point à bien anticiper : la plage surveillée de Deauville, comme celle de Trouville, est interdite aux chiens de mi-juin à mi-septembre, quand la station est la plus fréquentée. En dehors de cette période, les chiens sont acceptés sur le sable, et même en pleine saison la promenade des Planches, longue de 664 mètres, reste ouverte aux chiens en laisse, avec un accès à la plage tôt le matin, en soirée et aux extrémités. Pour un sable sans restriction hors saison, les plages voisines de la Côte Fleurie à Villers-sur-Mer, Blonville et Houlgate sont superbes, et pensez toujours aux sacs à déjections.",
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils aller sur la plage de Deauville ?",
+          "a": "Seulement en dehors de la saison estivale. Le sable surveillé est interdit aux chiens de mi-juin à mi-septembre. Pendant cette période, utilisez la promenade des Planches, ouverte aux chiens en laisse toute l'année, ainsi que l'accès tôt le matin, en soirée et aux extrémités du sable. Le reste de l'année, les chiens sont acceptés sur la plage."
+        },
+        {
+          "q": "Quelle est la plage la plus proche de Deauville qui accepte les chiens en été ?",
+          "a": "Dirigez-vous vers l'ouest, le long de la Côte Fleurie. Villers-sur-Mer, Blonville et Houlgate sont plus souples que Deauville et offrent bien plus d'espace aux chiens hors saison et aux abords des zones surveillées en été. Vérifiez toujours la signalétique locale pour les horaires et zones exacts."
+        },
+        {
+          "q": "Les Planches acceptent-elles les chiens ?",
+          "a": "Oui. La promenade des Planches, longue de 664 mètres, accueille les chiens en laisse toute l'année, même quand le sable surveillé en contrebas est fermé en été. C'est la balade emblématique de Deauville, gardez donc votre chien en laisse, emportez un sac, et profitez des parasols et des cabines aux noms de vedettes."
+        }
+      ],
+      "titleEs": "Playas que admiten perros en Deauville y alrededores",
+      "introEs": "Esto es lo único que hay que planificar con cuidado: la playa vigilada de Deauville, como la de Trouville, está cerrada a los perros de mediados de junio a mediados de septiembre, cuando el balneario está más concurrido. Fuera de ese periodo los perros son bienvenidos en la arena, e incluso en temporada alta el paseo de madera de las Planches, de 664 metros, permanece abierto a los perros con correa, con la propia playa accesible temprano y al final del día y en los extremos más alejados. Para arena sin restricciones fuera de temporada, las playas vecinas de la Côte Fleurie en Villers-sur-Mer, Blonville y Houlgate son estupendas, y lleva siempre bolsas para excrementos.",
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros ir a la playa de Deauville?",
+          "a": "Solo fuera de la temporada de verano. La arena vigilada está cerrada a los perros de mediados de junio a mediados de septiembre. En ese periodo, usa el paseo de las Planches, que admite perros con correa todo el año, además del acceso a primera hora, al atardecer y en los extremos de la arena. El resto del año los perros son bienvenidos en la playa."
+        },
+        {
+          "q": "¿Cuál es la playa que admite perros más cercana a Deauville en verano?",
+          "a": "Dirígete hacia el oeste por la Côte Fleurie. Villers-sur-Mer, Blonville y Houlgate son más relajadas que Deauville y dan a los perros mucho más espacio fuera de temporada y en los bordes de las zonas vigiladas en verano. Consulta siempre los carteles locales de la playa para conocer los horarios y las zonas exactas."
+        },
+        {
+          "q": "¿Se admiten perros en las Planches?",
+          "a": "Sí. El paseo de madera de las Planches, de 664 metros, admite perros con correa todo el año, incluso cuando la arena vigilada de abajo está cerrada en verano. Es el paseo clásico de Deauville, así que mantén a tu perro con correa, lleva una bolsa y disfruta de las sombrillas y las casetas de las estrellas de cine."
+        }
+      ],
+      "titlePt": "Praias Pet-Friendly em Deauville e Arredores",
+      "introPt": "Isto é a única coisa a ter em conta: a praia vigiada de Deauville, tal como a de Trouville, está fechada aos cães de meados de Junho a meados de Setembro, quando a estância está mais cheia. Fora desse período, os cães são bem-vindos na areia, e mesmo em época alta o passadiço das Planches, com 664 metros, mantém-se aberto a cães à trela, com a própria praia acessível de manhã cedo e ao final da tarde e nos extremos. Para areia sem restrições fora de época, as praias vizinhas da Côte Fleurie em Villers-sur-Mer, Blonville e Houlgate são excelentes, e leve sempre sacos para os dejetos.",
+      "faqsPt": [
+        {
+          "q": "Os cães podem ir à praia de Deauville?",
+          "a": "Só fora da época de verão. A areia vigiada está fechada aos cães de meados de Junho a meados de Setembro. Nesse período, use o passadiço das Planches, que permite cães à trela durante todo o ano, além do acesso à areia de manhã cedo, ao final da tarde e nos extremos. No resto do ano, os cães são bem-vindos na praia."
+        },
+        {
+          "q": "Qual é a praia pet-friendly mais próxima de Deauville no verão?",
+          "a": "Siga para oeste, pela Côte Fleurie. Villers-sur-Mer, Blonville e Houlgate são mais flexíveis do que Deauville e dão aos cães muito mais espaço fora de época e nas margens das zonas vigiadas no verão. Verifique sempre a sinalização local para horários e áreas exactas."
+        },
+        {
+          "q": "As Planches são pet-friendly?",
+          "a": "Sim. O passadiço das Planches, com 664 metros, recebe cães à trela durante todo o ano, mesmo quando a areia vigiada em baixo está fechada no verão. É o passeio clássico de Deauville, por isso mantenha o seu cão à trela, leve um saco e desfrute dos chapéus-de-sol e das cabines com nomes de estrelas de cinema."
+        }
+      ],
+      "titleDe": "Hundefreundliche Strände in & um Deauville",
+      "introDe": "Das ist der eine Punkt, den man einplanen muss: Deauvilles bewachter Strand ist, wie der von Trouville, von Mitte Juni bis Mitte September für Hunde gesperrt, wenn im Badeort am meisten los ist. Außerhalb dieses Zeitraums sind Hunde am Sand willkommen, und selbst in der Hochsaison bleibt die 664 Meter lange Promenade der Planches angeleinten Hunden zugänglich, wobei der Strand selbst morgens früh und abends sowie an den äußersten Enden geöffnet ist. Für uneingeschränkten Sand außerhalb der Saison sind die benachbarten Strände der Côte Fleurie bei Villers-sur-Mer, Blonville und Houlgate hervorragend, und führen Sie stets Kotbeutel mit.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde an den Strand von Deauville?",
+          "a": "Nur außerhalb der Sommersaison. Der bewachte Sand ist für Hunde von Mitte Juni bis Mitte September gesperrt. In diesem Zeitraum nutzen Sie die Promenade der Planches, die das ganze Jahr über angeleinte Hunde zulässt, plus den Zugang morgens früh, abends und an den äußersten Enden. Den Rest des Jahres sind Hunde am Strand willkommen."
+        },
+        {
+          "q": "Wo ist im Sommer der nächste hundefreundliche Strand bei Deauville?",
+          "a": "Fahren Sie die Côte Fleurie westwärts. Villers-sur-Mer, Blonville und Houlgate sind lockerer als Deauville und bieten Hunden außerhalb der Saison und an den Rändern der bewachten Zonen im Sommer deutlich mehr Platz. Prüfen Sie stets die örtlichen Strandschilder für genaue Zeiten und Bereiche."
+        },
+        {
+          "q": "Sind die Planches hundefreundlich?",
+          "a": "Ja. Die 664 Meter lange Promenade der Planches heißt angeleinte Hunde das ganze Jahr über willkommen, auch wenn der bewachte Sand darunter im Sommer gesperrt ist. Es ist der klassische Deauville-Spaziergang, halten Sie Ihren Hund also an der Leine, führen Sie einen Beutel mit und genießen Sie die Sonnenschirme und die Strandkabinen im Filmstar-Stil."
+        }
+      ],
+      "titleNl": "Hondvriendelijke stranden in en rond Deauville",
+      "introNl": "Dit is het enige waar je rekening mee moet houden: het bewaakte strand van Deauville, net als dat van Trouville, is van half juni tot half september gesloten voor honden, wanneer de badplaats het drukst is. Buiten die periode zijn honden welkom op het zand, en zelfs in het hoogseizoen blijft de 664 meter lange promenade les Planches open voor aangelijnde honden, met toegang tot het strand zelf vroeg en laat op de dag en aan de uiterste uiteinden. Voor onbeperkt zand buiten het seizoen zijn de naburige stranden van de Côte Fleurie bij Villers-sur-Mer, Blonville en Houlgate voortreffelijk, en neem altijd poepzakjes mee.",
+      "faqsNl": [
+        {
+          "q": "Mogen honden op het strand van Deauville?",
+          "a": "Alleen buiten het zomerseizoen. Het bewaakte zand is van half juni tot half september gesloten voor honden. Gebruik in die periode de promenade les Planches, die het hele jaar aangelijnde honden toelaat, plus de toegang vroeg in de ochtend, 's avonds en aan de uiteinden van het zand. De rest van het jaar zijn honden welkom op het strand."
+        },
+        {
+          "q": "Waar is het dichtstbijzijnde hondvriendelijke strand bij Deauville in de zomer?",
+          "a": "Ga westwaarts langs de Côte Fleurie. Villers-sur-Mer, Blonville en Houlgate zijn soepeler dan Deauville en geven honden veel meer ruimte buiten het seizoen en aan de randen van de bewaakte zones in de zomer. Check altijd de lokale strandborden voor exacte tijden en zones."
+        },
+        {
+          "q": "Zijn les Planches hondvriendelijk?",
+          "a": "Ja. De 664 meter lange promenade les Planches verwelkomt het hele jaar aangelijnde honden, zelfs wanneer het bewaakte zand eronder in de zomer gesloten is. Het is de klassieke wandeling van Deauville, dus houd je hond aan de lijn, neem een zakje mee, en geniet van de parasols en de strandhuisjes vernoemd naar filmsterren."
+        }
+      ],
+      "titleIt": "Spiagge pet-friendly a Deauville e dintorni",
+      "introIt": "Questa è l'unica cosa da tenere in conto nella pianificazione: la spiaggia sorvegliata di Deauville, come quella di Trouville, è chiusa ai cani da metà giugno a metà settembre, quando la città è più affollata. Fuori da questo periodo i cani sono benvenuti sulla sabbia, e anche in alta stagione la passerella delle Planches di 664 metri resta aperta ai cani al guinzaglio, con la spiaggia stessa aperta al mattino presto e alla sera e alle estremità. Per sabbia libera fuori stagione senza restrizioni, le vicine spiagge della Côte Fleurie a Villers-sur-Mer, Blonville e Houlgate sono superbe, e porta sempre i sacchetti per la cacca.",
+      "faqsIt": [
+        {
+          "q": "I cani possono andare sulla spiaggia di Deauville?",
+          "a": "Solo fuori dalla stagione estiva. La sabbia sorvegliata è chiusa ai cani da metà giugno a metà settembre. In quel periodo, usa la passerella delle Planches, che permette cani al guinzaglio tutto l'anno, più l'accesso al mattino presto, alla sera e alle estremità sulla sabbia. Il resto dell'anno i cani sono benvenuti in spiaggia."
+        },
+        {
+          "q": "Qual è la spiaggia pet-friendly più vicina a Deauville in estate?",
+          "a": "Vai verso ovest lungo la Côte Fleurie. Villers-sur-Mer, Blonville e Houlgate sono più rilassate di Deauville e danno ai cani molto più spazio fuori stagione e ai margini delle zone sorvegliate in estate. Controlla sempre la segnaletica locale per gli orari e le aree esatte."
+        },
+        {
+          "q": "Le Planches sono pet-friendly?",
+          "a": "Sì. La passerella delle Planches di 664 metri accoglie cani al guinzaglio tutto l'anno, anche quando la sabbia sorvegliata sotto è chiusa in estate. È la classica passeggiata di Deauville, quindi tieni il cane al guinzaglio, porta un sacchetto e goditi gli ombrelloni e le cabine dedicate alle star del cinema."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Deauville with a Dog",
+      "introEn": "Deauville is an easy, elegant dog trip once you plan around the summer beach ban and the busy race-and-festival weekends. Time your visit for spring, early summer or autumn and you get the beach, the boardwalk and the headland walks with far fewer crowds. Bring waste bags (mandatory and enforced), water for warm boardwalk strolls, and your dog's EU passport, and you are set for a relaxed weekend by the Norman sea.",
+      "places": [],
+      "faqsEn": [
+        {
+          "q": "When is the best time to visit Deauville with a dog?",
+          "a": "Spring and autumn are ideal: mild weather, open beaches and quiet boardwalks. If you come in high summer, plan around the mid-June to mid-September beach ban by using the Planches, the early and late beach access, and the wider Côte Fleurie beaches, and avoid the busiest race weekends if you want calm."
+        },
+        {
+          "q": "Do I need to keep my dog on a lead in Deauville?",
+          "a": "Yes, in town, on the Planches, the dyke and the port quays. Fines apply for loose dogs and uncollected waste. True off-lead space is limited to spots like Mont Canisy and the off-season open beaches, so bring a long line if your dog needs room."
+        },
+        {
+          "q": "Is Deauville expensive for a dog-friendly trip?",
+          "a": "It can be, as a smart resort, but pet fees are modest: dog-friendly hotels typically charge 10-20€ per night, terraces are free to sit at, and the boardwalk, headland and beaches cost nothing. Travelling by train with a dog is cheap at around 7€, so the trip itself need not be pricey."
+        }
+      ],
+      "titleFr": "Conseils pratiques pour visiter Deauville avec un chien",
+      "introFr": "Deauville est une escapade facile et élégante avec un chien, une fois qu'on a anticipé l'interdiction estivale de la plage et les week-ends chargés de courses et de festivals. Choisissez le printemps, le début de l'été ou l'automne pour profiter de la plage, des planches et des balades du cap avec bien moins de monde. Emportez des sacs à déjections (obligatoires et contrôlés), de l'eau pour les balades sur les planches par temps chaud, et le passeport européen de votre chien, et vous êtes prêt pour un week-end tranquille au bord de la mer normande.",
+      "faqsFr": [
+        {
+          "q": "Quelle est la meilleure période pour visiter Deauville avec un chien ?",
+          "a": "Le printemps et l'automne sont idéaux : temps clément, plages ouvertes et planches tranquilles. Si vous venez en plein été, anticipez l'interdiction de plage de mi-juin à mi-septembre en utilisant les Planches, l'accès tôt et tard sur la plage, et les plages plus larges de la Côte Fleurie, et évitez les week-ends de courses les plus chargés si vous voulez du calme."
+        },
+        {
+          "q": "Dois-je garder mon chien en laisse à Deauville ?",
+          "a": "Oui, en ville, sur les Planches, la digue et les quais du port. Des amendes s'appliquent aux chiens en liberté et aux déjections non ramassées. L'espace de vraie liberté se limite à des lieux comme le Mont Canisy et les plages ouvertes hors saison, prévoyez donc une longe si votre chien a besoin d'espace."
+        },
+        {
+          "q": "Deauville est-elle une destination coûteuse pour un séjour avec un chien ?",
+          "a": "Cela peut l'être, en tant que station chic, mais les frais liés aux animaux restent modestes : les hôtels acceptant les chiens facturent en général 10 à 20€ par nuit, les terrasses sont gratuites, et la promenade, le cap et les plages ne coûtent rien. Voyager en train avec un chien reste bon marché, autour de 7€, le séjour lui-même n'a donc pas besoin d'être onéreux."
+        }
+      ],
+      "titleEs": "Consejos prácticos para visitar Deauville con un perro",
+      "introEs": "Deauville es un viaje fácil y elegante con un perro una vez que planificas en torno a la prohibición de playa en verano y los concurridos fines de semana de carreras y festivales. Elige la primavera, el principio del verano o el otoño para disfrutar de la playa, el paseo marítimo y los senderos del promontorio con mucha menos gente. Lleva bolsas para excrementos (obligatorias y controladas), agua para los paseos por el malecón en días de calor, y el pasaporte europeo de tu perro, y tendrás todo listo para un fin de semana relajado junto al mar normando.",
+      "faqsEs": [
+        {
+          "q": "¿Cuál es la mejor época para visitar Deauville con un perro?",
+          "a": "La primavera y el otoño son ideales: clima suave, playas abiertas y paseos marítimos tranquilos. Si vienes en pleno verano, planifica en torno a la prohibición de playa de mediados de junio a mediados de septiembre usando las Planches, el acceso temprano y tardío a la playa, y las playas más amplias de la Côte Fleurie, y evita los fines de semana de carreras más concurridos si buscas tranquilidad."
+        },
+        {
+          "q": "¿Tengo que llevar a mi perro con correa en Deauville?",
+          "a": "Sí, en la ciudad, en las Planches, el dique y los muelles del puerto. Se aplican multas por perros sueltos y por no recoger los excrementos. El espacio realmente sin correa se limita a lugares como el Mont Canisy y las playas abiertas fuera de temporada, así que lleva una correa larga si tu perro necesita espacio."
+        },
+        {
+          "q": "¿Es caro Deauville para un viaje con perro?",
+          "a": "Puede serlo, al ser un balneario elegante, pero las tarifas para mascotas son modestas: los hoteles que admiten perros suelen cobrar entre 10 y 20€ por noche, sentarse en las terrazas es gratis, y el paseo marítimo, el promontorio y las playas no cuestan nada. Viajar en tren con un perro es barato, unos 7€, así que el viaje en sí no tiene por qué salir caro."
+        }
+      ],
+      "titlePt": "Dicas Práticas para Visitar Deauville com um Cão",
+      "introPt": "Deauville é uma viagem fácil e elegante com um cão, desde que se planeie em torno da proibição de verão na praia e dos fins-de-semana movimentados de corridas e festivais. Escolha a primavera, o início do verão ou o outono e terá a praia, o passadiço e os passeios do promontório com muito menos gente. Leve sacos para os dejetos (obrigatórios e fiscalizados), água para os passeios pelo passadiço em dias quentes, e o passaporte europeu do seu cão, e estará pronto para um fim-de-semana descontraído junto ao mar normando.",
+      "faqsPt": [
+        {
+          "q": "Qual é a melhor altura para visitar Deauville com um cão?",
+          "a": "A primavera e o outono são ideais: tempo ameno, praias abertas e passadiços tranquilos. Se vier em pleno verão, planeie em torno da proibição de praia de meados de Junho a meados de Setembro, usando as Planches, o acesso à praia de manhã cedo e ao final da tarde, e as praias mais alargadas da Côte Fleurie, e evite os fins-de-semana de corridas mais movimentados se quiser calma."
+        },
+        {
+          "q": "Preciso de manter o meu cão à trela em Deauville?",
+          "a": "Sim, na cidade, nas Planches, no dique e nos cais do porto. Aplicam-se multas a cães soltos e a dejetos não recolhidos. O espaço verdadeiramente livre de trela limita-se a locais como Mont Canisy e as praias abertas fora de época, por isso leve uma trela longa se o seu cão precisar de espaço."
+        },
+        {
+          "q": "Deauville é cara para uma viagem pet-friendly?",
+          "a": "Pode ser, por ser uma estância chique, mas as taxas para animais são modestas: os hotéis pet-friendly cobram normalmente 10-20€ por noite, sentar-se nas esplanadas é gratuito, e o passadiço, o promontório e as praias não custam nada. Viajar de comboio com um cão é barato, cerca de 7€, pelo que a viagem em si não precisa de ser dispendiosa."
+        }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch in Deauville mit Hund",
+      "introDe": "Deauville ist ein unkomplizierter, eleganter Hundeausflug, sobald man das sommerliche Strandverbot und die geschäftigen Renn- und Festival-Wochenenden einplant. Wählen Sie Frühling, Frühsommer oder Herbst, und Sie erleben Strand, Promenade und Spaziergänge über die Landzunge mit deutlich weniger Trubel. Bringen Sie Kotbeutel mit (vorgeschrieben und kontrolliert), Wasser für warme Spaziergänge auf der Promenade und den EU-Heimtierausweis Ihres Hundes, und Sie sind für ein entspanntes Wochenende am normannischen Meer gerüstet.",
+      "faqsDe": [
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch in Deauville mit Hund?",
+          "a": "Frühling und Herbst sind ideal: mildes Wetter, offene Strände und ruhige Promenaden. Kommen Sie im Hochsommer, planen Sie um das Strandverbot von Mitte Juni bis Mitte September herum, indem Sie die Planches, den frühen und späten Strandzugang sowie die weiteren Strände der Côte Fleurie nutzen, und meiden Sie die geschäftigsten Renn-Wochenenden, wenn Sie Ruhe suchen."
+        },
+        {
+          "q": "Muss ich meinen Hund in Deauville an der Leine führen?",
+          "a": "Ja, in der Stadt, auf den Planches, dem Deich und den Hafenkais. Für freilaufende Hunde und nicht entsorgten Kot werden Bußgelder verhängt. Echter Freilauf beschränkt sich auf Orte wie den Mont Canisy und die offenen Strände außerhalb der Saison, bringen Sie also eine Schleppleine mit, falls Ihr Hund Auslauf braucht."
+        },
+        {
+          "q": "Ist Deauville für einen hundefreundlichen Trip teuer?",
+          "a": "Als eleganter Badeort kann es das sein, doch die Tiergebühren sind moderat: hundefreundliche Hotels berechnen meist 10-20€ pro Nacht, Terrassen kosten zum Sitzen nichts, und Promenade, Landzunge und Strände sind kostenlos. Die Zugreise mit Hund ist mit rund 7€ günstig, der Trip selbst muss also nicht teuer sein."
+        }
+      ],
+      "titleNl": "Praktische tips voor een bezoek aan Deauville met een hond",
+      "introNl": "Deauville is een makkelijke, elegante hondentrip zodra je rekening houdt met het zomerse strandverbod en de drukke wedren- en festivalweekenden. Plan je bezoek in het voorjaar, vroege zomer of najaar en je krijgt het strand, de boulevard en de wandelingen op de landtong met veel minder drukte. Neem poepzakjes mee (verplicht en gehandhaafd), water voor warme wandelingen op de boulevard, en het EU-paspoort van je hond, en je bent klaar voor een ontspannen weekend aan de Normandische zee.",
+      "faqsNl": [
+        {
+          "q": "Wat is de beste tijd om Deauville met een hond te bezoeken?",
+          "a": "Voorjaar en najaar zijn ideaal: mild weer, open stranden en rustige boulevards. Kom je in hoogzomer, houd dan rekening met het strandverbod van half juni tot half september door les Planches te gebruiken, de vroege en late strandtoegang, en de bredere stranden van de Côte Fleurie, en vermijd de drukste wedrenweekenden als je rust wilt."
+        },
+        {
+          "q": "Moet ik mijn hond in Deauville aangelijnd houden?",
+          "a": "Ja, in de stad, op les Planches, de dijk en de havenkades. Losse honden en niet opgeruimde poep worden beboet. Echte losloopruimte is beperkt tot plekken zoals Mont Canisy en de open stranden buiten het seizoen, dus neem een lange lijn mee als je hond ruimte nodig heeft."
+        },
+        {
+          "q": "Is Deauville duur voor een hondvriendelijke trip?",
+          "a": "Dat kan, als chique badplaats, maar de huisdiertoeslagen zijn bescheiden: hondvriendelijke hotels rekenen meestal 10 tot 20 euro per nacht, terrassen zijn gratis om op te zitten, en de boulevard, de landtong en de stranden kosten niets. Reizen met de trein met een hond is goedkoop, rond de 7 euro, dus de trip zelf hoeft niet duur te zijn."
+        }
+      ],
+      "titleIt": "Consigli pratici per visitare Deauville con un cane",
+      "introIt": "Deauville è una gita facile ed elegante con il cane, una volta pianificata attorno al divieto estivo in spiaggia e ai weekend affollati di corse e festival. Scegli primavera, inizio estate o autunno e avrai la spiaggia, la passerella e le camminate sul promontorio con molta meno folla. Porta i sacchetti per la cacca (obbligatori e controllati), acqua per le passeggiate calde sulla passerella e il passaporto UE del tuo cane, e sei pronto per un weekend rilassato sul mare normanno.",
+      "faqsIt": [
+        {
+          "q": "Qual è il periodo migliore per visitare Deauville con un cane?",
+          "a": "Primavera e autunno sono ideali: clima mite, spiagge aperte e passerelle tranquille. Se vieni in piena estate, pianifica tenendo conto del divieto in spiaggia da metà giugno a metà settembre usando le Planches, l'accesso alla spiaggia al mattino presto e alla sera, e le spiagge più ampie della Côte Fleurie, ed evita i weekend di corse più affollati se vuoi tranquillità."
+        },
+        {
+          "q": "Devo tenere il cane al guinzaglio a Deauville?",
+          "a": "Sì, in città, sulle Planches, sulla diga e sulle banchine del porto. Sono previste multe per i cani liberi e gli escrementi non raccolti. Lo spazio veramente libero è limitato a posti come Mont Canisy e le spiagge aperte fuori stagione, quindi porta una lunghina se il tuo cane ha bisogno di spazio."
+        },
+        {
+          "q": "Deauville è cara per una gita pet-friendly?",
+          "a": "Può esserlo, essendo una città balneare elegante, ma le tariffe per gli animali sono modeste: gli hotel pet-friendly chiedono in genere 10-20€ a notte, le terrazze sono gratuite e la passerella, il promontorio e le spiagge non costano nulla. Viaggiare in treno con un cane è economico, circa 7€, quindi il viaggio in sé non deve essere caro."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions & Things to Do in Deauville",
+      "introEn": "Deauville's appeal is mostly outdoors, which suits a dog well: the boardwalk and beach, the marina, the market and the racecourse are all open-air and easy to enjoy on the lead. A few sights, like the interior of Villa Strassburger, do not admit dogs, but their exteriors and grounds still make good waypoints on a walk. Add the fishing port and market across the water in Trouville and you have a full, dog-friendly day without ever needing to leave your companion behind.",
+      "places": [
+        {
+          "name": "Hippodrome de Deauville-La Touques",
+          "neighborhood": "Town centre",
+          "photo": "",
+          "website": "",
+          "description": "The in-town racecourse that sets Deauville's summer rhythm, from the July and August flat meetings to the world-famous yearling sales. Leashed dogs are generally welcome in the outdoor public areas on race days, so you can soak up the horses, hats and atmosphere with your companion beside you.",
+          "dogPolicy": "Leashed dogs generally welcome in outdoor public areas on race days; access can vary by event",
+          "admissionFee": "Often free or low-cost entry to public areas; check the day's programme",
+          "tip": "Check the racing calendar and the event's own rules before you go, as some big meetings restrict access.",
+          "googleMapsUrl": "https://maps.google.com/?q=Hippodrome+Deauville-La+Touques",
+          "descriptionFr": "L'hippodrome en ville qui donne à Deauville son rythme estival, des réunions de plat de juillet et août aux ventes de yearlings mondialement connues. Les chiens en laisse sont généralement acceptés dans les espaces publics extérieurs les jours de courses, vous pouvez donc profiter des chevaux, des chapeaux et de l'ambiance avec votre compagnon à vos côtés.",
+          "dogPolicyFr": "Chiens en laisse généralement acceptés dans les espaces publics extérieurs les jours de courses ; l'accès peut varier selon les événements",
+          "admissionFeeFr": "Entrée souvent gratuite ou peu coûteuse pour les espaces publics ; vérifier le programme du jour",
+          "tipFr": "Vérifiez le calendrier des courses et les règles propres à l'événement avant de vous déplacer, certaines grandes réunions restreignant l'accès.",
+          "descriptionEs": "El hipódromo del centro de la ciudad que marca el ritmo veraniego de Deauville, desde las reuniones de carreras planas de julio y agosto hasta las famosísimas ventas de potros. Los perros con correa suelen ser bienvenidos en las zonas públicas al aire libre los días de carreras, así que puedes disfrutar de los caballos, los sombreros y el ambiente con tu compañero a tu lado.",
+          "dogPolicyEs": "Perros con correa generalmente bienvenidos en las zonas públicas al aire libre los días de carreras; el acceso puede variar según el evento",
+          "admissionFeeEs": "Entrada a menudo gratuita o de bajo coste a las zonas públicas; consulta el programa del día",
+          "tipEs": "Consulta el calendario de carreras y las normas propias del evento antes de ir, ya que algunas grandes reuniones restringen el acceso.",
+          "descriptionPt": "O hipódromo dentro da cidade que dá o ritmo de verão a Deauville, desde as reuniões de corridas planas de Julho e Agosto até aos famosos leilões de potros. Os cães à trela são geralmente bem-vindos nas áreas públicas exteriores nos dias de corrida, para que possa absorver os cavalos, os chapéus e o ambiente com o seu companheiro ao lado.",
+          "dogPolicyPt": "Cães à trela geralmente bem-vindos nas áreas públicas exteriores nos dias de corrida; o acesso pode variar consoante o evento",
+          "admissionFeePt": "Muitas vezes entrada gratuita ou de baixo custo nas áreas públicas; verifique o programa do dia",
+          "tipPt": "Verifique o calendário das corridas e as regras próprias do evento antes de ir, pois algumas grandes reuniões restringem o acesso.",
+          "descriptionDe": "Die Pferderennbahn mitten in der Stadt, die Deauvilles Sommerrhythmus vorgibt, von den Flachrennen im Juli und August bis zu den weltberühmten Fohlenauktionen. Angeleinte Hunde sind an Renntagen in den öffentlichen Außenbereichen in der Regel willkommen, sodass Sie die Pferde, Hüte und die Atmosphäre mit Ihrem Begleiter an Ihrer Seite genießen können.",
+          "dogPolicyDe": "Angeleinte Hunde an Renntagen in den öffentlichen Außenbereichen in der Regel willkommen; Zugang kann je nach Veranstaltung variieren",
+          "admissionFeeDe": "Öffentliche Bereiche oft kostenlos oder günstig zugänglich; Tagesprogramm prüfen",
+          "tipDe": "Prüfen Sie vor dem Besuch den Rennkalender und die Regeln der jeweiligen Veranstaltung, da manche großen Meetings den Zugang einschränken.",
+          "descriptionNl": "De renbaan in de stad die het zomerritme van Deauville bepaalt, van de vlakke wedstrijden in juli en augustus tot de wereldberoemde jaarlingveilingen. Aangelijnde honden zijn op wedstrijddagen doorgaans welkom in de openbare buitenruimtes, zodat je de paarden, hoeden en sfeer kunt opsnuiven met je metgezel naast je.",
+          "dogPolicyNl": "Aangelijnde honden doorgaans welkom in openbare buitenruimtes op wedstrijddagen; toegang kan per evenement verschillen",
+          "admissionFeeNl": "Vaak gratis of goedkope toegang tot openbare zones; check het programma van die dag",
+          "tipNl": "Check de racekalender en de eigen regels van het evenement voordat je gaat, want sommige grote wedstrijden beperken de toegang.",
+          "descriptionIt": "L'ippodromo cittadino che scandisce l'estate di Deauville, dai meeting in piano di luglio e agosto alle famosissime vendite di puledri. I cani al guinzaglio sono generalmente benvenuti nelle aree pubbliche all'aperto nei giorni di corsa, così puoi goderti i cavalli, i cappelli e l'atmosfera con il tuo compagno accanto.",
+          "dogPolicyIt": "Cani al guinzaglio generalmente benvenuti nelle aree pubbliche all'aperto nei giorni di corsa; l'accesso può variare a seconda dell'evento",
+          "admissionFeeIt": "Spesso ingresso gratuito o a basso costo per le aree pubbliche; controlla il programma del giorno",
+          "tipIt": "Controlla il calendario delle corse e le regole specifiche dell'evento prima di andare, perché alcuni grandi meeting limitano l'accesso."
+        },
+        {
+          "name": "Villa Strassburger",
+          "neighborhood": "Above the racecourse",
+          "photo": "",
+          "website": "",
+          "description": "A flamboyant 1907 half-timbered Norman villa built for Baron Henri de Rothschild, now a listed monument open for guided tours in summer. Dogs cannot join the indoor tour, but the extravagant exterior and its grounds are a fine sight on a walk, and the surrounding streets are pleasant to stroll on the lead.",
+          "dogPolicy": "No dogs inside on guided tours; exterior and grounds viewable on a walk",
+          "admissionFee": "Guided-tour fee for the interior (summer); exterior free to view",
+          "tip": "Time a walk past it rather than a visit if you have your dog, and save the interior tour for a dog-free morning.",
+          "googleMapsUrl": "https://maps.google.com/?q=Villa+Strassburger+Deauville",
+          "descriptionFr": "Une flamboyante villa normande à colombages de 1907, construite pour le baron Henri de Rothschild, aujourd'hui monument classé ouvert aux visites guidées en été. Les chiens ne peuvent pas suivre la visite intérieure, mais la façade extravagante et le parc constituent un beau spectacle au fil d'une balade, et les rues alentour sont agréables à parcourir en laisse.",
+          "dogPolicyFr": "Pas de chiens à l'intérieur pendant les visites guidées ; façade et jardins visibles lors d'une balade",
+          "admissionFeeFr": "Frais de visite guidée pour l'intérieur (été) ; extérieur gratuit",
+          "tipFr": "Privilégiez une balade devant la villa plutôt qu'une visite si vous avez votre chien, et gardez la visite intérieure pour une matinée sans lui.",
+          "descriptionEs": "Una llamativa villa normanda de entramado de madera de 1907 construida para el barón Henri de Rothschild, hoy monumento catalogado abierto a visitas guiadas en verano. Los perros no pueden entrar en la visita interior, pero el extravagante exterior y sus jardines son una vista estupenda durante un paseo, y las calles de alrededor son agradables para pasear con correa.",
+          "dogPolicyEs": "Sin perros dentro en las visitas guiadas; exterior y jardines visibles en un paseo",
+          "admissionFeeEs": "Tarifa de visita guiada para el interior (verano); exterior gratuito de ver",
+          "tipEs": "Elige pasar por delante en un paseo en lugar de una visita si llevas a tu perro, y reserva la visita interior para una mañana sin él.",
+          "descriptionPt": "Uma vivenda normanda em tabique, flamejante, de 1907, construída para o Barão Henri de Rothschild, hoje monumento classificado com visitas guiadas no verão. Os cães não podem participar na visita interior, mas o exterior extravagante e os jardins são uma bela visão durante um passeio, e as ruas circundantes são agradáveis de percorrer à trela.",
+          "dogPolicyPt": "Sem cães no interior durante as visitas guiadas; exterior e jardins visíveis num passeio",
+          "admissionFeePt": "Taxa de visita guiada para o interior (verão); exterior gratuito para ver",
+          "tipPt": "Aproveite para passar a pé em vez de fazer a visita se estiver com o seu cão, e guarde a visita interior para uma manhã sem cão.",
+          "descriptionDe": "Eine extravagante, 1907 erbaute normannische Fachwerkvilla für Baron Henri de Rothschild, heute ein denkmalgeschütztes Gebäude, das im Sommer für Führungen geöffnet ist. Hunde können nicht an der Innenführung teilnehmen, doch die prächtige Fassade und das Grundstück sind ein schöner Anblick bei einem Spaziergang, und die umliegenden Straßen lassen sich angenehm an der Leine erkunden.",
+          "dogPolicyDe": "Keine Hunde im Inneren bei Führungen; Fassade und Grundstück auf einem Spaziergang einsehbar",
+          "admissionFeeDe": "Gebühr für die Führung im Inneren (Sommer); Außenansicht kostenlos",
+          "tipDe": "Planen Sie mit Hund lieber einen Spaziergang vorbei statt eines Besuchs, und heben Sie sich die Innenführung für einen Vormittag ohne Hund auf.",
+          "descriptionNl": "Een uitbundige Normandische vakwerkvilla uit 1907, gebouwd voor baron Henri de Rothschild, nu een beschermd monument dat 's zomers open is voor rondleidingen. Honden mogen niet mee op de rondleiding binnen, maar de extravagante buitenkant en de tuinen zijn een mooi gezicht tijdens een wandeling, en de omliggende straten zijn aangenaam om aan de lijn te doorkruisen.",
+          "dogPolicyNl": "Geen honden binnen tijdens rondleidingen; buitenkant en tuinen te bekijken tijdens een wandeling",
+          "admissionFeeNl": "Toegangsprijs voor de rondleiding binnen ('s zomers); buitenkant gratis te bekijken",
+          "tipNl": "Plan een wandeling langs de villa in plaats van een bezoek als je je hond bij je hebt, en bewaar de rondleiding binnen voor een ochtend zonder hond.",
+          "descriptionIt": "Una sfarzosa villa normanna a graticcio del 1907 costruita per il barone Henri de Rothschild, oggi monumento vincolato aperto per visite guidate in estate. I cani non possono partecipare alla visita interna, ma l'esterno stravagante e i giardini sono un bello spettacolo durante una passeggiata, e le strade circostanti sono piacevoli da percorrere al guinzaglio.",
+          "dogPolicyIt": "Niente cani all'interno durante le visite guidate; esterno e giardini visibili durante una passeggiata",
+          "admissionFeeIt": "Biglietto per la visita guidata all'interno (estate); esterno gratuito da vedere",
+          "tipIt": "Se hai il cane, pianifica una passeggiata davanti alla villa invece di una visita, e lascia la visita interna per una mattina senza cane."
+        },
+        {
+          "name": "Trouville Fish Market (Marché aux Poissons)",
+          "neighborhood": "Trouville-sur-Mer, across the Touques",
+          "photo": "",
+          "website": "",
+          "description": "Trouville's daily quayside fish market, where the boats land their catch and stalls sell oysters, whelks and shellfish to eat on the spot. Reached on foot over the footbridge, it is a lively, salty scene, and a leashed dog is right at home among the quays, gulls and market bustle.",
+          "dogPolicy": "Leashed dogs welcome around the outdoor quays and stalls",
+          "admissionFee": "Free to browse",
+          "tip": "Go mid-morning for the freshest stalls, keep your dog close in the crowd, and grab oysters to eat by the water.",
+          "googleMapsUrl": "https://maps.google.com/?q=Marche+aux+Poissons+Trouville",
+          "descriptionFr": "Le marché aux poissons quotidien de Trouville, sur les quais, où les bateaux débarquent leur pêche et où les étals vendent huîtres, bulots et coquillages à déguster sur place. Accessible à pied par la passerelle, c'est une scène vivante et salée, où un chien en laisse est tout à fait à sa place parmi les quais, les mouettes et l'agitation du marché.",
+          "dogPolicyFr": "Chiens en laisse acceptés autour des quais et étals extérieurs",
+          "admissionFeeFr": "Accès libre pour flâner",
+          "tipFr": "Venez en milieu de matinée pour les étals les plus frais, gardez votre chien près de vous dans la foule, et prenez des huîtres à déguster au bord de l'eau.",
+          "descriptionEs": "El mercado de pescado diario en el muelle de Trouville, donde los barcos desembarcan su captura y los puestos venden ostras, bígaros y marisco para comer en el sitio. Se llega a pie cruzando la pasarela, es una escena animada y salada, y un perro con correa se siente como en casa entre los muelles, las gaviotas y el bullicio del mercado.",
+          "dogPolicyEs": "Perros con correa bienvenidos en los muelles y puestos exteriores",
+          "admissionFeeEs": "Gratis para pasear y curiosear",
+          "tipEs": "Ve a media mañana para encontrar los puestos más frescos, mantén a tu perro cerca entre la multitud y disfruta de unas ostras junto al agua.",
+          "descriptionPt": "O mercado diário de peixe junto ao cais de Trouville, onde os barcos desembarcam a pesca e as bancas vendem ostras, búzios e marisco para comer no local. Alcançado a pé pela ponte pedonal, é uma cena animada e salgada, e um cão à trela sente-se perfeitamente em casa entre os cais, as gaivotas e a azáfama do mercado.",
+          "dogPolicyPt": "Cães à trela bem-vindos à volta dos cais exteriores e das bancas",
+          "admissionFeePt": "Entrada livre para passear",
+          "tipPt": "Vá a meio da manhã para as bancas mais frescas, mantenha o seu cão perto na multidão e experimente ostras junto à água.",
+          "descriptionDe": "Trouvilles täglicher Fischmarkt am Kai, an dem die Boote ihren Fang anlanden und Stände Austern, Wellhornschnecken und Schalentiere zum Verzehr vor Ort verkaufen. Zu Fuß über die Fußgängerbrücke erreichbar, ist es ein lebendiges, salziges Treiben, und ein angeleinter Hund fühlt sich zwischen Kais, Möwen und Markttrubel bestens zu Hause.",
+          "dogPolicyDe": "Angeleinte Hunde an den Außenkais und Ständen willkommen",
+          "admissionFeeDe": "Kostenloser Rundgang",
+          "tipDe": "Gehen Sie am späten Vormittag für die frischesten Stände, halten Sie Ihren Hund in der Menge nah bei sich, und genießen Sie Austern am Wasser.",
+          "descriptionNl": "De dagelijkse viskraam van Trouville op de kade, waar de boten hun vangst aan land brengen en kraampjes oesters, wulken en schaaldieren verkopen om ter plekke te eten. Te voet bereikbaar via de voetgangersbrug, is het een levendig, zilt tafereel, en een aangelijnde hond voelt zich er helemaal thuis tussen de kades, meeuwen en marktdrukte.",
+          "dogPolicyNl": "Aangelijnde honden welkom rond de buitenkades en kraampjes",
+          "admissionFeeNl": "Gratis om rond te kijken",
+          "tipNl": "Ga halverwege de ochtend voor de meest verse kraampjes, houd je hond dicht bij je in de drukte, en pak oesters om aan het water op te eten.",
+          "descriptionIt": "Il mercato del pesce quotidiano sulle banchine di Trouville, dove le barche sbarcano il pescato e le bancarelle vendono ostriche, lumache di mare e crostacei da mangiare sul posto. Raggiungibile a piedi attraverso la passerella, è una scena vivace e salmastra, e un cane al guinzaglio si trova perfettamente a suo agio tra le banchine, i gabbiani e il trambusto del mercato.",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti attorno alle banchine e alle bancarelle all'aperto",
+          "admissionFeeIt": "Gratuito da visitare",
+          "tipIt": "Vai a metà mattina per le bancarelle più fresche, tieni il cane vicino nella folla, e prendi delle ostriche da mangiare sull'acqua."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "What can I do in Deauville with a dog?",
+          "a": "Plenty, and mostly outdoors: walk the Planches boardwalk and the marina, climb Mont Canisy for the view, browse the covered market, watch the horses at the racecourse and cross to Trouville's fishing port and fish market. Almost the whole day can be done on the lead without leaving your dog behind."
+        },
+        {
+          "q": "Are there indoor attractions in Deauville that allow dogs?",
+          "a": "Few indoor sights admit dogs; museums and villa interiors like Villa Strassburger generally do not. Deauville's draw is its open-air life, so plan around the boardwalk, market, port and racecourse, and save any indoor visits for a time when someone can stay with your dog."
+        }
+      ],
+      "titleFr": "Attractions et activités pour chiens à Deauville",
+      "introFr": "L'attrait de Deauville est surtout extérieur, ce qui convient bien à un chien : les planches et la plage, la marina, le marché et l'hippodrome sont tous en plein air et faciles à profiter en laisse. Quelques sites, comme l'intérieur de la Villa Strassburger, n'admettent pas les chiens, mais leurs façades et leurs jardins restent de bonnes étapes sur une balade. Ajoutez le port de pêche et le marché de l'autre côté de l'eau à Trouville, et vous avez une journée complète et adaptée aux chiens sans jamais avoir à laisser son compagnon derrière soi.",
+      "faqsFr": [
+        {
+          "q": "Que puis-je faire à Deauville avec un chien ?",
+          "a": "Beaucoup de choses, surtout en plein air : marcher sur les Planches et le long de la marina, grimper au Mont Canisy pour la vue, flâner au marché couvert, regarder les chevaux à l'hippodrome et traverser jusqu'au port de pêche et au marché aux poissons de Trouville. Presque toute la journée peut se faire en laisse sans jamais laisser son chien de côté."
+        },
+        {
+          "q": "Y a-t-il des attractions intérieures à Deauville qui acceptent les chiens ?",
+          "a": "Peu de sites intérieurs admettent les chiens ; les musées et intérieurs de villas comme la Villa Strassburger n'y sont en général pas favorables. L'attrait de Deauville tient à sa vie en plein air, organisez donc votre visite autour des planches, du marché, du port et de l'hippodrome, et réservez les visites intérieures à un moment où quelqu'un peut rester avec votre chien."
+        }
+      ],
+      "titleEs": "Atracciones y actividades que admiten perros en Deauville",
+      "introEs": "El atractivo de Deauville es sobre todo al aire libre, lo que le viene muy bien a un perro: el paseo marítimo y la playa, el puerto deportivo, el mercado y el hipódromo son todos espacios exteriores y fáciles de disfrutar con correa. Algunos lugares, como el interior de la Villa Strassburger, no admiten perros, pero su exterior y sus jardines siguen siendo buenas paradas en un paseo. Suma el puerto pesquero y el mercado al otro lado del agua en Trouville y tendrás un día completo apto para perros sin tener que dejar nunca a tu compañero atrás.",
+      "faqsEs": [
+        {
+          "q": "¿Qué puedo hacer en Deauville con un perro?",
+          "a": "Mucho, y sobre todo al aire libre: pasear por las Planches y el puerto deportivo, subir al Mont Canisy para disfrutar de las vistas, curiosear en el mercado cubierto, ver los caballos en el hipódromo y cruzar hasta el puerto pesquero y el mercado de pescado de Trouville. Casi todo el día se puede hacer con correa sin dejar a tu perro atrás."
+        },
+        {
+          "q": "¿Hay atracciones interiores en Deauville que admitan perros?",
+          "a": "Pocos lugares interiores admiten perros; los museos y los interiores de villas como la Villa Strassburger generalmente no lo hacen. El atractivo de Deauville está en su vida al aire libre, así que planifica en torno al paseo marítimo, el mercado, el puerto y el hipódromo, y reserva cualquier visita interior para un momento en que alguien pueda quedarse con tu perro."
+        }
+      ],
+      "titlePt": "Atracções e Actividades Pet-Friendly em Deauville",
+      "introPt": "O encanto de Deauville é sobretudo ao ar livre, o que convém bem a um cão: o passadiço e a praia, a marina, o mercado e o hipódromo são todos espaços abertos e fáceis de desfrutar à trela. Alguns locais, como o interior da Villa Strassburger, não admitem cães, mas os seus exteriores e jardins continuam a ser bons pontos de paragem num passeio. Junte-lhe o porto de pesca e o mercado do outro lado da água, em Trouville, e terá um dia completo e pet-friendly sem nunca precisar de deixar o seu companheiro para trás.",
+      "faqsPt": [
+        {
+          "q": "O que posso fazer em Deauville com um cão?",
+          "a": "Muita coisa, e sobretudo ao ar livre: passear pelo passadiço das Planches e pela marina, subir a Mont Canisy para a vista, explorar o mercado coberto, ver os cavalos no hipódromo e atravessar até ao porto de pesca e ao mercado de peixe de Trouville. Quase o dia inteiro pode ser feito à trela, sem deixar o seu cão para trás."
+        },
+        {
+          "q": "Há atracções interiores em Deauville que aceitem cães?",
+          "a": "Poucos locais interiores admitem cães; museus e interiores de vivendas como a Villa Strassburger geralmente não aceitam. O atractivo de Deauville é a sua vida ao ar livre, por isso planeie em torno do passadiço, do mercado, do porto e do hipódromo, e guarde as visitas interiores para um momento em que alguém possa ficar com o seu cão."
+        }
+      ],
+      "titleDe": "Hundefreundliche Attraktionen & Unternehmungen in Deauville",
+      "introDe": "Deauvilles Reiz liegt größtenteils im Freien, was einem Hund entgegenkommt: die Promenade und der Strand, der Yachthafen, der Markt und die Rennbahn sind alle unter freiem Himmel und lassen sich problemlos an der Leine genießen. Ein paar Sehenswürdigkeiten, wie das Innere der Villa Strassburger, lassen keine Hunde zu, doch ihre Außenfassaden und Grundstücke bleiben gute Zwischenstopps auf einem Spaziergang. Dazu der Fischerhafen und Markt jenseits des Wassers in Trouville, und Sie haben einen vollständigen, hundefreundlichen Tag, ohne Ihren Begleiter je zurücklassen zu müssen.",
+      "faqsDe": [
+        {
+          "q": "Was kann ich in Deauville mit einem Hund unternehmen?",
+          "a": "Eine ganze Menge, meist im Freien: die Promenade der Planches und den Yachthafen entlanggehen, den Mont Canisy für die Aussicht erklimmen, die überdachte Markthalle durchstöbern, an der Rennbahn den Pferden zuschauen und nach Trouville zum Fischerhafen und Fischmarkt hinüberwechseln. Fast der ganze Tag lässt sich an der Leine bestreiten, ohne Ihren Hund zurückzulassen."
+        },
+        {
+          "q": "Gibt es in Deauville Indoor-Attraktionen, die Hunde erlauben?",
+          "a": "Nur wenige Indoor-Sehenswürdigkeiten lassen Hunde zu; Museen und Villeninnenräume wie die Villa Strassburger tun dies in der Regel nicht. Deauvilles Reiz liegt im Leben unter freiem Himmel, planen Sie also mit Promenade, Markt, Hafen und Rennbahn, und heben Sie sich Indoor-Besuche für einen Zeitpunkt auf, an dem jemand bei Ihrem Hund bleiben kann."
+        }
+      ],
+      "titleNl": "Hondvriendelijke bezienswaardigheden en activiteiten in Deauville",
+      "introNl": "De aantrekkingskracht van Deauville zit vooral buiten, wat goed uitkomt voor een hond: de boulevard en het strand, de jachthaven, de markt en de renbaan zijn allemaal in de open lucht en makkelijk te genieten aan de lijn. Een paar bezienswaardigheden, zoals het interieur van Villa Strassburger, laten geen honden toe, maar de buitenkant en tuinen zijn nog steeds goede tussenstops op een wandeling. Voeg daar de vissershaven en markt aan de overkant in Trouville aan toe en je hebt een volledige, hondvriendelijke dag zonder je metgezel ooit achter te hoeven laten.",
+      "faqsNl": [
+        {
+          "q": "Wat kan ik doen in Deauville met een hond?",
+          "a": "Genoeg, en vooral buiten: wandel over de promenade les Planches en langs de jachthaven, beklim Mont Canisy voor het uitzicht, struin over de overdekte markt, kijk naar de paarden op de renbaan en steek over naar de vissershaven en viskraam van Trouville. Bijna de hele dag kan aan de lijn zonder je hond ooit achter te laten."
+        },
+        {
+          "q": "Zijn er binnenbezienswaardigheden in Deauville die honden toelaten?",
+          "a": "Weinig bezienswaardigheden binnen laten honden toe; musea en villa-interieurs zoals Villa Strassburger doorgaans niet. De charme van Deauville zit in het buitenleven, dus plan rond de boulevard, de markt, de haven en de renbaan, en bewaar eventuele bezoeken binnen voor een moment waarop iemand bij je hond kan blijven."
+        }
+      ],
+      "titleIt": "Attrazioni e cose da fare pet-friendly a Deauville",
+      "introIt": "Il fascino di Deauville è soprattutto all'aperto, il che si adatta bene a un cane: la passerella e la spiaggia, il porticciolo, il mercato e l'ippodromo sono tutti all'aperto e facili da godere al guinzaglio. Alcuni luoghi, come l'interno di Villa Strassburger, non ammettono cani, ma i loro esterni e i giardini restano comunque buone tappe in una passeggiata. Aggiungi il porto peschereccio e il mercato dall'altra parte dell'acqua a Trouville e avrai una giornata intera pet-friendly senza mai dover lasciare il tuo compagno a casa.",
+      "faqsIt": [
+        {
+          "q": "Cosa posso fare a Deauville con un cane?",
+          "a": "Molto, e soprattutto all'aperto: cammina sulla passerella delle Planches e sul porticciolo, sali su Mont Canisy per la vista, gironzola nel mercato coperto, guarda i cavalli all'ippodromo e attraversa verso il porto peschereccio e il mercato del pesce di Trouville. Quasi tutta la giornata si può fare al guinzaglio senza mai lasciare il cane a casa."
+        },
+        {
+          "q": "Ci sono attrazioni al chiuso a Deauville che ammettono cani?",
+          "a": "Poche attrazioni al chiuso ammettono cani; musei e interni di ville come Villa Strassburger generalmente no. Il richiamo di Deauville è la sua vita all'aperto, quindi pianifica attorno alla passerella, al mercato, al porto e all'ippodromo, e lascia eventuali visite al chiuso per un momento in cui qualcuno può restare con il tuo cane."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitting, Walking & Boarding in Deauville",
+      "introEn": "If you want to visit an indoor sight, a spa or a restaurant that is not dog-friendly, Deauville is well covered by France's national pet-care platforms, which let you book a vetted local sitter, walker or host for a few hours or a whole day. Book in advance for busy summer and race weekends, meet the sitter first, and leave your dog's food, EU passport details and your vet's number so everyone is prepared.",
+      "places": [
+        {
+          "name": "Holidog (Deauville area)",
+          "website": "https://www.holidog.com/",
+          "description": "A large French pet-care network that connects owners with vetted dog boarders, day-carers and walkers across the Deauville and Côte Fleurie area. It is a practical way to arrange cover for the hours when the beach is closed to dogs or you want to visit somewhere that is not pet-friendly.",
+          "serviceType": "Dog boarding, day care and walking via a national network",
+          "pricePerDay": "From around 20-30€ per day, varies by host",
+          "languages": [
+            "French",
+            "English"
+          ],
+          "tip": "Book early for summer weekends and arrange a short meet-and-greet before you commit to a full day.",
+          "descriptionFr": "Un grand réseau français de garde d'animaux qui met en relation les propriétaires avec des pensions, garderies de jour et promeneurs vérifiés dans le secteur de Deauville et de la Côte Fleurie. C'est une solution pratique pour couvrir les heures où la plage est interdite aux chiens ou pour visiter un lieu qui n'accepte pas les animaux.",
+          "serviceTypeFr": "Pension, garderie de jour et promenade via un réseau national",
+          "tipFr": "Réservez tôt pour les week-ends d'été et organisez une courte rencontre avant de vous engager pour une journée complète.",
+          "descriptionEs": "Una gran red francesa de cuidado de mascotas que conecta a los dueños con cuidadores de alojamiento, guarderías diurnas y paseadores verificados en la zona de Deauville y la Côte Fleurie. Es una forma práctica de organizar la cobertura para las horas en que la playa está cerrada a los perros o cuando quieres visitar algún sitio que no admite mascotas.",
+          "serviceTypeEs": "Alojamiento, guardería diurna y paseo de perros a través de una red nacional",
+          "tipEs": "Reserva con antelación para los fines de semana de verano y organiza un breve encuentro previo antes de comprometerte a un día completo.",
+          "descriptionPt": "Uma grande rede francesa de cuidados de animais que liga donos a alojadores, cuidadores diários e passeadores de cães verificados, na zona de Deauville e da Côte Fleurie. É uma forma prática de organizar cobertura para as horas em que a praia está fechada aos cães ou quando quer visitar um local que não é pet-friendly.",
+          "serviceTypePt": "Alojamento para cães, creche diurna e passeios através de uma rede nacional",
+          "tipPt": "Reserve com antecedência para os fins-de-semana de verão e combine um breve encontro de apresentação antes de se comprometer com um dia inteiro.",
+          "descriptionDe": "Ein großes französisches Netzwerk für Tierbetreuung, das Besitzer mit geprüften Hundepensionen, Tagesbetreuern und Gassi-Gehern in der Region Deauville und Côte Fleurie verbindet. Eine praktische Möglichkeit, Betreuung für die Stunden zu organisieren, in denen der Strand für Hunde gesperrt ist, oder wenn Sie einen nicht tierfreundlichen Ort besuchen möchten.",
+          "serviceTypeDe": "Hundepension, Tagesbetreuung und Gassi-Service über ein landesweites Netzwerk",
+          "tipDe": "Buchen Sie für Sommerwochenenden frühzeitig und vereinbaren Sie ein kurzes Kennenlernen, bevor Sie sich für einen ganzen Tag entscheiden.",
+          "descriptionNl": "Een groot Frans netwerk voor huisdierenzorg dat eigenaren koppelt aan gescreende hondenpensions, dagopvang en uitlaatservices in de omgeving van Deauville en de Côte Fleurie. Een praktische manier om opvang te regelen voor de uren waarin het strand gesloten is voor honden of wanneer je ergens naartoe wilt dat niet hondvriendelijk is.",
+          "serviceTypeNl": "Hondenpension, dagopvang en uitlaatservice via een landelijk netwerk",
+          "tipNl": "Boek vroeg voor zomerweekenden en regel een korte kennismaking voordat je je vastlegt op een hele dag.",
+          "descriptionIt": "Un grande network francese per la cura degli animali che mette in contatto i proprietari con pensioni, asili diurni e dog walker verificati nella zona di Deauville e della Côte Fleurie. È un modo pratico per organizzare la copertura per le ore in cui la spiaggia è chiusa ai cani o quando vuoi visitare un posto non pet-friendly.",
+          "serviceTypeIt": "Pensione, asilo diurno e passeggiate per cani tramite un network nazionale",
+          "tipIt": "Prenota presto per i weekend estivi e organizza un breve incontro conoscitivo prima di impegnarti per una giornata intera."
+        },
+        {
+          "name": "Animaute (Deauville area)",
+          "website": "https://www.animaute.fr/",
+          "description": "A French pet-sitting platform offering home-based boarding, drop-in visits and dog-walking with local sitters around Deauville. Useful for a flexible few-hour booking so you can enjoy a long lunch or an indoor attraction while your dog stays comfortable and cared for.",
+          "serviceType": "Home boarding, drop-in visits and dog-walking",
+          "pricePerDay": "From around 20€ per day, varies by sitter",
+          "languages": [
+            "French"
+          ],
+          "tip": "Read recent reviews, confirm the sitter is comfortable with your dog's size, and share your return time clearly.",
+          "descriptionFr": "Une plateforme française de pet-sitting proposant garde à domicile, visites ponctuelles et promenade de chiens avec des sitters locaux autour de Deauville. Utile pour une réservation flexible de quelques heures, afin de profiter d'un long déjeuner ou d'une attraction intérieure pendant que votre chien reste confortablement gardé.",
+          "serviceTypeFr": "Garde à domicile, visites ponctuelles et promenade de chiens",
+          "tipFr": "Lisez les avis récents, vérifiez que le sitter est à l'aise avec la taille de votre chien, et communiquez clairement votre heure de retour.",
+          "descriptionEs": "Una plataforma francesa de cuidado de mascotas que ofrece alojamiento en casas particulares, visitas puntuales y paseo de perros con cuidadores locales en torno a Deauville. Útil para una reserva flexible de unas horas, para que puedas disfrutar de una comida larga o una atracción interior mientras tu perro se queda cómodo y bien atendido.",
+          "serviceTypeEs": "Alojamiento en casa, visitas puntuales y paseo de perros",
+          "tipEs": "Lee las reseñas recientes, confirma que el cuidador se siente cómodo con el tamaño de tu perro y comunica claramente tu hora de regreso.",
+          "descriptionPt": "Uma plataforma francesa de pet-sitting que oferece alojamento em casa de particulares, visitas rápidas e passeios de cães com cuidadores locais na zona de Deauville. Útil para uma reserva flexível de algumas horas, para poder desfrutar de um almoço demorado ou de uma atracção interior enquanto o seu cão fica confortável e acompanhado.",
+          "serviceTypePt": "Alojamento em casa, visitas rápidas e passeio de cães",
+          "tipPt": "Leia as avaliações recentes, confirme que o cuidador se sente à vontade com o tamanho do seu cão e comunique claramente a sua hora de regresso.",
+          "descriptionDe": "Eine französische Plattform für Tierbetreuung mit Unterbringung zu Hause, Kurzbesuchen und Gassi-Service durch örtliche Sitter rund um Deauville. Nützlich für eine flexible Buchung von wenigen Stunden, damit Sie ein langes Mittagessen oder eine Indoor-Attraktion genießen können, während Ihr Hund bequem betreut wird.",
+          "serviceTypeDe": "Unterbringung zu Hause, Kurzbesuche und Gassi-Service",
+          "tipDe": "Lesen Sie aktuelle Bewertungen, vergewissern Sie sich, dass der Sitter mit der Größe Ihres Hundes zurechtkommt, und teilen Sie Ihre Rückkehrzeit klar mit.",
+          "descriptionNl": "Een Frans platform voor huisdierenoppas met opvang bij mensen thuis, korte bezoekjes en uitlaatservice met lokale oppassers rond Deauville. Handig voor een flexibele boeking van een paar uur, zodat je van een lange lunch of een binnenbezienswaardigheid kunt genieten terwijl je hond comfortabel wordt verzorgd.",
+          "serviceTypeNl": "Opvang bij mensen thuis, korte bezoekjes en uitlaatservice",
+          "tipNl": "Lees recente reviews, controleer of de oppasser zich op zijn gemak voelt bij het formaat van je hond, en geef duidelijk je terugkeertijd door.",
+          "descriptionIt": "Una piattaforma francese di pet-sitting che offre pensione a domicilio, visite a domicilio e passeggiate con sitter locali attorno a Deauville. Utile per una prenotazione flessibile di poche ore così puoi goderti un lungo pranzo o un'attrazione al chiuso mentre il tuo cane resta comodo e curato.",
+          "serviceTypeIt": "Pensione a domicilio, visite a domicilio e passeggiate",
+          "tipIt": "Leggi le recensioni recenti, conferma che il sitter sia a suo agio con la taglia del tuo cane e comunica chiaramente il tuo orario di ritorno."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I find a dog sitter in Deauville?",
+          "a": "Yes. National platforms such as Holidog and Animaute list vetted sitters, walkers and hosts around Deauville and the Côte Fleurie. You can book anything from a two-hour walk to a full day of boarding, which is handy for the summer beach closure or an indoor visit."
+        },
+        {
+          "q": "How much does dog sitting cost in Deauville?",
+          "a": "Roughly 20-30€ a day for boarding or day care through the national platforms, with short walks costing less and prices varying by sitter and season. Book ahead for summer and race weekends, when local demand is high and good sitters fill up."
+        }
+      ],
+      "titleFr": "Garde, promenade et pension pour chiens à Deauville",
+      "introFr": "Si vous souhaitez visiter un site intérieur, un spa ou un restaurant qui n'accepte pas les chiens, Deauville est bien couverte par les plateformes nationales françaises de garde d'animaux, qui permettent de réserver un pet-sitter, promeneur ou hôte local vérifié pour quelques heures ou une journée entière. Réservez à l'avance pour les week-ends d'été et de courses très demandés, rencontrez le pet-sitter au préalable, et laissez la nourriture de votre chien, les coordonnées de son passeport européen et le numéro de votre vétérinaire pour que tout le monde soit préparé.",
+      "faqsFr": [
+        {
+          "q": "Puis-je trouver un pet-sitter à Deauville ?",
+          "a": "Oui. Des plateformes nationales comme Holidog et Animaute recensent des sitters, promeneurs et hôtes vérifiés autour de Deauville et de la Côte Fleurie. Vous pouvez réserver de tout, d'une promenade de deux heures à une journée complète de pension, ce qui est pratique pendant la fermeture estivale de la plage ou pour une visite intérieure."
+        },
+        {
+          "q": "Combien coûte la garde de chien à Deauville ?",
+          "a": "Environ 20 à 30€ par jour pour la pension ou la garderie via les plateformes nationales, les courtes promenades coûtant moins cher, avec des prix variables selon le sitter et la saison. Réservez à l'avance pour l'été et les week-ends de courses, où la demande locale est forte et les bons sitters vite complets."
+        }
+      ],
+      "titleEs": "Cuidado, paseo y alojamiento de perros en Deauville",
+      "introEs": "Si quieres visitar un lugar interior, un spa o un restaurante que no admite perros, Deauville está bien cubierta por las plataformas nacionales francesas de cuidado de mascotas, que te permiten reservar un cuidador, paseador o anfitrión local verificado por unas horas o un día entero. Reserva con antelación para los concurridos fines de semana de verano y de carreras, conoce al cuidador antes, y deja la comida de tu perro, los datos de su pasaporte europeo y el número de tu veterinario para que todos estén preparados.",
+      "faqsEs": [
+        {
+          "q": "¿Puedo encontrar un cuidador de perros en Deauville?",
+          "a": "Sí. Plataformas nacionales como Holidog y Animaute listan cuidadores, paseadores y anfitriones verificados en Deauville y la Côte Fleurie. Puedes reservar desde un paseo de dos horas hasta un día completo de alojamiento, lo cual resulta útil para el cierre de la playa en verano o para una visita interior."
+        },
+        {
+          "q": "¿Cuánto cuesta el cuidado de perros en Deauville?",
+          "a": "Aproximadamente entre 20 y 30€ al día por el alojamiento o la guardería diurna a través de las plataformas nacionales, con paseos cortos que cuestan menos y precios que varían según el cuidador y la temporada. Reserva con antelación para el verano y los fines de semana de carreras, cuando la demanda local es alta y los buenos cuidadores se llenan de reservas."
+        }
+      ],
+      "titlePt": "Dog Sitting, Passeios e Alojamento para Cães em Deauville",
+      "introPt": "Se quiser visitar um local interior, um spa ou um restaurante que não seja pet-friendly, Deauville está bem coberta pelas plataformas nacionais francesas de cuidados de animais, que permitem reservar um cuidador, passeador ou anfitrião local e verificado, por algumas horas ou um dia inteiro. Reserve com antecedência para os fins-de-semana movimentados de verão e de corridas, conheça o cuidador primeiro e deixe a comida do seu cão, os dados do passaporte europeu e o contacto do seu veterinário, para que tudo esteja preparado.",
+      "faqsPt": [
+        {
+          "q": "Consigo encontrar um dog sitter em Deauville?",
+          "a": "Sim. Plataformas nacionais como a Holidog e a Animaute listam cuidadores, passeadores e anfitriões verificados na zona de Deauville e da Côte Fleurie. Pode reservar desde um passeio de duas horas até um dia inteiro de alojamento, o que é útil para o encerramento de verão da praia ou para uma visita interior."
+        },
+        {
+          "q": "Quanto custa o dog sitting em Deauville?",
+          "a": "Cerca de 20-30€ por dia para alojamento ou creche diurna através das plataformas nacionais, com passeios curtos a custar menos, e os preços a variar consoante o cuidador e a época. Reserve com antecedência para o verão e os fins-de-semana de corridas, quando a procura local é elevada e os bons cuidadores esgotam depressa."
+        }
+      ],
+      "titleDe": "Hundebetreuung, Gassi-Service & Unterbringung in Deauville",
+      "introDe": "Möchten Sie eine Indoor-Sehenswürdigkeit, ein Spa oder ein nicht hundefreundliches Restaurant besuchen, ist Deauville durch Frankreichs landesweite Plattformen für Tierbetreuung gut abgedeckt, über die Sie einen geprüften örtlichen Sitter, Gassi-Geher oder Gastgeber für ein paar Stunden oder einen ganzen Tag buchen können. Buchen Sie an geschäftigen Sommer- und Renn-Wochenenden im Voraus, lernen Sie den Sitter vorher kennen, und hinterlassen Sie Futter, EU-Heimtierausweis-Daten und die Nummer Ihres Tierarztes, damit alle vorbereitet sind.",
+      "faqsDe": [
+        {
+          "q": "Finde ich in Deauville einen Hundesitter?",
+          "a": "Ja. Landesweite Plattformen wie Holidog und Animaute listen geprüfte Sitter, Gassi-Geher und Gastgeber rund um Deauville und die Côte Fleurie. Sie können alles von einem zweistündigen Spaziergang bis zu einem ganzen Tag Unterbringung buchen, praktisch für die sommerliche Strandsperrung oder einen Indoor-Besuch."
+        },
+        {
+          "q": "Wie viel kostet Hundebetreuung in Deauville?",
+          "a": "Über die landesweiten Plattformen etwa 20-30€ pro Tag für Unterbringung oder Tagesbetreuung, kurze Spaziergänge kosten weniger, die Preise variieren je nach Sitter und Saison. Buchen Sie für Sommer- und Renn-Wochenenden im Voraus, wenn die örtliche Nachfrage hoch ist und gute Sitter schnell ausgebucht sind."
+        }
+      ],
+      "titleNl": "Hondenoppas, uitlaatservice en pension in Deauville",
+      "introNl": "Wil je een bezienswaardigheid binnen, een spa of een restaurant bezoeken dat niet hondvriendelijk is, dan is Deauville goed gedekt door de landelijke Franse platforms voor huisdierenzorg, waarmee je een gescreende lokale oppas, uitlaatservice of gastgezin boekt voor een paar uur of een hele dag. Boek van tevoren voor drukke zomer- en wedrenweekenden, ontmoet de oppas eerst, en laat het voer, de EU-paspoortgegevens van je hond en het nummer van je dierenarts achter zodat iedereen goed voorbereid is.",
+      "faqsNl": [
+        {
+          "q": "Kan ik een hondenoppas vinden in Deauville?",
+          "a": "Ja. Landelijke platforms zoals Holidog en Animaute vermelden gescreende oppassers, uitlaatservices en gastgezinnen rond Deauville en de Côte Fleurie. Je kunt van alles boeken, van een wandeling van twee uur tot een hele dag pension, wat handig is voor de zomersluiting van het strand of een bezoek binnen."
+        },
+        {
+          "q": "Hoeveel kost een hondenoppas in Deauville?",
+          "a": "Ongeveer 20 tot 30 euro per dag voor pension of dagopvang via de landelijke platforms, met kortere wandelingen die minder kosten en prijzen die verschillen per oppasser en seizoen. Boek vooraf voor de zomer en wedrenweekenden, wanneer de lokale vraag hoog is en goede oppassers snel volgeboekt zijn."
+        }
+      ],
+      "titleIt": "Dog sitting, passeggiate e pensione a Deauville",
+      "introIt": "Se vuoi visitare un'attrazione al chiuso, una spa o un ristorante non pet-friendly, Deauville è ben coperta dalle piattaforme nazionali francesi per la cura degli animali, che ti permettono di prenotare un pet sitter, un dog walker o un ospite locale verificato per qualche ora o per un'intera giornata. Prenota in anticipo per i weekend estivi e di corse molto richiesti, incontra il sitter prima e lascia il cibo del tuo cane, i dettagli del passaporto UE e il numero del tuo veterinario, così tutti sono preparati.",
+      "faqsIt": [
+        {
+          "q": "Posso trovare un dog sitter a Deauville?",
+          "a": "Sì. Piattaforme nazionali come Holidog e Animaute elencano sitter, dog walker e ospiti verificati attorno a Deauville e alla Côte Fleurie. Puoi prenotare qualsiasi cosa, da una passeggiata di due ore a una giornata intera di pensione, il che è comodo per la chiusura estiva della spiaggia o per una visita al chiuso."
+        },
+        {
+          "q": "Quanto costa il dog sitting a Deauville?",
+          "a": "All'incirca 20-30€ al giorno per la pensione o l'asilo diurno tramite le piattaforme nazionali, con passeggiate brevi che costano meno e prezzi che variano a seconda del sitter e della stagione. Prenota in anticipo per i weekend estivi e di corse, quando la domanda locale è alta e i sitter migliori si riempiono in fretta."
+        }
+      ]
+    }
+  }
+}

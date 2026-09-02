@@ -65782,5 +65782,130 @@
       "Up to two small dogs welcome for 20€ each per night",
       "Rooftop pool and an easy walk to Port Hercule"
     ]
+  },
+  {
+    "id": "deauville-1",
+    "slug": "hotel-barriere-le-normandy-deauville",
+    "name": "Hôtel Barrière Le Normandy Deauville",
+    "destinationSlug": "deauville",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 2100,
+    "priceFrom": 450,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Barriere%20Le%20Normandy%20Deauville",
+    "petFee": 20,
+    "petPolicy": "One dog of any size is welcome for 20€ per night. This iconic half-timbered landmark facing the sea is genuinely dog-friendly; cats are not accepted. Please confirm details with the property when booking.",
+    "address": "38 Rue Jean Mermoz, 14800 Deauville",
+    "neighborhood": "Town centre, steps from the beach and Planches",
+    "highlights": [
+      "Iconic half-timbered palace hotel facing the sea",
+      "One dog of any size welcome for 20€ per night",
+      "Walking distance to the Planches, casino and marina"
+    ]
+  },
+  {
+    "id": "deauville-2",
+    "slug": "hotel-barriere-le-royal-deauville",
+    "name": "Hôtel Barrière Le Royal Deauville",
+    "destinationSlug": "deauville",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1600,
+    "priceFrom": 390,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Barriere%20Le%20Royal%20Deauville",
+    "petFee": 20,
+    "petPolicy": "Dogs of any size are welcome for 20€ per pet, per night, and more than one pet is accepted. A Belle Époque palace hotel overlooking the sea and the conference centre. Please confirm details with the property when booking.",
+    "address": "Boulevard Cornuché, 14800 Deauville",
+    "neighborhood": "Seafront, beside the casino and beach",
+    "highlights": [
+      "Belle Époque palace overlooking the sea",
+      "Dogs of any size welcome, multiple pets accepted",
+      "Pool, spa and steps from the beach"
+    ]
+  },
+  {
+    "id": "deauville-3",
+    "slug": "hotel-barriere-hotel-du-golf-deauville",
+    "name": "Hôtel Barrière L'Hôtel du Golf Deauville",
+    "destinationSlug": "deauville",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 1200,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Barriere%20Hotel%20du%20Golf%20Deauville",
+    "petFee": 20,
+    "petPolicy": "Dogs of any size are welcome for 20€ per pet, per night. An Anglo-Norman manor set on the heights of Mont Canisy with its own golf course and country walks at the door. Please confirm details with the property when booking.",
+    "address": "Le Mont Canisy, 14800 Saint-Arnoult",
+    "neighborhood": "Mont Canisy heights, above Deauville",
+    "highlights": [
+      "Anglo-Norman manor on the Mont Canisy heights",
+      "Dogs of any size welcome for 20€ per night",
+      "Golf course and protected headland walks at the door"
+    ]
+  },
+  {
+    "id": "deauville-4",
+    "slug": "villa-augeval-hotel-spa-deauville",
+    "name": "Villa Augeval Hôtel & Spa",
+    "destinationSlug": "deauville",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 900,
+    "priceFrom": 190,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Villa%20Augeval%20Deauville",
+    "petFee": 10,
+    "petPolicy": "Dogs of any size are welcome for 10€ per pet, per night. An elegant Anglo-Norman villa with a spa and garden, near the racecourse and stables. Please confirm details with the property when booking.",
+    "address": "15 Avenue Hocquart de Turtot, 14800 Deauville",
+    "neighborhood": "Near the Hippodrome and the Pompeian baths",
+    "highlights": [
+      "Elegant villa with spa and garden",
+      "Dogs of any size welcome for just 10€ per night",
+      "Quiet setting near the racecourse, short walk to the beach"
+    ]
+  },
+  {
+    "id": "deauville-5",
+    "slug": "novotel-deauville-plage",
+    "name": "Novotel Deauville Plage",
+    "destinationSlug": "deauville",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2400,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Novotel%20Deauville%20Plage",
+    "petFee": 15,
+    "petPolicy": "Dogs are welcome in designated rooms; the property recommends contacting them ahead to confirm size and the current pet fee. A modern seafront hotel a six-minute walk from the beach, handy for families. Please confirm details with the property when booking.",
+    "address": "2 Rue Baron Le Roy, 14800 Deauville",
+    "neighborhood": "Seafront, six-minute walk to the beach",
+    "highlights": [
+      "Modern seafront hotel near the Olympic pool and thalasso",
+      "Dogs welcome in designated rooms (call ahead)",
+      "Six-minute walk to the beach and Planches"
+    ]
   }
 ]

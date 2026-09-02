@@ -52,7 +52,7 @@ const URBAN_SLUGS = new Set([
 const COASTAL_SLUGS = new Set([
   'monte-carlo', 'la-rochelle', 'brest', 'boulogne-sur-mer', 'calais', 'dunkerque',
   'brighton', 'bournemouth', 'cardiff', 'bristol', 'liverpool',
-  'dieppe', 'honfleur', 'etretat', 'le-havre',
+  'dieppe', 'honfleur', 'etretat', 'le-havre', 'deauville', 'trouville',
   'ostend', 'kiel', 'rostock', 'warnemunde',
 ])
 

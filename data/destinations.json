@@ -8508,6 +8508,81 @@
     "iata": "NWI"
   },
   {
+    "slug": "deauville",
+    "name": "Deauville",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/deauville.jpg",
+    "intro": "Deauville is the chic seaside face of Normandy: a Belle Époque resort of half-timbered villas, grand casino-hotels and the famous 1920s Planches, a 664-metre boardwalk lined with candy-striped parasols and beach cabins named after film stars. Barely two hours from Paris, it wraps a wide sandy beach, a yacht-filled marina, a legendary racecourse and a covered market into a compact, walkable town where a leashed dog is a natural sight on the boardwalk and the port quays. The catch for dog owners is the beach itself: the guarded sand is off-limits from mid-June to mid-September, though the Planches stay open to dogs on the lead year-round and the sand reopens early and late in the day. Real freedom is a short hop away at the protected headland of Mont Canisy, on the vast off-season beaches of the Côte Fleurie, and across the Touques in the fishing town of Trouville, making Deauville a polished, easy base for a weekend by the sea with a well-behaved dog.",
+    "lat": 49.36,
+    "lng": 0.0757,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cold & bright",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Fresh spring",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 13,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 16,
+        "desc": "Mild & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Warmest month",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Mild & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Cool & crisp",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool & grey",
+        "icon": "🌥️"
+      },
+      "dec": {
+        "temp": 9,
+        "desc": "Cold & festive",
+        "icon": "🌥️"
+      }
+    },
+    "iata": "DOL"
+  },
+  {
     "slug": "delft",
     "name": "Delft",
     "country": "Netherlands",

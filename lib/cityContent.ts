@@ -23,6 +23,219 @@ export interface CityContent {
 }
 
 const cityContent: Record<string, CityContent> = {
+  "charleston": {
+    "history": {
+      "en": "Founded in 1670 as Charles Town, Charleston grew into one of colonial America's wealthiest ports, its fortunes built on rice, indigo and the transatlantic slave trade whose history the city now works to tell honestly. Spared wholesale redevelopment, the peninsula kept its pastel single houses, church steeples and cobblestoned lanes, and became the model for American historic preservation. Today it is a graceful, walkable city of live-oak promenades, porch-shaded piazzas and a celebrated food scene, ringed by tidal marshes and barrier-island beaches. For a visitor with a dog it is one of the friendliest cities in the South: leashed dogs are welcome along the waterfront and on countless restaurant patios, a clutch of nearby island beaches set aside generous dog hours, and the mild Lowcountry climate makes even winter an easy time to explore on four legs.",
+      "fr": "Fondée en 1670 sous le nom de Charles Town, Charleston est devenue l'un des ports les plus riches de l'Amérique coloniale, une fortune bâtie sur le riz, l'indigo et la traite transatlantique dont la ville s'efforce aujourd'hui de raconter l'histoire honnêtement. Épargnée par les grands réaménagements, la péninsule a conservé ses maisons pastel typiques, ses clochers d'église et ses ruelles pavées, devenant ainsi le modèle de la préservation historique américaine. C'est aujourd'hui une ville élégante et facile à parcourir à pied, faite de promenades sous les chênes verts, de vérandas ombragées et d'une scène gastronomique réputée, entourée de marais à marée et de plages sur des îles-barrières. Pour un visiteur accompagné d'un chien, c'est l'une des villes les plus accueillantes du Sud : les chiens tenus en laisse sont les bienvenus le long du front de mer et sur d'innombrables terrasses de restaurants, un ensemble de plages insulaires proches réservent de généreuses plages horaires pour les chiens, et le climat doux du Lowcountry permet d'explorer facilement la ville à quatre pattes même en hiver.",
+      "es": "Fundada en 1670 como Charles Town, Charleston se convirtió en uno de los puertos más ricos de la América colonial, con una fortuna construida sobre el arroz, el índigo y el comercio transatlántico de esclavos, una historia que la ciudad se esfuerza hoy por contar con honestidad. Libre de un desarrollo urbanístico masivo, la península conservó sus casas unifamiliares de colores pastel, sus campanarios y sus callejuelas empedradas, y se convirtió en el modelo de la conservación histórica estadounidense. Hoy es una ciudad elegante y perfectamente paseable, de paseos bajo robles centenarios, plazas sombreadas por porches y una gastronomía célebre, rodeada de marismas mareales y playas de islas barrera. Para un visitante con perro, es una de las ciudades más acogedoras del Sur: los perros con correa son bienvenidos junto al paseo marítimo y en incontables terrazas de restaurantes, un puñado de playas insulares cercanas reserva generosos horarios para perros, y el suave clima del Lowcountry hace que incluso el invierno sea una buena época para explorar sobre cuatro patas.",
+      "pt": "Fundada em 1670 como Charles Town, Charleston tornou-se um dos portos mais ricos da América colonial, com uma fortuna construída sobre o arroz, o anil e o tráfico transatlântico de escravos, cuja história a cidade procura hoje contar com honestidade. Poupada a uma requalificação urbana em larga escala, a península manteve as suas casas unifamiliares em tons pastel, os campanários e as ruas de calçada, tornando-se o modelo da preservação histórica americana. Hoje é uma cidade graciosa e fácil de percorrer a pé, com alamedas de carvalhos-de-virgínia, varandas sombreadas e uma cena gastronómica aclamada, rodeada por sapais de maré e praias em ilhas-barreira. Para quem visita com um cão, é uma das cidades mais acolhedoras do Sul: os cães à trela são bem-vindos junto à marginal e em inúmeras esplanadas de restaurantes, um conjunto de praias insulares próximas reserva horários generosos para cães, e o clima ameno do Lowcountry torna mesmo o inverno uma boa altura para explorar a cidade com quatro patas.",
+      "de": "Charleston wurde 1670 als Charles Town gegründet und entwickelte sich zu einem der wohlhabendsten Häfen des kolonialen Amerika, dessen Reichtum auf Reis, Indigo und dem transatlantischen Sklavenhandel beruhte, dessen Geschichte die Stadt heute ehrlich aufzuarbeiten versucht. Von großflächiger Neubebauung verschont, bewahrte die Halbinsel ihre pastellfarbenen Einzelhäuser, Kirchtürme und kopfsteingepflasterten Gassen und wurde so zum Vorbild für die amerikanische Denkmalpflege. Heute ist sie eine anmutige, gut zu Fuß erkundbare Stadt mit Alleen aus Lebenseichen, schattigen Veranden und einer gefeierten kulinarischen Szene, umgeben von Gezeitensümpfen und vorgelagerten Inselstränden. Für Besucher mit Hund gehört sie zu den hundefreundlichsten Städten des Südens: Angeleinte Hunde sind entlang der Uferpromenade und auf zahllosen Restaurantterrassen willkommen, eine Reihe nahegelegener Inselstrände räumt großzügige Hundezeiten ein, und das milde Klima des Lowcountry macht selbst den Winter zu einer angenehmen Zeit zum Erkunden auf vier Pfoten.",
+      "nl": "Charleston werd in 1670 gesticht als Charles Town en groeide uit tot een van de rijkste havens van koloniaal Amerika, met een welvaart gebouwd op rijst, indigo en de trans-Atlantische slavenhandel, een geschiedenis die de stad nu eerlijk probeert te vertellen. Grootschalige herontwikkeling bleef uit, waardoor het schiereiland zijn pastelkleurige single houses, kerktorens en met kasseien geplaveide straatjes behield en het model werd voor Amerikaanse monumentenzorg. Vandaag is het een sierlijke, goed te voet verkennen stad met lanen vol levende eiken, schaduwrijke veranda's en een gevierde eetcultuur, omringd door getijdenmoerassen en stranden op de barrière-eilanden. Voor een bezoeker met hond is het een van de vriendelijkste steden in het Zuiden: aangelijnde honden zijn welkom langs de waterkant en op talloze restaurantterrassen, een aantal nabijgelegen eilandstranden reserveert ruime hondenuren, en het milde Lowcountry-klimaat maakt zelfs de winter een fijne tijd om er met vier poten op uit te trekken.",
+      "it": "Fondata nel 1670 come Charles Town, Charleston è diventata uno dei porti più ricchi dell'America coloniale, con una fortuna costruita su riso, indaco e la tratta transatlantica degli schiavi, una storia che oggi la città cerca di raccontare con onestà. Risparmiata da una ricostruzione totale, la penisola ha conservato le sue case a schiera color pastello, i campanili delle chiese e le strade in ciottoli, diventando il modello della conservazione storica americana. Oggi è una città elegante e percorribile a piedi, fatta di viali di querce vive, piazze ombreggiate dai portici e una scena gastronomica celebre, circondata da paludi di marea e spiagge su isole barriera. Per chi viaggia con un cane, è una delle città più accoglienti del Sud: i cani al guinzaglio sono benvenuti lungo il lungomare e su innumerevoli terrazze di ristoranti, un gruppo di spiagge vicine sulle isole riserva ampi orari per i cani, e il clima mite del Lowcountry rende anche l'inverno un buon momento per esplorare a quattro zampe."
+    },
+    "sights": [
+      {
+        "name": "Waterfront Park & Pineapple Fountain",
+        "emoji": "🌊",
+        "petFriendly": true,
+        "desc": {
+          "en": "A elegant harbourside park along the Cooper River, famous for its Pineapple Fountain and rows of porch swings looking out over the water. Leashed dogs are welcome to stroll the pier and promenade, making it a breezy, shaded favourite in the heart of the Historic District.",
+          "fr": "Un élégant parc au bord du port le long de la rivière Cooper, célèbre pour sa fontaine en forme d'ananas et ses rangées de balancelles de véranda donnant sur l'eau. Les chiens tenus en laisse sont les bienvenus pour se promener sur la jetée et le front de mer, ce qui en fait un lieu venté et ombragé très apprécié au cœur du quartier historique.",
+          "es": "Un elegante parque frente al puerto a orillas del río Cooper, célebre por su Pineapple Fountain y sus hileras de columpios de porche con vistas al agua. Los perros con correa pueden pasear por el muelle y el paseo marítimo, lo que lo convierte en un favorito fresco y sombreado en pleno corazón del Distrito Histórico.",
+          "pt": "Um elegante parque à beira-mar ao longo do rio Cooper, famoso pela sua Pineapple Fountain e pelas filas de baloiços de varanda voltados para a água. Os cães à trela são bem-vindos a passear no cais e na alameda, tornando este um favorito arejado e sombreado no coração do Historic District.",
+          "de": "Ein eleganter Park am Hafen entlang des Cooper River, berühmt für seinen Pineapple Fountain und die Reihen von Veranda-Schaukeln mit Blick aufs Wasser. Angeleinte Hunde sind auf dem Pier und der Promenade willkommen, was den Park zu einem luftigen, schattigen Favoriten mitten im Historic District macht.",
+          "nl": "Een elegant park aan de haven langs de Cooper River, bekend om zijn Pineapple Fountain en rijen schommelbanken op de veranda's met uitzicht op het water. Aangelijnde honden zijn welkom op de pier en de promenade, wat er een winderige, schaduwrijke favoriet van maakt in het hart van het Historic District.",
+          "it": "Un elegante parco sul porto lungo il fiume Cooper, famoso per la sua Pineapple Fountain e le file di dondoli sui portici affacciati sull'acqua. I cani al guinzaglio sono benvenuti a passeggiare sul molo e sulla promenade, il che lo rende un favorito ventilato e ombreggiato nel cuore del Distretto Storico."
+        }
+      },
+      {
+        "name": "The Battery & White Point Garden",
+        "emoji": "🌳",
+        "petFriendly": true,
+        "desc": {
+          "en": "The seawall promenade at the tip of the peninsula, lined with antebellum mansions and a live-oak garden dotted with Civil War cannon. Leashed dogs love the wide harbour walk and the shade of the oaks, with sweeping views to Fort Sumter.",
+          "fr": "La promenade de la digue à la pointe de la péninsule, bordée de demeures d'avant-guerre et d'un jardin planté de chênes verts parsemé de canons de la guerre de Sécession. Les chiens en laisse adorent la large promenade portuaire et l'ombre des chênes, avec des vues dégagées sur Fort Sumter.",
+          "es": "El paseo del malecón en la punta de la península, flanqueado por mansiones anteriores a la Guerra Civil y un jardín de robles centenarios salpicado de cañones de aquella época. A los perros con correa les encanta el amplio paseo junto al puerto y la sombra de los robles, con vistas panorámicas a Fort Sumter.",
+          "pt": "A alameda junto ao paredão marítimo na ponta da península, ladeada por mansões antebellum e um jardim de carvalhos-de-virgínia salpicado de canhões da Guerra Civil. Os cães à trela adoram o amplo passeio junto ao porto e a sombra dos carvalhos, com vistas amplas para Fort Sumter.",
+          "de": "Die Uferpromenade an der Spitze der Halbinsel, gesäumt von herrschaftlichen Villen aus der Vorkriegszeit und einem Garten mit Lebenseichen und Kanonen aus dem Bürgerkrieg. Angeleinte Hunde lieben den breiten Uferweg und den Schatten der Eichen, mit weiten Ausblicken auf Fort Sumter.",
+          "nl": "De promenade langs de zeewering op de punt van het schiereiland, omzoomd door herenhuizen uit de tijd voor de Burgeroorlog en een tuin met levende eiken en kanonnen uit de Burgeroorlog. Aangelijnde honden genieten van de brede wandelroute langs de haven en de schaduw van de eiken, met weids uitzicht op Fort Sumter.",
+          "it": "La promenade sul muraglione alla punta della penisola, fiancheggiata da ville d'epoca antebellum e un giardino di querce vive punteggiato di cannoni della Guerra Civile. I cani al guinzaglio adorano l'ampia passeggiata sul porto e l'ombra delle querce, con vista sul Fort Sumter."
+        }
+      },
+      {
+        "name": "Rainbow Row & the Historic District",
+        "emoji": "🏛️",
+        "petFriendly": true,
+        "desc": {
+          "en": "The candy-coloured Georgian townhouses of Rainbow Row and the cobblestoned lanes around them, the postcard image of old Charleston. It is all walkable on the lead, past piazzas, churches and the boutiques of King Street.",
+          "fr": "Les maisons de ville géorgiennes aux couleurs de bonbon de Rainbow Row et les ruelles pavées qui les entourent, l'image de carte postale du vieux Charleston. Tout se parcourt en laisse, en passant devant des vérandas, des églises et les boutiques de King Street.",
+          "es": "Las casas georgianas de colores caramelo de Rainbow Row y las callejuelas empedradas que las rodean, la imagen de postal del viejo Charleston. Todo se recorre con correa, pasando por plazas, iglesias y las boutiques de King Street.",
+          "pt": "As casas georgianas em cores garridas de Rainbow Row e as ruas de calçada à sua volta, a imagem de postal da velha Charleston. Tudo se percorre à trela, passando por pátios, igrejas e as lojas de King Street.",
+          "de": "Die bunten georgianischen Stadthäuser der Rainbow Row und die kopfsteingepflasterten Gassen ringsum, das Postkartenmotiv des alten Charleston. Alles ist an der Leine begehbar, vorbei an Innenhöfen, Kirchen und den Boutiquen der King Street.",
+          "nl": "De in snoepkleuren geschilderde Georgian herenhuizen van Rainbow Row en de met kasseien geplaveide straatjes eromheen, hét ansichtkaartbeeld van oud Charleston. Alles is aangelijnd te belopen, langs veranda's, kerken en de boetieks van King Street.",
+          "it": "Le case georgiane color caramella di Rainbow Row e le stradine in ciottoli intorno, l'immagine da cartolina della vecchia Charleston. È tutto percorribile al guinzaglio, tra piazze, chiese e le boutique di King Street."
+        }
+      },
+      {
+        "name": "Hampton Park",
+        "emoji": "🌸",
+        "petFriendly": true,
+        "desc": {
+          "en": "Charleston's largest park, a leafy expanse of gardens, a duck pond and a live-oak loop road popular with joggers and dog walkers. Leashed dogs have room to stretch out well away from the downtown crowds.",
+          "fr": "Le plus grand parc de Charleston, une vaste étendue verdoyante avec des jardins, un bassin à canards et une boucle bordée de chênes verts très prisée des joggeurs et des promeneurs de chiens. Les chiens en laisse ont de la place pour se dégourdir, loin de l'agitation du centre-ville.",
+          "es": "El parque más grande de Charleston, una extensión frondosa con jardines, un estanque de patos y un circuito bajo robles centenarios muy popular entre corredores y paseadores de perros. Los perros con correa tienen aquí espacio de sobra, lejos del bullicio del centro.",
+          "pt": "O maior parque de Charleston, uma extensão verdejante de jardins, um lago de patos e uma estrada circular ladeada de carvalhos-de-virgínia, popular entre corredores e donos de cães. Os cães à trela têm espaço para se esticar bem longe da azáfama do centro.",
+          "de": "Charlestons größter Park, eine grüne Weite aus Gärten, einem Ententeich und einer Rundstrecke unter Lebenseichen, beliebt bei Joggern und Hundehaltern. Angeleinte Hunde haben hier reichlich Platz, weit weg vom Trubel der Innenstadt.",
+          "nl": "Het grootste park van Charleston, een groene uitgestrektheid met tuinen, een eendenvijver en een rondweg met levende eiken, populair bij hardlopers en hondenuitlaters. Aangelijnde honden hebben hier de ruimte om zich uit te leven, ver van de drukte van het centrum.",
+          "it": "Il parco più grande di Charleston, una distesa verde di giardini, uno stagno con anatre e un anello stradale di querce vive molto amato da chi corre e da chi porta a spasso il cane. I cani al guinzaglio hanno spazio per sgranchirsi ben lontano dalla folla del centro."
+        }
+      },
+      {
+        "name": "Folly Beach",
+        "emoji": "🏖️",
+        "petFriendly": true,
+        "desc": {
+          "en": "The laid-back barrier-island beach just south of the city, and one of the most dog-friendly in the area. Dogs are welcome on the sand outside the summer midday hours and all day in the cooler months, though never on the fishing pier.",
+          "fr": "La plage décontractée de l'île-barrière juste au sud de la ville, l'une des plus accueillantes pour les chiens dans la région. Les chiens sont admis sur le sable en dehors des heures de midi en été, et toute la journée pendant les mois plus frais, mais jamais sur la jetée de pêche.",
+          "es": "La relajada playa de isla barrera justo al sur de la ciudad, una de las más amigables con los perros de la zona. Los perros pueden estar en la arena fuera del horario del mediodía en verano, y todo el día en los meses más frescos, aunque nunca en el muelle de pesca.",
+          "pt": "A descontraída praia na ilha-barreira a sul da cidade, e uma das mais amigas de cães da região. Os cães são bem-vindos na areia fora do horário do meio-dia no verão e o dia inteiro nos meses mais frescos, mas nunca no cais de pesca.",
+          "de": "Der entspannte vorgelagerte Inselstrand direkt südlich der Stadt und einer der hundefreundlichsten der Region. Hunde sind außerhalb der sommerlichen Mittagsstunden am Sand willkommen und in den kühleren Monaten den ganzen Tag, jedoch nie auf dem Angelsteg.",
+          "nl": "Het relaxte strand op het barrière-eiland net ten zuiden van de stad, en een van de meest hondvriendelijke van de omgeving. Honden zijn welkom op het zand buiten de middaguren in de zomer en de hele dag in de koelere maanden, al mogen ze nooit op de vissteiger.",
+          "it": "La rilassata spiaggia sull'isola barriera appena a sud della città, una delle più accoglienti per i cani della zona. I cani sono benvenuti sulla sabbia fuori dagli orari centrali estivi e tutto il giorno nei mesi più freschi, ma mai sul molo da pesca."
+        }
+      },
+      {
+        "name": "Sullivan's Island & the Lighthouse",
+        "emoji": "🚩",
+        "petFriendly": true,
+        "desc": {
+          "en": "A quiet barrier island of beach cottages and a modern lighthouse, with famously generous off-leash beach hours (a town permit is required). Leashed dogs are equally at home on its sandy lanes and at its dog-friendly tavern.",
+          "fr": "Une île-barrière tranquille faite de cottages de plage et d'un phare moderne, avec des plages horaires sans laisse réputées généreuses (un permis municipal est requis). Les chiens en laisse se sentent tout aussi à l'aise dans ses ruelles sablonneuses et dans sa taverne qui les accueille.",
+          "es": "Una tranquila isla barrera de casitas de playa y un faro moderno, con un horario sin correa para perros célebre por su generosidad (se requiere permiso municipal). Los perros con correa también se sienten como en casa en sus calles de arena y en su taberna apta para perros.",
+          "pt": "Uma ilha-barreira tranquila de casas de praia e um farol moderno, com horários sem trela famosos pela sua generosidade (é necessária uma licença da câmara municipal). Os cães à trela sentem-se igualmente em casa nas suas ruas arenosas e na sua taberna amiga de cães.",
+          "de": "Eine ruhige vorgelagerte Insel mit Strandhäusern und einem modernen Leuchtturm, mit bekanntermaßen großzügigen leinenfreien Strandzeiten (eine Genehmigung der Gemeinde ist erforderlich). Angeleinte Hunde fühlen sich ebenso wohl auf den Sandwegen und in der hundefreundlichen Taverne der Insel.",
+          "nl": "Een rustig eiland met strandhuisjes en een moderne vuurtoren, met beroemd ruime uren zonder lijn op het strand (een gemeentelijke vergunning is vereist). Aangelijnde honden voelen zich net zo thuis op de zandpaden en in de hondvriendelijke tavern.",
+          "it": "Una tranquilla isola barriera di cottage sulla spiaggia e un faro moderno, con orari senza guinzaglio famosi per la loro generosità (serve un permesso comunale). I cani al guinzaglio si trovano altrettanto bene sulle sue stradine sabbiose e nella sua taverna pet-friendly."
+        }
+      },
+      {
+        "name": "James Island County Park",
+        "emoji": "🐾",
+        "petFriendly": true,
+        "desc": {
+          "en": "A large county park just outside downtown with trails, a fishing dock and a fenced off-leash dog park, one of the few places near Charleston where dogs can legally run loose. Leashed elsewhere in the park, it is a good energy-burner away from the beach.",
+          "fr": "Un grand parc départemental juste en périphérie du centre-ville, avec des sentiers, un ponton de pêche et un parc à chiens clôturé sans laisse, l'un des rares endroits près de Charleston où les chiens peuvent légalement courir librement. En laisse ailleurs dans le parc, c'est un bon endroit pour dépenser de l'énergie loin de la plage.",
+          "es": "Un gran parque del condado justo a las afueras del centro, con senderos, un embarcadero de pesca y un parque para perros vallado sin correa, uno de los pocos lugares cerca de Charleston donde los perros pueden correr libremente de forma legal. Con correa en el resto del parque, es un buen lugar para que gasten energía fuera de la playa.",
+          "pt": "Um grande parque municipal mesmo às portas do centro, com trilhos, um cais de pesca e um parque para cães vedado onde podem andar sem trela, um dos poucos locais perto de Charleston onde os cães podem correr livremente de forma legal. À trela no resto do parque, é um bom local para gastar energia longe da praia.",
+          "de": "Ein großer County Park direkt vor der Innenstadt mit Wanderwegen, einem Angelsteg und einem eingezäunten Hundeauslauf ohne Leinenpflicht, einer der wenigen Orte nahe Charleston, an denen Hunde legal frei laufen dürfen. Im übrigen Park herrscht Leinenpflicht, sodass er ein guter Ort ist, um abseits des Strandes Energie loszuwerden.",
+          "nl": "Een groot county park net buiten het centrum met wandelpaden, een vissteiger en een omheind hondenpark zonder lijn, een van de weinige plekken bij Charleston waar honden legaal los mogen lopen. Elders in het park aangelijnd, is het een goede plek om energie kwijt te raken zonder naar het strand te hoeven.",
+          "it": "Un grande parco della contea appena fuori dal centro con sentieri, un molo da pesca e un'area cani recintata senza guinzaglio, uno dei pochi posti vicino a Charleston dove i cani possono correre legalmente liberi. Al guinzaglio nel resto del parco, è un buon modo per far sfogare energia lontano dalla spiaggia."
+        }
+      }
+    ],
+    "petTips": {
+      "en": [
+        "Plan around the beach timetables. Folly Beach allows leashed dogs before 10am and after 6pm from May to September, and all day October to April; the Isle of Palms and Sullivan's Island set their own hours, so check each island before you go.",
+        "Sullivan's Island requires a dog permit, available from the Town Hall with proof of rabies vaccination, and offers generous early-morning off-leash hours. It is worth the paperwork for the freedom.",
+        "Downtown Charleston is leashed everywhere, and enforced. Carry waste bags, keep to the shade in summer, and use the many dog-friendly patios, which will usually bring a water bowl.",
+        "For a legal off-leash run without the beach-hour rules, head to the fenced dog park at James Island County Park, just minutes from downtown.",
+        "Summers are hot and humid and pavements get very warm: walk early or late, carry plenty of water, and note that some famous sights nearby, such as the Angel Oak, do not admit dogs."
+      ],
+      "fr": [
+        "Organisez-vous autour des horaires de plage. Folly Beach autorise les chiens en laisse avant 10h et après 18h de mai à septembre, et toute la journée d'octobre à avril ; l'Isle of Palms et Sullivan's Island fixent chacune leurs propres horaires, vérifiez donc pour chaque île avant de partir.",
+        "Sullivan's Island exige un permis pour chien, délivré par la mairie sur présentation d'un justificatif de vaccination antirabique, et offre de généreuses heures sans laisse tôt le matin. La démarche administrative vaut le coup pour cette liberté.",
+        "Le centre-ville de Charleston impose la laisse partout, et la règle est appliquée. Munissez-vous de sacs, restez à l'ombre en été, et profitez des nombreuses terrasses acceptant les chiens, qui apportent généralement une gamelle d'eau.",
+        "Pour une sortie sans laisse légale, sans les contraintes horaires des plages, direction le parc à chiens clôturé de James Island County Park, à quelques minutes seulement du centre-ville.",
+        "Les étés sont chauds et humides et les trottoirs deviennent brûlants : marchez tôt ou tard, emportez beaucoup d'eau, et notez que certains sites célèbres des environs, comme l'Angel Oak, n'admettent pas les chiens."
+      ],
+      "es": [
+        "Planifica en torno a los horarios de playa. Folly Beach permite perros con correa antes de las 10:00 y después de las 18:00 de mayo a septiembre, y todo el día de octubre a abril; Isle of Palms y Sullivan's Island tienen sus propios horarios, así que consulta cada isla antes de ir.",
+        "Sullivan's Island exige un permiso para perros, disponible en el ayuntamiento con prueba de vacunación antirrábica, y ofrece generosos horarios sin correa a primera hora de la mañana. Merece la pena el papeleo por esa libertad.",
+        "En el centro de Charleston los perros van siempre con correa, y se controla. Lleva bolsas para los excrementos, busca la sombra en verano y aprovecha las numerosas terrazas de restaurantes aptas para perros, que suelen traer un bol de agua.",
+        "Para correr sin correa de forma legal sin las restricciones horarias de la playa, dirígete al parque para perros vallado de James Island County Park, a pocos minutos del centro.",
+        "Los veranos son calurosos y húmedos, y las aceras se calientan mucho: pasea temprano o al final del día, lleva bastante agua y ten en cuenta que algunos lugares famosos cercanos, como el Angel Oak, no admiten perros."
+      ],
+      "pt": [
+        "Planeie em função dos horários das praias. Folly Beach permite cães à trela antes das 10h e depois das 18h de maio a setembro, e o dia inteiro de outubro a abril; a Isle of Palms e Sullivan's Island têm os seus próprios horários, por isso verifique cada ilha antes de ir.",
+        "Sullivan's Island exige uma licença para cães, disponível na Câmara Municipal mediante comprovativo de vacinação antirrábica, e oferece horários generosos sem trela ao início da manhã. Vale a pena tratar da papelada pela liberdade que traz.",
+        "O centro de Charleston exige trela em todo o lado, e a regra é fiscalizada. Leve sacos para dejetos, procure a sombra no verão, e aproveite as muitas esplanadas amigas de cães, que costumam trazer uma taça de água.",
+        "Para uma corrida legal sem trela sem as restrições de horário das praias, vá ao parque para cães vedado em James Island County Park, a poucos minutos do centro.",
+        "Os verões são quentes e húmidos e os passeios ficam muito quentes: caminhe cedo ou tarde, leve bastante água, e tenha em conta que alguns locais famosos nas redondezas, como o Angel Oak, não admitem cães."
+      ],
+      "de": [
+        "Planen Sie um die Strand-Zeitpläne herum. Am Folly Beach sind angeleinte Hunde von Mai bis September vor 10 Uhr und nach 18 Uhr erlaubt sowie von Oktober bis April den ganzen Tag; Isle of Palms und Sullivan's Island legen jeweils eigene Zeiten fest, prüfen Sie also jede Insel vorab.",
+        "Auf Sullivan's Island ist eine Hundegenehmigung erforderlich, erhältlich im Rathaus mit Nachweis der Tollwutimpfung, und die Insel bietet großzügige leinenfreie Zeiten am frühen Morgen. Der Papierkram lohnt sich für diese Freiheit.",
+        "In der Innenstadt von Charleston herrscht überall Leinenpflicht, und sie wird durchgesetzt. Nehmen Sie Kotbeutel mit, halten Sie sich im Sommer im Schatten und nutzen Sie die vielen hundefreundlichen Terrassen, die meist einen Wassernapf bereitstellen.",
+        "Für einen legalen leinenfreien Auslauf ohne Strand-Zeitregeln fahren Sie zum eingezäunten Hundeauslauf im James Island County Park, nur wenige Minuten von der Innenstadt entfernt.",
+        "Die Sommer sind heiß und schwül, und die Gehwege werden sehr warm: Gehen Sie früh oder spät spazieren, nehmen Sie reichlich Wasser mit, und beachten Sie, dass einige berühmte Sehenswürdigkeiten in der Nähe, etwa die Angel Oak, keine Hunde zulassen."
+      ],
+      "nl": [
+        "Plan rond de strandtijden. Folly Beach staat aangelijnde honden toe voor 10 uur 's ochtends en na 18 uur van mei tot september, en de hele dag van oktober tot april; Isle of Palms en Sullivan's Island hanteren hun eigen uren, dus check elk eiland voordat je gaat.",
+        "Sullivan's Island vereist een hondenvergunning, verkrijgbaar bij het gemeentehuis met bewijs van rabiësvaccinatie, en biedt ruime uren zonder lijn vroeg in de ochtend. Het papierwerk is de vrijheid waard.",
+        "In het centrum van Charleston moet je overal aanlijnen, en dat wordt gehandhaafd. Neem poepzakjes mee, blijf in de zomer in de schaduw, en maak gebruik van de vele hondvriendelijke terrassen, die meestal een waterbak aanbieden.",
+        "Voor een legale rondje zonder lijn en zonder de strandtijden, ga naar het omheinde hondenpark bij James Island County Park, maar een paar minuten van het centrum.",
+        "Zomers zijn heet en vochtig en de stoepen worden erg warm: wandel vroeg of laat, neem genoeg water mee, en let op dat sommige bekende bezienswaardigheden in de buurt, zoals de Angel Oak, geen honden toelaten."
+      ],
+      "it": [
+        "Pianifica in base agli orari delle spiagge. Folly Beach permette i cani al guinzaglio prima delle 10 e dopo le 18 da maggio a settembre, e tutto il giorno da ottobre ad aprile; Isle of Palms e Sullivan's Island fissano i propri orari, quindi controlla ogni isola prima di andare.",
+        "Sullivan's Island richiede un permesso per il cane, disponibile presso il Municipio con prova della vaccinazione antirabbica, e offre generosi orari senza guinzaglio la mattina presto. Vale la pena della pratica burocratica per la libertà che dà.",
+        "Il centro di Charleston è al guinzaglio ovunque, e la regola viene fatta rispettare. Porta sacchetti per i bisogni, resta all'ombra in estate, e usa le tante terrazze pet-friendly, che di solito portano anche una ciotola d'acqua.",
+        "Per una corsa libera legale senza le regole degli orari da spiaggia, vai all'area cani recintata di James Island County Park, a pochi minuti dal centro.",
+        "Le estati sono calde e umide e i marciapiedi diventano molto caldi: cammina presto o tardi, porta molta acqua, e tieni presente che alcuni luoghi famosi vicini, come l'Angel Oak, non ammettono cani."
+      ]
+    },
+    "practicalInfo": {
+      "en": [
+        "Entry (domestic): no special paperwork is needed to travel to Charleston with a dog from within the US, but keep proof of a current rabies vaccination, which some beaches and hotels ask for.",
+        "Entry (from abroad): dogs entering the United States must be at least 6 months old, microchipped and covered by a completed CDC Dog Import Form under the federal rule in force since August 2024, with extra steps for dogs from high-rabies-risk countries. South Carolina has no statewide breed ban.",
+        "Emergency vet: Charleston has genuine 24/7 emergency care, including the Charleston Veterinary Referral Center (CVRC) and BluePearl Pet Hospital in Mount Pleasant, both open around the clock with no referral needed.",
+        "Getting there & around: fly into Charleston International (CHS), about 20 minutes from downtown. The Historic District is very walkable on the lead, but you will want a car or rideshare to reach the island beaches, as public transit carries service animals only.",
+        "Where dogs can go: leashed throughout downtown, the Battery and Waterfront Park; on the island beaches within their posted dog hours; off the lead only at the James Island dog park and during off-leash beach windows. Always carry waste bags."
+      ],
+      "fr": [
+        "Entrée (depuis les États-Unis) : aucune formalité particulière n'est nécessaire pour voyager avec un chien vers Charleston depuis le territoire américain, mais gardez un justificatif de vaccination antirabique à jour, demandé par certaines plages et certains hôtels.",
+        "Entrée (depuis l'étranger) : les chiens entrant aux États-Unis doivent avoir au moins 6 mois, être identifiés par puce électronique et couverts par un CDC Dog Import Form complété, conformément à la règle fédérale en vigueur depuis août 2024, avec des démarches supplémentaires pour les chiens venant de pays à haut risque rabique. La Caroline du Sud n'a pas d'interdiction de race à l'échelle de l'État.",
+        "Vétérinaire d'urgence : Charleston dispose d'un véritable service d'urgence 24h/24 et 7j/7, notamment le Charleston Veterinary Referral Center (CVRC) et le BluePearl Pet Hospital à Mount Pleasant, tous deux ouverts en continu sans besoin de recommandation.",
+        "Se rendre sur place et se déplacer : l'aéroport de Charleston International (CHS) se trouve à environ 20 minutes du centre-ville. Le quartier historique se parcourt très bien à pied en laisse, mais il faudra une voiture ou un VTC pour rejoindre les plages insulaires, les transports publics n'acceptant que les chiens d'assistance.",
+        "Où les chiens peuvent aller : en laisse partout dans le centre-ville, sur la Battery et à Waterfront Park ; sur les plages insulaires pendant leurs horaires affichés pour chiens ; sans laisse uniquement au parc à chiens de James Island et pendant les créneaux sans laisse des plages. Prévoyez toujours des sacs."
+      ],
+      "es": [
+        "Entrada (nacional): no se necesita ningún trámite especial para viajar a Charleston con un perro dentro de Estados Unidos, pero conserva la prueba de una vacunación antirrábica vigente, que algunas playas y hoteles piden.",
+        "Entrada (desde el extranjero): los perros que entran en Estados Unidos deben tener al menos 6 meses, estar microchipados y contar con el CDC Dog Import Form cumplimentado según la normativa federal vigente desde agosto de 2024, con pasos adicionales para perros procedentes de países de alto riesgo de rabia. Carolina del Sur no tiene ninguna prohibición de raza a nivel estatal.",
+        "Veterinario de urgencias: Charleston cuenta con atención de urgencias 24 horas de verdad, incluidos el Charleston Veterinary Referral Center (CVRC) y el BluePearl Pet Hospital en Mount Pleasant, ambos abiertos las 24 horas sin necesidad de derivación.",
+        "Cómo llegar y moverse: se llega volando al Charleston International (CHS), a unos 20 minutos del centro. El Distrito Histórico se recorre muy bien a pie con correa, pero necesitarás coche o un servicio de transporte con conductor para llegar a las playas de las islas, ya que el transporte público solo admite animales de servicio.",
+        "Dónde pueden ir los perros: con correa en todo el centro, en the Battery y en Waterfront Park; en las playas de las islas dentro de sus horarios señalizados para perros; sin correa solo en el parque para perros de James Island y durante las franjas horarias sin correa en las playas. Lleva siempre bolsas para los excrementos."
+      ],
+      "pt": [
+        "Entrada (viagem doméstica): não é necessária documentação especial para viajar até Charleston com um cão dentro dos EUA, mas leve um comprovativo de vacinação antirrábica válida, que algumas praias e hotéis pedem.",
+        "Entrada (do estrangeiro): os cães que entram nos Estados Unidos devem ter pelo menos 6 meses, estar identificados com microchip e ter um CDC Dog Import Form preenchido, ao abrigo da regra federal em vigor desde agosto de 2024, com passos adicionais para cães provenientes de países de alto risco de raiva. A Carolina do Sul não tem uma proibição estadual de raças.",
+        "Veterinário de urgência: Charleston tem cuidados de urgência genuinamente 24 horas, incluindo o Charleston Veterinary Referral Center (CVRC) e o BluePearl Pet Hospital em Mount Pleasant, ambos abertos a toda a hora, sem necessidade de referência.",
+        "Como chegar e circular: chegue de avião a Charleston International (CHS), a cerca de 20 minutos do centro. O Historic District é muito fácil de percorrer à trela, mas vai precisar de carro ou de um serviço de transporte por aplicação para chegar às praias das ilhas, já que os transportes públicos só admitem cães de assistência.",
+        "Onde os cães podem ir: à trela em todo o centro, na Battery e no Waterfront Park; nas praias das ilhas dentro dos horários publicados para cães; sem trela apenas no parque para cães de James Island e durante as janelas sem trela nas praias. Leve sempre sacos para dejetos."
+      ],
+      "de": [
+        "Einreise (national): Für eine Reise mit Hund innerhalb der USA nach Charleston sind keine besonderen Papiere nötig, bewahren Sie aber einen Nachweis einer aktuellen Tollwutimpfung auf, den manche Strände und Hotels verlangen.",
+        "Einreise (aus dem Ausland): Hunde, die in die Vereinigten Staaten einreisen, müssen mindestens 6 Monate alt, gechipt und durch ein vollständig ausgefülltes CDC Dog Import Form abgedeckt sein, gemäß der seit August 2024 geltenden Bundesregel, mit zusätzlichen Schritten für Hunde aus Ländern mit hohem Tollwutrisiko. South Carolina hat kein landesweites Rasseverbot.",
+        "Notfalltierarzt: Charleston verfügt über echte 24-Stunden-Notfallversorgung, darunter das Charleston Veterinary Referral Center (CVRC) und das BluePearl Pet Hospital in Mount Pleasant, beide rund um die Uhr geöffnet, ohne dass eine Überweisung nötig ist.",
+        "Anreise & Fortbewegung: Fliegen Sie zum Charleston International Airport (CHS), etwa 20 Minuten von der Innenstadt entfernt. Der Historic District lässt sich hervorragend an der Leine zu Fuß erkunden, für die Inselstrände brauchen Sie aber ein Auto oder einen Fahrdienst, da öffentliche Verkehrsmittel nur Diensthunde befördern.",
+        "Wo Hunde hin dürfen: angeleint in der gesamten Innenstadt, an der Battery und im Waterfront Park; auf den Inselstränden innerhalb der ausgewiesenen Hundezeiten; ohne Leine nur im Hundeauslauf von James Island und während der leinenfreien Strandzeiten. Führen Sie stets Kotbeutel mit."
+      ],
+      "nl": [
+        "Binnenkomst (binnenlands): er is geen speciaal papierwerk nodig om met een hond vanuit de VS naar Charleston te reizen, maar bewaar een bewijs van een actuele rabiësvaccinatie, dat sommige stranden en hotels vragen.",
+        "Binnenkomst (vanuit het buitenland): honden die de Verenigde Staten binnenkomen moeten minstens 6 maanden oud zijn, gechipt zijn en een ingevuld CDC Dog Import Form hebben onder de federale regel die sinds augustus 2024 van kracht is, met extra stappen voor honden uit landen met een hoog rabiësrisico. South Carolina heeft geen statenbreed rasverbod.",
+        "Spoedeisende dierenarts: Charleston heeft echte 24/7 spoedzorg, waaronder het Charleston Veterinary Referral Center (CVRC) en BluePearl Pet Hospital in Mount Pleasant, beide dag en nacht open zonder dat een verwijzing nodig is.",
+        "Aankomst & verplaatsen: vlieg naar Charleston International (CHS), ongeveer 20 minuten van het centrum. Het Historic District is prima aangelijnd te belopen, maar voor de eilandstranden heb je een auto of een taxi-app nodig, want het openbaar vervoer vervoert alleen hulphonden.",
+        "Waar honden mogen komen: aangelijnd door het hele centrum, op de Battery en in Waterfront Park; op de eilandstranden binnen de aangegeven hondenuren; los alleen in het hondenpark op James Island en tijdens de uren zonder lijn op het strand. Neem altijd poepzakjes mee."
+      ],
+      "it": [
+        "Ingresso (nazionale): non serve nessuna pratica particolare per viaggiare a Charleston con un cane dagli Stati Uniti, ma tieni a portata di mano la prova di una vaccinazione antirabbica aggiornata, che alcune spiagge e hotel richiedono.",
+        "Ingresso (dall'estero): i cani che entrano negli Stati Uniti devono avere almeno 6 mesi, essere microchippati e coperti da un CDC Dog Import Form compilato secondo la norma federale in vigore da agosto 2024, con passaggi aggiuntivi per i cani provenienti da paesi ad alto rischio rabbia. La Carolina del Sud non ha un divieto di razza a livello statale.",
+        "Veterinario d'emergenza: Charleston ha una vera assistenza d'emergenza 24 ore su 24, incluso il Charleston Veterinary Referral Center (CVRC) e il BluePearl Pet Hospital a Mount Pleasant, entrambi aperti giorno e notte senza bisogno di ricetta.",
+        "Come arrivare e spostarsi: atterra a Charleston International (CHS), a circa 20 minuti dal centro. Il Distretto Storico è molto percorribile al guinzaglio, ma ti servirà un'auto o un servizio di ride-sharing per raggiungere le spiagge sulle isole, dato che i mezzi pubblici accettano solo animali di servizio.",
+        "Dove possono andare i cani: al guinzaglio in tutto il centro, sul Battery e a Waterfront Park; sulle spiagge delle isole entro gli orari cani indicati; senza guinzaglio solo nell'area cani di James Island e durante le finestre orarie senza guinzaglio in spiaggia. Porta sempre sacchetti per i bisogni."
+      ]
+    }
+  },
   "norderney": {
     "history": {
       "en": "Norderney is the second-largest and grandest of Germany's East Frisian islands, a long ribbon of dune and sand off the Lower Saxony coast, sheltering the tidal Wadden Sea on its landward side. It opened as a royal sea-bathing resort in 1797, the first on the German North Sea, and grew into a fashionable spa whose Kurtheater, Conversationshaus and white villas still line the promenade today. The island is reached only by ferry from Norddeich and keeps cars firmly in check, so life runs on foot, by bicycle and on the small island bus. That easy, low-traffic rhythm, combined with three dog beaches, free waste bags on every corner and the only resident vet in the East Frisian islands, has made Norderney one of the most genuinely dog-welcoming resorts on the German coast, wrapped in fresh North Sea air and huge open skies.",

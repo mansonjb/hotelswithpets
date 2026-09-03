@@ -66032,5 +66032,130 @@
       "Dogs welcome for 15€ per night",
       "Close to town, shops and the promenade"
     ]
+  },
+  {
+    "id": "charleston-1",
+    "slug": "wentworth-mansion-charleston",
+    "name": "Wentworth Mansion",
+    "destinationSlug": "charleston",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 900,
+    "priceFrom": 380,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Wentworth%20Mansion%20Charleston",
+    "petFee": 40,
+    "petPolicy": "Up to two dogs of any size are welcome for 40$ per pet, per night. The ground-floor garden rooms have direct outside access for bathroom breaks, making this Gilded Age mansion a genuinely easy luxury stay with a dog. Please confirm details with the property when booking.",
+    "address": "149 Wentworth Street, Charleston, SC 29401",
+    "neighborhood": "Historic District, near King Street",
+    "highlights": [
+      "Gilded Age mansion in the Historic District",
+      "Two dogs of any size welcome, 40$ per pet per night",
+      "Ground-floor garden rooms with direct outside access"
+    ]
+  },
+  {
+    "id": "charleston-2",
+    "slug": "grand-bohemian-hotel-charleston",
+    "name": "Grand Bohemian Hotel Charleston",
+    "destinationSlug": "charleston",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9,
+    "reviewCount": 1500,
+    "priceFrom": 320,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Grand%20Bohemian%20Hotel%20Charleston",
+    "petFee": 150,
+    "petPolicy": "One dog of any size is welcome for 150$ per stay (two dogs for 200$ per stay). An arts-themed luxury hotel steps from the Historic District and King Street. Please confirm details with the property when booking.",
+    "address": "55 Wentworth Street, Charleston, SC 29401",
+    "neighborhood": "Historic District, off King Street",
+    "highlights": [
+      "Arts-themed luxury hotel off King Street",
+      "Dogs of any size welcome (150$ per stay)",
+      "Rooftop bar and central Historic District location"
+    ]
+  },
+  {
+    "id": "charleston-3",
+    "slug": "the-ryder-hotel-charleston",
+    "name": "The Ryder Hotel",
+    "destinationSlug": "charleston",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1300,
+    "priceFrom": 240,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=The%20Ryder%20Hotel%20Charleston",
+    "petFee": 150,
+    "petPolicy": "Dogs up to 40 lbs (about 18 kg) are welcome for a 150$ cleaning fee per stay, with complimentary organic dog treats made by the pastry chef. A lively boutique hotel with a pool and central location. Please confirm details with the property when booking.",
+    "address": "237 Meeting Street, Charleston, SC 29401",
+    "neighborhood": "Central, near the City Market",
+    "highlights": [
+      "Lively boutique hotel with a pool",
+      "Dogs up to 40 lbs welcome, chef-made dog treats",
+      "Central location near the City Market"
+    ]
+  },
+  {
+    "id": "charleston-4",
+    "slug": "hyatt-house-charleston-historic-district",
+    "name": "Hyatt House Charleston / Historic District",
+    "destinationSlug": "charleston",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 2000,
+    "priceFrom": 210,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hyatt%20House%20Charleston%20Historic%20District",
+    "petFee": 75,
+    "petPolicy": "Dogs up to 50 lbs (or two dogs up to 75 lbs combined) are welcome for a 75$ fee per stay. An all-suite hotel with kitchens, handy for families and longer stays near upper King Street. Please confirm details with the property when booking.",
+    "address": "560 King Street, Charleston, SC 29403",
+    "neighborhood": "Upper King Street",
+    "highlights": [
+      "All-suite hotel with kitchens, good for longer stays",
+      "Dogs up to 50 lbs welcome (75$ per stay)",
+      "Walkable upper King Street location"
+    ]
+  },
+  {
+    "id": "charleston-5",
+    "slug": "hampton-inn-charleston-historic-district",
+    "name": "Hampton Inn Charleston / Historic District",
+    "destinationSlug": "charleston",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 2400,
+    "priceFrom": 180,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hampton%20Inn%20Charleston%20Historic%20District",
+    "petFee": 75,
+    "petPolicy": "Up to two pets up to 75 lbs are welcome for 75$ (stays of 1-4 nights) or 125$ for longer stays. A reliable, well-located base in a converted historic building near the City Market. Please confirm details with the property when booking.",
+    "address": "345 Meeting Street, Charleston, SC 29403",
+    "neighborhood": "Near the City Market and Visitor Center",
+    "highlights": [
+      "Reliable base in a converted historic building",
+      "Two pets up to 75 lbs welcome",
+      "Steps from the City Market and Visitor Center"
+    ]
   }
 ]

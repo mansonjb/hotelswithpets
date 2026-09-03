@@ -7378,6 +7378,81 @@
     "iata": "CHQ"
   },
   {
+    "slug": "charleston",
+    "name": "Charleston",
+    "country": "United States",
+    "countryCode": "US",
+    "flag": "🇺🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/charleston.jpg",
+    "intro": "Charleston is the genteel heart of the South Carolina Lowcountry, a peninsula city of pastel single houses, cobblestoned lanes and live-oak promenades wrapped by two tidal rivers and the Atlantic. It is one of America's most dog-friendly cities: leashed dogs are welcome along the Battery and Waterfront Park, on the patios of King Street and, crucially, on a ring of barrier-island beaches just minutes away. The catch is the beach timetable, as Folly Beach, Sullivan's Island and the Isle of Palms each set their own seasonal dog hours, with early mornings and evenings the reliable windows in summer and near-total freedom from October to spring. Add a 24/7 emergency vet, mild winters and a walkable historic core, and Charleston makes a warm, easygoing base for exploring the Lowcountry with a dog, whether you want cobblestones and porches or wide Atlantic sand.",
+    "lat": 32.7765,
+    "lng": -79.9311,
+    "weather": {
+      "jan": {
+        "temp": 15,
+        "desc": "Mild winter",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 16,
+        "desc": "Mild & bright",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 20,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 24,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 28,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 31,
+        "desc": "Hot & humid",
+        "icon": "🌡️"
+      },
+      "jul": {
+        "temp": 32,
+        "desc": "Hottest month",
+        "icon": "🌡️"
+      },
+      "aug": {
+        "temp": 32,
+        "desc": "Hot & stormy",
+        "icon": "⛈️"
+      },
+      "sep": {
+        "temp": 29,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 25,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 20,
+        "desc": "Mild & mild",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 16,
+        "desc": "Mild winter",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "CHS"
+  },
+  {
     "slug": "chicago",
     "name": "Chicago",
     "country": "United States",

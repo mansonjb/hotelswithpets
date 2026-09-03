@@ -49,13 +49,14 @@ const URBAN_SLUGS = new Set([
   'helsinki', 'warsaw', 'budapest', 'prague', 'athens', 'istanbul',
   'dubai', 'singapore', 'new-york', 'los-angeles', 'san-francisco',
   'chicago', 'boston', 'toronto', 'montreal', 'sydney', 'melbourne',
+  'charleston',
 ])
 
 const COASTAL_SLUGS = new Set([
   'monte-carlo', 'la-rochelle', 'brest', 'boulogne-sur-mer', 'calais', 'dunkerque',
   'brighton', 'bournemouth', 'cardiff', 'bristol', 'liverpool',
   'dieppe', 'honfleur', 'etretat', 'le-havre', 'deauville', 'trouville',
-  'ostend', 'kiel', 'rostock', 'warnemunde', 'norderney',
+  'ostend', 'kiel', 'rostock', 'warnemunde', 'norderney', 'charleston',
 ])
 
 export function getVibes(slug: string, hotels: Hotel[]): string[] {

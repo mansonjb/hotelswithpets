@@ -31,6 +31,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "the Weststrand dog beach below the promenade, the walk through the dunes to the lighthouse and Das Kap, and the wild eastern beach at the Weiße Düne",
       area: "the resort centre and Weststrand, the eastern dunes around the Weiße Düne, and the sheltered Wadden Sea flats on the island's south side",
     },
+    'charleston': {
+      personality: "the genteel Lowcountry port city where dog owners stroll the Battery promenade and Waterfront Park under the live oaks, wander the cobblestoned Historic District, and drive out to the dog beaches of Folly, Sullivan's Island and the Isle of Palms",
+      highlight: "the Waterfront Park and Battery promenades, the historic streets around Rainbow Row and King Street, and the dog beaches of Folly and Sullivan's Island",
+      area: "the peninsula Historic District and the Battery, Hampton Park to the north, and the barrier-island beaches at Folly, Sullivan's Island and the Isle of Palms",
+    },
     'monte-carlo': {
       personality: `the glamorous Riviera city-state where dog owners stroll Port Hercule, the Casino square and the medieval Rocher on the lead before escaping to the coastal customs paths of Cap d'Ail`,
       highlight: `Le Rocher old town, the Port Hercule promenade, and the Chemin des Douaniers coastal path to Cap d'Ail`,
@@ -2164,6 +2169,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "la plage pour chiens du Weststrand en contrebas de la promenade, la marche à travers les dunes jusqu'au phare et à Das Kap, et la plage sauvage de l'est à la Weiße Düne",
       area: "le centre de la station et le Weststrand, les dunes orientales autour de la Weiße Düne, et les vasières abritées de la mer des Wadden sur le flanc sud de l'île",
     },
+    'charleston': {
+      personality: "la ville portuaire raffinée du Lowcountry où les propriétaires de chiens flânent sur la promenade de la Battery et à Waterfront Park sous les chênes verts, arpentent le quartier historique pavé, et prennent la voiture pour rejoindre les plages pour chiens de Folly, Sullivan's Island et l'Isle of Palms",
+      highlight: "les promenades de Waterfront Park et de la Battery, les rues historiques autour de Rainbow Row et de King Street, et les plages pour chiens de Folly et Sullivan's Island",
+      area: "le quartier historique de la péninsule et la Battery, Hampton Park au nord, et les plages des îles-barrières de Folly, Sullivan's Island et l'Isle of Palms",
+    },
     'monte-carlo': {
       personality: `le glamour de cette cité-État de la Riviera où les propriétaires de chiens flânent au Port Hercule, sur la place du Casino et dans le Rocher médiéval en laisse avant de s'échapper vers les sentiers des douaniers côtiers du Cap d'Ail`,
       highlight: `la vieille ville du Rocher, la promenade du Port Hercule et le sentier côtier du Chemin des Douaniers jusqu'au Cap d'Ail`,
@@ -4295,6 +4305,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "la gran isla balneario del mar del Norte, tranquila y con poco tráfico, donde los dueños de perros pasean por el paseo del Weststrand y por las dunas blancas de la Weiße Düne con correa, cruzan las marismas del mar de Wadden y dejan correr al perro en la zona de esparcimiento libre de la isla",
       highlight: "la playa para perros del Weststrand bajo el paseo marítimo, el paseo entre dunas hasta el faro y Das Kap, y la playa salvaje del este en la Weiße Düne",
       area: "el centro del complejo turístico y el Weststrand, las dunas del este alrededor de la Weiße Düne, y las marismas resguardadas del mar de Wadden en el lado sur de la isla",
+    },
+    'charleston': {
+      personality: "la elegante ciudad portuaria del Lowcountry donde los dueños de perros pasean por el paseo de the Battery y Waterfront Park bajo los robles centenarios, recorren el empedrado Distrito Histórico y se acercan en coche a las playas para perros de Folly, Sullivan's Island e Isle of Palms",
+      highlight: "los paseos de Waterfront Park y the Battery, las calles históricas en torno a Rainbow Row y King Street, y las playas para perros de Folly y Sullivan's Island",
+      area: "el Distrito Histórico de la península y the Battery, Hampton Park al norte, y las playas de las islas barrera de Folly, Sullivan's Island e Isle of Palms",
     },
     'monte-carlo': {
       personality: `el glamuroso estado-ciudad de la Riviera donde los dueños de perros pasean por Port Hercule, la plaza del Casino y el medieval Le Rocher con la correa antes de escaparse a los senderos costeros de aduaneros de Cap d'Ail`,
@@ -6428,6 +6443,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "a praia para cães do Weststrand sob o passeio marítimo, o passeio pelas dunas até ao farol e ao Das Kap, e a praia selvagem oriental na Weiße Düne",
       area: "o centro da estância e o Weststrand, as dunas orientais em torno da Weiße Düne, e as planícies abrigadas do mar de Wadden no lado sul da ilha",
     },
+    'charleston': {
+      personality: "a elegante cidade portuária do Lowcountry onde os donos de cães passeiam pela alameda da Battery e pelo Waterfront Park sob os carvalhos-de-virgínia, vagueiam pelas ruas de calçada do Historic District e conduzem até às praias para cães de Folly, Sullivan's Island e Isle of Palms",
+      highlight: "as alamedas do Waterfront Park e da Battery, as ruas históricas em torno de Rainbow Row e King Street, e as praias para cães de Folly e Sullivan's Island",
+      area: "o Historic District na península e a Battery, Hampton Park a norte, e as praias nas ilhas-barreira de Folly, Sullivan's Island e Isle of Palms",
+    },
     'monte-carlo': {
       personality: `a glamorosa cidade-estado da Riviera onde os donos de cães passeiam pelo Port Hercule, pela praça do Casino e pelo Rocher medieval com a trela, antes de escaparem para os trilhos aduaneiros costeiros de Cap d'Ail`,
       highlight: `a cidade velha de Le Rocher, o passeio do Port Hercule e o trilho costeiro Chemin des Douaniers até Cap d'Ail`,
@@ -8559,6 +8579,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "die prachtvolle, verkehrsarme Nordsee-Kurinsel, auf der Hundehalter angeleint die Weststrand-Promenade und die weißen Dünen der Weißen Düne entlanglaufen, das Watt des Wattenmeers durchqueren und den Hund im Freilaufbereich der Insel laufen lassen",
       highlight: "der Hundestrand am Weststrand unterhalb der Promenade, der Spaziergang durch die Dünen zum Leuchtturm und zum Kap sowie der wilde Ostende-Strand an der Weißen Düne",
       area: "das Zentrum des Kurorts und der Weststrand, die östlichen Dünen rund um die Weiße Düne sowie die geschützten Wattflächen auf der Südseite der Insel",
+    },
+    'charleston': {
+      personality: "die noble Hafenstadt des Lowcountry, in der Hundehalter unter Lebenseichen die Promenade der Battery und den Waterfront Park entlangspazieren, durch den kopfsteingepflasterten Historic District schlendern und zu den Hundestränden von Folly, Sullivan's Island und Isle of Palms hinausfahren",
+      highlight: "die Promenaden von Waterfront Park und Battery, die historischen Straßen rund um Rainbow Row und King Street sowie die Hundestrände von Folly und Sullivan's Island",
+      area: "der Historic District auf der Halbinsel und die Battery, Hampton Park im Norden sowie die vorgelagerten Inselstrände bei Folly, Sullivan's Island und Isle of Palms",
     },
     'monte-carlo': {
       personality: `der glamouröse Stadtstaat an der Riviera, wo Hundebesitzer den Port Hercule, den Casino-Platz und den mittelalterlichen Rocher an der Leine erkunden, bevor sie zu den Küsten-Zöllnerpfaden von Cap d'Ail entfliehen`,
@@ -10692,6 +10717,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "het hondenstrand van het Weststrand onder de promenade, de wandeling door de duinen naar de vuurtoren en Das Kap, en het wilde oostelijke strand bij de Weiße Düne",
       area: "het centrum van de badplaats en het Weststrand, de oostelijke duinen rond de Weiße Düne, en de beschutte Waddenzeevlaktes aan de zuidkant van het eiland",
     },
+    'charleston': {
+      personality: "de sierlijke havenstad van de Lowcountry waar hondenbaasjes over de Battery-promenade en door Waterfront Park wandelen onder de levende eiken, door het met kasseien geplaveide Historic District dwalen en naar de hondenstranden van Folly, Sullivan's Island en Isle of Palms rijden",
+      highlight: "de promenades van Waterfront Park en de Battery, de historische straten rond Rainbow Row en King Street, en de hondenstranden van Folly en Sullivan's Island",
+      area: "het Historic District op het schiereiland en de Battery, Hampton Park in het noorden, en de stranden op de barrière-eilanden bij Folly, Sullivan's Island en Isle of Palms",
+    },
     'monte-carlo': {
       personality: `de glamoureuze stadstaat aan de Rivièra waar hondenbezitters langs Port Hercule, het casinoplein en het middeleeuwse Le Rocher aan de riem wandelen voordat ze ontsnappen naar de douanepaden langs de kust van Cap d'Ail`,
       highlight: `de oude stad Le Rocher, de promenade van Port Hercule en het kustpad Chemin des Douaniers naar Cap d'Ail`,
@@ -12823,6 +12853,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "la grande isola termale del Mare del Nord, a basso traffico, dove i proprietari di cani passeggiano al guinzaglio sulla promenade del Weststrand e sulle dune bianche della Weiße Düne, attraversano le distese di marea del Wattenmeer e lasciano correre il cane nell'area di sgambamento libero dell'isola",
       highlight: "la spiaggia per cani del Weststrand sotto la passeggiata, la camminata tra le dune fino al faro e a Das Kap, e la spiaggia selvaggia orientale della Weiße Düne",
       area: "il centro della località e il Weststrand, le dune orientali intorno alla Weiße Düne, e le distese riparate del Wattenmeer sul lato sud dell'isola",
+    },
+    'charleston': {
+      personality: "l'elegante città portuale del Lowcountry dove i proprietari di cani passeggiano sulla promenade del Battery e a Waterfront Park sotto le querce vive, girano per le stradine in ciottoli del Distretto Storico e guidano fino alle spiagge per cani di Folly, Sullivan's Island e Isle of Palms",
+      highlight: "le promenade di Waterfront Park e del Battery, le strade storiche intorno a Rainbow Row e King Street, e le spiagge per cani di Folly e Sullivan's Island",
+      area: "il Distretto Storico sulla penisola e il Battery, Hampton Park a nord, e le spiagge sulle isole barriera a Folly, Sullivan's Island e Isle of Palms",
     },
     'monte-carlo': {
       personality: `la glamour città-stato della Riviera dove i proprietari di cani passeggiano al guinzaglio per Port Hercule, la piazza del Casino e il Rocher medievale prima di fuggire verso i sentieri doganali costieri di Cap d'Ail`,

@@ -3,7 +3,7 @@ import Image from 'next/image'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
-import { SITE_URL } from '@/lib/site'
+import { SITE_URL, buildAllezLink } from '@/lib/site'
 import arrondissements from '@/data/paris-arrondissements.json'
 
 const SLUG_PATH = 'destinations/paris/pet-friendly-hotels-by-arrondissement'
@@ -602,9 +602,12 @@ export default async function Page({
                       <p className="text-xs text-stone-600 leading-relaxed flex-1 mb-3 line-clamp-3">
                         {getPitch(hotel, locale)}
                       </p>
-                      {/* CTA */}
+                      {/* CTA. Stay22 Allez, like every other hotel card on the
+                          site. It used to be a raw booking.com search URL carrying
+                          aid=304142, an affiliate id that is not ours: those clicks
+                          were credited to someone else's account. */}
                       <a
-                        href={`https://www.booking.com/searchresults.html?ss=${encodeURIComponent(hotel.name + ' Paris')}&aid=304142`}
+                        href={buildAllezLink(hotel.name, 'Paris', 'France', `arr-${a.slug}`, 3)}
                         target="_blank"
                         rel="noopener sponsored"
                         className="block w-full text-center bg-orange-500 hover:bg-orange-600 text-white font-bold text-xs px-4 py-2.5 rounded-xl transition-colors"

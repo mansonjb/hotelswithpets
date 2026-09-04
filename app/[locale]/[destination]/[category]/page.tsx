@@ -9,7 +9,7 @@ import { generateIntro, generateFaqs, generateTips, generateWhy } from '@/lib/ed
 import destinations from '@/data/destinations.json'
 import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
-import { SITE_URL } from '@/lib/site'
+import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { getLocalizedCountryName } from '@/lib/countries'
 
@@ -292,7 +292,14 @@ export default async function ComboPage({
   )
   const relatedByCategory = destinations.filter((d) => otherDestSlugs.has(d.slug)).slice(0, 4)
 
-  const bookingUrl = `https://www.booking.com/searchresults.html?ss=${encodeURIComponent(dest.name)}&nflt=pets_allowed%3D1`
+  // Page-level CTAs (hero band, sidebar box, closing section). Built server-side
+  // as a Stay22 Allez link so the affiliate attribution ships in the HTML.
+  // These used to be raw booking.com search URLs carrying no aid, monetized only
+  // if the client-side LetMeAllez script loaded and rewrote them: an ad blocker,
+  // a script error or a CSP change silently dropped the attribution on all ~2350
+  // destination x category routes. Same landing experience (LMA sends the click
+  // to Allez anyway), minus the single point of failure.
+  const ctaHref = buildAllezDestLink(dest.name, dest.country, `combo-${destination}-${category}`, 3)
 
   return (
     <>
@@ -418,7 +425,7 @@ export default async function ComboPage({
                       )}
                     </div>
                     <a
-                      href={bookingUrl}
+                      href={ctaHref}
                       target="_blank"
                       rel="noopener noreferrer sponsored"
                       className="flex-shrink-0 bg-white text-gray-900 font-bold text-sm px-5 py-3 rounded-xl shadow-md hover:bg-gray-50 transition-colors whitespace-nowrap"
@@ -575,7 +582,7 @@ export default async function ComboPage({
                     <h3 className="font-extrabold text-lg mb-1">{p.ctaTitle}</h3>
                     <p className="text-white/70 text-xs mb-4 leading-relaxed">{p.ctaDesc}</p>
                     <a
-                      href={bookingUrl}
+                      href={ctaHref}
                       target="_blank"
                       rel="noopener noreferrer sponsored"
                       className="block text-center bg-white text-gray-900 font-bold text-sm py-3 px-4 rounded-xl hover:bg-gray-50 transition-colors shadow-lg"
@@ -741,7 +748,7 @@ export default async function ComboPage({
             <h2 className="text-3xl font-extrabold text-white mb-3">{p.ctaTitle}</h2>
             <p className="text-blue-200 text-base mb-8 max-w-xl mx-auto">{p.ctaDesc}</p>
             <a
-              href={bookingUrl}
+              href={ctaHref}
               target="_blank"
               rel="noopener noreferrer sponsored"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-blue-500 to-indigo-600 hover:from-blue-600 hover:to-indigo-700 text-white font-bold px-8 py-4 rounded-2xl text-lg transition-all duration-200 shadow-xl hover:-translate-y-0.5"

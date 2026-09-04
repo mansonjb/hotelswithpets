@@ -14,18 +14,19 @@ const defaultLocale: Locale = 'en'
 // bot sources.
 const BLOCKED_COUNTRIES = new Set(['SG'])
 
-// Real search / social crawlers are ALWAYS allowed through, whatever their geo,
-// so this never touches SEO indexing. Googlebot crawls from Google IPs (not SG)
-// anyway, this is just belt-and-braces.
-const ALLOWED_CRAWLER_UA =
-  /(googlebot|google-inspectiontool|storebot-google|bingbot|bingpreview|slurp|duckduckbot|baiduspider|yandex(bot)?|applebot|petalbot|facebookexternalhit|twitterbot|linkedinbot|whatsapp|telegrambot)/i
-
+// Blocked countries are 403'd UNCONDITIONALLY, whatever the user-agent.
+// We used to whitelist crawler UAs here (googlebot/bingbot/...) as belt-and-braces
+// for SEO, but that was the exact hole the flood exploited: a scraper fleet on
+// Singapore datacenter IPs spoofed a crawler UA to slip the country block, then
+// rendered the page in headless Chrome and fired GA4 (13,941 SG "direct/Chrome"
+// sessions in 3 days, hostname www.hotelswithpets.com = they really hit us).
+// Real Googlebot/Bingbot crawl from Google/Microsoft IP ranges, NEVER from a
+// Singapore datacenter, so dropping the UA allowance for blocked countries costs
+// zero real indexing while closing the bypass. Extend BLOCKED_COUNTRIES only for
+// confirmed non-market datacenter sources.
 function isBlockedBot(request: NextRequest): boolean {
   const country = request.headers.get('x-vercel-ip-country') ?? ''
-  if (!BLOCKED_COUNTRIES.has(country)) return false
-  const ua = request.headers.get('user-agent') ?? ''
-  if (ALLOWED_CRAWLER_UA.test(ua)) return false
-  return true
+  return BLOCKED_COUNTRIES.has(country)
 }
 
 function getLocale(request: NextRequest): Locale {

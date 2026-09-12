@@ -36,6 +36,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "the Waterfront Park and Battery promenades, the historic streets around Rainbow Row and King Street, and the dog beaches of Folly and Sullivan's Island",
       area: "the peninsula Historic District and the Battery, Hampton Park to the north, and the barrier-island beaches at Folly, Sullivan's Island and the Isle of Palms",
     },
+    'fuerteventura': {
+      personality: "the great winter-sun island of the Canaries, all dunes, lagoons and endless golden beaches, where dog owners plan around a handful of authorised dog beaches near Puerto del Rosario and escape to the wild sands of Cofete and the dunes of Corralejo",
+      highlight: "the Corralejo dunes, the wild remote beach of Cofete, and the authorised dog beaches around Puerto del Rosario",
+      area: "Corralejo and the northern dunes, Caleta de Fuste and the capital Puerto del Rosario on the east coast, and Morro Jable and Cofete in the far south",
+    },
     'monte-carlo': {
       personality: `the glamorous Riviera city-state where dog owners stroll Port Hercule, the Casino square and the medieval Rocher on the lead before escaping to the coastal customs paths of Cap d'Ail`,
       highlight: `Le Rocher old town, the Port Hercule promenade, and the Chemin des Douaniers coastal path to Cap d'Ail`,
@@ -2174,6 +2179,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "les promenades de Waterfront Park et de la Battery, les rues historiques autour de Rainbow Row et de King Street, et les plages pour chiens de Folly et Sullivan's Island",
       area: "le quartier historique de la péninsule et la Battery, Hampton Park au nord, et les plages des îles-barrières de Folly, Sullivan's Island et l'Isle of Palms",
     },
+    'fuerteventura': {
+      personality: "la grande île de soleil hivernal des Canaries, tout en dunes, lagons et plages dorées à perte de vue, où les propriétaires de chiens organisent leur séjour autour d'une poignée de plages canines autorisées près de Puerto del Rosario et s'évadent vers les sables sauvages de Cofete et les dunes de Corralejo",
+      highlight: "les dunes de Corralejo, la plage sauvage et reculée de Cofete, et les plages canines autorisées autour de Puerto del Rosario",
+      area: "Corralejo et les dunes du nord, Caleta de Fuste et la capitale Puerto del Rosario sur la côte est, et Morro Jable et Cofete tout au sud",
+    },
     'monte-carlo': {
       personality: `le glamour de cette cité-État de la Riviera où les propriétaires de chiens flânent au Port Hercule, sur la place du Casino et dans le Rocher médiéval en laisse avant de s'échapper vers les sentiers des douaniers côtiers du Cap d'Ail`,
       highlight: `la vieille ville du Rocher, la promenade du Port Hercule et le sentier côtier du Chemin des Douaniers jusqu'au Cap d'Ail`,
@@ -4310,6 +4320,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "la elegante ciudad portuaria del Lowcountry donde los dueños de perros pasean por el paseo de the Battery y Waterfront Park bajo los robles centenarios, recorren el empedrado Distrito Histórico y se acercan en coche a las playas para perros de Folly, Sullivan's Island e Isle of Palms",
       highlight: "los paseos de Waterfront Park y the Battery, las calles históricas en torno a Rainbow Row y King Street, y las playas para perros de Folly y Sullivan's Island",
       area: "el Distrito Histórico de la península y the Battery, Hampton Park al norte, y las playas de las islas barrera de Folly, Sullivan's Island e Isle of Palms",
+    },
+    'fuerteventura': {
+      personality: "la gran isla del sol de invierno en Canarias, todo dunas, lagunas y playas doradas interminables, donde los dueños de perros planifican en torno a un puñado de playas caninas autorizadas cerca de Puerto del Rosario y se escapan a las arenas salvajes de Cofete y las dunas de Corralejo",
+      highlight: "las dunas de Corralejo, la playa salvaje y remota de Cofete, y las playas caninas autorizadas alrededor de Puerto del Rosario",
+      area: "Corralejo y las dunas del norte, Caleta de Fuste y la capital Puerto del Rosario en la costa este, y Morro Jable y Cofete en el extremo sur",
     },
     'monte-carlo': {
       personality: `el glamuroso estado-ciudad de la Riviera donde los dueños de perros pasean por Port Hercule, la plaza del Casino y el medieval Le Rocher con la correa antes de escaparse a los senderos costeros de aduaneros de Cap d'Ail`,
@@ -6448,6 +6463,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "as alamedas do Waterfront Park e da Battery, as ruas históricas em torno de Rainbow Row e King Street, e as praias para cães de Folly e Sullivan's Island",
       area: "o Historic District na península e a Battery, Hampton Park a norte, e as praias nas ilhas-barreira de Folly, Sullivan's Island e Isle of Palms",
     },
+    'fuerteventura': {
+      personality: "a grande ilha de sol de inverno das Canárias, tudo dunas, lagoas e praias douradas intermináveis, onde os donos de cães planeiam em torno de um punhado de praias autorizadas perto de Puerto del Rosario e escapam para as areias selvagens de Cofete e as dunas de Corralejo",
+      highlight: "as dunas de Corralejo, a praia remota e selvagem de Cofete, e as praias autorizadas para cães à volta de Puerto del Rosario",
+      area: "Corralejo e as dunas do norte, Caleta de Fuste e a capital Puerto del Rosario na costa leste, e Morro Jable e Cofete no extremo sul",
+    },
     'monte-carlo': {
       personality: `a glamorosa cidade-estado da Riviera onde os donos de cães passeiam pelo Port Hercule, pela praça do Casino e pelo Rocher medieval com a trela, antes de escaparem para os trilhos aduaneiros costeiros de Cap d'Ail`,
       highlight: `a cidade velha de Le Rocher, o passeio do Port Hercule e o trilho costeiro Chemin des Douaniers até Cap d'Ail`,
@@ -8584,6 +8604,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "die noble Hafenstadt des Lowcountry, in der Hundehalter unter Lebenseichen die Promenade der Battery und den Waterfront Park entlangspazieren, durch den kopfsteingepflasterten Historic District schlendern und zu den Hundestränden von Folly, Sullivan's Island und Isle of Palms hinausfahren",
       highlight: "die Promenaden von Waterfront Park und Battery, die historischen Straßen rund um Rainbow Row und King Street sowie die Hundestrände von Folly und Sullivan's Island",
       area: "der Historic District auf der Halbinsel und die Battery, Hampton Park im Norden sowie die vorgelagerten Inselstrände bei Folly, Sullivan's Island und Isle of Palms",
+    },
+    'fuerteventura': {
+      personality: "die große Winterurlaubsinsel der Kanaren, ganz Dünen, Lagunen und endlose goldene Strände, auf der Hundebesitzer ihre Tage um eine Handvoll zugelassener Hundestrände nahe Puerto del Rosario herum planen und zum wilden Sand von Cofete und den Dünen von Corralejo aufbrechen",
+      highlight: "die Dünen von Corralejo, der wilde, abgelegene Strand von Cofete und die zugelassenen Hundestrände rund um Puerto del Rosario",
+      area: "Corralejo und die nördlichen Dünen, Caleta de Fuste und die Hauptstadt Puerto del Rosario an der Ostküste sowie Morro Jable und Cofete im äußersten Süden",
     },
     'monte-carlo': {
       personality: `der glamouröse Stadtstaat an der Riviera, wo Hundebesitzer den Port Hercule, den Casino-Platz und den mittelalterlichen Rocher an der Leine erkunden, bevor sie zu den Küsten-Zöllnerpfaden von Cap d'Ail entfliehen`,
@@ -10722,6 +10747,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "de promenades van Waterfront Park en de Battery, de historische straten rond Rainbow Row en King Street, en de hondenstranden van Folly en Sullivan's Island",
       area: "het Historic District op het schiereiland en de Battery, Hampton Park in het noorden, en de stranden op de barrière-eilanden bij Folly, Sullivan's Island en Isle of Palms",
     },
+    'fuerteventura': {
+      personality: "het grote winterzoneiland van de Canarische Eilanden, met duinen, lagunes en eindeloze gouden stranden, waar hondenbezitters hun planning afstemmen op een handvol toegestane hondenstranden bij Puerto del Rosario en wegvluchten naar het wilde zand van Cofete en de duinen van Corralejo",
+      highlight: "de duinen van Corralejo, het wilde afgelegen strand van Cofete en de toegestane hondenstranden rond Puerto del Rosario",
+      area: "Corralejo en de noordelijke duinen, Caleta de Fuste en hoofdstad Puerto del Rosario aan de oostkust, en Morro Jable en Cofete in het verre zuiden",
+    },
     'monte-carlo': {
       personality: `de glamoureuze stadstaat aan de Rivièra waar hondenbezitters langs Port Hercule, het casinoplein en het middeleeuwse Le Rocher aan de riem wandelen voordat ze ontsnappen naar de douanepaden langs de kust van Cap d'Ail`,
       highlight: `de oude stad Le Rocher, de promenade van Port Hercule en het kustpad Chemin des Douaniers naar Cap d'Ail`,
@@ -12858,6 +12888,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "l'elegante città portuale del Lowcountry dove i proprietari di cani passeggiano sulla promenade del Battery e a Waterfront Park sotto le querce vive, girano per le stradine in ciottoli del Distretto Storico e guidano fino alle spiagge per cani di Folly, Sullivan's Island e Isle of Palms",
       highlight: "le promenade di Waterfront Park e del Battery, le strade storiche intorno a Rainbow Row e King Street, e le spiagge per cani di Folly e Sullivan's Island",
       area: "il Distretto Storico sulla penisola e il Battery, Hampton Park a nord, e le spiagge sulle isole barriera a Folly, Sullivan's Island e Isle of Palms",
+    },
+    'fuerteventura': {
+      personality: "la grande isola del sole invernale delle Canarie, tutta dune, lagune e infinite spiagge dorate, dove i proprietari di cani pianificano intorno a una manciata di spiagge per cani autorizzate vicino a Puerto del Rosario e si rifugiano nelle sabbie selvagge di Cofete e nelle dune di Corralejo",
+      highlight: "le dune di Corralejo, la spiaggia selvaggia e remota di Cofete e le spiagge per cani autorizzate intorno a Puerto del Rosario",
+      area: "Corralejo e le dune settentrionali, Caleta de Fuste e la capitale Puerto del Rosario sulla costa orientale, e Morro Jable e Cofete nell'estremo sud",
     },
     'monte-carlo': {
       personality: `la glamour città-stato della Riviera dove i proprietari di cani passeggiano al guinzaglio per Port Hercule, la piazza del Casino e il Rocher medievale prima di fuggire verso i sentieri doganali costieri di Cap d'Ail`,

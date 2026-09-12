@@ -7,7 +7,7 @@ type Destination = typeof allDestinations[number]
 // Predefined slug sets for structural vibes
 const ISLAND_SLUGS = new Set([
   // Spain
-  'ibiza', 'formentera', 'gran-canaria', 'lanzarote', 'tenerife',
+  'ibiza', 'formentera', 'gran-canaria', 'lanzarote', 'tenerife', 'fuerteventura',
   'palma-de-mallorca', 'alcudia', 'soller', 'valldemossa', 'sant-antoni-de-portmany',
   'sant-josep-de-sa-talaia', 'santa-eularia-des-riu', 'mahon', 'ciutadella-de-menorca',
   // Greece
@@ -56,7 +56,7 @@ const COASTAL_SLUGS = new Set([
   'monte-carlo', 'la-rochelle', 'brest', 'boulogne-sur-mer', 'calais', 'dunkerque',
   'brighton', 'bournemouth', 'cardiff', 'bristol', 'liverpool',
   'dieppe', 'honfleur', 'etretat', 'le-havre', 'deauville', 'trouville',
-  'ostend', 'kiel', 'rostock', 'warnemunde', 'norderney', 'charleston',
+  'ostend', 'kiel', 'rostock', 'warnemunde', 'norderney', 'charleston', 'fuerteventura',
 ])
 
 export function getVibes(slug: string, hotels: Hotel[]): string[] {

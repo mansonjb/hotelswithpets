@@ -66157,5 +66157,130 @@
       "Two pets up to 75 lbs welcome",
       "Steps from the City Market and Visitor Center"
     ]
+  },
+  {
+    "id": "fuerteventura-1",
+    "slug": "hotel-elba-sara-fuerteventura",
+    "name": "Hotel Elba Sara Beach & Golf Resort",
+    "destinationSlug": "fuerteventura",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3200,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Elba%20Sara%20Fuerteventura",
+    "petFee": 15,
+    "petPolicy": "Dogs are welcome, typically for around 15€ per night, with designated areas to walk your dog on the resort grounds. A large family beach-and-golf resort at Caleta de Fuste. Please confirm the current pet fee and conditions with the property when booking.",
+    "address": "Urbanización Caleta de Fuste, 35610 Antigua, Fuerteventura",
+    "neighborhood": "Caleta de Fuste, near the golf course",
+    "highlights": [
+      "Large family beach-and-golf resort",
+      "Dogs welcome with designated dog-walking areas",
+      "Central east-coast base near the airport"
+    ]
+  },
+  {
+    "id": "fuerteventura-2",
+    "slug": "aparthotel-bahia-de-lobos-corralejo",
+    "name": "Aparthotel Bahía de Lobos",
+    "destinationSlug": "fuerteventura",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 2100,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Aparthotel%20Bahia%20de%20Lobos%20Corralejo",
+    "petFee": 10,
+    "petPolicy": "Pets are welcome in specific rooms, typically for around 10€ per night. Self-catering apartments near Corralejo, handy for the northern dunes and the ferry. Please confirm availability of pet rooms and the current fee with the property when booking.",
+    "address": "Av. Islas Canarias, 35660 Corralejo, Fuerteventura",
+    "neighborhood": "Corralejo, near the dunes",
+    "highlights": [
+      "Self-catering apartments near Corralejo",
+      "Pets welcome in specific rooms",
+      "Close to the northern dunes and the Lobos ferry"
+    ]
+  },
+  {
+    "id": "fuerteventura-3",
+    "slug": "hotel-rural-mahoh-villaverde",
+    "name": "Hotel Rural Mahoh",
+    "destinationSlug": "fuerteventura",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 9,
+    "reviewCount": 700,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Rural%20Mahoh%20Fuerteventura",
+    "petFee": 10,
+    "petPolicy": "Dogs are welcome, typically for around 10€ per night. A restored 19th-century Canarian country house outside Villaverde in the quieter north, with gardens and space. Please confirm details with the property when booking.",
+    "address": "Sitio de Juan Bello, 35640 Villaverde, La Oliva, Fuerteventura",
+    "neighborhood": "Villaverde, rural north",
+    "highlights": [
+      "Restored 19th-century Canarian country house",
+      "Dogs welcome, with gardens and open space",
+      "Quiet rural north, near Corralejo and El Cotillo"
+    ]
+  },
+  {
+    "id": "fuerteventura-4",
+    "slug": "fuertevillage-caleta-de-fuste",
+    "name": "Fuertevillage",
+    "destinationSlug": "fuerteventura",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1500,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Fuertevillage%20Caleta%20de%20Fuste",
+    "petFee": 10,
+    "petPolicy": "Dogs are welcome, typically for around 10€ per night. Apartment-style accommodation on the east coast, practical for families with a car. Please confirm the current pet fee and conditions with the property when booking.",
+    "address": "Caleta de Fuste, 35610 Antigua, Fuerteventura",
+    "neighborhood": "Caleta de Fuste",
+    "highlights": [
+      "Apartment-style accommodation for families",
+      "Dogs welcome",
+      "Central east-coast location near the airport"
+    ]
+  },
+  {
+    "id": "fuerteventura-5",
+    "slug": "pax-et-bonum-corralejo",
+    "name": "Pax et Bonum",
+    "destinationSlug": "fuerteventura",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 400,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Pax%20et%20Bonum%20Corralejo%20Fuerteventura",
+    "petFee": 10,
+    "petPolicy": "Dogs are welcome, typically for around 10€ per night. A small, well-rated guesthouse in Corralejo, an easy base for the northern beaches and town. Please confirm details with the property when booking.",
+    "address": "Corralejo, 35660 La Oliva, Fuerteventura",
+    "neighborhood": "Corralejo town",
+    "highlights": [
+      "Small, highly rated guesthouse",
+      "Dogs welcome",
+      "Walkable Corralejo base near shops and the port"
+    ]
   }
 ]

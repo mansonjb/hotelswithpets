@@ -1,0 +1,1380 @@
+{
+  "slug": "fuerteventura",
+  "name": "Fuerteventura",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "lastUpdated": "2026-09-12",
+  "guides": {
+    "vets": {
+      "titleEn": "Emergency Vets in Fuerteventura, Veterinary Clinics & Pet Care",
+      "introEn": "Fuerteventura has veterinary clinics in its main towns, from Corralejo in the north to Puerto del Rosario in the centre and the resorts of the south, covering routine care, vaccinations and everyday emergencies. There is no dedicated 24/7 animal hospital on the island, so for nights and serious cases you rely on the clinics' out-of-hours cover, and the most complex care can mean a transfer to Gran Canaria. Distances here are long, so save a clinic number on arrival and call ahead before driving over.",
+      "entryRequirements": {
+        "euPets": "The Canary Islands are part of Spain and the EU for pet travel. Your dog or cat needs an ISO microchip, a valid rabies vaccination and an EU pet passport. There is no quarantine for compliant pets, and dogs, cats and ferrets are covered by the same scheme.",
+        "nonEuPets": "Arriving from outside the EU, your pet needs an ISO microchip, a valid rabies vaccination and an EU Animal Health Certificate issued within 10 days of entry (plus a rabies antibody test for some countries). You clear entry at the EU border on arrival.",
+        "emergencyContacts": "There is no 24/7 animal hospital on Fuerteventura. Daytime clinics include Clínica Veterinaria Corralejo (north) and Medivet Puerto del Rosario (centre), with more in the southern resorts. For nights or serious emergencies, call your nearest clinic for out-of-hours cover; the most critical cases may be referred to Gran Canaria.",
+        "euPetsFr": "Les îles Canaries font partie de l'Espagne et de l'UE pour les voyages avec animaux. Votre chien ou chat a besoin d'une puce ISO, d'une vaccination antirabique valide et d'un passeport européen pour animaux. Aucune quarantaine pour les animaux en règle, et chiens, chats et furets sont couverts par le même dispositif.",
+        "nonEuPetsFr": "En arrivant de hors de l'UE, votre animal a besoin d'une puce ISO, d'une vaccination antirabique valide et d'un certificat sanitaire européen délivré dans les 10 jours précédant l'entrée (plus un test d'anticorps antirabiques pour certains pays). Le contrôle se fait à la frontière européenne à l'arrivée.",
+        "emergencyContactsFr": "Il n'existe pas d'hôpital vétérinaire ouvert 24h/24 à Fuerteventura. Les cliniques de jour incluent la Clínica Veterinaria Corralejo (nord) et Medivet Puerto del Rosario (centre), avec d'autres dans les stations du sud. Pour les nuits ou les urgences graves, appelez la clinique la plus proche pour la garde ; les cas les plus critiques peuvent être orientés vers Gran Canaria.",
+        "euPetsEs": "Las Islas Canarias forman parte de España y de la UE a efectos de viajar con mascotas. Tu perro o gato necesita un microchip ISO, una vacunación antirrábica vigente y un pasaporte europeo para animales de compañía. No hay cuarentena para las mascotas que cumplan los requisitos, y perros, gatos y hurones están cubiertos por el mismo régimen.",
+        "nonEuPetsEs": "Si llegas de fuera de la UE, tu mascota necesita un microchip ISO, una vacunación antirrábica vigente y un certificado sanitario de la UE para animales expedido en los 10 días previos a la entrada (además de una prueba de anticuerpos antirrábicos para algunos países). El control de entrada se realiza en la frontera de la UE a la llegada.",
+        "emergencyContactsEs": "No hay hospital veterinario 24 horas en Fuerteventura. Entre las clínicas diurnas están la Clínica Veterinaria Corralejo (norte) y Medivet Puerto del Rosario (centro), además de otras en los resorts del sur. Para las noches o urgencias graves, llama a tu clínica más cercana para la cobertura fuera de horario; los casos más críticos pueden derivarse a Gran Canaria.",
+        "euPetsPt": "As Ilhas Canárias fazem parte de Espanha e da UE para viagens com animais. O seu cão ou gato precisa de microchip ISO, vacina antirrábica válida e passaporte europeu para animais de companhia. Não há quarentena para animais em conformidade, e cães, gatos e furões estão abrangidos pelo mesmo regime.",
+        "nonEuPetsPt": "Chegando de fora da UE, o seu animal precisa de microchip ISO, vacina antirrábica válida e um certificado sanitário da UE emitido nos 10 dias anteriores à entrada (mais um teste de anticorpos antirrábicos para alguns países). O desalfandegamento é feito na fronteira da UE à chegada.",
+        "emergencyContactsPt": "Não há hospital veterinário 24 horas em Fuerteventura. As clínicas diurnas incluem a Clínica Veterinaria Corralejo (norte) e a Medivet Puerto del Rosario (centro), com mais opções nas estâncias do sul. Para noites ou emergências graves, ligue para a clínica mais próxima para saber da cobertura fora de horas; os casos mais críticos podem ser referenciados para Gran Canaria.",
+        "euPetsDe": "Die Kanarischen Inseln gehören zu Spanien und damit zur EU für die Heimtiereinreise. Ihr Hund oder Ihre Katze braucht einen ISO-Mikrochip, eine gültige Tollwutimpfung und einen EU-Heimtierausweis. Für konforme Tiere gibt es keine Quarantäne, und Hunde, Katzen und Frettchen fallen unter dieselbe Regelung.",
+        "nonEuPetsDe": "Bei Ankunft aus einem Nicht-EU-Land braucht Ihr Haustier einen ISO-Mikrochip, eine gültige Tollwutimpfung und eine EU-Tiergesundheitsbescheinigung, die innerhalb von 10 Tagen vor der Einreise ausgestellt wurde (für manche Länder zusätzlich ein Tollwut-Antikörpertest). Die Einreisekontrolle erfolgt an der EU-Grenze bei Ankunft.",
+        "emergencyContactsDe": "Eine 24-Stunden-Tierklinik gibt es auf Fuerteventura nicht. Tagsüber geöffnete Kliniken sind unter anderem die Clínica Veterinaria Corralejo (Norden) und Medivet Puerto del Rosario (Zentrum), weitere finden sich in den südlichen Ferienorten. Rufen Sie nachts oder bei ernsten Notfällen die nächstgelegene Klinik wegen der Bereitschaftsregelung an; die kritischsten Fälle werden mitunter nach Gran Canaria überwiesen.",
+        "euPetsNl": "De Canarische Eilanden horen bij Spanje en de EU wat huisdierenreizen betreft. Je hond of kat heeft een ISO-microchip, een geldige rabiësvaccinatie en een Europees dierenpaspoort nodig. Er is geen quarantaine voor huisdieren die aan de eisen voldoen, en honden, katten en fretten vallen onder dezelfde regeling.",
+        "nonEuPetsNl": "Kom je van buiten de EU, dan heeft je huisdier een ISO-microchip, een geldige rabiësvaccinatie en een Europees gezondheidscertificaat nodig dat binnen 10 dagen voor aankomst is afgegeven (plus een rabiës-antistoftest voor sommige landen). Je wordt bij aankomst gecontroleerd aan de EU-grens.",
+        "emergencyContactsNl": "Er is geen 24-uurs dierenziekenhuis op Fuerteventura. Overdag zijn er onder meer Clínica Veterinaria Corralejo (noorden) en Medivet Puerto del Rosario (midden), plus meer klinieken in de badplaatsen in het zuiden. Bel 's nachts of bij ernstige spoedgevallen de dichtstbijzijnde kliniek voor de dienstregeling buiten kantooruren; de meest kritieke gevallen kunnen worden doorverwezen naar Gran Canaria.",
+        "euPetsIt": "Le isole Canarie fanno parte della Spagna e dell'UE per i viaggi con animali. Il tuo cane o gatto ha bisogno di un microchip ISO, una vaccinazione antirabbica valida e un passaporto UE per animali. Non è prevista quarantena per gli animali in regola, e cani, gatti e furetti sono coperti dallo stesso regime.",
+        "nonEuPetsIt": "Se arrivi da fuori UE, il tuo animale ha bisogno di un microchip ISO, una vaccinazione antirabbica valida e un certificato sanitario UE per animali rilasciato entro 10 giorni dall'ingresso (più un test degli anticorpi antirabbici per alcuni paesi). L'ingresso viene verificato alla frontiera UE all'arrivo.",
+        "emergencyContactsIt": "Non c'è un ospedale veterinario aperto 24 ore su 24 a Fuerteventura. Le cliniche diurne includono Clínica Veterinaria Corralejo (nord) e Medivet Puerto del Rosario (centro), con altre nelle località del sud. Per le notti o le emergenze gravi, chiama la clinica più vicina per la copertura fuori orario; i casi più critici possono essere indirizzati a Gran Canaria."
+      },
+      "places": [
+        {
+          "name": "Clínica Veterinaria Corralejo",
+          "type": "General veterinary clinic",
+          "address": "Corralejo, 35660 La Oliva, Fuerteventura",
+          "phone": "",
+          "hours": "Daytime, check current hours",
+          "englishSpeaking": true,
+          "website": "",
+          "description": "A long-established clinic in Corralejo, running since 1992, handling consultations, vaccinations and everyday care in the busy north of the island. Its location makes it the natural first call if you are staying near the dunes or the Lobos ferry.",
+          "tip": "Corralejo is the biggest northern town, so this is the handiest clinic if you are based up north; call ahead for an appointment.",
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Corralejo+Fuerteventura",
+          "photo": "",
+          "descriptionFr": "Une clinique bien établie à Corralejo, en activité depuis 1992, assurant consultations, vaccinations et soins courants dans le nord animé de l'île. Sa localisation en fait le premier réflexe naturel si vous logez près des dunes ou du ferry pour Lobos.",
+          "tipFr": "Corralejo est la plus grande ville du nord, c'est donc la clinique la plus pratique si vous logez là-haut ; appelez avant pour prendre rendez-vous.",
+          "hoursFr": "Journée, vérifier les horaires actuels",
+          "descriptionEs": "Una clínica veterana en Corralejo, en funcionamiento desde 1992, que atiende consultas, vacunaciones y cuidados diarios en el concurrido norte de la isla. Su ubicación la convierte en la primera opción natural si te alojas cerca de las dunas o del ferri a Lobos.",
+          "tipEs": "Corralejo es el mayor pueblo del norte, así que esta es la clínica más práctica si te alojas por la zona; llama antes para pedir cita.",
+          "hoursEs": "Diurno, consultar horario actual",
+          "descriptionPt": "Uma clínica há muito estabelecida em Corralejo, em funcionamento desde 1992, que trata de consultas, vacinação e cuidados do dia a dia no movimentado norte da ilha. A sua localização torna-a a primeira escolha natural se estiver alojado perto das dunas ou do ferry para Lobos.",
+          "tipPt": "Corralejo é a maior vila do norte, por isso esta é a clínica mais prática se estiver alojado a norte; telefone com antecedência para marcar consulta.",
+          "hoursPt": "Diurno, confirmar horário atual",
+          "descriptionDe": "Eine seit 1992 etablierte Klinik in Corralejo, die Sprechstunden, Impfungen und die alltägliche Versorgung im belebten Norden der Insel übernimmt. Ihre Lage macht sie zur naheliegenden ersten Anlaufstelle, wenn Sie in der Nähe der Dünen oder der Lobos-Fähre wohnen.",
+          "tipDe": "Corralejo ist der größte Ort im Norden, daher ist diese Klinik die praktischste Wahl, wenn Sie dort untergebracht sind; rufen Sie vorab für einen Termin an.",
+          "hoursDe": "Tagsüber, aktuelle Öffnungszeiten bitte erfragen",
+          "descriptionNl": "Een gevestigde kliniek in Corralejo, actief sinds 1992, voor consulten, vaccinaties en dagelijkse zorg in het drukke noorden van het eiland. Door de locatie is dit de logische eerste keus als je bij de duinen of de veerboot naar Lobos verblijft.",
+          "tipNl": "Corralejo is de grootste plaats in het noorden, dus dit is de handigste kliniek als je daar verblijft; bel van tevoren voor een afspraak.",
+          "hoursNl": "Overdag, controleer de actuele openingstijden",
+          "descriptionIt": "Una clinica storica di Corralejo, attiva dal 1992, che gestisce visite, vaccinazioni e cure quotidiane nella vivace zona nord dell'isola. La sua posizione la rende la scelta naturale se soggiorni vicino alle dune o al traghetto per Lobos.",
+          "tipIt": "Corralejo è la città più grande del nord, quindi questa è la clinica più comoda se ti trovi lì; chiama in anticipo per un appuntamento.",
+          "hoursIt": "Diurno, verifica gli orari aggiornati"
+        },
+        {
+          "name": "Medivet Puerto del Rosario",
+          "type": "General veterinary clinic",
+          "address": "Puerto del Rosario, 35600 Fuerteventura",
+          "phone": "",
+          "hours": "Daytime, check current hours",
+          "englishSpeaking": true,
+          "website": "",
+          "description": "A veterinary clinic in the island capital, central for the east coast and the authorised dog beaches nearby. A practical choice for routine care or a check-up, and reachable from most of the main resort areas.",
+          "tip": "Being in the capital, it is the most central option; ask here about the vétérinaire de garde equivalent for out-of-hours needs.",
+          "googleMapsUrl": "https://maps.google.com/?q=Medivet+Puerto+del+Rosario+Fuerteventura",
+          "photo": "",
+          "descriptionFr": "Une clinique vétérinaire dans la capitale de l'île, centrale pour la côte est et les plages canines autorisées à proximité. Un choix pratique pour des soins courants ou une visite de contrôle, accessible depuis la plupart des zones de stations principales.",
+          "tipFr": "Étant dans la capitale, c'est l'option la plus centrale ; renseignez-vous ici sur l'équivalent de la garde vétérinaire pour les besoins hors horaires.",
+          "hoursFr": "Journée, vérifier les horaires actuels",
+          "descriptionEs": "Una clínica veterinaria en la capital de la isla, céntrica para la costa este y las playas caninas autorizadas cercanas. Una opción práctica para atención rutinaria o una revisión, y accesible desde la mayoría de las zonas turísticas principales.",
+          "tipEs": "Al estar en la capital, es la opción más céntrica; pregunta aquí por el equivalente al veterinario de guardia para necesidades fuera de horario.",
+          "hoursEs": "Diurno, consultar horario actual",
+          "descriptionPt": "Uma clínica veterinária na capital da ilha, central em relação à costa leste e às praias autorizadas para cães nas proximidades. Uma escolha prática para cuidados de rotina ou uma consulta de verificação, e acessível a partir da maioria das zonas turísticas principais.",
+          "tipPt": "Por estar na capital, é a opção mais central; pergunte aqui pelo equivalente ao serviço de urgência fora de horas.",
+          "hoursPt": "Diurno, confirmar horário atual",
+          "descriptionDe": "Eine Tierklinik in der Inselhauptstadt, zentral gelegen für die Ostküste und die nahen zugelassenen Hundestrände. Eine praktische Wahl für die Routineversorgung oder eine Untersuchung, gut erreichbar von den meisten größeren Ferienorten aus.",
+          "tipDe": "Da sie in der Hauptstadt liegt, ist sie die zentralste Option; fragen Sie hier nach der Bereitschaftsregelung außerhalb der normalen Öffnungszeiten.",
+          "hoursDe": "Tagsüber, aktuelle Öffnungszeiten bitte erfragen",
+          "descriptionNl": "Een dierenkliniek in de hoofdstad van het eiland, centraal gelegen voor de oostkust en de nabijgelegen toegestane hondenstranden. Een praktische keuze voor routinezorg of een controle, en bereikbaar vanuit de meeste badplaatsen.",
+          "tipNl": "Doordat het in de hoofdstad ligt, is dit de meest centrale optie; vraag hier naar de dienstregeling buiten kantooruren.",
+          "hoursNl": "Overdag, controleer de actuele openingstijden",
+          "descriptionIt": "Una clinica veterinaria nella capitale dell'isola, centrale rispetto alla costa orientale e alle spiagge per cani autorizzate vicine. Una scelta pratica per cure di routine o un controllo, raggiungibile dalla maggior parte delle zone turistiche principali.",
+          "tipIt": "Trovandosi nella capitale, è l'opzione più centrale; chiedi qui informazioni sull'equivalente del servizio di reperibilità per le esigenze fuori orario.",
+          "hoursIt": "Diurno, verifica gli orari aggiornati"
+        },
+        {
+          "name": "Veterinary clinics in the south (Gran Tarajal / Morro Jable)",
+          "type": "Veterinary clinics, southern Fuerteventura",
+          "address": "Gran Tarajal and Morro Jable, southern Fuerteventura",
+          "phone": "",
+          "hours": "Daytime, by clinic",
+          "englishSpeaking": false,
+          "website": "",
+          "description": "If you are staying in the far south around Jandía, Morro Jable or Costa Calma, there are clinics in Gran Tarajal and the southern resorts, saving the long drive north. Worth identifying before you travel so you know the nearest option to your base.",
+          "tip": "The island is long, so pick the clinic nearest your accommodation rather than defaulting to the capital.",
+          "googleMapsUrl": "https://maps.google.com/?q=veterinario+Morro+Jable+Fuerteventura",
+          "photo": "",
+          "descriptionFr": "Si vous logez tout au sud autour de Jandía, Morro Jable ou Costa Calma, il existe des cliniques à Gran Tarajal et dans les stations du sud, évitant le long trajet vers le nord. À repérer avant votre voyage pour connaître l'option la plus proche de votre logement.",
+          "tipFr": "L'île est longue : choisissez la clinique la plus proche de votre hébergement plutôt que de vous rabattre par défaut sur la capitale.",
+          "hoursFr": "Journée, selon la clinique",
+          "descriptionEs": "Si te alojas en el extremo sur, en Jandía, Morro Jable o Costa Calma, hay clínicas en Gran Tarajal y en los resorts del sur, que te ahorran el largo trayecto hacia el norte. Merece la pena localizarlas antes de viajar para saber cuál es la opción más cercana a tu alojamiento.",
+          "tipEs": "La isla es alargada, así que elige la clínica más cercana a tu alojamiento en lugar de recurrir siempre a la de la capital.",
+          "hoursEs": "Diurno, según la clínica",
+          "descriptionPt": "Se estiver alojado no extremo sul, à volta de Jandía, Morro Jable ou Costa Calma, há clínicas em Gran Tarajal e nas estâncias do sul, poupando a longa viagem até ao norte. Vale a pena identificar antes de viajar para saber qual a opção mais próxima da sua base.",
+          "tipPt": "A ilha é comprida, por isso escolha a clínica mais próxima do seu alojamento em vez de optar por defeito pela capital.",
+          "hoursPt": "Diurno, por clínica",
+          "descriptionDe": "Wenn Sie im äußersten Süden rund um Jandía, Morro Jable oder Costa Calma untergebracht sind, gibt es Kliniken in Gran Tarajal und den südlichen Ferienorten, die Ihnen die lange Fahrt in den Norden ersparen. Es lohnt sich, die passende Klinik schon vor der Reise zu identifizieren.",
+          "tipDe": "Die Insel ist lang gestreckt, wählen Sie also die Klinik in der Nähe Ihrer Unterkunft, statt automatisch in die Hauptstadt zu fahren.",
+          "hoursDe": "Tagsüber, je nach Klinik unterschiedlich",
+          "descriptionNl": "Verblijf je helemaal in het zuiden rond Jandía, Morro Jable of Costa Calma, dan zijn er klinieken in Gran Tarajal en de badplaatsen in het zuiden, zodat je de lange rit naar het noorden bespaart. Het loont om deze vooraf op te zoeken, zodat je weet wat de dichtstbijzijnde optie bij jouw verblijf is.",
+          "tipNl": "Het eiland is langgerekt, kies dus de kliniek die het dichtst bij je accommodatie ligt in plaats van standaard naar de hoofdstad te gaan.",
+          "hoursNl": "Overdag, per kliniek",
+          "descriptionIt": "Se soggiorni nell'estremo sud intorno a Jandía, Morro Jable o Costa Calma, ci sono cliniche a Gran Tarajal e nelle località del sud, risparmiandoti il lungo viaggio verso nord. Vale la pena individuarle prima di partire, così sai qual è l'opzione più vicina alla tua base.",
+          "tipIt": "L'isola è lunga, quindi scegli la clinica più vicina al tuo alloggio invece di puntare sempre sulla capitale.",
+          "hoursIt": "Diurno, secondo la clinica"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour vet in Fuerteventura?",
+          "a": "There is no dedicated 24/7 animal hospital on the island. Clinics in Corralejo, Puerto del Rosario and the southern towns cover daytime care and offer out-of-hours cover by phone; the most serious cases may be referred to Gran Canaria. Save a clinic number on arrival and call before driving over."
+        },
+        {
+          "q": "Do vets in Fuerteventura speak English?",
+          "a": "Fuerteventura is a major international resort island, so clinics in Corralejo and the capital generally manage in English and often German. It still helps to call ahead, and to carry your pet's EU passport and vaccination record for any visit."
+        }
+      ],
+      "titleFr": "Vétérinaires d'urgence à Fuerteventura, cliniques vétérinaires et soins pour animaux",
+      "introFr": "Fuerteventura compte des cliniques vétérinaires dans ses principales villes, de Corralejo au nord à Puerto del Rosario au centre et dans les stations du sud, couvrant les soins courants, les vaccinations et les urgences du quotidien. Il n'existe pas d'hôpital vétérinaire dédié ouvert 24h/24 sur l'île : pour les nuits et les cas graves, vous dépendez de la garde des cliniques, et les soins les plus complexes peuvent nécessiter un transfert vers Gran Canaria. Les distances y sont longues, gardez donc un numéro de clinique dès votre arrivée et appelez avant de prendre la route.",
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire ouvert 24h/24 à Fuerteventura ?",
+          "a": "Il n'existe pas d'hôpital vétérinaire dédié ouvert 24h/24 sur l'île. Les cliniques de Corralejo, Puerto del Rosario et des villes du sud assurent les soins de jour et proposent une garde par téléphone hors horaires ; les cas les plus graves peuvent être orientés vers Gran Canaria. Gardez un numéro de clinique dès votre arrivée et appelez avant de prendre la route."
+        },
+        {
+          "q": "Les vétérinaires de Fuerteventura parlent-ils anglais ?",
+          "a": "Fuerteventura est une grande île touristique internationale, les cliniques de Corralejo et de la capitale se débrouillent donc généralement en anglais et souvent en allemand. Il reste utile d'appeler à l'avance et d'apporter le passeport européen et le carnet de vaccination de votre animal pour toute visite."
+        }
+      ],
+      "titleEs": "Veterinarios de Urgencia en Fuerteventura, Clínicas Veterinarias y Cuidado de Mascotas",
+      "introEs": "Fuerteventura cuenta con clínicas veterinarias en sus principales localidades, desde Corralejo en el norte hasta Puerto del Rosario en el centro y los resorts del sur, que cubren atención rutinaria, vacunaciones y urgencias del día a día. No hay un hospital veterinario 24 horas dedicado en la isla, así que para las noches y los casos graves dependes de la cobertura fuera de horario de las clínicas, y la atención más compleja puede suponer un traslado a Gran Canaria. Las distancias aquí son largas, así que guarda el número de una clínica al llegar y llama antes de conducir hasta allí.",
+      "faqsEs": [
+        {
+          "q": "¿Hay algún veterinario de 24 horas en Fuerteventura?",
+          "a": "No hay un hospital veterinario 24 horas dedicado en la isla. Las clínicas de Corralejo, Puerto del Rosario y los pueblos del sur cubren la atención diurna y ofrecen cobertura fuera de horario por teléfono; los casos más graves pueden derivarse a Gran Canaria. Guarda el número de una clínica al llegar y llama antes de conducir hasta allí."
+        },
+        {
+          "q": "¿Los veterinarios de Fuerteventura hablan español... y otros idiomas?",
+          "a": "Fuerteventura es una gran isla turística internacional, así que las clínicas de Corralejo y la capital suelen desenvolverse bien en inglés y a menudo en alemán, además del español. Aun así conviene llamar antes, y llevar el pasaporte europeo de tu mascota y su cartilla de vacunación a cualquier visita."
+        }
+      ],
+      "titlePt": "Veterinários de Urgência em Fuerteventura, Clínicas Veterinárias e Cuidados para Animais",
+      "introPt": "Fuerteventura tem clínicas veterinárias nas suas principais vilas, desde Corralejo a norte até Puerto del Rosario no centro e às estâncias do sul, cobrindo cuidados de rotina, vacinação e urgências do dia a dia. Não existe um hospital veterinário dedicado 24 horas na ilha, por isso, para as noites e casos graves, conta-se com a cobertura fora de horas das clínicas, e os cuidados mais complexos podem implicar uma transferência para Gran Canaria. As distâncias aqui são longas, por isso guarde o número de uma clínica à chegada e telefone antes de se deslocar.",
+      "faqsPt": [
+        {
+          "q": "Há algum veterinário 24 horas em Fuerteventura?",
+          "a": "Não há um hospital veterinário dedicado 24 horas na ilha. As clínicas em Corralejo, Puerto del Rosario e nas vilas do sul cobrem cuidados diurnos e oferecem cobertura fora de horas por telefone; os casos mais graves podem ser referenciados para Gran Canaria. Guarde o número de uma clínica à chegada e telefone antes de se deslocar."
+        },
+        {
+          "q": "Os veterinários em Fuerteventura falam inglês?",
+          "a": "Fuerteventura é uma grande ilha turística internacional, por isso as clínicas em Corralejo e na capital geralmente falam inglês e frequentemente alemão. Continua a ser útil telefonar com antecedência e levar consigo o passaporte europeu e o registo de vacinação do seu animal em qualquer visita."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte auf Fuerteventura, Tierkliniken & Tiermedizinische Versorgung",
+      "introDe": "Fuerteventura verfügt über Tierkliniken in den wichtigsten Orten, von Corralejo im Norden über Puerto del Rosario in der Inselmitte bis zu den Ferienorten im Süden, die Routineversorgung, Impfungen und alltägliche Notfälle abdecken. Eine eigene 24-Stunden-Tierklinik gibt es auf der Insel nicht, für Nächte und schwere Fälle sind Sie also auf die Bereitschaftsregelung der Kliniken angewiesen, und die komplexesten Fälle können eine Verlegung nach Gran Canaria bedeuten. Die Distanzen sind hier lang, notieren Sie sich also bei Ankunft eine Klinik-Telefonnummer und rufen Sie vor der Fahrt an.",
+      "faqsDe": [
+        {
+          "q": "Gibt es eine 24-Stunden-Tierklinik auf Fuerteventura?",
+          "a": "Eine eigene 24-Stunden-Tierklinik gibt es auf der Insel nicht. Kliniken in Corralejo, Puerto del Rosario und den südlichen Orten decken die Tagesversorgung ab und bieten telefonisch eine Bereitschaftsregelung außerhalb der Öffnungszeiten; die schwersten Fälle werden mitunter nach Gran Canaria überwiesen. Notieren Sie sich bei Ankunft eine Klinik-Telefonnummer und rufen Sie vor der Fahrt an."
+        },
+        {
+          "q": "Sprechen Tierärzte auf Fuerteventura Englisch?",
+          "a": "Fuerteventura ist eine bedeutende internationale Ferieninsel, daher kommen Kliniken in Corralejo und der Hauptstadt in der Regel gut mit Englisch zurecht, häufig auch mit Deutsch. Es hilft trotzdem, vorab anzurufen und den EU-Heimtierausweis sowie das Impfbuch Ihres Hundes zu jedem Termin mitzubringen."
+        }
+      ],
+      "titleNl": "Spoedeisende dierenartsen in Fuerteventura, dierenklinieken en zorg voor huisdieren",
+      "introNl": "Fuerteventura heeft dierenklinieken in de belangrijkste plaatsen, van Corralejo in het noorden tot Puerto del Rosario in het midden en de badplaatsen in het zuiden, voor routinezorg, vaccinaties en dagelijkse spoedgevallen. Er is geen apart 24-uurs dierenziekenhuis op het eiland, dus 's nachts en bij ernstige gevallen ben je afhankelijk van de dienstregeling van de klinieken buiten kantooruren, en de meest complexe zorg kan een overplaatsing naar Gran Canaria betekenen. De afstanden zijn hier groot, dus bewaar bij aankomst een klinieknummer en bel van tevoren voordat je erheen rijdt.",
+      "faqsNl": [
+        {
+          "q": "Is er een 24-uurs dierenarts in Fuerteventura?",
+          "a": "Er is geen apart 24-uurs dierenziekenhuis op het eiland. Klinieken in Corralejo, Puerto del Rosario en de plaatsen in het zuiden bieden zorg overdag en telefonische dienstregeling buiten kantooruren; de meest ernstige gevallen kunnen worden doorverwezen naar Gran Canaria. Bewaar bij aankomst een klinieknummer en bel voordat je erheen rijdt."
+        },
+        {
+          "q": "Spreken dierenartsen in Fuerteventura Engels?",
+          "a": "Fuerteventura is een groot internationaal vakantie-eiland, dus klinieken in Corralejo en de hoofdstad redden zich over het algemeen goed in het Engels en vaak ook in het Duits. Het helpt nog steeds om van tevoren te bellen en het Europese dierenpaspoort en vaccinatiebewijs van je huisdier mee te nemen."
+        }
+      ],
+      "titleIt": "Veterinari di Emergenza a Fuerteventura, Cliniche Veterinarie e Cura degli Animali",
+      "introIt": "Fuerteventura ha cliniche veterinarie nelle sue principali città, da Corralejo a nord a Puerto del Rosario al centro fino alle località del sud, che coprono cure di routine, vaccinazioni ed emergenze quotidiane. Non esiste un ospedale veterinario dedicato aperto 24 ore su 24 nell'isola, quindi per le notti e i casi gravi ci si affida alla copertura fuori orario delle cliniche, e le cure più complesse possono richiedere un trasferimento a Gran Canaria. Le distanze qui sono lunghe, quindi salva il numero di una clinica all'arrivo e chiama prima di metterti in viaggio.",
+      "faqsIt": [
+        {
+          "q": "C'è un veterinario aperto 24 ore su 24 a Fuerteventura?",
+          "a": "Non esiste un ospedale veterinario dedicato aperto 24 ore su 24 nell'isola. Le cliniche di Corralejo, Puerto del Rosario e le città del sud coprono le cure diurne e offrono copertura fuori orario per telefono; i casi più gravi possono essere indirizzati a Gran Canaria. Salva il numero di una clinica all'arrivo e chiama prima di metterti in viaggio."
+        },
+        {
+          "q": "I veterinari a Fuerteventura parlano inglese?",
+          "a": "Fuerteventura è una grande isola turistica internazionale, quindi le cliniche di Corralejo e della capitale generalmente se la cavano in inglese e spesso anche in tedesco. Resta comunque utile chiamare in anticipo e portare con sé il passaporto UE e il libretto delle vaccinazioni del tuo animale per ogni visita."
+        }
+      ]
+    },
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Fuerteventura: Where to Eat with Your Dog",
+      "introEn": "Fuerteventura's relaxed, outdoor dining suits a dog well, and leashed dogs are welcome on many terraces, from the harbour restaurants of El Cotillo to the seafront cafés of Corralejo and Caleta de Fuste. Most kitchens are happy to bring a water bowl if you ask. Keep your dog beside your table, choose a shaded or breezy terrace given the strong sun, and in peak winter-sun season it is worth going early or booking ahead.",
+      "places": [
+        {
+          "name": "La Vaca Azul",
+          "address": "Calle Requena 9, 35650 El Cotillo, Fuerteventura",
+          "neighborhood": "El Cotillo harbour",
+          "photo": "",
+          "website": "",
+          "description": "A famous fish restaurant right on the old harbour of El Cotillo, built over the water with a sunset-facing terrace. Leashed dogs are welcome at the outdoor tables, making it a classic spot for fresh Canarian fish and papas arrugadas after a walk along the northwest coast.",
+          "petPolicy": "Leashed dogs welcome on the terrace",
+          "priceRange": "€€€",
+          "mustTry": "Fresh local fish with papas arrugadas and mojo",
+          "openingHours": "Daily, lunch and dinner",
+          "tip": "Book a terrace table for sunset over the harbour; it is popular, so go early in high season.",
+          "googleMapsUrl": "https://maps.google.com/?q=La+Vaca+Azul+El+Cotillo",
+          "descriptionFr": "Un célèbre restaurant de poisson en plein sur le vieux port d'El Cotillo, construit au-dessus de l'eau avec une terrasse face au coucher de soleil. Les chiens en laisse sont les bienvenus aux tables extérieures, ce qui en fait une adresse classique pour du poisson canarien frais et des papas arrugadas après une balade sur la côte nord-ouest.",
+          "petPolicyFr": "Chiens en laisse acceptés en terrasse",
+          "mustTryFr": "Poisson local frais avec papas arrugadas et mojo",
+          "openingHoursFr": "Tous les jours, midi et soir",
+          "tipFr": "Réservez une table en terrasse pour le coucher de soleil sur le port ; c'est très fréquenté, venez tôt en haute saison.",
+          "descriptionEs": "Un famoso restaurante de pescado justo en el antiguo puerto de El Cotillo, construido sobre el agua con una terraza orientada al atardecer. Los perros atados son bienvenidos en las mesas exteriores, lo que lo convierte en un clásico para pescado canario fresco y papas arrugadas después de un paseo por la costa noroeste.",
+          "petPolicyEs": "Perros atados bienvenidos en la terraza",
+          "mustTryEs": "Pescado fresco de la zona con papas arrugadas y mojo",
+          "openingHoursEs": "Todos los días, comida y cena",
+          "tipEs": "Reserva una mesa de terraza para el atardecer sobre el puerto; es popular, así que ve pronto en temporada alta.",
+          "descriptionPt": "Um famoso restaurante de peixe mesmo no antigo porto de El Cotillo, construído sobre a água com uma esplanada virada para o pôr do sol. Os cães à trela são bem-vindos nas mesas exteriores, o que faz dele um clássico para peixe canário fresco e papas arrugadas depois de um passeio pela costa noroeste.",
+          "petPolicyPt": "Cães à trela bem-vindos na esplanada",
+          "mustTryPt": "Peixe fresco local com papas arrugadas e mojo",
+          "openingHoursPt": "Diariamente, almoço e jantar",
+          "tipPt": "Reserve uma mesa na esplanada para o pôr do sol sobre o porto; é popular, por isso vá cedo na época alta.",
+          "descriptionDe": "Ein berühmtes Fischrestaurant direkt am alten Hafen von El Cotillo, über dem Wasser erbaut mit einer Terrasse zum Sonnenuntergang. Angeleinte Hunde sind an den Außentischen willkommen, was das Lokal zu einem klassischen Ziel für frischen kanarischen Fisch und papas arrugadas nach einem Spaziergang an der Nordwestküste macht.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Frischer lokaler Fisch mit papas arrugadas und mojo",
+          "openingHoursDe": "Täglich, mittags und abends",
+          "tipDe": "Reservieren Sie einen Terrassentisch für den Sonnenuntergang über dem Hafen; das Lokal ist beliebt, kommen Sie also in der Hochsaison früh.",
+          "descriptionNl": "Een beroemd visrestaurant direct aan de oude haven van El Cotillo, gebouwd boven het water met een terras op het zuiden richting de zonsondergang. Honden aan de lijn zijn welkom aan de buitentafels, wat het een klassieke plek maakt voor verse Canarische vis en papas arrugadas na een wandeling langs de noordwestkust.",
+          "petPolicyNl": "Honden aan de lijn welkom op het terras",
+          "mustTryNl": "Verse lokale vis met papas arrugadas en mojo",
+          "openingHoursNl": "Dagelijks, lunch en diner",
+          "tipNl": "Reserveer een terrastafel voor de zonsondergang boven de haven; het is populair, dus ga vroeg in het hoogseizoen.",
+          "descriptionIt": "Un famoso ristorante di pesce proprio sul vecchio porto di El Cotillo, costruito sull'acqua con una terrazza rivolta al tramonto. I cani al guinzaglio sono benvenuti ai tavoli esterni, il che lo rende un classico per pesce canario fresco e papas arrugadas dopo una passeggiata sulla costa nordoccidentale.",
+          "petPolicyIt": "Cani al guinzaglio benvenuti in terrazza",
+          "mustTryIt": "Pesce locale fresco con papas arrugadas e mojo",
+          "openingHoursIt": "Tutti i giorni, pranzo e cena",
+          "tipIt": "Prenota un tavolo in terrazza per il tramonto sul porto; è molto richiesto, quindi arriva presto in alta stagione."
+        },
+        {
+          "name": "Corralejo Old Town terraces (Avenida Marítima)",
+          "address": "Avenida Marítima, 35660 Corralejo, Fuerteventura",
+          "neighborhood": "Corralejo old town and seafront",
+          "photo": "",
+          "website": "",
+          "description": "The cluster of seafront and old-town terraces around Corralejo's harbour and Avenida Marítima, where many bars and restaurants happily seat a calm, leashed dog outside. An easy, low-key choice for tapas or a drink with sea views in the island's liveliest northern town.",
+          "petPolicy": "Many terraces welcome leashed dogs (confirm at the door)",
+          "priceRange": "€€",
+          "mustTry": "Canarian tapas and a caña by the harbour",
+          "openingHours": "Daily, from midday to late",
+          "tip": "Stroll the seafront and pick a shaded terrace; most are relaxed about a well-behaved dog.",
+          "googleMapsUrl": "https://maps.google.com/?q=Avenida+Maritima+Corralejo+restaurants",
+          "descriptionFr": "Le regroupement de terrasses en bord de mer et de la vieille ville autour du port de Corralejo et de l'Avenida Marítima, où de nombreux bars et restaurants accueillent volontiers un chien calme et en laisse en extérieur. Un choix simple et décontracté pour des tapas ou un verre avec vue sur mer dans la ville la plus animée du nord de l'île.",
+          "petPolicyFr": "De nombreuses terrasses acceptent les chiens en laisse (à confirmer sur place)",
+          "mustTryFr": "Tapas canariennes et une caña au bord du port",
+          "openingHoursFr": "Tous les jours, de midi à tard le soir",
+          "tipFr": "Flânez le long du front de mer et choisissez une terrasse ombragée ; la plupart sont tolérantes avec un chien bien élevé.",
+          "descriptionEs": "El conjunto de terrazas frente al mar y en el casco antiguo alrededor del puerto de Corralejo y la Avenida Marítima, donde muchos bares y restaurantes acogen encantados a un perro tranquilo y atado en el exterior. Una opción fácil y sin pretensiones para tapear o tomar algo con vistas al mar en el pueblo más animado del norte de la isla.",
+          "petPolicyEs": "Muchas terrazas admiten perros atados (confirmar en la puerta)",
+          "mustTryEs": "Tapas canarias y una caña junto al puerto",
+          "openingHoursEs": "Todos los días, de mediodía hasta tarde",
+          "tipEs": "Pasea por el paseo marítimo y elige una terraza con sombra; la mayoría son relajadas con un perro bien educado.",
+          "descriptionPt": "O conjunto de esplanadas junto ao mar e na zona antiga à volta do porto de Corralejo e da Avenida Marítima, onde muitos bares e restaurantes recebem de bom grado um cão calmo e à trela lá fora. Uma escolha fácil e descontraída para tapas ou uma bebida com vista para o mar na vila mais animada do norte da ilha.",
+          "petPolicyPt": "Muitas esplanadas recebem cães à trela (confirmar à entrada)",
+          "mustTryPt": "Tapas canárias e uma caña junto ao porto",
+          "openingHoursPt": "Diariamente, do meio-dia até tarde",
+          "tipPt": "Passeie pela marginal e escolha uma esplanada com sombra; a maioria é descontraída com um cão bem-comportado.",
+          "descriptionDe": "Die Ansammlung von Strand- und Altstadtterrassen rund um den Hafen von Corralejo und die Avenida Marítima, wo viele Bars und Restaurants einen ruhigen, angeleinten Hund gerne draußen mitsitzen lassen. Eine unkomplizierte Wahl für Tapas oder ein Getränk mit Meerblick im lebhaftesten Ort im Norden der Insel.",
+          "petPolicyDe": "Viele Terrassen begrüßen angeleinte Hunde (bitte an der Tür bestätigen lassen)",
+          "mustTryDe": "Kanarische Tapas und eine caña am Hafen",
+          "openingHoursDe": "Täglich, von mittags bis spät",
+          "tipDe": "Schlendern Sie an der Strandpromenade entlang und wählen Sie eine schattige Terrasse; die meisten sind entspannt bei einem gut erzogenen Hund.",
+          "descriptionNl": "De verzameling terrassen aan zee en in de oude stad rond de haven van Corralejo en de Avenida Marítima, waar veel bars en restaurants een rustige hond aan de lijn graag buiten laten zitten. Een makkelijke, ongedwongen keuze voor tapas of een drankje met zeezicht in het levendigste dorp van het noorden van het eiland.",
+          "petPolicyNl": "Veel terrassen verwelkomen honden aan de lijn (bevestig dit bij binnenkomst)",
+          "mustTryNl": "Canarische tapas en een caña bij de haven",
+          "openingHoursNl": "Dagelijks, van 's middags tot laat",
+          "tipNl": "Wandel over de boulevard en kies een terras in de schaduw; de meeste zijn ontspannen over een goedopgevoede hond.",
+          "descriptionIt": "Il gruppo di terrazze sul lungomare e nel centro storico intorno al porto di Corralejo e all'Avenida Marítima, dove molti bar e ristoranti fanno accomodare volentieri all'esterno un cane calmo e al guinzaglio. Una scelta facile e informale per tapas o un drink con vista mare nella città più vivace del nord dell'isola.",
+          "petPolicyIt": "Molte terrazze accolgono cani al guinzaglio (conferma all'ingresso)",
+          "mustTryIt": "Tapas canarie e una caña sul porto",
+          "openingHoursIt": "Tutti i giorni, da mezzogiorno fino a tardi",
+          "tipIt": "Passeggia sul lungomare e scegli una terrazza ombreggiata; la maggior parte sono tranquille riguardo a un cane ben educato."
+        },
+        {
+          "name": "Caleta de Fuste marina restaurants",
+          "address": "Muelle de Caleta de Fuste, 35610 Antigua, Fuerteventura",
+          "neighborhood": "Caleta de Fuste marina",
+          "photo": "",
+          "website": "",
+          "description": "The ring of restaurants and cafés around the marina and promenade at Caleta de Fuste, on the central east coast near the airport. Their outdoor terraces are generally welcoming to leashed dogs, handy for a family meal by the water between beach and airport.",
+          "petPolicy": "Leashed dogs generally welcome on the terraces",
+          "priceRange": "€€",
+          "mustTry": "Grilled fish or a shared paella by the marina",
+          "openingHours": "Daily, lunch and dinner",
+          "tip": "The promenade is flat and easy for an evening walk with your dog before dinner.",
+          "googleMapsUrl": "https://maps.google.com/?q=Caleta+de+Fuste+marina+restaurants",
+          "descriptionFr": "L'ensemble de restaurants et cafés autour de la marina et de la promenade de Caleta de Fuste, sur la côte est centrale près de l'aéroport. Leurs terrasses extérieures accueillent généralement les chiens en laisse, pratique pour un repas en famille au bord de l'eau entre plage et aéroport.",
+          "petPolicyFr": "Chiens en laisse généralement acceptés en terrasse",
+          "mustTryFr": "Poisson grillé ou une paella à partager au bord de la marina",
+          "openingHoursFr": "Tous les jours, midi et soir",
+          "tipFr": "La promenade est plate et facile pour une balade en soirée avec votre chien avant le dîner.",
+          "descriptionEs": "El anillo de restaurantes y cafeterías alrededor del puerto deportivo y el paseo de Caleta de Fuste, en la costa este central cerca del aeropuerto. Sus terrazas exteriores suelen ser acogedoras con perros atados, prácticas para una comida en familia junto al agua entre la playa y el aeropuerto.",
+          "petPolicyEs": "Perros atados generalmente bienvenidos en las terrazas",
+          "mustTryEs": "Pescado a la plancha o una paella para compartir junto al puerto deportivo",
+          "openingHoursEs": "Todos los días, comida y cena",
+          "tipEs": "El paseo es llano y fácil para un paseo nocturno con tu perro antes de cenar.",
+          "descriptionPt": "O conjunto de restaurantes e cafés à volta da marina e do passeio marítimo em Caleta de Fuste, na costa leste central, perto do aeroporto. As suas esplanadas exteriores são geralmente acolhedoras para cães à trela, práticas para uma refeição em família junto à água entre a praia e o aeroporto.",
+          "petPolicyPt": "Cães à trela geralmente bem-vindos nas esplanadas",
+          "mustTryPt": "Peixe grelhado ou uma paelha para partilhar junto à marina",
+          "openingHoursPt": "Diariamente, almoço e jantar",
+          "tipPt": "O passeio marítimo é plano e fácil para um passeio ao entardecer com o seu cão antes do jantar.",
+          "descriptionDe": "Der Ring aus Restaurants und Cafés rund um die Marina und die Promenade von Caleta de Fuste an der zentralen Ostküste, nahe dem Flughafen. Ihre Außenterrassen heißen angeleinte Hunde meist willkommen, praktisch für ein Familienessen am Wasser zwischen Strand und Flughafen.",
+          "petPolicyDe": "Angeleinte Hunde auf den Terrassen meist willkommen",
+          "mustTryDe": "Gegrillter Fisch oder eine geteilte Paella an der Marina",
+          "openingHoursDe": "Täglich, mittags und abends",
+          "tipDe": "Die Promenade ist flach und eignet sich gut für einen Abendspaziergang mit Ihrem Hund vor dem Essen.",
+          "descriptionNl": "De ring van restaurants en cafés rond de jachthaven en promenade van Caleta de Fuste, aan de centrale oostkust vlak bij de luchthaven. De terrassen daar verwelkomen honden aan de lijn over het algemeen, handig voor een gezinsmaaltijd aan het water tussen strand en luchthaven.",
+          "petPolicyNl": "Honden aan de lijn over het algemeen welkom op de terrassen",
+          "mustTryNl": "Gegrilde vis of een gedeelde paella bij de jachthaven",
+          "openingHoursNl": "Dagelijks, lunch en diner",
+          "tipNl": "De promenade is vlak en makkelijk voor een avondwandeling met je hond voor het eten.",
+          "descriptionIt": "L'insieme di ristoranti e caffè intorno alla marina e al lungomare di Caleta de Fuste, sulla costa orientale centrale vicino all'aeroporto. Le loro terrazze all'aperto sono generalmente accoglienti verso i cani al guinzaglio, comode per un pasto in famiglia sull'acqua tra la spiaggia e l'aeroporto.",
+          "petPolicyIt": "Cani al guinzaglio generalmente benvenuti in terrazza",
+          "mustTryIt": "Pesce alla griglia o una paella da condividere sulla marina",
+          "openingHoursIt": "Tutti i giorni, pranzo e cena",
+          "tipIt": "Il lungomare è pianeggiante e facile per una passeggiata serale con il tuo cane prima di cena."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog to restaurants in Fuerteventura?",
+          "a": "Yes. Many terraces welcome a leashed, well-behaved dog, especially in Corralejo, El Cotillo and Caleta de Fuste. Keep your dog beside your table, ask for a water bowl, and choose a shaded or breezy spot, as the sun is strong most of the year."
+        },
+        {
+          "q": "Are dogs allowed inside restaurants in Fuerteventura or only on terraces?",
+          "a": "Terraces are the norm and widely dog-friendly; indoor dining rooms usually do not admit dogs. With the island's warm, dry climate you will almost always be eating outside anyway, so pick a terrace and, in peak season, go early or book ahead."
+        }
+      ],
+      "titleFr": "Restaurants acceptant les chiens à Fuerteventura : où manger avec votre chien",
+      "introFr": "L'ambiance décontractée et en plein air de Fuerteventura convient bien à un chien, et les chiens en laisse sont les bienvenus sur de nombreuses terrasses, des restaurants du port d'El Cotillo aux cafés en bord de mer de Corralejo et Caleta de Fuste. La plupart des cuisines apportent volontiers une gamelle d'eau sur demande. Gardez votre chien près de votre table, choisissez une terrasse ombragée ou aérée vu la force du soleil, et en pleine saison de soleil hivernal, mieux vaut arriver tôt ou réserver.",
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien dans les restaurants de Fuerteventura ?",
+          "a": "Oui. De nombreuses terrasses accueillent un chien en laisse et bien élevé, en particulier à Corralejo, El Cotillo et Caleta de Fuste. Gardez votre chien près de votre table, demandez une gamelle d'eau, et choisissez un endroit ombragé ou aéré, le soleil étant fort la majeure partie de l'année."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés à l'intérieur des restaurants de Fuerteventura ou seulement en terrasse ?",
+          "a": "La terrasse est la norme et largement ouverte aux chiens ; les salles intérieures n'admettent généralement pas les chiens. Avec le climat chaud et sec de l'île, vous mangerez de toute façon presque toujours dehors, alors choisissez une terrasse et, en haute saison, arrivez tôt ou réservez."
+        }
+      ],
+      "titleEs": "Restaurantes que Admiten Perros en Fuerteventura: Dónde Comer con tu Perro",
+      "introEs": "La gastronomía relajada y al aire libre de Fuerteventura le sienta bien a un perro, y los perros atados son bienvenidos en muchas terrazas, desde los restaurantes de puerto de El Cotillo hasta las cafeterías frente al mar de Corralejo y Caleta de Fuste. La mayoría de las cocinas están encantadas de traer un cuenco de agua si lo pides. Mantén a tu perro junto a la mesa, elige una terraza con sombra o brisa dado el sol intenso, y en plena temporada de sol de invierno conviene ir pronto o reservar con antelación.",
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a restaurantes en Fuerteventura?",
+          "a": "Sí. Muchas terrazas admiten un perro atado y bien educado, especialmente en Corralejo, El Cotillo y Caleta de Fuste. Mantén a tu perro junto a la mesa, pide un cuenco de agua y elige un lugar con sombra o brisa, ya que el sol es intenso la mayor parte del año."
+        },
+        {
+          "q": "¿Los perros pueden entrar en los restaurantes de Fuerteventura o solo en las terrazas?",
+          "a": "Las terrazas son lo habitual y admiten perros ampliamente; los comedores interiores no suelen permitir la entrada de perros. Con el clima cálido y seco de la isla, casi siempre comerás fuera de todos modos, así que elige una terraza y, en temporada alta, ve pronto o reserva con antelación."
+        }
+      ],
+      "titlePt": "Restaurantes Pet-Friendly em Fuerteventura: Onde Comer com o Seu Cão",
+      "introPt": "A restauração descontraída e ao ar livre de Fuerteventura combina bem com um cão, e os cães à trela são bem-vindos em muitos esplanadas, desde os restaurantes do porto de El Cotillo até aos cafés à beira-mar de Corralejo e Caleta de Fuste. A maioria das cozinhas fica contente em trazer uma taça de água se pedir. Mantenha o seu cão junto à mesa, escolha uma esplanada com sombra ou com brisa dado o sol forte, e na época alta do sol de inverno vale a pena ir cedo ou reservar com antecedência.",
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão a restaurantes em Fuerteventura?",
+          "a": "Sim. Muitas esplanadas recebem um cão à trela e bem-comportado, sobretudo em Corralejo, El Cotillo e Caleta de Fuste. Mantenha o seu cão junto à mesa, peça uma taça de água e escolha um local com sombra ou com brisa, já que o sol é forte durante quase todo o ano."
+        },
+        {
+          "q": "Os cães são permitidos dentro dos restaurantes em Fuerteventura ou só nas esplanadas?",
+          "a": "As esplanadas são a norma e amplamente pet-friendly; as salas de refeição interiores normalmente não admitem cães. Com o clima quente e seco da ilha, quase sempre vai comer ao ar livre de qualquer forma, por isso escolha uma esplanada e, na época alta, vá cedo ou reserve com antecedência."
+        }
+      ],
+      "titleDe": "Hundefreundliche Restaurants auf Fuerteventura: Wo Sie mit Hund essen können",
+      "introDe": "Fuerteventuras entspannte Outdoor-Gastronomie eignet sich gut für einen Hund, und angeleinte Hunde sind auf vielen Terrassen willkommen, von den Hafenrestaurants in El Cotillo über die Strandcafés in Corralejo bis nach Caleta de Fuste. Die meisten Küchen bringen auf Nachfrage gerne einen Wassernapf. Halten Sie Ihren Hund neben Ihrem Tisch, wählen Sie angesichts der starken Sonne eine schattige oder luftige Terrasse, und in der Hochsaison des Winterurlaubs lohnt es sich, früh zu kommen oder vorzubuchen.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund mit ins Restaurant nehmen auf Fuerteventura?",
+          "a": "Ja. Viele Terrassen heißen einen angeleinten, gut erzogenen Hund willkommen, besonders in Corralejo, El Cotillo und Caleta de Fuste. Halten Sie Ihren Hund neben Ihrem Tisch, bitten Sie um einen Wassernapf und wählen Sie einen schattigen oder luftigen Platz, da die Sonne die meiste Zeit des Jahres kräftig scheint."
+        },
+        {
+          "q": "Sind Hunde in Restaurants auf Fuerteventura nur auf der Terrasse erlaubt oder auch drinnen?",
+          "a": "Terrassen sind die Regel und weithin hundefreundlich; in Innenräumen sind Hunde meist nicht zugelassen. Beim warmen, trockenen Klima der Insel werden Sie ohnehin fast immer draußen essen, wählen Sie also eine Terrasse und gehen Sie in der Hauptsaison früh oder reservieren Sie vorab."
+        }
+      ],
+      "titleNl": "Hondvriendelijke restaurants in Fuerteventura: waar eet je met je hond",
+      "introNl": "Het ontspannen buitenleven van Fuerteventura leent zich goed voor een hond, en honden aan de lijn zijn welkom op veel terrassen, van de havenrestaurants van El Cotillo tot de terrasjes aan zee in Corralejo en Caleta de Fuste. De meeste keukens brengen graag een waterbakje als je erom vraagt. Houd je hond naast je tafel, kies vanwege de felle zon een terras in de schaduw of met wat wind, en ga in het hoogseizoen van de winterzon liever vroeg of reserveer van tevoren.",
+      "faqsNl": [
+        {
+          "q": "Mag ik mijn hond meenemen naar restaurants in Fuerteventura?",
+          "a": "Ja. Veel terrassen verwelkomen een goedopgevoede hond aan de lijn, vooral in Corralejo, El Cotillo en Caleta de Fuste. Houd je hond naast je tafel, vraag om een waterbakje en kies een plek in de schaduw of met wat wind, want de zon is het grootste deel van het jaar fel."
+        },
+        {
+          "q": "Mogen honden binnen in restaurants in Fuerteventura of alleen op het terras?",
+          "a": "Terrassen zijn de norm en over het algemeen hondvriendelijk; binnen worden honden meestal niet toegelaten. Met het warme, droge klimaat van het eiland eet je toch bijna altijd buiten, dus kies een terras en ga in het hoogseizoen vroeg of reserveer van tevoren."
+        }
+      ],
+      "titleIt": "Ristoranti Pet-Friendly a Fuerteventura: Dove Mangiare con il Tuo Cane",
+      "introIt": "La cucina rilassata all'aperto di Fuerteventura si adatta bene a un cane, e i cani al guinzaglio sono benvenuti su molte terrazze, dai ristoranti sul porto di El Cotillo ai caffè sul lungomare di Corralejo e Caleta de Fuste. La maggior parte delle cucine è felice di portare una ciotola d'acqua se lo chiedi. Tieni il tuo cane accanto al tavolo, scegli una terrazza ombreggiata o ventilata visto il sole intenso, e nella stagione di punta invernale conviene arrivare presto o prenotare in anticipo.",
+      "faqsIt": [
+        {
+          "q": "Posso portare il mio cane nei ristoranti a Fuerteventura?",
+          "a": "Sì. Molte terrazze accolgono un cane al guinzaglio e ben educato, specialmente a Corralejo, El Cotillo e Caleta de Fuste. Tieni il tuo cane accanto al tavolo, chiedi una ciotola d'acqua e scegli un posto ombreggiato o ventilato, poiché il sole è forte quasi tutto l'anno."
+        },
+        {
+          "q": "I cani sono ammessi all'interno dei ristoranti a Fuerteventura o solo in terrazza?",
+          "a": "Le terrazze sono la norma e ampiamente pet-friendly; le sale interne di solito non ammettono cani. Con il clima caldo e secco dell'isola mangerai comunque quasi sempre all'aperto, quindi scegli una terrazza e, in alta stagione, arriva presto o prenota in anticipo."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog-Friendly Parks & Walks in Fuerteventura",
+      "introEn": "Fuerteventura has few formal parks, but its wild open landscapes are the real draw: the dunes of Corralejo, the volcanic coastal paths and the green valleys of the interior all make big-sky walks for a dog. There is no official off-leash area, so keep your dog leashed, especially near the protected dunes and wildlife, and always carry water, as shade is almost non-existent and the sun and wind are relentless.",
+      "places": [
+        {
+          "name": "Corralejo Natural Dunes",
+          "type": "Protected dune park",
+          "photo": "",
+          "website": "",
+          "description": "A vast protected park of white sand dunes on the northern tip, next to Corralejo, with tracks winding through desert scenery down to the sea. Leashed dogs can walk the quieter dune paths and open sand, though the main sunbathing beaches inside the park are not dog zones, so keep to the tracks and empty stretches.",
+          "offLeash": false,
+          "offLeashArea": "No off-leash area; keep dogs leashed to protect the dunes and their wildlife, and stay off the designated sunbathing beaches.",
+          "tip": "Go early morning for cool sand and empty dunes; there is no shade, so carry plenty of water.",
+          "googleMapsUrl": "https://maps.google.com/?q=Corralejo+Natural+Dunes",
+          "descriptionFr": "Un vaste parc protégé de dunes de sable blanc à la pointe nord, juste à côté de Corralejo, avec des pistes serpentant à travers un paysage désertique jusqu'à la mer. Les chiens en laisse peuvent emprunter les chemins de dunes plus tranquilles et le sable ouvert, mais les principales plages de bronzage à l'intérieur du parc ne sont pas des zones canines : restez donc sur les pistes et les étendues vides.",
+          "offLeashAreaFr": "Aucune zone sans laisse ; gardez les chiens en laisse pour protéger les dunes et leur faune, et évitez les plages de bronzage désignées.",
+          "tipFr": "Allez-y tôt le matin pour un sable frais et des dunes désertes ; il n'y a pas d'ombre, emportez donc beaucoup d'eau.",
+          "descriptionEs": "Un vasto parque protegido de dunas de arena blanca en la punta norte, junto a Corralejo, con senderos que serpentean por un paisaje desértico hasta el mar. Los perros atados pueden recorrer los senderos más tranquilos de las dunas y la arena abierta, aunque las playas principales de baño dentro del parque no son zonas caninas, así que hay que mantenerse en los senderos y los tramos vacíos.",
+          "offLeashAreaEs": "Sin zona sin correa; mantén a los perros atados para proteger las dunas y su fauna, y evita las playas de baño señalizadas.",
+          "tipEs": "Ve a primera hora de la mañana para arena fresca y dunas vacías; no hay sombra, así que lleva mucha agua.",
+          "descriptionPt": "Um vasto parque protegido de dunas de areia branca na ponta norte, junto a Corralejo, com trilhos que serpenteiam por uma paisagem desértica até ao mar. Os cães à trela podem percorrer os trilhos mais tranquilos das dunas e a areia aberta, embora as principais praias de banhos de sol dentro do parque não sejam zonas para cães, por isso mantenha-se nos trilhos e nos trechos vazios.",
+          "offLeashAreaPt": "Sem área sem trela; mantenha os cães à trela para proteger as dunas e a sua vida selvagem, e evite as praias de banhos de sol designadas.",
+          "tipPt": "Vá de manhã cedo para areia fresca e dunas vazias; não há sombra, por isso leve bastante água.",
+          "descriptionDe": "Ein riesiger geschützter Park aus weißen Sanddünen an der Nordspitze, direkt neben Corralejo, mit Pfaden, die sich durch Wüstenlandschaft hinunter zum Meer winden. Angeleinte Hunde können die ruhigeren Dünenpfade und den offenen Sand erkunden, doch die eigentlichen Sonnenbadestrände innerhalb des Parks sind keine Hundezonen, bleiben Sie also auf den Wegen und in den leeren Abschnitten.",
+          "offLeashAreaDe": "Keine Freilauffläche; Hunde bitte angeleint halten, um Dünen und Tierwelt zu schützen, und die ausgewiesenen Sonnenbadestrände meiden.",
+          "tipDe": "Gehen Sie früh morgens für kühlen Sand und leere Dünen; es gibt keinen Schatten, führen Sie also reichlich Wasser mit.",
+          "descriptionNl": "Een enorm beschermd park met witte zandduinen op de noordpunt, naast Corralejo, met paden die door woestijnachtig landschap naar zee slingeren. Honden aan de lijn kunnen over de rustigere duinpaden en het open zand lopen, al zijn de belangrijkste zonnestranden binnen het park geen hondenzones, dus blijf op de paden en de lege stukken.",
+          "offLeashAreaNl": "Geen losloopzone; houd honden aan de lijn om de duinen en hun wildlife te beschermen, en blijf weg van de aangewezen zonnestranden.",
+          "tipNl": "Ga vroeg in de ochtend voor koel zand en lege duinen; er is geen schaduw, dus neem genoeg water mee.",
+          "descriptionIt": "Un vasto parco protetto di dune di sabbia bianca sulla punta settentrionale, accanto a Corralejo, con sentieri che serpeggiano tra paesaggi desertici fino al mare. I cani al guinzaglio possono percorrere i sentieri più tranquilli delle dune e la sabbia aperta, anche se le principali spiagge per prendere il sole all'interno del parco non sono zone per cani, quindi restate sui sentieri e sui tratti vuoti.",
+          "offLeashAreaIt": "Nessuna area senza guinzaglio; tieni i cani al guinzaglio per proteggere le dune e la loro fauna, e resta lontano dalle spiagge designate per prendere il sole.",
+          "tipIt": "Vai la mattina presto per sabbia fresca e dune vuote; non c'è ombra, quindi porta molta acqua."
+        },
+        {
+          "name": "El Cotillo coastal path & lagoons",
+          "type": "Coastal walk",
+          "photo": "",
+          "website": "",
+          "description": "The coastal path north of El Cotillo linking the turquoise lagoons and the Faro del Tostón lighthouse, an airy leashed walk with constant sea views on the northwest tip. Flat and open, it is one of the most pleasant everyday walks on the island for a dog.",
+          "offLeash": false,
+          "offLeashArea": "On the lead; keep clear of the busy lagoon bathing spots in high season.",
+          "tip": "Combine it with a harbour lunch in El Cotillo; check the wind, which is strong on this coast.",
+          "googleMapsUrl": "https://maps.google.com/?q=El+Cotillo+lagoons+Faro+del+Toston",
+          "descriptionFr": "Le sentier côtier au nord d'El Cotillo reliant les lagons turquoise et le phare du Faro del Tostón, une balade en laisse aérée avec vue constante sur la mer à la pointe nord-ouest. Plate et ouverte, c'est l'une des promenades quotidiennes les plus agréables de l'île pour un chien.",
+          "offLeashAreaFr": "En laisse ; évitez les zones de baignade fréquentées du lagon en haute saison.",
+          "tipFr": "Combinez-la avec un déjeuner au port à El Cotillo ; surveillez le vent, fort sur cette côte.",
+          "descriptionEs": "El sendero costero al norte de El Cotillo que enlaza las lagunas turquesas y el faro del Tostón, un paseo aireado con correa y vistas constantes al mar en la punta noroeste. Llano y abierto, es uno de los paseos cotidianos más agradables de la isla para un perro.",
+          "offLeashAreaEs": "Con correa; evita los puntos de baño concurridos de la laguna en temporada alta.",
+          "tipEs": "Combínalo con una comida en el puerto de El Cotillo; comprueba el viento, que es fuerte en esta costa.",
+          "descriptionPt": "O caminho costeiro a norte de El Cotillo que liga as lagoas turquesa ao farol Faro del Tostón, um passeio arejado e à trela com vista constante para o mar na ponta noroeste. Plano e aberto, é um dos passeios do dia a dia mais agradáveis da ilha para um cão.",
+          "offLeashAreaPt": "À trela; mantenha-se afastado das zonas de banho movimentadas da lagoa na época alta.",
+          "tipPt": "Combine com um almoço no porto de El Cotillo; verifique o vento, que é forte nesta costa.",
+          "descriptionDe": "Der Küstenweg nördlich von El Cotillo, der die türkisfarbenen Lagunen mit dem Leuchtturm Faro del Tostón verbindet, ein luftiger Spaziergang an der Leine mit ständigem Meerblick an der Nordwestspitze. Flach und offen, einer der angenehmsten Alltagsspaziergänge der Insel für einen Hund.",
+          "offLeashAreaDe": "An der Leine; meiden Sie in der Hochsaison die belebten Badestellen der Lagunen.",
+          "tipDe": "Kombinieren Sie den Spaziergang mit einem Mittagessen am Hafen von El Cotillo; achten Sie auf den Wind, der an dieser Küste kräftig weht.",
+          "descriptionNl": "Het kustpad ten noorden van El Cotillo dat de turkooizen lagunes en de vuurtoren Faro del Tostón verbindt, een luchtige wandeling aan de lijn met constant zeezicht op de noordwestpunt. Vlak en open, een van de fijnste dagelijkse wandelingen op het eiland voor een hond.",
+          "offLeashAreaNl": "Aan de lijn; blijf uit de buurt van de drukke zwemplekken bij de lagunes in het hoogseizoen.",
+          "tipNl": "Combineer het met een lunch bij de haven in El Cotillo; check de wind, die op deze kust sterk staat.",
+          "descriptionIt": "Il sentiero costiero a nord di El Cotillo che collega le lagune turchesi e il faro del Faro del Tostón, una passeggiata al guinzaglio ariosa con vista mare costante sulla punta nordoccidentale. Pianeggiante e aperto, è una delle passeggiate quotidiane più piacevoli dell'isola per un cane.",
+          "offLeashAreaIt": "Al guinzaglio; sta' lontano dai punti balneari affollati delle lagune in alta stagione.",
+          "tipIt": "Abbinala a un pranzo sul porto a El Cotillo; controlla il vento, che è forte su questa costa."
+        },
+        {
+          "name": "Betancuria valley & interior tracks",
+          "type": "Rural walking area",
+          "photo": "",
+          "website": "",
+          "description": "The green mountain valley around historic Betancuria and the quiet tracks of the island's interior offer a complete change from the coast, with palm groves, viewpoints and volcanic hills. Leashed dogs can explore the lanes and rural paths, far from the resort crowds.",
+          "offLeash": false,
+          "offLeashArea": "On the lead near farmland and livestock; the interior is open but grazed.",
+          "tip": "Drive the mountain road for the miradores; take water, as there are few services inland.",
+          "googleMapsUrl": "https://maps.google.com/?q=Betancuria+Fuerteventura",
+          "descriptionFr": "La vallée montagneuse verdoyante autour de la historique Betancuria et les pistes tranquilles de l'intérieur de l'île offrent un total changement de décor par rapport à la côte, avec palmeraies, points de vue et collines volcaniques. Les chiens en laisse peuvent explorer les chemins et sentiers ruraux, loin de la foule des stations.",
+          "offLeashAreaFr": "En laisse près des terres agricoles et du bétail ; l'intérieur est ouvert mais pâturé.",
+          "tipFr": "Prenez la route de montagne pour les miradors ; emportez de l'eau, les services étant rares à l'intérieur des terres.",
+          "descriptionEs": "El valle montañoso verde alrededor de la histórica Betancuria y los senderos tranquilos del interior de la isla ofrecen un cambio total respecto a la costa, con palmerales, miradores y colinas volcánicas. Los perros atados pueden explorar los caminos y las sendas rurales, lejos del bullicio de los resorts.",
+          "offLeashAreaEs": "Con correa cerca de tierras de labor y ganado; el interior es abierto pero con pastoreo.",
+          "tipEs": "Conduce por la carretera de montaña para llegar a los miradores; lleva agua, ya que hay pocos servicios en el interior.",
+          "descriptionPt": "O vale montanhoso verdejante à volta da histórica Betancuria e os trilhos tranquilos do interior da ilha oferecem uma mudança completa em relação à costa, com palmeirais, miradouros e colinas vulcânicas. Os cães à trela podem explorar as ruelas e os caminhos rurais, longe das multidões turísticas.",
+          "offLeashAreaPt": "À trela perto de terrenos agrícolas e gado; o interior é aberto mas usado para pastoreio.",
+          "tipPt": "Conduza pela estrada de montanha até aos miradouros; leve água, pois há poucos serviços no interior.",
+          "descriptionDe": "Das grüne Bergtal rund um das historische Betancuria und die ruhigen Wege im Landesinneren bieten einen völligen Kontrast zur Küste, mit Palmenhainen, Aussichtspunkten und vulkanischen Hügeln. Angeleinte Hunde können die Gassen und ländlichen Pfade erkunden, fernab vom Trubel der Ferienorte.",
+          "offLeashAreaDe": "An der Leine in der Nähe von Ackerland und Weidevieh; das Landesinnere ist offen, aber wird beweidet.",
+          "tipDe": "Fahren Sie die Bergstraße für die Aussichtspunkte (miradores) ab; nehmen Sie Wasser mit, da es im Landesinneren kaum Versorgungsmöglichkeiten gibt.",
+          "descriptionNl": "Het groene bergdal rond het historische Betancuria en de rustige paden in het binnenland van het eiland bieden een compleet ander beeld dan de kust, met palmbosjes, uitzichtpunten en vulkanische heuvels. Honden aan de lijn kunnen de laantjes en landelijke paden verkennen, ver van de drukte van de badplaatsen.",
+          "offLeashAreaNl": "Aan de lijn bij landbouwgrond en vee; het binnenland is open maar wordt begraasd.",
+          "tipNl": "Rijd de bergweg op voor de miradores; neem water mee, want er zijn weinig voorzieningen in het binnenland.",
+          "descriptionIt": "La verde vallata montana intorno alla storica Betancuria e i sentieri tranquilli dell'entroterra dell'isola offrono un cambio completo rispetto alla costa, con palmeti, punti panoramici e colline vulcaniche. I cani al guinzaglio possono esplorare i vialetti e i sentieri rurali, lontano dalla folla delle località turistiche.",
+          "offLeashAreaIt": "Al guinzaglio vicino a terreni agricoli e bestiame; l'entroterra è aperto ma utilizzato per il pascolo.",
+          "tipIt": "Percorri in auto la strada di montagna per i miradores; porta acqua, poiché ci sono pochi servizi nell'entroterra."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I walk my dog off the lead in Fuerteventura?",
+          "a": "There is no official off-leash area on the island, so dogs should stay leashed in public, including on the authorised beaches and in the dune park. The reward is space: the wild beaches, dune tracks and interior valleys are vast and quiet, so a long lead gives your dog plenty of room."
+        },
+        {
+          "q": "Can dogs go in the Corralejo dunes?",
+          "a": "Leashed, yes, on the tracks and quieter open sand. The dunes are a protected natural park, and the main sunbathing beaches within it are not dog zones, so keep your dog on the paths and away from the bathing areas, and carry water as there is no shade."
+        }
+      ],
+      "titleFr": "Parcs et promenades acceptant les chiens à Fuerteventura",
+      "introFr": "Fuerteventura compte peu de parcs formels, mais ses paysages sauvages en plein air sont le véritable attrait : les dunes de Corralejo, les sentiers côtiers volcaniques et les vallées vertes de l'intérieur offrent tous de grandes balades à ciel ouvert pour un chien. Il n'existe pas de zone officielle sans laisse, gardez donc votre chien en laisse, en particulier près des dunes protégées et de la faune, et emportez toujours de l'eau, l'ombre étant quasi inexistante et le soleil et le vent implacables.",
+      "faqsFr": [
+        {
+          "q": "Où puis-je promener mon chien sans laisse à Fuerteventura ?",
+          "a": "Il n'existe pas de zone officielle sans laisse sur l'île, les chiens doivent donc rester en laisse en public, y compris sur les plages autorisées et dans le parc des dunes. La récompense, c'est l'espace : les plages sauvages, les pistes de dunes et les vallées de l'intérieur sont vastes et tranquilles, une longue laisse offre donc beaucoup de liberté à votre chien."
+        },
+        {
+          "q": "Les chiens peuvent-ils aller dans les dunes de Corralejo ?",
+          "a": "En laisse, oui, sur les pistes et le sable ouvert plus tranquille. Les dunes sont un parc naturel protégé, et les principales plages de bronzage à l'intérieur ne sont pas des zones canines : gardez donc votre chien sur les sentiers et loin des zones de baignade, et emportez de l'eau car il n'y a pas d'ombre."
+        }
+      ],
+      "titleEs": "Parques y Paseos para Perros en Fuerteventura",
+      "introEs": "Fuerteventura tiene pocos parques formales, pero su gran atractivo son sus paisajes abiertos y salvajes: las dunas de Corralejo, los senderos costeros volcánicos y los valles verdes del interior ofrecen paseos de cielo abierto para un perro. No hay una zona oficial sin correa, así que mantén a tu perro atado, especialmente cerca de las dunas protegidas y la fauna, y lleva siempre agua, ya que la sombra es casi inexistente y el sol y el viento son implacables.",
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo pasear a mi perro sin correa en Fuerteventura?",
+          "a": "No hay ninguna zona oficial sin correa en la isla, así que los perros deben permanecer atados en público, incluidas las playas autorizadas y el parque de dunas. La recompensa es el espacio: las playas salvajes, los senderos de las dunas y los valles del interior son enormes y tranquilos, así que una correa larga le da a tu perro mucho margen."
+        },
+        {
+          "q": "¿Pueden los perros entrar en las dunas de Corralejo?",
+          "a": "Con correa, sí, en los senderos y en la arena abierta más tranquila. Las dunas son un parque natural protegido, y las principales playas de baño dentro de él no son zonas caninas, así que mantén a tu perro en los senderos y lejos de las zonas de baño, y lleva agua, ya que no hay sombra."
+        }
+      ],
+      "titlePt": "Parques e Passeios Pet-Friendly em Fuerteventura",
+      "introPt": "Fuerteventura tem poucos parques formais, mas as suas paisagens selvagens e abertas são o verdadeiro atrativo: as dunas de Corralejo, os caminhos costeiros vulcânicos e os vales verdes do interior formam todos passeios de céu aberto para um cão. Não há uma área oficial sem trela, por isso mantenha o seu cão à trela, sobretudo perto das dunas protegidas e da vida selvagem, e leve sempre água, pois a sombra é quase inexistente e o sol e o vento são implacáveis.",
+      "faqsPt": [
+        {
+          "q": "Onde posso passear o meu cão sem trela em Fuerteventura?",
+          "a": "Não há área oficial sem trela na ilha, por isso os cães devem manter-se à trela em locais públicos, incluindo nas praias autorizadas e no parque das dunas. A recompensa é o espaço: as praias selvagens, os trilhos das dunas e os vales do interior são vastos e tranquilos, por isso uma trela comprida dá ao seu cão bastante liberdade."
+        },
+        {
+          "q": "Os cães podem ir às dunas de Corralejo?",
+          "a": "À trela, sim, nos trilhos e na areia aberta mais tranquila. As dunas são um parque natural protegido, e as principais praias de banhos de sol lá dentro não são zonas para cães, por isso mantenha o seu cão nos caminhos e longe das zonas de banho, e leve água, pois não há sombra."
+        }
+      ],
+      "titleDe": "Hundefreundliche Parks & Spaziergänge auf Fuerteventura",
+      "introDe": "Fuerteventura hat nur wenige klassische Parks, aber der eigentliche Reiz liegt in der wilden, offenen Landschaft: die Dünen von Corralejo, die vulkanischen Küstenwege und die grünen Täler im Landesinneren bieten Spaziergänge unter weitem Himmel für Ihren Hund. Eine offizielle Freilauffläche gibt es nicht, halten Sie Ihren Hund also angeleint, besonders in der Nähe der geschützten Dünen und der Tierwelt, und führen Sie immer Wasser mit sich, da Schatten praktisch nicht existiert und Sonne und Wind unerbittlich sind.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich meinen Hund auf Fuerteventura ohne Leine laufen lassen?",
+          "a": "Eine offizielle Freilauffläche gibt es auf der Insel nicht, Hunde sollten also in der Öffentlichkeit angeleint bleiben, auch an den zugelassenen Stränden und im Dünenpark. Der Lohn ist der Raum: die Wildstrände, Dünenpfade und Täler im Landesinneren sind weitläufig und ruhig, sodass eine lange Leine Ihrem Hund viel Bewegungsfreiheit lässt."
+        },
+        {
+          "q": "Dürfen Hunde in die Dünen von Corralejo?",
+          "a": "Angeleint, ja, auf den Pfaden und dem ruhigeren offenen Sand. Die Dünen sind ein geschützter Naturpark, und die eigentlichen Sonnenbadestrände darin sind keine Hundezonen, halten Sie Ihren Hund also auf den Wegen und fern der Badebereiche, und führen Sie Wasser mit, da es keinen Schatten gibt."
+        }
+      ],
+      "titleNl": "Hondvriendelijke parken en wandelingen in Fuerteventura",
+      "introNl": "Fuerteventura heeft weinig officiële parken, maar het is juist het wilde open landschap dat de aantrekkingskracht vormt: de duinen van Corralejo, de vulkanische kustpaden en de groene valleien in het binnenland vormen samen grootse wandelingen voor een hond. Er is geen officiële losloopzone, houd je hond dus aan de lijn, zeker bij de beschermde duinen en het wild, en neem altijd water mee, want schaduw is er nauwelijks en de zon en wind zijn onophoudelijk.",
+      "faqsNl": [
+        {
+          "q": "Waar kan ik mijn hond loslaten in Fuerteventura?",
+          "a": "Er is geen officiële losloopzone op het eiland, dus honden moeten aan de lijn blijven op openbare plekken, ook op de toegestane stranden en in het duinenpark. De beloning is ruimte: de wilde stranden, duinpaden en valleien in het binnenland zijn enorm en rustig, dus een lange lijn geeft je hond genoeg bewegingsvrijheid."
+        },
+        {
+          "q": "Mogen honden de duinen van Corralejo in?",
+          "a": "Aan de lijn, ja, op de paden en de rustigere open zandvlaktes. De duinen vormen een beschermd natuurpark en de belangrijkste zonnestranden erbinnen zijn geen hondenzones, dus houd je hond op de paden en uit de buurt van de zwemplekken, en neem water mee, want er is geen schaduw."
+        }
+      ],
+      "titleIt": "Parchi e Passeggiate Pet-Friendly a Fuerteventura",
+      "introIt": "Fuerteventura ha pochi parchi formali, ma i suoi paesaggi selvaggi e aperti sono la vera attrazione: le dune di Corralejo, i sentieri costieri vulcanici e le verdi vallate dell'entroterra offrono tutti passeggiate a cielo aperto per un cane. Non c'è un'area ufficiale senza guinzaglio, quindi tieni il tuo cane al guinzaglio, specialmente vicino alle dune protette e alla fauna selvatica, e porta sempre acqua, poiché l'ombra è quasi inesistente e il sole e il vento sono incessanti.",
+      "faqsIt": [
+        {
+          "q": "Dove posso portare il mio cane senza guinzaglio a Fuerteventura?",
+          "a": "Non c'è un'area ufficiale senza guinzaglio nell'isola, quindi i cani devono restare al guinzaglio in pubblico, comprese le spiagge autorizzate e il parco delle dune. La ricompensa è lo spazio: le spiagge selvagge, i sentieri delle dune e le vallate dell'entroterra sono vasti e tranquilli, quindi un guinzaglio lungo dà al tuo cane molto spazio."
+        },
+        {
+          "q": "I cani possono entrare nelle dune di Corralejo?",
+          "a": "Al guinzaglio, sì, sui sentieri e sulla sabbia aperta più tranquilla. Le dune sono un parco naturale protetto, e le principali spiagge per prendere il sole al suo interno non sono zone per cani, quindi tieni il tuo cane sui sentieri e lontano dalle aree balneari, e porta acqua poiché non c'è ombra."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting to & Around Fuerteventura with a Dog",
+      "introEn": "Most visitors fly into Fuerteventura Airport (FUE) at El Matorral, just south of the capital, with direct flights from across Europe. Once on the island a hire car is essential: Fuerteventura is large, distances are long and the dog beaches, dunes and villages are far apart, with only limited public transport. Ferries link the island to Lanzarote and Gran Canaria and carry dogs, and local buses take small dogs in a carrier, but for real freedom you will want your own wheels.",
+      "places": [],
+      "faqsEn": [
+        {
+          "q": "Do I need a car in Fuerteventura with a dog?",
+          "a": "Yes, effectively. The island is big and the authorised dog beaches, dunes and towns are spread far apart, with limited buses. A hire car lets you reach the right beaches and the wild interior; agencies accept dogs at their discretion, so mention it when booking and bring a seat cover."
+        },
+        {
+          "q": "Can I take my dog on the ferry to or from Fuerteventura?",
+          "a": "Yes. Ferries connect Corralejo with Playa Blanca on Lanzarote (about 30 minutes) and Morro Jable with Gran Canaria, and they carry dogs, usually leashed on deck or in a carrier. Check each operator's pet rules and any fee when you book."
+        },
+        {
+          "q": "Are dogs allowed on public buses in Fuerteventura?",
+          "a": "The local TIADHE buses generally accept small dogs in a carrier, at the driver's discretion, but the network is limited and the island is spread out. For visiting the dog beaches and sights, a hire car is far more practical than relying on buses."
+        }
+      ],
+      "titleFr": "Se rendre à Fuerteventura et s'y déplacer avec un chien",
+      "introFr": "La plupart des visiteurs arrivent par l'aéroport de Fuerteventura (FUE) à El Matorral, juste au sud de la capitale, desservi par des vols directs depuis toute l'Europe. Une fois sur l'île, une voiture de location est indispensable : Fuerteventura est grande, les distances sont longues et les plages canines, dunes et villages sont très espacés, avec des transports en commun limités. Des ferries relient l'île à Lanzarote et Gran Canaria et acceptent les chiens, et les bus locaux prennent les petits chiens en cage de transport, mais pour une vraie liberté, mieux vaut avoir ses propres roues.",
+      "faqsFr": [
+        {
+          "q": "Ai-je besoin d'une voiture à Fuerteventura avec un chien ?",
+          "a": "Oui, dans les faits. L'île est grande et les plages canines autorisées, les dunes et les villes sont très espacées, avec des bus limités. Une voiture de location permet d'atteindre les bonnes plages et l'intérieur sauvage ; les agences acceptent les chiens à leur discrétion, mentionnez-le donc lors de la réservation et apportez une housse de siège."
+        },
+        {
+          "q": "Puis-je emmener mon chien sur le ferry à destination ou au départ de Fuerteventura ?",
+          "a": "Oui. Des ferries relient Corralejo à Playa Blanca sur Lanzarote (environ 30 minutes) et Morro Jable à Gran Canaria, et ils acceptent les chiens, généralement en laisse sur le pont ou en cage de transport. Vérifiez les règles et les éventuels frais de chaque compagnie au moment de la réservation."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés dans les bus publics à Fuerteventura ?",
+          "a": "Les bus locaux TIADHE acceptent généralement les petits chiens en cage de transport, à la discrétion du chauffeur, mais le réseau est limité et l'île est étendue. Pour visiter les plages canines et les sites, une voiture de location est bien plus pratique que de compter sur les bus."
+        }
+      ],
+      "titleEs": "Cómo Llegar y Moverse por Fuerteventura con un Perro",
+      "introEs": "La mayoría de los visitantes vuelan al Aeropuerto de Fuerteventura (FUE), en El Matorral, justo al sur de la capital, con vuelos directos desde toda Europa. Una vez en la isla, un coche de alquiler es imprescindible: Fuerteventura es grande, las distancias son largas y las playas caninas, las dunas y los pueblos están muy repartidos, con transporte público limitado. Los ferris conectan la isla con Lanzarote y Gran Canaria y admiten perros, y los autobuses locales aceptan perros pequeños en transportín, pero para tener verdadera libertad querrás tus propias ruedas.",
+      "faqsEs": [
+        {
+          "q": "¿Necesito coche en Fuerteventura con un perro?",
+          "a": "Sí, en la práctica. La isla es grande y las playas caninas autorizadas, las dunas y los pueblos están muy repartidos, con autobuses limitados. Un coche de alquiler te permite llegar a las playas adecuadas y al interior salvaje; las agencias admiten perros a su discreción, así que menciónalo al reservar y lleva una funda para el asiento."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro en el ferri hacia o desde Fuerteventura?",
+          "a": "Sí. Los ferris conectan Corralejo con Playa Blanca en Lanzarote (unos 30 minutos) y Morro Jable con Gran Canaria, y admiten perros, normalmente atados en cubierta o en transportín. Consulta las normas de cada operador para mascotas y cualquier tarifa al reservar."
+        },
+        {
+          "q": "¿Se permiten perros en los autobuses públicos de Fuerteventura?",
+          "a": "Los autobuses locales de TIADHE generalmente aceptan perros pequeños en transportín, a discreción del conductor, pero la red es limitada y la isla está muy extendida. Para visitar las playas caninas y los lugares de interés, un coche de alquiler es mucho más práctico que depender de los autobuses."
+        }
+      ],
+      "titlePt": "Como Chegar e Circular em Fuerteventura com um Cão",
+      "introPt": "A maioria dos visitantes voa para o Aeroporto de Fuerteventura (FUE), em El Matorral, mesmo a sul da capital, com voos diretos de toda a Europa. Já na ilha, um carro de aluguer é essencial: Fuerteventura é grande, as distâncias são longas e as praias para cães, as dunas e as aldeias estão muito espalhadas, com transportes públicos limitados. Os ferries ligam a ilha a Lanzarote e Gran Canaria e transportam cães, e os autocarros locais levam cães pequenos em transportadora, mas para verdadeira liberdade vai querer as suas próprias rodas.",
+      "faqsPt": [
+        {
+          "q": "Preciso de carro em Fuerteventura com um cão?",
+          "a": "Sim, na prática. A ilha é grande e as praias autorizadas para cães, as dunas e as vilas estão muito espalhadas, com autocarros limitados. Um carro de aluguer permite chegar às praias certas e ao interior selvagem; as agências aceitam cães ao seu critério, por isso mencione-o ao reservar e leve uma capa para o banco."
+        },
+        {
+          "q": "Posso levar o meu cão no ferry de e para Fuerteventura?",
+          "a": "Sim. Os ferries ligam Corralejo a Playa Blanca em Lanzarote (cerca de 30 minutos) e Morro Jable a Gran Canaria, e transportam cães, normalmente à trela no convés ou em transportadora. Verifique as regras para animais e eventuais taxas de cada operador ao reservar."
+        },
+        {
+          "q": "Os cães são permitidos nos autocarros públicos em Fuerteventura?",
+          "a": "Os autocarros locais da TIADHE geralmente aceitam cães pequenos em transportadora, ao critério do motorista, mas a rede é limitada e a ilha é extensa. Para visitar as praias para cães e os pontos de interesse, um carro de aluguer é muito mais prático do que contar com os autocarros."
+        }
+      ],
+      "titleDe": "Anreise & Fortbewegung auf Fuerteventura mit Hund",
+      "introDe": "Die meisten Besucher fliegen zum Flughafen Fuerteventura (FUE) bei El Matorral, direkt südlich der Hauptstadt, mit Direktflügen aus ganz Europa. Auf der Insel selbst ist ein Mietwagen unerlässlich: Fuerteventura ist groß, die Distanzen sind lang, und Hundestrände, Dünen und Dörfer liegen weit auseinander bei nur begrenztem öffentlichen Nahverkehr. Fähren verbinden die Insel mit Lanzarote und Gran Canaria und nehmen Hunde mit, lokale Busse befördern kleine Hunde in einer Transportbox, doch für echte Freiheit brauchen Sie Ihre eigenen Räder.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich mit Hund einen Mietwagen auf Fuerteventura?",
+          "a": "Ja, praktisch unerlässlich. Die Insel ist groß, und die zugelassenen Hundestrände, Dünen und Orte liegen weit auseinander bei begrenztem Busnetz. Ein Mietwagen bringt Sie zu den richtigen Stränden und ins wilde Landesinnere; Mietwagenfirmen akzeptieren Hunde nach eigenem Ermessen, erwähnen Sie es also bei der Buchung und bringen Sie eine Sitzschutzdecke mit."
+        },
+        {
+          "q": "Darf ich meinen Hund mit auf die Fähre von oder nach Fuerteventura nehmen?",
+          "a": "Ja. Fähren verbinden Corralejo mit Playa Blanca auf Lanzarote (rund 30 Minuten) sowie Morro Jable mit Gran Canaria, und sie befördern Hunde, meist angeleint an Deck oder in einer Box. Prüfen Sie bei der Buchung die Haustierregeln und eventuelle Gebühren des jeweiligen Betreibers."
+        },
+        {
+          "q": "Sind Hunde in öffentlichen Bussen auf Fuerteventura erlaubt?",
+          "a": "Die lokalen TIADHE-Busse nehmen kleine Hunde in der Regel in einer Transportbox mit, nach Ermessen des Fahrers, doch das Netz ist begrenzt und die Insel weitläufig. Für den Besuch der Hundestrände und Sehenswürdigkeiten ist ein Mietwagen deutlich praktischer als sich auf Busse zu verlassen."
+        }
+      ],
+      "titleNl": "Naar en rond Fuerteventura reizen met je hond",
+      "introNl": "De meeste bezoekers vliegen naar Fuerteventura Airport (FUE) bij El Matorral, net ten zuiden van de hoofdstad, met directe vluchten vanuit heel Europa. Eenmaal op het eiland is een huurauto onmisbaar: Fuerteventura is groot, de afstanden zijn lang en de hondenstranden, duinen en dorpen liggen ver uit elkaar, met maar beperkt openbaar vervoer. Veerboten verbinden het eiland met Lanzarote en Gran Canaria en nemen honden mee, en lokale bussen accepteren kleine honden in een draagtas, maar voor echte vrijheid wil je toch je eigen wielen.",
+      "faqsNl": [
+        {
+          "q": "Heb ik een auto nodig in Fuerteventura met een hond?",
+          "a": "Ja, eigenlijk wel. Het eiland is groot en de toegestane hondenstranden, duinen en dorpen liggen ver uit elkaar, met beperkt busvervoer. Met een huurauto bereik je de juiste stranden en het wilde binnenland; verhuurders accepteren honden naar eigen goeddunken, dus vermeld het bij het boeken en neem een stoelhoes mee."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen op de veerboot van of naar Fuerteventura?",
+          "a": "Ja. Veerboten verbinden Corralejo met Playa Blanca op Lanzarote (ongeveer 30 minuten) en Morro Jable met Gran Canaria, en nemen honden mee, meestal aan de lijn op het dek of in een draagtas. Controleer bij het boeken de huisdierregels en eventuele kosten van elke maatschappij."
+        },
+        {
+          "q": "Mogen honden mee in het openbaar vervoer in Fuerteventura?",
+          "a": "De lokale TIADHE-bussen accepteren over het algemeen kleine honden in een draagtas, naar goeddunken van de chauffeur, maar het netwerk is beperkt en het eiland is uitgestrekt. Voor bezoeken aan de hondenstranden en bezienswaardigheden is een huurauto veel praktischer dan vertrouwen op de bus."
+        }
+      ],
+      "titleIt": "Come Arrivare e Muoversi a Fuerteventura con un Cane",
+      "introIt": "La maggior parte dei visitatori vola verso l'aeroporto di Fuerteventura (FUE) a El Matorral, appena a sud della capitale, con voli diretti da tutta Europa. Una volta sull'isola un'auto a noleggio è essenziale: Fuerteventura è grande, le distanze sono lunghe e le spiagge per cani, le dune e i villaggi sono molto distanti tra loro, con trasporti pubblici limitati. I traghetti collegano l'isola a Lanzarote e Gran Canaria e trasportano cani, e gli autobus locali accettano cani di piccola taglia in un trasportino, ma per una vera libertà ti servirà un mezzo tuo.",
+      "faqsIt": [
+        {
+          "q": "Ho bisogno di un'auto a Fuerteventura con un cane?",
+          "a": "Sì, praticamente indispensabile. L'isola è grande e le spiagge per cani autorizzate, le dune e i paesi sono molto distanti tra loro, con autobus limitati. Un'auto a noleggio ti permette di raggiungere le spiagge giuste e l'entroterra selvaggio; le agenzie accettano cani a loro discrezione, quindi menzionalo al momento della prenotazione e porta una copertura per il sedile."
+        },
+        {
+          "q": "Posso portare il mio cane sul traghetto da o per Fuerteventura?",
+          "a": "Sì. I traghetti collegano Corralejo con Playa Blanca a Lanzarote (circa 30 minuti) e Morro Jable con Gran Canaria, e trasportano cani, di solito al guinzaglio sul ponte o in un trasportino. Verifica le regole sugli animali di ogni compagnia e un eventuale costo al momento della prenotazione."
+        },
+        {
+          "q": "I cani sono ammessi sugli autobus pubblici a Fuerteventura?",
+          "a": "Gli autobus locali TIADHE generalmente accettano cani di piccola taglia in un trasportino, a discrezione dell'autista, ma la rete è limitata e l'isola è molto estesa. Per visitare le spiagge per cani e le attrazioni, un'auto a noleggio è molto più pratica che affidarsi agli autobus."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in Fuerteventura",
+      "introEn": "This is the thing to plan around: despite 150 kilometres of coast, Fuerteventura authorises only a handful of dog beaches, most of them near the capital Puerto del Rosario, and the famous resort beaches at Corralejo, Costa Calma and Sotavento are not dog zones. The good news is the authorised beaches operate essentially year-round with no seasonal ban, and there are wild options too. Most have no shade, showers or bins, so bring water, bags and sun cover, and always check current local signage.",
+      "places": [
+        {
+          "name": "Playa El Charco (Punta de la Arena)",
+          "distance": "Puerto del Rosario area",
+          "description": "An officially authorised dog beach at Punta de la Arena in the Puerto del Rosario municipality, north of the water treatment plant near the old Puerto Lajas road. Open to dogs year-round, it is one of the most reliable spots to let your dog enjoy the sea, though there are no services, so come prepared.",
+          "season": "Open to dogs year-round; no formal seasonal closure",
+          "rules": "Leashed in line with local rules; clean up after your dog; no services on site",
+          "facilities": "None; bring water, shade and bags",
+          "googleMapsUrl": "https://maps.google.com/?q=Playa+El+Charco+Punta+de+la+Arena+Fuerteventura",
+          "photo": "",
+          "descriptionFr": "Une plage canine officiellement autorisée à Punta de la Arena, dans la commune de Puerto del Rosario, au nord de la station d'épuration près de l'ancienne route de Puerto Lajas. Ouverte aux chiens toute l'année, c'est l'un des sites les plus fiables pour laisser votre chien profiter de la mer, bien qu'il n'y ait aucun service : venez donc préparé.",
+          "seasonFr": "Ouverte aux chiens toute l'année ; pas de fermeture saisonnière officielle",
+          "rulesFr": "En laisse conformément aux règles locales ; ramassez les déjections de votre chien ; aucun service sur place",
+          "descriptionEs": "Una playa canina oficialmente autorizada en Punta de la Arena, en el municipio de Puerto del Rosario, al norte de la depuradora cerca de la antigua carretera de Puerto Lajas. Abierta a perros todo el año, es uno de los lugares más fiables para dejar que tu perro disfrute del mar, aunque no hay servicios, así que ven preparado.",
+          "seasonEs": "Abierta a perros todo el año; sin cierre estacional formal",
+          "rulesEs": "Atado según las normas locales; recoge los excrementos de tu perro; sin servicios en el lugar",
+          "descriptionPt": "Uma praia oficialmente autorizada para cães na Punta de la Arena, no concelho de Puerto del Rosario, a norte da estação de tratamento de águas perto da antiga estrada de Puerto Lajas. Aberta a cães todo o ano, é um dos locais mais fiáveis para deixar o seu cão desfrutar do mar, embora não haja serviços, por isso venha preparado.",
+          "seasonPt": "Aberta a cães todo o ano; sem encerramento sazonal formal",
+          "rulesPt": "À trela de acordo com as regras locais; recolha os dejetos do seu cão; sem serviços no local",
+          "descriptionDe": "Ein offiziell zugelassener Hundestrand bei Punta de la Arena in der Gemeinde Puerto del Rosario, nördlich der Kläranlage nahe der alten Straße nach Puerto Lajas. Ganzjährig für Hunde geöffnet, einer der verlässlichsten Orte, an dem Ihr Hund das Meer genießen kann, wenngleich es keinerlei Infrastruktur gibt, kommen Sie also vorbereitet.",
+          "seasonDe": "Ganzjährig für Hunde geöffnet; keine offizielle Saisonsperre",
+          "rulesDe": "Angeleint gemäß den örtlichen Vorschriften; Hinterlassenschaften bitte entfernen; keine Infrastruktur vor Ort",
+          "descriptionNl": "Een officieel toegestaan hondenstrand bij Punta de la Arena in de gemeente Puerto del Rosario, ten noorden van de waterzuiveringsinstallatie bij de oude weg naar Puerto Lajas. Het hele jaar open voor honden en een van de meest betrouwbare plekken om je hond van de zee te laten genieten, al zijn er geen voorzieningen, dus kom voorbereid.",
+          "seasonNl": "Het hele jaar open voor honden; geen officiële seizoenssluiting",
+          "rulesNl": "Aan de lijn volgens de lokale regels; ruim de poep van je hond op; geen voorzieningen ter plaatse",
+          "descriptionIt": "Una spiaggia per cani ufficialmente autorizzata a Punta de la Arena, nel comune di Puerto del Rosario, a nord dell'impianto di depurazione vicino alla vecchia strada per Puerto Lajas. Aperta ai cani tutto l'anno, è uno dei luoghi più affidabili per far godere al tuo cane il mare, anche se non ci sono servizi, quindi vieni preparato.",
+          "seasonIt": "Aperta ai cani tutto l'anno; nessuna chiusura stagionale formale",
+          "rulesIt": "Al guinzaglio secondo le regole locali; raccogli i bisogni del tuo cane; nessun servizio sul posto"
+        },
+        {
+          "name": "Playa de Los Pozos",
+          "distance": "Puerto del Rosario",
+          "description": "An authorised dog beach at the mouth of the Negrito ravine in the capital, handy if you are based on the central east coast. It is an urban-edge beach without showers, bins or services, but its year-round dog access and central location make it a practical everyday option.",
+          "season": "Open to dogs year-round",
+          "rules": "Leashed per local rules; clean up after your dog; no services",
+          "facilities": "None on site; town amenities nearby",
+          "googleMapsUrl": "https://maps.google.com/?q=Playa+de+Los+Pozos+Puerto+del+Rosario",
+          "photo": "",
+          "descriptionFr": "Une plage canine autorisée à l'embouchure du ravin de Negrito, dans la capitale, pratique si vous logez sur la côte est centrale. C'est une plage en périphérie urbaine sans douches, poubelles ni services, mais son accès canin toute l'année et sa position centrale en font une option pratique au quotidien.",
+          "seasonFr": "Ouverte aux chiens toute l'année",
+          "rulesFr": "En laisse selon les règles locales ; ramassez les déjections de votre chien ; aucun service",
+          "descriptionEs": "Una playa canina autorizada en la desembocadura del barranco del Negrito, en la capital, práctica si te alojas en la costa este central. Es una playa de borde urbano sin duchas, papeleras ni servicios, pero su acceso canino durante todo el año y su ubicación central la convierten en una opción práctica para el día a día.",
+          "seasonEs": "Abierta a perros todo el año",
+          "rulesEs": "Atado según las normas locales; recoge los excrementos de tu perro; sin servicios",
+          "descriptionPt": "Uma praia autorizada para cães na foz da ribeira de Negrito, na capital, prática se estiver alojado na costa leste central. É uma praia junto à zona urbana sem chuveiros, caixotes do lixo ou serviços, mas o acesso de cães todo o ano e a localização central fazem dela uma opção prática do dia a dia.",
+          "seasonPt": "Aberta a cães todo o ano",
+          "rulesPt": "À trela conforme as regras locais; recolha os dejetos do seu cão; sem serviços",
+          "descriptionDe": "Ein zugelassener Hundestrand an der Mündung der Negrito-Schlucht in der Hauptstadt, praktisch, wenn Sie an der zentralen Ostküste untergebracht sind. Ein Strand am Stadtrand ohne Duschen, Mülleimer oder sonstige Infrastruktur, doch der ganzjährige Hundezugang und die zentrale Lage machen ihn zu einer praktischen Alltagsoption.",
+          "seasonDe": "Ganzjährig für Hunde geöffnet",
+          "rulesDe": "Angeleint gemäß den örtlichen Vorschriften; Hinterlassenschaften bitte entfernen; keine Infrastruktur",
+          "descriptionNl": "Een toegestaan hondenstrand bij de monding van de Negrito-ravijn in de hoofdstad, handig als je aan de centrale oostkust verblijft. Het is een strand aan de rand van de stad zonder douches, vuilnisbakken of voorzieningen, maar de toegang voor honden het hele jaar door en de centrale ligging maken het een praktische optie voor elke dag.",
+          "seasonNl": "Het hele jaar open voor honden",
+          "rulesNl": "Aan de lijn volgens de lokale regels; ruim de poep van je hond op; geen voorzieningen",
+          "descriptionIt": "Una spiaggia per cani autorizzata alla foce del barranco Negrito nella capitale, comoda se soggiorni sulla costa orientale centrale. È una spiaggia ai margini della città senza docce, cestini o servizi, ma l'accesso per cani tutto l'anno e la posizione centrale la rendono un'opzione pratica per ogni giorno.",
+          "seasonIt": "Aperta ai cani tutto l'anno",
+          "rulesIt": "Al guinzaglio secondo le regole locali; raccogli i bisogni del tuo cane; nessun servizio"
+        },
+        {
+          "name": "Playa de Cofete",
+          "distance": "Jandía peninsula, far south (long dirt track)",
+          "description": "One of Europe's great wild beaches: a remote 12-kilometre sweep of sand on the Jandía peninsula, backed by mountains and reached by a long unpaved track. Dogs are welcome on this untamed shore, but there are no services and the currents are strong and dangerous, so treat it as a spectacular walking beach, not a swimming one.",
+          "season": "Open to dogs year-round; wild and unserviced",
+          "rules": "Keep control near strong currents; clean up; no swimming due to dangerous currents",
+          "facilities": "None; 4x4 recommended for the track, bring everything",
+          "googleMapsUrl": "https://maps.google.com/?q=Playa+de+Cofete+Fuerteventura",
+          "photo": "",
+          "descriptionFr": "L'une des grandes plages sauvages d'Europe : une étendue reculée de 12 kilomètres de sable sur la péninsule de Jandía, adossée à des montagnes et accessible par une longue piste non goudronnée. Les chiens sont les bienvenus sur ce rivage indompté, mais il n'y a aucun service et les courants sont forts et dangereux : à considérer comme une plage de promenade spectaculaire, pas de baignade.",
+          "seasonFr": "Ouverte aux chiens toute l'année ; sauvage et sans services",
+          "rulesFr": "Gardez le contrôle près des forts courants ; ramassez les déjections ; baignade déconseillée en raison des courants dangereux",
+          "descriptionEs": "Una de las grandes playas salvajes de Europa: una extensión remota de 12 kilómetros de arena en la península de Jandía, respaldada por montañas y a la que se llega por una larga pista sin asfaltar. Los perros son bienvenidos en esta costa indómita, pero no hay servicios y las corrientes son fuertes y peligrosas, así que trátala como una playa espectacular para pasear, no para bañarse.",
+          "seasonEs": "Abierta a perros todo el año; salvaje y sin servicios",
+          "rulesEs": "Mantén el control cerca de las corrientes fuertes; recoge los excrementos; prohibido el baño por las corrientes peligrosas",
+          "descriptionPt": "Uma das grandes praias selvagens da Europa: uma extensão remota de 12 quilómetros de areia na península de Jandía, ladeada por montanhas e alcançada por uma longa estrada de terra batida. Os cães são bem-vindos nesta costa indomada, mas não há serviços e as correntes são fortes e perigosas, por isso trate-a como uma praia espetacular para caminhar, não para nadar.",
+          "seasonPt": "Aberta a cães todo o ano; selvagem e sem serviços",
+          "rulesPt": "Mantenha o controlo perto das correntes fortes; recolha os dejetos; proibido nadar devido às correntes perigosas",
+          "descriptionDe": "Einer der großen Wildstrände Europas: ein abgelegener, 12 Kilometer langer Sandstreifen auf der Halbinsel Jandía, im Rücken von Bergen und nur über eine lange unbefestigte Piste erreichbar. Hunde sind an diesem unberührten Ufer willkommen, doch es gibt keinerlei Infrastruktur und die Strömungen sind stark und gefährlich, behandeln Sie ihn also als spektakulären Spazierstrand, nicht als Badestrand.",
+          "seasonDe": "Ganzjährig für Hunde geöffnet; wild und ohne Infrastruktur",
+          "rulesDe": "Wegen starker Strömungen besondere Vorsicht walten lassen; Hinterlassenschaften bitte entfernen; wegen gefährlicher Strömungen nicht baden",
+          "descriptionNl": "Een van de grote wilde stranden van Europa: een afgelegen strook zand van 12 kilometer op het schiereiland Jandía, met bergen op de achtergrond en bereikbaar via een lange onverharde weg. Honden zijn welkom op deze ongetemde kust, maar er zijn geen voorzieningen en de stroming is sterk en gevaarlijk, dus behandel het als een spectaculair wandelstrand, geen zwemstrand.",
+          "seasonNl": "Het hele jaar open voor honden; wild en zonder voorzieningen",
+          "rulesNl": "Houd controle bij de sterke stroming; ruim poep op; niet zwemmen vanwege gevaarlijke stroming",
+          "descriptionIt": "Una delle grandi spiagge selvagge d'Europa: una remota distesa di sabbia di 12 chilometri sulla penisola di Jandía, incorniciata da montagne e raggiungibile con una lunga pista non asfaltata. I cani sono benvenuti su questa costa incontaminata, ma non ci sono servizi e le correnti sono forti e pericolose, quindi trattala come una spettacolare spiaggia da passeggio, non da bagno.",
+          "seasonIt": "Aperta ai cani tutto l'anno; selvaggia e senza servizi",
+          "rulesIt": "Mantieni il controllo vicino alle correnti forti; raccogli i bisogni; niente bagno a causa delle correnti pericolose"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Which beaches in Fuerteventura allow dogs?",
+          "a": "Only a handful are officially authorised, mostly around Puerto del Rosario: El Charco (Punta de la Arena), Los Pozos, El Matorral and Puerto Lajas, plus wild spots like Cofete and Jarugo. The big resort beaches at Corralejo, Costa Calma and Sotavento are not dog zones, so plan your beach days around the authorised ones."
+        },
+        {
+          "q": "Are there seasonal restrictions for dogs on Fuerteventura beaches?",
+          "a": "The authorised dog beaches operate essentially year-round with no formal seasonal closure, though monitoring is heaviest from June to September. The bigger issue is that most of the coast is simply not dog-authorised at any time, so always check the local signage and stick to the official spots."
+        },
+        {
+          "q": "Is there shade or facilities on Fuerteventura's dog beaches?",
+          "a": "Generally no. Most authorised dog beaches have no showers, bins or shade, and the sun and wind are strong all year. Bring plenty of water, waste bags and sun cover, walk early or late, and watch hot sand on your dog's paws."
+        }
+      ],
+      "titleFr": "Plages acceptant les chiens à Fuerteventura",
+      "introFr": "C'est le point à planifier en priorité : malgré 150 kilomètres de côte, Fuerteventura n'autorise qu'une poignée de plages canines, la plupart près de la capitale Puerto del Rosario, et les célèbres plages de stations à Corralejo, Costa Calma et Sotavento ne sont pas des zones canines. La bonne nouvelle, c'est que les plages autorisées fonctionnent pratiquement toute l'année sans interdiction saisonnière, et il existe aussi des options sauvages. La plupart n'ont ni ombre, ni douches, ni poubelles : apportez eau, sacs et protection solaire, et vérifiez toujours la signalisation locale en vigueur.",
+      "faqsFr": [
+        {
+          "q": "Quelles plages de Fuerteventura acceptent les chiens ?",
+          "a": "Seule une poignée est officiellement autorisée, la plupart autour de Puerto del Rosario : El Charco (Punta de la Arena), Los Pozos, El Matorral et Puerto Lajas, plus des sites sauvages comme Cofete et Jarugo. Les grandes plages de stations à Corralejo, Costa Calma et Sotavento ne sont pas des zones canines : organisez donc vos journées plage autour des sites autorisés."
+        },
+        {
+          "q": "Existe-t-il des restrictions saisonnières pour les chiens sur les plages de Fuerteventura ?",
+          "a": "Les plages canines autorisées fonctionnent pratiquement toute l'année sans fermeture saisonnière officielle, bien que la surveillance soit plus marquée de juin à septembre. Le vrai problème, c'est que la majeure partie de la côte n'est tout simplement pas autorisée aux chiens, quelle que soit la saison : vérifiez donc toujours la signalisation locale et respectez les sites officiels."
+        },
+        {
+          "q": "Y a-t-il de l'ombre ou des équipements sur les plages canines de Fuerteventura ?",
+          "a": "Généralement non. La plupart des plages canines autorisées n'ont ni douches, ni poubelles, ni ombre, et le soleil et le vent sont forts toute l'année. Apportez beaucoup d'eau, des sacs à déjections et une protection solaire, promenez-vous tôt ou tard, et surveillez le sable chaud sous les coussinets de votre chien."
+        }
+      ],
+      "titleEs": "Playas para Perros en Fuerteventura",
+      "introEs": "Esto es lo que hay que planificar con cuidado: pese a sus 150 kilómetros de costa, Fuerteventura solo autoriza un puñado de playas caninas, la mayoría cerca de la capital Puerto del Rosario, y las famosas playas de resort de Corralejo, Costa Calma y Sotavento no son zonas caninas. La buena noticia es que las playas autorizadas funcionan prácticamente todo el año sin veto estacional, y también hay opciones salvajes. La mayoría no tiene sombra, duchas ni papeleras, así que lleva agua, bolsas y protección solar, y comprueba siempre la señalización local vigente.",
+      "faqsEs": [
+        {
+          "q": "¿Qué playas de Fuerteventura admiten perros?",
+          "a": "Solo un puñado están oficialmente autorizadas, la mayoría alrededor de Puerto del Rosario: El Charco (Punta de la Arena), Los Pozos, El Matorral y Puerto Lajas, además de lugares salvajes como Cofete y Jarugo. Las grandes playas de resort de Corralejo, Costa Calma y Sotavento no son zonas caninas, así que planifica tus días de playa en torno a las autorizadas."
+        },
+        {
+          "q": "¿Hay restricciones estacionales para perros en las playas de Fuerteventura?",
+          "a": "Las playas caninas autorizadas funcionan prácticamente todo el año sin cierre estacional formal, aunque la vigilancia es mayor de junio a septiembre. El problema mayor es que la mayor parte de la costa simplemente no está autorizada para perros en ningún momento, así que comprueba siempre la señalización local y quédate en los lugares oficiales."
+        },
+        {
+          "q": "¿Hay sombra o instalaciones en las playas para perros de Fuerteventura?",
+          "a": "En general, no. La mayoría de las playas caninas autorizadas no tienen duchas, papeleras ni sombra, y el sol y el viento son fuertes todo el año. Lleva mucha agua, bolsas para excrementos y protección solar, pasea temprano o al final del día, y vigila la arena caliente en las patas de tu perro."
+        }
+      ],
+      "titlePt": "Praias Pet-Friendly em Fuerteventura",
+      "introPt": "É isto que é preciso planear: apesar de 150 quilómetros de costa, Fuerteventura autoriza apenas um punhado de praias para cães, a maioria perto da capital Puerto del Rosario, e as famosas praias turísticas de Corralejo, Costa Calma e Sotavento não são zonas para cães. A boa notícia é que as praias autorizadas funcionam praticamente todo o ano sem proibição sazonal, e há também opções selvagens. A maioria não tem sombra, chuveiros ou caixotes do lixo, por isso leve água, sacos e proteção solar, e verifique sempre a sinalização local atual.",
+      "faqsPt": [
+        {
+          "q": "Que praias em Fuerteventura permitem cães?",
+          "a": "Apenas um punhado é oficialmente autorizado, sobretudo à volta de Puerto del Rosario: El Charco (Punta de la Arena), Los Pozos, El Matorral e Puerto Lajas, além de locais selvagens como Cofete e Jarugo. As grandes praias turísticas de Corralejo, Costa Calma e Sotavento não são zonas para cães, por isso planeie os seus dias de praia à volta das autorizadas."
+        },
+        {
+          "q": "Há restrições sazonais para cães nas praias de Fuerteventura?",
+          "a": "As praias autorizadas para cães funcionam praticamente todo o ano sem encerramento sazonal formal, embora a fiscalização seja mais intensa de junho a setembro. A questão maior é que a maior parte da costa simplesmente não é autorizada para cães em qualquer altura, por isso verifique sempre a sinalização local e mantenha-se nos locais oficiais."
+        },
+        {
+          "q": "Há sombra ou instalações nas praias para cães de Fuerteventura?",
+          "a": "Geralmente não. A maioria das praias autorizadas para cães não tem chuveiros, caixotes do lixo ou sombra, e o sol e o vento são fortes durante todo o ano. Leve bastante água, sacos para os dejetos e proteção solar, caminhe de manhã cedo ou ao final do dia, e tenha atenção à areia quente nas patas do seu cão."
+        }
+      ],
+      "titleDe": "Hundefreundliche Strände auf Fuerteventura",
+      "introDe": "Das ist der entscheidende Punkt bei der Planung: Trotz 150 Kilometer Küste lässt Fuerteventura nur eine Handvoll Hundestrände zu, die meisten davon nahe der Hauptstadt Puerto del Rosario, und die berühmten Ferienstrände von Corralejo, Costa Calma und Sotavento sind keine Hundezonen. Die gute Nachricht: Die zugelassenen Strände sind praktisch ganzjährig geöffnet ohne Saisonsperre, und es gibt auch wilde Alternativen. Die meisten bieten weder Schatten noch Duschen oder Mülleimer, bringen Sie also Wasser, Kotbeutel und Sonnenschutz mit und prüfen Sie stets die aktuelle örtliche Beschilderung.",
+      "faqsDe": [
+        {
+          "q": "Welche Strände auf Fuerteventura erlauben Hunde?",
+          "a": "Nur eine Handvoll ist offiziell zugelassen, größtenteils rund um Puerto del Rosario: El Charco (Punta de la Arena), Los Pozos, El Matorral und Puerto Lajas, dazu wilde Spots wie Cofete und Jarugo. Die großen Ferienstrände von Corralejo, Costa Calma und Sotavento sind keine Hundezonen, planen Sie Ihre Strandtage also um die zugelassenen Orte herum."
+        },
+        {
+          "q": "Gibt es saisonale Einschränkungen für Hunde an den Stränden auf Fuerteventura?",
+          "a": "Die zugelassenen Hundestrände sind praktisch ganzjährig geöffnet ohne offizielle Saisonsperre, wobei die Kontrollen von Juni bis September am strengsten sind. Das größere Problem ist, dass der Großteil der Küste zu keiner Zeit für Hunde zugelassen ist, prüfen Sie also immer die örtliche Beschilderung und halten Sie sich an die offiziellen Spots."
+        },
+        {
+          "q": "Gibt es Schatten oder Einrichtungen an den Hundestränden auf Fuerteventura?",
+          "a": "In der Regel nicht. Die meisten zugelassenen Hundestrände haben weder Duschen noch Mülleimer noch Schatten, und Sonne und Wind sind das ganze Jahr über kräftig. Bringen Sie reichlich Wasser, Kotbeutel und Sonnenschutz mit, gehen Sie früh oder spät spazieren und achten Sie auf heißen Sand unter den Pfoten Ihres Hundes."
+        }
+      ],
+      "titleNl": "Hondvriendelijke stranden in Fuerteventura",
+      "introNl": "Dit is waar je je planning op moet afstemmen: ondanks 150 kilometer kust staat Fuerteventura maar een handvol hondenstranden toe, de meeste bij hoofdstad Puerto del Rosario, en de beroemde badplaatsstranden bij Corralejo, Costa Calma en Sotavento zijn geen hondenzones. Het goede nieuws is dat de toegestane stranden eigenlijk het hele jaar open zijn zonder seizoensverbod, en er zijn ook wilde opties. De meeste hebben geen schaduw, douches of vuilnisbakken, dus neem water, zakjes en zonbescherming mee, en controleer altijd de actuele lokale bebording.",
+      "faqsNl": [
+        {
+          "q": "Welke stranden in Fuerteventura staan honden toe?",
+          "a": "Slechts een handvol is officieel toegestaan, vooral rond Puerto del Rosario: El Charco (Punta de la Arena), Los Pozos, El Matorral en Puerto Lajas, plus wilde plekken zoals Cofete en Jarugo. De grote badplaatsstranden bij Corralejo, Costa Calma en Sotavento zijn geen hondenzones, dus plan je strandbezoeken rond de toegestane stranden."
+        },
+        {
+          "q": "Gelden er seizoensbeperkingen voor honden op de stranden van Fuerteventura?",
+          "a": "De toegestane hondenstranden zijn eigenlijk het hele jaar door open, zonder officiële seizoenssluiting, al is het toezicht het strengst van juni tot september. Het grotere probleem is dat het grootste deel van de kust simpelweg nooit voor honden is toegestaan, dus controleer altijd de lokale bebording en houd je aan de officiële plekken."
+        },
+        {
+          "q": "Is er schaduw of zijn er voorzieningen op de hondenstranden van Fuerteventura?",
+          "a": "Over het algemeen niet. De meeste toegestane hondenstranden hebben geen douches, vuilnisbakken of schaduw, en de zon en wind zijn het hele jaar door sterk. Neem genoeg water, poepzakjes en zonbescherming mee, wandel vroeg of laat, en let op heet zand voor de pootjes van je hond."
+        }
+      ],
+      "titleIt": "Spiagge Pet-Friendly a Fuerteventura",
+      "introIt": "Questo è l'aspetto da pianificare con cura: nonostante 150 chilometri di costa, Fuerteventura autorizza solo una manciata di spiagge per cani, la maggior parte vicino alla capitale Puerto del Rosario, e le famose spiagge turistiche di Corralejo, Costa Calma e Sotavento non sono zone per cani. La buona notizia è che le spiagge autorizzate sono aperte praticamente tutto l'anno senza divieto stagionale, e ci sono anche opzioni selvagge. La maggior parte non ha ombra, docce o cestini, quindi porta acqua, sacchetti e protezione dal sole, e controlla sempre la segnaletica locale aggiornata.",
+      "faqsIt": [
+        {
+          "q": "Quali spiagge a Fuerteventura ammettono i cani?",
+          "a": "Solo una manciata sono ufficialmente autorizzate, per lo più intorno a Puerto del Rosario: El Charco (Punta de la Arena), Los Pozos, El Matorral e Puerto Lajas, oltre a luoghi selvaggi come Cofete e Jarugo. Le grandi spiagge turistiche di Corralejo, Costa Calma e Sotavento non sono zone per cani, quindi pianifica le tue giornate al mare intorno a quelle autorizzate."
+        },
+        {
+          "q": "Ci sono restrizioni stagionali per i cani sulle spiagge di Fuerteventura?",
+          "a": "Le spiagge per cani autorizzate sono aperte praticamente tutto l'anno senza una chiusura stagionale formale, anche se i controlli sono più intensi da giugno a settembre. Il problema più grande è che la maggior parte della costa semplicemente non è autorizzata per i cani in nessun periodo, quindi controlla sempre la segnaletica locale e attieniti ai luoghi ufficiali."
+        },
+        {
+          "q": "C'è ombra o servizi sulle spiagge per cani di Fuerteventura?",
+          "a": "In genere no. La maggior parte delle spiagge per cani autorizzate non ha docce, cestini o ombra, e il sole e il vento sono forti tutto l'anno. Porta molta acqua, sacchetti per i bisogni e protezione dal sole, cammina presto la mattina o nel tardo pomeriggio, e controlla la sabbia calda sotto le zampe del tuo cane."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Fuerteventura with a Dog",
+      "introEn": "Fuerteventura is a wonderful winter-sun escape with a dog, as long as you go in with eyes open: it is a big, dry, windy island where only a few beaches allow dogs and shade is scarce. Rent a car, base yourself for easy reach of the authorised beaches, and build days around early-morning and late-afternoon walks. Bring your dog's EU passport, plenty of water and sun sense, and the island's space and year-round warmth do the rest.",
+      "places": [],
+      "faqsEn": [
+        {
+          "q": "When is the best time to visit Fuerteventura with a dog?",
+          "a": "Almost any time: the island is a year-round winter-sun destination, mild even in December and January when much of Europe is cold. High summer is hot and very windy, so spring and autumn are the sweet spot, and winter is ideal for escaping the cold with a dog. The dog beaches are open all year."
+        },
+        {
+          "q": "Is Fuerteventura a good destination for dogs?",
+          "a": "It is great for space, warmth and wild walks, but honest about its limits: only a handful of beaches allow dogs, there is little shade, and you need a car. If you plan around the authorised beaches and the cooler hours, it is a superb warm-weather escape; if you expect to take your dog onto any beach, you will be disappointed."
+        },
+        {
+          "q": "What should I pack for a dog in Fuerteventura?",
+          "a": "Plenty of water and a travel bowl, waste bags, a sun-safe plan for scarce shade, and something to check hot sand and pavement on paws. Bring your dog's EU passport and vaccination record, and a car seat cover, since a hire car is essential for getting around the island."
+        }
+      ],
+      "titleFr": "Conseils pratiques pour visiter Fuerteventura avec un chien",
+      "introFr": "Fuerteventura est une merveilleuse escapade de soleil hivernal avec un chien, à condition d'y aller les yeux ouverts : c'est une île grande, sèche et venteuse où seules quelques plages acceptent les chiens et où l'ombre est rare. Louez une voiture, installez-vous pour un accès facile aux plages autorisées, et construisez vos journées autour de balades en tout début et toute fin de journée. Emportez le passeport européen de votre chien, beaucoup d'eau et du bon sens face au soleil, et l'espace et la chaleur toute l'année de l'île font le reste.",
+      "faqsFr": [
+        {
+          "q": "Quelle est la meilleure période pour visiter Fuerteventura avec un chien ?",
+          "a": "Presque n'importe quand : l'île est une destination de soleil hivernal toute l'année, douce même en décembre et janvier quand une grande partie de l'Europe grelotte. L'été est chaud et très venteux, le printemps et l'automne sont donc idéaux, et l'hiver est parfait pour échapper au froid avec un chien. Les plages canines sont ouvertes toute l'année."
+        },
+        {
+          "q": "Fuerteventura est-elle une bonne destination pour les chiens ?",
+          "a": "Elle est excellente pour l'espace, la chaleur et les balades sauvages, mais il faut être honnête sur ses limites : seule une poignée de plages accepte les chiens, l'ombre est rare, et une voiture est nécessaire. Si vous organisez votre séjour autour des plages autorisées et des heures fraîches, c'est une superbe escapade au chaud ; si vous espérez emmener votre chien sur n'importe quelle plage, vous serez déçu."
+        },
+        {
+          "q": "Que dois-je emporter pour un chien à Fuerteventura ?",
+          "a": "Beaucoup d'eau et une gamelle de voyage, des sacs à déjections, un plan anti-soleil vu la rareté de l'ombre, et de quoi vérifier le sable et le trottoir chauds sous les coussinets. Emportez le passeport européen et le carnet de vaccination de votre chien, ainsi qu'une housse de siège pour la voiture, une location étant indispensable pour se déplacer sur l'île."
+        }
+      ],
+      "titleEs": "Consejos Prácticos para Visitar Fuerteventura con un Perro",
+      "introEs": "Fuerteventura es una maravillosa escapada de sol de invierno con un perro, siempre que vayas con los ojos bien abiertos: es una isla grande, seca y ventosa donde solo unas pocas playas admiten perros y la sombra escasea. Alquila un coche, elige una base con fácil acceso a las playas autorizadas, y organiza los días en torno a paseos a primera hora de la mañana y al final de la tarde. Lleva el pasaporte europeo de tu perro, mucha agua y sentido común frente al sol, y el espacio y el calor durante todo el año de la isla hacen el resto.",
+      "faqsEs": [
+        {
+          "q": "¿Cuál es la mejor época para visitar Fuerteventura con un perro?",
+          "a": "Casi cualquier época: la isla es un destino de sol de invierno todo el año, suave incluso en diciembre y enero cuando gran parte de Europa pasa frío. El verano es caluroso y muy ventoso, así que la primavera y el otoño son el punto ideal, y el invierno es perfecto para escapar del frío con un perro. Las playas caninas están abiertas todo el año."
+        },
+        {
+          "q": "¿Es Fuerteventura un buen destino para perros?",
+          "a": "Es estupenda por el espacio, el calor y los paseos salvajes, pero hay que ser realista con sus límites: solo un puñado de playas admite perros, hay poca sombra y necesitas coche. Si planificas en torno a las playas autorizadas y las horas más frescas, es una escapada de calor magnífica; si esperas poder llevar a tu perro a cualquier playa, te llevarás una decepción."
+        },
+        {
+          "q": "¿Qué debo llevar para un perro en Fuerteventura?",
+          "a": "Mucha agua y un cuenco de viaje, bolsas para excrementos, un plan para protegerse del sol dada la escasa sombra, y algo para comprobar la arena y el pavimento calientes en las patas. Lleva el pasaporte europeo de tu perro y su cartilla de vacunación, y una funda para el asiento del coche, ya que un coche de alquiler es imprescindible para moverte por la isla."
+        }
+      ],
+      "titlePt": "Conselhos Práticos para Visitar Fuerteventura com um Cão",
+      "introPt": "Fuerteventura é uma maravilhosa escapadela de sol de inverno com um cão, desde que vá preparado: é uma ilha grande, seca e ventosa onde só algumas praias permitem cães e a sombra escasseia. Alugue um carro, instale-se num local que facilite o acesso às praias autorizadas, e organize os dias em torno de passeios de manhã cedo e ao final da tarde. Leve o passaporte europeu do seu cão, bastante água e bom senso solar, e o espaço e o calor da ilha durante todo o ano tratam do resto.",
+      "faqsPt": [
+        {
+          "q": "Qual é a melhor altura para visitar Fuerteventura com um cão?",
+          "a": "Praticamente em qualquer altura: a ilha é um destino de sol de inverno durante todo o ano, ameno mesmo em dezembro e janeiro, quando grande parte da Europa está fria. O verão alto é quente e muito ventoso, por isso a primavera e o outono são o período ideal, e o inverno é perfeito para escapar ao frio com um cão. As praias para cães estão abertas todo o ano."
+        },
+        {
+          "q": "Fuerteventura é um bom destino para cães?",
+          "a": "É ótima em espaço, calor e passeios selvagens, mas honesta quanto aos seus limites: só um punhado de praias permite cães, há pouca sombra e é preciso um carro. Se planear em torno das praias autorizadas e das horas mais frescas, é uma excelente escapadela de clima quente; se esperar levar o seu cão a qualquer praia, vai ficar desiludido."
+        },
+        {
+          "q": "O que devo levar para um cão em Fuerteventura?",
+          "a": "Bastante água e uma taça de viagem, sacos para os dejetos, um plano de proteção solar dado que a sombra escasseia, e algo para verificar a areia e o pavimento quentes nas patas. Leve o passaporte europeu e o registo de vacinação do seu cão, e uma capa para o banco do carro, já que um carro de aluguer é essencial para circular na ilha."
+        }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch auf Fuerteventura mit Hund",
+      "introDe": "Fuerteventura ist mit Hund ein wunderbarer Winterurlaub, solange Sie mit offenen Augen anreisen: Es ist eine große, trockene, windige Insel, an der nur wenige Strände Hunde erlauben und Schatten Mangelware ist. Mieten Sie ein Auto, wählen Sie eine Unterkunft mit guter Erreichbarkeit der zugelassenen Strände und planen Sie Ihre Tage um Spaziergänge am frühen Morgen und späten Nachmittag herum. Bringen Sie den EU-Heimtierausweis Ihres Hundes, reichlich Wasser und Sonnenverstand mit, den Rest erledigen der Raum und die ganzjährige Wärme der Insel.",
+      "faqsDe": [
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch auf Fuerteventura mit Hund?",
+          "a": "Fast jederzeit: Die Insel ist ein ganzjähriges Winterurlaubsziel, mild selbst im Dezember und Januar, wenn große Teile Europas frieren. Der Hochsommer ist heiß und sehr windig, Frühling und Herbst sind daher die goldene Mitte, und der Winter eignet sich ideal, um mit Hund der Kälte zu entfliehen. Die Hundestrände sind ganzjährig geöffnet."
+        },
+        {
+          "q": "Ist Fuerteventura ein gutes Reiseziel für Hunde?",
+          "a": "Großartig für Raum, Wärme und wilde Spaziergänge, aber ehrlich, was seine Grenzen betrifft: Nur eine Handvoll Strände erlaubt Hunde, es gibt kaum Schatten, und Sie brauchen ein Auto. Wenn Sie um die zugelassenen Strände und die kühleren Stunden herum planen, ist es ein hervorragender Ausflug ins warme Wetter; wer erwartet, seinen Hund an jeden Strand mitnehmen zu können, wird enttäuscht sein."
+        },
+        {
+          "q": "Was sollte ich für einen Hund auf Fuerteventura einpacken?",
+          "a": "Reichlich Wasser und einen Reisenapf, Kotbeutel, einen Sonnenschutzplan angesichts der Schattenknappheit sowie etwas, um heißen Sand und Asphalt unter den Pfoten zu prüfen. Bringen Sie den EU-Heimtierausweis und das Impfbuch Ihres Hundes sowie eine Autositzschutzdecke mit, da ein Mietwagen zur Fortbewegung auf der Insel unerlässlich ist."
+        }
+      ],
+      "titleNl": "Praktische tips voor een bezoek aan Fuerteventura met je hond",
+      "introNl": "Fuerteventura is een heerlijke ontsnapping aan de winter met je hond, zolang je met open ogen gaat: het is een groot, droog, winderig eiland waar maar een paar stranden honden toestaan en schaduw schaars is. Huur een auto, kies een verblijfplaats van waaruit de toegestane stranden makkelijk te bereiken zijn, en bouw je dagen op rond wandelingen vroeg in de ochtend en laat in de middag. Neem het Europese dierenpaspoort van je hond mee, genoeg water en gezond verstand voor de zon, en de ruimte en warmte van het eiland doen de rest.",
+      "faqsNl": [
+        {
+          "q": "Wanneer is de beste tijd om Fuerteventura met een hond te bezoeken?",
+          "a": "Bijna elk moment: het eiland is het hele jaar door een winterzonbestemming, mild zelfs in december en januari als een groot deel van Europa het koud heeft. Hoogzomer is heet en erg winderig, dus lente en herfst zijn het lekkerst, en de winter is ideaal om de kou te ontvluchten met een hond. De hondenstranden zijn het hele jaar open."
+        },
+        {
+          "q": "Is Fuerteventura een goede bestemming voor honden?",
+          "a": "Het is geweldig wat betreft ruimte, warmte en wilde wandelingen, maar eerlijk over de beperkingen: maar een handvol stranden staat honden toe, er is weinig schaduw en je hebt een auto nodig. Als je je planning afstemt op de toegestane stranden en de koelere uren, is het een fantastische ontsnapping naar warm weer; verwacht je dat je hond op elk strand mag komen, dan val je tegen."
+        },
+        {
+          "q": "Wat moet ik inpakken voor een hond in Fuerteventura?",
+          "a": "Genoeg water en een reisbakje, poepzakjes, een plan voor de schaarse schaduw, en iets om heet zand en asfalt voor de pootjes te checken. Neem het Europese dierenpaspoort en vaccinatiebewijs van je hond mee, en een stoelhoes voor de auto, want een huurauto is onmisbaar om het eiland rond te reizen."
+        }
+      ],
+      "titleIt": "Consigli Pratici per Visitare Fuerteventura con un Cane",
+      "introIt": "Fuerteventura è una meravigliosa fuga di sole invernale con un cane, purché tu parta consapevole: è un'isola grande, secca e ventosa dove solo poche spiagge ammettono i cani e l'ombra scarseggia. Noleggia un'auto, scegli una base comoda per raggiungere facilmente le spiagge autorizzate e costruisci le giornate intorno a passeggiate mattutine e a fine pomeriggio. Porta il passaporto UE del tuo cane, molta acqua e buon senso per il sole, e lo spazio e il calore tutto l'anno dell'isola faranno il resto.",
+      "faqsIt": [
+        {
+          "q": "Qual è il periodo migliore per visitare Fuerteventura con un cane?",
+          "a": "Quasi in ogni periodo: l'isola è una meta di sole invernale tutto l'anno, mite anche a dicembre e gennaio quando gran parte dell'Europa è fredda. L'estate piena è calda e molto ventosa, quindi primavera e autunno sono il momento ideale, e l'inverno è perfetto per sfuggire al freddo con un cane. Le spiagge per cani sono aperte tutto l'anno."
+        },
+        {
+          "q": "Fuerteventura è una buona destinazione per i cani?",
+          "a": "È ottima per lo spazio, il calore e le passeggiate selvagge, ma è onesto ammettere i suoi limiti: solo una manciata di spiagge ammette i cani, c'è poca ombra e serve un'auto. Se pianifichi intorno alle spiagge autorizzate e alle ore più fresche, è una fuga calda superba; se ti aspetti di poter portare il tuo cane su qualsiasi spiaggia, resterai deluso."
+        },
+        {
+          "q": "Cosa dovrei portare per un cane a Fuerteventura?",
+          "a": "Molta acqua e una ciotola da viaggio, sacchetti per i bisogni, un piano anti-sole vista la scarsa ombra, e qualcosa per controllare la sabbia e l'asfalto caldi sotto le zampe. Porta il passaporto UE e il libretto delle vaccinazioni del tuo cane, e una copertura per il sedile dell'auto, poiché un'auto a noleggio è essenziale per muoversi sull'isola."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions & Things to Do in Fuerteventura",
+      "introEn": "Fuerteventura's attractions are overwhelmingly outdoors, which suits a dog: the dunes, the wild beaches, the lighthouses and the historic villages are all open-air and easy to enjoy on the lead. A few protected spots, above all Isla de Lobos, do not allow dogs, but there is more than enough wild coast and interior to fill a trip. Keep your dog leashed, carry water everywhere, and time visits for the cooler hours.",
+      "places": [
+        {
+          "name": "Betancuria",
+          "neighborhood": "Central mountains",
+          "photo": "",
+          "website": "",
+          "description": "The island's serene former capital, founded in 1404 and set in a green valley, listed among the most beautiful villages of Spain. Its whitewashed lanes, historic church and hillside viewpoints make a gentle leashed stroll and a cool break from the coast, with shaded cafés for a pause.",
+          "dogPolicy": "Leashed dogs welcome in the streets and viewpoints (not inside the church/museums)",
+          "admissionFee": "Free to wander; small fees for some museums",
+          "tip": "Drive the mountain road for the miradores; go mid-morning before it warms up.",
+          "googleMapsUrl": "https://maps.google.com/?q=Betancuria+Fuerteventura",
+          "descriptionFr": "L'ancienne capitale sereine de l'île, fondée en 1404 et nichée dans une vallée verdoyante, classée parmi les plus beaux villages d'Espagne. Ses ruelles blanchies à la chaux, son église historique et ses points de vue en hauteur offrent une douce balade en laisse et une pause fraîche loin de la côte, avec des cafés ombragés pour souffler.",
+          "dogPolicyFr": "Chiens en laisse bienvenus dans les rues et aux points de vue (pas à l'intérieur de l'église/des musées)",
+          "admissionFeeFr": "Gratuit pour se promener ; petits tarifs pour certains musées",
+          "tipFr": "Prenez la route de montagne pour les miradors ; venez en milieu de matinée avant que la chaleur ne monte.",
+          "descriptionEs": "La serena antigua capital de la isla, fundada en 1404 y situada en un valle verde, incluida entre los pueblos más bonitos de España. Sus calles encaladas, su iglesia histórica y sus miradores en la ladera permiten un paseo tranquilo con correa y un respiro fresco de la costa, con cafés a la sombra para hacer una pausa.",
+          "dogPolicyEs": "Perros atados bienvenidos en las calles y miradores (no dentro de la iglesia o los museos)",
+          "admissionFeeEs": "Gratis para pasear; pequeñas tarifas para algunos museos",
+          "tipEs": "Conduce por la carretera de montaña para llegar a los miradores; ve a media mañana antes de que apriete el calor.",
+          "descriptionPt": "A antiga e serena capital da ilha, fundada em 1404 e situada num vale verdejante, listada entre as aldeias mais bonitas de Espanha. As suas ruelas caiadas de branco, a igreja histórica e os miradouros nas colinas proporcionam um passeio tranquilo à trela e uma pausa fresca da costa, com cafés à sombra para descansar.",
+          "dogPolicyPt": "Cães à trela bem-vindos nas ruas e miradouros (não dentro da igreja/museus)",
+          "admissionFeePt": "Livre para passear; pequenas taxas para alguns museus",
+          "tipPt": "Conduza pela estrada de montanha até aos miradouros; vá a meio da manhã antes de aquecer.",
+          "descriptionDe": "Die beschauliche frühere Hauptstadt der Insel, 1404 gegründet und in einem grünen Tal gelegen, gelistet unter den schönsten Dörfern Spaniens. Die weiß getünchten Gassen, die historische Kirche und die Aussichtspunkte am Hang laden zu einem gemütlichen Spaziergang an der Leine und einer kühlen Pause abseits der Küste ein, mit schattigen Cafés für eine Rast.",
+          "dogPolicyDe": "Angeleinte Hunde in den Gassen und an den Aussichtspunkten willkommen (nicht in Kirche/Museen)",
+          "admissionFeeDe": "Kostenlos zum Bummeln; kleine Gebühren für einige Museen",
+          "tipDe": "Fahren Sie die Bergstraße für die Aussichtspunkte (miradores) ab; kommen Sie am Vormittag, bevor es warm wird.",
+          "descriptionNl": "De sereen gelegen voormalige hoofdstad van het eiland, gesticht in 1404 in een groen dal, en genoemd als een van de mooiste dorpen van Spanje. De witgekalkte straatjes, de historische kerk en de uitzichtpunten op de heuvel maken er een rustige wandeling aan de lijn van en een koele onderbreking van de kust, met terrasjes in de schaduw voor een pauze.",
+          "dogPolicyNl": "Honden aan de lijn welkom in de straten en bij de uitzichtpunten (niet in de kerk/musea)",
+          "admissionFeeNl": "Gratis om rond te wandelen; kleine kosten voor sommige musea",
+          "tipNl": "Rijd de bergweg op voor de miradores; ga halverwege de ochtend voordat het warm wordt.",
+          "descriptionIt": "La serena ex capitale dell'isola, fondata nel 1404 e immersa in una verde vallata, inclusa tra i borghi più belli di Spagna. Le sue viuzze imbiancate a calce, la chiesa storica e i belvedere collinari regalano una passeggiata tranquilla al guinzaglio e una pausa fresca dalla costa, con caffè ombreggiati per una sosta.",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti nelle strade e nei belvedere (non all'interno di chiesa/musei)",
+          "admissionFeeIt": "Gratis per passeggiare; piccole tariffe per alcuni musei",
+          "tipIt": "Percorri in auto la strada di montagna per i miradores; vai a metà mattina prima che si scaldi troppo."
+        },
+        {
+          "name": "Faro del Tostón (El Cotillo)",
+          "neighborhood": "Northwest tip, El Cotillo",
+          "photo": "",
+          "website": "",
+          "description": "The striking black-and-white lighthouse at the island's northwest tip, above turquoise lagoons and lava reefs near El Cotillo. Leashed dogs are welcome on the headland and coastal path around it, one of the best sunset walks on the island, though not inside the small fishing museum in the tower.",
+          "dogPolicy": "Leashed dogs welcome on the headland and paths; not inside the museum",
+          "admissionFee": "Free outside; small fee for the museum",
+          "tip": "Come for sunset and pair it with the El Cotillo lagoons and a harbour dinner.",
+          "googleMapsUrl": "https://maps.google.com/?q=Faro+del+Toston+El+Cotillo",
+          "descriptionFr": "Le phare noir et blanc saisissant à la pointe nord-ouest de l'île, dominant des lagons turquoise et des récifs de lave près d'El Cotillo. Les chiens en laisse sont les bienvenus sur le promontoire et le sentier côtier autour, l'une des meilleures balades au coucher de soleil de l'île, mais pas à l'intérieur du petit musée de la pêche dans la tour.",
+          "dogPolicyFr": "Chiens en laisse bienvenus sur le promontoire et les sentiers ; pas à l'intérieur du musée",
+          "admissionFeeFr": "Gratuit à l'extérieur ; petit tarif pour le musée",
+          "tipFr": "Venez pour le coucher de soleil et combinez avec les lagons d'El Cotillo et un dîner au port.",
+          "descriptionEs": "El llamativo faro blanco y negro en la punta noroeste de la isla, sobre lagunas turquesas y arrecifes de lava cerca de El Cotillo. Los perros atados son bienvenidos en el promontorio y el sendero costero que lo rodea, uno de los mejores paseos al atardecer de la isla, aunque no dentro del pequeño museo de pesca de la torre.",
+          "dogPolicyEs": "Perros atados bienvenidos en el promontorio y los senderos; no dentro del museo",
+          "admissionFeeEs": "Gratis por fuera; pequeña tarifa para el museo",
+          "tipEs": "Ven al atardecer y combínalo con las lagunas de El Cotillo y una cena en el puerto.",
+          "descriptionPt": "O impressionante farol a preto e branco na ponta noroeste da ilha, sobre lagoas turquesa e recifes de lava perto de El Cotillo. Os cães à trela são bem-vindos no promontório e no caminho costeiro à sua volta, um dos melhores passeios ao pôr do sol da ilha, embora não dentro do pequeno museu de pesca na torre.",
+          "dogPolicyPt": "Cães à trela bem-vindos no promontório e nos caminhos; não dentro do museu",
+          "admissionFeePt": "Livre no exterior; pequena taxa para o museu",
+          "tipPt": "Vá ao pôr do sol e combine com as lagoas de El Cotillo e um jantar no porto.",
+          "descriptionDe": "Der markante schwarz-weiße Leuchtturm an der Nordwestspitze der Insel, hoch über türkisfarbenen Lagunen und Lavariffen nahe El Cotillo. Angeleinte Hunde sind auf der Landzunge und dem Küstenweg drumherum willkommen, einem der schönsten Sonnenuntergangsspaziergänge der Insel, jedoch nicht im kleinen Fischereimuseum im Turm.",
+          "dogPolicyDe": "Angeleinte Hunde auf der Landzunge und den Wegen willkommen; nicht im Museum",
+          "admissionFeeDe": "Draußen kostenlos; kleine Gebühr für das Museum",
+          "tipDe": "Kommen Sie zum Sonnenuntergang und verbinden Sie den Besuch mit den Lagunen von El Cotillo und einem Abendessen am Hafen.",
+          "descriptionNl": "De opvallende zwart-witte vuurtoren op de noordwestpunt van het eiland, boven turkooizen lagunes en lavariffen bij El Cotillo. Honden aan de lijn zijn welkom op de landtong en het kustpad eromheen, een van de beste zonsondergangswandelingen van het eiland, al niet binnen in het kleine vissersmuseum in de toren.",
+          "dogPolicyNl": "Honden aan de lijn welkom op de landtong en de paden; niet binnen in het museum",
+          "admissionFeeNl": "Gratis buiten; kleine kosten voor het museum",
+          "tipNl": "Kom voor de zonsondergang en combineer het met de lagunes van El Cotillo en een diner bij de haven.",
+          "descriptionIt": "Il suggestivo faro bianco e nero sulla punta nordoccidentale dell'isola, sopra lagune turchesi e scogliere laviche vicino a El Cotillo. I cani al guinzaglio sono benvenuti sul promontorio e sul sentiero costiero intorno ad esso, una delle migliori passeggiate al tramonto dell'isola, anche se non all'interno del piccolo museo della pesca nella torre.",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti sul promontorio e sui sentieri; non all'interno del museo",
+          "admissionFeeIt": "Gratis all'esterno; piccola tariffa per il museo",
+          "tipIt": "Vieni al tramonto e abbinalo alle lagune di El Cotillo e a una cena sul porto."
+        },
+        {
+          "name": "Ajuy Caves & Black Beach",
+          "neighborhood": "West coast",
+          "photo": "",
+          "website": "",
+          "description": "A dramatic black-sand cove on the west coast backed by sea caves carved into ancient lava cliffs, reached by a short marked coastal path. Leashed dogs can walk the path and the clifftop above the caves for one of the island's most striking geological sights, with big Atlantic surf below.",
+          "dogPolicy": "Leashed dogs welcome on the coastal path and clifftop",
+          "admissionFee": "Free",
+          "tip": "Wear proper shoes for the path; keep dogs close near the unfenced cliff edges.",
+          "googleMapsUrl": "https://maps.google.com/?q=Ajuy+Caves+Fuerteventura",
+          "descriptionFr": "Une crique spectaculaire de sable noir sur la côte ouest, adossée à des grottes marines creusées dans d'anciennes falaises de lave, accessible par un court sentier côtier balisé. Les chiens en laisse peuvent parcourir le sentier et le sommet de la falaise au-dessus des grottes pour l'un des sites géologiques les plus saisissants de l'île, avec une forte houle atlantique en contrebas.",
+          "dogPolicyFr": "Chiens en laisse bienvenus sur le sentier côtier et le sommet de la falaise",
+          "admissionFeeFr": "Gratuit",
+          "tipFr": "Portez des chaussures adaptées pour le sentier ; gardez les chiens près de vous près des bords de falaise non clôturés.",
+          "descriptionEs": "Una impresionante cala de arena negra en la costa oeste, respaldada por cuevas marinas talladas en antiguos acantilados de lava, a la que se llega por un corto sendero costero señalizado. Los perros atados pueden recorrer el sendero y lo alto del acantilado sobre las cuevas para uno de los paisajes geológicos más impactantes de la isla, con un gran oleaje atlántico abajo.",
+          "dogPolicyEs": "Perros atados bienvenidos en el sendero costero y lo alto del acantilado",
+          "admissionFeeEs": "Gratis",
+          "tipEs": "Lleva calzado adecuado para el sendero; mantén a los perros cerca junto a los bordes de acantilado sin vallar.",
+          "descriptionPt": "Uma dramática enseada de areia negra na costa oeste, ladeada por grutas marinhas esculpidas em antigas falésias de lava, alcançada por um curto caminho costeiro sinalizado. Os cães à trela podem percorrer o caminho e o topo da falésia sobre as grutas, um dos locais geológicos mais impressionantes da ilha, com grande ondulação atlântica lá em baixo.",
+          "dogPolicyPt": "Cães à trela bem-vindos no caminho costeiro e no topo da falésia",
+          "admissionFeePt": "Gratuito",
+          "tipPt": "Use calçado adequado para o caminho; mantenha os cães perto junto às arribas sem vedação.",
+          "descriptionDe": "Eine dramatische Schwarzsandbucht an der Westküste, im Rücken von Meereshöhlen, die in uralte Lavaklippen geschlagen wurden, erreichbar über einen kurzen markierten Küstenweg. Angeleinte Hunde können den Pfad und die Klippen über den Höhlen erkunden, eines der eindrucksvollsten geologischen Schauspiele der Insel, mit kräftiger Atlantikbrandung darunter.",
+          "dogPolicyDe": "Angeleinte Hunde auf dem Küstenweg und den Klippen willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Tragen Sie geeignetes Schuhwerk für den Pfad; halten Sie Hunde in der Nähe der ungesicherten Klippenkanten dicht bei sich.",
+          "descriptionNl": "Een indrukwekkende zwarte zandbaai aan de westkust, omgeven door zeegrotten uitgesleten in oeroude lavakliffen, bereikbaar via een kort gemarkeerd kustpad. Honden aan de lijn kunnen over het pad en de kliftop boven de grotten lopen, een van de meest opvallende geologische bezienswaardigheden van het eiland, met grote Atlantische golven eronder.",
+          "dogPolicyNl": "Honden aan de lijn welkom op het kustpad en de kliftop",
+          "admissionFeeNl": "Gratis",
+          "tipNl": "Draag goede schoenen voor het pad; houd honden dichtbij vanwege de onbeveiligde klifranden.",
+          "descriptionIt": "Un'insenatura spettacolare di sabbia nera sulla costa occidentale, incorniciata da grotte marine scavate in antiche scogliere laviche, raggiungibile con un breve sentiero costiero segnalato. I cani al guinzaglio possono percorrere il sentiero e la sommità della scogliera sopra le grotte per ammirare uno dei paesaggi geologici più suggestivi dell'isola, con la grande risacca atlantica sottostante.",
+          "dogPolicyIt": "Cani al guinzaglio benvenuti sul sentiero costiero e sulla sommità della scogliera",
+          "admissionFeeIt": "Gratis",
+          "tipIt": "Indossa scarpe adatte per il sentiero; tieni i cani vicini presso i bordi non recintati della scogliera."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "What can I do in Fuerteventura with a dog?",
+          "a": "Plenty outdoors: walk the Corralejo dunes and the El Cotillo lagoons, visit historic Betancuria, see the Ajuy sea caves and the Faro del Tostón lighthouse, and explore the wild southern beaches like Cofete. Almost the whole trip can be done on the lead; just plan around the authorised dog beaches and the heat."
+        },
+        {
+          "q": "Can I take my dog to Isla de Lobos?",
+          "a": "No. Isla de Lobos is a protected nature reserve with capped, permit-only access, and dogs are not permitted in order to protect its fragile habitat. Enjoy the view of it from Corralejo instead, and keep the islet off your dog itinerary."
+        }
+      ],
+      "titleFr": "Attractions et activités acceptant les chiens à Fuerteventura",
+      "introFr": "Les attractions de Fuerteventura sont massivement en plein air, ce qui convient bien à un chien : les dunes, les plages sauvages, les phares et les villages historiques sont tous en extérieur et faciles à profiter en laisse. Quelques sites protégés, surtout l'Isla de Lobos, n'acceptent pas les chiens, mais il reste largement assez de côte sauvage et d'intérieur pour remplir un séjour. Gardez votre chien en laisse, emportez de l'eau partout, et prévoyez vos visites aux heures les plus fraîches.",
+      "faqsFr": [
+        {
+          "q": "Que puis-je faire à Fuerteventura avec un chien ?",
+          "a": "Beaucoup de choses en plein air : parcourez les dunes de Corralejo et les lagons d'El Cotillo, visitez la historique Betancuria, découvrez les grottes marines d'Ajuy et le phare du Faro del Tostón, et explorez les plages sauvages du sud comme Cofete. Presque tout le séjour peut se faire en laisse ; organisez-vous simplement autour des plages canines autorisées et de la chaleur."
+        },
+        {
+          "q": "Puis-je emmener mon chien sur l'Isla de Lobos ?",
+          "a": "Non. L'Isla de Lobos est une réserve naturelle protégée à accès limité et sur permis, et les chiens n'y sont pas autorisés afin de protéger son habitat fragile. Profitez plutôt de la vue depuis Corralejo, et laissez l'îlot en dehors de l'itinéraire de votre chien."
+        }
+      ],
+      "titleEs": "Atracciones y Planes para Hacer con Perro en Fuerteventura",
+      "introEs": "Las atracciones de Fuerteventura son abrumadoramente al aire libre, lo cual le sienta bien a un perro: las dunas, las playas salvajes, los faros y los pueblos históricos son todos espacios abiertos y fáciles de disfrutar con correa. Unos pocos lugares protegidos, sobre todo la Isla de Lobos, no admiten perros, pero hay más que suficiente costa salvaje e interior para llenar un viaje. Mantén a tu perro atado, lleva agua a todas partes, y programa las visitas para las horas más frescas.",
+      "faqsEs": [
+        {
+          "q": "¿Qué puedo hacer en Fuerteventura con un perro?",
+          "a": "Muchas cosas al aire libre: recorrer las dunas de Corralejo y las lagunas de El Cotillo, visitar la histórica Betancuria, ver las cuevas marinas de Ajuy y el faro del Tostón, y explorar las playas salvajes del sur como Cofete. Casi todo el viaje puede hacerse con correa; solo hay que planificar en torno a las playas caninas autorizadas y el calor."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a la Isla de Lobos?",
+          "a": "No. La Isla de Lobos es una reserva natural protegida con acceso limitado solo mediante permiso, y no se permiten perros para proteger su frágil hábitat. Disfruta de las vistas desde Corralejo en su lugar, y deja el islote fuera del itinerario con tu perro."
+        }
+      ],
+      "titlePt": "Atrações e Atividades Pet-Friendly em Fuerteventura",
+      "introPt": "As atrações de Fuerteventura são maioritariamente ao ar livre, o que combina bem com um cão: as dunas, as praias selvagens, os faróis e as aldeias históricas são todos ao ar livre e fáceis de desfrutar à trela. Alguns locais protegidos, sobretudo a Isla de Lobos, não permitem cães, mas há mais do que suficiente costa selvagem e interior para preencher uma viagem. Mantenha o seu cão à trela, leve água para todo o lado, e programe as visitas para as horas mais frescas.",
+      "faqsPt": [
+        {
+          "q": "O que posso fazer em Fuerteventura com um cão?",
+          "a": "Muito ao ar livre: caminhar nas dunas de Corralejo e nas lagoas de El Cotillo, visitar a histórica Betancuria, ver as grutas marinhas de Ajuy e o farol Faro del Tostón, e explorar as praias selvagens do sul como Cofete. Quase toda a viagem pode ser feita à trela; basta planear em torno das praias autorizadas para cães e do calor."
+        },
+        {
+          "q": "Posso levar o meu cão à Isla de Lobos?",
+          "a": "Não. A Isla de Lobos é uma reserva natural protegida com acesso limitado apenas por autorização, e os cães não são permitidos para proteger o seu habitat frágil. Aprecie antes a vista a partir de Corralejo, e mantenha o ilhéu fora do itinerário do seu cão."
+        }
+      ],
+      "titleDe": "Hundefreundliche Attraktionen & Aktivitäten auf Fuerteventura",
+      "introDe": "Die Attraktionen Fuerteventuras spielen sich überwiegend im Freien ab, was einem Hund entgegenkommt: die Dünen, die Wildstrände, die Leuchttürme und die historischen Dörfer sind alle im Freien und lassen sich gut an der Leine erkunden. Ein paar geschützte Orte, allen voran die Isla de Lobos, lassen keine Hunde zu, doch es bleibt mehr als genug wilde Küste und Landesinneres für eine ganze Reise. Halten Sie Ihren Hund angeleint, führen Sie überall Wasser mit sich und legen Sie Besuche in die kühleren Stunden.",
+      "faqsDe": [
+        {
+          "q": "Was kann ich auf Fuerteventura mit Hund unternehmen?",
+          "a": "Jede Menge im Freien: Spazieren Sie durch die Dünen von Corralejo und die Lagunen von El Cotillo, besuchen Sie das historische Betancuria, sehen Sie sich die Meereshöhlen von Ajuy und den Leuchtturm Faro del Tostón an und erkunden Sie die wilden Südstrände wie Cofete. Fast die gesamte Reise lässt sich an der Leine erleben; planen Sie nur um die zugelassenen Hundestrände und die Hitze herum."
+        },
+        {
+          "q": "Darf ich meinen Hund mit auf die Isla de Lobos nehmen?",
+          "a": "Nein. Die Isla de Lobos ist ein geschütztes Naturschutzgebiet mit begrenztem, genehmigungspflichtigem Zugang, und Hunde sind nicht zugelassen, um das empfindliche Ökosystem zu schützen. Genießen Sie den Ausblick stattdessen von Corralejo aus und lassen Sie das Eiland aus Ihrer Reiseroute mit Hund heraus."
+        }
+      ],
+      "titleNl": "Hondvriendelijke bezienswaardigheden en activiteiten in Fuerteventura",
+      "introNl": "De bezienswaardigheden van Fuerteventura zijn overwegend buiten, wat goed uitkomt voor een hond: de duinen, de wilde stranden, de vuurtorens en de historische dorpen zijn allemaal in de open lucht en makkelijk te bezoeken aan de lijn. Een paar beschermde plekken, bovenal Isla de Lobos, staan geen honden toe, maar er is meer dan genoeg wilde kust en binnenland om een reis mee te vullen. Houd je hond aan de lijn, neem overal water mee, en plan bezoeken op de koelere uren.",
+      "faqsNl": [
+        {
+          "q": "Wat kan ik doen in Fuerteventura met een hond?",
+          "a": "Genoeg buitenactiviteiten: wandel door de duinen van Corralejo en langs de lagunes van El Cotillo, bezoek het historische Betancuria, bekijk de zeegrotten van Ajuy en de vuurtoren Faro del Tostón, en verken de wilde zuidelijke stranden zoals Cofete. Bijna de hele reis kan aan de lijn, plan alleen rond de toegestane hondenstranden en de hitte."
+        },
+        {
+          "q": "Mag ik mijn hond meenemen naar Isla de Lobos?",
+          "a": "Nee. Isla de Lobos is een beschermd natuurreservaat met beperkte toegang op basis van vergunning, en honden zijn niet toegestaan om het kwetsbare habitat te beschermen. Geniet in plaats daarvan van het uitzicht vanaf Corralejo, en laat het eilandje buiten je route met je hond."
+        }
+      ],
+      "titleIt": "Attrazioni e Cose da Fare Pet-Friendly a Fuerteventura",
+      "introIt": "Le attrazioni di Fuerteventura sono in gran parte all'aperto, il che si adatta bene a un cane: le dune, le spiagge selvagge, i fari e i villaggi storici sono tutti spazi aperti e facili da godere al guinzaglio. Alcuni luoghi protetti, soprattutto l'Isla de Lobos, non ammettono cani, ma c'è più che abbastanza costa selvaggia ed entroterra per riempire un viaggio. Tieni il tuo cane al guinzaglio, porta acqua ovunque e pianifica le visite nelle ore più fresche.",
+      "faqsIt": [
+        {
+          "q": "Cosa posso fare a Fuerteventura con un cane?",
+          "a": "Molto all'aperto: cammina sulle dune di Corralejo e sulle lagune di El Cotillo, visita la storica Betancuria, ammira le grotte marine di Ajuy e il faro del Faro del Tostón, ed esplora le spiagge selvagge del sud come Cofete. Quasi tutto il viaggio si può fare al guinzaglio; basta pianificare intorno alle spiagge per cani autorizzate e al caldo."
+        },
+        {
+          "q": "Posso portare il mio cane all'Isla de Lobos?",
+          "a": "No. L'Isla de Lobos è una riserva naturale protetta con accesso limitato e solo su permesso, e i cani non sono ammessi per proteggere il suo habitat fragile. Goditi invece la vista dell'isolotto da Corralejo, e tienilo fuori dall'itinerario del tuo cane."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitting, Walking & Boarding in Fuerteventura",
+      "introEn": "If you want to visit Isla de Lobos, take a boat trip or eat somewhere that is not dog-friendly, you can arrange local care through Spain's pet-sitting platforms and island dog services. Options are more limited than on the mainland, so book ahead, especially in the busy winter-sun season. Leave your dog's food, EU passport details and your vet's number, and confirm the sitter is comfortable with the island's heat and your dog's routine.",
+      "places": [
+        {
+          "name": "Gudog (Fuerteventura)",
+          "website": "https://www.gudog.com/",
+          "description": "A Spanish dog-boarding and day-care platform connecting owners with vetted local sitters and hosts, including on Fuerteventura. A practical way to arrange cover for the hours when you want to do something that is not dog-friendly, with profiles and reviews from other owners.",
+          "serviceType": "Dog boarding, day care and walking via a national platform",
+          "pricePerDay": "From around 15-25€ per day, varies by host",
+          "languages": [
+            "Spanish",
+            "English"
+          ],
+          "tip": "Book early for the winter-sun peak and arrange a short meet-and-greet before committing.",
+          "descriptionFr": "Une plateforme espagnole de pension et de garde de jour pour chiens mettant en relation propriétaires et pet-sitters ou familles d'accueil locaux vérifiés, y compris à Fuerteventura. Un moyen pratique d'organiser une garde pour les heures où vous voulez faire quelque chose qui n'accepte pas les chiens, avec profils et avis d'autres propriétaires.",
+          "serviceTypeFr": "Pension, garde de jour et promenade via une plateforme nationale",
+          "tipFr": "Réservez tôt pour le pic de soleil hivernal et organisez une courte rencontre avant de vous engager.",
+          "descriptionEs": "Una plataforma española de alojamiento y guardería para perros que conecta a los dueños con cuidadores y anfitriones locales verificados, también en Fuerteventura. Una manera práctica de organizar cobertura para las horas en que quieres hacer algo que no admite perros, con perfiles y reseñas de otros dueños.",
+          "serviceTypeEs": "Alojamiento, guardería diurna y paseo de perros a través de una plataforma nacional",
+          "tipEs": "Reserva pronto para el pico de sol de invierno y organiza un breve encuentro previo antes de comprometerte.",
+          "descriptionPt": "Uma plataforma espanhola de alojamento e creche para cães que liga donos a cuidadores e anfitriões locais verificados, incluindo em Fuerteventura. Uma forma prática de organizar cobertura para as horas em que quer fazer algo que não seja pet-friendly, com perfis e avaliações de outros donos.",
+          "serviceTypePt": "Alojamento, creche e passeios de cães através de uma plataforma nacional",
+          "tipPt": "Reserve cedo para o pico do sol de inverno e organize um breve encontro prévio antes de se comprometer.",
+          "descriptionDe": "Eine spanische Plattform für Hundebetreuung und Tagesbetreuung, die Besitzer mit geprüften lokalen Betreuern und Gastgebern verbindet, auch auf Fuerteventura. Eine praktische Möglichkeit, Betreuung für die Stunden zu organisieren, in denen Sie etwas unternehmen möchten, das nicht hundefreundlich ist, mit Profilen und Bewertungen anderer Halter.",
+          "serviceTypeDe": "Hundebetreuung, Tagesbetreuung und Gassiservice über eine landesweite Plattform",
+          "tipDe": "Buchen Sie frühzeitig für die Winterurlaubs-Hochsaison und vereinbaren Sie vorab ein kurzes Kennenlerntreffen.",
+          "descriptionNl": "Een Spaans platform voor hondenpension en dagopvang dat eigenaren koppelt aan gescreende lokale oppassers en gastgezinnen, ook op Fuerteventura. Een praktische manier om opvang te regelen voor de uren waarin je iets wilt doen dat niet hondvriendelijk is, met profielen en beoordelingen van andere eigenaren.",
+          "serviceTypeNl": "Hondenpension, dagopvang en uitlaatservice via een landelijk platform",
+          "tipNl": "Boek vroeg voor het hoogseizoen van de winterzon en regel een korte kennismaking voordat je iets vastlegt.",
+          "descriptionIt": "Una piattaforma spagnola di pensione e asilo diurno per cani che mette in contatto i proprietari con sitter e ospiti locali verificati, anche a Fuerteventura. Un modo pratico per organizzare la copertura per le ore in cui vuoi fare qualcosa che non è pet-friendly, con profili e recensioni di altri proprietari.",
+          "serviceTypeIt": "Pensione, asilo diurno e passeggiate per cani tramite una piattaforma nazionale",
+          "tipIt": "Prenota in anticipo per il picco del sole invernale e organizza un breve incontro conoscitivo prima di impegnarti."
+        },
+        {
+          "name": "Holidog (Fuerteventura)",
+          "website": "https://www.holidog.com/",
+          "description": "A large European pet-care network offering boarding, day care and walking, which also covers the Canary Islands. Useful for flexible cover on the island, with vetted sitters and the option of a few hours or a full day while you explore somewhere dogs cannot go.",
+          "serviceType": "Dog boarding, day care and walking via a European network",
+          "pricePerDay": "From around 15-25€ per day, varies by host",
+          "languages": [
+            "Spanish",
+            "English",
+            "German"
+          ],
+          "tip": "Confirm the sitter's exact location, as island distances are long and a nearby sitter saves a lot of driving.",
+          "descriptionFr": "Un grand réseau européen de soins pour animaux proposant pension, garde de jour et promenade, qui couvre aussi les îles Canaries. Utile pour une garde flexible sur l'île, avec des pet-sitters vérifiés et la possibilité de quelques heures ou d'une journée complète pendant que vous explorez un endroit interdit aux chiens.",
+          "serviceTypeFr": "Pension, garde de jour et promenade via un réseau européen",
+          "tipFr": "Confirmez la localisation exacte du pet-sitter, les distances sur l'île étant longues et un pet-sitter proche évitant beaucoup de route.",
+          "descriptionEs": "Una gran red europea de cuidado de mascotas que ofrece alojamiento, guardería diurna y paseo, y que también cubre las Islas Canarias. Útil para una cobertura flexible en la isla, con cuidadores verificados y la opción de unas horas o un día completo mientras exploras algún lugar al que no pueden ir los perros.",
+          "serviceTypeEs": "Alojamiento, guardería diurna y paseo de perros a través de una red europea",
+          "tipEs": "Confirma la ubicación exacta del cuidador, ya que las distancias en la isla son largas y un cuidador cercano ahorra mucho tiempo de coche.",
+          "descriptionPt": "Uma grande rede europeia de cuidados para animais que oferece alojamento, creche e passeios, e que também abrange as Ilhas Canárias. Útil para cobertura flexível na ilha, com cuidadores verificados e a opção de algumas horas ou um dia completo enquanto explora um local onde os cães não podem ir.",
+          "serviceTypePt": "Alojamento, creche e passeios de cães através de uma rede europeia",
+          "tipPt": "Confirme a localização exata do cuidador, já que as distâncias na ilha são longas e um cuidador próximo poupa muita condução.",
+          "descriptionDe": "Ein großes europäisches Netzwerk für Haustierbetreuung mit Unterbringung, Tagesbetreuung und Gassiservice, das auch die Kanarischen Inseln abdeckt. Nützlich für flexible Betreuung auf der Insel, mit geprüften Betreuern und der Möglichkeit weniger Stunden oder eines ganzen Tages, während Sie Orte erkunden, an die Hunde nicht dürfen.",
+          "serviceTypeDe": "Hundebetreuung, Tagesbetreuung und Gassiservice über ein europäisches Netzwerk",
+          "tipDe": "Bestätigen Sie den genauen Standort des Betreuers, da die Distanzen auf der Insel lang sind und ein Betreuer in der Nähe viel Fahrzeit spart.",
+          "descriptionNl": "Een groot Europees netwerk voor huisdierenzorg met pension, dagopvang en uitlaatservice, dat ook de Canarische Eilanden bestrijkt. Handig voor flexibele opvang op het eiland, met gescreende oppassers en de optie van een paar uur of een hele dag terwijl jij ergens naartoe gaat waar honden niet mogen komen.",
+          "serviceTypeNl": "Hondenpension, dagopvang en uitlaatservice via een Europees netwerk",
+          "tipNl": "Bevestig de exacte locatie van de oppas, want de afstanden op het eiland zijn groot en een oppas dichtbij scheelt veel rijden.",
+          "descriptionIt": "Un grande network europeo di cura per animali che offre pensione, asilo diurno e passeggiate, che copre anche le isole Canarie. Utile per una copertura flessibile sull'isola, con sitter verificati e la possibilità di poche ore o una giornata intera mentre esplori luoghi dove i cani non possono andare.",
+          "serviceTypeIt": "Pensione, asilo diurno e passeggiate per cani tramite un network europeo",
+          "tipIt": "Conferma la posizione esatta del sitter, poiché le distanze sull'isola sono lunghe e un sitter vicino ti fa risparmiare molta guida."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I find a dog sitter in Fuerteventura?",
+          "a": "Yes, though options are more limited than on the mainland. Spanish and European platforms such as Gudog and Holidog list vetted local sitters, walkers and hosts on the island, and some resorts have dog day-care. Book ahead in the busy winter-sun season, when good sitters fill up."
+        },
+        {
+          "q": "How much does dog sitting cost in Fuerteventura?",
+          "a": "Expect roughly 15-25€ a day for boarding or day care through the platforms, with walks costing less and prices varying by sitter and season. Book early for peak winter and summer, and confirm exactly what is included before you commit."
+        }
+      ],
+      "titleFr": "Garde, promenade et pension pour chiens à Fuerteventura",
+      "introFr": "Si vous voulez visiter l'Isla de Lobos, faire une sortie en bateau ou manger quelque part qui n'accepte pas les chiens, vous pouvez organiser une garde locale via les plateformes espagnoles de pet-sitting et les services canins de l'île. Les options sont plus limitées que sur le continent, réservez donc à l'avance, surtout en pleine saison de soleil hivernal. Laissez la nourriture de votre chien, les coordonnées de son passeport européen et le numéro de votre vétérinaire, et assurez-vous que le pet-sitter est à l'aise avec la chaleur de l'île et la routine de votre chien.",
+      "faqsFr": [
+        {
+          "q": "Puis-je trouver un pet-sitter à Fuerteventura ?",
+          "a": "Oui, bien que les options soient plus limitées que sur le continent. Des plateformes espagnoles et européennes comme Gudog et Holidog répertorient des pet-sitters, promeneurs et familles d'accueil locaux vérifiés sur l'île, et certaines stations proposent une garde de jour pour chiens. Réservez à l'avance en pleine saison de soleil hivernal, quand les bons pet-sitters se remplissent vite."
+        },
+        {
+          "q": "Combien coûte la garde d'un chien à Fuerteventura ?",
+          "a": "Comptez environ 15 à 25 € par jour pour la pension ou la garde de jour via les plateformes, les promenades coûtant moins cher, avec des tarifs variables selon le pet-sitter et la saison. Réservez tôt pour les pics d'hiver et d'été, et confirmez précisément ce qui est inclus avant de vous engager."
+        }
+      ],
+      "titleEs": "Cuidado, Paseo y Alojamiento de Perros en Fuerteventura",
+      "introEs": "Si quieres visitar la Isla de Lobos, hacer una excursión en barco o comer en algún sitio que no admita perros, puedes contratar cuidado local a través de las plataformas españolas de cuidado de mascotas y los servicios caninos de la isla. Las opciones son más limitadas que en la península, así que reserva con antelación, sobre todo en la concurrida temporada de sol de invierno. Deja la comida de tu perro, los datos de su pasaporte europeo y el número de tu veterinario, y confirma que el cuidador está cómodo con el calor de la isla y la rutina de tu perro.",
+      "faqsEs": [
+        {
+          "q": "¿Puedo encontrar un cuidador de perros en Fuerteventura?",
+          "a": "Sí, aunque las opciones son más limitadas que en la península. Plataformas españolas y europeas como Gudog y Holidog listan cuidadores, paseadores y anfitriones locales verificados en la isla, y algunos resorts tienen guardería canina diurna. Reserva con antelación en la concurrida temporada de sol de invierno, cuando los buenos cuidadores se llenan rápido."
+        },
+        {
+          "q": "¿Cuánto cuesta el cuidado de perros en Fuerteventura?",
+          "a": "Cuenta con unos 15-25€ al día por alojamiento o guardería diurna a través de las plataformas, con paseos que cuestan menos y precios que varían según el cuidador y la temporada. Reserva pronto para el pico de invierno y verano, y confirma exactamente qué incluye antes de comprometerte."
+        }
+      ],
+      "titlePt": "Dog Sitting, Passeios e Alojamento para Cães em Fuerteventura",
+      "introPt": "Se quiser visitar a Isla de Lobos, fazer um passeio de barco ou comer num local que não seja pet-friendly, pode organizar cuidados locais através das plataformas de pet-sitting de Espanha e dos serviços caninos da ilha. As opções são mais limitadas do que no continente, por isso reserve com antecedência, sobretudo na época alta de sol de inverno. Deixe a comida do seu cão, os dados do passaporte europeu e o número do seu veterinário, e confirme que o cuidador está à vontade com o calor da ilha e a rotina do seu cão.",
+      "faqsPt": [
+        {
+          "q": "Consigo encontrar um dog sitter em Fuerteventura?",
+          "a": "Sim, embora as opções sejam mais limitadas do que no continente. Plataformas espanholas e europeias como a Gudog e a Holidog listam cuidadores, passeadores e anfitriões locais verificados na ilha, e alguns resorts têm creche para cães. Reserve com antecedência na época alta de sol de inverno, quando os bons cuidadores esgotam."
+        },
+        {
+          "q": "Quanto custa o dog sitting em Fuerteventura?",
+          "a": "Conte com cerca de 15 a 25€ por dia para alojamento ou creche através das plataformas, com os passeios a custarem menos e os preços a variar consoante o cuidador e a época. Reserve cedo para o pico do inverno e do verão, e confirme exatamente o que está incluído antes de se comprometer."
+        }
+      ],
+      "titleDe": "Hundebetreuung, Gassiservice & Unterbringung auf Fuerteventura",
+      "introDe": "Wenn Sie die Isla de Lobos besuchen, einen Bootsausflug machen oder irgendwo essen möchten, das nicht hundefreundlich ist, können Sie über die spanischen Haustierbetreuungs-Plattformen und Inseldienste lokale Betreuung organisieren. Das Angebot ist begrenzter als auf dem Festland, buchen Sie also vorab, besonders in der geschäftigen Winterurlaubssaison. Hinterlassen Sie Futter, die Angaben aus dem EU-Heimtierausweis Ihres Hundes und die Nummer Ihres Tierarztes, und vergewissern Sie sich, dass der Betreuer mit der Hitze der Insel und der Routine Ihres Hundes zurechtkommt.",
+      "faqsDe": [
+        {
+          "q": "Finde ich einen Hundesitter auf Fuerteventura?",
+          "a": "Ja, wenngleich das Angebot begrenzter ist als auf dem Festland. Spanische und europäische Plattformen wie Gudog und Holidog listen geprüfte lokale Betreuer, Gassigeher und Gastgeber auf der Insel, und einige Ferienanlagen bieten Hundetagesbetreuung an. Buchen Sie vorab in der geschäftigen Winterurlaubssaison, wenn gute Betreuer schnell ausgebucht sind."
+        },
+        {
+          "q": "Wie viel kostet Hundebetreuung auf Fuerteventura?",
+          "a": "Rechnen Sie mit etwa 15-25€ pro Tag für Unterbringung oder Tagesbetreuung über die Plattformen, Spaziergänge kosten weniger, und die Preise variieren je nach Betreuer und Saison. Buchen Sie frühzeitig für die Hochsaison im Winter und Sommer und bestätigen Sie vorab genau, was im Preis enthalten ist."
+        }
+      ],
+      "titleNl": "Hondenoppas, uitlaatservice en pension in Fuerteventura",
+      "introNl": "Wil je Isla de Lobos bezoeken, een boottocht maken of eten op een plek die niet hondvriendelijk is, dan kun je lokale zorg regelen via de huisdierenoppasplatforms van Spanje en hondenservices op het eiland. De opties zijn beperkter dan op het vasteland, dus boek van tevoren, zeker in het drukke winterzonseizoen. Laat het eten van je hond, de gegevens van het Europese dierenpaspoort en het nummer van je dierenarts achter, en controleer of de oppas vertrouwd is met de hitte van het eiland en de routine van je hond.",
+      "faqsNl": [
+        {
+          "q": "Kan ik een hondenoppas vinden in Fuerteventura?",
+          "a": "Ja, al zijn de opties beperkter dan op het vasteland. Spaanse en Europese platforms zoals Gudog en Holidog bieden gescreende lokale oppassers, uitlaters en gastgezinnen op het eiland, en sommige resorts hebben hondendagopvang. Boek van tevoren in het drukke winterzonseizoen, wanneer goede oppassers snel volgeboekt zijn."
+        },
+        {
+          "q": "Hoeveel kost een hondenoppas in Fuerteventura?",
+          "a": "Reken op ongeveer 15-25 euro per dag voor pension of dagopvang via de platforms, met lagere kosten voor wandelingen en prijzen die variëren per oppas en seizoen. Boek vroeg voor het hoogseizoen in de winter en zomer, en bevestig precies wat inbegrepen is voordat je iets vastlegt."
+        }
+      ],
+      "titleIt": "Dog Sitting, Passeggiate e Pensione per Cani a Fuerteventura",
+      "introIt": "Se vuoi visitare l'Isla de Lobos, fare una gita in barca o mangiare in un posto che non è pet-friendly, puoi organizzare un servizio di cura locale attraverso le piattaforme spagnole di pet-sitting e i servizi per cani dell'isola. Le opzioni sono più limitate rispetto alla terraferma, quindi prenota in anticipo, specialmente nella stagione di punta del sole invernale. Lascia il cibo del tuo cane, i dettagli del passaporto UE e il numero del tuo veterinario, e conferma che il sitter sia a suo agio con il caldo dell'isola e la routine del tuo cane.",
+      "faqsIt": [
+        {
+          "q": "Posso trovare un dog sitter a Fuerteventura?",
+          "a": "Sì, anche se le opzioni sono più limitate rispetto alla terraferma. Piattaforme spagnole ed europee come Gudog e Holidog elencano sitter, dog walker e ospiti locali verificati sull'isola, e alcune strutture turistiche offrono asili diurni per cani. Prenota in anticipo nella stagione di punta del sole invernale, quando i bravi sitter si riempiono in fretta."
+        },
+        {
+          "q": "Quanto costa il dog sitting a Fuerteventura?",
+          "a": "Aspettati circa 15-25€ al giorno per la pensione o l'asilo diurno tramite le piattaforme, con passeggiate a costo minore e prezzi variabili in base al sitter e alla stagione. Prenota in anticipo per il picco invernale ed estivo, e conferma esattamente cosa è incluso prima di impegnarti."
+        }
+      ]
+    }
+  }
+}

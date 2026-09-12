@@ -10387,6 +10387,81 @@
     "iata": "AGP"
   },
   {
+    "slug": "fuerteventura",
+    "name": "Fuerteventura",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/fuerteventura.jpg",
+    "intro": "Fuerteventura is the great sun-and-sand island of the Canaries: over 150 kilometres of white and golden beaches, turquoise lagoons, volcanic badlands and the vast shifting dunes of Corralejo, all under a warm, windy, near-endless-summer climate that barely dips below 20°C even in January. It is a mainstream winter-sun favourite for German, British and Spanish travellers, and increasingly for those bringing a dog, but the honest catch is that most of that famous coastline is off-limits to dogs: the island authorises only a handful of official dog beaches, mostly around the capital Puerto del Rosario, while the big resort strands at Corralejo, Costa Calma and Sotavento are not dog zones. Plan around the authorised beaches (El Charco, Los Pozos, El Matorral, Puerto Lajas and a few wild spots like Cofete and Jarugo), keep a car for the long distances, and Fuerteventura rewards a dog with warm sea, huge open space and year-round walking weather.",
+    "lat": 28.5004,
+    "lng": -13.8627,
+    "weather": {
+      "jan": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 21,
+        "desc": "Warm & bright",
+        "icon": "☀️"
+      },
+      "mar": {
+        "temp": 22,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 23,
+        "desc": "Warm & windy",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Hot & breezy",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot & windy",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Hottest month",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 28,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 27,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 24,
+        "desc": "Warm winter sun",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 22,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      }
+    },
+    "iata": "FUE"
+  },
+  {
     "slug": "funchal",
     "name": "Funchal",
     "country": "Portugal",

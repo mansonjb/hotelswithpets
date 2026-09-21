@@ -50,6 +50,13 @@ const SITE_CONFIG = {
     borderColor: 'border-indigo-200',
     dotColor: 'bg-indigo-500',
   },
+  StaysInSwitzerland: {
+    label: 'Stays in Switzerland',
+    badgeBg: 'bg-emerald-100',
+    badgeText: 'text-emerald-700',
+    borderColor: 'border-emerald-200',
+    dotColor: 'bg-emerald-500',
+  },
 } as const
 
 const SECTION_TITLE: Record<string, string> = {

@@ -1,5 +1,5 @@
 export type CrossSiteLink = {
-  site: 'RaceWeekStays' | 'ScreenToTrip' | 'BestSnowHotels' | 'MyHoneymoonHotel' | 'ExploreIleDeRe' | 'PerfectCityBreak'
+  site: 'RaceWeekStays' | 'ScreenToTrip' | 'BestSnowHotels' | 'MyHoneymoonHotel' | 'ExploreIleDeRe' | 'PerfectCityBreak' | 'StaysInSwitzerland'
   url: string
   anchor: { en: string; fr: string; es: string }
   description: { en: string; fr: string; es: string }
@@ -1871,6 +1871,48 @@ for (const [slug, name] of Object.entries(PERFECT_CITY_BREAK_CITIES)) {
       en: `Planning more than the hotel? Perfect City Break has the ${name.en} itinerary: top sights, walking routes and where to eat.`,
       fr: `Vous planifiez plus que l'hotel ? Perfect City Break propose l'itineraire a ${name.fr} : sites incontournables, balades et bonnes adresses.`,
       es: `¿Planeas mas que el hotel? Perfect City Break tiene el itinerario de ${name.es}: imprescindibles, rutas a pie y donde comer.`,
+    },
+  }
+  ;(CROSS_SITE_LINKS[slug] ??= []).push(entry)
+}
+
+/**
+ * Stays in Switzerland (staysinswitzerland.com): sister site, an independent "where to stay in
+ * Switzerland" guide (village-by-village, Swiss Travel Pass, real hotel picks). Complementary
+ * intent: HotelsWithPets covers where to sleep with a pet, Stays in Switzerland covers which town
+ * to base yourself in. Only the Swiss cities below exist on both sites with the SAME slug, so every
+ * link resolves (no 404). URL is EN-root single-url schema (/{slug}). Names localized, accent-free
+ * to match this file's convention. Appended so cities keep any existing sister card and gain this.
+ */
+const STAYS_IN_SWITZERLAND_CITIES: Record<string, { en: string; fr: string; es: string }> = {
+  basel: { en: 'Basel', fr: 'Bale', es: 'Basilea' },
+  bern: { en: 'Bern', fr: 'Berne', es: 'Berna' },
+  geneva: { en: 'Geneva', fr: 'Geneve', es: 'Ginebra' },
+  grindelwald: { en: 'Grindelwald', fr: 'Grindelwald', es: 'Grindelwald' },
+  interlaken: { en: 'Interlaken', fr: 'Interlaken', es: 'Interlaken' },
+  lausanne: { en: 'Lausanne', fr: 'Lausanne', es: 'Lausana' },
+  locarno: { en: 'Locarno', fr: 'Locarno', es: 'Locarno' },
+  lucerne: { en: 'Lucerne', fr: 'Lucerne', es: 'Lucerna' },
+  lugano: { en: 'Lugano', fr: 'Lugano', es: 'Lugano' },
+  montreux: { en: 'Montreux', fr: 'Montreux', es: 'Montreux' },
+  'st-moritz': { en: 'St. Moritz', fr: 'Saint-Moritz', es: 'St. Moritz' },
+  zermatt: { en: 'Zermatt', fr: 'Zermatt', es: 'Zermatt' },
+  zurich: { en: 'Zurich', fr: 'Zurich', es: 'Zurich' },
+}
+
+for (const [slug, name] of Object.entries(STAYS_IN_SWITZERLAND_CITIES)) {
+  const entry: CrossSiteLink = {
+    site: 'StaysInSwitzerland',
+    url: `https://www.staysinswitzerland.com/${slug}`,
+    anchor: {
+      en: `Where to stay in ${name.en}`,
+      fr: `Ou loger a ${name.fr}`,
+      es: `Donde alojarse en ${name.es}`,
+    },
+    description: {
+      en: `Planning a Swiss trip? Stays in Switzerland has the ${name.en} guide: best neighbourhoods, how to get there and where to base yourself.`,
+      fr: `Vous preparez un voyage en Suisse ? Stays in Switzerland propose le guide de ${name.fr} : meilleurs quartiers, acces et ou poser ses valises.`,
+      es: `¿Preparas un viaje a Suiza? Stays in Switzerland tiene la guia de ${name.es}: mejores zonas, como llegar y donde alojarse.`,
     },
   }
   ;(CROSS_SITE_LINKS[slug] ??= []).push(entry)

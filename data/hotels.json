@@ -66282,5 +66282,129 @@
       "Dogs welcome",
       "Walkable Corralejo base near shops and the port"
     ]
+  },
+  {
+    "id": "asheville-1",
+    "slug": "kimpton-hotel-arras-asheville",
+    "name": "Kimpton Hotel Arras",
+    "destinationSlug": "asheville",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 900,
+    "priceFrom": 189,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Kimpton%20Hotel%20Arras%20Asheville",
+    "petFee": 0,
+    "petPolicy": "Kimpton's signature pet policy applies: dogs and cats stay free with no pet fee, no deposit and no size, weight or number limit. The downtown location lends bowls and beds, and a local pet shop stocks the welcome amenities. Please confirm details with the property when booking.",
+    "address": "7 Patton Avenue, Asheville, NC 28801",
+    "neighborhood": "Downtown, on Pack Square",
+    "highlights": [
+      "No pet fee, no size or weight limit (dogs and cats)",
+      "Downtown, walkable to dog-friendly patios and breweries",
+      "Complimentary bowls, beds and treats"
+    ]
+  },
+  {
+    "id": "asheville-2",
+    "slug": "aloft-asheville-downtown",
+    "name": "Aloft Asheville Downtown",
+    "destinationSlug": "asheville",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 1200,
+    "priceFrom": 139,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Aloft%20Asheville%20Downtown",
+    "petFee": 0,
+    "petPolicy": "Two pets of any size stay free under Aloft's ARF programme, which includes a complimentary bed, bowl and treat bag. There is a rooftop dog-walk area on site, and the central Biltmore Avenue address is walkable to South Slope breweries. Please confirm details with the property when booking.",
+    "address": "51 Biltmore Avenue, Asheville, NC 28801",
+    "neighborhood": "Downtown, near South Slope",
+    "highlights": [
+      "Two pets of any size, no pet fee",
+      "Rooftop dog-walk area on site",
+      "Walkable to South Slope breweries and patios"
+    ]
+  },
+  {
+    "id": "asheville-3",
+    "slug": "hampton-inn-suites-asheville-biltmore-village",
+    "name": "Hampton Inn & Suites Asheville Biltmore Village",
+    "destinationSlug": "asheville",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.9,
+    "reviewCount": 700,
+    "priceFrom": 149,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hampton%20Inn%20Suites%20Asheville%20Biltmore%20Village",
+    "petFee": 75,
+    "petPolicy": "Up to two dogs of up to about 34 kg (75 lb) each are welcome for a pet fee of around 75 USD per stay. The Biltmore Village setting puts you within a short drive of the Biltmore Estate and walking distance of the village's outdoor-seating restaurants. Please confirm the current fee and terms with the property when booking.",
+    "address": "117 Hendersonville Road, Asheville, NC 28803",
+    "neighborhood": "Biltmore Village",
+    "highlights": [
+      "Two dogs up to ~34 kg, ~75 USD per stay",
+      "Short drive to the Biltmore Estate grounds",
+      "Walkable to Biltmore Village patios"
+    ]
+  },
+  {
+    "id": "asheville-4",
+    "slug": "home2-suites-asheville-biltmore-village",
+    "name": "Home2 Suites by Hilton Asheville Biltmore Village",
+    "destinationSlug": "asheville",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 500,
+    "priceFrom": 145,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Home2%20Suites%20Asheville%20Biltmore%20Village",
+    "petFee": 75,
+    "petPolicy": "Two dogs are welcome, with a pet fee of around 75 USD for stays of one to four nights and about 125 USD for longer stays. The all-suite layout with kitchenettes suits longer dog stays, and the Biltmore Village location is minutes from the estate. Please confirm the current fee and terms with the property when booking.",
+    "address": "61 Thompson Street, Asheville, NC 28803",
+    "neighborhood": "Biltmore Village",
+    "highlights": [
+      "All-suite kitchenettes, good for longer stays",
+      "Minutes from the Biltmore Estate",
+      "Two dogs welcome (fee by length of stay)"
+    ]
+  },
+  {
+    "id": "asheville-5",
+    "slug": "red-roof-inn-asheville-biltmore-west",
+    "name": "Red Roof Inn Asheville - Biltmore West",
+    "destinationSlug": "asheville",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 2,
+    "rating": 7,
+    "reviewCount": 400,
+    "priceFrom": 79,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Red%20Roof%20Inn%20Asheville%20Biltmore%20West",
+    "petFee": 0,
+    "petPolicy": "One well-behaved dog or cat of up to about 36 kg (80 lb) stays free; a second pet is around 15 USD per night. This is the reliable budget pick west of the river, with easy road access to trails and the Blue Ridge Parkway. Please confirm details with the property when booking.",
+    "address": "16 Crowell Road, Asheville, NC 28806",
+    "neighborhood": "West Asheville / Biltmore West",
+    "highlights": [
+      "One dog or cat stays free (budget pick)",
+      "Easy road access to trails and the Parkway",
+      "Cats explicitly welcome"
+    ]
   }
 ]

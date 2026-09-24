@@ -31,6 +31,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "the Weststrand dog beach below the promenade, the walk through the dunes to the lighthouse and Das Kap, and the wild eastern beach at the Weiße Düne",
       area: "the resort centre and Weststrand, the eastern dunes around the Weiße Düne, and the sheltered Wadden Sea flats on the island's south side",
     },
+    'asheville': {
+      personality: "the great dog-friendly mountain town of the Blue Ridge, an arts-and-beer city where owners walk the Biltmore grounds and the Parkway overlooks, wander an Art Deco downtown of brewery patios, and drive out to national-forest waterfalls, always leashing up in bear country",
+      highlight: "the Biltmore Estate grounds and gardens, the Blue Ridge Parkway overlooks and trails, and the brewery patios of downtown and the South Slope",
+      area: "the walkable Art Deco downtown and South Slope, Biltmore Village and the estate to the south, the River Arts District along the French Broad, and the national forests and Parkway trails ringing the city",
+    },
     'charleston': {
       personality: "the genteel Lowcountry port city where dog owners stroll the Battery promenade and Waterfront Park under the live oaks, wander the cobblestoned Historic District, and drive out to the dog beaches of Folly, Sullivan's Island and the Isle of Palms",
       highlight: "the Waterfront Park and Battery promenades, the historic streets around Rainbow Row and King Street, and the dog beaches of Folly and Sullivan's Island",
@@ -2174,6 +2179,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "la plage pour chiens du Weststrand en contrebas de la promenade, la marche à travers les dunes jusqu'au phare et à Das Kap, et la plage sauvage de l'est à la Weiße Düne",
       area: "le centre de la station et le Weststrand, les dunes orientales autour de la Weiße Düne, et les vasières abritées de la mer des Wadden sur le flanc sud de l'île",
     },
+    'asheville': {
+      personality: "la grande ville de montagne accueillante pour les chiens du Blue Ridge, une ville d'arts et de bière où les propriétaires parcourent le domaine du Biltmore et les points de vue de la Parkway, flânent dans un centre-ville Art déco aux terrasses de brasseries, et partent en voiture vers les cascades des forêts nationales, toujours en laisse en territoire d'ours",
+      highlight: "le domaine et les jardins du Biltmore Estate, les points de vue et sentiers de la Blue Ridge Parkway, et les terrasses de brasseries du centre-ville et du South Slope",
+      area: "le centre-ville Art déco piéton et le South Slope, Biltmore Village et le domaine au sud, le River Arts District le long du French Broad, et les forêts nationales et sentiers de la Parkway qui entourent la ville",
+    },
     'charleston': {
       personality: "la ville portuaire raffinée du Lowcountry où les propriétaires de chiens flânent sur la promenade de la Battery et à Waterfront Park sous les chênes verts, arpentent le quartier historique pavé, et prennent la voiture pour rejoindre les plages pour chiens de Folly, Sullivan's Island et l'Isle of Palms",
       highlight: "les promenades de Waterfront Park et de la Battery, les rues historiques autour de Rainbow Row et de King Street, et les plages pour chiens de Folly et Sullivan's Island",
@@ -4315,6 +4325,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "la gran isla balneario del mar del Norte, tranquila y con poco tráfico, donde los dueños de perros pasean por el paseo del Weststrand y por las dunas blancas de la Weiße Düne con correa, cruzan las marismas del mar de Wadden y dejan correr al perro en la zona de esparcimiento libre de la isla",
       highlight: "la playa para perros del Weststrand bajo el paseo marítimo, el paseo entre dunas hasta el faro y Das Kap, y la playa salvaje del este en la Weiße Düne",
       area: "el centro del complejo turístico y el Weststrand, las dunas del este alrededor de la Weiße Düne, y las marismas resguardadas del mar de Wadden en el lado sur de la isla",
+    },
+    'asheville': {
+      personality: "el gran pueblo de montaña pet-friendly de las Blue Ridge, una ciudad de arte y cerveza donde los dueños pasean por los jardines del Biltmore y los miradores del Parkway, recorren un centro Art Déco de terrazas de cervecerías y salen en coche hasta cascadas de bosque nacional, siempre con correa en territorio de osos",
+      highlight: "los jardines de la finca Biltmore, los miradores y senderos del Blue Ridge Parkway, y las terrazas de cervecerías del centro y del South Slope",
+      area: "el centro caminable Art Déco y el South Slope, Biltmore Village y la finca al sur, el River Arts District junto al French Broad, y los bosques nacionales y senderos del Parkway que rodean la ciudad",
     },
     'charleston': {
       personality: "la elegante ciudad portuaria del Lowcountry donde los dueños de perros pasean por el paseo de the Battery y Waterfront Park bajo los robles centenarios, recorren el empedrado Distrito Histórico y se acercan en coche a las playas para perros de Folly, Sullivan's Island e Isle of Palms",
@@ -6458,6 +6473,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "a praia para cães do Weststrand sob o passeio marítimo, o passeio pelas dunas até ao farol e ao Das Kap, e a praia selvagem oriental na Weiße Düne",
       area: "o centro da estância e o Weststrand, as dunas orientais em torno da Weiße Düne, e as planícies abrigadas do mar de Wadden no lado sul da ilha",
     },
+    'asheville': {
+      personality: "a grande cidade de montanha amiga de cães da Blue Ridge, uma cidade de arte e cerveja onde os donos passeiam pelos jardins do Biltmore e pelos miradouros da Parkway, percorrem um centro Art Deco de esplanadas de cervejarias e vão de carro até cascatas em florestas nacionais, sempre com o cão com trela em território de ursos",
+      highlight: "os jardins e a propriedade do Biltmore Estate, os miradouros e trilhos da Blue Ridge Parkway, e as esplanadas de cervejarias do centro e do South Slope",
+      area: "o centro Art Deco percorrível a pé e o South Slope, a Biltmore Village e a propriedade a sul, o River Arts District ao longo do French Broad, e as florestas nacionais e os trilhos da Parkway que rodeiam a cidade",
+    },
     'charleston': {
       personality: "a elegante cidade portuária do Lowcountry onde os donos de cães passeiam pela alameda da Battery e pelo Waterfront Park sob os carvalhos-de-virgínia, vagueiam pelas ruas de calçada do Historic District e conduzem até às praias para cães de Folly, Sullivan's Island e Isle of Palms",
       highlight: "as alamedas do Waterfront Park e da Battery, as ruas históricas em torno de Rainbow Row e King Street, e as praias para cães de Folly e Sullivan's Island",
@@ -8599,6 +8619,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "die prachtvolle, verkehrsarme Nordsee-Kurinsel, auf der Hundehalter angeleint die Weststrand-Promenade und die weißen Dünen der Weißen Düne entlanglaufen, das Watt des Wattenmeers durchqueren und den Hund im Freilaufbereich der Insel laufen lassen",
       highlight: "der Hundestrand am Weststrand unterhalb der Promenade, der Spaziergang durch die Dünen zum Leuchtturm und zum Kap sowie der wilde Ostende-Strand an der Weißen Düne",
       area: "das Zentrum des Kurorts und der Weststrand, die östlichen Dünen rund um die Weiße Düne sowie die geschützten Wattflächen auf der Südseite der Insel",
+    },
+    'asheville': {
+      personality: "die große hundefreundliche Bergstadt der Blue Ridge, eine Stadt aus Kunst und Bier, in der Halter über das Biltmore-Gelände und die Parkway-Aussichtspunkte spazieren, durch eine Art-Deco-Innenstadt mit Brauereiterrassen schlendern und zu Wasserfällen im Nationalwald hinausfahren, immer an der Leine im Bärenland",
+      highlight: "das Gelände und die Gärten des Biltmore Estate, die Aussichtspunkte und Wanderwege des Blue Ridge Parkway sowie die Brauereiterrassen der Innenstadt und des South Slope",
+      area: "die begehbare Art-Deco-Innenstadt und der South Slope, Biltmore Village und das Anwesen im Süden, das River Arts District am French Broad sowie die Nationalwälder und Parkway-Wanderwege rund um die Stadt",
     },
     'charleston': {
       personality: "die noble Hafenstadt des Lowcountry, in der Hundehalter unter Lebenseichen die Promenade der Battery und den Waterfront Park entlangspazieren, durch den kopfsteingepflasterten Historic District schlendern und zu den Hundestränden von Folly, Sullivan's Island und Isle of Palms hinausfahren",
@@ -10742,6 +10767,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "het hondenstrand van het Weststrand onder de promenade, de wandeling door de duinen naar de vuurtoren en Das Kap, en het wilde oostelijke strand bij de Weiße Düne",
       area: "het centrum van de badplaats en het Weststrand, de oostelijke duinen rond de Weiße Düne, en de beschutte Waddenzeevlaktes aan de zuidkant van het eiland",
     },
+    'asheville': {
+      personality: "de grote dog-friendly bergstad van de Blue Ridge, een kunst- en bierstad waar baasjes over het terrein van de Biltmore en langs de uitzichtpunten van de Parkway wandelen, door een art-decocentrum vol brouwerijterrassen slenteren en naar watervallen in het nationale bos rijden, altijd aangelijnd in berengebied",
+      highlight: "het terrein en de tuinen van de Biltmore Estate, de uitzichtpunten en paden van de Blue Ridge Parkway, en de brouwerijterrassen van het centrum en de South Slope",
+      area: "het goed te belopen art-decocentrum en de South Slope, Biltmore Village en het landgoed ten zuiden ervan, de River Arts District langs de French Broad, en de nationale bossen en Parkway-paden rond de stad",
+    },
     'charleston': {
       personality: "de sierlijke havenstad van de Lowcountry waar hondenbaasjes over de Battery-promenade en door Waterfront Park wandelen onder de levende eiken, door het met kasseien geplaveide Historic District dwalen en naar de hondenstranden van Folly, Sullivan's Island en Isle of Palms rijden",
       highlight: "de promenades van Waterfront Park en de Battery, de historische straten rond Rainbow Row en King Street, en de hondenstranden van Folly en Sullivan's Island",
@@ -12883,6 +12913,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "la grande isola termale del Mare del Nord, a basso traffico, dove i proprietari di cani passeggiano al guinzaglio sulla promenade del Weststrand e sulle dune bianche della Weiße Düne, attraversano le distese di marea del Wattenmeer e lasciano correre il cane nell'area di sgambamento libero dell'isola",
       highlight: "la spiaggia per cani del Weststrand sotto la passeggiata, la camminata tra le dune fino al faro e a Das Kap, e la spiaggia selvaggia orientale della Weiße Düne",
       area: "il centro della località e il Weststrand, le dune orientali intorno alla Weiße Düne, e le distese riparate del Wattenmeer sul lato sud dell'isola",
+    },
+    'asheville': {
+      personality: "la grande città di montagna dog-friendly delle Blue Ridge, una città di arte e birra dove i proprietari passeggiano nei terreni del Biltmore e ai punti panoramici della Parkway, girano per un centro Art Deco di patii di birrifici e vanno in auto fino alle cascate della foresta nazionale, sempre al guinzaglio in territorio di orsi",
+      highlight: "i terreni e i giardini del Biltmore Estate, i punti panoramici e i sentieri della Blue Ridge Parkway, e i patii dei birrifici del centro e del South Slope",
+      area: "il percorribile centro Art Deco e il South Slope, Biltmore Village e la tenuta a sud, il River Arts District lungo il French Broad, e le foreste nazionali e i sentieri della Parkway che circondano la città",
     },
     'charleston': {
       personality: "l'elegante città portuale del Lowcountry dove i proprietari di cani passeggiano sulla promenade del Battery e a Waterfront Park sotto le querce vive, girano per le stradine in ciottoli del Distretto Storico e guidano fino alle spiagge per cani di Folly, Sullivan's Island e Isle of Palms",

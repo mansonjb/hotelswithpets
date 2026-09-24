@@ -50,6 +50,7 @@ const URBAN_SLUGS = new Set([
   'dubai', 'singapore', 'new-york', 'los-angeles', 'san-francisco',
   'chicago', 'boston', 'toronto', 'montreal', 'sydney', 'melbourne',
   'charleston',
+  'asheville',
 ])
 
 const COASTAL_SLUGS = new Set([

@@ -1656,6 +1656,81 @@
     "iata": "MRS"
   },
   {
+    "slug": "asheville",
+    "name": "Asheville",
+    "country": "United States",
+    "countryCode": "US",
+    "flag": "🇺🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/asheville.jpg",
+    "intro": "Asheville sits in a bowl of the Blue Ridge Mountains in western North Carolina, an arts-and-beer town of 1920s architecture, a famous riverside gallery district and the great Biltmore Estate on its edge. It is routinely named one of the most dog-friendly cities in the United States: leashed dogs are welcome on the grounds and gardens of the Biltmore, along the Blue Ridge Parkway, on the trails of the North Carolina Arboretum and on the patios of the breweries that made this Beer City USA. The mountain setting shapes a dog trip here. At around 650 metres of elevation the summers are milder than the lowland South and the winters can turn cold and icy, and the flagship hikes climb far higher. A visitor should also know two things: Great Smoky Mountains National Park, an hour west, bans dogs on almost every trail, and Hurricane Helene battered the French Broad riverfront in 2024, so the city's permanent riverside dog parks are still being rebuilt and a temporary park fills the gap. With two round-the-clock emergency vets, a walkable downtown and mountains in every direction, Asheville is an easygoing, genuinely dog-first base for the southern Appalachians.",
+    "lat": 35.5951,
+    "lng": -82.5515,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Cold, occasional snow",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & crisp",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild spring",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 20,
+        "desc": "Warm & blooming",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Warm & green",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 27,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Warmest month",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Crisp, fall colour",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Cool autumn",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 9,
+        "desc": "Cold winter",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "AVL"
+  },
+  {
     "slug": "athens",
     "name": "Athens",
     "country": "Greece",
@@ -7528,6 +7603,81 @@
     "iata": "ORD"
   },
   {
+    "slug": "cinque-terre",
+    "name": "Cinque Terre",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/cinque-terre.jpg",
+    "intro": "The Cinque Terre are five UNESCO-listed fishing villages strung along the Ligurian cliffs, and they are surprisingly dog-friendly where it counts: leashed dogs ride the regional train and the ferry, and walk the coastal CAI trails and the reopened Via dell'Amore. The villages are steep and their beaches restricted, so this is a destination for the paths and the sea rather than the sand.",
+    "lat": 44.1279,
+    "lng": 9.7089,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Cool & changeable",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild spring",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "PSA"
+  },
+  {
     "slug": "ciutadella",
     "name": "Ciutadella de Menorca",
     "country": "Spain",
@@ -12786,6 +12936,80 @@
       "dec": {
         "temp": 4,
         "desc": "Cold & damp",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
+    "slug": "honfleur",
+    "name": "Honfleur",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/honfleur.jpg",
+    "intro": "A postcard Normandy port at the mouth of the Seine, Honfleur wraps its tall slate-fronted houses and the Vieux Bassin harbour around a dog-friendly quayside, with the wooden Sainte-Catherine church, the Côte de Grâce viewpoint and a string of Norman dog beaches all within easy reach.",
+    "lat": 49.4194,
+    "lng": 0.2333,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cool & grey",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild & fresh",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild & bright",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool & damp",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool & grey",
         "icon": "🌧️"
       }
     }
@@ -19790,6 +20014,80 @@
     "iata": "VLC"
   },
   {
+    "slug": "orvieto",
+    "name": "Orvieto",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/orvieto.jpg",
+    "intro": "A hilltop Umbrian town rising on a tufa cliff reached by a pet-friendly funicular, Orvieto pairs its golden Gothic Duomo and cave-riddled underground with a leash-friendly ring walk around the walls, a compact, walkable base for dog owners exploring Umbria.",
+    "lat": 42.7185,
+    "lng": 12.1107,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      }
+    }
+  },
+  {
     "slug": "osaka",
     "name": "Osaka",
     "country": "Japan",
@@ -21669,6 +21967,231 @@
     "countryCode": "PT"
   },
   {
+    "slug": "portofino",
+    "name": "Portofino",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/portofino.jpg",
+    "lat": 44.3036,
+    "lng": 9.2097,
+    "intro": "Portofino is the iconic fishing village of the Italian Riviera, a cluster of pastel houses around a tiny, exclusive harbour on a steep, wooded promontory. With a dog it is honest work: there is essentially no dog beach and the coast is rocky and pricey, but the flat harbour piazzetta, the walk up to Castello Brown and the lighthouse, and the leashed trails through the Parco di Portofino to San Fruttuoso are genuinely dog-friendly, and the ferries and buses from Santa Margherita take dogs.",
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "GOA"
+  },
+  {
+    "slug": "portoroz",
+    "name": "Portorož",
+    "country": "Slovenia",
+    "countryCode": "SI",
+    "flag": "🇸🇮",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/portoroz.jpg",
+    "intro": "Portorož, Slovenia's Belle Époque spa resort on the Istrian coast, pairs a palm-lined seafront promenade and grand thalasso hotels with a genuinely dog-friendly hinterland, from Monty's Dog Beach at Lucija, the country's first designated dog beach, to the Forma Viva sculpture park on the green Seča peninsula, the Sečovlje salt pans and the car-free stone town of Piran next door.",
+    "lat": 45.5142,
+    "lng": 13.5908,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cool with Bora wind",
+        "icon": "🌬️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cool with Bora wind",
+        "icon": "🌬️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool with rain",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool with Bora wind",
+        "icon": "🌬️"
+      }
+    },
+    "iata": "TRS"
+  },
+  {
+    "slug": "positano",
+    "name": "Positano",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/positano.jpg",
+    "intro": "Positano is the vertical jewel of the Amalfi Coast, a cascade of pastel houses tumbling down the cliff to the sea. It is honest work with a dog: the town is a staircase of hundreds of steps, most beaches restrict dogs and summer stone bakes, but leashed dogs ride the SITA buses and the ferries and, above all, walk the spectacular Path of the Gods.",
+    "lat": 40.6281,
+    "lng": 14.485,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "NAP"
+  },
+  {
     "slug": "poznan",
     "name": "Poznan",
     "country": "Poland",
@@ -22945,6 +23468,80 @@
     "iata": "FCO",
     "tiqetsId": "71631",
     "countryCode": "IT"
+  },
+  {
+    "slug": "ronda",
+    "name": "Ronda",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/ronda.jpg",
+    "intro": "A dramatic clifftop town split by the 100-metre El Tajo gorge and spanned by the Puente Nuevo, Ronda pairs one of Spain’s oldest bullrings and a Moorish old town with the leafy Alameda del Tajo promenade and sweeping mirador walks, a compact, walkable base for dog owners exploring inland Malaga province.",
+    "lat": 36.7461,
+    "lng": -5.1611,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild & bright",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild & cool",
+        "icon": "⛅"
+      }
+    }
   },
   {
     "slug": "roses",
@@ -24973,6 +25570,80 @@
     "iata": "SEA"
   },
   {
+    "slug": "sesimbra",
+    "name": "Sesimbra",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/sesimbra.jpg",
+    "intro": "A whitewashed fishing town on Portugal’s Setúbal coast below the Serra da Arrábida, Sesimbra pairs a castle-topped old town and a working harbour with sheltered Atlantic beaches and clifftop trails, an easy dog-friendly base a short drive south of Lisbon.",
+    "lat": 38.4443,
+    "lng": -9.1017,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild & bright",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 17,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild & cool",
+        "icon": "⛅"
+      }
+    }
+  },
+  {
     "slug": "sete",
     "name": "Sète",
     "country": "France",
@@ -25272,6 +25943,80 @@
       }
     },
     "iata": "SPU"
+  },
+  {
+    "slug": "sibiu",
+    "name": "Sibiu",
+    "country": "Romania",
+    "countryCode": "RO",
+    "flag": "🇷🇴",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/sibiu.jpg",
+    "intro": "A compact medieval Saxon town in the heart of Transylvania, Sibiu frames cobbled squares, pastel guild houses and the vast ASTRA open-air museum with three dedicated off-leash dog parks and a growing pet-friendly cafe scene, an easy base for dog owners exploring central Romania.",
+    "lat": 45.7928,
+    "lng": 24.1521,
+    "weather": {
+      "jan": {
+        "temp": -3,
+        "desc": "Cold & snowy",
+        "icon": "🌨️"
+      },
+      "feb": {
+        "temp": -1,
+        "desc": "Cold with snow",
+        "icon": "🌨️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Cool with thaw",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & green",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool & crisp",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 4,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "🌨️"
+      }
+    }
   },
   {
     "slug": "siena",
@@ -31505,675 +32250,5 @@
     },
     "iata": "ZRH",
     "countryCode": "CH"
-  },
-  {
-    "slug": "cinque-terre",
-    "name": "Cinque Terre",
-    "country": "Italy",
-    "countryCode": "IT",
-    "flag": "🇮🇹",
-    "categoryCount": 6,
-    "heroImage": "/images/destinations/cinque-terre.jpg",
-    "intro": "The Cinque Terre are five UNESCO-listed fishing villages strung along the Ligurian cliffs, and they are surprisingly dog-friendly where it counts: leashed dogs ride the regional train and the ferry, and walk the coastal CAI trails and the reopened Via dell'Amore. The villages are steep and their beaches restricted, so this is a destination for the paths and the sea rather than the sand.",
-    "lat": 44.1279,
-    "lng": 9.7089,
-    "weather": {
-      "jan": {
-        "temp": 11,
-        "desc": "Cool & rainy",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 12,
-        "desc": "Cool & changeable",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 14,
-        "desc": "Mild spring",
-        "icon": "⛅"
-      },
-      "apr": {
-        "temp": 17,
-        "desc": "Warm & pleasant",
-        "icon": "🌤️"
-      },
-      "may": {
-        "temp": 21,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 28,
-        "desc": "Hot & humid",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 28,
-        "desc": "Hot & humid",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 25,
-        "desc": "Warm & pleasant",
-        "icon": "🌤️"
-      },
-      "oct": {
-        "temp": 20,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 15,
-        "desc": "Mild & rainy",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 12,
-        "desc": "Cool & wet",
-        "icon": "🌧️"
-      }
-    },
-    "iata": "PSA"
-  },
-  {
-    "slug": "portofino",
-    "name": "Portofino",
-    "country": "Italy",
-    "countryCode": "IT",
-    "flag": "🇮🇹",
-    "categoryCount": 8,
-    "heroImage": "/images/destinations/portofino.jpg",
-    "lat": 44.3036,
-    "lng": 9.2097,
-    "intro": "Portofino is the iconic fishing village of the Italian Riviera, a cluster of pastel houses around a tiny, exclusive harbour on a steep, wooded promontory. With a dog it is honest work: there is essentially no dog beach and the coast is rocky and pricey, but the flat harbour piazzetta, the walk up to Castello Brown and the lighthouse, and the leashed trails through the Parco di Portofino to San Fruttuoso are genuinely dog-friendly, and the ferries and buses from Santa Margherita take dogs.",
-    "weather": {
-      "jan": {
-        "temp": 9,
-        "desc": "Mild & rainy",
-        "icon": "🌦️"
-      },
-      "feb": {
-        "temp": 9,
-        "desc": "Mild & rainy",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 12,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "apr": {
-        "temp": 15,
-        "desc": "Mild & sunny",
-        "icon": "🌤️"
-      },
-      "may": {
-        "temp": 19,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 23,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 26,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 26,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 22,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "oct": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 13,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 10,
-        "desc": "Mild & rainy",
-        "icon": "🌦️"
-      }
-    },
-    "iata": "GOA"
-  },
-  {
-    "slug": "portoroz",
-    "name": "Portorož",
-    "country": "Slovenia",
-    "countryCode": "SI",
-    "flag": "🇸🇮",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/portoroz.jpg",
-    "intro": "Portorož, Slovenia's Belle Époque spa resort on the Istrian coast, pairs a palm-lined seafront promenade and grand thalasso hotels with a genuinely dog-friendly hinterland, from Monty's Dog Beach at Lucija, the country's first designated dog beach, to the Forma Viva sculpture park on the green Seča peninsula, the Sečovlje salt pans and the car-free stone town of Piran next door.",
-    "lat": 45.5142,
-    "lng": 13.5908,
-    "weather": {
-      "jan": {
-        "temp": 6,
-        "desc": "Cool with Bora wind",
-        "icon": "🌬️"
-      },
-      "feb": {
-        "temp": 7,
-        "desc": "Cool with Bora wind",
-        "icon": "🌬️"
-      },
-      "mar": {
-        "temp": 10,
-        "desc": "Mild & breezy",
-        "icon": "⛅"
-      },
-      "apr": {
-        "temp": 14,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 19,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 23,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 21,
-        "desc": "Warm & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 16,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 11,
-        "desc": "Cool with rain",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 7,
-        "desc": "Cool with Bora wind",
-        "icon": "🌬️"
-      }
-    },
-    "iata": "TRS"
-  },
-  {
-    "slug": "positano",
-    "name": "Positano",
-    "country": "Italy",
-    "countryCode": "IT",
-    "flag": "🇮🇹",
-    "categoryCount": 8,
-    "heroImage": "/images/destinations/positano.jpg",
-    "intro": "Positano is the vertical jewel of the Amalfi Coast, a cascade of pastel houses tumbling down the cliff to the sea. It is honest work with a dog: the town is a staircase of hundreds of steps, most beaches restrict dogs and summer stone bakes, but leashed dogs ride the SITA buses and the ferries and, above all, walk the spectacular Path of the Gods.",
-    "lat": 40.6281,
-    "lng": 14.485,
-    "weather": {
-      "jan": {
-        "temp": 11,
-        "desc": "Mild & rainy",
-        "icon": "🌦️"
-      },
-      "feb": {
-        "temp": 11,
-        "desc": "Mild & rainy",
-        "icon": "🌦️"
-      },
-      "mar": {
-        "temp": 13,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "apr": {
-        "temp": 16,
-        "desc": "Mild & sunny",
-        "icon": "🌤️"
-      },
-      "may": {
-        "temp": 20,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 24,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 27,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 27,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 24,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "oct": {
-        "temp": 20,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 16,
-        "desc": "Mild with rain",
-        "icon": "🌦️"
-      },
-      "dec": {
-        "temp": 12,
-        "desc": "Mild & rainy",
-        "icon": "🌦️"
-      }
-    },
-    "iata": "NAP"
-  },
-  {
-    "slug": "sibiu",
-    "name": "Sibiu",
-    "country": "Romania",
-    "countryCode": "RO",
-    "flag": "🇷🇴",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/sibiu.jpg",
-    "intro": "A compact medieval Saxon town in the heart of Transylvania, Sibiu frames cobbled squares, pastel guild houses and the vast ASTRA open-air museum with three dedicated off-leash dog parks and a growing pet-friendly cafe scene, an easy base for dog owners exploring central Romania.",
-    "lat": 45.7928,
-    "lng": 24.1521,
-    "weather": {
-      "jan": {
-        "temp": -3,
-        "desc": "Cold & snowy",
-        "icon": "🌨️"
-      },
-      "feb": {
-        "temp": -1,
-        "desc": "Cold with snow",
-        "icon": "🌨️"
-      },
-      "mar": {
-        "temp": 4,
-        "desc": "Cool with thaw",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 10,
-        "desc": "Mild with showers",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 18,
-        "desc": "Warm & green",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 20,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 20,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 15,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 9,
-        "desc": "Cool & crisp",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 4,
-        "desc": "Cold & grey",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": -1,
-        "desc": "Cold & snowy",
-        "icon": "🌨️"
-      }
-    }
-  },
-  {
-    "slug": "orvieto",
-    "name": "Orvieto",
-    "country": "Italy",
-    "countryCode": "IT",
-    "flag": "🇮🇹",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/orvieto.jpg",
-    "intro": "A hilltop Umbrian town rising on a tufa cliff reached by a pet-friendly funicular, Orvieto pairs its golden Gothic Duomo and cave-riddled underground with a leash-friendly ring walk around the walls, a compact, walkable base for dog owners exploring Umbria.",
-    "lat": 42.7185,
-    "lng": 12.1107,
-    "weather": {
-      "jan": {
-        "temp": 7,
-        "desc": "Cool & mild",
-        "icon": "⛅"
-      },
-      "feb": {
-        "temp": 8,
-        "desc": "Cool & mild",
-        "icon": "⛅"
-      },
-      "mar": {
-        "temp": 11,
-        "desc": "Mild with showers",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 14,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "may": {
-        "temp": 18,
-        "desc": "Warm & pleasant",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 22,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 25,
-        "desc": "Hot & sunny",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 21,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "oct": {
-        "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "nov": {
-        "temp": 11,
-        "desc": "Cool & wet",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 7,
-        "desc": "Cool & mild",
-        "icon": "⛅"
-      }
-    }
-  },
-  {
-    "slug": "ronda",
-    "name": "Ronda",
-    "country": "Spain",
-    "countryCode": "ES",
-    "flag": "🇪🇸",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/ronda.jpg",
-    "intro": "A dramatic clifftop town split by the 100-metre El Tajo gorge and spanned by the Puente Nuevo, Ronda pairs one of Spain’s oldest bullrings and a Moorish old town with the leafy Alameda del Tajo promenade and sweeping mirador walks, a compact, walkable base for dog owners exploring inland Malaga province.",
-    "lat": 36.7461,
-    "lng": -5.1611,
-    "weather": {
-      "jan": {
-        "temp": 10,
-        "desc": "Mild & sunny",
-        "icon": "⛅"
-      },
-      "feb": {
-        "temp": 11,
-        "desc": "Mild & bright",
-        "icon": "⛅"
-      },
-      "mar": {
-        "temp": 13,
-        "desc": "Mild & pleasant",
-        "icon": "🌤️"
-      },
-      "apr": {
-        "temp": 15,
-        "desc": "Warm & pleasant",
-        "icon": "🌤️"
-      },
-      "may": {
-        "temp": 19,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 24,
-        "desc": "Hot & dry",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 27,
-        "desc": "Hot & dry",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 27,
-        "desc": "Hot & dry",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 23,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "oct": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "🌤️"
-      },
-      "nov": {
-        "temp": 13,
-        "desc": "Mild & wet",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 10,
-        "desc": "Mild & cool",
-        "icon": "⛅"
-      }
-    }
-  },
-  {
-    "slug": "honfleur",
-    "name": "Honfleur",
-    "country": "France",
-    "countryCode": "FR",
-    "flag": "🇫🇷",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/honfleur.jpg",
-    "intro": "A postcard Normandy port at the mouth of the Seine, Honfleur wraps its tall slate-fronted houses and the Vieux Bassin harbour around a dog-friendly quayside, with the wooden Sainte-Catherine church, the Côte de Grâce viewpoint and a string of Norman dog beaches all within easy reach.",
-    "lat": 49.4194,
-    "lng": 0.2333,
-    "weather": {
-      "jan": {
-        "temp": 6,
-        "desc": "Cool & wet",
-        "icon": "🌧️"
-      },
-      "feb": {
-        "temp": 6,
-        "desc": "Cool & grey",
-        "icon": "🌧️"
-      },
-      "mar": {
-        "temp": 8,
-        "desc": "Mild & showery",
-        "icon": "🌦️"
-      },
-      "apr": {
-        "temp": 10,
-        "desc": "Mild & fresh",
-        "icon": "🌦️"
-      },
-      "may": {
-        "temp": 13,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "jun": {
-        "temp": 16,
-        "desc": "Mild & bright",
-        "icon": "⛅"
-      },
-      "jul": {
-        "temp": 18,
-        "desc": "Warm & breezy",
-        "icon": "🌤️"
-      },
-      "aug": {
-        "temp": 18,
-        "desc": "Warm & breezy",
-        "icon": "🌤️"
-      },
-      "sep": {
-        "temp": 16,
-        "desc": "Mild & pleasant",
-        "icon": "⛅"
-      },
-      "oct": {
-        "temp": 13,
-        "desc": "Cool & damp",
-        "icon": "🌦️"
-      },
-      "nov": {
-        "temp": 9,
-        "desc": "Cool & wet",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 7,
-        "desc": "Cool & grey",
-        "icon": "🌧️"
-      }
-    }
-  },
-  {
-    "slug": "sesimbra",
-    "name": "Sesimbra",
-    "country": "Portugal",
-    "countryCode": "PT",
-    "flag": "🇵🇹",
-    "categoryCount": 5,
-    "heroImage": "/images/destinations/sesimbra.jpg",
-    "intro": "A whitewashed fishing town on Portugal’s Setúbal coast below the Serra da Arrábida, Sesimbra pairs a castle-topped old town and a working harbour with sheltered Atlantic beaches and clifftop trails, an easy dog-friendly base a short drive south of Lisbon.",
-    "lat": 38.4443,
-    "lng": -9.1017,
-    "weather": {
-      "jan": {
-        "temp": 12,
-        "desc": "Mild & bright",
-        "icon": "⛅"
-      },
-      "feb": {
-        "temp": 12,
-        "desc": "Mild & sunny",
-        "icon": "⛅"
-      },
-      "mar": {
-        "temp": 14,
-        "desc": "Mild & pleasant",
-        "icon": "🌤️"
-      },
-      "apr": {
-        "temp": 15,
-        "desc": "Warm & breezy",
-        "icon": "🌤️"
-      },
-      "may": {
-        "temp": 17,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "jun": {
-        "temp": 20,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "jul": {
-        "temp": 22,
-        "desc": "Warm & dry",
-        "icon": "☀️"
-      },
-      "aug": {
-        "temp": 23,
-        "desc": "Warm & dry",
-        "icon": "☀️"
-      },
-      "sep": {
-        "temp": 22,
-        "desc": "Warm & sunny",
-        "icon": "☀️"
-      },
-      "oct": {
-        "temp": 18,
-        "desc": "Mild & pleasant",
-        "icon": "🌤️"
-      },
-      "nov": {
-        "temp": 15,
-        "desc": "Mild & wet",
-        "icon": "🌧️"
-      },
-      "dec": {
-        "temp": 13,
-        "desc": "Mild & cool",
-        "icon": "⛅"
-      }
-    }
   }
 ]

@@ -292,42 +292,157 @@ for (const slug of THEMES.flatMap((t) => t.destinations.map((d) => d.slug))) {
   HOTELS_BY_DEST[slug] = valueSort(hotels.filter((h) => h.destinationSlug === slug)).slice(0, 3)
 }
 
-const T = {
-  title: {
-    en: 'Best Winter 2026 Destinations to Travel With Your Dog',
-    fr: 'Meilleures destinations hiver 2026 pour voyager avec son chien',
-    es: 'Mejores destinos de invierno 2026 para viajar con tu perro',
-    pt: 'Melhores destinos de inverno 2026 para viajar com o seu cão',
-    de: 'Die besten Winterziele 2026 zum Reisen mit Ihrem Hund',
-    nl: 'De beste winterbestemmingen 2026 om met je hond te reizen',
-    it: 'Le migliori destinazioni invernali 2026 per viaggiare con il tuo cane',
+// Comprehensive winter-warmth index: every warm-escape destination on the site,
+// ranked by January average daily high. Source: each destination's own climate
+// data in data/destinations.json (jan/feb temp), so the numbers match the
+// destination pages exactly. Every slug is a live destination (zero 404).
+type WarmRow = { slug: string; name: string; country: string; flag: string; jan: number; feb: number; tier: 'A' | 'B' | 'C' }
+const WARM_INDEX: WarmRow[] = [
+  { slug: 'tenerife', name: 'Tenerife', country: 'Spain', flag: '🇪🇸', jan: 21, feb: 21, tier: 'A' },
+  { slug: 'gran-canaria', name: 'Gran Canaria', country: 'Spain', flag: '🇪🇸', jan: 21, feb: 21, tier: 'A' },
+  { slug: 'fuerteventura', name: 'Fuerteventura', country: 'Spain', flag: '🇪🇸', jan: 21, feb: 21, tier: 'A' },
+  { slug: 'lanzarote', name: 'Lanzarote', country: 'Spain', flag: '🇪🇸', jan: 21, feb: 21, tier: 'A' },
+  { slug: 'las-palmas', name: 'Las Palmas', country: 'Spain', flag: '🇪🇸', jan: 20, feb: 20, tier: 'A' },
+  { slug: 'maspalomas', name: 'Maspalomas', country: 'Spain', flag: '🇪🇸', jan: 19, feb: 19, tier: 'A' },
+  { slug: 'nerja', name: 'Nerja', country: 'Spain', flag: '🇪🇸', jan: 17, feb: 17, tier: 'B' },
+  { slug: 'fuengirola', name: 'Fuengirola', country: 'Spain', flag: '🇪🇸', jan: 17, feb: 17, tier: 'B' },
+  { slug: 'mojacar', name: 'Mojácar', country: 'Spain', flag: '🇪🇸', jan: 17, feb: 17, tier: 'B' },
+  { slug: 'paphos', name: 'Paphos', country: 'Cyprus', flag: '🇨🇾', jan: 17, feb: 17, tier: 'B' },
+  { slug: 'limassol', name: 'Limassol', country: 'Cyprus', flag: '🇨🇾', jan: 17, feb: 17, tier: 'B' },
+  { slug: 'larnaca', name: 'Larnaca', country: 'Cyprus', flag: '🇨🇾', jan: 17, feb: 17, tier: 'B' },
+  { slug: 'funchal', name: 'Funchal', country: 'Portugal', flag: '🇵🇹', jan: 16, feb: 16, tier: 'B' },
+  { slug: 'portimao', name: 'Portimão', country: 'Portugal', flag: '🇵🇹', jan: 16, feb: 16, tier: 'B' },
+  { slug: 'estepona', name: 'Estepona', country: 'Spain', flag: '🇪🇸', jan: 16, feb: 17, tier: 'B' },
+  { slug: 'benidorm', name: 'Benidorm', country: 'Spain', flag: '🇪🇸', jan: 16, feb: 16, tier: 'B' },
+  { slug: 'sliema', name: 'Sliema', country: 'Malta', flag: '🇲🇹', jan: 16, feb: 15, tier: 'B' },
+  { slug: 'lagos', name: 'Lagos', country: 'Portugal', flag: '🇵🇹', jan: 15, feb: 16, tier: 'B' },
+  { slug: 'malaga', name: 'Malaga', country: 'Spain', flag: '🇪🇸', jan: 13, feb: 14, tier: 'C' },
+  { slug: 'marbella', name: 'Marbella', country: 'Spain', flag: '🇪🇸', jan: 13, feb: 13, tier: 'C' },
+  { slug: 'seville', name: 'Seville', country: 'Spain', flag: '🇪🇸', jan: 13, feb: 15, tier: 'C' },
+  { slug: 'cadiz', name: 'Cadiz', country: 'Spain', flag: '🇪🇸', jan: 13, feb: 14, tier: 'C' },
+  { slug: 'tarifa', name: 'Tarifa', country: 'Spain', flag: '🇪🇸', jan: 13, feb: 14, tier: 'C' },
+  { slug: 'almeria', name: 'Almería', country: 'Spain', flag: '🇪🇸', jan: 13, feb: 14, tier: 'C' },
+  { slug: 'albufeira', name: 'Albufeira', country: 'Portugal', flag: '🇵🇹', jan: 13, feb: 14, tier: 'C' },
+  { slug: 'faro', name: 'Faro', country: 'Portugal', flag: '🇵🇹', jan: 12, feb: 13, tier: 'C' },
+  { slug: 'tavira', name: 'Tavira', country: 'Portugal', flag: '🇵🇹', jan: 12, feb: 13, tier: 'C' },
+  { slug: 'valencia', name: 'Valencia', country: 'Spain', flag: '🇪🇸', jan: 12, feb: 13, tier: 'C' },
+  { slug: 'alicante', name: 'Alicante', country: 'Spain', flag: '🇪🇸', jan: 12, feb: 13, tier: 'C' },
+  { slug: 'calpe', name: 'Calpe', country: 'Spain', flag: '🇪🇸', jan: 12, feb: 13, tier: 'C' },
+  { slug: 'denia', name: 'Dénia', country: 'Spain', flag: '🇪🇸', jan: 12, feb: 13, tier: 'C' },
+  { slug: 'palermo', name: 'Palermo', country: 'Italy', flag: '🇮🇹', jan: 13, feb: 13, tier: 'C' },
+  { slug: 'taormina', name: 'Taormina', country: 'Italy', flag: '🇮🇹', jan: 13, feb: 13, tier: 'C' },
+  { slug: 'cefalu', name: 'Cefalù', country: 'Italy', flag: '🇮🇹', jan: 12, feb: 12, tier: 'C' },
+  { slug: 'catania', name: 'Catania', country: 'Italy', flag: '🇮🇹', jan: 11, feb: 12, tier: 'C' },
+  { slug: 'valletta', name: 'Valletta', country: 'Malta', flag: '🇲🇹', jan: 13, feb: 13, tier: 'C' },
+  { slug: 'chania', name: 'Chania', country: 'Greece', flag: '🇬🇷', jan: 12, feb: 12, tier: 'C' },
+  { slug: 'heraklion', name: 'Heraklion', country: 'Greece', flag: '🇬🇷', jan: 12, feb: 12, tier: 'C' },
+  { slug: 'athens', name: 'Athens', country: 'Greece', flag: '🇬🇷', jan: 11, feb: 12, tier: 'C' },
+  { slug: 'sitges', name: 'Sitges', country: 'Spain', flag: '🇪🇸', jan: 11, feb: 11, tier: 'C' },
+]
+
+const TIER_META: { id: 'A' | 'B' | 'C'; emoji: string; range: string; name: L4; desc: L4 }[] = [
+  {
+    id: 'A', emoji: '🌴', range: '19-21°C',
+    name: { en: 'Winter sun, warm enough to swim', fr: 'Soleil d\'hiver, assez chaud pour se baigner', es: 'Sol de invierno, cálido para bañarse', pt: 'Sol de inverno, quente para nadar', de: 'Wintersonne, warm genug zum Schwimmen', nl: 'Wintersonzon, warm genoeg om te zwemmen', it: 'Sole invernale, caldo per nuotare' },
+    desc: {
+      en: 'The Canary Islands off the African coast: the one corner of Europe where the sea stays swimmable in January and heat-sensitive or flat-faced dogs stay comfortable.',
+      fr: `Les îles Canaries au large de l'Afrique : le seul coin d'Europe où la mer reste baignable en janvier et où les chiens sensibles à la chaleur ou à face plate restent à l'aise.`,
+      es: 'Las islas Canarias frente a la costa africana: el único rincón de Europa donde el mar sigue siendo bañable en enero y donde los perros sensibles al calor o de cara plana están cómodos.',
+      pt: 'As ilhas Canárias ao largo da costa africana: o único canto da Europa onde o mar continua a dar para nadar em janeiro e onde os cães sensíveis ao calor ou de cara achatada ficam confortáveis.',
+      de: 'Die Kanarischen Inseln vor der afrikanischen Küste: der einzige Teil Europas, in dem das Meer im Januar zum Schwimmen taugt und hitzeempfindliche oder kurznasige Hunde sich wohlfühlen.',
+      nl: 'De Canarische Eilanden voor de Afrikaanse kust: de enige plek in Europa waar de zee in januari nog zwembaar is en hittegevoelige of platsnuitige honden comfortabel blijven.',
+      it: `Le Canarie al largo della costa africana: l'unico angolo d'Europa dove il mare resta balneabile a gennaio e i cani sensibili al caldo o brachicefali stanno bene.`,
+    },
   },
-  metaTitle: {
-    en: '11 Best Winter Destinations to Travel With Your Dog (2026)',
-    fr: '11 meilleures destinations d\'hiver pour voyager avec son chien (2026)',
-    es: '11 mejores destinos de invierno para viajar con tu perro (2026)',
-    pt: '11 melhores destinos de inverno para viajar com o seu cão (2026)',
-    de: '11 beste Winterziele zum Reisen mit Ihrem Hund (2026)',
-    nl: '11 beste winterbestemmingen om met je hond te reizen (2026)',
-    it: '11 migliori destinazioni invernali per viaggiare con il tuo cane (2026)',
+  {
+    id: 'B', emoji: '☀️', range: '15-17°C',
+    name: { en: 'Mild and mostly dry', fr: 'Doux et plutôt sec', es: 'Templado y bastante seco', pt: 'Ameno e bastante seco', de: 'Mild und meist trocken', nl: 'Mild en overwegend droog', it: 'Mite e per lo più secco' },
+    desc: {
+      en: 'The Costa del Sol, the Algarve, Madeira, Cyprus and Malta: sunny days in the mid-teens, quiet beaches and dog-friendly promenades far from the summer crowds.',
+      fr: `La Costa del Sol, l'Algarve, Madère, Chypre et Malte : des journées ensoleillées autour de 15 à 17°C, des plages calmes et des promenades dog-friendly loin de la foule estivale.`,
+      es: 'La Costa del Sol, el Algarve, Madeira, Chipre y Malta: días soleados entre 15 y 17°C, playas tranquilas y paseos dog-friendly lejos de las multitudes de verano.',
+      pt: 'A Costa del Sol, o Algarve, a Madeira, Chipre e Malta: dias soalheiros entre os 15 e os 17°C, praias tranquilas e passeios dog-friendly longe das multidões de verão.',
+      de: 'Die Costa del Sol, die Algarve, Madeira, Zypern und Malta: sonnige Tage um 15 bis 17°C, ruhige Strände und hundefreundliche Promenaden fern vom Sommertrubel.',
+      nl: 'De Costa del Sol, de Algarve, Madeira, Cyprus en Malta: zonnige dagen rond de 15 tot 17°C, rustige stranden en hondvriendelijke boulevards ver van de zomerdrukte.',
+      it: `La Costa del Sol, l'Algarve, Madeira, Cipro e Malta: giornate di sole tra i 15 e i 17°C, spiagge tranquille e passeggiate pet-friendly lontano dalla folla estiva.`,
+    },
   },
-  metaDesc: {
-    en: 'Where to travel with your dog in winter: winter-sun Canary Islands near 21°C, mild Andalusian and Algarve coast, and an Alpine thermal town. 11 destinations, pet-friendly hotels included.',
-    fr: 'Où voyager avec son chien en hiver : îles Canaries au soleil proche de 21°C, côte douce d\'Andalousie et de l\'Algarve, et une ville thermale alpine. 11 destinations, hôtels pet-friendly inclus.',
-    es: 'Dónde viajar con tu perro en invierno: islas Canarias con sol cerca de 21°C, costa templada de Andalucía y el Algarve, y un pueblo termal alpino. 11 destinos, hoteles pet-friendly incluidos.',
-    pt: 'Onde viajar com o seu cão no inverno: ilhas Canárias com sol perto dos 21°C, costa amena da Andaluzia e do Algarve, e uma vila termal alpina. 11 destinos, hotéis pet-friendly incluídos.',
-    de: 'Wohin mit dem Hund im Winter reisen: Wintersonne auf den Kanarischen Inseln nahe 21°C, milde andalusische und Algarve-Küste, und eine alpine Thermalstadt. 11 Ziele, haustierfreundliche Hotels inklusive.',
-    nl: 'Waar je in de winter met je hond naartoe kunt: wintersonzon op de Canarische Eilanden nabij 21°C, milde Andalusische en Algarve-kust, en een alpine thermale stad. 11 bestemmingen, huisdiervriendelijke hotels inbegrepen.',
-    it: 'Dove viaggiare con il tuo cane in inverno: sole invernale sulle Canarie vicino ai 21°C, costa mite di Andalusia e Algarve, e una cittadina termale alpina. 11 destinazioni, hotel pet-friendly inclusi.',
+  {
+    id: 'C', emoji: '🏛️', range: '11-14°C',
+    name: { en: 'Mild city and coast escapes', fr: 'Escapades douces, villes et côte', es: 'Escapadas templadas, ciudad y costa', pt: 'Escapadelas amenas, cidade e costa', de: 'Milde Stadt- und Küstenausflüge', nl: 'Milde stads- en kustuitjes', it: 'Fughe miti, città e costa' },
+    desc: {
+      en: 'Southern cities and Mediterranean islands where winter is cool but rarely freezing: better for sightseeing, terraces and long walks than for the beach.',
+      fr: `Villes du sud et îles méditerranéennes où l'hiver est frais mais rarement glacial : plutôt pour les visites, les terrasses et les longues balades que pour la plage.`,
+      es: 'Ciudades del sur e islas mediterráneas donde el invierno es fresco pero rara vez helado: más para visitas, terrazas y paseos largos que para la playa.',
+      pt: 'Cidades do sul e ilhas mediterrânicas onde o inverno é fresco mas raramente gélido: mais para visitas, esplanadas e longos passeios do que para a praia.',
+      de: 'Südliche Städte und Mittelmeerinseln, wo der Winter kühl, aber selten frostig ist: eher für Besichtigungen, Terrassen und lange Spaziergänge als für den Strand.',
+      nl: 'Zuidelijke steden en mediterrane eilanden waar de winter koel maar zelden vriezend is: meer voor bezichtigingen, terrassen en lange wandelingen dan voor het strand.',
+      it: `Città del sud e isole mediterranee dove l'inverno è fresco ma raramente gelido: più per visite, terrazze e lunghe passeggiate che per la spiaggia.`,
+    },
+  },
+]
+
+const TABLE = {
+  heading: {
+    en: 'Every winter-sun escape on the map, ranked by temperature',
+    fr: `Toutes les escapades au soleil d'hiver, classées par température`,
+    es: 'Todas las escapadas al sol de invierno, ordenadas por temperatura',
+    pt: 'Todas as escapadelas ao sol de inverno, ordenadas por temperatura',
+    de: 'Alle Wintersonne-Ziele, nach Temperatur sortiert',
+    nl: 'Alle wintersonbestemmingen, gerangschikt op temperatuur',
+    it: 'Tutte le fughe al sole invernale, ordinate per temperatura',
   },
   intro: {
-    en: 'Winter is where a dog-friendly Europe splits in two. If you want warmth, the Canary Islands and Madeira keep the coast near 21°C, warm enough to swim, while mainland Andalusia and the Algarve stay mild and empty. If you want snow, an Alpine thermal town or a historic city with mountains behind it does the job. These 11 destinations cover both, and every one links straight to its pet-friendly hotels.',
-    fr: `L'hiver partage l'Europe dog-friendly en deux. Pour de la chaleur, les îles Canaries et Madère maintiennent la côte proche de 21°C, assez chaud pour se baigner, tandis que l'Andalousie continentale et l'Algarve restent douces et désertes. Pour de la neige, une ville thermale alpine ou une cité historique adossée aux montagnes fait l'affaire. Ces 11 destinations couvrent les deux, et chacune renvoie directement vers ses hôtels pet-friendly.`,
-    es: 'El invierno parte en dos la Europa dog-friendly. Si quieres calor, las islas Canarias y Madeira mantienen la costa cerca de 21°C, lo bastante cálida para bañarse, mientras que la Andalucía continental y el Algarve siguen templados y vacíos. Si quieres nieve, un pueblo termal alpino o una ciudad histórica con montañas detrás cumplen. Estos 11 destinos cubren ambas cosas, y cada uno enlaza directo con sus hoteles pet-friendly.',
-    pt: 'O inverno divide em dois a Europa dog-friendly. Se quer calor, as ilhas Canárias e a Madeira mantêm a costa perto dos 21°C, quente que chegue para nadar, enquanto a Andaluzia continental e o Algarve se mantêm amenos e vazios. Se quer neve, uma vila termal alpina ou uma cidade histórica encostada às montanhas resolvem. Estes 11 destinos cobrem ambos, e cada um liga diretamente aos seus hotéis pet-friendly.',
-    de: 'Der Winter teilt das hundefreundliche Europa in zwei Teile. Wer Wärme sucht: Die Kanarischen Inseln und Madeira halten die Küste nahe 21°C, warm genug zum Schwimmen, während das andalusische Festland und die Algarve mild und leer bleiben. Wer Schnee sucht: Eine alpine Thermalstadt oder eine historische Stadt mit Bergen im Hintergrund erfüllt den Zweck. Diese 11 Ziele decken beides ab, und jedes führt direkt zu seinen haustierfreundlichen Hotels.',
-    nl: 'De winter splitst hondvriendelijk Europa in tweeën. Wil je warmte, dan houden de Canarische Eilanden en Madeira de kust rond de 21°C, warm genoeg om te zwemmen, terwijl het Andalusische vasteland en de Algarve mild en leeg blijven. Wil je sneeuw, dan doet een alpine thermale stad of een historische stad met bergen op de achtergrond het prima. Deze 11 bestemmingen dekken beide, en elke bestemming linkt direct naar zijn huisdiervriendelijke hotels.',
-    it: `L'inverno divide in due l'Europa pet-friendly. Se cerchi il caldo, le Canarie e Madeira tengono la costa vicino ai 21°C, abbastanza caldo per nuotare, mentre l'Andalusia continentale e l'Algarve restano miti e vuote. Se cerchi la neve, una cittadina termale alpina o una città storica con le montagne alle spalle fanno al caso tuo. Queste 11 destinazioni coprono entrambe le opzioni, e ognuna rimanda direttamente ai suoi hotel pet-friendly.`,
+    en: 'Forty destinations on HotelsWithPets stay warm enough to escape the northern grey, split into three tiers by their January average daily high (from our per-destination climate data). Warmth is not the whole story: dog-beach access, leash seasons and off-season closures change town by town, so open each destination guide before booking.',
+    fr: `Quarante destinations de HotelsWithPets restent assez douces pour fuir le gris du nord, réparties en trois paliers selon leur maximale moyenne de janvier (issue de nos données climatiques par destination). La chaleur ne fait pas tout : l'accès des chiens aux plages, les saisons de laisse et les fermetures hors saison varient d'une ville à l'autre, ouvrez donc chaque guide avant de réserver.`,
+    es: 'Cuarenta destinos de HotelsWithPets se mantienen lo bastante templados para huir del gris del norte, repartidos en tres niveles según su máxima media de enero (de nuestros datos climáticos por destino). El calor no lo es todo: el acceso canino a las playas, las temporadas de correa y los cierres de temporada baja cambian de un pueblo a otro, así que abre cada guía antes de reservar.',
+    pt: 'Quarenta destinos no HotelsWithPets mantêm-se suficientemente amenos para fugir do cinzento do norte, divididos em três níveis pela máxima média de janeiro (dos nossos dados climáticos por destino). O calor não é tudo: o acesso canino às praias, as épocas de trela e os encerramentos de época baixa mudam de terra para terra, por isso abra cada guia antes de reservar.',
+    de: 'Vierzig Ziele auf HotelsWithPets bleiben mild genug, um dem grauen Norden zu entkommen, aufgeteilt in drei Stufen nach ihrem durchschnittlichen Januar-Höchstwert (aus unseren Klimadaten je Ziel). Wärme ist nicht alles: Hundestrand-Zugang, Leinen-Saisons und Schließzeiten außerhalb der Saison ändern sich von Ort zu Ort, öffnen Sie also jeden Reiseführer vor der Buchung.',
+    nl: 'Veertig bestemmingen op HotelsWithPets blijven mild genoeg om aan het noordelijke grijs te ontsnappen, verdeeld over drie niveaus op basis van hun gemiddelde januari-maximum (uit onze klimaatgegevens per bestemming). Warmte is niet alles: toegang tot hondenstranden, aanlijnseizoenen en sluitingen buiten het seizoen verschillen per plaats, dus open elke gids voordat je boekt.',
+    it: `Quaranta destinazioni su HotelsWithPets restano abbastanza miti per sfuggire al grigio del nord, divise in tre livelli in base alla massima media di gennaio (dai nostri dati climatici per destinazione). Il caldo non è tutto: l'accesso dei cani alle spiagge, le stagioni di guinzaglio e le chiusure in bassa stagione cambiano da paese a paese, quindi apri ogni guida prima di prenotare.`,
+  },
+  colDest: { en: 'Destination', fr: 'Destination', es: 'Destino', pt: 'Destino', de: 'Reiseziel', nl: 'Bestemming', it: 'Destinazione' },
+  tempHead: { en: 'Avg daily high', fr: 'Max. moy./jour', es: 'Máx. media/día', pt: 'Máx. média/dia', de: 'Ø Tageshoch', nl: 'Gem. dagmax.', it: 'Max media/giorno' },
+  janAbbr: { en: 'Jan', fr: 'Janv', es: 'Ene', pt: 'Jan', de: 'Jan', nl: 'Jan', it: 'Gen' },
+  febAbbr: { en: 'Feb', fr: 'Févr', es: 'Feb', pt: 'Fev', de: 'Feb', nl: 'Feb', it: 'Feb' },
+}
+
+const T = {
+  title: {
+    en: 'Best Winter 2026-2027 Destinations to Travel With Your Dog',
+    fr: 'Meilleures destinations hiver 2026-2027 pour voyager avec son chien',
+    es: 'Mejores destinos de invierno 2026-2027 para viajar con tu perro',
+    pt: 'Melhores destinos de inverno 2026-2027 para viajar com o seu cão',
+    de: 'Die besten Winterziele 2026-2027 zum Reisen mit Ihrem Hund',
+    nl: 'De beste winterbestemmingen 2026-2027 om met je hond te reizen',
+    it: 'Le migliori destinazioni invernali 2026-2027 per viaggiare con il tuo cane',
+  },
+  metaTitle: {
+    en: 'Best Winter Destinations With a Dog 2026-2027: 40 Warm Escapes Ranked',
+    fr: 'Meilleures destinations d\'hiver avec son chien 2026-2027 : 40 escapades au chaud classées',
+    es: 'Mejores destinos de invierno con perro 2026-2027: 40 escapadas al calor clasificadas',
+    pt: 'Melhores destinos de inverno com cão 2026-2027: 40 escapadelas ao calor classificadas',
+    de: 'Beste Winterziele mit Hund 2026-2027: 40 warme Ziele im Ranking',
+    nl: 'Beste winterbestemmingen met hond 2026-2027: 40 warme escapes gerangschikt',
+    it: 'Migliori destinazioni invernali con il cane 2026-2027: 40 fughe al caldo in classifica',
+  },
+  metaDesc: {
+    en: 'Where to travel with your dog in winter 2026-2027: winter-sun Canary Islands near 21°C, the mild Andalusian, Algarve, Cyprus and Malta coasts, plus an Alpine thermal town. 40 warm escapes ranked by January temperature, pet-friendly hotels included.',
+    fr: 'Où voyager avec son chien en hiver 2026-2027 : îles Canaries au soleil proche de 21°C, côtes douces d\'Andalousie, de l\'Algarve, de Chypre et de Malte, plus une ville thermale alpine. 40 escapades au chaud classées par température de janvier, hôtels pet-friendly inclus.',
+    es: 'Dónde viajar con tu perro en invierno 2026-2027: islas Canarias con sol cerca de 21°C, costas templadas de Andalucía, el Algarve, Chipre y Malta, y un pueblo termal alpino. 40 escapadas al calor ordenadas por temperatura de enero, hoteles pet-friendly incluidos.',
+    pt: 'Onde viajar com o seu cão no inverno 2026-2027: ilhas Canárias com sol perto dos 21°C, costas amenas da Andaluzia, do Algarve, de Chipre e de Malta, e uma vila termal alpina. 40 escapadelas ao calor ordenadas pela temperatura de janeiro, hotéis pet-friendly incluídos.',
+    de: 'Wohin mit dem Hund im Winter 2026-2027 reisen: Wintersonne auf den Kanaren nahe 21°C, milde Küsten von Andalusien, Algarve, Zypern und Malta, plus eine alpine Thermalstadt. 40 warme Ziele nach Januar-Temperatur sortiert, haustierfreundliche Hotels inklusive.',
+    nl: 'Waar je in de winter 2026-2027 met je hond naartoe kunt: wintersonzon op de Canarische Eilanden nabij 21°C, de milde kusten van Andalusië, de Algarve, Cyprus en Malta, plus een alpine thermale stad. 40 warme escapes gerangschikt op januari-temperatuur, huisdiervriendelijke hotels inbegrepen.',
+    it: 'Dove viaggiare con il tuo cane nell\'inverno 2026-2027: sole invernale sulle Canarie vicino ai 21°C, le miti coste di Andalusia, Algarve, Cipro e Malta, più una cittadina termale alpina. 40 fughe al caldo ordinate per temperatura di gennaio, hotel pet-friendly inclusi.',
+  },
+  intro: {
+    en: 'Winter is where a dog-friendly Europe splits in two. If you want warmth, the Canary Islands and Madeira keep the coast near 21°C, warm enough to swim, while mainland Andalusia, the Algarve, Cyprus and Malta stay mild and empty. If you want snow, an Alpine thermal town or a historic city with mountains behind it does the job. Eleven hand-picked destinations below go deep, then a full index ranks 40 warm escapes by January temperature, and every one links straight to its pet-friendly hotels.',
+    fr: `L'hiver partage l'Europe dog-friendly en deux. Pour de la chaleur, les îles Canaries et Madère maintiennent la côte proche de 21°C, assez chaud pour se baigner, tandis que l'Andalousie continentale, l'Algarve, Chypre et Malte restent douces et désertes. Pour de la neige, une ville thermale alpine ou une cité historique adossée aux montagnes fait l'affaire. Onze destinations sélectionnées ci-dessous sont détaillées, puis un index complet classe 40 escapades au chaud par température de janvier, et chacune renvoie directement vers ses hôtels pet-friendly.`,
+    es: 'El invierno parte en dos la Europa dog-friendly. Si quieres calor, las islas Canarias y Madeira mantienen la costa cerca de 21°C, lo bastante cálida para bañarse, mientras que la Andalucía continental, el Algarve, Chipre y Malta siguen templados y vacíos. Si quieres nieve, un pueblo termal alpino o una ciudad histórica con montañas detrás cumplen. Once destinos seleccionados abajo van al detalle, luego un índice completo ordena 40 escapadas al calor por temperatura de enero, y cada uno enlaza directo con sus hoteles pet-friendly.',
+    pt: 'O inverno divide em dois a Europa dog-friendly. Se quer calor, as ilhas Canárias e a Madeira mantêm a costa perto dos 21°C, quente que chegue para nadar, enquanto a Andaluzia continental, o Algarve, Chipre e Malta se mantêm amenos e vazios. Se quer neve, uma vila termal alpina ou uma cidade histórica encostada às montanhas resolvem. Onze destinos escolhidos abaixo vão ao detalhe, depois um índice completo ordena 40 escapadelas ao calor pela temperatura de janeiro, e cada um liga diretamente aos seus hotéis pet-friendly.',
+    de: 'Der Winter teilt das hundefreundliche Europa in zwei Teile. Wer Wärme sucht: Die Kanarischen Inseln und Madeira halten die Küste nahe 21°C, warm genug zum Schwimmen, während das andalusische Festland, die Algarve, Zypern und Malta mild und leer bleiben. Wer Schnee sucht: Eine alpine Thermalstadt oder eine historische Stadt mit Bergen im Hintergrund erfüllt den Zweck. Elf handverlesene Ziele unten gehen in die Tiefe, dann sortiert ein vollständiger Index 40 warme Ziele nach Januar-Temperatur, und jedes führt direkt zu seinen haustierfreundlichen Hotels.',
+    nl: 'De winter splitst hondvriendelijk Europa in tweeën. Wil je warmte, dan houden de Canarische Eilanden en Madeira de kust rond de 21°C, warm genoeg om te zwemmen, terwijl het Andalusische vasteland, de Algarve, Cyprus en Malta mild en leeg blijven. Wil je sneeuw, dan doet een alpine thermale stad of een historische stad met bergen op de achtergrond het prima. Elf geselecteerde bestemmingen hieronder gaan de diepte in, daarna rangschikt een volledige index 40 warme escapes op januari-temperatuur, en elke bestemming linkt direct naar zijn huisdiervriendelijke hotels.',
+    it: `L'inverno divide in due l'Europa pet-friendly. Se cerchi il caldo, le Canarie e Madeira tengono la costa vicino ai 21°C, abbastanza caldo per nuotare, mentre l'Andalusia continentale, l'Algarve, Cipro e Malta restano miti e vuote. Se cerchi la neve, una cittadina termale alpina o una città storica con le montagne alle spalle fanno al caso tuo. Undici destinazioni selezionate qui sotto sono approfondite, poi un indice completo classifica 40 fughe al caldo per temperatura di gennaio, e ognuna rimanda direttamente ai suoi hotel pet-friendly.`,
   },
   janTemp: { en: 'Jan avg high', fr: 'Max moy. janv.', es: 'Máx. prom. ene.', pt: 'Máx. méd. jan.', de: 'Ø Höchstwert Jan.', nl: 'Gem. max. jan.', it: 'Max media gen.' },
   seeHotels: { en: 'See pet-friendly hotels', fr: 'Voir les hôtels pet-friendly', es: 'Ver hoteles pet-friendly', pt: 'Ver hotéis pet-friendly', de: 'Haustierfreundliche Hotels ansehen', nl: 'Bekijk huisdiervriendelijke hotels', it: 'Vedi gli hotel pet-friendly' },
@@ -439,6 +554,10 @@ export default async function WinterDestinationsPage({
   if (!hasLocale(locale)) notFound()
 
   const allDests = THEMES.flatMap((t) => t.destinations)
+  const ldDests = [
+    ...allDests.map((d) => ({ slug: d.slug, name: d.name })),
+    ...WARM_INDEX.filter((w) => !allDests.some((d) => d.slug === w.slug)).map((w) => ({ slug: w.slug, name: w.name })),
+  ]
 
   const breadcrumbLd = {
     '@context': 'https://schema.org',
@@ -464,8 +583,8 @@ export default async function WinterDestinationsPage({
   const itemListLd = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
-    numberOfItems: allDests.length,
-    itemListElement: allDests.map((d, i) => ({
+    numberOfItems: ldDests.length,
+    itemListElement: ldDests.map((d, i) => ({
       '@type': 'ListItem',
       position: i + 1,
       url: `${SITE_URL}/${locale}/destinations/${d.slug}`,
@@ -623,6 +742,55 @@ export default async function WinterDestinationsPage({
             </div>
           </section>
         ))}
+
+        {/* Comprehensive winter-warmth index */}
+        <section id="warm-index" className="scroll-mt-20">
+          <div className="flex items-start gap-3 mb-4 pb-4 border-b border-gray-100">
+            <span className="text-4xl leading-none">🌡️</span>
+            <h2 className="text-2xl font-extrabold text-gray-900">{p(TABLE.heading, locale)}</h2>
+          </div>
+          <p className="text-gray-600 text-sm leading-relaxed mb-8 max-w-3xl">{p(TABLE.intro, locale)}</p>
+
+          <div className="space-y-8">
+            {TIER_META.map((tier) => (
+              <div key={tier.id}>
+                <div className="flex items-center flex-wrap gap-2 mb-1">
+                  <span className="text-xl leading-none">{tier.emoji}</span>
+                  <h3 className="text-lg font-bold text-gray-900">{p(tier.name, locale)}</h3>
+                  <span className="text-xs font-bold text-cyan-700 bg-cyan-50 px-2 py-0.5 rounded-full tabular-nums">{tier.range}</span>
+                </div>
+                <p className="text-gray-600 text-sm leading-relaxed mb-3 max-w-3xl">{p(tier.desc, locale)}</p>
+                <div className="overflow-hidden rounded-2xl border border-gray-100">
+                  <table className="w-full text-sm">
+                    <thead>
+                      <tr className="bg-gray-50 text-gray-500 text-xs uppercase tracking-wide">
+                        <th className="text-left font-semibold px-4 py-2.5">{p(TABLE.colDest, locale)}</th>
+                        <th className="text-right font-semibold px-3 py-2.5">{p(TABLE.janAbbr, locale)}</th>
+                        <th className="text-right font-semibold px-4 py-2.5">{p(TABLE.febAbbr, locale)}</th>
+                      </tr>
+                    </thead>
+                    <tbody className="divide-y divide-gray-100">
+                      {WARM_INDEX.filter((w) => w.tier === tier.id).map((w) => (
+                        <tr key={w.slug} className="hover:bg-cyan-50/50 transition-colors">
+                          <td className="px-4 py-3">
+                            <Link href={`/${locale}/destinations/${w.slug}`} className="flex items-center gap-2 font-semibold text-gray-900 hover:text-cyan-700 transition-colors">
+                              <span aria-hidden="true">{w.flag}</span>
+                              <span>{getLocalizedCityName(w.slug, w.name, locale)}</span>
+                              <span aria-hidden="true" className="text-gray-300">→</span>
+                            </Link>
+                          </td>
+                          <td className="px-3 py-3 text-right font-bold text-gray-900 tabular-nums">{w.jan}°</td>
+                          <td className="px-4 py-3 text-right text-gray-600 tabular-nums">{w.feb}°</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            ))}
+          </div>
+          <p className="text-xs text-gray-400 mt-3">{p(TABLE.tempHead, locale)} · °C</p>
+        </section>
 
         {/* Sibling guides */}
         <section className="bg-slate-50 border border-blue-100 rounded-3xl p-8">

@@ -151,6 +151,35 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
           </section>
         )
       })()}
+      {(() => {
+        const WHOME: Record<string, { kicker: string; title: string; desc: string; cta: string }> = {
+          en: { kicker: 'WINTER SUN WITH YOUR DOG', title: 'Where dogs still get beach weather this winter', desc: '40 warm European escapes ranked by January and February temperature: dog beaches open, mild days, verified pet-friendly hotels. Plan your 2026-2027 winter getaway.', cta: 'Open the winter-sun hub →' },
+          fr: { kicker: `SOLEIL D'HIVER AVEC SON CHIEN`, title: 'Où votre chien profite encore de la plage cet hiver', desc: `40 escapades européennes au chaud classées par température de janvier et février : plages canines ouvertes, journées douces, hôtels pet-friendly vérifiés. Préparez votre hiver 2026-2027.`, cta: `Ouvrir le hub soleil d'hiver →` },
+          es: { kicker: 'SOL DE INVIERNO CON TU PERRO', title: 'Dónde tu perro aún disfruta de la playa este invierno', desc: '40 escapadas europeas cálidas ordenadas por temperatura de enero y febrero: playas caninas abiertas, días suaves, hoteles pet-friendly verificados. Planifica tu invierno 2026-2027.', cta: 'Abrir el hub de sol invernal →' },
+          pt: { kicker: 'SOL DE INVERNO COM O SEU CÃO', title: 'Onde o seu cão ainda aproveita a praia neste inverno', desc: '40 escapadelas europeias quentes ordenadas por temperatura de janeiro e fevereiro: praias caninas abertas, dias amenos, hotéis pet-friendly verificados. Planeie o seu inverno 2026-2027.', cta: 'Abrir o hub de sol de inverno →' },
+          de: { kicker: 'WINTERSONNE MIT HUND', title: 'Wo Ihr Hund diesen Winter noch Strandwetter hat', desc: '40 warme Reiseziele in Europa nach Januar- und Februar-Temperatur sortiert: geöffnete Hundestrände, milde Tage, geprüfte haustierfreundliche Hotels. Planen Sie Ihren Winter 2026-2027.', cta: 'Zum Wintersonne-Hub →' },
+          nl: { kicker: 'WINTERZON MET JE HOND', title: 'Waar je hond deze winter nog strandweer heeft', desc: '40 warme Europese bestemmingen gerangschikt op januari- en februari-temperatuur: open hondenstranden, zachte dagen, geverifieerde huisdiervriendelijke hotels. Plan je winter 2026-2027.', cta: 'Open de winterzon-hub →' },
+          it: { kicker: 'SOLE INVERNALE CON IL TUO CANE', title: 'Dove il tuo cane gode ancora della spiaggia questo inverno', desc: `40 fughe europee al caldo ordinate per temperatura di gennaio e febbraio: spiagge per cani aperte, giornate miti, hotel pet-friendly verificati. Pianifica il tuo inverno 2026-2027.`, cta: `Apri l'hub sole invernale →` },
+        }
+        const w = WHOME[locale] ?? WHOME.en
+        return (
+          <section className="bg-gradient-to-br from-sky-600 to-cyan-700 text-white">
+            <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex flex-col sm:flex-row sm:items-center gap-5">
+              <div className="flex-1">
+                <p className="text-xs font-bold uppercase tracking-widest text-sky-200 mb-1">☀️ {w.kicker}</p>
+                <h2 className="text-xl lg:text-2xl font-extrabold leading-tight mb-1">{w.title}</h2>
+                <p className="text-sky-50 text-sm leading-relaxed max-w-2xl">{w.desc}</p>
+              </div>
+              <Link
+                href={`/${locale}/guides/winter-destinations-with-dog-2026`}
+                className="flex-shrink-0 inline-block bg-white text-sky-700 font-bold px-6 py-3 rounded-full hover:bg-sky-50 transition-colors shadow-lg text-center"
+              >
+                {w.cta}
+              </Link>
+            </div>
+          </section>
+        )
+      })()}
       <CategoryGrid locale={locale as Locale} dict={dict} />
       <HowItWorks dict={dict} locale={locale} />
       <TopHotels locale={locale as Locale} />

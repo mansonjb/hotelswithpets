@@ -23,6 +23,19 @@ type DestWithWeather = typeof destinations[number] & {
   weather?: Record<string, { temp: number; desc: string; icon: string }>
 }
 
+// Winter-sun "warm escape" destinations. These get an inbound contextual link
+// to the 2026-2027 winter hub, to capture counter-seasonal demand as summer
+// beach traffic falls off (Oct onward). Slugs mirror WARM_INDEX in the hub page.
+const WINTER_HUB_SLUG = 'winter-destinations-with-dog-2026'
+const WARM_ESCAPE_SLUGS = new Set<string>([
+  'tenerife', 'gran-canaria', 'fuerteventura', 'lanzarote', 'las-palmas', 'maspalomas',
+  'nerja', 'fuengirola', 'mojacar', 'paphos', 'limassol', 'larnaca', 'funchal', 'portimao',
+  'estepona', 'benidorm', 'sliema', 'lagos', 'malaga', 'marbella', 'seville', 'cadiz',
+  'tarifa', 'almeria', 'albufeira', 'faro', 'tavira', 'valencia', 'alicante', 'calpe',
+  'denia', 'palermo', 'taormina', 'cefalu', 'catania', 'valletta', 'chania', 'heraklion',
+  'athens', 'sitges',
+])
+
 // On-demand ISR rendering to reduce build output file count (same fix as
 // hotels/[slug] and [destination]/[category]: this is the exact route family
 // the daily hwp-ship-city-16h cron touches, was rebuilding all 377
@@ -345,6 +358,37 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
               </div>
             </div>
           </div>
+        )
+      })()}
+
+      {/* ── Winter-sun callout: warm destinations link to the 2026-2027 winter hub ── */}
+      {WARM_ESCAPE_SLUGS.has(slug) && (() => {
+        const WCOPY: Record<string, { kicker: string; title: string; desc: string; cta: string }> = {
+          en: { kicker: 'WINTER SUN', title: `${localizedName} is a winter-sun escape for your dog`, desc: 'Mild January and February, dog beaches still open while the rest of Europe shivers. Compare 40 warm destinations by temperature in our winter hub.', cta: 'See the 2026-2027 winter-sun hub →' },
+          fr: { kicker: `SOLEIL D'HIVER`, title: `${localizedName}, une escapade soleil d'hiver avec votre chien`, desc: `Janvier et février doux, plages canines encore ouvertes pendant que le reste de l'Europe grelotte. Comparez 40 destinations chaudes par température dans notre hub hiver.`, cta: `Voir le hub soleil d'hiver 2026-2027 →` },
+          es: { kicker: 'SOL DE INVIERNO', title: `${localizedName}, una escapada de sol invernal con tu perro`, desc: 'Enero y febrero suaves, playas caninas aún abiertas mientras el resto de Europa tirita. Compara 40 destinos cálidos por temperatura en nuestro hub de invierno.', cta: 'Ver el hub de sol invernal 2026-2027 →' },
+          pt: { kicker: 'SOL DE INVERNO', title: `${localizedName}, uma escapadela de sol de inverno com o seu cão`, desc: 'Janeiro e fevereiro amenos, praias caninas ainda abertas enquanto o resto da Europa treme de frio. Compare 40 destinos quentes por temperatura no nosso hub de inverno.', cta: 'Ver o hub de sol de inverno 2026-2027 →' },
+          de: { kicker: 'WINTERSONNE', title: `${localizedName}: Wintersonne für Ihren Hund`, desc: 'Milde Januar- und Februartage, Hundestrände noch geöffnet, während der Rest Europas friert. Vergleichen Sie 40 warme Reiseziele nach Temperatur in unserem Winter-Hub.', cta: 'Zum Wintersonne-Hub 2026-2027 →' },
+          nl: { kicker: 'WINTERZON', title: `${localizedName}: winterzon voor je hond`, desc: 'Zachte januari en februari, hondenstranden nog open terwijl de rest van Europa rilt. Vergelijk 40 warme bestemmingen op temperatuur in onze winterhub.', cta: 'Bekijk de winterzon-hub 2026-2027 →' },
+          it: { kicker: 'SOLE INVERNALE', title: `${localizedName}, una fuga al sole d'inverno con il tuo cane`, desc: `Gennaio e febbraio miti, spiagge per cani ancora aperte mentre il resto d'Europa trema di freddo. Confronta 40 destinazioni calde per temperatura nel nostro hub invernale.`, cta: `Vedi l'hub sole invernale 2026-2027 →` },
+        }
+        const wc = WCOPY[locale] ?? WCOPY.en
+        return (
+          <section className="bg-gradient-to-br from-sky-600 to-cyan-700 text-white">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex flex-col sm:flex-row sm:items-center gap-4">
+              <div className="flex-1">
+                <p className="text-xs font-bold uppercase tracking-widest text-sky-200 mb-1">☀️ {wc.kicker}</p>
+                <h2 className="text-lg lg:text-xl font-extrabold leading-tight mb-1">{wc.title}</h2>
+                <p className="text-sky-50 text-sm leading-relaxed max-w-2xl">{wc.desc}</p>
+              </div>
+              <Link
+                href={`/${locale}/guides/${WINTER_HUB_SLUG}`}
+                className="flex-shrink-0 inline-block bg-white text-sky-700 font-bold px-5 py-2.5 rounded-full hover:bg-sky-50 transition-colors shadow-lg text-center text-sm"
+              >
+                {wc.cta}
+              </Link>
+            </div>
+          </section>
         )
       })()}
 

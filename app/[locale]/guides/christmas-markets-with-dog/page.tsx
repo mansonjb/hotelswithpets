@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
@@ -77,6 +78,7 @@ export async function generateMetadata({
 
 type Pick = {
   slug: string
+  imgSlug?: string
   name: string
   country: string
   destPath: string
@@ -211,6 +213,7 @@ const PICKS: Pick[] = [
   },
   {
     slug: 'strasbourg',
+    imgSlug: 'colmar',
     name: 'Colmar (Strasbourg day trip)',
     country: 'France',
     destPath: '/destinations/strasbourg',
@@ -608,18 +611,22 @@ export default async function Page({
         <div className="space-y-5">
           {PICKS.map((p, i) => (
             <article key={`${p.slug}-${i}`} className="bg-white rounded-2xl border border-stone-200 overflow-hidden">
-              <header className="px-5 sm:px-7 py-4 bg-gradient-to-r from-red-50 to-emerald-50 border-b border-stone-200">
-                <div className="flex flex-wrap items-baseline gap-x-4 gap-y-1">
-                  <span className="text-2xl font-black text-red-800">#{i + 1}</span>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                    <Link href={`/${locale}${p.destPath}`} className="hover:text-red-700">{p.name}</Link>
-                  </h3>
-                  <span className="text-sm text-stone-600">{p.country}</span>
-                  <span className="ml-auto bg-red-100 text-red-900 text-xs font-bold px-3 py-1 rounded-full">
-                    {p.dates}
-                  </span>
+              <Link href={`/${locale}${p.destPath}`} className="relative block h-44 sm:h-52 group">
+                <Image
+                  src={`/images/destinations/${p.imgSlug ?? p.slug}.jpg`}
+                  alt={p.name}
+                  fill
+                  sizes="(max-width: 768px) 100vw, 720px"
+                  className="object-cover group-hover:scale-[1.02] transition-transform duration-300"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-transparent pointer-events-none" />
+                <span className="absolute top-3 left-3 w-9 h-9 rounded-full bg-white/90 text-red-800 text-sm font-black flex items-center justify-center shadow">#{i + 1}</span>
+                <span className="absolute top-3 right-3 bg-red-700/90 text-white text-xs font-bold px-3 py-1 rounded-full shadow">{p.dates}</span>
+                <div className="absolute bottom-0 inset-x-0 p-4 sm:p-5">
+                  <h3 className="text-white text-xl sm:text-2xl font-extrabold leading-tight drop-shadow group-hover:underline underline-offset-4">{p.name}</h3>
+                  <span className="text-white/85 text-sm drop-shadow">{p.country}</span>
                 </div>
-              </header>
+              </Link>
               <div className="px-5 sm:px-7 py-5 space-y-3">
                 <div>
                   <div className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-1">{t.whyHere}</div>

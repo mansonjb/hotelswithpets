@@ -3451,6 +3451,130 @@
     "slug": "hotel-la-muette"
   },
   {
+    "id": "asheville-1",
+    "slug": "kimpton-hotel-arras-asheville",
+    "name": "Kimpton Hotel Arras",
+    "destinationSlug": "asheville",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 900,
+    "priceFrom": 189,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Kimpton%20Hotel%20Arras%20Asheville",
+    "petFee": 0,
+    "petPolicy": "Kimpton's signature pet policy applies: dogs and cats stay free with no pet fee, no deposit and no size, weight or number limit. The downtown location lends bowls and beds, and a local pet shop stocks the welcome amenities. Please confirm details with the property when booking.",
+    "address": "7 Patton Avenue, Asheville, NC 28801",
+    "neighborhood": "Downtown, on Pack Square",
+    "highlights": [
+      "No pet fee, no size or weight limit (dogs and cats)",
+      "Downtown, walkable to dog-friendly patios and breweries",
+      "Complimentary bowls, beds and treats"
+    ]
+  },
+  {
+    "id": "asheville-2",
+    "slug": "aloft-asheville-downtown",
+    "name": "Aloft Asheville Downtown",
+    "destinationSlug": "asheville",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 9.1,
+    "reviewCount": 1200,
+    "priceFrom": 139,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Aloft%20Asheville%20Downtown",
+    "petFee": 0,
+    "petPolicy": "Two pets of any size stay free under Aloft's ARF programme, which includes a complimentary bed, bowl and treat bag. There is a rooftop dog-walk area on site, and the central Biltmore Avenue address is walkable to South Slope breweries. Please confirm details with the property when booking.",
+    "address": "51 Biltmore Avenue, Asheville, NC 28801",
+    "neighborhood": "Downtown, near South Slope",
+    "highlights": [
+      "Two pets of any size, no pet fee",
+      "Rooftop dog-walk area on site",
+      "Walkable to South Slope breweries and patios"
+    ]
+  },
+  {
+    "id": "asheville-3",
+    "slug": "hampton-inn-suites-asheville-biltmore-village",
+    "name": "Hampton Inn & Suites Asheville Biltmore Village",
+    "destinationSlug": "asheville",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.9,
+    "reviewCount": 700,
+    "priceFrom": 149,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hampton%20Inn%20Suites%20Asheville%20Biltmore%20Village",
+    "petFee": 75,
+    "petPolicy": "Up to two dogs of up to about 34 kg (75 lb) each are welcome for a pet fee of around 75 USD per stay. The Biltmore Village setting puts you within a short drive of the Biltmore Estate and walking distance of the village's outdoor-seating restaurants. Please confirm the current fee and terms with the property when booking.",
+    "address": "117 Hendersonville Road, Asheville, NC 28803",
+    "neighborhood": "Biltmore Village",
+    "highlights": [
+      "Two dogs up to ~34 kg, ~75 USD per stay",
+      "Short drive to the Biltmore Estate grounds",
+      "Walkable to Biltmore Village patios"
+    ]
+  },
+  {
+    "id": "asheville-4",
+    "slug": "home2-suites-asheville-biltmore-village",
+    "name": "Home2 Suites by Hilton Asheville Biltmore Village",
+    "destinationSlug": "asheville",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 500,
+    "priceFrom": 145,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Home2%20Suites%20Asheville%20Biltmore%20Village",
+    "petFee": 75,
+    "petPolicy": "Two dogs are welcome, with a pet fee of around 75 USD for stays of one to four nights and about 125 USD for longer stays. The all-suite layout with kitchenettes suits longer dog stays, and the Biltmore Village location is minutes from the estate. Please confirm the current fee and terms with the property when booking.",
+    "address": "61 Thompson Street, Asheville, NC 28803",
+    "neighborhood": "Biltmore Village",
+    "highlights": [
+      "All-suite kitchenettes, good for longer stays",
+      "Minutes from the Biltmore Estate",
+      "Two dogs welcome (fee by length of stay)"
+    ]
+  },
+  {
+    "id": "asheville-5",
+    "slug": "red-roof-inn-asheville-biltmore-west",
+    "name": "Red Roof Inn Asheville - Biltmore West",
+    "destinationSlug": "asheville",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 2,
+    "rating": 7,
+    "reviewCount": 400,
+    "priceFrom": 79,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Red%20Roof%20Inn%20Asheville%20Biltmore%20West",
+    "petFee": 0,
+    "petPolicy": "One well-behaved dog or cat of up to about 36 kg (80 lb) stays free; a second pet is around 15 USD per night. This is the reliable budget pick west of the river, with easy road access to trails and the Blue Ridge Parkway. Please confirm details with the property when booking.",
+    "address": "16 Crowell Road, Asheville, NC 28806",
+    "neighborhood": "West Asheville / Biltmore West",
+    "highlights": [
+      "One dog or cat stays free (budget pick)",
+      "Easy road access to trails and the Parkway",
+      "Cats explicitly welcome"
+    ]
+  },
+  {
     "id": "athens-1",
     "name": "Hotel Grande Bretagne",
     "destinationSlug": "athens",
@@ -15360,6 +15484,131 @@
     ]
   },
   {
+    "id": "charleston-1",
+    "slug": "wentworth-mansion-charleston",
+    "name": "Wentworth Mansion",
+    "destinationSlug": "charleston",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 900,
+    "priceFrom": 380,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Wentworth%20Mansion%20Charleston",
+    "petFee": 40,
+    "petPolicy": "Up to two dogs of any size are welcome for 40$ per pet, per night. The ground-floor garden rooms have direct outside access for bathroom breaks, making this Gilded Age mansion a genuinely easy luxury stay with a dog. Please confirm details with the property when booking.",
+    "address": "149 Wentworth Street, Charleston, SC 29401",
+    "neighborhood": "Historic District, near King Street",
+    "highlights": [
+      "Gilded Age mansion in the Historic District",
+      "Two dogs of any size welcome, 40$ per pet per night",
+      "Ground-floor garden rooms with direct outside access"
+    ]
+  },
+  {
+    "id": "charleston-2",
+    "slug": "grand-bohemian-hotel-charleston",
+    "name": "Grand Bohemian Hotel Charleston",
+    "destinationSlug": "charleston",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9,
+    "reviewCount": 1500,
+    "priceFrom": 320,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Grand%20Bohemian%20Hotel%20Charleston",
+    "petFee": 150,
+    "petPolicy": "One dog of any size is welcome for 150$ per stay (two dogs for 200$ per stay). An arts-themed luxury hotel steps from the Historic District and King Street. Please confirm details with the property when booking.",
+    "address": "55 Wentworth Street, Charleston, SC 29401",
+    "neighborhood": "Historic District, off King Street",
+    "highlights": [
+      "Arts-themed luxury hotel off King Street",
+      "Dogs of any size welcome (150$ per stay)",
+      "Rooftop bar and central Historic District location"
+    ]
+  },
+  {
+    "id": "charleston-3",
+    "slug": "the-ryder-hotel-charleston",
+    "name": "The Ryder Hotel",
+    "destinationSlug": "charleston",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 1300,
+    "priceFrom": 240,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=The%20Ryder%20Hotel%20Charleston",
+    "petFee": 150,
+    "petPolicy": "Dogs up to 40 lbs (about 18 kg) are welcome for a 150$ cleaning fee per stay, with complimentary organic dog treats made by the pastry chef. A lively boutique hotel with a pool and central location. Please confirm details with the property when booking.",
+    "address": "237 Meeting Street, Charleston, SC 29401",
+    "neighborhood": "Central, near the City Market",
+    "highlights": [
+      "Lively boutique hotel with a pool",
+      "Dogs up to 40 lbs welcome, chef-made dog treats",
+      "Central location near the City Market"
+    ]
+  },
+  {
+    "id": "charleston-4",
+    "slug": "hyatt-house-charleston-historic-district",
+    "name": "Hyatt House Charleston / Historic District",
+    "destinationSlug": "charleston",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 2000,
+    "priceFrom": 210,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hyatt%20House%20Charleston%20Historic%20District",
+    "petFee": 75,
+    "petPolicy": "Dogs up to 50 lbs (or two dogs up to 75 lbs combined) are welcome for a 75$ fee per stay. An all-suite hotel with kitchens, handy for families and longer stays near upper King Street. Please confirm details with the property when booking.",
+    "address": "560 King Street, Charleston, SC 29403",
+    "neighborhood": "Upper King Street",
+    "highlights": [
+      "All-suite hotel with kitchens, good for longer stays",
+      "Dogs up to 50 lbs welcome (75$ per stay)",
+      "Walkable upper King Street location"
+    ]
+  },
+  {
+    "id": "charleston-5",
+    "slug": "hampton-inn-charleston-historic-district",
+    "name": "Hampton Inn Charleston / Historic District",
+    "destinationSlug": "charleston",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.6,
+    "reviewCount": 2400,
+    "priceFrom": 180,
+    "currency": "USD",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hampton%20Inn%20Charleston%20Historic%20District",
+    "petFee": 75,
+    "petPolicy": "Up to two pets up to 75 lbs are welcome for 75$ (stays of 1-4 nights) or 125$ for longer stays. A reliable, well-located base in a converted historic building near the City Market. Please confirm details with the property when booking.",
+    "address": "345 Meeting Street, Charleston, SC 29403",
+    "neighborhood": "Near the City Market and Visitor Center",
+    "highlights": [
+      "Reliable base in a converted historic building",
+      "Two pets up to 75 lbs welcome",
+      "Steps from the City Market and Visitor Center"
+    ]
+  },
+  {
     "id": "chicago-1",
     "name": "Kimpton Hotel Monaco Chicago",
     "destinationSlug": "chicago",
@@ -15487,6 +15736,200 @@
       "Pet-friendly with verified Booking.com policy",
       "Free pet stay",
       "4-star comfort"
+    ]
+  },
+  {
+    "id": "cinque-terre-1",
+    "slug": "casa-chiocconi-cinque-terre",
+    "name": "Casa Chiocconi",
+    "destinationSlug": "cinque-terre",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 311,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/casa-chiocconi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Great location - show map",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "cinque-terre-2",
+    "slug": "grand-hotel-portovenere-cinque-terre",
+    "name": "Grand Hotel Portovenere",
+    "destinationSlug": "cinque-terre",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 324,
+    "priceFrom": 84,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/grand-portovenere.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Via Garibaldi 5, 19025 Portovenere, ItalyExcellent location — rated 9.7/10!(score from 321 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Private parking",
+      "Spa & wellness centre",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "cinque-terre-3",
+    "slug": "golfo-dei-poeti-relais-spa-cinque-terre",
+    "name": "Golfo dei Poeti Relais & Spa",
+    "destinationSlug": "cinque-terre",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 105,
+    "priceFrom": 116,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/golfo-dei-poeti-relais.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Via Don Calisto dei Marchi 38 , 19031 Ameglia, ItalyExcellent location — rated 9.2/10!(score from 103 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Spa & wellness centre"
+    ]
+  },
+  {
+    "id": "cinque-terre-4",
+    "slug": "casa-di-annalisa-cinque-terre",
+    "name": "Casa di Annalisa",
+    "destinationSlug": "cinque-terre",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 10,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/casa-di-annalisa-la-spezia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Great location - show map",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "cinque-terre-5",
+    "slug": "traveller-house-cinque-terre",
+    "name": "Traveller House",
+    "destinationSlug": "cinque-terre",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 27,
+    "priceFrom": 119,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/traveller-house.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Great location - show map",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "cinque-terre-6",
+    "slug": "i-tibei-affittacamere-cinque-terre",
+    "name": "I Tibei Affittacamere",
+    "destinationSlug": "cinque-terre",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.8,
+    "reviewCount": 502,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/i-tibei-guesthouse.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Via Padre Semeria 9, 19016 Monterosso al Mare, ItalyExcellent location — rated 10/10!(score from 498 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms",
+      "Terrace"
+    ]
+  },
+  {
+    "id": "cinque-terre-7",
+    "slug": "affittacamere-lo-scoglio-cinque-terre",
+    "name": "Affittacamere Lo Scoglio",
+    "destinationSlug": "cinque-terre",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access"
+    ],
+    "stars": 4,
+    "rating": 9.8,
+    "reviewCount": 345,
+    "priceFrom": 87,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/affittacamere-lo-scoglio.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Via IV Novembre N. 3 (Check-in at Via Padre Semeria 9, Monterosso), 19016 Monterosso al Mare, ItalyExcellent location — rated 9.9/10!(score from 342 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free WiFi",
+      "Beachfront",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "cinque-terre-8",
+    "slug": "al-mare-affittacamere-cinque-terre",
+    "name": "Al mare Affittacamere",
+    "destinationSlug": "cinque-terre",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.8,
+    "reviewCount": 295,
+    "priceFrom": 103,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/al-mare-monterosso-al-mare.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "72 Via Fegina (check-in at Via Padre Semeria 9), 19016 Monterosso al Mare, ItalyExcellent location — rated 10/10!(score from 292 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms"
     ]
   },
   {
@@ -17632,6 +18075,131 @@
     "petPolicyFr": "Chiens et chats bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
     "petPolicyEs": "Perros y gatos bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
     "petPolicyPt": "Cães e gatos bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar."
+  },
+  {
+    "id": "deauville-1",
+    "slug": "hotel-barriere-le-normandy-deauville",
+    "name": "Hôtel Barrière Le Normandy Deauville",
+    "destinationSlug": "deauville",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 2100,
+    "priceFrom": 450,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Barriere%20Le%20Normandy%20Deauville",
+    "petFee": 20,
+    "petPolicy": "One dog of any size is welcome for 20€ per night. This iconic half-timbered landmark facing the sea is genuinely dog-friendly; cats are not accepted. Please confirm details with the property when booking.",
+    "address": "38 Rue Jean Mermoz, 14800 Deauville",
+    "neighborhood": "Town centre, steps from the beach and Planches",
+    "highlights": [
+      "Iconic half-timbered palace hotel facing the sea",
+      "One dog of any size welcome for 20€ per night",
+      "Walking distance to the Planches, casino and marina"
+    ]
+  },
+  {
+    "id": "deauville-2",
+    "slug": "hotel-barriere-le-royal-deauville",
+    "name": "Hôtel Barrière Le Royal Deauville",
+    "destinationSlug": "deauville",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1600,
+    "priceFrom": 390,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Barriere%20Le%20Royal%20Deauville",
+    "petFee": 20,
+    "petPolicy": "Dogs of any size are welcome for 20€ per pet, per night, and more than one pet is accepted. A Belle Époque palace hotel overlooking the sea and the conference centre. Please confirm details with the property when booking.",
+    "address": "Boulevard Cornuché, 14800 Deauville",
+    "neighborhood": "Seafront, beside the casino and beach",
+    "highlights": [
+      "Belle Époque palace overlooking the sea",
+      "Dogs of any size welcome, multiple pets accepted",
+      "Pool, spa and steps from the beach"
+    ]
+  },
+  {
+    "id": "deauville-3",
+    "slug": "hotel-barriere-hotel-du-golf-deauville",
+    "name": "Hôtel Barrière L'Hôtel du Golf Deauville",
+    "destinationSlug": "deauville",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 1200,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Barriere%20Hotel%20du%20Golf%20Deauville",
+    "petFee": 20,
+    "petPolicy": "Dogs of any size are welcome for 20€ per pet, per night. An Anglo-Norman manor set on the heights of Mont Canisy with its own golf course and country walks at the door. Please confirm details with the property when booking.",
+    "address": "Le Mont Canisy, 14800 Saint-Arnoult",
+    "neighborhood": "Mont Canisy heights, above Deauville",
+    "highlights": [
+      "Anglo-Norman manor on the Mont Canisy heights",
+      "Dogs of any size welcome for 20€ per night",
+      "Golf course and protected headland walks at the door"
+    ]
+  },
+  {
+    "id": "deauville-4",
+    "slug": "villa-augeval-hotel-spa-deauville",
+    "name": "Villa Augeval Hôtel & Spa",
+    "destinationSlug": "deauville",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 900,
+    "priceFrom": 190,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Villa%20Augeval%20Deauville",
+    "petFee": 10,
+    "petPolicy": "Dogs of any size are welcome for 10€ per pet, per night. An elegant Anglo-Norman villa with a spa and garden, near the racecourse and stables. Please confirm details with the property when booking.",
+    "address": "15 Avenue Hocquart de Turtot, 14800 Deauville",
+    "neighborhood": "Near the Hippodrome and the Pompeian baths",
+    "highlights": [
+      "Elegant villa with spa and garden",
+      "Dogs of any size welcome for just 10€ per night",
+      "Quiet setting near the racecourse, short walk to the beach"
+    ]
+  },
+  {
+    "id": "deauville-5",
+    "slug": "novotel-deauville-plage",
+    "name": "Novotel Deauville Plage",
+    "destinationSlug": "deauville",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2400,
+    "priceFrom": 180,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Novotel%20Deauville%20Plage",
+    "petFee": 15,
+    "petPolicy": "Dogs are welcome in designated rooms; the property recommends contacting them ahead to confirm size and the current pet fee. A modern seafront hotel a six-minute walk from the beach, handy for families. Please confirm details with the property when booking.",
+    "address": "2 Rue Baron Le Roy, 14800 Deauville",
+    "neighborhood": "Seafront, six-minute walk to the beach",
+    "highlights": [
+      "Modern seafront hotel near the Olympic pool and thalasso",
+      "Dogs welcome in designated rooms (call ahead)",
+      "Six-minute walk to the beach and Planches"
+    ]
   },
   {
     "id": "delft-1",
@@ -21210,6 +21778,131 @@
     "slug": "beautiful-apartment-in-fuengirola-fuengirola",
     "neighborhood": "Fuengirola",
     "address": "29649 Fuengirola, Málaga, Spain"
+  },
+  {
+    "id": "fuerteventura-1",
+    "slug": "hotel-elba-sara-fuerteventura",
+    "name": "Hotel Elba Sara Beach & Golf Resort",
+    "destinationSlug": "fuerteventura",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 3200,
+    "priceFrom": 130,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Elba%20Sara%20Fuerteventura",
+    "petFee": 15,
+    "petPolicy": "Dogs are welcome, typically for around 15€ per night, with designated areas to walk your dog on the resort grounds. A large family beach-and-golf resort at Caleta de Fuste. Please confirm the current pet fee and conditions with the property when booking.",
+    "address": "Urbanización Caleta de Fuste, 35610 Antigua, Fuerteventura",
+    "neighborhood": "Caleta de Fuste, near the golf course",
+    "highlights": [
+      "Large family beach-and-golf resort",
+      "Dogs welcome with designated dog-walking areas",
+      "Central east-coast base near the airport"
+    ]
+  },
+  {
+    "id": "fuerteventura-2",
+    "slug": "aparthotel-bahia-de-lobos-corralejo",
+    "name": "Aparthotel Bahía de Lobos",
+    "destinationSlug": "fuerteventura",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.3,
+    "reviewCount": 2100,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Aparthotel%20Bahia%20de%20Lobos%20Corralejo",
+    "petFee": 10,
+    "petPolicy": "Pets are welcome in specific rooms, typically for around 10€ per night. Self-catering apartments near Corralejo, handy for the northern dunes and the ferry. Please confirm availability of pet rooms and the current fee with the property when booking.",
+    "address": "Av. Islas Canarias, 35660 Corralejo, Fuerteventura",
+    "neighborhood": "Corralejo, near the dunes",
+    "highlights": [
+      "Self-catering apartments near Corralejo",
+      "Pets welcome in specific rooms",
+      "Close to the northern dunes and the Lobos ferry"
+    ]
+  },
+  {
+    "id": "fuerteventura-3",
+    "slug": "hotel-rural-mahoh-villaverde",
+    "name": "Hotel Rural Mahoh",
+    "destinationSlug": "fuerteventura",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 9,
+    "reviewCount": 700,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Rural%20Mahoh%20Fuerteventura",
+    "petFee": 10,
+    "petPolicy": "Dogs are welcome, typically for around 10€ per night. A restored 19th-century Canarian country house outside Villaverde in the quieter north, with gardens and space. Please confirm details with the property when booking.",
+    "address": "Sitio de Juan Bello, 35640 Villaverde, La Oliva, Fuerteventura",
+    "neighborhood": "Villaverde, rural north",
+    "highlights": [
+      "Restored 19th-century Canarian country house",
+      "Dogs welcome, with gardens and open space",
+      "Quiet rural north, near Corralejo and El Cotillo"
+    ]
+  },
+  {
+    "id": "fuerteventura-4",
+    "slug": "fuertevillage-caleta-de-fuste",
+    "name": "Fuertevillage",
+    "destinationSlug": "fuerteventura",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 3,
+    "rating": 8.4,
+    "reviewCount": 1500,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Fuertevillage%20Caleta%20de%20Fuste",
+    "petFee": 10,
+    "petPolicy": "Dogs are welcome, typically for around 10€ per night. Apartment-style accommodation on the east coast, practical for families with a car. Please confirm the current pet fee and conditions with the property when booking.",
+    "address": "Caleta de Fuste, 35610 Antigua, Fuerteventura",
+    "neighborhood": "Caleta de Fuste",
+    "highlights": [
+      "Apartment-style accommodation for families",
+      "Dogs welcome",
+      "Central east-coast location near the airport"
+    ]
+  },
+  {
+    "id": "fuerteventura-5",
+    "slug": "pax-et-bonum-corralejo",
+    "name": "Pax et Bonum",
+    "destinationSlug": "fuerteventura",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.8,
+    "reviewCount": 400,
+    "priceFrom": 85,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Pax%20et%20Bonum%20Corralejo%20Fuerteventura",
+    "petFee": 10,
+    "petPolicy": "Dogs are welcome, typically for around 10€ per night. A small, well-rated guesthouse in Corralejo, an easy base for the northern beaches and town. Please confirm details with the property when booking.",
+    "address": "Corralejo, 35660 La Oliva, Fuerteventura",
+    "neighborhood": "Corralejo town",
+    "highlights": [
+      "Small, highly rated guesthouse",
+      "Dogs welcome",
+      "Walkable Corralejo base near shops and the port"
+    ]
   },
   {
     "id": "funchal-1",
@@ -36713,6 +37406,137 @@
     ]
   },
   {
+    "id": "monte-carlo-1",
+    "slug": "hotel-metropole-monte-carlo",
+    "name": "Hôtel Métropole Monte-Carlo",
+    "destinationSlug": "monte-carlo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1800,
+    "priceFrom": 690,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Metropole%20Monte-Carlo%20Monaco",
+    "petFee": 70,
+    "petPolicy": "Dogs and cats of any size are welcome for 70€ per night. Food and water bowls are provided in the room, and a partner grooming salon plus optional dog-walking and dog-sitting services are available. Please confirm details with the property when booking.",
+    "address": "4 Avenue de la Madone, 98000 Monaco",
+    "neighborhood": "Carré d’Or, steps from the Casino",
+    "highlights": [
+      "Belle Époque palace hotel steps from the Casino de Monte-Carlo",
+      "Dogs and cats welcome, with bowls provided in-room",
+      "Partner grooming salon plus dog-walking and dog-sitting"
+    ]
+  },
+  {
+    "id": "monte-carlo-2",
+    "slug": "hotel-hermitage-monte-carlo",
+    "name": "Hôtel Hermitage Monte-Carlo",
+    "destinationSlug": "monte-carlo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 1500,
+    "priceFrom": 560,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Hermitage%20Monte-Carlo%20Monaco",
+    "petFee": 60,
+    "petPolicy": "One pet up to 15 kg (dog or cat) is welcome for 60€ per pet, per night. Pets may not be left unattended in the room. Please confirm details with the property when booking.",
+    "address": "Square Beaumarchais, 98000 Monaco",
+    "neighborhood": "Monte-Carlo, above Port Hercule",
+    "highlights": [
+      "Belle Époque grande dame with a glass-domed Winter Garden",
+      "Pets up to 15 kg welcome, dogs and cats",
+      "Direct access to the Thermes Marins seawater spa"
+    ]
+  },
+  {
+    "id": "monte-carlo-3",
+    "slug": "fairmont-monte-carlo",
+    "name": "Fairmont Monte Carlo",
+    "destinationSlug": "monte-carlo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury",
+      "beach-access"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 3000,
+    "priceFrom": 430,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Fairmont%20Monte%20Carlo%20Monaco",
+    "petFee": 40,
+    "petPolicy": "One pet of any size (dog or cat) is welcome for 40€ per night. Please confirm room eligibility with the property when booking.",
+    "address": "12 Avenue des Spélugues, 98000 Monaco",
+    "neighborhood": "On the Grand Prix hairpin, above the sea",
+    "highlights": [
+      "Landmark hotel straddling the Grand Prix hairpin bend",
+      "One pet of any size welcome for 40€ per night",
+      "Short walk to the Larvotto seafront promenade"
+    ]
+  },
+  {
+    "id": "monte-carlo-4",
+    "slug": "columbus-monte-carlo",
+    "name": "Columbus Monte-Carlo",
+    "destinationSlug": "monte-carlo",
+    "categories": [
+      "dog-friendly",
+      "boutique-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1200,
+    "priceFrom": 260,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Columbus%20Monte-Carlo%20Monaco",
+    "petFee": 20,
+    "petPolicy": "One dog of any size is welcome for a 20€ deep-cleaning fee per stay. Please confirm details with the hotel when booking.",
+    "address": "23 Avenue des Papalins, 98000 Monaco",
+    "neighborhood": "Fontvieille, by the harbour",
+    "highlights": [
+      "Contemporary bolthole in the calm Fontvieille district",
+      "Dogs of any size welcome for a 20€ per-stay fee",
+      "Next to Fontvieille port and Princess Antoinette Park"
+    ]
+  },
+  {
+    "id": "monte-carlo-5",
+    "slug": "novotel-monte-carlo",
+    "name": "Novotel Monte-Carlo",
+    "destinationSlug": "monte-carlo",
+    "categories": [
+      "dog-friendly",
+      "budget-pet-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 2000,
+    "priceFrom": 210,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Novotel%20Monte-Carlo%20Monaco",
+    "petFee": 20,
+    "petPolicy": "Up to two pets of 10 kg or less are welcome for 20€ per pet, per night. Please confirm details with the property when booking.",
+    "address": "16 Boulevard Princesse Charlotte, 98000 Monaco",
+    "neighborhood": "Central Monte-Carlo",
+    "highlights": [
+      "Modern hotel in the heart of Monte-Carlo",
+      "Up to two small dogs welcome for 20€ each per night",
+      "Rooftop pool and an easy walk to Port Hercule"
+    ]
+  },
+  {
     "id": "montpellier-1",
     "name": "Pullman La Pléiade Montpellier Centre",
     "destinationSlug": "montpellier",
@@ -39125,6 +39949,131 @@
       "Breakfast available"
     ],
     "slug": "ibis-budget-nimes-centre-gare"
+  },
+  {
+    "id": "norderney-1",
+    "slug": "inselloft-norderney",
+    "name": "Inselloft Norderney",
+    "destinationSlug": "norderney",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 4,
+    "rating": 9,
+    "reviewCount": 1400,
+    "priceFrom": 210,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Inselloft%20Norderney",
+    "petFee": 25,
+    "petPolicy": "Dogs are welcome for 25€ per dog, per night, in seven dedicated dog lofts. On arrival your dog gets an Inselhund welcome set (ceramic bowls with mat, fresh dog treats and an island blanket). Dogs are not allowed in the spa, bakery or restaurant. Please confirm details with the property when booking.",
+    "address": "Damenpfad 37, 26548 Norderney",
+    "neighborhood": "Near the Weststrand and town centre",
+    "highlights": [
+      "Hip design hotel with seven dedicated dog lofts",
+      "Inselhund welcome set: bowls, treats and a blanket",
+      "Steps from the Weststrand dog beach"
+    ]
+  },
+  {
+    "id": "norderney-2",
+    "slug": "hotel-seesteg-norderney",
+    "name": "Hotel Seesteg Norderney",
+    "destinationSlug": "norderney",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 700,
+    "priceFrom": 320,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Seesteg%20Norderney",
+    "petFee": 25,
+    "petPolicy": "Dogs of any size are welcome in this upscale boutique hotel by the harbour, typically for around 25€ per night. A refined base with a rooftop pool and sea views. Please confirm the current pet fee and conditions with the property when booking.",
+    "address": "Damenpfad 36a, 26548 Norderney",
+    "neighborhood": "By the harbour and Weststrand",
+    "highlights": [
+      "Upscale boutique hotel with rooftop pool and sea views",
+      "Dogs of any size welcome",
+      "Steps from the beach and promenade"
+    ]
+  },
+  {
+    "id": "norderney-3",
+    "slug": "michels-thalasso-hotel-nordseehaus-norderney",
+    "name": "Michels Thalasso Hotel Nordseehaus",
+    "destinationSlug": "norderney",
+    "categories": [
+      "dog-friendly",
+      "spa"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1100,
+    "priceFrom": 190,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Michels%20Thalasso%20Hotel%20Nordseehaus%20Norderney",
+    "petFee": 15,
+    "petPolicy": "Dogs are welcome for 15€ per dog, per night, at this thalasso and wellness hotel near the sea, with tailored services for four-legged guests. Please confirm details with the property when booking.",
+    "address": "Kaiserstraße 3, 26548 Norderney",
+    "neighborhood": "Near the beach and spa quarter",
+    "highlights": [
+      "Thalasso and wellness hotel near the sea",
+      "Dogs welcome for 15€ per night with tailored services",
+      "Short walk to the Weststrand dog beach"
+    ]
+  },
+  {
+    "id": "norderney-4",
+    "slug": "haus-am-meer-norderney",
+    "name": "Haus am Meer Norderney",
+    "destinationSlug": "norderney",
+    "categories": [
+      "dog-friendly",
+      "family"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 950,
+    "priceFrom": 150,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Haus%20am%20Meer%20Norderney",
+    "petFee": 15,
+    "petPolicy": "Dogs are welcome in the stylish suites and family apartments, typically for around 15€ per night. A comfortable base with sea views near the beach. Please confirm the current pet fee and conditions with the property when booking.",
+    "address": "Kaiserstraße 8, 26548 Norderney",
+    "neighborhood": "Near the beach promenade",
+    "highlights": [
+      "Sea-view suites and family apartments",
+      "Dogs welcome near the beach",
+      "Close to the Weststrand and promenade"
+    ]
+  },
+  {
+    "id": "norderney-5",
+    "slug": "villa-nordsee-norderney",
+    "name": "Villa Nordsee Norderney",
+    "destinationSlug": "norderney",
+    "categories": [
+      "dog-friendly",
+      "boutique"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 400,
+    "priceFrom": 140,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Villa%20Nordsee%20Norderney",
+    "petFee": 15,
+    "petPolicy": "Dogs are welcome for 15€ per dog, per night. A homely villa-style stay a short walk from the beach, handy for a relaxed island break with a dog. Please confirm details with the property when booking.",
+    "address": "Norderney town centre, 26548 Norderney",
+    "neighborhood": "Town centre, short walk to the beach",
+    "highlights": [
+      "Homely villa-style stay near the beach",
+      "Dogs welcome for 15€ per night",
+      "Close to town, shops and the promenade"
+    ]
   },
   {
     "id": "nuremberg-1",
@@ -44266,6 +45215,601 @@
     ],
     "slug": "altis-porto-hotel-a-member-of-preferred-hotels-resorts-lvx",
     "petPolicyPt": "Altis Porto Hotel, um member de Preferred Hotels & Resorts- LVX warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €20 por noite applies, charged em check-em. Animais são aceites até 10 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
+  },
+  {
+    "id": "portofino-1",
+    "slug": "splendido-mare-a-belmond-hotel-portofino-portofino",
+    "name": "Splendido Mare, A Belmond Hotel, Portofino",
+    "destinationSlug": "portofino",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 113,
+    "priceFrom": 100,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/splendido-mare-portofino.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "portofino-2",
+    "slug": "eight-hotel-portofino-portofino",
+    "name": "Eight Hotel Portofino",
+    "destinationSlug": "portofino",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 89,
+    "priceFrom": 83,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/hotelsangiorgioportofino.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Spa & wellness centre",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "portofino-3",
+    "slug": "pieds-dans-l-eau-portofino-by-portofinovacanze-portofino",
+    "name": "Pieds dans l'eau à Portofino by PortofinoVacanze",
+    "destinationSlug": "portofino",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.1,
+    "reviewCount": 78,
+    "priceFrom": 97,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/pieds-dans-l-39-eau-a-portofino.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms",
+      "Airport shuttle"
+    ]
+  },
+  {
+    "id": "portofino-4",
+    "slug": "portofino-s-flavour-portofino",
+    "name": "Portofino's Flavour",
+    "destinationSlug": "portofino",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 38,
+    "priceFrom": 102,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/casa-portofino.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "portofino-5",
+    "slug": "royal-by-portofinohomes-portofino",
+    "name": "Royal by PortofinoHomes",
+    "destinationSlug": "portofino",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 37,
+    "priceFrom": 117,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/jolly-apartment-portofino.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "portofino-6",
+    "slug": "hotel-piccolo-portofino-portofino",
+    "name": "Hotel Piccolo Portofino",
+    "destinationSlug": "portofino",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.2,
+    "reviewCount": 1168,
+    "priceFrom": 96,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/piccolo-portofino.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "portofino-7",
+    "slug": "civico-3-portofino",
+    "name": "Civico 3",
+    "destinationSlug": "portofino",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.5,
+    "reviewCount": 36,
+    "priceFrom": 101,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/civico-3.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "portofino-8",
+    "slug": "appartamento-vacanze-portofino-portofino",
+    "name": "Appartamento Vacanze, Portofino",
+    "destinationSlug": "portofino",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.5,
+    "reviewCount": 44,
+    "priceFrom": 110,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/san-giorgio-uno-60mq-1b-1b.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms",
+      "Airport shuttle"
+    ]
+  },
+  {
+    "id": "portoroz-1",
+    "name": "Hotel Palace Portoroz by Minor Hotels",
+    "destinationSlug": "portoroz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 1546,
+    "priceFrom": 106,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/minor-palace-portoroz.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "2 swimming pools",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "hotel-palace-portoroz-by-minor-hotels-portoroz"
+  },
+  {
+    "id": "portoroz-2",
+    "name": "Grand Hotel Bernardin",
+    "destinationSlug": "portoroz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 4318,
+    "priceFrom": 127,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/grand-bernardin.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "2 swimming pools",
+      "Spa & wellness centre",
+      "Free parking"
+    ],
+    "slug": "grand-hotel-bernardin-portoroz"
+  },
+  {
+    "id": "portoroz-3",
+    "name": "Hotel Slovenija - Terme & Wellness LifeClass",
+    "destinationSlug": "portoroz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 3663,
+    "priceFrom": 97,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/slovenija-terme-amp-wellness-lifeclass.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "3 swimming pools",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "hotel-slovenija-terme-wellness-lifeclass-portoroz"
+  },
+  {
+    "id": "portoroz-4",
+    "name": "Remisens Hotel METROPOL",
+    "destinationSlug": "portoroz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 3514,
+    "priceFrom": 92,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/grand-metropol.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "2 swimming pools",
+      "Spa & wellness centre",
+      "Parking on site"
+    ],
+    "slug": "remisens-hotel-metropol-portoroz"
+  },
+  {
+    "id": "portoroz-5",
+    "name": "Hotel Histrion",
+    "destinationSlug": "portoroz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 4703,
+    "priceFrom": 108,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/histrion.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "2 swimming pools",
+      "Spa & wellness centre",
+      "Free parking"
+    ],
+    "slug": "hotel-histrion-portoroz"
+  },
+  {
+    "id": "portoroz-6",
+    "name": "Hotel Marko",
+    "destinationSlug": "portoroz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 5338,
+    "priceFrom": 106,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/marko.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "hotel-marko-portoroz"
+  },
+  {
+    "id": "portoroz-7",
+    "name": "Hotel Riviera - Terme & Wellness LifeClass",
+    "destinationSlug": "portoroz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.4,
+    "reviewCount": 2024,
+    "priceFrom": 93,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/lifeclass-resort-portoroz-sr.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "3 swimming pools",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "hotel-riviera-terme-wellness-lifeclass-portoroz"
+  },
+  {
+    "id": "portoroz-8",
+    "name": "Apartments Ananina",
+    "destinationSlug": "portoroz",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 210,
+    "priceFrom": 98,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/si/apartments-ananina.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Fast free WiFi (102 Mbps)",
+      "Family rooms"
+    ],
+    "slug": "apartments-ananina-portoroz"
+  },
+  {
+    "id": "positano-1",
+    "slug": "covo-dei-saraceni-positano",
+    "name": "Covo Dei Saraceni",
+    "destinationSlug": "positano",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 237,
+    "priceFrom": 114,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/covo-dei-saraceni-positano.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Via Regina Giovanna 5, 84017 Positano, ItalyExcellent location — rated 9.8/10!(score from 234 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "positano-2",
+    "slug": "positano-casa-delizia-positano",
+    "name": "Positano Casa Delizia",
+    "destinationSlug": "positano",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.6,
+    "reviewCount": 32,
+    "priceFrom": 113,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/positano-casa-delizia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "204 Via Guglielmo Marconi, 84017 Positano, ItalyExcellent location — rated 9.4/10!(score from 32 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "positano-3",
+    "slug": "villa-magia-positano",
+    "name": "Villa Magia",
+    "destinationSlug": "positano",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.7,
+    "reviewCount": 178,
+    "priceFrom": 123,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/villa-magia-positano11.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Via San Giovanni 19, 84017 Positano, ItalyExcellent location — rated 9.7/10!(score from 177 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "positano-4",
+    "slug": "le-sirenuse-positano",
+    "name": "Le Sirenuse",
+    "destinationSlug": "positano",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.7,
+    "reviewCount": 178,
+    "priceFrom": 124,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/le-sirenuse.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "positano-5",
+    "slug": "hotel-villa-franca-positano",
+    "name": "Hotel Villa Franca",
+    "destinationSlug": "positano",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 115,
+    "priceFrom": 95,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/villa-franca.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Viale Pasitea 318, 84017 Positano, ItalyExcellent location — rated 9.4/10!(score from 112 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "positano-6",
+    "slug": "hotel-palazzo-murat-positano",
+    "name": "Hotel Palazzo Murat",
+    "destinationSlug": "positano",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 197,
+    "priceFrom": 117,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/palazzo-murat.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Via Dei Mulini 23, 84017 Positano, ItalyExcellent location — rated 9.8/10!(score from 196 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "positano-7",
+    "slug": "hotel-le-agavi-positano",
+    "name": "Hotel Le Agavi",
+    "destinationSlug": "positano",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 197,
+    "priceFrom": 108,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/le-agavi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Great location - show map",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "positano-8",
+    "slug": "villa-treville-positano",
+    "name": "Villa Treville",
+    "destinationSlug": "positano",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 38,
+    "priceFrom": 121,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/villa-treville.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Via Arienzo 30, 84017 Positano, ItalyExcellent location — rated 9.9/10!(score from 38 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free WiFi",
+      "Spa & wellness centre",
+      "Beachfront"
+    ]
   },
   {
     "id": "poznan-1",
@@ -64864,10 +66408,10 @@
     "petPolicyPt": "FIVE Zurich - Luxury City Resort warmly welcomes well-behaved animais e offers um dedicated bem-vindos amenity para four-legged hóspedes. Um taxa animal de €15 por noite applies, charged em check-em. Animais são aceites até 20 kg; one animal per quarto máximo. Um cão-friendly parque ou green space é within easy walking distance do estabelecimento. animais must be kept com trela em all áreas comuns e são não permitted no spa ou dining facilities. Por favor declare your animal no time de reserva para ensure animal-friendly quarto allocation."
   },
   {
-    "id": "cinque-terre-1",
-    "slug": "casa-chiocconi-cinque-terre",
-    "name": "Casa Chiocconi",
-    "destinationSlug": "cinque-terre",
+    "id": "usedom-1",
+    "slug": "hotel-hamilton-spa-wellness-2",
+    "name": "Hotel Hamilton SPA & Wellness",
+    "destinationSlug": "usedom",
     "categories": [
       "dog-friendly",
       "cat-friendly",
@@ -64875,1536 +66419,189 @@
       "luxury"
     ],
     "stars": 5,
-    "rating": 9.5,
-    "reviewCount": 311,
-    "priceFrom": 100,
+    "rating": 8.8,
+    "reviewCount": 2121,
+    "priceFrom": 86,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/casa-chiocconi.en-gb.html",
+    "bookingUrl": "https://www.booking.com/hotel/pl/hamilton-spa-amp-wellness-swinoujscie.en-gb.html",
     "petFee": 0,
-    "petPolicy": "Great location - show map",
+    "petPolicy": "ul. Uzdrowiskowa 23, 72-600 Świnoujście, PolandExcellent location , rated 9.1/10!(score from 2091 reviews)Real guests • Real stays • Real opinions",
     "highlights": [
-      "Free parking",
-      "Free WiFi",
-      "Family rooms"
-    ]
-  },
-  {
-    "id": "cinque-terre-2",
-    "slug": "grand-hotel-portovenere-cinque-terre",
-    "name": "Grand Hotel Portovenere",
-    "destinationSlug": "cinque-terre",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9,
-    "reviewCount": 324,
-    "priceFrom": 84,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/grand-portovenere.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Via Garibaldi 5, 19025 Portovenere, ItalyExcellent location — rated 9.7/10!(score from 321 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
+      "Indoor swimming pool",
       "Private parking",
-      "Spa & wellness centre",
-      "Free WiFi"
-    ]
-  },
-  {
-    "id": "cinque-terre-3",
-    "slug": "golfo-dei-poeti-relais-spa-cinque-terre",
-    "name": "Golfo dei Poeti Relais & Spa",
-    "destinationSlug": "cinque-terre",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 8.5,
-    "reviewCount": 105,
-    "priceFrom": 116,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/golfo-dei-poeti-relais.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Via Don Calisto dei Marchi 38 , 19031 Ameglia, ItalyExcellent location — rated 9.2/10!(score from 103 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Outdoor swimming pool",
-      "Free parking",
       "Spa & wellness centre"
     ]
   },
   {
-    "id": "cinque-terre-4",
-    "slug": "casa-di-annalisa-cinque-terre",
-    "name": "Casa di Annalisa",
-    "destinationSlug": "cinque-terre",
+    "id": "usedom-2",
+    "slug": "modernes-reetdach-ostseeferienhaus-bella-mare-insel-usedom-mit-sauna-kamin-sonnenterrasse",
+    "name": "Modernes Reetdach-Ostseeferienhaus Bella Mare, Insel Usedom mit Sauna, Kamin & Sonnenterrasse",
+    "destinationSlug": "usedom",
     "categories": [
       "dog-friendly",
       "cat-friendly",
-      "near-parks",
-      "luxury"
+      "near-parks"
     ],
-    "stars": 5,
-    "rating": 9.4,
-    "reviewCount": 10,
-    "priceFrom": 95,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/casa-di-annalisa-la-spezia.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Great location - show map",
-    "highlights": [
-      "Free parking",
-      "Free WiFi",
-      "Family rooms"
-    ]
-  },
-  {
-    "id": "cinque-terre-5",
-    "slug": "traveller-house-cinque-terre",
-    "name": "Traveller House",
-    "destinationSlug": "cinque-terre",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.4,
-    "reviewCount": 27,
+    "stars": 4,
+    "rating": 9.7,
+    "reviewCount": 29,
     "priceFrom": 119,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/traveller-house.en-gb.html",
+    "bookingUrl": "https://www.booking.com/hotel/de/reetdach-ostseeferienhaus-bella-mare-insel-usedom.en-gb.html",
     "petFee": 0,
     "petPolicy": "Great location - show map",
     "highlights": [
       "Free parking",
-      "Free WiFi",
+      "Non-smoking rooms",
       "Family rooms"
     ]
   },
   {
-    "id": "cinque-terre-6",
-    "slug": "i-tibei-affittacamere-cinque-terre",
-    "name": "I Tibei Affittacamere",
-    "destinationSlug": "cinque-terre",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly"
-    ],
-    "stars": 4,
-    "rating": 9.8,
-    "reviewCount": 502,
-    "priceFrom": 120,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/i-tibei-guesthouse.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Via Padre Semeria 9, 19016 Monterosso al Mare, ItalyExcellent location — rated 10/10!(score from 498 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Free WiFi",
-      "Non-smoking rooms",
-      "Terrace"
-    ]
-  },
-  {
-    "id": "cinque-terre-7",
-    "slug": "affittacamere-lo-scoglio-cinque-terre",
-    "name": "Affittacamere Lo Scoglio",
-    "destinationSlug": "cinque-terre",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "beach-access"
-    ],
-    "stars": 4,
-    "rating": 9.8,
-    "reviewCount": 345,
-    "priceFrom": 87,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/affittacamere-lo-scoglio.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Via IV Novembre N. 3 (Check-in at Via Padre Semeria 9, Monterosso), 19016 Monterosso al Mare, ItalyExcellent location — rated 9.9/10!(score from 342 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Free WiFi",
-      "Beachfront",
-      "Non-smoking rooms"
-    ]
-  },
-  {
-    "id": "cinque-terre-8",
-    "slug": "al-mare-affittacamere-cinque-terre",
-    "name": "Al mare Affittacamere",
-    "destinationSlug": "cinque-terre",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly"
-    ],
-    "stars": 4,
-    "rating": 9.8,
-    "reviewCount": 295,
-    "priceFrom": 103,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/al-mare-monterosso-al-mare.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "72 Via Fegina (check-in at Via Padre Semeria 9), 19016 Monterosso al Mare, ItalyExcellent location — rated 10/10!(score from 292 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Free WiFi",
-      "Non-smoking rooms"
-    ]
-  },
-  {
-    "id": "portofino-1",
-    "slug": "splendido-mare-a-belmond-hotel-portofino-portofino",
-    "name": "Splendido Mare, A Belmond Hotel, Portofino",
-    "destinationSlug": "portofino",
+    "id": "usedom-3",
+    "slug": "ferienoase",
+    "name": "Ferienoase",
+    "destinationSlug": "usedom",
     "categories": [
       "dog-friendly",
       "cat-friendly",
       "beach-access",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.5,
-    "reviewCount": 113,
-    "priceFrom": 100,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/splendido-mare-portofino.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "Outdoor swimming pool",
-      "Private parking",
-      "Free WiFi"
-    ]
-  },
-  {
-    "id": "portofino-2",
-    "slug": "eight-hotel-portofino-portofino",
-    "name": "Eight Hotel Portofino",
-    "destinationSlug": "portofino",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 8.6,
-    "reviewCount": 89,
-    "priceFrom": 83,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/hotelsangiorgioportofino.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "Free parking",
-      "Spa & wellness centre",
-      "Free WiFi"
-    ]
-  },
-  {
-    "id": "portofino-3",
-    "slug": "pieds-dans-l-eau-portofino-by-portofinovacanze-portofino",
-    "name": "Pieds dans l'eau à Portofino by PortofinoVacanze",
-    "destinationSlug": "portofino",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly"
-    ],
-    "stars": 4,
-    "rating": 8.1,
-    "reviewCount": 78,
-    "priceFrom": 97,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/pieds-dans-l-39-eau-a-portofino.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "Free WiFi",
-      "Non-smoking rooms",
-      "Airport shuttle"
-    ]
-  },
-  {
-    "id": "portofino-4",
-    "slug": "portofino-s-flavour-portofino",
-    "name": "Portofino's Flavour",
-    "destinationSlug": "portofino",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly"
-    ],
-    "stars": 4,
-    "rating": 8.9,
-    "reviewCount": 38,
-    "priceFrom": 102,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/casa-portofino.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "Free WiFi",
-      "Non-smoking rooms"
-    ]
-  },
-  {
-    "id": "portofino-5",
-    "slug": "royal-by-portofinohomes-portofino",
-    "name": "Royal by PortofinoHomes",
-    "destinationSlug": "portofino",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
       "near-parks"
     ],
     "stars": 4,
-    "rating": 8.2,
-    "reviewCount": 37,
-    "priceFrom": 117,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/jolly-apartment-portofino.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "Parking",
-      "Free WiFi",
-      "Family rooms"
-    ]
-  },
-  {
-    "id": "portofino-6",
-    "slug": "hotel-piccolo-portofino-portofino",
-    "name": "Hotel Piccolo Portofino",
-    "destinationSlug": "portofino",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 8.2,
-    "reviewCount": 1168,
-    "priceFrom": 96,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/piccolo-portofino.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "Private parking",
-      "Free WiFi",
-      "Family rooms"
-    ]
-  },
-  {
-    "id": "portofino-7",
-    "slug": "civico-3-portofino",
-    "name": "Civico 3",
-    "destinationSlug": "portofino",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks"
-    ],
-    "stars": 4,
-    "rating": 9.5,
-    "reviewCount": 36,
-    "priceFrom": 101,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/civico-3.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "Parking",
-      "Free WiFi",
-      "Family rooms"
-    ]
-  },
-  {
-    "id": "portofino-8",
-    "slug": "appartamento-vacanze-portofino-portofino",
-    "name": "Appartamento Vacanze, Portofino",
-    "destinationSlug": "portofino",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly"
-    ],
-    "stars": 4,
-    "rating": 9.5,
-    "reviewCount": 44,
-    "priceFrom": 110,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/san-giorgio-uno-60mq-1b-1b.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "Free WiFi",
-      "Non-smoking rooms",
-      "Airport shuttle"
-    ]
-  },
-  {
-    "id": "portoroz-1",
-    "name": "Hotel Palace Portoroz by Minor Hotels",
-    "destinationSlug": "portoroz",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "beach-access",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.3,
-    "reviewCount": 1546,
-    "priceFrom": 106,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/si/minor-palace-portoroz.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "2 swimming pools",
-      "Spa & wellness centre",
-      "Private parking"
-    ],
-    "slug": "hotel-palace-portoroz-by-minor-hotels-portoroz"
-  },
-  {
-    "id": "portoroz-2",
-    "name": "Grand Hotel Bernardin",
-    "destinationSlug": "portoroz",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 8.9,
-    "reviewCount": 4318,
-    "priceFrom": 127,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/si/grand-bernardin.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "2 swimming pools",
-      "Spa & wellness centre",
-      "Free parking"
-    ],
-    "slug": "grand-hotel-bernardin-portoroz"
-  },
-  {
-    "id": "portoroz-3",
-    "name": "Hotel Slovenija - Terme & Wellness LifeClass",
-    "destinationSlug": "portoroz",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "beach-access",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 8.8,
-    "reviewCount": 3663,
-    "priceFrom": 97,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/si/slovenija-terme-amp-wellness-lifeclass.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "3 swimming pools",
-      "Spa & wellness centre",
-      "Private parking"
-    ],
-    "slug": "hotel-slovenija-terme-wellness-lifeclass-portoroz"
-  },
-  {
-    "id": "portoroz-4",
-    "name": "Remisens Hotel METROPOL",
-    "destinationSlug": "portoroz",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 8.8,
-    "reviewCount": 3514,
-    "priceFrom": 92,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/si/grand-metropol.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "2 swimming pools",
-      "Spa & wellness centre",
-      "Parking on site"
-    ],
-    "slug": "remisens-hotel-metropol-portoroz"
-  },
-  {
-    "id": "portoroz-5",
-    "name": "Hotel Histrion",
-    "destinationSlug": "portoroz",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "beach-access",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 8.6,
-    "reviewCount": 4703,
-    "priceFrom": 108,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/si/histrion.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "2 swimming pools",
-      "Spa & wellness centre",
-      "Free parking"
-    ],
-    "slug": "hotel-histrion-portoroz"
-  },
-  {
-    "id": "portoroz-6",
-    "name": "Hotel Marko",
-    "destinationSlug": "portoroz",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 8.9,
-    "reviewCount": 5338,
-    "priceFrom": 106,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/si/marko.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "Private parking",
-      "Free WiFi",
-      "Family rooms"
-    ],
-    "slug": "hotel-marko-portoroz"
-  },
-  {
-    "id": "portoroz-7",
-    "name": "Hotel Riviera - Terme & Wellness LifeClass",
-    "destinationSlug": "portoroz",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 8.4,
-    "reviewCount": 2024,
-    "priceFrom": 93,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/si/lifeclass-resort-portoroz-sr.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "3 swimming pools",
-      "Spa & wellness centre",
-      "Private parking"
-    ],
-    "slug": "hotel-riviera-terme-wellness-lifeclass-portoroz"
-  },
-  {
-    "id": "portoroz-8",
-    "name": "Apartments Ananina",
-    "destinationSlug": "portoroz",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.3,
-    "reviewCount": 210,
-    "priceFrom": 98,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/si/apartments-ananina.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
-    "highlights": [
-      "Free parking",
-      "Fast free WiFi (102 Mbps)",
-      "Family rooms"
-    ],
-    "slug": "apartments-ananina-portoroz"
-  },
-  {
-    "id": "positano-1",
-    "slug": "covo-dei-saraceni-positano",
-    "name": "Covo Dei Saraceni",
-    "destinationSlug": "positano",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.1,
-    "reviewCount": 237,
-    "priceFrom": 114,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/covo-dei-saraceni-positano.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Via Regina Giovanna 5, 84017 Positano, ItalyExcellent location — rated 9.8/10!(score from 234 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Outdoor swimming pool",
-      "Parking",
-      "Free WiFi"
-    ]
-  },
-  {
-    "id": "positano-2",
-    "slug": "positano-casa-delizia-positano",
-    "name": "Positano Casa Delizia",
-    "destinationSlug": "positano",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.6,
-    "reviewCount": 32,
+    "rating": 9.2,
+    "reviewCount": 500,
     "priceFrom": 113,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/positano-casa-delizia.en-gb.html",
+    "bookingUrl": "https://www.booking.com/hotel/de/ferienoase.en-gb.html",
     "petFee": 0,
-    "petPolicy": "204 Via Guglielmo Marconi, 84017 Positano, ItalyExcellent location — rated 9.4/10!(score from 32 reviews)Real guests • Real stays • Real opinions",
+    "petPolicy": "Badstr. 7, 17429 Bansin, GermanyExcellent location , rated 9.5/10!(score from 9 reviews)Real guests • Real stays • Real opinions",
     "highlights": [
       "Private parking",
       "Free WiFi",
-      "Non-smoking rooms"
-    ]
-  },
-  {
-    "id": "positano-3",
-    "slug": "villa-magia-positano",
-    "name": "Villa Magia",
-    "destinationSlug": "positano",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.7,
-    "reviewCount": 178,
-    "priceFrom": 123,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/villa-magia-positano11.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Via San Giovanni 19, 84017 Positano, ItalyExcellent location — rated 9.7/10!(score from 177 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Outdoor swimming pool",
-      "Private parking",
-      "Free WiFi"
-    ]
-  },
-  {
-    "id": "positano-4",
-    "slug": "le-sirenuse-positano",
-    "name": "Le Sirenuse",
-    "destinationSlug": "positano",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.7,
-    "reviewCount": 178,
-    "priceFrom": 124,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/le-sirenuse.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Sustainability certification",
-    "highlights": [
-      "Outdoor swimming pool",
-      "Private parking",
-      "Free WiFi"
-    ]
-  },
-  {
-    "id": "positano-5",
-    "slug": "hotel-villa-franca-positano",
-    "name": "Hotel Villa Franca",
-    "destinationSlug": "positano",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.4,
-    "reviewCount": 115,
-    "priceFrom": 95,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/villa-franca.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Viale Pasitea 318, 84017 Positano, ItalyExcellent location — rated 9.4/10!(score from 112 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Outdoor swimming pool",
-      "Private parking",
-      "Free WiFi"
-    ]
-  },
-  {
-    "id": "positano-6",
-    "slug": "hotel-palazzo-murat-positano",
-    "name": "Hotel Palazzo Murat",
-    "destinationSlug": "positano",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.4,
-    "reviewCount": 197,
-    "priceFrom": 117,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/palazzo-murat.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Via Dei Mulini 23, 84017 Positano, ItalyExcellent location — rated 9.8/10!(score from 196 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Outdoor swimming pool",
-      "Private parking",
-      "Free WiFi"
-    ]
-  },
-  {
-    "id": "positano-7",
-    "slug": "hotel-le-agavi-positano",
-    "name": "Hotel Le Agavi",
-    "destinationSlug": "positano",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "near-parks",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 8.7,
-    "reviewCount": 197,
-    "priceFrom": 108,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/le-agavi.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Great location - show map",
-    "highlights": [
-      "Outdoor swimming pool",
-      "Private parking",
-      "Free WiFi"
-    ]
-  },
-  {
-    "id": "positano-8",
-    "slug": "villa-treville-positano",
-    "name": "Villa Treville",
-    "destinationSlug": "positano",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "beach-access",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.5,
-    "reviewCount": 38,
-    "priceFrom": 121,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/it/villa-treville.en-gb.html",
-    "petFee": 0,
-    "petPolicy": "Via Arienzo 30, 84017 Positano, ItalyExcellent location — rated 9.9/10!(score from 38 reviews)Real guests • Real stays • Real opinions",
-    "highlights": [
-      "Free WiFi",
-      "Spa & wellness centre",
       "Beachfront"
     ]
   },
   {
-    "id": "monte-carlo-1",
-    "slug": "hotel-metropole-monte-carlo",
-    "name": "Hôtel Métropole Monte-Carlo",
-    "destinationSlug": "monte-carlo",
+    "id": "usedom-4",
+    "slug": "the-breeze",
+    "name": "the breeze",
+    "destinationSlug": "usedom",
     "categories": [
       "dog-friendly",
       "cat-friendly",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.2,
-    "reviewCount": 1800,
-    "priceFrom": 690,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Metropole%20Monte-Carlo%20Monaco",
-    "petFee": 70,
-    "petPolicy": "Dogs and cats of any size are welcome for 70€ per night. Food and water bowls are provided in the room, and a partner grooming salon plus optional dog-walking and dog-sitting services are available. Please confirm details with the property when booking.",
-    "address": "4 Avenue de la Madone, 98000 Monaco",
-    "neighborhood": "Carré d’Or, steps from the Casino",
-    "highlights": [
-      "Belle Époque palace hotel steps from the Casino de Monte-Carlo",
-      "Dogs and cats welcome, with bowls provided in-room",
-      "Partner grooming salon plus dog-walking and dog-sitting"
-    ]
-  },
-  {
-    "id": "monte-carlo-2",
-    "slug": "hotel-hermitage-monte-carlo",
-    "name": "Hôtel Hermitage Monte-Carlo",
-    "destinationSlug": "monte-carlo",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9,
-    "reviewCount": 1500,
-    "priceFrom": 560,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Hermitage%20Monte-Carlo%20Monaco",
-    "petFee": 60,
-    "petPolicy": "One pet up to 15 kg (dog or cat) is welcome for 60€ per pet, per night. Pets may not be left unattended in the room. Please confirm details with the property when booking.",
-    "address": "Square Beaumarchais, 98000 Monaco",
-    "neighborhood": "Monte-Carlo, above Port Hercule",
-    "highlights": [
-      "Belle Époque grande dame with a glass-domed Winter Garden",
-      "Pets up to 15 kg welcome, dogs and cats",
-      "Direct access to the Thermes Marins seawater spa"
-    ]
-  },
-  {
-    "id": "monte-carlo-3",
-    "slug": "fairmont-monte-carlo",
-    "name": "Fairmont Monte Carlo",
-    "destinationSlug": "monte-carlo",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "luxury",
-      "beach-access"
-    ],
-    "stars": 5,
-    "rating": 8.8,
-    "reviewCount": 3000,
-    "priceFrom": 430,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Fairmont%20Monte%20Carlo%20Monaco",
-    "petFee": 40,
-    "petPolicy": "One pet of any size (dog or cat) is welcome for 40€ per night. Please confirm room eligibility with the property when booking.",
-    "address": "12 Avenue des Spélugues, 98000 Monaco",
-    "neighborhood": "On the Grand Prix hairpin, above the sea",
-    "highlights": [
-      "Landmark hotel straddling the Grand Prix hairpin bend",
-      "One pet of any size welcome for 40€ per night",
-      "Short walk to the Larvotto seafront promenade"
-    ]
-  },
-  {
-    "id": "monte-carlo-4",
-    "slug": "columbus-monte-carlo",
-    "name": "Columbus Monte-Carlo",
-    "destinationSlug": "monte-carlo",
-    "categories": [
-      "dog-friendly",
-      "boutique-pet-friendly",
       "near-parks"
     ],
     "stars": 4,
-    "rating": 8.6,
-    "reviewCount": 1200,
-    "priceFrom": 260,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Columbus%20Monte-Carlo%20Monaco",
-    "petFee": 20,
-    "petPolicy": "One dog of any size is welcome for a 20€ deep-cleaning fee per stay. Please confirm details with the hotel when booking.",
-    "address": "23 Avenue des Papalins, 98000 Monaco",
-    "neighborhood": "Fontvieille, by the harbour",
-    "highlights": [
-      "Contemporary bolthole in the calm Fontvieille district",
-      "Dogs of any size welcome for a 20€ per-stay fee",
-      "Next to Fontvieille port and Princess Antoinette Park"
-    ]
-  },
-  {
-    "id": "monte-carlo-5",
-    "slug": "novotel-monte-carlo",
-    "name": "Novotel Monte-Carlo",
-    "destinationSlug": "monte-carlo",
-    "categories": [
-      "dog-friendly",
-      "budget-pet-friendly",
-      "near-parks"
-    ],
-    "stars": 4,
-    "rating": 8.4,
-    "reviewCount": 2000,
-    "priceFrom": 210,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Novotel%20Monte-Carlo%20Monaco",
-    "petFee": 20,
-    "petPolicy": "Up to two pets of 10 kg or less are welcome for 20€ per pet, per night. Please confirm details with the property when booking.",
-    "address": "16 Boulevard Princesse Charlotte, 98000 Monaco",
-    "neighborhood": "Central Monte-Carlo",
-    "highlights": [
-      "Modern hotel in the heart of Monte-Carlo",
-      "Up to two small dogs welcome for 20€ each per night",
-      "Rooftop pool and an easy walk to Port Hercule"
-    ]
-  },
-  {
-    "id": "deauville-1",
-    "slug": "hotel-barriere-le-normandy-deauville",
-    "name": "Hôtel Barrière Le Normandy Deauville",
-    "destinationSlug": "deauville",
-    "categories": [
-      "dog-friendly",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9,
-    "reviewCount": 2100,
-    "priceFrom": 450,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Barriere%20Le%20Normandy%20Deauville",
-    "petFee": 20,
-    "petPolicy": "One dog of any size is welcome for 20€ per night. This iconic half-timbered landmark facing the sea is genuinely dog-friendly; cats are not accepted. Please confirm details with the property when booking.",
-    "address": "38 Rue Jean Mermoz, 14800 Deauville",
-    "neighborhood": "Town centre, steps from the beach and Planches",
-    "highlights": [
-      "Iconic half-timbered palace hotel facing the sea",
-      "One dog of any size welcome for 20€ per night",
-      "Walking distance to the Planches, casino and marina"
-    ]
-  },
-  {
-    "id": "deauville-2",
-    "slug": "hotel-barriere-le-royal-deauville",
-    "name": "Hôtel Barrière Le Royal Deauville",
-    "destinationSlug": "deauville",
-    "categories": [
-      "dog-friendly",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.1,
-    "reviewCount": 1600,
-    "priceFrom": 390,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Barriere%20Le%20Royal%20Deauville",
-    "petFee": 20,
-    "petPolicy": "Dogs of any size are welcome for 20€ per pet, per night, and more than one pet is accepted. A Belle Époque palace hotel overlooking the sea and the conference centre. Please confirm details with the property when booking.",
-    "address": "Boulevard Cornuché, 14800 Deauville",
-    "neighborhood": "Seafront, beside the casino and beach",
-    "highlights": [
-      "Belle Époque palace overlooking the sea",
-      "Dogs of any size welcome, multiple pets accepted",
-      "Pool, spa and steps from the beach"
-    ]
-  },
-  {
-    "id": "deauville-3",
-    "slug": "hotel-barriere-hotel-du-golf-deauville",
-    "name": "Hôtel Barrière L'Hôtel du Golf Deauville",
-    "destinationSlug": "deauville",
-    "categories": [
-      "dog-friendly",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 8.9,
-    "reviewCount": 1200,
-    "priceFrom": 320,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Barriere%20Hotel%20du%20Golf%20Deauville",
-    "petFee": 20,
-    "petPolicy": "Dogs of any size are welcome for 20€ per pet, per night. An Anglo-Norman manor set on the heights of Mont Canisy with its own golf course and country walks at the door. Please confirm details with the property when booking.",
-    "address": "Le Mont Canisy, 14800 Saint-Arnoult",
-    "neighborhood": "Mont Canisy heights, above Deauville",
-    "highlights": [
-      "Anglo-Norman manor on the Mont Canisy heights",
-      "Dogs of any size welcome for 20€ per night",
-      "Golf course and protected headland walks at the door"
-    ]
-  },
-  {
-    "id": "deauville-4",
-    "slug": "villa-augeval-hotel-spa-deauville",
-    "name": "Villa Augeval Hôtel & Spa",
-    "destinationSlug": "deauville",
-    "categories": [
-      "dog-friendly",
-      "boutique"
-    ],
-    "stars": 4,
-    "rating": 8.7,
-    "reviewCount": 900,
-    "priceFrom": 190,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Villa%20Augeval%20Deauville",
-    "petFee": 10,
-    "petPolicy": "Dogs of any size are welcome for 10€ per pet, per night. An elegant Anglo-Norman villa with a spa and garden, near the racecourse and stables. Please confirm details with the property when booking.",
-    "address": "15 Avenue Hocquart de Turtot, 14800 Deauville",
-    "neighborhood": "Near the Hippodrome and the Pompeian baths",
-    "highlights": [
-      "Elegant villa with spa and garden",
-      "Dogs of any size welcome for just 10€ per night",
-      "Quiet setting near the racecourse, short walk to the beach"
-    ]
-  },
-  {
-    "id": "deauville-5",
-    "slug": "novotel-deauville-plage",
-    "name": "Novotel Deauville Plage",
-    "destinationSlug": "deauville",
-    "categories": [
-      "dog-friendly",
-      "family"
-    ],
-    "stars": 4,
-    "rating": 8.4,
-    "reviewCount": 2400,
-    "priceFrom": 180,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Novotel%20Deauville%20Plage",
-    "petFee": 15,
-    "petPolicy": "Dogs are welcome in designated rooms; the property recommends contacting them ahead to confirm size and the current pet fee. A modern seafront hotel a six-minute walk from the beach, handy for families. Please confirm details with the property when booking.",
-    "address": "2 Rue Baron Le Roy, 14800 Deauville",
-    "neighborhood": "Seafront, six-minute walk to the beach",
-    "highlights": [
-      "Modern seafront hotel near the Olympic pool and thalasso",
-      "Dogs welcome in designated rooms (call ahead)",
-      "Six-minute walk to the beach and Planches"
-    ]
-  },
-  {
-    "id": "norderney-1",
-    "slug": "inselloft-norderney",
-    "name": "Inselloft Norderney",
-    "destinationSlug": "norderney",
-    "categories": [
-      "dog-friendly",
-      "boutique"
-    ],
-    "stars": 4,
-    "rating": 9,
-    "reviewCount": 1400,
-    "priceFrom": 210,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Inselloft%20Norderney",
-    "petFee": 25,
-    "petPolicy": "Dogs are welcome for 25€ per dog, per night, in seven dedicated dog lofts. On arrival your dog gets an Inselhund welcome set (ceramic bowls with mat, fresh dog treats and an island blanket). Dogs are not allowed in the spa, bakery or restaurant. Please confirm details with the property when booking.",
-    "address": "Damenpfad 37, 26548 Norderney",
-    "neighborhood": "Near the Weststrand and town centre",
-    "highlights": [
-      "Hip design hotel with seven dedicated dog lofts",
-      "Inselhund welcome set: bowls, treats and a blanket",
-      "Steps from the Weststrand dog beach"
-    ]
-  },
-  {
-    "id": "norderney-2",
-    "slug": "hotel-seesteg-norderney",
-    "name": "Hotel Seesteg Norderney",
-    "destinationSlug": "norderney",
-    "categories": [
-      "dog-friendly",
-      "luxury"
-    ],
-    "stars": 5,
-    "rating": 9.2,
-    "reviewCount": 700,
-    "priceFrom": 320,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Seesteg%20Norderney",
-    "petFee": 25,
-    "petPolicy": "Dogs of any size are welcome in this upscale boutique hotel by the harbour, typically for around 25€ per night. A refined base with a rooftop pool and sea views. Please confirm the current pet fee and conditions with the property when booking.",
-    "address": "Damenpfad 36a, 26548 Norderney",
-    "neighborhood": "By the harbour and Weststrand",
-    "highlights": [
-      "Upscale boutique hotel with rooftop pool and sea views",
-      "Dogs of any size welcome",
-      "Steps from the beach and promenade"
-    ]
-  },
-  {
-    "id": "norderney-3",
-    "slug": "michels-thalasso-hotel-nordseehaus-norderney",
-    "name": "Michels Thalasso Hotel Nordseehaus",
-    "destinationSlug": "norderney",
-    "categories": [
-      "dog-friendly",
-      "spa"
-    ],
-    "stars": 4,
-    "rating": 8.6,
-    "reviewCount": 1100,
-    "priceFrom": 190,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Michels%20Thalasso%20Hotel%20Nordseehaus%20Norderney",
-    "petFee": 15,
-    "petPolicy": "Dogs are welcome for 15€ per dog, per night, at this thalasso and wellness hotel near the sea, with tailored services for four-legged guests. Please confirm details with the property when booking.",
-    "address": "Kaiserstraße 3, 26548 Norderney",
-    "neighborhood": "Near the beach and spa quarter",
-    "highlights": [
-      "Thalasso and wellness hotel near the sea",
-      "Dogs welcome for 15€ per night with tailored services",
-      "Short walk to the Weststrand dog beach"
-    ]
-  },
-  {
-    "id": "norderney-4",
-    "slug": "haus-am-meer-norderney",
-    "name": "Haus am Meer Norderney",
-    "destinationSlug": "norderney",
-    "categories": [
-      "dog-friendly",
-      "family"
-    ],
-    "stars": 4,
-    "rating": 8.7,
-    "reviewCount": 950,
-    "priceFrom": 150,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Haus%20am%20Meer%20Norderney",
-    "petFee": 15,
-    "petPolicy": "Dogs are welcome in the stylish suites and family apartments, typically for around 15€ per night. A comfortable base with sea views near the beach. Please confirm the current pet fee and conditions with the property when booking.",
-    "address": "Kaiserstraße 8, 26548 Norderney",
-    "neighborhood": "Near the beach promenade",
-    "highlights": [
-      "Sea-view suites and family apartments",
-      "Dogs welcome near the beach",
-      "Close to the Weststrand and promenade"
-    ]
-  },
-  {
-    "id": "norderney-5",
-    "slug": "villa-nordsee-norderney",
-    "name": "Villa Nordsee Norderney",
-    "destinationSlug": "norderney",
-    "categories": [
-      "dog-friendly",
-      "boutique"
-    ],
-    "stars": 3,
-    "rating": 8.5,
-    "reviewCount": 400,
-    "priceFrom": 140,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Villa%20Nordsee%20Norderney",
-    "petFee": 15,
-    "petPolicy": "Dogs are welcome for 15€ per dog, per night. A homely villa-style stay a short walk from the beach, handy for a relaxed island break with a dog. Please confirm details with the property when booking.",
-    "address": "Norderney town centre, 26548 Norderney",
-    "neighborhood": "Town centre, short walk to the beach",
-    "highlights": [
-      "Homely villa-style stay near the beach",
-      "Dogs welcome for 15€ per night",
-      "Close to town, shops and the promenade"
-    ]
-  },
-  {
-    "id": "charleston-1",
-    "slug": "wentworth-mansion-charleston",
-    "name": "Wentworth Mansion",
-    "destinationSlug": "charleston",
-    "categories": [
-      "dog-friendly",
-      "luxury"
-    ],
-    "stars": 5,
     "rating": 9.3,
-    "reviewCount": 900,
-    "priceFrom": 380,
-    "currency": "USD",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Wentworth%20Mansion%20Charleston",
-    "petFee": 40,
-    "petPolicy": "Up to two dogs of any size are welcome for 40$ per pet, per night. The ground-floor garden rooms have direct outside access for bathroom breaks, making this Gilded Age mansion a genuinely easy luxury stay with a dog. Please confirm details with the property when booking.",
-    "address": "149 Wentworth Street, Charleston, SC 29401",
-    "neighborhood": "Historic District, near King Street",
+    "reviewCount": 2906,
+    "priceFrom": 88,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/the-breeze.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Rathenaustraße 3, 17419 Ahlbeck, GermanyExcellent location , rated 9.8/10!(score from 2877 reviews)Real guests • Real stays • Real opinions",
     "highlights": [
-      "Gilded Age mansion in the Historic District",
-      "Two dogs of any size welcome, 40$ per pet per night",
-      "Ground-floor garden rooms with direct outside access"
+      "2 swimming pools",
+      "Private parking",
+      "Spa & wellness centre"
     ]
   },
   {
-    "id": "charleston-2",
-    "slug": "grand-bohemian-hotel-charleston",
-    "name": "Grand Bohemian Hotel Charleston",
-    "destinationSlug": "charleston",
+    "id": "usedom-5",
+    "slug": "seetelhotel-ahlbecker-hof-das-elegante-traditionshotel-ruhiger-ruckzugsort-an-der-ostsee",
+    "name": "SEETELHOTEL Ahlbecker Hof das elegante Traditionshotel & ruhiger Rückzugsort an der Ostsee",
+    "destinationSlug": "usedom",
     "categories": [
       "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
       "luxury"
     ],
-    "stars": 4,
-    "rating": 9,
-    "reviewCount": 1500,
-    "priceFrom": 320,
-    "currency": "USD",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Grand%20Bohemian%20Hotel%20Charleston",
-    "petFee": 150,
-    "petPolicy": "One dog of any size is welcome for 150$ per stay (two dogs for 200$ per stay). An arts-themed luxury hotel steps from the Historic District and King Street. Please confirm details with the property when booking.",
-    "address": "55 Wentworth Street, Charleston, SC 29401",
-    "neighborhood": "Historic District, off King Street",
-    "highlights": [
-      "Arts-themed luxury hotel off King Street",
-      "Dogs of any size welcome (150$ per stay)",
-      "Rooftop bar and central Historic District location"
-    ]
-  },
-  {
-    "id": "charleston-3",
-    "slug": "the-ryder-hotel-charleston",
-    "name": "The Ryder Hotel",
-    "destinationSlug": "charleston",
-    "categories": [
-      "dog-friendly",
-      "boutique"
-    ],
-    "stars": 4,
-    "rating": 8.8,
-    "reviewCount": 1300,
-    "priceFrom": 240,
-    "currency": "USD",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=The%20Ryder%20Hotel%20Charleston",
-    "petFee": 150,
-    "petPolicy": "Dogs up to 40 lbs (about 18 kg) are welcome for a 150$ cleaning fee per stay, with complimentary organic dog treats made by the pastry chef. A lively boutique hotel with a pool and central location. Please confirm details with the property when booking.",
-    "address": "237 Meeting Street, Charleston, SC 29401",
-    "neighborhood": "Central, near the City Market",
-    "highlights": [
-      "Lively boutique hotel with a pool",
-      "Dogs up to 40 lbs welcome, chef-made dog treats",
-      "Central location near the City Market"
-    ]
-  },
-  {
-    "id": "charleston-4",
-    "slug": "hyatt-house-charleston-historic-district",
-    "name": "Hyatt House Charleston / Historic District",
-    "destinationSlug": "charleston",
-    "categories": [
-      "dog-friendly",
-      "family"
-    ],
-    "stars": 3,
-    "rating": 8.7,
-    "reviewCount": 2000,
-    "priceFrom": 210,
-    "currency": "USD",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hyatt%20House%20Charleston%20Historic%20District",
-    "petFee": 75,
-    "petPolicy": "Dogs up to 50 lbs (or two dogs up to 75 lbs combined) are welcome for a 75$ fee per stay. An all-suite hotel with kitchens, handy for families and longer stays near upper King Street. Please confirm details with the property when booking.",
-    "address": "560 King Street, Charleston, SC 29403",
-    "neighborhood": "Upper King Street",
-    "highlights": [
-      "All-suite hotel with kitchens, good for longer stays",
-      "Dogs up to 50 lbs welcome (75$ per stay)",
-      "Walkable upper King Street location"
-    ]
-  },
-  {
-    "id": "charleston-5",
-    "slug": "hampton-inn-charleston-historic-district",
-    "name": "Hampton Inn Charleston / Historic District",
-    "destinationSlug": "charleston",
-    "categories": [
-      "dog-friendly",
-      "family"
-    ],
-    "stars": 3,
+    "stars": 5,
     "rating": 8.6,
-    "reviewCount": 2400,
-    "priceFrom": 180,
-    "currency": "USD",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hampton%20Inn%20Charleston%20Historic%20District",
-    "petFee": 75,
-    "petPolicy": "Up to two pets up to 75 lbs are welcome for 75$ (stays of 1-4 nights) or 125$ for longer stays. A reliable, well-located base in a converted historic building near the City Market. Please confirm details with the property when booking.",
-    "address": "345 Meeting Street, Charleston, SC 29403",
-    "neighborhood": "Near the City Market and Visitor Center",
+    "reviewCount": 1198,
+    "priceFrom": 106,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/seehotel-ahlbecker-hof.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "BeachfrontSustainability certification",
     "highlights": [
-      "Reliable base in a converted historic building",
-      "Two pets up to 75 lbs welcome",
-      "Steps from the City Market and Visitor Center"
+      "Indoor swimming pool",
+      "Private parking",
+      "Spa & wellness centre"
     ]
   },
   {
-    "id": "fuerteventura-1",
-    "slug": "hotel-elba-sara-fuerteventura",
-    "name": "Hotel Elba Sara Beach & Golf Resort",
-    "destinationSlug": "fuerteventura",
+    "id": "usedom-6",
+    "slug": "steigenberger-grandhotel-spa-heringsdorf",
+    "name": "Steigenberger Grandhotel & Spa Heringsdorf",
+    "destinationSlug": "usedom",
     "categories": [
       "dog-friendly",
-      "family"
+      "cat-friendly",
+      "beach-access",
+      "near-parks"
     ],
     "stars": 4,
-    "rating": 8.5,
-    "reviewCount": 3200,
-    "priceFrom": 130,
+    "rating": 8.6,
+    "reviewCount": 1011,
+    "priceFrom": 103,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Elba%20Sara%20Fuerteventura",
-    "petFee": 15,
-    "petPolicy": "Dogs are welcome, typically for around 15€ per night, with designated areas to walk your dog on the resort grounds. A large family beach-and-golf resort at Caleta de Fuste. Please confirm the current pet fee and conditions with the property when booking.",
-    "address": "Urbanización Caleta de Fuste, 35610 Antigua, Fuerteventura",
-    "neighborhood": "Caleta de Fuste, near the golf course",
+    "bookingUrl": "https://www.booking.com/hotel/de/steigenberger-grandhotel-heringsdorf.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "BeachfrontSustainability certification",
     "highlights": [
-      "Large family beach-and-golf resort",
-      "Dogs welcome with designated dog-walking areas",
-      "Central east-coast base near the airport"
+      "2 swimming pools",
+      "Private parking",
+      "Spa & wellness centre"
     ]
   },
   {
-    "id": "fuerteventura-2",
-    "slug": "aparthotel-bahia-de-lobos-corralejo",
-    "name": "Aparthotel Bahía de Lobos",
-    "destinationSlug": "fuerteventura",
+    "id": "usedom-7",
+    "slug": "ostseeresidenz-gorki-park-02-mit-wellness-und-schwimmbad",
+    "name": "Ostseeresidenz Gorki- Park - 02 mit Wellness und Schwimmbad",
+    "destinationSlug": "usedom",
     "categories": [
       "dog-friendly",
-      "family"
+      "cat-friendly",
+      "near-parks"
     ],
-    "stars": 3,
-    "rating": 8.3,
-    "reviewCount": 2100,
-    "priceFrom": 95,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Aparthotel%20Bahia%20de%20Lobos%20Corralejo",
-    "petFee": 10,
-    "petPolicy": "Pets are welcome in specific rooms, typically for around 10€ per night. Self-catering apartments near Corralejo, handy for the northern dunes and the ferry. Please confirm availability of pet rooms and the current fee with the property when booking.",
-    "address": "Av. Islas Canarias, 35660 Corralejo, Fuerteventura",
-    "neighborhood": "Corralejo, near the dunes",
-    "highlights": [
-      "Self-catering apartments near Corralejo",
-      "Pets welcome in specific rooms",
-      "Close to the northern dunes and the Lobos ferry"
-    ]
-  },
-  {
-    "id": "fuerteventura-3",
-    "slug": "hotel-rural-mahoh-villaverde",
-    "name": "Hotel Rural Mahoh",
-    "destinationSlug": "fuerteventura",
-    "categories": [
-      "dog-friendly",
-      "boutique"
-    ],
-    "stars": 3,
-    "rating": 9,
-    "reviewCount": 700,
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 500,
     "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hotel%20Rural%20Mahoh%20Fuerteventura",
-    "petFee": 10,
-    "petPolicy": "Dogs are welcome, typically for around 10€ per night. A restored 19th-century Canarian country house outside Villaverde in the quieter north, with gardens and space. Please confirm details with the property when booking.",
-    "address": "Sitio de Juan Bello, 35640 Villaverde, La Oliva, Fuerteventura",
-    "neighborhood": "Villaverde, rural north",
+    "bookingUrl": "https://www.booking.com/hotel/de/ostseeresidenz-gorki-park-02.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Maxim-Gorki-Strasse 42 - FeWo 2, 17424 Bansin, GermanyExcellent location , rated 10/10!(score from 4 reviews)Real guests • Real stays • Real opinions",
     "highlights": [
-      "Restored 19th-century Canarian country house",
-      "Dogs welcome, with gardens and open space",
-      "Quiet rural north, near Corralejo and El Cotillo"
+      "Indoor swimming pool",
+      "Free parking",
+      "Free WiFi"
     ]
   },
   {
-    "id": "fuerteventura-4",
-    "slug": "fuertevillage-caleta-de-fuste",
-    "name": "Fuertevillage",
-    "destinationSlug": "fuerteventura",
-    "categories": [
-      "dog-friendly",
-      "family"
-    ],
-    "stars": 3,
-    "rating": 8.4,
-    "reviewCount": 1500,
-    "priceFrom": 110,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Fuertevillage%20Caleta%20de%20Fuste",
-    "petFee": 10,
-    "petPolicy": "Dogs are welcome, typically for around 10€ per night. Apartment-style accommodation on the east coast, practical for families with a car. Please confirm the current pet fee and conditions with the property when booking.",
-    "address": "Caleta de Fuste, 35610 Antigua, Fuerteventura",
-    "neighborhood": "Caleta de Fuste",
-    "highlights": [
-      "Apartment-style accommodation for families",
-      "Dogs welcome",
-      "Central east-coast location near the airport"
-    ]
-  },
-  {
-    "id": "fuerteventura-5",
-    "slug": "pax-et-bonum-corralejo",
-    "name": "Pax et Bonum",
-    "destinationSlug": "fuerteventura",
-    "categories": [
-      "dog-friendly",
-      "boutique"
-    ],
-    "stars": 3,
-    "rating": 8.8,
-    "reviewCount": 400,
-    "priceFrom": 85,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Pax%20et%20Bonum%20Corralejo%20Fuerteventura",
-    "petFee": 10,
-    "petPolicy": "Dogs are welcome, typically for around 10€ per night. A small, well-rated guesthouse in Corralejo, an easy base for the northern beaches and town. Please confirm details with the property when booking.",
-    "address": "Corralejo, 35660 La Oliva, Fuerteventura",
-    "neighborhood": "Corralejo town",
-    "highlights": [
-      "Small, highly rated guesthouse",
-      "Dogs welcome",
-      "Walkable Corralejo base near shops and the port"
-    ]
-  },
-  {
-    "id": "asheville-1",
-    "slug": "kimpton-hotel-arras-asheville",
-    "name": "Kimpton Hotel Arras",
-    "destinationSlug": "asheville",
+    "id": "usedom-8",
+    "slug": "ferienwohnanlage-alte-molkerei",
+    "name": "Ferienwohnanlage Alte Molkerei",
+    "destinationSlug": "usedom",
     "categories": [
       "dog-friendly",
       "cat-friendly",
-      "luxury"
+      "near-parks"
     ],
     "stars": 4,
     "rating": 9.2,
-    "reviewCount": 900,
-    "priceFrom": 189,
-    "currency": "USD",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Kimpton%20Hotel%20Arras%20Asheville",
+    "reviewCount": 19,
+    "priceFrom": 101,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/ferienwohnanlage-alte-molkerei.en-gb.html",
     "petFee": 0,
-    "petPolicy": "Kimpton's signature pet policy applies: dogs and cats stay free with no pet fee, no deposit and no size, weight or number limit. The downtown location lends bowls and beds, and a local pet shop stocks the welcome amenities. Please confirm details with the property when booking.",
-    "address": "7 Patton Avenue, Asheville, NC 28801",
-    "neighborhood": "Downtown, on Pack Square",
+    "petPolicy": "Good location - show map",
     "highlights": [
-      "No pet fee, no size or weight limit (dogs and cats)",
-      "Downtown, walkable to dog-friendly patios and breweries",
-      "Complimentary bowls, beds and treats"
-    ]
-  },
-  {
-    "id": "asheville-2",
-    "slug": "aloft-asheville-downtown",
-    "name": "Aloft Asheville Downtown",
-    "destinationSlug": "asheville",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly"
-    ],
-    "stars": 3,
-    "rating": 9.1,
-    "reviewCount": 1200,
-    "priceFrom": 139,
-    "currency": "USD",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Aloft%20Asheville%20Downtown",
-    "petFee": 0,
-    "petPolicy": "Two pets of any size stay free under Aloft's ARF programme, which includes a complimentary bed, bowl and treat bag. There is a rooftop dog-walk area on site, and the central Biltmore Avenue address is walkable to South Slope breweries. Please confirm details with the property when booking.",
-    "address": "51 Biltmore Avenue, Asheville, NC 28801",
-    "neighborhood": "Downtown, near South Slope",
-    "highlights": [
-      "Two pets of any size, no pet fee",
-      "Rooftop dog-walk area on site",
-      "Walkable to South Slope breweries and patios"
-    ]
-  },
-  {
-    "id": "asheville-3",
-    "slug": "hampton-inn-suites-asheville-biltmore-village",
-    "name": "Hampton Inn & Suites Asheville Biltmore Village",
-    "destinationSlug": "asheville",
-    "categories": [
-      "dog-friendly"
-    ],
-    "stars": 3,
-    "rating": 8.9,
-    "reviewCount": 700,
-    "priceFrom": 149,
-    "currency": "USD",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hampton%20Inn%20Suites%20Asheville%20Biltmore%20Village",
-    "petFee": 75,
-    "petPolicy": "Up to two dogs of up to about 34 kg (75 lb) each are welcome for a pet fee of around 75 USD per stay. The Biltmore Village setting puts you within a short drive of the Biltmore Estate and walking distance of the village's outdoor-seating restaurants. Please confirm the current fee and terms with the property when booking.",
-    "address": "117 Hendersonville Road, Asheville, NC 28803",
-    "neighborhood": "Biltmore Village",
-    "highlights": [
-      "Two dogs up to ~34 kg, ~75 USD per stay",
-      "Short drive to the Biltmore Estate grounds",
-      "Walkable to Biltmore Village patios"
-    ]
-  },
-  {
-    "id": "asheville-4",
-    "slug": "home2-suites-asheville-biltmore-village",
-    "name": "Home2 Suites by Hilton Asheville Biltmore Village",
-    "destinationSlug": "asheville",
-    "categories": [
-      "dog-friendly"
-    ],
-    "stars": 3,
-    "rating": 8.6,
-    "reviewCount": 500,
-    "priceFrom": 145,
-    "currency": "USD",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Home2%20Suites%20Asheville%20Biltmore%20Village",
-    "petFee": 75,
-    "petPolicy": "Two dogs are welcome, with a pet fee of around 75 USD for stays of one to four nights and about 125 USD for longer stays. The all-suite layout with kitchenettes suits longer dog stays, and the Biltmore Village location is minutes from the estate. Please confirm the current fee and terms with the property when booking.",
-    "address": "61 Thompson Street, Asheville, NC 28803",
-    "neighborhood": "Biltmore Village",
-    "highlights": [
-      "All-suite kitchenettes, good for longer stays",
-      "Minutes from the Biltmore Estate",
-      "Two dogs welcome (fee by length of stay)"
-    ]
-  },
-  {
-    "id": "asheville-5",
-    "slug": "red-roof-inn-asheville-biltmore-west",
-    "name": "Red Roof Inn Asheville - Biltmore West",
-    "destinationSlug": "asheville",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly"
-    ],
-    "stars": 2,
-    "rating": 7,
-    "reviewCount": 400,
-    "priceFrom": 79,
-    "currency": "USD",
-    "bookingUrl": "https://www.booking.com/searchresults.html?ss=Red%20Roof%20Inn%20Asheville%20Biltmore%20West",
-    "petFee": 0,
-    "petPolicy": "One well-behaved dog or cat of up to about 36 kg (80 lb) stays free; a second pet is around 15 USD per night. This is the reliable budget pick west of the river, with easy road access to trails and the Blue Ridge Parkway. Please confirm details with the property when booking.",
-    "address": "16 Crowell Road, Asheville, NC 28806",
-    "neighborhood": "West Asheville / Biltmore West",
-    "highlights": [
-      "One dog or cat stays free (budget pick)",
-      "Easy road access to trails and the Parkway",
-      "Cats explicitly welcome"
+      "Free parking",
+      "Non-smoking rooms",
+      "Free WiFi"
     ]
   }
 ]

@@ -32250,5 +32250,31 @@
     },
     "iata": "ZRH",
     "countryCode": "CH"
+  },
+  {
+    "slug": "usedom",
+    "name": "Usedom",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/usedom.jpg",
+    "intro": "Usedom is Germany's sunniest island, a long Baltic barrier of fine white sand, pine forest and belle-époque elegance shared with Poland on its eastern tip. Its heart is the three imperial spa resorts, the Kaiserbäder of Ahlbeck, Heringsdorf and Bansin, strung along a villa-lined seafront promenade past Germany's oldest and longest piers. It is a genuinely dog-friendly island: each Kaiserbad sets aside a marked dog beach, waste bags are free and there is no dog fee, while the Usedomer Bäderbahn makes car-free days easy, covered by the resort card. Dogs stay on the lead on the beaches, promenade and in the protected dunes and coastal forest, and in the main season a daytime rule keeps them to the dog-beach sections between 08:00 and 20:00. With sheltered Achterwasser walks for hot days and wide-open off-season beaches in winter, Usedom is a breezy, year-round base for a seaside break with a dog.",
+    "lat": 53.955,
+    "lng": 14.168,
+    "weather": {
+      "jan": { "temp": 1, "desc": "Cold & bright", "icon": "🌤️" },
+      "feb": { "temp": 1, "desc": "Cold & crisp", "icon": "🌤️" },
+      "mar": { "temp": 4, "desc": "Fresh & breezy", "icon": "🌥️" },
+      "apr": { "temp": 9, "desc": "Mild spring", "icon": "⛅" },
+      "may": { "temp": 14, "desc": "Sunny & mild", "icon": "🌤️" },
+      "jun": { "temp": 17, "desc": "Warm & sunny", "icon": "☀️" },
+      "jul": { "temp": 19, "desc": "Warm summer", "icon": "☀️" },
+      "aug": { "temp": 19, "desc": "Warmest month", "icon": "☀️" },
+      "sep": { "temp": 15, "desc": "Mild & golden", "icon": "🌤️" },
+      "oct": { "temp": 11, "desc": "Cool & breezy", "icon": "🌥️" },
+      "nov": { "temp": 6, "desc": "Grey & cool", "icon": "🌧️" },
+      "dec": { "temp": 3, "desc": "Cold & grey", "icon": "🌧️" }
+    }
   }
 ]

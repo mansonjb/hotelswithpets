@@ -31,6 +31,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "the Weststrand dog beach below the promenade, the walk through the dunes to the lighthouse and Das Kap, and the wild eastern beach at the Weiße Düne",
       area: "the resort centre and Weststrand, the eastern dunes around the Weiße Düne, and the sheltered Wadden Sea flats on the island's south side",
     },
+    'usedom': {
+      personality: "Germany's sunniest Baltic island, where the three imperial Kaiserbäder set aside dog beaches and a villa-lined promenade links Ahlbeck, Heringsdorf and Bansin for easy leashed walks by the sea",
+      highlight: "the Kaiserbäder dog beaches, the long seafront promenade past Germany's oldest and longest piers, and the shaded Küstenwald coastal forest",
+      area: "the three Kaiserbäder of Ahlbeck, Heringsdorf and Bansin, the quieter Achterwasser lagoon villages, and the Streckelsberg cliff dune at Koserow",
+    },
     'asheville': {
       personality: "the great dog-friendly mountain town of the Blue Ridge, an arts-and-beer city where owners walk the Biltmore grounds and the Parkway overlooks, wander an Art Deco downtown of brewery patios, and drive out to national-forest waterfalls, always leashing up in bear country",
       highlight: "the Biltmore Estate grounds and gardens, the Blue Ridge Parkway overlooks and trails, and the brewery patios of downtown and the South Slope",
@@ -2179,6 +2184,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "la plage pour chiens du Weststrand en contrebas de la promenade, la marche à travers les dunes jusqu'au phare et à Das Kap, et la plage sauvage de l'est à la Weiße Düne",
       area: "le centre de la station et le Weststrand, les dunes orientales autour de la Weiße Düne, et les vasières abritées de la mer des Wadden sur le flanc sud de l'île",
     },
+    'usedom': {
+      personality: "l'île balnéaire la plus ensoleillée d'Allemagne sur la Baltique, où les trois Kaiserbäder impériaux réservent des plages pour chiens et où une promenade bordée de villas relie Ahlbeck, Heringsdorf et Bansin pour des balades faciles en laisse au bord de la mer",
+      highlight: "les plages pour chiens des Kaiserbäder, la longue promenade du front de mer longeant les jetées les plus anciennes et les plus longues d'Allemagne, et la forêt côtière ombragée du Küstenwald",
+      area: "les trois Kaiserbäder d'Ahlbeck, Heringsdorf et Bansin, les villages plus calmes de la lagune de l'Achterwasser, et la dune du Streckelsberg à Koserow",
+    },
     'asheville': {
       personality: "la grande ville de montagne accueillante pour les chiens du Blue Ridge, une ville d'arts et de bière où les propriétaires parcourent le domaine du Biltmore et les points de vue de la Parkway, flânent dans un centre-ville Art déco aux terrasses de brasseries, et partent en voiture vers les cascades des forêts nationales, toujours en laisse en territoire d'ours",
       highlight: "le domaine et les jardins du Biltmore Estate, les points de vue et sentiers de la Blue Ridge Parkway, et les terrasses de brasseries du centre-ville et du South Slope",
@@ -4325,6 +4335,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "la gran isla balneario del mar del Norte, tranquila y con poco tráfico, donde los dueños de perros pasean por el paseo del Weststrand y por las dunas blancas de la Weiße Düne con correa, cruzan las marismas del mar de Wadden y dejan correr al perro en la zona de esparcimiento libre de la isla",
       highlight: "la playa para perros del Weststrand bajo el paseo marítimo, el paseo entre dunas hasta el faro y Das Kap, y la playa salvaje del este en la Weiße Düne",
       area: "el centro del complejo turístico y el Weststrand, las dunas del este alrededor de la Weiße Düne, y las marismas resguardadas del mar de Wadden en el lado sur de la isla",
+    },
+    'usedom': {
+      personality: "la isla balnearia más soleada de Alemania en el Báltico, donde los tres Kaiserbäder imperiales reservan playas para perros y un paseo bordeado de villas une Ahlbeck, Heringsdorf y Bansin para fáciles paseos con correa junto al mar",
+      highlight: "las playas para perros de los Kaiserbäder, el largo paseo marítimo ante los muelles más antiguo y más largo de Alemania, y el bosque costero y umbrío del Küstenwald",
+      area: "los tres Kaiserbäder de Ahlbeck, Heringsdorf y Bansin, los tranquilos pueblos de la laguna del Achterwasser, y la duna del Streckelsberg en Koserow",
     },
     'asheville': {
       personality: "el gran pueblo de montaña pet-friendly de las Blue Ridge, una ciudad de arte y cerveza donde los dueños pasean por los jardines del Biltmore y los miradores del Parkway, recorren un centro Art Déco de terrazas de cervecerías y salen en coche hasta cascadas de bosque nacional, siempre con correa en territorio de osos",
@@ -6473,6 +6488,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "a praia para cães do Weststrand sob o passeio marítimo, o passeio pelas dunas até ao farol e ao Das Kap, e a praia selvagem oriental na Weiße Düne",
       area: "o centro da estância e o Weststrand, as dunas orientais em torno da Weiße Düne, e as planícies abrigadas do mar de Wadden no lado sul da ilha",
     },
+    'usedom': {
+      personality: "a ilha balnear mais soalheira da Alemanha no Báltico, onde os três Kaiserbäder imperiais reservam praias para cães e um passeio ladeado de vilas liga Ahlbeck, Heringsdorf e Bansin para passeios fáceis à trela junto ao mar",
+      highlight: "as praias para cães dos Kaiserbäder, o longo passeio marítimo diante dos pontões mais antigo e mais comprido da Alemanha, e a floresta costeira e sombria do Küstenwald",
+      area: "os três Kaiserbäder de Ahlbeck, Heringsdorf e Bansin, as aldeias mais calmas da lagoa do Achterwasser, e a duna do Streckelsberg em Koserow",
+    },
     'asheville': {
       personality: "a grande cidade de montanha amiga de cães da Blue Ridge, uma cidade de arte e cerveja onde os donos passeiam pelos jardins do Biltmore e pelos miradouros da Parkway, percorrem um centro Art Deco de esplanadas de cervejarias e vão de carro até cascatas em florestas nacionais, sempre com o cão com trela em território de ursos",
       highlight: "os jardins e a propriedade do Biltmore Estate, os miradouros e trilhos da Blue Ridge Parkway, e as esplanadas de cervejarias do centro e do South Slope",
@@ -8619,6 +8639,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "die prachtvolle, verkehrsarme Nordsee-Kurinsel, auf der Hundehalter angeleint die Weststrand-Promenade und die weißen Dünen der Weißen Düne entlanglaufen, das Watt des Wattenmeers durchqueren und den Hund im Freilaufbereich der Insel laufen lassen",
       highlight: "der Hundestrand am Weststrand unterhalb der Promenade, der Spaziergang durch die Dünen zum Leuchtturm und zum Kap sowie der wilde Ostende-Strand an der Weißen Düne",
       area: "das Zentrum des Kurorts und der Weststrand, die östlichen Dünen rund um die Weiße Düne sowie die geschützten Wattflächen auf der Südseite der Insel",
+    },
+    'usedom': {
+      personality: "die sonnenreichste Ostseeinsel Deutschlands, auf der die drei kaiserlichen Kaiserbäder Hundestrände ausweisen und eine villengesäumte Promenade Ahlbeck, Heringsdorf und Bansin für entspannte Leinenspaziergänge am Meer verbindet",
+      highlight: "die Hundestrände der Kaiserbäder, die lange Strandpromenade vorbei an der ältesten und der längsten Seebrücke Deutschlands und der schattige Küstenwald",
+      area: "die drei Kaiserbäder Ahlbeck, Heringsdorf und Bansin, die ruhigeren Dörfer am Achterwasser und die Kliffranddüne Streckelsberg bei Koserow",
     },
     'asheville': {
       personality: "die große hundefreundliche Bergstadt der Blue Ridge, eine Stadt aus Kunst und Bier, in der Halter über das Biltmore-Gelände und die Parkway-Aussichtspunkte spazieren, durch eine Art-Deco-Innenstadt mit Brauereiterrassen schlendern und zu Wasserfällen im Nationalwald hinausfahren, immer an der Leine im Bärenland",
@@ -10767,6 +10792,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "het hondenstrand van het Weststrand onder de promenade, de wandeling door de duinen naar de vuurtoren en Das Kap, en het wilde oostelijke strand bij de Weiße Düne",
       area: "het centrum van de badplaats en het Weststrand, de oostelijke duinen rond de Weiße Düne, en de beschutte Waddenzeevlaktes aan de zuidkant van het eiland",
     },
+    'usedom': {
+      personality: "het zonnigste Oostzee-eiland van Duitsland, waar de drie keizerlijke Kaiserbäder hondenstranden vrijhouden en een met villa's omzoomde promenade Ahlbeck, Heringsdorf en Bansin verbindt voor makkelijke wandelingen aan de lijn langs zee",
+      highlight: "de hondenstranden van de Kaiserbäder, de lange boulevard langs de oudste en de langste pier van Duitsland, en het schaduwrijke kustbos Küstenwald",
+      area: "de drie Kaiserbäder Ahlbeck, Heringsdorf en Bansin, de rustigere dorpen aan de Achterwasser-lagune, en de kliftduin Streckelsberg bij Koserow",
+    },
     'asheville': {
       personality: "de grote dog-friendly bergstad van de Blue Ridge, een kunst- en bierstad waar baasjes over het terrein van de Biltmore en langs de uitzichtpunten van de Parkway wandelen, door een art-decocentrum vol brouwerijterrassen slenteren en naar watervallen in het nationale bos rijden, altijd aangelijnd in berengebied",
       highlight: "het terrein en de tuinen van de Biltmore Estate, de uitzichtpunten en paden van de Blue Ridge Parkway, en de brouwerijterrassen van het centrum en de South Slope",
@@ -12913,6 +12943,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "la grande isola termale del Mare del Nord, a basso traffico, dove i proprietari di cani passeggiano al guinzaglio sulla promenade del Weststrand e sulle dune bianche della Weiße Düne, attraversano le distese di marea del Wattenmeer e lasciano correre il cane nell'area di sgambamento libero dell'isola",
       highlight: "la spiaggia per cani del Weststrand sotto la passeggiata, la camminata tra le dune fino al faro e a Das Kap, e la spiaggia selvaggia orientale della Weiße Düne",
       area: "il centro della località e il Weststrand, le dune orientali intorno alla Weiße Düne, e le distese riparate del Wattenmeer sul lato sud dell'isola",
+    },
+    'usedom': {
+      personality: "l'isola balneare più soleggiata della Germania sul Baltico, dove i tre Kaiserbäder imperiali riservano spiagge per cani e una passeggiata orlata di ville collega Ahlbeck, Heringsdorf e Bansin per facili camminate al guinzaglio in riva al mare",
+      highlight: "le spiagge per cani dei Kaiserbäder, la lunga passeggiata sul lungomare davanti al pontile più antico e a quello più lungo della Germania, e il bosco costiero ombroso del Küstenwald",
+      area: "i tre Kaiserbäder di Ahlbeck, Heringsdorf e Bansin, i villaggi più tranquilli della laguna dell'Achterwasser, e la duna del Streckelsberg a Koserow",
     },
     'asheville': {
       personality: "la grande città di montagna dog-friendly delle Blue Ridge, una città di arte e birra dove i proprietari passeggiano nei terreni del Biltmore e ai punti panoramici della Parkway, girano per un centro Art Deco di patii di birrifici e vanno in auto fino alle cascate della foresta nazionale, sempre al guinzaglio in territorio di orsi",

@@ -52110,6 +52110,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  usedom: {
+    history: {
+      fr: `Usedom doit sa gloire au XIXᵉ siècle, quand elle devint le terrain de jeu de la cour impériale allemande : la haute société berlinoise fit bâtir les villas blanches de l'architecture balnéaire le long du front de mer d'Ahlbeck, Heringsdorf et Bansin, les trois Kaiserbäder, et Heringsdorf compte encore parmi les plus grandes stations thermales d'Allemagne. La jetée d'Ahlbeck, de 1898, est la plus ancienne conservée du pays, et celle de Heringsdorf, avec 508 mètres, la plus longue. La pointe nord de l'île raconte une histoire plus sombre à Peenemünde, où les armes V furent mises au point pendant la Seconde Guerre mondiale, aujourd'hui un musée qui donne à réfléchir. Partagée avec la Pologne à l'est, Usedom est aussi l'île la plus ensoleillée d'Allemagne. Pour les chiens, cet héritage se traduit en plaisirs de plein air : longues promenades en laisse devant les villas, trois plages pour chiens balisées et journées sans voiture faciles sur le petit train UBB.`,
+      en: `Usedom rose to fame in the 19th century as the playground of the German imperial court: Berlin high society built the white villas of the Bäderarchitektur along the seafront at Ahlbeck, Heringsdorf and Bansin, the three Kaiserbäder, and Heringsdorf still counts among Germany's grandest spa resorts. Ahlbeck's pier of 1898 is the oldest surviving in the country, and Heringsdorf's, at 508 metres, the longest. The island's northern tip tells a darker story at Peenemünde, where the V-weapons were developed in the Second World War, now a sobering museum. Shared with Poland on its eastern edge, Usedom is also the sunniest island in Germany, a beach resort long before mass tourism. For dogs, that heritage translates into open-air pleasures: long leashed promenade walks past the villas, three marked dog beaches and easy car-free days on the little UBB railway.`,
+      es: `Usedom alcanzó la fama en el siglo XIX como lugar de recreo de la corte imperial alemana: la alta sociedad berlinesa construyó las villas blancas de la arquitectura balnearia a lo largo del frente marítimo de Ahlbeck, Heringsdorf y Bansin, los tres Kaiserbäder, y Heringsdorf sigue entre los balnearios más señoriales de Alemania. El muelle de Ahlbeck, de 1898, es el más antiguo conservado del país, y el de Heringsdorf, con 508 metros, el más largo. El extremo norte de la isla cuenta una historia más sombría en Peenemünde, donde se desarrollaron las armas V durante la Segunda Guerra Mundial, hoy un museo que invita a la reflexión. Compartida con Polonia en su borde oriental, Usedom es además la isla más soleada de Alemania. Para los perros, ese legado se traduce en placeres al aire libre: largos paseos con correa ante las villas, tres playas para perros señalizadas y días sin coche fáciles en el pequeño tren UBB.`,
+      pt: `Usedom ganhou fama no século XIX como local de recreio da corte imperial alemã: a alta sociedade de Berlim ergueu as vilas brancas da arquitetura balnear ao longo da frente de mar de Ahlbeck, Heringsdorf e Bansin, os três Kaiserbäder, e Heringsdorf continua entre as estâncias termais mais senhoriais da Alemanha. O pontão de Ahlbeck, de 1898, é o mais antigo conservado do país, e o de Heringsdorf, com 508 metros, o mais comprido. A ponta norte da ilha conta uma história mais sombria em Peenemünde, onde as armas V foram desenvolvidas na Segunda Guerra Mundial, hoje um museu que faz pensar. Partilhada com a Polónia a leste, Usedom é também a ilha mais soalheira da Alemanha. Para os cães, essa herança traduz-se em prazeres ao ar livre: longos passeios à trela diante das vilas, três praias para cães assinaladas e dias sem carro fáceis no pequeno comboio UBB.`,
+    },
+    sights: [
+      {
+        name: 'Seebrücke Ahlbeck',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `La plus ancienne jetée conservée d'Allemagne, construite en 1898, avec son pavillon à tourelles vertes au-dessus de la Baltique. Son tablier ouvert se parcourt en laisse gratuitement ; seul le restaurant du pavillon se vérifie à part.`,
+          en: `Germany's oldest surviving pier, built in 1898, with its green-towered pavilion out over the Baltic. The open deck is a free leashed walk, only the pavilion restaurant is a separate call.`,
+          es: `El muelle más antiguo conservado de Alemania, construido en 1898, con su pabellón de torretas verdes sobre el Báltico. El tablero abierto se recorre con correa gratis; solo el restaurante del pabellón se consulta aparte.`,
+          pt: `O pontão mais antigo conservado da Alemanha, construído em 1898, com o seu pavilhão de torres verdes sobre o Báltico. O tabuleiro aberto percorre-se à trela gratuitamente; só o restaurante do pavilhão se confirma à parte.`,
+        },
+      },
+      {
+        name: 'Seebrücke Heringsdorf',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Avec 508 mètres, la plus longue jetée d'Allemagne, un large tablier de boutiques s'avançant dans la Baltique. La passerelle ouverte offre une belle marche en laisse, la mer des deux côtés.`,
+          en: `At 508 metres the longest pier in Germany, a broad deck of shops reaching into the Baltic. The open walkway is a fine leashed stroll with sea on both sides.`,
+          es: `Con 508 metros, el muelle más largo de Alemania, un amplio tablero de tiendas que se adentra en el Báltico. La pasarela abierta es un buen paseo con correa, con mar a ambos lados.`,
+          pt: `Com 508 metros, o pontão mais comprido da Alemanha, um amplo tabuleiro de lojas que avança no Báltico. O passadiço aberto é um bom passeio à trela, com mar dos dois lados.`,
+        },
+      },
+      {
+        name: 'Promenade der Kaiserbäder',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La promenade arborée qui relie Ahlbeck, Heringsdorf et Bansin devant les villas blanches de l'architecture balnéaire, l'une des plus longues du littoral allemand. Plate et ombragée, c'est la grande balade en laisse de l'île.`,
+          en: `The tree-lined promenade linking Ahlbeck, Heringsdorf and Bansin past the white Bäderarchitektur villas, one of the longest on the German coast. Flat and shaded, it is the island's great leashed walk.`,
+          es: `El paseo arbolado que une Ahlbeck, Heringsdorf y Bansin ante las villas blancas de la arquitectura balnearia, uno de los más largos del litoral alemán. Llano y con sombra, es el gran paseo con correa de la isla.`,
+          pt: `O passeio arborizado que liga Ahlbeck, Heringsdorf e Bansin diante das vilas brancas da arquitetura balnear, um dos mais compridos do litoral alemão. Plano e com sombra, é o grande passeio à trela da ilha.`,
+        },
+      },
+      {
+        name: 'Streckelsberg (Koserow)',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Une dune boisée de 58 mètres surplombant la Baltique à Koserow, le point le plus haut de la côte, avec des sentiers forestiers et des vues en falaise. Réserve naturelle : les chiens restent en laisse.`,
+          en: `A 58-metre wooded cliff dune above the Baltic at Koserow, the highest point on the coast, with forest paths and clifftop views. A nature reserve, so dogs stay on the lead.`,
+          es: `Una duna boscosa de 58 metros sobre el Báltico en Koserow, el punto más alto de la costa, con senderos forestales y vistas desde el acantilado. Reserva natural: los perros van con correa.`,
+          pt: `Uma duna arborizada de 58 metros sobre o Báltico em Koserow, o ponto mais alto da costa, com trilhos florestais e vistas da arriba. Reserva natural: os cães andam à trela.`,
+        },
+      },
+      {
+        name: 'Küstenwald & Achterwasser',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `La forêt côtière de pins derrière Bansin et Heringsdorf et la lagune abritée de l'Achterwasser offrent des chemins plats et ombragés, parfaits pour les jours chauds ou de vent. Chiens en laisse pour protéger dunes et oiseaux.`,
+          en: `The coastal pine forest behind Bansin and Heringsdorf and the sheltered Achterwasser lagoon give flat, shaded paths, perfect for hot or windy days. Dogs on the lead to protect dunes and birdlife.`,
+          es: `El bosque costero de pinos tras Bansin y Heringsdorf y la laguna resguardada del Achterwasser ofrecen caminos llanos y con sombra, ideales para días de calor o viento. Perros con correa para proteger dunas y aves.`,
+          pt: `A floresta costeira de pinheiros atrás de Bansin e Heringsdorf e a lagoa abrigada do Achterwasser dão caminhos planos e com sombra, ideais para dias de calor ou vento. Cães à trela para proteger dunas e aves.`,
+        },
+      },
+      {
+        name: 'Historisch-Technisches Museum Peenemünde',
+        emoji: '🚀',
+        petFriendly: false,
+        desc: {
+          fr: `À la pointe nord de l'île, le musée installé sur l'ancien centre d'essais des armes V de la Seconde Guerre mondiale, un lieu de mémoire marquant. L'intérieur n'admet pas les chiens, mais le site extérieur se longe en laisse.`,
+          en: `At the island's northern tip, the museum on the former Second World War V-weapons test site, a sobering place of remembrance. Dogs are not admitted indoors, but the outdoor grounds can be walked on the lead.`,
+          es: `En el extremo norte de la isla, el museo en el antiguo centro de pruebas de las armas V de la Segunda Guerra Mundial, un lugar de memoria impactante. No se admiten perros en el interior, pero el recinto exterior se recorre con correa.`,
+          pt: `Na ponta norte da ilha, o museu no antigo centro de ensaios das armas V da Segunda Guerra Mundial, um lugar de memória marcante. Não se admitem cães no interior, mas o recinto exterior percorre-se à trela.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Gardez votre chien en laisse sur les plages des Kaiserbäder, la promenade et dans les dunes : c'est obligatoire et les dunes sont protégées.`,
+        `En haute saison (mai à septembre), les chiens n'utilisent que les sections de plage pour chiens balisées de 8h à 20h ; en dehors, tous les accès sont ouverts.`,
+        `Les sacs à déjections sont gratuits aux offices de tourisme et aux toilettes publiques, et il n'y a aucun droit pour les chiens sur les plages.`,
+        `Usedom est l'île la plus ensoleillée d'Allemagne : emportez de l'eau et profitez de la forêt ombragée du Küstenwald les après-midis chauds.`,
+        `Prenez le train UBB pour des journées sans voiture : les chiens voyagent en laisse et la carte de séjour couvre vos propres trajets sur l'île.`,
+      ],
+      en: [
+        `Keep your dog on the lead on the Kaiserbäder beaches, the promenade and in the dunes; it is required and the dune landscapes are protected.`,
+        `In the main season (May to September), dogs may use only the marked dog-beach sections between 08:00 and 20:00; outside those hours all beach accesses are open.`,
+        `Waste bags are free at the tourist information offices and public toilets, and there is no dog fee on the beaches.`,
+        `Usedom is Germany's sunniest island, so carry water and use the shaded Küstenwald forest on hot summer afternoons.`,
+        `Use the UBB railway for car-free days: dogs travel on the lead, and the resort card covers your own island journeys.`,
+      ],
+      es: [
+        `Mantén al perro con correa en las playas de los Kaiserbäder, el paseo y en las dunas: es obligatorio y las dunas están protegidas.`,
+        `En temporada alta (mayo a septiembre), los perros solo usan las secciones de playa para perros señalizadas de 8:00 a 20:00; fuera de ese horario todos los accesos están abiertos.`,
+        `Las bolsas son gratuitas en las oficinas de turismo y los aseos públicos, y no hay tasa por perro en las playas.`,
+        `Usedom es la isla más soleada de Alemania, así que lleva agua y usa el bosque umbrío del Küstenwald en las tardes calurosas de verano.`,
+        `Usa el tren UBB para días sin coche: los perros viajan con correa y la tarjeta turística cubre tus propios trayectos por la isla.`,
+      ],
+      pt: [
+        `Mantenha o cão à trela nas praias dos Kaiserbäder, no passeio e nas dunas: é obrigatório e as dunas são protegidas.`,
+        `Na época alta (maio a setembro), os cães só usam as secções de praia para cães assinaladas das 8h às 20h; fora desse horário todos os acessos estão abertos.`,
+        `Os sacos são gratuitos nos postos de turismo e nas casas de banho públicas, e não há taxa para cães nas praias.`,
+        `Usedom é a ilha mais soalheira da Alemanha, por isso leve água e use a floresta sombria do Küstenwald nas tardes quentes de verão.`,
+        `Use o comboio UBB para dias sem carro: os cães viajam à trela e o cartão de estância cobre as suas próprias viagens na ilha.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Rejoignez l'île en voiture par les ponts de Wolgast ou de Zecherin, ou en train jusqu'à Züssow puis l'UBB jusqu'aux Kaiserbäder.`,
+        `Les vétérinaires sont concentrés à Heringsdorf, avec un cabinet supplémentaire dans la ville d'Usedom ; la plupart sur rendez-vous, enregistrez les numéros à l'arrivée.`,
+        `Emportez le passeport européen de votre chien avec une vaccination antirabique valide, surtout si vous passez du côté polonais.`,
+        `Le printemps et l'automne sont plus calmes et plus frais que le pic de juillet-août, quand les Kaiserbäder sont fréquentés.`,
+        `Pour une urgence vétérinaire hors horaires, vous pourriez être orienté vers Wolgast ou le continent ; demandez à votre cabinet comment fonctionne la permanence.`,
+      ],
+      en: [
+        `Reach the island by car over the Wolgast or Zecherin bridges, or by train to Züssow and the UBB into the Kaiserbäder.`,
+        `Vets are concentrated in Heringsdorf, with a further practice in the town of Usedom; most work by appointment, so save the numbers on arrival.`,
+        `Carry your dog's EU pet passport with a valid rabies record, especially if you cross to the Polish side of the island.`,
+        `Spring and autumn are quieter and cooler than the July to August peak, when the Kaiserbäder are busy.`,
+        `For an out-of-hours veterinary emergency you may be directed toward Wolgast or the mainland; ask your practice how cover works.`,
+      ],
+      es: [
+        `Llega a la isla en coche por los puentes de Wolgast o Zecherin, o en tren hasta Züssow y el UBB hasta los Kaiserbäder.`,
+        `Los veterinarios se concentran en Heringsdorf, con otra clínica en la localidad de Usedom; casi todos con cita previa, así que guarda los números al llegar.`,
+        `Lleva el pasaporte europeo de tu perro con una vacuna antirrábica válida, sobre todo si pasas al lado polaco de la isla.`,
+        `La primavera y el otoño son más tranquilos y frescos que el pico de julio-agosto, cuando los Kaiserbäder están concurridos.`,
+        `Para una urgencia veterinaria fuera de horario puede que te dirijan hacia Wolgast o el continente; pregunta en tu clínica cómo funciona la guardia.`,
+      ],
+      pt: [
+        `Chegue à ilha de carro pelas pontes de Wolgast ou Zecherin, ou de comboio até Züssow e o UBB até aos Kaiserbäder.`,
+        `Os veterinários concentram-se em Heringsdorf, com outra clínica na vila de Usedom; quase todos com marcação, por isso guarde os números à chegada.`,
+        `Leve o passaporte europeu do seu cão com uma vacina antirrábica válida, sobretudo se passar para o lado polaco da ilha.`,
+        `A primavera e o outono são mais calmos e frescos do que o pico de julho-agosto, quando os Kaiserbäder estão cheios.`,
+        `Para uma emergência veterinária fora de horas pode ser encaminhado para Wolgast ou o continente; pergunte na sua clínica como funciona o serviço.`,
+      ],
+    },
+  },
+
   valencia: {
     history: {
       fr: `Fondée par Rome en 138 avant J.-C. sous le nom de Valentia, Valence s'est développée pendant la période maure comme centre papetier et agricole, irriguée par un système vieux de 1 200 ans toujours fonctionnel, régi par le Tribunal des Eaux, la plus ancienne institution judiciaire européenne en activité. Une crue de 1957 a dévié le fleuve Turia, et son lit vidé est devenu le plus grand parc urbain d'Europe : un jardin linéaire de 9 km qui définit la Valence moderne. Cette transformation a aussi façonné la culture canine : le Turia est un immense jardin partagé où des milliers de chiens s'exercent quotidiennement, avec de nombreuses aires sans laisse clôturées (áreas caninas).`,

@@ -2,6 +2,24 @@ import Link from 'next/link'
 
 const ALL_GUIDES = [
   {
+    slug: 'winter-destinations-with-dog-2026',
+    emoji: '❄️',
+    label: { fr: `Destinations soleil d'hiver avec son chien 2026-2027`, en: 'Winter sun destinations with your dog 2026-2027', es: 'Destinos de sol invernal con tu perro 2026-2027', de: 'Wintersonne-Reiseziele mit Hund 2026-2027', nl: 'Winterzon-bestemmingen met je hond 2026-2027', it: 'Destinazioni sole invernale con il cane 2026-2027' },
+    desc:  { fr: '40 destinations chaudes comparées · tableau 3 paliers de température en janvier', en: '40 warm destinations compared · 3-tier January temperature table', es: '40 destinos cálidos comparados · tabla de temperatura de 3 niveles en enero', de: '40 warme Reiseziele im Vergleich · 3-Stufen-Temperaturtabelle im Januar', nl: '40 warme bestemmingen vergeleken · temperatuurtabel in 3 niveaus in januari', it: '40 destinazioni calde a confronto · tabella temperature a 3 livelli a gennaio' },
+  },
+  {
+    slug: 'christmas-markets-with-dog',
+    emoji: '🎄',
+    label: { fr: 'Marchés de Noël avec son chien : 12 villes', en: 'Christmas markets with your dog: 12 cities', es: 'Mercados navideños con tu perro: 12 ciudades', de: 'Weihnachtsmärkte mit Hund: 12 Städte', nl: 'Kerstmarkten met je hond: 12 steden', it: 'Mercatini di Natale con il cane: 12 città' },
+    desc:  { fr: 'Strasbourg, Nuremberg, Vienne, Prague… dates + hôtels vérifiés', en: 'Strasbourg, Nuremberg, Vienna, Prague… dates + verified hotels', es: 'Estrasburgo, Núremberg, Viena, Praga… fechas + hoteles verificados', de: 'Straßburg, Nürnberg, Wien, Prag… Termine + geprüfte Hotels', nl: 'Straatsburg, Neurenberg, Wenen, Praag… data + geverifieerde hotels', it: 'Strasburgo, Norimberga, Vienna, Praga… date + hotel verificati' },
+  },
+  {
+    slug: 'travel-with-cat-europe',
+    emoji: '🐈',
+    label: { fr: 'Voyager en Europe avec son chat : 12 villes', en: 'Travelling across Europe with your cat: 12 cities', es: 'Viajar por Europa con tu gato: 12 ciudades', de: 'Mit der Katze durch Europa reisen: 12 Städte', nl: 'Met je kat door Europa reizen: 12 steden', it: 'Viaggiare in Europa con il gatto: 12 città' },
+    desc:  { fr: 'Passeport, caisse IATA, anti-stress + hôtels qui acceptent les chats', en: 'Passport, IATA carrier, anti-stress + cat-welcoming hotels', es: 'Pasaporte, transportín IATA, antiestrés + hoteles que admiten gatos', de: 'Pass, IATA-Transportbox, Anti-Stress + katzenfreundliche Hotels', nl: 'Paspoort, IATA-reismand, anti-stress + katvriendelijke hotels', it: 'Passaporto, trasportino IATA, anti-stress + hotel che accettano gatti' },
+  },
+  {
     slug: 'where-to-go-uk-school-holidays-2027',
     emoji: '🇬🇧',
     label: { fr: 'Où partir avec son chien selon les vacances scolaires 2027', en: 'Where to go for the 2027 UK school holidays', es: 'Dónde ir según las vacaciones escolares 2027', de: 'Wohin in den Schulferien 2027', nl: 'Waar naartoe tijdens de Britse schoolvakanties 2027', it: 'Dove andare con il tuo cane secondo le vacanze scolastiche 2027' },

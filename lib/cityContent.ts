@@ -54075,6 +54075,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  warnemunde: {
+    history: {
+      fr: `Warnemünde naît comme un petit village de pêcheurs à l'embouchure de la Warnow, cédé à la ville de Rostock en 1323 pour sécuriser son accès à la Baltique. Pendant des siècles, il reste un village de pêcheurs et de pilotes, jusqu'à ce que le XIXᵉ siècle en fasse l'une des premières stations balnéaires d'Allemagne : le chemin de fer arrive en 1886, villas et hôtels s'élèvent derrière la plage, et le phare blanc s'allume en 1898. L'Alter Strom, le chenal d'origine du port, aligne toujours les cotres de pêche et les maisons à pignon des capitaines qui donnent à la ville son air de carte postale. À l'époque de la RDA, Warnemünde devient une station pour les travailleurs et gagne l'étonnant pavillon du Teepott ; aujourd'hui, c'est le quartier balnéaire de Rostock et un grand port de croisière. Pour les chiens, l'héritage est une immense plage, un port à parcourir à pied et des kilomètres de forêt côtière, à quelques minutes de S-Bahn de la ville.`,
+      en: `Warnemünde began as a small fishing village at the mouth of the Warnow, granted to the city of Rostock in 1323 to secure its access to the Baltic. For centuries it stayed a village of fishermen and pilots, until the 19th century turned it into one of Germany's earliest seaside resorts: the railway arrived in 1886, grand villas and hotels rose behind the beach, and the white lighthouse was lit in 1898. The Alter Strom, the original harbour channel, still lines up the fishing cutters and gabled captains' houses that give the town its postcard face. In the GDR era Warnemünde became a workers' holiday resort and gained the striking Teepott pavilion; today it is Rostock's seaside district and a major Baltic cruise port. For dogs, the legacy is a huge beach, a walkable harbour and miles of coastal forest, all a short S-Bahn ride from the city.`,
+      es: `Warnemünde nació como un pequeño pueblo de pescadores en la desembocadura del Warnow, cedido a la ciudad de Rostock en 1323 para asegurar su acceso al Báltico. Durante siglos siguió siendo un pueblo de pescadores y prácticos, hasta que el siglo XIX lo convirtió en uno de los primeros balnearios de Alemania: el ferrocarril llegó en 1886, villas y hoteles se alzaron tras la playa, y el faro blanco se encendió en 1898. El Alter Strom, el canal original del puerto, aún alinea los cúteres de pesca y las casas con hastial de los capitanes que dan a la ciudad su imagen de postal. En la época de la RDA, Warnemünde se convirtió en un centro vacacional para los trabajadores y ganó el llamativo pabellón del Teepott; hoy es el barrio costero de Rostock y un gran puerto de cruceros. Para los perros, el legado es una playa enorme, un puerto para recorrer a pie y kilómetros de bosque costero, a pocos minutos de S-Bahn de la ciudad.`,
+      pt: `Warnemünde começou como uma pequena aldeia de pescadores na foz do Warnow, cedida à cidade de Rostock em 1323 para garantir o seu acesso ao Báltico. Durante séculos manteve-se uma aldeia de pescadores e pilotos, até o século XIX a transformar numa das primeiras estâncias balneares da Alemanha: o caminho de ferro chegou em 1886, villas e hotéis ergueram-se atrás da praia, e o farol branco acendeu-se em 1898. O Alter Strom, o canal original do porto, ainda alinha as traineiras de pesca e as casas com empena dos capitães que dão à vila o seu ar de postal. Na época da RDA, Warnemünde tornou-se uma estância para os trabalhadores e ganhou o marcante pavilhão do Teepott; hoje é o bairro à beira-mar de Rostock e um grande porto de cruzeiros. Para os cães, o legado é uma praia enorme, um porto para percorrer a pé e quilómetros de floresta costeira, a poucos minutos de S-Bahn da cidade.`,
+    },
+    sights: [
+      {
+        name: 'Leuchtturm Warnemünde',
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: `Le phare blanc de 1898, emblème de Warnemünde, à la rencontre de la promenade et de la plage. On ne monte pas avec un chien dans la tour, mais le pied et la place alentour, gratuits, offrent les plus belles vues sur la plage et le port.`,
+          en: `The white 1898 lighthouse, Warnemünde's emblem, where the promenade meets the beach. You cannot take a dog up the tower, but the base and surrounding plaza, both free, give the best views over the beach and harbour.`,
+          es: `El faro blanco de 1898, emblema de Warnemünde, donde el paseo se une a la playa. No se sube con un perro a la torre, pero la base y la plaza de alrededor, gratuitas, ofrecen las mejores vistas de la playa y el puerto.`,
+          pt: `O farol branco de 1898, emblema de Warnemünde, onde o passeio encontra a praia. Não se sobe com um cão à torre, mas a base e a praça em redor, gratuitas, oferecem as melhores vistas da praia e do porto.`,
+        },
+      },
+      {
+        name: 'Teepott',
+        emoji: '🛸',
+        petFriendly: false,
+        desc: {
+          fr: `Le pavillon au toit en coquille, à côté du phare, est l'une des architectures modernes les plus connues de la côte. Le chien n'entre pas dans les commerces, mais le bâtiment et sa place face à la mer se voient en laisse.`,
+          en: `The shell-roofed pavilion beside the lighthouse is one of the coast's best-known pieces of modern architecture. Dogs cannot go inside the venues, but the building and its seafront plaza can be seen on the lead.`,
+          es: `El pabellón de tejado de concha, junto al faro, es una de las arquitecturas modernas más conocidas de la costa. El perro no entra en los locales, pero el edificio y su plaza frente al mar se ven con correa.`,
+          pt: `O pavilhão de telhado em concha, ao lado do farol, é uma das arquiteturas modernas mais conhecidas da costa. O cão não entra nos estabelecimentos, mas o edifício e a sua praça frente ao mar veem-se à trela.`,
+        },
+      },
+      {
+        name: 'Alter Strom',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `L'ancien chenal du port, cœur de Warnemünde, où les cotres de pêche s'amarrent devant maisons à pignon, cafés et kiosques à Fischbrötchen. Le parcourir en laisse est l'expérience essentielle de la ville.`,
+          en: `The old harbour channel at the heart of Warnemünde, where fishing cutters moor in front of gabled houses, cafés and Fischbrötchen kiosks. Walking it on the lead is the essential Warnemünde experience.`,
+          es: `El antiguo canal del puerto, corazón de Warnemünde, donde los cúteres de pesca amarran ante casas con hastial, cafés y kioscos de Fischbrötchen. Recorrerlo con correa es la experiencia esencial de la ciudad.`,
+          pt: `O antigo canal do porto, coração de Warnemünde, onde as traineiras de pesca atracam diante de casas com empena, cafés e quiosques de Fischbrötchen. Percorrê-lo à trela é a experiência essencial da vila.`,
+        },
+      },
+      {
+        name: 'Westmole & Seepromenade',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `La promenade plate du front de mer mène à la Westmole, la longue jetée à l'embouchure du port. Balade en laisse aérée et panoramique, idéale pour regarder ferries et bateaux de croisière entrer et sortir.`,
+          en: `The flat seafront promenade leads out to the Westmole, the long pier at the harbour mouth. A breezy, scenic leashed walk, perfect for watching ferries and cruise ships come and go.`,
+          es: `El llano paseo marítimo lleva a la Westmole, el largo muelle en la bocana del puerto. Un paseo con correa aireado y panorámico, ideal para ver entrar y salir ferrys y cruceros.`,
+          pt: `O plano passeio marítimo leva à Westmole, o longo pontão na boca do porto. Um passeio à trela arejado e panorâmico, ideal para ver entrar e sair ferries e navios de cruzeiro.`,
+        },
+      },
+      {
+        name: 'Stoltera (Steilküste)',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Une côte à falaise boisée de 25 m de haut juste à l'ouest, réserve naturelle de 83 ha avec des sentiers forestiers et des vues sur la mer. Chiens en laisse ; alternative fraîche et ombragée à la plage.`,
+          en: `A wooded cliff coast rising to 25 metres just west of town, an 83-hectare nature reserve with forest paths and sea views. Dogs on the lead; a cool, shaded alternative to the beach.`,
+          es: `Una costa de acantilado boscoso de 25 m de alto justo al oeste, reserva natural de 83 ha con senderos forestales y vistas al mar. Perros con correa; una alternativa fresca y con sombra a la playa.`,
+          pt: `Uma costa de arriba arborizada de 25 m de altura mesmo a oeste, reserva natural de 83 ha com trilhos florestais e vistas de mar. Cães à trela; uma alternativa fresca e com sombra à praia.`,
+        },
+      },
+      {
+        name: 'Rostocker Heide & Markgrafenheide',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `L'une des plus grandes forêts côtières d'Allemagne, à l'est par le petit bac de la Warnow, avec des chemins plats et ombragés jusqu'à la plage tranquille de Markgrafenheide. Chiens en laisse, espace et fraîcheur.`,
+          en: `One of Germany's largest coastal forests, east across the little Warnow ferry, with flat, shaded tracks down to the quiet Markgrafenheide beach. Dogs on the lead, with space and cool air.`,
+          es: `Uno de los mayores bosques costeros de Alemania, al este cruzando el pequeño ferry del Warnow, con caminos llanos y con sombra hasta la tranquila playa de Markgrafenheide. Perros con correa, espacio y frescor.`,
+          pt: `Uma das maiores florestas costeiras da Alemanha, a leste pelo pequeno ferry do Warnow, com caminhos planos e com sombra até à tranquila praia de Markgrafenheide. Cães à trela, espaço e frescura.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Gardez votre chien en laisse courte (2 m max) sur toute la plage de baignade, la promenade et la réserve de la Stoltera : c'est obligatoire toute l'année.`,
+        `L'été (1er mai-30 sept), utilisez la plage pour chiens de Diedrichshagen en journée ; la plage du centre n'est ouverte aux chiens que de 21h à 9h.`,
+        `D'octobre à avril, les chiens sont admis sur toutes les sections de plage, la meilleure période pour de longues balades hors saison.`,
+        `Traversez la Warnow avec le petit bac piéton pour rejoindre la plage plus calme de Markgrafenheide et la forêt ombragée de la Rostocker Heide.`,
+        `Les chiens voyagent dans la S-Bahn, les trams et les bus en laisse ; vérifiez le tarif VVW, car un grand chien peut nécessiter un billet réduit.`,
+      ],
+      en: [
+        `Keep your dog on a short lead (max 2 m) across the whole bathing beach, the promenade and the Stoltera reserve; it is required year-round.`,
+        `In summer (1 May-30 Sep), use the Diedrichshagen dog beach by day; the central town beach is open to dogs only 21:00-09:00.`,
+        `From October to April dogs are welcome on every beach section, the best time for long off-season walks.`,
+        `Cross the Warnow on the little passenger ferry to reach the quieter Markgrafenheide beach and the shaded Rostocker Heide forest.`,
+        `Dogs travel on the S-Bahn, trams and buses on a lead; check the VVW fare, as a larger dog may need a reduced ticket.`,
+      ],
+      es: [
+        `Mantén al perro con correa corta (máx. 2 m) en toda la playa de baño, el paseo y la reserva de la Stoltera: es obligatorio todo el año.`,
+        `En verano (1 may-30 sep), usa la playa para perros de Diedrichshagen de día; la playa del centro solo abre a perros de 21:00 a 9:00.`,
+        `De octubre a abril los perros son bienvenidos en todas las secciones de playa, la mejor época para largos paseos fuera de temporada.`,
+        `Cruza el Warnow con el pequeño ferry de pasajeros para llegar a la tranquila playa de Markgrafenheide y al umbrío bosque de la Rostocker Heide.`,
+        `Los perros viajan en la S-Bahn, los tranvías y los autobuses con correa; consulta la tarifa VVW, pues un perro grande puede necesitar un billete reducido.`,
+      ],
+      pt: [
+        `Mantenha o cão com trela curta (máx. 2 m) em toda a praia balnear, no passeio e na reserva da Stoltera: é obrigatório todo o ano.`,
+        `No verão (1 mai-30 set), use a praia para cães de Diedrichshagen de dia; a praia do centro só abre a cães das 21h às 9h.`,
+        `De outubro a abril os cães são bem-vindos em todas as secções de praia, a melhor altura para longos passeios fora de época.`,
+        `Atravesse o Warnow no pequeno ferry de passageiros para chegar à tranquila praia de Markgrafenheide e à sombria floresta da Rostocker Heide.`,
+        `Os cães viajam na S-Bahn, nos elétricos e nos autocarros à trela; confirme a tarifa VVW, pois um cão grande pode precisar de bilhete reduzido.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Warnemünde est un quartier de Rostock ; la S-Bahn relie les deux en une vingtaine de minutes, et les vétérinaires les plus proches sont dans les faubourgs nord-ouest de Rostock.`,
+        `On y arrive en voiture par la B103 depuis l'A19, ou en train jusqu'à la gare centrale de Rostock puis la S-Bahn.`,
+        `Emportez le passeport européen de votre chien avec une vaccination antirabique valide, comme partout en Allemagne.`,
+        `Le printemps et l'automne sont plus calmes et plus frais que le pic de juillet-août, quand l'Alter Strom et la plage sont fréquentés.`,
+        `Pour une urgence vétérinaire hors horaires, le Mecklembourg-Poméranie dispose d'un service de garde pour petits animaux ; demandez le numéro à votre hôte ou à votre cabinet.`,
+      ],
+      en: [
+        `Warnemünde is a district of Rostock; the S-Bahn links the two in about 20 minutes, and the nearest vets are in Rostock's north-western suburbs.`,
+        `Reach it by car via the B103 from the A19, or by train to Rostock Hauptbahnhof then the S-Bahn.`,
+        `Carry your dog's EU pet passport with a valid rabies record, as everywhere in Germany.`,
+        `Spring and autumn are quieter and cooler than the July-August peak, when the Alter Strom and beach are busy.`,
+        `For an out-of-hours veterinary emergency, Mecklenburg-Vorpommern runs a small-animal on-call service; ask your host or practice for the number.`,
+      ],
+      es: [
+        `Warnemünde es un barrio de Rostock; la S-Bahn une ambos en unos 20 minutos, y los veterinarios más cercanos están en los suburbios del noroeste de Rostock.`,
+        `Se llega en coche por la B103 desde la A19, o en tren hasta la estación central de Rostock y luego la S-Bahn.`,
+        `Lleva el pasaporte europeo de tu perro con una vacuna antirrábica válida, como en toda Alemania.`,
+        `La primavera y el otoño son más tranquilos y frescos que el pico de julio-agosto, cuando el Alter Strom y la playa están concurridos.`,
+        `Para una urgencia veterinaria fuera de horario, Mecklemburgo-Pomerania Occidental tiene un servicio de guardia para pequeños animales; pide el número a tu anfitrión o a tu clínica.`,
+      ],
+      pt: [
+        `Warnemünde é um bairro de Rostock; a S-Bahn liga os dois em cerca de 20 minutos, e os veterinários mais próximos ficam nos subúrbios a noroeste de Rostock.`,
+        `Chega-se de carro pela B103 a partir da A19, ou de comboio até à estação central de Rostock e depois a S-Bahn.`,
+        `Leve o passaporte europeu do seu cão com uma vacina antirrábica válida, como em toda a Alemanha.`,
+        `A primavera e o outono são mais calmos e frescos do que o pico de julho-agosto, quando o Alter Strom e a praia estão cheios.`,
+        `Para uma emergência veterinária fora de horas, Meclemburgo-Pomerânia Ocidental tem um serviço de urgência para pequenos animais; peça o número ao anfitrião ou à sua clínica.`,
+      ],
+    },
+  },
+
   warsaw: {
     history: {
       fr: `Varsovie est une ville qui s'est reconstruite brique après brique. Détruite à 85 % pendant la Seconde Guerre mondiale, sa Vieille Ville a été restaurée à partir de tableaux et dessins d'avant-guerre, lui valant une reconnaissance UNESCO comme symbole de résilience. Aujourd'hui, la capitale polonaise superpose le Palais de la Culture communiste et des gratte-ciel de verre, reliant résidences royales et nature fluviale par des avenues ombragées comme Nowy Świat et Krakowskie Przedmieście. Varsovie est devenue, discrètement, l'une des capitales les plus dog-friendly d'Europe : presque tous les parcs acceptent les chiens en laisse, beaucoup de cafés de Śródmieście et Saska Kępa arborent le sticker 'pies mile widziany' (chien bienvenu), et les berges de la Vistule sont devenues un vrai sanctuaire urbain. La culture canine polonaise mêle ici pragmatisme et chaleur, et chiens de travail comme bâtards adoptés sont traités en membres de la famille sur chaque tram et terrasse.`,

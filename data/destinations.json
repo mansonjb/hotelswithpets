@@ -32276,5 +32276,31 @@
       "nov": { "temp": 6, "desc": "Grey & cool", "icon": "🌧️" },
       "dec": { "temp": 3, "desc": "Cold & grey", "icon": "🌧️" }
     }
+  },
+  {
+    "slug": "warnemunde",
+    "name": "Warnemünde",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/warnemunde.jpg",
+    "intro": "Warnemünde is Rostock's seaside face on the German Baltic: a former fishing village turned classic Ostseebad, where one of the widest white-sand beaches on the coast meets the Alter Strom, the old harbour channel lined with cutters, gabled houses and Fischbrötchen kiosks. Its white 1898 lighthouse and the space-age Teepott mark the harbour mouth, and the S-Bahn runs the resort to Rostock in twenty minutes. It is a genuinely dog-friendly base once you learn the beach rhythm: dogs stay on a short lead across the whole bathing beach year-round, the Diedrichshagen Hundestrand to the west is the daytime dog beach in summer, and from October to April dogs are welcome on every section. Away from the sand, the wooded Stoltera cliff and the vast Rostocker Heide forest give shaded, leashed walks, and the little Warnow ferry hops you across to quieter beaches. Breezy, well-connected and open year-round, Warnemünde is an easy seaside break with a dog.",
+    "lat": 54.178,
+    "lng": 12.083,
+    "weather": {
+      "jan": { "temp": 2, "desc": "Cold & windy", "icon": "🌬️" },
+      "feb": { "temp": 2, "desc": "Cold & bright", "icon": "🌤️" },
+      "mar": { "temp": 4, "desc": "Fresh & breezy", "icon": "🌥️" },
+      "apr": { "temp": 8, "desc": "Cool spring", "icon": "⛅" },
+      "may": { "temp": 13, "desc": "Mild & breezy", "icon": "🌤️" },
+      "jun": { "temp": 16, "desc": "Pleasant & fresh", "icon": "🌤️" },
+      "jul": { "temp": 18, "desc": "Warm summer", "icon": "☀️" },
+      "aug": { "temp": 19, "desc": "Warmest month", "icon": "☀️" },
+      "sep": { "temp": 15, "desc": "Mild & golden", "icon": "🌤️" },
+      "oct": { "temp": 11, "desc": "Cool & windy", "icon": "🌥️" },
+      "nov": { "temp": 6, "desc": "Grey & cool", "icon": "🌧️" },
+      "dec": { "temp": 3, "desc": "Cold & grey", "icon": "🌧️" }
+    }
   }
 ]

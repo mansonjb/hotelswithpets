@@ -36,6 +36,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "the Kaiserbäder dog beaches, the long seafront promenade past Germany's oldest and longest piers, and the shaded Küstenwald coastal forest",
       area: "the three Kaiserbäder of Ahlbeck, Heringsdorf and Bansin, the quieter Achterwasser lagoon villages, and the Streckelsberg cliff dune at Koserow",
     },
+    'warnemunde': {
+      personality: "Rostock's classic Baltic seaside resort, where one of Germany's widest sand beaches meets the Alter Strom harbour channel and dog owners walk the leashed promenade past the 1898 lighthouse and the Teepott",
+      highlight: "the Diedrichshagen dog beach, the Alter Strom quay and the wooded Stoltera cliff coast",
+      area: "the Alter Strom and seafront promenade, the Diedrichshagen dog beach to the west, and the Rostocker Heide forest across the Warnow",
+    },
     'asheville': {
       personality: "the great dog-friendly mountain town of the Blue Ridge, an arts-and-beer city where owners walk the Biltmore grounds and the Parkway overlooks, wander an Art Deco downtown of brewery patios, and drive out to national-forest waterfalls, always leashing up in bear country",
       highlight: "the Biltmore Estate grounds and gardens, the Blue Ridge Parkway overlooks and trails, and the brewery patios of downtown and the South Slope",
@@ -2189,6 +2194,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "les plages pour chiens des Kaiserbäder, la longue promenade du front de mer longeant les jetées les plus anciennes et les plus longues d'Allemagne, et la forêt côtière ombragée du Küstenwald",
       area: "les trois Kaiserbäder d'Ahlbeck, Heringsdorf et Bansin, les villages plus calmes de la lagune de l'Achterwasser, et la dune du Streckelsberg à Koserow",
     },
+    'warnemunde': {
+      personality: "la station balnéaire classique de Rostock sur la Baltique, où l'une des plus larges plages de sable d'Allemagne rejoint le chenal de l'Alter Strom et où les maîtres promènent leur chien en laisse le long de la promenade, devant le phare de 1898 et le Teepott",
+      highlight: "la plage pour chiens de Diedrichshagen, le quai de l'Alter Strom et la côte à falaise boisée de la Stoltera",
+      area: "l'Alter Strom et la promenade du front de mer, la plage pour chiens de Diedrichshagen à l'ouest, et la forêt de la Rostocker Heide de l'autre côté de la Warnow",
+    },
     'asheville': {
       personality: "la grande ville de montagne accueillante pour les chiens du Blue Ridge, une ville d'arts et de bière où les propriétaires parcourent le domaine du Biltmore et les points de vue de la Parkway, flânent dans un centre-ville Art déco aux terrasses de brasseries, et partent en voiture vers les cascades des forêts nationales, toujours en laisse en territoire d'ours",
       highlight: "le domaine et les jardins du Biltmore Estate, les points de vue et sentiers de la Blue Ridge Parkway, et les terrasses de brasseries du centre-ville et du South Slope",
@@ -4340,6 +4350,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "la isla balnearia más soleada de Alemania en el Báltico, donde los tres Kaiserbäder imperiales reservan playas para perros y un paseo bordeado de villas une Ahlbeck, Heringsdorf y Bansin para fáciles paseos con correa junto al mar",
       highlight: "las playas para perros de los Kaiserbäder, el largo paseo marítimo ante los muelles más antiguo y más largo de Alemania, y el bosque costero y umbrío del Küstenwald",
       area: "los tres Kaiserbäder de Ahlbeck, Heringsdorf y Bansin, los tranquilos pueblos de la laguna del Achterwasser, y la duna del Streckelsberg en Koserow",
+    },
+    'warnemunde': {
+      personality: "el clásico balneario báltico de Rostock, donde una de las playas de arena más anchas de Alemania se une al canal del Alter Strom y los dueños pasean a su perro con correa por el paseo, ante el faro de 1898 y el Teepott",
+      highlight: "la playa para perros de Diedrichshagen, el muelle del Alter Strom y la costa de acantilado boscoso de la Stoltera",
+      area: "el Alter Strom y el paseo marítimo, la playa para perros de Diedrichshagen al oeste, y el bosque de la Rostocker Heide al otro lado del Warnow",
     },
     'asheville': {
       personality: "el gran pueblo de montaña pet-friendly de las Blue Ridge, una ciudad de arte y cerveza donde los dueños pasean por los jardines del Biltmore y los miradores del Parkway, recorren un centro Art Déco de terrazas de cervecerías y salen en coche hasta cascadas de bosque nacional, siempre con correa en territorio de osos",
@@ -6493,6 +6508,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "as praias para cães dos Kaiserbäder, o longo passeio marítimo diante dos pontões mais antigo e mais comprido da Alemanha, e a floresta costeira e sombria do Küstenwald",
       area: "os três Kaiserbäder de Ahlbeck, Heringsdorf e Bansin, as aldeias mais calmas da lagoa do Achterwasser, e a duna do Streckelsberg em Koserow",
     },
+    'warnemunde': {
+      personality: "a clássica estância balnear báltica de Rostock, onde uma das praias de areia mais largas da Alemanha encontra o canal do Alter Strom e os donos passeiam o cão à trela pelo passeio, diante do farol de 1898 e do Teepott",
+      highlight: "a praia para cães de Diedrichshagen, o cais do Alter Strom e a costa de arriba arborizada da Stoltera",
+      area: "o Alter Strom e o passeio marítimo, a praia para cães de Diedrichshagen a oeste, e a floresta da Rostocker Heide do outro lado do Warnow",
+    },
     'asheville': {
       personality: "a grande cidade de montanha amiga de cães da Blue Ridge, uma cidade de arte e cerveja onde os donos passeiam pelos jardins do Biltmore e pelos miradouros da Parkway, percorrem um centro Art Deco de esplanadas de cervejarias e vão de carro até cascatas em florestas nacionais, sempre com o cão com trela em território de ursos",
       highlight: "os jardins e a propriedade do Biltmore Estate, os miradouros e trilhos da Blue Ridge Parkway, e as esplanadas de cervejarias do centro e do South Slope",
@@ -8644,6 +8664,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "die sonnenreichste Ostseeinsel Deutschlands, auf der die drei kaiserlichen Kaiserbäder Hundestrände ausweisen und eine villengesäumte Promenade Ahlbeck, Heringsdorf und Bansin für entspannte Leinenspaziergänge am Meer verbindet",
       highlight: "die Hundestrände der Kaiserbäder, die lange Strandpromenade vorbei an der ältesten und der längsten Seebrücke Deutschlands und der schattige Küstenwald",
       area: "die drei Kaiserbäder Ahlbeck, Heringsdorf und Bansin, die ruhigeren Dörfer am Achterwasser und die Kliffranddüne Streckelsberg bei Koserow",
+    },
+    'warnemunde': {
+      personality: "das klassische Ostseebad von Rostock, wo einer der breitesten Sandstrände Deutschlands auf den Alten Strom trifft und Hundehalter angeleint die Promenade am Leuchtturm von 1898 und am Teepott entlanggehen",
+      highlight: "der Hundestrand Diedrichshagen, der Kai am Alten Strom und die bewaldete Stoltera-Steilküste",
+      area: "der Alte Strom und die Strandpromenade, der Hundestrand Diedrichshagen im Westen und die Rostocker Heide jenseits der Warnow",
     },
     'asheville': {
       personality: "die große hundefreundliche Bergstadt der Blue Ridge, eine Stadt aus Kunst und Bier, in der Halter über das Biltmore-Gelände und die Parkway-Aussichtspunkte spazieren, durch eine Art-Deco-Innenstadt mit Brauereiterrassen schlendern und zu Wasserfällen im Nationalwald hinausfahren, immer an der Leine im Bärenland",
@@ -10797,6 +10822,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: "de hondenstranden van de Kaiserbäder, de lange boulevard langs de oudste en de langste pier van Duitsland, en het schaduwrijke kustbos Küstenwald",
       area: "de drie Kaiserbäder Ahlbeck, Heringsdorf en Bansin, de rustigere dorpen aan de Achterwasser-lagune, en de kliftduin Streckelsberg bij Koserow",
     },
+    'warnemunde': {
+      personality: "de klassieke Oostzeebadplaats van Rostock, waar een van de breedste zandstranden van Duitsland uitkomt op het Alter Strom-havenkanaal en hondenbaasjes aangelijnd over de promenade lopen, langs de vuurtoren uit 1898 en de Teepott",
+      highlight: "het hondenstrand van Diedrichshagen, de kade van de Alter Strom en de beboste Stoltera-klifkust",
+      area: "de Alter Strom en de boulevard, het hondenstrand van Diedrichshagen in het westen, en het bos van de Rostocker Heide aan de overkant van de Warnow",
+    },
     'asheville': {
       personality: "de grote dog-friendly bergstad van de Blue Ridge, een kunst- en bierstad waar baasjes over het terrein van de Biltmore en langs de uitzichtpunten van de Parkway wandelen, door een art-decocentrum vol brouwerijterrassen slenteren en naar watervallen in het nationale bos rijden, altijd aangelijnd in berengebied",
       highlight: "het terrein en de tuinen van de Biltmore Estate, de uitzichtpunten en paden van de Blue Ridge Parkway, en de brouwerijterrassen van het centrum en de South Slope",
@@ -12948,6 +12978,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: "l'isola balneare più soleggiata della Germania sul Baltico, dove i tre Kaiserbäder imperiali riservano spiagge per cani e una passeggiata orlata di ville collega Ahlbeck, Heringsdorf e Bansin per facili camminate al guinzaglio in riva al mare",
       highlight: "le spiagge per cani dei Kaiserbäder, la lunga passeggiata sul lungomare davanti al pontile più antico e a quello più lungo della Germania, e il bosco costiero ombroso del Küstenwald",
       area: "i tre Kaiserbäder di Ahlbeck, Heringsdorf e Bansin, i villaggi più tranquilli della laguna dell'Achterwasser, e la duna del Streckelsberg a Koserow",
+    },
+    'warnemunde': {
+      personality: "la classica località balneare baltica di Rostock, dove una delle spiagge di sabbia più ampie della Germania incontra il canale dell'Alter Strom e i proprietari passeggiano al guinzaglio sulla promenade, davanti al faro del 1898 e al Teepott",
+      highlight: "la spiaggia per cani di Diedrichshagen, la banchina dell'Alter Strom e la costa a falesia boscosa della Stoltera",
+      area: "l'Alter Strom e la passeggiata sul lungomare, la spiaggia per cani di Diedrichshagen a ovest, e il bosco della Rostocker Heide oltre il Warnow",
     },
     'asheville': {
       personality: "la grande città di montagna dog-friendly delle Blue Ridge, una città di arte e birra dove i proprietari passeggiano nei terreni del Biltmore e ai punti panoramici della Parkway, girano per un centro Art Deco di patii di birrifici e vanno in auto fino alle cascate della foresta nazionale, sempre al guinzaglio in territorio di orsi",

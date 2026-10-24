@@ -1800,9 +1800,9 @@ export default async function PetPassportGuidePage({
     dateModified: today.toISOString().split('T')[0],
     author: {
       '@type': 'Person',
-      name: 'HotelsWithPets Editorial',
+      name: 'Jean-Baptiste Manson',
       url: `${SITE_URL}/${locale}/about`,
-      jobTitle: 'Pet Travel Editor',
+      jobTitle: 'Founder & Editor',
     },
     publisher: {
       '@type': 'Organization',

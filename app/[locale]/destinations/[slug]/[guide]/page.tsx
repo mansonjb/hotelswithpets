@@ -330,9 +330,20 @@ export async function generateMetadata({
   const metaTitle = tpl ? tpl.title(localizedCity) : (fallbackTitle ?? guideData.titleEn)
   const metaDesc = tpl ? tpl.desc(localizedCity) : String(fallbackIntro ?? guideData.introEn ?? '').slice(0, 160)
 
+  // Thin-content guard (E-E-A-T / spam-update recovery): a place-based section with
+  // zero verified places, or any section whose intro is a "coming soon" placeholder,
+  // is too thin to index. Keep it crawlable (follow) so internal links still flow,
+  // but out of the index so it does not drag the domain's quality signal down.
+  const PLACE_SECTIONS = new Set(['beaches', 'parks', 'restaurants', 'vets', 'attractions'])
+  const introStr = String(guideData.introEn ?? '')
+  const placesEmpty = PLACE_SECTIONS.has(guide) && (!Array.isArray(guideData.places) || guideData.places.length === 0)
+  const comingSoon = /coming soon|content coming|bient[oô]t|em breve|pr[oó]ximamente|demn[aä]chst|binnenkort|prossimamente/i.test(introStr) || introStr.trim().length < 60
+  const isThin = placesEmpty || comingSoon
+
   return {
     title: `${metaTitle}`,
     description: metaDesc,
+    ...(isThin ? { robots: { index: false, follow: true } } : {}),
     alternates: {
       canonical: `${SITE_URL}/${locale}/destinations/${slug}/${guide}`,
       languages: {
@@ -768,7 +779,7 @@ export default async function GuideDetailPage({
     datePublished: cityGuide.lastUpdated,
     dateModified: cityGuide.lastUpdated,
     image: imageUrl(`/images/destinations/${slug}.jpg`),
-    author: { '@type': 'Person', name: 'HotelsWithPets Editorial', url: `${SITE_URL}/${locale}/about`, jobTitle: 'Pet Travel Editor' },
+    author: { '@type': 'Person', name: 'Jean-Baptiste Manson', url: `${SITE_URL}/${locale}/about`, jobTitle: 'Founder & Editor' },
     publisher: { '@type': 'Organization', name: 'HotelsWithPets.com', url: SITE_URL, logo: { '@type': 'ImageObject', url: `${SITE_URL}/logo.png`, width: 192, height: 192 } },
   }
 

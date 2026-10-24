@@ -239,10 +239,60 @@ const content: Record<string, {
   },
 }
 
+// Real editorial identity + verification method. A named human editor and an
+// explicit sourcing standard are core E-E-A-T signals Google looks for on a
+// young, large programmatic site. Kept honest: no invented credentials.
+const EDITOR_NAME = 'Jean-Baptiste Manson'
+const editorBlock: Record<string, { title: string; text: string; methodTitle: string; method: string }> = {
+  en: {
+    title: 'Who writes HotelsWithPets.com',
+    text: `HotelsWithPets.com is founded and edited by ${EDITOR_NAME}, a traveller who plans trips around Europe with pets. Every destination guide is researched, written and reviewed in-house before it goes live.`,
+    methodTitle: 'How we verify',
+    method: 'Every factual claim, a dog-beach rule, a vet phone number, a transport policy, is checked against at least two independent sources, or one official source such as a city council, tourist office or transport operator. When something cannot be verified, we leave it out rather than guess. Pet policies change, so each page shows when it was last updated.',
+  },
+  fr: {
+    title: 'Qui écrit HotelsWithPets.com',
+    text: `HotelsWithPets.com est fondé et édité par ${EDITOR_NAME}, un voyageur qui organise ses séjours en Europe avec ses animaux. Chaque guide de destination est recherché, rédigé et relu en interne avant sa mise en ligne.`,
+    methodTitle: 'Comment nous vérifions',
+    method: 'Chaque fait, une règle de plage pour chiens, un numéro de vétérinaire, une politique de transport, est vérifié auprès d\'au moins deux sources indépendantes, ou d\'une source officielle (mairie, office de tourisme, opérateur de transport). Ce qui ne peut pas être vérifié est retiré plutôt que deviné. Les politiques animaux évoluent : chaque page indique sa date de dernière mise à jour.',
+  },
+  es: {
+    title: 'Quién escribe HotelsWithPets.com',
+    text: `HotelsWithPets.com está fundado y editado por ${EDITOR_NAME}, un viajero que organiza sus viajes por Europa con sus mascotas. Cada guía de destino se investiga, redacta y revisa internamente antes de publicarse.`,
+    methodTitle: 'Cómo verificamos',
+    method: 'Cada dato, una norma de playa canina, un teléfono veterinario, una política de transporte, se contrasta con al menos dos fuentes independientes, o con una fuente oficial (ayuntamiento, oficina de turismo, operador de transporte). Lo que no se puede verificar se omite en lugar de suponerlo. Las políticas de mascotas cambian: cada página muestra su fecha de última actualización.',
+  },
+  pt: {
+    title: 'Quem escreve o HotelsWithPets.com',
+    text: `O HotelsWithPets.com é fundado e editado por ${EDITOR_NAME}, um viajante que organiza as suas viagens pela Europa com os seus animais. Cada guia de destino é investigado, escrito e revisto internamente antes de ser publicado.`,
+    methodTitle: 'Como verificamos',
+    method: 'Cada facto, uma regra de praia para cães, um número de veterinário, uma política de transporte, é confrontado com pelo menos duas fontes independentes, ou uma fonte oficial (câmara municipal, posto de turismo, operador de transporte). O que não pode ser verificado é omitido em vez de adivinhado. As políticas para animais mudam: cada página mostra a sua data de última atualização.',
+  },
+  de: {
+    title: 'Wer HotelsWithPets.com schreibt',
+    text: `HotelsWithPets.com wird von ${EDITOR_NAME} gegründet und redigiert, einem Reisenden, der seine Europareisen mit Haustieren plant. Jeder Reiseführer wird intern recherchiert, geschrieben und geprüft, bevor er online geht.`,
+    methodTitle: 'Wie wir prüfen',
+    method: 'Jede Angabe, eine Hundestrand-Regel, eine Tierarzt-Telefonnummer, eine Transportvorschrift, wird mit mindestens zwei unabhängigen Quellen oder einer offiziellen Quelle (Gemeinde, Touristinformation, Verkehrsbetrieb) abgeglichen. Was sich nicht prüfen lässt, lassen wir weg, statt zu raten. Tierrichtlinien ändern sich: Jede Seite zeigt ihr Datum der letzten Aktualisierung.',
+  },
+  nl: {
+    title: 'Wie HotelsWithPets.com schrijft',
+    text: `HotelsWithPets.com wordt opgericht en geredigeerd door ${EDITOR_NAME}, een reiziger die zijn reizen door Europa met huisdieren plant. Elke bestemmingsgids wordt intern onderzocht, geschreven en nagekeken voordat hij online gaat.`,
+    methodTitle: 'Hoe we verifiëren',
+    method: 'Elk feit, een hondenstrandregel, een telefoonnummer van een dierenarts, een vervoersregel, wordt getoetst aan minstens twee onafhankelijke bronnen, of één officiële bron (gemeente, VVV, vervoerder). Wat niet te verifiëren is, laten we weg in plaats van te gokken. Huisdierbeleid verandert: elke pagina toont de datum van de laatste update.',
+  },
+  it: {
+    title: 'Chi scrive HotelsWithPets.com',
+    text: `HotelsWithPets.com è fondato e curato da ${EDITOR_NAME}, un viaggiatore che organizza i suoi viaggi in Europa con gli animali. Ogni guida di destinazione è ricercata, scritta e revisionata internamente prima della pubblicazione.`,
+    methodTitle: 'Come verifichiamo',
+    method: 'Ogni dato, una regola di spiaggia per cani, un numero di veterinario, una politica di trasporto, è confrontato con almeno due fonti indipendenti, o una fonte ufficiale (comune, ufficio turistico, operatore di trasporto). Ciò che non si può verificare viene omesso invece di essere indovinato. Le politiche sugli animali cambiano: ogni pagina mostra la data dell\'ultimo aggiornamento.',
+  },
+}
+
 export default async function AboutPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
   const c = content[locale] ?? content.en
+  const e = editorBlock[locale] ?? editorBlock.en
 
   // E-E-A-T signals: structured Organization + AboutPage schema for Google.
   // Helps the Search Console understand who runs the site and where the
@@ -262,6 +312,7 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
       logo: { '@type': 'ImageObject', url: `${SITE_URL}/favicon.ico` },
       description: 'A trip-planning platform for travellers with pets. We curate verified pet-friendly hotels and city guides across 66 European destinations.',
       foundingDate: '2026',
+      founder: { '@type': 'Person', '@id': `${SITE_URL}/#editor`, name: EDITOR_NAME, jobTitle: 'Founder & Editor', url: `${SITE_URL}/${locale}/about` },
       areaServed: { '@type': 'Continent', name: 'Europe' },
       knowsLanguage: ['en', 'fr', 'es', 'pt', 'de'],
       knowsAbout: [
@@ -295,6 +346,14 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
           <section>
             <h2 className="text-2xl font-extrabold text-gray-900 mb-4">{c.mission.title}</h2>
             <p className="text-gray-600 leading-relaxed text-lg">{c.mission.text}</p>
+          </section>
+
+          {/* Editor identity + verification method (E-E-A-T) */}
+          <section>
+            <h2 className="text-2xl font-extrabold text-gray-900 mb-4">{e.title}</h2>
+            <p className="text-gray-600 leading-relaxed">{e.text}</p>
+            <h3 className="text-lg font-bold text-gray-900 mt-6 mb-2">{e.methodTitle}</h3>
+            <p className="text-gray-600 leading-relaxed">{e.method}</p>
           </section>
 
           {/* How we select */}

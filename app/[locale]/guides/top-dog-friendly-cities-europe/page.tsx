@@ -669,7 +669,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
     inLanguage: locale,
     datePublished: '2026-04-27T00:00:00Z',
     dateModified: '2026-06-26',
-    author: { '@type': 'Person', name: 'HotelsWithPets Editorial', jobTitle: 'Pet Travel Editor', url: SITE_URL },
+    author: { '@type': 'Person', name: 'Jean-Baptiste Manson', jobTitle: 'Founder & Editor', url: SITE_URL },
     publisher: { '@type': 'Organization', name: 'HotelsWithPets', url: SITE_URL, logo: { '@type': 'ImageObject', url: `${SITE_URL}/favicon.ico` } },
     mainEntityOfPage: { '@type': 'WebPage', '@id': `${SITE_URL}/${locale}/guides/${SLUG}` },
   }

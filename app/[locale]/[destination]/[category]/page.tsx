@@ -233,7 +233,7 @@ function buildSchema(
     description: `Handpicked ${catName.toLowerCase()} hotels in ${dest.name}, ${dest.country}.`,
     url: `${base}/${locale}/${dest.slug}/${cat.slug}`,
     dateModified: '2026-06-26',
-    author: { '@type': 'Person', name: 'HotelsWithPets Editorial', jobTitle: 'Pet Travel Editor', url: base },
+    author: { '@type': 'Person', name: 'Jean-Baptiste Manson', jobTitle: 'Founder & Editor', url: base },
     publisher: { '@type': 'Organization', name: 'HotelsWithPets.com', url: base, logo: { '@type': 'ImageObject', url: `${base}/logo.png`, width: 192, height: 192 } },
   }
 

@@ -584,7 +584,7 @@ export default async function Page({
     headline: t.title,
     description: t.intro,
     inLanguage: locale,
-    author: { '@type': 'Person', name: 'HotelsWithPets Editorial', jobTitle: 'Pet Travel Editor', url: SITE_URL },
+    author: { '@type': 'Person', name: 'Jean-Baptiste Manson', jobTitle: 'Founder & Editor', url: SITE_URL },
     publisher: { '@type': 'Organization', name: 'HotelsWithPets', url: SITE_URL },
   }
 

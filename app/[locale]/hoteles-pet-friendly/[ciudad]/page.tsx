@@ -109,7 +109,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       description: `Los ${cityHotels.length} mejores hoteles que admiten mascotas en ${cityEs}.`,
       datePublished: '2026-05-09T00:00:00Z',
       dateModified: '2026-06-26',
-      author: { '@type': 'Person', name: 'HotelsWithPets Editorial', jobTitle: 'Pet Travel Editor', url: SITE_URL },
+      author: { '@type': 'Person', name: 'Jean-Baptiste Manson', jobTitle: 'Founder & Editor', url: SITE_URL },
       mainEntityOfPage: `${SITE_URL}/es/hoteles-pet-friendly/${ciudad}`,
     },
     {

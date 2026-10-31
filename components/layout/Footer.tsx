@@ -78,6 +78,7 @@ export default function Footer({ locale, dict }: FooterProps) {
               <li><Link href={`/${locale}/about`} className="hover:text-white transition-colors">{footer.about}</Link></li>
               <li><Link href={`/${locale}/affiliate-disclosure`} className="hover:text-white transition-colors">{footer.disclosure}</Link></li>
               <li><Link href={`/${locale}/privacy`} className="hover:text-white transition-colors">{footer.privacy ?? 'Privacy Policy'}</Link></li>
+              <li><a href="mailto:contact@hotelswithpets.com" className="hover:text-white transition-colors">{locale === 'fr' ? 'Contact' : locale === 'es' ? 'Contacto' : locale === 'pt' ? 'Contacto' : locale === 'nl' ? 'Contact' : locale === 'de' ? 'Kontakt' : locale === 'it' ? 'Contatti' : 'Contact'}</a></li>
             </ul>
           </div>
         </div>
@@ -149,8 +150,9 @@ export default function Footer({ locale, dict }: FooterProps) {
           </div>
         </div>
 
-        <div className="border-t border-gray-800 mt-6 pt-6 text-sm text-gray-500">
-          {footer.copyright}
+        <div className="border-t border-gray-800 mt-6 pt-6 text-sm text-gray-500 flex flex-wrap items-center justify-between gap-2">
+          <span>{footer.copyright}</span>
+          <a href="mailto:contact@hotelswithpets.com" className="hover:text-gray-300 transition-colors">contact@hotelswithpets.com</a>
         </div>
       </div>
     </footer>

@@ -556,6 +556,11 @@ export default async function Page({
             mention «&nbsp;Sponsorisé&nbsp;» et n&apos;altèrent pas notre évaluation des garanties.
             Rédigé par Jean-Baptiste Manson, fondateur et éditeur de HotelsWithPets.com.
           </p>
+          <p className="text-sm text-stone-600 leading-relaxed mt-3 pt-3 border-t border-stone-100">
+            Vous représentez un assureur et souhaitez apparaître ou faire remonter votre offre
+            dans ce comparatif ? Écrivez-nous à{' '}
+            <a href="mailto:contact@hotelswithpets.com" className="text-blue-700 underline hover:text-blue-900">contact@hotelswithpets.com</a>.
+          </p>
         </section>
 
         {/* ── Sources ── */}

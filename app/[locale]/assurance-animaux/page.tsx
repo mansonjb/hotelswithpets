@@ -48,10 +48,18 @@ type Insurer = {
   color: string
   kind: string
   verdict: string
+  tagline: string
+  species: string
   reimbursement: string
   carence: string
+  formulas: string
   priceFrom?: string
   covered: string[]
+  summary: string
+  pros: string[]
+  cons: string[]
+  reimbMethod: string
+  extras: string[]
   strength: string
   watch: string
   idealFor: string
@@ -62,19 +70,35 @@ type Insurer = {
 const INSURERS: Insurer[] = [
   {
     name: 'Lassie', domain: 'lassie.co', initials: 'La', color: '#0d9488',
-    kind: 'Assureur digital nouvelle génération', verdict: 'Le plus complet',
-    reimbursement: 'Jusqu’à 100 %', carence: 'Variable selon la formule',
+    kind: 'Assureur santé animale digital nouvelle génération', verdict: 'Le plus complet',
+    tagline: 'Couverture complète chien & chat, prévention récompensée',
+    species: 'Chien et chat', reimbursement: 'Jusqu’à 100 % des frais vétérinaires',
+    carence: 'Courte sur l’accident, plus longue sur la maladie, variable selon la formule',
+    formulas: 'Plusieurs niveaux, du contrat accidents à la couverture santé complète, aux plafonds annuels croissants',
     covered: ['Accidents et maladies', 'Chirurgie et hospitalisation', 'Prévention récompensée'],
+    summary: 'Lassie est un assureur santé animale 100 % digital qui couvre chien et chat contre les accidents et les maladies, de la simple consultation à la chirurgie lourde. Sa signature est la prévention : en réalisant les actions de prévention proposées (bilans, antiparasitaires, suivi de l’animal), vous faites baisser votre cotisation mensuelle. Son contrat chien a été élu meilleur du marché au test consommateur indépendant allemand Stiftung Warentest (mai 2025), ce qui en fait une référence pour une protection haut de gamme.',
+    pros: ['Couverture accidents + maladies parmi les plus complètes du comparatif', 'Programme de prévention qui réduit concrètement la cotisation', 'Souscription, déclarations et remboursements entièrement en ligne', 'Primé par un test consommateur indépendant reconnu'],
+    cons: ['Trois formules aux plafonds annuels différents : comparez le plafond avant de choisir', 'Les niveaux de garanties les plus élevés font grimper la cotisation'],
+    reimbMethod: 'Déclaration en ligne depuis l’espace client ou l’application, puis remboursement du taux prévu, franchise déduite, dans la limite du plafond annuel.',
+    extras: ['Programme de prévention récompensé', 'Espace client et appli de suivi', 'Forfait prévention selon la formule'],
     strength: 'Élu meilleur contrat chien au test allemand Stiftung Warentest (mai 2025). Souscription et déclarations 100 % en ligne, programme de prévention qui réduit la cotisation.',
     watch: 'Trois formules aux plafonds annuels différents : vérifiez le plafond avant de choisir.',
-    idealFor: 'Ceux qui veulent une couverture complète et un suivi digital.',
+    idealFor: 'Ceux qui veulent une couverture complète et un suivi 100 % digital.',
     url: 'https://www.lassie.co/fr', sponsored: false,
   },
   {
     name: 'Dalma', domain: 'dalma.co', initials: 'Da', color: '#7c3aed',
-    kind: 'Assureur digital, remboursement rapide', verdict: 'Remboursé en 48 h',
-    reimbursement: 'Jusqu’à 100 %', carence: '48 h accident, délai maladie à confirmer',
+    kind: 'Assureur digital français, remboursement express', verdict: 'Remboursé en 48 h',
+    tagline: 'Remboursement sous 48 h, tout piloté depuis l’appli',
+    species: 'Chien et chat', reimbursement: 'Jusqu’à 100 % des frais vétérinaires',
+    carence: '48 h sur l’accident, délai maladie à confirmer aux conditions générales',
+    formulas: 'Formules modulables : vous ajustez taux de remboursement, plafond annuel et forfait prévention selon le budget',
     covered: ['Accidents et maladies', 'Téléconsultation vétérinaire', 'Appli de suivi des remboursements'],
+    summary: 'Dalma est un assureur santé animale digital français pensé pour la rapidité. Une fois la feuille de soins envoyée depuis l’application, le remboursement des frais vétérinaires est annoncé sous 48 heures, là où beaucoup d’assureurs classiques prennent plusieurs semaines. Toute la relation se gère depuis le mobile, avec selon l’offre un accès à la téléconsultation vétérinaire pour avoir un avis sans se déplacer. Le rapport couverture / prix figure parmi les plus équilibrés du marché.',
+    pros: ['Remboursement des frais vétérinaires annoncé sous 48 h', 'Application mobile complète pour tout gérer', 'Téléconsultation vétérinaire incluse selon l’offre', 'Bon rapport entre niveau de couverture et prix'],
+    cons: ['Comparez le plafond annuel et la franchise entre les formules', 'Le délai de carence maladie est à confirmer aux conditions générales'],
+    reimbMethod: 'Vous photographiez la feuille de soins dans l’appli : remboursement annoncé sous 48 h, selon le taux de la formule et dans la limite du plafond annuel.',
+    extras: ['Application mobile de suivi', 'Téléconsultation vétérinaire', 'Forfait prévention selon la formule'],
     strength: 'Remboursements annoncés sous 48 h, application mobile, téléconsultation vétérinaire selon l’offre. Très bon rapport couverture / prix.',
     watch: 'Comparez le plafond annuel et la franchise entre les formules.',
     idealFor: 'Ceux qui veulent un remboursement rapide et tout piloter depuis une appli.',
@@ -82,19 +106,35 @@ const INSURERS: Insurer[] = [
   },
   {
     name: 'Acheel', domain: 'acheel.com', initials: 'Ac', color: '#2563eb',
-    kind: 'Assureur digital, entrée de gamme', verdict: 'Petit budget',
-    reimbursement: 'Jusqu’à 100 %', carence: 'À confirmer aux CG',
+    kind: 'Assureur digital multi-produits, entrée de gamme', verdict: 'Petit budget',
+    tagline: 'Le tarif d’appel le plus bas, un seul contrat à moduler',
+    species: 'Chien et chat', reimbursement: 'Jusqu’à 100 % selon le paramétrage',
+    carence: 'À confirmer aux conditions générales',
+    formulas: 'Un contrat unique paramétrable : taux de remboursement, plafond et options s’ajustent pour faire varier la cotisation',
     covered: ['Accidents et maladies', 'Contrat unique modulable', 'Souscription rapide'],
+    summary: 'Acheel est un assureur digital multi-produits (auto, habitation, santé) dont l’assurance pour animaux affiche souvent l’un des tarifs d’entrée les plus bas du marché. Le principe est volontairement simple : un contrat unique que vous modulez (taux de remboursement, plafond annuel, options) pour coller à votre budget, avec une souscription rapide et 100 % en ligne. C’est une porte d’entrée efficace pour couvrir son chien ou son chat contre les accidents et les maladies sans exploser son budget.',
+    pros: ['Tarif d’appel souvent le plus bas du marché', 'Un seul contrat modulable, facile à comprendre', 'Souscription 100 % en ligne et rapide'],
+    cons: ['Un tarif bas peut rimer avec un plafond annuel plus serré', 'Lisez le détail des garanties et le délai de carence avant de souscrire'],
+    reimbMethod: 'Envoi des justificatifs depuis l’espace client, remboursement du taux choisi selon la formule et dans la limite du plafond.',
+    extras: ['Gestion 100 % en ligne', 'Garanties et options modulables', 'Réduction multi-animaux selon le contrat'],
     strength: 'Souvent le tarif d’appel le plus bas du marché, un seul contrat que l’on module selon son budget.',
     watch: 'Un tarif bas peut rimer avec plafond annuel plus serré : lisez le détail des garanties.',
-    idealFor: 'Les budgets serrés qui veulent une protection de base.',
+    idealFor: 'Les budgets serrés qui veulent une protection de base solide.',
     url: 'https://www.acheel.com', sponsored: false,
   },
   {
     name: 'Santévet', domain: 'santevet.com', initials: 'Sa', color: '#ea580c',
-    kind: 'Référence du marché, large réseau', verdict: 'Réseau vétérinaire',
-    reimbursement: 'Jusqu’à 100 % (Light / Confort / Premium)', carence: '48 h accident, 45 j maladie, 6 mois chirurgie',
+    kind: 'Référence historique du marché, large réseau', verdict: 'Réseau vétérinaire',
+    tagline: 'Le tiers payant pour ne pas avancer les frais vétérinaires',
+    species: 'Chien et chat', reimbursement: 'Jusqu’à 100 % (formules Light / Confort / Premium)',
+    carence: '48 h accident, 45 j maladie, 6 mois chirurgie',
+    formulas: 'Trois formules : Light (budget), Confort (intermédiaire), Premium (couverture complète), aux plafonds et taux croissants',
     covered: ['Accidents et maladies', 'Large réseau de cliniques', 'Tiers payant possible'],
+    summary: 'Santévet est l’un des acteurs les plus anciens et les plus répandus de l’assurance santé animale en France. Son véritable atout est son large réseau de cliniques vétérinaires partenaires et son système de tiers payant : chez de nombreux praticiens, l’assureur règle directement la clinique et vous n’avancez que le reste à charge, ce qui évite de sortir plusieurs centaines d’euros en cas d’opération. Trois niveaux de formule (Light, Confort, Premium) permettent de calibrer la couverture du budget serré à la protection complète.',
+    pros: ['Large réseau de cliniques vétérinaires partenaires', 'Tiers payant possible : vous n’avancez pas les frais', 'Trois formules du budget au haut de gamme', 'Acteur historique bien implanté et solide'],
+    cons: ['Délai de carence chirurgie de 6 mois assez long', 'À anticiper si l’animal est déjà âgé ou fragile'],
+    reimbMethod: 'Envoi de la feuille de soins depuis l’espace client, ou tiers payant chez un vétérinaire partenaire : la clinique est réglée directement.',
+    extras: ['Réseau de cliniques partenaires', 'Tiers payant', 'Forfait prévention selon la formule'],
     strength: 'Un des plus anciens et des plus répandus en France. Large réseau de cliniques partenaires et tiers payant possible chez de nombreux vétérinaires (vous n’avancez pas les frais).',
     watch: 'Le délai de carence chirurgie de 6 mois est long : à anticiper pour un animal âgé.',
     idealFor: 'Ceux qui veulent éviter d’avancer les frais chez le vétérinaire.',
@@ -102,9 +142,17 @@ const INSURERS: Insurer[] = [
   },
   {
     name: 'Carrefour', domain: 'carrefour-assurance.fr', initials: 'Ca', color: '#1d4ed8',
-    kind: 'Grande distribution', verdict: 'Tarif d’appel bas',
-    reimbursement: 'Selon la formule', carence: 'À confirmer aux CG', priceFrom: 'dès 5,99 €/mois',
+    kind: 'Assurance de grande distribution', verdict: 'Tarif d’appel bas',
+    tagline: 'Une première assurance accessible, portée par une marque connue',
+    species: 'Chien et chat', reimbursement: 'Selon la formule choisie',
+    carence: 'À confirmer aux conditions générales', priceFrom: 'dès 5,99 €/mois',
+    formulas: 'Plusieurs formules, de l’entrée de gamme économique à des niveaux plus couvrants',
     covered: ['Formules d’entrée accessibles', 'Marque connue', 'Gestion en ligne'],
+    summary: 'Carrefour Assurance propose une assurance santé chien et chat portée par une enseigne de grande distribution familière des Français. Les formules d’entrée sont annoncées dès 5,99 €/mois, avec un parcours de souscription simple et une gestion en ligne, ce qui en fait une porte d’entrée rassurante pour une première protection. Comme pour toute offre à prix d’appel, l’essentiel est de comparer le plafond annuel et le reste à charge avec des contrats plus complets avant de s’engager.',
+    pros: ['Formules d’entrée annoncées dès 5,99 €/mois', 'Marque connue et rassurante pour une première souscription', 'Souscription et gestion en ligne'],
+    cons: ['Le prix d’appel correspond à une couverture de base', 'Comparez le plafond annuel avant de souscrire'],
+    reimbMethod: 'Déclaration depuis l’espace client, remboursement selon le taux et le plafond de la formule.',
+    extras: ['Gestion en ligne', 'Avantages multi-contrats Carrefour'],
     strength: 'Formules d’entrée annoncées dès 5,99 €/mois, marque rassurante, parcours simple.',
     watch: 'Le prix d’appel correspond à une couverture de base : comparez les plafonds.',
     idealFor: 'Une première assurance à petit prix.',
@@ -113,8 +161,16 @@ const INSURERS: Insurer[] = [
   {
     name: 'Matmut', domain: 'matmut.fr', initials: 'Ma', color: '#e11d48',
     kind: 'Mutuelle, offre Assur4pattes', verdict: 'Mutualiste',
-    reimbursement: 'Selon la formule', carence: '48 h accident, 45 j maladie',
+    tagline: 'L’option mutualiste, surtout avantageuse pour les sociétaires',
+    species: 'Chien et chat', reimbursement: 'Selon la formule choisie',
+    carence: '48 h accident, 45 j maladie',
+    formulas: 'Formules Assur4pattes couvrant accidents et maladies, à différents niveaux de garanties',
     covered: ['Accidents et maladies', 'Multi-contrats sociétaire', 'Agences physiques'],
+    summary: 'La Matmut propose l’assurance santé animale Assur4pattes, qui couvre chien et chat contre les accidents et les maladies. En tant qu’assureur mutualiste solidement implanté, elle est surtout intéressante si vous êtes déjà sociétaire : vous pouvez regrouper vos contrats (auto, habitation, animal) et bénéficier d’avantages multi-contrats, avec la possibilité d’un accompagnement en agence physique plutôt qu’un parcours uniquement en ligne.',
+    pros: ['Assureur mutualiste reconnu et pérenne', 'Avantages multi-contrats pour les sociétaires', 'Accompagnement possible en agence physique'],
+    cons: ['Offre surtout pensée pour les sociétaires Matmut', 'Comparez avec les pure players digitaux avant de souscrire'],
+    reimbMethod: 'Envoi des justificatifs via l’espace sociétaire, remboursement selon le taux et le plafond de la formule.',
+    extras: ['Réseau d’agences', 'Offres multi-contrats sociétaire'],
     strength: 'Assureur mutualiste reconnu, intéressant si vous êtes déjà sociétaire Matmut (réductions multi-contrats).',
     watch: 'Offre pensée pour les sociétaires : comparez avec les pure players avant de souscrire.',
     idealFor: 'Les sociétaires Matmut qui regroupent leurs contrats.',
@@ -123,8 +179,16 @@ const INSURERS: Insurer[] = [
   {
     name: 'CIC', domain: 'cic.fr', initials: 'CIC', color: '#334155',
     kind: 'Bancassurance', verdict: 'Via votre banque',
-    reimbursement: 'Plafonds annuels 1 500 € ou 2 500 €', carence: 'À confirmer aux CG',
+    tagline: 'L’assurance animal gérée directement avec votre banque',
+    species: 'Chien et chat', reimbursement: 'Plafonds annuels de 1 500 € ou 2 500 € selon la formule',
+    carence: 'À confirmer aux conditions générales',
+    formulas: 'Deux formules lisibles, avec plafond annuel de 1 500 € ou 2 500 €',
     covered: ['Deux formules lisibles', 'Gestion avec votre conseiller'],
+    summary: 'Le CIC distribue une assurance santé animale en bancassurance, pratique si vous centralisez déjà vos contrats chez votre banque. L’offre repose sur deux formules volontairement lisibles, avec des plafonds annuels de 1 500 € ou 2 500 € selon le niveau choisi, et la possibilité d’en discuter directement avec votre conseiller habituel. C’est une solution de simplicité pour qui préfère un interlocuteur unique à un énième espace client en ligne.',
+    pros: ['Deux formules simples et lisibles', 'Gestion avec votre conseiller bancaire habituel', 'Contrats centralisés chez votre banque'],
+    cons: ['Plafonds annuels (1 500 € / 2 500 €) relativement bas', 'À vérifier pour une grande race ou un animal à risque'],
+    reimbMethod: 'Déclaration via votre espace bancaire ou votre conseiller, remboursement dans la limite du plafond annuel de la formule.',
+    extras: ['Conseiller bancaire dédié', 'Contrats regroupés chez votre banque'],
     strength: 'Deux formules simples, pratique si vous centralisez vos contrats chez votre banque.',
     watch: 'Plafonds annuels relativement bas : à vérifier pour une grande race ou un animal à risque.',
     idealFor: 'Les clients qui veulent tout gérer avec leur banque.',
@@ -133,8 +197,16 @@ const INSURERS: Insurer[] = [
   {
     name: 'La Banque Postale', domain: 'labanquepostale.fr', initials: 'LBP', color: '#4338ca',
     kind: 'Bancassurance', verdict: 'Prévention dès J1',
-    reimbursement: 'Selon la formule', carence: 'Certains soins préventifs dès le 1er jour',
+    tagline: 'Des soins de prévention pris en charge dès le premier jour',
+    species: 'Chien et chat', reimbursement: 'Selon la formule choisie',
+    carence: 'Certains soins de prévention pris en charge dès le 1er jour',
+    formulas: 'Formules couvrant accidents, maladies et soins de prévention, à plusieurs niveaux de garanties',
     covered: ['Accidents et maladies', 'Soins de prévention', 'Réseau d’agences'],
+    summary: 'La Banque Postale propose une assurance santé animale en bancassurance qui se distingue par la prise en charge rapide de certains soins de prévention, parfois dès le premier jour selon la formule, là où la plupart des contrats imposent un délai de carence avant tout remboursement. L’offre couvre chien et chat contre les accidents et les maladies et s’appuie sur un vaste réseau d’agences pour qui préfère un interlocuteur physique plutôt qu’un parcours uniquement digital.',
+    pros: ['Certains soins de prévention pris en charge dès le 1er jour', 'Couverture accidents et maladies', 'Accompagnement possible en agence postale'],
+    cons: ['Comparez le plafond annuel avec les offres digitales', 'Vérifiez le reste à charge réel après remboursement'],
+    reimbMethod: 'Déclaration en espace client, remboursement selon le taux et le plafond de la formule.',
+    extras: ['Prise en charge de soins de prévention', 'Réseau d’agences postales'],
     strength: 'Soins de prévention pris en charge rapidement selon la formule, accompagnement en agence.',
     watch: 'Comparez le plafond annuel et le reste à charge avec les offres digitales.',
     idealFor: 'Ceux qui veulent un interlocuteur en agence.',
@@ -142,9 +214,17 @@ const INSURERS: Insurer[] = [
   },
   {
     name: 'Swiss Life', domain: 'swisslife.fr', initials: 'SL', color: '#b91c1c',
-    kind: 'Assureur traditionnel', verdict: 'Conseil complet',
-    reimbursement: 'Selon la formule', carence: '3 j accident, 90 j maladie',
+    kind: 'Assureur traditionnel établi', verdict: 'Conseil complet',
+    tagline: 'Le conseil personnalisé et un contrat complet',
+    species: 'Chien et chat', reimbursement: 'Selon la formule choisie',
+    carence: '3 j accident, 90 j maladie',
+    formulas: 'Contrat santé animale complet, à calibrer avec un conseiller selon les besoins',
     covered: ['Accidents et maladies', 'Conseil personnalisé', 'Contrat complet'],
+    summary: 'Swiss Life est un assureur traditionnel établi qui propose une assurance santé pour chien et chat orientée conseil. Son intérêt tient à l’accompagnement : un interlocuteur qui vous guide dans le choix des garanties et un contrat complet, utile si vous préférez être conseillé plutôt que de tout paramétrer seul en ligne. La contrepartie est un délai de carence maladie de 90 jours, parmi les plus longs du comparatif, qu’il faut anticiper avant tout besoin de soins.',
+    pros: ['Assureur établi, solide et pérenne', 'Conseil personnalisé par un interlocuteur dédié', 'Contrat complet, orienté haut de gamme'],
+    cons: ['Délai de carence maladie de 90 jours parmi les plus longs', 'À anticiper bien avant tout besoin de soins'],
+    reimbMethod: 'Envoi des justificatifs à l’assureur, remboursement selon le taux et le plafond de la formule.',
+    extras: ['Conseiller dédié', 'Contrat complet calibré sur mesure'],
     strength: 'Assureur établi, utile si vous cherchez un interlocuteur conseil et un contrat complet.',
     watch: 'Délai de carence maladie de 90 jours parmi les plus longs : à anticiper.',
     idealFor: 'Ceux qui privilégient le conseil et un contrat haut de gamme.',
@@ -153,8 +233,16 @@ const INSURERS: Insurer[] = [
   {
     name: 'Otherwise', domain: 'otherwise.fr', initials: 'Ot', color: '#059669',
     kind: 'Assureur digital (distribué via Floa)', verdict: '100 % digital',
-    reimbursement: 'Selon la formule', carence: 'À confirmer aux CG',
+    tagline: 'Souscription 100 % en ligne, formules modulables',
+    species: 'Chien et chat', reimbursement: 'Selon la formule choisie',
+    carence: 'À confirmer aux conditions générales',
+    formulas: 'Formules modulables (taux, plafond, options) souscrites entièrement en ligne',
     covered: ['Accidents et maladies', 'Parcours 100 % en ligne', 'Formules modulables'],
+    summary: 'Otherwise est un assureur digital dont l’assurance santé animale se souscrit entièrement en ligne, avec une distribution adossée à Floa. Les formules sont modulables, ce qui permet d’ajuster le niveau de couverture et la cotisation à son budget, pour couvrir chien et chat contre les accidents et les maladies. C’est une option pour souscrire vite et sans paperasse, à condition de bien lire les exclusions liées aux antécédents et aux symptômes apparus avant la souscription.',
+    pros: ['Parcours de souscription 100 % en ligne', 'Formules modulables selon le budget', 'Souscription rapide, sans paperasse'],
+    cons: ['Vérifiez les exclusions liées aux antécédents et symptômes antérieurs', 'Le délai de carence est à confirmer aux conditions générales'],
+    reimbMethod: 'Déclaration en ligne, remboursement selon le taux et le plafond de la formule choisie.',
+    extras: ['Gestion 100 % en ligne', 'Distribution adossée à Floa'],
     strength: 'Parcours entièrement en ligne, formules modulables, distribution adossée à Floa.',
     watch: 'Vérifiez les exclusions liées aux antécédents et symptômes antérieurs à la souscription.',
     idealFor: 'Ceux qui veulent souscrire vite, 100 % en ligne.',
@@ -432,22 +520,54 @@ export default async function Page({
                       <span className="text-xs font-semibold bg-sky-50 text-sky-700 border border-sky-200 px-2 py-0.5 rounded-full">{ins.verdict}</span>
                       {ins.sponsored && (<span className="text-xs font-semibold bg-amber-100 text-amber-800 border border-amber-300 px-2 py-0.5 rounded-full">Sponsorisé</span>)}
                     </div>
-                    <p className="text-sm text-stone-500 mb-3">{ins.kind}</p>
-                    <div className="grid sm:grid-cols-2 gap-x-6 gap-y-2 text-sm mb-3">
-                      <p className="text-stone-700"><span className="font-semibold text-stone-900">Remboursement :</span> {ins.reimbursement}</p>
-                      <p className="text-stone-700"><span className="font-semibold text-stone-900">Carence :</span> {ins.carence}</p>
-                    </div>
-                    <div className="flex flex-wrap gap-1.5 mb-3">
-                      {ins.covered.map((c) => (<span key={c} className="text-xs bg-emerald-50 text-emerald-800 border border-emerald-100 px-2 py-0.5 rounded-full">✓ {c}</span>))}
-                    </div>
-                    <p className="text-sm text-stone-700 leading-relaxed mb-1.5"><span className="font-semibold text-stone-900">Point fort :</span> {ins.strength}</p>
-                    <p className="text-sm text-stone-600 leading-relaxed mb-1.5"><span className="font-semibold text-stone-800">À vérifier :</span> {ins.watch}</p>
-                    <p className="text-sm text-stone-600 leading-relaxed mb-4"><span className="font-semibold text-stone-800">Idéal pour :</span> {ins.idealFor}</p>
-                    <a href={ins.url} target="_blank" rel="noopener noreferrer sponsored nofollow" className="inline-flex items-center gap-1.5 text-sm font-bold text-white px-4 py-2 rounded-lg transition-opacity hover:opacity-90" style={{ backgroundColor: ins.color }}>
-                      Voir l&apos;offre {ins.name} →
-                    </a>
+                    <p className="text-sm text-stone-500">{ins.kind}</p>
+                    <p className="text-[13px] font-semibold text-stone-700 mt-1">{ins.tagline}</p>
                   </div>
                 </div>
+
+                {/* Résumé éditorial dense */}
+                <p className="text-sm text-stone-700 leading-relaxed mt-4">{ins.summary}</p>
+
+                {/* Grille de faits clés */}
+                <dl className="grid sm:grid-cols-2 gap-x-6 gap-y-2.5 text-sm mt-4 border-t border-stone-100 pt-4">
+                  <div><dt className="font-semibold text-stone-900">Animaux couverts</dt><dd className="text-stone-600">{ins.species}</dd></div>
+                  <div><dt className="font-semibold text-stone-900">Taux de remboursement</dt><dd className="text-stone-600">{ins.reimbursement}</dd></div>
+                  <div><dt className="font-semibold text-stone-900">Délai de carence</dt><dd className="text-stone-600">{ins.carence}</dd></div>
+                  <div><dt className="font-semibold text-stone-900">Formules</dt><dd className="text-stone-600">{ins.formulas}</dd></div>
+                </dl>
+
+                {/* Garanties principales */}
+                <div className="flex flex-wrap gap-1.5 mt-4">
+                  {ins.covered.map((c) => (<span key={c} className="text-xs bg-emerald-50 text-emerald-800 border border-emerald-100 px-2 py-0.5 rounded-full">✓ {c}</span>))}
+                </div>
+
+                {/* Pour / Vigilance */}
+                <div className="grid sm:grid-cols-2 gap-4 mt-4">
+                  <div className="bg-emerald-50/60 border border-emerald-100 rounded-xl p-4">
+                    <p className="text-xs font-bold uppercase tracking-wide text-emerald-800 mb-2">Points forts</p>
+                    <ul className="space-y-1.5 text-sm text-stone-700">
+                      {ins.pros.map((p) => (<li key={p} className="flex gap-2"><span className="text-emerald-600 flex-shrink-0">✓</span><span>{p}</span></li>))}
+                    </ul>
+                  </div>
+                  <div className="bg-amber-50/60 border border-amber-100 rounded-xl p-4">
+                    <p className="text-xs font-bold uppercase tracking-wide text-amber-800 mb-2">Points de vigilance</p>
+                    <ul className="space-y-1.5 text-sm text-stone-700">
+                      {ins.cons.map((c) => (<li key={c} className="flex gap-2"><span className="text-amber-600 flex-shrink-0">!</span><span>{c}</span></li>))}
+                    </ul>
+                  </div>
+                </div>
+
+                {/* Remboursement + services */}
+                <p className="text-sm text-stone-700 leading-relaxed mt-4"><span className="font-semibold text-stone-900">Comment se faire rembourser :</span> {ins.reimbMethod}</p>
+                <div className="flex flex-wrap items-center gap-1.5 mt-3">
+                  <span className="text-xs font-semibold text-stone-500 mr-1">Services inclus :</span>
+                  {ins.extras.map((e) => (<span key={e} className="text-xs bg-sky-50 text-sky-700 border border-sky-100 px-2 py-0.5 rounded-full">{e}</span>))}
+                </div>
+                <p className="text-sm text-stone-600 leading-relaxed mt-3"><span className="font-semibold text-stone-800">Idéal pour :</span> {ins.idealFor}</p>
+
+                <a href={ins.url} target="_blank" rel="noopener noreferrer sponsored nofollow" className="inline-flex items-center gap-1.5 text-sm font-bold text-white px-4 py-2 rounded-lg transition-opacity hover:opacity-90 mt-4" style={{ backgroundColor: ins.color }}>
+                  Voir l&apos;offre {ins.name} et demander un devis →
+                </a>
               </article>
             ))}
           </div>

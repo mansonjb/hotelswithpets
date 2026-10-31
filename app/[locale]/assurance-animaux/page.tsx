@@ -417,17 +417,6 @@ export default async function Page({
       </section>
 
       <div className="max-w-5xl mx-auto px-4 py-10 space-y-12">
-        {/* ── Transparency banner ── */}
-        <section className="bg-blue-50 border border-blue-200 rounded-2xl p-5">
-          <p className="text-sm text-stone-800 leading-relaxed">
-            <strong>Transparence.</strong> Ce comparatif est rédigé de façon indépendante.
-            Certains emplacements du classement peuvent être sponsorisés : ils portent alors
-            clairement la mention «&nbsp;Sponsorisé&nbsp;» et cela ne change pas notre analyse des
-            garanties. Nous pouvons percevoir une commission si vous souscrivez via nos liens.{' '}
-            <Link href="/fr/mentions-affiliees" className="text-blue-700 underline hover:text-blue-900">En savoir plus</Link>.
-          </p>
-        </section>
-
         {/* ── Intro ── */}
         <section className="prose-none">
           <p className="text-stone-700 leading-relaxed mb-4">

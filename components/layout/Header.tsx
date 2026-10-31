@@ -201,6 +201,9 @@ export default function Header({ locale, dict }: HeaderProps) {
             <Link href={`/${locale}/about`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
               {dict.nav.about}
             </Link>
+            <Link href={`/${locale}/contact`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
+              {locale === 'fr' ? 'Contact' : locale === 'es' ? 'Contacto' : locale === 'pt' ? 'Contacto' : locale === 'de' ? 'Kontakt' : locale === 'nl' ? 'Contact' : locale === 'it' ? 'Contatti' : 'Contact'}
+            </Link>
           </nav>
 
           <div className="flex items-center gap-3">
@@ -284,6 +287,7 @@ export default function Header({ locale, dict }: HeaderProps) {
               { href: `/${locale}/categories`, label: dict.nav.categories },
               { href: `/${locale}/countries`, label: dict.nav.countries ?? 'Countries' },
               { href: `/${locale}/about`, label: dict.nav.about },
+              { href: `/${locale}/contact`, label: locale === 'fr' ? 'Contact' : locale === 'es' ? 'Contacto' : locale === 'pt' ? 'Contacto' : locale === 'de' ? 'Kontakt' : locale === 'nl' ? 'Contact' : locale === 'it' ? 'Contatti' : 'Contact' },
             ].map(({ href, label }) => (
               <li key={href}>
                 <Link

@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { SITE_URL } from '@/lib/site'
 import BrandLogo from '@/components/BrandLogo'
+import ContactCTA from '@/components/ContactCTA'
 
 const SLUG = 'assurance-animaux'
 const UPDATED = 'octobre 2026'
@@ -43,6 +44,7 @@ export const metadata: Metadata = {
 // value/UX basis; it is defensible on the merits. `domain` powers the logo.
 type Insurer = {
   name: string
+  slug: string
   domain: string
   initials: string
   color: string
@@ -69,7 +71,7 @@ type Insurer = {
 
 const INSURERS: Insurer[] = [
   {
-    name: 'Lassie', domain: 'lassie.co', initials: 'La', color: '#0d9488',
+    name: 'Lassie', slug: 'lassie', domain: 'lassie.co', initials: 'La', color: '#0d9488',
     kind: 'Assureur santé animale digital nouvelle génération', verdict: 'Le plus complet',
     tagline: 'Couverture complète chien & chat, prévention récompensée',
     species: 'Chien et chat', reimbursement: 'Jusqu’à 100 % des frais vétérinaires',
@@ -87,7 +89,7 @@ const INSURERS: Insurer[] = [
     url: 'https://www.lassie.co/fr', sponsored: false,
   },
   {
-    name: 'Dalma', domain: 'dalma.co', initials: 'Da', color: '#7c3aed',
+    name: 'Dalma', slug: 'dalma', domain: 'dalma.co', initials: 'Da', color: '#7c3aed',
     kind: 'Assureur digital français, remboursement express', verdict: 'Remboursé en 48 h',
     tagline: 'Remboursement sous 48 h, tout piloté depuis l’appli',
     species: 'Chien et chat', reimbursement: 'Jusqu’à 100 % des frais vétérinaires',
@@ -105,7 +107,7 @@ const INSURERS: Insurer[] = [
     url: 'https://www.dalma.co', sponsored: false,
   },
   {
-    name: 'Acheel', domain: 'acheel.com', initials: 'Ac', color: '#2563eb',
+    name: 'Acheel', slug: 'acheel', domain: 'acheel.com', initials: 'Ac', color: '#2563eb',
     kind: 'Assureur digital multi-produits, entrée de gamme', verdict: 'Petit budget',
     tagline: 'Le tarif d’appel le plus bas, un seul contrat à moduler',
     species: 'Chien et chat', reimbursement: 'Jusqu’à 100 % selon le paramétrage',
@@ -123,7 +125,7 @@ const INSURERS: Insurer[] = [
     url: 'https://www.acheel.com', sponsored: false,
   },
   {
-    name: 'Santévet', domain: 'santevet.com', initials: 'Sa', color: '#ea580c',
+    name: 'Santévet', slug: 'santevet', domain: 'santevet.com', initials: 'Sa', color: '#ea580c',
     kind: 'Référence historique du marché, large réseau', verdict: 'Réseau vétérinaire',
     tagline: 'Le tiers payant pour ne pas avancer les frais vétérinaires',
     species: 'Chien et chat', reimbursement: 'Jusqu’à 100 % (formules Light / Confort / Premium)',
@@ -141,7 +143,7 @@ const INSURERS: Insurer[] = [
     url: 'https://www.santevet.com', sponsored: false,
   },
   {
-    name: 'Carrefour', domain: 'carrefour-assurance.fr', initials: 'Ca', color: '#1d4ed8',
+    name: 'Carrefour', slug: 'carrefour', domain: 'carrefour-assurance.fr', initials: 'Ca', color: '#1d4ed8',
     kind: 'Assurance de grande distribution', verdict: 'Tarif d’appel bas',
     tagline: 'Une première assurance accessible, portée par une marque connue',
     species: 'Chien et chat', reimbursement: 'Selon la formule choisie',
@@ -159,7 +161,7 @@ const INSURERS: Insurer[] = [
     url: 'https://www.carrefour-assurance.fr/animaux', sponsored: false,
   },
   {
-    name: 'Matmut', domain: 'matmut.fr', initials: 'Ma', color: '#e11d48',
+    name: 'Matmut', slug: 'matmut', domain: 'matmut.fr', initials: 'Ma', color: '#e11d48',
     kind: 'Mutuelle, offre Assur4pattes', verdict: 'Mutualiste',
     tagline: 'L’option mutualiste, surtout avantageuse pour les sociétaires',
     species: 'Chien et chat', reimbursement: 'Selon la formule choisie',
@@ -177,7 +179,7 @@ const INSURERS: Insurer[] = [
     url: 'https://www.matmut.fr', sponsored: false,
   },
   {
-    name: 'CIC', domain: 'cic.fr', initials: 'CIC', color: '#334155',
+    name: 'CIC', slug: 'cic', domain: 'cic.fr', initials: 'CIC', color: '#334155',
     kind: 'Bancassurance', verdict: 'Via votre banque',
     tagline: 'L’assurance animal gérée directement avec votre banque',
     species: 'Chien et chat', reimbursement: 'Plafonds annuels de 1 500 € ou 2 500 € selon la formule',
@@ -195,7 +197,7 @@ const INSURERS: Insurer[] = [
     url: 'https://www.cic.fr', sponsored: false,
   },
   {
-    name: 'La Banque Postale', domain: 'labanquepostale.fr', initials: 'LBP', color: '#4338ca',
+    name: 'La Banque Postale', slug: 'labanquepostale', domain: 'labanquepostale.fr', initials: 'LBP', color: '#4338ca',
     kind: 'Bancassurance', verdict: 'Prévention dès J1',
     tagline: 'Des soins de prévention pris en charge dès le premier jour',
     species: 'Chien et chat', reimbursement: 'Selon la formule choisie',
@@ -213,7 +215,7 @@ const INSURERS: Insurer[] = [
     url: 'https://www.labanquepostale.fr', sponsored: false,
   },
   {
-    name: 'Swiss Life', domain: 'swisslife.fr', initials: 'SL', color: '#b91c1c',
+    name: 'Swiss Life', slug: 'swisslife', domain: 'swisslife.fr', initials: 'SL', color: '#b91c1c',
     kind: 'Assureur traditionnel établi', verdict: 'Conseil complet',
     tagline: 'Le conseil personnalisé et un contrat complet',
     species: 'Chien et chat', reimbursement: 'Selon la formule choisie',
@@ -231,7 +233,7 @@ const INSURERS: Insurer[] = [
     url: 'https://www.swisslife.fr', sponsored: false,
   },
   {
-    name: 'Otherwise', domain: 'otherwise.fr', initials: 'Ot', color: '#059669',
+    name: 'Otherwise', slug: 'otherwise', domain: 'otherwise.fr', initials: 'Ot', color: '#059669',
     kind: 'Assureur digital (distribué via Floa)', verdict: '100 % digital',
     tagline: 'Souscription 100 % en ligne, formules modulables',
     species: 'Chien et chat', reimbursement: 'Selon la formule choisie',
@@ -443,23 +445,8 @@ export default async function Page({
           </p>
         </section>
 
-        {/* ── Verdict / best-for ── */}
-        <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">En bref : le meilleur selon votre besoin</h2>
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-            {BEST_FOR.map((b) => (
-              <div key={b.label} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
-                <div className="text-2xl mb-2" aria-hidden="true">{b.icon}</div>
-                <p className="text-xs font-semibold uppercase tracking-wide text-stone-500 mb-1">{b.label}</p>
-                <p className="text-lg font-bold text-stone-900 mb-1">{b.pick}</p>
-                <p className="text-sm text-stone-600 leading-relaxed">{b.why}</p>
-              </div>
-            ))}
-          </div>
-        </section>
-
         {/* ── Comparison table ── */}
-        <section>
+        <section id="tableau-comparatif" className="scroll-mt-6">
           <h2 className="text-2xl font-bold text-stone-900 mb-2">Le tableau comparatif 2026</h2>
           <p className="text-sm text-stone-600 mb-5">Les 10 principaux assureurs animaux en France, classés par notre analyse éditoriale du rapport couverture / prix.</p>
           <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
@@ -478,16 +465,17 @@ export default async function Page({
                   <tr key={ins.name} className="border-t border-stone-100 align-top hover:bg-stone-50">
                     <td className="px-4 py-4 font-bold text-stone-400">{i + 1}</td>
                     <td className="px-4 py-4">
-                      <div className="flex items-center gap-2.5">
-                        <BrandLogo domain={ins.domain} name={ins.name} initials={ins.initials} color={ins.color} size={36} />
+                      <a href={`#fiche-${ins.slug}`} className="flex items-center gap-2.5 group">
+                        <BrandLogo src={`/logos/${ins.slug}.png`} name={ins.name} initials={ins.initials} color={ins.color} size={36} />
                         <div>
                           <div className="flex items-center gap-1.5">
-                            <span className="font-bold text-stone-900">{ins.name}</span>
+                            <span className="font-bold text-stone-900 group-hover:text-sky-700 group-hover:underline">{ins.name}</span>
                             {ins.sponsored && (<span className="text-[10px] font-semibold bg-amber-100 text-amber-800 border border-amber-300 px-1.5 py-0.5 rounded-full">Sponsorisé</span>)}
                           </div>
                           <span className="text-xs font-medium text-sky-700">{ins.verdict}</span>
+                          <span className="block text-[11px] text-stone-400 group-hover:text-sky-600">Voir la fiche ↓</span>
                         </div>
-                      </div>
+                      </a>
                     </td>
                     <td className="px-4 py-4 text-stone-600">{ins.covered.join(' · ')}</td>
                     <td className="px-4 py-4 text-stone-700">
@@ -508,17 +496,18 @@ export default async function Page({
           <h2 className="text-2xl font-bold text-stone-900 mb-5">Le classement détaillé</h2>
           <div className="space-y-4">
             {INSURERS.map((ins, i) => (
-              <article key={ins.name} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5 sm:p-6">
+              <article key={ins.name} id={`fiche-${ins.slug}`} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5 sm:p-6 scroll-mt-6">
                 <div className="flex items-start gap-4">
                   <div className="flex flex-col items-center flex-shrink-0 gap-1">
                     <span className="text-xs font-bold text-stone-400">#{i + 1}</span>
-                    <BrandLogo domain={ins.domain} name={ins.name} initials={ins.initials} color={ins.color} size={48} />
+                    <BrandLogo src={`/logos/${ins.slug}.png`} name={ins.name} initials={ins.initials} color={ins.color} size={48} />
                   </div>
                   <div className="flex-1 min-w-0">
                     <div className="flex flex-wrap items-center gap-2 mb-0.5">
                       <h3 className="text-lg font-bold text-stone-900">{ins.name}</h3>
                       <span className="text-xs font-semibold bg-sky-50 text-sky-700 border border-sky-200 px-2 py-0.5 rounded-full">{ins.verdict}</span>
                       {ins.sponsored && (<span className="text-xs font-semibold bg-amber-100 text-amber-800 border border-amber-300 px-2 py-0.5 rounded-full">Sponsorisé</span>)}
+                      <a href="#tableau-comparatif" className="ml-auto text-xs text-stone-400 hover:text-sky-700 whitespace-nowrap">↑ tableau</a>
                     </div>
                     <p className="text-sm text-stone-500">{ins.kind}</p>
                     <p className="text-[13px] font-semibold text-stone-700 mt-1">{ins.tagline}</p>
@@ -570,6 +559,29 @@ export default async function Page({
                 </a>
               </article>
             ))}
+          </div>
+        </section>
+
+        {/* ── Verdict / best-for ── */}
+        <section>
+          <h2 className="text-2xl font-bold text-stone-900 mb-2">En bref : le meilleur selon votre besoin</h2>
+          <p className="text-sm text-stone-600 mb-5">Un récapitulatif rapide pour aller droit au but. Cliquez sur un assureur pour ouvrir sa fiche détaillée.</p>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {BEST_FOR.map((b) => {
+              const match = INSURERS.find((x) => x.name === b.pick)
+              return (
+                <div key={b.label} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
+                  <div className="text-2xl mb-2" aria-hidden="true">{b.icon}</div>
+                  <p className="text-xs font-semibold uppercase tracking-wide text-stone-500 mb-1">{b.label}</p>
+                  {match ? (
+                    <a href={`#fiche-${match.slug}`} className="text-lg font-bold text-stone-900 mb-1 inline-block hover:text-sky-700 hover:underline">{b.pick} ↓</a>
+                  ) : (
+                    <p className="text-lg font-bold text-stone-900 mb-1">{b.pick}</p>
+                  )}
+                  <p className="text-sm text-stone-600 leading-relaxed">{b.why}</p>
+                </div>
+              )
+            })}
           </div>
         </section>
 
@@ -777,11 +789,9 @@ export default async function Page({
             «&nbsp;Sponsorisé&nbsp;» et n&apos;altèrent pas notre évaluation des garanties. Rédigé par
             Jean-Baptiste Manson, fondateur et éditeur de HotelsWithPets.com.
           </p>
-          <p className="text-sm text-stone-600 leading-relaxed mt-3 pt-3 border-t border-stone-100">
-            Vous représentez un assureur et souhaitez apparaître ou faire remonter votre offre dans
-            ce comparatif ? Écrivez-nous à{' '}
-            <a href="mailto:contact@hotelswithpets.com" className="text-blue-700 underline hover:text-blue-900">contact@hotelswithpets.com</a>.
-          </p>
+          <div className="mt-4 pt-4 border-t border-stone-100">
+            <ContactCTA locale="fr" variant="advertiser" />
+          </div>
         </section>
 
         {/* ── FAQ ── */}
@@ -799,6 +809,9 @@ export default async function Page({
             ))}
           </div>
         </section>
+
+        {/* ── Contact ── */}
+        <ContactCTA locale="fr" variant="generic" />
       </div>
     </main>
   )

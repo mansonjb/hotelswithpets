@@ -34,7 +34,7 @@ const content: Record<string, { title: string; sections: Array<{ h: string; p: s
       {
         h: 'Data we collect',
         p: [
-          'We do not collect personal data directly. We do not have account registration, newsletter signup, or contact forms that store your data.',
+          'We do not collect personal data directly: there is no account registration or newsletter signup. If you write to us through our contact form, the name, email and message you submit are sent to us by email only to answer you, and are not stored in a database or used for anything else.',
           'When you click a hotel link to Booking.com or other booking platforms, you leave our site and are subject to their privacy policies.',
         ],
       },
@@ -74,7 +74,7 @@ const content: Record<string, { title: string; sections: Array<{ h: string; p: s
       {
         h: 'Données collectées',
         p: [
-          'Nous ne collectons pas de données personnelles directement. Il n\'y a pas d\'inscription, d\'abonnement newsletter ni de formulaire de contact qui stocke vos données.',
+          'Nous ne collectons pas de données personnelles directement : il n\'y a ni inscription ni abonnement newsletter. Si vous nous écrivez via notre formulaire de contact, le nom, l\'email et le message que vous envoyez nous parviennent par email uniquement pour vous répondre, et ne sont ni stockés en base de données ni utilisés à d\'autres fins.',
           'Lorsque vous cliquez sur un lien vers Booking.com ou d\'autres plateformes, vous quittez notre site et êtes soumis à leurs politiques de confidentialité.',
         ],
       },
@@ -114,7 +114,7 @@ const content: Record<string, { title: string; sections: Array<{ h: string; p: s
       {
         h: 'Datos que recopilamos',
         p: [
-          'No recopilamos datos personales directamente. No tenemos registro de cuentas, suscripción a newsletter ni formularios de contacto que almacenen tus datos.',
+          'No recopilamos datos personales directamente: no hay registro de cuentas ni suscripción a newsletter. Si nos escribes mediante nuestro formulario de contacto, el nombre, el correo y el mensaje que envías nos llegan por correo solo para responderte, y no se almacenan en una base de datos ni se usan para otra cosa.',
           'Cuando haces clic en un enlace a Booking.com u otras plataformas, abandonas nuestro sitio y estás sujeto a sus políticas de privacidad.',
         ],
       },

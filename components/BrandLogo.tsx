@@ -1,28 +1,39 @@
 'use client'
 
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 
 /**
  * Brand logo tile for comparison pages. Shows a coloured monogram immediately,
- * then swaps to the company's public favicon (Google favicon service, sz=128)
- * once it loads as a real logo. If the favicon is missing, errors, or is only a
- * tiny low-res icon (< 32px), the monogram stays. A tile is therefore never
- * empty, even during loading.
+ * then swaps to a self-hosted brand logo (served from /public/logos, committed
+ * to the repo so it never depends on a flaky runtime favicon service) once it
+ * loads as a real image. If the file is missing or errors, the monogram stays.
+ * A tile is therefore never empty, even during loading.
  */
 export default function BrandLogo({
-  domain,
+  src,
   name,
   initials,
   color,
   size = 48,
 }: {
-  domain: string
+  src: string
   name: string
   initials: string
   color: string
   size?: number
 }) {
   const [state, setState] = useState<'pending' | 'logo' | 'fallback'>('pending')
+  const imgRef = useRef<HTMLImageElement>(null)
+
+  // If the image is already cached, it can finish loading before React attaches
+  // onLoad, so that event never fires and the tile would stay on the monogram.
+  // Reconcile from the DOM on mount.
+  useEffect(() => {
+    const el = imgRef.current
+    if (el && el.complete) {
+      setState(el.naturalWidth >= 16 ? 'logo' : 'fallback')
+    }
+  }, [])
 
   return (
     <span
@@ -48,13 +59,14 @@ export default function BrandLogo({
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src={`https://www.google.com/s2/favicons?sz=128&domain=${domain}`}
+            ref={imgRef}
+            src={src}
             alt={`Logo ${name}`}
-            width={Math.round(size * 0.64)}
-            height={Math.round(size * 0.64)}
+            width={Math.round(size * 0.72)}
+            height={Math.round(size * 0.72)}
             style={{ objectFit: 'contain' }}
             loading="lazy"
-            onLoad={(e) => setState(e.currentTarget.naturalWidth >= 32 ? 'logo' : 'fallback')}
+            onLoad={(e) => setState(e.currentTarget.naturalWidth >= 16 ? 'logo' : 'fallback')}
             onError={() => setState('fallback')}
           />
         </span>

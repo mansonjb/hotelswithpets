@@ -78,7 +78,7 @@ export default function Footer({ locale, dict }: FooterProps) {
               <li><Link href={`/${locale}/about`} className="hover:text-white transition-colors">{footer.about}</Link></li>
               <li><Link href={`/${locale}/affiliate-disclosure`} className="hover:text-white transition-colors">{footer.disclosure}</Link></li>
               <li><Link href={`/${locale}/privacy`} className="hover:text-white transition-colors">{footer.privacy ?? 'Privacy Policy'}</Link></li>
-              <li><a href="mailto:contact@hotelswithpets.com" className="hover:text-white transition-colors">{locale === 'fr' ? 'Contact' : locale === 'es' ? 'Contacto' : locale === 'pt' ? 'Contacto' : locale === 'nl' ? 'Contact' : locale === 'de' ? 'Kontakt' : locale === 'it' ? 'Contatti' : 'Contact'}</a></li>
+              <li><Link href={`/${locale}/contact`} className="hover:text-white transition-colors">{locale === 'fr' ? 'Contact' : locale === 'es' ? 'Contacto' : locale === 'pt' ? 'Contacto' : locale === 'nl' ? 'Contact' : locale === 'de' ? 'Kontakt' : locale === 'it' ? 'Contatti' : 'Contact'}</Link></li>
             </ul>
           </div>
         </div>
@@ -150,9 +150,23 @@ export default function Footer({ locale, dict }: FooterProps) {
           </div>
         </div>
 
-        <div className="border-t border-gray-800 mt-6 pt-6 text-sm text-gray-500 flex flex-wrap items-center justify-between gap-2">
+        {/* Sitewide contact call-out */}
+        <div className="border-t border-gray-800 mt-6 pt-6 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+          <p className="text-sm text-gray-400">
+            {locale === 'fr' ? 'Une question, une correction ou un partenariat ?'
+              : locale === 'es' ? '¿Una pregunta, una corrección o una colaboración?'
+              : locale === 'pt' ? 'Uma questão, uma correção ou uma parceria?'
+              : locale === 'de' ? 'Eine Frage, eine Korrektur oder eine Partnerschaft?'
+              : locale === 'nl' ? 'Een vraag, een correctie of een partnerschap?'
+              : locale === 'it' ? 'Una domanda, una correzione o una partnership?'
+              : 'A question, a correction or a partnership?'}
+          </p>
+          <Link href={`/${locale}/contact`} className="inline-flex items-center gap-1.5 text-sm font-semibold bg-white/10 hover:bg-white/20 border border-white/15 text-white px-4 py-2 rounded-lg transition-colors whitespace-nowrap">
+            {locale === 'fr' ? 'Nous contacter' : locale === 'es' ? 'Contáctanos' : locale === 'pt' ? 'Contacte-nos' : locale === 'de' ? 'Kontakt' : locale === 'nl' ? 'Contact' : locale === 'it' ? 'Contattaci' : 'Contact us'} →
+          </Link>
+        </div>
+        <div className="mt-6 text-sm text-gray-500">
           <span>{footer.copyright}</span>
-          <a href="mailto:contact@hotelswithpets.com" className="hover:text-gray-300 transition-colors">contact@hotelswithpets.com</a>
         </div>
       </div>
     </footer>

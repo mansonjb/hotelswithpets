@@ -117,7 +117,7 @@ export default async function Page({
           <h2 className="text-xl font-bold text-stone-900">Contact</h2>
           <p>
             Une question, une suggestion de produit, un signalement d&apos;erreur ?
-            Écrivez-nous : <a href="mailto:contact@hotelswithpets.com" className="text-amber-700 underline">contact@hotelswithpets.com</a>
+            Écrivez-nous via notre <Link href="/fr/contact" className="text-amber-700 underline">formulaire de contact</Link>.
           </p>
         </section>
       </article>

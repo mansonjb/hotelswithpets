@@ -333,6 +333,29 @@ const VET_COSTS: Array<{ act: string; cost: string }> = [
   { act: 'Chirurgie lourde (occlusion, tumeur)', cost: '1 500 à 3 000 €+' },
 ]
 
+const CONDITIONS: Array<{ condition: string; cost: string; note: string }> = [
+  { condition: 'Rupture du ligament croisé (chirurgie)', cost: '1 000 à 2 500 €', note: 'Une des opérations les plus fréquentes chez le chien ; carence souvent longue.' },
+  { condition: 'Cancer (diagnostic et traitement)', cost: '2 000 à 5 000 €+', note: 'Chimiothérapie, chirurgie et examens s’accumulent sur plusieurs mois.' },
+  { condition: 'Corps étranger / occlusion (chirurgie)', cost: '1 000 à 3 000 €', note: 'Objet avalé ; urgence le plus souvent imprévisible.' },
+  { condition: 'Diabète (suivi annuel)', cost: '600 à 1 500 € / an', note: 'Insuline, surveillance et contrôles à vie.' },
+  { condition: 'Allergies chroniques (par an)', cost: '300 à 900 € / an', note: 'Très fréquent ; traitements récurrents et alimentation spécifique.' },
+  { condition: 'Urgence vétérinaire (nuit, week-end)', cost: '150 à 800 €', note: 'Les cliniques de garde facturent bien plus qu’une consultation classique.' },
+]
+
+const FACTORS: Array<{ factor: string; text: string }> = [
+  { factor: 'Espèce', text: 'Le chien coûte généralement plus cher à assurer que le chat, qui présente des sinistres moins fréquents et moins lourds.' },
+  { factor: 'Race', text: 'Les grandes races et les races à prédispositions (brachycéphales, dysplasie) paient des cotisations plus élevées que les chiens croisés.' },
+  { factor: 'Âge', text: 'La cotisation est la plus basse pour un chiot ou un chaton et augmente chaque année : d’où l’intérêt d’assurer tôt.' },
+  { factor: 'Lieu de résidence', text: 'Les tarifs vétérinaires varient d’une région à l’autre, donc le même animal coûte plus cher à assurer dans une grande ville.' },
+  { factor: 'Vos choix', text: 'Un plafond annuel élevé, un taux de remboursement fort et une franchise basse font monter la prime. C’est le levier pour tenir votre budget.' },
+]
+
+const NOT_WORTH: string[] = [
+  'Vous disposez d’une épargne dédiée et pourriez absorber sans souci une facture surprise de 3 000 € ou plus.',
+  'Votre animal est âgé avec plusieurs affections déjà déclarées, qui seraient exclues comme préexistantes.',
+  'Vous ne voulez couvrir que de petits frais prévisibles, souvent absorbés par la franchise.',
+]
+
 const FAQ: Array<{ q: string; a: string }> = [
   { q: 'Quelle est la meilleure assurance pour animaux en 2026 ?', a: 'Il n’existe pas de meilleure assurance universelle : tout dépend de l’âge, de la race et de votre budget. Pour une couverture complète, Lassie se distingue (primé au test indépendant allemand). Pour un remboursement rapide, Dalma. Pour un petit budget, Carrefour ou Acheel. Pour éviter d’avancer les frais, Santévet et son tiers payant.' },
   { q: 'Combien coûte une assurance pour chien ou chat ?', a: 'Comptez environ 12 à 20 € par mois pour une formule de base et 25 à 50 € pour une formule complète. Les offres d’entrée de gamme démarrent autour de 5 à 6 € par mois. Le tarif dépend surtout de l’âge, de la race et du niveau de garantie. Un chat coûte généralement un peu moins cher qu’un chien.' },
@@ -343,6 +366,11 @@ const FAQ: Array<{ q: string; a: string }> = [
   { q: 'La stérilisation est-elle remboursée ?', a: 'Pas au titre de la maladie : c’est un soin de convenance. Elle peut en revanche être prise en charge via un forfait prévention, lorsque la formule en inclut un.' },
   { q: 'Peut-on résilier facilement son assurance animal ?', a: 'Oui. Après la première année, le contrat est en général résiliable à tout moment, et sinon à l’échéance annuelle avec un préavis. Vérifiez les conditions de résiliation dans vos CG.' },
   { q: 'Et si je voyage à l’étranger avec mon animal ?', a: 'Certaines formules couvrent les frais vétérinaires engagés lors d’un séjour dans l’Union européenne, mais pas toutes. Vérifiez la garantie « à l’étranger ». L’assurance ne remplace pas les papiers d’entrée : passeport européen pour animal et vaccination antirabique à jour restent obligatoires.' },
+  { q: 'Le détartrage et les soins dentaires sont-ils couverts ?', a: 'Les soins dentaires liés à une maladie (extraction, traitement d’une infection) sont pris en charge par de nombreuses formules complètes. Le détartrage de routine, lui, relève de la prévention et n’est couvert que via un forfait prévention optionnel.' },
+  { q: 'Quelle différence entre une formule accidents seuls et une formule complète ?', a: 'Une formule accidents seuls couvre les blessures (fracture, morsure, objet avalé) et c’est la moins chère. Une formule complète ajoute les maladies, cancers, infections et affections chroniques, là où surviennent la plupart des grosses factures.' },
+  { q: 'Peut-on changer d’assurance animal ?', a: 'Oui, mais changer relance les délais de carence, et toute affection déjà déclarée devient préexistante chez le nouvel assureur, donc non couverte. Ne changez que si la nouvelle offre est nettement meilleure et que votre animal est en bonne santé.' },
+  { q: 'La responsabilité civile est-elle incluse ?', a: 'En France, les dommages causés par votre animal à autrui sont le plus souvent déjà couverts par la garantie responsabilité civile de votre assurance habitation. Vérifiez votre contrat avant de payer une RC en double dans une formule animal.' },
+  { q: 'Le chat revient-il moins cher à assurer que le chien ?', a: 'En général oui. Le chat déclare des sinistres moins fréquents et moins coûteux, donc sa cotisation est souvent plus basse. Les affections fréquentes du chat (problèmes urinaires, insuffisance rénale, hyperthyroïdie) restent prises en charge.' },
 ]
 
 export default async function Page({
@@ -646,6 +674,50 @@ export default async function Page({
           <p className="text-xs text-stone-500 mt-3">Fourchettes indicatives, variables selon la clinique et la région. L&apos;assurance est surtout rentable face aux actes lourds ; pour les seuls soins courants, une épargne de précaution peut suffire.</p>
         </section>
 
+        {/* ── Reimbursement example ── */}
+        <section className="bg-emerald-50 border border-emerald-200 rounded-2xl p-6">
+          <h2 className="text-xl font-bold text-stone-900 mb-3">Un exemple de remboursement</h2>
+          <p className="text-sm text-stone-700 leading-relaxed mb-4">
+            Imaginons que votre chien se rompe le ligament croisé et que l&apos;opération coûte <strong>2 000 €</strong>.
+            Votre formule rembourse à 90 %, avec une franchise annuelle de 50 € (non encore atteinte) et un plafond de 2 500 € :
+          </p>
+          <ul className="space-y-2 text-sm text-stone-800 mb-4">
+            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>Facture vétérinaire</span><span className="font-semibold">2 000 €</span></li>
+            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>Moins la franchise annuelle</span><span className="font-semibold">- 50 €</span></li>
+            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>Remboursé à 90 % de 1 950 €</span><span className="font-semibold text-emerald-700">= 1 755 € rendus</span></li>
+            <li className="flex justify-between gap-4"><span>Votre reste à charge</span><span className="font-semibold">245 €</span></li>
+          </ul>
+          <p className="text-xs text-stone-500 leading-relaxed">
+            L&apos;ordre du calcul peut varier d&apos;un assureur à l&apos;autre (franchise par acte ou annuelle, taux appliqué avant ou après la franchise). Vérifiez toujours la méthode de calcul dans les conditions générales.
+          </p>
+        </section>
+
+        {/* ── Common conditions ── */}
+        <section>
+          <h2 className="text-2xl font-bold text-stone-900 mb-5">Les affections courantes et leur coût</h2>
+          <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
+            <table className="w-full text-sm min-w-[640px] bg-white">
+              <thead className="bg-stone-100 text-stone-700"><tr><th className="text-left px-4 py-3 font-semibold">Affection</th><th className="text-left px-4 py-3 font-semibold">Coût typique</th><th className="text-left px-4 py-3 font-semibold">Pourquoi ça compte</th></tr></thead>
+              <tbody>
+                {CONDITIONS.map((c) => (<tr key={c.condition} className="border-t border-stone-100"><td className="px-4 py-3 font-semibold text-stone-900">{c.condition}</td><td className="px-4 py-3 text-emerald-700 font-semibold whitespace-nowrap">{c.cost}</td><td className="px-4 py-3 text-stone-600">{c.note}</td></tr>))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        {/* ── What affects your premium ── */}
+        <section>
+          <h2 className="text-2xl font-bold text-stone-900 mb-5">Ce qui fait varier votre cotisation</h2>
+          <div className="grid sm:grid-cols-2 gap-4">
+            {FACTORS.map((f) => (
+              <div key={f.factor} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
+                <h3 className="font-bold text-stone-900 mb-1">{f.factor}</h3>
+                <p className="text-sm text-stone-600 leading-relaxed">{f.text}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+
         {/* ── By profile ── */}
         <section>
           <h2 className="text-2xl font-bold text-stone-900 mb-5">Quelle assurance selon le profil de votre animal</h2>
@@ -703,6 +775,21 @@ export default async function Page({
             Pour ces animaux, privilégiez un plafond annuel élevé et un bon taux de remboursement,
             et assurez-les jeunes : les prédispositions découvertes plus tard pourraient être
             considérées comme préexistantes.
+          </p>
+        </section>
+
+        {/* ── When it might not be worth it ── */}
+        <section className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
+          <h2 className="text-xl font-bold text-stone-900 mb-3">Quand l&apos;assurance se justifie moins</h2>
+          <p className="text-sm text-stone-700 leading-relaxed mb-4">
+            L&apos;assurance n&apos;est pas automatique pour tout le monde. Elle se justifie moins si :
+          </p>
+          <ul className="space-y-2 text-sm text-stone-700">
+            {NOT_WORTH.map((n) => (<li key={n} className="flex gap-2"><span className="text-amber-600 flex-shrink-0">!</span><span>{n}</span></li>))}
+          </ul>
+          <p className="text-sm text-stone-600 leading-relaxed mt-4">
+            Même dans ces cas, assurer un animal jeune et en bonne santé dans une formule accidents
+            et maladies abordable reste une protection peu chère contre la facture imprévisible.
           </p>
         </section>
 

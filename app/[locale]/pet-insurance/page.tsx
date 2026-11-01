@@ -332,6 +332,29 @@ const VET_COSTS: Array<{ act: string; cost: string }> = [
   { act: 'Cancer treatment or major surgery', cost: '$5,000 to $10,000+' },
 ]
 
+const CONDITIONS: Array<{ condition: string; cost: string; note: string }> = [
+  { condition: 'Cruciate ligament tear (TPLO)', cost: '$3,000 to $6,000', note: 'One of the most common and costly dog surgeries; often waits 6-12 months.' },
+  { condition: 'Cancer diagnosis and treatment', cost: '$5,000 to $15,000', note: 'Chemotherapy, surgery and scans add up quickly over months.' },
+  { condition: 'Foreign body / obstruction surgery', cost: '$2,000 to $5,000', note: 'Swallowed toys or socks; emergency and usually unplanned.' },
+  { condition: 'Diabetes (ongoing, per year)', cost: '$1,000 to $3,000 / yr', note: 'Insulin, monitoring and recheck visits for life.' },
+  { condition: 'Chronic allergies (per year)', cost: '$300 to $1,000 / yr', note: 'Very common; recurring meds, special diets and derm visits.' },
+  { condition: 'Emergency ER visit', cost: '$800 to $5,000', note: 'After-hours clinics charge far more than a regular vet.' },
+]
+
+const PREMIUM_FACTORS: Array<{ factor: string; text: string }> = [
+  { factor: 'Species', text: 'Dogs generally cost more to insure than cats, which have fewer and cheaper claims on average.' },
+  { factor: 'Breed', text: 'Large and purebred dogs with known hereditary risks (hip dysplasia, heart disease) carry higher premiums than mixed breeds.' },
+  { factor: 'Age', text: 'Premiums are lowest for puppies and kittens and rise every year as the pet ages, which is why enrolling early matters.' },
+  { factor: 'Location (ZIP code)', text: 'Vet costs vary widely by region, so the same pet costs more to insure in a high-cost metro than in a rural area.' },
+  { factor: 'Your choices', text: 'A lower deductible, a higher reimbursement rate and a higher annual limit all raise the premium. Tuning these is how you hit your budget.' },
+]
+
+const NOT_WORTH: string[] = [
+  'You keep a dedicated emergency fund and could comfortably absorb a surprise $5,000+ bill.',
+  'Your pet is a senior with several existing conditions, since most would be excluded as pre-existing.',
+  'You only want to cover tiny, predictable costs, which the deductible often swallows anyway.',
+]
+
 const FAQ: Array<{ q: string; a: string }> = [
   { q: 'What is the best pet insurance in 2026?', a: 'There is no single best plan: it depends on your pet, budget and priorities. For value and speed, Lemonade stands out. For unlimited coverage, Healthy Paws. For the highest reimbursement, Figo (up to 100%). For direct vet payment, Trupanion. For exotic pets, Nationwide. For older pets, Spot, which has no maximum enrollment age.' },
   { q: 'How much does pet insurance cost in the US?', a: 'Comprehensive accident-and-illness plans commonly run about $35 to $70+ a month for dogs and roughly $15 to $30 for cats, while accident-only cover can start near $10. The exact premium depends on species, breed, age, your state and the deductible, reimbursement rate and annual limit you pick.' },
@@ -342,6 +365,11 @@ const FAQ: Array<{ q: string; a: string }> = [
   { q: 'Does pet insurance cover routine or wellness care?', a: 'Not by default. Core plans cover accidents and illness. Routine care (vaccines, dental cleanings, annual exams) is usually an optional wellness add-on, offered by insurers like Embrace, Spot, ASPCA and Nationwide.' },
   { q: 'At what age should I insure my pet?', a: 'As early as possible. Premiums are lowest and the risk of a pre-existing exclusion is smallest when the pet is young. Some insurers cap the age at enrollment, so check that limit; Spot notably has no maximum enrollment age for older pets.' },
   { q: 'Can I use any veterinarian?', a: 'Yes. US pet insurance generally works with any licensed vet, including specialists and emergency clinics, because you are reimbursed rather than tied to a network. Direct vet pay (Trupanion) depends on the clinic participating.' },
+  { q: 'Does pet insurance cover dental?', a: 'Dental illness, such as extractions and treatment of periodontal disease, is covered by many accident-and-illness plans (Embrace is a notable example), though some limit it or require proof of prior dental care. Routine dental cleanings are considered preventive and fall under an optional wellness add-on, not the core plan.' },
+  { q: 'What is the difference between accident-only and comprehensive cover?', a: 'Accident-only plans cover injuries such as broken bones, bite wounds or swallowed objects, and are the cheapest option (often around $10 a month). Comprehensive accident-and-illness plans add coverage for diseases, cancer, infections and chronic conditions, which is where the large bills usually come from.' },
+  { q: 'Can I switch pet insurers?', a: 'Yes, but switching restarts waiting periods, and any condition your pet already has becomes pre-existing with the new insurer, so it may no longer be covered. Switch only if the new plan is clearly better and your pet is currently healthy. Some insurers, like MetLife Pet, may account for prior continuous coverage.' },
+  { q: 'Does it cover spay, neuter or vaccines?', a: 'Not under the core accident-and-illness plan: spay/neuter, vaccines and annual exams are preventive care. They are covered only if you add an optional wellness or routine-care package, offered by insurers such as Embrace, Spot, ASPCA and Nationwide.' },
+  { q: 'Is it cheaper to insure a cat than a dog?', a: 'Usually yes. Cats tend to have fewer and less expensive claims, so premiums commonly run about $15 to $30 a month for a comprehensive cat plan versus $35 to $70+ for a dog. Common cat claims include urinary issues (FLUTD), kidney disease and hyperthyroidism, which insurance still helps with.' },
 ]
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
@@ -621,6 +649,82 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
           <p className="text-sm text-stone-600 leading-relaxed mt-4">
             If one bill in the thousands would strain your budget, insurance is usually worth it,
             especially when you enroll young and lock in a low rate before any condition appears.
+          </p>
+        </section>
+
+        {/* ── Reimbursement example ── */}
+        <section className="bg-emerald-50 border border-emerald-200 rounded-2xl p-6">
+          <h2 className="text-xl font-bold text-stone-900 mb-3">A reimbursement example</h2>
+          <p className="text-sm text-stone-700 leading-relaxed mb-4">
+            Say your dog tears a cruciate ligament and the TPLO surgery costs <strong>$4,000</strong>.
+            Your plan is 90% reimbursement, a $250 annual deductible (not yet met) and a $10,000 annual limit:
+          </p>
+          <ul className="space-y-2 text-sm text-stone-800 mb-4">
+            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>Vet bill</span><span className="font-semibold">$4,000</span></li>
+            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>Minus annual deductible</span><span className="font-semibold">- $250</span></li>
+            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>Reimbursed at 90% of $3,750</span><span className="font-semibold text-emerald-700">= $3,375 back</span></li>
+            <li className="flex justify-between gap-4"><span>Your share out of pocket</span><span className="font-semibold">$625</span></li>
+          </ul>
+          <p className="text-xs text-stone-500 leading-relaxed">
+            The order can differ: Lemonade applies the reimbursement percentage before subtracting the
+            deductible, which changes the payout slightly. Trupanion&apos;s per-condition deductible is paid
+            once for that condition and never again, instead of yearly. Always check how your insurer runs the math.
+          </p>
+        </section>
+
+        {/* ── Common conditions ── */}
+        <section>
+          <h2 className="text-2xl font-bold text-stone-900 mb-5">Common conditions and what they cost</h2>
+          <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
+            <table className="w-full text-sm min-w-[640px] bg-white">
+              <thead className="bg-stone-100 text-stone-700"><tr><th className="text-left px-4 py-3 font-semibold">Condition</th><th className="text-left px-4 py-3 font-semibold">Typical cost</th><th className="text-left px-4 py-3 font-semibold">Why it matters</th></tr></thead>
+              <tbody>
+                {CONDITIONS.map((c) => (<tr key={c.condition} className="border-t border-stone-100"><td className="px-4 py-3 font-semibold text-stone-900">{c.condition}</td><td className="px-4 py-3 text-emerald-700 font-semibold whitespace-nowrap">{c.cost}</td><td className="px-4 py-3 text-stone-600">{c.note}</td></tr>))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        {/* ── What affects your premium ── */}
+        <section>
+          <h2 className="text-2xl font-bold text-stone-900 mb-5">What affects your premium</h2>
+          <div className="grid sm:grid-cols-2 gap-4">
+            {PREMIUM_FACTORS.map((f) => (
+              <div key={f.factor} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
+                <h3 className="font-bold text-stone-900 mb-1">{f.factor}</h3>
+                <p className="text-sm text-stone-600 leading-relaxed">{f.text}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        {/* ── When it might not be worth it ── */}
+        <section className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
+          <h2 className="text-xl font-bold text-stone-900 mb-3">When it might not be worth it</h2>
+          <p className="text-sm text-stone-700 leading-relaxed mb-4">
+            Insurance is not automatic for everyone. It may make less sense if:
+          </p>
+          <ul className="space-y-2 text-sm text-stone-700">
+            {NOT_WORTH.map((n) => (<li key={n} className="flex gap-2"><span className="text-amber-600 flex-shrink-0">!</span><span>{n}</span></li>))}
+          </ul>
+          <p className="text-sm text-stone-600 leading-relaxed mt-4">
+            Even then, enrolling a young, healthy pet in a low accident-and-illness plan is cheap
+            insurance against the one bill you cannot predict.
+          </p>
+        </section>
+
+        {/* ── Expensive breeds ── */}
+        <section className="bg-white border border-stone-200 rounded-2xl p-6">
+          <h2 className="text-2xl font-bold text-stone-900 mb-3">The breeds that cost the most to insure</h2>
+          <p className="text-sm text-stone-700 leading-relaxed mb-3">
+            Some breeds pay higher premiums because they carry more health risk. That includes
+            flat-faced (brachycephalic) breeds such as the French Bulldog, Pug and English Bulldog,
+            prone to breathing problems, and large breeds such as the Great Dane, German Shepherd and
+            Labrador, more exposed to hip dysplasia and cruciate injuries.
+          </p>
+          <p className="text-sm text-stone-600 leading-relaxed">
+            For these dogs, favor a high annual limit and a strong reimbursement rate, and insure
+            them young: a predisposition discovered later could be treated as pre-existing and excluded.
           </p>
         </section>
 

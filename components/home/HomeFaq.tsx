@@ -233,38 +233,38 @@ export default function HomeFaq({ locale }: { locale: Locale }) {
   }
 
   return (
-    <section className="bg-white border-t border-gray-100">
+    <section className="bg-white border-t border-line">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
-        <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-4">{c.heading}</h2>
-        <p className="text-gray-600 leading-relaxed mb-8">{c.intro}</p>
+        <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-4">{c.heading}</h2>
+        <p className="text-slate leading-relaxed mb-8">{c.intro}</p>
 
-        <div className="divide-y divide-gray-100 border-y border-gray-100">
+        <div className="divide-y divide-line border-y border-line">
           {c.faqs.map((f, i) => (
             <details key={i} className="group py-4">
-              <summary className="flex cursor-pointer items-center justify-between gap-4 font-semibold text-gray-900 list-none">
+              <summary className="flex cursor-pointer items-center justify-between gap-4 font-semibold text-ink list-none">
                 {f.q}
-                <span className="text-orange-500 transition-transform group-open:rotate-45 text-xl leading-none">+</span>
+                <span className="text-ink transition-transform group-open:rotate-45 text-xl leading-none">+</span>
               </summary>
-              <p className="mt-3 text-gray-600 leading-relaxed">{f.a}</p>
+              <p className="mt-3 text-slate leading-relaxed">{f.a}</p>
             </details>
           ))}
         </div>
 
         <div className="mt-8 flex flex-wrap items-center gap-2 text-sm">
-          <span className="text-gray-500">{c.citiesLabel}</span>
+          <span className="text-slate">{c.citiesLabel}</span>
           {CITY_LINKS.map((city) => (
             <Link
               key={city.slug}
               href={`/${locale}/${city.slug}/dog-friendly`}
-              className="inline-block rounded-full bg-orange-50 px-3 py-1 font-medium text-orange-700 hover:bg-orange-100 transition-colors"
+              className="inline-block rounded-full bg-coral/25 px-3 py-1 font-medium text-ink hover:bg-coral/25 transition-colors"
             >
               {city.label}
             </Link>
           ))}
           <Link
             href={`/${locale}/destinations`}
-            className="inline-block rounded-full bg-gray-100 px-3 py-1 font-medium text-gray-700 hover:bg-gray-200 transition-colors"
+            className="inline-block rounded-full bg-lavender-soft px-3 py-1 font-medium text-slate hover:bg-lavender-soft transition-colors"
           >
             {locale === 'fr' ? 'Toutes les destinations' : locale === 'es' ? 'Todos los destinos' : locale === 'pt' ? 'Todos os destinos' : locale === 'de' ? 'Alle Reiseziele' : locale === 'nl' ? 'Alle bestemmingen' : locale === 'it' ? 'Tutte le destinazioni' : 'All destinations'}
           </Link>

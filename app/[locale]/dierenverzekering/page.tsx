@@ -349,13 +349,13 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   }
 
   return (
-    <main className="min-h-screen bg-stone-50">
+    <main className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
 
       {/* ── Hero ── */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-sky-800 via-blue-800 to-indigo-900 text-white">
+      <section className="relative overflow-hidden bg-electric text-white">
         <div className="absolute inset-0 opacity-20 pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at 20% 20%, white 1px, transparent 1px)', backgroundSize: '28px 28px' }} />
         <div className="relative max-w-5xl mx-auto px-4 py-16 sm:py-24">
           <nav className="text-sm text-white/70 mb-6">
@@ -363,18 +363,18 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
             <span className="mx-2">/</span>
             <span className="text-white">Dierenverzekering</span>
           </nav>
-          <span className="inline-block text-xs font-semibold tracking-wide uppercase bg-white/15 border border-white/20 rounded-full px-3 py-1 mb-5">
+          <span className="eyebrow inline-block bg-lime text-ink border-[1.6px] border-ink rounded-full px-3 py-1.5 mb-5">
             Onafhankelijke vergelijking · bijgewerkt in {UPDATED}
           </span>
-          <h1 className="text-3xl sm:text-5xl font-bold leading-tight mb-5 max-w-3xl">
+          <h1 className="text-4xl sm:text-6xl font-bold leading-[1.05] mb-5 max-w-3xl">
             Beste huisdierenverzekering 2026
           </h1>
-          <p className="text-lg text-sky-50 max-w-2xl mb-8">
+          <p className="text-lg text-white/85 max-w-2xl mb-8">
             De complete gids voor de dierenverzekering voor hond en kat in Nederland:
             dekking, vergoeding, eigen risico, wachttijden, prijzen en uitsluitingen van
             de 10 belangrijkste verzekeraars, plus hoe je kiest zonder spijt.
           </p>
-          <div className="flex flex-wrap gap-x-8 gap-y-3 text-sm text-sky-100">
+          <div className="flex flex-wrap gap-x-8 gap-y-3 text-sm text-white/85">
             <span><strong className="text-white text-lg">10</strong> verzekeraars vergeleken</span>
             <span><strong className="text-white text-lg">6</strong> objectieve criteria</span>
             <span><strong className="text-white text-lg">0</strong> verzonnen reviews, alles gecontroleerd</span>
@@ -385,13 +385,13 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       <div className="max-w-5xl mx-auto px-4 py-10 space-y-12">
         {/* ── Intro ── */}
         <section className="prose-none">
-          <p className="text-stone-700 leading-relaxed mb-4">
+          <p className="text-slate leading-relaxed mb-4">
             Steeds meer Nederlanders verzekeren hun huisdier, en niet voor niets: de dierenartskosten
             stijgen en één operatie kan meer kosten dan jaren aan premie. Een dierenverzekering doet
             precies één ding goed: ze verandert een onvoorspelbare, mogelijk hoge rekening in een
             voorspelbare maandpremie.
           </p>
-          <p className="text-stone-700 leading-relaxed">
+          <p className="text-slate leading-relaxed">
             De markt bestaat uit digitale verzekeraars (Figo, InShared), grote partijen (a.s.r.,
             Nationale-Nederlanden, Centraal Beheer, Interpolis, FBTO) en specialisten (PetSecur). Dit
             is onze complete vergelijking om de juiste te vinden.
@@ -400,11 +400,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Comparison table ── */}
         <section id="vergelijkingstabel" className="scroll-mt-6">
-          <h2 className="text-2xl font-bold text-stone-900 mb-2">De vergelijkingstabel 2026</h2>
-          <p className="text-sm text-stone-600 mb-5">De 10 belangrijkste dierenverzekeraars in Nederland, gerangschikt volgens onze redactionele beoordeling van dekking, prijs en gebruikservaring. Klik op een verzekeraar om het profiel te openen.</p>
-          <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
+          <h2 className="text-2xl font-bold text-ink mb-2">De vergelijkingstabel 2026</h2>
+          <p className="text-sm text-slate mb-5">De 10 belangrijkste dierenverzekeraars in Nederland, gerangschikt volgens onze redactionele beoordeling van dekking, prijs en gebruikservaring. Klik op een verzekeraar om het profiel te openen.</p>
+          <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink shadow-hard">
             <table className="w-full text-sm min-w-[760px] bg-white">
-              <thead className="bg-stone-100 text-stone-700">
+              <thead className="bg-lavender-soft text-slate">
                 <tr>
                   <th className="text-left px-4 py-3 font-semibold w-8">#</th>
                   <th className="text-left px-4 py-3 font-semibold">Verzekeraar</th>
@@ -415,90 +415,90 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               </thead>
               <tbody>
                 {INSURERS.map((ins, i) => (
-                  <tr key={ins.name} className="border-t border-stone-100 align-top hover:bg-stone-50">
-                    <td className="px-4 py-4 font-bold text-stone-400">{i + 1}</td>
+                  <tr key={ins.name} className="border-t border-line align-top hover:bg-cream">
+                    <td className="px-4 py-4 font-bold text-slate">{i + 1}</td>
                     <td className="px-4 py-4">
                       <a href={`#profiel-${ins.slug}`} className="flex items-center gap-2.5 group">
                         <BrandLogo src={`/logos/${ins.slug}.png`} name={ins.name} initials={ins.initials} color={ins.color} size={36} />
                         <div>
                           <div className="flex items-center gap-1.5">
-                            <span className="font-bold text-stone-900 group-hover:text-sky-700 group-hover:underline">{ins.name}</span>
-                            {ins.sponsored && (<span className="text-[10px] font-semibold bg-amber-100 text-amber-800 border border-amber-300 px-1.5 py-0.5 rounded-full">Gesponsord</span>)}
+                            <span className="font-bold text-ink group-hover:text-electric group-hover:underline">{ins.name}</span>
+                            {ins.sponsored && (<span className="text-[10px] font-semibold bg-coral/25 text-ink border border-ink/20 px-1.5 py-0.5 rounded-full">Gesponsord</span>)}
                           </div>
-                          <span className="text-xs font-medium text-sky-700">{ins.verdict}</span>
-                          <span className="block text-[11px] text-stone-400 group-hover:text-sky-600">Profiel bekijken ↓</span>
+                          <span className="text-xs font-medium text-electric">{ins.verdict}</span>
+                          <span className="block text-[11px] text-slate group-hover:text-electric">Profiel bekijken ↓</span>
                         </div>
                       </a>
                     </td>
-                    <td className="px-4 py-4 text-stone-600">{ins.covered.join(' · ')}</td>
-                    <td className="px-4 py-4 text-stone-700">{ins.reimbursement}</td>
-                    <td className="px-4 py-4 text-stone-600">{ins.waiting}</td>
+                    <td className="px-4 py-4 text-slate">{ins.covered.join(' · ')}</td>
+                    <td className="px-4 py-4 text-slate">{ins.reimbursement}</td>
+                    <td className="px-4 py-4 text-slate">{ins.waiting}</td>
                   </tr>
                 ))}
               </tbody>
             </table>
           </div>
-          <p className="text-xs text-stone-500 mt-3">Gegevens zijn indicatief, bijgewerkt in {UPDATED}. Wachttijden en vergoedingen verschillen per polis. De exacte premie hangt af van je dier, ras, leeftijd en dekking: vraag een offerte aan en lees de voorwaarden voordat je afsluit.</p>
+          <p className="text-xs text-slate mt-3">Gegevens zijn indicatief, bijgewerkt in {UPDATED}. Wachttijden en vergoedingen verschillen per polis. De exacte premie hangt af van je dier, ras, leeftijd en dekking: vraag een offerte aan en lees de voorwaarden voordat je afsluit.</p>
         </section>
 
         {/* ── Detailed ranking cards ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">De uitgebreide ranglijst</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">De uitgebreide ranglijst</h2>
           <div className="space-y-4">
             {INSURERS.map((ins, i) => (
-              <article key={ins.name} id={`profiel-${ins.slug}`} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5 sm:p-6 scroll-mt-6">
+              <article key={ins.name} id={`profiel-${ins.slug}`} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5 sm:p-6 scroll-mt-6">
                 <div className="flex items-start gap-4">
                   <div className="flex flex-col items-center flex-shrink-0 gap-1">
-                    <span className="text-xs font-bold text-stone-400">#{i + 1}</span>
+                    <span className="text-xs font-bold text-slate">#{i + 1}</span>
                     <BrandLogo src={`/logos/${ins.slug}.png`} name={ins.name} initials={ins.initials} color={ins.color} size={48} />
                   </div>
                   <div className="flex-1 min-w-0">
                     <div className="flex flex-wrap items-center gap-2 mb-0.5">
-                      <h3 className="text-lg font-bold text-stone-900">{ins.name}</h3>
-                      <span className="text-xs font-semibold bg-sky-50 text-sky-700 border border-sky-200 px-2 py-0.5 rounded-full">{ins.verdict}</span>
-                      {ins.sponsored && (<span className="text-xs font-semibold bg-amber-100 text-amber-800 border border-amber-300 px-2 py-0.5 rounded-full">Gesponsord</span>)}
-                      <a href="#vergelijkingstabel" className="ml-auto text-xs text-stone-400 hover:text-sky-700 whitespace-nowrap">↑ tabel</a>
+                      <h3 className="text-lg font-bold text-ink">{ins.name}</h3>
+                      <span className="text-xs font-semibold bg-lavender-soft text-electric border border-ink/20 px-2 py-0.5 rounded-full">{ins.verdict}</span>
+                      {ins.sponsored && (<span className="text-xs font-semibold bg-coral/25 text-ink border border-ink/20 px-2 py-0.5 rounded-full">Gesponsord</span>)}
+                      <a href="#vergelijkingstabel" className="ml-auto text-xs text-slate hover:text-electric whitespace-nowrap">↑ tabel</a>
                     </div>
-                    <p className="text-sm text-stone-500">{ins.kind}</p>
-                    <p className="text-[13px] font-semibold text-stone-700 mt-1">{ins.tagline}</p>
+                    <p className="text-sm text-slate">{ins.kind}</p>
+                    <p className="text-[13px] font-semibold text-slate mt-1">{ins.tagline}</p>
                   </div>
                 </div>
 
-                <p className="text-sm text-stone-700 leading-relaxed mt-4">{ins.summary}</p>
+                <p className="text-sm text-slate leading-relaxed mt-4">{ins.summary}</p>
 
-                <dl className="grid sm:grid-cols-2 gap-x-6 gap-y-2.5 text-sm mt-4 border-t border-stone-100 pt-4">
-                  <div><dt className="font-semibold text-stone-900">Dieren</dt><dd className="text-stone-600">{ins.species}</dd></div>
-                  <div><dt className="font-semibold text-stone-900">Vergoeding</dt><dd className="text-stone-600">{ins.reimbursement}</dd></div>
-                  <div><dt className="font-semibold text-stone-900">Eigen risico</dt><dd className="text-stone-600">{ins.deductible}</dd></div>
-                  <div><dt className="font-semibold text-stone-900">Verzekerd bedrag</dt><dd className="text-stone-600">{ins.limit}</dd></div>
-                  <div className="sm:col-span-2"><dt className="font-semibold text-stone-900">Wachttijd</dt><dd className="text-stone-600">{ins.waiting}</dd></div>
+                <dl className="grid sm:grid-cols-2 gap-x-6 gap-y-2.5 text-sm mt-4 border-t border-line pt-4">
+                  <div><dt className="font-semibold text-ink">Dieren</dt><dd className="text-slate">{ins.species}</dd></div>
+                  <div><dt className="font-semibold text-ink">Vergoeding</dt><dd className="text-slate">{ins.reimbursement}</dd></div>
+                  <div><dt className="font-semibold text-ink">Eigen risico</dt><dd className="text-slate">{ins.deductible}</dd></div>
+                  <div><dt className="font-semibold text-ink">Verzekerd bedrag</dt><dd className="text-slate">{ins.limit}</dd></div>
+                  <div className="sm:col-span-2"><dt className="font-semibold text-ink">Wachttijd</dt><dd className="text-slate">{ins.waiting}</dd></div>
                 </dl>
 
                 <div className="flex flex-wrap gap-1.5 mt-4">
-                  {ins.covered.map((c) => (<span key={c} className="text-xs bg-emerald-50 text-emerald-800 border border-emerald-100 px-2 py-0.5 rounded-full">✓ {c}</span>))}
+                  {ins.covered.map((c) => (<span key={c} className="text-xs bg-lime/30 text-ink border border-ink/20 px-2 py-0.5 rounded-full">✓ {c}</span>))}
                 </div>
 
                 <div className="grid sm:grid-cols-2 gap-4 mt-4">
-                  <div className="bg-emerald-50/60 border border-emerald-100 rounded-xl p-4">
-                    <p className="text-xs font-bold uppercase tracking-wide text-emerald-800 mb-2">Sterke punten</p>
-                    <ul className="space-y-1.5 text-sm text-stone-700">
-                      {ins.pros.map((p) => (<li key={p} className="flex gap-2"><span className="text-emerald-600 flex-shrink-0">✓</span><span>{p}</span></li>))}
+                  <div className="bg-lime/30 border border-ink/20 rounded-xl p-4">
+                    <p className="text-xs font-bold uppercase tracking-wide text-ink mb-2">Sterke punten</p>
+                    <ul className="space-y-1.5 text-sm text-slate">
+                      {ins.pros.map((p) => (<li key={p} className="flex gap-2"><span className="text-ink flex-shrink-0">✓</span><span>{p}</span></li>))}
                     </ul>
                   </div>
-                  <div className="bg-amber-50/60 border border-amber-100 rounded-xl p-4">
-                    <p className="text-xs font-bold uppercase tracking-wide text-amber-800 mb-2">Let op</p>
-                    <ul className="space-y-1.5 text-sm text-stone-700">
-                      {ins.cons.map((c) => (<li key={c} className="flex gap-2"><span className="text-amber-600 flex-shrink-0">!</span><span>{c}</span></li>))}
+                  <div className="bg-coral/25 border border-ink/20 rounded-xl p-4">
+                    <p className="text-xs font-bold uppercase tracking-wide text-ink mb-2">Let op</p>
+                    <ul className="space-y-1.5 text-sm text-slate">
+                      {ins.cons.map((c) => (<li key={c} className="flex gap-2"><span className="text-ink flex-shrink-0">!</span><span>{c}</span></li>))}
                     </ul>
                   </div>
                 </div>
 
-                <p className="text-sm text-stone-700 leading-relaxed mt-4"><span className="font-semibold text-stone-900">Zo werkt de vergoeding:</span> {ins.claimMethod}</p>
+                <p className="text-sm text-slate leading-relaxed mt-4"><span className="font-semibold text-ink">Zo werkt de vergoeding:</span> {ins.claimMethod}</p>
                 <div className="flex flex-wrap items-center gap-1.5 mt-3">
-                  <span className="text-xs font-semibold text-stone-500 mr-1">Inbegrepen:</span>
-                  {ins.extras.map((e) => (<span key={e} className="text-xs bg-sky-50 text-sky-700 border border-sky-100 px-2 py-0.5 rounded-full">{e}</span>))}
+                  <span className="text-xs font-semibold text-slate mr-1">Inbegrepen:</span>
+                  {ins.extras.map((e) => (<span key={e} className="text-xs bg-lavender-soft text-electric border border-ink/20 px-2 py-0.5 rounded-full">{e}</span>))}
                 </div>
-                <p className="text-sm text-stone-600 leading-relaxed mt-3"><span className="font-semibold text-stone-800">Ideaal voor:</span> {ins.idealFor}</p>
+                <p className="text-sm text-slate leading-relaxed mt-3"><span className="font-semibold text-ink">Ideaal voor:</span> {ins.idealFor}</p>
 
                 <a href={ins.url} target="_blank" rel="noopener noreferrer sponsored nofollow" className="inline-flex items-center gap-1.5 text-sm font-bold text-white px-4 py-2 rounded-lg transition-opacity hover:opacity-90 mt-4" style={{ backgroundColor: ins.color }}>
                   {ins.name} bekijken en offerte aanvragen →
@@ -510,21 +510,21 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Best-for ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-2">Kort gezegd: de beste voor jouw situatie</h2>
-          <p className="text-sm text-stone-600 mb-5">Een snel overzicht. Klik op een verzekeraar om het profiel te openen.</p>
+          <h2 className="text-2xl font-bold text-ink mb-2">Kort gezegd: de beste voor jouw situatie</h2>
+          <p className="text-sm text-slate mb-5">Een snel overzicht. Klik op een verzekeraar om het profiel te openen.</p>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {BEST_FOR.map((b) => {
               const match = INSURERS.find((x) => x.name === b.pick)
               return (
-                <div key={b.label} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
+                <div key={b.label} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
                   <div className="text-2xl mb-2" aria-hidden="true">{b.icon}</div>
-                  <p className="text-xs font-semibold uppercase tracking-wide text-stone-500 mb-1">{b.label}</p>
+                  <p className="text-xs font-semibold uppercase tracking-wide text-slate mb-1">{b.label}</p>
                   {match ? (
-                    <a href={`#profiel-${match.slug}`} className="text-lg font-bold text-stone-900 mb-1 inline-block hover:text-sky-700 hover:underline">{b.pick} ↓</a>
+                    <a href={`#profiel-${match.slug}`} className="text-lg font-bold text-ink mb-1 inline-block hover:text-electric hover:underline">{b.pick} ↓</a>
                   ) : (
-                    <p className="text-lg font-bold text-stone-900 mb-1">{b.pick}</p>
+                    <p className="text-lg font-bold text-ink mb-1">{b.pick}</p>
                   )}
-                  <p className="text-sm text-stone-600 leading-relaxed">{b.why}</p>
+                  <p className="text-sm text-slate leading-relaxed">{b.why}</p>
                 </div>
               )
             })}
@@ -533,14 +533,14 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── How to choose ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">In 5 stappen kiezen</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">In 5 stappen kiezen</h2>
           <ol className="space-y-3">
             {CHOOSE_STEPS.map((s, i) => (
-              <li key={i} className="flex items-start gap-4 bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
-                <span className="flex-shrink-0 w-8 h-8 rounded-full bg-sky-700 text-white font-bold flex items-center justify-center">{i + 1}</span>
+              <li key={i} className="flex items-start gap-4 bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
+                <span className="flex-shrink-0 w-8 h-8 rounded-full bg-electric text-white font-bold flex items-center justify-center">{i + 1}</span>
                 <div>
-                  <h3 className="font-bold text-stone-900 mb-1">{s.title}</h3>
-                  <p className="text-sm text-stone-600 leading-relaxed">{s.text}</p>
+                  <h3 className="font-bold text-ink mb-1">{s.title}</h3>
+                  <p className="text-sm text-slate leading-relaxed">{s.text}</p>
                 </div>
               </li>
             ))}
@@ -549,51 +549,51 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Covered / excluded ── */}
         <section className="grid md:grid-cols-2 gap-5">
-          <div className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-            <h2 className="text-lg font-bold text-stone-900 mb-3">Wat meestal gedekt is</h2>
-            <ul className="space-y-2 text-sm text-stone-700">
-              {COVERED.map((c) => (<li key={c} className="flex gap-2"><span className="text-emerald-600">✓</span><span>{c}</span></li>))}
+          <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+            <h2 className="text-lg font-bold text-ink mb-3">Wat meestal gedekt is</h2>
+            <ul className="space-y-2 text-sm text-slate">
+              {COVERED.map((c) => (<li key={c} className="flex gap-2"><span className="text-ink">✓</span><span>{c}</span></li>))}
             </ul>
           </div>
-          <div className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-            <h2 className="text-lg font-bold text-stone-900 mb-3">Wat uitgesloten is</h2>
-            <ul className="space-y-2 text-sm text-stone-700">
-              {EXCLUDED.map((c) => (<li key={c} className="flex gap-2"><span className="text-rose-500">✗</span><span>{c}</span></li>))}
+          <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+            <h2 className="text-lg font-bold text-ink mb-3">Wat uitgesloten is</h2>
+            <ul className="space-y-2 text-sm text-slate">
+              {EXCLUDED.map((c) => (<li key={c} className="flex gap-2"><span className="text-ink">✗</span><span>{c}</span></li>))}
             </ul>
           </div>
         </section>
 
         {/* ── How reimbursement works ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Zo werkt de vergoeding</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Zo werkt de vergoeding</h2>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
             {CLAIM_STEPS.map((s, i) => (
-              <div key={i} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
-                <span className="inline-flex w-8 h-8 rounded-full bg-sky-700 text-white font-bold items-center justify-center mb-3">{i + 1}</span>
-                <h3 className="font-bold text-stone-900 mb-1">{s.title}</h3>
-                <p className="text-sm text-stone-600 leading-relaxed">{s.text}</p>
+              <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
+                <span className="inline-flex w-8 h-8 rounded-full bg-electric text-white font-bold items-center justify-center mb-3">{i + 1}</span>
+                <h3 className="font-bold text-ink mb-1">{s.title}</h3>
+                <p className="text-sm text-slate leading-relaxed">{s.text}</p>
               </div>
             ))}
           </div>
         </section>
 
         {/* ── Is it worth it ── */}
-        <section className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-          <h2 className="text-2xl font-bold text-stone-900 mb-3">Is het de moeite waard?</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-5">
+        <section className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+          <h2 className="text-2xl font-bold text-ink mb-3">Is het de moeite waard?</h2>
+          <p className="text-sm text-slate leading-relaxed mb-5">
             Het hangt ervan af hoe je een plotselinge rekening van honderden tot duizenden euro’s zou
             opvangen. Routinebezoeken zijn goedkoop en voorspelbaar, een ongeval of ernstige ziekte niet.
             Dit zijn indicatieve kosten in Nederland zonder verzekering.
           </p>
-          <div className="overflow-x-auto rounded-xl border border-stone-200">
+          <div className="overflow-x-auto rounded-xl border-[1.6px] border-ink">
             <table className="w-full text-sm">
-              <thead className="bg-stone-100 text-stone-700"><tr><th className="text-left px-4 py-2.5 font-semibold">Behandeling</th><th className="text-left px-4 py-2.5 font-semibold">Indicatieve kosten</th></tr></thead>
+              <thead className="bg-lavender-soft text-slate"><tr><th className="text-left px-4 py-2.5 font-semibold">Behandeling</th><th className="text-left px-4 py-2.5 font-semibold">Indicatieve kosten</th></tr></thead>
               <tbody>
-                {VET_COSTS.map((v) => (<tr key={v.act} className="border-t border-stone-100"><td className="px-4 py-2.5 text-stone-700">{v.act}</td><td className="px-4 py-2.5 font-semibold text-stone-900">{v.cost}</td></tr>))}
+                {VET_COSTS.map((v) => (<tr key={v.act} className="border-t border-line"><td className="px-4 py-2.5 text-slate">{v.act}</td><td className="px-4 py-2.5 font-semibold text-ink">{v.cost}</td></tr>))}
               </tbody>
             </table>
           </div>
-          <p className="text-sm text-stone-600 leading-relaxed mt-4">
+          <p className="text-sm text-slate leading-relaxed mt-4">
             Als een rekening van duizenden euro’s je budget zou ontwrichten, is een verzekering meestal
             de moeite waard, zeker als je jong afsluit en een lage premie vastlegt voordat er een
             aandoening ontstaat.
@@ -601,29 +601,29 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </section>
 
         {/* ── Reimbursement example ── */}
-        <section className="bg-emerald-50 border border-emerald-200 rounded-2xl p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Een rekenvoorbeeld</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-4">
+        <section className="bg-lime/30 border border-ink/20 rounded-[22px] p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Een rekenvoorbeeld</h2>
+          <p className="text-sm text-slate leading-relaxed mb-4">
             Stel dat je hond zijn kruisband scheurt en de operatie <strong>€2.500</strong> kost.
             Je polis vergoedt 90%, met een eigen risico van €150 (nog niet verbruikt):
           </p>
-          <ul className="space-y-2 text-sm text-stone-800 mb-4">
-            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>Dierenartsnota</span><span className="font-semibold">€2.500</span></li>
-            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>Min het eigen risico</span><span className="font-semibold">- €150</span></li>
-            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>90% vergoeding over €2.350</span><span className="font-semibold text-emerald-700">= €2.115 terug</span></li>
+          <ul className="space-y-2 text-sm text-ink mb-4">
+            <li className="flex justify-between gap-4 border-b border-ink/20 pb-2"><span>Dierenartsnota</span><span className="font-semibold">€2.500</span></li>
+            <li className="flex justify-between gap-4 border-b border-ink/20 pb-2"><span>Min het eigen risico</span><span className="font-semibold">- €150</span></li>
+            <li className="flex justify-between gap-4 border-b border-ink/20 pb-2"><span>90% vergoeding over €2.350</span><span className="font-semibold text-ink">= €2.115 terug</span></li>
             <li className="flex justify-between gap-4"><span>Jouw deel</span><span className="font-semibold">€385</span></li>
           </ul>
-          <p className="text-xs text-stone-500 leading-relaxed">
+          <p className="text-xs text-slate leading-relaxed">
             De berekening verschilt per verzekeraar (eigen risico per jaar of per nota, percentage vóór of na het eigen risico), en sommige rekenen daarnaast een eigen bijdrage. Controleer altijd de voorwaarden.
           </p>
         </section>
 
         {/* ── Common conditions ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Veelvoorkomende aandoeningen en hun kosten</h2>
-          <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
+          <h2 className="text-2xl font-bold text-ink mb-5">Veelvoorkomende aandoeningen en hun kosten</h2>
+          <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink shadow-hard">
             <table className="w-full text-sm min-w-[640px] bg-white">
-              <thead className="bg-stone-100 text-stone-700"><tr><th className="text-left px-4 py-3 font-semibold">Aandoening</th><th className="text-left px-4 py-3 font-semibold">Indicatieve kosten</th><th className="text-left px-4 py-3 font-semibold">Waarom het telt</th></tr></thead>
+              <thead className="bg-lavender-soft text-slate"><tr><th className="text-left px-4 py-3 font-semibold">Aandoening</th><th className="text-left px-4 py-3 font-semibold">Indicatieve kosten</th><th className="text-left px-4 py-3 font-semibold">Waarom het telt</th></tr></thead>
               <tbody>
                 {[
                   { c: 'Kruisbandscheur (operatie)', k: '€1.500 tot €3.000', n: 'Een van de meest voorkomende en dure hondenoperaties; vaak lange wachttijd.' },
@@ -632,7 +632,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                   { c: 'Diabetes (doorlopend, per jaar)', k: '€800 tot €2.000 / jaar', n: 'Insuline, controles en nazorg levenslang.' },
                   { c: 'Chronische allergieën (per jaar)', k: '€300 tot €900 / jaar', n: 'Veel voorkomend; terugkerende medicatie en speciaal voer.' },
                   { c: 'Spoedbezoek (avond of weekend)', k: '€150 tot €600', n: 'Spoedklinieken rekenen fors meer dan een gewone dierenarts.' },
-                ].map((r) => (<tr key={r.c} className="border-t border-stone-100"><td className="px-4 py-3 font-semibold text-stone-900">{r.c}</td><td className="px-4 py-3 text-emerald-700 font-semibold whitespace-nowrap">{r.k}</td><td className="px-4 py-3 text-stone-600">{r.n}</td></tr>))}
+                ].map((r) => (<tr key={r.c} className="border-t border-line"><td className="px-4 py-3 font-semibold text-ink">{r.c}</td><td className="px-4 py-3 text-ink font-semibold whitespace-nowrap">{r.k}</td><td className="px-4 py-3 text-slate">{r.n}</td></tr>))}
               </tbody>
             </table>
           </div>
@@ -640,7 +640,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── What affects your premium ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Wat je premie beïnvloedt</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Wat je premie beïnvloedt</h2>
           <div className="grid sm:grid-cols-2 gap-4">
             {[
               { f: 'Soort', t: 'Honden zijn doorgaans duurder te verzekeren dan katten, die minder en goedkoper claimen.' },
@@ -649,44 +649,44 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               { f: 'Postcode', t: 'Dierenartstarieven verschillen per regio, dus hetzelfde dier kost in een dure stad meer.' },
               { f: 'Jouw keuzes', t: 'Een hoger verzekerd bedrag, een hoger vergoedingspercentage en een lager eigen risico verhogen de premie. Dat is de knop voor je budget.' },
             ].map((x) => (
-              <div key={x.f} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
-                <h3 className="font-bold text-stone-900 mb-1">{x.f}</h3>
-                <p className="text-sm text-stone-600 leading-relaxed">{x.t}</p>
+              <div key={x.f} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
+                <h3 className="font-bold text-ink mb-1">{x.f}</h3>
+                <p className="text-sm text-slate leading-relaxed">{x.t}</p>
               </div>
             ))}
           </div>
         </section>
 
         {/* ── Expensive breeds ── */}
-        <section className="bg-white border border-stone-200 rounded-2xl p-6">
-          <h2 className="text-2xl font-bold text-stone-900 mb-3">De duurste rassen om te verzekeren</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-3">
+        <section className="bg-white border-[1.6px] border-ink rounded-[22px] p-6">
+          <h2 className="text-2xl font-bold text-ink mb-3">De duurste rassen om te verzekeren</h2>
+          <p className="text-sm text-slate leading-relaxed mb-3">
             Sommige rassen betalen hogere premies omdat ze meer gezondheidsrisico’s hebben. Dat geldt
             voor kortsnuitige (brachycefale) rassen zoals de Franse Bulldog, Mopshond en Engelse Bulldog,
             gevoelig voor ademhalingsproblemen, en voor grote rassen zoals de Duitse Dog, Duitse Herder
             en Labrador, vatbaarder voor heupdysplasie en kruisbandletsel. Sommige verzekeraars (Univé,
             InShared) weigeren kortsnuitige honden zelfs.
           </p>
-          <p className="text-sm text-stone-600 leading-relaxed">
+          <p className="text-sm text-slate leading-relaxed">
             Kies voor deze dieren een hoog verzekerd bedrag en een hoog vergoedingspercentage, en sluit
             jong af: een later ontdekte aanleg kan als bestaande aandoening worden uitgesloten.
           </p>
         </section>
 
         {/* ── When it might not be worth it ── */}
-        <section className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Wanneer het minder loont</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-4">
+        <section className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Wanneer het minder loont</h2>
+          <p className="text-sm text-slate leading-relaxed mb-4">
             Een verzekering is niet voor iedereen vanzelfsprekend. Ze loont minder als:
           </p>
-          <ul className="space-y-2 text-sm text-stone-700">
+          <ul className="space-y-2 text-sm text-slate">
             {[
               'Je een buffer hebt en een onverwachte rekening van €4.000+ makkelijk kunt dragen.',
               'Je dier oud is met meerdere bestaande aandoeningen, die als bestaande aandoening worden uitgesloten.',
               'Je alleen kleine, voorspelbare kosten wilt dekken, die het eigen risico vaak opslokt.',
-            ].map((n) => (<li key={n} className="flex gap-2"><span className="text-amber-600 flex-shrink-0">!</span><span>{n}</span></li>))}
+            ].map((n) => (<li key={n} className="flex gap-2"><span className="text-ink flex-shrink-0">!</span><span>{n}</span></li>))}
           </ul>
-          <p className="text-sm text-stone-600 leading-relaxed mt-4">
+          <p className="text-sm text-slate leading-relaxed mt-4">
             Zelfs dan is een jong, gezond dier verzekeren in een voordelige polis een goedkope
             bescherming tegen de ene rekening die je niet kunt voorzien.
           </p>
@@ -694,12 +694,12 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── By profile ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Welke verzekeraar per dierprofiel</h2>
-          <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
+          <h2 className="text-2xl font-bold text-ink mb-5">Welke verzekeraar per dierprofiel</h2>
+          <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink shadow-hard">
             <table className="w-full text-sm min-w-[640px] bg-white">
-              <thead className="bg-stone-100 text-stone-700"><tr><th className="text-left px-4 py-3 font-semibold">Profiel</th><th className="text-left px-4 py-3 font-semibold">Waarop letten</th><th className="text-left px-4 py-3 font-semibold">Goede keuze</th></tr></thead>
+              <thead className="bg-lavender-soft text-slate"><tr><th className="text-left px-4 py-3 font-semibold">Profiel</th><th className="text-left px-4 py-3 font-semibold">Waarop letten</th><th className="text-left px-4 py-3 font-semibold">Goede keuze</th></tr></thead>
               <tbody>
-                {PROFILE_ROWS.map((r) => (<tr key={r.profile} className="border-t border-stone-100"><td className="px-4 py-3 font-semibold text-stone-900">{r.profile}</td><td className="px-4 py-3 text-stone-600">{r.need}</td><td className="px-4 py-3 text-sky-700 font-medium">{r.suggestion}</td></tr>))}
+                {PROFILE_ROWS.map((r) => (<tr key={r.profile} className="border-t border-line"><td className="px-4 py-3 font-semibold text-ink">{r.profile}</td><td className="px-4 py-3 text-slate">{r.need}</td><td className="px-4 py-3 text-electric font-medium">{r.suggestion}</td></tr>))}
               </tbody>
             </table>
           </div>
@@ -707,26 +707,26 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Pricing ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Wat het per maand kost</h2>
-          <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
+          <h2 className="text-2xl font-bold text-ink mb-5">Wat het per maand kost</h2>
+          <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink shadow-hard">
             <table className="w-full text-sm min-w-[640px] bg-white">
-              <thead className="bg-stone-100 text-stone-700"><tr><th className="text-left px-4 py-3 font-semibold">Type</th><th className="text-left px-4 py-3 font-semibold">Indicatieve prijs</th><th className="text-left px-4 py-3 font-semibold">Toelichting</th></tr></thead>
+              <thead className="bg-lavender-soft text-slate"><tr><th className="text-left px-4 py-3 font-semibold">Type</th><th className="text-left px-4 py-3 font-semibold">Indicatieve prijs</th><th className="text-left px-4 py-3 font-semibold">Toelichting</th></tr></thead>
               <tbody>
-                {PRICE_ROWS.map((r) => (<tr key={r.profile} className="border-t border-stone-100"><td className="px-4 py-3 font-semibold text-stone-900">{r.profile}</td><td className="px-4 py-3 text-emerald-700 font-semibold whitespace-nowrap">{r.range}</td><td className="px-4 py-3 text-stone-600">{r.note}</td></tr>))}
+                {PRICE_ROWS.map((r) => (<tr key={r.profile} className="border-t border-line"><td className="px-4 py-3 font-semibold text-ink">{r.profile}</td><td className="px-4 py-3 text-ink font-semibold whitespace-nowrap">{r.range}</td><td className="px-4 py-3 text-slate">{r.note}</td></tr>))}
               </tbody>
             </table>
           </div>
-          <p className="text-xs text-stone-500 mt-3">Alleen indicatief. Je premie hangt af van soort, ras, leeftijd, postcode en gekozen dekking.</p>
+          <p className="text-xs text-slate mt-3">Alleen indicatief. Je premie hangt af van soort, ras, leeftijd, postcode en gekozen dekking.</p>
         </section>
 
         {/* ── Mistakes ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Fouten om te vermijden</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Fouten om te vermijden</h2>
           <ul className="space-y-3">
             {MISTAKES.map((m, i) => (
-              <li key={i} className="flex items-start gap-3 bg-white rounded-2xl border border-stone-200 shadow-sm p-4">
-                <span className="text-rose-500 font-bold flex-shrink-0">✗</span>
-                <span className="text-sm text-stone-700 leading-relaxed">{m}</span>
+              <li key={i} className="flex items-start gap-3 bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-4">
+                <span className="text-ink font-bold flex-shrink-0">✗</span>
+                <span className="text-sm text-slate leading-relaxed">{m}</span>
               </li>
             ))}
           </ul>
@@ -734,21 +734,21 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Glossary ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Begrippenlijst</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Begrippenlijst</h2>
           <div className="grid sm:grid-cols-2 gap-4">
             {GLOSSARY.map((g) => (
-              <div key={g.term} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
-                <h3 className="font-bold text-stone-900 mb-1">{g.term}</h3>
-                <p className="text-sm text-stone-600 leading-relaxed">{g.def}</p>
+              <div key={g.term} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
+                <h3 className="font-bold text-ink mb-1">{g.term}</h3>
+                <p className="text-sm text-slate leading-relaxed">{g.def}</p>
               </div>
             ))}
           </div>
         </section>
 
         {/* ── Travel ── */}
-        <section className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Op reis met je huisdier</h2>
-          <p className="text-sm text-stone-700 leading-relaxed">
+        <section className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Op reis met je huisdier</h2>
+          <p className="text-sm text-slate leading-relaxed">
             Sommige polissen vergoeden dierenartskosten tijdens een verblijf in de EU, maar niet alle,
             dus controleer de buitenlanddekking voor vertrek. De verzekering vervangt geen reisdocumenten:
             een Europees dierenpaspoort en een geldige rabiësvaccinatie blijven verplicht om de grens over
@@ -757,9 +757,9 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </section>
 
         {/* ── Verdict ── */}
-        <section className="bg-sky-900 text-white rounded-2xl p-6 sm:p-8">
+        <section className="bg-electric text-white rounded-[22px] p-6 sm:p-8">
           <h2 className="text-2xl font-bold mb-3">Ons oordeel</h2>
-          <p className="text-sky-50 leading-relaxed">
+          <p className="text-white/85 leading-relaxed">
             Voor de meesten biedt Figo de sterkste combinatie: testwinnaar voor hond én kat, zonder
             leeftijdsgrens en met erfelijke aandoeningen in de basis. Univé is sterk voor honden, OHRA
             voor katten, en PetSecur vaak het voordeligst. Grote partijen als a.s.r., Nationale-Nederlanden,
@@ -769,35 +769,35 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </section>
 
         {/* ── Methodology ── */}
-        <section className="bg-white border border-stone-200 rounded-2xl p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Onze methode</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-3">
+        <section className="bg-white border-[1.6px] border-ink rounded-[22px] p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Onze methode</h2>
+          <p className="text-sm text-slate leading-relaxed mb-3">
             We vergelijken elke verzekeraar op zes vaste criteria: breedte van de dekking, vergoeding,
             verzekerd bedrag, wachttijden, uitsluitingen en servicekwaliteit. Elk gegeven komt uit
             onafhankelijk onderzoek van 2026 en uit de voorwaarden van de verzekeraars. Wat we niet kunnen
             controleren, publiceren we niet.
           </p>
-          <p className="text-sm text-stone-700 leading-relaxed">
+          <p className="text-sm text-slate leading-relaxed">
             De ranglijst is redactioneel. Elke gesponsorde plek is duidelijk gemarkeerd met
             &quot;Gesponsord&quot; en verandert niets aan onze beoordeling van de dekking. Geschreven door
             Jean-Baptiste Manson, oprichter en redacteur van HotelsWithPets.com.
           </p>
-          <div className="mt-4 pt-4 border-t border-stone-100">
+          <div className="mt-4 pt-4 border-t border-line">
             <ContactCTA locale="nl" variant="advertiser" />
           </div>
         </section>
 
         {/* ── FAQ ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Veelgestelde vragen</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Veelgestelde vragen</h2>
           <div className="space-y-4">
             {FAQ.map((f, i) => (
-              <details key={i} className="bg-white rounded-2xl border border-stone-200 shadow-sm group">
-                <summary className="px-6 py-4 font-semibold text-stone-900 cursor-pointer list-none flex items-center justify-between gap-4">
+              <details key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard group">
+                <summary className="px-6 py-4 font-semibold text-ink cursor-pointer list-none flex items-center justify-between gap-4">
                   <span>{f.q}</span>
-                  <span aria-hidden="true" className="text-stone-500 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
+                  <span aria-hidden="true" className="text-slate group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
                 </summary>
-                <div className="px-6 pb-5 text-stone-700 text-sm leading-relaxed border-t border-stone-100 pt-4">{f.a}</div>
+                <div className="px-6 pb-5 text-slate text-sm leading-relaxed border-t border-line pt-4">{f.a}</div>
               </details>
             ))}
           </div>

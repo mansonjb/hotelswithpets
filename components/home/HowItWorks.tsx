@@ -85,19 +85,19 @@ export default function HowItWorks({ dict, locale = 'en' }: HowItWorksProps) {
     'What pet-owning travellers say'
 
   return (
-    <section className="py-20 bg-gray-50 border-t border-gray-100">
+    <section className="py-20 bg-cream border-t border-line">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* Title */}
         <div className="text-center mb-14">
-          <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-4">
+          <h2 className="text-3xl lg:text-4xl font-bold text-ink mb-4">
             {howItWorks.title}
           </h2>
           {/* Trust badges row */}
           <div className="flex flex-wrap justify-center gap-3 mt-6">
             {badges.map((b) => (
-              <span key={b.label} className="inline-flex items-center gap-1.5 text-sm text-emerald-700 bg-emerald-50 border border-emerald-100 px-3.5 py-1.5 rounded-full font-medium">
-                <span className="text-emerald-500 font-bold">{b.icon}</span>
+              <span key={b.label} className="inline-flex items-center gap-1.5 text-sm text-ink bg-lime/30 border border-ink/20 px-3.5 py-1.5 rounded-full font-medium">
+                <span className="text-ink font-bold">{b.icon}</span>
                 {b.label}
               </span>
             ))}
@@ -107,18 +107,18 @@ export default function HowItWorks({ dict, locale = 'en' }: HowItWorksProps) {
         {/* Steps */}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-16">
           {steps.map((step, i) => (
-            <div key={i} className="relative bg-white rounded-2xl p-7 shadow-sm border border-gray-100 flex flex-col gap-4">
+            <div key={i} className="relative bg-white rounded-[22px] p-7 shadow-sm border-[1.6px] border-ink flex flex-col gap-4">
               <div className="flex items-center gap-4">
-                <div className="w-12 h-12 rounded-xl bg-blue-50 flex items-center justify-center text-2xl flex-shrink-0">
+                <div className="w-12 h-12 rounded-xl bg-lavender-soft flex items-center justify-center text-2xl flex-shrink-0">
                   {step.icon}
                 </div>
-                <span className="text-4xl font-black text-blue-100 leading-none select-none">{i + 1}</span>
+                <span className="text-4xl font-bold text-white/85 leading-none select-none">{i + 1}</span>
               </div>
-              <h3 className="font-bold text-gray-900 text-lg leading-snug">{howItWorks[step.titleKey]}</h3>
-              <p className="text-gray-500 text-sm leading-relaxed">{howItWorks[step.descKey]}</p>
+              <h3 className="font-bold text-ink text-lg leading-snug">{howItWorks[step.titleKey]}</h3>
+              <p className="text-slate text-sm leading-relaxed">{howItWorks[step.descKey]}</p>
               {/* Step connector dot */}
               {i < 2 && (
-                <div className="hidden lg:block absolute top-1/2 -right-3 w-6 h-6 rounded-full bg-blue-100 border-2 border-white shadow-sm z-10" />
+                <div className="hidden lg:block absolute top-1/2 -right-3 w-6 h-6 rounded-full bg-lavender-soft border-2 border-white shadow-sm z-10" />
               )}
             </div>
           ))}
@@ -126,25 +126,25 @@ export default function HowItWorks({ dict, locale = 'en' }: HowItWorksProps) {
 
         {/* Testimonials */}
         <div>
-          <p className="text-xs font-bold text-gray-400 uppercase tracking-widest text-center mb-6">
+          <p className="text-xs font-bold text-slate uppercase tracking-widest text-center mb-6">
             ⭐ {reviewLabel}
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
             {testimonials.map((t, i) => (
-              <div key={i} className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 flex flex-col gap-3">
+              <div key={i} className="bg-white rounded-[22px] p-6 shadow-sm border-[1.6px] border-ink flex flex-col gap-3">
                 <div className="flex gap-0.5">
                   {Array.from({ length: t.rating }).map((_, j) => (
-                    <span key={j} className="text-amber-400 text-sm">★</span>
+                    <span key={j} className="text-ink text-sm">★</span>
                   ))}
                 </div>
-                <p className="text-gray-700 text-sm leading-relaxed flex-1 italic">&ldquo;{t.text}&rdquo;</p>
-                <div className="flex items-center gap-2 pt-2 border-t border-gray-50">
-                  <div className="w-8 h-8 rounded-full bg-gradient-to-br from-blue-400 to-indigo-500 flex items-center justify-center text-white text-xs font-bold flex-shrink-0">
+                <p className="text-slate text-sm leading-relaxed flex-1 italic">&ldquo;{t.text}&rdquo;</p>
+                <div className="flex items-center gap-2 pt-2 border-t border-line">
+                  <div className="w-8 h-8 rounded-full bg-electric flex items-center justify-center text-white text-xs font-bold flex-shrink-0">
                     {t.author[0]}
                   </div>
                   <div>
-                    <p className="text-xs font-semibold text-gray-800">{t.author}</p>
-                    <p className="text-[10px] text-gray-400">{t.location}</p>
+                    <p className="text-xs font-semibold text-ink">{t.author}</p>
+                    <p className="text-[10px] text-slate">{t.location}</p>
                   </div>
                 </div>
               </div>

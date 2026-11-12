@@ -104,20 +104,20 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
     `View all categories →`
 
   return (
-    <section className="py-24 bg-gray-50 border-t border-gray-100">
+    <section className="py-24 bg-cream border-t border-line">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* Header */}
         <div className="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-6 mb-14">
           <div>
-            <p className="text-xs font-bold uppercase tracking-widest text-blue-500 mb-3">
+            <p className="text-xs font-bold uppercase tracking-widest text-electric mb-3">
               {dict.categories.browseBy}
             </p>
-            <h2 className="text-4xl font-extrabold text-gray-900 leading-tight max-w-lg">
+            <h2 className="text-4xl font-bold text-ink leading-tight max-w-lg">
               {dict.categories.browseTitle}
             </h2>
           </div>
-          <p className="text-gray-500 text-sm leading-relaxed max-w-sm lg:text-right lg:pb-1">
+          <p className="text-slate text-sm leading-relaxed max-w-sm lg:text-right lg:pb-1">
             {intro}
           </p>
         </div>
@@ -131,39 +131,39 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
               <Link
                 key={cat.slug}
                 href={`/${locale}/categories/${cat.slug}`}
-                className="group grid grid-cols-[4rem_1fr_2rem] items-center gap-5 bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 p-5 overflow-hidden relative"
+                className="group grid grid-cols-[4rem_1fr_2rem] items-center gap-5 bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard hover:shadow-hard hover:-translate-y-0.5 transition-all duration-200 p-5 overflow-hidden relative"
               >
                 {/* Large faded number, absolutely positioned, won't affect height */}
                 <span
-                  className="absolute right-12 top-1/2 -translate-y-1/2 text-[5rem] font-black leading-none select-none pointer-events-none"
+                  className="absolute right-12 top-1/2 -translate-y-1/2 text-[5rem] font-bold leading-none select-none pointer-events-none"
                   style={{ color: 'rgba(0,0,0,0.035)' }}
                 >
                   {String(i + 1).padStart(2, '0')}
                 </span>
 
                 {/* Emoji tile */}
-                <div className={`flex-shrink-0 w-16 h-16 rounded-2xl flex items-center justify-center text-3xl bg-gradient-to-br ${cat.gradient} shadow-md`}>
+                <div className={`flex-shrink-0 w-16 h-16 rounded-[22px] flex items-center justify-center text-3xl bg-lavender border-[1.6px] border-ink shadow-hard-sm`}>
                   {cat.emoji}
                 </div>
 
                 {/* Content, fixed 2-line desc so rows stay equal height */}
                 <div className="min-w-0">
-                  <h3 className="font-extrabold text-gray-900 text-base group-hover:text-blue-700 transition-colors leading-snug mb-1">
+                  <h3 className="font-bold text-ink text-base group-hover:text-electric transition-colors leading-snug mb-1">
                     {getCategoryName(cat, locale)}
                   </h3>
-                  <p className="text-sm text-gray-500 leading-snug mb-2.5 line-clamp-2">
+                  <p className="text-sm text-slate leading-snug mb-2.5 line-clamp-2">
                     {getCategoryDesc(cat, locale)}
                   </p>
                   <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
-                    <span className="text-xs text-gray-400 flex-shrink-0">{cat.cityCount} {citiesLabel} · {hotelCount} {hotelsLabel}</span>
+                    <span className="text-xs text-slate flex-shrink-0">{cat.cityCount} {citiesLabel} · {hotelCount} {hotelsLabel}</span>
                     {topCities.map((city) => (
-                      <span key={city} className="text-[11px] bg-gray-100 text-gray-600 px-2 py-0.5 rounded-full">{city}</span>
+                      <span key={city} className="text-[11px] bg-lavender-soft text-slate px-2 py-0.5 rounded-full">{city}</span>
                     ))}
                   </div>
                 </div>
 
                 {/* Arrow */}
-                <span className="flex-shrink-0 text-gray-300 group-hover:text-blue-500 group-hover:translate-x-1 transition-all duration-200 text-lg">→</span>
+                <span className="flex-shrink-0 text-white/70 group-hover:text-electric group-hover:translate-x-1 transition-all duration-200 text-lg">→</span>
               </Link>
             )
           })}
@@ -177,16 +177,16 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
               <Link
                 key={cat.slug}
                 href={`/${locale}/categories/${cat.slug}`}
-                className="group bg-white rounded-xl border border-gray-100 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 p-4 flex items-center gap-3"
+                className="group bg-white rounded-xl border-[1.6px] border-ink shadow-hard hover:shadow-hard hover:-translate-y-0.5 transition-all duration-200 p-4 flex items-center gap-3"
               >
-                <span className={`flex-shrink-0 w-9 h-9 rounded-xl flex items-center justify-center text-lg bg-gradient-to-br ${cat.gradient}`}>
+                <span className={`flex-shrink-0 w-9 h-9 rounded-xl flex items-center justify-center text-lg bg-lavender border-[1.6px] border-ink`}>
                   {cat.emoji}
                 </span>
                 <div className="min-w-0">
-                  <p className="text-sm font-semibold text-gray-900 group-hover:text-blue-700 transition-colors leading-tight truncate">
+                  <p className="text-sm font-semibold text-ink group-hover:text-electric transition-colors leading-tight truncate">
                     {getCategoryName(cat, locale)}
                   </p>
-                  <p className="text-[11px] text-gray-400 mt-0.5">{hotelCount} {hotelsLabel}</p>
+                  <p className="text-[11px] text-slate mt-0.5">{hotelCount} {hotelsLabel}</p>
                 </div>
               </Link>
             )
@@ -197,19 +197,19 @@ export default function CategoryGrid({ locale, dict }: CategoryGridProps) {
         <div className="text-center mb-10">
           <Link
             href={`/${locale}/categories`}
-            className="inline-flex items-center gap-2 text-sm font-semibold text-blue-600 hover:text-blue-700 bg-white border border-gray-200 hover:border-blue-300 px-5 py-2.5 rounded-full shadow-sm hover:shadow transition-all duration-200"
+            className="inline-flex items-center gap-2 text-sm font-semibold text-electric hover:text-electric bg-white border-[1.6px] border-ink hover:border-ink/20 px-5 py-2.5 rounded-full shadow-sm hover:shadow transition-all duration-200"
           >
             {seeAllLabel}
           </Link>
         </div>
 
         {/* Promise strip */}
-        <div className="bg-white rounded-2xl border border-gray-100 px-6 py-4 flex flex-wrap items-center gap-x-8 gap-y-3">
-          <p className="text-xs font-bold text-gray-400 uppercase tracking-widest flex-shrink-0">{promise.title}</p>
+        <div className="bg-white rounded-[22px] border-[1.6px] border-ink px-6 py-4 flex flex-wrap items-center gap-x-8 gap-y-3">
+          <p className="text-xs font-bold text-slate uppercase tracking-widest flex-shrink-0">{promise.title}</p>
           <div className="flex flex-wrap gap-x-6 gap-y-2">
             {promise.items.map((item) => (
-              <span key={item} className="flex items-center gap-1.5 text-sm text-gray-600">
-                <span className="text-emerald-500 font-bold">✓</span>
+              <span key={item} className="flex items-center gap-1.5 text-sm text-slate">
+                <span className="text-ink font-bold">✓</span>
                 {item}
               </span>
             ))}

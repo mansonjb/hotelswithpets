@@ -134,16 +134,16 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
         }
         const c = COPY[locale] ?? COPY.en
         return (
-          <section className="bg-gradient-to-br from-orange-600 to-rose-700 text-white">
+          <section className="bg-lime text-ink border-b-[1.6px] border-ink">
             <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex flex-col sm:flex-row sm:items-center gap-5">
               <div className="flex-1">
-                <p className="text-xs font-bold uppercase tracking-widest text-orange-200 mb-1">🗓️ {c.kicker}</p>
-                <h2 className="text-xl lg:text-2xl font-extrabold leading-tight mb-1">{c.title}</h2>
-                <p className="text-orange-50 text-sm leading-relaxed max-w-2xl">{c.desc}</p>
+                <p className="eyebrow text-ink mb-2">🗓️ {c.kicker}</p>
+                <h2 className="font-display text-2xl lg:text-3xl font-bold leading-tight mb-2">{c.title}</h2>
+                <p className="text-ink text-sm leading-relaxed max-w-2xl">{c.desc}</p>
               </div>
               <Link
                 href={`/${locale}/guides/dog-friendly-europe-by-month/${monthSlug}`}
-                className="flex-shrink-0 inline-block bg-white text-orange-700 font-bold px-6 py-3 rounded-full hover:bg-orange-50 transition-colors shadow-lg text-center"
+                className="flex-shrink-0 inline-block bg-ink text-white font-semibold px-6 py-3.5 rounded-full border-[1.6px] border-ink hover:bg-electric transition-colors text-center"
               >
                 {c.cta}
               </Link>
@@ -163,16 +163,16 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
         }
         const w = WHOME[locale] ?? WHOME.en
         return (
-          <section className="bg-gradient-to-br from-sky-600 to-cyan-700 text-white">
+          <section className="bg-lavender text-ink border-b-[1.6px] border-ink">
             <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex flex-col sm:flex-row sm:items-center gap-5">
               <div className="flex-1">
-                <p className="text-xs font-bold uppercase tracking-widest text-sky-200 mb-1">☀️ {w.kicker}</p>
-                <h2 className="text-xl lg:text-2xl font-extrabold leading-tight mb-1">{w.title}</h2>
-                <p className="text-sky-50 text-sm leading-relaxed max-w-2xl">{w.desc}</p>
+                <p className="eyebrow text-ink mb-2">☀️ {w.kicker}</p>
+                <h2 className="font-display text-2xl lg:text-3xl font-bold leading-tight mb-2">{w.title}</h2>
+                <p className="text-ink text-sm leading-relaxed max-w-2xl">{w.desc}</p>
               </div>
               <Link
                 href={`/${locale}/guides/winter-destinations-with-dog-2026`}
-                className="flex-shrink-0 inline-block bg-white text-sky-700 font-bold px-6 py-3 rounded-full hover:bg-sky-50 transition-colors shadow-lg text-center"
+                className="flex-shrink-0 inline-block bg-ink text-white font-semibold px-6 py-3.5 rounded-full border-[1.6px] border-ink hover:bg-electric transition-colors text-center"
               >
                 {w.cta}
               </Link>

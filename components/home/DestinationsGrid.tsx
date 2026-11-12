@@ -31,12 +31,12 @@ interface DestinationsGridProps {
 }
 
 const gradients = [
-  'from-blue-600 to-cyan-500',
-  'from-violet-600 to-purple-500',
-  'from-rose-500 to-pink-500',
-  'from-amber-500 to-orange-500',
-  'from-emerald-500 to-teal-500',
-  'from-indigo-600 to-blue-500',
+  'bg-electric',
+  'bg-ink',
+  'bg-[#1d1596]',
+  'bg-night',
+  'bg-electric',
+  'bg-ink',
 ]
 
 export default function DestinationsGrid({ locale, dict }: DestinationsGridProps) {
@@ -50,10 +50,10 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
     <section className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-end justify-between mb-12">
-          <h2 className="text-4xl font-extrabold text-gray-900">
+          <h2 className="text-4xl font-bold text-ink">
             {d.title}
           </h2>
-          <Link href={`/${locale}/destinations`} className="text-blue-600 hover:text-blue-800 text-sm font-semibold transition-colors">
+          <Link href={`/${locale}/destinations`} className="text-electric hover:text-electric text-sm font-semibold transition-colors">
             {d.viewAll}
           </Link>
         </div>
@@ -64,7 +64,7 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
           {/* Hero card, 2 cols, 2 rows */}
           <Link
             href={`/${locale}/destinations/${hero.slug}`}
-            className={`col-span-2 row-span-2 group relative overflow-hidden rounded-3xl bg-gradient-to-br ${gradients[0]} flex flex-col justify-end p-8 shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-1`}
+            className={`col-span-2 row-span-2 group relative overflow-hidden rounded-[28px] ${gradients[0]} border-[1.6px] border-ink flex flex-col justify-end p-8 shadow-hard hover:shadow-hard transition-all duration-300 hover:-translate-y-1`}
           >
             {hero.heroImage && (
               <Image
@@ -81,7 +81,7 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
             </div>
             <div className="relative">
               <span className="text-5xl mb-3 block">{hero.flag}</span>
-              <h3 className="text-white font-extrabold text-2xl mb-1">{lDest(hero.slug, hero.name)}</h3>
+              <h3 className="text-white font-bold text-2xl mb-1">{lDest(hero.slug, hero.name)}</h3>
               <p className="text-white/70 text-sm mb-1">
                 {lCountry(hero.country)} · {hero.categoryCount} {L.categories}
                 {getMinPrice(hero.slug) ? ` · ${L.from} ${getMinPrice(hero.slug)} €${L.perNight}` : ''}
@@ -98,7 +98,7 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
             <Link
               key={dest.slug}
               href={`/${locale}/destinations/${dest.slug}`}
-              className={`col-span-1 lg:col-span-1 group relative overflow-hidden rounded-2xl bg-gradient-to-br ${gradients[i + 1]} flex flex-col justify-end p-5 shadow-md hover:shadow-xl transition-all duration-200 hover:-translate-y-1`}
+              className={`col-span-1 lg:col-span-1 group relative overflow-hidden rounded-[22px] ${gradients[i + 1]} border-[1.6px] border-ink flex flex-col justify-end p-5 shadow-hard hover:shadow-hard transition-all duration-200 hover:-translate-y-1`}
             >
               {dest.heroImage && (
                 <Image
@@ -124,7 +124,7 @@ export default function DestinationsGrid({ locale, dict }: DestinationsGridProps
             <Link
               key={dest.slug}
               href={`/${locale}/destinations/${dest.slug}`}
-              className={`group relative overflow-hidden rounded-2xl bg-gradient-to-br ${gradients[(i + 3) % gradients.length]} flex flex-col justify-end p-4 shadow-sm hover:shadow-lg transition-all duration-200 hover:-translate-y-0.5`}
+              className={`group relative overflow-hidden rounded-[22px] ${gradients[(i + 3) % gradients.length]} border-[1.6px] border-ink flex flex-col justify-end p-4 shadow-sm hover:shadow-hard transition-all duration-200 hover:-translate-y-0.5`}
             >
               {dest.heroImage && (
                 <Image

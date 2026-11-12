@@ -8,6 +8,8 @@ import destinationsData from '@/data/destinations.json'
 import { getLocalizedCountryName } from '@/lib/countries'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { INSURANCE_SLUGS, isInsuranceSlug } from '@/lib/insuranceSlugs'
+import PawLogo from '@/components/ui/PawLogo'
+import { buttonClasses } from '@/components/ui/Button'
 
 interface Destination {
   slug: string
@@ -77,27 +79,27 @@ export default function Header({ locale, dict }: HeaderProps) {
   }
 
   return (
-    <header className="sticky top-0 z-50 bg-white border-b border-gray-100 shadow-sm">
+    <header className="sticky top-0 z-50 bg-cream border-b-[1.6px] border-ink">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
 
           {/* Logo */}
           <Link
             href={`/${locale}`}
-            className="flex items-center gap-2 font-bold text-xl text-gray-900"
+            className="flex items-center"
+            aria-label="HotelsWithPets"
             onClick={() => setMenuOpen(false)}
           >
-            <span>🐾</span>
-            <span>HotelsWithPets</span>
+            <PawLogo />
           </Link>
 
           {/* Desktop nav */}
-          <nav className="hidden md:flex items-center gap-8">
+          <nav className="hidden md:flex items-center gap-7">
 
             {/* Destinations dropdown */}
             <div className="relative" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>
               <button
-                className="flex items-center gap-1 text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors"
+                className="flex items-center gap-1 text-ink hover:text-electric text-sm font-medium transition-colors"
                 aria-expanded={dropdownOpen}
                 aria-haspopup="true"
               >
@@ -113,15 +115,15 @@ export default function Header({ locale, dict }: HeaderProps) {
               {/* Compact mega menu */}
               {dropdownOpen && (
                 <div
-                  className="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-[680px] max-w-[calc(100vw-2rem)] bg-white rounded-2xl shadow-2xl border border-gray-100 overflow-hidden"
+                  className="absolute top-full left-1/2 -translate-x-1/2 mt-3 w-[680px] max-w-[calc(100vw-2rem)] bg-white rounded-[22px] shadow-hard border-[1.6px] border-ink overflow-hidden"
                   onMouseEnter={handleMouseEnter}
                   onMouseLeave={handleMouseLeave}
                 >
                   <div className="flex max-h-[70vh]">
 
                     {/* Left: Popular destinations */}
-                    <div className="flex-1 p-5 border-r border-gray-100 overflow-y-auto">
-                      <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-3">
+                    <div className="flex-1 p-5 border-r-[1.6px] border-ink overflow-y-auto">
+                      <p className="eyebrow text-slate mb-3">
                         {locale === 'fr' ? 'Destinations populaires' : locale === 'es' ? 'Destinos populares' : locale === 'pt' ? 'Destinos populares' : locale === 'de' ? 'Beliebte Reiseziele' : locale === 'nl' ? 'Populaire bestemmingen' : locale === 'it' ? 'Destinazioni popolari' : 'Popular destinations'}
                       </p>
                       <div className="grid grid-cols-2 gap-1">
@@ -129,7 +131,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                           <Link
                             key={dest.slug}
                             href={`/${locale}/destinations/${dest.slug}`}
-                            className="flex items-center gap-2 px-3 py-2 rounded-xl hover:bg-blue-50 hover:text-blue-700 text-gray-700 transition-colors group"
+                            className="flex items-center gap-2 px-3 py-2 rounded-xl hover:bg-lavender-soft hover:text-electric text-ink transition-colors group"
                             onClick={() => setDropdownOpen(false)}
                           >
                             <span className="text-base">{dest.flag}</span>
@@ -139,13 +141,13 @@ export default function Header({ locale, dict }: HeaderProps) {
                       </div>
                       <Link
                         href={`/${locale}/destinations`}
-                        className="inline-flex items-center gap-1 mt-3 text-xs font-semibold text-blue-600 hover:text-blue-700 transition-colors"
+                        className="inline-flex items-center gap-1 mt-3 text-xs font-semibold text-electric hover:underline transition-colors"
                         onClick={() => setDropdownOpen(false)}
                       >
                         {locale === 'fr' ? `Voir les ${destinations.length} destinations →` : locale === 'es' ? `Ver ${destinations.length} destinos →` : locale === 'pt' ? `Ver os ${destinations.length} destinos →` : locale === 'de' ? `Alle ${destinations.length} Reiseziele →` : locale === 'nl' ? `Alle ${destinations.length} bestemmingen →` : locale === 'it' ? `Vedi tutte le ${destinations.length} destinazioni →` : `View all ${destinations.length} destinations →`}
                       </Link>
-                      <div className="mt-4 pt-4 border-t border-gray-100">
-                        <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-2">
+                      <div className="mt-4 pt-4 border-t border-line">
+                        <p className="eyebrow text-slate mb-2">
                           {locale === 'fr' ? 'Guides pratiques' : locale === 'es' ? 'Guías prácticas' : locale === 'pt' ? 'Guias práticos' : locale === 'de' ? 'Praktische Ratgeber' : locale === 'nl' ? 'Praktische gidsen' : locale === 'it' ? 'Guide pratiche' : 'Practical guides'}
                         </p>
                         {[
@@ -158,7 +160,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                           <Link
                             key={g.slug}
                             href={`/${locale}/guides/${g.slug}`}
-                            className="flex items-center gap-2 px-3 py-2 rounded-xl hover:bg-amber-50 hover:text-amber-700 text-gray-600 transition-colors"
+                            className="flex items-center gap-2 px-3 py-2 rounded-xl hover:bg-lavender-soft hover:text-electric text-ink transition-colors"
                             onClick={() => setDropdownOpen(false)}
                           >
                             <span className="text-base">{g.emoji}</span>
@@ -171,8 +173,8 @@ export default function Header({ locale, dict }: HeaderProps) {
                     </div>
 
                     {/* Right: Browse by country */}
-                    <div className="w-52 p-5 bg-gray-50/60 overflow-y-auto">
-                      <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-3">
+                    <div className="w-52 p-5 bg-lavender-soft overflow-y-auto">
+                      <p className="eyebrow text-slate mb-3">
                         {locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : locale === 'pt' ? 'Por país' : locale === 'de' ? 'Nach Land' : locale === 'nl' ? 'Per land' : locale === 'it' ? 'Per paese' : 'By country'}
                       </p>
                       <ul className="space-y-0.5">
@@ -180,7 +182,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                           <li key={country}>
                             <Link
                               href={`/${locale}/countries/${slug}`}
-                              className="flex items-center gap-2 px-2 py-1.5 rounded-lg hover:bg-white hover:shadow-sm text-gray-600 hover:text-gray-900 transition-all text-sm"
+                              className="flex items-center gap-2 px-2 py-1.5 rounded-lg hover:bg-white text-ink hover:text-electric transition-all text-sm"
                               onClick={() => setDropdownOpen(false)}
                             >
                               <span className="text-sm">{flag}</span>
@@ -195,33 +197,33 @@ export default function Header({ locale, dict }: HeaderProps) {
               )}
             </div>
 
-            <Link href={`/${locale}/categories`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
+            <Link href={`/${locale}/categories`} className="text-ink hover:text-electric text-sm font-medium transition-colors">
               {dict.nav.categories}
             </Link>
-            <Link href={`/${locale}/countries`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
+            <Link href={`/${locale}/countries`} className="text-ink hover:text-electric text-sm font-medium transition-colors">
               {dict.nav.countries ?? 'Countries'}
             </Link>
-            <Link href={`/${locale}/guides`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
+            <Link href={`/${locale}/guides`} className="text-ink hover:text-electric text-sm font-medium transition-colors">
               {locale === 'fr' ? 'Guides' : locale === 'es' ? 'Guías' : locale === 'pt' ? 'Guias' : locale === 'de' ? 'Ratgeber' : locale === 'nl' ? 'Gidsen' : locale === 'it' ? 'Guide' : 'Guides'}
             </Link>
-            <Link href={`/${locale}/about`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
+            <Link href={`/${locale}/about`} className="text-ink hover:text-electric text-sm font-medium transition-colors">
               {dict.nav.about}
             </Link>
-            <Link href={`/${locale}/contact`} className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors">
+            <Link href={`/${locale}/contact`} className={buttonClasses('dark', 'md')}>
               {locale === 'fr' ? 'Contact' : locale === 'es' ? 'Contacto' : locale === 'pt' ? 'Contacto' : locale === 'de' ? 'Kontakt' : locale === 'nl' ? 'Contact' : locale === 'it' ? 'Contatti' : 'Contact'}
             </Link>
           </nav>
 
           <div className="flex items-center gap-3">
             {/* Locale switcher (desktop; mobile lives in the hamburger menu) */}
-            <div className="hidden md:flex items-center gap-1 text-sm">
+            <div className="hidden md:flex items-center gap-1 text-xs font-mono">
               {(Object.keys(localeLabels) as Locale[]).map((l, i) => (
                 <span key={l} className="flex items-center">
-                  {i > 0 && <span className="text-gray-300 mx-1">|</span>}
+                  {i > 0 && <span className="text-slate/50 mx-0.5" aria-hidden="true">/</span>}
                   <Link
                     href={getLocaleHref(l)}
-                    className={`px-1 py-0.5 rounded transition-colors ${
-                      l === locale ? 'font-bold text-gray-900' : 'text-gray-500 hover:text-gray-900'
+                    className={`px-1 py-0.5 rounded-full transition-colors ${
+                      l === locale ? 'font-bold text-white bg-ink rounded-full px-2' : 'text-slate hover:text-ink'
                     }`}
                   >
                     {localeLabels[l]}
@@ -232,14 +234,14 @@ export default function Header({ locale, dict }: HeaderProps) {
 
             {/* Hamburger, mobile only */}
             <button
-              className="md:hidden flex flex-col justify-center items-center w-8 h-8 gap-1.5"
+              className="md:hidden flex flex-col justify-center items-center w-11 h-11 gap-1.5 rounded-full border-[1.6px] border-ink bg-white"
               onClick={() => setMenuOpen((o) => !o)}
-              aria-label="Toggle menu"
+              aria-label={locale === 'fr' ? 'Ouvrir le menu' : locale === 'es' ? 'Abrir el menú' : locale === 'pt' ? 'Abrir o menu' : locale === 'de' ? 'Menü öffnen' : locale === 'nl' ? 'Menu openen' : locale === 'it' ? 'Apri il menu' : 'Open menu'}
               aria-expanded={menuOpen}
             >
-              <span className={`block h-0.5 w-5 bg-gray-700 transition-all duration-200 ${menuOpen ? 'rotate-45 translate-y-2' : ''}`} />
-              <span className={`block h-0.5 w-5 bg-gray-700 transition-all duration-200 ${menuOpen ? 'opacity-0' : ''}`} />
-              <span className={`block h-0.5 w-5 bg-gray-700 transition-all duration-200 ${menuOpen ? '-rotate-45 -translate-y-2' : ''}`} />
+              <span className={`block h-0.5 w-5 bg-ink transition-all duration-200 ${menuOpen ? 'rotate-45 translate-y-2' : ''}`} />
+              <span className={`block h-0.5 w-5 bg-ink transition-all duration-200 ${menuOpen ? 'opacity-0' : ''}`} />
+              <span className={`block h-0.5 w-5 bg-ink transition-all duration-200 ${menuOpen ? '-rotate-45 -translate-y-2' : ''}`} />
             </button>
           </div>
         </div>
@@ -247,17 +249,17 @@ export default function Header({ locale, dict }: HeaderProps) {
 
       {/* Mobile nav */}
       {menuOpen && (
-        <nav className="md:hidden border-t border-gray-100 bg-white py-2 px-4 shadow-lg">
+        <nav className="md:hidden border-t-[1.6px] border-ink bg-cream py-2 px-4">
           <ul className="space-y-1">
             <li>
               <button
-                className="w-full flex items-center justify-between py-3 px-2 text-gray-700 font-medium rounded-lg hover:bg-gray-50 transition-colors"
+                className="w-full flex items-center justify-between py-3 px-2 text-ink font-medium rounded-xl hover:bg-lavender-soft transition-colors"
                 onClick={() => setMobileDestOpen((o) => !o)}
                 aria-expanded={mobileDestOpen}
               >
                 <span>{dict.nav.destinations}</span>
                 <svg
-                  className={`w-4 h-4 text-gray-400 transition-transform duration-200 ${mobileDestOpen ? 'rotate-180' : ''}`}
+                  className={`w-4 h-4 text-slate transition-transform duration-200 ${mobileDestOpen ? 'rotate-180' : ''}`}
                   fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}
                 >
                   <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
@@ -267,7 +269,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                 <div className="pl-2 pb-2">
                   <Link
                     href={`/${locale}/destinations`}
-                    className="block py-2 px-3 text-sm font-semibold text-blue-600 hover:bg-blue-50 rounded-lg transition-colors mb-2"
+                    className="block py-2 px-3 text-sm font-semibold text-electric hover:bg-lavender-soft rounded-xl transition-colors mb-2"
                     onClick={() => setMenuOpen(false)}
                   >
                     {locale === 'fr' ? 'Toutes les destinations →' : locale === 'es' ? 'Todos los destinos →' : locale === 'pt' ? 'Todos os destinos →' : locale === 'de' ? 'Alle Reiseziele →' : locale === 'nl' ? 'Alle bestemmingen →' : locale === 'it' ? 'Tutte le destinazioni →' : 'All destinations →'}
@@ -277,7 +279,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                       <Link
                         key={dest.slug}
                         href={`/${locale}/destinations/${dest.slug}`}
-                        className="flex items-center gap-1.5 py-2 px-3 text-sm text-gray-700 hover:bg-gray-50 rounded-lg transition-colors"
+                        className="flex items-center gap-1.5 py-2 px-3 text-sm text-ink hover:bg-lavender-soft rounded-xl transition-colors"
                         onClick={() => setMenuOpen(false)}
                       >
                         <span>{dest.flag}</span>
@@ -298,7 +300,7 @@ export default function Header({ locale, dict }: HeaderProps) {
               <li key={href}>
                 <Link
                   href={href}
-                  className="block py-3 px-2 text-gray-700 font-medium rounded-lg hover:bg-gray-50 transition-colors"
+                  className="block py-3 px-2 text-ink font-medium rounded-xl hover:bg-lavender-soft transition-colors"
                   onClick={() => setMenuOpen(false)}
                 >
                   {label}
@@ -307,7 +309,7 @@ export default function Header({ locale, dict }: HeaderProps) {
             ))}
 
             {/* Language switcher (mobile) */}
-            <li className="mt-2 pt-3 border-t border-gray-100">
+            <li className="mt-2 pt-3 border-t border-line">
               <div className="flex flex-wrap gap-2 px-2">
                 {(Object.keys(localeLabels) as Locale[]).map((l) => (
                   <Link
@@ -315,10 +317,10 @@ export default function Header({ locale, dict }: HeaderProps) {
                     href={getLocaleHref(l)}
                     onClick={() => setMenuOpen(false)}
                     aria-current={l === locale ? 'true' : undefined}
-                    className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
+                    className={`px-3 py-2 rounded-full text-sm font-mono font-medium transition-colors ${
                       l === locale
-                        ? 'bg-blue-600 text-white'
-                        : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                        ? 'bg-ink text-white'
+                        : 'bg-white border border-ink text-ink hover:bg-lime'
                     }`}
                   >
                     {localeLabels[l]}

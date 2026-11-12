@@ -1,32 +1,166 @@
 @import "tailwindcss";
 
-/* Force light mode site-wide. We're a public SEO content site (not an app
-   with a theme toggle), and the entire UI is built with hardcoded light-mode
-   colors (text-gray-900, bg-white, etc.). Honoring prefers-color-scheme:dark
-   produced dark-text-on-dark-bg on FAQ / tips / section titles in iOS Safari
-   dark mode. `color-scheme: light` also stops auto-darkening of form
-   controls and the system-coloured page background. */
+/* ──────────────────────────────────────────────────────────────────────────
+   REDESIGN "On part ensemble" (branche feat/redesign).
+   Polices auto-hebergees (Fontshare: Clash Display + General Sans, Google: Space Mono)
+   dans public/fonts. Tokens exposes en variables CSS ET en theme Tailwind v4
+   (bg-ink, text-electric, border-line, shadow-hard, font-display...).
+   Site public sans toggle de theme: on force color-scheme: light (cf. lessons).
+   ────────────────────────────────────────────────────────────────────────── */
+
+@font-face {
+  font-family: 'Clash Display';
+  src: url('/fonts/clash-display-500.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Clash Display';
+  src: url('/fonts/clash-display-600.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Clash Display';
+  src: url('/fonts/clash-display-700.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'General Sans';
+  src: url('/fonts/general-sans-400.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'General Sans';
+  src: url('/fonts/general-sans-500.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'General Sans';
+  src: url('/fonts/general-sans-600.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Space Mono';
+  src: url('/fonts/space-mono-400.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Space Mono';
+  src: url('/fonts/space-mono-700.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   color-scheme: light;
-  --background: #ffffff;
-  --foreground: #171717;
+
+  --c-electric: #3024eb;
+  --c-ink: #151524;
+  --c-night: #0b0912;
+  --c-lime: #e0ff54;
+  --c-coral: #ff8e53;
+  --c-lavender: #dcdcff;
+  --c-lavender-soft: #ecebff;
+  --c-cream: #faf9f5;
+  --c-white: #ffffff;
+  --c-slate: #54546a;
+  --c-line: #e7e4dc;
+
+  --shadow-hard: 5px 5px 0 var(--c-ink);
+  --shadow-hard-sm: 3px 3px 0 var(--c-ink);
+  --border-ink: 1.6px solid var(--c-ink);
+
+  --background: var(--c-cream);
+  --foreground: var(--c-ink);
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+
+  --color-electric: #3024eb;
+  --color-ink: #151524;
+  --color-night: #0b0912;
+  --color-lime: #e0ff54;
+  --color-coral: #ff8e53;
+  --color-lavender: #dcdcff;
+  --color-lavender-soft: #ecebff;
+  --color-cream: #faf9f5;
+  --color-slate: #54546a;
+  --color-line: #e7e4dc;
+
+  --font-display: 'Clash Display', 'Arial Black', system-ui, sans-serif;
+  --font-sans: 'General Sans', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif;
+  --font-mono: 'Space Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
+
+  --shadow-hard: 5px 5px 0 #151524;
+  --shadow-hard-sm: 3px 3px 0 #151524;
+
+  --radius-card: 22px;
+  --radius-card-lg: 28px;
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer base {
+  html {
+    font-family: var(--font-sans);
+  }
+
+  body {
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    text-rendering: optimizeLegibility;
+  }
+
+  h1, h2, h3 {
+    font-family: var(--font-display);
+    letter-spacing: -0.01em;
+  }
+}
+
+/* Eyebrow / legende mono capitales */
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+/* Mot surligne en bleu dans les titres */
+.hl {
+  color: var(--c-electric);
 }
 
 :focus-visible {
-  outline: 2px solid #2563eb;
-  outline-offset: 2px;
-  border-radius: 2px;
+  outline: 3px solid var(--c-electric);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+::selection {
+  background: var(--c-lime);
+  color: var(--c-ink);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
 }

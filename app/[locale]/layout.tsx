@@ -1,5 +1,4 @@
 import type { Metadata, Viewport } from 'next'
-import { Inter } from 'next/font/google'
 import Script from 'next/script'
 import '../globals.css'
 import { getDictionary, hasLocale, locales } from './dictionaries'
@@ -7,8 +6,6 @@ import type { Locale } from './dictionaries'
 import Header from '@/components/layout/Header'
 import Footer from '@/components/layout/Footer'
 import { notFound } from 'next/navigation'
-
-const inter = Inter({ subsets: ['latin', 'latin-ext'], display: 'swap' })
 
 export const viewport: Viewport = {
   width: 'device-width',
@@ -90,7 +87,7 @@ export default async function LocaleLayout({
   const dict = await getDictionary(locale as Locale)
 
   return (
-    <html lang={locale} className={inter.className}>
+    <html lang={locale}>
       <head>
         <link rel="preconnect" href="https://www.booking.com" />
         <link rel="preconnect" href="https://www.stay22.com" />
@@ -98,7 +95,7 @@ export default async function LocaleLayout({
         {/* RSS auto-discovery, picked up by Bing, feed readers, AI crawlers */}
         <link rel="alternate" type="application/rss+xml" title="HotelsWithPets, latest destinations" href="https://www.hotelswithpets.com/rss.xml" />
       </head>
-      <body className="bg-white text-gray-900 antialiased">
+      <body className="bg-cream text-ink antialiased font-sans">
         <Header locale={locale as Locale} dict={dict} />
         <main>{children}</main>
         <Footer locale={locale as Locale} dict={dict} />

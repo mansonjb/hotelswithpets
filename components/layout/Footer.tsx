@@ -2,6 +2,7 @@ import Link from 'next/link'
 import type { Locale } from '@/app/[locale]/dictionaries'
 import { getLocalizedCountryName } from '@/lib/countries'
 import { getLocalizedCityName } from '@/lib/cityNames'
+import PawLogo from '@/components/ui/PawLogo'
 
 interface FooterProps {
   locale: Locale
@@ -23,34 +24,33 @@ interface FooterProps {
 export default function Footer({ locale, dict }: FooterProps) {
   const { footer } = dict
   return (
-    <footer className="bg-gray-900 text-gray-300">
+    <footer className="bg-night text-white/80 border-t-[1.6px] border-ink">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Brand */}
           <div className="md:col-span-1">
-            <Link href={`/${locale}`} className="flex items-center gap-2 font-bold text-xl text-white mb-3">
-              <span>🐾</span>
-              <span>HotelsWithPets</span>
+            <Link href={`/${locale}`} className="inline-block mb-4" aria-label="HotelsWithPets">
+              <PawLogo light />
             </Link>
-            <p className="text-sm text-gray-400 leading-relaxed">
+            <p className="text-sm text-white/70 leading-relaxed">
               {footer.disclosureText}
             </p>
           </div>
 
           {/* Explore */}
           <div>
-            <h3 className="text-white font-semibold mb-4">{footer.explore}</h3>
+            <h3 className="eyebrow text-lime mb-4">{footer.explore}</h3>
             <ul className="space-y-2 text-sm">
-              <li><Link href={`/${locale}/destinations`} className="hover:text-white transition-colors">{footer.destinations}</Link></li>
-              <li><Link href={`/${locale}/categories`} className="hover:text-white transition-colors">{footer.categories}</Link></li>
-              <li><Link href={`/${locale}/dog-parks`} className="hover:text-white transition-colors">{locale === 'fr' ? 'Parcs canins' : locale === 'es' ? 'Parques para perros' : locale === 'pt' ? 'Parques para cães' : locale === 'nl' ? 'Hondenparken' : locale === 'de' ? 'Hundeparks' : locale === 'it' ? 'Parchi per cani' : 'Dog parks'}</Link></li>
-              <li><Link href={`/${locale}/countries`} className="hover:text-white transition-colors">{locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : locale === 'pt' ? 'Por país' : locale === 'nl' ? 'Per land' : locale === 'de' ? 'Nach Land' : locale === 'it' ? 'Per paese' : 'By country'}</Link></li>
+              <li><Link href={`/${locale}/destinations`} className="hover:text-lime transition-colors">{footer.destinations}</Link></li>
+              <li><Link href={`/${locale}/categories`} className="hover:text-lime transition-colors">{footer.categories}</Link></li>
+              <li><Link href={`/${locale}/dog-parks`} className="hover:text-lime transition-colors">{locale === 'fr' ? 'Parcs canins' : locale === 'es' ? 'Parques para perros' : locale === 'pt' ? 'Parques para cães' : locale === 'nl' ? 'Hondenparken' : locale === 'de' ? 'Hundeparks' : locale === 'it' ? 'Parchi per cani' : 'Dog parks'}</Link></li>
+              <li><Link href={`/${locale}/countries`} className="hover:text-lime transition-colors">{locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : locale === 'pt' ? 'Por país' : locale === 'nl' ? 'Per land' : locale === 'de' ? 'Nach Land' : locale === 'it' ? 'Per paese' : 'By country'}</Link></li>
             </ul>
           </div>
 
           {/* Popular Destinations */}
           <div>
-            <h3 className="text-white font-semibold mb-4">
+            <h3 className="eyebrow text-lime mb-4">
               {locale === 'fr' ? 'Populaires' : locale === 'es' ? 'Populares' : locale === 'pt' ? 'Populares' : locale === 'nl' ? 'Populair' : locale === 'de' ? 'Beliebt' : locale === 'it' ? 'Popolari' : 'Popular'}
             </h3>
             <ul className="space-y-2 text-sm">
@@ -63,7 +63,7 @@ export default function Footer({ locale, dict }: FooterProps) {
                 { name: 'Rome', slug: 'rome' },
               ].map((city) => (
                 <li key={city.slug}>
-                  <Link href={`/${locale}/destinations/${city.slug}`} className="hover:text-white transition-colors">
+                  <Link href={`/${locale}/destinations/${city.slug}`} className="hover:text-lime transition-colors">
                     {getLocalizedCityName(city.slug, city.name, locale)}
                   </Link>
                 </li>
@@ -73,19 +73,19 @@ export default function Footer({ locale, dict }: FooterProps) {
 
           {/* Company */}
           <div>
-            <h3 className="text-white font-semibold mb-4">{footer.company}</h3>
+            <h3 className="eyebrow text-lime mb-4">{footer.company}</h3>
             <ul className="space-y-2 text-sm">
-              <li><Link href={`/${locale}/about`} className="hover:text-white transition-colors">{footer.about}</Link></li>
-              <li><Link href={`/${locale}/affiliate-disclosure`} className="hover:text-white transition-colors">{footer.disclosure}</Link></li>
-              <li><Link href={`/${locale}/privacy`} className="hover:text-white transition-colors">{footer.privacy ?? 'Privacy Policy'}</Link></li>
-              <li><Link href={`/${locale}/contact`} className="hover:text-white transition-colors">{locale === 'fr' ? 'Contact' : locale === 'es' ? 'Contacto' : locale === 'pt' ? 'Contacto' : locale === 'nl' ? 'Contact' : locale === 'de' ? 'Kontakt' : locale === 'it' ? 'Contatti' : 'Contact'}</Link></li>
+              <li><Link href={`/${locale}/about`} className="hover:text-lime transition-colors">{footer.about}</Link></li>
+              <li><Link href={`/${locale}/affiliate-disclosure`} className="hover:text-lime transition-colors">{footer.disclosure}</Link></li>
+              <li><Link href={`/${locale}/privacy`} className="hover:text-lime transition-colors">{footer.privacy ?? 'Privacy Policy'}</Link></li>
+              <li><Link href={`/${locale}/contact`} className="hover:text-lime transition-colors">{locale === 'fr' ? 'Contact' : locale === 'es' ? 'Contacto' : locale === 'pt' ? 'Contacto' : locale === 'nl' ? 'Contact' : locale === 'de' ? 'Kontakt' : locale === 'it' ? 'Contatti' : 'Contact'}</Link></li>
             </ul>
           </div>
         </div>
 
         {/* Country links */}
-        <div className="border-t border-gray-800 mt-10 pt-8">
-          <p className="text-xs text-gray-500 uppercase tracking-wide mb-3">
+        <div className="border-t border-white/15 mt-10 pt-8">
+          <p className="eyebrow text-lime mb-3">
             {locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : locale === 'pt' ? 'Por país' : locale === 'nl' ? 'Per land' : locale === 'de' ? 'Nach Land' : locale === 'it' ? 'Per paese' : 'By country'}
           </p>
           <div className="flex flex-wrap gap-x-4 gap-y-1">
@@ -110,7 +110,7 @@ export default function Footer({ locale, dict }: FooterProps) {
               <Link
                 key={c.slug}
                 href={`/${locale}/countries/${c.slug}`}
-                className="text-sm text-gray-500 hover:text-gray-300 transition-colors flex items-center gap-1"
+                className="text-sm text-white/70 hover:text-lime transition-colors flex items-center gap-1"
               >
                 <span>{c.flag}</span>
                 <span>{getLocalizedCountryName(c.name, locale)}</span>
@@ -120,8 +120,8 @@ export default function Footer({ locale, dict }: FooterProps) {
         </div>
 
         {/* Popular guides */}
-        <div className="border-t border-gray-800 mt-6 pt-6">
-          <p className="text-xs text-gray-500 uppercase tracking-wide mb-3">
+        <div className="border-t border-white/15 mt-6 pt-6">
+          <p className="eyebrow text-lime mb-3">
             {locale === 'fr' ? 'Guides populaires' : locale === 'es' ? 'Guías populares' : locale === 'pt' ? 'Guias populares' : locale === 'nl' ? 'Populaire gidsen' : locale === 'de' ? 'Beliebte Reiseführer' : locale === 'it' ? 'Guide popolari' : 'Popular guides'}
           </p>
           <div className="flex flex-wrap gap-x-5 gap-y-1">
@@ -142,7 +142,7 @@ export default function Footer({ locale, dict }: FooterProps) {
               <Link
                 key={g.href}
                 href={`/${locale}/${g.href}`}
-                className="text-sm text-gray-500 hover:text-gray-300 transition-colors"
+                className="text-sm text-white/70 hover:text-lime transition-colors"
               >
                 {locale === 'fr' ? g.fr : locale === 'es' ? g.es : locale === 'pt' ? g.pt : locale === 'de' ? g.de : locale === 'nl' ? g.nl : locale === 'it' ? g.it : g.en}
               </Link>
@@ -151,8 +151,8 @@ export default function Footer({ locale, dict }: FooterProps) {
         </div>
 
         {/* Sitewide contact call-out */}
-        <div className="border-t border-gray-800 mt-6 pt-6 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
-          <p className="text-sm text-gray-400">
+        <div className="border-t border-white/15 mt-6 pt-6 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+          <p className="text-sm text-white/70">
             {locale === 'fr' ? 'Une question, une correction ou un partenariat ?'
               : locale === 'es' ? '¿Una pregunta, una corrección o una colaboración?'
               : locale === 'pt' ? 'Uma questão, uma correção ou uma parceria?'
@@ -161,11 +161,11 @@ export default function Footer({ locale, dict }: FooterProps) {
               : locale === 'it' ? 'Una domanda, una correzione o una partnership?'
               : 'A question, a correction or a partnership?'}
           </p>
-          <Link href={`/${locale}/contact`} className="inline-flex items-center gap-1.5 text-sm font-semibold bg-white/10 hover:bg-white/20 border border-white/15 text-white px-4 py-2 rounded-lg transition-colors whitespace-nowrap">
+          <Link href={`/${locale}/contact`} className="inline-flex items-center gap-1.5 text-sm font-semibold bg-lime hover:bg-white border-[1.6px] border-lime hover:border-white text-ink px-5 py-2.5 rounded-full transition-colors whitespace-nowrap">
             {locale === 'fr' ? 'Nous contacter' : locale === 'es' ? 'Contáctanos' : locale === 'pt' ? 'Contacte-nos' : locale === 'de' ? 'Kontakt' : locale === 'nl' ? 'Contact' : locale === 'it' ? 'Contattaci' : 'Contact us'} →
           </Link>
         </div>
-        <div className="mt-6 text-sm text-gray-500">
+        <div className="mt-6 text-sm text-white/70">
           <span>{footer.copyright}</span>
         </div>
       </div>

@@ -7,6 +7,7 @@ import type { Locale } from '@/app/[locale]/dictionaries'
 import destinationsData from '@/data/destinations.json'
 import { getLocalizedCountryName } from '@/lib/countries'
 import { getLocalizedCityName } from '@/lib/cityNames'
+import { INSURANCE_SLUGS, isInsuranceSlug } from '@/lib/insuranceSlugs'
 
 interface Destination {
   slug: string
@@ -59,6 +60,11 @@ export default function Header({ locale, dict }: HeaderProps) {
   const getLocaleHref = (newLocale: Locale) => {
     const segments = pathname.split('/')
     segments[1] = newLocale
+    // The pet-insurance page has a localized slug per language, so map it
+    // across instead of producing a 404 (e.g. /fr/assurance-animaux -> /en/pet-insurance).
+    if (segments[2] && isInsuranceSlug(segments[2])) {
+      segments[2] = INSURANCE_SLUGS[newLocale]
+    }
     return segments.join('') === '' ? `/${newLocale}` : segments.join('/')
   }
 

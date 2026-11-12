@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { SITE_URL } from '@/lib/site'
+import { insuranceLanguages } from '@/lib/insuranceSlugs'
 import BrandLogo from '@/components/BrandLogo'
 import ContactCTA from '@/components/ContactCTA'
 
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     'Comparativa independiente de los mejores seguros para mascotas en España en 2026: responsabilidad civil obligatoria, salud, reembolsos, carencias y coberturas de 10 aseguradoras, y cómo elegir.',
   alternates: {
     canonical: `${SITE_URL}/es/${SLUG}`,
-    languages: { 'x-default': `${SITE_URL}/es/${SLUG}`, es: `${SITE_URL}/es/${SLUG}` },
+    languages: insuranceLanguages(),
   },
   robots: { index: true, follow: true },
   openGraph: {

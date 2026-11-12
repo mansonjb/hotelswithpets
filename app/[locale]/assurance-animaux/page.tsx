@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { SITE_URL } from '@/lib/site'
+import { insuranceLanguages } from '@/lib/insuranceSlugs'
 import BrandLogo from '@/components/BrandLogo'
 import ContactCTA from '@/components/ContactCTA'
 
@@ -19,10 +20,7 @@ export const metadata: Metadata = {
   description: `Comparatif indépendant des assurances santé chien et chat en France : tableau des garanties, taux de remboursement, délais de carence, prix, exclusions, guide pour choisir et FAQ. 10 assureurs analysés, mis à jour ${UPDATED}.`,
   alternates: {
     canonical: `${SITE_URL}/fr/${SLUG}`,
-    languages: {
-      'x-default': `${SITE_URL}/fr/${SLUG}`,
-      fr: `${SITE_URL}/fr/${SLUG}`,
-    },
+    languages: insuranceLanguages(),
   },
   openGraph: {
     title: 'Meilleures assurances pour animaux 2026 : comparatif chien & chat',

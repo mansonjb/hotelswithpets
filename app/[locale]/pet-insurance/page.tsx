@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { SITE_URL } from '@/lib/site'
+import { insuranceLanguages } from '@/lib/insuranceSlugs'
 import BrandLogo from '@/components/BrandLogo'
 import ContactCTA from '@/components/ContactCTA'
 
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
     'An independent comparison of the best US pet insurance companies in 2026: reimbursement rates, deductibles, waiting periods, what is covered and excluded for 10 leading insurers, plus how to choose.',
   alternates: {
     canonical: `${SITE_URL}/en/${SLUG}`,
-    languages: { 'x-default': `${SITE_URL}/en/${SLUG}`, en: `${SITE_URL}/en/${SLUG}` },
+    languages: insuranceLanguages(),
   },
   robots: { index: true, follow: true },
   openGraph: {

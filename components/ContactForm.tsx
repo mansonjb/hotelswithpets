@@ -107,22 +107,46 @@ export default function ContactForm({ locale, defaultType = 'autre' }: { locale:
     e.preventDefault()
     const form = e.currentTarget
     const data = Object.fromEntries(new FormData(form).entries())
+    // Honeypot: real users leave this empty. Silently accept bots.
+    if (data.website) {
+      setStatus('ok')
+      form.reset()
+      return
+    }
     if (!data.name || !data.email || !String(data.email).includes('@') || !data.message) {
       setStatus('fields')
       return
     }
+    // Web3Forms is submitted directly from the browser (free plan does not allow
+    // server-side calls). The access key is public by design.
+    const accessKey = process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY
+    if (!accessKey) {
+      setStatus('config')
+      return
+    }
     setStatus('sending')
     try {
-      const res = await fetch('/api/contact', {
+      const res = await fetch('https://api.web3forms.com/submit', {
         method: 'POST',
-        headers: { 'content-type': 'application/json' },
-        body: JSON.stringify({ ...data, locale }),
+        headers: { 'content-type': 'application/json', accept: 'application/json' },
+        body: JSON.stringify({
+          access_key: accessKey,
+          subject: `[Contact HWP] ${t.options[reqType]} - ${String(data.name)}`,
+          from_name: 'HotelsWithPets Contact',
+          replyto: String(data.email),
+          botcheck: '',
+          'Type de demande': t.options[reqType],
+          Nom: String(data.name),
+          Email: String(data.email),
+          Societe: String(data.company || '-'),
+          Langue: locale,
+          message: String(data.message),
+        }),
       })
-      if (res.ok) {
+      const json = (await res.json().catch(() => ({}))) as { success?: boolean }
+      if (res.ok && json.success) {
         setStatus('ok')
         form.reset()
-      } else if (res.status === 503) {
-        setStatus('config')
       } else {
         setStatus('error')
       }

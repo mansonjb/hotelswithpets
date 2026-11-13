@@ -8,6 +8,7 @@ import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { getLocalizedCountryName } from '@/lib/countries'
+import { toneFromGradient } from '@/lib/brandTone'
 
 export async function generateStaticParams() {
   return categories.map((c) => ({ slug: c.slug }))
@@ -132,9 +133,9 @@ export default async function CategoryPage({ params }: PageProps<'/[locale]/cate
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-cream">
       {/* Hero */}
-      <section className={`bg-gradient-to-br ${cat.gradient} text-white py-20 relative overflow-hidden`}>
+      <section className={` ${toneFromGradient(cat.gradient)} text-white py-20 relative overflow-hidden`}>
         <div className="absolute inset-0 bg-black/20" />
         <div className="absolute right-0 top-0 bottom-0 w-64 text-[16rem] opacity-5 flex items-center justify-center select-none">
           {cat.emoji}
@@ -148,7 +149,7 @@ export default async function CategoryPage({ params }: PageProps<'/[locale]/cate
           <div className="flex items-center gap-6">
             <span className="text-6xl lg:text-8xl filter drop-shadow-lg">{cat.emoji}</span>
             <div>
-              <h1 className="text-4xl lg:text-6xl font-extrabold mb-2">{catName}</h1>
+              <h1 className="text-4xl lg:text-6xl font-bold mb-2">{catName}</h1>
               <p className="text-white/80 text-lg">{cat.cityCount} {p.categories.destinations}</p>
               <p className="text-white/70 text-base mt-2 max-w-2xl">
                 {locale === 'fr' ? (catDescFr ?? cat.description) : locale === 'es' ? (catDescEs ?? cat.description) : cat.description}
@@ -161,7 +162,7 @@ export default async function CategoryPage({ params }: PageProps<'/[locale]/cate
       {/* Destinations */}
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-8">
+          <h2 className="text-2xl font-bold text-ink mb-8">
             {p.category.destinationsTitle}
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -169,7 +170,7 @@ export default async function CategoryPage({ params }: PageProps<'/[locale]/cate
               <Link
                 key={dest.slug}
                 href={`/${locale}/${dest.slug}/${slug}`}
-                className={`group relative overflow-hidden rounded-2xl bg-gradient-to-br ${destGradients[i % destGradients.length]} p-8 min-h-[180px] flex flex-col justify-between shadow-md hover:shadow-xl transition-all duration-200 hover:-translate-y-1`}
+                className={`group relative overflow-hidden rounded-[22px] ${toneFromGradient(destGradients[i % destGradients.length])} p-8 min-h-[180px] flex flex-col justify-between shadow-hard-sm hover:shadow-hard transition-all duration-200 hover:-translate-y-1`}
               >
                 <div className="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors" />
                 <div className="absolute top-4 right-5 text-5xl opacity-20 select-none">{dest.flag}</div>

@@ -312,14 +312,14 @@ export default async function CountriesPage({
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }} />
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-cream">
 
       {/* Hero */}
-      <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-20">
+      <section className="text-white py-20 bg-electric border-b-[1.6px] border-ink">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
-            <h1 className="text-4xl lg:text-5xl font-extrabold mb-4">{copy.hero}</h1>
-            <p className="text-blue-200 text-base leading-relaxed mb-6">{copy.intro}</p>
+            <h1 className="text-4xl lg:text-5xl font-bold mb-4">{copy.hero}</h1>
+            <p className="text-lavender text-base leading-relaxed mb-6">{copy.intro}</p>
             <div className="flex flex-wrap gap-3">
               <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">🗺️ {countries.length} {locale === 'fr' ? 'pays' : locale === 'es' ? 'países' : locale === 'pt' ? 'países' : 'countries'}</span>
               <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">🏨 {totalHotels} {locale === 'fr' ? 'hôtels vérifiés' : locale === 'es' ? 'hoteles verificados' : locale === 'pt' ? 'hotéis verificados' : 'verified hotels'}</span>
@@ -330,16 +330,16 @@ export default async function CountriesPage({
       </section>
 
       {/* Travel tip */}
-      <section className="bg-amber-50 border-b border-amber-100 py-5">
+      <section className="bg-lime/30 border-b border-line py-5">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-start justify-between gap-4 flex-wrap">
-            <p className="text-sm text-amber-800 flex items-start gap-2 flex-1">
+            <p className="text-sm text-ink flex items-start gap-2 flex-1">
               <span className="text-base flex-shrink-0">💡</span>
               <span><strong>{copy.tipTitle}:</strong> {copy.tip}</span>
             </p>
             <Link
               href={`/${locale}/guides/passeport-animal`}
-              className="flex-shrink-0 text-xs font-semibold text-amber-700 hover:text-amber-900 bg-amber-100 hover:bg-amber-200 border border-amber-200 px-3 py-1.5 rounded-full transition-colors whitespace-nowrap"
+              className="flex-shrink-0 text-xs font-semibold text-ink hover:text-ink bg-lime hover:bg-lime border border-line px-3 py-1.5 rounded-full transition-colors whitespace-nowrap"
             >
               {locale === 'fr' ? 'Guide complet →' : locale === 'es' ? 'Guía completa →' : locale === 'pt' ? 'Guia completo →' : 'Full guide →'}
             </Link>
@@ -354,8 +354,8 @@ export default async function CountriesPage({
           <section>
             <div className="flex items-center justify-between mb-5">
               <div>
-                <h2 className="text-xl font-extrabold text-gray-900">{copy.spotlightTitle}</h2>
-                <p className="text-sm text-gray-500 mt-0.5">{spotlight.reason[lang]}</p>
+                <h2 className="text-xl font-bold text-ink">{copy.spotlightTitle}</h2>
+                <p className="text-sm text-slate mt-0.5">{spotlight.reason[lang]}</p>
               </div>
               <span className="text-2xl">🌞</span>
             </div>
@@ -368,16 +368,16 @@ export default async function CountriesPage({
                   <Link
                     key={country.slug}
                     href={`/${locale}/countries/${country.slug}`}
-                    className="group bg-gradient-to-br from-sky-50 to-blue-50 border border-blue-100 rounded-2xl p-5 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all"
+                    className="group border-[1.6px] border-ink rounded-[22px] p-5 shadow-hard hover:-translate-y-0.5 transition-all bg-lavender-soft"
                   >
                     <div className="flex items-center gap-3 mb-2">
                       <span className="text-3xl">{country.flag}</span>
                       <div>
-                        <p className="font-bold text-gray-900 group-hover:text-blue-700 transition-colors">{getLocalizedCountryName(country.name, locale)}</p>
-                        <p className="text-xs text-gray-500">{cityLabel(country.destinations.length)} · {hotelLabel(hCount)}</p>
+                        <p className="font-bold text-ink group-hover:text-electric transition-colors">{getLocalizedCountryName(country.name, locale)}</p>
+                        <p className="text-xs text-slate">{cityLabel(country.destinations.length)} · {hotelLabel(hCount)}</p>
                       </div>
                     </div>
-                    {intro && <p className="text-xs text-gray-600 leading-relaxed">{intro}</p>}
+                    {intro && <p className="text-xs text-slate leading-relaxed">{intro}</p>}
                   </Link>
                 )
               })}
@@ -387,7 +387,7 @@ export default async function CountriesPage({
 
         {/* Featured countries */}
         <section>
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{copy.featuredTitle}</h2>
+          <h2 className="text-2xl font-bold text-ink mb-6">{copy.featuredTitle}</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
             {featuredCountries.map((country) => {
               if (!country) return null
@@ -397,25 +397,25 @@ export default async function CountriesPage({
                 <Link
                   key={country.slug}
                   href={`/${locale}/countries/${country.slug}`}
-                  className="group bg-white rounded-2xl border border-gray-100 p-6 shadow-sm hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200"
+                  className="group bg-white rounded-[22px] border-[1.6px] border-ink p-6 hover:shadow-hard hover:-translate-y-0.5 transition-all duration-200"
                 >
                   <div className="flex items-center gap-3 mb-3">
                     <span className="text-4xl">{country.flag}</span>
                     <div>
-                      <p className="font-bold text-gray-900 text-lg group-hover:text-blue-700 transition-colors">{getLocalizedCountryName(country.name, locale)}</p>
-                      <p className="text-xs text-gray-500">{cityLabel(country.destinations.length)} · {hotelLabel(hCount)}</p>
+                      <p className="font-bold text-ink text-lg group-hover:text-electric transition-colors">{getLocalizedCountryName(country.name, locale)}</p>
+                      <p className="text-xs text-slate">{cityLabel(country.destinations.length)} · {hotelLabel(hCount)}</p>
                     </div>
                   </div>
-                  {intro && <p className="text-sm text-gray-500 leading-relaxed mb-4">{intro}</p>}
+                  {intro && <p className="text-sm text-slate leading-relaxed mb-4">{intro}</p>}
                   <div className="flex flex-wrap gap-1.5 mb-4">
                     {country.destinations.slice(0, 4).map((d) => (
-                      <span key={d.slug} className="text-xs bg-gray-100 text-gray-600 px-2.5 py-1 rounded-full">{getLocalizedCityName(d.slug, d.name, locale)}</span>
+                      <span key={d.slug} className="text-xs bg-lavender-soft text-slate px-2.5 py-1 rounded-full">{getLocalizedCityName(d.slug, d.name, locale)}</span>
                     ))}
                     {country.destinations.length > 4 && (
-                      <span className="text-xs bg-gray-100 text-gray-500 px-2.5 py-1 rounded-full">+{country.destinations.length - 4}</span>
+                      <span className="text-xs bg-lavender-soft text-slate px-2.5 py-1 rounded-full">+{country.destinations.length - 4}</span>
                     )}
                   </div>
-                  <span className="text-sm font-semibold text-blue-600 flex items-center gap-1">
+                  <span className="text-sm font-semibold text-electric flex items-center gap-1">
                     {locale === 'fr' ? 'Voir les hôtels' : locale === 'es' ? 'Ver hoteles' : locale === 'pt' ? 'Ver hotéis' : 'View hotels'} →
                   </span>
                 </Link>
@@ -426,7 +426,7 @@ export default async function CountriesPage({
 
         {/* All other countries */}
         <section>
-          <h2 className="text-xl font-extrabold text-gray-900 mb-5">{copy.allTitle}</h2>
+          <h2 className="text-xl font-bold text-ink mb-5">{copy.allTitle}</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
             {otherCountries.map((country) => {
               const hCount = getHotelCount(country)
@@ -434,12 +434,12 @@ export default async function CountriesPage({
                 <Link
                   key={country.slug}
                   href={`/${locale}/countries/${country.slug}`}
-                  className="group bg-white rounded-xl border border-gray-100 p-4 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 flex items-center gap-3"
+                  className="group bg-white rounded-xl border border-line p-4 hover:-translate-y-0.5 transition-all duration-200 flex items-center gap-3"
                 >
                   <span className="text-3xl flex-shrink-0">{country.flag}</span>
                   <div className="min-w-0">
-                    <p className="font-semibold text-gray-900 group-hover:text-blue-700 transition-colors text-sm truncate">{getLocalizedCountryName(country.name, locale)}</p>
-                    <p className="text-xs text-gray-500">{cityLabel(country.destinations.length)} · {hotelLabel(hCount)}</p>
+                    <p className="font-semibold text-ink group-hover:text-electric transition-colors text-sm truncate">{getLocalizedCountryName(country.name, locale)}</p>
+                    <p className="text-xs text-slate">{cityLabel(country.destinations.length)} · {hotelLabel(hCount)}</p>
                   </div>
                 </Link>
               )

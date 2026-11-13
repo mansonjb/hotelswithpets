@@ -540,12 +540,12 @@ export default async function Page({
   }
 
   return (
-    <main className="min-h-screen bg-stone-50">
+    <main className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
 
-      <section className="relative overflow-hidden bg-gradient-to-br from-amber-700 via-orange-600 to-rose-500 text-white">
+      <section className="relative overflow-hidden text-white bg-electric">
         <div className="absolute inset-0 opacity-20 pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at 20% 30%, rgba(255,255,255,0.4), transparent 40%), radial-gradient(circle at 80% 70%, rgba(255,255,255,0.3), transparent 40%)' }} />
         <div className="relative z-10 max-w-4xl mx-auto px-4 py-16 sm:py-24">
           <div className="text-xs font-semibold uppercase tracking-widest text-amber-100 mb-3">🐾 {t.eyebrow}</div>
@@ -555,41 +555,41 @@ export default async function Page({
       </section>
 
       <section className="max-w-4xl mx-auto px-4 py-12">
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-8">{t.pickHeading}</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-8">{t.pickHeading}</h2>
         <div className="space-y-5">
           {PICKS.map((p, i) => (
-            <article key={p.slug} className="bg-white rounded-2xl border border-stone-200 overflow-hidden">
-              <header className="px-5 sm:px-7 py-4 bg-gradient-to-r from-amber-50 to-orange-50 border-b border-stone-200 flex flex-wrap items-baseline gap-x-4 gap-y-1">
-                <span className="text-2xl font-black text-amber-700">#{i + 1}</span>
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                  <Link href={`/${locale}${p.destPath}`} className="hover:text-amber-700">{p.name}</Link>
+            <article key={p.slug} className="bg-white rounded-[22px] border-[1.6px] border-line overflow-hidden">
+              <header className="px-5 sm:px-7 py-4 border-b border-line flex flex-wrap items-baseline gap-x-4 gap-y-1 bg-lavender-soft">
+                <span className="text-2xl font-bold text-ink">#{i + 1}</span>
+                <h3 className="text-xl sm:text-2xl font-bold text-ink">
+                  <Link href={`/${locale}${p.destPath}`} className="hover:text-ink">{p.name}</Link>
                 </h3>
-                <span className="text-sm text-stone-600">{p.country}</span>
-                <span className="ml-auto bg-amber-100 text-amber-800 text-xs font-bold px-3 py-1 rounded-full">
+                <span className="text-sm text-slate">{p.country}</span>
+                <span className="ml-auto bg-lime text-ink text-xs font-bold px-3 py-1 rounded-full">
                   {t.insteadOfLabel} {p.insteadOf}
                 </span>
-                <span className="bg-orange-100 text-orange-900 text-xs font-bold px-3 py-1 rounded-full">
+                <span className="bg-lime/30 text-ink text-xs font-bold px-3 py-1 rounded-full">
                   {t.summerLabel} {p.summerTemp}
                 </span>
               </header>
               <div className="px-5 sm:px-7 py-5 space-y-3">
                 <div>
-                  <div className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-1">{t.whyHere}</div>
-                  <p className="text-stone-800 leading-relaxed">{pickWhy(p)}</p>
+                  <div className="text-xs font-semibold uppercase tracking-wider text-slate mb-1">{t.whyHere}</div>
+                  <p className="text-ink leading-relaxed">{pickWhy(p)}</p>
                 </div>
                 <div>
-                  <div className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-1">{t.hotelLabel}</div>
-                  <p className="text-stone-700 text-sm leading-relaxed">{pickHotel(p)}</p>
+                  <div className="text-xs font-semibold uppercase tracking-wider text-slate mb-1">{t.hotelLabel}</div>
+                  <p className="text-ink text-sm leading-relaxed">{pickHotel(p)}</p>
                 </div>
                 <div className="flex flex-wrap gap-3 pt-1">
-                  <Link href={`/${locale}${p.destPath}`} className="text-sm font-semibold text-amber-700 hover:text-amber-900 hover:underline">
+                  <Link href={`/${locale}${p.destPath}`} className="text-sm font-semibold text-ink hover:text-ink hover:underline">
                     {t.seeDestCta}
                   </Link>
                   <a
                     href={buildAllezDestLink(p.name, p.country, `${CAMPAIGN_BASE}-${p.slug}`, 5)}
                     target="_blank"
                     rel="noopener sponsored"
-                    className="text-sm font-semibold text-stone-700 hover:text-amber-700 hover:underline"
+                    className="text-sm font-semibold text-ink hover:text-ink hover:underline"
                   >
                     {t.hotelCta}
                   </a>
@@ -601,27 +601,27 @@ export default async function Page({
       </section>
 
       <section className="max-w-4xl mx-auto px-4 pb-12">
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-6">🗺️ {t.practicalHeading}</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-6">🗺️ {t.practicalHeading}</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           {t.practical.map((p, i) => (
-            <div key={i} className="bg-white rounded-xl p-5 border border-stone-200">
-              <h3 className="font-bold text-stone-900 mb-2">{p.h}</h3>
-              <p className="text-sm text-stone-700 leading-relaxed">{p.p}</p>
+            <div key={i} className="bg-white rounded-xl p-5 border border-line">
+              <h3 className="font-bold text-ink mb-2">{p.h}</h3>
+              <p className="text-sm text-ink leading-relaxed">{p.p}</p>
             </div>
           ))}
         </div>
       </section>
 
       <section className="max-w-4xl mx-auto px-4 pb-16">
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-6">❓ {t.faqHeading}</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-6">❓ {t.faqHeading}</h2>
         <div className="space-y-4">
           {t.faqs.map((f, i) => (
-            <details key={i} className="bg-white border border-stone-200 rounded-2xl group">
-              <summary className="cursor-pointer p-5 font-semibold text-stone-900 list-none flex items-center justify-between">
+            <details key={i} className="bg-white border-[1.6px] border-line rounded-[22px] group">
+              <summary className="cursor-pointer p-5 font-semibold text-ink list-none flex items-center justify-between">
                 <span>{f.q}</span>
-                <span className="text-stone-400 group-open:rotate-180 transition-transform">▾</span>
+                <span className="text-slate group-open:rotate-180 transition-transform">▾</span>
               </summary>
-              <div className="px-5 pb-5 text-sm text-stone-700 leading-relaxed">{f.a}</div>
+              <div className="px-5 pb-5 text-sm text-ink leading-relaxed">{f.a}</div>
             </details>
           ))}
         </div>

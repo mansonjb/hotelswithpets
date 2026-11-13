@@ -15,7 +15,7 @@ interface Props {
 /**
  * Product image URLs we try in order:
  *   1. Explicit `imageUrl` from the registry (SiteStripe HD), if set.
- *   2. Amazon Associates image widget — official endpoint that works for
+ *   2. Amazon Associates image widget - official endpoint that works for
  *      any active ASIN regardless of category. This is what SiteStripe
  *      generates under the hood.
  *   3. Legacy `m.media-amazon.com/images/P/{ASIN}.jpg` pattern (~50–90%
@@ -45,17 +45,17 @@ export default function AmazonProductCard({ product, campaign, rank }: Props) {
       href={href}
       target="_blank"
       rel="noopener noreferrer sponsored nofollow"
-      className="block bg-white rounded-2xl border border-stone-200 hover:border-amber-400 hover:shadow-lg transition-all p-5 group"
+      className="block bg-white rounded-[22px] border-[1.6px] border-line hover:border-line hover:shadow-hard transition-all p-5 group"
     >
       <div className="flex items-start gap-4">
         {rank !== undefined && (
-          <span className="flex-shrink-0 w-9 h-9 bg-amber-100 text-amber-900 rounded-full font-bold flex items-center justify-center text-sm">
+          <span className="flex-shrink-0 w-9 h-9 bg-lime text-ink rounded-full font-bold flex items-center justify-center text-sm">
             {rank}
           </span>
         )}
 
         {/* Product image (with multi-step fallback) */}
-        <div className="flex-shrink-0 w-24 h-24 sm:w-28 sm:h-28 bg-stone-50 rounded-xl border border-stone-100 flex items-center justify-center overflow-hidden">
+        <div className="flex-shrink-0 w-24 h-24 sm:w-28 sm:h-28 bg-cream rounded-xl border border-line flex items-center justify-center overflow-hidden">
           {imgSrc ? (
             // eslint-disable-next-line @next/next/no-img-element
             <img
@@ -73,18 +73,18 @@ export default function AmazonProductCard({ product, campaign, rank }: Props) {
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2 mb-1">
             {product.featured && (
-              <span className="text-xs font-bold uppercase tracking-wider text-amber-700 bg-amber-100 px-2 py-0.5 rounded">
+              <span className="text-xs font-bold uppercase tracking-wider text-ink bg-lime px-2 py-0.5 rounded">
                 Notre choix
               </span>
             )}
           </div>
-          <h3 className="font-bold text-stone-900 leading-tight mb-2">{product.name}</h3>
-          <p className="text-sm text-stone-700 leading-relaxed mb-3">{product.desc}</p>
+          <h3 className="font-bold text-ink leading-tight mb-2">{product.name}</h3>
+          <p className="text-sm text-ink leading-relaxed mb-3">{product.desc}</p>
           <div className="flex items-center justify-between gap-3">
             {product.priceHint && (
-              <span className="text-sm font-semibold text-stone-600">{product.priceHint}</span>
+              <span className="text-sm font-semibold text-slate">{product.priceHint}</span>
             )}
-            <span className="text-sm font-bold text-amber-700 group-hover:text-amber-900">
+            <span className="text-sm font-bold text-ink group-hover:text-ink">
               Voir sur Amazon →
             </span>
           </div>

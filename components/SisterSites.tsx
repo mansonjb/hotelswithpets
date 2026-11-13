@@ -24,16 +24,16 @@ const SITE_CONFIG = {
   },
   BestSnowHotels: {
     label: 'BestSnowHotels',
-    badgeBg: 'bg-blue-100',
-    badgeText: 'text-blue-700',
-    borderColor: 'border-blue-200',
-    dotColor: 'bg-blue-500',
+    badgeBg: 'bg-lavender',
+    badgeText: 'text-electric',
+    borderColor: 'border-line',
+    dotColor: 'bg-electric',
   },
   MyHoneymoonHotel: {
     label: 'MyHoneymoonHotel',
     badgeBg: 'bg-pink-100',
-    badgeText: 'text-pink-700',
-    borderColor: 'border-pink-200',
+    badgeText: 'text-ink',
+    borderColor: 'border-line',
     dotColor: 'bg-pink-500',
   },
   ExploreIleDeRe: {
@@ -41,21 +41,21 @@ const SITE_CONFIG = {
     badgeBg: 'bg-teal-100',
     badgeText: 'text-teal-700',
     borderColor: 'border-teal-200',
-    dotColor: 'bg-teal-500',
+    dotColor: 'bg-electric',
   },
   PerfectCityBreak: {
     label: 'Perfect City Break',
     badgeBg: 'bg-indigo-100',
     badgeText: 'text-indigo-700',
     borderColor: 'border-indigo-200',
-    dotColor: 'bg-indigo-500',
+    dotColor: 'bg-electric',
   },
   StaysInSwitzerland: {
     label: 'Stays in Switzerland',
     badgeBg: 'bg-emerald-100',
-    badgeText: 'text-emerald-700',
-    borderColor: 'border-emerald-200',
-    dotColor: 'bg-emerald-500',
+    badgeText: 'text-ink',
+    borderColor: 'border-line',
+    dotColor: 'bg-electric',
   },
 } as const
 
@@ -72,9 +72,9 @@ export default function SisterSites({ slug, locale }: SisterSitesProps) {
   const loc = (['en', 'fr', 'es'].includes(locale) ? locale : 'en') as Locale
 
   return (
-    <section className="py-10 border-t border-gray-100">
+    <section className="py-10 border-t border-line">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-5">
+        <h2 className="text-sm font-semibold text-slate uppercase tracking-wide mb-5">
           {SECTION_TITLE[loc]}
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -86,7 +86,7 @@ export default function SisterSites({ slug, locale }: SisterSitesProps) {
                 href={link.url}
                 target="_blank"
                 rel="noopener"
-                className={`flex items-start gap-3 bg-gray-50 border ${config.borderColor} rounded-xl p-4 hover:bg-white transition-colors group`}
+                className={`flex items-start gap-3 bg-cream border ${config.borderColor} rounded-xl p-4 hover:bg-white transition-colors group`}
               >
                 <div className={`flex-shrink-0 mt-0.5 w-2 h-2 rounded-full ${config.dotColor} mt-2`} />
                 <div className="flex-1 min-w-0">
@@ -95,15 +95,15 @@ export default function SisterSites({ slug, locale }: SisterSitesProps) {
                       {config.label}
                     </span>
                   </div>
-                  <p className="text-sm font-medium text-gray-800 group-hover:text-gray-900 leading-snug mb-1">
+                  <p className="text-sm font-medium text-ink group-hover:text-ink leading-snug mb-1">
                     {link.anchor[loc]}
                   </p>
-                  <p className="text-xs text-gray-500 leading-relaxed">
+                  <p className="text-xs text-slate leading-relaxed">
                     {link.description[loc]}
                   </p>
                 </div>
                 <svg
-                  className="flex-shrink-0 w-4 h-4 text-gray-400 group-hover:text-gray-600 mt-1"
+                  className="flex-shrink-0 w-4 h-4 text-slate group-hover:text-slate mt-1"
                   fill="none"
                   viewBox="0 0 24 24"
                   stroke="currentColor"

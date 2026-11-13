@@ -452,13 +452,13 @@ export default async function Page({
   }
 
   return (
-    <main className="min-h-screen bg-stone-50">
+    <main className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
 
       {/* Hero */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-rose-700 via-pink-600 to-amber-500 text-white">
+      <section className="relative overflow-hidden text-white bg-electric">
         <div className="absolute inset-0 opacity-20 pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at 20% 30%, rgba(255,255,255,0.4), transparent 40%), radial-gradient(circle at 80% 70%, rgba(255,255,255,0.3), transparent 40%)' }} />
         <div className="relative z-10 max-w-4xl mx-auto px-4 py-16 sm:py-24">
           <div className="text-xs font-semibold uppercase tracking-widest text-rose-100 mb-3">💍 {t.eyebrow}</div>
@@ -469,32 +469,32 @@ export default async function Page({
 
       {/* Picks */}
       <section className="max-w-4xl mx-auto px-4 py-12">
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-8">{t.pickHeading}</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-8">{t.pickHeading}</h2>
         <div className="space-y-6">
           {PICKS.map((p, i) => (
-            <article key={p.slug} className="bg-white rounded-2xl border border-stone-200 overflow-hidden">
-              <header className="px-5 sm:px-7 py-4 bg-gradient-to-r from-rose-50 to-amber-50 border-b border-stone-200 flex flex-wrap items-baseline gap-x-4 gap-y-1">
-                <span className="text-2xl font-black text-rose-700">#{i + 1}</span>
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                  <Link href={`/${locale}${p.destPath}`} className="hover:text-rose-700">
+            <article key={p.slug} className="bg-white rounded-[22px] border-[1.6px] border-line overflow-hidden">
+              <header className="px-5 sm:px-7 py-4 border-b border-line flex flex-wrap items-baseline gap-x-4 gap-y-1 bg-lavender-soft">
+                <span className="text-2xl font-bold text-ink">#{i + 1}</span>
+                <h3 className="text-xl sm:text-2xl font-bold text-ink">
+                  <Link href={`/${locale}${p.destPath}`} className="hover:text-ink">
                     {p.name}
                   </Link>
                 </h3>
-                <span className="text-sm text-stone-600">{p.country}</span>
+                <span className="text-sm text-slate">{p.country}</span>
               </header>
               <div className="px-5 sm:px-7 py-5 space-y-4">
                 <div>
-                  <div className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-1">{t.whyHere}</div>
-                  <p className="text-stone-800 leading-relaxed">{pickWhy(p)}</p>
+                  <div className="text-xs font-semibold uppercase tracking-wider text-slate mb-1">{t.whyHere}</div>
+                  <p className="text-ink leading-relaxed">{pickWhy(p)}</p>
                 </div>
                 <div>
-                  <div className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-1">{t.hotelLabel}</div>
-                  <p className="text-stone-700 text-sm leading-relaxed">{pickHotel(p)}</p>
+                  <div className="text-xs font-semibold uppercase tracking-wider text-slate mb-1">{t.hotelLabel}</div>
+                  <p className="text-ink text-sm leading-relaxed">{pickHotel(p)}</p>
                 </div>
                 <div className="flex flex-wrap gap-3 pt-1">
                   <Link
                     href={`/${locale}${p.destPath}`}
-                    className="text-sm font-semibold text-rose-700 hover:text-rose-900 hover:underline"
+                    className="text-sm font-semibold text-ink hover:text-ink hover:underline"
                   >
                     {t.seeDestCta}
                   </Link>
@@ -502,7 +502,7 @@ export default async function Page({
                     href={buildAllezDestLink(p.name, p.country, `${CAMPAIGN_BASE}-${p.slug}`, 5)}
                     target="_blank"
                     rel="noopener sponsored"
-                    className="text-sm font-semibold text-stone-700 hover:text-rose-700 hover:underline"
+                    className="text-sm font-semibold text-ink hover:text-ink hover:underline"
                   >
                     {t.hotelCta}
                   </a>
@@ -515,34 +515,34 @@ export default async function Page({
 
       {/* Sister-site contextual link */}
       <section className="max-w-4xl mx-auto px-4 pb-12">
-        <div className="bg-rose-50 border border-rose-200 rounded-2xl p-6 sm:p-8">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3">💌 {t.altHeading}</h2>
-          <p className="text-stone-800 leading-relaxed mb-3">{t.altIntro}</p>
+        <div className="bg-lavender-soft border-[1.6px] border-line rounded-[22px] p-6 sm:p-8">
+          <h2 className="text-xl sm:text-2xl font-bold text-ink mb-3">💌 {t.altHeading}</h2>
+          <p className="text-ink leading-relaxed mb-3">{t.altIntro}</p>
           <p className="mb-3">
             <a
               href={SISTER_SITE.url}
               target="_blank"
               rel="noopener"
-              className="inline-block bg-rose-600 hover:bg-rose-700 text-white font-bold text-sm px-5 py-2.5 rounded-full transition-colors shadow-sm"
+              className="inline-block bg-rose-600 hover:bg-rose-700 text-white font-bold text-sm px-5 py-2.5 rounded-full transition-colors "
             >
               {t.altLink}
             </a>
           </p>
-          <p className="text-stone-700 text-sm leading-relaxed">{t.altOutro}</p>
+          <p className="text-ink text-sm leading-relaxed">{t.altOutro}</p>
         </div>
       </section>
 
       {/* FAQ */}
       <section className="max-w-4xl mx-auto px-4 pb-16">
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-6">❓ {t.faqHeading}</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-6">❓ {t.faqHeading}</h2>
         <div className="space-y-4">
           {t.faqs.map((f, i) => (
-            <details key={i} className="bg-white border border-stone-200 rounded-2xl group">
-              <summary className="cursor-pointer p-5 font-semibold text-stone-900 list-none flex items-center justify-between">
+            <details key={i} className="bg-white border-[1.6px] border-line rounded-[22px] group">
+              <summary className="cursor-pointer p-5 font-semibold text-ink list-none flex items-center justify-between">
                 <span>{f.q}</span>
-                <span className="text-stone-400 group-open:rotate-180 transition-transform">▾</span>
+                <span className="text-slate group-open:rotate-180 transition-transform">▾</span>
               </summary>
-              <div className="px-5 pb-5 text-sm text-stone-700 leading-relaxed">{f.a}</div>
+              <div className="px-5 pb-5 text-sm text-ink leading-relaxed">{f.a}</div>
             </details>
           ))}
         </div>

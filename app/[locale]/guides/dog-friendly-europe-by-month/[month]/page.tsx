@@ -478,19 +478,19 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   }
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       {/* Hero */}
-      <section className="relative bg-gradient-to-br from-amber-700 via-orange-600 to-rose-700 text-white py-24">
+      <section className="relative text-white py-24 bg-electric">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_30%,rgba(255,255,255,0.1),transparent_60%)]" />
         <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <span className="inline-block bg-white/10 border border-white/20 text-white/80 text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-6">
             🗓️ {c.kicker(mn, year)}
           </span>
-          <h1 className="text-3xl lg:text-5xl font-extrabold mb-6 leading-tight">{c.h1(mn)}</h1>
+          <h1 className="text-3xl lg:text-5xl font-bold mb-6 leading-tight">{c.h1(mn)}</h1>
           <p className="text-orange-50 text-lg lg:text-xl leading-relaxed max-w-2xl mx-auto">{c.lede(mn)}</p>
         </div>
       </section>
@@ -498,19 +498,19 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* Month-level seasonal overview */}
       {season && (
         <section className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-10">
-          <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6 sm:p-8">
-            <div className="space-y-4 text-gray-700 leading-relaxed">
+          <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6 sm:p-8">
+            <div className="space-y-4 text-slate leading-relaxed">
               {season.intro.split('\n\n').map((p, i) => (
-                <p key={i} className={i === 0 ? 'text-lg text-gray-800' : ''}>{p}</p>
+                <p key={i} className={i === 0 ? 'text-lg text-ink' : ''}>{p}</p>
               ))}
             </div>
             {Array.isArray(season.inSeason) && season.inSeason.length > 0 && (
               <div className="mt-6">
-                <p className="text-xs font-bold uppercase tracking-widest text-orange-700 mb-3">{sl.inSeason}</p>
+                <p className="text-xs font-bold uppercase tracking-widest text-ink mb-3">{sl.inSeason}</p>
                 <ul className="grid sm:grid-cols-2 gap-2">
                   {season.inSeason.map((it, i) => (
-                    <li key={i} className="flex items-start gap-2 text-sm text-gray-700">
-                      <span className="text-orange-500 mt-0.5">✓</span>
+                    <li key={i} className="flex items-start gap-2 text-sm text-slate">
+                      <span className="text-ink mt-0.5">✓</span>
                       <span>{it}</span>
                     </li>
                   ))}
@@ -518,9 +518,9 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               </div>
             )}
             {season.headsUp && (
-              <div className="mt-6 flex items-start gap-3 rounded-xl bg-amber-50 border border-amber-100 p-4">
+              <div className="mt-6 flex items-start gap-3 rounded-xl bg-lime/30 border border-line p-4">
                 <span className="text-lg">⚠️</span>
-                <p className="text-sm text-amber-900"><span className="font-semibold">{sl.headsUp}: </span>{season.headsUp}</p>
+                <p className="text-sm text-ink"><span className="font-semibold">{sl.headsUp}: </span>{season.headsUp}</p>
               </div>
             )}
           </div>
@@ -528,9 +528,9 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       )}
 
       {/* Month picker (top, right under hero) */}
-      <section className="py-6 bg-white border-b border-gray-100 sticky top-0 z-20 shadow-sm">
+      <section className="py-6 bg-white border-b border-line sticky top-0 z-20 ">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <p className="text-xs font-bold uppercase tracking-widest text-gray-500 mb-3 text-center">{c.monthsTitle}</p>
+          <p className="text-xs font-bold uppercase tracking-widest text-slate mb-3 text-center">{c.monthsTitle}</p>
           <div className="flex flex-wrap justify-center gap-2">
             {MONTHS.map((mm) => {
               const active = mm === m
@@ -539,7 +539,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                 <Link
                   key={mm}
                   href={`/${locale}/guides/dog-friendly-europe-by-month/${mm}`}
-                  className={`px-3.5 py-1.5 rounded-full text-sm font-semibold transition-colors ${active ? 'bg-orange-700 text-white' : 'bg-gray-50 text-gray-700 border border-gray-200 hover:border-orange-300 hover:text-orange-700'}`}
+                  className={`px-3.5 py-1.5 rounded-full text-sm font-semibold transition-colors ${active ? 'bg-coral text-white' : 'bg-cream text-slate border border-line hover:border-line hover:text-ink'}`}
                 >
                   {label.charAt(0).toUpperCase() + label.slice(1)}
                 </Link>
@@ -550,50 +550,50 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       {/* Picks */}
-      <section className="py-16 bg-gray-50">
+      <section className="py-16 bg-cream">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-10 text-center">{c.rankingTitle(mn, picks.length)}</h2>
+          <h2 className="text-3xl lg:text-4xl font-bold text-ink mb-10 text-center">{c.rankingTitle(mn, picks.length)}</h2>
           <div className="space-y-6">
             {picks.map((p, i) => {
               const localName = getLocalizedCityName(p.dest.slug, p.dest.name, locale)
               const localCountry = getLocalizedCountryName(p.dest.country, locale)
               return (
-                <article key={p.dest.slug} className="bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden hover:shadow-md transition-shadow">
+                <article key={p.dest.slug} className="bg-white rounded-[22px] shadow-hard border-[1.6px] border-ink overflow-hidden transition-shadow">
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
-                    <div className="relative h-48 md:h-auto md:col-span-1 bg-gray-100">
+                    <div className="relative h-48 md:h-auto md:col-span-1 bg-lavender-soft">
                       {p.dest.heroImage && (
                         <Image src={p.dest.heroImage} alt={`${localName} pet-friendly travel`} fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover" />
                       )}
-                      <div className="absolute top-3 left-3 bg-white/95 backdrop-blur-sm rounded-full w-12 h-12 flex items-center justify-center shadow-md">
-                        <span className="text-xl font-extrabold text-orange-700">#{i + 1}</span>
+                      <div className="absolute top-3 left-3 bg-white/95 backdrop-blur-sm rounded-full w-12 h-12 flex items-center justify-center shadow-hard-sm">
+                        <span className="text-xl font-bold text-ink">#{i + 1}</span>
                       </div>
                     </div>
                     <div className="md:col-span-2 p-6 lg:p-8">
                       <div className="flex items-baseline justify-between gap-4 mb-2">
-                        <h3 className="text-2xl lg:text-3xl font-extrabold text-gray-900">
+                        <h3 className="text-2xl lg:text-3xl font-bold text-ink">
                           {p.dest.flag} {localName}
                         </h3>
-                        <span className="text-sm text-gray-500">{localCountry}</span>
+                        <span className="text-sm text-slate">{localCountry}</span>
                       </div>
-                      <p className="text-gray-700 leading-relaxed mb-5">{p.reason}</p>
+                      <p className="text-slate leading-relaxed mb-5">{p.reason}</p>
                       <NearbyHotelCard destinationSlug={p.dest.slug} locale={locale} variant="compact" />
                       <div className="flex flex-wrap items-center gap-3 text-sm mt-4">
-                        <span className="bg-amber-50 text-amber-800 px-3 py-1 rounded-full font-semibold">
+                        <span className="bg-lime/30 text-ink px-3 py-1 rounded-full font-semibold">
                           {p.weather.icon} {c.weatherLabel}: {p.weather.temp}°C
                         </span>
-                        <span className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full font-semibold">
+                        <span className="bg-lavender-soft text-electric px-3 py-1 rounded-full font-semibold">
                           {p.hotelCount} {c.hotelsLabel}
                         </span>
-                        <Link href={`/${locale}/destinations/${p.dest.slug}`} className="text-orange-700 hover:text-orange-900 font-semibold hover:underline">
+                        <Link href={`/${locale}/destinations/${p.dest.slug}`} className="text-ink hover:text-ink font-semibold hover:underline">
                           {c.guideLink}
                         </Link>
                       </div>
                     </div>
                   </div>
-                  <div className="px-6 lg:px-8 pt-2 pb-6 lg:pb-8 border-t border-gray-100 bg-gray-50">
+                  <div className="px-6 lg:px-8 pt-2 pb-6 lg:pb-8 border-t border-line bg-cream">
                     <div className="flex items-baseline justify-between gap-4 my-4">
-                      <h4 className="text-lg font-bold text-gray-900">📍 {c.mapLabel(localName)}</h4>
-                      <span className="text-xs text-gray-500 hidden sm:inline">{c.mapHint}</span>
+                      <h4 className="text-lg font-bold text-ink">📍 {c.mapLabel(localName)}</h4>
+                      <span className="text-xs text-slate hidden sm:inline">{c.mapHint}</span>
                     </div>
                     <Stay22Map lat={p.dest.lat} lng={p.dest.lng} destName={localName} height={360} locale={locale} />
                   </div>
@@ -607,9 +607,9 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* Methodology */}
       <article className="py-12 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-5">{c.methodologyTitle}</h2>
+          <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-5">{c.methodologyTitle}</h2>
           <div className="space-y-4">
-            {c.methodologyParas.map((p, i) => <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>)}
+            {c.methodologyParas.map((p, i) => <p key={i} className="text-slate leading-relaxed text-base lg:text-lg">{p}</p>)}
           </div>
         </div>
       </article>
@@ -622,16 +622,16 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
           .map(a => PRODUCTS.find(p => p.asin === a))
           .filter((p): p is NonNullable<typeof p> => Boolean(p))
         return (
-          <section className="py-14 bg-amber-50 border-y border-amber-200">
+          <section className="py-14 bg-lime/30 border-y border-line">
             <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="text-center mb-8">
-                <p className="text-sm font-bold uppercase tracking-widest text-amber-700 mb-2">
+                <p className="text-sm font-bold uppercase tracking-widest text-ink mb-2">
                   {isSummer ? '🔥 Kit anti-chaleur' : '🎒 Kit voyage'}
                 </p>
-                <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mb-2">
+                <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-2">
                   Les essentiels à emporter en {mn}
                 </h2>
-                <p className="text-stone-600 max-w-2xl mx-auto">
+                <p className="text-slate max-w-2xl mx-auto">
                   {isSummer
                     ? `En ${mn} la priorité c'est de gérer la chaleur : hydratation nomade, tapis rafraîchissant, gilet et bandana à mouiller. Notre sélection testée, liens directs Amazon.fr.`
                     : `Ce qu'on emporte vraiment pour voyager avec son chien en ${mn} : gourde nomade, harnais de sécurité voiture, gamelle pliante et trousse de secours. Liens directs Amazon.fr.`}
@@ -645,13 +645,13 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
               {/* Maillage vers les pages accessoires */}
               <div className="mt-8 flex flex-wrap justify-center gap-2 text-sm">
-                <Link href="/fr/accessoires-chien" className="bg-white border border-amber-300 text-amber-900 px-4 py-2 rounded-full hover:bg-amber-100 font-semibold">
+                <Link href="/fr/accessoires-chien" className="bg-white border border-line text-ink px-4 py-2 rounded-full hover:bg-amber-100 font-semibold">
                   Tous les accessoires chien →
                 </Link>
-                <Link href="/fr/accessoires-chien-chaleur" className="bg-white border border-amber-300 text-amber-900 px-4 py-2 rounded-full hover:bg-amber-100 font-semibold">
+                <Link href="/fr/accessoires-chien-chaleur" className="bg-white border border-line text-ink px-4 py-2 rounded-full hover:bg-amber-100 font-semibold">
                   Spécial canicule →
                 </Link>
-                <Link href="/fr/accessoires-chat" className="bg-white border border-stone-300 text-stone-700 px-4 py-2 rounded-full hover:bg-stone-100 font-semibold">
+                <Link href="/fr/accessoires-chat" className="bg-white border border-line text-ink px-4 py-2 rounded-full hover:bg-lime font-semibold">
                   Accessoires chat →
                 </Link>
               </div>
@@ -667,15 +667,15 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* FAQ */}
       <section className="py-16 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-extrabold text-gray-900 mb-8 text-center">❓ {c.faqTitle}</h2>
+          <h2 className="text-3xl font-bold text-ink mb-8 text-center">❓ {c.faqTitle}</h2>
           <div className="space-y-4">
             {c.faqs(mn).map((f, i) => (
-              <details key={i} className="bg-gray-50 border border-gray-200 rounded-2xl group">
-                <summary className="cursor-pointer p-5 font-semibold text-gray-900 list-none flex items-center justify-between">
+              <details key={i} className="bg-cream border-[1.6px] border-ink rounded-[22px] group">
+                <summary className="cursor-pointer p-5 font-semibold text-ink list-none flex items-center justify-between">
                   <span>{f.q}</span>
-                  <span className="text-gray-500 group-open:rotate-180 transition-transform">▾</span>
+                  <span className="text-slate group-open:rotate-180 transition-transform">▾</span>
                 </summary>
-                <div className="px-5 pb-5 text-sm text-gray-700 leading-relaxed">{f.a}</div>
+                <div className="px-5 pb-5 text-sm text-slate leading-relaxed">{f.a}</div>
               </details>
             ))}
           </div>
@@ -683,11 +683,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       {/* CTA */}
-      <section className="py-16 bg-gradient-to-br from-orange-600 to-rose-700 text-white">
+      <section className="py-16 text-white bg-electric">
         <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl font-extrabold mb-4">{c.ctaTitle}</h2>
+          <h2 className="text-3xl font-bold mb-4">{c.ctaTitle}</h2>
           <p className="text-orange-100 text-lg mb-8 leading-relaxed">{c.ctaDesc}</p>
-          <Link href={`/${locale}/destinations`} className="inline-block bg-white text-orange-700 font-bold px-8 py-4 rounded-full hover:bg-orange-50 transition-colors shadow-lg">
+          <Link href={`/${locale}/destinations`} className="inline-block bg-white text-ink font-bold px-8 py-4 rounded-full hover:bg-lime/30 transition-colors shadow-hard">
             {c.ctaButton}
           </Link>
         </div>

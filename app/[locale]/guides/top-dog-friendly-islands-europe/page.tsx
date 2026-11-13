@@ -754,37 +754,37 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   }
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       {/* Hero */}
-      <section className="relative bg-gradient-to-br from-cyan-900 via-blue-800 to-emerald-700 text-white py-24">
+      <section className="relative text-white py-24 bg-electric">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_30%,rgba(255,255,255,0.1),transparent_60%)]" />
         <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <span className="inline-block bg-white/10 border border-white/20 text-white/80 text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-6">
             🏝️ {c.hero.kicker}
           </span>
-          <h1 className="text-4xl lg:text-6xl font-extrabold mb-6 leading-tight">{c.hero.h1}</h1>
+          <h1 className="text-4xl lg:text-6xl font-bold mb-6 leading-tight">{c.hero.h1}</h1>
           <p className="text-blue-100 text-lg lg:text-xl leading-relaxed max-w-2xl mx-auto">{c.hero.lede}</p>
         </div>
       </section>
 
       {/* Ranking (directly under hero) */}
-      <section className="py-14 lg:py-16 bg-gray-50 border-y border-gray-100">
+      <section className="py-14 lg:py-16 bg-cream border-y border-line">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-3 text-center">{c.rankingTitle}</h2>
-          <p className="text-gray-600 text-center max-w-2xl mx-auto mb-10 leading-relaxed">{c.rankingSubtitle}</p>
+          <h2 className="text-3xl lg:text-4xl font-bold text-ink mb-3 text-center">{c.rankingTitle}</h2>
+          <p className="text-slate text-center max-w-2xl mx-auto mb-10 leading-relaxed">{c.rankingSubtitle}</p>
           <div className="space-y-6">
             {islands.map((isl) => {
               const localCountry = getLocalizedCountryName(isl.country, locale)
               const bookUrl = buildAllezDestLink(isl.islandName, isl.country, `top25islands-rank${isl.rank}`)
               const localCityName = isl.dest ? getLocalizedCityName(isl.dest.slug, isl.dest.name, locale) : isl.islandName
               return (
-                <article key={`${isl.rank}-${isl.islandName}`} className="bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden hover:shadow-md transition-shadow">
+                <article key={`${isl.rank}-${isl.islandName}`} className="bg-white rounded-[22px] shadow-hard border-[1.6px] border-ink overflow-hidden transition-shadow">
                   <div className="grid grid-cols-1 md:grid-cols-3 gap-0">
-                    <div className="relative h-48 md:h-auto md:col-span-1 bg-gray-100">
+                    <div className="relative h-48 md:h-auto md:col-span-1 bg-lavender-soft">
                       <Image
                         src={isl.dest?.heroImage || `/images/islands/${isl.photoSlug}.jpg`}
                         alt={`Pet-friendly hotels on ${isl.islandName}, dog-friendly travel ${localCountry}`}
@@ -792,25 +792,25 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                         sizes="(max-width: 768px) 100vw, 33vw"
                         className="object-cover"
                       />
-                      <div className="absolute top-3 left-3 bg-white/95 backdrop-blur-sm rounded-full w-12 h-12 flex items-center justify-center shadow-md">
-                        <span className="text-xl font-extrabold text-blue-700">#{isl.rank}</span>
+                      <div className="absolute top-3 left-3 bg-white/95 backdrop-blur-sm rounded-full w-12 h-12 flex items-center justify-center shadow-hard-sm">
+                        <span className="text-xl font-bold text-electric">#{isl.rank}</span>
                       </div>
                     </div>
                     <div className="md:col-span-2 p-6 lg:p-8">
                       <div className="flex items-baseline justify-between gap-4 mb-2 flex-wrap">
-                        <h3 className="text-2xl lg:text-3xl font-extrabold text-gray-900">
+                        <h3 className="text-2xl lg:text-3xl font-bold text-ink">
                           {isl.flag} {isl.islandName}
                         </h3>
-                        <span className="text-sm text-gray-500">{localCountry}</span>
+                        <span className="text-sm text-slate">{localCountry}</span>
                       </div>
-                      <p className="text-gray-700 leading-relaxed mb-5">{isl.reasonText}</p>
+                      <p className="text-slate leading-relaxed mb-5">{isl.reasonText}</p>
 
                       {/* Primary booking CTA, full-width orange→blue gradient */}
                       <a
                         href={bookUrl}
                         target="_blank"
                         rel="sponsored noopener noreferrer"
-                        className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-5 py-3 rounded-xl font-bold text-white text-sm shadow-md hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200 mb-3"
+                        className="inline-flex items-center justify-center gap-2 w-full sm:w-auto px-5 py-3 rounded-xl font-bold text-white text-sm shadow-hard-sm hover:shadow-hard hover:-translate-y-0.5 transition-all duration-200 mb-3"
                         style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)' }}
                       >
                         🐾 {c.bookHotelsInPrefix} {isl.islandName} →
@@ -824,22 +824,22 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                       {/* Secondary links row */}
                       <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm mt-3">
                         {isl.dest && (
-                          <span className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full font-semibold">
+                          <span className="bg-lavender-soft text-electric px-3 py-1 rounded-full font-semibold">
                             {isl.hotelCount} {c.hotelsLabel}
                           </span>
                         )}
                         {isl.dest && (
-                          <Link href={`/${locale}/destinations/${isl.dest.slug}`} className="text-blue-600 hover:text-blue-800 font-semibold hover:underline">
+                          <Link href={`/${locale}/destinations/${isl.dest.slug}`} className="text-electric hover:text-ink font-semibold hover:underline">
                             {c.guideLink}
                           </Link>
                         )}
                         {isl.dest && (
-                          <Link href={`/${locale}/${isl.dest.slug}/dog-friendly`} className="text-gray-500 hover:text-blue-600 hover:underline">
+                          <Link href={`/${locale}/${isl.dest.slug}/dog-friendly`} className="text-slate hover:text-electric hover:underline">
                             {c.bookOnBooking}
                           </Link>
                         )}
                         {!isl.dest && (
-                          <span className="text-xs text-gray-500 italic">{localCityName}</span>
+                          <span className="text-xs text-slate italic">{localCityName}</span>
                         )}
                       </div>
                     </div>
@@ -850,14 +850,14 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
           </div>
 
           {/* Bottom-of-ranking booking CTA */}
-          <div className="mt-12 bg-gradient-to-br from-orange-50 to-blue-50 rounded-3xl p-8 lg:p-10 text-center border border-orange-100">
-            <h3 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-3">{c.bottomBookCtaTitle}</h3>
-            <p className="text-gray-600 leading-relaxed max-w-2xl mx-auto mb-6">{c.bottomBookCtaDesc}</p>
+          <div className="mt-12 rounded-[28px] p-8 lg:p-10 text-center border-[1.6px] border-line bg-lavender-soft">
+            <h3 className="text-2xl lg:text-3xl font-bold text-ink mb-3">{c.bottomBookCtaTitle}</h3>
+            <p className="text-slate leading-relaxed max-w-2xl mx-auto mb-6">{c.bottomBookCtaDesc}</p>
             <a
               href={buildAllezDestLink('Europe', 'Europe', 'top25islands-bottom-cta')}
               target="_blank"
               rel="sponsored noopener noreferrer"
-              className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full font-bold text-white text-sm shadow-lg hover:shadow-xl hover:-translate-y-0.5 transition-all duration-200"
+              className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full font-bold text-white text-sm shadow-hard hover:shadow-hard hover:-translate-y-0.5 transition-all duration-200"
               style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)' }}
             >
               {c.bottomBookCtaButton}
@@ -869,16 +869,16 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* Live map, centered on Palma de Mallorca */}
       <section className="py-14 lg:py-16 bg-white">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-3 text-center">🗺️ {c.mapTitle}</h2>
-          <p className="text-gray-600 text-center max-w-2xl mx-auto mb-7 leading-relaxed">{c.mapDesc}</p>
+          <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-3 text-center">🗺️ {c.mapTitle}</h2>
+          <p className="text-slate text-center max-w-2xl mx-auto mb-7 leading-relaxed">{c.mapDesc}</p>
           <PetMap lat={39.5696} lng={2.6502} destName="Palma de Mallorca" locale={locale} height={500} />
         </div>
       </section>
 
       {/* Keyword chips, internal-link cluster targeting long-tail island queries */}
-      <section className="py-12 bg-gray-50 border-y border-gray-100">
+      <section className="py-12 bg-cream border-y border-line">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-xs font-bold text-gray-500 uppercase tracking-widest text-center mb-5">
+          <h2 className="text-xs font-bold text-slate uppercase tracking-widest text-center mb-5">
             {c.keywordChipsTitle}
           </h2>
           <div className="flex flex-wrap justify-center gap-2">
@@ -893,7 +893,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                 <Link
                   key={kw}
                   href={href}
-                  className="text-sm text-blue-700 hover:text-blue-900 hover:underline bg-white border border-gray-200 rounded-full px-4 py-1.5 transition-colors hover:border-blue-300"
+                  className="text-sm text-electric hover:text-blue-900 hover:underline bg-white border border-line rounded-full px-4 py-1.5 transition-colors hover:border-ink"
                 >
                   {kw}
                 </Link>
@@ -906,43 +906,43 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* Conclusion */}
       <article className="py-16 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-5">{c.conclusion.title}</h2>
+          <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-5">{c.conclusion.title}</h2>
           <div className="space-y-4">
-            {c.conclusion.paras.map((p, i) => <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>)}
+            {c.conclusion.paras.map((p, i) => <p key={i} className="text-slate leading-relaxed text-base lg:text-lg">{p}</p>)}
           </div>
         </div>
       </article>
 
       {/* Intro + Methodology (at the bottom, context for the curious) */}
-      <article className="py-14 bg-gray-50 border-t border-gray-100">
+      <article className="py-14 bg-cream border-t border-line">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
           <section>
-            <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-5">{c.intro.title}</h2>
+            <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-5">{c.intro.title}</h2>
             <div className="space-y-4">
-              {c.intro.paras.map((p, i) => <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>)}
+              {c.intro.paras.map((p, i) => <p key={i} className="text-slate leading-relaxed text-base lg:text-lg">{p}</p>)}
             </div>
           </section>
           <section>
-            <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-5">{c.methodology.title}</h2>
+            <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-5">{c.methodology.title}</h2>
             <div className="space-y-4">
-              {c.methodology.paras.map((p, i) => <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>)}
+              {c.methodology.paras.map((p, i) => <p key={i} className="text-slate leading-relaxed text-base lg:text-lg">{p}</p>)}
             </div>
           </section>
         </div>
       </article>
 
       {/* FAQ */}
-      <section className="py-16 bg-gray-50 border-y border-gray-100">
+      <section className="py-16 bg-cream border-y border-line">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-extrabold text-gray-900 mb-8 text-center">❓ {c.faqTitle}</h2>
+          <h2 className="text-3xl font-bold text-ink mb-8 text-center">❓ {c.faqTitle}</h2>
           <div className="space-y-4">
             {c.faqs.map((f, i) => (
-              <details key={i} className="bg-white border border-gray-200 rounded-2xl group">
-                <summary className="cursor-pointer p-5 font-semibold text-gray-900 list-none flex items-center justify-between">
+              <details key={i} className="bg-white border-[1.6px] border-ink rounded-[22px] group">
+                <summary className="cursor-pointer p-5 font-semibold text-ink list-none flex items-center justify-between">
                   <span>{f.q}</span>
-                  <span className="text-gray-500 group-open:rotate-180 transition-transform">▾</span>
+                  <span className="text-slate group-open:rotate-180 transition-transform">▾</span>
                 </summary>
-                <div className="px-5 pb-5 text-sm text-gray-700 leading-relaxed">{f.a}</div>
+                <div className="px-5 pb-5 text-sm text-slate leading-relaxed">{f.a}</div>
               </details>
             ))}
           </div>
@@ -950,11 +950,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       {/* CTA */}
-      <section className="py-16 bg-gradient-to-br from-blue-600 to-indigo-700 text-white">
+      <section className="py-16 text-white bg-electric">
         <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl font-extrabold mb-4">{c.ctaTitle}</h2>
+          <h2 className="text-3xl font-bold mb-4">{c.ctaTitle}</h2>
           <p className="text-blue-100 text-lg mb-8 leading-relaxed">{c.ctaDesc}</p>
-          <Link href={`/${locale}/destinations`} className="inline-block bg-white text-blue-700 font-bold px-8 py-4 rounded-full hover:bg-blue-50 transition-colors shadow-lg">
+          <Link href={`/${locale}/destinations`} className="inline-block bg-white text-electric font-bold px-8 py-4 rounded-full hover:bg-lavender-soft transition-colors shadow-hard">
             {c.ctaButton}
           </Link>
         </div>

@@ -40,8 +40,8 @@ export default async function Page({
   const catProducts = PRODUCTS.filter(p => p.petType === 'cat' || p.petType === 'both')
 
   return (
-    <main className="min-h-screen bg-stone-50">
-      <section className="bg-gradient-to-br from-violet-600 via-fuchsia-600 to-rose-600 text-white">
+    <main className="min-h-screen bg-cream">
+      <section className="text-white bg-electric">
         <div className="max-w-4xl mx-auto px-4 py-14 sm:py-20">
           <nav className="text-sm text-white/70 mb-6">
             <Link href="/fr" className="hover:text-white">Accueil</Link>
@@ -60,25 +60,25 @@ export default async function Page({
       </section>
 
       <div className="max-w-4xl mx-auto px-4 py-10 space-y-8">
-        <section className="bg-fuchsia-50 border border-fuchsia-200 rounded-2xl p-5">
-          <p className="text-sm text-stone-700 mb-3 font-semibold">👉 Aussi utile :</p>
+        <section className="bg-fuchsia-50 border-[1.6px] border-fuchsia-200 rounded-[22px] p-5">
+          <p className="text-sm text-ink mb-3 font-semibold">👉 Aussi utile :</p>
           <div className="flex flex-wrap gap-2 text-sm">
             <Link href="/fr/categories/cat-friendly" className="bg-white border border-fuchsia-300 text-fuchsia-900 px-3 py-1.5 rounded-full hover:bg-fuchsia-100">
               Hôtels qui acceptent les chats →
             </Link>
-            <Link href="/fr/guides/avion-animal" className="bg-white border border-stone-300 text-stone-700 px-3 py-1.5 rounded-full hover:bg-stone-100">
+            <Link href="/fr/guides/avion-animal" className="bg-white border border-line text-ink px-3 py-1.5 rounded-full hover:bg-lime">
               Prendre l&apos;avion avec son chat →
             </Link>
-            <Link href="/fr/guides/train-avec-chien" className="bg-white border border-stone-300 text-stone-700 px-3 py-1.5 rounded-full hover:bg-stone-100">
+            <Link href="/fr/guides/train-avec-chien" className="bg-white border border-line text-ink px-3 py-1.5 rounded-full hover:bg-lime">
               Voyager en train →
             </Link>
           </div>
         </section>
 
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Notre sélection</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Notre sélection</h2>
           {catProducts.length === 0 ? (
-            <p className="text-stone-600 italic">
+            <p className="text-slate italic">
               Sélection chat en cours de constitution - envoyez-moi les URLs Amazon des
               produits que vous utilisez et je les ajoute. Pour l&apos;instant la page
               affiche seulement les produits multi-espèces (gourde nomade, etc.).
@@ -92,9 +92,9 @@ export default async function Page({
           )}
         </section>
 
-        <section className="bg-white border border-stone-200 rounded-2xl p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Pourquoi cette page existe</h2>
-          <p className="text-sm text-stone-700 leading-relaxed">
+        <section className="bg-white border-[1.6px] border-line rounded-[22px] p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Pourquoi cette page existe</h2>
+          <p className="text-sm text-ink leading-relaxed">
             Les chats voyagent moins que les chiens, mais quand ils voyagent, le matériel
             compte plus encore : un sac homologué cabine pas conforme = refus d&apos;embarquement,
             une fontaine bruyante = chat stressé. On a sélectionné ce qu&apos;on

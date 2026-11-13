@@ -12,7 +12,19 @@ Un seul deploy final quand tout le site est refait et teste.
 - [x] Home: Hero, bandeaux planner/hiver, CategoryGrid, HowItWorks, TopHotels, DestinationsGrid, FeaturedCombos, PetTravelTips, HomeSeoContent, HomeFaq, PopularSearches (via script de remapping de classes + retouches)
 - [x] 7 pages assurance (pet-insurance, assurance-animaux, seguro-mascotas, seguro-animais, tierkrankenversicherung, dierenverzekering, assicurazione-animali)
 
-## Reste a faire
+## Fait (Phase 2-3, run automatique)
+- [x] Phase 2a: template ville (destinations/[slug]), fiche hotel (hotels/[slug]), HotelCard, HotelRankedCard, NearbyHotelCard, DestinationCard, TopHotelsStrip, StickyHotelCTA, RelatedDestinations (commit 9fbb99a)
+- [x] Phase 2b/3: [destination]/[category], destinations (liste + [guide]), categories (+[slug]), countries (+[slug]), about, contact, privacy, mentions-affiliees, affiliate-disclosure, not-found/error/loading, ContactCTA/ContactForm/SisterSites/AmazonProductCard, guides/** (sauf 1, voir plus bas), accessoires-*, dog-parks, dog-friendly-villas, hoteles-pet-friendly
+- [x] Outils: scripts/restyle-map.mjs (remap de classes), lib/brandTone.ts (degrades pilotes par la donnee -> aplats de palette)
+
+## Reste a faire (mis a jour)
+- [ ] guides/where-to-go-uk-school-holidays-2027/page.tsx: le script casse le JSX (apostrophes dans le texte), a restyler a la main
+- [ ] Passe visuelle fine (les pages ont ete remappees par script, pas retouchees une par une): images Stay22/carte a verifier en navigateur, contraste 4.5:1, mobile 375px, 7 locales
+- [ ] Remplacer les emojis-tuiles/fonds restants (classes dynamiques 'from-... to-...' restent comme donnees mortes dans quelques tableaux)
+- [ ] Composants non migres vers components/ui (HotelCard racine garde sa structure, juste restylee)
+- [ ] Anciennes cases ci-dessous partiellement obsoletes (voir Fait ci-dessus)
+
+## Reste a faire (ancien)
 ### Phase 2
 - [ ] Template ville/destination (app/[locale]/destinations/[slug] + [guide]) et pages [destination]/[category]
 - [ ] Fiche hotel (app/[locale]/hotels/...)

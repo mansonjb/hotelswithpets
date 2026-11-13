@@ -35,8 +35,8 @@ export default async function Page({
   if (locale !== 'fr') notFound()
 
   return (
-    <main className="min-h-screen bg-stone-50">
-      <section className="bg-stone-900 text-white">
+    <main className="min-h-screen bg-cream">
+      <section className="bg-electric border-b-[1.6px] border-ink text-white">
         <div className="max-w-3xl mx-auto px-4 py-12">
           <nav className="text-sm text-white/60 mb-5">
             <Link href="/fr" className="hover:text-white">Accueil</Link>
@@ -46,15 +46,15 @@ export default async function Page({
           <h1 className="text-3xl sm:text-4xl font-bold leading-tight">
             Mentions affiliées et transparence
           </h1>
-          <p className="text-stone-300 mt-3">
+          <p className="text-lavender mt-3">
             Comment on finance le site, et ce que ça change (ou pas) pour vous.
           </p>
         </div>
       </section>
 
-      <article className="max-w-3xl mx-auto px-4 py-10 space-y-8 text-stone-800 leading-relaxed">
-        <section className="bg-white border border-stone-200 rounded-2xl p-6 space-y-3">
-          <h2 className="text-xl font-bold text-stone-900">Programme Partenaires Amazon EU</h2>
+      <article className="max-w-3xl mx-auto px-4 py-10 space-y-8 text-ink leading-relaxed">
+        <section className="bg-white border-[1.6px] border-line rounded-[22px] p-6 space-y-3">
+          <h2 className="text-xl font-bold text-ink">Programme Partenaires Amazon EU</h2>
           <p>
             HotelsWithPets.com participe au Programme Partenaires d&apos;Amazon EU,
             un programme d&apos;affiliation conçu pour permettre à des sites de
@@ -63,22 +63,22 @@ export default async function Page({
           </p>
           <p>
             Les liens vers Amazon présents sur nos pages accessoires
-            (<Link href="/fr/accessoires-chien" className="text-amber-700 underline">chien</Link>,{' '}
-            <Link href="/fr/accessoires-chat" className="text-amber-700 underline">chat</Link>,{' '}
-            <Link href="/fr/accessoires-chien-chaleur" className="text-amber-700 underline">canicule</Link>)
+            (<Link href="/fr/accessoires-chien" className="text-ink underline">chien</Link>,{' '}
+            <Link href="/fr/accessoires-chat" className="text-ink underline">chat</Link>,{' '}
+            <Link href="/fr/accessoires-chien-chaleur" className="text-ink underline">canicule</Link>)
             sont sponsorisés : si vous achetez un produit après avoir cliqué,
             nous touchons une petite commission sans surcoût pour vous. Cela
             ne change rien à notre sélection éditoriale - nous ne recommandons
             que des produits que nous trouvons réellement utiles pour voyager
             avec son animal.
           </p>
-          <p className="text-sm text-stone-600">
-            Identifiant partenaire Amazon : <code className="bg-stone-100 px-1.5 py-0.5 rounded">mansonjb-21</code>
+          <p className="text-sm text-slate">
+            Identifiant partenaire Amazon : <code className="bg-lavender-soft px-1.5 py-0.5 rounded">mansonjb-21</code>
           </p>
         </section>
 
-        <section className="bg-white border border-stone-200 rounded-2xl p-6 space-y-3">
-          <h2 className="text-xl font-bold text-stone-900">Liens hôteliers Stay22 / Booking</h2>
+        <section className="bg-white border-[1.6px] border-line rounded-[22px] p-6 space-y-3">
+          <h2 className="text-xl font-bold text-ink">Liens hôteliers Stay22 / Booking</h2>
           <p>
             Les liens de réservation d&apos;hôtel sur HotelsWithPets.com passent
             par Stay22, un méta-moteur qui compare les prix sur Booking,
@@ -95,8 +95,8 @@ export default async function Page({
           </p>
         </section>
 
-        <section className="bg-white border border-stone-200 rounded-2xl p-6 space-y-3">
-          <h2 className="text-xl font-bold text-stone-900">Notre engagement éditorial</h2>
+        <section className="bg-white border-[1.6px] border-line rounded-[22px] p-6 space-y-3">
+          <h2 className="text-xl font-bold text-ink">Notre engagement éditorial</h2>
           <p>
             Nous n&apos;acceptons ni argent ni produits gratuits en échange
             d&apos;une critique positive. Aucun hôtel ne paie pour figurer dans
@@ -113,11 +113,11 @@ export default async function Page({
           </p>
         </section>
 
-        <section className="bg-white border border-stone-200 rounded-2xl p-6 space-y-3">
-          <h2 className="text-xl font-bold text-stone-900">Contact</h2>
+        <section className="bg-white border-[1.6px] border-line rounded-[22px] p-6 space-y-3">
+          <h2 className="text-xl font-bold text-ink">Contact</h2>
           <p>
             Une question, une suggestion de produit, un signalement d&apos;erreur ?
-            Écrivez-nous via notre <Link href="/fr/contact" className="text-amber-700 underline">formulaire de contact</Link>.
+            Écrivez-nous via notre <Link href="/fr/contact" className="text-ink underline">formulaire de contact</Link>.
           </p>
         </section>
       </article>

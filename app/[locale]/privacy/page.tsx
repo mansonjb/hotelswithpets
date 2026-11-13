@@ -156,25 +156,25 @@ export default async function PrivacyPage({
   const c = content[locale] ?? content.en
 
   return (
-    <div className="min-h-screen bg-gray-50 py-16">
+    <div className="min-h-screen bg-cream py-16">
       <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h1 className="text-3xl font-extrabold text-gray-900 mb-8">{c.title}</h1>
-        <div className="bg-white rounded-2xl p-8 border border-gray-100 shadow-sm space-y-8">
+        <h1 className="text-3xl font-bold text-ink mb-8">{c.title}</h1>
+        <div className="bg-white rounded-[22px] p-8 border-[1.6px] border-ink shadow-hard space-y-8">
           {c.sections.map((section) => (
             <section key={section.h}>
-              <h2 className="text-lg font-bold text-gray-900 mb-2">{section.h}</h2>
+              <h2 className="text-lg font-bold text-ink mb-2">{section.h}</h2>
               {Array.isArray(section.p) ? (
                 <ul className="list-disc list-inside space-y-2">
                   {section.p.map((line, i) => (
-                    <li key={i} className="text-gray-600 text-sm leading-relaxed">{line}</li>
+                    <li key={i} className="text-slate text-sm leading-relaxed">{line}</li>
                   ))}
                 </ul>
               ) : (
-                <p className="text-gray-600 text-sm leading-relaxed">{section.p}</p>
+                <p className="text-slate text-sm leading-relaxed">{section.p}</p>
               )}
             </section>
           ))}
-          <p className="text-xs text-gray-500">Last updated: {new Date().getFullYear()}</p>
+          <p className="text-xs text-slate">Last updated: {new Date().getFullYear()}</p>
         </div>
       </div>
     </div>

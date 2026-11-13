@@ -10,6 +10,7 @@ import { getLocalizedCountryName, getAllCountries } from '@/lib/countries'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
 import categories from '@/data/categories.json'
+import { toneFromGradient } from '@/lib/brandTone'
 
 const SLUG = 'pet-friendly-hotels-europe-guide'
 
@@ -1162,18 +1163,18 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   }
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       {/* Hero */}
-      <section className="relative bg-gradient-to-br from-emerald-950 via-blue-950 to-indigo-900 text-white py-20">
+      <section className="relative text-white py-20 bg-electric">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_30%,rgba(255,255,255,0.1),transparent_60%)] pointer-events-none" />
         <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center z-10">
           <span className="inline-block bg-white/10 border border-white/20 text-white/80 text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-6">
             📘 {c.hero.kicker}
           </span>
-          <h1 className="text-4xl lg:text-6xl font-extrabold mb-6 leading-tight">{c.hero.h1}</h1>
+          <h1 className="text-4xl lg:text-6xl font-bold mb-6 leading-tight">{c.hero.h1}</h1>
           <p className="text-blue-100 text-lg lg:text-xl leading-relaxed max-w-2xl mx-auto mb-8">{c.hero.lede}</p>
           <div className="flex flex-wrap justify-center gap-3 text-sm font-semibold">
             <span className="bg-white/10 px-4 py-2 rounded-full">🏨 {totalHotels}+ {c.hotelLabel}</span>
@@ -1184,12 +1185,12 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       {/* TOC */}
-      <section className="py-8 bg-white border-b border-gray-100">
+      <section className="py-8 bg-white border-b border-line">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-sm font-bold uppercase tracking-widest text-gray-500 mb-4">{c.toc.title}</h2>
+          <h2 className="text-sm font-bold uppercase tracking-widest text-slate mb-4">{c.toc.title}</h2>
           <nav className="grid grid-cols-1 md:grid-cols-2 gap-2">
             {c.toc.items.map((item) => (
-              <a key={item.id} href={`#${item.id}`} className="text-blue-600 hover:text-blue-800 hover:underline font-medium">
+              <a key={item.id} href={`#${item.id}`} className="text-electric hover:text-ink hover:underline font-medium">
                 → {item.label}
               </a>
             ))}
@@ -1200,16 +1201,16 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* What to look for */}
       <article id={c.whatToLook.id} className="py-16 bg-white scroll-mt-20">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-6">{c.whatToLook.h2}</h2>
+          <h2 className="text-3xl lg:text-4xl font-bold text-ink mb-6">{c.whatToLook.h2}</h2>
           <div className="space-y-4 mb-8">
-            {c.whatToLook.paras.map((p, i) => <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>)}
+            {c.whatToLook.paras.map((p, i) => <p key={i} className="text-slate leading-relaxed text-base lg:text-lg">{p}</p>)}
           </div>
-          <div className="bg-gradient-to-br from-blue-50 to-indigo-50 border border-blue-200 rounded-2xl p-6 lg:p-8">
-            <h3 className="text-xl font-extrabold text-gray-900 mb-5">✅ {c.whatToLook.checks.title}</h3>
+          <div className="border-[1.6px] border-ink rounded-[22px] p-6 lg:p-8 bg-lavender-soft">
+            <h3 className="text-xl font-bold text-ink mb-5">✅ {c.whatToLook.checks.title}</h3>
             <ul className="space-y-3">
               {c.whatToLook.checks.items.map((item, i) => (
-                <li key={i} className="flex items-start gap-3 text-gray-700">
-                  <span className="flex-shrink-0 mt-1 w-5 h-5 rounded-full bg-blue-600 text-white text-xs font-bold flex items-center justify-center">{i + 1}</span>
+                <li key={i} className="flex items-start gap-3 text-slate">
+                  <span className="flex-shrink-0 mt-1 w-5 h-5 rounded-full bg-electric text-white text-xs font-bold flex items-center justify-center">{i + 1}</span>
                   <span>{item}</span>
                 </li>
               ))}
@@ -1219,9 +1220,9 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </article>
 
       {/* Sponsored partner strip, clearly labelled */}
-      <div className="border-t border-amber-100">
+      <div className="border-t border-line">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
-          <p className="text-[10px] font-bold uppercase tracking-widest text-amber-700/70">{sponsoredLabel}</p>
+          <p className="text-[10px] font-bold uppercase tracking-widest text-ink/70">{sponsoredLabel}</p>
         </div>
         <TopHotelsStrip
           locale={locale}
@@ -1231,13 +1232,13 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </div>
 
       {/* Chains */}
-      <section id={c.chains.id} className="py-16 bg-gray-50 border-y border-gray-100 scroll-mt-20">
+      <section id={c.chains.id} className="py-16 bg-cream border-y border-line scroll-mt-20">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-6">{c.chains.h2}</h2>
-          <p className="text-gray-700 leading-relaxed text-base lg:text-lg mb-8 max-w-3xl">{c.chains.intro}</p>
-          <div className="overflow-x-auto bg-white rounded-2xl shadow-sm border border-gray-200">
+          <h2 className="text-3xl lg:text-4xl font-bold text-ink mb-6">{c.chains.h2}</h2>
+          <p className="text-slate leading-relaxed text-base lg:text-lg mb-8 max-w-3xl">{c.chains.intro}</p>
+          <div className="overflow-x-auto bg-white rounded-[22px] shadow-hard border-[1.6px] border-ink">
             <table className="w-full text-sm">
-              <thead className="bg-gradient-to-br from-blue-600 to-indigo-700 text-white">
+              <thead className="text-white bg-electric">
                 <tr>
                   <th className="px-4 py-3 text-left font-bold">{c.chains.columns.chain}</th>
                   <th className="px-4 py-3 text-left font-bold">{c.chains.columns.policy}</th>
@@ -1247,11 +1248,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               </thead>
               <tbody className="divide-y divide-gray-100">
                 {c.chains.rows.map((row, i) => (
-                  <tr key={i} className="hover:bg-gray-50">
-                    <td className="px-4 py-3 font-semibold text-gray-900">{row.chain}</td>
-                    <td className="px-4 py-3 text-gray-700">{row.policy}</td>
-                    <td className="px-4 py-3 text-gray-700 font-medium whitespace-nowrap">{row.fee}</td>
-                    <td className="px-4 py-3 text-gray-600 text-sm">{row.note}</td>
+                  <tr key={i} className="hover:bg-cream">
+                    <td className="px-4 py-3 font-semibold text-ink">{row.chain}</td>
+                    <td className="px-4 py-3 text-slate">{row.policy}</td>
+                    <td className="px-4 py-3 text-slate font-medium whitespace-nowrap">{row.fee}</td>
+                    <td className="px-4 py-3 text-slate text-sm">{row.note}</td>
                   </tr>
                 ))}
               </tbody>
@@ -1263,8 +1264,8 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* By category, compact grid */}
       <section id={c.byCategory.id} className="py-16 bg-white scroll-mt-20">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-4">{c.byCategory.h2}</h2>
-          <p className="text-gray-700 leading-relaxed text-base lg:text-lg mb-8 max-w-3xl">{c.byCategory.intro}</p>
+          <h2 className="text-3xl lg:text-4xl font-bold text-ink mb-4">{c.byCategory.h2}</h2>
+          <p className="text-slate leading-relaxed text-base lg:text-lg mb-8 max-w-3xl">{c.byCategory.intro}</p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {categories.map((cat) => {
               const catName = locale === 'fr' && cat.nameFr ? cat.nameFr
@@ -1278,10 +1279,10 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                 <Link
                   key={cat.slug}
                   href={`/${locale}/categories/${cat.slug}`}
-                  className={`bg-gradient-to-br ${cat.gradient} text-white p-6 rounded-2xl shadow-md hover:shadow-lg hover:-translate-y-0.5 transition-all`}
+                  className={` ${toneFromGradient(cat.gradient)} text-white p-6 rounded-[22px] shadow-hard-sm hover:shadow-hard hover:-translate-y-0.5 transition-all`}
                 >
                   <span className="text-4xl block mb-3">{cat.emoji}</span>
-                  <h4 className="font-extrabold text-lg mb-1">{catName}</h4>
+                  <h4 className="font-bold text-lg mb-1">{catName}</h4>
                   <p className="text-white/80 text-sm font-semibold">{c.viewCategoryLabel}</p>
                 </Link>
               )
@@ -1291,26 +1292,26 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       {/* By country, compact 2-column grid */}
-      <section id={c.byCountry.id} className="py-16 bg-gray-50 border-y border-gray-100 scroll-mt-20">
+      <section id={c.byCountry.id} className="py-16 bg-cream border-y border-line scroll-mt-20">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-4">{c.byCountry.h2}</h2>
-          <p className="text-gray-700 leading-relaxed text-base lg:text-lg mb-8 max-w-3xl">{c.byCountry.intro}</p>
+          <h2 className="text-3xl lg:text-4xl font-bold text-ink mb-4">{c.byCountry.h2}</h2>
+          <p className="text-slate leading-relaxed text-base lg:text-lg mb-8 max-w-3xl">{c.byCountry.intro}</p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {allCountries.map((country) => {
               const note = c.countryNotes[country.name as keyof typeof c.countryNotes]
               if (!note) return null
               const localizedName = getLocalizedCountryName(country.name, locale)
               return (
-                <article key={country.slug} className="bg-white border border-gray-200 rounded-2xl p-5">
+                <article key={country.slug} className="bg-white border-[1.6px] border-ink rounded-[22px] p-5">
                   <header className="flex items-center gap-3 mb-2">
                     <span className="text-2xl" aria-hidden="true">{country.flag}</span>
                     <div>
-                      <h3 className="font-extrabold text-gray-900 leading-tight">{localizedName}</h3>
-                      <p className="text-[11px] text-gray-500 uppercase tracking-wide">{country.destinations.length} {c.destLabel}</p>
+                      <h3 className="font-bold text-ink leading-tight">{localizedName}</h3>
+                      <p className="text-[11px] text-slate uppercase tracking-wide">{country.destinations.length} {c.destLabel}</p>
                     </div>
                   </header>
-                  <p className="text-sm text-gray-700 leading-relaxed mb-3">{note}</p>
-                  <Link href={`/${locale}/countries/${country.slug}`} className="text-blue-600 hover:text-blue-800 font-semibold hover:underline text-xs">
+                  <p className="text-sm text-slate leading-relaxed mb-3">{note}</p>
+                  <Link href={`/${locale}/countries/${country.slug}`} className="text-electric hover:text-ink font-semibold hover:underline text-xs">
                     {c.countryDestinationsCta}
                   </Link>
                 </article>
@@ -1323,15 +1324,15 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* Booking tips */}
       <section id={c.bookingTips.id} className="py-16 bg-white scroll-mt-20">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-6">{c.bookingTips.h2}</h2>
+          <h2 className="text-3xl lg:text-4xl font-bold text-ink mb-6">{c.bookingTips.h2}</h2>
           <div className="space-y-4 mb-8">
-            {c.bookingTips.paras.map((p, i) => <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>)}
+            {c.bookingTips.paras.map((p, i) => <p key={i} className="text-slate leading-relaxed text-base lg:text-lg">{p}</p>)}
           </div>
           <ul className="space-y-3">
             {c.bookingTips.bullets.map((b, i) => (
-              <li key={i} className="flex items-start gap-3 bg-amber-50 border border-amber-200 rounded-xl p-4">
-                <span className="text-amber-600 font-bold text-lg flex-shrink-0" aria-hidden="true">💡</span>
-                <span className="text-gray-700 leading-relaxed text-sm lg:text-base">{b}</span>
+              <li key={i} className="flex items-start gap-3 bg-lime/30 border border-line rounded-xl p-4">
+                <span className="text-ink font-bold text-lg flex-shrink-0" aria-hidden="true">💡</span>
+                <span className="text-slate leading-relaxed text-sm lg:text-base">{b}</span>
               </li>
             ))}
           </ul>
@@ -1339,16 +1340,16 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       {/* What to ask */}
-      <section id={c.whatToAsk.id} className="py-16 bg-gradient-to-br from-blue-50 to-indigo-50 border-y border-blue-200 scroll-mt-20">
+      <section id={c.whatToAsk.id} className="py-16 border-y border-line scroll-mt-20 bg-lavender-soft">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-6">{c.whatToAsk.h2}</h2>
-          <p className="text-gray-700 leading-relaxed text-base lg:text-lg mb-8">{c.whatToAsk.intro}</p>
-          <div className="bg-white border border-blue-200 rounded-2xl shadow-sm p-6 lg:p-8">
+          <h2 className="text-3xl lg:text-4xl font-bold text-ink mb-6">{c.whatToAsk.h2}</h2>
+          <p className="text-slate leading-relaxed text-base lg:text-lg mb-8">{c.whatToAsk.intro}</p>
+          <div className="bg-white border-[1.6px] border-ink rounded-[22px] shadow-hard p-6 lg:p-8">
             <ol className="space-y-4">
               {c.whatToAsk.questions.map((q, i) => (
                 <li key={i} className="flex items-start gap-4">
-                  <span className="flex-shrink-0 mt-0.5 w-7 h-7 rounded-full bg-blue-600 text-white text-sm font-bold flex items-center justify-center">{i + 1}</span>
-                  <span className="text-gray-700 leading-relaxed">{q}</span>
+                  <span className="flex-shrink-0 mt-0.5 w-7 h-7 rounded-full bg-electric text-white text-sm font-bold flex items-center justify-center">{i + 1}</span>
+                  <span className="text-slate leading-relaxed">{q}</span>
                 </li>
               ))}
             </ol>
@@ -1359,15 +1360,15 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* FAQ */}
       <section id="faq" className="py-16 bg-white scroll-mt-20">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-extrabold text-gray-900 mb-8 text-center">❓ {c.faqTitle}</h2>
+          <h2 className="text-3xl font-bold text-ink mb-8 text-center">❓ {c.faqTitle}</h2>
           <div className="space-y-4">
             {c.faqs.map((f, i) => (
-              <details key={i} className="bg-gray-50 border border-gray-200 rounded-2xl group">
-                <summary className="cursor-pointer p-5 font-semibold text-gray-900 list-none flex items-center justify-between">
+              <details key={i} className="bg-cream border-[1.6px] border-ink rounded-[22px] group">
+                <summary className="cursor-pointer p-5 font-semibold text-ink list-none flex items-center justify-between">
                   <span>{f.q}</span>
-                  <span className="text-gray-500 group-open:rotate-180 transition-transform" aria-hidden="true">▾</span>
+                  <span className="text-slate group-open:rotate-180 transition-transform" aria-hidden="true">▾</span>
                 </summary>
-                <div className="px-5 pb-5 text-sm text-gray-700 leading-relaxed">{f.a}</div>
+                <div className="px-5 pb-5 text-sm text-slate leading-relaxed">{f.a}</div>
               </details>
             ))}
           </div>
@@ -1375,11 +1376,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       {/* CTA */}
-      <section className="py-16 bg-gradient-to-br from-blue-600 to-indigo-700 text-white">
+      <section className="py-16 text-white bg-electric">
         <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl font-extrabold mb-4">{c.ctaTitle}</h2>
+          <h2 className="text-3xl font-bold mb-4">{c.ctaTitle}</h2>
           <p className="text-blue-100 text-lg mb-8 leading-relaxed">{c.ctaDesc}</p>
-          <Link href={`/${locale}/destinations`} className="inline-block bg-white text-blue-700 font-bold px-8 py-4 rounded-full hover:bg-blue-50 transition-colors shadow-lg">
+          <Link href={`/${locale}/destinations`} className="inline-block bg-white text-electric font-bold px-8 py-4 rounded-full hover:bg-lavender-soft transition-colors shadow-hard">
             {c.ctaButton}
           </Link>
         </div>

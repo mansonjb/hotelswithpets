@@ -301,7 +301,7 @@ export default async function VillaLandingPage({
                 <span className="mx-1.5">/</span>
                 <span>{g.flag} {g.place}</span>
               </nav>
-              <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white leading-tight drop-shadow">{ui.h1(g.place)}</h1>
+              <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white leading-tight drop-shadow">{ui.h1(g.place)}</h1>
               <p className="text-white/90 text-base sm:text-lg mt-3 max-w-3xl">{ui.sub(g.place)}</p>
             </div>
           </div>
@@ -311,12 +311,12 @@ export default async function VillaLandingPage({
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
         {/* Intro + primary CTA */}
         <section>
-          <p className="text-gray-700 text-lg leading-relaxed">{pick(g.intro, locale)}</p>
+          <p className="text-slate text-lg leading-relaxed">{pick(g.intro, locale)}</p>
           <a
             href={allezHref}
             target="_blank"
             rel="sponsored noopener noreferrer"
-            className="mt-5 inline-flex items-center gap-2 text-base font-bold px-5 py-3 rounded-xl text-white shadow-sm hover:shadow-md transition-shadow"
+            className="mt-5 inline-flex items-center gap-2 text-base font-bold px-5 py-3 rounded-xl text-white transition-shadow"
             style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)' }}
           >
             {ui.mapCta(g.place)}
@@ -325,7 +325,7 @@ export default async function VillaLandingPage({
 
         {/* Villas */}
         <section>
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{ui.villasTitle(g.place)}</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">{ui.villasTitle(g.place)}</h2>
           <div className="grid sm:grid-cols-2 gap-5">
             {g.villas.map((v, i) => (
               <a
@@ -333,32 +333,32 @@ export default async function VillaLandingPage({
                 href={v.bookingUrl}
                 target="_blank"
                 rel="sponsored noopener noreferrer"
-                className="group bg-white rounded-2xl border border-amber-200 shadow-sm hover:shadow-lg transition-shadow flex flex-col p-5"
+                className="group bg-white rounded-[22px] border-[1.6px] border-ink hover:shadow-hard transition-shadow flex flex-col p-5"
               >
                 <div className="flex items-start justify-between gap-3">
                   <div>
-                    <h3 className="font-extrabold text-gray-900 leading-tight">{v.name}</h3>
-                    <p className="text-xs font-semibold uppercase tracking-wide text-amber-700 mt-0.5">📍 {v.area}</p>
+                    <h3 className="font-bold text-ink leading-tight">{v.name}</h3>
+                    <p className="text-xs font-semibold uppercase tracking-wide text-ink mt-0.5">📍 {v.area}</p>
                   </div>
                 </div>
                 <div className="flex flex-wrap gap-1.5 mt-3 text-xs">
-                  <span className="bg-gray-50 px-2.5 py-1 rounded-full">🛏 {ui.bedrooms(v.bedrooms)}</span>
-                  <span className="bg-gray-50 px-2.5 py-1 rounded-full">👥 {ui.sleeps(v.sleeps)}</span>
-                  {v.pool && <span className="bg-blue-50 text-blue-700 px-2.5 py-1 rounded-full">🏊 {ui.pool}</span>}
+                  <span className="bg-cream px-2.5 py-1 rounded-full">🛏 {ui.bedrooms(v.bedrooms)}</span>
+                  <span className="bg-cream px-2.5 py-1 rounded-full">👥 {ui.sleeps(v.sleeps)}</span>
+                  {v.pool && <span className="bg-lavender-soft text-electric px-2.5 py-1 rounded-full">🏊 {ui.pool}</span>}
                 </div>
-                <p className="text-sm text-gray-600 mt-3 leading-relaxed">{pick(v.petPolicy, locale)}</p>
+                <p className="text-sm text-slate mt-3 leading-relaxed">{pick(v.petPolicy, locale)}</p>
                 <ul className="mt-3 space-y-1">
                   {v.highlights.map((h, k) => (
-                    <li key={k} className="text-xs text-gray-500 flex items-start gap-1.5"><span className="text-amber-500">✓</span>{h}</li>
+                    <li key={k} className="text-xs text-slate flex items-start gap-1.5"><span className="text-ink">✓</span>{h}</li>
                   ))}
                 </ul>
                 <div className="flex items-center justify-between mt-4 pt-3 border-t border-gray-50">
                   <div className="flex items-baseline gap-1">
-                    <span className="text-xs text-gray-500">{ui.from}</span>
-                    <span className="text-xl font-extrabold text-gray-900">€{v.priceFrom}</span>
-                    <span className="text-xs text-gray-500">{ui.perNight}</span>
+                    <span className="text-xs text-slate">{ui.from}</span>
+                    <span className="text-xl font-bold text-ink">€{v.priceFrom}</span>
+                    <span className="text-xs text-slate">{ui.perNight}</span>
                   </div>
-                  <span className="text-sm font-bold text-amber-700 group-hover:text-amber-900">{ui.seeVilla}</span>
+                  <span className="text-sm font-bold text-ink group-hover:text-ink">{ui.seeVilla}</span>
                 </div>
               </a>
             ))}
@@ -366,39 +366,39 @@ export default async function VillaLandingPage({
         </section>
 
         {/* Why a villa */}
-        <section className="bg-amber-50 border border-amber-100 rounded-2xl p-6">
-          <h2 className="text-xl font-extrabold text-gray-900 mb-2">🏡 {ui.whyTitle}</h2>
-          <p className="text-gray-700 leading-relaxed">{pick(g.whyVillas, locale)}</p>
+        <section className="bg-lime/30 border-[1.6px] border-ink rounded-[22px] p-6">
+          <h2 className="text-xl font-bold text-ink mb-2">🏡 {ui.whyTitle}</h2>
+          <p className="text-slate leading-relaxed">{pick(g.whyVillas, locale)}</p>
         </section>
 
         {/* Areas */}
         <section>
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{ui.areasTitle(g.place)}</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">{ui.areasTitle(g.place)}</h2>
           <div className="grid sm:grid-cols-2 gap-4">
             {g.areas.map((a, i) => (
-              <div key={i} className="bg-white rounded-xl border border-gray-100 shadow-sm p-4">
-                <h3 className="font-bold text-gray-900">📍 {a.name}</h3>
-                <p className="text-sm text-gray-600 mt-1">{pick(a.note, locale)}</p>
+              <div key={i} className="bg-white rounded-xl border border-line p-4">
+                <h3 className="font-bold text-ink">📍 {a.name}</h3>
+                <p className="text-sm text-slate mt-1">{pick(a.note, locale)}</p>
               </div>
             ))}
           </div>
         </section>
 
         {/* Dog beaches */}
-        <section className="bg-blue-50 border border-blue-100 rounded-2xl p-6">
-          <h2 className="text-xl font-extrabold text-gray-900 mb-2">🏖️ {ui.beachesTitle}</h2>
-          <p className="text-gray-700 leading-relaxed">{pick(g.dogBeaches, locale)}</p>
+        <section className="bg-lavender-soft border-[1.6px] border-ink rounded-[22px] p-6">
+          <h2 className="text-xl font-bold text-ink mb-2">🏖️ {ui.beachesTitle}</h2>
+          <p className="text-slate leading-relaxed">{pick(g.dogBeaches, locale)}</p>
         </section>
 
         {/* Stay22 map */}
         <section>
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-4">{ui.mapTitle(g.place)}</h2>
+          <h2 className="text-2xl font-bold text-ink mb-4">{ui.mapTitle(g.place)}</h2>
           <Stay22Map lat={g.lat} lng={g.lng} destName={g.place} locale={locale} campaign={campaign} height={460} />
           <a
             href={allezHref}
             target="_blank"
             rel="sponsored noopener noreferrer"
-            className="mt-4 inline-flex items-center gap-2 text-base font-bold px-5 py-3 rounded-xl text-white shadow-sm hover:shadow-md transition-shadow"
+            className="mt-4 inline-flex items-center gap-2 text-base font-bold px-5 py-3 rounded-xl text-white transition-shadow"
             style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)' }}
           >
             {ui.mapCta(g.place)}
@@ -407,15 +407,15 @@ export default async function VillaLandingPage({
 
         {/* FAQ */}
         <section>
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{ui.faqTitle}</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">{ui.faqTitle}</h2>
           <div className="space-y-3">
             {g.faqs.map((f, i) => (
-              <details key={i} className="bg-white rounded-2xl border border-gray-200 shadow-sm group">
-                <summary className="px-6 py-4 font-semibold text-gray-900 cursor-pointer list-none flex items-center justify-between gap-4">
+              <details key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard group">
+                <summary className="px-6 py-4 font-semibold text-ink cursor-pointer list-none flex items-center justify-between gap-4">
                   {pick(f.q, locale)}
-                  <span aria-hidden="true" className="text-gray-500 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
+                  <span aria-hidden="true" className="text-slate group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
                 </summary>
-                <p className="px-6 pb-5 text-gray-600 leading-relaxed">{pick(f.a, locale)}</p>
+                <p className="px-6 pb-5 text-slate leading-relaxed">{pick(f.a, locale)}</p>
               </details>
             ))}
           </div>

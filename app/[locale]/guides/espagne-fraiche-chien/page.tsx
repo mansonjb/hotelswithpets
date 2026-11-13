@@ -561,7 +561,7 @@ export default async function EspagneFraicheChienPage({ params }: { params: Prom
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />
 
       {/* Hero */}
-      <section className="bg-gradient-to-br from-red-900 via-orange-900 to-yellow-800 text-white">
+      <section className="text-white bg-electric">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-20">
           <nav className="text-white/60 text-xs mb-4">
             <Link href={`/${locale}`} className="hover:text-white">{p(T.breadHome, locale)}</Link>
@@ -571,7 +571,7 @@ export default async function EspagneFraicheChienPage({ params }: { params: Prom
           <div className="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-yellow-200 text-xs font-bold uppercase tracking-widest px-3 py-1.5 rounded-full mb-5">
             🇪🇸 {locale === 'fr' ? 'Espagne verte' : locale === 'es' ? 'España verde' : locale === 'pt' ? 'Espanha verde' : locale === 'de' ? 'Grünes Spanien' : locale === 'nl' ? 'Groen Spanje' : locale === 'it' ? 'Spagna verde' : 'Green Spain'}
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight mb-5">
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight mb-5">
             {p(T.title, locale)}
           </h1>
           <p className="text-lg text-white/80 leading-relaxed max-w-3xl mb-8">
@@ -591,53 +591,53 @@ export default async function EspagneFraicheChienPage({ params }: { params: Prom
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
         {REGIONS.map((region) => (
           <section key={region.id} id={region.id}>
-            <div className="flex items-center gap-3 mb-6 pb-3 border-b border-gray-100">
+            <div className="flex items-center gap-3 mb-6 pb-3 border-b border-line">
               <span className="text-3xl">{region.emoji}</span>
-              <h2 className="text-2xl font-extrabold text-gray-900">{p(region.title, locale)}</h2>
+              <h2 className="text-2xl font-bold text-ink">{p(region.title, locale)}</h2>
             </div>
             <div className="space-y-6">
               {region.cities.map((city) => {
                 cityIndex++
                 return (
-                  <div key={city.slug} className="bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+                  <div key={city.slug} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard transition-shadow">
                     <div className="p-5 sm:p-6">
                       {/* City header */}
                       <div className="flex items-start justify-between gap-4 mb-3">
                         <div className="flex items-center gap-3">
-                          <div className="flex-shrink-0 w-8 h-8 rounded-full bg-red-100 text-red-700 text-sm font-black flex items-center justify-center">
+                          <div className="flex-shrink-0 w-8 h-8 rounded-full bg-red-100 text-red-700 text-sm font-bold flex items-center justify-center">
                             {cityIndex}
                           </div>
                           <div>
-                            <h3 className="text-xl font-extrabold text-gray-900">{city.name}</h3>
-                            <p className="text-xs text-gray-500">{p(city.region, locale)}</p>
+                            <h3 className="text-xl font-bold text-ink">{city.name}</h3>
+                            <p className="text-xs text-slate">{p(city.region, locale)}</p>
                           </div>
                         </div>
                         <div className="flex-shrink-0 text-right">
-                          <div className="text-2xl font-black text-blue-600">{city.julyTemp}°C</div>
-                          <div className="text-xs text-gray-500">{p(T.julyTemp, locale)}</div>
+                          <div className="text-2xl font-bold text-electric">{city.julyTemp}°C</div>
+                          <div className="text-xs text-slate">{p(T.julyTemp, locale)}</div>
                         </div>
                       </div>
-                      <div className="inline-flex items-center gap-1 bg-orange-50 text-orange-700 text-xs font-semibold px-2.5 py-1 rounded-full mb-3">
+                      <div className="inline-flex items-center gap-1 bg-lime/30 text-ink text-xs font-semibold px-2.5 py-1 rounded-full mb-3">
                         {p(city.tag, locale)}
                       </div>
-                      <p className="text-gray-700 text-sm leading-relaxed mb-3">{p(city.why, locale)}</p>
+                      <p className="text-slate text-sm leading-relaxed mb-3">{p(city.why, locale)}</p>
 
                       {/* Dog tip */}
-                      <div className="flex items-start gap-2 bg-green-50 rounded-xl px-3 py-2 mb-5">
-                        <span className="text-green-600 text-xs font-bold uppercase tracking-wide flex-shrink-0 mt-0.5">🐾 {p(T.dogTipLabel, locale)}</span>
-                        <p className="text-green-800 text-xs leading-relaxed">{p(city.dogTip, locale)}</p>
+                      <div className="flex items-start gap-2 bg-lavender-soft rounded-xl px-3 py-2 mb-5">
+                        <span className="text-ink text-xs font-bold uppercase tracking-wide flex-shrink-0 mt-0.5">🐾 {p(T.dogTipLabel, locale)}</span>
+                        <p className="text-ink text-xs leading-relaxed">{p(city.dogTip, locale)}</p>
                       </div>
 
                       {/* Hotel picks */}
                       <div className="mb-4">
-                        <p className="text-xs font-bold uppercase tracking-widest text-gray-500 mb-2">{p(T.hotelsLabel, locale)}</p>
+                        <p className="text-xs font-bold uppercase tracking-widest text-slate mb-2">{p(T.hotelsLabel, locale)}</p>
                         <div className="space-y-2">
                           {city.hotels.map((hotel) => (
                             <div key={hotel.name} className="flex items-start gap-2">
                               <span className="text-xs text-yellow-500 flex-shrink-0 mt-0.5">{'★'.repeat(hotel.stars)}</span>
                               <div>
-                                <span className="text-sm font-semibold text-gray-900">{hotel.name}</span>
-                                <span className="text-xs text-gray-500 ml-1.5">{p(hotel.note, locale)}</span>
+                                <span className="text-sm font-semibold text-ink">{hotel.name}</span>
+                                <span className="text-xs text-slate ml-1.5">{p(hotel.note, locale)}</span>
                               </div>
                             </div>
                           ))}
@@ -648,7 +648,7 @@ export default async function EspagneFraicheChienPage({ params }: { params: Prom
                         href={buildAllezDestLink(city.name, 'Spain', `${CAMPAIGN}-${city.slug}`, 3)}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-flex items-center gap-1.5 bg-blue-600 hover:bg-blue-700 text-white text-sm font-bold px-4 py-2 rounded-xl transition-colors"
+                        className="inline-flex items-center gap-1.5 bg-electric hover:bg-ink text-white text-sm font-bold px-4 py-2 rounded-xl transition-colors"
                       >
                         🏨 {p(T.seeHotels, locale)}
                       </a>
@@ -670,12 +670,12 @@ export default async function EspagneFraicheChienPage({ params }: { params: Prom
               { q: T.faq.q4, a: T.faq.a4 },
               { q: T.faq.q5, a: T.faq.a5 },
             ] as Array<{ q: L4; a: L4 }>).map((f, i) => (
-              <details key={i} className="bg-white rounded-2xl border border-gray-200 shadow-sm group">
-                <summary className="px-6 py-4 font-semibold text-gray-900 cursor-pointer list-none flex items-center justify-between gap-4">
+              <details key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard group">
+                <summary className="px-6 py-4 font-semibold text-ink cursor-pointer list-none flex items-center justify-between gap-4">
                   {p(f.q, locale)}
-                  <span aria-hidden="true" className="text-gray-500 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
+                  <span aria-hidden="true" className="text-slate group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
                 </summary>
-                <p className="px-6 pb-5 text-gray-600 leading-relaxed">{p(f.a, locale)}</p>
+                <p className="px-6 pb-5 text-slate leading-relaxed">{p(f.a, locale)}</p>
               </details>
             ))}
           </div>

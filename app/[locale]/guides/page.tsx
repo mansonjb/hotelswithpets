@@ -642,24 +642,24 @@ function GuideCard({ guide, locale }: { guide: Guide; locale: string }) {
   return (
     <Link
       href={`/${locale}/guides/${guide.slug}`}
-      className="group block bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 p-6"
+      className="group block bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard hover:-translate-y-0.5 transition-all duration-200 p-6"
     >
       <div className="flex items-start gap-4">
-        <div className="flex-shrink-0 w-12 h-12 bg-blue-50 rounded-xl flex items-center justify-center text-2xl">
+        <div className="flex-shrink-0 w-12 h-12 bg-lavender-soft rounded-xl flex items-center justify-center text-2xl">
           {guide.emoji}
         </div>
         <div className="flex-1 min-w-0">
           <div className="flex items-start justify-between gap-2 mb-2">
-            <h3 className="font-extrabold text-gray-900 text-base lg:text-lg group-hover:text-blue-700 transition-colors leading-snug">
+            <h3 className="font-bold text-ink text-base lg:text-lg group-hover:text-electric transition-colors leading-snug">
               {guide.title}
             </h3>
-            <span className="flex-shrink-0 text-[10px] font-bold text-emerald-700 bg-emerald-50 border border-emerald-100 px-2 py-0.5 rounded-full uppercase tracking-wide">
+            <span className="flex-shrink-0 text-[10px] font-bold text-ink bg-lavender-soft border border-line px-2 py-0.5 rounded-full uppercase tracking-wide">
               {guide.tag}
             </span>
           </div>
-          <p className="text-gray-600 text-sm leading-relaxed">{guide.desc}</p>
+          <p className="text-slate text-sm leading-relaxed">{guide.desc}</p>
         </div>
-        <span className="flex-shrink-0 text-gray-300 group-hover:text-blue-500 group-hover:translate-x-1 transition-all duration-200 text-xl">→</span>
+        <span className="flex-shrink-0 text-white/70 group-hover:text-electric group-hover:translate-x-1 transition-all duration-200 text-xl">→</span>
       </div>
     </Link>
   )
@@ -705,17 +705,17 @@ export default async function GuidesIndexPage({
   }
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }} />
 
       {/* Hero */}
-      <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-16">
+      <section className="text-white py-16 bg-electric border-b-[1.6px] border-ink">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 rounded-full px-3 py-1 text-xs font-bold uppercase tracking-widest mb-5">
             📚 {copy.hero.kicker}
           </span>
-          <h1 className="text-3xl lg:text-5xl font-extrabold mb-4 leading-tight">{copy.hero.title}</h1>
-          <p className="text-blue-200 text-base lg:text-lg leading-relaxed max-w-2xl">{copy.hero.subtitle}</p>
+          <h1 className="text-3xl lg:text-5xl font-bold mb-4 leading-tight">{copy.hero.title}</h1>
+          <p className="text-lavender text-base lg:text-lg leading-relaxed max-w-2xl">{copy.hero.subtitle}</p>
           <nav aria-label="Sections" className="mt-6 flex flex-wrap gap-2">
             {SECTION_ORDER.map((key) => (
               <a
@@ -733,23 +733,23 @@ export default async function GuidesIndexPage({
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-14">
         {/* Amazon accessories cross-link (FR only - pages exist only in FR) */}
         {locale === 'fr' && (
-          <section className="bg-gradient-to-br from-amber-100 to-orange-100 border border-amber-300 rounded-2xl p-6">
+          <section className="border-[1.6px] border-line rounded-[22px] p-6 bg-lavender-soft">
             <div className="flex items-start gap-4 flex-wrap">
               <span className="text-4xl flex-shrink-0">🎒</span>
               <div className="flex-1 min-w-0">
-                <h2 className="text-xl font-extrabold text-stone-900 mb-1">Accessoires testés pour voyager</h2>
-                <p className="text-sm text-stone-700 mb-3 leading-relaxed">
+                <h2 className="text-xl font-bold text-ink mb-1">Accessoires testés pour voyager</h2>
+                <p className="text-sm text-ink mb-3 leading-relaxed">
                   Notre sélection chien / chat / canicule - gourde nomade, tapis rafraîchissant,
                   harnais voiture, fontaine. Liens directs Amazon.fr.
                 </p>
                 <div className="flex flex-wrap gap-2 text-sm">
-                  <a href="/fr/accessoires-chien" className="bg-white border border-amber-400 text-amber-900 font-semibold px-3 py-2 rounded-full hover:bg-amber-50">
+                  <a href="/fr/accessoires-chien" className="bg-white border border-line text-ink font-semibold px-3 py-2 rounded-full hover:bg-lime/30">
                     Accessoires chien →
                   </a>
-                  <a href="/fr/accessoires-chien-chaleur" className="bg-white border border-amber-400 text-amber-900 font-semibold px-3 py-2 rounded-full hover:bg-amber-50">
+                  <a href="/fr/accessoires-chien-chaleur" className="bg-white border border-line text-ink font-semibold px-3 py-2 rounded-full hover:bg-lime/30">
                     Spécial canicule 🔥 →
                   </a>
-                  <a href="/fr/accessoires-chat" className="bg-white border border-stone-300 text-stone-700 px-3 py-2 rounded-full hover:bg-stone-50">
+                  <a href="/fr/accessoires-chat" className="bg-white border border-line text-ink px-3 py-2 rounded-full hover:bg-cream">
                     Accessoires chat →
                   </a>
                 </div>
@@ -763,8 +763,8 @@ export default async function GuidesIndexPage({
           return (
             <section key={sectionKey} id={sectionKey} className="scroll-mt-20">
               <div className="mb-6">
-                <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-2">{section.heading}</h2>
-                <p className="text-gray-600 text-sm lg:text-base leading-relaxed max-w-3xl">{section.intro}</p>
+                <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-2">{section.heading}</h2>
+                <p className="text-slate text-sm lg:text-base leading-relaxed max-w-3xl">{section.intro}</p>
               </div>
               <div className="space-y-3">
                 {section.guides.map((g) => (

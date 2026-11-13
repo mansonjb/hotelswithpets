@@ -6,6 +6,7 @@ import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
 import destinations from '@/data/destinations.json'
 import { SITE_URL } from '@/lib/site'
+import { toneFromGradient } from '@/lib/brandTone'
 
 export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -163,14 +164,14 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }} />
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-cream">
 
       {/* Hero */}
-      <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-20">
+      <section className="text-white py-20 bg-electric border-b-[1.6px] border-ink">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
-            <h1 className="text-4xl lg:text-5xl font-extrabold mb-4">{p.title}</h1>
-            <p className="text-blue-200 text-lg leading-relaxed mb-8">{copy.intro}</p>
+            <h1 className="text-4xl lg:text-5xl font-bold mb-4">{p.title}</h1>
+            <p className="text-lavender text-lg leading-relaxed mb-8">{copy.intro}</p>
             <div className="flex flex-wrap gap-4">
               <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">🏨 {totalHotels} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : 'hotels'}</span>
               <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">🗺️ {totalDests} {locale === 'fr' ? 'destinations' : 'destinations'}</span>
@@ -181,19 +182,19 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
       </section>
 
       {/* Why + How, editorial strip */}
-      <section className="bg-white border-b border-gray-100 py-12">
+      <section className="bg-white border-b border-line py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-10">
             <div>
-              <h2 className="text-xl font-extrabold text-gray-900 mb-3">{copy.whyTitle}</h2>
-              <p className="text-gray-600 text-sm leading-relaxed">{copy.whyText}</p>
+              <h2 className="text-xl font-bold text-ink mb-3">{copy.whyTitle}</h2>
+              <p className="text-slate text-sm leading-relaxed">{copy.whyText}</p>
             </div>
             <div>
-              <h2 className="text-xl font-extrabold text-gray-900 mb-3">{copy.howTitle}</h2>
+              <h2 className="text-xl font-bold text-ink mb-3">{copy.howTitle}</h2>
               <ol className="space-y-2">
                 {copy.howItems.map((item, i) => (
-                  <li key={i} className="flex items-start gap-3 text-sm text-gray-600">
-                    <span className="flex-shrink-0 w-5 h-5 rounded-full bg-blue-100 text-blue-700 text-xs font-bold flex items-center justify-center mt-0.5">{i + 1}</span>
+                  <li key={i} className="flex items-start gap-3 text-sm text-slate">
+                    <span className="flex-shrink-0 w-5 h-5 rounded-full bg-lavender text-electric text-xs font-bold flex items-center justify-center mt-0.5">{i + 1}</span>
                     {item}
                   </li>
                 ))}
@@ -214,7 +215,7 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
                 <Link
                   key={cat.slug}
                   href={`/${locale}/categories/${cat.slug}`}
-                  className={`group relative overflow-hidden rounded-2xl bg-gradient-to-br ${cat.gradient} p-8 min-h-[220px] flex flex-col justify-between shadow-md hover:shadow-xl transition-all duration-200 hover:-translate-y-1`}
+                  className={`group relative overflow-hidden rounded-[22px] ${toneFromGradient(cat.gradient)} p-8 min-h-[220px] flex flex-col justify-between shadow-hard-sm hover:shadow-hard transition-all duration-200 hover:-translate-y-1`}
                 >
                   <div className="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors" />
                   <div className="absolute -right-4 -bottom-4 text-9xl opacity-10 select-none leading-none">{cat.emoji}</div>
@@ -246,14 +247,14 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
       </section>
 
       {/* FAQ */}
-      <section className="py-14 bg-white border-t border-gray-100">
+      <section className="py-14 bg-white border-t border-line">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-8">{copy.faqTitle}</h2>
+          <h2 className="text-2xl font-bold text-ink mb-8">{copy.faqTitle}</h2>
           <div className="space-y-5">
             {copy.faqs.map((faq, i) => (
-              <div key={i} className="bg-gray-50 rounded-2xl p-6">
-                <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
-                <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+              <div key={i} className="bg-cream rounded-[22px] p-6">
+                <h3 className="font-semibold text-ink mb-2">{faq.q}</h3>
+                <p className="text-slate text-sm leading-relaxed">{faq.a}</p>
               </div>
             ))}
           </div>

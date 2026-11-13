@@ -598,12 +598,12 @@ export default async function Page({
   const pickHotel = (p: Pick) => locale === 'fr' ? p.hotelFr : locale === 'es' ? p.hotelEs : locale === 'pt' ? p.hotelPt : locale === 'de' ? (p.hotelDe ?? p.hotelEn) : locale === 'nl' ? (p.hotelNl ?? p.hotelEn) : locale === 'it' ? (p.hotelIt ?? p.hotelEn) : p.hotelEn
 
   return (
-    <main className="min-h-screen bg-stone-50">
+    <main className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
 
-      <section className="relative overflow-hidden bg-gradient-to-br from-fuchsia-700 via-violet-700 to-indigo-800 text-white">
+      <section className="relative overflow-hidden text-white bg-electric">
         <div className="absolute inset-0 opacity-20 pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at 20% 30%, rgba(255,255,255,0.4), transparent 40%), radial-gradient(circle at 80% 70%, rgba(255,255,255,0.3), transparent 40%)' }} />
         <div className="relative z-10 max-w-4xl mx-auto px-4 py-16 sm:py-24">
           <div className="text-xs font-semibold uppercase tracking-widest text-fuchsia-100 mb-3">🐈 {t.eyebrow}</div>
@@ -613,20 +613,20 @@ export default async function Page({
       </section>
 
       <section className="max-w-4xl mx-auto px-4 py-12">
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-6">📝 {t.practicalHeading}</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-6">📝 {t.practicalHeading}</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
           {t.practical.map((p, i) => (
-            <div key={i} className="bg-white rounded-xl p-5 border border-stone-200">
-              <h3 className="font-bold text-stone-900 mb-2">{p.h}</h3>
-              <p className="text-sm text-stone-700 leading-relaxed">{p.p}</p>
+            <div key={i} className="bg-white rounded-xl p-5 border border-line">
+              <h3 className="font-bold text-ink mb-2">{p.h}</h3>
+              <p className="text-sm text-ink leading-relaxed">{p.p}</p>
             </div>
           ))}
         </div>
 
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-8">{t.pickHeading}</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-8">{t.pickHeading}</h2>
         <div className="space-y-5">
           {PICKS.map((p, i) => (
-            <article key={p.slug} className="bg-white rounded-2xl border border-stone-200 overflow-hidden">
+            <article key={p.slug} className="bg-white rounded-[22px] border-[1.6px] border-line overflow-hidden">
               <Link href={`/${locale}${p.destPath}`} className="relative block h-44 sm:h-52 group">
                 <Image
                   src={`/images/destinations/${p.slug}.jpg`}
@@ -636,20 +636,20 @@ export default async function Page({
                   className="object-cover group-hover:scale-[1.02] transition-transform duration-300"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-transparent pointer-events-none" />
-                <span className="absolute top-3 left-3 w-9 h-9 rounded-full bg-white/90 text-fuchsia-700 text-sm font-black flex items-center justify-center shadow">#{i + 1}</span>
+                <span className="absolute top-3 left-3 w-9 h-9 rounded-full bg-white/90 text-fuchsia-700 text-sm font-bold flex items-center justify-center shadow">#{i + 1}</span>
                 <div className="absolute bottom-0 inset-x-0 p-4 sm:p-5">
-                  <h3 className="text-white text-xl sm:text-2xl font-extrabold leading-tight drop-shadow group-hover:underline underline-offset-4">{p.name}</h3>
+                  <h3 className="text-white text-xl sm:text-2xl font-bold leading-tight drop-shadow group-hover:underline underline-offset-4">{p.name}</h3>
                   <span className="text-white/85 text-sm drop-shadow">{p.country}</span>
                 </div>
               </Link>
               <div className="px-5 sm:px-7 py-5 space-y-3">
                 <div>
-                  <div className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-1">{t.whyHere}</div>
-                  <p className="text-stone-800 leading-relaxed">{pickWhy(p)}</p>
+                  <div className="text-xs font-semibold uppercase tracking-wider text-slate mb-1">{t.whyHere}</div>
+                  <p className="text-ink leading-relaxed">{pickWhy(p)}</p>
                 </div>
                 <div>
-                  <div className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-1">{t.hotelLabel}</div>
-                  <p className="text-stone-700 text-sm leading-relaxed">{pickHotel(p)}</p>
+                  <div className="text-xs font-semibold uppercase tracking-wider text-slate mb-1">{t.hotelLabel}</div>
+                  <p className="text-ink text-sm leading-relaxed">{pickHotel(p)}</p>
                 </div>
                 <div className="flex flex-wrap gap-3 pt-1">
                   <Link href={`/${locale}${p.destPath}`} className="text-sm font-semibold text-fuchsia-700 hover:text-fuchsia-900 hover:underline">
@@ -659,7 +659,7 @@ export default async function Page({
                     href={buildAllezDestLink(p.name, p.country, `${CAMPAIGN_BASE}-${p.slug}`, 3)}
                     target="_blank"
                     rel="noopener sponsored"
-                    className="text-sm font-semibold text-stone-700 hover:text-fuchsia-700 hover:underline"
+                    className="text-sm font-semibold text-ink hover:text-fuchsia-700 hover:underline"
                   >
                     {t.hotelCta}
                   </a>
@@ -673,12 +673,12 @@ export default async function Page({
       {/* Maillage Amazon FR accessoires-chat */}
       {locale === 'fr' && (
         <section className="max-w-4xl mx-auto px-4 pb-12">
-          <div className="bg-fuchsia-50 border border-fuchsia-200 rounded-2xl p-6 sm:p-8">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">🛍️ {t.accessoriesHeading}</h2>
-            <p className="text-stone-700 leading-relaxed mb-4">{t.accessoriesNote}</p>
+          <div className="bg-fuchsia-50 border-[1.6px] border-fuchsia-200 rounded-[22px] p-6 sm:p-8">
+            <h2 className="text-xl sm:text-2xl font-bold text-ink mb-2">🛍️ {t.accessoriesHeading}</h2>
+            <p className="text-ink leading-relaxed mb-4">{t.accessoriesNote}</p>
             <Link
               href="/fr/accessoires-chat"
-              className="inline-block bg-fuchsia-600 hover:bg-fuchsia-700 text-white font-bold text-sm px-5 py-2.5 rounded-full transition-colors shadow-sm"
+              className="inline-block bg-fuchsia-600 hover:bg-fuchsia-700 text-white font-bold text-sm px-5 py-2.5 rounded-full transition-colors "
             >
               {t.accessoriesCta}
             </Link>
@@ -687,15 +687,15 @@ export default async function Page({
       )}
 
       <section className="max-w-4xl mx-auto px-4 pb-16">
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-6">❓ {t.faqHeading}</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-6">❓ {t.faqHeading}</h2>
         <div className="space-y-4">
           {t.faqs.map((f, i) => (
-            <details key={i} className="bg-white border border-stone-200 rounded-2xl group">
-              <summary className="cursor-pointer p-5 font-semibold text-stone-900 list-none flex items-center justify-between">
+            <details key={i} className="bg-white border-[1.6px] border-line rounded-[22px] group">
+              <summary className="cursor-pointer p-5 font-semibold text-ink list-none flex items-center justify-between">
                 <span>{f.q}</span>
-                <span className="text-stone-400 group-open:rotate-180 transition-transform">▾</span>
+                <span className="text-slate group-open:rotate-180 transition-transform">▾</span>
               </summary>
-              <div className="px-5 pb-5 text-sm text-stone-700 leading-relaxed">{f.a}</div>
+              <div className="px-5 pb-5 text-sm text-ink leading-relaxed">{f.a}</div>
             </details>
           ))}
         </div>

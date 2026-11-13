@@ -12,6 +12,7 @@ import hotels from '@/data/hotels.json'
 import { SITE_URL } from '@/lib/site'
 import { getLocalizedCityName } from '@/lib/cityNames'
 import { getLocalizedCountryName } from '@/lib/countries'
+import { toneFromGradient } from '@/lib/brandTone'
 
 type DestWithWeather = typeof destinations[number] & {
   weather?: Record<string, { temp: number; desc: string; icon: string }>
@@ -305,35 +306,35 @@ export default async function ComboPage({
         />
       ))}
 
-      <div className="min-h-screen bg-gray-50">
+      <div className="min-h-screen bg-cream">
         {/* ── Breadcrumbs ── */}
         <nav
           aria-label="Breadcrumb"
-          className="bg-white border-b border-gray-100 px-4 sm:px-6 lg:px-8 py-3"
+          className="bg-white border-b border-line px-4 sm:px-6 lg:px-8 py-3"
         >
-          <ol className="max-w-7xl mx-auto flex items-center flex-wrap gap-1 text-sm text-gray-500">
+          <ol className="max-w-7xl mx-auto flex items-center flex-wrap gap-1 text-sm text-slate">
             <li>
-              <Link href={`/${locale}`} className="hover:text-blue-600 transition-colors">
+              <Link href={`/${locale}`} className="hover:text-electric transition-colors">
                 {dict.nav.home}
               </Link>
             </li>
-            <li className="text-gray-300">/</li>
+            <li className="text-white/70">/</li>
             <li>
-              <Link href={`/${locale}/destinations`} className="hover:text-blue-600 transition-colors">
+              <Link href={`/${locale}/destinations`} className="hover:text-electric transition-colors">
                 {dict.nav.destinations}
               </Link>
             </li>
-            <li className="text-gray-300">/</li>
+            <li className="text-white/70">/</li>
             <li>
               <Link
                 href={`/${locale}/destinations/${dest.slug}`}
-                className="hover:text-blue-600 transition-colors"
+                className="hover:text-electric transition-colors"
               >
                 {localizedDest}
               </Link>
             </li>
-            <li className="text-gray-300">/</li>
-            <li className="text-gray-900 font-medium" aria-current="page">
+            <li className="text-white/70">/</li>
+            <li className="text-ink font-medium" aria-current="page">
               {catName}
             </li>
           </ol>
@@ -341,7 +342,7 @@ export default async function ComboPage({
 
         {/* ── Hero ── */}
         <section
-          className={`bg-gradient-to-br ${cat.gradient} text-white relative overflow-hidden`}
+          className={` ${toneFromGradient(cat.gradient)} text-white relative overflow-hidden`}
           aria-label="Page hero"
         >
           <div className="absolute inset-0 bg-black/30" />
@@ -355,7 +356,7 @@ export default async function ComboPage({
                   <span className="text-6xl lg:text-8xl filter drop-shadow-xl">{cat.emoji}</span>
                   <span className="text-4xl lg:text-6xl filter drop-shadow-lg">{dest.flag}</span>
                 </div>
-                <h1 className="text-3xl lg:text-5xl font-extrabold leading-[1.1] mb-3 tracking-tight">
+                <h1 className="text-3xl lg:text-5xl font-bold leading-[1.1] mb-3 tracking-tight">
                   {t(p.heroTitle, { cat: catName, dest: localizedDest })}
                   <span className="text-white/50 text-2xl lg:text-3xl font-semibold"> ({year})</span>
                 </h1>
@@ -369,18 +370,18 @@ export default async function ComboPage({
                 <div className="flex gap-8 lg:flex-col lg:items-end">
                   {minPrice && (
                     <div className="text-center lg:text-right">
-                      <p className="text-3xl lg:text-4xl font-black">€{minPrice}</p>
+                      <p className="text-3xl lg:text-4xl font-bold">€{minPrice}</p>
                       <p className="text-white/60 text-xs uppercase tracking-widest mt-0.5">{p.fromPerNight}</p>
                     </div>
                   )}
                   {avgRating && (
                     <div className="text-center lg:text-right">
-                      <p className="text-3xl lg:text-4xl font-black">{avgRating}/10</p>
+                      <p className="text-3xl lg:text-4xl font-bold">{avgRating}/10</p>
                       <p className="text-white/60 text-xs uppercase tracking-widest mt-0.5">{p.avgRating}</p>
                     </div>
                   )}
                   <div className="text-center lg:text-right">
-                    <p className="text-3xl lg:text-4xl font-black">{freeCount}</p>
+                    <p className="text-3xl lg:text-4xl font-bold">{freeCount}</p>
                     <p className="text-white/60 text-xs uppercase tracking-widest mt-0.5">{p.noPetFee}</p>
                   </div>
                 </div>
@@ -400,7 +401,7 @@ export default async function ComboPage({
               <section aria-label="Introduction" className="mb-10">
                 <div className="prose prose-lg prose-gray max-w-none">
                   {introParagraphs.map((para, i) => (
-                    <p key={i} className="text-gray-700 leading-relaxed mb-4 last:mb-0 text-[17px]">
+                    <p key={i} className="text-slate leading-relaxed mb-4 last:mb-0 text-[17px]">
                       {para}
                     </p>
                   ))}
@@ -410,9 +411,9 @@ export default async function ComboPage({
               {/* Mobile-only CTA. Sidebar is hidden on mobile, put CTA above fold here */}
               {comboHotels.length > 0 && (
                 <div className="lg:hidden mb-10">
-                  <div className={`bg-gradient-to-r ${cat.gradient} rounded-2xl p-5 flex items-center justify-between gap-4 shadow-lg`}>
+                  <div className={` ${toneFromGradient(cat.gradient)} rounded-[22px] p-5 flex items-center justify-between gap-4 shadow-hard`}>
                     <div className="text-white">
-                      <p className="font-extrabold text-base leading-tight">{p.ctaTitle}</p>
+                      <p className="font-bold text-base leading-tight">{p.ctaTitle}</p>
                       {minPrice && (
                         <p className="text-white/80 text-sm mt-0.5">{p.from} €{minPrice} {p.perNight}</p>
                       )}
@@ -421,7 +422,7 @@ export default async function ComboPage({
                       href={bookingUrl}
                       target="_blank"
                       rel="noopener noreferrer sponsored"
-                      className="flex-shrink-0 bg-white text-gray-900 font-bold text-sm px-5 py-3 rounded-xl shadow-md hover:bg-gray-50 transition-colors whitespace-nowrap"
+                      className="flex-shrink-0 bg-white text-ink font-bold text-sm px-5 py-3 rounded-xl shadow-hard-sm hover:bg-cream transition-colors whitespace-nowrap"
                     >
                       {p.ctaButton} →
                     </a>
@@ -431,21 +432,21 @@ export default async function ComboPage({
 
               {/* ② Why {dest} callout. Blue gradient box */}
               <section aria-label={`Why ${dest.name}`} className="mb-10">
-                <div className="rounded-2xl bg-gradient-to-br from-blue-600 to-indigo-700 p-6 lg:p-8 text-white shadow-lg">
-                  <h2 className="text-xl font-extrabold mb-5 leading-tight">
+                <div className="rounded-[22px] p-6 lg:p-8 text-white shadow-hard bg-electric">
+                  <h2 className="text-xl font-bold mb-5 leading-tight">
                     {t(p.whyTitle, { dest: localizedDest, cat: catName })}
                   </h2>
                   <ul className="flex flex-col gap-3">
                     {why.bullets.map((bullet, i) => (
                       <li key={i} className="flex gap-3 items-start">
-                        <span className="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-white/20 flex items-center justify-center text-xs font-black">
+                        <span className="flex-shrink-0 mt-0.5 w-5 h-5 rounded-full bg-white/20 flex items-center justify-center text-xs font-bold">
                           {i + 1}
                         </span>
                         <span className="text-white/90 text-sm leading-relaxed">{bullet}</span>
                       </li>
                     ))}
                   </ul>
-                  <p className="mt-5 text-xs text-blue-200 font-medium">
+                  <p className="mt-5 text-xs text-lavender font-medium">
                     {t(p.seasonBadge, { season: why.bestSeason })}
                   </p>
                 </div>
@@ -456,10 +457,10 @@ export default async function ComboPage({
               {/* ④ Map (moved up, high-conversion: drives bookings on broader Booking inventory) */}
               {'lat' in dest && 'lng' in dest && (
                 <section aria-label="Map" className="mb-10">
-                  <h2 className="text-xl font-extrabold text-gray-900 mb-3">
+                  <h2 className="text-xl font-bold text-ink mb-3">
                     🗺️ {p.mapSectionTitle}
                   </h2>
-                  <p className="text-sm text-gray-500 mb-4">
+                  <p className="text-sm text-slate mb-4">
                     {locale === 'fr'
                       ? `Tous les hôtels acceptant les animaux à ${localizedDest}, directement depuis Booking.com, cliquez sur un marqueur pour voir le prix et réserver.`
                       : locale === 'es'
@@ -480,7 +481,7 @@ export default async function ComboPage({
 
               {/* ⑤ Hotel ranked list */}
               <section aria-label="Hotel list" className="mb-10">
-                <h2 className="text-2xl font-extrabold text-gray-900 mb-6">
+                <h2 className="text-2xl font-bold text-ink mb-6">
                   {t(p.hotelsTitle, { n: comboHotels.length, cat: catName, dest: localizedDest })}
                 </h2>
 
@@ -500,7 +501,7 @@ export default async function ComboPage({
                     ))}
                   </div>
                 ) : (
-                  <div className="text-center py-16 text-gray-500 bg-white rounded-2xl">
+                  <div className="text-center py-16 text-slate bg-white rounded-[22px]">
                     <span className="text-5xl block mb-4">{cat.emoji}</span>
                     <p className="text-lg">{p.noHotels}</p>
                   </div>
@@ -509,19 +510,19 @@ export default async function ComboPage({
 
               {/* ⑥ Tips section */}
               <section aria-label="Selection guide" className="mb-10">
-                <h2 className="text-2xl font-extrabold text-gray-900 mb-2">
+                <h2 className="text-2xl font-bold text-ink mb-2">
                   💡 {t(p.tipsTitle, { cat: catName.toLowerCase(), dest: localizedDest })}
                 </h2>
-                <p className="text-gray-500 text-sm mb-8">{p.tipsSubtitle}</p>
+                <p className="text-slate text-sm mb-8">{p.tipsSubtitle}</p>
                 <ol className="flex flex-col gap-4">
                   {tips.map((tip) => (
-                    <li key={tip.n} className="flex gap-4 bg-white rounded-2xl p-5 shadow-sm border border-gray-100">
-                      <span className="flex-shrink-0 flex items-center justify-center w-9 h-9 rounded-full bg-blue-600 text-white text-sm font-black shadow-sm shadow-blue-200">
+                    <li key={tip.n} className="flex gap-4 bg-white rounded-[22px] p-5 shadow-hard border-[1.6px] border-ink">
+                      <span className="flex-shrink-0 flex items-center justify-center w-9 h-9 rounded-full bg-electric text-white text-sm font-bold ">
                         {tip.n}
                       </span>
                       <div>
-                        <h3 className="font-bold text-gray-900 mb-1">{tip.title}</h3>
-                        <p className="text-gray-600 text-sm leading-relaxed">{tip.text}</p>
+                        <h3 className="font-bold text-ink mb-1">{tip.title}</h3>
+                        <p className="text-slate text-sm leading-relaxed">{tip.text}</p>
                       </div>
                     </li>
                   ))}
@@ -530,27 +531,27 @@ export default async function ComboPage({
 
               {/* ⑦ FAQ section */}
               <section aria-label="Frequently asked questions" className="mb-10">
-                <h2 className="text-2xl font-extrabold text-gray-900 mb-8">
+                <h2 className="text-2xl font-bold text-ink mb-8">
                   {p.faqTitle}
                 </h2>
                 <div className="flex flex-col gap-3">
                   {faqs.map((faq, i) => (
                     <details
                       key={i}
-                      className="group bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden"
+                      className="group bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard overflow-hidden"
                     >
-                      <summary className="flex items-center justify-between gap-4 px-6 py-4 cursor-pointer list-none select-none hover:bg-gray-50 transition-colors">
-                        <span className="font-semibold text-gray-900 text-sm lg:text-base pr-2">
+                      <summary className="flex items-center justify-between gap-4 px-6 py-4 cursor-pointer list-none select-none hover:bg-cream transition-colors">
+                        <span className="font-semibold text-ink text-sm lg:text-base pr-2">
                           {faq.q}
                         </span>
-                        <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gray-100 group-open:bg-blue-100 flex items-center justify-center transition-colors">
-                          <span className="text-gray-500 group-open:text-blue-600 text-xs font-bold group-open:rotate-45 inline-block transition-transform duration-150">
+                        <span className="flex-shrink-0 w-6 h-6 rounded-full bg-lavender-soft group-open:bg-lavender flex items-center justify-center transition-colors">
+                          <span className="text-slate group-open:text-electric text-xs font-bold group-open:rotate-45 inline-block transition-transform duration-150">
                             +
                           </span>
                         </span>
                       </summary>
                       <div className="px-6 pb-5 pt-1">
-                        <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+                        <p className="text-slate text-sm leading-relaxed">{faq.a}</p>
                       </div>
                     </details>
                   ))}
@@ -558,7 +559,7 @@ export default async function ComboPage({
               </section>
 
               {/* Affiliate disclosure */}
-              <p className="text-xs text-gray-500 leading-relaxed">
+              <p className="text-xs text-slate leading-relaxed">
                 {dict.footer.disclosureText}
               </p>
             </div>
@@ -568,17 +569,17 @@ export default async function ComboPage({
               <div className="sticky top-6 flex flex-col gap-5">
 
                 {/* Quick CTA */}
-                <div className={`bg-gradient-to-br ${cat.gradient} rounded-3xl p-6 text-white relative overflow-hidden`}>
+                <div className={` ${toneFromGradient(cat.gradient)} rounded-[28px] p-6 text-white relative overflow-hidden`}>
                   <div className="absolute inset-0 bg-black/20" />
                   <div className="relative">
                     <p className="text-3xl mb-2">{cat.emoji}</p>
-                    <h3 className="font-extrabold text-lg mb-1">{p.ctaTitle}</h3>
+                    <h3 className="font-bold text-lg mb-1">{p.ctaTitle}</h3>
                     <p className="text-white/70 text-xs mb-4 leading-relaxed">{p.ctaDesc}</p>
                     <a
                       href={bookingUrl}
                       target="_blank"
                       rel="noopener noreferrer sponsored"
-                      className="block text-center bg-white text-gray-900 font-bold text-sm py-3 px-4 rounded-xl hover:bg-gray-50 transition-colors shadow-lg"
+                      className="block text-center bg-white text-ink font-bold text-sm py-3 px-4 rounded-xl hover:bg-cream transition-colors shadow-hard"
                     >
                       {p.ctaButton} →
                     </a>
@@ -587,27 +588,27 @@ export default async function ComboPage({
 
                 {/* Stats summary */}
                 {comboHotels.length > 0 && (
-                  <div className="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm">
+                  <div className="bg-white rounded-[22px] p-5 border-[1.6px] border-ink shadow-hard">
                     <div className="grid grid-cols-2 gap-4">
                       {minPrice && (
                         <div className="text-center">
-                          <p className="text-2xl font-black text-gray-900">€{minPrice}</p>
-                          <p className="text-gray-500 text-xs mt-0.5">{p.fromPerNight}</p>
+                          <p className="text-2xl font-bold text-ink">€{minPrice}</p>
+                          <p className="text-slate text-xs mt-0.5">{p.fromPerNight}</p>
                         </div>
                       )}
                       {avgRating && (
                         <div className="text-center">
-                          <p className="text-2xl font-black text-gray-900">{avgRating}/10</p>
-                          <p className="text-gray-500 text-xs mt-0.5">{p.avgRating}</p>
+                          <p className="text-2xl font-bold text-ink">{avgRating}/10</p>
+                          <p className="text-slate text-xs mt-0.5">{p.avgRating}</p>
                         </div>
                       )}
                       <div className="text-center">
-                        <p className="text-2xl font-black text-gray-900">{freeCount}</p>
-                        <p className="text-gray-500 text-xs mt-0.5">{p.noPetFee}</p>
+                        <p className="text-2xl font-bold text-ink">{freeCount}</p>
+                        <p className="text-slate text-xs mt-0.5">{p.noPetFee}</p>
                       </div>
                       <div className="text-center">
-                        <p className="text-2xl font-black text-gray-900">{comboHotels.length}</p>
-                        <p className="text-gray-500 text-xs mt-0.5">{p.handpicked}</p>
+                        <p className="text-2xl font-bold text-ink">{comboHotels.length}</p>
+                        <p className="text-slate text-xs mt-0.5">{p.handpicked}</p>
                       </div>
                     </div>
                   </div>
@@ -624,16 +625,16 @@ export default async function ComboPage({
                     { month: 'long' }
                   )
                   return (
-                    <div className="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm">
-                      <h3 className="font-bold text-gray-900 text-sm mb-3">
+                    <div className="bg-white rounded-[22px] p-5 border-[1.6px] border-ink shadow-hard">
+                      <h3 className="font-bold text-ink text-sm mb-3">
                         🌡️ {locale === 'fr' ? 'Météo ce mois' : locale === 'es' ? 'Clima este mes' : locale === 'pt' ? 'Clima este mês' : 'Weather this month'}
                       </h3>
                       <div className="flex items-center gap-3">
                         <span className="text-3xl">{w?.icon ?? '🌡️'}</span>
                         <div>
-                          <p className="text-2xl font-black text-gray-900">{w?.temp ?? '?'}°C</p>
-                          <p className="text-xs text-gray-500">{w?.desc}</p>
-                          <p className="text-xs text-gray-500 capitalize">{monthName}</p>
+                          <p className="text-2xl font-bold text-ink">{w?.temp ?? '?'}°C</p>
+                          <p className="text-xs text-slate">{w?.desc}</p>
+                          <p className="text-xs text-slate capitalize">{monthName}</p>
                         </div>
                       </div>
                     </div>
@@ -642,8 +643,8 @@ export default async function ComboPage({
 
                 {/* Other categories in this destination */}
                 {relatedByDest.length > 0 && (
-                  <div className="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm">
-                    <h3 className="font-bold text-gray-900 text-sm mb-4">
+                  <div className="bg-white rounded-[22px] p-5 border-[1.6px] border-ink shadow-hard">
+                    <h3 className="font-bold text-ink text-sm mb-4">
                       {t(p.moreInDest, { dest: localizedDest })}
                     </h3>
                     <ul className="flex flex-col gap-2">
@@ -651,7 +652,7 @@ export default async function ComboPage({
                         <li key={c.slug}>
                           <Link
                             href={`/${locale}/${dest.slug}/${c.slug}`}
-                            className="flex items-center gap-2 text-sm text-gray-600 hover:text-blue-600 transition-colors py-1"
+                            className="flex items-center gap-2 text-sm text-slate hover:text-electric transition-colors py-1"
                           >
                             <span>{c.emoji}</span>
                             <span>{getCategoryName(c, locale as Locale)} {t(p.inCity, { dest: localizedDest })}</span>
@@ -664,8 +665,8 @@ export default async function ComboPage({
 
                 {/* Same category, other destinations */}
                 {relatedByCategory.length > 0 && (
-                  <div className="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm">
-                    <h3 className="font-bold text-gray-900 text-sm mb-4">
+                  <div className="bg-white rounded-[22px] p-5 border-[1.6px] border-ink shadow-hard">
+                    <h3 className="font-bold text-ink text-sm mb-4">
                       {t(p.catElsewhere, { cat: catName })}
                     </h3>
                     <ul className="flex flex-col gap-2">
@@ -673,7 +674,7 @@ export default async function ComboPage({
                         <li key={d.slug}>
                           <Link
                             href={`/${locale}/${d.slug}/${cat.slug}`}
-                            className="flex items-center gap-2 text-sm text-gray-600 hover:text-blue-600 transition-colors py-1"
+                            className="flex items-center gap-2 text-sm text-slate hover:text-electric transition-colors py-1"
                           >
                             <span>{d.flag}</span>
                             <span>{catName} {t(p.inCity, { dest: d.name })}</span>
@@ -692,16 +693,16 @@ export default async function ComboPage({
         {/* ── Related guides (mobile + bottom) ── */}
         <section
           aria-label="Related guides"
-          className="bg-white border-t border-gray-100 py-14"
+          className="bg-white border-t border-line py-14"
         >
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-xl font-extrabold text-gray-900 mb-8">{p.relatedTitle}</h2>
+            <h2 className="text-xl font-bold text-ink mb-8">{p.relatedTitle}</h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
               {relatedByDest.map((c) => (
                 <Link
                   key={c.slug}
                   href={`/${locale}/${dest.slug}/${c.slug}`}
-                  className={`group relative overflow-hidden rounded-2xl bg-gradient-to-br ${c.gradient} p-5 shadow-sm hover:shadow-md transition-all duration-200 hover:-translate-y-0.5`}
+                  className={`group relative overflow-hidden rounded-[22px] ${toneFromGradient(c.gradient)} p-5 transition-all duration-200 hover:-translate-y-0.5`}
                 >
                   <div className="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors" />
                   <div className="relative">
@@ -717,7 +718,7 @@ export default async function ComboPage({
                 <Link
                   key={d.slug}
                   href={`/${locale}/${d.slug}/${cat.slug}`}
-                  className="group relative overflow-hidden rounded-2xl bg-gradient-to-br from-slate-700 to-slate-900 p-5 shadow-sm hover:shadow-md transition-all duration-200 hover:-translate-y-0.5"
+                  className="group relative overflow-hidden rounded-[22px] p-5 transition-all duration-200 hover:-translate-y-0.5 bg-night"
                 >
                   <div className="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors" />
                   <div className="relative">
@@ -734,17 +735,17 @@ export default async function ComboPage({
         {/* ── Bottom CTA banner ── */}
         <section
           aria-label="Booking call to action"
-          className="bg-gradient-to-br from-slate-900 to-blue-950 py-16"
+          className="py-16 bg-night"
         >
           <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <span className="text-5xl block mb-4">{cat.emoji}</span>
-            <h2 className="text-3xl font-extrabold text-white mb-3">{p.ctaTitle}</h2>
-            <p className="text-blue-200 text-base mb-8 max-w-xl mx-auto">{p.ctaDesc}</p>
+            <h2 className="text-3xl font-bold text-white mb-3">{p.ctaTitle}</h2>
+            <p className="text-lavender text-base mb-8 max-w-xl mx-auto">{p.ctaDesc}</p>
             <a
               href={bookingUrl}
               target="_blank"
               rel="noopener noreferrer sponsored"
-              className="inline-flex items-center gap-2 bg-gradient-to-r from-blue-500 to-indigo-600 hover:from-blue-600 hover:to-indigo-700 text-white font-bold px-8 py-4 rounded-2xl text-lg transition-all duration-200 shadow-xl hover:-translate-y-0.5"
+              className="inline-flex items-center gap-2 text-white font-bold px-8 py-4 rounded-[22px] text-lg transition-all duration-200 shadow-hard hover:-translate-y-0.5 bg-electric"
             >
               {p.ctaButton} →
             </a>

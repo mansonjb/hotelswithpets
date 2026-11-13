@@ -133,16 +133,16 @@ export default function ContactForm({ locale, defaultType = 'autre' }: { locale:
 
   if (status === 'ok') {
     return (
-      <div className="bg-emerald-50 border border-emerald-200 rounded-2xl p-6 text-center">
+      <div className="bg-lavender-soft border-[1.6px] border-ink rounded-[22px] p-6 text-center">
         <div className="text-3xl mb-2" aria-hidden="true">✓</div>
-        <h2 className="text-lg font-bold text-emerald-900 mb-1">{t.successTitle}</h2>
-        <p className="text-sm text-emerald-800">{t.successBody}</p>
+        <h2 className="text-lg font-bold text-ink mb-1">{t.successTitle}</h2>
+        <p className="text-sm text-ink">{t.successBody}</p>
       </div>
     )
   }
 
-  const inputCls = 'w-full rounded-lg border border-stone-300 px-3 py-2.5 text-sm text-stone-900 focus:outline-none focus:ring-2 focus:ring-sky-600 focus:border-sky-600'
-  const labelCls = 'block text-sm font-semibold text-stone-800 mb-1.5'
+  const inputCls = 'w-full rounded-lg border border-line px-3 py-2.5 text-sm text-ink focus:outline-none focus:ring-2 focus:ring-sky-600 focus:border-sky-600'
+  const labelCls = 'block text-sm font-semibold text-ink mb-1.5'
 
   return (
     <form onSubmit={onSubmit} className="space-y-4" noValidate>
@@ -151,11 +151,11 @@ export default function ContactForm({ locale, defaultType = 'autre' }: { locale:
 
       <div className="grid sm:grid-cols-2 gap-4">
         <div>
-          <label htmlFor="c-name" className={labelCls}>{t.name} <span className="text-rose-500 font-normal text-xs">({t.required})</span></label>
+          <label htmlFor="c-name" className={labelCls}>{t.name} <span className="text-ink font-normal text-xs">({t.required})</span></label>
           <input id="c-name" name="name" type="text" required maxLength={120} className={inputCls} />
         </div>
         <div>
-          <label htmlFor="c-email" className={labelCls}>{t.email} <span className="text-rose-500 font-normal text-xs">({t.required})</span></label>
+          <label htmlFor="c-email" className={labelCls}>{t.email} <span className="text-ink font-normal text-xs">({t.required})</span></label>
           <input id="c-email" name="email" type="email" required maxLength={160} className={inputCls} />
         </div>
       </div>
@@ -173,18 +173,18 @@ export default function ContactForm({ locale, defaultType = 'autre' }: { locale:
       </div>
 
       <div>
-        <label htmlFor="c-message" className={labelCls}>{t.message} <span className="text-rose-500 font-normal text-xs">({t.required})</span></label>
+        <label htmlFor="c-message" className={labelCls}>{t.message} <span className="text-ink font-normal text-xs">({t.required})</span></label>
         <textarea id="c-message" name="message" required maxLength={5000} rows={6} className={inputCls} />
       </div>
 
-      {status === 'error' && <p className="text-sm text-rose-700 bg-rose-50 border border-rose-200 rounded-lg px-3 py-2">{t.errorGeneric}</p>}
-      {status === 'config' && <p className="text-sm text-amber-800 bg-amber-50 border border-amber-200 rounded-lg px-3 py-2">{t.errorConfig} <a href="mailto:contact@hotelswithpets.com" className="underline font-semibold">contact@hotelswithpets.com</a></p>}
-      {status === 'fields' && <p className="text-sm text-rose-700 bg-rose-50 border border-rose-200 rounded-lg px-3 py-2">{t.errorFields}</p>}
+      {status === 'error' && <p className="text-sm text-ink bg-lavender-soft border border-line rounded-lg px-3 py-2">{t.errorGeneric}</p>}
+      {status === 'config' && <p className="text-sm text-ink bg-lime/30 border border-line rounded-lg px-3 py-2">{t.errorConfig} <a href="mailto:contact@hotelswithpets.com" className="underline font-semibold">contact@hotelswithpets.com</a></p>}
+      {status === 'fields' && <p className="text-sm text-ink bg-lavender-soft border border-line rounded-lg px-3 py-2">{t.errorFields}</p>}
 
-      <button type="submit" disabled={status === 'sending'} className="inline-flex items-center justify-center gap-2 bg-sky-700 text-white font-bold text-sm px-6 py-3 rounded-lg hover:bg-sky-800 disabled:opacity-60 transition-colors">
+      <button type="submit" disabled={status === 'sending'} className="inline-flex items-center justify-center gap-2 bg-electric text-white font-bold text-sm px-6 py-3 rounded-lg hover:bg-electric disabled:opacity-60 transition-colors">
         {status === 'sending' ? t.sending : t.submit}
       </button>
-      <p className="text-xs text-stone-500">{t.privacy}</p>
+      <p className="text-xs text-slate">{t.privacy}</p>
     </form>
   )
 }

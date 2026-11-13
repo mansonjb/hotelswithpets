@@ -24,10 +24,10 @@ export default async function AffiliateDisclosurePage({ params }: { params: Prom
   if (!hasLocale(locale)) notFound()
 
   return (
-    <div className="min-h-screen bg-gray-50 py-16">
+    <div className="min-h-screen bg-cream py-16">
       <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h1 className="text-3xl font-extrabold text-gray-900 mb-8">Affiliate Disclosure</h1>
-        <div className="bg-white rounded-2xl p-8 border border-gray-100 shadow-sm prose prose-gray max-w-none">
+        <h1 className="text-3xl font-bold text-ink mb-8">Affiliate Disclosure</h1>
+        <div className="bg-white rounded-[22px] p-8 border-[1.6px] border-ink shadow-hard prose prose-gray max-w-none">
           <p>
             HotelsWithPets.com participates in affiliate programmes, including the Booking.com Affiliate Partner Programme.
             This means that when you click on a hotel link and make a booking, we may receive a commission at no additional cost to you.
@@ -49,7 +49,7 @@ export default async function AffiliateDisclosurePage({ params }: { params: Prom
           <p>
             If you have any questions about our affiliate relationships or how we select hotels, please visit our <a href={`/${locale}/about`}>About page</a>.
           </p>
-          <p className="text-sm text-gray-500">Last updated: {new Date().getFullYear()}</p>
+          <p className="text-sm text-slate">Last updated: {new Date().getFullYear()}</p>
         </div>
       </div>
     </div>

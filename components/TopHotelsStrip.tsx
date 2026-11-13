@@ -92,12 +92,12 @@ export default function TopHotelsStrip({ locale, destinationSlugs, campaign, hea
   const subLocalized = (sub ?? DEFAULT_SUB)[langKey] ?? (sub ?? DEFAULT_SUB).en
 
   return (
-    <section className="py-14 bg-gradient-to-b from-white to-amber-50/40 border-y border-amber-100">
+    <section className="py-14 border-y border-line bg-lavender-soft">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-10">
-          <p className="text-xs font-bold uppercase tracking-widest text-amber-700 mb-2">🏨 {headingLocalized.toUpperCase()}</p>
-          <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900">{headingLocalized}</h2>
-          <p className="text-gray-600 text-sm lg:text-base mt-2 max-w-2xl mx-auto">{subLocalized}</p>
+          <p className="text-xs font-bold uppercase tracking-widest text-ink mb-2">🏨 {headingLocalized.toUpperCase()}</p>
+          <h2 className="text-2xl lg:text-3xl font-bold text-ink">{headingLocalized}</h2>
+          <p className="text-slate text-sm lg:text-base mt-2 max-w-2xl mx-auto">{subLocalized}</p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
           {items.map(({ hotel, dest, imgRel, hasPhoto, href, cityName, countryName }) => {
@@ -108,29 +108,29 @@ export default function TopHotelsStrip({ locale, destinationSlugs, campaign, hea
                 href={href}
                 target="_blank"
                 rel="sponsored noopener noreferrer"
-                className="group bg-white rounded-2xl border border-amber-200 overflow-hidden shadow-sm hover:shadow-lg transition-shadow flex flex-col"
+                className="group bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard overflow-hidden hover:shadow-hard transition-shadow flex flex-col"
               >
-                <div className="relative h-44 bg-gray-100">
+                <div className="relative h-44 bg-lavender-soft">
                   {hasPhoto && (
                     <Image src={imgRel} alt={`${hotel.name}, pet-friendly hotel in ${dest.name}`} fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover" />
                   )}
-                  <div className="absolute top-2 left-2 bg-white/95 backdrop-blur-sm px-2 py-1 rounded-full text-xs font-bold text-amber-700">
+                  <div className="absolute top-2 left-2 bg-white/95 backdrop-blur-sm px-2 py-1 rounded-full text-xs font-bold text-ink">
                     {'★'.repeat(hotel.stars)}
                   </div>
-                  <div className="absolute top-2 right-2 bg-white/95 backdrop-blur-sm px-2 py-1 rounded-full text-xs font-bold text-blue-700">
+                  <div className="absolute top-2 right-2 bg-white/95 backdrop-blur-sm px-2 py-1 rounded-full text-xs font-bold text-electric">
                     {hotel.rating}/10
                   </div>
                 </div>
                 <div className="p-4 flex-1 flex flex-col">
-                  <p className="text-[11px] font-semibold uppercase tracking-wide text-amber-700">{dest.flag} {cityName}, {countryName}</p>
-                  <h3 className="text-base font-extrabold text-gray-900 mt-1 leading-tight line-clamp-2">{hotel.name}</h3>
-                  <p className="text-xs text-gray-500 mt-1">{petFeeText}</p>
+                  <p className="text-[11px] font-semibold uppercase tracking-wide text-ink">{dest.flag} {cityName}, {countryName}</p>
+                  <h3 className="text-base font-bold text-ink mt-1 leading-tight line-clamp-2">{hotel.name}</h3>
+                  <p className="text-xs text-slate mt-1">{petFeeText}</p>
                   <div className="flex items-baseline gap-2 mt-3">
-                    <span className="text-xl font-extrabold text-gray-900">€{hotel.priceFrom}</span>
-                    <span className="text-xs text-gray-500">{L.perNight}</span>
+                    <span className="text-xl font-bold text-ink">€{hotel.priceFrom}</span>
+                    <span className="text-xs text-slate">{L.perNight}</span>
                   </div>
                   <span
-                    className="mt-3 inline-flex items-center justify-center gap-1.5 text-sm font-bold px-3 py-2 rounded-lg text-white shadow-sm group-hover:shadow-md transition-shadow"
+                    className="mt-3 inline-flex items-center justify-center gap-1.5 text-sm font-bold px-3 py-2 rounded-lg text-white group-hover:shadow-md transition-shadow"
                     style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)' }}
                   >
                     {L.bookCta}

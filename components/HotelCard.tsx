@@ -64,7 +64,7 @@ export default function HotelCard({ hotel, dict, locale, destName, destCountry }
   const policyText = localizedPetPolicy(hotel, locale)
 
   return (
-    <article className="group bg-white rounded-3xl overflow-hidden border border-gray-100 shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 flex flex-col">
+    <article className="group bg-white rounded-[28px] overflow-hidden border-[1.6px] border-ink shadow-hard hover:-translate-y-1 transition-all duration-300 flex flex-col">
 
       {/* ── Image ── */}
       <div className="relative h-52 overflow-hidden flex-shrink-0">
@@ -79,19 +79,19 @@ export default function HotelCard({ hotel, dict, locale, destName, destCountry }
         <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent" />
 
         {/* Rating badge, top left */}
-        <div className="absolute top-3 left-3 flex items-center gap-1.5 bg-white/95 backdrop-blur-sm rounded-xl px-2.5 py-1.5 shadow-sm">
-          <span className="text-blue-600 font-black text-sm leading-none">{hotel.rating}</span>
-          <span className="text-gray-400 text-xs leading-none">{formatReviews(hotel.reviewCount)}</span>
+        <div className="absolute top-3 left-3 flex items-center gap-1.5 bg-white border-[1.6px] border-ink rounded-full px-3 py-1.5 ">
+          <span className="text-electric font-bold text-sm leading-none">{hotel.rating}</span>
+          <span className="text-slate text-xs leading-none">{formatReviews(hotel.reviewCount)}</span>
         </div>
 
         {/* Pet fee badge, top right */}
         <div className="absolute top-3 right-3">
           {isFree ? (
-            <span className="flex items-center gap-1 bg-emerald-500 text-white text-xs font-bold px-2.5 py-1.5 rounded-xl shadow-sm">
+            <span className="flex items-center gap-1 bg-electric text-white border-[1.6px] border-ink text-xs font-bold px-3 py-1.5 rounded-full ">
               <span>🐾</span> {dict.free}
             </span>
           ) : (
-            <span className="flex items-center gap-1 bg-amber-400 text-gray-900 text-xs font-bold px-2.5 py-1.5 rounded-xl shadow-sm">
+            <span className="flex items-center gap-1 bg-lime text-ink border-[1.6px] border-ink text-xs font-bold px-3 py-1.5 rounded-full ">
               {dict.petFee}: €{hotel.petFee}
             </span>
           )}
@@ -110,20 +110,20 @@ export default function HotelCard({ hotel, dict, locale, destName, destCountry }
 
         {/* Name + rating label */}
         <div>
-          <h3 className="font-bold text-gray-900 text-base leading-snug mb-0.5 group-hover:text-blue-700 transition-colors line-clamp-2">
+          <h3 className="font-display font-semibold text-ink text-base leading-snug mb-0.5 group-hover:text-electric transition-colors line-clamp-2">
             <Link href={`/${locale}/hotels/${hotel.slug}`} className="hover:underline">
               {hotel.name}
             </Link>
           </h3>
-          <p className="text-xs text-gray-400 font-medium">
+          <p className="text-xs text-slate font-medium">
             {ratingLabel(hotel.rating, locale)}
-            <span className="mx-1.5 text-gray-200">·</span>
+            <span className="mx-1.5 text-line">·</span>
             {formatReviews(hotel.reviewCount)} {dict.reviews}
           </p>
         </div>
 
         {/* Pet policy, minimal strip */}
-        <div className={`rounded-xl px-3 py-2.5 text-xs leading-relaxed ${isFree ? 'bg-emerald-50 text-emerald-800' : 'bg-blue-50 text-blue-800'}`}>
+        <div className={`rounded-xl px-3 py-2.5 text-xs leading-relaxed ${isFree ? 'bg-lavender-soft text-ink' : 'bg-lavender-soft text-ink'}`}>
           <span className="font-semibold uppercase tracking-wide text-[10px] block mb-0.5 opacity-70">
             🐾 {dict.petPolicy}
           </span>
@@ -134,7 +134,7 @@ export default function HotelCard({ hotel, dict, locale, destName, destCountry }
         {hotel.highlights.length > 0 && (
           <div className="flex flex-wrap gap-1">
             {hotel.highlights.slice(0, 3).map((h) => (
-              <span key={h} className="text-[11px] bg-gray-50 border border-gray-100 text-gray-500 px-2 py-0.5 rounded-full">
+              <span key={h} className="text-[11px] bg-cream border border-line text-slate px-2 py-0.5 rounded-full">
                 {h}
               </span>
             ))}
@@ -142,12 +142,12 @@ export default function HotelCard({ hotel, dict, locale, destName, destCountry }
         )}
 
         {/* Price + CTA */}
-        <div className="mt-auto pt-3 border-t border-gray-50 flex items-center justify-between gap-3">
+        <div className="mt-auto pt-3 border-t border-line flex items-center justify-between gap-3">
           <div>
-            <p className="text-[10px] text-gray-400 uppercase tracking-widest">{dict.from}</p>
-            <p className="text-xl font-black text-gray-900 leading-tight">
+            <p className="text-[10px] text-slate uppercase tracking-widest">{dict.from}</p>
+            <p className="text-xl font-bold text-ink leading-tight">
               {hotel.currency === 'EUR' ? '€' : hotel.currency}{hotel.priceFrom}
-              <span className="text-xs font-normal text-gray-400 ml-1">{dict.perNight}</span>
+              <span className="text-xs font-normal text-slate ml-1">{dict.perNight}</span>
             </p>
           </div>
           <a
@@ -155,7 +155,7 @@ export default function HotelCard({ hotel, dict, locale, destName, destCountry }
             target="_blank"
             rel="noopener noreferrer sponsored"
             aria-label={`Book ${hotel.name}`}
-            className="flex-shrink-0 bg-blue-600 hover:bg-blue-700 text-white font-bold px-4 py-2.5 rounded-xl text-xs tracking-wide transition-all duration-150 shadow-sm hover:shadow-blue-200 hover:shadow-md whitespace-nowrap"
+            className="flex-shrink-0 bg-ink text-white font-semibold px-5 py-3 rounded-full border-[1.6px] border-ink text-sm transition-transform duration-150 hover:-translate-x-0.5 hover:-translate-y-0.5 whitespace-nowrap"
           >
             {dict.book} →
           </a>

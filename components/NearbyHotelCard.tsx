@@ -128,7 +128,7 @@ export default function NearbyHotelCard({
 
   if (variant === 'full') {
     return (
-      <div className="mt-4 mb-2 rounded-2xl border border-amber-200 bg-gradient-to-br from-amber-50 to-orange-50 overflow-hidden">
+      <div className="mt-4 mb-2 rounded-[22px] border-[1.6px] border-ink shadow-hard overflow-hidden bg-lavender-soft">
         <div className="flex">
           {hasPhoto && (
             <div className="relative w-32 sm:w-44 flex-shrink-0">
@@ -136,20 +136,20 @@ export default function NearbyHotelCard({
             </div>
           )}
           <div className="flex-1 p-4 min-w-0">
-            <p className="text-[10px] font-bold text-amber-700 uppercase tracking-widest mb-1">🏨 {label}</p>
-            <h4 className="text-base font-extrabold text-gray-900 truncate">{hotel.name}</h4>
-            <p className="text-xs text-gray-500 mt-0.5">
-              {'★'.repeat(hotel.stars)} · <span className="font-semibold text-blue-700">{hotel.rating}/10</span> {L.ratingLabel} · {petFeeText}
+            <p className="text-[10px] font-bold text-ink uppercase tracking-widest mb-1">🏨 {label}</p>
+            <h4 className="text-base font-bold text-ink truncate">{hotel.name}</h4>
+            <p className="text-xs text-slate mt-0.5">
+              {'★'.repeat(hotel.stars)} · <span className="font-semibold text-electric">{hotel.rating}/10</span> {L.ratingLabel} · {petFeeText}
             </p>
             <div className="flex items-baseline gap-2 mt-2 mb-2">
-              <span className="text-lg font-extrabold text-gray-900">€{hotel.priceFrom}</span>
-              <span className="text-xs text-gray-500">{L.perNight}</span>
+              <span className="text-lg font-bold text-ink">€{hotel.priceFrom}</span>
+              <span className="text-xs text-slate">{L.perNight}</span>
             </div>
             <a
               href={stay22Href}
               target="_blank"
               rel="sponsored noopener noreferrer"
-              className="inline-flex items-center gap-1.5 text-sm font-bold px-3 py-1.5 rounded-lg text-white shadow-sm hover:shadow-md transition-shadow"
+              className="inline-flex items-center gap-1.5 text-sm font-bold px-3 py-1.5 rounded-lg text-white transition-shadow"
               style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)' }}
             >
               {L.bookCta}
@@ -166,7 +166,7 @@ export default function NearbyHotelCard({
       href={stay22Href}
       target="_blank"
       rel="sponsored noopener noreferrer"
-      className="group mt-3 flex items-center gap-3 rounded-xl border border-amber-200 bg-amber-50/70 hover:bg-amber-50 px-3 py-2.5 transition-colors"
+      className="group mt-3 flex items-center gap-3 rounded-xl border border-line bg-lime/30 hover:bg-lime/50 px-3 py-2.5 transition-colors"
     >
       {hasPhoto && (
         <div className="relative w-14 h-14 rounded-lg overflow-hidden flex-shrink-0">
@@ -174,13 +174,13 @@ export default function NearbyHotelCard({
         </div>
       )}
       <div className="flex-1 min-w-0">
-        <p className="text-[10px] font-bold text-amber-700 uppercase tracking-wide leading-tight">🏨 {label}</p>
-        <p className="text-sm font-bold text-gray-900 truncate leading-tight">{hotel.name}</p>
-        <p className="text-[11px] text-gray-500 leading-tight">
+        <p className="text-[10px] font-bold text-ink uppercase tracking-wide leading-tight">🏨 {label}</p>
+        <p className="text-sm font-bold text-ink truncate leading-tight">{hotel.name}</p>
+        <p className="text-[11px] text-slate leading-tight">
           {'★'.repeat(hotel.stars)} · {hotel.rating}/10 · €{hotel.priceFrom}{L.perNight} · {petFeeText}
         </p>
       </div>
-      <span className="text-orange-500 group-hover:translate-x-0.5 transition-transform text-lg flex-shrink-0">→</span>
+      <span className="text-ink group-hover:translate-x-0.5 transition-transform text-lg flex-shrink-0">→</span>
     </a>
   )
 }

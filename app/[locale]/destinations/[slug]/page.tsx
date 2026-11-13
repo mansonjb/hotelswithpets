@@ -159,14 +159,14 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
   const hasGuide = existsSync(join(process.cwd(), `data/city-guides/${slug}.json`))
 
   const GUIDES = [
-    { slug: 'restaurants', emoji: '🍽️', en: 'Restaurants',     fr: 'Restaurants',       es: 'Restaurantes',          gradient: 'from-orange-500 to-amber-500' },
-    { slug: 'parks',       emoji: '🌳', en: 'Parks & Walks',   fr: 'Parcs & Balades',   es: 'Parques y Paseos',      gradient: 'from-emerald-500 to-teal-500' },
-    { slug: 'transport',   emoji: '🚇', en: 'Transport',        fr: 'Transport',          es: 'Transporte',            gradient: 'from-blue-500 to-cyan-500' },
-    { slug: 'beaches',     emoji: '🏖️', en: 'Beaches',          fr: 'Plages',             es: 'Playas',                gradient: 'from-cyan-500 to-blue-400' },
-    { slug: 'attractions', emoji: '🏛️', en: 'Attractions',      fr: 'À visiter',          es: 'Qué ver',               gradient: 'from-indigo-500 to-violet-500' },
-    { slug: 'petsitting',  emoji: '🐶', en: 'Pet Sitting',      fr: 'Garde animaux',      es: 'Cuidado mascotas',      gradient: 'from-pink-500 to-rose-400' },
-    { slug: 'vets',        emoji: '🏥', en: 'Vets',             fr: 'Vétérinaires',       es: 'Veterinarios',          gradient: 'from-red-500 to-rose-500' },
-    { slug: 'tips',        emoji: '💡', en: 'Local Tips',       fr: 'Conseils locaux',    es: 'Consejos locales',      gradient: 'from-violet-500 to-purple-600' },
+    { slug: 'restaurants', emoji: '🍽️', en: 'Restaurants',     fr: 'Restaurants',       es: 'Restaurantes',          gradient: 'bg-coral' },
+    { slug: 'parks',       emoji: '🌳', en: 'Parks & Walks',   fr: 'Parcs & Balades',   es: 'Parques y Paseos',      gradient: 'bg-lime' },
+    { slug: 'transport',   emoji: '🚇', en: 'Transport',        fr: 'Transport',          es: 'Transporte',            gradient: 'bg-electric' },
+    { slug: 'beaches',     emoji: '🏖️', en: 'Beaches',          fr: 'Plages',             es: 'Playas',                gradient: 'bg-lavender' },
+    { slug: 'attractions', emoji: '🏛️', en: 'Attractions',      fr: 'À visiter',          es: 'Qué ver',               gradient: 'bg-coral' },
+    { slug: 'petsitting',  emoji: '🐶', en: 'Pet Sitting',      fr: 'Garde animaux',      es: 'Cuidado mascotas',      gradient: 'bg-lime' },
+    { slug: 'vets',        emoji: '🏥', en: 'Vets',             fr: 'Vétérinaires',       es: 'Veterinarios',          gradient: 'bg-electric' },
+    { slug: 'tips',        emoji: '💡', en: 'Local Tips',       fr: 'Conseils locaux',    es: 'Consejos locales',      gradient: 'bg-lavender' },
   ]
 
   const base = 'https://www.hotelswithpets.com'
@@ -241,9 +241,9 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       )}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(destSchema) }} />
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-cream">
       {/* Hero */}
-      <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-20 relative overflow-hidden">
+      <section className="text-white py-20 relative overflow-hidden bg-electric border-b-[1.6px] border-ink">
         {/* City landmark photo background */}
         {dest.heroImage && (
           <div className="absolute inset-0 overflow-hidden pointer-events-none">
@@ -252,7 +252,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
               alt={dest.name}
               fill
               sizes="100vw"
-              className="object-cover opacity-20"
+              className="object-cover opacity-25 mix-blend-multiply"
               priority
             />
           </div>
@@ -262,30 +262,30 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         </div>
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center gap-3 mb-4">
-            <Link href={`/${locale}/destinations`} className="inline-flex items-center gap-1 text-blue-300 hover:text-white hover:underline underline-offset-4 text-sm font-medium transition-colors">
+            <Link href={`/${locale}/destinations`} className="inline-flex items-center gap-1 text-lavender hover:text-white hover:underline underline-offset-4 text-sm font-medium transition-colors">
               {dict.pages.destination.back}
             </Link>
           </div>
           <div className="flex items-center gap-6">
             <span className="text-6xl lg:text-8xl">{dest.flag}</span>
             <div>
-              <h1 className="text-4xl lg:text-6xl font-extrabold mb-2">{localizedName}</h1>
-              <p className="text-blue-300 text-lg">
+              <h1 className="font-display text-4xl lg:text-6xl font-bold mb-2">{localizedName}</h1>
+              <p className="eyebrow text-lime text-sm">
                 <Link
                   href={`/${locale}/countries/${dest.country.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`}
-                  className="hover:text-white transition-colors underline decoration-blue-500/30 hover:decoration-white/50"
+                  className="hover:text-white transition-colors underline decoration-lime/60 underline-offset-4 hover:decoration-white"
                 >
                   {localizedCountry}
                 </Link>
               </p>
-              <p className="text-blue-200 text-base mt-2 max-w-2xl leading-relaxed">{localeIntro}</p>
+              <p className="text-lavender text-base mt-2 max-w-2xl leading-relaxed">{localeIntro}</p>
               {/* Price + hotel count stats */}
               {destHotels.length > 0 && (
                 <div className="flex flex-wrap items-center gap-4 mt-4">
-                  <span className="inline-flex items-center gap-1.5 bg-white/10 rounded-full px-4 py-1.5 text-sm text-white/90">
+                  <span className="inline-flex items-center gap-1.5 bg-white border-[1.6px] border-ink shadow-hard-sm rounded-full px-4 py-1.5 text-sm font-medium text-ink">
                     🏨 {destHotels.length} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : locale === 'de' ? 'Hotels' : locale === 'nl' ? 'hotels' : locale === 'it' ? 'hotel' : 'hotels'}
                   </span>
-                  <span className="inline-flex items-center gap-1.5 bg-white/10 rounded-full px-4 py-1.5 text-sm text-white/90">
+                  <span className="inline-flex items-center gap-1.5 bg-white border-[1.6px] border-ink shadow-hard-sm rounded-full px-4 py-1.5 text-sm font-medium text-ink">
                     💶 {locale === 'fr' ? 'Dès' : locale === 'es' ? 'Desde' : locale === 'pt' ? 'Desde' : locale === 'de' ? 'Ab' : locale === 'nl' ? 'Vanaf' : locale === 'it' ? 'Da' : 'From'} €{Math.min(...destHotels.map(h => h.priceFrom).filter(Boolean))}{locale === 'de' ? '/Nacht' : locale === 'nl' ? '/nacht' : locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : locale === 'it' ? '/notte' : '/night'}
                   </span>
                 </div>
@@ -344,15 +344,15 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         if (!alert) return null
         const guideLabel = locale === 'fr' ? 'Voir le guide complet' : locale === 'es' ? 'Ver guía completa' : locale === 'pt' ? 'Ver guia completo' : locale === 'de' ? 'Vollständigen Leitfaden ansehen' : locale === 'nl' ? 'Bekijk de volledige gids' : locale === 'it' ? 'Vedi la guida completa' : 'See full guide'
         return (
-          <div className="bg-amber-50 border-b border-amber-100">
+          <div className="bg-lime/30 border-b border-line">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
               <div className="flex items-start justify-between gap-4 flex-wrap">
-                <p className="text-sm text-amber-800 flex items-start gap-2 flex-1">
+                <p className="text-sm text-ink flex items-start gap-2 flex-1">
                   <span className="flex-shrink-0 text-base">{alert.icon}</span>
                   <span><strong>{locale === 'fr' ? 'Attention passeport animal :' : locale === 'es' ? 'Atención pasaporte mascota:' : locale === 'pt' ? 'Atenção passaporte animal:' : locale === 'de' ? 'Achtung Heimtierausweis:' : locale === 'nl' ? 'Let op dierenpaspoort:' : locale === 'it' ? 'Attenzione passaporto animale:' : 'Pet passport alert:'}</strong> {alert.text}</span>
                 </p>
                 <Link href={`/${locale}/guides/passeport-animal`}
-                  className="flex-shrink-0 text-xs font-semibold text-amber-700 hover:text-amber-900 bg-amber-100 hover:bg-amber-200 border border-amber-200 px-3 py-1.5 rounded-full transition-colors whitespace-nowrap">
+                  className="flex-shrink-0 text-xs font-semibold text-ink hover:text-ink bg-lime hover:bg-lime border border-line px-3 py-1.5 rounded-full transition-colors whitespace-nowrap">
                   {guideLabel} →
                 </Link>
               </div>
@@ -374,16 +374,16 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         }
         const wc = WCOPY[locale] ?? WCOPY.en
         return (
-          <section className="bg-gradient-to-br from-sky-600 to-cyan-700 text-white">
+          <section className="text-white bg-electric">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex flex-col sm:flex-row sm:items-center gap-4">
               <div className="flex-1">
-                <p className="text-xs font-bold uppercase tracking-widest text-sky-200 mb-1">☀️ {wc.kicker}</p>
-                <h2 className="text-lg lg:text-xl font-extrabold leading-tight mb-1">{wc.title}</h2>
-                <p className="text-sky-50 text-sm leading-relaxed max-w-2xl">{wc.desc}</p>
+                <p className="text-xs font-bold uppercase tracking-widest text-lavender mb-1">☀️ {wc.kicker}</p>
+                <h2 className="text-lg lg:text-xl font-bold leading-tight mb-1">{wc.title}</h2>
+                <p className="text-white text-sm leading-relaxed max-w-2xl">{wc.desc}</p>
               </div>
               <Link
                 href={`/${locale}/guides/${WINTER_HUB_SLUG}`}
-                className="flex-shrink-0 inline-block bg-white text-sky-700 font-bold px-5 py-2.5 rounded-full hover:bg-sky-50 transition-colors shadow-lg text-center text-sm"
+                className="flex-shrink-0 inline-block bg-white text-electric font-bold px-5 py-2.5 rounded-full hover:bg-lime transition-colors shadow-hard text-center text-sm"
               >
                 {wc.cta}
               </Link>
@@ -471,16 +471,16 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         ]
         return (
           <section className="mx-4 sm:mx-6 lg:mx-8 my-8">
-            <div className="bg-gradient-to-br from-stone-900 to-stone-800 rounded-3xl overflow-hidden">
+            <div className="rounded-[28px] overflow-hidden bg-night">
               {/* Header */}
               <div className="px-6 sm:px-10 pt-8 pb-6">
-                <span className="inline-block bg-amber-400 text-stone-900 text-xs font-black px-3 py-1 rounded-full mb-4">
+                <span className="inline-block bg-lime text-ink text-xs font-bold px-3 py-1 rounded-full mb-4">
                   {tpa.badge}
                 </span>
-                <h2 className="text-3xl font-extrabold text-white mb-2 leading-tight">
+                <h2 className="text-3xl font-bold text-white mb-2 leading-tight">
                   {tpa.title}
                 </h2>
-                <p className="text-stone-300 text-sm">
+                <p className="text-lavender text-sm">
                   {tpa.subtitle}
                 </p>
               </div>
@@ -503,7 +503,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                       />
                       <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
                       <div className="absolute bottom-0 left-0 right-0 p-2">
-                        <p className="text-white font-black text-sm leading-none">{a.slug}</p>
+                        <p className="text-white font-bold text-sm leading-none">{a.slug}</p>
                         <p className="text-white/80 text-xs mt-0.5 leading-tight">{a.popularName}</p>
                       </div>
                     </Link>
@@ -515,7 +515,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
               <div className="px-6 sm:px-10 pb-8 flex flex-col sm:flex-row gap-3">
                 <Link
                   href={`/${locale}/destinations/paris/arrondissements`}
-                  className="flex-1 sm:flex-none inline-flex items-center justify-center bg-white text-stone-900 font-bold px-6 py-3 rounded-xl hover:bg-stone-100 transition-colors text-sm text-center"
+                  className="flex-1 sm:flex-none inline-flex items-center justify-center bg-white text-ink font-bold px-6 py-3 rounded-xl hover:bg-lime transition-colors text-sm text-center"
                 >
                   {tpa.cta1} →
                 </Link>
@@ -533,12 +533,12 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
 
       {/* ── Map (high-conversion: first booking came from this component) ── */}
       {'lat' in dest && 'lng' in dest && (
-        <section className="py-10 bg-gray-50 border-b border-gray-100">
+        <section className="py-10 bg-cream border-b border-line">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-2">
+            <h2 className="text-2xl font-bold text-ink mb-2">
               🗺️ {locale === 'fr' ? `Carte des hôtels pet-friendly à ${localizedName}` : locale === 'es' ? `Mapa de hoteles pet-friendly en ${localizedName}` : locale === 'pt' ? `Mapa de hotéis pet-friendly em ${localizedName}` : locale === 'de' ? `Karte haustierfreundlicher Hotels: ${localizedName}` : locale === 'nl' ? `Kaart van huisdiervriendelijke hotels: ${localizedName}` : locale === 'it' ? `Mappa degli hotel pet-friendly a ${localizedName}` : `Pet-friendly hotel map: ${localizedName}`}
             </h2>
-            <p className="text-sm text-gray-500 mb-5">
+            <p className="text-sm text-slate mb-5">
               {locale === 'fr'
                 ? `Tous les hôtels acceptant les animaux à ${localizedName}, directement depuis Booking.com, cliquez sur un marqueur pour voir le prix et réserver.`
                 : locale === 'es'
@@ -586,32 +586,32 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         }
 
         return (
-          <section className="bg-white border-b border-gray-100 py-10">
+          <section className="bg-white border-b border-line py-10">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               {/* Stats row */}
               <div className="flex flex-wrap gap-3 mb-8">
                 {destHotels.length > 0 && (
-                  <div className="flex items-center gap-2 bg-blue-50 rounded-2xl px-5 py-3">
-                    <span className="text-2xl font-black text-blue-700">{destHotels.length}</span>
-                    <span className="text-sm text-blue-600">{statsLabel.hotels}</span>
+                  <div className="flex items-center gap-2 bg-lavender-soft rounded-[22px] px-5 py-3">
+                    <span className="text-2xl font-bold text-electric">{destHotels.length}</span>
+                    <span className="text-sm text-electric">{statsLabel.hotels}</span>
                   </div>
                 )}
                 {avgRating && (
-                  <div className="flex items-center gap-2 bg-amber-50 rounded-2xl px-5 py-3">
-                    <span className="text-2xl font-black text-amber-600">⭐ {avgRating}</span>
-                    <span className="text-sm text-amber-700">{statsLabel.rating}</span>
+                  <div className="flex items-center gap-2 bg-lime/30 rounded-[22px] px-5 py-3">
+                    <span className="text-2xl font-bold text-ink">⭐ {avgRating}</span>
+                    <span className="text-sm text-ink">{statsLabel.rating}</span>
                   </div>
                 )}
                 {freeCount > 0 && (
-                  <div className="flex items-center gap-2 bg-emerald-50 rounded-2xl px-5 py-3">
-                    <span className="text-2xl font-black text-emerald-700">{freeCount}</span>
-                    <span className="text-sm text-emerald-600">{statsLabel.free}</span>
+                  <div className="flex items-center gap-2 bg-lavender-soft rounded-[22px] px-5 py-3">
+                    <span className="text-2xl font-bold text-ink">{freeCount}</span>
+                    <span className="text-sm text-ink">{statsLabel.free}</span>
                   </div>
                 )}
                 {minPrice && (
-                  <div className="flex items-center gap-2 bg-gray-50 rounded-2xl px-5 py-3">
-                    <span className="text-2xl font-black text-gray-800">{statsLabel.from} €{minPrice}</span>
-                    <span className="text-sm text-gray-500">{statsLabel.night}</span>
+                  <div className="flex items-center gap-2 bg-cream rounded-[22px] px-5 py-3">
+                    <span className="text-2xl font-bold text-ink">{statsLabel.from} €{minPrice}</span>
+                    <span className="text-sm text-slate">{statsLabel.night}</span>
                   </div>
                 )}
               </div>
@@ -620,19 +620,19 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
               {ctx && (
                 <div className="grid md:grid-cols-3 gap-6">
                   {/* Why this city */}
-                  <div className="md:col-span-1 bg-indigo-50 rounded-2xl p-6">
-                    <p className="text-xs font-bold uppercase tracking-widest text-indigo-400 mb-2">{statsLabel.whyTitle}</p>
-                    <p className="text-gray-800 text-sm leading-relaxed">{localizedName} {locale === 'fr' ? 'est' : locale === 'es' ? 'es' : locale === 'pt' ? 'é' : locale === 'de' ? 'ist' : locale === 'nl' ? 'is' : locale === 'it' ? 'è' : 'is'} {ctx.personality}.</p>
+                  <div className="md:col-span-1 bg-lavender-soft rounded-[22px] p-6">
+                    <p className="text-xs font-bold uppercase tracking-widest text-electric mb-2">{statsLabel.whyTitle}</p>
+                    <p className="text-ink text-sm leading-relaxed">{localizedName} {locale === 'fr' ? 'est' : locale === 'es' ? 'es' : locale === 'pt' ? 'é' : locale === 'de' ? 'ist' : locale === 'nl' ? 'is' : locale === 'it' ? 'è' : 'is'} {ctx.personality}.</p>
                   </div>
                   {/* Top spot */}
-                  <div className="bg-emerald-50 rounded-2xl p-6">
-                    <p className="text-xs font-bold uppercase tracking-widest text-emerald-500 mb-2">📍 {statsLabel.highlight}</p>
-                    <p className="text-gray-800 text-sm leading-relaxed">{ctx.highlight}.</p>
+                  <div className="bg-lavender-soft rounded-[22px] p-6">
+                    <p className="text-xs font-bold uppercase tracking-widest text-ink mb-2">📍 {statsLabel.highlight}</p>
+                    <p className="text-ink text-sm leading-relaxed">{ctx.highlight}.</p>
                   </div>
                   {/* Best area */}
-                  <div className="bg-amber-50 rounded-2xl p-6">
-                    <p className="text-xs font-bold uppercase tracking-widest text-amber-500 mb-2">🏘️ {statsLabel.area}</p>
-                    <p className="text-gray-800 text-sm leading-relaxed">{ctx.area}.</p>
+                  <div className="bg-lime/30 rounded-[22px] p-6">
+                    <p className="text-xs font-bold uppercase tracking-widest text-ink mb-2">🏘️ {statsLabel.area}</p>
+                    <p className="text-ink text-sm leading-relaxed">{ctx.area}.</p>
                   </div>
                 </div>
               )}
@@ -644,7 +644,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
       {/* Hotels */}
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-8">
+          <h2 className="text-2xl font-bold text-ink mb-8">
             {p.hotelsTitle}: {localizedName}
           </h2>
           {destHotels.length > 0 ? (
@@ -654,7 +654,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
               ))}
             </div>
           ) : (
-            <div className="text-center py-16 text-gray-500">
+            <div className="text-center py-16 text-slate">
               <span className="text-5xl block mb-4">🏨</span>
               <p className="text-lg">{dict.pages.combo.noHotels}</p>
             </div>
@@ -665,8 +665,8 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
       {/* Quick navigation strip - mid-page internal links */}
       {quickLinks.length > 0 && (
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 my-6">
-          <div className="bg-gradient-to-r from-blue-50 to-teal-50 border border-blue-100 rounded-2xl px-5 py-4">
-            <p className="text-xs font-semibold text-blue-600 uppercase tracking-wide mb-3">
+          <div className="border-[1.6px] border-ink shadow-hard rounded-[22px] px-5 py-4 bg-lavender-soft">
+            <p className="text-xs font-semibold text-electric uppercase tracking-wide mb-3">
               {locale === 'fr' ? `Aussi en ${getLocalizedCountryName(dest.country, 'fr')}` : locale === 'es' ? `También en ${getLocalizedCountryName(dest.country, 'es')}` : locale === 'pt' ? `Também em ${getLocalizedCountryName(dest.country, 'pt')}` : locale === 'de' ? `Auch in ${getLocalizedCountryName(dest.country, 'de')}` : locale === 'nl' ? `Ook in ${getLocalizedCountryName(dest.country, 'nl')}` : locale === 'it' ? `Anche in ${getLocalizedCountryName(dest.country, 'it')}` : `Also in ${dest.country}`}
             </p>
             <div className="flex flex-wrap gap-2">
@@ -674,7 +674,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                 <Link
                   key={d.slug}
                   href={`/${locale}/destinations/${d.slug}`}
-                  className="inline-flex items-center gap-1.5 bg-white border border-blue-200 rounded-full px-3 py-1.5 text-sm font-medium text-blue-700 hover:bg-blue-50 transition-colors"
+                  className="inline-flex items-center gap-1.5 bg-white border border-line rounded-full px-3 py-1.5 text-sm font-medium text-electric hover:bg-lavender-soft transition-colors"
                 >
                   <span>{d.flag}</span>
                   <span>{getLocalizedCityName(d.slug, d.name, locale)}</span>
@@ -697,30 +697,30 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         const petFriendlyLabel = locale === 'fr' ? 'Accès animaux' : locale === 'es' ? 'Acceso mascotas' : locale === 'pt' ? 'Aceita animais' : locale === 'de' ? 'Tiere erlaubt' : locale === 'nl' ? 'Huisdieren toegestaan' : locale === 'it' ? 'Animali ammessi' : 'Pet-friendly'
         const restrictedLabel = locale === 'fr' ? 'Animaux non admis' : locale === 'es' ? 'No mascotas' : locale === 'pt' ? 'Animais não admitidos' : locale === 'de' ? 'Tiere nicht erlaubt' : locale === 'nl' ? 'Geen huisdieren toegestaan' : locale === 'it' ? 'Animali non ammessi' : 'Pets restricted'
         return (
-          <section className="py-14 bg-white border-b border-gray-100">
+          <section className="py-14 bg-white border-b border-line">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
               {/* History */}
               <div className="max-w-3xl mb-12">
-                <h2 className="text-2xl font-extrabold text-gray-900 mb-4">{historyTitle}</h2>
-                <p className="text-gray-600 leading-relaxed text-[15px]">{cc.history[lang]}</p>
+                <h2 className="text-2xl font-bold text-ink mb-4">{historyTitle}</h2>
+                <p className="text-slate leading-relaxed text-[15px]">{cc.history[lang]}</p>
               </div>
 
               {/* Sights */}
-              <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{sightsTitle}</h2>
+              <h2 className="text-2xl font-bold text-ink mb-6">{sightsTitle}</h2>
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-6">
                 {cc.sights.map((sight) => (
-                  <div key={sight.name} className="bg-gray-50 rounded-2xl p-5 border border-gray-100">
+                  <div key={sight.name} className="bg-cream rounded-[22px] p-5 border-[1.6px] border-ink shadow-hard">
                     <div className="flex items-start gap-3 mb-2">
                       <span className="text-2xl flex-shrink-0">{sight.emoji}</span>
                       <div className="flex-1 min-w-0">
                         <div className="flex items-center gap-2 flex-wrap mb-1">
-                          <h3 className="font-bold text-gray-900 text-sm">{sight.name}</h3>
-                          <span className={`text-[10px] font-semibold px-2 py-0.5 rounded-full ${sight.petFriendly ? 'bg-emerald-50 text-emerald-600 border border-emerald-100' : 'bg-amber-50 text-amber-600 border border-amber-100'}`}>
+                          <h3 className="font-bold text-ink text-sm">{sight.name}</h3>
+                          <span className={`text-[10px] font-semibold px-2 py-0.5 rounded-full ${sight.petFriendly ? 'bg-lavender-soft text-ink border border-line' : 'bg-lime/30 text-ink border border-line'}`}>
                             {sight.petFriendly ? `✓ ${petFriendlyLabel}` : `⚠ ${restrictedLabel}`}
                           </span>
                         </div>
-                        <p className="text-xs text-gray-500 leading-relaxed">{sight.desc[lang]}</p>
+                        <p className="text-xs text-slate leading-relaxed">{sight.desc[lang]}</p>
                       </div>
                     </div>
                   </div>
@@ -730,26 +730,26 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
               {/* Pet tips + Practical side by side */}
               <div className="grid md:grid-cols-2 gap-8">
                 <div>
-                  <h2 className="text-lg font-extrabold text-gray-900 mb-4 flex items-center gap-2">
+                  <h2 className="text-lg font-bold text-ink mb-4 flex items-center gap-2">
                     <span>🐾</span> {petsTitle}
                   </h2>
                   <ul className="space-y-3">
                     {cc.petTips[lang].map((tip, i) => (
-                      <li key={i} className="flex items-start gap-2.5 text-sm text-gray-600">
-                        <span className="flex-shrink-0 w-5 h-5 rounded-full bg-blue-100 text-blue-600 text-[10px] font-bold flex items-center justify-center mt-0.5">{i + 1}</span>
+                      <li key={i} className="flex items-start gap-2.5 text-sm text-slate">
+                        <span className="flex-shrink-0 w-5 h-5 rounded-full bg-lavender text-electric text-[10px] font-bold flex items-center justify-center mt-0.5">{i + 1}</span>
                         {tip}
                       </li>
                     ))}
                   </ul>
                 </div>
                 <div>
-                  <h2 className="text-lg font-extrabold text-gray-900 mb-4 flex items-center gap-2">
+                  <h2 className="text-lg font-bold text-ink mb-4 flex items-center gap-2">
                     <span>ℹ️</span> {practicalTitle}
                   </h2>
                   <ul className="space-y-2">
                     {cc.practicalInfo[lang].map((info, i) => (
-                      <li key={i} className="flex items-start gap-2.5 text-sm text-gray-600">
-                        <span className="text-gray-300 flex-shrink-0 mt-1">•</span>
+                      <li key={i} className="flex items-start gap-2.5 text-sm text-slate">
+                        <span className="text-white/70 flex-shrink-0 mt-1">•</span>
                         {info}
                       </li>
                     ))}
@@ -768,17 +768,17 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             {/* Section header */}
             <div className="mb-10">
-              <span className="inline-block bg-indigo-50 text-indigo-600 text-xs font-bold uppercase tracking-widest px-3 py-1.5 rounded-full mb-3">
+              <span className="inline-block bg-lavender-soft text-electric text-xs font-bold uppercase tracking-widest px-3 py-1.5 rounded-full mb-3">
                 🐾 {locale === 'fr' ? 'Guide voyage' : locale === 'es' ? 'Guía de viaje' : locale === 'pt' ? 'Guia de viagem' : locale === 'de' ? 'Reiseführer' : locale === 'nl' ? 'Reisgids' : locale === 'it' ? 'Guida di viaggio' : 'Travel guide'}
               </span>
-              <h2 className="text-3xl lg:text-4xl font-extrabold text-gray-900 mb-3 leading-tight">
+              <h2 className="text-3xl lg:text-4xl font-bold text-ink mb-3 leading-tight">
                 {locale === 'fr'
                   ? `Guide complet de ${localizedName} avec votre animal`
                   : locale === 'es'
                   ? `Guía completa de ${localizedName} con tu mascota`
                   : `Complete ${localizedName} pet travel guide`}
               </h2>
-              <p className="text-gray-500 text-lg max-w-2xl">
+              <p className="text-slate text-lg max-w-2xl">
                 {locale === 'fr'
                   ? `Restaurants, parcs, transports, plages, vétérinaires. Tout ce qu'il faut savoir pour ${localizedName} avec votre animal.`
                   : locale === 'es'
@@ -808,30 +808,30 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                   <Link
                     key={g.slug}
                     href={`/${locale}/destinations/${slug}/${g.slug}`}
-                    className="group relative overflow-hidden rounded-2xl bg-white border border-gray-100 hover:border-transparent shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-1 flex flex-col"
+                    className="group relative overflow-hidden rounded-[22px] bg-white border-[1.6px] border-ink shadow-hard hover:border-transparent hover:shadow-hard transition-all duration-300 hover:-translate-y-1 flex flex-col"
                   >
                     {/* Gradient top stripe */}
-                    <div className={`h-1.5 w-full bg-gradient-to-r ${g.gradient} flex-shrink-0`} />
+                    <div className={`h-1.5 w-full ${g.gradient} flex-shrink-0`} />
 
                     <div className="p-5 flex flex-col flex-1">
                       {/* Emoji + arrow row */}
                       <div className="flex items-start justify-between mb-3">
-                        <div className={`w-12 h-12 rounded-xl bg-gradient-to-br ${g.gradient} flex items-center justify-center text-2xl shadow-sm flex-shrink-0`}>
+                        <div className={`w-12 h-12 rounded-xl border-[1.6px] border-ink ${g.gradient} flex items-center justify-center text-2xl flex-shrink-0`}>
                           {g.emoji}
                         </div>
-                        <span className="text-gray-300 group-hover:text-gray-600 group-hover:translate-x-1 transition-all duration-200 text-lg font-light mt-1">
+                        <span className="text-slate group-hover:text-ink group-hover:translate-x-1 transition-all duration-200 text-lg font-light mt-1">
                           →
                         </span>
                       </div>
 
                       {/* Title */}
-                      <h3 className="font-bold text-gray-900 text-base leading-tight mb-1 group-hover:text-blue-700 transition-colors">
+                      <h3 className="font-bold text-ink text-base leading-tight mb-1 group-hover:text-electric transition-colors">
                         {label}
                       </h3>
 
                       {/* Description */}
                       {descText && (
-                        <p className="text-xs text-gray-500 leading-relaxed mt-auto pt-2">
+                        <p className="text-xs text-slate leading-relaxed mt-auto pt-2">
                           {descText}
                         </p>
                       )}
@@ -846,22 +846,22 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
 
       {/* Categories */}
       {presentCategories.length > 0 && (
-        <section className="py-16 bg-gray-50 border-t border-gray-100">
+        <section className="py-16 bg-cream border-t border-line">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-8">{p.categoriesTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-8">{p.categoriesTitle}</h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
               {presentCategories.map((cat) => (
                 <Link
                   key={cat.slug}
                   href={`/${locale}/${slug}/${cat.slug}`}
-                  className={`group relative overflow-hidden rounded-2xl bg-gradient-to-br ${cat.gradient} p-5 flex flex-col items-center text-center shadow-sm hover:shadow-lg transition-all duration-200 hover:-translate-y-1`}
+                  className={`group relative overflow-hidden rounded-[22px] border-[1.6px] border-ink bg-electric p-5 flex flex-col items-center text-center shadow-hard hover:shadow-[7px_7px_0_#151524] transition-all duration-200 hover:-translate-y-1`}
                 >
                   <div className="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors" />
                   <span className="relative text-3xl mb-2">{cat.emoji}</span>
                   <p className="relative text-white font-bold text-sm leading-tight">
                     {getCategoryName(cat, locale as Locale)}
                   </p>
-                  <p className="relative text-white/70 text-xs mt-1">{p.viewCombo}</p>
+                  <p className="relative text-white/90 text-xs mt-1">{p.viewCombo}</p>
                 </Link>
               ))}
             </div>
@@ -871,12 +871,12 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
 
       {/* Weather section */}
       {dest.weather && (
-        <section className="py-12 bg-white border-t border-gray-100">
+        <section className="py-12 bg-white border-t border-line">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-xl font-extrabold text-gray-900 mb-2">
+            <h2 className="text-xl font-bold text-ink mb-2">
               🌡️ {locale === 'fr' ? `Météo typique à ${localizedName}` : locale === 'es' ? `Clima típico en ${localizedName}` : locale === 'pt' ? `Clima típico em ${localizedName}` : locale === 'de' ? `Typisches Wetter in ${localizedName}` : locale === 'nl' ? `Typisch weer in ${localizedName}` : locale === 'it' ? `Clima tipico a ${localizedName}` : `Typical weather in ${localizedName}`}
             </h2>
-            <p className="text-sm text-gray-500 mb-6">
+            <p className="text-sm text-slate mb-6">
               {locale === 'fr' ? 'Températures moyennes. Idéal pour planifier votre séjour avec votre animal' : locale === 'es' ? 'Temperaturas medias. Ideal para planificar su estancia con su mascota' : locale === 'pt' ? 'Temperaturas médias. Ideal para planear a sua estadia com o seu animal' : locale === 'de' ? 'Durchschnittstemperaturen. Ideal für die Planung Ihrer Reise mit Tier' : locale === 'nl' ? 'Gemiddelde temperaturen. Ideaal om je reis met je huisdier te plannen' : locale === 'it' ? `Temperature medie. Ideale per pianificare il tuo viaggio con l'animale` : 'Average temperatures. Ideal for planning your pet trip'}
             </p>
             {(() => {
@@ -909,17 +909,17 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                             key={m}
                             className={`flex flex-col items-center rounded-2xl p-3 min-w-[72px] border transition-all ${
                               isCurrent
-                                ? 'bg-blue-600 text-white border-blue-600 shadow-md shadow-blue-200'
+                                ? 'bg-electric text-white border-ink shadow-hard-sm '
                                 : isBest
-                                ? 'bg-green-50 border-green-200 text-gray-900'
-                                : 'bg-gray-50 border-gray-100 text-gray-700'
+                                ? 'bg-lavender-soft border-line text-ink'
+                                : 'bg-cream border-line text-slate'
                             }`}
                           >
                             <span className="text-xs font-semibold uppercase tracking-wide opacity-70">{labels[m]}</span>
                             <span className="text-xl my-1">{w?.icon ?? '🌡️'}</span>
-                            <span className="text-lg font-black">{w?.temp ?? '?'}°</span>
+                            <span className="text-lg font-bold">{w?.temp ?? '?'}°</span>
                             {isBest && !isCurrent && (
-                              <span className="text-xs text-green-600 font-semibold mt-0.5">✓ Best</span>
+                              <span className="text-xs text-ink font-semibold mt-0.5">✓ Best</span>
                             )}
                           </div>
                         )
@@ -927,9 +927,9 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                     </div>
                   </div>
                   {bestMonths.length > 0 && (
-                    <p className="mt-4 text-sm text-gray-500">
+                    <p className="mt-4 text-sm text-slate">
                       🐾 {locale === 'fr' ? `Meilleurs mois pour voyager avec un animal à ${localizedName} : ` : locale === 'es' ? `Mejores meses para viajar con mascota en ${localizedName}: ` : locale === 'pt' ? `Melhores meses para viajar com animal em ${localizedName}: ` : locale === 'de' ? `Beste Monate für eine Reise mit Tier nach ${localizedName}: ` : locale === 'nl' ? `Beste maanden om met je huisdier naar ${localizedName} te reizen: ` : locale === 'it' ? `Mesi migliori per viaggiare con un animale a ${localizedName}: ` : `Best months to travel with a pet in ${localizedName}: `}
-                      <span className="font-semibold text-gray-700">
+                      <span className="font-semibold text-slate">
                         {bestMonths.map(m => (monthLabels[locale] ?? monthLabels.en)[m]).join(', ')}
                       </span>
                     </p>
@@ -947,16 +947,16 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
         const summerPeak = Math.max(w.jun?.temp ?? 0, w.jul?.temp ?? 0, w.aug?.temp ?? 0)
         const isHot = summerPeak >= 28
         return (
-          <section className={`py-10 border-t ${isHot ? 'bg-orange-50 border-orange-200' : 'bg-amber-50 border-amber-200'}`}>
+          <section className={`py-10 border-t ${isHot ? 'bg-lime/30 border-line' : 'bg-lime/30 border-line'}`}>
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="flex flex-col sm:flex-row sm:items-center gap-4 sm:gap-6">
                 <div className="flex-1">
-                  <h2 className="text-lg font-extrabold text-stone-900 mb-1">
+                  <h2 className="text-lg font-bold text-ink mb-1">
                     {isHot
                       ? `${localizedName} grimpe à ${summerPeak}°C l'été : préparez les pattes de votre chien`
                       : `Bien équiper son chien pour ${localizedName}`}
                   </h2>
-                  <p className="text-sm text-stone-700 leading-relaxed">
+                  <p className="text-sm text-ink leading-relaxed">
                     {isHot
                       ? `Au-dessus de 28°C l'asphalte brûle les coussinets et le coup de chaleur guette. Gourde nomade, tapis rafraîchissant, gilet à mouiller : notre sélection testée pour voyager l'esprit tranquille.`
                       : `Gourde nomade, harnais de sécurité voiture, gamelle pliante, trousse de secours : ce qu'on emporte vraiment pour partir avec son chien.`}
@@ -964,11 +964,11 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                 </div>
                 <div className="flex flex-wrap gap-2 sm:flex-shrink-0">
                   {isHot && (
-                    <Link href="/fr/accessoires-chien-chaleur" className="bg-orange-600 text-white px-5 py-2.5 rounded-full font-bold text-sm hover:bg-orange-700 transition-colors shadow-sm">
+                    <Link href="/fr/accessoires-chien-chaleur" className="bg-coral text-white px-5 py-2.5 rounded-full font-bold text-sm hover:bg-coral transition-colors ">
                       Kit anti-chaleur →
                     </Link>
                   )}
-                  <Link href="/fr/accessoires-chien" className={`px-5 py-2.5 rounded-full font-bold text-sm transition-colors shadow-sm ${isHot ? 'bg-white border border-orange-300 text-orange-900 hover:bg-orange-100' : 'bg-amber-600 text-white hover:bg-amber-700'}`}>
+                  <Link href="/fr/accessoires-chien" className={`px-5 py-2.5 rounded-full font-bold text-sm transition-colors ${isHot ? 'bg-white border border-line text-ink hover:bg-lime/30' : 'bg-coral text-white hover:bg-amber-700'}`}>
                     Accessoires chien →
                   </Link>
                 </div>
@@ -980,9 +980,9 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
 
       {/* Explore by category. Rich links */}
       {presentCategories.length > 0 && (
-        <section className="py-12 bg-gray-50 border-t border-gray-100">
+        <section className="py-12 bg-cream border-t border-line">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-xl font-extrabold text-gray-900 mb-6">
+            <h2 className="text-xl font-bold text-ink mb-6">
               {locale === 'fr' ? `Explorer les hôtels à ${localizedName} par type` : locale === 'es' ? `Explorar hoteles en ${localizedName} por tipo` : locale === 'pt' ? `Explorar hotéis em ${localizedName} por tipo` : locale === 'de' ? `Hotels in ${localizedName} nach Typ entdecken` : locale === 'nl' ? `Hotels in ${localizedName} verkennen op type` : locale === 'it' ? `Esplora gli hotel a ${localizedName} per tipologia` : `Explore ${localizedName} hotels by type`}
             </h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
@@ -993,14 +993,14 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                   <Link
                     key={cat.slug}
                     href={`/${locale}/${dest.slug}/${cat.slug}`}
-                    className="flex items-center gap-3 bg-white border border-gray-200 hover:border-blue-300 hover:bg-blue-50 rounded-2xl px-4 py-3 transition-all group"
+                    className="flex items-center gap-3 bg-white border-[1.6px] border-ink shadow-hard hover:border-ink hover:bg-lavender-soft rounded-[22px] px-4 py-3 transition-all group"
                   >
                     <span className="text-2xl">{cat.emoji}</span>
                     <div>
-                      <p className="font-semibold text-gray-900 text-sm group-hover:text-blue-700 transition-colors">{catName}</p>
-                      <p className="text-xs text-gray-500">{count} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : locale === 'de' ? 'Hotels' : locale === 'nl' ? 'hotels' : locale === 'it' ? 'hotel' : 'hotels'}</p>
+                      <p className="font-semibold text-ink text-sm group-hover:text-electric transition-colors">{catName}</p>
+                      <p className="text-xs text-slate">{count} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : locale === 'de' ? 'Hotels' : locale === 'nl' ? 'hotels' : locale === 'it' ? 'hotel' : 'hotels'}</p>
                     </div>
-                    <span className="ml-auto text-gray-300 group-hover:text-blue-400 transition-colors">→</span>
+                    <span className="ml-auto text-slate group-hover:text-electric transition-colors">→</span>
                   </Link>
                 )
               })}
@@ -1010,24 +1010,24 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
       )}
 
       {/* FAQ */}
-      <section className="py-16 bg-white border-t border-gray-100">
+      <section className="py-16 bg-white border-t border-line">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-8">
+          <h2 className="text-2xl font-bold text-ink mb-8">
             {locale === 'fr' ? 'Questions fréquentes' : locale === 'es' ? 'Preguntas frecuentes' : locale === 'pt' ? 'Perguntas frequentes' : locale === 'de' ? 'Häufig gestellte Fragen' : locale === 'nl' ? 'Veelgestelde vragen' : locale === 'it' ? 'Domande frequenti' : 'Frequently asked questions'}
           </h2>
           <div className="space-y-6">
             {faqs.map((faq, i) => (
               <details
                 key={i}
-                className="group bg-gray-50 rounded-2xl border border-gray-100 overflow-hidden"
+                className="group bg-cream rounded-[22px] border-[1.6px] border-ink shadow-hard overflow-hidden"
               >
-                <summary className="flex items-center justify-between gap-4 p-6 cursor-pointer list-none font-semibold text-gray-900 hover:bg-gray-100 transition-colors">
+                <summary className="flex items-center justify-between gap-4 p-6 cursor-pointer list-none font-semibold text-ink hover:bg-lavender transition-colors">
                   <span>{faq.q}</span>
-                  <span className="flex-shrink-0 w-6 h-6 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center text-sm font-black group-open:rotate-45 transition-transform">
+                  <span className="flex-shrink-0 w-6 h-6 rounded-full bg-lavender text-electric flex items-center justify-center text-sm font-bold group-open:rotate-45 transition-transform">
                     +
                   </span>
                 </summary>
-                <div className="px-6 pb-6 text-gray-600 text-sm leading-relaxed">
+                <div className="px-6 pb-6 text-slate text-sm leading-relaxed">
                   {faq.a}
                 </div>
               </details>

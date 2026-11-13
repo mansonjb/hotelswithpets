@@ -228,9 +228,9 @@ export default async function HotelPage({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(lodgingSchema) }} />
 
-      <div className="min-h-screen bg-gray-50">
+      <div className="min-h-screen bg-cream">
         {/* Hero */}
-        <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white relative overflow-hidden">
+        <section className="text-white relative overflow-hidden bg-night">
           {/* Hotel image */}
           <div className="relative h-72 md:h-96 overflow-hidden">
             <Image
@@ -247,7 +247,7 @@ export default async function HotelPage({
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8 -mt-32 relative">
             {/* Breadcrumb back link */}
             <div className="flex items-center gap-2 mb-6 text-sm">
-              <Link href={`/${locale}/destinations/${dest.slug}`} className="text-blue-300 hover:text-white transition-colors">
+              <Link href={`/${locale}/destinations/${dest.slug}`} className="text-lavender hover:text-white transition-colors">
                 {dest.flag} {localizedDest}
               </Link>
               <span className="text-white/30">/</span>
@@ -255,7 +255,7 @@ export default async function HotelPage({
             </div>
 
             {/* Hotel name + stars */}
-            <h1 className="text-3xl md:text-4xl font-extrabold mb-3 leading-tight">
+            <h1 className="text-3xl md:text-4xl font-bold mb-3 leading-tight">
               {hotel.name}
             </h1>
             <div className="flex flex-wrap items-center gap-3 mb-4">
@@ -263,7 +263,7 @@ export default async function HotelPage({
                 {'★'.repeat(hotel.stars)}{'☆'.repeat(5 - hotel.stars)}
               </span>
               <span className="flex items-center gap-1.5">
-                <span className="bg-blue-600 text-white text-sm font-black px-2.5 py-1 rounded-lg leading-none">
+                <span className="bg-electric text-white text-sm font-bold px-2.5 py-1 rounded-lg leading-none">
                   {hotel.rating}
                 </span>
                 <span className="text-white/80 text-sm font-semibold">{ratingLabel(hotel.rating)}</span>
@@ -278,11 +278,11 @@ export default async function HotelPage({
             {/* Pet fee badge */}
             <div className="mb-6">
               {hotel.petFee === 0 ? (
-                <span className="inline-flex items-center gap-1.5 bg-green-500 text-white text-sm font-bold px-3 py-1.5 rounded-full shadow">
+                <span className="inline-flex items-center gap-1.5 bg-electric text-white text-sm font-bold px-3 py-1.5 rounded-full shadow">
                   ✓ Free for pets
                 </span>
               ) : (
-                <span className="inline-flex items-center gap-1.5 bg-amber-400 text-gray-900 text-sm font-bold px-3 py-1.5 rounded-full shadow">
+                <span className="inline-flex items-center gap-1.5 bg-lime text-ink text-sm font-bold px-3 py-1.5 rounded-full shadow">
                   Pet fee: €{hotel.petFee}
                 </span>
               )}
@@ -298,23 +298,23 @@ export default async function HotelPage({
             <div className="min-w-0 space-y-6">
 
               {/* Pet policy box */}
-              <div className="bg-blue-50 border border-blue-100 rounded-2xl p-5">
+              <div className="bg-lavender-soft border-[1.6px] border-ink shadow-hard rounded-[22px] p-5">
                 <div className="flex items-center justify-between mb-2">
-                  <p className="text-xs font-bold text-blue-700 uppercase tracking-wide">Pet Policy</p>
-                  <span className="text-xs text-blue-400 font-medium">✓ Booking.com</span>
+                  <p className="text-xs font-bold text-electric uppercase tracking-wide">Pet Policy</p>
+                  <span className="text-xs text-lavender font-medium">✓ Booking.com</span>
                 </div>
-                <p className="text-gray-700 text-sm leading-relaxed">{locale === 'en' ? sanitizePetPolicy(hotel.petPolicy, hotel.petFee, locale) : localizedPetPolicy(hotel, locale)}</p>
+                <p className="text-slate text-sm leading-relaxed">{locale === 'en' ? sanitizePetPolicy(hotel.petPolicy, hotel.petFee, locale) : localizedPetPolicy(hotel, locale)}</p>
               </div>
 
               {/* Highlights */}
               {hotel.highlights.length > 0 && (
                 <div>
-                  <h2 className="text-lg font-bold text-gray-900 mb-3">Highlights</h2>
+                  <h2 className="text-lg font-bold text-ink mb-3">Highlights</h2>
                   <div className="flex flex-wrap gap-2">
                     {hotel.highlights.map((h) => (
                       <span
                         key={h}
-                        className="text-sm bg-white border border-gray-200 text-gray-700 px-3 py-1.5 rounded-full shadow-sm"
+                        className="text-sm bg-white border border-line text-slate px-3 py-1.5 rounded-full "
                       >
                         ✓ {h}
                       </span>
@@ -326,7 +326,7 @@ export default async function HotelPage({
               {/* Browse by category */}
               {hotelCategories.length > 0 && (
                 <div>
-                  <h2 className="text-lg font-bold text-gray-900 mb-3">
+                  <h2 className="text-lg font-bold text-ink mb-3">
                     {locale === 'fr'
                       ? `Parcourir les hôtels par type à ${localizedDest}`
                       : locale === 'es'
@@ -344,7 +344,7 @@ export default async function HotelPage({
                       <Link
                         key={cat.slug}
                         href={`/${locale}/${dest.slug}/${cat.slug}`}
-                        className="inline-flex items-center gap-1.5 text-sm bg-white border border-gray-200 text-gray-700 hover:border-blue-300 hover:text-blue-700 px-3 py-1.5 rounded-full shadow-sm transition-colors"
+                        className="inline-flex items-center gap-1.5 text-sm bg-white border border-line text-slate hover:border-ink hover:text-ink px-3 py-1.5 rounded-full transition-colors"
                       >
                         <span>{cat.emoji}</span>
                         <span>{getCatName(cat)} {locale === 'fr' ? 'à' : locale === 'es' ? 'en' : locale === 'pt' ? 'em' : locale === 'it' ? 'a' : 'in'} {localizedDest}</span>
@@ -357,7 +357,7 @@ export default async function HotelPage({
               {/* Related hotels */}
               {relatedHotels.length > 0 && (
                 <div>
-                  <h2 className="text-xl font-extrabold text-gray-900 mb-4">
+                  <h2 className="text-xl font-bold text-ink mb-4">
                     {locale === 'fr'
                       ? `Plus d'hôtels pet-friendly à ${localizedDest}`
                       : locale === 'es'
@@ -375,7 +375,7 @@ export default async function HotelPage({
                       <Link
                         key={rel.id}
                         href={`/${locale}/hotels/${rel.slug}`}
-                        className="group flex items-center gap-4 bg-white border border-gray-100 rounded-2xl p-4 shadow-sm hover:shadow-md hover:border-blue-200 transition-all"
+                        className="group flex items-center gap-4 bg-white border-[1.6px] border-ink rounded-[22px] p-4 shadow-hard hover:border-ink transition-all"
                       >
                         <div className="relative w-20 h-16 rounded-xl overflow-hidden flex-shrink-0">
                           <Image
@@ -387,19 +387,19 @@ export default async function HotelPage({
                           />
                         </div>
                         <div className="min-w-0 flex-1">
-                          <p className="font-bold text-gray-900 text-sm leading-snug group-hover:text-blue-700 transition-colors truncate">
+                          <p className="font-bold text-ink text-sm leading-snug group-hover:text-electric transition-colors truncate">
                             {rel.name}
                           </p>
                           <div className="flex items-center gap-2 mt-1">
                             <span className="text-amber-400 text-xs">{'★'.repeat(rel.stars)}</span>
-                            <span className="bg-blue-600 text-white text-xs font-bold px-1.5 py-0.5 rounded leading-none">
+                            <span className="bg-electric text-white text-xs font-bold px-1.5 py-0.5 rounded leading-none">
                               {rel.rating}
                             </span>
                           </div>
                         </div>
                         <div className="flex-shrink-0 text-right">
-                          <p className="text-lg font-black text-gray-900">€{rel.priceFrom}</p>
-                          <p className="text-xs text-gray-500">/night</p>
+                          <p className="text-lg font-bold text-ink">€{rel.priceFrom}</p>
+                          <p className="text-xs text-slate">/night</p>
                         </div>
                       </Link>
                     ))}
@@ -410,7 +410,7 @@ export default async function HotelPage({
               {/* Back link */}
               <Link
                 href={`/${locale}/destinations/${dest.slug}`}
-                className="inline-flex items-center gap-2 text-sm text-blue-600 hover:text-blue-800 font-medium transition-colors"
+                className="inline-flex items-center gap-2 text-sm text-electric hover:text-ink font-medium transition-colors"
               >
                 ← {locale === 'fr' ? `Retour à ${localizedDest}` : locale === 'es' ? `Volver a ${localizedDest}` : locale === 'pt' ? `Voltar a ${localizedDest}` : locale === 'de' ? `Zurück nach ${localizedDest}` : locale === 'nl' ? `Terug naar ${localizedDest}` : locale === 'it' ? `Torna a ${localizedDest}` : `Back to ${localizedDest}`}
               </Link>
@@ -418,24 +418,24 @@ export default async function HotelPage({
 
             {/* Right column. Sticky booking card */}
             <aside>
-              <div className="sticky top-6 bg-white rounded-3xl border border-gray-100 shadow-lg overflow-hidden">
-                <div className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 p-5 text-white">
+              <div className="sticky top-6 bg-white rounded-[28px] border-[1.6px] border-ink shadow-hard overflow-hidden">
+                <div className="p-5 text-white bg-night">
                   <p className="text-white/70 text-xs uppercase tracking-wide mb-1">
                     {locale === 'fr' ? 'À partir de' : locale === 'es' ? 'Desde' : locale === 'pt' ? 'Desde' : locale === 'de' ? 'Ab' : locale === 'nl' ? 'Vanaf' : locale === 'it' ? 'Da' : 'From'}
                   </p>
-                  <p className="text-4xl font-black leading-none">
+                  <p className="text-4xl font-bold leading-none">
                     €{hotel.priceFrom}
                     <span className="text-lg font-normal text-white/60 ml-1">/night</span>
                   </p>
                 </div>
                 <div className="p-5">
                   <div className="flex items-center gap-2 mb-4">
-                    <span className="bg-blue-600 text-white text-sm font-black px-2.5 py-1 rounded-lg leading-none">
+                    <span className="bg-electric text-white text-sm font-bold px-2.5 py-1 rounded-lg leading-none">
                       {hotel.rating}
                     </span>
                     <div>
-                      <p className="font-semibold text-gray-900 text-sm">{ratingLabel(hotel.rating)}</p>
-                      <p className="text-xs text-gray-500">
+                      <p className="font-semibold text-ink text-sm">{ratingLabel(hotel.rating)}</p>
+                      <p className="text-xs text-slate">
                         {hotel.reviewCount >= 1000
                           ? `${(hotel.reviewCount / 1000).toFixed(hotel.reviewCount >= 10000 ? 0 : 1)}k`
                           : hotel.reviewCount} reviews
@@ -445,11 +445,11 @@ export default async function HotelPage({
 
                   <div className="mb-4">
                     {hotel.petFee === 0 ? (
-                      <span className="inline-flex items-center gap-1 bg-green-50 text-green-700 text-xs font-semibold px-3 py-1.5 rounded-full border border-green-200">
+                      <span className="inline-flex items-center gap-1 bg-lavender-soft text-ink text-xs font-semibold px-3 py-1.5 rounded-full border border-line">
                         ✓ Free for pets
                       </span>
                     ) : (
-                      <span className="inline-flex items-center gap-1 bg-amber-50 text-amber-700 text-xs font-semibold px-3 py-1.5 rounded-full border border-amber-200">
+                      <span className="inline-flex items-center gap-1 bg-lime/30 text-ink text-xs font-semibold px-3 py-1.5 rounded-full border border-line">
                         Pet fee: €{hotel.petFee}
                       </span>
                     )}
@@ -459,7 +459,7 @@ export default async function HotelPage({
                     href={hotel.bookingUrl}
                     target="_blank"
                     rel="noopener noreferrer sponsored"
-                    className="block w-full text-center bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold px-6 py-3.5 rounded-2xl text-sm transition-all duration-200 shadow-md hover:shadow-lg hover:-translate-y-0.5"
+                    className="block w-full text-center text-white font-bold px-6 py-3.5 rounded-full border-[1.6px] border-ink text-sm transition-all duration-200 shadow-hard hover:shadow-[7px_7px_0_#151524] hover:-translate-y-0.5 bg-electric"
                   >
                     {locale === 'fr'
                       ? 'Réserver sur Booking.com →'
@@ -473,7 +473,7 @@ export default async function HotelPage({
                       ? 'Prenota su Booking.com →'
                       : 'Book on Booking.com →'}
                   </a>
-                  <p className="text-center text-xs text-gray-500 mt-3">
+                  <p className="text-center text-xs text-slate mt-3">
                     {locale === 'fr'
                       ? 'Via notre partenaire Booking.com'
                       : locale === 'es'

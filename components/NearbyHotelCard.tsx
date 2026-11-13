@@ -150,7 +150,7 @@ export default function NearbyHotelCard({
               target="_blank"
               rel="sponsored noopener noreferrer"
               className="inline-flex items-center gap-1.5 text-sm font-bold px-3 py-1.5 rounded-lg text-white transition-shadow"
-              style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)' }}
+              style={{ background: '#3024eb' }}
             >
               {L.bookCta}
             </a>

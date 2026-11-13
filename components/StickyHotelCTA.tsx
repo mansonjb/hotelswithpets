@@ -71,7 +71,7 @@ export default function StickyHotelCTA({
           target="_blank"
           rel="sponsored noopener noreferrer"
           className="flex-shrink-0 text-xs font-bold px-3 py-2 rounded-lg text-white"
-          style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)' }}
+          style={{ background: '#3024eb' }}
         >
           {cta}
         </a>

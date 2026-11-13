@@ -101,7 +101,7 @@ export default function TopHotels({ locale }: TopHotelsProps) {
                   {/* Pet fee badge, top right */}
                   <div className="absolute top-3 right-3">
                     {isFree ? (
-                      <span className="flex items-center gap-1 bg-lime text-white text-xs font-bold px-2.5 py-1.5 rounded-xl shadow-sm">
+                      <span className="flex items-center gap-1 bg-lime text-ink text-xs font-bold px-2.5 py-1.5 rounded-xl shadow-sm">
                         🐾 {locale === 'fr' ? 'Gratuit' : locale === 'es' ? 'Gratis' : locale === 'pt' ? 'Grátis' : locale === 'de' ? 'Kostenlos' : locale === 'nl' ? 'Gratis' : locale === 'it' ? 'Gratis' : 'Free'}
                       </span>
                     ) : (

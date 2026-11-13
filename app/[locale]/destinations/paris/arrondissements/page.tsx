@@ -158,7 +158,7 @@ export default async function Page({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
 
       {/* Hero */}
-      <section className="relative bg-gradient-to-br from-stone-900 via-slate-800 to-blue-900 text-white">
+      <section className="relative bg-night text-white">
         <div className="max-w-5xl mx-auto px-4 py-14 sm:py-20">
           <nav className="text-sm text-white/60 mb-5">
             <Link href={`/${locale}`} className="hover:text-white">Home</Link>

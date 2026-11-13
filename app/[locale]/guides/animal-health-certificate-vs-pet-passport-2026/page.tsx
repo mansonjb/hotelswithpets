@@ -841,14 +841,13 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       <section className="relative text-white py-20 bg-electric">
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_20%,rgba(255,255,255,0.08),transparent_60%)]" />
         <div className="relative max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
           <span className="inline-block bg-white/10 border border-white/20 text-white/80 text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-5">
             🛂 {c.hero.kicker}
           </span>
           <h1 className="text-4xl lg:text-5xl font-bold mb-6 leading-tight">{c.hero.h1}</h1>
           <div className="bg-white/10 backdrop-blur-sm border-[1.6px] border-white/15 rounded-[22px] p-6">
-            <p className="text-orange-100 text-base leading-relaxed">
+            <p className="text-lavender text-base leading-relaxed">
               <strong className="text-white">TL;DR, </strong>{c.hero.tldr}
             </p>
           </div>

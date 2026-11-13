@@ -455,7 +455,7 @@ export default async function Page({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       {/* Hero */}
-      <section className="relative bg-gradient-to-br from-stone-900 to-stone-700 text-white">
+      <section className="relative bg-night text-white">
         <div className="max-w-5xl mx-auto px-4 py-14 sm:py-20">
           {/* Breadcrumb */}
           <nav className="text-sm text-white/60 mb-5 relative z-10">

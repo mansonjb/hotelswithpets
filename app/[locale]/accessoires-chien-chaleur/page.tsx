@@ -83,13 +83,13 @@ export default async function Page({
             <span className="mx-2">/</span>
             <span className="text-white">Canicule</span>
           </nav>
-          <div className="text-sm font-semibold uppercase tracking-widest text-orange-100 mb-3">
+          <div className="text-sm font-semibold uppercase tracking-widest text-lavender mb-3">
             Spécial canicule 🔥
           </div>
           <h1 className="text-3xl sm:text-5xl font-bold leading-tight mb-4">
             Les meilleurs accessoires pour chien quand il fait chaud
           </h1>
-          <p className="text-lg text-orange-50 max-w-2xl">
+          <p className="text-lg text-lavender max-w-2xl">
             Gourde nomade, tapis rafraîchissant, gilet ventilé, bandana mouillé, gamelle
             pliante : ce qui fait vraiment la différence entre un chien qui survit l&apos;été
             et un chien qui en profite.

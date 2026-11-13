@@ -416,7 +416,6 @@ export default async function Page({
 
       {/* ── Hero ── */}
       <section className="relative overflow-hidden bg-electric text-white">
-        <div className="absolute inset-0 opacity-20 pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at 20% 20%, white 1px, transparent 1px)', backgroundSize: '28px 28px' }} />
         <div className="relative max-w-5xl mx-auto px-4 py-16 sm:py-24">
           <nav className="text-sm text-white/70 mb-6">
             <Link href="/fr" className="hover:text-white">Accueil</Link>

@@ -18,11 +18,21 @@ Un seul deploy final quand tout le site est refait et teste.
 - [x] Outils: scripts/restyle-map.mjs (remap de classes), lib/brandTone.ts (degrades pilotes par la donnee -> aplats de palette)
 
 ## Reste a faire (mis a jour)
-- [ ] guides/where-to-go-uk-school-holidays-2027/page.tsx: le script casse le JSX (apostrophes dans le texte), a restyler a la main
-- [ ] Passe visuelle fine (les pages ont ete remappees par script, pas retouchees une par une): images Stay22/carte a verifier en navigateur, contraste 4.5:1, mobile 375px, 7 locales
-- [ ] Remplacer les emojis-tuiles/fonds restants (classes dynamiques 'from-... to-...' restent comme donnees mortes dans quelques tableaux)
-- [ ] Composants non migres vers components/ui (HotelCard racine garde sa structure, juste restylee)
-- [ ] Anciennes cases ci-dessous partiellement obsoletes (voir Fait ci-dessus)
+Fait (run polish 2026-11-13):
+- [x] guides/where-to-go-uk-school-holidays-2027: rendu restyle a la main (tokens + aplats lavande/lime/corail/electric), plus de gradient
+- [x] Gradients restants remplaces par aplats: CTA inline orange->bleu (guides, villas, TopHotelsStrip, StickyHotelCTA) en electric, heros Paris en night, overlays radiaux decoratifs supprimes. Gardes volontairement: scrims noir->transparent sur photos (lisibilite), fade blanc du StickyHotelCTA, images OG (opengraph-image.tsx), tuiles deja en aplats via lib/brandTone
+- [x] Preload polices (Clash 600/700, General Sans 400/500) dans app/[locale]/layout.tsx
+- [x] Coherence contraste: TopHotels badge lime en encre; classes cassees par le remap corrigees (bg-lime/300/20, hover:bg-lime/30/60); text-orange-50/100 -> lavande
+- [x] CTA assureurs (7 pages assurance): couleur de marque INTENTIONNELLEMENT laissee telle quelle
+
+Reste pour la QA visuelle finale (proprietaire):
+- [ ] Contraste fin 4.5:1 en navigateur (texte sur lime/lavande, heros night, tuiles electric/night/ink)
+- [ ] Mobile 375px (guide vacances UK 2027, tuiles, tables assurance)
+- [ ] Verification des 7 locales en navigateur (next start + curl, lesson 2026-08-28); images Stay22/carte
+- [ ] Verifier le preload police dans l'onglet Network (pas de warning "preloaded but not used") et le CLS
+- [ ] Composants racine non migres vers components/ui (HotelCard racine restyle seulement)
+- [ ] Space Mono latin-ext absent; remplacement eventuel par une mono Fontshare
+- [ ] Puis UN seul deploy
 
 ## Reste a faire (ancien)
 ### Phase 2

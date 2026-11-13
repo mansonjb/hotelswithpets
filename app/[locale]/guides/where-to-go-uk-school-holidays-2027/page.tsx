@@ -861,18 +861,14 @@ const CAL_SUMMARY: Record<LocaleKey, { school: CalRow[]; public: CalHol[] }> = {
 // palette (icy winter -> spring green -> summer amber -> autumn rose -> festive)
 // makes each block instantly distinguishable instead of one flat wall. The last
 // period of every calendar is December, so it always gets the festive theme.
+// Per-period identity: flat palette blocks (no gradients), rotated by period.
 const THEMES = [
-  { band: 'from-indigo-500 to-sky-600', rail: 'border-indigo-200', cardHead: 'from-indigo-50 to-sky-50', numBg: 'text-indigo-700 bg-indigo-100', travelBox: 'bg-indigo-50 border-indigo-100', travelText: 'text-indigo-900' },
-  { band: 'from-cyan-500 to-blue-600', rail: 'border-cyan-200', cardHead: 'from-cyan-50 to-blue-50', numBg: 'text-cyan-700 bg-cyan-100', travelBox: 'bg-cyan-50 border-cyan-100', travelText: 'text-cyan-900' },
-  { band: 'from-emerald-500 to-teal-600', rail: 'border-emerald-200', cardHead: 'from-emerald-50 to-teal-50', numBg: 'text-emerald-700 bg-emerald-100', travelBox: 'bg-emerald-50 border-emerald-100', travelText: 'text-emerald-900' },
-  { band: 'from-lime-500 to-emerald-600', rail: 'border-lime-200', cardHead: 'from-lime-50 to-emerald-50', numBg: 'text-lime-700 bg-lime-100', travelBox: 'bg-lime-50 border-lime-100', travelText: 'text-lime-900' },
-  { band: 'from-teal-500 to-cyan-600', rail: 'border-teal-200', cardHead: 'from-teal-50 to-cyan-50', numBg: 'text-teal-700 bg-teal-100', travelBox: 'bg-teal-50 border-teal-100', travelText: 'text-teal-900' },
-  { band: 'from-amber-500 to-orange-600', rail: 'border-amber-200', cardHead: 'from-amber-50 to-orange-50', numBg: 'text-amber-700 bg-amber-100', travelBox: 'bg-amber-50 border-amber-100', travelText: 'text-amber-900' },
-  { band: 'from-orange-500 to-rose-600', rail: 'border-orange-200', cardHead: 'from-orange-50 to-rose-50', numBg: 'text-orange-700 bg-orange-100', travelBox: 'bg-orange-50 border-orange-100', travelText: 'text-orange-900' },
-  { band: 'from-amber-600 to-rose-700', rail: 'border-rose-200', cardHead: 'from-amber-50 to-rose-50', numBg: 'text-rose-700 bg-rose-100', travelBox: 'bg-rose-50 border-rose-100', travelText: 'text-rose-900' },
-  { band: 'from-rose-600 to-emerald-700', rail: 'border-emerald-200', cardHead: 'from-rose-50 to-emerald-50', numBg: 'text-rose-700 bg-rose-100', travelBox: 'bg-rose-50 border-rose-100', travelText: 'text-rose-900' },
+  { band: 'bg-lavender text-ink', rail: 'border-lavender', numBg: 'bg-lavender text-ink', travelBox: 'bg-lavender-soft' },
+  { band: 'bg-lime text-ink', rail: 'border-lime', numBg: 'bg-lime text-ink', travelBox: 'bg-cream' },
+  { band: 'bg-coral text-ink', rail: 'border-coral', numBg: 'bg-coral text-ink', travelBox: 'bg-cream' },
+  { band: 'bg-electric text-white', rail: 'border-electric', numBg: 'bg-electric text-white', travelBox: 'bg-lavender-soft' },
 ] as const
-const TIER_TEXT = ['text-emerald-700', 'text-sky-700', 'text-violet-700']
+const TIER_BG = ['bg-lime', 'bg-lavender', 'bg-coral']
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
   const { locale: rawLocale } = await params
@@ -902,67 +898,65 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   }
 
   return (
-    <main className="min-h-screen bg-stone-50">
+    <main className="min-h-screen bg-cream text-ink">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
 
-      <section className="relative overflow-hidden bg-gradient-to-br from-indigo-900 via-sky-800 to-teal-700 text-white">
-        <div className="absolute inset-0 opacity-20 pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at 15% 25%, rgba(255,255,255,0.4), transparent 40%), radial-gradient(circle at 85% 75%, rgba(255,255,255,0.3), transparent 40%)' }} />
-        <div className="relative z-10 max-w-4xl mx-auto px-4 py-16 sm:py-24">
-          <div className="text-xs font-semibold uppercase tracking-widest text-sky-100 mb-3">🐾 {t.eyebrow}</div>
-          <h1 className="text-3xl sm:text-5xl font-bold leading-tight mb-4">{t.title}</h1>
-          <p className="text-lg sm:text-xl text-sky-50 leading-relaxed">{t.intro}</p>
-          <p className="text-xs text-sky-200/90 mt-4 max-w-2xl">{t.note}</p>
+      <section className="bg-night text-white">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
+          <p className="eyebrow text-lime mb-4">🐾 {t.eyebrow}</p>
+          <h1 className="font-display text-3xl sm:text-5xl font-bold leading-tight mb-4">{t.title}</h1>
+          <p className="text-lg sm:text-xl text-white leading-relaxed">{t.intro}</p>
+          <p className="text-sm text-lavender mt-4 max-w-2xl">{t.note}</p>
         </div>
       </section>
 
-      <div className="max-w-4xl mx-auto px-4 -mt-8 relative z-10">
-        <div className="rounded-3xl border border-stone-200 bg-white p-5 sm:p-7 shadow-lg">
-          <h2 className="text-lg sm:text-xl font-extrabold text-stone-900 mb-4 flex items-center gap-2">🗓️ {t.calTitle}</h2>
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 -mt-8 relative z-10">
+        <div className="rounded-[28px] border-[1.6px] border-ink bg-white p-5 sm:p-7 shadow-hard">
+          <h2 className="font-display text-lg sm:text-xl font-bold text-ink mb-4 flex items-center gap-2">🗓️ {t.calTitle}</h2>
           <div className="grid gap-6 md:grid-cols-2">
             <div>
-              <div className="text-xs font-bold uppercase tracking-wider text-sky-700 mb-2.5">{t.schoolLabel}</div>
+              <p className="eyebrow text-electric mb-2.5">{t.schoolLabel}</p>
               <ul className="space-y-2">
                 {calSum.school.map((s, i) => (
-                  <li key={i} className="text-sm leading-snug border-l-2 border-sky-200 pl-3">
-                    <span className="font-semibold text-stone-900">{s.name}</span>
-                    <span className="block text-stone-500 text-[13px]">{s.dates}</span>
+                  <li key={i} className="text-sm leading-snug border-l-[3px] border-lavender pl-3">
+                    <span className="font-semibold text-ink">{s.name}</span>
+                    <span className="block text-slate text-[13px]">{s.dates}</span>
                   </li>
                 ))}
               </ul>
             </div>
             <div>
-              <div className="text-xs font-bold uppercase tracking-wider text-rose-700 mb-2.5">{t.holsLabel}</div>
-              <div className="flex flex-wrap gap-1.5">
+              <p className="eyebrow text-ink mb-2.5">{t.holsLabel}</p>
+              <ul className="flex flex-wrap gap-1.5">
                 {calSum.public.map((h, i) => (
-                  <span key={i} className="inline-flex items-baseline gap-1.5 text-xs bg-stone-100 rounded-lg px-2.5 py-1.5">
-                    <span className="font-bold text-rose-700 whitespace-nowrap">{h.date}</span>
-                    <span className="text-stone-600">{h.name}</span>
-                  </span>
+                  <li key={i} className="inline-flex items-baseline gap-1.5 text-xs bg-lime rounded-full px-3 py-1.5 text-ink">
+                    <span className="font-bold whitespace-nowrap">{h.date}</span>
+                    <span>{h.name}</span>
+                  </li>
                 ))}
-              </div>
+              </ul>
             </div>
           </div>
         </div>
       </div>
 
-      <div className="max-w-4xl mx-auto px-4 py-12 space-y-10">
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 py-12 space-y-12">
         {cal.periods.map((period, pi) => {
-          const isLast = pi === cal.periods.length - 1
-          const theme = isLast ? THEMES[THEMES.length - 1] : THEMES[Math.min(pi, THEMES.length - 2)]
+          const theme = THEMES[pi % THEMES.length]
           return (
           <section key={pi} className="scroll-mt-20">
-            <div className={`relative overflow-hidden rounded-3xl bg-gradient-to-br ${theme.band} text-white p-6 sm:p-7 shadow-md mb-6`}>
+            <div className={`relative overflow-hidden rounded-[28px] border-[1.6px] border-ink ${theme.band} p-6 sm:p-7 shadow-hard mb-6`}>
               <div className="absolute -right-3 -top-10 text-[140px] leading-none opacity-15 select-none pointer-events-none" aria-hidden="true">{period.emoji}</div>
               <div className="relative">
                 <div className="flex items-center gap-3 mb-2">
-                  <span className="flex items-center justify-center w-12 h-12 rounded-2xl bg-white/20 text-2xl backdrop-blur-sm shadow-sm">{period.emoji}</span>
-                  <span className="text-[11px] font-bold uppercase tracking-widest text-white/85">{period.dates}</span>
+                  <span className="flex items-center justify-center w-12 h-12 rounded-2xl bg-white border-[1.6px] border-ink text-2xl" aria-hidden="true">{period.emoji}</span>
+                  <span className="eyebrow">{period.dates}</span>
                 </div>
-                <h2 className="text-2xl sm:text-3xl font-extrabold leading-tight">{period.label}</h2>
-                <span className="inline-block mt-2 text-xs font-bold uppercase tracking-wide bg-white/20 backdrop-blur-sm px-3 py-1 rounded-full">{period.trip}</span>
-                <p className="text-white/90 leading-relaxed mt-3 max-w-2xl text-sm sm:text-base">{period.blurb}</p>
+                <h2 className="font-display text-2xl sm:text-3xl font-bold leading-tight">{period.label}</h2>
+                <span className="inline-block mt-2 eyebrow bg-white text-ink border-[1.6px] border-ink px-3 py-1 rounded-full">{period.trip}</span>
+                <p className="leading-relaxed mt-3 max-w-2xl text-sm sm:text-base">{period.blurb}</p>
               </div>
             </div>
 
@@ -973,43 +967,43 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                 const isFar = i >= period.picks.length
                 const tiers = budgetTiers(p.slug)
                 return (
-                  <article key={`${pi}-${p.slug}-${i}`} className={`rounded-2xl border overflow-hidden shadow-sm ${isFar ? 'border-amber-300 ring-1 ring-amber-200 bg-amber-50/40' : 'border-stone-200 bg-white'}`}>
-                    <header className={`px-5 sm:px-7 py-4 bg-gradient-to-r border-b ${isFar ? 'from-amber-100 to-orange-50 border-amber-200' : `${theme.cardHead} border-stone-200`}`}>
+                  <article key={`${pi}-${p.slug}-${i}`} className={`rounded-[22px] border-[1.6px] border-ink overflow-hidden bg-white ${isFar ? 'shadow-hard-sm' : ''}`}>
+                    <header className={`px-5 sm:px-7 py-4 border-b-[1.6px] border-ink ${isFar ? 'bg-coral' : 'bg-lavender-soft'}`}>
                       <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
-                        <span className={`flex items-center justify-center w-7 h-7 rounded-full text-sm font-black ${isFar ? 'text-amber-700 bg-amber-200' : theme.numBg}`}>{isFar ? '✈' : i + 1}</span>
-                        <h3 className="text-xl font-bold text-stone-900">
+                        <span className={`flex items-center justify-center w-7 h-7 rounded-full border-[1.6px] border-ink text-sm font-black ${isFar ? 'bg-white text-ink' : theme.numBg}`}>{isFar ? '✈' : i + 1}</span>
+                        <h3 className="font-display text-xl font-bold text-ink">
                           <Link href={`/${locale}/destinations/${p.slug}`} className="hover:underline">{meta.name}</Link>
                         </h3>
-                        <span className="text-sm text-stone-500">{meta.country}</span>
-                        {isFar && <span className="ml-auto text-xs font-bold bg-amber-500 text-white px-2.5 py-1 rounded-full shadow-sm">✈️ {t.farLabel}</span>}
+                        <span className="text-sm text-ink">{meta.country}</span>
+                        {isFar && <span className="ml-auto eyebrow bg-ink text-white px-2.5 py-1 rounded-full">✈️ {t.farLabel}</span>}
                       </div>
                     </header>
                     <div className="px-5 sm:px-7 py-5 space-y-4">
                       <div>
-                        <div className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-1">{t.whyLabel}</div>
-                        <p className="text-stone-800 leading-relaxed">{p.why}</p>
+                        <p className="eyebrow text-slate mb-1">{t.whyLabel}</p>
+                        <p className="text-ink leading-relaxed">{p.why}</p>
                       </div>
                       {p.travel && (
-                        <div className={`flex items-start gap-2 rounded-xl p-3 border ${isFar ? 'bg-amber-50 border-amber-200' : theme.travelBox}`}>
-                          <span className="text-base leading-none mt-0.5">{isFar ? '✈️' : '🚗'}</span>
+                        <div className={`flex items-start gap-2 rounded-2xl p-3 border-[1.6px] border-ink ${isFar ? 'bg-lime' : theme.travelBox}`}>
+                          <span className="text-base leading-none mt-0.5" aria-hidden="true">{isFar ? '✈️' : '🚗'}</span>
                           <div>
-                            <div className={`text-xs font-semibold uppercase tracking-wider ${isFar ? 'text-amber-800' : theme.travelText}`}>{t.travelLabel}</div>
-                            <p className={`text-sm leading-relaxed ${isFar ? 'text-amber-900' : theme.travelText}`}>{p.travel}</p>
+                            <p className="eyebrow text-ink">{t.travelLabel}</p>
+                            <p className="text-sm leading-relaxed text-ink">{p.travel}</p>
                           </div>
                         </div>
                       )}
                       {tiers.length > 0 && (
                         <div>
-                          <div className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-2">{t.staysLabel}</div>
+                          <p className="eyebrow text-slate mb-2">{t.staysLabel}</p>
                           <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
                             {tiers.map((h, ti) => (
                               <a
                                 key={h.id}
                                 href={buildAllezLink(h.name, meta.name, meta.country, `${CAMPAIGN_BASE}-${locale}-${p.slug}-${ti}`, 3)}
                                 target="_blank" rel="noopener sponsored"
-                                className="group flex flex-col rounded-xl border border-stone-200 hover:border-sky-300 hover:shadow-md transition-all p-3"
+                                className="group flex flex-col rounded-2xl border-[1.6px] border-ink bg-white hover:shadow-hard-sm transition-shadow p-3"
                               >
-                                <div className="relative h-28 -mx-3 -mt-3 mb-2 overflow-hidden rounded-t-xl bg-stone-100">
+                                <div className="relative h-28 -mx-3 -mt-3 mb-2 overflow-hidden rounded-t-[14px] border-b-[1.6px] border-ink bg-lavender-soft">
                                   <Image
                                     src={`/images/hotels/${h.id}.jpg`}
                                     alt={h.name}
@@ -1017,25 +1011,25 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                                     sizes="(max-width: 768px) 100vw, 280px"
                                     className="object-cover group-hover:scale-105 transition-transform duration-500"
                                   />
-                                  <span className={`absolute top-2 left-2 text-[10px] font-bold uppercase tracking-wide ${TIER_TEXT[Math.min(ti, 2)]} bg-white/90 backdrop-blur-sm px-2 py-0.5 rounded-full shadow-sm`}>{tierLabels[Math.min(ti, 2)]}</span>
+                                  <span className={`absolute top-2 left-2 eyebrow text-[10px] text-ink ${TIER_BG[Math.min(ti, 2)]} border-[1.6px] border-ink px-2 py-0.5 rounded-full`}>{tierLabels[Math.min(ti, 2)]}</span>
                                 </div>
-                                <span className="font-semibold text-stone-900 text-sm leading-tight group-hover:text-sky-700">{h.name}</span>
-                                <span className="text-xs text-stone-500 mt-1">
+                                <span className="font-semibold text-ink text-sm leading-tight group-hover:underline">{h.name}</span>
+                                <span className="text-xs text-slate mt-1">
                                   {typeof h.stars === 'number' ? '★'.repeat(Math.round(h.stars)) + ' · ' : ''}
                                   {typeof h.rating === 'number' ? `${h.rating.toFixed(1)}/10` : ''}
                                 </span>
-                                <span className="text-sm font-bold text-stone-900 mt-2">{t.from} €{h.priceFrom}<span className="text-xs font-normal text-stone-500"> / {t.night}</span></span>
-                                <span className={`text-[11px] mt-1 font-medium ${h.petFee === 0 ? 'text-green-700' : 'text-stone-500'}`}>
+                                <span className="text-sm font-bold text-ink mt-2">{t.from} €{h.priceFrom}<span className="text-xs font-normal text-slate"> / {t.night}</span></span>
+                                <span className="text-[11px] mt-1 font-medium text-ink">
                                   {h.petFee === 0 ? `🐾 ${t.petFeeNil}` : typeof h.petFee === 'number' ? `🐾 €${h.petFee} ${t.petFee}` : ''}
                                 </span>
-                                <span className="text-xs font-semibold text-sky-700 mt-2 group-hover:underline">{t.bookCta}</span>
+                                <span className="text-xs font-semibold text-electric mt-2 group-hover:underline">{t.bookCta}</span>
                               </a>
                             ))}
                           </div>
                         </div>
                       )}
                       <div>
-                        <Link href={`/${locale}/destinations/${p.slug}`} className="text-sm font-semibold text-sky-700 hover:text-sky-900 hover:underline">{t.destCta}</Link>
+                        <Link href={`/${locale}/destinations/${p.slug}`} className="text-sm font-semibold text-electric hover:underline">{t.destCta}</Link>
                       </div>
                     </div>
                   </article>
@@ -1047,34 +1041,34 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         })}
       </div>
 
-      <section className="max-w-4xl mx-auto px-4 pb-12">
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-6">🧭 {t.practicalHeading}</h2>
+      <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-12">
+        <h2 className="font-display text-2xl sm:text-3xl font-bold text-ink mb-6">🧭 {t.practicalHeading}</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           {t.practical.map((p, i) => (
-            <div key={i} className="bg-white rounded-xl p-5 border border-stone-200">
-              <h3 className="font-bold text-stone-900 mb-2">{p.h}</h3>
-              <p className="text-sm text-stone-700 leading-relaxed">{p.p}</p>
+            <div key={i} className="bg-white rounded-[22px] p-5 border-[1.6px] border-ink">
+              <h3 className="font-display font-bold text-ink mb-2">{p.h}</h3>
+              <p className="text-sm text-ink leading-relaxed">{p.p}</p>
             </div>
           ))}
         </div>
       </section>
 
-      <section className="max-w-4xl mx-auto px-4 pb-16">
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-6">❓ {t.faqHeading}</h2>
+      <section className="max-w-4xl mx-auto px-4 sm:px-6 pb-16">
+        <h2 className="font-display text-2xl sm:text-3xl font-bold text-ink mb-6">❓ {t.faqHeading}</h2>
         <div className="space-y-4">
           {t.faqs.map((f, i) => (
-            <details key={i} className="bg-white border border-stone-200 rounded-2xl group">
-              <summary className="cursor-pointer p-5 font-semibold text-stone-900 list-none flex items-center justify-between">
+            <details key={i} className="bg-white border-[1.6px] border-ink rounded-[22px] group open:bg-lavender-soft">
+              <summary className="cursor-pointer p-5 font-semibold text-ink list-none flex items-center justify-between">
                 <span>{f.q}</span>
-                <span className="text-stone-400 group-open:rotate-180 transition-transform">▾</span>
+                <span className="text-ink group-open:rotate-180 transition-transform" aria-hidden="true">▾</span>
               </summary>
-              <div className="px-5 pb-5 text-sm text-stone-700 leading-relaxed">{f.a}</div>
+              <div className="px-5 pb-5 text-sm text-ink leading-relaxed">{f.a}</div>
             </details>
           ))}
         </div>
       </section>
 
-      <div className="max-w-4xl mx-auto px-4">
+      <div className="max-w-4xl mx-auto px-4 sm:px-6">
         <GuideFooter locale={locale} currentSlug={SLUG} />
       </div>
 

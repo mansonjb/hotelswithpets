@@ -578,7 +578,7 @@ export default async function EscapeHeatPage({
             <span className="mx-1.5">/</span>
             <Link href={`/${locale}/guides`} className="hover:text-white">{p(T.breadGuides, locale)}</Link>
           </nav>
-          <div className="inline-flex items-center gap-2 bg-lime/300/20 border border-line/30 text-orange-300 text-xs font-bold uppercase tracking-widest px-3 py-1.5 rounded-full mb-5">
+          <div className="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-lime text-xs font-bold uppercase tracking-widest px-3 py-1.5 rounded-full mb-5">
             🌡️ {locale === 'fr' ? 'Canicule & chien' : locale === 'es' ? 'Canícula & perro' : locale === 'pt' ? 'Calor & cão' : 'Heatwave & dogs'}
           </div>
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight mb-5">

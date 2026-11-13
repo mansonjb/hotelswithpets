@@ -485,13 +485,12 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
       {/* Hero */}
       <section className="relative text-white py-24 bg-electric">
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_30%,rgba(255,255,255,0.1),transparent_60%)]" />
         <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <span className="inline-block bg-white/10 border border-white/20 text-white/80 text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-6">
             🗓️ {c.kicker(mn, year)}
           </span>
           <h1 className="text-3xl lg:text-5xl font-bold mb-6 leading-tight">{c.h1(mn)}</h1>
-          <p className="text-orange-50 text-lg lg:text-xl leading-relaxed max-w-2xl mx-auto">{c.lede(mn)}</p>
+          <p className="text-lavender text-lg lg:text-xl leading-relaxed max-w-2xl mx-auto">{c.lede(mn)}</p>
         </div>
       </section>
 
@@ -686,7 +685,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       <section className="py-16 text-white bg-electric">
         <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold mb-4">{c.ctaTitle}</h2>
-          <p className="text-orange-100 text-lg mb-8 leading-relaxed">{c.ctaDesc}</p>
+          <p className="text-lavender text-lg mb-8 leading-relaxed">{c.ctaDesc}</p>
           <Link href={`/${locale}/destinations`} className="inline-block bg-white text-ink font-bold px-8 py-4 rounded-full hover:bg-lime/30 transition-colors shadow-hard">
             {c.ctaButton}
           </Link>

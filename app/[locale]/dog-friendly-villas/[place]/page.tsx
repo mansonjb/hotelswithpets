@@ -317,7 +317,7 @@ export default async function VillaLandingPage({
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="mt-5 inline-flex items-center gap-2 text-base font-bold px-5 py-3 rounded-xl text-white transition-shadow"
-            style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)' }}
+            style={{ background: '#3024eb' }}
           >
             {ui.mapCta(g.place)}
           </a>
@@ -399,7 +399,7 @@ export default async function VillaLandingPage({
             target="_blank"
             rel="sponsored noopener noreferrer"
             className="mt-4 inline-flex items-center gap-2 text-base font-bold px-5 py-3 rounded-xl text-white transition-shadow"
-            style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)' }}
+            style={{ background: '#3024eb' }}
           >
             {ui.mapCta(g.place)}
           </a>

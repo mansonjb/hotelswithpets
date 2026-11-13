@@ -89,6 +89,11 @@ export default async function LocaleLayout({
   return (
     <html lang={locale}>
       <head>
+        {/* Preload des polices locales above-the-fold (Clash Display, General Sans) pour limiter le CLS */}
+        <link rel="preload" href="/fonts/clash-display-600.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+        <link rel="preload" href="/fonts/clash-display-700.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+        <link rel="preload" href="/fonts/general-sans-400.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
+        <link rel="preload" href="/fonts/general-sans-500.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://www.booking.com" />
         <link rel="preconnect" href="https://www.stay22.com" />
         <link rel="dns-prefetch" href="https://scripts.stay22.com" />

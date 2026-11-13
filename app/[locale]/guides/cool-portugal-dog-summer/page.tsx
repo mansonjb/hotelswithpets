@@ -530,7 +530,6 @@ export default async function Page({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
 
       <section className="relative overflow-hidden text-white bg-electric">
-        <div className="absolute inset-0 opacity-20 pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at 20% 30%, rgba(255,255,255,0.4), transparent 40%), radial-gradient(circle at 80% 70%, rgba(255,255,255,0.3), transparent 40%)' }} />
         <div className="relative z-10 max-w-4xl mx-auto px-4 py-16 sm:py-24">
           <div className="text-xs font-semibold uppercase tracking-widest text-cyan-100 mb-3">❄️ {t.eyebrow}</div>
           <h1 className="text-3xl sm:text-5xl font-bold leading-tight mb-4">{t.title}</h1>

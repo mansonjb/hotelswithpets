@@ -661,7 +661,6 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
       {/* Hero */}
       <section className="relative text-white py-24 bg-electric">
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_30%,rgba(255,255,255,0.1),transparent_60%)]" />
         <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <span className="inline-block bg-white/10 border border-white/20 text-white/80 text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-6">
             📊 {c.hero.kicker}

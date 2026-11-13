@@ -2,21 +2,21 @@ import { NextResponse } from 'next/server'
 
 /**
  * Contact form endpoint. Receives a QUALIFIED request (name, email, request
- * type, message) and emails it to contact@hotelswithpets.com via the Brevo
- * transactional API. No data is stored server-side: the email is the record.
+ * type, message) and emails it to contact@hotelswithpets.com via Web3Forms,
+ * a free form-to-email service (no SMTP account, no domain verification).
+ * No data is stored server-side: the email is the record.
  *
- * Setup required (one-time, by the site owner):
- *   1. Create a Brevo transactional API key and set BREVO_API_KEY in Vercel
- *      (Project → Settings → Environment Variables) and in .env.local.
- *   2. In Brevo, verify the sender contact@hotelswithpets.com (or a sender on
- *      the hotelswithpets.com domain) so transactional sends are authorised.
- * Until BREVO_API_KEY is set the endpoint returns 503 and the form shows a
- * graceful error; no submission is lost silently.
+ * Setup required (one-time, by the site owner, ~1 min, no Brevo needed):
+ *   1. Go to https://web3forms.com, enter contact@hotelswithpets.com and get
+ *      an Access Key by email (free tier: 250 submissions/month).
+ *   2. Set WEB3FORMS_ACCESS_KEY in Vercel (Project -> Settings -> Environment
+ *      Variables) and in .env.local, then redeploy.
+ * Until WEB3FORMS_ACCESS_KEY is set the endpoint returns 503 and the form shows
+ * a graceful message inviting the visitor to email us directly.
  */
 export const runtime = 'nodejs'
 export const dynamic = 'force-dynamic'
 
-const TO = 'contact@hotelswithpets.com'
 const REQUEST_TYPES = ['partenariat', 'correction', 'hotel', 'suggestion', 'presse', 'autre'] as const
 const TYPE_LABELS: Record<string, string> = {
   partenariat: 'Partenariat / annonceur',
@@ -29,9 +29,6 @@ const TYPE_LABELS: Record<string, string> = {
 
 function clean(v: unknown, max: number): string {
   return typeof v === 'string' ? v.trim().slice(0, max) : ''
-}
-function escapeHtml(s: string): string {
-  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
 }
 
 export async function POST(req: Request) {
@@ -58,57 +55,39 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: 'missing_fields' }, { status: 422 })
   }
 
-  const apiKey = process.env.BREVO_API_KEY
-  if (!apiKey) {
-    console.error('[contact] BREVO_API_KEY not set - submission could not be emailed')
+  const accessKey = process.env.WEB3FORMS_ACCESS_KEY
+  if (!accessKey) {
+    console.error('[contact] WEB3FORMS_ACCESS_KEY not set - submission could not be emailed')
     return NextResponse.json({ error: 'not_configured' }, { status: 503 })
   }
 
   const typeLabel = TYPE_LABELS[requestType]
   const subject = `[Contact HWP] ${typeLabel} - ${name}`
-  const rows: Array<[string, string]> = [
-    ['Type de demande', typeLabel],
-    ['Nom', name],
-    ['Email', email],
-    ['Société', company || '-'],
-    ['Langue du visiteur', locale],
-  ]
-  const htmlContent = `
-    <h2 style="font-family:sans-serif">Nouvelle demande de contact</h2>
-    <table style="font-family:sans-serif;font-size:14px;border-collapse:collapse">
-      ${rows
-        .map(
-          ([k, v]) =>
-            `<tr><td style="padding:4px 12px 4px 0;color:#666">${k}</td><td style="padding:4px 0"><strong>${escapeHtml(v)}</strong></td></tr>`,
-        )
-        .join('')}
-    </table>
-    <p style="font-family:sans-serif;font-size:14px;margin-top:16px;white-space:pre-wrap">${escapeHtml(message)}</p>
-  `
 
   try {
-    const res = await fetch('https://api.brevo.com/v3/smtp/email', {
+    const res = await fetch('https://api.web3forms.com/submit', {
       method: 'POST',
-      headers: {
-        'api-key': apiKey,
-        'content-type': 'application/json',
-        accept: 'application/json',
-      },
+      headers: { 'content-type': 'application/json', accept: 'application/json' },
       body: JSON.stringify({
-        sender: { name: 'HotelsWithPets Contact', email: TO },
-        to: [{ email: TO }],
-        replyTo: { email, name },
+        access_key: accessKey,
         subject,
-        htmlContent,
+        from_name: 'HotelsWithPets Contact',
+        replyto: email,
+        'Type de demande': typeLabel,
+        Nom: name,
+        Email: email,
+        'Société': company || '-',
+        Langue: locale,
+        message,
       }),
     })
-    if (!res.ok) {
-      const detail = await res.text().catch(() => '')
-      console.error('[contact] Brevo send failed', res.status, detail.slice(0, 300))
+    const data = (await res.json().catch(() => ({}))) as { success?: boolean }
+    if (!res.ok || !data.success) {
+      console.error('[contact] Web3Forms send failed', res.status, JSON.stringify(data).slice(0, 300))
       return NextResponse.json({ error: 'send_failed' }, { status: 502 })
     }
   } catch (e) {
-    console.error('[contact] Brevo request error', e)
+    console.error('[contact] Web3Forms request error', e)
     return NextResponse.json({ error: 'send_failed' }, { status: 502 })
   }
 

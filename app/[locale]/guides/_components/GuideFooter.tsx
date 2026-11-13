@@ -196,9 +196,9 @@ export function GuideFooter({ locale, currentSlug }: GuideFooterProps) {
   const others = ALL_GUIDES.filter((g) => g.slug !== currentSlug)
 
   return (
-    <section className="mt-12 mb-4 bg-gradient-to-br from-slate-50 to-blue-50 border border-blue-100 rounded-3xl p-8">
-      <h2 className="text-xl font-extrabold text-gray-900 mb-2">{TITLES[lang]}</h2>
-      <p className="text-sm text-gray-500 mb-6">
+    <section className="mt-12 mb-4 border-[1.6px] border-ink rounded-[28px] p-8 bg-night">
+      <h2 className="text-xl font-bold text-ink mb-2">{TITLES[lang]}</h2>
+      <p className="text-sm text-slate mb-6">
         {lang === 'fr'
           ? 'Voyager sereinement avec votre animal en Europe, guide par guide.'
           : lang === 'es'
@@ -216,25 +216,25 @@ export function GuideFooter({ locale, currentSlug }: GuideFooterProps) {
           <Link
             key={guide.slug}
             href={`/${locale}/guides/${guide.slug}`}
-            className="group flex items-start gap-4 bg-white rounded-2xl border border-gray-100 hover:border-blue-300 hover:shadow-md transition-all p-4"
+            className="group flex items-start gap-4 bg-white rounded-[22px] border-[1.6px] border-ink hover:border-ink transition-all p-4"
           >
-            <span className="flex-shrink-0 w-10 h-10 bg-blue-50 rounded-xl flex items-center justify-center text-xl">
+            <span className="flex-shrink-0 w-10 h-10 bg-lavender-soft rounded-xl flex items-center justify-center text-xl">
               {guide.emoji}
             </span>
             <div className="flex-1 min-w-0">
-              <p className="font-semibold text-gray-900 text-sm group-hover:text-blue-700 transition-colors leading-tight">
+              <p className="font-semibold text-ink text-sm group-hover:text-electric transition-colors leading-tight">
                 {guide.label[lang]}
               </p>
-              <p className="text-xs text-gray-500 mt-0.5">{guide.desc[lang]}</p>
+              <p className="text-xs text-slate mt-0.5">{guide.desc[lang]}</p>
             </div>
-            <span className="flex-shrink-0 text-gray-300 group-hover:text-blue-500 group-hover:translate-x-1 transition-all text-lg mt-0.5">→</span>
+            <span className="flex-shrink-0 text-white/70 group-hover:text-electric group-hover:translate-x-1 transition-all text-lg mt-0.5">→</span>
           </Link>
         ))}
       </div>
       <div className="mt-4 text-center">
         <Link
           href={`/${locale}/guides`}
-          className="inline-flex items-center gap-1.5 text-sm font-medium text-blue-600 hover:text-blue-800 transition-colors"
+          className="inline-flex items-center gap-1.5 text-sm font-medium text-electric hover:text-ink transition-colors"
         >
           📚 {lang === 'fr' ? 'Voir tous les guides' : lang === 'es' ? 'Ver todas las guías' : lang === 'de' ? 'Alle Ratgeber ansehen' : lang === 'nl' ? 'Alle gidsen bekijken' : lang === 'it' ? 'Vedi tutte le guide' : 'View all guides'} →
         </Link>

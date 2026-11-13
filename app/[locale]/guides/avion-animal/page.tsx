@@ -1626,16 +1626,16 @@ export default async function FlyingWithPetGuidePage({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
-      <div className="min-h-screen bg-gray-50">
+      <div className="min-h-screen bg-cream">
 
         {/* Hero */}
-        <section className="bg-gradient-to-br from-slate-900 via-sky-950 to-blue-900 text-white py-16">
+        <section className="text-white py-16 bg-electric border-b-[1.6px] border-ink">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center gap-2 mb-6">
               <Link href={`/${locale}/guides`} className="text-sky-300 hover:text-white text-sm transition-colors">
                 {locale === 'fr' ? '← Guides' : locale === 'es' ? '← Guías' : locale === 'de' ? '← Ratgeber' : locale === 'nl' ? '← Gidsen' : locale === 'it' ? '← Guide' : '← Guides'}
               </Link>
-              <span className="text-sky-500 text-sm">/</span>
+              <span className="text-ink text-sm">/</span>
               <span className="text-sky-400 text-sm">
                 {locale === 'fr' ? 'Avion avec animal' : locale === 'es' ? 'Volar con mascota' : locale === 'de' ? 'Fliegen mit Haustier' : locale === 'nl' ? 'Vliegen met huisdier' : locale === 'it' ? 'Aereo con animale' : 'Flying with a pet'}
               </span>
@@ -1643,44 +1643,44 @@ export default async function FlyingWithPetGuidePage({
             <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 rounded-full px-3 py-1 text-xs font-medium mb-5">
               ✈️ {copy.badge} · {copy.lastUpdate} {monthYear}
             </span>
-            <h1 className="text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">{copy.hero}</h1>
-            <p className="text-sky-200 text-base leading-relaxed max-w-3xl">{copy.subtitle}</p>
+            <h1 className="text-3xl lg:text-4xl font-bold mb-4 leading-tight">{copy.hero}</h1>
+            <p className="text-lavender text-base leading-relaxed max-w-3xl">{copy.subtitle}</p>
           </div>
         </section>
 
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 
           {/* Sources note */}
-          <div className="bg-blue-50 border border-blue-100 rounded-2xl p-5 mb-10 flex items-start gap-3">
-            <span className="text-blue-500 text-xl flex-shrink-0">🔍</span>
+          <div className="bg-lavender-soft border-[1.6px] border-ink rounded-[22px] p-5 mb-10 flex items-start gap-3">
+            <span className="text-electric text-xl flex-shrink-0">🔍</span>
             <div>
-              <p className="text-xs font-bold text-blue-700 uppercase tracking-widest mb-1">{copy.sourcesTitle}</p>
-              <p className="text-sm text-blue-800 leading-relaxed">{copy.sourcesText}</p>
+              <p className="text-xs font-bold text-electric uppercase tracking-widest mb-1">{copy.sourcesTitle}</p>
+              <p className="text-sm text-electric leading-relaxed">{copy.sourcesText}</p>
             </div>
           </div>
 
           {/* Quick decision guide */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{copy.quickDecision}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6">{copy.quickDecision}</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
               {copy.quickDecisionItems.map((item, i) => (
                 <div
                   key={i}
                   className={`rounded-2xl border p-5 ${
                     i === 0
-                      ? 'bg-emerald-50 border-emerald-100'
+                      ? 'bg-lavender-soft border-line'
                       : i === 1
-                      ? 'bg-amber-50 border-amber-100'
+                      ? 'bg-lime/30 border-line'
                       : 'bg-red-50 border-red-100'
                   }`}
                 >
                   <div className="text-2xl mb-2">{item.icon}</div>
-                  <h3 className={`font-bold text-sm mb-3 ${i === 0 ? 'text-emerald-800' : i === 1 ? 'text-amber-800' : 'text-red-800'}`}>
+                  <h3 className={`font-bold text-sm mb-3 ${i === 0 ? 'text-ink' : i === 1 ? 'text-ink' : 'text-red-800'}`}>
                     {item.title}
                   </h3>
                   <ul className="space-y-1.5">
                     {item.points.map((pt, j) => (
-                      <li key={j} className={`text-xs flex items-start gap-1.5 ${i === 0 ? 'text-emerald-700' : i === 1 ? 'text-amber-700' : 'text-red-700'}`}>
+                      <li key={j} className={`text-xs flex items-start gap-1.5 ${i === 0 ? 'text-ink' : i === 1 ? 'text-ink' : 'text-red-700'}`}>
                         <span className="flex-shrink-0 mt-0.5">•</span>
                         <span>{pt}</span>
                       </li>
@@ -1692,7 +1692,7 @@ export default async function FlyingWithPetGuidePage({
           </section>
 
           {/* Low-cost warning */}
-          <div className="bg-red-50 border border-red-200 rounded-2xl p-5 mb-10 flex items-start gap-3">
+          <div className="bg-red-50 border-[1.6px] border-red-200 rounded-[22px] p-5 mb-10 flex items-start gap-3">
             <span className="text-red-500 text-xl flex-shrink-0">🚫</span>
             <div>
               <p className="text-sm font-bold text-red-800 mb-1">{copy.lowCostTitle}</p>
@@ -1709,26 +1709,26 @@ export default async function FlyingWithPetGuidePage({
 
           {/* Airlines comparison table */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{copy.tableTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6">{copy.tableTitle}</h2>
 
             {/* Cabin-yes airlines */}
             <div className="space-y-4 mb-6">
               {cabinYes.map((airline) => (
-                <div key={airline.name} className="bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
+                <div key={airline.name} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard overflow-hidden">
                   {/* Header */}
                   <div className="flex items-center gap-3 px-5 py-4 border-b border-gray-50">
                     <span className="text-2xl">{airline.flag}</span>
-                    <h3 className="font-bold text-gray-900">{airline.name}</h3>
+                    <h3 className="font-bold text-ink">{airline.name}</h3>
                     <div className="ml-auto flex gap-2">
-                      <span className="inline-flex items-center gap-1 text-[11px] font-medium bg-emerald-50 text-emerald-700 border border-emerald-200 px-2 py-0.5 rounded-full">
+                      <span className="inline-flex items-center gap-1 text-[11px] font-medium bg-lavender-soft text-ink border border-line px-2 py-0.5 rounded-full">
                         ✈️ {copy.tableHeaders.cabin}: {copy.yes}
                       </span>
                       {airline.hold ? (
-                        <span className="inline-flex items-center gap-1 text-[11px] font-medium bg-blue-50 text-blue-700 border border-blue-200 px-2 py-0.5 rounded-full">
+                        <span className="inline-flex items-center gap-1 text-[11px] font-medium bg-lavender-soft text-electric border border-line px-2 py-0.5 rounded-full">
                           📦 {copy.tableHeaders.hold}: {copy.yes}
                         </span>
                       ) : (
-                        <span className="inline-flex items-center gap-1 text-[11px] font-medium bg-gray-50 text-gray-500 border border-gray-200 px-2 py-0.5 rounded-full">
+                        <span className="inline-flex items-center gap-1 text-[11px] font-medium bg-cream text-slate border border-line px-2 py-0.5 rounded-full">
                           📦 {copy.tableHeaders.hold}: {copy.no}
                         </span>
                       )}
@@ -1738,33 +1738,33 @@ export default async function FlyingWithPetGuidePage({
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-0 divide-y sm:divide-y-0 sm:divide-x divide-gray-50">
                     <div className="px-5 py-3 space-y-2">
                       <div>
-                        <p className="text-[10px] font-bold text-gray-500 uppercase tracking-widest">{copy.tableHeaders.cabinPrice}</p>
-                        <p className="text-sm text-gray-700">{airline.cabinPrice[lang]}</p>
+                        <p className="text-[10px] font-bold text-slate uppercase tracking-widest">{copy.tableHeaders.cabinPrice}</p>
+                        <p className="text-sm text-slate">{airline.cabinPrice[lang]}</p>
                       </div>
                       <div>
-                        <p className="text-[10px] font-bold text-gray-500 uppercase tracking-widest">{copy.tableHeaders.holdPrice}</p>
-                        <p className="text-sm text-gray-700">{airline.holdPrice[lang]}</p>
+                        <p className="text-[10px] font-bold text-slate uppercase tracking-widest">{copy.tableHeaders.holdPrice}</p>
+                        <p className="text-sm text-slate">{airline.holdPrice[lang]}</p>
                       </div>
                     </div>
                     <div className="px-5 py-3 space-y-2">
                       <div>
-                        <p className="text-[10px] font-bold text-gray-500 uppercase tracking-widest">{copy.tableHeaders.weight}</p>
-                        <p className="text-sm text-gray-700">{airline.weightLimitCabin}</p>
+                        <p className="text-[10px] font-bold text-slate uppercase tracking-widest">{copy.tableHeaders.weight}</p>
+                        <p className="text-sm text-slate">{airline.weightLimitCabin}</p>
                       </div>
                       <div>
-                        <p className="text-[10px] font-bold text-gray-500 uppercase tracking-widest">{copy.tableHeaders.carrier}</p>
-                        <p className="text-sm text-gray-700">{airline.carrierMax}</p>
+                        <p className="text-[10px] font-bold text-slate uppercase tracking-widest">{copy.tableHeaders.carrier}</p>
+                        <p className="text-sm text-slate">{airline.carrierMax}</p>
                       </div>
                     </div>
                   </div>
-                  <div className="px-5 py-3 border-t border-gray-50 bg-gray-50/50 space-y-1.5">
+                  <div className="px-5 py-3 border-t border-gray-50 bg-cream/50 space-y-1.5">
                     <div>
-                      <p className="text-[10px] font-bold text-gray-500 uppercase tracking-widest mb-0.5">{copy.tableHeaders.snubNosed}</p>
-                      <p className="text-xs text-gray-600">{airline.snubNosed[lang]}</p>
+                      <p className="text-[10px] font-bold text-slate uppercase tracking-widest mb-0.5">{copy.tableHeaders.snubNosed}</p>
+                      <p className="text-xs text-slate">{airline.snubNosed[lang]}</p>
                     </div>
                     <div>
-                      <p className="text-[10px] font-bold text-gray-500 uppercase tracking-widest mb-0.5">{lang === 'fr' ? 'Réservation' : lang === 'es' ? 'Reserva' : lang === 'de' ? 'Buchung' : lang === 'nl' ? 'Boeking' : lang === 'it' ? 'Prenotazione' : 'Booking'}</p>
-                      <p className="text-xs text-gray-600">{airline.bookingProcess[lang]}</p>
+                      <p className="text-[10px] font-bold text-slate uppercase tracking-widest mb-0.5">{lang === 'fr' ? 'Réservation' : lang === 'es' ? 'Reserva' : lang === 'de' ? 'Buchung' : lang === 'nl' ? 'Boeking' : lang === 'it' ? 'Prenotazione' : 'Booking'}</p>
+                      <p className="text-xs text-slate">{airline.bookingProcess[lang]}</p>
                     </div>
                   </div>
                 </div>
@@ -1773,10 +1773,10 @@ export default async function FlyingWithPetGuidePage({
 
             {/* Cabin-no airlines */}
             {cabinNo.map((airline) => (
-              <div key={airline.name} className="bg-white rounded-2xl border border-red-100 shadow-sm overflow-hidden mb-4 opacity-80">
+              <div key={airline.name} className="bg-white rounded-[22px] border-[1.6px] border-red-100 shadow-hard overflow-hidden mb-4 opacity-80">
                 <div className="flex items-center gap-3 px-5 py-4 border-b border-red-50">
                   <span className="text-2xl">{airline.flag}</span>
-                  <h3 className="font-bold text-gray-900">{airline.name}</h3>
+                  <h3 className="font-bold text-ink">{airline.name}</h3>
                   <div className="ml-auto flex gap-2">
                     <span className="inline-flex items-center gap-1 text-[11px] font-medium bg-red-50 text-red-700 border border-red-200 px-2 py-0.5 rounded-full">
                       🚫 {copy.tableHeaders.cabin}: {copy.no}
@@ -1787,7 +1787,7 @@ export default async function FlyingWithPetGuidePage({
                   </div>
                 </div>
                 <div className="px-5 py-3 bg-red-50/30">
-                  <p className="text-xs text-gray-600">{airline.holdPrice[lang]}</p>
+                  <p className="text-xs text-slate">{airline.holdPrice[lang]}</p>
                 </div>
               </div>
             ))}
@@ -1795,16 +1795,16 @@ export default async function FlyingWithPetGuidePage({
 
           {/* Cabin vs hold */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{copy.cabinVsHoldTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6">{copy.cabinVsHoldTitle}</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {/* Cabin */}
               <div className="space-y-4">
                 {copy.cabinPoints.map((block, i) => (
-                  <div key={i} className="bg-emerald-50 border border-emerald-100 rounded-2xl p-5">
-                    <h3 className="font-bold text-emerald-800 text-sm mb-3">✈️ {block.title}</h3>
+                  <div key={i} className="bg-lavender-soft border-[1.6px] border-ink rounded-[22px] p-5">
+                    <h3 className="font-bold text-ink text-sm mb-3">✈️ {block.title}</h3>
                     <ul className="space-y-1.5">
                       {block.points.map((pt, j) => (
-                        <li key={j} className="text-xs text-emerald-700 flex items-start gap-1.5">
+                        <li key={j} className="text-xs text-ink flex items-start gap-1.5">
                           <span className="flex-shrink-0 mt-0.5">•</span>
                           <span>{pt}</span>
                         </li>
@@ -1816,13 +1816,13 @@ export default async function FlyingWithPetGuidePage({
               {/* Hold */}
               <div className="space-y-4">
                 {copy.holdPoints.map((block, i) => (
-                  <div key={i} className={`border rounded-2xl p-5 ${i === 0 ? 'bg-blue-50 border-blue-100' : 'bg-amber-50 border-amber-100'}`}>
-                    <h3 className={`font-bold text-sm mb-3 ${i === 0 ? 'text-blue-800' : 'text-amber-800'}`}>
+                  <div key={i} className={`border-[1.6px] rounded-[22px] p-5 ${i === 0 ? 'bg-lavender-soft border-line' : 'bg-lime/30 border-line'}`}>
+                    <h3 className={`font-bold text-sm mb-3 ${i === 0 ? 'text-electric' : 'text-ink'}`}>
                       {i === 0 ? '📦' : '⚠️'} {block.title}
                     </h3>
                     <ul className="space-y-1.5">
                       {block.points.map((pt, j) => (
-                        <li key={j} className={`text-xs flex items-start gap-1.5 ${i === 0 ? 'text-blue-700' : 'text-amber-700'}`}>
+                        <li key={j} className={`text-xs flex items-start gap-1.5 ${i === 0 ? 'text-electric' : 'text-ink'}`}>
                           <span className="flex-shrink-0 mt-0.5">•</span>
                           <span>{pt}</span>
                         </li>
@@ -1836,25 +1836,25 @@ export default async function FlyingWithPetGuidePage({
 
           {/* Carrier requirements */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{copy.carrierTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6">{copy.carrierTitle}</h2>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-              <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
-                <h3 className="font-bold text-gray-900 mb-4">🧳 {copy.carrierCabin.title}</h3>
+              <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+                <h3 className="font-bold text-ink mb-4">🧳 {copy.carrierCabin.title}</h3>
                 <ul className="space-y-2">
                   {copy.carrierCabin.points.map((pt, i) => (
-                    <li key={i} className="text-sm text-gray-600 flex items-start gap-2">
-                      <span className="flex-shrink-0 text-emerald-500 mt-0.5">•</span>
+                    <li key={i} className="text-sm text-slate flex items-start gap-2">
+                      <span className="flex-shrink-0 text-ink mt-0.5">•</span>
                       <span>{pt}</span>
                     </li>
                   ))}
                 </ul>
               </div>
-              <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
-                <h3 className="font-bold text-gray-900 mb-4">📦 {copy.carrierHold.title}</h3>
+              <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+                <h3 className="font-bold text-ink mb-4">📦 {copy.carrierHold.title}</h3>
                 <ul className="space-y-2">
                   {copy.carrierHold.points.map((pt, i) => (
-                    <li key={i} className="text-sm text-gray-600 flex items-start gap-2">
-                      <span className="flex-shrink-0 text-blue-500 mt-0.5">•</span>
+                    <li key={i} className="text-sm text-slate flex items-start gap-2">
+                      <span className="flex-shrink-0 text-electric mt-0.5">•</span>
                       <span>{pt}</span>
                     </li>
                   ))}
@@ -1865,25 +1865,25 @@ export default async function FlyingWithPetGuidePage({
 
           {/* Breed restrictions */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-4">{copy.brachyTitle}</h2>
-            <p className="text-gray-600 text-sm leading-relaxed mb-6">{copy.brachyIntro}</p>
+            <h2 className="text-2xl font-bold text-ink mb-4">{copy.brachyTitle}</h2>
+            <p className="text-slate text-sm leading-relaxed mb-6">{copy.brachyIntro}</p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-5">
-              <div className="bg-white rounded-2xl border border-orange-100 shadow-sm p-5">
-                <h3 className="font-bold text-orange-800 text-sm mb-3">🐕 {copy.brachyDogs}</h3>
+              <div className="bg-white rounded-[22px] border-[1.6px] border-line shadow-hard p-5">
+                <h3 className="font-bold text-ink text-sm mb-3">🐕 {copy.brachyDogs}</h3>
                 <ul className="space-y-1">
                   {BRACHY_DOGS.map((breed) => (
-                    <li key={breed} className="text-xs text-gray-700 flex items-center gap-2">
+                    <li key={breed} className="text-xs text-slate flex items-center gap-2">
                       <span className="w-1.5 h-1.5 rounded-full bg-orange-400 flex-shrink-0" />
                       {breed}
                     </li>
                   ))}
                 </ul>
               </div>
-              <div className="bg-white rounded-2xl border border-orange-100 shadow-sm p-5">
-                <h3 className="font-bold text-orange-800 text-sm mb-3">🐈 {copy.brachyCats}</h3>
+              <div className="bg-white rounded-[22px] border-[1.6px] border-line shadow-hard p-5">
+                <h3 className="font-bold text-ink text-sm mb-3">🐈 {copy.brachyCats}</h3>
                 <ul className="space-y-1">
                   {BRACHY_CATS.map((breed) => (
-                    <li key={breed} className="text-xs text-gray-700 flex items-center gap-2">
+                    <li key={breed} className="text-xs text-slate flex items-center gap-2">
                       <span className="w-1.5 h-1.5 rounded-full bg-orange-400 flex-shrink-0" />
                       {breed}
                     </li>
@@ -1891,23 +1891,23 @@ export default async function FlyingWithPetGuidePage({
                 </ul>
               </div>
             </div>
-            <div className="bg-orange-50 border border-orange-200 rounded-2xl p-4 flex items-start gap-3">
-              <span className="text-orange-500 text-lg flex-shrink-0">⚠️</span>
-              <p className="text-sm text-orange-800 leading-relaxed">{copy.brachyWarning}</p>
+            <div className="bg-lime/30 border-[1.6px] border-line rounded-[22px] p-4 flex items-start gap-3">
+              <span className="text-ink text-lg flex-shrink-0">⚠️</span>
+              <p className="text-sm text-ink leading-relaxed">{copy.brachyWarning}</p>
             </div>
           </section>
 
           {/* Booking process */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{copy.bookingTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6">{copy.bookingTitle}</h2>
             <div className="space-y-4">
               {copy.bookingSteps.map((stepBlock, i) => (
-                <div key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
-                  <h3 className="font-bold text-gray-900 mb-3">{stepBlock.step}</h3>
+                <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+                  <h3 className="font-bold text-ink mb-3">{stepBlock.step}</h3>
                   <ul className="space-y-2">
                     {stepBlock.points.map((pt, j) => (
-                      <li key={j} className="text-sm text-gray-600 flex items-start gap-2">
-                        <span className="flex-shrink-0 text-blue-500 mt-0.5">•</span>
+                      <li key={j} className="text-sm text-slate flex items-start gap-2">
+                        <span className="flex-shrink-0 text-electric mt-0.5">•</span>
                         <span>{pt}</span>
                       </li>
                     ))}
@@ -1919,12 +1919,12 @@ export default async function FlyingWithPetGuidePage({
 
           {/* FAQ */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{copy.faqTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6">{copy.faqTitle}</h2>
             <div className="space-y-4">
               {copy.faqs.map((faq, i) => (
-                <div key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
-                  <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
-                  <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+                <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+                  <h3 className="font-semibold text-ink mb-2">{faq.q}</h3>
+                  <p className="text-slate text-sm leading-relaxed">{faq.a}</p>
                 </div>
               ))}
             </div>
@@ -1932,40 +1932,40 @@ export default async function FlyingWithPetGuidePage({
 
           {/* Internal links */}
           <section className="mb-8">
-            <h2 className="text-xl font-extrabold text-gray-900 mb-5">{copy.internalLinksTitle}</h2>
+            <h2 className="text-xl font-bold text-ink mb-5">{copy.internalLinksTitle}</h2>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
               <Link
                 href={`/${locale}/guides/passeport-animal`}
-                className="flex items-start gap-3 bg-white border border-gray-200 hover:border-blue-300 hover:bg-blue-50 rounded-2xl p-5 transition-all shadow-sm group"
+                className="flex items-start gap-3 bg-white border-[1.6px] border-ink hover:border-ink hover:bg-lavender-soft rounded-[22px] p-5 transition-all shadow-hard group"
               >
                 <span className="text-2xl flex-shrink-0">📔</span>
                 <div>
-                  <p className="font-semibold text-gray-900 text-sm group-hover:text-blue-700 transition-colors">{copy.relatedPassport}</p>
-                  <p className="text-xs text-gray-500 mt-0.5">
+                  <p className="font-semibold text-ink text-sm group-hover:text-electric transition-colors">{copy.relatedPassport}</p>
+                  <p className="text-xs text-slate mt-0.5">
                     {locale === 'fr' ? 'Puce, vaccin rage, règles par pays' : locale === 'es' ? 'Microchip, vacuna rabia, normas por país' : locale === 'de' ? 'Mikrochip, Tollwutimpfung, Regeln je Land' : locale === 'nl' ? 'Microchip, rabiësvaccinatie, regels per land' : locale === 'it' ? 'Microchip, vaccino antirabbico, regole per paese' : 'Microchip, rabies vaccine, country rules'}
                   </p>
                 </div>
               </Link>
               <Link
                 href={`/${locale}/guides`}
-                className="flex items-start gap-3 bg-white border border-gray-200 hover:border-blue-300 hover:bg-blue-50 rounded-2xl p-5 transition-all shadow-sm group"
+                className="flex items-start gap-3 bg-white border-[1.6px] border-ink hover:border-ink hover:bg-lavender-soft rounded-[22px] p-5 transition-all shadow-hard group"
               >
                 <span className="text-2xl flex-shrink-0">🗺️</span>
                 <div>
-                  <p className="font-semibold text-gray-900 text-sm group-hover:text-blue-700 transition-colors">{copy.relatedGuides}</p>
-                  <p className="text-xs text-gray-500 mt-0.5">
+                  <p className="font-semibold text-ink text-sm group-hover:text-electric transition-colors">{copy.relatedGuides}</p>
+                  <p className="text-xs text-slate mt-0.5">
                     {locale === 'fr' ? 'Train, hôtels, destinations...' : locale === 'es' ? 'Tren, hoteles, destinos...' : locale === 'de' ? 'Zug, Hotels, Reiseziele...' : locale === 'nl' ? 'Trein, hotels, bestemmingen...' : locale === 'it' ? 'Treno, hotel, destinazioni...' : 'Train, hotels, destinations...'}
                   </p>
                 </div>
               </Link>
               <Link
                 href={`/${locale}/destinations`}
-                className="flex items-start gap-3 bg-white border border-gray-200 hover:border-blue-300 hover:bg-blue-50 rounded-2xl p-5 transition-all shadow-sm group"
+                className="flex items-start gap-3 bg-white border-[1.6px] border-ink hover:border-ink hover:bg-lavender-soft rounded-[22px] p-5 transition-all shadow-hard group"
               >
                 <span className="text-2xl flex-shrink-0">🏨</span>
                 <div>
-                  <p className="font-semibold text-gray-900 text-sm group-hover:text-blue-700 transition-colors">{copy.relatedHotels}</p>
-                  <p className="text-xs text-gray-500 mt-0.5">
+                  <p className="font-semibold text-ink text-sm group-hover:text-electric transition-colors">{copy.relatedHotels}</p>
+                  <p className="text-xs text-slate mt-0.5">
                     {locale === 'fr' ? 'Comparez et réservez' : locale === 'es' ? 'Compara y reserva' : locale === 'de' ? 'Vergleichen und buchen' : locale === 'nl' ? 'Vergelijk en boek' : locale === 'it' ? 'Confronta e prenota' : 'Compare and book'}
                   </p>
                 </div>

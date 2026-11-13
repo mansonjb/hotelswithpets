@@ -15,21 +15,21 @@ interface FeaturedCombosProps {
 }
 
 const secondaryGradients = [
-  'from-cyan-500 to-blue-600',
-  'from-amber-500 to-orange-500',
-  'from-emerald-500 to-teal-600',
-  'from-rose-500 to-pink-600',
-  'from-violet-500 to-purple-600',
-  'from-indigo-500 to-blue-700',
+  'bg-ink',
+  'bg-electric',
+  'bg-night',
+  'bg-[#1d1596]',
+  'bg-ink',
+  'bg-electric',
 ]
 
 export default function FeaturedCombos({ locale, dict }: FeaturedCombosProps) {
   const [main, ...rest] = dict.combos.items
 
   return (
-    <section className="py-20 bg-gray-50">
+    <section className="py-20 bg-cream">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-4xl font-extrabold text-gray-900 mb-12 text-center">
+        <h2 className="text-4xl font-bold text-ink mb-12 text-center">
           {dict.combos.title}
         </h2>
 
@@ -37,22 +37,21 @@ export default function FeaturedCombos({ locale, dict }: FeaturedCombosProps) {
           {/* Main combo, full width */}
           <Link
             href={`/${locale}/${main.href}`}
-            className="lg:col-span-3 group relative overflow-hidden rounded-3xl bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 p-10 flex items-center justify-between shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-1"
+            className="lg:col-span-3 group relative overflow-hidden rounded-[28px] bg-electric border-[1.6px] border-ink p-10 flex items-center justify-between shadow-hard hover:shadow-hard transition-all duration-300 hover:-translate-y-1"
           >
-            <div className="absolute inset-0 bg-gradient-to-r from-blue-600/80 via-indigo-600/80 to-purple-600/80" />
-            <div className="absolute right-20 top-0 bottom-0 w-64 h-full bg-white/5 rounded-full blur-3xl" />
+                        <div className="absolute right-20 top-0 bottom-0 w-64 h-full bg-white/5 rounded-full blur-3xl" />
             <div className="absolute right-0 top-0 bottom-0 w-48 h-full bg-white/5 rounded-full blur-2xl" />
 
             <div className="relative flex items-center gap-6">
               <span className="text-6xl filter drop-shadow-lg">{main.emoji}</span>
               <div>
                 <p className="text-white/60 text-xs uppercase tracking-widest mb-1">{dict.combos.featuredLabel}</p>
-                <h3 className="text-white font-extrabold text-2xl lg:text-3xl leading-tight">
+                <h3 className="text-white font-bold text-2xl lg:text-3xl leading-tight">
                   {main.label}
                 </h3>
               </div>
             </div>
-            <span className="relative hidden lg:flex items-center gap-2 bg-white text-indigo-700 font-bold px-6 py-3 rounded-2xl shadow-lg group-hover:bg-indigo-50 transition-colors whitespace-nowrap">
+            <span className="relative hidden lg:flex items-center gap-2 bg-lime text-ink font-semibold px-6 py-3 rounded-full border-[1.6px] border-ink group-hover:bg-white transition-colors whitespace-nowrap">
               {dict.combos.viewGuide}
             </span>
           </Link>
@@ -62,7 +61,7 @@ export default function FeaturedCombos({ locale, dict }: FeaturedCombosProps) {
             <Link
               key={combo.href}
               href={`/${locale}/${combo.href}`}
-              className={`group relative overflow-hidden rounded-2xl flex items-center gap-5 p-7 shadow-md hover:shadow-xl transition-all duration-200 hover:-translate-y-1 bg-gradient-to-br ${secondaryGradients[i % secondaryGradients.length]}`}
+              className={`group relative overflow-hidden rounded-[22px] flex items-center gap-5 p-7 shadow-hard hover:shadow-hard transition-all duration-200 hover:-translate-y-1 border-[1.6px] border-ink ${secondaryGradients[i % secondaryGradients.length]}`}
             >
               <div className="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors" />
               <div className="absolute -right-4 -bottom-4 text-8xl opacity-10 select-none leading-none">

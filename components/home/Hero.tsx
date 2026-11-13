@@ -146,64 +146,64 @@ export default function Hero({ locale, dict }: HeroProps) {
     locale === 'it' ? 'Viaggio con...' : 'I\'m travelling with...'
 
   return (
-    <section className="relative overflow-hidden bg-white border-b border-gray-100">
+    <section className="relative overflow-hidden bg-cream border-b-[1.6px] border-ink">
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
 
           {/* ── Gauche : copy ── */}
           <div>
-            <span className="inline-flex items-center gap-2 rounded-full px-4 py-1.5 text-sm font-semibold mb-7 border border-orange-200 bg-orange-50 text-orange-600">
-              <span>🐾</span> {hero.badge}
+            <span className="eyebrow inline-flex items-center gap-2 rounded-full px-4 py-2 mb-7 border-[1.6px] border-ink bg-lime text-ink">
+              <span aria-hidden="true">🐾</span> {hero.badge}
             </span>
 
-            <h1 className="text-5xl lg:text-6xl font-extrabold leading-[1.08] tracking-tight mb-5 text-gray-900">
+            <h1 className="font-display text-5xl lg:text-7xl font-bold leading-[1.02] tracking-tight mb-6 text-ink">
               {headlines.line1}
               <br />
-              <span className="bg-gradient-to-r from-orange-500 to-blue-600 bg-clip-text text-transparent">
+              <span className="hl">
                 {headlines.line2}
               </span>
             </h1>
 
-            <p className="text-base text-gray-500 leading-relaxed mb-9 max-w-md">
+            <p className="text-lg text-slate leading-relaxed mb-9 max-w-md">
               {hero.subtitle}
             </p>
 
             {/* Stats */}
-            <div className="flex flex-wrap gap-x-8 gap-y-4 mb-9 pb-9 border-b border-gray-100">
+            <div className="flex flex-wrap gap-x-8 gap-y-4 mb-9 pb-9 border-b border-line">
               {[
                 { value: hero.stat1Value, label: hero.stat1Label },
                 { value: hero.stat2Value, label: hero.stat2Label },
                 { value: hero.stat3Value, label: hero.stat3Label },
               ].map((s) => (
                 <div key={s.label}>
-                  <p className="text-3xl font-black text-gray-900 leading-none">{s.value}</p>
-                  <p className="text-[11px] text-gray-400 mt-1.5 uppercase tracking-widest">{s.label}</p>
+                  <p className="font-display text-4xl font-bold text-ink leading-none">{s.value}</p>
+                  <p className="eyebrow text-slate mt-2">{s.label}</p>
                 </div>
               ))}
             </div>
 
             {/* Review */}
-            <div className="flex items-start gap-3 p-4 rounded-2xl bg-gray-50 border border-gray-100">
-              <span className="text-amber-400 text-base flex-shrink-0 mt-0.5">★★★★★</span>
+            <div className="flex items-start gap-3 p-5 rounded-[22px] bg-lavender-soft border-[1.6px] border-ink">
+              <span className="text-electric text-base flex-shrink-0 mt-0.5">★★★★★</span>
               <div>
-                <p className="text-sm text-gray-700 italic leading-relaxed">{review.text}</p>
-                <p className="text-xs text-gray-400 mt-1.5">{review.author}</p>
+                <p className="text-sm text-ink italic leading-relaxed">{review.text}</p>
+                <p className="eyebrow text-slate mt-2">{review.author}</p>
               </div>
             </div>
           </div>
 
           {/* ── Droite : formulaire ── */}
           <div>
-            <form onSubmit={handleSearch} className="bg-white rounded-3xl shadow-xl border border-gray-100 p-7">
+            <form onSubmit={handleSearch} className="bg-white rounded-[28px] shadow-hard border-[1.6px] border-ink p-7">
 
-              <p className="text-xs font-bold text-gray-400 uppercase tracking-widest mb-5">
+              <p className="eyebrow text-electric mb-5">
                 {locale === 'fr' ? 'Trouvez votre séjour' : locale === 'es' ? 'Encuentra tu estancia' : locale === 'pt' ? 'Encontre a sua estadia' : locale === 'de' ? 'Finden Sie Ihren Aufenthalt' : locale === 'nl' ? 'Vind je verblijf' : locale === 'it' ? 'Trova il tuo soggiorno' : 'Find your stay'}
               </p>
 
               {/* Destination */}
               <div className="relative mb-3">
-                <span className="absolute left-4 top-1/2 -translate-y-1/2 pointer-events-none text-gray-400">
+                <span className="absolute left-4 top-1/2 -translate-y-1/2 pointer-events-none text-slate">
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
@@ -216,20 +216,20 @@ export default function Hero({ locale, dict }: HeroProps) {
                   onFocus={() => setDestFocused(true)}
                   onBlur={() => setDestFocused(false)}
                   placeholder={hero.searchDestination}
-                  className="w-full pl-11 pr-4 py-4 bg-gray-50 border border-gray-200 text-gray-900 placeholder-gray-400 rounded-2xl text-sm outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-300 transition"
+                  className="w-full pl-11 pr-4 py-4 bg-cream border-[1.6px] border-ink text-ink placeholder-slate rounded-full text-sm outline-none focus:ring-2 focus:ring-electric transition"
                   autoComplete="off"
                   role="combobox"
                   aria-expanded={destFocused && destMatches.length > 0}
                   aria-autocomplete="list"
                 />
                 {destFocused && destMatches.length > 0 && (
-                  <ul className="absolute left-0 right-0 top-full mt-1 z-20 max-h-64 overflow-auto rounded-2xl border border-gray-200 bg-white shadow-xl py-1">
+                  <ul className="absolute left-0 right-0 top-full mt-1 z-20 max-h-64 overflow-auto rounded-[22px] border-[1.6px] border-ink bg-white shadow-hard py-1">
                     {destMatches.map((d) => (
                       <li key={d.slug}>
                         <button
                           type="button"
                           onMouseDown={(e) => { e.preventDefault(); setDestQuery(d.name); setDestFocused(false) }}
-                          className="w-full text-left px-4 py-2.5 text-sm text-gray-700 hover:bg-blue-50 hover:text-blue-700 transition-colors"
+                          className="w-full text-left px-4 py-2.5 text-sm text-ink hover:bg-lavender-soft hover:text-electric transition-colors"
                         >
                           {d.name}
                         </button>
@@ -241,7 +241,7 @@ export default function Hero({ locale, dict }: HeroProps) {
 
               {/* Category quick-pick pills */}
               <div className="mb-4">
-                <p className="text-[11px] text-gray-400 mb-2.5">{filterLabel}</p>
+                <p className="eyebrow text-slate mb-2.5">{filterLabel}</p>
                 <div className="flex flex-wrap gap-2">
                   {quickCats.map((cat) => {
                     const isSelected = selectedCat === cat.slug
@@ -250,10 +250,10 @@ export default function Hero({ locale, dict }: HeroProps) {
                         key={cat.slug}
                         type="button"
                         onClick={() => setSelectedCat(isSelected ? '' : cat.slug)}
-                        className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium border transition-all duration-150 ${
+                        className={`inline-flex items-center gap-1.5 px-3.5 py-2 rounded-full text-xs font-medium border-[1.6px] transition-all duration-150 ${
                           isSelected
-                            ? 'bg-blue-600 text-white border-blue-600 shadow-sm'
-                            : 'bg-white text-gray-600 border-gray-200 hover:border-blue-300 hover:text-blue-600'
+                            ? 'bg-ink text-white border-ink'
+                            : 'bg-white text-ink border-ink hover:bg-lime'
                         }`}
                       >
                         <span>{cat.emoji}</span>
@@ -266,22 +266,21 @@ export default function Hero({ locale, dict }: HeroProps) {
 
               <button
                 type="submit"
-                className="w-full font-bold py-4 rounded-2xl text-white text-sm tracking-wide transition-all duration-200 hover:-translate-y-0.5 shadow-lg hover:shadow-xl"
-                style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)', boxShadow: '0 8px 20px rgba(99,102,241,0.25)' }}
+                className="w-full font-semibold py-4 rounded-full border-[1.6px] border-ink bg-lime text-ink text-sm tracking-wide transition-all duration-150 shadow-hard hover:bg-electric hover:text-white hover:-translate-x-0.5 hover:-translate-y-0.5"
               >
                 {hero.cta} →
               </button>
 
               {/* Popular city chips */}
               <div className="mt-5">
-                <p className="text-[10px] text-gray-400 uppercase tracking-widest mb-2">{popularLabel}</p>
+                <p className="eyebrow text-slate mb-2">{popularLabel}</p>
                 <div className="flex flex-wrap gap-1.5">
                   {POPULAR_CITIES.map((city) => (
                     <button
                       key={city.name}
                       type="button"
                       onClick={() => handleCityChip(city.name)}
-                      className="text-[11px] px-2.5 py-1 rounded-full border border-gray-200 bg-white text-gray-600 hover:border-orange-300 hover:bg-orange-50 hover:text-orange-600 transition-all duration-150"
+                      className="text-xs px-3 py-1.5 rounded-full border-[1.6px] border-ink bg-white text-ink hover:bg-lime transition-all duration-150"
                     >
                       {city.flag} {city.name}
                     </button>
@@ -290,10 +289,10 @@ export default function Hero({ locale, dict }: HeroProps) {
               </div>
 
               {/* Trust */}
-              <div className="flex flex-wrap justify-center gap-x-4 gap-y-1 mt-5 pt-5 border-t border-gray-100">
+              <div className="flex flex-wrap justify-center gap-x-4 gap-y-1 mt-5 pt-5 border-t border-line">
                 {trust.map((item) => (
-                  <span key={item} className="text-[10px] text-gray-400 flex items-center gap-1">
-                    <span className="text-emerald-500">✓</span> {item}
+                  <span key={item} className="text-xs text-slate flex items-center gap-1">
+                    <span className="text-electric" aria-hidden="true">✓</span> {item}
                   </span>
                 ))}
               </div>

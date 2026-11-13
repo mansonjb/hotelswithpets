@@ -1770,10 +1770,10 @@ const COPY = {
 }
 
 const BADGE_COLORS: Record<Requirement, { bg: string; text: string; border: string; dot: string }> = {
-  standard: { bg: 'bg-emerald-50', text: 'text-emerald-700', border: 'border-emerald-200', dot: 'bg-emerald-500' },
-  extra: { bg: 'bg-amber-50', text: 'text-amber-700', border: 'border-amber-200', dot: 'bg-amber-500' },
+  standard: { bg: 'bg-lavender-soft', text: 'text-ink', border: 'border-line', dot: 'bg-electric' },
+  extra: { bg: 'bg-lime/30', text: 'text-ink', border: 'border-line', dot: 'bg-amber-500' },
   strict: { bg: 'bg-red-50', text: 'text-red-700', border: 'border-red-200', dot: 'bg-red-500' },
-  'non-eu': { bg: 'bg-blue-50', text: 'text-blue-700', border: 'border-blue-200', dot: 'bg-blue-400' },
+  'non-eu': { bg: 'bg-lavender-soft', text: 'text-electric', border: 'border-line', dot: 'bg-blue-400' },
 }
 
 const RELATED_DESTINATIONS = ['amsterdam', 'paris', 'barcelona', 'rome', 'lisbon', 'berlin', 'edinburgh', 'dublin', 'reykjavik', 'helsinki']
@@ -1832,76 +1832,76 @@ export default async function PetPassportGuidePage({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
-      <div className="min-h-screen bg-gray-50">
+      <div className="min-h-screen bg-cream">
 
         {/* Hero */}
-        <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-16">
+        <section className="text-white py-16 bg-electric border-b-[1.6px] border-ink">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center gap-2 mb-6">
-              <Link href={`/${locale}/countries`} className="text-blue-300 hover:text-white text-sm transition-colors">
+              <Link href={`/${locale}/countries`} className="text-lavender hover:text-white text-sm transition-colors">
                 {locale === 'fr' ? '← Pays' : locale === 'es' ? '← Países' : locale === 'de' ? '← Länder' : locale === 'nl' ? '← Landen' : locale === 'it' ? '← Paesi' : '← Countries'}
               </Link>
-              <span className="text-blue-500 text-sm">/</span>
-              <span className="text-blue-400 text-sm">{locale === 'fr' ? 'Passeport animal' : locale === 'es' ? 'Pasaporte de mascota' : locale === 'de' ? 'Heimtierausweis' : locale === 'nl' ? 'Dierenpaspoort' : locale === 'it' ? 'Passaporto per animali' : 'Pet passport'}</span>
+              <span className="text-electric text-sm">/</span>
+              <span className="text-lavender text-sm">{locale === 'fr' ? 'Passeport animal' : locale === 'es' ? 'Pasaporte de mascota' : locale === 'de' ? 'Heimtierausweis' : locale === 'nl' ? 'Dierenpaspoort' : locale === 'it' ? 'Passaporto per animali' : 'Pet passport'}</span>
             </div>
             <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 rounded-full px-3 py-1 text-xs font-medium mb-5">
               📋 {locale === 'fr' ? 'Guide pratique' : locale === 'es' ? 'Guía práctica' : locale === 'de' ? 'Praktischer Leitfaden' : locale === 'nl' ? 'Praktische gids' : locale === 'it' ? 'Guida pratica' : 'Practical guide'} · {copy.lastUpdate} {monthYear}
             </span>
-            <h1 className="text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">{copy.hero}</h1>
-            <p className="text-blue-200 text-base leading-relaxed max-w-3xl">{copy.subtitle}</p>
+            <h1 className="text-3xl lg:text-4xl font-bold mb-4 leading-tight">{copy.hero}</h1>
+            <p className="text-lavender text-base leading-relaxed max-w-3xl">{copy.subtitle}</p>
           </div>
         </section>
 
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 
           {/* Sources note */}
-          <div className="bg-blue-50 border border-blue-100 rounded-2xl p-5 mb-10 flex items-start gap-3">
-            <span className="text-blue-500 text-xl flex-shrink-0">🔍</span>
+          <div className="bg-lavender-soft border-[1.6px] border-ink rounded-[22px] p-5 mb-10 flex items-start gap-3">
+            <span className="text-electric text-xl flex-shrink-0">🔍</span>
             <div>
-              <p className="text-xs font-bold text-blue-700 uppercase tracking-widest mb-1">{copy.sources}</p>
-              <p className="text-sm text-blue-800 leading-relaxed">{copy.sourcesText}</p>
+              <p className="text-xs font-bold text-electric uppercase tracking-widest mb-1">{copy.sources}</p>
+              <p className="text-sm text-electric leading-relaxed">{copy.sourcesText}</p>
             </div>
           </div>
 
           {/* What is it */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{copy.whatIs}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-5">{copy.whatIs}</h2>
             <div className="space-y-4">
               {copy.whatIsText.map((para, i) => (
-                <p key={i} className="text-gray-700 leading-relaxed">{para}</p>
+                <p key={i} className="text-slate leading-relaxed">{para}</p>
               ))}
             </div>
           </section>
 
           {/* Checklist */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{copy.checklistTitle}</h2>
-            <div className="bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
+            <h2 className="text-2xl font-bold text-ink mb-5">{copy.checklistTitle}</h2>
+            <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard overflow-hidden">
               {copy.checklist.map((item, i) => (
                 <div key={i} className={`flex items-start gap-4 p-5 ${i < copy.checklist.length - 1 ? 'border-b border-gray-50' : ''}`}>
                   <span className="text-2xl flex-shrink-0 mt-0.5">{item.icon}</span>
                   <div>
-                    <p className="font-semibold text-gray-900 text-sm">{item.label}</p>
-                    <p className="text-xs text-gray-500 mt-0.5">{item.note}</p>
+                    <p className="font-semibold text-ink text-sm">{item.label}</p>
+                    <p className="text-xs text-slate mt-0.5">{item.note}</p>
                   </div>
-                  <span className="ml-auto flex-shrink-0 text-emerald-500 text-lg mt-0.5">✓</span>
+                  <span className="ml-auto flex-shrink-0 text-ink text-lg mt-0.5">✓</span>
                 </div>
               ))}
             </div>
           </section>
 
           {/* Expert tip */}
-          <div className="bg-amber-50 border border-amber-100 rounded-2xl p-5 mb-12 flex items-start gap-3">
-            <span className="text-amber-500 text-xl flex-shrink-0">💡</span>
+          <div className="bg-lime/30 border-[1.6px] border-ink rounded-[22px] p-5 mb-12 flex items-start gap-3">
+            <span className="text-ink text-xl flex-shrink-0">💡</span>
             <div>
-              <p className="text-sm font-bold text-amber-800 mb-1">{copy.tipTitle}</p>
-              <p className="text-sm text-amber-800 leading-relaxed">{copy.tipText}</p>
+              <p className="text-sm font-bold text-ink mb-1">{copy.tipTitle}</p>
+              <p className="text-sm text-ink leading-relaxed">{copy.tipText}</p>
             </div>
           </div>
 
           {/* Country rules */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-8">{copy.tableTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-8">{copy.tableTitle}</h2>
 
             {/* Legend */}
             <div className="flex flex-wrap gap-3 mb-8">
@@ -1921,29 +1921,29 @@ export default async function PetPassportGuidePage({
             </div>
 
             {/* Standard EU countries */}
-            <h3 className="text-sm font-bold text-gray-500 uppercase tracking-widest mb-4">{copy.levelStandard}</h3>
+            <h3 className="text-sm font-bold text-slate uppercase tracking-widest mb-4">{copy.levelStandard}</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
               {standardCountries.map((country) => {
                 const colors = BADGE_COLORS[country.requirement]
                 return (
-                  <div key={country.slug} className="bg-white rounded-xl border border-gray-100 shadow-sm p-5">
+                  <div key={country.slug} className="bg-white rounded-xl border border-line p-5">
                     <div className="flex items-start gap-3 mb-3">
                       <span className="text-3xl flex-shrink-0">{country.flag}</span>
                       <div className="flex-1 min-w-0">
                         <div className="flex items-center gap-2 flex-wrap mb-1">
-                          <h4 className="font-bold text-gray-900 text-sm">{country.name[lang]}</h4>
+                          <h4 className="font-bold text-ink text-sm">{country.name[lang]}</h4>
                           <span className={`inline-flex items-center gap-1 text-[10px] font-medium px-2 py-0.5 rounded-full border ${colors.bg} ${colors.text} ${colors.border}`}>
                             <span className={`w-1.5 h-1.5 rounded-full ${colors.dot}`} />
                             {copy.levelStandard}
                           </span>
                         </div>
-                        <p className="text-xs text-gray-500 leading-relaxed">{country.summary[lang]}</p>
+                        <p className="text-xs text-slate leading-relaxed">{country.summary[lang]}</p>
                       </div>
                     </div>
                     <ul className="space-y-1 mb-3">
                       {country.details[lang].map((d, i) => (
-                        <li key={i} className="text-xs text-gray-600 flex items-start gap-1.5">
-                          <span className="flex-shrink-0 mt-0.5 text-emerald-500">•</span>
+                        <li key={i} className="text-xs text-slate flex items-start gap-1.5">
+                          <span className="flex-shrink-0 mt-0.5 text-ink">•</span>
                           <span>{d}</span>
                         </li>
                       ))}
@@ -1952,7 +1952,7 @@ export default async function PetPassportGuidePage({
                       {(country.countrySiteSlug || country.destinationSlug) && (
                         <Link
                           href={country.countrySiteSlug ? `/${locale}/countries/${country.countrySiteSlug}` : `/${locale}/destinations/${country.destinationSlug}`}
-                          className="text-[11px] font-semibold text-blue-600 hover:text-blue-700 bg-blue-50 hover:bg-blue-100 px-2.5 py-1 rounded-full transition-colors">
+                          className="text-[11px] font-semibold text-electric hover:text-ink bg-lavender-soft hover:bg-lavender px-2.5 py-1 rounded-full transition-colors">
                           {copy.seeHotels} →
                         </Link>
                       )}
@@ -1963,28 +1963,28 @@ export default async function PetPassportGuidePage({
             </div>
 
             {/* Extra requirements */}
-            <h3 className="text-sm font-bold text-gray-500 uppercase tracking-widest mb-4">{copy.levelExtra}</h3>
+            <h3 className="text-sm font-bold text-slate uppercase tracking-widest mb-4">{copy.levelExtra}</h3>
             <div className="space-y-4 mb-8">
               {extraCountries.map((country) => {
                 const colors = BADGE_COLORS[country.requirement]
                 return (
-                  <div key={country.slug} className="bg-white rounded-xl border border-amber-100 shadow-sm p-6">
+                  <div key={country.slug} className="bg-white rounded-xl border border-line p-6">
                     <div className="flex items-start gap-3 mb-4">
                       <span className="text-3xl flex-shrink-0">{country.flag}</span>
                       <div className="flex-1 min-w-0">
                         <div className="flex items-center gap-2 flex-wrap mb-1">
-                          <h4 className="font-bold text-gray-900">{country.name[lang]}</h4>
+                          <h4 className="font-bold text-ink">{country.name[lang]}</h4>
                           <span className={`inline-flex items-center gap-1 text-[10px] font-medium px-2 py-0.5 rounded-full border ${colors.bg} ${colors.text} ${colors.border}`}>
                             <span className={`w-1.5 h-1.5 rounded-full ${colors.dot}`} />
                             {copy.levelExtra}
                           </span>
                         </div>
-                        <p className="text-sm text-gray-600 leading-relaxed">{country.summary[lang]}</p>
+                        <p className="text-sm text-slate leading-relaxed">{country.summary[lang]}</p>
                       </div>
                     </div>
                     <ul className="space-y-2 mb-4">
                       {country.details[lang].map((d, i) => (
-                        <li key={i} className={`text-sm flex items-start gap-2 ${d.startsWith('⚠️') ? 'font-semibold text-amber-800' : 'text-gray-600'}`}>
+                        <li key={i} className={`text-sm flex items-start gap-2 ${d.startsWith('⚠️') ? 'font-semibold text-ink' : 'text-slate'}`}>
                           <span className="flex-shrink-0 mt-0.5">{d.startsWith('⚠️') ? '' : '•'}</span>
                           <span>{d}</span>
                         </li>
@@ -1994,7 +1994,7 @@ export default async function PetPassportGuidePage({
                       {(country.countrySiteSlug || country.destinationSlug) && (
                         <Link
                           href={country.countrySiteSlug ? `/${locale}/countries/${country.countrySiteSlug}` : `/${locale}/destinations/${country.destinationSlug}`}
-                          className="text-[11px] font-semibold text-blue-600 hover:text-blue-700 bg-blue-50 hover:bg-blue-100 px-2.5 py-1 rounded-full transition-colors">
+                          className="text-[11px] font-semibold text-electric hover:text-ink bg-lavender-soft hover:bg-lavender px-2.5 py-1 rounded-full transition-colors">
                           {copy.seeHotels} →
                         </Link>
                       )}
@@ -2005,29 +2005,29 @@ export default async function PetPassportGuidePage({
             </div>
 
             {/* Strict / Non-EU */}
-            <h3 className="text-sm font-bold text-gray-500 uppercase tracking-widest mb-4">{copy.levelStrict}</h3>
+            <h3 className="text-sm font-bold text-slate uppercase tracking-widest mb-4">{copy.levelStrict}</h3>
             <div className="space-y-4">
               {strictCountries.map((country) => {
                 const colors = BADGE_COLORS[country.requirement]
                 const levelLabel = country.requirement === 'non-eu' ? copy.levelNonEu : copy.levelStrict
                 return (
-                  <div key={country.slug} className={`bg-white rounded-xl border shadow-sm p-6 ${country.requirement === 'strict' ? 'border-red-100' : 'border-blue-100'}`}>
+                  <div key={country.slug} className={`bg-white rounded-xl border p-6 ${country.requirement === 'strict' ? 'border-red-100' : 'border-line'}`}>
                     <div className="flex items-start gap-3 mb-4">
                       <span className="text-3xl flex-shrink-0">{country.flag}</span>
                       <div className="flex-1 min-w-0">
                         <div className="flex items-center gap-2 flex-wrap mb-1">
-                          <h4 className="font-bold text-gray-900">{country.name[lang]}</h4>
+                          <h4 className="font-bold text-ink">{country.name[lang]}</h4>
                           <span className={`inline-flex items-center gap-1 text-[10px] font-medium px-2 py-0.5 rounded-full border ${colors.bg} ${colors.text} ${colors.border}`}>
                             <span className={`w-1.5 h-1.5 rounded-full ${colors.dot}`} />
                             {levelLabel}
                           </span>
                         </div>
-                        <p className="text-sm text-gray-600 leading-relaxed">{country.summary[lang]}</p>
+                        <p className="text-sm text-slate leading-relaxed">{country.summary[lang]}</p>
                       </div>
                     </div>
                     <ul className="space-y-2 mb-4">
                       {country.details[lang].map((d, i) => (
-                        <li key={i} className={`text-sm flex items-start gap-2 ${d.startsWith('⚠️') ? 'font-semibold text-red-700' : 'text-gray-600'}`}>
+                        <li key={i} className={`text-sm flex items-start gap-2 ${d.startsWith('⚠️') ? 'font-semibold text-red-700' : 'text-slate'}`}>
                           <span className="flex-shrink-0 mt-0.5">{d.startsWith('⚠️') ? '' : '•'}</span>
                           <span>{d}</span>
                         </li>
@@ -2037,7 +2037,7 @@ export default async function PetPassportGuidePage({
                       {(country.countrySiteSlug || country.destinationSlug) && (
                         <Link
                           href={country.countrySiteSlug ? `/${locale}/countries/${country.countrySiteSlug}` : `/${locale}/destinations/${country.destinationSlug}`}
-                          className="text-[11px] font-semibold text-blue-600 hover:text-blue-700 bg-blue-50 hover:bg-blue-100 px-2.5 py-1 rounded-full transition-colors">
+                          className="text-[11px] font-semibold text-electric hover:text-ink bg-lavender-soft hover:bg-lavender px-2.5 py-1 rounded-full transition-colors">
                           {copy.seeHotels} →
                         </Link>
                       )}
@@ -2050,12 +2050,12 @@ export default async function PetPassportGuidePage({
 
           {/* FAQ */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-8">{copy.faqTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-8">{copy.faqTitle}</h2>
             <div className="space-y-4">
               {copy.faqs.map((faq, i) => (
-                <div key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
-                  <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
-                  <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+                <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+                  <h3 className="font-semibold text-ink mb-2">{faq.q}</h3>
+                  <p className="text-slate text-sm leading-relaxed">{faq.a}</p>
                 </div>
               ))}
             </div>
@@ -2063,8 +2063,8 @@ export default async function PetPassportGuidePage({
 
           {/* Related destinations */}
           <section className="mb-8">
-            <h2 className="text-xl font-extrabold text-gray-900 mb-2">{copy.relatedTitle}</h2>
-            <p className="text-sm text-gray-500 mb-6">{copy.relatedText}</p>
+            <h2 className="text-xl font-bold text-ink mb-2">{copy.relatedTitle}</h2>
+            <p className="text-sm text-slate mb-6">{copy.relatedText}</p>
             <div className="flex flex-wrap gap-2">
               {RELATED_DESTINATIONS.map((slug) => {
                 const rule = COUNTRY_RULES.find((c) => c.destinationSlug === slug)
@@ -2072,7 +2072,7 @@ export default async function PetPassportGuidePage({
                   <Link
                     key={slug}
                     href={`/${locale}/destinations/${slug}`}
-                    className="inline-flex items-center gap-1.5 text-sm font-medium bg-white border border-gray-200 hover:border-blue-300 hover:bg-blue-50 text-gray-700 hover:text-blue-700 px-4 py-2 rounded-full transition-all shadow-sm"
+                    className="inline-flex items-center gap-1.5 text-sm font-medium bg-white border border-line hover:border-ink hover:bg-lavender-soft text-slate hover:text-ink px-4 py-2 rounded-full transition-all "
                   >
                     {rule?.flag ?? '🌍'} {slug.charAt(0).toUpperCase() + slug.slice(1)}
                   </Link>

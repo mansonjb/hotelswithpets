@@ -493,17 +493,17 @@ export default async function AutumnDestinationsPage({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />
 
       {/* Hero */}
-      <section className="bg-gradient-to-br from-amber-900 via-orange-800 to-red-800 text-white">
+      <section className="text-white bg-electric">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16 sm:py-20">
           <nav className="text-white/60 text-xs mb-4">
             <Link href={`/${locale}`} className="hover:text-white">{p(T.breadHome, locale)}</Link>
             <span className="mx-1.5">/</span>
             <Link href={`/${locale}/guides`} className="hover:text-white">{p(T.breadGuides, locale)}</Link>
           </nav>
-          <div className="inline-flex items-center gap-2 bg-orange-500/20 border border-orange-400/30 text-orange-200 text-xs font-bold uppercase tracking-widest px-3 py-1.5 rounded-full mb-5">
+          <div className="inline-flex items-center gap-2 bg-white/10 border border-white/20 text-lime text-xs font-bold uppercase tracking-widest px-3 py-1.5 rounded-full mb-5">
             🍂 {p(T.kicker, locale)}
           </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight mb-5">
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight mb-5">
             {p(T.title, locale)}
           </h1>
           <p className="text-lg text-white/80 leading-relaxed max-w-3xl">
@@ -529,25 +529,25 @@ export default async function AutumnDestinationsPage({
         {THEMES.map((theme, themeIdx) => (
           <section key={theme.id} id={theme.id} className="scroll-mt-20">
             {/* Theme header */}
-            <div className="flex items-start justify-between gap-4 mb-4 pb-4 border-b border-gray-100">
+            <div className="flex items-start justify-between gap-4 mb-4 pb-4 border-b border-line">
               <div className="flex items-start gap-3">
                 <span className="text-4xl leading-none">{theme.emoji}</span>
                 <div>
-                  <h2 className="text-2xl font-extrabold text-gray-900">{p(theme.name, locale)}</h2>
+                  <h2 className="text-2xl font-bold text-ink">{p(theme.name, locale)}</h2>
                 </div>
               </div>
-              <div className="text-2xl font-black text-gray-200 select-none tabular-nums">
+              <div className="text-2xl font-bold text-gray-200 select-none tabular-nums">
                 {String(themeIdx + 1).padStart(2, '0')}
               </div>
             </div>
-            <p className="text-gray-600 text-sm leading-relaxed mb-6 max-w-3xl">{p(theme.blurb, locale)}</p>
+            <p className="text-slate text-sm leading-relaxed mb-6 max-w-3xl">{p(theme.blurb, locale)}</p>
 
             {/* Destination cards */}
             <div className="space-y-4">
               {theme.destinations.map((dest) => (
                 <div
                   key={dest.slug}
-                  className="bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow overflow-hidden"
+                  className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard transition-shadow overflow-hidden"
                 >
                   <div className="relative h-40 sm:h-52">
                     <Image
@@ -559,44 +559,44 @@ export default async function AutumnDestinationsPage({
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/65 via-black/10 to-transparent" />
                     <div className="absolute bottom-0 inset-x-0 p-4 sm:p-5 flex items-end justify-between gap-3">
-                      <h3 className="text-white text-xl sm:text-2xl font-extrabold drop-shadow-sm">{getLocalizedCityName(dest.slug, dest.name, locale)}</h3>
+                      <h3 className="text-white text-xl sm:text-2xl font-bold drop-shadow-sm">{getLocalizedCityName(dest.slug, dest.name, locale)}</h3>
                       <div className="flex-shrink-0 text-right text-white">
-                        <div className="text-2xl font-black leading-none drop-shadow-sm">{dest.octTemp}°C</div>
+                        <div className="text-2xl font-bold leading-none drop-shadow-sm">{dest.octTemp}°C</div>
                         <div className="text-[11px] text-white/85">{p(T.octTemp, locale)}</div>
                       </div>
                     </div>
                   </div>
                   <div className="p-5 sm:p-6">
-                    <div className="inline-flex items-center gap-1 bg-amber-50 text-amber-800 text-xs font-semibold px-2.5 py-1 rounded-full mb-3">
+                    <div className="inline-flex items-center gap-1 bg-lime/30 text-ink text-xs font-semibold px-2.5 py-1 rounded-full mb-3">
                       {p(dest.tag, locale)}
                     </div>
-                    <p className="text-gray-700 text-sm leading-relaxed mb-4">{p(dest.why, locale)}</p>
+                    <p className="text-slate text-sm leading-relaxed mb-4">{p(dest.why, locale)}</p>
                     {(HOTELS_BY_DEST[dest.slug] ?? []).length > 0 && (
                       <div className="mb-4">
-                        <div className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2">{p(T.ourPicks, locale)}</div>
-                        <div className="rounded-xl border border-gray-100 overflow-hidden divide-y divide-gray-100">
+                        <div className="text-xs font-semibold text-slate uppercase tracking-wide mb-2">{p(T.ourPicks, locale)}</div>
+                        <div className="rounded-xl border border-line overflow-hidden divide-y divide-gray-100">
                           {(HOTELS_BY_DEST[dest.slug] ?? []).map((h) => (
                             <Link
                               key={h.slug}
                               href={`/${locale}/hotels/${h.slug}`}
-                              className="flex items-center gap-3 px-3 py-2.5 hover:bg-amber-50/60 transition-colors"
+                              className="flex items-center gap-3 px-3 py-2.5 hover:bg-lime/30 transition-colors"
                             >
                               <Image
                                 src={`/images/hotels/${h.id}.jpg`}
                                 alt={h.name}
                                 width={64}
                                 height={48}
-                                className="w-16 h-12 rounded-lg object-cover flex-shrink-0 bg-gray-100"
+                                className="w-16 h-12 rounded-lg object-cover flex-shrink-0 bg-lavender-soft"
                               />
                               <span className="min-w-0 flex-1">
-                                <span className="block text-sm font-semibold text-gray-900 truncate">{h.name}</span>
-                                <span className="block text-xs text-gray-500">
+                                <span className="block text-sm font-semibold text-ink truncate">{h.name}</span>
+                                <span className="block text-xs text-slate">
                                   {'★'.repeat(h.stars || 0)} · {h.rating.toFixed(1)}/10{h.petFee === 0 ? ` · ${p(T.noFee, locale)}` : ''}
                                 </span>
                               </span>
                               <span className="flex-shrink-0 text-right">
-                                <span className="block text-[11px] text-gray-400">{p(T.fromWord, locale)}</span>
-                                <span className="block text-sm font-bold text-gray-900">{h.currency === 'GBP' ? '£' : '€'}{h.priceFrom}</span>
+                                <span className="block text-[11px] text-slate">{p(T.fromWord, locale)}</span>
+                                <span className="block text-sm font-bold text-ink">{h.currency === 'GBP' ? '£' : '€'}{h.priceFrom}</span>
                               </span>
                             </Link>
                           ))}
@@ -608,13 +608,13 @@ export default async function AutumnDestinationsPage({
                         href={buildAllezDestLink(dest.name, dest.country, `${CAMPAIGN}-${dest.slug}`, 3)}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="inline-flex items-center gap-1.5 bg-orange-600 hover:bg-orange-700 text-white text-sm font-bold px-4 py-2 rounded-xl transition-colors"
+                        className="inline-flex items-center gap-1.5 bg-coral hover:bg-coral text-white text-sm font-bold px-4 py-2 rounded-xl transition-colors"
                       >
                         🏨 {p(T.seeHotels, locale)}
                       </a>
                       <Link
                         href={`/${locale}/destinations/${dest.slug}`}
-                        className="inline-flex items-center gap-1.5 border border-gray-200 hover:border-orange-300 text-gray-700 hover:text-orange-700 text-sm font-semibold px-4 py-2 rounded-xl transition-colors"
+                        className="inline-flex items-center gap-1.5 border border-line hover:border-line text-slate hover:text-ink text-sm font-semibold px-4 py-2 rounded-xl transition-colors"
                       >
                         🐾 {p(T.seeGuide, locale)}
                       </Link>
@@ -627,17 +627,17 @@ export default async function AutumnDestinationsPage({
         ))}
 
         {/* Sibling guides */}
-        <section className="bg-amber-50 border border-amber-100 rounded-3xl p-8">
-          <h2 className="text-xl font-extrabold text-gray-900 mb-5">{p(T.siblingTitle, locale)}</h2>
+        <section className="bg-lime/30 border-[1.6px] border-ink rounded-[28px] p-8">
+          <h2 className="text-xl font-bold text-ink mb-5">{p(T.siblingTitle, locale)}</h2>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
             {SIBLING_GUIDES.map((g) => (
               <Link
                 key={g.slug}
                 href={`/${locale}/guides/${g.slug}`}
-                className="group flex items-start gap-3 bg-white rounded-2xl border border-amber-100 hover:border-orange-300 hover:shadow-md transition-all p-4"
+                className="group flex items-start gap-3 bg-white rounded-[22px] border-[1.6px] border-ink hover:border-line transition-all p-4"
               >
                 <span className="text-2xl flex-shrink-0">{g.emoji}</span>
-                <p className="font-semibold text-gray-900 text-sm group-hover:text-orange-700 transition-colors leading-snug">
+                <p className="font-semibold text-ink text-sm group-hover:text-ink transition-colors leading-snug">
                   {p(g.label, locale)}
                 </p>
               </Link>
@@ -653,12 +653,12 @@ export default async function AutumnDestinationsPage({
               { q: T.faq.q2, a: T.faq.a2 },
               { q: T.faq.q3, a: T.faq.a3 },
             ].map((f, i) => (
-              <details key={i} className="bg-white rounded-2xl border border-gray-200 shadow-sm group">
-                <summary className="px-6 py-4 font-semibold text-gray-900 cursor-pointer list-none flex items-center justify-between gap-4">
+              <details key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard group">
+                <summary className="px-6 py-4 font-semibold text-ink cursor-pointer list-none flex items-center justify-between gap-4">
                   {p(f.q, locale)}
-                  <span aria-hidden="true" className="text-gray-500 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
+                  <span aria-hidden="true" className="text-slate group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
                 </summary>
-                <p className="px-6 pb-5 text-gray-600 leading-relaxed">{p(f.a, locale)}</p>
+                <p className="px-6 pb-5 text-slate leading-relaxed">{p(f.a, locale)}</p>
               </details>
             ))}
           </div>

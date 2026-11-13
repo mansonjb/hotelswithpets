@@ -19,13 +19,13 @@ interface DestinationCardProps {
 }
 
 const VIBE_STYLES: Record<string, { bg: string; label: string; emoji: string }> = {
-  beach:    { bg: 'bg-teal-500',   label: 'Beach',    emoji: '🏖️' },
-  island:   { bg: 'bg-cyan-500',   label: 'Island',   emoji: '🏝️' },
-  mountain: { bg: 'bg-blue-700',   label: 'Mountain', emoji: '⛰️' },
-  historic: { bg: 'bg-amber-600',  label: 'Historic', emoji: '🏛️' },
-  luxury:   { bg: 'bg-purple-600', label: 'Luxury',   emoji: '✨' },
-  coastal:  { bg: 'bg-sky-500',    label: 'Coastal',  emoji: '🌊' },
-  urban:    { bg: 'bg-indigo-600', label: 'Urban',    emoji: '🏙️' },
+  beach:    { bg: 'bg-electric',   label: 'Beach',    emoji: '🏖️' },
+  island:   { bg: 'bg-electric',   label: 'Island',   emoji: '🏝️' },
+  mountain: { bg: 'bg-electric',   label: 'Mountain', emoji: '⛰️' },
+  historic: { bg: 'bg-coral',  label: 'Historic', emoji: '🏛️' },
+  luxury:   { bg: 'bg-electric', label: 'Luxury',   emoji: '✨' },
+  coastal:  { bg: 'bg-electric',    label: 'Coastal',  emoji: '🌊' },
+  urban:    { bg: 'bg-electric', label: 'Urban',    emoji: '🏙️' },
 }
 
 export default function DestinationCard({
@@ -56,7 +56,7 @@ export default function DestinationCard({
   return (
     <Link
       href={`/${locale}/destinations/${destination.slug}`}
-      className={`group relative overflow-hidden rounded-2xl ${heightClass} flex flex-col justify-end hover:scale-[1.02] transition-transform duration-200 shadow-sm hover:shadow-lg`}
+      className={`group relative overflow-hidden rounded-[22px] ${heightClass} flex flex-col justify-end hover:scale-[1.02] transition-transform duration-200 hover:shadow-hard`}
     >
       {/* Background image or gradient fallback */}
       {heroSrc ? (
@@ -70,7 +70,7 @@ export default function DestinationCard({
           />
         </div>
       ) : (
-        <div className="absolute inset-0 bg-gradient-to-br from-blue-800 to-indigo-900" />
+        <div className="absolute inset-0 bg-lavender-soft" />
       )}
 
       {/* Dark overlay gradient */}

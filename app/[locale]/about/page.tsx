@@ -327,14 +327,14 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
   }
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(aboutPageSchema) }} />
       {/* Hero */}
-      <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-20">
+      <section className="text-white py-20 bg-electric border-b-[1.6px] border-ink">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <span className="text-5xl block mb-6">🐾</span>
-          <h1 className="text-4xl lg:text-5xl font-extrabold mb-4">{c.title}</h1>
-          <p className="text-blue-200 text-lg leading-relaxed">{c.subtitle}</p>
+          <h1 className="text-4xl lg:text-5xl font-bold mb-4">{c.title}</h1>
+          <p className="text-lavender text-lg leading-relaxed">{c.subtitle}</p>
         </div>
       </section>
 
@@ -344,30 +344,30 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
 
           {/* Mission */}
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-4">{c.mission.title}</h2>
-            <p className="text-gray-600 leading-relaxed text-lg">{c.mission.text}</p>
+            <h2 className="text-2xl font-bold text-ink mb-4">{c.mission.title}</h2>
+            <p className="text-slate leading-relaxed text-lg">{c.mission.text}</p>
           </section>
 
           {/* Editor identity + verification method (E-E-A-T) */}
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-4">{e.title}</h2>
-            <p className="text-gray-600 leading-relaxed">{e.text}</p>
-            <h3 className="text-lg font-bold text-gray-900 mt-6 mb-2">{e.methodTitle}</h3>
-            <p className="text-gray-600 leading-relaxed">{e.method}</p>
+            <h2 className="text-2xl font-bold text-ink mb-4">{e.title}</h2>
+            <p className="text-slate leading-relaxed">{e.text}</p>
+            <h3 className="text-lg font-bold text-ink mt-6 mb-2">{e.methodTitle}</h3>
+            <p className="text-slate leading-relaxed">{e.method}</p>
           </section>
 
           {/* How we select */}
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{c.how.title}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6">{c.how.title}</h2>
             <div className="grid gap-4">
               {c.how.steps.map((step, i) => (
-                <div key={i} className="bg-white rounded-2xl p-6 border border-gray-100 shadow-sm flex gap-4">
-                  <span className="flex-shrink-0 w-8 h-8 rounded-full bg-blue-600 text-white flex items-center justify-center text-sm font-black">
+                <div key={i} className="bg-white rounded-[22px] p-6 border-[1.6px] border-ink shadow-hard flex gap-4">
+                  <span className="flex-shrink-0 w-8 h-8 rounded-full bg-electric text-white flex items-center justify-center text-sm font-bold">
                     {i + 1}
                   </span>
                   <div>
-                    <h3 className="font-bold text-gray-900 mb-1">{step.title}</h3>
-                    <p className="text-gray-600 text-sm leading-relaxed">{step.text}</p>
+                    <h3 className="font-bold text-ink mb-1">{step.title}</h3>
+                    <p className="text-slate text-sm leading-relaxed">{step.text}</p>
                   </div>
                 </div>
               ))}
@@ -375,23 +375,23 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
           </section>
 
           {/* Stats */}
-          <section className="bg-blue-600 rounded-3xl p-8 text-white">
+          <section className="bg-electric rounded-[28px] p-8 text-white">
             <div className="grid grid-cols-3 gap-6 text-center">
               <div>
-                <p className="text-4xl font-black">43</p>
-                <p className="text-blue-200 text-sm mt-1">
+                <p className="text-4xl font-bold">43</p>
+                <p className="text-lavender text-sm mt-1">
                   {locale === 'fr' ? 'Destinations' : locale === 'es' ? 'Destinos' : locale === 'de' ? 'Reiseziele' : locale === 'nl' ? 'Bestemmingen' : locale === 'it' ? 'Destinazioni' : 'Destinations'}
                 </p>
               </div>
               <div>
-                <p className="text-4xl font-black">340+</p>
-                <p className="text-blue-200 text-sm mt-1">
+                <p className="text-4xl font-bold">340+</p>
+                <p className="text-lavender text-sm mt-1">
                   {locale === 'fr' ? 'Hôtels vérifiés' : locale === 'es' ? 'Hoteles verificados' : locale === 'de' ? 'Geprüfte Hotels' : locale === 'nl' ? 'Geverifieerde hotels' : locale === 'it' ? 'Hotel verificati' : 'Verified hotels'}
                 </p>
               </div>
               <div>
-                <p className="text-4xl font-black">6</p>
-                <p className="text-blue-200 text-sm mt-1">
+                <p className="text-4xl font-bold">6</p>
+                <p className="text-lavender text-sm mt-1">
                   {locale === 'fr' ? 'Catégories animaux' : locale === 'es' ? 'Categorías' : locale === 'de' ? 'Tierkategorien' : locale === 'nl' ? 'Diercategorieën' : locale === 'it' ? 'Categorie di animali' : 'Pet categories'}
                 </p>
               </div>
@@ -399,15 +399,15 @@ export default async function AboutPage({ params }: { params: Promise<{ locale: 
           </section>
 
           {/* Affiliate disclosure */}
-          <section className="bg-amber-50 border border-amber-100 rounded-2xl p-6">
-            <h2 className="text-xl font-extrabold text-gray-900 mb-3">{c.affiliate.title}</h2>
-            <p className="text-gray-600 text-sm leading-relaxed">{c.affiliate.text}</p>
+          <section className="bg-lime/30 border-[1.6px] border-ink rounded-[22px] p-6">
+            <h2 className="text-xl font-bold text-ink mb-3">{c.affiliate.title}</h2>
+            <p className="text-slate text-sm leading-relaxed">{c.affiliate.text}</p>
           </section>
 
           {/* Contact */}
           <section>
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-4">{c.contact.title}</h2>
-            <p className="text-gray-600 leading-relaxed">{c.contact.text}</p>
+            <h2 className="text-2xl font-bold text-ink mb-4">{c.contact.title}</h2>
+            <p className="text-slate leading-relaxed">{c.contact.text}</p>
           </section>
 
         </div>

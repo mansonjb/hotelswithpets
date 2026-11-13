@@ -353,7 +353,7 @@ export default async function Page({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
 
       {/* Hero */}
-      <section className="relative bg-gradient-to-br from-stone-900 via-slate-800 to-blue-900 text-white overflow-hidden">
+      <section className="relative bg-night text-white overflow-hidden">
         {/* Background hero image */}
         <div className="absolute inset-0 z-0 pointer-events-none">
           <Image
@@ -364,7 +364,7 @@ export default async function Page({
             sizes="(max-width: 1024px) 100vw, 1024px"
             className="object-cover opacity-40"
           />
-          <div className="absolute inset-0 bg-gradient-to-br from-stone-900/80 via-slate-900/60 to-blue-900/70" />
+          <div className="absolute inset-0 bg-night/70" />
         </div>
         <div className="relative z-10 max-w-5xl mx-auto px-4 py-14 sm:py-20">
           <nav className="text-sm text-white/60 mb-5">

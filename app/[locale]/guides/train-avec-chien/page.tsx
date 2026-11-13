@@ -1317,8 +1317,8 @@ const COPY = {
 }
 
 const ALLOWED_COLORS: Record<AllowedStatus, { bg: string; text: string; border: string }> = {
-  yes: { bg: 'bg-emerald-50', text: 'text-emerald-700', border: 'border-emerald-200' },
-  partial: { bg: 'bg-amber-50', text: 'text-amber-700', border: 'border-amber-200' },
+  yes: { bg: 'bg-lavender-soft', text: 'text-ink', border: 'border-line' },
+  partial: { bg: 'bg-lime/30', text: 'text-ink', border: 'border-line' },
   no: { bg: 'bg-red-50', text: 'text-red-700', border: 'border-red-200' },
 }
 
@@ -1375,23 +1375,23 @@ export default async function TrainAvecChienPage({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
-      <div className="min-h-screen bg-gray-50">
+      <div className="min-h-screen bg-cream">
 
         {/* Hero */}
-        <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-16">
+        <section className="text-white py-16 bg-electric border-b-[1.6px] border-ink">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center gap-2 mb-6">
-              <Link href={`/${locale}/guides`} className="text-blue-300 hover:text-white text-sm transition-colors">
+              <Link href={`/${locale}/guides`} className="text-lavender hover:text-white text-sm transition-colors">
                 ← {copy.breadcrumbGuides}
               </Link>
-              <span className="text-blue-500 text-sm">/</span>
-              <span className="text-blue-400 text-sm">{copy.breadcrumbCurrent}</span>
+              <span className="text-electric text-sm">/</span>
+              <span className="text-lavender text-sm">{copy.breadcrumbCurrent}</span>
             </div>
             <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 rounded-full px-3 py-1 text-xs font-medium mb-5">
               🚂 {copy.badge} · {copy.lastUpdate} {monthYear}
             </span>
-            <h1 className="text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">{copy.hero}</h1>
-            <p className="text-blue-200 text-base leading-relaxed max-w-3xl">{copy.subtitle}</p>
+            <h1 className="text-3xl lg:text-4xl font-bold mb-4 leading-tight">{copy.hero}</h1>
+            <p className="text-lavender text-base leading-relaxed max-w-3xl">{copy.subtitle}</p>
           </div>
         </section>
 
@@ -1399,13 +1399,13 @@ export default async function TrainAvecChienPage({
 
           {/* Key facts box */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{copy.keyFactsTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6">{copy.keyFactsTitle}</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
               {copy.keyFacts.map((fact, i) => (
-                <div key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm p-5">
+                <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
                   <div className="text-2xl mb-3">{fact.icon}</div>
-                  <h3 className="font-bold text-gray-900 text-sm mb-1">{fact.title}</h3>
-                  <p className="text-xs text-gray-600 leading-relaxed">{fact.text}</p>
+                  <h3 className="font-bold text-ink text-sm mb-1">{fact.title}</h3>
+                  <p className="text-xs text-slate leading-relaxed">{fact.text}</p>
                 </div>
               ))}
             </div>
@@ -1413,16 +1413,16 @@ export default async function TrainAvecChienPage({
 
           {/* Operators table */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{copy.tableTitle}</h2>
-            <div className="overflow-x-auto rounded-2xl border border-gray-100 shadow-sm">
+            <h2 className="text-2xl font-bold text-ink mb-6">{copy.tableTitle}</h2>
+            <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink shadow-hard">
               <table className="w-full text-sm bg-white">
                 <thead>
-                  <tr className="bg-gray-50 border-b border-gray-100">
-                    <th className="text-left font-bold text-gray-700 px-4 py-3 whitespace-nowrap">{copy.colOperator}</th>
-                    <th className="text-left font-bold text-gray-700 px-4 py-3 whitespace-nowrap">{copy.colAllowed}</th>
-                    <th className="text-left font-bold text-gray-700 px-4 py-3 whitespace-nowrap">{copy.colPrice}</th>
-                    <th className="text-left font-bold text-gray-700 px-4 py-3 whitespace-nowrap">{copy.colMuzzle}</th>
-                    <th className="text-left font-bold text-gray-700 px-4 py-3 whitespace-nowrap hidden md:table-cell">{copy.colNotes}</th>
+                  <tr className="bg-cream border-b border-line">
+                    <th className="text-left font-bold text-slate px-4 py-3 whitespace-nowrap">{copy.colOperator}</th>
+                    <th className="text-left font-bold text-slate px-4 py-3 whitespace-nowrap">{copy.colAllowed}</th>
+                    <th className="text-left font-bold text-slate px-4 py-3 whitespace-nowrap">{copy.colPrice}</th>
+                    <th className="text-left font-bold text-slate px-4 py-3 whitespace-nowrap">{copy.colMuzzle}</th>
+                    <th className="text-left font-bold text-slate px-4 py-3 whitespace-nowrap hidden md:table-cell">{copy.colNotes}</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -1430,21 +1430,21 @@ export default async function TrainAvecChienPage({
                     const colors = ALLOWED_COLORS[op.allowed]
                     const allowedLabel = op.allowed === 'yes' ? copy.allowedYes : op.allowed === 'partial' ? copy.allowedPartial : copy.allowedNo
                     return (
-                      <tr key={op.slug} className={`border-b border-gray-50 ${i % 2 === 0 ? 'bg-white' : 'bg-gray-50/40'}`}>
-                        <td className="px-4 py-3 font-semibold text-gray-900 whitespace-nowrap">
+                      <tr key={op.slug} className={`border-b border-gray-50 ${i % 2 === 0 ? 'bg-white' : 'bg-cream/40'}`}>
+                        <td className="px-4 py-3 font-semibold text-ink whitespace-nowrap">
                           <span className="mr-1.5">{op.flag}</span>{op.name}
-                          <span className="block text-[10px] font-normal text-gray-500">{op.country[lang]}</span>
+                          <span className="block text-[10px] font-normal text-slate">{op.country[lang]}</span>
                         </td>
                         <td className="px-4 py-3">
                           <span className={`inline-flex items-center gap-1 text-xs font-semibold px-2 py-0.5 rounded-full border ${colors.bg} ${colors.text} ${colors.border}`}>
                             {allowedLabel}
                           </span>
                         </td>
-                        <td className="px-4 py-3 text-gray-700 text-xs">{op.price[lang]}</td>
-                        <td className="px-4 py-3 text-gray-700 text-xs">{op.muzzle[lang]}</td>
-                        <td className="px-4 py-3 text-gray-500 text-xs hidden md:table-cell max-w-xs">
+                        <td className="px-4 py-3 text-slate text-xs">{op.price[lang]}</td>
+                        <td className="px-4 py-3 text-slate text-xs">{op.muzzle[lang]}</td>
+                        <td className="px-4 py-3 text-slate text-xs hidden md:table-cell max-w-xs">
                           {op.notes[lang].startsWith('⚠️') ? (
-                            <span className="font-semibold text-amber-700">{op.notes[lang]}</span>
+                            <span className="font-semibold text-ink">{op.notes[lang]}</span>
                           ) : op.notes[lang]}
                         </td>
                       </tr>
@@ -1457,76 +1457,76 @@ export default async function TrainAvecChienPage({
 
           {/* SNCF deep-dive */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{copy.sncfTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-5">{copy.sncfTitle}</h2>
             <div className="space-y-4 mb-5">
               {copy.sncfContent.map((para, i) => (
-                <p key={i} className="text-gray-700 leading-relaxed">{para}</p>
+                <p key={i} className="text-slate leading-relaxed">{para}</p>
               ))}
             </div>
-            <div className="bg-amber-50 border border-amber-100 rounded-2xl p-4 flex items-start gap-3">
-              <span className="text-amber-500 text-xl flex-shrink-0">💡</span>
-              <p className="text-sm text-amber-800 leading-relaxed">{copy.sncfTip}</p>
+            <div className="bg-lime/30 border-[1.6px] border-ink rounded-[22px] p-4 flex items-start gap-3">
+              <span className="text-ink text-xl flex-shrink-0">💡</span>
+              <p className="text-sm text-ink leading-relaxed">{copy.sncfTip}</p>
             </div>
           </section>
 
           {/* Deutsche Bahn deep-dive */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{copy.dbTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-5">{copy.dbTitle}</h2>
             <div className="space-y-4 mb-5">
               {copy.dbContent.map((para, i) => (
-                <p key={i} className="text-gray-700 leading-relaxed">{para}</p>
+                <p key={i} className="text-slate leading-relaxed">{para}</p>
               ))}
             </div>
-            <div className="bg-blue-50 border border-blue-100 rounded-2xl p-4 flex items-start gap-3">
-              <span className="text-blue-500 text-xl flex-shrink-0">ℹ️</span>
-              <p className="text-sm text-blue-800 leading-relaxed">{copy.dbTip}</p>
+            <div className="bg-lavender-soft border-[1.6px] border-ink rounded-[22px] p-4 flex items-start gap-3">
+              <span className="text-electric text-xl flex-shrink-0">ℹ️</span>
+              <p className="text-sm text-electric leading-relaxed">{copy.dbTip}</p>
             </div>
           </section>
 
           {/* Renfe */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{copy.renfeTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-5">{copy.renfeTitle}</h2>
             <div className="space-y-4">
               {copy.renfeContent.map((para, i) => (
-                <p key={i} className="text-gray-700 leading-relaxed">{para}</p>
+                <p key={i} className="text-slate leading-relaxed">{para}</p>
               ))}
             </div>
           </section>
 
           {/* Trenitalia */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{copy.trenitTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-5">{copy.trenitTitle}</h2>
             <div className="space-y-4">
               {copy.trenitContent.map((para, i) => (
-                <p key={i} className="text-gray-700 leading-relaxed">{para}</p>
+                <p key={i} className="text-slate leading-relaxed">{para}</p>
               ))}
             </div>
           </section>
 
           {/* Eurostar */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{copy.eurostarTitle}</h2>
-            <div className="bg-red-50 border border-red-100 rounded-2xl p-5 mb-5 flex items-start gap-3">
+            <h2 className="text-2xl font-bold text-ink mb-5">{copy.eurostarTitle}</h2>
+            <div className="bg-red-50 border-[1.6px] border-red-100 rounded-[22px] p-5 mb-5 flex items-start gap-3">
               <span className="text-red-500 text-xl flex-shrink-0">⚠️</span>
               <p className="text-sm font-semibold text-red-800 leading-relaxed">{copy.eurostarContent[0]}</p>
             </div>
             <div className="space-y-4">
               {copy.eurostarContent.slice(1).map((para, i) => (
-                <p key={i} className="text-gray-700 leading-relaxed">{para}</p>
+                <p key={i} className="text-slate leading-relaxed">{para}</p>
               ))}
             </div>
           </section>
 
           {/* Practical tips */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{copy.tipsTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6">{copy.tipsTitle}</h2>
             <div className="space-y-4">
               {copy.tips.map((tip, i) => (
-                <div key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm p-5 flex items-start gap-4">
+                <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5 flex items-start gap-4">
                   <span className="text-2xl flex-shrink-0 mt-0.5">{tip.icon}</span>
                   <div>
-                    <h3 className="font-bold text-gray-900 text-sm mb-1">{tip.title}</h3>
-                    <p className="text-sm text-gray-600 leading-relaxed">{tip.text}</p>
+                    <h3 className="font-bold text-ink text-sm mb-1">{tip.title}</h3>
+                    <p className="text-sm text-slate leading-relaxed">{tip.text}</p>
                   </div>
                 </div>
               ))}
@@ -1534,7 +1534,7 @@ export default async function TrainAvecChienPage({
           </section>
 
           {/* Interrail note */}
-          <div className="bg-indigo-50 border border-indigo-100 rounded-2xl p-5 mb-12 flex items-start gap-3">
+          <div className="bg-lavender-soft border-[1.6px] border-indigo-100 rounded-[22px] p-5 mb-12 flex items-start gap-3">
             <span className="text-indigo-500 text-xl flex-shrink-0">🌍</span>
             <div>
               <p className="text-sm font-bold text-indigo-800 mb-1">{copy.interrailTitle}</p>
@@ -1544,39 +1544,39 @@ export default async function TrainAvecChienPage({
 
           {/* FAQ */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-8">{copy.faqTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-8">{copy.faqTitle}</h2>
             <div className="space-y-4">
               {copy.faqs.map((faq, i) => (
-                <div key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
-                  <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
-                  <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+                <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+                  <h3 className="font-semibold text-ink mb-2">{faq.q}</h3>
+                  <p className="text-slate text-sm leading-relaxed">{faq.a}</p>
                 </div>
               ))}
             </div>
           </section>
 
           {/* Sources */}
-          <div className="bg-blue-50 border border-blue-100 rounded-2xl p-5 mb-10 flex items-start gap-3">
-            <span className="text-blue-500 text-xl flex-shrink-0">🔍</span>
+          <div className="bg-lavender-soft border-[1.6px] border-ink rounded-[22px] p-5 mb-10 flex items-start gap-3">
+            <span className="text-electric text-xl flex-shrink-0">🔍</span>
             <div>
-              <p className="text-xs font-bold text-blue-700 uppercase tracking-widest mb-1">{copy.sourcesTitle}</p>
-              <p className="text-sm text-blue-800 leading-relaxed">{copy.sourcesText}</p>
+              <p className="text-xs font-bold text-electric uppercase tracking-widest mb-1">{copy.sourcesTitle}</p>
+              <p className="text-sm text-electric leading-relaxed">{copy.sourcesText}</p>
             </div>
           </div>
 
           {/* Internal links */}
           <section className="mb-8">
-            <h2 className="text-xl font-extrabold text-gray-900 mb-4">{copy.internalLinksTitle}</h2>
+            <h2 className="text-xl font-bold text-ink mb-4">{copy.internalLinksTitle}</h2>
             <div className="flex flex-wrap gap-3">
               <Link
                 href={`/${locale}/guides/passeport-animal`}
-                className="inline-flex items-center gap-2 text-sm font-semibold bg-white border border-gray-200 hover:border-blue-300 hover:bg-blue-50 text-gray-700 hover:text-blue-700 px-4 py-2 rounded-full transition-all shadow-sm"
+                className="inline-flex items-center gap-2 text-sm font-semibold bg-white border border-line hover:border-ink hover:bg-lavender-soft text-slate hover:text-ink px-4 py-2 rounded-full transition-all "
               >
                 📔 {copy.guidePasseport}
               </Link>
               <Link
                 href={`/${locale}/guides`}
-                className="inline-flex items-center gap-2 text-sm font-semibold bg-white border border-gray-200 hover:border-blue-300 hover:bg-blue-50 text-gray-700 hover:text-blue-700 px-4 py-2 rounded-full transition-all shadow-sm"
+                className="inline-flex items-center gap-2 text-sm font-semibold bg-white border border-line hover:border-ink hover:bg-lavender-soft text-slate hover:text-ink px-4 py-2 rounded-full transition-all "
               >
                 📚 {copy.guideAll}
               </Link>

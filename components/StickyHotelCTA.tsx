@@ -61,24 +61,24 @@ export default function StickyHotelCTA({
       className="fixed bottom-0 left-0 right-0 z-40 px-3 pb-3 pt-2 sm:hidden"
       style={{ backgroundImage: 'linear-gradient(to top, rgba(255,255,255,0.95), rgba(255,255,255,0))' }}
     >
-      <div className="flex items-center gap-2 bg-white border border-gray-200 rounded-2xl shadow-xl px-3 py-2.5">
+      <div className="flex items-center gap-2 bg-white border-[1.6px] border-ink rounded-[22px] shadow-hard px-3 py-2.5">
         <div className="flex-1 min-w-0">
-          <p className="text-[11px] text-gray-500 leading-tight">🏨</p>
-          <p className="text-sm font-bold text-gray-900 truncate leading-tight">{label}</p>
+          <p className="text-[11px] text-slate leading-tight">🏨</p>
+          <p className="text-sm font-bold text-ink truncate leading-tight">{label}</p>
         </div>
         <a
           href={href}
           target="_blank"
           rel="sponsored noopener noreferrer"
           className="flex-shrink-0 text-xs font-bold px-3 py-2 rounded-lg text-white"
-          style={{ background: 'linear-gradient(135deg, #f97316 0%, #3b82f6 100%)' }}
+          style={{ background: '#3024eb' }}
         >
           {cta}
         </a>
         <button
           aria-label="Dismiss"
           onClick={handleDismiss}
-          className="flex-shrink-0 w-7 h-7 rounded-full bg-gray-100 hover:bg-gray-200 text-gray-500 text-sm flex items-center justify-center"
+          className="flex-shrink-0 w-7 h-7 rounded-full bg-lavender-soft hover:bg-lavender text-slate text-sm flex items-center justify-center"
         >
           ×
         </button>

@@ -71,10 +71,10 @@ export default async function Page({
   }
 
   return (
-    <main className="min-h-screen bg-stone-50">
+    <main className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
 
-      <section className="bg-gradient-to-br from-orange-500 via-rose-600 to-red-700 text-white">
+      <section className="text-white bg-electric">
         <div className="max-w-4xl mx-auto px-4 py-14 sm:py-20">
           <nav className="text-sm text-white/70 mb-6">
             <Link href="/fr" className="hover:text-white">Accueil</Link>
@@ -83,13 +83,13 @@ export default async function Page({
             <span className="mx-2">/</span>
             <span className="text-white">Canicule</span>
           </nav>
-          <div className="text-sm font-semibold uppercase tracking-widest text-orange-100 mb-3">
+          <div className="text-sm font-semibold uppercase tracking-widest text-lavender mb-3">
             Spécial canicule 🔥
           </div>
           <h1 className="text-3xl sm:text-5xl font-bold leading-tight mb-4">
             Les meilleurs accessoires pour chien quand il fait chaud
           </h1>
-          <p className="text-lg text-orange-50 max-w-2xl">
+          <p className="text-lg text-lavender max-w-2xl">
             Gourde nomade, tapis rafraîchissant, gilet ventilé, bandana mouillé, gamelle
             pliante : ce qui fait vraiment la différence entre un chien qui survit l&apos;été
             et un chien qui en profite.
@@ -100,14 +100,14 @@ export default async function Page({
       <div className="max-w-4xl mx-auto px-4 py-10 space-y-10">
         {/* 4 essential tips */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">
+          <h2 className="text-2xl font-bold text-ink mb-5">
             Les 4 règles canicule à connaître avant tout
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {HEAT_TIPS.map((tip, i) => (
-              <div key={i} className="bg-white rounded-2xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2">{tip.title}</h3>
-                <p className="text-sm text-stone-700 leading-relaxed">{tip.body}</p>
+              <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-line p-5">
+                <h3 className="font-bold text-ink mb-2">{tip.title}</h3>
+                <p className="text-sm text-ink leading-relaxed">{tip.body}</p>
               </div>
             ))}
           </div>
@@ -115,12 +115,12 @@ export default async function Page({
 
         {/* Products */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-2">Notre sélection chaleur</h2>
-          <p className="text-sm text-stone-600 mb-5">
+          <h2 className="text-2xl font-bold text-ink mb-2">Notre sélection chaleur</h2>
+          <p className="text-sm text-slate mb-5">
             Produits testés et liens directs Amazon.fr. Mis à jour pour l&apos;été 2026.
           </p>
           {products.length === 0 ? (
-            <p className="text-stone-600 italic">
+            <p className="text-slate italic">
               Sélection en cours d&apos;enrichissement - pour l&apos;instant seuls les
               produits voyage multi-saisons s&apos;affichent. Envoyez-moi les URLs Amazon
               des tapis rafraîchissants / gilets / bandanas que vous voulez référencer
@@ -136,21 +136,21 @@ export default async function Page({
         </section>
 
         {/* Cross-links */}
-        <section className="bg-amber-50 border border-amber-200 rounded-2xl p-5">
-          <p className="text-sm text-stone-700 mb-3 font-semibold">
+        <section className="bg-lime/30 border-[1.6px] border-ink rounded-[22px] p-5">
+          <p className="text-sm text-ink mb-3 font-semibold">
             👉 À lire aussi pour bien préparer l&apos;été :
           </p>
           <div className="flex flex-wrap gap-2 text-sm">
-            <Link href="/fr/guides/dog-beaches-france" className="bg-white border border-amber-300 text-amber-900 px-3 py-1.5 rounded-full hover:bg-amber-100">
+            <Link href="/fr/guides/dog-beaches-france" className="bg-white border border-line text-ink px-3 py-1.5 rounded-full hover:bg-amber-100">
               Les plages canines en France →
             </Link>
-            <Link href="/fr/guides/road-trip-chien" className="bg-white border border-stone-300 text-stone-700 px-3 py-1.5 rounded-full hover:bg-stone-100">
+            <Link href="/fr/guides/road-trip-chien" className="bg-white border border-line text-ink px-3 py-1.5 rounded-full hover:bg-lime">
               Road trip en voiture →
             </Link>
-            <Link href="/fr/guides/brittany-pet-friendly-road-trip" className="bg-white border border-stone-300 text-stone-700 px-3 py-1.5 rounded-full hover:bg-stone-100">
+            <Link href="/fr/guides/brittany-pet-friendly-road-trip" className="bg-white border border-line text-ink px-3 py-1.5 rounded-full hover:bg-lime">
               Bretagne en 5 jours →
             </Link>
-            <Link href="/fr/accessoires-chien" className="bg-white border border-stone-300 text-stone-700 px-3 py-1.5 rounded-full hover:bg-stone-100">
+            <Link href="/fr/accessoires-chien" className="bg-white border border-line text-ink px-3 py-1.5 rounded-full hover:bg-lime">
               Tous les accessoires chien →
             </Link>
           </div>

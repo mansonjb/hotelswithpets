@@ -8,6 +8,7 @@ import { getLocalizedCityName } from '@/lib/cityNames'
 import hotels from '@/data/hotels.json'
 import categories from '@/data/categories.json'
 import { SITE_URL } from '@/lib/site'
+import { toneFromGradient } from '@/lib/brandTone'
 
 const countries = getAllCountries()
 
@@ -135,18 +136,18 @@ export default async function CountryPage({
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
-      <div className="min-h-screen bg-gray-50">
+      <div className="min-h-screen bg-cream">
         {/* Hero */}
-        <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-20 relative overflow-hidden">
+        <section className="text-white py-20 relative overflow-hidden bg-electric border-b-[1.6px] border-ink">
           <div className="absolute top-0 right-0 w-80 h-80 text-[12rem] opacity-5 select-none flex items-center justify-center">
             {country.flag}
           </div>
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <span className="text-7xl block mb-6">{country.flag}</span>
-            <h1 className="text-4xl lg:text-5xl font-extrabold mb-3">
+            <h1 className="text-4xl lg:text-5xl font-bold mb-3">
               {headings[locale] ?? headings.en}
             </h1>
-            <p className="text-blue-300 text-lg">{subtitles[locale] ?? subtitles.en}</p>
+            <p className="text-lavender text-lg">{subtitles[locale] ?? subtitles.en}</p>
           </div>
         </section>
 
@@ -160,7 +161,7 @@ export default async function CountryPage({
                   <Link
                     key={dest.slug}
                     href={`/${locale}/destinations/${dest.slug}`}
-                    className={`group relative overflow-hidden rounded-3xl bg-gradient-to-br ${gradients[i % gradients.length]} p-8 min-h-[200px] flex flex-col justify-end shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-1`}
+                    className={`group relative overflow-hidden rounded-[28px] ${toneFromGradient(gradients[i % gradients.length])} p-8 min-h-[200px] flex flex-col justify-end shadow-hard hover:shadow-2xl transition-all duration-300 hover:-translate-y-1`}
                   >
                     {dest.heroImage && (
                       <Image
@@ -178,7 +179,7 @@ export default async function CountryPage({
                     </div>
                     <div className="relative">
                       <span className="text-5xl mb-3 block">{dest.flag}</span>
-                      <h2 className="text-white font-extrabold text-2xl mb-1">{getLocalizedCityName(dest.slug, dest.name, locale)}</h2>
+                      <h2 className="text-white font-bold text-2xl mb-1">{getLocalizedCityName(dest.slug, dest.name, locale)}</h2>
                       <p className="text-white/70 text-sm mb-3">
                         {destHotelCount} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : locale === 'de' ? 'Hotels' : locale === 'nl' ? 'hotels' : locale === 'it' ? 'hotel' : 'hotels'}
                       </p>
@@ -218,9 +219,9 @@ export default async function CountryPage({
           })
           if (guideLinks.length === 0) return null
           return (
-            <section className="bg-white border-t border-gray-100 py-10">
+            <section className="bg-white border-t border-line py-10">
               <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <h2 className="text-lg font-extrabold text-gray-900 mb-5">
+                <h2 className="text-lg font-bold text-ink mb-5">
                   {locale === 'fr' ? `Guides populaires ${frCountryPhrase(countryName)}` : locale === 'es' ? `Guías populares en ${localizedCountry}` : locale === 'pt' ? `Guias populares ${ptCountryPhrase(countryName)}` : locale === 'de' ? `Beliebte Guides in ${localizedCountry}` : locale === 'nl' ? `Populaire gidsen in ${localizedCountry}` : locale === 'it' ? `Guide popolari in ${localizedCountry}` : `Popular guides in ${countryName}`}
                 </h2>
                 <div className="flex flex-wrap gap-2">
@@ -228,7 +229,7 @@ export default async function CountryPage({
                     <Link
                       key={g.href}
                       href={g.href}
-                      className="text-sm text-blue-700 hover:text-blue-900 bg-blue-50 hover:bg-blue-100 border border-blue-100 rounded-full px-4 py-1.5 transition-colors"
+                      className="text-sm text-electric hover:text-blue-900 bg-lavender-soft hover:bg-lavender border border-line rounded-full px-4 py-1.5 transition-colors"
                     >
                       {g.label}
                     </Link>
@@ -241,7 +242,7 @@ export default async function CountryPage({
 
         {/* Breadcrumb back */}
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
-          <Link href={`/${locale}/destinations`} className="text-blue-600 hover:underline text-sm">
+          <Link href={`/${locale}/destinations`} className="text-electric hover:underline text-sm">
             ← {locale === 'fr' ? 'Toutes les destinations' : locale === 'es' ? 'Todos los destinos' : locale === 'pt' ? 'Todos os destinos' : locale === 'de' ? 'Alle Reiseziele' : locale === 'nl' ? 'Alle bestemmingen' : locale === 'it' ? 'Tutte le destinazioni' : 'All destinations'}
           </Link>
         </div>

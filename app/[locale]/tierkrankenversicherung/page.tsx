@@ -351,32 +351,31 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   }
 
   return (
-    <main className="min-h-screen bg-stone-50">
+    <main className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
 
       {/* ── Hero ── */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-sky-800 via-blue-800 to-indigo-900 text-white">
-        <div className="absolute inset-0 opacity-20 pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at 20% 20%, white 1px, transparent 1px)', backgroundSize: '28px 28px' }} />
+      <section className="relative overflow-hidden bg-electric text-white">
         <div className="relative max-w-5xl mx-auto px-4 py-16 sm:py-24">
           <nav className="text-sm text-white/70 mb-6">
             <Link href="/de" className="hover:text-white">Startseite</Link>
             <span className="mx-2">/</span>
             <span className="text-white">Tierkrankenversicherung</span>
           </nav>
-          <span className="inline-block text-xs font-semibold tracking-wide uppercase bg-white/15 border border-white/20 rounded-full px-3 py-1 mb-5">
+          <span className="eyebrow inline-block bg-lime text-ink border-[1.6px] border-ink rounded-full px-3 py-1.5 mb-5">
             Unabhängiger Vergleich · aktualisiert {UPDATED}
           </span>
-          <h1 className="text-3xl sm:text-5xl font-bold leading-tight mb-5 max-w-3xl">
+          <h1 className="text-4xl sm:text-6xl font-bold leading-[1.05] mb-5 max-w-3xl">
             Beste Tierkrankenversicherung 2026
           </h1>
-          <p className="text-lg text-sky-50 max-w-2xl mb-8">
+          <p className="text-lg text-white/85 max-w-2xl mb-8">
             Der komplette Leitfaden zur Kranken- und OP-Versicherung für Hund und Katze in
             Deutschland: Leistungen, Erstattungssatz, GOT-Satz, Wartezeiten, Preise und
             Ausschlüsse der 10 wichtigsten Anbieter, plus Tipps zur richtigen Wahl.
           </p>
-          <div className="flex flex-wrap gap-x-8 gap-y-3 text-sm text-sky-100">
+          <div className="flex flex-wrap gap-x-8 gap-y-3 text-sm text-white/85">
             <span><strong className="text-white text-lg">10</strong> Anbieter verglichen</span>
             <span><strong className="text-white text-lg">6</strong> objektive Kriterien</span>
             <span><strong className="text-white text-lg">0</strong> erfundene Bewertungen, alles geprüft</span>
@@ -387,13 +386,13 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       <div className="max-w-5xl mx-auto px-4 py-10 space-y-12">
         {/* ── Intro ── */}
         <section className="prose-none">
-          <p className="text-stone-700 leading-relaxed mb-4">
+          <p className="text-slate leading-relaxed mb-4">
             Immer mehr Menschen in Deutschland versichern ihr Tier, und das aus gutem Grund: Seit der
             GOT-Reform 2022 sind die Tierarztkosten spürbar gestiegen, und eine einzige Operation kann
             mehr kosten als Jahre an Beiträgen. Eine Tierkrankenversicherung macht genau das: Sie
             verwandelt eine unvorhersehbare, hohe Rechnung in einen planbaren Monatsbeitrag.
           </p>
-          <p className="text-stone-700 leading-relaxed">
+          <p className="text-slate leading-relaxed">
             Der Markt teilt sich in digitale Anbieter (Lassie, Petolo, Figo), die schnell erstatten,
             spezialisierte Versicherer (AGILA, Uelzener) und große Gesellschaften (HanseMerkur,
             Barmenia, Gothaer, Allianz). Hier ist unser vollständiger Vergleich.
@@ -401,15 +400,15 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </section>
 
         {/* ── Pflicht? ── */}
-        <section className="bg-blue-50 border border-blue-200 rounded-2xl p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Ist eine Versicherung für Hunde Pflicht?</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-3">
+        <section className="bg-lavender-soft border border-ink/20 rounded-[22px] p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Ist eine Versicherung für Hunde Pflicht?</h2>
+          <p className="text-sm text-slate leading-relaxed mb-3">
             Die <strong>Tierkrankenversicherung</strong> ist freiwillig. Eine <strong>Tierhalterhaftpflicht</strong> für
             Hunde ist dagegen in mehreren Bundesländern Pflicht, darunter <strong>Berlin, Hamburg,
             Niedersachsen und Schleswig-Holstein</strong>, sowie bundesweit für als gefährlich eingestufte
             Hunde. Sie deckt Schäden, die dein Hund Dritten zufügt, und ist ein eigenes Produkt.
           </p>
-          <p className="text-sm text-stone-600 leading-relaxed">
+          <p className="text-sm text-slate leading-relaxed">
             Unser Rat: Prüfe zuerst die Haftpflicht-Pflicht in deinem Bundesland (sie kostet nur wenige
             Euro im Monat) und wähle dann eine Kranken- oder OP-Versicherung für die Tierarztkosten.
           </p>
@@ -417,11 +416,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Comparison table ── */}
         <section id="vergleichstabelle" className="scroll-mt-6">
-          <h2 className="text-2xl font-bold text-stone-900 mb-2">Die Vergleichstabelle 2026</h2>
-          <p className="text-sm text-stone-600 mb-5">Die 10 wichtigsten Tierversicherer in Deutschland, sortiert nach unserer redaktionellen Einschätzung von Leistung, Preis und Nutzererfahrung. Klicke auf einen Anbieter, um sein Profil zu öffnen.</p>
-          <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
+          <h2 className="text-2xl font-bold text-ink mb-2">Die Vergleichstabelle 2026</h2>
+          <p className="text-sm text-slate mb-5">Die 10 wichtigsten Tierversicherer in Deutschland, sortiert nach unserer redaktionellen Einschätzung von Leistung, Preis und Nutzererfahrung. Klicke auf einen Anbieter, um sein Profil zu öffnen.</p>
+          <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink shadow-hard">
             <table className="w-full text-sm min-w-[760px] bg-white">
-              <thead className="bg-stone-100 text-stone-700">
+              <thead className="bg-lavender-soft text-slate">
                 <tr>
                   <th className="text-left px-4 py-3 font-semibold w-8">#</th>
                   <th className="text-left px-4 py-3 font-semibold">Anbieter</th>
@@ -432,90 +431,90 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               </thead>
               <tbody>
                 {INSURERS.map((ins, i) => (
-                  <tr key={ins.name} className="border-t border-stone-100 align-top hover:bg-stone-50">
-                    <td className="px-4 py-4 font-bold text-stone-400">{i + 1}</td>
+                  <tr key={ins.name} className="border-t border-line align-top hover:bg-cream">
+                    <td className="px-4 py-4 font-bold text-slate">{i + 1}</td>
                     <td className="px-4 py-4">
                       <a href={`#profil-${ins.slug}`} className="flex items-center gap-2.5 group">
                         <BrandLogo src={`/logos/${ins.slug}.png`} name={ins.name} initials={ins.initials} color={ins.color} size={36} />
                         <div>
                           <div className="flex items-center gap-1.5">
-                            <span className="font-bold text-stone-900 group-hover:text-sky-700 group-hover:underline">{ins.name}</span>
-                            {ins.sponsored && (<span className="text-[10px] font-semibold bg-amber-100 text-amber-800 border border-amber-300 px-1.5 py-0.5 rounded-full">Gesponsert</span>)}
+                            <span className="font-bold text-ink group-hover:text-electric group-hover:underline">{ins.name}</span>
+                            {ins.sponsored && (<span className="text-[10px] font-semibold bg-coral/25 text-ink border border-ink/20 px-1.5 py-0.5 rounded-full">Gesponsert</span>)}
                           </div>
-                          <span className="text-xs font-medium text-sky-700">{ins.verdict}</span>
-                          <span className="block text-[11px] text-stone-400 group-hover:text-sky-600">Profil ansehen ↓</span>
+                          <span className="text-xs font-medium text-electric">{ins.verdict}</span>
+                          <span className="block text-[11px] text-slate group-hover:text-electric">Profil ansehen ↓</span>
                         </div>
                       </a>
                     </td>
-                    <td className="px-4 py-4 text-stone-600">{ins.covered.join(' · ')}</td>
-                    <td className="px-4 py-4 text-stone-700">{ins.reimbursement}</td>
-                    <td className="px-4 py-4 text-stone-600">{ins.waiting}</td>
+                    <td className="px-4 py-4 text-slate">{ins.covered.join(' · ')}</td>
+                    <td className="px-4 py-4 text-slate">{ins.reimbursement}</td>
+                    <td className="px-4 py-4 text-slate">{ins.waiting}</td>
                   </tr>
                 ))}
               </tbody>
             </table>
           </div>
-          <p className="text-xs text-stone-500 mt-3">Angaben als Richtwerte, Stand {UPDATED}. Wartezeiten und Erstattung variieren je Tarif. Der genaue Beitrag hängt von Tier, Rasse, Alter und Tarif ab: Angebot einholen und Bedingungen lesen, bevor du abschließt.</p>
+          <p className="text-xs text-slate mt-3">Angaben als Richtwerte, Stand {UPDATED}. Wartezeiten und Erstattung variieren je Tarif. Der genaue Beitrag hängt von Tier, Rasse, Alter und Tarif ab: Angebot einholen und Bedingungen lesen, bevor du abschließt.</p>
         </section>
 
         {/* ── Detailed ranking cards ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Das detaillierte Ranking</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Das detaillierte Ranking</h2>
           <div className="space-y-4">
             {INSURERS.map((ins, i) => (
-              <article key={ins.name} id={`profil-${ins.slug}`} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5 sm:p-6 scroll-mt-6">
+              <article key={ins.name} id={`profil-${ins.slug}`} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5 sm:p-6 scroll-mt-6">
                 <div className="flex items-start gap-4">
                   <div className="flex flex-col items-center flex-shrink-0 gap-1">
-                    <span className="text-xs font-bold text-stone-400">#{i + 1}</span>
+                    <span className="text-xs font-bold text-slate">#{i + 1}</span>
                     <BrandLogo src={`/logos/${ins.slug}.png`} name={ins.name} initials={ins.initials} color={ins.color} size={48} />
                   </div>
                   <div className="flex-1 min-w-0">
                     <div className="flex flex-wrap items-center gap-2 mb-0.5">
-                      <h3 className="text-lg font-bold text-stone-900">{ins.name}</h3>
-                      <span className="text-xs font-semibold bg-sky-50 text-sky-700 border border-sky-200 px-2 py-0.5 rounded-full">{ins.verdict}</span>
-                      {ins.sponsored && (<span className="text-xs font-semibold bg-amber-100 text-amber-800 border border-amber-300 px-2 py-0.5 rounded-full">Gesponsert</span>)}
-                      <a href="#vergleichstabelle" className="ml-auto text-xs text-stone-400 hover:text-sky-700 whitespace-nowrap">↑ Tabelle</a>
+                      <h3 className="text-lg font-bold text-ink">{ins.name}</h3>
+                      <span className="text-xs font-semibold bg-lavender-soft text-electric border border-ink/20 px-2 py-0.5 rounded-full">{ins.verdict}</span>
+                      {ins.sponsored && (<span className="text-xs font-semibold bg-coral/25 text-ink border border-ink/20 px-2 py-0.5 rounded-full">Gesponsert</span>)}
+                      <a href="#vergleichstabelle" className="ml-auto text-xs text-slate hover:text-electric whitespace-nowrap">↑ Tabelle</a>
                     </div>
-                    <p className="text-sm text-stone-500">{ins.kind}</p>
-                    <p className="text-[13px] font-semibold text-stone-700 mt-1">{ins.tagline}</p>
+                    <p className="text-sm text-slate">{ins.kind}</p>
+                    <p className="text-[13px] font-semibold text-slate mt-1">{ins.tagline}</p>
                   </div>
                 </div>
 
-                <p className="text-sm text-stone-700 leading-relaxed mt-4">{ins.summary}</p>
+                <p className="text-sm text-slate leading-relaxed mt-4">{ins.summary}</p>
 
-                <dl className="grid sm:grid-cols-2 gap-x-6 gap-y-2.5 text-sm mt-4 border-t border-stone-100 pt-4">
-                  <div><dt className="font-semibold text-stone-900">Tiere</dt><dd className="text-stone-600">{ins.species}</dd></div>
-                  <div><dt className="font-semibold text-stone-900">Erstattung</dt><dd className="text-stone-600">{ins.reimbursement}</dd></div>
-                  <div><dt className="font-semibold text-stone-900">Selbstbeteiligung</dt><dd className="text-stone-600">{ins.deductible}</dd></div>
-                  <div><dt className="font-semibold text-stone-900">Jahreslimit</dt><dd className="text-stone-600">{ins.limit}</dd></div>
-                  <div className="sm:col-span-2"><dt className="font-semibold text-stone-900">Wartezeit</dt><dd className="text-stone-600">{ins.waiting}</dd></div>
+                <dl className="grid sm:grid-cols-2 gap-x-6 gap-y-2.5 text-sm mt-4 border-t border-line pt-4">
+                  <div><dt className="font-semibold text-ink">Tiere</dt><dd className="text-slate">{ins.species}</dd></div>
+                  <div><dt className="font-semibold text-ink">Erstattung</dt><dd className="text-slate">{ins.reimbursement}</dd></div>
+                  <div><dt className="font-semibold text-ink">Selbstbeteiligung</dt><dd className="text-slate">{ins.deductible}</dd></div>
+                  <div><dt className="font-semibold text-ink">Jahreslimit</dt><dd className="text-slate">{ins.limit}</dd></div>
+                  <div className="sm:col-span-2"><dt className="font-semibold text-ink">Wartezeit</dt><dd className="text-slate">{ins.waiting}</dd></div>
                 </dl>
 
                 <div className="flex flex-wrap gap-1.5 mt-4">
-                  {ins.covered.map((c) => (<span key={c} className="text-xs bg-emerald-50 text-emerald-800 border border-emerald-100 px-2 py-0.5 rounded-full">✓ {c}</span>))}
+                  {ins.covered.map((c) => (<span key={c} className="text-xs bg-lime/30 text-ink border border-ink/20 px-2 py-0.5 rounded-full">✓ {c}</span>))}
                 </div>
 
                 <div className="grid sm:grid-cols-2 gap-4 mt-4">
-                  <div className="bg-emerald-50/60 border border-emerald-100 rounded-xl p-4">
-                    <p className="text-xs font-bold uppercase tracking-wide text-emerald-800 mb-2">Stärken</p>
-                    <ul className="space-y-1.5 text-sm text-stone-700">
-                      {ins.pros.map((p) => (<li key={p} className="flex gap-2"><span className="text-emerald-600 flex-shrink-0">✓</span><span>{p}</span></li>))}
+                  <div className="bg-lime/30 border border-ink/20 rounded-xl p-4">
+                    <p className="text-xs font-bold uppercase tracking-wide text-ink mb-2">Stärken</p>
+                    <ul className="space-y-1.5 text-sm text-slate">
+                      {ins.pros.map((p) => (<li key={p} className="flex gap-2"><span className="text-ink flex-shrink-0">✓</span><span>{p}</span></li>))}
                     </ul>
                   </div>
-                  <div className="bg-amber-50/60 border border-amber-100 rounded-xl p-4">
-                    <p className="text-xs font-bold uppercase tracking-wide text-amber-800 mb-2">Zu beachten</p>
-                    <ul className="space-y-1.5 text-sm text-stone-700">
-                      {ins.cons.map((c) => (<li key={c} className="flex gap-2"><span className="text-amber-600 flex-shrink-0">!</span><span>{c}</span></li>))}
+                  <div className="bg-coral/25 border border-ink/20 rounded-xl p-4">
+                    <p className="text-xs font-bold uppercase tracking-wide text-ink mb-2">Zu beachten</p>
+                    <ul className="space-y-1.5 text-sm text-slate">
+                      {ins.cons.map((c) => (<li key={c} className="flex gap-2"><span className="text-ink flex-shrink-0">!</span><span>{c}</span></li>))}
                     </ul>
                   </div>
                 </div>
 
-                <p className="text-sm text-stone-700 leading-relaxed mt-4"><span className="font-semibold text-stone-900">So funktioniert die Erstattung:</span> {ins.claimMethod}</p>
+                <p className="text-sm text-slate leading-relaxed mt-4"><span className="font-semibold text-ink">So funktioniert die Erstattung:</span> {ins.claimMethod}</p>
                 <div className="flex flex-wrap items-center gap-1.5 mt-3">
-                  <span className="text-xs font-semibold text-stone-500 mr-1">Enthaltene Leistungen:</span>
-                  {ins.extras.map((e) => (<span key={e} className="text-xs bg-sky-50 text-sky-700 border border-sky-100 px-2 py-0.5 rounded-full">{e}</span>))}
+                  <span className="text-xs font-semibold text-slate mr-1">Enthaltene Leistungen:</span>
+                  {ins.extras.map((e) => (<span key={e} className="text-xs bg-lavender-soft text-electric border border-ink/20 px-2 py-0.5 rounded-full">{e}</span>))}
                 </div>
-                <p className="text-sm text-stone-600 leading-relaxed mt-3"><span className="font-semibold text-stone-800">Ideal für:</span> {ins.idealFor}</p>
+                <p className="text-sm text-slate leading-relaxed mt-3"><span className="font-semibold text-ink">Ideal für:</span> {ins.idealFor}</p>
 
                 <a href={ins.url} target="_blank" rel="noopener noreferrer sponsored nofollow" className="inline-flex items-center gap-1.5 text-sm font-bold text-white px-4 py-2 rounded-lg transition-opacity hover:opacity-90 mt-4" style={{ backgroundColor: ins.color }}>
                   {ins.name} ansehen und Angebot anfordern →
@@ -527,21 +526,21 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Best-for ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-2">Kurz gesagt: die beste je nach Bedarf</h2>
-          <p className="text-sm text-stone-600 mb-5">Ein schneller Überblick. Klicke auf einen Anbieter, um sein Profil zu öffnen.</p>
+          <h2 className="text-2xl font-bold text-ink mb-2">Kurz gesagt: die beste je nach Bedarf</h2>
+          <p className="text-sm text-slate mb-5">Ein schneller Überblick. Klicke auf einen Anbieter, um sein Profil zu öffnen.</p>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {BEST_FOR.map((b) => {
               const match = INSURERS.find((x) => x.name === b.pick)
               return (
-                <div key={b.label} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
+                <div key={b.label} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
                   <div className="text-2xl mb-2" aria-hidden="true">{b.icon}</div>
-                  <p className="text-xs font-semibold uppercase tracking-wide text-stone-500 mb-1">{b.label}</p>
+                  <p className="text-xs font-semibold uppercase tracking-wide text-slate mb-1">{b.label}</p>
                   {match ? (
-                    <a href={`#profil-${match.slug}`} className="text-lg font-bold text-stone-900 mb-1 inline-block hover:text-sky-700 hover:underline">{b.pick} ↓</a>
+                    <a href={`#profil-${match.slug}`} className="text-lg font-bold text-ink mb-1 inline-block hover:text-electric hover:underline">{b.pick} ↓</a>
                   ) : (
-                    <p className="text-lg font-bold text-stone-900 mb-1">{b.pick}</p>
+                    <p className="text-lg font-bold text-ink mb-1">{b.pick}</p>
                   )}
-                  <p className="text-sm text-stone-600 leading-relaxed">{b.why}</p>
+                  <p className="text-sm text-slate leading-relaxed">{b.why}</p>
                 </div>
               )
             })}
@@ -550,14 +549,14 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── How to choose ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">In 5 Schritten zur richtigen Wahl</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">In 5 Schritten zur richtigen Wahl</h2>
           <ol className="space-y-3">
             {CHOOSE_STEPS.map((s, i) => (
-              <li key={i} className="flex items-start gap-4 bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
-                <span className="flex-shrink-0 w-8 h-8 rounded-full bg-sky-700 text-white font-bold flex items-center justify-center">{i + 1}</span>
+              <li key={i} className="flex items-start gap-4 bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
+                <span className="flex-shrink-0 w-8 h-8 rounded-full bg-electric text-white font-bold flex items-center justify-center">{i + 1}</span>
                 <div>
-                  <h3 className="font-bold text-stone-900 mb-1">{s.title}</h3>
-                  <p className="text-sm text-stone-600 leading-relaxed">{s.text}</p>
+                  <h3 className="font-bold text-ink mb-1">{s.title}</h3>
+                  <p className="text-sm text-slate leading-relaxed">{s.text}</p>
                 </div>
               </li>
             ))}
@@ -566,51 +565,51 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Covered / excluded ── */}
         <section className="grid md:grid-cols-2 gap-5">
-          <div className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-            <h2 className="text-lg font-bold text-stone-900 mb-3">Was üblicherweise abgedeckt ist</h2>
-            <ul className="space-y-2 text-sm text-stone-700">
-              {COVERED.map((c) => (<li key={c} className="flex gap-2"><span className="text-emerald-600">✓</span><span>{c}</span></li>))}
+          <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+            <h2 className="text-lg font-bold text-ink mb-3">Was üblicherweise abgedeckt ist</h2>
+            <ul className="space-y-2 text-sm text-slate">
+              {COVERED.map((c) => (<li key={c} className="flex gap-2"><span className="text-ink">✓</span><span>{c}</span></li>))}
             </ul>
           </div>
-          <div className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-            <h2 className="text-lg font-bold text-stone-900 mb-3">Was ausgeschlossen ist</h2>
-            <ul className="space-y-2 text-sm text-stone-700">
-              {EXCLUDED.map((c) => (<li key={c} className="flex gap-2"><span className="text-rose-500">✗</span><span>{c}</span></li>))}
+          <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+            <h2 className="text-lg font-bold text-ink mb-3">Was ausgeschlossen ist</h2>
+            <ul className="space-y-2 text-sm text-slate">
+              {EXCLUDED.map((c) => (<li key={c} className="flex gap-2"><span className="text-ink">✗</span><span>{c}</span></li>))}
             </ul>
           </div>
         </section>
 
         {/* ── How reimbursement works ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">So funktioniert die Erstattung</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">So funktioniert die Erstattung</h2>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
             {CLAIM_STEPS.map((s, i) => (
-              <div key={i} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
-                <span className="inline-flex w-8 h-8 rounded-full bg-sky-700 text-white font-bold items-center justify-center mb-3">{i + 1}</span>
-                <h3 className="font-bold text-stone-900 mb-1">{s.title}</h3>
-                <p className="text-sm text-stone-600 leading-relaxed">{s.text}</p>
+              <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
+                <span className="inline-flex w-8 h-8 rounded-full bg-electric text-white font-bold items-center justify-center mb-3">{i + 1}</span>
+                <h3 className="font-bold text-ink mb-1">{s.title}</h3>
+                <p className="text-sm text-slate leading-relaxed">{s.text}</p>
               </div>
             ))}
           </div>
         </section>
 
         {/* ── Is it worth it ── */}
-        <section className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-          <h2 className="text-2xl font-bold text-stone-900 mb-3">Lohnt sich das?</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-5">
+        <section className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+          <h2 className="text-2xl font-bold text-ink mb-3">Lohnt sich das?</h2>
+          <p className="text-sm text-slate leading-relaxed mb-5">
             Es kommt darauf an, wie du eine plötzliche vier- oder fünfstellige Tierarztrechnung stemmen
             würdest. Routinebesuche sind günstig und planbar, ein Unfall oder eine schwere Krankheit sind
             es nicht. Hier typische Kosten in Deutschland ohne Versicherung.
           </p>
-          <div className="overflow-x-auto rounded-xl border border-stone-200">
+          <div className="overflow-x-auto rounded-xl border-[1.6px] border-ink">
             <table className="w-full text-sm">
-              <thead className="bg-stone-100 text-stone-700"><tr><th className="text-left px-4 py-2.5 font-semibold">Behandlung</th><th className="text-left px-4 py-2.5 font-semibold">Typische Kosten</th></tr></thead>
+              <thead className="bg-lavender-soft text-slate"><tr><th className="text-left px-4 py-2.5 font-semibold">Behandlung</th><th className="text-left px-4 py-2.5 font-semibold">Typische Kosten</th></tr></thead>
               <tbody>
-                {VET_COSTS.map((v) => (<tr key={v.act} className="border-t border-stone-100"><td className="px-4 py-2.5 text-stone-700">{v.act}</td><td className="px-4 py-2.5 font-semibold text-stone-900">{v.cost}</td></tr>))}
+                {VET_COSTS.map((v) => (<tr key={v.act} className="border-t border-line"><td className="px-4 py-2.5 text-slate">{v.act}</td><td className="px-4 py-2.5 font-semibold text-ink">{v.cost}</td></tr>))}
               </tbody>
             </table>
           </div>
-          <p className="text-sm text-stone-600 leading-relaxed mt-4">
+          <p className="text-sm text-slate leading-relaxed mt-4">
             Wenn eine Rechnung im vierstelligen Bereich dein Budget sprengen würde, lohnt sich die
             Versicherung meist, vor allem wenn du früh abschließt und einen niedrigen Beitrag sicherst,
             bevor eine Erkrankung auftritt.
@@ -618,29 +617,29 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </section>
 
         {/* ── Reimbursement example ── */}
-        <section className="bg-emerald-50 border border-emerald-200 rounded-2xl p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Ein Erstattungsbeispiel</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-4">
+        <section className="bg-lime/30 border border-ink/20 rounded-[22px] p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Ein Erstattungsbeispiel</h2>
+          <p className="text-sm text-slate leading-relaxed mb-4">
             Angenommen, dein Hund reißt sich das Kreuzband und die Operation kostet <strong>3.000€</strong>.
             Dein Tarif erstattet 90%, mit einer Selbstbeteiligung von 20% je Rechnung bis maximal 250€ im Jahr:
           </p>
-          <ul className="space-y-2 text-sm text-stone-800 mb-4">
-            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>Tierarztrechnung</span><span className="font-semibold">3.000€</span></li>
-            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>90% Erstattung</span><span className="font-semibold">2.700€</span></li>
-            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>Abzüglich Selbstbeteiligung (gedeckelt auf 250€)</span><span className="font-semibold">- 250€</span></li>
-            <li className="flex justify-between gap-4"><span>Deine Erstattung</span><span className="font-semibold text-emerald-700">= 2.450€ zurück</span></li>
+          <ul className="space-y-2 text-sm text-ink mb-4">
+            <li className="flex justify-between gap-4 border-b border-ink/20 pb-2"><span>Tierarztrechnung</span><span className="font-semibold">3.000€</span></li>
+            <li className="flex justify-between gap-4 border-b border-ink/20 pb-2"><span>90% Erstattung</span><span className="font-semibold">2.700€</span></li>
+            <li className="flex justify-between gap-4 border-b border-ink/20 pb-2"><span>Abzüglich Selbstbeteiligung (gedeckelt auf 250€)</span><span className="font-semibold">- 250€</span></li>
+            <li className="flex justify-between gap-4"><span>Deine Erstattung</span><span className="font-semibold text-ink">= 2.450€ zurück</span></li>
           </ul>
-          <p className="text-xs text-stone-500 leading-relaxed">
+          <p className="text-xs text-slate leading-relaxed">
             Die Rechnung variiert je Anbieter (Selbstbeteiligung je Rechnung oder je Jahr, Erstattung vor oder nach Abzug). Zudem wird nur bis zum vereinbarten GOT-Satz erstattet. Prüfe immer die genaue Berechnung in den Bedingungen.
           </p>
         </section>
 
         {/* ── Common conditions ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Häufige Erkrankungen und ihre Kosten</h2>
-          <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
+          <h2 className="text-2xl font-bold text-ink mb-5">Häufige Erkrankungen und ihre Kosten</h2>
+          <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink shadow-hard">
             <table className="w-full text-sm min-w-[640px] bg-white">
-              <thead className="bg-stone-100 text-stone-700"><tr><th className="text-left px-4 py-3 font-semibold">Erkrankung</th><th className="text-left px-4 py-3 font-semibold">Typische Kosten</th><th className="text-left px-4 py-3 font-semibold">Warum es zählt</th></tr></thead>
+              <thead className="bg-lavender-soft text-slate"><tr><th className="text-left px-4 py-3 font-semibold">Erkrankung</th><th className="text-left px-4 py-3 font-semibold">Typische Kosten</th><th className="text-left px-4 py-3 font-semibold">Warum es zählt</th></tr></thead>
               <tbody>
                 {[
                   { c: 'Kreuzbandriss (Operation)', k: '1.500 bis 4.000€', n: 'Eine der häufigsten und teuersten Hunde-OPs; oft lange Wartezeit.' },
@@ -649,7 +648,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                   { c: 'Diabetes (laufend, pro Jahr)', k: '800 bis 2.000€ / Jahr', n: 'Insulin, Kontrollen und Nachsorge lebenslang.' },
                   { c: 'Chronische Allergien (pro Jahr)', k: '300 bis 1.000€ / Jahr', n: 'Sehr häufig; wiederkehrende Medikamente und Spezialfutter.' },
                   { c: 'Notdienst (nachts, am Wochenende)', k: '150 bis 800€', n: 'Im Notdienst gilt oft der 4-fache GOT-Satz.' },
-                ].map((r) => (<tr key={r.c} className="border-t border-stone-100"><td className="px-4 py-3 font-semibold text-stone-900">{r.c}</td><td className="px-4 py-3 text-emerald-700 font-semibold whitespace-nowrap">{r.k}</td><td className="px-4 py-3 text-stone-600">{r.n}</td></tr>))}
+                ].map((r) => (<tr key={r.c} className="border-t border-line"><td className="px-4 py-3 font-semibold text-ink">{r.c}</td><td className="px-4 py-3 text-ink font-semibold whitespace-nowrap">{r.k}</td><td className="px-4 py-3 text-slate">{r.n}</td></tr>))}
               </tbody>
             </table>
           </div>
@@ -657,7 +656,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── What affects your premium ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Was deinen Beitrag beeinflusst</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Was deinen Beitrag beeinflusst</h2>
           <div className="grid sm:grid-cols-2 gap-4">
             {[
               { f: 'Tierart', t: 'Hunde sind in der Regel teurer zu versichern als Katzen, die seltener und günstiger Schäden verursachen.' },
@@ -666,43 +665,43 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               { f: 'Wohnort', t: 'Tierarztkosten unterscheiden sich regional, daher kostet dasselbe Tier in einer teuren Großstadt mehr.' },
               { f: 'Deine Wahl', t: 'Ein hohes Jahreslimit, ein hoher Erstattungssatz und eine niedrige Selbstbeteiligung erhöhen den Beitrag. Das ist der Hebel für dein Budget.' },
             ].map((x) => (
-              <div key={x.f} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
-                <h3 className="font-bold text-stone-900 mb-1">{x.f}</h3>
-                <p className="text-sm text-stone-600 leading-relaxed">{x.t}</p>
+              <div key={x.f} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
+                <h3 className="font-bold text-ink mb-1">{x.f}</h3>
+                <p className="text-sm text-slate leading-relaxed">{x.t}</p>
               </div>
             ))}
           </div>
         </section>
 
         {/* ── Expensive breeds ── */}
-        <section className="bg-white border border-stone-200 rounded-2xl p-6">
-          <h2 className="text-2xl font-bold text-stone-900 mb-3">Die teuersten Rassen in der Versicherung</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-3">
+        <section className="bg-white border-[1.6px] border-ink rounded-[22px] p-6">
+          <h2 className="text-2xl font-bold text-ink mb-3">Die teuersten Rassen in der Versicherung</h2>
+          <p className="text-sm text-slate leading-relaxed mb-3">
             Manche Rassen zahlen höhere Beiträge, weil sie mehr gesundheitliche Risiken tragen. Dazu
             gehören kurznasige (brachyzephale) Rassen wie Französische Bulldogge, Mops und Englische
             Bulldogge mit Atemproblemen sowie große Rassen wie Deutsche Dogge, Deutscher Schäferhund
             und Labrador, die anfälliger für Hüftdysplasie und Kreuzbandverletzungen sind.
           </p>
-          <p className="text-sm text-stone-600 leading-relaxed">
+          <p className="text-sm text-slate leading-relaxed">
             Für diese Tiere lohnen ein hohes Jahreslimit und ein hoher Erstattungssatz, und ein früher
             Abschluss: Eine später entdeckte Veranlagung könnte als Vorerkrankung ausgeschlossen werden.
           </p>
         </section>
 
         {/* ── When it might not be worth it ── */}
-        <section className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Wann sie sich weniger lohnt</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-4">
+        <section className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Wann sie sich weniger lohnt</h2>
+          <p className="text-sm text-slate leading-relaxed mb-4">
             Eine Versicherung ist nicht für jeden automatisch sinnvoll. Sie lohnt sich weniger, wenn:
           </p>
-          <ul className="space-y-2 text-sm text-stone-700">
+          <ul className="space-y-2 text-sm text-slate">
             {[
               'Du eine Rücklage hast und eine überraschende Rechnung von 4.000€+ problemlos tragen könntest.',
               'Dein Tier alt ist und mehrere bestehende Erkrankungen hat, die als Vorerkrankung ausgeschlossen würden.',
               'Du nur kleine, planbare Kosten abdecken willst, die oft die Selbstbeteiligung aufzehrt.',
-            ].map((n) => (<li key={n} className="flex gap-2"><span className="text-amber-600 flex-shrink-0">!</span><span>{n}</span></li>))}
+            ].map((n) => (<li key={n} className="flex gap-2"><span className="text-ink flex-shrink-0">!</span><span>{n}</span></li>))}
           </ul>
-          <p className="text-sm text-stone-600 leading-relaxed mt-4">
+          <p className="text-sm text-slate leading-relaxed mt-4">
             Selbst dann ist der Abschluss für ein junges, gesundes Tier in einem günstigen Tarif eine
             preiswerte Absicherung gegen die eine Rechnung, die du nicht vorhersehen kannst.
           </p>
@@ -710,12 +709,12 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── By profile ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Welcher Anbieter nach Tierprofil</h2>
-          <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
+          <h2 className="text-2xl font-bold text-ink mb-5">Welcher Anbieter nach Tierprofil</h2>
+          <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink shadow-hard">
             <table className="w-full text-sm min-w-[640px] bg-white">
-              <thead className="bg-stone-100 text-stone-700"><tr><th className="text-left px-4 py-3 font-semibold">Profil</th><th className="text-left px-4 py-3 font-semibold">Worauf achten</th><th className="text-left px-4 py-3 font-semibold">Gute Wahl</th></tr></thead>
+              <thead className="bg-lavender-soft text-slate"><tr><th className="text-left px-4 py-3 font-semibold">Profil</th><th className="text-left px-4 py-3 font-semibold">Worauf achten</th><th className="text-left px-4 py-3 font-semibold">Gute Wahl</th></tr></thead>
               <tbody>
-                {PROFILE_ROWS.map((r) => (<tr key={r.profile} className="border-t border-stone-100"><td className="px-4 py-3 font-semibold text-stone-900">{r.profile}</td><td className="px-4 py-3 text-stone-600">{r.need}</td><td className="px-4 py-3 text-sky-700 font-medium">{r.suggestion}</td></tr>))}
+                {PROFILE_ROWS.map((r) => (<tr key={r.profile} className="border-t border-line"><td className="px-4 py-3 font-semibold text-ink">{r.profile}</td><td className="px-4 py-3 text-slate">{r.need}</td><td className="px-4 py-3 text-electric font-medium">{r.suggestion}</td></tr>))}
               </tbody>
             </table>
           </div>
@@ -723,26 +722,26 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Pricing ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Was es im Monat kostet</h2>
-          <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
+          <h2 className="text-2xl font-bold text-ink mb-5">Was es im Monat kostet</h2>
+          <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink shadow-hard">
             <table className="w-full text-sm min-w-[640px] bg-white">
-              <thead className="bg-stone-100 text-stone-700"><tr><th className="text-left px-4 py-3 font-semibold">Tarifart</th><th className="text-left px-4 py-3 font-semibold">Typischer Preis</th><th className="text-left px-4 py-3 font-semibold">Hinweis</th></tr></thead>
+              <thead className="bg-lavender-soft text-slate"><tr><th className="text-left px-4 py-3 font-semibold">Tarifart</th><th className="text-left px-4 py-3 font-semibold">Typischer Preis</th><th className="text-left px-4 py-3 font-semibold">Hinweis</th></tr></thead>
               <tbody>
-                {PRICE_ROWS.map((r) => (<tr key={r.profile} className="border-t border-stone-100"><td className="px-4 py-3 font-semibold text-stone-900">{r.profile}</td><td className="px-4 py-3 text-emerald-700 font-semibold whitespace-nowrap">{r.range}</td><td className="px-4 py-3 text-stone-600">{r.note}</td></tr>))}
+                {PRICE_ROWS.map((r) => (<tr key={r.profile} className="border-t border-line"><td className="px-4 py-3 font-semibold text-ink">{r.profile}</td><td className="px-4 py-3 text-ink font-semibold whitespace-nowrap">{r.range}</td><td className="px-4 py-3 text-slate">{r.note}</td></tr>))}
               </tbody>
             </table>
           </div>
-          <p className="text-xs text-stone-500 mt-3">Nur Richtwerte. Dein Beitrag hängt von Tierart, Rasse, Alter, Wohnort und gewähltem Tarif ab.</p>
+          <p className="text-xs text-slate mt-3">Nur Richtwerte. Dein Beitrag hängt von Tierart, Rasse, Alter, Wohnort und gewähltem Tarif ab.</p>
         </section>
 
         {/* ── Mistakes ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Diese Fehler vermeiden</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Diese Fehler vermeiden</h2>
           <ul className="space-y-3">
             {MISTAKES.map((m, i) => (
-              <li key={i} className="flex items-start gap-3 bg-white rounded-2xl border border-stone-200 shadow-sm p-4">
-                <span className="text-rose-500 font-bold flex-shrink-0">✗</span>
-                <span className="text-sm text-stone-700 leading-relaxed">{m}</span>
+              <li key={i} className="flex items-start gap-3 bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-4">
+                <span className="text-ink font-bold flex-shrink-0">✗</span>
+                <span className="text-sm text-slate leading-relaxed">{m}</span>
               </li>
             ))}
           </ul>
@@ -750,21 +749,21 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Glossary ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Glossar</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Glossar</h2>
           <div className="grid sm:grid-cols-2 gap-4">
             {GLOSSARY.map((g) => (
-              <div key={g.term} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
-                <h3 className="font-bold text-stone-900 mb-1">{g.term}</h3>
-                <p className="text-sm text-stone-600 leading-relaxed">{g.def}</p>
+              <div key={g.term} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
+                <h3 className="font-bold text-ink mb-1">{g.term}</h3>
+                <p className="text-sm text-slate leading-relaxed">{g.def}</p>
               </div>
             ))}
           </div>
         </section>
 
         {/* ── Travel ── */}
-        <section className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Mit dem Tier verreisen</h2>
-          <p className="text-sm text-stone-700 leading-relaxed">
+        <section className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Mit dem Tier verreisen</h2>
+          <p className="text-sm text-slate leading-relaxed">
             Viele Tarife erstatten Tierarztkosten auch im Ausland, einige weltweit bis zu zwölf Monate
             (etwa Barmenia). Prüfe die Auslandsdeckung vor der Abreise in den Bedingungen. Die
             Versicherung ersetzt keine Reisedokumente: EU-Heimtierausweis und gültige Tollwutimpfung
@@ -773,9 +772,9 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </section>
 
         {/* ── Verdict ── */}
-        <section className="bg-sky-900 text-white rounded-2xl p-6 sm:p-8">
+        <section className="bg-electric text-white rounded-[22px] p-6 sm:p-8">
           <h2 className="text-2xl font-bold mb-3">Unser Fazit</h2>
-          <p className="text-sky-50 leading-relaxed">
+          <p className="text-white/85 leading-relaxed">
             Für die meisten bietet Lassie die beste Mischung aus digitaler Erfahrung, fehlender
             Altersgrenze und OP-Erstattung ohne Jahreslimit, während Petolo bei der Vollerstattung vorn
             liegt und AGILA beim Preis-Leistungs-Verhältnis. HanseMerkur ist stark bei der reinen
@@ -786,35 +785,35 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </section>
 
         {/* ── Methodology ── */}
-        <section className="bg-white border border-stone-200 rounded-2xl p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Unsere Methode</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-3">
+        <section className="bg-white border-[1.6px] border-ink rounded-[22px] p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Unsere Methode</h2>
+          <p className="text-sm text-slate leading-relaxed mb-3">
             Wir vergleichen jeden Anbieter anhand von sechs festen Kriterien: Umfang der Leistungen,
             Erstattungssatz, Jahreslimit, Wartezeiten, Ausschlüsse und Servicequalität. Jede Angabe
             stammt aus unabhängigen Vergleichen 2026 und aus den Bedingungen der Anbieter. Was wir nicht
             prüfen können, veröffentlichen wir nicht.
           </p>
-          <p className="text-sm text-stone-700 leading-relaxed">
+          <p className="text-sm text-slate leading-relaxed">
             Das Ranking ist redaktionell. Jeder gesponserte Platz ist klar mit &quot;Gesponsert&quot;
             gekennzeichnet und ändert nichts an unserer Bewertung der Leistungen. Erstellt von
             Jean-Baptiste Manson, Gründer und Redakteur von HotelsWithPets.com.
           </p>
-          <div className="mt-4 pt-4 border-t border-stone-100">
+          <div className="mt-4 pt-4 border-t border-line">
             <ContactCTA locale="de" variant="advertiser" />
           </div>
         </section>
 
         {/* ── FAQ ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Häufige Fragen</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Häufige Fragen</h2>
           <div className="space-y-4">
             {FAQ.map((f, i) => (
-              <details key={i} className="bg-white rounded-2xl border border-stone-200 shadow-sm group">
-                <summary className="px-6 py-4 font-semibold text-stone-900 cursor-pointer list-none flex items-center justify-between gap-4">
+              <details key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard group">
+                <summary className="px-6 py-4 font-semibold text-ink cursor-pointer list-none flex items-center justify-between gap-4">
                   <span>{f.q}</span>
-                  <span aria-hidden="true" className="text-stone-500 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
+                  <span aria-hidden="true" className="text-slate group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
                 </summary>
-                <div className="px-6 pb-5 text-stone-700 text-sm leading-relaxed border-t border-stone-100 pt-4">{f.a}</div>
+                <div className="px-6 pb-5 text-slate text-sm leading-relaxed border-t border-line pt-4">{f.a}</div>
               </details>
             ))}
           </div>

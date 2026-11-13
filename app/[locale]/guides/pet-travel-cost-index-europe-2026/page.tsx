@@ -654,32 +654,31 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   const expensive10 = [...cityRows].slice(-10).reverse()
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(datasetSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       {/* Hero */}
-      <section className="relative bg-gradient-to-br from-emerald-950 via-emerald-800 to-teal-700 text-white py-24">
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_30%,rgba(255,255,255,0.1),transparent_60%)]" />
+      <section className="relative text-white py-24 bg-electric">
         <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <span className="inline-block bg-white/10 border border-white/20 text-white/80 text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-6">
             📊 {c.hero.kicker}
           </span>
-          <h1 className="text-3xl lg:text-5xl font-extrabold mb-6 leading-tight">{c.hero.h1}</h1>
+          <h1 className="text-3xl lg:text-5xl font-bold mb-6 leading-tight">{c.hero.h1}</h1>
           <p className="text-emerald-100 text-lg lg:text-xl leading-relaxed max-w-2xl mx-auto">{c.hero.lede}</p>
         </div>
       </section>
 
       {/* Key findings */}
-      <section className="py-12 bg-white border-b border-gray-100">
+      <section className="py-12 bg-white border-b border-line">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-8 text-center">{c.keyFindings.title}</h2>
+          <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-8 text-center">{c.keyFindings.title}</h2>
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-6">
             {c.keyFindings.items.map((it, i) => (
-              <div key={i} className="bg-emerald-50 border border-emerald-100 rounded-2xl p-5 lg:p-6 text-center">
-                <div className="text-3xl lg:text-4xl font-extrabold text-emerald-700 mb-2">{it.stat}</div>
-                <div className="text-gray-600 text-sm leading-snug">{it.label}</div>
+              <div key={i} className="bg-lavender-soft border-[1.6px] border-ink rounded-[22px] p-5 lg:p-6 text-center">
+                <div className="text-3xl lg:text-4xl font-bold text-ink mb-2">{it.stat}</div>
+                <div className="text-slate text-sm leading-snug">{it.label}</div>
               </div>
             ))}
           </div>
@@ -690,22 +689,22 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       <article className="py-12 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
           <section>
-            <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-5">{c.intro.title}</h2>
+            <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-5">{c.intro.title}</h2>
             <div className="space-y-4">
-              {c.intro.paras.map((p, i) => <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>)}
+              {c.intro.paras.map((p, i) => <p key={i} className="text-slate leading-relaxed text-base lg:text-lg">{p}</p>)}
             </div>
           </section>
         </div>
       </article>
 
       {/* Country table */}
-      <section className="py-12 bg-gray-50 border-y border-gray-100">
+      <section className="py-12 bg-cream border-y border-line">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-3">{c.countryTitle}</h2>
-          <p className="text-gray-700 leading-relaxed mb-6 max-w-3xl">{c.countryIntro}</p>
-          <div className="overflow-x-auto bg-white rounded-2xl shadow-sm border border-gray-200">
+          <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-3">{c.countryTitle}</h2>
+          <p className="text-slate leading-relaxed mb-6 max-w-3xl">{c.countryIntro}</p>
+          <div className="overflow-x-auto bg-white rounded-[22px] shadow-hard border-[1.6px] border-ink">
             <table className="w-full text-sm">
-              <thead className="bg-gray-100 text-gray-700">
+              <thead className="bg-lavender-soft text-slate">
                 <tr>
                   <th className="text-left p-3 font-semibold">{c.cols.rank}</th>
                   <th className="text-left p-3 font-semibold">{c.cols.country}</th>
@@ -718,14 +717,14 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               </thead>
               <tbody>
                 {countryRows.map((r, i) => (
-                  <tr key={r.country} className={i % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                    <td className="p-3 text-gray-500 font-mono">{i + 1}</td>
-                    <td className="p-3 font-semibold text-gray-900">{getLocalizedCountryName(r.country, locale)}</td>
-                    <td className="p-3 text-right text-gray-700">{r.cities}</td>
-                    <td className="p-3 text-right text-gray-700">{r.hotels}</td>
-                    <td className="p-3 text-right text-gray-900 font-semibold">{r.avgFee} {c.feeUnit}</td>
-                    <td className="p-3 text-right text-emerald-700 font-semibold">{r.pctFree}%</td>
-                    <td className="p-3 text-right text-gray-700">{r.avgRoom} {c.feeUnit}</td>
+                  <tr key={r.country} className={i % 2 === 0 ? 'bg-white' : 'bg-cream'}>
+                    <td className="p-3 text-slate font-mono">{i + 1}</td>
+                    <td className="p-3 font-semibold text-ink">{getLocalizedCountryName(r.country, locale)}</td>
+                    <td className="p-3 text-right text-slate">{r.cities}</td>
+                    <td className="p-3 text-right text-slate">{r.hotels}</td>
+                    <td className="p-3 text-right text-ink font-semibold">{r.avgFee} {c.feeUnit}</td>
+                    <td className="p-3 text-right text-ink font-semibold">{r.pctFree}%</td>
+                    <td className="p-3 text-right text-slate">{r.avgRoom} {c.feeUnit}</td>
                   </tr>
                 ))}
               </tbody>
@@ -737,11 +736,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* Cheapest cities */}
       <section className="py-12 bg-white">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-3">🏆 {c.cityCheapTitle}</h2>
-          <p className="text-gray-700 leading-relaxed mb-6 max-w-3xl">{c.cityCheapIntro}</p>
-          <div className="overflow-x-auto bg-white rounded-2xl shadow-sm border border-gray-200">
+          <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-3">🏆 {c.cityCheapTitle}</h2>
+          <p className="text-slate leading-relaxed mb-6 max-w-3xl">{c.cityCheapIntro}</p>
+          <div className="overflow-x-auto bg-white rounded-[22px] shadow-hard border-[1.6px] border-ink">
             <table className="w-full text-sm">
-              <thead className="bg-emerald-50 text-emerald-900">
+              <thead className="bg-lavender-soft text-ink">
                 <tr>
                   <th className="text-left p-3 font-semibold">{c.cols.rank}</th>
                   <th className="text-left p-3 font-semibold">{c.cols.city}</th>
@@ -753,17 +752,17 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               </thead>
               <tbody>
                 {cheapest10.map((r, i) => (
-                  <tr key={r.slug} className={i % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                    <td className="p-3 text-gray-500 font-mono">{i + 1}</td>
+                  <tr key={r.slug} className={i % 2 === 0 ? 'bg-white' : 'bg-cream'}>
+                    <td className="p-3 text-slate font-mono">{i + 1}</td>
                     <td className="p-3 font-semibold">
-                      <Link href={`/${locale}/destinations/${r.slug}`} className="text-emerald-700 hover:underline">
+                      <Link href={`/${locale}/destinations/${r.slug}`} className="text-ink hover:underline">
                         {getLocalizedCityName(r.slug, r.name, locale)}
                       </Link>
                     </td>
-                    <td className="p-3 text-gray-700">{getLocalizedCountryName(r.country, locale)}</td>
-                    <td className="p-3 text-right text-gray-900 font-semibold">{r.avgFee === 0 ? c.freeLabel : `${r.avgFee} ${c.feeUnit}`}</td>
-                    <td className="p-3 text-right text-emerald-700 font-semibold">{r.pctFree}%</td>
-                    <td className="p-3 text-right text-gray-700">{r.avgRoom} {c.feeUnit}</td>
+                    <td className="p-3 text-slate">{getLocalizedCountryName(r.country, locale)}</td>
+                    <td className="p-3 text-right text-ink font-semibold">{r.avgFee === 0 ? c.freeLabel : `${r.avgFee} ${c.feeUnit}`}</td>
+                    <td className="p-3 text-right text-ink font-semibold">{r.pctFree}%</td>
+                    <td className="p-3 text-right text-slate">{r.avgRoom} {c.feeUnit}</td>
                   </tr>
                 ))}
               </tbody>
@@ -773,9 +772,9 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       {/* Book a hotel in one of the cheapest cities */}
-      <section className="py-12 bg-emerald-50/60 border-b border-emerald-100">
+      <section className="py-12 bg-lavender-soft/60 border-b border-line">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h3 className="text-xl lg:text-2xl font-extrabold text-gray-900 mb-5 text-center">
+          <h3 className="text-xl lg:text-2xl font-bold text-ink mb-5 text-center">
             🏨 {(COST_INDEX_PICK_LABELS[locale] ?? COST_INDEX_PICK_LABELS.en).cheap}
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
@@ -787,13 +786,13 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       {/* Most expensive */}
-      <section className="py-12 bg-gray-50 border-y border-gray-100">
+      <section className="py-12 bg-cream border-y border-line">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-3">💸 {c.cityExpTitle}</h2>
-          <p className="text-gray-700 leading-relaxed mb-6 max-w-3xl">{c.cityExpIntro}</p>
-          <div className="overflow-x-auto bg-white rounded-2xl shadow-sm border border-gray-200">
+          <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-3">💸 {c.cityExpTitle}</h2>
+          <p className="text-slate leading-relaxed mb-6 max-w-3xl">{c.cityExpIntro}</p>
+          <div className="overflow-x-auto bg-white rounded-[22px] shadow-hard border-[1.6px] border-ink">
             <table className="w-full text-sm">
-              <thead className="bg-rose-50 text-rose-900">
+              <thead className="bg-lavender-soft text-ink">
                 <tr>
                   <th className="text-left p-3 font-semibold">{c.cols.rank}</th>
                   <th className="text-left p-3 font-semibold">{c.cols.city}</th>
@@ -805,17 +804,17 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               </thead>
               <tbody>
                 {expensive10.map((r, i) => (
-                  <tr key={r.slug} className={i % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                    <td className="p-3 text-gray-500 font-mono">{i + 1}</td>
+                  <tr key={r.slug} className={i % 2 === 0 ? 'bg-white' : 'bg-cream'}>
+                    <td className="p-3 text-slate font-mono">{i + 1}</td>
                     <td className="p-3 font-semibold">
-                      <Link href={`/${locale}/destinations/${r.slug}`} className="text-rose-700 hover:underline">
+                      <Link href={`/${locale}/destinations/${r.slug}`} className="text-ink hover:underline">
                         {getLocalizedCityName(r.slug, r.name, locale)}
                       </Link>
                     </td>
-                    <td className="p-3 text-gray-700">{getLocalizedCountryName(r.country, locale)}</td>
-                    <td className="p-3 text-right text-gray-900 font-semibold">{r.avgFee} {c.feeUnit}</td>
-                    <td className="p-3 text-right text-emerald-700 font-semibold">{r.pctFree}%</td>
-                    <td className="p-3 text-right text-gray-700">{r.avgRoom} {c.feeUnit}</td>
+                    <td className="p-3 text-slate">{getLocalizedCountryName(r.country, locale)}</td>
+                    <td className="p-3 text-right text-ink font-semibold">{r.avgFee} {c.feeUnit}</td>
+                    <td className="p-3 text-right text-ink font-semibold">{r.pctFree}%</td>
+                    <td className="p-3 text-right text-slate">{r.avgRoom} {c.feeUnit}</td>
                   </tr>
                 ))}
               </tbody>
@@ -825,9 +824,9 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       {/* Book a hotel in one of the priciest cities */}
-      <section className="py-12 bg-rose-50/60 border-b border-rose-100">
+      <section className="py-12 bg-lavender-soft/60 border-b border-line">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h3 className="text-xl lg:text-2xl font-extrabold text-gray-900 mb-5 text-center">
+          <h3 className="text-xl lg:text-2xl font-bold text-ink mb-5 text-center">
             🏨 {(COST_INDEX_PICK_LABELS[locale] ?? COST_INDEX_PICK_LABELS.en).exp}
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
@@ -841,19 +840,19 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* Methodology */}
       <article className="py-12 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-5">{c.methodology.title}</h2>
+          <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-5">{c.methodology.title}</h2>
           <div className="space-y-4">
-            {c.methodology.paras.map((p, i) => <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>)}
+            {c.methodology.paras.map((p, i) => <p key={i} className="text-slate leading-relaxed text-base lg:text-lg">{p}</p>)}
           </div>
         </div>
       </article>
 
       {/* Takeaways */}
-      <section className="py-12 bg-emerald-50 border-y border-emerald-100">
+      <section className="py-12 bg-lavender-soft border-y border-line">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-5">{c.takeawayTitle}</h2>
+          <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-5">{c.takeawayTitle}</h2>
           <div className="space-y-4">
-            {c.takeawayParas.map((p, i) => <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>)}
+            {c.takeawayParas.map((p, i) => <p key={i} className="text-slate leading-relaxed text-base lg:text-lg">{p}</p>)}
           </div>
         </div>
       </section>
@@ -861,15 +860,15 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* FAQ */}
       <section className="py-16 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-extrabold text-gray-900 mb-8 text-center">❓ {c.faqTitle}</h2>
+          <h2 className="text-3xl font-bold text-ink mb-8 text-center">❓ {c.faqTitle}</h2>
           <div className="space-y-4">
             {c.faqs.map((f, i) => (
-              <details key={i} className="bg-gray-50 border border-gray-200 rounded-2xl group">
-                <summary className="cursor-pointer p-5 font-semibold text-gray-900 list-none flex items-center justify-between">
+              <details key={i} className="bg-cream border-[1.6px] border-ink rounded-[22px] group">
+                <summary className="cursor-pointer p-5 font-semibold text-ink list-none flex items-center justify-between">
                   <span>{f.q}</span>
-                  <span className="text-gray-500 group-open:rotate-180 transition-transform">▾</span>
+                  <span className="text-slate group-open:rotate-180 transition-transform">▾</span>
                 </summary>
-                <div className="px-5 pb-5 text-sm text-gray-700 leading-relaxed">{f.a}</div>
+                <div className="px-5 pb-5 text-sm text-slate leading-relaxed">{f.a}</div>
               </details>
             ))}
           </div>
@@ -877,11 +876,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       {/* CTA */}
-      <section className="py-16 bg-gradient-to-br from-emerald-700 to-teal-800 text-white">
+      <section className="py-16 text-white bg-electric">
         <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl font-extrabold mb-4">{c.ctaTitle}</h2>
+          <h2 className="text-3xl font-bold mb-4">{c.ctaTitle}</h2>
           <p className="text-emerald-100 text-lg mb-8 leading-relaxed">{c.ctaDesc}</p>
-          <Link href={`/${locale}/destinations`} className="inline-block bg-white text-emerald-700 font-bold px-8 py-4 rounded-full hover:bg-emerald-50 transition-colors shadow-lg">
+          <Link href={`/${locale}/destinations`} className="inline-block bg-white text-ink font-bold px-8 py-4 rounded-full hover:bg-lavender-soft transition-colors shadow-hard">
             {c.ctaButton}
           </Link>
         </div>

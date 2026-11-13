@@ -15,7 +15,7 @@ interface Copy {
 // Editorial SEO overview for the homepage, topical-depth and internal-linking
 // support for the head term "dog-friendly hotels" and its cluster. Sits
 // between PetTravelTips and HomeFaq, native copy in all four locales.
-const linkCls = 'text-orange-700 font-medium underline decoration-orange-200 underline-offset-2 hover:decoration-orange-500'
+const linkCls = 'text-ink font-medium underline decoration-electric/40 underline-offset-2 hover:decoration-electric'
 
 const CITY_LABELS: Record<string, Record<string, string>> = {
   en: { paris: 'Paris', barcelona: 'Barcelona', amsterdam: 'Amsterdam', rome: 'Rome', berlin: 'Berlin', vienna: 'Vienna', lisbon: 'Lisbon' },
@@ -394,17 +394,17 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
   }
 
   return (
-    <section className="bg-gray-50 border-t border-gray-100">
+    <section className="bg-cream border-t border-line">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-14">
-        <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-4">{c.heading}</h2>
-        <p className="text-gray-600 leading-relaxed mb-10">{c.intro}</p>
+        <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-4">{c.heading}</h2>
+        <p className="text-slate leading-relaxed mb-10">{c.intro}</p>
 
         <div className="space-y-10">
           {/* 1. Verification */}
           <div>
-            <h3 className="text-lg font-bold text-gray-900 mb-2">{c.sections[0].heading}</h3>
-            <p className="text-gray-600 leading-relaxed mb-2">{c.sections[0].paragraphs[0]}</p>
-            <p className="text-gray-600 leading-relaxed">
+            <h3 className="text-lg font-bold text-ink mb-2">{c.sections[0].heading}</h3>
+            <p className="text-slate leading-relaxed mb-2">{c.sections[0].paragraphs[0]}</p>
+            <p className="text-slate leading-relaxed">
               {locale === 'en' && (
                 <>
                   Our full verification process, including what we do when a hotel&apos;s policy is unclear, is on our{' '}
@@ -459,9 +459,9 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
 
           {/* 2. Fees */}
           <div>
-            <h3 className="text-lg font-bold text-gray-900 mb-2">{c.sections[1].heading}</h3>
-            <p className="text-gray-600 leading-relaxed mb-2">{c.sections[1].paragraphs[0]}</p>
-            <p className="text-gray-600 leading-relaxed">
+            <h3 className="text-lg font-bold text-ink mb-2">{c.sections[1].heading}</h3>
+            <p className="text-slate leading-relaxed mb-2">{c.sections[1].paragraphs[0]}</p>
+            <p className="text-slate leading-relaxed">
               {locale === 'en' && (
                 <>
                   If budget matters, it is worth{' '}
@@ -516,8 +516,8 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
 
           {/* 3. Best cities */}
           <div>
-            <h3 className="text-lg font-bold text-gray-900 mb-2">{c.sections[2].heading}</h3>
-            <p className="text-gray-600 leading-relaxed mb-2">
+            <h3 className="text-lg font-bold text-ink mb-2">{c.sections[2].heading}</h3>
+            <p className="text-slate leading-relaxed mb-2">
               {c.sections[2].paragraphs[0]}{' '}
               {locale === 'en' && 'Explore each city, or browse '}
               {locale === 'fr' && 'Explorez chaque ville, ou parcourez '}
@@ -533,7 +533,7 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
                 <Link
                   key={slug}
                   href={`/${locale}/${slug}/dog-friendly`}
-                  className="inline-block rounded-full bg-orange-50 px-3 py-1 text-sm font-medium text-orange-700 hover:bg-orange-100 transition-colors"
+                  className="inline-block rounded-full bg-coral/25 px-3 py-1 text-sm font-medium text-ink hover:bg-coral/25 transition-colors"
                 >
                   {cityLabels[slug]}
                 </Link>
@@ -543,8 +543,8 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
 
           {/* 4. Beaches / parks */}
           <div>
-            <h3 className="text-lg font-bold text-gray-900 mb-2">{c.sections[3].heading}</h3>
-            <p className="text-gray-600 leading-relaxed">
+            <h3 className="text-lg font-bold text-ink mb-2">{c.sections[3].heading}</h3>
+            <p className="text-slate leading-relaxed">
               {locale === 'en' && (
                 <>
                   A hotel room is only half the trip. Most of our destination guides link out to{' '}
@@ -606,8 +606,8 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
 
           {/* 5. Transport & paperwork */}
           <div>
-            <h3 className="text-lg font-bold text-gray-900 mb-2">{c.sections[4].heading}</h3>
-            <p className="text-gray-600 leading-relaxed">
+            <h3 className="text-lg font-bold text-ink mb-2">{c.sections[4].heading}</h3>
+            <p className="text-slate leading-relaxed">
               {locale === 'en' && (
                 <>
                   Getting to your hotel is its own project. Read up on{' '}

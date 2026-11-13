@@ -655,14 +655,14 @@ export default async function DogParksHubPage({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
-      <div className="min-h-screen bg-gray-50">
+      <div className="min-h-screen bg-cream">
         {/* Hero */}
-        <section className="bg-gradient-to-br from-emerald-700 via-green-800 to-teal-900 text-white py-16">
+        <section className="text-white py-16 bg-electric">
           <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-start gap-4">
               <span className="text-5xl sm:text-6xl flex-shrink-0">🌳</span>
               <div>
-                <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight mb-3">{copy.h1}</h1>
+                <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight mb-3">{copy.h1}</h1>
                 <p className="text-emerald-100 text-lg mb-6">{copy.subtitle(N_PARKS, M_CITIES, COUNTRY_COUNT)}</p>
                 <div className="flex flex-wrap gap-2.5">
                   <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">🐾 {N_PARKS} {parksLabel}</span>
@@ -676,17 +676,17 @@ export default async function DogParksHubPage({
         </section>
 
         {/* Intro + helper */}
-        <section className="bg-white border-b border-gray-100 py-12">
+        <section className="bg-white border-b border-line py-12">
           <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 grid md:grid-cols-2 gap-10">
             <div>
-              <p className="text-gray-700 leading-relaxed">{copy.intro}</p>
+              <p className="text-slate leading-relaxed">{copy.intro}</p>
             </div>
-            <div className="bg-emerald-50 rounded-2xl p-6 border border-emerald-100">
-              <h2 className="text-lg font-extrabold text-gray-900 mb-4">{copy.helperTitle}</h2>
+            <div className="bg-lavender-soft rounded-[22px] p-6 border-[1.6px] border-ink">
+              <h2 className="text-lg font-bold text-ink mb-4">{copy.helperTitle}</h2>
               <ul className="space-y-3">
                 {copy.helperItems.map((item, i) => (
-                  <li key={i} className="flex items-start gap-3 text-sm text-gray-700">
-                    <span className="flex-shrink-0 w-5 h-5 rounded-full bg-emerald-600 text-white text-xs font-bold flex items-center justify-center mt-0.5">{i + 1}</span>
+                  <li key={i} className="flex items-start gap-3 text-sm text-slate">
+                    <span className="flex-shrink-0 w-5 h-5 rounded-full bg-electric text-white text-xs font-bold flex items-center justify-center mt-0.5">{i + 1}</span>
                     {item}
                   </li>
                 ))}
@@ -698,14 +698,14 @@ export default async function DogParksHubPage({
         {/* Directory */}
         <section className="py-14">
           <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-8">{copy.directoryTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-8">{copy.directoryTitle}</h2>
             <div className="space-y-12">
               {COUNTRY_GROUPS.map((group) => (
                 <div key={group.country}>
-                  <div className="flex items-center gap-3 mb-4 pb-3 border-b border-gray-200">
+                  <div className="flex items-center gap-3 mb-4 pb-3 border-b border-line">
                     <span className="text-3xl">{group.flag}</span>
-                    <h3 className="text-xl font-extrabold text-gray-900">{getLocalizedCountryName(group.country, locale)}</h3>
-                    <span className="text-sm text-gray-500">
+                    <h3 className="text-xl font-bold text-ink">{getLocalizedCountryName(group.country, locale)}</h3>
+                    <span className="text-sm text-slate">
                       {copy.cityCountLabel(group.cities.length)} · {copy.parkCountLabel(group.parkCount)}
                     </span>
                   </div>
@@ -717,35 +717,35 @@ export default async function DogParksHubPage({
                         ? `/${locale}/${city.slug}/near-parks`
                         : `/${locale}/destinations/${city.slug}`
                       return (
-                        <div key={city.slug} className="bg-white rounded-2xl border border-gray-100 shadow-sm p-5">
+                        <div key={city.slug} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
                           <div className="flex items-baseline justify-between gap-2 mb-3">
-                            <h4 className="font-bold text-gray-900 text-lg">{cityName}</h4>
-                            <span className="text-xs text-gray-500 flex-shrink-0">{copy.parkCountLabel(city.places.length)}</span>
+                            <h4 className="font-bold text-ink text-lg">{cityName}</h4>
+                            <span className="text-xs text-slate flex-shrink-0">{copy.parkCountLabel(city.places.length)}</span>
                           </div>
                           <ul className="space-y-1.5 mb-4">
                             {topParks.map((place, i) => (
-                              <li key={i} className="flex items-center gap-2 text-sm text-gray-700">
-                                <span className="text-emerald-500">🌳</span>
+                              <li key={i} className="flex items-center gap-2 text-sm text-slate">
+                                <span className="text-ink">🌳</span>
                                 <span>{localizeParkName(place, lang)}</span>
                                 {place.offLeash === true && (
-                                  <span className="text-[10px] font-bold bg-green-100 text-green-700 px-1.5 py-0.5 rounded uppercase tracking-wide">{copy.offLeashBadge}</span>
+                                  <span className="text-[10px] font-bold bg-green-100 text-ink px-1.5 py-0.5 rounded uppercase tracking-wide">{copy.offLeashBadge}</span>
                                 )}
                               </li>
                             ))}
                             {city.places.length > 3 && (
-                              <li className="text-xs text-gray-400 pl-6">+{city.places.length - 3}</li>
+                              <li className="text-xs text-slate pl-6">+{city.places.length - 3}</li>
                             )}
                           </ul>
                           <div className="flex flex-col gap-1.5 pt-3 border-t border-gray-50">
                             <Link
                               href={`/${locale}/destinations/${city.slug}/parks`}
-                              className="inline-flex items-center gap-1.5 text-sm font-semibold text-emerald-700 hover:text-emerald-900 transition-colors"
+                              className="inline-flex items-center gap-1.5 text-sm font-semibold text-ink hover:text-ink transition-colors"
                             >
                               → {copy.cityParksLink(cityName)}
                             </Link>
                             <Link
                               href={bridgeHref}
-                              className="inline-flex items-center gap-1.5 text-xs text-gray-500 hover:text-blue-600 transition-colors"
+                              className="inline-flex items-center gap-1.5 text-xs text-slate hover:text-electric transition-colors"
                             >
                               🏨 {copy.hotelsBridge(cityName)}
                             </Link>
@@ -761,13 +761,13 @@ export default async function DogParksHubPage({
         </section>
 
         {/* Cross-links */}
-        <section className="py-14 bg-white border-t border-gray-100">
+        <section className="py-14 bg-white border-t border-line">
           <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{copy.crossTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6">{copy.crossTitle}</h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <Link
                 href={`/${locale}/guides/fenced-dog-parks-europe`}
-                className="block bg-gradient-to-br from-emerald-500 to-teal-500 text-white rounded-2xl p-6 hover:opacity-95 transition-opacity"
+                className="block text-white rounded-[22px] p-6 hover:opacity-95 transition-opacity bg-electric"
               >
                 <span className="text-3xl block mb-2">🌳</span>
                 <span className="font-bold text-lg block mb-1">{copy.crossGuide}</span>
@@ -775,7 +775,7 @@ export default async function DogParksHubPage({
               </Link>
               <Link
                 href={`/${locale}/destinations`}
-                className="block bg-gradient-to-br from-blue-600 to-indigo-600 text-white rounded-2xl p-6 hover:opacity-95 transition-opacity"
+                className="block text-white rounded-[22px] p-6 hover:opacity-95 transition-opacity bg-electric"
               >
                 <span className="text-3xl block mb-2">🗺️</span>
                 <span className="font-bold text-lg block mb-1">{copy.crossDest}</span>
@@ -788,15 +788,15 @@ export default async function DogParksHubPage({
         {/* FAQ */}
         <section className="py-14">
           <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-8">{copy.faqTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-8">{copy.faqTitle}</h2>
             <div className="space-y-4">
               {copy.faqs.map((faq, i) => (
-                <details key={i} className="bg-white rounded-2xl border border-gray-200 shadow-sm group">
-                  <summary className="px-6 py-4 font-semibold text-gray-900 cursor-pointer list-none flex items-center justify-between gap-4">
+                <details key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard group">
+                  <summary className="px-6 py-4 font-semibold text-ink cursor-pointer list-none flex items-center justify-between gap-4">
                     <span>{faq.q}</span>
-                    <span aria-hidden="true" className="text-gray-500 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
+                    <span aria-hidden="true" className="text-slate group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
                   </summary>
-                  <div className="px-6 pb-5 text-gray-700 text-sm leading-relaxed border-t border-gray-100 pt-4">
+                  <div className="px-6 pb-5 text-slate text-sm leading-relaxed border-t border-line pt-4">
                     {faq.a}
                   </div>
                 </details>

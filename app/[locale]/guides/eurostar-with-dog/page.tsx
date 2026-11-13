@@ -555,19 +555,18 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   }
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       {/* Hero */}
-      <section className="relative bg-gradient-to-br from-blue-950 via-indigo-900 to-purple-900 text-white py-20">
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_20%,rgba(255,255,255,0.08),transparent_60%)]" />
+      <section className="relative text-white py-20 bg-electric">
         <div className="relative max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
           <span className="inline-block bg-white/10 border border-white/20 text-white/80 text-xs font-bold uppercase tracking-widest px-4 py-1.5 rounded-full mb-5">
             🚆 {c.hero.kicker}
           </span>
-          <h1 className="text-4xl lg:text-5xl font-extrabold mb-6 leading-tight">{c.hero.h1}</h1>
-          <div className="bg-white/10 backdrop-blur-sm border border-white/15 rounded-2xl p-6">
+          <h1 className="text-4xl lg:text-5xl font-bold mb-6 leading-tight">{c.hero.h1}</h1>
+          <div className="bg-white/10 backdrop-blur-sm border-[1.6px] border-white/15 rounded-[22px] p-6">
             <p className="text-blue-100 text-base leading-relaxed">
               <strong className="text-white">TL;DR, </strong>{c.hero.tldr}
             </p>
@@ -580,17 +579,17 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
           {c.sections.map((s) => (
             <section key={s.id} id={s.id}>
-              <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-5 leading-tight">{s.h2}</h2>
+              <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-5 leading-tight">{s.h2}</h2>
               <div className="space-y-4">
                 {s.paras.map((p, i) => (
-                  <p key={i} className="text-gray-700 leading-relaxed text-base lg:text-lg">{p}</p>
+                  <p key={i} className="text-slate leading-relaxed text-base lg:text-lg">{p}</p>
                 ))}
               </div>
               {s.bullets && (
                 <ul className="mt-5 space-y-2">
                   {s.bullets.map((b, i) => (
-                    <li key={i} className="flex items-start gap-3 text-gray-700">
-                      <span className="flex-shrink-0 mt-2 w-1.5 h-1.5 rounded-full bg-blue-600" />
+                    <li key={i} className="flex items-start gap-3 text-slate">
+                      <span className="flex-shrink-0 mt-2 w-1.5 h-1.5 rounded-full bg-electric" />
                       <span>{b}</span>
                     </li>
                   ))}
@@ -602,9 +601,9 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </article>
 
       {/* Where to stay: pet-friendly hotels at each Eurostar route end */}
-      <section className="py-12 bg-white border-y border-gray-100">
+      <section className="py-12 bg-white border-y border-line">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-6 text-center">
+          <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-6 text-center">
             🏨 {STAY_TITLES_EUROSTAR[locale] ?? STAY_TITLES_EUROSTAR.en}
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
@@ -617,12 +616,12 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       {/* Comparison table */}
-      <section className="py-12 bg-gray-50 border-y border-gray-100">
+      <section className="py-12 bg-cream border-y border-line">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl lg:text-3xl font-extrabold text-gray-900 mb-6 text-center">{c.table.caption}</h2>
-          <div className="overflow-x-auto bg-white rounded-2xl shadow-sm border border-gray-200">
+          <h2 className="text-2xl lg:text-3xl font-bold text-ink mb-6 text-center">{c.table.caption}</h2>
+          <div className="overflow-x-auto bg-white rounded-[22px] shadow-hard border-[1.6px] border-ink">
             <table className="w-full text-sm">
-              <thead className="bg-gradient-to-br from-blue-600 to-indigo-700 text-white">
+              <thead className="text-white bg-electric">
                 <tr>
                   {c.table.head.map((h, i) => (
                     <th key={i} className="px-4 py-3 text-left font-bold">{h}</th>
@@ -631,9 +630,9 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               </thead>
               <tbody className="divide-y divide-gray-100">
                 {c.table.rows.map((row, i) => (
-                  <tr key={i} className={i === c.table.rows.length - 1 ? 'bg-red-50' : 'hover:bg-gray-50'}>
+                  <tr key={i} className={i === c.table.rows.length - 1 ? 'bg-red-50' : 'hover:bg-cream'}>
                     {row.map((cell, j) => (
-                      <td key={j} className={`px-4 py-3 ${j === 0 ? 'font-semibold text-gray-900' : 'text-gray-700'}`}>{cell}</td>
+                      <td key={j} className={`px-4 py-3 ${j === 0 ? 'font-semibold text-ink' : 'text-slate'}`}>{cell}</td>
                     ))}
                   </tr>
                 ))}
@@ -646,15 +645,15 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       {/* FAQ */}
       <section className="py-16 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-extrabold text-gray-900 mb-8 text-center">❓ {c.faqTitle}</h2>
+          <h2 className="text-3xl font-bold text-ink mb-8 text-center">❓ {c.faqTitle}</h2>
           <div className="space-y-4">
             {c.faqs.map((f, i) => (
-              <details key={i} className="bg-gray-50 border border-gray-200 rounded-2xl group">
-                <summary className="cursor-pointer p-5 font-semibold text-gray-900 list-none flex items-center justify-between">
+              <details key={i} className="bg-cream border-[1.6px] border-ink rounded-[22px] group">
+                <summary className="cursor-pointer p-5 font-semibold text-ink list-none flex items-center justify-between">
                   <span>{f.q}</span>
-                  <span className="text-gray-500 group-open:rotate-180 transition-transform">▾</span>
+                  <span className="text-slate group-open:rotate-180 transition-transform">▾</span>
                 </summary>
-                <div className="px-5 pb-5 text-sm text-gray-700 leading-relaxed">{f.a}</div>
+                <div className="px-5 pb-5 text-sm text-slate leading-relaxed">{f.a}</div>
               </details>
             ))}
           </div>
@@ -662,11 +661,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       </section>
 
       {/* CTA */}
-      <section className="py-16 bg-gradient-to-br from-blue-600 to-indigo-700 text-white">
+      <section className="py-16 text-white bg-electric">
         <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl font-extrabold mb-4">{c.ctaTitle}</h2>
+          <h2 className="text-3xl font-bold mb-4">{c.ctaTitle}</h2>
           <p className="text-blue-100 text-lg mb-8 leading-relaxed">{c.ctaDesc}</p>
-          <Link href={c.ctaHref} className="inline-block bg-white text-blue-700 font-bold px-8 py-4 rounded-full hover:bg-blue-50 transition-colors shadow-lg">
+          <Link href={c.ctaHref} className="inline-block bg-white text-electric font-bold px-8 py-4 rounded-full hover:bg-lavender-soft transition-colors shadow-hard">
             {c.ctaButton}
           </Link>
         </div>

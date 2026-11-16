@@ -745,14 +745,13 @@ export default async function Page({
   }
 
   return (
-    <main className="min-h-screen bg-stone-50">
+    <main className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(tripSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
       {/* Hero */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-purple-700 via-fuchsia-600 to-amber-500 text-white">
-        <div className="absolute inset-0 opacity-20 pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at 20% 30%, rgba(255,255,255,0.4), transparent 40%), radial-gradient(circle at 80% 70%, rgba(255,255,255,0.3), transparent 40%)' }} />
+      <section className="relative overflow-hidden text-white bg-electric">
         <div className="relative z-10 max-w-5xl mx-auto px-4 py-16 sm:py-24">
           <div className="text-xs font-semibold uppercase tracking-widest text-purple-200 mb-3">{t.eyebrow}</div>
           <h1 className="text-3xl sm:text-5xl font-bold leading-tight mb-4">{t.title}</h1>
@@ -767,13 +766,13 @@ export default async function Page({
 
       {/* Route summary */}
       <section className="max-w-5xl mx-auto px-4 py-12">
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-6">{t.routeHeading}</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-6">{t.routeHeading}</h2>
         <ol className="grid grid-cols-1 sm:grid-cols-4 gap-3">
           {STOPS.map((s, i) => (
-            <li key={s.slug} className="bg-white rounded-xl p-4 border border-stone-200">
+            <li key={s.slug} className="bg-white rounded-xl p-4 border border-line">
               <div className="text-xs font-semibold uppercase tracking-wider text-purple-700 mb-1">{t.dayLabelsShort[i]}</div>
-              <div className="text-lg font-bold text-stone-900">{s.name}</div>
-              <div className="text-sm text-stone-600 mt-1">{t.nightsLabel(s.nights)}</div>
+              <div className="text-lg font-bold text-ink">{s.name}</div>
+              <div className="text-sm text-slate mt-1">{t.nightsLabel(s.nights)}</div>
             </li>
           ))}
         </ol>
@@ -781,9 +780,9 @@ export default async function Page({
 
       {/* Map */}
       <section className="max-w-5xl mx-auto px-4 pb-12">
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-2">{t.mapHeading}</h2>
-        <p className="text-sm text-stone-600 mb-4">{t.mapNote}</p>
-        <div className="rounded-xl overflow-hidden border border-stone-200 shadow-sm">
+        <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-2">{t.mapHeading}</h2>
+        <p className="text-sm text-slate mb-4">{t.mapNote}</p>
+        <div className="rounded-xl overflow-hidden border border-line ">
           <iframe
             src={mapSrc}
             width="100%"
@@ -797,17 +796,17 @@ export default async function Page({
 
       {/* Day-by-day */}
       <section className="max-w-5xl mx-auto px-4 pb-12">
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-6">{t.itineraryHeading}</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-6">{t.itineraryHeading}</h2>
         <div className="space-y-8">
           {STOPS.map((s, i) => {
             const localised = w(s)
             const dayLabel = t.dayLabels[i]
             return (
-              <article key={s.slug} className="bg-white rounded-2xl border border-stone-200 overflow-hidden">
-                <header className="px-5 py-4 sm:px-7 sm:py-5 bg-gradient-to-r from-purple-50 to-amber-50 border-b border-stone-200">
+              <article key={s.slug} className="bg-white rounded-[22px] border-[1.6px] border-line overflow-hidden">
+                <header className="px-5 py-4 sm:px-7 sm:py-5 border-b border-line bg-lavender-soft">
                   <div className="flex flex-wrap items-baseline gap-x-4 gap-y-1">
                     <span className="text-xs font-bold uppercase tracking-widest text-purple-700">{dayLabel}</span>
-                    <h3 className="text-2xl font-bold text-stone-900">
+                    <h3 className="text-2xl font-bold text-ink">
                       {s.hasDestPage ? (
                         <Link href={`/${locale}/destinations/${s.slug}`} className="hover:text-purple-700">
                           {s.name}
@@ -816,18 +815,18 @@ export default async function Page({
                         s.name
                       )}
                     </h3>
-                    <span className="text-sm text-stone-600">{t.nightsLabel(s.nights)}</span>
+                    <span className="text-sm text-slate">{t.nightsLabel(s.nights)}</span>
                   </div>
                 </header>
                 <div className="px-5 py-5 sm:px-7 sm:py-6 space-y-4">
                   <div>
-                    <div className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-1">{t.driveLabel}</div>
-                    <p className="text-stone-700 text-sm">{s.drive[locale]}</p>
+                    <div className="text-xs font-semibold uppercase tracking-wider text-slate mb-1">{t.driveLabel}</div>
+                    <p className="text-ink text-sm">{s.drive[locale]}</p>
                   </div>
-                  <p className="text-stone-800 leading-relaxed">{localised.why}</p>
+                  <p className="text-ink leading-relaxed">{localised.why}</p>
                   <div>
-                    <div className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-2">{t.highlightsLabel}</div>
-                    <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-sm text-stone-700">
+                    <div className="text-xs font-semibold uppercase tracking-wider text-slate mb-2">{t.highlightsLabel}</div>
+                    <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-sm text-ink">
                       {localised.hl.map((h, idx) => (
                         <li key={idx} className="flex items-start gap-2">
                           <span className="text-purple-600 mt-0.5">●</span>
@@ -837,7 +836,7 @@ export default async function Page({
                     </ul>
                   </div>
                   <div>
-                    <div className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-3">{t.hotelsLabel}</div>
+                    <div className="text-xs font-semibold uppercase tracking-wider text-slate mb-3">{t.hotelsLabel}</div>
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
                       {localised.hotels.map((h, idx) => (
                         <a
@@ -845,10 +844,10 @@ export default async function Page({
                           href={buildAllezLink(h.name, s.name, 'France', `${CAMPAIGN_BASE}-${s.slug}-${idx + 1}`, s.nights)}
                           target="_blank"
                           rel="noopener sponsored"
-                          className="block bg-stone-50 hover:bg-purple-50 border border-stone-200 hover:border-purple-300 rounded-lg p-4 transition"
+                          className="block bg-cream hover:bg-purple-50 border border-line hover:border-purple-300 rounded-lg p-4 transition"
                         >
-                          <div className="font-semibold text-stone-900">{h.name}</div>
-                          <p className="text-xs text-stone-600 mt-1 leading-relaxed">{h.pitch}</p>
+                          <div className="font-semibold text-ink">{h.name}</div>
+                          <p className="text-xs text-slate mt-1 leading-relaxed">{h.pitch}</p>
                           <div className="mt-2 text-xs font-semibold text-purple-700">
                             {t.checkAvailability}
                           </div>
@@ -859,7 +858,7 @@ export default async function Page({
                       href={buildAllezDestLink(s.name, 'France', `${CAMPAIGN_BASE}-${s.slug}-all`, s.nights)}
                       target="_blank"
                       rel="noopener sponsored"
-                      className="inline-block mt-3 text-sm text-stone-600 hover:text-purple-700 underline underline-offset-2"
+                      className="inline-block mt-3 text-sm text-slate hover:text-purple-700 underline underline-offset-2"
                     >
                       {t.browseAll(s.name)}
                     </a>
@@ -873,12 +872,12 @@ export default async function Page({
 
       {/* Practical info */}
       <section className="max-w-5xl mx-auto px-4 pb-12">
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-6">{t.practicalHeading}</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-6">{t.practicalHeading}</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           {t.practical.map((p, i) => (
-            <div key={i} className="bg-white rounded-xl p-5 border border-stone-200">
-              <h3 className="font-bold text-stone-900 mb-2">{p.h}</h3>
-              <p className="text-sm text-stone-700 leading-relaxed">{p.p}</p>
+            <div key={i} className="bg-white rounded-xl p-5 border border-line">
+              <h3 className="font-bold text-ink mb-2">{p.h}</h3>
+              <p className="text-sm text-ink leading-relaxed">{p.p}</p>
             </div>
           ))}
         </div>
@@ -886,12 +885,12 @@ export default async function Page({
 
       {/* FAQ */}
       <section className="max-w-5xl mx-auto px-4 pb-16">
-        <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-6">{t.faqHeading}</h2>
+        <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-6">{t.faqHeading}</h2>
         <div className="space-y-4">
           {t.faq.map((f, i) => (
-            <div key={i} className="bg-white rounded-xl p-5 border border-stone-200">
-              <h3 className="font-semibold text-stone-900 mb-2">{f.q}</h3>
-              <p className="text-sm text-stone-700 leading-relaxed">{f.a}</p>
+            <div key={i} className="bg-white rounded-xl p-5 border border-line">
+              <h3 className="font-semibold text-ink mb-2">{f.q}</h3>
+              <p className="text-sm text-ink leading-relaxed">{f.a}</p>
             </div>
           ))}
         </div>

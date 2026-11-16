@@ -1326,9 +1326,9 @@ const COPY = {
 }
 
 const PRICE_COLOR_MAP: Record<string, { bg: string; text: string; border: string; dot: string }> = {
-  emerald: { bg: 'bg-emerald-50', text: 'text-emerald-800', border: 'border-emerald-200', dot: 'bg-emerald-500' },
-  blue: { bg: 'bg-blue-50', text: 'text-blue-800', border: 'border-blue-200', dot: 'bg-blue-500' },
-  amber: { bg: 'bg-amber-50', text: 'text-amber-800', border: 'border-amber-200', dot: 'bg-amber-500' },
+  emerald: { bg: 'bg-lavender-soft', text: 'text-ink', border: 'border-line', dot: 'bg-electric' },
+  blue: { bg: 'bg-lavender-soft', text: 'text-electric', border: 'border-line', dot: 'bg-electric' },
+  amber: { bg: 'bg-lime/30', text: 'text-ink', border: 'border-line', dot: 'bg-amber-500' },
   purple: { bg: 'bg-purple-50', text: 'text-purple-800', border: 'border-purple-200', dot: 'bg-purple-500' },
   red: { bg: 'bg-red-50', text: 'text-red-800', border: 'border-red-200', dot: 'bg-red-500' },
 }
@@ -1399,10 +1399,10 @@ export default async function HotelPetFriendlyGuidePage({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
-      <div className="min-h-screen bg-gray-50">
+      <div className="min-h-screen bg-cream">
 
         {/* Hero */}
-        <section className="bg-gradient-to-br from-slate-900 via-teal-950 to-emerald-900 text-white py-16">
+        <section className="text-white py-16 bg-electric border-b-[1.6px] border-ink">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center gap-2 mb-6">
               <Link href={`/${locale}/guides`} className="text-teal-300 hover:text-white text-sm transition-colors">
@@ -1414,7 +1414,7 @@ export default async function HotelPetFriendlyGuidePage({
             <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 rounded-full px-3 py-1 text-xs font-medium mb-5">
               🐾 {copy.badge} · {copy.lastUpdate} {monthYear}
             </span>
-            <h1 className="text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">{copy.hero}</h1>
+            <h1 className="text-3xl lg:text-4xl font-bold mb-4 leading-tight">{copy.hero}</h1>
             <p className="text-teal-200 text-base leading-relaxed max-w-3xl">{copy.subtitle}</p>
           </div>
         </section>
@@ -1423,14 +1423,14 @@ export default async function HotelPetFriendlyGuidePage({
 
           {/* Reality check */}
           <section className="mb-12">
-            <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-7 mb-6">
-              <h2 className="text-2xl font-extrabold text-gray-900 mb-5 flex items-center gap-3">
+            <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-7 mb-6">
+              <h2 className="text-2xl font-bold text-ink mb-5 flex items-center gap-3">
                 <span className="text-2xl">🔎</span>
                 {copy.realityTitle}
               </h2>
               <div className="space-y-4">
                 {copy.realityText.map((para, i) => (
-                  <p key={i} className="text-gray-700 leading-relaxed">{para}</p>
+                  <p key={i} className="text-slate leading-relaxed">{para}</p>
                 ))}
               </div>
             </div>
@@ -1438,11 +1438,11 @@ export default async function HotelPetFriendlyGuidePage({
 
           {/* Red flags */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-2 flex items-center gap-3">
+            <h2 className="text-2xl font-bold text-ink mb-2 flex items-center gap-3">
               <span className="text-2xl">🚩</span>
               {copy.redFlagsTitle}
             </h2>
-            <p className="text-gray-500 text-sm mb-6">{copy.redFlagsIntro}</p>
+            <p className="text-slate text-sm mb-6">{copy.redFlagsIntro}</p>
             <div className="space-y-3">
               {copy.redFlags.map((item, i) => (
                 <div key={i} className="bg-red-50 border border-red-100 rounded-xl p-5 flex gap-4">
@@ -1458,18 +1458,18 @@ export default async function HotelPetFriendlyGuidePage({
 
           {/* Green flags */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-2 flex items-center gap-3">
+            <h2 className="text-2xl font-bold text-ink mb-2 flex items-center gap-3">
               <span className="text-2xl">✅</span>
               {copy.greenFlagsTitle}
             </h2>
-            <p className="text-gray-500 text-sm mb-6">{copy.greenFlagsIntro}</p>
+            <p className="text-slate text-sm mb-6">{copy.greenFlagsIntro}</p>
             <div className="space-y-3">
               {copy.greenFlags.map((item, i) => (
-                <div key={i} className="bg-emerald-50 border border-emerald-100 rounded-xl p-5 flex gap-4">
-                  <span className="flex-shrink-0 text-emerald-500 text-lg mt-0.5">✓</span>
+                <div key={i} className="bg-lavender-soft border border-line rounded-xl p-5 flex gap-4">
+                  <span className="flex-shrink-0 text-ink text-lg mt-0.5">✓</span>
                   <div>
-                    <p className="font-semibold text-emerald-900 text-sm mb-1">{item.flag}</p>
-                    <p className="text-emerald-800 text-sm leading-relaxed">{item.meaning}</p>
+                    <p className="font-semibold text-ink text-sm mb-1">{item.flag}</p>
+                    <p className="text-ink text-sm leading-relaxed">{item.meaning}</p>
                   </div>
                 </div>
               ))}
@@ -1478,57 +1478,57 @@ export default async function HotelPetFriendlyGuidePage({
 
           {/* Questions to ask */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-2 flex items-center gap-3">
+            <h2 className="text-2xl font-bold text-ink mb-2 flex items-center gap-3">
               <span className="text-2xl">📋</span>
               {copy.questionsTitle}
             </h2>
-            <p className="text-gray-500 text-sm mb-6">{copy.questionsIntro}</p>
-            <div className="bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
+            <p className="text-slate text-sm mb-6">{copy.questionsIntro}</p>
+            <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard overflow-hidden">
               {copy.questions.map((q, i) => (
                 <div key={i} className={`flex items-start gap-4 p-5 ${i < copy.questions.length - 1 ? 'border-b border-gray-50' : ''}`}>
-                  <span className="flex-shrink-0 w-7 h-7 bg-blue-600 text-white text-xs font-bold rounded-full flex items-center justify-center mt-0.5">{i + 1}</span>
-                  <p className="text-gray-800 text-sm leading-relaxed">{q}</p>
+                  <span className="flex-shrink-0 w-7 h-7 bg-electric text-white text-xs font-bold rounded-full flex items-center justify-center mt-0.5">{i + 1}</span>
+                  <p className="text-ink text-sm leading-relaxed">{q}</p>
                 </div>
               ))}
             </div>
-            <div className="mt-4 bg-amber-50 border border-amber-100 rounded-xl p-4 flex items-start gap-3">
-              <span className="text-amber-500 flex-shrink-0 text-lg">💡</span>
-              <p className="text-amber-800 text-sm leading-relaxed">{copy.questionsTip}</p>
+            <div className="mt-4 bg-lime/30 border border-line rounded-xl p-4 flex items-start gap-3">
+              <span className="text-ink flex-shrink-0 text-lg">💡</span>
+              <p className="text-ink text-sm leading-relaxed">{copy.questionsTip}</p>
             </div>
           </section>
 
           {/* Platform comparison */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6 flex items-center gap-3">
+            <h2 className="text-2xl font-bold text-ink mb-6 flex items-center gap-3">
               <span className="text-2xl">🖥️</span>
               {copy.platformsTitle}
             </h2>
             <div className="space-y-4">
               {copy.platforms.map((platform, i) => (
-                <div key={i} className={`bg-white rounded-xl border shadow-sm p-6 ${platform.icon === '✅' ? 'border-emerald-200' : 'border-gray-100'}`}>
+                <div key={i} className={`bg-white rounded-xl border p-6 ${platform.icon === '✅' ? 'border-line' : 'border-line'}`}>
                   <div className="flex items-center gap-3 mb-3">
                     <span className="text-2xl">{platform.icon}</span>
-                    <h3 className="font-bold text-gray-900">{platform.name}</h3>
+                    <h3 className="font-bold text-ink">{platform.name}</h3>
                   </div>
-                  <p className="text-gray-600 text-sm leading-relaxed mb-3">{platform.how}</p>
-                  <div className="bg-blue-50 border border-blue-100 rounded-lg px-4 py-3">
-                    <p className="text-blue-800 text-xs leading-relaxed"><span className="font-semibold">Tip: </span>{platform.tip}</p>
+                  <p className="text-slate text-sm leading-relaxed mb-3">{platform.how}</p>
+                  <div className="bg-lavender-soft border border-line rounded-lg px-4 py-3">
+                    <p className="text-electric text-xs leading-relaxed"><span className="font-semibold">Tip: </span>{platform.tip}</p>
                   </div>
                 </div>
               ))}
             </div>
-            <div className="mt-6 bg-slate-800 text-white rounded-2xl p-6">
+            <div className="mt-6 bg-slate-800 text-white rounded-[22px] p-6">
               <p className="text-sm leading-relaxed text-slate-200">{copy.platformsConclusion}</p>
             </div>
           </section>
 
           {/* Price reality check */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-2 flex items-center gap-3">
+            <h2 className="text-2xl font-bold text-ink mb-2 flex items-center gap-3">
               <span className="text-2xl">💶</span>
               {copy.pricesTitle}
             </h2>
-            <p className="text-gray-500 text-sm mb-6">{copy.pricesIntro}</p>
+            <p className="text-slate text-sm mb-6">{copy.pricesIntro}</p>
             <div className="space-y-3">
               {copy.priceTiers.map((tier, i) => {
                 const colors = PRICE_COLOR_MAP[tier.color]
@@ -1538,7 +1538,7 @@ export default async function HotelPetFriendlyGuidePage({
                       <span className={`flex-shrink-0 w-2.5 h-2.5 rounded-full mt-2 ${colors.dot}`} />
                       <div>
                         <div className="flex items-center gap-3 flex-wrap mb-1">
-                          <span className={`font-extrabold text-lg ${colors.text}`}>{tier.range}</span>
+                          <span className={`font-bold text-lg ${colors.text}`}>{tier.range}</span>
                           <span className={`text-xs font-semibold px-2 py-0.5 rounded-full bg-white/60 ${colors.text}`}>{tier.label}</span>
                         </div>
                         <p className={`text-sm leading-relaxed ${colors.text}`}>{tier.desc}</p>
@@ -1548,26 +1548,26 @@ export default async function HotelPetFriendlyGuidePage({
                 )
               })}
             </div>
-            <p className="text-xs text-gray-500 mt-4 italic">{copy.pricesNote}</p>
+            <p className="text-xs text-slate mt-4 italic">{copy.pricesNote}</p>
           </section>
 
           {/* Categories guide */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6 flex items-center gap-3">
+            <h2 className="text-2xl font-bold text-ink mb-6 flex items-center gap-3">
               <span className="text-2xl">🏨</span>
               {copy.categoriesTitle}
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               {copy.categories.map((cat, i) => (
-                <div key={i} className="bg-white rounded-xl border border-gray-100 shadow-sm p-6">
+                <div key={i} className="bg-white rounded-xl border border-line p-6">
                   <div className="flex items-center gap-3 mb-3">
                     <span className="text-3xl">{cat.icon}</span>
-                    <h3 className="font-bold text-gray-900 text-sm">{cat.type}</h3>
+                    <h3 className="font-bold text-ink text-sm">{cat.type}</h3>
                   </div>
-                  <p className="text-gray-600 text-sm leading-relaxed mb-4">{cat.desc}</p>
+                  <p className="text-slate text-sm leading-relaxed mb-4">{cat.desc}</p>
                   <Link
                     href={`/${locale}${cat.link}`}
-                    className="inline-flex items-center gap-1 text-xs font-semibold text-blue-600 hover:text-blue-700 bg-blue-50 hover:bg-blue-100 px-3 py-1.5 rounded-full transition-colors"
+                    className="inline-flex items-center gap-1 text-xs font-semibold text-electric hover:text-ink bg-lavender-soft hover:bg-lavender px-3 py-1.5 rounded-full transition-colors"
                   >
                     {cat.linkLabel} →
                   </Link>
@@ -1578,15 +1578,15 @@ export default async function HotelPetFriendlyGuidePage({
 
           {/* FAQ */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-8 flex items-center gap-3">
+            <h2 className="text-2xl font-bold text-ink mb-8 flex items-center gap-3">
               <span className="text-2xl">❓</span>
               {copy.faqTitle}
             </h2>
             <div className="space-y-4">
               {copy.faqs.map((faq, i) => (
-                <div key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
-                  <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
-                  <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+                <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+                  <h3 className="font-semibold text-ink mb-2">{faq.q}</h3>
+                  <p className="text-slate text-sm leading-relaxed">{faq.a}</p>
                 </div>
               ))}
             </div>
@@ -1594,16 +1594,16 @@ export default async function HotelPetFriendlyGuidePage({
 
           {/* Internal links */}
           <section className="mb-12">
-            <h2 className="text-xl font-extrabold text-gray-900 mb-5">{copy.internalLinksTitle}</h2>
-            <div className="bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
+            <h2 className="text-xl font-bold text-ink mb-5">{copy.internalLinksTitle}</h2>
+            <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard overflow-hidden">
               {copy.internalLinks.map((link, i) => (
                 <Link
                   key={i}
                   href={`/${locale}${link.href}`}
-                  className={`flex items-center gap-3 px-6 py-4 hover:bg-gray-50 transition-colors ${i < copy.internalLinks.length - 1 ? 'border-b border-gray-50' : ''}`}
+                  className={`flex items-center gap-3 px-6 py-4 hover:bg-cream transition-colors ${i < copy.internalLinks.length - 1 ? 'border-b border-gray-50' : ''}`}
                 >
-                  <span className="text-blue-500 flex-shrink-0">→</span>
-                  <span className="text-sm font-medium text-gray-800 hover:text-blue-700">{link.label}</span>
+                  <span className="text-electric flex-shrink-0">→</span>
+                  <span className="text-sm font-medium text-ink hover:text-ink">{link.label}</span>
                 </Link>
               ))}
             </div>
@@ -1611,14 +1611,14 @@ export default async function HotelPetFriendlyGuidePage({
 
           {/* Related destinations */}
           <section className="mb-8">
-            <h2 className="text-xl font-extrabold text-gray-900 mb-2">{copy.relatedDestTitle}</h2>
-            <p className="text-sm text-gray-500 mb-6">{copy.relatedDestText}</p>
+            <h2 className="text-xl font-bold text-ink mb-2">{copy.relatedDestTitle}</h2>
+            <p className="text-sm text-slate mb-6">{copy.relatedDestText}</p>
             <div className="flex flex-wrap gap-2">
               {RELATED_DESTINATIONS.map(({ slug, flag }) => (
                 <Link
                   key={slug}
                   href={`/${locale}/destinations/${slug}`}
-                  className="inline-flex items-center gap-1.5 text-sm font-medium bg-white border border-gray-200 hover:border-teal-300 hover:bg-teal-50 text-gray-700 hover:text-teal-700 px-4 py-2 rounded-full transition-all shadow-sm"
+                  className="inline-flex items-center gap-1.5 text-sm font-medium bg-white border border-line hover:border-teal-300 hover:bg-lavender-soft text-slate hover:text-teal-700 px-4 py-2 rounded-full transition-all "
                 >
                   {flag} {slug.charAt(0).toUpperCase() + slug.slice(1)}
                 </Link>

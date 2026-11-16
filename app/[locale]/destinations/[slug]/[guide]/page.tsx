@@ -14,6 +14,7 @@ import { readdirSync, existsSync } from 'fs'
 import { join } from 'path'
 import NearbyHotelCard from '@/components/NearbyHotelCard'
 import StickyHotelCTA from '@/components/StickyHotelCTA'
+import { toneFromGradient } from '@/lib/brandTone'
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -811,7 +812,7 @@ export default async function GuideDetailPage({
       )}
 
       {/* ── Hero ── */}
-      <section className={`bg-gradient-to-br ${meta.gradient} text-white py-14`}>
+      <section className={` ${toneFromGradient(meta.gradient)} text-white py-14`}>
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           {/* Breadcrumb */}
           <nav className="flex flex-wrap items-center gap-1.5 text-white/60 text-sm mb-8">
@@ -825,7 +826,7 @@ export default async function GuideDetailPage({
           <div className="flex items-start gap-5">
             <span className="text-6xl flex-shrink-0">{meta.emoji}</span>
             <div>
-              <h1 className="text-3xl lg:text-5xl font-extrabold leading-tight mb-3">{title}</h1>
+              <h1 className="text-3xl lg:text-5xl font-bold leading-tight mb-3">{title}</h1>
               <div className="flex items-center gap-2 text-white/80 text-sm">
                 <span>{dest.flag}</span>
                 <span>{dest.name}, {dest.country}</span>
@@ -838,12 +839,12 @@ export default async function GuideDetailPage({
       </section>
 
       {/* ── Sibling guide pills ── */}
-      <div className="border-b border-gray-100 bg-gray-50">
+      <div className="border-b border-line bg-cream">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
           <div className="flex flex-wrap gap-2">
             <Link
               href={`/${locale}/destinations/${slug}`}
-              className="text-xs px-3 py-1.5 rounded-full bg-white border border-gray-200 text-gray-600 hover:border-gray-400 transition-colors"
+              className="text-xs px-3 py-1.5 rounded-full bg-white border border-line text-slate hover:border-line transition-colors"
             >
               {ui.cityOverview}
             </Link>
@@ -851,7 +852,7 @@ export default async function GuideDetailPage({
               <Link
                 key={g}
                 href={`/${locale}/destinations/${slug}/${g}`}
-                className="text-xs px-3 py-1.5 rounded-full bg-white border border-gray-200 text-gray-600 hover:border-gray-400 transition-colors"
+                className="text-xs px-3 py-1.5 rounded-full bg-white border border-line text-slate hover:border-line transition-colors"
               >
                 {GUIDE_META[g].emoji} {guideLabels[g][locale] ?? guideLabels[g].en}
               </Link>
@@ -864,16 +865,16 @@ export default async function GuideDetailPage({
 
         {/* ── Intro ── */}
         <div className="prose prose-lg max-w-none mb-8">
-          <p className="text-gray-700 text-lg leading-relaxed">{intro}</p>
+          <p className="text-slate text-lg leading-relaxed">{intro}</p>
         </div>
 
         {/* ── Booking block: bookable top hotels. Most guide-page traffic is
              informational (parks/beaches/transport), so this gives every reader a
              direct, bookable path to a dog-friendly hotel instead of a single link. ── */}
         {destHotels.length > 0 && (
-          <section className="mb-12 rounded-2xl border border-blue-100 bg-gradient-to-b from-blue-50/70 to-white p-5">
+          <section className="mb-12 rounded-[22px] border-[1.6px] border-ink p-5 bg-lavender-soft">
             <div className="flex items-baseline justify-between gap-3 flex-wrap mb-4">
-              <h2 className="text-lg lg:text-xl font-extrabold text-gray-900">
+              <h2 className="text-lg lg:text-xl font-bold text-ink">
                 {locale === 'fr' ? `Réserver un hôtel acceptant les chiens à ${localizedCity}`
                   : locale === 'es' ? `Reserva un hotel que admite perros en ${localizedCity}`
                   : locale === 'pt' ? `Reserve um hotel que aceita cães em ${localizedCity}`
@@ -882,7 +883,7 @@ export default async function GuideDetailPage({
                   : locale === 'it' ? `Prenota un hotel pet-friendly a ${localizedCity}`
                   : `Book a dog-friendly hotel in ${localizedCity}`}
               </h2>
-              <Link href={hotelsHref} className="text-sm font-semibold text-blue-600 hover:text-blue-700 whitespace-nowrap">
+              <Link href={hotelsHref} className="text-sm font-semibold text-electric hover:text-ink whitespace-nowrap">
                 {locale === 'fr' ? `Voir les ${cityHotels.length} hôtels →`
                   : locale === 'es' ? `Ver los ${cityHotels.length} hoteles →`
                   : locale === 'pt' ? `Ver os ${cityHotels.length} hotéis →`
@@ -902,17 +903,17 @@ export default async function GuideDetailPage({
                     href={buildAllezLink(h.name, dest.name, dest.country, `hotelswithpets-${locale}-guidebook`, 3)}
                     target="_blank"
                     rel="noopener noreferrer sponsored"
-                    className="group flex flex-col overflow-hidden rounded-xl border border-gray-100 bg-white hover:shadow-md hover:-translate-y-0.5 transition-all"
+                    className="group flex flex-col overflow-hidden rounded-xl border border-line bg-white hover:-translate-y-0.5 transition-all"
                   >
                     <div className="relative h-28 flex-shrink-0">
                       <Image src={`/images/hotels/${h.id}.jpg`} alt={h.name} fill sizes="(max-width: 640px) 100vw, 33vw" className="object-cover" />
                     </div>
                     <div className="flex flex-1 flex-col p-3">
-                      <p className="font-bold text-gray-900 text-sm leading-snug line-clamp-2 group-hover:text-blue-700 transition-colors">{h.name}</p>
-                      <p className="text-[11px] text-amber-500 mt-0.5">{'★'.repeat(h.stars)} <span className="text-gray-400">{h.rating}</span></p>
+                      <p className="font-bold text-ink text-sm leading-snug line-clamp-2 group-hover:text-electric transition-colors">{h.name}</p>
+                      <p className="text-[11px] text-ink mt-0.5">{'★'.repeat(h.stars)} <span className="text-slate">{h.rating}</span></p>
                       <div className="mt-auto pt-2 flex items-center justify-between">
-                        <span className="text-sm font-black text-gray-900">€{h.priceFrom}<span className="text-[11px] font-normal text-gray-400">{perNight}</span></span>
-                        <span className="bg-blue-600 group-hover:bg-blue-700 text-white text-xs font-bold px-3 py-1.5 rounded-lg transition-colors">{bookLabel} →</span>
+                        <span className="text-sm font-bold text-ink">€{h.priceFrom}<span className="text-[11px] font-normal text-slate">{perNight}</span></span>
+                        <span className="bg-electric group-hover:bg-electric text-white text-xs font-bold px-3 py-1.5 rounded-lg transition-colors">{bookLabel} →</span>
                       </div>
                     </div>
                   </a>
@@ -924,11 +925,11 @@ export default async function GuideDetailPage({
                 href={buildAllezLink(premiumHotel.name, dest.name, dest.country, `hotelswithpets-${locale}-guidebook-premium`, 3)}
                 target="_blank"
                 rel="noopener noreferrer sponsored"
-                className="mt-4 flex items-center gap-3 rounded-xl border border-amber-200 bg-gradient-to-r from-amber-50 to-yellow-50 px-4 py-3 hover:border-amber-300 hover:shadow-sm transition-all"
+                className="mt-4 flex items-center gap-3 rounded-xl border border-line px-4 py-3 hover:border-line transition-all bg-lavender-soft"
               >
                 <span className="text-xl flex-shrink-0" aria-hidden="true">✨</span>
                 <span className="flex-1 min-w-0">
-                  <span className="block text-[13px] font-bold text-gray-900 leading-snug line-clamp-1">
+                  <span className="block text-[13px] font-bold text-ink leading-snug line-clamp-1">
                     {locale === 'fr' ? `Envie de gâter votre chien ? ${premiumHotel.name}`
                       : locale === 'es' ? `¿Quieres consentir a tu perro? ${premiumHotel.name}`
                       : locale === 'pt' ? `Quer mimar o seu cão? ${premiumHotel.name}`
@@ -937,7 +938,7 @@ export default async function GuideDetailPage({
                       : locale === 'it' ? `Voglia di coccolare il tuo cane? ${premiumHotel.name}`
                       : `Fancy spoiling your dog? ${premiumHotel.name}`}
                   </span>
-                  <span className="block text-[11px] text-gray-500">
+                  <span className="block text-[11px] text-slate">
                     {locale === 'fr' ? `Le meilleur cinq-étoiles de ${localizedCity}, dès ${premiumHotel.priceFrom} €${perNightUi}.`
                       : locale === 'es' ? `El mejor cinco estrellas de ${localizedCity}, desde ${premiumHotel.priceFrom} €${perNightUi}.`
                       : locale === 'pt' ? `O melhor cinco estrelas de ${localizedCity}, desde ${premiumHotel.priceFrom} €${perNightUi}.`
@@ -950,7 +951,7 @@ export default async function GuideDetailPage({
                 <span className="flex-shrink-0 bg-amber-500 hover:bg-amber-600 text-white text-xs font-bold px-3 py-1.5 rounded-lg transition-colors">{bookLabelUi} →</span>
               </a>
             )}
-            <p className="text-[11px] text-gray-400 mt-3">
+            <p className="text-[11px] text-slate mt-3">
               {locale === 'fr' ? `Politiques animaux vérifiées, prix Booking.com en direct dès ${cityMinPrice} €/nuit.`
                 : locale === 'es' ? `Políticas de mascotas verificadas, precios Booking.com en directo desde ${cityMinPrice} €/noche.`
                 : locale === 'pt' ? `Políticas de animais verificadas, preços Booking.com em direto desde ${cityMinPrice} €/noite.`
@@ -967,7 +968,7 @@ export default async function GuideDetailPage({
              book without leaving. Lazy-loaded so it never blocks first paint. ── */}
         {dest.lat && dest.lng && (
           <section className="mb-12">
-            <h2 className="text-lg lg:text-xl font-extrabold text-gray-900 mb-1">
+            <h2 className="text-lg lg:text-xl font-bold text-ink mb-1">
               {locale === 'fr' ? `Tous les hôtels acceptant les chiens à ${localizedCity}, sur la carte`
                 : locale === 'es' ? `Todos los hoteles que admiten perros en ${localizedCity}, en el mapa`
                 : locale === 'pt' ? `Todos os hotéis que aceitam cães em ${localizedCity}, no mapa`
@@ -976,7 +977,7 @@ export default async function GuideDetailPage({
                 : locale === 'it' ? `Tutti gli hotel pet-friendly a ${localizedCity}, sulla mappa`
                 : `Every dog-friendly hotel in ${localizedCity}, on the map`}
             </h2>
-            <p className="text-gray-500 text-sm mb-4">
+            <p className="text-slate text-sm mb-4">
               {locale === 'fr' ? 'Prix Booking.com en direct, cliquez un point pour voir les tarifs et réserver.'
                 : locale === 'es' ? 'Precios Booking.com en directo, haz clic en un punto para ver tarifas y reservar.'
                 : locale === 'pt' ? 'Preços Booking.com em direto, clique num ponto para ver tarifas e reservar.'
@@ -985,7 +986,7 @@ export default async function GuideDetailPage({
                 : locale === 'it' ? 'Prezzi Booking.com in tempo reale, clicca su un punto per vedere le tariffe e prenotare.'
                 : 'Live Booking.com prices, click any pin to see rates and book.'}
             </p>
-            <div className="overflow-hidden rounded-2xl border border-gray-100 shadow-sm">
+            <div className="overflow-hidden rounded-[22px] border-[1.6px] border-ink shadow-hard">
               <iframe
                 src={buildStay22MapSrc(dest.lat, dest.lng, `hotelswithpets-${locale}-guidemap`)}
                 loading="lazy"
@@ -1003,12 +1004,12 @@ export default async function GuideDetailPage({
             href={bestSnowHotelsUrl(slug)!}
             target="_blank"
             rel="noopener"
-            className="flex items-center justify-between gap-3 mb-12 rounded-2xl border border-sky-200 bg-gradient-to-r from-sky-50 to-blue-50 px-5 py-4 hover:border-sky-300 hover:shadow-sm transition-all focus-visible:ring-2 focus-visible:ring-sky-400"
+            className="flex items-center justify-between gap-3 mb-12 rounded-[22px] border-[1.6px] border-line px-5 py-4 hover:border-line transition-all focus-visible:ring-2 focus-visible:ring-sky-400 bg-lavender-soft"
           >
             <span className="flex items-center gap-3">
               <span className="text-2xl">❄️</span>
               <span>
-                <span className="block font-bold text-gray-900 text-sm">
+                <span className="block font-bold text-ink text-sm">
                   {locale === 'fr' ? `Enneigement & conditions de la station de ${dest.name}`
                     : locale === 'es' ? `Estado de la nieve y condiciones de la estación de ${dest.name}`
                     : locale === 'pt' ? `Estado da neve e condições da estação de ${dest.name}`
@@ -1017,7 +1018,7 @@ export default async function GuideDetailPage({
                     : locale === 'it' ? `Bollettino neve e condizioni della stazione di ${dest.name}`
                     : `Snow report & resort conditions for ${dest.name}`}
                 </span>
-                <span className="block text-xs text-gray-500 mt-0.5">
+                <span className="block text-xs text-slate mt-0.5">
                   {locale === 'fr' ? 'Pistes, remontées et météo en direct sur bestsnowhotels.com'
                     : locale === 'es' ? 'Pistas, remontes y tiempo en directo en bestsnowhotels.com'
                     : locale === 'pt' ? 'Pistas, teleféricos e meteo em direto em bestsnowhotels.com'
@@ -1028,7 +1029,7 @@ export default async function GuideDetailPage({
                 </span>
               </span>
             </span>
-            <span className="text-sky-600 font-bold text-lg flex-shrink-0">→</span>
+            <span className="text-ink font-bold text-lg flex-shrink-0">→</span>
           </a>
         )}
 
@@ -1089,7 +1090,7 @@ export default async function GuideDetailPage({
                 const nearbyHref = `https://www.stay22.com/allez/roam?aid=eijeanbaptistemanson&campaign=near-${guide}-${placeSlug}&address=${encodeURIComponent(nearbyAddress)}`
 
                 return (
-                  <article key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-lg transition-all duration-300 overflow-hidden">
+                  <article key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink hover:shadow-hard transition-all duration-300 overflow-hidden">
                     {/* Photo header */}
                     {placePhoto && (
                       <div className="relative h-52 overflow-hidden">
@@ -1103,24 +1104,24 @@ export default async function GuideDetailPage({
                         <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/10 to-transparent" />
                         {/* Number + badges overlaid on photo */}
                         <div className="absolute top-3 left-3 flex items-center gap-2">
-                          <span className={`text-xs font-black text-white bg-gradient-to-br ${meta.gradient} rounded-full w-7 h-7 flex items-center justify-center shadow-sm`}>
+                          <span className={`text-xs font-bold text-white ${toneFromGradient(meta.gradient)} rounded-full w-7 h-7 flex items-center justify-center `}>
                             {i + 1}
                           </span>
                           {place.offLeash === true && (
-                            <span className="text-xs font-bold bg-green-500 text-white px-2 py-1 rounded-lg">{ui.offLeash}</span>
+                            <span className="text-xs font-bold bg-electric text-white px-2 py-1 rounded-lg">{ui.offLeash}</span>
                           )}
                         </div>
                         <div className="absolute top-3 right-3 flex items-center gap-2">
                           {place.priceRange && (
-                            <span className="text-xs font-bold bg-white/90 backdrop-blur-sm text-gray-800 px-2 py-1 rounded-lg">{place.priceRange}</span>
+                            <span className="text-xs font-bold bg-white/90 backdrop-blur-sm text-ink px-2 py-1 rounded-lg">{place.priceRange}</span>
                           )}
                           {place.rating && (
-                            <span className="text-xs font-bold bg-amber-400 text-gray-900 px-2 py-1 rounded-lg">⭐ {place.rating}</span>
+                            <span className="text-xs font-bold bg-lime text-ink px-2 py-1 rounded-lg">⭐ {place.rating}</span>
                           )}
                         </div>
                         {/* Name on photo bottom */}
                         <div className="absolute bottom-3 left-3 right-3">
-                          <h3 className="font-extrabold text-white text-xl leading-tight drop-shadow-sm">{localizedName}</h3>
+                          <h3 className="font-bold text-white text-xl leading-tight drop-shadow-sm">{localizedName}</h3>
                           {(place.neighborhood || place.address) && (
                             <p className="text-white/80 text-xs mt-0.5">
                               {place.neighborhood}{place.neighborhood && place.address ? ' · ' : ''}{place.address}
@@ -1146,17 +1147,17 @@ export default async function GuideDetailPage({
                         <div className="flex items-start justify-between gap-4 mb-4">
                           <div>
                             <div className="flex items-center gap-2 mb-1">
-                              <span className={`text-xs font-black text-white bg-gradient-to-br ${meta.gradient} rounded-full w-7 h-7 flex items-center justify-center flex-shrink-0`}>
+                              <span className={`text-xs font-bold text-white ${toneFromGradient(meta.gradient)} rounded-full w-7 h-7 flex items-center justify-center flex-shrink-0`}>
                                 {i + 1}
                               </span>
-                              <h3 className="font-bold text-gray-900 text-lg">
+                              <h3 className="font-bold text-ink text-lg">
                                 {showNearby ? (
-                                  <a href={nearbyHref} target="_blank" rel="noopener sponsored" className="hover:text-amber-700 transition-colors">{localizedName}</a>
+                                  <a href={nearbyHref} target="_blank" rel="noopener sponsored" className="hover:text-ink transition-colors">{localizedName}</a>
                                 ) : localizedName}
                               </h3>
                             </div>
                             {(place.address || place.neighborhood) && (
-                              <p className="text-sm text-gray-500 ml-9">
+                              <p className="text-sm text-slate ml-9">
                                 {place.neighborhood && <span>{place.neighborhood}{place.address ? ' · ' : ''}</span>}
                                 {place.address}
                               </p>
@@ -1164,78 +1165,78 @@ export default async function GuideDetailPage({
                           </div>
                           <div className="flex items-center gap-2 flex-shrink-0 flex-wrap justify-end">
                             {place.priceRange && (
-                              <span className="text-xs font-bold bg-gray-100 text-gray-600 px-2 py-1 rounded-lg">{place.priceRange}</span>
+                              <span className="text-xs font-bold bg-lavender-soft text-slate px-2 py-1 rounded-lg">{place.priceRange}</span>
                             )}
                             {place.rating && (
-                              <span className="text-xs font-bold bg-amber-100 text-amber-700 px-2 py-1 rounded-lg">⭐ {place.rating}</span>
+                              <span className="text-xs font-bold bg-lime text-ink px-2 py-1 rounded-lg">⭐ {place.rating}</span>
                             )}
                             {place.offLeash === true && (
-                              <span className="text-xs font-bold bg-green-100 text-green-700 px-2 py-1 rounded-lg">{ui.offLeash}</span>
+                              <span className="text-xs font-bold bg-green-100 text-ink px-2 py-1 rounded-lg">{ui.offLeash}</span>
                             )}
                           </div>
                         </div>
                       )}
 
                       {/* Description */}
-                      <p className="text-gray-700 text-sm leading-relaxed mb-4">{desc}</p>
+                      <p className="text-slate text-sm leading-relaxed mb-4">{desc}</p>
 
                       {/* Metadata pills */}
-                      <div className="flex flex-wrap gap-2 text-xs text-gray-500 mb-4">
+                      <div className="flex flex-wrap gap-2 text-xs text-slate mb-4">
                         {policy && (
-                          <span className="flex items-center gap-1 bg-green-50 text-green-700 px-2.5 py-1 rounded-full font-medium">
+                          <span className="flex items-center gap-1 bg-lavender-soft text-ink px-2.5 py-1 rounded-full font-medium">
                             🐾 {policy}
                           </span>
                         )}
                         {dogPolicy && !policy && (
-                          <span className="flex items-center gap-1 bg-green-50 text-green-700 px-2.5 py-1 rounded-full font-medium">
+                          <span className="flex items-center gap-1 bg-lavender-soft text-ink px-2.5 py-1 rounded-full font-medium">
                             🐾 {dogPolicy}
                           </span>
                         )}
                         {placeHours && (
-                          <span className="flex items-center gap-1 bg-gray-50 px-2.5 py-1 rounded-full">
+                          <span className="flex items-center gap-1 bg-cream px-2.5 py-1 rounded-full">
                             🕐 {placeHours}
                           </span>
                         )}
                         {place.phone && (
                           <a
                             href={`tel:${place.phone.replace(/[^+\d]/g, '')}`}
-                            className="flex items-center gap-1 bg-gray-50 hover:bg-gray-100 px-2.5 py-1 rounded-full transition-colors"
+                            className="flex items-center gap-1 bg-cream hover:bg-lavender px-2.5 py-1 rounded-full transition-colors"
                           >
                             📞 {place.phone}
                           </a>
                         )}
                         {seasonText && (
-                          <span className="flex items-center gap-1 bg-blue-50 text-blue-700 px-2.5 py-1 rounded-full">
+                          <span className="flex items-center gap-1 bg-lavender-soft text-electric px-2.5 py-1 rounded-full">
                             📅 {seasonText}
                           </span>
                         )}
                         {mustTry && (
-                          <span className="flex items-center gap-1 bg-amber-50 text-amber-700 px-2.5 py-1 rounded-full">
+                          <span className="flex items-center gap-1 bg-lime/30 text-ink px-2.5 py-1 rounded-full">
                             ⭐ {mustTry}
                           </span>
                         )}
                         {admissionFee && (
-                          <span className="flex items-center gap-1 bg-gray-50 px-2.5 py-1 rounded-full">
+                          <span className="flex items-center gap-1 bg-cream px-2.5 py-1 rounded-full">
                             🎟️ {admissionFee}
                           </span>
                         )}
                         {serviceType && (
-                          <span className="flex items-center gap-1 bg-pink-50 text-pink-700 px-2.5 py-1 rounded-full">
+                          <span className="flex items-center gap-1 bg-lavender-soft text-ink px-2.5 py-1 rounded-full">
                             🐶 {serviceType}
                           </span>
                         )}
                         {place.pricePerDay && (
-                          <span className="flex items-center gap-1 bg-gray-50 px-2.5 py-1 rounded-full">
+                          <span className="flex items-center gap-1 bg-cream px-2.5 py-1 rounded-full">
                             💰 {place.pricePerDay}
                           </span>
                         )}
                         {place.englishSpeaking && (
-                          <span className="flex items-center gap-1 bg-blue-50 text-blue-700 px-2.5 py-1 rounded-full">
+                          <span className="flex items-center gap-1 bg-lavender-soft text-electric px-2.5 py-1 rounded-full">
                             🌍 {ui.enSpoken}
                           </span>
                         )}
                         {place.languages && place.languages.length > 0 && (
-                          <span className="flex items-center gap-1 bg-blue-50 text-blue-700 px-2.5 py-1 rounded-full">
+                          <span className="flex items-center gap-1 bg-lavender-soft text-electric px-2.5 py-1 rounded-full">
                             🌍 {place.languages.join(', ')}
                           </span>
                         )}
@@ -1243,10 +1244,10 @@ export default async function GuideDetailPage({
 
                       {/* Tip / rules callout */}
                       {(tipText || rulesText || offLeashAreaText) && (
-                        <div className="bg-amber-50 border border-amber-100 rounded-xl p-3 mb-4 space-y-1">
-                          {offLeashAreaText && <p className="text-xs text-amber-800"><strong>{ui.offLeashZone}</strong> {offLeashAreaText}</p>}
-                          {rulesText && <p className="text-xs text-amber-800"><strong>{ui.rules}</strong> {rulesText}</p>}
-                          {tipText && <p className="text-xs text-amber-700">💡 {tipText}</p>}
+                        <div className="bg-lime/30 border border-line rounded-xl p-3 mb-4 space-y-1">
+                          {offLeashAreaText && <p className="text-xs text-ink"><strong>{ui.offLeashZone}</strong> {offLeashAreaText}</p>}
+                          {rulesText && <p className="text-xs text-ink"><strong>{ui.rules}</strong> {rulesText}</p>}
+                          {tipText && <p className="text-xs text-ink">💡 {tipText}</p>}
                         </div>
                       )}
 
@@ -1264,7 +1265,7 @@ export default async function GuideDetailPage({
                                 href={nearbyHref}
                                 target="_blank"
                                 rel="noopener sponsored"
-                                className="inline-flex items-center gap-1.5 text-xs font-bold text-amber-700 hover:text-amber-900 bg-amber-50 hover:bg-amber-100 border border-amber-200 px-3 py-1.5 rounded-lg transition-colors"
+                                className="inline-flex items-center gap-1.5 text-xs font-bold text-ink hover:text-ink bg-lime/30 hover:bg-amber-100 border border-line px-3 py-1.5 rounded-lg transition-colors"
                               >
                                 🏨 {ui.nearbyHotels}
                               </a>
@@ -1274,7 +1275,7 @@ export default async function GuideDetailPage({
                                 href={place.website}
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="inline-flex items-center gap-1.5 text-xs font-semibold text-blue-600 hover:text-blue-800 bg-blue-50 hover:bg-blue-100 px-3 py-1.5 rounded-lg transition-colors"
+                                className="inline-flex items-center gap-1.5 text-xs font-semibold text-electric hover:text-ink bg-lavender-soft hover:bg-lavender px-3 py-1.5 rounded-lg transition-colors"
                               >
                                 🌐 {ui.visitWebsite}
                               </a>
@@ -1283,7 +1284,7 @@ export default async function GuideDetailPage({
                               href={mapsHref}
                               target="_blank"
                               rel="noopener noreferrer"
-                              className="inline-flex items-center gap-1.5 text-xs font-semibold text-gray-600 hover:text-gray-900 bg-gray-100 hover:bg-gray-200 px-3 py-1.5 rounded-lg transition-colors"
+                              className="inline-flex items-center gap-1.5 text-xs font-semibold text-slate hover:text-ink bg-lavender-soft hover:bg-lavender px-3 py-1.5 rounded-lg transition-colors"
                             >
                               📍 {ui.viewOnMaps}
                             </a>
@@ -1301,13 +1302,13 @@ export default async function GuideDetailPage({
         {/* ── Transport rules table ── */}
         {Array.isArray(guideData.rules) && guideData.rules.length > 0 && (
           <section className="mb-12">
-            <div className="overflow-x-auto rounded-2xl border border-gray-200">
+            <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink">
               <table className="w-full text-sm min-w-[600px]">
-                <thead className="bg-gray-50">
+                <thead className="bg-cream">
                   <tr>
-                    <th className="text-left px-4 py-3 font-semibold text-gray-700 w-1/4">{ui.modeHeader}</th>
-                    <th className="text-left px-4 py-3 font-semibold text-gray-700 w-1/2">{ui.policyHeader}</th>
-                    <th className="text-left px-4 py-3 font-semibold text-gray-700">{ui.tipHeader}</th>
+                    <th className="text-left px-4 py-3 font-semibold text-slate w-1/4">{ui.modeHeader}</th>
+                    <th className="text-left px-4 py-3 font-semibold text-slate w-1/2">{ui.policyHeader}</th>
+                    <th className="text-left px-4 py-3 font-semibold text-slate">{ui.tipHeader}</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -1316,10 +1317,10 @@ export default async function GuideDetailPage({
                     const policy = loc(rule.policy, rule.policyFr, rule.policyEs, locale, undefined, rule.policyDe)
                     const tip = loc(rule.tip, rule.tipFr, rule.tipEs, locale, rule.tipPt, rule.tipDe)
                     return (
-                      <tr key={i} className={i % 2 === 0 ? 'bg-white' : 'bg-gray-50/50'}>
-                        <td className="px-4 py-3 font-medium text-gray-900 align-top">{mode}</td>
-                        <td className="px-4 py-3 text-gray-700 align-top">{policy}</td>
-                        <td className="px-4 py-3 text-gray-500 align-top text-xs">💡 {tip}</td>
+                      <tr key={i} className={i % 2 === 0 ? 'bg-white' : 'bg-cream/50'}>
+                        <td className="px-4 py-3 font-medium text-ink align-top">{mode}</td>
+                        <td className="px-4 py-3 text-slate align-top">{policy}</td>
+                        <td className="px-4 py-3 text-slate align-top text-xs">💡 {tip}</td>
                       </tr>
                     )
                   })}
@@ -1331,9 +1332,9 @@ export default async function GuideDetailPage({
 
         {/* ── Entry requirements (vets page) ── */}
         {guideData.entryRequirements && (
-          <section className="mb-12 bg-blue-50 rounded-2xl p-6">
-            <h2 className="font-bold text-gray-900 text-xl mb-4">{ui.entryTitle}</h2>
-            <div className="space-y-3 text-sm text-gray-700">
+          <section className="mb-12 bg-lavender-soft rounded-[22px] p-6">
+            <h2 className="font-bold text-ink text-xl mb-4">{ui.entryTitle}</h2>
+            <div className="space-y-3 text-sm text-slate">
               <div>
                 <strong>{ui.euPets}</strong>{' '}
                 {loc(guideData.entryRequirements.euPets, guideData.entryRequirements.euPetsFr, guideData.entryRequirements.euPetsEs, locale, undefined, guideData.entryRequirements.euPetsDe)}
@@ -1363,9 +1364,9 @@ export default async function GuideDetailPage({
               const secTitle = (locale === 'fr' ? section.titleFr : locale === 'es' ? section.titleEs : locale === 'pt' ? section.titlePt : locale === 'de' ? section.titleDe : locale === 'nl' ? section.titleNl : locale === 'it' ? section.titleIt : null) ?? section.titleEn
               const secContent = (locale === 'fr' ? section.contentFr : locale === 'es' ? section.contentEs : locale === 'pt' ? section.contentPt : null) ?? section.contentEn
               return (
-                <div key={i} className="bg-white rounded-2xl border border-gray-200 p-6 shadow-sm">
-                  <h3 className="font-bold text-gray-900 text-lg mb-3">{secTitle}</h3>
-                  <p className="text-gray-700 text-sm leading-relaxed">{secContent}</p>
+                <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink p-6 shadow-hard">
+                  <h3 className="font-bold text-ink text-lg mb-3">{secTitle}</h3>
+                  <p className="text-slate text-sm leading-relaxed">{secContent}</p>
                 </div>
               )
             })}
@@ -1375,12 +1376,12 @@ export default async function GuideDetailPage({
         {/* ── Quick tips list ── */}
         {tips.length > 0 && (
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{ui.quickTips}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-5">{ui.quickTips}</h2>
             <ul className="space-y-3">
               {tips.map((tip, i) => (
-                <li key={i} className="flex items-start gap-3 bg-amber-50 rounded-xl px-4 py-3">
-                  <span className="text-amber-500 font-bold flex-shrink-0 mt-0.5">{i + 1}.</span>
-                  <span className="text-gray-700 text-sm">{tip}</span>
+                <li key={i} className="flex items-start gap-3 bg-lime/30 rounded-xl px-4 py-3">
+                  <span className="text-ink font-bold flex-shrink-0 mt-0.5">{i + 1}.</span>
+                  <span className="text-slate text-sm">{tip}</span>
                 </li>
               ))}
             </ul>
@@ -1389,20 +1390,20 @@ export default async function GuideDetailPage({
 
         {/* ── Amazon accessories cross-link (FR only - pages don't exist yet in EN/ES/PT) ── */}
         {locale === 'fr' && (guide === 'tips' || guide === 'transport' || guide === 'beaches') && (
-          <section className="mb-12 bg-gradient-to-br from-amber-100 to-orange-100 border border-amber-300 rounded-2xl p-6">
-            <h2 className="text-xl font-extrabold text-stone-900 mb-2">🎒 Voyager bien équipé</h2>
-            <p className="text-sm text-stone-700 mb-4 leading-relaxed">
+          <section className="mb-12 border-[1.6px] border-line rounded-[22px] p-6 bg-lavender-soft">
+            <h2 className="text-xl font-bold text-ink mb-2">🎒 Voyager bien équipé</h2>
+            <p className="text-sm text-ink mb-4 leading-relaxed">
               Notre sélection d&apos;accessoires testés pour partir avec son chien :
               gourde nomade, tapis rafraîchissant, harnais voiture, sac de transport.
             </p>
             <div className="flex flex-wrap gap-2 text-sm">
-              <Link href={`/fr/accessoires-chien`} className="bg-white border border-amber-400 text-amber-900 font-semibold px-3 py-2 rounded-full hover:bg-amber-50">
+              <Link href={`/fr/accessoires-chien`} className="bg-white border border-line text-ink font-semibold px-3 py-2 rounded-full hover:bg-lime/30">
                 Accessoires chien →
               </Link>
-              <Link href={`/fr/accessoires-chien-chaleur`} className="bg-white border border-amber-400 text-amber-900 font-semibold px-3 py-2 rounded-full hover:bg-amber-50">
+              <Link href={`/fr/accessoires-chien-chaleur`} className="bg-white border border-line text-ink font-semibold px-3 py-2 rounded-full hover:bg-lime/30">
                 Spécial canicule 🔥 →
               </Link>
-              <Link href={`/fr/accessoires-chat`} className="bg-white border border-stone-300 text-stone-700 px-3 py-2 rounded-full hover:bg-stone-50">
+              <Link href={`/fr/accessoires-chat`} className="bg-white border border-line text-ink px-3 py-2 rounded-full hover:bg-cream">
                 Accessoires chat →
               </Link>
             </div>
@@ -1412,15 +1413,15 @@ export default async function GuideDetailPage({
         {/* ── FAQ ── */}
         {faqs.length > 0 && (
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{ui.faqTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6">{ui.faqTitle}</h2>
             <div className="space-y-4">
               {faqs.map((faq, i) => (
-                <details key={i} className="bg-white rounded-2xl border border-gray-200 shadow-sm group">
-                  <summary className="px-6 py-4 font-semibold text-gray-900 cursor-pointer list-none flex items-center justify-between gap-4">
+                <details key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard group">
+                  <summary className="px-6 py-4 font-semibold text-ink cursor-pointer list-none flex items-center justify-between gap-4">
                     <span>{faq.q}</span>
-                    <span aria-hidden="true" className="text-gray-500 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
+                    <span aria-hidden="true" className="text-slate group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
                   </summary>
-                  <div className="px-6 pb-5 text-gray-700 text-sm leading-relaxed border-t border-gray-100 pt-4">
+                  <div className="px-6 pb-5 text-slate text-sm leading-relaxed border-t border-line pt-4">
                     {faq.a}
                   </div>
                 </details>
@@ -1431,18 +1432,18 @@ export default async function GuideDetailPage({
 
         {/* ── Hotel CTA block ── */}
         {destHotels.length > 0 && (
-          <section className="mb-12 bg-gradient-to-br from-slate-900 to-blue-950 rounded-2xl p-8 text-white">
-            <h2 className="text-2xl font-extrabold mb-2">{ui.hotelsTitle(dest.name)}</h2>
-            <p className="text-blue-200 text-sm mb-6">{ui.hotelsSubtitle}</p>
+          <section className="mb-12 rounded-[22px] p-8 text-white bg-electric border-[1.6px] border-ink shadow-hard">
+            <h2 className="text-2xl font-bold mb-2">{ui.hotelsTitle(dest.name)}</h2>
+            <p className="text-lavender text-sm mb-6">{ui.hotelsSubtitle}</p>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 mb-6">
               {destHotels.map(hotel => (
                 <div key={hotel.id} className="bg-white/10 rounded-xl p-4">
                   <p className="font-bold text-sm mb-1">{hotel.name}</p>
-                  <p className="text-blue-200 text-xs mb-2">
+                  <p className="text-lavender text-xs mb-2">
                     {'★'.repeat(hotel.stars)} · {hotel.rating}/10
                   </p>
                   <p className="text-white font-bold">
-                    €{hotel.priceFrom}<span className="text-blue-300 text-xs font-normal">{ui.perNight}</span>
+                    €{hotel.priceFrom}<span className="text-lavender text-xs font-normal">{ui.perNight}</span>
                   </p>
                 </div>
               ))}
@@ -1450,7 +1451,7 @@ export default async function GuideDetailPage({
             <div className="flex flex-wrap gap-3">
               <Link
                 href={`/${locale}/destinations/${slug}`}
-                className="inline-flex items-center gap-2 bg-white text-gray-900 font-bold px-6 py-3 rounded-xl text-sm hover:bg-blue-50 transition-colors"
+                className="inline-flex items-center gap-2 bg-white text-ink font-bold px-6 py-3 rounded-xl text-sm hover:bg-lavender-soft transition-colors"
               >
                 {ui.seeAllHotels}
               </Link>
@@ -1458,7 +1459,7 @@ export default async function GuideDetailPage({
                 href={allezHref}
                 target="_blank"
                 rel="noopener noreferrer sponsored"
-                className="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-500 text-white font-bold px-6 py-3 rounded-xl text-sm transition-colors"
+                className="inline-flex items-center gap-2 bg-electric hover:bg-electric text-white font-bold px-6 py-3 rounded-xl text-sm transition-colors"
               >
                 {ui.compareBooking}
               </a>
@@ -1469,13 +1470,13 @@ export default async function GuideDetailPage({
         {/* ── Explore other guides ── */}
         {siblingGuides.length > 0 && (
           <section>
-            <h2 className="text-xl font-extrabold text-gray-900 mb-4">{ui.moreGuides(dest.name)}</h2>
+            <h2 className="text-xl font-bold text-ink mb-4">{ui.moreGuides(dest.name)}</h2>
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
               {siblingGuides.map(g => (
                 <Link
                   key={g}
                   href={`/${locale}/destinations/${slug}/${g}`}
-                  className={`bg-gradient-to-br ${GUIDE_META[g].gradient} text-white rounded-2xl p-4 hover:opacity-90 transition-opacity focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2`}
+                  className={` ${toneFromGradient(GUIDE_META[g].gradient)} text-white rounded-[22px] p-4 hover:opacity-90 transition-opacity focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-offset-2`}
                 >
                   <span className="text-2xl block mb-2">{GUIDE_META[g].emoji}</span>
                   <span className="font-bold text-sm">{guideLabels[g][locale] ?? guideLabels[g].en}</span>
@@ -1487,8 +1488,8 @@ export default async function GuideDetailPage({
 
         {/* ── Nearby destinations cross-sell ── */}
         {nearbyDests.length > 0 && (
-          <section className="mt-12 pt-10 border-t border-gray-100">
-            <h2 className="text-xl font-extrabold text-gray-900 mb-1">
+          <section className="mt-12 pt-10 border-t border-line">
+            <h2 className="text-xl font-bold text-ink mb-1">
               {locale === 'fr' ? 'Destinations pet-friendly à proximité'
                 : locale === 'es' ? 'Destinos pet-friendly cerca'
                 : locale === 'pt' ? 'Destinos pet-friendly por perto'
@@ -1497,7 +1498,7 @@ export default async function GuideDetailPage({
                 : locale === 'it' ? 'Destinazioni pet-friendly nelle vicinanze'
                 : 'Pet-friendly destinations nearby'}
             </h2>
-            <p className="text-sm text-gray-500 mb-5">
+            <p className="text-sm text-slate mb-5">
               {locale === 'fr' ? `Vous cherchez un logement ailleurs ? Ces destinations proches de ${dest.name} accueillent aussi votre chien.`
                 : locale === 'es' ? `¿Buscas alojamiento en otro lugar? Estos destinos cerca de ${dest.name} también admiten a tu perro.`
                 : locale === 'pt' ? `Procura alojamento noutro sítio? Estes destinos perto de ${dest.name} também aceitam o seu cão.`
@@ -1511,10 +1512,10 @@ export default async function GuideDetailPage({
                 <Link
                   key={d.slug}
                   href={`/${locale}/destinations/${d.slug}`}
-                  className="flex items-center gap-2.5 bg-white border border-gray-200 rounded-2xl px-4 py-3 hover:border-blue-300 hover:shadow-sm transition-all focus-visible:ring-2 focus-visible:ring-blue-400"
+                  className="flex items-center gap-2.5 bg-white border-[1.6px] border-ink rounded-[22px] px-4 py-3 hover:border-ink transition-all focus-visible:ring-2 focus-visible:ring-blue-400"
                 >
                   <span className="text-xl">{d.flag}</span>
-                  <span className="font-bold text-sm text-gray-800">{getLocalizedCityName(d.slug, d.name, locale)}</span>
+                  <span className="font-bold text-sm text-ink">{getLocalizedCityName(d.slug, d.name, locale)}</span>
                 </Link>
               ))}
             </div>

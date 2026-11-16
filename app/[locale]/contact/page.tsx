@@ -54,8 +54,8 @@ export default async function Page({
     : 'autre'
 
   return (
-    <main className="min-h-screen bg-stone-50">
-      <section className="bg-stone-900 text-white">
+    <main className="min-h-screen bg-cream">
+      <section className="bg-electric border-b-[1.6px] border-ink text-white">
         <div className="max-w-3xl mx-auto px-4 py-12">
           <nav className="text-sm text-white/60 mb-5">
             <Link href={`/${locale}`} className="hover:text-white">HotelsWithPets</Link>
@@ -63,12 +63,12 @@ export default async function Page({
             <span className="text-white">{c.crumb}</span>
           </nav>
           <h1 className="text-3xl sm:text-4xl font-bold leading-tight">{c.title}</h1>
-          <p className="text-stone-300 mt-3 leading-relaxed">{c.lead}</p>
+          <p className="text-lavender mt-3 leading-relaxed">{c.lead}</p>
         </div>
       </section>
 
       <div className="max-w-3xl mx-auto px-4 py-10">
-        <div className="bg-white border border-stone-200 rounded-2xl shadow-sm p-6 sm:p-8">
+        <div className="bg-white border-[1.6px] border-line rounded-[22px] shadow-hard p-6 sm:p-8">
           <ContactForm locale={locale} defaultType={defaultType} />
         </div>
       </div>

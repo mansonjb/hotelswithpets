@@ -116,40 +116,40 @@ export default async function HeatwavePetSafetyPage({ params }: { params: Promis
               <span className="mx-1.5">/</span>
               <Link href={`/${locale}/guides`} className="hover:text-white">{ui.guides}</Link>
             </nav>
-            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white leading-tight drop-shadow">{pick(g.title, locale)}</h1>
+            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white leading-tight drop-shadow">{pick(g.title, locale)}</h1>
           </div>
         </div>
       </section>
 
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-12">
-        <p className="text-gray-700 text-lg leading-relaxed">{pick(g.intro, locale)}</p>
+        <p className="text-slate text-lg leading-relaxed">{pick(g.intro, locale)}</p>
 
         {/* Warning signs */}
         <section>
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-2">⚠️ {pick(g.signs.title, locale)}</h2>
-          <p className="text-gray-600 mb-5">{pick(g.signs.intro, locale)}</p>
+          <h2 className="text-2xl font-bold text-ink mb-2">⚠️ {pick(g.signs.title, locale)}</h2>
+          <p className="text-slate mb-5">{pick(g.signs.intro, locale)}</p>
           <div className="grid sm:grid-cols-2 gap-5">
-            <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-5">
-              <h3 className="font-extrabold text-gray-900 mb-3">{ui.dogs}</h3>
-              <ul className="space-y-2">{g.signs.dogItems.map((it, i) => (<li key={i} className="text-sm text-gray-700 flex items-start gap-2"><span className="text-red-500 mt-0.5">•</span>{pick(it, locale)}</li>))}</ul>
+            <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
+              <h3 className="font-bold text-ink mb-3">{ui.dogs}</h3>
+              <ul className="space-y-2">{g.signs.dogItems.map((it, i) => (<li key={i} className="text-sm text-slate flex items-start gap-2"><span className="text-red-500 mt-0.5">•</span>{pick(it, locale)}</li>))}</ul>
             </div>
-            <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-5">
-              <h3 className="font-extrabold text-gray-900 mb-3">{ui.cats}</h3>
-              <ul className="space-y-2">{g.signs.catItems.map((it, i) => (<li key={i} className="text-sm text-gray-700 flex items-start gap-2"><span className="text-red-500 mt-0.5">•</span>{pick(it, locale)}</li>))}</ul>
+            <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
+              <h3 className="font-bold text-ink mb-3">{ui.cats}</h3>
+              <ul className="space-y-2">{g.signs.catItems.map((it, i) => (<li key={i} className="text-sm text-slate flex items-start gap-2"><span className="text-red-500 mt-0.5">•</span>{pick(it, locale)}</li>))}</ul>
             </div>
           </div>
         </section>
 
         {/* First aid */}
-        <section className="bg-red-50 border border-red-200 rounded-2xl p-6">
+        <section className="bg-red-50 border-[1.6px] border-red-200 rounded-[22px] p-6">
           <p className="text-xs font-bold uppercase tracking-widest text-red-700 mb-1">🚨 {ui.emergency}</p>
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-2">{pick(g.firstAid.title, locale)}</h2>
-          <p className="text-gray-700 mb-4">{pick(g.firstAid.intro, locale)}</p>
+          <h2 className="text-2xl font-bold text-ink mb-2">{pick(g.firstAid.title, locale)}</h2>
+          <p className="text-slate mb-4">{pick(g.firstAid.intro, locale)}</p>
           <ol className="space-y-3">
             {g.firstAid.steps.map((s, i) => (
               <li key={i} className="flex items-start gap-3">
-                <span className="flex-shrink-0 w-7 h-7 rounded-full bg-red-600 text-white text-sm font-black flex items-center justify-center">{i + 1}</span>
-                <span className="text-gray-800 leading-relaxed pt-0.5">{pick(s, locale)}</span>
+                <span className="flex-shrink-0 w-7 h-7 rounded-full bg-red-600 text-white text-sm font-bold flex items-center justify-center">{i + 1}</span>
+                <span className="text-ink leading-relaxed pt-0.5">{pick(s, locale)}</span>
               </li>
             ))}
           </ol>
@@ -157,50 +157,50 @@ export default async function HeatwavePetSafetyPage({ params }: { params: Promis
 
         {/* Prevention */}
         <section>
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{pick(g.prevention.title, locale)}</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">{pick(g.prevention.title, locale)}</h2>
           <div className="grid sm:grid-cols-2 gap-4">
             {g.prevention.tips.map((t, i) => (
-              <div key={i} className="bg-white rounded-xl border border-gray-100 shadow-sm p-4">
-                <h3 className="font-bold text-gray-900">{t.emoji} {pick(t.title, locale)}</h3>
-                <p className="text-sm text-gray-600 mt-1 leading-relaxed">{pick(t.text, locale)}</p>
+              <div key={i} className="bg-white rounded-xl border border-line p-4">
+                <h3 className="font-bold text-ink">{t.emoji} {pick(t.title, locale)}</h3>
+                <p className="text-sm text-slate mt-1 leading-relaxed">{pick(t.text, locale)}</p>
               </div>
             ))}
           </div>
         </section>
 
         {/* At risk */}
-        <section className="bg-amber-50 border border-amber-100 rounded-2xl p-6">
-          <h2 className="text-xl font-extrabold text-gray-900 mb-2">🐾 {pick(g.atRisk.title, locale)}</h2>
-          <p className="text-gray-700 leading-relaxed">{pick(g.atRisk.text, locale)}</p>
+        <section className="bg-lime/30 border-[1.6px] border-ink rounded-[22px] p-6">
+          <h2 className="text-xl font-bold text-ink mb-2">🐾 {pick(g.atRisk.title, locale)}</h2>
+          <p className="text-slate leading-relaxed">{pick(g.atRisk.text, locale)}</p>
         </section>
 
         {/* Cool destinations */}
         <section>
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-2">❄️ {pick(g.cool.title, locale)}</h2>
-          <p className="text-gray-600 mb-5">{pick(g.cool.intro, locale)}</p>
+          <h2 className="text-2xl font-bold text-ink mb-2">❄️ {pick(g.cool.title, locale)}</h2>
+          <p className="text-slate mb-5">{pick(g.cool.intro, locale)}</p>
           <div className="grid sm:grid-cols-2 gap-4">
             {g.cool.items.map((c, i) => (
-              <Link key={i} href={`/${locale}/destinations/${c.slug}`} className="group bg-white rounded-xl border border-blue-100 shadow-sm hover:shadow-md transition-shadow p-4 flex flex-col">
-                <h3 className="font-extrabold text-gray-900">{c.name}</h3>
-                <p className="text-[11px] font-semibold uppercase tracking-wide text-blue-600">{pick(c.region, locale)}</p>
-                <p className="text-sm text-gray-600 mt-2 leading-relaxed flex-1">{pick(c.note, locale)}</p>
-                <span className="text-sm font-bold text-blue-600 group-hover:text-blue-800 mt-3">{ui.see}</span>
+              <Link key={i} href={`/${locale}/destinations/${c.slug}`} className="group bg-white rounded-xl border border-line transition-shadow p-4 flex flex-col">
+                <h3 className="font-bold text-ink">{c.name}</h3>
+                <p className="text-[11px] font-semibold uppercase tracking-wide text-electric">{pick(c.region, locale)}</p>
+                <p className="text-sm text-slate mt-2 leading-relaxed flex-1">{pick(c.note, locale)}</p>
+                <span className="text-sm font-bold text-electric group-hover:text-electric mt-3">{ui.see}</span>
               </Link>
             ))}
           </div>
-          <Link href={`/${locale}/guides/cool-summer-with-dog`} className="inline-block mt-5 text-sm font-semibold text-blue-600 hover:text-blue-800">{ui.coolGuide}</Link>
+          <Link href={`/${locale}/guides/cool-summer-with-dog`} className="inline-block mt-5 text-sm font-semibold text-electric hover:text-ink">{ui.coolGuide}</Link>
         </section>
 
         {/* FAQ */}
         <section>
           <div className="space-y-3">
             {g.faqs.map((f, i) => (
-              <details key={i} className="bg-white rounded-2xl border border-gray-200 shadow-sm group">
-                <summary className="px-6 py-4 font-semibold text-gray-900 cursor-pointer list-none flex items-center justify-between gap-4">
+              <details key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard group">
+                <summary className="px-6 py-4 font-semibold text-ink cursor-pointer list-none flex items-center justify-between gap-4">
                   {pick(f.q, locale)}
-                  <span aria-hidden="true" className="text-gray-500 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
+                  <span aria-hidden="true" className="text-slate group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
                 </summary>
-                <p className="px-6 pb-5 text-gray-600 leading-relaxed">{pick(f.a, locale)}</p>
+                <p className="px-6 pb-5 text-slate leading-relaxed">{pick(f.a, locale)}</p>
               </details>
             ))}
           </div>

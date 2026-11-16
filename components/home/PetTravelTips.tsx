@@ -1,4 +1,12 @@
 import type { Locale } from '@/app/[locale]/dictionaries'
+import { IconShield, IconDog, IconStar } from '@/components/ui/icons'
+
+const TIP_ICON: Record<string, typeof IconStar> = {
+  '📋': IconShield,
+  '🛂': IconShield,
+  '🐕': IconDog,
+  '⭐': IconStar,
+}
 
 interface PetTravelTipsProps {
   locale: Locale
@@ -176,15 +184,17 @@ const headings: Record<string, string> = {
 export default function PetTravelTips({ locale }: PetTravelTipsProps) {
   const localeTips = tips[locale] ?? tips.en
   return (
-    <section className="py-16 bg-white border-t border-gray-100">
+    <section className="py-16 bg-white border-t border-line">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-2xl font-extrabold text-gray-900 mb-10">{headings[locale]}</h2>
+        <h2 className="text-2xl font-bold text-ink mb-10">{headings[locale]}</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           {localeTips.map((tip) => (
-            <div key={tip.title} className="bg-gray-50 rounded-2xl p-6 border border-gray-100">
-              <span className="text-3xl block mb-3">{tip.icon}</span>
-              <h3 className="font-bold text-gray-900 mb-2 text-sm">{tip.title}</h3>
-              <p className="text-gray-500 text-sm leading-relaxed">{tip.text}</p>
+            <div key={tip.title} className="bg-cream rounded-[22px] p-6 border-[1.6px] border-ink">
+              {(() => { const Ic = TIP_ICON[tip.icon] ?? IconStar; return (
+                <span className="inline-flex w-12 h-12 rounded-xl bg-lavender-soft border-[1.6px] border-ink items-center justify-center text-electric mb-3"><Ic className="w-6 h-6" /></span>
+              ) })()}
+              <h3 className="font-bold text-ink mb-2 text-sm">{tip.title}</h3>
+              <p className="text-slate text-sm leading-relaxed">{tip.text}</p>
             </div>
           ))}
         </div>

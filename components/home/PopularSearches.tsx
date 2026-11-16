@@ -38,9 +38,9 @@ const headings: Record<string, string> = {
 
 export default function PopularSearches({ locale }: PopularSearchesProps) {
   return (
-    <section className="py-12 bg-gray-50 border-t border-gray-100">
+    <section className="py-12 bg-cream border-t border-line">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wide mb-5">
+        <h2 className="text-sm font-semibold text-slate uppercase tracking-wide mb-5">
           {headings[locale]}
         </h2>
         <div className="flex flex-wrap gap-2">
@@ -63,7 +63,7 @@ export default function PopularSearches({ locale }: PopularSearchesProps) {
               <Link
                 key={`${s.dest}-${s.cat}`}
                 href={`/${locale}/${s.dest}/${s.cat}`}
-                className="text-sm text-blue-700 hover:text-blue-900 hover:underline bg-white border border-gray-200 rounded-full px-4 py-1.5 transition-colors"
+                className="text-sm text-electric hover:text-electric hover:underline bg-white border-[1.6px] border-ink rounded-full px-4 py-1.5 transition-colors"
               >
                 {label}
               </Link>

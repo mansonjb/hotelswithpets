@@ -45,9 +45,9 @@ export default async function Page({
   const dogProducts = PRODUCTS.filter(p => p.petType === 'dog' || p.petType === 'both')
 
   return (
-    <main className="min-h-screen bg-stone-50">
+    <main className="min-h-screen bg-cream">
       {/* Hero */}
-      <section className="bg-gradient-to-br from-amber-600 via-orange-600 to-rose-700 text-white">
+      <section className="text-white bg-electric">
         <div className="max-w-4xl mx-auto px-4 py-14 sm:py-20">
           <nav className="text-sm text-white/70 mb-6">
             <Link href="/fr" className="hover:text-white">Accueil</Link>
@@ -68,21 +68,21 @@ export default async function Page({
 
       <div className="max-w-4xl mx-auto px-4 py-10 space-y-8">
         {/* Quick links to internal funnels */}
-        <section className="bg-amber-50 border border-amber-200 rounded-2xl p-5">
-          <p className="text-sm text-stone-700 mb-3 font-semibold">
+        <section className="bg-lime/30 border-[1.6px] border-ink rounded-[22px] p-5">
+          <p className="text-sm text-ink mb-3 font-semibold">
             👉 Aussi utile :
           </p>
           <div className="flex flex-wrap gap-2 text-sm">
-            <Link href="/fr/accessoires-chien-chaleur" className="bg-white border border-amber-300 text-amber-900 px-3 py-1.5 rounded-full hover:bg-amber-100">
+            <Link href="/fr/accessoires-chien-chaleur" className="bg-white border border-line text-ink px-3 py-1.5 rounded-full hover:bg-amber-100">
               Spécial canicule →
             </Link>
-            <Link href="/fr/guides/road-trip-chien" className="bg-white border border-stone-300 text-stone-700 px-3 py-1.5 rounded-full hover:bg-stone-100">
+            <Link href="/fr/guides/road-trip-chien" className="bg-white border border-line text-ink px-3 py-1.5 rounded-full hover:bg-lime">
               Road trip avec son chien →
             </Link>
-            <Link href="/fr/guides/dog-beaches-france" className="bg-white border border-stone-300 text-stone-700 px-3 py-1.5 rounded-full hover:bg-stone-100">
+            <Link href="/fr/guides/dog-beaches-france" className="bg-white border border-line text-ink px-3 py-1.5 rounded-full hover:bg-lime">
               Plages canines en France →
             </Link>
-            <Link href="/fr/guides/brittany-pet-friendly-road-trip" className="bg-white border border-stone-300 text-stone-700 px-3 py-1.5 rounded-full hover:bg-stone-100">
+            <Link href="/fr/guides/brittany-pet-friendly-road-trip" className="bg-white border border-line text-ink px-3 py-1.5 rounded-full hover:bg-lime">
               Bretagne en 5 jours →
             </Link>
           </div>
@@ -90,9 +90,9 @@ export default async function Page({
 
         {/* Products */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Notre sélection</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Notre sélection</h2>
           {dogProducts.length === 0 ? (
-            <p className="text-stone-600 italic">
+            <p className="text-slate italic">
               Sélection en cours de constitution - revenez bientôt.
             </p>
           ) : (
@@ -105,15 +105,15 @@ export default async function Page({
         </section>
 
         {/* Methodology */}
-        <section className="bg-white border border-stone-200 rounded-2xl p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Notre méthode</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-3">
+        <section className="bg-white border-[1.6px] border-line rounded-[22px] p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Notre méthode</h2>
+          <p className="text-sm text-ink leading-relaxed mb-3">
             Pour chaque catégorie nous prenons un produit que nous, ou des voyageurs
             réguliers avec leur chien, utilisons effectivement. Critères systématiques :
             note Amazon &gt; 4,3 / 5 sur ≥ 200 avis, marque connue dans l&apos;univers
             pet, prix raisonnable comparé aux concurrents.
           </p>
-          <p className="text-sm text-stone-700 leading-relaxed">
+          <p className="text-sm text-ink leading-relaxed">
             Les liens sont des liens d&apos;affiliation Amazon. Le prix que vous payez
             est identique - Amazon nous reverse une petite commission sur votre achat,
             ce qui finance le travail éditorial du site (vérification des hôtels,

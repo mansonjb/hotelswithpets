@@ -78,25 +78,25 @@ export default function RelatedDestinations({
   if (!showSimilar && !showCountry) return null
 
   return (
-    <section className="py-12 bg-gray-50 border-t border-gray-100">
+    <section className="py-12 bg-cream border-t border-line">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
 
         {/* Section A: Similar destinations (same vibe, different country) */}
         {showSimilar && (
           <div>
             <div className="mb-6">
-              <h2 className="text-xl font-extrabold text-gray-900 mb-2">
+              <h2 className="text-xl font-bold text-ink mb-2">
                 {getSectionTitle('similar', locale, currentCountry, primaryVibe)}
               </h2>
               {vibeLabelLocale && vibeInfo && (
                 <span className={`inline-flex items-center gap-1.5 text-sm font-semibold px-3 py-1 rounded-full text-white ${
-                  primaryVibe === 'beach'    ? 'bg-teal-500' :
-                  primaryVibe === 'island'   ? 'bg-cyan-500' :
-                  primaryVibe === 'mountain' ? 'bg-blue-700' :
-                  primaryVibe === 'historic' ? 'bg-amber-600' :
-                  primaryVibe === 'luxury'   ? 'bg-purple-600' :
-                  primaryVibe === 'coastal'  ? 'bg-sky-500' :
-                  'bg-indigo-600'
+                  primaryVibe === 'beach'    ? 'bg-electric' :
+                  primaryVibe === 'island'   ? 'bg-electric' :
+                  primaryVibe === 'mountain' ? 'bg-electric' :
+                  primaryVibe === 'historic' ? 'bg-coral' :
+                  primaryVibe === 'luxury'   ? 'bg-electric' :
+                  primaryVibe === 'coastal'  ? 'bg-electric' :
+                  'bg-electric'
                 }`}>
                   {vibeInfo.emoji} {vibeLabelLocale}
                 </span>
@@ -123,13 +123,13 @@ export default function RelatedDestinations({
 
         {/* Separator */}
         {showSimilar && showCountry && (
-          <div className="border-t border-gray-200" />
+          <div className="border-t border-line" />
         )}
 
         {/* Section B: More in same country */}
         {showCountry && (
           <div>
-            <h2 className="text-xl font-extrabold text-gray-900 mb-6">
+            <h2 className="text-xl font-bold text-ink mb-6">
               {getSectionTitle('country', locale, currentCountry)}
             </h2>
             <div className="grid grid-cols-2 md:grid-cols-3 gap-4">

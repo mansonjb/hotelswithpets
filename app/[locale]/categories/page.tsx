@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import type { Metadata } from 'next'
 import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
@@ -6,6 +7,7 @@ import categories from '@/data/categories.json'
 import hotels from '@/data/hotels.json'
 import destinations from '@/data/destinations.json'
 import { SITE_URL } from '@/lib/site'
+import { CategoryIcon, IconHotel, IconMap, IconCheck } from '@/components/ui/icons'
 
 export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -52,6 +54,8 @@ function getCategoryDesc(cat: typeof categories[number], locale: Locale): string
   if (locale === 'es' && cat.descriptionEs) return cat.descriptionEs
   return cat.description
 }
+
+const CATEGORY_PHOTOS = new Set(['dog-friendly', 'cat-friendly', 'near-parks', 'luxury', 'beach-access', 'dogs-stay-free'])
 
 function getTopCities(catSlug: string, count = 4): string[] {
   const tally: Record<string, number> = {}
@@ -163,37 +167,37 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }} />
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-cream">
 
       {/* Hero */}
-      <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-20">
+      <section className="text-white py-20 bg-electric border-b-[1.6px] border-ink">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
-            <h1 className="text-4xl lg:text-5xl font-extrabold mb-4">{p.title}</h1>
-            <p className="text-blue-200 text-lg leading-relaxed mb-8">{copy.intro}</p>
+            <h1 className="text-4xl lg:text-5xl font-bold mb-4">{p.title}</h1>
+            <p className="text-lavender text-lg leading-relaxed mb-8">{copy.intro}</p>
             <div className="flex flex-wrap gap-4">
-              <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">🏨 {totalHotels} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : 'hotels'}</span>
-              <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">🗺️ {totalDests} {locale === 'fr' ? 'destinations' : 'destinations'}</span>
-              <span className="bg-white/10 rounded-full px-4 py-1.5 text-sm">✓ {locale === 'fr' ? 'Politiques vérifiées' : locale === 'es' ? 'Políticas verificadas' : locale === 'pt' ? 'Políticas verificadas' : 'Verified policies'}</span>
+              <span className="inline-flex items-center gap-2 bg-white/10 rounded-full px-4 py-1.5 text-sm"><IconHotel className="w-4 h-4" /> {totalHotels} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : 'hotels'}</span>
+              <span className="inline-flex items-center gap-2 bg-white/10 rounded-full px-4 py-1.5 text-sm"><IconMap className="w-4 h-4" /> {totalDests} destinations</span>
+              <span className="inline-flex items-center gap-2 bg-white/10 rounded-full px-4 py-1.5 text-sm"><IconCheck className="w-4 h-4" /> {locale === 'fr' ? 'Politiques vérifiées' : locale === 'es' ? 'Políticas verificadas' : locale === 'pt' ? 'Políticas verificadas' : 'Verified policies'}</span>
             </div>
           </div>
         </div>
       </section>
 
       {/* Why + How, editorial strip */}
-      <section className="bg-white border-b border-gray-100 py-12">
+      <section className="bg-white border-b border-line py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-10">
             <div>
-              <h2 className="text-xl font-extrabold text-gray-900 mb-3">{copy.whyTitle}</h2>
-              <p className="text-gray-600 text-sm leading-relaxed">{copy.whyText}</p>
+              <h2 className="text-xl font-bold text-ink mb-3">{copy.whyTitle}</h2>
+              <p className="text-slate text-sm leading-relaxed">{copy.whyText}</p>
             </div>
             <div>
-              <h2 className="text-xl font-extrabold text-gray-900 mb-3">{copy.howTitle}</h2>
+              <h2 className="text-xl font-bold text-ink mb-3">{copy.howTitle}</h2>
               <ol className="space-y-2">
                 {copy.howItems.map((item, i) => (
-                  <li key={i} className="flex items-start gap-3 text-sm text-gray-600">
-                    <span className="flex-shrink-0 w-5 h-5 rounded-full bg-blue-100 text-blue-700 text-xs font-bold flex items-center justify-center mt-0.5">{i + 1}</span>
+                  <li key={i} className="flex items-start gap-3 text-sm text-slate">
+                    <span className="flex-shrink-0 w-5 h-5 rounded-full bg-lavender text-electric text-xs font-bold flex items-center justify-center mt-0.5">{i + 1}</span>
                     {item}
                   </li>
                 ))}
@@ -207,34 +211,48 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
       <section className="py-14">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {categories.filter((cat) => cat.cityCount > 0).map((cat) => {
+            {categories.filter((cat) => cat.cityCount > 0).map((cat, i) => {
               const hotelCount = hotels.filter((h) => h.categories.includes(cat.slug)).length
               const topCities = getTopCities(cat.slug, 4)
+              // 4 teintes sur une grille 3 colonnes : evite deux cartes de meme couleur superposees
+              const accents = ['bg-lavender-soft', 'bg-lime/40', 'bg-coral/25', 'bg-electric/10']
+              const accent = accents[i % accents.length]
               return (
                 <Link
                   key={cat.slug}
                   href={`/${locale}/categories/${cat.slug}`}
-                  className={`group relative overflow-hidden rounded-2xl bg-gradient-to-br ${cat.gradient} p-8 min-h-[220px] flex flex-col justify-between shadow-md hover:shadow-xl transition-all duration-200 hover:-translate-y-1`}
+                  className={`group relative overflow-hidden rounded-[22px] ${accent} border-[1.6px] border-ink p-8 min-h-[220px] flex flex-col justify-between shadow-hard-sm hover:shadow-hard transition-all duration-200 hover:-translate-y-1`}
                 >
-                  <div className="absolute inset-0 bg-black/10 group-hover:bg-black/0 transition-colors" />
-                  <div className="absolute -right-4 -bottom-4 text-9xl opacity-10 select-none leading-none">{cat.emoji}</div>
-                  <div className="relative">
-                    <span className="text-4xl block mb-3">{cat.emoji}</span>
-                    <h2 className="text-white font-bold text-xl leading-tight mb-1">
+                  <div>
+                    <span className="relative inline-flex w-20 h-20 rounded-2xl overflow-hidden bg-white border-[1.6px] border-ink items-center justify-center text-electric mb-4">
+                      {CATEGORY_PHOTOS.has(cat.slug) ? (
+                        <Image
+                          src={`/category-photos/${cat.slug}.jpg`}
+                          alt=""
+                          fill
+                          sizes="80px"
+                          unoptimized
+                          className="object-cover"
+                        />
+                      ) : (
+                        <CategoryIcon slug={cat.slug} className="w-7 h-7" />
+                      )}
+                    </span>
+                    <h2 className="text-ink font-bold text-xl leading-tight mb-1">
                       {getCategoryName(cat, locale as Locale)}
                     </h2>
-                    <p className="text-white/70 text-sm mb-3">
+                    <p className="text-slate text-sm mb-3">
                       {cat.cityCount} {p.destinations} · {hotelCount} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : 'hotels'}
                     </p>
                     <div className="flex flex-wrap gap-1.5">
                       {topCities.map((city) => (
-                        <span key={city} className="text-white/80 text-[10px] bg-white/15 px-2 py-0.5 rounded-full">{city}</span>
+                        <span key={city} className="text-ink/70 text-[10px] bg-white/70 border border-ink/10 px-2 py-0.5 rounded-full">{city}</span>
                       ))}
                     </div>
                   </div>
-                  <div className="relative mt-4">
-                    <p className="text-white/80 text-sm leading-relaxed mb-4">{getCategoryDesc(cat, locale as Locale)}</p>
-                    <span className="inline-flex items-center gap-1 text-white text-sm font-semibold group-hover:gap-2 transition-all">
+                  <div className="mt-4">
+                    <p className="text-slate text-sm leading-relaxed mb-4">{getCategoryDesc(cat, locale as Locale)}</p>
+                    <span className="inline-flex items-center gap-1 text-electric text-sm font-bold group-hover:gap-2 transition-all">
                       {dict.pages.category.explore} →
                     </span>
                   </div>
@@ -246,14 +264,14 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
       </section>
 
       {/* FAQ */}
-      <section className="py-14 bg-white border-t border-gray-100">
+      <section className="py-14 bg-white border-t border-line">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-2xl font-extrabold text-gray-900 mb-8">{copy.faqTitle}</h2>
+          <h2 className="text-2xl font-bold text-ink mb-8">{copy.faqTitle}</h2>
           <div className="space-y-5">
             {copy.faqs.map((faq, i) => (
-              <div key={i} className="bg-gray-50 rounded-2xl p-6">
-                <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
-                <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+              <div key={i} className="bg-cream rounded-[22px] p-6">
+                <h3 className="font-semibold text-ink mb-2">{faq.q}</h3>
+                <p className="text-slate text-sm leading-relaxed">{faq.a}</p>
               </div>
             ))}
           </div>

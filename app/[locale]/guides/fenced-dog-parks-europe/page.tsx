@@ -1450,8 +1450,8 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       <article className="mx-auto max-w-4xl px-4 py-12 sm:px-6 sm:py-16">
         <header className="mb-12">
           <p className="mb-3 text-xs font-semibold uppercase tracking-widest text-cyan-700">{t.kicker}</p>
-          <h1 className="mb-6 text-4xl font-extrabold leading-tight text-gray-900 sm:text-5xl">{t.h1}</h1>
-          <p className="text-lg leading-relaxed text-gray-700">{t.lede}</p>
+          <h1 className="mb-6 text-4xl font-bold leading-tight text-ink sm:text-5xl">{t.h1}</h1>
+          <p className="text-lg leading-relaxed text-slate">{t.lede}</p>
           <div className="mt-6 grid grid-cols-3 gap-4 rounded-lg bg-cyan-50 p-4 text-sm">
             <div><div className="text-2xl font-bold text-cyan-800">{PARKS.length}</div><div className="text-cyan-900/70">{t.parksLabel}</div></div>
             <div><div className="text-2xl font-bold text-cyan-800">{CITY_COUNT}</div><div className="text-cyan-900/70">{t.citiesLabel}</div></div>
@@ -1460,24 +1460,24 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </header>
 
         <section className="mb-12">
-          <h2 className="mb-4 text-2xl font-bold text-gray-900">{t.introTitle}</h2>
-          {t.introParas.map((p, i) => (<p key={i} className="mb-4 leading-relaxed text-gray-700">{p}</p>))}
+          <h2 className="mb-4 text-2xl font-bold text-ink">{t.introTitle}</h2>
+          {t.introParas.map((p, i) => (<p key={i} className="mb-4 leading-relaxed text-slate">{p}</p>))}
         </section>
 
         <section className="mb-12">
-          <h2 className="mb-3 text-2xl font-bold text-gray-900">{t.countryTitle}</h2>
-          <p className="mb-4 leading-relaxed text-gray-700">{t.countryIntro}</p>
-          <div className="overflow-hidden rounded-lg border border-gray-200">
+          <h2 className="mb-3 text-2xl font-bold text-ink">{t.countryTitle}</h2>
+          <p className="mb-4 leading-relaxed text-slate">{t.countryIntro}</p>
+          <div className="overflow-hidden rounded-lg border border-line">
             <table className="w-full text-sm">
-              <thead className="bg-gray-50 text-left text-gray-600"><tr>
+              <thead className="bg-cream text-left text-slate"><tr>
                 <th className="px-4 py-2 font-medium">{t.countriesLabel}</th>
                 <th className="px-4 py-2 text-right font-medium">{t.parksLabel}</th>
               </tr></thead>
               <tbody className="divide-y divide-gray-100">
                 {COUNTRY_TALLY.slice(0, 10).map(([c, n]) => (
                   <tr key={c}>
-                    <td className="px-4 py-2 text-gray-900">{getLocalizedCountryName(c, l)}</td>
-                    <td className="px-4 py-2 text-right font-mono tabular-nums text-gray-700">{n}</td>
+                    <td className="px-4 py-2 text-ink">{getLocalizedCountryName(c, l)}</td>
+                    <td className="px-4 py-2 text-right font-mono tabular-nums text-slate">{n}</td>
                   </tr>
                 ))}
               </tbody>
@@ -1486,7 +1486,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </section>
 
         <section className="mb-12">
-          <h2 className="mb-6 text-2xl font-bold text-gray-900">{t.listTitle}</h2>
+          <h2 className="mb-6 text-2xl font-bold text-ink">{t.listTitle}</h2>
           <ol className="space-y-5">
             {sorted.map((p, i) => {
               const dest = destinations.find((d) => d.slug === p.citySlug)
@@ -1503,22 +1503,22 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                 l === 'it' ? `Dove dormire vicino a ${p.name}` :
                 `Where to stay near ${p.name}`
               return (
-                <li key={`${p.citySlug}-${p.name}-${i}`} className="rounded-xl border border-gray-200 bg-white shadow-sm transition hover:shadow-md">
+                <li key={`${p.citySlug}-${p.name}-${i}`} className="rounded-xl border border-line bg-white transition ">
                   <Link href={`/${l}/destinations/${p.citySlug}/parks`} className="flex flex-col sm:flex-row">
                     {p.photo && (
-                      <div className="relative h-44 w-full shrink-0 overflow-hidden rounded-t-xl bg-gray-100 sm:h-auto sm:w-56 sm:rounded-l-xl sm:rounded-tr-none">
+                      <div className="relative h-44 w-full shrink-0 overflow-hidden rounded-t-xl bg-lavender-soft sm:h-auto sm:w-56 sm:rounded-l-xl sm:rounded-tr-none">
                         <Image src={p.photo} alt={p.name} fill sizes="(max-width:640px) 100vw, 224px" className="object-cover" />
                       </div>
                     )}
                     <div className="flex-1 p-5">
                       <div className="mb-2 flex flex-wrap items-center gap-2 text-xs">
-                        <span className="rounded-full bg-emerald-100 px-2 py-0.5 font-semibold text-emerald-800">🔒 Fenced</span>
-                        {p.size && <span className="rounded-full bg-gray-100 px-2 py-0.5 text-gray-700">{p.size}</span>}
-                        {p.neighborhood && <span className="rounded-full bg-gray-100 px-2 py-0.5 text-gray-700">{p.neighborhood}</span>}
+                        <span className="rounded-full bg-emerald-100 px-2 py-0.5 font-semibold text-ink">🔒 Fenced</span>
+                        {p.size && <span className="rounded-full bg-lavender-soft px-2 py-0.5 text-slate">{p.size}</span>}
+                        {p.neighborhood && <span className="rounded-full bg-lavender-soft px-2 py-0.5 text-slate">{p.neighborhood}</span>}
                       </div>
-                      <h3 className="mb-1 text-xl font-bold text-gray-900">{p.name}</h3>
-                      <p className="mb-2 text-sm text-gray-500">{dest.flag} {cityName}, {countryName}</p>
-                      <p className="text-sm leading-relaxed text-gray-700">{desc}</p>
+                      <h3 className="mb-1 text-xl font-bold text-ink">{p.name}</h3>
+                      <p className="mb-2 text-sm text-slate">{dest.flag} {cityName}, {countryName}</p>
+                      <p className="text-sm leading-relaxed text-slate">{desc}</p>
                     </div>
                   </Link>
                   <div className="px-5 pb-5 sm:pl-56">
@@ -1531,23 +1531,23 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </section>
 
         <section className="mb-12 rounded-xl bg-cyan-50 p-6 sm:p-8">
-          <h2 className="mb-3 text-2xl font-bold text-gray-900">{t.ctaTitle}</h2>
-          <p className="mb-5 leading-relaxed text-gray-700">{t.ctaDesc}</p>
-          <Link href={`/${l}/destinations`} className="inline-flex rounded-lg bg-cyan-700 px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-cyan-800">{t.ctaButton}</Link>
+          <h2 className="mb-3 text-2xl font-bold text-ink">{t.ctaTitle}</h2>
+          <p className="mb-5 leading-relaxed text-slate">{t.ctaDesc}</p>
+          <Link href={`/${l}/destinations`} className="inline-flex rounded-lg bg-cyan-700 px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-cyan-800">{t.ctaButton}</Link>
         </section>
 
         <section className="mb-12">
-          <h2 className="mb-4 text-2xl font-bold text-gray-900">{t.legalTitle}</h2>
-          {t.legalParas.map((p, i) => (<p key={i} className="mb-3 leading-relaxed text-gray-700">{p}</p>))}
+          <h2 className="mb-4 text-2xl font-bold text-ink">{t.legalTitle}</h2>
+          {t.legalParas.map((p, i) => (<p key={i} className="mb-3 leading-relaxed text-slate">{p}</p>))}
         </section>
 
         <section className="mb-12">
-          <h2 className="mb-6 text-2xl font-bold text-gray-900">{t.faqTitle}</h2>
+          <h2 className="mb-6 text-2xl font-bold text-ink">{t.faqTitle}</h2>
           <div className="space-y-4">
             {t.faqs.map((f, i) => (
-              <details key={i} className="group rounded-lg border border-gray-200 bg-white p-4 open:shadow-sm">
-                <summary className="cursor-pointer list-none font-semibold text-gray-900">{f.q}</summary>
-                <p className="mt-3 leading-relaxed text-gray-700">{f.a}</p>
+              <details key={i} className="group rounded-lg border border-line bg-white p-4 open:shadow-sm">
+                <summary className="cursor-pointer list-none font-semibold text-ink">{f.q}</summary>
+                <p className="mt-3 leading-relaxed text-slate">{f.a}</p>
               </details>
             ))}
           </div>

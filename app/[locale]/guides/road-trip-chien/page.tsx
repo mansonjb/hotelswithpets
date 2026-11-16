@@ -229,21 +229,21 @@ const COPY = {
         icon: '🔒',
         title: 'Caisse de transport sécurisée',
         rating: 'Meilleure protection',
-        ratingColor: 'text-emerald-700 bg-emerald-50 border-emerald-200',
+        ratingColor: 'text-ink bg-lavender-soft border-line',
         text: "Une caisse rigide correctement fixée aux points d'ancrage du coffre ou sangléé est le système le plus sûr. Les parois rigides répartissent les forces d'impact autour du chien. Attention : une caisse simplement posée dans le coffre (non fixée) ne protège pas davantage qu'un chien libre.",
       },
       {
         icon: '🪢',
         title: 'Harnais crash-testé',
         rating: 'Protection correcte si certifié',
-        ratingColor: 'text-amber-700 bg-amber-50 border-amber-200',
+        ratingColor: 'text-ink bg-lime/30 border-line',
         text: "Sur les 11 harnais soumis aux tests du Center for Pet Safety (CPS), un seul a obtenu la certification. La plupart des harnais classiques cèdent au-delà de 40 km/h. Choisissez impérativement un modèle labellisé crash-testé, jamais un harnais de balade adapté.",
       },
       {
         icon: '🚧',
         title: 'Barrière ou filet de séparation',
         rating: 'Protection partielle',
-        ratingColor: 'text-blue-700 bg-blue-50 border-blue-200',
+        ratingColor: 'text-electric bg-lavender-soft border-line',
         text: "Une barrière de coffre empêche le chien d'accéder à l'habitacle mais ne le protège pas lors d'un choc frontal violent : il peut être projeté contre la barrière elle-même. Utile combinée à une caisse, insuffisante seule pour les longs trajets.",
       },
     ],
@@ -405,21 +405,21 @@ const COPY = {
         icon: '🔒',
         title: 'Properly secured crate',
         rating: 'Best protection',
-        ratingColor: 'text-emerald-700 bg-emerald-50 border-emerald-200',
+        ratingColor: 'text-ink bg-lavender-soft border-line',
         text: 'A rigid crate bolted to boot anchor points or properly strapped down is the safest option. Rigid walls distribute crash forces around the dog rather than concentrating them at one point. Important: a crate simply sitting unsecured in the boot offers little better protection than an unrestrained dog.',
       },
       {
         icon: '🪢',
         title: 'Crash-tested harness',
         rating: 'Adequate if certified',
-        ratingColor: 'text-amber-700 bg-amber-50 border-amber-200',
+        ratingColor: 'text-ink bg-lime/30 border-line',
         text: 'Of 11 harnesses tested by the Center for Pet Safety (CPS), only one passed. Most standard harnesses fail above 40 km/h. Always choose a model with a verified crash-test certification, never a repurposed walking harness.',
       },
       {
         icon: '🚧',
         title: 'Boot barrier or cargo net',
         rating: 'Partial protection',
-        ratingColor: 'text-blue-700 bg-blue-50 border-blue-200',
+        ratingColor: 'text-electric bg-lavender-soft border-line',
         text: 'A boot barrier stops your dog accessing the passenger cabin but provides little protection in a frontal crash, the dog can be thrown against the barrier itself. Useful combined with a crate; insufficient alone for long journeys.',
       },
     ],
@@ -575,21 +575,21 @@ const COPY = {
         icon: '🔒',
         title: 'Transportín correctamente fijado',
         rating: 'Mejor protección',
-        ratingColor: 'text-emerald-700 bg-emerald-50 border-emerald-200',
+        ratingColor: 'text-ink bg-lavender-soft border-line',
         text: 'Un transportín rígido atornillado a los puntos de anclaje del maletero o bien asegurado con correas es la opción más segura. Las paredes rígidas distribuyen las fuerzas del impacto alrededor del perro en lugar de concentrarlas en un único punto. Importante: un transportín simplemente apoyado en el maletero sin fijar ofrece apenas más protección que un perro suelto.',
       },
       {
         icon: '🪢',
         title: 'Arnés con crash test certificado',
         rating: 'Protección aceptable si está certificado',
-        ratingColor: 'text-amber-700 bg-amber-50 border-amber-200',
+        ratingColor: 'text-ink bg-lime/30 border-line',
         text: 'De 11 arneses probados por el Center for Pet Safety (CPS), solo uno superó las pruebas. La mayoría de los arneses estándar ceden por encima de los 40 km/h. Elige siempre un modelo con certificación de crash test verificada, nunca un arnés de paseo reconvertido.',
       },
       {
         icon: '🚧',
         title: 'Barrera de maletero o red separadora',
         rating: 'Protección parcial',
-        ratingColor: 'text-blue-700 bg-blue-50 border-blue-200',
+        ratingColor: 'text-electric bg-lavender-soft border-line',
         text: 'Una barrera de maletero impide que el perro acceda al habitáculo, pero ofrece poca protección en un impacto frontal fuerte: el perro puede ser proyectado contra la propia barrera. Útil combinada con un transportín; insuficiente por sí sola en trayectos largos.',
       },
     ],
@@ -744,21 +744,21 @@ const COPY = {
         icon: '🔒',
         title: 'Transportadora correctamente fijado',
         rating: 'MELHOR protección',
-        ratingColor: 'text-emerald-700 bg-emerald-50 border-emerald-200',
+        ratingColor: 'text-ink bg-lavender-soft border-line',
         text: 'Um transportadora rígido atornillado aos puntos de anclaje do maletero o bien asegurado com trelas é a opção mais segura. As paredes rígidas distribuyen as fuerzas do impacto alrededor do cão em lugar de concentrarlas num único punto. Importante: um transportadora simplemente apoyado no maletero sem fijar ofrece apenas mais protección que um cão suelto.',
       },
       {
         icon: '🪢',
         title: 'Arnés com crash test certificado',
         rating: 'Protección aceptable si está certificado',
-        ratingColor: 'text-amber-700 bg-amber-50 border-amber-200',
+        ratingColor: 'text-ink bg-lime/30 border-line',
         text: 'De 11 arneses probados pelo Center for Pet Safety (CPS), só uno superó as pruebas. A maioria dois arneses estándar ceden por encima dois 40 km/h. Elige sempre um modelo com certificación de crash test verificada, nunca um arnés de passeio reconvertido.',
       },
       {
         icon: '🚧',
         title: 'Barrera de maletero o red separadora',
         rating: 'Protección parcial',
-        ratingColor: 'text-blue-700 bg-blue-50 border-blue-200',
+        ratingColor: 'text-electric bg-lavender-soft border-line',
         text: 'Uma barrera de maletero impide que o cão acceda al habitáculo, mas ofrece pouca protección num impacto frontal forte: o cão pode ser proyectado contra a propia barrera. Útil combinada com um transportadora; insuficiente por sí sola em trayectos longos.',
       },
     ],
@@ -914,21 +914,21 @@ const COPY = {
         icon: '🔒',
         title: 'Ordnungsgemäß gesicherte Transportbox',
         rating: 'Bester Schutz',
-        ratingColor: 'text-emerald-700 bg-emerald-50 border-emerald-200',
+        ratingColor: 'text-ink bg-lavender-soft border-line',
         text: 'Eine feste Transportbox, die an den Verzurrösen des Kofferraums verschraubt oder ordentlich festgezurrt ist, bietet den sichersten Schutz. Feste Wände verteilen die Aufprallkräfte um den Hund herum, statt sie an einem Punkt zu konzentrieren. Wichtig: Eine lose im Kofferraum stehende Transportbox bietet kaum mehr Schutz als ein ungesicherter Hund.',
       },
       {
         icon: '🪢',
         title: 'Crashgetestetes Sicherheitsgeschirr',
         rating: 'Ausreichend bei Zertifizierung',
-        ratingColor: 'text-amber-700 bg-amber-50 border-amber-200',
+        ratingColor: 'text-ink bg-lime/30 border-line',
         text: 'Von 11 Sicherheitsgeschirren, die vom Center for Pet Safety (CPS) getestet wurden, bestand nur eines die Prüfung. Die meisten Standardgeschirre versagen oberhalb von 40 km/h. Wählen Sie stets ein Modell mit geprüfter Crashtest-Zertifizierung, niemals ein umfunktioniertes Spaziergeschirr.',
       },
       {
         icon: '🚧',
         title: 'Kofferraum-Trenngitter oder Netz',
         rating: 'Teilweiser Schutz',
-        ratingColor: 'text-blue-700 bg-blue-50 border-blue-200',
+        ratingColor: 'text-electric bg-lavender-soft border-line',
         text: 'Ein Trenngitter hindert den Hund daran, in den Fahrgastraum zu gelangen, bietet bei einem frontalen Aufprall aber kaum Schutz: Der Hund kann gegen das Gitter selbst geschleudert werden. Sinnvoll in Kombination mit einer Transportbox, allein für lange Strecken nicht ausreichend.',
       },
     ],
@@ -1084,21 +1084,21 @@ const COPY = {
         icon: '🔒',
         title: 'Goed vastgezette reisbench',
         rating: 'Beste bescherming',
-        ratingColor: 'text-emerald-700 bg-emerald-50 border-emerald-200',
+        ratingColor: 'text-ink bg-lavender-soft border-line',
         text: 'Een stevige reisbench die is vastgeschroefd aan de bevestigingspunten van de kofferbak of goed is vastgesjord, is de veiligste optie. Stevige wanden verdelen de botsingskrachten rond je hond in plaats van ze op één punt te concentreren. Belangrijk: een reisbench die los in de kofferbak staat, biedt nauwelijks meer bescherming dan een loslopende hond.',
       },
       {
         icon: '🪢',
         title: 'Crashgetest tuigje',
         rating: 'Voldoende indien gecertificeerd',
-        ratingColor: 'text-amber-700 bg-amber-50 border-amber-200',
+        ratingColor: 'text-ink bg-lime/30 border-line',
         text: 'Van de 11 tuigjes die zijn getest door het Center for Pet Safety (CPS), slaagde er slechts één. De meeste standaardtuigjes falen boven de 40 km/u. Kies altijd een model met een geverifieerde crashtestcertificering, nooit een gewoon wandeltuigje.',
       },
       {
         icon: '🚧',
         title: 'Scheidingsrek of net',
         rating: 'Gedeeltelijke bescherming',
-        ratingColor: 'text-blue-700 bg-blue-50 border-blue-200',
+        ratingColor: 'text-electric bg-lavender-soft border-line',
         text: 'Een scheidingsrek voorkomt dat je hond bij de passagiersruimte kan, maar biedt weinig bescherming bij een frontale botsing: je hond kan tegen het rek zelf worden gesmeten. Handig in combinatie met een reisbench; alleen onvoldoende voor lange ritten.',
       },
     ],
@@ -1254,21 +1254,21 @@ const COPY = {
         icon: '🔒',
         title: 'Trasportino correttamente fissato',
         rating: 'Protezione migliore',
-        ratingColor: 'text-emerald-700 bg-emerald-50 border-emerald-200',
+        ratingColor: 'text-ink bg-lavender-soft border-line',
         text: `Un trasportino rigido avvitato ai punti di ancoraggio del bagagliaio o ben assicurato con cinghie è l'opzione più sicura. Le pareti rigide distribuiscono le forze dell'urto attorno al cane invece di concentrarle in un unico punto. Attenzione: un trasportino semplicemente appoggiato nel bagagliaio senza fissaggio offre poca più protezione di un cane libero.`,
       },
       {
         icon: '🪢',
         title: 'Imbracatura testata negli urti',
         rating: 'Adeguata se certificata',
-        ratingColor: 'text-amber-700 bg-amber-50 border-amber-200',
+        ratingColor: 'text-ink bg-lime/30 border-line',
         text: `Delle 11 imbracature testate dal Center for Pet Safety (CPS), solo una ha superato il test. La maggior parte delle imbracature standard cede oltre i 40 km/h. Scegli sempre un modello con certificazione crash-test verificata, mai un'imbracatura da passeggio riadattata.`,
       },
       {
         icon: '🚧',
         title: 'Barriera o rete divisoria per bagagliaio',
         rating: 'Protezione parziale',
-        ratingColor: 'text-blue-700 bg-blue-50 border-blue-200',
+        ratingColor: 'text-electric bg-lavender-soft border-line',
         text: `Una barriera per bagagliaio impedisce al cane di accedere all'abitacolo, ma offre poca protezione in un urto frontale violento: il cane può essere sbalzato contro la barriera stessa. Utile se combinata con un trasportino; insufficiente da sola per i viaggi lunghi.`,
       },
     ],
@@ -1451,22 +1451,22 @@ export default async function RoadTripChienPage({
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
-      <div className="min-h-screen bg-gray-50">
+      <div className="min-h-screen bg-cream">
 
         {/* ── Hero ─────────────────────────────────────────────────────────── */}
-        <section className="bg-gradient-to-br from-slate-900 via-emerald-950 to-teal-900 text-white py-16">
+        <section className="text-white py-16 bg-electric border-b-[1.6px] border-ink">
           <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center gap-2 mb-6">
               <Link href={`/${locale}/guides`} className="text-emerald-300 hover:text-white text-sm transition-colors">
                 ← {copy.breadcrumbGuides}
               </Link>
-              <span className="text-emerald-500 text-sm">/</span>
+              <span className="text-ink text-sm">/</span>
               <span className="text-emerald-400 text-sm">{copy.breadcrumbCurrent}</span>
             </div>
             <span className="inline-flex items-center gap-2 bg-white/10 border border-white/20 rounded-full px-3 py-1 text-xs font-medium mb-5">
               🚗 {copy.badge} · {copy.lastUpdate} {monthYear}
             </span>
-            <h1 className="text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">{copy.hero}</h1>
+            <h1 className="text-3xl lg:text-4xl font-bold mb-4 leading-tight">{copy.hero}</h1>
             <p className="text-emerald-200 text-base leading-relaxed max-w-3xl">{copy.subtitle}</p>
           </div>
         </section>
@@ -1492,16 +1492,16 @@ export default async function RoadTripChienPage({
             .map(asin => PRODUCTS.find(p => p.asin === asin))
             .filter((p): p is NonNullable<typeof p> => Boolean(p))
           return (
-            <section className="bg-amber-50 border-y border-amber-200">
+            <section className="bg-lime/30 border-y border-line">
               <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
                 <div className="text-center mb-8">
-                  <p className="text-sm font-bold uppercase tracking-widest text-amber-700 mb-2">
+                  <p className="text-sm font-bold uppercase tracking-widest text-ink mb-2">
                     🎒 Équipement road-trip
                   </p>
-                  <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mb-2">
+                  <h2 className="text-2xl sm:text-3xl font-bold text-ink mb-2">
                     Les 6 meilleurs sacs et caisses de transport
                   </h2>
-                  <p className="text-stone-600 max-w-2xl mx-auto">
+                  <p className="text-slate max-w-2xl mx-auto">
                     Sac cabine avion, caisse rigide IATA, sac à dos rando, remorque vélo : six
                     options testées pour chaque format de voyage. Liens directs Amazon.fr.
                   </p>
@@ -1514,7 +1514,7 @@ export default async function RoadTripChienPage({
                 <div className="mt-6 text-center">
                   <Link
                     href="/fr/accessoires-chien"
-                    className="inline-block text-sm font-semibold text-amber-700 hover:text-amber-900 underline"
+                    className="inline-block text-sm font-semibold text-ink hover:text-ink underline"
                   >
                     Voir tous nos accessoires chien voyageur →
                   </Link>
@@ -1530,68 +1530,68 @@ export default async function RoadTripChienPage({
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 
           {/* ── Sources note ─────────────────────────────────────────────── */}
-          <div className="bg-blue-50 border border-blue-100 rounded-2xl p-5 mb-10 flex items-start gap-3">
-            <span className="text-blue-500 text-xl flex-shrink-0">🔍</span>
+          <div className="bg-lavender-soft border-[1.6px] border-ink rounded-[22px] p-5 mb-10 flex items-start gap-3">
+            <span className="text-electric text-xl flex-shrink-0">🔍</span>
             <div>
-              <p className="text-xs font-bold text-blue-700 uppercase tracking-widest mb-1">{copy.sources}</p>
-              <p className="text-sm text-blue-800 leading-relaxed">{copy.sourcesText}</p>
+              <p className="text-xs font-bold text-electric uppercase tracking-widest mb-1">{copy.sources}</p>
+              <p className="text-sm text-electric leading-relaxed">{copy.sourcesText}</p>
             </div>
           </div>
 
           {/* ── Pre-departure checklist ───────────────────────────────────── */}
           <section className="mb-12">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-5">{copy.checklistTitle}</h2>
-            <div className="bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
+            <h2 className="text-2xl font-bold text-ink mb-5">{copy.checklistTitle}</h2>
+            <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard overflow-hidden">
               {copy.checklist.map((item, i) => (
                 <div key={i} className={`flex items-start gap-4 p-5 ${i < copy.checklist.length - 1 ? 'border-b border-gray-50' : ''}`}>
                   <span className="text-2xl flex-shrink-0 mt-0.5">{item.icon}</span>
                   <div>
-                    <p className="font-semibold text-gray-900 text-sm">{item.label}</p>
-                    <p className="text-xs text-gray-500 mt-0.5">{item.note}</p>
+                    <p className="font-semibold text-ink text-sm">{item.label}</p>
+                    <p className="text-xs text-slate mt-0.5">{item.note}</p>
                   </div>
-                  <span className="ml-auto flex-shrink-0 text-emerald-500 text-lg mt-0.5">✓</span>
+                  <span className="ml-auto flex-shrink-0 text-ink text-lg mt-0.5">✓</span>
                 </div>
               ))}
             </div>
           </section>
 
           {/* ── Expert tip ───────────────────────────────────────────────── */}
-          <div className="bg-amber-50 border border-amber-100 rounded-2xl p-5 mb-12 flex items-start gap-3">
-            <span className="text-amber-500 text-xl flex-shrink-0">💡</span>
+          <div className="bg-lime/30 border-[1.6px] border-ink rounded-[22px] p-5 mb-12 flex items-start gap-3">
+            <span className="text-ink text-xl flex-shrink-0">💡</span>
             <div>
-              <p className="text-sm font-bold text-amber-800 mb-1">{copy.tipTitle}</p>
-              <p className="text-sm text-amber-800 leading-relaxed">{copy.tipText}</p>
+              <p className="text-sm font-bold text-ink mb-1">{copy.tipTitle}</p>
+              <p className="text-sm text-ink leading-relaxed">{copy.tipText}</p>
             </div>
           </div>
 
           {/* ── Country law table ─────────────────────────────────────────── */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{copy.countryLawTitle}</h2>
-            <div className="overflow-x-auto rounded-2xl border border-gray-100 shadow-sm">
+            <h2 className="text-2xl font-bold text-ink mb-6">{copy.countryLawTitle}</h2>
+            <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink shadow-hard">
               <table className="w-full text-sm">
                 <thead>
-                  <tr className="bg-gray-50 border-b border-gray-100">
-                    <th className="text-left px-4 py-3 font-semibold text-gray-600 text-xs uppercase tracking-wide">{copy.tableHeaderCountry}</th>
-                    <th className="text-left px-4 py-3 font-semibold text-gray-600 text-xs uppercase tracking-wide">{copy.tableHeaderMandatory}</th>
-                    <th className="text-left px-4 py-3 font-semibold text-gray-600 text-xs uppercase tracking-wide hidden sm:table-cell">{copy.tableHeaderFine}</th>
-                    <th className="text-left px-4 py-3 font-semibold text-gray-600 text-xs uppercase tracking-wide hidden md:table-cell">{copy.tableHeaderNotes}</th>
+                  <tr className="bg-cream border-b border-line">
+                    <th className="text-left px-4 py-3 font-semibold text-slate text-xs uppercase tracking-wide">{copy.tableHeaderCountry}</th>
+                    <th className="text-left px-4 py-3 font-semibold text-slate text-xs uppercase tracking-wide">{copy.tableHeaderMandatory}</th>
+                    <th className="text-left px-4 py-3 font-semibold text-slate text-xs uppercase tracking-wide hidden sm:table-cell">{copy.tableHeaderFine}</th>
+                    <th className="text-left px-4 py-3 font-semibold text-slate text-xs uppercase tracking-wide hidden md:table-cell">{copy.tableHeaderNotes}</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-gray-50 bg-white">
                   {RESTRAINT_RULES.map((rule, i) => {
                     const isMandatory = rule.mandatory[lang].startsWith('Y') || rule.mandatory[lang].startsWith('O') || rule.mandatory[lang].startsWith('S') || rule.mandatory[lang].startsWith('J')
                     return (
-                      <tr key={i} className="hover:bg-gray-50 transition-colors">
-                        <td className="px-4 py-4 font-medium text-gray-900">
+                      <tr key={i} className="hover:bg-cream transition-colors">
+                        <td className="px-4 py-4 font-medium text-ink">
                           <span className="mr-2">{rule.flag}</span>{rule.country[lang]}
                         </td>
                         <td className="px-4 py-4">
-                          <span className={`inline-flex items-center gap-1 text-xs font-semibold px-2 py-1 rounded-full ${isMandatory && !rule.mandatory[lang].includes('Recomm') && !rule.mandatory[lang].includes('not') && !rule.mandatory[lang].includes('pas de') && !rule.mandatory[lang].includes('sin') && !rule.mandatory[lang].includes('Empfohlen') ? 'bg-emerald-50 text-emerald-700' : 'bg-gray-100 text-gray-600'}`}>
+                          <span className={`inline-flex items-center gap-1 text-xs font-semibold px-2 py-1 rounded-full ${isMandatory && !rule.mandatory[lang].includes('Recomm') && !rule.mandatory[lang].includes('not') && !rule.mandatory[lang].includes('pas de') && !rule.mandatory[lang].includes('sin') && !rule.mandatory[lang].includes('Empfohlen') ? 'bg-lavender-soft text-ink' : 'bg-lavender-soft text-slate'}`}>
                             {rule.mandatory[lang]}
                           </span>
                         </td>
-                        <td className="px-4 py-4 text-gray-600 hidden sm:table-cell">{rule.fine[lang]}</td>
-                        <td className="px-4 py-4 text-gray-500 text-xs leading-relaxed hidden md:table-cell max-w-xs">{rule.notes[lang]}</td>
+                        <td className="px-4 py-4 text-slate hidden sm:table-cell">{rule.fine[lang]}</td>
+                        <td className="px-4 py-4 text-slate text-xs leading-relaxed hidden md:table-cell max-w-xs">{rule.notes[lang]}</td>
                       </tr>
                     )
                   })}
@@ -1601,8 +1601,8 @@ export default async function RoadTripChienPage({
             {/* Mobile notes */}
             <div className="mt-4 space-y-3 md:hidden">
               {RESTRAINT_RULES.map((rule, i) => (
-                <div key={i} className="bg-white rounded-xl border border-gray-100 p-4 text-xs text-gray-600">
-                  <span className="font-semibold text-gray-900">{rule.flag} {rule.country[lang]}:</span> {rule.notes[lang]}
+                <div key={i} className="bg-white rounded-xl border border-line p-4 text-xs text-slate">
+                  <span className="font-semibold text-ink">{rule.flag} {rule.country[lang]}:</span> {rule.notes[lang]}
                 </div>
               ))}
             </div>
@@ -1610,39 +1610,39 @@ export default async function RoadTripChienPage({
 
           {/* ── Car safety ───────────────────────────────────────────────── */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-3">{copy.safetyTitle}</h2>
-            <p className="text-gray-600 mb-6 leading-relaxed">{copy.safetyIntro}</p>
+            <h2 className="text-2xl font-bold text-ink mb-3">{copy.safetyTitle}</h2>
+            <p className="text-slate mb-6 leading-relaxed">{copy.safetyIntro}</p>
             <div className="space-y-4">
               {copy.safetyOptions.map((opt, i) => (
-                <div key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
+                <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
                   <div className="flex items-start gap-4">
                     <span className="text-3xl flex-shrink-0">{opt.icon}</span>
                     <div className="flex-1">
                       <div className="flex items-center gap-3 flex-wrap mb-2">
-                        <h3 className="font-bold text-gray-900">{opt.title}</h3>
+                        <h3 className="font-bold text-ink">{opt.title}</h3>
                         <span className={`text-xs font-semibold px-2.5 py-1 rounded-full border ${opt.ratingColor}`}>{opt.rating}</span>
                       </div>
-                      <p className="text-sm text-gray-600 leading-relaxed">{opt.text}</p>
+                      <p className="text-sm text-slate leading-relaxed">{opt.text}</p>
                     </div>
                   </div>
                 </div>
               ))}
             </div>
-            <p className="mt-4 text-sm text-gray-500 italic">{copy.safetyCrashNote}</p>
+            <p className="mt-4 text-sm text-slate italic">{copy.safetyCrashNote}</p>
           </section>
 
           {/* ── Journey planning ─────────────────────────────────────────── */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-3">{copy.planningTitle}</h2>
-            <p className="text-gray-600 mb-6 leading-relaxed">{copy.planningIntro}</p>
+            <h2 className="text-2xl font-bold text-ink mb-3">{copy.planningTitle}</h2>
+            <p className="text-slate mb-6 leading-relaxed">{copy.planningIntro}</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               {copy.planningItems.map((item, i) => (
-                <div key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm p-5">
+                <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
                   <div className="flex items-start gap-3">
                     <span className="text-2xl flex-shrink-0">{item.icon}</span>
                     <div>
-                      <h3 className="font-bold text-gray-900 text-sm mb-1">{item.title}</h3>
-                      <p className="text-xs text-gray-600 leading-relaxed">{item.text}</p>
+                      <h3 className="font-bold text-ink text-sm mb-1">{item.title}</h3>
+                      <p className="text-xs text-slate leading-relaxed">{item.text}</p>
                     </div>
                   </div>
                 </div>
@@ -1652,17 +1652,17 @@ export default async function RoadTripChienPage({
 
           {/* ── Border crossings ─────────────────────────────────────────── */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-3">{copy.borderTitle}</h2>
-            <p className="text-gray-600 mb-6 leading-relaxed">{copy.borderIntro}</p>
+            <h2 className="text-2xl font-bold text-ink mb-3">{copy.borderTitle}</h2>
+            <p className="text-slate mb-6 leading-relaxed">{copy.borderIntro}</p>
             <div className="space-y-3">
               {copy.borderItems.map((item, i) => (
-                <div key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm p-5">
+                <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
                   <div className="flex items-start gap-3">
                     <span className="text-2xl flex-shrink-0">{item.flag}</span>
                     <div className="flex-1">
-                      <h3 className="font-bold text-gray-900 text-sm mb-1">{item.zone}</h3>
-                      <p className="text-xs font-medium text-emerald-700 bg-emerald-50 rounded-full px-2.5 py-1 inline-block mb-2">{item.docs}</p>
-                      <p className="text-xs text-gray-600 leading-relaxed">{item.notes}</p>
+                      <h3 className="font-bold text-ink text-sm mb-1">{item.zone}</h3>
+                      <p className="text-xs font-medium text-ink bg-lavender-soft rounded-full px-2.5 py-1 inline-block mb-2">{item.docs}</p>
+                      <p className="text-xs text-slate leading-relaxed">{item.notes}</p>
                     </div>
                   </div>
                 </div>
@@ -1671,7 +1671,7 @@ export default async function RoadTripChienPage({
             <div className="mt-4">
               <Link
                 href={`/${locale}/guides/passeport-animal`}
-                className="inline-flex items-center gap-2 text-sm font-semibold text-blue-600 hover:text-blue-700 bg-blue-50 hover:bg-blue-100 px-4 py-2 rounded-full transition-colors"
+                className="inline-flex items-center gap-2 text-sm font-semibold text-electric hover:text-ink bg-lavender-soft hover:bg-lavender px-4 py-2 rounded-full transition-colors"
               >
                 📔 {lang === 'fr' ? 'Guide complet passeport animal →' : lang === 'es' ? 'Guía completa del pasaporte →' : lang === 'de' ? 'Kompletter Guide zum Heimtierausweis →' : lang === 'nl' ? 'Complete gids over het dierenpaspoort →' : lang === 'it' ? 'Guida completa al passaporto per animali →' : 'Complete pet passport guide →'}
               </Link>
@@ -1680,17 +1680,17 @@ export default async function RoadTripChienPage({
 
           {/* ── Eurotunnel & ferries ──────────────────────────────────────── */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{copy.crossingTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-6">{copy.crossingTitle}</h2>
 
             {/* Eurotunnel */}
-            <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6 mb-6">
-              <h3 className="font-bold text-gray-900 text-lg mb-4 flex items-center gap-2">
+            <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6 mb-6">
+              <h3 className="font-bold text-ink text-lg mb-4 flex items-center gap-2">
                 🚇 {copy.eurotunnelTitle}
               </h3>
               <ul className="space-y-3">
                 {copy.eurotunnelItems.map((item, i) => (
-                  <li key={i} className="flex items-start gap-2 text-sm text-gray-700">
-                    <span className="flex-shrink-0 text-emerald-500 mt-0.5">•</span>
+                  <li key={i} className="flex items-start gap-2 text-sm text-slate">
+                    <span className="flex-shrink-0 text-ink mt-0.5">•</span>
                     <span>{item}</span>
                   </li>
                 ))}
@@ -1698,12 +1698,12 @@ export default async function RoadTripChienPage({
             </div>
 
             {/* Ferries */}
-            <h3 className="font-bold text-gray-700 text-base mb-4">⛴️ {copy.ferriesTitle}</h3>
+            <h3 className="font-bold text-slate text-base mb-4">⛴️ {copy.ferriesTitle}</h3>
             <div className="space-y-4">
               {copy.ferries.map((ferry, i) => (
-                <div key={i} className="bg-white rounded-xl border border-gray-100 shadow-sm p-5">
-                  <h4 className="font-bold text-gray-900 text-sm mb-2">{ferry.name}</h4>
-                  <p className="text-sm text-gray-600 leading-relaxed">{ferry.notes}</p>
+                <div key={i} className="bg-white rounded-xl border border-line p-5">
+                  <h4 className="font-bold text-ink text-sm mb-2">{ferry.name}</h4>
+                  <p className="text-sm text-slate leading-relaxed">{ferry.notes}</p>
                 </div>
               ))}
             </div>
@@ -1711,14 +1711,14 @@ export default async function RoadTripChienPage({
 
           {/* ── First aid kit ─────────────────────────────────────────────── */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-6">{copy.firstAidTitle}</h2>
-            <div className="bg-white rounded-2xl border border-gray-100 shadow-sm overflow-hidden">
+            <h2 className="text-2xl font-bold text-ink mb-6">{copy.firstAidTitle}</h2>
+            <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard overflow-hidden">
               {copy.firstAidItems.map((item, i) => (
                 <div key={i} className={`flex items-start gap-4 p-4 ${i < copy.firstAidItems.length - 1 ? 'border-b border-gray-50' : ''}`}>
                   <span className="text-xl flex-shrink-0 mt-0.5">{item.icon}</span>
                   <div>
-                    <p className="font-semibold text-gray-900 text-sm">{item.item}</p>
-                    <p className="text-xs text-gray-500 mt-0.5">{item.note}</p>
+                    <p className="font-semibold text-ink text-sm">{item.item}</p>
+                    <p className="text-xs text-slate mt-0.5">{item.note}</p>
                   </div>
                 </div>
               ))}
@@ -1727,26 +1727,26 @@ export default async function RoadTripChienPage({
 
           {/* ── FAQ ───────────────────────────────────────────────────────── */}
           <section className="mb-14">
-            <h2 className="text-2xl font-extrabold text-gray-900 mb-8">{copy.faqTitle}</h2>
+            <h2 className="text-2xl font-bold text-ink mb-8">{copy.faqTitle}</h2>
             <div className="space-y-4">
               {copy.faqs.map((faq, i) => (
-                <div key={i} className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
-                  <h3 className="font-semibold text-gray-900 mb-2">{faq.q}</h3>
-                  <p className="text-gray-600 text-sm leading-relaxed">{faq.a}</p>
+                <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+                  <h3 className="font-semibold text-ink mb-2">{faq.q}</h3>
+                  <p className="text-slate text-sm leading-relaxed">{faq.a}</p>
                 </div>
               ))}
             </div>
           </section>
 
           {/* ── Internal links ────────────────────────────────────────────── */}
-          <section className="mb-8 bg-white rounded-2xl border border-gray-100 shadow-sm p-6">
-            <h2 className="text-lg font-bold text-gray-900 mb-4">{copy.relatedTitle}</h2>
+          <section className="mb-8 bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+            <h2 className="text-lg font-bold text-ink mb-4">{copy.relatedTitle}</h2>
             <div className="flex flex-wrap gap-3">
               {copy.relatedItems.map((item, i) => (
                 <Link
                   key={i}
                   href={`/${locale}/guides/${item.href}`}
-                  className="inline-flex items-center gap-2 text-sm font-medium bg-gray-50 border border-gray-200 hover:border-blue-300 hover:bg-blue-50 text-gray-700 hover:text-blue-700 px-4 py-2 rounded-full transition-all shadow-sm"
+                  className="inline-flex items-center gap-2 text-sm font-medium bg-cream border border-line hover:border-ink hover:bg-lavender-soft text-slate hover:text-ink px-4 py-2 rounded-full transition-all "
                 >
                   {item.label} →
                 </Link>

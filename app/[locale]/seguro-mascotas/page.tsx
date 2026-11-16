@@ -396,33 +396,32 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   }
 
   return (
-    <main className="min-h-screen bg-stone-50">
+    <main className="min-h-screen bg-cream">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
 
       {/* ── Hero ── */}
-      <section className="relative overflow-hidden bg-gradient-to-br from-sky-800 via-blue-800 to-indigo-900 text-white">
-        <div className="absolute inset-0 opacity-20 pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle at 20% 20%, white 1px, transparent 1px)', backgroundSize: '28px 28px' }} />
+      <section className="relative overflow-hidden bg-electric text-white">
         <div className="relative max-w-5xl mx-auto px-4 py-16 sm:py-24">
           <nav className="text-sm text-white/70 mb-6">
             <Link href="/es" className="hover:text-white">Inicio</Link>
             <span className="mx-2">/</span>
             <span className="text-white">Seguro de mascotas</span>
           </nav>
-          <span className="inline-block text-xs font-semibold tracking-wide uppercase bg-white/15 border border-white/20 rounded-full px-3 py-1 mb-5">
+          <span className="eyebrow inline-block bg-lime text-ink border-[1.6px] border-ink rounded-full px-3 py-1.5 mb-5">
             Comparativa independiente · actualizado en {UPDATED}
           </span>
-          <h1 className="text-3xl sm:text-5xl font-bold leading-tight mb-5 max-w-3xl">
+          <h1 className="text-4xl sm:text-6xl font-bold leading-[1.05] mb-5 max-w-3xl">
             Mejores seguros para mascotas 2026
           </h1>
-          <p className="text-lg text-sky-50 max-w-2xl mb-8">
+          <p className="text-lg text-white/85 max-w-2xl mb-8">
             La guía completa del seguro para perros y gatos en España: responsabilidad
             civil (ahora obligatoria para los perros), salud, reembolsos, carencias,
             precios y exclusiones de las 10 principales aseguradoras, y cómo elegir
             sin equivocarte.
           </p>
-          <div className="flex flex-wrap gap-x-8 gap-y-3 text-sm text-sky-100">
+          <div className="flex flex-wrap gap-x-8 gap-y-3 text-sm text-white/85">
             <span><strong className="text-white text-lg">10</strong> aseguradoras comparadas</span>
             <span><strong className="text-white text-lg">6</strong> criterios objetivos</span>
             <span><strong className="text-white text-lg">0</strong> opiniones inventadas, todo verificado</span>
@@ -433,14 +432,14 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       <div className="max-w-5xl mx-auto px-4 py-10 space-y-12">
         {/* ── Intro ── */}
         <section className="prose-none">
-          <p className="text-stone-700 leading-relaxed mb-4">
+          <p className="text-slate leading-relaxed mb-4">
             En España cada vez más dueños aseguran a su mascota, y no solo por salud: la Ley
             7/2023 de bienestar animal ha convertido la responsabilidad civil en una obligación
             para los perros. A la vez, los gastos veterinarios suben y una sola operación puede
             costar más que años de prima. El seguro hace justo eso: convierte un gasto imprevisible
             en una cuota mensual previsible, y te cubre frente a los daños que tu perro cause a terceros.
           </p>
-          <p className="text-stone-700 leading-relaxed">
+          <p className="text-slate leading-relaxed">
             El mercado combina aseguradoras digitales (Barkibu) que reembolsan rápido, grandes
             compañías modulares (Mapfre, Caser, AXA, Generali) y mutuas (Santalucía, FIATC). Esta es
             nuestra comparativa completa para acertar.
@@ -448,22 +447,22 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </section>
 
         {/* ── RC obligatoria ── */}
-        <section className="bg-blue-50 border border-blue-200 rounded-2xl p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">¿Es obligatorio el seguro para perros?</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-3">
+        <section className="bg-lavender-soft border border-ink/20 rounded-[22px] p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">¿Es obligatorio el seguro para perros?</h2>
+          <p className="text-sm text-slate leading-relaxed mb-3">
             La <strong>Ley 7/2023 de bienestar animal</strong> (artículo 30.3) establece que los
             dueños de perros deben contratar un seguro de <strong>responsabilidad civil</strong> que
             cubra los daños a terceros, en vigor desde el 29 de septiembre de 2023. Ahora bien, su
             exigencia general depende de un <strong>reglamento todavía pendiente</strong> que fije el
             capital mínimo: mientras no se apruebe, no se sanciona de forma generalizada.
           </p>
-          <p className="text-sm text-stone-700 leading-relaxed mb-3">
+          <p className="text-sm text-slate leading-relaxed mb-3">
             Dos matices importantes: los <strong>perros potencialmente peligrosos (PPP)</strong> ya
             están obligados a tener RC, con un capital mínimo que fija cada comunidad autónoma (es
             habitual ver entre 120.000€ y 180.000€), y algunas comunidades, como <strong>Madrid</strong> o
             el <strong>País Vasco</strong>, ya la exigen para todos los perros.
           </p>
-          <p className="text-sm text-stone-600 leading-relaxed">
+          <p className="text-sm text-slate leading-relaxed">
             Nuestra recomendación: contrata al menos una responsabilidad civil (cuesta pocos euros al
             mes) y valora añadir un plan de salud. Confirma siempre la normativa vigente en tu comunidad.
           </p>
@@ -471,11 +470,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Comparison table ── */}
         <section id="tabla-comparativa" className="scroll-mt-6">
-          <h2 className="text-2xl font-bold text-stone-900 mb-2">La tabla comparativa 2026</h2>
-          <p className="text-sm text-stone-600 mb-5">Las 10 principales aseguradoras de mascotas en España, ordenadas por nuestro análisis editorial de cobertura, precio y experiencia. Haz clic en una aseguradora para abrir su ficha.</p>
-          <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
+          <h2 className="text-2xl font-bold text-ink mb-2">La tabla comparativa 2026</h2>
+          <p className="text-sm text-slate mb-5">Las 10 principales aseguradoras de mascotas en España, ordenadas por nuestro análisis editorial de cobertura, precio y experiencia. Haz clic en una aseguradora para abrir su ficha.</p>
+          <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink shadow-hard">
             <table className="w-full text-sm min-w-[760px] bg-white">
-              <thead className="bg-stone-100 text-stone-700">
+              <thead className="bg-lavender-soft text-slate">
                 <tr>
                   <th className="text-left px-4 py-3 font-semibold w-8">#</th>
                   <th className="text-left px-4 py-3 font-semibold">Aseguradora</th>
@@ -486,93 +485,93 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               </thead>
               <tbody>
                 {INSURERS.map((ins, i) => (
-                  <tr key={ins.name} className="border-t border-stone-100 align-top hover:bg-stone-50">
-                    <td className="px-4 py-4 font-bold text-stone-400">{i + 1}</td>
+                  <tr key={ins.name} className="border-t border-line align-top hover:bg-cream">
+                    <td className="px-4 py-4 font-bold text-slate">{i + 1}</td>
                     <td className="px-4 py-4">
                       <a href={`#ficha-${ins.slug}`} className="flex items-center gap-2.5 group">
                         <BrandLogo src={`/logos/${ins.slug}.png`} name={ins.name} initials={ins.initials} color={ins.color} size={36} />
                         <div>
                           <div className="flex items-center gap-1.5">
-                            <span className="font-bold text-stone-900 group-hover:text-sky-700 group-hover:underline">{ins.name}</span>
-                            {ins.sponsored && (<span className="text-[10px] font-semibold bg-amber-100 text-amber-800 border border-amber-300 px-1.5 py-0.5 rounded-full">Patrocinado</span>)}
+                            <span className="font-bold text-ink group-hover:text-electric group-hover:underline">{ins.name}</span>
+                            {ins.sponsored && (<span className="text-[10px] font-semibold bg-coral/25 text-ink border border-ink/20 px-1.5 py-0.5 rounded-full">Patrocinado</span>)}
                           </div>
-                          <span className="text-xs font-medium text-sky-700">{ins.verdict}</span>
-                          <span className="block text-[11px] text-stone-400 group-hover:text-sky-600">Ver ficha ↓</span>
+                          <span className="text-xs font-medium text-electric">{ins.verdict}</span>
+                          <span className="block text-[11px] text-slate group-hover:text-electric">Ver ficha ↓</span>
                         </div>
                       </a>
                     </td>
-                    <td className="px-4 py-4 text-stone-600">{ins.covered.join(' · ')}</td>
-                    <td className="px-4 py-4 text-stone-700">
+                    <td className="px-4 py-4 text-slate">{ins.covered.join(' · ')}</td>
+                    <td className="px-4 py-4 text-slate">
                       {ins.reimbursement}
-                      {ins.priceFrom && <div className="text-xs text-emerald-700 font-semibold mt-1">{ins.priceFrom}</div>}
+                      {ins.priceFrom && <div className="text-xs text-ink font-semibold mt-1">{ins.priceFrom}</div>}
                     </td>
-                    <td className="px-4 py-4 text-stone-600">{ins.waiting}</td>
+                    <td className="px-4 py-4 text-slate">{ins.waiting}</td>
                   </tr>
                 ))}
               </tbody>
             </table>
           </div>
-          <p className="text-xs text-stone-500 mt-3">Datos orientativos y actualizados en {UPDATED}. Carencias y reembolsos varían por póliza y comunidad. El precio exacto depende de la mascota, la raza, la edad y la modalidad: pide presupuesto y lee las condiciones antes de contratar.</p>
+          <p className="text-xs text-slate mt-3">Datos orientativos y actualizados en {UPDATED}. Carencias y reembolsos varían por póliza y comunidad. El precio exacto depende de la mascota, la raza, la edad y la modalidad: pide presupuesto y lee las condiciones antes de contratar.</p>
         </section>
 
         {/* ── Detailed ranking cards ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">El ranking detallado</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">El ranking detallado</h2>
           <div className="space-y-4">
             {INSURERS.map((ins, i) => (
-              <article key={ins.name} id={`ficha-${ins.slug}`} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5 sm:p-6 scroll-mt-6">
+              <article key={ins.name} id={`ficha-${ins.slug}`} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5 sm:p-6 scroll-mt-6">
                 <div className="flex items-start gap-4">
                   <div className="flex flex-col items-center flex-shrink-0 gap-1">
-                    <span className="text-xs font-bold text-stone-400">#{i + 1}</span>
+                    <span className="text-xs font-bold text-slate">#{i + 1}</span>
                     <BrandLogo src={`/logos/${ins.slug}.png`} name={ins.name} initials={ins.initials} color={ins.color} size={48} />
                   </div>
                   <div className="flex-1 min-w-0">
                     <div className="flex flex-wrap items-center gap-2 mb-0.5">
-                      <h3 className="text-lg font-bold text-stone-900">{ins.name}</h3>
-                      <span className="text-xs font-semibold bg-sky-50 text-sky-700 border border-sky-200 px-2 py-0.5 rounded-full">{ins.verdict}</span>
-                      {ins.sponsored && (<span className="text-xs font-semibold bg-amber-100 text-amber-800 border border-amber-300 px-2 py-0.5 rounded-full">Patrocinado</span>)}
-                      <a href="#tabla-comparativa" className="ml-auto text-xs text-stone-400 hover:text-sky-700 whitespace-nowrap">↑ tabla</a>
+                      <h3 className="text-lg font-bold text-ink">{ins.name}</h3>
+                      <span className="text-xs font-semibold bg-lavender-soft text-electric border border-ink/20 px-2 py-0.5 rounded-full">{ins.verdict}</span>
+                      {ins.sponsored && (<span className="text-xs font-semibold bg-coral/25 text-ink border border-ink/20 px-2 py-0.5 rounded-full">Patrocinado</span>)}
+                      <a href="#tabla-comparativa" className="ml-auto text-xs text-slate hover:text-electric whitespace-nowrap">↑ tabla</a>
                     </div>
-                    <p className="text-sm text-stone-500">{ins.kind}</p>
-                    <p className="text-[13px] font-semibold text-stone-700 mt-1">{ins.tagline}</p>
+                    <p className="text-sm text-slate">{ins.kind}</p>
+                    <p className="text-[13px] font-semibold text-slate mt-1">{ins.tagline}</p>
                   </div>
                 </div>
 
-                <p className="text-sm text-stone-700 leading-relaxed mt-4">{ins.summary}</p>
+                <p className="text-sm text-slate leading-relaxed mt-4">{ins.summary}</p>
 
-                <dl className="grid sm:grid-cols-2 gap-x-6 gap-y-2.5 text-sm mt-4 border-t border-stone-100 pt-4">
-                  <div><dt className="font-semibold text-stone-900">Animales</dt><dd className="text-stone-600">{ins.species}</dd></div>
-                  <div><dt className="font-semibold text-stone-900">Reembolso</dt><dd className="text-stone-600">{ins.reimbursement}</dd></div>
-                  <div><dt className="font-semibold text-stone-900">Responsabilidad civil</dt><dd className="text-stone-600">{ins.rc}</dd></div>
-                  <div><dt className="font-semibold text-stone-900">Modalidades</dt><dd className="text-stone-600">{ins.modalities}</dd></div>
-                  <div className="sm:col-span-2"><dt className="font-semibold text-stone-900">Carencia</dt><dd className="text-stone-600">{ins.waiting}</dd></div>
+                <dl className="grid sm:grid-cols-2 gap-x-6 gap-y-2.5 text-sm mt-4 border-t border-line pt-4">
+                  <div><dt className="font-semibold text-ink">Animales</dt><dd className="text-slate">{ins.species}</dd></div>
+                  <div><dt className="font-semibold text-ink">Reembolso</dt><dd className="text-slate">{ins.reimbursement}</dd></div>
+                  <div><dt className="font-semibold text-ink">Responsabilidad civil</dt><dd className="text-slate">{ins.rc}</dd></div>
+                  <div><dt className="font-semibold text-ink">Modalidades</dt><dd className="text-slate">{ins.modalities}</dd></div>
+                  <div className="sm:col-span-2"><dt className="font-semibold text-ink">Carencia</dt><dd className="text-slate">{ins.waiting}</dd></div>
                 </dl>
 
                 <div className="flex flex-wrap gap-1.5 mt-4">
-                  {ins.covered.map((c) => (<span key={c} className="text-xs bg-emerald-50 text-emerald-800 border border-emerald-100 px-2 py-0.5 rounded-full">✓ {c}</span>))}
+                  {ins.covered.map((c) => (<span key={c} className="text-xs bg-lime/30 text-ink border border-ink/20 px-2 py-0.5 rounded-full">✓ {c}</span>))}
                 </div>
 
                 <div className="grid sm:grid-cols-2 gap-4 mt-4">
-                  <div className="bg-emerald-50/60 border border-emerald-100 rounded-xl p-4">
-                    <p className="text-xs font-bold uppercase tracking-wide text-emerald-800 mb-2">Puntos fuertes</p>
-                    <ul className="space-y-1.5 text-sm text-stone-700">
-                      {ins.pros.map((p) => (<li key={p} className="flex gap-2"><span className="text-emerald-600 flex-shrink-0">✓</span><span>{p}</span></li>))}
+                  <div className="bg-lime/30 border border-ink/20 rounded-xl p-4">
+                    <p className="text-xs font-bold uppercase tracking-wide text-ink mb-2">Puntos fuertes</p>
+                    <ul className="space-y-1.5 text-sm text-slate">
+                      {ins.pros.map((p) => (<li key={p} className="flex gap-2"><span className="text-ink flex-shrink-0">✓</span><span>{p}</span></li>))}
                     </ul>
                   </div>
-                  <div className="bg-amber-50/60 border border-amber-100 rounded-xl p-4">
-                    <p className="text-xs font-bold uppercase tracking-wide text-amber-800 mb-2">A tener en cuenta</p>
-                    <ul className="space-y-1.5 text-sm text-stone-700">
-                      {ins.cons.map((c) => (<li key={c} className="flex gap-2"><span className="text-amber-600 flex-shrink-0">!</span><span>{c}</span></li>))}
+                  <div className="bg-coral/25 border border-ink/20 rounded-xl p-4">
+                    <p className="text-xs font-bold uppercase tracking-wide text-ink mb-2">A tener en cuenta</p>
+                    <ul className="space-y-1.5 text-sm text-slate">
+                      {ins.cons.map((c) => (<li key={c} className="flex gap-2"><span className="text-ink flex-shrink-0">!</span><span>{c}</span></li>))}
                     </ul>
                   </div>
                 </div>
 
-                <p className="text-sm text-stone-700 leading-relaxed mt-4"><span className="font-semibold text-stone-900">Cómo se reembolsa:</span> {ins.claimMethod}</p>
+                <p className="text-sm text-slate leading-relaxed mt-4"><span className="font-semibold text-ink">Cómo se reembolsa:</span> {ins.claimMethod}</p>
                 <div className="flex flex-wrap items-center gap-1.5 mt-3">
-                  <span className="text-xs font-semibold text-stone-500 mr-1">Servicios incluidos:</span>
-                  {ins.extras.map((e) => (<span key={e} className="text-xs bg-sky-50 text-sky-700 border border-sky-100 px-2 py-0.5 rounded-full">{e}</span>))}
+                  <span className="text-xs font-semibold text-slate mr-1">Servicios incluidos:</span>
+                  {ins.extras.map((e) => (<span key={e} className="text-xs bg-lavender-soft text-electric border border-ink/20 px-2 py-0.5 rounded-full">{e}</span>))}
                 </div>
-                <p className="text-sm text-stone-600 leading-relaxed mt-3"><span className="font-semibold text-stone-800">Ideal para:</span> {ins.idealFor}</p>
+                <p className="text-sm text-slate leading-relaxed mt-3"><span className="font-semibold text-ink">Ideal para:</span> {ins.idealFor}</p>
 
                 <a href={ins.url} target="_blank" rel="noopener noreferrer sponsored nofollow" className="inline-flex items-center gap-1.5 text-sm font-bold text-white px-4 py-2 rounded-lg transition-opacity hover:opacity-90 mt-4" style={{ backgroundColor: ins.color }}>
                   Ver {ins.name} y pedir presupuesto →
@@ -584,21 +583,21 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Best-for ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-2">En resumen: la mejor según lo que necesitas</h2>
-          <p className="text-sm text-stone-600 mb-5">Un repaso rápido para ir al grano. Haz clic en una aseguradora para abrir su ficha.</p>
+          <h2 className="text-2xl font-bold text-ink mb-2">En resumen: la mejor según lo que necesitas</h2>
+          <p className="text-sm text-slate mb-5">Un repaso rápido para ir al grano. Haz clic en una aseguradora para abrir su ficha.</p>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {BEST_FOR.map((b) => {
               const match = INSURERS.find((x) => x.name === b.pick)
               return (
-                <div key={b.label} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
+                <div key={b.label} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
                   <div className="text-2xl mb-2" aria-hidden="true">{b.icon}</div>
-                  <p className="text-xs font-semibold uppercase tracking-wide text-stone-500 mb-1">{b.label}</p>
+                  <p className="text-xs font-semibold uppercase tracking-wide text-slate mb-1">{b.label}</p>
                   {match ? (
-                    <a href={`#ficha-${match.slug}`} className="text-lg font-bold text-stone-900 mb-1 inline-block hover:text-sky-700 hover:underline">{b.pick} ↓</a>
+                    <a href={`#ficha-${match.slug}`} className="text-lg font-bold text-ink mb-1 inline-block hover:text-electric hover:underline">{b.pick} ↓</a>
                   ) : (
-                    <p className="text-lg font-bold text-stone-900 mb-1">{b.pick}</p>
+                    <p className="text-lg font-bold text-ink mb-1">{b.pick}</p>
                   )}
-                  <p className="text-sm text-stone-600 leading-relaxed">{b.why}</p>
+                  <p className="text-sm text-slate leading-relaxed">{b.why}</p>
                 </div>
               )
             })}
@@ -607,14 +606,14 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── How to choose ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Cómo elegir en 5 pasos</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Cómo elegir en 5 pasos</h2>
           <ol className="space-y-3">
             {CHOOSE_STEPS.map((s, i) => (
-              <li key={i} className="flex items-start gap-4 bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
-                <span className="flex-shrink-0 w-8 h-8 rounded-full bg-sky-700 text-white font-bold flex items-center justify-center">{i + 1}</span>
+              <li key={i} className="flex items-start gap-4 bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
+                <span className="flex-shrink-0 w-8 h-8 rounded-full bg-electric text-white font-bold flex items-center justify-center">{i + 1}</span>
                 <div>
-                  <h3 className="font-bold text-stone-900 mb-1">{s.title}</h3>
-                  <p className="text-sm text-stone-600 leading-relaxed">{s.text}</p>
+                  <h3 className="font-bold text-ink mb-1">{s.title}</h3>
+                  <p className="text-sm text-slate leading-relaxed">{s.text}</p>
                 </div>
               </li>
             ))}
@@ -623,51 +622,51 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Covered / excluded ── */}
         <section className="grid md:grid-cols-2 gap-5">
-          <div className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-            <h2 className="text-lg font-bold text-stone-900 mb-3">Qué suele cubrir</h2>
-            <ul className="space-y-2 text-sm text-stone-700">
-              {COVERED.map((c) => (<li key={c} className="flex gap-2"><span className="text-emerald-600">✓</span><span>{c}</span></li>))}
+          <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+            <h2 className="text-lg font-bold text-ink mb-3">Qué suele cubrir</h2>
+            <ul className="space-y-2 text-sm text-slate">
+              {COVERED.map((c) => (<li key={c} className="flex gap-2"><span className="text-ink">✓</span><span>{c}</span></li>))}
             </ul>
           </div>
-          <div className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-            <h2 className="text-lg font-bold text-stone-900 mb-3">Qué queda excluido</h2>
-            <ul className="space-y-2 text-sm text-stone-700">
-              {EXCLUDED.map((c) => (<li key={c} className="flex gap-2"><span className="text-rose-500">✗</span><span>{c}</span></li>))}
+          <div className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+            <h2 className="text-lg font-bold text-ink mb-3">Qué queda excluido</h2>
+            <ul className="space-y-2 text-sm text-slate">
+              {EXCLUDED.map((c) => (<li key={c} className="flex gap-2"><span className="text-ink">✗</span><span>{c}</span></li>))}
             </ul>
           </div>
         </section>
 
         {/* ── How reimbursement works ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Cómo funciona el reembolso</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Cómo funciona el reembolso</h2>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
             {CLAIM_STEPS.map((s, i) => (
-              <div key={i} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
-                <span className="inline-flex w-8 h-8 rounded-full bg-sky-700 text-white font-bold items-center justify-center mb-3">{i + 1}</span>
-                <h3 className="font-bold text-stone-900 mb-1">{s.title}</h3>
-                <p className="text-sm text-stone-600 leading-relaxed">{s.text}</p>
+              <div key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
+                <span className="inline-flex w-8 h-8 rounded-full bg-electric text-white font-bold items-center justify-center mb-3">{i + 1}</span>
+                <h3 className="font-bold text-ink mb-1">{s.title}</h3>
+                <p className="text-sm text-slate leading-relaxed">{s.text}</p>
               </div>
             ))}
           </div>
         </section>
 
         {/* ── Is it worth it ── */}
-        <section className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-          <h2 className="text-2xl font-bold text-stone-900 mb-3">¿Merece la pena?</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-5">
+        <section className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+          <h2 className="text-2xl font-bold text-ink mb-3">¿Merece la pena?</h2>
+          <p className="text-sm text-slate leading-relaxed mb-5">
             Depende de cómo afrontarías una factura veterinaria inesperada de cuatro cifras. Las
             consultas de rutina son baratas y previsibles, pero un accidente o una enfermedad grave
             no lo son. Estos son costes orientativos en España sin seguro.
           </p>
-          <div className="overflow-x-auto rounded-xl border border-stone-200">
+          <div className="overflow-x-auto rounded-xl border-[1.6px] border-ink">
             <table className="w-full text-sm">
-              <thead className="bg-stone-100 text-stone-700"><tr><th className="text-left px-4 py-2.5 font-semibold">Tratamiento</th><th className="text-left px-4 py-2.5 font-semibold">Coste orientativo</th></tr></thead>
+              <thead className="bg-lavender-soft text-slate"><tr><th className="text-left px-4 py-2.5 font-semibold">Tratamiento</th><th className="text-left px-4 py-2.5 font-semibold">Coste orientativo</th></tr></thead>
               <tbody>
-                {VET_COSTS.map((v) => (<tr key={v.act} className="border-t border-stone-100"><td className="px-4 py-2.5 text-stone-700">{v.act}</td><td className="px-4 py-2.5 font-semibold text-stone-900">{v.cost}</td></tr>))}
+                {VET_COSTS.map((v) => (<tr key={v.act} className="border-t border-line"><td className="px-4 py-2.5 text-slate">{v.act}</td><td className="px-4 py-2.5 font-semibold text-ink">{v.cost}</td></tr>))}
               </tbody>
             </table>
           </div>
-          <p className="text-sm text-stone-600 leading-relaxed mt-4">
+          <p className="text-sm text-slate leading-relaxed mt-4">
             Si una factura de miles de euros desajustaría tu economía, el seguro suele merecer la
             pena, sobre todo si aseguras joven y fijas una prima baja antes de que aparezca cualquier
             enfermedad. Y la responsabilidad civil, además de barata, es ya una obligación legal.
@@ -675,31 +674,31 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </section>
 
         {/* ── Reimbursement example ── */}
-        <section className="bg-emerald-50 border border-emerald-200 rounded-2xl p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Un ejemplo de reembolso</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-4">
+        <section className="bg-lime/30 border border-ink/20 rounded-[22px] p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Un ejemplo de reembolso</h2>
+          <p className="text-sm text-slate leading-relaxed mb-4">
             Imagina que tu perro se rompe el ligamento cruzado y la cirugía cuesta <strong>2.000€</strong>.
             Tu póliza reembolsa el 80%, con una franquicia de 60€ (aún sin alcanzar) y un límite anual de 2.500€:
           </p>
-          <ul className="space-y-2 text-sm text-stone-800 mb-4">
-            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>Factura veterinaria</span><span className="font-semibold">2.000€</span></li>
-            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>Menos la franquicia</span><span className="font-semibold">- 60€</span></li>
-            <li className="flex justify-between gap-4 border-b border-emerald-100 pb-2"><span>Reembolso del 80% de 1.940€</span><span className="font-semibold text-emerald-700">= 1.552€ devueltos</span></li>
+          <ul className="space-y-2 text-sm text-ink mb-4">
+            <li className="flex justify-between gap-4 border-b border-ink/20 pb-2"><span>Factura veterinaria</span><span className="font-semibold">2.000€</span></li>
+            <li className="flex justify-between gap-4 border-b border-ink/20 pb-2"><span>Menos la franquicia</span><span className="font-semibold">- 60€</span></li>
+            <li className="flex justify-between gap-4 border-b border-ink/20 pb-2"><span>Reembolso del 80% de 1.940€</span><span className="font-semibold text-ink">= 1.552€ devueltos</span></li>
             <li className="flex justify-between gap-4"><span>Tu parte a cargo</span><span className="font-semibold">448€</span></li>
           </ul>
-          <p className="text-xs text-stone-500 leading-relaxed">
+          <p className="text-xs text-slate leading-relaxed">
             El orden del cálculo puede variar según la aseguradora (franquicia por acto o anual, porcentaje aplicado antes o después de la franquicia). Comprueba siempre cómo se calcula en las condiciones de tu póliza.
           </p>
         </section>
 
         {/* ── Common conditions ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Dolencias frecuentes y su coste</h2>
-          <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
+          <h2 className="text-2xl font-bold text-ink mb-5">Dolencias frecuentes y su coste</h2>
+          <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink shadow-hard">
             <table className="w-full text-sm min-w-[640px] bg-white">
-              <thead className="bg-stone-100 text-stone-700"><tr><th className="text-left px-4 py-3 font-semibold">Dolencia</th><th className="text-left px-4 py-3 font-semibold">Coste típico</th><th className="text-left px-4 py-3 font-semibold">Por qué importa</th></tr></thead>
+              <thead className="bg-lavender-soft text-slate"><tr><th className="text-left px-4 py-3 font-semibold">Dolencia</th><th className="text-left px-4 py-3 font-semibold">Coste típico</th><th className="text-left px-4 py-3 font-semibold">Por qué importa</th></tr></thead>
               <tbody>
-                {CONDITIONS.map((c) => (<tr key={c.condition} className="border-t border-stone-100"><td className="px-4 py-3 font-semibold text-stone-900">{c.condition}</td><td className="px-4 py-3 text-emerald-700 font-semibold whitespace-nowrap">{c.cost}</td><td className="px-4 py-3 text-stone-600">{c.note}</td></tr>))}
+                {CONDITIONS.map((c) => (<tr key={c.condition} className="border-t border-line"><td className="px-4 py-3 font-semibold text-ink">{c.condition}</td><td className="px-4 py-3 text-ink font-semibold whitespace-nowrap">{c.cost}</td><td className="px-4 py-3 text-slate">{c.note}</td></tr>))}
               </tbody>
             </table>
           </div>
@@ -707,42 +706,42 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── What affects your premium ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Qué influye en tu prima</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Qué influye en tu prima</h2>
           <div className="grid sm:grid-cols-2 gap-4">
             {FACTORS.map((f) => (
-              <div key={f.factor} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
-                <h3 className="font-bold text-stone-900 mb-1">{f.factor}</h3>
-                <p className="text-sm text-stone-600 leading-relaxed">{f.text}</p>
+              <div key={f.factor} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
+                <h3 className="font-bold text-ink mb-1">{f.factor}</h3>
+                <p className="text-sm text-slate leading-relaxed">{f.text}</p>
               </div>
             ))}
           </div>
         </section>
 
         {/* ── Expensive breeds ── */}
-        <section className="bg-white border border-stone-200 rounded-2xl p-6">
-          <h2 className="text-2xl font-bold text-stone-900 mb-3">Las razas más caras de asegurar</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-3">
+        <section className="bg-white border-[1.6px] border-ink rounded-[22px] p-6">
+          <h2 className="text-2xl font-bold text-ink mb-3">Las razas más caras de asegurar</h2>
+          <p className="text-sm text-slate leading-relaxed mb-3">
             Algunas razas pagan primas más altas porque presentan más riesgos de salud. Es el caso de
             las razas braquicéfalas (bulldog francés, carlino, bulldog inglés), propensas a problemas
             respiratorios, y de las razas grandes (gran danés, pastor alemán, labrador), más expuestas
             a la displasia de cadera y a lesiones de ligamentos.
           </p>
-          <p className="text-sm text-stone-600 leading-relaxed">
+          <p className="text-sm text-slate leading-relaxed">
             Para estos perros, prioriza un límite anual alto y un buen reembolso, y asegúralos jóvenes:
             una predisposición detectada más tarde podría considerarse preexistente y quedar excluida.
           </p>
         </section>
 
         {/* ── When it might not be worth it ── */}
-        <section className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Cuándo quizá no compense</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-4">
+        <section className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Cuándo quizá no compense</h2>
+          <p className="text-sm text-slate leading-relaxed mb-4">
             El seguro no es automático para todo el mundo. Puede compensar menos si:
           </p>
-          <ul className="space-y-2 text-sm text-stone-700">
-            {NOT_WORTH.map((n) => (<li key={n} className="flex gap-2"><span className="text-amber-600 flex-shrink-0">!</span><span>{n}</span></li>))}
+          <ul className="space-y-2 text-sm text-slate">
+            {NOT_WORTH.map((n) => (<li key={n} className="flex gap-2"><span className="text-ink flex-shrink-0">!</span><span>{n}</span></li>))}
           </ul>
-          <p className="text-sm text-stone-600 leading-relaxed mt-4">
+          <p className="text-sm text-slate leading-relaxed mt-4">
             Aun así, asegurar a una mascota joven y sana en un plan de accidentes y enfermedad
             asequible es una protección barata frente a la factura que no puedes prever. Y la RC, recuerda, ya es obligatoria.
           </p>
@@ -750,12 +749,12 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── By profile ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Qué aseguradora según el perfil</h2>
-          <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
+          <h2 className="text-2xl font-bold text-ink mb-5">Qué aseguradora según el perfil</h2>
+          <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink shadow-hard">
             <table className="w-full text-sm min-w-[640px] bg-white">
-              <thead className="bg-stone-100 text-stone-700"><tr><th className="text-left px-4 py-3 font-semibold">Perfil</th><th className="text-left px-4 py-3 font-semibold">Qué priorizar</th><th className="text-left px-4 py-3 font-semibold">Buena opción</th></tr></thead>
+              <thead className="bg-lavender-soft text-slate"><tr><th className="text-left px-4 py-3 font-semibold">Perfil</th><th className="text-left px-4 py-3 font-semibold">Qué priorizar</th><th className="text-left px-4 py-3 font-semibold">Buena opción</th></tr></thead>
               <tbody>
-                {PROFILE_ROWS.map((r) => (<tr key={r.profile} className="border-t border-stone-100"><td className="px-4 py-3 font-semibold text-stone-900">{r.profile}</td><td className="px-4 py-3 text-stone-600">{r.need}</td><td className="px-4 py-3 text-sky-700 font-medium">{r.suggestion}</td></tr>))}
+                {PROFILE_ROWS.map((r) => (<tr key={r.profile} className="border-t border-line"><td className="px-4 py-3 font-semibold text-ink">{r.profile}</td><td className="px-4 py-3 text-slate">{r.need}</td><td className="px-4 py-3 text-electric font-medium">{r.suggestion}</td></tr>))}
               </tbody>
             </table>
           </div>
@@ -763,26 +762,26 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Pricing ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Cuánto cuesta al mes</h2>
-          <div className="overflow-x-auto rounded-2xl border border-stone-200 shadow-sm">
+          <h2 className="text-2xl font-bold text-ink mb-5">Cuánto cuesta al mes</h2>
+          <div className="overflow-x-auto rounded-[22px] border-[1.6px] border-ink shadow-hard">
             <table className="w-full text-sm min-w-[640px] bg-white">
-              <thead className="bg-stone-100 text-stone-700"><tr><th className="text-left px-4 py-3 font-semibold">Tipo de seguro</th><th className="text-left px-4 py-3 font-semibold">Precio orientativo</th><th className="text-left px-4 py-3 font-semibold">Nota</th></tr></thead>
+              <thead className="bg-lavender-soft text-slate"><tr><th className="text-left px-4 py-3 font-semibold">Tipo de seguro</th><th className="text-left px-4 py-3 font-semibold">Precio orientativo</th><th className="text-left px-4 py-3 font-semibold">Nota</th></tr></thead>
               <tbody>
-                {PRICE_ROWS.map((r) => (<tr key={r.profile} className="border-t border-stone-100"><td className="px-4 py-3 font-semibold text-stone-900">{r.profile}</td><td className="px-4 py-3 text-emerald-700 font-semibold whitespace-nowrap">{r.range}</td><td className="px-4 py-3 text-stone-600">{r.note}</td></tr>))}
+                {PRICE_ROWS.map((r) => (<tr key={r.profile} className="border-t border-line"><td className="px-4 py-3 font-semibold text-ink">{r.profile}</td><td className="px-4 py-3 text-ink font-semibold whitespace-nowrap">{r.range}</td><td className="px-4 py-3 text-slate">{r.note}</td></tr>))}
               </tbody>
             </table>
           </div>
-          <p className="text-xs text-stone-500 mt-3">Horquillas orientativas. Tu presupuesto depende de la especie, la raza, la edad, la comunidad y la modalidad elegida.</p>
+          <p className="text-xs text-slate mt-3">Horquillas orientativas. Tu presupuesto depende de la especie, la raza, la edad, la comunidad y la modalidad elegida.</p>
         </section>
 
         {/* ── Mistakes ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Errores que evitar</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Errores que evitar</h2>
           <ul className="space-y-3">
             {MISTAKES.map((m, i) => (
-              <li key={i} className="flex items-start gap-3 bg-white rounded-2xl border border-stone-200 shadow-sm p-4">
-                <span className="text-rose-500 font-bold flex-shrink-0">✗</span>
-                <span className="text-sm text-stone-700 leading-relaxed">{m}</span>
+              <li key={i} className="flex items-start gap-3 bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-4">
+                <span className="text-ink font-bold flex-shrink-0">✗</span>
+                <span className="text-sm text-slate leading-relaxed">{m}</span>
               </li>
             ))}
           </ul>
@@ -790,21 +789,21 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
 
         {/* ── Glossary ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Glosario</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Glosario</h2>
           <div className="grid sm:grid-cols-2 gap-4">
             {GLOSSARY.map((g) => (
-              <div key={g.term} className="bg-white rounded-2xl border border-stone-200 shadow-sm p-5">
-                <h3 className="font-bold text-stone-900 mb-1">{g.term}</h3>
-                <p className="text-sm text-stone-600 leading-relaxed">{g.def}</p>
+              <div key={g.term} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-5">
+                <h3 className="font-bold text-ink mb-1">{g.term}</h3>
+                <p className="text-sm text-slate leading-relaxed">{g.def}</p>
               </div>
             ))}
           </div>
         </section>
 
         {/* ── Travel ── */}
-        <section className="bg-white rounded-2xl border border-stone-200 shadow-sm p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Viajar con tu mascota</h2>
-          <p className="text-sm text-stone-700 leading-relaxed">
+        <section className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Viajar con tu mascota</h2>
+          <p className="text-sm text-slate leading-relaxed">
             Algunas pólizas cubren los gastos veterinarios durante un viaje por la Unión Europea, pero
             no todas, así que revisa la garantía de asistencia en viaje antes de salir. El seguro no
             sustituye a la documentación: el pasaporte europeo para animales y la vacunación antirrábica
@@ -813,9 +812,9 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </section>
 
         {/* ── Verdict ── */}
-        <section className="bg-sky-900 text-white rounded-2xl p-6 sm:p-8">
+        <section className="bg-electric text-white rounded-[22px] p-6 sm:p-8">
           <h2 className="text-2xl font-bold mb-3">Nuestro veredicto</h2>
-          <p className="text-sky-50 leading-relaxed">
+          <p className="text-white/85 leading-relaxed">
             Para la mayoría, Barkibu ofrece la mejor mezcla de experiencia digital y carencias cortas,
             mientras que Caser destaca en salud (sin carencias y con red propia) y Mapfre es la opción
             más modular, incluso para exóticos. Para un perro PPP, Santalucía o FIATC; para el precio
@@ -825,35 +824,35 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
         </section>
 
         {/* ── Methodology ── */}
-        <section className="bg-white border border-stone-200 rounded-2xl p-6">
-          <h2 className="text-xl font-bold text-stone-900 mb-3">Nuestro método</h2>
-          <p className="text-sm text-stone-700 leading-relaxed mb-3">
+        <section className="bg-white border-[1.6px] border-ink rounded-[22px] p-6">
+          <h2 className="text-xl font-bold text-ink mb-3">Nuestro método</h2>
+          <p className="text-sm text-slate leading-relaxed mb-3">
             Comparamos cada aseguradora con seis criterios constantes: amplitud de la cobertura,
             reembolso, límite anual, carencias, exclusiones y calidad del servicio. Cada dato procede
             de comparativas independientes de 2026 y de las condiciones de cada aseguradora. Lo que no
             podemos verificar no se publica.
           </p>
-          <p className="text-sm text-stone-700 leading-relaxed">
+          <p className="text-sm text-slate leading-relaxed">
             El ranking es editorial. Cualquier hueco patrocinado se señala con la etiqueta
             «Patrocinado» y no altera nuestra valoración de las coberturas. Redactado por
             Jean-Baptiste Manson, fundador y editor de HotelsWithPets.com.
           </p>
-          <div className="mt-4 pt-4 border-t border-stone-100">
+          <div className="mt-4 pt-4 border-t border-line">
             <ContactCTA locale="es" variant="advertiser" />
           </div>
         </section>
 
         {/* ── FAQ ── */}
         <section>
-          <h2 className="text-2xl font-bold text-stone-900 mb-5">Preguntas frecuentes</h2>
+          <h2 className="text-2xl font-bold text-ink mb-5">Preguntas frecuentes</h2>
           <div className="space-y-4">
             {FAQ.map((f, i) => (
-              <details key={i} className="bg-white rounded-2xl border border-stone-200 shadow-sm group">
-                <summary className="px-6 py-4 font-semibold text-stone-900 cursor-pointer list-none flex items-center justify-between gap-4">
+              <details key={i} className="bg-white rounded-[22px] border-[1.6px] border-ink shadow-hard group">
+                <summary className="px-6 py-4 font-semibold text-ink cursor-pointer list-none flex items-center justify-between gap-4">
                   <span>{f.q}</span>
-                  <span aria-hidden="true" className="text-stone-500 group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
+                  <span aria-hidden="true" className="text-slate group-open:rotate-180 transition-transform flex-shrink-0">▼</span>
                 </summary>
-                <div className="px-6 pb-5 text-stone-700 text-sm leading-relaxed border-t border-stone-100 pt-4">{f.a}</div>
+                <div className="px-6 pb-5 text-slate text-sm leading-relaxed border-t border-line pt-4">{f.a}</div>
               </details>
             ))}
           </div>

@@ -20,6 +20,22 @@ export const INSURANCE_SLUGS: Record<Locale, string> = {
 
 const SLUG_SET = new Set<string>(Object.values(INSURANCE_SLUGS))
 
+/** Relative href to the insurance ranking page in the given locale. */
+export function insuranceHref(locale: Locale): string {
+  return `/${locale}/${INSURANCE_SLUGS[locale] ?? INSURANCE_SLUGS.en}`
+}
+
+/** Localized short label for linking to the insurance page (nav, footer, cross-links). */
+export const INSURANCE_LABEL: Record<Locale, string> = {
+  en: 'Pet insurance',
+  fr: 'Assurance animaux',
+  es: 'Seguro para mascotas',
+  pt: 'Seguro para animais',
+  de: 'Tierkrankenversicherung',
+  nl: 'Dierenverzekering',
+  it: 'Assicurazione animali',
+}
+
 /** True if a path segment is one of the localized insurance-page slugs. */
 export function isInsuranceSlug(slug: string): boolean {
   return SLUG_SET.has(slug)

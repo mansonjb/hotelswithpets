@@ -7,9 +7,9 @@ import Link from 'next/link'
  */
 export default function AmazonDisclosure() {
   return (
-    <p className="text-xs text-stone-500 leading-relaxed">
+    <p className="text-xs text-slate leading-relaxed">
       Liens sponsorisés Amazon. En savoir plus :{' '}
-      <Link href="/fr/mentions-affiliees" className="text-stone-700 underline hover:text-amber-700">
+      <Link href="/fr/mentions-affiliees" className="text-ink underline hover:text-ink">
         mentions affiliées
       </Link>
       .

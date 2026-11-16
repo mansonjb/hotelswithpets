@@ -31,11 +31,11 @@ export default function ContactCTA({
   const label = isAdv ? t.buttonAdv : t.button
 
   return (
-    <div className={`flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-5 rounded-2xl border px-5 py-4 ${isAdv ? 'bg-sky-50 border-sky-200' : 'bg-stone-100 border-stone-200'}`}>
-      <p className="text-sm text-stone-700 flex-1">{text}</p>
+    <div className={`flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-5 rounded-[22px] border-[1.6px] px-5 py-4 ${isAdv ? 'bg-lavender-soft border-line' : 'bg-lavender-soft border-line'}`}>
+      <p className="text-sm text-ink flex-1">{text}</p>
       <Link
         href={href}
-        className={`inline-flex items-center justify-center gap-1.5 text-sm font-bold px-4 py-2 rounded-lg whitespace-nowrap transition-colors ${isAdv ? 'bg-sky-700 text-white hover:bg-sky-800' : 'bg-stone-900 text-white hover:bg-stone-800'}`}
+        className={`inline-flex items-center justify-center gap-1.5 text-sm font-bold px-4 py-2 rounded-lg whitespace-nowrap transition-colors ${isAdv ? 'bg-electric text-white hover:bg-electric' : 'bg-night text-white hover:bg-stone-800'}`}
       >
         {label} →
       </Link>

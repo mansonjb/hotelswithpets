@@ -8,6 +8,7 @@ import { SITE_URL } from '@/lib/site'
 import { generateDestIntro } from '@/lib/editorial'
 import { getAllCountries, getLocalizedCountryName } from '@/lib/countries'
 import { getLocalizedCityName } from '@/lib/cityNames'
+import { toneFromGradient } from '@/lib/brandTone'
 
 export async function generateStaticParams() {
   return locales.map((locale) => ({ locale }))
@@ -83,29 +84,29 @@ export default async function DestinationsPage({ params }: PageProps<'/[locale]/
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionPageSchema) }} />
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-cream">
       {/* Hero */}
-      <section className="bg-gradient-to-br from-slate-900 via-blue-950 to-indigo-900 text-white py-20">
+      <section className="text-white py-20 bg-electric border-b-[1.6px] border-ink">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-4xl lg:text-5xl font-extrabold mb-4">{p.title}</h1>
-          <p className="text-blue-200 text-lg max-w-2xl mx-auto">{p.subtitle}</p>
+          <h1 className="text-4xl lg:text-5xl font-bold mb-4">{p.title}</h1>
+          <p className="text-lavender text-lg max-w-2xl mx-auto">{p.subtitle}</p>
         </div>
       </section>
 
       {/* Country filter strip */}
-      <section className="bg-white border-b border-gray-100 py-6">
+      <section className="bg-white border-b border-line py-6">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3">{browseByCountry}</p>
+          <p className="text-xs font-semibold text-slate uppercase tracking-wide mb-3">{browseByCountry}</p>
           <div className="flex flex-wrap gap-2">
             {multiCityCountries.map((country) => (
               <Link
                 key={country.slug}
                 href={`/${locale}/countries/${country.slug}`}
-                className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full border border-gray-200 bg-gray-50 hover:bg-blue-50 hover:border-blue-200 text-sm text-gray-700 hover:text-blue-700 transition-colors"
+                className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full border border-line bg-cream hover:bg-lavender-soft hover:border-ink text-sm text-slate hover:text-ink transition-colors"
               >
                 <span>{country.flag}</span>
                 <span className="font-medium">{country.name}</span>
-                <span className="text-gray-500 text-xs">({country.destinations.length})</span>
+                <span className="text-slate text-xs">({country.destinations.length})</span>
               </Link>
             ))}
           </div>
@@ -120,7 +121,7 @@ export default async function DestinationsPage({ params }: PageProps<'/[locale]/
               <Link
                 key={dest.slug}
                 href={`/${locale}/destinations/${dest.slug}`}
-                className={`group relative overflow-hidden rounded-3xl bg-gradient-to-br ${gradients[i % gradients.length]} p-8 min-h-[220px] flex flex-col justify-end shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-1`}
+                className={`group relative overflow-hidden rounded-[28px] ${toneFromGradient(gradients[i % gradients.length])} p-8 min-h-[220px] flex flex-col justify-end shadow-hard hover:shadow-2xl transition-all duration-300 hover:-translate-y-1`}
               >
                 {dest.heroImage && (
                   <Image
@@ -138,7 +139,7 @@ export default async function DestinationsPage({ params }: PageProps<'/[locale]/
                 </div>
                 <div className="relative">
                   <span className="text-5xl mb-3 block">{dest.flag}</span>
-                  <h2 className="text-white font-extrabold text-2xl mb-1">{getLocalizedCityName(dest.slug, dest.name, locale)}</h2>
+                  <h2 className="text-white font-bold text-2xl mb-1">{getLocalizedCityName(dest.slug, dest.name, locale)}</h2>
                   <p className="text-white/70 text-sm mb-1">{getLocalizedCountryName(dest.country, locale)}</p>
                   <p className="text-white/60 text-sm leading-relaxed line-clamp-2 mb-4">
                     {generateDestIntro(dest.slug, getLocalizedCityName(dest.slug, dest.name, locale), getLocalizedCountryName(dest.country, locale), locale) || dest.intro}

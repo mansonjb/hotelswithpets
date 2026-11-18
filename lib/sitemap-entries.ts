@@ -100,6 +100,7 @@ export function sitemapEntriesForLocale(locale: SitemapLocale): SitemapEntry[] {
     'winter-destinations-with-dog-2026',
     'christmas-markets-with-dog',
     'where-to-go-uk-school-holidays-2027',
+    'gps-tracker-dog-tractive-vs-weenect-vs-airtag',
   ]
   const MONTHS = ['january','february','march','april','may','june','july','august','september','october','november','december']
   const ES_CITY_LANDINGS = [

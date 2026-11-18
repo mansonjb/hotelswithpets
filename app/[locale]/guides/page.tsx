@@ -151,6 +151,7 @@ const COPY: Record<string, LocaleCopy> = {
           { slug: 'train-avec-chien', emoji: '🚂', title: 'Travelling by train with your dog', desc: 'SNCF, Deutsche Bahn, Renfe, Trenitalia, fares, muzzle rules, carrier dimensions, how to book. Fact-checked per operator.', tag: 'Transport' },
           { slug: 'eurostar-with-dog', emoji: '🚄', title: 'Eurostar with a dog', desc: 'Service-dog policy, hidden routes via Calais ferry + train, and how to combine Eurotunnel + train across the Channel.', tag: 'Transport' },
           { slug: 'road-trip-chien', emoji: '🚗', title: 'Road tripping with your dog', desc: 'Laws by country, car safety, Eurotunnel, ferries and first-aid kit. Fines and legal obligations.', tag: 'Transport' },
+          { slug: 'gps-tracker-dog-tractive-vs-weenect-vs-airtag', emoji: '📍', title: `Dog GPS tracker: Tractive vs Weenect vs AirTag`, desc: `Which tracker finds a dog that bolts abroad: real-time cellular GPS versus the AirTag, compared on price, battery, range and live tracking.`, tag: 'Gear · new' },
         ],
       },
       hotels: {
@@ -229,6 +230,7 @@ const COPY: Record<string, LocaleCopy> = {
           { slug: 'train-avec-chien', emoji: '🚂', title: `Voyager en train avec son chien`, desc: `SNCF, Deutsche Bahn, Renfe, Trenitalia, tarifs, règles muselière, dimensions transportins, comment réserver. Vérifié par compagnie.`, tag: 'Transport' },
           { slug: 'eurostar-with-dog', emoji: '🚄', title: `Eurostar avec un chien`, desc: `Politique chiens d'assistance, contournements ferry de Calais + train, et comment combiner Eurotunnel + train à travers la Manche.`, tag: 'Transport' },
           { slug: 'road-trip-chien', emoji: '🚗', title: `Road trip avec son chien`, desc: `Lois par pays, sécurité en voiture, Eurotunnel, ferries, trousse de premiers secours. Amendes et obligations légales.`, tag: 'Transport' },
+          { slug: 'gps-tracker-dog-tractive-vs-weenect-vs-airtag', emoji: '📍', title: `Traceur GPS chien : Tractive vs Weenect vs AirTag`, desc: `Quel traceur retrouve un chien en fuite à l'étranger : GPS cellulaire en temps réel face à l'AirTag, comparés sur prix, batterie, portée et suivi en direct.`, tag: 'Équipement · nouveau' },
         ],
       },
       hotels: {
@@ -307,6 +309,7 @@ const COPY: Record<string, LocaleCopy> = {
           { slug: 'train-avec-chien', emoji: '🚂', title: 'Viajar en tren con tu perro', desc: 'SNCF, Deutsche Bahn, Renfe, Trenitalia, tarifas, normas de bozal, dimensiones del transportín, cómo reservar. Verificado por operador.', tag: 'Transporte' },
           { slug: 'eurostar-with-dog', emoji: '🚄', title: 'Eurostar con perro', desc: 'Política de perros de asistencia, rodeos vía ferry de Calais + tren, y cómo combinar Eurotunnel + tren cruzando el Canal.', tag: 'Transporte' },
           { slug: 'road-trip-chien', emoji: '🚗', title: 'Road trip con tu perro', desc: 'Leyes por país, seguridad en el coche, Eurotunnel, ferrys, botiquín. Multas y obligaciones legales.', tag: 'Transporte' },
+          { slug: 'gps-tracker-dog-tractive-vs-weenect-vs-airtag', emoji: '📍', title: `Localizador GPS para perros: Tractive vs Weenect vs AirTag`, desc: `Qué localizador encuentra a un perro que se escapa en el extranjero: GPS celular en tiempo real frente al AirTag, comparados en precio, batería, alcance y seguimiento en directo.`, tag: 'Equipamiento · nuevo' },
         ],
       },
       hotels: {
@@ -385,6 +388,7 @@ const COPY: Record<string, LocaleCopy> = {
           { slug: 'train-avec-chien', emoji: '🚂', title: `Viajar de comboio com o seu cão`, desc: `SNCF, Deutsche Bahn, Renfe, Trenitalia, tarifas, regras de açaime, dimensões de transportadora, como reservar. Verificado por operador.`, tag: 'Transporte' },
           { slug: 'eurostar-with-dog', emoji: '🚄', title: `Eurostar com cão`, desc: `Política de cães de assistência, alternativas via ferry de Calais + comboio, e como combinar Eurotúnel + comboio através do Canal.`, tag: 'Transporte' },
           { slug: 'road-trip-chien', emoji: '🚗', title: `Road trip com o seu cão`, desc: `Leis por país, segurança no carro, Eurotúnel, ferries, kit de primeiros socorros. Multas e obrigações legais.`, tag: 'Transporte' },
+          { slug: 'gps-tracker-dog-tractive-vs-weenect-vs-airtag', emoji: '📍', title: `Localizador GPS para cães: Tractive vs Weenect vs AirTag`, desc: `Que localizador encontra um cão em fuga no estrangeiro: GPS celular em tempo real face ao AirTag, comparados em preço, bateria, alcance e seguimento em direto.`, tag: 'Equipamento · novo' },
         ],
       },
       hotels: {
@@ -463,6 +467,7 @@ const COPY: Record<string, LocaleCopy> = {
           { slug: 'train-avec-chien', emoji: '🚂', title: `Mit dem Zug reisen mit deinem Hund`, desc: `SNCF, Deutsche Bahn, Renfe, Trenitalia, Tarife, Maulkorbregeln, Transportboxmaße, wie man bucht. Pro Anbieter geprüft.`, tag: 'Transport' },
           { slug: 'eurostar-with-dog', emoji: '🚄', title: `Eurostar mit Hund`, desc: `Regeln für Assistenzhunde, versteckte Umwege per Fähre ab Calais + Zug, und wie man Eurotunnel + Zug über den Ärmelkanal kombiniert.`, tag: 'Transport' },
           { slug: 'road-trip-chien', emoji: '🚗', title: `Roadtrip mit deinem Hund`, desc: `Gesetze nach Land, Sicherheit im Auto, Eurotunnel, Fähren und Erste-Hilfe-Set. Bußgelder und gesetzliche Pflichten.`, tag: 'Transport' },
+          { slug: 'gps-tracker-dog-tractive-vs-weenect-vs-airtag', emoji: '📍', title: `GPS-Tracker für Hunde: Tractive vs Weenect vs AirTag`, desc: `Welcher Tracker findet einen Hund, der im Ausland wegläuft: Echtzeit-GPS über Mobilfunk gegen den AirTag, verglichen bei Preis, Akku, Reichweite und Live-Ortung.`, tag: 'Ausrüstung · neu' },
         ],
       },
       hotels: {
@@ -541,6 +546,7 @@ const COPY: Record<string, LocaleCopy> = {
           { slug: 'train-avec-chien', emoji: '🚂', title: `Met de trein reizen met je hond`, desc: `SNCF, Deutsche Bahn, Renfe, Trenitalia, tarieven, muilkorfregels, afmetingen van de reismand, hoe je boekt. Per vervoerder gecontroleerd.`, tag: 'Vervoer' },
           { slug: 'eurostar-with-dog', emoji: '🚄', title: `Eurostar met een hond`, desc: `Beleid voor assistentiehonden, verborgen omwegen via de veerboot vanuit Calais + trein, en hoe je Eurotunnel + trein over het Kanaal combineert.`, tag: 'Vervoer' },
           { slug: 'road-trip-chien', emoji: '🚗', title: `Roadtrip met je hond`, desc: `Wetten per land, veiligheid in de auto, Eurotunnel, veerboten en eerstehulpkit. Boetes en wettelijke verplichtingen.`, tag: 'Vervoer' },
+          { slug: 'gps-tracker-dog-tractive-vs-weenect-vs-airtag', emoji: '📍', title: `GPS-tracker voor honden: Tractive vs Weenect vs AirTag`, desc: `Welke tracker vindt een hond die in het buitenland wegloopt: realtime gsm-GPS versus de AirTag, vergeleken op prijs, batterij, bereik en live volgen.`, tag: 'Uitrusting · nieuw' },
         ],
       },
       hotels: {
@@ -619,6 +625,7 @@ const COPY: Record<string, LocaleCopy> = {
           { slug: 'train-avec-chien', emoji: '🚂', title: `Viaggiare in treno con il tuo cane`, desc: `SNCF, Deutsche Bahn, Renfe, Trenitalia, tariffe, regole sulla museruola, dimensioni del trasportino, come prenotare. Verificato per operatore.`, tag: 'Trasporto' },
           { slug: 'eurostar-with-dog', emoji: '🚄', title: `Eurostar con un cane`, desc: `Politica sui cani d'assistenza, percorsi alternativi via traghetto da Calais + treno, e come combinare Eurotunnel + treno attraverso la Manica.`, tag: 'Trasporto' },
           { slug: 'road-trip-chien', emoji: '🚗', title: `Road trip con il tuo cane`, desc: `Leggi per Paese, sicurezza in auto, Eurotunnel, traghetti e kit di primo soccorso. Multe e obblighi di legge.`, tag: 'Trasporto' },
+          { slug: 'gps-tracker-dog-tractive-vs-weenect-vs-airtag', emoji: '📍', title: `Localizzatore GPS per cani: Tractive vs Weenect vs AirTag`, desc: `Quale localizzatore ritrova un cane in fuga all'estero: GPS cellulare in tempo reale contro l'AirTag, confrontati su prezzo, batteria, portata e tracciamento live.`, tag: 'Attrezzatura · nuovo' },
         ],
       },
       hotels: {
